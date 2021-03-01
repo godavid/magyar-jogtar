@@ -857,7 +857,7 @@ jelenti be az egészségbiztosítási szervnek.
 
 68. § (1) Az egészségbiztosítási szerv az egészségügyi szolgáltatást igénybe vevő, de az egészségügyi szolgáltatásra jogosultak nyilvántartásában nem szereplő személyekről a bejelentési és járulékfizetési kötelezettség teljesítésének ellenőrzése céljából – külön megállapodásban foglaltak szerint – naponta adatot szolgáltat az állami adóhatóságnak.
 
-(2) Az egészségbiztosítási szerv, a munkaügyi hatóság, az állami adó- és vámhatóság a bejelentési kötelezettség ellenőrzése során az Art. szerinti be nem jelentett foglalkoztatás feltárása esetén a jogsértésről szóló határozatának véglegessé válását követően – az adózó bejelentési kötelezettségének önkéntes teljesítése hiányában – az Art. 1. mellékletében foglaltak szerinti bejelentést hivatalból teljesíti.
+(2) Az egészségbiztosítási szerv, a foglalkoztatás-felügyeleti hatóság, az állami adó- és vámhatóság a bejelentési kötelezettség ellenőrzése során az Art. szerinti be nem jelentett foglalkoztatás feltárása esetén a jogsértésről szóló határozatának véglegessé válását követően – az adózó bejelentési kötelezettségének önkéntes teljesítése hiányában – az Art. 1. mellékletében foglaltak szerinti bejelentést hivatalból teljesíti.
 
 (3) Az egészségbiztosítási szerv az egészségügyi szolgáltatásra jogosultak nyilvántartásában nem szereplő, de biztosítotti státuszát okirattal hitelesen igazoló természetes személyre vonatkozóan a biztosítotti jogviszony fennállásának az egészségbiztosítási szerv eljárása során történő tisztázását követően az Art. 1. mellékletében foglaltak szerinti bejelentést hivatalból teljesíti az állami adó- és vámhatóság felé.
 

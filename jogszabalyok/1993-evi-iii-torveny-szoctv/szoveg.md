@@ -346,7 +346,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 - h) a gyermekek otthongondozási díjára, az ápolási díjra jogosult személy adóazonosító jelét;
 - i) azt a tényt, hogy a jogosult részére az ellátás folyósítása a hajléktalan személyekre vonatkozó szabályok szerint történik;
 - j) az ellátás jogosulatlan és rosszhiszemű igénybevételét megállapító végleges döntés esetén az érintett ellátás megnevezését és az ellátás megtérítendő összegét;
-- k) az aktív korúak ellátására jogosult személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok hiányában vagy a jognyilatkozatok alakszerűségére vonatkozó rendelkezések megsértésével végzett keresőtevékenységére (a továbbiakban: jogellenes munkavégzés) vonatkozó törvényben foglalt adatokat.
+- k)
 
 18/B. § (1) A kincstár az ellátásokra való jogosultság fennállásának ellenőrzése céljából országos nyilvántartást vezet
 
@@ -707,7 +707,7 @@ számított tizenkettő hónapon belül benyújtott kérelem alapján állapíth
 - a) akire vonatkozóan az (1) bekezdés a)–g), valamint i) pontja szerinti körülmények valamelyike bekövetkezett,
 - b) aki az aktív korúak ellátására való jogosultság feltételeinek vagy az annak keretében megállapított pénzbeli ellátás összegének felülvizsgálatára irányuló, a 25. § (4)–(6) bekezdése szerinti eljárást akadályozza,
 - c) aki keresőtevékenységet folytat, a keresőtevékenység 121. napjától,
-- d) akire vonatkozóan az aktív korúak ellátására való jogosultság fennállása alatt a munkaügyi hatóság a jogellenes munkavégzés tényét két éven belül ismételten véglegessé vált döntéssel megállapította, vagy
+- d)
 - e) akinek a 36. § (2) bekezdése alapján a foglalkoztatást helyettesítő támogatásra való jogosultságát meg kell szüntetni,
 - f) aki a jogosultságának megszüntetését kéri,
 - g) aki a reá irányadó öregségi nyugdíjkorhatárt betöltötte, a nyugdíjkorhatár betöltése hónapjának utolsó napjával,
@@ -715,7 +715,7 @@ számított tizenkettő hónapon belül benyújtott kérelem alapján állapíth
 
 (3) Az aktív korú személy részére az aktív korúak ellátására való jogosultság a megszüntetéstől számított harminchat hónapon belül – ide nem értve a (2) bekezdés b), d) és e) pontja szerinti megszüntetési eseteket – az előzetes együttműködési kötelezettség teljesítése nélkül ismételten megállapítható, amennyiben a jogosultsági feltételek egyébként fennállnak.
 
-(4) A járási hivatal a jogellenesen munkát végző aktív korúak ellátására jogosult személy ellátásának folyósítását – a munkaügyi hatóságnak a jogsértés tényét első ízben megállapító végleges és végrehajtható határozata alapján, a határozat véglegessé válásáról szóló értesítés megérkezését követő hónap első napjától – egy hónap időtartamra felfüggeszti.
+(4)
 
 (5) A (2) bekezdés f) pontja szerinti esetben az aktív korúak ellátására való jogosultságot a kérelemben megjelölt időponttól, vagy – időpont megjelölésének hiányában – a kérelem benyújtását követő hónap utolsó napjával kell megszüntetni.
 

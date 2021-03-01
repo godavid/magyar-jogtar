@@ -102,7 +102,7 @@ alapvető jogai és kötelezettségei
 
 (4)
 
-(5) A 20. § (11) bekezdésében – a munkaügyi hatóság és a közlekedési hatóságként eljáró fővárosi és megyei kormányhivatal, valamint járási (fővárosi kerületi) hivatal kivételével – felsorolt szervezetek által végrehajtott közúti és telephelyi ellenőrzéssel összefüggő elsőfokú döntéssel szemben fellebbezésnek van helye.
+(5) A 20. § (11) bekezdésében – a foglalkoztatás-felügyeleti hatóság és a közlekedési hatóságként eljáró fővárosi és megyei kormányhivatal, valamint járási (fővárosi kerületi) hivatal kivételével – felsorolt szervezetek által végrehajtott közúti és telephelyi ellenőrzéssel összefüggő elsőfokú döntéssel szemben fellebbezésnek van helye.
 
 (6) A miniszter e törvény szerinti döntésével szemben indított közigazgatási perre a Fővárosi Törvényszék kizárólagosan illetékes.
 
@@ -176,6 +176,8 @@ alapvető jogai és kötelezettségei
 
 - a) a díj megfizetése esetén az ellenőrzésig,
 - b) a díj fizetés elmulasztása esetén a díj- és pótdíjfizetési felszólítás megküldése céljából a 15/D. § (1) bekezdés szerinti jogvesztő határidő eredménytelen elteltének időpontjáig, a várakozási díj- és pótdíjfizetési kötelezettség nem teljesítése esetén a 15/D. § (3) bekezdése szerinti eljárás céljából az eljárás befejezéséig kezelheti.
+
+9/E. § Az útellenőr és a 20/A. § szerinti kezelői ellenőr tevékenysége során a Büntető Törvénykönyvről szóló törvény szempontjából közfeladatot ellátó személynek minősül.
 
 ### A közúti közlekedés fejlesztése
 
@@ -655,7 +657,7 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (1c) Nem alkalmazható közigazgatási szankcióként figyelmeztetés az (1) bekezdés k), m) és o) pontjában felsorolt ügycsoportba tartozó, valamint a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti közlekedésére vonatkozó rendelkezések megsértése miatt az e törvény végrehajtására kiadott kormányrendeletben meghatározott egyes jogsértések miatt indult közigazgatási hatósági eljárásokban.
 
-(2) A bírságolással kapcsolatos eljárás lefolytatására – a (11) bekezdésben meghatározott ellenőrzési jogosultsághoz igazodóan – a közlekedési hatóság, a rendőrség, a vámhatóság, a katasztrófavédelmi hatóság, a munkaügyi hatóság és a közterület-felügyelet (a továbbiakban együtt: eljáró hatóság) jogosult.
+(2) A bírságolással kapcsolatos eljárás lefolytatására – a (11) bekezdésben meghatározott ellenőrzési jogosultsághoz igazodóan – a közlekedési hatóság, a rendőrség, a vámhatóság, a katasztrófavédelmi hatóság, a foglalkoztatás-felügyeleti hatóság és a közterület-felügyelet (a továbbiakban együtt: eljáró hatóság) jogosult.
 
 (2a) A 20. § (1) bekezdés p) pontja szerinti bírságolással kapcsolatos eljárás lefolytatására – a (11) bekezdésben meghatározott ellenőrzési jogosultsághoz igazodóan – a közlekedési hatóság, a rendőrség, a vámhatóság, a katasztrófavédelmi hatóság jogosult.
 
@@ -702,14 +704,14 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
   - bc) az (1) bekezdés a) pontja szerinti, a meghatározott engedélyhez és meghatározott okmány meglétéhez kötött nemzetközi közúti közlekedési szolgáltatás tekintetében és az (1) bekezdés h) pontja szerinti, a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedésének tekintetében közlekedési hatósági jogkörben a Kormány rendeletében meghatározott közút kezelője is,
 - c) az üzemben tartó telephelyén, a fel-, át- és lerakóhelyeken, illetve más, az árukezelés céljából üzemeltetett területen
   - ca) a közlekedési hatóság, a rendőrség, és a vámhatóság,
-  - cb) az (1) bekezdés c) és d) pontja tekintetében külön jogszabály alapján a munkaügyi hatóság is,
+  - cb) az (1) bekezdés c) és d) pontja tekintetében külön jogszabály alapján a foglalkoztatás-felügyeleti hatóság is,
 - d) az (1) bekezdés e) pontja tekintetében – a veszélyes áru szállítójának (fuvarozójának), feladójának, csomagolójának, be- és kirakójának, töltő- és ürítőjének, címzettjének telephelyén is – külön jogszabály alapján a katasztrófavédelmi hatóság és a vámhatóság is,
 - e) az (1) bekezdés k) pontja tekintetében a rendőrség
 - f) az (1) bekezdés kg) pontja tekintetében a közterület-felügyelet is,
 - g) az (1) bekezdés m) pontja tekintetében a rendőrség, a közlekedési hatóság és a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NÚSZ Zrt.),
 - h) az (1) bekezdés n) pontja tekintetében a közlekedési hatóság, a rendőrség, a vámhatóság és a katasztrófavédelmi hatóság, az (1) bekezdés o) pontja tekintetében a közlekedési hatóság
 
-jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közlekedő járműnek az (1) bekezdés c) és d) pontjában meghatározott ellenőrzésébe a munkaügyi hatóság is bevonható.
+jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közlekedő járműnek az (1) bekezdés c) és d) pontjában meghatározott ellenőrzésébe a foglalkoztatás-felügyeleti hatóság is bevonható.
 
 (11a) Az (1) bekezdés k) pontja tekintetében ellenőrzésre jogosult a katonai rendészeti szolgálat is a Magyar Honvédség személyi állománya, valamint a honvédségi gépjárművek vonatkozásában. A katonai rendészeti szolgálat az általa feltárt szabályszegések esetén az ügy iratait megküldi a rendőrség részére.
 
@@ -1278,7 +1280,7 @@ nem terjednek ki.
 
 (3) A (2) bekezdést a szolgáltatásnak a határon átnyúló szolgáltatásnyújtás keretében történő ellátására is alkalmazni kell.
 
-(4) A hulladékká vált jármű bontását a környezetvédelmi hatóság által kiadott veszélyes hulladékkezelési tevékenység végzésére jogosító engedéllyel is rendelkező járműfenntartó (a továbbiakban: regisztrált bontó-hulladékkezelő) végezheti. A (2) bekezdés szerinti bejelentést a veszélyes hulladékkezelési tevékenység engedélyezése iránti kérelemmel egyidejűleg a környezetvédelmi hatóságnál is meg lehet tenni, amely a bejelentést haladéktalanul továbbítja a közlekedési hatósághoz.
+(4) A hulladékká vált jármű bontását a hulladékgazdálkodási hatóság által kiadott veszélyes hulladékkezelési tevékenység végzésére jogosító engedéllyel is rendelkező járműfenntartó (a továbbiakban: regisztrált bontó-hulladékkezelő) végezheti. A (2) bekezdés szerinti bejelentést a veszélyes hulladékkezelési tevékenység engedélyezése iránti kérelemmel egyidejűleg a hulladékgazdálkodási hatóságnál is meg lehet tenni, amely a bejelentést haladéktalanul továbbítja a közlekedési hatósághoz.
 
 (5) A hulladékká vált gépjárművekről szóló kormányrendelet hatálya alá tartozó hulladékká vált jármű bontásához a jármű tulajdonosának kérelmére a közlekedési hatóság által kiadott egyedi engedély szükséges. A regisztrált bontó-hulladékkezelő – a közlekedési hatóság engedélye alapján – a bontási engedély kiadását megelőző vizsgálatban közreműködik. A jármű forgalomból történő végleges kivonását csak a bontási engedély véglegessé válását követően lehet elvégezni.
 
@@ -1680,7 +1682,7 @@ jogcímeken kell elszámolni és befizetni a központi költségvetésbe.
 
 - a) a közút kezelője részére jogszabályban meghatározott feladatok ellátása céljából,
 - b) elkövetett bűncselekmény, szabályszegés vagy szabálysértés, továbbá rendkívüli haláleset miatt indult eljárásban,
-- c) a terrorcselekmények vagy más bűncselekmények megelőzése, felderítése és megszakítása céljából,
+- c) a terrorcselekmények vagy más bűncselekmények és közigazgatási szabályszegések megelőzése, felderítése és megszakítása céljából,
 - d) a nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladatok ellátása céljából,
 - e) a katasztrófavédelmi, tűzvédelmi hatósági feladatok ellátása céljából,
 - f) körözött személy vagy tárgy azonosítása érdekében,
@@ -1698,7 +1700,7 @@ használható fel.
 
 33/E. § Az intelligens közlekedési rendszerek üzemeltetésével és a Nemzeti Hozzáférési Pont működtetésével kapcsolatos követelmények teljesítésének értékelését a miniszter Nemzeti Szervként látja el.
 
-34. § (1) A közút kezelője – az országos és a helyi közutak kezeléséről szóló jogszabályok szerint eljárva – köteles gondoskodni arról, hogy a közút a biztonságos közlekedésre alkalmas, közvetlen környezete esztétikus és kulturált legyen.
+34. § (1) A közút kezelője – az országos és a helyi közutak kezeléséről szóló jogszabályok szerint és az (5)–(8) bekezdésben foglaltakra tekintettel eljárva – köteles gondoskodni arról, hogy a közút a biztonságos közlekedésre alkalmas, közvetlen környezete esztétikus és kulturált legyen.
 
 (2) A közút forgalmi rendjét – ha jogszabály másként nem rendelkezik – a közút kezelője alakítja ki. A forgalmi rendet – a forgalmi körülmények vagy a baleseti helyzet jelentősebb változása esetén, de legalább ötévenként – a közút kezelőjének felül kell vizsgálnia, és ha szükséges, módosítania kell. A közlekedési hatóság – a közlekedés biztonságát sértő vagy veszélyeztető helyzet megszüntetése érdekében – kezdeményezheti a forgalomszabályozás módosítását, vagy a közút kezelőjét a forgalmi rend felülvizsgálatára kötelezheti.
 
@@ -1709,6 +1711,10 @@ használható fel.
 (5) A közút tisztántartásáról a közút kezelője gondoskodik. A közút síkosságmentesítését a Magyarország helyi önkormányzatairól szóló törvény eltérő rendelkezése hiányában a közút kezelője végzi.
 
 (6) Közút mellett, kijelölt pihenőhelyen vagy várakozóhelyen kizárólag az utasforgalomból származó hulladék helyezhető el. Ha közút mellett, kijelölt pihenőhelyen vagy várakozóhelyen nem utasforgalomból származó hulladékot helyeztek el és az ilyen hulladék elhelyezője azonosítható, továbbá a hulladékgazdálkodási bírság kiszabásának lehet helye, a közút kezelője értesíti a bírság kiszabására jogosult, külön jogszabályban meghatározott hatóságot. A közútkezelő a hulladékkezeléssel és az eljárással kapcsolatos költségeit a hulladék elhelyezőjével szemben érvényesíti.
+
+(7) A közút kezelője az ingatlanra lépés helyett technikai eszközt is igénybe vehet a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 6. § (9) bekezdése szerinti tisztántartási kötelezettség teljesítéséről való meggyőződés érdekében, amelyet az ingatlan mindenkori tulajdonosa, vagyonkezelője és birtokosa (használója) tűrni köteles.
+
+(8) A közút kezelője a (7) bekezdés szerinti feladatai ellátása körében a technikai eszköz alkalmazása során rögzített adatok vonatkozásában a 33/D. § alkalmazásával jár el, és jogosult felvétel készítésére. Amennyiben a közút kezelője hulladékot észlel, azt elszállítja és ezt a hulladékról szóló törvény szerint bejelenti, a rendelkezésére álló adatokat továbbítja a hulladékgazdálkodási hatóságnak.
 
 35. § Az út kezelője a kezelői kötelezettségének megszegésével okozott kárt a polgári jog általános szabályai szerint köteles megtéríteni. A kártérítési követelést a kár keletkezését követően haladéktalanul kell a közút kezelőjéhez bejelenteni.
 
@@ -1908,7 +1914,7 @@ szociális előírások ellenőrzése
 
 (3) Feladatainak ellátása során az útellenőr intézkedik, figyelmeztet, a szabálytalan magatartás megszüntetésére felhív, illetőleg büntető, szabálysértési feljelentést tesz, vagy közlekedési hatósági eljárást kezdeményez.
 
-(4) Az útellenőrt fokozott büntetőjogi védelem illeti meg.
+(4)
 
 (5) A külön jogszabály szerinti díjköteles utak díjfizetés ellenében történő használatának ellenőrzésére jogosult szerv, illetve az általa megbízott gazdálkodó szervezet
 
@@ -1977,6 +1983,10 @@ olyan elektronikus ellenőrzési rendszer működtetésére is jogosultak, amely
 - b) – ha a tárgyévet megelőző évben az elektromobilitás szolgáltatónak nem volt, vagy nem teljes évre vonatkozóan volt nettó árbevétele, akkor – a tárgyévre vonatkozó üzleti tervben a bejelentés- vagy engedélyköteles tevékenységből elérni tervezett nettó árbevétel 0,075%-ában
 
 meghatározott összegű felügyeleti díjat fizet.
+
+(5) A Hivatal a feladatai ellátásához szükséges mértékben rendszeres és rendkívüli adatszolgáltatásra kötelezheti az elektromobilitás szolgáltatót és az elektromos töltőberendezés üzemeltetőjét. A rendszeres és rendkívüli adatszolgáltatásra vonatkozó rendelkezéseket, az adatszolgáltatás alóli mentesülés szabályait a Hivatal e törvény végrehajtására kiadott rendeletében határozza meg.
+
+(6) A Hivatal véglegessé vált elektromobilitás szolgáltatásra vonatkozó határozatait – a személyes és védett adatok kivételével – a honlapján közzé teszi.
 
 ### Nemzeti hozzáférési pontra vonatkozó szabályok
 
@@ -2161,7 +2171,7 @@ rendeletben állapítsa meg.
 
 (5b) Felhatalmazást kap a helyi önkormányzat képviselő-testülete – fővárosban a fővárosi közgyűlés –, hogy hogy a közlekedésért felelős miniszter rendeletében előírt közutak kezelési feladataival kapcsolatban, valamint a közlekedésért felelős miniszter rendeletében előírt közutak építésével kapcsolatban előírt minőségi követelmények ellenőrzésének való megfelelés érdekében az általa kezelt közutak vonatkozásában a helyi sajátosságoknak megfelelő további szabályokat rendeletben állapíthasson meg.
 
-(6)
+(6) Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg az elektromobilitás szolgáltató és az elektromos töltőberendezés üzemeltetője által rendszeres adatszolgáltatás keretében szolgáltatandó adatok körét, az adatszolgáltatás teljesítésének módjára és esedékességére vonatkozó követelmények, és az adatszolgáltatási kötelezettség teljesítése alól adható mentesség részletes szabályait, továbbá a rendkívüli adatszolgáltatással kapcsolatos szabályokat.
 
 (7) A 21. § (2) bekezdés szerinti közigazgatási bírság befizetési határidejének elmulasztását követő 8 napon belül az eljáró hatóság kezdeményezi a közlekedési igazgatási hatóságnál a szabályszegés elkövetéséhez használt jármű forgalomból történő kivonását.
 
@@ -2189,7 +2199,7 @@ rendeletben állapítsa meg.
 (2) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) az Európai Parlament és a Tanács 1999/62/EK irányelve (1999. június 17.) a nehéz tehergépjárművekre egyes infrastruktúrák használatáért kivetett díjakról, 2. cikk b) és c) pontja, 7. cikk (2) bekezdésének a) pontja, (3)–(4) és (9)–(10) bekezdése, 9. cikk (2) bekezdése;
-- b) az Európai Parlament és a Tanács 2002/15/EK irányelve (2002. március 11.) a közúti fuvarozásban utazó tevékenységet végző személyek munkaidejének szervezéséről, az Mt.-vel és a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvénnyel együtt;
+- b) az Európai Parlament és a Tanács 2002/15/EK irányelve (2002. március 11.) a közúti fuvarozásban utazó tevékenységet végző személyek munkaidejének szervezéséről, az Mt.-vel és a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló törvénnyel együtt;
 - c) az Európai Parlament és a Tanács 2006/22/EK irányelve (2006. március 15.) a közúti szállításra vonatkozó egyes szociális jogszabályokkal kapcsolatos 3820/85/EGK és a 3821/85/EGK tanácsi rendelet végrehajtásának minimumfeltételeiről és a 88/599/EGK tanácsi irányelv hatályon kívül helyezéséről, 2. cikkének (1) és (2) bekezdése és 9. cikke;
 - d) az Európai Parlament és a Tanács 2006/38/EK irányelve (2006. május 17.) a nehéz tehergépjárművekre egyes infrastruktúrák használatáért kivetett díjakról szóló 1999/62/EK irányelv módosításáról, 1. cikk 1. pont c) és e) alpontja, 1. cikk 2. pont a) és e) alpontja, 1. cikk 7. pont b) alpontja;
 - e) az Európai Parlament és a Tanács 2008/96/EK irányelv (2008. november 19.) a közúti infrastruktúra közlekedésbiztonsági kezeléséről, 3. cikk (1) bekezdés, 4. cikk (1) bekezdés, 9. cikk (4) bekezdés;

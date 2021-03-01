@@ -3201,16 +3201,16 @@ a közterület használatának, vagy a lakó- vagy más épületben tartózkodó
 
 196. § (1) Aki
 
-- a) a közterületen, a közforgalom céljait szolgáló épületben, vagy közforgalmú közlekedési eszközön szemetel, ezeket beszennyezi,
+- a) a közterületet, a közforgalom céljait szolgáló épületet, vagy a közforgalmú közlekedési eszközt beszennyezi,
 - b) a felügyelete alatt lévő állat által az a) pontban megjelölt helyen okozott szennyezés megszüntetéséről nem gondoskodik,
 
 szabálysértést követ el.
 
-(2) Aki települési hulladékot a közterületen engedély nélkül lerak, elhelyez, vagy nem a kijelölt lerakóhelyen rak le vagy helyez el, szabálysértést követ el.
+(2)
 
 (2a) Köztisztasági szabálysértés miatt nem vonható felelősségre az a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény alapján fogyatékos személynek minősülő személy, aki az (1) bekezdés b) pontjában meghatározott cselekményt a felügyelete alatt lévő vakvezető, illetve mozgáskorlátozottakat segítő kutyára vonatkozóan követi el.
 
-(3) Az (1) és (2) bekezdésekben meghatározott szabálysértés miatt a közterület-felügyelő, természeti és védett természeti területen a természetvédelmi őr, helyi jelentőségű védett természeti területen az önkormányzati természetvédelmi őr, az önkormányzat közigazgatási területéhez tartozó termőföldeken a mezőőr is szabhat ki helyszíni bírságot.
+(3) Az (1) bekezdésben meghatározott szabálysértés miatt a közterület-felügyelő, természeti és védett természeti területen a természetvédelmi őr, helyi jelentőségű védett természeti területen az önkormányzati természetvédelmi őr, az önkormányzat közigazgatási területéhez tartozó termőföldeken a mezőőr is szabhat ki helyszíni bírságot.
 
 #### 151. Veszélyeztetés tárgyak elhelyezésével, eldobásával
 
@@ -3774,7 +3774,7 @@ szabálysértést követ el.
 
 #### 198. Felhívással szembeni engedetlenség
 
-244. § Aki a természeti területek a védett természeti területek és értékek, az erdő, valamint a vadállomány őrzésével, védelmével kapcsolatban a külön jogszabályban meghatározott természetvédelmi, erdészeti és vadászati hatósági feladatokat ellátó személy, az erdészeti szakszemélyzet tagja, a természetvédelmi őr, az önkormányzati természetvédelmi őr, a mezőőr, illetve a halászati őr jogszabályban előírt felhívásának nem tesz eleget, vagy intézkedését akadályozza, szabálysértést követ el.
+244. § Aki a természeti területek a védett természeti területek és értékek, az erdő, valamint a vadállomány őrzésével, védelmével kapcsolatban a külön jogszabályban meghatározott természetvédelmi, erdészeti és vadászati hatósági feladatokat ellátó személy, az erdészeti szakszemélyzet, a természetvédelmi őr, az önkormányzati természetvédelmi őr, a mezőőr, illetve a halászati őr jogszabályban előírt felhívásának nem tesz eleget, vagy intézkedését akadályozza, szabálysértést követ el.
 
 #### 199. Vízszennyezés
 

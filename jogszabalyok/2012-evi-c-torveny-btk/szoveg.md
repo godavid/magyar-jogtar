@@ -788,7 +788,7 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 
 - a) ha azt nemzetközi jogi kötelezettség kizárja,
 - b) ha az elkövető a bűncselekményt bűnszervezetben követte el,
-- c) kábítószer-kereskedelem, kábítószer birtoklása, kábítószer készítésének elősegítése, kábítószer előállításához szükséges anyaggal visszaélés, új pszichoaktív anyaggal visszaélés, teljesítményfokozó szerrel visszaélés, gyógyszerhamisítás, egészségügyi termék hamisítása, méreggel visszaélés, ártalmas közfogyasztási cikkel visszaélés, természetkárosítás, állatkínzás, orvhalászat, orvvadászat, tiltott állatviadal szervezése, ózonréteget lebontó anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, robbanóanyaggal vagy robbantószerrel visszaélés, lőfegyverrel vagy lőszerrel visszaélés, nemzetközi szerződés által tiltott fegyverrel visszaélés, haditechnikai termékkel vagy szolgáltatással visszaélés, kettős felhasználású termékkel visszaélés vagy veszélyes eb tartásával kapcsolatos kötelezettség megszegése esetén.
+- c) kábítószer-kereskedelem, kábítószer birtoklása, kábítószer készítésének elősegítése, kábítószer előállításához szükséges anyaggal visszaélés, új pszichoaktív anyaggal visszaélés, teljesítményfokozó szerrel visszaélés, gyógyszerhamisítás, egészségügyi termék hamisítása, méreggel visszaélés, ártalmas közfogyasztási cikkel visszaélés, környezetkárosítás, természetkárosítás, állatkínzás, orvhalászat, orvvadászat, tiltott állatviadal szervezése, hulladékgazdálkodás rendjének megsértése, ózonréteget lebontó anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, robbanóanyaggal vagy robbantószerrel visszaélés, lőfegyverrel vagy lőszerrel visszaélés, nemzetközi szerződés által tiltott fegyverrel visszaélés, haditechnikai termékkel vagy szolgáltatással visszaélés, kettős felhasználású termékkel visszaélés vagy veszélyes eb tartásával kapcsolatos kötelezettség megszegése esetén.
 
 ### A vagyonelkobzás
 
@@ -3121,19 +3121,42 @@ vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 248. § (1) Aki
 
-- a) arra a célra hatóság által nem engedélyezett helyen hulladékot elhelyez,
-- b) engedély nélkül vagy az engedély kereteit túllépve hulladékgazdálkodási tevékenységet, illetve hulladékkal más jogellenes tevékenységet végez,
+- a) nyilvántartásba vétel vagy bejelentés nélkül, illetve engedély nélkül vagy az engedély kereteit túllépve végez hulladékgazdálkodási tevékenységet, vagy
+- b) hulladékkal más jogellenes tevékenységet végez és az alkalmas az emberi élet, testi épség, egészség, a föld, a víz, a levegő vagy azok összetevői, illetve élő szervezet egyedének veszélyeztetésére
 
 bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt a hulladékról szóló törvény szerinti veszélyes hulladékra követik el.
+(2) Aki arra a célra hatóság által nem engedélyezett helyen
 
-(3) Aki a bűncselekményt gondatlanságból követi el, vétség miatt az (1) bekezdésben meghatározott esetben egy évig, a (2) bekezdésben meghatározott esetben két évig terjedő szabadságvesztéssel büntetendő.
+- a) az emberi élet, testi épség, egészség, a föld, a víz, a levegő vagy azok összetevői, illetve élő szervezet egyedének veszélyeztetésére alkalmas vagy
+- b) jelentős mennyiségű
 
-(4) E § alkalmazásában
+hulladékot elhelyez, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-- a) hulladék: mindaz, amit a hulladékról szóló törvény hulladéknak minősít, ha alkalmas az emberi élet, testi épség, egészség, a föld, a víz, a levegő vagy azok összetevői, illetve élő szervezet egyedének veszélyeztetésére;
-- b) hulladékgazdálkodási tevékenység: a hulladéknak a hulladékról szóló törvényben meghatározott gyűjtése, begyűjtése, szállítása – ideértve az országba történő behozatalt, onnan történő kivitelt, valamint az azon történő átszállítást – , előkezelése, tárolása, hasznosítása, ártalmatlanítása.
+(3) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha az (1) vagy a (2) bekezdésben meghatározott bűncselekményt
+
+- a) veszélyes hulladékra,
+- b) különösen jelentős mennyiségű hulladékra, vagy
+- c) különös visszaesőként
+
+követik el.
+
+(4) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a (3) bekezdés a) pontjában meghatározott bűncselekmény a (3) bekezdés b) pontja szerint is minősül.
+
+(5) Aki a bűncselekményt gondatlanságból követi el, vétség miatt
+
+- a) az (1) és (2) bekezdésben meghatározott esetben egy évig,
+- b) a (3) bekezdésben meghatározott esetben két évig,
+- c) a (4) bekezdésben meghatározott esetben három évig
+
+terjedő szabadságvesztéssel büntetendő.
+
+(6) E § alkalmazásában
+
+- a) különös visszaesés szempontjából hasonló jellegű bűncselekmény a környezetkárosítás és a természetkárosítás;
+- b) hulladékgazdálkodási tevékenység a hulladékról szóló törvény szerinti hulladékgazdálkodás azzal, hogy a szállítás fogalmába bele kell érteni az országba történő behozatalt, onnan történő kivitelt, valamint az azon történő átszállítást;
+- c) jelentős mennyiségű hulladék az 1000 kg-ot vagy a 10 köbmétert meghaladó mennyiségű hulladék;
+- d) különösen jelentős mennyiségű hulladék a jelentős mennyiségű hulladék tízszerese.
 
 ### Ózonréteget lebontó anyaggal visszaélés
 
@@ -6156,6 +6179,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - p) az iskolaőr a Rendőrségről szóló törvényben meghatározott tevékenysége körében,
   - q) a fegyveres biztonsági őr a szolgálatának teljesítése során,
   - r) az országos és a helyi közutakon, az állam vagy a helyi önkormányzat tulajdonában álló közforgalom elől el nem zárt magánutakon, valamint tereken, parkokban és egyéb közterületeken közúti járművel történő várakozás biztosítását célzó parkolási közszolgáltatást a közúti közlekedésről szóló törvény szerint ellátó szervezetnél a parkolóhelyek rendeltetésszerű működtetését és a parkolóhelyek rendeltetésszerű használatának ellenőrzését végző személy e tevékenysége során.
+  - s) az útellenőr, és a kezelői ellenőr a közúti közlekedésről szóló törvényben meghatározott tevékenysége körében.
 - 13. külföldi hivatalos személy:
   - a) a külföldi államban jogalkotási, igazságszolgáltatási, közigazgatási vagy bűnüldözési feladatot ellátó személy, illetve külföldi államban közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, ideértve a köztestületben vagy az állami vagy önkormányzati vállalkozásban ilyen feladatot ellátó vagy szolgálatot teljesítő személyt is,
   - b) törvényben kihirdetett nemzetközi szerződéssel létrehozott nemzetközi szervezetnél szolgálatot teljesítő személy, akinek a tevékenysége a szervezet rendeltetésszerű működéséhez tartozik,

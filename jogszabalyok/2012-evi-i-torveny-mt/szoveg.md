@@ -1140,7 +1140,7 @@ lehet.
 - a) napi munkaideje legfeljebb huszonnégy óra,
 - b) heti munkaideje legfeljebb hetvenkét óra
 
-lehet. A megállapodást a munkavállaló a naptári hónap utolsó napjára, munkaidőkeret elrendelése esetén a munkaidőkeret utolsó napjára tizenöt napos határidővel felmondhatja. A megállapodás felmondása esetén a munkavállalót – a 6. és 7. §-ban foglaltakra figyelemmel – jogellenesen hátrány nem érheti.
+lehet. A megállapodást a munkavállaló a naptári hónap utolsó napjára, munkaidőkeret elrendelése esetén a munkaidőkeret utolsó napjára tizenöt napos határidővel felmondhatja. A munkavállalót hátrány nem érheti, ha nem egyezik bele az e bekezdés szerinti megállapodás megkötésébe, illetve a megállapodás felmondása esetén.
 
 (4) A munkavállaló beosztás szerinti napi vagy heti munkaideje a (2)–(3) bekezdésben meghatározott tartamot legfeljebb egy órával meghaladhatja, ha a téli időszámítás kezdete a munkaidő-beosztás szerinti munkaidőre esik.
 
@@ -3157,7 +3157,7 @@ tekintetében a magyar jog szabályait kell alkalmazni, ideértve a munkaviszony
 
 (5) Ha az (1) bekezdés szerinti kiküldetés időtartama meghaladja a tizenkét hónapot, a munkaviszonyra e törvény rendelkezéseit – a (7) bekezdésben foglaltak kivételével – megfelelően alkalmazni kell.
 
-(6) Az (5) bekezdés szerinti időtartam további hat hónappal meghosszabbodik a külföldi munkáltató munkaügyi hatóság részére benyújtott, indokolással ellátott bejelentése esetén.
+(6) Az (5) bekezdés szerinti időtartam további hat hónappal meghosszabbodik a külföldi munkáltató foglalkoztatás-felügyeleti hatóság részére benyújtott, indokolással ellátott bejelentése esetén.
 
 (7) A tizenkét hónapot meghaladó kiküldetés esetén
 
@@ -3188,7 +3188,7 @@ nem alkalmazhatóak.
 
 a kiküldetés teljes időtartama alatt a munkavégzés helyén, valamint annak befejezését követő 3 évig a munkáltató székhelyén vagy telephelyén hozzáférhető és ellenőrizhető legyen.
 
-(4) A külföldi munkáltató a kijelölt hatóságként eljáró munkaügyi hatósággal való kapcsolattartásért, valamint a (3) bekezdés szerinti dokumentumok küldéséért és átvételéért felelős személyt jelöl ki. A külföldi munkáltató a megbízott személyéről, valamint a megbízott személyében bekövetkezett változásról haladéktalanul tájékoztatja a munkaügyi hatóságot.
+(4) A külföldi munkáltató a kijelölt hatóságként eljáró foglalkoztatás-felügyeleti hatósággal való kapcsolattartásért, valamint a (3) bekezdés szerinti dokumentumok küldéséért és átvételéért felelős személyt jelöl ki. A külföldi munkáltató a megbízott személyéről, valamint a megbízott személyében bekövetkezett változásról haladéktalanul tájékoztatja a foglalkoztatás-felügyeleti hatóságot.
 
 (5) A külföldi munkáltató – ha az nem azonos a (4) bekezdés szerinti megbízottal – olyan kapcsolattartó személyt jelöl ki, akin keresztül a szociális partnerek kollektív tárgyalások folytatása céljából, a szolgáltatásnyújtás ideje alatt a szolgáltatóval kapcsolatba léphetnek.
 

@@ -101,7 +101,21 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 (4) A (2) bekezdésben foglalt rendelkezések nem érintik a forgalmazónak a gyártóval szemben érvényesíthető igényeit.
 
-(5)
+(5) A körforgásos gazdaságra történő átállás érdekében
+
+- a) a termék gyártója, forgalmazója a terméktervezéstől a gyártáson, a kereskedelmen át a termékből képződő hulladék kezeléséig tartó tevékenysége során,
+- b) a fogyasztó
+
+törekszik a hulladékképződés megelőzésére.
+
+(6) A termék gyártója, forgalmazója a körforgásos gazdaságra történő átállás érdekében az e törvény végrehajtására kiadott kormányrendelet szerint törekszik továbbá
+
+- a) a termék tervezett avulásának kizárására, a termék részegységei és alkatrészei élettartam-azonosságának, valamint a termék fejleszthetőségének, kiegészíthetőségének, illetve részegységei moduláris jellegének biztosítására;
+- b) a pótalkatrészek és a javítóhálózat biztosítására a termék élettartama alatt;
+- c) az újrahasznosított anyagok használatának, illetve a termék újrahasznosíthatóságának biztosítására;
+- d) a digitális és csatlakoztatott eszközök élettartamával, és a szoftverek avulásával kapcsolatos kötelezettségek viselésére;
+- e) az áru megvásárlásával egyidejűleg szállított operációs rendszer és a szoftver frissítéseihez kapcsolódó szoftverek avulása miatti kockázatok csökkentésére; valamint
+- f) az a)–e) pont elérését célzó intézkedésekről a fogyasztók tájékoztatására.
 
 ### IV/A. Fejezet — A gyermek- és fiatalkorúak védelmét szolgáló különös rendelkezések
 
@@ -1122,6 +1136,8 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 
 (2) Felhatalmazást kap a Kormány, hogy a polgári célú pirotechnikai termékek forgalmazására alkalmazandó követelményeket, biztonságossági előírásokat, címkézésre vonatkozó külön előírásokat, az egyes termékek megfelelőség-értékelésének módját, valamint a megfelelőségi tanúsítványokat kiadó szervezetek körét vagy az ilyen szervezetek köre meghatározásának szabályait rendelettel meghatározza.
 
+(3) Felhatalmazást kap a Kormány, hogy meghatározza a pótalkatrészek kötelező forgalmazására alkalmazandó követelményeket, a gyártók által jogellenesen tervezett avulással kapcsolatos jogkövetkezményeket, a pótalkatrészek és a javítóhálózat biztosításával, a tájékoztatással kapcsolatos kötelezettségeket, a digitális és csatlakoztatott eszközök élettartamával, a szoftverek elavulásával kapcsolatos kötelezettségeket, valamint az áru megvásárlásával egyidejűleg szállított operációs rendszer és a szoftver frissítéseihez kapcsolódó szoftverek elavulása miatti kockázatok csökkentésének lehetséges módjait.
+
 56. § Felhatalmazást kap a fogyasztóvédelemért felelős miniszter, hogy a békéltető testületi tagsági feladat ellátására vonatkozó pályázat szabályairól, a pályázatok előzetes értékeléséről, a békéltető testületi tagok számának növeléséről, a békéltető testületi tagok díjazásáról szóló részletes szabályokat és az online adásvételi vagy online szolgáltatási szerződéssel összefüggő határon átnyúló fogyasztói jogvita esetén az eljárásra kijelölt kamarák által működtetett békéltető testületek kijelölését rendeletben állapítsa meg.
 
 56/A. § (1)
@@ -1142,7 +1158,7 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 
 57. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a)
+- a) a hulladékokról szóló 2008/98/EK irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/851 európai parlamenti és tanácsi irányelv;
 - b) az Európai Parlament és a Tanács 98/6/EK irányelve (1998. február 16.) a fogyasztók számára kínált termékek árának feltüntetésével kapcsolatos fogyasztóvédelemről [a 2. § m) és n) pontja, a 14. § (1)–(3), (5) és (6) bek., az 56/A. § (5) bekezdésében adott felhatalmazás alapján megalkotott miniszteri rendelettel együtt];
 - c) az Európai Parlament és a Tanács 2009/22/EK irányelve (2009. április 23.) a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról [a 38. § (6) és (8) bekezdése, a 39. § (2) és (3) bekezdése, a 46. § (2) bekezdés b) pontja, a 47. § (1) bekezdés a) és b) pontja, a 49. § (1) bekezdése, az 51. § (2)–(4) bekezdése, a fogyasztóvédelmi hatóság eljárásában];
 - d) az Európai Parlament és a Tanács 2013. május 21-i 2013/11/EU irányelve a fogyasztói jogviták alternatív rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói alternatív vitarendezési irányelv) [2. § j), k), o), p), s) pontja, 17/A. § (1) és (1a) bekezdése, 18. § (1), (6) és (7) bekezdése, 29. § (4), (5a), (5b), (8), (11) és (12) bekezdése, 36/A. § (1) és (2) bekezdése, 37/A. § (3)–(9) bekezdése, 45/A. § (1) bekezdés e) pontja, 47/C. § (5) bekezdés e) pontja];
