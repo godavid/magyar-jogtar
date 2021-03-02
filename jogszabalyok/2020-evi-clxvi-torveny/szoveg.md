@@ -75,23 +75,9 @@ lép.
 
 (4)
 
-(5) Az At. 46. § (3) bekezdése helyébe a következő rendelkezés lép:
+(5)
 
-„(3) Nemzetiségi utónévként az érintett országos nemzetiségi önkormányzat által összeállított és közzétett nemzetiségi utónévjegyzékben szereplő utónév anyakönyvezhető.”
-
-(6) Az At. 46. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Az országos nemzetiségi önkormányzat az általa összeállított és vezetett nemzetiségi utónévjegyzéket a honlapján teszi közzé, amely tartalmazza
-
-a) a magyar anyakönyvbe bejegyezhető nemzetiségi utónevet,
-
-b) azt a tényt, hogy az adott nemzetiségi utónév női vagy férfi név,
-
-c) a nemzetiségi utónevet a nemzetiségi nyelv betűivel,
-
-d) ha a nemzetiségi utónév a magyar ábécében nem szereplő betűt tartalmaz, annak a magyar ábécé betűivel való átírását,
-
-e) – amennyiben van – a nemzetiségi utónév magyar megfelelőjét.”
+(6)
 
 12. § (1)
 
@@ -178,7 +164,7 @@ e) – amennyiben van – a nemzetiségi utónév magyar megfelelőjét.”
 - 5.
 - 6.
 - 7.
-- 8. 17. § (2) bekezdésében, 31. § (2) bekezdésében, 61. § (1) bekezdésében, valamint a 62. § (5) bekezdésében az „az 1. melléklet szerinti” szövegrész helyébe az „a kormányrendeletben meghatározott” szöveg,
+- 8.
 - 9.
 - 10.
 - 11.
@@ -187,11 +173,11 @@ e) – amennyiben van – a nemzetiségi utónév magyar megfelelőjét.”
 - 14.
 - 15.
 - 16.
-- 17. 46. § (4) bekezdésében a „tekintetében” szövegrész helyébe a „tekintetében közvetlenül az érintett vagy”, valamint az „a nemzetiségi utónévjegyzékbe fel kell venni” szövegrész helyébe az „azt az országos nemzetiségi önkormányzat az utónévjegyzékbe haladéktalanul felveszi” szöveg,
+- 17.
 - 18.
-- 19. 57. § (2) bekezdésében az „(1)–(3) bekezdésében” szövegrész helyébe az „(1) bekezdésében, valamint kormányrendeletben” szöveg,
+- 19.
 - 20.
-- 21. 61. § (3) bekezdés a) pontjában az „az 1. mellékletben” szövegrész helyébe az „a kormányrendeletben” szöveg,
+- 21.
 - 22.
 - 23.
 - 24.
@@ -216,7 +202,7 @@ lép.
 - i)
 - j)
 - k)
-- l) 1. melléklete.
+- l)
 
 #### 4. A Polgári Törvénykönyvről szóló 2013. évi V. törvény módosítása
 

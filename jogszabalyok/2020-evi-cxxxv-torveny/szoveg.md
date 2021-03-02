@@ -223,226 +223,124 @@ való megfelelést szolgálja.
 
 #### 10. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-16. § A közúti közlekedésről szóló 1988. évi I. törvény
-
-- a) 9. § (5) bekezdésében, 20. § (2) bekezdésében, 20. § (11) bekezdés c) pont cb) alpontjában, valamint 20. § (11) bekezdés záró szövegrészében a „munkaügyi hatóság” szövegrész helyébe a „foglalkoztatás-felügyeleti hatóság” szöveg,
-- b) 49. § (2) bekezdés b) pontjában a „munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvénnyel” szövegrész helyébe a „foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló törvénnyel” szöveg
-
-lép.
+16. §
 
 #### 11. A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény módosítása
 
-17. § A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.)
+17. §
 
-- 1. 2. § (1) bekezdésében az „A foglalkoztatás elősegítése és az” szövegrész helyébe az „Az” szöveg,
-- 2. 5. § (1) bekezdésében a „munkaerő-piaci szolgáltatásokat” szövegrész helyébe a „foglalkoztatást elősegítő szolgáltatásokat” szöveg,
-- 3. 37. § (7) bekezdésében az „a 21. § (6) bekezdésében foglaltakat kell figyelembe venni” szövegrész helyébe a „természetes személy esetében figyelembe vehető különösen kedvezőtlen szociális helyzete, valamint az, hogy az ellátás visszafizetése a kötelezett és a háztartásában élők megélhetését súlyosan veszélyeztetné” szöveg,
-- 4. 39. § (3) bekezdés c) pontjában a „munkaerőpiaci szolgáltatások” szövegrész helyébe a „foglalkoztatást elősegítő szolgáltatások” szöveg,
-- 5. 40. § (2) bekezdés b) pontjában a „18. §-ban meghatározott munkahely-teremtési” szövegrész helyébe a „foglalkoztatást elősegítő” szöveg,
-- 6. 40. § (2) bekezdés c) pontjában a „munkaerő-piaci” szövegrész helyébe a „foglalkoztatást elősegítő” szöveg,
-- 7. 41/A. § (9) bekezdésében az „Az e törvényben, valamint a felhatalmazása alapján kiadott miniszteri rendeletben meghatározott” szövegrész helyébe az „A” szövegrész,
-- 8. 42. § (1) bekezdésében az „Az e törvény, valamint a felhatalmazása alapján kiadott rendeletben meghatározott” szövegrész helyébe az „A” szöveg,
-- 9. 54. § (8) bekezdésében az „a munkaügyi ellenőrzésről szóló törvény” szövegrész helyébe az „a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló törvény” szöveg,
-- 10. 54. § (9) bekezdés e) pontjában a „munkaerő-piaci szolgáltatást” szövegrész helyébe a „foglalkoztatást elősegítő szolgáltatást” szöveg,
-- 11. 54. § (9c) bekezdésében az „A 13/A. §-ban foglalt munkaerőpiaci szolgáltatások” szövegrész helyébe az „A foglalkoztatást elősegítő szolgáltatások” szöveg,
-- 12. 54. § (10a) bekezdésében a „munkaerő-piaci szolgáltatásban” szövegrész helyébe a „foglalkoztatást elősegítő szolgáltatásban” szöveg,
-- 13. 57/A. § (1) bekezdés e) pontjában a „munkaerő-piaci szolgáltatás” szövegrész helyébe a „foglalkoztatást elősegítő szolgáltatás” szöveg,
-- 14. 57/A. § (1) bekezdés l) és r) pontjában, valamint (2c) bekezdés c) pontjában a „munkaerő-piaci szolgáltatások” szövegrész helyébe a „foglalkoztatást elősegítő szolgáltatások” szöveg,
-- 15. 57/A. § (2c) bekezdés d) pontjában, valamint (2d) bekezdés a) és c) pontjában a „munkaerő-piaci szolgáltatásokkal” szövegrész helyébe a „foglalkoztatást elősegítő szolgáltatásokkal” szöveg,
-- 16. 57/A. § (12) bekezdésében a „munkaerő-piaci szolgáltatást a 13/A. § (2) bekezdése szerinti” szövegrész helyébe a „foglalkoztatást elősegítő szolgáltatást” szöveg, a „nyilvántartásba vett munkaerő-piaci szolgáltatást” szövegrész helyébe a „nyilvántartásba vett foglalkoztatást elősegítő szolgáltatást” szöveg
-
-lép.
-
-18. § Hatályát veszti az Flt.
-
-- a) 1. §-ában a „foglalkoztatás elősegítése a” szövegrész,
-- b) 4. § (1) bekezdése,
-- c) 5. § (1) bekezdésében a „III. fejezetben, valamint más jogszabályokban meghatározott” szövegrész,
-- d) III. és IV. Fejezete,
-- e) 29. § (1) bekezdés e) pontja,
-- f) 40. § (4) és (5) bekezdése,
-- g) 41/A. § (10) bekezdés a)–c) pontja,
-- h) 42. § (2) bekezdése,
-- i) 54. § (13) bekezdésében a „ , 14. § (1) bekezdése szerinti” szövegrész,
-- j) 57/A. § (14) bekezdése,
-- k) 57/B. § (1) bekezdés 1. pont b) alpontja,
-- l) 59/G. §-a,
-- m) 60. § (2) bekezdés d) pontja,
-- n) 60. § (3) bekezdése.
+18. §
 
 #### 12. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-19. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 23/A. § t) pontjában a „munkaügyi és munkavédelmi hatóság” szövegrész helyébe a „foglalkoztatás-felügyeleti hatóság és a munkavédelmi hatóság” szöveg lép.
+19. §
 
 #### 13. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
-20. § Hatályát veszti a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény
-
-- a) 18/A. § k) pontja,
-- b) 34. § (2) bekezdés d) pontja és (4) bekezdése.
+20. §
 
 #### 14. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-21. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 3. § h) pontjában a „munkaügyi hatóság” szövegrész helyébe a „foglalkoztatás-felügyeleti hatóság” szöveg lép.
+21. §
 
 #### 15. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-22. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 29/K. § (5) bekezdés d) pontjában a „munkaügyi hatóság” szövegrész helyébe a „foglalkoztatás-felügyeleti hatóság” szöveg lép.
+22. §
 
 #### 16. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-23. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 17. § (1) bekezdés k) pontja helyébe a következő rendelkezés lép:
-
-(Az e törvényben szabályozott gyermekvédelmi rendszerhez kapcsolódó feladatot látnak el – a gyermek családban történő nevelkedésének elősegítése, a gyermek veszélyeztetettségének megelőzése és megszüntetése érdekében – a törvényben meghatározott alaptevékenység keretében)
-
-„k) a foglalkoztatás-felügyeleti hatóság,”
+23. §
 
 #### 17. Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosítása
 
-24. § Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 59. § (11) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A Nyilvántartáshoz az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felületen keresztül hozzáfér)
-
-„b) a foglalkoztatás-felügyeleti hatóság és a munkavédelmi hatóság a foglalkoztatás-felügyeleti és a munkavédelmi ellenőrzések végrehajtása céljából.”
+24. §
 
 #### 18. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
-25. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 96. § (3a) bekezdés a) pontjában az „a munkaügyi és munkavédelmi” szövegrész helyébe az „a foglalkoztatás-felügyeleti és a munkavédelmi” szöveg, a „munkaügyi és munkavédelmi ellenőrzés” szövegrész helyébe a „foglalkoztatás-felügyeleti hatósági ellenőrzés és a munkavédelmi ellenőrzés” szöveg lép.
+25. §
 
 #### 19. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
 
-26. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 79. § (6) bekezdésében a „munkaügyi és” szövegrész helyébe a „foglalkoztatás-felügyeleti hatóság és a” szöveg lép.
+26. §
 
 #### 20. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-27. § Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 72. § (1) bekezdés k) pontjában a „munkaügyi és munkavédelmi hatóság” szövegrész helyébe a „foglalkoztatás-felügyeleti és a munkavédelmi hatóság” a „ munkaügyi és munkavédelmi ellenőrzés” szövegrész helyébe a „foglalkoztatás-felügyeleti ellenőrzés és a munkavédelmi ellenőrzés” szöveg lép.
+27. §
 
 #### 21. A gazdasági kamarákról szóló 1999. évi CXXI. törvény módosítása
 
-28. § A gazdasági kamarákról szóló 1999. évi CXXI. törvény 11. § (4) bekezdésében a „munkaügyi hatóság” szövegrész helyébe a „foglalkoztatás-felügyeleti hatóság” szöveg lép.
+28. §
 
 #### 22. Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény módosítása
 
-29. § Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 12. §-ában a „munkaügyi vagy szabálysértési hatóságok” szövegrész helyébe a „foglalkoztatás-felügyeleti hatóság vagy szabálysértési hatóság” szöveg lép.
+29. §
 
 #### 23. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása
 
-30. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 80. § (1) bekezdés k) pontjában a „munkaügyi hatóságnak” szövegrész helyébe a „foglalkoztatás-felügyeleti hatóságnak” szöveg lép.
+30. §
 
 #### 24. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény módosítása
 
-31. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény
-
-- a) 81. § (1) és (2) bekezdésében a „munkaügyi hatóság” szövegrész helyébe a „foglalkoztatás-felügyeleti hatóság” szöveg,
-- b) 82. § (1a) bekezdés e) pontjában a „munkaügyi” szövegrész helyébe a „foglalkoztatás-felügyeleti” szöveg
-
-lép.
+31. §
 
 #### 25. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosítása
 
-32. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harmtv.) 106. § (1) bekezdés j) pontja helyébe a következő rendelkezés lép:
+32. §
 
-(Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból jogszabályban meghatározott feladataik ellátása céljából – törvényben meghatározott adatkörben –)
-
-„j) a foglalkoztatás-felügyeleti hatóság,”
-
-(részére továbbíthat adatot.)
-
-33. § A Harmtv. 74/B. § (8) bekezdésében a „munkaügyi hatóságtól” szövegrész helyébe a „foglalkoztatás-felügyeleti hatóságtól” szöveg lép.
+33. §
 
 #### 26. A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosítása
 
-34. § A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 26. § (3) bekezdés 15. pontjában a „munkaügyi” szövegrész helyébe a „foglalkoztatás-felügyeleti” szöveg lép.
+34. §
 
 #### 27. A menedékjogról szóló 2007. évi LXXX. törvény módosítása
 
-35. § A menedékjogról szóló 2007. évi LXXX. törvény (a továbbiakban: Mened. tv.) 86. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
+35. §
 
-(A menekültügyi hatóság eljárása során az ügyfél által előadottak, illetve a jogszabályban foglalt feltételek fennállásának ellenőrzésére adatot igényelhet:)
-
-„e) a foglalkoztatás-felügyeleti hatóságtól;”
-
-36. § A Mened. tv. 87. § (1) bekezdés j) pontja helyébe a következő rendelkezés lép:
-
-(Az e fejezetben meghatározott nyilvántartásokból jogszabályban meghatározott feladataik ellátása céljából – törvényben meghatározott adatkörben –)
-
-„j) a foglalkoztatás-felügyeleti hatóság,”
-
-(igényelhetnek adatot.)
+36. §
 
 #### 28. Az ágazati párbeszéd bizottságokról és a középszintű szociális párbeszéd egyes kérdéseiről szóló 2009. évi LXXIV. törvény módosítása
 
-37. § Az ágazati párbeszéd bizottságokról és a középszintű szociális párbeszéd egyes kérdéseiről szóló 2009. évi LXXIV. törvény 24. § (3) bekezdés a) pontjában a „munkaügyi hatóságnál” szövegrész helyébe a „foglalkoztatás-felügyeleti hatóságnál” szöveg lép.
+37. §
 
 #### 29. A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosítása
 
-38. § A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 13. § (4) bekezdés g) pontjában a „munkaügyi hatóság” szövegrész helyébe a „foglalkoztatás-felügyeleti hatóság” szöveg lép.
+38. §
 
 #### 30. A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény módosítása
 
-39. § A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 21. § (3a) bekezdésében a „munkaügyi” szövegrész helyébe a „foglalkoztatás-felügyeleti” szöveg lép.
+39. §
 
 #### 31. A munka törvénykönyvéről szóló 2012. évi I. törvény módosítása
 
-40. § A munka törvénykönyvéről szóló 2012. évi I. törvény
-
-- a) 99. § (3) bekezdés záró szövegrészében az „A megállapodás felmondása esetén a munkavállalót – a 6. és 7. §-ban foglaltakra figyelemmel – jogellenesen hátrány nem érheti.” szövegrész helyébe az „A munkavállalót hátrány nem érheti, ha nem egyezik bele az e bekezdés szerinti megállapodás megkötésébe, illetve a megállapodás felmondása esetén.” szöveg,
-- b) 295. § (6) bekezdésében a „munkaügyi hatóság” szövegrész helyébe a „foglalkoztatás-felügyeleti hatóság” szöveg,
-- c) 297. § (4) bekezdésében
-  - ca) a „munkaügyi hatósággal” szövegrész helyébe a „foglalkoztatás-felügyeleti hatósággal” szöveg,
-  - cb) a „munkaügyi hatóságot” szövegrész helyébe a „foglalkoztatás-felügyeleti hatóságot” szöveg
-
-lép.
+40. §
 
 #### 32. A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosítása
 
-41. § A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény 8. § (4) bekezdésében a „munkaügyi hatóság” szövegrész helyébe a „foglalkoztatás-felügyeleti hatóság” szöveg lép.
+41. §
 
 #### 33. A postai szolgáltatásokról szóló 2012. évi CLIX. törvény módosítása
 
-42. § A postai szolgáltatásokról szóló 2012. évi CLIX. törvény 64. § (1) bekezdés d) pontjában a „munkaügyi hatósággal” szövegrész helyébe a „foglalkoztatás-felügyeleti hatósággal” szöveg lép.
+42. §
 
 #### 34. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
-43. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 62. § (1) bekezdés l) pontjában
-
-- a) a „munkaügyi hatóság” szövegrész helyébe a „foglalkoztatás-felügyeleti hatóság” szöveg,
-- b) a „munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 7/A. §-a alapján” szövegrész helyébe a „foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló törvény alapján” szöveg
-
-lép.
+43. §
 
 #### 35. A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény módosítása
 
-44. § A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény 45. § (1) bekezdés 13. pontjában
-
-- a) a „munkaügyi hatóság” szövegrész helyébe a „foglalkoztatás-felügyeleti hatóság” szöveg,
-- b) a „munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 7/A. §-a alapján” szövegrész helyébe a „foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló törvény alapján” szöveg
-
-lép.
+44. §
 
 #### 36. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
 
-45. § Az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) 268. § (5) bekezdés e) pontja helyébe a következő rendelkezés lép:
+45. §
 
-(Felhatalmazást kap a Kormány arra, hogy)
-
-„e) a foglalkoztatás-felügyeleti hatóság”
-
-(részére az állami adóhatóság által teljesített adatátadással érintett, az 50. §-ban meghatározott havi adó- és járulékbevallásban szereplő adatok körét, az adatátadás részletes szabályait, így különösen az adatátadás határidejét és gyakoriságát rendeletben állapítsa meg.)
-
-46. § Az Art.
-
-- a) 131. § (1) bekezdés a) pontjában, valamint a (2) bekezdés c) pontjában és (7) bekezdésében a „munkaügyi hatóság” szövegrész helyébe a „foglalkoztatás-felügyeleti hatóság” szöveg,
-- b) 131. § (19) bekezdésében a „munkaügyi hatóságot” szövegrész helyébe a „foglalkoztatás-felügyeleti hatóságot” szöveg,
-- c) 131. § (19) bekezdésében és 1. melléklet 8. pontjában a „munkaügyi hatóságnak” szövegrész helyébe a „foglalkoztatás-felügyeleti hatóságnak” szöveg,
-- d) 1. melléklet 8. pontjában a „munkaügyi hatósággal” szövegrész helyébe a „foglalkoztatás-felügyeleti hatósággal” szöveg
-
-lép.
+46. §
 
 #### 37. A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény módosítása
 
-47. § A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 68. § (2) bekezdésében a „munkaügyi hatóság,” szövegrész helyébe a „foglalkoztatás-felügyeleti hatóság,” szöveg lép.
+47. §
 
 #### 38. A munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény hatályon kívül helyezése
 
-48. § Hatályát veszti a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény.
+48. §

@@ -34,13 +34,7 @@ egyes törvényeknek a mozgóképipar versenyképességének növelésével öss
 
 14. §
 
-15. § Az Mktv. 35. §-a a következő (10) bekezdéssel egészül ki:
-
-„(10) A (9) bekezdés szerinti gazdasági társaság feladatai:
-
-a) a Magyarország nemzetközi megítélése szempontjából kiemelkedő jelentőségű, filmforgatásra alkalmas állami és önkormányzati tulajdonban álló helyszínek nyilvántartása, valamint közreműködés filmgyártási célra történő hasznosításukban az azok felett rendelkezésre jogosultakkal kötött megállapodás alapján,
-
-b) az e fejezet szerinti közterület- és ingatlanhasználatra vonatkozó hatósági ügyekkel kapcsolatos eljárás lefolytatása.”
+15. §
 
 16. §
 
@@ -48,27 +42,22 @@ b) az e fejezet szerinti közterület- és ingatlanhasználatra vonatkozó ható
 
 18. §
 
-19. § Az Mktv.
+19. §
 
 - a)
 - b)
 - c)
-- d) 34. § (3) bekezdésében és 37. § (1) bekezdésében az „az NFI” szövegrész helyébe az „a 35. § (9) bekezdése szerinti gazdasági társaság”,
-- e) 35. § (1) bekezdésében az „Az NFI” szövegrészek helyébe az „A (9) bekezdés szerinti gazdasági társaság”,
-- f) 35. § (2) és (7) bekezdésében az „Az NFI” szövegrész helyébe az „A (9) bekezdés szerinti gazdasági társaság”,
-- g) 35. § (2) bekezdésében az „az NFI-nél” szövegrészek helyébe az „a (9) bekezdés szerinti gazdasági társaságnál”,
-- h) 35. § (3) és (4) bekezdésében az „az NFI-nél” szövegrész helyébe az „a (9) bekezdés szerinti gazdasági társaságnál”,
-- i) 35. § (2), (4) és (5) bekezdésében az „az NFI” szövegrész helyébe az „a (9) bekezdés szerinti gazdasági társaság”,
-- j) 35. § (7) bekezdésében az „Az NFI-t” szövegrész helyébe az „A (9) bekezdés szerinti gazdasági társaságot”,
-- k) 35. § (9) bekezdésében az „NFI erre kijelölt szervezeti egysége” szövegrész helyébe az „NFI tulajdonában álló gazdasági társaság”,
-- l) 37. § (2) bekezdés c) pontjában az „az NFI-t” szövegrész helyébe az „a 35. § (9) bekezdése szerinti gazdasági társaságot”
+- d)
+- e)
+- f)
+- g)
+- h)
+- i)
+- j)
+- k)
+- l)
 
-szöveg lép.
-
-20. § Hatályát veszti az Mktv.
-
-- a) 9/B. § (1) bekezdés i) pontjában az „illetve Magyarország nemzetközi megítélése szempontjából kiemelkedő jelentőségű, filmforgatásra alkalmas állami és önkormányzati tulajdonban álló helyszínek nyilvántartása, valamint közreműködés filmgyártási célra történő hasznosításukban az azok felett rendelkezésre jogosultakkal kötött megállapodás alapján,” szövegrész,
-- b) 9/B. § (1) bekezdés k) pontja.
+20. §
 
 #### 3. Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény módosítása
 

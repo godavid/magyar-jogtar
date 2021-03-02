@@ -18,7 +18,7 @@ az egyrészről az Európai Unió, az Európai Atomenergia-közösség és tagá
 
 5. § Az e törvény végrehajtásához szükséges intézkedésekről a külgazdasági ügyekért felelős miniszter és a külpolitikáért felelős miniszter gondoskodik.
 
-6. § Hatályát veszti az egyrészről az Európai Közösségek és tagállamai, másrészről az Örmény Köztársaság közötti partnerség létrehozásáról szóló Partnerségi és Együttműködési Megállapodás, valamint az ahhoz csatolt jegyzőkönyvek kihirdetéséről szóló 2011. évi X. törvény.
+6. §
 
 ### 1. melléklet a 2019. évi XXI. törvényhez
 
