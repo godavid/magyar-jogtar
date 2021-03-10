@@ -592,6 +592,8 @@ kell megállapítani.
 
 (8) Ha a fogyasztó jelzi előtörlesztési szándékát, a hitelező köteles papíron vagy más tartós adathordozón a fogyasztó rendelkezésére bocsátani az előtörlesztésre vonatkozó információkat, annak következményeinek számszerűsítését és a következmények megállapításánál alkalmazott ésszerű és indokolható feltételezéseket, ideértve a 24. § (1) bekezdés vagy az (1) és (2) bekezdés szerint érvényesíthető költségeket és azok megállapításának módját is.
 
+(9) A hitelező a fogyasztó előtörlesztési szándékának a bejelentését követően 5 munkanapon belül rendelkezésre bocsátja a szükséges információkat. A fogyasztó előtörlesztési szándéka alapján bejelentett előtörleszteni kívánt részlet hitelező rendelkezésére bocsátását követően legkésőbb 5 munkanapon belül elszámolja az előtörlesztett részletet.
+
 ### Hiteltúllépés
 
 26. § (1) A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény szerinti fizetési számla nyitására vonatkozó keretszerződés megkötése során a felek megállapodhatnak abban, hogy a fogyasztó jogosult a hiteltúllépésre.
@@ -699,7 +701,9 @@ kell megállapítani.
 
 34. § E törvénynek a Módtv.-nyel megállapított 17/A–17/F. §-át, 18. §-át, 20/A–20/C. §-ait, 21/B. §-át, 28. § (5) bekezdését, 29/A. §-át, valamint 33. §-át a 2004. május 1. napja után kötött, meg nem szűnt fogyasztói szerződésekre kell alkalmazni.
 
-35. § E törvénynek – a pénzügyi közvetítőrendszer egyes szereplőit érintő törvények jogharmonizációs célú módosításáról szóló 2015. évi CCXV. törvénnyel megállapított – 14/A. §-át, 17/D. § (7) bekezdését, 18. § (1) és (4a) bekezdését, 21/C–21/E. §-át és 25. § (1), (2) és (8) bekezdését a hatálybalépést követően kötött hitelszerződések esetén kell alkalmazni.
+35. § (1) E törvénynek – a pénzügyi közvetítőrendszer egyes szereplőit érintő törvények jogharmonizációs célú módosításáról szóló 2015. évi CCXV. törvénnyel megállapított – 14/A. §-át, 17/D. § (7) bekezdését, 18. § (1) és (4a) bekezdését, 21/C–21/E. §-át és 25. § (1), (2) és (8) bekezdését a hatálybalépést követően kötött hitelszerződések esetén kell alkalmazni.
+
+(2) A pénzügyi közvetítőrendszer egyes elemeit érintő törvények jogharmonizációs célú módosításáról szóló 2020. évi CX. törvény 54. §-ával megállapított 25. § (9) bekezdést a hatálybalépését megelőzően megkötött szerződések esetében is alkalmazni kell a hatálybalépését követően teljesített előtörlesztésekre.
 
 #### 36–37. §
 

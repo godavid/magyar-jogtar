@@ -661,6 +661,8 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (33) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fenntartható befektetések előmozdítását célzó keret létrehozásáról, valamint az (EU) 2019/2088 rendelet módosításáról szóló, 2020. június 18-i (EU) 2020/852 európai parlamenti és tanácsi rendelet 5–7. cikkének végrehajtását.
 
+(34) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a pénzügyi szolgáltatási ágazatban a fenntarthatósággal kapcsolatos közzétételekről szóló, 2019. november 27-i (EU) 2019/2088 európai parlamenti és tanácsi rendelet végrehajtását.
+
 41. § (1) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] végrehajtását
 
 - a) a fogyasztói hitelmegállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2008 április 23-i 2008/48/EK európai parlamenti és tanácsi irányelvet,
@@ -3292,6 +3294,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 - 18. (31) bekezdése a kollektív befektetési vállalkozások határokon átnyúló forgalmazásának megkönnyítéséről, valamint a 345/2013/EU, a 346/2013/EU és az 1286/2014/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1156 európai parlamenti és tanácsi rendelet,
 - 19. (32) bekezdése az (EU) 2016/1011 rendeletnek az uniós éghajlatváltozási referenciamutatók, a Párizsi Megállapodáshoz igazodó uniós referenciamutatók és a referenciamutatókra vonatkozó, fenntarthatósággal kapcsolatos közzétételek tekintetében történő módosításáról szóló, 2019. november 27-i (EU) 2019/2089 európai parlamenti és tanácsi rendelet,
 - 20. (33) bekezdése a fenntartható befektetések előmozdítását célzó keret létrehozásáról, valamint az (EU) 2019/2088 rendelet módosításáról szóló, 2020. június 18-i (EU) 2020/852 európai parlamenti és tanácsi rendelet 5–7. cikkének
+- 21. (34) bekezdése a pénzügyi szolgáltatási ágazatban a fenntarthatósággal kapcsolatos közzétételekről szóló, 2019. november 27-i (EU) 2019/2088 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkörében és eljárásában.
 

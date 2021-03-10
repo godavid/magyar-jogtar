@@ -145,9 +145,15 @@ lép.
 
 53. §
 
-54. §
+54. § Az Fhtv. 25. §-a a következő (9) bekezdéssel egészül ki:
 
-55. §
+„(9) A hitelező a fogyasztó előtörlesztési szándékának a bejelentését követően 5 munkanapon belül rendelkezésre bocsátja a szükséges információkat. A fogyasztó előtörlesztési szándéka alapján bejelentett előtörleszteni kívánt részlet hitelező rendelkezésére bocsátását követően legkésőbb 5 munkanapon belül elszámolja az előtörlesztett részletet.”
+
+55. § Az Fhtv. 35. §-a helyébe a következő rendelkezés lép:
+
+„35. § (1) E törvénynek – a pénzügyi közvetítőrendszer egyes szereplőit érintő törvények jogharmonizációs célú módosításáról szóló 2015. évi CCXV. törvénnyel megállapított – 14/A. §-át, 17/D. § (7) bekezdését, 18. § (1) és (4a) bekezdését, 21/C–21/E. §-át és 25. § (1), (2) és (8) bekezdését a hatálybalépést követően kötött hitelszerződések esetén kell alkalmazni.
+
+(2) A pénzügyi közvetítőrendszer egyes elemeit érintő törvények jogharmonizációs célú módosításáról szóló 2020. évi CX. törvény 54. §-ával megállapított 25. § (9) bekezdést a hatálybalépését megelőzően megkötött szerződések esetében is alkalmazni kell a hatálybalépését követően teljesített előtörlesztésekre.”
 
 #### 7. A postai szolgáltatásokról szóló 2012. évi CLIX. törvény módosítása
 
@@ -171,7 +177,9 @@ lép.
 
 63. § (1)
 
-(2)
+(2) Az MNBtv. 40. §-a a következő (34) bekezdéssel egészül ki:
+
+„(34) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a pénzügyi szolgáltatási ágazatban a fenntarthatósággal kapcsolatos közzétételekről szóló, 2019. november 27-i (EU) 2019/2088 európai parlamenti és tanácsi rendelet végrehajtását.”
 
 (3)
 
@@ -229,7 +237,13 @@ lép.
 
 83. § (1)
 
-(2)
+(2) Az MNBtv. 186. § (5) bekezdése a következő 21. ponttal egészül ki:
+
+(A 40. §)
+
+„21. (34) bekezdése a pénzügyi szolgáltatási ágazatban a fenntarthatósággal kapcsolatos közzétételekről szóló, 2019. november 27-i (EU) 2019/2088 európai parlamenti és tanácsi rendelet”
+
+(végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkörében és eljárásában.)
 
 (3)
 
@@ -475,7 +489,9 @@ lép.
 
 186. §
 
-187. §
+187. § A Bit. 143. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A biztosító a hagyatéki eljárás jogerős lezárásáról történő tudomásszerzés napjáig az elhunyt szerződő által kötött vagyonbiztosítási szerződéshez kapcsolódóan, kizárólag az érintett biztosítási szerződés díjfizetéssel történő fenntartása érdekében a biztosítási szerződés fennállásáról, a biztosítást igazoló okirat számáról, az általános szerződési feltételekről, a szerződés díjegyenlegéről, az esedékes díjtartozás összegéről, valamint a szerződés évfordulójáról az elhunyt szerződő közeli hozzátartozója, illetve a vagyontárgy birtokosa részére – annak írásbeli kérelmére – adatot szolgáltathat, feltéve, hogy e minőségét a kérelmező okirattal igazolja. A közeli hozzátartozó, illetve a vagyontárgy birtokosa részére történő ezen adatszolgáltatás nem jelenti a biztosítási titok sérelmét. A biztosító a kérelmező személyes adatait az adatszolgáltatást követően öt évig, illetve – ha a 142. § (3) bekezdése szerinti időtartam ezt meghaladja – a 142. § (3) bekezdésében meghatározott időtartamig kezeli.”
 
 188. §
 
