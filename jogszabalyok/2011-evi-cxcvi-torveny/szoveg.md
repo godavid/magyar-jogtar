@@ -324,7 +324,8 @@ javára történik.
 - k) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény szerinti biztonsági földgáztároló létrehozása és annak működtetése,
 - l) dohánytermékek kiskereskedelme, illetve a dohánykiskereskedelem-ellátási tevékenység,
 - m) az egységes elektronikus értékesítésű közszolgáltatások egységes rendszerének működtetése,
-- n) az a)–m) pontban nem szereplő, az állam kizárólagos tulajdonába tartozó dolog létrehozása és működtetése.
+- n) a hulladékról szóló törvény szerinti állami hulladékgazdálkodási közfeladat,
+- o) az a)–n) pontban nem szereplő, az állam kizárólagos tulajdonába tartozó dolog létrehozása és működtetése.
 
 (2) A helyi önkormányzat kizárólagos gazdasági tevékenységei a következők:
 
@@ -365,6 +366,8 @@ közvetlen vagy közvetett többségi tulajdonában lévő gazdálkodó szerveze
 (11) Az (1) bekezdés k) pontjában és a (2) bekezdés f)–g) pontjában meghatározott kizárólagos gazdasági tevékenység gyakorlásának joga – a (4) és (5) bekezdésben meghatározott korlátozásokra figyelemmel – törvényben szabályozott módon másnak átengedhető.
 
 (11a) Az (1) bekezdés l) pontjában meghatározott kizárólagos gazdasági tevékenység gyakorlásának joga külön ágazati törvényben szabályozott módon másnak átengedhető.
+
+(11b) Az (1) bekezdés n) pontjában meghatározott kizárólagos gazdasági tevékenység vagy egyes résztevékenységei gyakorlásának joga ágazati törvényben szabályozott módon másnak átengedhető.
 
 (12) A (4)–(6) bekezdésben foglalt korlátozások figyelembevételével, valamint a (7)–(11) bekezdésben meghatározottakon kívül az állam és a helyi önkormányzat kizárólagos gazdasági tevékenysége gyakorlásának időleges joga koncessziós szerződés megkötése nélkül kizárólag
 
@@ -540,6 +543,8 @@ javára ruházható át.
 18/C. § E törvénynek a nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosításáról szóló 2016. évi LXII. törvény (a továbbiakban: Módtv3.) 1. §-ával módosított 2. mellékletét a Módtv3. hatálybalépésekor folyamatban levő ügyekben is alkalmazni kell.
 
 18/D. § E törvénynek a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2020. évi CXLVIII. törvénnyel (a továbbiakban: Módtv4.) megállapított 14/A. §-át a közfeladat-ellátás és a vagyonjuttatás feltételeinek, illetve az alapokiratnak a módosítása, valamint a közép- vagy hosszú távú finanszírozás tekintetében alkalmazni kell a Módtv4. hatálybalépése napját megelőzően a Módtv4. 14/A. § (1) bekezdése szerinti feltételeknek megfelelően megvalósult ingyenes vagyonjuttatás esetében is.
+
+18/E. § E törvénynek az egyes energetikai és hulladékgazdálkodási tárgyú törvények módosításáról szóló 2021. évi II. törvénnyel megállapított 12. § (1) bekezdés n) és o) pontját, valamint (11b) bekezdését – a koncessziós szerződés megkötésére irányuló pályázati eljárás előkészítésével és lefolytatásával, a koncessziós szerződés megkötésével vagy megszűnésével, továbbá a koncesszori feladatellátásra való felkészüléssel összefüggő jogviszonyok kivételével – 2023. július 1-jétől kell alkalmazni.
 
 19. § E törvény
 
