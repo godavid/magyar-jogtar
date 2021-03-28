@@ -99,7 +99,7 @@ rendelkezéseivel összhangban kell alkalmazni.
 
 (5) A Hivatal véglegessé vált határozatait – a személyes és védett adatok kivételével – a honlapján közzéteszi.
 
-5. § (1) A Hivatal részére felügyeleti tevékenységéért a hatáskörébe tartozó engedélyes felügyeleti díjat köteles fizetni, amelynek éves mértéke az engedélyes tevékenységéből származó előző évi nettó árbevételének 0,075%-a. Ha a tárgyévet megelőző évben az engedélyesnek nem volt vagy nem teljes évre vonatkozóan volt nettó árbevétele, akkor éves felügyeleti díj előleget fizet, amelynek mértéke a tárgyévre vonatkozó üzleti tervben az engedélyköteles tevékenységből elérni tervezett nettó árbevétel 0,075%-a. Ha a tárgyév tényleges nettó árbevétele nem azonos az üzleti tervben tervezettel, a különbözet 0,075%-ával a tárgyévet követő évben a fizetendő felügyeleti díj mértékét megfelelően módosítani kell.
+5. § (1) A Hivatal részére felügyeleti tevékenységéért a hatáskörébe tartozó engedélyes felügyeleti díjat köteles fizetni, amelynek éves mértéke az engedélyes tevékenységéből származó előző évi nettó árbevételének 0,085%-a. Ha a tárgyévet megelőző évben az engedélyesnek nem volt vagy nem teljes évre vonatkozóan volt nettó árbevétele, akkor éves felügyeleti díj előleget fizet, amelynek mértéke a tárgyévre vonatkozó üzleti tervben az engedélyköteles tevékenységből elérni tervezett nettó árbevétel 0,085%-a. Ha a tárgyév tényleges nettó árbevétele nem azonos az üzleti tervben tervezettel, a különbözet 0,085%-ával a tárgyévet követő évben a fizetendő felügyeleti díj mértékét megfelelően módosítani kell.
 
 (2) Az az engedélyes, amely az éves beszámolóját a számvitelről szóló 2000. évi C. törvény (a továbbiakban: számvitelről szóló törvény) 9/A. §-a alapján az IFRS-ek szerint készíti el, a felügyeleti díj meghatározása során az engedélye alapján végzett tevékenységéből származó előző évi nettó árbevételét a helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Helyi adó tv.) 40/B. § és 40/C. §-a alapján állapítja meg azzal, hogy:
 
@@ -769,7 +769,7 @@ megállapodásokat.
 
 (4)
 
-#### 59. §
+59. § E törvénynek az egyes energetikai és hulladékgazdálkodási tárgyú törvények módosításáról szóló 2021. évi II. törvénnyel megállapított 5. § (1) bekezdését a 2021. évi felügyeleti díj megállapítása során azzal az eltéréssel kell alkalmazni, hogy a 2021. január 1. és 2021. március 31. közé eső időszakra esedékes felügyeleti díjat, valamint a 2021. április 1-jétől esedékes felügyeleti díjat – az időszakban hatályos szabályok szerint – időarányosan kell megfizetni.
 
 59/A. § (1) Az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvény 223. §-ával megállapított, e törvény 60. § (2) bekezdés b) pontjában foglalt felhatalmazás alapján megalkotott rendelet hatálybalépéséig a 2011. március 31-én alkalmazott árakat kell alkalmazni.
 

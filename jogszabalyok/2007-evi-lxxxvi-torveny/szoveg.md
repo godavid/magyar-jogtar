@@ -3213,7 +3213,7 @@ villamos energia képezi.
 
 ### A Hivatal gazdálkodása
 
-161. § (1) A Hivatal részére felügyeleti tevékenységéért az engedélyes felügyeleti díjat köteles fizetni, amelynek éves mértéke az engedélyes tevékenységéből származó előző évi nettó árbevételének 0,075%-a. Ha a tárgyévet megelőző évben az engedélyesnek nem volt vagy nem teljes évre vonatkozóan volt nettó árbevétele, akkor éves felügyeleti díj előleget fizet, amelynek mértéke a tárgyévre vonatkozó üzleti tervben az engedélyköteles tevékenységből elérni tervezett nettó árbevétel 0,075%-a. Amennyiben a tárgyév tényleges nettó árbevétele nem azonos az üzleti tervben tervezettel, a különbözet 0,075%-ával a tárgyévet követő évben a fizetendő felügyeleti díj mértékét megfelelően módosítani kell.
+161. § (1) A Hivatal részére felügyeleti tevékenységéért az engedélyes felügyeleti díjat köteles fizetni, amelynek éves mértéke az engedélyes tevékenységéből származó előző évi nettó árbevételének 0,085%-a. Ha a tárgyévet megelőző évben az engedélyesnek nem volt vagy nem teljes évre vonatkozóan volt nettó árbevétele, akkor éves felügyeleti díj előleget fizet, amelynek mértéke a tárgyévre vonatkozó üzleti tervben az engedélyköteles tevékenységből elérni tervezett nettó árbevétel 0,085%-a. Amennyiben a tárgyév tényleges nettó árbevétele nem azonos az üzleti tervben tervezettel, a különbözet 0,085%-ával a tárgyévet követő évben a fizetendő felügyeleti díj mértékét megfelelően módosítani kell.
 
 (2) A Hivatal felügyeleti tevékenységéért az 500 kW alatti névleges teljesítőképességű, kötelező átvételi vagy prémium típusú támogatással rendelkező termelő a jogosultságot megállapító határozat véglegessé válásának évében és ezt követően évente a Hivatal számára ötvenezer forint felügyeleti díjat fizet.
 
@@ -3724,6 +3724,8 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 (2) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 #### 178/V. §
+
+178/X. § E törvénynek az egyes energetikai és hulladékgazdálkodási tárgyú törvények módosításáról szóló 2021. évi II. törvénnyel megállapított 161. § (1) bekezdését a 2021. évi felügyeleti díj megállapítása során azzal az eltéréssel kell alkalmazni, hogy a 2021. január 1. és 2021. március 31. közé eső időszakra esedékes felügyeleti díjat, valamint 2021. április 1-jétől esedékes felügyeleti díjat – az időszakban hatályos szabályok szerint – időarányosan kell megfizetni.
 
 ### HATÁLYBA LÉPTETŐ RENDELKEZÉSEK
 
