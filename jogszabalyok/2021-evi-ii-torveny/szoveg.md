@@ -10,11 +10,23 @@ egyes energetikai és hulladékgazdálkodási tárgyú törvények módosítás�
 
 (3)
 
-(4)
+(4) A Kkt. 45/E. §-a a következő (7) bekezdéssel egészül ki:
 
-(5)
+„(7) Ha a (4) bekezdés b) pontja szerinti tárgyévi tényleges nettó árbevétel nem azonos az üzleti tervben tervezettel, a különbözet 0,085%-ával a tárgyévet követő évben a fizetendő felügyeleti díj mértékét megfelelően korrigálni kell.”
 
-(6)
+(5) A Kkt. a következő 46/N. §-sal egészül ki:
+
+„46/N. § E törvénynek az egyes energetikai és hulladékgazdálkodási tárgyú törvények módosításáról szóló 2021. évi II. törvénnyel megállapított 45/E. § (4) bekezdés a) és b) pontját a 2021. évi felügyeleti díj megállapítása során azzal az eltéréssel kell alkalmazni, hogy a 2021. január 1. és 2021. március 31. közé eső időszakra esedékes felügyeleti díjat, valamint a 2021. április 1-jétől esedékes felügyeleti díjat – az időszakban hatályos szabályok szerint – időarányosan kell megfizetni.”
+
+(6) A Kkt. 48. § (3) bekezdés a) pontja a következő 49. alponttal egészül ki:
+
+(Felhatalmazást kap
+
+a Kormány, hogy)
+
+„49. a közút nem közlekedési célú igénybevétele esetén az igénybe vevő óvadékfizetési kötelezettségének részletes szabályait”
+
+(rendeletben állapítsa meg.)
 
 (7)
 
@@ -23,9 +35,9 @@ egyes energetikai és hulladékgazdálkodási tárgyú törvények módosítás�
 - a)
 - b)
 - c)
-- d)
-- e)
-- f)
+- d) 37. § (1) bekezdésében a „fizetni” szövegrész helyébe a „fizetni, közút nem közlekedési célú igénybevételéért az igénybevételi díj mellett óvadékfizetési kötelezettség írható elő” szöveg,
+- e) 45/E. § (4) bekezdés a) pontjában a „0,075%” szövegrész helyébe a „0,085%” szöveg,
+- f) 45/E. § (4) bekezdés b) pontjában az „az elektromobilitás szolgáltatónak nem volt, vagy nem teljes évre vonatkozóan volt nettó árbevétele” szövegész helyébe a „nem volt, vagy nem teljes évre vonatkozóan volt nettó árbevétele” szöveg, a „0,075%” szövegrész helyébe a „0,085%” szöveg
 
 lép.
 
@@ -41,13 +53,61 @@ lép.
 - b)
 - c)
 - d)
-- e)
+- e) 57. § (2) bekezdés b) pontjában a „felmerült kiadásokat,” szövegrész helyébe a „felmerült kiadásokat, a hulladékkezeléssel összefüggő, jogszabályban vagy hatósági határozatban megállapított tevékenységek költségeit,” szöveg
 
 lép.
 
-#### 3.
+#### 3. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
 
-3. §
+3. § (1) A bányászatról szóló 1993. évi XLVIII. törvény (a továbbiakban: Bt.) 20. § (4) bekezdése helyébe a következő rendelkezés lép, és a Bt. 20. §-a a következő (4a) és (4b) bekezdéssel egészül ki:
+
+„(4) Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 80 USD/bbl árat eléri vagy meghaladja, kőolaj esetében a (3) bekezdés a) és c) pontja szerinti bányajáradék mértéke 3-3 százalékponttal emelkedik. Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 90 USD/bbl árat eléri vagy meghaladja, kőolaj esetében a (3) bekezdés a) és c) pontja szerinti bányajáradék mértéke további 3-3 százalékponttal emelkedik.
+
+(4a) Ha a TTF földgáz tőzsdei jegyzésárának a havi átlaga a 18 EUR/MWh-t meghaladja, földgáz esetében a (3) bekezdés a) és c) pontja szerinti bányajáradék mértéke L%-kal, de legfeljebb 6%-kal emelkedik, ahol L = Jalap × (PTTF – 18 EUR/MWh) × 3,2%, L: a bányajáradék-növekedés százalékos mértéke (%); Jalap: a bányajáradék (3) bekezdés a) és c) pontja szerinti mértéke (%); PTTF: a TTF földgáz bevallási időszak napi jegyzésárainak számtani átlaga (EUR/MWh).
+
+(4b) Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 80 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés b) pontja szerinti bányajáradék mértéke 3-3 százalékponttal emelkedik. Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 90 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés b) pontja szerinti bányajáradék mértéke további 3-3 százalékponttal emelkedik.”
+
+(2) A Bt. 38/A. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Előmunkálati jog, vezetékjog, valamint használati jog az engedélyesnek az ingatlan tulajdonosával kötött megállapodása alapján keletkezik. Ha a használattal érintett ingatlan közös tulajdonban áll, a megállapodáshoz az érintett személyek tulajdoni hányad alapján számított többségi döntése szükséges. Megállapodás hiányában az előmunkálati jogot, a vezetékjogot, valamint a használati jogot a bányafelügyelet engedélyezi.”
+
+(3) A Bt. 38/A. §-a a következő (7) és (8) bekezdéssel egészül ki:
+
+„(7) Az (5) bekezdés szerinti megállapodás megkötéséhez való hozzájárulást vélelmezni kell az olyan tulajdonos, tulajdonostárs részéről, akinek a megállapodás tervezetének közlése
+
+a) nem lehetséges, mert
+
+aa) személye bizonytalan, vagy
+
+ab) lakcíme, tartózkodási helye, székhelye, telephelye, fióktelepe ismeretlen, vagy
+
+b) meghiúsul, mert a postai küldemény
+
+ba) azzal a jelzéssel érkezik vissza, hogy „nem kereste” vagy „elköltözött”, vagy
+
+bb) átvételét megtagadta, vagy
+
+c) eredményes, de a nyilatkozattételre megszabott határidőn belül nem nyilatkozott.
+
+(8) A (7) bekezdés a) pont aa) alpontja alkalmazásában a tulajdonos, tulajdonostárs személye bizonytalannak minősül, ha közokirattal igazolt, hogy
+
+a) azonosítása nem lehetséges az ingatlan-nyilvántartásban szereplő adatai alapján, vagy
+
+b) természetes személy esetén örököse, gazdálkodó szervezet esetén jogutódja az ingatlan-nyilvántartásból nem állapítható meg.”
+
+(4) A Bt. 43. § (9a) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(A felügyeleti díj éves mértéke)
+
+„a) – a (9d) bekezdésben foglaltak kivételével – a bányatelekből, a kutatási területből a tárgyévet megelőző évben kitermelt ásványi nyersanyag bányajáradék-köteles része értékének 0,4%-a,”
+
+(5) A Bt. 43. §-a a következő (9d) bekezdéssel egészül ki:
+
+„(9d) A felügyeleti díj éves összege a bányatelekből, a kutatási területből a tárgyévet megelőző évben kitermelt kőolaj esetében 550 Ft/t, földgáz esetében 350 Ft/em3.”
+
+(6) A Bt. 50. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) E törvénynek az egyes energetikai és hulladékgazdálkodási tárgyú törvények módosításáról szóló 2021. évi II. törvénnyel (a továbbiakban: Módtv5.) megállapított 43. § (9a) bekezdés a) pontját és 43. § (9d) bekezdését azzal az eltéréssel kell alkalmazni, hogy a 2021. évre vonatkozóan a Módtv5. 3. alcíme hatálybalépését megelőző időszakra eső felügyeleti díjat a Módtv5. 3. alcíme hatálybalépését megelőzően hatályos szabályok szerint, a Módtv5. 3. alcíme hatálybalépését követő időszakra eső felügyeleti díjat a Módtv5. 3. alcíme hatálybalépését követően hatályos szabályok szerint, időarányosan kell megfizetni. E törvénynek a Módtv5.-tel megállapított 20. § (4)–(4b) bekezdése először a 2021. április hónapra vonatkozó bányajáradék bevallása esetén alkalmazandó.”
 
 #### 4. A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény módosítása
 
@@ -77,11 +137,13 @@ lép.
 
 (3)
 
-(4)
+(4) A Tszt. a következő 59. §-sal egészül ki:
+
+„59. § E törvénynek az egyes energetikai és hulladékgazdálkodási tárgyú törvények módosításáról szóló 2021. évi II. törvénnyel megállapított 5. § (1) bekezdését a 2021. évi felügyeleti díj megállapítása során azzal az eltéréssel kell alkalmazni, hogy a 2021. január 1. és 2021. március 31. közé eső időszakra esedékes felügyeleti díjat, valamint a 2021. április 1-jétől esedékes felügyeleti díjat – az időszakban hatályos szabályok szerint – időarányosan kell megfizetni.”
 
 8. § A Tszt.
 
-- a)
+- a) 5. § (1) bekezdésében a „0,075%” szövegrészek helyébe a „0,085%” szöveg,
 - b)
 - c)
 - d)
@@ -109,14 +171,16 @@ lép.
 
 (9)
 
-(10)
+(10) A Vet. XXI. Fejezete a következő 178/X. §-sal egészül ki:
+
+„178/X. § E törvénynek az egyes energetikai és hulladékgazdálkodási tárgyú törvények módosításáról szóló 2021. évi II. törvénnyel megállapított 161. § (1) bekezdését a 2021. évi felügyeleti díj megállapítása során azzal az eltéréssel kell alkalmazni, hogy a 2021. január 1. és 2021. március 31. közé eső időszakra esedékes felügyeleti díjat, valamint 2021. április 1-jétől esedékes felügyeleti díjat – az időszakban hatályos szabályok szerint – időarányosan kell megfizetni.”
 
 10. § A Vet.
 
 - a)
 - b)
 - c)
-- d)
+- d) a 161. § (1) bekezdésében a „0,075%” szövegrészek helyébe a „0,085%” szöveg
 
 lép.
 
@@ -154,7 +218,9 @@ lép.
 
 (11)
 
-(12)
+(12) A Get. XVIII. Fejezete a következő 146/Q. §-sal egészül ki:
+
+„146/Q. § E törvénynek az egyes energetikai és hulladékgazdálkodási tárgyú törvények módosításáról szóló 2021. évi II. törvénnyel megállapított 129. § (1) bekezdését a 2021. évi felügyeleti díj megállapítása során azzal az eltéréssel kell alkalmazni, hogy a 2021. január 1. és 2021. március 31. közé eső időszakra esedékes felügyeleti díjat, valamint a 2021. április 1-jétől esedékes felügyeleti díjat – az időszakban hatályos szabályok szerint – időarányosan kell megfizetni.”
 
 15. § A Get.
 
@@ -169,7 +235,7 @@ lép.
 - i)
 - j)
 - k)
-- l)
+- l) 129. § (1) bekezdésében a „0,075%” szövegrészek helyébe a „0,085%” szöveg
 
 lép.
 
@@ -247,15 +313,45 @@ lép.
 
 (8)
 
-(9)
+(9) A Ht. 2. § (1) bekezdése a következő 26a–26d. ponttal egészül ki:
+
+(E törvény alkalmazásában)
+
+„26a. hulladékgazdálkodási eszközök: a hulladékgazdálkodási tevékenység ellátását szolgáló és ahhoz bármilyen jogcímen használt vagyon és vagyoni értékű jogok;
+
+26b. hulladékgazdálkodási intézményi résztevékenység: az a kötelező jelleggel igénybe veendő hulladékgazdálkodási résztevékenység, amely magában foglalja az ingatlanhasználó hulladékgazdálkodási közszolgáltatási résztevékenység körébe nem tartozó települési hulladékának, kiterjesztett gyártói felelősségi rendszer hatálya alá tartozó termékek hulladékának, a környezetvédelmi termékdíjas termék hulladékának és a visszaváltási díjas rendszer hulladékának az átvételét, gyűjtését, elszállítását, előkezelését, kereskedelmét és kezelésre történő átadását, ideértve az ezek által érintett hulladékgazdálkodási létesítmények fenntartását és üzemeltetését, továbbá az ilyen hulladékokra létrehozott kiterjesztett gyártói felelősségi rendszerek 53/A. § (4) bekezdésében meghatározott kiterjesztett gyártói felelősségi kötelezettséget a gyártó nevében teljesítő szervezeti feladatainak ellátását, valamint a kötelező visszaváltási díjas rendszer működtetését;
+
+26c. hulladékgazdálkodási közszolgáltatási résztevékenység: az a kötelező jelleggel igénybe veendő hulladékgazdálkodási résztevékenység, amely magában foglalja az ingatlanhasználó települési vegyes és elkülönítetten gyűjtött hulladékának – ide nem értve a gazdálkodó szervezet ingatlanhasználó háztartási hulladékhoz hasonló hulladék részét képező elkülönítetten gyűjtött hulladékát –, valamint a természetes személy ingatlanhasználó lomtalanítás körébe tartozó lomhulladékának átvételét, gyűjtését, elszállítását, előkezelését, kereskedelmét és kezelésre történő átadását, ideértve a hulladékgazdálkodási közszolgáltatással érintett hulladékgazdálkodási létesítmény fenntartását és üzemeltetését;
+
+26d. hulladékgazdálkodási tevékenység: a hulladékgazdálkodás körébe tartozó tevékenységek összessége;”
 
 (10)
 
-(11)
+(11) A Ht. 2. § (1) bekezdése a következő 33a. ponttal egészül ki:
+
+(E törvény alkalmazásában)
+
+„33a. indokolt költség: jogszabálynak vagy engedélynek megfelelően az engedélyköteles tevékenység, illetve az állami hulladékgazdálkodási közfeladat folyamatos és biztonságos ellátásához, valamint a hulladékgazdálkodási tevékenységet végző gazdálkodó szervezet működéséhez ténylegesen szükséges költség, beleértve a tőkeköltséget is;”
 
 (12)
 
-(13)
+(13) A Ht. 2. § (1) bekezdés 36c. pontja helyébe a következő rendelkezés lép, és a Ht. 2. § (1) bekezdése a következő 36d–36i. ponttal egészül ki:
+
+(E törvény alkalmazásában)
+
+„36c. kompenzáció: az eredeti hulladéktermelő gazdálkodó szervezet részére pénzben kifejezhető értékkel rendelkező, a hulladékgazdálkodási intézményi résztevékenység körébe tartozó hulladékának átadásáért fizetett ellenérték;
+
+36d. koncessziós társaság: a koncesszióról szóló 1991. évi XVI. törvény (a továbbiakban: Konctv.) 20. § (1) bekezdésében meghatározott, a koncesszor által, annak részvételével alapított gazdasági társaság;
+
+36e. koncessziós terület: az ország egész területe, amelyre vonatkozóan a koncesszor a koncesszió tárgyát képező hulladékgazdálkodási résztevékenységre vonatkozó koncessziós szerződést kötött;
+
+36f. koncesszor: a hulladékgazdálkodási koncessziós jogosultság átengedése tekintetében az állam által lefolytatott, jogszabályban meghatározott nyilvános kiválasztási eljárás nyertes ajánlattevője, a koncesszió jogosultja;
+
+36g. koncesszori alvállalkozó: azok az e törvény szerinti engedély vagy nyilvántartásba vétel alapján hulladékgazdálkodási résztevékenységet végző vállalkozások, amelyek a koncesszorral, illetve a koncessziós társasággal közvetlenül, vagy egy vagy több másik ilyen vállalkozáson keresztül közvetetten az állami hulladékgazdálkodási közfeladat ellátásában történő közreműködés tárgyában kötött hatályos szerződéssel rendelkeznek;
+
+36h. koncesszori alvállalkozói nyilvántartás: a koncesszori alvállalkozókról a hulladékgazdálkodási hatóság által vezetett nyilvántartás;
+
+36i. közszolgáltatási terület: az Országos Hulladékgazdálkodási Közszolgáltatási Terv által meghatározott olyan, települési közigazgatási területtel vagy területekkel egyértelműen behatárolható terület, amelyre vonatkozóan az önkormányzat hulladékgazdálkodási közszolgáltatási szerződést kötött;”
 
 (14)
 
@@ -291,7 +387,47 @@ lép.
 
 38. § (1)
 
-(2)
+(2) A Ht. 12. alcíme a következő 18/A–18/D. §-sal egészül ki:
+
+„18/A. § (1) A B3 alkategóriájú hulladéklerakó üzemeltetője a szabad kapacitásai erejéig nem tagadhatja meg a koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó által az állami hulladékgazdálkodási közfeladat ellátásával összefüggésben keletkezett – és a B3 alkategóriájú hulladéklerakóban lerakható – hulladék átvételét a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) elnökének e törvény végrehajtására kiadott rendeletében meghatározott hulladéklerakási díjért.
+
+(2) A koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó kérésére a hulladékgazdálkodási hatóság az érintett B3 alkategóriájú hulladéklerakó szabad kapacitásáról tájékoztatást ad.
+
+(3) Ha a B3 alkategóriájú hulladéklerakó üzemeltetője a szabad kapacitás ellenére a lerakóban ártalmatlanítható hulladék átvételét legkésőbb az 53/H. § (1) bekezdésében meghatározott időpontot megelőző egy hónappal szerződés megkötésével nem teszi lehetővé, a koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó kérelmére a hulladékgazdálkodási hatóság kötelezi arra az üzemeltetőt.
+
+(4) E § alkalmazásában 2023. július 1. napjától a hulladékgazdálkodási közszolgáltatás ellátását 2023. június 30. napjáig szolgáló lerakó kapacitás szabad kapacitásnak minősül.
+
+18/B. § (1) A B3 alkategóriájú hulladéklerakóban alkalmazható hulladéklerakási díj fedezetet kell, hogy nyújtson a hulladéklerakó működtetésével kapcsolatos indokolt költségekre, a 70. §-ban meghatározott céltartalék képzésére és a hulladéklerakási járulék megfizetésére.
+
+(2) A B3 alkategóriájú hulladéklerakóban alkalmazható hulladéklerakási díjat egyéves díjfizetési időszakra, általános forgalmi adó nélkül számított egységnyi díjtételek szerint kell meghatározni.
+
+(3) A B3 alkategóriájú hulladéklerakóban alkalmazható hulladéklerakási díjat a Hivatal elnöke e törvény végrehajtására kiadott rendeletében állapítja meg.
+
+18/C. § (1) A B3 alkategóriájú hulladéklerakóban alkalmazható hulladéklerakási díjra vonatkozó rendelkezések betartását a Hivatal ellenőrzi. E rendelkezések megsértése esetében a Hivatal határozattal
+
+a) megtiltja a jogszabálysértő díj további alkalmazását, és kötelezi a B3 alkategóriájú hulladéklerakó üzemeltetőjét, vagy a tulajdonosát a jogszerű ellenérték alkalmazására, és
+
+b) kötelezi a B3 alkategóriájú hulladéklerakó üzemeltetőjét, vagy a tulajdonosát a rendelkezések megsértésével elért többletbevételnek a jegybanki alapkamat tárgyévi éves átlagával növelt összegének a sérelmet szenvedett fél részére történő visszatérítésére.
+
+(2) A Hivatal az (1) bekezdésben alkalmazott jogkövetkezmény mellett bírságot szab ki a B3 alkategóriájú hulladéklerakó üzemeltetőjével vagy a tulajdonosával szemben. A bírság mértékére az 51. § (3) bekezdése alkalmazandó.
+
+(3) A hulladéklerakási díj alkalmazásával kapcsolatos díjfelügyeleti eljárásban az ügyintézési határidő huszonöt nap.
+
+(4) A Hivatal a hulladéklerakási díj alkalmazásával kapcsolatos díjfelügyeleti eljárás keretében hozott, véglegessé vált határozatait közhírré teszi.
+
+(5) A hulladéklerakási díj alkalmazásával kapcsolatos díjfelügyeleti eljárásban e törvény erejénél fogva ügyfélnek minősül a B3 alkategóriájú hulladéklerakó üzemeltetője, vagy a tulajdonosa.
+
+(6) A bíróság a Hivatal hulladéklerakási díj alkalmazásával kapcsolatos díjfelügyeleti eljárásban hozott határozatát nem változtathatja meg.
+
+18/D. § (1) A hulladékgazdálkodási koncessziós jogosultság átengedésével kapcsolatos nyilvános pályázat kiírásának időpontját megelőzően üzembe helyezett nem veszélyes vegyes települési hulladékot égető hulladékégető mű, amelynek hulladékgazdálkodási engedélye a koncessziós területen a legnagyobb éves befogadható égethető hulladékmennyiséget tartalmazza, valamint az állami hulladékgazdálkodási közfeladat ellátásához szükséges hulladékgazdálkodási eszköz (e § alkalmazásában a továbbiakban: eszköz) üzemeltetője a szabad kapacitásai erejéig nem tagadhatja meg a koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó által az eszköz használatát az állami hulladékgazdálkodási közfeladat ellátásával összefüggésben, a Hivatal elnökének e törvény végrehajtására kiadott rendeletében meghatározott díj ellenében.
+
+(2) A koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó kérésére a hulladékgazdálkodási hatóság az érintett eszközök tekintetében a szabad kapacitásokról tájékoztatást ad.
+
+(3) Ha az érintett eszköz üzemeltetője a szabad kapacitás ellenére az eszköz használatát legkésőbb az 53/H. § (1) bekezdésében meghatározott időpontot megelőző egy hónappal, vagy új eszköz létesítése esetén a vonatkozó hulladékgazdálkodási engedély véglegessé válását követő egy hónapon belül, szerződés megkötésével nem teszi lehetővé, a koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó kérelmére a hulladékgazdálkodási hatóság kötelezi arra az üzemeltetőt.
+
+(4) Az e §-ban alkalmazandó díj, a díjra vonatkozó rendelkezések megsértésének jogkövetkezményei, a bírság és a díjfelügyeleti eljárás tekintetében a 18/B–18/C. § rendelkezései irányadók.
+
+(5) Az e § alkalmazásában 2023. július 1. napjától a hulladékgazdálkodási közszolgáltatás ellátásához 2023. június 30. napjáig igénybe vett eszköz szabad kapacitásnak minősül.”
 
 39. §
 
@@ -343,7 +479,9 @@ lép.
 
 (2)
 
-56. § (1)
+56. § (1) A Ht. 43. § (2b) bekezdése helyébe a következő rendelkezés lép:
+
+„(2b) A hulladékgazdálkodási hatóság a részére nyújtott adatszolgáltatás helyességének megállapítása érdekében jogosult az állam tulajdonába kerülő hulladékkal kapcsolatos tevékenységet végző közszolgáltató, a Koordináló szerv és az alvállalkozó, valamint ezek közreműködője tevékenységének ellenőrzésére, ideértve a helyszíni ellenőrzést is. A Koordináló szerv az állam hulladékgazdálkodási közfeladatainak ellátása érdekében tulajdonjogára és vagyonkezelői jogára tekintettel jogosult a tulajdonába kerülő hulladékkal hulladékgazdálkodási tevékenységet végző gazdálkodó szervezetek, valamint az e törvény végrehajtására kiadott jogszabály alapján a Koordináló szerv felé adatszolgáltatásra kötelezettek ellenőrzésére, ideértve a hulladékgazdálkodási létesítményeket érintő helyszíni ellenőrzést is. Ha az adatszolgáltatásra vagy az ellenőrzés tűrésére kötelezett a Koordináló szerv ellenőrzését akadályozza, nem működik közre vagy hamis adatot, nyilatkozatot szolgáltat, a Koordináló szerv kezdeményezi a hulladékgazdálkodási hatóság eljárását.”
 
 (2)
 

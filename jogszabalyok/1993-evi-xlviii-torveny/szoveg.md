@@ -328,7 +328,11 @@ felhasznált, hasznosított vagy értékesített ásványi nyersanyag mennyiség
 
 (3b) A föld alatti szénelgázosítással történő kitermelés esetében a bányajáradék mértéke az igénybevett ásványi nyersanyag mennyisége után keletkező értéknek a 2%-a.
 
-(4) Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 80 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés a)–c) pontok szerinti bányajáradék mértéke 3-3 százalékponttal emelkedik. Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 90 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés a)–c) pontok szerinti bányajáradék mértéke további 3-3 százalékponttal emelkedik.
+(4) Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 80 USD/bbl árat eléri vagy meghaladja, kőolaj esetében a (3) bekezdés a) és c) pontja szerinti bányajáradék mértéke 3-3 százalékponttal emelkedik. Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 90 USD/bbl árat eléri vagy meghaladja, kőolaj esetében a (3) bekezdés a) és c) pontja szerinti bányajáradék mértéke további 3-3 százalékponttal emelkedik.
+
+(4a) Ha a TTF földgáz tőzsdei jegyzésárának a havi átlaga a 18 EUR/MWh-t meghaladja, földgáz esetében a (3) bekezdés a) és c) pontja szerinti bányajáradék mértéke L%-kal, de legfeljebb 6%-kal emelkedik, ahol L = Jalap × (PTTF – 18 EUR/MWh) × 3,2%, L: a bányajáradék-növekedés százalékos mértéke (%); Jalap: a bányajáradék (3) bekezdés a) és c) pontja szerinti mértéke (%); PTTF: a TTF földgáz bevallási időszak napi jegyzésárainak számtani átlaga (EUR/MWh).
+
+(4b) Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 80 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés b) pontja szerinti bányajáradék mértéke 3-3 százalékponttal emelkedik. Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 90 USD/bbl árat eléri vagy meghaladja, a (3) bekezdés b) pontja szerinti bányajáradék mértéke további 3-3 százalékponttal emelkedik.
 
 (5) A bányajáradék mértéke 0% a növelt hatékonyságú művelési eljárások alkalmazásával kitermelt szénhidrogén mennyisége után.
 
@@ -889,7 +893,7 @@ okozott kárt az engedélyes az ingatlan tulajdonosának, használójának (a to
 
 (4) Az (1) bekezdés szerinti jogok megszűnése esetén az engedélyes, illetőleg az elosztóvezeték tulajdonosa köteles az ingatlan eredeti állapotát helyreállítani.
 
-(5) Előmunkálati jog, vezetékjog, valamint használati jog az engedélyesnek az ingatlan tulajdonosával kötött megállapodása alapján keletkezik. Megállapodás hiányában az előmunkálati jogot, a vezetékjogot, valamint a használati jogot a bányafelügyelet engedélyezi.
+(5) Előmunkálati jog, vezetékjog, valamint használati jog az engedélyesnek az ingatlan tulajdonosával kötött megállapodása alapján keletkezik. Ha a használattal érintett ingatlan közös tulajdonban áll, a megállapodáshoz az érintett személyek tulajdoni hányad alapján számított többségi döntése szükséges. Megállapodás hiányában az előmunkálati jogot, a vezetékjogot, valamint a használati jogot a bányafelügyelet engedélyezi.
 
 (5a) Közterületen elhelyezendő elosztóvezetékre vagy a 38/D. § (1) bekezdésében meghatározott létesítményre és ezek közterületet érintő biztonsági övezetére vezetékjogot vagy használati jogot alapítani nem lehet. Az elosztóvezeték vagy a 38/D. § (1) bekezdésében meghatározott létesítmény közterületen történő elhelyezését a közterület tulajdonosa tűrni köteles. A közterület igénybevételével – beleértve a közterület használati korlátázását is – okozott károkért az építtető köteles kártalanítást fizetni.
 
@@ -905,9 +909,20 @@ okozott kárt az engedélyes az ingatlan tulajdonosának, használójának (a to
 
 (6) A felszíni ingatlan korlátozására vonatkozó jogok tartalmával, engedélyezésével, megszűnésével és a kártalanítással kapcsolatos részletes szabályokat a Kormány rendeletben állapítja meg.
 
-(7)
+(7) Az (5) bekezdés szerinti megállapodás megkötéséhez való hozzájárulást vélelmezni kell az olyan tulajdonos, tulajdonostárs részéről, akinek a megállapodás tervezetének közlése
 
-(8)
+- a) nem lehetséges, mert
+  - aa) személye bizonytalan, vagy
+  - ab) lakcíme, tartózkodási helye, székhelye, telephelye, fióktelepe ismeretlen, vagy
+- b) meghiúsul, mert a postai küldemény
+  - ba) azzal a jelzéssel érkezik vissza, hogy „nem kereste” vagy „elköltözött”, vagy
+  - bb) átvételét megtagadta, vagy
+- c) eredményes, de a nyilatkozattételre megszabott határidőn belül nem nyilatkozott.
+
+(8) A (7) bekezdés a) pont aa) alpontja alkalmazásában a tulajdonos, tulajdonostárs személye bizonytalannak minősül, ha közokirattal igazolt, hogy
+
+- a) azonosítása nem lehetséges az ingatlan-nyilvántartásban szereplő adatai alapján, vagy
+- b) természetes személy esetén örököse, gazdálkodó szervezet esetén jogutódja az ingatlan-nyilvántartásból nem állapítható meg.
 
 (9)
 
@@ -1369,7 +1384,7 @@ eltelt.
 
 (9a) A felügyeleti díj éves mértéke
 
-- a) a bányatelekből, a kutatási területből a tárgyévet megelőző évben kitermelt ásványi nyersanyag bányajáradék-köteles része értékének 0,4%-a,
+- a) – a (9d) bekezdésben foglaltak kivételével – a bányatelekből, a kutatási területből a tárgyévet megelőző évben kitermelt ásványi nyersanyag bányajáradék-köteles része értékének 0,4%-a,
 - b) az engedélyes tevékenység esetében a tárgyévet megelőző évi árbevétel 0,4%-a,
 - c) a határon átnyúló szolgáltatásként PB-gáz forgalmazást végző esetében a magyarországi, tárgyévet megelőző évi árbevétel 0,4%-a,
 - d) a bányászati hulladék kezelőjének esetében – ha tevékenysége tekintetében nem minősül bányavállalkozónak – a tevékenysége tárgyévet megelőző évi árbevételének 0,04%-a, valamint
@@ -1378,6 +1393,8 @@ eltelt.
 (9b) A bányafelügyelet eljárásáért igazgatási szolgáltatási díjat kell fizetni.
 
 (9c) A (9) bekezdés szerint felügyeleti díjat fizető bányavállalkozónak, illetve engedélyesnek a tárgyévben befizetendő felügyeleti díjból – a tárgyévre megállapított felügyeleti díj fizetési kötelezettség mértékéig – visszajár a tárgyévet megelőző évben az általa a bányafelügyelet eljárásaiért megfizetett igazgatási szolgáltatási díjak összege.
+
+(9d) A felügyeleti díj éves összege a bányatelekből, a kutatási területből a tárgyévet megelőző évben kitermelt kőolaj esetében 550 Ft/t, földgáz esetében 350 Ft/em3.
 
 (10) A bányászati igazgatási feladatokat ellátó személyek részére igazolványt, a hatósági feladatokat ellátó személyek részére az igazolvánnyal azonos sorszámú szolgálati jelvényt kell biztosítani.
 
@@ -1727,7 +1744,7 @@ bányahatósági felügyelete
 
 (2) Az e törvény hatálybalépése előtt állami költségvetésből finanszírozott kutatás vagy állami bányavállalatok tevékenysége során létrejött földtani adatokat, továbbá ásványvagyon számításokat és nyilvántartásokat az állami földtani feladatokat ellátó szerv rendelkezésére kell bocsátani.
 
-(3)
+(3) E törvénynek az egyes energetikai és hulladékgazdálkodási tárgyú törvények módosításáról szóló 2021. évi II. törvénnyel (a továbbiakban: Módtv5.) megállapított 43. § (9a) bekezdés a) pontját és 43. § (9d) bekezdését azzal az eltéréssel kell alkalmazni, hogy a 2021. évre vonatkozóan a Módtv5. 3. alcíme hatálybalépését megelőző időszakra eső felügyeleti díjat a Módtv5. 3. alcíme hatálybalépését megelőzően hatályos szabályok szerint, a Módtv5. 3. alcíme hatálybalépését követő időszakra eső felügyeleti díjat a Módtv5. 3. alcíme hatálybalépését követően hatályos szabályok szerint, időarányosan kell megfizetni. E törvénynek a Módtv5.-tel megállapított 20. § (4)–(4b) bekezdése először a 2021. április hónapra vonatkozó bányajáradék bevallása esetén alkalmazandó.
 
 (4) A törvény 9. §-a szerinti zárt területté történő kijelölés a folyamatban lévő eljárásokat nem érinti.
 
