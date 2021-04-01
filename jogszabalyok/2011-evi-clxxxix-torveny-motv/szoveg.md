@@ -557,7 +557,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 51. § (1) A helyi önkormányzat képviselő-testülete által megalkotott rendeletet a polgármester és a jegyző írja alá.
 
-(2) Az önkormányzati rendeletet a képviselő-testület hivatalos lapjában vagy a helyben szokásos – a szervezeti és működési szabályzatban meghatározott – módon ki kell hirdetni. A saját honlappal rendelkező önkormányzat rendeletét a honlapján is közzéteszi. Kihirdetéséről a jegyző gondoskodik. A helyi önkormányzat az önkormányzati rendeletet a kihirdetését követően haladéktalanul megküldi a kormányhivatalnak, és a kormányhivatal továbbítja azt a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek.
+(2) Az önkormányzati rendeletet a képviselő-testület hivatalos lapjában vagy a helyben szokásos – a szervezeti és működési szabályzatban meghatározott – módon ki kell hirdetni. A saját honlappal rendelkező önkormányzat rendeletét a honlapján is közzéteszi. Kihirdetéséről a jegyző gondoskodik. A jegyző kormányrendeletben meghatározottak szerint gondoskodik az önkormányzati rendelet kormányhivatal részére történő megküldéséről.
 
 (3) Ha az önkormányzati rendelet kihirdetett szövege eltér az önkormányzati rendelet aláírt szövegétől, a polgármester vagy a jegyző kezdeményezi az eltérés helyesbítését. Az önkormányzati rendelet a hatálybalépését megelőzően, de legkésőbb a kihirdetést követő hatodik munkanapon helyesbíthető. Az eltérés megállapítása esetén a helyesbítés megjelentetéséről a jegyző az önkormányzati rendelet kihirdetésével azonos módon gondoskodik.
 
@@ -584,7 +584,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 - m) a hozott döntéseket és
 - n) a szervezeti és működési szabályzatban meghatározottakat.
 
-(2) A képviselő-testület ülésének a jegyzőkönyvét a polgármester és a jegyző írja alá. A jegyzőkönyv közokirat, amelynek elkészítéséről a jegyző gondoskodik. A zárt ülésről külön jegyzőkönyvet kell készíteni. A jegyzőkönyvet az ülést követő tizenöt napon belül a jegyző köteles megküldeni a kormányhivatalnak.
+(2) A képviselő-testület ülésének a jegyzőkönyvét a polgármester és a jegyző írja alá. A jegyzőkönyv közokirat, amelynek elkészítéséről a jegyző gondoskodik. A zárt ülésről külön jegyzőkönyvet kell készíteni. A jegyzőkönyvet a jegyző kormányrendeletben meghatározottak szerint köteles megküldeni a kormányhivatalnak.
 
 (3) A választópolgárok – a zárt ülés kivételével – betekinthetnek a képviselő-testület előterjesztésébe és ülésének jegyzőkönyvébe. A közérdekű adat és közérdekből nyilvános adat megismerésének lehetőségét zárt ülés tartása esetén is biztosítani kell. A zárt ülésen hozott képviselő-testületi döntés is nyilvános.
 
@@ -649,7 +649,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (3) A képviselő-testület döntési jogot adhat bizottságának, amelyet bármikor visszavonhat.
 
-60. § A bizottság ülésének összehívására, működésére, nyilvánosságára, határozatképességére és határozathozatalára, döntésének végrehajtására, a bizottság tagjainak kizárására, a bizottság üléséről készített jegyzőkönyv tartalmára a képviselő-testületre vonatkozó szabályokat kell megfelelően alkalmazni azzal az eltéréssel, hogy a kizárásról a bizottság dönt, továbbá a jegyzőkönyvet a bizottság elnöke és egy tagja írja alá. A jegyző tizenöt napon belül köteles a jegyzőkönyvet megküldeni a kormányhivatalnak.
+60. § A bizottság ülésének összehívására, működésére, nyilvánosságára, határozatképességére és határozathozatalára, döntésének végrehajtására, a bizottság tagjainak kizárására, a bizottság üléséről készített jegyzőkönyv tartalmára a képviselő-testületre vonatkozó szabályokat kell megfelelően alkalmazni azzal az eltéréssel, hogy a kizárásról a bizottság dönt, továbbá a jegyzőkönyvet a bizottság elnöke és egy tagja írja alá. A jegyző kormányrendeletben meghatározottak szerint köteles a jegyzőkönyvet megküldeni a kormányhivatalnak.
 
 61. § (1) A polgármester indítványára a bizottságot össze kell hívni az indítvány kézhezvételétől számított nyolc napon belül.
 
@@ -1504,7 +1504,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 - g) a 14/A. § (2) bekezdés b) pontjában foglalt – ennek keretében a közterületek elnevezésénél használható közterületjellegekre vonatkozó – követelményeket és a 14/A. § (2) bekezdés c) pontja szerinti technikai feltételeket;
 - h) az önkormányzati ASP rendszer elemeit és működtetésének szabályait, az önkormányzati ASP rendszerhez való csatlakozás módját, a csatlakozás végső határidejét, az önkormányzati adattárházat működtető szervet, az önkormányzati adattár adatainak forrását és az önkormányzati adattárházból történő adatlekérdezés, adatösszegzés és adatszolgáltatás feltételeit.
 
-(2) Felhatalmazást kap a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter, hogy az önkormányzati rendeletnek és a jegyzőkönyvnek a kormányhivatal részére történő megküldése rendjét rendeletben szabályozza.
+(2) Felhatalmazást kap a Kormány, hogy az önkormányzati rendeletnek és a jegyzőkönyvnek a kormányhivatal részére történő megküldése rendjét rendeletben szabályozza.
 
 (3) Felhatalmazást kap a települési, a fővárosban a fővárosi önkormányzat, hogy rendeletben állapítsa meg a közterületek elnevezésének, valamint az elnevezésük megváltoztatására irányuló kezdeményezés és a házszám-megállapítás szabályait.
 
