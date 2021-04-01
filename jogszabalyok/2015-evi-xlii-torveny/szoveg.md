@@ -3368,7 +3368,7 @@ hivatalból eljárva határozatban dönt. A határozat alapján a támogatás m�
 
 (3) A szolgálati nyugdíjas megtartja a minisztérium, valamint a rendvédelmi szerv kezelése vagy rendelkezése alatt álló lakáshoz való bérleti jogát vagy más bérlemény kiutalását kérheti.
 
-(4) A szolgálati nyugdíjas rendfokozatban egy alkalommal előléptethető vagy kinevezhető, ha a rendvédelmi szerv célja érdekében kifejtett kiemelkedő tevékenységével arra érdemesült.
+(4) A szolgálati nyugdíjas rendfokozatban kettő alkalommal előléptethető vagy kinevezhető, ha a rendvédelmi szerv célja érdekében kifejtett kiemelkedő tevékenységével arra érdemesült.
 
 (5) A (3) bekezdés szerinti lakásbérleti jog nem illeti meg a szolgálati nyugdíjast, ha a szolgálati viszonya a 80. § (1) bekezdés f) vagy g) pontja, (2) bekezdés b) vagy c) pontja, vagy a 86. § (2) bekezdés b)–d) pontja alapján szűnt meg.
 
@@ -3451,17 +3451,23 @@ hivatalból eljárva határozatban dönt. A határozat alapján a támogatás m�
 
 ### XXV. Fejezet — SZEMÉLYÜGYI NYILVÁNTARTÁS
 
-272. § (1) A hivatásos állomány tagjairól személyügyi alapnyilvántartást és központi személyügyi nyilvántartást (a továbbiakban együtt: személyügyi nyilvántartás) kell vezetni.
+272. § (1) A hivatásos állomány tagjáról személyügyi alapnyilvántartást kell vezetni.
 
-(2) Személyügyi alapnyilvántartást az állományilletékes parancsnok szervezeti egységénél, a központi személyügyi nyilvántartást az országos parancsnok, valamint az országos főigazgató által vezetett szervezeti egységnél kell vezetni.
+(1a) A személyügyi alapnyilvántartást a Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben meghatározott informatikai rendszerben elektronikusan kell vezetni. A személyügyi alapnyilvántartás vezetésére vonatkozó technikai szabályokat a személyügyi igazgatás rendjéről szóló miniszteri rendelet határozza meg.
 
-(3) A személyügyi nyilvántartásban kezelhető adatokat az 1. melléklet tartalmazza.
+(2) Személyügyi alapnyilvántartást az állományilletékes parancsnok szervezeti egységénél kell vezetni.
 
-(4) A személyügyi nyilvántartásban történő adatkezelés célja
+(3) A személyügyi alapnyilvántartásban kezelhető adatköröket az 1. melléklet tartalmazza.
+
+(4) A személyügyi alapnyilvántartásban történő adatkezelés célja
 
 - a) a szolgálati viszonnyal összefüggő munkáltatói intézkedések és jognyilatkozatok előkészítésének és meghozatalának biztosítása,
 - b) a szolgálati viszonnyal összefüggő jogok gyakorolhatóságának és kötelezettségek teljesíthetőségének biztosítása,
 - c) a közeli hozzátartozót megillető társadalombiztosítási, szociális és kegyeleti gondoskodás megállapításának és folyósításának biztosítása.
+
+(5) A Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben meghatározott döntéstámogatási feladatot az állományilletékes parancsnok a személyügyi alapnyilvántartás adatainak és azok változásainak, továbbá a rendvédelmi szerv szervezeti adatainak jogszabályban meghatározottak szerint a Kormányzati Személyügyi Döntéstámogató Rendszerbe történő feltöltésével hajtja végre.
+
+(6) A hivatásos állomány tagjának a személyügyi alapnyilvántartás 1. mellékletben meghatározott, az illetményszámfejtéshez szükséges adatairól, azok változásáról az (1a) bekezdés szerinti információs rendszer közvetlen adatszolgáltatást nyújt – a Kormány rendeletében meghatározott rendben – a kincstár által működtetett központosított illetményszámfejtési rendszer részére.
 
 273. § (1) A személyügyi alapnyilvántartás keretében a hivatásos állomány tagjairól személyi anyaggyűjtőt kell vezetni, amely tartalmazza a szolgálati viszony létesítésével kapcsolatos alapvető előkészítő, valamint az 1. mellékletben meghatározott adatokat tartalmazó iratokat, munkáltatói intézkedéseket, beleértve a szolgálati viszony megszűnését követően keletkezett iratokat is, valamint a személyi nyilvántartó adatlapot.
 
@@ -3469,11 +3475,11 @@ hivatalból eljárva határozatban dönt. A határozat alapján a támogatás m�
 
 (3) A szolgálati viszony megszűnését követően a személyi anyaggyűjtőt és a nyilvántartható adatokat tartalmazó egyéb adatállományt további ötven évig a szolgálati viszonyban állók nyilvántartásától elkülönítetten kell kezelni.
 
-274. § (1) A nyilvántartható adatok számítógépes rendszerben is feldolgozhatók.
+(4) A személyi anyaggyűjtő a szolgálati hely tervezett vagy kérelmezett változtatását megelőzően az új szervezeti egység vezetőjének betekintésre átadható. Áthelyezést vagy vezénylést megelőzően a személyi anyaggyűjtő az új munkáltatói szerv vezetőjének csak az érintett hozzájárulásával adható át. Az érintett hozzájárulásával a személyügyi alapnyilvántartásban elektronikusan vezetett adatai az új munkáltatói szerv vezetőjének azonos informatikai rendszeren belül elektronikusan is átadhatók.
 
-(2) A személyügyi alapnyilvántartás valamennyi adatáról és az adatok változásáról a hivatásos állomány tagját foglalkoztató szervezeti egység folyamatos adatszolgáltatást nyújt a központi személyügyi nyilvántartásnak.
+#### 274. §
 
-275. § A személyügyi nyilvántartásban kezelt adatokhoz elektronikus úton közvetlenül hozzáférhetnek, és az annak alapjául szolgáló iratokba betekinthetnek a szolgálati viszonnyal kapcsolatos döntések előkészítése és meghozatala, azok végrehajtása, ellenőrzési, felügyeleti jogaik gyakorlása és vizsgálatok lefolytatása céljából:
+275. § (1) A személyügyi alapnyilvántartásba és az annak alapjául szolgáló iratokba betekinthet a szolgálati jogviszonnyal kapcsolatos döntések előkészítése és meghozatala, végrehajtása, ellenőrzése, felügyelete és vizsgálata céljából
 
 - a) a szolgálati elöljáró,
 - b) az állományilletékes parancsnok,
@@ -3483,17 +3489,24 @@ hivatalból eljárva határozatban dönt. A határozat alapján a támogatás m�
 - f) a teljesítményértékelést vagy minősítést végző személy,
 - g) a törvényességi ellenőrzéssel megbízott személy,
 - h) a bíróság, az ügyészség és a nyomozó hatóság,
-- i) az illetmény-számfejtést végző szerv az illetményszámfejtéshez szükséges mértékig,
+- i) az illetményszámfejtést végző szerv az illetményszámfejtéshez szükséges mértékig,
 - j) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a vezetői beosztásba kinevezés és a rendfokozatban történő soron kívüli előléptetést megelőző előzetes véleményalkotási eljárás keretében.
 
-275/A. § A 275. § j) pontja szerinti előzetes véleményalkotási eljárás alkalmazására
+(2) A hivatásos állomány tagjának az 51. § (2) bekezdés a) pontja vagy (3) bekezdés c) pontja szerinti, a kormányzati igazgatásról szóló 2018. évi CXXV. törvény hatálya alá tartozó szervhez történő
+
+- a) más szervhez vezénylése, vagy
+- b) a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezénylése
+
+esetén a személyügyi alapnyilvántartásba betekintésre az (1) bekezdésben foglaltakon túl a kormányzati személyügyi igazgatásra kijelölt szerv vezetője is jogosult.
+
+275/A. § A 275. § (1) bekezdés j) pontja szerinti előzetes véleményalkotási eljárás alkalmazására
 
 - a) az 1. § (1) bekezdés a)–f) pontjában meghatározott rendvédelmi szerv, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter irányítása alatt álló polgári nemzetbiztonsági szolgálat irányában,
 - b) kizárólag a munkáltatói jogkör gyakorlójának kezdeményezésére
 
 kerülhet sor.
 
-275/B. § A személyügyi nyilvántartást kezelő a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § c) pontja és 30. § (1) bekezdés d) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.
+275/B. § A személyügyi alapnyilvántartást kezelő a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § c) pontja és 30. § (1) bekezdés d) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.
 
 276. § (1) A személyügyi alapnyilvántartás vezetéséhez az érintett személy köteles adatot szolgáltatni, és a változást nyolc napon belül bejelenteni az illetékes személyügyi szervnek.
 
@@ -3509,11 +3522,11 @@ kerülhet sor.
 
 (5) A 275. §-ban és a 275/B. §-ban foglalt személyeken és szerveken kívül – törvény eltérő rendelkezése hiányában – más részére tájékoztatást, igazolást, jellemzést, javaslatot a személyügyi nyilvántartásokban őrzött iratok alapján csak az érintett hozzájárulásával lehet adni.
 
-(6) A személyi anyaggyűjtő a szolgálati hely tervezett vagy kérelmezett változtatását megelőzően az új szervezeti egység vezetőjének betekintésre átadható. Áthelyezést vagy vezénylést megelőzően az új munkáltatói szerv vezetőjének csak az érintett hozzájárulásával adható át.
+(6)
 
 #### 111. Utánpótlási és vezetői adatbank
 
-277. § A rendvédelmi szerv a központi személyügyi nyilvántartás részeként utánpótlási és vezetői adatbankot vezet, amely a hivatásos állomány tagjának – érdemeken és teljesítményen alapuló – tervezett előmenetelét szolgálja, egyben elősegíti a rendvédelmi szerveknél rendszeresített vezetői beosztások arra alkalmas személyekkel való betöltését.
+277. § A rendvédelmi szerv országos parancsnoka, országos főigazgatója utánpótlási és vezetői adatbankot vezet, amely a hivatásos állomány tagjának – érdemeken és teljesítményen alapuló – tervezett előmenetelét szolgálja, egyben elősegíti a rendvédelmi szerveknél rendszeresített vezetői beosztások arra alkalmas személyekkel való betöltését.
 
 278. § (1) Az utánpótlási és vezetői adatbank az utánpótlási nyilvántartásból és a vezetői nyilvántartásból áll.
 
@@ -3773,6 +3786,8 @@ a rögzítéskor meghatározott szolgálati időre figyelemmel kell megállapít
 - g) a szolgálati igazolványt kiállító rendőri szerv és a munkáltató rendőri szerv érvényesítő aláírását, bélyegzőlenyomatát.
 
 (33) Az iskolaőrség tagjait – jogszabályban meghatározottaknak megfelelően az e törvény hatálya alá tartozó rendőri szerveknél rendszeresített vagy alkalmazott és a Rendőrségről szóló 1994. évi XXXIV. törvény 10/C. § (2) bekezdésében felsorolt – kényszerítő eszközzel az általános rendőrségi feladatok ellátására létrehozott szerv látja el.
+
+(34) A rendvédelmi szerv a munkaviszonyból származó jogok és kötelezettségek teljesítése érdekében munkaügyi nyilvántartást vezet. A nyilvántartás adattartalma – a kizárólag a hivatásos állomány tagja esetében releváns adatok kivételével – megegyezik a hivatásos állomány tagjai 1. melléklet szerinti személyügyi alapnyilvántartásának adataival. A munkaügyi nyilvántartásra, valamint az abból történő adatszolgáltatásra a személyügyi alapnyilvántartásra vonatkozó szabályokat kell alkalmazni azzal, hogy a rendvédelmi szerv a munkaügyi nyilvántartásban szereplő adatokat a munkaviszony megszűnését vagy megszüntetését követő tizenöt évig kezeli.
 
 287/D. § A rendvédelmi szervnél foglalkoztatott igazságügyi alkalmazott jogviszonyára a 6. § (4)–(9) bekezdését és a 6/A. §-t alkalmazni kell.
 
@@ -5214,7 +5229,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 329. § (1) Az Országgyűlési Őrség hivatásos állományával kapcsolatos humánigazgatási feladatok ellátásában az Országgyűlés Hivatala is részt vehet.
 
-(2) Az Országgyűlési Őrség központi személyügyi nyilvántartást nem vezet.
+(2) Az Országgyűlési Őrség vonatkozásában a 272. § (1a), (5) és (6) bekezdése nem alkalmazandó.
 
 (3) Az Országgyűlési Őrség esetében az Országgyűlés elnöke gyakorolja az alábbi munkáltatói jogokat:
 
@@ -5293,9 +5308,9 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 338. § A polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja minősítését bíróság előtt nem támadhatja meg.
 
-339. § (1) A polgári nemzetbiztonsági szolgálatok kizárólag központi személyügyi nyilvántartást vezetnek.
+339. § (1) A polgári nemzetbiztonsági szolgálat személyügyi alapnyilvántartásába a 275. § (1) bekezdésében meghatározottakon túl betekinteni, valamint onnan adatot átvenni a miniszter, a miniszter kabinetfőnöke, valamint a miniszter által meghatározott, a miniszteri irányítási feladatok ellátását segítő szervezetben vagy az illetékes munkáltatói jogkört gyakorló elöljáró által meghatározott, a polgári nemzetbiztonsági szolgálatoknál dolgozó személyek jogosultak.
 
-(2) A központi személyügyi nyilvántartásba a 275. §-ban meghatározottakon túl betekinteni, valamint onnan adatot átvenni a miniszter, a miniszter kabinetfőnöke, valamint a miniszter által meghatározott, a miniszteri irányítási feladatok ellátását segítő szervezetben vagy az illetékes munkáltatói jogkört gyakorló elöljáró által meghatározott, a polgári nemzetbiztonsági szolgálatoknál dolgozó személyek jogosultak. A 275. §-ban foglalt közvetlen elektronikus hozzáférési jogosultság a polgári nemzetbiztonsági szolgálat által vezetett központi személyügyi nyilvántartás vonatkozásában nem alkalmazható.
+(2) A polgári nemzetbiztonsági szolgálatok esetében a 272. § (1a), (5) és (6) bekezdése nem alkalmazandó.
 
 ### XXXI/A. Fejezet — AZ EGÉSZSÉGÜGYI VÁLSÁGHELYZETRE VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 

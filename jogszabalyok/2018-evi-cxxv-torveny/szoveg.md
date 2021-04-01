@@ -876,7 +876,7 @@ A kormányzati igazgatási szervnek a jogosultságkezelési nyilvántartásban s
 
 (1) A kormányzati személyügyi igazgatás központi feladatait a Kormány által rendeletben kijelölt szerv (a továbbiakban: kormányzati személyügyi igazgatásra kijelölt szerv) látja el.
 
-(2) A kormányzati személyügyi igazgatásra kijelölt szerv az e törvény szerinti feladatai ellátásához jogosult a közszolgálati személyügyi nyilvántartásban szereplő adatok kezelésére.
+(2) A kormányzati személyügyi igazgatásra kijelölt szerv az e törvény szerinti feladatai ellátásához jogosult a közszolgálati alapnyilvántartásban szereplő adatok kezelésére.
 
 #### 62. § [A kormányzati személyügyi igazgatási feladatok]
 
@@ -935,11 +935,18 @@ A kormányzati igazgatási szervnek a jogosultságkezelési nyilvántartásban s
 - a) családi és utónév (születési családi és utónév), valamint
 - b) születési hely és idő.
 
-(3) A kormányzati személyügyi igazgatásra kijelölt szerv a (2) bekezdés szerinti személyes adatot az érintettet foglalkoztató kormányzati igazgatási szervnél fennálló foglalkoztatási jogviszony megszűnését vagy megszüntetését követő öt évig kezeli.
+(2a) Az 54. § (3) bekezdése szerint betöltött álláshely esetén a nemzetbiztonsági szolgálatok állományából vezényelt, kirendelt személyek vonatkozásában a (2) bekezdés szerinti személyazonosító adat helyett álnevesítéssel a személyhez kötötten egyedileg kialakított kódot kell szerepeltetni az álláshely-nyilvántartásban. Ezen kód a vezénylő, kirendelő nemzetbiztonsági szolgálatra utalással jelöli meg azt is, hogy az álláshely mely nemzetbiztonsági szolgálat állományába tartozó személlyel kerül betöltésre.
+
+(3) A kormányzati személyügyi igazgatásra kijelölt szerv a (2) bekezdés szerinti személyes adatot vagy a (2a) bekezdés szerinti kódot az érintettet foglalkoztató kormányzati igazgatási szervnél fennálló foglalkoztatási jogviszony megszűnését vagy megszüntetését követő öt évig kezeli.
 
 (4) A kormányzati személyügyi igazgatásra kijelölt szerv hozzáférést biztosít az álláshely-nyilvántartáshoz a 62/B. § szerinti jogosultságkezelési nyilvántartásban szereplő, szerkesztési és a betekintési jogosultsággal rendelkező személyek részére.
 
-(5) Az álláshely-nyilvántartás a kormányzati igazgatási szervek álláshelyeinek nyilvántartásáról szóló kormányrendeletben meghatározottak szerint összekapcsolásra kerül a kormányzati igazgatási szervek közszolgálati alapnyilvántartásaival, az általuk használt személyügyi nyilvántartó programokkal, a továbbképzési és teljesítményértékelő rendszerrel, a közfeladat-kataszterrel, a központosított illetményszámfejtő rendszer által használt nyilvántartással, valamint a Kormányzati Személyügyi Döntéstámogató Rendszerrel.
+(5) Az álláshely-nyilvántartás a kormányzati személyügyi információs rendszer részeként összekapcsolásra kerül
+
+- a) a kormányzati igazgatási szervek közszolgálati alapnyilvántartásával, illetve a közszolgálati alapnyilvántartás kezelésére használt személyügyi nyilvántartó programokkal,
+- b) a kormányzati igazgatási szervek által használt továbbképzési és teljesítményértékelő rendszerrel,
+- c) a közfeladat-kataszterrel, valamint
+- d) a központosított illetményszámfejtő rendszer által használt nyilvántartással.
 
 #### 62/B. § [Jogosultságkezelési nyilvántartás]
 
@@ -1282,7 +1289,7 @@ A kormányzati szolgálati jogviszony a köz szolgálata és munkavégzés célj
 
 (3) A közigazgatási perrendtartásról szóló 2017. év I. törvény 18. § (3) bekezdése szerinti munkáltató szerv alatt, az ügyvédi tevékenységről szóló törvény, valamint az adózás rendjéről szóló törvény szerinti munkáltató alatt azt a kormányzati igazgatási szervet kell érteni, amelynél a kormánytisztviselő az álláshelye szerinti feladatát ellátja vagy ellátta.
 
-(4) A Kormány a kormányzati szolgálati jogviszonnyal összefüggő munkáltatói feladatok ellátása érdekében kezeli a kormánytisztviselő közszolgálati személyügyi nyilvántartásban szereplő adatait.
+(4) A Kormány a kormányzati szolgálati jogviszonnyal összefüggő munkáltatói feladatok ellátása érdekében kezeli a kormánytisztviselő közszolgálati alapnyilvántartásban szereplő adatait.
 
 #### 81. § [A munkáltatói jogkör gyakorlója]
 
@@ -1416,7 +1423,7 @@ a kormányzati szolgálati jogviszonyt azonnali hatállyal meg kell szüntetni.
 
 azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
 
-(7) Az (1)–(6) bekezdésben foglaltak alapján megismert személyes adatokat a kormányzati igazgatási szerv a kormányzati szolgálati jogviszony létesítéséről meghozott döntés időpontjáig, vagy – kormányzati szolgálati jogviszony létesítése és fennállása esetén – a 174. § (6) bekezdésében és a 179. § (4) bekezdésében meghatározott időtartamig kezeli.
+(7) Az (1)–(6) bekezdésben foglaltak alapján megismert személyes adatokat a kormányzati igazgatási szerv a kormányzati szolgálati jogviszony létesítéséről meghozott döntés időpontjáig, vagy – kormányzati szolgálati jogviszony létesítése és fennállása esetén – a 174. § (7) bekezdésében és a 179. § (4) bekezdésében meghatározott időtartamig kezeli.
 
 #### 85. § [A kormányzati szolgálati jogviszony létesítése, a kinevezés időtartama]
 
@@ -3334,34 +3341,37 @@ tárgyában.
 
 (6) Ha a kormányzati igazgatási szerv a büntetőeljárásról szóló 2017. évi XC. törvény 111. §-a alapján tájékoztatást kap arról, hogy e törvény hatálya alatt állóval szemben büntetőeljárás indult, a tájékoztatás során tudomására jutott természetes személyazonosító adatot, valamint a közvádra üldözendő bűncselekmény miatt indult büntetőeljárás megindításának tényéről szóló adatot a tájékoztatást követő tizenöt napig, ha a tájékoztatás alapján munkáltatói intézkedésre kerül sor, az intézkedés meghozataláig jogosult kezelni. Ezt követően az adatokat törölni kell.
 
-#### 174. § [A közszolgálati személyügyi nyilvántartás]
+#### 174. § [A közszolgálati alapnyilvántartás]
 
-(1) A közszolgálati személyügyi nyilvántartás részei:
+(1) A kormánytisztviselőről közszolgálati alapnyilvántartást kell vezetni.
 
-- a) a közszolgálati alapnyilvántartás és
-- b) a központi közszolgálati nyilvántartás.
+(2) A közszolgálati alapnyilvántartást a Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben meghatározott informatikai rendszerben elektronikusan kell vezetni.
 
-(2) A közszolgálati személyügyi adatkezelés célja:
+(3) A közszolgálati alapnyilvántartásban a kormánytisztviselő 3. mellékletben meghatározott személyes adatait kell kezelni.
+
+(4) A közszolgálati alapnyilvántartásban szereplő személyes adatok védelméért, az adatkezelés jogszerűségéért, valamint az e törvényben előírt adatszolgáltatásokért – eltérő jogszabályi rendelkezés hiányában – a kormánytisztviselőt alkalmazó kormányzati igazgatási szerv hivatali szervezetének vezetője felelős.
+
+(5) A közszolgálati alapnyilvántartásban történő adatkezelés célja
 
 - a) a kormányzati szolgálati jogviszonnyal összefüggő munkáltatói intézkedések és jognyilatkozatok előkészítésének és meghozatalának biztosítása,
 - b) a kormányzati szolgálati jogviszonnyal összefüggő jogok gyakorlásának és kötelezettségek teljesítésének biztosítása, továbbá
 - c) a közeli hozzátartozót megillető társadalombiztosítási, szociális és kegyeleti gondoskodás megállapításának és folyósításának biztosítása.
 
-(3) A közszolgálati személyügyi nyilvántartásban a kormánytisztviselő 3. mellékletben meghatározott személyes adatait kell kezelni.
+(6) A kormányzati igazgatási szerv a közszolgálati alapnyilvántartásban a 3. mellékletben meghatározott személyes adatot – a (7) bekezdésben meghatározott kivétellel – a kormányzati szolgálati jogviszony fennállása alatt kezeli.
 
-(4) A közszolgálati személyügyi nyilvántartást a kormányzati igazgatási szerv más személyes adatot tartalmazó nyilvántartásától elkülönítetten kell kezelni. A közszolgálati személyügyi nyilvántartás más személyes adatot tartalmazó nyilvántartással – az álláshely-nyilvántartás kivételével – nem kapcsolható össze.
+(7) A kormányzati szolgálati jogviszony bármely jogcímen történő megszűnését vagy megszüntetését követően a közszolgálati alapnyilvántartásban az érintettre vonatkozó, a 3. mellékletben felsorolt személyes adatok kezelését 50 évig korlátozni kell. A korlátozás alá eső személyes adatokat csak az érintett ismerheti meg, valamint a törvényben erre feljogosított szervnek továbbítható megkeresés alapján. A korlátozás alá eső adatokkal – az előbbiekben rögzített műveleteken túl – más művelet nem végezhető.
 
-(5) A közszolgálati személyügyi nyilvántartásban a 3. mellékletben meghatározott személyes adat – a (6) bekezdésben meghatározott kivétellel – a kormányzati szolgálati jogviszony fennállása alatt kezelhető.
+(8) A közszolgálati alapnyilvántartásban a (7) bekezdés alapján tárolt adatokat az ott meghatározott határidő lejárta napján törölni kell.
 
-(6) A kormányzati szolgálati jogviszony bármely jogcímen történő megszűnését vagy megszüntetését követően a közszolgálati személyügyi nyilvántartásban az érintettre vonatkozó, a 3. mellékletben felsorolt személyes adatok kezelését 50 évig korlátozni kell. A korlátozás alá eső személyes adatokat csak az érintett ismerheti meg, valamint a törvényben erre feljogosított szervnek továbbítható megkeresés alapján. A korlátozás alá eső adatokkal – a tároláson kívül – más művelet nem végezhető.
+(9) A közszolgálati alapnyilvántartást a kormányzati igazgatási szerv más személyes adatot tartalmazó nyilvántartásától elkülönítetten kell kezelni. A közszolgálati alapnyilvántartás más személyes adatot tartalmazó nyilvántartással – a Kormányzati Személyügyi Döntéstámogató Rendszer és a Kormányzati Személyügyi Döntéstámogató Rendszer rendszerelemét képező álláshely-nyilvántartás kivételével – nem kapcsolható össze.
 
-(7) A közszolgálati személyügyi nyilvántartásban a (6) bekezdés alapján tárolt adatokat az ott meghatározott határidő lejárta napján törölni kell.
+(10) A kormánytisztviselőnek a közszolgálati alapnyilvántartás 3. mellékletben meghatározott, az illetményszámfejtéshez szükséges adatairól és az azokban bekövetkezett változásról a (2) bekezdés szerinti információs rendszer közvetlen adatszolgáltatást nyújt – a Kormány rendeletében meghatározott rendben – a kincstár által működtetett központosított illetményszámfejtés részére.
 
-#### 175. § [A közszolgálati alapnyilvántartás]
+#### 175. § [A közszolgálati alapnyilvántartásra vonatkozó egyéb szabályok]
 
-(1) A közszolgálati alapnyilvántartásban szereplő személyes adatok védelméért, az adatkezelés jogszerűségéért, valamint az e törvényben előírt adatszolgáltatásokért – eltérő jogszabályi rendelkezés hiányában – a kormánytisztviselőt alkalmazó kormányzati igazgatási szerv hivatali szervezetének vezetője felelős.
+(1)
 
-(2) A kormányzati igazgatási szerv elektronikusan vezetett közszolgálati alapnyilvántartási rendszere más személyes adatot tartalmazó nyilvántartással – törvény felhatalmazása hiányában, valamint az álláshely-nyilvántartás kivételével – nem kapcsolható össze.
+(2)
 
 (3) A közszolgálati alapnyilvántartásba – eljárásában indokolt mértékig – jogosult betekinteni, illetve abból adatokat átvenni:
 
@@ -3375,10 +3385,12 @@ tárgyában.
 - h) törvényességi ellenőrzési feladatkörében eljárva az ügyész;
 - i) a személyes adatok kezelésével összefüggésben a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke;
 - j) a személyzeti, munkaügyi és illetményszámfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül, a 3. melléklet I/A., I/B., II., IV., V., VII., VIII. és X. pontjában foglalt adatkörökből a kormánytisztviselő illetményének számfejtése, illetve annak ellenőrzése céljából;
-- k) a közszolgálati statisztikai adatgyűjtéssel összefüggésben a közszolgálati életpálya kidolgozásáért felelős miniszter és a fővárosi, megyei kormányhivatal tisztviselője feladatkörében;
+- k) a Kormányzati Személyügyi Döntéstámogató Rendszer működtetésével összefüggésben a közszolgálati életpálya kidolgozásáért felelős miniszter;
 - l) adategyezés, adatösszevetés, adatkorrigálás érdekében a minisztériumokra vonatkozó adatok tekintetében, valamint a kormányzati igazgatási szervek kormánytisztviselőinek képzésével, továbbképzésével, vizsgáztatásával kapcsolatban a személyügyi központ vezetője, és az általa feljogosított, személyügyi központnál alkalmazásban álló személy;
 - m) az európai támogatásokat auditáló szerv;
 - n) a kormányzati igazgatási szerv részére informatikai üzemeltetési feladatokat, illetve logisztikai-eszközellátási feladatokat végző szerv – tevékenységéhez szükséges mértékig – a 3. melléklet I/A. pont 1–3. alpontjában foglalt adatkörök tekintetében.
+- o) a kormányhivatal irányítására kormányrendeletben kijelölt miniszter;
+- p) a kormányzati személyügyi igazgatásra kijelölt szerv.
 
 (4) A miniszter, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár esetében a közszolgálati alapnyilvántartásban kell nyilvántartani a 3. mellékletben meghatározott adatokon túl a vezetői igazolvány számát, az EÜ VIP kártya számát, a diplomata útlevél számát, valamint a miniszter, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár, továbbá a kormányzati igazgatási szervek kormánytisztviselői számára biztosított juttatásokról és azok feltételeiről szóló kormányrendelet szerinti juttatások adatait is.
 
@@ -3392,24 +3404,9 @@ tárgyában.
 
 (9) A munkáltatói jogkör gyakorlója a 82. § (4) bekezdése szerinti tájékoztatás során tudomására jutott személyes adatot a tájékoztatást követő tizenöt napig, ha a tájékoztatás alapján munkáltatói intézkedésre kerül sor, az intézkedés meghozataláig jogosult kezelni. Ezt követően az adatokat törölni kell.
 
-#### 176. § [A központi közszolgálati nyilvántartás]
+#### 176. § [A Kormányzati Személyügyi Döntéstámogató Rendszer]
 
-(1) A közszolgálati alapnyilvántartás adatairól és azok változásairól, továbbá a kormányzati igazgatási szerv szervezeti adatairól a Kormány által rendeletben meghatározottak szerint a kormányzati igazgatási szervek adatszolgáltatást végeznek a központi közszolgálati nyilvántartás vezetését ellátó, közszolgálati életpálya kidolgozásáért felelős miniszter részére.
-
-(2) A központi közszolgálati nyilvántartás kezelésének célja – a 174. § (2) bekezdés a)–c) pontjában meghatározottakon túl –
-
-- a) a Kormány közszolgálati személyzetpolitikájának kialakításához és megvalósításához szükséges, a kormánytisztviselői életpályával összefüggő adatok és elemzések biztosítása,
-- b) az országos működtetéséhez szükséges létszám- és illetményadatok elemzése az illetményalapra vonatkozó országgyűlési döntést előkészítő illetékes kormányzati szervek, illetve országgyűlési bizottságok részére,
-- c) a nemzetközi kapcsolatokkal összefüggő esetenkénti adatszolgáltatás biztosítása az illetékes szervek számára, valamint
-- d) a Kormány által meghatározott körben a közvélemény tájékoztatása a kormánytisztviselői életpályával összefüggő adatokról.
-
-(3) A kormánytisztviselőknek, valamint a kormányzati igazgatási szervnél foglalkoztatott munkavállalóknak létszám- és illetményadatait, kereseti adatait a központi létszám- és bérgazdálkodási statisztikai információs rendszer a Kormány által meghatározott rendben átadja a közszolgálati életpálya kidolgozásáért felelős miniszter részére a (2) bekezdés b) pontjában előírtak, valamint az kormányzati igazgatási szerveknél foglalkoztatott munkavállalók adatainak elemzése céljából.
-
-(4) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, valamint a közszolgálati életpálya kidolgozásáért felelős miniszter jogosult a kormányzati tevékenység összehangolásának biztosítása céljából a kormányzati igazgatási szervek által vezetett közszolgálati alapnyilvántartásba betekintetni.
-
-(5) A központi közszolgálati nyilvántartással kapcsolatos adatkezelési műveleteket a személyügyi központ végzi, mint adatfeldolgozó.
-
-(6) A közigazgatási minőségpolitikáért és személyzetpolitikáért és a közszolgálati életpálya kidolgozásáért felelős miniszter – a Kormány által meghatározott módon és adatkörben – jogszabályban meghatározott feladatainak ellátása érdekében statisztikai lekérdezéseket végezhet a (1) bekezdésben meghatározott adatokból.
+A Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben meghatározott döntéstámogatási feladatot a kormányzati igazgatási szerv a közszolgálati alapnyilvántartás adatainak és azok változásainak, továbbá a kormányzati igazgatási szerv szervezeti adatainak jogszabályban meghatározottak szerint a Kormányzati Személyügyi Döntéstámogató Rendszerbe történő feltöltésével hajtja végre.
 
 #### 177. § [A személyügyi központ által vezetett nyilvántartás]
 
@@ -3418,7 +3415,7 @@ tárgyában.
 - a) az általa lefolytatott pályázati eljárás,
 - b) a kompetencia vizsgálat,
 - c) a toborzási adatbázis,
-- d) a központi közszolgálati nyilvántartás,
+- d)
 - e) a teljesítményértékelés
 
 adatait.
@@ -4521,7 +4518,7 @@ illetménynek megfelelő összeg.
 
 (7) A munkaviszonyt létesíteni szándékozó személy hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű, nem áll a (6) bekezdésben meghatározott büntetőeljárás hatálya alatt, továbbá, hogy nem áll olyan foglalkozástól eltiltás hatálya alatt, amely a munkaviszonya létesítését nem teszi lehetővé. A hatósági bizonyítvánnyal történő igazolásra a 84. §-ban foglaltakat alkalmazni kell.
 
-(8) A kormányzati igazgatási szerv a munkaviszonyból származó jogok és kötelezettségek teljesítése érdekében munkaügyi nyilvántartást vezet. A nyilvántartás adattartalma – a kizárólag a kormánytisztviselők esetében releváns adatok kivételével – megegyezik a kormánytisztviselők 3. melléklet szerinti közszolgálati alapnyilvántartásának adataival. A munkaügyi nyilvántartásra egyebekben a közszolgálati alapnyilvántartásra vonatkozó szabályokat kell alkalmazni, azzal, hogy a kormányzati igazgatási szerv a munkaügyi nyilvántartásban szereplő adatokat a munkaviszony megszűnését vagy megszüntetését követő 5 évig kezeli.
+(8) A kormányzati igazgatási szerv a munkaviszonyból származó jogok és kötelezettségek teljesítése érdekében munkaügyi nyilvántartást vezet. A nyilvántartás adattartalma – a kizárólag a kormánytisztviselők esetében releváns adatok kivételével – megegyezik a kormánytisztviselők 3. melléklet szerinti közszolgálati alapnyilvántartásának adataival. A munkaügyi nyilvántartásra egyebekben a közszolgálati alapnyilvántartásra vonatkozó szabályokat kell alkalmazni, azzal, hogy a kormányzati igazgatási szerv a munkaügyi nyilvántartásban szereplő adatokat a munkaviszony megszűnését vagy megszüntetését követő 15 évig kezeli.
 
 ## TIZEDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -4637,7 +4634,7 @@ illetménynek megfelelő összeg.
 - 21. a kormányzati igazgatási szünet időszakát;
 - 22. a Közszolgálati Döntőbizottság szervezetére és eljárására, határozatára, működését támogató szervezetre, eljárási határidőkre, valamint a Közszolgálati Döntőbizottság jogállására, juttatásaira, továbbá a Közszolgálati Döntőbizottság tagjának összeférhetetlenségére vonatkozó részletes szabályokat;
 - 23. az elhelyezkedési korlátozással érintett ágazatokat és álláshelyeket, a korlátozás alóli mentesítés szabályait, valamint az ágazati tevékenységet főtevékenységként végző gazdasági társaság meghatározásának szempontjait;
-- 24. a közszolgálati személyügyi nyilvántartásokra, a munkaügyi nyilvántartásra és a közszolgálati statisztikai adatgyűjtésre vonatkozó részletes szabályokat;
+- 24. a közszolgálati alapnyilvántartásra, valamint a munkaügyi nyilvántartásra vonatkozó részletes szabályokat;
 - 25. a céljuttatásra vonatkozó részletes szabályokat;
 - 26. a fegyelmi eljárásra vonatkozó részletes szabályokat;
 - 27. az oktatási feladat ellátására kötött megállapodás tartalmára vonatkozó részletes szabályokat;
