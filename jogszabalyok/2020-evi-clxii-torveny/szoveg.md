@@ -249,181 +249,43 @@ sarkalatosnak minősül.
 
 36. §
 
-37. § (1) A Hszt. 272. § (1) bekezdése helyébe a következő rendelkezés lép:
+37. §
 
-„(1) A hivatásos állomány tagjáról személyügyi alapnyilvántartást kell vezetni.”
+38. §
 
-(2) A Hszt. 272. §-a a következő (1a) bekezdéssel egészül ki:
+39. §
 
-„(1a) A személyügyi alapnyilvántartást a Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben meghatározott informatikai rendszerben elektronikusan kell vezetni. A személyügyi alapnyilvántartás vezetésére vonatkozó technikai szabályokat a személyügyi igazgatás rendjéről szóló miniszteri rendelet határozza meg.”
+40. §
 
-(3) A Hszt. 272. §-a a következő (5) és (6) bekezdéssel egészül ki:
+41. §
 
-„(5) A Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben meghatározott döntéstámogatási feladatot az állományilletékes parancsnok a személyügyi alapnyilvántartás adatainak és azok változásainak, továbbá a rendvédelmi szerv szervezeti adatainak jogszabályban meghatározottak szerint a Kormányzati Személyügyi Döntéstámogató Rendszerbe történő feltöltésével hajtja végre.
-
-(6) A hivatásos állomány tagjának a személyügyi alapnyilvántartás 1. mellékletben meghatározott, az illetményszámfejtéshez szükséges adatairól, azok változásáról az (1a) bekezdés szerinti információs rendszer közvetlen adatszolgáltatást nyújt – a Kormány rendeletében meghatározott rendben – a kincstár által működtetett központosított illetményszámfejtési rendszer részére.”
-
-38. § A Hszt. 273. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A személyi anyaggyűjtő a szolgálati hely tervezett vagy kérelmezett változtatását megelőzően az új szervezeti egység vezetőjének betekintésre átadható. Áthelyezést vagy vezénylést megelőzően a személyi anyaggyűjtő az új munkáltatói szerv vezetőjének csak az érintett hozzájárulásával adható át. Az érintett hozzájárulásával a személyügyi alapnyilvántartásban elektronikusan vezetett adatai az új munkáltatói szerv vezetőjének azonos informatikai rendszeren belül elektronikusan is átadhatók.”
-
-39. § A Hszt. 275. §-a helyébe a következő rendelkezés lép:
-
-„275. § (1) A személyügyi alapnyilvántartásba és az annak alapjául szolgáló iratokba betekinthet a szolgálati jogviszonnyal kapcsolatos döntések előkészítése és meghozatala, végrehajtása, ellenőrzése, felügyelete és vizsgálata céljából
-
-a) a szolgálati elöljáró,
-
-b) az állományilletékes parancsnok,
-
-c) az országos parancsnok és helyettese, az országos főigazgató és helyettese,
-
-d) a miniszter, az államtitkár, a közigazgatási államtitkár, valamint a felügyeleti hatáskörében a helyettes államtitkár,
-
-e) a szervezeti egység, az országos parancsnokság, valamint a miniszter által vezetett minisztérium személyügyi szervének vezetője és az arra feljogosított beosztottja, valamint a fegyelmi ügyben eljáró személy,
-
-f) a teljesítményértékelést vagy minősítést végző személy,
-
-g) a törvényességi ellenőrzéssel megbízott személy,
-
-h) a bíróság, az ügyészség és a nyomozó hatóság,
-
-i) az illetményszámfejtést végző szerv az illetményszámfejtéshez szükséges mértékig,
-
-j) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a vezetői beosztásba kinevezés és a rendfokozatban történő soron kívüli előléptetést megelőző előzetes véleményalkotási eljárás keretében.
-
-(2) A hivatásos állomány tagjának az 51. § (2) bekezdés a) pontja vagy (3) bekezdés c) pontja szerinti, a kormányzati igazgatásról szóló 2018. évi CXXV. törvény hatálya alá tartozó szervhez történő
-
-a) más szervhez vezénylése, vagy
-
-b) a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezénylése
-
-esetén a személyügyi alapnyilvántartásba betekintésre az (1) bekezdésben foglaltakon túl a kormányzati személyügyi igazgatásra kijelölt szerv vezetője is jogosult.”
-
-40. § A Hszt. 287/C. §-a a következő (34) bekezdéssel egészül ki:
-
-„(34) A rendvédelmi szerv a munkaviszonyból származó jogok és kötelezettségek teljesítése érdekében munkaügyi nyilvántartást vezet. A nyilvántartás adattartalma – a kizárólag a hivatásos állomány tagja esetében releváns adatok kivételével – megegyezik a hivatásos állomány tagjai 1. melléklet szerinti személyügyi alapnyilvántartásának adataival. A munkaügyi nyilvántartásra, valamint az abból történő adatszolgáltatásra a személyügyi alapnyilvántartásra vonatkozó szabályokat kell alkalmazni azzal, hogy a rendvédelmi szerv a munkaügyi nyilvántartásban szereplő adatokat a munkaviszony megszűnését vagy megszüntetését követő tizenöt évig kezeli.”
-
-41. § A Hszt. 329. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az Országgyűlési Őrség vonatkozásában a 272. § (1a), (5) és (6) bekezdése nem alkalmazandó.”
-
-42. § A Hszt. 339. §-a helyébe a következő rendelkezés lép:
-
-„339. § (1) A polgári nemzetbiztonsági szolgálat személyügyi alapnyilvántartásába a 275. § (1) bekezdésében meghatározottakon túl betekinteni, valamint onnan adatot átvenni a miniszter, a miniszter kabinetfőnöke, valamint a miniszter által meghatározott, a miniszteri irányítási feladatok ellátását segítő szervezetben vagy az illetékes munkáltatói jogkört gyakorló elöljáró által meghatározott, a polgári nemzetbiztonsági szolgálatoknál dolgozó személyek jogosultak.
-
-(2) A polgári nemzetbiztonsági szolgálatok esetében a 272. § (1a), (5) és (6) bekezdése nem alkalmazandó.”
+42. §
 
 43. §
 
 44. §
 
-45. § A Hszt.
+45. §
 
-- a) 265. § (4) bekezdésében az „egy” szövegrész helyébe a „kettő” szöveg,
-- b) 272. § (3) és (4) bekezdésében a „nyilvántartásban” szövegrész helyébe az „alapnyilvántartásban” szöveg,
-- c) 272. § (3) bekezdésében az „adatokat” szövegrész helyébe az „adatköröket” szöveg,
-- d) 275/A. §-ában a „j) pontja” szövegrész helyébe az „(1) bekezdés j) pontja” szöveg,
-- e) 275/B. §-ában a „nyilvántartást” szövegrész helyébe az „alapnyilvántartást” szöveg,
-- f) 277. §-ában az „a központi személyügyi nyilvántartás részeként” szövegrész helyébe az „országos parancsnoka, országos főigazgatója” szöveg
-
-lép.
-
-46. § (1) Hatályát veszti a Hszt.
-
-- a) 272. § (2) bekezdésében az „ , a központi személyügyi nyilvántartást az országos parancsnok, valamint az országos főigazgató által vezetett szervezeti egységnél” szövegrész,
-- b) 274. §-a,
-- c) 276. § (6) bekezdése.
+46. § (1)
 
 (2)
 
 #### 14. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
-47. § (1) A Kit. 62/A. §-a a következő (2a) bekezdéssel egészül ki:
+47. §
 
-„(2a) Az 54. § (3) bekezdése szerint betöltött álláshely esetén a nemzetbiztonsági szolgálatok állományából vezényelt, kirendelt személyek vonatkozásában a (2) bekezdés szerinti személyazonosító adat helyett álnevesítéssel a személyhez kötötten egyedileg kialakított kódot kell szerepeltetni az álláshely-nyilvántartásban. Ezen kód a vezénylő, kirendelő nemzetbiztonsági szolgálatra utalással jelöli meg azt is, hogy az álláshely mely nemzetbiztonsági szolgálat állományába tartozó személlyel kerül betöltésre.”
+48. §
 
-(2) A Kit. 62/A. § (5) bekezdése helyébe a következő rendelkezés lép:
+49. §
 
-„(5) Az álláshely-nyilvántartás a kormányzati személyügyi információs rendszer részeként összekapcsolásra kerül
+50. §
 
-a) a kormányzati igazgatási szervek közszolgálati alapnyilvántartásával, illetve a közszolgálati alapnyilvántartás kezelésére használt személyügyi nyilvántartó programokkal,
+51. §
 
-b) a kormányzati igazgatási szervek által használt továbbképzési és teljesítményértékelő rendszerrel,
+52. §
 
-c) a közfeladat-kataszterrel, valamint
-
-d) a központosított illetményszámfejtő rendszer által használt nyilvántartással.”
-
-48. § A Kit. 174. §-a helyébe a következő rendelkezés lép:
-
-„174. § [A közszolgálati alapnyilvántartás]
-
-(1) A kormánytisztviselőről közszolgálati alapnyilvántartást kell vezetni.
-
-(2) A közszolgálati alapnyilvántartást a Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben meghatározott informatikai rendszerben elektronikusan kell vezetni.
-
-(3) A közszolgálati alapnyilvántartásban a kormánytisztviselő 3. mellékletben meghatározott személyes adatait kell kezelni.
-
-(4) A közszolgálati alapnyilvántartásban szereplő személyes adatok védelméért, az adatkezelés jogszerűségéért, valamint az e törvényben előírt adatszolgáltatásokért – eltérő jogszabályi rendelkezés hiányában – a kormánytisztviselőt alkalmazó kormányzati igazgatási szerv hivatali szervezetének vezetője felelős.
-
-(5) A közszolgálati alapnyilvántartásban történő adatkezelés célja
-
-a) a kormányzati szolgálati jogviszonnyal összefüggő munkáltatói intézkedések és jognyilatkozatok előkészítésének és meghozatalának biztosítása,
-
-b) a kormányzati szolgálati jogviszonnyal összefüggő jogok gyakorlásának és kötelezettségek teljesítésének biztosítása, továbbá
-
-c) a közeli hozzátartozót megillető társadalombiztosítási, szociális és kegyeleti gondoskodás megállapításának és folyósításának biztosítása.
-
-(6) A kormányzati igazgatási szerv a közszolgálati alapnyilvántartásban a 3. mellékletben meghatározott személyes adatot – a (7) bekezdésben meghatározott kivétellel – a kormányzati szolgálati jogviszony fennállása alatt kezeli.
-
-(7) A kormányzati szolgálati jogviszony bármely jogcímen történő megszűnését vagy megszüntetését követően a közszolgálati alapnyilvántartásban az érintettre vonatkozó, a 3. mellékletben felsorolt személyes adatok kezelését 50 évig korlátozni kell. A korlátozás alá eső személyes adatokat csak az érintett ismerheti meg, valamint a törvényben erre feljogosított szervnek továbbítható megkeresés alapján. A korlátozás alá eső adatokkal – az előbbiekben rögzített műveleteken túl – más művelet nem végezhető.
-
-(8) A közszolgálati alapnyilvántartásban a (7) bekezdés alapján tárolt adatokat az ott meghatározott határidő lejárta napján törölni kell.
-
-(9) A közszolgálati alapnyilvántartást a kormányzati igazgatási szerv más személyes adatot tartalmazó nyilvántartásától elkülönítetten kell kezelni. A közszolgálati alapnyilvántartás más személyes adatot tartalmazó nyilvántartással – a Kormányzati Személyügyi Döntéstámogató Rendszer és a Kormányzati Személyügyi Döntéstámogató Rendszer rendszerelemét képező álláshely-nyilvántartás kivételével – nem kapcsolható össze.
-
-(10) A kormánytisztviselőnek a közszolgálati alapnyilvántartás 3. mellékletben meghatározott, az illetményszámfejtéshez szükséges adatairól és az azokban bekövetkezett változásról a (2) bekezdés szerinti információs rendszer közvetlen adatszolgáltatást nyújt – a Kormány rendeletében meghatározott rendben – a kincstár által működtetett központosított illetményszámfejtés részére.”
-
-49. § (1) A Kit. 175. § (3) bekezdés k) pontja helyébe a következő rendelkezés lép:
-
-(A közszolgálati alapnyilvántartásba – eljárásában indokolt mértékig – jogosult betekinteni, illetve abból adatokat átvenni:)
-
-„k) a Kormányzati Személyügyi Döntéstámogató Rendszer működtetésével összefüggésben a közszolgálati életpálya kidolgozásáért felelős miniszter;”
-
-(2) A Kit. 175. § (3) bekezdése a következő o) és p) ponttal egészül ki:
-
-(A közszolgálati alapnyilvántartásba – eljárásában indokolt mértékig – jogosult betekinteni, illetve abból adatokat átvenni:)
-
-„o) a kormányhivatal irányítására kormányrendeletben kijelölt miniszter;
-
-p) a kormányzati személyügyi igazgatásra kijelölt szerv.”
-
-50. § A Kit. 176. §-a helyébe a következő rendelkezés lép:
-
-„176. § [A Kormányzati Személyügyi Döntéstámogató Rendszer]
-
-A Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben meghatározott döntéstámogatási feladatot a kormányzati igazgatási szerv a közszolgálati alapnyilvántartás adatainak és azok változásainak, továbbá a kormányzati igazgatási szerv szervezeti adatainak jogszabályban meghatározottak szerint a Kormányzati Személyügyi Döntéstámogató Rendszerbe történő feltöltésével hajtja végre.”
-
-51. § A Kit. 281. § (4) bekezdés 24. pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben határozza meg)
-
-„24. a közszolgálati alapnyilvántartásra, valamint a munkaügyi nyilvántartásra vonatkozó részletes szabályokat;”
-
-52. § A Kit.
-
-- a) 61. § (2) bekezdésében, 80. § (4) bekezdésében a „személyügyi nyilvántartásban” szövegrész helyébe az „alapnyilvántartásban” szöveg,
-- b) 62/A. § (3) bekezdésében az „adatot” szövegrész helyébe az „adatot vagy a (2a) bekezdés szerinti kódot” szöveg,
-- c) 84. § (7) bekezdésében a „174. § (6)” szövegrész helyébe a „174. § (7)” szöveg,
-- d) 175. §-ának címében az „alapnyilvántartás” szövegrész helyébe az „alapnyilvántartásra vonatkozó egyéb szabályok” szöveg,
-- e) 279. § (8) bekezdésében az „5” szövegrész helyébe a „15” szöveg
-
-lép.
-
-53. § Hatályát veszti a Kit.
-
-- a) 175. § (1) és (2) bekezdése,
-- b) 177. § (1) bekezdés d) pontja.
+53. §
 
 #### 15. A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény módosítása
 

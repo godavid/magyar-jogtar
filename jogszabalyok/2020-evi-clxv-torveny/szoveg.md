@@ -78,11 +78,7 @@ az egyes igazságügyi tárgyú törvények módosításáról
 
 30. §
 
-31. § A Jat. 29. §-a helyébe a következő rendelkezés lép:
-
-„29. § (1) A Nemzeti Jogszabálytár kormányrendeletben meghatározott tartalommal és honlapon, elektronikus közszolgáltatásként működő, bárki számára térítésmentesen hozzáférhető elektronikus jogszabálygyűjtemény, amely – kormányrendeletben meghatározottak szerint – felületet biztosít különösen az Alaptörvény, annak módosításai és a jogszabályok kihirdetett szövegének, a Magyar Közlönyben közzétett közjogi szervezetszabályozó eszközök szövegének, valamint az időállapotok szerint egységes szerkezetű szövegek közzétételére.
-
-(2) A Nemzeti Jogszabálytárban való közzétételről az Alaptörvény, annak módosításai, jogszabályok és a Magyar Közlönyben közzétett közjogi szervezetszabályozó eszközök esetében az igazságügyért felelős miniszter, önkormányzati rendelet esetében a jegyző gondoskodik.”
+31. §
 
 32. §
 
@@ -178,14 +174,7 @@ az egyes igazságügyi tárgyú törvények módosításáról
 
 #### 12. A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
-74. § A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény
-
-- a) 51. § (2) bekezdésében a „helyi önkormányzat az önkormányzati rendeletet a kihirdetését követően haladéktalanul megküldi a kormányhivatalnak, és a kormányhivatal továbbítja azt a helyi önkormányzatok törvényességi felügyeletéért felelős miniszternek” szövegrész helyébe a „jegyző kormányrendeletben meghatározottak szerint gondoskodik az önkormányzati rendelet kormányhivatal részére történő megküldéséről” szöveg,
-- b) 52. § (2) bekezdésében az „az ülést követő tizenöt napon belül a jegyző” szövegrész helyébe az „a jegyző kormányrendeletben meghatározottak szerint” szöveg,
-- c) 60. §-ában a „tizenöt napon belül” szövegrész helyébe a „kormányrendeletben meghatározottak szerint” szöveg,
-- d) 143. § (2) bekezdésében a „helyi önkormányzatok törvényességi felügyeletéért felelős miniszter” szövegrész helyébe a „Kormány” szöveg
-
-lép.
+74. §
 
 #### 13. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 

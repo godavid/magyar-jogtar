@@ -48,15 +48,11 @@ a villamos energiáról szóló 2007. évi LXXXVI. törvény módosításáról
 
 14. §
 
-15. § (1) A Vet. 35. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A (3) bekezdés szerinti termelők közül a hálózati engedélyesek a hálózatokhoz való hozzáférés biztosítása során előnyben részesítik azokat a termelőket, amelyek a hálózati hozzáféréssel érintett erőművi beruházáshoz és annak működéséhez az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló kormányrendelet szerinti állami támogatást nem vesznek igénybe. E bekezdés szerinti előny alapján biztosított hálózati hozzáférés semmilyen formában nem engedhető át és nem ruházható át állami támogatás igénybevételével megvalósuló beruházáshoz.”
+15. § (1)
 
 (2)
 
-(3) A Vet. 35. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) A hálózati engedélyesek a megújuló energiaforrásból villamos energiát termelő hálózatokhoz való hozzáférésének elősegítése érdekében az egyenlő bánásmódot és a hozzáférés feltételeinek átláthatóságát, a megújuló termelői beruházások tervezhetőségét és versenysemlegességét biztosítva hathavi rendszerességgel a nagyfeszültségű és a nagy/középfeszültségű transzformátorállomásokhoz rendelt, az aktuális szabad kapacitásokról, és a csatlakozás műszaki és várható gazdasági feltételeiről szóló részletes tájékoztatót tesznek közzé. A termelő a szabad hálózati kapacitások kiosztására irányuló eljárásban kizárólag pénzügyi biztosíték nyújtása mellett vehet részt. A hálózati engedélyesek tájékoztatási kötelezettségére, valamint a termelői csatlakozási igényeket kiszolgáló szabad hálózati kapacitások kiosztására vonatkozó részletes szabályokat – a pénzügyi biztosíték nyújtásának és felhasználásának feltételeit is ideértve – az üzemi szabályzat és az elosztói szabályzat határozza meg. A hálózati engedélyesek az eltérő műszaki megvalósítási lehetőségek és szükségletek miatt egyedi eljárást alkalmazhatnak az üzemi szabályzatban és az elosztói szabályzatban meghatározottak szerint, abban az esetben, ha egy termelő csatlakozási kapacitásigénye önmagában meghaladja a közzétett tájékoztató szerinti aktuális szabad kapacitást. A termelő egyedi eljárásban kizárólag pénzügyi biztosíték nyújtása mellett vehet részt.”
+(3)
 
 16. §
 
@@ -98,13 +94,7 @@ a villamos energiáról szóló 2007. évi LXXXVI. törvény módosításáról
 
 34. §
 
-35. § A Vet.
-
-- 1–4.
-- 5. 35. § (2) bekezdésében a „(3) bekezdés szerinti” szövegrész helyébe a „(3) és (3a) bekezdés szerinti” szöveg,
-- 6–11.
-
-lép.
+35. §
 
 36. §
 
