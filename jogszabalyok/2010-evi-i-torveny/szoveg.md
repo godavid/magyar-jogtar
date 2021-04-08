@@ -1582,7 +1582,7 @@ részletes szabályait rendeletben állapítsa meg.
 
 101/A. § (1) E törvénynek az anyakönyvi eljárásról szóló 2010. évi I. törvény módosításáról szóló 2016. évi CIX. törvénnyel (a továbbiakban: Módtv.) módosított rendelkezéseit a Módtv. hatálybalépésekor folyamatban lévő ügyekben és a megismételt eljárásokban is alkalmazni kell.
 
-(2) E törvénynek az egyes közigazgatási tárgyú törvények módosításáról, valamint ingyenes vagyonjuttatásról szóló 2020. évi XXX. törvénnyel (a továbbiakban: Módtv.3) megállapított 3. § k) és x) pontját, 44. § (3) bekezdését, 69/B. § (1) bekezdés b) pont be) alpontját és 69/B. § (3) bekezdését a Módtv.3 hatálybalépése előtt indult és folyamatban lévő eljárásokban, valamint a megismételt eljárásokban is alkalmazni kell.
+(2)
 
 (3) E törvénynek az anyakönyvi eljárások egyszerűsítéséről és elektronizálásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2020. évi CLXVI. törvénnyel megállapított 27. § (2) bekezdését, valamint 39. § (2) bekezdését a hatálybalépését követően tett házasságkötésre vagy bejegyzett élettársi kapcsolat létesítésére irányuló szándék bejelentése esetén kell alkalmazni.
 
