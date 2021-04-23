@@ -18,7 +18,7 @@ a Magyarország Kormánya és a Finn Köztársaság Kormánya között a Magyar 
 
 5. § Az e törvény végrehajtásához szükséges intézkedésekről a külgazdasági ügyekért felelős miniszter gondoskodik.
 
-6. § Hatályát veszti a Magyar Népköztársaság Kormánya és a Finn Köztársaság Kormánya között a beruházások védelméről szóló Megállapodás kihirdetéséről szóló 91/1989. (VIII. 17.) MT rendelet.
+6. §
 
 ### 1. melléklet a 2021. évi V. törvényhez
 
