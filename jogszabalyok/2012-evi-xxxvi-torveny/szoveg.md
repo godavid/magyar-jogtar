@@ -770,7 +770,7 @@ megegyező mértékben csökkenti.
 
 (3) Az ülést vezető elnök a kizárás elrendeléséről szóló döntését – az intézkedés okának és jogalapjának megjelölésével – a kizárást követő három munkanapon belül írásban is közli a képviselővel.
 
-49. § (1) A kitiltott képviselő az Országház, az Országgyűlés Irodaháza és az Országgyűlés Hivatalának elhelyezésére szolgáló épületek területét köteles elhagyni, a kitiltás időtartama alatt azok területén – a 49/A. § (7) bekezdésében és az 51. § (4) bekezdésében foglalt kivétellel – nem tartózkodhat, illetve oda nem léphet be.
+49. § (1) A kitiltott képviselő az Országház és az Országgyűlés Hivatalának elhelyezésére szolgáló épületek területét köteles elhagyni, a kitiltás időtartama alatt azok területén – a 49/A. § (7) bekezdésében és az 51. § (4) bekezdésében foglalt kivétellel – nem tartózkodhat, illetve oda nem léphet be.
 
 (2) Ha az ülést vezető elnök által azonnali hatállyal kitiltott képviselő az ülést vezető elnök ülésterem elhagyására irányuló felszólításának nem tesz eleget, a vele szemben elrendelendő tiszteletdíj-csökkentés összegének a felső határa a kétszeresére emelkedik.
 
@@ -885,7 +885,7 @@ megegyező mértékben csökkenti.
 
 (2) Az ülést vezető elnök az Országgyűlési Őrséggel kivezettetheti az ülésteremből azt a 46/G. § alapján kitiltott képviselőt, aki az ülést vezető elnök felszólítása ellenére sem hagyja el a termet.
 
-(3) Az Országgyűlési Őrség gondoskodik arról, hogy a kitiltott képviselő a kitiltás időtartama alatt – a 49/A. § (4) bekezdésében és az 51. § (4) bekezdésében foglalt kivétellel – ne léphessen be az Országházba, az Országgyűlés Irodaházába, továbbá az Országgyűlés Hivatalának elhelyezésére szolgáló épületek területére.
+(3) Az Országgyűlési Őrség gondoskodik arról, hogy a kitiltott képviselő a kitiltás időtartama alatt – a 49/A. § (4) bekezdésében és az 51. § (4) bekezdésében foglalt kivétellel – ne léphessen be az Országházba, továbbá az Országgyűlés Hivatalának elhelyezésére szolgáló épületek területére.
 
 (4) Az a képviselő, akivel szemben az ülést vezető elnök rendészeti intézkedést alkalmazott, kifogást nyújthat be a Mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló bizottsághoz, amely nyolc napon belül – az 51. § (4) bekezdésének alkalmazásával – kivizsgálja a kifogást, és vizsgálatának eredményéről jelentést tesz az Országgyűlésnek.
 
@@ -894,7 +894,7 @@ megegyező mértékben csökkenti.
 - a) megerősíti az ülést vezető elnök rendészeti intézkedését vagy
 - b) ha az ülést vezető elnök rendészeti intézkedését megalapozatlannak találja, elrendeli e tény jegyzőkönyvbe foglalását.
 
-54. § (1) Az Országház, az Országgyűlés Irodaháza, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületek területére történő belépést a házelnök engedélyezi. E hatáskört a házelnök átruházhatja.
+54. § (1) Az Országház,továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületek területére történő belépést a házelnök engedélyezi. E hatáskört a házelnök átruházhatja.
 
 (2) A házelnök meghatározza és az Országgyűlés honlapján közzéteszi az (1) bekezdésben meghatározott épületek területére történő belépés és az ott-tartózkodás rendjét, az Országgyűlési Őrség és az Országgyűlés Hivatala e feladatkörével összefüggő tevékenysége részletes szabályait, valamint a belépés engedélyezésére vonatkozó jogosultság átruházásának szabályait. A házelnök nem állapíthat meg olyan rendelkezést, amely az Országgyűlés ülésének nyilvánosságát, a demokratikus közvélemény kialakulásához szükséges szabad tájékoztatás feltételeit kizárná.
 
@@ -946,11 +946,11 @@ megegyező mértékben csökkenti.
 
 #### 23. Az ülések közvetítése
 
-59. § (1) Az Országgyűlés ülését, a törvényalkotási bizottság ülését, valamint az (1a) bekezdés alapján meghatározott bizottsági ülést zártláncú audiovizuális rendszer közvetíti.
+59. § (1) Az Országgyűlés Hivatala az Országgyűlés ülését, a törvényalkotási bizottság ülését, valamint az (1a) bekezdés alapján meghatározott bizottsági ülést saját zártláncú audiovizuális rendszerén közvetíti.
 
 (1a) A bizottság elnökének kezdeményezésére a házelnök dönt a kinevezéssel vagy jelöléssel kapcsolatos nyilvános bizottsági meghallgatás, valamint egyéb nyilvános bizottsági ülés zártláncú audiovizuális rendszerben történő közvetítéséről.
 
-(2) A zártláncú audiovizuális rendszerből kimenő jelet valamennyi médiaszolgáltató számára hozzáférhetővé kell tenni. A rendszerhez való csatlakozás költségei a médiaszolgáltatót terhelik. A zártláncú audiovizuális rendszer kimenő jeléből nyilvánosan elérhető valósidejű, internetes közvetítésre alkalmas jelfolyamot kell képezni, és azt az Országgyűlés honlapján elérhetővé kell tenni.
+(2) A zártláncú audiovizuális rendszer kimenő jelét valamennyi médiaszolgáltató számára hozzáférhetővé kell tenni. A rendszerhez való csatlakozás költségei a médiaszolgáltatót terhelik. A zártláncú audiovizuális rendszer kimenő jeléből az Országgyűlés ülése és a törvényalkotási bizottság ülése esetén nyilvánosan elérhető, valósidejű, internetes közvetítésre alkalmas jelfolyamot kell képezni, és azt az Országgyűlés honlapján elérhetővé kell tenni. Bizottsági ülés zártláncú közvetítése a főigazgató által kijelölt teremben megtekinthető, illetve rögzíthető.
 
 (3) Az (1) és (2) bekezdésben foglaltak nem érintik bármely médiaszolgáltatónak azt a jogát, hogy az Országház épületének a házelnök által kijelölt helyéről műsort közvetítsen vagy rögzítsen. A házelnök csak olyan helyet jelölhet ki a műsor közvetítésére vagy rögzítésére, amely nem korlátozza a demokratikus közvélemény kialakulásához szükséges szabad tájékoztatás feltételeit.
 
@@ -960,7 +960,7 @@ megegyező mértékben csökkenti.
 
 (6) A zártláncú audiovizuális rendszerből kimenő jelről egy-egy rögzített, bárki számára hozzáférhető példányt az Országgyűlés Hivatalánál, az Országos Széchenyi Könyvtárban, valamint a Médiaszolgáltatás-támogató és Vagyonkezelő Alap archívumában kell elhelyezni. Az Országgyűlés Hivatala biztosítja a rögzített anyag megtekinthetőségét, és költségtérítés ellenében arról bárki által szabadon felhasználható másolatot készít.
 
-(7) Az Országházban, az Országgyűlés Irodaházában, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületekben a képviselőcsoport, a képviselőcsoporton kívül létrehozott más csoport és a képviselő csak az Országgyűlés tevékenységével kapcsolatban tarthat tájékoztatást a médiatartalom-szolgáltatók részére.
+(7) Az Országházban, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületekben a képviselőcsoport, a képviselőcsoporton kívül létrehozott más csoport és a képviselő csak az Országgyűlés tevékenységével kapcsolatban tarthat tájékoztatást a médiatartalom-szolgáltatók részére.
 
 #### 24. A törvényalkotás nyilvánossága
 
@@ -1190,9 +1190,11 @@ megegyező mértékben csökkenti.
 
 #### 30. Összeférhetetlenség
 
-80. § (1) A képviselői megbízatás – a (2) bekezdésben meghatározott kivétellel – összeegyeztethetetlen minden más állami, önkormányzati és gazdasági tisztséggel vagy megbízatással. A képviselő a tudományos, egyetemi oktatói, főiskolai oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve más keresőfoglalkozást nem folytathat és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenységet és a nevelőszülői foglalkoztatási jogviszony keretében végzett tevékenységet kivéve – díjazást nem fogadhat el. A képviselőnek a mezőgazdasági őstermelőként folytatott tevékenysége nem minősül kereső foglalkozásnak vagy díjazás ellenében folytatott egyéb tevékenységnek.
+80. § (1) A képviselői megbízatás – a (2) és (2a) bekezdésben meghatározott kivétellel – összeegyeztethetetlen minden más állami, önkormányzati és gazdasági tisztséggel vagy megbízatással. A képviselő a tudományos, egyetemi oktatói, főiskolai oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve más keresőfoglalkozást nem folytathat és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenységet és a nevelőszülői foglalkoztatási jogviszony keretében végzett tevékenységet kivéve – díjazást nem fogadhat el. A képviselőnek a mezőgazdasági őstermelőként folytatott tevékenysége nem minősül kereső foglalkozásnak vagy díjazás ellenében folytatott egyéb tevékenységnek.
 
 (2) A képviselő miniszterelnöki, miniszteri, államtitkári, kormánybiztosi, miniszterelnöki biztosi, miniszterelnöki megbízotti vagy miniszteri biztosi tisztséget láthat el, illetve az Országgyűlés tisztségviselője lehet.
+
+(2a) A képviselő közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumában és felügyelőbizottságában tag lehet, valamint közfeladatot ellátó közérdekű vagyonkezelő alapítványban vagyonellenőri tisztséget betölthet.
 
 (3) A miniszterelnök, miniszter, államtitkár képviselő nem lehet az Országgyűlés tisztségviselője és országgyűlési bizottság tagja.
 
@@ -1236,11 +1238,10 @@ megegyező mértékben csökkenti.
 
 89. § A képviselő a házelnöknek köteles bejelenteni minden, összeférhetetlenség alá nem eső
 
-- a)
-- b) önálló vállalkozását, gazdasági társaságban, szövetkezetben fennálló részesedését (tagsági viszonyát), az e szervezetekben betöltött vezető tisztségviselői megbízatását, felügyelő bizottsági tagságát, továbbá bizalmi vagyonkezelési jogviszony alapján fennálló vagyonrendelői, vagyonkezelői illetve kedvezményezetti jogállását,
-- c) alapítványát, alapítvány kezelő testületében fennálló tagságát, civil szervezetben fennálló tagsági viszonyát, továbbá e szervezetek jogszabályban vagy alapszabályban meghatározott legfelsőbb, valamint ügyintéző és képviseleti szervében betöltött tisztségét,
+- a) önálló vállalkozását, gazdasági társaságban, szövetkezetben fennálló részesedését (tagsági viszonyát), az e szervezetekben betöltött vezető tisztségviselői megbízatását, felügyelőbizottsági tagságát,
+- b) bizalmi vagyonkezelési jogviszony alapján fennálló vagyonrendelői, vagyonkezelői, illetve kedvezményezetti jogállását,
+- c) alapítványnál – ideértve a közfeladatot ellátó közérdekű vagyonkezelő alapítványt is – fennálló alapítói és csatlakozói státuszát, civil szervezetben fennálló tagsági viszonyát, továbbá e szervezetek jogszabályban vagy alapszabályban meghatározott legfelsőbb, valamint ügyintéző és képviseleti szervében betöltött tisztségét,
 - d) köztestületben fennálló tagságát, valamint köztestület jogszabályban vagy alapszabályban meghatározott legfelsőbb, valamint ügyintéző és képviseleti szervében betöltött tisztségét.
-- e)–f)
 
 89/A. § A bejelentési kötelezettségnek a 90. § (1) bekezdése szerinti határidőben kell eleget tenni.
 
@@ -1592,7 +1593,7 @@ a jogviszony megszűnésétől számított egy évig kezeli.
 
 114. § (1) A képviselőcsoport – működésének, valamint a képviselők képviselői tevékenységének biztosítására –
 
-- a) térítésmentesen az Országházban vagy az Országgyűlés Irodaházában irodákra,
+- a) térítésmentesen az Országházban vagy az Országgyűlés Hivatala elhelyezésére szolgáló épületekben irodákra,
 - b) a képviselőcsoport működéséhez, valamint a képviselők képviselői tevékenységéhez szükséges irodai berendezésre és felszerelésre,
 - c) az a) pont szerinti irodák működtetésével összefüggő kiadások biztosítására
 
@@ -2038,36 +2039,33 @@ céljából, az országgyűlési képviselői megbízatás keletkezésétől kez
 
 (5) Az Országgyűlés Hivatala az (1) bekezdés a)–f) és l) pontja, valamint a (2a) bekezdés szerinti személyes adatot – a (2) bekezdés d) pontja és a (2a) bekezdés szerinti célból – az országgyűlési képviselő, valamint a korábban országgyűlési képviselői megbízatással rendelkező személy közéleti tevékenységéről történő megemlékezést követően egy évig kezeli.
 
-#### 40/H. Az Országházba, az Országgyűlés Irodaháza, továbbá az Országgyűlés Hivatala vagy az Országgyűlési Őrség elhelyezésére szolgáló épületek területére belépést, valamint a Kossuth tér felszín alatti mélygarázsba behajtást rögzítő elektronikus rendszer
+#### 40/H. Az Országházba, továbbá az Országgyűlés Hivatala vagy az Országgyűlési Őrség elhelyezésére szolgáló épületek területére belépést, valamint a Kossuth tér felszín alatti mélygarázsba behajtást rögzítő elektronikus rendszer
 
-124/V. § (1) Az Országgyűlés Hivatala az 54. § (1) és (2) bekezdésében meghatározott feladatok végrehajtása céljából a belépést rögzítő elektronikus rendszerben (a továbbiakban: beléptető rendszer) nyilvántartja az Országházba, az Országgyűlés Irodaháza, továbbá az Országgyűlés Hivatala vagy az Országgyűlési Őrség elhelyezésére szolgáló épületek területére állandó belépési engedéllyel rendelkező személy
+124/V. § (1) Az Országgyűlés Hivatala az 54. § (1) és (2) bekezdésében meghatározott feladatok végrehajtása céljából a belépést rögzítő elektronikus rendszerben (a továbbiakban: beléptető rendszer) nyilvántartja az Országházba, továbbá az Országgyűlés Hivatala vagy az Országgyűlési Őrség elhelyezésére szolgáló épületek területére állandó belépési engedéllyel rendelkező személy
 
 - a) családi nevét és utónevét,
 - b) születési helyét és idejét,
 - c) anyja születési családi és utónevét,
 - d) arcképmását,
-- e) személyazonosításra alkalmas hatósági igazolványának típusát és okmányazonosítóját, illetve, ha a belépő személy nem magyar állampolgár vagy a személyazonosításra alkalmas okmányt nem magyar hatóság állította ki, akkor az okmányt kiállító ország megnevezését és a belépő személy állampolgárságát is, valamint
+- e) személyazonosításra alkalmas hatósági igazolványának típusát és okmányazonosítóját, illetve, ha a belépő személy nem magyar állampolgár vagy a személyazonosításra alkalmas okmányt nem magyar hatóság állította ki, akkor az okmányt kiállító ország megnevezését és a belépő személy állampolgárságát is,
 - f) belépésre jogosító igazolványának számát.
+- g) be- és kilépésének helyét és idejét rögzítő adatokat, valamint
+- h) arcképmásából képzett, vissza nem fejthető alfanumerikus adatsort (a továbbiakban: biometrikus sablon).
 
-(2) Az Országgyűlés Hivatala az 54. § (1) és (2) bekezdésében meghatározott feladatok végrehajtása céljából a beléptető rendszerben nyilvántartja az (1) bekezdésben jelzett épületekbe tartós belépési engedéllyel rendelkező személy
+(1a) Az (1) bekezdés szerinti állandó belépési engedéllyel rendelkező személy – belépési jogosultságának megállapítása céljából – beléptetésekor a beléptető rendszer részeként működő automatizált arcképelemző rendszer biometrikus sablont képez, amelyet összevet a belépni szándékozó személy beléptető rendszerben szereplő biometrikus sablonjával. Amennyiben a biometrikus sablonok nem egyeznek meg, és a belépni szándékozó személy a belépési jogosultságát más módon nem tudja igazolni, a belépésre nem kerülhet sor.
 
-- a) családi nevét és utónevét,
-- b) születési helyét és idejét,
-- c) anyja születési családi és utónevét, valamint
-- d) a személyazonosításra alkalmas hatósági igazolvány típusát és okmányazonosítóját.
+(1b) Az Országgyűlés Hivatala az Országgyűlés Hivatalával közszolgálati jogviszonyban vagy munkaviszonyban álló személyeknek az (1) bekezdés g) pontja szerinti adatait a Kttv. 115. §-ában és az Mt. 134. §-ában meghatározott munkaidő-nyilvántartási feladat támogatása céljából is kezeli.
+
+(2) Az Országgyűlés Hivatala az 54. § (1) és (2) bekezdésében meghatározott feladatok végrehajtása céljából a beléptető rendszerben nyilvántartja az (1) bekezdésben jelzett épületekbe tartós belépési engedéllyel rendelkező személy (1) bekezdés a)–c), e) és g) pontja szerinti adatait, valamint a belépését kezdeményező személy nevét.
 
 (3) Az (1) és (2) bekezdés szerinti állandó vagy tartós belépési engedéllyel rendelkező személy esetében
 
-- a) az (1) és (2) bekezdés szerinti személyes adatot a jogosultság megszűnésétől számított,
+- a) az állandó belépési engedéllyel rendelkező személynek az (1) bekezdés a)–f) és h) pontja, a tartós belépési engedéllyel rendelkező személynek az (1) bekezdés a)–c) és e) pontja szerinti személyes adatát a jogosultság megszűnésétől számított,
 - b) a beléptető rendszerben keletkezett, a be- és kilépés helyét és időpontját, valamint a belépést kezdeményező személy nevét rögzítő adatokat (a továbbiakban: belépést dokumentáló adatok) a keletkezésüktől számított
 
 öt év elteltével törölni kell.
 
-(4) Az Országgyűlés Hivatala az 54. § (1) és (2) bekezdésében meghatározott feladatok végrehajtása céljából a beléptető rendszerben nyilvántartja az (1) bekezdésben meghatározott épületekbe eseti belépési engedéllyel rendelkező személy
-
-- a) családi nevét és utónevét,
-- b) születési idejét, valamint
-- c) a személyazonosításra alkalmas hatósági igazolvány típusát és okmányazonosítóját, illetve, ha a belépő személy nem magyar állampolgár vagy a személyazonosításra alkalmas okmányt nem magyar hatóság állította ki, akkor az okmányt kiállító ország megnevezését és a belépő személy állampolgárságát is.
+(4) Az Országgyűlés Hivatala az 54. § (1) és (2) bekezdésében meghatározott feladatok végrehajtása céljából a beléptető rendszerben nyilvántartja az (1) bekezdésben meghatározott épületekbe eseti belépési engedéllyel rendelkező személy (1) bekezdés a), b), e) és g) pontja szerinti adatait, valamint a belépését kezdeményező személy nevét.
 
 (5) A (4) bekezdés szerinti eseti belépési engedéllyel rendelkező személy valamennyi személyes adatát, továbbá a belépést dokumentáló adatokat a belépés napjától számított öt év elteltével törölni kell.
 
@@ -2080,18 +2078,20 @@ céljából, az országgyűlési képviselői megbízatás keletkezésétől kez
 (7) Az Országgyűlés Hivatala az 54. § (1) és (2) bekezdésében meghatározott feladatok végrehajtása céljából nyilvántartja a Kossuth tér felszín alatti mélygarázsba behajtási engedéllyel rendelkező személy
 
 - a) családi nevét és utónevét,
-- b) a gépjármű típusát, színét és forgalmi rendszámát.
+- b) gépjárművének típusát, színét és forgalmi rendszámát.
+- c) be- és kihajtásának helyét és idejét rögzítő adatokat, valamint
+- d) behajtását kezdeményező személy nevét.
 
 (8) A (7) bekezdésben meghatározott nyilvántartásból az állandó behajtási engedéllyel rendelkező személy esetében
 
-- a) a (7) bekezdés szerinti személyes adatot a jogosultság megszűnésétől számított,
-- b) a nyilvántartási rendszerben keletkezett, a belépést dokumentáló adatokat a keletkezésüktől számított
+- a) a (7) bekezdés a) és b) pontja szerinti személyes adatot a jogosultság megszűnésétől számított,
+- b) a (7) bekezdés c) és d) pontja szerinti adatokat a keletkezésüktől számított
 
 öt év elteltével törölni kell.
 
-(9) A (7) bekezdésben meghatározott nyilvántartásból az eseti behajtási engedéllyel rendelkező személy valamennyi személyes adatát, továbbá a belépést dokumentáló adatokat a belépés napjától számított öt év elteltével törölni kell.
+(9) A (7) bekezdésben meghatározott nyilvántartásból az eseti behajtási engedéllyel rendelkező személy valamennyi adatát a behajtás napjától számított öt év elteltével törölni kell.
 
-(10) A beléptető rendszer, valamint a Kossuth tér felszín alatti mélygarázsba behajtást nyilvántartó rendszer a belépő személyről, illetve a be- és kihajtó gépjárműről a belépési, illetve a behajtási jogosultság ellenőrzése, a belépő személy vagy a behajtó gépjármű azonosságának megállapítása, és az ezzel kapcsolatos visszaélések megelőzése vagy megszüntetése érdekében a belépés vagy be- és kihajtás időpontjában pillanatfelvételt készít. A pillanatfelvételt a (3) bekezdés b) pontjában és a (8) bekezdés b) pontjában meghatározott határidő elteltével törölni kell.
+(10) A beléptető rendszer, valamint a Kossuth tér felszín alatti mélygarázsba behajtást nyilvántartó rendszer a be- és kilépő személyről, illetve a be- és kihajtó gépjárműről a belépési, illetve a behajtási jogosultság ellenőrzése, a be- és kilépő személy vagy a be- és kihajtó gépjármű azonosságának megállapítása, és az ezzel kapcsolatos visszaélések megelőzése vagy megszüntetése érdekében a be- és kilépés vagy be- és kihajtás időpontjában pillanatfelvételt készít. A pillanatfelvételt a (3) bekezdés b) pontjában és a (8) bekezdés b) pontjában meghatározott határidő elteltével törölni kell.
 
 (11) Az (1), (2), (4), (7) és (10) bekezdésben meghatározott adatokból – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, valamint nemzetbiztonsági célból – a nyomozó hatóság, a Rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv vagy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, a szabálysértési hatóság, a körözési eljárást folytató szerv, az ügyészség, a bíróság, a nemzetbiztonsági szolgálatok, nemzetközi jogsegély keretében külföldi hatóság, jogainak gyakorlása érdekében az érintett, valamint jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy igényelhet adatot.
 
@@ -2112,9 +2112,9 @@ céljából, az országgyűlési képviselői megbízatás keletkezésétől kez
 (2) Az Országgyűlési Őrség
 
 - a) ellátja a házelnök személyvédelmét,
-- b) az Országház, az Országgyűlés Irodaháza, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületek, valamint az abban tartózkodók biztonsága érdekében létesítménybiztosítási feladatokat lát el,
-- c) az Országgyűlés Hivatalával együttműködve biztosítja az Országház, az Országgyűlés Irodaháza, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületek területére történő belépés és az ott-tartózkodás rendjére vonatkozó szabályok betartását,
-- d) az Országházban, az Országgyűlés Irodaházában, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületekben gondoskodik a jogszabályokban meghatározott tűzbiztonsági követelmények megtartásáról, valamint a tevékenységi körükkel kapcsolatos veszélyhelyzetek megelőzésének és elhárításának a feltételeiről,
+- b) az Országház, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületek, valamint az abban tartózkodók biztonsága érdekében létesítménybiztosítási feladatokat lát el,
+- c) az Országgyűlés Hivatalával együttműködve biztosítja az Országház, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületek területére történő belépés és az ott-tartózkodás rendjére vonatkozó szabályok betartását,
+- d) az Országházban, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületekben gondoskodik a jogszabályokban meghatározott tűzbiztonsági követelmények megtartásáról, valamint a tevékenységi körükkel kapcsolatos veszélyhelyzetek megelőzésének és elhárításának a feltételeiről,
 - e) ellátja a tárgyalási rend fenntartásával kapcsolatos, e törvényben meghatározott feladatokat,
 - f) a kiemelt nemzeti emlékhely méltóságának megőrzése, valamint a kiemelt nemzeti emlékhely részét képező közterület rendjének fenntartása érdekében járőr- és őrszolgálatot lát el,
 - g) protokolláris díszelgési feladatokat lát el, és
@@ -2216,7 +2216,7 @@ céljából, az országgyűlési képviselői megbízatás keletkezésétől kez
 
 (3) Az Országgyűlési Őrség a 125. § (2) bekezdés a) pontjában meghatározott feladata ellátása során a házelnök szállítására használt gépjármű külső környezete megfigyelésére képfelvevő eszközt alkalmaz és képfelvételt készít.
 
-(4) Az Országgyűlési Őrség elektronikus megfigyelőrendszer működtetése útján képfelvételt a 125. § (2) bekezdés a), b), c), e) és f) pontjában meghatározott feladatai ellátásának támogatása, az Országház, az Országgyűlés Irodaháza, az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületek, valamint a házelnök tartózkodási helye biztosítása, a létesítményekben tartózkodók biztonsága, az őrzésbiztonsági feltételek ellenőrzése, a rendkívüli események megelőzése, következményeinek elhárítása és kivizsgálásának elősegítése, a jogsértések észlelése és megelőzése, az elkövető tettenérése céljából készít, illetve kezel.
+(4) Az Országgyűlési Őrség elektronikus megfigyelőrendszer működtetése útján képfelvételt a 125. § (2) bekezdés a), b), c), e) és f) pontjában meghatározott feladatai ellátásának támogatása, az Országház, az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületek, valamint a házelnök tartózkodási helye biztosítása, a létesítményekben tartózkodók biztonsága, az őrzésbiztonsági feltételek ellenőrzése, a rendkívüli események megelőzése, következményeinek elhárítása és kivizsgálásának elősegítése, a jogsértések észlelése és megelőzése, az elkövető tettenérése céljából készít, illetve kezel.
 
 (5) A (4) bekezdés szerinti elektronikus megfigyelőrendszer kialakítása során kamera nem helyezhető el olyan helyen, ahol a megfigyelés és az adatrögzítés
 
@@ -2262,8 +2262,8 @@ továbbítható a megkereső, illetve adatszolgáltatást kérő, az eljárásra
 
 138. § (1) Az országgyűlési őr a feladata ellátása során
 
-- a) az Országház, az Országgyűlés Irodaháza, továbbá az Országgyűlés Hivatala vagy az Országgyűlési Őrség elhelyezésére szolgáló épületek területén a személyazonosság megállapítása céljára a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvényben meghatározott személyazonosság igazolására alkalmas hatósági igazolványt, vagy ha a belépő személy nem magyar állampolgár vagy a személyazonosításra alkalmas okmányt nem magyar hatóság állította ki, akkor a személyazonosság megállapítására alkalmas okmányt, valamint az Országházba, az Országgyűlés Irodaházába, továbbá az Országgyűlés Hivatala vagy az Országgyűlési Őrség elhelyezésére szolgáló épületekbe való belépésre jogosító okmányt fogadja el,
-- b) megállapíthatja annak a személyazonosságát, akinek ez a házelnök személyvédelme érdekében, a belépési jogosultság igazolásához, a közbiztonság, a kiemelt nemzeti emlékhely méltóságának megőrzése, a kiemelt nemzeti emlékhely részét képező közterület rendjének fenntartása, az Országházban, az Országgyűlés Irodaházában, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületekben tartózkodók védelme céljából szükséges.
+- a) az Országház, továbbá az Országgyűlés Hivatala vagy az Országgyűlési Őrség elhelyezésére szolgáló épületek területén a személyazonosság megállapítása céljára a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvényben meghatározott személyazonosság igazolására alkalmas hatósági igazolványt, vagy ha a belépő személy nem magyar állampolgár vagy a személyazonosításra alkalmas okmányt nem magyar hatóság állította ki, akkor a személyazonosság megállapítására alkalmas okmányt, valamint az Országházba, továbbá az Országgyűlés Hivatala vagy az Országgyűlési Őrség elhelyezésére szolgáló épületekbe való belépésre jogosító okmányt fogadja el,
+- b) megállapíthatja annak a személyazonosságát, akinek ez a házelnök személyvédelme érdekében, a belépési jogosultság igazolásához, a közbiztonság, a kiemelt nemzeti emlékhely méltóságának megőrzése, a kiemelt nemzeti emlékhely részét képező közterület rendjének fenntartása, az Országházban, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületekben tartózkodók védelme céljából szükséges.
 
 (2) Az (1) bekezdés b) pontja esetén az országgyűlési őr minden olyan hatósági igazolványt elfogad, amely tartalmazza a személyazonosításhoz szükséges adatokat. A személyazonosság megállapításával érintett személy a személyazonosság megállapítására alkalmas okmányok közül egy bemutatására kötelezhető. Az országgyűlési őr más jelen lévő, ismert személyazonosságú személy közlését is elfogadhatja igazolásként.
 
@@ -2286,12 +2286,12 @@ továbbítható a megkereső, illetve adatszolgáltatást kérő, az eljárásra
 - a) a közúti forgalmat irányíthatja, korlátozhatja, illetve szüneteltetheti, valamint
 - b) az üzemben tartó, illetve a használó személyazonosító adatainak megállapítása érdekében járművet feltartóztathat, az abban tartózkodók személyazonosságát megállapíthatja.
 
-#### 47. Intézkedés az Országház és az Országgyűlés Irodaháza üléstermében
+#### 47. Intézkedés az Országház üléstermében
 
 141. § (1) Az országgyűlési őr
 
 - a) az ülést vezető elnök hozzájárulása nélkül az Országházban megtartott
-- b) az országgyűlési bizottság elnöke, akadályoztatása esetén a bizottsági ülést levezető alelnöknek a hozzájárulása nélkül az Országházban vagy az Országgyűlés Irodaházában megtartott bizottsági
+- b) az országgyűlési bizottság elnöke, akadályoztatása esetén a bizottsági ülést levezető alelnöknek a hozzájárulása nélkül az Országházban megtartott bizottsági
 
 ülés ideje alatt az ülésterembe, az ülésteremhez tartozó páholyba és karzatra, valamint az üléstermet körülvevő folyosóra nem léphet be és nem intézkedhet.
 
@@ -2359,7 +2359,7 @@ továbbítható a megkereső, illetve adatszolgáltatást kérő, az eljárásra
 
 (3) E törvény hatálybalépését követően az Országgyűlés, az Országház és a Parlament nevét, jelképeit az e törvény hatálybalépése előtti időponttól felhasználó 2012. december 31-ig kérvényezheti a házelnöknél a név-, illetve jelképhasználat engedélyeztetését.
 
-(4) A 2013. január 1-jét megelőzően kihirdetett jogszabályban az Országgyűlés védelmével, függetlenségének és külső befolyástól mentes működésének biztosításával, továbbá az Országház és az Országgyűlés Irodaháza, továbbá az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületekben történő rendőri intézkedésekkel és a tűzbiztonsági követelmények megtartásával összefüggésben a rendőrség, illetve a hivatásos katasztrófavédelmi szerv számára meghatározott feladatokat és hatásköröket az Országgyűlési Őrség látja el.
+(4) A 2013. január 1-jét megelőzően kihirdetett jogszabályban az Országgyűlés védelmével, függetlenségének és külső befolyástól mentes működésének biztosításával, továbbá az Országház, az Országgyűlés Hivatala és az Országgyűlési Őrség elhelyezésére szolgáló épületekben történő rendőri intézkedésekkel és a tűzbiztonsági követelmények megtartásával összefüggésben a rendőrség, illetve a hivatásos katasztrófavédelmi szerv számára meghatározott feladatokat és hatásköröket az Országgyűlési Őrség látja el.
 
 (5) Ahol jogszabály az Országgyűlési Őrség részére a (4) bekezdésben meghatározott feladatok tekintetében a rendőrséget, illetve a hivatásos katasztrófavédelmi szervet említi, azon az Országgyűlési Őrséget kell érteni.
 
@@ -2442,6 +2442,8 @@ sarkalatosnak minősül.
 (8) A 149. § (2) bekezdése, a 154. § és a 160. § (4) bekezdése az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
 (9) Az 50. alcím az Alaptörvénynek az (1)–(4), (6) és (7) bekezdésben meghatározott rendelkezései alapján sarkalatosnak minősül.
+
+(10) A 80. § (1) és (2a) bekezdése és a 89. § c) pontja az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 #### 53. Módosító rendelkezések
 

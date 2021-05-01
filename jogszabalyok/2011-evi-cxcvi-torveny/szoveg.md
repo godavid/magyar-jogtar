@@ -480,7 +480,9 @@ javára ruházható át.
 - o) az állami tulajdonban lévő vizek hasznosítására és nyilvántartására vonatkozó szabályokat a vízgazdálkodásról szóló törvény,
 - p) a közutak kezelésével, fejlesztésével, fenntartásával, működtetésével kapcsolatos feladatokat a közúti közlekedésről szóló törvény
 - q) a Magyar Export-Import Bank Zrt. és a Magyar Exporthitel Biztosító Zrt. feletti tulajdonosi joggyakorlás módját a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló törvény,
-- r) a Nemzeti Ménesbirtok és Tangazdaság vagyonáról, a Nemzeti Ménesbirtok és Tangazdaság feletti tulajdonosi joggyakorlás módjáról szóló szabályokat a Nemzeti Ménesbirtok és Tangazdaságról szóló törvény állapítja meg.
+- r)
+
+állapítja meg.
 
 (2) A nemzetiségi önkormányzatok vagyonáról és vagyongazdálkodásának részletes szabályairól a nemzetiségek jogairól szóló törvény rendelkezik.
 
@@ -2165,7 +2167,6 @@ I. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartan
 | Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Kft. | 100% |
 | Szerencsejáték Zrt. | 100% |
 | Bábolna Nemzeti Ménesbirtok Kft. | 100% |
-| Mezőhegyesi Állami Ménes Lótenyésztő- és Értékesítő Kft. | 100% |
 | Dunamenti Regionális Vízmű Zrt. | 75%+1 szavazat |
 | Dunántúli Regionális Vízmű Zrt. | 75%+1 szavazat |
 | Észak-dunántúli Regionális Vízmű Zrt. | 75%+l szavazat |
@@ -2239,8 +2240,8 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 1.16. |  |  |  |
 | III. kerület |  |  |  |
 | 1.17. | Aquincum, Szentendrei út 139. |  | római polgárváros romegyüttese |
-| 1.18. | Fő tér 1. |  | Zichy-kastély együttese |
-| 1.19. | Óbudai sziget, Hajógyár |  | az aquincumi helytartó palotájának romjai |
+| 1.18. |  |  |  |
+| 1.19. |  |  |  |
 | 1.20. | Meggyfa u. |  | római ház romjai |
 | 1.21. | Pacsirtamező u. 2–14. |  | római katonai amfiteátrum romjai |
 | 1.22. | Szentendrei út |  | római polgárvárosi amfiteátrum romjai |
