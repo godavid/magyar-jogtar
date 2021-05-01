@@ -73,7 +73,7 @@ Magyarország Országgyűlése a közpénzek hatékony felhasználásának átl�
   - b) e törvény szerinti ajánlatkérők számára áruk beszerzésére, szolgáltatások vagy építési beruházások megrendelésére irányuló szerződések vagy keretmegállapodások megkötése;
 - 27. közszolgáltatói szerződés: olyan közbeszerzési szerződés, amelynek célja az ajánlatkérő e törvény szerinti közszolgáltató tevékenysége előkészítésének, megkezdésének vagy folytatásának biztosítása;
 - 28. meghatározó befolyást képes gyakorolni az a szervezet, amely az alábbi feltételek közül legalább eggyel rendelkezik egy másik szervezet tekintetében:
-  - a) vagyonkezelő alapítvány kivételével vagyoni hozzájárulása, illetve részvénytársaság esetében a tulajdonában lévő részvények névértéke meghaladja a jegyzett tőke felét,
+  - a) vagyoni hozzájárulása, illetve részvénytársaság esetében a tulajdonában lévő részvények névértéke meghaladja a jegyzett tőke felét,
   - b) a tagok szavazatának többségével egyedül rendelkezik, vagy más tagok a befolyással rendelkezővel kötött megállapodás alapján a befolyással rendelkezővel azonos tartalommal szavaznak, vagy a befolyással rendelkezőn keresztül gyakorolják szavazati jogukat, feltéve hogy együtt a szavazatok több mint felével rendelkeznek,
   - c) jogosult arra, hogy a vezető tisztségviselők (döntéshozók, ügyvezetők) vagy a felügyelőbizottság (felügyeleti, ellenőrző szerv, testület) tagjainak többségét megválassza (kijelölje) vagy visszahívja;
 - 29. médiaszolgáltató: az a természetes vagy jogi személy, aki vagy amely szerkesztői felelősséggel rendelkezik a médiaszolgáltatás tartalmának megválasztásáért, és meghatározza annak összeállítását;
@@ -117,11 +117,11 @@ Magyarország Országgyűlése a közpénzek hatékony felhasználásának átl�
 - b) olyan építési beruházás, amely kórház, sportlétesítmény, szabadidős és szórakoztató létesítmény, iskola, felsőoktatási épület vagy közigazgatási rendeltetésű épület építési munkáit foglalja magában, vagy
 - c) olyan szolgáltatás megrendelése, amely az a) vagy a b) pont szerinti építési beruházáshoz kapcsolódik.
 
-(3) Az európai uniós támogatásból megvalósuló beszerzés vonatkozásában e törvény szabályait alkalmazni köteles az állam által alapított vagyonkezelő alapítvány és az ilyen alapítvány által fenntartott jogi személy akkor is, ha nem tartozik az (1) bekezdés hatálya alá.
+(3)
 
 (4) E törvény rendelkezését köteles betartani az az (1)–(2) bekezdés hatálya alá nem tartozó szervezet, amely e törvény szerinti közbeszerzési eljárás lefolytatását önként vagy szerződésben vállalja, illetve számára jogszabály közbeszerzési eljárás lefolytatását kötelezővé teszi.
 
-(5) E § alkalmazásában az (1) bekezdésben foglalt szervezetek általi finanszírozás arányának meghatározásakor nem kell figyelembe venni a vagyonkezelő alapítvány tulajdonába adott vagyon hasznosításából származó bevételt.
+(5)
 
 6. § (1) E törvény alkalmazásában – a közszolgáltató tevékenységének biztosítása céljából lefolytatott beszerzése során – közszolgáltató ajánlatkérő az 5. § (1) bekezdésében meghatározott szervezet, amennyiben az alábbiakban meghatározott közszolgáltató tevékenységet folytatja, vagy ilyen tevékenység folytatása céljából hozták létre
 

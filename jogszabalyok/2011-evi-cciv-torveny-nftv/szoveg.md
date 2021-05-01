@@ -1705,11 +1705,13 @@ irányuló eljárásban.
 - j) jóváhagyásával határozza meg a felsőoktatási intézmény az intézményben folytatott képzés költségét;
 - k) gyakorolja az állami felsőoktatási intézményben a konzisztórium tagjainak delegálásával, megbízásával, visszahívásával, a megbízás megszüntetésével kapcsolatos döntési hatásköröket.
 
+(3a) A fenntartó a nemzetiségi képzés tekintetében hozott döntéseihez beszerzi az Országos Nemzetiségi Tanács véleményét.
+
 (4) A fenntartó a szervezeti és működési szabályzat egységességét, teljességét, törvényességét, hatékonyságnak való megfelelőségét vizsgálja.
 
 (5) A törvényesség biztosítása keretében kell ellenőrizni az intézményi dokumentumokban foglaltak megtartását, jogszerűségét, a felsőoktatási intézmény működésének és a döntéshozatalnak a jogszerűségét.
 
-73/A. § A vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény (a továbbiakban: vagyonkezelő alapítványokról szóló törvény) szerinti vagyonkezelő alapítvány a 73. § (1) bekezdése szerinti fenntartói irányítást a vagyonkezelő alapítványokról szóló törvény 2. §-a szerinti tevékenységére tekintettel, a vagyonkezelés céljának megfelelően gyakorolja.
+#### 73/A. §
 
 74. § (1) Ellenőrzése eredményeképpen a fenntartó – megfelelő határidő tűzésével – felhívja a felsőoktatási intézmény vezetőjét a jogszabálysértő döntés orvoslására, a szükséges intézkedés meghozatalára.
 

@@ -393,7 +393,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 36. § (1) Az önkormányzati képviselő, valamint a képviselő-testület bizottságának nem képviselő tagja nem folytathat olyan tevékenységet, amely a feladatainak ellátásához szükséges közbizalmat megingathatja, továbbá nem lehet
 
 - a) országgyűlési képviselő, valamint aki olyan tisztséget tölt be, olyan feladatot lát el, amelyre kinevezését, megbízatását az Országgyűléstől, köztársasági elnöktől, Kormánytól, Kormány tagjától vagy az Országgyűlés, Kormány alárendeltségébe tartozó szervtől (vezetőjétől) kapta, kivéve
-  - aa) ha ezen megbízatás keretében tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységet lát el, illetve nevelőszülői foglalkoztatási jogviszonyban áll;
+  - aa) ha ezen megbízatás keretében tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységet lát el – ideértve a közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumának vagy felügyelőbizottságának tagjaként vagy vagyonellenőreként ellátott tevékenységet is –, illetve ha nevelőszülői foglalkoztatási jogviszonyban áll;
   - ab) egészségügyi intézmény főigazgatója, gazdasági vezetője, orvos, egészségügyi dolgozó, köznevelési intézmény vezetője, foglalkoztatottja, szakképző intézmény vezetője, foglalkoztatottja vagy a szakképző intézmény tekintetében fenntartói irányítási hatáskört gyakorló szerv vezetője, foglalkoztatottja, felsőoktatási intézmény vezetője, foglalkoztatottja, szociális intézmény vezetője, foglalkoztatottja, gyermekjóléti és gyermekvédelmi intézmény vezetője, foglalkoztatottja;
   - ac) az állam által alapított vagy tulajdoni részesedésével működő gazdálkodó szervezet felügyelőbizottságának vagy ügyvezetésének tagja;
 - b) központi államigazgatási szerv vezetője, köztisztviselője;
@@ -753,11 +753,11 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (2) A 3000 fő feletti lakosságszámú település főállású polgármestere
 
-- a) a tudományos, oktatói, lektori, szerkesztői, művészeti, jogi oltalom alá eső szellemi tevékenység,
+- a) a tudományos, oktatói, lektori, szerkesztői, művészeti, jogi oltalom alá eső szellemi tevékenység – ideértve a közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumának vagy felügyelőbizottságának tagjaként vagy vagyonellenőreként folytatott tevékenységet is –,
 - b) a nevelőszülői foglalkoztatási jogviszony, valamint
 - c) az egészségügyi tevékenység végzésére irányuló jogviszony – ide nem értve az egészségügyi alapellátásban végzett tevékenységet –
 
-kivételével egyéb, munkavégzésre irányuló jogviszonyt nem létesíthet, más kereső foglalkozást nem folytathat, nem lehet gazdasági társaság személyesen közreműködő tagja.
+kivételével más kereső foglalkozást nem folytathat, egyéb tevékenységéért díjazást nem fogadhat el és nem lehet gazdasági társaság személyesen közreműködő tagja.
 
 (3)
 
@@ -1536,6 +1536,8 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 145. § (1) Az 1–83. §, a 84. § (1)–(4) bekezdése, a 85–109. §, a 125–142. §, a 143. § (1) bekezdés a)–g) pontja, a 143. § (2)–(4) bekezdése, a 144. §, a 146. §, a 146/C. §, a 146/F. §, a 146/G. §, valamint a 146/H. § az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvény 42. § 16. és 17. pontja, 108. §-a, valamint 143. § (1) bekezdésének f) pontja az Alaptörvény 38. cikk (1) bekezdése alapján is sarkalatosnak minősül.
+
+(3) A 27. § (4) bekezdése, a 36. § (1) bekezdés a) pont aa) alpontja és a 72. § (2) bekezdés a) pontja az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### Átmeneti rendelkezések
 
