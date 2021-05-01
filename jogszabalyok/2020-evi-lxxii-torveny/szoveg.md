@@ -10,17 +10,11 @@ A művészeti képzési terület, ezen keresztül az innovációt támogatni ké
 
 (2) Az Alapítvány alapítása során az állam képviseletében az innovációért és technológiáért felelős miniszter (a továbbiakban: miniszter) jár el.
 
-(3) Az Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására a miniszter kerüljön kijelölésre.
+(3) Az Alapítvány alapító okiratában az alapítói jogok teljes körének gyakorlására az Alapítvány kuratóriuma kerülhet kijelölésre.
 
-(4) Az Alapítvány kuratóriuma elnökét és tagjait a miniszter jelöli ki.
+(4)
 
-2. § (1) Az Alapítvány feladata oktatási intézmény, kiemelten a Színház- és Filmművészeti Egyetem (a továbbiakban: Egyetem) alapítói, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, amelynek érdekében gazdasági tevékenysége keretében az alapító által rendelt, valamint az Alapítványhoz csatlakozók által nyújtott vagyont kezeli.
-
-(2) Az Alapítvány a magyar felsőoktatás kulturális, művészeti, gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
-
-- a) oktatási, művészeti, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási programot működtet,
-- b) rászorultsági alapú támogatást biztosít,
-- c) tehetséggondozó programok működését támogatja.
+2. §
 
 #### 2. Az Alapítvány részére történő vagyonjuttatás
 
@@ -28,7 +22,13 @@ A művészeti képzési terület, ezen keresztül az innovációt támogatni ké
 
 (2) Az (1) bekezdés alapján alapítói vagyoni juttatásként az Alapítvány tulajdonába adott vagyon tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdés b) pontjában, valamint (7) és (8) bekezdésében foglaltakat.
 
-(3) Az Alapítvány további vagyonának biztosításáról a Kormány gondoskodik.
+(3)
+
+3/A. § Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) alapján az Alapítvány vagyonkezelési tevékenységének, továbbá közfeladata ellátásának érdekében a Nemzeti Filmszínház Nonprofit Kft. az állam tulajdonában álló, 2. melléklet szerinti üzletrészét ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni.
+
+(2) Az (1) bekezdés szerinti üzletrész tulajdonba adásáról az Alapítvány alapító okiratának módosításával a miniszter rendelkezik. A tulajdonba adás végrehajtása során az állam képviseletében a miniszter jár el, aki jogosult az üzletrész felett az államot megillető tulajdonosi jogok gyakorlására és a kötelezettségek teljesítésére.
+
+(3) Az Alapítvány az állam által az (1) bekezdés alapján tulajdonába adott üzletrész elidegenítéséből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány közfeladata ellátására és közérdekű céljai megvalósítására köteles fordítani. Az Alapítvány az értékesítésből származó bevételt az Alapítvány működési költségeinek finanszírozására nem használhatja fel.
 
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
@@ -43,6 +43,8 @@ A művészeti képzési terület, ezen keresztül az innovációt támogatni ké
 (5) A (4) bekezdés szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
 (6) Az 1. mellékletben meghatározott ingatlanok tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
+
+(7) Az 1. melléklet szerinti ingatlanok vonatkozásában a (3) bekezdés szerinti megállapodás megkötéséig, valamint a (4) bekezdés szerinti ingóságok vonatkozásában az (5) bekezdés szerinti jegyzőkönyv felvételéig az Egyetemet a közfeladatot ellátó vagyonkezelő alapítványokról szóló törvény 1. mellékletében meghatározott közfeladatok ellátása érdekében ingyenes használati jog illeti meg.
 
 5. § (1) A Budapest VIII. kerület 36508 helyrajzi számú, ingyenesen tulajdonba adott ingatlanon e törvény erejénél fogva elidegenítési és terhelési tilalom áll fenn. Az elidegenítési és terhelési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg az MNV Zrt. kérelmezi.
 
@@ -60,7 +62,9 @@ A művészeti képzési terület, ezen keresztül az innovációt támogatni ké
 
 (3) A 8. § és a 9. § 2022. január 1-jén lép hatályba.
 
-7. § A 3. § (1) és (2) bekezdése, valamint az 5. § (1) és (2) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+7. § (1) Az 1. § (3) bekezdése, a 3/A. § (1) és (3) bekezdése, az 5. § (1) és (3) bekezdése és a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+
+(2) A 3. § (1) és (2) bekezdése és az 5. § (1) és (2) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 8. §
 
@@ -77,3 +81,12 @@ A művészeti képzési terület, ezen keresztül az innovációt támogatni ké
 | 2 | Budapest | VIII. kerület, 1088 Vas utca 2/C. | 36437/13 | kivett irodaház |
 | 3 | Budapest | VIII. kerület, 1088 Rákóczi út 21. | 36508 | kivett egyetem |
 | 4 | Budapest | VIII. kerület, 1088 Szentkirályi utca 32/a. | 36598 | kivett egyetem |
+
+### 2. melléklet a 2020. évi LXXII. törvényhez
+
+#### Az Alapítvány részére átadásra kerülő állami tulajdonú társasági részesedés
+
+|  | A | B |
+| --- | --- | --- |
+| 1. | Gazdasági társaság megnevezése | Átadandó állami tulajdonban álló részesedés megjelölése |
+| 2. | Nemzeti Filmszínház Nonprofit Korlátolt Felelősségű Társaság | 15 000 000 forint üzletrész |

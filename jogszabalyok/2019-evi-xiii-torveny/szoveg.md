@@ -110,15 +110,11 @@ a vagyonkezelő alapítványokról
 
 (2) Ha a vagyonkezelő alapítvány vagyona az alapító okiratban az (1) bekezdés szerinti mérték alá csökken, a kedvezményezetteknek járó juttatás kifizetését arányosan csökkenteni kell, vagy azt mindaddig vissza kell tartani, amíg az alapítvány vagyona az (1) bekezdés szerinti mértéket el nem éri.
 
-10/A. § (1) A vagyonkezelő alapítvány részére teljesíthető pénzbeli vagyoni juttatás. A közfeladatot ellátó közérdekű vagyonkezelő alapítvány részére az alapító okiratában meghatározott célok megvalósításának elősegítése érdekében teljesített pénzbeli vagyoni juttatás nem minősül külön törvény szerinti támogatásnak, az alapító okiratában meghatározott célok elérése érdekében pályázati eljárásban részt vehet és pályázati támogatásban részesülhet.
+10/A. §
 
-(2) Az (1) bekezdés szerinti vagyoni juttatás teljes körű felhasználásáig a közérdekű vagyonkezelő alapítvány bemutatja e pénzbeli vagyoni juttatás felhasználását, aminek a számviteli törvény szerinti éves beszámolójában tesz eleget.
+10/B. §
 
-10/B. § (1) A vagyonkezelő alapítvány részére teljesíthető természetbeni – különösen ingatlan – vagyoni juttatás is. A közfeladatot ellátó közérdekű vagyonkezelő alapítvány részére az alapító okiratában meghatározott célok megvalósításának elősegítése érdekében teljesített természetbeni vagyoni juttatás nem minősül külön törvény szerinti támogatásnak, az alapító okiratában meghatározott célok elérése érdekében pályázati eljárásban részt vehet és pályázati támogatásban részesülhet.
-
-(2) Amennyiben az (1) bekezdés szerint juttatott vagyont a közérdekű vagyonkezelő alapítvány elidegeníti, úgy a juttatott vagyon tekintetében az államot – más jogosultakat megelőzően – törvény eltérő rendelkezése hiányában elővásárlási jog illeti meg.
-
-10/C. § A 10/A. § és 10/B. § szerinti vagyoni juttatás a 3. § (6) bekezdése szerinti vagyonnövelésnek minősül.
+10/C. §
 
 #### 8. A vagyonkezelő alapítvány megszűnése
 
@@ -128,33 +124,14 @@ a vagyonkezelő alapítványokról
 
 #### 8/A. Közfeladatot ellátó közérdekű vagyonkezelő alapítvány
 
-11/A. § (1) Ezen alcím rendelkezései arra a közérdekű vagyonkezelő alapítványra terjednek ki, amely közfeladatot lát el, és amelyet e törvény az 1. mellékletben közfeladatot ellátó közérdekű vagyonkezelő alapítványként azzá minősít.
+11/A. §
 
-(2) E törvény 1. melléklete tartalmazza a közfeladatot ellátó közérdekű vagyonkezelő alapítványok felsorolását.
+11/B. §
 
-11/B. § A közfeladatot ellátó közérdekű vagyonkezelő alapítványra e törvény rendelkezéseit az ezen alcímben foglalt eltérésekkel kell alkalmazni.
-
-11/C. § A közfeladatot ellátó közérdekű vagyonkezelő alapítvány alapító okiratának tartalmaznia kell az arra való utalást, hogy e törvény szerinti közfeladatot ellátó közérdekű vagyonkezelő alapítványnak minősül.
+11/C. §
 
 #### 9. Záró rendelkezések
 
 12. § Ez a törvény a kihirdetését követő 15. napon lép hatályba.
 
 ### 1. melléklet a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvényhez
-
-#### A közfeladatot ellátó közérdekű vagyonkezelő alapítványok
-
-- 1. Batthyány Lajos Alapítvány
-- 2. Közép-európai Épített Örökség Megőrző Alapítvány
-- 3. Maecenas Universitatis Corvini Alapítvány
-- 4. Marek József Alapítvány
-- 5. Mathias Corvinus Collegium Alapítvány
-- 6. Millenáris Tudományos Kulturális Alapítvány
-- 7. Moholy-Nagy Művészeti Egyetemért Alapítvány
-- 8. Neumann János Egyetemért Alapítvány
-- 9. Polgári Művelődésért Oktatási, Kulturális és Tudományos Alapítvány
-- 10. Soproni Egyetemért Alapítvány
-- 11. Széchenyi István Egyetemért Alapítvány
-- 12. Színház- és Filmművészetért Alapítvány
-- 13. Universitas Miskolcinensis Alapítvány
-- 14. Magyar Agrár- és Élettudományi Egyetemért Alapítvány

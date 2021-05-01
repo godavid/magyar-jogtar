@@ -236,9 +236,9 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - d) tudományos, kutatás-fejlesztési tevékenységben vesz részt;
 - e) tevékenysége bekapcsolható a közép- és a felsőfokú agrárszakmai oktatás legalább egy szintjébe.
 
-(3) A (2) bekezdésben foglaltaktól eltérően az állam tulajdonában álló mezőgazdasági termelőszervezet mintagazdasággá a következő feltételek együttes teljesítése esetén jelölhető ki:
+(3) A (2) bekezdésben foglaltaktól eltérően az állam vagy közfeladatot ellátó közérdekű vagyonkezelő alapítvány tulajdonában álló mezőgazdasági termelőszervezet mintagazdasággá a következő feltételek együttes teljesítése esetén jelölhető ki:
 
-- a) magas színvonalon tenyészti a tevékenységi körébe utalt védett őshonos és egyéb állatfajtákat, fenntartja azok állami tulajdonban álló állományát, a fajta tenyésztési céljának és az állam érdekének megfelelően gazdálkodik a rábízott állatállománnyal, megőrzi és javítja e fajták genetikai értékét, illetve gazdálkodását a természetvédelem érdekei mentén folytatva kiemelten hozzájárul a biodiverzitás megőrzéséhez;
+- a) magas színvonalon tenyészti a tevékenységi körébe utalt védett őshonos és egyéb állatfajtákat, fenntartja azok állami vagy közfeladatot ellátó közérdekű vagyonkezelő alapítványi tulajdonban álló állományát, a fajta tenyésztési céljának és az állam érdekének megfelelően gazdálkodik a rábízott állatállománnyal, megőrzi és javítja e fajták genetikai értékét, illetve gazdálkodását a természetvédelem érdekei mentén folytatva kiemelten hozzájárul a biodiverzitás megőrzéséhez;
 - b) egészben vagy részben állami tulajdonban lévő földeken való gazdálkodásból származóan biztosítja a mindenkori állatállomány magas szintű fenntartásához szükséges takarmány-szükségletet;
 - c) részt vesz a magyar állattenyésztés – ideértve a halgazdálkodást is – kulturális és idegenforgalmi célú bemutatásában.
 
@@ -407,6 +407,8 @@ követő napon.
 (8)
 
 20/A. § (1) Mintagazdasági földhasználati szerződés köthető az e törvény szerinti mintagazdasággal.
+
+(1a) Mintagazdasági földhasználati szerződést köthet közfeladatot ellátó közérdekű vagyonkezelő alapítvány is a kizárólagos tulajdonában álló vagy általa létesített, illetve fenntartott, e törvény szerinti mintagazdasággal azon földekre, amelyekre közfeladathoz rendelt vagyonkezelői joga áll fenn.
 
 (2) A mintagazdasággal kötött mintagazdasági földhasználati szerződés időtartama legalább 5 év, legfeljebb 50 év lehet.
 

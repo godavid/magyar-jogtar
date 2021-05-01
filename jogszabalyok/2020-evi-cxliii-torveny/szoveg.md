@@ -12,10 +12,7 @@ A magyar köznevelési intézményrendszer megerősítése és környezetének s
 
 (3) Az Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására az Alapítvány kuratóriuma kerüljön kijelölésre.
 
-2. § (1) Az Alapítvány feladata
-
-- a) az International Baccalaureate Organization (Nemzetközi Érettségi Szervezet) mint nemzetközi szervezet által a Middle Years Programme (Közép Évek Programja) és Diploma Programme (Diploma Program) nyújtására, valamint IB Diploma (Nemzetközi Érettségi bizonyítvány) kiadására feljogosított, arra akkreditált, kollégiummal rendelkező középfokú nevelési-oktatási intézmény (a továbbiakban: Intézmény) létesítése és fenntartása, középfokú nevelési-oktatási tevékenység ellátása érdekében, a magyar nép, valamint az Intézményben képviselt országok népei közötti szorosabb kulturális kapcsolatok ösztönzése céljából;
-- b) az Intézmény alapítói, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának és a nevelési-oktatási feladatok ellátásának biztosítása.
+2. § (1)
 
 (2) Az Intézmény olyan magyarországi nevelési-oktatási intézménynek, nemzetközi iskolának minősül, amelynek alapítására, működésére és ellenőrzésére a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: köznevelési törvény) rendelkezéseit csak akkor kell alkalmazni, ha arról e törvény kifejezetten rendelkezik.
 

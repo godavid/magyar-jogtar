@@ -1127,6 +1127,8 @@ Ha törvény rendelkezése folytán a munkáltató egésze vagy egy része (szer
 
 (5) Nem keletkeztet összeférhetetlenséget az olyan állami befolyás gyakorlása következtében gazdasági társaságban vagy más szervezetben keletkező vezető tisztségviselői, illetve felügyelőbizottsági, audit bizottsági tagság, amelynek alapja az államháztartás, illetve a pénzügyi közvetítőrendszer stabilitásának erősítése érdekében hozott állami intézkedés, különös tekintettel az állami tőkeemelésre, kölcsönnyújtásra, kezesség-, illetve garanciavállalásra.
 
+(5a) Nem keletkeztet összeférhetetlenséget a közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumában, felügyelőbizottságában betöltött tagság, valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítványban betöltött vagyonellenőri tisztség.
+
 (6) Nem keletkeztet összeférhetetlenséget a nemzetközi közigazgatási szakértői tevékenység, ha a köztisztviselő és a digitális megoldások exportjával és programjának fejlesztésével összefüggő feladatok koordinációját ellátó szervezet közötti, erre irányuló megállapodást a munkáltató előzetesen engedélyezi és a tevékenység időtartama tárgyévenként a hat hónapot nem haladhatja meg.
 
 (7) A köztisztviselő köteles haladéktalanul írásban bejelenteni, ha vele szemben törvényben meghatározott összeférhetetlenségi ok merül fel, illetve ha közszolgálati jogviszonyának fennállása alatt összeférhetetlen helyzetbe kerül. A munkáltatói jogkör gyakorlója köteles haladéktalanul írásban felszólítani a köztisztviselőt az összeférhetetlenség megszüntetésére (összeférhetetlenség megszüntetésére irányuló írásbeli felszólítás). Ha a köztisztviselő az összeférhetetlenséget a felszólítás kézbesítésétől számított harminc napon belül nem szünteti meg, közszolgálati jogviszonya megszűnik.
@@ -1146,7 +1148,9 @@ Ha törvény rendelkezése folytán a munkáltató egésze vagy egy része (szer
 - g) lehet felsőoktatási intézmény oktatási feladatokat is ellátó belső szervezeti egységének vezetője,
 - h) létesíthet önkéntes tartalékos katonai szolgálati viszonyt.
 
-(11) Vezetői álláshelyet betöltő köztisztviselő összeférhetetlenségére a (9) és (10) bekezdésben meghatározottakon túlmenően egyebekben a köztisztviselőre vonatkozó szabályokat kell alkalmazni.
+(10a) A (10) bekezdésben foglaltaktól eltérően a vezetői álláshelyet betöltő köztisztviselő – a munkáltatói jogkör gyakorlójának az előzetes engedélye nélkül – lehet közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumának, felügyelőbizottságának tagja, valamint betölthet közfeladatot ellátó közérdekű vagyonkezelő alapítványban vagyonellenőri tisztséget.
+
+(11) Vezetői álláshelyet betöltő köztisztviselő összeférhetetlenségére a (9)–(10a) bekezdésben meghatározottakon túlmenően egyebekben a köztisztviselőre vonatkozó szabályokat kell alkalmazni.
 
 (12) A (4) bekezdés c) pontját és a (6) bekezdést a vezetői álláshelyet betöltő köztisztviselő esetében akkor is alkalmazni kell, ha a tisztségviselés, a tagság ellátása további jogviszony létesítésével jár.
 
@@ -2578,7 +2582,9 @@ kell figyelembe venni.
 
 #### 106. § [Az Alaptörvény sarkalatosságra vonatkozó követelményeinek való megfelelés]
 
-A 99. § (4) bekezdése és a 109. § az Alaptörvény 24. cikk (9) bekezdése alapján sarkalatosnak minősül.
+(1) A 99. § (4) bekezdése és a 109. § az Alaptörvény 24. cikk (9) bekezdése alapján sarkalatosnak minősül.
+
+(2) Az 51. § (5a), (10a) és (11) bekezdése Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 #### 107. § [Az Európai Unió jogi aktusainak való megfelelés]
 

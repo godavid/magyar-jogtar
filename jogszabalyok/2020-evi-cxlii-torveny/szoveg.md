@@ -12,27 +12,21 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 
 (3) Az Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására a miniszter kerüljön kijelölésre.
 
-(4)
+(4) Az Alapítvány alapító okiratában az alapítói jogok teljes körének gyakorlására az Alapítvány kuratóriuma kerülhet kijelölésre.
 
 (5) Az Alapítvány kuratóriuma elnökét és tagjait a miniszter jelöli ki.
 
 (6) Az Alapítvány kuratóriumába egy tagot az agrárminiszter delegál.
 
-2. § (1) Az Alapítvány feladata oktatási intézmény, kiemelten a Magyar Agrár- és Élettudományi Egyetem (a továbbiakban: Egyetem) alapítói, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, amelynek érdekében gazdasági tevékenysége keretében az alapító által rendelt, valamint az Alapítványhoz csatlakozók által nyújtott vagyont kezeli.
-
-(2) Az Alapítvány a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
-
-- a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási programot működtet,
-- b) rászorultsági alapú támogatást biztosít, valamint
-- c) tehetséggondozó programok működését támogatja.
+2. §
 
 #### 2. Az Alapítvány részére történő vagyonjuttatás
 
-3. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdésében és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdésében foglaltak alapján, a preambulumban meghatározott célok megvalósítása érdekében, az alapító okirat szerint az Egyetem – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 4. § (2) bekezdésében meghatározott – fenntartói jogát – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérve – alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni.
+3. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdésében és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdésében foglaltak alapján, a preambulumban meghatározott célok megvalósítása érdekében, az alapító okirat szerint a Magyar Agrár- és Élettudományi Egyetem (a továbbiakban: Egyetem) – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 4. § (2) bekezdésében meghatározott – fenntartói jogát – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérve – alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni.
 
 (2) Az (1) bekezdés alapján alapítói vagyoni juttatásként az Alapítvány tulajdonába adott vagyon tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdés b) pontjában, valamint (7) és (8) bekezdésében foglaltakat.
 
-(3) Az Alapítvány további vagyonának biztosításáról a Kormány gondoskodik.
+(3)
 
 4. § (1) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján – a preambulumban meghatározott célok megvalósítása érdekében – az 1. mellékletben meghatározott állami tulajdonban álló részesedéseket (e § alkalmazásában a továbbiakban: részvények) ingyenesen, nyilvántartási értéken történő átvezetéssel – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérően – az Alapítvány tulajdonába kell adni.
 
@@ -50,9 +44,9 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 
 (8) Az (1) bekezdés szerint az Alapítvány részére tulajdonba adott részvények tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdés b) pontjában, valamint (7) és (8) bekezdésében foglaltakat.
 
-(9) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok, valamint jogszabályban meghatározott közfeladatok ellátását szolgáló, a 2. mellékletben meghatározott állami tulajdonban lévő ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kerülnek 2021. február 1. napján bejegyzett vagyonkezelő (a továbbiakban: bejegyzett vagyonkezelő) vagyonkezelői jogának egyidejű – külön elszámolás nélküli – megszűnésével, valamint azzal, hogy a tulajdonosi joggyakorló és a bejegyzett vagyonkezelő a tulajdonba adással érintett részvények tekintetében egymással szemben követelést nem támaszthatnak.
+(9) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) 1. mellékletében meghatározott közfeladatok ellátását szolgáló, a 2. mellékletben meghatározott állami tulajdonban lévő ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kerülnek. A tulajdonba adással egyidejűleg a Gödöllő 5852, 5848 helyrajzi számú ingatlanok tekintetében a Gödöllői Királyi Kastély Közhasznú Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: GKK NKft.) vagyonkezelői joga megszűnik – a tulajdonosi joggyakorló Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársasággal (a továbbiakban: MNV Zrt.) történő külön elszámolás, a beruházások vagyonnyilvántartási átvezetése, rendezése nélkül – azzal, hogy az MNV Zrt., a magyar állam és a GKK NKft. a tulajdonba adással érintett ingatlanok és a hozzájuk funkcionálisan kapcsolódó ingóságok tekintetében egymással szemben követelést semmilyen jogcímen nem támaszthatnak, valamint az Alapítvány a (10) bekezdés szerinti szerződés alapján tulajdonába kerülő ingatlanokkal kapcsolatban semmilyen követelést nem támaszthat az MNV Zrt.-vel és a magyar állammal szemben.
 
-(10) A 2. melléklet szerinti ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést – a tulajdonosi joggyakorló személyétől függően – a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) köti meg az Alapítvánnyal.
+(10) A 2. melléklet szerinti ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az MNV Zrt. köti meg az Alapítvánnyal.
 
 (11) A (9) bekezdés szerinti vagyonjuttatás során a 2. mellékletben szereplő védett ingatlan esetében nem kell alkalmazni a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 44. § (1) bekezdés a) pontját és (4) bekezdését, valamint az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet (a továbbiakban: Vhr.) 25. § (5) bekezdését.
 
@@ -88,7 +82,7 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 
 (8) Az Egyetem közfeladatainak ellátása érdekében a 4. melléklet szerinti ingatlanok, valamint ingatlanrészek e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként ingyenesen, az Egyetem vagyonkezelésébe kerülnek.
 
-(9) A közfeladat ellátása érdekében a 4. melléklet szerinti ingatlanok kapcsán a vagyonkezelési szerződést az adott ingatlan tulajdonosi joggyakorlója köti meg az Egyetemmel, az esetlegesen szükséges minősítési eljárások lefolytatását követően.
+(9) A közfeladat ellátása érdekében a 4. melléklet szerinti ingatlanok kapcsán az Egyetem vagyonkezelői joga tekintetében vagyonkezelői szerződés megkötése nem szükséges.
 
 (10) Az Egyetem a Vtv. 27. § (7) bekezdése szerinti visszapótlási kötelezettség teljesítése alól e törvény erejénél fogva mentesül. Az Egyetem által az e törvény alapján végzett, a vagyonkezelt vagyonnal kapcsolatos tevékenység – ideértve a vagyonelemek hasznosítását is – közfeladatnak minősül.
 
@@ -100,11 +94,15 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 
 (14) Az 5. mellékletben foglalt táblázatban meghatározott ingatlanok esetében, amennyiben az Egyetem valamely jogelődjét tartalmazza az ingatlan-nyilvántartás tulajdonosként, az ingatlanügyi hatóság az Egyetem tulajdonjogát az ingatlan-nyilvántartásba az Egyetem tulajdonjog-bejegyzési kérelmére, annak egyoldalú jognyilatkozata alapján jegyzi be.
 
+(15) A 3. melléklet szerinti ingatlanok vonatkozásában a (2) bekezdés szerinti megállapodás megkötéséig, valamint az (5) bekezdés szerinti ingóságok vonatkozásában a (6) bekezdés szerinti jegyzőkönyv felvételéig az Egyetemet a KEKVA tv. 1. mellékletében meghatározott közfeladatai ellátása érdekében – az ingatlan-nyilvántartásba be nem jegyezhető – ingyenes használati jog illeti meg.
+
+(16) A Békésszentandrás 0151/1 és a Kaposvár 3656/2 helyrajzi számú ingatlanokat a művelési ág változást követően az Egyetem tulajdonába kell adni.
+
 6. § (1) Az Erdőtelek 364/1, a Keszthely 1418/1 és a Keszthely 1418/3 helyrajzi számú, ingyenesen tulajdonba adott ingatlanokon e törvény erejénél fogva határozatlan idejű elidegenítési és terhelési tilalom áll fenn. Az elidegenítési és terhelési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg az MNV Zrt. kérelmezi.
 
 (2) Az 5. § (1) bekezdése alapján ingyenesen tulajdonba adott ingatlanok – az (1) bekezdésben meghatározott ingatlant ide nem értve – tekintetében nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdésében foglaltakat.
 
-(3) Az Egyetem a tulajdonába adott ingatlanokat – az 5. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlanokat értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét az alaptevékenységét szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlan értékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+(3) Az Egyetem a tulajdonába adott ingatlanokat – az 5. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlanokat értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlan értékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
 
 (4) Az 5. § (1) bekezdése alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
@@ -128,13 +126,7 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 
 #### 4. Az Egyetem génmegőrzési tevékenysége
 
-8. § (1) A növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításáról és forgalomba hozataláról szóló 2003. évi LII. törvény alapján az Egyetem feladata különösen:
-
-- a) a genetikai változatosság és a hazai mezőgazdaság genetikai anyagainak védelme, jogszabályban meghatározott jelentős növényfajok, változatok, fajták és vad rokonfajok mint génforrások megőrzésében és fenntartásában való közreműködés;
-- b) a genetikai tartalékként megőrzött növényanyagok és az ezekre vonatkozó teljes információ jogszabályban meghatározott feltételek szerint nemesítési, oktatási és kutatási célra szabadon hozzáférhetővé tétele;
-- c) a szőlő-, gyümölcs- és dísznövényfajták génmegőrzésének biztosítása, ültetvény létrehozása.
-
-(2) Az Egyetem a génmegőrzési tevékenységét az országos koordinációt ellátó, a Nemzeti Génbank Adatbázist fenntartó és az Országos Bázis Tárolót, valamint a Nemzeti Biztonsági Duplikátum Tárolót működtető Nemzeti Biodiverzitás- és Génmegőrzési Központ szakmai útmutatása alapján, azzal együttműködve látja el.
+8. §
 
 #### 5. Záró rendelkezések
 
@@ -147,6 +139,8 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 10. § A 3. § (2) bekezdése, a 4. § (8) és (12) bekezdése, az 5. § (4) bekezdése, a 6. § (1) és (2) bekezdése, valamint a 7. § (9) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 11. §
+
+12. § A 6. § (3) bekezdése, a 3. melléklet 34a., 35a., 164a., 164b., 238a., 324a., 333a. és 348–353. sora, valamint a 4. melléklet 6a. és 37. sora az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2020. évi CXLII. törvényhez
 
@@ -208,7 +202,9 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 | 32. | BUDAPEST | 4427/0/A/36 | 1/1 | öröklakás |
 | 33. | BUDAPEST | 4427/0/A/37 | 1/1 | öröklakás |
 | 34. | BUDAPEST | 4427/0/A/38 | 1/1 | öröklakás |
+| 34a. | BUDAPEST | 4938 | 1/1 | kivett egyetem |
 | 35. | BUDAPEST | 5080/2 | 1/1 | kivett oktatási intézmény |
+| 35a. | BUDAPEST | 5094 | 1/1 | kivett egyetem |
 | 36. | BUDAPEST | 12184 | 1/1 | kivett kutatóintézet |
 | 37. | BUDAPEST | 40991/35 | 1/1 | kivett távbeszélő-központ |
 | 38. | BUDAPEST | 195972/1 | 1/1 | kivett saját használatú út |
@@ -338,6 +334,8 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 | 162. | GÖDÖLLŐ | 4933/3 | 1/1 | kivett saját használatú út |
 | 163. | GÖDÖLLŐ | 4934 | 1/1 | kivett múzeum |
 | 164. | GÖDÖLLŐ | 4935 | 1/1 | kivett saját használatú út |
+| 164a. | GÖDÖLLŐ | 4936 | 1/1 | kivett saját használatú út |
+| 164b. | GÖDÖLLŐ | 4937 | 1/1 | kivett beépített terület (kollégium) |
 | 165. | GÖDÖLLŐ | 4938/2 | 1/1 | kivett egyetem |
 | 166. | GÖDÖLLŐ | 4940 | 1/1 | kivett egyetem |
 | 167. | GÖDÖLLŐ | 4941 | 1/1 | kivett sportcsarnok |
@@ -412,6 +410,7 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 | 236. | KALOCSA | 3159/14 | 1/1 | kivett gazdasági épület, udvar |
 | 237. | KAPOSVÁR | 0287/1 | 1/1 | kivett üzem |
 | 238. | KAPOSVÁR | 0290 | 1/1 | kivett lakóház, udvar, gazdasági épület |
+| 238a. | KAPOSVÁR | 0293/8 | 1/1 | kivett saját használatú út |
 | 239. | KAPOSVÁR | 0299/3 | 1/1 | kivett gázállomás |
 | 240. | KAPOSVÁR | 309 | 1/1 | kivett főiskola |
 | 241. | KAPOSVÁR | 324/1/A/1 | 1/1 | egyéb helyiség |
@@ -498,6 +497,7 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 | 322. | SZARVAS | 01297/17 | 1/1 | kivett könyvtár és udvar |
 | 323. | SZARVAS | 01297/9 | 1/1 | kivett épület, udvar |
 | 324. | SZARVAS | 4/1/A/12 | 1/1 | egyéb helyiség |
+| 324a. | SZARVAS | 204 | 1/1 | kivett kollégium |
 | 325. | SZARVAS | 729 | 1/1 | kivett beépítetlen terület |
 | 326. | SZARVAS | 730 | 1/1 | kivett beépítetlen terület |
 | 327. | SZARVAS | 793 | 1/1 | kivett díszkert |
@@ -507,6 +507,7 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 | 331. | SZARVAS | 5273/A/1 | 1/1 | panzió |
 | 332. | SZARVAS | 5273/A/2 | 1/1 | lakás |
 | 333. | SZARVAS | 5273/A/3 | 1/1 | panzió |
+| 333a. | SZARVAS | 5301 | 1/1 | kivett egyetem |
 | 334. | SZARVAS | 5302/1 | 1/1 | kivett gazdasági épület, udvar |
 | 335. | SZARVAS | 5305 | 1/1 | kivett gazdasági épület, udvar |
 | 336. | SZARVAS | 5325/1 | 1/1 | kivett hétvégi ház, udvar |
@@ -521,6 +522,12 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 | 345. | TOLCSVA | 22/A | 1/1 | önálló pince |
 | 346. | TOLCSVA | 23/6/H | 1/1 | közterületről nyíló pince |
 | 347. | TÖRÖKBÁLINT | 3179 | 1/1 | kivett kollégium |
+| 348. | GÖDÖLLŐ | 4937/A. | 1/1 | földhasználati jog alapján létesült kollégium |
+| 349. | KAPOSVÁR | 0291 | 1/1 | kivett saját használatú út |
+| 350. | KAPOSVÁR | 0451/7 | 1/1 | kivett gázfáklya |
+| 351. | KAPOSVÁR | 0481/19 | 1/1 | a. kivett ipartelep b. kivett szennyvíztisztító |
+| 352. | KAPOSVÁR | 3661/12 | 1/1 | kivett saját használatú út |
+| 353. | TISZAKÉCSKE | 0212/3 | 1/1 | kivett üzem |
 
 ### 4. melléklet a 2020. évi CXLII. törvényhez
 
@@ -534,6 +541,7 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 | 4. | BÁRDUDVARNOK | 0460/28/a | 1/1 | legelő és vendégház |
 | 5. | BÉKÉSSZENTANDRÁS | 0151/1/a | 1/1 | kivett lakóház, udvar, gazdasági épület |
 | 6. | BÉKÉSSZENTANDRÁS | 0153/21/a | 1/1 | kivett gazdasági épület, udvar, út |
+| 6a. | BŐSZÉNFA | 064/2/a | 71820/131580 | kivett lakóház, udvar |
 | 7. | BUDAÖRS | 10751/2/f | 1/1 | kivett 3 lakóház, udvar gazdasági épület 5 db |
 | 8. | BUDAÖRS | 10751/2/k | 1/1 | kivett 2 lakóház, udvar |
 | 9. | BUDAPEST | 0195958/a | 1/1 | kivett lakóház, udvar |
@@ -564,6 +572,7 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 | 34. | SZARVAS | 01349/B/3 | 1/1 | garázs |
 | 35. | SZARVAS | 01349/B/4 | 1/1 | garázs |
 | 36. | SZARVAS | 01349/B/5 | 1/1 | garázs |
+| 37. | KAPOSVÁR | 0320/11/b | 1/1 | kivett lakóház, udvar |
 
 ### 5. melléklet a 2020. évi CXLII. törvényhez
 

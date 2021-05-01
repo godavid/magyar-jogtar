@@ -10,25 +10,19 @@ Az állatorvostudományi képzést támogatni kész magyar felsőoktatási inté
 
 (2) Az Alapítvány alapítása során az állam képviseletében az innovációért és technológiáért felelős miniszter (a továbbiakban: miniszter) jár el.
 
-(3) Az Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására a miniszter kerüljön kijelölésre.
+(3) Az Alapítvány alapító okiratában az alapítói jogok teljes körének gyakorlására az Alapítvány kuratóriuma kerülhet kijelölésre.
 
-(4) Az Alapítvány kuratóriuma elnökét és tagjait a miniszter jelöli ki.
+(4)
 
-2. § (1) Az Alapítvány feladata oktatási intézmény, kiemelten az Állatorvostudományi Egyetem (a továbbiakban: Egyetem) alapítói, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, amelynek érdekében gazdasági tevékenysége keretében az alapító által rendelt, valamint az Alapítványhoz csatlakozók által nyújtott vagyont kezeli.
-
-(2) Az Alapítvány a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
-
-- a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási programot működtet,
-- b) rászorultsági alapú támogatást biztosít,
-- c) tehetséggondozó programok működését támogatja.
+2. §
 
 #### 2. Az Alapítvány részére történő vagyonjuttatás
 
-3. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdésében és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdésében foglaltak alapján, a preambulumban meghatározott célok megvalósítása érdekében, az alapító okirat szerint az Egyetem – nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 4. § (2) bekezdésében meghatározott – fenntartói jogát – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérve – alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni.
+3. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdésében és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdésében foglaltak alapján, a preambulumban meghatározott célok megvalósítása érdekében, az alapító okirat szerint az Állatorvostudományi Egyetem (a továbbiakban: Egyetem) – nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 4. § (2) bekezdésében meghatározott – fenntartói jogát – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérve – alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni.
 
 (2) Az (1) bekezdés szerint alapítói vagyoni juttatásként az Alapítvány tulajdonába adott vagyon tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdés b) pontjában, valamint (7) és (8) bekezdésében foglaltakat.
 
-(3) Az Alapítvány további vagyonának biztosításáról a Kormány gondoskodik.
+(3)
 
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
@@ -48,7 +42,7 @@ Az állatorvostudományi képzést támogatni kész magyar felsőoktatási inté
 
 (2) A 4. § alapján ingyenesen tulajdonba adott ingatlanok tekintetében – az (1) bekezdésben meghatározott ingatlanokat ide nem értve – nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdésében foglaltakat.
 
-(3) Az Egyetem a tulajdonába adott ingatlanokat – a 4. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlanokat értékesíti, akkor az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét az alaptevékenységét szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+(3) Az Egyetem a tulajdonába adott ingatlanokat – a 4. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlanokat értékesíti, akkor az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 1. mellékletében meghatározott közfeladatok ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
 
 (4) A 4. § alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
@@ -65,6 +59,8 @@ Az állatorvostudományi képzést támogatni kész magyar felsőoktatási inté
 8. §
 
 9. §
+
+10. § A 5. § (3) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2020. évi XXXIV. törvényhez
 

@@ -10,17 +10,11 @@ A műszaki képzési terület, ezen keresztül az innovációt támogatni kész 
 
 (2) Az Alapítvány alapítása során az állam képviseletében az innovációért és technológiáért felelős miniszter (a továbbiakban: miniszter) jár el.
 
-(3) Az Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására a miniszter kerüljön kijelölésre.
+(3) Az Alapítvány alapító okiratában az alapítói jogok teljes körének gyakorlására az Alapítvány kuratóriuma kerülhet kijelölésre.
 
-(4) Az Alapítvány kuratóriuma elnökét és tagjait a miniszter jelöli ki.
+(4)
 
-2. § (1) Az Alapítvány feladata oktatási intézmény, kiemelten a Pannon Egyetem (a továbbiakban: Egyetem) alapítói, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, amelynek érdekében gazdasági tevékenysége keretében az alapító által rendelt, valamint az Alapítványhoz csatlakozók által nyújtott vagyont kezeli.
-
-(2) Az Alapítvány a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
-
-- a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási programot működtet,
-- b) rászorultsági alapú támogatást biztosít,
-- c) tehetséggondozó programok működését támogatja.
+2. §
 
 #### 2. Az Alapítvány részére történő vagyonjuttatás
 
@@ -47,5 +41,7 @@ A műszaki képzési terület, ezen keresztül az innovációt támogatni kész 
 9. §
 
 10. §
+
+11. § Az 1. § (3) és (4) bekezdése, a 3. § (1) bekezdése, a 4. § (1), (4) és (6) bekezdése, az 5. § (2) bekezdése, a 6. § (1), (3) és (4) bekezdése, valamint az 1. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2020. évi CLVIII. törvényhez

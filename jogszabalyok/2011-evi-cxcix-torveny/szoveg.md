@@ -1443,6 +1443,8 @@ alakul át.
 
 (5) Nem keletkeztet összeférhetetlenséget az olyan állami befolyás gyakorlása következtében gazdasági társaságban vagy más szervezetben keletkező vezető tisztségviselői, illetve felügyelőbizottsági, audit bizottsági tagság, amelynek alapja az államháztartás, illetve a pénzügyi közvetítőrendszer stabilitásának erősítése érdekében hozott állami intézkedés, különös tekintettel az állami tőkeemelésre, kölcsönnyújtásra, kezesség-, illetve garanciavállalásra.
 
+(5a) Nem keletkeztet összeférhetetlenséget a közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumában és felügyelőbizottságában betöltött tagság, valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítványban vagyonellenőri tisztség betöltése.
+
 (6) Nem keletkeztet összeférhetetlenséget a nemzetközi közigazgatási szakértői tevékenység, ha a kormánytisztviselő és a digitális megoldások exportjával és programjának fejlesztésével összefüggő feladatok koordinációját ellátó szervezet közötti, erre irányuló megállapodást a munkáltató előzetesen engedélyezi és a tevékenység időtartama tárgyévenként a hat hónapot nem haladhatja meg.
 
 86. § (1) A kormánytisztviselő köteles haladéktalanul írásban bejelenteni, ha vele szemben törvényben meghatározott összeférhetetlenségi ok merül fel, illetve ha kormányzati szolgálati jogviszonyának fennállása alatt összeférhetetlen helyzetbe kerül. A munkáltatói jogkör gyakorlója köteles haladéktalanul írásban felszólítani a kormánytisztviselőt az összeférhetetlenség megszüntetésére. Amennyiben a kormánytisztviselő az összeférhetetlenséget a felszólítás kézbesítésétől számított harminc napon belül nem szünteti meg, kormányzati szolgálati jogviszonya megszűnik.
@@ -1462,7 +1464,9 @@ alakul át.
 - g) lehet felsőoktatási intézmény oktatási feladatokat is ellátó belső szervezeti egységének vezetője,
 - h) létesíthet önkéntes tartalékos katonai szolgálati viszonyt.
 
-(3) Vezetői munkakört betöltő kormánytisztviselő összeférhetetlenségére az (1) és (2) bekezdésben meghatározottakon túlmenően egyebekben a kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
+(2a) A (2) bekezdésben foglaltaktól eltérően a vezetői munkakört betöltő köztisztviselő – a munkáltatói jogkör gyakorlójának az előzetes engedélye nélkül – lehet közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumának és felügyelőbizottságának tagja, valamint betölthet közfeladatot ellátó közérdekű vagyonkezelő alapítványban vagyonellenőri tisztséget.
+
+(3) Vezetői munkakört betöltő kormánytisztviselő összeférhetetlenségére az (1)–(2a) bekezdésben meghatározottakon túlmenően egyebekben a kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
 
 (4) A 85. § (4) bekezdés c) pontját és (5) bekezdését a vezetői munkakört betöltő kormánytisztviselő esetében akkor is alkalmazni kell, ha a tisztségviselés, a tagság ellátása további jogviszony létesítésével jár.
 
@@ -3711,6 +3715,10 @@ részletes szabályokat.
 kell alkalmazni.
 
 260/E. § A köztisztviselő az egyes törvényeknek a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény hatálybalépésével összefüggő, valamint jogharmonizációs célú módosításáról szóló 2020. évi XIX. törvény hatálybalépését követően 2020. január és február hónapokra visszamenőleg jogosult az e törvény 2019. december 31-éig hatályos 133. §-a alapján hozott munkáltatói intézkedés szerint számított, 2018. évi minősítése, ennek hiányában teljesítményértékelése alapján eltérített 2019. évi december havi illetménye és a 2020. január havi illetménye közötti különbözetre. A különbözetet az egyes törvényeknek a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény hatálybalépésével összefüggő, valamint jogharmonizációs célú módosításáról szóló 2020. évi XIX. törvény hatálybalépését követő hónapra járó illetménnyel együtt kell részére egy összegben kifizetni.
+
+### Sarkalatossági záradék
+
+260/F. § E törvénynek a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2021. évi VIII. törvénnyel megállapított 85. § (5a) bekezdése és 87. § (2a) és (3) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### Az Európai Unió jogi aktusainak való megfelelés
 

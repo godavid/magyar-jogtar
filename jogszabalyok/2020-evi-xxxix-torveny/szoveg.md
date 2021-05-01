@@ -10,25 +10,35 @@ A Miskolci Egyetem képzési területeinek, ezen keresztül az innovációt tám
 
 (2) Az Alapítvány alapítása során az állam képviseletében az innovációért és technológiáért felelős miniszter (a továbbiakban: miniszter) jár el.
 
-(3) Az Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására a miniszter kerüljön kijelölésre.
+(3) Az Alapítvány alapító okiratában az alapítói jogok teljes körének gyakorlására az Alapítvány kuratóriuma kerülhet kijelölésre.
 
-(4) Az Alapítvány kuratóriuma elnökét és tagjait a miniszter jelöli ki.
+(4)
 
-2. § (1) Az Alapítvány feladata oktatási intézmény, kiemelten a Miskolci Egyetem (a továbbiakban: Egyetem) alapítói, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, amelynek érdekében gazdasági tevékenysége keretében az alapító által rendelt, valamint az Alapítványhoz csatlakozók által nyújtott vagyont kezeli.
-
-(2) Az Alapítvány a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
-
-- a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási programot működtet,
-- b) rászorultsági alapú támogatást biztosít,
-- c) tehetséggondozó programok működését támogatja.
+2. §
 
 #### 2. Az Alapítvány részére történő vagyonjuttatás
 
-3. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdésében és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdésében foglaltak alapján, a preambulumban meghatározott célok megvalósítása érdekében, az alapító okirat szerint az Egyetem – nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 4. § (2) bekezdésében meghatározott – fenntartói jogát – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérve – alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni.
+3. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdésében és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdésében foglaltak alapján, a preambulumban meghatározott célok megvalósítása érdekében, az alapító okirat szerint a Miskolci Egyetem (a továbbiakban: Egyetem) – nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 4. § (2) bekezdésében meghatározott – fenntartói jogát – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérve – alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni.
 
 (2) Az (1) bekezdés alapján ingyenesen juttatott vagyonelem tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdés b) pontjában, valamint (7) és (8) bekezdésében foglaltakat.
 
-(3) Az Alapítvány további vagyonának biztosításáról a Kormány gondoskodik.
+(3)
+
+3/A. § Az Egyetem által használt, Miskolc belterület 40589/5 helyrajzi számú, nem állami tulajdonban lévő ingatlan tekintetében az Egyetem által ellátott közfeladat hatékony megvalósítása érdekében az államot – független ingatlanforgalmi szakértő szakvéleménye alapján meghatározott forgalmi értéken – vételi jog illeti meg.
+
+(2) Az (1) bekezdésben meghatározott vételi jog biztosítására az államot elidegenítési és terhelési tilalom illeti meg.
+
+(3) Ha az állam él a vételi joggal, az állam tulajdonába került (1) bekezdés szerinti ingatlant az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján az Alapítvány céljainak megvalósítása érdekében ingyenesen, nyilvántartási értéken történő átvezetéssel – a Vtv. 36. § (2) bekezdésétől eltérően – az Alapítvány tulajdonába kell adni.
+
+(4) Az (1) és (3) bekezdésben meghatározott intézkedések során az állam képviseletében a miniszter jár el.
+
+(5) Az ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság köti meg az Alapítvánnyal.
+
+3/B. § Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) 12. §-a alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, Miskolc 01223 helyrajzi számú állami tulajdonban lévő ingatlan ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kerül.
+
+(2) Az ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló szervezet készíti elő és köti meg az Alapítvánnyal.
+
+(3) Az ingatlan tulajdonjogát az Alapítvány a terhekkel együtt szerzi meg.
 
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
@@ -48,7 +58,7 @@ A Miskolci Egyetem képzési területeinek, ezen keresztül az innovációt tám
 
 5. § (1) A 4. § alapján ingyenesen tulajdonba adott ingatlanok tekintetében nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdésében foglaltakat.
 
-(2) Az Egyetem a tulajdonába adott ingatlanokat – a 4. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlanokat értékesíti, akkor az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét az alaptevékenységét szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+(2) Az Egyetem a tulajdonába adott ingatlanokat – a 4. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlanokat értékesíti, akkor az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
 
 (3) A 4. § alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
@@ -65,6 +75,8 @@ A Miskolci Egyetem képzési területeinek, ezen keresztül az innovációt tám
 8. §
 
 9. §
+
+10. § A 3/A. § (1) és (3) bekezdése, a 3/B. § (1) és (3) bekezdése és az 5. § (2) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2020. évi XXXIX. törvényhez
 

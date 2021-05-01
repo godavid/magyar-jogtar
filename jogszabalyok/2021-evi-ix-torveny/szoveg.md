@@ -1,0 +1,436 @@
+# 2021. évi IX. törvény
+
+a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról
+
+A közfeladatot ellátó közérdekű vagyonkezelő alapítványok kiemelkedő társadalmi értékteremtő szerepének, magánjogi szereplőként a mindenkori kormányzattól való függetlenségének, valamint az általuk ellátott közfeladat és megvalósított célok Magyarországra és a jövő nemzedékére gyakorolt jelentőségének elismerése és biztosítása érdekében, hangsúlyozva, hogy a társadalmi értékteremtő szerep hatékony megvalósítása e szervezetek jogbiztonság elvén alapuló hosszú távú jogi stabilitását igényli, az Országgyűlés a következő törvényt alkotja:
+
+### I. Fejezet — CÉLOK ÉS ALAPELVEK
+
+1. § (1) Az állam elismeri a közfeladatot ellátó közérdekű vagyonkezelő alapítványok társadalmi értékteremtő szerepét, és támogatja a közfeladat ellátásukat és céljaik megvalósítását.
+
+(2) Az állam az (1) bekezdésben foglaltak érvényre juttatása érdekében védi a közfeladatot ellátó közérdekű vagyonkezelő alapítványok, mint sajátos magánjogi jogalanyok jogintézményét és magánjogi autonómiáját, és biztosítja a működésükhöz szükséges jogszabályi környezet, ideértve azok szervezeti, vagyoni és működési függetlenségét.
+
+(3) Közfeladatot ellátó közérdekű vagyonkezelő alapítvány létrehozása során az alapító, illetve a csatlakozó biztosítja a közfeladat ellátásához szükséges vagyonelemeket és finanszírozási eszközöket.
+
+(4) Magyarország mindenkori költségvetésének tervezésekor előresorolt tényező a közfeladatot ellátó közérdekű vagyonkezelő alapítványok vagyonkezelés útján történő, illetve a közfeladat ellátásához közvetlenül szükséges finanszírozási feltételeinek a biztosítása.
+
+### II. Fejezet — ALAPÍTVÁNYI RENDELKEZÉSEK
+
+#### 1. Általános rendelkezések
+
+2. § (1) E törvény hatálya a közfeladatot ellátó közérdekű vagyonkezelő alapítványokra terjed ki.
+
+(2) A közfeladatot ellátó közérdekű vagyonkezelő alapítványra e törvény eltérő rendelkezése hiányában a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) alapítványra vonatkozó szabályait kell alkalmazni.
+
+(3) Ha jogszabály e törvény hatályba lépését követően az Alaptörvény 38. cikk (6) bekezdésében meghatározott tárgykört érint – ideértve azt is, ha az ellátott közfeladatra vonatkozó részletszabály a közfeladat lényeges tartalmával függ össze –, akkor a közfeladatot ellátó közérdekű vagyonkezelő alapítvány vonatkozásában azt csak akkor lehet alkalmazni, ha azt törvény – sarkalatos rendelkezéssel – elrendeli.
+
+#### 2. Közfeladatot ellátó közérdekű vagyonkezelő alapítvány létesítése
+
+3. § (1) A közfeladatot ellátó közérdekű vagyonkezelő alapítvány létrejöttéhez az szükséges, hogy
+
+- a) e törvény az 1. mellékletben előzetesen a közfeladatot ellátó közérdekű vagyonkezelő alapítvánnyá minősítse,
+- b) az alapító, illetve a csatlakozó a vagyon kezelése és az ebből származó jövedelemnek az alapító okiratban megjelölt közérdekű célok, illetve közfeladatok megvalósítása, valamint a kedvezményezettként megjelölt személy, illetve személyek javára történő vagyoni juttatás céljából vagyont rendeljen (a továbbiakban: alapítói vagyonrendelés) és
+- c) a bíróság közfeladatot ellátó közérdekű vagyonkezelő alapítványként nyilvántartásba vegye.
+
+(2) A bíróság az (1) bekezdés c) pontja szerinti nyilvántartásba vételről szóló döntést az országos névjegyzékben közzéteszi. A közfeladatot ellátó közérdekű vagyonkezelő alapítvány a nyilvántartásba vétel napjával jön létre.
+
+(3) Közfeladatot ellátó közérdekű vagyonkezelő alapítvány létrejöhet úgy is, hogy az alapítványt, a közalapítványt vagy a közérdekű vagyonkezelő alapítványt az 1. melléklet előzetesen közfeladatot ellátó közérdekű vagyonkezelő alapítvánnyá minősíti, amelynek alapján az alapítói jogok gyakorlására jogosult módosítja az alapító okiratot, és azt a bíróság közfeladatot ellátó közérdekű vagyonkezelő alapítványként (a továbbiakban: alapítvány) nyilvántartásba veszi. A bíróság e döntését az országos névjegyzékben közzéteszi.
+
+(4) A (3) bekezdés szerinti esetben az alapítvány a céljait akkor módosíthatja, ha az alapító vagy csatlakozó a cél módosításához vagyont rendel.
+
+(5) Az alapítványra nem kell alkalmazni a Ptk. 3:379. § (1) és (2) bekezdésében, továbbá az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény (a továbbiakban: Ectv.) 2. § 7. pontjában, 17. § (1) bekezdésében és 23. §-ában foglalt rendelkezéseket. Az alapítvány céljainak, közfeladatának, közérdekű tevékenységének megvalósítását szolgáló gazdasági tevékenységet végez, így különösen az alapító által rendelt, az alapítványhoz csatlakozók által juttatott, valamint az egyéb forrásból származó vagyont kezeli.
+
+(6) Az alapítvány gazdasági tevékenységként a javára rendelt, illetve általa az (1) bekezdés b) pontja szerinti célból bizalmi vagyonkezelésbe vett, valamint egyéb forrásból származó vagyona kezelését alapítványi céljaként végzi, és azzal a felelős gazdálkodás követelménye sérelme nélkül szabadon gazdálkodhat.
+
+(7) Az alapítvány által bizalmi vagyonkezelésbe vett vagyon tekintetében létrejött bizalmi vagyonkezelési jogviszony esetében
+
+- a) az alapítványt a kezelt vagyon kizárólagos kedvezményezettjének kell tekinteni azzal, hogy kedvezményezettként e vagyont is az (1) bekezdés b) pontja szerinti célok megvalósítása érdekében köteles kezelni;
+- b) a Ptk. 6:326. § (3) bekezdését nem kell alkalmazni, a bizalmi vagyonkezelési jogviszony megszűnik az alapítvány megszűnésével;
+- c) e jogviszony nem tartozik a bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló 2014. évi XV. törvény hatálya alá.
+
+(8) Az alapító a vagyon bizalmi vagyonkezelésbe adásáról az alapító okiratba foglalt egyoldalú jognyilatkozattal is rendelkezhet. Ebben az esetben az alapító okirat – az alapító okiratban meghatározott keretek között és feltételekkel – a Ptk. 6:316. §-ától eltérhet.
+
+4. § (1) Az alapítvány létesítéséhez az alapítvány javára legalább 600 millió forintnak megfelelő vagyont kell rendelni (a továbbiakban: tőkeminimum).
+
+(2) Az alapító, illetve – ha az alapító okirat alapján alapítói jogok gyakorlására jogosult – a csatlakozó az alapítvány javára rendelt vagyont az alapító okiratban vagyontárgyanként, vagyonelemenként, az azonosításukhoz szükséges részletességgel köteles megjelölni.
+
+(3) Az alapítvány nyilvántartásba vétele iránti kérelem benyújtását megelőzően a tőkeminimumnak megfelelő vagyont az alapítvány rendelkezésére kell bocsátani.
+
+(4) Ha az alapítói jogok gyakorlása az alapítvány ügyvezető szervét (a továbbiakban: kuratórium) illeti meg, és az alapító, illetve a csatlakozó az alapítvány javára rendelt vagyonnak a tőkeminimumon felüli, az alapítvány rendelkezésére még nem bocsátott részét az erre megszabott határidőben nem teljesíti, az alapítvány jogosult e vagyonrész teljesítését követelni.
+
+(5) Ha az alapító az alapítói jogok gyakorlását a maga részére fenntartotta és a (4) bekezdés szerinti kötelezettségét a kuratórium erre irányuló írásbeli felszólítása ellenére sem teljesíti, ennek megtörténtéig az alapítói jogok gyakorlására a kuratórium jogosult.
+
+(6) Az alapító okiratban foglaltaknak megfelelően az alapító, illetve a csatlakozó az alapítvány részére – az alapításkor vagy csatlakozáskor vállalt és annak megfelelően teljesített vagyonrendelésen felül – további vagyon rendelkezésre bocsátását is vállalhatja egyoldalú írásbeli jognyilatkozattal azzal a céllal, hogy e vagyonjuttatással az alapítvány alapításkor, illetve csatlakozáskor rendelt vagyonát növelje. E vagyonnövelés – ideértve az annak felhasználása körében harmadik személy javára teljesített kifizetést, illetve juttatást is – nem minősül külön törvény szerinti támogatásnak és arra megfelelően alkalmazni kell a (2) és a (4) bekezdést azzal, hogy a 7. § (1) bekezdésében meghatározott esetben az alapító okiratot az alapító jogok gyakorlására kijelölt kuratórium módosítja.
+
+5. § (1) Az e törvény hatálya alá tartozó alapítvány csak közérdekű célra alapítható.
+
+(2) Közérdekű célnak minősül az alapítvány 1. mellékletben meghatározott közfeladata, illetve a nevelési-oktatási, tehetséggondozási, felsőoktatási, alap- és alkalmazott kutatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, kulturális, amatőr- és ifjúsági sporttevékenységek, nemzeti kultúra megőrzése, a hagyományvédelem szempontjából értékkel bíró életmód megőrzésére irányuló tevékenységek, egyházak tevékenységének segítése, támogatása, a tudományos tevékenység, a környezetvédelem, klímavédelem, fenntarthatóság és körkörös gazdaság céljainak elérését támogató tevékenységek, örökségvédelem, az épített és természeti kultúra, környezet védelme, illetve ezek körébe tartozó építmények, területek kulturális célú látogathatóságának, megismerhetőségének biztosítása, e bekezdés szerinti célok elérésére létrehozott civil szervezetek vagy nonprofit gazdasági társaságok finanszírozása, illetve támogatása vagy ilyen tevékenységet ellátó intézmények, jogi személyek fenntartása és működtetése.
+
+(3) Az alapítvány közérdekűségéhez az is szükséges, hogy kedvezményezettjeinek köre – azok személyét illetően – nyitott legyen.
+
+(4) Az alapítvány e törvény rendelkezése alapján egyúttal közhasznú jogállásúnak is minősül, ha ezt kérelmezi, ebben az esetben e jogállást a nyilvántartásban is fel kell tüntetni.
+
+#### 3. Az alapítvány szervezete
+
+6. § (1) Az alapítvány ügyvezetését legalább öt természetes személyből álló kuratórium látja el.
+
+(2) Az alapítvány esetében felügyelőbizottság kijelölése és annak működése, továbbá állandó könyvvizsgáló megbízása kötelező. A felügyelőbizottság legalább három természetes személyből áll, a felügyelőbizottság elnökét – az alapító okirat eltérő rendelkezése hiányában – a tagok maguk közül választják.
+
+(3) Az alapító okirat a kuratórium és a felügyelőbizottság elnökére és tagjaira vonatkozóan képesítési, végzettségi és egyéb szakmai követelményeket állapíthat meg.
+
+#### 4. Az alapítói jogok gyakorlása
+
+7. § (1) Az alapítvány alapítója, illetve csatlakozója az alapító okiratban az alapítói jogok gyakorlására az alapítvány kuratóriumát is kijelölheti, vagy ha az alapítói jogait az alapító okiratban fenntartotta vagy abban arról nem rendelkezett, e jogait az alapítványra átruházhatja. Az alapító, illetve a csatlakozó az alapítói jogok gyakorlására vonatkozó kijelölését, illetve e jogainak átruházását nem vonhatja vissza, az alapítvány kuratóriuma a rá vonatkozó kijelölésről nem mondhat le, az alapítói jog gyakorlására mást nem jelölhet ki, valamint a rá átruházott alapítói jogokat – a (2) bekezdésben foglalt kivétellel – nem ruházhatja át.
+
+(2) Az alapító okirat rendelkezhet akként, hogy az alapító, illetve csatlakozó alapítványban fennálló alapítói jogai a halála, jogutód nélküli megszűnése vagy az alapító okiratban meghatározott feltétel bekövetkezése esetén az alapítványra vagy az alapító okiratban meghatározott személyre szállnak.
+
+(3) Az alapítói jogokat a kuratórium az e törvényben meghatározott módon gyakorolja.
+
+(4) Az alapító okirat eltérő rendelkezése hiányában az alapítvány kuratóriumi és felügyelőbizottsági tagjainak, illetve elnökének kijelöléséről – e tisztségek bármely okból bekövetkező megüresedése esetén – a kuratórium a felügyelőbizottsággal együttesen határoz akként, hogy a döntéshez a megüresedő tisztség által érintett testületi szerv tagjai többségének szavazata is szükséges, az alapító okirat azonban az e kérdésben való döntéshozatalhoz további minősített többséget is előírhat.
+
+(5) Az alapítvány kuratóriumi és felügyelőbizottsági tagjainak, illetve elnökének személyére vonatkozóan jelölési jogot az alapító okirat az alapítványon kívüli személy, illetve szerv számára is biztosíthat, az erre vonatkozó alapító okirati rendelkezés módosítására azonban a kuratórium a 10. § (6) bekezdésének alkalmazása körében sem jogosítható fel.
+
+(6) Az alapítvány kuratóriumi és felügyelőbizottsági tagjainak, illetve elnökének visszahívásáról a kijelölésükkel azonos módon hozható döntés azzal, hogy a visszahívás joga az alapító okiratban feltételekhez köthető, illetve korlátozható.
+
+(7) Az alapító okirat előírhatja azt is, hogy a kuratórium egyes alapítói jogok gyakorlása tekintetében az alapítványi vagyonellenőr jóváhagyásával vagy véleménye kikérése után döntsön.
+
+(8) Amennyiben az alapító okirat a csatlakozót alapítói jogokkal ruházza fel, akkor az alapító alatt a csatlakozót is megfelelően érteni kell.
+
+#### 5. A vagyongazdálkodás külső ellenőrzése
+
+8. § (1) Az alapító az alapító okiratban alapítványi vagyonellenőrt köteles kijelölni abból a célból, hogy a kuratórium 7. § (1) bekezdése szerinti joggyakorlását és az alapítvány – alapító okiratban meghatározott céljainak és feladatának, e körben különösen a közfeladatának megvalósítását, illetve a megvalósítás forrásának megteremtését szolgáló – vagyonkezelési tevékenységének jogszerűségét az alapítvány ellenőrző szervétől függetlenül figyelemmel kísérje.
+
+(2) Az alapító okiratban az alapítványi vagyonellenőr kijelölésére az alapítvány is feljogosítható, ebben az esetben az alapítványi vagyonellenőr kijelölésének, illetve megbízásának ügyében a kuratórium és a felügyelőbizottság együttesen határoz, a kijelöléshez, illetve a megbízáshoz azonban a nyilvántartó bíróság jóváhagyása szükséges.
+
+(3) Alapítványi vagyonellenőrként csak könyvvizsgáló társaság, könyvvizsgáló, ügyvédi iroda, ügyvéd vagy más büntetlen előéletű és az alapító okiratban meghatározott szakirányú felsőfokú végzettséggel rendelkező személy jelölhető ki, illetve bízható meg. Nem lehet alapítványi vagyonellenőr az alapítvány alapítója, kuratóriumának és felügyelőbizottságának tagja, elnöke, illetve az alapítvány egyéb tisztségviselője, alkalmazottja, könyvvizsgálója, kedvezményezettje és ezek hozzátartozója. Az alapító okirat e tisztség betöltésének további összeférhetetlenségi szabályait is meghatározhatja.
+
+(4) Az alapítványi vagyonellenőrnek a megbízás elfogadására és a (3) bekezdésben foglalt követelményekre vonatkozó nyilatkozatát a nyilvántartó bírósághoz a vagyonellenőrt kijelölő személy nyújtja be.
+
+(5) Az alapítványi vagyonellenőr halála, jogutód nélküli megszűnése, e tisztségről való lemondása esetén, vagy ha a feladatainak ellátásához szükséges feltételekkel már nem rendelkezik, a vagyonellenőri tisztség betöltésére a (2) bekezdés szerinti rendelkezést kell alkalmazni.
+
+9. § (1) Az alapítványi vagyonellenőr feladata annak ellenőrzése, hogy az alapítvány vagyonkezelési tevékenysége megfelel-e a vonatkozó jogszabályokban, az alapító okiratban és a vagyonkezelési tevékenységre vonatkozó alapítványi szabályzatokban foglaltaknak. Az alapítványi vagyonellenőr ellenőrzi továbbá a kuratórium, illetve a felügyelőbizottság törvényben foglalt kötelezettségeinek teljesítését.
+
+(2) Az alapítványi vagyonellenőrt a kuratórium által gyakorolt alapítói jogok körébe tartozó kérdésekben véleményezési jog illeti meg. Az alapítványi vagyonellenőrt az alapítványi iratokba való betekintési és tájékoztatási jog tekintetében ugyanolyan jogosultságok illetik meg, mint a felügyelőbizottságot.
+
+(3) Amennyiben az alapítói jogokat gyakorló kuratórium, illetve a felügyelőbizottság működése vagy eljárása nem felel meg a törvényben vagy az alapító okiratban foglaltaknak, az alapítványi vagyonellenőr felhívja az érintett alapítványi szervet a szabályszerű működésre. Amennyiben az érintett szerv a felhívásnak nem tesz eleget, az alapítványi vagyonellenőr törvényességi felügyeleti eljárást kezdeményezhet a nyilvántartó bíróságnál.
+
+(4) Ha az alapító okirat erre felhatalmazást ad, az alapítványi vagyonellenőr az alapító okiratban meghatározott esetekben bíróságtól kérheti a kuratórium, illetve a felügyelőbizottság által hozott törvénysértő, alapító okiratba vagy a befektetési szabályzatba ütköző határozat hatályon kívül helyezését.
+
+(5) Ha a kuratóriumi vagy felügyelőbizottsági tagság, illetve tisztség betöltése tárgyában – ennek felmerülésétől számított 90 napon belül – nem születik döntés, e kérdésben az alapítványi vagyonellenőr javaslatára a nyilvántartó bíróság határoz.
+
+(6) Az alapítványi vagyonellenőr díjazásra jogosult. Az alapítványi vagyonellenőr díjazását az alapítvány által kezelt alapítványi vagyon terhére kell teljesíteni.
+
+#### 6. Alapító okirat
+
+10. § (1) Az alapítvány alapító okiratát közokiratba vagy ügyvéd által ellenjegyzett magánokiratba kell foglalni. A bírósági nyilvántartásba vételi eljárásban a jogi képviselet kötelező.
+
+(2) Az alapítvány alapító okiratának tartalmaznia kell az arra való utalást, hogy e törvény szerinti közfeladatot ellátó közérdekű vagyonkezelő alapítványnak minősül.
+
+(3) Az alapító okiratban az alapítványi vagyon kezelésének és felhasználásának alapvető céljait és elveit is rögzíteni kell, de az alapító az alapító okirathoz – annak részeként – mellékelheti a befektetési szabályzatot is.
+
+(4) A befektetési szabályzatnak tartalmaznia kell az alapítványi vagyonkezelés körébe tartozó vagyon befektetésére vonatkozó alapelveket, irányokat, befektetési struktúrát, valamint a befektetések tekintetében alkalmazandó döntéshozatali módot.
+
+(5) Ha az alapító a befektetési szabályzatot nem mellékeli az alapító okirathoz, akkor a (3) bekezdés szerinti célok és elvek alapulvételével a (4) bekezdés szerinti tartalommal a nyilvántartásba vételtől számított hat hónapon belül befektetési szabályzatot kell készíteni, amelyet a felügyelőbizottság javaslata alapján az alapítói jogok gyakorlója hagy jóvá. Ha az alapítói jogokat a kuratórium gyakorolja, a befektetési szabályzat jóváhagyásáról az alapítványi vagyonellenőr véleményének beszerzése után a kuratórium és a felügyelőbizottság együttesen határoz.
+
+(6) A kuratórium az alapító okirat módosításának jogát csak akkor gyakorolhatja, ha az alapító, illetve – ha az alapító okirat alapján alapítói jogok gyakorlására jogosult – a csatlakozó erre az alapító okiratban kifejezetten feljogosította, az alapító okirat azonban ennek hiányában is módosítható, ha ezt az időközben megváltozott körülmények vagy jogszabályi követelmények a célok megvalósíthatósága érdekében szükségessé teszik. Az alapító, illetve – ha az alapító okirat alapján alapítói jogok gyakorlására jogosult – a csatlakozó előírhatja azt is, hogy a kuratórium az alapító okiratot mely kérdésekben nem módosíthatja. Ha a jogszabályi változások miatt e kérdésekben a módosítás mégis szükségessé válik, az alapító okirat kuratórium által történő módosításához az alapítványi vagyonellenőr jóváhagyása kell.
+
+(7) Az alapító okirat módosítása nem érinti a kedvezményezettek javára már megállapított és esedékessé vált kötelezettségek teljesítését.
+
+#### 7. Az alapítvány vagyongazdálkodása
+
+11. § (1) Az alapító az alapító okiratban meghatározhatja az alapítvány javára rendelt vagyonnak azt a mértékét, amely alá az alapítvány vagyona nem csökkenhet, ez a tőkeminimumnál kevesebb nem lehet. Meghatározás hiányában a tőkeminimumot kell ilyennek tekinteni.
+
+(2) Ha az alapítvány vagyona az alapító okiratban az (1) bekezdés szerinti mérték alá csökken, a kedvezményezetteknek járó juttatás kifizetését arányosan csökkenteni kell, vagy azt mindaddig vissza kell tartani, amíg az alapítvány vagyona az (1) bekezdés szerinti mértéket el nem éri.
+
+(3) Az alapítvány az állam által juttatott vagyont és annak hozamát közvetlenül vagy közvetett módon a közfeladatra, illetve közérdekű célra fordítja. Ennek során az alapítvány a piaci magánbefektető elvével összhangban gazdálkodási tevékenységet végezhet, ami nem veszélyeztetheti a közfeladat-ellátást. E gazdasági tevékenységek költségeit és bevételeit számvitelileg elkülönítetten tartja nyilván.
+
+#### 8. Az alapítvány részére történő vagyonjuttatás szabályai
+
+12. § (1) Ha az alapítvány részére alapításkor vagy az alapítvány induló vagyonát növelő alapítói, illetve csatlakozói vagyonjuttatásként vagyonelem kerül átadásra, akkor a tulajdonjog átszállását az alapítvány alapító okiratában fel kell tüntetni.
+
+(2) Az (1) bekezdés szerinti vagyonjuttatásra nem kell alkalmazni a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 6. § (1) bekezdésében és 13. § (4) és (5), valamint (7) és (8) bekezdésében foglaltakat.
+
+(3) Az állam által ingyenesen juttatott vagyonelemekkel az alapítvány vagyonkezelési tevékenysége keretében szabadon gazdálkodhat, azzal az alapítvány a felelős gazdálkodás követelménye sérelme nélkül szabadon rendelkezhet. Az állam az ingyenes vagyonjuttatáskor rendelkezhet akként is, hogy egyes vagyonelemek tekintetében a vagyonkezelés körébe tartozó szabad gazdálkodást oly módon korlátozza, hogy a vagyonelem tekintetében az alapító okiratban államot megillető elővásárlási jogot alapít.
+
+(4) Az állam által juttatott társasági részesedés esetén az államot az alapító okiratban rögzített feltételekkel elővásárlási jog, illetve nyilvánosan működő részvénytársaság esetén vételi jog illeti meg. Amennyiben az állam nem él elővásárlási jogával vagy vételi jogával, akkor az elővásárlási jog vagy vételi jog a társasági részesedéssel érintett gazdasági társaságot illeti meg.
+
+(5) Ha az elővásárlási jog, illetve vételi jog jogosultja az elővásárlási jogával, illetve vételi jogával a felhívást követő 90 napon belül nem él, akkor az elővásárlási jog, illetve vételi jog megszűnik.
+
+(6) Az ingyenes vagyonjuttatáskor a (3) bekezdéstől eltérően az állam, illetve az alapító rendelkezhet akként is, hogy egyes vagyonelemeket közvetlenül az alapítványi célok közfeladat, közérdekű tevékenység megvalósítására rendeli. Ez esetben kiköthető olyan feltétel, hogy a meghatározott közfeladat alapítvány általi ellátása vagy a cél megszűnése, illetve megvalósulása esetén az ekként juttatott, közfeladattal terhelt vagyon az alapítóra visszaszáll, amit elidegenítési és terhelési tilalom biztosít. E jogot ingatlan esetén az ingatlan-nyilvántartásba be kell jegyezni.
+
+(7) Egészségügyi közfeladat-ellátás céljából átadott vagyonra az V. fejezet szabályait kell alkalmazni.
+
+(8) Ha az állam az alapítvány részére közvetlenül a közfeladat megvalósítására állami vagyon tulajdonjogát – törvény felhatalmazásán alapuló jognyilatkozattal, szerződéssel vagy jogi személy létesítő okiratával (a továbbiakban együtt: alapokirat) – ingyenesen átruházza, akkor az ezt magában foglaló alapokiratot kizárólag az abban erre feljogosított személyek módosíthatják. E közfeladathoz kapcsolódóan közép- vagy hosszú távú, költségvetési éven túli év kiadási előirányzat terhére kötelezettség törvényi felhatalmazás alapján vállalható.
+
+(9) Az Nvtv. 13. § (3) bekezdésében és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdésében foglaltak alapján – az alapítvány vagyonkezelési tevékenységének, továbbá közfeladatának ellátása és közérdekű céljának megvalósítása érdekében – az állam által az Alapítvány részére ingyenesen juttatott vagyonelemeket nyilvántartási értéken történő átvezetéssel – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérően – az alapítvány tulajdonába kell adni.
+
+(10) Vagyonjuttatás úgy is adható, hogy az állam az alapítvány vagy a fenntartásában álló jogi személy tulajdonában álló ingatlanon közvetlenül központi költségvetési forrásból célzott beruházást finanszíroz.
+
+(11) Az e § alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) 17. § (1) bekezdésben és 18. § (1) bekezdésben meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+
+(12) A vagyonjuttatás részletes kérdései e törvény keretein belül az állam és az alapítvány közötti polgári jogi megállapodásban is rendezhetőek.
+
+(13) Amennyiben az alapítvány 1. mellékletben meghatározott közfeladatát az ott meghatározott jogi személy útján látja el, úgy e jogi személy részére biztosított vagyonjuttatásra is e § rendelkezéseit kell alkalmazni.
+
+(14) Jelen alcím szabályait megfelelően alkalmazni kell arra az esetre, amennyiben nem az állam juttat az alapítvány részére vagyont. A vagyonjuttatás részletes kérdései a vagyont juttató és az alapítvány közötti polgári jogi megállapodásban is rendezhetőek.
+
+13. § (1) Az alapítvány javára vagyontárgy vagyonkezelésbe a közfeladatához rendelten is adható, ebben az esetben az alapítványt közfeladathoz rendelt vagyonkezelői jog illeti meg, amelyet ezzel a megjelöléssel ingatlan esetén az ingatlan-nyilvántartásba, ingó esetén a vagyontárgy tulajdonjogát, illetve a vagyontárgyra vonatkozó jog fennállását tanúsító közhiteles nyilvántartásba is be kell jegyezni.
+
+(2) A közfeladathoz rendelt vagyonkezelői jog az alapító, illetve a csatlakozó által az alapítvány javára az alapító okiratba foglalt vagyonrendeléssel vagy az alapítvány induló vagyonát növelő vagyonjuttatással az alapító okiratba vagy vagyonjuttatást tartalmazó okiratba foglalt jogügylettel alapítható.
+
+(3) A közfeladathoz rendelt vagyonkezelői jog megszűnik, ha
+
+- a) megszűnik az a közfeladat, amelyhez a vagyontárgyat rendelték, vagy elpusztul, megsemmisül az a vagyontárgy, amelyet a közfeladat ellátásához rendeltek,
+- b) a bíróság megállapítja, hogy az alapítvány nem látja el azt a közfeladatot, amelynek ellátásához javára közfeladathoz rendelt vagyonkezelői jogot alapítottak.
+
+(4) A közfeladathoz rendelt vagyonkezelői jog a (3) bekezdésben foglalt eseteken kívül nem szűnhet meg.
+
+(5) A közfeladathoz rendelt vagyonkezelői jogot az alapítvány nem idegenítheti el és nem terhelheti meg, és azzal egyéb módon sem rendelkezhet.
+
+(6) Az alapítvány a közfeladathoz rendelt vagyonkezelői joga alapján az e jogával terhelt vagyontárgy felett a tulajdonost megillető jogokat és a tulajdonost terhelő kötelezettségeket azzal gyakorolja, hogy a vagyontárgyat
+
+- a) nem idegenítheti el és nem terhelheti meg,
+- b) a kizárólagos tulajdonában álló gazdasági társaság vagy általa létesített, illetve fenntartott intézménye kivételével harmadik személy részére – sem visszterhesen, sem ingyenesen – használatba nem adhatja, hasznosítás céljára nem engedheti át.
+
+(7) A közfeladathoz rendelt vagyonkezelői jog és az e joggal terhelt vagyontárgy nem része a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 4. § (1) és (2) bekezdése szerinti, a csődeljárás és felszámolási eljárás körébe tartozó vagyonnak.
+
+(8) A közfeladathoz rendelt vagyonkezelői joggal terhelt állami tulajdonban álló vagyontárgy tekintetében annak tulajdonosi joggyakorlóját a tulajdonost megillető jogosítványok közül csak az elidegenítés és a terhelés joga illeti meg, de e jogát is csak az alapítvány hozzájárulásával gyakorolhatja.
+
+(9) Az alapítvány részére – közérdekű céljainak megvalósítása és közfeladatának ellátása érdekében – a Nemzeti Földalapba tartozó földrészlet határozatlan időre, ingyenesen, közfeladata ellátásához szükséges vagyonként közfeladathoz rendelt vagyonkezelői jog biztosításával is vagyonkezelésbe adható. A földek vonatkozásában az Nvtv., a Vtv., valamint a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény (a továbbiakban: NFA tv.) rendelkezéseit az e törvényben meghatározott eltérésekkel kell megfelelően alkalmazni. A földrészleteken az alapítvány javára fennálló közfeladathoz rendelt vagyonkezelői jog esetében a magyar államot megillető tulajdonosi jogokat és kötelezettségeket a (6) bekezdés alapján és a (8) bekezdés szerinti kivétellel – az NFA tv. 3. § (1) bekezdésétől eltérően – az alapítvány gyakorolja, és a (8) bekezdés szerinti kivétellel jogosult a földrészleteket illetően a tulajdonos képviseletére is.
+
+(10) Az alapítvány a közfeladatának ellátása érdekében jogosult a közfeladathoz rendelt vagyonkezelői jogával terhelt föld birtoklására, használatára és hasznai szedésére, továbbá a használat, valamint a hasznosítás jogának – (6) bekezdés b) pontja szerinti kivétel alapján történő – átengedésére, köteles továbbá a föld értékét megőrizni, állagának megóvásáról, jó karbantartásáról gondoskodni. A használati jogosultság átengedése esetében a mező- és erdőgazdasági földek forgalmáról szóló törvényben meghatározott birtokmaximumot nem kell alkalmazni.
+
+(11) A közfeladathoz rendelt vagyonkezelői jogot az ingatlanügyi hatóság az alapítvány erre irányuló kérelme alapján jegyzi be az ingatlan-nyilvántartásba.
+
+#### 9. Az alapítvány megszűnése
+
+14. § (1) Az alapítvány megszűnik, ha annak vagyona három teljes éven keresztül nem éri el a tőkeminimum összegét; ezt úgy kell tekinteni, hogy az alapítvány céljának megvalósítása lehetetlenné vált.
+
+(2) Az alapítvány megszűnésének rendjére az Ectv. II. Fejezetét annak 2/D. alcíme kivételével megfelelően alkalmazni kell.
+
+(3) Az alapítvány jogutód nélküli megszűnése esetén a hitelezők kielégítése után megmaradó vagyon az alapítót illeti meg abban az esetben is, ha a vagyon az alapítói juttatás mértékét meghaladja. A csatlakozó a megmaradó vagyonnak a juttatásával arányos részére tarthat igényt.
+
+(4) Az alapítvány jogutód nélküli megszűnése esetén a hitelezők kielégítését követően az alapító, illetve a csatlakozó által juttatott ingatlan, illetve társasági részesedés az alapítóra, illetve csatlakozóra száll vissza.
+
+#### 10. Összeférhetetlenségi szabályok
+
+15. § (1) Az alapítvány kuratóriumában és felügyelőbizottságában betöltött tagság nem összeférhetetlen további munkaviszonnyal, illetve munkavégzésre irányuló más jogviszonnyal, valamint külön törvény szerinti egyéb megbízatással és tisztséggel. Az alapítvány kuratóriumának, illetve felügyelőbizottságának tagja díjazásban részesülhet.
+
+(2) Az alapítványi vagyonellenőr nem minősül az alapítvány törvény szerinti, illetve annak alapján megbízott tisztségviselőjének és – a 8. § (3) bekezdésében meghatározott kivételekkel – az alapítványi vagyonellenőri tisztség nem összeférhetetlen további munkaviszonnyal, illetve munkavégzésre irányuló más jogviszonnyal, valamint külön törvény szerinti egyéb megbízatással és tisztséggel.
+
+(3) A támogatási jogviszonyban kedvezményezett lehet az olyan alapítvány is, amelyben a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, kormánymegbízott, kormánybiztos, miniszterelnöki megbízott, miniszterelnöki biztos, miniszteri biztos, megyei közgyűlés elnöke, megyei közgyűlés tagja, főpolgármester, polgármester, helyi önkormányzati képviselő, illetve országgyűlési képviselő az alapítvány kuratóriumának vagy felügyelőbizottságának tagja, vagyonellenőre.
+
+### III. Fejezet — AZ ALAPÍTVÁNY ÁLTAL ELLÁTOTT KÖZFELADAT
+
+16. § (1) Az alapítvány közfeladata az 1. mellékletben meghatározott közfeladat.
+
+(2) Ha az alapítvány az 1. melléklet szerinti közfeladatát közvetve vagy közvetlenül tulajdonában álló jogi személy útján látja, akkor ezen jogi személy fenntartása és működésének biztosítása is közfeladatnak minősül.
+
+(3) A közfeladat-ellátás hosszú távú, kiszámítható biztosításához fűződő közérdekre figyelemmel a közfeladat az alapítványtól el nem vonható, és annak ellátásával az alapítvány nem hagyhat fel.
+
+(4) Új közfeladatot megállapítani, a közfeladatot módosítani vagy közfeladat ellátásáról lemondani sarkalatos törvény felhatalmazása alapján az alapító okirat módosításával lehet.
+
+(5) A közfeladat (4) bekezdés szerinti módosulása esetén az 1. mellékletben meghatározott közfeladat ellátásához rendelt vagyon tulajdonjogát a vagyon juttatója részére csak ellenérték fejében lehet átruházni.
+
+17. § (1) Az alapítvány által végezhető cél szerinti tevékenység:
+
+- a) az e törvényben meghatározott közfeladat ellátása,
+- b) az e törvényben meghatározott közérdekű célok megvalósítása, és
+- c) az a) és b) pontban foglaltak forrásának megteremtése érdekében történő vagyonkezelés, mint jövedelemtermelő és vagyon gyarapítására irányuló tevékenység.
+
+(2) Az alapítvány az (1) bekezdés a) és b) pontjában meghatározott tevékenységgel nem hagyhat fel.
+
+(3) Az alapítvány az (1) bekezdés b) pontja szerinti további közérdekű tevékenységet a következő szerint vállalhat az alapító okiratban:
+
+- a) alapításkor;
+- b) a 3. § (3) bekezdésében meghatározott esetben a közfeladatot ellátó közérdekű vagyonkezelő alapítvánnyá történő minősítés során,
+- c) működése során bármikor a kuratórium egyhangú döntése alapján.
+
+(4) A (3) bekezdés szerinti további közérdekű tevékenység vállalása nem veszélyeztetheti az alapítvány alapító okiratában meghatározott más célok, feladatok teljesítését, illetve ellátását.
+
+(5) A (2) bekezdéstől eltérően az alapítvány az (1) bekezdés b) pontja szerinti tevékenységgel abban az esetben hagyhat fel, ha azt a kuratórium egyhangúlag kezdeményezi és az alapító okirat ennek megfelelően módosításra kerül.
+
+(6) Az alapítvány az (1) bekezdés b) pontjában meghatározott céljának megvalósulása, lehetetlenülése, megszűnése nem eredményezi az alapítvány megszűnését.
+
+(7) Amennyiben az alapítvány (1) bekezdés a) pontja szerinti közfeladat ellátása megszűnik, de az alapítvány az (1) bekezdés b) és c) pontjai szerinti tevékenységet továbbra is ellátja, akkor az alapítvány a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény (a továbbiakban: Vatv.) szabályai szerinti közérdekű vagyonkezelő alapítvánnyá alakulhat át.
+
+(8) A közfeladat ellátása, vagy a közérdekű cél elérése érdekében az alapítvány harmadik feleknek az uniós állami támogatási szabályok betartásával nyújthat támogatást.
+
+### IV. Fejezet — A KÖZFELADAT-ELLÁTÁS FINANSZÍROZÁSÁVAL KAPCSOLATOS KÜLÖNÖS RENDELKEZÉSEK
+
+18. § (1) Az alapítvány 17. § (1) bekezdés szerinti tevékenységeit az állam
+
+- a) a 4. § szerinti vagyonjuttatással,
+- b) a 19. § szerinti, megállapodás útján nyújtott vagyoni juttatással,
+- c) támogatással,
+- d) adománnyal, illetve
+- e) közfeladat-finanszírozási szerződéssel
+
+biztosítja az alapítványnak.
+
+(2) Ha az állam az alapítvány közfeladat-ellátása forrásának tartós fedezetét nem teljes egészében az (1) bekezdés a) pontja szerinti vagyonjuttatás vagy adomány útján biztosítja, akkor a felek azt megállapodásban rendezik.
+
+(3) Az alapítvány céljai megvalósításához az államon kívüli más személy is támogatást adhat vagy adományt nyújthat. Az alapítvány részére pénzbeli és nem pénzbeli vagyoni juttatás, adomány egyaránt adható.
+
+(4) Az alapítvány az alapító okiratában meghatározott célok elérése érdekében pályázati eljárásban részt vehet, és pályázati támogatásban részesülhet.
+
+19. § (1) Az alapítvány részére annak működése során az alapító, illetve a csatlakozó által az alapítvány alapító okiratában meghatározott célok megvalósításának elősegítése érdekében pénzbeli és nem pénzbeli vagyoni juttatás teljesíthető. Az alapítvány számára teljesített vagyoni juttatás – ideértve az annak felhasználása körében harmadik személy javára teljesített kifizetést, illetve juttatást is – nem minősül külön törvény szerinti támogatásnak.
+
+(2) A pénzbeli vagyoni juttatás teljes körű felhasználásáig az alapítvány a számviteli törvény szerinti éves beszámolójában mutatja be annak felhasználását.
+
+(3) Az (1) bekezdés szerinti, az alapítványnak teljesített vagyoni juttatás a 4. § (6) bekezdése szerinti vagyonnövelésnek minősül.
+
+20. § (1) Ha az alapítvány a közfeladat ellátását nem kizárólag a vagyonkezelési tevékenységéből finanszírozza, hanem annak ellátása közfeladat-finanszírozási szerződéssel is történik, akkor az érintett közfeladat hosszú távon történő biztosítása érdekében az alapítvány finanszírozásának alapvető elveit és biztosítékait, valamint az alapító, az alapító intézményei mint szolgáltató és az állam mint megrendelő együttműködésének rendjét az állam és az alapítvány hosszú távú, legalább tizenöt, legfeljebb huszonöt év időtartamra szóló keretmegállapodásban rögzítik, amelynek hatálya alatt kötelesek három-öt év időtartamra szóló részletes feladatfinanszírozási megállapodásban megállapítani a megállapodással érintett tevékenység vállalt volumenét, indikátorrendszerét, a támogatás mindezekhez igazodó mértékét, a közfeladat-ellátás időszakos közös értékelését, felülvizsgálatát és a szükséges részletszabályokat. A feladatfinanszírozási megállapodás megkötése során az állam nevében eljáró miniszter a megállapodás időtartamára vállalhat éven túli kötelezettséget. Ha a költségvetési törvény az e bekezdésben foglalt megállapodásban meghatározott forrás mértékétől időarányosan eltér, a megállapodást a felek ennek megfelelően módosítják.
+
+(2) Amennyiben valamelyik fél a közfeladat finanszírozási szerződésben foglaltakat nem teljesíti, a másik fél jogosult bírósághoz fordulni. A bíróság az ügyben soron kívül jár el, és bírósághoz fordulás esetén köteles ideiglenes intézkedést hozni a közfeladat-ellátás folyamatos biztosítása érdekében.
+
+21. § (1) Az alapítvány az általa ellátott közfeladat után a hasonló feladatot ellátó állami, illetve önkormányzati intézményekkel legalább azonos támogatásra jogosult. Az állam az alapítvány által ellátott közfeladat ellátásához és fejlesztéséhez (ideértve az alapítvány által fenntartott intézményeket is) legalább az állami, illetve az önkormányzati intézményekével azonos jogi, finanszírozási és pályázati feltételeket köteles biztosítani.
+
+(2) Az állam az állami, illetve önkormányzati intézmények számára biztosított működési, felújítási és fejlesztési forrásokkal legalább azonos mértékű alap- és kiegészítő támogatásokat biztosít az alapítvány által fenntartott közfeladatot ellátó intézmények számára.
+
+(3) Az állam az állami, illetve az önkormányzati intézményekben foglalkoztatottak számára nyújtott személyi juttatásokat és azok növelésének forrását legalább azonos feltételekkel biztosítja az alapítvány által fenntartott intézmények részére is.
+
+(4) Az alapítvány egyoldalú nyilatkozattal csatlakozhat bármely egységes állami beszerzési rendszerhez, és onnan egyoldalú nyilatkozattal távozhat.
+
+(5) Az állam által nyújtott 18. § (1) bekezdés a–b) és e) pontja szerinti juttatásra nem kell alkalmazni az államháztartási szabályokat.
+
+### V. Fejezet — AZ ALAPÍTVÁNY FELSŐOKTATÁSI KÖZFELADAT-ELLÁTÁSÁRA VONATKOZÓ KÜLÖNÖS RENDELKEZÉSEK
+
+#### 11. Az alapítvány felsőoktatási közfeladat-ellátására vonatkozó különös szabályok
+
+22. § (1) Ha az alapítvány közfeladataként felsőoktatási tevékenység is meghatározásra került, akkor azt az alapítvány felsőoktatási intézménye útján láthatja el. Ebben az esetben az 1. melléklet szerinti – államilag elismert, egyetemként működő – felsőoktatási intézmény fenntartója és tulajdonosa az alapítvány.
+
+(2) Az 1. melléklet szerinti felsőoktatási intézmény fenntartója és tulajdonosa nem lehet eltérő személy. A felsőoktatási intézmény átalakulását eredményező különválás körében a szétválás nem alkalmazható, a szervezeti kiválás esetén a kiváló szervezeti egység az 1. melléklet szerinti felsőoktatási intézménybe olvadhat be.
+
+(3) A tulajdonos – a felsőoktatási intézménynek a kutatás és az oktatás tartalmával és módszereivel kapcsolatban, az Alaptörvényben és az e törvényben biztosított önállóságát nem sértve – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény szerint gyakorolja a tulajdonost a polgári jog alapján megillető jogokat.
+
+(4) Az alapítvány által fenntartott 1. melléklet szerinti felsőoktatási intézmény alapító okirata rendelkezhet úgy, hogy a fenntartó fogadja el a felsőoktatási intézmény költségvetését, a számviteli rendelkezések alapján elkészített éves beszámolóját, szervezeti és működési szabályzatát, vagyongazdálkodási tervét, gazdálkodó szervezet alapítását, gazdálkodó szervezetben történő részesedés szerzését, valamint a fenntartó írja ki a rektori pályázatot, de a szenátusnak az alapító okiratban véleményezési vagy egyetértési jogot kell biztosítani.
+
+(5) Az 1. melléklet szerinti felsőoktatási intézményt fenntartó alapítvány felügyelő bizottságába a 6. § (2) bekezdésétől eltérően egy tagot a szenátus delegál.
+
+(6) Ha az alapítvány a vagyontárgy tulajdonjogát nem ruházta át a felsőoktatási intézményre, akkor az alapítvány által a felsőoktatási intézmény rendelkezésére bocsátott vagyontárgy tekintetében a felsőoktatási intézményt kizárólag használati jog illeti meg. Az alapítvány által a felsőoktatási intézménynek biztosított vagyonjuttatást úgy kell tekinteni, hogy az az Áfa tv. 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+
+#### 12. Az alapítvány egészségügyi közfeladat-ellátása
+
+23. § (1) Ha az e törvény szerinti felsőoktatási intézmény egészségügyi közfeladatot is ellát, az a szakellátási kapacitással és a megállapított területi ellátási kötelezettséggel kerül átadásra és az oktatás, kutatás, betegellátás végzése egységes szervezeti keretben történik.
+
+(2) Egészségügyi közfeladat az egyetem részeként működő klinikai központtól nem vonható el. A klinikai központ és a klinika elnevezés használatára csak az e törvény szerinti felsőoktatási intézmény részeként működő jogi személyiséggel rendelkező szervezeti egység jogosult.
+
+(3) Az állam a IV. Fejezetben, továbbá az ágazati jogszabályban meghatározott szabályok szerint biztosítja a közfeladat-ellátás finanszírozását, a közfeladat-ellátás keretében teljesítendő új feladathoz, továbbá a közfeladat változása miatt felmerülő többletfeladathoz az állam többletfinanszírozást biztosít.
+
+(4) A klinikai központ indokolt pénzügyi hiányát a hasonló feladatot ellátó állami, önkormányzati intézményekkel azonos módon és feltételekkel az állam megtéríti.
+
+(5) A klinikai központ az egységes állami egészségügyi irányítás részét képezi, emiatt
+
+- a) az állam felelős a klinikai központ tevékenységéből származó károkért,
+- b) az irányító megyei intézményi feladatokat ellátó klinikai központ elnökének személyére a rektor véleményének kikérésével az egészségügyi szolgáltatás irányításáért az ágazati jogszabályban kijelölt felelős állami szerv vezetője tesz javaslatot és a klinikai központ elnökének megbízására és megbízása visszavonására az egészségügyért felelős miniszter és a kuratórium elnöke együttesen jogosult,
+- c) az irányító megyei intézményi feladatokat el nem látó klinikai központ elnökét az egészségügyi felsőoktatási intézmény rektora bízza meg azzal, hogy az elnök megbízásához az egészségügyért felelős miniszter előzetes egyetértését be kell szerezni, és felette a munkáltatói jogokat a rektor gyakorolja, minden további munkáltatói jogkört a klinikai központban dolgozók esetében a klinikai központ elnöke gyakorol,
+- d) az egészségügyi szolgáltatás irányításáért az ágazati jogszabályban kijelölt felelős állami szerv
+  - da) vezetője gyakorolja az irányító megyei intézményi feladatokat végző klinikai központ egészségügyi dolgozói felett az egészségügyi szolgálati jogviszonnyal összefüggő alapvető munkáltatói jogokat,
+  - db) gyakorolja a jogszabályban meghatározott szakmai irányítási jogköröket,
+  - dc) az irányító megyei intézményi feladatokat ellátó és az irányító megyei intézményi feladatokat el nem látó klinikai központok esetében jogszabályban meghatározott eltérő irányítási jogköröket gyakorol.
+
+(6) Az egészségügyi irányítási jogkör gyakorlása nem eredményezheti sem az alapítvány felsőoktatási közfeladat-ellátásának, sem a klinikai központ egészségügyi közfeladat-ellátásának ellehetetlenülését.
+
+(7) Az egészségügyi közfeladat-ellátást érintő változásra (ideértve a közfeladatnak az e törvényben rögzített részelemének bármely visszavételét is) megállapodással akkor kerülhet sor, ha az egészségügyi szolgáltatás irányításáért jogszabályban kijelölt felelős állami szerv vezetője az egészségügyi szakmai irányítási jogköre szerinti kezdeményezése alapján
+
+- a) a klinikai központ által biztosított egészségügyi szolgáltatás igénybevételének figyelembevételével a kapacitás- és az ellátási terület változása indokolt, de a változás mértéke nem haladhatja meg az országos átlag szerinti kapacitás- és ellátási terület változásának arányát, és
+- b) a közfeladat-ellátás csökkenése esetén arra a kompenzációra a mérték tekintetében a kisajátításról szóló törvény kártalanításra vonatkozó szabályait megfelelően kell alkalmazni.
+
+(8) Az egészségügyi közfeladat-ellátás változására – a (7) bekezdés szerinti esetben megállapodással – akkor kerülhet sor továbbá, ha az egészségügyi szolgáltatás irányításáért jogszabályban kijelölt felelős állami szerv vezetője az egészségügyi szakmai irányítási jogköre szerinti kezdeményezése alapján
+
+- a) váratlan esemény, vagy előre nem látható módon bekövetkező ellátási szükséglet teljesítése,
+- b) új egészségügyi technológia bevezetése,
+- c) fejlesztési forrásból megvalósuló egészségügyi szolgáltatás finanszírozásának biztosítása,
+- d) a felsőoktatási intézmény kutatási-, fejlesztési-, innovációs tevékenységének eredményeként létrejövő új egészségügyi ellátás vagy szolgáltatás finanszírozása,
+- e) egészségügyi válsághelyzetben szükséges átmeneti időszakra vonatkozó intézkedés
+
+érdekében történik.
+
+24. § A klinikai központban az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) 1. § (6) bekezdésében meghatározott foglalkoztatott esetében az Eszjtv. rendelkezéseit kell alkalmazni.
+
+25. § (1) Az egészségügyi közfeladat-ellátással terhelt magánvagyont elkülönítetten kell nyilvántartani.
+
+(2) A 12. § (3) bekezdésétől eltérően az egészségügyi közfeladat-ellátással terhelt magánvagyonba tartozó vagyonelemek feletti rendelkezési jog gyakorlásához az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter hozzájárulása szükséges, ingatlan esetében e jog biztosítására az államot elidegenítési és terhelési tilalom illeti meg.
+
+(3) Amennyiben az alapítvány, vagy az általa fenntartott egészségügyi felsőoktatási intézmény egészségügyi szolgáltatója az egészségügyi közfeladat-ellátás céljából olyan új ingatlant biztosít, amely a közfeladat ellátására szolgáló meglévő ingatlan funkciójának legalább azonos szinten megfelel, akkor a meglévő ingatlan felett az alapítvány a (2) bekezdéstől eltérően, a 12. § (3) bekezdésében foglaltaknak megfelelően, vagyonkezelési tevékenysége keretében szabadon rendelkezik, és a (2) bekezdés szerinti jog átszáll az e bekezdés szerinti ingatlanra, melyet az ingatlan-nyilvántartásba be kell jegyezni.
+
+### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+26. § Ez a törvény a kihirdetést követő napon lép hatályba.
+
+27. § Felhatalmazást kap a Kormány arra, hogy rendeletben szabályozza az egészségügyi közfeladatot ellátó közérdekű vagyonkezelő alapítvány egészségügyi közfeladat-ellátására vonatkozó különös elszámolási és nyilvántartási szabályokat.
+
+28. § (1) E törvény hatálybalépése napján a Vatv. által közfeladatot ellátó közérdekű vagyonkezelő alapítvánnyá minősített, az 1. melléklet szerinti alapítvány jogállását, jogviszonyait folyamatosnak kell tekinteni.
+
+(2) Ha az 1. melléklet szerinti alapítvány az 5. § (4) bekezdése alapján az e törvény hatálybalépését követő 3 hónapon belül benyújtott kérelme alapján a bíróság az alapítványt közhasznú jogállású szervezetként nyilvántartásba veszi, akkor úgy kell tekinteni, hogy a közhasznú jogállás a közfeladatot ellátó közérdekű vagyonkezelő alapítvány bírósági nyilvántartásba történő bejegyzésétől, míg a 3. § (3) bekezdésében és az (1) bekezdésben meghatározott esetben a közérdekű vagyonkezelő alapítványként történő bírósági nyilvántartásba vétel napjától folyamatosan fennállt.
+
+29. § (1) Az egészségügyi közfeladatot ellátó felsőoktatási intézmény klinikai központja hatósági engedélyének vagy nyilvántartási bejegyzésének az e törvény hatálybalépésére tekintettel történő módosítása során a szakellátási kapacitás, a területi ellátási kötelezettség és a működési engedélyben szereplő szakmai struktúra nem változhat, továbbá a közfeladatot végző felsőoktatási intézmény egészségügyi szolgáltatójának – ideértve az intézeti gyógyszertár engedélyezését is – a személyi és tárgyi feltételek fennállásáról, amennyiben az a hatósági engedély megadására, vagy a nyilvántartásba vételre irányuló eljárásban egyébként szükséges, nem kell nyilatkoznia.
+
+(2) A hatósági engedély, a nyilvántartás, továbbá a finanszírozás alapját jelentő szerződés megkötéséig vagy módosításáig az egészségügyi közfeladatot ellátó felsőoktatási intézmény az egészségügyi közfeladat-ellátásról folyamatosan gondoskodik. Az alapítvány vagy a közfeladatot ellátó felsőoktatási intézmény ettől eltérő döntése semmis.
+
+30. § (1) A 7. § (8) bekezdését az e törvény hatálybalépését megelőzően alapított, az 1. melléklet szerinti alapítvány e törvény hatálybalépését megelőzően létrejött jogviszonyaira, továbbá e törvény hatálybalépését megelőzően létrejött, az alapítványt érintő jognyilatkozatokra, jogcselekményekre is megfelelően alkalmazni kell.
+
+(2) A 12. § (4) bekezdése szerinti elővásárlási, illetve vételi jog szabályait az e törvény hatálybalépését megelőzően juttatott társasági részesedésekre is megfelelően alkalmazni kell.
+
+(3) A 12. § (10) bekezdését az e törvény hatálybalépését megelőzően megkezdett, közvetlenül központi költségvetési forrásból finanszírozott beruházásokra is alkalmazni kell.
+
+31. § (1) E törvény hatálybalépését megelőzően alapított, az 1. melléklet szerinti alapítványok az alapító okiratukat – így az általuk végzett közfeladatot és a közérdekű vagy más célokat is – e törvény hatálybalépését követő 6 hónapon belül módosítani kötelesek.
+
+(2) E törvény hatálybalépését megelőzően alapított, 1. melléklet szerinti alapítvány esetén a szenátusnak az e törvény 22. § (5) bekezdése szerinti delegálási jogát első alkalommal a felügyelő bizottsági tagság e törvény hatálybalépését követő megüresedése esetén kell alkalmazni.
+
+32. § (1) E törvény az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+
+(2) E törvény 12. § (2) bekezdése és a 13. § (9) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+
+(3) E törvény 13. § (10) bekezdése az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül.
+
+33. § Hatályát veszti a Vatv. 10/A–10/C. §-a, 11/A–11/C. §-a és 1. melléklete.
+
+### 1. melléklet a 2021. évi IX. törvényhez
+
+#### A közfeladatot ellátó közérdekű vagyonkezelő alapítványok és közfeladataik
+
+A) Az állam által alapított közfeladatot ellátó közérdekű vagyonkezelő alapítványok és közfeladataik
+
+|  | A | B |
+| --- | --- | --- |
+| 1 | A közfeladatot ellátó közérdekű vagyonkezelő alapítvány megnevezése | A közfeladatot ellátó közérdekű vagyonkezelő alapítvány közfeladata |
+| 2 | Budapesti Gazdasági Egyetemért Alapítvány | 1. a Budapesti Gazdasági Egyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, 2. a Budapesti Gazdasági Egyetem útján a) felsőoktatási tevékenység folytatása, b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás, 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének támogatása. |
+| 3 | Dunaújvárosi Egyetemért Alapítvány | 1. a Dunaújvárosi Egyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, 2. a Dunaújvárosi Egyetem útján a) felsőoktatási tevékenység folytatása, b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás, 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének támogatása. |
+| 4 | Gróf Tisza István Debreceni Egyetemért Alapítvány | 1. a Debreceni Egyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása 2. a Debreceni Egyetem útján a) felsőoktatási tevékenység folytatása, b) egészségügyi tevékenység folytatása, c) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás, 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének támogatása. |
+| 5 | Hauszmann Alapítvány | 1. Hauszmann Alajos életművének, építészeti és kulturális hagyatékának fenntartása és gondozása, a Hauszmann Emlékház létrehozása, 2. a hagyományos szépmíves mesterségek komplex oktatási, támogatási, kutatási tudásközpontjának létrehozása, működtetése, fenntartása, élmény- és tanösvény létrehozása és működtetése; 3. az 1–2. pontban meghatározott közfeladataival kapcsolatos kiadványok és rendezvények szervezése, a közönséget vonzó online jelenlét megteremtése. |
+| 6 | Jövő Nemzedék Földje Alapítvány | 1. a vagyonkezelésében lévő mező- és erdőgazdasági földek (a továbbiakban: földek) megőrzése és átörökítése a jövő nemzedékek számára; 2. a Nemzeti Ménesbirtok és Tangazdaság Zártkörűen Működő Részvénytársaság vagyonkezelői jogainak gyakorlása, működési feltételeinek biztosítása és bővítése; továbbá más minta- és tangazdaságok fejlődésének előmozdítása 3. agrárképzést folytató középfokú oktatási és felsőoktatási intézmény működési feltételeinek javítása, intézményfejlesztési céljai megvalósításának támogatása, 4. a magyar középfokú és felsőfokú agrároktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének, valamint a középfokú agrároktatás infrastrukturális fejlesztésének támogatása, 5. védett őshonos magyar lófajták genetikai értékének megőrzése. |
+| 7 | Közép-európai Épített Örökség Megőrző Alapítvány | 1. a közép-európai régió magyar vonatkozású történelmi, kulturális és épített örökségei fennmaradásának, megőrzésének, megóvásának – azok állagmegóvásával, felújításával, fejlesztésével, fenntartásával történő – biztosítása és ezáltal kulturális célú megismerhetőségének, látogathatóságának és kutathatóságának biztosítása és ezek feltételeinek megteremtése, kapcsolódó infrastrukturális, szervezeti, fejlesztési és beruházási célok biztosítása, 2. a közép-európai régió magyar vonatkozású történelmi, kulturális és épített örökségei területén oktatási, kulturális, tudományos kutatási tevékenységet ellátó szervezetek, személyek támogatása, 3. az 1. pont szerinti közfeladata ellátásához kapcsolódó ismeretterjesztő tevékenység ellátása, 4. az 1–3. pontban meghatározott közfeladataival kapcsolatos kiadványok és rendezvények szervezése, a közönséget vonzó online jelenlét megteremtése. |
+| 8 | Közép-európai Oktatási Alapítvány | 1. Az International Baccalaureate Organization (Nemzetközi Érettségi Szervezet) mint nemzetközi szervezet által a Middle Years Programme (Közép Évek Programja) és Diploma Programme (Diploma Program) nyújtására, valamint IB Diploma (Nemzetközi Érettségi bizonyítvány) kiadására feljogosított, arra akkreditált, kollégiummal rendelkező középfokú nevelési-oktatási intézmény (a továbbiakban: Intézmény) létesítése és fenntartása útján a) a magyar köznevelési intézményrendszer megerősítése és környezetének szélesítése; b) középfokú nevelési-oktatási tevékenység ellátása; 2. a magyar nemzet, valamint az Intézményben képviselt országok nemzetei közötti szorosabb kulturális kapcsolatok ösztönzése; 3. az Intézmény alapítói, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának és a nevelési-oktatási feladatok ellátásának biztosítása; 4. a nevelési-oktatási tevékenységet folytató pedagógusok és a nevelésben-oktatásban részt vevők támogatása. |
+| 9 | Maecenas Universitatis Corvini Alapítvány | 1. a Budapesti Corvinus Egyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, 2. a Budapesti Corvinus Egyetem útján a) felsőoktatási tevékenység végzése, b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás, 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének támogatása. |
+| 10 | Magyar Agrár- és Élettudományi Egyetemért Alapítvány | 1. a Magyar Agrár- és Élettudományi Egyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, 2. a Magyar Agrár- és Élettudományi Egyetem útján a) felsőoktatási tevékenység folytatása, b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás, c) a genetikai változatosság és a hazai mezőgazdaság genetikai anyagainak védelme, jogszabályban meghatározott jelentős növényfajok, változatok, fajták és vad rokonfajok mint génforrások megőrzésében és fenntartásában való közreműködés; 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének támogatása. |
+| 11 | Magyar Kultúráért Alapítvány | A Petőfi Irodalmi Ügynökség Nonprofit Korlátolt Felelősségű Társaság útján 1. a nevelési-oktatási, kulturális tevékenységek működési és fejlesztési célú finanszírozása, illetve támogatása; 2. tehetséggondozó programok működésének, valamint kreatívipari innovációk létrejöttének és működésének támogatása, 3. médiatartalom előállítása és médiaszolgáltatási tevékenység támogatása, 4. kulturális célú ingatlanhasznosítás |
+| 12 | Magyar Táncművészeti Egyetemért Alapítvány | 1. a Magyar Táncművészeti Egyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, 2. a Magyar Táncművészeti Egyetem útján a) felsőoktatási tevékenység végzése, b) további, az a) pontba nem sorolt, a felsőoktatási intézményképzési tevékenységéhez kapcsolódó oktatás; 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének támogatása |
+| 13 | Makovecz Campus Alapítvány | 1. magyar humán tudományok, a humán kutatási lehetőségek fejlesztése; 2. nemzeti tudáspark, oktató, képzési és kulturális központ létrehozása, 3. a pedagógus, egészségügyi és szociális kötelező ágazati továbbképzések fejlesztése, a továbbképzéseken résztvevők támogatása, 4. a nemzeti identitástudat és összetartozás megerősítése érdekében értékmegőrző kulturális és oktatási központ, interaktív közösségi tér megteremtése és működési feltételeinek biztosítása. |
+| 14 | Marek József Alapítvány | 1. az Állatorvostudományi Egyetem alapítói, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása 2. az Állatorvostudományi Egyetem útján a) felsőoktatási tevékenység folytatása, b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás, 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének támogatása. |
+| 15 | Millenáris Tudományos Kulturális Alapítvány | 1. a Millenáris Parkban a nemzeti és a nemzetközi együttműködést jelképező, Európa társadalmi, kulturális és életmódbeli értékein, a tudományos-technikai fejlesztésen és az információs társadalom eredményein alapuló, jövőt bemutató tudományos, kulturális és oktatási központ és innovatív, családbarát, interaktív közösségi tér megteremtésének és működési feltételeinek a biztosítása 2. a színházi kulturális élet működéséhez való hozzájárulás, az abban való részvétel. |
+| 16 | Moholy-Nagy Művészeti Egyetemért Alapítvány | 1. a Moholy-Nagy Művészeti Egyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, 2. a Moholy-Nagy Művészeti Egyetem útján a) felsőoktatási tevékenység folytatása, b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás, 3. magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének támogatása. |
+| 17 | MOL – Új Európa Alapítvány | 1. tehetséggondozás, különösen kiemelkedően tehetséges gyermekek, fiatalok, a velük foglalkozó pedagógusok, edzők, médiaszakemberek, valamint tehetségük kiteljesítésének megkönnyítése céljából létrejött közösségek, szervezetek támogatása, munkájuk elismerése a sport, a művészet és a tudomány területén; 2. támogatásközvetítői tevékenység végzése keretében a) a gazdaságfejlesztés támogatása, különösen a gazdaságfejlesztési programok, továbbá a versenyképességet, a munkaerőpiacot, a szociális foglalkoztatást fejlesztő tevékenységek, programok támogatása, elősegítése, b) a környezet védelmének elősegítése, különösen környezetvédelmi, fenntarthatósági, klímavédelmi, zöldfelület-védelmi tevékenységek és kutatások elősegítése, támogatása, c) élsport támogatása; 3. karitatív tevékenység, különösen tartósan, súlyosan beteg, ápolásra szoruló személyek – kiemelten gyermekek, fiatalok – valamint közösségeik, az előbbi csoportokat támogató intézményeknek, szervezeteknek támogatása, a betegek, ápolásra szorulók állapotának stabilizálása, javítása, valamint a rehabilitáció biztosítása érdekében, a támogató intézmények szolgáltatási színvonalának növelése, működésük előmozdítása; 4. nemzetközi kapcsolatok ápolása, különösen az 1–3. pontokban meghatározottakkal kapcsolatos nemzetközi tevékenységek, cserekapcsolatok, határon átnyúló együttműködések, elsősorban Kelet-Közép-Európa népeinek együttműködését elősegítő kezdeményezések, projektek támogatása. |
+| 18 | Nemzeti Egészségügyi és Orvosképzésért Alapítvány | 1. a Semmelweis Egyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, klinikai betegellátási feladatai, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, 2. a Semmelweis Egyetem útján a) felsőoktatási tevékenység végzése, b) egészségügyi tevékenység folytatása, c) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás, 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének támogatása. |
+| 19 | Neumann János Egyetemért Alapítvány | 1. a Neumann János Egyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, 2. Neumann János Egyetem útján a) felsőoktatási tevékenység folytatása, b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás, 3. magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének támogatása. |
+| 20 | Nyíregyházi Egyetemért Alapítvány | 1. a Nyíregyházi Egyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, 2. a Nyíregyházi Egyetem útján a) felsőoktatási tevékenység folytatása, b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás, 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének támogatása. |
+| 21 | Pannon Egyetemért Alapítvány | 1. Pannon Egyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, 2. a Pannon Egyetem útján a) felsőoktatási tevékenység folytatása, b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás, 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének támogatása |
+| 22 | Polgári Művelődésért Oktatási, Kulturális és Tudományos Alapítvány | 1. a kulturális értékek megőrzése, 2. kulturális rendezvények szervezésében való közreműködés, 3. oktatási tevékenység folytatása, elősegítése, 4. az épített örökség, különösen a műemléki örökség védelmében való közreműködés, 5. az 1–4. pont szerinti tevékenységet végző szervezetek, intézmények, személyek támogatása. |
+| 23 | Rudolf Kalman Óbudai Egyetemért Alapítvány | 1. az Óbudai Egyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, 2. az Óbudai Egyetem útján a) felsőoktatási tevékenység folytatása, b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás, 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének támogatása. |
+| 24 | Soproni Egyetemért Alapítvány | 1. a Soproni Egyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, 2. Soproni Egyetem útján a) felsőoktatási tevékenység folytatása, b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás, 3. magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének támogatása. |
+| 25 | Széchenyi István Egyetemért Alapítvány | 1. a Széchenyi István Egyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, 2. a Széchenyi István Egyetem útján a) felsőoktatási tevékenység folytatása, b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás, 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének támogatása. |
+| 26 | Szegedi Tudományegyetemért Alapítvány | 1. a Szegedi Tudományegyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, klinikai betegellátási feladatai, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása 2. a Szegedi Tudományegyetem útján a) felsőoktatási tevékenység végzése, b) egészségügyi tevékenység folytatása, c) további, az a) pontba nem sorolt, a felsőoktatási intézményképzési tevékenységéhez kapcsolódó oktatás, 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének támogatása |
+| 27 | Színház- és Filmművészetért Alapítvány | 1. a Színház- és Filmművészeti Egyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, 2. Színház- és Filmművészeti Egyetem útján a) felsőoktatási tevékenység folytatása, b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás, 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének támogatása. 4. a magyar és az európai filmértékek, a kortárs és a klasszikus filmművészet kincseinek megőrzése és bemutatása. |
+| 28 | Testnevelési Egyetemért Alapítvány | 1. a Testnevelési Egyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, 2. a Testnevelési Egyetem útján a) felsőoktatási tevékenység végzése, b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás, 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének támogatása. |
+| 29 | Tokaj-Hegyalja Egyetemért Alapítvány | 1. a Tokaj-Hegyalja Egyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, 2. a Tokaj-Hegyalja Egyetem útján a) felsőoktatási tevékenység végzése, b) további, az a) pontba nem sorolt, a felsőoktatási intézményképzési tevékenységéhez kapcsolódó oktatás, 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének támogatása. |
+| 30 | Universitas Miskolcinensis Alapítvány | 1. a Miskolci Egyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása 2. A Miskolci Egyetem útján a) felsőoktatási tevékenység folytatása, b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás, 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének támogatása. |
+| 31 | Universitas Quinqueecclesiensis Alapítvány | 1. a Pécsi Tudományegyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, klinikai betegellátási feladatai, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, 2. a Pécsi Tudományegyetem útján a) felsőoktatási tevékenység végzése, b) egészségügyi tevékenység folytatása, c) további, az a) pontba nem sorolt, a felsőoktatási intézményképzési tevékenységéhez kapcsolódó oktatás, 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése, b) rászorultsági alapú támogatás biztosítása, c) tehetséggondozó programok működésének támogatása. |
+
+B) Az állam mint csatlakozó részvételével működő közfeladatot ellátó közérdekű vagyonkezelő alapítványok és közfeladataik
+
+|  | A | B |
+| --- | --- | --- |
+| 1 | A közfeladatot ellátó közérdekű vagyonkezelő alapítvány megnevezése | A közfeladatot ellátó közérdekű vagyonkezelő alapítvány közfeladata |
+| 2 | Batthyány Lajos Alapítvány | 1. a nemzeti értékek és érdekek, illetve a közös keresztény-kulturális és európai értékek iránt elkötelezett, demokratikus magyar közélet támogatása, ilyen tematikájú közösségi események, társasági élet, illetve tudományos – különösen elemző és kutató – és ismeretterjesztő tevékenység folytatása és támogatása; 2. tehetséggondozási, képzési, illetve különösen az alapítvány céljai körébe tartozó kutatási tevékenység folytatása és támogatása; 3. A Kárpát-medence összmagyarsága kulturális és művészeti örökségének, értékeinek felfedezésére, megőrzésére, fejlesztésre irányuló tevékenység folytatása és támogatása; 4. a társadalom műveltségi szintjének emelésére, a kultúra széleskörű terjesztésére irányuló, valamint tudományos, kutatási, közéleti és ismeretterjesztő tevékenység folytatása és támogatása; 5. szociális, család-, gyermek- és ifjúságvédelmi, kulturális, valamint a társadalom egészségi állapotának fejlesztését célzó tevékenység folytatása és támogatása; az alapítvány céljait saját működése, valamint azokkal összhangban álló tevékenységet folytató harmadik személyek – különösen támogatása, fenntartása, működési feltételeik elősegítése, valamint a kapcsolódó infrastruktúra-, szervezet-, intézményfejlesztési és beruházási célok biztosítása – útján valósítja meg. |
+| 3. | Mathias Corvinus Collegium Alapítvány | 1. oktatási és tehetséggondozó intézmény, így különösen a Mathias Corvinus Collegium fenntartása, működtetése, működési feltételeinek, infrastruktúra-, szervezet-, intézményfejlesztési és beruházási céljainak a biztosítása; 2. a kiemelten tehetséges fiatalok támogatására épülő, a hagyományos oktatást kiegészítő tehetséggondozó, oktatási-nevelési rendszer kiépítése, fenntartása és támogatása, amelyet az alapítvány a Mathias Corvinus Collegium közreműködésével lát el; 3. nevelési-oktatási, kutatási, ismeretterjesztő, szociális, család-, gyermek- és ifjúságvédelmi, kulturális tevékenység folytatása és támogatása, a hátrányos helyzetű csoportokba és a határon túli magyarságba tartozókra is kiterjedő módon, amelyet az alapítvány a Mathias Corvinus Collegium közreműködésével lát el; 4. a magyar társadalom műveltségi szintjének emelésére irányuló, illetve tudományos, kutatási és ismeretterjesztő tevékenység folytatása és támogatása; 5. a nemzeti értékek és érdekek iránt elkötelezett, demokratikus magyar közélet támogatása, ilyen tematikájú közösségi események, társasági élet szervezésére irányuló tevékenység folytatása és támogatása; 6. a tudomány és kultúra széleskörű – különösen a nemzeti értékeket és érdekeket, illetve társadalmi kérdéseket közvetítő magyarországi és külföldi könyv- és lapkiadás, terjesztés, valamint rendezvények szervezése útján megvalósuló – népszerűsítése és támogatása, valamint kritikai és közéleti tevékenység folytatása és támogatása; az alapítvány céljait saját működése, valamint azokkal összhangban álló tevékenységet folytató harmadik személyek – különösen támogatása, fenntartása, működési feltételeik elősegítése, valamint a kapcsolódó infrastruktúra-, szervezet-, intézményfejlesztési és beruházási célok biztosítása – útján valósítja meg. |

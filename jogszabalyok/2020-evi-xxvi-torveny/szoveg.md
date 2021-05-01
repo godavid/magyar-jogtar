@@ -14,7 +14,7 @@ A Mathias Corvinus Collegiumnak a kimagaslóan tehetséges fiatalok támogatás�
 
 (4) A Kormánynak az állam nevében az Alapítványhoz való, e törvényben meghatározott vagyoni juttatás teljesítésével történő csatlakozására csak akkor kerülhet sor, ha az Alapítvány alapító okiratának az Alapítvány vagyonkezelő alapítványként való nyilvántartásba vétele érdekében a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény rendelkezéseinek megfelelő, az Alapítvány kuratóriumának új tagjait kijelölő, valamint az Alapítvány kuratóriumának az alapítói jogok teljes körének gyakorlására történő kijelöléséhez szükséges módosítása legkésőbb a Kormánynak az állam nevében az Alapítványhoz való csatlakozása során megtörténik.
 
-2. § Az Alapítvány oktatási és tehetséggondozó intézmény, kiemelten a Mathias Corvinus Collegium fenntartása, működési feltételeinek, intézményfejlesztési céljainak biztosítása érdekében végzett tevékenysége, és az Alapítvány céljainak a preambulumban meghatározott célokkal összhangban történő megvalósítása közfeladatnak minősül. Az Alapítvány céljainak megvalósítását szolgáló gazdasági tevékenységet végez, így különösen az alapító által rendelt, és az Alapítványhoz csatlakozók által juttatott vagyont kezeli.
+2. §
 
 #### 2. Az Alapítvány részére történő vagyonjuttatás
 

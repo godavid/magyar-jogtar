@@ -1671,6 +1671,8 @@ A kormánytisztviselőre vonatkozó hivatásetikai alapelvek különösen az elk
 
 (11) Nem keletkeztet összeférhetetlenséget az olyan állami befolyás gyakorlása következtében gazdasági társaságban vagy más szervezetben keletkező vezető tisztségviselői, illetve felügyelőbizottsági, auditbizottsági tagság, amelynek alapja az államháztartás, illetve a pénzügyi közvetítőrendszer stabilitásának erősítése érdekében hozott állami intézkedés, különös tekintettel az állami tőkeemelésre, kölcsönnyújtásra, kezesség-, illetve garanciavállalásra.
 
+(11a) Nem keletkeztet összeférhetetlenséget a közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumában, felügyelőbizottságában betöltött tagság, valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítványban betöltött vagyonellenőri tisztség.
+
 (12) Nem keletkeztet összeférhetetlenséget a nemzetközi közigazgatási szakértői tevékenység, ha a kormánytisztviselő és a digitális megoldások exportjával és programjának fejlesztésével összefüggő feladatok koordinációját ellátó szervezet közötti, erre irányuló megállapodást a munkáltatói jogkör gyakorlója előzetesen engedélyezi és a tevékenység időtartama tárgyévenként a hat hónapot nem haladja meg.
 
 (13) A kormánytisztviselő köteles haladéktalanul írásban bejelenteni, ha vele szemben törvényben meghatározott összeférhetetlenségi ok merül fel, illetve ha kormányzati szolgálati jogviszonyának fennállása alatt összeférhetetlen helyzetbe kerül. Ha a munkáltatói jogkör gyakorlójának összeférhetetlenségi ok jut a tudomására, a jogkövetkezmények megjelölésével köteles haladéktalanul írásban felszólítani a kormánytisztviselőt, hogy az összeférhetetlenséget harminc napon belül szüntetesse meg (összeférhetetlenség megszüntetésére irányuló írásbeli felszólítás). Amennyiben a kormánytisztviselő az összeférhetetlenséget a felszólítás kézbesítésétől számított harminc napon belül nem szünteti meg, kormányzati szolgálati jogviszonya megszűnik.
@@ -3549,7 +3551,7 @@ együttesen kell tárolni (a továbbiakban együtt: személyi anyag).
 
 (3) Az (1) bekezdésben foglalt összeférhetetlenségi okokat az országgyűlési képviselői megbízatással nem rendelkező államtitkár vonatkozásában a Magyar Nemzeti Bank felügyelőbizottságának tagjaira, a Nemzeti Vagyongazdálkodási Tanács tagjaira, az Országos Betétbiztosítási Alap igazgatótanácsának tagjaira, a Szanálási Alap igazgatótanácsának tagjaira, a Likviditási Bizottság és a Fenntartható Gazdaságfehéredésért Felelős Bizottság tagjaira, a közvetlen vagy közvetett többségi állami tulajdonban lévő befektetési alapkezelő irányító testületének, illetve felügyeleti feladatokat ellátó irányító testületének tagjaira, valamint az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság, a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság és a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság igazgatóságának, illetve felügyelőbizottságának tagjaira, továbbá a Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnökére vagy tagjaira nem kell alkalmazni.
 
-(3a) Az (1) bekezdésben foglalt összeférhetetlenségi okokat közérdekű vagyonkezelő alapítvány kuratóriumának tagjaira nem kell alkalmazni.
+(3a) Az (1) bekezdésben foglalt összeférhetetlenségi okokat közérdekű vagyonkezelő alapítvány kuratóriumának vagy felügyelőbizottságának tagjaira, illetve a közfeladatot ellátó közérdekű vagyonkezelő alapítványban vagyonellenőri tisztséget betöltőkre nem kell alkalmazni.
 
 (4) Ha az összeférhetetlenségi eljárás ideje alatt a politikai felsővezető a vele szemben fennálló összeférhetetlenségi okot megszünteti, a miniszterelnök esetében az összeférhetetlenség nem mondható ki, a miniszter és az államtitkár esetében a felmentést mellőzni kell.
 
@@ -4081,6 +4083,8 @@ A közigazgatási államtitkár és a helyettes államtitkár kormányzati szolg
 (1) A közigazgatási államtitkár és a helyettes államtitkár érdekképviseleti szervezetben tisztséget, szövetkezetben vezető tisztséget nem viselhet.
 
 (2) Nem keletkeztet összeférhetetlenséget, ha a közigazgatási államtitkár, illetve a helyettes államtitkár a Magyar Nemzeti Bank felügyelőbizottságának tagja, a Nemzeti Vagyongazdálkodási Tanács tagja, továbbá a Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnöke vagy tagja.
+
+(2a) Nem keletkeztet összeférhetetlenséget a közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumában, felügyelőbizottságában betöltött tagság, valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítványban betöltött vagyonellenőri tisztség.
 
 (3) Ha az összeférhetetlenségi eljárás ideje alatt a közigazgatási államtitkár, illetve a helyettes államtitkár a vele szemben fennálló összeférhetetlenségi okot megszünteti, az összeférhetetlenség megállapítását mellőzni kell.
 
@@ -4991,6 +4995,8 @@ E törvénynek a Magyarország 2021. évi központi költségvetésének megalap
 (3) A 301. § az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 (4) A 320. § (1) bekezdése az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
+
+(5) A 95. § (11a) bekezdése, a 182. § (3a) bekezdése és a 225. § (2a) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 #### 333. § [Az Európai Unió jogi aktusainak való megfelelés]
 

@@ -19,12 +19,20 @@ egyes állami tulajdonú ingatlanok ingyenes egyházi tulajdonba adásáról
 
 5. § A 2. § alapján ingyenesen tulajdonba adott ingatlanon e törvény erejénél fogva határozatlan időre elidegenítési és terhelési tilalom áll fenn. Az elidegenítési és terhelési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg a tulajdonosi joggyakorló kérelmezi.
 
-6. §
+6. § (1) Az Nvtv. 13. § (3) bekezdése, valamint a Vtv. 36. § (1) bekezdése és (2) bekezdés g) pontja alapján a Magyarországi Református Egyház szociális, oktatási, kulturális és hitéleti feladatainak elősegítése érdekében a Nagykőrös, Hősök tere 6. szám alatt található, az ingatlan-nyilvántartás szerint Nagykőrös, belterület 5260 helyrajzi szám alatt nyilvántartott állami tulajdonban lévő ingatlan ingyenesen, a számvitelről szóló 2000. évi C. törvény 50. § (4) bekezdése szerinti értéken a Magyarországi Református Egyház tulajdonába kerül. Az ingatlan tulajdonjogát a Magyarországi Református Egyház jogokkal és kötelezettségekkel együtt szerzi meg.
+
+(2) Az (1) bekezdés szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság köti meg a Magyarországi Református Egyházzal.
+
+(3) Az (1) bekezdés alapján ingyenesen tulajdonba adott ingatlan tekintetében nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdését.
+
+(4) A Magyarországi Református Egyház a tulajdonába adott ingatlant – az (1) bekezdésben foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha a Magyarországi Református Egyház a tulajdonába adott ingatlanokat értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a vagyonjuttatás céljaként megfogalmazott tevékenységeket szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. A Magyarországi Református Egyház az ingatlan értékesítéséből származó bevételt működési költségek finanszírozására nem használhatja fel.
+
+(5) Az (1) bekezdés alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
 7. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő ötödik napon lép hatályba.
 
 (2) A 2. §, a 4. §, az 5. §, valamint az 1. melléklet 2017. szeptember 1-jén lép hatályba.
 
-8. § E törvény 2. §-a, 4. §-a, 5. §-a, valamint 1. melléklete az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+8. § E törvény 2. §-a, 4. §-a, 5. §-a, 6. § (3) bekezdése, valamint 1. melléklete az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2017. évi LXXIV. törvényhez

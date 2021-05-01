@@ -2,7 +2,7 @@
 
 egyes vagyonkezelő alapítványokról és az azoknak történő vagyonjuttatásról
 
-A Millenáris Park mint a nemzeti és a nemzetközi együttműködést jelképező kulturális és oktatási központ, valamint az egykori meghatározó ipari létesítmény, a Ganz Villamossági Művek Lövőház utcai telepe épületeinek megóvása, a területen megvalósítandó nemzeti identitástudatot és összetartozást erősítő, értékmegőrző, kulturális, tudományos és társadalmi feladatok, továbbá a Batthyány Lajos Alapítványnak a magyar nemzet iránt elkötelezett, az európai egység irányába mutató, a közös keresztény-kulturális értékek és a demokratikus, képviseleti kormányzás alapján álló magyar közélet előmozdítására, továbbá a magyar tehetségek kibontakoztatására és Magyarország megbecsültségének világszerte való növelésére, a Mathias Corvinus Collegium Alapítványnak a kiemelten tehetséges fiatalok támogatása ügyének megvalósítására irányuló tevékenységének támogatása érdekében, valamint a polgári művelődési, oktatási, kulturális és tudományos értékeket megőrző alapítvány létrehozása érdekében az Országgyűlés a következő törvényt alkotja:
+A Millenáris Park mint a nemzeti és a nemzetközi együttműködést jelképező kulturális és oktatási központ, valamint az egykori meghatározó ipari létesítmény, a Ganz Villamossági Művek Lövőház utcai telepe épületeinek megóvása, a területen megvalósítandó nemzeti identitástudatot és összetartozást erősítő, értékmegőrző, kulturális, tudományos és társadalmi feladatok, továbbá a Batthyány Lajos Alapítványnak a nemzeti értékek és érdekek, illetve a közös keresztény-kulturális és európai értékek iránt elkötelezett, demokratikus magyar közélet támogatására a Mathias Corvinus Collegium Alapítványnak a kiemelten tehetséges fiatalok támogatása ügyének megvalósítására irányuló tevékenységének támogatása érdekében, valamint a polgári művelődési, oktatási, kulturális és tudományos értékeket megőrző alapítvány létrehozása érdekében az Országgyűlés a következő törvényt alkotja:
 
 #### 1. A Millenáris Tudományos Kulturális Alapítvány
 
@@ -12,31 +12,43 @@ A Millenáris Park mint a nemzeti és a nemzetközi együttműködést jelképez
 
 (3) A Millenáris Alapítvány kuratóriumának elnökét és tagjait a miniszter jelöli ki.
 
-(4) A Millenáris Alapítvány közfeladatnak minősülő feladata a Millenáris Parkban a nemzeti és a nemzetközi együttműködést jelképező, Európa társadalmi, kulturális és életmódbeli értékein, a tudományos-technikai fejlesztésen és az információs társadalom eredményein alapuló, jövőt bemutató tudományos, kulturális és oktatási központ és innovatív, családbarát, interaktív közösségi tér megteremtésének és működési feltételeinek a biztosítása. Ezen cél maradéktalan megvalósítása érdekében a Millenáris Tudományos Kulturális Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Millenáris Tudományos Kulturális Nonprofit Kft.) valamennyi egy évet meghaladó időtartamú, határozott időre szóló bérleti jogviszonya e törvény erejénél fogva e törvény hatálybalépésének napjával megszűnik, a bérlők azonnali és teljes kártalanítása mellett. A kártalanítás mértéke megegyezik a határozott idejű bérleti jogviszonyból még hátralévő évek és a Millenáris Tudományos Kulturális Nonprofit Kft.-vel szerződéses jogviszonyban álló fél e törvény hatálybalépését megelőző három üzleti évének adózott eredménye átlagának szorzatával.
+(4) A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVAtv.) 1. mellékletében meghatározott közfeladatainak és közérdekű céljának megvalósítása érdekében a Millenáris Tudományos Kulturális Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Millenáris Tudományos Kulturális Nonprofit Kft.) valamennyi egy évet meghaladó időtartamú, határozott időre szóló bérleti jogviszonya e törvény erejénél fogva e törvény hatálybalépésének napjával megszűnik, a bérlők azonnali és teljes kártalanítása mellett. A kártalanítás mértéke megegyezik a határozott idejű bérleti jogviszonyból még hátralévő évek és a Millenáris Tudományos Kulturális Nonprofit Kft.-vel szerződéses jogviszonyban álló fél e törvény hatálybalépését megelőző három üzleti évének adózott eredménye átlagának szorzatával.
 
-(5) A Millenáris Alapítvány (4) bekezdés szerinti tevékenysége, valamint a Millenáris Alapítvány ezen céljainak a megvalósítása közérdekű célnak minősül. A Millenáris Alapítvány e céljainak megvalósításával közvetlenül összefüggő gazdasági tevékenységet végez, amely keretében az alapító által rendelt, valamint a Millenáris Alapítványhoz csatlakozók és adományozók által juttatott vagyont kezeli.
+(5)
 
 (6) A Millenáris Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására a Millenáris Alapítvány kuratóriuma kerüljön kijelölésre.
 
 #### 2. A Millenáris Alapítvány részére történő vagyonjuttatás
 
-2. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdése és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdése alapján – a preambulumban és az 1. § (4) bekezdésében meghatározott célok megvalósítása érdekében – az 1. melléklet szerinti állami vagyonelemeket ingyenesen, nyilvántartási értéken történő átvezetéssel – a Vtv. 36. § (2) bekezdésétől eltérően – az indulótőke növelése érdekében alapítói vagyoni juttatásként a Millenáris Alapítvány tulajdonába kell adni.
+2. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdése és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdése alapján – a preambulumban és az 1. § (4) bekezdésében meghatározott célok megvalósítása érdekében – az 1. melléklet 2. sora szerinti állami vagyonelemeket ingyenesen, nyilvántartási értéken történő átvezetéssel – a Vtv. 36. § (2) bekezdésétől eltérően – az indulótőke növelése érdekében alapítói vagyoni juttatásként a Millenáris Alapítvány tulajdonába kell adni.
 
 (2) Az (1) bekezdés szerinti alapítói vagyoni juttatásként a Millenáris Alapítvány tulajdonába adott vagyon tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdés b) pontját, valamint az Nvtv. 13. § (7) és (8) bekezdésében foglaltakat.
 
-(3) Az 1. melléklet szerinti vagyonelemek tekintetében a Millenáris Alapítvány nyilvántartásba vételének hatályával a miniszter gyakorolja az államot megillető tulajdonosi jogokat és teljesíti a kötelezettségeket. A miniszter az 1. mellékletben meghatározott vagyonelemek (1) bekezdés szerinti tulajdonba adásáról a Millenáris Alapítvány alapító okiratában rendelkezik.
+(3) Az 1. melléklet 2. sora szerinti vagyonelemek tekintetében a Millenáris Alapítvány nyilvántartásba vételének hatályával a miniszter gyakorolja az államot megillető tulajdonosi jogokat és teljesíti a kötelezettségeket. A miniszter az 1. melléklet 2. sorában meghatározott vagyonelemek (1) bekezdés szerinti tulajdonba adásáról a Millenáris Alapítvány alapító okiratában rendelkezik.
 
-(4) Ha a Millenáris Alapítvány a tulajdonába adott 1. melléklet szerinti vagyonelemet el kívánja idegeníteni, akkor az alapító okiratban előírt módon meghatározott piaci áron köteles annak megvásárlására az államnak – a miniszterhez eljuttatott nyilatkozattal – ajánlatot tenni, amelyre tekintettel az államot vételi jog illeti meg. A vételi jog biztosítására az államot elidegenítési és terhelési tilalom illeti meg.
+(4)
 
-(5) Ha a miniszter a (4) bekezdés szerinti ajánlat közlésétől számított 90 napon belül úgy nyilatkozik, hogy a vagyonelem tekintetében az állam a vételi jogával nem kíván élni, vagy ha az ajánlat közlésétől számított 90 napon belül nem tesz nyilatkozatot, úgy az állam vételi joga megszűnik.
+(5)
 
-(6) A (4) bekezdés szerinti elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét a Millenáris Alapítvány az 1. § (4) bekezdésében meghatározott célok és feladatok megvalósítására köteles fordítani. A Millenáris Alapítvány az értékesítésből származó bevételt a Millenáris Alapítvány működési költségeinek finanszírozására nem használhatja fel.
+(6) A (4) bekezdés szerinti elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét a Millenáris Alapítvány a KEKVAtv. 1. mellékletében meghatározott közfeladatai ellátására és közérdekű céljai megvalósítására köteles fordítani. A Millenáris Alapítvány az értékesítésből származó bevételt a Millenáris Alapítvány működési költségeinek finanszírozására nem használhatja fel.
 
-(7) A Millenáris Alapítvány jogutód nélküli megszűnése vagy megszüntetése esetén az 1. melléklet szerinti vagyonelemek tulajdonjoga az államra száll vissza.
+(7)
 
-(8) A Millenáris Alapítvány további vagyonának és költségvetési támogatásának biztosításáról a Kormány gondoskodik.
+(8)
 
 (9) Az (1) bekezdés szerinti vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+
+2/A. § Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVAtv. alapján a Millenáris Alapítvány KEKVAtv. 1. mellékletében meghatározott közfeladata ellátásának érdekében a Thália Színház Nonprofit Korlátolt Felelősségű Társaság állam tulajdonában álló, 1. melléklet 3. sora szerinti üzletrészét ingyenesen, nyilvántartási értéken történő átvezetéssel a Millenáris Alapítvány tulajdonába kell adni.
+
+(2) Az (1) bekezdés szerinti üzletrész tekintetében a miniszter gyakorolja az államot megillető tulajdonosi jogokat és teljesíti a kötelezettségeket.
+
+2/B. § Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVAtv. alapján – a Millenáris Alapítvány KEKVAtv. 1. mellékletében meghatározott közfeladata ellátásának érdekében – az 5. mellékletben meghatározott állami tulajdonban lévő ingatlanokat ingyenesen, nyilvántartási értéken történő átvezetéssel az indulótőke növelése érdekében a Millenáris Alapítvány tulajdonába kell adni.
+
+(2) Az 5. melléklet szerinti ingatlanok tekintetében a miniszter gyakorolja az államot megillető tulajdonosi jogokat és teljesíti a kötelezettségeket. A miniszter tulajdonosi joggyakorlói minőségét – kérelmére – az ingatlan-nyilvántartásba be kell jegyezni. Az (1) bekezdés szerinti tulajdonátruházásoknak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződéseket az állam nevében a tulajdonosi joggyakorló köti meg.
+
+(3) Az 5. melléklet szerinti ingatlanok tulajdonjogát a Millenáris Alapítvány az azokon fennálló terhekkel együtt szerzi meg.
+
+(4) Az (1) bekezdés szerinti ingatlanok elidegenítéséből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét a Millenáris Alapítvány a közfeladata ellátására és közérdekű céljai megvalósítására köteles fordítani. A Millenáris Alapítvány az értékesítésből származó bevételt a Millenáris Alapítvány működési költségeinek finanszírozására nem használhatja fel.
 
 #### 3. A Batthyány Lajos Alapítvány
 
@@ -50,7 +62,7 @@ A Millenáris Park mint a nemzeti és a nemzetközi együttműködést jelképez
 
 (5) Az (1) bekezdésben előírtaknak, valamint a 4. §-ban meghatározott céloknak, a nemzeti vagyonnal való felelős gazdálkodás követelményének az érvényre juttatásával történő megvalósítása érdekében, az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény 1. § (1) bekezdésében meghatározottaktól eltérően a Kormány, az állam nevében, e törvény rendelkezései alapján – e törvényben meghatározott vagyonjuttatás teljesítésével – csatlakozhat a Batthyány Lajos Alapítványhoz azzal, hogy az alapítók, a csatlakozó, valamint az alapítói jogok gyakorlására a (3) bekezdés értelmében kijelölt kuratórium, illetve az alapítói jogokat esetlegesen gyakorló egyéb személy vagy szerv nem szüntetheti meg a Batthyány Lajos Alapítványt.
 
-4. § A Batthyány Lajos Alapítványnak a magyar nemzet iránt elkötelezett, az európai egység irányába mutató, a közös keresztény-kulturális értékek és a demokratikus, képviseleti kormányzás alapján álló magyar közélet előmozdítására, továbbá a magyar tehetségek kibontakoztatására és Magyarország megbecsültségének világszerte való növelésére, valamint az alapító okiratában meghatározott egyéb céljainak és feladatainak megvalósítására irányuló tevékenysége közfeladatnak minősül. A Batthyány Lajos Alapítvány közfeladatát saját működése, valamint az alapító okiratában meghatározott céljaival összhangban álló tevékenységet folytató, illetve megvalósítani kívánó harmadik személyek útján látja el. A Batthyány Lajos Alapítvány e tevékenysége, valamint a Batthyány Lajos Alapítvány e céljainak a megvalósítása közérdekű célnak minősül. A Batthyány Lajos Alapítvány céljainak megvalósítását szolgáló gazdasági tevékenységet végez, így különösen az alapítók által rendelt, és a Batthyány Lajos Alapítványhoz csatlakozók által juttatott vagyont kezeli.
+4. §
 
 #### 4. A Batthyány Lajos Alapítvány részére történő vagyonjuttatás
 
@@ -76,7 +88,7 @@ A Millenáris Park mint a nemzeti és a nemzetközi együttműködést jelképez
 
 (4) A 2. melléklet szerinti ingatlanok tulajdonjogát az MCC Alapítvány a terhekkel együtt szerzi meg.
 
-(5) Az MCC Alapítvány jogosult a tulajdonába adott, 2. melléklet szerinti ingatlanokat hasznosítani. Ha az MCC Alapítvány a tulajdonába adott, 2. melléklet szerinti ingatlanokat értékesíti, az ingatlanok tulajdonjogának átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét az MCC tv. 2. §-ban meghatározott célok és feladatok megvalósítására köteles fordítani.
+(5) Az MCC Alapítvány jogosult a tulajdonába adott, 2. melléklet szerinti ingatlanokat hasznosítani. Ha az MCC Alapítvány a tulajdonába adott, 2. melléklet szerinti ingatlanokat értékesíti, az ingatlanok tulajdonjogának átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVAtv. 1. mellékletében meghatározott közfeladatai ellátására és közérdekű céljai megvalósítására köteles fordítani.
 
 (6) Az (1) bekezdés alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az Áfa tv. 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
@@ -86,9 +98,9 @@ A Millenáris Park mint a nemzeti és a nemzetközi együttműködést jelképez
 
 (2) A Polgári Művelődésért Alapítvány alapítása során az állam képviseletében az államháztartásért felelős miniszter jár el.
 
-(3) A Polgári Művelődésért Alapítvány feladata a kulturális értékek megőrzése, kulturális rendezvények szervezésében való közreműködés, oktatási tevékenység folytatása, elősegítése, az épített örökség, különösen a műemléki örökség védelmében való közreműködés, az ilyen jellegű tevékenységet végző szervezetek, intézmények, személyek támogatása.
+(3)
 
-(4) A Polgári Művelődésért Alapítvány (3) bekezdés szerinti tevékenysége, valamint a Polgári Művelődésért Alapítvány ezen céljainak a megvalósítása közérdekű célnak minősül. A Polgári Művelődésért Alapítvány e céljainak megvalósításával közvetlenül összefüggő gazdasági tevékenységet végez, amely keretében az alapító által rendelt, valamint a Polgári Művelődésért Alapítványhoz csatlakozók és adományozók által juttatott vagyont kezeli.
+(4)
 
 (5) A Polgári Művelődésért Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására a Polgári Művelődésért Alapítvány kuratóriuma kerüljön kijelölésre.
 
@@ -112,13 +124,15 @@ A Millenáris Park mint a nemzeti és a nemzetközi együttműködést jelképez
 
 (2) A 8. § (1) bekezdése alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az Áfa tv. 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
-(3) A Polgári Művelődésért Alapítvány további vagyonának és költségvetési támogatásának biztosításáról a Kormány gondoskodik.
+(3)
 
 #### 8. Záró rendelkezések
 
 10. § Ez a törvény a kihirdetését követő napon lép hatályba.
 
-11. § A 2. § (1) és (2) bekezdése, (4)–(7) bekezdése, a 3. § (5) bekezdése, az 5. § (1) és (2) bekezdése, a 6. § (1), (2) és (5) bekezdése, a 8. § (1) és (2) bekezdése, a 9. § (1) bekezdése és a 13. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+11. § (1) A 2. § (1), (2) és (4)–(7) bekezdése, a 3. § (5) bekezdése, az 5. § (1) és (2) bekezdése, a 6. § (1), (2) és (5) bekezdése, a 8. § (1) és (2) bekezdése, a 9. § (1) bekezdése és a 13. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+
+(2) A 2. § (6) bekezdése, a 2/A. § (1) bekezdése, a 2/B. § (1) és (4) bekezdése, a 6. § (5) bekezdése, a 9. § (1) bekezdése, az 1. melléklet 3. sora és az 5. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 12. §
 
@@ -132,6 +146,7 @@ A Millenáris Park mint a nemzeti és a nemzetközi együttműködést jelképez
 | --- | --- | --- |
 | 1. | Gazdasági társaság megnevezése | Átadandó állami tulajdonban álló részesedés megjelölése |
 | 2. | Millenáris Tudományos Kulturális Nonprofit Korlátolt Felelősségű Társaság | 9 180 000 000 forint törzsbetét |
+| 3. | Thália Színház Nonprofit Korlátolt Felelősségű Társaság | 4 000 000 forint üzletrész |
 
 ### 2. melléklet a 2020. évi CVI. törvényhez
 
@@ -163,3 +178,22 @@ A Millenáris Park mint a nemzeti és a nemzetközi együttműködést jelképez
 | --- | --- | --- | --- | --- |
 | 1. | TELEPÜLÉS | KERÜLET | HELYRAJZI SZÁM | Tulajdoni hányad |
 | 2. | Budapest | II. kerület | 54281 | 1/1 |
+
+### 5. melléklet a 2020. évi LXXII. törvényhez
+
+#### A Millenáris Alapítvány részére átadásra kerülő állami tulajdonú ingatlanok
+
+|  | A | B | C | D |
+| --- | --- | --- | --- | --- |
+| 1. | TELEPÜLÉS | HELYRAJZI SZÁM | MAGYAR ÁLLAM TULAJDONI HÁNYADA | MEGNEVEZÉS |
+| 2. | Budapest VI. kerület | 29081/0/A/2 | 1/1 | üzlethelyiség |
+| 3. | Budapest VI. kerület | 29064/0/A/7 | 1/1 | iroda |
+| 4. | Budapest VI. kerület | 29076/0/B/1 | 1/1 | színházi öltöző |
+| 5. | Budapest VI. kerület | 29076/0/B/5 | 1/1 | színpad, nézőtér |
+| 6. | Budapest VI. kerület | 29086/0/A/1 | 1/1 | színház |
+| 7. | Budapest VI. kerület | 29086/0/A/2 | 1/1 | színház |
+| 8. | Budapest VI. kerület | 29087/0/A/1 | 1/1 | iroda, raktár |
+| 9. | Budapest VI. kerület | 29080/0/A/9 | 1/1 | lakás |
+| 10. | Budapest VI. kerület | 29013/0/A/4 | 1/1 | lakás |
+| 11. | Budapest VI. kerület | 29086/0/A/5 | 1/1 | iroda |
+| 12. | Budapest VI. kerület | 29356/0/A/12 | 1/1 | lakás |

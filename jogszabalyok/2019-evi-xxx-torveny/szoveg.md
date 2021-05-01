@@ -12,22 +12,14 @@ A gazdaság- és társadalomtudományi képzési terület, ezen keresztül az in
 
 (3) Az Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapító okiratban az alapítói jogok teljes körének gyakorlására az Alapítvány kuratóriuma kerüljön kijelölésre.
 
-2. § (1) Az Alapítvány feladata oktatási intézmény, kiemelten a Budapesti Corvinus Egyetem (a továbbiakban: Egyetem) alapítói, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása, amelynek érdekében gazdasági tevékenysége keretében az alapító által rendelt, valamint az Alapítványhoz csatlakozók által nyújtott vagyont kezeli.
-
-(2) Az Alapítvány a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
-
-- a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási programot működtet,
-- b) rászorultsági alapú támogatást biztosít,
-- c) tehetséggondozó programok működését támogatja.
-
-(3) Az (1) bekezdés szerinti gazdasági tevékenység végzése versenykörülmények között, a piaci verseny feltételei mellett történik, a tevékenység végzése kifejezetten nyereségorientált. A vagyonkezelés kockázatát a vagyonkezelő alapítvány vállalja. A vagyonkezelő alapítvány az (1) bekezdésben foglalt tevékenységen túl gazdasági tevékenységet – a gazdasági társaságoktól eltérően – nem folytathat.
+2. §
 
 #### 2. Az Alapítvány részére történő vagyonjuttatás
 
 3. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdésében és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdésében foglaltak alapján – a preambulumban meghatározott célok megvalósítása érdekében – az alapító okirat szerint
 
 - a)
-- b) az Egyetem – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 4. § (2) bekezdésében meghatározott – fenntartói jogát – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérve – alapítói vagyoni juttatásként, az Alapítvány tulajdonába
+- b) a Budapesti Corvinus Egyetem (a továbbiakban: Egyetem) – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 4. § (2) bekezdésében meghatározott – fenntartói jogát – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérve – alapítói vagyoni juttatásként, az Alapítvány tulajdonába
 
 kell adni.
 
@@ -49,9 +41,9 @@ kell adni.
 
 (2) Az (1) bekezdés szerint ingyenesen tulajdonba adott ingatlan tekintetében nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdésében foglaltakat.
 
-(3) A miniszter, illetve az Alapítvány 2020. június 30-ig köteles az (1) bekezdés szerinti ingatlan ingyenes használatát biztosítani a Nemzeti Közszolgálati Egyetem számára.
+(3)
 
-(4) Az Alapítvány további vagyonának biztosításáról a Kormány gondoskodik.
+(4)
 
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
@@ -71,7 +63,7 @@ kell adni.
 
 (2) Az 5. § alapján ingyenesen tulajdonba adott ingatlanok tekintetében – a 2. mellékletben foglalt táblázat 4. sorában meghatározott ingatlant ide nem értve – nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdésében foglaltakat.
 
-(3) Az Egyetem a tulajdonába adott ingatlanokat – az 5. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem tulajdonába adott ingatlanokat értékesíti, akkor az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét az alaptevékenységét szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+(3) Az Egyetem a tulajdonába adott ingatlanokat – az 5. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem tulajdonába adott ingatlanokat értékesíti, akkor az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 1. mellékletében meghatározott közfeladatok ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
 
 (4) A 4. § és az 5. § alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
@@ -83,7 +75,7 @@ kell adni.
 
 8. § A 3. §, a 4. § (2) bekezdése, a 6. § (1) és (2) bekezdése, valamint a 9. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
-9. §
+9. § A 6. § (3) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2019. évi XXX. törvényhez
 
