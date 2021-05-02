@@ -385,7 +385,7 @@ biztosítja az alapítványnak.
 
 (3) E törvény 13. § (10) bekezdése az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül.
 
-33. § Hatályát veszti a Vatv. 10/A–10/C. §-a, 11/A–11/C. §-a és 1. melléklete.
+33. §
 
 ### 1. melléklet a 2021. évi IX. törvényhez
 

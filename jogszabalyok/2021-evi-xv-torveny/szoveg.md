@@ -40,27 +40,17 @@ Az Országgyűlés az Alaptörvény P) cikk (1) bekezdésében foglalt – minde
 
 #### 4. A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény módosítása
 
-7. § A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény (a továbbiakban: NFA tv.) 20/A. §-a a következő (1a) bekezdéssel egészül ki:
+7. §
 
-„(1a) Mintagazdasági földhasználati szerződést köthet közfeladatot ellátó közérdekű vagyonkezelő alapítvány is a kizárólagos tulajdonában álló vagy általa létesített, illetve fenntartott, e törvény szerinti mintagazdasággal azon földekre, amelyekre közfeladathoz rendelt vagyonkezelői joga áll fenn.”
-
-8. § Az NFA tv.
-
-- a) 15/A. § (3) bekezdés nyitó szövegrészében az „állam” szövegrész helyébe az „állam vagy közfeladatot ellátó közérdekű vagyonkezelő alapítvány” szöveg,
-- b) 15/A. § (3) bekezdés a) pontjában az „állami” szövegrész helyébe az „állami vagy közfeladatot ellátó közérdekű vagyonkezelő alapítványi” szöveg
-
-lép.
+8. §
 
 #### 5. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása
 
-9. § Hatályát veszti az Nvtv.
-
-- a) 16. § (1) bekezdés r) pontja, és
-- b) 2. melléklet I. pontjában foglalt táblázatában a Mezőhegyesi Állami Ménes Lótenyésztő- és Értékesítő Kft.-re vonatkozó sor.
+9. §
 
 #### 6. A Nemzeti Ménesbirtok és Tangazdaságról szóló 2016. évi XCI. törvény hatályon kívül helyezése
 
-10. § Hatályát veszti a Nemzeti Ménesbirtok és Tangazdaságról szóló 2016. évi XCI. törvény.
+10. §
 
 ### 1. melléklet a 2021. évi XV. törvényhez
 

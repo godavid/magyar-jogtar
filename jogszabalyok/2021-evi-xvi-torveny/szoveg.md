@@ -46,7 +46,7 @@ A kultúrstratégiai jelentőségű tevékenységek finanszírozása, támogatá
 
 (3) A 7. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
-7. § Hatályát veszti az Nvtv. 2. melléklet III. pont 1. alpontjában foglalt táblázat 1.18. és 1.19. sora.
+7. §
 
 ### 1. melléklet a 2021. évi XVI. törvényhez
 

@@ -18,7 +18,7 @@ a Magyarország Kormánya és a Szlovák Köztársaság Kormánya között a kat
 
 5. § Az e törvény végrehajtásához szükséges intézkedésekről a honvédelemért felelős miniszter gondoskodik.
 
-6. § Hatályát veszti a Magyar Köztársaság Kormánya és a Szlovák Köztársaság Kormánya között a repülő és légvédelmi szakterületeken történő katonai együttműködésről szóló, Pozsonyban, 1998. február 4-én aláírt Megállapodás megerősítéséről és kihirdetéséről szóló 1998. évi LXXVI. törvény.
+6. §
 
 ### 1. melléklet a 2021. évi VII. törvényhez
 
