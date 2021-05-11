@@ -130,7 +130,7 @@ vonatkozó részletes szabályokat.
 
 (3) A települési (Budapesten a kerületi, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzat városképi vagy kereskedelmi szempontok alapján – az építésügyi, illetve a kereskedelmi jogszabályokkal összhangban – rendeletben meghatározhatja a nem lakás céljára szolgáló helyiség használatának, hasznosításának, illetve ezek megváltoztatásának módját, feltételeit.
 
-18. § (1) A lakóépület külön tulajdonban álló nem lakás céljára szolgáló helyiségének megváltoztatott használatához – a (3) bekezdés a) pontjában foglalt kivétellel, illetve a (3) bekezdés b) pontja szerinti eltéréssel – a közgyűlés hozzájáruló határozata, és az engedélyhez kötött építési munkák esetén a 21. § (1) bekezdés rendelkezésének alkalmazása nem szükséges.
+18. § (1) A lakóépület külön tulajdonban álló nem lakás céljára szolgáló helyiségének megváltoztatott használatához – a (3) bekezdés a) pontjában foglalt kivétellel, illetve a (3) bekezdés b) pontja szerinti eltéréssel – a közgyűlés hozzájáruló határozata nem szükséges.
 
 (2) Ha a lakóépület külön tulajdonban álló nem lakás céljára szolgáló helyiségének megváltoztatott használata jogszabályban meghatározott telepengedély-köteles tevékenységhez vagy kizárólag üzletben forgalmazható termék (üzletköteles termék) forgalmazására szolgáló üzlet üzemeltetésére jogosító működési engedélyhez kötött tevékenységhez szükséges, a hatóság az engedélyről a (3) bekezdés szerinti – határidőben meghozott – közgyűlési határozat figyelembevételével dönt, feltéve, hogy a határozatban foglaltak az engedélyezés során alkalmazandó jogszabályokat nem sértik.
 
@@ -154,13 +154,11 @@ vonatkozó részletes szabályokat.
 
 (2) A közösség köteles megtéríteni az (1) bekezdés c) pontja szerinti beavatkozással okozott kárt.
 
-21. § (1) Az építtető tulajdonostárs a lakásában tervezett olyan építkezés megkezdéséhez, amely miatt az alapító okiratot nem kell módosítani, de a munka az alapító okiratban közös tulajdonként megjelölt épületberendezésre történő csatlakozással vagy a közös épületrész, épületberendezés műszaki állapotának megváltozásával jár együtt, az épület biztonságának, állékonyságának megőrzése érdekében köteles az ilyen munkával közvetlenül érintett tulajdonostársak tulajdoni hányada szerinti legalább kétharmadának írásbeli hozzájáruló nyilatkozatát beszerezni.
+21. § (1) Az építtető tulajdonostárs a közgyűlés hozzájáruló nyilatkozatának beszerzése nélkül jogosult a lakásában tervezett olyan építkezés elvégzésére, amely miatt az alapító okiratot nem kell módosítani és amely nem érinti az 1. § (2) bekezdésében meghatározott közös tulajdont.
 
-(2) Az építtető tulajdonostárs a többi tulajdonostárs hozzájáruló nyilatkozatának beszerzése nélkül jogosult a lakásában tervezett olyan építkezés elvégzésére, amely miatt az alapító okiratot nem kell módosítani és az (1) bekezdésben említett körülmények nem állnak fenn.
+(2) Ha az építtető tulajdonostárs lakásában végzett építési munka olyan lakásmegosztást vagy lakásösszevonást eredményez, amelynek alapján a többi tulajdonostárs alapító okiratban meghatározott tulajdoni hányada változatlan marad, a közgyűlés az összes tulajdoni hányad szerinti legalább egyszerű szavazattöbbségű határozatával az alapító okiratot módosíthatja.
 
-(3) Ha a (2) bekezdésben említett munka olyan lakásmegosztást vagy lakásösszevonást eredményez, amelynek alapján a többi tulajdonostárs alapító okiratban meghatározott tulajdoni hányada változatlan marad, a közgyűlés az összes tulajdoni hányad szerinti legalább egyszerű szavazattöbbségű határozatával az alapító okiratot módosíthatja.
-
-(4) A közgyűlés (3) bekezdésben említett határozata az ingatlan-nyilvántartásba bejegyzésre alkalmas okirat; a határozatot közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba kell foglalni.
+(3) A közgyűlés (2) bekezdés szerinti határozata az ingatlan-nyilvántartásba bejegyzésre alkalmas okirat; a határozatot közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba kell foglalni.
 
 22. § (1) A szervezeti-működési szabályzat előírhatja, hogy a tulajdonostárs köteles a közös képviselőnek vagy az intézőbizottság elnökének bejelenteni:
 
@@ -273,6 +271,7 @@ vonatkozó részletes szabályokat.
 - f) a közös képviselő (az intézőbizottság elnöke, tagja), illetőleg a számvizsgáló bizottság elnöke, tagja (az ellenőrzési feladatot ellátó tulajdonostárs) ellen kártérítési per indításáról, illetőleg büntetőfeljelentés megtételéről;
 - g) polgári jogi vita esetén permegelőző közvetítői eljárás kezdeményezéséről;
 - h) minden olyan ügyben, amelyet a szervezeti-működési szabályzat nem utal a közös képviselő vagy az intézőbizottság, illetőleg a számvizsgáló bizottság hatáskörébe.
+- i) az építtető tulajdonostárs lakásában tervezett olyan építési munkához történő hozzájárulásról, amely érinti az 1. § (2) bekezdésében meghatározott közös tulajdont.
 
 (2) A közgyűlés határozatának – szó szerint – tartalmaznia kell a napirendi pont tárgyát, a megszavazott döntést, továbbá a teljesítés érdekében megszavazott feltételek esetén a határozat végrehajtásának módját, illetőleg feltételeit.
 
