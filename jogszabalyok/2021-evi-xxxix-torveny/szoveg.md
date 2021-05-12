@@ -110,23 +110,11 @@ a településtervezéssel összefüggő egyes törvények módosításáról
 
 #### 14. A társasházakról szóló 2003. évi CXXXIII. törvény módosítása
 
-41. § A társasházakról szóló 2003. évi CXXXIII. törvény (a továbbiakban: Thtv.) 18. § (1) bekezdése helyébe a következő rendelkezés lép:
+41. §
 
-„(1) A lakóépület külön tulajdonban álló nem lakás céljára szolgáló helyiségének megváltoztatott használatához – a (3) bekezdés a) pontjában foglalt kivétellel, illetve a (3) bekezdés b) pontja szerinti eltéréssel – a közgyűlés hozzájáruló határozata nem szükséges.”
+42. §
 
-42. § A Thtv. 21. §-a helyébe a következő rendelkezés lép:
-
-„21. § (1) Az építtető tulajdonostárs a közgyűlés hozzájáruló nyilatkozatának beszerzése nélkül jogosult a lakásában tervezett olyan építkezés elvégzésére, amely miatt az alapító okiratot nem kell módosítani és amely nem érinti az 1. § (2) bekezdésében meghatározott közös tulajdont.
-
-(2) Ha az építtető tulajdonostárs lakásában végzett építési munka olyan lakásmegosztást vagy lakásösszevonást eredményez, amelynek alapján a többi tulajdonostárs alapító okiratban meghatározott tulajdoni hányada változatlan marad, a közgyűlés az összes tulajdoni hányad szerinti legalább egyszerű szavazattöbbségű határozatával az alapító okiratot módosíthatja.
-
-(3) A közgyűlés (2) bekezdés szerinti határozata az ingatlan-nyilvántartásba bejegyzésre alkalmas okirat; a határozatot közokiratba vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett magánokiratba kell foglalni.”
-
-43. § A Thtv. 28. § (1) bekezdése a következő i) ponttal egészül ki:
-
-(A közgyűlés kizárólagos hatáskörében határoz:)
-
-„i) az építtető tulajdonostárs lakásában tervezett olyan építési munkához történő hozzájárulásról, amely érinti az 1. § (2) bekezdésében meghatározott közös tulajdont.”
+43. §
 
 #### 15. A Tisza-völgy árvízi biztonságának növelését, valamint az érintett térség terület- és vidékfejlesztését szolgáló program (a Vásárhelyi-terv továbbfejlesztése) közérdekűségéről és megvalósításáról szóló 2004. évi LXVII. törvény módosítása
 
@@ -237,7 +225,7 @@ a településtervezéssel összefüggő egyes törvények módosításáról
 79. § A Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény
 
 - a)
-- b) 19/A. § (4) bekezdésében az „alkalmazandóak” szövegrész helyébe a „megfelelően alkalmazandóak” szöveg, a „Vagyonkezelő” szövegrészek helyébe a „vagyonkezelő” szöveg, a „keletkezik” szövegrész helyébe a „keletkezik. Az e bekezdés szerinti vagyonkezelőre nem vonatkoznak a 17. § (2) bekezdésében meghatározott, Vagyonkezelőre és vagyonkezelési tevékenységre vonatkozó előírások.” szöveg
+- b)
 
 lép.
 
