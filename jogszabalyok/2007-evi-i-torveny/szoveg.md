@@ -290,9 +290,9 @@ tartózkodási jogát igazoló okmány
 
 27. § (1) Az EGT-állampolgár, valamint a családtag Magyarország területén lévő első lakóhelyét, korábbi szokásos tartózkodási hely szerinti országát a regisztrációs igazolás, illetve a tartózkodási kártya kiállításával kapcsolatos eljárásban jelenti be a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény rendelkezéseinek megfelelően.
 
-(2) Az eljáró idegenrendészeti hatóság a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadása céljából az EGT-állampolgár, valamint a családtag nyilvántartott személyazonosító adatairól és lakcím adatairól, valamint regisztrációs igazolásának vagy tartózkodási kártyájának adatairól értesíti a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervet.
+(2) Az eljáró idegenrendészeti hatóság a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadása céljából az EGT-állampolgár, valamint a családtag nyilvántartott személyazonosító adatairól és lakcím adatairól, valamint regisztrációs igazolásának vagy tartózkodási kártyájának adatairól értesíti Budapest Főváros Kormányhivatalát (a továbbiakban: kijelölt kormányhivatal).
 
-(3) A regisztrációs igazolás, illetve a tartózkodási kártya érvénytelenségéről az eljáró idegenrendészeti hatóság értesíti a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervet.
+(3) A regisztrációs igazolás, illetve a tartózkodási kártya érvénytelenségéről az eljáró idegenrendészeti hatóság értesíti a kijelölt kormányhivatalt.
 
 28. § (1) Az EGT-állampolgár, valamint a családtag úti okmányának, személyazonosító igazolványának, illetve a tartózkodási jogát igazoló okmányának eltulajdonítását, megsemmisülését, elvesztését, továbbá az elveszettnek hitt és bejelentett okmány megtalálását köteles bejelenteni.
 
@@ -866,7 +866,7 @@ foglalt résznyilvántartásokból szolgáltathat adatot.
 - b) bejelentett lakóhelyének megszűnéséről,
 - c) adatai nyilvántartásának megszüntetéséről.
 
-(2) Az eljáró idegenrendészeti hatóság tájékoztatja a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervet
+(2) Az eljáró idegenrendészeti hatóság tájékoztatja a kijelölt kormányhivatalt
 
 - a) a tartózkodási jog megszűnéséről és a tartózkodási jog gyakorlásával való felhagyás megállapításáról,
 - b) az EGT-állampolgár és a családtag külföldön bekövetkezett haláláról, nevének megváltozásáról.
@@ -1037,11 +1037,23 @@ c) aki a szabad mozgás és tartózkodás jogával rendelkező személyek beutaz
 - g) a magyar állampolgár harmadik országbeli állampolgár családtagja Magyarország területét hat hónapnál hosszabb ideig elhagyta, vagy
 - h) a harmadik országbeli állampolgár családi kapcsolatra tekintettel kiadott tartózkodási kártyája vagy állandó tartózkodási kártyája esetén magyar állampolgár házastársa Magyarország területét a külföldi letelepedés szándékával elhagyta.
 
+(2a) Ha a magyar állampolgár harmadik országbeli állampolgár családtagja részére kiadott tartózkodási kártya vagy állandó tartózkodási kártya érvényessége a (2) bekezdés szerinti kérelem előterjesztésekor lejárt, igazolási kérelmet a mulasztásról való tudomásszerzést, vagy az akadály megszűnését követő öt napon belül, de legkésőbb a tartózkodási kártya vagy az állandó tartózkodási kártya érvényességének lejáratától számított hat hónapon belül lehet előterjeszteni. Az igazolási kérelem elbírálása során a Harmtv. rendelkezéseit kell alkalmazni.
+
+(2b) Ha a magyar állampolgár harmadik országbeli állampolgár családtagja az állandó tartózkodási kártya kiadása előtt bevándorolt vagy letelepedett jogállással rendelkezett, a státusza nem került visszavonásra és nem jogosult a (2) bekezdés szerinti nemzeti letelepedési engedélyre, részére a korábbi jogállását igazoló okmány hivatalból kerül kiállításra, kivéve, ha
+
+- a) a (2) bekezdés c) vagy d) pontjában meghatározott feltételek fennállnak,
+- b) a Harmtv. 37. §-a szerinti, a bevándorlási vagy letelepedési engedély visszavonására vonatkozó feltételek fennállnak vagy
+- c) a bevándorlási vagy letelepedési engedély kiállítását jogszabály kizárja.
+
+(2c) Ha a (2b) bekezdés szerint a korábbi jogállást igazoló okmány kiállítása nem lehetséges, a státuszt a Harmtv. szerint vissza kell vonni.
+
+(2d) A (2) bekezdés szerinti nemzeti letelepedési kérelem tárgyában hozott elutasító döntésben a (2c) bekezdés szerinti visszavonásról is rendelkezni kell.
+
 (3) A (2) bekezdés c) pontja tekintetében a Harmtv. letelepedési engedély kiadására vonatkozó szabályai szerint meg kell keresni a kijelölt szakhatóságokat szakhatósági vélemény kérése céljából.
 
 (4) A magyar állampolgár családtagjaként érvényes tartózkodási kártyával vagy állandó tartózkodási kártyával rendelkező harmadik országbeli állampolgár tartózkodási kártyáját vagy állandó tartózkodási kártyáját vissza kell vonni
 
-- a) (2) bekezdés a), b) és f)–h) pontjában meghatározott esetekben,
+- a) a (2) bekezdés a), b) és e)–h) pontjában meghatározott esetben,
 - b) ha a harmadik országbeli állampolgár tartózkodása sérti Magyarország közrendjét, köz- vagy nemzetbiztonsági érdekét.
 
 (5) A (4) bekezdés b) pontjában meghatározott szakkérdésben a Harmtv. letelepedési engedély kiadására vonatkozó szabályai szerint meg kell keresni a kijelölt szakhatóságokat szakhatósági vélemény kérése céljából.

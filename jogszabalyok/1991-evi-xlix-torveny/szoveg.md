@@ -952,7 +952,7 @@ folytatható le.
 - d) nem tagja olyan gazdasági társaságnak, amelyben felelőssége korlátlan,
 - e) írásban hozzájárul a névjegyzékben szereplő adatok nyilvánosságához, és az abban foglaltakra vonatkozóan a névjegyzékbe való jelentkezéssel egyidejűleg – az adataik nyilvánosságra hozatalával érintett magánszemélyek hozzájáruló nyilatkozatának csatolásával – adatokat szolgáltat,
 - f) írásban vállalja, hogy az a)–e) pontokban és a (4) bekezdésben meghatározott adatokról, feltételekről, azok változásáról, valamint a (3) bekezdésben jelölt tényről a névjegyzéket vezető szervezetet legkésőbb a változás, illetve tény bekövetkezését követő öt napon belül írásban tájékoztatja, továbbá közzéteszi a honlapján azoknak a gazdálkodó szervezeteknek a nevét, székhelyét, cégjegyzékszámát, ahová felszámolóként, ideiglenes vagyonfelügyelőként, vagyonfelügyelőként, vagy végelszámolóként, pénzügyi gondnokként kirendelték, a kirendelés kezdetének és megszűnésének dátumával, továbbá az általa felszámolóbiztosként illetve vagyonfelügyelői tevékenység ellátásáért felelős, az e törvényben meghatározott szakirányú szakképzettséggel rendelkező személy nevével, hivatali levelezési címével együtt,,
-- g) igazolja, hogy legalább egy-egy felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyt, közgazdászt, jogi szakvizsgát tett jogászt, a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálót foglalkoztat – a könyvvizsgálót kivéve – munkaviszonyban.
+- g) igazolja, hogy legalább egy-egy fő közgazdászt, jogi szakvizsgát tett jogászt, a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálót, továbbá két fő, az (1) bekezdés szerinti szakképzettségű személyt foglalkoztat. A foglalkoztatott közgazdászok, jogi szakvizsgát tett jogászok, a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálók, valamint az (1) bekezdés szerinti szakképzettségű személyek közül – a könyvvizsgálót kivéve – legalább egy-egy főnek, összesen legalább két főnek munkaviszonyban kell állnia a felszámoló szervezettel.
 
 (2a) A (2) bekezdés g) pontja szerinti személyek esetében a 27/B. § (9) bekezdés szerinti hatósági bizonyítvány eredeti vagy hiteles másolati példányával kell igazolni, hogy velük szemben nem áll fenn a 27/B. § (8) bekezdésében meghatározott körülmény.
 
@@ -985,7 +985,7 @@ folytatható le.
   - fd) nyilvántartási számát,
 - g) a felszámoló gazdasági társaságnál foglalkoztatott felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyek – kizárólag az adott felszámolónál használt – elektronikus levelezési címét.
 
-(4a) A felszámolói névjegyzék adatai, valamint a felszámoló szervezetekről a 27/A. § (6a) bekezdés és a 66. § (6) bekezdés alapján vezetett hatósági nyilvántartások adatai közérdekből nyilvános adatok.
+(4a) A felszámolói névjegyzék adatai, valamint a felszámoló szervezetekről a 27/A. § (6a) bekezdése és a 66. § (6) bekezdése alapján vezetett hatósági nyilvántartások adatai – a (4) bekezdés b) pontjában megjelölt lakóhely és a (4) bekezdés f) pontjában megjelölt adatok kivételével – közérdekből nyilvános adatok.
 
 (5) A nyilvántartó szerv a felszámoló szervezet vezetőjére 30 000 forinttól 400 000 forintig terjedő bírságot szab ki, ha
 

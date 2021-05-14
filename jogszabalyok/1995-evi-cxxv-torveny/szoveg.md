@@ -1082,12 +1082,13 @@ határozza meg.
 (2) Az (1) bekezdésben foglaltaktól eltérően a nemzetbiztonsági ellenőrzés kezdeményezésére a 74. § i) pontjának
 
 - a) if) és ig) alpontjában megjelölt személy esetén a köztársasági elnök,
-- b) ie), il), im), it) és iv) alpontjában megjelölt személy, valamint az iu) alpontjában megjelölt személyek közül az Országgyűlési Őrség hivatásos állományába tartozó tábornok és tábornoki rendfokozattal rendszeresített beosztásba kinevezett személy esetén az Országgyűlés elnöke,
-- c) ib) és id) alpontjában megjelölt személy esetén a miniszterelnök,
+- b) ie), il), im) és iv) alpontjában megjelölt személy, valamint az iu) alpontjában megjelölt személyek közül az Országgyűlési Őrség hivatásos állományába tartozó tábornok és tábornoki rendfokozattal rendszeresített beosztásba kinevezett személy esetén az Országgyűlés elnöke,
+- c) ib) alpontjában megjelölt személy esetén, valamint – a h) pontban megjelölt kör kivételével – a 74. § i) pont id) alpontjában megjelölt személy esetén a miniszterelnök,
 - d) ia), ic), ih) és ii) alpontjában megjelölt személy esetén a tevékenység szerinti irányító miniszter,
 - e) ij) és it) alpontjában megjelölt személy esetén az állam nevében tulajdonosi jogokat gyakorló miniszter vagy a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 7/A. § (1) bekezdése alapján a tulajdonosi jogok gyakorlására kijelölt személy,
 - f) ik) alpontjában foglalt esetben az állomány szerint illetékes főigazgató,
 - g) iu) alpontjában megjelölt személyek esetén az Országgyűlési Őrség parancsnoka
+- h) id) alpontjában megjelölt személyek közül a nem országos illetékességű központi hivatal vezetője és vezetőhelyettese esetén a tevékenység szerinti irányító miniszter
 
 jogosult.
 
@@ -1135,6 +1136,8 @@ azt jóváhagyta.
 (5) Az (2)–(4a) bekezdésben meghatározott esetben a kezdeményezésre jogosult a nemzetbiztonsági ellenőrzés alá eső jogviszony létrehozásáról, illetve fenntartásáról értesíti a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatot.
 
 (6) A (4) vagy (4a) bekezdésben meghatározott esetben a Nemzeti Biztonsági Felügyelet nem adja ki a nemzetközi kötelezettségvállalás alapján biztonsági ellenőrzéssel védendő adatok megismeréséhez szükséges biztonsági tanúsítványt.
+
+(7) A nemzetbiztonsági ellenőrzés alá eső személyt foglalkoztató szerv tájékoztatja a nemzetbiztonsági ellenőrzésre hatáskörrel rendelkező nemzetbiztonsági szolgálatot arról, ha az érintett már nem tölt be nemzetbiztonsági ellenőrzés alá eső munkakört, ezért a nemzetbiztonsági ellenőrzés alá eső jogviszonya a továbbiakban nem áll fenn.
 
 ### A nemzetbiztonsági ellenőrzés lefolytatása
 

@@ -66,12 +66,15 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 
 - a) vonatkozásában vízitársulat vagyonkezelői joga vagy kezelői joga van bejegyezve az ingatlan-nyilvántartásba, vagy
 - b) vízitársulat üzemeltetésében állnak és az ingatlan-nyilvántartásba bejegyzett vagyonkezelő Nemzeti Földalap kezelésére kijelölt szerv, a Magyar Nemzeti Vagyonkezelő Zrt., a fővárosi, megyei kormányhivatal, illetve az előbbiek bármelyikének valamely jogelőd szerve, vagy a vízitársulat üzemeltetésében állnak, és amelyek vonatkozásában nincsen bejegyezve az ingatlan-nyilvántartásba vagyonkezelő vagy kezelő,
+- c) vonatkozásában olyan gazdálkodó szervezet kezelői joga van bejegyezve az ingatlan-nyilvántartásba, amelynek kezelői joga a törvény erejénél fogva megszűnt és nem rendelkezik az állami tulajdonú ingatlan tulajdonosi joggyakorlójával megkötött ingatlan használatára jogcímet biztosító szerződéssel, valamint amennyiben vagyonkezelése, üzemeltetése e törvény előírása szerint a vízügyi igazgatási szerv feladatkörébe tartozik,
 
 e törvény erejénél fogva a működési terület szerinti vízügyi igazgatási szerv vagyonkezelésébe kerülnek.
 
 (4) A (3) bekezdésben meghatározott vagyonkezelői jog létesítése ingyenesen történik.
 
 (5) Az ingatlanügyi hatóság a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (7a) bekezdésében foglalt feltételek fennállása esetén, a vízügyi igazgatási szerv egyoldalú nyilatkozatát tartalmazó kérelme alapján bejegyzi a vízilétesítmények vonatkozásában a vízügyi igazgatási szerv vagyonkezelői jogát az ingatlan-nyilvántartásba, és – amennyiben az a bejegyzéshez szükséges – egyidejűleg törli a (3) bekezdésben megjelölt szerv vagyonkezelői jogát vagy kezelői jogát az ingatlan-nyilvántartásból.
+
+(5a) A (3) bekezdés c) pontja szerinti esetben a vízügyi igazgatási szerv a kérelméhez csatolja a tulajdonosi joggyakorló közokiratba vagy teljes bizonyító erejű magánokiratba foglalt arra vonatkozó nyilatkozatát, hogy a tulajdonosi joggyakorló és az ingatlan-nyilvántartásba bejegyzett kezelői jog jogosultja között nincs érvényben az ingatlan használatára jogcímet biztosító szerződés.
 
 (6) A vízitársulat az üzemeltetési és fenntartási feladatokat az (5) bekezdés szerinti ingatlanügyi hatósági határozat kézhezvételének napjáig látja el.
 

@@ -178,7 +178,7 @@ rendelkezik;
 - h) elismerésének feltételei már az elismerő határozat meghozatalakor sem álltak fenn;
 - i) a menekültügyi eljárás során lényeges tényt vagy tényeket elhallgatott, vagy ilyen tényre vagy tényekre vonatkozó valótlan nyilatkozatot tett, illetve hamis vagy hamisított dokumentumokat használt fel, feltéve, hogy ez a menekültkénti elismerését érdemben befolyásolta.
 
-(3) A menekültügyi hatóság az elismerést visszavonja, ha a menekülttel szemben a 8. § (5) bekezdése szerinti kizáró ok áll fenn.
+(3) A menekültügyi hatóság az elismerést visszavonja, ha a menekülttel szemben a 8. § (4) vagy (5) bekezdése szerinti kizáró ok áll fenn.
 
 (4) A (2) bekezdés e) pontja nem alkalmazható arra a menekültre, aki korábbi üldöztetéséből fakadó alapos okot tud felhozni származási országa védelmének elutasítására.
 
@@ -427,6 +427,7 @@ rendelkezik;
 - d) az elismerését kérő őrizetbe vétele a nemzetbiztonság vagy a közrend védelme érdekében szükséges,
 - e) a kérelem előterjesztésére repülőtéri eljárásban került sor, vagy
 - f) a dublini átadási eljárások biztosítása érdekében szükséges, és komoly veszély áll fenn a szökésre.
+- g) arra annak megállapítása érdekében van szükség, hogy a kérelmező beléphet-e az ország területére.
 
 (1a) A dublini eljárás lefolytatása érdekében a menekültügyi hatóság menekültügyi őrizetbe veheti azt a külföldit, aki Magyarországon menedékjog iránti kérelmet nem terjesztett elő, esetében dublini átadásnak lehet helye, és szökésének komoly veszélye áll fenn.
 
@@ -440,13 +441,13 @@ rendelkezik;
 
 (5) A menekültügyi őrizetet határozattal kell elrendelni, és azt a közléssel egyidejűleg végre kell hajtani.
 
-(6) Menekültügyi őrizet legfeljebb hetvenkét órára rendelhető el. A menekültügyi hatóság a menekültügyi őrizet hetvenkét órán túli meghosszabbítását az elrendeléstől számított huszonnégy órán belül indítványozhatja az őrizet helye szerint illetékes járásbíróságnál az ügyfél által beszélt nyelv feltüntetésével az illetékes járásbíróság általi tolmácskirendelés érdekében. A bíróság legfeljebb hatvan nappal hosszabbíthatja meg az őrizet időtartamát, amely időtartam a menekültügyi hatóság kezdeményezésére újabb legfeljebb hatvan nappal hosszabbítható meg. A menekültügyi hatóság őrizet meghosszabbítására irányuló indítványt többször is előterjeszthet úgy, hogy az őrizet teljes időtartama nem haladhatja meg a hat hónapot. A meghosszabbításra vonatkozó indítványnak a meghosszabbítás esedékességének napját megelőzően legalább nyolc munkanappal kell megérkeznie a bírósághoz. A menekültügyi hatóság az indítványát köteles megindokolni.
+(6) Menekültügyi őrizet legfeljebb hetvenkét órára rendelhető el. A menekültügyi hatóság a menekültügyi őrizet hetvenkét órán túli meghosszabbítását az elrendeléstől számított huszonnégy órán belül indítványozhatja az őrizet helye szerint illetékes járásbíróságnál az ügyfél által beszélt nyelv feltüntetésével az illetékes járásbíróság általi tolmácskirendelés érdekében. A bíróság legfeljebb hatvan nappal hosszabbíthatja meg az őrizet időtartamát, amely időtartam a menekültügyi hatóság kezdeményezésére újabb legfeljebb hatvan nappal hosszabbítható meg. A menekültügyi hatóság őrizet meghosszabbítására irányuló indítványt többször is előterjeszthet úgy, hogy az őrizet teljes időtartama nem haladhatja meg a nyolc hónapot. A meghosszabbításra vonatkozó indítványnak a meghosszabbítás esedékességének napját megelőzően legalább nyolc munkanappal kell megérkeznie a bírósághoz. A menekültügyi hatóság az indítványát köteles megindokolni.
 
-(7) A menekültügyi őrizet hat hónapnál – a kiskorú gyermekkel rendelkező család esetében harminc napnál – nem tarthat tovább.
+(7) A menekültügyi őrizet nyolc hónapnál – a kiskorú gyermekkel rendelkező család esetében harminc napnál – nem tarthat tovább.
 
 (8) A menekültügyi őrizetet haladéktalanul meg kell szüntetni, ha
 
-- a) az elrendelésétől számítva hat hónap – a kiskorú gyermekkel rendelkező család esetében harminc nap – eltelt,
+- a) az elrendelésétől számítva nyolc hónap – a kiskorú gyermekkel rendelkező család esetében harminc nap – eltelt,
 - b) az elrendelésének oka megszűnt,
 - c) megállapításra kerül, hogy az őrizetbe vett elismerését kérő kísérő nélküli kiskorú,
 - d) az őrizetbe vett elismerését kérő egészségügyi állapota miatt huzamos kórházi kezelést igényel,
@@ -1110,7 +1111,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (7a)
 
-(8) A bíróság a keresetről – a keresetlevél bírósághoz érkezésétől számított – nyolc napon belül dönt. Az eljárásban személyes meghallgatásnak nincs helye. A bíróság eljárást befejező érdemi határozatával szemben perújításnak nincs helye.
+(8) A bíróság a keresetről – a keresetlevél bírósághoz érkezésétől számított – nyolc napon belül dönt. Az eljárásban személyes meghallgatásnak nincs helye. A bíróság eljárást befejező érdemi határozatával szemben perorvoslatnak nincs helye.
 
 (9) A közigazgatási perben a keresetlevél benyújtásának, valamint az átadásról rendelkező végzés végrehajtásának felfüggesztésére irányuló kérelemnek nincs halasztó hatálya a végzés végrehajtására.
 
@@ -1182,7 +1183,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (4) A bíróság a keresetlevél bírósághoz érkezésétől számított nyolc napon belül dönt.
 
-(5) A bíróság a menekültügyi hatóság döntését nem változtathatja meg. A bíróság eljárást befejező érdemi határozatával szemben perújításnak nincs helye.
+(5) A bíróság a menekültügyi hatóság döntését nem változtathatja meg. A bíróság eljárást befejező érdemi határozatával szemben perorvoslatnak nincs helye.
 
 (6) A közigazgatási perben – az 51. § (2) bekezdés e) és (7) bekezdés h) pontja alapján hozott menekültügyi döntések kivételével – a keresetlevél benyújtásának nincs halasztó hatálya a döntés végrehajtására.
 
@@ -1334,7 +1335,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (5) A bíróság a menekültügyi hatóság döntését nem változtathatja meg.
 
-(6) A bíróság eljárást befejező érdemi határozatával szemben perújításnak nincs helye.
+(6) A bíróság eljárást befejező érdemi határozatával szemben perorvoslatnak nincs helye.
 
 ### Menekültkénti elismerés kivételes méltányosságból
 
@@ -1441,7 +1442,7 @@ a tranzitzónában nyújtja be, e fejezet rendelkezéseit az e §-ban foglalt el
 - a) a lakóhelyéről nem idézhető, vagy
 - b) ismeretlen helyre távozott.
 
-(5) A bíróság eljárást befejező érdemi határozatával szemben perújításnak nincs helye.
+(5) A bíróság eljárást befejező érdemi határozatával szemben perorvoslatnak nincs helye.
 
 ### A menekültkénti, oltalmazottkénti és befogadottkénti elismerés feltételei fennállásának felülvizsgálata
 
@@ -1579,11 +1580,7 @@ meghaladja,
 
 (2) Tömeges bevándorlás okozta válsághelyzet fennállásakor az (1) bekezdésben meghatározott építmények az épített környezet alakításáról és védelméről szóló törvény szerinti nemzetbiztonsági célú sajátos építményfajtának minősülnek.
 
-80/E. § Tömeges bevándorlás okozta válsághelyzet fennállásakor
-
-- a) az államhatárról szóló 2007. évi LXXXIX. törvény 5. § (1) bekezdésében és 15/A. §-ában meghatározott, valamint a menedékjogról szóló törvény és a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek elhelyezésére, ellátására és fogvatartására szolgáló építmények építése, telepítése és üzemeltetése,
-- b) a menedékjogról szóló törvény és a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek ellátását szolgáló közművek és csatlakozó elemeik kiépítése, és
-- c) a menekültügyi és idegenrendészeti feladatok ellátásával közvetlenül összefüggő beszerzések az ország alapvető biztonságával összefüggő beszerzésnek minősülnek, a közbeszerzésekről szóló törvény rendelkezéseit nem kell alkalmazni.
+80/E. §
 
 80/F. § Tömeges bevándorlás okozta válsághelyzet fennállása esetén az egészségügyi államigazgatási szerv haladéktalanul megvizsgálja, hogy a járványügyi intézkedések elrendelésének jogszabályban meghatározott feltételei fennállnak-e.
 
