@@ -40,11 +40,11 @@ A postai szolgáltatások fejlődése és liberalizációja, az Európai Unió j
 - 15a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 - 16. gyűjtés: a felvételi pontokon a felvételt vagy a szolgáltatói hozzáférési pontokon a hálózati átvételt követően a postai küldemények feldolgozás helyére történő eljuttatása;
 - 17. hálózati átvétel: az a – postai szolgáltatók között lezajló – tevékenység, amely során a postai küldemény a postai szolgáltatási szerződést megkötő postai szolgáltatótól hálózati hozzáférési szerződés alapján egy másik postai szolgáltató hálózatába kerül;
-- 18. hivatalos irat: az állami vagy önkormányzati szervek, valamint a jogszabályban meghatározott egyéb szervek vagy személyek jogszabályban meghatározott eljárásában papír alapon, elektronikus adathordozón vagy elektronikus hírközlési hálózat igénybevételével feladott vagy ilyen módon kézbesített, könyvelt postai küldemény, amelynek feladásához vagy kézbesítéséhez (illetve a kézbesítés megkísérléséhez), vagy azok időpontjához jogszabály jogkövetkezményt fűz, illetve amely jogszabályban meghatározott határidő számításának alapjául szolgál, továbbá amit jogszabály hivatalos iratnak minősít;
+- 18. hivatalos irat: az állami vagy önkormányzati szervek, valamint a jogszabályban meghatározott egyéb szervek vagy személyek által – papíralapon, elektronikus adathordozón vagy elektronikus hírközlési hálózat igénybevételével – feladott vagy ilyen módon kézbesített, olyan könyvelt postai küldemény, amelynek feladásához vagy kézbesítéséhez (illetve a kézbesítés megkísérléséhez), vagy azok időpontjához jogszabály jogkövetkezményt fűz, illetve amely jogszabályban meghatározott határidő számításának alapjául szolgál, továbbá amit jogszabály hivatalos iratnak minősít;
 - 19. időgarantált szolgáltatás: a postai szolgáltató kötelezettségvállalása, amellyel a postai küldemény meghatározott időtartamon belüli vagy meghatározott időpontban történő kézbesítésére vállal kötelezettséget;
 - 20. kézbesítés: azon tevékenység, amely során a postai küldemény a postai szolgáltató hálózatából, illetve személyes felügyelet alól az átvételre jogosult személy részére történő átadással vagy levélszekrénybe, továbbá egyéb, a küldemény kézbesítésére alkalmas eszközbe történő elhelyezéssel kikerül;
 - 21. kézbesítési pont: a postai küldemény kézbesítése céljából a postai szolgáltató által kijelölt, a felhasználók számára elérhető helyiség vagy hely, továbbá a postai szolgáltató által létesített, a kézbesítést lehetővé tevő eszköz;
-- 22. könyvelt küldemény: olyan postai küldemény, amelynek felvételét a postai szolgáltató írásban vagy más bizonyítható módon elismeri és kézbesítését a jogosult átvevővel az erre szolgáló okiraton, vagy az aláírást rögzítő vagy a jogosult átvevő személyét azonosító egyéb technika alkalmazásával elismerteti;
+- 22. könyvelt küldemény: olyan postai küldemény, amelynek felvételét a postai szolgáltató írásban vagy más bizonyítható módon a feladó irányában elismeri és kézbesítését a jogosult átvevővel az erre szolgáló okiraton, vagy az aláírást rögzítő vagy a jogosult átvevő személyét azonosító egyéb technika alkalmazásával elismerteti;
 - 23. küldeményenkénti díjszabás: olyan – a postai szolgáltató általános szerződési feltételeiben vagy ahhoz csatoltan közzétett – árlista, amely egy postai küldeménynek vagy az egy időben feladott több postai küldeménynek a feladott küldeménymennyiségtől függetlenül azonos darabonkénti díjait tartalmazza;
 - 24. levélküldemény: az a postai küldemény, amely írásos formában megjelenített, vagy fizikai adathordozón rögzített egyedi vagy személyes jellegű közlést, adatot vagy információt tartalmaz;
 - 24a. logisztikai szolgáltatás: a postai küldemény továbbítási folyamatának egészét vagy egy részét magában foglaló azon tevékenység, amely során megtervezik, megvalósítják, ellenőrzik a postai küldemények és kapcsolódó információk hatékony és eredményes tárolását és a feladótól a címzettig való eljuttatását;
@@ -72,6 +72,7 @@ A postai szolgáltatások fejlődése és liberalizációja, az Európai Unió j
 - 38. szállítás: a postai küldemények feldolgozási, szolgáltatói hozzáférési vagy kézbesítési pontok közötti továbbításának művelete;
 - 39. szolgáltatói hozzáférési pont: postai küldemények hálózati átvételére az átvevő postai szolgáltató által erre a célra kijelölt hely;
 - 39a. szoros kapcsolat: a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendeletben ekként meghatározott fogalom;
+- 39b. postai támpont: a közutak mentén a postai szolgáltató által kijelölt és üzemeltetett, felvételi pontnak és kézbesítési pontnak is minősülő, kézbesítésre alkalmas eszközzel ellátott hely, amely lehetővé teszi a postai küldemények felvételét és a címekhez rendelten biztosítja levélszekrénybe kézbesíthető postai küldemények kézbesítését, valamint – a kézbesítés megkísérlésének mellőzésével – a személyes átadással kézbesítendő postai küldemény érkezéséről szóló értesítő elhelyezését.
 - 40. tértivevény-szolgáltatás: járulékos szolgáltatásnak minősülő – könyvelt küldeményekhez igénybe vehető – postai többletszolgáltatás, amely alapján a postai szolgáltató a kézbesítés napját, valamint a jogosult átvevő nevét és aláírását rögzítő okiratot vagy erre irányuló szerződés esetén annak digitalizált változatát a feladónak visszajuttatja, vagy az aláírást rögzítő technikai eszközzel készített adatokat a feladó rendelkezésére bocsátja;
 - 41. többletszolgáltatás: a postai küldemény felvételéhez, gyűjtéséhez, feldolgozásához, szállításához vagy kézbesítéséhez kapcsolódó, a postai szolgáltatási szerződésben vállalt olyan további szolgáltatás, amelyet a postai szolgáltató a postai szolgáltatás részeként a feladó külön rendelkezése alapján vagy postai szolgáltatáscsomagba foglaltan nyújt;
 - 42. utánvétel-szolgáltatás: az a – könyvelt küldeményekhez igénybe vehető – többletszolgáltatás, amelynek teljesítése során a postai szolgáltató a postai küldeményt a feladó által meghatározott összeg készpénzben vagy egyéb módon történő beszedését követően kézbesíti, és az így beszedett összeget a címzett megbízásából a feladó részére a Hpt. 6. § (1) bekezdésében meghatározott valamely pénzforgalmi szolgáltatás keretében juttatja el;
@@ -114,7 +115,7 @@ lehet.
 - c) a vakok írását tartalmazó, belföldi vagy nemzetközi viszonylatú küldemények;
 - d) a hivatalos iratok.
 
-(3) Az egyetemes postai szolgáltatás keretében a szolgáltatónak biztosítania kell a feladó rendelkezése alapján a (2) bekezdés a) és c) pontjában meghatározott postai küldeményekhez az ajánlott, továbbá a (2) bekezdés a)–c) pontjában meghatározott postai küldeményekhez a tértivevény, illetve értéknyilvánítás-szolgáltatás igénybevételét, valamint a 19. § szerinti Egyetemes Postai Közszolgáltatási Szerződésben meghatározottak szerint az ott meghatározott fajtájú könyvelt küldeményekhez a nyomon követhető kezelést. Az egyetemes postai szolgáltató az Egyetemes Postai Közszolgáltatási Szerződésben közérdekből egyéb többletszolgáltatások nyújtására is kötelezhető.
+(3) Az egyetemes postai szolgáltatás keretében a szolgáltatónak biztosítania kell a feladó rendelkezése alapján a (2) bekezdés a) és c) pontjában meghatározott postai küldeményekhez az ajánlott, továbbá a (2) bekezdés a)–c) pontjában meghatározott postai küldeményekhez a tértivevény, illetve a (2) bekezdés b) pontjában meghatározott postai küldeményekhez az értéknyilvánítás-szolgáltatás igénybevételét, valamint a 19. § szerinti Egyetemes Postai Közszolgáltatási Szerződésben meghatározottak szerint az ott meghatározott fajtájú könyvelt küldeményekhez a nyomon követhető kezelést. Az egyetemes postai szolgáltató az Egyetemes Postai Közszolgáltatási Szerződésben közérdekből egyéb többletszolgáltatások nyújtására is kötelezhető.
 
 (4) Az egyetemes postai szolgáltató az egyetemes postai szolgáltatás általános szerződési feltételében az egyetemes postai szolgáltatáshoz a (3) bekezdésben foglaltakon túli többletszolgáltatást is meghirdethet.
 
@@ -327,7 +328,7 @@ szerződést nem köthet. A postai szolgáltató a már megkötött szerződése
 
 (2) Az egyetemes postai szolgáltatás keretében a postai küldemények felvételét és kézbesítését minden településen biztosítani kell.
 
-(3) Az egyetemes postai szolgáltató az egyetemes postai szolgáltatási kötelezettség teljesítéséhez szükséges hálózatát köteles úgy szervezni, hogy a felvételi pontok – bele nem értve a levélgyűjtő szekrényeket – ne legyenek légvonalban 5 km-nél távolabb a lakosság 95%-ától és légvonalban 10 km-nél távolabb a lakosság 99,5%-tól.
+(3) Az egyetemes postai szolgáltató az egyetemes postai szolgáltatási kötelezettség teljesítéséhez szükséges hálózatát köteles úgy szervezni, hogy a felvételi pontok – ide nem értve a postai támpontokat és a levélgyűjtő szekrényeket – ne legyenek légvonalban 5 km-nél távolabb a lakosság 95%-ától és légvonalban 10 km-nél távolabb a lakosság 99,5%-ától.
 
 (4) Az egyetemes postai szolgáltató
 
@@ -365,7 +366,7 @@ köteles – a személyes kézbesítés sikertelensége esetén a jogosult átve
 
 (6) Amennyiben a nyilvános pályázat kiírásának feltételei nem teljesülnek, úgy a Hatóság javaslatot tesz a miniszter részére az Egyetemes Postai Közszolgáltatási Szerződés meghosszabbítására.
 
-(7) Amennyiben az egyetemes postai szolgáltatónak az egyetemes szolgáltatás ellátása következtében felmerülő méltánytalan többletterhe megtérítésére a 22. § (1) bekezdése alapján létrehozott Egyetemes Postai szolgáltatást Támogató Számla – a 29. §-ban foglaltakra is tekintettel – nem hatékony eszköze, akkor a miniszter – az egyetemes postai szolgáltató vagy a Hatóság kezdeményezésére vagy saját jogkörében eljárva – megvizsgál minden olyan lehetséges eszközt, amellyel a méltánytalan többletteher felmerülése elkerülhető, vagy annak megtérítése hatékonyabbá tehető. Ennek keretében a miniszter megvizsgálja különösen annak lehetőségét, hogy az egyetemes postai szolgáltatás folyamatos biztosítása érdekében az engedélyes postai szolgáltatókra a Számlára fizetendő hozzájárulás helyett milyen, az adott szolgáltatások minőségére, rendelkezésre állására és teljesítésére vonatkozó követelmények írhatóak elő az (1)–(6) bekezdés szerinti elvek és szempontok figyelembe vételével.
+(7)
 
 #### 13. Egyetemes Postai Közszolgáltatási Szerződés
 
@@ -376,7 +377,7 @@ köteles – a személyes kézbesítés sikertelensége esetén a jogosult átve
 - a) a küldeményenkénti díjszabás alapján feladható nem elsőbbségi levélküldemények, valamint az egyetemes postai szolgáltatásként feladható csomagküldemények és egyéb tartalmú küldemények kötelezően teljesítendő átfutási idejét;
 - b) az elveszett, megsemmisült vagy megsérült könyvelt postai küldeményeknek a feladott könyvelt postai küldemények számához viszonyított maximális arányára vonatkozó – a szolgáltatás megbízhatóságát leíró – követelményeket;
 - c) az egyetemes postai szolgáltatás igénybevételét lehetővé tevő felvételi és kézbesítési pontok területi elhelyezkedésére és időbeli hozzáférhetőségére vonatkozó részletes követelményeket, szükség szerint a felvételi és kézbesítési pontok számát;
-- d) az egyetemes postai szolgáltató méltánytalan többletterhének a 29. § szerinti megtérítésére vonatkozó részletes szabályokat;
+- d) az egyetemes postai szolgáltató méltánytalan többletterhének a 21/A. § szerinti megtérítésére vonatkozó részletes szabályokat;
 - e) az egyetemes postai szolgáltatás igénybevételének akadályozottsága esetére vonatkozó részletes szabályokat;
 - f) a postabélyeg kibocsátására, forgalomba hozatalára és forgalomból történő kivonására, valamint érvényességére vonatkozó részletes szabályokat.
 
@@ -404,9 +405,21 @@ köteles – a személyes kézbesítés sikertelensége esetén a jogosult átve
 
 21. § (1) Az egyetemes postai szolgáltatási kötelezettség nettó költsége az egyetemes postai szolgáltatás nyújtásával kapcsolatban felmerülő költség. A nettó költség az egyetemes postai szolgáltató egyetemes postai szolgáltatási kötelezettséggel együtt járó és egyetemes postai szolgáltatási kötelezettség nélkül jelentkező nettó költségeinek különbözeteként számítható ki. A nettó költség számításkor figyelembe kell venni az egyetemes postai szolgáltatónál keletkező előnyöket, beleértve a nem tárgyi és piaci előnyöket, továbbá az ésszerű nyereséghez való jogot és a költséghatékonysági ösztönzőket.
 
+(1a) Ha az egyetemes postai szolgáltatás nettó költsége meghaladja az egyetemes postai szolgáltató egyetemes postai szolgáltatásokhoz kapcsolódó költségeinek 1 százalékát, ezen összeg az egyetemes postai szolgáltató méltánytalan többletterhe (továbbiakban: méltánytalan többletteher).
+
 (2)–(4)
 
-#### 16. Egyetemes Postai szolgáltatást Támogató Számla
+21/A. § (1) Az állam az egyetemes postai szolgáltató méltánytalan többletterhére figyelemmel kompenzációt biztosít, amelynek mértékét a miniszter határozza meg.
+
+(2) A méltánytalan többletteher kompenzációjának összegét a miniszter – egy vagy több részletben – állapítja meg, amely során a méltánytalan többletteher felmerülésével összefüggő valamennyi körülményt megvizsgálja.
+
+(3) A központi költségvetés terhére az egyetemes postai szolgáltató méltánytalan többletterhének kompenzációja évi 15 millió eurót meg nem haladó – illetve az Európai Bizottság jóváhagyó határozata alapján az abban meghatározott – összeg erejéig téríthető meg.
+
+(4) A méltánytalan többletteher kompenzációja megtérítésének mértékéről – a 15 millió eurót meg nem haladó rész, illetve az Európai Bizottság jóváhagyó határozatában meghatározott összeg erejéig – a miniszter dönt.
+
+(5) A méltánytalan többletteher kompenzációjának megtérítésére a miniszteri döntés időpontjában hatályos jogszabályok alkalmazandóak.
+
+#### 16.
 
 #### 22–23. §
 
@@ -420,7 +433,7 @@ köteles – a személyes kézbesítés sikertelensége esetén a jogosult átve
 
 25. § (1) Az Egyetemes Postaegyesület Alapokmányában meghatározott kijelölt szolgáltatóra vonatkozó jogok és kötelezettségek az egyetemes postai szolgáltatót jogosítják és kötelezik.
 
-(2) Az egyetemes postai szolgáltató az (1) bekezdés alapján nemzetközi postautalvány-szolgáltatást köteles nyújtani. Nemzetközi postautalványnak az a papír alapú nemzetközi viszonylatú készpénzküldési szolgáltatás minősül, amelyet az egyetemes postai szolgáltató az Egyetemes Postaegyesület Alapokmánya alapján megkötött nemzetközi szerződést kihirdető jogszabály vagy ezek rendelkezése szerint megkötött külön megállapodás alapján teljesít.
+(2) Az egyetemes postai szolgáltató az (1) bekezdés alapján nemzetközi postautalvány-szolgáltatást nyújthat. Nemzetközi postautalványnak az a papíralapú nemzetközi viszonylatú készpénzküldési szolgáltatás minősül, amelyet az egyetemes postai szolgáltató az Egyetemes Postaegyesület Alapokmánya alapján megkötött nemzetközi szerződést kihirdető jogszabály vagy ezek rendelkezése szerint megkötött külön megállapodás alapján teljesít.
 
 (3) Nemzetközi postautalvány-szolgáltatás tekintetében nem minősül az üzleti titok sérelmének a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) 26. § (2) és (3) bekezdése alapján a pénzügyi információs egységként működő hatóság és a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) részére történő adatátadás, továbbá a pénzátutalásokat kísérő adatokról és a 1781/2006/EK rendelet hatályon kívül helyezéséről szóló 2015. május 20-i 2015/847 európai parlamenti és tanácsi rendelet 4. cikkében meghatározott adatoknak a rendelet hatálya alá tartozó kedvezményezett pénzforgalmi szolgáltatója és közvetítő pénzforgalmi szolgáltató számára a rendelet által meghatározott esetekben történő továbbítása.
 
@@ -455,9 +468,11 @@ jogcím megjelölésére szolgáló, a Posta Elszámoló Központot működtető
 
 27/A. § Az egyetemes postai szolgáltató az olyan településeken történő szolgáltatásnyújtás biztosítása érdekében, amelyek bejelentett lakóhely szerinti népességszáma nem haladja meg a tízezret, pénzügyi intézménnyel is köthet olyan szerződést, amely alapján a pénzügyi intézmény az 5. §-ban meghatározott postai szolgáltatást, postai szolgáltatásokhoz kapcsolódó, kiegészítő tevékenységeket, fiókbérleti szolgáltatást, postai értékcikk- és a postai szolgáltatás igénybevételére szolgáló vagy ahhoz szükséges kereskedelmiáru-forgalmazást, továbbá a kizárólag az egyetemes postai szolgáltató által forgalmazott értékpapírokkal kapcsolatos szolgáltatást, szerencsejáték-közvetítő tevékenységet, a külön jogszabály szerinti SIM-kártya egyenlegének feltöltését, valamint illetékbélyeg-továbbértékesítést végez.
 
+27/B. § Az egyetemes postai szolgáltató jogosult a felvett postai küldemények feldolgozás helyére történő eljuttatása, vagy a postai küldemények feldolgozási, szolgáltatói hozzáférési vagy kézbesítési pontok közötti továbbításának elvégzése céljából foglalkoztatott munkavállalók esetében a beosztás szerinti napi munkaidőt legfeljebb 12 órában meghatározni abban az esetben is, ha a munkavállaló éjszakai munkát is végez.
+
 28. § Az egyetemes postai szolgáltató a felhasználók és a postai szolgáltatók számára a települési irányítószámokat tartalmazó adatbázisát internetes honlapján hozzáférhetővé teszi.
 
-29. § (1) Az egyetemes postai szolgáltató jogosult méltánytalan többletterhének megtéríttetésére.
+29. § (1)
 
 (2)
 
@@ -477,7 +492,7 @@ jogcím megjelölésére szolgáló, a Posta Elszámoló Központot működtető
 
 31. § (1) A település tervezésénél, rendezésénél, utak és közművek építésénél, korszerűsítésénél, egyéb építmények és más létesítmények megvalósításánál, felújításánál biztosítani kell a postai szolgáltatóhelyek, felvételi pontok és kézbesítési pontok, valamint az egyetemes postai szolgáltatás teljesítését lehetővé tevő egyéb eszközök (a továbbiakban együtt: postai létesítmény) elhelyezésének lehetőségét.
 
-(2) Az egyetemes postai szolgáltató jogosult a levélgyűjtő-szekrények, valamint az egyetemes postai szolgáltatás teljesítését lehetővé tevő egyéb eszköz közterületen történő díjmentes elhelyezésére, és rendeltetésszerű használatuk céljából azok akadály- és díjmentes, gyors megközelítésére. A közterület tulajdonosa az igénybevételt kizárólag abban az esetben tagadhatja meg, ha a levélgyűjtő-szekrény, valamint az egyetemes postai szolgáltatás teljesítését lehetővé tevő egyéb eszköz adott helyen történő elhelyezése jogszabályba ütközik.
+(2) Az egyetemes postai szolgáltató jogosult a levélgyűjtőszekrények, valamint az egyetemes postai szolgáltatás teljesítését lehetővé tevő egyéb eszköz – így különösen postai támpont – közterületen történő díjmentes elhelyezésére, és rendeltetésszerű használatuk céljából azok akadály- és díjmentes, gyors megközelítésére. A közterület tulajdonosa az igénybevételt akkor tagadhatja meg, ha a levélgyűjtőszekrény, valamint az egyetemes postai szolgáltatás teljesítését lehetővé tevő egyéb eszköz – így különösen postai támpont – adott helyen történő elhelyezése jogszabályba ütközik.
 
 (3) Az állam vagy a helyi önkormányzat az épületnek nem minősülő postai létesítmény közterületen való elhelyezéséhez szükséges tulajdonosi hozzájárulás és területhasználati engedély megadását csak abban az esetben tagadhatja meg, ha a tulajdonosi hozzájárulás megadása különös méltánylást érdemlő állami, települési vagy lakossági érdeket sértene, illetve, ha a területhasználati engedély megadása jogszabályban foglalt tilalomba ütközne.
 
@@ -548,7 +563,7 @@ jogcím megjelölésére szolgáló, a Posta Elszámoló Központot működtető
 
 (3) Az egyetemes postai szolgáltató és a postai közreműködő között létrejött szerződés abban az esetben minősül a közbeszerzésekről szóló törvény szerinti szolgáltatási koncessziós szerződésnek, amennyiben a postai közreműködő e tevékenységét oly módon végzi, hogy az ezzel kapcsolatos gazdasági kockázatot maga viseli. A postai közreműködő különösen abban az esetben viseli maga a gazdasági kockázatot, ha az általa végzett tevékenység ellenszolgáltatásaként nem átalánydíjra, hanem az elvégzett tevékenységgel arányos díjra jogosult, továbbá az általa végzett tevékenységgel okozott kárért az egyetemes postai szolgáltató irányában felelősséggel tartozik.
 
-37. § (1) Az egyetemes és az egyetemes postai szolgáltatást helyettesítő postai szolgáltatásokat nyújtó szolgáltató az 5. § a) és b) pontja szerinti szolgáltatás keretében feladott postai küldemények kézbesítési pontnak nem minősülő címhelyen való kézbesítését kizárólag a vele munkaviszonyban vagy tagsági jogviszonyban (ide nem értve a részvényest) álló természetes személyekkel, vagy – az e postai küldemények kézbesítését végző természetes személyek létszámának egyharmadáig –
+37. § (1) Az egyetemes és az egyetemes postai szolgáltatást helyettesítő postai szolgáltatásokat nyújtó szolgáltató az 5. § a) és b) pontja szerinti szolgáltatás keretében feladott levélküldemények és hivatalos iratok kézbesítési pontnak nem minősülő címhelyen való kézbesítését kizárólag a vele munkaviszonyban vagy tagsági jogviszonyban (ide nem értve a részvényest) álló természetes személyekkel, vagy – az e postai küldemények kézbesítését végző természetes személyek létszámának egyharmadáig –
 
 - a) személyesen eljáró postai közreműködő vagy
 - b) a postai közreműködővel munkaviszonyban vagy tagsági jogviszonyban (ide nem értve a részvényest) álló kézbesítést végző természetes személy
@@ -636,7 +651,7 @@ igénybevétele útján végezheti. A postai küldemények kézbesítését vég
 
 (10) Amennyiben a könyvelt postai küldeményt a postai szolgáltató személyes átadással kézbesíti, a személyazonosságot igazoló okmány elnevezését, betűjelét és számát vagy az átvevő által az átvétellel egyidejűleg megadott azonosító kódot a postai szolgáltató – kormányrendelet eltérő rendelkezése hiányában – a kézbesítési okiraton vagy annak elektronikus helyettesítőjén megfelelő módon rögzíti. Ha az okirat tulajdonosa ez ellen tiltakozik, a szolgáltató ezt – mint a kézbesítést meghiúsító körülményt – a kézbesítési okiraton rögzíti, és a postai küldeményt az ok megjelölésével visszaküldi a feladónak.
 
-(11) Amennyiben az aláírás képének rögzítése és az azt is tartalmazó elektronikus dokumentum létrehozása megfelel a kormányrendeletben, illetve az egyetemes postai szolgáltatás keretében feladott küldemények esetén az Egyetemes Postai Közszolgáltatás Szerződésben meghatározott eszköz- és rendszerkövetelményeknek, akkor az aláírást rögzítő egyéb technikai eszközzel felvett aláírás képét is tartalmazó elektronikus dokumentum az ellenkező bizonyításáig teljes bizonyítékul szolgál arra, hogy
+(11) Amennyiben az aláírás képének rögzítése és az azt is tartalmazó elektronikus dokumentum létrehozása megfelel a kormányrendeletben, illetve az egyetemes postai szolgáltatás keretében feladott küldemények esetén az Egyetemes Postai Közszolgáltatási Szerződésben meghatározott eszköz- és rendszerkövetelményeknek, akkor az aláírást rögzítő egyéb technikai eszközzel felvett aláírás képét is tartalmazó elektronikus dokumentum az ellenkező bizonyításáig teljes bizonyítékul szolgál arra, hogy
 
 - a) könyvelt levélküldemény vagy hivatalos irat kézbesítése során a küldeményt,
 - b) nemzetközi postautalvány-szolgáltatás, készpénzátutalás vagy fizetési számláról történő készpénzkifizetést lehetővé tevő szolgáltatás teljesítése során az egyetemes postai szolgáltató által kifizetett összeget
@@ -824,7 +839,12 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 (6) A postai szolgáltatónak és a postai közreműködői tevékenységet végző személynek vagy szervezetnek megfelelő szervezési és műszaki intézkedésekkel biztosítania kell a postai szolgáltatás teljesítése során kezelt küldemények, szöveges közlemények vagy közlések titkosságát. A postai szolgáltató és a postai közreműködői tevékenységet végző személy vagy szervezet – a jogszabályi feltételek fennállása és erre irányuló megkeresés esetén – köteles a postai küldeményt, szöveges közleményt vagy közlést átadni vagy bemutatni az annak megismerésére külön törvényben feljogosított szervezeteknek, továbbá azok megfigyelését, tárolását vagy a küldeménybe, szöveges közleménybe más módon történő beavatkozást lehetővé tenni.
 
-(7) A postai szolgáltató az adatkezelése során a postai szolgáltatási szerződés teljesítéséhez, a teljesítés elszámolásához, igazolásához és utólagos ellenőrzéséhez szükséges adatokat a postai küldemény feladását követő naptári év utolsó napjáig köteles megőrizni.
+(7) A postai szolgáltató az adatkezelése során a postai szolgáltatási szerződés teljesítéséhez, a teljesítés elszámolásához, igazolásához és utólagos ellenőrzéséhez szükséges adatokat
+
+- a) veszélyhelyzetben vagy az egészségügyről szóló törvény szerinti egészségügyi válsághelyzet esetén személyes átadás mellőzésével történő kézbesítési technológia alkalmazásakor a postai küldemény feladását követő ötödik naptári év utolsó napjáig,
+- b) az a) pontban meg nem határozott esetben a postai küldemény feladását követő naptári év utolsó napjáig
+
+köteles megőrizni.
 
 #### 34. A postai alkalmazott, megbízott és közreműködő adat- és titokvédelmi felelőssége
 
@@ -927,11 +947,12 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 - h) a statisztikáról szóló törvényben meghatározottak szerint gondoskodik a feladat- és hatáskörével kapcsolatos statisztikai információrendszer kialakításáról, működtetéséről és fejlesztéséről;
 - i) koncepciókat és programokat dolgoz ki a postai tevékenységek, szolgáltatások fejlesztésére, a kidolgozott koncepciók alapján hozzájárul ezek megvalósításának feltételeihez;
 - j) gondoskodik a postai szolgáltatások színvonalának javításáról a szabványosítás, valamint a kutatási, fejlesztési tevékenység támogatásával;
-- k) az ügykörben érintett miniszterrel egyetértésben meghatározza az egyetemes postai szolgáltatás keretében küldeményenkénti díjszabás szerint feladott, 50 grammot meg nem haladó tömegű, belföldi levélküldemények, valamint a hivatalos iratokra vonatkozó belföldi postai szolgáltatás díjának meghatározási módszerét.
+- k) az ügykörben érintett miniszterrel egyetértésben meghatározza az egyetemes postai szolgáltatás keretében küldeményenkénti díjszabás szerint feladott, 50 grammot meg nem haladó tömegű, belföldi levélküldemények, valamint a hivatalos iratokra vonatkozó belföldi postai szolgáltatás díjának meghatározási módszerét;
+- l) megállapítja a méltánytalan többletteher összegét és annak az egyetemes postai szolgáltató számára megtérítésre kerülő mértékét.
 
 #### 40. A Hatóság postai feladatai
 
-62. § A postai ágazat hatósági feladatait a Hatóság látja el. Ennek keretében a Hatóság eljár a postai szolgáltatások bejelentésével, engedélyezésével, az ehhez kapcsolódó, a jogszabályban előírt nyilvántartások vezetésével, a postai szolgáltatások ellenőrzésével, a postai szolgáltatási piac hatósági és piacfelügyeletével, a postai szolgáltatók adatszolgáltatásával, az Egyetemes Postai Közszolgáltatási Szerződés felhasználói jogokat érintő rendelkezései teljesítésének ellenőrzésével, a nettó elkerülhető költség és a méltánytalan többletteher mértékének jóváhagyásával kapcsolatos és egyéb hatósági ügyekben, valamint kezeli az Egyetemes Postai szolgáltatást Támogató Számlát.
+62. § A postai ágazat hatósági feladatait a Hatóság látja el. Ennek keretében a Hatóság eljár a postai szolgáltatások bejelentésével, engedélyezésével, az ehhez kapcsolódó, a jogszabályban előírt nyilvántartások vezetésével, a postai szolgáltatások ellenőrzésével, a postai szolgáltatási piac hatósági és piacfelügyeletével, a postai szolgáltatók adatszolgáltatásával, az Egyetemes Postai Közszolgáltatási Szerződés felhasználói jogokat érintő rendelkezései teljesítésének ellenőrzésével, a nettó elkerülhető költség számításának ellenőrzésével kapcsolatos és egyéb hatósági ügyekben.
 
 63. § A Hatóság
 
@@ -939,7 +960,7 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 - b) kétévente – első alkalommal 2016. június 30-ig – jelentést készít az Országgyűlés számára a liberalizált postapiac fejlődéséről, e törvény céljainak megvalósulásáról, beleértve a postai szolgáltatók hálózatai közötti hozzáférési viszonyok alakulását és amennyiben a felhasználók érdekeinek védelme vagy az eredményes verseny előmozdítása megköveteli, jogszabály megalkotására vonatkozó javaslatot tesz az egyetemes postai hálózat elemeihez vagy az egyetemes postai szolgáltatás keretében nyújtott szolgáltatásokhoz való átlátható, megkülönböztetéstől mentes hozzáférés biztosításával kapcsolatban;
 - c) ellátja a postai szolgáltatással kapcsolatos honvédelmi, rendvédelmi, nemzetbiztonsági és védelmi felkészítési, valamint az ezekkel kapcsolatos adatszolgáltatási feladatok végrehajtását, működteti a postai ágazat ügyeleti szolgálatát;
 - d) ellátja az egyetemes postai szolgáltatások költségszámításával és a postai szolgáltatók számviteli szétválasztásával összefüggő ellenőrzési feladatokat;
-- e) ellenőrzi a Számla javára történő befizetéseket és rendelkezik az egyetemes postai szolgáltató részére a Számla terhére történő kifizetésről;
+- e)
 - f) ellátja az európai uniós jogi aktusokban a nemzeti szabályozó hatóságra delegált információszolgáltatással, kapcsolattartással és egyéb együttműködéssel kapcsolatos feladatokat;
 - g) ellátja a jogszabályban meghatározott egyéb feladatait.
 
@@ -1024,7 +1045,7 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 (7) A bírság ismételt jogsértés esetén ismételten is kiszabható. Ismételt jogsértésnek minősül, ha a jogsértő a véglegessé vált hatósági határozatban megállapított jogsértő magatartást ugyanazon jogalapon és postai szolgáltatásra vonatkozó jogszabály, általános szerződési feltétel tekintetében, ugyanazon tárgykörben valósítja meg.
 
-(8) Az e törvény, illetve az e törvény felhatalmazása alapján kiadott jogszabályban megállapított, a központi költségvetés részére, illetve a Hatóságnak fizetendő díjak, bírságok, valamint az Egyetemes Postai szolgáltatást Támogató Számla részére teljesítendő befizetések adók módjára behajtandó köztartozásnak minősülnek.
+(8) Az e törvény, illetve az e törvény felhatalmazása alapján kiadott jogszabályban megállapított, a központi költségvetés részére, illetve a Hatóságnak fizetendő díjak, bírságok adók módjára behajtandó köztartozásnak minősülnek.
 
 69. § (1) A Hatóság a szolgáltatási engedélyt visszavonja vagy – bejelentésköteles postai szolgáltatás esetén – megtiltja a postai szolgáltatás nyújtását, és a postai szolgáltatást vagy a postai szolgáltatót a nyilvántartásból törli, ha
 
@@ -1145,17 +1166,13 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 #### 49. Átmeneti rendelkezések
 
-77. § (1) Mindazok, akik 2012. december 31-én a postáról szóló 2003. évi CI. törvény szabályai szerint postai szolgáltatás nyújtására jogosultak, a szolgáltatás nyújtását 2013. június 30-ig folytathatják a törvényi kijelölés vagy nyilvántartásba vételükről szóló hatósági határozatban foglaltak alapján, a 2012. december 31-én hatályos, a postáról szóló 2003. évi CI. törvénynek megfelelő általános szerződési feltételeik szerint. Az e bekezdés szerint postai szolgáltatás nyújtására jogosult személyek az általános szerződési feltételeiket legkésőbb 2013. június 30-ig folyamatosan vagy egy ütemben feleltethetik meg e törvény rendelkezéseinek. 2013. július 1-jétől kizárólag az e törvény rendelkezéseinek megfelelően hatósági nyilvántartásba vett gazdálkodó szervezetek jogosultak postai szolgáltatás nyújtására.
+#### 77. §
 
-(2) A 19. §-ban meghatározott Egyetemes Postai Közszolgáltatási Szerződést az állam és az egyetemes postai szolgáltató oly módon köteles megkötni, hogy annak az egyetemes postai szolgáltatások minőségét érintő rendelkezései legkésőbb 2013. március 31-ig lépjenek hatályba. Az egyetemes postai szolgáltatások minőségére vonatkozó szerződéses rendelkezések hatálybalépéséig az e szolgáltatások minőségére a 2012. december 31-én hatályos szabályokat kell alkalmazni.
+#### 77/A. §
 
-77/A. § (1) Ha az egyetemes postai szolgáltatás nettó költsége meghaladja az egyetemes postai szolgáltató egyetemes postai szolgáltatásokhoz kapcsolódó költségeinek 1 százalékát, ezen összeg az egyetemes postai szolgáltató méltánytalan többletterhe (a továbbiakban: méltánytalan többletteher). Az Európai Bizottság e tárgykörben hozott vagy a 76. § (2) bekezdése szerinti jóváhagyó határozata meghozataláig az egyetemes postai szolgáltató a méltánytalan többletterhének évi 15 millió eurót meg nem haladó részének, illetve az Európai Bizottság jóváhagyó határozata alapján – az abban foglaltak szerint – meghatározott összegnek a központi költségvetés terhére történő megtérítésére jogosult. A méltánytalan többletteher összegét a miniszter – egy vagy több részletben – állapítja meg.
+#### 77/B. §
 
-(2) A 2013. év vonatkozásában az egyetemes postai szolgáltató a méltánytalan többletterhének meghatározására vonatkozó kérelmét a Módtv. hatálybalépését követő 8. napig nyújtja be a miniszternek, aki a Módtv. hatálybalépését követő 15. napig intézkedik a 2013. és 2014. évi méltánytalan többletteher (1) bekezdésben meghatározott részének az egyetemes postai szolgáltató részére előlegként történő átutalásáról. Az egyetemes postai szolgáltató a méltánytalan többletteher összegének megállapítását követő 8 napon belül köteles az előlegnek azt a részét a központi költségvetés részére visszatéríteni, ami meghaladja a méltánytalan többletteher miniszter által megállapított összegét. A 2014. év vonatkozásában az egyetemes postai szolgáltató a méltánytalan többletteherre vonatkozó elszámolást a miniszter részére 2015. június 30-áig nyújtja be.
-
-77/B. § A postai szolgáltatásokról szóló 2012. évi CLIX. törvény módosításáról szóló 2016. évi XII. törvénnyel (a továbbiakban: Módtv.2.) megállapított 53. § (4) bekezdését a Módtv.2. hatálybalépését megelőzően benyújtott, közérdekű adat megismerése iránti igénnyel összefüggésben a Módtv.2. hatálybalépésekor folyamatban lévő eljárásokban, valamint a Módtv.2. hatálybalépését megelőzően megkötött postai szolgáltatási szerződések tekintetében is alkalmazni kell.
-
-77/C. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 65. § (2) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+#### 77/C. §
 
 77/D. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
@@ -1168,7 +1185,7 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 - a) a postai szolgáltatások nyújtásának részletes szabályait;
 - b) a hivatalos iratokkal kapcsolatos szolgáltatás részletes szabályait;
 - c) a postai szolgáltatók általános szerződési feltételeinek kötelező tartalmi elemeit, a postai szolgáltatásból kizárt, vagy feltételesen szállítható küldemények körét;
-- d) Egyetemes Postai szolgáltatást Támogató Számla működtetésének részletes szabályait és bevételeinek számítási módját;
+- d)
 - e) a postai szolgáltatások különleges jogrend időszaki felkészítésének rendszerét, feladatait, működési feltételeit;
 - f) a postai szolgáltatót, alkalmazottját, tagját, megbízottját és a postai közreműködőt terhelő adatvédelmi és titoktartási kötelezettséget, az adatkezelés részletes szabályait, a titokvédelemre vonatkozó különleges feltételeket;
 - g) a postai szolgáltatók, a postai közreműködők és a titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervezetek együttműködésének részletes szabályait;
@@ -1211,6 +1228,8 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 (1a) E törvény a határokon átnyúló csomagkézbesítési szolgáltatásokról szóló 2018. április 18-i 2018/644 európai parlamenti és tanácsi rendeletben foglaltak végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (2) E törvény az Európai Unió működéséről szóló Szerződés 106. cikk (2) bekezdése és a közszolgáltatás ellentételezése formájában nyújtott állami támogatásról szóló európai uniós keretszabály (HL C 8; 2012.01.11.) hatálya alá tartozó támogatást tartalmaz.
+
+(3) E törvény a munkaidő-szervezés egyes szempontjairól szóló 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelv 17. cikk (3) bekezdése szerinti eltérést tartalmaz.
 
 #### 52. Módosító és hatályon kívül helyező rendelkezések
 

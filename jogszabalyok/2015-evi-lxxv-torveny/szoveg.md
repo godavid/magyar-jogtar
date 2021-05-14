@@ -28,6 +28,8 @@ a megyei könyvtárak és a megyei hatókörű városi múzeumok feladatának el
 
 (1a) A tatai Kuny Domokos Múzeum vagyonkezelésében lévő antik gipsz szobormásolat-gyűjtemény a Magyarország 2021. évi központi költségvetésének megalapozásáról szóló 2020. évi LXXVI. törvény hatálybalépésének napján, a törvény erejénél fogva, ingyenesen a Szépművészeti Múzeum vagyonkezelésébe kerül a korábbi vagyonkezelő vagyonkezelői jogának egyidejű megszűnésével. A vagyonkezelői jog tekintetében vagyonkezelési szerződés megkötése nem szükséges.
 
+(1b) A kaposvári Rippl-Rónai Megyei Hatókörű Városi Múzeum vagyonkezelésében lévő, Rippl-Rónai József: Nemes Marcell (ltsz: 55.52, o. karton, 63,5×44 cm, J.j.k: Rónai 1912) című portréja az egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongazdálkodást és nemzeti pénzügyi szolgáltatásokat érintő törvények módosításáról szóló 2021. évi XXXIII. törvény hatálybalépésének napján, e törvény erejénél fogva, ingyenesen a Szépművészeti Múzeum vagyonkezelésébe kerül a korábbi vagyonkezelő vagyonkezelői jogának egyidejű megszűnésével. A vagyonkezelői jog tekintetében vagyonkezelési szerződés megkötése nem szükséges.
+
 (2) A kulturális örökség helyi védelme érdekében a megyei könyvtárak és a megyei hatókörű városi múzeumok feladatának ellátását szolgáló állami tulajdonban álló ingatlanok – az 1. § (1) és (2) bekezdése alapján a mellékletben meghatározott ingatlanok kivételével – ingyenesen a fenntartó önkormányzatok vagyonkezelésébe kerülnek.
 
 (3) Az (1) bekezdés alapján kijelölt vagyonkezelők kötelesek a vagyonkezelésükben álló állami vagyon tárgyév december 31-ei állományáról évente egyszer, a tárgyévet követő év május 31-ig adatot szolgáltatni a kultúráért felelős miniszter, valamint az MNV Zrt. részére.

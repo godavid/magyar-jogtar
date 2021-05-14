@@ -10,7 +10,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 1. § (1) A rendőrség feladata az Alaptörvényben meghatározott feladatok mellett a határforgalom ellenőrzése, a terrorizmus elleni küzdelem és az e törvényben meghatározott bűnmegelőzési, bűnfelderítési célú ellenőrzés, a bűncselekményből származó vagyon visszaszerzése, valamint az idegenrendészeti és menekültügyi feladatok ellátása.
 
-(2) A rendőrség az az Alaptörvényben, az e törvényben és törvény felhatalmazása alapján más jogszabályban meghatározott bűnmegelőzési, bűnüldözési, államigazgatási és rendészeti feladatkörében:
+(2) A rendőrség az Alaptörvényben, az e törvényben és törvény felhatalmazása alapján más jogszabályban meghatározott bűnmegelőzési, bűnüldözési, államigazgatási és rendészeti feladatkörében:
 
 - 1. végzi a bűncselekmények megelőzését, amelynek során figyelemmel kíséri Magyarország bűnügyi helyzetét, feltárja a bűncselekmények elkövetésének kockázatait, a bűncselekmények elkövetésére irányuló törekvéseket, továbbá megszerzi, elemzi, értékeli, ellenőrzi és továbbítja a bűnözéshez kapcsolódó, a bűncselekmények megelőzése, illetve megakadályozása céljából szükséges információkat,
 - 1a. általános nyomozó hatósági jogkört gyakorol, a büntetőeljárásról szóló törvényben meghatározottak szerint végzi a bűncselekmények felderítését, valamint a bűncselekményből származó vagyon visszaszerzését,
@@ -38,6 +38,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - 18. a fenntartó kezdeményezésére közreműködik az általános és középiskola rendjének fenntartásában,
 - 19. ellátja a segélyhívó számok fogadásából eredő feladatokat,
 - 20. ellátja a hatáskörébe utalt idegenrendészeti és menekültügyi feladatokat.
+- 21. biztosítja az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 35. cikk (1) bekezdésében meghatározott hatásszinteknek megfelelő határellenőrzést.
 
 2. § (1) A rendőrség védelmet nyújt az életet, a testi épséget, a vagyonbiztonságot közvetlenül fenyegető vagy sértő cselekménnyel szemben, felvilágosítást és segítséget ad a rászorulónak. A rendőrség tiszteletben tartja és védelmezi az emberi méltóságot, óvja az ember jogait.
 
@@ -143,11 +144,29 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 (3) Az országos rendőrfőkapitányt és a terrorizmust elhárító szerv főigazgatóját a miniszter javaslatára a miniszterelnök nevezi ki és menti fel. A kinevezést megelőzően az országos rendőrfőkapitány-jelöltet, illetve a terrorizmust elhárító szerv főigazgatói tisztségére jelölt személyt az Országgyűlés feladatkörrel rendelkező bizottsága meghallgatja és állást foglal az alkalmasságáról.
 
-(4) Az országos rendőrfőkapitány és a terrorizmust elhárító szerv főigazgatója együttesen – az államhatár rendjének fenntartása érdekében – jóváhagyásra a miniszter elé terjeszti a konfliktushelyzet és a tömeges méretű migráció kezelésére vonatkozó terveket.
+(4) Az országos rendőrfőkapitány, a terrorizmust elhárító szerv főigazgatója és az idegenrendészeti szerv főigazgatója együttesen – az államhatár rendjének fenntartása érdekében – jóváhagyásra a miniszter elé terjeszti a konfliktushelyzet és a tömeges méretű migráció kezelésére vonatkozó terveket.
 
 (5) Az általános rendőrségi feladatok ellátására létrehozott szervet az országos rendőrfőkapitány, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a főigazgató, a terrorizmust elhárító szervet a főigazgató, az idegenrendészeti szervet a főigazgató képviseli.
 
 (6) A rendőrséget a két- vagy többoldalú nemzetközi egyezményeken, valamint a viszonosságon alapuló nemzetközi kapcsolatokban a 7/G. § (1)–(3) bekezdése alapján az országos rendőrfőkapitány képviseli. A miniszter két- vagy többoldalú nemzetközi egyezményen alapuló nemzetközi kapcsolatban a rendőrség képviseletére a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatóját, a terrorizmust elhárító szerv főigazgatóját vagy az idegenrendészeti szerv főigazgatóját kijelölheti.
+
+(7) Az országos rendőrfőkapitány és az idegenrendészeti szerv főigazgatója együttesen elkészíti és a miniszter elé terjeszti az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 9. cikk (4) bekezdése szerinti nemzeti képességfejlesztési tervet.
+
+(8) Az országos rendőrfőkapitány kezdeményezheti
+
+- a) a határrendészetért felelős miniszter jóváhagyásával gyorsreagálású határvédelmi intervenció Magyarországon történő végrehajtását,
+- b) az általános rendőrségi feladatok ellátására létrehozott szerv feladatkörébe tartozó esetekben a migrációkezelést támogató csapatok magyarországi bevetését,
+- c) az idegenrendészetért és menekültügyért felelős miniszter jóváhagyásával – az idegenrendészeti szerv főigazgatójával való konzultációt követően – a Magyarországról indított visszaküldési intervenciókat.
+
+(9) Az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 41. cikke szerinti, az Európai Határ- és Partvédelmi Ügynökség (a továbbiakban: Ügynökség) külső határokon javasolt fellépésére vonatkozó ajánlásra adandó választ az országos rendőrfőkapitány a határrendészetért felelős miniszter jóváhagyását követően adja meg.
+
+(10) Az országos rendőrfőkapitány a miniszter jóváhagyását követően megállapodik az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 60. cikke szerinti képviseleti iroda létesítéséről, megköti a képviseleti iroda létesítéséhez szükséges megállapodást és segítséget nyújt a műveleti képességek biztosításához.
+
+(11) Az országos rendőrfőkapitány ellátja az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 63. és 64. cikke szerinti műszaki eszközök rendelkezésre bocsátásával kapcsolatos feladatokat, beleértve az ezzel kapcsolatos megállapodások megkötését is.
+
+(12) Az országos rendőrfőkapitány az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 72. cikke szerinti, nemzetközi szerződésnek nem minősülő megállapodásokat köthet, amelyeket az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 76. cikk (3) bekezdésével összhangban a határrendészetért felelős miniszter küld meg az Európai Bizottságnak.
+
+(13) Az Ügynökség igazgatótanácsának Magyarország képviseletét ellátó tagját és póttagját az országos rendőrfőkapitány jelöli ki.
 
 #### 6/A. §
 
@@ -310,7 +329,7 @@ e célból együttműködik az Európai Unió tagállamaival és szerveivel, az 
 
 (3) A terrorizmust elhárító szerv részére a 7/E. § (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott feladata ellátásával összefüggésben a külföldi titkosszolgálatok által továbbított adatok, információk kizárólag azon külföldi titkosszolgálat előzetes hozzájárulásával továbbíthatók más adatkezelő részére, amelytől az információ származik.
 
-7/G. § (1) A központi szerv képviseli a rendőrséget a nemzetközi rendvédelmi szervezetekben, különösen a Bűnügyi Rendőrség Nemzetközi Szervezetében (Interpol), a Bűnüldözési Együttműködés Európai Uniós Ügynökségében (EUROPOL), valamint – ha a miniszter másként nem rendelkezik – a két- és többoldalú nemzetközi szerződéseken alapuló rendészeti tárgyú nemzetközi kapcsolatokban.
+7/G. § (1) A központi szerv vagy a Nemzetközi Bűnügyi Együttműködési Központ képviseli a rendőrséget a nemzetközi rendvédelmi szervezetekben, különösen a Bűnügyi Rendőrség Nemzetközi Szervezetében (a továbbiakban: Interpol), a Bűnüldözési Együttműködés Európai Uniós Ügynökségében (a továbbiakban: Europol), az Ügynökségben, valamint – ha a miniszter másként nem rendelkezik – a két- és többoldalú nemzetközi szerződéseken alapuló rendészeti tárgyú nemzetközi kapcsolatokban.
 
 (2) Az (1) bekezdésben foglalt rendelkezés nem akadálya annak, hogy a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, a terrorizmust elhárító szerv, valamint az idegenrendészeti szerv – külön jogszabályban meghatározottak szerint – az Interpollal és az Europollal, bármely Europol tagállam, illetve két- vagy többoldalú nemzetközi szerződés, vagy viszonosság alapján bármely más állam rendvédelmi szervével közvetlenül kapcsolatot tartson a központi szerv egyidejű tájékoztatása mellett.
 
@@ -326,6 +345,18 @@ e célból együttműködik az Európai Unió tagállamaival és szerveivel, az 
 - d) végrehajtja a feladat- és hatáskörébe utalt nemzetközi szerződésekből adódó feladatokat.
 
 (2) Az idegenrendészeti szerv nyomozóhatósági jogkört nem gyakorol.
+
+(3) Az (EU) 2019/1896 európai parlamenti és tanácsi rendeletben meghatározott feladatok ellátása érdekében az idegenrendészeti szerv együttműködik a külföldi, az (EU) 2019/1896 európai parlamenti és tanácsi rendelet szerinti feladatokat ellátó partnerszervekkel.
+
+(4) Az idegenrendészeti szerv feladatkörébe tartozóan az (EU) 2019/1896 európai parlamenti és tanácsi rendelet szerinti migrációkezelést támogató csapatok Magyarországon történő alkalmazását az idegenrendészeti szerv főigazgatója – az országos rendőrfőkapitánnyal való konzultációt követően – a határrendészetért felelős miniszter jóváhagyásával kezdeményezheti.
+
+(5) Az idegenrendészeti szerv a készenléti alakulat migrációkezelést támogató csapataiba és a visszaküldési csapatokba a rövid távú bevetésen lévő személyzetet az (EU) 2019/1896 európai parlamenti és tanácsi rendelet szerinti nemzeti kapcsolattartó ponton keresztül bocsátja az Ügynökség rendelkezésére.
+
+(6) Az idegenrendészeti szerv feladatkörébe tartozóan a Magyarországról indított visszaküldési intervenciókra vonatkozóan az országos rendőrfőkapitányon keresztül az országos idegenrendészeti főigazgató tesz javaslatot, amelyről az idegenrendészetért és menekültügyért felelős miniszter dönt.
+
+(7) Az idegenrendészeti szerv az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 72. cikke szerinti, nemzetközi szerződésnek nem minősülő megállapodást köthet, amelyet az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 76. cikk (3) bekezdésével összhangban a határrendészetért felelős miniszter küld meg az Európai Bizottságnak.
+
+(8) A saját állománya tekintetében az idegenrendészeti szerv intézkedik az (EU) 2019/1896 európai parlamenti és tanácsi rendelet szerinti közös műveletek során foganatosított intézkedésekkel szemben benyújtott panasz kivizsgálása, valamint az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 111. cikke szerinti jelentés összeállítása és – a központi szerven keresztül történő – megküldése iránt.
 
 ### III. Fejezet — A RENDŐRSÉG EGYÜTTMŰKÖDÉSE
 
@@ -418,6 +449,36 @@ alkalmazhat, illetve használhat.
 (3) Az intézkedések és a kényszerítő eszközök alkalmazása során a 15–17. §-t, a 19. §-t, a 20. § (2) és (3) bekezdését, a 61. § (1)–(3) bekezdését és a 62. § (1) bekezdését alkalmazni kell azzal, hogy az iskolaőr esetében szolgálati elöljáró alatt a munkáltatót kell érteni.
 
 (4) Az iskolaőr intézkedése, illetve a kényszerítő eszköz alkalmazása elleni jogorvoslatra a IX. Fejezet rendelkezéseit kell alkalmazni.
+
+10/D. § (1) A rendőrség az (EU) 2019/1896 európai parlamenti és tanácsi rendeletben meghatározott együttműködés keretében
+
+- a) – a 6. § (8) bekezdésében foglaltakra is tekintettel – Magyarország területén műveleteket folytathat, külföldön műveletekben vehet részt;
+- b) a nemzeti szabályok figyelembevételével igénybe vehet külföldről érkező műszaki eszközöket határőrizeti, határforgalom-ellenőrzési és visszaküldési feladatai ellátásához;
+- c) elfogadja az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 50. cikk (4) bekezdése szerinti tervet;
+- d) az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 35. cikk (1) bekezdésével összhangban biztosítja a hatásszinteknek megfelelést;
+- e) ellátja az (EU) 2020/1567 bizottsági végrehajtási határozat szerinti központi nemzeti hatóság feladatait.
+
+(2) A központi szerv az (EU) 2019/1896 európai parlamenti és tanácsi rendeletben meghatározott együttműködés keretében
+
+- a) működteti az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 13. cikke szerinti nemzeti kapcsolattartó pontot, valamint 21. cikke szerinti nemzeti koordinációs központot;
+- b) gondoskodik a készenléti alakulatban történő nemzeti részvétel megszervezéséről, Magyarország képviseletéről az éves kétoldalú tárgyalásokon és az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 101. cikke szerint az igazgatótanácsban történő magyar részvételről;
+- c) megadja az Ügynökség részére az európai uniós kötelezettségvállalásokból eredő tájékoztatásokat;
+- d) gondoskodik az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 17. cikkében, valamint a 20. cikk (2) bekezdésében foglalt feladatok ellátásáról;
+- e) ellátja az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 32. cikke szerinti sebezhetőségi értékeléssel kapcsolatos tagállami feladatokat;
+- f) kidolgozza és működteti az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 23. cikke szerinti eljárást;
+- g) az idegenrendészeti szervvel együttműködve ellátja az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 29. cikk (5) bekezdésében foglalt feladatokat;
+- h) ellátja az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 54. cikk (5) bekezdése szerinti műszaki eszközök és annak személyzete biztosításával kapcsolatos tájékoztatási kötelezettséget;
+- i) – az idegenrendészeti szervvel együttműködve – az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 56. cikk (4) és (5) bekezdésével, valamint 57. és 58. cikkével összhangban gondoskodik az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 56. cikk (1) bekezdésében meghatározott, az Ügynökséghez rendelt, az (EU) 2019/1896 európai parlamenti és tanácsi rendelet szerinti 2., 3. és 4. kategóriába sorolt csapatok tagjai kijelöléséről és az ezzel kapcsolatos feladatok ellátásáról;
+- j) intézkedik a közös műveletek során foganatosított intézkedésekkel szemben benyújtott panasz kivizsgálása, valamint az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 111. cikke szerinti jelentés összeállítása és megküldése iránt;
+- k) – az idegenrendészeti szervvel együttműködve – ellátja az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 121. cikke szerinti jelentésekkel kapcsolatos feladatokat.
+
+10/E. § Az (EU) 2019/1896 európai parlamenti és tanácsi rendeletben meghatározott feladatok ellátása érdekében az idegenrendészeti szerv és az általános rendőrségi feladatok ellátására létrehozott szerv együttműködési megállapodást kötnek egymással, amely legalább az alábbiakra terjed ki:
+
+- a) az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 7. cikk (5) bekezdése szerinti jelentéstétellel kapcsolatos feladatok és felelősségi körök megosztása;
+- b) az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 9. cikk (4) bekezdése szerinti nemzeti képességfejlesztési terv kialakítása;
+- c) az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 13. cikke szerinti nemzeti kapcsolattartó pont feladatainak ellátása során történő kapcsolattartás;
+- d) a közös művelet, a gyorsreagálású határvédelmi intervenció, a visszaküldési művelet vagy visszaküldési intervenció végrehajtása során történő feladatmegosztás;
+- e) az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 121. cikke szerinti jelentések elkészítésével kapcsolatos együttműködés.
 
 ### IV. Fejezet — A RENDŐRSÉG MŰKÖDÉSÉNEK ÁLTALÁNOS ELVEI ÉS SZABÁLYAI
 
@@ -1113,24 +1174,32 @@ igényelhet adatot.
 
 (2) A lőfegyverhasználatot — annak következményétől függetlenül — az intézkedést követően haladéktalanul jelenteni kell a szolgálati elöljárónak.
 
-### Külföldi szerv határrendészeti feladatokat ellátó tagjára vonatkozó rendelkezések
+### Európai Uniós együttműködés keretében határrendészeti feladatokat ellátó csapatok tagjára vonatkozó rendelkezések
 
-62/A. § (1) Az Európai Határ- és Parti Őrségről és az (EU) 2016/399 európai parlamenti és tanácsi rendelet módosításáról, valamint a 863/2007/EK európai parlamenti és tanácsi rendelet, a 2007/2004/EK tanácsi rendelet és a 2005/267/EK tanácsi határozat hatályon kívül helyezéséről szóló, 2016. szeptember 14-i 2016/1624/EU európai parlamenti és tanácsi rendeletet alkalmazó állam határrendészeti feladatokat ellátó szervének tagja Magyarország területén kizárólag:
+62/A. § (1) Az (EU) 2019/1896 európai parlamenti és tanácsi rendeletben meghatározott csapatok tagja Magyarország területén
 
-- a) a 47. § rendelkezése szerint testi kényszert, a 48. § rendelkezése szerint bilincset, illetve a 49. § (1) bekezdése szerint rendőrbotot alkalmazhat,
-- b) szolgálati fegyverét tarthatja magánál, azt azonban kizárólag jogos védelmi helyzetben, illetve végszükségben használhatja,
-- c) az ország területén jogellenesen tartózkodó személyt foghatja el, köteles azonban az elfogott személyt haladéktalanul a rendőrségnek átadni.
+- a) kizárólag a 47. § szerint testi kényszert, a 48. § szerint bilincset, illetve a 49. § (1) bekezdése szerint rendőrbotot alkalmazhat,
+- b) szolgálati fegyverét magánál tarthatja, azt azonban kizárólag jogos védelmi helyzetben vagy végszükségben használhatja,
+- c) részt vehet az 1. § (2) bekezdés 10. pontjában meghatározott határőrizeti feladatok végrehajtásában,
+- d) részt vehet a 35. §-ban meghatározott kísérésekben, más tagállammal közösen végrehajtott hazatérésekben,
+- e) végrehajthatja a 35/A. §-ban meghatározott határforgalom-ellenőrzést, de a határátléptetés megtagadásáról nem dönthet.
 
-(2) Az (1) bekezdés a) és b) pontja alapján a határrendészeti feladatokat ellátó szerv tagja a szolgálati helye szerinti államban rendszeresített kényszerítő eszközt vagy lőfegyvert alkalmazhat, ha annak Magyarország területén történő alkalmazását jogszabály nem tiltja.
+(2) Az (1) bekezdés a) és b) pontja alapján a csapatok tagjai olyan a személyi felszerelésükhöz tartozó kényszerítő eszközt vagy lőfegyvert alkalmazhatnak, amelynek a Magyarország területén történő alkalmazását jogszabály nem tiltja.
 
-(3) Az (1) bekezdés szerinti intézkedések és kényszerítő eszközök alkalmazásának feltételeire a külföldi állam határrendészeti feladatokat ellátó szervének tagját ki kell oktatni.
+(3) Az (1) bekezdés szerinti intézkedések és kényszerítő eszközök alkalmazásának nemzeti feltételeiről az Európai Unió tagállama határrendészeti feladatokat ellátó szervének tagját tájékoztatni kell.
 
-(4) Az (1) bekezdés szerinti állam határrendészeti feladatokat ellátó szervének tagja Magyarország területén történő átutazása esetén is magánál tarthatja kényszerítő eszközét, illetve szolgálati fegyverét.
+(4) Az (1) bekezdés szerinti csapatok tagja Magyarország területén történő átutazása esetén is magánál tarthatja kényszerítő eszközét, illetve szolgálati fegyverét.
 
-(5) Az (1) bekezdésben meghatározott határrendészeti feladatokat ellátó szerv tagja a Magyarország területén az Európai Határ- és Parti Őrségről és az (EU) 2016/399 európai parlamenti és tanácsi rendelet módosításáról, valamint a 863/2007/EK európai parlamenti és tanácsi rendelet, a 2007/2004/EK tanácsi rendelet és a 2005/267/EK tanácsi határozat hatályon kívül helyezéséről szóló, 2014. szeptember 14-i 2016/1624/EU európai parlamenti és tanácsi rendelet 40. cikk (8) bekezdésében meghatározott keretek között hozzáférhet
+(5) Az (1) bekezdésben meghatározott csapatok tagja Magyarország területén az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 82. cikk (10) bekezdésében meghatározott keretek között
 
-- a) a Schengeni Információs Rendszerhez, valamint
-- b) a Vízuminformációs Rendszerhez.
+- a) hozzáférhet a Schengeni Információs Rendszerhez, a Vízuminformációs Rendszerhez és az INTERPOL FIND hálózati adatbázis által elérhető nyilvántartásokhoz, ha erre a küldő tagállamában is jogosultsága van,
+- b) a 91/K. §-ban meghatározott összevetést megteheti határforgalom-ellenőrzés keretében az ellenőrzésre létrehozott informatikai eszközzel, de a nemzeti adatbázisokhoz közvetlenül nem férhet hozzá.
+
+(6) A Magyarország területén folytatott műveletet a magyar rendőrség irányítja. Az (1) bekezdésben meghatározott csapatok tagjai a magyar rendőr utasításait kötelesek betartani. A magyar rendőrség a csapatok tagjainak Magyarország területén végrehajtott művelet során eljáró tagja részére ugyanazt a védelmet és segítségnyújtást biztosítja, mint a magyar rendőrnek.
+
+(7) A csapatok Magyarország területén eljáró tagja intézkedési jogosultságára a magyar jog az irányadó, valamint intézkedési jogosultságát kizárólag a magyar rendőrség felügyelete mellett és – szándékos bűncselekmény elkövetésén tetten ért, illetve az ország területén jogellenesen tartózkodó személy elfogását kivéve – a magyar rendőr jelenlétében gyakorolhatja. Az elfogott személyt az elfogást követően haladéktalanul köteles a magyar rendőrség részére átadni.
+
+(8) Az (EU) 2019/1896 európai parlamenti és tanácsi rendeletben meghatározott műveletekben Magyarországon harmadik ország képviselője lőfegyver nélkül, megfigyelőként vehet részt.
 
 ### Az Európai Unió más tagállama rendészeti feladatokat ellátó hatóságának közös műveletben részt vevő tagjára vonatkozó rendelkezések
 
@@ -1677,7 +1746,7 @@ adatok köre
 
 (3) A rendőrségnek a bűnügyi és egyéb rendőrségi kriminalisztikai tudományos kutatás végzésére felhatalmazott szerve a rendőrségi adatokat – kivéve leplezett eszközök alkalmazásával, illetve a titkos információgyűjtésben érintett személyek, a fedett nyomozók, a rendőrséggel titkosan együttműködő személyek, a védett tanúk és egyéb közreműködők adatait – tudományos kutatási célra a személyes adatok tudományos kutatás céljára való kezelésére vonatkozó törvényi előírások figyelembevételével felhasználhatja. A személyazonosításra alkalmas adatokat a kriminalisztikai kutatás befejezésekor törölni kell.
 
-86. § (1) Rendőrségi adat az Európai Unió tagállamai, valamint az Európai Unió által létrehozott nemzetközi bűnüldöző szervezetek részére az Európai Unió jogi aktusának végrehajtását szolgáló törvény, illetve két- vagy többoldalú nemzetközi szerződés alapján az e törvényben meghatározott célból adható át.
+86. § (1) Rendőrségi adat az Európai Unió tagállamai, az Európai Unió által létrehozott nemzetközi bűnüldöző szervezetek, valamint az Ügynökség részére az Európai Unió jogi aktusának végrehajtását szolgáló törvény, illetve két- vagy többoldalú nemzetközi szerződés alapján az e törvényben meghatározott célból adható át.
 
 (2) Amennyiben lehetséges, az adattovábbítás esetén csatolni kell azon információkat, amelyek lehetővé teszik az átvevő számára, hogy megítélje az adatok pontosságát, teljességét, naprakészségét és megbízhatóságát.
 
@@ -1913,7 +1982,7 @@ részére.
 
 (2) A (1) bekezdés b) pontja szerinti adatállományból a rendőrség a közrend és közbiztonság, az erőszak és a rendzavarás megelőzése, a nemzetközi rendőrségi együttműködési kötelezettségek teljesítése, továbbá mások jogainak védelme céljából a külföldi rendőri szerv részére, valamint a rendezvények biztonságának védelme, a sportrendezvény látogatásának, továbbá a jegyértékesítés megtagadásának céljából a sportrendezvény szervezőjének, rendező alkalmazása esetén a rendezőnek, valamint a jegyértékesítést a szervező megbízásából végző személynek továbbíthat adatot.
 
-(3) Az (1) bekezdés d) pontja szerint nyilvántartott adatokat a rendőrség a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló, 2013. január 15-i, 98/2013/EU európai parlamenti és tanácsi rendelet 9. cikk (2) bekezdése szerinti nemzeti kapcsolattartó pont, valamint külföldi nemzeti kapcsolattartó pontok részére továbbíthatja.
+(3) Az (1) bekezdés d) pontja szerint nyilvántartott adatokat a rendőrség a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról, az 1907/2006/EK rendelet módosításáról, valamint a 98/2013/EU rendelet hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1148 európai parlamenti és tanácsi rendelet 9. cikk (3) bekezdése szerinti nemzeti kapcsolattartó pont, valamint külföldi nemzeti kapcsolattartó pontok részére továbbíthatja.
 
 (4) A rendőrség az (1) bekezdés e) pont szerinti bejelentést terrorfenyegetettség vizsgálata céljából a terrorizmust elhárító szervnek, a nemzetbiztonsági érdek vizsgálata céljából az Alkotmányvédelmi Hivatalnak továbbíthatja.
 
@@ -1953,7 +2022,7 @@ részére.
 
 (2a) A rendőrség (1) bekezdésben meghatározott nyilvántartásából az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság – a huzamos tartózkodás jogszerűségének ellenőrzése céljából – a konkrét cél megjelölésével átveheti.
 
-(3) A rendőrség a határrendészeti adatállományból a 86. § és 87. § figyelembevételével külföldre határrendészeti, bűnüldözési, bűnmegelőzési, terrorelhárítása célból valamint az érintett vagy mások jogának védelme céljából továbbíthat adatot.
+(3) A rendőrség a határrendészeti adatállományból a 86. § és a 87. § figyelembevételével külföldre határrendészeti, bűnüldözési, bűnmegelőzési, terrorelhárítási célból, az (EU) 2019/1896 európai parlamenti és tanácsi rendelet alkalmazása céljából, valamint az érintett vagy mások jogának védelme céljából továbbíthat adatot.
 
 91/M. § (1) A rendőrség a határforgalom-ellenőrzés során – az illegális bevándorlás elleni intézkedések elősegítése céljából – az utasok repülésre történő bejelentkezése befejezésének időpontjától jogosult a személyszállítást végző légi fuvarozótól a (2) bekezdésben felsorolt adatokat kérni azokról az utasokról, akiket nem az Európai Unió valamely tagállamának vagy a schengeni vívmányoknak az Európai Unió keretében történő beillesztéséről szóló jegyzőkönyv 6. cikke alapján az Európai Unió Tanácsával kötött, a schengeni vívmányok végrehajtásában, alkalmazásában és fejlesztésében való részvételről szóló megállapodásban részes állam területéről szállít a személyszállítást végző légi fuvarozó Magyarország területére.
 
@@ -2235,12 +2304,12 @@ az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 104. § E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a) az Európai Határ- és Parti Őrségről és az (EU) 2016/399 európai parlamenti és tanácsi rendelet módosításáról, valamint a 863/2007/EK európai parlamenti és tanácsi rendelet, a 2007/2004/EK tanácsi rendelet és a 2005/267/EK tanácsi határozat hatályon kívül helyezéséről szóló, 2016. szeptember 14-i 2016/1624/EU európai parlamenti és tanácsi rendelet 40. cikk (2) bekezdése,
-- b) az Európai Határ- és Parti Őrségről és az (EU) 2016/399 európai parlamenti és tanácsi rendelet módosításáról, valamint a 863/2007/EK európai parlamenti és tanácsi rendelet, a 2007/2004/EK tanácsi rendelet és a 2005/267/EK tanácsi határozat hatályon kívül helyezéséről szóló 2016/1624/EU európai parlamenti és tanácsi rendelet 44. és 47. cikke [91/L. § (3) bekezdése],
+- a) az Európai Határ- és Parti Őrségről, valamint az 1052/2013/EU és az (EU) 2016/1624 rendelet hatályon kívül helyezéséről szóló, 2019. november 13-i (EU) 2019/1896 európai parlamenti és tanácsi rendelet,
+- b) az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 61. cikke értelmében az Európai Határ- és Parti Őrség készenléti alakulatának felállításához nyújtott pénzügyi támogatásról szóló, 2020. október 26-i (EU) 2020/1567 bizottsági végrehajtási határozat,
 - c) a fuvarozóknak az utasokkal kapcsolatos adatok közlésére vonatkozó kötelezettségéről szóló, 2004. április 29-i 2004/82/EK tanácsi irányelv 3. cikke és a 6. cikk (1) bekezdése,
 - d) a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet,
-- e) az Európai Határ- és Parti Őrségről és az (EU) 2016/399 európai parlamenti és tanácsi rendelet módosításáról, valamint a 863/2007/EK európai parlamenti és tanácsi rendelet, a 2007/2004/EK tanácsi rendelet és a 2005/267/EK tanácsi határozat hatályon kívül helyezéséről szóló, 2016. szeptember 14-i 2016/1624/EU európai parlamenti és tanácsi rendelet 40. cikk (8) bekezdés első albekezdése,
-- f) a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló, 2013. január 15-i, 98/2013/EU európai parlamenti és tanácsi rendelet 9. és 10. cikke,
+- e)
+- f) a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról, az 1907/2006/EK rendelet módosításáról, valamint a 98/2013/EU rendelet hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1148 európai parlamenti és tanácsi rendelet 9. cikke,
 - g) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 36. és 37. cikkei [46/B–46/C. §],
 - h) a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat 3–5. és 16. cikke [91/C. §],
 - i) a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló, 2008. július 9-i 767/2008/EK rendelet 18. és 20. cikke [29/A. §, 62/A. §, 84. §, 91/K. §],

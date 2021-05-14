@@ -13,7 +13,7 @@ A nemzet érdekében kiemelten fontos – napjaink információs társadalmát �
 - 1. adat: az információ hordozója, a tények, fogalmak vagy utasítások formalizált ábrázolása, amely az emberek vagy automatikus eszközök számára közlésre, megjelenítésre vagy feldolgozásra alkalmas;
 - 2. adatfeldolgozás: az adatkezelési műveletekhez kapcsolódó technikai feladatok elvégzése, függetlenül a műveletek végrehajtásához alkalmazott módszertől és eszköztől, valamint az alkalmazás helyétől, feltéve hogy a technikai feladatot az adatokon végzik;
 - 3. adatfeldolgozó: az a természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező szervezet, aki vagy amely szerződés alapján – beleértve a jogszabály rendelkezése alapján kötött szerződést is – adatok feldolgozását végzi;
-- 3a. adatgazda: annak a szervezeti egységnek a vezetője, ahová jogszabály vagy közjogi szervezetszabályozó eszköz az adat kezelését rendeli, illetve ahol az adat keletkezik;
+- 3a.
 - 4. adatkezelés: az alkalmazott eljárástól függetlenül az adatokon végzett bármely művelet vagy a műveletek összessége, így különösen az adatok gyűjtése, felvétele, rögzítése, rendszerezése, tárolása, megváltoztatása, felhasználása, lekérdezése, továbbítása, nyilvánosságra hozatala, összehangolása vagy összekapcsolása, zárolása, törlése és megsemmisítése, valamint az adatok további felhasználásának megakadályozása, fénykép-, hang- vagy képfelvétel készítése, valamint a személy azonosítására alkalmas fizikai jellemzők rögzítése;
 - 5. adatkezelő: az a természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező szervezet, aki vagy amely önállóan vagy másokkal együtt az adatok kezelésének célját meghatározza, az adatkezelésre (beleértve a felhasznált eszközt) vonatkozó döntéseket meghozza és végrehajtja, vagy az adatfeldolgozóval végrehajtatja;
 - 6. adminisztratív védelem: a védelem érdekében hozott szervezési, szabályozási, ellenőrzési intézkedések, továbbá a védelemre vonatkozó oktatás;
@@ -40,7 +40,11 @@ A nemzet érdekében kiemelten fontos – napjaink információs társadalmát �
 - 20. fizikai védelem: a fizikai térben megvalósuló fenyegetések elleni védelem, amelynek fontosabb részei a természeti csapás elleni védelem, a mechanikai védelem, az elektronikai jelzőrendszer, az élőerős védelem, a beléptető rendszer, a megfigyelő rendszer, a tápáramellátás, a sugárzott és vezetett zavarvédelem, klimatizálás és a tűzvédelem;
 - 21. folytonos védelem: az időben változó körülmények és viszonyok között is megszakítás nélkül megvalósuló védelem;
 - 22. globális kibertér: a globálisan összekapcsolt, decentralizált, egyre növekvő elektronikus információs rendszerek, valamint ezen rendszereken keresztül adatok és információk formájában megjelenő társadalmi és gazdasági folyamatok együttese;
-- 23. honvédelmi célú elektronikus információs rendszer: a honvédelmi szervezetek, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő többcélú szakképző intézmény, a honvédelemért felelős miniszter tulajdonosi joggyakorlása alá tartozó gazdasági társaságok, az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságok, valamint jogszabály szerint a honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságok zárt célú elektronikus információs rendszereinek, valamint egyéb – funkciója, rendeltetése, feladatellátása szerint – nyílt elektronikus információs rendszereinek összessége, amely ágazatspecifikus módon támogatja a honvédelmi ágazaton belüli és ágazatok közötti működést;
+- 23. honvédelmi célú elektronikus információs rendszer:
+  - a) a honvédelmi szervezetek, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő többcélú szakképző intézmény, a honvédelemért felelős miniszter tulajdonosi joggyakorlása alá tartozó gazdasági társaságok, az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságok, valamint jogszabály szerint a honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságok zárt célú elektronikus információs rendszereinek, valamint egyéb – funkciója, rendeltetése, feladatellátása szerint – nyílt elektronikus információs rendszereinek összessége, amely ágazatspecifikus módon támogatja a honvédelmi ágazaton belüli és ágazatok közötti működést,
+  - b) a honvédelmi létfontosságú rendszerelemek azonosításáról, kijelöléséről és védelméről szóló kormányrendelet alapján kijelölt ágazaton belüli honvédelmi létfontosságú rendszerelemek elektronikus információs rendszerei,
+  - c) az illetékes ágazatban ki nem jelölt, a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvényben meghatározott ágazaton kívüli honvédelmi rendszerelem elektronikus információs rendszerei, valamint
+  - d) a honvédelmi ágazat hatáskörébe tartozó nemzetbiztonsági védelem alá eső szervek elektronikus információs rendszere;
 - 24.
 - 25. információ: bizonyos tényekről, tárgyakról vagy jelenségekről hozzáférhető formában megadott megfigyelés, tapasztalat vagy ismeret, amely valakinek a tudását, ismeretkészletét, annak rendezettségét megváltoztatja, átalakítja, alapvetően befolyásolja, bizonytalanságát csökkenti vagy megszünteti;
 - 26. kiberbiztonság: a kibertérben létező kockázatok kezelésére alkalmazható politikai, jogi, gazdasági, oktatási és tudatosságnövelő, valamint technikai eszközök folyamatos és tervszerű alkalmazása, amelyek a kibertérben létező kockázatok elfogadható szintjét biztosítva a kiberteret megbízható környezetté alakítják a társadalmi és gazdasági folyamatok zavartalan működéséhez és működtetéséhez;
@@ -51,7 +55,7 @@ A nemzet érdekében kiemelten fontos – napjaink információs társadalmát �
 - 31. kockázatokkal arányos védelem: az elektronikus információs rendszer olyan védelme, amelynek során a védelem költségei arányosak a fenyegetések által okozható károk értékével;
 - 32. korai figyelmeztetés: valamely fenyegetés várható bekövetkezésének jelzése a fenyegetés bekövetkezése előtt annyi idővel, hogy hatékony védelmi intézkedéseket lehessen hozni;
 - 32a. kritikus adat: a személyes adat vagy valamely jogszabállyal védett adat;
-- 33. létfontosságú információs rendszerelem: az európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt létfontosságú rendszerelemek azon elektronikus információs létesítményei, eszközei vagy szolgáltatásai, amelyek működésképtelenné válása vagy megsemmisülése az európai vagy nemzeti létfontosságú rendszerelemmé kijelölt rendszerelemeket vagy azok részeit elérhetetlenné tenné, vagy működőképességüket jelentősen csökkentené;
+- 33.
 - 34. logikai védelem: az elektronikus információs rendszerben információtechnológiai eszközökkel és eljárásokkal (programokkal, protokollokkal) kialakított védelem;
 - 35. magyar kibertér: a globális kibertér elektronikus információs rendszereinek azon része, amelyek Magyarországon találhatóak, valamint a globális kibertér elektronikus rendszerein keresztül adatok és információk formájában megjelenő társadalmi és gazdasági folyamatok közül azok, amelyek Magyarországon történnek vagy Magyarországra irányulnak, illetve Magyarország érintett benne;
 - 36. megelőzés: a fenyegetés hatása bekövetkezésének elkerülése;
@@ -71,7 +75,7 @@ A nemzet érdekében kiemelten fontos – napjaink információs társadalmát �
 
 (2)
 
-(3) E törvény alkalmazásában egy elektronikus információs rendszernek kell tekinteni adott adatgazda által, adott cél érdekében az adatok, információk kezelésére használt eszközök (környezeti infrastruktúra, hardver, hálózat és adathordozók), eljárások (szabályozás, szoftver és kapcsolódó folyamatok), valamint az ezeket kezelő személyek együttesét.
+(3) E törvény alkalmazásában egy elektronikus információs rendszernek kell tekinteni adott adatkezelő vagy adatfeldolgozó által, adott cél érdekében az adatok, információk kezelésére használt eszközök – így különösen környezeti infrastruktúra, hardver, hálózat és adathordozók –, eljárások – így különösen szabályozás, szoftver és kapcsolódó folyamatok –, valamint az ezeket kezelő személyek együttesét.
 
 #### 2. A törvény hatálya
 
@@ -87,22 +91,22 @@ A nemzet érdekében kiemelten fontos – napjaink információs társadalmát �
 - h) az Állami Számvevőszékre,
 - i) a Magyar Nemzeti Bankra,
 - j) a fővárosi és megyei kormányhivatalokra,
-- k) a helyi és a nemzetiségi önkormányzatok képviselő-testületének hivatalaira, a hatósági igazgatási társulásokra,
+- k) a helyi önkormányzatok képviselő-testületének hivatalaira, a hatósági igazgatási társulásokra,
 - l) a Magyar Honvédségre.
 
 (2) E törvény rendelkezéseit kell alkalmazni:
 
 - a) az (1) bekezdésben meghatározott szervek és ezen szervek számára adatkezelést végzők,
 - b) a jogszabályban meghatározott, a nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozói,
-- c) az európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt rendszerelemek,
+- c) az európai vagy nemzeti létfontosságú rendszerelemmé – a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján – kijelölt rendszerelemeknek a létfontosságú tevékenységben közreműködő,
 - d) az alapvető szolgáltatást nyújtó szereplőknek az alapvető szolgáltatás nyújtásában közreműködő,
-- e) a nemzetbiztonsági védelem alá eső szervek
+- e) az elektronikus információs rendszert működtető, a központi államigazgatási és kormányzati tevékenység szempontjából fontos, nemzetbiztonsági védelem alá eső szervek
 
 elektronikus információs rendszereinek védelmére.
 
 (3) A Kormány rendeletében meghatározott, a honvédelmért felelős miniszter vezetése, irányítása alatt álló szervek zárt célú elektronikus információs rendszerei esetében az e törvény szerinti hatósági feladatokat, a biztonsági felügyeletet a Kormány által kijelölt szerv kormányrendeletben meghatározottak szerint látja el.
 
-(4)
+(4) A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény rendelkezései alapján a különleges jogrend ideje alatt nemzeti létfontosságú rendszerelemmé kijelölt rendszerelem tekintetében e törvény rendelkezéseit kizárólag akkor kell alkalmazni, ha a különleges jogrend megszűnését követő felülvizsgálat eredményeként a kijelölését fenntartották.
 
 (5) A honvédelmi célú elektronikus információs rendszerek esetében, az e törvény szerinti hatósági feladatokat, a biztonsági felügyeletet a honvédelmi ágazaton belül működő, a Kormány által kijelölt szerv kormányrendeletben meghatározottak szerint látja el.
 
@@ -115,7 +119,7 @@ elektronikus információs rendszereinek védelmére.
 
 meghatározott eltérésekkel kell alkalmazni.
 
-3. § (1) A 2. § (1) bekezdés a)–h) és j)–l) pontjában megjelölt szervek, valamint – a monetáris politika végrehajtásával és a devizatartalék kezelésével kapcsolatos kockázatértékelési és portfoliókezelési tevékenység keretében kezelt adatok kivételével – a 2. § (1) bekezdés i) pontjában megjelölt szerv által kezelt adatok és a 2. § (2) bekezdés b) pontjában megjelölt szervezetek által kezelt, a nemzeti adatvagyon részét képező adatok Magyarország területén üzemeltetett és tárolt elektronikus információs rendszerekben, valamint honvédelmi, diplomáciai információs célokra használt zárt célú elektronikus információs rendszerben kezelhetőek.
+3. § (1) A 2. § (1) bekezdés a)–h) és j)–l) pontjában megjelölt szervek, valamint – a monetáris politika végrehajtásával és a devizatartalék kezelésével kapcsolatos kockázatértékelési és portfóliókezelési tevékenység keretében kezelt adatok kivételével – a 2. § (1) bekezdés i) pontjában megjelölt szerv által kezelt adatok és a 2. § (2) bekezdés a), b) és e) pontjában megjelölt szervezetek által kezelt, a nemzeti adatvagyon részét képező adatok Magyarország területén üzemeltetett és tárolt elektronikus információs rendszerekben, valamint honvédelmi, diplomáciai információs célokra használt zárt célú elektronikus információs rendszerben kezelhetőek.
 
 (2) A 2. § (2) bekezdés c) és d) pontjában megjelölt elektronikus információs rendszerek – az (1) bekezdésben meghatározott kivétellel – az Európai Unió tagállamai területén üzemeltethetőek.
 
@@ -153,13 +157,13 @@ zárt, teljes körű, folytonos és kockázatokkal arányos védelmét.
 
 (4) Az elektronikus információs rendszer bizalmasság, sértetlenség és rendelkezésre állás szerinti biztonsági osztálya alapján kell megvalósítani az 5. és 6. §-ban előírt védelmi intézkedéseket az adott elektronikus információs rendszerre vonatkozóan.
 
-(5) A szervezet vezetője az e törvényben meghatározott feltételeknek megfelelő, az elektronikus információs rendszerre irányadó biztonsági osztálynál magasabb, kivételes esetben a hatóság előzetes engedélyével, kockázatokra kiterjedő indoklással ellátva alacsonyabb biztonsági osztályt is megállapíthat az elektronikus információs rendszerre vonatkozóan.
+(5)
 
-(6) Az európai vagy nemzeti létfontosságú rendszerelemmé a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján kijelölt rendszerelemek elektronikus információs rendszerei tekintetében az e törvényben meghatározott feltételeknek megfelelő, az elektronikus információs rendszerre irányadó biztonsági osztálynál magasabb, a hatóság előzetes engedélyével, kockázatokra kiterjedő indoklással ellátva alacsonyabb biztonsági osztály is megállapítható.
+(6)
 
 8. § (1) A biztonsági osztályba sorolást legalább háromévenként vagy szükség esetén soron kívül, dokumentált módon felül kell vizsgálni.
 
-(2) A soron kívüli biztonsági osztályba sorolást az elektronikus információs rendszer biztonságát érintő jogszabályban meghatározott változás vagy új elektronikus információs rendszer bevezetése esetén szükséges elvégezni. A soron kívüli felülvizsgálatot akkor is el kell végezni, ha a szervezet státuszában, illetve az általa kezelt vagy feldolgozott adatok vonatkozásában változás következik be.
+(2) A soron kívüli biztonsági osztályba sorolást az elektronikus információs rendszer biztonságát érintő, jogszabályban meghatározott változás vagy új elektronikus információs rendszer bevezetése esetén szükséges elvégezni. A soron kívüli felülvizsgálatot akkor is el kell végezni, ha a szervezet státuszában, illetve az általa kezelt vagy feldolgozott adatok vonatkozásában változás következik be.
 
 (3) A 7. § (2) bekezdésében foglaltakkal összhangban előírt, az elektronikus információs rendszerre vonatkozó védelem elvárt erősségének eléréséhez a szervezetnek lehetősége van a biztonsági intézkedések fokozatos kivitelezésére. Ennek keretében az első vizsgálatkor megállapított biztonsági osztályt alapul véve, minden egyes következő, magasabb biztonsági osztályhoz rendelt biztonsági intézkedések kivitelezésére két év áll rendelkezésére.
 
@@ -182,7 +186,7 @@ zárt, teljes körű, folytonos és kockázatokkal arányos védelmét.
 - c) üzemeltetéséért felelős vagy
 - d) információbiztonságáért felelős
 
-szervezeti egységeket az elektronikus információs rendszerek védelmére való felkészültségük alapján a szervezettől elvárt, eltérő biztonsági szintekbe kell sorolni jogszabályban meghatározott szempontok szerint.
+szervezeti egységek az elektronikus információs rendszerek védelmére való felkészültségük alapján a szervezettől eltérő biztonsági szintekbe sorolhatók jogszabályban meghatározott szempontok szerint.
 
 (3) A szervezet vagy szervezeti egységek biztonsági szintjét a szervezet védelemre való felkészültsége határozza meg.
 
@@ -202,9 +206,9 @@ szervezeti egységeket az elektronikus információs rendszerek védelmére val�
 
 (5) A biztonsági szint meghatározását a 9. § (1) bekezdésében előírt biztonsági szint elérését követően legalább háromévenként, szükség esetén soron kívül, dokumentált módon felül kell vizsgálni.
 
-(6) Az elektronikus információs rendszer biztonságát érintő változás esetén, illetve új elektronikus információs rendszer bevezetésekor a szervezet vagy szervezeti egység biztonsági szintbe sorolását soron kívül meg kell ismételni.
+(6) Az elektronikus információs rendszer biztonságát érintő változás esetén, illetve új elektronikus információs rendszer bevezetésekor a szervezet vagy szervezeti egység biztonsági szintbe sorolását soron kívül meg kell ismételni. A soron kívüli felülvizsgálatot követően a (2) bekezdésben foglaltak szerint cselekvési tervet kell készíteni.
 
-(7) Ha a soron kívüli felülvizsgálat alapján meghatározott biztonsági szint alacsonyabb, mint az adott szervezetre vagy szervezeti egységre előírt biztonsági szint, akkor a szervezetnek vagy szervezeti egységnek a vizsgálatot követő 90 napon belül cselekvési tervet kell készítenie a számára előírt biztonsági szint elérésére.
+(7)
 
 (8) A szervezet vagy felelős szervezeti egység biztonsági szintbe sorolását a szervezet vezetője hagyja jóvá, és felel annak a jogszabályoknak és kockázatoknak való megfelelőségéért, a felhasznált adatok teljességéért és időszerűségéért. A biztonsági szintbe sorolás eredményét a szervezet informatikai biztonsági szabályzatában vagy szervezeti egységre irányadó szabályzatban kell rögzíteni.
 
@@ -232,11 +236,11 @@ szervezeti egységeket az elektronikus információs rendszerek védelmére val�
 
 (4)
 
-(5) A nemzetbiztonsági védelem alá eső állami szervek esetében az elektronikus információs rendszer biztonságáért felelős személy kinevezése tekintetében az eseménykezelő központ előzetes véleményezési jogot gyakorol.
+(5)
 
-(6) A biztonsági esemény kivizsgálásában részt vevő személy csak az lehet, aki rendelkezik a szervezet vezetője által – az eseménykezelő központ előzetes véleményezésével – kiadott megbízással. A megbízást írásba kell foglalni. A biztonsági esemény kivizsgálásában részt vevő személynek a megbízás előtt részt kell vennie a biztonságiesemény-kezelő eljárásról szóló, eseménykezelő központ által tartott tájékoztató előadáson.
+(6)
 
-(7) A honvédelmi célú elektronikus információs rendszerek esetében az (5) és (6) bekezdés rendelkezései nem alkalmazhatóak.
+(7)
 
 12. § A szervezet vezetője köteles együttműködni a hatósággal. Ennek során:
 
@@ -284,34 +288,34 @@ e törvény hatálya alá tartozó elektronikus információs rendszereit érint
 
 #### 7. Az elektronikus információs rendszerek biztonságának felügyelete
 
-14. § (1) Az e törvény hatálya alá tartozó elektronikus információs rendszerek biztonsági felügyeletét – a honvédelmi célú elektronikus információs rendszerek, valamint a honvédelmi létfontosságú rendszerelemek és a honvédelmi ágazat hatáskörébe tartozó nemzetbiztonsági védelem alá eső szervek kivételével – a Kormány által kijelölt hatóság látja el.
+14. § (1) Az e törvény hatálya alá tartozó elektronikus információs rendszerek biztonsági felügyeletét – a honvédelmi célú elektronikus információs rendszerek kivételével – a Kormány által kijelölt hatóság látja el.
 
 (2) A hatóság feladata:
 
-- a) az osztályba sorolás és a biztonsági szint megállapításának ellenőrzése és az ellenőrzés eredménye alapján döntés meghozatala,
+- a) a biztonsági osztályba és a biztonsági szintbe sorolás megalapozottságának vizsgálata és a vizsgálat eredménye alapján döntés meghozatala,
 - b) az elektronikus információs rendszerek osztályba sorolására és a szervezetek biztonsági szintjeire vonatkozó, jogszabályban meghatározott követelmények teljesülésének ellenőrzése,
 - c) az ellenőrzés során a feltárt vagy tudomására jutott biztonsági hiányosságok elhárításának elrendelése, és eredményességének ellenőrzése,
-- d) a rendelkezésre álló információk alapján kockázatelemzés elvégzése,
-- e) a hozzá érkező biztonsági eseményekkel kapcsolatos bejelentések kivizsgálására irányuló hatósági eljárás megindítása,
+- d)
+- e) a hozzá érkező biztonsági eseményekről a 19. § (1) bekezdése szerinti eseménykezelő központ értesítése, hatósági eljárás megindítása,
 - f) javaslattétel a létfontosságú rendszerek és létesítmények védelmi szabályozását biztosító, a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény szerinti ágazati kijelölő hatóság részére a nemzeti létfontosságú rendszerelem kijelölésére,
 - g)
 - h) együttműködés az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott elektronikus ügyintézési felügyelettel a szabályozott elektronikus ügyintézési szolgáltatás szolgáltatókra vonatkozó biztonsági követelmények teljesülésének ellenőrzésében,
 - i) kapcsolattartás az elektronikus információbiztonság területén a nemzetbiztonsági szolgálatokkal,
-- j) kapcsolattartás a 19. § (1)–(4) bekezdésében meghatározott eseménykezelő központokkal,
+- j) kapcsolattartás a 19. § (1) és (2) bekezdésében meghatározott eseménykezelő központokkal,
 - k)–n)
 
 (2a) A hatóság a (2) bekezdés szerinti feladatait a polgári hírszerző tevékenységet végző nemzetbiztonsági szolgálat elektronikus információs rendszerei vonatkozásában – az azokon tárolt adatok megismerése nélkül – kormányrendeletben meghatározottak szerint látja el.
 
-(3) A hatóság eljárásainak általános ügyintézési határideje – a (3a) bekezdésben meghatározott kivétellel – 30 nap.
+(3) A hatóság eljárása során a sommás eljárás alkalmazása kizárt.
 
-(3a) A hatóság által lefolytatott hatósági eljárás ügyintézési határideje a logikai védelmi kötelezettség teljesítésére irányuló vizsgálat esetén százhúsz nap.
+(3a) A hatóság által lefolytatott hatósági eljárás ügyintézési határideje a logikai védelmi kötelezettség teljesítésére irányuló vizsgálat és a biztonsági események kivizsgálására irányuló hatósági eljárás esetén százhúsz nap.
 
 (3b) A hatóság eljárásaiban
 
 - a) az ügyfél értesítése az eljárás megindításáról mellőzhető,
 - b) a szervezet köteles a szakértői eljárásban közreműködni.
 
-(4) A (2) bekezdés a) és b) pontjában foglalt feladatok ellátása körében a hatóság javaslatára az e-közigazgatásért felelős miniszter az informatikáért felelős miniszter egyetértésével, valamint a minősített adatok védelmének szakmai felügyeletéért felelős miniszter és a katasztrófák elleni védekezésért felelős miniszter javaslatainak figyelembevételével éves ellenőrzési tervet (a továbbiakban: éves ellenőrzési terv) készít.
+(4) A (2) bekezdés b) pontjában foglalt feladatok ellátása körében a hatóság javaslatára az e-közigazgatásért felelős miniszter az informatikáért felelős miniszter egyetértésével, valamint a minősített adatok védelmének szakmai felügyeletéért felelős miniszter és a katasztrófák elleni védekezésért felelős miniszter javaslatainak figyelembevételével éves ellenőrzési tervet (a továbbiakban: éves ellenőrzési terv) készít.
 
 15. § (1) A hatóság nyilvántartja és kezeli
 
@@ -320,12 +324,13 @@ e törvény hatálya alá tartozó elektronikus információs rendszereit érint
 - c) a szervezetnek az elektronikus információs rendszer biztonságáért felelős személye természetes személyazonosító adatait, telefon- és telefaxszámát, e-mail címét, a 13. § (8) bekezdésében meghatározott végzettségét,
 - d) a szervezet informatikai biztonsági szabályzatát,
 - e) a biztonsági eseményekkel kapcsolatos, az eseménykezelő központtól kapott értesítéseket.
+- f) a sérülékenységvizsgálatok eredményét, valamint a sérülékenységek megszüntetésére vonatkozó intézkedési terveket.
 
 (2) Az (1) bekezdésben meghatározott adatok kezelésének célja az elektronikus információs rendszerek védelmével kapcsolatos kötelezettségek teljesítése és hatósági ellenőrzésének biztosítása.
 
-(3) A szervezet az (1) bekezdés a)–c) pontjában meghatározott adatokat és ezek változásait, valamint az (1) bekezdés d) pontja szerinti szabályzatot megküldi a hatóságnak a nyilvántartásba vétel érdekében.
+(3) A szervezet az (1) bekezdés a)–c) pontjában meghatározott adatokat, az (1) bekezdés d) pontja szerinti szabályzatot, valamint ezek változásait megküldi a hatóságnak a nyilvántartásba vétel érdekében.
 
-(4) Az (1) bekezdésben meghatározott nyilvántartásból – ha jogszabály eltérően nem rendelkezik – adattovábbítás kizárólag a 19. § (1)–(4) bekezdésében meghatározott eseménykezelő központok részére végezhető.
+(4) Az (1) bekezdésben meghatározott nyilvántartásból – ha jogszabály eltérően nem rendelkezik – adattovábbítás kizárólag a 19. § (1) és (2) bekezdésében meghatározott eseménykezelő központok részére végezhető.
 
 (5) Ha a szervezet e törvény hatálya alá tartozó tevékenységet már nem végez, akkor az (1) bekezdésben meghatározott adatokat a hatóság a tevékenység befejezése bejelentését követő öt év elteltével köteles a nyilvántartásból törölni.
 
@@ -334,9 +339,9 @@ e törvény hatálya alá tartozó elektronikus információs rendszereit érint
 16. § (1) A hatóság az elektronikus információs rendszerek, és az azokban kezelt adatok biztonsága érdekében jogosult megtenni, elrendelni, ellenőrizni minden olyan, az elektronikus információs rendszer védelmére vonatkozó intézkedést, amellyel az érintett elektronikus információs rendszert veszélyeztető fenyegetések kezelhetőek. Ennek érdekében jogosult:
 
 - a) az érintett szervezeteknél a jogszabályokban foglalt biztonsági követelményeket és az ehhez kapcsolódó eljárási szabályok teljesülését ellenőrizni,
-- b) a követelményeknek való megfelelőség alátámasztásához szükséges dokumentumokat bekérni, illetve a 12. § b) pontja alapján megküldött dokumentációt felülvizsgálni,
+- b) a követelményeknek való megfelelőség alátámasztásához szükséges dokumentumokat bekérni, illetve a 12. § b) pontja alapján megküldött dokumentum felülvizsgálatát elrendelni,
 - c) a 7–8. § szerinti biztonsági osztályba sorolást, a 9–10. § szerinti biztonsági szint megállapítását, vagy a védelmi intézkedéseket ellenőrizni, az ott feltárt hiányosságok felszámolásához szükséges intézkedéseket elrendelni, ezek teljesülését ellenőrizni,
-- d) a központi és az európai uniós forrásból megvalósuló fejlesztési projektek tervezési szakaszában ellenőrizni az információbiztonsági követelmények megtartását,
+- d) a központi és az európai uniós forrásból megvalósuló fejlesztési projektek tervezési, kivitelezési és záró szakaszában ellenőrizni az információbiztonsági követelmények megtartását,
 - e) hazai információbiztonsági, kibervédelmi gyakorlatokat szervezni,
 - f) a nemzetközi információbiztonsági, kibervédelmi gyakorlatokon felkérésre képviselni Magyarországot,
 - g) véleményezési jogot gyakorolni az eseménykezelő központnak az ágazatok közötti, a biztonsági események esetén követendő szabályokról és felelősségi körökről szóló tervezetével kapcsolatban,
@@ -378,7 +383,7 @@ amely a rendszert működtető szervezet működéséhez szükséges alapvető i
 
 (5) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő határozatot a hatóság hirdetményi úton közli. A hirdetményt a hatóság honlapján kell közzétenni. A határozat közlésének napja a hirdetmény közzétételének napja.
 
-(6) Az ideiglenes hozzáférhetetlenné tétel végrehajtását a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) az elektronikus hírközlésről szóló törvény alapján szervezi és ellenőrzi.
+(6) Az ideiglenes hozzáférhetetlenné tétel végrehajtását a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) szervezi és ellenőrzi.
 
 (7) A hatóság 1 millió forinttól 5 millió forintig terjedő bírsággal sújthatja azt az elektronikus hírközlési szolgáltatót, amely e § szerinti kötelezettségének nem tesz eleget. A bírság a kötelezettség teljesítésére megszabott határidő eredménytelen elteleltét követően – újabb határidő megjelölése mellett – ismételten is kiszabható.
 
@@ -408,7 +413,7 @@ amely a rendszert működtető szervezet működéséhez szükséges alapvető i
 
 (2) A törvény hatálya alá tartozó szervezet sérülékenységvizsgálatot, biztonsági esemény vizsgálatát a hatóság felhívása nélkül is kezdeményezhet.
 
-(2a) A kormányrendeletben meghatározott, sérülékenységvizsgálat lefolytatására jogosult szerv saját hatáskörben maga is indíthat és lefolytathat sérülékenységvizsgálatot regisztrált felhasználói jogosultság birtokában, illetve annak hiányában is, külön jogszabályban meghatározott feltételek szerint.
+(2a) A (3) bekezdés a) pontja szerinti állami szerv hivatalból is indíthat és lefolytathat sérülékenységvizsgálatot regisztrált felhasználói jogosultság birtokában, illetve annak hiányában is, jogszabályban meghatározott feltételek szerint.
 
 (3) A sérülékenységvizsgálatot, illetve a biztonsági esemény vizsgálatát – az (5) bekezdésben foglalt szervek és elektronikus információs rendszerek kivételével –
 
@@ -477,17 +482,15 @@ biztonsági események és fenyegetések kezelése érdekében eseménykezelő k
 
 #### 11. A kormányzati koordináció biztosítása
 
-21. § (1) Az e-közigazgatásért felelős miniszter által vezetett Nemzeti Kiberbiztonsági Koordinációs Tanács (a továbbiakban: Tanács) a Kormány javaslattevő, véleményező szerveként gondoskodik a 2. § (1), (2) és (5) bekezdésében, valamint a 14. § (1) bekezdésében meghatározott szervezetek e törvényben és végrehajtási rendeleteiben meghatározott tevékenységeinek összehangolásáról.
+21. § (1) Az e-közigazgatásért felelős miniszter által kijelölt személy által vezetett Nemzeti Kiberbiztonsági Koordinációs Tanács (a továbbiakban: Tanács) a Kormány javaslattevő, véleményező szerveként gondoskodik a 2. § (1), (2) és (5) bekezdésében, valamint a 14. § (1) bekezdésében meghatározott szervezetek e törvényben és végrehajtási rendeleteiben meghatározott tevékenységeinek összehangolásáról.
 
-(2) A Tanács tevékenységét az e-közigazgatásért felelős miniszter által delegált kiberkoordinátor, valamint a nem kormányzati szereplőkkel való együttműködésnek keretet biztosító kiberbiztonsági munkacsoportok és a Nemzeti Kiberbiztonsági Fórum (a továbbiakban: Fórum) támogatja.
-
-(3)–(4)
+(2) A Tanács tevékenységét az e-közigazgatásért felelős miniszter által delegált kiberkoordinátor, valamint a kiberbiztonsági munkacsoportok és a nem kormányzati szereplőkkel való együttműködésnek keretet biztosító Nemzeti Kiberbiztonsági Fórum (a továbbiakban: Fórum) támogatja.
 
 #### 12. Adatvédelmi rendelkezések
 
-22. § (1) A 2. § (5) bekezdése, valamint a 18. § (3) bekezdése szerinti szerv vagy gazdálkodó szervezet, az e törvényben meghatározott, az elektronikus információs rendszerek védelmével összefüggő feladataik ellátása során megismert minősített adatot, személyes adatot vagy különleges adatot, üzleti titkot, banktitkot, fizetési titkot, biztosítási titkot, értékpapírtitkot, pénztártitkot, orvosi titkot és más hivatás gyakorlásához kötött titkot kizárólag a feladat ellátásának időtartama alatt, a célhoz kötöttség elvének figyelembevételével jogosultak kezelni. A feladatellátás befejezését követően a feladatellátáshoz kapcsolódóan rögzített adatokat – a (2) bekezdésben meghatározott kivétellel – kötelesek az elektronikus információs rendszereikből és adathordozóikról törölni.
+22. § (1) A hatóság, a 2. § (5) bekezdése szerinti szerv, a 18. § (3) bekezdése szerinti szerv vagy gazdálkodó szervezet, valamint a 19. § (1) és (2) bekezdése szerinti eseménykezelő központ az e törvényben meghatározott elektronikus információs rendszerek védelmével összefüggő feladatai ellátása során megismert minősített adatot, személyes adatot vagy különleges adatot, üzleti titkot, banktitkot, fizetési titkot, biztosítási titkot, értékpapírtitkot, pénztártitkot, orvosi titkot és más hivatás gyakorlásához kötött titkot kizárólag a feladat ellátásának időtartama alatt, a célhoz kötöttség elvének figyelembevételével jogosult kezelni. A feladatellátás befejezését követően a feladatellátáshoz kapcsolódóan rögzített adatokat – a (2) bekezdésben meghatározott kivétellel – köteles az elektronikus információs rendszereiből és adathordozóiról törölni.
 
-(2) A hatóság, a 18. § (5) bekezdése szerinti szerv, valamint a 19. § (1) és (2) bekezdése szerinti eseménykezelő központ az (1) bekezdésben meghatározott adatokat a hatósági döntés véglegessé válását, a sérülékenységvizsgálat lezárását, valamint a biztonsági esemény vizsgálatának lefolytatását követő öt évig jogosultak kezelni, és az öt év elteltével kötelesek az elektronikus információs rendszereikből és adathordozóikról törölni.
+(2) A hatóság, a 2. § (5) bekezdése szerinti szerv, a 18. § (5) bekezdése szerinti szerv, valamint a 19. § (1) és (2) bekezdése szerinti eseménykezelő központ az (1) bekezdésben meghatározott adatokat a hatósági döntés véglegessé válását, a sérülékenységvizsgálat lezárását, valamint a biztonsági esemény vizsgálatának lefolytatását követő öt évig jogosult kezelni, és az öt év elteltével köteles az elektronikus információs rendszereiből és adathordozóiról törölni.
 
 (3) A hatóság, a 2. § (5) bekezdése szerinti szerv, a 18. § (3) bekezdése szerinti szerv vagy gazdálkodó szervezet, a 18. § (5) bekezdése szerinti szerv, valamint a 19. § (1) és (2) bekezdése szerinti eseménykezelő központ munkatársait az (1) bekezdés szerint megismert adatok tekintetében írásba foglalt titoktartási kötelezettség terheli, amely a foglalkoztatásra irányuló jogviszony megszűnését követő 5 évig, minősített adatok tekintetében azok érvényességi idejének végéig, személyes adatok tekintetében pedig időkorlát nélkül fennmarad.
 
@@ -499,7 +502,7 @@ biztonsági események és fenyegetések kezelése érdekében eseménykezelő k
 
 22/A. § (1) Az e törvény hatálya alá tartozó szervezetek és elektronikus információs rendszerek tekintetében
 
-- a) a 7. § szerinti biztonsági osztályba sorolás eredményének bejelentése, a 8. § (5) bekezdése szerinti cselekvési terv, a 15. § (1) bekezdés a)–c) pontja szerinti adatok és a 15. § (1) bekezdés d) pontja szerinti szabályzat megküldése a hatóság felé,
+- a) a 7. § szerinti biztonsági osztályba sorolás, a 9. § szerinti biztonsági szintbe sorolás eredményének bejelentése, a 8. § (5) bekezdése szerinti cselekvési terv, a 10. § (2) bekezdése szerinti cselekvési terv, a 15. § (1) bekezdés a)–c) pontja szerinti adatok és a 15. § (1) bekezdés d) pontja szerinti szabályzat megküldése a hatóságnak,
 - b) a 13. § (3) bekezdése szerinti biztonsági esemény bejelentése az eseménykezelő felé a hatóság és az eseménykezelő központ által működtetett elektronikus rendszerben, elektronikus úton történik.
 
 (2) Biztonsági esemény bejelentése bármely csatornán megvalósítható, ha a szervezet elektronikus információs rendszere oly mértékben sérül, hogy az elektronikus kapcsolattartás lehetetlenné válik.
@@ -523,13 +526,13 @@ biztonsági események és fenyegetések kezelése érdekében eseménykezelő k
 - b) a hatóság által kiszabható bírság mértékét, a bírság kiszabásának és befizetésének részletes eljárási szabályait,
 - c) az információbiztonsági felügyelő kirendelésének szabályait, feladatkörét és eljárásának rendjét,
 - d) a korai figyelmeztetés részletes szabályait, így különösen annak rendszerét, a rendszer üzemeltetőjének kijelölését, valamint a kapcsolódó korai figyelmeztető szolgáltatás igénybevételének rendjét,
-- e) az eseménykezelő központot, feladat- és hatáskörét, a biztonságiesemény-kezelési eljárás részletes szabályait,
+- e) az eseménykezelő központot, annak feladat- és hatáskörét, valamint feladatai ellátásának részletes szabályait,
 - f) a 21. § szerinti Tanács, Fórum és a kiberbiztonsági ágazati munkacsoportok létrehozásával, működtetésével kapcsolatos szabályokat, feladat- és hatáskörüket,
 - g) a jogszabály által kijelölt központosított informatikai és elektronikus hírközlési szolgáltató e törvény alapján ellátandó feladataira vonatkozó részletes szabályokat,
 - h) a 2. § (3) bekezdése szerinti elektronikus információs rendszereket, valamint e rendszerek tekintetében a hatósági feladatokat ellátó szerveket és a feladatellátás részletes szabályait,
 - i) a 2. § (5) bekezdése szerinti hatóságot és a feladatellátás részletes szabályait,
 - j) a sérülékenységvizsgálatra, biztonsági esemény kivizsgálására feljogosított állami szerveket, a 18. § (3) bekezdés b) pontja szerinti gazdálkodó szervezettel szemben támasztott szakmai követelményeket, a sérülékenységvizsgálatra, biztonsági esemény kivizsgálására vonatkozó eljárási szabályokat, és
-- k) a 19. § (2)–(4) bekezdése szerinti eseménykezelő központot, feladat- és hatáskörét,
+- k) a 19. § (2) bekezdése szerinti eseménykezelő központot, feladat- és hatáskörét,
 - l) a 16. § (1) bekezdése szerinti független, képesített ellenőr igénybevételével kapcsolatos eljárásrendet,
 - m) a honvédelmi célú elektronikus információs rendszerre vonatkozóan a korai figyelmeztetés részletes szabályait, így különösen annak rendszerét, a rendszer üzemeltetőjének kijelölését, valamint a kapcsolódó korai figyelmeztető szolgáltatás igénybevételének rendjét,
 - n) a polgári hírszerző tevékenységet végző nemzetbiztonsági szolgálat elektronikus információs rendszerei vonatkozásában a hatóság 14. § (2) bekezdése, valamint a 20. § (1) bekezdése szerinti feladatait, továbbá a sérülékenység vizsgálat, illetve a biztonsági esemény vizsgálat részletes szabályait.
@@ -567,14 +570,16 @@ biztonsági események és fenyegetések kezelése érdekében eseménykezelő k
 
 - a) a 2. § (2) bekezdés a) pontja szerinti adatkezelési tevékenység feltétele, hogy az adatkezelést végző az adatkezelési tevékenység megkezdése előtt a törvény 7. § szerinti biztonsági osztályba sorolási, továbbá a (3) bekezdés szerinti bejelentési kötelezettségének eleget tegyen;
 - b) a 2. § (2) bekezdés b) pontja esetében a (3) bekezdés szerinti határidőket az adatfeldolgozói tevékenységet megalapozó jogszabály hatálybalépésétől kell számítani, a 7. § szerinti biztonsági osztályba sorolást az adatfeldolgozói tevékenységet megalapozó jogszabály hatálybalépését követő három hónapon belül kell elvégezni;
-- c) a 2. § (2) bekezdés c) pontja esetében a (3) bekezdés szerinti határidőket a létfontosságú információs rendszerelemmé kijelölő határozat véglegessé válásától kell számítani, a 7. § szerinti biztonsági osztályba sorolást a kijelölő határozat véglegessé válásától számított egy éven belül kell elvégezni.
+- c) a 2. § (2) bekezdés c) pontja esetében a (3) bekezdés szerinti határidőket a létfontosságú rendszerelemmé kijelölő határozat véglegessé válásától kell számítani, a 7. § szerinti biztonsági osztályba sorolást a kijelölő határozat véglegessé válásától számított egy éven belül kell elvégezni.
+- d) a 2. § (2) bekezdés d) pontja esetében a (3) bekezdés szerinti határidőket az alapvető szolgáltatást nyújtó szereplőként történő azonosításra vonatkozó határozat véglegessé válásától kell számítani, a 7. § szerinti biztonsági osztályba sorolást és a 9. § szerinti biztonsági szintbe sorolást az azonosító határozat véglegessé válásától számított egy éven belül kell elvégezni.
 
 (7) A (4) bekezdés szerinti kötelezettség teljesítésére megállapított határidőt a 2014. július 1-jét követően a törvény hatálya alá kerülő szervezetek esetében
 
 - a) a 2. § (1) bekezdés tekintetében a szervezet létesítését megalapozó döntés hatálybalépésétől;
 - b) a 2. § (2) bekezdés a) pont tekintetében az adatkezelés megkezdésétől;
-- c) a 2. § (2) bekezdés b) pont tekintetében az adatfeldolgozói tevékenységet megalapozó jogszabály hatálybalépésétől;
-- d) a 2. § (2) bekezdés c) pont tekintetében a létfontosságú információs rendszerelemmé kijelölő határozat véglegessé válásától
+- c) a 2. § (2) bekezdés b) pontja tekintetében az adatfeldolgozói tevékenységet megalapozó jogszabály hatálybalépésétől;
+- d) a 2. § (2) bekezdés c) pontja tekintetében a létfontosságú rendszerelemmé kijelölő határozat véglegessé válásától;
+- e) a 2. § (2) bekezdés d) pontja tekintetében az alapvető szolgáltatást nyújtó szereplőként történő azonosításról szóló határozat véglegessé válásától
 
 kell számítani.
 

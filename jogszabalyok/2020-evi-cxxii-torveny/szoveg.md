@@ -14,7 +14,9 @@ egyes állami tulajdonú vagyontárgyak ingyenes tulajdonba adásáról, valamin
 
 (2) A 2. § szerinti tulajdonátruházásról rendelkező szerződést az állam nevében a tulajdonosi joggyakorló készíti elő és köti meg. A szerződésben az ingóságok forgalmi értékeként a tulajdonosi joggyakorló által megállapított értéket kell megjelölni.
 
-4. § Az Országgyűlés e törvény hatálybalépésével egyidejűleg lemond az államnak az Egri Főegyházmegyével szemben, az egyházi jogi személy vagyonkezelésében lévő állami vagyonra vonatkozó visszapótlási kötelezettség alapján fennálló, a tulajdonosi joggyakorló által kezelt 130.922.538 forint összegű követeléséről azzal, hogy az egyházi jogi személy vállalja, hogy a vagyonkezelt állami ingatlanon saját forrásból megvalósított beruházás, valamint egyéb felmerült költségek tekintetében megtérítést nem érvényesít az állammal szemben.
+4. § Az Országgyűlés 2021. június 30-i hatállyal elengedi az államnak az Egri Főegyházmegyével szemben, az egyházi jogi személy vagyonkezelésében lévő állami vagyonra vonatkozó visszapótlási kötelezettség alapján fennálló, a tulajdonosi joggyakorló által kezelt 139 545 975 forint összegű követelését azzal, hogy az egyházi jogi személy vállalja, hogy a vagyonkezelt állami ingatlanon saját forrásból megvalósított beruházás, valamint egyéb felmerült költségek tekintetében megtérítést nem érvényesít az állammal szemben.
+
+4/A. § Az Ingatlan és az ahhoz kapcsolódó ingó vagyontárgyak tulajdonba adása során az Nvtv. 13. § (4) bekezdés b) pontjában, valamint (7) és (8) bekezdésében foglalt rendelkezéseket nem kell alkalmazni.
 
 #### 2. Egyes állami tulajdonú ingatlanok Kárpát-medencei Művészeti Népfőiskola Alapítvány részére történő ingyenes tulajdonba adása
 
@@ -31,6 +33,8 @@ egyes állami tulajdonú vagyontárgyak ingyenes tulajdonba adásáról, valamin
 (2) Az 1–4. § a kihirdetést követő nyolcadik napon lép hatályba.
 
 (3) Az 5. § és a 6. § 2021. január 1-jén lép hatályba.
+
+7/A. § A 4/A. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 8. §
 

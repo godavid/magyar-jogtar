@@ -143,7 +143,8 @@ nem tesz eleget, a fegyveres biztonsági őrség működése szerint illetékes 
 7. § (1) A fegyveres biztonsági őrrel akkor létesíthető jogviszony, ha
 
 - a) megfelel az e törvényben meghatározott feltételeknek, és
-- b) rendelkezik az Országos Képzési Jegyzékben a fegyveres biztonsági őrök számára meghatározott szakképesítéssel vagy a rendőrség, valamint a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet képviselőiből álló bizottság előtt e törvény, a végrehajtására kiadott jogszabályok és a szolgálati helye őrszolgálati okmányainak ismeretéből, a lőfegyver használatához szükséges szakismeretből és gyakorlati jártasságból eredményes vizsgát tett, valamint – a nukleáris és más radioaktív anyag, nukleáris létesítmény őrzését ellátó fegyveres biztonsági őrök esetében – teljesíti a jogszabályban meghatározott fizikai állóképességi és szakképesítésre vonatkozó követelményeket.
+- b) rendelkezik a miniszteri rendeletben előírt képesítéssel, valamint
+- c) a nukleáris és más radioaktív anyag, nukleáris létesítmény őrzését ellátó fegyveres biztonsági őrök esetében teljesíti a jogszabályban meghatározott fizikai állóképességi és szakképesítésre vonatkozó követelményeket.
 
 (1a) A honvédelemért felelős miniszter által létrehozott fegyveres biztonsági őrségben – a Katonai Nemzetbiztonsági Szolgálat létesítményei vonatkozásában létrehozott fegyveres biztonsági őrség kivételével – fegyveres biztonsági őr jogviszony létesíthető azzal is, aki
 

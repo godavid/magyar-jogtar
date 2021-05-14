@@ -100,7 +100,7 @@ gyakorolja.
 - a) előkészíti, illetve végrehajtja az Országgyűlés, a Kormány és a miniszter állami vagyonnal kapcsolatos döntéseit,
 - b) a tulajdonosi joggyakorlása alá tartozó állami vagyonra vonatkozó nyilvántartás mellett nyilvántartja az egyéb tulajdonosi joggyakorlókra – ideértve a törvénnyel vagy miniszteri rendelettel kijelölt tulajdonosi joggyakorlókat is – rábízott állami vagyont is (a továbbiakban együtt: egységes állami vagyonnyilvántartás), valamint gondoskodik az egységes állami vagyonnyilvántartás vezetéséhez létrehozott informatikai rendszer (a továbbiakban: adatszolgáltatási keretrendszer) és a 22/C. § (2) bekezdése szerinti Országleltár működtetéséről;
 - c) a tulajdonosi joggyakorlása alá tartozó állami vagyont közvetlenül vagy polgári jogi szerződések útján hasznosítja,
-- d) a tulajdonosi ellenőrzési szabályzatában meghatározott rendszerességgel ellenőrzi a vele szerződéses jogviszonyban lévő személyek, szervezetek vagy más használók állami vagyonnal való gazdálkodását, megállapításairól az MNV Zrt. Felügyelő Bizottságát, az ellenőrzött szervet, szükség esetén a minisztert és az Állami Számvevőszéket tájékoztatja,
+- d) a tulajdonosi ellenőrzési szabályzatában meghatározott rendszerességgel ellenőrzi a vele szerződéses jogviszonyban lévő személyek, szervezetek vagy más használók állami vagyonnal való gazdálkodását, megállapításairól az MNV Zrt. Felügyelőbizottságát, az ellenőrzött szervet, szükség esetén a minisztert és az Állami Számvevőszéket tájékoztatja,
 - e) az állami vagyonnal kapcsolatos polgári jogi jogviszonyokban – jogszabály eltérő rendelkezése hiányában – képviseli az államot,
 - f) ellenőrzi az értékesítési szerződésekben foglalt kötelezettségek teljesítését.
 - g) elektronikus árverési rendszert működtet, vezeti az árverezők elektronikus nyilvántartását és elektronikus árverési hirdetmény közzététele útján elektronikus árverési eljárást bonyolít le,
@@ -119,7 +119,7 @@ gyakorolja.
 
 19. § (1) Az MNV Zrt.-ben az állam részvényesi jogait – az e törvényben meghatározott kivételekkel – a miniszter gyakorolja. Az MNV Zrt. működése során a közgyűlés jogai a részvényesi jogok gyakorlóját illetik meg.
 
-(2) Az MNV Zrt. működésének ellenőrzését a Felügyelő Bizottság látja el. A Felügyelő Bizottságra a Ptk. 3:124.–3:127. §-ának rendelkezéseit nem kell alkalmazni.
+(2) Az MNV Zrt. működésének ellenőrzését a Felügyelőbizottság látja el. A Felügyelőbizottságra a Ptk. 3:124.–3:127. §-ának rendelkezéseit nem kell alkalmazni.
 
 (3) A Kormány az állam nevében tulajdonosi jogokat gyakorló szervezetek működéséről, az állami vagyon állományának alakulásáról, az állami vagyonnal való gazdálkodás folyamatairól évente, a tárgyévet követő év december 31. napjáig beszámol az Országgyűlésnek.
 
@@ -151,7 +151,7 @@ gyakorolja.
 - k) döntés az MNV Zrt. munkaszervezetéről, a társaság szervezeti és működési szabályzatának jóváhagyása,
 - l) döntés az MNV Zrt. számviteli politikájának, pénzügyi és gazdálkodási, valamint – törvény eltérő rendelkezése hiányában – a javadalmazási és ösztönzési rendszerre vonatkozó szabályzatainak, tulajdonosi ellenőrzési szabályzatának, vagyon-nyilvántartási szabályzatának elfogadásáról,
 - m) az MNV Zrt. üzleti tervének, a számviteli törvény szerinti beszámolójának, valamint a rábízott vagyonról szóló éves beszámolójának és vagyonkezelési tervének elkészítése,
-- n) a felügyelő bizottság részére beszámoló készítése,
+- n) a Felügyelőbizottság részére beszámoló készítése,
 - o) jogszabály eltérő rendelkezése hiányában az állami vagyon gyarapításával kapcsolatos döntés 100 millió forint értékhatár felett,
 - p) a miniszter által gyakorolt alapvető munkáltatói jogok kivételével a vezérigazgató feletti munkáltatói jogok gyakorlása,
 - q) döntés állami tulajdonú társasági részesedések esetén az Nvtv. 8. § (7) bekezdése szerint a tulajdonosi jogok egészének vagy meghatározott részének gyakorlására vonatkozóan megbízási szerződés megkötéséről, valamint a megbízási szerződés szerinti megbízói előzetes engedélyek kiadásáról, amennyiben a gazdasági társaság saját tőkéjén belül az állami részesedés mértéke eléri vagy meghaladja a 200 millió forintot,
@@ -183,15 +183,15 @@ gyakorolja.
 
 (17) Az Igazgatóság üléseiről jegyzőkönyvet kell felvenni. A jegyzőkönyvben rögzíteni kell a jelenlevők nevét, a tárgyalt napirendi pontokat, a hozott határozatokat, a tagok szavazatát, valamint a határozatokhoz fűzött esetleges nyilatkozatokat. A jegyzőkönyv vezetésére és tartalmára vonatkozó szabályokat akkor is alkalmazni kell, ha a tagok az ülésén elektronikus hírközlő eszköz közvetítésével vesznek részt, illetve szavaznak.
 
-(18) Az Igazgatóság ülésein tanácskozási joggal vehet részt a miniszter, illetve képviselője és a Felügyelő Bizottság tagja.
+(18) Az Igazgatóság ülésein tanácskozási joggal vehet részt a miniszter, illetve képviselője és a Felügyelőbizottság tagja.
 
-### Felügyelő Bizottság
+### Felügyelőbizottság
 
-20/A. § (1) Az MNV Zrt. működésének, valamint az állami vagyonnal való gazdálkodásának ellenőrzését az öt tagból álló Felügyelő Bizottság végzi.
+20/A. § (1) Az MNV Zrt. működésének, valamint az állami vagyonnal való gazdálkodásának ellenőrzését az öt tagból álló Felügyelőbizottság végzi.
 
-(2) A Felügyelő Bizottság elnökét és tagjait a miniszter nevezi ki és hívja vissza. A Felügyelő Bizottság elnökének és tagjainak megbízatása öt évre szól, tisztségükből bármikor visszahívhatók.
+(2) A Felügyelőbizottság elnökét és tagjait a miniszter nevezi ki és hívja vissza. A Felügyelőbizottság elnökének és tagjainak megbízatása öt évre szól, tisztségükből bármikor visszahívhatók.
 
-(3) Megszűnik a Felügyelő Bizottság tagjának megbízatása:
+(3) Megszűnik a Felügyelőbizottság tagjának megbízatása:
 
 - a) a megbízás időtartamának lejártával,
 - b) visszahívással,
@@ -199,66 +199,66 @@ gyakorolja.
 - d) lemondással,
 - e) elhalálozással.
 
-20/B. § (1) A Felügyelő Bizottság elnökének vagy tagjának – a kinevezését megelőzően az érintettnek – a miniszter részére hatósági bizonyítvánnyal igazolnia kell azt a tényt, hogy vele szemben a 20/F. § (1) bekezdés b) vagy c) pontjában meghatározott kizáró ok nem áll fenn.
+20/B. § (1) A Felügyelőbizottság elnökének vagy tagjának – a kinevezését megelőzően az érintettnek – a miniszter részére hatósági bizonyítvánnyal igazolnia kell azt a tényt, hogy vele szemben a 20/F. § (1) bekezdés b) vagy c) pontjában meghatározott kizáró ok nem áll fenn.
 
-(2) Ha az érintett személy az (1) bekezdés szerint előzetesen nem igazolja, hogy vele szemben az e törvényben meghatározott kizáró ok nem áll fenn, a Felügyelő Bizottság elnökévé, illetve tagjává nem nevezhető ki.
+(2) Ha az érintett személy az (1) bekezdés szerint előzetesen nem igazolja, hogy vele szemben az e törvényben meghatározott kizáró ok nem áll fenn, a Felügyelőbizottság elnökévé, illetve tagjává nem nevezhető ki.
 
-(3) A Felügyelő Bizottság tagját – megbízatása időtartama alatt – a miniszter írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja annak igazolására, hogy a 20/F. § (1) bekezdés b) és c) pontjában meghatározott kizáró ok vele szemben nem áll fenn.
+(3) A Felügyelőbizottság tagját – megbízatása időtartama alatt – a miniszter írásban, a mulasztás jogkövetkezményeinek ismertetésével felhívhatja annak igazolására, hogy a 20/F. § (1) bekezdés b) és c) pontjában meghatározott kizáró ok vele szemben nem áll fenn.
 
-(4) Ha a (3) bekezdésben meghatározott felhívásra a Felügyelő Bizottság tagja igazolja, hogy a 20/F. § (1) bekezdés b) és c) pontjában meghatározott kizáró ok vele szemben nem áll fenn, az igazolásra szolgáló hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat az MNV Zrt. megtéríti.
+(4) Ha a (3) bekezdésben meghatározott felhívásra a Felügyelőbizottság tagja igazolja, hogy a 20/F. § (1) bekezdés b) és c) pontjában meghatározott kizáró ok vele szemben nem áll fenn, az igazolásra szolgáló hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat az MNV Zrt. megtéríti.
 
 (5) Ha a miniszter megállapítja, hogy
 
-- a) a Felügyelő Bizottság tagjával szemben a 20/F. § (1) bekezdés b) vagy c) pontjában meghatározott kizáró ok fennáll, vagy
-- b) a Felügyelő Bizottság tagja az igazolási kötelezettségének az ismételt szabályszerű felhívástól számított tizenöt munkanapon belül sem tesz eleget, a Felügyelő Bizottság tagját visszahívja és intézkedik az új személy kinevezéséről.
+- a) a Felügyelőbizottság tagjával szemben a 20/F. § (1) bekezdés b) vagy c) pontjában meghatározott kizáró ok fennáll, vagy
+- b) a Felügyelőbizottság tagja az igazolási kötelezettségének az ismételt szabályszerű felhívástól számított tizenöt munkanapon belül sem tesz eleget, a Felügyelőbizottság tagját visszahívja és intézkedik az új személy kinevezéséről.
 
 (6) A miniszter a 20/F. § (1) bekezdés b) és c) pontjában meghatározott kizáró ok igazolása céljából kezeli
 
-- a) a Felügyelő Bizottság elnökének vagy tagjának jelölt személy, illetőleg
-- b) a Felügyelő Bizottság elnökének vagy tagjának azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
+- a) a Felügyelőbizottság elnökének vagy tagjának jelölt személy, illetőleg
+- b) a Felügyelőbizottság elnökének vagy tagjának azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
 
-20/C. § (1) A Felügyelő Bizottság a jogait és kötelezettségeit – az ügyrendjében foglaltaknak megfelelően – testületként gyakorolja.
+20/C. § (1) A Felügyelőbizottság a jogait és kötelezettségeit – az ügyrendjében foglaltaknak megfelelően – testületként gyakorolja.
 
-(2) A Felügyelő Bizottság az ügyrendjét az alakuló ülésén fogadja el.
+(2) A Felügyelőbizottság az ügyrendjét az alakuló ülésén fogadja el.
 
-(3) A Felügyelő Bizottság ülését az elnök, akadályoztatása esetén az általa kijelölt tag hívja össze.
+(3) A Felügyelőbizottság ülését az elnök, akadályoztatása esetén az általa kijelölt tag hívja össze.
 
-(4) A Felügyelő Bizottság határozatképes, ha legalább három tagja jelen van. A Felügyelő Bizottság határozatait egyszerű szótöbbséggel hozza.
+(4) A Felügyelőbizottság határozatképes, ha legalább három tagja jelen van. A Felügyelőbizottság határozatait egyszerű szótöbbséggel hozza.
 
-(5) A Felügyelő Bizottság tagja személyesen köteles eljárni, képviseletnek vagy helyettesítésnek a Felügyelő Bizottság működése során nincs helye.
+(5) A Felügyelőbizottság tagja személyesen köteles eljárni, képviseletnek vagy helyettesítésnek a Felügyelőbizottság működése során nincs helye.
 
-20/D. § (1) A Felügyelő Bizottság üléseiről jegyzőkönyvet kell felvenni. A jegyzőkönyvben rögzíteni kell a jelenlevők nevét, a tárgyalt napirendi pontokat, a hozott határozatokat, a tagok szavazatát, valamint a határozatokhoz fűzött esetleges nyilatkozatokat. A jegyzőkönyv vezetésére és tartalmára vonatkozó szabályokat akkor is alkalmazni kell, ha a tagok a Felügyelő Bizottság ülésén elektronikus hírközlő eszköz közvetítésével vesznek részt, illetve szavaznak.
+20/D. § (1) A Felügyelőbizottság üléseiről jegyzőkönyvet kell felvenni. A jegyzőkönyvben rögzíteni kell a jelenlevők nevét, a tárgyalt napirendi pontokat, a hozott határozatokat, a tagok szavazatát, valamint a határozatokhoz fűzött esetleges nyilatkozatokat. A jegyzőkönyv vezetésére és tartalmára vonatkozó szabályokat akkor is alkalmazni kell, ha a tagok a Felügyelőbizottság ülésén elektronikus hírközlő eszköz közvetítésével vesznek részt, illetve szavaznak.
 
-(2) A Felügyelő Bizottság ülésén állandó meghívottként – tanácskozási joggal – részt vesz az Igazgatóság elnöke, vagy az általa kijelölt tag. A Felügyelő Bizottság ülésére továbbá meg kell hívni a miniszter képviselőjét és a vezérigazgatót.
+(2) A Felügyelőbizottság ülésén állandó meghívottként – tanácskozási joggal – részt vesz az Igazgatóság elnöke, vagy az általa kijelölt tag. A Felügyelőbizottság ülésére továbbá meg kell hívni a miniszter képviselőjét és a vezérigazgatót.
 
-(3) A Felügyelő Bizottság, illetve annak tagja a Felügyelő Bizottság elnöke útján az Igazgatóságtól, illetve az MNV Zrt. vezető állású munkavállalóitól felvilágosítást kérhet, amelyet az MNV Zrt. alapszabályában meghatározott módon és határidőn belül kell teljesíteni. A Felügyelő Bizottság az MNV Zrt. könyveit és iratait – szükség esetén szakértők bevonásával – megvizsgálhatja.
+(3) A Felügyelőbizottság, illetve annak tagja a Felügyelőbizottság elnöke útján az Igazgatóságtól, illetve az MNV Zrt. vezető állású munkavállalóitól felvilágosítást kérhet, amelyet az MNV Zrt. alapszabályában meghatározott módon és határidőn belül kell teljesíteni. A Felügyelőbizottság az MNV Zrt. könyveit és iratait – szükség esetén szakértők bevonásával – megvizsgálhatja.
 
 (4) Az MNV Zrt. saját vagyonáról a számviteli törvény szerint készített beszámolójának, valamint a külön jogszabályban meghatározott elszámolás szerint a rábízott vagyonról készített beszámolójának jóváhagyásáról a részvényesi jogokat gyakorló miniszter csak a Felügyelő Bizottság írásbeli jelentésének birtokában dönthet.
 
-(5) Ha a Felügyelő Bizottság megítélése szerint az Igazgatóság, a vezérigazgató, illetve az MNV Zrt. vezetésének tevékenysége jogszabályba, az alapszabályba, a részvényesi joggyakorló miniszter határozataiba ütközik, vagy egyébként sérti az állam vagy az MNV Zrt. érdekeit, ezt köteles jelezni a részvényesi jogokat gyakorló miniszternek.
+(5) Ha a Felügyelőbizottság megítélése szerint az Igazgatóság, a vezérigazgató, illetve az MNV Zrt. vezetésének tevékenysége jogszabályba, az alapszabályba, a részvényesi joggyakorló miniszter határozataiba ütközik, vagy egyébként sérti az állam vagy az MNV Zrt. érdekeit, ezt köteles jelezni a részvényesi jogokat gyakorló miniszternek.
 
-(6) A Felügyelő Bizottság tagjai feladataikat az ilyen tisztséget betöltő személyektől elvárható fokozott gondossággal, és az állam érdekeinek elsődlegessége alapján kötelesek ellátni. A tagok – a Ptk. közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek az állammal és az MNV Zrt.-vel szemben az ellenőrzési kötelezettségük felróható megszegésével okozott károkért. Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
+(6) A Felügyelőbizottság tagjai feladataikat az ilyen tisztséget betöltő személyektől elvárható fokozott gondossággal, és az állam érdekeinek elsődlegessége alapján kötelesek ellátni. A tagok – a Ptk. közös károkozásra vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek az állammal és az MNV Zrt.-vel szemben az ellenőrzési kötelezettségük felróható megszegésével okozott károkért. Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
 
-(7) A Felügyelő Bizottság a működéséről évente, a tárgyévet követő év augusztus 31. napjáig beszámolót készít a miniszter részére. A beszámolót a Felügyelő Bizottság az Állami Számvevőszéknek is megküldi.
+(7) A Felügyelőbizottság a működéséről évente, a tárgyévet követő év augusztus 31. napjáig beszámolót készít a miniszter részére. A beszámolót a Felügyelőbizottság az Állami Számvevőszéknek is megküldi.
 
-### Az Igazgatóság és a Felügyelő Bizottság tagjaira vonatkozó közös szabályok, összeférhetetlenség
+### Az Igazgatóság és a Felügyelőbizottság tagjaira vonatkozó közös szabályok, összeférhetetlenség
 
-20/E. § Az Igazgatóság és a Felügyelő Bizottság tagját az e tisztséghez tartozó tevékenysége körében munkáltatója, illetve az őt jelölő szerv nem utasíthatja.
+20/E. § Az Igazgatóság és a Felügyelőbizottság tagját az e tisztséghez tartozó tevékenysége körében munkáltatója, illetve az őt jelölő szerv nem utasíthatja.
 
-20/F. § (1) Az Igazgatóság, illetőleg a Felügyelő Bizottság tagja nem lehet
+20/F. § (1) Az Igazgatóság, illetőleg a Felügyelőbizottság tagja nem lehet
 
 - a) országgyűlési, illetőleg önkormányzati képviselő, nemzetiségi szószóló, miniszter, polgármester, főpolgármester;
 - b) aki büntetett előéletű;
 - c) aki gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró foglalkozástól eltiltás hatálya alatt áll;
 - d) gazdasági társaság megszüntetési eljárás során való törlését követő két évig az a személy, aki a törlést megelőző naptári évben a gazdasági társaságnál vezető tisztségviselő volt.
 
-(2) Az Igazgatóság tagja és annak közeli hozzátartozója vagy élettársa nem lehet tagja a Felügyelő Bizottságnak. Az Igazgatóság tagjai e jogviszonyuk megszűnésétől számított további két évig nem lehetnek tagjai a Felügyelő Bizottságnak.
+(2) Az Igazgatóság tagja és annak közeli hozzátartozója vagy élettársa nem lehet tagja a Felügyelőbizottságnak. Az Igazgatóság tagjai e jogviszonyuk megszűnésétől számított további két évig nem lehetnek tagjai a Felügyelőbizottságnak.
 
-(3) Az Igazgatóság és a Felügyelő Bizottság tagja, valamint ezek közeli hozzátartozója és élettársa a tagsági jogviszony fennállása alatt nem szerezhet társasági részesedést állami részvétellel működő gazdálkodó szervezetben, illetve állami vagyon értékesítésére, hasznosítására irányuló pályázaton nem indulhat, állami vagyonra vonatkozóan adásvételi szerződést az MNV Zrt.-vel nem köthet.
+(3) Az Igazgatóság és a Felügyelőbizottság tagja, valamint ezek közeli hozzátartozója és élettársa a tagsági jogviszony fennállása alatt nem szerezhet társasági részesedést állami részvétellel működő gazdálkodó szervezetben, illetve állami vagyon értékesítésére, hasznosítására irányuló pályázaton nem indulhat, állami vagyonra vonatkozóan adásvételi szerződést az MNV Zrt.-vel nem köthet.
 
 (4) Nem vonatkozik a (3) bekezdés arra az esetre, ha az adásvételi szerződés megkötésére jogszabályon alapuló elővásárlási jog alapján kerül sor.
 
-(5) Az Igazgatóság és a Felügyelő Bizottság tagja, valamint ezek közeli hozzátartozója és élettársa a tagsági jogviszony fennállása alatt nem szerezhet társasági részesedést, továbbá nem lehet vezető tisztségviselő, felügyelő bizottsági tag és könyvvizsgáló olyan gazdálkodó szervezetben, amely tagsági jogviszonyának fennállása alatt az államtól társasági részesedést szerzett.
+(5) Az Igazgatóság és a Felügyelőbizottság tagja, valamint ezek közeli hozzátartozója és élettársa a tagsági jogviszony fennállása alatt nem szerezhet társasági részesedést, továbbá nem lehet vezető tisztségviselő, felügyelőbizottsági tag és könyvvizsgáló olyan gazdálkodó szervezetben, amely tagsági jogviszonyának fennállása alatt az államtól társasági részesedést szerzett.
 
 ### Az MNV Zrt. munkaszervezete
 
@@ -272,7 +272,7 @@ gyakorolja.
 
 (4) Az MNV Zrt. munkavállalói felett a munkáltatói jogokat a vezérigazgató gyakorolja.
 
-(5) Az MNV Zrt. vezérigazgatója és általános vezérigazgató-helyettese alkalmazásuk megszűnésétől számított két évig nem lehetnek a Felügyelő Bizottság tagjai.
+(5) Az MNV Zrt. vezérigazgatója és általános vezérigazgató-helyettese alkalmazásuk megszűnésétől számított két évig nem lehetnek a Felügyelőbizottság tagjai.
 
 21. § (1) Az MNV Zrt. feladatait központi munkaszervezete és – a szervezeti és működési szabályzatban meghatározott – területi szervezeti egységei útján látja el.
 
@@ -282,7 +282,7 @@ gyakorolja.
 
 (4) A 20/F. § (2)–(5) bekezdésében meghatározott összeférhetetlenségi szabályokat az MNV Zrt. könyvvizsgálójára is alkalmazni kell.
 
-(5) Az MNV Zrt. alkalmazottja nem lehet gazdasági társaságnál vezető tisztségviselő, illetve felügyelő bizottsági tag, kivéve a – közvetlenül vagy közvetetten – állami részesedéssel működő gazdasági társaságokat. A tilalom nem vonatkozik arra az esetre, ha e törvény hatálybalépése előtt kötött privatizációs szerződés alapján, a vevő által vállalt kötelezettségek ellenőrzése érdekében az MNV Zrt. jogosult vezető tisztségviselőt vagy felügyelő bizottsági tagot jelölni.
+(5) Az MNV Zrt. alkalmazottja nem lehet gazdasági társaságnál vezető tisztségviselő, illetve felügyelőbizottsági tag, kivéve a – közvetlenül vagy közvetetten – állami részesedéssel működő gazdasági társaságokat. A tilalom nem vonatkozik arra az esetre, ha e törvény hatálybalépése előtt kötött privatizációs szerződés alapján, a vevő által vállalt kötelezettségek ellenőrzése érdekében az MNV Zrt. jogosult vezető tisztségviselőt vagy felügyelőbizottsági tagot jelölni.
 
 ### Az MNV Zrt. gazdálkodása
 
@@ -402,7 +402,7 @@ szükséges a tulajdonosi joggyakorló nevében a tulajdonosi joggyakorlói adat
 - e) gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró foglalkozástól eltiltás hatálya alatt áll, illetve akinek tevékenységét a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény 5. § (2) bekezdése alapján a bíróság jogerős ítéletében korlátozta;
 - f) állami vagyon hasznosítására irányuló korábbi – három évnél nem régebben lezárult – eljárásban hamis adatot szolgáltatott, és ezért az eljárásból kizárták.
 
-(2) Amennyiben a szerződés megkötését követően merül fel az (1) bekezdés szerinti kizáró ok, vagy a szerződő fél a 25/A. § (2) bekezdésében meghatározott igazolási kötelezettségének a felhívástól számított tizenöt munkanapon belül – vagy ha e határidőn belül a rajta kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – nem tesz eleget, az a tulajdonosi joggyakorló jogosult a szerződést azonnali hatállyal felmondani.
+(2) Amennyiben a szerződés megkötését követően merül fel az (1) bekezdés szerinti kizáró ok, vagy a szerződő fél a 25/A. § (2) bekezdésében meghatározott igazolási kötelezettségének a felhívástól számított tizenöt munkanapon belül – vagy ha e határidőn belül a rajta kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – nem tesz eleget, a tulajdonosi joggyakorló jogosult a szerződést azonnali hatállyal felmondani.
 
 (3) Az értékesítés szabályait tartalmazó kormányrendelet, illetve a pályázati kiírás a szerződéskötésre az (1) bekezdésben foglaltakon túl további kizárási okokat is meghatározhat.
 
@@ -443,9 +443,9 @@ szükséges a tulajdonosi joggyakorló nevében a tulajdonosi joggyakorlói adat
 
 (7) A vagyonkezelő – a központi költségvetési szervek kivételével – a vagyonkezelt eszközök értékének megőrzéséről legalább a vagyonkezelt eszközök elszámolt értékcsökkenésének megfelelő mértékben köteles gondoskodni (visszapótlási kötelezettség).
 
-(8) Az alapfeladatként vagy főtevékenységként közfeladatot ellátó, továbbá a közfeladathoz vagy a lakosság közszolgáltatásokkal való ellátásához szükséges infrastruktúrát biztosító vagyonkezelő a visszapótlási kötelezettség teljesítése alól e törvény erejénél fogva mentesül azzal, hogy a tulajdonosi joggyakorló és a vagyonkezelő a vagyonkezelési szerződésben ettől eltérően is megállapodhat.
+(8) Az alapfeladatként vagy főtevékenységként közfeladatot ellátó, továbbá a közfeladathoz vagy a lakosság közszolgáltatásokkal való ellátásához szükséges infrastruktúrát biztosító vagyonkezelő a visszapótlási kötelezettség teljesítése alól e törvény erejénél fogva mentesül. A vagyonkezelő – alapfeladattól vagy főtevékenységétől függetlenül – e törvény erejénél fogva mentesül a visszapótlási kötelezettség teljesítése alól azon ingatlan és ingó vagyonelemek tekintetében, amelyek közfeladat-ellátási kötelezettség teljesítése érdekében állnak a vagyonkezelésében. A tulajdonosi joggyakorló és a vagyonkezelő a vagyonkezelési szerződésben ettől eltérően is megállapodhat.
 
-(9) A visszapótlási kötelezettség módját és mértékét vagy a visszapótlási kötelezettség alóli (8) bekezdés szerinti mentesülés tényét a vagyonkezelési szerződésben kell rögzíteni.
+(9) A visszapótlási kötelezettség módját és mértékét vagy a visszapótlási kötelezettség alóli, (8) bekezdés szerinti mentesülés tényét a vagyonkezelési szerződésben, vagy – ha a vagyonkezelési szerződés megszűnésére figyelemmel az már nem lehetséges – az elszámolási szerződésben kell rögzíteni.
 
 (10) Amennyiben a vagyonkezelői jog törvényi kijelölés útján, vagyonkezelési szerződés megkötése nélkül jön létre, úgy a vagyonkezelőre nézve a tulajdonosi joggyakorló mindenkor hatályos tulajdonosi ellenőrzési szabályzata külön elfogadás nélkül is kötelező. A vagyonkezelő köteles a vagyonkezelésébe került állami vagyont – a törvényi kijelölés alapján történő vagyonkezelésbe adás jogcímén – nyilvántartásba venni, és arról e törvény végrehajtási rendelete szerint adatot szolgáltatni a tulajdonosi joggyakorló részére.
 
@@ -543,7 +543,7 @@ vonhat be.
 
 ### Az elidegenítés általános szabályai
 
-33. § (1) Állami vagyon tulajdonjogának átruházására, ideértve a vagyon gazdasági társaság részére nem pénzbeli szolgáltatásként történő nyújtását is – ha törvény eltérően nem rendelkezik – kizárólag az a tulajdonosi joggyakorló jogosult. Az értékesítés lebonyolítására az a tulajdonosi joggyakorló – a közbeszerzésekről szóló jogszabályi rendelkezéseknek megfelelően – harmadik személynek megbízást adhat.
+33. § (1) Állami vagyon tulajdonjogának átruházására, ideértve a vagyon gazdasági társaság részére nem pénzbeli szolgáltatásként történő nyújtását is – ha törvény eltérően nem rendelkezik – kizárólag a tulajdonosi joggyakorló jogosult. Az értékesítés lebonyolítására a tulajdonosi joggyakorló – a közbeszerzésekről szóló jogszabályi rendelkezéseknek megfelelően – harmadik személynek megbízást adhat.
 
 (1a) Az állami elhelyezési célú ingatlanokat érintő 28/A. § (8) bekezdése szerinti feladatok ellátásába bevont személyek vagy szervezetek az MNV Zrt.-vel kötött megbízási szerződés alapján, az állam nevében jogosultak az állami ingatlanokon végzett üzemeltetési feladatokkal, értéknövelő beruházásokkal, felújításokkal, állagmegóvási és karbantartási feladatokkal összefüggésben keletkezett, hulladéknak nem minősülő vissznyeremény anyagok értékesítésére. Ha a 28/A. § (8) bekezdése szerinti feladatok ellátásába központi költségvetési szerv kerül bevonásra, akkor a vissznyeremény anyagok értékesítéséből származó nettó bevétel a központi költségvetési szervet illeti meg azzal, hogy az értékesítésből származó bevételt kizárólag a 28/A. § (8) bekezdése szerint az MNV Zrt.-vel kötött megbízási szerződésben meghatározott feladat ellátására fordíthatja az államháztartási jogszabályoknak megfelelően.
 
@@ -572,7 +572,7 @@ lehet végezni.
 
 (4) Törvény eltérő rendelkezése hiányában az e törvény hatálya alá tartozó, Magyarország határa által körbezárt területen lévő állami ingatlan értékesítésére – kivéve a 35. § (2) bekezdése szerinti versenyeztetés mellőzésével történő értékesítést – kizárólag az MNV Zrt. által működtetett elektronikus árverési rendszer útján kerülhet sor. Az MNV Zrt. az Nvtv. 7/A. § (1) bekezdése szerinti tulajdonosi joggyakorlók részére az elektronikus árverésen történő értékesítést ingyenesen bonyolítja le.
 
-35. § (1) Az értékesítést végzőnek a vagyon tulajdonjogának átruházását – ha törvény vagy annak felhatalmazása alapján kiadott kormányrendelet kivételt nem tesz – versenyeztetéssel kell megkísérelnie.
+35. § (1) Az értékesítést végzőnek a vagyon tulajdonjogának átruházását – ha törvény kivételt nem tesz – versenyeztetéssel kell megkísérelnie.
 
 (2) Mellőzni lehet a versenyeztetést:
 
@@ -593,8 +593,15 @@ lehet végezni.
 - o) az országos közút melletti pihenő- és várakozóhelyeken 2011. december 31-ig megépült felépítményekre vonatkozó osztott tulajdon létesítése és földhasználati jog alapítása során lefolytatott értékesítési eljárás során,
 - p) zálogtárgy tulajdonjogának zálogjogosult által történő megszerzése esetén.
 - q) a 37. § (2) és (3) bekezdése alapján történő értékesítések esetén.
+- r) hulladéknak nem minősülő vissznyereményi anyagok értékesítése esetén.
 
 (2a) Az állam tulajdonában álló pénzügyi eszköznek pénzügyi eszközre történő cseréje esetén a az Nvtv. 13. § (1) bekezdése szerinti versenyeztetési kötelezettségre vonatkozó rendelkezést nem kell alkalmazni.
+
+(2b) Versenyeztetés mellőzésével kerül sor a (2) bekezdés i) pontja szerinti kis értékű ingó vagyontárgy értékesítésére, ha
+
+- a) a vagyontárgy huzamos tárolása, kezelése aránytalan költséggel járna a vagyontárgy piaci értékéhez képest,
+- b) a versenyeztetéssel történő értékesítés előnyei nem érvényesülnek, vagy
+- c) a 34. § (2) bekezdés b) pontja szerinti nyilvános árverés során a harmadik árverés is eredménytelenül zárult.
 
 (3) A pályázat nyilvános vagy zártkörű lehet.
 
@@ -631,9 +638,9 @@ lehet végezni.
 
 (5) Az MNV Zrt. az állam mint törvényes örökös nevében az öröklésről az örökhagyó utolsó belföldi lakóhelye, ennek hiányában a hagyaték fekvési helye szerinti helyi önkormányzat javára, ingatlan esetében annak fekvési helye szerinti helyi önkormányzat javára lemondhat.
 
-(6) Az MNV Zrt. Igazgatósága jogosult dönteni a (2) bekezdés c), e) és g) pontjában meghatározott személyek, szervezetek javára az ott meghatározott célokra évente kedvezményezettenként 10 millió forint nyilvántartási értéket meg nem haladó értékű ingóságok ingyenes tulajdonba adásáról. Az MNV Zrt. Igazgatósága köteles az ingyenes tulajdonba adásáról szóló döntését az MNV Zrt. honlapján nyilvánosságra hozni.
+(6) Az MNV Zrt. Igazgatósága jogosult dönteni a (2) bekezdés c), e) és g) pontjában meghatározott személyek, szervezetek javára az ott meghatározott célokra évente kedvezményezettenként 25 millió forint nyilvántartási értéket meg nem haladó értékű ingóságok ingyenes tulajdonba adásáról. Az MNV Zrt. Igazgatósága köteles az ingyenes tulajdonba adásáról szóló döntését az MNV Zrt. honlapján nyilvánosságra hozni.
 
-(7) Az MNV Zrt. Igazgatósága jogosult dönteni helyi önkormányzat javára, a (2) bekezdés c) pontjában meghatározott célokra, legfeljebb bruttó 1 millió forint forgalmi értékű ingatlan ingyenes tulajdonba adásáról. Az MNV Zrt. Igazgatósága köteles az ingyenes tulajdonba adásról szóló döntését az MNV Zrt. honlapján nyilvánosságra hozni.
+(7) Az MNV Zrt. Igazgatósága jogosult dönteni helyi önkormányzat javára, a (2) bekezdés c) pontjában meghatározott célokra, legfeljebb bruttó 25 millió forint forgalmi értékű ingatlan ingyenes tulajdonba adásáról. Az MNV Zrt. Igazgatósága köteles az ingyenes tulajdonba adásról szóló döntését az MNV Zrt. honlapján nyilvánosságra hozni.
 
 (8) Az Nvtv. 13. § (3) bekezdése szerinti, az állami feladat ellátásához nem szükséges és leselejtezett tárgyi eszközt az MNV Zrt. a legalább két éve folyamatosan, igazoltan közhasznú, karitatív tevékenységet folytató civil szervezet kezdeményezésére ingyenesen a civil szervezet tulajdonába adhatja. Az MNV Zrt. Igazgatósága köteles az ingyenes tulajdonba adásról szóló döntését az MNV Zrt. honlapján nyilvánosságra hozni.
 
@@ -651,46 +658,15 @@ lehet végezni.
 
 (3) Osztatlan közös tulajdonban álló védett természeti terület esetében az MNV Zrt. tulajdonosi joggyakorlása alá tartozó tulajdoni hányad értékesítésére akkor van lehetőség, ha a földrészlet tekintetében az állam kisebbségi tulajdonostársnak minősül és olyan tulajdonostárstól érkezik a vételi ajánlat, aki az ajánlata megtételekor legalább 3 éve tulajdoni hányaddal rendelkezik.
 
-### Állami tulajdonú gazdasági társaságok elidegenítésének speciális szabályai
+38. §
 
-38. § (1) Állami vállalat átalakulása vagy állami vállalat többségi részvételével létrejött gazdasági társaságok – beleértve az állami vállalat által az átalakulást megelőzően vagy annak jogutódja által az átalakulást követően alapított társaságokat is – társasági részesedéseinek értékesítése során a munkavállalók kedvezményesen szerezhetik meg az állami tulajdont, ha az értékesítéssel érintett gazdasági társaság 100%-os vagy többségi állami tulajdonban áll.
+39. §
 
-(2) Az (1) bekezdésben foglaltak csak akkor mellőzhetők, ha a többségi részesedést olyan befektető szerzi meg, aki az értékesítésre irányuló szerződésben a munkavállalók foglalkoztatására, illetve a munkakörülményeik javítására megfelelő biztosítékokkal alátámasztott szerződéses kötelezettséget vállal.
+40. §
 
-(3) A munkavállalók részére személyenként az éves minimálbér százötven százalékának megfelelő kedvezmény adható az (5) bekezdésre is figyelemmel úgy, hogy az ily módon szerzett társasági részesedéseik összege nem haladhatja meg a társaság jegyzett tőkéjének tizenöt százalékát.
+41. §
 
-(4) A munkavállalók részére egyénileg, illetve az általuk alapított társaságok, szövetkezetek, illetve MRP szervezet részére nyújtott kedvezményeket együttesen kell figyelembe venni.
-
-(5) Amennyiben a kedvezményes vásárlási programban nem minden munkavállaló vett részt, a kedvezmény lehetséges mértékét (összegét) az érintett munkavállalók létszámára és a teljes vállalati munkavállalói létszámra tekintettel arányosan kell megállapítani. A kedvezmény azok számára, akik azt nem vették igénybe, későbbi időpontban is nyújtható.
-
-(6) A munkavállalók számára az eladási árnak legfeljebb ötven százaléka erejéig árkedvezmény és/vagy részletfizetési lehetőség adható. A csökkentett vételár részletekben történő kiegyenlítése esetén – a külön törvény által szabályozott MRP keretében történő értékesítést kivéve – a csökkentett vételár tizenöt százalékának készpénzben történő befizetése mellett a törlesztési idő legfeljebb három év lehet, s a vételár-hátralékra kamatként az államadósság után fizetendő mindenkori kamat számítható fel.
-
-39. § (1) Gazdasági társaságok állami tulajdonban álló részesedéseit a társaság munkavállalói Munkavállalói Résztulajdonosi Program (MRP) keretében szervezett formában is megszerezhetik.
-
-(2) Az MRP szervezet a munkavállalók által, az őket foglalkoztató társaságban tulajdonosi részesedés szerzése és a tulajdonosi jogok együttes gyakorlása céljából önkéntesen létrehozott, önkormányzattal és nyilvántartott résztvevőkkel rendelkező jogi személy.
-
-(3) Az MRP-ben az a törvényes munkaidő legalább felében alkalmazott munkavállaló jogosult részt venni, akinek munkaviszonya a társaságnál – jogelődjét is beleértve – legalább hat hónapja fennáll. A tulajdonszerzés lebonyolítására létrehozandó MRP szervezet alapszabálya a jogosultság feltételeként ennél hosszabb időt is megállapíthat, amely azonban nem haladhatja meg az öt évet.
-
-(4) Egy munkavállaló egyidejűleg csak egy MRP szervezetben vehet részt.
-
-(5) Az MRP szervezet által megszerzett társasági részesedések a szervezet tulajdonába kerülnek, amely ezeket a törvényben és az alapszabályában foglalt feltételeknek megfelelően a résztvevők tulajdonába adja.
-
-40. § A 38. és 39. §-ban meghatározott kedvezményes értékesítési technikák alkalmazásával benyújtott pályázatok kizárólag akkor kerülhetnek elbírálásra, ha az MNV Zrt. által megállapított pályázati kiírás szerint a teljes ellenérték egy összegben történő kifizetésére irányuló, és a pályázati feltételeknek is megfelelő érvényes ajánlat nem érkezett. Nyilvános árverés – ideértve az elektronikus árverést is – útján történő értékesítés esetén a 38. és 39. § rendelkezéseit nem kell alkalmazni, amennyiben a nyertes árverező az árverési hirdetményben meghatározottak szerint a vételár teljes összegét egy összegben megfizeti.
-
-41. § A megkötendő értékesítési szerződésben az MNV Zrt. köteles kikötni a szerződés teljesítésének ellenőrzését. A vevő a szerződésszegésért való felelősséget nem zárhatja ki, az ezzel ellentétes kikötés semmis.
-
-42. § (1) Az MNV Zrt. a többségi állami részesedéssel működő társaság értékesítésére vonatkozó döntés meghozatala előtt legalább harminc nappal köteles a gazdasági társaság munkavállalói érdekképviseleti szerveit írásban tájékoztatni mindazon adatokról (körülményekről), amelyek az értékesítés várható következményeként
-
-- a) a munkavállalók foglalkoztatását, kereseti és bérviszonyait, szociális ellátását, munkafeltételeit, képzését érinthetik;
-- b) a munkavállalói tulajdonszerzés esetleges lehetőségeire vonatkoznak.
-
-(2) A munkavállalói érdekképviseleti szervek a tervezett értékesítéssel kapcsolatos véleményüket az (1) bekezdés szerinti tájékoztatás kézhezvételétől számított tizenöt napon belül, írásban közölhetik. Az MNV Zrt. a munkavállalói érdekképviseleti szervektől hozzá beérkezett írásos véleményre, annak kézhezvételétől számított nyolc napon belül, írásban köteles válaszolni.
-
-(3) A munkavállalói érdekképviseleti szervektől a (2) bekezdés alapján beérkezett véleményt és az MNV Zrt. erre adott válaszát az értékesítéssel kapcsolatos iratokhoz kell csatolni.
-
-(4) Az MNV Zrt. köteles a társaság munkavállalói érdekképviseleti szervei rendelkezésére bocsátani a megkötött értékesítési szerződés és ahhoz kapcsolódó egyéb szerződések azon előírásait, amelyek az (1) bekezdés a)–b) pontjaiban foglaltakra vonatkoznak.
-
-(5) A munkavállalók érdekvédelmével kapcsolatos, jelen törvényben előírt kötelezettségen túl további – így különösen az Mt.-ben a munkáltatóra vonatkozóan meghatározott – tájékoztatási, véleményeztetési és konzultációs kötelezettség nem az MNV Zrt.-t terheli.
+42. §
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -1007,13 +983,13 @@ lép.
 
 - a) az állami vagyon és az ahhoz kapcsolódó bevételek és kiadások, az állami vagyonon végzett értéknövelő beruházások nyilvántartásának, valamint a vagyonnal való elszámolásnak a szabályait, az állam nevében tulajdonosi jogokat gyakorló szervezetek könyvvezetésének és beszámoló készítésének sajátosságait,
 - b) az állami vagyonról vezetett nyilvántartás, és az állami vagyont használó személyek ezzel összefüggő adatszolgáltatási kötelezettségének szabályait,
-- c) a vagyonkezelésre és a vagyonkezelési szerződésre, valamint az állami vagyon hasznosítására vonatkozó más szerződésekre vonatkozó részletes szabályokat,
+- c) a vagyonkezelésre és a vagyonkezelési szerződésre, valamint az állami vagyon visszterhes, továbbá ingyenes hasznosítására irányuló más szerződésekre vonatkozó részletes szabályokat,
 - d) a 17. § d) pontja szerinti tulajdonosi ellenőrzés részletes szabályait,
-- e) az állami vagyon értékesítésére vonatkozó szabályokat,
+- e) az állami vagyon értékesítésére, az állami vagyon tulajdonjogának ingyenes átruházására, továbbá a tulajdonjognak az állam javára történő megszerzésére, valamint a tulajdonjog állam javára történő megszerzésére irányuló jogügylet megkötésére vonatkozó szabályokat,
 - f) a tulajdonosi joggyakorlói adatszolgáltatás tartalmát, módját és határidejét, az adatszolgáltatási keretrendszerrel, az Országleltár-azonosítóval és a tulajdonosi joggyakorlók jegyzékének vezetésével kapcsolatos szabályokat, a tulajdonosi joggyakorlói adatszolgáltatás ellenőrzésének, valamint az ellenőrzés során feltárt hiányosságok kijavításának szabályait, az adatszolgáltatási keretrendszer használóira vonatkozó szabályzat kötelező tartalmát, az egységes állami vagyonnyilvántartás azon adatait, amelyek közzétételére az Országleltár honlapján nem kerül sor,
 - g) a 34. § (2) bekezdés b) pontja szerinti elektronikus árverés szabályait, ezen belül az elektronikus árverési rendszer működtetésének, az árverezők elektronikus nyilvántartása vezetésének, az elektronikus árverés lebonyolításának részletes szabályait, az árverezők elektronikus nyilvántartásában szereplő, az érintett hozzájárulása alapján kezelt személyes adatok körét, az elektronikus árverési rendszer szakmai és informatikai követelményeit, az informatikai rendszer működtetése ellenőrzésének felelősét, a működtetés biztonságosságával, átláthatóságával és ellenőrizhetőségével összefüggő követelményeket, az informatikai rendszer jogszabályi és működésbiztonsági tanúsításának szabályait, az elektronikus árverési rendszerhez felhasználóként (vevőként) történő csatlakozás feltételeit, a rendszer használóira vonatkozó szabályzatok kötelező tartalmát,
 - h) a költségvetési szervek egyes típusai állami vagyonnal való gazdálkodásának speciális szabályait,
-- i) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek elhelyezésére, az állami elhelyezési célú ingatlanhasználati jogviszonyra, valamint az állami elhelyezési célú ingatlanok hasznosítására vonatkozó részletszabályokat.
+- i) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek elhelyezésére, az állami elhelyezési célú ingatlanhasználati jogviszonyra, valamint az állami elhelyezési célú ingatlanok hasznosítására, üzemeltetésére vonatkozó részletszabályokat,
 - j) a 24/A. § (1) bekezdése szerinti elektronikus bérleti licit rendszeren keresztül folytatott elektronikus bérleti licit szabályait, ezen belül a bérleti licit rendszer működtetésének szabályait, az elektronikus bérleti licitben résztvevők elektronikus nyilvántartása vezetésének szabályait, a bérleti licit rendszeren keresztül történő elektronikus bérleti licit eljárás lebonyolításának szabályait, az elektronikus bérleti licitben résztvevők elektronikus nyilvántartásában szereplő, az érintett hozzájárulása alapján kezelt személyes adatok körét, az elektronikus bérleti licit rendszer szakmai követelményeit, a működtetés biztonságosságával, átláthatóságával és ellenőrizhetőségével összefüggő követelményeket, az elektronikus bérleti licit rendszerhez felhasználóként történő csatlakozás feltételeit és a bérleti licit rendszer használóira vonatkozó szabályzatok kötelező tartalmát.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
