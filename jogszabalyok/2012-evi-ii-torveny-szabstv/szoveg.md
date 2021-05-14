@@ -333,19 +333,20 @@ pénzbírságot vagy helyszíni bírságot kell kiszabni.
 
 29. § (1) E törvény eltérő rendelkezésének hiányában
 
-- a) a szándékosság és a gondatlanság,
-- b) a kísérlet,
-- c) a társtettes és a közvetett tettes,
-- d) a felbujtó és a bűnsegéd,
-- e) a hozzátartozó,
-- f) a csoportos elkövetés,
+- a) a szándékosság és a gondatlanság fogalmára,
+- b) a kísérlet fogalmára,
+- c) a társtettes és a közvetett tettes fogalmára,
+- d) a felbujtó és a bűnsegéd fogalmára,
+- e) a hozzátartozó fogalmára,
+- f) a csoportos elkövetés fogalmára,
 - g) a nagy nyilvánosság fogalmára,
 - h) a büntethetőséget kizáró vagy korlátozó okokra,
 - i) a magánindítványra,
-- j) a folytatólagosság fogalmára, valamint
-- k) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 370. § szerinti lopás, a Btk. 371. § szerinti rongálás, a Btk. 372. § szerinti sikkasztás, a Btk. 373. § szerinti csalás, a Btk. 376. § szerinti hűtlen kezelés és a Btk. 378. § szerinti jogtalan elsajátítás tényállásoknak megfelelő szabálysértési tényállásokra
+- j) a folytatólagosság fogalmára,
+- k) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 370. § szerinti lopás, a Btk. 371. § szerinti rongálás, a Btk. 372. § szerinti sikkasztás, a Btk. 373. § szerinti csalás, a Btk. 376. § szerinti hűtlen kezelés és a Btk. 378. § szerinti jogtalan elsajátítás tényállásoknak megfelelő szabálysértési tényállásokra, valamint
+- l) a kár és a vagyoni hátrány fogalmára
 
-a Btk. által – az a)–d) és h)–j) pont esetén az általános részben, az e)–g) pont esetén a záró részben, valamint a k) pont esetén a különös részi tényállásokban – meghatározottakat a szabálysértések tekintetében is alkalmazni kell.
+a Btk. által – az a)–d) és h)–j) pont esetén az általános részben, az e)–g) és l) pont esetén a záró részben, valamint a k) pont esetén a különös részi tényállásokban – meghatározottakat a szabálysértések tekintetében is alkalmazni kell.
 
 (2) E törvény alkalmazásában:
 
@@ -356,10 +357,11 @@ a Btk. által – az a)–d) és h)–j) pont esetén az általános részben, a
 - e) gyűlés a gyülekezési jogról szóló törvény hatálya alá tartozó gyűlés,
 - f) nyilvános rendezvény a gyűlés kivételével olyan rendezvény, amely mindenki számára azonos feltételek mellett nyitva áll,
 - g) szexuális szolgáltatásra felajánlkozás: a szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló törvény szerinti szexuális szolgáltatásra felajánlkozás.
+- h) a kár megtérítése, megfizetése vagy teljesítése alatt, ahol a tényállás vagyoni hátrányt említ, azon a vagyoni hátrány megtérítését, megfizetését vagy teljesítését is érteni kell.
 
 (3) E törvény
 
-- a) 132/B. alcímének alkalmazásában korlátozott robbanóanyag-prekurzor a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló, 2013. január 15-i 98/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: EU Rendelet) I. és II. MELLÉKLETÉBEN,
+- a) 132/B. alcímének alkalmazásában korlátozott robbanóanyag-prekurzor a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról, az 1907/2006/EK rendelet módosításáról, valamint a 98/2013/EU rendelet hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1148 európai parlamenti és tanácsi rendelet (a továbbiakban: EU Rendelet) I. és II. MELLÉKLETÉBEN,
 - b) 136/A. alcímének alkalmazásában korlátozott robbanóanyag-prekurzor az EU Rendelet I. MELLÉKLETÉBEN
 
 foglalt – az ott meghatározott határértéket meghaladó koncentrációjú – anyag vagy keverék.
@@ -760,7 +762,7 @@ jelöli ki.
 
 (2) A szabálysértési hatóság a szakértői névjegyzékben szereplő igazságügyi szakértőt, illetve szakvélemény adására feljogosított gazdasági társaságot (a továbbiakban: gazdasági társaság), szakértői intézményt vagy külön jogszabályban meghatározott állami szervet, intézményt, szervezetet (a továbbiakban: szervezet), ha ez nem lehetséges, kellő szakértelemmel rendelkező személyt vagy intézményt (a továbbiakban: eseti szakértő) rendel ki szakértőként.
 
-(3) A szabálysértéssel okozott kár értékének megállapításához szakértő hivatalból nem rendelhető ki. Ha a szakértő kirendelését az eljárás alá vont személy vagy a sértett indítványozza és a szakértő várható költségét megelőlegezi, a szakértő kirendelése kötelező.
+(3) A szabálysértéssel okozott kár, illetve vagyoni hátrány értékének megállapításához szakértő hivatalból nem rendelhető ki. Ha a szakértő kirendelését az eljárás alá vont személy vagy a sértett indítványozza és a szakértő várható költségét megelőlegezi, a szakértő kirendelése kötelező.
 
 (4) A szakértő jogosult mindazokat az adatokat megismerni, amelyek a feladatának teljesítéséhez szükségesek. E célból az ügy iratait megtekintheti, az eljárási cselekményeknél jelen lehet, az eljárás alá vont személytől, a sértettől és a tanútól felvilágosítást, a kirendelő hatóságtól további adatokat, iratokat és felvilágosítást kérhet. A szakértő a kirendelő hatóság felhatalmazása alapján a neki át nem adott tárgyat is megtekintheti, megvizsgálhatja, abból mintát vehet.
 
@@ -905,6 +907,15 @@ jelöli ki.
 
 (1b) A rendőrség ügyvédet rendel ki, ha az eljárás alá vont személynek nincsen meghatalmazott ügyvédje. Az ügyvéd kirendelése ellen nincs helye jogorvoslatnak, de az eljárás alá vont személy – indokoltan, egy alkalommal – más ügyvéd kirendelését kérheti.
 
+(1c) Az őrizetbe vétel feltételeinek fennállása esetén az őrizetet elrendelő szerv
+
+- a) az elkövetett cselekmény tárgyi súlyának,
+- b) az elkövetés körülményeinek,
+- c) az eljárás alá vont személy személyi körülményeinek, valamint
+- d) az eljárás alá vont személynek a szabálysértés elkövetésének időpontját megelőző két éven belül történt felelősségre vonására vonatkozó adatainak
+
+mérlegelését követően dönt az eljárás alá vont személy őrizetbe vételéről.
+
 (2) A szabálysértési őrizet a bíróság érdemi végzésének meghozataláig, de – e törvény eltérő rendelkezése hiányában – legfeljebb hetvenkét óráig tart, amelybe a szabálysértési őrizetet megelőző előállítás teljes ideje beleszámít. Az eljárás alá vont személyt nyomban szabadon kell bocsátani, ha a szabálysértési őrizet tartama alatt a bíróság a gyorsított eljárást nem folytatta le vagy nem szabott ki szabálysértési elzárást.
 
 (3) Ha a szabálysértési elzárást kiszabó végzés nem emelkedett jogerőre és alappal feltehető, hogy az eljárás alá vont személy szabadlábon újabb, szabálysértési elzárással is büntethető szabálysértést követne el, a bíróság a szabálysértési őrizet tartamát a másodfokú végzés meghozataláig indokolt határozattal meghosszabbíthatja.
@@ -1039,7 +1050,7 @@ haladéktalanul szabadítani kell. A szabadításról az őrizetet elrendelő re
 - d) a cselekményt szabálysértési vagy büntetőeljárás, illetve közigazgatási hatósági eljárás keretében jogerősen elbírálták,
 - e) elkobzás alkalmazása szükséges felelősségre vonás nélkül,
 - f) halál vagy elévülés folytán a büntethetőség megszűnt,
-- g) a magánindítványra üldözendő szabálysértés esetében a magánindítvány hiányzik, illetve az illetékekről szóló törvényben meghatározott szabálysértési eljárási illeték megfizetésére felhívás ellenére nem került sor,
+- g) a magánindítványra üldözendő szabálysértés esetében a magánindítvány hiányzik,
 - h) a feljelentéssel vagy a szabálysértési eljárás lefolytatásának feltételeként meghatározott nyilatkozattal szemben támasztott valamely törvényi követelmény nem teljesül.
 
 #### 66. Ügyintézési határidő
@@ -1234,7 +1245,7 @@ indul meg.
 - h) elévülés miatt nincs helye felelősségre vonásnak,
 - i) elkobzás alkalmazása szükséges az eljárás alá vont személy felelősségre vonása nélkül,
 - j) a közvetítő a közvetítői eljárás eredményes lefolytatásáról tájékoztatta a szabálysértési hatóságot vagy a bíróságot.
-- k) a magánindítványra üldözendő szabálysértés esetében a magánindítvány hiányzik és az már nem pótolható, illetve az illetékekről szóló törvényben meghatározott szabálysértési eljárási illeték megfizetésére felhívás ellenére nem került sor,
+- k) a magánindítványra üldözendő szabálysértés esetében a magánindítvány hiányzik és az már nem pótolható,
 - l) megállapítható, hogy e törvény rendelkezései szerint a feljelentés elutasításának lett volna helye,
 - m) a 10. § szerinti elzárást kizáró ok kerül a 178/B. § (11) bekezdése tekintetében megállapításra.
 
@@ -1528,7 +1539,7 @@ téríti meg.
 
 (2) Ha a gépjármű üzemben tartója a helyszíni bírság kiszabását nem veszi tudomásul, a szabálysértési eljárást az egyébként irányadó rendelkezések szerint kell lefolytatni. Így kell eljárni akkor is, ha a gépjármű üzemben tartójának megküldött csekkszelvényen vagy banki átutalással a helyszíni bírságot az e törvényben meghatározott határidőn belül nem fizetik meg.
 
-(3) Ha a helyszíni bírságot kiszabó szerv vagy személy a helyszíni bírság tudomásul vételének, illetve a bírság befizetésének hiányában szabálysértési feljelentést tesz, az ezt követően befizetett helyszíni bírságot vissza kell téríteni. A visszatérítésről a helyszíni bírságot kiszabó szerv vagy személy gondoskodik.
+(3) Ha a helyszíni bírságot kiszabó szerv vagy személy a helyszíni bírság tudomásul vételének, illetve a bírság befizetésének hiányában szabálysértési feljelentést tesz, az ezt követően befizetett helyszíni bírságot vissza kell téríteni. A visszatérítésről az elkövetés helye szerinti általános szabálysértési hatóság gondoskodik.
 
 #### 84/A. Szóbeli figyelmeztetés
 
@@ -2099,6 +2110,8 @@ a büntetés-végrehajtási intézet hivatali munkarendjén kívül kerülne sor
 
 (5) Ha az elkövető a felhívásban megjelölt határnapon a szabálysértési elzárás büntetés, valamint a meg nem fizetett pénzbírság, illetve helyszíni bírság, a nem teljesített közérdekű munka helyébe lépő szabálysértési elzárás végrehajtása érdekében a büntetés-végrehajtási intézetben nem jelent meg és az elővezetése sem vezetett eredményre, a szabálysértési hatóság az elkövető kijelölt büntetés-végrehajtási intézetbe történő előállítása céljából körözését rendeli el. A körözést vissza kell vonni, ha elrendelésének oka megszűnt. A körözés elrendeléséről szóló határozat ellen nincs helye jogorvoslatnak.
 
+(6) Az (5) bekezdésben meghatározott esetben az ismeretlen helyen tartózkodó elkövető körözése az elővezetésének előzetes elrendelése nélkül elrendelhető.
+
 140. § (1) A szabálysértési elzárást kiszabó, illetve az átváltoztatásról rendelkező bíróság kérelemre, egészségi, családi vagy más fontos okból a szabálysértési elzárás, illetve a pénzbírság, a helyszíni bírság, valamint a közérdekű munka helyébe lépő szabálysértési elzárás végrehajtását egy alkalommal legfeljebb hat hónappal elhalaszthatja. A kérelem előterjesztésének a szabálysértési elzárás megkezdésére előírt időpontig van helye.
 
 (2) A halasztást elutasító végzés ellen az elkövető és képviselője, fiatalkorú esetén a törvényes képviselő is a végzés közlésétől számított három napon belül fellebbezhet. A fellebbezést a törvényszék a beérkezéstől számított három napon belül tanácsülésen bírálja el.
@@ -2141,9 +2154,9 @@ szerint illetékes.
 
 adatokat elektronikus formában automatikusan továbbítja.
 
-(2g) A központi bírságkezelő szerv és az általános rendőrségi feladatok ellátására létrehozott szerv területi szerve a (2f) és (2i) bekezdésben meghatározott adatokról a bevételekkel kapcsolatos követelésekkel és kötelezettségekkel összefüggő jelentési kötelezettség teljesítése érdekében nyilvántartást vezet. A központi bírságkezelő szerv és az általános rendőrségi feladatok ellátására létrehozott szerv területi szerve a nyilvántartásban az adatokat a nyilvántartásba vételüktől számított nyolc évig kezeli. A nyilvántartásból – törvény eltérő rendelkezésének hiányában – adattovábbításnak nincs helye.
+(2g) A központi bírságkezelő szerv a (2f) és (2i) bekezdésben meghatározott adatokról a bevételekkel kapcsolatos követelésekkel és kötelezettségekkel összefüggő jelentési kötelezettség teljesítése érdekében nyilvántartást vezet. A központi bírságkezelő szerv a nyilvántartásban az adatokat a nyilvántartásba vételüktől számított nyolc évig kezeli. A nyilvántartásból – törvény eltérő rendelkezésének hiányában – adattovábbításnak nincs helye.
 
-(2h) A központi bírságkezelő szerv, valamint az általános rendőrségi feladatok ellátására létrehozott szerv területi szerve a (2d) bekezdésben meghatározott feladat elvégzése során összeveti a feladatellátásával összefüggésben rendelkezésére álló adatokat, és az összevetés eredményeként kapott adatokat a szabálysértési nyilvántartásokba történő rögzítés, illetve annak kezdeményezése érdekében elektronikus formában automatikusan megküldi a szabálysértési nyilvántartásokban ezen adatokat rögzítő illetékes hatóságnak.
+(2h) A központi bírságkezelő szerv, valamint az általános rendőrségi feladatok ellátására létrehozott szerv területi szerve a (2d) bekezdésben meghatározott feladat elvégzése során összeveti a feladatellátásával összefüggésben rendelkezésére álló adatokat. Az összevetés eredményeként kapott adatokat a központi bírságkezelő szerv a szabálysértési nyilvántartásokba történő rögzítés, illetve annak kezdeményezése érdekében elektronikus formában automatikusan megküldi a szabálysértési nyilvántartásokban ezen adatokat rögzítő illetékes hatóságnak.
 
 (2i) A központi bírságkezelő szerv kijelöléséről szóló kormányrendeletben meghatározott helyszíni bírság kiszabására jogosult a központi bírságkezelő szerv részére a (2d) bekezdésben meghatározott feladat ellátása érdekében – ide értve a gépjárművezető távollétében kiszabott helyszíni bírságot is –
 
@@ -2867,9 +2880,11 @@ szabálysértést követ el.
 
 175/A. § Az a vezető beosztású vagy fontosabb ügyekben intézkedésre hivatott hivatalos személy, aki a valóságnak meg nem felelő statisztikai adatot szolgáltat, vagy az adatszolgáltatással kapcsolatban a valóságnak meg nem felelő felvilágosítást ad, szabálysértést követ el.
 
-#### 131. Járművezetés az eltiltás hatálya alatt
+#### 131. Engedély nélküli vezetés
 
-176. § Az a járművezetéstől eltiltott személy, aki a járművezetéstől eltiltás hatálya alatt annak érvényesülési körébe tartozó járművet vezet, szabálysértést követ el.
+176. § (1) Aki vasúti járművet, légi járművet, gépi meghajtású vízi járművet, úszó munkagépet, illetve a közúti forgalomban gépi meghajtású járművet úgy vezet, hogy annak vezetésére hatósági engedéllyel nem rendelkezik, szabálysértést követ el.
+
+(2) Aki vasúti jármű, légi jármű, gépi meghajtású vízi jármű, úszó munkagép, illetve a közúti forgalomban gépi meghajtású jármű vezetését olyan személy részére átengedi, aki annak vezetésére hatósági engedéllyel nem rendelkezik, szabálysértést követ el.
 
 #### 132. A tulajdon elleni szabálysértés
 
@@ -3190,6 +3205,10 @@ szabálysértést követ el.
 a közterület használatának, vagy a lakó- vagy más épületben tartózkodók nyugalmának megzavarására alkalmas magatartást tanúsít, szabálysértést követ el.
 
 (2)
+
+#### 148/A. Büntetés-végrehajtási intézet rendjének megzavarása
+
+194/A. § Aki a fogvatartás rendjét szándékosan megsértve olyan tárgyat juttat be a büntetés-végrehajtási intézet területére, amely alkalmas a fogvatartás biztonságának veszélyeztetésére, szabálysértést követ el.
 
 #### 149. Csendháborítás
 
@@ -3527,9 +3546,9 @@ szabálysértést követ el.
 
 (2) Az (1) bekezdés alkalmazásában nem tekinthetők közúti közlekedési szabálynak a gyalogosra és az utasra vonatkozó rendelkezések.
 
-#### 174. Engedély nélküli vezetés
+#### 174.
 
-220. § Aki vasúti járművet, légi járművet, gépi meghajtású vízi járművet, úszó munkagépet, illetőleg a közúti forgalomban olyan gépi meghajtású járművet vezet, amelynek vezetésére hatósági engedéllyel nem rendelkezik, továbbá aki e járművek vezetését ilyen személynek átengedi, szabálysértést követ el.
+#### 220. §
 
 #### 175. Érvénytelen hatósági engedéllyel vagy jelzéssel való közlekedés
 
@@ -3942,7 +3961,7 @@ való megfelelést szolgálja.
 
 (2) E törvény
 
-- a) 177/B. §-a és 182/A. §-a a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló, 2013. január 15-i 98/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdésének, 5. cikkének, 8. cikk (1) bekezdésének, 9. cikk (1) bekezdésének és 11. cikkének, valamint
+- a) 177/B. §-a és 182/A. §-a a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról, az 1907/2006/EK rendelet módosításáról, valamint a 98/2013/EU rendelet hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1148 európai parlamenti és tanácsi rendelet 13. cikkének, valamint
 - b) 238/C. §-a a szellemi tulajdonjogok vámhatósági érvényesítéséről és az 1383/2003/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. június 12-i 608/2013/EU európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.

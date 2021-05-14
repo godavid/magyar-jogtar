@@ -3021,6 +3021,12 @@ okoz.
 
 (3) Aki az e §-ban meghatározott járművet engedély nélkül átalakít vagy átalakíttat, vétség miatt elzárással büntetendő.
 
+### Járművezetés az eltiltás hatálya alatt
+
+239/B. § (1) Aki a járművezetéstől eltiltás hatálya alatt annak érvényesülési körébe tartozó járművet vezet, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+
+(2) Aki a bűncselekményt büntetőeljárásban kiszabott járművezetéstől eltiltás hatálya alatt követi el, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
 ### Értelmező rendelkezések
 
 240. § (1) A közúton elkövetett bűncselekményekre megállapított rendelkezéseket kell alkalmazni akkor is, ha a közúti járművezetésre vonatkozó szabályok megszegése nem közúton okoz legalább súlyos testi sértést vagy halált.
