@@ -3033,7 +3033,7 @@ szemben e szerveknek a pénzügyi intézményhez intézett adatkérése, illetve
 (3) A banktitok megtartásának kötelezettsége nem áll fenn abban az esetben sem, ha
 
 - a) az adóhatóság és a Felügyelet nemzetközi szerződés, illetve együttműködési megállapodás alapján, külföldi hatóság írásbeli megkeresésének teljesítése érdekében írásban kér adatot a pénzügyi intézménytől, ha a megkeresés tartalmazza a külföldi hatóság által aláírt titoktartási záradékot,
-- b)
+- b) a pénzügyi intézmény a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló törvény alapján szolgáltat adatot,
 - c) a pénzügyi intézmény a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény 13. § (1) bekezdése alapján szolgáltat adatot,
 - d) a pénzügyi intézmény az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget,
 - e) a pénzügyi intézmény a Pmt. szerinti bejelentési kötelezettségét, valamint csoportszinten meghatározott pénzmosás és terrorizmus-finanszírozás elleni politikához és eljáráshoz kapcsolódó kötelezettségét teljesíti,
