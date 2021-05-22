@@ -933,6 +933,8 @@ szemben e szerveknek a pénzforgalmi intézményhez, elektronikuspénz-kibocsát
 - b) a magyar bűnüldöző szerv nemzetközi kötelezettségvállalás alapján külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése céljából – harmadik ország bűnüldöző szerve esetén, ha a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér fizetési titoknak minősülő adatot a pénzforgalmi intézménytől, elektronikuspénz-kibocsátó intézménytől,
 - c) a pénzügyi információs egységként működő hatóság a Pmt.-ben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából – harmadik ország pénzügyi információs egysége esetén, ha a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér fizetési titoknak minősülő adatot pénzforgalmi intézménytől, elektronikuspénz-kibocsátó intézménytől.
 
+(7a) A fizetési titok megtartásának kötelezettsége nem áll fenn abban az esetben sem, ha a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló törvény alapján szolgáltat adatot.
+
 (8) A Magyar Nemzeti Bank a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény számára jogszabályban előírt adatszolgáltatás során is jogosult fizetési titokhoz jutni.
 
 (9) A fizetési titok megtartásának kötelezettsége nem áll fenn abban az esetben, ha a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget.

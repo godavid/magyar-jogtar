@@ -130,6 +130,8 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
   - d) alapítványok esetében az a természetes személy, da) aki az alapítvány vagyona legalább huszonöt százalékának a kedvezményezettje, ha a leendő kedvezményezetteket már meghatározták, db) akinek érdekében az alapítványt létrehozták, illetve működtetik, ha a kedvezményezetteket még nem határozták meg, dc) aki tagja az alapítvány kezelő szervének, vagy meghatározó befolyást gyakorol az alapítvány vagyonának legalább huszonöt százaléka felett, vagy dd) a da)–dc) alpontban meghatározott természetes személy hiányában aki az alapítvány képviseletében eljár,
   - e) bizalmi vagyonkezelési szerződés esetében az alábbi személyek: ea) a vagyonrendelő(k); nem természetes személy vagyonrendelő esetén annak a) vagy b) pont szerinti tényleges tulajdonosa, eb) a vagyonkezelő(k); nem természetes személy vagyonkezelő esetén annak a) vagy b) pont szerinti tényleges tulajdonosa, ec) a kedvezményezett vagy a kedvezményezettek csoportja; nem természetes személy kedvezményezett esetén annak a) vagy b) pont szerinti tényleges tulajdonosa, ed) az a természetes személy, aki a kezelt vagyon felett egyéb módon ellenőrzést, irányítást gyakorol, valamint ee) adott esetben a vagyonkezelést ellenőrző személy(ek); nem természetes személy vagyonkezelést ellenőrző személy esetén annak a) vagy b) pont szerinti tényleges tulajdonosa, továbbá
   - f) az a) és b) pontban meghatározott természetes személy hiányában a jogi személy vagy jogi személyiséggel nem rendelkező szervezet vezető tisztségviselője;
+- 38a. tényleges tulajdonosi nyilvántartás: a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló 2021. évi XLIII. törvény (a továbbiakban: Afad-törvény) 3. § 14. pontjában meghatározott tényleges tulajdonosi nyilvántartás;
+- 38b. többségi állami tulajdonú vállalat: teljes mértékben állami vagy helyi önkormányzati tulajdonban álló vállalat, többségi állami tulajdonban álló vállalat, valamint a helyi önkormányzat többségi tulajdonában álló vállalat;
 - 39. utalványkibocsátó: forgatható utalvány kibocsátására irányuló tevékenységre engedéllyel rendelkező szolgáltató;
 - 40. útmutató: az 5. §-ban meghatározott felügyeletet ellátó szerv által az e törvény szerinti felügyeleti tevékenysége keretében a szolgáltatók számára kiadott, iránymutatást tartalmazó alábbi dokumentumok:
   - a) az 1. § (1) bekezdés a)–f), h)–k) és m–r) pontjában meghatározott szolgáltató részére kiadott rendelet,
@@ -248,9 +250,12 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (6) A személyazonosság igazoló ellenőrzése során a szolgáltató köteles ellenőrizni a meghatalmazott esetében a meghatalmazás érvényességét, a rendelkezésre jogosult rendelkezési jogosultságát, továbbá a képviselő képviseleti jogosultságát.
 
-(7) Ha az ügyfél és az üzleti kapcsolat azonosításához kockázatérzékenységi megközelítés alapján ez indokolt, a személyazonosság igazoló ellenőrzése érdekében a szolgáltató jogosult a (2)–(6) bekezdésben meghatározott intézkedések helyett vagy ezeken túlmenően a személyazonosságra vonatkozó adat olyan közhiteles nyilvántartás alapján történő ellenőrzésére, amelynek kezelőjétől törvény alapján adatigénylésre jogosult.
+(7) Ha az ügyfél és az üzleti kapcsolat azonosításához kockázatérzékenységi megközelítés alapján ez indokolt, a személyazonosság igazoló ellenőrzése érdekében a szolgáltató jogosult a (3)–(6) bekezdésben meghatározott intézkedéseken túlmenően a személyazonosságra vonatkozó adat felügyeletet ellátó szerv által meghatározott nyilvánosan hozzáférhető nyilvántartás vagy olyan nyilvántartás alapján történő ellenőrzésére, amelynek kezelőjétől törvény alapján adatigénylésre jogosult.
 
-(8) A pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása, az e törvényben meghatározott kötelezettségek megfelelő teljesítése, az ügyfél-átvilágítási kötelezettség teljes körű végrehajtása, valamint a felügyeleti tevékenység hatékony ellátása céljából a szolgáltató a személyazonosság igazoló ellenőrzése érdekében a (2) bekezdésben meghatározott adatokat tartalmazó, a (3) bekezdés alapján bemutatott okiratról – ideértve az okiratban feltüntetett valamennyi személyes adatot –, a lakcímet igazoló hatósági igazolvány személyi azonosítót igazoló oldala kivételével másolatot készít.
+(8) A pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása, az e törvényben meghatározott kötelezettségek megfelelő teljesítése, az ügyfél-átvilágítási kötelezettség teljes körű végrehajtása, valamint a felügyeleti tevékenység hatékony ellátása céljából a szolgáltató a személyazonosság igazoló ellenőrzése érdekében
+
+- a) a b) pontban meghatározott eset kivételével, a (2) bekezdésben meghatározott adatokat tartalmazó, a (3) bekezdés alapján bemutatott okiratról – ideértve az okiratban feltüntetett valamennyi személyes adatot –, a lakcímet igazoló hatósági igazolvány személyi azonosítót igazoló oldala kivételével másolatot készít, vagy
+- b) a (2) bekezdésben meghatározott adatok vonatkozásában a (3) bekezdés alapján elvégzett közhiteles nyilvántartásból történő adatlekérdezés eredményét rögzíti és nyilvántartja.
 
 (8a) A szolgáltató a (8) bekezdésben meghatározott kötelezettség teljesítése során birtokába jutott, a (3) bekezdésben meghatározott okiratban feltüntetett valamennyi személyes adatot – a lakcímet igazoló hatósági igazolvány hátoldalán szereplő személyi azonosító kivételével – kezeli.
 
@@ -293,9 +298,11 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 (4) A szolgáltató köteles a tényleges tulajdonos személyazonosságára vonatkozó adat ellenőrzésére a részére bemutatott okirat, nyilvánosan hozzáférhető nyilvántartás vagy más olyan nyilvántartás alapján, amelynek kezelőjétől törvény alapján adatigénylésre jogosult.
 
-(5) Az ügyfél (1) bekezdésben meghatározott nyilatkoztatása kockázatérzékenységi megközelítés alapján mellőzhető, ha a szolgáltató az (1) és (2) bekezdésben meghatározott adatokat a részére bemutatott okiratok, valamint a nyilvánosan hozzáférhető nyilvántartások vagy olyan nyilvántartások alapján rögzíti, amelyeknek kezelőjétől törvény alapján adatigénylésre jogosult.
+(5) Az ügyfél (1) bekezdésben meghatározott nyilatkoztatása kockázatérzékenységi megközelítés alapján mellőzhető, ha a szolgáltató az (1) és (2) bekezdésben meghatározott adatokat a részére bemutatott okiratok, valamint a tényleges tulajdonosi nyilvántartás és más olyan nyilvántartás alapján rögzíti, amelynek kezelőjétől törvény alapján adatigénylésre jogosult.
 
 (6) Az (5) bekezdésben meghatározott esetben a szolgáltató köteles az arra vonatkozó információt is rögzíteni, hogy az (1) és (2) bekezdésben meghatározott adatok rögzítésére az ügyfél (1) bekezdésben meghatározott nyilatkoztatása mellőzésével került sor.
+
+(6a) A szolgáltató a (3)–(6) bekezdésben meghatározott eljárások elvégzését követően az (1) bekezdésben meghatározott adatok rögzítésének dátumát nyilvántartásában rögzíti.
 
 (7) A szolgáltató köteles nyilvántartást vezetni a tényleges tulajdonos azonosítása és személyazonosságának igazoló ellenőrzése érdekében az (1)–(6) bekezdés alapján megtett intézkedésekről.
 
@@ -418,18 +425,35 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 
 15. § (1) A szolgáltató a 65. §-ban meghatározott saját kockázatértékelésén alapuló, belső szabályzatban rögzített alacsony kockázatú esetekben az alábbi ügyfél-átvilágítási intézkedéseket köteles elvégezni:
 
-- a) a 7. § (2) bekezdésében meghatározott adatokat rögzíteni;
-- b) a 7. § (3) bekezdésében meghatározott okiratok másolatát a személyazonosság igazoló ellenőrzése érdekében beszerezni;
-- c) a 8. és 9. §-ban a tényleges tulajdonos kilétével kapcsolatban meghatározott eljárásokat elvégezni;
-- d) a 9/A. és 9/B. §-ban meghatározott kiemelt közszereplői jelleg meghatározásával kapcsolatos eljárásokat elvégezni;
+- a) az azonosítás során
+  - aa) természetes személy ügyfél esetében legalább a 7. § (2) bekezdés a) pont aa), ac) és af)–ag) alpontjában meghatározott adatokat rögzíteni, valamint ezen adatokon túlmenően kockázatérzékenységi megközelítés alapján a 7. § (2) bekezdés a) pont ab), ad)–ae) alpontjában meghatározott adatokat rögzítheti;
+  - ab) jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél esetében legalább a 7. § (2) bekezdés b) pont ba)–bb) és bf) alpontjában meghatározott adatokat rögzíteni, valamint ezen adatokon túlmenően kockázatérzékenységi megközelítés alapján a 7. § (2) bekezdés b) pont bc)–be) és bg) alpontjában meghatározott adatokat rögzítheti;
+- b) a személyazonosság igazoló ellenőrzése érdekében a 7. § (3) bekezdésében meghatározott okiratok másolatát beszerezni vagy közhiteles nyilvántartásból adatlekérést végezni és annak eredményét rögzíteni és nyilvántartani;
+- c) a tényleges tulajdonos kilétével kapcsolatban a 8. és 9. §-ban meghatározott eljárásokat elvégezni;
+- d) a kiemelt közszereplői jelleg meghatározásával kapcsolatban a 9/A. és 9/B. §-ban meghatározott eljárásokat elvégezni;
 - e) a 11. és 12. §-ban meghatározott monitoring kötelezettségeket elvégezni.
+
+(1a) A szolgáltató – az (1b) bekezdés kivételével – az üzleti kapcsolat létesítése előtt köteles elvégezni az (1) bekezdés a)–d) pontjában meghatározott ügyfél-átvilágítási intézkedéseket.
+
+(1b) A szolgáltató
+
+- a) az ügyfél személyazonosságának igazoló ellenőrzése érdekében az (1) bekezdés b) pontjában,
+- b) a tényleges tulajdonos személyazonosságának igazoló ellenőrzése érdekében a 8. § (4)–(5) bekezdésében, valamint a 9. § (3)–(4) bekezdésében, és
+- c) a kiemelt közszereplői jelleggel meghatározásával kapcsolatban a 9/A. § (3) bekezdésében és a 9/B. § (3) bekezdésében
+
+meghatározott ügyfél-átvilágítási intézkedéseket – kockázatérzékenységi megközelítés alapján – az üzleti kapcsolat során is elvégezheti, ha a pénzmosás vagy a terrorizmus finanszírozásának valószínűsége csekély, és pénzmosásra vagy terrorizmus finanszírozására utaló adat, tény vagy körülmény nem merül fel.
+
+(1c) A szolgáltató a személyazonosság igazoló ellenőrzése érdekében az (1b) bekezdésben meghatározott ügyfél-átvilágítási intézkedéseket legkésőbb a 12. § (1)–(2) bekezdésében meghatározott ellenőrzési kötelezettség teljesítése során köteles elvégezni.
 
 (2) A szolgáltató haladéktalanul elvégzi a magasabb kockázati szintnek megfelelő ügyfél-átvilágítást, ha az (1) bekezdés c)–e) pontjában meghatározott intézkedések alapján az ügyfél vonatkozásában eltérő kockázati szintre vonatkozó adat került beszerzésre.
 
 (3) A szolgáltató az (1) bekezdésben meghatározott intézkedéseket
 
-- a) a szolgáltató által üzemeltetett, biztonságos, védett, az 5. §-ban meghatározott felügyeletet ellátó szerv által meghatározott módon, előzetesen auditált elektronikus hírközlő eszköz útján, vagy
-- b) az ügyfél személyes megjelenése hiányában az ügyfél által postai úton küldött okiratmásolatok és nyilatkozatok alapján
+- a) a szolgáltató által üzemeltetett, biztonságos, védett, az 5. §-ban meghatározott felügyeletet ellátó szerv által meghatározott módon, előzetesen auditált elektronikus hírközlő eszköz útján,
+- b) az ügyfél személyes megjelenése hiányában
+  - ba) az ügyfél által postai úton küldött okiratmásolatok és nyilatkozatok alapján,
+  - bb) a 65. §-ban meghatározott saját kockázatértékelésén alapuló belső szabályzatban rögzített esetekben az ügyfél által az ügyfél azonosított elektronikus levelezési címéről biztonságosan küldött vagy a szolgáltató által az ügyféllel való kapcsolattartás érdekében üzemeltetett elektronikus felületre feltöltött okiratmásolatok és nyilatkozatok alapján, vagy
+  - bc) az okiratmásolatokat és nyilatkozatokat magába foglaló jognyilatkozatokat is tartalmazó, az azokban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas, az ügyfél által a szolgáltató részére hozzáférhetővé tett elektronikus dokumentumok alapján
 
 is elvégezheti.
 
@@ -446,15 +470,16 @@ is elvégezheti.
 - a) az ügyfél stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik országból származik,
 - b) a 65. §-ban meghatározott saját kockázatértékelésén alapuló belső szabályzatban rögzített egyéb esetekben,
 - c) a 17. §-ban meghatározott távoli azonosítás esetén,
-- d) az ügyfél vagy tényleges tulajdonosa kiemelt közszereplő vagy a kiemelt közszereplő közeli hozzátartozója vagy a kiemelt közszereplővel közeli kapcsolatban álló személy, valamint
-- e) az 5. §-ban meghatározott felügyeletet ellátó szerv által kiadott útmutatóban meghatározott egyéb esetekben.
+- d) az ügyfél vagy tényleges tulajdonosa – a többségi tulajdonú állami vállalat 3. § 38. pont f) pont alapján megállapított tényleges tulajdonosa kivételével – kiemelt közszereplő vagy a kiemelt közszereplő közeli hozzátartozója vagy a kiemelt közszereplővel közeli kapcsolatban álló személy,
+- e) az ügyfél az Afad-törvény alapján „megbízhatatlan” minősítésű tényleges tulajdonosi adatokkal rendelkező adatszolgáltatónak minősül, valamint
+- f) az 5. §-ban meghatározott felügyeletet ellátó szerv által kiadott útmutatóban meghatározott egyéb esetekben.
 
-(2) A szolgáltató az (1) bekezdés b)–e) pontjában meghatározott esetekben a 7–12. §-ban meghatározott ügyfél-átvilágítási intézkedéseken túlmenően az alábbi ügyfél-átvilágítási intézkedéseket is köteles elvégezni:
+(2) A szolgáltató az (1) bekezdés b)–f) pontjában meghatározott esetekben a 7–12. §-ban meghatározott ügyfél-átvilágítási intézkedéseken túlmenően az alábbi ügyfél-átvilágítási intézkedéseket is köteles elvégezni:
 
 - a) az üzleti kapcsolat létesítésére kizárólag a szolgáltató 65. § szerinti belső szabályzatában meghatározott vezetője jóváhagyását követően kerül sor,
 - b) az üzleti kapcsolat 11. § (1) bekezdésében meghatározott folyamatos figyelemmel kísérését a 65. § szerinti belső szabályzatban meghatározott megerősített eljárásban hajtja végre.
 
-(3) A szolgáltató az (1) bekezdés b)–e) pontjában meghatározott esetekben a (2) bekezdésben meghatározott ügyfél-átvilágítási intézkedések mellett a következő ügyfél-átvilágítási intézkedéseket alkalmazhatja:
+(3) A szolgáltató az (1) bekezdés b)–f) pontjában meghatározott esetekben a (2) bekezdésben meghatározott ügyfél-átvilágítási intézkedések mellett a következő ügyfél-átvilágítási intézkedéseket alkalmazhatja:
 
 - a) beszerzi az ügyfél vagyonának forrására vonatkozó információkat,
 - b) a tényleges tulajdonos vonatkozásában személyesen vagy az általa üzemeltetett, biztonságos, védett, előzetesen auditált elektronikus hírközlő eszköz útján, továbbá a 17. § (2) bekezdésében meghatározott távoli azonosítás útján közjegyző, külképviselet, vagy okirat kiállításának helye szerinti állam hiteles másolat készítésére feljogosított hatóságának közreműködésével elvégzi a 7. § (3) bekezdésében és (8) bekezdésében meghatározott személyazonossági igazoló ellenőrzésre irányuló intézkedéseket,
@@ -569,24 +594,7 @@ vonatkozóan,
 
 #### 8. Tényleges tulajdonosi információk központi nyilvántartása
 
-25. § (1) A szolgáltató a jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél, illetve a bizalmi vagyonkezelő ügyfél tényleges tulajdonosára vonatkozóan a 9. § alapján rögzített és ellenőrzött adatokat köteles haladéktalanul továbbítani az adatok tárolása céljából jogszabály alapján létrehozott központi nyilvántartás számára, feltéve, hogy az adatok e központi nyilvántartásban nem szerepelnek.
-
-(2) A pénzügyi információs egység, a nyomozó hatóság, a terrorizmust elhárító szerv, a nemzetbiztonsági szolgálatok, az ügyészség és a bíróság korlátozás nélkül, az e törvényben foglalt feladatai ellátása érdekében az 5. §-ban meghatározott felügyeletet ellátó szerv és a 7–12. §-ban meghatározott ügyfél-átvilágítási intézkedések végrehajtása céljából a szolgáltató közvetlen hozzáféréssel adatot igényelhet az (1) bekezdés szerinti központi nyilvántartásból.
-
-(3) Az (1) bekezdés szerinti központi nyilvántartásból – a bizalmi vagyonkezelő tényleges tulajdonosára vonatkozó e törvényben meghatározott adatok kivételével – harmadik személy egyedi adatszolgáltatás keretében – kizárólag a felhasználás céljához feltétlenül szükséges mértékben – adatot igényelhet, ha
-
-- a) az adat felhasználásának célját és az adat megismeréséhez fűződő, pénzmosás és terrorizmus-finanszírozás elleni küzdelemhez kapcsolódó jogos érdekét okirattal igazolja, és
-- b) jogának vagy jogos érdekének érvényesítése érdekében az szükséges, továbbá
-- c) a központi nyilvántartás létrehozásáról szóló jogszabályban előírt feltételeknek megfelel.
-
-(4) Az adatok megismerése nem járhat az adatigényléssel érintett személy személyiségi jogainak, magánélethez való jogának aránytalan sérelmével.
-
-(5) A (2) és (3) bekezdéstől eltérően a szolgáltatónak – kivéve az 1. § (1) bekezdés a)–e) és l) pontjában meghatározott szolgáltatót – valamint harmadik személynek az (1) bekezdés szerinti központi nyilvántartáshoz való hozzáférése kivételesen, eseti jelleggel, részlegesen vagy teljesen korlátozható, ha:
-
-- a) a tényleges tulajdonos adataihoz való hozzáférés a tényleges tulajdonos személye vagy vagyona elleni bűncselekmény elkövetésének veszélyével járna;
-- b) a tényleges tulajdonos kiskorú személy vagy egyéb okból cselekvőképtelen.
-
-(6) A jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél tényleges tulajdonosára vonatkozó 9. §-ban meghatározott adatok, információk nyilvántartásával kapcsolatos részletszabályokat a tényleges tulajdonosi adatok központi nyilvántartásáról szóló jogszabály tartalmazza.
+#### 25. §
 
 #### 9. A pénzátutalásokat kísérő adatok
 
@@ -644,11 +652,13 @@ vonatkozóan,
 
 (5) Az 5. §-ban meghatározott felügyeletet ellátó szerv az általa felügyelt szektort érintő, a kockázatértékelésben már feltárt pénzmosási és terrorizmus-finanszírozási kockázatok változását figyelemmel kíséri, és a még nem azonosított kockázatokat feltárja. Ennek figyelembevételével a kockázatértékelését aktualizálja.
 
-29. § (1) A miniszter tájékoztatja a Bizottságot és a tagállamokat a koordinált nemzeti kockázatértékelés mindenkori aktualizált eredményeiről.
+29. § (1) A miniszter a bűncselekmények megelőzéséért felelős miniszterrel együttműködve gondoskodik a koordinált nemzeti kockázatértékelés elkészítéséről és annak legalább háromévenként történő felülvizsgálatáról, a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2015. május 20-i (EU) 2015/849 európai parlamenti és tanácsi irányelvben meghatározott, a határon átnyúló pénzmosás és terrorizmusfinanszírozás kockázatait feltáró szupranacionális kockázatértékelés eredményeinek a figyelembevételével.
 
-(2) A miniszter nyilvánosságra hozza a koordinált nemzeti kockázatértékelés mindenkori aktualizált eredményeinek minősített adatokat nem tartalmazó összefoglalását.
+(2) A miniszter tájékoztatja a Bizottságot és a tagállamokat a koordinált nemzeti kockázatértékelés mindenkori aktualizált eredményeiről.
 
-(3) A koordinált nemzeti kockázatértékelés elkészítésében közreműködő szervek – a nemzetközi együttműködésüket szabályozó rendelkezéseknek is megfelelő módon – információt szolgáltathatnak az Európai Unió tagállamai által készített kockázatértékeléshez.
+(3) A miniszter nyilvánosságra hozza a koordinált nemzeti kockázatértékelés mindenkori aktualizált eredményeinek minősített adatokat nem tartalmazó összefoglalását.
+
+(4) A koordinált nemzeti kockázatértékelés elkészítésében közreműködő szervek – a nemzetközi együttműködésüket szabályozó rendelkezéseknek is megfelelő módon – információt szolgáltathatnak az Európai Unió tagállamai által készített kockázatértékeléshez.
 
 #### 11. A bejelentési kötelezettség
 
@@ -1043,6 +1053,8 @@ belső ellenőrző és információs rendszerek működéséről.
 
 (2) Az 5. §-ban meghatározott felügyeletet ellátó szerv (1) bekezdés szerinti felügyeleti tevékenysége kiterjed a szolgáltatónak az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedéseket érintő nemzetközi és hazai jogszabályi rendelkezéseknek való megfelelésének biztosítására is.
 
+(2a) Az 5. §-ban meghatározott felügyeletet ellátó szerv (1) bekezdés szerinti felügyeleti tevékenysége kiterjed a szolgáltatónak a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló jogszabályi rendelkezéseknek való megfelelésének biztosítására is.
+
 (3) A felügyelet ellátása során – az e törvényben meghatározott eltérésekkel – az 5. § e) és f) pontjában meghatározott felügyeletet ellátó szerv a általános közigazgatási rendtartásról szóló törvény, az 5. § a) és g) pontjában meghatározott felügyeletet ellátó szerv a általános közigazgatási rendtartásról szóló törvény és az MNBtv., az 5. § b) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárásról szóló és a szerencsejáték szervezéséről szóló törvény, az 5. § c) pontjában meghatározott felügyeletet ellátó szerv a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló és a általános közigazgatási rendtartásról szóló törvény rendelkezései szerint jár el.
 
 (4) A felügyelet ellátása során az 5. § d) pont da) alpontjában meghatározott felügyeletet ellátó szerv az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény (a továbbiakban: Üttv.), az 5. § d) pont db) alpontjában meghatározott felügyeletet ellátó szerv a Kjtv. rendelkezései szerint jár el.
@@ -1335,6 +1347,7 @@ elkövetése miatt elítéltek, a büntetett előélethez fűződő hátrányos 
 - f) a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez vezetői döntést igénylő esetek meghatározására,
 - g) a képzési programra,
 - h) az ügylet felfüggesztésére
+- i) a tényleges tulajdonos személyazonosságának megállapítása érdekében megteendő intézkedésekre
 
 vonatkozó részletszabályokat.
 
@@ -1348,13 +1361,11 @@ vonatkozó részletszabályokat.
 - f) a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez vezetői döntést igénylő esetek meghatározására,
 - g) a képzési programra,
 - h) az ügylet felfüggesztésére
+- i) i) a tényleges tulajdonos személyazonosságának megállapítása érdekében megteendő intézkedésekre
 
 vonatkozó részletszabályokat.
 
-(4) Felhatalmazást kap a Kormány, hogy rendeletben
-
-- a) állapítsa meg a tényleges tulajdonosok adatainak tárolása céljából létrehozott központi adatbázis, valamint a központi bankszámla- és széfnyilvántartás működésére vonatkozó részletes szabályokat,
-- b) jelölje ki az a) pont szerinti adatbázis és nyilvántartás működtetéséért felelős szerveket.
+(4)
 
 78. § (1) E törvény – a (2) bekezdésben foglalt kivétellel – 2017. június 26-án lép hatályba.
 
@@ -1372,9 +1383,9 @@ vonatkozó részletszabályokat.
 
 (4) A Hivatal a bizalmi vagyonkezelőkre vonatkozóan a Módtv. hatálybalépésétől számított hatvan napon belül köteles átdolgozni az e törvény szerinti egységes szabályzatot.
 
-(5) A Módtv. hatálybalépésekor működő szolgáltató a Pmt. 25. § (1) bekezdése szerinti adatszolgáltatást legkésőbb 2021. március 1-ig köteles teljesíteni.
+(5)
 
-(6) A Módtv. hatálybalépésekor működő fizetési számlák, illetve hatályban levő széfszolgáltatási szerződések esetében a Pmt. 25/A. és 25/B. §-a szerinti adatszolgáltatást legkésőbb 2021. március 21-ig kell teljesíteni.
+(6)
 
 (7) A Módtv. hatálybalépését megelőző napig hatályban volt 12. § (5) bekezdése alapján foganatosított korlátozó intézkedést a szolgáltató megszünteti, ha az ügyfél eleget tesz az azonosító adatok közlésére vonatkozó kötelezettségének.
 
@@ -1386,6 +1397,8 @@ vonatkozó részletszabályokat.
 
 - a) a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2015. május 20-i (EU) 2015/849 európai parlamenti és tanácsi irányelvnek, továbbá
 - b) a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv, valamint a 2009/138/EK és a 2013/36/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/843 európai parlamenti és tanácsi irányelvnek
+- c) a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról szóló 2009/138/EK irányelv (Szolvencia II.), a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv és a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv módosításáról szóló, 2019. december 18-i (EU) 2019/2177 európai parlamenti és tanácsi irányelvnek,
+- d) a pénzügyi és egyéb információk bizonyos bűncselekmények megelőzése, felderítése, nyomozása és a vádeljárás lefolytatása céljából történő felhasználásának megkönnyítését szolgáló szabályok megállapításáról, valamint a 2000/642/IB tanácsi határozat hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1153 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
