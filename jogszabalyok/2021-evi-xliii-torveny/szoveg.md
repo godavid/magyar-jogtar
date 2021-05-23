@@ -262,164 +262,38 @@ való megfelelést szolgálja.
 
 #### 17. Egyéb kapcsolódó törvények módosítása
 
-28. § A Pmt. 3. §-a a következő 38a. és 38b. ponttal egészül ki:
+#### 28. §
 
-[E törvény alkalmazásában:]
+#### 29. §
 
-„38a. tényleges tulajdonosi nyilvántartás: a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló 2021. évi XLIII. törvény (a továbbiakban: Afad-törvény) 3. § 14. pontjában meghatározott tényleges tulajdonosi nyilvántartás;
-
-38b. többségi állami tulajdonú vállalat: teljes mértékben állami vagy helyi önkormányzati tulajdonban álló vállalat, többségi állami tulajdonban álló vállalat, valamint a helyi önkormányzat többségi tulajdonában álló vállalat;”
-
-29. § A Pmt. 7. § (7) és (8) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(7) Ha az ügyfél és az üzleti kapcsolat azonosításához kockázatérzékenységi megközelítés alapján ez indokolt, a személyazonosság igazoló ellenőrzése érdekében a szolgáltató jogosult a (3)–(6) bekezdésben meghatározott intézkedéseken túlmenően a személyazonosságra vonatkozó adat felügyeletet ellátó szerv által meghatározott nyilvánosan hozzáférhető nyilvántartás vagy olyan nyilvántartás alapján történő ellenőrzésére, amelynek kezelőjétől törvény alapján adatigénylésre jogosult.
-
-(8) A pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása, az e törvényben meghatározott kötelezettségek megfelelő teljesítése, az ügyfél-átvilágítási kötelezettség teljes körű végrehajtása, valamint a felügyeleti tevékenység hatékony ellátása céljából a szolgáltató a személyazonosság igazoló ellenőrzése érdekében
-
-a) a b) pontban meghatározott eset kivételével, a (2) bekezdésben meghatározott adatokat tartalmazó, a (3) bekezdés alapján bemutatott okiratról – ideértve az okiratban feltüntetett valamennyi személyes adatot –, a lakcímet igazoló hatósági igazolvány személyi azonosítót igazoló oldala kivételével másolatot készít, vagy
-
-b) a (2) bekezdésben meghatározott adatok vonatkozásában a (3) bekezdés alapján elvégzett közhiteles nyilvántartásból történő adatlekérdezés eredményét rögzíti és nyilvántartja.”
-
-30. § (1) A Pmt. 9. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az ügyfél (1) bekezdésben meghatározott nyilatkoztatása kockázatérzékenységi megközelítés alapján mellőzhető, ha a szolgáltató az (1) és (2) bekezdésben meghatározott adatokat a részére bemutatott okiratok, valamint a tényleges tulajdonosi nyilvántartás és más olyan nyilvántartás alapján rögzíti, amelynek kezelőjétől törvény alapján adatigénylésre jogosult.”
-
-(2) A Pmt. 9. §-a a következő (6a) bekezdéssel egészül ki:
-
-„(6a) A szolgáltató a (3)–(6) bekezdésben meghatározott eljárások elvégzését követően az (1) bekezdésben meghatározott adatok rögzítésének dátumát nyilvántartásában rögzíti.”
+#### 30. §
 
 #### 31. §
 
-32. § (1) A Pmt. 15. § (1) bekezdése helyébe a következő rendelkezés lép, és a § a következő (1a)–(1c) bekezdéssel egészül ki:
+#### 32. §
 
-„(1) A szolgáltató a 65. §-ban meghatározott saját kockázatértékelésén alapuló, belső szabályzatban rögzített alacsony kockázatú esetekben az alábbi ügyfél-átvilágítási intézkedéseket köteles elvégezni:
+#### 33. §
 
-a) az azonosítás során
+#### 34. §
 
-aa) természetes személy ügyfél esetében legalább a 7. § (2) bekezdés a) pont aa), ac) és af)–ag) alpontjában meghatározott adatokat rögzíteni, valamint ezen adatokon túlmenően kockázatérzékenységi megközelítés alapján a 7. § (2) bekezdés a) pont ab), ad)–ae) alpontjában meghatározott adatokat rögzítheti;
+#### 35. §
 
-ab) jogi személy vagy jogi személyiséggel nem rendelkező szervezet ügyfél esetében legalább a 7. § (2) bekezdés b) pont ba)–bb) és bf) alpontjában meghatározott adatokat rögzíteni, valamint ezen adatokon túlmenően kockázatérzékenységi megközelítés alapján a 7. § (2) bekezdés b) pont bc)–be) és bg) alpontjában meghatározott adatokat rögzítheti;
+#### 36. §
 
-b) a személyazonosság igazoló ellenőrzése érdekében a 7. § (3) bekezdésében meghatározott okiratok másolatát beszerezni vagy közhiteles nyilvántartásból adatlekérést végezni és annak eredményét rögzíteni és nyilvántartani;
+#### 37. §
 
-c) a tényleges tulajdonos kilétével kapcsolatban a 8. és 9. §-ban meghatározott eljárásokat elvégezni;
+#### 38. §
 
-d) a kiemelt közszereplői jelleg meghatározásával kapcsolatban a 9/A. és 9/B. §-ban meghatározott eljárásokat elvégezni;
+#### 39. §
 
-e) a 11. és 12. §-ban meghatározott monitoring kötelezettségeket elvégezni.
+#### 40. §
 
-(1a) A szolgáltató – az (1b) bekezdés kivételével – az üzleti kapcsolat létesítése előtt köteles elvégezni az (1) bekezdés a)–d) pontjában meghatározott ügyfél-átvilágítási intézkedéseket.
+#### 41. §
 
-(1b) A szolgáltató
+#### 42. §
 
-a) az ügyfél személyazonosságának igazoló ellenőrzése érdekében az (1) bekezdés b) pontjában,
+#### 43. §
 
-b) a tényleges tulajdonos személyazonosságának igazoló ellenőrzése érdekében a 8. § (4)–(5) bekezdésében, valamint a 9. § (3)–(4) bekezdésében, és
-
-c) a kiemelt közszereplői jelleggel meghatározásával kapcsolatban a 9/A. § (3) bekezdésében és a 9/B. § (3) bekezdésében
-
-meghatározott ügyfél-átvilágítási intézkedéseket – kockázatérzékenységi megközelítés alapján – az üzleti kapcsolat során is elvégezheti, ha a pénzmosás vagy a terrorizmus finanszírozásának valószínűsége csekély, és pénzmosásra vagy terrorizmus finanszírozására utaló adat, tény vagy körülmény nem merül fel.
-
-(1c) A szolgáltató a személyazonosság igazoló ellenőrzése érdekében az (1b) bekezdésben meghatározott ügyfél-átvilágítási intézkedéseket legkésőbb a 12. § (1)–(2) bekezdésében meghatározott ellenőrzési kötelezettség teljesítése során köteles elvégezni.”
-
-(2) A Pmt. 15. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A szolgáltató az (1) bekezdésben meghatározott intézkedéseket
-
-a) a szolgáltató által üzemeltetett, biztonságos, védett, az 5. §-ban meghatározott felügyeletet ellátó szerv által meghatározott módon, előzetesen auditált elektronikus hírközlő eszköz útján,
-
-b) az ügyfél személyes megjelenése hiányában
-
-ba) az ügyfél által postai úton küldött okiratmásolatok és nyilatkozatok alapján,
-
-bb) a 65. §-ban meghatározott saját kockázatértékelésén alapuló belső szabályzatban rögzített esetekben az ügyfél által az ügyfél azonosított elektronikus levelezési címéről biztonságosan küldött vagy a szolgáltató által az ügyféllel való kapcsolattartás érdekében üzemeltetett elektronikus felületre feltöltött okiratmásolatok és nyilatkozatok alapján, vagy
-
-bc) az okiratmásolatokat és nyilatkozatokat magába foglaló jognyilatkozatokat is tartalmazó, az azokban foglalt információ változatlan visszaidézésére, a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának azonosítására alkalmas, az ügyfél által a szolgáltató részére hozzáférhetővé tett elektronikus dokumentumok alapján
-
-is elvégezheti.”
-
-33. § A Pmt. 16. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A szolgáltató fokozott ügyfél-átvilágítási intézkedéseket köteles alkalmazni, ha az ügyfél magas kockázatú. Az ügyfelet magas kockázatúnak kell tekinteni az alábbi esetekben:
-
-a) az ügyfél stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik országból származik,
-
-b) a 65. §-ban meghatározott saját kockázatértékelésén alapuló belső szabályzatban rögzített egyéb esetekben,
-
-c) a 17. §-ban meghatározott távoli azonosítás esetén,
-
-d) az ügyfél vagy tényleges tulajdonosa – a többségi tulajdonú állami vállalat 3. § 38. pont f) pont alapján megállapított tényleges tulajdonosa kivételével – kiemelt közszereplő vagy a kiemelt közszereplő közeli hozzátartozója vagy a kiemelt közszereplővel közeli kapcsolatban álló személy,
-
-e) az ügyfél az Afad-törvény alapján „megbízhatatlan” minősítésű tényleges tulajdonosi adatokkal rendelkező adatszolgáltatónak minősül, valamint
-
-f) az 5. §-ban meghatározott felügyeletet ellátó szerv által kiadott útmutatóban meghatározott egyéb esetekben.”
-
-34. § A Pmt. 29. § helyébe a következő rendelkezés lép:
-
-„29. § (1) A miniszter a bűncselekmények megelőzéséért felelős miniszterrel együttműködve gondoskodik a koordinált nemzeti kockázatértékelés elkészítéséről és annak legalább háromévenként történő felülvizsgálatáról, a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről, a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 2005/60/EK európai parlamenti és tanácsi irányelv és a 2006/70/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2015. május 20-i (EU) 2015/849 európai parlamenti és tanácsi irányelvben meghatározott, a határon átnyúló pénzmosás és terrorizmusfinanszírozás kockázatait feltáró szupranacionális kockázatértékelés eredményeinek a figyelembevételével.
-
-(2) A miniszter tájékoztatja a Bizottságot és a tagállamokat a koordinált nemzeti kockázatértékelés mindenkori aktualizált eredményeiről.
-
-(3) A miniszter nyilvánosságra hozza a koordinált nemzeti kockázatértékelés mindenkori aktualizált eredményeinek minősített adatokat nem tartalmazó összefoglalását.
-
-(4) A koordinált nemzeti kockázatértékelés elkészítésében közreműködő szervek – a nemzetközi együttműködésüket szabályozó rendelkezéseknek is megfelelő módon – információt szolgáltathatnak az Európai Unió tagállamai által készített kockázatértékeléshez.”
-
-35. § A Pmt. 66. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Az 5. §-ban meghatározott felügyeletet ellátó szerv (1) bekezdés szerinti felügyeleti tevékenysége kiterjed a szolgáltatónak a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló jogszabályi rendelkezéseknek való megfelelésének biztosítására is.”
-
-36. § (1) A Pmt. 77. § (2) bekezdése a következő i) ponttal egészül ki:
-
-[Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg az 1. § (1) bekezdés f), h–k) és n–r) pontjában meghatározott szolgáltatók tekintetében]
-
-„i) a tényleges tulajdonos személyazonosságának megállapítása érdekében megteendő intézkedésekre”
-
-[vonatkozó részletszabályokat.]
-
-(2) A Pmt. 77. § (3) bekezdése a következő i) ponttal egészül ki:
-
-[Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy rendeletben állapítsa meg az 1. § (1) bekezdés a–e) és m) pontjában meghatározott szolgáltatók tekintetében]
-
-„i) a tényleges tulajdonos személyazonosságának megállapítása érdekében megteendő intézkedésekre”
-
-[vonatkozó részletszabályokat.]
-
-37. § A Pmt. 82. § (1) bekezdés a következő c) és d) ponttal egészül ki:
-
-(E törvény)
-
-„c) a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról szóló 2009/138/EK irányelv (Szolvencia II.), a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv és a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv módosításáról szóló, 2019. december 18-i (EU) 2019/2177 európai parlamenti és tanácsi irányelvnek,
-
-d) a pénzügyi és egyéb információk bizonyos bűncselekmények megelőzése, felderítése, nyomozása és a vádeljárás lefolytatása céljából történő felhasználásának megkönnyítését szolgáló szabályok megállapításáról, valamint a 2000/642/IB tanácsi határozat hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1153 európai parlamenti és tanácsi irányelvnek”
-
-(való megfelelést szolgálja.)
-
-38. § A Pmt. 16. § (2) és (3) bekezdésében az „(1) bekezdés b)–e) pontjában” szövegrészek helyébe az „(1) bekezdés b)–f) pontjában” szöveg lép.
-
-39. § A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény (a továbbiakban: MNBtv.) 39. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az MNB a 4. § (9) bekezdésében meghatározott feladatkörében látja el a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) 1. § (1) bekezdés a)–e) és m) pontja szerinti szolgáltatók vonatkozásában a Pmt.-ben, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló 2017. évi LII. törvényben, valamint a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló 2021. évi XLIII. törvény (a továbbiakban: Afad-törvény) 3. § 12. pontja szerinti szolgáltató minőségében eljáró szolgáltató vonatkozásában az Afad-törvényben meghatározott felügyeleti feladatokat.”
-
-40. § Az MNBtv. 185. §-a a következő 21. ponttal egészül ki:
-
-(Ez a törvény)
-
-„21. a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról szóló 2009/138/EK irányelv (Szolvencia II.), a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv és a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv módosításáról szóló, 2019. december 18-i (EU) 2019/2177 európai parlamenti és tanácsi irányelvnek”
-
-(való megfelelést szolgálja.)
-
-41. § Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 60. §-a a következő (7a) bekezdéssel egészül ki:
-
-„(7a) A fizetési titok megtartásának kötelezettsége nem áll fenn abban az esetben sem, ha a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló törvény alapján szolgáltat adatot.”
-
-42. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 161. § (3) bekezdése a következő b) ponttal egészül ki:
-
-(A banktitok megtartásának kötelezettsége nem áll fenn abban az esetben sem, ha)
-
-„b) a pénzügyi intézmény a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló törvény alapján szolgáltat adatot,”
-
-43. § Hatályát veszti a Pmt. 25. §-a, 77. § (4) bekezdése és 80. § (5) és (6) bekezdése.
-
-44. § Hatályát veszti az adózás rendjéről szóló 2017. évi CL. törvény 84. § (1) bekezdésének az „a székhely szerint illetékes gazdasági kamarával, valamint a székhely szerint illetékes önkormányzati jegyzővel” szövegrésze.
+#### 44. §
 
 #### 45. §
