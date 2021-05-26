@@ -46,14 +46,7 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
   - gb) az állami mentőszolgálat,
   - gc) az állami vérellátó szolgálat, valamint
   - gd) az egészségügyi államigazgatási szerv intézetei, amennyiben egészségügyi szolgáltatást is nyújtanak;
-- h) orvostechnikai eszköz: minden olyan, akár önállóan, akár más termékkel együttesen használt készülék, berendezés, anyag, szoftver vagy más termék – ideértve az azok megfelelő működéséhez szükséges szoftvert, amely a gyártó szándéka szerint kifejezetten diagnosztikai, illetve terápiás célra szolgál, valamint a rendelésre készült eszköz, továbbá a klinikai vizsgálatra szánt eszköz is –, amely a gyártó meghatározása szerint emberen vagy emberből származó mintán történő alkalmazásra szolgál
-  - ha) betegség megelőzése, diagnosztizálása, megfigyelése, kezelése vagy a betegség tüneteinek enyhítése,
-  - hb) sérülés vagy fogyatékosság diagnosztizálása, megfigyelése, kezelése, tüneteinek enyhítése vagy kompenzálása,
-  - hc) az anatómiai felépítés vagy valamely fiziológiai folyamat vizsgálata, helyettesítése, illetve pótlása vagy módosítása,
-  - hd) fogamzásszabályozás
-
-céljából, és amely rendeltetésszerű hatását az emberi szervezetben vagy szervezetre elsősorban nem farmakológiai, immunológiai vagy metabolikus módon fejti ki, de működése ilyen módon elősegíthető;
-
+- h) orvostechnikai eszköz: az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/745 rendelet] 2. cikk 1. pontjában meghatározott fogalom;
 - i) sürgős szükség: az egészségi állapotban bekövetkezett olyan változás, amelynek következtében azonnali egészségügyi ellátás hiányában a beteg közvetlen életveszélybe kerülne, illetve súlyos vagy maradandó egészségkárosodást szenvedne;
 - j) veszélyeztető állapot: az az állapot, amelyben az azonnali intézkedés hiánya a beteg vagy más személy életét, testi épségét vagy egészségét közvetlenül fenyegető helyzetet eredményezne, illetőleg a környezetére közvetlen veszélyt jelentene;
 - k) vizsgálat: az a tevékenység, amelynek célja a beteg egészségi állapotának felmérése, a betegségek, illetve kockázatuk felderítése, a konkrét betegség(ek) meghatározása, prognózisuk, változásuk megállapítása, a gyógykezelés eredményességének, valamint a halál bekövetkeztének és a halál okának megállapítása;
@@ -1468,7 +1461,8 @@ terjedhet.
   - db) a gyártó nevét,
   - dc) a forgalmazó nevét, székhelyét, akitől az implantátumot az egészségügyi szolgáltató beszerezte,
 - e) a beültetést végző orvos nevét, pecsétszámát,
-- f) a beültetést végző egészségügyi szolgáltató nevét, működési engedélye számát.
+- f) a beültetést végző egészségügyi szolgáltató nevét, működési engedélye számát,
+- g) az eszköz UDI azonosítóját.
 
 (2) Az (1) bekezdés szerinti nyilvántartást az egészségügyi szolgáltató az egészségbiztosítási szerv által működtetett informatikai felület alkalmazásával vezeti. A nyilvántartásba az (1) bekezdés szerinti adatokat legkésőbb a beavatkozással érintett személy egészségügyi szolgáltatótól történő elbocsátását követő 8 napon belül vagy az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló kormányrendeletben foglalt finanszírozási jelentéstétel napján kell felvinni.
 
