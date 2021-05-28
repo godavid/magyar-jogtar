@@ -185,7 +185,7 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 
 (3) Az önkéntes közeli hozzátartozója az önkéntes halálából eredő kárát a (2) bekezdésben foglaltak szerint érvényesítheti.
 
-11. § (1) A fogadó szervezet a családpolitikáért felelős miniszternek (a továbbiakban: miniszter) köteles – a (2) bekezdésben foglaltak kivételével előzetesen – bejelenteni az önkéntesek foglalkoztatását, és a bejelentett adatokban bekövetkező változásokat. A bejelentést a miniszter által e célra rendszeresített és a miniszter által vezetett minisztérium honlapján, az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 14. § (1) bekezdése szerinti honlapon (a továbbiakban: Civil Információs Portál), valamint a kormányzati portálon közzétett adatlapon vagy elektronikus űrlapon kell teljesíteni. Az adatlap és az elektronikus űrlap adattartalmát az 1. melléklet határozza meg.
+11. § (1) A fogadó szervezet a családpolitikáért felelős miniszternek (a továbbiakban: miniszter) köteles – a (2) bekezdésben foglaltak kivételével előzetesen – bejelenteni az önkéntesek foglalkoztatását, és a bejelentett adatokban bekövetkező változásokat. A bejelentést a miniszter által e célra rendszeresített honlapon (a továbbiakban: Közérdekű Önkéntes Szervezeti Regiszter), valamint a kormányzati portálon közzétett adatlapon vagy elektronikus űrlapon kell teljesíteni. Az adatlap és az elektronikus űrlap adattartalmát az 1. melléklet határozza meg.
 
 (2) Ha az önkéntes szükséghelyzetben történő alkalmi foglalkoztatásának előzetes bejelentésére nincs lehetőség, a bejelentési kötelezettségnek a közérdekű önkéntes tevékenység megkezdésétől számított tizenöt napon belül kell eleget tenni. Az 1. melléklet 1–3. pontja szerinti adatokban bekövetkező változást az azt követő tizenöt napon belül kell bejelenteni.
 
@@ -224,7 +224,7 @@ az önkéntes jogviszonnyal összefüggésben következett be, a fogadó szervez
 - a) a bejelentő nem lehet fogadó szervezet, vagy
 - b) a bejelentő által benyújtott iratokból és a 11. § (4) bekezdése szerint beszerzett adatokból kétséget kizáró módon megállapítható, hogy a bejelentésben megjelölt tevékenységi körben önkéntes nem foglalkoztatható.
 
-(3) A nyilvántartásban szereplő adatokat a miniszter a Civil Információs Portálon közzéteszi.
+(3) A nyilvántartásban szereplő adatokat a miniszter a Közérdekű Önkéntes Szervezeti Regiszterben közzéteszi.
 
 (4) A miniszter a nyilvántartásban szereplő adatokat átadja a munkavédelmi hatóságnak az önkéntesek jogszabályszerű foglalkoztatásának ellenőrzése céljából.
 

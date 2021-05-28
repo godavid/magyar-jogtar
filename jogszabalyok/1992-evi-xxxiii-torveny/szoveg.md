@@ -869,7 +869,7 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 
 (4) A felsőoktatási intézményben – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 115. § (12) bekezdésében az intézményi társaságokkal kapcsolatosan előírt korlátozás megtartása mellett – a magasabb vezető és a vezető megbízásával nem összeférhetetlen a gazdasági társaságban betöltött igazgatósági, felügyelőbizottsági tagság.
 
-(5) A (2) bekezdés b) pontjától eltérően a tudományos kutatásról, fejlesztésről és innovációról szóló törvény szerinti költségvetési kutatóhely által foglalkoztatott közalkalmazott a hasznosító vállalkozásnak – a munkáltató előzetes írásbeli hozzájárulásával – tagja vagy vezető tisztségviselője lehet, illetve azzal munkavégzésre irányuló további jogviszonyt létesíthet.
+(5) A (2) bekezdés b) pontjától eltérően a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: KFItv.) szerinti költségvetési kutatóhely által foglalkoztatott közalkalmazott a hasznosító vállalkozásnak, valamint a nemzeti felsőoktatásról szóló törvény szerinti intézményi társaságnak – a kutatóhelynek a KFItv. 34/A. § (2) bekezdése szerinti átláthatósági szabályzatában foglaltakkal összhangban, a munkáltató előzetes írásbeli hozzájárulásával – tagja vagy vezető tisztségviselője lehet, illetve azzal munkavégzésre irányuló további jogviszonyt létesíthet.
 
 41/A. §
 
@@ -892,6 +892,8 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 (2) Az (1) bekezdés alkalmazásában üzleti titok a munkáltató gazdasági (kutatási) tevékenységéhez kapcsolódó minden olyan téma, információ, megoldás, eljárási módszer, adat, amely a munkáltató számára vagyoni értéket képvisel.
 
 (3) Az (1) bekezdésben megjelölt munkáltatónál foglalkoztatott magasabb vezető, vezető beosztású, illetve témacsoport-vezető közalkalmazott nem lehet tagja, illetve vezető tisztségviselője olyan gazdasági társaságnak, amelynek az őt foglalkoztató munkáltató az alapítója, tagja vagy a munkáltatóval – ide nem értve a közműszolgáltató tevékenységet ellátó gazdasági társaságokat – gazdasági kapcsolatban áll.
+
+(4) Az (1)–(3) bekezdést a KFItv. szerinti hasznosító vállalkozással, valamint a nemzeti felsőoktatásról szóló törvény szerinti intézményi társasággal létesített jogviszonyokra nem kell alkalmazni. Ezen jogviszonyok keretében a közalkalmazott jogosult az (1) bekezdésben megjelölt munkáltatója (2) bekezdés szerinti üzleti titkát képező módszerek, eljárások, ismeretek, know-how-k alkalmazására, hasznosítására.
 
 44. § (1) A közalkalmazott a munkaidejét nem érintő további munkavégzésre irányuló jogviszony létesítését – a tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenység, a közérdekű önkéntes tevékenység, valamint az állami projektértékelői jogviszony kivételével – köteles a munkáltatónak előzetesen írásban bejelenteni, amely összeférhetetlenség esetén a további jogviszony létesítését írásban megtiltja.
 
