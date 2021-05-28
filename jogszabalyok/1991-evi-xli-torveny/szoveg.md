@@ -170,7 +170,7 @@ a közjegyzőkről
 - d) a jogi szakvizsgát letette,
 - e) legalább 3 éves közjegyzőhelyettesi gyakorlatot igazol,
 - f) nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt,
-- g) eredményes közjegyzői vizsgát tett,
+- g) – közjegyző pályázó kivételével – eredményes közjegyzői vizsgát tett,
 - h) az eljárás nyelvének az eljárás lefolytatásához szükséges mértékű ismeretét igazolta, és
 - i) a pályaalkalmassági vizsgálat eredménye alapján a közjegyzői hivatás gyakorlására alkalmas.
 
@@ -228,22 +228,17 @@ tájékoztatja a minisztert. A közjegyzői álláshelyre a pályázatot a minis
 - b) a közjegyzői szolgálat megszűnése esetén az ennek megállapításáról szóló határozat véglegessé válását;
 - c) a fegyelmi bíróság hivatalvesztést, érdemtelenséget vagy alkalmatlanságot megállapító jogerős határozatának kézhezvételét;
 - d) a pályázati eljárás eredménytelenné vagy érvénytelenné nyilvánítását;
-- e) a közjegyzői álláshely kérelemre történő áthelyezés miatti megüresedését;
+- e)
 - f) újonnan létrehozott álláshely esetén az álláshelyet létrehozó jogszabály kihirdetését; valamint
 - g) a területi kamara elnökségének a (2) bekezdésben foglalt tájékoztatása hiányában az álláshely megüresedéséről való tudomásszerzést
 
 követő 45 napon belül, hirdetmény közzététele útján írja ki.
 
-(4) A területi kamara a honlapján a közjegyzői álláshely megüresedéséről
+(4)
 
-- a) (2) bekezdés szerinti körülmény bekövetkezése esetén, vagy
-- b) a miniszternek a (3) bekezdés szerint körülmény bekövetkezéséről való tájékoztatása alapján
+(5)
 
-tájékoztatást tesz közzé. A tájékoztatás közzétételétől számított 8 napon belül a 20. § (2b) bekezdése szerinti áthelyezési kérelem előterjesztésének van helye.
-
-(5) Nincs helye pályázat kiírásának, ha a miniszter a közjegyzői álláshelyet a közjegyzői áthelyezési kérelme alapján töltötte be.
-
-(6) A pályázat kiírásának határideje az áthelyezési kérelem elbírálásának idejéig nyugszik.
+(6)
 
 18/A. § (1) Ha a pályázat kiírását követően a meghirdetett közjegyzői álláshely mégsem üresedik meg, a pályázatot visszavontnak kell tekinteni.
 
@@ -261,25 +256,13 @@ tájékoztatást tesz közzé. A tájékoztatás közzétételétől számított
 
 (2a) Az érintett területi kamara elnökségének javaslatára a miniszter a közjegyzőt – beleegyezésével – a területi kamara illetékességi területén megüresedett vagy újonnan létrehozott közjegyzői székhelyre (álláshelyre) az érintett közjegyző által addig betöltött székhely (álláshely) egyidejű megszüntetésével, pályázat kiírása nélkül helyezheti át.
 
-(2b) A miniszter a közjegyzőt kérelmére megüresedett, megüresedő vagy újonnan létrehozott közjegyzői székhelyre (álláshelyre) pályázat kiírása nélkül áthelyezheti. Az áthelyezési kérelmet a betölteni kívánt székhely (álláshely) szerint illetékes területi kamara elnöksége útján kell a miniszterhez elektronikus úton benyújtani.
+(2b)
 
-(2c) A (2b) bekezdés szerint nincs helye áthelyezésnek a közjegyző kinevezését követő 3 éven belül és azon időpontot megelőző 5 éven belül, amikor a közjegyző betölti azt a kort, amikor a törvény alapján a közjegyzői szolgálata megszűnik.
+(2c)
 
-(2d) A területi kamara a kérelmet a benyújtástól számított 8 napon belül véleményével együtt, elektronikus úton küldi meg a miniszternek. A területi kamara a véleményét
+(2d)
 
-- a) az utolsó irodavizsgálat eredménye,
-- b) az áthelyezési kérelem benyújtását megelőző két évben a közjegyzővel szemben felmerült alapos panaszok száma,
-- c) a közjegyző továbbképzési kötelezettségének teljesítése, valamint
-- d) a kamarában végzett tevékenysége,
-
-alapján alakítja ki.
-
-(2e) A miniszter az áthelyezési kérelemről
-
-- a) a közjegyző szolgálati ideje, valamint
-- b) a területi kamara véleményében foglaltak
-
-alapján, a kérelem kézhezvételétől számított 30 napon belül dönt.
+(2e)
 
 (3) Ha a közjegyzői álláshelyet a miniszter – a 18. §-ban foglaltak szerint – más székhelyre kinevezett közjegyző személyével tölti be, a közjegyzőt e székhelyre helyezi át.
 
@@ -2140,6 +2123,8 @@ kommunikálhat.
 (11) Ha a 178. § (2) bekezdése hatálya alá tartozó közjegyző a tevékenységét egyénileg folytatja, a szolgálata megszűnéséig a tevékenysége egyénileg történő folytatását illetően e törvény 2021. december 31-én hatályos rendelkezései szerint jogosult a közjegyzői tevékenység folytatására.
 
 (12) Ha a közjegyzői iroda megalapítására 2021. december 31-ig azért nem került sor, mert a közjegyző fegyelmi büntetés vagy intézkedés hatálya alatt állt, vagy más ok miatt tartósan helyettesítették, a tevékenységét egyénileg folytató közjegyzőnek a tartós helyettesítés megszűnését követő 30 napon belül kell kérelmeznie az alapítási engedély megadását. A közjegyzői iroda megalapításáig a tevékenysége egyénileg történő folytatását illetően a közjegyző e törvény 2021. december 31-én hatályos rendelkezései szerint jogosult a közjegyzői tevékenység folytatására.
+
+(13) A 18. § (4) bekezdése szerint közzétett területi kamarai tájékoztatás alapján benyújtott áthelyezési kérelem elbírálásának akkor van helye, ha a területi kamarai tájékoztatás közzétételére a 18. § (4) bekezdésének az egyes törvényeknek a kézbesítéssel és az igazságügyi ágazati szabályozással összefüggő módosításáról szóló 2021. évi LI. törvénnyel történő hatályon kívül helyezését megelőzően került sor.
 
 ### Felhatalmazás
 

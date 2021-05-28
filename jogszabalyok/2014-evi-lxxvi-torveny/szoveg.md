@@ -57,7 +57,7 @@ a következő törvényt alkotja:
 - 2. alkalmazott kutatás: tervezett kutatás vagy kritikus vizsgálat, amelynek célja új ismeretek és szakértelem megszerzése új termékek, eljárások vagy szolgáltatások kifejlesztéséhez vagy a létező termékek, eljárások vagy szolgáltatások jelentős mértékű fejlesztésének elősegítéséhez, amely magában foglalja komplex rendszerek összetevőinek létrehozását, és beletartozhat a prototípusok laboratóriumi környezetben vagy létező rendszerekhez szimulált interfésszel rendelkező környezetben történő megépítése, valamint kísérleti sorozatok gyártása, amennyiben ez az alkalmazott kutatáshoz és különösen a generikus technológiák ellenőrzéséhez szükséges,
 - 2a. Egyszerűsített elszámolási módok: az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról és az 1083/2006/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1303/2013/EU európai parlamenti és tanácsi rendelet 67. cikk (1) bekezdés b)–d) pontjai szerinti támogatási formák,
 - 3. fizetett kutatás-fejlesztés: az egyik fél által végzett és egy finanszírozó fél által finanszírozott kutatás-fejlesztés, ahol a finanszírozó fél maga nem végez kutatás-fejlesztési tevékenységet,
-- 4. hasznosító vállalkozás: költségvetési kutatóhelyen létrejött szellemi alkotás hasznosítása céljából alapított gazdasági társaság, amely nem pénzbeli hozzájárulásként rendelkezésre bocsátás, átruházás vagy hasznosítási szerződés alapján vált a költségvetési kutatóhelyen létrehozott szellemi alkotáshoz fűződő jogok jogosultjává vagy hasznosítójává.
+- 4. hasznosító vállalkozás: költségvetési kutatóhelyen létrejött szellemi alkotás hasznosítása céljából alapított gazdasági társaság, amely nem pénzbeli hozzájárulásként rendelkezésre bocsátás, átruházás vagy hasznosítási szerződés alapján vált a költségvetési kutatóhelyen, valamint a felsőoktatási intézményben létrejött szellemi alkotáshoz fűződő jogok jogosultjává vagy hasznosítójává.
 - 5. hazai közfinanszírozású támogatás: a közfinanszírozású támogatások összessége az európai uniós források kivételével,
 - 6. innováció: egy új vagy továbbfejlesztett termék vagy folyamat, vagy ezek kombinációja, amely jelentősen különbözik a jogi formájától vagy finanszírozási módjától függetlenül az adott szervezet korábbi termékeitől vagy folyamataitól, és amelyet termék esetén a potenciális felhasználók számára elérhetővé tettek, vagy amelyeket folyamat esetén a szervezet használatba vett, továbbá amely lehet
   - a) termék innováció: egy új vagy továbbfejlesztett termék vagy szolgáltatás, amely jelentősen különbözik a vállalkozás olyan termékeitől, szolgáltatásaitól, amelyet már bevezetett a piacra,
@@ -439,7 +439,7 @@ nyújtható.
 
 (3) A támogatási szerződésben meg kell határozni a kedvezményezett (1) bekezdésben foglaltak szerint előírt kötelezettsége felróható elmulasztásának jogkövetkezményeit.
 
-33. § (1) A költségvetési kutatóhelynek és közalapítványnak, valamint az állami és önkormányzati tulajdonban álló, kutatóhelynek minősülő közhasznú jogállású nonprofit gazdasági társaságnak szellemitulajdon-kezelési szabályzattal kell rendelkeznie.
+33. § (1) A költségvetési kutatóhelynek és közalapítványnak, a felsőoktatási intézménynek, valamint az állami és önkormányzati tulajdonban álló, kutatóhelynek minősülő közhasznú jogállású nonprofit gazdasági társaságnak szellemitulajdon-kezelési szabályzattal kell rendelkeznie.
 
 (2) A szellemitulajdon-kezelési szabályzatnak ki kell terjednie különösen
 
@@ -452,19 +452,32 @@ nyújtható.
 
 (3) Az (1) bekezdés szerinti szervezet, ha több, a kutatás-fejlesztési alap-, illetve főtevékenységét megvalósító vagy ahhoz kapcsolódóan kutatás-fejlesztési tevékenységet is végző szervezeti egységet foglal magában, egyetlen szabályzatot készít, amelynek lehetnek az egyes szervezeti egységek sajátos feltételeinek megfelelő kiegészítései.
 
-(4) A szellemitulajdon-kezelési szabályzatot a költségvetési kutatóhely vezetője, közalapítvány esetében az irányító szerv, közhasznú társaság esetében a legfőbb szerv hagyja jóvá. A jóváhagyásra jogosult ezt a hatáskörét nem ruházhatja át.
+(4) A szellemitulajdon-kezelési szabályzatot a költségvetési kutatóhely vezetője, a felsőoktatási intézmény vezető testülete, közalapítvány esetében az irányító szerv, közhasznú társaság esetében a legfőbb szerv hagyja jóvá. A jóváhagyásra jogosult ezt a hatáskörét nem ruházhatja át.
 
-(5) A hasznosító vállalkozásban történő részesedésszerzést, a részesedés megszüntetését vagy mértéke csökkentését – az (1) bekezdés szerinti szabályzattal összhangban – a költségvetési kutatóhely vezetője, közalapítvány esetében a kezelő szerv, közhasznú társaság esetében a legfőbb szerv hagyja jóvá. A jóváhagyásra jogosult ezt a hatáskörét nem ruházhatja át.
+(5) A hasznosító vállalkozásban történő részesedésszerzést, a részesedés megszüntetését vagy mértéke csökkentését – az (1) bekezdés szerinti szabályzattal összhangban – a költségvetési kutatóhely vezetője, a felsőoktatási intézmény vezető testülete, közalapítvány esetében a kezelő szerv, közhasznú társaság esetében a legfőbb szerv hagyja jóvá. A jóváhagyásra jogosult ezt a hatáskörét nem ruházhatja át.
 
-34. § (1) A költségvetési kutatóhely a szellemi alkotást a szellemitulajdon-kezelési szabályzatában foglaltak szerint hasznosíthatja vagy értékesítheti.
+34. § (1) A költségvetési kutatóhely, valamint a felsőoktatási intézmény a szellemi alkotást a szellemitulajdon-kezelési szabályzatában foglaltak szerint hasznosíthatja vagy értékesítheti.
 
 (2) Költségvetési kutatóhely által alapított vagy részesedésével működő hasznosító vállalkozásra a nemzeti felsőoktatásról szóló törvény szerinti intézményi társaságra vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(3) A költségvetési kutatóhely évente jelentést készít az irányító szerve részére arról, hogy a szellemitulajdon-kezelési szabályzatában rögzítettekkel összhangban hogyan valósultak meg a kutatóhelyen létrehozott szellemi alkotásokra vonatkozó hasznosítási célok.
+(3) A költségvetési kutatóhely – a (4) bekezdésben foglalt kivétellel –, valamint a felsőoktatási intézmény évente, a tárgyévet követő év március 31. napjáig beszámolót készít a tudománypolitika koordinációjáért felelős miniszter részére arról, hogy a szellemitulajdon-kezelési szabályzatában rögzítettekkel összhangban hogyan valósultak meg a kutatóhelyen létrehozott szellemi alkotásokra vonatkozó hasznosítási célok.
 
-35. § (1) Költségvetési kutatóhely és nonprofit közhasznú kutatóhely részére szellemi alkotás hasznosító vállalkozásban való hasznosítása céljából tagsági jogviszony létesítéséhez vagy részesedés szerzéséhez pályázati úton hazai közfinanszírozású támogatás nyújtható.
+(4) Az ELKH-hoz tartozó költségvetési kutatóhely évente, a tárgyévet követő év március 31. napjáig jelentést készít az irányító szerve részére arról, hogy a szellemitulajdon-kezelési szabályzatában rögzítettekkel összhangban hogyan valósultak meg a kutatóhelyen létrehozott szellemi alkotásokra vonatkozó hasznosítási célok
 
-(2) Az (1) bekezdés szerinti közfinanszírozású támogatásra pályázhat az a kutató, illetve egyetemi, főiskolai oktatói munkakörben foglalkoztatott személy is, aki a költségvetési kutatóhelyen létrejött szellemi alkotásnak a költségvetési kutatóhellyel együttesen jogosultja, és szellemi alkotás hasznosítása céljából az együttesen jogosultak önállóan vagy bármely kívülálló harmadik személlyel gazdasági társaságot alapítanak, illetve gazdasági társaságban – a 34. §-ban foglaltak figyelembevételével – tagsági jogviszonyt létesítenek vagy részesedést szereznek. A támogatásra irányuló pályázat befogadásának feltétele a költségvetési kutatóhely és a kutató, illetve egyetemi, főiskolai oktatói munkakörben foglalkoztatott személy között a szellemi alkotáshoz fűződő jogokra és a hasznosításból származó jövedelmek megosztására vonatkozó érvényes szerződés megléte.
+34/A. § (1) A költségvetési kutatóhely, valamint a felsőoktatási intézmény által kutató, illetve oktató munkakörben foglalkoztatott hasznosító vállalkozással, valamint a nemzeti felsőoktatásról szóló törvény szerinti intézményi társasággal – a kutatóhely, valamint a felsőoktatási intézmény átláthatósági szabályzatában foglaltakkal összhangban – munkavégzésre irányuló további jogviszonyt létesíthet.
+
+(2) Az átláthatósági szabályzatban kell meghatározni
+
+- a) a munkavégzésre irányuló további jogviszony létesítésnek engedélyezésére irányuló kérelem kötelező tartalmi elemeit,
+- b) az összeférhetetlenségi okokat és azok megszüntetésének lehetőségét, határidejét,
+- c) a kérelem elutasításának indokolási kötelezettségét,
+- d) a kérelemmel kapcsolatos eljárási határidőket,
+- e) a kérelem elbírálásával kapcsolatos felelősség és hatásköröket,
+- f) a jogorvoslati lehetőség biztosítását.
+
+35. § (1) Költségvetési kutatóhely és nonprofit közhasznú kutatóhely, valamint a felsőoktatási intézmény részére szellemi alkotás hasznosító vállalkozásban való hasznosítása céljából tagsági jogviszony létesítéséhez vagy részesedés szerzéséhez pályázati úton hazai közfinanszírozású támogatás nyújtható.
+
+(2) A támogatásra irányuló pályázat befogadásának feltétele a költségvetési kutatóhely, illetve a felsőoktatási intézmény és a kutató, illetve a felsőoktatási intézmény által oktatói munkakörben foglalkoztatott személy között a szellemi alkotáshoz fűződő jogokra és a hasznosításból származó jövedelmek megosztására vonatkozó érvényes szerződés megléte.
 
 ### VI. Fejezet — A KUTATÁS-FEJLESZTÉSI TEVÉKENYSÉG MINŐSÍTÉSE
 

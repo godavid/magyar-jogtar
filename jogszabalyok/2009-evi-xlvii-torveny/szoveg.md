@@ -184,7 +184,7 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 - h) közkegyelem vagy egyéni kegyelem alapján a bírósági határozatot érintő változásokat, az egyéni kegyelmi határozat számát és keltét;
 - i) a büntetés végrehajthatóságának elévülés okából történt megszűnését megállapító határozatot hozó bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját;
 - j) a törvényi mentesítés várható időpontját;
-- k) a külföldi ítélet elismerése, illetve – feltéve, hogy a bíróság a megfeleltetés során megállapította a bűncselekmény megnevezését és az 1978. évi IV. törvény vagy a Btk. szerinti minősítését – az Európai Unió más tagállamában magyar állampolgárral szemben hozott, bűnösséget megállapító jogerős ítélet (a továbbiakban: tagállami ítélet) megfeleltetése esetén
+- k) a külföldi ítélet elismerése, illetve – feltéve, hogy a bíróság a megfeleltetés során megállapította a bűncselekmény megnevezését és az 1978. évi IV. törvény vagy a Btk. szerinti minősítését – az Európai Unió más tagállamában vagy a Nagy-Britannia és Észak-Írország Egyesült Királyságában (a továbbiakban: Egyesült Királyság) magyar állampolgárral szemben hozott, bűnösséget megállapító jogerős ítélet (a továbbiakban együtt: tagállami ítélet) megfeleltetése esetén
   - ka) ennek tényét,
   - kb) a külföldi bíróság és az elismerő vagy a megfeleltetésről szóló határozatot hozó magyar bíróság megnevezését,
   - kc) a külföldi bíróság és az elismerő vagy a megfeleltetésről szóló határozatot hozó magyar bíróság által hozott határozat számát, keltét, jogerőre emelkedésének napját,
@@ -554,6 +554,8 @@ vonatkozó adatokkal való összehasonlítás útján állapítja meg az elíté
 34. § (1) A 33. §-ban meghatározott adatokat a tagállami ítéletről szóló tájékoztatásban meghatározott törlés beálltának idejéig kell nyilvántartani. Ha e tájékoztatásban nem szerepel törlésre vonatkozó adat, az adatokat akkor kell törölni, amikor a tagállam kijelölt központi hatóságának tájékoztatása szerint azt az érintett tagállam bűnügyi nyilvántartásából törölték.
 
 (2) A 33. §-ban meghatározott adatok változását az érintett tagállam kijelölt központi hatósága által adott tájékoztatást követően a bűnügyi nyilvántartó szerv haladéktalanul átvezeti.
+
+34/A. § E fejezetnek az Európai Unió tagállamára vonatkozó rendelkezéseit az Egyesült Királyság tekintetében is alkalmazni kell.
 
 ### IV. Fejezet — A BŰNÜGYI ÉS RENDÉSZETI BIOMETRIKUS ADATOK NYILVÁNTARTÁSA
 
@@ -1174,7 +1176,7 @@ közvetlen hozzáféréssel adatokat kíván átvenni a bűnügyi nyilvántartá
 
 76/B. § (1) Ha a 76/A. § szerinti esetben a bűnügyi nyilvántartó szerv megállapítja, hogy a tagállami ítéletek nyilvántartásában a közvetlen hozzáféréssel történő adatátvétellel vagy az adatigényléssel érintett személyre, illetve a kérelmezőre vonatkozó, magyar bíróság által még nem elismert vagy nem megfeleltetett tagállami ítélet szerepel, a (3) bekezdésben meghatározott kivétellel a bíróságnál kezdeményezi, hogy a magyar bíróság a megfeleltetést végezze el.
 
-(2) A bűnügyi nyilvántartó szerv az (1) bekezdés alapján az érintettre, illetve a kérelmezőre vonatkozó, az Európai Unió más tagállamának kijelölt központi hatósága által megküldött, a 33. § (1) és (2) bekezdése szerinti adatokat küldi meg a bíróságnak, továbbá tájékoztatja a bíróságot, hogy a megfeleltetési eljárás lefolytatására közvetlen hozzáféréssel történő adatátvétel vagy adatigénylés alapján történő adattovábbítás teljesítése érdekében, illetve hatósági erkölcsi bizonyítvány kiállítása iránti eljárás során van szükség.
+(2) A bűnügyi nyilvántartó szerv az (1) bekezdés alapján az érintettre, illetve a kérelmezőre vonatkozó, az Európai Unió más tagállamának vagy az Egyesült Királyság kijelölt központi hatósága által megküldött, a 33. § (1) és (2) bekezdése szerinti adatokat küldi meg a bíróságnak, továbbá tájékoztatja a bíróságot, hogy a megfeleltetési eljárás lefolytatására közvetlen hozzáféréssel történő adatátvétel vagy adatigénylés alapján történő adattovábbítás teljesítése érdekében, illetve hatósági erkölcsi bizonyítvány kiállítása iránti eljárás során van szükség.
 
 (3) A bűnügyi nyilvántartó szerv nem kezdeményezi, hogy a magyar bíróság a megfeleltetést végezze el, ha az érintett személlyel, illetve a kérelmezővel szemben hozott tagállami ítélet alapján
 
@@ -1240,7 +1242,7 @@ vonatkozóan kezelt adatot, akivel szemben külföldi bíróság tagállami ít�
 
 (2) Ha az Európai Unió más tagállamának kijelölt központi hatósága olyan magyar állampolgárról igényel adatot, akire vonatkozóan a tagállami ítéletek nyilvántartásában is szerepel adat, a bűnügyi nyilvántartó szerv adattovábbítása e nyilvántartásban kezelt adatokra is kiterjed.
 
-(2a) A megkereső tagállam kijelölt központi hatósága részére – a 80/B. §-ban meghatározott kérelem teljesítésének kivételével – adat csak büntetőeljárás céljából adható át.
+(2a) A megkereső tagállam kijelölt központi hatósága részére – a 80/C. §-ban meghatározott kérelem teljesítésének kivételével – adat csak büntetőeljárás céljából adható át.
 
 (3) Az adattovábbítást megelőzően – ha az lehetséges – az adatok ellenőrzésével biztosítani kell, hogy azok naprakészek és pontosak legyenek. Amennyiben utóbb megállapításra került, hogy hibás vagy hiányos adatok kerültek továbbításra, erről az adatátvevőt haladéktalanul értesíteni kell.
 
@@ -1250,7 +1252,9 @@ vonatkozóan kezelt adatot, akivel szemben külföldi bíróság tagállami ít�
 
 80/A. § Ha a megkereső tagállamban vagy Magyarországon lakóhellyel rendelkező vagy korábban lakóhellyel rendelkező személy, illetve a megkereső tagállam vagy Magyarország állampolgára vagy volt állampolgára a bűnügyi nyilvántartási rendszerben kezelt, rá vonatkozó adatok kiadására irányuló kérelmet nyújt be a megkereső tagállam központi hatóságához, az ilyen megkeresésre a bűnügyi nyilvántartó szerv a kézhezvételtől számított húsz munkanapon belül továbbítja az adatokat.
 
-80/B. § (1) Ha valamely személynek gyermekekkel való közvetlen és rendszeres kapcsolattartással járó szakmai vagy szervezett önkéntes tevékenység végzésére való alkalmazása céljából, az érintett személy hozzájárulásával benyújtott kérelmet követően, az Európai Unió más tagállamának kijelölt központi hatósága a 2011/93/EU európai parlamenti és tanácsi irányelv 10. cikke alapján, az érintett személyre vonatkozóan a bűnügyi nyilvántartási rendszerben, valamint a tagállami ítéletek nyilvántartásában kezelt adatoknak az Európai Bűnügyi Nyilvántartási Információs Rendszeren keresztül történő kiadására irányuló kérelmet nyújt be a bűnügyi nyilvántartó szervhez, a bűnügyi nyilvántartó szerv a kérelem vagy a 80. § (1a) bekezdésének alkalmazásával kért tájékoztatás kézhezvételétől számított tíz munkanapon belül továbbítja
+80/B. § A 77–80/A. §-nak az Európai Unió tagállamára vonatkozó rendelkezéseit az Egyesült Királyság tekintetében is alkalmazni kell.
+
+80/C. § (1) Ha valamely személynek gyermekekkel való közvetlen és rendszeres kapcsolattartással járó szakmai vagy szervezett önkéntes tevékenység végzésére való alkalmazása céljából, az érintett személy hozzájárulásával benyújtott kérelmet követően, az Európai Unió más tagállamának kijelölt központi hatósága a 2011/93/EU európai parlamenti és tanácsi irányelv 10. cikke alapján, illetve az Egyesült Királyság kijelölt központi hatósága az egyrészről az Európai Unió és az Európai Atomenergia-közösség, és másrészről Nagy-Britannia és Észak-Írország Egyesült Királysága közötti kereskedelmi és együttműködési megállapodás (a továbbiakban: Kereskedelmi és Együttműködési Megállapodás) 649. cikke alapján az érintett személyre vonatkozóan a bűnügyi nyilvántartási rendszerben, valamint a tagállami ítéletek nyilvántartásában kezelt adatoknak az Európai Bűnügyi Nyilvántartási Információs Rendszeren keresztül történő kiadására irányuló kérelmet nyújt be a bűnügyi nyilvántartó szervhez, a bűnügyi nyilvántartó szerv a kérelem vagy a 80. § (1a) bekezdésének alkalmazásával kért tájékoztatás kézhezvételétől számított tíz munkanapon belül továbbítja
 
 - a) a 4. § (2) bekezdés a) pontjában,
 - b) a 11. § (1) bekezdés c)–e) és j)–l) pontjában,
@@ -1266,7 +1270,7 @@ meghatározott adatokat a kérelmet benyújtó központi hatóság részére.
   - ab) a 2013. június 30-ig hatályban volt üzletszerű kéjelgés elősegítése [1978. évi IV. törvény 205. § (3) bekezdés], ha a bűncselekményt 1997. szeptember 15-e előtt követték el,
   - ac) a 2013. június 30-ig hatályban volt emberkereskedelem [1978. évi IV. törvény 175/B. § (5) bekezdés c) pont], erőszakos közösülés [1978. évi IV. törvény 197. § (2) bekezdés a) pont és (3) bekezdés], szemérem elleni erőszak [1978. évi IV. törvény 198. § (2) bekezdés a) pont és (3) bekezdés], megrontás [1978. évi IV. törvény 201–202/A. §], tiltott pornográf felvétellel visszaélés [1978. évi IV. törvény 204. § (1)–(6) bekezdés], üzletszerű kéjelgés elősegítése [1978. évi IV. törvény 205. § (3) bekezdés a) pont],
   - ad) emberkereskedelem és kényszermunka [Btk. 192. § (5) bekezdés a) pont és (6) bekezdés a) pont], szexuális kényszerítés [Btk. 196. § (2) bekezdés a) pont és (3) bekezdés], szexuális erőszak [Btk. 197. § (2) bekezdés, (3) bekezdés a) pont, (4) bekezdés a) és b) pont], szexuális visszaélés [Btk. 198. §], kerítés [Btk. 200. § (2) bekezdés és (4) bekezdés a) pont], prostitúció elősegítése [Btk. 201. § (1) bekezdés c) pont és (2) bekezdés], gyermekprostitúció kihasználása [Btk. 203. §], gyermekpornográfia [Btk. 204. §], szeméremsértés [Btk. 205. § (2) bekezdés], vagy
-- b) a 2011/93/EU európai parlamenti és tanácsi irányelv 3–7. cikkében meghatározott valamely bűncselekmény magyar állampolgár általi, az Európai Unió más tagállamának bírósága jogerős ítéletében megállapított elkövetéséhez kapcsolódó, a tagállami ítéletek nyilvántartásában kezelt adatok.
+- b) a 2011/93/EU európai parlamenti és tanácsi irányelv 3–7. cikkében vagy a Kereskedelmi és Együttműködési Megállapodás 649. cikk (3) bekezdésében meghatározott valamely bűncselekmény magyar állampolgár általi, az Európai Unió más tagállamának bírósága jogerős ítéletében megállapított elkövetéséhez kapcsolódó, a tagállami ítéletek nyilvántartásában kezelt adatok.
 
 ### VII. Fejezet — ADATTOVÁBBÍTÁS A BŰNÜGYI ÉS RENDÉSZETI BIOMETRIKUS ADATOK NYILVÁNTARTÁSA ADATÁLLOMÁNYAIBÓL
 
@@ -1332,10 +1336,12 @@ továbbítja.
 
 ### Automatikus találati adathozzáférés
 
-85. § (1) A Belga Királyság, a Németországi Szövetségi Köztársaság, a Spanyol Királyság, a Francia Köztársaság, a Luxemburgi Nagyhercegség, a Holland Királyság és az Osztrák Köztársaság között a határon átnyúló együttműködés fokozásáról, különösen a terrorizmus, a határon átnyúló bűnözés és az illegális migráció leküzdése érdekében létrejött, a 2007. évi CXII. törvénnyel kihirdetett nemzetközi szerződésen, valamint az Európai Unió kötelező jogi aktusán alapuló adatigénylés teljesítése céljából a szakértői nyilvántartó szerv biztosítja az Európai Unió más tagállamának, valamint az Európai Unió kötelező jogi aktusában meghatározott más állam (a továbbiakban együtt: együttműködő tagállam) kijelölt nemzeti kapcsolattartó pontja részére
+85. § (1) Az Európai Unió kötelező jogi aktusán, törvénnyel kihirdetett nemzetközi szerződésen vagy a Kereskedelmi és Együttműködési Megállapodáson alapuló adatigénylés teljesítése céljából a szakértői nyilvántartó szerv biztosítja az Európai Unió más tagállamának, illetve az Európai Unió kötelező jogi aktusában vagy a nemzetközi szerződésben meghatározott más állam (a továbbiakban együtt: együttműködő tagállam) kijelölt nemzeti kapcsolattartó pontja részére
 
 - a) bűnmegelőzés és büntetőeljárás lefolytatása céljából az ujj- és tenyérnyomat, valamint
-- b) büntetőeljárás lefolytatása céljából a DNS-profil elektronikus úton történő összehasonlítását a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt adatokkal.
+- b) büntetőeljárás lefolytatása céljából a DNS-profil
+
+elektronikus úton történő összehasonlítását a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt adatokkal.
 
 (2) Ha az (1) bekezdés alapján végzett összehasonlítás eredményeként megállapítható, hogy a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt ujj- és tenyérnyomat vagy DNS-profil megegyezik az összehasonlítás alapjául szolgáló ujj- és tenyérnyomattal vagy DNS-profillal, a szakértői nyilvántartó szerv az együttműködő tagállam nemzeti kapcsolattartó pontja részére ennek tényét, valamint az ujj- és tenyérnyomathoz vagy DNS-profilhoz kapcsolódó szakrendszeri azonosító kódot automatikusan megküldi.
 
@@ -1396,6 +1402,8 @@ automatikus találati adathozzáférés útján összehasonlítja az együttműk
 
 (4) Ha az Amerikai Egyesült Államok hatáskörrel rendelkező szerve a szakrendszeri azonosító kódhoz tartozó, a 4. § (2) bekezdés a) pontjában foglalt adatok birtokában a bűnügyi jogsegély vagy a bűnüldöző szervek nemzetközi együttműködése keretében további, a bűnügyi nyilvántartási rendszerben kezelt adatok továbbítását kéri, a Nemzetközi Bűnügyi Együttműködési Központ, az ügyészség vagy a bíróság közvetlen hozzáféréssel átveszi a bűnügyi nyilvántartási rendszerből azokat a személyes adatokat, amelyeket az együttműködő tagállam a kérelmében kifejezetten megjelölt.
 
+86/E. § E fejezetnek az Európai Unió tagállamára vonatkozó rendelkezéseit az Egyesült Királyság tekintetében is alkalmazni kell.
+
 ### IX. Fejezet — ADATVÉDELMI SZABÁLYOK
 
 ### Az érintett tájékoztatása
@@ -1441,7 +1449,7 @@ automatikus találati adathozzáférés útján összehasonlítja az együttműk
 - d) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv, továbbá
 - e) külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból a nemzetbiztonsági szolgálatok.
 
-(2) Az Európai Unió más tagállama számára a tagállami ítéletek nyilvántartásából történő adattovábbításról az (1) bekezdés a)–c) pontja szerinti szervek igényelhetnek adatot.
+(2) Az Európai Unió más tagállama vagy az Egyesült Királyság számára a tagállami ítéletek nyilvántartásából történő adattovábbításról az (1) bekezdés a)–c) pontja szerinti szervek igényelhetnek adatot.
 
 91/A. § (1) A szakértői nyilvántartó szerv a 85. § alapján teljesített automatikus találati adathozzáférésről az adathozzáférés jogszerűségének ellenőrzése céljából nyilvántartást vezet. A nyilvántartás tartalmazza:
 
@@ -1543,15 +1551,18 @@ rendeletben állapítsa meg.
 
 ### Az Európai Unió jogának való megfelelés
 
-98. § E törvény a következő uniós jogi aktusok végrehajtását szolgálja:
+98. § (1) Ez a törvény
 
-- a) a Tanács 2008/977/IB kerethatározata a büntetőügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről,
-- b) a Tanács 2009/315/IB kerethatározata a bűnügyi nyilvántartásból származó információk tagállamok közötti cseréjének megszervezéséről és azok tartalmáról,
-- c) az Európai Parlament és a Tanács 95/46/EK irányelve a személyes adatok feldolgozása vonatkozásában az egyének védelméről és az ilyen adatok szabad áramlásáról.
-- d) a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló, 2008. június 23-i 2008/615/IB tanácsi határozat 2–11. cikkei, valamint a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB határozat végrehajtásáról szóló, 2008. június 23-i 2008/616/IB tanácsi határozat 2–14. cikkei,
-- e) az egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat, valamint a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és a megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról szóló tanácsi határozat (2009. szeptember 21.),
-- f) a Tanács 2008/675/IB kerethatározata az Európai Unió más tagállamaiban hozott ítéleteknek egy új büntetőeljárásban való figyelembevételéről,
-- g) a gyermekek szexuális bántalmazása, szexuális kizsákmányolása és a gyermekpornográfia elleni küzdelemről, valamint a 2004/68/IB tanácsi kerethatározat felváltásáról szóló, 2011. december 13-i 2011/93/EU európai parlamenti és tanácsi irányelv 10. cikk (3) bekezdése.
+- a) a bűnügyi nyilvántartásból származó információk tagállamok közötti cseréjének megszervezéséről és azok tartalmáról szóló 2009. február 26-i 2009/315/IB tanácsi kerethatározatnak,
+- b) a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008. június 23-i 2008/615/IB tanácsi határozat 2–11. cikkének,
+- c) a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB határozat végrehajtásáról szóló 2008. június 23-i 2008/616/IB tanácsi határozat 2–14. cikkének,
+- d) az egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat, valamint a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB határozat végrehajtásáról szóló 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és e megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról szóló 2009. szeptember 21-i 2009/1023/IB tanácsi határozatnak,
+- e) az Európai Unió más tagállamaiban hozott ítéleteknek egy új büntetőeljárásban való figyelembevételéről szóló 2008. július 24-i 2008/675/IB tanácsi kerethatározatnak,
+- f) a gyermekek szexuális bántalmazása, szexuális kizsákmányolása és a gyermekpornográfia elleni küzdelemről, valamint a 2004/68/IB tanácsi kerethatározat felváltásáról szóló 2011. december 13-i 2011/93/EU európai parlamenti és tanácsi irányelv 10. cikk (3) bekezdésének
+
+való megfelelést szolgálja.
+
+(2) Ez a törvény az egyrészről az Európai Unió és az Európai Atomenergia-közösség, és másrészről Nagy-Britannia és Észak-Írország Egyesült Királysága közötti kereskedelmi és együttműködési megállapodás Harmadik Része végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Átmeneti rendelkezések
 
@@ -1562,6 +1573,8 @@ rendeletben állapítsa meg.
 100. § Ha a bűnügyi nyilvántartó szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig a bűnügyi nyilvántartó szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 100/A. § E törvénynek az európai uniós és a nemzetközi bűnügyi együttműködést szabályozó törvények, és ehhez kapcsolódóan más törvények jogharmonizációs célú módosításáról szóló 2017. évi XXXIX. törvénnyel (a továbbiakban: Módtv1.) megállapított 68/A. §-át, 71. § (1) bekezdését, 73. § (2) bekezdését, 76/A–76/C. §-át és 76/E. §-át a Módtv1. hatálybalépését követően kezdeményezett közvetlen hozzáféréssel történő adatátvétel és adatigénylés esetén, illetve a Módtv1. hatálybalépését követően indult hatósági erkölcsi bizonyítvány kiállítása iránti eljárásban kell alkalmazni.
+
+100/B. § E törvénynek az egyes törvényeknek a kézbesítéssel és az igazságügyi ágazati szabályozással összefüggő módosításáról szóló 2021. évi LI. törvénnyel megállapított rendelkezéseit a 2020. december 31-ét követően indult eljárásokban is alkalmazni kell.
 
 ### Módosuló jogszabályok
 

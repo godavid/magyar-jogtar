@@ -47,7 +47,7 @@ Az Erzsébet-táborok a magyarság- és honismeretet, a sport, a tudomány és a
 4. § (1) Az Alapítvány és a táborszervező az Erzsébet-táborok megszervezése, működtetése, valamint a táborozók egészségének védelmét és biztonságát szolgáló táboroztatás megvalósítása céljából kezeli
 
 - a) a táborozó
-  - aa) természetes személyazonosító adatait, társadalombiztosítási azonosító jelét, személyi azonosítóját,
+  - aa) természetes személyazonosító adatait, társadalombiztosítási azonosító jelét, valamint társadalombiztosítási azonosító jele vagy természetes személyazonosító adatai alapján álnevesítéssel kialakított belső azonosítóját,
   - ab) a táborozási szolgáltatás általa történő igénybevételét befolyásolni tudó egészségi állapotára – így különösen betegségére, fogyatékosságára, tünetére, panaszára, allergiájára, érzékenységére, sajátos nevelési igényére – vonatkozó adatokat,
   - ac) és – kiskorú esetén – a családja szociális, jövedelmi és vagyoni helyzetére vonatkozó adatokat (hátrányos helyzet, halmozottan hátrányos helyzet, rendszeres gyermekvédelmi kedvezményre való jogosultság),
   - ad) elérhetőségére vonatkozó adatokat (lakcím, telefonszám, e-mail-cím),

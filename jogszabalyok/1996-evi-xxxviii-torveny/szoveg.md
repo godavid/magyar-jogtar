@@ -433,7 +433,7 @@ KÜLFÖLDI ÍTÉLET ELISMERÉSE
 
 47. § (1) A külföldi ítélet a magyar bíróság ítéletével azonos érvényű, ha a külföldi ítéletet magyar bíróság e törvény alapján elismerte. El nem ismert külföldi ítélet a büntetőeljárásban nem vehető figyelembe.
 
-(2) E cím rendelkezéseit az Európai Unió tagállamának bírósága által hozott ítéletre nem lehet alkalmazni.
+(2) E cím rendelkezéseit az Európai Unió tagállamának bírósága és a Nagy-Britannia és Észak-Írország Egyesült Királyságának (a továbbiakban: Egyesült Királyság) bírósága által hozott ítéletre nem lehet alkalmazni.
 
 (3) A külföldi ítélet akkor ismerhető el, ha az elkövetővel szemben külföldön folyamatban volt eljárás, valamint a kiszabott büntetés, illetve az alkalmazott intézkedés nem ellentétes a magyar jogrendszer alapelveivel.
 
@@ -481,12 +481,12 @@ KÜLFÖLDI BÍRÓSÁG ÁLTAL KISZABOTT SZABADSÁGVESZTÉS VÉGREHAJTÁSÁNAK ÁT
 
 50. § Nem vehető át a végrehajtás, ha a külföldi elítélés alapjául szolgáló cselekményt magyar bíróság már jogerősen elbírálta.
 
-51. § (1) A bíróság a külföldi ítéletet – ha a külföldi ítélet elismerésére vonatkozó eljárásban a szabadságvesztés végrehajtásának átvételére vonatkozó kérelem már ismert, akkor azzal egyidejűleg – megvizsgálja, és ügydöntő végzést hoz arról, hogy a büntetés végrehajtása átvételének e törvény szerinti feltételei fennállnak-e. A bíróság az ügydöntő végzését az ügyiratokkal együtt megküldi a miniszternek.
+51. § (1) A bíróság a külföldi ítéletet – ha a külföldi ítélet elismerésére, az Egyesült Királyság esetében a megfeleltetésre vonatkozó eljárásban a szabadságvesztés végrehajtásának átvételére vonatkozó kérelem már ismert, akkor azzal egyidejűleg – megvizsgálja, és ügydöntő végzést hoz arról, hogy a büntetés végrehajtása átvételének e törvény szerinti feltételei fennállnak-e. A bíróság az ügydöntő végzését az ügyiratokkal együtt megküldi a miniszternek.
 
-(2) Ha a külföldi ítélet elismeréséről a bíróság korábban jogerős ügydöntő végzést hozott, az abban foglalt döntéshez a szabadságvesztés végrehajtásának átvételére irányuló eljárásban a bíróság kötve van. Ez a szabály nem alkalmazható, ha
+(2) Ha a külföldi ítélet elismeréséről vagy az Egyesült Királyság esetében a megfeleltetéséről a bíróság korábban jogerős ügydöntő végzést hozott, az abban foglalt döntéshez a szabadságvesztés végrehajtásának átvételére irányuló eljárásban a bíróság kötve van. Ez a szabály nem alkalmazható, ha
 
-- a) a külföldi ítélet elismerését azért tagadták meg, mert az elismeréshez szükséges adatok nem álltak a bíróság rendelkezésére, és a hiányzó adatok a szabadságvesztés végrehajtásának átvételére irányuló eljárásban beszerezhetők, vagy
-- b) a szabadságvesztés végrehajtásának átvételéhez a külföldi ítélet olyan rendelkezésének elismerése szükséges, amelyről az elismerésről hozott korábbi ügydöntő végzés nem, vagy nem a törvénynek megfelelően rendelkezett.
+- a) a külföldi ítélet elismerését, vagy az Egyesült Királyság esetében a megfeleltetését azért tagadták meg, mert az elismeréshez vagy a megfeleltetéshez szükséges adatok nem álltak a bíróság rendelkezésére, és a hiányzó adatok a szabadságvesztés végrehajtásának átvételére irányuló eljárásban beszerezhetőek, vagy
+- b) a szabadságvesztés végrehajtásának átvételéhez a külföldi ítélet olyan rendelkezésének elismerése vagy megfeleltetése szükséges, amelyről az elismerésről vagy megfeleltetésről hozott korábbi ügydöntő végzés nem rendelkezett, vagy nem a törvénynek megfelelően rendelkezett.
 
 (3) A bíróság a 49. § (1) és (2) bekezdése esetén az ügyiratok alapján dönt, a 49. § (3) bekezdése esetén ülést tart, amelyen az ügyész, a terhelt és – ha a Be. alapján védő részvétele kötelező – a védő jelenléte kötelező.
 
@@ -562,7 +562,7 @@ A VAGYONELKOBZÁS VAGY AZ ELKOBZÁS VÉGREHAJTÁSÁNAK ÁTVÉTELE
 
 60/B. § Külföldi bíróság által kiszabott végrehajtható vagyonelkobzás vagy elkobzás végrehajtását nemzetközi szerződés alapján, erre vonatkozó megkeresés esetén át lehet venni.
 
-60/C. § (1) A bíróság e törvény vonatkozó rendelkezései, valamint a nemzetközi szerződések alapján megvizsgálja, hogy a vagyonelkobzás vagy az elkobzás végrehajtásának átadása iránti megkeresés teljesítésének feltételei fennállnak-e, és ennek alapján rendelkezik a külföldi bíróság vagyonelkobzásra vagy elkobzásra vonatkozó határozatának elismeréséről és a végrehajtás átvételéről.
+60/C. § (1) A bíróság e törvény vonatkozó rendelkezései, valamint a nemzetközi szerződések alapján megvizsgálja, hogy a vagyonelkobzás vagy az elkobzás végrehajtásának átadása iránti megkeresés teljesítésének feltételei fennállnak-e, és ennek alapján rendelkezik a külföldi bíróság vagyonelkobzásra vagy elkobzásra vonatkozó határozatának elismeréséről és a végrehajtás átvételéről, az Egyesült Királyság esetében a megfeleltetésről és a végrehajtás átvételéről.
 
 (2) A bíróság a jogerős ügydöntő végzést a külföldi bíróság értesítése végett megküldi a miniszternek. A végzésről a miniszter értesíti a megkereső külföldi államot.
 
@@ -724,6 +724,16 @@ Nemzetközi szerződés vagy viszonosság alapján teljesített eljárási jogse
 (2) A megkereső államtól a tanú megjelenésével, valamint a szakértő kirendelésével kapcsolatos bűnügyi költség megtérítése kérhető.
 
 (3) Ha az eljárási jogsegély iránti megkeresés teljesítése jelentős költséggel jár, a magyar igazságügyi hatóság a költségek előrelátható összegéről tájékoztatja a megkereső igazságügyi hatóságot, és a megkeresés teljesítésének feltételéül szabhatja, hogy a megkereső igazságügyi hatóság a költségeket részben vagy egészben előlegezze vagy térítse meg. A megkeresés teljesítésével kapcsolatos költségek előlegezéséről vagy megtérítéséről a magyar igazságügyi hatóság egyeztetést kezdeményez.
+
+62/M. § (1) Az eljárási jogsegély iránti megkeresés végrehajtásának teljesítése során elrendelt vagyont érintő kényszerintézkedés fenntartásának indokoltságával kapcsolatban a magyar igazságügyi hatóság észszerű határidő tűzésével tájékoztatást kér a megkereső igazságügyi hatóságtól, ha
+
+- a) a vagyont érintő kényszerintézkedés elrendelése vagy a legutóbbi tájékoztatás óta egy év eltelt,
+- b) a lefoglalással vagy a zár alá vétellel érintett dolog vagy vagyontárgy jellege, állapota, tárolási körülményei alapján az indokolt,
+- c) a vagyoni érdekelt indítványozza,
+
+és ezzel egyidejűleg tájékoztatja a megkereső igazságügyi hatóságot a (2) bekezdésben foglaltakról.
+
+(2) Ha a megkereső igazságügyi hatóság az (1) bekezdés szerint meghatározott határidőn belül nem nyújt tájékoztatást a kényszerintézkedés fenntartásának indokoltságáról, a magyar igazságügyi hatóság megszünteti a lefoglalást és a lefoglalt dolgot kiadja annak, akitől lefoglalták, a zár alá vételt feloldja, vagy megszünteti az elektronikus adat ideiglenes hozzáférhetetlenné tételét és az ideiglenesen eltávolított elektronikus adat visszaállítását rendeli el.
 
 ### 3. Cím
 
@@ -1217,7 +1227,7 @@ is előterjesztheti.
 - b) a kirendelt védő díja és költsége,
 - c) a Magyarországról történő kiadatás esetén a kiadatási eljárás során felmerült költség,
 - d) a személyek szállításával, átszállításával kapcsolatos költség, ha az érintett Magyarországra vagy Magyarországról történő szállítására, továbbá Magyarország vagy más állam területén történő átszállítására Magyarország által kezdeményezett jogsegélykérelem teljesítésével összefüggésben került sor, és
-- e) a külföldi ítélet elismerése, valamint külföldi bíróság által kiszabott szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtásának átvétele esetén a külföldi hatóság által megküldött idegen nyelvű iratok magyar nyelvre történő fordításának költsége.
+- e) a külföldi ítélet elismerése, az Egyesült Királyság esetében a megfeleltetése, valamint külföldi bíróság által kiszabott szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtásának átvétele esetén a külföldi hatóság által megküldött idegen nyelvű iratok magyar nyelvre történő fordításának költsége.
 
 (3) A végrehajtási jogsegély teljesítésével kapcsolatos egyéb költségek Magyarországot terhelik, feltéve, hogy a viszonosság e tekintetben is biztosított.
 
@@ -1244,3 +1254,5 @@ Az Európai Unió jogának való megfelelés
 - c) 48. és 54. §-a a kölcsönös elismerés elvének büntetőügyekben hozott, szabadságvesztés büntetéseket kiszabó vagy szabadságelvonással járó intézkedéseket alkalmazó ítéleteknek az Európai Unióban való végrehajtása céljából történő alkalmazásáról szóló, 2008. november 27-i 2008/909/IB tanácsi kerethatározat 8. cikk (3) és (4) bekezdésének, valamint 17. cikk (2) bekezdésének
 
 való megfelelést szolgálja.
+
+86. § Ez a törvény az egyrészről az Európai Unió és az Európai Atomenergia-közösség, és másrészről Nagy-Britannia és Észak-Írország Egyesült Királysága közötti kereskedelmi és együttműködési megállapodás Harmadik Része végrehajtásához szükséges rendelkezéseket állapít meg.

@@ -20,29 +20,37 @@ A Miskolci Egyetem képzési területeinek, ezen keresztül az innovációt tám
 
 3. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdésében és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdésében foglaltak alapján, a preambulumban meghatározott célok megvalósítása érdekében, az alapító okirat szerint a Miskolci Egyetem (a továbbiakban: Egyetem) – nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 4. § (2) bekezdésében meghatározott – fenntartói jogát – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérve – alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni.
 
-(2) Az (1) bekezdés alapján ingyenesen juttatott vagyonelem tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdés b) pontjában, valamint (7) és (8) bekezdésében foglaltakat.
+(2) Az (1) bekezdés alapján ingyenesen juttatott vagyonelem tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdés b) pontjában, továbbá a (7) és (8) bekezdésében foglaltakat.
 
 (3)
 
-3/A. § Az Egyetem által használt, Miskolc belterület 40589/5 helyrajzi számú, nem állami tulajdonban lévő ingatlan tekintetében az Egyetem által ellátott közfeladat hatékony megvalósítása érdekében az államot – független ingatlanforgalmi szakértő szakvéleménye alapján meghatározott forgalmi értéken – vételi jog illeti meg.
+3/A. § (1) Az Egyetem által használni kívánt, Miskolc belterület 40589/5 helyrajzi számú, nem állami tulajdonban lévő ingatlan tekintetében az Egyetem által ellátott közfeladat hatékony megvalósítása érdekében az államot – független ingatlanforgalmi szakértő szakvéleménye alapján meghatározott forgalmi értéken – vételi jog illeti meg.
 
-(2) Az (1) bekezdésben meghatározott vételi jog biztosítására az államot elidegenítési és terhelési tilalom illeti meg.
+(2) Ha az állam él a vételi joggal, az állam tulajdonába került (1) bekezdés szerinti ingatlant az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján az Alapítvány céljainak megvalósítása érdekében ingyenesen, nyilvántartási értéken történő átvezetéssel – a Vtv. 36. § (2) bekezdésétől eltérően – az Alapítvány tulajdonába kell adni.
 
-(3) Ha az állam él a vételi joggal, az állam tulajdonába került (1) bekezdés szerinti ingatlant az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján az Alapítvány céljainak megvalósítása érdekében ingyenesen, nyilvántartási értéken történő átvezetéssel – a Vtv. 36. § (2) bekezdésétől eltérően – az Alapítvány tulajdonába kell adni.
+3/B. § (1) A 3/A. § (1) bekezdésében meghatározott vételi jog biztosítására az államot elidegenítési és terhelési tilalom illeti meg.
 
-(4) Az (1) és (3) bekezdésben meghatározott intézkedések során az állam képviseletében a miniszter jár el.
+(2) A 3/A. § (1) és (2) bekezdésében meghatározott intézkedések során az állam képviseletében a miniszter jár el.
 
-(5) Az ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság köti meg az Alapítvánnyal.
+(3) A 3/A. § (1) bekezdése szerinti ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság köti meg az Alapítvánnyal.
 
-3/B. § Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) 12. §-a alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, Miskolc 01223 helyrajzi számú állami tulajdonban lévő ingatlan ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kerül.
+3/C. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) 12. §-a alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, Miskolc 01223 helyrajzi számú állami tulajdonban lévő ingatlan ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kerül.
 
-(2) Az ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló szervezet készíti elő és köti meg az Alapítvánnyal.
+(2) Az (1) bekezdés szerinti ingatlan tulajdonjogát az Alapítvány a terhekkel együtt szerzi meg.
 
-(3) Az ingatlan tulajdonjogát az Alapítvány a terhekkel együtt szerzi meg.
+3/D. § A 3/C. § (1) bekezdése szerinti ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló szervezet készíti elő és köti meg az Alapítvánnyal.
+
+3/E. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján – a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátása és közérdekű céljai megvalósítása érdekében – az ÓAM Ózdi Acélművek Korlátolt Felelősségű Társaság állam tulajdonában álló, 2. melléklet szerinti társasági részesedését ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni. Az Alapítvány első alkalommal a 2021. év után járó osztalékra jogosult.
+
+(2) Az (1) bekezdés szerinti társasági részesedés elidegenítéséből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátására és közérdekű célok megvalósítására köteles fordítani.
+
+(3) Az Alapítvány jogutód nélküli megszűnése esetén az (1) bekezdés szerinti társasági részesedés tulajdonjoga az államra száll vissza.
+
+3/F. § A 3/E. § (1) bekezdésében meghatározott intézkedések végrehajtása során az állam képviseletében a miniszter jár el, aki 2021. augusztus 1. napjától a társasági részesedés felett a tulajdonosi jogokat gyakorolja.
 
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
-4. § (1) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló, az 1. mellékletben felsorolt egyes állami tulajdonban lévő ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerülnek.
+4. § (1) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló, az 1. mellékletben meghatározott egyes állami tulajdonban lévő ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerülnek.
 
 (2) Az e törvény szerinti vagyonjuttatás során az 1. mellékletben szereplő Natura 2000 területként nyilvántartott ingatlan esetében nem kell alkalmazni az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet 25. § (5) bekezdését.
 
@@ -76,7 +84,7 @@ A Miskolci Egyetem képzési területeinek, ezen keresztül az innovációt tám
 
 9. §
 
-10. § A 3/A. § (1) és (3) bekezdése, a 3/B. § (1) és (3) bekezdése és az 5. § (2) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+10. § A 3/A. §, a 3/C. §, a 3/E. §, az 5. § (2) bekezdése, valamint a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2020. évi XXXIX. törvényhez
 
@@ -117,3 +125,12 @@ A Miskolci Egyetem képzési területeinek, ezen keresztül az innovációt tám
 | 31. | Miskolc | 40597/16 | kivett saját használatú út |
 | 32. | Miskolc | 40597/19 | kivett sporttelep |
 | 33. | Siófok | 7017 | kivett üdülőépület, egyéb épület, udvar |
+
+### 2. melléklet a 2020. évi XXXIX. törvényhez
+
+#### Az Alapítvány részére átadásra kerülő állami tulajdonú társasági részesedés
+
+|  | A | B |
+| --- | --- | --- |
+| 1 | Gazdasági társaság megnevezése | Átadandó állami tulajdonban álló részesedés megjelölése |
+| 2 | ÓAM Ózdi Acélművek Korlátolt Felelősségű Társaság | 20% |

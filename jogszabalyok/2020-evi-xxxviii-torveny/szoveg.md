@@ -20,13 +20,13 @@ A gazdaság- és társadalomtudományi képzési terület, ezen keresztül az in
 
 3. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdésében és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdésében foglaltak alapján, a preambulumban meghatározott célok megvalósítása érdekében, az alapító okirat szerint a Széchenyi István Egyetem (a továbbiakban: Egyetem) – nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 4. § (2) bekezdésében meghatározott – fenntartói jogát – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérve – alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni.
 
-(2) Az (1) bekezdés szerint alapítói vagyoni juttatásként az Alapítvány tulajdonába adott vagyon tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdés b) pontjában, valamint (7) és (8) bekezdésében foglaltakat.
+(2) Az (1) bekezdés szerint alapítói vagyoni juttatásként az Alapítvány tulajdonába adott vagyon tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdés b) pontjában, továbbá a (7) és (8) bekezdésében foglaltakat.
 
 (3)
 
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
-4. § (1) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló, az 1. mellékletben felsorolt egyes állami tulajdonban lévő ingatlan, ingatlan tulajdoni hányada ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerül.
+4. § (1) Az Nvtv. 13. § (3) bekezdésében valamint a Vtv. 36. § (1) bekezdésében foglaltak alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló, az 1. mellékletben felsorolt egyes állami tulajdonban lévő ingatlan, ingatlan tulajdoni hányada ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerül.
 
 (2) Az e törvény szerinti vagyonjuttatás során az 1. mellékletben szereplő védett ingatlanok esetében nem kell alkalmazni a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 44. § (1) bekezdés a) pontját és (4) bekezdését, valamint az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet 25. § (5) bekezdését.
 

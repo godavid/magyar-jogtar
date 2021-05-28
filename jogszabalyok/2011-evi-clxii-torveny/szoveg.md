@@ -118,7 +118,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 - c) a 24. § (3) bekezdésében,
 - d) a 34. § (2) bekezdésében,
 - e) az 58. § (3) és (4) bekezdésében,
-- f) a 62. § (3) bekezdésében,
+- f) a 62/C. § (3) bekezdésében,
 - g) a 64. § (2) bekezdésében, valamint
 - h) a 97. § (3) bekezdésében
 
@@ -1194,7 +1194,7 @@ nincs helye fegyelmi felelősségre vonásnak.
 126. § (1) A bíró a fegyelmi büntetés jogerős kiszabása után
 
 - a) megrovás esetén egy évig,
-- b) egy fizetési fokozattal való visszavetés, illetve a vezetői tisztségből való felmentés esetén két évig,
+- b) egy fizetési fokozattal való visszavetés, két fizetési fokozattal való visszavetés, illetve a vezetői tisztségből való felmentés esetén két évig,
 - c) a bírói tisztségből való felmentés indítványozása esetén 3 évig
 
 áll a fegyelmi büntetés hatálya alatt.
@@ -2149,6 +2149,8 @@ kerülhet sor.
 
 232/R. § Az érintett szervhez történő beosztásra vonatkozó szabályoknak az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi CLXV. törvénnyel módosított rendelkezései az igazságügyért felelős minisztériumba beosztott bíró jogállását nem érintik, 2021. január 1-jétől az igazságügyért felelős minisztériumba beosztott bíró beosztása a beosztásról szóló határozatban foglaltak szerint az érintett szervhez történő beosztásnak tekintendő.
 
+232/S. § Az egyes törvényeknek a kézbesítéssel és az igazságügyi ágazati szabályozással összefüggő módosításáról szóló 2021. évi LI. törvénnyel megállapított 126. § (1) bekezdés b) pontját az e rendelkezés hatálybalépését megelőzően kiszabott, két fizetési fokozattal visszavetés fegyelmi büntetés alóli mentesítésre is alkalmazni kell, ha a mentesítésre korábban nem került sor.
+
 233. § E törvény
 
 - a) az UNICE, a CEEP és az ESZSZ által a szülői szabadságról kötött keretmegállapodásról szóló, 1996. június 3-i 96/34/EK tanácsi irányelvnek,
@@ -2169,7 +2171,7 @@ való megfelelést szolgálja.
 
 (4)
 
-237. § (1) E törvény 1–4. alcíme, III. Fejezete, 19–22. alcíme, 25–30. alcíme, V–X. Fejezete, XII. Fejezete, XIII. Fejezete, 223. §-a, 224. §-a, 232/L–232/R. §-a, továbbá 236. §-a az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+237. § (1) E törvény 1–4. alcíme, III. Fejezete, 19–22. alcíme, 25–30. alcíme, V–X. Fejezete, XII. Fejezete, XIII. Fejezete, 223. §-a, 224. §-a, 232/L–232/S. §-a, továbbá 236. §-a az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Bjt.
 

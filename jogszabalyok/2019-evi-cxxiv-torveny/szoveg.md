@@ -64,7 +64,8 @@ Magyarország felelősséget vállal a nemzeti kultúra megőrzéséért és a n
 (3) A Tanács elnökén túl a Tanács tagjai
 
 - a) a Magyar Művészeti Akadémia elnöke,
-- b) a kultúrstratégiai intézmények vezetői.
+- b) a kultúrstratégiai intézmények vezetői,
+- c) a Nemzeti Kulturális Alap alelnöke.
 
 6. § (1) A Tanács
 

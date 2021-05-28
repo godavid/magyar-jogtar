@@ -2215,6 +2215,8 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 
 (2) A bíróság ügydöntő határozata ellen felülvizsgálatnak nincs helye.
 
+(3) A VIII. Fejezet tagállamra vonatkozó rendelkezéseit Nagy-Britannia és Észak-Írország Egyesült Királysága (a továbbiakban: Egyesült Királyság) tekintetében is alkalmazni kell.
+
 ### VIII. Fejezet — TAGÁLLAMI ÍTÉLET ÉRVÉNYE
 
 #### 45. Figyelembevétel
@@ -3577,6 +3579,8 @@ rendelkezik hatáskörrel és illetékességgel.
 
 (5) E törvénynek a 140/D. § (2a) bekezdése szerinti, a pénzbüntetés meg nem fizetése esetén alkalmazandó végrehajtásra vonatkozó szabályait a 2019. december 31. napját követően elrendelt végrehajtások esetén kell alkalmazni. A 2020. január 1. napját megelőzően megindult végrehajtás esetén a pénzbüntetés adók módjára behajtandó köztartozásnak minősül, amelynek behajtása az állami adó- és vámhatóság feladata.
 
+178/B. § E törvény VIII. Fejezetét az Egyesült Királyság tekintetében 2020. december 31-ét követően indult eljárásokban is alkalmazni kell.
+
 #### 67. Az Európai Unió jogának való megfelelés
 
 179. § Ez a törvény
@@ -3612,6 +3616,8 @@ való megfelelést szolgálja.
 179/A. § Ez a törvény a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (Europol), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló, 2016. május 11-i (EU) 2016/794 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 179/B. § Ez a törvény a befagyasztást és az elkobzást elrendelő határozatok kölcsönös elismeréséről szóló, 2018. november 14-i (EU) 2018/1805 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+179/C. § E törvény VIII. Fejezete az egyrészről az Európai Unió és az Európai Atomenergia-közösség, és másrészről Nagy-Britannia és Észak-Írország Egyesült Királysága közötti kereskedelmi és együttműködési megállapodás Harmadik Része végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 68. Módosító rendelkezések
 

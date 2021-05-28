@@ -292,7 +292,7 @@ továbbítható.
 
 (13) Az Országos pedagógiai-szakmai ellenőrzési nyilvántartásból személyes adat – az érintetten kívül – az országos pedagógiai-szakmai ellenőrzések lefolytatása céljából, az alkalmazott intézményvezetőjének, munkáltatójának, az érintettet foglalkoztató köznevelési intézmény fenntartójának, valamint az ellenőrzést végző szakértők számára továbbítható.
 
-(14) A Pedagógusminősítési nyilvántartásból személyes adat – a minősítő vizsgán, a minősítési eljárásban érintett pedagóguson kívül – a minősítő vizsga, minősítési eljárás lefolytatása céljából, az alkalmazott intézményvezetőjének, munkáltatójának, az érintettet foglalkoztató köznevelési intézmény fenntartójának, valamint az ellenőrzést végző szakértők számára továbbítható.
+(14) Az oktatási nyilvántartás működéséért felelős szerv a pedagógusminősítési nyilvántartásból személyes adatot szolgáltat – a minősítővizsgán, a minősítési eljárásban érintett pedagóguson kívül – a minősítővizsga, minősítési eljárás lefolytatása, a minősítővizsgán, minősítési eljáráson elért eredményről való tájékoztatás céljából, az alkalmazott intézményvezetőjének, munkáltatójának, az érintettet foglalkoztató köznevelési intézmény fenntartójának, a köznevelési intézmény finanszírozását ellenőrző szervnek, valamint a minősítővizsgán, minősítési eljárásban érintett szakértőknek.
 
 (15) A személyes adatokat A pedagógiai szakszolgálatok által alkalmazott integrált nyomon követő rendszerből (a továbbiakban: INYR) az adatkezelő a pedagógiai szakszolgálati intézmény ellátásának utolsó igénybevételétől számított húsz év elteltével törli a nyilvántartásból.
 
@@ -382,6 +382,12 @@ továbbíthatóak a Diákhitel Központnak.
 
 (35) A (30)–(34) bekezdés szerinti adatok átadásának rendjét az oktatási nyilvántartás működéséért felelős szerv és a nyugdíjbiztosítási igazgatási szerv együttműködési megállapodásban határozza meg.
 
+(36) Az oktatási nyilvántartás működéséért felelős szerv az alkalmazotti nyilvántartásból személyes adatot szolgáltat a Nemzeti Pedagógus Karban folytatott választás érvényességének biztosítása céljából a szavazás időpontjában fennálló pedagógus-jogviszony tényéről a Nemzeti Pedagógus Kar számára.
+
+(37) A Kormány vagy az egyes miniszterek által megkötött megállapodások keretében elérhető kedvezmény igénybevételére történő jogosultság érvényességének megerősítése céljából az oktatási nyilvántartás működéséért felelős szerv a 2. § e) pontja szerinti, a születési időre vonatkozó, valamint az 2. § l) pontja szerinti, oktatási azonosító számára vonatkozó megerősítő adatokat továbbítja jogosultság ellenőrzését végző program és az igénylőfelület működtetését végző szervnek.
+
+(38) Az oktatási nyilvántartás működéséért felelős szerv az oktatási nyilvántartás 3/C. §, 4. § (2) bekezdés a–b) pontja, 4. § (3) bekezdés b) és d) pontja szerinti szakrendszerből személyes adatot továbbít a Nemzeti Köznevelési Portál és a Tankönyvkatalógus működtetéséért felelős szerv részére a tanulók, hallgatók, pedagógusok és oktatók köznevelési és felsőoktatási intézménnyel fennálló aktív jogviszonyának tényére vonatkozóan az ezen portálok szerzői jog által védett tartalmainak jogszerű igénybevétele céljából.
+
 #### 5. Záró rendelkezések
 
 8. § (1) Felhatalmazást kap a Kormány, hogy az oktatási nyilvántartás működéséért felelős szervet rendeletben kijelölje.
@@ -441,7 +447,7 @@ i)
 
 - 1. Az I. és II. részben felsorolt adatok statisztikai célra felhasználhatók és azokat statisztikai felhasználás céljára a hivatalos statisztikai szolgálat – a Központi Statisztikai Hivatal – számára a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – az I. rész b) és j) pontjában felsorolt adatok kivételével – egyedi azonosításra alkalmas módon, térítésmentesen át kell adni.
 - 2. A Központi Statisztikai Hivatal részére történő adatátadás esetén az átvett adatok körét és az adatátvétel részletszabályait az Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni. I. Tanulói nyilvántartás A tanulói nyilvántartás a gyermek, tanuló alábbi személyes adatait tartalmazza:
-  - a) oktatási azonosító számát, adóazonosító jelét, társadalombiztosítási azonosító jelét,
+  - a) oktatási azonosító számát, társadalombiztosítási azonosító jelét,
   - b) sajátos nevelési igénye, beilleszkedési, tanulási és magatartási nehézsége tényét, hátrányos és halmozottan hátrányos helyzetének tényét és hatályát,
   - c) jogviszonyával kapcsolatban azt, hogy egyéni munkarenddel rendelkezik-e, tanköteles-e, jogviszonya szünetelésének kezdetét és befejezésének idejét,
   - d) jogviszonya keletkezésének, megszűnésének jogcímét és idejét, valamint megszűnés esetén annak tényét, hogy az érintett az adott köznevelési intézményben szerzett-e iskolai végzettséget, szakképesítést,
@@ -456,7 +462,7 @@ i)
   - m) annak tényét és idejét, hogy az egyéni munkarendben tanuló neki felróható okból két alkalommal nem jelent meg az osztályozó vizsgán, vagy két alkalommal nem teljesítette a tanulmányi követelményeket. II. Alkalmazotti nyilvántartás Az alkalmazotti nyilvántartás az alkalmazott alábbi személyes adatait tartalmazza:
   - a) oktatási azonosító számát,
   - b) végzettségére és szakképzettségére vonatkozó adatokat: felsőoktatási intézmény nevét, az oklevél számát, a végzettséget, szakképzettséget, a végzettség, szakképzettség, a pedagógus-szakvizsga, tudományos fokozat megszerzésének idejét,
-  - c) munkaköre megnevezését,
+  - c) munkaköre megnevezését és időtartamát,
   - d) munkáltatója nevét, címét, valamint OM azonosítóját,
   - e) munkavégzésének helyét,
   - f) jogviszonya kezdetének idejét, megszűnésének jogcímét és idejét,
@@ -561,7 +567,7 @@ i)
   - d) halmozottan hátrányos helyzet;
   - e) előző tanévi matematika osztályzat;
   - f) évfolyam, osztály;
-  - g) egyéni munkarend szerinti nevelés-oktatásban való részvétel,
+  - g)
   - h) jogviszonnyal kapcsolatos adatok;
   - i) az országos mérés típusa és eredménye. VII. Országos köznevelési szakértői névjegyzék Az országos köznevelési szakértői névjegyzék a szakértő alábbi személyes adatait tartalmazza:
   - a) oktatási azonosító száma;
@@ -608,7 +614,7 @@ i)
 - 2. Az országos pedagógiai-szakmai ellenőrzési nyilvántartás az országos pedagógiai-szakmai ellenőrzés, valamint ellenőrzésben érintett pedagógus vagy intézményvezető, a köznevelési intézmény és annak tagintézménye vezetője, valamint a többcélú intézmény szervezeti és szakmai tekintetben önálló, köznevelési intézmény feladatát ellátó intézményegységének vezetője alábbi személyes adatait tartalmazza:
 - 2.1. oktatási azonosító száma;
 - 2.2. a II. részben meghatározott adatok;
-- 2.3. az ellenőrzésének időpontja, értékelése, adatai;
+- 2.3. az ellenőrzésének időpontja, értékelése, adatai, a pedagógusi, vezetői és intézményi területek fejlesztésére vonatkozó javaslatok, javasolt fejlesztési módok;
 - 2.4. az ellenőrzés keretében lefolytatott látogatás jegyzőkönyve adatai;
 - 2.5. önértékelésének adatai:
 - 2.5.1. időpontja, értékelése,
@@ -650,9 +656,10 @@ i)
   - b) a II. részben meghatározott adatok;
   - c) jelentkezésére vonatkozó adatok: ca) a jelentkezés informatikai rendszerben történő rögzítésének időpontja, cb) a jelentkezést rögzítő intézmény adatai, cc) a minősítő vizsga, minősítési eljárás megnevezése, cd) az elérni kívánt fokozat, ce) a munkakör, amelyben az alkalmazott minősítésére sor kerül, cf) a tantárgy, amelyben az alkalmazott minősítésére sor kerül, cg) az intézménytípus, ch) a minősítés nyelve, ci) Mesterpedagógus fokozatra történő jelentkezés esetén a tevékenység típusa, cj) a minősítési tervbe történő felvétel adatai;
   - d) minősítő vizsga, minősítési eljárás adatai: da) az elektronikus portfólió vagy pályázat jogszabályban meghatározott adatai és dokumentumai, db) megismételt minősítő vizsgájának vagy minősítési eljárásnak a ténye, dc) díjköteles minősítő vizsgájának, minősítési eljárásának díjfizetéssel kapcsolatos adatai, dd) minősítő vizsga, minősítési eljárás látogatásának helye, időpontja, de) minősítési bizottság tagjainak neve, elérhetősége,
-  - e) a minősítő vizsga, minősítési eljárás eredményének adatai, pedagóguskompetenciák alapján történő értékelése;
+  - e) a minősítő vizsga, minősítési eljárás eredményének adatai, pedagóguskompetenciák alapján történő értékelése, a pedagóguskompetenciák fejlesztésére vonatkozó javaslatok, javasolt fejlesztési módok;
   - f) a kiállított tanúsítvány adatai;
-  - g) minősítésével kapcsolatban beadott kérelmek adatai.
+  - g) minősítésével kapcsolatban beadott kérelmek, valamint panaszkezelés adatai.
+  - h) az Oktatási Hivatal által szervezett, pedagógusminősítés és országos pedagógiai-szakmai ellenőrzés szakértői feladatainak ellátására felkészítő képzés adatai.
 - 3. A pedagógusminősítési nyilvántartás a minősítő vizsga, minősítési eljárásban közreműködő köznevelési szakértő alábbi személyes adatait tartalmazza:
 - 3.1. szakértői igazolványának száma,
 - 3.2. elérhetőségi adatai,
@@ -669,6 +676,7 @@ i)
 - 3.13. az adott évben ellátott szakértői tevékenység időtartama,
 - 3.14. Mesterpedagógus, Kutatótanár minősítésekben szakértői tevékenység folytatására való jogosultság ténye,
 - 3.15. pedagógusminősítési továbbképzésen képzőként való alkalmazhatósága.
+- 3.16. munkáltatója neve, címe, valamint OM azonosítója.
 
 #### XIII. Az oktatási nyilvántartás működéséért felelős szerv feladatkörébe tartozó tanulmányi és művészeti versenyek nyilvántartása
 
@@ -683,11 +691,13 @@ i)
   - a) oktatási azonosító számát,
   - b) az óvodás korúvá váló gyermek kötelező felvételt biztosító óvodájának, ba) OM azonosító számát, bb) nevét, bc) címét, bd) fenntartóját,
   - c) a gyermek óvodás korúvá válásának időpontját,
-  - d) a felmentést engedélyező szerv döntése alapján a felmentés tényét és hatályát. XV. Tanköteles gyermekek nyilvántartása A tanköteles gyermekek nyilvántartása a gyermek alábbi személyes adatait tartalmazza:
+  - d) a felmentést engedélyező szerv döntése alapján a felmentés tényét és hatályát.
+  - e) ha a gyermek az óvodáztatási kötelezettségét külföldön teljesíti, a külföldi tartózkodás kezdő és várható befejező időpontját, valamint azt az országot, ahol a gyermek az óvodáztatási kötelezettségét teljesíti. XV. Tanköteles gyermekek nyilvántartása A tanköteles gyermekek nyilvántartása a gyermek alábbi személyes adatait tartalmazza:
   - a) oktatási azonosító számát,
   - b) tanköteles korúvá váló tanuló kötelező felvételt biztosító iskolájának ba) OM azonosító számát, bb) nevét, bc) címét, bd) fenntartóját,
   - c) a tankötelessé válásának időpontját,
   - d) a felmentést engedélyező szerv döntése alapján a felmentés tényét és hatályát.
+  - e) ha a gyermek, tanuló tankötelezettségét külföldön teljesíti, a tanulmányok külföldön történő folytatásának kezdő és várható befejező időpontját. valamint azt az országot, ahol a tanuló a tankötelezettségét teljesíti.
 
 ### 1/A. melléklet a 2018. évi LXXXIX. törvényhez
 
@@ -802,7 +812,8 @@ i)
 - 2. A gyermek, tanuló pedagógiai szakszolgálati ellátása során keletkezett adatokat jogszabályban meghatározott feladatellátási kötelezettséggel rendelkező pedagógiai szakszolgálati intézménynek a gyermekkel, tanulóval közvetlenül foglalkozó szakembere köteles az INYR-be rögzíteni.
 - 3. Az ellátott gyermekre, tanulóra vonatkozó személyes adatokat az INYR-ből
 - 3.1. a pedagógiai szakszolgálatnak a gyermeket, tanulót közvetlenül ellátó munkatársa,
-- 3.2. a gyermeket, tanulót közvetlenül ellátó pedagógiai szakszolgálati intézmény vezetője ismerheti meg.
+- 3.2. a gyermeket, tanulót közvetlenül ellátó pedagógiai szakszolgálati intézmény vezetője,
+- 3.3. kizárólag a szakértői bizottság szakértői véleménye, a logopédiai vélemény és a gyógytestnevelésre való jogosultság tekintetében a gyermek nevelését, a tanuló nevelését-oktatását ellátó pedagógus ismerheti meg.
 
 ### 3. melléklet a 2018. évi LXXXIX. törvényhez
 
@@ -838,7 +849,7 @@ A felsőoktatási intézménytörzs az alábbi – 2006. február 1-jén, illetv
 
 2.3. magyarországi képzési helyen történő működéséhez szükséges képzési helyszín biztosításával kapcsolatos együttműködési megállapodásairól az együttműködő egyéni vállalkozó neve, címe, adószáma.
 
-3. a Magyar Felsőoktatási Akkreditációs Bizottság, a Felsőoktatási Tervezési Testület, a Magyar Rektori Konferencia, a Hallgatói Önkormányzatok Országos Konferenciája, a Doktoranduszok Országos Szövetsége, az Országos Doktori Tanács esetében
+3. a Magyar Felsőoktatási Akkreditációs Bizottság, a Felsőoktatási Tervezési Testület, a Magyar Rektori Konferencia, a Hallgatói Önkormányzatok Országos Konferenciája, a Doktoranduszok Országos Szövetsége, az Országos Doktori Tanács, az Országos Tudományos Diákköri Tanács esetében
 
 3.1. a szervezet neve, székhelye,
 
@@ -848,9 +859,15 @@ A felsőoktatási intézménytörzs az alábbi – 2006. február 1-jén, illetv
 
 4.1. fenntartójának neve, székhelyének címe,
 
-4.2. vezetőjének családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail);
+4.2. vezetőjének és a szakkollégium képviselőjének családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail);
 
 5. a közösségi felsőoktatási képzési központ képviselőjének családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail).
+
+6. Az Nftv. 54. §-ában meghatározott szervezet által létesített szakkollégium esetében
+
+6.1. a szakkollégium képviselőjének családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail)
+
+6.2. a szakkollégiumot létesítő szervezet neve, székhelye.
 
 II. Felsőoktatási alkalmazotti személyi törzs
 
