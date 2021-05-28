@@ -1250,9 +1250,9 @@ Ha a hatóság az ügyfélnél folyamatosan lát el ellenőrzési feladatot, az 
 
 (4) A zár alá vétel foganatosítására a szemle szabályai irányadóak azzal, hogy a szemletárgy birtokosa alatt a zár alá vett dolog birtokosát kell érteni. A zár alá vételre és a lefoglalásra egyebekben a bírósági végrehajtásról szóló törvény (a továbbiakban: Vht.) szabályait megfelelően kell alkalmazni.
 
-#### 109. § [A zár alá vétel megszüntetése és a dolog kiadása]
+#### 109. § [A zár alá vétel és a lefoglalás megszüntetése, valamint a dolog kiadása]
 
-(1) A zár alá vételt a hatóság megszünteti, ha
+(1) A zár alá vételt és a lefoglalást a hatóság megszünteti, ha
 
 - a) az elrendelésének oka megszűnt,
 - b) a hatóság az eljárást megszüntette, vagy
@@ -1286,7 +1286,7 @@ A jogorvoslati eljárásban e törvény rendelkezéseit az e fejezetben foglalt 
 
 (2) Önálló jogorvoslatnak van helye
 
-- a) az ideiglenes biztosítási intézkedésről szóló,
+- a) a biztosítási intézkedésről és az ideiglenes biztosítási intézkedésről szóló,
 - b) az ügyféli jogállásról vagy jogutódlásról rendelkező,
 - c) a kérelmet visszautasító,
 - d) az eljárást megszüntető,
@@ -1295,8 +1295,9 @@ A jogorvoslati eljárásban e törvény rendelkezéseit az e fejezetben foglalt 
 - g) a fellebbezési határidő elmulasztása miatt benyújtott igazolási kérelmet elutasító,
 - h) a zár alá vételt vagy lefoglalást elrendelő, valamint ezek megszüntetése iránti kérelmet elutasító,
 - i) az iratbetekintési jog gyakorlására irányuló kérelem tárgyában hozott elutasító,
-- j) az iratbetekintési jog korlátozására irányuló kérelem tárgyában hozott, valamint
-- k) az eljárási költség megállapításával és viselésével kapcsolatos, a költségmentesség iránti kérelmet elutasító, a költségmentesség módosításáról vagy visszavonásáról szóló
+- j) az iratbetekintési jog korlátozására irányuló kérelem tárgyában hozott,
+- k) az eljárási költség megállapításával és viselésével kapcsolatos, a költségmentesség iránti kérelmet elutasító, a költségmentesség módosításáról vagy visszavonásáról szóló, valamint
+- l) a végrehajtást elrendelő
 
 végzés ellen.
 
@@ -1363,7 +1364,7 @@ hozta.
 
 (1) Ha a hatóság a döntést nem nyilvánította azonnal végrehajthatónak, a fellebbezésnek – a (2) bekezdésben foglalt kivételekkel – a döntés végrehajtására halasztó hatálya van.
 
-(2) Az ideiglenes biztosítási intézkedésről szóló, valamint az iratbetekintési jog korlátozása iránti kérelemnek helyt adó végzés elleni fellebbezésnek nincs halasztó hatálya.
+(2) A biztosítási intézkedésről szóló, az ideiglenes biztosítási intézkedésről szóló, valamint az iratbetekintési jog korlátozása iránti kérelemnek helyt adó végzés elleni fellebbezésnek nincs halasztó hatálya.
 
 #### 118. § [A fellebbezés előterjesztése]
 
