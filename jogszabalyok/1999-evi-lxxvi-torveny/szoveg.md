@@ -33,7 +33,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (3) A szerzői jogi védelem az alkotást a szerző szellemi tevékenységéből fakadó egyéni, eredeti jellege alapján illeti meg. A védelem nem függ mennyiségi, minőségi, esztétikai jellemzőktől vagy az alkotás színvonalára vonatkozó értékítélettől.
 
-(4) Nem tartoznak e törvény védelme alá a jogszabályok, az állami irányítás egyéb jogi eszközei, a bírósági vagy hatósági határozatok, a hatósági vagy más hivatalos közlemények és az ügyiratok, valamint a jogszabállyal kötelezővé tett szabványok és más hasonló rendelkezések.
+(4) Nem tartoznak e törvény védelme alá a jogszabályok, közjogi szervezetszabályozó eszközök, a bírósági vagy hatósági határozatok, a hatósági vagy más hivatalos közlemények és ügyiratok, valamint más hasonló rendelkezések.
 
 (5) A szerzői jogi védelem nem terjed ki a sajtótermékek közleményeinek alapjául szolgáló tényekre vagy napi hírekre.
 
@@ -121,7 +121,7 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 ### A mű egységének védelme
 
-13. § A szerző személyhez fűződő jogát sérti művének mindenfajta eltorzítása, megcsonkítása, vagy a mű más olyan megváltoztatása vagy a művel kapcsolatos más olyan visszaélés, amely a szerző becsületére vagy hírnevére sérelmes.
+13. § A szerző személyhez fűződő jogát sérti művének a becsületére vagy jóhírnevére sérelmes mindenfajta eltorzítása, megcsonkítása, megváltoztatása és a művel kapcsolatos más ilyen jellegű visszaélés.
 
 ### A személyhez fűződő jogok gyakorlása
 
@@ -274,11 +274,17 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (5) Kódolt a sugárzás, ha a műsort hordozó jeleket bármilyen módon átalakítják, hogy a hozzáférést a nyilvánosság valamely szűkebb körére korlátozzák.
 
+(5a) Sugárzás az a felhasználás is, amelyre akként kerül sor, hogy a műsort eredeztető eredeti rádió- vagy televízió-szervezet műsort hordozó jeleit a rádió- vagy televízió-szervezettől különböző szervezet (a továbbiakban: nyilvánosságot elérő szervezet) teszi elérhetővé a nyilvánosság számára úgy, hogy a rádió- vagy televízió-szervezet csak a nyilvánosságot elérő szervezet számára teszi elérhetővé a műsorhordozó jeleket (a továbbiakban: közvetlen betáplálás), anélkül, hogy a műsorhordozó jeleket a közvetlen betáplálással egyidejűleg közvetlenül a nyilvánosság számára is közvetítené. Az ilyen felhasználás egyetlen, egységes nyilvánossághoz közvetítési cselekménynek minősül. A nyilvánossághoz közvetítésre az eredeti rádió- vagy televízió-szervezeten kívül a nyilvánosságot elérő szervezetnek is felhasználási jogot kell szereznie, feltéve, hogy tevékenysége túllép azon, hogy a felhasználás technikai eszközeit biztosítja. Abban az esetben, ha a nyilvánosságot elérő szervezet csupán a felhasználás technikai eszközeit biztosítja, a rádió- vagy televízió-szervezet köteles felhasználási jogot szerezni az ilyen felhasználásra.
+
 (6) Az ismételt sugárzást lehetővé tevő rögzítéshez a szerző külön engedélye szükséges. A felvétel minden egyes felhasználásáért díjazás jár.
 
 (7) Saját műsornak a nyilvánossághoz vezeték útján vagy bármely más hasonló eszközzel vagy módon történő közvetítésére a sugárzásra vonatkozó rendelkezéseket megfelelően alkalmazni kell.
 
 (8) A szerzőnek az is kizárólagos joga, hogy művét – másként, mint sugárzással vagy a (7) bekezdésben szabályozott módon – a nyilvánossághoz közvetítse, és hogy erre másnak engedélyt adjon. E joga kiterjed különösen arra az esetre, amikor a művet vezeték útján vagy bármely más eszközzel vagy módon úgy teszik a nyilvánosság számára hozzáférhetővé, hogy a nyilvánosság tagjai a hozzáférés helyét és idejét egyénileg választhatják meg.
+
+(8a) Ha a rádió- vagy televízió-szervezet kiegészítő online szolgáltatás keretében rádióműsort televíziós hír-, illetve időszerű, napi eseményekről szóló műsort, valamint a kizárólag saját forrásaiból készített televíziós műsort a nyilvánosság számára lehívásra hozzáférhetővé teszi, a lehívásra hozzáférhetővé tételt és az ahhoz szükséges többszörözést úgy kell tekinteni, hogy az kizárólag az Európai Gazdasági Térség azon tagállamában valósul meg, amelyben a szervezet fő tevékenységi helye található. E bekezdés – a rádió szervezetek műsora kivételével – a sporteseményre, valamint az abban foglalt műveket tartalmazó műsorszámra nem alkalmazható.
+
+(8b) A (8a) bekezdés szerinti kiegészítő online szolgáltatásnak minősül az olyan, a (8) bekezdés szerinti felhasználást megvalósító szolgáltatás, amely a rádió- vagy televízió-szervezet által vagy annak ellenőrzése és felelőssége mellett, televízió- vagy rádióműsornak a szervezet által megvalósított sugárzással egyidejűleg vagy azt követően meghatározott ideig történő, a nyilvánosság számára hozzáférhetővé tételéből, valamint bármilyen, a sugárzott műsort kiegészítő tartalom lehívásra hozzáférhetővé tételéből áll.
 
 27. § (1) Az írók, a zeneszerzők és a szövegírók képviseletében – a színpadra szánt irodalmi művek és a zenedrámai művek vagy jeleneteik, illetve keresztmetszeteik, valamint a szakirodalmi művek és a nagyobb terjedelmű nem színpadra szánt szépirodalmi művek (pl. regények) felhasználása kivételével – a már nyilvánosságra hozott művek sugárzásának engedélyezésére és az ennek fejében fizetendő díjak mértékére vonatkozóan közös jogkezelő szervezet köt szerződést a felhasználóval.
 
@@ -291,7 +297,9 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 28. § (1) A szerző kizárólagos joga, hogy a sugárzással nyilvánossághoz közvetített művét sugárzással továbbközvetítse, és hogy erre másnak engedélyt adjon.
 
-(2) A szerzőnek az is kizárólagos joga, hogy a rádió- vagy televízió-szervezet, illetve a saját műsort a nyilvánossághoz vezeték útján vagy másként közvetítő műsorában sugárzott, illetve közvetített művének sugárzással, vezeték útján vagy egyéb módon – az eredetihez képest más szervezet közbeiktatásával – a nyilvánossághoz történő egyidejű, változatlan és csonkítatlan továbbközvetítésére engedélyt adjon.
+(2) A szerzőnek az is kizárólagos joga, hogy a rádió- vagy televízió-szervezet, illetve a saját műsort a nyilvánossághoz vezeték útján vagy másként közvetítő műsorában sugárzott, illetve közvetített művének sugárzással, vezeték útján vagy egyéb módon – az eredetihez képest más szervezet közbeiktatásával – a nyilvánossághoz történő egyidejű, változatlan és csonkítatlan továbbközvetítésére engedélyt adjon, feltéve, hogy a felhasználásra ellenőrzött környezetben kerül sor, és az eredeti nyilvánossághoz közvetítés nem nyílt internet-hozzáférési szolgáltatás útján történt.
+
+(2a) A (2) bekezdés alkalmazásában ellenőrzött környezet az olyan környezet, amelyben a továbbközvetítés csak a továbbközvetítést megvalósító szervezet szolgáltatásának igénybevételére jogosultak számára válik érzékelhetővé.
 
 (3) A jogosultak a (2) bekezdésben meghatározott jogukat csak közös jogkezelés útján gyakorolhatják, díjukról csak a felosztás időpontját követő hatállyal, a rájuk jutó összeg erejéig mondhatnak le. A díjakat az irodalmi és a zenei művekkel kapcsolatos szerzői jogok közös kezelését végző szervezet állapítja meg a többi jogosult közös jogkezelő szervezeteivel egyetértésben. A továbbközvetítő szervezet a megállapított díjat az irodalmi és a zenei művekkel kapcsolatos szerzői jogok közös kezelését végző szervezetnek köteles befizetni.
 
@@ -300,6 +308,8 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 (5) Az irodalmi és a zenei művekkel kapcsolatos szerzői jogok közös kezelését végző szervezet a díjakból az általa a felosztást illetően nem képviselt műtípusok szerzőinek és szerzői jogi jogosultjainak, valamint az előadóművészeknek és a hangfelvétel-előállítóknak járó részt a jogosultak közös jogkezelő szervezeteinek utalja át.
 
 (6) A magyar közszolgálati médiaszolgáltató rádió- vagy televízió-szervezet műsorában sugárzott, vezetéken vagy másként közvetített művek továbbközvetítéséért járó díjakat a Médiaszolgáltatás-támogató és Vagyonkezelő Alapból kell megfizetni; erről az Alap kezelője gondoskodik.
+
+(7) Nem alkalmazható a (3) bekezdés a rádió- vagy televízió-szervezet saját műsorai [80. § (1) bek.] vonatkozásában.
 
 ### Az átdolgozás joga
 
@@ -349,9 +359,21 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (3) A szabad felhasználásra vonatkozó rendelkezéseket nem lehet kiterjesztően értelmezni.
 
-(4) E fejezet rendelkezéseinek alkalmazása szempontjából az iskolai oktatás célját szolgálja a felhasználás, ha az az óvodai nevelésben, az általános iskolai, középfokú iskolai oktatásban, szakképző intézményben folyó szakmai oktatásban, az alapfokú művészeti iskolai oktatásban vagy a felsőoktatásról szóló törvény hatálya alá tartozó felsőfokú oktatásban a tantervnek, illetve a képzési követelményeknek megfelelően valósul meg.
+(4) Ha törvény eltérően nem rendelkezik, a szabad felhasználás szerződéssel vagy egyoldalú jognyilatkozattal való kizárása vagy korlátozása semmis, ideértve azt az esetet is, ha a szerző a felhasználás vonatkozásában megfelelő díjazásban részesül.
 
-33/A. § E fejezet alkalmazásában biztonságos elektronikus hálózat az olyan műszaki megoldás, amely megakadályozza a lehívásra hozzáférhetővé tett műnek az iskolai oktatást végző és igénybe vevő személyek körén kívülre irányuló közvetítését.
+33/A. § (1) E törvény alkalmazásában
+
+- 1. iskolai oktatás célját szolgáló felhasználás: olyan felhasználás, amely óvodai nevelésben, az általános iskolai, középfokú iskolai oktatásban, szakképző intézményben folyó szakmai oktatásban, az alapfokú művészeti iskolai oktatásban vagy a felsőoktatásról szóló törvény hatálya alá tartozó felsőfokú oktatásban a tantervnek, illetve a képzési követelményeknek megfelelően valósul meg;
+- 2. kulturális örökségvédelmi intézmény: a nyilvánosan hozzáférhető könyvtár vagy muzeális intézmény, illetve levéltár, vagy közgyűjteménynek minősülő kép-, illetve hangarchívum;
+- 3. oktatási intézmény: olyan köznevelési-, szakképző- és felsőoktatási intézmény, amely iskolai oktatás célját szolgáló felhasználást végez.
+
+(2) E fejezet alkalmazásában:
+
+- 1. biztonságos elektronikus hálózat: olyan műszaki megoldás, amely megakadályozza a lehívásra hozzáférhetővé tett műnek az iskolai oktatást végző és igénybe vevő személyek körén kívülre irányuló közvetítését.
+- 2. kutatóhely: elsődlegesen tudományos kutatást, vagy tudományos kutatást is magában foglaló oktatási tevékenységet végző kutatóintézet, egyetem – ideértve annak könyvtárát is –, valamint kutató laboratórium és kutatást végző kórház, vagy egyéb olyan személy vagy szervezet – ideértve a kutatóhellyel szerződéses kapcsolatban álló kutatókat is –, amely tevékenységét
+  - a) nonprofit alapon vagy adózás utáni eredményének tudományos kutatásba való visszaforgatásával; vagy
+  - b) valamely közérdekű cél érdekében végzi úgy, hogy a tudományos kutatás eredményeihez a kutatóhely felett többségi befolyást gyakorló személy vagy szervezet nem kaphat elsőbbségi hozzáférést.
+- 3. szöveg- és adatbányászat: olyan automatizált analitikai módszer, amely információk feltárása céljából digitális formában lévő szövegeket és adatokat elemez.
 
 ### A szabad felhasználás esetei
 
@@ -361,27 +383,41 @@ A technikai fejlődéssel lépést tartó, korszerű szerzői jogi szabályozás
 
 (3) Nem szükséges a szerző engedélye a (2) bekezdés szerinti átvevő mű
 
-- a) többszörözéséhez és terjesztéséhez, ha azt az irányadó jogszabályoknak megfelelően tankönyvvé vagy segédkönyvvé nyilvánítják, és a címoldalon az iskolai célt feltüntetik, illetve
-- b) iskolai oktatás céljából [33. § (4) bek.] az iskolai oktatás helyszínén történő digitális formában, elektronikus eszközön történő felhasználásához, illetve biztonságos elektronikus hálózaton keresztül történő nyilvánossághoz közvetítéséhez,
+- a) többszörözéséhez és terjesztéséhez, ha azt az irányadó jogszabályoknak megfelelően tankönyvvé vagy pedagógus-kézikönyvvé nyilvánítják, és a címoldalon az iskolai célt feltüntetik, illetve
+- b) iskolai oktatás céljából [33/A. § (1) bek. 1. pont] az iskolai oktatás helyszínén történő digitális formában, elektronikus eszközön történő felhasználásához, illetve biztonságos elektronikus hálózaton keresztül történő nyilvánossághoz közvetítéséhez,
 
 feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
-(3a) A (3) bekezdés b) pontja szerinti felhasználást úgy kell tekinteni, hogy az oktatási intézmény székhelye szerinti tagállamban valósul meg.
+(3a) A (3) bekezdés b) pontja szerinti felhasználást úgy kell tekinteni, hogy az átvevő művet felhasználó oktatási intézmény [33/A. § (1) bek. 3. pont] székhelye szerinti tagállamban valósul meg.
 
-(4) A mű iskolai oktatási célra iskolai foglalkozás keretében – beleértve a biztonságos elektronikus hálózaton keresztül tartott foglalkozást – átdolgozható. Az átdolgozott mű felhasználásához – az iskolai foglalkozás keretében történő előadást és a (3) bekezdés szerinti felhasználást kivéve – az eredeti mű szerzőjének engedélye is szükséges.
+(3b) A (3) bekezdés b) pontja nem alkalmazható a kották felhasználására.
 
-35. § (1) Természetes személy magáncélra a műről másolatot készíthet, ha az jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja. E rendelkezés nem vonatkozik az építészeti műre, a műszaki létesítményre, a szoftverre és a számítástechnikai eszközzel működtetett adatbázisra, valamint a mű nyilvános előadásának kép- vagy hanghordozóra való rögzítésére. Kotta reprográfiával [21. § (1) bek.] magáncélra és a (4) bekezdés b)–d) pontjában szabályozott esetekben sem többszörözhető.
+(4) A mű iskolai oktatási célra iskolai foglalkozás keretében – beleértve a biztonságos elektronikus hálózaton keresztül tartott foglalkozást – átdolgozható. Az átdolgozott mű felhasználásához – az iskolai foglalkozás keretében történő előadást és a (3) bekezdés b) pontja szerinti felhasználást kivéve – az eredeti mű szerzőjének engedélye is szükséges.
 
-(2) Teljes könyv, továbbá a folyóirat vagy a napilap egésze magáncélra csak kézírással vagy írógéppel másolható szabadon.
+34/A. § (1) A művet
 
-(3) Nem minősül szabad felhasználásnak – függetlenül attól, hogy magáncélra történik-e –, ha a műről más személlyel készíttetnek másolatot számítógépen, illetve elektronikus adathordozóra.
+- a) a forrás, valamint az ott megjelölt szerző feltüntetésével kritika vagy ismertetés céljából, illetve
+- b) a mű felidézése, valamint humor vagy gúny kifejezése útján, karikatúra, paródia vagy stílusutánzat (pastiche) céljából bárki felhasználhatja.
 
-(4) Nyilvános szolgáltatásokat nyújtó könyvtár, iskolai oktatás céljából [33. § (4) bek.] köznevelési intézmény, szakképző intézmény és felsőoktatási intézmény, muzeális intézmény, levéltár, valamint a közgyűjteménynek minősülő kép-, illetve hangarchívum a műről másolatot készíthet, ha az jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja, és
+(2) Az (1) bekezdés szerinti felhasználás során az eredeti műből való átvételre a cél által indokolt terjedelemben kerülhet sor.
+
+35. § (1) Természetes személy magáncélra a műről másolatot készíthet, ha az jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja, feltéve, hogy a felhasználással érintett műhöz jogszerűen fért hozzá. E rendelkezés nem vonatkozik az építészeti műre, a műszaki létesítményre, a szoftverre és a számítástechnikai eszközzel működtetett adatbázisra, valamint a mű nyilvános előadásának kép- vagy hanghordozóra való rögzítésére. Kotta reprográfiával [21. § (1) bek.] magáncélra és a (4) bekezdés b)–d) pontjában szabályozott esetekben sem többszörözhető.
+
+(2)
+
+(3)
+
+(4) Kulturális örökségvédelmi intézmény [33/A. § (1) bek. 2. pont] valamint oktatási intézmény [33/A. § (1) bek. 3. pont] a műről másolatot készíthet, ha az jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja, és
 
 - a) tudományos kutatáshoz vagy archiváláshoz szükséges,
 - b) nyilvános könyvtári ellátás vagy a 38. § (5) bekezdésében meghatározott felhasználás céljára készül,
 - c) megjelent mű kisebb részéről, továbbá újság- vagy folyóiratcikkről belső intézményi célra készül, vagy
-- d)
+- d) iskolai oktatás célját szolgáló felhasználáshoz szükséges.
+
+(4a) A kulturális örökségvédelmi intézmény az általa
+
+- a) a (4) bekezdés a) pontja szerinti felhasználás céljára előállított másolatot kutatóhely és más kulturális örökségvédelmi intézmény részére,
+- b) a (4) bekezdés d) pontja szerinti felhasználás céljára előállított másolatot oktatási intézmény [33/A. § (1) bek. 3. pont] részére jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgáló módon szabadon terjesztheti.
 
 (5) Könyvként kiadott mű egyes részei, valamint újság- és folyóiratcikkek az iskolai oktatás céljára egy-egy csoport vagy iskolai osztály létszámának megfelelő, valamint a köznevelés, a szakképzés, illetve a felsőoktatás keretében szervezett vizsgákhoz szükséges példányszámban többszörözhetők, az érintett tanulók, hallgatók részére terjeszthetők és az oktatási intézmény biztonságos elektronikus hálózatán keresztül szemléltetés érdekében számukra lehívásra hozzáférhetővé tehetők.
 
@@ -393,6 +429,23 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 (7) Szabad felhasználás a saját műsorának sugárzásához jogszerűen felhasználható műről a rádió- vagy televízió-szervezet által saját eszközeivel készített ideiglenes rögzítés. Ha a sugárzás engedélyezésére kötött szerződés másként nem rendelkezik, e rögzítést a rögzítés elkészítésének időpontjától számított három hónapon belül meg kell semmisíteni, illetve törölni kell. E rögzítések közül azonban azok a – külön törvényben meghatározott – rögzítések, amelyeknek rendkívüli dokumentációs értéke van, közgyűjteménynek minősülő kép-, illetve hangarchívumban korlátlan ideig megőrizhetők.
 
 (8) Az (1), a (4) és az (5), valamint a (7) bekezdésben szabályozott szabad felhasználási esetek nem érintik a 20–22. §-okban foglaltak alkalmazását.
+
+35/A. § (1) Szabad felhasználás a műveken végzett szöveg- és adatbányászathoz szükséges többszörözés, ha
+
+- a) a felhasználással érintett műhöz jogszerűen fértek hozzá,
+- b) a jogosult a szabad felhasználás ellen előzetesen, megfelelő módon – az elektronikus úton nyilvánosan hozzáférhetővé tett tartalom esetében géppel olvasható formában – nem tiltakozott, és
+- c) a szöveg- és adatbányászathoz szükséges másolatok megőrzésére kizárólag a szöveg- és adatbányászat céljából szükséges ideig kerül sor.
+
+(2) Szabad felhasználás a kutatóhelyek és kulturális örökségvédelmi intézmények [33/A. § (1) bek. 2. pont] által műveken tudományos kutatás céljából végzett szöveg- és adatbányászathoz szükséges többszörözés, feltéve, hogy
+
+- a) a felhasználást végző személy az érintett műhöz jogszerűen fért hozzá,
+- b) a szabad felhasználás keretében létrejött másolatok megfelelő biztonsági szinten vannak tárolva, és
+- c) megőrzésükre tudományos kutatás céljából kerül sor.
+
+(3) Az (1) és (2) bekezdés alapján létrejött többszörözött példányokat a felhasználásra jogosított személyek
+
+- a) az érintett kutatási együttműködés keretei között, vagy
+- b) a tudományos mű szakmai értékelése céljából személyek egy zárt csoportja számára lehívásra hozzáférhetővé tehetik, feltéve, hogy ez a felhasználás jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja. A nyilvánossághoz közvetítés kizárólag az e §-ban meghatározott célhoz szükséges mértékben és ideig állhat fenn.
 
 36. § (1) Nyilvánosan tartott előadások és más hasonló művek részletei, valamint politikai beszédek tájékoztatás céljára – a cél által indokolt terjedelemben – szabadon felhasználhatók. Ilyen felhasználás esetén a forrást – a szerző nevével együtt – fel kell tüntetni, hacsak ez lehetetlennek nem bizonyul. Az említett művek gyűjteményes kiadásához a szerző engedélye szükséges.
 
@@ -423,7 +476,7 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 (4) Zártkörű a gazdálkodó szervezetek, továbbá a gazdálkodó szervezetnek nem minősülő jogi személyek által kizárólag tagjaik, tisztségviselőik, munkavállalóik részére rendezett összejövetel is.
 
-(5) A felhasználásra vonatkozó eltérő megállapodás hiányában a nyilvános szolgáltatásokat nyújtó könyvtárak, iskolai oktatás céljából [33. § (4) bek.] köznevelési intézmények, szakképző intézmények és felsőoktatási intézmények, muzeális intézmények, levéltárak, valamint közgyűjteménynek minősülő kép-, illetve hangarchívumok gyűjteményeinek részét képező művek az ilyen intézmények helyiségeiben ezzel a céllal üzembe állított számítógépes terminálok képernyőjén tudományos kutatás vagy egyéni tanulás céljára a nyilvánosság egyes tagjai számára szabadon megjeleníthetők, és ennek érdekében – külön jogszabályban meghatározott módon és feltételekkel – a nyilvánosság említett tagjaihoz szabadon közvetíthetők, ideértve a nyilvánosság számára történő hozzáférhetővé tételt is, feltéve, hogy az ilyen felhasználás jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja.
+(5) A felhasználásra vonatkozó eltérő megállapodás hiányában a kulturális örökségvédelmi intézmények [33/A. § (1) bek. 2. pont], valamint az oktatási intézmények [33/A. § (1) bek. 3. pont] gyűjteményeinek részét képező művek az ilyen intézmények helyiségeiben ezzel a céllal üzembe állított számítógépes terminálok képernyőjén tudományos kutatás vagy egyéni tanulás céljára a nyilvánosság egyes tagjai számára szabadon megjeleníthetők, és ennek érdekében – jogszabályban meghatározott módon és feltételekkel – a nyilvánosság említett tagjaihoz szabadon közvetíthetők, ideértve a nyilvánosság számára történő hozzáférhetővé tételt is, feltéve, hogy az ilyen felhasználás jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja.
 
 39. § Az országos szakkönyvtárak a mű egyes példányait szabadon haszonkölcsönbe adhatják. Ez a rendelkezés nem vonatkozik a szoftverre és a számítástechnikai eszközökkel működtetett adatbázisra.
 
@@ -458,7 +511,7 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 41/A. § (1) Egy mű vagy szomszédos jogi teljesítmény (a továbbiakban e fejezet alkalmazásában: teljesítmény) akkor tekinthető árva műnek, ha jogosultja ismeretlen vagy ismeretlen helyen tartózkodik és a felkutatására az adott helyzetben általában elvárható gondossággal, jóhiszeműen elvégzett jogosultkutatás nem vezetett eredményre.
 
-(2) A jogosultkutatás során legalább az árva mű felhasználásával kapcsolatos részletes szabályokról szóló kormányrendeletben – az érintett mű vagy teljesítmény típusa szerint – meghatározott információforrásokat igénybe kell venni.
+(2) A jogosultkutatás során legalább az árva mű felhasználásával kapcsolatos részletes szabályokról szóló kormányrendeletben – az érintett mű vagy teljesítmény típusa szerint – meghatározott információforrásokat igénybe kell venni. A meghatározott információforrás mellőzhető, ha az abban végzett kutatás nyilvánvalóan nem vezetne az adott jogosult felkutatásához szükséges, még hiányzó információk megszerzéséhez.
 
 (3) A jogosultkutatást abban az országban kell elvégezni, amelyben a művet vagy teljesítményt először nyilvánosságra hozták.
 
@@ -472,7 +525,7 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 (8) Az árva műnek tekintett mű vagy teljesítmény jogosultja – a saját jogai tekintetében – bármikor megszüntetheti a mű vagy teljesítmény árva mű jogállását és a további felhasználást illetően gyakorolhatja jogait.
 
-(9) Az e fejezetben foglalt rendelkezések nem alkalmazhatók, ha a felhasználás jogosítása közös jogkezelésbe tartozik.
+(9) Az e fejezetben foglalt rendelkezések nem alkalmazhatók, ha a felhasználás engedélyezése közös jogkezelés körébe tartozik.
 
 ### Árva mű felhasználásának engedélyezése
 
@@ -487,7 +540,11 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 - a) a kérelmező és – képviselet esetén – a képviselő nevét, lakcímét vagy székhelyét;
 - b) nem elektronikus úton történő kapcsolattartás esetén a kérelmező vagy képviselője aláírását;
-- c) a mű vagy a teljesítmény azonosítására alkalmas adatokat és – ha ez lehetséges – a jogosult, több jogosult esetén valamennyi jogosult nevét, valamint lakcímét vagy tartózkodási helyét;
+- c) a mű vagy a teljesítmény azonosítására alkalmas adatokat, így különösen
+  - ca) a mű vagy a teljesítmény címét, a szerző nevét,
+  - cb) a mű vagy a teljesítmény első nyilvánosságra hozatalának évét,
+  - cc) ha ez lehetséges, a szerző születésének és halálának évét, és
+  - cd) a jogosult, több jogosult esetén valamennyi jogosult nevét, és lakcímét vagy tartózkodási helyét;
 - d) a kérelmező és – képviselet esetén – a képviselő elektronikus levelezési címét vagy telefonszámát.
 
 (1c) Ha a kérelmező, illetve képviselője a Hivatallal elektronikus kapcsolattartásra kötelezett vagy elektronikus úton kíván kapcsolatot tartani, a kérelemnek az (1b) bekezdésben meghatározott adatokon túl tartalmaznia kell
@@ -518,9 +575,9 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 (6) Ha a jogosult a (3)–(5) bekezdés alapján a díj mértékét vitatja, ennek elbírálása – a szerzői jogi perekre irányadó szabályok szerint – bírósági útra tartozik.
 
-(7) Az (1) bekezdés szerinti kérelemért igazgatási szolgáltatási díjat kell fizetni.
+(7) Az (1) bekezdés szerinti kérelemre lefolytatott eljárásért igazgatási szolgáltatási díjat kell fizetni.
 
-(8) Az árva művek felhasználásának engedélyezésével kapcsolatos részletes szabályokat és a (7) bekezdés szerinti díj mértékét kormányrendelet állapítja meg.
+(8) Az árva művek felhasználásának engedélyezésével kapcsolatos részletes szabályokat kormányrendelet állapítja meg.
 
 41/C. § (1) A Hivatal a 41/B. §-ban szabályozott eljárásban – az e törvényben meghatározott eltérésekkel és kiegészítésekkel – az általános közigazgatási rendtartásról szóló törvény, valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezései szerint jár el.
 
@@ -654,6 +711,64 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 41/K. § Az árva mű kedvezményezett intézmény által történő felhasználásával kapcsolatos részletes szabályokat és a 41/I. § (2) bekezdése szerinti megfelelő díjazás feltételeit kormányrendelet állapítja meg.
 
+### IV/B. Fejezet — A KERESKEDELMI FORGALOMBAN NEM ELÉRHETŐ MŰVEK
+
+### Értelmező rendelkezések
+
+41/L. § (1) E fejezet alkalmazásában:
+
+- 1. harmadik ország: minden olyan állam, amely nem az Európai Gazdasági Térség tagállama;
+- 2. kereskedelmi forgalomban nem elérhető mű: olyan mű vagy szomszédos jogi védelem alatt álló teljesítmény, amelyről a kereskedelmi forgalomban létére vonatkozóan az adott helyzetben általában elvárható gondossággal végzett vizsgálat alapján vélelmezhető, hogy a szokásos kereskedelmi csatornákon keresztül a nyilvánosság számára nem hozzáférhető. A mű vagy szomszédos jogi védelem alatt álló teljesítmény nem tekinthető kereskedelmi forgalomban nem elérhetőnek, ha a mű vagy szomszédos jogi védelem alatt álló teljesítmény egyéb változata – ide nem értve a mű átdolgozását – a kereskedelmi forgalomban hozzáférhető.
+
+(2) A művek együttese is tekinthető kereskedelmi forgalomban nem elérhetőnek, kivéve, ha a hozzáférhetőség megállapítására lefolytatott elérhetőségvizsgálat alapján a művek együttesének egyes elemeit képező művek túlnyomó része vonatkozásában bizonyíték merült fel arra, hogy
+
+- a) e művek harmadik országban kerültek először nyilvánosságra hozatalra,
+- b) a filmalkotások és más audiovizuális művek esetében a filmelőállító székhelye vagy szokásos tartózkodási helye harmadik országban található, vagy
+- c) e művek jogosultjai harmadik országok állampolgárai, de az a) és b) pont szerinti harmadik ország vagy tagállam esetükben nem határozható meg.
+
+(3) A művek együttese kereskedelmi forgalomban nem elérhetőnek minősülhet a (2) bekezdés szerinti esetben is, ha az egyes elemeit képező művek vonatkozásában a 41/M. § (1) bekezdése szerinti közös jogkezelő szervezet az érintett harmadik ország jogosultjainak tekintetében is reprezentatív.
+
+(4) E fejezet alkalmazásában kereskedelmi forgalomban nem elérhető műveknek kell tekinteni azokat az irodalmi műveket, amelyeket utoljára 1999. augusztus 31-én, vagy azt megelőzően adtak ki Magyarország területén. Nem minősülnek kereskedelmi forgalomban nem elérhető műnek azon irodalmi művek, amelyek utolsó kiadása óta nyolc év nem telt el.
+
+### A kereskedelmi forgalomban nem elérhető művek felhasználása
+
+41/M. § (1) A szerzők és a szomszédos jogi jogosultak képviseletében a kulturális örökségvédelmi intézmények [33/A. § (1) bek. 2. pont] gyűjteményének állandó részét képező, kereskedelmi forgalomban nem elérhető mű nem kereskedelmi célú többszörözésének, terjesztésének és nyilvánossághoz közvetítésének engedélyezésére és az ennek fejében fizetendő díj mértékére vonatkozóan közös jogkezelő szervezet köt szerződést a kulturális örökségvédelmi intézménnyel, kivéve, ha a szerző vagy a szomszédos jogi jogosult a (2) bekezdés szerinti tiltakozó nyilatkozatot tett.
+
+(2) Az (1) bekezdés szerinti felhasználások tekintetében a szerző vagy a szomszédos jogi jogosult bármikor – akár a felhasználás megkezdését követően is – tiltakozhat a felhasználás közös jogkezelés körében történő engedélyezése ellen. Az e felhasználási módot érintő tiltakozásra a Kjkt. 18. § (1) bekezdését kell alkalmazni azzal az eltéréssel, hogy e felhasználás esetében a jogosult egyes művei tekintetében is tiltakozhat.
+
+(3) Az (1) bekezdés szerinti felhasználási engedély hatálya az Európai Gazdasági Térség más tagállamában való felhasználásra is kiterjedhet.
+
+(4) Nem szükséges a szerző vagy a szomszédos jogi jogosult engedélye a kereskedelmi forgalomban nem elérhető mű többszörözéséhez és nyilvánossághoz közvetítéséhez, továbbá a szoftver átdolgozásához és terjesztéséhez, amennyiben a felhasználás kulturális örökségvédelmi intézmények által a gyűjteményének állandó részét képező, kereskedelmi forgalomban nem elérhető mű elérhetővé tételét célozza, feltéve, hogy
+
+- a) a felhasználás során a szerző vagy a szomszédos jogi jogosult neve – ha ez lehetséges – feltüntetésre kerül,
+- b) a nyilvánossághoz közvetítés nem kereskedelmi céllal fenntartott honlapon valósul meg, és
+- c) a felhasználni kívánt műtípus tekintetében a kizárólagos jog gyakorlására reprezentatív közös jogkezelő szervezet nem rendelkezik az (1) bekezdés szerinti jogok gyakorlására vonatkozó engedéllyel és hatályos díjszabással.
+
+(5) A (4) bekezdés szerinti szabad felhasználást a kulturális örökségvédelmi intézmény székhelye szerinti tagállamban történő felhasználásnak kell tekinteni.
+
+(6) A (4) bekezdés szerinti felhasználás ellen a szerző vagy a szomszédos jogi jogosult bármikor – akár a felhasználás megkezdését követően is – tiltakozhat. A felhasználást a tiltakozást követően észszerű időn belül be kell fejezni. A szerző vagy a szomszédos jogi jogosult ezen időpontot megelőzően, a (4) bekezdésnek megfelelően megvalósított felhasználások tekintetében díjazásra nem jogosult.
+
+(7) A mű kereskedelmi forgalomban való elérhetőségének vizsgálatát (elérhetőségvizsgálat) a felhasználási engedélyt kérő kulturális örökségvédelmi intézmény köteles elvégezni. Az elérhetőségvizsgálat során a kulturális örökségvédelmi intézmény köteles az adott helyzetben általában elvárható gondossággal eljárni.
+
+(8) E § alkalmazásában a kulturális örökségvédelmi intézmény az (1) és (4) bekezdés szerinti felhasználásokkal összefüggésben elért bevételeit csak a felhasználási jog fejében fizetendő díjra, valamint az engedély hatálya alá tartozó, a kereskedelmi forgalomban nem elérhető művek digitalizálásával és terjesztésével járó kiadások fedezésére fordíthatja.
+
+41/N. § (1) A kulturális örökségvédelmi intézmény [33/A. § (1) bek. 2. pont] köteles nyilvántartást vezetni az általa a 41/M. § (1) és (4) bekezdése szerint végzett felhasználásokról, és a Hivatalnak elektronikus úton bejelenteni
+
+- a) a kereskedelmi forgalomban nem elérhető mű azonosítását lehetővé tévő,
+- b) a felhasználási szerződést kötő felekkel kapcsolatos lényeges,
+- c) a felhasználási jog területi hatályára vonatkozó, és
+- d) a felhasználási engedély alapján megvalósított felhasználással kapcsolatos lényeges információkat.
+
+(2) A Hivatal az (1) bekezdés szerinti adatokat – kiegészítve a 41/M. § (6) bekezdése szerinti tiltakozás lehetőségére vonatkozó információkkal – haladéktalanul továbbítja az Európai Unió Szellemi Tulajdoni Hivatalának az általa vezetett nyilvánosan hozzáférhető online portálon történő hozzáférhetővé tétel céljából.
+
+(3) A felhasználás a (2) bekezdés szerinti adatoknak az Európai Unió Szellemi Tulajdoni Hivatala általi hozzáférhetővé tételét követő 6 hónap elteltével kezdhető meg.
+
+(4) A Hivatal az (1) bekezdés szerinti adatokról tájékoztatási célból nyilvántartást vezet, amelyet honlapján közzétesz. A Hivatal a nyilvántartásban közzétett információkért felelősséggel nem tartozik.
+
+(5) A Hivatal, valamint a 41/M. § alapján felhasználást végző intézmény és az e felhasználás engedélyezésére jogosult közös jogkezelő szervezet a honlapján angol és magyar nyelvű általános tájékoztatót tesz közzé a 41/M. § alapján végezhető felhasználások részleteiről. E tájékoztatásnak ki kell terjednie különösen a közös jogkezelő szervezeteknek a 41/M. §-sal összhangban történő engedélyezési lehetőségére, a 41/M. § (4) bekezdése szerinti szabad felhasználás részleteire, valamint a jogosultakat a 41/M. § (2) és (6) bekezdése alapján megillető tiltakozási lehetőségekre.
+
+(6) A felhasználást végző intézmény az e fejezet szerinti egyes felhasználásokkal összefüggésben köteles tájékoztatást adni arról, hogy az adott felhasználásra a kereskedelmi forgalomban nem elérhető művekre vonatkozó rendelkezések alapján került sor.
+
 ### V. Fejezet — A FELHASZNÁLÁSI SZERZŐDÉSEK
 
 ### A felhasználási szerződések általános szabályai
@@ -680,15 +795,24 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 45. § (1) A felhasználási szerződést – ha e törvény eltérően nem rendelkezik – írásba kell foglalni.
 
-(2) Nem kötelező a szerződés írásba foglalása napilapban vagy folyóiratban történő közzétételre kötött szerződés esetén.
+(2) Nem kötelező a szerződés írásba foglalása
 
-(3) Ha a 26. § (8) bekezdésében szabályozott módon történő nyilvánossághoz közvetítést maga a szerző gyakorolja, a felhasználási szerződést írásba foglaltnak kell tekinteni, ha a műre a szerző elektronikus úton kötött és rögzített szerződéssel enged további felhasználást.
+- a) sajtótermékben, napilapban vagy folyóiratban történő közzétételre kötött,
+- b) nem kizárólagos, ingyenes, a 26. § (8) bekezdés második mondatában meghatározott felhasználási jogot engedő,
+- c) szoftver és a gyűjteményes műnek minősülő adatbázis nem kizárólagos felhasználására felhasználási jogot engedő, vagy
+- d) a szerző nem címzett vagy meghatározatlan számú személynek tett, ingyenes, nem kizárólagos felhasználási jog engedésére tett ajánlata elfogadásával létrejött felhasználási szerződés esetén.
+
+(3) A közös jogkezelő szervezet és a felhasználó között felhasználási szerződés elektronikus úton abban az esetben jöhet létre, ha a közös jogkezelő szervezet és a felhasználó előzetesen az elektronikus út alkalmazását előíró írásba foglalt jognyilatkozatot tesznek, és a felhasználási szerződést az e jognyilatkozatban meghatározott elektronikus úton kötik meg. Az így megkötött felhasználási szerződést írásba foglaltnak kell tekinteni.
 
 46. § (1) A felhasználó az engedélyt harmadik személyre csak akkor ruházhatja át, illetve csak akkor adhat harmadik személynek további engedélyt a mű felhasználására, ha azt a szerző kifejezetten megengedte.
 
 (2) A felhasználási engedély a felhasználó gazdálkodó szervezet megszűnése vagy szervezeti egységének kiválása esetén a szerző beleegyezése nélkül átszáll a jogutódra.
 
 (3) Ha a felhasználó a szerző beleegyezése nélkül ruházza át a jogait, illetve ad további felhasználási engedélyt, vagy ha a felhasználási engedély a szerző beleegyezése nélkül száll át, a felhasználó és a jogszerző egyetemlegesen felelnek a felhasználási szerződés teljesítéséért.
+
+46/A. § (1) A közvetlen betáplálással történő nyilvánossághoz közvetítési felhasználás engedélyezése, illetve azzal kapcsolatos díjigények érvényesítése érdekében a jogosult oly módon is köthet felhasználási szerződést a rádió- vagy televízió-szervezettel, hogy az kiterjed a szervezettől eredő műsorhordozó jelek nyilvánossághoz közvetítésében közreműködő, a nyilvánosságot elérő szervezetek tevékenységére is.
+
+(2) Ha az (1) bekezdés szerinti felhasználási szerződés alapján megfizetett felhasználási díj megfelelőségének ellenőrzése ezt szükségessé teszi, akkor a felhasználásban közreműködő rádió- vagy televízió-szervezet és a rádió- vagy televízió-szervezettől különböző szervezet egyaránt köteles az érintett felhasználással összefüggésben irányadó felhasználási díj megfizetésének ellenőrzéséhez szükséges adatokat a jogosult számára megadni. Az adatszolgáltatással érintett közreműködő ez irányú felhívására a jogosult az így megismert adatokat köteles üzleti titokként kezelni, és azokat a díjfizetés ellenőrzésétől, valamint bírósági, továbbá közigazgatási vagy más hatósági eljárásban felmerülő adatszolgáltatási kötelezettség teljesítésétől eltérő, egyéb célra nem használhatja.
 
 47. § (1) A felhasználási engedély csak kifejezett kikötés esetén terjed ki a mű átdolgozására.
 
@@ -698,7 +822,9 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 (4) A mű többszörözésére adott engedély – kétség esetén – kiterjed a többszörözött műpéldányok terjesztésére is. Ez nem vonatkozik a műpéldányoknak az országba forgalomba hozatal céljából történő behozatalára.
 
-48. § A polgári jog általános szabályai szerint a bíróság akkor is módosíthatja a felhasználási szerződést, ha az a szerzőnek a felhasználás eredményéből való arányos részesedéshez fűződő lényeges jogos érdekét azért sérti, mert a mű felhasználása iránti igénynek a szerződéskötést követően bekövetkezett jelentős növekedése miatt feltűnően naggyá válik a felek szolgáltatásai közötti értékkülönbség.
+48. § (1) A polgári jog általános szabályai szerint a bíróság akkor is módosíthatja a felhasználási szerződést, ha az a szerzőnek a felhasználás eredményéből való arányos részesedéshez fűződő lényeges jogos érdekét azért sérti, mert a mű felhasználása iránti igénynek a szerződéskötést követően bekövetkezett jelentős növekedése miatt feltűnően naggyá válik a felek szolgáltatásai közötti értékaránytalanság.
+
+(2) Az (1) bekezdés rendelkezései nem alkalmazhatók a Kjkt. alapján a közös jogkezelő szervezet és független jogkezelő szervezet által a felhasználóval kötött felhasználási szerződésre, valamint a közös jogkezelő szervezet által a díjigény gyakorlása körében a díjfizetésre kötelezettel kötött megállapodásra.
 
 49. § (1) A jövőben megalkotandó műre vonatkozó szerződés alapján átadott mű elfogadásáról a felhasználó a mű átadásától számított két hónapon belül köteles nyilatkozni. Ha a művet a felhasználó kijavításra visszaadta, a határidő a kijavított mű átadásától számít. Ha a felhasználó az elfogadásra nyitva álló határidőn belül nem nyilatkozik, a művet elfogadottnak kell tekinteni.
 
@@ -709,6 +835,36 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 (4) Ha a mű javítás után sem alkalmas a felhasználásra, a szerzőt csak mérsékelt díjazás illeti meg.
 
 50. § Ha a szerző a mű felhasználásához hozzájárult, a felhasználáshoz elengedhetetlen vagy nyilvánvalóan szükséges, a mű lényegét nem érintő változtatásokat köteles végrehajtani. Ha e kötelezettségének nem tesz eleget, vagy nem tud eleget tenni, a felhasználó a változtatásokat hozzájárulása nélkül is végrehajthatja.
+
+50/A. § (1) A felhasználási szerződés alapján a felhasználó évente legalább egyszer köteles részletes tájékoztatást nyújtani a szerző számára
+
+- a) a műve felhasználásáról,
+- b) a felhasználás módjáról és mértékéről,
+- c) a mű felhasználásából eredő bevételekről minden felhasználási mód tekintetében külön-külön, és
+- d) a szerző részére fizetendő díjazásról.
+
+(2) Az (1) bekezdés szerinti tájékoztatási kötelezettség nem terjed ki azokra a felhasználási szerződésekre, amelyek tekintetében a szerző a díjazásról lemondott.
+
+(3) A film és audiovizuális művekre vonatkozó felhasználási szerződésben a felek kiköthetik, hogy az (1) bekezdés szerinti tájékoztatási kötelezettség csak akkor áll fenn, ha a tájékoztatást a szerző a felhasználótól írásban vagy elektronikus úton kéri.
+
+(4) A felhasználási jog átengedése [46. § (1) bek.], vagy a felhasználási jog átszállása [46. § (2) bek.] útján felhasználónak minősülő személy vagy jogutódja, a szerző kifejezett kérésére köteles azt az (1) bekezdés szerinti tájékoztatást megadni, amelyhez szükséges információval a felhasználásra elsődlegesen jogosított felhasználó nem rendelkezik.
+
+(5) A szerző a (4) bekezdés szerinti tájékoztatást a vele szerződő fél útján igényelheti.
+
+(6) Ha az (1) bekezdésben foglalt, a felhasználási szerződésben elő nem írt tájékoztatási kötelezettség a felhasználásból származó bevételhez képest a felhasználó számára aránytalan költséggel járó adminisztratív terhet jelent, a tájékoztatási kötelezettséget az adott helyzetben általában elvárható mértékben kell teljesíteni.
+
+(7) Az (1)–(6) bekezdést kell alkalmazni a felhasználási szerződés megszűnése esetére azzal az eltéréssel, hogy a tájékoztatási kötelezettséget a szerződés megszűnésétől számított harminc napon belül kell teljesíteni.
+
+(8) Az (1) bekezdés szerinti tájékoztatási kötelezettség nem áll fenn, amennyiben a szerző teljes műhöz való hozzájárulása nem jelentős, kivéve, ha a szerző alátámasztja, hogy a kért tájékoztatás a 48. § (1) bekezdésében biztosított igény érvényesítéséhez szükséges.
+
+(9) Kollektív felhasználási szerződés rendelkezhet a tájékoztatásra vonatkozó szabályokról, feltéve, hogy rendelkezései megfelelnek az (1)–(8) bekezdésben előírt követelményeknek. A kollektív felhasználási szerződés olyan szerződés, amelyet egyfelől a szerzők, másfelől pedig az érintett felhasználók közötti felhasználási szerződés megkötésére létesítő okiratban feljogosított érdekképviseleti szervezetek kötöttek az érintett szerzők művei felhasználása engedélyezésének általános feltételeiről.
+
+(10) Az (1)–(9) bekezdés nem alkalmazható
+
+- a) a munkaviszonyra vagy más hasonló jogviszonyban alkotott művekre vagy teljesítményekre [30. §], és
+- b) közös jogkezelő szervezetek és a független jogkezelő szervezetek által a felhasználókkal kötött felhasználási szerződésekre, valamint a közös jogkezelő szervezetek által a díjigények gyakorlása körében a díjfizetésre kötelezettel kötött megállapodásokra.
+
+50/B. § A felhasználó és a szerző közötti szerződés részévé váló, a 48. §, az 50/A. § vagy a 102. §-tól eltérő szerződési kikötés semmis. A semmis kikötés, valamint külföldi jog választása esetén az eltérő külföldi jog szabálya helyett a 48. §-t, az 50/A. § (1)–(9) bekezdését, valamint a 102. §-t kell alkalmazni. A semmisségre kizárólag a szerző érdekében lehet hivatkozni.
 
 51. § (1) A szerző felmondhatja a kizárólagos felhasználási engedélyt tartalmazó szerződést, ha
 
@@ -737,7 +893,7 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 54. § A felhasználási szerződés a jövőre nézve megszűnik a szerződésben megállapított idő elteltével vagy a szerződésben meghatározott körülmények bekövetkeztével, valamint akkor is, ha a védelmi idő eltelt.
 
-55. § (1) A felhasználási szerződésre vonatkozó rendelkezéseket megfelelően alkalmazni kell a szerzői vagyoni jogok átruházására irányuló szerződésre, valamint – a (2)–(3) bekezdésben foglalt eltérésekkel – az előadóművészi teljesítmények felhasználására és az előadóművészi vagyoni jogok átruházására vonatkozó szerződésre is.
+55. § (1) A 16. § (4) és a (6)–(7) bekezdéseit, valamint a felhasználási szerződésre vonatkozó rendelkezéseket megfelelően alkalmazni kell a szerzői vagyoni jogok átruházására irányuló szerződésre, valamint – a (2)–(3) bekezdésben foglalt eltérésekkel – az előadóművészi teljesítmények felhasználására és az előadóművészi vagyoni jogok átruházására vonatkozó szerződésre is.
 
 (2) Ha a hangfelvétel forgalomba hozatalát vagy – ha erre nem kerül sor – a nyilvánossághoz közvetítését követő év első napjától számított ötvenedik év elteltével a hangfelvétel-előállító vagy az ő engedélye alapján más személy nem kínálja fel a hangfelvétel többszörözött példányait megfelelő mennyiségben forgalomba hozatalra, vagy nem teszi a hangfelvételt vezeték útján vagy bármely más eszközzel vagy módon úgy a nyilvánosság számára hozzáférhetővé, hogy a nyilvánosság tagjai a hozzáférés helyét és idejét egyénileg választhatják meg, az előadóművész felmondhatja az előadás rögzítésére vonatkozó, a hangfelvétel-előállítóval kötött szerződést.
 
@@ -755,9 +911,60 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 (2) Ha a szerző beleegyezett abba, hogy művét képek alkalmazásával (illusztrációkkal) adják ki, az egyes képek felhasználásához való hozzájárulását csak alapos okból tagadhatja meg.
 
-57/A–57/C. §
+### A tartalommegosztó szolgáltatókra vonatkozó rendelkezések
 
-57/D. §
+57/A. § E törvény alkalmazásában tartalommegosztó szolgáltatónak minősül az olyan, az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény (a továbbiakban: Ektv.) 2. § k) pontja szerinti szolgáltató, amelynek fő vagy egyik fő célja a szolgáltatás igénybe vevője által feltöltött, jelentős mennyiségű, szerzői jogi védelem alatt álló mű vagy szomszédos jogi teljesítmény
+
+- a) tárolása,
+- b) nyilvánossághoz közvetítése, ideértve a nyilvánosság számára lehívásra hozzáférhetővé tételét is, és
+- c) üzletszerű összerendezése, és népszerűsítése.
+
+57/B. § A tartalommegosztó szolgáltató nyilvánosság számára lehívásra hozzáférhetővé tételt végez, ha a nyilvánosság számára elérhető szolgáltatása keretében hozzáférést biztosít a szolgáltatást igénybe vevő személyek által feltöltött művekhez vagy szomszédos jogi teljesítményekhez.
+
+57/C. § A tartalommegosztó szolgáltató részére a mű vagy szomszédos jogi teljesítmény nyilvánosság számára lehívásra hozzáférhetővé tételére adott engedély kiterjed a szolgáltatást igénybe vevő személyek által az e szolgáltató tartalommegosztó szolgáltatása céljából megvalósított – nem kereskedelmi célú, illetve nem kereskedelmi mértékű bevételt eredményező – felhasználásokra is. Amennyiben a szolgáltatást igénybe vevő szerzi meg a lehívásra hozzáférhetővé tételre vonatkozó engedélyt, annak hatálya a tartalommegosztó szolgáltatóra az igénybe vevőnek engedett felhasználási jog keretein belül kiterjed.
+
+57/D. § A tartalommegosztó szolgáltató által az 57/B. § szerint végzett felhasználás tekintetében nem alkalmazható az Ektv. 10. §-ában meghatározott felelősségkorlátozás.
+
+57/E. § (1) A tartalommegosztó szolgáltató felel a nyilvánosság számára elérhető szolgáltatása keretében az azt igénybe vevő személy által jogosultság nélkül felhasznált mű vagy szomszédos jogi teljesítmény nyilvánosság számára lehívásra hozzáférhetővé tételéért.
+
+(2) A tartalommegosztó szolgáltató mentesül a felelősség alól, ha bizonyítja, hogy
+
+- a) az adott helyzetben általában elvárható legnagyobb gondossággal járt el a felhasználási engedély megszerzése érdekében,
+- b) a szakmai előírásokra és szokásokra tekintettel az adott helyzetben általában elvárható legnagyobb gondossággal járt el annak biztosítása érdekében, hogy a szolgáltatása keretében ne váljon elérhetővé olyan mű vagy szomszédos jogi teljesítmény, amelyet az azonosításhoz szükséges lényeges információknak a tartalommegosztó szolgáltató részére való megküldésével a jogosult megjelölt, és
+- c) a jogosult által a jogosulatlan felhasználás okán megküldött, megfelelően indokolt értesítés beérkezését követően haladéktalanul intézkedett az értesítésben megjelölt műnek vagy szomszédos jogi teljesítménynek az eltávolítása vagy hozzáférhetetlenné tétele érdekében, és az adott helyzetben általában elvárható legnagyobb gondossággal járt el az értesítésben megjelölt mű vagy szomszédos jogi teljesítmény jövőbeni elérhetővé tételének megakadályozására.
+
+(3) A (2) bekezdés c) pontja szerinti eljárásra az Ektv. 13. §-ában foglalt eljárás szabályait kell alkalmazni azzal, hogy az Ektv. 13. §-ában a szolgáltató fogalma alatt a tartalommegosztó szolgáltatót kell érteni.
+
+(4) A (2) bekezdésben meghatározott intézkedések tartalommegosztó szolgáltató általi alkalmazása nem eredményezheti a jogszerű felhasználások megakadályozását.
+
+(5) Annak megítéléséhez, hogy a tartalommegosztó szolgáltató eleget tett a (2) bekezdésben meghatározott feltételeknek, az arányosság elvére tekintettel figyelembe kell venni különösen
+
+- a) a tartalommegosztó szolgáltató által nyújtott szolgáltatás méretét, típusát és igénybe vevőit,
+- b) a szolgáltatást igénybe vevő személyek által a tartalommegosztó szolgáltató szolgáltatásának keretei között felhasznált művek vagy szomszédos jogi teljesítmények típusát, és
+- c) a tartalommegosztó szolgáltató által a (2) bekezdésnek való megfeleléshez használt eszközök alkalmasságát és hatékonyságát, valamint ezen eszközöknek a szolgáltatót terhelő költségeit.
+
+(6) E § alkalmazása nem vezethet általános nyomonkövetési kötelezettséghez.
+
+57/F. § (1) Az olyan tartalommegosztó szolgáltató, amelynek
+
+- a) szolgáltatása kevesebb, mint három éve érhető el a nyilvánosság számára az Európai Gazdasági Térség tagállamainak területén, és
+- b) a 2003/361/EK bizottsági ajánlással összhangban kiszámított éves forgalma nem éri el a 10 millió eurót a felelősség alóli mentesüléshez kizárólag az 57/E. § (2) bekezdés a) pontjában foglalt feltételnek köteles megfelelni azzal, hogy a jogosult által a jogosulatlan felhasználás okán megküldött értesítést követően köteles haladéktalanul intézkedni az értesítésben megjelölt műnek vagy szomszédos jogi teljesítménynek a szolgáltatása köréből való, az 57/E. § (2) bekezdésének c) pontja szerinti eltávolítása vagy hozzáférhetetlenné tétele érdekében.
+
+(2) Ha az (1) bekezdésben meghatározott tartalommegosztó szolgáltató egyedi látogatóinak havi átlagos száma az előző naptári év alapján számítva meghaladja az 5 milliót, a tartalommegosztó szolgáltató az (1) bekezdés szerinti mentesüléshez köteles azt is bizonyítani, hogy az adott helyzetben általában elvárható legnagyobb gondossággal járt el az értesítésben megjelölt mű vagy szomszédos jogi teljesítmény jövőbeni elérhetővé tételének megakadályozására.
+
+57/G. § (1) A tartalommegosztó szolgáltató hatékony és gyors jogorvoslat biztosítása érdekében panasztételi eljárást köteles működtetni a szolgáltatás igénybe vevői számára, különösen az általuk felhasznált mű vagy szomszédos jogi teljesítmény hozzáférhetetlenné tételével, valamint eltávolításával kapcsolatos viták rendezésére.
+
+(2) Az egyes művek vagy szomszédos jogi teljesítmények hozzáférhetetlenné tételére vagy eltávolítására vonatkozó panaszt megfelelően indokolni kell.
+
+(3) A szolgáltatás igénybe vevője által benyújtott, megfelelően indokolt panaszt a tartalommegosztó szolgáltatónak késedelem nélkül fel kell dolgoznia. A panasszal kapcsolatos döntésnek emberi felülvizsgálaton kell alapulnia.
+
+(4) Az e §-ban meghatározott panasztételi eljárás nem zárja ki a bírói úton való jogérvényesítést vagy alternatív vitarendezési eljárások igénybevételének lehetőségét.
+
+(5) A tartalommegosztó szolgáltató nem felel a szolgáltatás igénybe vevője által e § szerint benyújtott panasz nyomán ismét elérhetővé tett tartalomért.
+
+57/H. § (1) A tartalommegosztó szolgáltató általános felhasználási feltételeiben köteles tájékoztatást nyújtani a szolgáltatást igénybe vevő számára a művek és szomszédos jogi teljesítmények szabad felhasználásának lehetőségeiről.
+
+(2) A jogosult kérésére a tartalommegosztó szolgáltató köteles tájékoztatást nyújtani az 57/E. § (2) bekezdése szerinti eljárásairól, valamint a nyilvánosság számára lehívásra hozzáférhetővé tételre vonatkozó engedély alapján megvalósuló felhasználásokról.
 
 ## MÁSODIK RÉSZ — EGYES MŰFAJOKRA VONATKOZÓ RENDELKEZÉSEK
 
@@ -791,9 +998,9 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 (3) Az (1) és a (2) bekezdésben szabályozott cselekményekre a 33. § (2) bekezdését értelemszerűen alkalmazni kell.
 
-(4) A 34. § (2) bekezdése és a 38. § (1) bekezdése a szoftverre nem alkalmazható. A 49. § (1) bekezdésében szabályozott határidő szoftver esetében négy hónap.
+(4) A 16. § (4) bekezdése, a 34. § (2) bekezdése, a 38. § (1) bekezdése, a 48. §, az 50/A. §, az 51. §, az 55. § (1) bekezdése, valamint a 102. § a szoftverre nem alkalmazható. A 49. § (1) bekezdésében szabályozott határidő szoftver esetében négy hónap.
 
-(5) Nem kötelező a szoftver felhasználására vonatkozó szerződés írásba foglalása a szoftver műpéldányának a kereskedelmi forgalomban történő megszerzése esetén.
+(5)
 
 ### VII. Fejezet — ADATBÁZIS
 
@@ -817,7 +1024,7 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 (4) Semmis a felhasználási szerződésnek az a kikötése, amely eltér az (1) és a (2) bekezdésben foglaltaktól.
 
-(5) Nem kötelező az adatbázis felhasználására vonatkozó szerződés írásba foglalása az adatbázis műpéldányának a kereskedelmi forgalomban történő megszerzése esetén.
+(5)
 
 ### VIII. Fejezet — A REKLÁMOZÁS CÉLJÁRA MEGRENDELT MŰ
 
@@ -859,7 +1066,7 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 (4) Az előállító a szerződés alapján őt megillető jogokat más – akár belföldi, akár külföldi – természetes vagy jogi személlyel együttesen is gyakorolhatja.
 
-(5) Az előállító évente legalább egyszer köteles a filmalkotás felhasználásához kapcsolódó bevételeiről a szerzőnek felhasználási módonként írásban elszámolni.
+(5)
 
 (6) Ha az előállító a mű elfogadásától számított négy éven belül a megfilmesítést nem kezdi meg, vagy megkezdi ugyan, de ésszerű határidőre nem fejezi be, a szerző felmondhatja a szerződést és arányos díj megfizetését követelheti. A szerzőt ilyen esetben a felvett előleg megilleti, a művel pedig szabadon rendelkezik.
 
@@ -875,11 +1082,11 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 (2) A tervezőnek joga van meghatározni, hogy az épületen vagy a műszaki létesítményen a nevét és a tervezés idejét hol és hogyan tüntessék fel. E jogát azonban csak a tulajdonos, illetve a használó vagy az üzemeltető jogainak és törvényes érdekeinek indokolatlan vagy aránytalan sérelme nélkül gyakorolhatja.
 
-(3) A szerző nevét abban az esetben kell a látképen feltüntetni, ha azon egy meghatározott képzőművészeti, építészeti, iparművészeti vagy ipari tervezőművészeti alkotás, vagy műszaki létesítmény bemutatása szerepel. Ilyen alkotások tudományos ismeretterjesztő előadás, illetőleg iskolai oktatás céljára [33. § (4) bek.] történő felhasználásakor ugyancsak meg kell jelölni a szerzőt.
+(3) A szerző nevét abban az esetben kell a látképen feltüntetni, ha azon egy meghatározott képzőművészeti, építészeti, iparművészeti vagy ipari tervezőművészeti alkotás, vagy műszaki létesítmény bemutatása szerepel. Ilyen alkotások tudományos ismeretterjesztő előadás, illetőleg iskolai oktatás céljára [33/A. § (1) bek. 1. pont] történő felhasználásakor ugyancsak meg kell jelölni a szerzőt.
 
 (4) Építészeti vagy műszaki alkotás tervének változatlan újabb felhasználása esetén csak az eredeti terv szerzőjét kell feltüntetni.
 
-(5) A 34. § (1) bekezdésében foglalt rendelkezés képzőművészeti, fotóművészeti és iparművészeti alkotások felhasználására nem alkalmazható.
+(5)
 
 (6) A mű használója köteles tűrni, hogy a művet az arra jogosultak bemutassák és arról felvételeket készítsenek, ha ez méltányos érdekeit nem sérti.
 
@@ -917,13 +1124,15 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 - d) 0,5 százaléka a vételárnak a 350 000,01 és 500 000 eurónak megfelelő forintösszeg közötti részében;
 - e) 0,25 százaléka a vételárnak az 500 000 eurónak megfelelő forintösszeg feletti részében.
 
+(4a) A (4) bekezdés szerinti vételár megállapítása során a mű ellenértékéből az adón és más köztartozáson kívül semmilyen más összeg nem vonható le.
+
 (5) A díj mértéke nem haladhatja meg a 12 500 eurónak megfelelő forintösszeget.
 
 (6) A díjfizetési kötelezettség nem terjed ki az (1) bekezdésben szabályozott átruházásra, ha az adót és más köztartozást (pl. kulturális járulékot) nem tartalmazó vételár nem haladja meg az 5000 forintot.
 
 (7) A forintösszeg számításánál a Magyar Nemzeti Banknak a szerződéskötés szerinti naptári negyedév első napján érvényes hivatalos devizaárfolyama irányadó.
 
-(8) Ha muzeális intézmény nem műkereskedőtől szerzi meg az eredeti műalkotás tulajdonjogát, az (1) bekezdésben meghatározott szerzői díjat nem kell megfizetni, feltéve, hogy a muzeális intézmény működése jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja.
+(8) Ha muzeális intézmény műkereskedőnek nem minősülő természetes személytől szerzi meg az eredeti műalkotás tulajdonjogát, az (1) bekezdésben meghatározott szerzői díjat nem kell megfizetni, feltéve, hogy a muzeális intézmény működése jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja.
 
 (9) A szerzői díjat a műkereskedő fizeti meg a képzőművészeti és iparművészeti alkotásokra vonatkozó szerzői jogok közös kezelését végző szervezetnek. Ha a tulajdonjog átruházását eredményező ügyletben több műkereskedő működik közre, a műkereskedők a díj megfizetéséért egyetemlegesen felelnek. Ilyen esetben egymás között a kötelezettség a műkereskedők közül – ha eltérően nem állapodnak meg – az eladót terheli. Ha az ügyletben közreműködő műkereskedők közül egyik sem vesz részt eladóként az átruházásban, eltérő megállapodás hiányában a kötelezettség közülük a vevőt terheli.
 
@@ -981,7 +1190,7 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 75. § (1) A 73. § (1) bekezdésében említett felhasználások esetén az előadóművészt megilleti az a személyhez fűződő jog, hogy nevét – a felhasználás jellegétől függően, ahhoz igazodó módon – feltüntessék. Előadóművészek együttese esetében ez a jog az együttes, valamint az együttes vezetője és a főbb közreműködők nevének feltüntetésére terjed ki.
 
-(2) Az előadóművész személyhez fűződő jogát sérti előadásának mindenfajta eltorzítása, megcsonkítása, más olyan megváltoztatása vagy az előadással kapcsolatos más olyan visszaélés, amely az előadóművész becsületére vagy hírnevére sérelmes.
+(2) Az előadóművész személyhez fűződő jogát sérti előadásának a becsületére vagy jóhírnevére sérelmes mindenfajta eltorzítása, megcsonkítása, megváltoztatása és az előadással kapcsolatos más ilyen jellegű visszaélés.
 
 ### A hangfelvételek előállítóinak védelme
 
@@ -1036,6 +1245,31 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 (3) A 2. §-t megfelelően alkalmazni kell a film előállítójának védelmére is.
 
+### A sajtókiadványok kiadóinak védelme
+
+82/A. § (1) Ezen alcím alkalmazásában sajtókiadványnak minősül az a főként újságírói jellegű irodalmi művekből álló – akár egyéb műveket vagy szomszédos jogi teljesítményeket is tartalmazó – gyűjtemény, amely
+
+- a) egy azonos cím alatt megjelenő időszakos kiadvány vagy rendszeresen aktualizált kiadvány,
+- b) célja a nyilvánosság tájékoztatása hírekről vagy más témákról, és
+- c) valamely szolgáltató kezdeményezésére, szerkesztői felelősségére és ellenőrzése mellett jelenik meg sajtótermékben.
+
+(2) Nem minősül sajtókiadványnak a tudományos céllal kiadott időszaki kiadvány.
+
+82/B. § (1) A sajtókiadvány kiadójának hozzájárulása szükséges ahhoz, hogy a sajtókiadványt
+
+- a) vezeték útján vagy bármely más eszközzel vagy módon úgy tegyék a nyilvánosság számára hozzáférhetővé, hogy a nyilvánosság tagjai a hozzáférés helyét és idejét egyénileg választhassák meg, és
+- b) az a) pont szerinti célból elektronikus úton többszörözzék, amennyiben a felhasználást az Ektv. 2. § k) pontja szerinti szolgáltató valósítja meg.
+
+(2) A sajtókiadvány kiadóját az (1) bekezdésben meghatározott felhasználásokért – ha a törvény eltérően nem rendelkezik – díjazás illeti meg.
+
+(3) A sajtókiadvány kiadója köteles megfelelő mértékű részesedést biztosítani a sajtókiadvány (1) bekezdés szerinti felhasználásából eredő bevételeiből a sajtókiadványban megjelent művek szerzőinek.
+
+82/C. § Nem szükséges a sajtókiadvány kiadójának hozzájárulása a nyilvánosságra hozott
+
+- a) sajtókiadványra mutató hiperhivatkozás,
+- b) sajtókiadvány egyes szavai vagy nagyon rövid részletei, vagy
+- c) sajtókiadvány egyéni felhasználók általi magáncélú vagy nem kereskedelmi célú felhasználásához.
+
 ### A szerzői jog és a szomszédos jogok viszonya
 
 83. § (1) Az e fejezetben szabályozott jogok védelme nem befolyásolhatja az irodalmi, tudományos és művészeti alkotásokon fennálló szerzői jogok védelmét.
@@ -1051,7 +1285,8 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 - c) a hangfelvételben rögzített előadások a hangfelvétel első forgalomba hozatalát követő év első napjától számított hetven évig vagy a hangfelvétel elkészítését követő év első napjától számított ötven évig, ha ezalatt nem hozták forgalomba a hangfelvételt;
 - d) a hangfelvételek a hangfelvétel első forgalomba hozatalát követő év első napjától számított hetven évig vagy a hangfelvétel elkészítését követő év első napjától számított ötven évig, ha ezalatt nem hozták forgalomba a hangfelvételt;
 - e) a sugárzott műsorok vagy a vezeték útján a nyilvánossághoz átvitt saját műsorok az első sugárzást vagy átvitelt követő év első napjától számított ötven évig;
-- f) a filmek az első forgalomba hozatalt követő év első napjától számított ötven évig, vagy a film elkészítését követő év első napjától számított ötven évig, ha ezalatt nem hozták forgalomba a filmet.
+- f) a filmek az első forgalomba hozatalt követő év első napjától számított ötven évig, vagy a film elkészítését követő év első napjától számított ötven évig, ha ezalatt nem hozták forgalomba a filmet;
+- g) a sajtókiadvány első nyilvánosságra hozatalát követő év első napjától számított két évig.
 
 (2) Az (1) bekezdés b) és f) pontjában szabályozott ötvenéves időtartamot, valamint c) pontjában szabályozott hetvenéves időtartamot az első ízben a nyilvánossághoz történő közvetítést követő év első napjától kell számítani, ha a teljesítményt az elkészítésétől számított ötven év alatt nem hozták forgalomba, de a nyilvánossághoz közvetítésére sor került, vagy a nyilvánossághoz közvetítés megelőzi a forgalomba hozatalt. Hangfelvételek esetében [(1) bekezdés d) pont] a hetvenéves időtartamot az első ízben a nyilvánossághoz történő közvetítést követő év első napjától kell számítani, ha a hangfelvételt az elkészítésétől számított ötven év alatt nem hozták forgalomba, de ezalatt a nyilvánossághoz közvetítették.
 
@@ -1101,17 +1336,29 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 (3a) Az adatbázis a 41. § (1a)–(1g) bekezdésében foglaltak megfelelő alkalmazásával nem üzletszerű célra szabadon kimásolható vagy újrahasznosítható, ha a kimásolás vagy újrahasznosítás kizárólag az ott meghatározott fogyatékossággal élő személyek javára, fogyatékosságukkal közvetlen összefüggésben történik, és az nem haladja meg a fogyatékosság által indokolt mértéket.
 
-(4) A szabad felhasználásnak az (1)–(3a) bekezdésben szabályozott eseteire a 33. §-t megfelelően alkalmazni kell.
+(4)
 
-84/D. § (1) Az e fejezetben szabályozott jogok a következő időtartamban részesülnek védelemben: az adatbázis első nyilvánosságra hozatalát követő év első napjától számított tizenöt évig, illetve az adatbázis elkészítését követő év első napjától számított tizenöt évig, ha ezalatt nem hozták nyilvánosságra az adatbázist.
+84/D. § (1) Nem szükséges az adatbázis-előállító engedélye az adatbázis 84/A. § (1)–(3) bekezdése szerinti felhasználása esetében, amennyiben a felhasználás kulturális örökségvédelmi intézmények [33/A. § (1) bek. 2. pont] általi, kereskedelmi forgalomban nem elérhető, gyűjteményének állandó részét képező adatbázis 26. § (8) bekezdése szerinti felhasználását célozza, feltéve, hogy
+
+- a) a felhasználás során az adatbázis előállítójának neve – amennyiben ez lehetséges – feltüntetésre kerül,
+- b) a felhasználás nem kereskedelmi céllal fenntartott honlapon valósul meg, és
+- c) a felhasználni kívánt adatbázis tekintetében a kizárólagos jog gyakorlására reprezentatív közös jogkezelő szervezet nem rendelkezik engedéllyel.
+
+(2) Szabad felhasználás az adatbázison végzett szöveg- és adatbányászathoz szükséges kimásolás [84/A. § (1) bek. a) pont], amennyiben a 35/A. § (1) bekezdésében foglalt követelményeknek megfelel.
+
+(3) Szabad felhasználás a kutatóhelyek és kulturális örökségvédelmi intézmények [33/A. § (1) bek. 2. pont] által adatbázison tudományos kutatás céljából végzett szöveg- és adatbányászathoz szükséges kimásolás [84/A. § (1) bek. a) pont], feltéve, hogy a 35/A. § (2) bekezdésében foglalt követelményeknek megfelel.
+
+84/E. § A szabad felhasználásnak a 84/C. és 84/D. §-ban szabályozott eseteire a 33. §-t is alkalmazni kell.
+
+84/F. § (1) Az e fejezetben szabályozott jogok a következő időtartamban részesülnek védelemben: az adatbázis első nyilvánosságra hozatalát követő év első napjától számított tizenöt évig, illetve az adatbázis elkészítését követő év első napjától számított tizenöt évig, ha ezalatt nem hozták nyilvánosságra az adatbázist.
 
 (2) Az adatbázisnak az (1) bekezdés szerint számított védelmi ideje újra kezdődik, ha az adatbázis tartalmát jelentősen megváltoztatják úgy, hogy annak eredményeként a megváltoztatott adatbázis önállóan is jelentős ráfordítással előállítottnak számít. Az adatbázis tartalmának jelentős megváltoztatása eredhet az egymást követő bővítések, elhagyások és módosítások halmozódásából is.
 
-84/E. § (1) Az e fejezetben szabályozott jogokra a 83. § (1) bekezdését megfelelően alkalmazni kell.
+84/G. § (1) Az e fejezetben szabályozott jogokra a 83. § (1) bekezdését kell alkalmazni.
 
 (2) Ha e törvény szerint az adatbázis előállítójának díjazás jár, a 16. § (4) bekezdésének első mondatában foglalt – a díjazás arányos mértékére vonatkozó – rendelkezést az adatbázis előállítója esetében is alkalmazni kell.
 
-(3) Ahol más jogszabály szomszédos jogot vagy szomszédos jogokat említ, azon – a jogszabály eltérő rendelkezése hiányában, illetve a nemzetközi szerződést kihirdető jogszabály kivételével – az adatbázis előállítójának jogát vagy jogait is érteni kell.
+(3) Ahol jogszabály szomszédos jogot vagy szomszédos jogokat említ, azon – jogszabály eltérő rendelkezése hiányában, illetve a nemzetközi szerződést kihirdető jogszabály kivételével – az adatbázis előállítójának jogát vagy jogait is érteni kell.
 
 ## NEGYEDIK RÉSZ — KÖZÖS JOGKEZELÉS ÉS A JOGSÉRTÉS KÖVETKEZMÉNYEI
 
@@ -1276,7 +1523,7 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 (4) Az (1) és a (2) bekezdésben foglalt rendelkezések nem érintik az 59. §-ban és a 60. § (1)–(3) bekezdéseiben foglalt rendelkezések alkalmazását. Szoftver esetében a (2) bekezdést csak olyan eszköz, termék vagy alkatrész forgalomba hozatalára vagy kereskedelmi céllal történő birtoklására kell alkalmazni, amelynek egyedüli szándékolt célja, hogy megkönnyítse a szoftver védelmére szolgáló műszaki megoldás engedély nélküli megkerülését vagy eltávolítását.
 
-95/A. § (1) A reprográfiával [21. § (1) bek.] történő magáncélú másolás [35. § (1) bek.], továbbá a 34. § (2) bekezdésében, a 35. § (4) és (7) bekezdésében és a 41. §-ban szabályozott szabad felhasználási esetek tekintetében a szabad felhasználás kedvezményezettje követelheti, hogy a jogosult a műszaki intézkedések megkerülésével szemben a 95. § alapján biztosított védelem ellenére tegye lehetővé számára a szabad felhasználást, feltéve, hogy a szabad felhasználás kedvezményezettje a műhöz jogszerűen férhet hozzá. Ha a felek között nem jön létre megállapodás a szabad felhasználás lehetővé tételének feltételeiről, a felek bármelyike kezdeményezheti a 105/A. § alapján történő eljárást.
+95/A. § (1) A reprográfiával [21. § (1) bek.] történő magáncélú másolás [35. § (1) bek.], továbbá a 34. § (2) bekezdésében, 35. § (4) és (7) bekezdésében, a 35/A. § (2) bekezdésében a 41. §-ban, a 41/M. § (4) bekezdésében, a 84/D. § (1) bekezdésében és a 84/D. § (3) bekezdésében szabályozott szabad felhasználási esetek tekintetében a szabad felhasználás kedvezményezettje követelheti, hogy a jogosult a műszaki intézkedések megkerülésével szemben a 95. § alapján biztosított védelem ellenére tegye lehetővé számára a szabad felhasználást, feltéve, hogy a szabad felhasználás kedvezményezettje a műhöz jogszerűen férhet hozzá. Ha a felek között nem jön létre megállapodás a szabad felhasználás lehetővé tételének feltételeiről, a felek bármelyike kezdeményezheti a 105/A. § alapján történő eljárást.
 
 (2) Az (1) bekezdés – a 41. § (1)–(1c) bekezdésében szabályozott szabad felhasználási esetek kivételével – nem alkalmazható, ha a művet szerződés alapján teszik úgy a nyilvánosság számára hozzáférhetővé, hogy a nyilvánosság tagjai a hozzáférés helyét és idejét egyénileg választhassák meg, így különösen a 26. § (8) bekezdése, 73. § (1) bekezdés e) pontja, 76. § (1) bekezdés c) pontja, 80. § (1) bekezdés d) pontja, 82. § (1) bekezdés c) pontja szerinti esetekben.
 
@@ -1318,23 +1565,29 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 ### Szerzői jogi szakértő testület
 
-101. § (1) Szerzői jogi jogvitás ügyben felmerülő szakkérdésekben a bíróságok és más hatóságok szakvéleményt kérhetnek a Hivatal mellett működő szakértő testülettől. A testület tagjait az igazságügyért felelős miniszter a kultúráért felelős miniszterrel egyetértésben ötéves időtartamra nevezi ki.
+101. § (1) Szerzői jogi jogvitás ügyben felmerülő szakkérdésben bármely bíróság vagy hatóság szakvéleményt kérhet a Hivatal mellett működő Szerzői Jogi Szakértő Testülettől (a továbbiakban: SZJSZT). Az SZJSZT tagjait az igazságügyért felelős miniszter a kultúráért felelős miniszterrel egyetértésben ötéves időtartamra nevezi ki.
 
 (2)
 
-(3) A szerzői jogi szakértő testület felkérésre peren kívül is adhat szakvéleményt a felhasználási jog gyakorlásával kapcsolatos kérdésekben.
+(3) Az SZJSZT felkérésre peren kívül is adhat szakvéleményt a felhasználási jog gyakorlásával kapcsolatos kérdésekben.
 
-(4) Ha bíróság vagy más hatóság kér szakvéleményt a szerzői jogi szakértő testülettől, az ügy érdemében hozott határozatról – egy példányának megküldésével – a testületet értesíteni kell.
+(4) Ha bíróság vagy más hatóság kér szakvéleményt az SZJSZT-től, az ügy érdemében hozott határozatról – egy példányának megküldésével – az SZJSZT-t értesíteni kell.
 
-(5) A testület szervezetének és működésének részletes szabályait külön jogszabály állapítja meg.
+(5) Az SZJSZT szervezetének és működésének részletes szabályait külön jogszabály állapítja meg.
+
+(6) Az (1) és a (3) bekezdés alapján elkészített szakvéleményeket a Hivatal elektronikus úton bárki számára hozzáférhető adatbázisba foglalja. Az adatbázisban megjelenő szakvélemények a felek megnevezését és az ügy egyéb azonosítást lehetővé tevő tényállási elemeit nem tartalmazhatják.
+
+(7) Ha a (3) bekezdés szerinti felkérésben a felek az ügy és az SZJSZT szakvéleményének titokban tartását kérik, az adatbázis csak az ügy számát, tárgyát, és a felhasználási jog gyakorlásával kapcsolatos kérdésekben tett – kivonatolt – megállapításokat tartalmazza.
+
+(8) Az SZJSZT eljáró tanácsának tagjai a felkérés vagy kirendelés teljesítéséhez szükséges mértékben hozzáférhetnek a (6) bekezdés szerinti adatokat tartalmazó szakvéleményekhez, abban az esetben is, ha a felek a (7) bekezdés szerinti titkosítást kérték.
 
 ### Egyeztető testület
 
-102. § Ha a felhasználó és a jogosult között vagy a felhasználók vagy érdekképviseleti szervezetük és a jogosultak közös jogkezelő szervezete között nem jön létre megállapodás a díjazásról és a felhasználás egyéb feltételeiről, továbbá a közös jogkezelő szervezetek, a közös jogkezelő szervezetek tagjai, a jogosultak vagy a felhasználók között a közös jogkezeléssel összefüggésben felmerülő egyéb jogvita esetén bármelyik fél a 103. § alapján létrehozott egyeztető testülethez fordulhat.
+102. § Ha a felhasználó és a jogosult között vagy a felhasználók vagy érdekképviseleti szervezetük és a jogosultak közös jogkezelő szervezete között nem jön létre megállapodás a díjazásról és a felhasználás egyéb feltételeiről, továbbá a közös jogkezelő szervezetek, a közös jogkezelő szervezetek tagjai, a jogosultak vagy a felhasználók között a közös jogkezeléssel összefüggésben – illetve a 48. § és az 50/A. § vonatkozásában – felmerülő egyéb jogvita esetén a felek a 103. § alapján létrehozott egyeztető testülethez fordulhatnak.
 
-103. § (1) Az egyeztető testület megalakítására a választottbíráskodásról szóló 1994. évi LXXI. törvény II. fejezetében foglalt szabályokat kell alkalmazni azzal, hogy az egyeztető testület tagjait a szerzői jogi szakértő testület (101. §) tagjai közül kell kijelölni.
+103. § (1) Az egyeztető testület megalakítására a választottbíráskodásról szóló törvénynek a választottbírósági tanács összetételére vonatkozó szabályait kell alkalmazni azzal, hogy az egyeztető testület tagjait az SZJSZT tagjai közül kell kijelölni.
 
-(2) Az egyeztető testület a szerzői jogi szakértő testületen belül működik.
+(2) Az egyeztető testület az SZJSZT-n belül működik.
 
 104. § (1) Az egyeztető testület eljárásának célja, hogy a felek közötti, a díjazásról és a felhasználás egyéb feltételeiről szóló megállapodás vagy a közös jogkezeléssel összefüggésben felmerült egyéb jogvitát lezáró egyezség létrehozását elősegítse. A reprezentatív közös jogkezelő szervezet által megállapított díjszabással kapcsolatos vitában kezdeményezett egyeztető testületi eljárásról a testület haladéktalanul tájékoztatja az igazságügyért felelős minisztert, a kultúráért felelős minisztert és a Hivatalt.
 
@@ -1348,21 +1601,21 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 105. § (1) Az egyeztető testület eljárása során a feleket egyenlő elbánásban kell részesíteni, és mindegyik félnek meg kell adni a lehetőséget, hogy álláspontját előadhassa. Az egyeztető testület a feleket az eljárásban való részvételre, eljárási cselekmények lefolytatására nem kötelezheti, kivéve, ha a felek ebben megállapodnak. Egyebekben az egyeztető testület – a (2) bekezdésben említett szabályzat keretein belül – az eljárási szabályait, valamint a díjszabását maga állapítja meg.
 
-(2) Az egyeztető testület eljárási szabályzatát a szerzői jogi szakértő testület dolgozza ki, és az igazságügyért felelős miniszter hagyja jóvá. A jóváhagyást megelőzően be kell szerezni a Hivatal felügyeletét ellátó miniszternek, valamint a kultúráért felelős miniszternek a véleményét.
+(2) Az egyeztető testület eljárási szabályzatát az SZJSZT dolgozza ki, és az igazságügyért felelős miniszter hagyja jóvá. A jóváhagyást megelőzően be kell szerezni a Hivatal felügyeletét ellátó miniszternek, valamint a kultúráért felelős miniszternek a véleményét.
 
 105/A. § (1) Ha a szabad felhasználás kedvezményezettje és a jogosult között nem jön létre megállapodás arról, hogy a szabad felhasználást a műszaki intézkedések megkerülésével szemben biztosított védelem (95. §) ellenére milyen feltételekkel teszik lehetővé (95/A. §), a felek bármelyike az egyeztető testülethez fordulhat.
 
 (2) Az (1) bekezdésben meghatározott eljárást a kedvezményezettek érdek-képviseleti szervezetei is megindíthatják. Ebben az esetben az egyeztető testület döntése alapján létrejött megállapodás hatálya – ellenkező kikötés hiányában – az érdek-képviseleti szervezetnek azokra a tagjaira terjed ki, akik egyben a szabad felhasználás kedvezményezettjei is.
 
-(3) Az egyeztető testület megalakítására a 103. §-t kell megfelelően alkalmazni azzal, hogy az egyeztető testület tagjait a szerzői jogi szakértő testület elnöke jelöli ki, ha a felek az egyeztető testület tagjainak személyében – az eljárás megindításától számított nyolc napon belül – nem állapodnak meg.
+(3) Az egyeztető testület megalakítására a 103. §-t kell megfelelően alkalmazni azzal, hogy az egyeztető testület tagjait az SZJSZT elnöke jelöli ki, ha a felek az egyeztető testület tagjainak személyében – az eljárás megindításától számított nyolc napon belül – nem állapodnak meg.
 
 (4) Az egyeztető testület eljárására a 104. § (1)–(2) bekezdéseit és a 105. § (2) bekezdését megfelelően alkalmazni kell.
 
 (5) A javasolt megállapodást a felek kifejezetten vagy hallgatólagosan elfogadhatják. Hallgatólagos elfogadásnak kell tekinteni, ha a megállapodási javaslatot a fél a kézbesítéstől számított harminc napon belül nem kifogásolja az egyeztető testületnél.
 
-(6) Ha az egyeztető testület a 105. §-ban foglalt szabályok megsértésével járt el, a sérelmet szenvedett fél az egyeztető testület javaslata alapján létrejött megállapodást annak létrejöttétől számított 30 napon belül a bíróság előtt keresettel megtámadhatja.
+(6) Ha az egyeztető testület a 105. §-ban foglalt szabályok megsértésével járt el, a sérelmet szenvedett fél az egyeztető testület javaslata alapján létrejött megállapodást annak létrejöttétől számított harminc napon belül a bíróság előtt megtámadhatja.
 
-(7) Ha a megállapodás az (5) bekezdés alapján nem jött létre, a szabad felhasználás kedvezményezettje az (5) bekezdésben megállapított határidő lejártát követő 15 napon belül a bírósághoz fordulhat, és kérheti, hogy a bíróság kötelezze a jogosultat a szabad felhasználásnak a keresetben meghatározott feltételek szerinti lehetővé tételére.
+(7) Ha a megállapodás az (5) bekezdés alapján nem jött létre, a szabad felhasználás kedvezményezettje az (5) bekezdésben megállapított határidő lejártát követő tizenöt napon belül a bírósághoz fordulhat, és kérheti, hogy a bíróság kötelezze a jogosultat a szabad felhasználásnak a keresetben meghatározott feltételek szerinti lehetővé tételére.
 
 (8) A (6) és a (7) bekezdésben meghatározott perindítás joga – az ott megjelölt határidőn belül – a kedvezményezettek érdek-képviseleti szervezeteit is megilleti azzal, hogy a jogerős érdemi határozat hatálya e szervezeteknek az e törvény értelmében kedvezményezett tagjaira terjed ki.
 
@@ -1398,7 +1651,7 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 (2) A törvény 21. §-ában foglalt rendelkezéseket, valamint a 22. §-ának a reprográfiára szolgáló készülékkel kapcsolatos előírásait 2000. szeptember 1-jétől kell alkalmazni.
 
-(3) A 111. § (1) és (2) bekezdésével megállapított rendelkezéseket az e törvény hatálybalépését követően indult végrehajtási eljárásokban kell alkalmazni.
+(3)
 
 108. § (1) A 31. § rendelkezéseit alkalmazni kell olyan művekre is, amelyeknek a korábban hatályos rendelkezések szerint számított védelmi ideje az egyes iparjogvédelmi és szerzői jogi jogszabályok módosításáról szóló 1994. évi VII. törvény hatálybalépéséig már lejárt.
 
@@ -1424,11 +1677,9 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 109. § E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi XVI. törvénnyel megállapított 31. § (6) bekezdését akkor kell alkalmazni, ha az nem eredményezi az e törvény hatálybalépését megelőzően hatályos rendelkezések szerint számított védelmi idő megrövidülését. E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi XVI. törvénnyel megállapított 31. § (6) bekezdését alkalmazni kell az olyan filmalkotásra is, amelynek védelmi ideje e törvény hatálybalépésekor már eltelt. A 108. § (3)–(9) bekezdését ilyen esetben is alkalmazni kell azzal, hogy az 1994. évi VII. törvény hatálybalépése helyett e törvény hatálybalépését kell érteni.
 
-109/A. § E törvénynek a Magyar Köztársaság minisztériumainak felsorolásáról szóló 2010. évi XLII. törvénnyel összefüggésben szükséges törvénymódosításokról és egyes iparjogvédelmi tárgyú törvények módosításáról szóló 2010. évi CXLVIII. törvénnyel megállapított 90. § (2) és (4) bekezdését, valamint 93. § (4)–(6) bekezdését a 2011. január 1-jét követően indult díjszabás-jóváhagyási eljárásokban kell alkalmazni.
+109/A. §
 
-110. § (1) E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2011. évi CLXXIII. törvénnyel megállapított 89. § (13) bekezdésében foglaltakat első alkalommal a 2012. évre vonatkozó beszámolóra kell alkalmazni.
-
-(2) E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2011. évi CLXXIII. törvénnyel megállapított 92. § (1) bekezdésében foglalt feltételek teljesítéséről a közös jogkezelő egyesület 2012. május 1-jéig köteles tájékoztatni a Hivatalt az alapszabály módosításának tudomásulvételéről szóló bírósági jogerős végzés, valamint az alapszabály megküldésével.
+110. §
 
 111. § (1) E törvénynek a szerzői jogról szóló 1999. évi LXXVI. törvény módosításáról szóló 2001. évi LXXVII. törvénnyel az adatbázis-előállítók védelmére vonatkozóan megállapított rendelkezéseit alkalmazni kell arra az adatbázisra is, amelyet 1982. december 31. és 2002. január 1. között készítettek el, feltéve, hogy 2002. január 1-jén az adatbázis megfelelt – a szerzői jogról szóló 1999. évi LXXVI. törvény módosításáról szóló 2001. évi LXXVII. törvénnyel megállapított – XI/A. fejezetben szabályozott védelem feltételeinek. Az ilyen adatbázis előállítójának jogai 2002. január 1-jétől kezdődően 2013. január 1-jéig részesülnek védelemben.
 
@@ -1452,9 +1703,7 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 111/E. § E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi XVI. törvénnyel megállapított 55. § (2) bekezdésében szabályozott felmondási jog az e törvény hatálybalépése előtt kötött szerződések tekintetében is csak írásban gyakorolható.
 
-111/F. § (1) E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi CLIX. törvénnyel megállapított 89. § (11) és (11b) bekezdésében foglaltakat az NKA számára 2014. január 1-jét követően átadott bevételekre kell alkalmazni.
-
-(2) E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi CLIX. törvénnyel megállapított 89. § (11a) bekezdésében foglaltakat első alkalommal a 2013. évben beszedett bevételekre kell alkalmazni. A közös jogkezelő szervezet által a 20. és 21. §-ban meghatározott díjakból származó, 2013. évben beszedett bevételéből 2014. január 1-jét megelőzően az NKA részére kulturális célú felhasználásra átadott összeget a 89. § (11a) bekezdésében előírt átadási kötelezettség teljesítése során be kell számítani.
+111/F. §
 
 111/G. § E törvénynek a szellemi tulajdonra vonatkozó egyes törvények módosításáról szóló 2013. évi CLIX. törvénnyel megállapított 41/F–41/K. §-át az olyan műre és hangfelvételre kell alkalmazni, amelyet 2014. október 29-én vagy azt követően e törvény szerint védelem illet meg.
 
@@ -1462,11 +1711,29 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
 111/I. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
+111/J. § (1) Ha a sajtókiadványt 2019. június 6. napján vagy azt követően hozták nyilvánosságra, a 82/B. § szerinti, a szerzői jogról szóló 1999. évi LXXVI. törvény és a szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény jogharmonizációs célú módosításáról szóló 2021. évi XXXVII. törvény (a továbbiakban: 2021. évi XXXVII. törvény) által megállapított kizárólagos jogok megilletik a sajtókiadvány kiadóját is. A sajtókiadvány kiadója ezen kizárólagos jogait csak a 2021. június 1. napján, vagy ezt követően megvalósult felhasználások tekintetében gyakorolhatja.
+
+(2) A Hivatal 2021. július 1-jén, külön eljárás lefolytatása nélkül kiegészíti a 26. § (5a) bekezdése szerinti vagyoni joggal azon közös jogkezelő szervezet engedélyét, illetve nyilvántartási bejegyzését, amely a 26. § (3) bekezdése szerinti jog, vagy a 77. § (1) bekezdése szerinti díjigény gyakorlására 2021. június 1. napján a Hivatal nyilvántartása szerint jogosult, kivéve, ha a szervezet 2021. június 30-ig kéri a Hivatalnál ennek mellőzését. A nyilvántartásnak a Hivatal által e bekezdés alapján történő kiegészítése nem minősül a Kjkt. 33. § (2) bekezdése szerinti engedélyszerzésnek.
+
+(3) Az a reprezentatív közös jogkezelő szervezet, amelynek az engedélye kiterjed a 26. § (5a) bekezdése szerinti vagyoni jogra, e jog tekintetében akkor is kezdeményezheti a Kjkt. 147. § (1) bekezdése szerinti jóváhagyási eljárás lefolytatását, ha a díjszabás alkalmazhatóságára hat hónapnál rövidebb idő állna rendelkezésre.
+
+(4) A (3) bekezdés szerint lefolytatott eljárásban nem alkalmazandó a Kjkt. 147. § (2) bekezdése, a tervezet alkalmazási időszakának legkorábbi időpontjaként a 2021. november 1. adható meg, a díjszabás alkalmazási időszakának végső időpontjaként pedig 2022. december 31. napját kell megjelölni.
+
+(5) Az a reprezentatív közös jogkezelő szervezet, amelynek díjszabása a (3)–(4) bekezdés szerinti speciális eljárásban került jóváhagyásra, nem jogosult a 2021. évben a 26. § (5a) bekezdése szerinti vagyoni jog tekintetében a Kjkt. 146. §-a szerinti díjszabás-jóváhagyási eljárás lefolytatásának kezdeményezésére.
+
+(6) A 2021. június 1. napján folyamatban lévő árva mű felhasználásának engedélyezésével kapcsolatos eljárásokra (41/B. §) e törvénynek a 2021. évi XXXVII. törvénnyel megállapított 41/A. § (2) bekezdését, 41/A. § (9) bekezdését, 41/B. § (1b) bekezdés c) pontját, 41/B. § (7) és (8) bekezdését, 41/B. § (9) bekezdését kell alkalmazni.
+
+(7) A 2021. június 1. napja előtt keletkezett és szerződésszerűen teljesített felhasználási szerződést érvényesnek kell tekinteni, ha e törvénynek a 2021. évi XXXVII. törvénnyel megállapított 45. § (2) és (3) bekezdésében foglalt alaki követelményeknek megfelel.
+
+(8) E törvénynek a 2021. évi XXXVII. törvénnyel megállapított 50/A. §-ában foglalt tájékoztatási kötelezettségnek a felhasználó a 2022. január 1. napján, valamint azt követően megvalósult felhasználások tekintetében köteles eleget tenni.
+
+(9) Az 57/F. § (1) bekezdés a) pontját 2023. január 1. napjától kell alkalmazni.
+
 ### Felhatalmazások
 
 112. § (1) Felhatalmazást kap a Kormány, hogy a reprográfiára szolgáló készülékek körét – az érintett érdekképviseleti szervek véleményének figyelembevételével – rendelettel meghatározza.
 
-(2) Felhatalmazást kap a Kormány, hogy rendelettel megállapítsa a szerzői jogi szakértő testület szervezetének és működésének részletes szabályait.
+(2) Felhatalmazást kap a Kormány, hogy rendelettel megállapítsa az SZJSZT szervezetének és működésének részletes szabályait.
 
 (3) Felhatalmazást kap a Kormány, hogy az e törvény 38. §-ának (5) bekezdésében szabályozott szabad felhasználás esetében a nyilvánosság egyes tagjaihoz való közvetítés és a számukra történő hozzáférhetővé tétel módját és feltételeit rendelettel meghatározza.
 
@@ -1498,6 +1765,7 @@ feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 - i) a Bizottság 2006/585/EK ajánlása (2006. augusztus 24.) a kulturális anyagok digitalizálásáról és online hozzáférhetővé tételéről, valamint a digitális megőrzésről 6. pont a) és c) alpontja,
 - j) az Európai Parlament és a Tanács 2012/28/EU irányelve (2012. október 25.) az árva művek egyes megengedett felhasználási módjairól,
 - k) a szerzői és szomszédos jogi védelemben részesülő egyes műveknek és más teljesítményeknek a vakok, látáskárosultak és nyomtatott szöveget egyéb okból használni képtelen személyek érdekét szolgáló egyes megengedett felhasználási módjairól, valamint az információs társadalomban a szerzői és szomszédos jogok egyes vonatkozásainak összehangolásáról szóló 2001/29/EK irányelv módosításáról szóló, 2017. szeptember 13-ai (EU) 2017/1564 európai parlamenti és tanácsi irányelv,
-- l) a digitális egységes piacon a szerzői és szomszédos jogokról, valamint a 96/9/EK és a 2001/29/EK irányelv módosításáról szóló, 2019. április 17-i (EU) 2019/790 európai parlamenti és tanácsi irányelv.
+- l) a digitális egységes piacon a szerzői és szomszédos jogokról, valamint a 96/9/EK és a 2001/29/EK irányelv módosításáról szóló, 2019. április 17-i (EU) 2019/790 európai parlamenti és tanácsi irányelv,
+- m) a műsorszolgáltató szervezetek egyes online közvetítéseire, valamint televíziós és rádiós műsorok továbbközvetítésére alkalmazandó szerzői jogok és szerzői joggal szomszédos jogok gyakorlására vonatkozó szabályok megállapításáról, valamint a 93/83/EGK tanácsi irányelv módosításáról szóló, 2019. április 17-i (EU) 2019/789 európai parlamenti és tanácsi irányelv.
 
 (2) Ez a törvény a szerzői és szomszédos jogi védelemben részesülő egyes művek és más teljesítmények hozzáférhető formátumú példányainak a vakok, látáskárosultak és nyomtatott szöveget egyéb okból használni képtelen személyek érdekét szolgáló, határokon átnyúló, az Unió és harmadik országok közötti cseréjéről szóló 2017. szeptember 13-i (EU) 2017/1563 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
