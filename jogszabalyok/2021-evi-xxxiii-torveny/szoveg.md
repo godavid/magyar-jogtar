@@ -60,7 +60,7 @@ egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongaz
 
 #### 6. A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosítása
 
-9. §
+9. § Hatályát veszti a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 1. melléklet 8. pontja.
 
 #### 7. Az állami vagyonról szóló 2007. évi CVI. törvény módosítása
 

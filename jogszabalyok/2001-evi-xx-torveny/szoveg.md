@@ -411,6 +411,6 @@ Az MFB Zrt. a 3. § (5) bekezdése és az állami vagyonról szóló 2007. évi 
 - 5.
 - 6. Regionális Fejlesztési Holding Zártkörűen Működő Részvénytársaság
 - 7.
-- 8. MFB Invest Befektetési és Vagyonkezelő Zártkörűen Működő Részvénytársaság
+- 8.
 
 ### 2. melléklet a 2001. évi XX. törvényhez

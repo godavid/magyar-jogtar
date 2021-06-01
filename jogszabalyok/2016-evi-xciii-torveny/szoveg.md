@@ -164,7 +164,7 @@ független jogkezelő szervezetekre, és az általuk végzett jogkezelési tevé
 
 (3) A kiterjesztett hatályú közös jogkezelést végző reprezentatív közös jogkezelő szervezet köteles a (2) bekezdés szerinti jogosultak részére a 14. § (1) bekezdése szerinti tájékoztatást honlapján nyilvánosan hozzáférhető formában közzétenni. A tájékoztatást a (2) bekezdés szerinti jogosult részére első alkalommal történő jogdíjkifizetéskor írásban is közölni kell.
 
-18. § (1) A 17. § (2) bekezdése szerinti jogosult – a kötelező közös jogkezelés körébe tartozó eset kivételével – a kiterjesztett hatályú közös jogkezelést végző reprezentatív közös jogkezelő szervezethez intézett, teljes bizonyító erejű magánokiratba foglalt nyilatkozatával a közös jogkezelő szervezet alapszabályában meghatározott észszerű, de legfeljebb hat hónapos határidő betartásával előzetesen tiltakozhat szerzői művei vagy kapcsolódó jogi teljesítményei felhasználásának a 17. § alapján közös jogkezelés körében történő engedélyezése ellen. Ha a reprezentatív közös jogkezelő szervezet alapszabályában így rendelkezik, a közös jogkezelés elleni tiltakozás csak az annak közlése szerinti pénzügyi év végét követő év első napján lép hatályba. A reprezentatív közös jogkezelő szervezet köteles a nyilatkozat szerint eljárni, a tiltakozás jogát más módon nem korlátozhatja.
+18. § (1) A 17. § (2) bekezdése szerinti jogosult – a kötelező közös jogkezelés körébe tartozó eset kivételével – a kiterjesztett hatályú közös jogkezelést végző reprezentatív közös jogkezelő szervezethez intézett, teljes bizonyító erejű magánokiratba foglalt nyilatkozatával tiltakozhat szerzői művei vagy kapcsolódó jogi teljesítményei felhasználásának a 17. § alapján közös jogkezelés körében történő engedélyezése ellen. A tiltakozás bármikor történhet azzal, hogy a tiltakozó nyilatkozat a kézhezvétel napját követő ötödik napon válik hatályossá. A tiltakozással érintett, már megkötött felhasználási szerződések esetében a tiltakozás – eltérő megállapodás hiányában – a tiltakozással érintett naptári félév utolsó napján válik hatályossá, feltéve, hogy a tiltakozásra az érintett félév első három hónapjának utolsó napjáig sor kerül. A naptári félév első három hónapjának utolsó napját követően tett tiltakozás hatálybalépésére legkésőbb a következő naptári félév utolsó napján kerülhet sor. A közös jogkezelő szervezet alapszabályának az e bekezdésben foglaltakkal ellentétes rendelkezése semmis. A reprezentatív közös jogkezelő szervezet köteles a nyilatkozat szerint eljárni, a tiltakozás jogát más módon nem korlátozhatja.
 
 (2) Az (1) bekezdés szerinti tiltakozó nyilatkozat kizárólag a jogosult adott mű- vagy teljesítménytípusba tartozó valamennyi művére vagy kapcsolódó jogi teljesítményére kiterjedő hatállyal tehető.
 
@@ -974,7 +974,7 @@ kell meghozni és gondoskodni a közléséről.
 
 (3) A felügyeleti díjat a második naptári negyedév utolsó napjáig kell megfizetni.
 
-(4) A tevékenység megkezdésének éve vonatkozásában a felügyeleti díj mértéke az erre az évre tervezett bevétel (2) bekezdés szerint irányadó százaléka. Ebben az esetben a felügyeleti díjat a tárgyévet követő második naptári negyedév utolsó napjáig kell megfizetni.
+(4) A tevékenység megkezdésének éve vonatkozásában a felügyeleti díj mértéke az erre az évre tervezett jogdíjbevétel (2) bekezdés szerint irányadó százaléka. Ebben az esetben a felügyeleti díjat a tárgyévet követő második naptári negyedév utolsó napjáig kell megfizetni.
 
 (5) A határidőben meg nem fizetett felügyeleti díj után az adózás rendjéről szóló törvény szerint kell késedelmi pótlékot fizetni.
 
@@ -988,7 +988,7 @@ kell meghozni és gondoskodni a közléséről.
 
 112. § (1) Az SZTNH a reprezentatív közös jogkezelő szervezetek, valamint a nyilvántartásban szereplő, belföldön letelepedett más közös jogkezelő szervezetek működését évente, hivatalból indított felügyeleti eljárás keretében vizsgálja.
 
-(2) Az SZTNH a nyilvántartásban szereplő, belföldön letelepedett független jogkezelő szervezetek működését kétévente, hivatalból indított felügyeleti eljárás keretében vizsgálja.
+(2) Az SZTNH a nyilvántartásban szereplő, belföldön letelepedett független jogkezelő szervezetek működését évente, hivatalból indított felügyeleti eljárás keretében vizsgálja.
 
 (3) Az SZTNH a közös jogkezelő szervezetek és a független jogkezelő szervezetek működését az (1) és (2) bekezdés szerinti eseteken kívül szükség szerint hivatalból indított felügyeleti eljárás keretében is vizsgálhatja.
 
@@ -1440,11 +1440,11 @@ teljesíti.
 
 165. § E törvény 168–172. §-a a közösségi védjegyről szóló 207/2009/EK tanácsi rendelet és a közösségi védjegyről szóló 40/94/EK tanácsi rendelet végrehajtásáról szóló 2868/95/EK bizottsági rendelet módosításáról, valamint a Belső Piaci Harmonizációs Hivatalnak (védjegyek és formatervezési minták) fizetendő díjakról szóló 2869/95/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2015. december 16-i 2015/2424/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
+166. § A 18. § a digitális egységes piacon a szerzői és szomszédos jogokról, valamint a 96/9/EK és a 2001/29/EK irányelv módosításáról szóló, 2019. április 17-i (EU) 2019/790 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
 ### XXII. Fejezet — MÓDOSÍTÓ RENDELKEZÉSEK
 
 #### 88. A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény módosítása
-
-166. §
 
 167. §
 
