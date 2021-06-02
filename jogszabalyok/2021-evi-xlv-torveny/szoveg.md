@@ -22,7 +22,7 @@ Az Országgyűlésazzal a meggyőződéssel, hogy az Európai Unió hétéves k�
 
 6. § Ez a törvény az Európai Unió saját forrásainak rendszeréről és a 2014/335/EU, Euratom határozat hatályon kívül helyezéséről szóló, 2020. december 14-i (EU, Euratom) 2020/2053 tanácsi határozat 12. cikkének végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-7. § Hatályát veszti az Európai Unió saját forrásainak rendszeréről szóló, 2014. május 26-i 2014/335/EU, Euratom tanácsi határozat kihirdetéséről szóló 2015. évi XCIII. törvény.
+7. §
 
 ### 1. melléklet a 2021. évi XLV. törvényhez
 
