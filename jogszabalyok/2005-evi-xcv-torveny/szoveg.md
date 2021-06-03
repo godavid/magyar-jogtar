@@ -966,6 +966,7 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 - i) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról szóló 2011. június 8-i 2011/62/EU európai parlamenti és tanácsi irányelvnek,
 - j) a 2001/83/EK irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2012. október 25-i 2012/26/EU európai parlamenti és tanácsi irányelvnek,
 - k) a 2004/757/IB tanácsi kerethatározat mellékletének a kábítószer fogalommeghatározása új pszichoaktív anyagokkal való kiegészítése céljából történő módosításáról szóló, 2018. december 31-i (EU) 2019/369 felhatalmazáson alapuló bizottsági irányelvnek
+- l) a 2004/757/IB tanácsi kerethatározat mellékletének a „kábítószer” fogalommeghatározását az N,N-dietil-2-[[4-(1-metiletoxi)fenil]metil]-5-nitro-1H-benzimidazol-1-etánamin (izotonitazén) új pszichoaktív anyaggal kiegészítő módosításáról szóló, 2020. szeptember 2-i (EU) 2020/1687 felhatalmazáson alapuló bizottsági irányelvnek
 
 való megfelelést szolgálja.
 
@@ -1339,7 +1340,7 @@ Azok az anyagok, amelyek az 1979. évi 25. törvényerejű rendelettel kihirdete
 | 89. | MTTA; MTA; Mephtetramine | 2-[(Methylamino)methyl]-3,4-dihydronaphthalen-1(2H)-one |
 | 90. | Nitracaine | 3-(Diethylamino)-2,2-dimethylpropyl 4-nitrobenzoate |
 | 91. | EG-018 | (naphthalen-1-yl) (9-pentyl-9H-carbazol-3-yl)-methanone” |
-| 92. |  |  |
+| 92. | isotonitazene | N,N-diethyl-2-[[4-(1-methylethoxy)phenyl]methyl]-5-nitro-1H-benzimidazole-1-ethanamine” |
 | 93. |  |  |
 | 94. |  |  |
 | 95. |  |  |
