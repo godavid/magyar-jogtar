@@ -248,7 +248,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - a) az Egészségbiztosítási és Nyugdíjbiztosítási Alap, valamint az elkülönített állami pénzalap kezelője, az általa kezelt alap javára teljesítendő kötelező befizetéssel összefüggésben;
 - b) A munkaügyi igazgatás szerve annak megállapítása érdekében, hogy a polgárnak a munkaügyi ellátás mellett van-e kereső tevékenységből származó jövedelme; illetőleg annak ellenőrzése céljából, hogy a polgár eleget tett-e munkavállalói járulék befizetési kötelezettségének, az adatszolgáltatás teljesítése érdekében;
 - c) a bíróság, igazságszolgáltatási feladatának ellátásával összefüggésben;
-- d) a nyomozó hatóság, az ügyészség által engedélyezett adatkérés alapján, ha az adóazonosító jel megismerése a büntetőeljárás megindítása vagy lefolytatása érdekében szükséges;
+- d) a nyomozó hatóság, valamint az előkészítő eljárást folytató szerv, ha az adóazonosító jel megismerése a büntetőeljárás megindítása vagy lefolytatása érdekében szükséges;
 - e) a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
 - f) az egyéni vállalkozók nyilvántartását vezető szerv, az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró, az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti szerv az egyéni vállalkozóról és az egyéni cégről szóló törvényben meghatározott hatósági feladatai ellátásához;
 - g) a kincstár az önkormányzatokat és a nem állami humánszolgáltatókat megillető normatív hozzájárulásokkal, támogatásokkal, továbbá a lakástámogatásokkal kapcsolatos feladatai teljesítéséhez, valamint a családtámogatások és a bányászati keresetkiegészítések ügyében eljáró szerv a családtámogatási ellátásokkal és a bányászati keresetkiegészítéssel kapcsolatos feladatai teljesítéséhez, az ellátások megállapításával, a jogszerű igénybevétel ellenőrzésével és a jogosulatlanul igénybe vett összeg visszakövetelésével összefüggésben;
@@ -400,6 +400,8 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - v) az ügyfél ügyintézési rendelkezési nyilvántartását vezető szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvénnyel szabályozott, a rendelkezési nyilvántartással kapcsolatos feladatai ellátásával összefüggésben;
 - w) a Központi Statisztikai Hivatal statisztikai célra;
 - x) az útlevélhatóság és az eljárásában közreműködő hatóság az úti okmányokkal kapcsolatos feladataik ellátásához.
+- y) az intézetben történt születést bejelentő egészségügyi szolgáltató a születés bejelentéséhez,
+- z) a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló kormányrendeletben megjelölt személy vagy szerv a haláleset bejelentéséhez.
 
 33. § (1) A polgár a személyi azonosítóját – személyazonosságának hitelt érdemlő igazolása mellett – a 32. §-ban felsorolt szerveknek az ott megjelölt feladataik ellátásához köteles megismerhetővé tenni.
 
@@ -438,6 +440,8 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - u) a szabálysértési nyilvántartó szerv a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez;
 - v) a 32. § e) és t) pontjában felsorolt szervek egymás között, az ott meghatározott feladataik ellátásához;
 - x) a körözési nyilvántartó szerv a körözött személy személyazonosságának ellenőrzéséhez.
+- y) az intézetben történt születést bejelentő egészségügyi szolgáltató a születés bejelentéséhez,
+- z) a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló kormányrendeletben megjelölt személy vagy szerv a haláleset bejelentéséhez.
 
 ### Rendszeres adatátadás a személyiadat- és lakcímnyilvántartásból
 
@@ -552,9 +556,9 @@ kivételével – az adatátadást kizárólag akkor kezdeményezhetik, ha jogsz
 
 46/A. § (1) Az összerendelési nyilvántartás létrehozása (a továbbiakban: kezdeti adatfeltöltés) során a személyiadat- és lakcímnyilvántartást, a központi idegenrendészeti nyilvántartást kezelő szerv összerendelési kapcsolati kódot képez az általa vezetett nyilvántartás hatálya alá tartozó valamennyi természetes személyre. Az adatkezelő az összerendelési kapcsolati kódot az azonosítóhoz rendelten nyilvántartásba veszi.
 
-(2) Az összerendelési bejegyzés képzésének kezdeményezésére jogosult szerv – az összerendelési nyilvántartást vezető szerv részére történő adatátadás céljából–létrehozza az (1) bekezdés szerinti természetes személyek összerendelési bejegyzési kapcsolati kódjának titkosított változatát, továbbá ahhoz kapcsoltan az adatalany természetes személyazonosító adatait tartalmazó adatállományt.
+(2) Az összerendelési bejegyzés képzésének kezdeményezésére jogosult szerv – az összerendelési nyilvántartást vezető szerv részére történő adatátadás céljából–létrehozza az (1) bekezdés szerinti természetes személyek összerendelési bejegyzési kapcsolati kódjának titkosított változatát, továbbá ahhoz kapcsoltan az érintett természetes személyazonosító adatait tartalmazó adatállományt.
 
-(3) A személyiadat- és lakcímnyilvántartás szerve a (2) bekezdésben meghatározott adatállomány adattartalmát az adatalanyok személyi azonosítójával, valamint a 37. § (1) bekezdés a) és b) pontja alapján rendszeres adatátadás céljára általa képzett ágazati kapcsolati kódjaival (a továbbiakban: ágazati kapcsolati kód) egészíti ki.
+(3) A személyiadat- és lakcímnyilvántartás szerve a (2) bekezdésben meghatározott adatállomány adattartalmát az érintettek személyi azonosítójával, valamint a 37. § (1) bekezdés a) és b) pontja alapján rendszeres adatátadás céljára általa képzett ágazati kapcsolati kódjaival (a továbbiakban: ágazati kapcsolati kód) egészíti ki.
 
 (4) Az összerendelési nyilvántartást vezető szerv
 

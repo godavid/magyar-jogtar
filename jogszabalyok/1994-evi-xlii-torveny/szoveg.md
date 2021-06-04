@@ -24,7 +24,7 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 - 2. exportcélú befektetés: devizabelföldi gazdálkodó szervezet export árualap létrehozását vagy szolgáltatásexportot elősegítő befektetése vagy lízingszerződése, amelynek eredményeként befektetés esetén a befektetést megvalósító gazdálkodó szervezetnél vagy az ezen gazdálkodó szervezettel üzleti kapcsolatban álló gazdálkodó szervezetnél, lízingszerződés esetén pedig a lízingbevevő gazdálkodó szervezetnél kimutatható az exportárbevétel növekedése;
 - 3. gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi társulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a közös vállalat, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, továbbá az egyéni vállalkozó;
 - 4. nemzetközi fejlesztési együttműködés: a nemzetközi fejlesztési együttműködésről és a nemzetközi humanitárius segítségnyújtásról szóló törvényben meghatározott fogalom;
-- 5.
+- 5. magyar befektetők külföldi befektetése: devizabelföldi gazdálkodó szervezet vagy a devizabelföldi gazdálkodó szervezet tulajdonában álló, a befektetéssel, beruházással érintett országban alapított gazdasági társaság külföldön megvalósuló befektetése, beruházása, amely a devizabelföldi gazdálkodó szervezet nemzetközi piacra lépését vagy meglévő nemzetközi piaci pozíciójának megerősítését segíti elő.
 - 6.
 - 7.
 
@@ -83,7 +83,7 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 (3) A 6. § (2) bekezdés szerint állami készfizető kezesség a következő ügyletekhez kapcsolódhat:
 
 - a) nem-piacképes kockázatok fedezetére nyújtott exporthitel-biztosítások, illetve viszontbiztosítások;
-- b) exporthitel biztosításnak nem minősülő biztosítási, illetve viszontbiztosítási fedezet nyújtása, amennyiben azok biztosítását, illetve viszontbiztosítását az Európai Bizottság az Európai Unió működéséről szóló szerződés 108. cikk (3) bekezdése szerinti bejelentési eljárásban jóváhagyta, illetve ez ellen nem emelt kifogást.
+- b) exporthitel biztosításnak nem minősülő biztosítási, illetve viszontbiztosítási fedezet nyújtása, ha azok biztosítását, illetve viszontbiztosítását – amennyiben az bejelentési kötelezettség alá esik – az Európai Bizottság az Európai Unió működéséről szóló szerződés 108. cikk (3) bekezdése szerinti bejelentési eljárásban jóváhagyta, illetve ez ellen nem emelt kifogást.
 
 (4) E törvény alkalmazásában exporthitel biztosítások és viszontbiztosítások esetében nem-piacképesnek minősülnek
 
@@ -181,7 +181,7 @@ eredő fizetési kötelezettségek teljesítéséért.
 
 8/A. § (1) Az Eximbank a költségvetés terhére vállalható garanciaügyletek beváltásából eredő követeléseket, valamint a követelések után járó kamatot és késedelmi kamatot, a Mehib Rt. a kormányrendeletben előírt feltételekkel biztosított követelések és a jogelődöktől átvett biztosítási szerződések alapján keletkező kárkintlévőségeket az állam megbízásából a központi költségvetés javára köteles behajtani, vagy harmadik személy útján behajtatni. Az Eximbank és a Mehib Rt. a követelés behajtása, vagy harmadik személy útján történő behajtatása során az államháztartásról szóló 2011. évi CXCV. törvény és a végrehajtására kiadott rendelet rendelkezéseinek figyelembevételével köteles eljárni.
 
-(2) A befolyt követelések után az Eximbankot és a Mehib Rt.-t az államháztartásért felelős miniszter rendeletében meghatározott mértékű jutalék illeti meg. A jutalék alapja a behajtott tőke, a kamat és a késedelmi kamat.
+(2) A befolyt követelések után az Eximbankot és a Mehib Rt.-t az államháztartásért felelős miniszter rendeletében meghatározott mértékű jutalék illeti meg. A jutalék alapja a behajtott tőke, a kamat és a késedelmi kamat. Amennyiben a követelés behajtása részben vagy egészben eredmény nélkül zárul, továbbá, ha a költségvetés terhére vállalt 6. § (1) és (2) bekezdése szerinti ügyletek beváltására a behajtás eredményessége miatt részben vagy egészben nem kerül sor, az Eximbankot és a Mehib Rt.-t – az államháztartásért felelős miniszter rendeletében meghatározott mértékű – az igazolt ráfordításaival arányos költségátalány illeti meg.
 
 9. § E törvénynek az Eximbank által az állam készfizető kezessége mellett vállalható garanciaügyletre vonatkozó rendelkezéseit az Eximbank által kormányrendeletben előírt feltételekkel vállalt készfizető kezességre is alkalmazni kell.
 
@@ -252,7 +252,7 @@ szerzett.
 - a) a Btk. XV. fejezetének VII. és VIII. címében, a XVII. és XVIII. fejezetében meghatározott bűncselekmény miatt az ügyész vádat emelt, vagy
 - b) külföldön az illetékes hatóság vádat emelt olyan vagyon elleni vagy gazdasági bűncselekmény miatt, amely a magyar jog szerint büntetendő, a büntetőeljárás jogerős befejezéséig vezető állású személyként nem foglalkoztatható, vagy az ilyen feladatok általa történ ő ellátását fel kell függeszteni.
 
-(6) Vezető állású személy megválasztását, illetve kinevezését az Eximbank, illetve a Mehib Rt. a kinevezéstől számított 2 munkanapon belül köteles a Magyar Nemzeti Banknak bejelenteni. A bejelentésnek tartalmaznia kell a vezető állású személy szakmai önéletrajzát, valamint a (2) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát.
+(6) Vezető állású személy megválasztását, illetve kinevezését az Eximbank, illetve a Mehib Rt. a kinevezéstől számított nyolc munkanapon belül a Magyar Nemzeti Banknak bejelenti. A bejelentésnek tartalmaznia kell a vezető állású személy szakmai önéletrajzát, valamint a (2) bekezdésben meghatározott feltételek teljesítésére vonatkozó okiratokat vagy azok hiteles másolatát.
 
 (7) Amennyiben a Magyar Nemzeti Bank úgy ítéli meg, hogy a megválasztott vagy kinevezett személy nem felel meg az e törvényben meghatározott feltételeknek, 10 munkanapon belül kezdeményezheti a tulajdonosi jogok gyakorlójánál a megválasztott személy visszahívását vagy a kinevezett személy felmentését. A tulajdonosi jogok gyakorlója a kezdeményezésben megnevezett személyt 10 munkanapon belül visszahívja, vagy felmenti.
 
@@ -319,7 +319,7 @@ szerzett.
 
 ### V. Fejezet — A MEHIB RT.-RE VONATKOZÓ SZABÁLYOK
 
-25. § (1) A Mehib Rt. állam készfizető kezessége mellett végzett tevékenységére a Bit. és a viszontbiztosítókról szóló 2007. évi CLIX. törvény rendelkezéseit nem kell alkalmazni.
+25. § (1) A Mehib Rt. állam készfizető kezessége mellett végzett tevékenységére a Bit. rendelkezéseit nem kell alkalmazni.
 
 (2) Az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében meghatározott üzleti titok és a Bit.-ben meghatározott biztosítási titok megtartására vonatkozó kötelezettség nem terjed ki – a Bit. 138. § (1) bekezdésében meghatározott szerveken túlmenően – a miniszter által vezetett minisztérium és az államháztartásért felelős miniszter által vezetett minisztérium részére adott adatszolgáltatásra, valamint az Eximbank részére továbbított adatokra sem.
 
@@ -340,7 +340,7 @@ szerzett.
 - e) az Eximbank által folyósítható kötött segélyhitelek feltételeit és a segélyhitelnyújtás, segélyhitel ügyletek költségvetéssel történő elszámolásának és az ehhez kapcsolódó adatszolgáltatás részletes szabályait,
 - f) az Eximbank által a nemzetközi fejlesztési célú együttműködés keretében végezhető tevékenységek és azok költségvetéssel történő elszámolásának, az ehhez kapcsolódó adatszolgáltatás részletes szabályait.
 
-(2) Felhatalmazást kap az államháztartásért felelős miniszter, hogy rendeletben állapítsa meg az (1) bekezdés b)–d) pontjaiban meghatározott kormányrendeletek hatálya alá tartozó tevékenységekre az Eximbank és a Mehib Rt. központi költségvetéssel történő elszámolásának és az ehhez kapcsolódó adatszolgáltatásának részletes szabályait, valamint e rendeletben megállapítsa a 8/A. § (2) bekezdésben meghatározott jutalék mértékét.
+(2) Felhatalmazást kap az államháztartásért felelős miniszter, hogy rendeletben állapítsa meg az (1) bekezdés b)–d) pontjaiban meghatározott kormányrendeletek hatálya alá tartozó tevékenységekre az Eximbank és a Mehib Rt. központi költségvetéssel történő elszámolásának és az ehhez kapcsolódó adatszolgáltatásának részletes szabályait, valamint e rendeletben megállapítsa a 8/A. § (2) bekezdésben meghatározott jutalék és költségátalány mértékét.
 
 26/A. §
 

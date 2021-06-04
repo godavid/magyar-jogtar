@@ -486,7 +486,7 @@ ha a kérelmező a 32/A. § (1) bekezdés a) pontja alapján a második biometri
 
 (1e) Az adatkezelő szerv az elektronikus ügyintézési ponton történő személyazonosítás céljából a polgár útiokmány-nyilvántartásban szereplő, az azonosításhoz szükséges természetes személyazonosító adatait szolgáltatja.
 
-(1f) Az adatkezelő szerv a közölt okmányazonosító adat alapján, az érintett családi és utónevét, születési családi és utónevét, születési helyét és idejét, anyja születési családi és utónevét átadja a természetes személy személyazonosságának ellenőrzése céljából a videotechnológián keresztül történő személyazonosítást végző szervezet részére.
+(1f) Az adatkezelő szerv a közölt okmányazonosító adat alapján, az érintett családi és utónevét, állampolgárságát, az útlevél érvényességére vonatkozó adatot, az útlevél okmányazonosítóját, születési családi és utónevét, születési helyét és idejét, anyja születési családi és utónevét átadja a természetes személy személyazonosságának ellenőrzése céljából a videotechnológián keresztül történő személyazonosítást végző szervezet részére.
 
 (1g) Az adatkezelő szerv a közölt természetes személyazonosító adatok alapján, az érintett úti okmánya érvényességének tényére és kiállítás szerinti érvényességi idejére vonatkozó adatokat átadja a házasságkötés miatt hivatalból történő okmánykiállításra való jogosultság megállapítása céljából az anyakönyvvezető részére.
 
