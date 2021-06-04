@@ -3729,7 +3729,7 @@ a rögzítéskor meghatározott szolgálati időre figyelemmel kell megállapít
 
 (8) A munkaviszony 82/B. § (4) bekezdés b) pontja alapján történő létesítése esetén a szolgálati viszony fennállása alatt elismert és beszámított szolgálati időt is figyelembe kell venni a munkaviszony időtartamaként.
 
-(9) Azon rendvédelmi szerv, amelynek munkavállalója a Rendőrségről szóló törvény szerinti megbízhatósági vizsgálat alá vonható, nem létesíthet, nem tarthat fenn munkaviszonyt olyan személlyel, aki a munkaszerződésében nem járul hozzá ahhoz, hogy a munkaviszonyának tartama alatt munkaköri kötelezettségének jogszerű teljesítését, a Rendőrségről szóló törvényben meghatározott esetekben és módon, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a munkavállaló előzetes tájékoztatása nélkül, a Rendőrségről szóló törvényben meghatározott megbízhatósági vizsgálattal ellenőrizze.
+(9) Ha a Rendőrségről szóló törvény lehetővé teszi, hogy a rendvédelmi szerv munkavállalója esetében a feladatainak törvényes ellátását a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló törvényben meghatározott megbízhatósági vizsgálattal ellenőrizze, munkaviszony azzal létesíthető, aki tudomásul veszi, hogy munkaviszonyának fennállása alatt feladatai törvényes ellátását a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló törvény szerinti megbízhatósági vizsgálattal ellenőrizheti.
 
 (10) A felek megállapodása vagy kollektív szerződés a (9) bekezdésben foglalt rendelkezésektől nem térhet el.
 

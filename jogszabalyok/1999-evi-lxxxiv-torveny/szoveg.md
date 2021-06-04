@@ -198,7 +198,7 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
   - ba) típusára, okmányazonosító jelére, kiadására, érvényességére (idejére, kategóriájára), cseréjére és visszavonására vagy bevonására (leadására, elvételére, visszaadására) vonatkozó adatokat,
   - bb) elvesztésére, eltulajdonítására, megsemmisülésére, egyéb okból történő érvénytelenségére, megtalálására és megkerülésére vonatkozó adatokat,
   - bc) hivatalos feljegyzések rovatába bejegyzett adatokat, valamint
-  - bd) a vezetési jogosultság megszerzésének időpontjára és a megszerzett kategóriára vonatkozó adatokat.
+  - bd) a vezetési jogosultság megszerzésének és engedély-nyilvántartásba történő bejegyzésének időpontjára és a megszerzett kategóriára vonatkozó adatokat.
 
 (2) Az engedély-nyilvántartás az (1) bekezdésben meghatározott adatokon kívül tartalmazza a SIS II-ben elhelyezendő figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) kezelésével kapcsolatos, törvényben, személyes adatoknak nem minősülő adatok esetében jogszabályban meghatározott adatokat is.
 
@@ -298,7 +298,7 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 - c) a díjmentes használat vagy közútkezelői hozzájárulás beszerzése alóli mentesség jogcímének megjelölését, továbbá
 - d) a díjmentes használati, illetve közútkezelői hozzájárulás nélküli közlekedési jogosultság kezdőidőpontját és annak időtartamát.
 
-(2) A nyilvántartó az útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára való, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel történő közlekedési jogosultság ellenőrzése céljából a nyilvántartásba vételt megelőzően az érintett jármű rendszámadatát összeveti a járműnyilvántartás 9. § (1) bekezdése szerinti adatokkal.
+(2) A nyilvántartó és a közlekedési igazgatási hatóság az útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára való, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel történő közlekedési jogosultság ellenőrzése céljából a nyilvántartásba vételt megelőzően az érintett jármű rendszámadatát összeveti a járműnyilvántartás 9. § (1) bekezdése, vagy ideiglenes rendszámtáblák esetén a 9/D. § szerinti adatokkal.
 
 9/D. § (1) Az ideiglenes rendszámtáblák nyilvántartása tartalmazza az ideiglenes rendszámtábla jogosultjának:
 
@@ -325,12 +325,13 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 - b) gyártmányát,
 - c) típusát,
 - d) színét.
+- e) fajtáját.
 
 (4) Az ideiglenes rendszámtáblák nyilvántartása tartalmazza az „E” és a „P” betűjelű rendszámtáblák használatának korlátozására vonatkozó adatokat.
 
 (5) Az ideiglenes rendszámtáblák nyilvántartása az (1)–(4) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcímazonosító adatok és a (2) bekezdés e) pontjában szereplő elektronikus okiratok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-10. § A nyilvántartó a nyilvántartási eljárásban, az érintett személy és a hatóság kapcsolattartása céljából kezeli a nyilvántartásban szereplő személyek személyi azonosítóját, amelyet az érintett személy az eljárás során köteles közölni a hatósággal. A nyilvántartó a személyi azonosítót csak belső azonosítóként használhatja.
+10. § A nyilvántartó és a közlekedési igazgatási hatóság a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 32. § p) pontja és 36. § n) pontja szerint kezelt személyi azonosítót csak belső azonosítóként, valamint a személyiadat- és lakcímnyilvántartással történő kapcsolat biztosítására, az érintett beazonosítására használhatja fel.
 
 11. § Az engedély – típusától függően – tartalmazza a járművezető
 
@@ -342,7 +343,7 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 - f) vezetési feltételeit, korlátozását, továbbá
 - g) a külön jogszabályban meghatározott egyéb, nem személyes adatokat.
 
-12. § A törzskönyv tartalmazza a tulajdonos 9. § (1) bekezdés a) pontjában, és d) pont da), dc) alpontjában, továbbá a 9. § (2) bekezdése szerinti jogszabályban megjelölt adatokat.
+12. § A törzskönyv tartalmazza a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben megjelölt adatokat.
 
 13. § (1) A jármű forgalomban tarthatóságát igazoló okmány tartalmazza az üzembentartó (tulajdonos) 9. § (1) bekezdés a), b), e), f) pontjaiban, továbbá a 9. § (2) bekezdése szerinti jogszabályban megjelölt adatokat.
 
@@ -549,6 +550,19 @@ kezeli.
   - ce) az előzetes eredetiség-ellenőrzés során megállapított minősítés,
 - d) a nyilvántartó által a Gfbt.-ben meghatározott kötvénynyilvántartásból elektronikusan beszerzett biztosítás tényére vonatkozó adat,
 - e) a nyilvántartó által a kárnyilvántartásból beszerzett káreseményre vonatkozó adat és a káresemény dátuma.
+
+(3b) A nyilvántartó a személyre szabott ügyintézési felület útján ingyenes szolgáltatást biztosít a járművezető vagy a járművezető-jelölt részére az automatikus okmánykiállítási eljáráshoz kapcsolódóan a kategóriára vonatkozó vezetési jogosultság megszerzése, valamint a magyar vezetői engedély érvényességi idejének meghosszabbítása esetén az ezekhez szükséges, ügyfél által biztosított adatok, továbbá a biztosítandó feltételek és a kizáró okok megismerése céljából, az ehhez szükséges mértékben. A szolgáltatás a vezetői engedély kiállítását követő 30. napig érhető el.
+
+(3c) A (3b) bekezdés szerinti szolgáltatás útján a járművezető vagy a járművezető-jelölt elektronikus azonosítását követően közvetlenül tájékozódhat
+
+- a) az arcfényképe és saját kezű aláírása felhasználhatóságára,
+- b) az egészségi alkalmasságára,
+- c) a vezetési jogosultságának szünetelésére,
+- d) az elsősegély-nyújtási ismeretek megszerzésére,
+- e) a kategóriára vonatkozó vezetési jogosultság megszerzésére vagy az az alóli mentesülésre,
+- f) a vezetői engedély automatikus kiállításához szükséges nyilatkozataira
+
+vonatkozó adatairól.
 
 (4) A kérelmező igényelheti, hogy kapcsolatfelvétel céljából a nyilvántartó az általa megjelölt személyt, személyi kört keresse meg, és
 

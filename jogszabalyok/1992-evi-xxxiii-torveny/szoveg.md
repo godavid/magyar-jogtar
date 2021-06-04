@@ -171,7 +171,7 @@ tervezetét.
 
 személlyel létesíthető.
 
-(2a) Ha a rendőrségről szóló törvény az e törvényben meghatározott munkavégzési szabályra külön ellenőrzési lehetőséget teremt a munkáltató közalkalmazottai tekintetében, a közalkalmazotti jogviszony létesítésének és fenntartásának feltétele az ellenőrzéshez való hozzájárulás.
+(2a) Ha a Rendőrségről szóló törvény az e törvényben meghatározott munkavégzési szabályra külön ellenőrzési lehetőséget teremt a munkáltató közalkalmazottai tekintetében, közalkalmazotti jogviszony azzal létesíthető, aki tudomásul veszi, hogy közalkalmazotti jogviszonyának fennállása alatt feladatai törvényes ellátását a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló törvény szerinti megbízhatósági vizsgálattal ellenőrizheti.
 
 (2b) A munkáltatóval közalkalmazotti jogviszonyban állók tekintetében – ha a rendőrségről szóló törvény előírja – a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv ellenőrizheti, hogy a munkáltatóval közalkalmazotti jogviszonyban álló közalkalmazott eleget tesz-e az e törvényben meghatározott hivatali kötelezettségének.
 

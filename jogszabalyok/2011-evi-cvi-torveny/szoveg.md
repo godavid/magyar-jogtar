@@ -45,6 +45,7 @@ kerül sor,
 - i) a (2) bekezdés d) pontjában meghatározott feladatok ellátása esetén a szociális szövetkezet,
 - j) a vasúti pályahálózat-működtető szervezet a vasúti pálya és környezete tisztántartásával, a kapcsolódó területek növényzetének karbantartásával, továbbá a vasúti üzemi létesítmények fenntartója az üzemi létesítmény állagmegóvásával kapcsolatos feladatai ellátásában,
 - k) a kötelező önkormányzati feladat ellátásában közreműködő, törvény alapján kijelölt közérdekű szolgáltató.
+- l) start szociális szövetkezet.
 
 (4) Közfoglalkoztatottként az a természetes személy foglalkoztatható, aki
 

@@ -975,7 +975,7 @@ vonatkozó rendelkezések megsértésekor.
 
 (6) A jogsértés nagyon súlyos fokúnak minősül, ha az személyi sérülés vagy környezetkárosodás okozásának kockázatával jár; az ilyen mulasztásoknál általában a veszély elhárítására megfelelő intézkedések történnek, így többek között a hiba elhárítására való kötelezés – ha lehetséges és célszerű – az ellenőrzés helyén, de legkésőbb a folyamatban lévő szállítási művelet befejezésekor.
 
-60/B. §
+60/B. § Nincs helye a hivatásos katasztrófavédelmi szerv általi bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt.
 
 ### XII. Fejezet — VÍZIKÖZLEKEDÉSI BALESET SZAKMAI VIZSGÁLATA
 
