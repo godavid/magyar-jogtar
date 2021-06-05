@@ -149,7 +149,7 @@ a csere birtok-összevonási célú földcserének minősül.
 
 19. § A Földforgalmi törvény 19. § (5) bekezdésében meghatározott esetben az elővásárlásra jogosult az adás-vételi szerződést csak teljes egészében fogadhatja el. E rendelkezés alkalmazása során az elővásárlásra jogosultak sorrendjére a Földforgalmi törvény 18–19. §-át úgy kell alkalmazni, mintha az elfogadó nyilatkozatot tevő elővásárlásra jogosult elővásárlási jogát megalapozó körülmény az adásvételi szerződésben szereplő földek egésze tekintetében állna fenn. Ha a jogosult kizárólag arra a földre vonatkozóan tesz elfogadó jognyilatkozatot, amelyre az elővásárlási joga fennáll, nyilatkozata új ajánlatnak minősül.
 
-#### 20. §
+20. § Az elővásárlási jogot megalapozó körülménynek az elővásárlási jog gyakorlására vonatkozó nyilatkozat megtételekor kell fennállnia.
 
 ### V. Fejezet — A TULAJDONJOG ÁTRUHÁZÁSÁRÓL SZÓLÓ, BÍRÓSÁGI VAGY KÖZJEGYZŐI JÓVÁHAGYÁSHOZ KÖTÖTT EGYEZSÉGET MEGELŐZŐ HATÓSÁGI ELJÁRÁSRA VONATKOZÓ SZABÁLYOK
 
@@ -315,6 +315,8 @@ használhatja fel.
 
 (2) A megismételt eljárásokban a mezőgazdasági igazgatási szerv köteles megkeresni a helyi földbizottságot új állásfoglalása kiadása céljából, kivéve, ha a megismételt eljárásra a Földforgalmi törvény 23. § (1)–(2) bekezdésében, valamint 27. § (2) bekezdésében foglaltak megsértése miatt kerül sor.
 
+36/A. § A Földforgalmi törvény 24. § (3) bekezdés h) pontjában foglaltak alkalmazása során az ügylet szerinti ellenérték vizsgálatakor figyelembe kell venni a földön fennálló vagyoni értékű jogokat továbbá a földön fennálló más terheket is. Jelzálogjog esetén – a jogosult, illetve a kötelezett eltérő ügyleti rendelkezése hiányában – a jelzálogjoggal biztosított követelés ingatlan-nyilvántartásban bejegyzett értékét kell alapul venni.
+
 37. § (1)
 
 (2) A mezőgazdasági igazgatási szerv egyszerűsített döntést nem hozhat.
@@ -416,6 +418,8 @@ kell érteni.
 
 (6) A felek az (1) bekezdésben szereplő, első szerződésmódosítási kezdeményezésre előírt, továbbá az azt követő szerződésmódosítási kezdeményezések közötti időtartamot, valamint a szerződésmódosítási kezdeményezés feltételeként előírt, a szerződés időtartamából hátralevő időtartamot 5 évnél rövidebb időtartamban is megállapíthatják. E § rendelkezéseitől a felek egyebekben érvényesen nem térhetnek el.
 
+(7) Ha a haszonbérleti szerződés úgy jött létre, hogy az előhaszonbérlő a haszonbérleti szerződés szerinti haszonbérlő helyébe lépett, a haszonbérlő az (1) bekezdés szerinti kezdeményezést a haszonbérleti szerződés időtartamától függetlenül és első alkalommal a haszonbérleti szerződés létrejöttétől számított 6 hónapon belül teheti meg.
+
 51. § Ha a haszonbérlő a haszonbérleti jogosultságot jogszabályban foglalt módon, támogatás feltételeként a haszonbérbeadó írásbeli hozzájárulásával az általa kijelölt földműves vagy mezőgazdasági termelőszervezet részére adja át, akkor a kijelölt földműves, illetve mezőgazdasági termelőszervezet a szerződésben a haszonbérlő helyébe lép és a haszonbérleti jogviszonyt változatlan feltételekkel folytatja.
 
 #### 13. A haszonbérleti szerződésnek az előhaszonbérletre jogosultakkal való közlése
@@ -452,6 +456,8 @@ kell érteni.
 
 56. § A Földforgalmi törvény 47. § (5) bekezdésében meghatározott esetben az előhaszonbérletre jogosult a haszonbérleti szerződést csak teljes egészében fogadhatja el. E bekezdés alkalmazása során az előhaszonbérletre jogosultak sorrendjére a Földforgalmi törvény 45–47. §-át úgy kell alkalmazni, mintha az elfogadó nyilatkozatot tevő előhaszonbérletre jogosult előhaszonbérleti jogát megalapozó körülmény a haszonbérleti szerződésben szereplő földek egésze tekintetében állna fenn. Ha a jogosult kizárólag arra a földre vonatkozóan tesz elfogadó jognyilatkozatot, amelyre az előhaszonbérleti joga fennáll, nyilatkozata új ajánlatnak minősül.
 
+56/A. § Az előhaszonbérleti jogot megalapozó körülménynek az előhaszonbérleti jog gyakorlására vonatkozó nyilatkozat megtételekor kell fennállnia.
+
 #### 15. A haszonbérleti szerződés megszűnése
 
 57. § A haszonbérleti szerződés megszűnik
@@ -475,9 +481,9 @@ kell érteni.
 
 59. § A természetes személy haszonbérlő azonnali hatállyal jogosult felmondani a szerződést, ha az egészségi állapota oly mértékben romlik meg vagy családi és életkörülményeiben olyan tartós változás következik be, amely a haszonbérletből eredő kötelezettségeinek teljesítését akadályozza vagy azt jelentősen megnehezíti.
 
-60. § (1) Ha a haszonbérleti szerződés létrejöttekor a haszonbérlet tárgyát képező föld közös tulajdonban állt és a szerződés fennállása alatt a közös tulajdon megszüntetésére a földrendező és földkiadó bizottságokról szóló törvény szabályai szerint került sor, a haszonbérbeadó, illetve annak jogutódja legkésőbb az adott gazdasági év vége előtt 60 nappal a szerződést 60 napos felmondási idővel a gazdasági év végére felmondhatja, ha a tulajdoni hányadának megfelelő területet a közös tulajdon megszüntetésére irányuló eljárás eredményeként önálló ingatlanként kapta meg, feltéve, hogy
+60. § (1) Ha a haszonbérleti szerződés létrejöttekor a haszonbérlet tárgyát képező föld közös tulajdonban állt és a szerződés fennállása alatt a közös tulajdon megszüntetésére került sor, a haszonbérbeadó, illetve annak jogutódja legkésőbb az adott gazdasági év vége előtt 60 nappal a szerződést 60 napos felmondási idővel a gazdasági év végére felmondhatja, ha a tulajdoni hányadának megfelelő területet a közös tulajdon megszüntetésére irányuló eljárás eredményeként önálló ingatlanként kapta meg, feltéve, hogy
 
-- a) a haszonbérlő felé a felmondással egyidejűleg nyilatkozik, hogy a földet a szerződés megszűnésével saját maga kívánja használni, és
+- a) a haszonbérlő felé a felmondással egyidejűleg nyilatkozik, hogy a földet a szerződés megszűnésével saját maga, közeli hozzátartozója, saját maga vagy közeli hozzátartozójának legalább 25%-ban tulajdonában álló mezőgazdasági termelőszervezet vagy olyan családi mezőgazdasági társaság, amelyben tag kívánja használni, és
 - b) a 74. § (2) bekezdésében foglaltak alkalmazásával létrejött haszonbérleti szerződést nem írta alá, de annak hatálya az ott meghatározottak szerint kiterjedt rá.
 
 (2) A Földforgalmi törvényben meghatározott mezőgazdasági termelőszervezet mint haszonbérlő és az annak legalább 25%-ban tulajdonos természetes személy tagja mint haszonbérbeadó között létrejött haszonbérleti szerződést a gazdasági év végével a haszonbérbeadó 60 napos felmondási idővel felmondhatja, ha a mezőgazdasági termelőszervezetben fennálló tulajdonosi részesedése a szerződés megkötését követő 1 éven keresztül tartósan 25% alá csökken.
@@ -505,6 +511,8 @@ kell érteni.
 (4) Ha a haszonbérlő a haszonbérlet tárgyát képező földhöz kötődő olyan európai uniós vagy nemzeti forrásból folyósított agrár-vidékfejlesztési támogatást vett igénybe, amelynek feltételéül jogszabály meghatározott időtartamra földhasználati kötelezettséget ír elő, és a haszonbérleti szerződést a haszonbérbeadó a 60. §-ban meghatározott felmondással szünteti meg, a szerződés megszűnésekor a haszonbérbeadó köteles pénzben megtéríteni a haszonbérlőnek a támogatási összeg haszonbérleti szerződés megszűnése miatti elvesztéséből eredő kárát.
 
 (5) Ha a felek másként nem állapodnak meg, a (2) bekezdés b) pontja nem alkalmazható, ha a szerződés annak lejárta miatt szűnik meg.
+
+(6) Semmis az a megállapodás, amely a (2) bekezdés b) pontja szerinti követelés viselésére a föld következő haszonbérlőjét kötelezi.
 
 #### 16. Haszonbérfizetési kedvezmény
 
@@ -536,10 +544,7 @@ kell érteni.
 
 #### 20. Szívességi földhasználat
 
-68. § (1) A szívességi földhasználati szerződés alapján a használatba adó a föld használatát, hasznosítását ingyenesen engedi át
-
-- a) a Földforgalmi törvény szerinti közeli hozzátartozója részére, vagy
-- b) olyan családi mezőgazdasági társaság részére, amelyben tag.
+68. § (1) A szívességi földhasználati szerződés alapján a használatba adó a föld használatát, hasznosítását a Földforgalmi törvény szerinti közeli hozzátartozója, illetve a Földforgalmi törvényben meghatározott esetben családi mezőgazdasági társaság részére ingyenesen engedi át. A haszonbérfizetés és a (2)–(4) bekezdésben foglaltak kivételével a szerződő felek jogaira és kötelezettségeire a haszonbérleti szerződésben részes feleket megillető jogok, illetve terhelő kötelezettségek az irányadók.
 
 (2) A haszonbérfizetés és a (3)–(5) bekezdésben foglaltak kivételével a szerződő felek jogaira és kötelezettségeire a haszonbérleti szerződésben részes feleket megillető jogok, illetve terhelő kötelezettségek az irányadók.
 
@@ -635,17 +640,17 @@ meg kell térítenie.
 
 #### 20/E. Erdőkezelés
 
-68/E. § (1) Az önálló erdőgazdálkodási egység területét az érintett tulajdonos az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény végrehajtására kiadott jogszabályban foglalt feltételeknek megfelelő, az erdészeti hatóság által erdőkezelőként nyilvántartott erdőgazdálkodásra jogosult erdészeti szakirányító vállalkozás (a továbbiakban: erdőkezelő) kezelésébe adása útján is hasznosíthatja.
+68/E. § (1) Az önálló erdőgazdálkodási egység területét az érintett tulajdonos az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény végrehajtására kiadott jogszabályban foglalt feltételeknek megfelelő, az erdészeti hatóság által nyilvántartott erdőgazdálkodásra jogosult erdészeti szakirányító vállalkozás (a továbbiakban: erdőkezelő) kezelésébe adása útján is hasznosíthatja.
 
-(2) Az erdőkezelő a tulajdonos javára, de saját nevében eljárva, a tulajdonos egyéni érdekeit figyelembe vevő erdőgazdálkodási tevékenységet folytat, amelynek során az erdei haszonvételeket az erdőkezelő gyakorolja és jogosult az erdő hasznai szedésére, továbbá köteles az erdőgazdálkodói észszerűség követelményei szerint a kezelt erdőt az előre láthatóan fenyegető kockázatokkal szemben megóvni. Az erdőkezelőt tevékenységéért díj illeti meg, amely magában foglalja az erdőgazdálkodási tevékenység költségei mellett az erdőkezelő közreműködésének ellenértékét is.
+(2) Az erdőkezelő a tulajdonos javára, de saját nevében eljárva, a tulajdonos egyéni érdekeit figyelembe vevő erdőgazdálkodási tevékenységet folytat, amelynek során az erdei haszonvételeket az erdőkezelő gyakorolja és jogosult az erdő hasznai szedésére, továbbá köteles az erdőgazdálkodói észszerűség követelményei szerint a kezelt erdőt az előre láthatóan fenyegető kockázatokkal szemben megóvni. Az erdőkezelőt tevékenységéért díj illeti meg.
 
 (3) Erdőkezelési szerződés határozatlan időre is köthető.
 
 (4) Az erdőkezelő az erdőgazdálkodási tevékenységeket a tulajdonos közreműködésével és egyetértésével határozza meg, amelynek végrehajtásában a tulajdonos közreműködhet.
 
-(5) Ha a felek másként nem állapodnak meg, az erdőgazdálkodásból eredő bevételeket a tulajdonos javára eljárva az erdőkezelő szedi be, amelyből a díj levonását követően keletkező jövedelmet a tulajdonos részére megfizeti. A kezelt erdő az erdőkezelő saját vagyonától és az általa kezelt más erdőktől elkülönült vagyont képez, amelyet az erdőkezelő köteles külön nyilvántartani. A kezelt erdőre, valamint az erdőgazdálkodásból eredően beszedett bevételekre az erdőkezelő hitelezői és az erdőkezelő által kezelt más erdők hitelezői nem támaszthatnak igényt.
+(5) Ha a felek másként nem állapodnak meg, az erdőgazdálkodásból eredő bevételeket a tulajdonos javára eljárva az erdőkezelő szedi be, amelyből az erdőgazdálkodás költségeit és a díj levonását követően keletkező jövedelmet a tulajdonos részére megfizeti. A kezelt erdő az erdőkezelő saját vagyonától és az általa kezelt más erdőktől elkülönült vagyont képez, amelyet az erdőkezelő köteles külön nyilvántartani. A kezelt erdőre, valamint az erdőgazdálkodásból eredően beszedett bevételekre az erdőkezelő hitelezői és az erdőkezelő által kezelt más erdők hitelezői nem támaszthatnak igényt.
 
-(6) A tárgyévet követő időszakban felmerülő erdőfelújítási kötelezettség költségeinek fedezetét a tulajdonos biztosítja az erdőkezelő számára, vagy a felek erre vonatkozó megállapodása alapján az erdőkezelő az (5) bekezdésben foglalt kifizetés során a felmerülő költségek fedezetéül szolgáló összeget visszatarthatja.
+(6) Ha az adott időszak bevétele nem fedezi az adott időszak költségeit, akkor a különbözetet a tulajdonos biztosítja az erdőkezelő számára. A felek erre vonatkozó megállapodása alapján a tárgyidőszakot követő időszakban felmerülő költségek fedezetét a tulajdonos úgy is biztosíthatja az erdőkezelő számára, hogy az erdőkezelő az (5) bekezdésben foglalt kifizetés során a felmerülő költségek fedezetéül szolgáló összeget visszatartja.
 
 (7) A tulajdonos jogosult a részére járó jövedelmet vagy annak egy részét természetben kérni.
 
@@ -700,7 +705,7 @@ javára történő átengedésére.
   - aa) személye bizonytalan, vagy
   - ab) lakcíme, tartózkodási helye, székhelye, telephelye, fióktelepe ismeretlen;
 - b) meghiúsul, mert a postai küldemény
-  - ba) azzal a jelzéssel érkezik vissza, hogy „nem kereste” vagy a címzett tulajdonostárs „elköltözött”, vagy
+  - ba) azzal a jelzéssel érkezik vissza, hogy „nem kereste” vagy a címzett tulajdonostárs „elköltözött”, „ismeretlen”, illetve „elköltözött” vagy
   - bb) átvételét megtagadta, vagy
 - c) eredményes, de a nyilatkozattételre megszabott határidőn belül nem nyilatkozott.
 
@@ -717,7 +722,7 @@ javára történő átengedésére.
 
 (8) A használati megosztásról szóló megállapodás – a (10) bekezdésben meghatározott esetek kivételével – a (9) bekezdésben meghatározott módon elkészített, a használati rendet ábrázoló térképi kimutatással együtt érvényes, az a megállapodás elválaszthatatlan mellékletét képezi.
 
-(9) A használati megosztásról szóló megállapodásban részes tulajdonostársaknak az állami ingatlan-nyilvántartási térképi adatbázisból szolgáltatott – 30 napnál nem régebbi – hiteles szemle másolaton egyértelmű jelzéssel, a használati megosztásról szóló megállapodásnak megfelelően, azzal azonosítható módon ábrázolni kell az egyes tulajdonostársak részére kijelölt területet. A térképi kimutatást a használati megállapodásban részes tulajdonostársaknak alá kell írni.
+(9) A használati megosztásról szóló megállapodásban részes tulajdonostársaknak az állami ingatlan-nyilvántartási térképi adatbázisból szolgáltatott – a megállapodástervezet elkészítése időpontjában 30 napnál nem régebbi – hiteles szemle másolaton egyértelmű jelzéssel, a használati megosztásról szóló megállapodásnak megfelelően, azzal azonosítható módon ábrázolni kell az egyes tulajdonostársak részére kijelölt területet. A térképi kimutatást a használati megállapodásban részes tulajdonostársaknak alá kell írni.
 
 (9a) Erdőnek minősülő földre kötött használati megosztásról szóló megállapodás esetében a (9) bekezdés szerinti térképi kimutatás alatt az erdészeti hatóság által kiadott, 30 napnál nem régebbi erdészeti térkép felhasználásával, jogosult erdészeti szakszemélyzet által készített, külön jogszabályban meghatározott erdészeti térképi mellékletet kell érteni.
 
@@ -845,7 +850,7 @@ javára történő átengedésére.
 
 86. § A hatósági ellenőrzés során a 28. §-ban és a 29. §-ban foglaltak megfelelően alkalmazandók.
 
-#### 87. §
+87. § Az elővásárlási vagy előhaszonbérleti jog gyakorlásával összefüggésben vállalt kötelezettséget teljesítettnek kell tekinteni, ha az a használatnak a Földforgalmi törvény 13. § (2) bekezdése vagy a 42. § (2) bekezdése szerinti átengedése útján valósul meg.
 
 88. § (1) A mezőgazdasági igazgatási szerv a hatósági ellenőrzés során jogosult
 
@@ -1182,9 +1187,9 @@ rendeletben állapítsa meg.
 
 108/A. § 2014. május 5. napján minden olyan szerződés, szerződési kikötés, illetve szerződéses kötelezettségvállalás hatálya megszűnik, amely a felek rendelkezése szerint a földre vonatkozó jogszabályi tilalmak és korlátozások megszűnése esetére vagy ennek feltételével állt volna be, és egyébként nem minősül semmisnek. Az ilyen szerződésből, szerződési kikötésből, illetve kötelezettségvállalásból jogot, követelést vagy bármely más igényt érvényesíteni nem lehet. A 2014. május 5. napját követően kötött ilyen tartalmú szerződés, alkalmazott szerződési kikötés vagy vállalt kötelezettség nem lép hatályba.
 
-109. § A közös tulajdonban álló földre a 2013. december 31-ig megkötött haszonbérleti szerződés esetében a 60. § (1) bekezdésében foglalt felmondási jog akkor illeti meg a haszonbérbeadót, illetve annak jogutódját, ha a haszonbérleti szerződés fennállása alatt a közös tulajdon megszüntetésére a földrendező és földkiadó bizottságokról szóló törvény szabályai szerint került sor, és a tulajdoni hányadának megfelelő területet a közös tulajdon megszüntetésére irányuló eljárás eredményeként önálló ingatlanként kapta meg, feltéve, hogy
+109. § A közös tulajdonban álló földre a 2013. december 31-ig megkötött haszonbérleti szerződés esetében a 60. § (1) bekezdésében foglalt felmondási jog akkor illeti meg a haszonbérbeadót, illetve annak jogutódját, ha a haszonbérleti szerződés létrejöttekor a haszonbérlet tárgyát képező föld közös tulajdonban állt és a szerződés fennállása alatt a közös tulajdon megszüntetésére került sor, és a tulajdoni hányadának megfelelő területet a közös tulajdon megszüntetésére irányuló eljárás eredményeként önálló ingatlanként kapta meg, feltéve, hogy
 
-- a) a haszonbérlő felé a felmondással egyidejűleg úgy nyilatkozik, hogy azt a szerződés megszűnésével saját maga kívánja használni, és
+- a) a haszonbérlő felé a felmondással egyidejűleg nyilatkozik, hogy a földet a szerződés megszűnésével saját maga, közeli hozzátartozója, saját maga vagy közeli hozzátartozójának legalább 25%-ban tulajdonában álló mezőgazdasági termelőszervezet vagy olyan családi mezőgazdasági társaság, amelyben tag kívánja használni, és
 - b) a haszonbérleti szerződés megkötéséről szóló döntésben – függetlenül a döntés meghozatalának módjától – nem vett részt, de annak hatálya kiterjedt rá.
 
 110. § (1) Az olyan közös tulajdonban álló földet érintően, amelynek a földhasználati nyilvántartás 2014. január 1-jei állapota szerint a teljes területét egy vagy több földhasználó használja, a X. Fejezetben foglalt rendelkezéseket a bejegyzett földhasználat alapjául szolgáló szerződés vagy jogosultság megszűnését követően kell alkalmazni.
@@ -1206,6 +1211,51 @@ rendeletben állapítsa meg.
 (3) A 2018. évi CXXXVI. törvénnyel megállapított 101. és 102. §-t a 2018. évi CXXXVI. törvény hatályba lépésekor folyamatban lévő azon eljárásokban – a megismételt eljárásokat is ideértve – is alkalmazni kell, amelyek esetében a mezőgazdasági igazgatási szerv még nem kereste meg a helyi földbizottságot az állásfoglalása kiadása céljából.
 
 (4) A 2018. évi CXXXVI. törvénnyel megállapított 108. § (4) és (5) bekezdését a 2018. évi CXXXVI. törvény hatályba lépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+110/E. § (1) Az ingatlanügyi hatóság, illetve mezőgazdasági igazgatási szerv által a földhasználati nyilvántartásba, valamint a földművesekről, a mezőgazdasági termelőszövetkezetekről és a mezőgazdasági üzemközpontoktól vezetetett nyilvántartásba bejegyzett, valamint törölt bejegyzésként szereplő adatok vonatkozásában a földmérési és térinformatikai államigazgatási szerv mint adatkezelő, a Kormány által a 1004/2016. (I. 18.) Kormányhatározatban jóváhagyott KÖFOP-1.0.0.-VEKOP-15-2016-00040 számú projekt fejlesztése során az adatfeldolgozói feladatokat a rendszer fejlesztéshez szükséges mértékben a fejlesztését végző nem állami tulajdonú gazdálkodó szervezetnek is átadhatja egyedi megállapodás alapján.
+
+(2) A földmérési és térinformatikai államigazgatási szerv az alábbi személyes adatokat adhatja át az (1) bekezdésben szereplő adatfeldolgozási tevékenység ellátása érdekében:
+
+- a) titulus;
+- b) családi név;
+- c) utónév;
+- d) anyja neve;
+- e) születési hely;
+- f) születési dátum;
+- g) állampolgárság;
+- h) személyi azonosító szám;
+- i) lakóhely;
+- j) tartózkodási hely;
+- k) értesítési cím;
+- l) a személy javára bejegyzett jog, illetve szerződés jogcíme, amennyiben az az (1) bekezdés szerinti nyilvántartásokban feltüntetésre került.
+
+(3) A nem állami tulajdonú gazdálkodó szervezet az adatfeldolgozói feladatok elvégzése során köteles:
+
+- a) az adatkezelésre és adatfeldolgozásra vonatkozó jogszabályi előírásoknak megfelelni;
+- b) biztosítani, hogy a megismert adatok tekintetében munkavállalóikat akkor is titoktartás kötelezze, ha munkaviszonyuk már megszűnt;
+- c) az adatfeldolgozással érintett adatokat kizárólag az adatkezelővel kötött szerződésben foglaltaknak megfelelően, annak írásbeli utasítása alapján kezelni;
+- d) tudomásul venni, hogy az adatkezelő ellenőrizheti az adatfeldolgozói tevékenység végrehajtását, valamint az adatfeldolgozás során alkalmazott adatbiztonsági technológiai intézkedéseket, továbbá azok jogszabályi feltételeknek való megfelelőségét;
+- e) tudomásul venni, hogy az adatfeldolgozással érintettek felé adatkezelést és adatfeldolgozást érintő kérdésekben önállóan, saját nevében nem járhat el, nyilatkozatot nem tehet, az adatkezelő jogait nem sértheti;
+- f) együttműködni az adatkezelővel az esetleges hatósági ellenőrzések és jogszabályi megfelelőség igazolása során;
+- g) a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (általános adatvédelmi rendelet) (a továbbiakban: GDPR) 30. cikk (2) bekezdése alapján nyilvántartást vezetni az adatkezelő nevében végzett adatkezelési tevékenységének minden kategóriájáról;
+- h) az adatfeldolgozói műveleteket úgy megtervezni és végrehajtani, hogy azok a GDPR, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv)., valamint az adatkezelésre vonatkozó ágazati jogszabályok alkalmazásával biztosítsák az érintettek magánszférájának megfelelő védelmét;
+- i) biztosítani, hogy munkavállalói titokban tartsanak minden személyes adatot, valamint azt, hogy a személyes adatokhoz munkavállalói kizárólag a szükséges mértékben és azzal összefüggésben férjenek hozzá;
+- j) gondoskodni az adatok 2013. évi L. törvény (a továbbiakban: Ibtv.) szerinti biztonságáról, továbbá megtenni a technikai és szervezési intézkedéseket, amelyek az Infotv., a GDPR, valamint egyéb adat- és titokvédelmi szabályok érvényre juttatásához szükségesek.
+
+(4) A nem állami tulajdonú gazdálkodó szervezet az adatfeldolgozói feladatok elvégzése során felelős:
+
+- a) az adatfeldolgozással érintett adatok feldolgozásáért, megváltoztatásáért, törléséért, továbbításáért, nyilvánosságra hozataláért, továbbá az adatfeldolgozással érintett adatokon jogosulatlanul végzett műveletért;
+- b) mindazon kárért, amely az adatfeldolgozási tevékenységével összefüggésben, vagy annak eredményeként az ellenőrzési körében felmerülő körülmény folytán következett be;
+- c) azért, hogy a személyes adatok feldolgozásának megkezdése előtt figyelembe vette az adatkezelésből eredő olyan kockázatokat, amelyek különösen a továbbított, tárolt vagy más módon kezelt személyes adatok véletlen, vagy jogellenes megsemmisítéséből, elvesztéséből, megváltoztatásából, jogosulatlannyilvánosságra hozatalából vagy az azokhoz való jogosulatlan hozzáférésből erednek, és intézkedéseket tett ennek elkerülése érdekében;
+- d) a személyes adatok feldolgozásának megkezdése előtt intézkedéseket hozni annak biztosítására, hogy az irányítása alatt eljáró, a személyes adatokhoz hozzáféréssel rendelkező természetes személyek kizárólag az adatkezelő utasításainak megfelelően kezelhessék az érintett adatokat, kivéve, ha ettől való eltérésre jogszabály kötelez.
+
+(5) Az adatfeldolgozó az általa kezelt adatokat az adatfeldolgozási tevékenység bármely okból történő megszűnését követően átadás-átvételi jegyzőkönyv felvétele mellett átadja az adatkezelő számára oly módon, hogy azokat az adatfeldolgozó az általa felügyelt informatikai rendszerben visszavonhatatlanul és helyreállíthatatlanul törli.
+
+(6) Az adatfeldolgozó az érintett adatokat harmadik fél számára sem statisztikai, sem egyéb célból nem továbbíthatja, az üzemeltetett adatbázist más adatbázissal nem kapcsolhatja össze.
+
+(7) Az adatfeldolgozó az adatokat védett infrastruktúrán titkosított formában tárolja, az adattovábbítás során a kiépített állandó hálózati kapcsolatot titkosítási eljárásokkal védi.
+
+(8) Az adatfeldolgozó az adatokhoz való hozzáférésekről naplóállományokat vezet, amely lehetővé teszi legalább az adatokhoz való hozzáférés idejének, módjának, a hozzáférő személy azonosításához szükséges adatoknak, a fel-, illetve letöltött adatok mennyiségének megállapítását.
 
 ### XIX. Fejezet — A FÖLDHASZNÁLATI SZERZŐDÉSEKRE VONATKOZÓ ÁTMENETI RENDELKEZÉSEK
 

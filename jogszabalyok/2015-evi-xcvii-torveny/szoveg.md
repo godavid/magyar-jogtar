@@ -91,12 +91,13 @@ köthető.
 
 (3) Az (1) és (2) bekezdésben meghatározott kötelezettség betartását a mezőgazdasági igazgatási szerv ellenőrzi. Amennyiben a mezőgazdasági igazgatási szerv megállapítja a kötelezettség megszegését, ágazatfelügyeleti bírságot szab ki, amelynek legkisebb mértéke tízezer forint, legmagasabb mértéke 50 millió forint, de legfeljebb az elmarasztalt szerződő fél által a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevétel tíz százaléka.
 
-7/A. § (1) Magyarországon történő feldolgozása esetén kötelező írásba foglalni a feldolgozásra alaptermékként beszállított
+7/A. § (1) Kötelező írásba foglalni
 
-- a) meggy és
-- b) alma
+- a) Magyarországon történő feldolgozása esetén a feldolgozásra alaptermékként beszállított meggy,
+- b) Magyarországon történő feldolgozása esetén a feldolgozásra alaptermékként beszállított alma,
+- c) a Magyarországon megtermelt torma
 
-értékesítésére irányuló szerződést.
+felvásárlására irányuló szerződést.
 
 (2) Az (1) bekezdés szerinti szerződésnek a beszállított termékekért fizetendő árat
 
@@ -107,10 +108,11 @@ kell tartalmaznia.
 
 (3) Az (1) bekezdés szerinti szerződésnek egyebekben meg kell felelnie a Rendelet 168. cikk (4) bekezdésében meghatározott követelményeknek. A (2) bekezdés b) pontja vonatkozásában a Rendelet 168. cikk (4) bekezdés c) pontja i. alpontjának második francia bekezdésében foglaltakat kell alkalmazni.
 
-(4) A feldolgozó által az adott évben feldolgozandó gyümölcs legalább 60 százalékának felvásárlására irányuló (1) bekezdés szerinti szerződésnek
+(4) Az (1) bekezdés szerinti
 
-- a) meggy esetében az adott év május 15. napjáig,
-- b) alma esetében az adott év augusztus 1. napjáig
+- a) – a feldolgozó által az adott évben feldolgozandó gyümölcs legalább 60 százalékának felvásárlására irányuló – szerződésnek meggy esetében az adott év május 15. napjáig,
+- b) – a feldolgozó által az adott évben feldolgozandó gyümölcs legalább 60 százalékának felvásárlására irányuló – szerződésnek alma esetében az adott év augusztus 1. napjáig,
+- c) szerződésnek torma esetében az adott év augusztus 1. napjáig
 
 hatályba kell lépnie.
 
@@ -118,7 +120,9 @@ hatályba kell lépnie.
 
 (6) Az (1)–(4) bekezdésben foglaltak a gazdasági társaság tagja mint beszállító által a gazdasági társasággal kötött szerződésre nem vonatkoznak, ha teljesülnek azok a feltételek, amelyeket a Rendelet 168. cikk (5) bekezdése a szövetkezetek esetében előír.
 
-(7) Nem kell alkalmazni a (4) bekezdésben foglaltakat annak a feldolgozónak, amely az adott évben legfeljebb 100 tonna meggyet, illetve legfeljebb 200 tonna almát dolgoz fel.
+(7) Nem kell alkalmazni a (4) bekezdés a), illetve b) pontjában foglaltakat annak a feldolgozónak, amely az adott évben legfeljebb 100 tonna meggyet, illetve legfeljebb 200 tonna almát dolgoz fel.
+
+(8) Nem kell alkalmazni a (4) bekezdés c) pontjában foglaltakat, ha a tormát közvetlenül a fogyasztónak, vagy nagybani piacon értékesítik.
 
 7/B. § A termelő, a feldolgozó, a felvásárló, valamint a forgalmazó viszonylatában értékesített friss, illetve gyorsan romló mezőgazdasági és élelmiszer-ipari termék vonatkozásában a felek között létrejött írásbeli szerződésben meghatározott fogyaszthatósági vagy minőség megőrzési idő leteltét követően, erre vonatkozó szerződéses rendelkezés hiányában a termék birtokba vételét követően minőségi kifogásnak nincs helye.
 
@@ -296,11 +300,27 @@ elismeréséről.
 
 ### IV. Fejezet — SZAKTANÁCSADÁSI SZOLGÁLTATÁSOK SZABÁLYAI
 
-26. § (1) A legalább részben az államháztartás alrendszeréből, európai uniós forrásból vagy nemzetközi megállapodás alapján egyéb programból finanszírozott támogatás jogosultja részére szaktanácsadási szolgáltatást nyújtó szaktanácsadóként csak az a vállalkozás – ideértve a 18. §-nak megfelelően elismert szervezetek tagját, alkalmazottját, vagy a szervezettel egyéb szaktanácsadásra irányuló jogviszonyban álló, és a szervezet tagjai részére a szervezet megbízásából tanácsadási tevékenységet végző személyt is –, illetve természetes személy tevékenykedhet, aki a szaktanácsadói tevékenység végzésére irányuló szándékát a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolg. törvény) szerint bejelenti. A szaktanácsadói tevékenység végzésére irányuló bejelentés – a Szolg. törvényben meghatározott adatokon túl – tartalmazza a bejelentő azonosító adatait, értesítési címét, a vállalkozás szaktanácsadói tevékenységet végző tagjának szakirányú végzettségét, szaktanácsadói besorolását, szakterületét, illetve részszakterületét, valamint szakmai gyakorlatát bemutató összefoglalót.
+26. § (1) E törvény végrehajtására kiadott rendeletben meghatározott szakterületen szaktanácsadói tevékenységet az végezhet, aki a szaktanácsadói tevékenység végzésére irányuló szándékát a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarának (a továbbiakban: Agrárkamara) a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenti.
 
-(2) Az agrárkamara az (1) bekezdés szerinti szaktanácsadókról nyilvántartást vezet, amely tartalmazza a bejelentőnek az (1) bekezdésben meghatározott adatait, és – ha e célból rendelkezésre bocsátotta – egyéb elérhetőségét, továbbá a kapcsolódó végrehajtási rendeletben meghatározott egyéb adatokat, dokumentumokat. A nyilvántartásból kizárólag a szaktanácsadói tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(2) Az Agrárkamara a szaktanácsadókról névjegyzéket vezet, amely tartalmazza
 
-(3) Az (1) bekezdés szerinti szaktanácsadói tevékenység bejelentésével kapcsolatos feladatokat az agrárkamara országos ügyintéző szervezete látja el.
+- a) természetes személy esetében
+  - aa) nevét,
+  - ab) telefonszámát és elektronikus levelezési címét,
+  - ac) a végzettségének igazolását,
+  - ad) egy darab szabványméretű, két évnél nem régebbi, színes igazolványképet,
+  - ae) a szakmai önéletrajzot,
+- b) szervezet esetében
+  - ba) nevét,
+  - bb) telefonszámát és elektronikus levelezési címét,
+  - bc) közreműködő természetes személy szaktanácsadóinak nevét és névjegyzékszámát, és
+  - bd) a szakmai tevékenységet bemutató összefoglalót.
+
+(3) A névjegyzékben szereplő adatokat az Agrárkamara – a gazdasági forgalom biztonsága, a szaktanácsadói tevékenység gyakorlásával összefüggő jog vagy tény igazolása céljából – a szaktanácsadói tevékenységre való jogosultság megszüntetésétől számított 5 évig kezeli.
+
+(4) A névjegyzék adatai közül bárki számára megismerhető a szaktanácsadó neve, szaktanácsadói névjegyzékszáma, szakterülete és telefonszáma, elektronikus levelezési címe.
+
+(5) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény alapján folytatott ellenőrzés során feltárt szabálytalanság esetén az Agrárkamara nem szab ki bírságot.
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -324,11 +344,11 @@ elismeréséről.
 - k) a termelői szervezetekkel kapcsolatos, az egyes ágazatokra vonatkozó gazdasági térségeket;
 - l) a nemzeti minőségrendszerek, valamint az önkéntes mezőgazdasági-termék tanúsítási rendszerek elismerésére, felfüggesztésére, visszavonására vonatkozó részletes szabályokat
 - m) a cukorágazatban kötelezően alkalmazandó szerződés szabályait,
-- n) a meggy és az alma feldolgozására irányuló szerződésekkel kapcsolatban szolgáltatandó, személyes adatnak nem minősülő adatokat és az adatszolgáltatási kötelezettség részletszabályait
+- n) a meggy, az alma és a torma feldolgozására irányuló szerződésekkel kapcsolatban szolgáltatandó, személyes adatnak nem minősülő adatokat és az adatszolgáltatási kötelezettség részletszabályait
 
 rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a miniszter, hogy – az agrár-vidékfejlesztésért felelős miniszterrel egyetértésben – rendeletben állapítsa meg a mezőgazdasági, vidékfejlesztési szaktanácsadók szakterületeinek körét, a szaktanácsadói tevékenység folytatásának részletes feltételeit, a szaktanácsadói bejelentés részletes szabályait, a szaktanácsadók nyilvántartásának adattartalmát, a nyilvántartás vezetésére vonatkozó részletes szabályokat, a szaktanácsadók képzésére vonatkozó szabályokat, továbbá a szaktanácsadói tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket.
+(2) Felhatalmazást kap a miniszter, hogy – az agrár-vidékfejlesztésért felelős miniszterrel egyetértésben – rendeletben állapítsa meg a mezőgazdasági, vidékfejlesztési szaktanácsadók szakterületeinek körét, a szaktanácsadói tevékenység folytatásának részletes feltételeit, a szaktanácsadói bejelentés részletes szabályait, a szaktanácsadók nyilvántartásának adattartalmát, a nyilvántartás vezetésére vonatkozó részletes szabályokat, a szaktanácsadók képzésére, értékelésére vonatkozó szabályokat, továbbá a szaktanácsadói tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket.
 
 29. § Ez a törvény a kihirdetését követő második hónap első napján lép hatályba.
 

@@ -54,7 +54,7 @@ Az Országgyűlés – felismerve, hogy a magas színvonalú növénytermesztés
 - 26. Szaporulati fok: a továbbszaporítás során a kiindulási anyaghoz viszonyított leszármazási szint, amely az egymás utáni ismert elszaporítások számát fejezi ki.
 - 27. Szaporítóanyag-előállító: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki a növényfajta vetőmagjának szaporítására, vegetatív szaporító alapanyagának és ültetési anyagának előállítására, feldolgozására, forgalomba hozatalára jogosult, illetve a szaporítóanyag-minősítési eljárást kezdeményezi.
 - 28. Szaporítóanyag-forgalmazó: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki szaporítóanyagot értékesítési céllal készletez, bemutat, eladásra felkínál, vagy más részére elad.
-- 29. Szaporítóanyag forgalomba hozatal: szaporítóanyag készletezés, bemutatás, eladásra való felkínálás, eladás vagy szállítás más részére bármilyen formában.
+- 29. Szaporítóanyag forgalomba hozatal: szaporítóanyag készletezés, bemutatás, eladásra való felkínálás, eladás vagy szállítás (kivéve a feldolgozást vagy csomagolást végző szolgáltató részére történő, nem értékesítési célú szállítás).
 - 30. Szaporítóanyag minősítés: hazai és nemzetközi előírások szerinti és a külön jogszabályban meghatározott módon, állami felügyelettel végzett ellenőrzési eljárás.
 - 31. Fémzárolás: a minősített szaporítóanyag-tétel csomagolási egységének oly módon történő lezárása fémzár vagy azt helyettesítő más anyag vagy módszer alkalmazásával, hogy a csomagolási egység megsértése nélkül a tételhez hozzáférni ne lehessen.
 - 32. Szaporítóanyag előállítási zárt körzet: a szaporítóanyag előállítás genetikai és növényegészségügyi tisztaságának megőrzése céljából e törvényben és külön jogszabályban előírt korlátozásokkal elrendelt termesztési körzet; ide tartoznak a külön jogszabályban meghatározott nagyságú törzsültetvények is.
@@ -196,7 +196,7 @@ szereplő növényfaj-, és fajta szaporítóanyagát szabad forgalomba hozatal 
 
 (4) Magyarország területén tilos szaporítóanyagként felhasználni céltermeltetésből bármilyen okból visszamaradt szaporítóanyagot.
 
-(5)
+(5) Tilos az e törvény, illetve e törvény végrehajtására kiadott rendelet előírásainak meg nem felelő növényi szaporítóanyag – beleértve a továbbszaporítás során nem igazolt származású vagy alkalmatlannak minősített növényállomány magtermésének vetőmagkénti – felhasználása és forgalomba hozatala.
 
 (6) A kábítószerek vagy pszichotróp anyagok előállítására alkalmas növényfajok szaporítóanyagának előállítását és forgalomba hozatalát külön jogszabály feltételekhez kötheti.
 
@@ -204,7 +204,7 @@ szereplő növényfaj-, és fajta szaporítóanyagát szabad forgalomba hozatal 
 
 (8) A (7) bekezdés szerinti engedéllyel rendelkező előállítót, forgalmazót a nyilvántartást vezető szerv – a növénytermesztési hatóság megkeresésére – nyilvántartásba veszi.
 
-(9) Szőlő-, gyümölcs- és erdészeti szaporítóanyagot – beleértve a mikorrhizált erdészeti szaporítóanyagot – az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott módon, a Kormány által kijelölt szerv általi minősítést követően lehet előállítani, gyűjteni, valamint forgalomba hozni. A minősítés eredményéről a minősítést végző szerv hatósági bizonyítványt állít ki.
+(9) Szőlő-, gyümölcs- és erdészeti szaporítóanyagot – beleértve a mikorrhizált erdészeti szaporítóanyagot – az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott módon, a növénytermesztési hatóság általi minősítést követően lehet előállítani, gyűjteni, valamint forgalomba hozni. A minősítés eredményéről a minősítést végző szerv hatósági bizonyítványt állít ki.
 
 (10) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a (7), illetve a (9) bekezdés szerinti tevékenység határon átnyúló szolgáltatásnyújtás keretében történő folytatására irányuló szándékát köteles a növénytermesztési hatóságnak bejelenteni. A bejelentésben meg kell jelölni a természetes személy bejelentő természetes személyazonosító adatait.
 
@@ -230,11 +230,13 @@ szereplő növényfaj-, és fajta szaporítóanyagát szabad forgalomba hozatal 
 
 (2) A vetőmagtermesztés elsődlegességének biztosítása és e törvény végrehajtására kiadott jogszabályban előírt védőtávolságok érvényesítése érdekében a vetőmag előállítója az előírt védőtávolságon belül lévő termőföld használójával (a továbbiakban: földhasználó) szerződésben állapodhat meg vagy vetőmag szaporítási zárt körzetet hozhat létre.
 
-(3) A vetőmag előállítónak – az érintett földterületrészek területének pontos meghatározásával együtt – a helyi önkormányzat hirdető tábláján, az illetékes kormányhivatalban, illetve a járási hivatalban közzé kell tennie a vetéstervét:
+(3) A vetőmag előállítónak – az érintett földterületrészek területének pontos meghatározásával együtt – a helyi önkormányzat hirdető tábláján közzé kell tennie a vetéstervét:
 
 - a) tavaszi vetésű növények esetében január 15-ig,
 - b) őszi káposztarepce esetében július 1-jéig,
 - c) egyéb őszi vetésű növények esetében augusztus 1-jéig.
+
+(3a) Az ingatlan fekvése szerint illetékes helyi önkormányzat jegyzője intézkedik a (3) bekezdés szerinti vetésterv elektronikus tájékoztatási rendszer keretében működő kormányzati honlapon (a továbbiakban: kormányzati portál), hirdetményi úton történő közzététele iránt. A kormányzati portálon való közzététel az önkormányzat hirdetőtábláján történő kifüggesztéssel megegyező időtartamú és tájékoztató jellegű.
 
 (4) A védőtávolságba eső földhasználónak az egyeztetés iránti igényét a közzétételt követő 30 napos jogvesztő határidőn belül kell bejelentenie a vetőmag-előállító részére, ha a meghirdetett vetésterv a vetéstervét kedvezőtlenül befolyásolja és számára e törvény végrehajtására kiadott rendelet szerint jelentős eredményveszteséget okoz. A földhasználónak bizonyítania kell, hogy a védőtávolságba eső földterületen jelentős anyagi veszteség nélkül nem tud más növényfajt termeszteni, nem tudja a vetésforgót más módon kialakítani vagy hasonló értékű és igényű vetőmag előállítást végezni.
 
@@ -278,9 +280,9 @@ szereplő növényfaj-, és fajta szaporítóanyagát szabad forgalomba hozatal 
 
 (2a)
 
-(3) A növénytermesztési hatóság a Kormány által kijelölt minősítő szerv által minősített törzsültetvényről engedélyezi szaporítóanyag előállítását.
+(3) A növénytermesztési hatóság az általa minősített törzsültetvényről engedélyezi szaporítóanyag előállítását.
 
-(4) Forgalomba hozatal céljából – a külön jogszabályban meghatározott kivétellel – csak törzsültetvényből származó alapanyag felhasználásával és csak engedélyezett árutermelő szőlő-, gyümölcs faiskolában, illetve csemetekertben, e törvény és a növényegészségügyi előírások betartásával lehet szaporítóanyagot előállítani.
+(4) Forgalomba hozatal céljából – a külön jogszabályban meghatározott kivétellel – csak törzsültetvényből származó alapanyag felhasználásával és csak engedélyezett árutermelő szőlőiskolában, árutermelő gyümölcs- és díszfaiskolában, illetve csemetekertben, e törvény és a növényegészségügyi előírások betartásával lehet szaporítóanyagot előállítani.
 
 (5)
 
@@ -294,7 +296,7 @@ szereplő növényfaj-, és fajta szaporítóanyagát szabad forgalomba hozatal 
 
 (4) A fémzároltató a 21. § (2) bekezdése szerinti címkét köteles a növénytermesztési hatóságtól megrendelni, amely a vetőmagtétel azonosítása céljából kiadja a címkét.
 
-(5) A növénytermesztési hatóság a (4) bekezdés szerinti megrendelést követő 8 napon belül hatósági ellenőrzést, mintavételt végez a vetőmag minőségi megfelelőségének laboratóriumi vizsgálata céljából.
+(5) A növénytermesztési hatóság hatósági ellenőrzést, mintavételt végez a vetőmag minőségi megfelelőségének laboratóriumi vizsgálata céljából.
 
 (6) A növénytermesztési hatóság az (5) bekezdés szerinti mintavétel eredménye alapján a vetőmagtételt nyilvántartásba veszi. A növénytermesztési hatóság a nyilvántartás adatai alapján a fémzároltató részére hatósági bizonyítványt állít ki.
 
@@ -475,6 +477,8 @@ a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatár
 
 (4) A növénytermesztési hatóság e törvény és a végrehajtására kiadott jogszabályok előírásainak megsértőjével szemben minőségvédelmi bírságot szab ki, ha megállapítja, hogy az előállított, illetve forgalomba hozott növényi szaporítóanyag nem felel meg az előírt követelményeknek.
 
+(5) A növénytermesztési hatóság a szaporítóanyag – e törvény, valamint e törvény végrehajtására kiadott jogszabályoknak való megfelelőségének ellenőrzése érdekében – a hatósági ellenőrzés során próbavásárlást végezhet, ideértve a távértékesítés keretében távértékesítési szerződés megkötésével az interneten történő vásárlást is.
+
 ### Minőségvédelmi bírság
 
 28. § (1) A minőségvédelmi bírság legkisebb összege tízezer forint.
@@ -519,7 +523,7 @@ a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatár
 - c)
 - d) a szaporítóanyag tételek átruházott minősítésének személyi és tárgyi feltételeit,
 - e)
-- f) a forgalomba hozható szaporítóanyagok minőségének előírásait,
+- f) a forgalomba hozható szaporítóanyagok minőségének előírásait, a minőség megfelelő tanúsítását és ellenőrzését,
 - g) a zárt körzetek kialakításának feltételeit,
 - h) a törzsültetvények, a faiskolák és palántanevelő üzemek létesítésének feltételeit,
 - i) a génmegőrzési feladatokat, a genetikai anyagok védelme szempontjából jelentős növényfajokat, továbbá azok megőrzésének, fenntartásának, átadásának feltételeit, kijelölje a genetikai anyagok megőrzéséért felelős intézményeket, valamint ezek eljárási rendjét,

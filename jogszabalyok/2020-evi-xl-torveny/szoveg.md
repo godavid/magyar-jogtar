@@ -39,6 +39,8 @@ foglaltak szerint jár el.
 - a) védett természeti területeknek az Nfatv. szerinti vagyonkezelésbe adásáról,
 - b) a védett természeti területek védettségi szintjének helyreállításáról szóló 1995. évi XCIII. törvény szerinti védelemre tervezett természeti területek hasznosításáról a védetté nyilvánításig.
 
+(4) A termelőszövetkezeti földhasználati joggal érintett, önálló helyrajzi számon nyilvántartott utakat – ha azok nem a szövetkezet tulajdonát képezik – a Nemzeti Földalap kezeléséért felelős szerv legkésőbb 2021. december 31. napjáig az illetékes települési önkormányzat, a fővárosban a Fővárosi Önkormányzat tulajdonába vagy – a Fővárosi Önkormányzat nyilatkozata alapján – a kerületi önkormányzat tulajdonába adja. A védett vagy védelemre tervezett természeti területhez tartozó utak az állam tulajdonába és a védett vagy védelemre tervezett természeti területen működő nemzeti park igazgatóságnak a vagyonkezelésébe kerülnek.
+
 4. § (1) Azok a személyek, akik az 1. § (1) bekezdésében meghatározott időpontban kiadatlan részarány-tulajdonnal rendelkeznek, a (2) bekezdésben meghatározott mértékű kártalanításra tarthatnak igényt. Az a természetes személy minősül kiadatlan részarány-tulajdonnal rendelkezőnek, akinek a nevén 2021. január 1-jén az ingatlanügyi hatóság által vezetett termelőszövetkezeti különlapon aranykorona értékben kifejezett részarány-tulajdon van nyilvántartva, és amely ellenében sem ingatlan tulajdonához, sem kártalanításhoz nem jutott.
 
 (2) A kártalanítás mértéke aranykorona jogosultságonként ötvenezer forint.
@@ -50,6 +52,8 @@ foglaltak szerint jár el.
 (3) A kifizetésekre a kérelmek beérkezésének sorrendjében kerül sor.
 
 6. § A 4. § (1) bekezdésében meghatározottak mellett az Fkbt. 12/C. §-ában foglalt, védett és védelemre tervezett területeket érintő esetben, ha az ott meghatározott kártalanításra jogosult részarány-tulajdonost illetően a mezőgazdasági igazgatási szerv véglegessé vált határozata alapján a kártalanítás összegének megfizetésére 2021. január 1-jéig még nem került sor, úgy a kártalanításra jogosult részarány-tulajdonos a teljes kiadatlan részaránytulajdona tekintetében e törvény szerinti kártalanítási összegre jogosult.
+
+6/A. § Ha a szövetkezet a szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény 25. § (3) bekezdésének megfelelően 2021. január 1-jét megelőzően döntést hozott, ezen vagyonnevesítéssel meghatározott aranykorona értéket az ingatlanügyi hatóság a szövetkezet kérelme alapján – az egyes tagoknak járó részarány-tulajdonként – vezeti rá a termelőszövetkezeti különlapokra. Az így nyilvántartott részarány-tulajdona tekintetében a részarány-tulajdonos e törvény szerinti kártalanítási összegre jogosult.
 
 7. § (1) A Nemzeti Földalapba tartozó földrészleteken fennálló értéknövelő beruházásokkal kapcsolatos elszámolási igény érvényesítésére irányadó szabályokat kell alkalmazni, ha az 1. § (1) bekezdésében meghatározott
 

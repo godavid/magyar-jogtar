@@ -853,3 +853,5 @@ fedezi.
 55. § (1) A 21. § (2a) bekezdése és a 22. § (3a) bekezdése a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelv 56a. cikk (2) bekezdésének való megfelelést szolgálja.
 
 (2) A 38. § (2a) és (2b) bekezdése a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (2) bekezdés c) pontjának való megfelelést szolgálja.
+
+56. § Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény és a Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló 2012. évi CXXVII. törvény módosításáról szóló 2020. évi LIII. törvény hatálybalépésekor már praxisengedéllyel rendelkező társas vállalkozás esetében a 38. § (2a) bekezdésében foglalt feltételnek a tulajdoni hányad, illetve a legfőbb döntéshozó szervben fennálló szavazati jogok arányának az egyes agrártárgyú törvények módosításáról szóló 2021. évi LX. törvény hatálybalépését követő első megváltoztatásától kell megfelelni.

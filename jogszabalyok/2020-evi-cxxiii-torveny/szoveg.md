@@ -102,6 +102,12 @@ terjed ki.
 
 (6) Az Agrárkamara törli a nyilvántartásból az őstermelők családi gazdaságára vonatkozó adatokat a mezőgazdasági őstermelő vonatkozásában a 10. § (2) bekezdés d) pontjában meghatározott esetben.
 
+(7) Az Agrárkamara az őstermelők családi gazdaságát törli a nyilvántartásból, ha
+
+- a) tagjai együttesen kérelmezik a nyilvántartásból való törlést,
+- b) az őstermelők családi gazdasága már nem felel meg a nyilvántartásba vétel feltételeinek és a tagok felszólítás ellenére sem pótolják 60 napon belül a hiányzó feltételeket, vagy
+- c) az őstermelők családi gazdaságát alapító szerződés a 10. § (1) bekezdése alapján hatályát veszti.
+
 #### 8. Az őstermelők családi gazdaságának működése
 
 8. § (1) Az őstermelők családi gazdaságának képviselője a többi tag képviseletében az őstermelők családi gazdasága tevékenysége körében jogokat szerezhet és kötelezettségeket vállalhat.
@@ -110,7 +116,7 @@ terjed ki.
 
 9. § A közös tevékenység nyeresége és vesztesége – ha a tagok eltérően nem állapodnak meg az őstermelők családi gazdaságának alapításáról szóló szerződésben – a tagok közt egyenlő arányban oszlik meg.
 
-10. § (1) Az őstermelők családi gazdaságát alapító szerződés hatályban marad bármely tag tagsági jogviszonyának megszűnése esetén, amíg a tagok száma egy főre nem csökken.
+10. § (1) Az őstermelők családi gazdaságát alapító szerződés hatályban marad bármely tag tagsági jogviszonyának megszűnése esetén a gazdálkodást tovább folytató tagokra vonatkozóan, amíg a tagok száma egy főre nem csökken. Ha a tagok száma egy főre csökken, az őstermelők családi gazdaságát alapító szerződés hatályát veszti.
 
 (2) A tagsági jogviszony megszűnik, ha
 
@@ -220,7 +226,7 @@ tárolja.
 
 - a) a tagok tulajdonában vagy használatában levő egyes mező-, erdőgazdasági hasznosítású föld használatának a társaság részére történő átengedéséről,
 - b) a mezőgazdasági termelőeszközöknek és a vagyoni értékű jogoknak a társaság részére történő átengedéséről,
-- c) a személyes közreműködés formájáról, annak elszámolási rendjéről.
+- c)
 
 (5) A családi mezőgazdasági társaság tagjai a hozzátartozói minőségükben bekövetkezett változásról kötelesek az Agrárkamarát 15 napon belül értesíteni.
 
@@ -253,7 +259,7 @@ tárolja.
 
 17. § Ez a törvény 2021. január 1-jén lép hatályba.
 
-18. § (1) A 19. § (7) bekezdése 2021. július 1-jén hatályát veszti.
+18. § (1) A 19. § (8) bekezdése 2021. július 1-jén hatályát veszti.
 
 (2) A 19. § (9) bekezdése 2022. december 31-én hatályát veszti.
 

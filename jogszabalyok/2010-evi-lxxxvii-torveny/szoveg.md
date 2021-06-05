@@ -96,7 +96,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - c) jóváhagyja a 8. § (1) bekezdés c) pontjában meghatározott éves tervet;
 - d) előterjeszti a Kormány részére elfogadás céljából a 8. § (1) bekezdés a) pontjában foglalt középtávú stratégiai tervet;
 - e) dönt az NFK költségvetési előirányzatával kapcsolatos előterjesztésekről;
-- f) kinevezi a Tanács elnökét és tagjait;
+- f) kinevezi a Birtokpolitikai Tanács (a továbbiakban: Tanács) elnökét és tagjait;
 - g) jóváhagyja a Tanács ügyrendjét.
 
 7. § (1) Az NFK elnöke
@@ -318,7 +318,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 17/B. § Az NFK köteles az ingatlan-nyilvántartásban az állam tulajdonában lévő területek vonatkozásában a vadászterületeket nyilvántartani, azok határainak változását figyelemmel kísérni.
 
-18. § (1) Az NFK a Nemzeti Földalapba tartozó földrészletet eladással, haszonbérbe adással, vagyonkezelésbe adással, mintagazdasági földhasználati szerződés útján vagy cserével hasznosítja. A 21. és 22. §-ban meghatározott kivételekkel az NFK a Nemzeti Földalapba tartozó földrészletet nyilvános pályázat vagy árverés útján adhat el, továbbá nyilvános pályázat útján adhat haszonbérbe.
+18. § (1) Az NFK a Nemzeti Földalapba tartozó földrészletet eladással, haszonbérbe adással, az (5) bekezdés szerinti megbízással, erdőgazdálkodási haszonbérbe adással, erdőgazdálkodási integrációs szerződés útján, vagyonkezelésbe adással, mintagazdasági földhasználati szerződés útján vagy cserével hasznosítja. A 21. és 22. §-ban meghatározott kivételekkel az NFK a Nemzeti Földalapba tartozó földrészletet nyilvános pályázat vagy árverés útján adhat el, továbbá nyilvános pályázat útján adhat haszonbérbe, erdőgazdálkodási haszonbérbe, vagy köthet erdőgazdálkodási integrációs szerződést.
 
 (1a) Föld vagy tanya haszonbérbe adása során a jogszabály vagy szerződés alapján fennálló előhaszonbérleti jog nem gyakorolható.
 
@@ -621,7 +621,7 @@ adható.
 
 35. § (1) E törvény hatálybalépése nem érinti a Nemzeti Földalapról szóló 2001. évi CXVI. törvény 13/A. §-a alapján e törvény hatálybalépése előtt közzétett pályázati felhívás alapján kötött életjáradéki szerződéseket. Az ezen szerződések alapján fizetendő életjáradék a központi költségvetés központosított kiadása, amelyet a Nemzeti Földalapról szóló törvény hatálya alá tartozó állami vagyonnal való gazdálkodásból származó bevételeket és kiadásokat tartalmazó fejezetben kell megtervezni és elszámolni.
 
-(2)
+(2) Az 21. § (6) bekezdése nem alkalmazható az e törvény hatálybalépésekor fennálló haszonbérleti szerződés meghosszabbítása, valamint a haszonbérleti jogviszony helyébe lépő mintagazdasági földhasználati szerződés megkötése során.
 
 36. § E törvénynek a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény és az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény módosításáról szóló 2013. évi LIX. törvény (a továbbiakban: Módtv.) 1. §-ával megállapított 18. § (1c) bekezdését, 2. §-ával módosított 20. § (2) és (7) bekezdését, 3. § (2) bekezdésével módosított 21. § (6) bekezdését, 5. §-ával módosított 31. §-át a Módtv. hatálybalépésekor fennálló szerződések esetében is alkalmazni kell.
 
@@ -653,7 +653,7 @@ adható.
 
 48. § E törvény
 
-- a) 1–3. §-a, 18–23/A. §-a, 36. §-a és 38. § (1a) bekezdése az Alaptörvény 38. cikk (1) bekezdése,
+- a) 1–3. §-a, 18–23/A. §-a, 35. § (2) bekezdése, 36. §-a és 38. § (1a) bekezdése az Alaptörvény 38. cikk (1) bekezdése,
 - b) 25. §-a az Alaptörvény P) cikk (2) bekezdése
 
 alapján sarkalatosnak minősül.

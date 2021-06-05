@@ -349,7 +349,16 @@ vonatkozó rendelkezéseket is alkalmazni kell.
 
 14. § (1) Az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet az erdészeti hatóság az Adattárban a 38. § (2) bekezdés a) és b) pontjában, a fátlan állapotban tartott erdő esetében továbbá a 38. § (2) bekezdés c) pontjában foglalt adatokkal tartja nyilván.
 
-(2) Az erdészeti hatóság az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet – a fátlan állapotban tartott erdő kivételével – az erdőgazdálkodónak a tulajdonos hozzájárulásával tett bejelentésére kivezeti az Adattárból, ha az erdőgazdálkodó nyilatkozata alapján a terület erdőgazdálkodási célt már nem szolgál.
+(2) Az erdészeti hatóság az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet közül a
+
+- a) 13. § (1) bekezdés e) pontja szerinti vadföld területét,
+- b) 13. § (1) bekezdés i) pontja szerinti erdészeti kutatóhely területét,
+- c) a fél hektárt meghaladó nagyságú 13. § (1) bekezdés b) pontja szerinti terméketlen területet,
+- d) az erdőrészlethez nem csatlakozó területet,
+- e) az erdőrészlettel az erdőrészlet kerületének felénél kisebb részben érintkező területet,
+- f) az 1 hektár területnagyságot meghaladó és átlagos szélességét tekintve 30 méternél szélesebb nagyságú egyéb részletet
+
+az erdőgazdálkodónak a tulajdonos hozzájárulásával tett bejelentésére kivezeti az Adattárból, ha az erdőgazdálkodó nyilatkozata alapján a terület erdőgazdálkodási célt már nem szolgál.
 
 ### Az erdészeti létesítmény
 
@@ -1025,7 +1034,7 @@ folytatott gazdálkodást kell érteni.
 
 - a) annak véghasználatát követően,
 - b) ha az összefüggően ötezer négyzetmétert meghaladó területen bármilyen okból kipusztult, illetve hiányzik, és az erdészeti hatóság az érintett területen az erdő fátlan állapotban tartását nem engedélyezte, vagy
-- c) ha annak záródása összefüggően két hektárt meghaladó területen hatvan – felnyíló erdő esetén harminc, felnyitott erdő esetén ötven – százalék alá csökkent,
+- c) ha annak záródása összefüggően két hektárt meghaladó területen hatvan – felnyíló erdő esetén harminc, felnyitott erdő vagy talajvédelmi rendeltetésű erdő esetén ötven – százalék alá csökkent,
 
 az erdőgazdálkodónak az e fejezetben foglaltak szerint az e törvény végrehajtására kiadott jogszabályban meghatározott határidőig fel kell újítania.
 
@@ -1312,7 +1321,7 @@ a vágásérettségi kor elérése előtt sor kerülhet.
 
 (1a) Az erdészeti hatóság az érintett terület alapulvételével erdőfelújítási biztosíték nyújtását írja elő, ha az állam 100%-os tulajdonában nem álló erdőben az erdőgazdálkodó, ennek hiányában a földhasználatra jogosult személy túllépi az erdőfelújítás megkezdésére és pótlására vonatkozó határidőt.
 
-(1b) Az (1a) bekezdés szerinti erdőfelújítási biztosítékot az erdészeti hatóság a tevékenység elvégzésének műszaki átvétele után 60 napon belül felszabadítja.
+(1b) Az (1a) bekezdés szerinti erdőfelújítási biztosítékot az erdészeti hatóság a tevékenység elvégzésének bejelentését követő 15 napon belül elvégzett műszaki átvétele után 45 napon belül felszabadítja.
 
 (2) Az (1) bekezdés a) pontjának alkalmazása tekintetében a határidő-túllépést
 
@@ -1917,9 +1926,10 @@ AZ ERDŐ ŐRZÉSE
 
 - a) ha az erdőgazdálkodó – jogi személy esetén törvényes képviselője, vagy személyesen közreműködő tagja – jogosult erdészeti szakszemélyzeti kiemelt besorolással „érvényes” szakirányítói státuszban szerepel az erdészeti szakirányítói névjegyzékben,
 - b) az erdészeti szakirányítói névjegyzékben jogosult erdészeti szakszemélyzeti kiemelt besorolással „érvényes” szakirányítói státuszban szereplő jogosult erdészeti szakszemélyzet munkaviszony keretében történő alkalmazása,
-- c) az erdészeti szakirányítói névjegyzékben „érvényes” szakirányítói státuszban szereplő erdészeti szakirányító vállalkozás megbízása
+- c) az erdészeti szakirányítói névjegyzékben „érvényes” szakirányítói státuszban szereplő erdészeti szakirányító vállalkozás megbízása,
+- d) az őstermelők családi gazdasága erdőgazdálkodásában a tag személyes közreműködése, amennyiben a tag az erdészeti szakirányítói névjegyzékben jogosult erdészeti szakszemélyzeti kiemelt besorolással „érvényes” szakirányítói státuszban szereplő jogosult erdészeti szakszemélyzet
 
-[az a)–c) pont a továbbiakban együtt: alkalmazott szakirányító].
+[az a)–d) pont a továbbiakban együtt: alkalmazott szakirányító].
 
 (3) Erdészeti szakirányításra jogosult
 
@@ -1934,7 +1944,9 @@ AZ ERDŐ ŐRZÉSE
 
 - a) az erdőgazdálkodás szakmai szabályainak,
 - b) az erdő fennmaradásához és védelméhez, a fenntartható tartamos erdőgazdálkodáshoz fűződő közérdeknek, valamint
-- c) az erdőgazdálkodó érdekének és kinyilvánított akaratának megfelelően biztosítja.
+- c) az erdőgazdálkodó érdekének és kinyilvánított akaratának
+
+megfelelően biztosítja.
 
 (7) Az erdészeti szakirányításra irányuló szerződést írásba kell foglalni.
 
@@ -2152,7 +2164,7 @@ irányuló eljárásban.
 
 (7) Az erdő igénybevételének engedélyezésére vagy elvi engedélyezésére irányuló eljárásban súlyos eljárási jogszabálysértésként semmisségi oknak minősül, ha az erdészeti hatóság a közérdekűség vagy a kivételesség e törvény szerinti vizsgálata nélkül dönt.
 
-(8) Bírság kiszabása iránti eljárásban, ha a bírságolásra az erdő állapotának vizsgálata és értékelése alapján kerül sor, és ezért az erdészeti hatóság a bizonyítási eljárás részeként helyszíni szemlét tart, a szemlén való részvételre az erdőgazdálkodónak vagy az őt képviselő jogosult erdészeti szakszemélyzetnek az erdészeti hatóság lehetőséget biztosít.
+(8) Bírság kiszabására, illetve a 72. § (1a) bekezdés szerinti erdőfelújítási biztosíték nyújtásának előírására irányuló eljárásban, ha a döntésre az erdő állapotának vizsgálata és értékelése alapján kerül sor, és ezért az erdészeti hatóság a bizonyítási eljárás részeként helyszíni szemlét tart, a szemlén való részvételre az erdőgazdálkodónak vagy az őt képviselő jogosult erdészeti szakszemélyzetnek az erdészeti hatóság lehetőséget biztosít.
 
 (9)
 

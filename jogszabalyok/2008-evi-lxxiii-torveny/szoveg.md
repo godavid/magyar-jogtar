@@ -2,33 +2,40 @@
 
 a pálinkáról, a törkölypálinkáról és a Pálinka Nemzeti Tanácsról
 
-Az Országgyűlés a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet III. számú melléklete szerint földrajzi árujelző oltalom alatt álló pálinka és törkölypálinka előállításának, minősítésének és ellenőrzésének az Európai Unió jogrendszerébe illeszkedő, nemzeti hatáskörbe tartozó szabályozása érdekében a következő törvényt alkotja:
+Az Országgyűlés a földrajzi jelzés oltalommal rendelkező pálinka és törkölypálinka előállításának, minősítésének és ellenőrzésének az Európai Unió jogrendszerébe illeszkedő, nemzeti hatáskörbe tartozó szabályozása érdekében a következő törvényt alkotja:
 
 ### A törvény alkalmazási köre
 
 1. § (1) Ez a törvény szabályozza a pálinka megnevezés használatát, rendelkezik továbbá a pálinka előállítása során alkalmazott különleges eljárásokról, a pálinka forgalomba hozataláról, valamint a Pálinka Nemzeti Tanácsról.
 
-(2) E törvény rendelkezései nem vonatkoznak a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 110/2008/EK rendelet) III. számú mellékletében felsorolt osztrák területeken előállított barackpárlatokra.
+(2) E törvény rendelkezései nem vonatkoznak az (EU) 2019/787 európai parlamenti és tanácsi rendelet értelmében földrajzi jelzés oltalommal (a továbbiakban: földrajzi jelzés oltalom) rendelkező pálinka termékleírásában meghatározott ausztriai szövetségi tartományokban előállított barackpárlatokra.
 
 (3) A pálinkára az e törvényben meghatározott eltérésekkel az élelmiszerekre vonatkozó törvényi rendelkezéseket kell alkalmazni.
 
-(4) E szakaszban, valamint az 5., 7., 10., 12., 13. §-ban foglalt rendelkezéseket a törkölypálinkára is alkalmazni kell.
+(4) E törvényt – a 2. § (1) és (6)–(8) bekezdése, valamint a 3. § 4. pontja kivételével – a törkölypálinkára is alkalmazni kell.
+
+### Értelmező rendelkezések
+
+1/A. § E törvény alkalmazásában:
+
+- a) földrajzi jelzés: az (EU) 2019/787 európai parlamenti és tanácsi rendelet 3. cikk 4. pontja szerinti fogalom,
+- b) termékleírás: olyan, földrajzi jelzés oltalommal rendelkező pálinkára vonatkozó követelményeket tartalmazó dokumentum, amely megfelel az (EU) 2019/787 európai parlamenti és tanácsi rendelet 22. cikkében meghatározott követelményeknek.
 
 ### A pálinka és törkölypálinka megnevezéshasználata
 
-2. § (1) Pálinkának csak a 110/2008/EK rendelet II. számú mellékletének 9. számú kategóriája szerinti eljárással készített olyan gyümölcspárlat nevezhető, amelyet Magyarországon termett gyümölcsből – ideértve a gyümölcsvelőt is – készítettek, és amelynek cefrézését, párlását, érlelését és palackozását is Magyarországon végezték. Sűrítményből, aszalványból, szárítmányból készült termék nem nevezhető pálinkának.
+2. § (1) Pálinkának csak az (EU) 2019/787 európai parlamenti és tanácsi rendelet I. melléklet 9. pontjában meghatározott eljárással készített olyan gyümölcspárlat nevezhető, amelyet Magyarországon termett gyümölcsből – ideértve a gyümölcsvelőt is – készítettek, és amelynek cefrézését, párlását, érlelését és palackozását is Magyarországon végezték. Sűrítményből, aszalványból, szárítmányból készült termék nem nevezhető pálinkának.
 
-(2) Törkölypálinkának csak a 110/2008/EK rendelet II. számú mellékletének 6. számú kategóriája szerinti eljárással készített olyan törkölypárlat nevezhető, amelyet Magyarországon termett szőlő törkölyéből készítettek, és amelynek cefrézését, párlását, érlelését és palackozását is Magyarországon végezték.
+(2) Törkölypálinkának csak az (EU) 2019/787 európai parlamenti és tanácsi rendelet I. melléklet 6. pontjában meghatározott eljárással készített olyan törkölypárlat nevezhető, amelyet Magyarországon termett szőlő törkölyéből készítettek, és amelynek cefrézését, párlását, érlelését és palackozását is Magyarországon végezték.
 
 (3) A törkölypálinka készítése során répa-, nád-, izo- vagy gyümölcscukorral javított szőlőtörköly, borseprő nem használható fel.
 
 (4) A pálinkát és a törkölypálinkát nem lehet ízesíteni, színezni, édesíteni még a termék végső ízének lekerekítése érdekében sem. Kizárólag a mellékletben felsorolt anyagok használata megengedett.
 
-(5) Amennyiben az (1)–(4) bekezdésben foglalt bármelyik feltétel nem teljesül, nem nevezhető pálinkának, illetőleg törkölypálinkának.
+(5) Amennyiben az (1)–(4) bekezdésben foglalt bármelyik feltétel nem teljesül, a termék nem nevezhető pálinkának, illetőleg törkölypálinkának.
 
 (6) A pálinka termék megnevezésében egyfajú gyümölcsből készült pálinkák esetében a gyümölcs nevét közvetlenül a pálinka szó követi.
 
-(7) A különböző egyfajú gyümölcsből készült pálinkáknak a különleges egyedi ízharmónia érdekében történő utólagos keverésével előállított pálinka megnevezése gyümölcspálinka vagy vegyes gyümölcspálinka. A keverés során felhasznált pálinkákat a felhasznált mennyiség szerinti sorrendben a címkén fel kell tüntetni.
+(7) A különböző egyfajú gyümölcsből készült pálinkáknak a különleges egyedi ízharmónia érdekében az (EU) 2019/787 európai parlamenti és tanácsi rendelet 3. cikk 11. pontjában meghatározott módon történő utólagos keverésével előállított pálinka megnevezése gyümölcspálinka vagy vegyes gyümölcspálinka. A keverés során felhasznált pálinkákat a felhasznált mennyiség szerinti sorrendben a címkén fel kell tüntetni.
 
 (8) A különböző fajú gyümölcsök együttes cefrézésével, illetve különböző fajú gyümölcsök cefréinek együttes lepárlásával előállított pálinka megnevezése vegyes gyümölcspálinka. A pálinka készítéséhez felhasznált gyümölcs fajokat a felhasználás mennyisége szerinti sorrendben a címkén fel lehet tüntetni.
 
@@ -51,29 +58,29 @@ Az Országgyűlés a szeszes italok meghatározásáról, megnevezéséről, kis
 - 4. Gyümölcságyon érlelt pálinka vagy ágyas pálinka: az a gyümölcspálinka, amelyet gyümölccsel együtt érleltek legalább 3 hónapig. A gyümölcságy a pálinka fajtájával azonos, ha egy gyümölcs megnevezésével jelölik, illetve tartalmazhat többfajta gyümölcsöt, de ebben az esetben csak vegyes gyümölcs ágyaspálinkának nevezhető. 100 liter gyümölcságyon érlelt pálinkához vagy ágyas pálinkához legalább 10 kg érett, vagy legalább 5 kg aszalt gyümölcsöt kell felhasználni. A palack címkéjén a nettó pálinka mennyiséget kell feltüntetni. Az érlelés időtartamát az érlelés helyszínén, ellenőrizhető módon dokumentálni kell.
 - 5. Ágyas törkölypálinka: az a törkölypálinka, amelyet Magyarországon termett szőlővel vagy aszalt szőlővel együtt érleltek legalább 3 hónapig. 100 liter ágyas törkölypálinkához legalább 10 kg érett vagy legalább 5 kg aszalt szőlőt kell felhasználni. A szőlő fajtáját csak abban az esetben kell feltüntetni a címkén, ha mind a pálinka alapjául szolgáló törköly, mind a gyümölcságy ugyanolyan fajtájú szőlő felhasználásával készült. A palack címkéjén a nettó pálinkamennyiséget kell feltüntetni. Az érlelés időtartamát az érlelés helyszínén, ellenőrizhető módon dokumentálni kell.
 
-4. § A 110/2008/EK rendelet 9. cikkének (4) és (7) bekezdéseiben, valamint 10. cikkének (1) bekezdésében foglaltakat kell alkalmazni a termékek megnevezésén, kiszerelésén, címkézésén kívül az étlapokra, itallapokra, árjegyzékekre és kereskedelmi okmányokra is.
+4. § Étlapon, itallapon és árjegyzéken az e törvény hatálya alá tartozó termékeket úgy kell megjelölni, hogy az megfeleljen az (EU) 2019/787 európai parlamenti és tanácsi rendelet 10. cikk (7) bekezdésében, 11. cikk (1) bekezdésében és 12. cikk (1) bekezdésében a termékek leírása, megjelenítése, jelölése tekintetében megállapított követelményeknek.
 
 5. § A pálinka előállításának és megnevezésének szabályait alkalmazni kell az Európai Unió tagállamain kívüli országba történő exportra előállított termékek esetében is.
 
-### A pálinka és törkölypálinka oltalma,minősítése
+### A pálinka oltalma,minősítése
 
-6. § (1) A pálinkának és törkölypálinkának – az e törvényben előírtakon túl – meg kell felelnie a rá vonatkozóan jóváhagyott termékleírásban foglaltaknak is.
+6. § (1) A pálinkának – az e törvényben előírtakon túl – meg kell felelnie a rá vonatkozóan jóváhagyott termékleírásban foglaltaknak is.
 
-(2) A Magyarország valamely régiójából vagy helységéből származóként földrajzi árujelző oltalomban részesülő pálinkának és törkölypálinkának – az e törvényben előírtakon túl – meg kell felelnie a rá vonatkozóan jóváhagyott termékleírásban foglaltaknak is.
+(2) A Magyarország valamely régiójából vagy helységéből származóként földrajzi jelzés oltalommal rendelkező pálinkának – az e törvényben előírtakon túl – meg kell felelnie a rá vonatkozóan jóváhagyott termékleírásban foglaltaknak is.
 
-7. § Az országos pálinkaverseny feltételeit, a pálinkaminősítés, valamint a pálinka érzékszervi bírálók képzésének szabályait külön jogszabály tartalmazza.
+7. § Az országos pálinka- és törkölypálinka-verseny feltételeit, a pálinkaminősítés, valamint a pálinka érzékszervi bírálók képzésének szabályait az e törvény végrehajtására kiadott jogszabály tartalmazza.
 
 8. § Az e törvényben és a végrehajtására kiadott jogszabályokban foglaltak betartását a pálinkaellenőrző hatóság ellenőrzi.
 
 ### Pálinka zárjegy
 
-9. § (1) A belföldön forgalomba kerülő pálinkát és törkölypálinkát a jövedéki adóról szóló törvény (a továbbiakban: Jöt.) hatálya alá tartozó más alkoholtermékekre alkalmazandó zárjegytől színében eltérő zárjeggyel (a továbbiakban: pálinka-zárjegy) kell ellátni.
+9. § (1) A belföldön forgalomba kerülő pálinkát a jövedéki adóról szóló törvény (a továbbiakban: Jöt.) hatálya alá tartozó más alkoholtermékekre alkalmazandó zárjegytől színében eltérő zárjeggyel (a továbbiakban: pálinka-zárjegy) kell ellátni.
 
-(2) A Jöt. rendelkezéseinek alkalmazásával a vámhatóság pálinka-zárjegyet kizárólag a pálinka, illetve a törkölypálinka előállítását, palackozását vagy tárolását a Jöt.-ben az e tevékenység folytatásához előírt adóraktári engedély birtokában végző személynek – annak megrendelése alapján – ad ki.
+(2) A Jöt. rendelkezéseinek alkalmazásával a vámhatóság pálinka-zárjegyet kizárólag a pálinka előállítását, palackozását vagy tárolását a Jöt.-ben az e tevékenység folytatásához előírt adóraktári engedély birtokában végző személynek – annak megrendelése alapján – ad ki.
 
 ### A Pálinka Nemzeti Tanács
 
-10. § (1) A Pálinka Nemzeti Tanács önkormányzattal és nyilvántartott tagsággal rendelkező köztestület, amely a pálinka előállításának, származásának, minőségének és eredetvédelmének egységes szabályozásához és annak végrehajtásához fűződő közös magyar érdek előmozdításával, a pálinka előállításával kapcsolatban az előállítók képviseletével összefüggő, a 11. és 12. §-ban foglalt országos közfeladatokat lát el.
+10. § (1) A Pálinka Nemzeti Tanács önkormányzattal és nyilvántartott tagsággal rendelkező köztestület, amely a pálinka előállításának, származásának, minőségének és földrajzi jelzés oltalmának egységes szabályozásához és annak végrehajtásához fűződő közös magyar érdek előmozdításával, a pálinka előállításával kapcsolatban az előállítók képviseletével összefüggő, a 11. és 12. §-ban foglalt országos közfeladatokat lát el.
 
 (2) A Pálinka Nemzeti Tanács jogi személy, székhelye Budapest.
 
@@ -81,11 +88,11 @@ Az Országgyűlés a szeszes italok meghatározásáról, megnevezéséről, kis
 
 (4) A Pálinka Nemzeti Tanács közfeladatainak ellátására költségvetési előirányzattal rendelkezik. A gazdálkodására az államháztartásról szóló törvény és végrehajtási rendeletei rendelkezéseit e törvényben foglalt eltérésekkel kell alkalmazni.
 
-11. § (1) A Pálinka Nemzeti Tanács a származás-, minőség- és eredetvédelemmel kapcsolatos ügyekben
+11. § (1) A Pálinka Nemzeti Tanács a pálinka származásával, minőségével és földrajzi jelzésének oltalmával kapcsolatos ügyekben
 
-- a) vizsgálja az oltalom alatt álló földrajzi jelzéssel rendelkező pálinka, törkölypálinka termékleírások betartását és kezdeményezi az uniós földrajzi jelzés oltalommal összefüggő jogérvényesítést;
-- b) szakmai véleményt nyilvánít a pálinkák földrajzi árujelző oltalma iránti kérelmekkel kapcsolatos eljárásban;
-- c) kapcsolatot tart nemzetközi eredetvédelmi szervezetekkel;
+- a) vizsgálja a földrajzi jelzés oltalommal rendelkező pálinka termékleírások betartását és kezdeményezi a földrajzi jelzés oltalommal összefüggő jogérvényesítést;
+- b) szakmai véleményt nyilvánít a pálinka földrajzi jelzés oltalma iránti kérelmekkel kapcsolatos eljárásban;
+- c) kapcsolatot tart a szellemi tulajdon védelmével foglalkozó nemzetközi szervezetekkel;
 - d) a pálinka egységes minősítése és laboratóriumi vizsgálata érdekében együttműködik a pálinkaellenőrző hatósággal és a vámhatósággal;
 - e) nyilvántartja és közzéteszi a pálinka érzékszervi bírálók névsorát;
 - f) a pálinkára vonatkozó jogszabályok megsértése esetén értesíti az illetékes hatóságot;
@@ -119,20 +126,18 @@ Az Országgyűlés a szeszes italok meghatározásáról, megnevezéséről, kis
 - b) véleményezi a közfeladataival kapcsolatos hazai és európai uniós jogi aktusok tervezetét, valamint a magyar álláspontra vonatkozó javaslatot tesz;
 - c) elkészíti és közzéteszi a pálinkakészítésre, forgalmazásra és ellenőrzésre vonatkozó szakmai ajánlásokat.
 
-13. § Az adópolitikáért felelős miniszter – az agrárpolitikáért felelős miniszter egyidejű tájékoztatása mellett – évente – a tárgyévet követő év március 15-éig – megküldi a Pálinka Nemzeti Tanácsnak a tárgyévben
+13. § Az adópolitikáért felelős miniszter az agrárpolitikáért felelős miniszter egyidejű tájékoztatása mellett évente – a tárgyévet követő év március 15-éig – megküldi a Pálinka Nemzeti Tanácsnak a tárgyévben
 
-- a) előállított bérfőzött párlat párlatfajtánként megbontott és a magánfőzésben adózott párlat,
-- b) előállított és a Jöt. szerint szabadforgalomba bocsátott
-  - ba) kereskedelmi céllal főzött pálinka KN-kódonként megbontott,
-  - bb) a 2208 20 29 KN-kód alá tartozó alkoholtermék
+- a) a Jöt. 132. § (2) és (4) bekezdése szerint előállított bérfőzött párlat párlatfajtánként megbontott és a magánfőzésben előállított párlat,
+- b) előállított és a Jöt. szerint szabadforgalomba bocsátott kereskedelmi céllal főzött pálinkának a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló 1987. július 23-i 2658/87/EGK tanácsi rendelet 1. melléklete szerinti Kombinált Nómenklatúrában meghatározott, nyolc számjegyű áruazonosító számonként (a továbbiakban: KN-kód) megbontott,
 
 jövedéki adófizetési kötelezettség alapjául szolgáló mértékegységben megadott mennyiségéről az országosan összesített adatokat.
 
 ### A Pálinka Nemzeti Tanács szervezete és működése
 
-13/A. § (1) A Pálinka Nemzeti Tanács tagjai a törvény erejénél fogva a pálinka-előállítókat képviselő olyan szakmai érdekvédelmi szervezetek, amelyek legalább öt lezárt gazdasági évvel rendelkeznek és ezen időszak minden évében legalább tíz szeszfőzde adóraktár-engedéllyel rendelkező tagjuk van, továbbá önkéntes alapon a Pálinka Nemzeti Tanács tagja lehet az a szakmai érdekvédelmi szervezet, amelyet kérelmére a Pálinka Nemzeti Tanács tagként felvesz (a továbbiakban együtt: szakmai szervezetek).
+13/A. § (1) A Pálinka Nemzeti Tanács tagjai a törvény erejénél fogva a pálinka-előállítókat képviselő olyan szakmai érdekvédelmi szervezetek, amelyek legalább öt lezárt gazdasági évvel rendelkeznek és ezen időszak minden évében legalább tíz, a 2208 20 28, 2208 20 88, 2208 90 33, 2208 90 38, 2208 90 48, 2208 90 71 KN-kód szerinti alkoholterméket előállító, adóraktári engedéllyel rendelkező tagjuk (a továbbiakban: adóraktár engedélyes tag) van, továbbá önkéntes alapon a Pálinka Nemzeti Tanács tagja lehet az a szakmai érdekvédelmi szervezet, amelyet kérelmére a Pálinka Nemzeti Tanács tagként felvesz (a továbbiakban együtt: szakmai szervezetek).
 
-(2) A Pálinka Nemzeti Tanácsban minden szakmai szervezet a szeszfőzde adóraktár-engedéllyel rendelkező tagjai száma alapján képviselteteti magát. A Pálinka Nemzeti Tanácsban minden szakmai szervezetet egy fő képvisel (a továbbiakban: képviselő), amelyet minden 30. szeszfőzde adóraktári engedéllyel rendelkező tagja után további egy fő képviselő egészít ki.
+(2) A Pálinka Nemzeti Tanácsban minden szakmai szervezet az adóraktár engedélyes tagjai száma alapján képviselteti magát. A Pálinka Nemzeti Tanácsban minden szakmai szervezetet egy fő képvisel (a továbbiakban: képviselő), amelyet minden 30. adóraktár engedélyes tagja után további egy fő képviselő egészít ki.
 
 (3) Minden képviselőt egy szavazati jog illet meg azzal, hogy egy szakmai szervezet az összes szavazat legfeljebb 40%-ával rendelkezhet akkor is, ha többre lenne jogosult.
 
@@ -147,7 +152,7 @@ jövedéki adófizetési kötelezettség alapjául szolgáló mértékegységben
 
 (5) A Pálinka Nemzeti Tanácsot alkotó szakmai szervezetekről és azok képviselőiről névjegyzéket kell készíteni. A névjegyzékbe vételt a szakmai szervezetnek kell kezdeményeznie. A tagsági jogait csak a nyilvántartásba vett tag gyakorolhatja. A névjegyzékben bekövetkezett változásokat folyamatosan vezetni kell. A névjegyzéket a Pálinka Nemzeti Tanács honlapján közzé kell tenni.
 
-(6) A szakmai szervezetek évente tájékoztatást adnak a Pálinka Nemzeti Tanács részére a szeszfőzde adóraktári engedéllyel rendelkező tagjaikról. A szakmai szervezeteknek haladéktalanul tájékoztatniuk kell a Pálinka Nemzeti Tanácsot a szeszfőzde adóraktári engedéllyel rendelkező tagjaik számának változásáról.
+(6) A szakmai szervezetek évente tájékoztatást adnak a Pálinka Nemzeti Tanács részére az adóraktár engedélyes tagjaikról. A szakmai szervezeteknek haladéktalanul tájékoztatniuk kell a Pálinka Nemzeti Tanácsot az adóraktár engedélyes tagjaik számának változásáról.
 
 (7) A szakmai szervezet joga, hogy
 
@@ -160,11 +165,11 @@ jövedéki adófizetési kötelezettség alapjául szolgáló mértékegységben
 
 13/B. § (1) A Pálinka Nemzeti Tanács a jogszabályban meghatározott feladatai ellátása érdekében informatikai rendszert működtet, amelynek során jogosult nyilvántartani:
 
-- a) a szakmai szervezetek nevét, címét, továbbá a szakmai szervezetek szeszfőzde adóraktári engedéllyel rendelkező tagjainak nevét és a szeszfőzde adóraktári engedély számát;
+- a) a szakmai szervezetek nevét, címét, továbbá a szakmai szervezetek adóraktár engedélyes tagjainak nevét és az adóraktári engedély számát;
 - b) a szakmai szervezetek képviselőinek természetes személyazonosító adatait és az elektronikus levelezési címét;
-- c) az uniós földrajzi jelzés oltalom alatt álló pálinka és törkölypálinka előállítására jogosult vállalkozások nevét, címét;
+- c) a földrajzi jelzés oltalommal rendelkező pálinka előállítására jogosult vállalkozások nevét, címét;
 - d) a pálinka érzékszervi bírálók természetes személyazonosító adatait, a végzettséget igazoló okirat adatait, valamint az elektronikus levelezési címét;
-- e) a pálinka versenyre benyújtott nevezéseknél a nevezési lapon szereplő adatokat;
+- e) az országos pálinka- és törkölypálinka-versenyre benyújtott nevezéseknél a nevezési lapon szereplő adatokat;
 - f) a 13. §-ban meghatározott, az adópolitikáért felelős miniszter által átadott adatokat.
 
 (2) A szakmai szervezetnek az (1) bekezdés a)–c) pontjaiban meghatározott adatokról a tagsági viszony létesítését, vagy változás esetén a változást követő 30 napon belül nyilatkoznia kell.
@@ -229,7 +234,7 @@ használhatja fel.
 
 13/F. § (1) A Pálinka Nemzeti Tanácsba az agrárpolitikáért felelős miniszter kettő, az adópolitikáért felelős miniszter egy tagot delegál és a delegált tagok az üléseken tanácskozási joggal részt vesznek.
 
-(2) A Pálinka Nemzeti Tanácsban az agrárpolitikáért felelős miniszter által delegált tagok jogosultak a Pálinka Nemzeti Tanács irataiba betekinteni, az üléseken jelen lenni, a napirenden szereplő kérdésekhez hozzászólni, valamint adatot, információt kérni.
+(2) A Pálinka Nemzeti Tanácsban az agrárpolitikáért és az adópolitikáért felelős miniszter által delegált tagok jogosultak a Pálinka Nemzeti Tanács irataiba betekinteni, az üléseken jelen lenni, a napirenden szereplő kérdésekhez hozzászólni, valamint adatot, információt kérni.
 
 ### A Pálinka Nemzeti Tanács tisztségviselői
 
@@ -254,7 +259,7 @@ használhatja fel.
 
 13/H. § (1) Az elnök a Pálinka Nemzeti Tanács képviseletét önállóan gyakorolja, jogkörét az Alapszabályban meghatározott módon átruházhatja. Az elnök munkáját legfeljebb két alelnök segíti.
 
-(2) Az elnököt a Pálinka Nemzeti Tanács tagjai választják meg.
+(2) Az elnököt a Pálinka Nemzeti Tanács tagjainak delegált képviselői választják meg.
 
 (3) Az elnök
 
@@ -309,7 +314,7 @@ használhatja fel.
 
 (2) Felhatalmazást kap az agrárpolitikáért felelős miniszter arra, hogy
 
-- a) az országos pálinka- és törkölypálinkaverseny feltételeit,
+- a) az országos pálinka- és törkölypálinka-verseny feltételeit,
 - b) a pálinka- és a törkölypálinka-minősítés szabályait,
 - c) a pálinka és a törkölypálinka érzékszervi bírálók képzésének szabályait,
 - d) a pálinka és a törkölypálinka előállítóinak – a Nemzeti Pálinkastratégia kialakításának, illetve a megvalósulás figyelemmel kísérésének céljára szolgáló – adatszolgáltatási kötelezettségét a forgalomba hozott pálinkák és törkölypálinkák fajtánkénti megoszlásáról, az adatszolgáltatás módját és az országosan összesített adatoknak a Pálinka Nemzeti Tanács rendelkezésére bocsátásának rendjét
@@ -320,25 +325,17 @@ rendeletben állapítsa meg.
 
 ### Az Európai Unió Jogának valómegfelelés
 
-16. § (1) E törvény a 110/2008/EK rendelet III. számú melléklete szerint földrajzi árujelző oltalom alatt álló pálinka és törkölypálinka vonatkozásában a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+16. § (1) E törvény a szeszes italok meghatározásáról, leírásáról, megjelenítéséről, jelöléséről, a szeszes italok elnevezésének használatáról az egyéb élelmiszerek megjelenítése és jelölése során, a szeszes italok földrajzi árujelzőinek oltalmáról, a mezőgazdasági eredetű etil-alkohol és desztillátumok használatáról az alkoholtartalmú italokban, valamint a 110/2008/EK rendelet hatályon kívül helyezéséről szóló, 2019. április 17-i (EU) 2019/787 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (1a) Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) A törvény javaslatának a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló, – a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkében előírt egyeztetése megtörtént.
 
-17. § (1) A pálinkáról, a törkölypálinkáról és a Pálinka Nemzeti Tanácsról szóló 2008. évi LXXIII. törvény módosításáról szóló 2015. évi CCIX. törvény (a továbbiakban: Átalakulási tv.) kihirdetését megelőzően működő Pálinka Nemzeti Tanács a köztestületként működő Pálinka Nemzeti Tanács alakuló üléséig átmeneti testületként működik, előkészíti és összehívja az alakuló ülést.
-
-(2) Az átmeneti testület a Pálinka Nemzeti Tanács alakuló ülésére a Pálinka Nemzeti Tanács jelenlegi tagjain kívül meghívja azokat a szakmai szervezeteket, amelyek 2015. május 31-ig legalább öt lezárt gazdasági évvel és benyújtott beszámolóval rendelkeznek és a bíróság nyilvántartásában szerepelnek, továbbá ebben az időszakban évente legalább tíz szeszfőzde adóraktár engedéllyel rendelkező tagjuk is van és mindezeket igazolják az átmeneti testületnek.
-
-(3) Az Átalakulási tv. kihirdetését követő 120 napon belül az átmeneti testület felhívása alapján meg kell tartani a Pálinka Nemzeti Tanács alakuló ülését.
-
-(4) Az Átalakulási tv. hatálybalépését megelőző napon a Pálinka Nemzeti Tanács tagjait delegáló szervezetek a (3) bekezdés szerint megalakuló Pálinka Nemzeti Tanács tagjává válnak.
-
-(5) A Pálinka Nemzeti Tanács alakuló ülése dönt az Alapszabály elfogadásáról, és javaslatot tesz a Pálinka Nemzeti Tanács elnökének személyére.
+17. §
 
 ### Melléklet a 2008. évi LXXIII. törvényhez
 
-#### Pálinka és törkölypálinka készítésénél felhasználható segédanyagok
+#### Pálinka készítésénél felhasználható segédanyagok
 
 - 1. enzimek;
 - 2. savak;

@@ -24,7 +24,7 @@ a szakosított intézmények kiváltságairól és mentességeiről szóló egye
 
 (3) A 2. §, a 4. § (3) és (4) bekezdése, a 3. melléklet, valamint a 4. melléklet hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
 
-6. § Hatályát veszti az Egyesült Nemzetek szakosított intézményeinek kiváltságairól és mentességeiről New Yorkban 1947. november 21-én kelt Egyezmény kihirdetéséről szóló 1967. évi 23. törvényerejű rendelet.
+6. §
 
 7. § E törvény végrehajtásához szükséges intézkedésekről a külpolitikáért felelős miniszter gondoskodik.
 
