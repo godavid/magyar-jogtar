@@ -8,7 +8,7 @@ Az Országgyűlés annak érdekében, hogy az Európai Mezőgazdasági Vidékfej
 
 ### A törvény célja, alapelvei
 
-1. § E törvény célja, hogy az eljárás törvényessége, eredményessége és átláthatósága érdekében a közösségi és a nemzeti forrásból folyósított mezőgazdasági, agrár- vidékfejlesztési, valamint halászati támogatások igénybevételének és a közös agrárpolitika egyéb, támogatás kifizetésével nem járó piacszabályozási intézkedéseiben (a továbbiakban együtt: intézkedés) való részvétel rendjét, az ügyfél, továbbá az irányítási, valamint a végrehajtási feladatokat ellátó szervek, illetve szervezetek jogait és kötelezettségeit egységesen szabályozza.
+1. § E törvény célja, hogy az eljárás törvényessége, eredményessége és átláthatósága érdekében a közösségi és a nemzeti forrásból folyósított mezőgazdasági, agrár- vidékfejlesztési, valamint halászati támogatások igénybevételének és a közös agrárpolitika egyéb, támogatás kifizetésével nem járó piacszabályozási intézkedéseiben (a továbbiakban együtt: intézkedés) való részvétel rendjét, az ügyfél, továbbá az irányítási, valamint a végrehajtási feladatokat ellátó szervek, illetve szervezetek jogait és kötelezettségeit egységesen, önálló különös eljárási rendszerben szabályozza.
 
 2. § A jogok rendeltetésszerű gyakorlása érdekében az irányítási, valamint a végrehajtási feladatokat ellátó szervek, illetve szervezetek az intézkedésekben való részvételhez kapcsolódó információhoz való egyenlő hozzájutási esélyek biztosítása mellett megadják az ügyfelek részére a vonatkozó nemzeti jogszabályok és közösségi jogi aktusok, valamint egyéb rendelkezések megtartásához szükséges tájékoztatást, és lehetővé teszik számukra az intézkedésekben való részvétel közösségi jogi aktusokon, nemzeti jogszabályokon és egyéb rendelkezéseken alapuló rendjének megismerését.
 
@@ -368,7 +368,7 @@ feladatok ellátásáért.
 
 22. § (1) A mezőgazdasági és vidékfejlesztési támogatási szerv a hatáskörébe tartozó feladatok végrehajtásához:
 
-- a) az ügyfél természetes személyazonosító adatait, lakcímadatait, ügyfél-azonosító számát,
+- a) az ügyfél természetes személyazonosító adatait, lakcímadatait, ügyfél-azonosítóját,
 - b) az egyes intézkedésekben való részvétellel összefüggő eljárás során az ügyfélre vonatkozóan keletkezett adatokat,
 - c) a monitoring-adatszolgáltatás keretében gyűjtött adatokat, valamint
 - d) az ügyfél ellenőrzése során harmadik személyről nyert – személyes adatként az a) pont szerinti – adatokat [az a)–d) pontok a továbbiakban együtt: támogatási adat] az adott támogatási jogcímre vonatkozó intézkedésben való jogosulatlan részvétel végrehajtásához való jog elévüléséig kezelheti.
@@ -548,7 +548,7 @@ külön rendelkezések
 
 28. § (1)
 
-(2) Az ügyfél nyilvántartásba vételéhez és ügyfél-azonosító számának megállapításához nyilvántartásba kell venni:
+(2) Az ügyfél nyilvántartásba vételéhez és ügyfél-azonosítójának megállapításához nyilvántartásba kell venni:
 
 - a) természetes személy esetén
   - aa) családi- és utónevét,
@@ -573,6 +573,7 @@ külön rendelkezések
   - ai) ügyfélkör szerinti azonosító adatát,
   - aj) a 28/A. § (1a) bekezdésében foglaltak szerinti fizetési számlaszámát és annak devizanemét – nem magyar állampolgárságú külföldi illetőségű magánszemély (a továbbiakban: külföldi természetes személy) esetén külföldi fizetési számlaszám megadása is lehetséges;
   - ak) szöveges üzenet fogadására alkalmas telefonos elérhetőségét,
+  - al) mezőgazdasági őstermelő esetében, ha őstermelők családi gazdaságának képviseletét látja el a képviselői minőségét,
 - b) nem természetes személy esetén
   - ba) elnevezését, továbbá rövidített cégnevét,
   - bb) képviseletére jogosult nevét, lakcímét, az adózás rendjéről szóló törvény szerinti adóazonosító jelét,
@@ -587,6 +588,7 @@ külön rendelkezések
   - bk) ügyfélkör szerinti további azonosító adatát,
   - bl) a 28/A. § (1a) bekezdésében foglaltak szerinti fizetési számlaszámát és annak devizanemét – külföldi nem természetes személy esetén külföldi fizetési számlaszám is megadható,
   - bm) szöveges üzenet fogadására alkalmas telefonos elérhetőségét,
+  - bn) családi mezőgazdasági társaság minőségét,
 - c) külföldi természetes személy vagy külföldi nem természetes személy esetén az a) és b) pontban foglalt adatok mellett a magyar adóazonosító számát és az illetékessége szerinti állam hatósága által megállapított adóazonosító számát,
 - d) az a)–c) pontban foglalt adatok mellett a magyarországi kézbesítési meghatalmazottjának nevét és lakóhelyét (székhelyét) is a pénzügyi következményekkel járó intézkedésben részt vevő, Magyarországon lakóhellyel vagy telephellyel nem rendelkező természetes személy vagy nem természetes személy esetében.
 
@@ -595,7 +597,7 @@ külön rendelkezések
 (4) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfél-nyilvántartás vezetése keretében
 
 - a) ellátja a nyilvántartás vezetésével összefüggő hatósági feladatokat,
-- b) megállapítja az ügyfél-azonosító (nyilvántartási) számot,
+- b) megállapítja az ügyfél-azonosítót,
 - c) törvény felhatalmazása alapján, az abban meghatározott körben külön jogszabály alapján adatszolgáltatást teljesít a nyilvántartásból,
 - d) működteti az ügyfél-nyilvántartás informatikai rendszerét,
 - e) nyilvántartja az ügyfél besorolását, amely lehet:
@@ -632,7 +634,7 @@ külön rendelkezések
 
 (2) Az ügyfél a meghatalmazás visszavonását, felmondását a mezőgazdasági és vidékfejlesztési támogatási szerv által rendszeresített nyomtatványon haladéktalanul köteles bejelenteni a mezőgazdasági és vidékfejlesztési támogatási szervnél. A képviseleti jog megszűnését a meghatalmazott is bejelentheti.
 
-(3) A képviseleti jog keletkezése és megszűnése a mezőgazdasági és vidékfejlesztési támogatási szervvel szemben az arra vonatkozó bejelentés mezőgazdasági és vidékfejlesztési támogatási szervhez történő beérkezése napjától, vagy ha az ügyfél a bejelentésben későbbi időpontot jelölt meg, akkor a bejelentésben megjelölt, a bejelentés beérkezése napjánál későbbi időponttól hatályos.
+(3) A képviseleti jog keletkezése és megszűnése – jogszabály eltérő rendelkezése hiányában – a mezőgazdasági és vidékfejlesztési támogatási szervvel szemben az arra vonatkozó bejelentés mezőgazdasági és vidékfejlesztési támogatási szervhez történő beérkezése napjától, vagy ha az ügyfél a bejelentésben későbbi időpontot jelölt meg, akkor a bejelentésben megjelölt, a bejelentés beérkezése napjánál későbbi időponttól hatályos.
 
 (4) A mezőgazdasági és vidékfejlesztési támogatási szerv az (1) és (1a) bekezdésben foglaltaknak meg nem felelő nyilvántartásba vételi kérelmet visszautasítja A meghatalmazott visszautasítása esetén a mezőgazdasági és vidékfejlesztési támogatási szerv felhívja az ügyfelet, hogy járjon el személyesen, vagy gondoskodjon az (1) és (1a) bekezdésben foglaltaknak megfelelő képviselő alkalmazásáról.
 
@@ -693,7 +695,7 @@ eljárhat.
 
 31. § (1) Jogszabály eltérő rendelkezése hiányában az e törvény hatálya alá tartozó intézkedések országos földterület-azonosítási rendszere a Mezőgazdasági Parcella Azonosító Rendszer (a továbbiakban: MePAR). A MePAR közhiteles hatósági nyilvántartásnak minősül. A MePAR adatbázisa állami tulajdonban van, amely felett a rendelkezési jogot – ideértve a tárolt adatok karbantartását is – az állam nevében a mezőgazdasági és vidékfejlesztési támogatási szerv gyakorolja.
 
-(1a) A MePAR működtetése, programszerű megújítása, valamint a távérzékeléses ellenőrzéssel kapcsolatos feladatok ellátása közfeladatnak minősül és azt a Nemzeti Földügyi Központ végzi.
+(1a) A MePAR működtetése, programszerű megújítása, valamint a távérzékeléses ellenőrzéssel kapcsolatos feladatok ellátása közfeladatnak minősül és ellátása a mezőgazdasági és vidékfejlesztési támogatási szerv hatáskörébe tartozik, amely feladatot a 16. és 17. § alkalmazásával kötött szerződés alapján a Nemzeti Földügyi Központ végez.
 
 (2) A MePAR blokkhatár fedvényhez és annak részeként a blokkazonosítóhoz, a Natura 2000 Területek, Nitrátérzékeny Területek, Magas Természeti Értékű Területek és Érzékeny Természeti Területek tematikus fedvényekhez, továbbá a MePAR programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet
 
@@ -1039,7 +1041,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 (7) A (4) bekezdés alkalmazásában jogszerű földhasználónak minősül a következő sorrend szerint az az ügyfél, aki vagy amely – amennyiben az egyes támogatási jogcímekre vonatkozó jogszabályok másként nem rendelkeznek e dátumról – a kérelem benyújtására nyitva álló határidő utolsó napjára vonatkozóan, az általa igényelt terület vonatkozásában
 
 - a) a földhasználati nyilvántartásba földhasználóként bejegyzett,
-- b) a mezőgazdasági őstermelők családi gazdaságáról vezetett nyilvántartásban őstermelők családi gazdaságának tagjaként bejegyzett vagy az őstermelők családi gazdaságának alapításáról szóló szerződésben tagként szerepel,
+- b) a mezőgazdasági őstermelők családi gazdaságáról vezetett nyilvántartásban őstermelők családi gazdaságának képviselőjeként bejegyzett vagy az őstermelők családi gazdaságának alapításáról szóló szerződésben képviselőként szerepel,
 - c) haszonbérleti, felesbérleti, részesművelési, szívességi földhasználati, rekreációs célú földhasználati vagy alhaszonbérleti szerződés, továbbá – a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 70. §-a vagy 76. §-a szerinti – használatmegosztásról szóló vagy többlethasználati megállapodás, a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 18. § (5) bekezdése szerinti megbízási szerződés (ideértve nemzeti park igazgatóság által kötött szerződést is), a Nemzeti Földalap kezeléséért felelős szervvel kötött mintagazdasági földhasználati szerződés alapján jogosult, valamint az, akit a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 65. §-a szerint a föld kényszerhasznosítójaként jelöltek ki, a bíróság ideiglenes intézkedése alapján földhasználó, továbbá honvédelmi rendeltetésű terület, vagy honvédelmi célra feleslegessé nyilvánított terület esetében annak használatára szerződés alapján jogosult,
 - d) az ingatlan-nyilvántartásba vagyonkezelőként, haszonélvezőként vagy a Ptk. 5:159. §-a szerinti használat jogának jogosultjaként bejegyzett, valamint a vagyonkezelőként bejegyzett költségvetési szerv költségvetési szervnek minősülő jogutódja,
 - e) az ingatlan-nyilvántartásba tulajdonosként vagy szövetkezeti földhasználat jogosultjaként bejegyzett,
@@ -1262,7 +1264,7 @@ az a)–c) pontban rögzített eszközök önálló vagy együttes alkalmazásá
 
 (4) Ha a postai úton történő kézbesítés azért hiúsul meg, mert a címzett vagy meghatalmazottja úgy nyilatkozik, hogy a küldeményt nem veszi át, az iratot a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni.
 
-(5) Ha a kézbesítés azért volt sikertelen, mert a küldemény az ügyfél ügyfélnyilvántartásban szereplő lakcíméről vagy a támogatási eljárásban bejelentett tartózkodási helyéről, szálláshelyéről, illetve a székhelyéről a mezőgazdasági és vidékfejlesztési támogatási szervhez
+(5) Ha a kézbesítés azért volt sikertelen, mert a küldemény az ügyfél ügyfélnyilvántartásban szereplő levelezési címről, vagy lakóhelyéről, illetve a székhelyéről a mezőgazdasági és vidékfejlesztési támogatási szervhez
 
 - a) „nem kereste”,
 - b) „ismeretlen” vagy
@@ -1374,7 +1376,7 @@ jelzéssel érkezett vissza, az iratot – az ellenkező bizonyításáig – az
 
 ### Fizetési halasztás, részletfizetés engedélyezése
 
-56/C. § (1) Fizetési halasztás és részletfizetés (a továbbiakban együtt: fizetési kedvezmény) az ügyfél kérelmére a mezőgazdasági és vidékfejlesztési támogatási szervvel szemben fennálló tartozás összegére engedélyezhető. A fizetési kedvezmény abban az esetben engedélyezhető, ha a fizetési nehézség
+56/C. § (1) Fizetési halasztás és részletfizetés (a továbbiakban együtt: fizetési kedvezmény) az ügyfél kérelmére – legfeljebb tizennyolc hónapra – a mezőgazdasági és vidékfejlesztési támogatási szervvel szemben fennálló tartozás összegére engedélyezhető. A fizetési kedvezmény abban az esetben engedélyezhető, ha a fizetési nehézség
 
 - a) a kérelmezőnek nem róható fel, vagy annak elkerülése érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható, továbbá
 - b) átmeneti jellegű, tehát a tartozás későbbi megfizetése valószínűsíthető.
@@ -1514,7 +1516,7 @@ jelzéssel érkezett vissza, az iratot – az ellenkező bizonyításáig – az
 
 - a) a mezőgazdasági és vidékfejlesztési támogatási szerv joghatósága az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusa, nemzetközi szerződés vagy törvény rendelkezése alapján kizárt,
 - b) a döntést a végrehajtásban közreműködő szerv kötelező megkeresése nélkül vagy a végrehajtásban közreműködő szerv állásfoglalásának figyelmen kívül hagyásával hozták meg,
-- c) a közigazgatási döntés tartalmát bűncselekmény befolyásolta, feltéve, hogy a bűncselekmény elkövetését jogerős ügydöntő határozat megállapította vagy ilyen határozat meghozatalát nem a bizonyítottság hiánya zárja ki,
+- c) a döntés tartalmát bűncselekmény befolyásolta, feltéve, hogy a bűncselekmény elkövetését jogerős ügydöntő határozat megállapította vagy ilyen határozat meghozatalát nem a bizonyítottság hiánya zárja ki,
 - d) az ügyészség feltételes ügyészi felfüggesztést alkalmazott és annak tartama eredményesen telt el,
 - e) a bíróság az ügy érdemében már határozott – a bíróság által elrendelt új eljárás kivételével –, vagy
 - f) a megismételt eljárás és a döntéshozatal a bíróság határozatának rendelkező részében és indokolásában foglaltakkal ellentétes.
@@ -1739,7 +1741,7 @@ jelzéssel érkezett vissza, az iratot – az ellenkező bizonyításáig – az
 
 ### Mulasztási bírság
 
-71. § (1) Az ügyfél ötszázezer forintig terjedő, a támogatási összeggel vagy az (5) bekezdés szerinti jogellenes magatartás súlyával arányos mulasztási bírsággal sújtható, ha az e törvény, valamint annak felhatalmazása alapján alkotott jogszabály szerinti, továbbá közigazgatási döntésben, hatósági szerződésben meghatározott:
+71. § (1) Az ügyfél ötszázezer forintig terjedő, a támogatási összeggel vagy az (5) bekezdés szerinti jogellenes magatartás súlyával arányos mulasztási bírsággal sújtható, ha az e törvény, valamint annak felhatalmazása alapján alkotott jogszabály szerinti, továbbá döntésben, hatósági szerződésben meghatározott:
 
 - a) bejelentési, változásbejelentési, monitoring vagy más jellegű adatszolgáltatási kötelezettségének nem tesz eleget, vagy azt késedelmesen, hibásan, valótlan adattartalommal, hiányosan vagy nem az előírt módon teljesíti,
 - b) az intézkedésekkel, valamint az egyéb nyilvántartási kötelezettségekkel összefüggésben a jogszabályban előírt bizonylatok kiállítását vagy könyvek, nyilvántartások vezetését elmulasztja, vagy a bizonylatokat az előírásoktól eltérően állítja ki, a könyveket, nyilvántartásokat hiányosan vagy az előírásoktól eltérően vezeti,
@@ -1801,7 +1803,7 @@ jelzéssel érkezett vissza, az iratot – az ellenkező bizonyításáig – az
 
 ### VII. Fejezet — AZ ELJÁRÁS KÖLTSÉGEI
 
-74. § E törvény hatálya alá tartozó közigazgatási eljárások közül tárgyi díj- és illetékmentes eljárásnak minősülnek:
+74. § E törvény hatálya alá tartozó eljárások közül tárgyi díj- és illetékmentes eljárásnak minősülnek:
 
 - a) az intézkedésekben való részvétellel,
 - b) a mezőgazdasági vagyoni értékű jogra való jogosultság megállapításával,
@@ -1999,7 +2001,8 @@ rendeletben állapítsa meg.
 - 17. az 1306/2013/EU európai parlamenti és tanácsi rendeletnek a kifizető ügynökségek és más szervek, a pénzgazdálkodás, a számlaelszámolás, a biztosítékok és az euró használata tekintetében történő kiegészítéséről szóló, 2014. március 11-i 907/2014/EU bizottsági felhatalmazáson alapuló rendelet;
 - 18. az 1306/2013/EU európai parlamenti és tanácsi rendeletnek az Európai Mezőgazdasági Garanciaalapot és az Európai Mezőgazdasági Vidékfejlesztési Alapot érintő szabálytalanságokra vonatkozó jelentéstételre vonatkozó különös rendelkezésekkel történő kiegészítéséről és az 1848/2006/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2015. július 8-i 2015/1971/EU bizottsági felhatalmazáson alapuló rendelet;
 - 19. az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. december 16. 1388/2014/EU bizottsági rendelet;
-- 20. az Európai Unió működéséről szóló szerződés 108. cikkének alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2015. július 13-i 2015/1589/EU tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+- 20. az Európai Unió működéséről szóló szerződés 108. cikkének alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2015. július 13-i 2015/1589/EU tanácsi rendelet
+- 21. az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) és az Európai Mezőgazdasági Garanciaalapból (EMGA) 2021-ben és 2022-ben nyújtandó támogatásokra vonatkozó egyes átmeneti rendelkezések megállapításáról és az 1305/2013/EU, az 1306/2013/EU és az 1307/2013/EU rendeletnek a források és a 2021-ben és 2022-ben való alkalmazás tekintetében, valamint az 1308/2013/EU rendeletnek a források és az ilyen támogatások 2021-re és 2022-re vonatkozó elosztása tekintetében történő módosításáról szóló, 2020. december 23-i 2020/2220 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 84/A. § E törvény 79/B. §-a a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -2026,6 +2029,11 @@ rendeletben állapítsa meg.
 (2) E törvény 69. § (1) bekezdése a) pontjának a 2016. évi LX. törvénnyel megállapított rendelkezéseit a 2016. évi LX. törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 (3) E törvény 44. § (7) bekezdése c) és d) pontjának a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény és a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosításáról szóló 2016. évi CXLIX. törvénnyel megállapított rendelkezéseit a 2014. évben és a 2015. évben benyújtott egységes kérelem alapján folyamatban levő eljárásokban és a 2016. évben benyújtott egységes kérelmekre induló eljárásokban is alkalmazni kell.
+
+(4) E törvény
+
+- a) 28/B. § (3) bekezdésének az egyes agrártárgyú törvények módosításáról szóló 2021. évi LX. törvénnyel megállapított rendelkezéseit a folyamatban levő eljárásokban is alkalmazni kell,
+- b) 44. § (7) bekezdésének az egyes agrártárgyú törvények módosításáról szóló 2021. évi LX. törvénnyel megállapított rendelkezéseit 2022. január 1-jétől kell alkalmazni.
 
 91. § Ha az eljáró hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 

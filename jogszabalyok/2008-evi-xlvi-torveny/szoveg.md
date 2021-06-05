@@ -580,6 +580,8 @@ esetén.
 - d) működteti a növényvédelem, továbbá a talaj- és agrárkörnyezet-védelem élelmiszerbiztonsággal és növényvédelemmel kapcsolatos monitoring- és információs rendszerét;
 - e) biztosítja a növényvédelmi gépek műszaki felülvizsgálatára vonatkozó tevékenység szakmai felügyeletét.
 
+(4a) A 17. § (4) bekezdésében foglalt kötelezettséggel összefüggésben tett közérdekű bejelentés esetében 5 napon belül kell a helyszíni ellenőrzést lefolytatni és a közérdekű bejelentést elbírálni.
+
 (5) Az élelmiszerlánc-felügyeleti szerv országos hatáskörben a több megyét érintő vagy nemzetközi vonatkozásokkal bíró, a nagy gazdasági kárral járó, a fogyasztók széles körét veszélyeztető, élelmiszerlánc-események kivizsgálása, valamint az élelmiszerlánc-felügyeleti díj megfizetésének ellenőrzése során
 
 - a) ellenőrzi a kockázatbecslés alapján kiemelten kockázatosnak minősített, élelmiszerláncot érintő tevékenységet végzőket, és azok létesítményeit;
@@ -1181,7 +1183,7 @@ határozatát a miniszter által vezetett minisztérium hivatalos lapjában, hon
 
 (6) Az (5) bekezdés szerinti felügyeleti díj fizetésére kötelezett az ott meghatározott összegű felügyeleti díj megfizetése helyett választása alapján a (3) bekezdés szerint számított felügyeleti díjat a (8) és (9) bekezdés szerint vallja be és fizeti meg.
 
-(7) Mentesül a felügyeleti díj bevallási és fizetési kötelezettség alól a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 19. pontja szerinti mezőgazdasági kistermelő kizárólag az őstermelői tevékenysége vonatkozásában.
+(7) Mentesül a felügyeleti díj bevallási és fizetési kötelezettség alól a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 50. § (2) bekezdése alapján az átalányadózás választására jogosult mezőgazdasági őstermelő kizárólag az őstermelői tevékenysége vonatkozásában.
 
 (8) A fizetésre kötelezettnek évente egyszer kell bevallania a díjfizetés alapjául szolgáló nettó árbevételét. A bevallási kötelezettséget május 31-ig kell teljesíteni. A díj megfizetése a bevallási kötelezettséget nem pótolja. Nem kell megfizetni a felügyeleti díjat, ha annak mértéke nem éri el az ezer forintot.
 
@@ -1256,7 +1258,7 @@ határozatát a miniszter által vezetett minisztérium hivatalos lapjában, hon
 
 (6) A közérdekű védekezés elvégzése során a hatóság, valamint a közérdekű védekezést elvégző vállalkozó feladata végrehajtásának keretei között az érintett területre beléphet, ott a szükséges cselekményeket elvégezheti. Erre való jogosultságát kérésre köteles igazolni.
 
-(7) Ha a parlagfű elleni közérdekű védekezést kultúrnövény károsodása nélkül nem lehet elvégezni, a parlagfű elleni közérdekű védekezés abban az esetben rendelhető el, ha az adott területen a kultúrnövény tőszáma nem éri el az agronómiailag indokolt tőszám 50%-át és a parlagfűvel való felületi borítottság a 30%-ot meghaladja. A parlagfű elleni közérdekű védekezés során az érintett kultúrában okozott károkért a földhasználó kártalanításra nem tarthat igényt.
+(7) Ha a parlagfű elleni közérdekű védekezést kultúrnövény károsodása nélkül nem lehet elvégezni, a parlagfű elleni közérdekű védekezés abban az esetben rendelhető el, ha a parlagfűvel való felületi borítottság a 30%-ot meghaladja. A parlagfű elleni közérdekű védekezés során az érintett kultúrában okozott károkért a földhasználó kártalanításra nem tarthat igényt.
 
 ### Állat-egészségügyi intézkedések
 

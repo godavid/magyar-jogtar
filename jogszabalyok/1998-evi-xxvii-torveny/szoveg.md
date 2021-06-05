@@ -325,7 +325,7 @@ kérelmet köteles benyújtani a géntechnológiai hatósághoz az engedély meg
 
 (3) Az (1) bekezdés szerinti adatokat a géntechnológiai hatóság – az (1) bekezdés a) pontja szerinti adatok esetén az engedély tervezetének közzétételével egyidejűleg – küldi meg a nyilvántartó szerv részére.
 
-(4) A nyilvántartás céljából átadott adatok közül a hasznosító üzleti titokhoz vagy szabadalomhoz, illetve fajtaoltalomhoz fűződő jogát sértő adatok nem nyilvánosak, amennyiben azok ilyen módon való kezelését a hasznosító a Géntechnológiai Bizottságtól vagy a géntechnológiai hatóságtól kéri.
+(4) A hasznosító a géntechnológiai hatóságtól, megfelelő indoklással ellátva, kérheti az üzleti titokhoz, szabadalomhoz, vagy fajtaoltalomhoz fűződő jogát sértő, valamint az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott adatok bizalmas kezelését. Ezek az adatok nyilvánosságra nem hozhatóak.
 
 (5) A nyilvántartó szerv az adatokat az engedélyben meghatározott jogosultsági idő lejártát követő 10 évig tartja nyilván.
 
