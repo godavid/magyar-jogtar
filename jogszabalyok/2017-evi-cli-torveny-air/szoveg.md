@@ -431,6 +431,10 @@ A cselekvőképességet nem érintő, támogatott döntéshozatal elősegítése
 
 (3) Más személy akkor tekinthet be a személyes adatot vagy törvény által védett titkot (a továbbiakban: védett adatot) tartalmazó iratba, ha igazolja, hogy az adat megismerése joga érvényesítéséhez, illetve jogszabályon, bírósági vagy hatósági határozaton alapuló kötelezettsége teljesítéséhez szükséges.
 
+#### 42/A. § [Az ellenőrzési és végrehajtási eljárás keretében végrehajtott adatmentésre vonatkozó különleges szabályok]
+
+Az adóhatóság – az Art. 123/A. §-ban foglalt kötelezettsége mellett – az érintett kérelmére, az ellenőrzési vagy végrehajtási eljárás keretében végrehajtott adatmentést az érintett közreműködésével megvizsgálja, hogy a lemásolt adatok között van-e az érintettnek olyan személyes adata, amely a tényállás tisztázásához nem elengedhetetlenül szükséges.
+
 #### 43. § [Az iratbetekintési jog korlátai]
 
 (1) Nem lehet betekinteni
@@ -442,6 +446,7 @@ A cselekvőképességet nem érintő, támogatott döntéshozatal elősegítése
 - e) a minősített adat védelméről szóló törvényben foglalt személyi feltételek teljesülésének hiányában a minősített adatot tartalmazó iratba,
 - f) a védett adatot tartalmazó iratba, ha azt az érintett adat védelmét szabályozó törvény kizárja,
 - g) az iratnak azon részébe, amelynek megismerése a más személyre vonatkozó, adótitkot érintő rendelkezésbe ütközik.
+- h) a büntetőeljárásról szóló törvény szerinti szignalizáció keretében az adóhatóság részére megküldött megkeresés irataiba.
 
 (2) Korlátozható az iratbetekintés az adatszolgáltatásra vonatkozó iratok tekintetében az ellenőrzés megkezdéséig, ha valószínűsíthető, hogy azok tartalmának megismerése a későbbi ellenőrzést meghiúsítaná. Az iratbetekintés korlátozásáról az adóhatóság végzéssel dönt.
 

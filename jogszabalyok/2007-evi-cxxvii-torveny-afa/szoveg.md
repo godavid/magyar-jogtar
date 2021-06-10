@@ -897,10 +897,10 @@ megállapodásban előre rögzített, vagy az annak alapján számított árenge
 - a) az adóalany és a termék beszerzője, szolgáltatás igénybevevője független felek,
 - b) az adóalany a termék adóalany beszerzőjét, szolgáltatás adóalany igénybevevőjét a (8) bekezdésben meghatározottak szerint előzetesen írásban értesíti, kivéve, ha a termék beszerzője, szolgáltatás igénybevevője jogutód nélkül megszűnt,
 - c) az adóalany nem áll csőd-, felszámolási, vagy kényszertörlési eljárás hatálya alatt a behajthatatlan követeléssel érintett bevallás benyújtásának időpontjában,
-- d) a termék beszerzője, szolgáltatás igénybevevője nem áll csőd-, felszámolási, vagy kényszertörlési eljárás hatálya alatt a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás teljesítésének időpontjában,
-- e) a termék beszerzője, szolgáltatás igénybevevője nem szerepel a nagy összegű adóhiánnyal vagy a nagy összegű adótartozással rendelkezők adóhatóság holnapjáról lekérdezhető adatbázisában a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás teljesítésének időpontjában és az azt megelőző egy évben,
-- f) a termék beszerzőjének, szolgáltatás igénybevevőjének adószáma a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás teljesítésének időpontjában nincs törölve,
-- g) az állami adó- és vámhatóság a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás teljesítésének időpontjáig nem adott tájékoztatást az adóalany részére a terméket beszerző, szolgáltatást igénybevevő adókötelezettsége teljesítésének megkerüléséről,
+- d)
+- e)
+- f)
+- g)
 - h) a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás ellenértéke megtérítésének esedékessége óta legalább egy év eltelt, kivéve, ha a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítésre, szolgáltatásnyújtásra vonatkozó polgári jogi igényekre alkalmazandó elévülési idő nem haladja meg az egy évet,
 - i) a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás ellenértéke más módon nem térült vagy térül meg.
 
@@ -1368,15 +1368,22 @@ adókötelessé teszi.
 
 - a) a termékértékesítés – adóval számított – összellenértéke meghaladja a 175 eurónak megfelelő pénzösszeget,
 - b) a külföldi utas érvényes úti okmányával vagy személye azonosítására szolgáló egyéb, Magyarország által elismert érvényes közokirattal (a továbbiakban együtt: úti okmány) igazolja jogállását,
-- c) a termék Közösség területéről való elhagyásának tényét az állami adóhatóság által erre a célra rendszeresített nyomtatvány vagy más, az állami adóhatóság által engedélyezett, a (10) bekezdésben meghatározott adattartalmú nyomtatvány (a továbbiakban együtt: adó-visszaigénylő lap) záradékolásával és lebélyegzésével a terméket a Közösség területéről kiléptető hatóság – az értékesített termék és a termékértékesítés teljesítését tanúsító számla eredeti példányának egyidejű bemutatása mellett – igazolja.
+- c) a termék Közösség területéről való elhagyásának tényét a terméket a Közösség területéről kiléptető hatóság – az értékesített termék és a termékértékesítés teljesítését tanúsító számla eredeti példányának egyidejű bemutatása mellett – igazolja.
 
-(2) Az adómentesség érvényesítése érdekében a termék értékesítőjének a számlakibocsátás mellett – a külföldi utas kérelmére – az adó-visszaigénylő lap kitöltéséről is gondoskodnia kell. A számlának és az adó-visszaigénylő lapnak a külföldi utas azonosítására vonatkozó adatai nem térhetnek el az úti okmányában szereplő adatoktól. A külföldi utas köteles úti okmányát a termék értékesítőjének bemutatni. Az adó-visszaigénylő lap csak 1 darab számlának a termékértékesítésre vonatkozó adatait tartalmazhatja úgy, hogy azok nem térhetnek el a számla adataitól. Az adó-visszaigénylő lapot a termék értékesítője 3 példányban állítja ki, amelyből az első 2 példányt a külföldi utasnak adja át, a harmadik példányt pedig saját nyilvántartásában őrzi meg.
+(1a) Az (1) bekezdés c) pontja szerinti igazolás
 
-(3) Abban az esetben, ha az (1) bekezdés c) pontjában említett kiléptetést a vámhatóság igazolja, az adó-visszaigénylő lap záradékolt és lebélyegzett második példányát a külföldi utastól bevonja.
+- a) az állami adóhatóság által erre a célra rendszeresített nyomtatvány vagy más, az állami adóhatóság által engedélyezett, a (10) bekezdésben meghatározott adattartalmú nyomtatvány (a továbbiakban együtt: adó-visszaigénylő lap) záradékolásával és lebélyegzésével, vagy
+- b) a számla digitális bélyegzővel történő hitelesítésével (a továbbiakban: elektronikus igazolás)
+
+történik.
+
+(2) Adó-visszaigénylő lap alkalmazása esetén az adómentesség érvényesítése érdekében a termék értékesítőjének a számlakibocsátás mellett – a külföldi utas kérelmére – az adó-visszaigénylő lap kitöltéséről is gondoskodnia kell. A számlának és az adó-visszaigénylő lapnak a külföldi utas azonosítására vonatkozó adatai nem térhetnek el az úti okmányában szereplő adatoktól. A külföldi utas köteles úti okmányát a termék értékesítőjének bemutatni. Az adó-visszaigénylő lap csak 1 darab számlának a termékértékesítésre vonatkozó adatait tartalmazhatja úgy, hogy azok nem térhetnek el a számla adataitól. Az adó-visszaigénylő lapot a termék értékesítője 3 példányban állítja ki, amelyből az első 2 példányt a külföldi utasnak adja át, a harmadik példányt pedig saját nyilvántartásában őrzi meg.
+
+(3) Ha az (1) bekezdés c) pontja szerinti kiléptetést a vámhatóság az (1a) bekezdés a) pontjában meghatározottak szerint igazolja, az adó-visszaigénylő lap záradékolt és lebélyegzett második példányát a külföldi utastól bevonja.
 
 (4) Az adómentesség érvényesítésének feltétele, hogy
 
-- a) a termék értékesítője birtokolja az adó-visszaigénylő lap (1) bekezdés c) pontja szerint záradékolt és lebélyegzett első példányát, továbbá
+- a) a termék értékesítője birtokolja az adó-visszaigénylő lap (1a) bekezdés a) pontja szerint záradékolt és lebélyegzett első példányát vagy rendelkezésére álljon az elektronikus igazolás, és
 - b) ha a termékértékesítés teljesítésekor adó felszámítása történt, a felszámított adót a termék értékesítője – az (5)–(8) bekezdések szerint – a külföldi utas részére visszatérítse.
 
 (5) Az adó visszatéríttetését a termék értékesítőjénél személyesen a külföldi utas, illetőleg a nevében és képviseletében eljáró meghatalmazottja indítványozhatja. Abban az esetben, ha a külföldi utas
@@ -1384,14 +1391,14 @@ adókötelessé teszi.
 - a) személyesen jár el, köteles úti okmányát bemutatni;
 - b) nem személyesen jár el, a nevében és képviseletében eljárónak csatolnia kell a nevére szóló írásos meghatalmazást.
 
-(6) Az adó visszatéríttetése érdekében a külföldi utas, illetőleg meghatalmazottja a termék értékesítőjének
+(6) Az adó visszatéríttetése érdekében a külföldi utas, vagy meghatalmazottja a termék értékesítőjének
 
-- a) átadja az adó-visszaigénylő lap (1) bekezdés c) pontja szerint záradékolt és lebélyegzett első példányát, továbbá
-- b) bemutatja a termékértékesítés teljesítését tanúsító számla eredeti példányát.
+- a) átadja az adó-visszaigénylő lap (1a) bekezdés a) pontja szerint záradékolt és lebélyegzett első példányát, továbbá bemutatja a termékértékesítés teljesítését tanúsító számla eredeti példányát, vagy
+- b) rendelkezésére bocsátja az elektronikus igazolást.
 
 (7) A visszatérített adó forintban illeti meg a külföldi utast, amelyet készpénzben kell kifizetni. A termék értékesítője és a külföldi utas azonban ettől eltérő pénznemben és fizetési módban is megállapodhat.
 
-(8) A termék értékesítője köteles egyúttal gondoskodni arról is, hogy a termékértékesítés teljesítését tanúsító számla ismételt adó-visszatéríttetésre ne jogosítson. Ennek érdekében a visszaszolgáltatást megelőzően a számla eredeti példányán az „áfa elszámolva” jelölést kötelezően fel kell tüntetni, és az így megjelölt számláról a termék értékesítőjének fotómásolatot kell készítenie, amelyet köteles nyilvántartásában megőrizni.
+(8) Adó-visszaigénylő lap alkalmazása esetén a termék értékesítője köteles egyúttal gondoskodni arról is, hogy a termékértékesítés teljesítését tanúsító számla ismételt adó-visszatéríttetésre ne jogosítson. Ennek érdekében a visszaszolgáltatást megelőzően a számla eredeti példányán az „áfa elszámolva” jelölést kötelezően fel kell tüntetni, és az így megjelölt számláról a termék értékesítőjének fotómásolatot kell készítenie, amelyet köteles nyilvántartásában megőrizni.
 
 (9) Abban az esetben, ha a (4) bekezdés b) pontja szerint adó felszámítása történt, és azt a termék értékesítője korábban fizetendő adóként megállapította és bevallotta, jogosult arra, hogy legkorábban abban az adómegállapítási időszakban, amelyben a külföldi utas részére az adó visszatérítése megtörtént, csökkentse a 153/A. § (1) bekezdése szerint megállapított fizetendő adót a visszatérített adó összegével, feltéve, hogy ezt az összeget nyilvántartásában elkülönítetten mutatja ki.
 
@@ -2277,7 +2284,7 @@ számlakibocsátási kötelezettséget jelent.
 
 178. § (1) Külön jogszabály a számla és a nyugta kiállításának módjára, ideértve a nyugta-kibocsátási kötelezettség kötelező gépi kiállítással történő megvalósítását is, valamint a számla és a nyugta adóigazgatási azonosítására egyéb rendelkezéseket is megállapíthat.
 
-(1a) A nyugtaadási kötelezettség gépi kiállítással történő megvalósítása esetén a géppel kiállított nyugták, számlák, valamint a pénztárgép adatairól az adóalany – jogszabály szerint – rendszeresen adatszolgáltatást teljesít az állami adóhatóság részére, amely adatokat az állami adó- és vámhatóság kizárólag az Air. szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához törvényben meghatározott feladatai ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül. Jogszabály előírhatja, hogy a nyugtakibocsátási kötelezettség kötelező gépi kiállítással történő megvalósítására szolgáló pénztárgép működését az állami adóhatóság hírközlő eszköz és rendszer útján felügyelje. Ebben az esetben az adatszolgáltatás – jogszabály szerint – az állami adóhatóság általi közvetlen adatlekérdezéssel is megvalósítható. Az adatszolgáltatáshoz szükséges adatkapcsolatot biztosító hírközlési szolgáltató a pénztárgép adóügyi ellenőrző egységének azonosítóit nem kapcsolhatja össze a pénztárgép üzemeltetőjének adataival. Az adatszolgáltatáshoz szükséges adatkapcsolatot biztosító hírközlési szolgáltató a pénztárgép üzemeltetője részére biztosított szolgáltatás szüneteltetéséről, illetve megszüntetéséről adatot szolgáltat az állami adóhatóság részére. A közvetlen adatlekérdezéssel megvalósított adatszolgáltatás teljesítése alól az állami adóhatóság – az elektronikus hírközlő hálózat hiányára tekintettel – jogszabály szerint, kérelemre egyedi mentesítést adhat. Az egyedi mentesítés iránti kérelem elbírálása során a Nemzeti Média- és Hírközlési Hatóság szakhatóságként működik közre az elektronikus hírközlő hálózat elérhetősége kérdésében.
+(1a) A nyugtaadási kötelezettség gépi kiállítással történő megvalósítása esetén a géppel kiállított nyugták, számlák, valamint a pénztárgép adatairól az adóalany – jogszabály szerint – rendszeresen adatszolgáltatást teljesít az állami adóhatóság részére. Jogszabály előírhatja, hogy a nyugtakibocsátási kötelezettség kötelező gépi kiállítással történő megvalósítására szolgáló pénztárgép működését az állami adóhatóság hírközlő eszköz és rendszer útján felügyelje. Ebben az esetben az adatszolgáltatás – jogszabály szerint – az állami adóhatóság általi közvetlen adatlekérdezéssel is megvalósítható. Az adatszolgáltatáshoz szükséges adatkapcsolatot biztosító hírközlési szolgáltató a pénztárgép adóügyi ellenőrző egységének azonosítóit nem kapcsolhatja össze a pénztárgép üzemeltetőjének adataival. Az adatszolgáltatáshoz szükséges adatkapcsolatot biztosító hírközlési szolgáltató a pénztárgép üzemeltetője részére biztosított szolgáltatás szüneteltetéséről, illetve megszüntetéséről adatot szolgáltat az állami adóhatóság részére. A közvetlen adatlekérdezéssel megvalósított adatszolgáltatás teljesítése alól az állami adóhatóság – az elektronikus hírközlő hálózat hiányára tekintettel – jogszabály szerint, kérelemre egyedi mentesítést adhat. Az egyedi mentesítés iránti kérelem elbírálása során a Nemzeti Média- és Hírközlési Hatóság szakhatóságként működik közre az elektronikus hírközlő hálózat elérhetősége kérdésében.
 
 (2) Számla magyar nyelven vagy élő idegen nyelven egyaránt kiállítható. E rendelkezés alkalmazásától az (1) bekezdésben említett esetben sem lehet eltérni.
 
@@ -3582,25 +3589,20 @@ ezen különös szabályozás hatálya alá tartozó termékértékesítéshez k
 
 253/Z. § A termékimportra a 82. § (1) bekezdése szerinti adómértéket kell alkalmazni.
 
-253/ZA. § (1) A címzettől beszedett adót az adóbeszedésre kötelezett elektronikus úton, havi gyakorisággal az állami adó- és vámhatóság által erre a célra rendszeresített formában vallja be a (2) bekezdésben meghatározott határidőig. A bevallásnak tartalmaznia kell az adott naptári hónapban vámjogi szabad forgalomba helyezett termékek:
-
-- a) adóalapját, és
-- b) a beszedett adó teljes összegét.
+253/ZA. § (1) A címzettől beszedett adót, valamint az adóbeszedésre kötelezettet a 253/Y. § (3)–(4) bekezdése szerint terhelő adó összegét az adóbeszedésre kötelezett elektronikus úton, havi gyakorisággal az állami adó- és vámhatóság által erre a célra rendszeresített nyomtatványon vallja be a (2) bekezdésben meghatározott határidőig. A bevallás tartalmazza a vámjogi szabad forgalomba bocsátott termékek adóalapját és ezen termékek után fizetendő adóból a beszedett adó, valamint az adóbeszedésre kötelezettet a 253/Y. § (3)–(4) bekezdése szerint terhelő adó összegét. A termék adóalapját és a beszedett adót azon naptári hónapról benyújtandó bevallásban kell feltüntetni, amelyikben a vámjogi szabadforgalomba bocsátott termékre jutó adó beszedése megtörtént. Ha az adóbeszedésre kötelezettet a 253/Y. § (3) bekezdése szerint adófizetési kötelezettség terheli, a termék adóalapját és az adót azon naptári hónapról benyújtandó bevallásban kell feltüntetni, amikor az adott terméket a címzett rendelkezésére bocsátotta. Ha a termék megsemmisült, ellopták vagy elveszett, a termék adóalapját, valamint – ha az adóbeszedésre kötelezettet a 253/Y. § (4) bekezdése szerint adófizetési kötelezettség terheli – az adót azon naptári hónapról benyújtandó bevallásban kell feltüntetni, amikor megállapították, hogy a termék megsemmisült, ellopták vagy elveszett, de legkésőbb a megsemmisült, ellopott vagy elveszett termék szabadforgalomba bocsátása időpontját követő harmadik hónapról benyújtott bevallásban.
 
 (2) Az (1) bekezdésben meghatározott adót havonta, az import vám megfizetésére vonatkozó határidőre vonatkozó szabályok szerint kell megfizetni.
 
-(3) Az adóbeszedésre kötelezettnek ezen különös szabályozás hatálya alá tartozó ügyletekről nyilvántartást kell vezetnie, amelyet az adófizetési kötelezettség keletkezésének évét követő öt naptári évig meg kell őriznie. A nyilvántartásnak tartalmaznia kell
+(3) Az adóbeszedésre kötelezettnek ezen különös szabályozás hatálya alá tartozó ügyletekről nyilvántartást kell vezetnie, amelyet az adófizetési kötelezettség keletkezésének évét követő öt naptári évig meg kell őriznie. A nyilvántartás tartalmazza
 
 - a) az ezen fejezet szerinti adófizetési kötelezettség alapjául szolgáló, vám-árunyilatkozaton szereplő adatokat,
 - b) a címzett nevét, elérhetőségét,
 - c) a címzett által átvett küldemény azonosítására vonatkozó adatokat,
-- d) a címzett által át nem vett, a Közösség területén kívülre igazoltan visszaküldött küldemény azonosítására vonatkozó adatokat, és
-- e) a címzett által át nem vett, a d) pont alá nem tartozó küldemény azonosítására vonatkozó adatokat,
+- d) a címzett által át nem vett, a Közösség területén kívülre igazoltan visszaküldött küldemény azonosítására vonatkozó adatokat,
+- e) a címzett által át nem vett, a d) pont alá nem tartozó küldemény azonosítására vonatkozó adatokat, és
 - f) a címzett részére történő kézbesítést megelőzően megsemmisült, elveszett vagy ellopott küldemény azonosítására vonatkozó adatokat.
 
 (4) A nyilvántartást kérésre elektronikus úton az állami adó- és vámhatóság rendelkezésére kell bocsátani.
-
-(5) Az adóbeszedés e törvényben nem szabályozott kérdéseiben az Art. rendelkezéseit kell alkalmazni.
 
 ## HARMADIK RÉSZ — VEGYES, ÉRTELMEZŐ ÉS ZÁRÓ RENDELKEZÉSEK
 
@@ -3703,7 +3705,9 @@ közösségi adószám birtokában végezhet.
 
 ### Adatszolgáltatás
 
-257/G. § Az adóalany a 4/A. számú mellékletben, valamint a 10. számú mellékletben meghatározottak szerint köteles adatot szolgáltatni.
+257/G. § (1) Az adóalany – a 178. § (1a) bekezdésben meghatározott eltéréssel – a 4/A. számú mellékletben, valamint a 10. számú mellékletben meghatározottak szerint adatot szolgáltat az állami adó- és vámhatóság részére.
+
+(2) A 10. számú melléklet és a 178. § (1a) bekezdés szerinti adatokat az állami adó- és vámhatóság az Air. szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához, a 184. § (2) bekezdésében és jogszabályban meghatározott egyéb feladata ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül.
 
 ### Ingatlan értékesítésére vonatkozó bejelentési szabály
 
@@ -3720,7 +3724,9 @@ közösségi adószám birtokában végezhet.
 
 257/J. § (1) Az adóalany kérelmezheti az őt terhelő előzetesen felszámított adó összegének visszatérítését, ha az neki fel nem róható okból, az adósemlegesség elvébe ütközően, más módon nem térült vagy térül meg.
 
-(2) Az adóalany a kérelmet az állami adóhatósághoz írásban terjeszti elő, legkésőbb 6 hónappal az adómegállapításhoz való jog elévülését megelőzően. A határidő jogvesztő, elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. Az adóalany e kérelem előterjesztésére a folyamatban lévő adóhatósági ellenőrzés során is jogosult.
+(2) Az adóalany a kérelmet az állami adóhatósághoz írásban terjeszti elő – a (2a) bekezdésben meghatározott kivétellel – legkésőbb 6 hónappal az adómegállapításhoz való jog elévülését megelőzően. Az adóalany e kérelem előterjesztésére a folyamatban lévő adóhatósági ellenőrzés során is jogosult. A határidő jogvesztő, elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
+
+(2a) Ha a kérelem benyújtását megalapozó ok bekövetkezésének időpontja az adómegállapításhoz való jog elévülését megelőző 6 hónapon belüli, vagy az adómegállapításhoz való jog elévülését követi, akkor az adóalany a kérelmet az ok bekövetkezésének időpontjától számított egy éven belül terjesztheti elő. Ha a kérelem benyújtását megalapozó ok bekövetkezésének időpontja az adómegállapításhoz való jog elévülését követi, az adóalany az őt terhelő előzetesen felszámított adó összegének visszatérítését csak kivételesen méltányolható esetben kérelmezheti. Kivételesen méltányolhatónak e tekintetben az olyan eset minősül, amikor a kérelem benyújtását megalapozó ok az adóalany által folytatott gazdasági tevékenység sajátosságából fakadóan következik be az adómegállapításhoz való jog elévülését követően. Az adóalany a kérelemben bemutatja a kérelem benyújtását megalapozó okot és az ok bekövetkeztének időpontját. Az adóalany e kérelem előterjesztésére a folyamatban levő adóhatósági ellenőrzés során is jogosult. A határidő jogvesztő, elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
 
 (3) A kérelemben az adóalany igazolja az (1) bekezdés szerinti feltételeknek való megfelelést.
 
@@ -3734,11 +3740,26 @@ közösségi adószám birtokában végezhet.
 - d) a visszatérítés alapjául szolgáló adót a költségvetés felé megfizették,
 - e) a visszatérítés alapjául szolgáló adó tekintetében a terméket beszerző, szolgáltatást igénybe vevő adóalanyt adólevonási jog illette volna meg (ideértve a XVIII. Fejezet szerinti adó-visszatéríttetési jogot is), azonban azt nem érvényesítette, és az adólevonási jog érvényesítésének lehetősége ellehetetlenült.
 
-(2) Az adóalany a kérelmet az állami adóhatósághoz írásban terjeszti elő, legkésőbb 6 hónappal az adómegállapításhoz való jog elévülését megelőzően. A határidő jogvesztő, elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. Az adóalany e kérelem előterjesztésére a folyamatban lévő adóhatósági ellenőrzés során is jogosult.
+(2) Az adóalany a kérelmet az állami adóhatósághoz írásban terjeszti elő – a (2a) bekezdésben meghatározott kivétellel – legkésőbb 6 hónappal az adómegállapításhoz való jog elévülését megelőzően. Az adóalany e kérelem előterjesztésére a folyamatban lévő adóhatósági ellenőrzés során is jogosult. A határidő jogvesztő, elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
+
+(2a) Ha a kérelem benyújtását megalapozó ok bekövetkezésének időpontja az adómegállapításhoz való jog elévülését megelőző 6 hónapon belüli, vagy az adómegállapításhoz való jog elévülését követi, akkor az adóalany a kérelmet az ok bekövetkezésének időpontjától számított egy éven belül terjesztheti elő. Ha a kérelem benyújtását megalapozó ok bekövetkezésének időpontja az adómegállapításhoz való jog elévülését követi, az adóalany az általa megállapított fizetendő adó összegének visszatérítését csak kivételesen méltányolható esetben kérelmezheti. Kivételesen méltányolhatónak e tekintetben az olyan eset minősül, amikor a kérelem benyújtását megalapozó ok az adóalany által folytatott gazdasági tevékenység sajátosságából fakadóan következik be az adómegállapításhoz való jog elévülését követően. Az adóalany a kérelemben bemutatja a kérelem benyújtását megalapozó okot és az ok bekövetkeztének időpontját. Az adóalany e kérelem előterjesztésére a folyamatban levő adóhatósági ellenőrzés során is jogosult. A határidő jogvesztő, elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
 
 (3) A kérelemben az adóalany bemutatja az (1) bekezdés szerinti feltételeknek való megfelelést.
 
 (4) A kérelemről az állami adóhatóság a kérelem beérkezésétől számított 6 hónapon belül dönt.
+
+257/L. § (1) A 257/K. §-tól eltérően, ha a behajthatatlan követelésként történő elszámolásra alapot adó ok bekövetkezésének időpontjában a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás után keletkező adó megállapításához való jog elévült, az adóalany kérelmezheti a behajthatatlan követelésként elszámolt ellenérték egészének vagy részének adót nem tartalmazó összegével megegyező összegre jutó, a költségvetés felé megfizetett adó visszatérítését a következő feltételek együttes teljesülése esetén:
+
+- a) az adó alapjának csökkentésére a 77. § (7) bekezdés a), c), h) és i) pontjában, valamint (9) és (11) bekezdésében meghatározott feltételek teljesülnek, azzal, hogy az adóalany a 77. § (9) bekezdésében foglaltakról a kérelemben nyilatkozik,
+- b) a kérelem benyújtásakor a behajthatatlan követelésként történő elszámolásra alapot adó ok bekövetkezésének időpontjától kezdődően legfeljebb egy év telt el.
+
+(2) Az adóalany az (1) bekezdés szerinti kérelmet az állami adóhatósághoz írásban terjeszti elő a behajthatatlan követelésként történő elszámolásra alapot adó ok időpontjától számított egy éven belül. A határidő jogvesztő, elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. Az adóalany e kérelem előterjesztésére a folyamatban levő adóhatósági ellenőrzés során is jogosult.
+
+(3) A kérelemben az adóalany bemutatja az (1) bekezdésben foglaltaknak való megfelelést.
+
+(4) A kérelemről az állami adóhatóság a kérelem beérkezésétől számított 6 hónapon belül dönt.
+
+(5) Amennyiben az (1) bekezdés szerinti kérelem alapján történő adó-visszatérítést követően a termék értékesítője, szolgáltatás nyújtója részére a behajthatatlan követelésként elszámolt ellenérték egészét vagy annak egy részét megtérítik, az adóalany köteles a megtérítés időpontját magában foglaló adómegállapítási időszakra benyújtott bevallásában fizetendő adót növelő tételként szerepeltetni a megtérített ellenérték vagy részellenérték adót nem tartalmazó összegével megegyező összegre jutó adó összegét.
 
 ### XXI. Fejezet — ÉRTELMEZŐ RENDELKEZÉSEK
 
@@ -3936,6 +3957,7 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
   - gn) a Tanács (EU) 2018/912 irányelve (2018. június 22.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a minimális általános adómérték tiszteletben tartására vonatkozó kötelezettség tekintetében történő módosításáról;
   - go) a Tanács (EU) 2018/1695 irányelve (2018. november 6.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a bizonyos csalásra alkalmas termékek értékesítése és szolgáltatások nyújtása esetén alkalmazott választható fordított adózás, valamint a héacsalás elleni gyorsreagálási mechanizmus alkalmazási időszaka tekintetében történő módosításáról;
   - gp) a Tanács (EU) 2018/1910 irányelve (2018. december 4.) a 2006/112/EK irányelvnek a hozzáadottértékadó-rendszer egyes, a tagállamok közötti kereskedelem adóztatására vonatkozó szabályainak harmonizálása és egyszerűsítése tekintetében történő módosításáról;
+  - gr) A Tanács (EU) 2020/1756 irányelve (2020. november 20.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek az észak-írországi adóalanyok azonosítása tekintetében történő módosításáról.
 - h) a Tanács 2008/9/EK irányelve (2008. február 12.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról, valamint annak a következő irányelvvel történt módosítása:
   - ha) a Tanács 2010/66/EU irányelve (2010. október 14.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról szóló 2008/9/EK irányelv módosításáról;
 - i) a Tanács 2013/61/EU irányelve (2013. december 17.) a 2006/112/EK és a 2008/118/EK irányelvnek a francia legkülső régiók és különösen Mayotte vonatkozásában történő módosításáról;
@@ -4260,9 +4282,24 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 
 (2) Azon adóalanynak, aki (amely) 2021. április 1-jei hatállyal szerepel az állami adó- és vámhatóságnak az Art. szerinti távolról is nyújtható szolgáltatásokat nyújtó adózókra vonatkozó, különös szabályozás hatálya alatt álló adózókra vonatkozó nyilvántartásában, az e törvény XIX/A. Fejezet 2. alfejezete szerinti különös szabályok alkalmazásához nem kell ismételten bejelentkeznie az állami adó- és vámhatósághoz, feltéve, hogy nem merül fel olyan ok, amely alapján az adóalanyt az állami adó- és vámhatóságnak ezen különös szabályozást alkalmazó adóalanyokra vonatkozó nyilvántartásából törölnie kellett volna. Ezen adóalany 2021. június 15-ig elektronikus úton köteles bejelenteni az állami adó- és vámhatóságnak a 253/J. § (2) bekezdés c), i) és k)–n) pontja szerinti adatokat. A bejelentés elmulasztását úgy kell tekinteni, hogy az adóalany nem kívánja a továbbiakban az uniós különös szabályozást alkalmazni.
 
-345. § E törvénynek a Mód11 törvénnyel megállapított 12/B. §, 12/C. §, 253/E. § (4)–(5) bekezdését, 253/F–253/G. §-át, 253/J. § (5)–(7) bekezdését, 253/K–253/O. §-át, 253/S. §-át, 253/T. § (9)–(13) bekezdését, 253/U–253/ZA. §-át 2021. július 1-jétől kell alkalmazni azzal, hogy az adóalany a 253/X. § szerinti döntéséről ezen rendelkezés hatálybalépésének időpontjától kezdődően tehet az állami adó- és vámhatóság hatóság felé bejelentést.
+345. § E törvénynek a Mód11 törvénnyel megállapított 12/B. §, 12/C. §, 253/E. § (4)–(5) bekezdését, 253/F–253/G. §-át, 253/J. § (5)–(7) bekezdését, 253/K–253/O. §-át, 253/S. §-át, 253/T. § (9)–(13) bekezdését, 253/U–253/Z. §-át és az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 253/ZA. §-át 2021. július 1-jétől kell alkalmazni azzal, hogy az adóalany a 253/X. § szerinti döntéséről ezen rendelkezés hatálybalépésének időpontjától kezdődően tehet az állami adó- és vámhatóság felé bejelentést.
 
 347. § A 3. számú melléklet I. részében foglalt táblázatnak az egyes törvényeknek az otthonteremtési akcióterv bevezetése érdekében szükséges módosításáról szóló 2020. évi CXXXIII. törvénnyel megállapított 50. és 51. sorát azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2021. január 1-jére vagy azt követő időpontra esik.
+
+349. § E törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel módosított 77. § (7) bekezdése azokban az esetekben is alkalmazható, amikor a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás teljesítésének időpontja az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvény hatálybalépésének napját megelőzi, de 2015. december 31. napját követő időpontra esik.
+
+350. § (1) E törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 257/J. § (2a) bekezdése és 257/K. § (2a) bekezdése olyan kérelmek esetében alkalmazható, amelyek vonatkozásában a kérelem benyújtását megalapozó ok a 257/J. § (2a) bekezdése és 257/K. § (2a) bekezdése hatálybalépésének napján vagy azt követően következett be.
+
+(2) Az adóalany az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 257/J. § (2a) bekezdés és 257/K. § (2a) bekezdés hatálybalépésének időpontjában folyamatban levő adóhatósági ellenőrzés során is jogosult a kérelem benyújtására az (1) bekezdéssel összhangban.
+
+351. § (1) E törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 257/L. §-a olyan kérelmek esetében alkalmazható, amelyek vonatkozásában a 257/L. § szerinti, behajthatatlan követelésként történő elszámolásra alapot adó ok
+
+- a) a 257/L. § hatálybalépésének napján vagy azt követően következett be, vagy
+- b) a 257/L. § hatálybalépését megelőzően következett be, de a hatálybalépés időpontjában a 257/L. § (1) bekezdésben hivatkozott jogvesztő határidő még nem telt el, feltéve, hogy ebben az esetben a kérelmet a hatálybalépéstől számított 180 napos jogvesztő határidőn belül benyújtja az adóalany.
+
+(2) Az adóalany az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 257/L. § hatálybalépésének időpontjában folyamatban levő adóhatósági ellenőrzés során is jogosult a kérelem benyújtására az (1) bekezdéssel összhangban.
+
+352. § A 8/A. számú melléklet 6. pontja szerinti államban letelepedett adóalanyok tekintetében a XVIII. Fejezet szerinti adó-visszatérítést azon ügyletek esetén kell először alkalmazni, amelyek teljesítési időpontja 2021. január 1-jére vagy azt követő időpontra esik.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
@@ -4793,6 +4830,7 @@ B. pont
 - 5. Török Köztársaság A Török Köztársaságban gazdasági céllal letelepedett adóalanyt az adó-visszatéríttetési jog a XVIII. Fejezet egyéb rendelkezéseinek sérelme nélkül az alábbi termékértékesítés, szolgáltatásnyújtás tekintetében illeti meg:
   - a) termékfuvarozási vagy személyszállítási szolgáltatás nyújtása érdekében beszerzett üzemanyag, igénybevett úthasználati szolgáltatás, a gépjármű működtetéséhez, üzemben tartásához beszerzett termék vagy igénybevett szolgáltatás;
   - b) kiállításon, vásáron kiállítóként való megjelenés érdekében beszerzett termék, igénybevett szolgáltatás.
+- 6. Egyesült Királyság, a Nagy-Britannia és Észak-Írország Egyesült Királyságának az Európai Unióból és az Európai Atomenergia-közösségből történő kilépéséről szóló Megállapodás Írországról/Észak-Írországról szóló Jegyzőkönyvben foglaltak figyelembevételével.
 
 ### 9. számú melléklet a 2007. évi CXXVII. törvényhez
 
