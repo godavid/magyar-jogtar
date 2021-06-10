@@ -359,7 +359,7 @@ a megállapításáról szóló értesítés esetén a behajtást kérő megkere
 
 (4) Az adóhatóságnak a megkeresésében meg kell jelölnie a végrehajtási ügy vagy a végrehajtás alapjául szolgáló okirat számát.
 
-(5) Az adó megfizetésére kötelezett személy kötelezéséhez, továbbá az ideiglenes biztosítási intézkedés és a biztosítási intézkedés végrehajtására irányuló végrehajtás foganatosításához szükséges, e §-ban meghatározott adatok beszerzése iránt az adóhatóság már a végrehajtható okirat kézbesítése előtt intézkedhet.
+(5) Az adó megfizetésére kötelezett személy kötelezéséhez, továbbá az ideiglenes biztosítási intézkedés és a biztosítási intézkedés foganatosításához szükséges, e §-ban meghatározott adatok beszerzése iránt az adóhatóság a végrehajtható okirat, vagy az ideiglenes biztosítási intézkedést és a biztosítási intézkedést elrendelő döntés kézbesítése előtt intézkedhet.
 
 34. § (1) Az adóhatóság a (2) bekezdésben foglalt személy által
 
@@ -402,17 +402,17 @@ ellenőrzése céljából megkeresheti a személyiadat- és lakcímnyilvántart�
 
 36. § Az önkormányzati adóhatóság a végrehajtást önálló bírósági végrehajtó útján is foganatosíthatja. Ebben az esetben az önálló bírósági végrehajtó az e törvényben foglalt rendelkezések alkalmazásával jár el azzal az eltéréssel, hogy illetékességére a Vht. 232. § (3)–(5) bekezdése az irányadó, és alkalmazza a Vht.-nak az elektronikus ingó- és ingatlanárverésre vonatkozó rendelkezéseit is. Az önálló bírósági végrehajtó díjazására a bírósági végrehajtói díjszabásról szóló rendelet rendelkezései alkalmazandók.
 
-#### 23. Eljárás külföldön tartózkodó személy végrehajtási ügyében
+#### 23. Tartozás külföldön történő érvényesítése során követendő eljárás
 
-37. § (1) A nem belföldi illetőségű vagy az egybefüggően 183 napot meghaladóan külföldön tartózkodó belföldi illetőségű személy (a továbbiakban együtt e § alkalmazásában: fizetésre kötelezett személy) tartozásának külföldön történő érvényesítése (beszedése) érdekében szükséges cselekményt – az Európai Unió tagállamai közötti, valamint nemzetközi egyezményekben szereplő jogsegély hatálya alá tartozó fizetési kötelezettségek kivételével – az adópolitikáért felelős miniszter által lefolytatott közbeszerzési eljárás nyertese teszi meg.
+37. § (1) Az adóhatóság a tartozás külföldön történő érvényesítése érdekében – az Európai Unió tagállamai közötti, valamint nemzetközi egyezményekben szereplő jogsegély hatálya alá tartozó fizetési kötelezettségek kivételével – az e §-ban foglaltak szerint jár el.
 
-(2) A közbeszerzési eljárás nyertese a tartozás érvényesítése érdekében jogosult az ehhez szükséges, adótitoknak minősülő adatok megismerésére. Ennek érdekében a végrehajtási eljárás alapjául szolgáló iratokat az adóhatóság az eljárás befejezéséig a közbeszerzési eljárás nyertese rendelkezésére bocsátja.
+(2) Az adóhatóság a tartozás megfizetésére a nem belföldi illetőségű vagy az egybefüggően 183 napot meghaladóan külföldön tartózkodó belföldi illetőségű személy adóst felhívhatja, eredménytelen felhívás esetén, továbbá ha a felhívás alkalmazása a körülmények alapján célszerűtlen, az adós vagyonára a végrehajtást megindítja.
 
-(3) Az (1) bekezdés szerinti cselekmény ellátásáért a közbeszerzési eljárás nyertesét a külön megállapodásban foglaltak szerint fizetendő ellenérték, de legfeljebb a beszedett tartozás nyolc százaléka illeti meg.
+(3) Az adós külföldi vagyonából történő megtérülés érdekében az adóhatóság megkeresheti az adópolitikáért felelős miniszter által lefolytatott közbeszerzési eljárás nyertesét, a követelés külföldi érvényesítése iránt. A közbeszerzési eljárás nyertese a tartozás érvényesítése érdekében jogosult az ehhez szükséges, adótitoknak minősülő adatok megismerésére. Ennek érdekében a végrehajtási eljárás alapjául szolgáló iratokat az adóhatóság az eljárás befejezéséig a közbeszerzési eljárás nyertese rendelkezésére bocsátja.
 
-(4) Az adóhatóság a fizetési kötelezettséget megállapító döntést, illetve az egyéb végrehajtható okiratot a közbeszerzési eljárás nyerteséhez negyedévenként küldi meg. Az ezt követő változásról az adóhatóság a közbeszerzési eljárás nyertesét haladéktalanul értesíti. Amíg a közbeszerzési eljárás nyertese az eljárás eredménytelenségéről nem értesíti az adóhatóságot, a fizetésre kötelezett személy belföldi vagyona ellen végrehajtási cselekmény nem foganatosítható. Ha a közbeszerzési eljárás nyertese az eljárás eredményességéről 6 hónap elteltével nem nyilatkozik, az adóhatóság a fizetésre kötelezett ingatlanára jelzálogjogot jegyeztethet be.
+(4) A (3) bekezdés szerinti intézkedések foganatosításáért a közbeszerzési eljárás nyertesét a külön megállapodásban foglaltak szerint fizetendő ellenérték, de legfeljebb a beszedett tartozás öt százaléka illeti meg.
 
-(5) Nem szükséges a közbeszerzési eljárás nyertesének igénybevétele akkor, ha a fizetésre kötelezett személy a fizetési kötelezettség érvényesítésekor belföldön tartózkodik és a fizetési kötelezettség érvényesítésének egyéb akadálya nincs, továbbá akkor sem, ha a fizetésre kötelezett személynek e törvény szerinti képviseleti jogosultsággal rendelkező belföldi meghatalmazottja van.
+(5) Az adóhatóság, a követelés összegének változásáról a közbeszerzési eljárás nyertesét haladéktalanul értesíti.
 
 #### 24. Megkeresés a végrehajtási eljárásban
 
@@ -1168,7 +1168,7 @@ az adóhatóság a megkeresést végzéssel visszautasítja.
 
 (8) Az állami adó- és vámhatóság az elvégzendő cselekmény pontos meghatározása, valamint közreműködő szervezet kirendelése, illetve a szükséges műszaki tervdokumentáció elkészítése érdekében szakértőt vehet igénybe, ha a (7) bekezdésben foglalt eljárás nem vezetett vagy aránytalanul hosszú idő múlva vezetne eredményre. A szakértő költségét a behajtást kérő hatóság előlegezi.
 
-123. § (1) Ha a 122. § (6) bekezdés szerinti végrehajtáshoz olyan szakértelem, hatósági engedély vagy eszköz szükséges, amellyel a végrehajtást foganatosító adóhatóság nem rendelkezik, az állami adó- és vámhatóság a közbeszerzésekről szóló törvény szabályai alapján választja ki a közreműködő szervezetet.
+123. § (1) Ha a 122. § (6) bekezdése szerinti végrehajtáshoz olyan szakértelem, hatósági engedély vagy eszköz szükséges, amellyel a végrehajtást foganatosító adóhatóság nem rendelkezik, az állami adó- és vámhatóság jogszabályban kijelölt központi beszerző szerv bevonásával jár el, vagy a közbeszerzésekről szóló törvény szabályai alapján választja ki az eljárásban közreműködő szervezetet.
 
 (2) Ha a 122. § (6) bekezdés szerinti végrehajtáshoz olyan szakértelem, hatósági engedély vagy eszköz szükséges, amellyel a végrehajtást foganatosító adóhatóság nem rendelkezik és a beszerzés nem tartozik az (1) bekezdés hatálya alá, az állami adó- és vámhatóság a közreműködő szervezetek névjegyzékében szereplő, a végrehajtandó meghatározott cselekményhez a szükséges szakértelemmel rendelkező szervezetek közül véletlenszerű kiválasztással három közreműködő szervezetet jelöl ki ajánlattételre
 

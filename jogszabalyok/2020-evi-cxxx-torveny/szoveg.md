@@ -43,10 +43,10 @@ is alkalmazni kell.
 
 (1) E törvény alkalmazásában:
 
-- 1. alacsonyabb besorolású munkakör: az a munkakör, amely a betöltött munkakörnél alacsonyabb besorolási osztályba vagy azonos besorolási osztály esetén alacsonyabb besorolási kategóriába tartozik, továbbá a vezetői munkakört betöltők esetében a nem vezetői munkakör vagy az alacsonyabb vezetői munkakör is;
+- 1. alacsonyabb besorolású munkakör: az a munkakör, amely a betöltött munkakörnél alacsonyabb besorolási osztályba vagy azonos besorolási osztály esetén alacsonyabb besorolási kategóriába tartozik, azonos besorolási kategória esetén központi szervnél betöltött munkakörhöz képest a területi szervnél betöltött munkakör, továbbá a vezetői munkakört betöltők esetében a nem vezetői munkakör vagy az alacsonyabb vezetői munkakör is;
 - 2. alacsonyabb vezetői munkakör: az a vezetői munkakör, amely a betöltött vezetői munkakörhöz képest alacsonyabb besorolási kategóriába tartozik;
 - 3. alapvető munkáltatói jog: a kinevezés, a jogviszony-megszüntetés, a fegyelmi, a méltatlansági és a kártérítési eljárás, valamint a sérelemdíj megfizetésére irányuló eljárás megindítása, a fegyelmi büntetés, a kártérítés, a sérelemdíj, az összeférhetetlenség megállapítása, a kinevezés tartalmának módosítása;
-- 4. azonos besorolású munkakör: az a munkakör, amely a betöltött munkakörrel azonos besorolási osztályba és besorolási kategóriába tartozik;
+- 4. azonos besorolású munkakör: az a munkakör, amely a betöltött munkakörrel azonos besorolási osztályba és besorolási kategóriába tartozik, továbbá azonos szervezeti szinten helyezkedik el;
 - 5. azonos vezetői munkakör: az a vezetői munkakör, amelynek besorolási kategóriája megegyezik a betöltött munkakör besorolási kategóriájával;
 - 6. beosztás szerinti heti munkaidő: a hétre elrendelt rendes munkaidő;
 - 7. beosztás szerinti napi munkaidő: a munkanapra elrendelt rendes munkaidő;
@@ -58,7 +58,7 @@ is alkalmazni kell.
 - 13. fogyatékos gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra;
 - 14. gyermek: a családok támogatására vonatkozó szabályok szerinti saját háztartásban nevelt vagy gondozott gyermek;
 - 15. gyermekét egyedül nevelő foglalkoztatott: aki gyermekét saját háztartásában neveli és hajadon, nőtlen, özvegy, elvált vagy házastársától külön él és nincs élettársa;
-- 16. magasabb besorolású munkakör: az a munkakör, amely a betöltött munkakörnél magasabb besorolási osztályba vagy magasabb besorolási kategóriába tartozik vagy magasabb vezetői munkakörnek minősül, továbbá a nem vezetői munkakört betöltők esetében a vezetői munkakör is;
+- 16. magasabb besorolású munkakör: az a munkakör, amely a betöltött munkakörnél magasabb besorolási osztályba vagy magasabb besorolási kategóriába tartozik vagy magasabb vezetői munkakörnek minősül, azonos besorolási kategória esetén a területi szervnél betöltött munkakörhöz képest a központi szervnél betöltött munkakör, továbbá a nem vezetői munkakört betöltők esetében a vezetői munkakör is;
 - 17. magasabb vezetői munkakör: az a vezetői munkakör, amely a betöltött vezetői munkakör besorolási kategóriájánál magasabb besorolási kategóriába tartozik;
 - 18. munkaidő: a munkavégzésre előírt idő kezdetétől annak befejezéséig tartó idő, valamint a munkavégzéshez kapcsolódó előkészítő és befejező tevékenység időtartama, azzal, hogy nem minősül munkaidőnek a foglalkoztatott lakó- vagy tartózkodási helyéről a tényleges munkavégzés helyére, valamint a munkavégzés helyéről a lakó- vagy tartózkodási helyére történő utazás időtartama;
 - 19. munkanap: a naptári nap vagy a munkáltatói jogkör gyakorlója által meghatározott megszakítás nélküli huszonnégy óra, ha a beosztás szerinti napi munkaidő kezdete és befejezése nem azonos naptári napra esik;
@@ -484,7 +484,7 @@ a munkáltatói jogkör gyakorlója – mérlegelése alapján – a foglalkozta
 
 (5) A felajánlott munkakör elfogadásáról vagy elutasításáról a foglalkoztatott a felajánlástól számított öt munkanapon belül írásban nyilatkozik. Ha a foglalkoztatott a munkakör elfogadásáról öt munkanapon belül nem nyilatkozik, azt úgy kell tekinteni, mintha a felajánlott munkakört elutasította volna.
 
-(6) Ha a pénzügyőr a (4) bekezdés alapján felajánlott pénzügyőri munkakört elfogadja, intézkedni kell a kifogástalan életvitel soron kívüli ellenőrzéséről. A pénzügyőr az elfogadott munkakörbe abban az esetben helyezhető, ha a kifogástalan életvitel ellenőrzése során a 34. § (5) bekezdése szerinti körülményt a munkáltatói jogkör gyakorlója nem állapított meg.
+(6) Ha a pénzügyőr a (4) bekezdés alapján felajánlott pénzügyőri munkakört elfogadja, intézkedni kell a kifogástalan életvitel soron kívüli ellenőrzéséről. A pénzügyőr az elfogadott munkakörbe abban az esetben helyezhető, ha a kifogástalan életvitel ellenőrzése során a 34. § (5) bekezdése szerinti körülményt a munkáltatói jogkör gyakorlója nem állapított meg. A kifogástalan életvitel ellenőrzése idejére a pénzügyőrt a munkáltatói jogkör gyakorlója a munkavégzés alól mentesíti. A mentesítés időtartamára a pénzügyőr a távolléti díjának 50%-ára jogosult.
 
 (7) A szolgálati jogviszonynak a (4) bekezdés szerinti megszüntetése esetén a foglalkoztatottat felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a foglalkoztatottal, azzal, hogy a nemzetbiztonsági ellenőrzés megállapításaiból csak az közölhető a foglalkoztatottal, amihez az ellenőrzést végző szerv hozzájárult.
 
@@ -749,7 +749,7 @@ Isten engem úgy segéljen!”
 
 (8) A (5) és (7) bekezdés nem alkalmazható, ha a foglalkoztató NAV szerv székhelyének, illetve telephelyének megváltozása okán kerül sor a kinevezési okirat (2) bekezdés c) pontja szerinti módosítására.
 
-(9) A (2) bekezdés c)–f) pontjában és a (4) bekezdésben meghatározott okból történő kinevezés módosításról szóló okirat közlésétől számított öt munkanapon belül írásban benyújtott kérelmére – a nyilatkozattétel időpontjától kezdődően – az érintett jogviszonyát felmentéssel meg kell szüntetni. Felmentés esetén a kinevezés módosítását megelőzően betöltött korábbi munkakörben megállapított illetményt kell alapul venni a felmentési időre járó illetménynek, a végkielégítés összegének, valamint az egyéb kifizetések összegének meghatározásakor.
+(9) A (2) bekezdés c)–f) pontjában és a (4) bekezdésben meghatározott okból történő kinevezés módosításról szóló okirat közlésétől számított öt munkanapon belül írásban benyújtott kérelmére – a nyilatkozattétel időpontjától kezdődően – az érintett jogviszonyát felmentéssel meg kell szüntetni. Felmentés esetén a kinevezés módosítását megelőzően betöltött korábbi munkakörben megállapított illetményt kell alapul venni a felmentési időre járó illetménynek, távolléti díjnak, a végkielégítés összegének, valamint az egyéb kifizetések összegének meghatározásakor.
 
 (10) A (7) és (9) bekezdés vezetőre nem alkalmazható.
 
@@ -841,7 +841,7 @@ köteles foglalkoztatni. Ezt követően a foglalkoztatott munkaidejét a kérele
 
 (4) Az átrendelés időtartama alatt a munkáltatói jogkört az átrendelés helye szerinti szerv munkáltatói jogkör gyakorlója gyakorolja azzal, hogy a szolgálati jogviszony megszüntetésére, módosítására, valamint – ha az pénzügyőr esetén nem a miniszter hatáskörébe tartozik – a méltatlansági eljárás megindítására az eredeti munkáltatói jogkör gyakorlója jogosult, továbbá az átrendelés helye szerinti munkáltatói jogkör gyakorlója a fegyelmi jogkört, illetve a kártérítési jogkört csak a fegyelmi, illetve a kártérítési eljárásra irányadó kormányrendelet szerinti korlátozással, illetve esetben gyakorolhatja.
 
-(5) A harminc napot meghaladó átrendelés esetén az átrendelés idejére a foglalkoztatott az átrendelés ideje alatt ellátott munkaköri feladatoknak megfelelő alapilletményre és munkaköri pótlékra jogosult.
+(5) A harminc napot meghaladó átrendelés esetén az átrendelés idejére a foglalkoztatott az átrendelés ideje alatt ellátott munkaköri feladatoknak megfelelő alapilletményre és munkaköri pótlékra jogosult. Ha az így megállapított alapilletmény kevesebb, mint az átrendelés elrendelése előtt érvényes alapilletmény, akkor a foglalkoztatott az átrendelés elrendelése előtt érvényes alapilletményére jogosult.
 
 #### 53. § [Kiküldetés]
 
@@ -916,7 +916,7 @@ kirendelheti, vezényelheti.
 
 - a) a kirendelés, vezénylés időtartamára vonatkozó ötéves korlátozás nem alkalmazandó,
 - b) a kirendelésre, vezénylésre a NAV-nál történő ismételt foglalkoztatás hiányában vagy az 54. § (2) bekezdésében meghatározott időtartam letelte előtt is sor kerülhet,
-- c) a foglalkoztatott illetményére és illetményjellegű juttatásaira, teljesítményértékelésére, pihenőidejére, a kártérítésre, a személyiségi jogi jogsértésének jogkövetkezményeire, elismerések elnyerésére és viselésére, képzésére, továbbképzésére és előmenetelére e törvény szabályait kell alkalmazni,
+- c) a foglalkoztatott illetményére és illetményjellegű juttatásaira, pihenőidejére, a kártérítésre, a személyiségi jogi jogsértésének jogkövetkezményeire, elismerések elnyerésére és viselésére, képzésére, továbbképzésére és előmenetelére e törvény szabályait kell alkalmazni,
 - d) a foglalkoztatással kapcsolatos költségek – ha jogszabály vagy a miniszter eltérően nem rendelkezik – a NAV-ot terhelik.
 
 (3) A miniszter a kirendelés, vezénylés fenntartásával a foglalkoztatottat meghatározott szolgálati feladat ellátására az irányítása alatt álló más szervhez továbbrendelheti, illetve továbbvezényelheti.
@@ -1603,7 +1603,7 @@ időtartama alatt.
 
 [a) és b) pont a továbbiakban együtt: teljesítményértékelés].
 
-(2) Az értékelést a tárgyév február 15-ig meghatározott teljesítménykövetelmény alapján kell elvégezni. Az értékelés eredményeként a teljesítmény kivételes, jó, átlagos, átlag alatti, illetve elfogadhatatlan fokozatú lehet. Az érintett a teljesítményértékelésre észrevételt tehet.
+(2) Az értékelést a tárgyév február 15-ig meghatározott teljesítménykövetelmény alapján kell elvégezni. Az értékelés eredményeként a teljesítmény kivételes, jó, megfelelő, átlag alatti, illetve elfogadhatatlan fokozatú lehet. Az érintett a teljesítményértékelésre észrevételt tehet.
 
 (3) Az (1) bekezdéstől eltérően év közben is teljesítményértékelést kell végezni a NAV szervek közötti áthelyezés, illetve szervezeti egység váltás esetén, valamint akkor is, ha a foglalkoztatott munkaköre év közben megváltozik. Ilyen esetben a tárgyév hátralévő részére új egyéni teljesítménykövetelményt kell kitűzni és a tárgyévi teljesítményértékelés során az évközi teljesítményértékelés eredményét figyelembe kell venni. Nem kell új teljesítménykövetelményt kitűzni, ha a szervezeti egység váltás nem jár a munkakör megváltozásával.
 
@@ -1773,7 +1773,7 @@ meghatározott rendkívüli munkaidő időtartamát is be kell számítani.
 
 #### 103. § [Munkaközi szünet]
 
-(1) Ha a napi munkaidő a hat órát meghaladja, a foglalkoztatott részére a munkaidőn túl – a munkavégzés megszakításával – napi harminc perc munkaközi szünetet kell egybefüggően biztosítani. A tizenkét órát elérő munkaidő esetén negyvenöt perc, a huszonnégy órát elérő munkaidő esetén hatvan perc munkaközi szünetet kell biztosítani.
+(1) Ha a napi munkaidő a hat órát meghaladja, a foglalkoztatott részére a munkaidőn túl – a munkavégzés megszakításával – napi harminc perc munkaközi szünetet kell egybefüggően biztosítani. Ha a munkaidő eléri a tizenkét órát, legfeljebb két részletben negyvenöt perc munkaközi szünetet kell biztosítani. Ha a munkaidő eléri a huszonnégy órát, legfeljebb két részletben a munkaidő részeként hatvan perc munkaközi szünetet kell biztosítani.
 
 (2) Az (1) bekezdés alkalmazásakor a beosztás szerinti napi munkaidőbe a 105. § (1) bekezdés a) pontja szerinti rendkívüli munkaidő tartamát be kell számítani.
 
@@ -2253,13 +2253,13 @@ időtartamát.
 
 - a) a várakozási idő eltelt,
 - b) az előírt továbbképzési kötelezettségét teljesítette, és
-- c) a legutolsó teljesítményértékelés eredménye legalább jó.
+- c) a legutolsó teljesítményértékelés eredménye legalább megfelelő.
 
 (5) Ha az érintett a (4) bekezdésben meghatározott valamely feltételt nem teljesítette, magasabb fizetési fokozatba nem sorolható.
 
 (6) Ha az (5) bekezdés alkalmazására a (4) bekezdés b) pontja szerinti feltétel nem teljesülése miatt került sor, az érintettet a feltétel teljesülését követő hónap első napjával előre kell sorolni.
 
-(7) Ha az (5) bekezdés alkalmazására a (4) bekezdés c) pontja szerinti feltétel nem teljesülése miatt került sor, az érintettet a 94. § (1) bekezdése szerinti soron következő, legalább jó eredményű teljesítményértékelését követő hónap első napjával előre kell sorolni.
+(7) Ha az (5) bekezdés alkalmazására a (4) bekezdés c) pontja szerinti feltétel nem teljesülése miatt került sor, az érintettet a 94. § (1) bekezdése szerinti soron következő, legalább megfelelő eredményű teljesítményértékelését követő hónap első napjával előre kell sorolni.
 
 (8) Ha az érintett a (4) bekezdés b) és c) pontjában foglalt feltétel egyikét sem teljesítette, úgy az időben később teljesült feltétel tekintetében alkalmazható a (6), illetve a (7) bekezdés.
 
@@ -2285,7 +2285,7 @@ A magasabb besorolású munkakörbe – a munkáltatói jogkör gyakorlójának 
 
 - a) a meglévő rendfokozatára előírt várakozási időt kitöltötte, és
 - b) az előírt továbbképzési kötelezettségét teljesítette, és
-- c) a legutolsó teljesítményértékelés eredménye legalább jó.
+- c) a legutolsó teljesítményértékelés eredménye legalább megfelelő.
 
 (2) Ha a pénzügyőri státuszú foglalkoztatott meglévő rendfokozatára nincs előírt várakozási idő, a soron következő eggyel magasabb rendfokozatba a 137. §–138. §-ban foglaltak szerint léptethető elő.
 
@@ -2349,7 +2349,7 @@ A magasabb besorolású munkakörbe – a munkáltatói jogkör gyakorlójának 
 
 (1) A munkáltatói jogkör gyakorlója a vezetőt indokolás és az érintett beleegyezése nélkül a kinevezés módosításával végzettségének megfelelő nem vezetői munkakörbe, vagy más vezetői munkakörbe helyezheti.
 
-(2) Az érintettet a kinevezés módosításról szóló okirat közlésétől számított öt munkanapon belül írásban benyújtott kérelmére – a nyilatkozattételt követő naptól kezdődően – fel kell menteni. Az érintett felmentése esetén a kinevezésmódosítást megelőzően betöltött korábbi munkakörében megállapított illetményét kell alapul venni a felmentési időre járó távolléti díj, a végkielégítés összegének, valamint az egyéb járandóságok összegének meghatározásakor.
+(2) Az érintettet a kinevezés módosításról szóló okirat közlésétől számított öt munkanapon belül írásban benyújtott kérelmére – a nyilatkozattétel időpontjától kezdődően – fel kell menteni. Az érintett felmentése esetén a kinevezésmódosítást megelőzően betöltött korábbi munkakörében megállapított illetményét kell alapul venni a felmentési időre járó illetmény, távolléti díj, a végkielégítés összegének, valamint az egyéb járandóságok összegének meghatározásakor.
 
 (3) Ha az (1) bekezdés alkalmazása során az ott meghatározott munkakör nem biztosítható, az érintett szolgálati jogviszonyát felmentéssel meg kell szüntetni.
 
@@ -2516,7 +2516,7 @@ A késedelem idejére a késedelembe esés időpontjától kezdve a késedelemme
 
 (6) A jogalap nélkül kifizetett illetmény hatvan napon túl akkor követelhető vissza, ha az érintettnek a kifizetés alaptalanságát fel kellett ismernie vagy azt maga idézte elő. E bekezdés alkalmazásában a kifizetés napjának az számít, amikor a NAV számláját a kincstár megterhelte, készpénzkifizetés kézbesítése útján történő kifizetése esetén pedig az a nap, amikor a készpénz feladása megtörtént.
 
-(7) A munkáltatói jogkör gyakorlója a foglalkoztatott szolgálati jogviszonnyal összefüggő tartozásainak megtérítésére irányuló igényét írásbeli felszólítással érvényesítheti.
+(7) A NAV a foglalkoztatott szolgálati jogviszonnyal összefüggő tartozásainak megtérítésére irányuló igényét írásbeli felszólítással érvényesítheti.
 
 (8) A foglalkoztatott az illetményére vonatkozó igényéről – az egyezséget kivéve – előre nem mondhat le.
 
@@ -2610,7 +2610,7 @@ kell figyelembe venni.
 
 (4) A szakmai tanácsadói, szakmai főtanácsadói címmel rendelkező foglalkoztatott a besorolása szerinti illetményre jogosult, ha az magasabb, mint a címe alapján számított illetménye.
 
-(5) A szakmai tanácsadói vagy főtanácsadói címet vissza kell vonni, ha a foglalkoztatott teljesítménye két egymást követő évben átlagos vagy azt el nem érő. A szakmai tanácsadói vagy főtanácsadói cím visszavonása esetén a foglalkoztatott a címmel járó illetmény helyett a besorolása szerinti illetményére jogosult.
+(5) A szakmai tanácsadói vagy főtanácsadói címet vissza kell vonni, ha a foglalkoztatott teljesítménye két egymást követő évben átlag alatti. A szakmai tanácsadói vagy főtanácsadói cím visszavonása esetén a foglalkoztatott a címmel járó illetmény helyett a besorolása szerinti illetményére jogosult.
 
 #### 166. § [Elismerések]
 
@@ -2636,6 +2636,10 @@ A foglalkoztatott az adott feladat kiemelkedő teljesítéséért, illetve felad
 (5) A (3) és (4) bekezdés alkalmazásakor az (1) és (2) bekezdést és az 53. § (6) bekezdése szerinti kormányrendelet szabályait nem kell alkalmazni.
 
 (6) A nemzetközi közigazgatási szakértői tevékenység tartalmát, típusát, és a célfeladattal kapcsolatos megállapodásra vonatkozó részletszabályokat a Kormány rendeletben állapítja meg.
+
+(7) A (3) bekezdésben meghatározottakon túl a Kttv. szerinti célfeladat végrehajtásában a közszolgálati tisztviselőkről szóló törvényben és a végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a NAV foglalkoztatottja is részt vehet és a kormánytisztviselőkkel azonos feltételek szerint a célfeladat eredményes végrehajtásáért céljuttatásra jogosult.
+
+(8) A (3) bekezdésben meghatározottakon túl a Kit. szerinti célhoz köthető feladat végrehajtásában a kormányzati igazgatásról szóló törvényben és végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a NAV foglalkoztatottja is részt vehet és a kormánytisztviselőkkel azonos feltételek szerint a célhoz köthető feladat eredményes végrehajtásáért céljuttatásra jogosult.
 
 #### 168. § [Cafetéria]
 
@@ -3338,16 +3342,15 @@ kapcsolatos ügyekben.
 
 (4) Megállapodás megtámadása esetén a keresetlevelet a megtámadás eredménytelenségének 21. § (9) bekezdése szerinti megállapításától számított harminc napon belül lehet előterjeszteni.
 
-(5) A (3) bekezdés b)–g) és j) pontjában foglalt esetekben a keresetlevél benyújtásának halasztó hatálya van, ide nem értve
+(5) A (3) bekezdés b)–c), e)–g) és j) pontjában meghatározott esetben a keresetlevél benyújtásának halasztó hatálya van, ide nem értve
 
-- a) ha a 195. § (3) bekezdése alapján a fegyelmi határozat azonnal végrehajthatóvá válik, és a 195. § (5)–(6) bekezdése szerinti esetet,
+- a) ha a 195. § (3) bekezdése alapján a fegyelmi határozat azonnal végrehajthatóvá válik, és a 195. § (5) és (6) bekezdése szerinti esetet,
 - b) a (3) bekezdés b) pontja szerinti esetet akkor,
   - ba) ha az érintett munkavégzési helye megszűnése miatt kerül sor a 47. § (2) bekezdés f) pontja alkalmazására,
   - bb) ha a kinevezés egyoldalú módosítása a 47. § (2) bekezdés e) pontján, a 47. § (4) bekezdésén vagy a 142. § (1) bekezdésén alapul, illetve
-  - bc) ha a kinevezési okirat szerinti szervezeti egységet érintő átszervezés miatt kerül sor a 47. § (2) bekezdés f) pont alkalmazására,
-- c) a (3) bekezdés d) pontja alapján megtámadott teljesítményértékelésen alapuló intézkedést, kivéve, ha az intézkedés a (3) bekezdés a) pontja szerinti esettel egyezik meg.
+  - bc) ha a kinevezési okirat szerinti szervezeti egységet érintő átszervezés miatt kerül sor a 47. § (2) bekezdés f) pont alkalmazására.
 
-(6) Ha a teljesítményértékelésen alapuló munkáltatói intézkedés elleni perben hozott jogerős ítélet alapján az állapítható meg, hogy – az (5) bekezdés c) pontja alapján a bíróság jogerős döntése előtt is végrehajtható – teljesítményértékelésen alapuló intézkedésre nem kerülhetett volna sor, az eredeti állapotot – a (7) bekezdésben meghatározott kivétellel – harminc napon belül helyre kell állítani.
+(6) Ha a teljesítményértékelésen alapuló munkáltatói intézkedés elleni perben hozott jogerős ítélet alapján az állapítható meg, hogy a teljesítményértékelésen alapuló intézkedésre nem kerülhetett volna sor, az eredeti állapotot – a (7) bekezdésben meghatározott kivétellel – harminc napon belül helyre kell állítani.
 
 (7) Ha a végrehajtott intézkedés miatt az érintettet jövedelemkiesés is érte, a különbözetet az intézkedés végrehajtásának időpontjától számítva, a Ptk. szerinti kamattal növelt összegben, tizenöt napon belül ki kell fizetni.
 
@@ -3698,9 +3701,9 @@ A Kit.-ben szabályozott Közszolgálati Érdekegyeztető Fórum és a Kjt.-ben 
 
 (6) A munkavállaló
 
-- a) munkaviszonyára a 11. §–12. §-t, a 18. § (6)–(8) bekezdését, a 19. §-t, a 163. §–164. §-t, a 168. §-t és a 218. §-t,
-- b) szabadságára a 111. § (1) és (4)–(5) bekezdését,
-- c) munkabérére és egyéb járandóságára a 154. §–160. §-t
+- a) munkaviszonyára a 11. §-t, a 12. §-t, a 18. § (6)–(8) bekezdését, a 19. §-t, a 163.–164. §-t, a 168. §-t és a 216. §-t,
+- b) szabadságára a 110. § (1) és (4)–(5) bekezdését,
+- c) munkabérére és egyéb járandóságára a 154.–160. §-t
 
 alkalmazni kell.
 
@@ -3938,6 +3941,8 @@ alakul át.
 - c) a foglalkoztatott besorolása szerinti fizetési fokozathoz tartozó sáv felső határa szerinti összeg, ha az alapilletmény megállapítás alapjául szolgáló összeg meghaladja a foglalkoztatott besorolása szerinti fizetési fokozathoz tartozó sáv felső határa szerinti összeget.
 
 (3) A (2) bekezdés c) pontja szerinti esetben a foglalkoztatott részére korrekciós díj kerül megállapításra és folyósításra, amelynek összege az alapilletmény megállapítás alapjául szolgáló összeg és a (2) bekezdés c) pontja alapján megállapított alapilletmény különbözete.
+
+(3a) A korrekciós díj része a 3. § (6) bekezdésében meghatározott illetménynek, valamint a 161. § (2) bekezdése szerinti távolléti díjnak.
 
 (4) A foglalkoztatott részére megállapított korrekciós díj összegét megfelelően csökkenteni kell – az illetmény (1)–(3) bekezdés szerinti megállapítását követően bekövetkező –
 

@@ -55,9 +55,9 @@ az e törvényben, valamint a Nemzeti Adó- és Vámhivatalról szóló törvén
 - 16. eseti bejegyzett kereskedő: az állami adó- és vámhatóság vagy egy másik tagállam illetékes hatósága által kiadott engedély birtokában másik tagállamból adófelfüggesztési eljárás keretében szállított jövedéki terméket egy alkalommal átvenni jogosult személy;
 - 17. e-TKO: az uniós számítógépes rendszerben a jövedéki termék feladója által kiállított, AHK-számmal ellátott elektronikus okmány;
 - 17a. étrend-kiegészítő: az egészségügyért felelős miniszter rendeletében ekként meghatározott és forgalomba hozatalra bejelentett (beleértve az Európai Gazdasági Térség más tagállamában fogalomban lévő termék első bejelentésének a rendelet szerinti belföldi benyújtását is) termék;
-- 18. Európai Unió: az Európai Unióról szóló szerződésben meghatározott tagállamok területe azzal az eltéréssel, hogy
-  - a) nem tekintendők a tagállamhoz tartozónak aa) a Németországi Szövetségi Köztársaság esetében Helgoland szigete és Büsingen területe, az Olasz Köztársaság esetében Livigno, a Spanyol Királyság esetében Ceuta és Melilla területei, valamint ab) a Francia Köztársaság esetében az Európai Unió működéséről szóló szerződés 349. cikkében, valamint 355. cikk (1) bekezdésében említett francia területek, a Spanyol Királyság esetében a Kanári-szigetek, a Nagy-Britannia és Észak-Írország Egyesült Királysága esetében a Csatorna-szigetek, a Finn Köztársaság esetében az Aland-szigetek, a Görög Köztársaság esetében az Athosz-hegy,
-  - b) a Monacói Hercegség a Francia Köztársaság területéhez, Jungholz és Mittelberg (Kleines Walsertal) tartományok a Németországi Szövetségi Köztársaság területéhez, a Man sziget a Nagy-Britannia és Észak-Írország Egyesült Királysága területéhez, a San Marino Köztársaság az Olasz Köztársaság területéhez, a Nagy-Britannia és Észak-Írország Egyesült Királysága ciprusi felségterületei (Akrotiri és Dhekelia) a Ciprusi Köztársaság területéhez tartozónak tekintendő;
+- 18. Európai Unió: az Európai Unióról szóló szerződésben meghatározott tagállamok területe, Észak-Írország, valamint Nagy-Britannia és Észak-Írország Egyesült Királysága ciprusi felségterületei (Akrotiri és Dhekelia), azzal az eltéréssel, hogy
+  - a) nem tekintendők a tagállamhoz tartozónak aa) a Németországi Szövetségi Köztársaság esetében Helgoland szigete és Büsingen területe, az Olasz Köztársaság esetében Livigno, a Spanyol Királyság esetében Ceuta és Melilla területei, valamint ab) a Francia Köztársaság esetében az Európai Unió működéséről szóló szerződés 349. cikkében, valamint 355. cikk (1) bekezdésében említett francia területek, a Spanyol Királyság esetében a Kanári-szigetek, a Finn Köztársaság esetében az Aland-szigetek, a Görög Köztársaság esetében az Athosz-hegy,
+  - b) a Monacói Hercegség a Francia Köztársaság területéhez, Jungholz és Mittelberg (Kleines Walsertal) tartományok a Németországi Szövetségi Köztársaság területéhez, a San Marino Köztársaság az Olasz Köztársaság területéhez, Nagy-Britannia és Észak-Írország Egyesült Királysága ciprusi felségterületei (Akrotiri és Dhekelia) a Ciprusi Köztársaság területéhez tartozónak tekintendő;
 - 19. felhasználói engedélyes: az állami adó- és vámhatóság által kiadott engedély birtokában
   - a) egyéb ellenőrzött ásványolaj felhasználására, kiszerelésére,
   - b) megfigyelt termék előállítására (ideértve a gyártási eljárás során melléktermékként keletkezést), felhasználására, kiszerelésére,
@@ -229,7 +229,7 @@ használnak fel;
   - a) az utolsó három borpiaci év átlagában kevesebb mint évi 1000 hl csendes bort állít elő,
   - b) szőlőt, valamint sűrített szőlőmust és finomított szőlőmustsűrítmény kivételével a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet VII. melléklet II. részében felsorolt terméket másik tagállamból vagy harmadik országból nem szerez be, és
   - c) csendes bort – a bérpalackozásra átadott saját előállítású csendes bor visszaszállítását kivéve – nem szerez be, és csendes boron kívül, valamint a saját előállítású csendes borból évente legfeljebb 50 000 liter palackos erjesztésű habzóbor előállításán, tárolásán kívül, ha utóbbi termékből a kisüzemi bortermelő készlete nem haladja meg a 50 000 litert, más jövedéki terméket nem állít elő, nem tárol és nem hoz forgalomba;
-- 17. kisüzemi sörfőzde: évente legfeljebb 200 ezer hektoliter sört előállító, más sörgyártó üzemtől jogilag és gazdaságilag független, más sörgyártó üzemtől elkülönült telephelyet használó, nem licencia alapján működő adóraktár;
+- 17. kisüzemi sörfőzde: évente legfeljebb 200 ezer hektoliter sört előállító, más sörgyártó üzemtől jogilag és gazdaságilag független, más sörgyártó üzemtől elkülönült telephelyet használó, nem licencia alapján működő adóraktár, továbbá sörgyártó üzemek együttműködése esetén az az évente legfeljebb 200 ezer hektoliter sört előállító sörgyártó üzem, amelynek a vele jogi és gazdasági kapcsolatban lévő másik sörgyártó üzemével összesített éves termelése nem haladja meg a 200 ezer hektoliter sört;
 - 18. köztes alkoholtermék: – a sör, a csendes és habzóbor, valamint az egyéb csendes és habzó erjesztett ital kivételével – a 2204 10 11-2206 00 89 KN-kód szerinti olyan termék, amelynek tényleges alkoholtartalma 1,2 térfogatszázaléknál több, de legfeljebb 22 térfogatszázalék;
 - 18a. lé nélküli alkoholos gyümölcs: csokoládégyártáshoz történő felhasználás céljából előállított, alkoholtermékben áztatott olyan gyümölcs, amelyről az áztatást követően az alkoholterméket lecsepegtetik vagy amelyet szikkasztanak;
 - 19. magánfőzés: a párlatnak a magánfőző, több tulajdonostárs magánfőző esetén valamely tulajdonostárs lakóhelyén vagy gyümölcsöse helyén használható, legfeljebb 100 liter űrtartalmú, párlat-előállítás céljára kialakított desztillálóberendezésen a magánfőző által végzett előállítása;
@@ -394,6 +394,7 @@ terheli.
 - k) a vámmentességek közösségi rendszerének létrehozásáról szóló, 2009. november 16-i 1186/2009/EK tanácsi rendelet 25–27. és 107. cikke alapján harmadik országból jövedéki terméket vámmentesen behozó személy,
 - l) az adóraktár engedélyese az adóraktárban adófelfüggesztési eljárás keretében tárolt, ETBE-előállítás céljára felhasznált jövedéki termékre.
 - m) az adóraktár engedélyese a belföldön előállított és külföldre kiszállított dohányzást helyettesítő nikotintartalmú termékre.
+- n) az adóraktár engedélyese és a jövedéki terméket átvevő adómentességre jogosult az Észak-atlanti Szerződésben részes állam fegyveres erői – kivéve az adóraktár helye szerinti tagállam fegyveres erejét –, polgári állománya és étterme, kantinja részére, valamint a törvényben kihirdetett nemzetközi szerződés alapján a szerződésben részes, az adó alól mentesített állam fegyveres erői – kivéve az adóraktár helye szerinti tagállam fegyveres erejét –, polgári állománya részére átadott jövedéki termékre.
 
 (2) A jövedéki termék teljes megsemmisülését vagy helyrehozhatatlan károsodását az állami adó- és vámhatóság igazolja, ha az (1) bekezdés f)–g) pontja szerinti személy kérésére az általa bemutatott bizonyítékok alapján megállapítható, hogy a teljes megsemmisülés vagy a helyrehozhatatlan károsodás belföldön következett be, vagy ha ez nem állapítható meg, de a teljes megsemmisülést vagy a helyrehozhatatlan károsodást belföldön fedezték fel.
 
@@ -1238,6 +1239,8 @@ szolgálhat.
 - i) energiatermék esetében a jármű üzemanyagtartályában és egy, legfeljebb 10 literes hordozható tartályban lévő mennyiség,
 - j) töltőfolyadék esetében 300 milliliter, és
 - k) az új dohánytermék-kategóriák egyszer használatos termékei esetében 800 darab, folyadéka esetében 300 milliliter.
+- l) füst nélküli dohánytermék esetében 500 gramm,
+- m) dohányzást helyettesítő nikotintartalmú termék esetében 500 gramm.
 
 (5) Nem minősül kereskedelmi célú szállításnak
 
@@ -1978,9 +1981,9 @@ keletkezik.
 
 használ fel.
 
-- d) a Magyar Honvédség az általa üzemeltetett adóraktárból – a Magyar Honvédség kivételével – az Észak-atlanti Szerződésben részes állam fegyveres erejének és polgári állományának, valamint a törvényben kihirdetett nemzetközi szerződés alapján a szerződésben részes, az adó alól mentesített állam fegyveres erejének, polgári állományának járművei részére kiszolgált üzemanyagra.
+- d)
 
-(2) A repülőgép-üzemanyagot az (1) bekezdés a) pontja szerint kiszolgáló adóraktár részének tekintendő
+(2) A repülőgép-üzemanyagot az (1) bekezdés a) pontja, valamint a 9. § (1) bekezdés n) pontja szerint kiszolgáló adóraktár részének tekintendő
 
 - a) a kiszolgálást végző tartályautó,
 - b) – ha az adóraktár engedélyese a Magyar Honvédség vagy a rendőrség – az adóraktár területén kívül található üzemanyagtöltő pont és az azt ellátó tartályautó.
@@ -2502,6 +2505,12 @@ kell kiskereskedelmi eladási árnak tekinteni.
 
 (32) Az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvénnyel megállapított 101/A. §-t és 103. § (1) bekezdés d) pontját az e rendelkezés hatálybalépésekor folyamatban lévő adóigazgatási eljárásban is alkalmazni kell.
 
+(33) Az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 3. § (3) bekezdés 17. pontját a hatálybalépésekor folyamatban lévő adóigazgatási eljárásokban is alkalmazni kell.
+
+(34) Az állami adó- és vámhatóság a 2023. február 13-át megelőzően kiadott adóraktári engedélyt, jövedéki engedélyt, bejegyzett kereskedői engedélyt és bejegyzett feladói engedélyt 2023. február 13-i hatállyal kiegészíti a szabadforgalomba bocsátott, kereskedelmi céllal másik tagállamba feladott, illetve másik tagállamból átvett jövedéki termékek szállításának lehetőségével, továbbá a 2023. február 13-át megelőzően nyilvántartásba vett kisüzemi bortermelő nyilvántartásba vételében szereplő adatokat 2023. február 13-i hatállyal kiegészíti a szabadforgalomba bocsátott, kereskedelmi céllal másik tagállamba feladott jövedéki termékek szállításának lehetőségével.
+
+(35) 2023. február 13-át megelőzően másik tagállamból adózottan feladott jövedéki termék átvételére a feladáskor hatályos szabályokat kell alkalmazni a jövedéki termék átvételéig, de legkésőbb 2023. december 31-ig.
+
 151. § A 2021. január 1-jét megelőzően előállított magánfőzött párlatra az előállításkor hatályos szabályokat kell alkalmazni.
 
 #### 102. Az Európai Unió jogának való megfelelés
@@ -2510,12 +2519,13 @@ kell kiskereskedelmi eladási árnak tekinteni.
 
 - a) a jövedéki adóra vonatkozó általános rendelkezésekről és a 92/12/EGK irányelv hatályon kívül helyezéséről szóló, 2008. december 16-i 2008/118/EK tanácsi irányelv,
 - b) az energiatermékek és a villamos energia közösségi adóztatási keretének átszervezéséről szóló, 2003. október 27-i 2003/96/EK tanácsi irányelv,
-- c) az alkohol és az alkoholtartalmú italok jövedéki adója szerkezetének összehangolásáról szóló, 1992. október 19-i 92/83/EGK tanácsi irányelv,
+- c) az alkohol és az alkoholtartalmú italok jövedéki adója szerkezetének összehangolásáról szóló 92/83/EGK irányelv módosításáról szóló, 2020. július 29-i (EU) 2020/1151 tanácsi irányelvvel módosított, az alkohol és az alkoholtartalmú italok jövedéki adója szerkezetének összehangolásáról szóló, 1992. október 19-i 92/83/EGK tanácsi irányelv,
 - d) az alkohol és az alkoholtartalmú italok jövedékiadó-mértékének közelítéséről szóló, 1992. október 19-i 92/84/EGK tanácsi irányelv,
 - e) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv,
 - f) a gázolaj és a kerozin adóügyi jelölőanyagáról szóló, 1995. november 27-i 95/60/EK tanácsi irányelv,
 - g) a dohánygyártmányokra alkalmazott jövedéki adó szerkezetéről és adókulcsáról szóló, 2011. június 21-i 2011/64/EU tanácsi irányelv,
 - h) a 2008/118/EK tanácsi irányelv ellenőrzési és szállítási rendelkezéseinek a 2003/96/EK tanácsi irányelv 20. cikkének (2) bekezdésével összhangban egyes adalékokra történő alkalmazásáról szóló, 2012. április 20-i 2012/209/EU bizottsági végrehajtási határozat.
+- i) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek és a jövedéki adóra vonatkozó általános rendelkezésekről szóló 2008/118/EK irányelvnek az uniós keretben végzett védelmi feladatok tekintetében történő módosításáról szóló, 2019. december 16-i (EU) 2019/2235 tanácsi irányelv.
 
 153. § (1) A törvény tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 2015/1535 európai parlamenti és tanácsi irányelv szerinti előzetes bejelentése megtörtént.
 
