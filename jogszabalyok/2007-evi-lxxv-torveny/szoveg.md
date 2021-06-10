@@ -154,7 +154,7 @@ A piacgazdaság működéséhez szükséges, hogy a gazdálkodók a vagyoni, pé
 
 7. § (1) Az egyes kamarai hatósági eljárásokban első fokon az e törvényben kijelölt testület jár el.
 
-(2) A kamarai hatósági eljárás során a kapcsolattartás kizárólag az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott elektronikus úton, űrlapbenyújtás támogatási szolgáltatás igénybevételével történhet.
+(2) A kamarai hatósági eljárásokban az ügyfelek elektronikus ügyintézésre kötelezettek.
 
 (3)–(4)
 
@@ -1152,7 +1152,7 @@ ha annak hatására a kamarai tag könyvvizsgáló, a könyvvizsgáló cég nem 
 (2) Kérelem alapján fel kell venni az okleveles könyvvizsgálói képzési programba azt, aki megfelel az alábbi feltételeknek:
 
 - a) a felsőoktatásról szóló törvény szerint Magyarországon államilag elismert felsőoktatási intézményben szerzett oklevéllel rendelkezik,
-- b) mérlegképes könyvelői vagy azzal egyenértékű szakképesítéssel rendelkezik és szakképesítését oklevéllel, bizonyítvánnyal igazolja,
+- b) mérlegképes könyvelői szakképesítéssel vagy Association of Chartered Certified Accountants (ACCA) végzettséggel rendelkezik és szakképesítését, végzettségét oklevéllel, bizonyítvánnyal igazolja,
 - c)
 - d) nem áll fenn vele szemben a 9/H. § a) pontjában meghatározott kizáró ok,
 - e) az előírt igazgatási szolgáltatási díjat megfizette.
@@ -1237,7 +1237,7 @@ szerezte.
 
 - a) rendelkezik okleveles könyvvizsgálói szakképesítéssel,
 - b) nem esik a 9/H. §-ban meghatározott kizáró ok alá,
-- c) vállalja, hogy Magyarország területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végző kamarai tag könyvvizsgálóval vagy könyvvizsgáló céggel a képzési programnak megfelelő – a kamara mentori szabályzata szerinti – munkaviszonyt, munkaviszony jellegű jogviszonyt létesít,
+- c) vállalja, hogy Magyarország területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végző kamarai tag könyvvizsgálóval vagy könyvvizsgáló céggel vagy a kapcsolódó szabályozási és felügyeleti feladatokat ellátó intézménnyel a képzési programnak megfelelő – a kamara mentori szabályzata szerinti – munkaviszonyt, munkaviszony jellegű jogviszonyt létesít,
 - d) magára nézve kötelezőnek ismeri el a kamara vonatkozó szabályzatának rendelkezéseit,
 - e) az előírt igazgatási szolgáltatási díjat megfizette.
 
@@ -1367,6 +1367,8 @@ szerezte.
 - e) a kamara szakmai tagozatainak létesítésére, működésére vonatkozó szabályokat,
 - f) a kamara gazdálkodására vonatkozó szabályokat.
 
+(3) A kamara az alapszabályában lehetővé teheti, hogy az e törvény szerinti választások lebonyolítása elektronikus úton, elektronikus választási rendszer használatával történjen, amelynek részletes szabályait a választási szabályzatban kell megállapítani.
+
 ### Küldöttgyűlés
 
 110. § (1) A kamara legfőbb döntéshozó szerve a küldöttgyűlés.
@@ -1427,6 +1429,8 @@ szerezte.
 (4) A küldöttgyűlés határozatképtelensége esetén a legalább 3 nappal későbbi, legfeljebb 60 napon belüli időpontra, azonos napirenddel összehívott küldöttgyűlés a megjelentek számától függetlenül határozatképes.
 
 (5) Az elnökség tagjai, a fegyelmi megbízott, a főtitkár, a 108. § (1) bekezdésének d)–k) pontjában meghatározott bizottságok és testületek elnökei – ha nem küldöttek – a küldöttgyűlésen tanácskozási joggal részt vehetnek.
+
+(6) A kamara alapszabálya lehetővé teheti, hogy a küldöttgyűlésen a tagok nem személyes jelenléttel, hanem elektronikus hírközlő eszköz közvetítésével vegyenek részt. Ez esetben az ülés megtartásának részletes szabályait az alapszabályban kell megállapítani.
 
 ### Elnökség
 

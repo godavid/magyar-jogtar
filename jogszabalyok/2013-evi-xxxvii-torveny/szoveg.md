@@ -8,13 +8,13 @@ az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együt
 
 1. § E törvényt az adó megállapítása, az adó- és egyéb közterhek behajtása, továbbá a kettős adóztatás elkerülése érdekében folytatott, az Európai Unió tagállamai közötti, valamint egyéb nemzetközi közigazgatási együttműködés egyes kérdéseire kell alkalmazni.
 
-2. § (1) Az e törvényben nem szabályozott eljárásjogi kérdésekben az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény (a továbbiakban: Air.) és az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) rendelkezéseit kell alkalmazni.
+2. § (1) Az e törvényben nem szabályozott eljárásjogi kérdésekben az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény (a továbbiakban: Air.) és az adózás rendjéről szóló 2017. évi CL. törvény (a továbbiakban: Art.) rendelkezéseit kell alkalmazni, azzal, hogy adózónak minősül az a személy is, akire nézve e törvény kötelezettséget állapít meg.
 
 (2) E törvény rendelkezéseitől eltérni az Európai Unió kötelező jogi aktusa és nemzetközi szerződés alapján lehet.
 
 3. § Ha az állami adóhatóság uniós jogi aktus rendelkezése – ideértve az uniós jogi aktust átültető magyar jogszabályt is – alapján az Európai Bizottság vagy az Európai Unió más intézménye, ügynöksége részére személyes adatot nem tartalmazó, statisztikai célú, illetve az uniós jogi aktus alkalmazásának eredményeit összegző adatszolgáltatást, információ-átadást teljesít, azt egyidejűleg az adópolitikáért felelős miniszter részére is megküldi.
 
-3/A. § Az állami adó- és vámhatóság az Európai Unió tagállamából, az e törvényben szabályozott közigazgatási együttműködés keretében beérkezett megkeresés teljesítése, valamint a Jelentő Magyar Pénzügyi Intézménynek a 43/B. §-ban, a 43/H. §-ban és az 1. melléklet II–VII. fejezetében meghatározott átvilágítási és adatszolgáltatási kötelezettsége teljesítésének ellenőrzése céljából jogosult a tényleges tulajdonosi információk központi nyilvántartásából adatot igényelni, valamint a tényleges tulajdonosra vonatkozó adatokhoz és dokumentumokhoz hozzáférni.
+3/A. § Az állami adó- és vámhatóság az e törvényben szabályozott közigazgatási együttműködés teljesítése, valamint a Jelentő Magyar Pénzügyi Intézménynek a 43/B. §-ban, a 43/H. §-ban és az 1. melléklet II–VII. Fejezetében meghatározott átvilágítási és adatszolgáltatási kötelezettsége teljesítésének ellenőrzése céljából jogosult a tényleges tulajdonosi információk központi nyilvántartásából adatot igényelni, valamint a tényleges tulajdonosra vonatkozó adatokhoz és dokumentumokhoz hozzáférni.
 
 #### 2. Értelmező rendelkezések
 
@@ -580,16 +580,17 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 32. § (1) A magyar megkeresett hatóság (állami adó- és vámhatóság) a megkereső hatóság kérelmére biztosítási intézkedést foganatosít, ha
 
 - a) a megkeresés beérkezésének időpontjában az adós vitatja a követelést, vagy
-- b) a végrehajtást engedélyező eredeti okiratot vagy a végrehajtást engedélyező egységes okiratot a megkereső hatóság még nem állította ki, vagy
-- c) a biztosítási intézkedés elrendelése Air. szerinti feltételeinek egyike fennáll,
+- b) a végrehajtást engedélyező eredeti okiratot vagy a végrehajtást engedélyező egységes okiratot a megkereső hatóság még nem állította ki,
 
-és valószínűsíthető, hogy a követelés későbbi kielégítése veszélyben van.
+és alapos indokkal valószínűsíthető, hogy a követelés későbbi kielégítése veszélyben van.
 
-(2) A biztosítási intézkedés iránti megkereséshez mellékelni kell a biztosítási intézkedés engedélyezése céljából kiállított, a behajtás iránti megkereséssel érvényesített követelésre vonatkozó okiratot, amely végrehajtható okiratnak minősül. Ha ilyen okirat nem áll rendelkezésre, a biztosítási intézkedést a magyar megkeresett hatóság (állami adó- és vámhatóság) végzésben rendeli el.
+(2) A biztosítási intézkedés iránti megkereséshez mellékelni kell a megkereső tagállamában végrehajtandó biztosítási intézkedés engedélyezése céljából kiállított, a megkeresés tárgyát képező követelésre vonatkozó okiratot. Ha ilyen okirat nem áll rendelkezésre, a biztosítási intézkedést a magyar megkeresett hatóság (állami adó- és vámhatóság) végzésben rendeli el.
 
-(3) A biztosítási intézkedés iránti megkereséshez a megkereső hatóság a (2) bekezdésben meghatározott okiraton kívül más, a megkereső tagállamban a behajtás iránti megkereséssel érvényesített követeléssel kapcsolatos okiratot is mellékelhet.
+(3) A biztosítási intézkedés iránti megkereséshez a megkereső hatóság a (2) bekezdésben meghatározott okiraton kívül más, a megkereső tagállamban a biztosítási intézkedés iránti megkereséssel érvényesített követeléssel kapcsolatos okiratot is mellékelhet.
 
-(4) A 27. § (1)–(2), (4) bekezdésében, a 28. § (1) bekezdésében, a 29. §-ban és a 30. § (1)–(4) bekezdésében foglaltakat a biztosítási intézkedés iránti megkeresés teljesítése során megfelelően alkalmazni kell.
+(4) A 27. § (1)–(2), (4) bekezdésében, a 28. § (1) bekezdésében, a 29. §-ban és a 30. §-ában foglaltakat a biztosítási intézkedés iránti megkeresés teljesítése során alkalmazni kell.
+
+(5) A magyar megkeresett hatóság (állami adó- és vámhatóság) biztosítási intézkedést foganatosíthat akkor is, ha az eljárás felfüggesztésére a 29. § (3) bekezdése alapján kerül sor, és valószínűsíthető, hogy a követelés későbbi kielégítése veszélyben van.
 
 #### 12. A behajtási jogsegély teljesítésének közös szabályai
 
@@ -599,7 +600,7 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 - b) a (3) és (4) bekezdésben foglalt esetekben a követelés esedékességének a megkeresés tagállambeli időpontjától számított több mint tíz naptári év eltelt, vagy
 - c) a követelés behajtása – az adós személy helyzete miatt – Magyarországon komoly gazdasági nehézséget okozna, feltéve, hogy a magyar jogszabályok szerint hasonló követelésre ez a behajtást kizáró ok külön jogszabály alapján alkalmazható lenne.
 
-(2) Ha a megkereséssel érvényesített követelés összege az 1500 eurónak megfelelő pénzösszegnél kisebb, a magyar megkeresett hatóság a 27–32. § szerinti megkeresést elutasítja.
+(2) Ha a megkereséssel érvényesített követelés összege az 1500 eurónak megfelelő pénzösszegnél kisebb, a magyar megkeresett hatóság a 27–32. § szerinti megkeresést elutasíthatja.
 
 (3) Ha a kötelezett személy vagy más érdekelt személy a követeléssel vagy a végrehajtást engedélyező eredeti okirattal kapcsolatban jogorvoslati kérelmet nyújtott be, az (1) bekezdés a) pontja szerinti határidő kezdőnapja az a nap, amelyen a megkereső tagállam hatáskörrel rendelkező hatósága (bírósága) megállapítja, hogy a követeléssel vagy a végrehajtást engedélyező eredeti okirattal kapcsolatban további jogorvoslatnak nincs helye.
 
@@ -853,7 +854,8 @@ számított 6 hónapon belül határozattal dönthet a vitás kérdés egyoldal�
 (2) A tanácsadó bizottság általi vitarendezés iránti kérelmet nem lehet előterjeszteni, ha
 
 - a) a panasz visszautasítása tárgyában az érintett tagállamok bármelyikének hatósága vagy bírósága előtt eljárás folyamatban van, vagy
-- b) amennyiben az a) pontban említett jogorvoslati eljárás során bíróság helybenhagyta a visszautasító határozatot.
+- b) a panasz visszautasítása tárgyában az érintett tagállamok bármelyikének hatósága vagy bírósága előtti jogorvoslati eljárás megindítására nyitva álló határidő még nem telt le vagy
+- c) az a) pont szerinti jogorvoslati eljárás során bíróság helybenhagyta a visszautasító határozatot.
 
 (3) Amennyiben az érintett személy a panasz visszautasítása tárgyában élt a jogorvoslathoz való jogával, az illetékes bíróság határozatát kell figyelembe venni az (1) bekezdés a) pontja alkalmazásában.
 
@@ -979,7 +981,7 @@ számított 6 hónapon belül határozattal dönthet a vitás kérdés egyoldal�
 (2) A tanácsadó bizottság működési szabályzatának ki kell terjednie különösen
 
 - a) a vitás kérdés ismertetésére,
-- b) az érintett tagállamok illetékes hatóságai által közösen megállapított tényállásra és a vitatott jogi kérdésre,
+- b) az érintett tagállamok illetékes hatóságai által megoldandó jogi és ténybeli kérdések tekintetében közösen megállapított követendő szempontokra,
 - c) az érintett tagállamok illetékes hatóságainak döntésére, hogy a vitás kérdésben tanácsadó bizottság vagy alternatív vitarendezési bizottság jár el,
 - d) az alternatív vitarendezési bizottságra vonatkozó eltérő szabályokra,
 - e) a tanácsadó bizottság eljárására vonatkozó határidőkre,
@@ -1017,7 +1019,7 @@ számított 6 hónapon belül határozattal dönthet a vitás kérdés egyoldal�
 
 (2) A tanácsadó bizottság dönthet arról, hogy az (1) bekezdés b) pontjában szabályozott határidőt további 3 hónappal meghosszabbítja, ha a vitás kérdés rendezéséről szóló vélemény megalkotásához az eredeti határidő nem elegendő.
 
-(3) A tanácsadó bizottság a (2) bekezdésben hozott döntéséről köteles értesíteni az érintett tagállamok illetékes hatóságait és az érintett személyeket.
+(3) A tanácsadó bizottság az (1)–(2) bekezdésben hozott döntéséről értesíti az érintett tagállamok illetékes hatóságait és az érintett személyeket.
 
 (4) Az érintett személyek és a magyar illetékes hatóság kötelesek bármely információt, bizonyítékot vagy dokumentumot (a továbbiakban e § alkalmazásában együtt: információ) a tanácsadó bizottság felhívására rendelkezésre bocsátani.
 

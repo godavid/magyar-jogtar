@@ -1010,6 +1010,7 @@ származó ellenérték (bevétel);
   - j) a honvédelmi alkalmazottak szolgálati jogviszonyáról szóló törvény szerinti jogviszony,
   - k) jogszabály által mentelmi jogot biztosító jogállás
   - l) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszony
+  - m) az egészségügyi szolgálati jogviszonyról szóló törvény szerinti egészségügyi szolgálati jogviszony
 
 keretében végzett kötelezettség;
 
