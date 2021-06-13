@@ -341,6 +341,8 @@ lajstromban tartja nyilván.
 
 26. § (1) Úszólétesítményt csak hajózási képesítésekről szóló miniszteri rendeletben meghatározott képesítéssel rendelkező, egészségileg és a biztonságos munkavégzésre is alkalmas állapotban lévő személyzet működtethet.
 
+(1a) Az úszólétesítményen fedélzeti és gépüzemi szolgálatot ellátó személyek, a hajózási üzemeltetési vezetők, valamint a kedvtelési céllal közlekedő úszólétesítmény vezetőjének képesítő okmányait a vizsgaközpont állítja ki.
+
 (2) Úszólétesítményen képesítéshez kötött szolgálat csak a hajózási hatóság vagy a vizsgaközpont által kiadott, illetve honosított, továbbá nemzetközi szerződés alapján elismert képesítő okmány birtokában látható el.
 
 (3) A képesítő okmányban megnevezett tevékenység akkor végezhető, ha az okmány tulajdonosa büntetlen előéletű, vagy ha a hajózási képesítéshez kötött foglalkozástól vagy járművezetéstől eltiltás hatálya alatt nem áll.
@@ -360,6 +362,23 @@ lajstromban tartja nyilván.
 - f) a nyilvántartásba vétel száma, időpontja.
 
 (6) Az (5) bekezdés szerinti nyilvántartás c)–f) pontjában szereplő adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
+
+(7) A hajózási hatóság statisztikai célra az Európai Bizottság számára évente személyazonosításra alkalmatlan módon elektronikus úton átadja a tárgyévet megelőző év december 31-éig nyilvántartásába vett tengerész képesítő okmányokkal kapcsolatban kezelt alábbi adatköröket:
+
+- a) a tengerész születési dátuma,
+- b) a tengerész állampolgársága,
+- c) a tengerész neme,
+- d) a képesítő okmány bejegyzett száma,
+- e) a képesítő okmány kiadását igazoló érvényesítési száma,
+- f) szolgálati minőség,
+- g) a kiállítás dátuma vagy az újraérvényesítés legutóbbi dátuma,
+- h) a lejárat dátuma,
+- i) a képesítő okmányok státusa,
+- j) korlátozások,
+- k) elismert képesítések esetén
+  - ka) az eredeti képesítő okmányt kiadó ország megnevezése,
+  - kb) az eredeti képesítő okmány száma,
+  - kc) az elismerést igazoló érvényesítés száma.
 
 26/A. § (1)–(2)
 
@@ -1364,6 +1383,7 @@ rendeletben történő megállapítására.
 - l) a Bizottság (2013. október 11.) a belvízi hajókra vonatkozó műszaki követelmények megállapításáról szóló 2006/87/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló 2013/49/EU irányelve,
 - m) a tengerészeti felszerelésekről és a 96/98/EK tanácsi irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 2014/90/EU európai parlamenti és tanácsi irányelv,
 - n) az Európai Hajózási Szövetség (EBU), az Európai Hajósok Szervezete (ESO) és az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) által kötött, a munkaidő-szervezés egyes szempontjainak a belvízi hajózási ágazaton belüli szabályozásáról szóló európai megállapodás végrehajtásáról szóló, 2014. december 19-i 2014/112/EU tanácsi irányelv, az egyes foglalkoztatáspolitikai és egészségügyi tárgyú jogszabályokkal együtt.
+- o) a tengerészek képzésének minimumszintjéről szóló 2008/106/EK irányelv módosításáról és a tagállamok által kiállított tengerészképesítési bizonyítványok kölcsönös elismeréséről szóló 2005/45/EK irányelv hatályon kívül helyezéséről szóló 2019. június 20-i (EU) 2019/1159 európai parlamenti és tanácsi irányelv.
 
 91. § Ez a törvény
 

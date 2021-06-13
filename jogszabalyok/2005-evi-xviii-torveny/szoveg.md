@@ -273,13 +273,13 @@ az éves beszámolója vagy az egyszerűsített éves beszámolója (a továbbia
 
 (3) A Hivatal nem tagadhatja meg a jegyzett tőke leszállításához való hozzájárulást, ha azt az engedélyes számára jogszabály kötelezővé teszi.
 
-(4) Bármely engedélyes vállalkozásban a szavazatok huszonöt, ötven vagy hetvenöt százalékát meghaladó, valamint száz százalékát elérő közvetlenül birtokolt szavazati jogot biztosító részvény, üzletrész vagy közvetlen szavazati jog szerzéséhez (a továbbiakban együtt: befolyásszerzés) és az ehhez fűződő jogok gyakorlásához a befolyásszerzőnek a Hivatal előzetes hozzájárulását kell kérnie.
+(4) Az engedélyes vállalkozásban a szavazatok öt, húsz, huszonöt, harminchárom, ötven, hetvenöt vagy kilencven százalékát elérő vagy meghaladó, valamint száz százalékát elérő közvetlenül birtokolt, szavazati jogot biztosító részvény, üzletrész vagy közvetlen szavazati jog szerzéséhez (a továbbiakban együtt: befolyásszerzés) és az ehhez fűződő jogok gyakorlásához a befolyásszerzőnek a Hivatal előzetes hozzájárulását kell kérnie.
 
 (5) Nem kell a Hivatal előzetes hozzájárulása a (4) bekezdésben foglaltak szerint jóváhagyott mértékek elérését követően mindaddig, amíg az újabb befolyásszerzéssel a befolyásszerző el nem éri a Hivatal előzetes hozzájárulásához kötött (4) bekezdés szerinti következő mértéket.
 
 (6) A (3) bekezdésben meghatározott kivétellel a Hivatal az (1) és (4) bekezdésben meghatározott ügyletekhez történő hozzájárulását megtagadhatja vagy feltételhez kötheti, ha azok végrehajtása a távhőellátás biztonságát, az e törvényben meghatározott ellátási kötelezettség teljesítését, a felhasználók érdekeit sérti, vagy a legkisebb költség elvének érvényesülését veszélyezteti.
 
-(7) A (4) bekezdésben meghatározott hozzájáruló határozat hiányában a befolyásszerző a részesedései tekintetében a társasággal szemben – az osztalékra való jogosultságot kivéve – jogot nem gyakorolhat, továbbá a részvénykönyvbe nem jegyezhető be vagy a tagjegyzékben nem tüntethető fel. A részvénykönyvbe, tagjegyzékbe, valamint a cégjegyzékbe történő bejegyzésre irányuló kérelem benyújtási határideje a Hivatal előzetes hozzájáruló döntésének közlését követő napon kezdődik.
+(7) A (4) bekezdésben meghatározott előzetes hozzájáruló határozat hiányában a befolyásszerző a részesedései tekintetében a társasággal szemben – az osztalékra való jogosultságot kivéve – jogot nem gyakorolhat, továbbá a részvénykönyvbe nem jegyezhető be vagy a tagjegyzékben nem tüntethető fel. A részvénykönyvbe, tagjegyzékbe, valamint a cégjegyzékbe való bejegyzésre irányuló kérelmet a Hivatal hozzájáruló határozatával együtt kell benyújtani. A részvénykönyvbe, tagjegyzékbe, valamint a cégjegyzékbe történő bejegyzésre irányuló kérelem benyújtási határideje a Hivatal előzetes hozzájáruló döntésének közlését követő napon kezdődik.
 
 (8) Cégjogi esemény esetén az érintett engedélyes, továbbá befolyásszerzés esetén a befolyásszerző a cégjogi eseményt, valamint a befolyásszerzést bejegyző cégbírósági végzés jogerőre emelkedésétől, vagy – ha a cégjogi esemény később hatályosul – a hatályosulástól számított 8 napon belül kezdeményezi a Hivatalnál az előzetes hozzájáruló határozatban foglaltaknak való megfelelés ellenőrzését.
 
@@ -295,9 +295,19 @@ a távhőellátás fenntartása
 
 - a) törvényben, kormányrendeletben, e törvény végrehajtására kiadott rendeletben, általános hatályú közvetlenül alkalmazandó uniós jogi aktusban vagy a működési engedélyben előírt kötelezettségeinek nem tesz eleget;
 - b) a távhőtermelői vagy a szolgáltatói berendezést a távhőszolgáltatás biztonságát, az élet-, az egészség- és a vagyonbiztonságot, a környezetet, továbbá a felhasználói érdekeket súlyosan veszélyeztető módon üzemelteti, és a működési engedélyben előírt kötelezettségeinek nem tesz eleget;
-- c) a Get. szerinti végső menedékes ellátást biztosító földgázkereskedő kijelölésének kezdőnapjától számított 30. napig nem gondoskodik a távhőtermeléshez szükséges földgáz tüzelőanyag önálló beszerzéséről.
+- c)
 
-(1a) A távhőtermelő három éven belül legfeljebb egyszer veheti igénybe a Get. szerinti végső menedékes eljárásban kijelölt földgázkereskedő szolgáltatását.
+(1a) A távhőtermelő földgázellátása megszűnésének esetében – tekintettel a 18. §-ban foglalt kötelezettségeire – nem vehet részt a Get. szerinti végső menedékes eljárásban, de földgázkereskedője földgázellátása megszűnésének napjától kezdődően 7 napig jogosult földgázt vételezni a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény (a továbbiakban: Fbkt.) 4/A. § (1) bekezdése szerint a Magyar Szénhidrogén Készletező Szövetség (a továbbiakban: MSZKSZ) által kezelt készletből, a földgáz biztonsági készlet mértékéről szóló miniszteri rendelet szerinti mobil földgázkészletből legfeljebb 1 272 000 MWh mennyiségig, a vételezéskor alkalmazandó hatósági földgázáron. Ha a távhőtermelő az így rendelkezésére álló 7 napon belül nem biztosítja a távhőtermeléshez szükséges földgáz tüzelőanyag önálló vagy földgázkereskedőn keresztüli beszerzését, a Hivatal a távhőtermelői működési engedélyét visszavonja. Ha a földgázellátását biztosítani nem tudó távhőtermelő egyben az adott település távhőszolgáltatói működési engedélyese is, akkor a Hivatal mind a távhőtermelői, mind a távhőszolgáltatói működési engedélyét visszavonja.
+
+(1b) Ha a Hivatal az (1a) bekezdés alapján vonja vissza a távhőtermelői működési engedélyt, a kijelölt engedélyes jogosult földgázt vételezni az Fbkt. 4/A. § (1) bekezdése szerint a Hivatal kijelölésre vonatkozó döntése közlésének napjától kezdődő 7 napon keresztül, a vételezéskor alkalmazandó (1f) bekezdés szerinti hatósági földgázáron.
+
+(1c) Ha a Hivatal az (1a) bekezdés alapján vonja vissza a távhőtermelői működési engedélyt, a kijelölt engedélyes a Hivatal döntésekor hatályos, az engedély visszavonással érintett távhőtermelőre nézve megállapított hatósági távhőtermelői ár alkalmazására köteles, amíg a miniszter – figyelemmel az 57/D. § (3) bekezdésében foglaltakra – más árat nem állapít meg. Ha az (1a) bekezdés alkalmazása folytán a Hivatal a távhőszolgáltatói működési engedélyt is visszavonja, a kijelölt engedélyes a Hivatal döntésekor hatályos, az engedély visszavonással érintett távhőszolgáltatóra nézve meghirdetett távhőszolgáltatási támogatásra jogosult, amíg a miniszter – figyelemmel az 57/D. § (3) bekezdésében foglaltakra – más támogatást nem állapít meg.
+
+(1d) A Hivatal az 57/D. § szerinti javaslatának elkészítése során az (1a) és (1b) bekezdésben foglalt esetekben az MSZKSZ által az Fbkt. rendelkezései alapján biztosított földgáz hatósági áron számított ellenértékét indokolt költségként ismeri el. Ha az engedély visszavonásával érintett távhőtermelő az Fbkt. rendelkezései alapján igénybe vett földgáz ellenértékét nem fizeti meg, ezt a költséget a Hivatal a kijelölt engedélyesnél veszi figyelembe, amely ezzel elszámolni köteles az MSZKSZ-nél.
+
+(1e) Az MSZKSZ köteles a földgázforrás igénybevételét követő első betárolási időszak végéig az (1a) és (1b) bekezdés szerint felhasznált földgázforrást visszapótolni.
+
+(1f) Az e § alapján alkalmazandó hatósági földgázár a földgáz végső menedékes szolgáltatásról és a földgázkereskedő működésének lehetetlenülése esetén a felhasználók földgázellátását veszélyeztető helyzet fennállása következtében alkalmazandó eljárásról szóló kormányrendeletben meghatározott, az egyetemes szolgáltatásra nem jogosult felhasználók ellátása esetére vonatkozó ár.
 
 (2) Az engedély visszavonásával egyidejűleg új engedélyt kell kiadni vagy új engedélyest kell kijelölni.
 
@@ -796,7 +806,7 @@ megállapodásokat.
 - i) a távhőszolgáltatás árképzése átláthatóságának biztosítása érdekében, a távhőszolgáltatók által közérdekből közzéteendő adatok – különösen a távhőszolgáltatással kapcsolatos árszabályozás, költségek, bevételek, kiadások, beruházások, valamint az ezzel összefüggő műszaki információk – körét és a közzététel módját;
 - j)
 - k) a műszaki biztonsági szerv vagy szervek kijelölését,
-- l) a központi fűtés és melegvíz-szolgáltatás feltételeire, a jogviszonyban lévők jogaira, kötelezettségeire, a szolgáltatás díjának megállapítására vonatkozó szabályokat,
+- l)
 - m) a fűtési célra és a használati melegvíz készítéséhez felhasznált hőmennyiség és díjának épületrészek közötti megosztására szolgáló szétosztási arányok meghatározására, valamint a hőmennyiségmérők és a költségmegosztók alkalmazására vonatkozó szabályokat;
 - n) a folyamatos távhőellátás fenntartása érdekében történő kijelölési eljárásra, a kijelöléssel érintettek jogaira és kötelezettségeire, a kijelölés következtében fizetendő ellenszolgáltatásra és az előírások megsértése esetén alkalmazható jogkövetkezményekre vonatkozó szabályokat (20. §);
 - o) a közszolgáltatási szerződés felmondása alóli mentesítésre jogosult közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit;

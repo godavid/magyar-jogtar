@@ -45,6 +45,8 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósít�
 
 (5) Közlekedési infrastruktúra-beruházás megvalósítása során az építtető kérelmére a hatóság köteles lefolytatni azt az Étv. szerinti, valamint a környezet védelmének általános szabályairól szóló törvény szerinti előzetes vizsgálati eljárást és környezeti hatásvizsgálati engedélyezési, valamint a már kiadott engedély módosítására irányuló eljárást is, ha az adott tevékenységre vonatkozóan jogszabály már nem ír elő engedélyt. Ilyen esetben az engedélyezésre vonatkozó korábbi – a hatályvesztésüket megelőző napon hatályos – jogszabályi rendelkezéseket kell alkalmazni.
 
+(6) Az e törvény szerinti eljárásokban ügygondnokot vagy eseti gondnokot kell kirendelni abban az esetben is, ha a tulajdonos vagy más kártalanításra jogosult személye nem állapítható meg egyértelműen. Az ügygondnokot az eljáró hatóság, az eseti gondnokot a hatóság megkeresésére a gyámhatóság rendeli ki. A gyámhatósági eljárás ügyintézési ideje 15 nap.
+
 ### A kiemelt jelentőségű ügy koordinációja
 
 2/A. § (1) A Kormány a kiemelt jelentőségű ügyben rendeletével jelölheti ki a koordinációs feladatokat ellátó kormánymegbízottat.
@@ -281,7 +283,7 @@ az ingatlanügyi hatóság, illetve az erdészeti hatóság a közlekedési infr
 
 (10) A (9) bekezdés szerinti kártalanítást adásvételi szerződés vagy kisajátítási eljárás hiányában a tulajdonos kérelmére a fővárosi vagy a megyei kormányhivatal állapítja meg. A kártalanítás megállapítására vonatkozó eljárásra a kisajátítási eljárás szabályait kell alkalmazni. Amennyiben az ingatlan megvásárlására, kisajátítására az egyszeri kártalanítás megállapítását és kifizetését követően sor kerül, úgy a vételár, kártalanítási összeg meghatározása során az ingatlan – a (4) bekezdés szerinti használati korlátozás figyelmen kívül hagyásával megállapított – forgalmi értékéből az egyszeri kártalanítás összegét le kell vonni.
 
-6/M. § (1) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások kapcsán az építtető az előkészítés fázisában köteles az egységes elektronikus közműnyilvántartás adatszolgáltatását igénybe venni, a kiváltásra vagy kiépítésre kerülő közművek terveit elkészíttetni.
+6/M. § (1) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások kapcsán az építtető az előkészítés fázisában köteles az egységes elektronikus közműnyilvántartás adatszolgáltatását igénybe venni, a kiváltásra vagy kiépítésre kerülő közművek terveit a közműszolgáltatóval elkészíttetni.
 
 (2) Ha az építtető, a beruházó, vagy a tervező az egységes elektronikus közműnyilvántartás adatszolgáltatás igénybe vételét követően a felmerülő kérdések tisztázása érdekében a közmű tulajdonosához vagy üzemeltetőjéhez (a továbbiakban: közműszolgáltató) fordul, a közműszolgáltató 15 napon belül köteles a nyilatkozatát kiadni.
 
@@ -291,7 +293,7 @@ az ingatlanügyi hatóság, illetve az erdészeti hatóság a közlekedési infr
 
 (2) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások kapcsán kiváltásra vagy kiépítésre kerülő közművek elhelyezése érdekében az elhelyezéssel érintett ingatlanra közérdekből, az építtető vagy a közműszolgáltató javára – hatóság határozatával – szolgalmat vagy más használati jogot lehet alapítani. A használati jog alapításáért a korlátozás mértékének megfelelő kártalanítás jár.
 
-6/O. § (1) Kerékpárút, gyalog- és kerékpárút, gyalogút, járda, valamint kerékpárforgalmi létesítmények tartozékainak (a továbbiakban együttesen: kerékpárút) építése során közmű kiváltására, fejlesztésére (a továbbiakban: közmű kiváltása) vonatkozó szabályokat az alábbi eltérésekkel kell alkalmazni.
+6/O. § (1) Kerékpárút, gyalog- és kerékpárút, gyalogút, járda, valamint kerékpárforgalmi létesítmények és tartozékainak (a továbbiakban együttesen: kerékpárút) építése során közmű kiváltására, fejlesztésére (a továbbiakban: közmű kiváltása) vonatkozó szabályokat az alábbi eltérésekkel kell alkalmazni.
 
 (2) A kerékpárút nyomvonalában a közműveket nem kell kiváltani, ha a közművek
 
@@ -307,15 +309,17 @@ az ingatlanügyi hatóság, illetve az erdészeti hatóság a közlekedési infr
 
 (6) A hatóság 15 napon belül dönt a (4) vagy (5) bekezdésben foglalt megkeresés esetén.
 
-6/P. § (1) Ha a kerékpárút építése során közmű kiváltása válik szükségessé, a közmű kiváltását a közműszolgáltató – az építtető erre vonatkozó írásbeli értesítését, követő 90 napon belül, vagy a hatóság erre irányuló döntésében meghatározott határidőn belül – saját költségére köteles elvégezni.
+6/P. § (1) Ha a kerékpárút építése során közmű kiváltása válik szükségessé, a közmű kiváltását – beleértve a tervezést és az engedélyek megszerzését is – a közműszolgáltató az építtető erre vonatkozó írásbeli értesítését követően a nem engedélyköteles kiváltás esetén 90 napon belül, az engedélyköteles kiváltás esetében 150 napon belül, vagy a hatóság erre irányuló döntésében meghatározott határidőn belül saját költségére köteles elvégezni.
 
-(2) A közmű kiváltásának megvalósulását a hatóság hivatalból vagy az építtető kérelmére ellenőrzi.
+(2) Nem engedélyköteles útépítések esetén, ha nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-fejlesztés megvalósítása során közmű kiváltása válik szükségessé, a közmű kiváltását – beleértve a tervezést és az engedélyek megszerzését is – a közműszolgáltató az építtető erre vonatkozó írásbeli értesítését követően a nem engedélyköteles kiváltás esetén 90 napon belül, az engedélyköteles kiváltás esetében 150 napon belül, vagy a hatóság erre irányuló döntésében meghatározott határidőn belül saját költségére köteles elvégezni.
 
-(3) Az építtető a közmű kiváltás megvalósulásának ellenőrzésére vonatkozó kérelem benyújtásának okát köteles megindokolni. Az építtető kérelmére indult ellenőrzést a hatóság 8 napon belül lefolytatja.
+(3) A közmű kiváltásának megvalósulását a hatóság hivatalból vagy az építtető kérelmére ellenőrzi.
+
+(4) Az építtető a közműkiváltás megvalósulásának ellenőrzésére vonatkozó kérelem benyújtásának okát köteles megindokolni. Az építtető kérelmére indult ellenőrzést a hatóság 8 napon belül lefolytatja.
 
 6/Q. § (1) Az intermodális csomópontok, azaz a különböző közlekedési módok közötti átszállási kapcsolatot emelt szintű utaskényelmi szolgáltatásokkal biztosító közlekedési létesítmények kormányrendeletben meghatározott köre tekintetében a fejlesztési közreműködőként eljáró NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság mint építtető – központi költségvetési és uniós támogatásból – beruházási (létesítés, felújítás és fejlesztés) feladatokat lát el. E tevékenység fontos közérdekű és közcélú tevékenységnek minősül. Az építtető az állam javára és nevében jár el.
 
-(2) E törvény erejénél fogva ingyenesen az építtető vagyonkezelésébe kerül az intermodális csomópontok megvalósításához szükséges állam javára megvásárolt vagy kisajátított földrészlet.
+(2) E törvény erejénél fogva ingyenesen az építtető vagyonkezelésébe és a tulajdonosi joggyakorlóval fennálló, hatályos vagyonkezelési szerződése hatálya alá kerül az intermodális csomópontok megvalósításához szükséges, az állam javára megvásárolt, kisajátított vagy az építtető által más jogcímen az állam javára megszerzett földrészlet. Az építtető vagyonkezelésébe és a tulajdonosi joggyakorlóval fennálló, hatályos vagyonkezelési szerződése hatálya alá kerül továbbá a megvalósítást megelőzően is állami tulajdonban álló ingatlan beruházással érintett területrésze az ingatlanon fennálló vagyonkezelési vagy haszonbérleti szerződés módosítását vagy megszüntetését, és ezen jogok ingatlan-nyilvántartásból vagy földhasználati nyilvántartásból történő törlését követően.
 
 (3) A vagyonkezelői jog ingatlan-nyilvántartásba történő bejegyzéséről az építtető gondoskodik. Az építtető a vagyonkezelői jog bejegyzésére vonatkozó, a kormányhivatal által kiadott határozatot, annak kézhezvételét követően haladéktalanul megküldi a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) részére.
 
@@ -342,6 +346,17 @@ az ingatlanügyi hatóság, illetve az erdészeti hatóság a közlekedési infr
 6/S. § (1) A nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított közlekedésfejlesztési projektek megvalósításához szükséges homok, kavics és agyag ásványi nyersanyag – ideértve mindezek változatait és keverékeit is – (a továbbiakban együtt: töltésanyag) kitermelésére a 12. § (5) bekezdés h) pontjában kapott felhatalmazás alapján vagy a végleges építési engedélyben megállapított nyomvonal 10-10 km szélességű környezetében célkitermelőhely létesíthető.
 
 (2) A célkitermelőhely létesítésére, üzemeltetésére, megszüntetésére és hatósági felügyeletére vonatkozóan a Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény 17/A. § (2)–(3) bekezdésében és a 17/B–17/E. §-ában foglalt rendelkezések az irányadóak.
+
+6/T. § (1) Önkormányzati vagy állami tulajdonban lévő, a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény, és a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 31/A. § és 31/B. § hatálya alá nem tartozó ingatlan használatát, birtoklását lehetővé tevő jogviszony e törvény erejénél fogva akkor szűnik meg, ha
+
+- a) az ingatlan e törvény alapján a nemzetgazdasági szempontból kiemelt jelentőségű beruházással érintett területen helyezkedik el, és
+- b) a jogviszony fennmaradása egyúttal a nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósítását akadályozza.
+
+(2) Az (1) bekezdésben foglaltak fennállása esetén a jogviszony a beruházás megvalósítója (különösen a közúti közlekedésről szóló törvény szerinti építtető vagy a vasúti közlekedésről szóló törvény szerinti fejlesztési közreműködő) írásbeli tájékoztatásában meghatározott időpontban szűnik meg, amely nem lehet korábbi, mint a tájékoztatás kézbesítésétől számított 91. nap. A tájékoztatás kézbesítettnek minősül a postára adást követő 8. napon abban az esetben, ha a tértivevény szerint „a cím nem azonosítható”, „elköltözött”, „címzett ismeretlen”, „átvételt megtagadta”, „kézbesítés akadályozott”, „nem kereste” jelzéssel érkezett vissza.
+
+(3) A jogviszony megszűnését követő napon a jogosult köteles az ingatlant a tulajdonosa vagy vagyonkezelője birtokába adni. Az ingatlan birtokbaadása nem tagadható meg arra hivatkozással, hogy a (4) bekezdés szerinti kártalanítás megfizetésére nem vagy nem megfelelő mértékben került sor.
+
+(4) Ha a jogviszony az (1) és (2) bekezdésben meghatározottak szerint szűnik meg, akkor a jogosult teljes, feltétlen és azonnali kártalanításra jogosult. A kártalanítást a beruházás megvalósítója köteles a jogosultnak megfizetni. A kártalanítás mértékére a kisajátításról szóló törvény kártalanítás összegének megállapítására vonatkozó rendelkezéseit kell figyelembe venni.
 
 ### Közigazgatási per
 
@@ -505,6 +520,8 @@ vagy mellőzésére vonatkozó szabályokat.
 15. § E törvénynek a közlekedéssel összefüggő egyes törvények módosításról szóló 2016. évi CXLIV. törvénnyel (a továbbiakban: 2016. évi CXLIV. törvény) megállapított 6/D. § (3)–(9) bekezdését és 6/L. §-át a 2016. évi CXLIV. törvény hatálybalépésekor folyamatban lévő hatósági eljárásokban is alkalmazni kell.
 
 16. § E törvénynek a közlekedéssel összefüggő egyes törvények szóló 2017. évi CLXXXII. törvénnyel (a továbbiakban: Módtv2.) megállapított 6/M–6/R. §-sát, valamint 12. § (7) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő hatósági és egyéb eljárásokban is alkalmazni kell.
+
+17. § E törvénynek az egyes közlekedési tárgyú törvények módosításáról szóló 2021. évi LIX. törvénnyel (a továbbiakban: Módtv3.) megállapított 6/T. §-át, a Módtv3. hatálybalépése előtt létrejött jogviszonyokra is alkalmazni kell.
 
 ### 1. melléklet a 2006. évi LIII. törvényhez
 

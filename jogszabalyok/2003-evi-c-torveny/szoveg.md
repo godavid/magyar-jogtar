@@ -1647,11 +1647,11 @@ nem kell alkalmazni.
 
 ### Az elektronikus hírközlési szolgáltató beszámolási kötelezettsége
 
-87/A. § (1) A számviteli törvény hatálya alá nem tartozó vagy éves beszámoló készítésére jogszabály alapján nem köteles elektronikus hírközlési szolgáltató a számviteli törvényben meghatározott egyszerűsített éves beszámolót köteles készíteni.
+87/A. § (1) A számviteli törvény hatálya alá nem tartozó vagy éves beszámoló készítésére jogszabály alapján nem köteles elektronikus hírközlési szolgáltató – a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló2004. évi XXXIV. törvény alapján mikro-, kis- vagy középvállalkozásnak minősülő szolgáltató kivételével – a számviteli törvényben meghatározott egyszerűsített éves beszámolót köteles készíteni.
 
-(2) Az elektronikus hírközlési szolgáltató a számviteli törvény alapján vagy az (1) bekezdésben meghatározott kötelezettség alapján elkészített beszámolójának könyvvizsgálatát akkor is el kell végezni, ha az a számviteli törvényben meghatározott feltételek vagy jogszabály alapján nem kötelező.
+(2) Az (1) bekezdésben meghatározott kötelezettség alapján elkészített beszámoló könyvvizsgálatát a számviteli törvényben meghatározottak szerint kell elvégezni.
 
-(3) Az elektronikus hírközlési szolgáltató a számviteli törvény vagy az (1) bekezdés alapján elkészített beszámolóját az internetes honlapján köteles közzétenni.
+(3) Az elektronikus hírközlési szolgáltató az (1) bekezdés alapján elkészített és a (2) bekezdés szerint auditált beszámolóját az internetes honlapján köteles közzétenni.
 
 ### A hálózati szerződések köre, közös szabályai
 
@@ -1956,13 +1956,32 @@ A megállapodás létesítésére vonatkozó ajánlatnak tartalmaznia kell
 
 (4d) A tulajdonosi hozzájárulás a szolgalmi vagy más használati jogokkal azonos jogosultságokat és kötelezettségeket keletkeztet. A tulajdonosi hozzájárulás nem vonható vissza.
 
+(4e) A fizikai infrastruktúra (2a) bekezdés szerinti felhasználásához nem kell az ingatlan tulajdonosának hozzájárulását kérni a meglévő fizikai infrastruktúra elhelyezését biztosító érintett ingatlan tekintetében, ha a nagy sebességű elektronikus hírközlő hálózatok létesítése nem jelent további korlátozást az ingatlan használatában a fizikai infrastruktúrához kapcsolódó vezetékjoghoz, szolgalmi vagy használati joghoz képest. Ha az építési engedélyezési eljárásra irányuló kérelem és mellékletei tartalmából más nem következik, vélelmezni kell, hogy a nagy sebességű elektronikus hírközlő hálózatok létesítése nem jár további korlátozással az ingatlan használatában a meglévő fizikai infrastruktúrához kapcsolódó vezetékjoghoz, szolgalmi vagy használati joghoz képest.
+
+(4f) A (4e) bekezdés alapján létesített nagy sebességű elektronikus hírközlő hálózat üzemeltetőjének ingatlanhasználati joga megszűnik a felhasznált fizikai infrastruktúrához kapcsolódó vezetékjog, szolgalmi vagy használati jog megszűnésével, továbbá a felhasznált fizikai infrastruktúra ingatlanról történő eltávolításával.
+
+(4g) Ha az ingatlan közös tulajdonban áll, a hozzájáruláshoz az érintett tulajdonosok tulajdoni hányad alapján számított többségi döntése szükséges.
+
+(4h) A (4) bekezdésben foglaltaktól eltérően az elektronikus hírközlési építmény idegen ingatlanon történő elhelyezéséhez a tulajdonos hozzájárulását megadottnak kell tekinteni az olyan tulajdonos vagy tulajdonostárs esetében, akinek a személyi adat- és lakcímnyilvántartásban szereplő lakcímére vagy székhelyére postai úton megküldött 95. § (4) bekezdés szerinti ajánlat közlése
+
+- a) nem lehetséges, mert
+  - aa) személye bizonytalan, vagy
+  - ab) lakcíme, tartózkodási helye, székhelye, telephelye, fióktelepe ismeretlen,
+- b) meghiúsul, mert a postai küldemény a postai küldemények kézbesítéséről szóló jogszabály szerint azzal a jelzéssel érkezik vissza, hogy „címzett ismeretlen”, „nem kereste”, „kézbesítés akadályozott”, „elköltözött” vagy „átvételét megtagadta”, vagy
+- c) eredményes, de a kézhezvételtől számított 30 napon belül írásban nem nyilatkozott.
+
+(4i) A (4h) bekezdés a) pont aa) alpontjának alkalmazása szempontjából akkor minősül a tulajdonos, tulajdonostárs személye bizonytalannak, ha
+
+- a) azonosítása nem lehetséges az ingatlan-nyilvántartásban szereplő adatai, vagy gazdálkodó szervezetet nyilvántartó közhiteles nyilvántartás alapján, vagy
+- b) természetes személy esetén örököse, gazdálkodó szervezet esetén jogutódja az ingatlan-nyilvántartásból, vagy gazdálkodó szervezetet nyilvántartó közhiteles nyilvántartásból nem állapítható meg.
+
 (5) A Hatóság honlapján keresztül biztosítja, hogy a használati jogokkal összefüggő jogosultságokra, feltételekre, eljárásokra, díjakra és döntésekre vonatkozó minden lényeges információhoz az érdekeltek hozzáférhessenek. A közzétett információkat a Hatóság rendszeresen felülvizsgálja.
 
 (6) A helyi önkormányzatot a tulajdonában álló közterületen található elektronikus hírközlési építményen – a 90. § megfelelő alkalmazásával – ingyenes használati jog illeti meg az olyan közbiztonsági, bűnmegelőzési, illetve bűnüldözési célt szolgáló eszköz, illetve az eszköz elektronikus hírközlő hálózati ellátását biztosító nem nyilvános elektronikus hírközlő hálózat elemeinek elhelyezésével összefüggésben, amelyek gazdasági célt közvetve sem szolgálnak. Az ingyenes használat joga a fővárosi közterületeken található elektronikus hírközlési építményekkel összefüggésben mind a fővárosi, mind a kerületi önkormányzatot megilleti, függetlenül attól, hogy melyik önkormányzat a közterület tulajdonosa. A használattal összefüggő műszaki feltételeket az elektronikus hírközlési építmény tulajdonosa, használója és a helyi önkormányzat közötti megállapodásban kell meghatározni. A megállapodásra az e törvény felhatalmazása alapján kiadott, az elektronikus hírközlési építmények elhelyezéséről szóló elnöki rendelet rendelkezéseit alkalmazni kell.
 
 (7) Kis hatótávolságú, vezeték nélküli hozzáférési pontok kiépítése érdekében az elektronikus hírközlési szolgáltatóval a (2a) bekezdés szerint köteles együttműködni az épített környezet alakításáról és védelméről szóló törvény szerint sajátos építményfajták – ide nem értve az e törvény szerinti fizikai infrastruktúra fogalmába tartozó sajátos építményfajtákat – és a közhasználatú építmény vagyonkezelője, ennek hiányában tulajdonosa, az utcabútor, reklámhordozót tartó berendezés, reklámcélú berendezés (ideértve a tájékozódást segítő jelzést megjelenítő reklámcélú eszközt is) és a hirdetőoszlop tulajdonosa. Az együttműködésre kötelezettek közötti megállapodás részletes szabályait az Elnök rendeletben állapítja meg.
 
-94/A. § (1) A fizikai infrastruktúra 94. § (2a) bekezdés szerinti felhasználása érdekében létrejött megállapodás esetén a Hatóság az elektronikus hírközlési szolgáltató javára a meglévő fizikai infrastruktúra elhelyezését biztosító érintett ingatlanra vonatkozóan hatósági határozattal, kártalanítás ellenében szolgalmi vagy más használati jogot létesíthet. Ezen eljárásban ellenkező bizonyításig vélelmezni kell, hogy a szolgalmi vagy más használati jog az ingatlan használatát lényegesen nem korlátozza. Ha az érintett ingatlanok nagy száma indokolja, a Hatóság a szolgalmi vagy más használati jogot több érintett ingatlanra vonatkozóan egy hatósági határozattal is létesíthet.
+94/A. § (1) A fizikai infrastruktúra 94. § (2a) bekezdés szerinti felhasználása érdekében létrejött megállapodás esetén a Hatóság az elektronikus hírközlési szolgáltató javára a meglévő fizikai infrastruktúra elhelyezését biztosító érintett ingatlanra vonatkozóan, kártalanítás ellenében szolgalmi vagy más használati jogot létesíthet. Ezen eljárásban vélelmezni kell, hogy a szolgalmi vagy más használati jog az ingatlan használatát lényegesen nem korlátozza. Ha az érintett ingatlanok nagy száma indokolja, a Hatóság a szolgalmi vagy más használati jogot több érintett ingatlanra vonatkozóan egy hatósági határozattal is létesíthet. A szolgalmi vagy használati jog létesítésére irányuló kérelmet az elektronikus hírközlési építmény létesítésére vonatkozó engedélyezési eljárás iránti kérelemmel egyidejűleg kell előterjeszteni, és a Hatóság a szolgalmi vagy használati jog létesítéséről az engedélyezési eljárásban dönt.
 
 (2) Az elektronikus hírközlési szolgáltató az (1) bekezdés szerinti szolgalmi vagy más használati jog alapján az idegen ingatlanon
 
@@ -1971,13 +1990,15 @@ A megállapodás létesítésére vonatkozó ajánlatnak tartalmaznia kell
 
 (3) A Hatóság nem alapít szolgalmat vagy más használati jogot, amennyiben a fizikai infrastruktúra közterületet, vasúti pályát, folyóvizet, vagy csatornák területét érinti. Az ilyen területek igénybevételére a 94. § (4a) és (4c) bekezdése megfelelően alkalmazandó.
 
-(4) Az (1) és (2) bekezdést nem kell alkalmazni, amennyiben az ingatlan felhasználására az érintett ingatlan tulajdonosával kötött megállapodás alapján kerül sor.
+(4) Az (1) és (2) bekezdést nem kell alkalmazni, ha az ingatlan felhasználására az érintett ingatlan tulajdonosával kötött megállapodás vagy a 94. § (4h) bekezdése alapján kerül sor.
 
 (5) A Hatóság (1) bekezdés szerinti határozata elleni fellebbezésnek a határozat végrehajthatóságára nincs halasztó hatálya.
 
 (6) Ha az (1) bekezdés szerinti eljárás jelentős számú ügyfelet érint, akkor – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – a hatóság a döntését az ügyféllel hirdetményi úton közli. A Hatóság az ügyfelet a döntés szövegéről a hirdetmény kifüggesztésével egyidejűleg az adott ügyfajtára vonatkozó egyéb kapcsolattartási forma használatával is tájékoztatja. A közlés jogkövetkezményei a hirdetményi úton történő közléshez kapcsolódóan állnak be. A döntés közlésének napja a hirdetmény kifüggesztését követő 5. nap.
 
-95. § (1) Ha a nyilvánosan elérhető elektronikus hírközlési szolgáltatás biztosítása érdekében az elektronikus hírközlési építmény elhelyezésére közterületen, meglévő elektronikus hírközlési építmények közös eszközhasználatával vagy a 94. § (2a) bekezdése szerinti fizikai infrastruktúra felhasználásával nincs lehetőség, az elektronikus hírközlési szolgáltató állami vagy helyi önkormányzati tulajdonban, vagy a magántulajdonban álló ingatlan tulajdonosánál kezdeményezheti az elektronikus hírközlési építmény létesítésére irányuló megállapodás megkötését. Amennyiben ezen megállapodás 30 nap alatt nem jön létre, az elektronikus hírközlési építmény e § szerinti eljárásban állami vagy helyi önkormányzati tulajdonban vagy magántulajdonban álló ingatlanon is elhelyezhető. A 94/A. § (3) bekezdése megfelelően irányadó ez esetben is.
+(7) Az (1) bekezdés szerinti eljárásban is megfelelően alkalmazni kell a 95. § (5) és (7)–(11) bekezdését.
+
+95. § (1) Ha a nyilvánosan elérhető elektronikus hírközlési szolgáltatás biztosítása érdekében az elektronikus hírközlési építmény elhelyezésére közterületen, meglévő elektronikus hírközlési építmények közös eszközhasználatával vagy a 94. § (2a) bekezdése szerinti fizikai infrastruktúra felhasználásával nincs lehetőség, az elektronikus hírközlési szolgáltató állami vagy helyi önkormányzati tulajdonban, vagy a magántulajdonban álló ingatlan tulajdonosánál kezdeményezheti az elektronikus hírközlési építmény létesítésére irányuló megállapodás megkötését. Amennyiben a felek a (4) bekezdés szerinti ajánlat közlésétől számított 30 napon belül nem állapodnak meg, az elektronikus hírközlési építmény e § szerinti eljárásban állami vagy helyi önkormányzati tulajdonban vagy magántulajdonban álló ingatlanon is elhelyezhető. A 94/A. § (3) bekezdése megfelelően irányadó ez esetben is.
 
 (2) A Hatóság az elektronikus hírközlési szolgáltató kérelmére szolgalmi vagy más használati jogot alapító határozatával az érintett ingatlan tulajdonosát – a nyilvánosan elérhető elektronikus hírközlési szolgáltatásokban megtestesülő közérdekből – korlátozhatja az ingatlan használatában, ha
 
@@ -1994,18 +2015,17 @@ A megállapodás létesítésére vonatkozó ajánlatnak tartalmaznia kell
 - d) az elektronikus hírközlési építmény környezetének helyreállítására vonatkozó terveket,
 - e) a megállapodás megkötésére irányuló, a szolgalmi jog vagy más használati jog alapításáról szóló szerződéstervezetet, valamint az érintett ingatlan tulajdonosa részére fizetendő ellenértéket tartalmazó egyértelmű ajánlatot,
 - f) az e) pont szerinti ellenértékre vonatkozó számításokat, valamint
-- g) a (2) bekezdés szerinti hatósági eljárás lehetőségére vonatkozó figyelmeztetést.
+- g) a 94. § (4h)–(4i) bekezdéseire, valamint a (2) bekezdés szerinti hatósági eljárás lehetőségére vonatkozó figyelmeztetést.
 
-(4a) Az elektronikus hírközlési szolgáltató (2) bekezdés a) pontjának megfelelő magatartását vélelmezni kell akkor is, ha igazolja, hogy a (4) bekezdés szerinti tájékoztatást és ajánlattételt az érintett ingatlan tulajdonosának közhiteles nyilvántartásban szereplő lakcímére vagy székhelyére (telephelyére) postai úton megküldte, de az a postai szolgáltatások nyújtásának és a hivatalos iratokkal kapcsolatos postai szolgáltatás részletes szabályairól, valamint a postai szolgáltatók általános szerződési feltételeiről és a postai szolgáltatásból kizárt vagy feltételesen szállítható küldeményekről szóló kormányrendelet szerinti bármely okból kézbesíthetetlen.
+(4a)
 
 (5) A hatósági határozatban meg kell határozni:
 
 - a) a korlátozás mely nyilvánosan elérhető elektronikus hírközlési szolgáltatás érdekében történik,
-- b) szolgalmi vagy más használati jog tartalmát, így különösen az elektronikus hírközlési szolgáltató erre felhatalmazott képviselője belépési jogát az érintett ingatlan területére az elektronikus hírközlési építmény és berendezések ellenőrzése, karbantartása és a szükséges hibaelhárítás céljából,
+- b) a szolgalmi vagy más használati jog tartalmát, így különösen az elektronikus hírközlési szolgáltató erre felhatalmazott képviselője belépési jogát az érintett ingatlan területére az elektronikus hírközlési építmény és berendezések ellenőrzése, karbantartása és a szükséges hibaelhárítás céljából,
 - c) az elektronikus hírközlési építmény elhelyezésének helyét és módját,
-- d) az elektronikus hírközlési építményen elhelyezhető elektronikus hírközlési berendezések műszaki jellemzőit, és a rá vonatkozó környezetvédelmi, közegészségügyi, közbiztonsági és építésügyi jogszabályok által megszabott határértékeket,
-- e) a környezet eredeti állapotának helyreállításához szükséges és elégséges feltételeket, valamint
-- f)
+- d) az elektronikus hírközlési építményen elhelyezhető elektronikus hírközlési berendezések műszaki jellemzőit, és a rá vonatkozó környezetvédelmi, közegészségügyi, közbiztonsági és építésügyi jogszabályok által megszabott határértékeket, valamint
+- e) a környezet eredeti állapotának helyreállításához szükséges és elégséges feltételeket.
 
 (6)
 
@@ -2019,7 +2039,7 @@ A megállapodás létesítésére vonatkozó ajánlatnak tartalmaznia kell
 
 (11) Ha az elektronikus hírközlési szolgáltató a kártalanítást, vagy a jogai gyakorlása során tevékenységével összefüggő kárt az ingatlan tulajdonosának nem fizeti meg, vagy az általa felajánlott és az ingatlan tulajdonosa által át nem vett összeg, valamint a fizetési biztosíték a kártalanítást nem fedezi, vagy az ingatlan tulajdonosa a kártalanítás összegével nem ért egyet, az ingatlan tulajdonosa az igényét bírósági eljárás során érvényesítheti.
 
-96. § (1) Az érintett ingatlan tulajdonosát – a közterület, az állami tulajdonban álló ingatlan, valamint a közös eszközhasználattal érintett elektronikus hírközlési építmény tulajdonosa kivételével – az e törvényből eredő korlátozás mértékének megfelelő Ptk. szerinti kártalanítás illeti meg.
+96. § (1) Az érintett ingatlan tulajdonosát – a közterület, az állami tulajdonban álló ingatlan, a közös eszközhasználattal érintett elektronikus hírközlési építmény tulajdonosa, valamint a 94. § (4e) bekezdés alapján létesített nagy sebességű elektronikus hírközlő hálózattal érintett ingatlan tulajdonosa kivételével – az e törvényből eredő korlátozás mértékének megfelelő, a Ptk. szerinti kártalanítás illeti meg.
 
 (2) Az elektronikus hírközlési építményt elhelyező elektronikus hírközlési szolgáltató a korlátozásból eredő jogainak gyakorlása, vagy az építési munkálatok során okozott kárt köteles megtéríteni. Köteles továbbá saját költségén a munkálatok befejeztével a környezet eredeti állapotának helyreállítására is.
 
@@ -2037,7 +2057,7 @@ A megállapodás létesítésére vonatkozó ajánlatnak tartalmaznia kell
 
 (5) A megállapodáson alapuló használati jog ingatlan-nyilvántartásból való törlését az engedélyes a megállapodás benyújtásával egyidejűleg köteles kérni. Egyéb esetben a Hatóság a használati jog megszűnését megállapító véglegessé vált határozattal keresi meg az ingatlanügyi hatóságot a használati jog törlése iránt.
 
-97. § (1) Ha a jogszerűen létesített építmény eltávolítása vagy áthelyezése szükséges, akkor e munkálatokat annak költségére kell elvégezni, akinek érdekében ez felmerült. Jogszerűen építettnek kell tekinteni azt az építményt is, amely az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 48. §-a szerint fennmaradási engedélyt kapott.
+97. § (1) Ha a jogszerűen létesített építmény eltávolítása vagy áthelyezése szükséges, akkor e munkálatokat – a 94. § (4e) bekezdése alapján létesített nagy sebességű elektronikus hírközlő hálózat kivételével – annak költségére kell elvégezni, akinek érdekében ez felmerült. Jogszerűen építettnek kell tekinteni azt az építményt is, amely az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 48. §-a szerint fennmaradási engedélyt kapott.
 
 (2) Ha az áthelyezés a meglévő építmény korszerűsítésével vagy fejlesztésével jár együtt, a költségeket az érdekeltség arányában meg kell osztani.
 

@@ -146,7 +146,11 @@ az eljárás végleges döntéssel történő befejezését vagy az ügy lezár�
 
 5/H. § (1) A Hivatal eljárásai során kiszabható eljárási bírság legmagasabb összege természetes személy esetén egymillió forint, jogi személy vagy egyéb szervezet esetén ötmillió forint.
 
-(1a) Azokban a közigazgatási hatósági ügyekben, amelyekben a jogsértés az energetikai ellátásbiztonságot sérti vagy veszélyezteti, figyelmeztetés szankció alkalmazásának nincs helye.
+(1a) A figyelmeztetés közigazgatási szankció nem alkalmazható a következő esetekben:
+
+- a) engedélyköteles tevékenység engedély nélküli végzése, vagy engedély nélkül történő megszüntetése,
+- b) ha a jogsértés az energetikai ellátásbiztonságot sérti vagy veszélyezteti,
+- c) a jogszabálysértés vagy annak következményei helyreállítására nincs lehetőség.
 
 (2) A Hivatal a döntéseit egybefoglalhatja. Az egy okiratba foglalt döntések rendelkező részét és indokolását döntésenként önállóan kell megszövegezni. Az egybefoglalás az egyes döntések meghozatalára vonatkozó határidőket és a jogorvoslati szabályok alkalmazását nem érinti.
 
