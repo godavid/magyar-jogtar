@@ -192,9 +192,11 @@ ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített der
 
 (5) A fogyasztóvédelmi hatóság (1) és (2) bekezdésben meghatározott feladatkörén kívül, a létfenntartási, a közegészségügyi vízigények teljesítésével összefüggésben az illetékes népegészségügyi szerv, továbbá a víziközmű-rendszerbe való bekötésre kötelezéssel összefüggésben a fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) jár el.
 
-(6) Az (1)–(4) bekezdés szerinti hatósági eljárást megelőzően a felhasználó köteles panaszával igazolható módon a víziközmű-szolgáltatóhoz fordulni.
+(6) Az (1), a (2) és az (5) bekezdés hatálya alá nem tartozó, a víziközmű-szolgáltatókkal szemben felmerülő panaszok esetében a Hivatal jár el.
 
-(7) Az (1)–(5) bekezdésben meghatározottakon kívül a víziközmű-szolgáltatókkal szemben felmerülő panaszok ügyében a Hivatal jár el.
+(7) Az (1), a (2), az (5) és a (6) bekezdés szerinti hatósági eljárást megelőzően a felhasználó köteles panaszával igazolható módon a víziközmű-szolgáltatóhoz fordulni.
+
+(8) A (6) bekezdés szerinti panaszeljárás a jogsértés bekövetkezését követő öt év eltelte után nem indítható (elévülés). Ha a jogsértő magatartás folyamatos, az elévülés a magatartás megszűnésével kezdődik. Az elévülési határidő jogvesztő.
 
 ### III. Fejezet — A VÍZIKÖZMŰ-SZOLGÁLTATÁS ESZKÖZEI
 
@@ -217,6 +219,8 @@ ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített der
 
 (4) Az (1)–(3) bekezdésben meghatározott feladatokat a közigazgatási területén lévő felhasználási helyekre és az azokat közvetlenül ellátó víziközműre nézve az (5) bekezdésben foglalt eltéréssel a települési önkormányzat, a fővárosban a fővárosi önkormányzat (a továbbiakban együttesen: települési önkormányzat) látja el.
 
+(4a) A települési önkormányzat a tulajdonában álló víziközmű-vagyon 5/H. § (2) és (3) bekezdése szerinti átruházása esetén mentesül a (4) bekezdésben meghatározott ellátási felelősség alól.
+
 (5) Az (1)–(3) bekezdésben meghatározott feladatokat az állam látja el azon felhasználási helyek vonatkozásában, amelyek ellátása közvetlenül a nemzeti vagyonról szóló törvényben nevesített kizárólagos állami tulajdonnak minősülő regionális víziközmű-rendszerekről, vagy a kizárólagos állami tulajdonban lévő víziközmű-rendszerekről történik.
 
 (6) Az adott közigazgatási terület vagy víziközmű-rendszer felett ellátásért felelősi jogokat és kötelezettségeket gyakorló személyéről a Hivatal kérelemre hatósági bizonyítványt állít ki.
@@ -236,7 +240,21 @@ ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített der
 
 5/H. § (1) Egy víziközmű-rendszer üzemeltetési kérdéseiről – ideértve a közös ellátásért felelősséggel érintett víziközmű-rendszert is – egy üzemeltetési szerződés rendelkezhet.
 
-(2) A víziközmű-vagyon tulajdonjogát az ellátásért felelősök egymás között térítésmentesen, nyilvántartási értéken történő átvezetéssel átruházhatják. A térítésmentes vagyonátruházás az általános forgalmi adó szempontjából közcélú adománynak minősül.
+(2) Az ellátásért felelős önkormányzat a víziközmű-vagyon, illetve a tulajdonában álló víziközmű működtető eszköz tulajdonjogát térítésmentesen, nyilvántartási értéken történő átvezetéssel is átruházhatja az államra, ha a víziközmű-rendszeren kizárólagos vagy az állammal közös tulajdonnal rendelkezik.
+
+(3) Ha víziközmű-rendszeren több ellátásért felelős önkormányzat is tulajdonnal rendelkezik, az ellátásért felelős önkormányzatok egyhangú döntéssel a víziközmű-rendszer, illetve a tulajdonukban álló víziközmű működtető eszköz tulajdonjogát térítésmentesen, nyilvántartási értéken történő átvezetéssel is átruházhatják az államra.
+
+(4) Az önkormányzati tulajdonban álló víziközmű-vagyon (2) vagy (3) bekezdés szerinti átruházásához kapcsolódóan a 18. § szerinti víziközmű-fejlesztésre fel nem használt források tulajdonjoga a korábbi ellátásért felelőstől nyilvántartási értéken történő átvezetéssel, térítésmentesen az államra száll. A fejlesztési források átadás-átvételéről az érintett önkormányzat és az állam képviseletében eljáró szervezet írásban megállapodik.
+
+(5) A víziközmű-szolgáltató – az önkormányzati tulajdonban álló víziközmű-vagyon (2) vagy (3) bekezdés szerinti átruházásához kapcsolódóan – a tulajdonában álló víziközmű működtető eszközök és a rendszerfüggetlen víziközmű-elemek tulajdonjogát az államra, mint új ellátásért felelősre nyilvántartási értéken történő átvezetéssel, ingyenesen is átruházhatja.
+
+(6) Az önkormányzati tulajdonban álló víziközmű-vagyon (2) vagy (3) bekezdés szerinti átruházása esetén az üzemeltetési jogviszony a víziközmű-vagyon tulajdonjogának átszállását követő napon megszűnik, vagy – a korábbi és az új ellátásért felelős közötti megállapodás alapján – az állam, mint új ellátásért felelős a fennálló üzemeltetési jogviszony tekintetében a korábbi ellátásért felelős helyébe lép. Az üzemeltetési jogviszony megszűnése esetén az állam mint új ellátásért felelős az új üzemeltetési jogviszony létrehozásáról akként gondoskodik, hogy a szolgáltatás folytonossága közérdekű üzemeltető kijelölése nélkül is biztosított legyen.
+
+(7) Ha az önkormányzati tulajdonban álló víziközmű-vagyon (2) vagy (3) bekezdés szerinti átruházása az üzemeltetési jogviszony megszűnését eredményezi, a korábbi ellátásért felelős a víziközmű-vagyon tulajdonjogának átszállását követően haladéktalanul átadja az új ellátásért felelős részére a 61. § (1) bekezdése szerinti adatokat, valamint minden egyéb olyan adatot, amely az érintett víziközmű-rendszerhez kapcsolódóan az ellátásért felelős kötelezettségeinek teljesítéséhez szükséges. Ha az ellátásért felelős kötelezettségeinek teljesítéséhez szükséges adatok a korábbi ellátásért felelősnél – annak írásbeli nyilatkozata alapján – nem állnak teljeskörűen rendelkezésre, a korábbi üzemeltetési jogviszony szerinti víziközmű-szolgáltató a hiányzó adatokat az új ellátásért felelős írásbeli felszólítását követő 5 napon belül átadja az új ellátásért felelős részére.
+
+(8) A (2)–(5) bekezdés szerinti térítésmentes vagyonátruházás az általános forgalmi adó szempontjából közcélú adománynak minősül.
+
+(9) A települési önkormányzat – a víziközmű-vagyon (2) vagy (3) bekezdés szerinti átruházásához kapcsolódóan – térítésmentesen átruházhatja az államra, mint új ellátásért felelősre az átadással érintett víziközmű-rendszer üzemeltetését szerződéses jogviszony alapján ellátó víziközmű-szolgáltatóban fennálló társasági részesedését. A térítésmentes tulajdon-átruházás az általános forgalmi adó szempontjából közcélú adománynak minősül.
 
 #### 3. A víziközművek tulajdonjoga
 
@@ -244,7 +262,7 @@ ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített der
 
 (2) Ha a víziközmű idegen ingatlanon fekszik, a vízgazdálkodásról szóló törvényben meghatározott vízvezetési szolgalmi jog gyakorlása – a víziközmű üzemeltetési tevékenységéhez indokolt mértékben – a víziközmű-szolgáltatót megilleti. A víziközmű-szolgáltató viselni köteles a joggyakorlás következtében felmerülő terheket.
 
-(3) Az állami tulajdonú víziközmű felett az államot megillető tulajdonosi jogok és kötelezettségek összességét a Nemzeti Vízművek Zártkörűen Működő Részvénytársaság gyakorolja.
+(3) Az állami tulajdonú víziközmű, valamint az 5/H. § alapján az állam tulajdonába kerülő víziközmű működtető eszközök és rendszerfüggetlen víziközmű-elemek felett az államot megillető tulajdonosi jogok és kötelezettségek összességét a Nemzeti Vízművek Zártkörűen Működő Részvénytársaság gyakorolja. Az államra mint ellátásért felelősre történő tulajdonjog-átruházás esetén az állam képviseletében a Nemzeti Vízművek Zártkörűen Működő Részvénytársaság jár el.
 
 (3a) A víziközművek vagyonbiztosításáról annak vagyonkezelője, ennek hiányában a tulajdonosa köteles gondoskodni. A vagyonbiztosítás díja vagyonkezelés esetén a vagyonkezelőt, vagyonkezelés hiányában a tulajdonost terheli. A tulajdonos az őt terhelő vagyonbiztosítási díjat a víziközmű-rendszer üzemeltetésbe adásából származó bevételei terhére is finanszírozhatja.
 
@@ -847,7 +865,7 @@ alapul.
 
 (4)–(5)
 
-(6) A víziközmű-szolgáltató víziközmű-működtetés körébe nem tartozó tevékenysége (a továbbiakban: másodlagos tevékenység) nem veszélyeztetheti a víziközmű működtetését, a folyamatos, biztonságos és előírt színvonalú ellátást. Másodlagos tevékenységnek minősül különösen az elkülönített rendszerű csapadékvíz elvezető rendszerek üzemeltetése, a fürdőüzemeltetés, a nem közműves szennyvízszállítási közszolgáltatás, a biogáz üzem üzemeltetése, valamint az árvízvédelemmel kapcsolatos tevékenység.
+(6) A víziközmű-szolgáltató víziközmű-működtetés körébe nem tartozó tevékenysége (a továbbiakban: másodlagos tevékenység) nem veszélyeztetheti a víziközmű működtetését, a folyamatos, biztonságos és előírt színvonalú ellátást. Másodlagos tevékenységnek minősül különösen az elkülönített rendszerű csapadékvíz-elvezető rendszerek üzemeltetése, a fürdőüzemeltetés, vízvisszanyerő létesítmény üzemeltetése, a nem közműves szennyvízszállítási közszolgáltatás, a biogázüzem üzemeltetése, valamint az árvízvédelemmel kapcsolatos tevékenység.
 
 46. § A víziközmű-szolgáltató e törvényben meghatározott kötelezettségei teljesítésével kapcsolatos beszerzésre, kiválasztásra és megbízásra – ha jogszabály másként nem rendelkezik – az e törvény végrehajtására kiadott kormányrendeletben, valamint a Hivatal által jóváhagyott beszerzési szabályzatban meghatározott feltételeket és eljárásokat kell alkalmazni.
 
@@ -1374,7 +1392,7 @@ kiállított számla érvénytelen.
 - c) a víziközmű-szolgáltatás minőségének (a víz minőségi paramétereinek) általa igényelt emelése esetében, továbbá
 - d) az új bekötés megvalósítását megelőzően, ha a bekötés a nem lakossági felhasználó által, nem továbbértékesítésre épített újépítésű lakás víziközmű-szolgáltatását szolgálja.
 
-(2) Nem kell víziközmű-fejlesztési hozzájárulást fizetnie a központi költségvetési szervnek és intézményének, a helyi önkormányzatnak és annak költségvetési intézményének, valamint normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézménynek.
+(2) Nem kell víziközmű-fejlesztési hozzájárulást fizetnie a központi költségvetési szervnek és intézményének, a helyi önkormányzatnak és annak költségvetési intézménynek, a jogi személyiséggel rendelkező vallási közösségnek, valamint normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézménynek.
 
 70. § (1) A víziközmű-fejlesztési hozzájárulás mértékét a Hivatal elnöke rendeletben állapítja meg. A víziközmű-fejlesztési hozzájárulás megállapításakor rendelkezni kell arról, hogy a víziközmű-fejlesztési hozzájárulás mikor lép hatályba, e rendelkezésnek visszamenőleges hatálya nem lehet.
 
@@ -1645,6 +1663,8 @@ rendeletben állapítsa meg.
 (2) Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 (3) E törvény 14. § (4) és (5) bekezdése a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-i 2016/1148 európai parlamenti és tanácsi irányelv 14. cikk (1)–(2) bekezdésének való megfelelést szolgálja.
+
+(4) E törvény 45. § (6) bekezdése a víz újrafelhasználásra vonatkozó minimumkövetelményekről szóló, 2020. május 25-i (EU) 2020/741 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 88/A. § A 72/A. § tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
