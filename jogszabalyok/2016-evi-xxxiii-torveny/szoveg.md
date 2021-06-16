@@ -2,47 +2,53 @@
 
 az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról
 
-Az Országgyűlés az Európai Unió által megfogalmazott társadalmi és gazdaságpolitikai célok megvalósítása, az európai uniós források felhasználásával megvalósuló egyes projektek objektív, átlátható és a piaci szereplők érdekeitől független értékelése céljából a következő törvényt alkotja:
+Az Országgyűlés az Európai Unió által megfogalmazott társadalmi és gazdaságpolitikai célok megvalósítása, az európai uniós források felhasználásával megvalósuló egyes projektek objektív, átlátható és a piaci szereplők érdekeitől független tartalmi és közbeszerzési értékelése céljából a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
 #### 1. A törvény alkalmazási köre
 
-1. § (1) Az Európai Unió pénzügyi alapjaihoz kapcsolódó támogatási kérelmek tartalmi értékelése közfeladat, amelyet az állami projektértékelői jogviszonyban állók látnak el.
+1. § (1) Az Európai Unió pénzügyi alapjaihoz kapcsolódó támogatási kérelmek tartalmi értékelése és az ezen alapok által támogatott projektek megvalósításához kapcsolódó közbeszerzések ellenőrzése közfeladat. E támogatási kérelmek tartalmi értékelését (a továbbiakban: tartalmi értékelés) és az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendeletben, valamint a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló kormányrendeletben meghatározott közbeszerzések műszaki szempontú ellenőrzését (a továbbiakban: közbeszerzési értékelés) az állami projektértékelői jogviszonyban állók látják el.
 
 (2) Állami projektértékelői jogviszony létesíthető azzal, aki
 
 - a) központi államigazgatási szervnél, illetve annak területi és helyi szervénél [ideértve a fővárosi és megyei kormányhivatalt, valamint a járási (fővárosi kerületi) hivatalt] kormánytisztviselőként, köztisztviselőként, munkavállalóként, a Nemzeti Adó- és Vámhivatalnál foglalkoztatottként vagy munkavállalóként,
 - b) az a) pontba nem sorolt központi költségvetési szervnél közalkalmazottként, kormánytisztviselőként, köztisztviselőként vagy munkavállalóként, valamint állami vagy vagyonkezelő alapítvány fenntartásában működő felsőoktatási intézményben közalkalmazottként vagy munkavállalóként,
-- c) az államháztartás központi alrendszerébe sorolt köztestületnél köztisztviselőként, közalkalmazottként vagy munkavállalóként vagy
-- d) többségi állami befolyás alatt álló gazdasági társaságnál munkavállalóként
+- c) az államháztartás központi alrendszerébe sorolt köztestületnél köztisztviselőként, közalkalmazottként vagy munkavállalóként,
+- d) többségi állami befolyás alatt álló gazdasági társaságnál munkavállalóként vagy
+- e) az egészségügyi szolgálati jogviszonyról szóló törvény szerint állami fenntartású egészségügyi szolgáltatónál egészségügyi szolgálati jogviszonyban álló személyként
 
-[az a)–d) pont továbbiakban együtt: állami alkalmazott] foglalkoztatott és projektértékelési feladatok ellátására sikeres pályázóként kiválasztásra került.
+foglalkoztatott és projektértékelési feladatok ellátására sikeres pályázóként kiválasztásra került.
 
 (3) Az értékelő felett a munkáltatói jogkört az európai uniós források felhasználásáért felelős miniszter (a továbbiakban: miniszter) gyakorolja.
 
-(4) E törvényt a mikro-, kis- és középvállalkozások, valamint a helyi és területi önkormányzatok számára nyitva álló, kormányrendeletben meghatározott kiválasztási eljárásrenddel érintett felhívásokra benyújtott támogatási kérelmek tartalmi értékelésére kell alkalmazni.
+(4) E törvényt
 
-(5) E törvény a miniszter hozzájárulása esetén a (4) bekezdésbe nem tartozó felhívásra benyújtott támogatási kérelmek esetén is alkalmazható.
+- a) a mikro-, kis- és középvállalkozások, valamint a helyi és területi önkormányzatok számára nyitva álló, kormányrendeletben meghatározott kiválasztási eljárásrenddel érintett felhívások tekintetében végzett tartalmi értékelésre és
+- b) a közbeszerzési értékelésre
 
-(6) A (4) bekezdésben foglaltakon túl a törvény kötelező alkalmazásának további esetköreit – ideértve a felhívások kiválasztási eljárásrendjének meghatározását is – és feltételeit kormányrendelet meghatározhatja.
+kell alkalmazni.
 
-(7) E törvényt – az alkalmazott kiválasztási eljárástól függetlenül – nem kell alkalmazni
+(5) E törvény a miniszter hozzájárulása esetén a (4) bekezdés a) pontjába nem tartozó felhívással összefüggő tartalmi értékelésre is alkalmazható.
+
+(6) A (4) bekezdés a) pontjában foglaltakon túl a törvény kötelező alkalmazásának további esetköreit – ideértve a felhívások kiválasztási eljárásrendjének meghatározását is – és feltételeit kormányrendelet meghatározhatja.
+
+(7) E törvény tartalmi értékelésre vonatkozó rendelkezéseit – az alkalmazott kiválasztási eljárástól függetlenül – nem kell alkalmazni
 
 - a) a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvényben (a továbbiakban: KFItv.) meghatározott, továbbá
 - b) a KFItv. alapján kötött megállapodásban foglalt, kutatás-fejlesztési és innovációs, illetve a szélessávú infrastruktúra kiépítéséhez és fejlesztéséhez nyújtott beruházási támogatásokra vonatkozó projektekkel kapcsolatos, illetve támogatási kérelmekre vonatkozó
 
 értékelési feladatokra és eljárásokra.
 
-(8) E törvényt nem kell alkalmazni a (4) vagy (6) bekezdés szerinti felhívásra benyújtott támogatási kérelmek esetén, ha ahhoz a miniszter különösen indokolt esetben hozzájárul.
+(8) E törvényt nem kell alkalmazni a (4) bekezdés a) pontja vagy (6) bekezdés szerinti felhívásra benyújtott támogatási kérelmek esetén, ha ahhoz a miniszter különösen indokolt esetben hozzájárul.
 
 #### 2. Értelmező rendelkezések
 
 2. § E törvény alkalmazásában
 
-- 1. alapjogviszony: az 1. § (2) bekezdése szerinti, fennálló kormányzati szolgálati, közszolgálati, adó- és vámhatósági szolgálati, közalkalmazotti jogviszony, munkaviszony;
+- 1. alapjogviszony: az 1. § (2) bekezdése szerinti, fennálló kormányzati szolgálati, közszolgálati, adó- és vámhatósági szolgálati, közalkalmazotti, egészségügyi szolgálati jogviszony, munkaviszony;
 - 2. állami projektértékelői jogviszony: közfeladat ellátása céljából létrehozott, munkavégzésre irányuló különös jogviszony, amelyben az érintett alapjogviszonnyal rendelkezik, és amelyre a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit nem kell alkalmazni;
-- 3. értékelő: olyan állami projektértékelői jogviszonyban álló állami alkalmazott, aki keretszerződés alapján, annak megkötését követően szaktudása alapján végzi a támogatási kérelmek tartalmi értékelését;
+- 3. értékelő: olyan állami projektértékelői jogviszonyban álló személy, aki keretszerződés alapján, annak megkötését követően szaktudása alapján végzi a tartalmi értékelést vagy a közbeszerzési értékelést;
 - 4. központi államigazgatási szerv: a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (2) bekezdés a)–c) pontjában meghatározott szerv, a Kormány kivételével;
 - 4a. munkáltató: a miniszter által vezetett minisztérium (a továbbiakban: minisztérium);
 - 5. programozási időszak: az Európai Unió által meghatározott hétéves tervezési periódus;
@@ -68,8 +74,9 @@ Az Országgyűlés az Európai Unió által megfogalmazott társadalmi és gazda
 - a) a pályázóval szemben támasztott feltételeket,
 - b) a pályázat benyújtására nyitva álló határidő megjelölését,
 - c) a pályázat elbírálásának várható időpontját,
-- d) a pályázói adatlapot, továbbá
-- e) mindazokat az egyéb tartalmi és formai elemeket, amelyeket jogszabály ír elő.
+- d) a pályázói adatlapot,
+- e) mindazokat az egyéb tartalmi és formai elemeket, amelyeket jogszabály ír elő, továbbá
+- f) annak megjelölését, hogy a pályázat tartalmi értékelés vagy közbeszerzési értékelés végzésére irányul.
 
 (3) A jogviszony létesítését megelőzően a pályázó nyilatkozik arról, hogy büntetlen előéletű és nem áll foglalkozástól eltiltás hatálya alatt. Ha a pályázó, értékelő büntetlen előéletével összefüggésben kétség merül fel, a munkáltatói jogkör gyakorlója írásban, indokolással felszólíthatja, hogy a felhívástól számított tizenöt napon belül – ha e határidőn belül menthető ok miatt nem lehetséges, annak megszűnését követően haladéktalanul – hatósági bizonyítvány bemutatásával igazolja, hogy büntetlen előéletű.
 
@@ -85,9 +92,9 @@ Az Országgyűlés az Európai Unió által megfogalmazott társadalmi és gazda
 
 5. § (1) Nem keletkeztet összeférhetetlenséget az értékelő alapjogviszonya.
 
-(2) Ha az alapjogviszony az Mt. szerinti munkaviszony és az értékelő az 1. § (2) bekezdés a)–d) pontja szerint foglalkoztatott vezető állású munkavállalónak minősül – az Mt. 211. § (1) bekezdésétől eltérően –, projektértékelői jogviszonyt létesíthet.
+(2) Ha az alapjogviszony az Mt. szerinti munkaviszony és az értékelő az 1. § (2) bekezdése szerint foglalkoztatott vezető állású munkavállalónak minősül – az Mt. 211. § (1) bekezdésétől eltérően –, állami projektértékelői jogviszonyt létesíthet.
 
-6. § (1) Ha jogszabály kizárja, az értékelő nem vehet részt a támogatási kérelem elbírálásában.
+6. § (1) Ha jogszabály kizárja, az értékelő nem vehet részt a tartalmi, illetve a közbeszerzési értékelésben.
 
 (2) Az értékelő tekintetében – ha a rendőrségről szóló törvény előírja – a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv ellenőrizheti, hogy az értékelő eleget tesz-e az e törvényben meghatározott kötelezettségének.
 
@@ -118,6 +125,7 @@ Az Országgyűlés az Európai Unió által megfogalmazott társadalmi és gazda
 - f) az állami projektértékelői jogviszony létesítéséhez szükséges nyilatkozatok meglétének igazolását,
 - g) a projektértékelői azonosítót (a minisztérium által működtetett informatikai rendszer által generált adat).
 - h) a pályázó nyilatkozatát arról, hogy Ügyfélkapu regisztrációval vagy ezzel egyenértékű, elektronikus aláírási lehetőséget is biztosító szolgáltatáshoz való hozzáféréssel rendelkezik-e.
+- i) annak megjelölését, hogy a pályázat tartalmi értékelésre vagy közbeszerzési értékelésre irányul.
 
 6/B. § Az állami projektértékelői jogviszony létesítéséhez szükséges nyilatkozatok tartalmazzák a pályázó
 
@@ -158,7 +166,7 @@ Az Országgyűlés az Európai Unió által megfogalmazott társadalmi és gazda
 
 #### 4. A projektértékelői keretszerződés
 
-7. § (1) A miniszter az értékelővel a támogatási kérelmek tartalmi értékelésére keretszerződést köt. Keretszerződés csak írásban köthető.
+7. § (1) A miniszter az értékelővel a tartalmi értékelésre vagy a közbeszerzési értékelésre keretszerződést köt. Keretszerződés csak írásban köthető.
 
 (1a) A munkáltató az értékelővel a keretszerződést elektronikusan köti meg és módosítja, amelyhez az értékelőnek Ügyfélkapu elektronikus azonosítási szolgáltatással vagy ezzel egyenértékű, elektronikus aláírási lehetőséget is biztosító szolgáltatással kell rendelkeznie.
 
@@ -166,14 +174,14 @@ Az Országgyűlés az Európai Unió által megfogalmazott társadalmi és gazda
 
 - a) az értékelő természetes személyazonosító adatait,
 - b) a kapcsolattartás módját,
-- c) azt a – szakértői névsor szerinti – tématerületet, amelynek szakértőjeként az értékelő a támogatási kérelmeket elbírálja,
+- c) azt, hogy tartalmi értékelésre vagy közbeszerzési értékelésre irányul, és ehhez kapcsolódóan a megjelölt értékeléseknek a – szakértői névsor szerinti – tématerületét,
 - d) annak rögzítését, hogy az értékelő a feladatait esetileg kapja, amelyet határidőre köteles teljesíteni, egyéb esetben rendelkezésre áll.
 
 (3) A (2) bekezdés d) pontja szerinti rendelkezésre állás időtartama alatt az értékelőt díjazás nem illeti meg.
 
 #### 5. A feladatellátással kapcsolatos szabályok
 
-8. § (1) Az értékelő feladatellátását a miniszter írásban, elektronikus úton – a konkrét munkavégzés megkezdése előtt legalább három nappal – esetileg rendeli el.
+8. § (1) Az értékelő feladatellátását a miniszter írásban, elektronikus úton – a konkrét munkavégzés megkezdése előtt – esetileg rendeli el.
 
 (2) Az értékelő feladatellátása nem érinti az alapjogviszonya szerinti munkavégzését.
 
@@ -241,12 +249,7 @@ céljából kezeli az értékelőként jogviszonyt létesíteni szándékozó sz
 
 (2) Az (1) bekezdésben foglaltak alapján megismert személyes adatokat a munkáltató a jogviszony létesítéséről meghozott döntés időpontjáig vagy – jogviszony létesítése és fennállása esetén – legfeljebb az érintett operatív programra irányadó dokumentum-megőrzési kötelezettség leteltéig kezeli.
 
-(3) A munkáltató a pályázó, illetve értékelő
-
-- a) állami projektértékelő jogviszonya létesítéséhez – a Kormány rendeletében – előírt iskolai végzettséget igazoló oklevelét, bizonyítványát, illetve a szakmai tapasztalat igazolását, továbbá
-- b) fizetési számlára vonatkozó, a fizetési számláját kezelő pénzforgalmi szolgáltató által kiállított igazolást
-
-másolati vagy elektronikus formában ellenőrzés céljából írásban, az ellenőrzés céljának megjelölésével bekérheti.
+(3) A munkáltató a projektértékelői pályázati eljárás keretében a pályázó későbbi állami projektértékelői jogviszonya létesítéséhez és az alkalmazási feltételeknek való megfelelés utólagos ellenőrzéséhez – a Kormány rendeletében – előírt iskolai végzettséget igazoló oklevelének, bizonyítványának, illetve a szakmai tapasztalat igazolásának másolati vagy elektronikus példányát bekéri és kezeli.
 
 (4) Az értékelő köteles öt napon belül bejelenteni a nyilvántartott adataiban bekövetkezett változást.
 
@@ -258,7 +261,7 @@ másolati vagy elektronikus formában ellenőrzés céljából írásban, az ell
 
 10/A. § (1) Az értékelők adatait tartalmazó szakértői névsor – az adatvédelmi követelményekre figyelemmel történő – összeállításáról, folyamatos vezetéséről és elektronikus nyilvántartásáról a miniszter az erre a célra kialakított informatikai rendszerben gondoskodik.
 
-(2) A szakértői névsorba bejegyzett adatok közül az értékelő neve és tématerülete közérdekből nyilvános adatnak minősül.
+(2) A szakértői névsorba bejegyzett adatok közül az értékelő neve, az általa folytatott tevékenység tartalmi értékelés vagy közbeszerzési értékelés mivolta, valamint annak tématerülete közérdekből nyilvános adatnak minősül.
 
 (3) A szakértői névsorral kapcsolatos adatszolgáltatásért a miniszter a felelős.
 
@@ -283,7 +286,7 @@ másolati vagy elektronikus formában ellenőrzés céljából írásban, az ell
 11. § Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg
 
 - a) a projektértékelői pályázat tartalmára, kiírására, benyújtására, valamint a pályázat elbírálásának rendjére vonatkozó részletes szabályokat,
-- b)
+- b) azon közbeszerzések körét, amelyek tekintetében az állami projektértékelő közbeszerzési értékelést végez,
 - c) az értékelő eseti feladatellátásával kapcsolatos részletes szabályokat,
 - d) a mikro-, kis- és középvállalkozások, valamint a helyi és területi önkormányzatok számára nyitva álló felhívások esetén a kiválasztási eljárásrendek körét,
 - e) e törvény kötelező alkalmazásának további esetköreit és a kötelező alkalmazás további feltételeit és azok részletes szabályait, valamint a kötelező alkalmazás alóli mentesítésre vonatkozó részletszabályokat.
