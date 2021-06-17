@@ -155,11 +155,11 @@ az érdekelt vámszervek kötelesek egymás között azonnal, de legfeljebb 3 mu
 
 (5) Az ügyintéző a kizárási ok észlelését követően bejelenti a szerv kiadmányozási jogkörrel rendelkező vezetőjének a kizárási ok fennálltát. A kizárási okot az ügyfél is bejelentheti.
 
-(6) A kizárás tárgyában a szerv kiadmányozási jogkörrel rendelkező vezetője dönt, szükség esetén más ügyintézőt jelöl ki és arról is dönt, hogy meg kell-e ismételni azokat az eljárási cselekményeket, amelyekben a kizárt ügyintéző járt el. Ha a kizárási okot az ügyfél jelentette be, a kizárásról a vámhatóság végzésben dönt, és arról az ügyfelet is tájékoztatja.
+(6) A kizárás tárgyában a szerv kiadmányozási jogkörrel rendelkező vezetője dönt, szükség esetén más ügyintézőt jelöl ki és arról is dönt, hogy meg kell-e ismételni azokat az eljárási cselekményeket, amelyekben a kizárt ügyintéző járt el. Ha a kizárási okot az ügyfél jelentette be, a kizárásról a vámhatóság 30 napon belül végzésben dönt, és arról az ügyfelet is tájékoztatja.
 
 (7) Ha az ügyfél nyilvánvalóan alaptalanul tesz kizárásra irányuló bejelentést, vagy ugyanabban az eljárásban ugyanazon ügyintéző ellen ismételten alaptalan bejelentést tesz, akkor az ügyfél vámigazgatási bírsággal sújtható.
 
-(8) Ha a kizárási ok a szerv kiadmányozási jogkörrel rendelkező vezetőjével szemben merül fel, akkor az ügyben a felettes szerv vezetője által kijelölt másik azonos hatáskörű szerv jár el. A kijelölésről a felettes szerv végzésben tájékoztatja az ügyfelet.
+(8) Ha a kizárási ok a szerv kiadmányozási jogkörrel rendelkező vezetőjével szemben merül fel, akkor az ügyben a felettes szerv vezetője által 30 napon belül kijelölt másik azonos hatáskörű szerv jár el. A kijelölésről a felettes szerv végzésben tájékoztatja az ügyfelet.
 
 (9) Ha nincs kijelölhető másik, azonos hatáskörű szerv, akkor az a szerv jár el, amelyikkel szemben kizárási ok áll fenn.
 
@@ -344,7 +344,7 @@ Ha a Vámkódex 6. cikk (3) bekezdés a) pontja alapján az információcsere é
 
 (1) A vámjogszabályok és az e törvény hatálya alá tartozó személyek nyilvántartásba vételével és nyilvántartásával kapcsolatos ügyben – ha e törvény másként nem rendelkezik – a vámhatóság jár el. Az adószabályok hatálya alá tartozó tevékenységgel kapcsolatban a vámazonosító számra (a továbbiakban: VPID szám) történő hivatkozást a vámjogszabályok szerinti uniós vámazonosító számra (a továbbiakban: EORI szám) történő hivatkozásként kell értelmezni.
 
-(2) Az (EU) 2015/2446 felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: FJA) 6. cikk (2) bekezdésében meghatározott kivétellel – a (9) bekezdésre figyelemmel – valamennyi, gazdálkodónak nem minősülő személynek nyilvántartásba kell vetetnie magát azon esetekben, amikor a vámhatósághoz elektronikus úton vagy papíralapon vám-árunyilatkozatot, vagy a Vámkódex 22. cikke szerinti kérelmet nyújt be.
+(2) Az FJA 6. cikk (2) bekezdésében meghatározott kivétellel – a (9) bekezdésre figyelemmel – valamennyi, gazdálkodónak nem minősülő személynek nyilvántartásba kell vetetnie magát azon esetekben, amikor a vámhatósághoz elektronikus úton vagy papíralapon vám-árunyilatkozatot, vagy a Vámkódex 22. cikke szerinti kérelmet nyújt be.
 
 (3) A vámhatóság az FJA 4. cikke alapján az EORI nyilvántartásba vételhez szükséges adatok benyújtását elektronikus adatfeldolgozási módtól eltérő módon azon Vámkódex 5. cikk 4. pontja szerinti személyeknek engedélyezheti, akik a vámhatóság vonatkozó számítógépes rendszeréhez való közvetlen hozzáféréssel nem rendelkeznek.
 
@@ -660,7 +660,7 @@ A vámhatóság az eljárást megszünteti, ha
 
 (1) Aki a vámigazgatási eljárás során valamely határnapot, határidőt önhibáján kívül elmulasztott, igazolási kérelmet terjeszthet elő.
 
-(2) Az igazolási kérelemről a vámhatóságnak az a szerve dönt, amelynek eljárása során a mulasztás történt.
+(2) Az igazolási kérelemről a vámhatóságnak az a szerve dönt 30 napon belül végzéssel, amelynek eljárása során a mulasztás történt.
 
 (3) Az igazolási kérelmet a mulasztásról való tudomásszerzést vagy az akadály megszűnését követően, de legkésőbb az elmulasztott határnaptól vagy a határidő utolsó napjától számított, az igazolni kívánt eljárási cselekményre előírt határidővel megegyező időtartamon, de legfeljebb 45 napon belül lehet előterjeszteni.
 
@@ -1057,7 +1057,7 @@ jelzéssel érkezett vissza, az iratot – az ellenkező bizonyításáig – az
 
 (6) A kézbesítési kifogásban elő kell adni azokat a tényeket, illetve körülményeket, amelyek a kézbesítés szabálytalanságát igazolják, vagy az ügyfél vagy az eljárásban részt vevő más személy részéről az önhiba hiányát valószínűsítik.
 
-(7) A kézbesítési kifogást a kézbesítés tárgyát képező iratot kiadmányozó vámszerv bírálja el.
+(7) A kézbesítési kifogást a kézbesítés tárgyát képező iratot kiadmányozó vámszerv bírálja el végzéssel 30 napon belül.
 
 (8) A kézbesítési kifogásnak az eljárás folytatására, illetve a végrehajtásra nincs halasztó hatálya. A vámhatóság a végrehajtási eljárást kérelemre vagy hivatalból a kézbesítési kifogást elbíráló döntés véglegessé válásáig felfüggesztheti, ha a kérelemben előadott tények, körülmények annak elfogadását valószínűsítik.
 
@@ -1409,13 +1409,20 @@ Ha a jogsértést vagy mulasztást a bizonylatok, könyvek, nyilvántartások me
 
 #### 89. § [Vámigazgatási bírság gyorsított eljárás keretében]
 
-(1) Ha a 84. § (1) bekezdés b) pontja szerinti jogsértést oly módon követik el, hogy az Európai Unió vámterületére nem uniós árut juttatnak be és a keletkezett vámhiány az 50 000 forintot nem haladja meg, az eljáró vámhivatal gyorsított eljárás keretében a helyszínen vámigazgatási bírságot szabhat ki és szedhet be, ha a nem uniós áru birtokosa, szállítója a jogsértés tényét elismeri, továbbá a jogkövetkezményekről szóló tájékoztatást tudomásul veszi, és jogorvoslati jogáról lemond. A gyorsított eljárás csak akkor alkalmazható, ha a kiszabott bírságot a helyszínen megfizetik. Ebben az esetben a 84. § (8) vagy (12) bekezdése szerint megállapítható vámigazgatási bírság 50%-át, de legalább 4000 forintot, jövedéki termékre elkövetett jogsértés esetén legalább 25 000 forintot kell kiszabni.
+(1) Ha a 84. § (1) bekezdés b) pontja szerinti jogsértést oly módon követik el, hogy az Európai Unió vámterületére nem uniós árut juttatnak be és a keletkezett vámhiány a 100 000 forintot nem haladja meg, az eljáró vámhivatal gyorsított eljárás keretében a helyszínen vámigazgatási bírságot szabhat ki és szedhet be, ha a nem uniós áru birtokosa, szállítója a jogsértés tényét elismeri, továbbá a jogkövetkezményekről szóló tájékoztatást tudomásul veszi, és jogorvoslati jogáról lemond. A gyorsított eljárás csak akkor alkalmazható, ha a kiszabott bírságot a helyszínen megfizetik. Ebben az esetben a 84. § (8) vagy (12) bekezdése szerint megállapítható vámigazgatási bírság 50%-át, de legalább 4000 forintot, jövedéki termékre elkövetett jogsértés esetén legalább 25 000 forintot kell kiszabni.
 
 (2) A gyorsított eljárás alkalmazásáról és a gyorsított eljárás lefolytatásának törvényi feltételeiről és a jogkövetkezményekről az érintettet tájékoztatni kell. Az érintett a tájékoztatás tudomásul vételét nyilatkozat aláírásával ismeri el.
 
 (3) Az érintett beleegyező nyilatkozata esetén a vámszerv a felvett jegyzőkönyv alapján a helyszínen határozatot hoz.
 
-(4) Gyorsított eljárás esetén a határozat eredeti példányát és a kiszabott bírság megfizetésének tényét igazoló nyugtát az érintett részére igazoltan át kell adni. Az átadott nyugta tartalmazza a határozatot hozó szerv megnevezését, a vámigazgatási bírság kiszabásáról rendelkező határozat számát, az érintett nevét, EORI számát, adóazonosító számát, annak hiányában a személyazonosító okmány számát, a kiszabott vámigazgatási bírság összegét és a Magyar Államkincstár által vezetett központosított beszedési számla számát.
+(4) Gyorsított eljárás esetén a határozat eredeti példányát és a kiszabott bírság megfizetéséről szóló igazolást az érintett részére igazoltan át kell adni. Az átadott igazolás az alábbiakat tartalmazza:
+
+- a) a határozatot hozó szerv megnevezése, címe, adószáma,
+- b) a vámigazgatási bírság kiszabásáról rendelkező határozat száma,
+- c) az érintett neve, EORI száma, adóazonosító száma, annak hiányában a személyazonosító okmány száma,
+- d) a kiszabott és átvett vámigazgatási bírság összege.
+
+(4a) A kiszabott bírságnak a pénzforgalom lebonyolításáról szóló MNB rendelet szerinti azonnali átutalással történő megfizetéséről a (4) bekezdésben meghatározott igazolást az eljáró vámszerv kizárólag az érintett kérésére állítja ki.
 
 (5) A gyorsított eljárás során a magyar nyelvet nem beszélő külföldi állampolgár esetében a tolmács alkalmazása mellőzhető, ha az érintett a NAV vezetője által tájékoztatásban kiadott, a gyorsított eljárás folyamatáról szóló idegen nyelvű tájékoztató átvételét követően, írásban lemond a tolmács igénybevételéről.
 
@@ -1521,6 +1528,7 @@ Ha a jogsértést vagy mulasztást a bizonylatok, könyvek, nyilvántartások me
 - g) az iratbetekintési jog gyakorlására irányuló kérelem tárgyában hozott elutasító,
 - h) az iratbetekintési jog korlátozására irányuló kérelem tárgyában hozott, valamint
 - i) az eljárási költség megállapításával és viselésével kapcsolatos
+- j) a kézbesítési kifogást elutasító
 
 elsőfokú végzés ellen.
 
@@ -1563,9 +1571,9 @@ elsőfokú végzés ellen.
 
 #### 99. § [Fellebbezés vizsgálata, felterjesztése, elutasítása]
 
-(1) Nem egyértelmű vagy ellentmondásos tartalmú fellebbezés benyújtásakor az elsőfokú vámhatóság a mulasztás jogkövetkezményeire történő figyelmeztetés mellett 8 napos határidő tűzésével felhívja a fellebbezésre jogosultat az egyértelmű kérelem benyújtására. A hiánypótlási felhívás személyes átadása, postára adása vagy elküldése és a határidő letelte közötti időtartam a felterjesztés határidejébe nem számít bele. Ha a fellebbezésre jogosult határidőn belül nem nyilatkozik, az elsőfokú vámhatóság a fellebbezést elutasítja.
+(1) Nem egyértelmű vagy ellentmondásos tartalmú fellebbezés benyújtásakor az elsőfokú vámhatóság a mulasztás jogkövetkezményeire történő figyelmeztetés mellett 8 napos határidő tűzésével felhívja a fellebbezésre jogosultat az egyértelmű kérelem benyújtására. A hiánypótlási felhívás személyes átadása, postára adása vagy elküldése és a határidő letelte közötti időtartam a felterjesztés határidejébe nem számít bele. Ha a fellebbezésre jogosult határidőn belül nem nyilatkozik, az elsőfokú vámhatóság a fellebbezést végzésével elutasítja.
 
-(2) Igazolási kérelem nélküli elkésett fellebbezés benyújtásakor az elsőfokú vámhatóság – a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – 8 napos határidő tűzésével a fellebbezésre jogosult személyt igazolási kérelem benyújtására hívja fel. A felhívás személyes átadása, postára adása vagy elküldése és a határidő letelte közötti időtartam a felterjesztés határidejébe nem számít bele. Ha a fellebbezésre jogosult személy határidőn belül nem nyújt be igazolási kérelmet, az elsőfokú vámhatóság a fellebbezést elutasítja.
+(2) Igazolási kérelem nélküli elkésett fellebbezés benyújtásakor az elsőfokú vámhatóság – a mulasztás jogkövetkezményeire történő figyelmeztetés mellett – 8 napos határidő tűzésével a fellebbezésre jogosult személyt igazolási kérelem benyújtására hívja fel. A felhívás személyes átadása, postára adása vagy elküldése és a határidő letelte közötti időtartam a felterjesztés határidejébe nem számít bele. Ha a fellebbezésre jogosult személy határidőn belül nem nyújt be igazolási kérelmet, az elsőfokú vámhatóság a fellebbezést végzésével elutasítja.
 
 (3) A (2) bekezdésben szabályozott felhívást követően a fellebbezési határidő kimentésére előterjesztett igazolási kérelemre az egyidejűségre vonatkozó előírást nem kell alkalmazni.
 
@@ -1624,7 +1632,7 @@ elsőfokú végzés ellen.
 
 #### 104. § [A döntés módosítása vagy visszavonása]
 
-(1) A vámszerv a jogszabálysértő határozatát – ha azt a felettes szerv vagy bíróság nem bírálta el – a vámjogszabályokban megállapított határidőn belül módosíthatja, visszavonhatja.
+(1) A vámszerv a jogszabálysértő döntését – ha azt a felettes szerv vagy bíróság nem bírálta el – a vámjogszabályokban megállapított határidőn belül módosíthatja, visszavonhatja.
 
 (2) Ha az (1) bekezdés kapcsán a vámhatóság intézkedése előtt fellebbezést vagy keresetlevelet nyújtanak be, akkor a vámhatóság az arra vonatkozó rendelkezések figyelembevételével jár el.
 

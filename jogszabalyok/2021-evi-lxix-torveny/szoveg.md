@@ -444,17 +444,54 @@ lép.
 
 124. §
 
-125. §
+125. § (1) A Vtv. 14. § (6) bekezdése helyébe a következő rendelkezés lép:
 
-126. §
+„(6) A kizárás tárgyában a szerv kiadmányozási jogkörrel rendelkező vezetője dönt, szükség esetén más ügyintézőt jelöl ki és arról is dönt, hogy meg kell-e ismételni azokat az eljárási cselekményeket, amelyekben a kizárt ügyintéző járt el. Ha a kizárási okot az ügyfél jelentette be, a kizárásról a vámhatóság 30 napon belül végzésben dönt, és arról az ügyfelet is tájékoztatja.
 
-127. §
+(2) A Vtv. 14. § (8) bekezdése helyébe a következő rendelkezés lép:
 
-128. §
+„(8) Ha a kizárási ok a szerv kiadmányozási jogkörrel rendelkező vezetőjével szemben merül fel, akkor az ügyben a felettes szerv vezetője által 30 napon belül kijelölt másik azonos hatáskörű szerv jár el. A kijelölésről a felettes szerv végzésben tájékoztatja az ügyfelet.”
 
-129. §
+126. § A Vtv. 43. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-130. §
+„(2) Az igazolási kérelemről a vámhatóságnak az a szerve dönt 30 napon belül végzéssel, amelynek eljárása során a mulasztás történt.”
+
+127. § A Vtv. 70. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) A kézbesítési kifogást a kézbesítés tárgyát képező iratot kiadmányozó vámszerv bírálja el végzéssel 30 napon belül.”
+
+128. § (1) A Vtv. 89. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Gyorsított eljárás esetén a határozat eredeti példányát és a kiszabott bírság megfizetéséről szóló igazolást az érintett részére igazoltan át kell adni. Az átadott igazolás az alábbiakat tartalmazza:
+
+a) a határozatot hozó szerv megnevezése, címe, adószáma,
+
+b) a vámigazgatási bírság kiszabásáról rendelkező határozat száma,
+
+c) az érintett neve, EORI száma, adóazonosító száma, annak hiányában a személyazonosító okmány száma,
+
+d) a kiszabott és átvett vámigazgatási bírság összege.
+
+(2) A Vtv. 89. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) A kiszabott bírságnak a pénzforgalom lebonyolításáról szóló MNB rendelet szerinti azonnali átutalással történő megfizetéséről a (4) bekezdésben meghatározott igazolást az eljáró vámszerv kizárólag az érintett kérésére állítja ki.”
+
+129. § A Vtv. 95. § (2) bekezdése a következő j) ponttal egészül ki:
+
+(Önálló fellebbezésnek van helye)
+
+„j) a kézbesítési kifogást elutasító”
+
+(elsőfokú végzés ellen.)
+
+130. § A Vtv.
+
+- a) 25. § (2) bekezdésében az „(EU) 2015/2446 felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: FJA)” szövegrész helyébe az „FJA” szöveg,
+- b) 89. § (1) bekezdésében az „az 50 000 forintot” szövegrész helyébe az „a 100 000 forintot” szöveg,
+- c) 99. § (1) és (2) bekezdésében az „a fellebbezést elutasítja.” szövegrész helyébe az „a fellebbezést végzésével elutasítja.” szöveg,
+- d) 104. § (1) bekezdésében a „határozatát” szövegrész helyébe a „döntését” szöveg
+
+lép.
 
 ### IX. Fejezet — A NEMZETI ADÓ- ÉS VÁMHIVATAL SZERVEZETÉT ÉS SZEMÉLYI ÁLLOMÁNYÁT ÉRINTŐ MÓDOSÍTÁSOK
 
