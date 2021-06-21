@@ -6,7 +6,7 @@ a szakosított intézmények kiváltságairól és mentességeiről szóló egye
 
 1. § Az Országgyűlés e törvénnyel felhatalmazást ad a szakosított intézmények kiváltságairól és mentességeiről szóló egyezménynek (a továbbiakban: Egyezmény) a Szellemi Tulajdon Világszervezetére vonatkozó Függeléke, a Nemzetközi Mezőgazdasági Fejlesztési Alapra vonatkozó Függeléke, az Egyesült Nemzetek Iparfejlesztési Szervezetére vonatkozó Függeléke, valamint a Turisztikai Világszervezetre vonatkozó Függeléke kötelező hatályának elismerésére.
 
-2. §
+2. § Az Országgyűlés az Egyezménynek a Szellemi Tulajdon Világszervezetére vonatkozó Függelékét, a Nemzetközi Mezőgazdasági Fejlesztési Alapra vonatkozó Függelékét, az Egyesült Nemzetek Iparfejlesztési Szervezetére vonatkozó Függelékét, valamint a Turisztikai Világszervezetre vonatkozó Függelékét e törvénnyel kihirdeti.
 
 3. § Az Országgyűlés az Egyezményt, valamint a Nemzetközi Munkaügyi Szervezetre, az Egyesült Nemzetek Élelmezésügyi és Mezőgazdasági Szervezetére, a Nemzetközi Polgári Repülési Szervezetre, az Egyesült Nemzetek Nevelésügyi, Tudományos és Kulturális Szervezetére, a Nemzetközi Valutaalapra, a Nemzetközi Újjáépítési és Fejlesztési Bankra, az Egészségügyi Világszervezetre, az Egyetemes Postaügyi Unióra, a Nemzetközi Távközlési Unióra, a Meteorológiai Világszervezetre, a Nemzetközi Tengerészeti Szervezetre, a Nemzetközi Pénzügyi Társaságra, valamint a Nemzetközi Fejlesztési Társulásra vonatkozó Függelékeket (a továbbiakban együtt: Függelékek) e törvénnyel kihirdeti.
 
@@ -14,9 +14,9 @@ a szakosított intézmények kiváltságairól és mentességeiről szóló egye
 
 (2) Az Egyezmény és a Függelékek hiteles angol nyelvű szövegét a 2. melléklet tartalmazza.
 
-(3)
+(3) A Szellemi Tulajdon Világszervezetére vonatkozó Függelék, a Nemzetközi Mezőgazdasági Fejlesztési Alapra vonatkozó Függelék, az Egyesült Nemzetek Iparfejlesztési Szervezetére vonatkozó Függelék, valamint a Turisztikai Világszervezetre vonatkozó Függelék hivatalos magyar nyelvű fordítását a 3. melléklet tartalmazza.
 
-(4)
+(4) A Szellemi Tulajdon Világszervezetére vonatkozó Függelék, a Nemzetközi Mezőgazdasági Fejlesztési Alapra vonatkozó Függelék, az Egyesült Nemzetek Iparfejlesztési Szervezetére vonatkozó Függelék, valamint a Turisztikai Világszervezetre vonatkozó Függelék hiteles angol nyelvű szövegét a 4. melléklet tartalmazza.
 
 5. § (1) Ez a törvény – a (2) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
@@ -814,4 +814,159 @@ In its application to the International Development Association (hereinafter cal
 
 ### 3. melléklet a 2021. évi LXI. törvényhez
 
+#### XV. FÜGGELÉK SZELLEMI TULAJDON VILÁGSZERVEZETE
+
+A Szellemi Tulajdon Világszervezete (a továbbiakban: Szervezet) tekintetében a standard záradékokat kell alkalmazni az alábbi módosítások figyelembe vételével:
+
+- 1. A standard záradékok VI. cikk 21. bekezdésében szereplő kiváltságok, mentességek, mentesítések és könnyítések a Szervezet főigazgató-helyetteseit is megilletik.
+  - 2. (a) Szakértők részére – az Egyezmény VI. cikke hatálya alá tartozó tisztviselők kivételével – akik a Szervezet bizottságaiban és misszióinál szolgálnak, a tisztségük hatékony ellátásához szükséges alábbi kiváltságokat és mentességeket biztosítani kell, beleértve a bizottságok vagy missziók szolgálatában végzett munkájukkal kapcsolatos utazásuk idejét is:
+  - (i) mentesek a letartóztatás vagy személyes poggyászuk lefoglalása alól; (ii) hivatalos minőségükben végzett (mind szóbeli, mind írásbeli) ténykedésük tekintetében mentesek mindennemű joghatóság alól; a mentességek annak ellenére fennmaradnak, hogy az érintett személyek már nem szolgálnak a Szervezet bizottságaiban vagy misszióban; (iii) a fizetési eszközökre és azok beváltására vonatkozó korlátozások, valamint személyes poggyászuk tekintetében ugyanazok a kedvezmények illetik meg őket, mint külföldi kormányoknak ideiglenes hivatalos kiküldetésben levő képviselőit; (iv) valamennyi, a Szervezettel kapcsolatos munkájukhoz köthető iratuk és okiratuk sérthetetlen;
+  - (v) joguk van rejtjel használatához és okiratoknak, illetve levelezések futár útján vagy lepecsételt csomagokban való átvételéhez a Szervezettel való kommunikáció érdekében. A fenti (iv) és (v) pontokkal összefüggésben a standard záradékok 12. bekezdés utolsó mondatában foglalt elvek alkalmazandók.
+  - (b) A fenti (a) bekezdésben szereplő szakértőket a kiváltságok és a mentességek a Szervezet érdekében és nem az érintettek személyes előnyben részesítése céljából illetik meg. A Szervezetnek joga és kötelessége lemondani bármely szakértő mentességéről minden olyan esetben, amikor véleménye szerint a mentesség akadályozná az igazságszolgáltatás menetét, és arról a Szervezet érdekeinek sérelme nélkül le lehet mondani.
+
+#### XVI. FÜGGELÉK NEMZETKÖZI MEZŐGAZDASÁGI FEJLESZTÉSI ALAP
+
+A Nemzetközi Mezőgazdasági Fejlesztési Alap (a továbbiakban: „Alap”) tekintetében a standard záradékokat kell alkalmazni az alábbi rendelkezések figyelembe vételével:
+
+- 1. A standard záradékok 21. bekezdésében szereplő kiváltságok, mentességek, mentesítések és könnyítések az Alap valamennyi alelnökét is megilletik.
+  - 2. (i) Szakértők részére – az Egyezmény VI. cikke hatálya alá tartozó tisztviselők kivételével – akik az Alap bizottságaiban és misszióinál szolgálnak, a tisztségük hatékony ellátásához szükséges alábbi kiváltságokat és mentességeket biztosítani kell, a bizottságok vagy missziók szolgálatában végzett munkájukkal kapcsolatos utazásuk ideje alatt is:
+  - (a) mentesek a letartóztatás vagy személyes poggyászuk lefoglalása alól;
+  - (b) hivatalos minőségükben végzett (mind szóbeli, mind írásbeli) ténykedésük tekintetében mentesek mindennemű joghatóság alól; a mentességek annak ellenére fennmaradnak, hogy az érintett személyek már nem szolgálnak az Alap bizottságaiban vagy misszióban;
+  - (c) a fizetési eszközökre és azok beváltására vonatkozó korlátozások, valamint személyes poggyászuk tekintetében ugyanazok a kedvezmények illetik meg őket, mint külföldi kormányoknak ideiglenes hivatalos kiküldetésben levő képviselőit;
+  - (d) valamennyi iratuk és okiratuk sérthetetlen; amelyek az Alappal kapcsolatos munkájukhoz köthetők, és az Alappal való kommunikáció érdekében joguk van rejtjel használatához, valamint okiratoknak, levelezések futár útján vagy lepecsételt csomagokban való átvételéhez. (ii) A fenti 2 (i) pont (d) alpontjával összefüggésben a standard záradékok 12. bekezdés utolsó mondatában foglalt elvek alkalmazandók. (iii) A szakértőket a kiváltságok és a mentességek az Alap érdekében és nem az érintettek személyes előnyben részesítése céljából illetik meg. Az Alapnak joga és kötelessége lemondani bármely szakértő mentességéről minden olyan esetben, amikor véleménye szerint a mentesség akadályozná az igazságszolgáltatás menetét, és arról az Alap érdekeinek sérelme nélkül le lehet mondani.
+
+#### XVII. FÜGGELÉK AZ EGYESÜLT NEMZETEK IPARFEJLESZTÉSI SZERVEZETE
+
+Az Egyesült Nemzetek Iparfejlesztési Szervezete (a továbbiakban: „Szervezet”) tekintetében a standard záradékokat kell alkalmazni az alábbi módosítások figyelembe vételével:
+
+  - 1. (a) Szakértők részére – az Egyezmény VI. cikke hatálya alá tartozó tisztviselők kivételével – akik a Szervezet bizottságaiban és misszióinál szolgálnak, a tisztségük hatékony ellátásához szükséges alábbi kiváltságokat és mentességeket biztosítani kell, beleértve a bizottságok vagy missziók szolgálatában végzett munkájukkal kapcsolatos utazásuk idejét is:
+  - (i) mentesek a letartóztatás vagy személyes poggyászuk lefoglalása alól; (ii) hivatalos minőségükben végzett (mind szóbeli, mind írásbeli) ténykedésük tekintetében mentesek mindennemű joghatóság alól; a mentességek annak ellenére fennmaradnak, hogy az érintett személyek már nem szolgálnak a Szervezet bizottságaiban vagy misszióban; (iii) a fizetési eszközökre és azok beváltására vonatkozó korlátozások, valamint személyes poggyászuk tekintetében ugyanazok a kedvezmények illetik meg őket, mint külföldi – kormányoknak ideiglenes hivatalos kiküldetésben levő képviselőit; (iv) valamennyi iratuk és okiratuk sérthetetlen;
+  - (v) a Szervezettel való kommunikáció érdekében joguk van rejtjel használatához, valamint okiratoknak, levelezések futár útján vagy lepecsételt csomagokban való átvételéhez;
+  - (b) A fenti 1 (a) pont (iv) és (v) alpontjával összefüggésben a standard záradékok 12. bekezdés utolsó mondatában foglalt elvek alkalmazandók;
+  - (c) A szakértőket a kiváltságok és a mentességek a Szervezet érdekében és nem az érintettek személyes előnyben részesítése céljából illetik meg. A Szervezetnek joga és kötelessége lemondani bármely szakértő mentességéről minden olyan esetben, amikor véleménye szerint a mentesség akadályozná az igazságszolgáltatás menetét, és arról a Szervezet érdekeinek sérelme nélkül le lehet mondani.
+- 2. A standard záradékok 21. bekezdésében szereplő kiváltságok, mentességek, mentesítések és könnyítések a Szervezet valamennyi főigazgató-helyettesét is megilletik.
+
+#### XVIII. FÜGGELÉK TURISZTIKAI VILÁGSZERVEZET
+
+A Turisztikai Világszervezet (a továbbiakban: Szervezet) tekintetében a standard záradékokat kell alkalmazni az alábbi módosítások figyelembe vételével:
+
+- 1. Az Egyezmény V. cikkét és a VII. cikk 25. bekezdésének 1. albekezdését és a 2. albekezdés (I) pontját alkalmazni kell a Szervezet munkájában részt vevő Társult Tagok képviselőire vonatkozóan a Turisztikai Világszervezet Alapszabályával (a továbbiakban „Alapszabály”) összhangban.
+- 2. A Csatlakozó Tagok képviselői számára, akik a Szervezet tevékenységében részt vesznek, biztosítani kell az alábbiakat:
+  - (a) Minden eszközt annak érdekében, hogy tisztségüket függetlenül gyakorolják;
+  - (b) Maximális gyorsaságot a vízumkérelmeik feldolgozása során, amennyiben annak szükségessége esetén igazolást mellékelnek arról, hogy a Szervezet megbízásából utaznak. Ezen túlmenően az ilyen személyeknek megfelelő feltételeket kell biztosítani a gyors utazás érdekében;
+  - (c) A fenti (b) albekezdéssel összefüggésben a standard záradékok 12. bekezdés utolsó mondatában foglalt elvek alkalmazandók.
+- 3. Szakértők részére – az Egyezmény VI. cikke hatálya alá tartozó tisztviselők kivételével – akik a Szervezet testületeinél, szerveinél és misszióinál szolgálnak, a tisztségük független és hatékony ellátásához szükséges kiváltságokat és mentességeket biztosítani kell, beleértve a szervek és testületek vagy missziók szolgálatában végzett munkájukkal kapcsolatos utazásuk idejét is. Különösen az alábbi mentességeket és kiváltságokat kell megadni:
+  - (a) mentesség a letartóztatás vagy személyes poggyászuk lefoglalása alól;
+  - (b) hivatalos minőségükben végzett (mind szóbeli, mind írásbeli) ténykedésük tekintetében mentesek mindennemű joghatóság alól, a mentességek annak ellenére fennmaradnak, hogy az érintett személyek már nem szolgálnak a Szervezet szerveiben, testületeiben vagy misszióban;
+  - (c) valamennyi, a Szervezettel kapcsolatos munkájukhoz köthető iratuk és okiratuk sérthetetlen;
+  - (d) a Szervezettel való kommunikáció érdekében joguk van rejtjel használatához és okiratoknak, illetve levelezések futár útján vagy lepecsételt csomagokban való átvételéhez;
+  - (e) a fizetési eszközökre és azok beváltására vonatkozó korlátozások, valamint személyes poggyászuk tekintetében ugyanazok a kedvezmények illetik meg őket, mint külföldi kormányoknak ideiglenes hivatalos kiküldetésben levő képviselőit.
+- 4. A szakértőket a kiváltságok és a mentességek a Szervezet érdekében és nem az érintettek személyes előnyben részesítése céljából illetik meg. A Szervezet főtitkárának joga és kötelessége lemondani bármely szakértő mentességéről minden olyan esetben, amikor véleménye szerint a mentesség akadályozná az igazságszolgáltatás menetét, és arról a Szervezet érdekeinek sérelme nélkül le lehet mondani.
+- 5. A fenti 2. bekezdés ellenére a 3. és 4. bekezdéseket alkalmazni kell a Csatlakozó Tagok képviselőinek szakértőként való kiküldetése során.
+- 6. A standard záradékok 21. bekezdésében meghatározott kiváltságokat, mentességeket, mentesítéseket és könnyítéseket a Szervezet főtitkárhelyettese, valamint házastársa és kiskorú gyermekei részére is meg kell adni.
+
 ### 4. melléklet a 2021. évi LXI. törvényhez
+
+ANNEX XV
+
+WORLD INTELLECTUAL PROPERTY ORGANIZATION
+
+“In their application to the World Intellectual Property Organization (hereinafter called éthe Organization'), the standard clauses shall operate subject to the following modifications:
+
+“1. The privileges, immunities, exemptions and facilities referred to in article VI, section 21, of the standard clauses shall also be accorded to the Deputy Directors General of the Organization.
+
+“2. (a) Experts (other than officials coming within the scope of article VI) serving on committees of, or performing missions for, the Organization shall be accorded the following privileges and immunities so far as is necessary for the effective exercise of their functions, including the time spent on journeys in connexion with service on such committees or missions:
+
+“(i) Immunity from personal arrest or seizure of their personal baggage;
+
+“(ii) In respect of words spoken or written or acts done by them in the performance of their official functions, immunity from legal process of every kind, such immunity to continue notwithstanding that the persons concerned are no longer serving on committees of, or employed on missions for, the Organization;
+
+“(iii) The same facilities in respect of currency and exchange restrictions and in respect of their personal baggage as are accorded to officials of foreign Governments on temporary official missions;
+
+“(iv) Inviolability for all papers and documents relating to the work on which they are engaged for the Organization;
+
+“(v) For their communications with the Organization, the right to use codes and to receive documents and correspondence by courier or in sealed dispatch bags.
+
+In connexion with (iv) and (v) above, the principle contained in the last sentence of section 12 of the standard clauses shall be applicable.
+
+“(b) Privileges and immunities are granted to the experts referred to in paragraph (a) above in the interests of the Organization and not for the personal benefit of the individuals themselves. The Organization shall have the right and duty to waive the immunity of any expert in any case where, in its opinion, the immunity would impede the course of justice and it can be waived without prejudice to the interests of the Organization.”
+
+ANNEX XVI
+
+INTERNATIONAL FUND FOR AGRICULTURAL DEVELOPMENT
+
+In their application to the International Fund for Agricultural Development (hereinafter called “the Fund”) the standard clauses shall operate subject to the following provisions:
+
+1. The privileges, immunities, exemptions and facilities referred to in section 21 of the standard clauses shall also be accorded to any Vice-President of the Fund.
+
+2. (i) Experts (other than officials coming within the scope of article VI) serving on committees of, or performing missions for the Fund shall be accorded the following privileges and immunities so far as is necessary for the effective exercise of their functions, including the time spent on journeys in connection with service on such committees or missions:
+
+(a) immunity from personal arrest or seizure of their personal baggage;
+
+(b) in respect of words spoken or written or acts done by them in the performance of their official functions, immunity from legal process of every kind, such immunity to continue notwithstanding that the persons concerned are no longer serving on committees of, or employed on missions for, the Fund;
+
+(c) the same facilities in respect of currency and exchange restrictions and in respect of their personal baggage as are accorded to officials of foreign governments on temporary official missions;
+
+(d) inviolability of their papers and documents relating to the work on which they are engaged for the Fund and, for the purpose of their communications with the Fund, the right to use codes and to receive papers or correspondence by courier or in sealed bags.
+
+(ii) In connection with (d) of 2 (i) above, the principle contained in the last sentence of section 12 of the standard clauses shall be applicable.
+
+(iii) Privileges and immunities are granted to the experts in the interests of the Fund and not for the personal benefit of the individuals themselves. The Fund shall have the right and the duty to waive the immunity of any expert in any case where in its opinion the immunity would impede the course of justice, and it can be waived without prejudice to the interests of the Fund.
+
+ANNEX XVII
+
+UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION
+
+In their application to the United Nations Industrial Development Organization (hereinafter called “the Organization”) the standard clauses shall operate subject to the following modifications:
+
+1. (a) Experts (other than officials coming within the scope of article VI) serving as committees of, or performing missions for, the Organization shall be accorded the following privileges and immunities so far as is necessary for the effective exercise of their functions, including the time spent on journeys in connection with service on such committees or missions:
+
+(i) Immunity from personal arrest or seizure of their personal baggage;
+
+(ii) In respect of words spoken or written or acts done by them in the performance of their official functions, immunity from legal process of every kind, such immunity to continue notwithstanding that the person concerned is no longer serving on committees of, or employed on missions for, the Organization;
+
+(iii) The same facilities in respect of currency and exchange restrictions and in respect of their personal baggage as are accorded to officials of foreign Governments on temporary official missions;
+
+(iv) Inviolability for all papers and documents;
+
+(v) For their communications with the Organization, the right to use codes and to receive documents and correspondence by courier or in sealed bags;
+
+(b) In connection with subparagraphs (iv) and (v) of paragraph 1 (a) above, the principle contained in the last sentence of section 12 of the standard clauses shall be applicable;
+
+(c) Privileges and immunities are granted to experts of the Organization in the interests of the Organization and not for the personal benefit of the individuals themselves. The Organization shall have the right and the duty to waive the immunity of any expert in any case where in its opinion the immunity would impede the course of justice, and it can be waived without prejudice to the interests of the Organization.
+
+2. The privileges, immunities, exemptions and facilities referred to in section 21 of the standard clauses shall also be accorded to any Deputy Director-General of the Organization.
+
+ANNEX XVIII
+
+WORLD TOURISM ORGANIZATION
+
+In their application to the World Tourism Organization (hereinafter referred to as “the Organization”), the standard clauses shall operate subject to the following modifications:
+
+1. Article V and section 25, paragraphs 1 and 2 (I), of article VII of the Convention shall extend to the representatives of Associate Members participating in the work of the Organization in accordance with the Statutes of the World Tourism Organization (hereinafter referred to as “the Statutes”).
+
+2. Representatives of Affiliate Members, participating in the activities of the Organization in accordance with the Statutes, shall be granted:
+
+(a) All facilities in order to safeguard the independent exercise of their official functions;
+
+(b) Maximum expeditiousness in the processing of their applications for visas, where required and when accompanied by a certificate that they are travelling on the business of the Organization. In addition, such persons shall be granted facilities for speedy travel;
+
+(c) In connection with subparagraph (b) above, the principle contained in the last sentence of section 12 of the standard clauses shall apply.
+
+3. Experts, other than officials coming within the scope of article VI of the Convention, serving on organs and bodies of, or performing missions for, the Organization, shall be accorded such privileges and immunities as are necessary for the independent and effective exercise of their functions, including the time spent on journeys in connection with service on organs and bodies or missions. In particular they shall be accorded:
+
+(a) Immunity from personal arrest or seizure of their personal baggage;
+
+(b) In respect of words spoken or written or acts done by them in the performance of their official functions, immunity from legal process of every kind, such immunity to continue notwithstanding that the persons concerned are no longer serving on organs and bodies of, or employed on mission for, the Organization;
+
+(c) Inviolability for all papers and documents relating to the work on which they are engaged for the Organization;
+
+(d) For the purpose of their communications with the Organization, the right to use codes and to receive papers or correspondence by courier or in sealed bags;
+
+(e) The same facilities in respect of currency and exchange restrictions and in respect of their personal baggage as are accorded to officials of foreign Governments on temporary official missions.
+
+4. Privileges and immunities are granted to the experts in the interests of the Organization and not for the personal benefit of the individuals themselves. The Secretary-General of the Organization shall have the right and the duty to waive the immunity of any expert in any case where, in his/her opinion, the immunity would impede the course of justice and it can be waived without prejudice to the interests of the Organization.
+
+5. Notwithstanding paragraph 2 above, paragraphs 3 and 4 above shall apply to representatives of Affiliate Members performing missions for the Organization as experts.
+
+6. The privileges and immunities, exemptions and facilities referred to in section 21 of the standard clauses shall also be accorded to the Deputy Secretary-General of the organization, his/her spouse and minor children.
