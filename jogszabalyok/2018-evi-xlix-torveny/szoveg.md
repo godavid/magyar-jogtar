@@ -11,7 +11,7 @@ Annak érdekében, hogy a központi költségvetési forrásból és európai un
 1. § E törvény alkalmazásában:
 
 - 1. agglomeráció: a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény szerinti Budapesti Agglomerációhoz tartozó települések;
-- 2. Budapest Diákváros – Déli Városkapu Fejlesztési Program: a Kormány által rendeletben meghatározott területen megvalósuló, diákotthoni elhelyezést biztosító, szabadidős, közpark, sport, rekreációs és egyéb infrastrukturális és kiegészítő funkciót magában foglaló komplex városfejlesztés, amelynek részét képezik az 1. mellékletben meghatározott létesítményfejlesztési projektek;
+- 2. Déli Városkapu Fejlesztési Program: a Kormány által rendeletben meghatározott területen megvalósuló, szabadidős, közpark, sport, rekreációs és egyéb infrastrukturális és kiegészítő funkciót magában foglaló komplex városfejlesztés, amelynek részét képezik az 1. mellékletben meghatározott létesítményfejlesztési projektek;
 - 3. kiemelt budapesti fejlesztés: az államháztartás központi alrendszeréből, illetve az európai uniós forrásból finanszírozott, központi költségvetési szervek vagy 100%-ban közvetlen vagy közvetett állami tulajdonban álló gazdasági társaságok által Budapesten megvalósítandó azon közterület-, köztér-, illetve magasépítési ingatlanfejlesztések, valamint Budapesten, illetve az agglomerációban megvalósuló azon vonalas közlekedési infrastruktúrafejlesztések, amelyet a Kormány rendeletében kiemelt budapesti fejlesztéssé nyilvánított;
 - 4.
 
@@ -55,29 +55,29 @@ Annak érdekében, hogy a központi költségvetési forrásból és európai un
 
 (4) Az (1)–(3) bekezdésben meghatározott rendelkezéseket kell megfelelően alkalmazni a 3. § (1) bekezdése szerinti, a magyar állam 100%-os tulajdonában álló nonprofit gazdasági társaság és annak 100%-os tulajdonában álló nonprofit gazdasági társaság közötti szerződés átruházásra is.
 
-### II. Fejezet — A BUDAPEST DIÁKVÁROS – DÉLI VÁROSKAPU FEJLESZTÉSI PROGRAM
+### II. Fejezet — A DÉLI VÁROSKAPU FEJLESZTÉSI PROGRAM
 
-#### 4. A Budapest Diákváros – Déli Városkapu Fejlesztési Program megvalósítása
+#### 4. A Déli Városkapu Fejlesztési Program megvalósítása
 
-7. § (1) A Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében megvalósuló beruházások e törvény erejénél fogva – a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény (a továbbiakban: Ngtv.) szerinti – kiemelten közérdekű beruházásnak, valamint kiemelt budapesti fejlesztésnek minősülnek.
+7. § (1) A Déli Városkapu Fejlesztési Program keretében megvalósuló beruházások e törvény erejénél fogva – a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény (a továbbiakban: Ngtv.) szerinti – kiemelten közérdekű beruházásnak, valamint kiemelt budapesti fejlesztésnek minősülnek.
 
-(2) A Budapest Diákváros – Déli Városkapu Fejlesztési Program tekintetében az I. Fejezetben foglalt rendelkezéseket, valamint az Ngtv. szerinti kiemelten közérdekű beruházásra vonatkozó szabályokat az e törvényben és a felhatalmazása alapján kiadott kormányrendeletekben meghatározott eltérésekkel kell alkalmazni. A Budapest Diákváros – Déli Városkapu Fejlesztési Program helyszínét, illetve szükség szerint közvetlen környezetét jelentő ingatlanok körét a Kormány rendeletben jelöli ki.
+(2) A Déli Városkapu Fejlesztési Program tekintetében az I. Fejezetben foglalt rendelkezéseket, valamint az Ngtv. szerinti kiemelten közérdekű beruházásra vonatkozó szabályokat az e törvényben és a felhatalmazása alapján kiadott kormányrendeletekben meghatározott eltérésekkel kell alkalmazni. A Déli Városkapu Fejlesztési Program helyszínét, illetve szükség szerint közvetlen környezetét jelentő ingatlanok körét a Kormány rendeletben jelöli ki.
 
-8. § A Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében a kivitelezés tekintetében az építtetőt a Kormány határozatban jelöli ki azzal, hogy építtetőként az egyes létesítmény-fejlesztési projektek tekintetében eltérő személyek is kijelölhetők.
+8. § A Déli Városkapu Fejlesztési Program keretében a kivitelezés tekintetében az építtetőt a Kormány határozatban jelöli ki azzal, hogy építtetőként az egyes létesítmény-fejlesztési projektek tekintetében eltérő személyek is kijelölhetők.
 
-9. § A Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében megvalósuló beruházással érintett állami tulajdonú, illetve állami tulajdonba kerülő ingatlanokat a kivitelezés tekintetében a 8. § szerint kijelölt építtető vagyonkezelésébe kell adni. A vagyonkezelési szerződést az érintett ingatlanon történő kivitelezési tevékenység megkezdéséig, a munkaterület vállalkozó kivitelező részére történő átadásáig kell megkötni és az ingatlant eddig az időpontig kell a vagyonkezelő birtokába adni.
+9. § A Déli Városkapu Fejlesztési Program keretében megvalósuló beruházással érintett állami tulajdonú, illetve állami tulajdonba kerülő ingatlanokat a kivitelezés tekintetében a 8. § szerint kijelölt építtető vagyonkezelésébe kell adni. A vagyonkezelési szerződést az érintett ingatlanon történő kivitelezési tevékenység megkezdéséig, a munkaterület vállalkozó kivitelező részére történő átadásáig kell megkötni és az ingatlant eddig az időpontig kell a vagyonkezelő birtokába adni.
 
-#### 5. A Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében megvalósuló építési tevékenység egyes szabályai
+#### 5. A Déli Városkapu Fejlesztési Program keretében megvalósuló építési tevékenység egyes szabályai
 
-10. § (1) A Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében megvalósuló beruházások helyszíneként kijelölt ingatlanok tekintetében árvízvédelmi mű megvalósítása nem képezi az ingatlanokon a létesítendő épületre vonatkozó építési engedély kiadásának feltételét.
+10. § (1) A Déli Városkapu Fejlesztési Program keretében megvalósuló beruházások helyszíneként kijelölt ingatlanok tekintetében árvízvédelmi mű megvalósítása nem képezi az ingatlanokon a létesítendő épületre vonatkozó építési engedély kiadásának feltételét.
 
 (2) Az (1) bekezdés szerinti ingatlanokon létesítendő épületre vonatkozó építési engedély kiadása során árvízvédelmi szempontokat nem kell figyelembe venni, és az építési engedély kiadása árvízvédelemmel összefüggő ok miatt nem tagadható meg. A használatbavételi engedély feltétele a fejlesztési területen megvalósított, a mértékadó árvízszintre vonatkozó jogszabályban meghatározott biztonsági követelményeknek megfelelő árvízvédelmi mű sikeres műszaki átadás-átvételi eljárásának lefolytatása.
 
-(3) A Budapest Diákváros – Déli Városkapu Fejlesztési Program fejlesztési területét érintő árvízvédelmi műveknek – a Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében megvalósuló beruházások részeként történő – elkészültét követően, a fejlesztési terület árvízvédelméért felelős szervei intézkednek az árvízvédelmi vonalnak az árvízvédelmi mű megvalósításának tárgyát képező ingatlanokra történő áthelyezéséről. Az elkészült árvízvédelmi műveket az árvízi védekezésért felelős szervek részére ingyenesen tulajdonba vagy határozatlan időre a vagyonkezelésébe vagy a versenyeztetés mellőzésével ingyenesen üzemeltetésbe kell adni. Az árvízvédelmi mű árvízvédelmi fal vagy mobil árvízvédelmi rendszer formájában is létesíthető.
+(3) A Déli Városkapu Fejlesztési Program fejlesztési területét érintő árvízvédelmi műveknek – a Déli Városkapu Fejlesztési Program keretében megvalósuló beruházások részeként történő – elkészültét követően, a fejlesztési terület árvízvédelméért felelős szervei intézkednek az árvízvédelmi vonalnak az árvízvédelmi mű megvalósításának tárgyát képező ingatlanokra történő áthelyezéséről. Az elkészült árvízvédelmi műveket az árvízi védekezésért felelős szervek részére ingyenesen tulajdonba vagy határozatlan időre a vagyonkezelésébe vagy a versenyeztetés mellőzésével ingyenesen üzemeltetésbe kell adni. Az árvízvédelmi mű árvízvédelmi fal vagy mobil árvízvédelmi rendszer formájában is létesíthető.
 
-(4) Az (1) bekezdés szerinti árvízvédelmi mű elkészültéig és az árvízvédelmi vonal (3) bekezdés szerinti áthelyezéséig árvíz esetén az árvízi védekezésért felelős személy a 2. mellékletben meghatározott terület vonalán védekezik. Az árvízi védekezés és helyreállítás összes költségét – az árhullám levonulását követő 90 napon belül – védekezési költség címén az árvízi védekezésért felelős személy részére meg kell téríteni. A Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében megvalósuló beruházások tekintetében a folyók nagyvízi medrének használatára vonatkozó jogszabályi előírások és korlátozások nem alkalmazandók.
+(4) Az (1) bekezdés szerinti árvízvédelmi mű elkészültéig és az árvízvédelmi vonal (3) bekezdés szerinti áthelyezéséig árvíz esetén az árvízi védekezésért felelős személy a 2. mellékletben meghatározott terület vonalán védekezik. Az árvízi védekezés és helyreállítás összes költségét – az árhullám levonulását követő 90 napon belül – védekezési költség címén az árvízi védekezésért felelős személy részére meg kell téríteni. A Déli Városkapu Fejlesztési Program keretében megvalósuló beruházások tekintetében a folyók nagyvízi medrének használatára vonatkozó jogszabályi előírások és korlátozások nem alkalmazandók.
 
-11. § A Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében megvalósuló beruházásokkal összefüggő, közműszakasz bontására, kiváltására vagy fejlesztésére irányuló munkákat az Ngtv. 11/F. § (2)–(7) bekezdésében foglaltak alapján kell elvégezni és elszámolni.
+11. § A Déli Városkapu Fejlesztési Program keretében megvalósuló beruházásokkal összefüggő, közműszakasz bontására, kiváltására vagy fejlesztésére irányuló munkákat az Ngtv. 11/F. § (2)–(7) bekezdésében foglaltak alapján kell elvégezni és elszámolni.
 
 11/A. § (1) Az 1. melléklet 3. pontja szerinti létesítményfejlesztési projekt vonatkozásában a fás szárú növények védelméről szóló kormányrendelet és a települési önkormányzat fák és fás szárú növények védelmére vonatkozó rendeletének fás szárú növények pótlására vonatkozó szabályait – az érintett terület ökológiai állapotának fenntartása és javítása érdekében – a (2)–(7) bekezdésben foglalt eltéréssel kell alkalmazni.
 
@@ -93,9 +93,9 @@ Annak érdekében, hogy a központi költségvetési forrásból és európai un
 
 (7) A fakivágási engedélyben, illetve az (5) bekezdés szerinti megállapodásban előírt fapótlást folyamatosan, de legkésőbb a használatbavételi engedély véglegessé válását követő két éven belül kell teljesíteni.
 
-#### 6. A Budapest Diákváros – Déli Városkapu Fejlesztési Programmal összefüggő kisajátítások sajátos szabályai
+#### 6. A Déli Városkapu Fejlesztési Programmal összefüggő kisajátítások sajátos szabályai
 
-12. § (1) A Budapest Diákváros – Déli Városkapu Fejlesztési Program megvalósításához szükséges, a Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében megvalósuló beruházások helyszíneként kijelölt ingatlanok állam javára polgári jogi úton való megszerzése sikertelenségét követően indult kisajátítási eljárásban a kisajátításról szóló 2007. évi CXXIII. törvény (a továbbiakban: Kstv.) rendelkezéseit a (2) és (3) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+12. § (1) A Déli Városkapu Fejlesztési Program megvalósításához szükséges, a Déli Városkapu Fejlesztési Program keretében megvalósuló beruházások helyszíneként kijelölt ingatlanok állam javára polgári jogi úton való megszerzése sikertelenségét követően indult kisajátítási eljárásban a kisajátításról szóló 2007. évi CXXIII. törvény (a továbbiakban: Kstv.) rendelkezéseit a (2) és (3) bekezdésben meghatározott eltérésekkel kell alkalmazni.
 
 (2) Az ingatlan kisajátítására a Kstv.-nek a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházásra vonatkozó szabályait kell alkalmazni.
 
@@ -223,7 +223,7 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 
 - a) a kiemelt budapesti fejlesztésnek minősülő beruházások körét és a kiemelt budapesti fejlesztések előkészítése során ellátandó egyes feladatokat,
 - b) a Budapest és a fővárosi agglomeráció fejlesztéséért felelős miniszter, illetve a Társaság kiemelt budapesti fejlesztések előkészítésével és megvalósításuk felügyeletével kapcsolatos feladatait, a Társaság feladataiban közreműködő szerveket, valamint az érintett szervezetek közötti együttműködés rendjét,
-- c) a Budapest Diákváros – Déli Városkapu Fejlesztési Program megvalósításának helyszíneként, illetve szükség szerint közvetlen környezeteként kijelölt ingatlanok körét,
+- c) a Déli Városkapu Fejlesztési Program megvalósításának helyszíneként, illetve szükség szerint közvetlen környezeteként kijelölt ingatlanok körét,
 - d)
 - e) a 3. § (1) bekezdése szerinti Társaságot,
 - f) a kormánybiztos irányítása alatt álló kiemelt budapesti fejlesztések körét, valamint a beruházásirányítási jog tartalmát,
@@ -274,16 +274,16 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 
 ### 1. melléklet a 2018. évi XLIX. törvényhez
 
-#### A Budapest Diákváros – Déli Városkapu Fejlesztési Program részét képező létesítményfejlesztési projektek
+#### A Déli Városkapu Fejlesztési Program részét képező létesítményfejlesztési projektek
 
-- 1. Budapesti Xtrém Szabadidő Park, amely magába foglalja a kajak-kenu szlalompályákat, a BMX pályákat, teniszpályákat, az ezekhez tartozó klubházat, valamint egyéb kapcsolódó létesítményt, infrastruktúrát, továbbá a környezetrendezést,
+- 1. Új Csepeli Közpark, ennek keretében az ütemezetten megvalósuló Budapesti Xtrém Szabadidő Park, amely magába foglalja a kajak-kenu szlalompályákat, a BMX-pályákat, az ezekhez tartozó klubházat, valamint egyéb kapcsolódó létesítményt, infrastruktúrát, továbbá a környezetrendezést,
 - 2. Dunai Evezős Központ, amely magába foglalja az evezős pályát és klubházat, céltornyot, lelátót, hajótárolót, az ezekhez kapcsolódó gyalogos és kerékpáros hidat, illetve egyéb kapcsolódó létesítményt, infrastruktúrát, továbbá a környezetrendezést,
-- 3. Budapesti Atlétikai Stadion, szabadtéri edzőpályák, fedett pályás atlétikai edzőcsarnok, valamint az ezek összeköttetését biztosító gyalogos és kerékpáros hidak, illetve egyéb kapcsolódó létesítmény, infrastruktúra, valamint környezetrendezés,
-- 4. a Ráckevei (Soroksári) Duna-ág – a Kvassay Jenő út – a Soroksári út – a Galvani utca és Illatos út vonalában megépítendő Új Duna-híd által határolt területen, több ütemben megvalósuló, mintegy 8500 férőhelyes kollégiumi, sport, rekreációs, egyéb kapcsolódó infrastrukturális, valamint kiegészítő funkciókat, továbbá a műemléki védelem alatt álló Nagyvásárcsarnok épületegyüttesének felújítását és integrálását is magába foglaló új városnegyed (Budapest Diákváros).
+- 3. Ferencvárosi Szabadidő- és Sportpark, ennek részeként a Budapesti Atlétikai Stadion, annak épületében kialakításra kerülő óvoda, szabadtéri edzőpályák, fedett pályás atlétikai edzőcsarnok, valamint az ezek összeköttetését biztosító gyalogos és kerékpáros hidak, kapcsolódó sport- és rekreációs létesítmények, a területen található műemléki épületek felújítása és funkcióváltása, illetve egyéb kapcsolódó létesítmény, infrastruktúra, valamint környezetrendezés.
+- 4.
 
 ### 2. melléklet a 2018. évi XLIX. törvényhez
 
-#### A Budapest Diákváros – Déli Városkapu Fejlesztési Programmal összefüggő árvízvédelmi vonal
+#### A Déli Városkapu Fejlesztési Programmal összefüggő árvízvédelmi vonal
 
 |  | A | B | C |
 | --- | --- | --- | --- |
