@@ -65,6 +65,8 @@ kell alkalmazni.
 
 (5) A Ptk. hatálybalépésekor működő, a Polgári Törvénykönyvről szóló 1959. évi IV. törvényben nevesített állami vállalat, tröszt, egyéb állami gazdálkodó szerv, egyes jogi személyek vállalata, valamint a leányvállalat a 2014. március 14-én hatályos, rá vonatkozó jogszabályok szerint működhet tovább, azonban ilyen típusú jogi személyek nem alapíthatóak. A közös vállalatra a gazdasági társaságokról szóló 2006. évi IV. törvény (a továbbiakban: Gt.) 2014. március 14-én hatályos 333. § (7) bekezdését kell alkalmazni.
 
+9/A. § A Ptk. 3:21. § (2) bekezdése tekintetében, ha a közfeladatot ellátó közérdekű vagyonkezelő alapítványt és a közérdekű vagyonkezelő alapítványt (a továbbiakban együtt: közérdekű alapítvány) alapító vagy a közérdekű alapítványhoz csatlakozó jogi személy vezető tisztségviselői a vagyonjuttatás tekintetében hatáskörükben, a rájuk vonatkozó eljárási szabályok betartásával járnak el, a vagyonjuttatást a jogi személy érdekében állónak kell tekinteni.
+
 10. § (1) Az e fejezetben foglalt kötelezettség nem terheli a Ptk. hatálybalépésekor jogutód nélküli megszűnési eljárás alatt álló jogi személyt, továbbá azt, amely a hatálybalépést követően kerül jogutód nélküli megszűnési eljárás alá, feltéve, hogy a jogi személyt a nyilvántartásból törlik.
 
 (2) Ha az (1) bekezdés szerinti eljárásban a jogi személy törlésére nem került sor, és az e fejezetben rá irányadó határidő már eltelt, a jogi személy a továbbműködésével összefüggő kötelezettségeit a megszűnési eljárás jogerős befejezésétől számított harminc napon belül köteles teljesíteni.
