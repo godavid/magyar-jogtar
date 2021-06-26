@@ -1332,6 +1332,13 @@ jár el.
 - a) az intézménynek és az 1. § (1) bekezdés b) és c) pontja szerinti szervezetnek az 575/2013/EU rendelet 92. cikk (3) bekezdésével összhangban kiszámított teljes kockázati kitettség értéke; és
 - b) az intézménynek és az 1. § (1) bekezdés b) és c) pontja szerinti szervezetnek az 575/2013/EU rendelet 429. és 429a. cikkével összhangban számított teljes kitettség mértéke.
 
+(3) Ha a befektetési vállalkozás nem minősül az (EU) 2019/2033 rendelet 1. cikk (2) vagy (5) bekezdésében említett befektetési vállalkozásnak, akkor az egyedi szavatoló tőkével kapcsolatos, az 575/2013/EU rendelet 92. cikkére történő hivatkozások az alábbiak szerint értelmezendőek:
+
+- a) az 575/2013/EU rendelet 92. cikk (1) bekezdés c) pontjára történő hivatkozás az (EU) 2019/2033 rendelet 11. cikk (1) bekezdésre történő hivatkozásként értelmezendő,
+- b) az 575/2013/EU rendelet 92. cikk (3) bekezdésre történő hivatkozás az (EU) 2019/2033 rendelet 11. cikk (1) bekezdésében meghatározott alkalmazandó követelmény és 12,5 szorzatára történő hivatkozásként értelmezendő.
+
+(4) Ha a befektetési vállalkozás nem minősül az (EU) 2019/2033 rendelet 1. cikk (2) vagy (5) bekezdésében említett befektetési vállalkozásnak, akkor a többlettőke-követelményre történő hivatkozást a Bszt.-ben meghatározottak szerint kell értelmezni.
+
 #### 63. §
 
 #### 64. §
@@ -3100,7 +3107,7 @@ való megfelelést szolgálja.
 
 (2) Ez a törvény
 
-- a) a hitelintézetekre és a befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendeletnek, és
+- a) a hitelintézetekre vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendeletnek, és
 - b) az 575/2013/EU rendeletnek a tőkeáttételi mutató, a nettó stabil forrásellátottsági ráta, a szavatolótőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó követelmények, a partnerkockázat, a piaci kockázat, a központi szerződő felekkel szembeni kitettségek, a kollektív befektetési formákkal szembeni kitettségek, a nagykockázat-vállalások és az adatszolgáltatási és nyilvánosságra hozatali követelmények tekintetében történő módosításáról, valamint a 648/2012/EU rendelet módosításáról szóló, 2019. május 20-i (EU) 2019/876 európai parlamenti és tanácsi rendeletnek
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.

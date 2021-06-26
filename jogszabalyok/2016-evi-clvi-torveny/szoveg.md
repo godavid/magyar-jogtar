@@ -230,14 +230,14 @@ díjmentesen igényelheti.
 - a) a tárhelyszolgáltatónál tárolt adatokban informatikai eszköz útján keresést végezhet és a keresés eredményeként azt az információt ismerheti meg, hogy az általa megadott keresési feltételek szerinti személy mely szálláshely-szolgáltatónál szerepel igénybe vevőként, továbbá
 - b) – az adatkérés céljának megjelölésével – a szálláshely-szolgáltató által kezelt adat továbbítását kérheti, amelyet a szálláshely-szolgáltató térítésmentesen teljesít.
 
-9/I. § (1) A turisztikai szolgáltató a Kormány rendeletében meghatározott műszaki előírásoknak megfelelő olyan szálláshelykezelő szoftvert alkalmaz, amely alkalmas arra, hogy
+9/I. § (1) A szálláshely-szolgáltató a Kormány rendeletében meghatározott műszaki előírásoknak megfelelő olyan szálláshelykezelő szoftvert alkalmaz, amely alkalmas arra, hogy
 
 - a) a 9/B. § (1) bekezdésében meghatározott adatokat a Nemzeti Turisztikai Adatszolgáltató Központ részére és
 - b) a 9/H. § (1) bekezdésében meghatározott adatokat a tárhelyre
 
 továbbítsa.
 
-(2) A Magyar Turisztikai Ügynökség Zrt. az (1) bekezdés szerinti szoftvert térítésmentesen biztosítja az olyan szálláshely-szolgáltatónak, aki legfeljebb nyolc szobát tizenhat férőhellyel hasznosít szálláshelyként. Az e bekezdés szerinti szálláshely-szolgáltató az e törvényben meghatározott adatnyilvántartási és adattovábbítási kötelezettsége teljesítéséhez köteles az Magyar Turisztikai Ügynökség Zrt. által ingyenesen biztosított szoftvert használni.
+(2) A Magyar Turisztikai Ügynökség Zrt. az (1) bekezdés szerinti szoftvert térítésmentesen biztosítja az olyan szálláshely-szolgáltatónak, aki legfeljebb nyolc szobát tizenhat férőhellyel hasznosít szálláshelyként.
 
 (3) A szálláshely-szolgáltató a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti vendégkönyv és a helyi önkormányzat idegenforgalmi adót meghatározó rendelete szerinti nyilvántartás elektronikus vezetését a szálláshelykezelő szoftver alkalmazásával is teljesítheti.
 
@@ -275,9 +275,9 @@ rendeletben határozza meg.
 
 (5) A szálláshely-szolgáltató a 9/H. § szerinti, a tárhelyszolgáltató által biztosított tárhelyhez történő csatlakozási folyamatát 2021. január 1. napjától köteles megkezdeni.
 
-(6) A szálláshely-szolgáltató a 9/H. § (1) bekezdés szerinti adatok továbbítására 2021. április 1. napjától köteles.
+(6) A szálláshely-szolgáltató a 9/H. § (1) bekezdés szerinti adatok továbbítására 2021. szeptember 1. napjától köteles.
 
-(7) Az (5) bekezdés szerinti csatlakozás elmulasztása esetén a kereskedelmi hatóság 2021. április 1. napját követően a kereskedelemről szóló 2005. évi CLXIV. törvény 6/D. §-a szerinti jogkövetkezményeket alkalmaz.
+(7) Az (5) bekezdés szerinti csatlakozás elmulasztása esetén a kereskedelmi hatóság 2021. szeptember 1. napját követően a kereskedelemről szóló 2005. évi CLXIV. törvény 6/D. §-a szerinti jogkövetkezményeket alkalmaz.
 
 #### 10. Az Európai Unió jogának való megfelelés
 

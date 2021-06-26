@@ -89,7 +89,7 @@ végez befektetési szolgáltatási tevékenységet,
 
 3. § (1) A 8. §, a 13. §, a 17. § (3)–(5) bekezdése, a 20/A–20/B. §, a 22. §, a 24–24/G. §, a 26/A. §, a 27–31. §, a 37–39. §, a 97–107. §, a 110/A–110/Q. §, a 121. §, a 123. § (8)–(9) bekezdése, a 123/A. §, a 124–141. §, a 155–170. § és a 172–175. § kivételével a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni a Magyar Nemzeti Banknak (a továbbiakban: MNB) az MNB tv.-ben meghatározott alapvető feladatain kívül végzett befektetési szolgáltatási tevékenységére és kiegészítő szolgáltatás nyújtására.
 
-(2) Ha e törvény eltérően nem rendelkezik, a befektetési szolgáltatási tevékenységet végző vagy kiegészítő szolgáltatást nyújtó hitelintézetre – a 8. § (5) bekezdése, a 13. §, a 15–17. §, a 19/A–20/B. §, a 21/A. §, a 22. § (1)–(3) bekezdése, a 22/A. §, a 24/A–24/G. §, 25. § (1) bekezdése, a 26/A. §, a 37. §, a 37/A. § (1)–(6) bekezdése, a 37/B–39. §, a 60. §, a 78. § (2a) bekezdése, a 97–106. §, a XX/A. Fejezet, a 121. §, a 123. § (8) és (9) bekezdése, a 123/A. §, a 124–127. § (1) és (2) bekezdése, a 128–135. §, a 136. § (5) bekezdése, a 137–139. §, a 162–163/B. §, a 164. § (1) bekezdés v) pontja, a 164. § (7) és (8) bekezdése, valamint a 4. melléklet kivételével – a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni, azzal, hogy ahol a rendelkezés befektetési vállalkozást említ, ott hitelintézetet is kell érteni.
+(2) Ha e törvény eltérően nem rendelkezik, a befektetési szolgáltatási tevékenységet végző vagy kiegészítő szolgáltatást nyújtó hitelintézetre – a 8. § (5) bekezdése, a 8/A. §, a 13. §, a 15–17. §, a 19/A–20/B. §, a 21/A. §, a 22. § (1)–(3) bekezdése, a 22/A. §, a 24/A–24/G. §, 25. § (1) bekezdése, a 26/A. §, a 31/A. §-a, a 37. §, a 37/A. § (1)–(6) bekezdése, a 37/B–39. §, a 60. §, a 78. § (2a) bekezdése, a 97–107. §, a 121. §, a 123. § (8) és (9) bekezdése, a 123/A. §, a 124–127. § (1) és (2) bekezdése, a 128–135. §, a 136. § (5) bekezdése, a 137–139. §, a 161/A–161/D. §, a 162–163/C. §, a 164. § (1) bekezdés v) pontja, a 164. § (7) és (8) bekezdése, valamint a 4. melléklet kivételével – a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni, azzal, hogy ahol a rendelkezés befektetési vállalkozást említ, ott hitelintézetet is kell érteni.
 
 (3) A Kbftv. szerinti befektetési alapkezelő a Kbftv.-ben meghatározott körben befektetési szolgáltatási tevékenységet végezhet és kiegészítő szolgáltatást nyújthat, azzal, hogy e tevékenysége, illetve szolgáltatása tekintetében – a 28. § (1) bekezdés y) pontja kivételével – a VII. Fejezetben, – a 73–78. § kivételével – a Negyedik Részben, valamint – a 123/A. § kivételével – a XXI. Fejezetben, továbbá – a 124–139. § kivételével – a XXII. Fejezetben a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni.
 
@@ -99,6 +99,8 @@ végez befektetési szolgáltatási tevékenységet,
 - b) a Magyar Államkincstárnak (a továbbiakban: kincstár) az állam által kibocsátott hitelviszonyt megtestesítő értékpapírok tekintetében végzett
 
 befektetési szolgáltatási tevékenységére és kiegészítő szolgáltatás nyújtására.
+
+(5) A 8/A. §-t és a 107. §-t nem kell alkalmazni a hitelintézetekre vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 575/2013/EU rendelet) 4. cikk (1) bekezdés 150. pontjában meghatározott árutőzsdei kereskedőkre és kibocsátásiegység-kereskedőkre, a biztosítókra és a befektetési alapkezelőkre.
 
 3/A. § (1) Minden multilaterális rendszert, amelyen pénzügyi eszközökkel kereskednek
 
@@ -110,6 +112,24 @@ szerint kell működtetni, valamint a pénzügyi eszközök piacairól és a 648
 (2) Minden olyan befektetési vállalkozást, amely szervezett, gyakori és rendszeres formában, jelentős nagyságrendben, az ügyfélmegbízások végrehajtásakor saját számlás kereskedést folytat szabályozott piacon, multilaterális kereskedési rendszeren vagy szervezett kereskedési rendszeren kívül, a 600/2014/EU rendelet III. címével összhangban kell működtetni.
 
 (3) A 600/2014/EU rendelet 23. és 28. cikkének sérelme nélkül, az (1) és (2) bekezdésben említett pénzügyi eszközökkel végrehajtott minden olyan ügyletnek, amely nem multilaterális rendszeren vagy rendszeres internalizálón keresztül jön létre, meg kell felelnie a 600/2014/EU rendelet III. címében foglalt vonatkozó rendelkezéseknek.
+
+3/B. § (1) A kis méretű és össze nem kapcsolt befektetési vállalkozásra – a 17. §-ban, a 19/A. §-ban, a 20/A. §-ban, a 21/A. § (2)–(4) bekezdésében, a 101. § (2), (4)–(9) bekezdésében, a 123/A. § (1) és (2) bekezdésében, valamint a 4. mellékletben meghatározott rendelkezések kivételével – a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni.
+
+(2) A 162. §-ban a befektetési vállalkozásra előírt rendelkezések kis méretű és össze nem kapcsolt befektetési vállalkozásra való alkalmazásáról a Felügyelet eseti alapon, az arányosság elve (a befektetési vállalkozás mérete, tevékenységeinek jellege, nagyságrendje, összetettsége) alapján dönt.
+
+(3) A Felügyelet a 106. § (1) és (2) bekezdésében foglaltak arányos betartására kötelezheti a kis méretű és össze nem kapcsolt befektetési vállalkozást, ha a piaci részesedése vagy az egy üzleti év alatt elért mérlegfőösszeg növekedése alapján indokoltnak látja.
+
+(4) Olyan befektetési vállalkozás esetében, amely korábban nem teljesítette a befektetési vállalkozásokra vonatkozó prudenciális követelményekről, valamint az 1093/2010/EU, az 575/2013/EU, a 600/2014/EU és a 806/2014/EU rendelet módosításáról szóló, 2019. november 27-i (EU) 2019/2033 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2019/2033 rendelet] 12. cikk (1) bekezdésében meghatározott összes feltételt, valamely időponttól kezdve teljesíti azokat, az (1) bekezdésben foglalt rendelkezés a feltételek teljesítésének kezdőnapjától számított hat hónap elteltével alkalmazandó. Az (1) bekezdésben foglalt rendelkezés csak akkor alkalmazandó az említett időszak elteltével, ha annak során a befektetési vállalkozás megszakítás nélkül megfelelt az (EU) 2019/2033 rendelet 12. cikk (1) bekezdésében meghatározott feltételeknek, és erről értesítette a Felügyeletet.
+
+(5) Ha egy kis méretű és össze nem kapcsolt befektetési vállalkozás megállapítja, hogy már nem teljesíti az (EU) 2019/2033 rendelet 12. cikk (1) bekezdésében meghatározott összes feltételt, erről értesíti a Felügyeletet, és az értékelés meg nem felelése megállapításának napjától számított 12 hónapon belül a befektetési vállalkozásra előírt követelményeket teljeskörűen kell teljesítenie.
+
+(6) A befektetési vállalkozás alkalmazza a 4. melléklet teljesítményjavadalmazásra vonatkozó rendelkezéseit az (5) bekezdés szerinti értékelés pénzügyi évét követő pénzügyi évben nyújtott szolgáltatásokért, illetve teljesítményért járó javadalmazásra.
+
+3/C. § (1) Az (EU) 2019/2033 rendelet 8. cikke szerinti csoporttőke-tesztet alkalmazó befektetési vállalkozás a belső irányításra, átláthatóságra, a kockázatok kezelésére és a javadalmazásra vonatkozó rendelkezéseket egyedi alapon alkalmazza.
+
+(2) Az (EU) 2019/2033 rendelet 7. cikke szerinti prudenciális konszolidációt alkalmazó befektetési vállalkozás a belső irányításra, átláthatóságra, a kockázatok kezelésére és a javadalmazásra vonatkozó rendelkezéseket egyedi és összevont alapon alkalmazza.
+
+(3) A (2) bekezdéstől eltérően, a belső irányításra, átláthatóságra, a kockázatok kezelésére és a javadalmazásra vonatkozó rendelkezések nem alkalmazandóak az összevont alapú felügyelet alá tartozó harmadik országbeli leányvállalatokra, ha a magyarországi székhelyű befektetési vállalkozás anyavállalat bizonyítani tudja a Felügyelet számára, hogy a belső irányításra, átláthatóságra, a kockázatok kezelésére és a javadalmazásra vonatkozó rendelkezések alkalmazása jogellenes lenne azon harmadik ország jogszabályai szerint, amelyben az adott leányvállalat letelepedett.
 
 ### II. Fejezet — ÉRTELMEZŐ RENDELKEZÉSEK
 
@@ -125,7 +145,7 @@ szerint kell működtetni, valamint a pénzügyi eszközök piacairól és a 648
 
 használnak,
 
-- 1a. anticiklikus tőkepufferráta: a befektetési vállalkozás tevékenységéhez kapcsolódó prociklikusság csökkentését célzó tőkepuffer-követelmény meghatározásához alkalmazott arányszám, amelyet a befektetési vállalkozás a kitettségeihez kapcsolódó felek vonatkozásában alkalmaz azok földrajzi elhelyezkedése alapján;
+- 1a.
 - 1b. anyavállalat: az Szmt.-ben meghatározott vállalkozás,
 - 1c. APA: jóváhagyott közzétételi mechanizmus, azaz olyan szolgáltatás nyújtására engedéllyel rendelkező személy, aki vagy amely a befektetési vállalkozások nevében közzéteszi – a 600/2014/EU rendelet 20. és 21. cikke alapján – a kereskedési jelentéseket,
 - 1d. ARM: jóváhagyott jelentési mechanizmus, azaz olyan szolgáltatás nyújtására engedéllyel rendelkező személy, aki vagy amely a befektetési vállalkozások nevében bejelenti az ügyletek adatait a Felügyeletnek vagy az Európai Értékpapír-piaci Hatóságnak,
@@ -141,6 +161,7 @@ használnak,
 - 3. árjegyző: az a saját számlás kereskedést folytató személy, amely egy pénzügyi eszközre folyamatos vételi és eladási kötelezettséget vállal az általa meghatározott árakon,
 - 4. áru: a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendeletében meghatározott fogalom,
 - 4a. árualapú származtatott termék: a 600/2014/EU rendelet 2. cikke (1) bekezdésének 30. pontjában meghatározott termék,
+- 4b. árutőzsdei kereskedő és kibocsátásiegység-kereskedő: az 575/2013/EU rendelet 4. cikk (1) bekezdés 150. pontjában meghatározott fogalom,
 - 5. átruházható értékpapír: a tőkepiacon forgalomképes értékpapír a fizetőeszköz kivételével,
 - 6. azonosító adatok:
   - a) természetes személy azonosító adatai: természetes személyazonosító adatok, állampolgárság, lakcím, személyazonosság igazolására alkalmas hatósági igazolvány típusa és száma;
@@ -149,11 +170,15 @@ használnak,
 - 8. befektetési elemzés: pénzügyi eszközre vagy annak kibocsátójára vonatkozó, a Tpt. szerinti befektetési ajánlás, ide nem értve a befektetési tanácsadást,
 - 9. befektetési tanácsadás: pénzügyi eszközre vonatkozó ügylethez kapcsolódó, személyre szóló ajánlás nyújtása, ide nem értve a nyilvánosság számára közölt tény, adat, körülmény, tanulmány, riport, elemzés és hirdetés közzétételét, továbbá a befektetési vállalkozás által az ügyfél részére adott, e törvény szerinti előzetes és utólagos tájékoztatást,
 - 10. befektetési vállalkozás: az, aki e törvény szerinti, tevékenység végzésére jogosító engedély alapján, harmadik személy részére, ellenérték fejében, rendszeres gazdasági tevékenysége keretében befektetési szolgáltatást nyújt vagy befektetési tevékenységet végez, ide nem értve a 3. §-ban meghatározottakat,
+- 10a. befektetési vállalkozás-csoport: az (EU) 2019/2033 rendelet 4. cikk (1) bekezdés 25. pontjában meghatározott fogalom,
+- 10b. befektetési holding társaság: az (EU) 2019/2033 rendelet 4. cikk (1) bekezdés 23. pontjában meghatározott fogalom,
 - 11. minősített befolyás: a Hpt.-ben befolyásoló részesedésként meghatározott fogalom,
 - 11a. certifikát: a 600/2014/EU rendelet 2. cikk (1) bekezdés 27. pontjában meghatározott fogalom,
 - 11b. C6. származtatott energiaügylet: a 6. § f) pontjában említett olyan opció, határidős ügylet, swapügylet és bármely más származtatott ügylet, amely szénre vagy olajra vonatkozik, amellyel OTF-en kereskednek, és amelyeket természetben kell kiegyenlíteni,
 - 11c. CTP: összesítettadat-szolgáltató, azaz olyan szolgáltatás nyújtására engedéllyel rendelkező személy, aki vagy amely összegyűjti a szabályozott piacokról, az MTF-ektől, az OTF-ektől és az APA-któl (jóváhagyott közzétételi mechanizmusok) a 600/2014/EU rendelet 6., 7., 10., 12., 13., 20. és 21. cikkében felsorolt pénzügyi eszközökről szóló kereskedési jelentéseket, és azokat olyan, folyamatos és élő elektronikus adatfolyamba vonja össze, amely pénzügyi eszközönként árfolyam- és volumenadatokat biztosít,
 - 12. csereügylet (swap): valamely pénzügyi eszköz cseréjére vonatkozó olyan összetett megállapodás, amely általában egy azonnali és egy határidős adásvételi ügyletből, illetve több határidős ügyletből tevődik össze és általában jövőbeni pénzáramlások cseréjét vonja maga után,
+- 12a. csoportfelügyeleti hatóság: az EU-szintű befektetési vállalkozás anyavállalat, az EU-szintű befektetési holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat által ellenőrzött befektetési vállalkozás csoporttőke-tesztnek való megfelelésének felügyeletére hatáskörrel rendelkező felügyeleti hatóság,
+- 12b. csoporttőke-tesztnek való megfelelés: a befektetési vállalkozás-csoport anyavállalatának megfelelése az (EU) 2019/2033 rendelet 8. cikke szerinti követelményeknek,
 - 13. dotációs tőke: a fióktelep létesítéséhez és működéséhez az alapító által tartósan, korlátlanul, tehermentesen a fióktelep szabad rendelkezésére bocsátott tőke,
 - 14. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam,
 - 15. EGT-állambeli befektetési vállalkozás anyavállalat: olyan befektetési vállalkozás, amely befektetési vállalkozásban, hitelintézetben vagy pénzügyi vállalkozásban ellenőrző befolyással vagy részesedési viszonnyal rendelkezik, és a székhelye szerinti EGT-államban székhellyel rendelkező hitelintézet, befektetési vállalkozás vagy pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal nem rendelkezik benne,
@@ -164,9 +189,9 @@ használnak,
 - 19. ellenőrző befolyás: a Hpt.-ben meghatározott fogalom,
 - 20. első számú vezető: a befektetési vállalkozás vezető állású személyei közül az a személy, akit a befektetési vállalkozás létesítő okirata ilyenként határoz meg,
 - 21.
-- 22. EU-szintű anyavállalat: a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 575/2013/EU rendelet) ekként meghatározott fogalom,
-- 23. EU-szintű pénzügyi holding társaság anyavállalat az 575/2013/EU rendeletben ekként meghatározott fogalom,
-- 23a. EU-szintű vegyes pénzügyi holding társaság anyavállalat az 575/2013/EU rendeletben ekként meghatározott fogalom,
+- 22. EU-szintű befektetési vállalkozás anyavállalat: az (EU) 2019/2033 rendelet 4. cikk (1) bekezdés 56. pontjában meghatározott EU-szintű befektetési vállalkozás anyavállalat,
+- 23. EU-szintű befektetési holding társaság anyavállalat: az (EU) 2019/2033 rendelet 4. cikk (1) bekezdés 57. pontjában meghatározott EU-szintű befektetési vállalkozás anyavállalat,
+- 23a. EU-szintű vegyes pénzügyi holding társaság anyavállalat: az (EU) 2019/2033 rendelet 4. cikk (1) bekezdés 58. pontjában meghatározott EU-szintű befektetési vállalkozás anyavállalat,
 - 23b. értékpapír-finanszírozási ügylet: az értékpapír-finanszírozási ügyletek és az újrafelhasználás átláthatóságáról, valamint a 648/2012/EU rendelet módosításáról szóló (EU) 2015/2365 európai parlamenti és tanácsi rendelet 3. cikk 11. pontja szerint meghatározott fogalom,
 - 24. értékpapír-kölcsönzés: értékpapír tulajdonjogának olyan átruházása, amelynek keretében a kölcsönbeadó a kölcsönbevevő részére azzal a kötelezettséggel ruház át értékpapírt, hogy a kölcsönbevevő köteles azonos darabszámú és azonos sorozatú értékpapírt egy, a szerződésben vagy a kölcsönbeadó által meghatározott jövőbeni időpontban visszaadni a kölcsönbeadó vagy az általa megjelölt harmadik személy részére,
 - 25. értékpapír letéti számla: az ügyfél számára vezetett, az ügyféltől letéti őrzésre átvett értékpapír nyilvántartására szolgáló számla,
@@ -179,7 +204,7 @@ használnak,
 - 30a. függő ügynök: az a természetes személy vagy jogi személy, amely az általa képviselt befektetési vállalkozás teljes körű és feltétel nélküli felelősségére segíti elő a befektetési szolgáltatási tevékenység végzését vagy kiegészítő szolgáltatás nyújtását az ügyfél vagy a jövőbeni ügyfél számára,
 - 31. harmadik ország: az az ország, amely nem minősül EGT-államnak,
 - 31a. harmadik országbeli vállalkozás: olyan vállalkozás, amely befektetési szolgáltatási tevékenységet végző vagy kiegészítő szolgáltatást nyújtó hitelintézetnek, befektetési vállalkozásnak minősülne, ha központi ügyviteli helye vagy létesítő okirat szerinti székhelye valamely EGT-államban lenne,
-- 32. induló tőke: az alapításkori jegyzett tőke, a tőketartalék és az eredménytartalék összege,
+- 32. indulótőke: a 13. §-ban meghatározott alapításkori induló tőke, amely az (EU) 2019/2033 rendelet 9. cikke szerinti elemekből áll,
 - 33. jegyzési garanciavállalás: az értékpapír saját számlára történő lejegyzésére, illetve megvásárlására vonatkozó kötelezettségvállalás vagy a jegyzés vagy eladás meghiúsulásának elkerülése érdekében szerződésben vállalt mennyiségű értékpapír lejegyzésére, illetőleg megvásárlására vonatkozó kötelezettségvállalás,
 - 33a. jó üzleti hírnév: a befektetési vállalkozás vezető állású személyeinek, minősített befolyással rendelkező tagjainak a befektetési vállalkozás irányítására vagy tulajdonlására való alkalmasságát igazoló feltételek megléte,
 - 34. kereskedési szándékkal tartott pozíció: a rövid távú újraértékesítés szándékával vagy a vételi és eladási árak közötti tényleges vagy várható különbözetből, valamint egyéb ár- vagy kamatlábváltozásokból származó rövid távú haszonszerzés szándékával tartott pozíció, amelybe beletartoznak mind a saját számlás, mind az ügyfelek által adott megbízások végrehajtásából és az árjegyzésből származó pozíciók,
@@ -187,7 +212,7 @@ használnak,
 - 34b. keresztértékesítés gyakorlata (cross-selling): egy befektetési szolgáltatás felajánlása egy másik szolgáltatással vagy termékkel együtt, egy csomag részeként vagy ugyanazon megállapodás vagy csomag feltételeként,
 - 34c. kis- és középvállalkozás: olyan vállalkozás, amelynek az előző három naptári évben az év végi jegyzések alapján az átlagos piaci tőkeértéke 200 000 000 eurónál kevesebb volt,
 - 34d. kkv-tőkefinanszírozási piac: olyan multilaterális kereskedési rendszer, amelyet kkv-tőkefinanszírozási piacként vettek nyilvántartásba, a 154/A. §-nak megfelelően,
-- 35.
+- 35. kis méretű és össze nem kapcsolt befektetési vállalkozás: az (EU) 2019/2033 rendelet 12. cikk (1) bekezdésében meghatározott fogalom,
 - 36. kollektív befektetési forma: a Kbftv.-ben meghatározott fogalom,
 - 37. központi hitelinformációs rendszer: a központi hitelinformációs rendszerről szóló törvényben meghatározott rendszer (a továbbiakban: KHR),
 - 38. központi szerződő fél: a Tpt.-ben meghatározott fogalom,
@@ -214,6 +239,8 @@ használnak,
   - a) a hálózati és egyéb típusú adatátviteli idő minimalizálását célzó infrastruktúra, amely az algoritmikus ajánlatbevitelre szolgáló következő lehetőségek közül legalább egyet magába foglal: szervereknek a kereskedési helyszínhez közeli vagy egy helyiségen belüli elhelyezése vagy nagy sebességű közvetlen elektronikus hozzáférés,
   - b) a megbízások kezdeményezését, létrehozását, továbbítását vagy végrehajtását a rendszer határozza meg, anélkül, hogy az egyes ügyletek vagy megbízások kapcsán emberi beavatkozásra kerülne sor, valamint
   - c) a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 19. cikkében meghatározott magas napi üzenetforgalom (megbízások, árajánlatok vagy törlések),
+- 49d. nemek szempontjából semleges javadalmazási politika: a Hpt.-ben meghatározott fogalom,
+- 49e. összevont helyzet: az (EU) 2019/2033 rendelet 4. cikk (1) bekezdés 11. pontjában meghatározott fogalom,
 - 50. pénzügyi elemző: a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendeletében meghatározott személy,
 - 51. pénzpiaci eszköz: a fizetőeszköz kivételével sorozatban kibocsátott pénzkövetelésre szóló eszköz, amellyel pénzpiacon kereskednek
 - 52. pénzügyi eszköz elhelyezése (placement): a pénzügyi eszköz Tpt. szerinti forgalombahozatala és nyilvános értékesítésre történő felajánlása,
@@ -242,7 +269,10 @@ használnak,
   - d) ha az adatszolgáltatási tevékenységet végző APA, CTP vagy ARM természetes személy, az az EGT-állam, amelyben a központi irodája található;
   - e) ha az adatszolgáltatási tevékenységet végző APA, CTP vagy ARM jogi személy, az az EGT-állam, ahol a létesítő okirat szerinti székhelye található;
   - f) ha az adatszolgáltatási tevékenységet végző APA, CTP vagy ARM jogi személy és nemzeti joga szerint nem rendelkezik létesítő okirat szerinti székhellyel, az az EGT-állam, amelyben a központi irodája található,
-- 63. szoros kapcsolat: az 575/2013/EU rendeletben ekként meghatározott fogalom;
+- 63. szoros kapcsolat: olyan helyzet, amelyben két vagy több természetes vagy jogi személy a következő tényezők valamelyike révén kapcsolatban áll egymással:
+  - a) részesedés, amely valamely vállalkozás szavazati jogai vagy tőkéje 20%-ának vagy annál nagyobb részének közvetlen vagy ellenőrző befolyás útján történő birtoklása,
+  - b) ellenőrző befolyás, amely az anyavállalat és a leányvállalat közötti kapcsolat, a leányvállalat leányvállalatát is azon anyavállalat leányvállalatának tekintve, amely e vállalkozások élén áll, vagy más hasonló kapcsolat bármely természetes vagy jogi személy és jogi személy között,
+  - c) olyan helyzet, amelyben ezek ellenőrző befolyás révén tartósan kapcsolódnak ugyanazon személyhez,
 - 64. szponzor: az 575/2013/EU rendeletben ekként meghatározott fogalom,
 - 65. tartós adathordozó: olyan eszköz, amely az ügyfél számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését,
 - 65a. tőzsdén kereskedett alap: olyan befektetési alap, amelynek legalább egy kollektív befektetési értékpapírjával kereskednek az egész nap folyamán legalább egy kereskedési helyszínen és van legalább egy olyan árjegyző, amely fellép annak biztosítására, hogy a kereskedési helyszínen kereskedett kollektív befektetési értékpapír ára jelentős mértékben ne térjen el annak nettó eszközértékétől, illetve adott esetben annak indikatív nettó eszközértékétől,
@@ -254,6 +284,7 @@ használnak,
 - 69. ügyfélszámla: a Tpt.-ben meghatározott fogalom,
 - 69a. ügyvezető: a befektetési vállalkozással és az adatszolgáltatási tevékenységet végzővel munkaviszonyban álló, a befektetési vállalkozás és az adatszolgáltatási tevékenységet végző vezetésére kinevezett első számú vezető, valamint a befektetési vállalkozás és az adatszolgáltatási tevékenységet végző irányításában részt vevő olyan további személy, akit a befektetési vállalkozás és az adatszolgáltatási tevékenységet végző létesítő okirata vagy a működésre vonatkozó bármely belső szabályzat ilyenként határoz meg,
 - 70. üzleti titok: az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében meghatározott fogalom,
+- 70a. vegyes tevékenységű holding társaság: olyan anyavállalat, amely nem minősül pénzügyi holdingtársaságnak, befektetési holdingtársaságnak, hitelintézetnek, befektetési vállalkozásnak vagy vegyes pénzügyi holding társaságnak és amelynek leányvállalatai közül legalább egy befektetési vállalkozás,
 - 71. vezető állású személy:
   - a) a vezető tisztségviselő – ideértve az e törvény szerinti ügyvezetőt is – és a felügyelő bizottság tagja,
   - b) a fióktelep vezetésére a külföldi vállalkozás által kinevezett személy és annak közvetlen helyettese, és
@@ -264,7 +295,7 @@ használnak,
   - b) amelynek egy tulajdonosa jogosult a vállalkozás döntéshozó, ügyvezető vagy felügyelő szervei, testületi tagjainak többségét kinevezni vagy felmenteni,
   - c) amely esetén a szavazati jogok többségét – a vállalkozás más tulajdonosával kötött megállapodás alapján – egy személy egyedül gyakorolhatja, vagy
   - d) amely fölött a létesítő okirat, megállapodás alapján egy személy döntő befolyást, ellenőrzést gyakorol vagy gyakorolhat,
-- 74. járulékos vállalkozás: a Tpt.-ben meghatározott fogalom,
+- 74. járulékos vállalkozás: olyan vállalkozás, amely kizárólagosan vagy elsődlegesen egy vagy több befektetési vállalkozás, központi értéktár, központi szerződő fél vagy befektetési alapkezelő üzletszerű tevékenységét kiegészítő tevékenységet, így különösen ingatlantulajdonlást, ingatlankezelést vagy adatkezelést végez,
 - 75. kapcsolt vállalkozás: a Tpt.-ben meghatározott fogalom,
 - 76. közeli hozzátartozó: a Ptk.-ban meghatározott fogalom és az élettárs,
 - 77. likviditás szempontjából leginkább érintett piac: a Bizottság 1287/2006/EK rendeletének 9. cikkében meghatározott fogalom,
@@ -273,30 +304,17 @@ használnak,
 - 80. értékpapír: a Tpt.-ben meghatározott fogalom,
 - 81. konszolidáló felügyeleti hatóság: a Tpt.-ben meghatározott fogalom,
 - 82. javadalmazás: a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendeletében meghatározott fogalom,
-- 83. teljesítményjavadalmazás: a javadalmazás azon része, amelyet a befektetési vállalkozás az alapjavadalmazáson felül biztosíthat a vezető állású személynek és a munkavállalónak, ha az a munkaszerződésben meghatározottakat meghaladó teljesítményt nyújt vagy abban nem rögzített feladatokat lát el,
+- 83. teljesítményjavadalmazás: a javadalmazás azon része, amelyet a befektetési vállalkozás az alapjavadalmazáson felül biztosíthat a vezető állású személynek és a munkavállalónak, ha az a munkaszerződésben meghatározottakat meghaladó fenntartható és kockázattal kiigazított teljesítményt nyújt vagy abban nem rögzített feladatokat lát el,
 - 84. Nem kötelező nyugdíjjuttatás: a Hpt.-ben ekként meghatározott fogalom,
-- 85. túlzott tőkeáttétel kockázata: az 575/2013/EU rendeletben ekként meghatározott fogalom.
-- 86. tőkefenntartási puffer: a befektetési vállalkozás veszteségviselő képességének növelése érdekében kötelezően fenntartandó szavatolótőke-követelmény.
-- 87. intézményspecifikus anticiklikus tőkepuffer: a befektetési vállalkozási tevékenység prociklikusságának a csökkentésére irányuló, az ügyfél – akivel szemben a hitelezési kitettség fennáll – elhelyezkedésének figyelembevételével számított szavatolótőke-követelmény,
-- 88. rendszerszinten jelentős befektetési vállalkozás:
-  - a) az EU-szintű anyavállalat,
-  - b) az EU-szintű pénzügyi holding társaság anyavállalat,
-  - c) az EU-szintű vegyes pénzügyi holding társaság anyavállalat, vagy
-  - d) a befektetési vállalkozás,
-
-amelynek fizetésképtelenné válása vagy nem prudens működése rendszerkockázathoz vezethet,
-
-- 89. globálisan rendszerszinten jelentős befektetési vállalkozás: olyan rendszerszinten jelentős befektetési vállalkozás, amely nem lehet leányvállalata valamely
-  - a) EU-szintű anyavállalatnak,
-  - b) EU-szintű pénzügyi holding társaság anyavállalatnak,
-  - c) EU-szintű vegyes pénzügyi holding társaság anyavállalatnak, és
-
-amelynek fizetésképtelenné válása vagy nem prudens működése globális szintű rendszerkockázathoz vezethet,
-
-- 90. globálisan rendszerszinten jelentős befektetési vállalkozásokra vonatkozó tőkepuffer: a rendszerszintű kockázatokat hordozó, globálisan tevékenykedő befektetési vállalkozások csődvalószínűségének és kockázatvállalásának csökkentésére irányuló szavatolótőke-követelmény,
-- 91. egyéb rendszerszinten jelentős befektetési vállalkozás: olyan rendszerszinten jelentős befektetési vállalkozás, amelynek felszámolása vagy nem prudens működése EGT-szinten vagy tagállami szinten rendszerkockázathoz vezethet,
-- 92. egyéb rendszerszinten jelentős befektetési vállalkozásokra vonatkozó tőkepuffer: a Magyarországon vagy az Európai Unióban jelentős kockázatokat hordozó befektetési vállalkozások csődvalószínűségének és kockázatvállalásának csökkentésére irányuló szavatolótőke-követelmény,
-- 93. rendszerkockázati tőkepuffer: a rendszerszintű kockázatok megelőzésére és mérséklésére irányuló szavatolótőke-követelmény,
+- 85.
+- 86.
+- 87.
+- 88.
+- 89.
+- 90.
+- 91.
+- 92.
+- 93.
 - 93a. helyreállítási képesség: a befektetési vállalkozás azon képessége, hogy stabilizálja pénzügyi helyzetét, ha az jelentős mértékben romlik;
 - 94. helyreállítási terv: olyan terv, amelyben foglalt a befektetési vállalkozás által végrehajtandó lépések a likviditást vagy a fizetőképességet (szolvenciát) súlyosan veszélyeztető állapot esetén – rendkívüli állami pénzügyi támogatás igénybevétele nélkül – biztosítják a befektetési vállalkozás pénzügyi helyzetének stabilizálódását,
 - 95. alapjavadalmazás: a javadalmazás azon része, amelyet a befektetési vállalkozás és a vezető állású személy, munkavállaló közötti szerződésben meghatározottaknak megfelelően a befektetési vállalkozás a vezető állású személynek vagy munkavállalónak rendszeresen munkabérként kifizet, és amely megfelelően tükrözi a tisztség betöltéséhez szükséges szakmai tapasztalatokat és felelősséget, ideértve minden olyan juttatást, amelyet más munkavállaló is megkap,
@@ -308,9 +326,9 @@ amelynek fizetésképtelenné válása vagy nem prudens működése globális sz
 - 101. rendkívüli intézkedési terv: a befektetési vállalkozás által kidolgozott, a jogszabályoknak megfelelő működés biztosítása érdekében szükséges – határidőkhöz és felelősökhöz kötött – lépéseket tartalmazó terv,
 - 102. rendszerkockázat: a pénzügyi rendszer olyan zavarának kockázata, amely a pénzügyi rendszerre és a gazdaságra nézve súlyos negatív következményt jelenthet,
 - 103. belső módszer: az 575/2013/EU rendeletben belső minősítésen alapuló módszerként meghatározott fogalom,
-- 104. modellkockázat: a Hpt.-ben ekként meghatározott fogalom,
-- 105. tőkeáttétel: a Hpt.-ben ekként meghatározott fogalom,
-- 106. teljes kockázati kitettség: az 575/2013/EU rendeletben ekként alkalmazott fogalom.
+- 104.
+- 105.
+- 106.
 
 ## MÁSODIK RÉSZ — A BEFEKTETÉSI VÁLLALKOZÁSÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ MŰKÖDÉSÉNEK MEGKEZDÉSE
 
@@ -515,16 +533,11 @@ teljesítése esetén nyújtható.
 
 ### Az induló tőke
 
-13. § (1) A befektetési vállalkozás tevékenysége megkezdéséhez – a (2)–(3) bekezdésben foglalt kivétellel – legalább hétszázharmincezer euró összegű induló tőkével rendelkezik.
+13. § (1) A befektetési vállalkozás tevékenysége megkezdéséhez – a (2) és (3) bekezdésben foglalt kivétellel – legalább százötvenezer euró induló tőkével rendelkezik.
 
-(2) Ha a befektetési vállalkozás az 5. § (1) bekezdés c) és f) pontjában meghatározott befektetési szolgáltatási tevékenységek végzésére nem jogosult, de az 5. § (1) bekezdés a), b) és d) pontjában meghatározott befektetési szolgáltatási tevékenységek valamelyikének (egy vagy több) végzésére jogosító engedélyt szerez, és
+(2) Ha a befektetési vállalkozás az 5. § (1) bekezdés c) vagy f) pontjában meghatározott befektetési szolgáltatási tevékenység végzésére jogosult, akkor legalább hétszázötvenezer euró összegű induló tőkével rendelkezik.
 
-- a) az ügyfél pénzügyi eszközének és pénzeszközének kezelésére jogosult, akkor legalább százhuszonötezer euró,
-- b) az ügyfél pénzügyi eszközének és pénzeszközének kezelésére nem jogosult, akkor legalább ötvenezer euró
-
-összegű induló tőkével rendelkezik.
-
-(3) Ha a befektetési vállalkozás az 5. § (1) bekezdés a) vagy e) pontjában meghatározott befektetési szolgáltatási tevékenységek valamelyikének végzésére jogosító engedélyt szerez és az 5. § (2) bekezdés a) és b) pontjában meghatározott kiegészítő szolgáltatás végzésére az ügyfél pénzügyi eszközének és pénzeszközének kezelésére nem jogosult, akkor legalább ötvenezer euró összeg induló tőkével vagy olyan, az EGT-államok területére kiterjedő szakmai felelősségbiztosítással rendelkezik, amelynek értéke káreseményenként legalább egymillió euró, és évente összesen legalább egymillió-ötszázezer euró.
+(3) Ha a befektetési vállalkozás az 5. § (1) bekezdés a), b), d), e) vagy g) pontjában meghatározott befektetési szolgáltatási tevékenység végzésére jogosult, de az ügyfél pénzügyi eszközének és pénzeszközének kezelésére nem jogosult, akkor legalább hetvenötezer euró összegű induló tőkével rendelkezik.
 
 14. § Az árutőzsdei szolgáltatónak a tevékenysége megkezdéséhez, ha
 
@@ -543,7 +556,7 @@ induló tőkével kell rendelkeznie.
 
 (5) Más EGT-államban székhellyel rendelkező befektetési vállalkozás fióktelepére a dotációs tőke követelményt nem kell alkalmazni.
 
-(6) A 13. §-ban euróban meghatározott induló tőke vagy felelősségbiztosítás összegét az adott napon érvényes MNB által közzétett hivatalos devizaárfolyamon kell forintra átszámítani.
+(6) A 13. §-ban euróban meghatározott induló tőke összegét az adott napon érvényes MNB által közzétett hivatalos devizaárfolyamon kell forintra átszámolni.
 
 ### V. Fejezet — A BEFEKTETÉSI VÁLLALKOZÁS ÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ MŰKÖDÉSÉNEK SZERVEZETI FELTÉTELEI
 
@@ -572,7 +585,7 @@ induló tőkével kell rendelkeznie.
 - c) a szervezeten belüli összeférhetetlenséget ellenőrzi, megelőzi és kiküszöböli,
 - d) a felmerülő kockázatok azonosítására, mérésére, kezelésére, nyomon követésére és jelentésére szolgáló hatékony eljárásokat alkalmaz,
 - e) a jogszabályoknak megfelelő belső ellenőrzési mechanizmusokat, adminisztratív és számviteli eljárásokat alkalmaz,
-- f) a befektetési vállalkozás a hatékony és eredményes kockázatkezeléssel összhangban álló, annak alkalmazását előmozdító, a 4. mellékletben meghatározott elveknek megfelelő javadalmazási politikát és gyakorlatot valósít meg,
+- f) a befektetési vállalkozás a hatékony és eredményes kockázatkezeléssel összhangban álló, annak alkalmazását előmozdító, a 4. mellékletben meghatározott elveknek megfelelő, a nemek szempontjából semleges javadalmazási politikát és gyakorlatot valósít meg,
 - g) elősegíti a szervezet zavartalan és eredményes működését, az intézménnyel szembeni bizalom fenntartását, a tulajdonosok és az ügyfelek intézménnyel összefüggő gazdasági érdekeinek és társadalmi céljainak védelmét.
 
 (4) A befektetési vállalkozás a (3) bekezdés d) és e) pontjában rögzítettek, ezáltal a belső kontroll funkciók teljesítése érdekében belső eljárásrendjében egyértelműen meghatározza a belső kontroll funkciók ellátásáért felelős szervezeti egységet vagy egységeket.
@@ -609,6 +622,8 @@ ideértve a következetesség, a folyamatos figyelemmel kísérhetőség és az 
 - b) az ügyfél által átadott vagy az ügyfelet megillető pénzügyi eszköz és pénzeszköz állományának, illetőleg összegének minden időpontban történő megállapítására, és
 - c) a befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató jogszabályban előírt adatszolgáltatási kötelezettségének teljesítésére.
 
+(2a) A befektetési vállalkozás minden eljárást és rendszert olyan módon dokumentál, hogy a Felügyelet az e törvényben és az (EU) 2019/2033 rendeletben meghatározott prudenciális követelményeknek való megfelelését ellenőrizhesse.
+
 (3) Az MNB elnöke a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében a hatékony és eredményes kockázatkezelés elősegítése érdekében rendeletben szabályozza a nem teljesítő kitettség és az átstrukturált követelésre vonatkozó prudenciális követelményeket.
 
 ### Belső ellenőrzési szervezeti egység
@@ -642,9 +657,9 @@ ideértve a következetesség, a folyamatos figyelemmel kísérhetőség és az 
 
 20. § A befektetési vállalkozás biztosítja a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 23. cikkében foglaltaknak megfelelő eljárást a kockázatkezelés tekintetében.
 
-20/A. § (1) Ha a befektetési vállalkozásnak a tárgyévet megelőző évi mérlegfőösszege meghaladja a kétszázmilliárd forintot, akkor kockázatvállalási-kockázatkezelési bizottságot kell felállítani, amely folyamatosan figyelemmel kíséri a befektetési vállalkozás kockázatvállalási stratégiáját és kockázatvállalási hajlandóságát.
+20/A. § (1) Ha a befektetési vállalkozás mérleg szerinti és mérlegen kívüli eszközeinek értéke az adott pénzügyi évet közvetlenül megelőző négyéves időszakban átlagosan meghaladja a százmillió eurót, akkor kockázatvállalási-kockázatkezelési bizottságot kell felállítani, amely folyamatosan figyelemmel kíséri a befektetési vállalkozás kockázatvállalási stratégiáját és kockázatvállalási hajlandóságát.
 
-(2) A kockázatvállalási-kockázatkezelési bizottság tagjai az irányítási jogkörrel rendelkező vezető testület olyan tagjai közül kerülnek ki, akik az érintett befektetési vállalkozással nem állnak munkaviszonyban. Ha a befektetési vállalkozás irányítási jogkörrel rendelkező vezető testületben nincs legalább három olyan tag, aki nem áll munkaviszonyban a befektetési vállalkozással, akkor a kockázatvállalási-kockázatkezelési bizottságban a felügyeleti jogkörrel rendelkező vezető testület független tagjai is részt vehetnek.
+(2) A kockázatvállalási-kockázatkezelési bizottság tagjai az irányítási jogkörrel rendelkező vezető testület olyan tagjai közül kerülnek ki, akik az érintett befektetési vállalkozásban nem látnak el ügyvezetői feladatokat. Ha a befektetési vállalkozás irányítási jogkörrel rendelkező vezető testületben nincs legalább három olyan tag, aki nem lát el ügyvezetői feladatokat a befektetési vállalkozásban, akkor a kockázatvállalási-kockázatkezelési bizottságban a felügyeleti jogkörrel rendelkező vezető testület független tagjai is részt vehetnek.
 
 (3) A kockázatvállalási-kockázatkezelési bizottság tagjának megfelelő szakértelemmel kell rendelkeznie a (4) bekezdésben ismertetett feladatok ellátásához.
 
@@ -653,9 +668,9 @@ ideértve a következetesség, a folyamatos figyelemmel kísérhetőség és az 
 - a) szakvélemény elkészítése a vezető állású személyek számára a befektetési vállalkozás aktuális és a jövőbeni kockázatvállalási stratégiájáról és kockázatvállalási hajlandóságáról,
 - b) az irányítási jogkörrel rendelkező vezető testület támogatása a kockázatvállalási stratégia végrehajtásának felügyeletében,
 - c) az ügyfeleknek kínált befektetési szolgáltatási tevékenységhez vagy kiegészítő szolgáltatáshoz kapcsolódó árazási elvek és a befektetési vállalkozás üzleti modellje, kockázatvállalási stratégiája közötti összhang vizsgálata, valamint
-- d) a javadalmazási politika vizsgálata abból a szempontból, hogy a kialakított javadalmazási rendszer ösztönző elemei figyelembe vegyék a befektetési vállalkozás kockázatait, tőke- és likviditási helyzetét, és a bevételek valószínűségét és ütemezését.
+- d)
 
-(5) Ha a kockázatvállalási és kockázatkezelési bizottság a (4) bekezdés c) pontjában meghatározott feladatának ellátása során úgy ítéli meg, hogy az árazási elvek nem tükrözik megfelelően az üzleti modell és a kockázatvállalási stratégia szerinti kockázatokat, akkor a kockázatvállalási bizottság tervet készít, amelyet benyújt az irányítási jogkörrel rendelkező vezető testület számára.
+(5)
 
 (6) A kockázatvállalási-kockázatkezelési bizottság és a felügyeleti jogkörrel rendelkező vezető testület számára feladataik ellátása során a befektetési vállalkozás hozzáférést biztosít a kockázati ellenőrzés funkcióhoz és külső szakértők véleményéhez.
 
@@ -720,7 +735,7 @@ ideértve a következetesség, a folyamatos figyelemmel kísérhetőség és az 
 
 22. § (1) A részvénytársasági formában működő befektetési vállalkozás ügyvezetését legalább kettő fő, három év szakirányú szakmai gyakorlattal rendelkező természetes személy munkaviszony keretében köteles ellátni.
 
-(1a) Befektetési vállalkozásnál vezető állású személynek az választható meg, illetve az nevezhető ki, aki
+(1a) Befektetési vállalkozásnál, befektetési holding társaságnál és vegyes pénzügyi holding társaságnál vezető állású személynek az választható meg, illetve az nevezhető ki, aki
 
 - a) – a (6) bekezdésben foglaltak figyelembevételével – igazolja, hogy az (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű;
 - b) felsőfokú végzettséggel rendelkezik;
@@ -842,7 +857,7 @@ tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakter
 
 ### Jogsértések jelentése
 
-24/G. § (1) A befektetési vállalkozás, továbbá a Felügyelet hatékony és megbízható mechanizmust hoz létre, amely ösztönzi az e törvény, továbbá a prudens működésre vonatkozó jogszabályok, ideértve az 575/2013/EU rendelet előírásainak való tényleges vagy potenciális megsértésének esetén történő vezető tisztségviselői és munkavállalói jelentéstételt.
+24/G. § (1) A befektetési vállalkozás, továbbá a Felügyelet hatékony és megbízható mechanizmust hoz létre, amely ösztönzi az e törvény, továbbá a prudens működésre vonatkozó jogszabályok, ideértve az (EU) 2019/2033 rendelet előírásainak való tényleges vagy potenciális megsértésének esetén történő vezető tisztségviselői és munkavállalói jelentéstételt.
 
 (2) Az (1) bekezdésben meghatározott mechanizmus magában foglalja:
 
@@ -991,7 +1006,7 @@ tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakter
 
 - a) a létesítő okiratát vagy létesítő okiratának módosítását,
 - b) részvénykönyvének másolatát,
-- c) a meghatározott mértékű induló tőke befizetésének igazolását, nyilatkozatot az erre vonatkozó okirati bizonyítékkal együtt arra, hogy az induló tőke befizetéséhez szükséges összeg az alapításban részt vevő személy törvényes jövedelméből származik vagy a felelősségbiztosítási szerződést,
+- c) a meghatározott mértékű induló tőke befizetésének igazolását, nyilatkozatot az erre vonatkozó okirati bizonyítékkal együtt arra, hogy az induló tőke befizetéséhez szükséges összeg az alapításban részt vevő személy törvényes jövedelméből származik,
 - d) a végezni kívánt tevékenység megnevezését és a kérelmező döntési, irányítási rendszerét is tartalmazó szervezeti és működési szabályzatot,
 - e) egy nyilatkozatot arról, hogy a befektetési vállalkozás irányítása Magyarország területén létesítendő központi irodában történik,
 - f) több telephely esetén azon telephely tárgyi-technikai feltételeinek leírását, ahol a tevékenységet folytatni kívánja,
@@ -1090,7 +1105,7 @@ tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakter
 
 31. § (1) A Felügyelet a befektetési szolgáltatási tevékenység végzésére jogosító engedélyt visszavonja, ha
 
-- a) az engedély kiadásának feltételei már nem állnak fenn, és azok hat hónapon belül nem pótolhatók,
+- a) az engedély kiadásának feltételei már nem állnak fenn,
 - b) a hitelintézet tevékenység végzésére jogosító engedélyét, a befektetési alapkezelő a Kbftv. 5. §-a szerinti tevékenység végzésére jogosító engedélyét, a biztosító tevékenység végzésére jogosító engedélyét visszavonta, kivéve a (3) bekezdésben foglalt esetet,
 - c) a befektetési vállalkozás nem vitatott tartozását az esedékességet követő öt napon belül nem egyenlítette ki, és vagyona (eszközei) az ismert hitelezők követelésének kielégítésére nem nyújtana fedezetet,
 - d) az engedéllyel rendelkező az engedélyezett tevékenységet tizenkét hónapon belül nem kezdi meg vagy hat hónapot meghaladó időtartam alatt nem gyakorolja,
@@ -1108,6 +1123,17 @@ tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakter
 (4) A Felügyelet a befektetési szolgáltatási tevékenység végzésére jogosító engedélyt határozott időre felfüggeszti, ha a tevékenység végzésnek az engedélyezéshez előírt feltételei már nem állnak fenn, de azok legfeljebb hat hónapon belül pótolhatók.
 
 (5) A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvényben (a továbbiakban: Szantv.) meghatározott szanálás alatt álló befektetési vállalkozás tevékenységi engedélye a szanálási eljárás megszüntetéséig nem vonható vissza.
+
+31/A. § A harmadik országban székhellyel rendelkező befektetési vállalkozás fióktelepe évente beszámol a Felügyeletnek
+
+- a) Magyarországon végzett tevékenységi köréről és annak nagyságrendjéről,
+- b) az 5. § (1) bekezdés c) pontja szerinti tevékenység végzése esetén az EGT-államban lévő féllel szembeni kitettségei minimális, átlagos és maximális havi értékeiről,
+- c) az 5. § (1) bekezdés f) pontja szerinti tevékenység végzése esetén az EGT-államban lévő felektől szerzett azon pénzügyi eszközök összértékéről, amelyekre jegyzési garanciát vállaltak a megelőző 12 hónapban,
+- d) az egyes, általa végzett tevékenységhez kapcsolódó eszközökről és összértékükről,
+- e) az ügyfelei rendelkezésére álló befektető-kártalanítási rendszer részleteiről, ideértve az ügyfelek elismert befektető-kártalanítási rendszerből eredő jogait,
+- f) az általa végzett egyes tevékenységi körök tekintetében alkalmazott kockázatkezelési politikáról és eljárásokról,
+- g) a vállalatirányítási rendszerről, ideértve a vezető állású személyeket és a fióktelep tevékenységéhez kapcsolódóan kiemelten fontos feladatkört betöltő személyeket is,
+- h) bármely olyan információról, a Felügyelet kérése alapján, amelyet a Felügyelet szükségesnek tart a fióktelep tevékenységének átfogó felügyelete szempontjából.
 
 ### VIII. Fejezet — AZ ÁRUTŐZSDEI SZOLGÁLTATÁS ENGEDÉLYEZÉSE
 
@@ -2174,28 +2200,21 @@ felelős azzal, hogy egyúttal biztosítja a működéshez és a tevékenység v
 - i) a befektetési vállalkozásnak az esetleges likviditási hiányok megszüntetésére irányuló stratégiákat és végrehajtási intézkedéseket tartalmazó, az irányítási jogkörrel rendelkező vezető testület által jóváhagyott tervekkel kell rendelkeznie, a másik EGT-államban létrehozott fióktelepére vonatkozóan is, amelyeket az f) pont szerinti alternatív forgatókönyvek kimenetele alapján legalább évente tesztelni és frissíteni kell, valamint
 - j) a befektetési vállalkozásnak a likviditás helyreállítására vonatkozó tervek azonnali végrehajthatóságának érdekében előzetesen meg kell hoznia a szükséges működési intézkedéseket, amelyek magukban foglalják a központi banki finanszírozáshoz szükséges fedezetek azonnali hozzáférhetőségének biztosítását, amely fedezetek szükség esetén a befektetési vállalkozás kitettségeinek pénznemében is tarthatóak.
 
-(3) A rulírozó kitettségek értékpapírosítását kezdeményező befektetési vállalkozás, ha az értékpapír előrehozott tőketörlesztésre vonatkozó rendelkezést tartalmaz, likviditási tervvel rendelkezik a terv szerinti tőketörlesztés, valamint az előrehozott tőketörlesztés esetére.
+(3)
 
 (4) A befektetési vállalkozás a tevékenységének jellegével, nagyságrendjével és összetettségével összhangban alakítja ki likviditási kockázati profilját.
 
 (5) A Felügyelet figyelemmel kíséri a befektetési vállalkozás (4) bekezdésben meghatározottaknak megfelelően kialakított kockázati profiljának változásait. Ha ezen változások kihatnak a befektetési vállalkozás biztonságos működésére vagy a pénzügyi közvetítőrendszer stabilitására, akkor a Felügyeletnek meg kell tennie a szükséges intézkedéseket.
 
-(6) Az (1) bekezdés h) pontjában foglaltak teljesítésénél a befektetési vállalkozásnak különösen figyelembe kell vennie az 575/2013/EU rendelet 429. cikke alapján meghatározott tőkeáttételi mutatót, valamint az eszközök és kötelezettségek közötti eltéréseket.
+(6) Az (1) bekezdés alkalmazása során az ügyfelek védelme érdekében a befektetési vállalkozás megfontolja, hogy a kockázatkezelés hatékony eszközeként szakmai felelősségbiztosítást alkalmazzon.
 
-(7) Az (1) bekezdés j) pontjában meghatározott nettó finanszírozási pozícióval (eszköz-, forrásszerkezettel és lejárati összhanggal) kapcsolatos döntéseket alátámasztó feltételezéseket rendszeresen felülvizsgálja.
+(7) Az (1) bekezdés alkalmazása során a befektetési vállalkozást fenyegető jelentős kockázatként kell figyelembe venni többek között – adott esetben – az eszközök könyv szerinti értékében bekövetkező jelentős változásokat, beleértve a függő ügynökökkel szembeni esetleges követeléseket, az ügyfelek vagy szerződő felek csődjét, a pénzügyi eszköz-, deviza- és árupozíciókat, valamint a szolgáltatással meghatározott nyugdíjkonstrukció felé fennálló kötelezettségeket.
 
-(8) A befektetési vállalkozás a tőkekövetelménnyel nem fedezett piaci kockázatokra vonatkozóan is megfelelő szintű belső tőkével rendelkezik.
+(8) A befektetési vállalkozásnak biztosítania kell, hogy megfelelő szintű szavatoló tőkével rendelkezzen abban az esetben is, ha a piaci kockázatokat nem fedezik kellőképpen az (EU) 2019/2033 rendelet 11. cikke szerinti szavatoló tőke követelmények szerinti tőkeelemek.
 
-### Belső minősítésen alapuló módszerek alkalmazása
+(9) A Felügyelet kötelezi a befektetési vállalkozást, hogy amennyiben annak felszámolása vagy a tevékenységével történő felhagyás szükséges – üzleti modellje és stratégiája életképességét és fenntarthatóságát figyelembe véve –, reális követelményekkel és erőforrásokkal számoljon mind az időtávot, mind pedig a szavatoló tőke és a likvid erőforrások fenntartását illetően, a piacról való kivonulás teljes folyamata során.
 
-101/A. § (1) Az 575/2013/EU rendelet harmadik része, I. címe 3. fejezetének 1. szakaszában és IV. címe 5. fejezetének 1–5. szakaszában meghatározottak sérelme nélkül a befektetési vállalkozás a mérete, szervezeti felépítése, tevékenységének jellege, nagyságrendje és összetettsége alapján törekszik a belső minősítésen alapuló módszerek alkalmazására kockázattal súlyozott kitettség értéke és tőkekövetelményének meghatározása során.
-
-(2) A befektetési vállalkozás tevékenységének jellege, nagyságrendje és összetettsége alapján a kitettsége tekintetében nem használhatja kizárólagosan a külső hitelminősítő által kiadott hitelminősítést.
-
-(3) A Felügyelet figyelemmel kíséri a befektetési vállalkozásnak az (1) és (2) bekezdésben meghatározottak felé való stratégiai és operatív lépéseit, és ösztönzi a befektetési vállalkozást belső hitelkockázat-értékelési képessége fejlesztésére, belső modellek alkalmazására, különösen
-
-- a) a kereskedési könyvbe bevezetett, hitelviszonyt megtestesítő értékpapírok egyedi kockázata, és
-- b) a nemteljesítési és átminősítési kockázata tekintetében, ha a befektetési vállalkozás kitettségeinek speciális kockázata abszolút értelemben jelentős és különböző kibocsátók hitelviszonyt megtestesítő értékpapírjaiból nagyszámú jelentős pozícióval rendelkezik.
+101/A. §
 
 ### Helyreállítási terv
 
@@ -2218,7 +2237,7 @@ az általa végzett befektetési szolgáltatási tevékenységben, kiegészítő
 - f) a terv esetleges végrehajtását gátló tényezők leírása, ideértve az ügyfelekre, a szerződéses partnerekre, valamint – összevont alapú felügyelet alá tartozó befektetési vállalkozás esetén – a csoport többi tagjára gyakorolt hatásokat is,
 - g) a befektetési vállalkozás fő üzletágai, működési folyamatai és eszközei értékének valamint értékesíthetőségének meghatározására irányuló eljárások, valamint értékesítésükhöz szükséges lépések és azok becsült időkerete,
 - h) annak ismertetése, hogy a terv hogyan illeszkedik a befektetési vállalkozás vállalatirányítási rendszerébe, ideértve a terv kidolgozásához és végrehajtásához kapcsolódó felelősségi köröket,
-- i) a 105. §-ban meghatározott tőkekövetelmény megőrzéséhez kapcsolódó szabályok, lehetséges lépések, ideértve a csoporton belüli pénzügyi támogatás nyújtását is,
+- i) a szavatoló tőkekövetelmény megőrzéséhez kapcsolódó szabályok, lehetséges lépések, ideértve a csoporton belüli pénzügyi támogatás nyújtását is,
 - j) szabályok és lépések annak biztosítására, hogy a befektetési vállalkozás megfelelően hozzáférjen válsághelyzeti finanszírozási forrásokhoz,
 - k) a kötelezettségek szerkezetének átalakítására irányuló szabályok és intézkedések,
 - l) a fő üzletágak szerkezetének átalakítására irányuló szabályok és intézkedések,
@@ -2262,13 +2281,7 @@ azzal, hogy döntéséről két munkanapon belül tájékoztatja a Felügyeletet
 
 105. § (1) A befektetési vállalkozás a prudens működésre vonatkozó előírások betartásával úgy köteles a rábízott idegen és saját forrásokkal gazdálkodni, hogy folyamatosan fenntartsa azonnali fizetőképességét (likviditását) és mindenkori fizetőképességét (szolvenciáját).
 
-(2) A befektetési vállalkozás – a mindenkori fizetőképesség (szolvencia) fenntartása és a kötelezettségek teljesíthetősége érdekében – az általa végzett tevékenység kockázatának fedezetét mindenkor biztosító megfelelő nagyságú szavatoló tőkével rendelkezik, amely legalább
-
-- a) az 575/2013/EU rendelet 92. cikkében meghatározott minimum tőkekövetelmény,
-- b) a felügyeleti felülvizsgálat keretében előírt többlettőke-követelmény, valamint
-- c)
-
-összegének értéke azzal, hogy az összeg nem lehet kevesebb az engedélyezés feltételeként előírt legkisebb jegyzett tőke értékénél.
+(2)
 
 (3) A befektetési vállalkozás a tevékenységét likviditása folyamatos fenntartása mellett végzi.
 
@@ -2278,24 +2291,31 @@ azzal, hogy döntéséről két munkanapon belül tájékoztatja a Felügyeletet
 
 105/A. §
 
-106. § (1) A befektetési vállalkozás megbízható, hatékony és átfogó stratégiával és eljárással rendelkezik ahhoz, hogy az általa végzett befektetési szolgáltatási tevékenysége és kiegészítő szolgáltatása kapcsán, valamint a működése során vállalt, illetve felmerülő kockázatai fedezetéhez szükséges szavatoló tőke mértékét és összegét meghatározza és folyamatosan fenntartsa.
+106. § (1) A befektetési vállalkozás megbízható, hatékony és átfogó stratégiával és eljárással rendelkezik ahhoz, hogy az általa végzett befektetési szolgáltatási tevékenysége és kiegészítő szolgáltatása kapcsán, valamint a működése során vállalt, illetve felmerülő kockázatai fedezetéhez szükséges szavatoló tőke és likvid eszközök mértékét és összegét meghatározza és folyamatosan fenntartsa.
 
 (2) A befektetési vállalkozás az (1) bekezdésben meghatározott stratégiát és eljárást legalább évente egyszer felülvizsgálja, amelynek során gondoskodik arról, hogy ennek tartalma összhangban legyen az általa végzett tevékenység jellegével, összetettségével és méretével.
 
-(3) Az EGT-állambeli befektetési vállalkozás anyavállalat, az EGT-állambeli pénzügyi holding társaság és vegyes pénzügyi holding társaság anyavállalat az (1) és (2) bekezdésben rögzített követelményeknek az 575/2013/EU európai parlamenti és tanácsi rendeletben meghatározott vonatkozásában összevont alapon felel meg.
+(3) A befektetési vállalkozás az (1) bekezdésben meghatározott stratégia és eljárás dokumentálása során figyelemmel van a 18. § (2a) bekezdésében meghatározott követelmény betartására.
 
-(4) Ha egy befektetési vállalkozás ellenőrző befolyás alatt áll vagy egy vállalkozás ezen befektetési vállalkozásban részesedési viszonnyal rendelkezik és a befektetési vállalkozás maga is ellenőrző befolyással vagy részesedési viszonnyal rendelkezik egy harmadik országban székhellyel rendelkező hitelintézetben, pénzügyi vállalkozásban, befektetési vállalkozásban, befektetési alapkezelőben vagy járulékos vállalkozásban, akkor a befektetési vállalkozás az (1) és (2) bekezdésben rögzített követelményeknek az 575/2013/EU rendeletben meghatározott vállalkozások vonatkozásában összevont alapon felel meg.
+(4)
 
-(5) Az (1)–(2) bekezdésben meghatározott követelmények szubkonszolidált alapon teljesítendőek, ha az EGT-állambeli befektetési vállalkozás anyavállalatnak, az EU-szintű pénzügyi holding társaságnak, vagy az EU-szintű vegyes pénzügyi holding társaságnak
+(5)
 
-- a) harmadik országban letelepedett leányvállalata van, amely
-  - aa) hitelintézet,
-  - ab) befektetési vállalkozás,
-  - ac) pénzügyi vállalkozás, vagy
-  - ad) eszközkezelő társaság; vagy
-- b) részesedése van harmadik országban letelepedett a) pont aa)–ad) alpontjában meghatározott valamely intézményben.
+107. § (1) Az 5. § (1) bekezdés c) vagy f) pontjában meghatározott tevékenységet végző befektetési vállalkozást, amely eszközei havi összértéke a döntést megelőző 12 hónap átlagában, összevont alapon 5 milliárd eurót meghaladja, a Felügyelet határozatában kötelezheti az 575/2013/EU rendelet alkalmazására, ha:
 
-107. §
+- a) a befektetési vállalkozás tevékenysége olyan nagyságrendű, hogy pénzügyi nehézségei vagy csődje rendszerszintű kockázathoz vezetnek,
+- b) a befektetési vállalkozás klíringtag, vagy
+- c) a Felügyelet a befektetési vállalkozás mérete, tevékenységének jellege, nagyságrendje és összetettsége szempontjából szükségesnek tartja.
+
+(2) A Felügyelet az (1) bekezdés c) pontja esetében az arányosság elvének szem előtt tartása során figyelembe veszi a befektetési vállalkozás
+
+- a) az Európai Gazdasági Térség vagy a Magyarország gazdasága szempontjából való jelentőségét,
+- b) határon átnyúló tevékenysége jelentőségét, vagy
+- c) szoros kapcsolódását a pénzügyi rendszer egyéb szereplőihez.
+
+(3) Ha a Felügyelet az (1) bekezdéssel összhangban kötelezi a befektetési vállalkozást az 575/2013/EU rendelet alkalmazására, a befektetési vállalkozás prudens működésére, valamint annak felügyelésére a Hpt. VI. és IX. Fejezete alkalmazandó.
+
+(4) A Felügyelet haladéktalanul köteles az (1) bekezdés szerinti határozatát visszavonni, ha a befektetési vállalkozás eszközeinek értéke a döntést megelőző 12 hónap átlagában, összevont alapon számított 5 milliárd eurót nem haladja meg.
 
 ### A vezető állású személyek, alkalmazottak és egyéb érintett személyek saját ügyletei
 
@@ -2314,241 +2334,31 @@ a befektetési és kiegészítő szolgáltatások vagy ezek kombinációi nyújt
 
 (2) A befektetési vállalkozás az ügyfél számára hátrányos érdek-összeütközések elkerülése, feltárása és kezelése céljából – a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 34. cikkében meghatározott – szabályzatot készít (a továbbiakban: összeférhetetlenségi politika), amelyet az igazgatóság, illetőleg az igazgatótanács hagy jóvá. Amennyiben a befektetési vállalkozás egy csoport tagja, az összeférhetetlenségi politika figyelembe veszi a csoport többi tagjának üzleti tevékenységéből és szerkezetéből következő érdek-összeütközéseket is.
 
-### XX/A. Fejezet — TŐKEPUFFEREK
+### XX/A. Fejezet
 
-### Tőkefenntartási puffer
+110/A. §
 
-110/A. § (1) A befektetési vállalkozás az 575/2013/EU rendelet 92. cikkében meghatározott minimum tőkekövetelményen felül tőkefenntartási puffert képez.
+110/B. §
 
-(2) A befektetési vállalkozás a tőkefenntartási puffert elsődleges alapvető tőkéből – az 575/2013/EU rendelet 1. rész II. címében meghatározottak szerint – egyedi vagy összevont alapon képzi, amelynek összege a teljes kockázati kitettség érték 2,5 százaléka.
+110/C. §
 
-(3) A tőkefenntartási puffer nem használható fel a felügyeleti felülvizsgálat keretében előírt többlettőke-követelmény teljesítésére.
+110/D. §
 
-(4) A Felügyelet mentesítheti a mikro-, kis- vagy középvállalkozásként működő befektetési vállalkozást az (1) bekezdésben meghatározott tőkefenntartási puffer-követelmény alól, ha a mentesítés nem veszélyezteti a pénzügyi közvetítőrendszer stabilitását. A Felügyelet a mentesítésről tájékoztatja az érintett EGT-állam hatáskörrel rendelkező felügyeleti hatóságát.
+110/E. §
 
-### Anticiklikus tőkepuffer
+110/F. §
 
-110/B. § (1) A befektetési vállalkozás az 575/2013/EU rendelet 92. cikkében meghatározott minimum tőkekövetelményen, a tőkefenntartási pufferen és a felügyeleti felülvizsgálat keretében előírt többlettőke-követelményen felül intézményspecifikus anticiklikus tőkepuffert képez.
+110/G. §
 
-(2) A befektetési vállalkozás az intézményspecifikus anticiklikus tőkepuffert elsődleges alapvető tőkéből – az 575/2013/EU rendelet 1. rész II. címében meghatározottak szerint – egyedi vagy összevont alapon, képzi, amelynek összege a teljes kockázati kitettség érték és az anticiklikus tőkepufferrátának a szorzata.
+110/H. §
 
-(3) Az anticiklikus tőkepufferráta azon anticiklikus tőkepufferráták súlyozott átlaga, amelyek a befektetési vállalkozás jelentős hitelkockázati kitettségeihez kapcsolódó fél földrajzi elhelyezkedése alapján alkalmazandóak.
+110/I. §
 
-(4) A (3) bekezdésben meghatározott súlyozott átlag kiszámításakor a befektetési vállalkozás az egyes anticiklikus tőkepufferrátákat súlyozza a befektetési vállalkozás adott országban jelentős hitelezési kitettségeire vonatkozó hitelkockázati tőkekövetelmény és a befektetési vállalkozás összes lényeges hitelezési kitettségére vonatkozó hitelkockázati tőkekövetelmény arányának megfelelően.
+110/J. §
 
-(5) A (4) bekezdésben meghatározott lényeges hitelezési kitettségek magukban foglalják az 575/2013/EU rendelet 112. cikk g)–q) pontjaiban meghatározott azon kitettségi osztályokba sorolható kitettségeket, amelyekhez
+110/K. §
 
-- a) a hitelkockázati tőkekövetelmény,
-- b) a kereskedési könyvben nyilvántartott kitettségek esetében az egyedi pozíciókockázatra vagy a járulékos nemteljesítési és átminősítési kockázatra vonatkozó tőkekövetelmény, vagy
-- c) az értékpapírosítási tőkekövetelmény
-
-kapcsolódik.
-
-(6) A befektetési vállalkozás számára a makroprudenciális feladatkörében eljáró MNB az 575/2013/EU rendelet 92. cikk (3) bekezdésben meghatározott teljes kockázati kitettségérték 2,5 százalékáig terjedően határozhatja meg az anticiklikus tőkepufferráta mértékét a Magyarországon székhellyel rendelkező befektetési vállalkozás számára az ezen befektetési vállalkozásnak a Magyarországon lévő féllel szembeni kitettségei vonatkozásában azzal, hogy a mértéke
-
-- a) 0 százalék vagy
-- b) 0,25 százalék valamely egész számértékkel szorzott többszöröse lehet.
-
-(7) A (6) bekezdéstől eltérve, a befektetési vállalkozás számára a makroprudenciális feladatkörében eljáró MNB 2,5 százalékot meghaladó anticiklikus tőkepufferrátát is meghatározhat, ha a gazdaságban jelentős a hitel-betét arány vagy a hitel-GDP arány kedvezőtlen folyamatain, túlmenően a makrogazdasági környezet jelentős kedvezőtlen tendenciát mutat.
-
-(8) A Felügyelet mentesítheti a mikro-, kis- vagy középvállalkozásként működő befektetési vállalkozást az (1) bekezdésben meghatározott intézményspecifikus anticiklikus tőkepuffer követelmény alól, ha a mentesítés nem veszélyezteti a pénzügyi közvetítőrendszer stabilitását. A Felügyelet a mentesítésről tájékoztatja az érintett EGT-állam hatáskörrel rendelkező felügyeleti hatóságát.
-
-110/C. § (1) Ha a befektetési vállalkozás EGT-államban végzett tevékenységének helye szerinti EGT-állam erre kijelölt hatósága az anticiklikus tőkepufferráta mértékét legfeljebb 2,5 százalék mértékben határozza meg, akkor a makroprudenciális feladatkörében eljáró MNB kötelezheti a befektetési vállalkozást, hogy az intézményspecifikus anticiklikus tőkepuffer meghatározása során az adott EGT-államban lévő féllel szembeni kitettsége tekintetében az adott EGT-állam erre kijelölt hatósága által megállapított anticiklikus tőkepufferrátát alkalmazza.
-
-(2) Ha a befektetési vállalkozásharmadik országban végzett tevékenységének helye szerinti állam erre kijelölt hatósága anticiklikus tőkepufferrátát vagy annak megfelelő tőkekövetelményt ír elő legfeljebb 2,5 százalék mértékben, akkor a makroprudenciális feladatkörében eljáró MNB kötelezheti a befektetési vállalkozást, hogy az intézményspecifikus anticiklikus tőkepuffer meghatározása során az adott harmadik országban lévő féllel szembeni kitettsége tekintetében az adott harmadik állam erre kijelölt hatósága által megállapított anticiklikus tőkepufferrátát alkalmazza.
-
-(3) Ha a befektetési vállalkozás harmadik országban végzett tevékenységének helye szerinti állam erre kijelölt hatósága az anticiklikus tőkepufferráta mértékét legfeljebb 2,5 százalék mértékben határozza meg, de a makroprudenciális feladatkörében eljáró MNB ezt a mértéket nem tartja elegendőnek ahhoz, hogy megóvja a befektetési vállalkozást az érintett harmadik országbeli hitelállománya növekedésének a kockázatától, akkor a makroprudenciális feladatkörében eljáró MNB magasabb anticiklikus tőkepufferráta mértéket is meghatározhat. A makroprudenciális feladatkörében eljáró MNB kötelezheti a befektetési vállalkozást, hogy az általa meghatározott, magasabb anticiklikus tőkepufferráta mértéket alkalmazza a harmadik országban lévő féllel szembeni kitettsége tekintetében az intézményspecifikus anticiklikus tőkepuffer meghatározása során.
-
-(4) Ha a befektetési vállalkozás EGT-államban végzett tevékenységének helye szerinti EGT-állam vagy egy érintett harmadik ország erre kijelölt hatósága az anticiklikus tőkepufferráta mértékét 2,5 százalék feletti mértékben határozza meg, akkor a makroprudenciális feladatkörében eljáró MNB a befektetési vállalkozást kötelezheti
-
-- a) a hitelezési tevékenység végzésének helye szerinti EGT-állam vagy egy érintett harmadik ország erre kijelölt hatósága által megállapított, vagy
-- b) 2,5 százalékos
-
-mértékű anticiklikus tőkepufferáta alkalmazására az adott EGT-államban vagy harmadik országban lévő féllel szembeni kitettség tekintetében az intézményspecifikus anticiklikus tőkepuffer meghatározása során.
-
-(5) Ha a befektetési vállalkozás harmadik országban végzett tevékenységének helye szerinti állam erre kijelölt hatósága nem határoz meg anticiklikus tőkepuferrátát, akkor ezen harmadik országban lévő féllel szembeni kitettségek tekintetében a makroprudenciális feladatkörében eljáró MNB anticiklikus tőkepufferrátát határozhat meg.
-
-### Globálisan és egyéb rendszerszinten jelentős befektetési vállalkozásra vonatkozó tőkepuffer
-
-110/D. § (1) A makroprudenciális feladatkörében eljáró MNB az MNBtv. 35. § (1) bekezdése szerint meghatározza a magyarországi, globálisan rendszerszinten jelentős befektetési vállalkozás körét.
-
-(2) A globálisan rendszerszinten jelentős befektetési vállalkozások meghatározása során a makroprudenciális feladatkörében eljáró MNB a következő szempontokat azonos arányban veszi figyelembe és számszerűen fejezi ki:
-
-- a) a csoport mérete,
-- b) a csoport pénzügyi közvetítőrendszerrel való összekapcsolódása,
-- c) a csoport által nyújtott szolgáltatások vagy pénzügyi infrastruktúra helyettesíthetősége,
-- d) a csoport összetettsége,
-- e) a csoport határon átnyúló tevékenysége, ideértve az EGT-államban és harmadik országban nyújtott szolgáltatását is.
-
-(3) A makroprudenciális feladatkörében eljáró MNB meghatározza, és évente felülvizsgálja a Magyarországon székhellyel rendelkező, egyéb rendszerszinten jelentős befektetési vállalkozások körét egyedi, szubkonszolidált vagy összevont alapon, és a Felügyelet folyamatosan figyelemmel kíséri azok működését.
-
-(4) Az egyéb rendszerszinten jelentős befektetési vállalkozás meghatározása során a makroprudenciális feladatkörében eljáró MNB a következő szempontokat veszi figyelembe:
-
-- a) méret,
-- b) az Európai Unió vagy Magyarország szempontjából a jelentősége,
-- c) határon átnyúló tevékenység jelentősége,
-- d) a befektetési vállalkozás vagy a csoport pénzügyi közvetítőrendszerrel való összekapcsolódása.
-
-(5) A globálisan és egyéb rendszerszinten jelentős befektetési vállalkozás meghatározásának módszertanára vonatkozó adatok nem nyilvánosak.
-
-(6) Ha a makroprudenciális feladatkörében eljáró MNB az (1) bekezdés alapján tőkepuffert határoz meg vagy mértékét módosítja az egyéb rendszerszinten jelentős befektetési vállalkozásra vonatkozóan, akkor az arról szóló határozat nyilvánosságra hozatala előtt 1 hónappal tájékoztatnia kell az érintett tagállamok illetékes és kijelölt hatóságait a következőkről:
-
-- a) indoklás arról, hogy várhatóan miért fogja a tőkepuffer hatékonyan és arányosan csökkenteni az egyéb rendszerszinten jelentős befektetési vállalkozások rendszerszintű kockázatát,
-- b) a tőkepuffer belső piacra gyakorolt várható hatása,
-- c) az egyéb rendszerszinten jelentős befektetési vállalkozásra vonatkozó tőkepufferráta mértéke.
-
-(7) A globálisan rendszerszinten jelentős befektetési vállalkozás összevont alapon globálisan rendszerszinten jelentő befektetési vállalkozásra vonatkozó tőkepuffert tart fenn az 575/2013/EU rendelet 92. cikkében meghatározott minimum tőkekövetelményen, a tőkefenntartási pufferen, az intézményspecifikus anticiklikus tőkepufferen és a felügyeleti felülvizsgálat keretében előírt többlettőke-követelményen felül.
-
-(8) A befektetési vállalkozás az (7) bekezdésben meghatározott tőkepuffert elsődleges alapvető tőkéből képzi, amelynek összege a globálisan rendszerszinten jelentős befektetési vállalkozás (9) bekezdésben meghatározott alkategóriába való besorolásától függően kerül meghatározásra.
-
-(9) A globálisan rendszerszinten jelentős befektetési vállalkozást a makroprudenciális feladatkörében eljáró MNB legalább öt alkategóriába sorolja. Az alkategóriák közötti határértékek egyértelműen meghatározottak. A legalacsonyabb alkategóriába a rendszerszinten legkevésbé jelentős befektetési vállalkozást kell sorolni azzal, hogy alkategóriánként növekedik a rendszerszintű jelentőség mértéke. A makroprudenciális feladatkörében eljáró MNB évente felülvizsgálja a befektetési vállalkozások alkategóriákba való besorolását.
-
-(10) A legalacsonyabb alkategóriába tartozó befektetési vállalkozás az 575/2013/EU rendelet 92. cikke szerinti teljes kockázati kitettség-érték 1 százalékának megfelelő, globálisan rendszerszinten jelentős befektetési vállalkozásra vonatkozó tőkepuffert képez. Az egyes alkategóriákba sorolt befektetési vállalkozások tőkepufferrátája legalább a negyedik alkategóriáig bezárólag 0,5 százalékponttal növekszik azzal, hogy a legmagasabb alkategóriába tartozó befektetési vállalkozásra 3,5 százalékos tőkepufferráta vonatkozik.
-
-(11) A makroprudenciális feladatkörében eljáró MNB a hatékony felügyelet sérelme nélkül
-
-- a) egy adott globálisan rendszerszinten jelentős befektetési vállalkozást alacsonyabb alkategóriából magasabb alkategóriába sorolhat, és
-- b) a befektetési vállalkozást, amely nem érte el a legalacsonyabb alkategóriára vonatkozó határértéket, valamely alkategóriába sorolhatja és ezáltal globálisan rendszerszinten jelentős befektetési vállalkozásnak minősítheti.
-
-110/E. § (1) Az MNBtv. alapján meghatározott, egyéb rendszerszinten jelentős befektetési vállalkozás egyedi, szubkonszolidált vagy összevont alapon egyéb rendszerszinten jelentős befektetési vállalkozásra vonatkozó tőkepuffert tart fenn az 575/2013/EU rendelet 92. cikkében meghatározott minimum tőkekövetelményen, a tőkefenntartási pufferen, az anticiklikus tőkepufferen és a felügyeleti felülvizsgálat keretében előírt többlettőke-követelményen felül.
-
-(2) Az (1) bekezdésben meghatározott tőkepuffer összegét elsődleges alapvető tőkéből kell képezni, amelynek mértékét a makroprudenciális feladatkörében eljáró MNB a (3) bekezdésben meghatározottakkal összhangban határozza meg.
-
-(3) Az (1) bekezdés szerinti tőkepuffer követelmény az 575/2013/EU rendelet 92. cikkében meghatározott teljes kockázati kitettség-érték legfeljebb 2 százaléka azzal, hogy
-
-- a) a tőkepuffer nem járhat aránytalan mértékű negatív hatással az EGT-államban vagy az EGT-államok összességében a pénzügyi közvetítőrendszer egészére vagy részére nézve, és
-- b) a makroprudenciális feladatkörében eljáró MNB legalább évente felülvizsgálja a tőkepufferráta mértékét.
-
-110/F. § Ha valamely egyéb rendszerszinten jelentős befektetési vállalkozás egy globálisan rendszerszinten jelentős befektetési vállalkozás leányvállalata vagy egy olyan egyéb rendszerszinten jelentős befektetési vállalkozás leányvállalata, amelyre összevont alapon alkalmazandó az egyéb rendszerszinten jelentős befektetési vállalkozásokra vonatkozó tőkepuffer követelmény, akkor az egyéb rendszerszinten jelentős befektetési vállalkozásra egyedi vagy szubkonszolidált alapon alkalmazandó tőkepuffer követelmény szintje nem haladhatja meg
-
-- a) az 575/2013/EU rendelet 92. cikkében meghatározott teljes kockázati kitettség-érték 1 százaléka, vagy
-- b) a globálisan vagy egyéb rendszerszinten jelentős befektetési vállalkozásra összevont alapon alkalmazandó, egyéb rendszerszinten jelentős befektetési vállalkozásra vonatkozó vagy globálisan rendszerszinten jelentős befektetési vállalkozásra vonatkozó tőkepuffer követelmény
-
-közül a magasabb értéket.
-
-### Rendszerkockázati tőkepuffer
-
-110/G. § (1) A makroprudenciális feladatkörében eljáró MNB határozata alapján a befektetési vállalkozás egyedi, szubkonszolidált vagy összevont alapon rendszerkockázati tőkepuffert képez a (6) bekezdésben foglalt eltéréssel
-
-- a) a Magyarországon lévő féllel szembeni kitettségeire,
-- b) az EGT-államban lévő féllel szembeni kitettségeire vagy
-- c) a harmadik országban lévő féllel szembeni kitettségeire.
-
-(2) Ha a makroprudenciális feladatkörében eljáró MNB az MNBtv. 35/A. § (1) bekezdése alapján rendszerkockázati tőkepufferrátát határoz meg, akkor
-
-- a) a rendszerkockázati tőkepuffer nem járhat aránytalan mértékű negatív hatással az EGT-államban vagy az EGT egészében a pénzügyi közvetítőrendszer egészére vagy részére nézve, és
-- b) az MNB legalább kétévente felülvizsgálja a tőkepufferráta mértékét.
-
-(3) A befektetési vállalkozás a rendszerkockázati tőkepuffert elsődleges alapvető tőkéből képzi az 575/2013/EU rendelet 92. cikkében meghatározott minimum tőkekövetelményen, a tőkefenntartási pufferen, az intézményspecifikus anticiklikus tőkepufferen és a felügyeleti felülvizsgálat keretében előírt többlettőke-követelményen felül.
-
-(4) A rendszerkockázati tőkepufferráta mértékét a makroprudenciális feladatkörében eljáró MNB határozza meg az (5) bekezdésben foglaltak szerint.
-
-(5) A rendszerkockázati tőkepufferráta mértéke legalább 1 százalék azzal, hogy ez a százalékérték a növekvő érték meghatározásakor 0,5 százalékponttal vagy annak valamely egész számértékkel szorzott többszörösével növekedhet.
-
-(6) Az 575/2013/EU rendelet alapján összevont alapú felügyelet alá tartozó befektetési vállalkozás számára a makroprudenciális feladatkörében eljáró MNB határozatban előírhatja, hogy egyedi és összevont alapon is képezzen rendszerkockázati tőkepuffert.
-
-### Tőkepufferekre vonatkozó közös szabályok
-
-110/H. § (1) A kombinált puffer követelmény a tőkefenntartási puffer és
-
-- a) az intézményspecifikus anticiklikus tőkepuffer követelménynek,
-- b) a globálisan rendszerszinten jelentős befektetési vállalkozásokra vonatkozó tőkepuffer követelménynek,
-- c) az egyéb rendszerszinten jelentős befektetési vállalkozásokra vonatkozó tőkepuffer követelménynek, és
-- d) a rendszerkockázati tőkepuffer követelménynek
-
-a (2), (3), (4), (5), (6) vagy (7) bekezdés szerint kombinált összegzés eredménye.
-
-(2) Ha a befektetési vállalkozásra összevont alapon előírásra kerül a globálisan rendszerszinten jelentős befektetési vállalkozásra és az egyéb rendszerszinten jelentős befektetési vállalkozásra vonatkozó tőkepuffer követelmény is, akkor a kettő közül a magasabb értéket alkalmazza.
-
-(3) Ha a befektetési vállalkozásra összevont alapon előírásra kerül a globálisan rendszerszinten jelentős befektetési vállalkozásra és az egyéb rendszerszinten jelentős befektetési vállalkozásra vonatkozó tőkepuffer követelmény, valamint a rendszerkockázati tőkepuffer követelmény is, akkor a három közül a legmagasabbat alkalmazza.
-
-(4) Ha a befektetési vállalkozásra egyedi vagy szubkonszolidált alapon előírásra kerül az egyéb rendszerszinten jelentős befektetési vállalkozásra vonatkozó tőkepuffer követelmény és a rendszerkockázati tőkepuffer követelmény, akkor a kettő közül a magasabbat alkalmazza.
-
-(5) A (3) és a (4) bekezdéstől eltérően, ha a rendszerkockázati tőkepuffer követelmény nem alkalmazandó a Magyarországon kívüli féllel szembeni kitettségre, akkor a rendszerkockázati tőkepuffer követelménynek, valamint a globálisan rendszerszinten jelentős befektetési vállalkozásra vagy az egyéb rendszerszinten jelentős befektetési vállalkozásra vonatkozó tőkepuffer követelményének összege.
-
-(6) Ha a befektetési vállalkozás egy olyan összevont alapú felügyelet alá tartozik, amelyhez egy globálisan rendszerszinten vagy egyéb rendszerszinten jelentős befektetési vállalkozás tartozik, akkor a befektetési vállalkozás egyedi kombinált pufferkövetelménye nem lehet alacsonyabb, mint
-
-- a) a tőkefenntartási puffer követelmény,
-- b) az intézményspecifikus anticiklikus tőkepuffer követelmény és
-- c) a globálisan rendszerszinten jelentős és az egyéb rendszerszinten jelentős befektetési vállalkozásra vonatkozó tőkepuffer követelmény vagy a rendszerkockázati tőkepuffer követelmény közül a magasabb tőkepuffer követelmény
-
-összege.
-
-(7) A (5) bekezdésben meghatározott esetben, ha a befektetési vállalkozás egy olyan összevont alapú felügyelet alá tartozik, amelyhez valamely globálisan vagy egyéb rendszerszinten jelentős befektetési vállalkozás tartozik, akkor a befektetési vállalkozás egyedi kombinált pufferkövetelménye nem lehet alacsonyabb, mint
-
-- a) a tőkefenntartási puffer követelmény,
-- b) az intézményspecifikus anticiklikus tőkepuffer követelmény,
-- c) a globálisan rendszerszinten jelentős és az egyéb rendszerszinten jelentős befektetési vállalkozásra vonatkozó tőkepuffer követelmény és
-- d) a rendszerkockázati tőkepuffer követelmény
-
-összege.
-
-110/I. § (1) Ha a befektetési vállalkozás nem teljesíti a 110/H. § (1) bekezdésben meghatározott kombinált pufferkövetelményt, akkor a befektetési vállalkozás korlátozza az elsődleges alapvető tőkéhez kapcsolódó kifizetéseit.
-
-(2) A befektetési vállalkozás akkor korlátozza a kifizetéseit, ha a kifizetés a befektetési vállalkozás
-
-- a) elsődleges alapvető tőkéjének, vagy
-- b) nyereségének
-
-a csökkenését eredményezné azzal, hogy a kifizetés felfüggesztése vagy törlése nem eredményezheti a befektetési vállalkozás nemteljesítését, vagy olyan esemény bekövetkezését, amely miatt felszámolás indítható a befektetési vállalkozás ellen.
-
-(3) Ha a befektetési vállalkozás nem tesz eleget a kombinált pufferkövetelménynek, akkor a befektetési vállalkozás
-
-- a) korlátozza a kifizetést az elsődleges alapvető tőkéből és a kiegészítő alapvető tőkéből,
-- b) nem keletkeztethet a teljesítményjavadalmazásra vagy a nem kötelező nyugdíjjuttatásra vonatkozó kötelezettséget, és
-- c) nem teljesíthet kifizetést a teljesítményjavadalmazásra vonatkozóan, ha a kötelezettség keletkeztetésére a kombinált pufferkövetelmény nem teljesítésével egy időben került sor.
-
-(4) A (3) bekezdés a) pontja szerinti, elsődleges alapvető tőkéből való kifizetés magában foglalja:
-
-- a) az osztalék készpénzben való kifizetését,
-- b) a teljesen vagy részlegesen fizető bónuszrészvények szerződésben rögzített értékének kifizetését,
-- c) az 575/2013/EU rendelet 26. cikk (1) bekezdés a) pontja szerinti tőkeinstrumentumok kifizetését, visszaváltását vagy visszavásárlását, vagy ezen tőkeinstrumentumhoz kapcsolódóan befizetett összegek visszafizetését,
-- d) az intézmény saját részvényeinek visszaváltását– ideértve a szövetkezeti vagyoni hozzájárulást is – vagy visszavásárlását, valamint
-- e) az 575/2013/EU rendelet 26. cikk (1) bekezdés b)–e) pontja szerinti tételekből történő kifizetést.
-
-110/J. § (1) A kombinált pufferkövetelményeket nem teljesítő befektetési vállalkozás kiszámítja azt a maximálisan kifizethető összeget, amelyet meghaladóan nem teljesíthet kifizetést addig, amíg elsődleges alapvető tőkéje el nem éri a kombinált pufferkövetelmények meghatározott szintjét.
-
-(2) A maximálisan kifizethető összeg a (3) bekezdés alapján meghatározott évközi és év végi nyereség összegének és a 2. mellékletben meghatározott tényezőnek a szorzataként számítható ki, amelyet a befektetési vállalkozás csökkent a 110/H. § (3) bekezdésben meghatározott intézkedések értékével.
-
-(3) A maximálisan kifizethető összeg meghatározásához a befektetési vállalkozás meghatározza az elsődleges alapvető tőkeként nem kimutatott évközi és év végi nyereség összegét, amely a kifizetésre vonatkozó legutolsó határozat vagy a 110/H. § (3) bekezdésben meghatározott intézkedések óta keletkezett, és amely a nyereség visszatartása miatt fizetendő adó mértékével csökkentett nyereség összegével egyezik meg.
-
-110/K. § (1) A kombinált pufferkövetelményeket nem teljesítő befektetési vállalkozás tájékoztatja a Felügyeletet
-
-- a) az általa kiszámított maximálisan kifizethető összegről,
-- b) a kifizethető nyereség kifizetésének szándékáról, és
-- c) a 110/H. § (3) bekezdése szerinti korlátozásról.
-
-(2) A befektetési vállalkozás az (1) bekezdésben meghatározott tájékoztatás keretében a Felügyelet rendelkezésére bocsátja a szükséges információkat:
-
-- a) a szavatoló tőke összegéről, az elsődleges alapvető tőke, a kiegészítő alapvető tőke és a járulékos tőke szerinti bontásban,
-- b) az évközi és év végi nyereség összegéről,
-- c) a maximálisan kifizethető összegről, és
-- d) a kifizethető nyereség összegéről, amelyet a következők kifizetésére használ fel:
-  - da) osztalékfizetés,
-  - db) részvény-visszavásárlás,
-  - dc) kiegészítő alapvető tőkeelemhez kapcsolódó kifizetés, vagy
-  - dd) teljesítményjavadalmazás vagy nem kötelező nyugdíjjuttatás kifizetésére vonatkozó fizetési kötelezettség keletkeztetése, vagy ezekre vonatkozó olyan kifizetés teljesítése, amely a kombinált pufferkövetelmény nem teljesítésével egy időben keletkezett.
-
-(3) A befektetési vállalkozás a maximálisan kifizethető összeg és a kifizethető nyereség meghatározása érdekében pontos és megbízható rendszerrel rendelkezik. A befektetési vállalkozás a pontosságot a Felügyelet kérésére igazolja.
-
-110/L. § (1) Ha a befektetési vállalkozás nem teljesíti a kombinált pufferkövetelményt, akkor a nemteljesítés megállapításától számított öt munkanapon belül tőkefenntartási tervet készít és jóváhagyásra benyújtja a Felügyelet számára.
-
-(2) Az (1) bekezdéstől eltérve, a Felügyelet tíz munkanapot is engedélyezhet a tőkefenntartási terv elkészítésére és benyújtására a befektetési vállalkozás egyedi helyzete, tevékenységének mérete és összetettsége alapján.
-
-(3) A befektetési vállalkozás tőkefenntartási terve tartalmaz:
-
-- a) a tervezett bevételekre és kiadásokra,
-- b) mérlegtervre,
-- c) az 575/2013/EU rendelet 92. cikkében meghatározott tőkemegfelelési mutatók értékének növelése tekintetében a szükséges intézkedésekre,
-- d) a szavatoló tőke szintjének emelésére irányuló tervre, valamint
-- e) a kombinált pufferkövetelmény teljesítésének ütemezésére vonatkozó információkat és a Felügyelet által kért információkat.
-
-(4) A Felügyelet jóváhagyja a befektetési vállalkozás tőkefenntartási tervét, ha úgy ítéli meg, hogy a terv végrehajtásával a befektetési vállalkozás teljesíteni tudja a kombinált pufferkövetelményeket a Felügyelet által meghatározott határidőn belül.
-
-(5) Ha a Felügyelet nem hagyja jóvá a befektetési vállalkozás tőkefenntartási tervét, akkor
-
-- a) a meghatározott határidőn belül a befektetési vállalkozás szavatoló tőkéjének meghatározott szintre emelését írja elő,
-- b) a 110/I. §-ban meghatározottnál szigorúbb kifizetési korlátozást rendel el.
+110/L. §
 
 ### XX/B. Fejezet — CSOPORTON BELÜLI PÉNZÜGYI TÁMOGATÁS
 
@@ -2955,6 +2765,14 @@ kell eleget tenni.
 
 (6) A befektetési vállalkozás és az árutőzsdei szolgáltató köteles a tevékenységéről, az általa megkötött ügyletekről jogszabályban előírt módon, tartalommal és gyakorisággal a Felügyeletnek adatot szolgáltatni.
 
+(6a) A (6) bekezdéstől eltérően, a Felügyelet akkor írhat elő kiegészítő vagy gyakoribb adatszolgáltatást a befektetési vállalkozás számára, ha az nem eredményez párhuzamos adatközlést, és
+
+- a) fennáll a 164. § (1a) bekezdés a) pontja szerinti eset,
+- b) a Felügyelet szükségesnek ítéli a 164. § (1a) bekezdés a) pontja szerinti bizonyítékok begyűjtését, vagy
+- c) a kiegészítő információra a 162. § szerinti felügyeleti felülvizsgálat és értékelés céljából van szükség.
+
+(6b) Az adatközlés akkor tekinthető párhuzamosnak, ha az információ vagy lényegében ugyanaz az információ már a Felügyelet rendelkezésére áll, azt a Felügyelet elő tudja állítani, vagy az adatszolgáltatási kötelezettségnek a befektetési vállalkozás számára történő előírása nélkül is be tudja szerezni. Ha az információ a közlendő további információtól eltérő formátumban vagy részletezettséggel áll a Felügyelet rendelkezésére, akkor a Felügyelet nem írhat elő további adatszolgáltatást, ha az említett eltérő formátum vagy részletezettség nem akadályozza abban, hogy lényegében hasonló információt állítson elő.
+
 (7) A Magyarország területén bejegyzett befektetési vállalkozás köteles bejelenteni, ha anyavállalata vegyes tevékenységű holding társasággá vagy vegyes pénzügyi holding társasággá válik, és ha ezen viszony módosul vagy megszűnik.
 
 (8) A működési kockázat kivételével az egyes kockázati típusok tőkekövetelmény számítására belső módszert alkalmazó befektetési vállalkozások évente legalább egyszer megküldik a Felügyelet számára a kialakított referenciaérték portfóliókra a belső módszerük által számított tőkekövetelmény eredményeket és a számításra alkalmazott módszerek magyarázatát. A referenciaérték portfólióra vonatkozó adatszolgáltatás módját, annak tartalmát, valamint a beérkezett információk értékelésének módszertanát az Európai Bizottság vonatkozó rendelete határozza meg. A Felügyelet a rendeletben foglaltakhoz képest további referenciaérték portfóliókat is meghatározhat.
@@ -2970,18 +2788,18 @@ legalább naponta rendelkezésre bocsátja az általa, ügyfelei által, valamin
 
 (11) A 600/2014/EU rendelet 23. és 28. cikkében előírt kereskedési kötelezettség tárgyát képező pénzügyi eszközök tekintetében minden kereskedési helyszín és rendszeres internalizáló, egyéb pénzügyi eszközök tekintetében pedig minden kereskedési helyszín legalább évente egyszer díjazás nélkül nyilvánosságra hozza az ügyletek – adott helyszínen történt – végrehajtásának minőségével kapcsolatos adatokat.
 
-123/A. § (1) A befektetési vállalkozás, ha az 575/2013/EU rendelet alapján összevont alapú felügyelet alá tartozik akkor legalább évente egyszer összevont alapon nyilvánosságra hozza az üzleti évre vonatkozóan (EGT-államonként és harmadik országonkénti bontásban)
+123/A. § (1) A befektetési vállalkozás, ha az 575/2013/EU rendelet 4. cikk (1) bekezdés 26. pontja szerinti pénzügyi vállalkozásnak minősülő, valamely más EGT-államban, illetve harmadik országban működő fiókteleppel vagy leányvállalattal rendelkezik, legalább évente egyszer nyilvánosságra hozza az üzleti évre vonatkozóan (EGT-államonkénti és harmadik országonkénti bontásban) az alábbi információkat:
 
-- a) a befektetési vállalkozás nevét, tevékenységek jellegét és földrajzi tagozódását,
+- a) a leányvállalatok, illetve fióktelepek nevét, működési helyét, valamint a tevékenységeik jellegét,
 - b) az árbevételt,
 - c) a teljes munkaidőben alkalmazottak létszámát,
 - d) az adózás előtti eredményt,
 - e) az eredményt terhelő adókat, valamint
 - f) a kapott állami támogatást.
 
-(2) A befektetési vállalkozás egyedi alapon nyilvánosságra hozza az adózott eredmény és a mérlegfőösszeg hányadosaként kifejezett eszközarányos jövedelmezőségi mutatóját.
+(2) Az (1) bekezdés szerinti információkat a számviteli jogszabályokban foglaltakkal összhangban ellenőrizni kell, és – ha rendelkezésre áll – azokat mellékelni kell a befektetési vállalkozás éves beszámolójához vagy az összevont (konszolidált) éves pénzügyi beszámolójához.
 
-(3) A Felügyelet az 575/2013/EU rendelet Nyolcadik részében meghatározott információk évesnél gyakoribb nyilvánosságra hozataláról is dönthet, ha a befektetési vállalkozás tevékenységi volumene, tevékenységi köre, más országban folytatott tevékenysége, különböző pénzügyi szektorokban folytatott tevékenysége, nemzetközi pénzügyi piacon való részvétele, illetve a klíring- és elszámolási rendszerekben való részvétele indokolja azt.
+(3) A Felügyelet megkövetelheti, hogy a kis méretű és össze nem kapcsolt befektetési vállalkozásnak nem minősülő befektetési vállalkozás, valamint a kiegészítő alapvető tőkeinstrumentumokat kibocsátó, kis méretű és össze nem kapcsolt befektetési vállalkozásnak minősülő befektetési vállalkozás legalább évente kétszer hozza nyilvánosságra honlapján az (EU) 2019/2033 rendelet 46. cikke szerinti információkat a Felügyelet által meghatározott a nyilvánosságra hozatali határidőn belül.
 
 (4) A befektetési vállalkozás anyavállalat és a pénzügyi holding társaság anyavállalat legalább évente nyilvánosságra hozza a jogi, vállalatirányítási és szervezeti struktúráját, valamint javadalmazási politikáját.
 
@@ -3135,7 +2953,7 @@ azzal, hogy ha a követelések kielégítésére nincs elegendő fedezet, az egy
 
 pusztán e jellemzőik miatt nem tekintendők beágyazott származtatott ügyletet tartalmazó, hitelviszonyt megtestesítő instrumentumoknak.
 
-(7) A befektetési vállalkozás felszámolása esetén az 575/2013/EU rendeletben meghatározott alárendelt kölcsöntőkéből, valamint kiegészítő alárendelt kölcsöntőkéből eredő tartozást a Cstv. 57. §-a (1) bekezdésének h) pontjában meghatározott tartozás kielégítését követően kell kielégíteni.
+(7) A befektetési vállalkozás felszámolása esetén az (EU) 2019/2033 rendelet alkalmazásában járulékos tőkének minősülő tartozást a Cstv. 57. § (1) bekezdés h) pontjában meghatározott tartozás kielégítését követően kell kielégíteni.
 
 (8) Az (1)–(7) bekezdésben foglalt rendelkezések büntetőeljárásban elrendelt zár alá vétel esetén annak feloldása után alkalmazandók.
 
@@ -3812,13 +3630,13 @@ kezelheti.
 
 161/A. § (1) A Felügyelet látja el a Magyarországon bejegyzett befektetési vállalkozás összevont alapú felügyeletét.
 
-(2) Ha valamely befektetési vállalkozás anyavállalata hitelintézet, illetve a hitelintézet részesedési viszonnyal rendelkezik befektetési vállalkozásban és a befektetési vállalkozás nem tartozik az (1) bekezdésben meghatározott összevont alapú felügyelet alá, a Hpt. összevont alapú felügyeletre vonatkozó szabályai az alkalmazandóak.
+(2) Ha valamely hitelintézet részesedési viszonnyal rendelkezik befektetési vállalkozásban, és a befektetési vállalkozás nem tartozik az (1) bekezdésben meghatározott összevont alapú felügyelet alá, akkor a Hpt. összevont alapú felügyeletre vonatkozó szabályai alkalmazandóak.
 
 (3) A Felügyelet nem vizsgálja a pénzügyi holding társaság, a külföldi befektetési vállalkozás, a vegyes pénzügyi holding társaság és vegyes tevékenységű holding társaság prudens működését egyedi alapon.
 
 (4) Ha a Felügyelet dokumentumok vagy helyszíni ellenőrzés alapján szoros kapcsolatot állapít meg, összevont alapú felügyelet alá tartozónak minősíthet valamely magyarországi bejegyzésű befektetési vállalkozást, és meghatározhatja, hogy valamely vállalkozásra az összevont alapú felügyelet kiterjed.
 
-(5) Az olyan befektetési vállalkozás, pénzügyi vállalkozás, hitelintézet és járulékos vállalkozás, amelyben az összevont alapú felügyelet alá tartozó befektetési vállalkozás vagy a pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal rendelkezik – ha jogszabály másként nem rendelkezik –, az összevont alapú felügyelet alá tartozó befektetési vállalkozás vagy a pénzügyi holding társaság részére az összevont alapú felügyelet érdekében szükséges minden adatot és információt átad. Ezen egyedi adatot és információt az összevont alapú felügyelet alá tartozó befektetési vállalkozás vagy a pénzügyi holding társaság elkülönítetten – az adatvédelmi előírások betartásával – kezeli.
+(5) Az olyan befektetési vállalkozás, pénzügyi vállalkozás, hitelintézet és járulékos vállalkozás, amelyben az összevont alapú felügyelet alá tartozó befektetési vállalkozás vagy a pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal rendelkezik – ha jogszabály másként nem rendelkezik –, az összevont alapú felügyelet alá tartozó befektetési vállalkozás vagy a pénzügyi holding társaság részére az összevont alapú felügyelet érdekében szükséges minden adatot és információt átad. Az olyan leányvállalat esetében, amely nem tartozik e törvény hatálya alá, az anyavállalat biztosítja, hogy a leányvállalat egyedi alapon eleget tegyen az e törvényben foglalt feltételeknek. Ezen egyedi adatot és információt az összevont alapú felügyelet alá tartozó befektetési vállalkozás vagy a pénzügyi holding társaság elkülönítetten – az adatvédelmi előírások betartásával – kezeli.
 
 (6) Az olyan befektetési vállalkozástól, pénzügyi vállalkozástól, befektetési vállalkozástól és járulékos vállalkozástól, amelyben az összevont alapú felügyelet alá tartozó befektetési vállalkozás vagy a pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal rendelkezik, a Felügyelet közvetlenül is kérhet az összevont alapú felügyelet érdekében szükségessé váló adatot és információt.
 
@@ -3826,15 +3644,15 @@ kezelheti.
 
 - a) az összevont alapú felügyelet alá tartozó befektetési vállalkozással szoros kapcsolatban álló személytől,
 - b) az összevont alapú felügyelet alá tartozó befektetési vállalkozás anyavállalatával vagy a befektetési vállalkozásban részesedési viszonnyal rendelkező személlyel más szoros kapcsolatban álló személytől, és
-- c) az 575/2013/EU rendelet 19. cikke alapján mentesített befektetési vállalkozástól, pénzügyi vállalkozástól, befektetési vállalkozás vagy járulékos vállalkozástól.
+- c) a mentesített befektetési vállalkozástól, pénzügyi vállalkozástól vagy járulékos vállalkozástól.
 
-(8) A (7) bekezdés alapján a Felügyelet által kért adatszolgáltatás csak jogszabályban meghatározott esetben tagadható meg.
+(8) A (7) bekezdés alapján a Felügyelet által kért adatszolgáltatás csak jogszabályban vagy az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott esetben tagadható meg.
 
 (9) Az összevont alapú felügyelet alá tartozó befektetési vállalkozás vagy a pénzügyi holding társaság rendelkezik az összevont alapú felügyelete érdekében szükséges adatok és információk szolgáltatására alkalmas információs rendszerrel, és azok megbízhatóságát biztosító informatikai és belső ellenőrzési rendszerrel.
 
-(10) Ha az összevont alapú felügyelet alá tartozó befektetési vállalkozás anyavállalata vegyes tevékenységű holding társaság, akkor a vegyes tevékenységű holding társaság és azon vállalkozások – amelyekre az összevont alapú felügyelet kiterjed – közötti ügyletek felügyelete a Felügyelet feladata. Az összevont alapú felügyelet alá tartozó befektetési vállalkozás rendelkezik olyan kockázatkezelési eljárással és belső ellenőrzési rendszerrel, beleértve a számviteli politikáját és a beszámolási rendszerét, amely alkalmas az előbb említett ügyletek meghatározására, mérésére és ellenőrzésére, amelyeket a Felügyelet ellenőriz.
+(10) Ha az összevont alapú felügyelet alá tartozó befektetési vállalkozás anyavállalata vegyes tevékenységű holding társaság, akkor a vegyes tevékenységű holding társaság leányvállalatai közötti, valamint a vegyes tevékenységű holding társaság és azon vállalkozások – amelyekre az összevont alapú felügyelet kiterjed – közötti ügyletek felügyelete a Felügyelet feladata. Az összevont alapú felügyelet alá tartozó befektetési vállalkozás rendelkezik olyan kockázatkezelési eljárással és belső ellenőrzési rendszerrel, beleértve a számviteli politikáját és a beszámolási rendszerét, amely alkalmas az előbb említett ügyletek meghatározására, mérésére és ellenőrzésére, amelyeket a Felügyelet ellenőriz.
 
-(11) Az összevont alapú felügyelet alá tartozó befektetési vállalkozás és a pénzügyi holding társaság haladéktalanul bejelenti az 575/2013/EU rendeletben, valamint a (7) bekezdésben meghatározott szoros kapcsolat létrejöttét, módosulását vagy megszűnését.
+(11) Az összevont alapú felügyelet alá tartozó befektetési vállalkozás és a pénzügyi holding társaság haladéktalanul bejelenti a szoros kapcsolat létrejöttét, módosulását vagy megszűnését.
 
 (12) A (11) bekezdés szerinti bejelentési kötelezettségnek a magyarországi bejegyzésű befektetési vállalkozás külföldi pénzügyi holding társaság anyavállalata az összevont alapú felügyelet alá tartozó befektetési vállalkozásán keresztül is eleget tehet.
 
@@ -3846,24 +3664,26 @@ kezelheti.
 
 (4) Az (1) és (2) bekezdés szerinti ellenőrzést a Felügyelet harmadik ország felügyeleti hatóságának kérésére is végezhet, valamint a viszonosság mérlegelése alapján vagy érvényben lévő felügyeleti megállapodás esetén hozzájárulhat, hogy az ellenőrzésben a hozzájárulást kérő felügyeleti hatóság, illetve egy általa kijelölt könyvvizsgáló vagy egyéb szakértő részt vegyen.
 
-(5) Ha a befektetési vállalkozás anyavállalata harmadik országbeli befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság, akkor az összevont alapú felügyelet ellátása érdekében a Felügyelet megvizsgálja, hogy a harmadik ország jogrendje megfelel-e az Európai Parlament és a Tanács 2013/36/EU irányelvében foglalt, az összevont alapú felügyeletre vonatkozó szabályoknak. A Felügyelet a vizsgálat során egyeztet az EBH-val. Az egyeztetést követően a Felügyelet dönt a jogrend megfelelőségéről.
+(5) Ha a befektetési vállalkozás anyavállalata harmadik országbeli befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság, akkor az összevont alapú felügyelet ellátása érdekében a Felügyelet megvizsgálja, hogy a harmadik ország jogrendje megfelel-e az e törvényben és az (EU) 2019/2033 rendelet első részében foglalt, az összevont alapú felügyeletre vonatkozó szabályoknak. A Felügyelet a vizsgálat során egyeztet az EBH-val. Az egyeztetést követően a Felügyelet dönt a jogrend megfelelőségéről.
 
-(6) Ha a harmadik ország jogrendje nem felel meg az Európai Parlament és a Tanács 2013/36/EU irányelvében foglalt, az összevont alapú felügyeletre vonatkozó szabályoknak, akkor a Felügyelet látja el az összevont alapú felügyeleti feladatokat, és ennek érdekében minden lehetséges intézkedést megtesz.
+(6) Ha a harmadik ország jogrendje nem felel meg az e törvényben és az (EU) 2019/2033 rendelet első részében foglalt, az összevont alapú felügyeletre vonatkozó szabályoknak, akkor a Felügyelet látja el az összevont alapú felügyeleti feladatokat, és ennek érdekében minden lehetséges intézkedést megtesz.
 
 (7) A (6) bekezdésben meghatározott esetben a Felügyelet egyeztet a harmadik országbeli befektetési vállalkozás, pénzügyi holding társaság vagy vegyes pénzügyi holding társaság székhelye szerinti hatáskörrel rendelkező felügyeleti hatóságával.
 
-161/C. § (1) Ha a befektetési vállalkozás tagállami anyavállalat vagy EU-szintű anyavállalat, akkor az összevont alapú felügyeletet a befektetési vállalkozást engedélyező EGT-állam hatáskörrel rendelkező felügyeleti hatósága látja el.
+161/C. § (1) A Felügyelet látja el az összevont alapú felügyeletet, illetve a csoporttőke-tesztnek való megfelelés felügyeletét a befektetésivállalkozás-csoportot vezető, magyarországi székhelyű befektetési vállalkozás anyavállalat vagy EU-szintű befektetési vállalkozás anyavállalat esetében.
 
-(2) Ha a befektetési vállalkozás anyavállalata tagállami pénzügyi holding társaság anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat, vagy tagállami vegyes pénzügyi holding társaság anyavállalat, vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat, akkor az összevont alapú felügyeletet a befektetési vállalkozást engedélyező EGT-állam hatáskörrel rendelkező felügyeleti hatósága látja el. Ha a Felügyelet látja el az összevont alapú felügyeletet, akkor a pénzügyi holding társaság anyavállalatot és a vegyes pénzügyi holding társaság anyavállalatot bejelenti az Európai Bizottságnak, valamint tájékoztatja a többi EGT-állam hatáskörrel rendelkező felügyeleti hatóságát.
+(2) A Felügyelet látja el az összevont alapú felügyeletet, illetve a csoporttőke-tesztnek való megfelelés felügyeletét, ha a magyarországi székhelyű befektetési vállalkozás anyavállalata egy EU-szintű befektetési holding társaság anyavállalat vagy egy EU-szintű vegyes pénzügyi holding társaság anyavállalat.
 
-(3) Ha egy magyarországi székhelyű befektetési vállalkozás és egy más EGT-állam befektetési vállalkozása ugyanazon tagállami pénzügyi holding társaság anyavállalat vagy tagállami vegyes pénzügyi holding társaság anyavállalat, EU-szintű pénzügyi holding társaság vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalata – a (4) bekezdésben foglalt eltéréssel, az összevont alapú felügyeletet azon EGT-állam hatáskörrel rendelkező felügyeleti hatósága látja el, amelyben a pénzügyi holding társaságot vagy vegyes pénzügyi holding társaságot bejegyezték.
+(3) A Felügyelet látja el az összevont alapú felügyeletet, illetve a csoporttőke-tesztnek való megfelelés felügyeletét, ha legalább egy magyarországi székhelyű befektetési vállalkozásnak és legalább egy más EGT-állam legalább egy befektetési vállalkozásának ugyanaz az EU-szintű befektetési holding társaság anyavállalata vagy ugyanaz az EU-szintű vegyes pénzügyi holding társaság anyavállalata, és a befektetési holding társaság vagy a vegyes pénzügyi holding társaság magyarországi székhellyel rendelkezik.
 
-(4) Ha egy magyarországi székhelyű befektetési vállalkozás és egy más EGT-állam befektetési vállalkozása
+(4) A Felügyelet látja el az összevont alapú felügyeletet, illetve a csoporttőke-tesztnek való megfelelés felügyeletét, ha legalább egy magyarországi székhelyű befektetési vállalkozásnak és legalább egy más EGT-állam legalább egy befektetési vállalkozásának
 
-- a) ugyanazon pénzügyi holding társaság vagy vegyes pénzügyi holding társaság leányvállalata, de egyikük székhelye sem abban a EGT-államban található, amelyben a pénzügyi holding társaság vagy vegyes pénzügyi holding társaság székhelye, vagy
-- b) több olyan pénzügyi holding társaság leányvállalata, amelyeknek a székhelye különböző EGT-államban található, és ezen EGT-államok mindegyikében engedélyeztek befektetési vállalkozási leányvállalatot, az összevont alapú felügyelet a legnagyobb mérlegfőösszeggel rendelkező befektetési vállalkozás felügyeletét ellátó hatóság feladatát képezi.
+- a) anyavállalata a befektetési vállalkozások székhelyétől eltérő EGT-államban székhellyel rendelkező ugyanaz az EU-szintű befektetési holding társaság vagy EU-szintű vegyes pénzügyi holding társaság, vagy
+- b) az anyavállalataik között egynél több olyan befektetési holding társaság vagy vegyes pénzügyi holding társaság van, amelyek székhelyei különböző EGT-államokban vannak, és ezen EGT-államok mindegyikében található befektetési vállalkozás,
 
-(5) A (2)–(4) bekezdésben meghatározottaktól a felügyeleti hatóságok eltérhetnek, de ebben az esetben a megállapodás előtt a tagállami pénzügyi holding társaság anyavállalat, EU-szintű pénzügyi holding társaság anyavállalat, tagállami vegyes pénzügyi holding társaság anyavállalat vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat véleményét is ki kell kérni.
+és a befektetési vállalkozások mint leányvállalatok közül a magyarországi székhelyű befektetési vállalkozás mérlegfőösszege a legnagyobb.
+
+(5) Ha nem a (3) és (4) bekezdésben meghatározottak alapján, de a Felügyelet és a többi érintett EGT-állam hatáskörrel rendelkező felügyeleti hatósága közös megegyezésével a hatékony felügyelet biztosítása érdekében a Felügyelet látná el az összevont alapú felügyeletet, illetve a csoporttőke-tesztnek való megfelelés felügyeletét, akkor a Felügyelet kijelöléséről szóló megállapodás előtt a Felügyeletnek erről a megállapodásról az esettől függően az EU-szintű befektetési holding társaság anyavállalat, az EU-szintű vegyes pénzügyi holding társaság anyavállalat vagy a legnagyobb mérlegfőösszeggel rendelkező befektetési vállalkozás véleményét is ki kell kérnie.
 
 (6) A (4) és (5) bekezdés alapján kötött megállapodásnak az összevont alapú felügyeleti célok elérése érdekében biztosítania kell a megfelelő információáramlást és a felügyeleti hatóságok között szükséges együttműködést.
 
@@ -3885,63 +3705,69 @@ kezelheti.
 - a) az összevont felügyelet alá tartozó befektetési vállalkozás tulajdonosi és irányítási szerkezetének feltárását, valamint a befektetési vállalkozás hatáskörrel rendelkező felügyeleti hatóságának azonosítását szolgálja,
 - b) az összevont felügyelet alá tartozó befektetési vállalkozástól származó információk gyűjtésére és ellenőrzésére vonatkozó eljárásokat tartalmazza,
 - c) olyan, az összevont felügyelet alá tartozó befektetési vállalkozást, pénzügyi vállalkozást, befektetési alapkezelő társaságot vagy járulékos vállalkozást érintő válsághelyzetre utal, amely súlyosan érinti a befektetési vállalkozást,
-- d) a felügyeleti felülvizsgálat keretében előírt többlet-tőkekövetelményre, valamint a működési kockázat tőkekövetelményének fejlett mérési módszerrel történő számítása korlátozására vonatkozik, és
-- e) befolyásolja a másik EGT-állam illetékes hatóságának felügyelete alá tartozó befektetési vállalkozás vagy pénzügyi vállalkozás prudenciális helyzetét.
+- d) a felügyeleti felülvizsgálat és értékelés, valamint a felügyeleti intézkedések keretében előírt tőkekövetelményre vonatkozik, és
+- e) a Felügyelet által hozott jelentősebb szankciókkal és rendkívüli intézkedésekkel kapcsolatos.
 
 (6) Ha a Felügyelet egy másik EGT-államban székhellyel rendelkező EU-szintű anyavállalat, EU-szintű pénzügyi holding társaság anyavállalat vagy EU-szintű vegyes pénzügyi holding társaság anyavállalat leányvállalatát felügyeli és olyan információra van szüksége, amellyel az EU-szintű anyavállalat, EU-szintű vegyes pénzügyi holding társaság anyavállalat vagy EU-szintű pénzügyi holding társaság anyavállalat felügyeleti hatósága már rendelkezik, akkor a Felügyeletnek elsődlegesen ehhez a hatósághoz kell fordulnia.
+
+(6a) A Felügyelet az 1093/2010/EU rendelet 19. cikk (1) bekezdésével összhangban az EBH-hoz fordulhat, ha nem kapott meg haladéktalanul valamely, az (5) bekezdésben foglalt lényeges információt, vagy ha az együttműködés – különösen lényeges információ cseréje – iránti kérését elutasították vagy észszerű időn belül nem teljesítették.
+
+(6b) A Felügyelet egyeztet a többi EGT-állam hatáskörrel rendelkező felügyeleti hatóságaival azok felügyeleti feladatai szempontjából esetlegesen jelentőséggel bíró határozat meghozatala előtt:
+
+- a) az összevont alapú felügyelet alá tartozó befektetési vállalkozás tulajdonosi vagy szervezeti felépítésében vagy irányítási rendszerében bekövetkező változásokról, amelyek felügyeleti hatósági bejelentés- vagy engedélykötelesek;
+- b) az EGT-állam hatáskörrel rendelkező felügyeleti hatóságai által a befektetési vállalkozásra kiszabott jelentősebb szankcióról vagy ezen hatóságok által hozott bármely más rendkívüli intézkedésről; valamint
+- c) a felügyeleti felülvizsgálat és értékelés, valamint a felügyeleti intézkedések keretében előírt tőkekövetelményről.
+
+(6c) A Felügyelet tájékoztatja az összevont alapú felügyeletet ellátó más felügyeleti hatóságot, ha – a (6b) bekezdés b) pontjának megfelelően – jelentősebb szankciót szab ki, vagy bármely más rendkívüli intézkedést hoz.
+
+(6d) A Felügyelet sürgős esetben, vagy ha az egyeztetés veszélyeztetheti a határozat végrehajtásának hatékonyságát, akkor dönthet úgy, hogy a (6b) bekezdésben foglalt egyeztetést nem folytatja le. Ebben az esetben a döntést követően haladéktalanul tájékoztatja a többi érintett EGT-állam hatáskörrel rendelkező felügyeleti hatóságát.
 
 (7) Ha a Felügyelet látja el az összevont alapú felügyelet alá tartozó befektetési vállalkozás felügyeletét, és olyan válsághelyzet áll elő – ideértve a pénzügyi piacokon zajló kedvezőtlen folyamatokat is -, amely potenciálisan veszélyezteti a pénzügyi rendszer stabilitását azon EGT-államok bármelyikében, amelyben
 
 - a) az ezen befektetési vállalkozás ellenőrző befolyása alatt álló hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak vagy
-- b) az olyan hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, amelyben részesedési viszonnyal rendelkezik, a székhelye van, vagy amely EGT-államban olyan befektetési vállalkozás létesített rendszerszinten jelentős fióktelepet, amelyre a Felügyelet összevont alapú felügyelete kiterjed, akkor a Felügyelet haladéktalanul tájékoztatja az EBH-t, az érintett EGT-állam központi kormányát, hatáskörrel rendelkező felügyeleti hatóságát, valamint központi bankját.
+- b) az olyan hitelintézetnek, befektetési vállalkozásnak, befektetési alapkezelő társaságnak és pénzügyi vállalkozásnak, amelyben részesedési viszonnyal rendelkezik, a székhelye van, vagy amely EGT-államban olyan befektetési vállalkozás létesített rendszerszinten jelentős fióktelepet, amelyre a Felügyelet összevont alapú felügyelete kiterjed, akkor a Felügyelet haladéktalanul tájékoztatja az EBH-t, az Európai Rendszerkockázati Testületet, az érintett EGT-állam központi kormányát, hatáskörrel rendelkező felügyeleti hatóságát, valamint központi bankját.
+
+161/E. § A Felügyelet ellenőrzi a befektetési holding társaságoknak és a vegyes pénzügyi holding társaságoknak a csoporttőke-tesztnek való megfelelését.
+
+161/F. § Ha a Hpt. 105/B. §-ától eltérően a csoportban nincs hitelintézet, akkor az EU-szintű befektetési vállalkozás anyavállalat a Hpt. 105/B. §-át értelemszerűen alkalmazza.
 
 ### Felügyeleti felülvizsgálat és értékelés
 
-162. § (1) A Felügyelet felülvizsgálja és értékeli azokat a szabályzatokat, stratégiákat, eljárásokat és módszereket, amelyeket a befektetési vállalkozás az e törvény, továbbá a prudens működésre vonatkozó szabályok és az 575/2013/EU rendelet betartása érdekében hoz.
+162. § (1) A Felügyelet felülvizsgálja és értékeli azokat a szabályzatokat, stratégiákat, eljárásokat és módszereket, amelyeket a befektetési vállalkozás az e törvény, továbbá a prudens működésre vonatkozó szabályok és az (EU) 2019/2033 rendelet betartása érdekében hoz.
 
-(2) A Felügyelet felülvizsgálja és értékeli a befektetési vállalkozás e törvény, továbbá a prudens működésre vonatkozó szabályok és az 575/2013/EU rendelet összes követelményének való megfelelését.
+(2) A Felügyelet felülvizsgálja és értékeli a befektetési vállalkozás e törvény, továbbá a prudens működésre vonatkozó szabályok és az (EU) 2019/2033 rendelet összes követelményének való megfelelését.
 
-(3) A Felügyelet a felügyeleti felülvizsgálatot és értékelést az 575/2013/EU rendelet első részének II. címében meghatározottaknak megfelelően egyedi vagy összevont alapon végzi.
+(3)
 
-(4) A Felügyelet a felülvizsgálati és értékelési eljárás során értékeli:
+(4)
 
-- a) azon kockázatokat, amelyeknek a befektetési vállalkozás ki van vagy ki lehet téve,
-- b) a befektetési vállalkozás pénzügyi közvetítőrendszerre gyakorolt rendszerszintű kockázatát, és
-- c) azon kockázatokat, amelyeket a stresszteszt során a befektetési vállalkozás tevékenységének jellegét, nagyságrendjét és összetettségét figyelembe véve feltártak.
+(5) A Felügyelet a kockázatok fedezetének és megbízható kezelésének biztosítása érdekében a felülvizsgálati és értékelési eljárás során értékeli
 
-(5) A felülvizsgálatnak és értékelésnek a hitel-, piaci és működési kockázatokon kívül ki kell terjednie:
+- a) a 101. § (1) bekezdés szerinti kockázatokat,
+- b) a befektetési vállalkozás kitettségeinek földrajzi helyét,
+- c) a befektetési vállalkozás üzleti modelljét,
+- d) a rendszerszintű kockázat azonosításával és mérésével a rendszerszintű kockázatot az 1093/2010/EU rendelet 23. cikke vagy az Európai Rendszerkockázati Testület (a továbbiakban: ERKT) ajánlásai alapján,
+- e) a befektetési vállalkozás hálózati és információs rendszerének biztonságát fenyegető kockázatokat, a befektetési vállalkozás eljárásai, adatai és eszközei bizalmas jellegének, integritásának és rendelkezésre állásának biztosítása érdekében,
+- f) a befektetési vállalkozás vállalatirányítási rendszereit, a vezető testület tagjainak feladataik ellátására irányuló képességeit, és
+- g) a befektetési vállalkozásnak a nem kereskedési könyvben nyilvántartott kitettségének a kamatkockázatát.
 
-- a) a belső minősítési módszert alkalmazó befektetési vállalkozás által végzett stresszteszteredményekre,
-- b) a 101. § (1) bekezdésének b) pontja szerinti koncentrációs kockázat kezelésére,
-- c) az elismert hitelezési kockázatmérséklési módszerek használatával kapcsolatos – a 21/A. § (2) bekezdése – kockázat kezelésére szolgáló eljárások és szabályzatok megbízhatóságára, megfelelőségére és alkalmazási módjára,
-- d) a befektetési vállalkozás likviditási kockázatokkal szembeni kitettségének mértékére, e kockázatoknak a befektetési vállalkozás általi mérésére és kezelésére, ideértve az alternatív forgatókönyvek elemzését, a kockázatcsökkentő eszközök alkalmazását, a likviditási többlettartalékok mértékét, összetételét és minőségét, valamint a vészhelyzeti terveket,
-- e) a kockázatmegoszlás (diverzifikáció) hatására és annak kockázatfelmérési rendszerben történő figyelembevételére,
-- f) a piaci kockázattal kapcsolatos tőkekövetelményhez belső modell módszert használó befektetési vállalkozás által végrehajtott stresszteszteredményekre,
-- g) a kitettséggel szemben felmerülő országkockázatból eredő pótlólagos tőkekövetelményre,
-- h) egy olyan mérési vizsgálatra, amelynek keretében a Felügyelet megállapítja, hogy egy – általa megállapított mértékű – hirtelen és váratlan kamatlábváltozásnak milyen hatása lenne a szavatoló tőkére,
-- i) arra, hogy a befektetési vállalkozás által értékpapírosított eszközökre vonatkozó szavatoló tőke mértéke megfelel-e az ügylet gazdasági tartalma által indokolt mértéknek, ideértve az átadott kockázat mértékét is,
-- j) a befektetési vállalkozás üzleti modelljére,
-- k) a rendszerszintű kockázatra,
-- l) a befektetési vállalkozás túlzott tőkeáttételi kockázatnak való kitettségére, és annak kezelése céljából működtetett rendszerek, stratégiák, eljárások és mechanizmusok megfelelőségére, valamint
-- m) a befektetési vállalkozás vállalatirányítási rendszereire, vállalati kultúrájára és értékeire, az irányító és ellenőrző testületek feladatai ellátására irányuló képességeire.
+(6) Az (5) bekezdés alkalmazása során a Felügyelet figyelembe veszi, hogy a befektetési vállalkozás rendelkezik-e a 101. § (6) bekezdés szerinti szakmai felelősségbiztosítással.
 
-(6) Az (5) bekezdés d) pontja szerinti felülvizsgálat keretében a Felügyelet a befektetési vállalkozás pénzügyi piacon betöltött szerepéhez igazodva értékeli a likviditási kockázat kezelését, valamint a likviditási kockázatot mérséklő eszközök alkalmazását ösztönözve a megbízható belső módszerek kifejlesztését.
-
-(7) Az (1) és (2) bekezdés szerinti felülvizsgálat és értékelés alapján a Felügyeletnek meg kell határoznia, hogy a befektetési vállalkozás által alkalmazott szabályzatok, stratégiák, eljárások és módszerek, valamint a befektetési vállalkozás szavatoló tőkéje és likvid eszköze biztosítja-e a kockázatok fedezetét és megbízható kezelését.
+(7)
 
 (8) A Felügyelet által végzett felülvizsgálat és értékelés a kereskedési könyvet vezető befektetési vállalkozásnál arra is kiterjed, hogy a befektetési vállalkozás által elszámolt értékvesztés és képzett céltartalék lehetővé teszi-e a pozíciók rövid időn – legfeljebb harminc napon – belüli lezárását normális piaci körülmények között.
 
-(9) A Felügyelet által végzett felülvizsgálat és értékelés kiterjed a befektetési vállalkozásnak a kereskedési könyvben nem nyilvántartott kitettségének a kamatkockázatára.
+(9)
 
-(10) A Felügyelet a felügyeleti felülvizsgálat és értékelés keretében ellenőrzi, hogy a befektetési vállalkozás nyújtott-e burkolt támogatást értékpapírosításhoz. Ha a befektetési vállalkozás egynél többször nyújtott már az 575/2013/EU rendelet 248. cikke szerinti burkolt támogatást, és ezzel nem ér el jelentős kockázattranszferálást, akkor a Felügyeletnek meg kell tennie a 164. § szerinti intézkedéseket.
+(10)
 
 (11) A felülvizsgálat és az értékelés gyakoriságát, mértékét és részletezettségét a befektetési vállalkozás mérete, tevékenységének jelentősége, jellege, nagyságrendje és összetettsége alapján arányosan határozza meg a Felügyelet azzal, hogy a felülvizsgálatot és értékelést legalább évente egyszer el kell végezni.
 
-(12) Ha a Felügyelet a felügyeleti felülvizsgálat és értékelés során azt állapítja meg, hogy a befektetési vállalkozás az (5) bekezdés h) pontja szerinti kamatlábváltozás figyelembevételével számított üzleti értéke (eszköz-, idegen forrás- és mérlegen kívüli pozíciói várható nettó pénzáramlásának jelenértéke) a szavatoló tőke több mint 20 százalékával csökkenne a kamatlábváltozás figyelembevétele nélkül számított üzleti értékéhez viszonyítva, a kamatláb hirtelen és nem várt, 200 bázispontos vagy az EBH által meghatározott egyéb változás eredményeként, akkor a Felügyelet a 164. §-ban foglalt intézkedést alkalmaz.
+(12)
 
-(13) Az (5) bekezdés j) pontja szerinti felülvizsgálat és értékelés keretében a Felügyelet figyelembe veszi a befektetési vállalkozás üzleti modelljét.
+(13) Az (5) bekezdés c) pontja szerinti felülvizsgálat és értékelés keretében a Felügyelet figyelembe veszi a befektetési vállalkozás üzleti modelljét.
 
-(14) Az (5) bekezdés m) pontja szerinti felülvizsgálat és értékelés keretében a befektetési vállalkozásnak a Felügyelet rendelkezésére kell bocsátania legalább
+(14) Az (5) bekezdés f) pontja szerinti felülvizsgálat és értékelés keretében a befektetési vállalkozásnak a Felügyelet rendelkezésére kell bocsátania legalább
 
 - a) a vezető és ellenőrző testület és egyéb bizottsági ülésének napirendjét és a kapcsolódó dokumentumokat, valamint
 - b) a vezető testület teljesítményének belső vagy külső értékelésének eredményeit.
@@ -3967,10 +3793,38 @@ kezelheti.
 
 (19) Ha a befektetési vállalkozás a Felügyelet szerint nem a (17) bekezdés szerinti határozatnak megfelelően dolgozta át a helyreállítási tervet, akkor a Felügyelet határozatában rögzíti az újbóli átdolgozás módját, eszközeit, elemeit és részleteit.
 
+162/A. § (1) A felügyeleti felülvizsgálat és értékelés alapján a 164. § (1) bekezdés t) pontja szerinti többlettőke-követelményt a Felügyelet akkor írhatja elő, ha a befektetési vállalkozás vonatkozásában az alábbi helyzetek valamelyike fennáll:
+
+- a) a befektetési vállalkozás olyan kockázatoknak vagy kockázati elemeknek van kitéve, vagy olyan kockázatokat jelent mások számára, amelyek jelentősek, és amelyekre az (EU) 2019/2033 rendelet harmadik vagy negyedik részében meghatározott szavatoló tőke követelményei – és különösen a K-faktor követelmények – nem biztosítanak fedezetet, vagy nem biztosítanak elegendő fedezetet,
+- b) a befektetési vállalkozás nem felel meg az irányítási és kockázatkezelési rendszerére, valamint a 106. § szerinti belső tőkemegfelelés értékelési folyamatára vonatkozó meghatározott követelményeknek, és egyéb felügyeleti intézkedések megfelelő időtartamon belül valószínűleg nem javítanak elegendő mértékben a rendszereken, az eljárásokon, a mechanizmusokon és a stratégiákon,
+- c) a 162. § (8) bekezdése alapján nem lehetséges a pozíciók rövid időn – legfeljebb harminc napon – belüli, jelentős veszteségek nélküli lezárása vagy fedezése normális piaci körülmények között,
+- d) a 163/A. § alapján elvégzett felülvizsgálat megállapítja, hogy az engedélyezett belső modellek alkalmazására vonatkozó követelmények nemteljesítése várhatóan nem megfelelő tőkeszinteket eredményez,
+- e) a befektetési vállalkozásnak ismételten nem sikerül biztosítania vagy fenntartania a (7) és (8) bekezdésben meghatározott megfelelő szintű szavatoló tőkét.
+
+(2) Az (1) bekezdés a) pontjának alkalmazásában a kockázatokat vagy kockázati elemeket kizárólag akkor lehet az (EU) 2019/2033 rendelet harmadik vagy negyedik részében meghatározott szavatoló tőke követelmények által részben vagy egészben nem fedezettnek tekinteni, ha a befektetési vállalkozás által a 106. § (1) bekezdésével összhangban elvégzett értékelés felügyeleti felülvizsgálatát követően a Felügyelet által megfelelőnek ítélt tőke összegére, típusaira és felosztására vonatkozó követelmények magasabbak, mint a befektetési vállalkozásra az (EU) 2019/2033 rendelet harmadik vagy negyedik részében meghatározott szavatoló tőke követelmények. A többlettőke-követelmény olyan kockázatokra vagy kockázati elemekre is kiterjedhet, amelyekre az (EU) 2019/2033 rendelet harmadik vagy negyedik részében meghatározott szavatoló tőke követelmények nem terjednek ki.
+
+(3) A Felügyelet a 164. § (1) bekezdés t) pontja alapján előírt többlettőke szintjét a (2) bekezdés szerint megfelelőnek ítélt tőke és az (EU) 2019/2033 rendelet harmadik vagy negyedik részében meghatározott szavatoló tőke követelményének különbségeként határozza meg.
+
+(4) A Felügyelet előírja a befektetési vállalkozás számára, hogy a 164. § (1) bekezdés t) pontja alapján előírt többlettőke-követelménynek az alábbi feltételeknek megfelelő szavatoló tőkével tegyen eleget:
+
+- a) a többlettőke-követelmény legalább háromnegyedének alapvető tőkével kell eleget tenni,
+- b) az alapvető tőke legalább háromnegyede elsődleges alapvető tőkéből áll,
+- c) e szavatoló tőke nem használható fel az (EU) 2019/2033 rendelet 11. cikk (1) bekezdés a), b) és c) pontjában meghatározott bármely szavatoló tőke követelményének való megfelelés céljából.
+
+(5) A Felügyelet írásban megindokolja a többlettőke-követelménynek a 164. § (1) bekezdés t) pontja szerinti előírására vonatkozó határozatát, indokolásában egyértelműen bemutatva az (1)–(4) bekezdés szerinti szempontok teljes körű értékelését. Az (1) bekezdés d) pontjában meghatározott esetben az indokolásnak tartalmaznia kell annak az egyedi okait, hogy a (7) bekezdésnek megfelelően megállapított tőkeszint miért nem tekinthető már elegendőnek.
+
+(6) A Felügyelet eseti alapon elbírálva, az (1)–(5) bekezdéssel összhangban, többlettőke-követelményt írhat elő a kis méretű és össze nem kapcsolt befektetési vállalkozásnak.
+
+(7) Az arányosság elvét szem előtt tartva és a kis méretű és össze nem kapcsolt befektetési vállalkozásnak nem minősülő befektetési vállalkozások méretével, rendszerszintű jelentőségével, tevékenységeinek jellegével, nagyságrendjével és összetettségével arányosan a Felügyelet előírhatja, hogy az ilyen befektetési vállalkozás a szavatoló tőke olyan szintjével rendelkezzen, amely kellő mértékben meghaladja az (EU) 2019/2033 rendelet harmadik részében és e törvényben meghatározott tőkekövetelményeket, ideértve a többlettőke-követelményeket is. Ezáltal a Felügyelet biztosítja, hogy a ciklikus gazdasági ingadozások ne vezessenek a tőkekövetelmények és a többlettőke-követelmények megsértéséhez, vagy ahhoz, hogy megakadályozzák a befektetési vállalkozást abban, hogy képes legyen tevékenységével rendezett módon felhagyni.
+
+(8) A Felügyelet szükség esetén felülvizsgálja a kis méretű és össze nem kapcsolt befektetési vállalkozásnak nem minősülő befektetési vállalkozásnak a (7) bekezdéssel összhangban megállapított szavatoló tőke szintjét, és tájékoztatja a befektetési vállalkozást e felülvizsgálat megállapításairól, ideértve a (7) bekezdéssel összhangban megállapított tőkeszint elvárt esetleges módosításait is. A Felügyelet közli a módosítás végrehajtásának határidejét.
+
+(9) A Felügyelet tájékoztatja a szanálási feladatkörében eljáró MNB-t a befektetési vállalkozás számára előírt bármely többlettőke-követelményről, valamint a (8) bekezdés szerinti befektetési vállalkozások tekintetében elvárt esetleges módosításokról.
+
 163. § (1) A Felügyelet évente felügyeleti vizsgálati programot fogad el az általa felügyelt, Magyarországon bejegyzett azon befektetési vállalkozások esetében, amelyek
 
 - a) szolvenciáját veszélyeztető kockázatok azonosítására kerül sor az elvégzett stressztesztek eredményei, vagy a felügyeleti és értékelési eljárás eredményei alapján,
-- b) megsértik az e törvény, a prudens működésre vonatkozó szabályok és az 575/2013/EU rendelet rendelkezéseit,
+- b) megsértik az e törvény, a prudens működésre vonatkozó szabályok és az (EU) 2019/2033 rendelet rendelkezéseit,
 - c) a pénzügyi rendszer alapján rendszerszinten jelentősek, vagy
 - d) kiemelt felügyelete a Felügyelet mérlegelése alapján indokolt.
 
@@ -3989,38 +3843,51 @@ kezelheti.
 - d) gyakrabban felülvizsgálja a működési, stratégiai vagy üzleti tervet,
 - e) elvégzi avárhatóan bekövetkező kockázatokat monitoringozó témavizsgálatokat.
 
-163/A. § (1) A Felügyelet legalább háromévente felülvizsgálja a befektetési vállalkozás által használt, a tőkekövetelmények kiszámításához engedélyezett belső módszereket, azok alkalmazásához szükséges követelmények teljesülését, a módszerek kidolgozottságát és naprakészségét.
+163/A. § (1) A Felügyelet legalább háromévente felülvizsgálja a befektetési vállalkozás által használt, a tőkekövetelmények kiszámításához engedélyezett, az (EU) 2019/2033 rendelet 22. cikke szerinti belső modelleket, azok alkalmazásához szükséges követelmények teljesülését, a modellek kidolgozottságát és naprakészségét.
 
-(2) A Felügyelet az (1) bekezdésben meghatározott felülvizsgálat keretében tekintettel van a befektetési vállalkozás üzleti tevékenységének változásaira és a belső módszerek új termékekre való alkalmazására.
+(2) A Felügyelet az (1) bekezdésben meghatározott felülvizsgálat keretében tekintettel van a befektetési vállalkozás üzleti tevékenységének változásaira és a belső modellek új termékekre való alkalmazására.
 
-(3) Ha a Felügyelet súlyos hiányosságokat tár fel a befektetési vállalkozás belső módszerének kockázatmegállapításával kapcsolatban, akkor a Felügyelet
+(3) Ha a Felügyelet súlyos hiányosságokat tár fel a befektetési vállalkozás belső modelljének kockázatmegállapításával kapcsolatban, akkor a Felügyelet
 
 - a) előírja a befektetési vállalkozás számára a módszertan korrigálását, vagy
-- b) meghozza a megfelelő intézkedést a hiányosság következményének enyhítése érdekében, többek között magasabb szorzótényezők, többlettőke-követelmény előírása vagy egyéb megfelelő és hatékony eszköz alkalmazása révén.
+- b) meghozza a megfelelő intézkedést a hiányosság következményének enyhítése érdekében, különösen magasabb szorzótényezők, többlettőke-követelmény előírása vagy egyéb megfelelő és hatékony eszköz alkalmazása révén.
 
-(4) Ha a Felügyelet megállapítja, hogy a befektetési vállalkozás által alkalmazott belső módszer már nem felel meg a rá vonatkozó követelményeknek, akkor a Felügyelet előírja a befektetési vállalkozás számára, hogy
+(4) Ha a Felügyelet megállapítja, hogy a befektetési vállalkozás által alkalmazott belső modell már nem felel meg a rá vonatkozó követelményeknek, akkor a Felügyelet előírja a befektetési vállalkozás számára, hogy
 
 - a) bizonyítsa, hogy a meg nem felelés hatásai nem jelentősek, vagy
 - b) készítsen a megfelelés helyreállítására vonatkozó tervet határidő megjelölésével.
 
 (5) A (4) bekezdés b) pontja szerinti esetben a befektetési vállalkozás módosítja a tervet, ha a Felügyelet álláspontja szerint a tervben meghatározottak alapján nem valószínűsíthető a vonatkozó követelményeknek való teljes megfelelés biztosítása vagy a kitűzött határidő nem megfelelő.
 
-(6) Ha bizonyíthatóan fennáll annak veszélye, hogy a befektetési vállalkozás nem képes meghatározott határidőn belül megfelelni a követelményeknek és nem tudja kielégítően bizonyítani, hogy a meg nem felelés hatásai nem jelentősek, akkor a Felügyelet
+(6) Ha bizonyíthatóan fennáll annak veszélye, hogy a befektetési vállalkozás nem képes meghatározott határidőn belül megfelelni a követelményeknek és nem tudja megfelelően bizonyítani, hogy a meg nem felelés hatásai nem jelentősek, akkor a Felügyelet
 
-- a) visszavonja a belső módszer alkalmazására vonatkozó engedélyt,
-- b) korlátozza az engedélyt azokra a területekre, amelyeknél megfelel a követelményeknek vagy meghatározott határidőn belül újra megfelel a követelményeknek.
+- a) visszavonja a belső modell alkalmazására vonatkozó engedélyt,
+- b) korlátozza az engedélyt azokra a területekre, amelyeknél megfelel a követelményeknek vagy meghatározza a határidőt, amelyen belül újra meg kell felelni a követelményeknek.
 
-(7) Ha a piaci kockázat esetén a befektetési vállalkozás által alkalmazott belső modell alkalmazásakor a túllépések száma jelzi, hogy a belső modell nem vagy már nem kellőképpen pontos, akkor a Felügyelet
+(7) Ha a piaci kockázat esetén a befektetési vállalkozás által alkalmazott belső modell alkalmazásakor az 575/2013/EU rendelet 366. cikk szerinti túllépések száma jelzi, hogy a belső modell nem vagy már nem kellőképpen pontos, akkor a Felügyelet
 
 - a) visszavonja a belső modell alkalmazására vonatkozó engedélyt, vagy
 - b) megfelelő intézkedést hoz a belső modell azonnali kiigazításának biztosítása érdekében.
 
-163/B. § Az egyedi likviditási követelmények meghatározása során a Felügyelet a felügyeleti felülvizsgálati és értékelési eljárás során figyelembe veszi
+163/B. § (1) Az egyedi likviditási követelmények meghatározása során a Felügyelet a felügyeleti felülvizsgálati és értékelési eljárás során figyelembe veszi
 
 - a) a befektetési vállalkozás üzleti modelljét,
 - b) a 101. § (1) bekezdés f) pontjában meghatározott rendszereket, eljárásokat és mechanizmusokat,
-- c) a felügyeleti felülvizsgálat és értékelés eredményét, valamint
+- c) a felügyeleti felülvizsgálat és értékelés eredményét, és
 - d) a Magyarországot fenyegető rendszerszintű likviditási kockázatot.
+
+(2) A Felügyelet csak abban az esetben írhat elő egyedi likviditási követelményeket, amennyiben a felügyeleti felülvizsgálat és értékelés alapján megállapította, hogy az (EU) 2019/2033 rendelet 43. cikk (1) bekezdése értelmében a likviditási követelmények alól nem mentesített a befektetési vállalkozás, és
+
+- a) olyan likviditási kockázatoknak vagy likviditási kockázati elemeknek van kitéve, amelyek jelentősek, és amelyekre az (EU) 2019/2033 rendelet ötödik részében meghatározott likviditási követelmények nem biztosítanak részben vagy egészben fedezetet, vagy
+- b) a befektetési vállalkozás nem felel meg az irányítási és kockázatkezelési rendszerére, valamint a 106. § szerinti belső tőkemegfelelés értékelési folyamatára vonatkozó meghatározott követelményeknek, és egyéb közigazgatási intézkedések megfelelő időtartamon belül valószínűsíthetően nem javítanak elegendő mértékben a rendszereken, eljárásokon, mechanizmusokon és stratégiákon.
+
+(3) A (2) bekezdés a) pontjának alkalmazásában a likviditási kockázatokat vagy likviditási kockázati elemeket kizárólag akkor lehet az (EU) 2019/2033 rendelet ötödik részében meghatározott likviditási követelmények által részben vagy egészben nem fedezettnek tekinteni, ha a befektetési vállalkozás által a 106. § (1) bekezdésével összhangban elvégzett értékelés felügyeleti felülvizsgálatát követően a Felügyelet által megfelelőnek ítélt likviditás összegeire és típusaira vonatkozó követelmények magasabbak, mint a befektetési vállalkozásra az (EU) 2019/2033 rendelet ötödik részében meghatározott likviditási követelmények.
+
+(4) A Felügyelet az egyedi likviditási követelmények szintjét a (3) bekezdés szerint megfelelőnek ítélt likviditás és az (EU) 2019/2033 rendelet ötödik részében meghatározott likviditási követelmények különbségeként határozza meg.
+
+(5) A Felügyelet előírja a befektetési vállalkozás számára, hogy az egyedi likviditási követelményeknek az (EU) 2019/2033 rendelet 43. cikkében meghatározott likvid eszközökkel tegyen eleget.
+
+(6) A Felügyelet írásban megindokolja az egyedi likviditási követelmény előírására vonatkozó határozatát, indokolásában teljeskörűen bemutatva a (2)–(4) bekezdés szerinti szempontok értékelését.
 
 163/C. § (1) A 173/A. § szerinti többoldalú eljárás keretében kell eljárni és többoldalú eljárás keretében hozott határozatot kell hozni az összevont alapú felügyeleti felülvizsgálat esetén is.
 
@@ -4055,6 +3922,7 @@ kezelheti.
   - ob) vezető állású személyének történő kifizetést,
   - oc) tulajdonosainak e szervezetektől való kölcsönfelvételét, illetőleg, hogy e szervezetek részükre kockázatvállalással járó szolgáltatást nyújtsanak,
   - od) tulajdonosainak és vezető tisztségviselőinek érdekeltségi körébe tartozó vállalkozások részére történő hitel, kölcsön nyújtását, illetve annak minősülő ügyletkötést,
+  - oe) részvényeseinek, tagjainak vagy a kiegészítő alapvető tőkeinstrumentumok tulajdonosainak járó, a befektetési vállalkozás általi nyereség- vagy kamatkifizetést, amennyiben ez a korlátozás vagy tilalom nem minősül a befektetési vállalkozás általi nem-teljesítésnek,
   - of) hitel vagy kölcsönszerződésében foglalt határidők meghosszabbítását (prolongálását),
   - og) új fiókjának megnyitását, új tevékenységének megkezdését, valamint új üzletágának kialakítását,
 - p) a befektetési vállalkozást és az árutőzsdei szolgáltatót kötelezheti
@@ -4065,7 +3933,7 @@ kezelheti.
 - q) a befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás és az árutőzsdei szolgáltatás kiszervezését megtilthatja,
 - r) a multilaterális kereskedési rendszer működését felfüggesztheti,
 - s) a befektetési vállalkozást az irányítási és kockázatkezelési rendszerére, valamint a 106. § szerinti belső tőkemegfelelés értékelési folyamatára vonatkozó szabályzatok, eljárások, stratégiák és módszerek megerősítésére kötelezheti,
-- t) a befektetési vállalkozást a (4) bekezdés szerinti többlettőke-követelmény elérésére kötelezheti,
+- t) a befektetési vállalkozást a (4) bekezdés szerinti többlettőke-követelmény elérésére kötelezheti, illetve a befektetési vállalkozás üzleti tevékenységének lényeges változása esetén módosíthatja a szavatoló tőke és a likvid eszközök megkövetelt mennyiségét,
 - u) az MTF-en, illetve OTF-en kereskedés tárgyát képező pénzügyi eszköz kereskedését felfüggesztheti, valamint előírhatja valamely pénzügyi eszköz kereskedésből történő kivezetését,
 - v) kötelezheti a befektetési vállalkozást, hogy a javadalmazási politika hatálya alá tartozó személyek teljesítményjavadalmazása a nettó bevétel százalékában legyen meghatározva, ha a teljesítményjavadalmazás nincs összhangban a befektetési vállalkozás prudenciális követelményeknek való megfelelésével,
 - x) közleményt ad ki, amelyben megjelöli a jogsértésért felelő személyt és a jogsértés természetét,
@@ -4082,6 +3950,17 @@ kezelheti.
   - zsh) ideiglenesen vagy – ismételt súlyos jogsértés esetén – tartósan eltilthatja a befektetési vállalkozás vezető testülete bármely tagját vagy bármely természetes személyt, akit felelősnek tartanak, a befektetési vállalkozáson belüli vezetői feladatok ellátásától,
   - zsi) ideiglenesen eltilthatja a befektetési vállalkozást a szabályozott piacon való részvételtől, az MTF-ekben való tagságtól, illetve az OTF-ekben ügyfélként való részvételtől, valamint
   - zsj) felfüggesztheti a befektetési vállalkozás érintett részvényeihez fűződő szavazati jogok gyakorlását, amennyiben a befektetési vállalkozásban gyakorolt minősített befolyás hátrányosan érinti a befektetési vállalkozás megalapozott és megbízható irányítását, illetve amennyiben a befektetési vállalkozásban minősített befolyást szerző személy nem teljesíti a minősített befolyás megszerzésével vagy mértékének növelésével kapcsolatos, 37. § és 37/B. § szerinti kérelem-benyújtási kötelezettségét.
+
+(1a) A Felügyelet – a fokozatosság és arányosság figyelembevételével – az (EU) 2019/2033 rendelet és e törvény alkalmazása során
+
+- a) előírhatja a befektetési vállalkozás számára, hogy időben tegye meg a szükséges intézkedéseket a fennálló jogsértés megszüntetésére, illetve az elkövetkező tizenkét hónapban várhatóan bekövetkező jogsértés megszüntetésére, amennyiben az utóbbira a Felügyelet bizonyítékkal rendelkezik,
+- b) előírhatja a befektetési vállalkozás számára, hogy egy éven belül nyújtson be az (EU) 2019/2033 rendelet és e törvény szerinti felügyeleti követelményeknek való megfelelés visszaállítására irányuló tervet, ennek végrehajtására tűzzön ki határidőt, és módosítsa a terv hatályát és végrehajtási határidejét,
+- c) a szavatoló tőke követelmények vonatkozásában a befektetési vállalkozás számára egyedi tartalékképzési szabályzatot vagy eszközkezelést írhat elő,
+- d) szigorúbb feltételekhez kötheti vagy korlátozhatja a befektetési vállalkozás üzletvitelét, működését vagy hálózatát, vagy megkövetelheti a befektetési vállalkozás megfelelő pénzügyi működésére túlzott kockázatot jelentő tevékenységek leválasztását,
+- e) előírhatja a befektetési vállalkozás tevékenységében, termékében és rendszerében rejlő kockázat csökkentését, ideértve a kiszervezett tevékenységeket is,
+- f) a jogszabályban előírt adatszolgáltatást kiegészítő vagy annál gyakoribb adatszolgáltatást írhat elő, beleértve a tőke- és likviditási pozíciókra vonatkozó adatszolgáltatást,
+- g) kiegészítő nyilvánosságra hozatalt követelhet meg, vagy
+- h) megkövetelheti, hogy a befektetési vállalkozás csökkentse a hálózati és információs rendszerei biztonságát fenyegető kockázatokat a vállalkozások eljárásai, adatai és eszközei bizalmas jellegének, integritásának és rendelkezésre állásának biztosítása érdekében.
 
 (2) A Felügyelet az (1) bekezdés oa) alpontjában foglalt intézkedést akkor alkalmazhatja, ha az osztalék kifizetése esetén a befektetési vállalkozás vagy az árutőzsdei szolgáltató e törvényben foglalt tőkekövetelményeknek való megfelelése nem biztosított.
 
@@ -4114,6 +3993,8 @@ kezelheti.
 
 - a) a felfüggesztés visszavonása esetén és
 - b) az értesítési eljárás vonatkozásában a Felügyelet által alkalmazott, az (1) bekezdés u) pontja szerinti szankciókra vonatkozó határozatok esetén.
+
+(12) E § rendelkezéseit alkalmazni kell a befektetési holding társaságra, a vegyes pénzügyi holding társaságra, a vegyes tevékenységű holding társaságra, valamint ezek vezető állású személyére.
 
 164/A. § (1) A Felügyelet értesíti az Európai Értékpapír-piaci Hatóságot vagy más uniós tagállamok hatáskörrel rendelkező felügyeleti hatóságait
 
@@ -4266,7 +4147,7 @@ bírság megfizetésére kötelezheti.
 - a) a belső tőkemegfelelés értékelési folyamat,
 - b) a likviditási kockázat,
 - c) a felügyeleti felülvizsgálat,
-- d) a 105. § szerinti többlettőke-követelmény vagy
+- d)
 - e) az intézményspecifikus likviditási követelmények
 
 tekintetében a Felügyelet és az EU-szintű anyavállalatnak vagy az EU-szintű pénzügyi holding társaság anyavállalatnak, vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalatnak székhelye szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatóságai együttesen járnak el (a továbbiakban: többoldalú eljárás).
@@ -4333,9 +4214,43 @@ tekintetében a Felügyelet és az EU-szintű anyavállalatnak vagy az EU-szint�
 
 175/B. § Ha magyarországi székhelyű befektetési vállalkozás más EGT-államban rendszerszinten jelentős fióktelepet létesít, a Felügyelet értesíti a másik EGT-állam hatáskörrel rendelkező felügyeleti hatóságát, amennyiben a befektetési vállalkozásnál vagy olyan vállalkozásnál, amelyre a befektetési vállalkozással együttesen kiterjed az összevont alapú felügyelet, információt szerez olyan kedvezőtlen fejlemény bekövetkezéséről, amely súlyosan érintheti a befektetési vállalkozást. Értesítést küld továbbá akkor is, ha a befektetési vállalkozással szemben jelentős szankciót, intézkedést alkalmazott, ideértve a 164. § (1) bekezdésének t) pontja szerinti felügyeleti intézkedést.
 
+### Az EGT-államok felügyelési együttműködése
+
+175/C. § (1) A Felügyelet szorosan együttműködik más EGT-állam hatáskörrel rendelkező felügyeleti hatóságával oly módon, hogy haladéktalanul megosztják egymással a befektetési vállalkozásra vonatkozó következő információkat:
+
+- a) irányítási és tulajdonosi szerkezete,
+- b) szavatoló tőkekövetelmény teljesítése,
+- c) koncentrációs kockázatra vonatkozó és likviditási követelmények teljesítése,
+- d) adminisztratív és számvitel eljárásai, belső ellenőrzési mechanizmusa,
+- e) bármely olyan tényező, amely a befektetési vállalkozás jelentette kockázatot befolyásolhatja.
+
+(2) A Felügyelet haladéktalanul átad a fogadó EGT-állam hatáskörrel rendelkező felügyeleti hatósága részére minden olyan információt és megállapítást, amely a felügyelése során jut tudomására és a befektetési vállalkozás által, a fogadó EGT-államban az ügyfelek védelmére vagy a pénzügyi rendszer stabilitására hatással lévő potenciális problémákra és kockázatokra vonatkozik.
+
+(3) A Felügyelet köteles minden szükséges intézkedést megtenni, a (2) bekezdésben meghatározott potenciális problémák és kockázatok elhárítása vagy megszüntetése érdekében a fogadó EGT-állam hatáskörrel rendelkező felügyeleti hatósága által átadott információk és megállapítások alapján.
+
+(4) A Felügyelet a fogadó EGT-állam hatáskörrel rendelkező felügyeleti hatósága kérésére köteles részére részletes magyarázatot adni arról, hogy a fogadó EGT-állam hatáskörrel rendelkező felügyeleti hatósága által átadott információkat és megállapításokat a (3) bekezdés szerinti intézkedések során hogyan vette figyelembe.
+
+(5) Ha a Felügyelet szerint az általa átadott információk és megállapítások alapján a fogadó EGT-állam hatáskörrel rendelkező felügyeleti hatósága nem tette meg a (3) bekezdés szerinti szükséges intézkedéseket az ügyfelek védelme vagy a pénzügyi rendszer stabilitásának biztosítása érdekében, a Felügyelet teszi meg a szükséges intézkedéseket.
+
+(6) Az (5) bekezdés szerinti szükséges intézkedések megtételét megelőzően a Felügyelet erről tájékoztatja a fogadó EGT-állam hatáskörrel rendelkező felügyeleti hatóságát, az EBH-t és az Európai Értékpapír-piaci Hatóságot.
+
+175/D. § (1) Ha valamely EGT-állam hatáskörrel rendelkező felügyeleti hatósága az együttműködés iránti megkeresést elutasította, vagy arra észszerű időn belül nem válaszolt, a Felügyelet az ügyet az 1093/2010/EU rendelet 19. cikkével összhangban az EBH elé utalja.
+
+(2) Ha a Felügyelet nem ért egyet a fogadó EGT-állam hatáskörrel rendelkező felügyeleti hatóságának intézkedéseivel, az ügyet az 1093/2010/EU rendelet 19. cikkével összhangban az EBH elé utalja.
+
+(3) A Felügyelet információt kérhet a klíringtag székhelye szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatóságától a befektetési vállalkozás által használt letéti követelmények kiszámításához használt letéti modellek és paraméterek (EU) 2019/2033 rendelet 23. cikk (1) bekezdés első albekezdés c) pontjában meghatározott követelmény teljesítésének ellenőrzése céljából.
+
+(4) A Felügyelet lehetővé teszi, hogy a székhely szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatósága – a Felügyelet előzetes tájékoztatását követően – maga vagy az általa e célra kijelölt szerv is ellenőrizhesse a 175/C. § (1) bekezdése szerinti információkat a más EGT-államban székhellyel rendelkező befektetési vállalkozás Magyarország területén létesített fióktelepe által végzett tevékenységére vonatkozóan.
+
 ### A fogadó EGT-állami felügyelési feladatokés hatáskörök
 
-176. § A más EGT-állam felügyeleti hatóságának befektetési szolgáltatási tevékenység végzésére jogosító engedélyével rendelkező külföldi befektetési vállalkozás Magyarország területén létesített fióktelepe által végzett tevékenysége esetében a Felügyelet hatáskörében ellenőrzi a 17/A. §-ban, 40–51. §-ban, 55–56. §-ban, 62–65. §-ban, 67–69. §-ban, 73–76. §-ban és 151–153. §-ban foglalt rendelkezések betartását.
+176. § (1) A más EGT-állam felügyeleti hatóságának befektetési szolgáltatási tevékenység végzésére jogosító engedélyével rendelkező külföldi befektetési vállalkozás Magyarország területén létesített fióktelepe által végzett tevékenysége esetében a Felügyelet hatáskörében ellenőrzi a 17/A. §-ban, 40–51. §-ban, 55–56. §-ban, 62–65. §-ban, 67–69. §-ban, 73–76. §-ban és 151–153. §-ban foglalt rendelkezések betartását.
+
+(2) A Felügyelet – a pénzügyi rendszer stabilitásának biztosítása szempontjából lényeges esetben – jogosult a más EGT-államban székhellyel rendelkező befektetési vállalkozás Magyarország területén létesített fióktelepe által végzett tevékenységének ellenőrzésére ellenőrzési eljárás keretében.
+
+(3) A (2) bekezdés szerinti ellenőrzést megelőzően a Felügyelet haladéktalanul konzultál a székhely szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatóságával.
+
+(4) A (2) bekezdés szerinti ellenőrzést követően a Felügyelet az érintett befektetési vállalkozás kockázatértékelése szempontjából lényeges információkról és megállapításokról haladéktalanul tájékoztatja a székhely szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatóságát.
 
 177. § (1) Ha a Felügyelet Magyarország területén más EGT-államban székhellyel rendelkező befektetési vállalkozás vagy piacműködtető
 
@@ -4373,7 +4288,7 @@ megsértését tapasztalja, értesíti a székhely szerinti EGT-állam hatáskö
 - e) a kamatlábkockázat kezelésére alkalmazott rendszerre vonatkozó szabályokat,
 - f) a befektetési vállalkozás panaszkezelésének eljárására, valamint a panaszkezelési szabályzatára vonatkozó részletes szabályokat,
 - g)
-- h) a javadalmazási politikának az érintett befektetési vállalkozás mérete, tevékenységének jellege, köre és jogi formájából eredő sajátossága figyelembevételével történő alkalmazására vonatkozó részletes szabályokat
+- h)
 
 rendeletben állapítsa meg.
 
@@ -4552,13 +4467,15 @@ foglalt követelményeknek.
 - h) A Tanács 2014/107/EU irányelve (2014. december 9.) a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról,
 - i) az Európai Parlament és Tanács 2016. április 16-i 2014/56/EU irányelve az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról,
 - j) a 2014/59/EU irányelvnek a fedezetlen, hitelviszonyt megtestesítő instrumentumok kielégítési sorrendben elfoglalt helye tekintetében történő módosításáról szóló, 2017. december 12-i (EU) 2017/2399 európai parlamenti és tanácsi irányelv.
+- k) a befektetési vállalkozások prudenciális felügyeletéről, valamint a 2002/87/EK, a 2009/65/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU és a 2014/65/EU irányelv módosításáról szóló, 2019. november 27-i (EU) 2019/2034 európai parlamenti és tanácsi irányelv.
 
 (2) Ez a törvény
 
 - a) a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló, 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet
 - b) a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet,
 - c) a 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendeletének,
-- d) a 600/2014 európai parlamenti és tanácsi rendeletnek egyes fogalommeghatározások, az átláthatóság, a portfóliótömörítés, valamint a termékszintű beavatkozással és a pozíciómenedzsmenttel kapcsolatos felügyeleti intézkedések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. május 18-i 2017/567 felhatalmazáson alapuló rendeletének végrehajtásához szükséges rendelkezéseket állapít meg.
+- d) a 600/2014 európai parlamenti és tanácsi rendeletnek egyes fogalommeghatározások, az átláthatóság, a portfóliótömörítés, valamint a termékszintű beavatkozással és a pozíciómenedzsmenttel kapcsolatos felügyeleti intézkedések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. május 18-i 2017/567 felhatalmazáson alapuló rendeletének
+- e) a befektetési vállalkozásokra vonatkozó prudenciális követelményekről, valamint az 1093/2010/EU, az 575/2013/EU, a 600/2014/EU és a 806/2014/EU rendelet módosításáról szóló, 2019. november 27-i (EU) 2019/2033 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Módosuló jogszabályok
 
@@ -4642,25 +4559,6 @@ foglalt követelményeknek.
 
 ### 2. melléklet a 2007. évi CXXXVIII. törvényhez
 
-Kifizetési szorzótényező
-
-A 110/J. § (2) bekezdése szerinti szorzótényezőt a következőképpen kell meghatározni:
-
-a) ha a befektetési vállalkozás által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény első (azaz legalacsonyabb) kvartilisén belül van, a tényező 0;
-
-b) ha a befektetési vállalkozás által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény második kvartilisén belül van, a tényező 0,2;
-
-c) ha a befektetési vállalkozás által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény harmadik kvartilisén belül van, a tényező 0,4;
-
-d) ha a befektetési vállalkozás által fenntartott elsődleges alapvető tőke szintje az 575/2013/EU rendelet 92. cikkében meghatározott minimális tőkekövetelményszint felett a kombinált pufferkövetelmény negyedik (azaz legmagasabb) kvartilisén belül van, a tényező 0,6.
-
-A kombinált pufferkövetelmény egyes kvartiliseinek alsó és felső határát a következőképpen kell kiszámítani:
-
-|  |
-| --- |
-
-„Q n” az érintett kvartilis sorszáma.
-
 ### 3. melléklet a 2007. évi CXXXVIII. törvényhez
 
 #### A portfóliókezelési tevékenységet végző által a kezelt portfólión elért teljesítmény, illetve hozam számításának, bemutatásának és közzétételének szabályai, elvei
@@ -4695,10 +4593,11 @@ A kombinált pufferkövetelmény egyes kvartiliseinek alsó és felső határát
   - b) belső szabályzatában meghatározott kockázatvállalási és ellenőrzési funkciót betöltő munkavállalóira – ideértve a belső kontroll feladatkört ellátó munkavállalókat is –
   - c) a) vagy b) pontba tartozó személyeivel azonos javadalmazási kategóriába tartozó munkavállalóira, akiknek a tevékenysége lényeges hatást gyakorol a befektetési vállalkozás kockázati profiljára, valamint
   - d) azon munkavállalóira, akiknek a tevékenysége lényeges hatást gyakorol a befektetési vállalkozás kockázati profiljára.
-- 3. A javadalmazási politika összhangban áll a hatékony és eredményes kockázatkezeléssel, elősegíti annak alkalmazását, és nem ösztönözhet a befektetési vállalkozás kockázatvállalási limitjeit meghaladó kockázatok vállalására. A javadalmazási politika a befektetési vállalkozás üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel is összhangban áll, valamint az érdekkonfliktus elkerülését célzó intézkedéseket tartalmaz.
+- 3. A javadalmazási politika összhangban áll a hatékony és eredményes kockázatkezeléssel, elősegíti annak alkalmazását, és nem ösztönözhet a befektetési vállalkozás kockázatvállalási limitjeit meghaladó kockázatok vállalására. A javadalmazási politika a nemek szempontjából semleges javadalmazási politika. A javadalmazási politika a befektetési vállalkozás üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel is összhangban áll, valamint az érdekkonfliktus elkerülését célzó intézkedéseket tartalmaz.
 - 4. A befektetési vállalkozás a javadalmazási politikára vonatkozó szabályokat minden olyan vállalkozás tekintetében alkalmazza, amelyekre az összevont alapú felügyelet a befektetési vállalkozással együttesen kiterjed.
 - 5. A javadalmazási politika elveit a felügyelőbizottság fogadja el és vizsgálja felül, az igazgatóság felel annak végrehajtásáért, amelyet legalább évente a befektetési vállalkozás belső ellenőrzése vizsgál felül.
-- 6. Ha a befektetési vállalkozásnak a tárgyévet megelőző évi mérlegfőösszege meghaladja a kétszázmilliárd forintot, akkor javadalmazási bizottságot állít fel, amely felügyeli a kockázatkezelésért és a jogszabályoknak történő megfelelésért felelős vezető javadalmazását, valamint előkészíti a javadalmazásra vonatkozó döntéseket a részvényesek, a befektetők és a befektetési vállalkozásban érdekelt egyéb felek hosszú távú érdekeinek figyelembevételével. A javadalmazási bizottság elnöke és tagjai az igazgatóság olyan tagjai közül kerülnek ki, akik az érintett befektetési vállalkozásban nem látják el szervezeti egység vezetését. Ha a befektetési vállalkozás igazgatóságában nincs legalább három olyan igazgatósági tag, aki nem látja el szervezeti egység vezetését, akkor a javadalmazási bizottságban a felügyelő bizottság független tagjai is részt vehetnek.
+- 6. Ha a befektetési vállalkozás mérleg szerinti és mérlegen kívüli eszközeinek értéke a tárgyévet közvetlenül megelőző négyéves időszakban átlagosan meghaladja a harmincötmilliárd forintot, akkor javadalmazási bizottságot állít fel. A javadalmazási bizottságnak a nemek szempontjából kiegyensúlyozott összeállításúnak kell lennie, és hozzáértő és független módon kell megítélnie a javadalmazási szabályokat és gyakorlatokat, valamint a kockázatok, a tőkeellátottság és a likviditás kezelésére kidolgozott ösztönzőket. A javadalmazási bizottságot csoportszinten is fel lehet állítani.
+- 6a. A javadalmazási bizottság felelős a javadalmazásra vonatkozó – köztük a befektetési vállalkozással kapcsolatos kockázatra és kockázatkezelésre kihatással lévő – döntések előkészítéséért, amelyeket az igazgatóságnak kell meghoznia. A döntések előkészítése során a javadalmazási bizottságnak figyelembe kell vennie a közérdeket, valamint a részvényesek, a befektetők és a befektetési vállalkozásban érdekelt egyéb felek hosszú távú érdekeit. A javadalmazási bizottság elnöke és tagjai az igazgatóság olyan tagjai közül kerülnek ki, akik az érintett befektetési vállalkozásban nem látnak el ügyvezetői feladatot. Ha a befektetési vállalkozás igazgatóságában nincs legalább három olyan tag, aki nem lát el ügyvezetői feladatot, akkor a javadalmazási bizottságban a felügyelőbizottság tagjai is részt vehetnek. Ha a felügyelőbizottságban van munkavállalói képviselő, akkor a javadalmazási bizottság tagjai között is lennie kell legalább egy munkavállalói képviselőnek.
 - 7. A befektetési vállalkozás meghatározza a teljes javadalmazáson belül az alapjavadalmazás és a teljesítményjavadalmazás arányát. A befektetési vállalkozás belső szabályzatában rögzíti a teljes javadalmazáson belül az alapjavadalmazás hányadát, azzal a korlátozással, hogy a teljesítményjavadalmazás – a 8. pontban meghatározott eltéréssel – nem haladja meg az alapjavadalmazás 100 százalékát.
 - 8. A befektetési vállalkozás az alapjavadalmazás legfeljebb 200 százalékát elérő teljesítményjavadalmazást alkalmazhat, ha
   - a) a befektetési vállalkozás közgyűlése arra felhatalmazást ad,
@@ -4712,32 +4611,37 @@ A kombinált pufferkövetelmény egyes kvartiliseinek alsó és felső határát
   - d) a befektetési vállalkozás stabil tőkealapjának fenntartására vonatkozó követelményre gyakorolt hatást.
 - 10. A 9. pont c) alpontjában megjelölt személyek sem közvetlenül, sem közvetve nem gyakorolhatják részvényesi, tulajdonosi vagy tagi szavazati jogaikat a 8. pont c) alpontja szerinti határozat meghozatalakor.
 - 11. A Felügyelet értékeli a 8. pont d) alpontja alapján kapott információkat és figyelemmel kíséri a befektetési vállalkozások javadalmazási gyakorlatát.
-- 12. A befektetési vállalkozás igazolja a Felügyelet felé, hogy a javasolt magasabb alapjavadalmazás-teljesítményjavadalmazás arány nem ütközik a befektetési vállalkozás e törvényben, továbbá a prudens működésre vonatkozó jogszabályokban, és az 575/2013/EU rendeletben meghatározott követelményekkel.
+- 12. A befektetési vállalkozás igazolja a Felügyelet felé, hogy a javasolt magasabb alapjavadalmazás/teljesítményjavadalmazás arány nem ütközik a befektetési vállalkozás e törvényben, továbbá a prudens működésre vonatkozó jogszabályokban és az (EU) 2019/2033 rendeletben meghatározott követelményekkel.
 - 13. A befektetési vállalkozás a 7. és 8. pont alkalmazásakor a teljesítményjavadalmazás legfeljebb 25 százalékáig diszkontált értéken veszi figyelembe a 18. pontban meghatározott instrumentumokban nyújtott, legalább ötéves halasztási időszakkal juttatott teljesítmény-javadalmazási eszközöket.
 - 14. A 7. és 8. pontokban rögzített korlátozásokat figyelembe véve az alapjavadalmazás olyan mértékű, hogy rugalmas javadalmazási politika érvényesülhessen, és lehetőség legyen arra, hogy adott esetben a teljes javadalmazás kizárólag alapjavadalmazásból álljon.
-- 15. Teljesítményjavadalmazásnál egyszerre kell értékelni a vezető állású személy vagy a munkavállaló – pénzügyi és nem pénzügyi kritériumokon alapuló –, az érintett szervezeti egység és a befektetési vállalkozás eredményét. A teljesítményértékelés alapja a befektetési vállalkozás hosszú távú teljesítménye, ezért az értékelés többéves időtávra terjed ki, és a teljesítményjavadalmazás kifizetésére kötelezettséget vállalni csak kivételesen, új munkavállaló felvételekor egy évre lehet. A befektetési vállalkozás a teljesítményjavadalmazásként szétosztható összeg meghatározásánál figyelembe veszi a jelenlegi és jövőbeni kockázatokat, a tőke költségét és a szükséges likviditást.
+- 15. Teljesítményjavadalmazásnál egyszerre kell értékelni a vezető állású személy vagy a munkavállaló – pénzügyi és nem pénzügyi kritériumokon alapuló –, az érintett szervezeti egység és a befektetési vállalkozás eredményét. A teljesítményértékelés alapja a befektetési vállalkozás hosszú távú teljesítménye, ezért az értékelés többéves időtávra terjed ki – figyelembe véve a befektetési vállalkozás üzleti ciklusát és üzleti kockázatait –, és a teljesítményjavadalmazás kifizetésére kötelezettséget vállalni csak kivételesen, új munkavállaló felvételekor egy évre, valamint csak akkor lehet, ha a befektetési vállalkozás stabil tőkealappal rendelkezik. A befektetési vállalkozás a teljesítményjavadalmazásként szétosztható összeg meghatározásánál figyelembe veszi a jelenlegi és jövőbeni kockázatokat, a tőke költségét és az (EU) 2019/2033 rendelet szerint szükséges likviditást.
 - 16. A teljesítményjavadalmazás kötelezettség nem vállalható, és nem képezheti részét a jövőbeli javadalmazási terveknek.
 - 17. A teljesítményjavadalmazás csak akkor fizethető ki, és a vezető állású személy vagy a munkavállaló csak akkor jogosult a teljesítményjavadalmazásra, ha
   - a) a befektetési vállalkozás pénzügyi helyzete fenntartható, és
   - b) a befektetési vállalkozás, az érintett szervezeti egység és a vezető állású személy vagy munkavállaló teljesítménye azt indokolttá teszi.
 - 18. A teljesítményjavadalmazás legalább 50 százaléka jogszabály eltérő rendelkezése hiányában a következő elemekből, vagy azok egyensúlyban lévő kombinációjából áll:
-  - a) az érintett befektetési vállalkozás részvényeiből vagy tulajdoni részesedéseiből az érintett befektetési vállalkozás jogi formájától függően és abból eredő sajátosságainak figyelembevételével, illetve a szabályozott piacra be nem vezetett befektetési vállalkozás esetében részvényhez kötött eszközökből vagy azokkal egyenértékű nem készpénz alapú eszközökből, és
-  - b) olyan teljesítményjavadalmazás céljára felhasználható kiegészítő alapvető tőkéből, járulékos tőkéből vagy egyéb instrumentumokból, amelyek ba) elsődleges alapvető tőkeelemmé konvertálhatóak át, vagy bb) leírhatóak az említett tőkeelemekből, és amelyek folyamatosan tükrözik a befektetési vállalkozás kitettségeinek minőségét azzal, hogy ezekre az eszközökre a visszatartási politika megfelelően vonatkozik.
+  - a) az érintett befektetési vállalkozás részvényeiből vagy tulajdoni részesedéseiből az érintett befektetési vállalkozás jogi formájától függően és abból eredő sajátosságainak figyelembevételével, illetve a befektetési vállalkozás esetében részvényhez kötött eszközökből vagy azokkal egyenértékű nem készpénz alapú eszközökből, és
+  - b) olyan teljesítményjavadalmazás céljára felhasználható kiegészítő alapvető tőkéből, járulékos tőkéből vagy egyéb instrumentumokból, amelyek ba) elsődleges alapvető tőkeelemmé konvertálhatóak át, vagy bb) leírhatóak az említett tőkeelemekből, és amelyek folyamatosan tükrözik a befektetési vállalkozás kitettségeinek minőségét azzal, hogy ezekre az eszközökre a visszatartási politika megfelelően vonatkozik. A visszatartási politika célja az egyéni ösztönzők összhangba hozatala a befektetési vállalkozás, annak hitelezői és ügyfelei hosszú távú érdekeivel.
+- 18a. Ha a befektetési vállalkozás nem bocsát ki a 18. pont szerinti instrumentumokat, a Felügyelet az ugyanazon célkitűzéseknek megfelelő alternatív megoldások alkalmazását is jóváhagyhatja. A Felügyelet korlátozásokat vezethet be az említett instrumentumok típusaira és azok kialakítására vagy megtilthatja bizonyos instrumentumok teljesítményjavadalmazáshoz való használatát.
 - 19. Ha a befektetési vállalkozás pénzügyi teljesítménye a belső szabályzatban meghatározottak szerinti mértékben azért romlik, mert az adott vezető állású személy, munkavállaló túlzott kockázatot vállalt, a vezető állású személy, munkavállaló kifizetendő teljesítményjavadalmazását csökkenteni kell.
-- 20. A teljesítményjavadalmazás legalább 40 százalékát – a belső szabályzatban meghatározott küszöbértéknél magasabb összegű teljesítményjavadalmazás esetén legalább 60 százalékát – halasztva, az üzleti tevékenység természetétől, kockázataitól és az adott vezető állású személy, munkavállaló tevékenységeitől függően legalább 3-5 éves időszak alatt elosztva kell kifizetni. A halasztási időszak hosszát az üzleti ciklusnak, az üzlet jellegének, kockázatainak és az érintett munkavállaló tevékenységeinek megfelelően kell megállapítani.
+- 20. A teljesítményjavadalmazás legalább 40 százalékát – a belső szabályzatban meghatározott küszöbértéknél magasabb összegű teljesítményjavadalmazás esetén legalább 60 százalékát – halasztva, az üzleti tevékenység természetétől, kockázataitól és az adott vezető állású személy, munkavállaló tevékenységeitől függően legalább 3–5 éves időszak alatt időarányosan elosztva kell kifizetni. A halasztási időszak hosszát az üzleti ciklusnak, az üzlet jellegének, kockázatainak és az érintett munkavállaló tevékenységeinek megfelelően kell megállapítani.
 - 20a. A teljesítményjavadalmazást csökkenteni kell, ha a befektetési vállalkozás pénzügyi teljesítménye jelentősen visszaesik vagy negatív, figyelembe véve az aktuális javadalmazást és a csökkentési vagy visszakövetelési szabályokat.
 - 21. A teljesítményjavadalmazás 100 százalékára csökkentési lehetőség vagy visszakövetelési szabályok alkalmazhatóak. A befektetési vállalkozás a belső szabályzatában konkrét kritériumokat határoz meg a csökkentési vagy a visszakövetelési szabályok alkalmazására, amelyben tekintettel van arra, hogy a vezető állású személy vagy a munkavállaló
   - a) olyan magatartás részese volt-e, amely jelentős veszteséget okozott a befektetési vállalkozásnak, vagy felelős volt-e a befektetési vállalkozás számára bekövetkezett jelentős veszteségért, és
   - b) megfelel-e az alkalmasságra és megfelelőségre vonatkozó sztenderdeknek.
 - 22. A teljesítményjavadalmazás kifizetése nem eredményezheti azt, hogy a befektetési vállalkozás nem tudja a szükséges mértékben megerősíteni a tőkéjét, és kifizetéskor a befektetési vállalkozás nem alkalmazhat olyan módszereket, amelyek nem állnak összhangban a javadalmazási politika elveinek teljesülésével.
-- 23. A teljesítményjavadalmazás kifizetése nem eredményezheti az e törvényben, továbbá a prudens működésre vonatkozó jogszabályokban, és az 575/2013/EU rendeletben meghatározott követelmények nem teljesítését.
+- 23. A teljesítményjavadalmazás kifizetése nem eredményezheti az e törvényben, továbbá a prudens működésre vonatkozó jogszabályokban és az (EU) 2019/2033 rendeletben meghatározott követelmények nem teljesítését.
 - 24. A munkaviszony megszűnéséhez kapcsolódó kifizetések az eltelt időszakban elért teljesítményt tükrözik, az el nem ért eredményhez kifizetés nem kapcsolódhat.
 - 25. Az előző munkaviszony alapján fennálló, szerződésből következő teljes javadalmazás átvállalásával vagy az előző teljes javadalmazásból következő kompenzáció révén adott újabb teljes javadalmazásnak összhangban kell lennie a befektetési vállalkozás hosszú távú érdekeivel, ideértve a visszatartási, a halasztási, a teljesítmény- és a visszakövetelési megállapodásokat is.
 - 26. Ha a befektetési vállalkozás a nyugdíjpolitikára vonatkozó szabályzattal rendelkezik, annak összhangban kell állnia a befektetési vállalkozás üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel. Ha a nyugdíjpolitikára vonatkozó szabályzat alapján a vezető állású személy, munkavállaló részére teljesítményjavadalmazása részeként nem kötelező nyugdíjjuttatás jár és a vezető állású személy, munkavállaló
   - a) a nyugdíjazása előtt távozik a befektetési vállalkozástól, akkor a befektetési vállalkozásnak a 18. pontban meghatározott eszközök formájában öt évig vissza kell tartania a nem kötelező nyugdíjjuttatásokat,
   - b) eléri a nyugdíjazását, akkor a befektetési vállalkozásnak a munkaviszony megszűnése után ötéves visszatartási időszak figyelembevételével kell kifizetnie ezen juttatásokat a 18. pontban meghatározott eszközök formájában.
+- 26a. A 18., 20. és 26. pont nem alkalmazandó
+  - a) arra a befektetési vállalkozásra, amelynek mérleg szerinti és mérlegen kívüli eszközeinek értéke az adott pénzügyi évet közvetlenül megelőző négyéves időszakban átlagosan legfeljebb százmillió euró,
+  - b) arra a személyre, akinek éves teljesítményjavadalmazása legfeljebb ötvenezer euró, és nem teszi ki ezen személy teljes éves javadalmazásának több mint egynegyedét.
 - 27. A befektetési vállalkozás ellenőrzési feladatokat végző munkavállalói javadalmazása független az általuk felügyelt szervezeti egységek teljesítményétől, az a feladatkörükhöz kapcsolódó célkitűzések elérésén alapul.
 - 28. Az ellenőrzési feladatokat (ideértve a belső kontroll funkciót is) és a kockázatkezelési feladatokat végző munkavállalóknak a javadalmazását – a 29. pontban meghatározott eltéréssel – a felügyelő bizottság felügyeli, kivéve, ha a befektetési vállalkozás javadalmazási bizottságot állít fel.
 - 29. Ha a befektetési vállalkozás javadalmazási bizottságot állít fel, akkor a javadalmazási bizottság a felelős az érintett munkavállalók javadalmazásának felügyeletéért.
 - 30. A befektetési vállalkozás vezető állású személye, munkavállalója nem köthet olyan fedezeti ügyletet, amely a javadalmazására vonatkozó szerződésben foglalt kockázatvállalás hatásait kiküszöbölné.
 - 31. Másik EGT-államban székhellyel rendelkező befektetési vállalkozás magyarországi fióktelepe a befektetési vállalkozás székhelye szerinti állam javadalmazásra vonatkozó jogszabályban foglalt szabályait alkalmazza.
+- 32. Ha a befektetési vállalkozás a Szantv. 3. § 53. pontja szerinti rendkívüli állami pénzügyi támogatásban részesül, nem fizet teljesítményjavadalmazást a vezető testület tagjainak, és ha a vezető testület tagjain kívüli munkavállalóinak fizetett teljesítményjavadalmazás nem lenne összeegyeztethető a befektetési vállalkozás stabil tőkealapjának fenntartásával, valamint a rendkívüli állami pénzügyi támogatás időben történő megszüntetésével, akkor a teljesítményjavadalmazásnak a nettó bevétel meghatározott hányadára kell korlátozódnia.

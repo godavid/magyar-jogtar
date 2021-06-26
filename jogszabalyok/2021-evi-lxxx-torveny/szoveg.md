@@ -69,21 +69,11 @@ a Budapest Diákváros megvalósításáról
 
 12. §
 
-13. § A Budapest törvény 1. melléklet 3. pontja helyébe a következő rendelkezés lép:
+13. §
 
-„3. Ferencvárosi Szabadidő- és Sportpark, ennek részeként a Budapesti Atlétikai Stadion, annak épületében kialakításra kerülő óvoda, szabadtéri edzőpályák, fedett pályás atlétikai edzőcsarnok, valamint az ezek összeköttetését biztosító gyalogos és kerékpáros hidak, kapcsolódó sport- és rekreációs létesítmények, a területen található műemléki épületek felújítása és funkcióváltása, illetve egyéb kapcsolódó létesítmény, infrastruktúra, valamint környezetrendezés.”
+14. §
 
-14. § A Budapest törvény
-
-- 1. 1. § 2. pontjában, II. fejezet címében, 4. alcím címében, 7. § (1)–(2) bekezdésében, 8. §-ában, 9. §-ában, 5. alcím címében, 10. § (1), (3)–(4) bekezdésében, 11. §-ában, 12. § (1) bekezdésében, 20. § (1) bekezdés c) pontjában, 1. melléklet címében a „Budapest Diákváros – Déli Városkapu Fejlesztési Program” szövegrész helyébe a „Déli Városkapu Fejlesztési Program” szöveg,
-- 2. 6. alcím címében, 2. melléklet címében a „Budapest Diákváros – Déli Városkapu Fejlesztési Programmal” szövegrész helyébe a „Déli Városkapu Fejlesztési Programmal” szöveg,
-- 3. 1. § 2. pontjában a „diákotthoni elhelyezést biztosító, szabadidős,” szövegrész helyébe a „szabadidős,” szöveg,
-- 4. 1. melléklet 1. pontjában a „Budapesti Xtrém Szabadidő Park,” szövegrész helyébe az „Új Csepeli Közpark, ennek keretében az ütemezetten megvalósuló Budapesti Xtrém Szabadidő Park,” szöveg,
-- 5. 1. melléklet 1. pontjában a „BMX pályákat, teniszpályákat,” szövegrész helyébe a „BMX-pályákat,” szöveg
-
-lép.
-
-15. § Hatályát veszti a Budapest törvény 1. melléklet 4. pontja.
+15. §
 
 ### 1. melléklet a 2021. évi LXXX. törvényhez
 

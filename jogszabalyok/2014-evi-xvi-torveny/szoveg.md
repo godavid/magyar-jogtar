@@ -178,7 +178,7 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
   - a) a Bszt. szerint szakmai ügyfélnek minősül vagy kérés esetén szakmai ügyfélként kezelhető vagy
   - b) legalább százezer euró vagy annak megfelelő értékű kollektív befektetési értékpapírba történő befektetésre vállal kötelezettséget;
 - 90. származtatott ügylet: a Tpt.-ben meghatározott fogalom;
-- 91. szavatoló tőke: az Európai Parlament és a Tanács a hitelintézetekre és a befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 575/2013/EU rendeletében (a továbbiakban: 575/2013/EU rendelet) meghatározott fogalom;
+- 91. szavatoló tőke: a befektetési vállalkozásokra vonatkozó prudenciális követelményekről, valamint az 1093/2010/EU, az 575/2013/EU, a 600/2014/EU és a 806/2014/EU rendelet módosításáról szóló, 2019. november 27-i (EU) 2019/2033 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2019/2033 rendelet] meghatározott szavatoló tőke;
 - 92. szoros kapcsolat:
   - a) két vagy több természetes vagy jogi személy között fennálló, ellenőrző befolyásnak vagy részesedési viszonynak minősülő kapcsolat, azzal, hogy ha egy személy olyan személlyel áll ellenőrző befolyásnak minősülő kapcsolatban, amely maga is ellenőrző befolyást gyakorol egy harmadik személyre, akkor e harmadik személyt is a legfelső szinten lévővel szoros kapcsolatban állónak kell tekinteni, illetve
   - b) két vagy több személy között fennálló kapcsolat, amennyiben ezen személyek ugyanazon személyek ellenőrző befolyása alatt állnak;
@@ -383,7 +383,7 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 (3) A befektetési alapkezelőnek – a működőképesség folytonosságának fenntartása és a befektetők védelme érdekében – az általa végzett tevékenység kockázatának fedezetét mindenkor biztosító, megfelelő nagyságú szavatoló tőkével kell rendelkeznie, amely nem csökkenhet
 
 - a) az (1) bekezdésben meghatározott összeg, vagy
-- b) a megelőző év – az 575/2013/EU rendelet 97. cikke szerinti – fix működési költségei 25%-ának megfelelő összeg
+- b) a megelőző év – az (EU) 2019/2033 rendelet 13. cikke szerinti – fix működési költségei 25%-ának megfelelő összeg
 
 alá.
 
@@ -2985,6 +2985,7 @@ van összefüggésben.
 - d) az Európai Parlament és a Tanács 2011. június 8-án kelt 2011/61/EU irányelve az alternatív befektetésialap-kezelőkről, valamint a 2003/41/EK és a 2009/65/EK irányelv, továbbá az 1060/2009/EK és az 1095/2010/EU rendelet módosításáról,
 - e) az Európai Parlament és a Tanács 2013/14/EU irányelve (2013. május 21.) a foglalkoztatói nyugellátást szolgáltató intézmények tevékenységéről és felügyeletéről szóló 2003/41/EK irányelvnek, az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló 2009/65/EK irányelvnek és az alternatív befektetésialap-kezelőkről szóló 2011/61/EU irányelvnek a hitelminősítések túlzott figyelembevétele tekintetében történő módosításáról,
 - f) az Európai Parlament és a Tanács 2014. július 23-i 2014/91/EU irányelve az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló 2009/65/EK irányelvnek a letétkezelői funkciók, a javadalmazási politikák és a szankciók tekintetében történő módosításáról.
+- g) az Európai Parlament és a Tanács 2019. november 27-i (EU) 2019/2034 irányelve a befektetési vállalkozások prudenciális felügyeletéről, valamint a 2002/87/EK, a 2009/65/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU és a 2014/65/EU irányelv módosításáról.
 
 (2) E törvény
 

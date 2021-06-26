@@ -128,7 +128,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
   - a) a hitelintézet, a pénzügyi vállalkozás, befektetési vállalkozás, a kollektív befektetési forma, befektetési alapkezelő, a biztosító, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, a foglalkoztatói nyugdíjszolgáltató intézmény, az egészségbiztosítási szerv és a Nyugdíj-biztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv,
   - b) mindazon devizakülföldi, amely a saját joga alapján ilyennek tekintendő,
 - 61. ISIN azonosító: a központi értéktár által kiadott, az azonos jogokat megtestesítő értékpapírok, illetőleg tőzsdei termékek azonosítására szolgáló betű vagy számjel összessége, illetve ezek kombinációja,
-- 62. járulékos vállalkozás: olyan vállalkozás, amely kizárólagosan vagy elsődlegesen egy vagy több befektetési vállalkozás, központi értéktár, központi szerződő fél vagy befektetési alapkezelő üzletszerű tevékenységét kiegészítő tevékenységet, így különösen ingatlankezelést, adatfeldolgozást, pénzszállítást, biztonsági, illetőleg kommunikációs szolgáltatást végez,
+- 62. járulékos vállalkozás: a Bszt.-ben meghatározott fogalom,
 - 63. jegyzés: az értékpapír forgalomba hozatala során az értékpapírt megszerezni szándékozó befektetőnek az értékpapír megszerzésére irányuló, feltétetlen és visszavonhatatlan nyilatkozata, amellyel az ajánlatot elfogadja és kötelezettséget vállal az ellenszolgáltatás teljesítésére,
 - 64. jegyzett tőke: az Szmt.-ben meghatározott tőke, valamint a dotációs tőke,
 - 64a. jogsértésről szóló bejelentés: a bejelentő személy által a Felügyelethez eljuttatott bejelentés az 596/2014/EU rendelet tényleges vagy lehetséges megsértéséről,

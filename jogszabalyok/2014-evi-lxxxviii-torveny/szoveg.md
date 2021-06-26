@@ -1627,6 +1627,21 @@ kell érteni.
 
 (2) Az (1) bekezdésben foglaltakat megfelelően alkalmazni kell a Kártalanítási Számla által teljesített kárkifizetésekre.
 
+123/A. § (1) A biztosító köteles az 1. melléklet A) rész körében bekövetkezett károk vonatkozásában – akár minden termékre egységesen, akár termékenként vagy termékek csoportjára vonatkozóan – kárrendezési tájékoztatót készíteni és azt a honlapján folyamatosan elérhetővé tenni.
+
+(2) A kárrendezési tájékoztatónak tartalmaznia kell különösen az alábbiakat:
+
+- a) a szolgáltatási igény benyújtásának lehetséges módjai,
+- b) a szolgáltatás teljesítésének szabályai és a vonatkozó határidők,
+- c) a kárkifizetés és szolgáltatás lehetséges formái, ideértve az egyezségi kárrendezést is.
+
+(3) A biztosító köteles a kárrendezéshez nélkülözhetetlen dokumentumok beérkezésétől számított 15 napon belül, de ezek beérkezésének hiányában is legkésőbb a szolgáltatási igény benyújtásától számított egy hónapon belül a biztosítási szolgáltatásra jogosult személynek:
+
+- a) kellően megindokolt javaslatot tenni a szolgáltatására azokban az esetekben, amelyekben a szolgáltatási kötelezettségének fennállását és a szolgáltatásának mértékét jogcímenként (beleértve a kamatra vonatkozó tájékoztatást) összegszerűen megállapította, vagy
+- b) indokolással ellátott választ adni a szolgáltatási igényben foglalt egyes követelésekre azokban az esetekben, amikor a szolgáltatási kötelezettségét nem ismeri el, az nem egyértelmű vagy a teljes szolgáltatását összegszerűen nem állapította meg.
+
+(4) Ha az (1) bekezdés szerinti kár kapcsán a biztosító járadék egyösszegű megváltását kezdeményezi, úgy ezzel egyidejűleg a biztosító köteles tájékoztatást adni a járadék megváltási tőkeösszegének jelenértékéről, melynél kisebb összegért a járadék nem váltható meg.
+
 124. § (1) A biztosító a biztosítási szerződési feltételekben köteles meghatározni, hogy a biztosítási esemény bekövetkezése esetén milyen szolgáltatásokat és költségeket milyen okiratok bemutatása ellenében teljesít.
 
 (2) A biztosító a szolgáltatása teljesítésének esedékességét csak olyan okirat bemutatásától teheti függővé, amely a biztosítási esemény bekövetkezésének igazolásához, illetve a teljesítendő szolgáltatás mértékének meghatározásához szükséges, a biztosítási szolgáltatás teljesítésének esedékességét a bejelentett biztosítási esemény tekintetében indult szabálysértési eljárás jogerős befejezéséhez, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséhez, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalához nem kötheti.
@@ -3851,6 +3866,34 @@ köteles arról harminc napon belül írásban tájékoztatni a Felügyeletet.
 
 (3) Az illetékes felügyeleti hatóság kérelmére a Felügyelet jogosult a másik tagállamban székhellyel rendelkező biztosítónak vagy viszontbiztosítónak Magyarország területén fióktelep útján, illetve határon átnyúló szolgáltatás keretében végzett tevékenységét a helyszínen ellenőrizni, valamint a biztosítótól adatszolgáltatást kérni.
 
+#### 115/A. Értesítések a határon átnyúló tevékenységek esetében
+
+290/A. § (1) Ha a Felügyelet olyan biztosítót vagy viszontbiztosítót engedélyez, amely üzleti terve szerint tevékenységeinek egy részét a szolgáltatásnyújtás vagy letelepedés szabadsága alapján egy másik tagállamban fogja végezni, és amennyiben az üzleti tervből az is látszik, hogy e tevékenységek vélhetően jelentőséggel bírnak majd a fogadó tagállam piaca szempontjából, a Felügyelet értesíti erről az EBFH-t és az érintett fogadó tagállam felügyeleti hatóságát.
+
+(2) A Felügyelet – az (1) bekezdésben előírt értesítésen túlmenően – értesíti az EBFH-t és az érintett fogadó tagállam felügyeleti hatóságát, amennyiben romló pénzügyi helyzetet vagy egyéb felmerülő kockázatot állapít meg az olyan tevékenységeket végző biztosító vagy viszontbiztosító esetében, amelyek a szolgáltatásnyújtás vagy a letelepedés szabadságán alapulnak, és amelyek határokon átnyúló hatással bírhatnak.
+
+(3) Ha a másik tagállamban székhellyel rendelkező biztosító vagy viszontbiztosító szolgáltatásnyújtás vagy a letelepedés szabadságán alapuló tevékenysége kapcsán a Felügyeletnek súlyos és megalapozott aggályai merülnek fel a fogyasztóvédelemmel kapcsolatban, értesítheti az érintett székhely szerinti tagállam felügyeleti hatóságát.
+
+(4) Ha a (2) és (3) bekezdés szerinti esetben a Felügyelet és a másik érintett tagállam felügyeleti hatósága nem talál kétoldalú megoldást, az ügyet az EBFH elé utalhatják és kérhetik annak segítségét.
+
+(5) Az (1)–(3) bekezdés szerinti értesítéseknek kellően részletesnek kell lenniük ahhoz, hogy lehetővé tegyék a megfelelő értékelést.
+
+(6) Az (1)–(3) bekezdés szerinti értesítések nem érintik a Felügyelet felügyeleti jogkörét.
+
+#### 115/B. Együttműködési fórumok a határon átnyúló tevékenységek esetében
+
+290/B. § (1) A Felügyelet a szerződőkre gyakorolt negatív hatásokra vonatkozó megalapozott aggályok felmerülése esetén kérheti az EBFH-t, hogy együttműködési fórumot hozzon létre és koordináljon az érintett felügyeleti hatóságok közötti információcsere megerősítése és együttműködés fokozása érdekében, amennyiben egy biztosító vagy viszontbiztosító olyan tevékenységeket végez vagy kíván végezni, amelyek a szolgáltatásnyújtás vagy letelepedés szabadságán alapulnak, és amennyiben:
+
+- a) e tevékenységek jelentőséggel bírnak a magyar piac szempontjából;
+- b) a székhely szerinti tagállam felügyeleti hatósága a pénzügyi helyzet romlása vagy egyéb felmerülő kockázatok miatt a 290/A. § (2) bekezdése szerinti értesítést tett; vagy
+- c) az ügyet a 290/A. § (4) bekezdésének megfelelően az EBFH elé utalták.
+
+(2) Az (1) bekezdés nem érinti az érintett felügyeleti hatóságoknak az együttműködési fórumok abban az esetben történő létrehozására irányuló jogát, ha azzal mindannyian egyetértenek.
+
+(3) Az együttműködési fórumoknak az (1) és a (2) bekezdés szerinti létrehozása nem érinti a Felügyelet akár mint székhely szerinti tagállam, akár mint fogadó tagállam szerinti felügyeleti jogkörét.
+
+(4) Ha a Felügyelet érintett hatóság, az EBFH kérésére minden szükséges információt időben biztosítania kell az együttműködési fórum megfelelő működésének lehetővé tétele érdekében, az 1094/2010/EU rendelet 35. cikkének sérelme nélkül.
+
 ### XXII. Fejezet — A FELÜGYELET INTÉZKEDÉSEI
 
 #### 116. A Felügyelet intézkedéseinek általános szabályai
@@ -5827,8 +5870,7 @@ feltéve, ha a szakmai gyakorlat befejezésére vonatkozó egyéb feltételek fe
 - 10. az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról szóló, 2014. április 16-i 2014/56/EU európai parlamenti és tanácsi irányelvnek,
 - 11. a biztosítási értékesítésről szóló, 2016. január 20-i 2016/97/EU európai parlamenti és tanácsi irányelvnek,
 - 12. a foglalkoztatói nyugellátást szolgáltató intézmények tevékenységéről és felügyeletéről szóló, 2016. december 14-i (EU) 2016/2341 európai parlamenti és tanácsi irányelvnek
-
-való megfelelést szolgálja.
+- 13. a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról szóló 2009/138/EK irányelv (Szolvencia II.), a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv és a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv módosításáról szóló, 2019. december 18-i (EU) 2019/2177 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 453/A. § Ez a törvény
 
