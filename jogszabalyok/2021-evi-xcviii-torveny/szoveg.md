@@ -30,9 +30,7 @@ egyes törvényeknek a turizmus-vendéglátás ágazatot érintő stratégiai c�
 
 12. §
 
-13. § A Turizmus törvény 9/I. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A Magyar Turisztikai Ügynökség Zrt. az (1) bekezdés szerinti szoftvert térítésmentesen biztosítja az olyan szálláshely-szolgáltatónak, aki legfeljebb nyolc szobát tizenhat férőhellyel hasznosít szálláshelyként.”
+13. §
 
 14. §
 
@@ -40,13 +38,7 @@ egyes törvényeknek a turizmus-vendéglátás ágazatot érintő stratégiai c�
 
 16. §
 
-17. § A Turizmus törvény
-
-- a) 9/I. § (1) bekezdésében a „turisztikai szolgáltató” szövegrész helyébe a „szálláshely-szolgáltató” szöveg,
-- b) 12. § (6) bekezdésében a „2021. április 1. napjától” szövegrész helyébe a „2021. szeptember 1. napjától” szöveg,
-- c) 12. § (7) bekezdésében a „2021. április 1. napját” szövegrész helyébe a „2021. szeptember 1. napját” szöveg
-
-lép.
+17. §
 
 #### 3. Záró rendelkezések
 
