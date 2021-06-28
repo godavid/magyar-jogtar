@@ -1562,7 +1562,7 @@ folytatja le.
 
 (8) A repülőtér légiközlekedés védelmének költségeit az állam, a repülőtér, valamint a légitársasági légijármű üzemben tartója – jogszabályban meghatározott módon és mértékben – közösen viselik. A költségek a repülőtér használóira és a légiutasokra átháríthatók.
 
-(9) A tárgyévet megelőző három év statisztikai adatai alapján számított átlag szerint az évente 250 000 utas feletti forgalmat bonyolító nemzetközi kereskedelmi repülőtér üzemben tartója a légiközlekedési hatóságnak felügyeleti díjat köteles fizetni. A felügyeleti díj éves mértéke – a forgalmi statisztika szerinti utasszám alapján – az utasonként 150 forint – de maximum évi 1 milliárd 500 millió forint melyet negyedéves részletekben, az adott negyedév forgalmi, statisztikai adatai alapján a negyedévet követő hónap tizenötödik napjáig forintban kell a légiközlekedési hatóság számlájára átutalni. A maximumként megállapított díj összege 2020-tól kezdődően a Központi Statisztikai Hivatal által közzétett hivatalos fogyasztói árindex mértékével évente automatikusan növekszik.
+(9) A tárgyévet megelőző három év statisztikai adatai alapján számított átlag szerint az évente 250 000 utas feletti forgalmat bonyolító nemzetközi kereskedelmi repülőtér üzemben tartója a légiközlekedési hatóságnak felügyeleti díjat köteles fizetni. A felügyeleti díj éves mértéke a forgalmi statisztika szerinti utasszám alapján utasonként 150 forint, valamint áruszállítás esetén tonnánként 1 000 forint, de összesen maximum évi 1 milliárd 500 millió forint melyet negyedéves részletekben, az adott negyedév forgalmi, statisztikai adatai alapján a negyedévet követő hónap tizenötödik napjáig forintban kell a légiközlekedési hatóság számlájára átutalni. A maximumként megállapított díj összege 2020-tól kezdődően a Központi Statisztikai Hivatal által közzétett hivatalos fogyasztói árindex mértékével évente automatikusan növekszik.
 
 (10) A felügyeleti díjat a légiközlekedési hatóság csak a légiközlekedés védelmével kapcsolatos feladatainak ellátásával összefüggésben használhatja fel.
 
@@ -1920,6 +1920,8 @@ rendeletben állapítsa meg.
 77. § A kijelölt eseti légtérben végrehajtott UAS-művelet során az adott eseti légtér jogosultjaként a távoli pilóta a pilóta nélküli légijárművek használatát támogató, az aktuális légtér információkat és egyéb korlátozásokat tartalmazó mobilalkalmazásban 2021. július 31. előtt akkor jelöli be az általa használt, a vonatkozó szabályok szerint aktivált légteret, ha azt a magyar légtér igénybevételéről szóló kormányrendelet előírja.
 
 78. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+79. § E törvénynek az egyes közlekedési tárgyú törvények módosításáról szóló 2021. évi LIX. törvénnyel megállapított 67. § (9) bekezdésében szereplő áruszállítás esetén fizetendő felügyeleti díjat első alkalommal 2021. július 1-től szükséges megfizetni, a harmadik negyedévet követő hónap tizenötödik napjáig.
 
 ### 1. melléklet az 1995. évi XCVII. törvényhez
 

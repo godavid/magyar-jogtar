@@ -848,6 +848,8 @@ hagyja jóvá a közlekedési hatóság.
 
 kapcsolatos szabályokat.
 
+(9) Az (5) bekezdés szerinti felügyeleti díj a vasúti közlekedési hatóságot illeti meg, amelyet a vasúti közlekedési hatóság hatósági feladataival összefüggésben használ fel.
+
 ### A VASÚTI KÖZLEKEDÉS BIZTONSÁGÁVAL ÖSSZEFÜGGÖ MUNKAKÖRÖK BETÖLTÉSÉNEK FELTÉTELEI
 
 ### A vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók képzése és vizsgáztatása
@@ -1939,7 +1941,7 @@ biztosítható.
 
 (5) A vasúti igazgatási szerv szorosan együttműködik a közlekedési hatósággal. E hatóságok közösen keretet alakítanak ki az információk megosztásához és az együttműködéshez, amelynek célja a vasúti piacon a versenyre vagy a biztonságra gyakorolt káros hatások megelőzése. Ennek a keretnek magában kell foglalnia egy eljárást, amelynek révén a vasúti igazgatási szerv ajánlásokkal látja el a közlekedési hatóságot az olyan kérdések tekintetében, amelyek érinthetik a versenyt a vasúti piacon, valamint amelynek révén a közlekedési hatóság ajánlásokkal látja el az vasúti igazgatási szervet az olyan kérdések tekintetében, amelyek befolyásolhatják a biztonságot. Az egyes hatóságok saját hatáskörbe tartozó területen belüli függetlenségének sérelme nélkül az érintett hatóság határozatainak meghozatala előtt megvizsgál minden ajánlást. Ha az illetékes hatóság úgy határoz, hogy eltér ezektől az ajánlásoktól, indokolnia kell az ajánlástól való eltérést.
 
-(6) A vasúti igazgatási szerv részére a piac felügyeletével kapcsolatos tevékenységért az országos működési engedéllyel rendelkező vasúti társaságok felügyeleti díjat kötelesek fizetni, amelynek mértéke a fizetésre kötelezett által az előző évben belföldön fizetett hálózat-hozzáférési díj, valamint elszámolt belső hálózat-hozzáférési díj 0,4%-a. Előző évi fizetett hálózat-hozzáférési díj vagy hálózat-hozzáférési díj hiányában a felügyeleti díjat a tárgyidőszakban ténylegesen fizetett hálózat-hozzáférési díjak alapján kell megfizetni.
+(6) A vasúti igazgatási szerv részére a piac felügyeletével kapcsolatos tevékenységért az országos működési engedéllyel rendelkező vasúti társaság felügyeleti díjat fizet, amelynek mértéke a fizetésre kötelezett által az előző évben belföldön fizetett hálózat-hozzáférési díj, valamint elszámolt belső hálózat-hozzáférési díj 0,4%-a. Előző évi fizetett hálózat-hozzáférési díj, vagy elszámolt hálózat-hozzáférési díj hiányában a felügyeleti díjat a tárgyidőszakban ténylegesen fizetett hálózat-hozzáférési díjak alapján kell megfizetni. A felügyeleti díj a vasúti igazgatási szervet illeti meg, amely azt feladataival összefüggésben használja fel.
 
 ### Együttműködés a versenyhatósággal
 
