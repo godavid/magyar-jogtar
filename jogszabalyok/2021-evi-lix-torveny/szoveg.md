@@ -65,13 +65,15 @@ lép.
 
 25. §
 
-26. §
+26. § Az Lt. a következő 79. §-sal egészül ki:
+
+„79. § E törvénynek az egyes közlekedési tárgyú törvények módosításáról szóló 2021. évi LIX. törvénnyel megállapított 67. § (9) bekezdésében szereplő áruszállítás esetén fizetendő felügyeleti díjat első alkalommal 2021. július 1-től szükséges megfizetni, a harmadik negyedévet követő hónap tizenötödik napjáig.”
 
 27. § Az Lt.
 
 - a)
 - b)
-- c)
+- c) 67. § (9) bekezdésében az „A felügyeleti díj éves mértéke – a forgalmi statisztika szerinti utasszám alapján – az utasonként 150 forint – de” szövegrész helyébe az „A felügyeleti díj éves mértéke a forgalmi statisztika szerinti utasszám alapján utasonként 150 forint, valamint áruszállítás esetén tonnánként 1 000 forint, de összesen” szöveg
 
 lép.
 
@@ -101,11 +103,15 @@ lép.
 
 37. §
 
-38. §
+38. § A Vtv. 35. §-a a következő (9) bekezdéssel egészül ki:
+
+„(9) Az (5) bekezdés szerinti felügyeleti díj a vasúti közlekedési hatóságot illeti meg, amelyet a vasúti közlekedési hatóság hatósági feladataival összefüggésben használ fel.”
 
 39. §
 
-40. §
+40. § A Vtv. 79/F. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A vasúti igazgatási szerv részére a piac felügyeletével kapcsolatos tevékenységért az országos működési engedéllyel rendelkező vasúti társaság felügyeleti díjat fizet, amelynek mértéke a fizetésre kötelezett által az előző évben belföldön fizetett hálózat-hozzáférési díj, valamint elszámolt belső hálózat-hozzáférési díj 0,4%-a. Előző évi fizetett hálózat-hozzáférési díj, vagy elszámolt hálózat-hozzáférési díj hiányában a felügyeleti díjat a tárgyidőszakban ténylegesen fizetett hálózat-hozzáférési díjak alapján kell megfizetni. A felügyeleti díj a vasúti igazgatási szervet illeti meg, amely azt feladataival összefüggésben használja fel.”
 
 41. §
 
