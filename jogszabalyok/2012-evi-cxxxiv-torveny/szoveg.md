@@ -379,7 +379,9 @@ feltéve, hogy az üzlet egyébként megfelel a dohánytermékek értékesítés
 
 fogadhatja el.
 
-15/D. § (1) A dohánytermék-kiskereskedő köteles valamennyi általa forgalmazott dohánytermékből – a szivarokat, az új dohánytermék-kategóriákat, valamint a füst nélküli dohánytermékeket kivéve – típusonként, márkajelzésenként, illetve – ha ilyen van – a márkajelzések minden alfajtája után egyet-egyet a dohányboltban a pultvonal felett, illetve az elkülönített helyen belül a fogyasztók számára jól láthatóan megjeleníteni. A szivarok kivételével minden olyan dohánytermék, amelynek csomagolása képpel kombinált figyelmeztetést tartalmaz, csak olyan módon helyezhető az értékesítési csatornába (polchelyre), hogy a képpel kombinált figyelmeztetés a fogyasztó felé láthatóvá váljék; minden más esetben a terméket a csomagolás előlapjával kell megjeleníteni.
+15/D. § (1) A dohánytermék-kiskereskedő köteles valamennyi általa forgalmazott dohánytermékből – a szivarokat, az új dohánytermék-kategóriákat, valamint a füst nélküli dohánytermékeket kivéve – típusonként, márkajelzésenként, valamint – ha ilyen van – a márkajelzések minden alfajtája után egyet-egyet a dohányboltban a pultvonal felett, illetve az elkülönített helyen belül a fogyasztók számára jól láthatóan megjeleníteni. A szivarok kivételével minden olyan dohánytermék, amelynek csomagolása kombinált egészségvédő figyelmeztetést tartalmaz, csak olyan módon helyezhető az értékesítési csatornába (polchelyre), hogy a kombinált egészségvédő figyelmeztetés a fogyasztó felé láthatóvá váljék; minden más esetben a terméket a csomagolás előlapjával kell megjeleníteni.
+
+(1a) Azon dohánytermék vonatkozásában, amelyik jogszabályban meghatározott, kötelezően alkalmazandó színű (egységes) csomagolásban kerül forgalomba, az (1) bekezdésben foglaltakat 2022. december 31-ig azzal az eltéréssel kell alkalmazni, hogy a dohánytermék értékesítési csatornája elé a dohánytermék csomagolásának méretével megegyező méretű, márkajelzést tartalmazó, a dohánytermék korábbi vagy más országban jellemző megjelenését ábrázoló kép helyezhető ki a kihelyezett képen a kombinált egészségvédő figyelmeztetést a dohánytermékre irányadó jogszabályok szerinti méretben és szöveggel meg kell jeleníteni.
 
 (2) Amennyiben a dohánytermék-nagykereskedő az általa gyártott, vagy forgalmazott (szabadforgalomba bocsátott) dohánytermék(ek), vagy termékcsoport(ok) kedvezőbb (így különösen nagyobb felületen, vagy kiemeléssel történő) megjelenítését kívánja a dohányboltban, úgy erről a dohánytermék-kiskereskedővel határozott időre – írásban – polckép-szerződést köthet. A polckép-szerződésnek tartalmaznia kell legalább
 
@@ -434,7 +436,7 @@ fogadhatja el.
 
 (7) A dohánytermék-kiskereskedővel szemben az e §-ban szabályozott rendelkezések be nem tartásáért a fogyasztóvédelmi hatóság bírságot szabhat ki, azzal, hogy az (1)–(3) bekezdésben foglalt rendelkezések megsértése esetén bírság kiszabása kötelező.
 
-16/A. § A dohánytermék-kiskereskedő a fogyasztó kérdésére köteles a dohányzás ártalmaival összefüggésben az alapvető tényekre vonatkozó felvilágosítást megadni és a részvénytársaság által a 10/C. §-ban foglalt feladatainak ellátása során megküldött tájékoztatót a dohányboltban, valamint az elkülönített helyen kihelyezni, vagy elektronikus eszköz útján megjeleníteni.
+16/A. § A dohánytermék-kiskereskedő a fogyasztó kérdésére köteles a dohányzás ártalmaival összefüggésben az alapvető tényekre vonatkozó felvilágosítást megadni.
 
 ### 7. CÍM — A dohánytermékek árusításával feljogosított személyekre vonatkozó különös rendelkezések
 
@@ -585,6 +587,16 @@ a dohánytermék-kiskereskedő a dohányterméket a 2015. október 31-én hatál
 - d) a felek az a)–c) pontban meghatározottakat nem érintő egyéb feltételekben is megállapodhatnak, így különösen arról, hogy a felek bármelyike mely további esetekben jogosult átalány-kártérítés (kártalanítás) jogcímén igényt támasztani. Az átalány-kártérítés (kártalanítás) követelése nem érinti a felek bármelyikének azon jogát, hogy a jogszabályokban meghatározott bármely további jogával éljen, így különösen az átalány-kártérítés (kártalanítás) összegén felüli kárigényt támasszon és bizonyítson.
 
 (4) Amennyiben a (2) bekezdésben meghatározott határidőben a szerződés-módosítás írásbeli formában nem jön létre, úgy a jogosult a (3) bekezdés a) és c) pontjában számára biztosított jogokra – a magyar állammal szemben – a szerződés-módosítás nélkül is hivatkozhat, továbbá kezdeményezheti a szerződés-módosítás létrehozását bírósági úton.
+
+24/H. § (1) Kiskereskedelmi tevékenység körében elektronikus cigaretta, utántöltő flakon, vagy dohányzást imitáló elektronikus eszköz forgalmazására 2016. május 20-án jogosult személy vagy szervezet – az e törvényben meghatározottak szerint – anyagi kompenzációra jogosult, amennyiben 2016. május 20. napját követően az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2015. évi CCXXIV. törvény 65. §-a alapján ezen jogosultságát elvesztette.
+
+(2) Kompenzációra az jogosult, aki az (1) bekezdés szerinti üzleti tevékenysége körében a 2013., 2014. és 2015. üzleti évek mindegyikében a teljes árbevételének legalább 10%-át az elektronikus cigaretta, utántöltő flakon, vagy dohányzást imitáló elektronikus eszköz kiskereskedelméből érte el.
+
+(3) A kompenzáció mértéke az (1) bekezdésben meghatározott termékek kiskereskedelmi forgalomban történő értékesítéséből a (2) bekezdés szerinti üzleti években elért adózás utáni eredmény mértékének megfelelő összeg.
+
+(4) A kompenzáció iránti kérelmet – a Kormány rendeletében meghatározottak szerint – 2021. október 31-ig lehet benyújtani.
+
+(5) A kompenzációra irányuló kérelemről az államháztartásért felelős miniszter dönt.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

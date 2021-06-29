@@ -185,7 +185,11 @@ irányuló eljárás.
   - ya) műemlék vagy nyilvántartott műemléki érték,
   - yb) műemléki terület (műemléki jelentőségű terület, történeti táj, műemléki környezet),
   - yc) régészeti lelőhely (törvény erejénél fogva védett és rendeletben védetté nyilvánított, fokozottan vagy kiemelten védett régészeti lelőhely) vagy régészeti védőövezet,
-  - yd) helyi egyedi építészeti védelem ingatlan-nyilvántartási feljegyzése iránti hatósági eljárás;
+  - yd) helyi egyedi építészeti védelem
+  - ye) védett kulturális javak körébe tartozó tartozékok, alkotórészek
+
+ingatlan-nyilvántartási feljegyzése iránti hatósági eljárás;
+
 - z) az Országos Erdőállomány Adattárban erdőként vagy fátlan állapotban tartott erdőként nyilvántartott terület erdő vagy fásított terület művelési ágának átvezetésére, ennek hiányában jogi jellegként történő feljegyzésére irányuló hatósági eljárás.
 
 (2) A mentesség fennállásáról a kérelmező az eljárás megindításakor köteles nyilatkozni.

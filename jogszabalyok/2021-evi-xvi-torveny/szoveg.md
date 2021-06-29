@@ -22,6 +22,14 @@ A kultúrstratégiai jelentőségű tevékenységek finanszírozása, támogatá
 
 (3) Az Alapítvány jogutód nélküli megszűnése vagy megszüntetése esetén az 1. melléklet szerinti vagyonelemek tulajdonjoga az államra száll vissza.
 
+2/A. § (1) A Budapest X. kerület belterület 38920/5. helyrajzi számú ingatlan 3. mellékletben meghatározott koordináták által határolt ingatlanrészét (e § alkalmazásában a továbbiakban: ingatlan) az Alapítvány tulajdonába kell adni.
+
+(2) Az ingatlan tekintetében a tulajdonátruházás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti el és köti meg. A szerződésben az ingatlan forgalmi értékeként a tulajdonosi joggyakorló által megállapított értéket kell megjelölni.
+
+(3) Az ingatlan tulajdonjogát az Alapítvány per-, teher- és igénymentesen szerzi meg.
+
+(4) Az ingatlant az Alapítvány a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladatai ellátása érdekében használja.
+
 #### 3. A Petőfi Irodalmi Ügynökség Nonprofit Korlátolt Felelősségű Társaság részére történő vagyonjuttatás
 
 3. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az állam tulajdonában lévő, 2. mellékletben felsorolt ingatlanok (a továbbiakban: ingatlanok) ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítványnak a Petőfi Irodalmi Ügynökség Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Ügynökség) útján ellátott, KEKVA tv. 1. melléklete szerinti közfeladatai ellátásának elősegítése érdekében az Ügynökség tulajdonába kerülnek azzal, hogy a Budapest III. kerület 18386/9 helyrajzi számú, valamint a Budapest III. kerület 18019 helyrajzi számú ingatlan ingyenes használatát határozatlan időre biztosítani kell a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) számára.
@@ -42,11 +50,11 @@ A kultúrstratégiai jelentőségű tevékenységek finanszírozása, támogatá
 
 6. § (1) Az 1. § (3) és (4) bekezdése, a 2. § (1) és (3) bekezdése, a 3. § (1), (3) és (5) bekezdése, az 1. melléklet és a 2. mellékletben foglalt táblázat 2–9., 11., 13–20. pontja az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
-(2) A 4. § és a 2. mellékletben foglalt táblázat 10. és 12. pontja az Alaptörvény 38. cikk (1), (2) és (6) bekezdése alapján sarkalatosnak minősül.
+(2) A 2/A. §, 4. §, a 2. mellékletben foglalt táblázat 10. és 12. pontja és a 3. melléklet az Alaptörvény 38. cikk (1), (2) és (6) bekezdése alapján sarkalatosnak minősül.
 
 (3) A 7. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
-7. §
+#### 7. §
 
 ### 1. melléklet a 2021. évi XVI. törvényhez
 
@@ -85,3 +93,29 @@ A kultúrstratégiai jelentőségű tevékenységek finanszírozása, támogatá
 | 18. | BUDAPEST | III. | 23798/5 | kivett ipartelep |
 | 19. | BUDAPEST | VI. | 29610/0/A/2 | iroda |
 | 20. | SZEGED | I. | 1302/2 | kivett lakóház, udvar |
+
+### 3. melléklet a 2021. évi XVI. törvényhez
+
+#### A 38920/5. helyrajzi számú ingatlan koordináták által határolt ingatlanrésze
+
+|  | A | B |
+| --- | --- | --- |
+| 1. | POINT_X | POINT_Y |
+| 2. | 237877,54 | 655346,91 |
+| 3. | 237858,23 | 655341,83 |
+| 4. | 237828,04 | 655322,84 |
+| 5. | 237801,40 | 655275,04 |
+| 6. | 237811,65 | 655249,17 |
+| 7. | 237826,91 | 655210,47 |
+| 8. | 237833,37 | 655195,69 |
+| 9. | 237862,43 | 655207,11 |
+| 10. | 237866,39 | 655228,24 |
+| 11. | 237859,56 | 655247,02 |
+| 12. | 237915,38 | 655268,90 |
+| 13. | 237921,38 | 655286,49 |
+| 14. | 237970,63 | 655305,80 |
+| 15. | 237981,79 | 655322,55 |
+| 16. | 237963,16 | 655329,45 |
+| 17. | 237942,20 | 655335,79 |
+| 18. | 237920,89 | 655340,82 |
+| 19. | 237899,31 | 655344,53 |

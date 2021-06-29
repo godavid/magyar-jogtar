@@ -43,6 +43,7 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 - n) az állami tulajdonú vízi utak fenntartásának, valamint fejlesztésének felügyelete;
 - o) a vízrajzi tevékenység ellátása;
 - p) a vízkészletek mennyiségi és minőségi számbavétele.
+- q) a közjóléti feladatellátás körében a vízitúrázás és a kerékpáros turisztikai igénybevétel alapfeltételeinek biztosítása az állami tulajdonban lévő vizek és vízilétesítmények üzemeltetése során.
 
 (2) Az (1) bekezdésben felsorolt feladatok közül
 
@@ -1380,6 +1381,8 @@ vonatkozó szabályokat, továbbá kijelölje a továbbképzési rendszer műkö
 - b) a VIZEK rendszer üzemeltetőjét és a rendszerhez csatlakozó szerveket.
 
 (7d) Felhatalmazást kap a Kormány, hogy a mezőgazdasági öntözési célú kutak létesítésével, valamint az engedély nélkül, vagy az engedélytől eltérően létesített mezőgazdasági öntözési célú kutak fennmaradásával, továbbá a mezőgazdasági öntözési célú kutak üzemeltetésével kapcsolatos sajátos feltételeket és eljárási szabályokat rendeletben határozza meg.
+
+(7e) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a vízitúrázás és a kerékpáros turisztikai igénybevétel alapfeltételeit az állami tulajdonban lévő vizek és vízilétesítmények üzemeltetése során.
 
 (8) Felhatalmazást kap a vízgazdálkodásért felelős miniszter
 

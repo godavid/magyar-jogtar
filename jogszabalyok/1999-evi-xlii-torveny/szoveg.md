@@ -27,7 +27,7 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
   - ob) más esetben: ha a kiskereskedelmi egység létesítő okirat szerinti székhelye, központi ügyintézésének helye vagy telephelye – beleértve a fióktelepet, az ügynökséget vagy bármely más létesítményt – az adott tagállamban található;
 - p) elektronikus cigaretta: olyan egyszer használatos (eldobható), vagy utántöltő flakonnal utántölthető vagy patronnal működő (többször használható) elektronikus termék, amely szopókán keresztül nikotintartalmú pára fogyasztását teszi lehetővé, vagy annak bármely alkatrésze, beleértve a patronokat, a tartályokat és a patron vagy tartály nélküli készüléket is;
 - q) utántöltő flakon: az elektronikus cigaretta utántöltésére szolgáló, nikotintartalmú folyadékot tartalmazó tartály;
-- r) patron: egyes elektronikus cigaretták használatához szükséges, jellemzően egyszer használatos (nem utántölthető) nikotintartalmú folyadékot tartalmazó tartály;
+- r) patron: egyes elektronikus cigaretták használatához szükséges, jellemzően egyszer használatos (nem utántölthető) bármilyen formában nikotint tartalmazó folyadékot tartalmazó tartály;
 - s) dohányzást imitáló elektronikus eszköz: olyan elektronikus termék, amely szopókán keresztül nikotinmentes pára fogyasztását teszi lehetővé;
 - t) nikotinmentes utántöltő flakon: dohányzást imitáló elektronikus eszköz utántöltésére szolgáló, vagy használatát lehetővé tevő nikotinmentes folyadékot tartalmazó tartály, ideértve a nikotinmentes folyadékot tartalmazó egyszer használatos (nem utántölthető) tartályt is;
 - u) füst nélküli dohánytermék: olyan dohánytermék, amelynek a felhasználása nem jár égési folyamattal, beleértve a rágódohányt, a tüsszentésre szolgáló dohányterméket és a szájon át fogyasztott dohányterméket;
@@ -35,7 +35,7 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
   - va) amely nem tartozik a következő kategóriák egyikébe sem: cigaretta, cigarettadohány, pipadohány, vízipipadohány, szivar, szivarka, rágódohány, tüsszentésre szolgáló dohánytermék vagy szájon át fogyasztott dohánytermék, és
   - vb) amelyet 2014. május 19-e után hoznak forgalomba;
 - w) új dohánytermék-kategóriák kiegészítő terméke: olyan áru, amely az új dohánytermék-kategóriák fogyasztását közvetlen módon elősegíti, így különösen a fogyasztáshoz szükséges kiegészítő eszköz, továbbá az új dohánytermék-kategóriák használatához, tárolásához, karbantartásához, működtetéséhez kapcsolódó termékek (tartozék, alkatrész);
-- x) módosított hatású termék: olyan, az új dohánytermék-kategóriákba tartozó, fogyasztható nikotintartalmú termék, amelyet ilyen termékként nyilvántartásba vettek, továbbá a 2014. május 19-e után az Európai Unió területén jogszerűen forgalomba hozott elektronikus cigaretta;
+- x) elektronikuscigaretta-azonosító szám: az elektronikus cigarettákra és az utántöltő flakonokra vonatkozó értesítések közös formátumának meghatározásáról szóló, 2015. november 24-i (EU) 2015/2183 bizottsági végrehajtási határozatban meghatározott közös adatbeviteli kapun bejelentett termékek azonosítására szolgáló szám;
 - y) a dohányzást helyettesítő nikotintartalmú termék: olyan – dohányt nem tartalmazó, és elektronikus cigarettának, továbbá utántöltő flakonnak vagy patronnak nem minősülő – nikotint tartalmazó termék, amely nem minősül gyógyszernek, és amelynek hatóanyaga szájon át (nyálkahártyán keresztül) jut el az emberi szervezetbe.
 
 ### A dohánytermékek fogyasztásának alapvető szabályai
@@ -101,6 +101,8 @@ Az Országgyűlés– tekintettel a magyar lakosság kedvezőtlen népegészség
 
 (4) A dohányzási korlátozás azonos időpontban és helyszínen, ugyanazon személy által történő megszegéséért a (2) bekezdés szerinti helyszíni bírság és a 7. § szerinti egészségvédelmi bírság együttesen nem szabható ki. Ha a dohányzási korlátozás azonos időpontban és helyszínen, ugyanazon személy általi megszegése miatt a közterület-felügyelet és az egészségügyi államigazgatási szerv is eljárást indított, az eljárást az a hatóság folytatja le, amelynél az eljárás előbb indult meg.
 
+2/B. § Dohányzást helyettesítő nikotintartalmú termék fogyasztása köznevelési intézményben, valamint gyermekjóléti, gyermekvédelmi intézményben tilos.
+
 3. § (1) A közforgalmú intézmény feladatkörében eljáró, valamint a közösségi közlekedési eszköz működtetésében hivatásszerűen közreműködő személy (a továbbiakban együtt: rendelkezésre jogosult) a dohányzásra, elektronikus cigaretta, valamint dohányzást imitáló elektronikus eszköz használatára vonatkozó korlátozást megsértőt a jogsértés haladéktalan befejezésére köteles felhívni. A felhívás eredménytelensége esetén a rendelkezésre jogosult az érintett személyt felszólítja, hogy a közforgalmú intézményt, illetve a közösségi közlekedési eszközt hagyja el, illetőleg kezdeményezi a 7. § (1)–(2), illetve (13) bekezdései szerinti eljárás lefolytatását.
 
 (2) Az (1) bekezdésben meghatározott személy felhívására – az eljáró intézkedési jogosultságának igazolását követően – az érintett személy személyazonosságát hitelt érdemlő módon köteles igazolni.
@@ -136,13 +138,13 @@ hozható meg.
 
 ### A dohánytermékek forgalomba hozatalánakegyes korlátai
 
-5. § (1) Dohánytermék-kiskereskedelmére, valamint elektronikus cigarettára, utántöltő flakon és dohányzást imitáló elektronikus eszköz kiskereskedelmére irányuló tevékenység nem végezhető köznevelési intézményben, személyes gondoskodást nyújtó szociális intézményben, gyermekjóléti, gyermekvédelmi intézményben, valamint egészségügyi intézményben.
+5. § (1) A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény (továbbiakban: Fdvtv.) 1. § (1) bekezdés b)–h) pontjában felsorolt termékek kiskereskedelmére irányuló tevékenység nem végezhető köznevelési intézményben, személyes gondoskodást nyújtó szociális intézményben, gyermekjóléti, gyermekvédelmi intézményben, valamint egészségügyi intézményben.
 
-(2) Dohánytermék, valamint elektronikus cigaretta, utántöltő flakon és dohányzást imitáló elektronikus eszköz árumintaként nem forgalmazható.
+(2) Dohánytermék, valamint az Fdvtv. 1. § (1) bekezdés b)–h) pontjában felsorolt termék árumintaként nem forgalmazható.
 
-(3) Dohánytermék, valamint elektronikus cigaretta, utántöltő flakon és dohányzást imitáló elektronikus eszköz árusítása automatából nem megengedett.
+(3) Dohánytermék, valamint az Fdvtv. 1. § (1) bekezdés b)–h) pontjában felsorolt termék árusítása automatából nem megengedett.
 
-(4) E § alkalmazásában dohánytermék-kiskereskedelem alatt a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvényben ekként meghatározott fogalmat kell érteni.
+(4) E § alkalmazásában dohánytermék-kiskereskedelem alatt az Fdvtv-ben ekként meghatározott fogalmat kell érteni.
 
 6. § (1) Dohányterméket forgalomba hozni csak abban az esetben lehet, amennyiben minden csomagolási egysége és gyűjtőcsomagja megfelel az e törvény végrehajtására kiadott kormányrendeletben foglalt előírásoknak.
 
@@ -258,25 +260,17 @@ hozható meg.
 
 (4) Az új dohánytermék-kategóriák gyártói vagy forgalomba hozói a (2) bekezdés szerinti bejelentés esetén, valamint évente, tárgyév március 31-éig termékenként igazgatási szolgáltatási díjat fizetnek az egészségügyi államigazgatási szerv részére. A bejelentést követő évtől az igazgatási szolgáltatási díj a bejelentés fenntartását szolgálja.
 
-7/K. § (1) Az egészségügyi államigazgatási szerv az új dohánytermék-kategóriák gyártójának vagy forgalomba hozójának kérelmére folytatja le a Magyarországon forgalomba hozni kívánt termék módosított hatású terméknek történő minősítésére irányuló eljárást.
+7/K. §
 
-(2) Az egészségügyi államigazgatási szerv a módosított hatású terméknek minősített terméket – a (3) bekezdésben foglaltakra figyelemmel – nyilvántartásba veszi.
-
-(3) Az egészségügyi államigazgatási szerv az eljárás során megkeresi az egészségügyért felelős miniszter által létrehozott szakmai bizottságot (a továbbiakban: Bizottság).
-
-(4) A Bizottságra a szakértőkre vonatkozó szabályokat kell alkalmazni.
-
-7/L. § (1) A Bizottság a Kormány rendeletében meghatározott tudományos és egészségügyi szempontok alapján vizsgálja, hogy a kérelmező által bemutatott új dohánytermék-kategóriákba tartozó dohánytermék a cigarettához képest a legtöbb tulajdonságát tekintve jelentősen eltérő hatású-e az emberi egészségre.
-
-(2) A Bizottság a véleményét a megkeresésétől számított 110 napon belül hozza meg.
+7/L. §
 
 ### Záró rendelkezések
 
 8. § (1) Ez a törvény a kihirdetését követő hetedik hónap első napján lép hatályba azzal, hogy a hatálybalépésének napján – érvényes működési engedély alapján – működő vagy folyamatban lévő működési engedélyezési eljárás alapján a működésüket a törvény hatálybalépését követően megkezdő szórakoztató, vendéglátóipari szolgáltatást nyújtó közforgalmú intézmények tekintetében a dohányzási korlátozást, illetőleg a dohányzóhely kijelölésére vonatkozó kötelezettséget 2001. január 1-jétől kell alkalmazni.
 
-(2) A dohányzásra, valamint a dohánytermékek, valamint az elektronikus cigaretták és utántöltő flakonok forgalmazására vonatkozó, e törvényben foglalt tilalmak, korlátozások nem érintik az egyéb jogszabályban meghatározott érdekből, célból, illetőleg módon elrendelt dohányzási tilalmakat, korlátozásokat.
+(2)
 
-(3) Azok a cigaretta dohánytermékek, amelyek nem felelnek meg az e törvény 6. § (1)–(2) bekezdésében és a külön jogszabályban meghatározott rendelkezéseknek nem gyárthatóak és a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 1997. évi CIII. törvény rendelkezései szerint nem bocsáthatóak szabadforgalomba és e rendelkezés hatálybalépésétől számított egy évet követően nem hozhatók forgalomba.
+(3) Azok a cigaretta dohánytermékek, amelyek nem felelnek meg az e törvény 6. § (1)–(2) bekezdésében és a külön jogszabályban meghatározott rendelkezéseknek nem gyárthatóak és a jövedéki adóról és a jövedéki adóról szóló 2016. évi LXVIII. törvény rendelkezései szerint nem bocsáthatóak szabadforgalomba és e rendelkezés hatálybalépésétől számított egy évet követően nem hozhatók forgalomba.
 
 (4) Felhatalmazást kapnak az érintett miniszterek, hogy az irányításuk, illetve felügyeletük alá tartozó, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek tekintetében a dohányzásra, elektronikus cigaretta használatára a dohányzóhelyek kijelölésére, illetve a dohánytermékek forgalmazására vonatkozó részletes, az e törvénnyel összhangban lévő szabályokat rendeletben meghatározzák.
 
@@ -291,13 +285,13 @@ rendeletben határozza meg.
 
 (4c) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben
 
-- a) az elektronikus cigaretta, az utántöltő flakon és a dohányzást imitáló elektronikus eszköz forgalomba hozatalára, nyilvántartására és az ezzel kapcsolatos változások bejelentésére, valamint a bejelentések fenntartására vonatkozó igazgatási szolgáltatási díj mértékét, a díj beszedésével, kezelésével, nyilvántartásával, és visszatérítésével kapcsolatos,
+- a) az elektronikus cigaretta, az utántöltő flakon, a nikotinmentes utántöltő flakon, dohányzást helyettesítő nikotin tartalmú termékek és a dohányzást imitáló elektronikus eszköz forgalomba hozatalára, nyilvántartására és az ezzel kapcsolatos változások bejelentésére, valamint a bejelentések fenntartására vonatkozó igazgatási szolgáltatási díj mértékét, a díj beszedésével, kezelésével, nyilvántartásával, és visszatérítésével kapcsolatos,
 - b) az új dohánytermék-kategóriák bejelentésére, nyilvántartására, valamint a bejelentések fenntartására vonatkozó igazgatási szolgáltatási díj mértékét, a díj beszedésével, kezelésével, nyilvántartásával, és visszatérítésével kapcsolatos,
 - c) a dohánytermékek gyártása során felhasznált adalékanyagok bejelentésére, nyilvántartására, valamint a bejelentések fenntartására vonatkozó igazgatási szolgáltatási díj mértékét, a díj beszedésével, kezelésével, nyilvántartásával, és visszatérítésével kapcsolatos
 
 részletes szabályokat rendeletben határozza meg.
 
-(4d) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a módosított hatású terméknek történő minősítésre irányuló eljárás igazgatási szolgáltatási díját, valamint a Bizottság véleményére vonatkozó díj mértékét, továbbá a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
+(4d)
 
 (5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
@@ -311,7 +305,7 @@ részletes szabályokat rendeletben határozza meg.
 - h) az új dohánytermékek forgalomba hozatalának szabályait,
 - i) a dohányzási célú gyógynövénytermékekre vonatkozó részletes szabályokat,
 - j) az új dohánytermék-kategóriák forgalmazásának és ismertetésének különös szabályait,
-- k) a módosított hatású terméknek történő minősítésre irányuló eljárásban vizsgálandó tudományos és egészségügyi szempontokat, az eljárás részletes szabályai, valamint a Bizottság összetételére és működésére vonatkozó különös szabályokat.
+- k)
 
 (6) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
@@ -319,9 +313,9 @@ részletes szabályokat rendeletben határozza meg.
 - b) az Európai Parlament és a Tanács 2003/33/EK irányelve (2003. május 26.) a tagállamok dohánytermékek reklámozására és szponzorálására vonatkozó törvényi, rendeleti és közigazgatási rendelkezéseinek közelítéséről, 5. cikk (2) bekezdése [a törvény 5. §-ának (4) bekezdése];
 - c) az Európai Parlament és a Tanács 2014/40/EU irányelve (2014. április 3.) a tagállamoknak a dohánytermékek és kapcsolódó termékek gyártására, kiszerelésére és értékesítésére vonatkozó törvényi, rendeleti és közigazgatási rendelkezései közelítéséről és a 2001/37/EK irányelv hatályon kívül helyezéséről.
 
-8/A. § (1)
+8/A. § (1) E törvénynek az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvénnyel (a továbbiakban: Módtv.) megállapított 5. § (1)–(4) bekezdése a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-(2)
+(2) E törvénynek a Módtv.-vel megállapított 5. § (1)–(4) bekezdésének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
 8/B. §
 

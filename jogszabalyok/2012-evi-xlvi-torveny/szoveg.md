@@ -966,9 +966,9 @@ rendeletben állapítsa meg.
 
 (3) A 14. § (8) bekezdése 2014. január 1-jén lép hatályba.
 
-(4) A 11. § (1) bekezdés m)–o) pontja, valamint a 13. § (2) bekezdése 2022. január 1-jén lép hatályba.
+(4) A 11. § (1) bekezdés m)–o) pontja, a 13. § (2) bekezdése, valamint a 15. § (1) bekezdése 2023. február 1-jén lép hatályba.
 
-(5) A 15. § (1) bekezdése 2022. január 1-jén lép hatályba.
+(5)
 
 #### 32. Átmeneti rendelkezések
 

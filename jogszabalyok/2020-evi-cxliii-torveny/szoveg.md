@@ -14,7 +14,7 @@ A magyar köznevelési intézményrendszer megerősítése és környezetének s
 
 2. § (1)
 
-(2) Az Intézmény olyan magyarországi nevelési-oktatási intézménynek, nemzetközi iskolának minősül, amelynek alapítására, működésére és ellenőrzésére a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: köznevelési törvény) rendelkezéseit csak akkor kell alkalmazni, ha arról e törvény kifejezetten rendelkezik.
+(2) Az International Baccalaureate Organization (Nemzetközi Érettségi Szervezet) mint nemzetközi szervezet által a Middle Years Programme (Közép Évek Programja) és Diploma Programme (Diploma Program) nyújtására, valamint IB Diploma (Nemzetközi Érettségi bizonyítvány) kiadására feljogosított, arra akkreditált, kollégiummal rendelkező középfokú nevelési-oktatási intézmény (a továbbiakban: Intézmény) olyan magyarországi nevelési-oktatási intézménynek, nemzetközi iskolának minősül, amelynek alapítására, működésére és ellenőrzésére a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: köznevelési törvény) rendelkezéseit csak akkor kell alkalmazni, ha arról e törvény kifejezetten rendelkezik.
 
 (3) Az Intézmény jogi személyiséggel rendelkező szervezet, amelynek székhelye Magyarország területén van.
 
@@ -26,7 +26,7 @@ A magyar köznevelési intézményrendszer megerősítése és környezetének s
 
 (7) Az Intézmény tandíjat szed, amelynek mértékét a fenntartó állapítja meg. Szociális és egyéb méltányolható okból a tanulók részére tandíjmentesség vagy a tandíj mértékének csökkentése állapítható meg. Az Intézmény ösztöndíjprogramokat működtethet. A tandíjat euróban vagy amerikai dollárban állapítják meg, kivéve azon magyar állampolgárok és a Magyarországon állandó lakhellyel rendelkező külföldiek vonatkozásában, akik a tandíjat magyar forintban is fizethetik.
 
-(8) Az Intézmény Magyarországon akkor működhet, ha az (1) bekezdés a) pontjában meghatározott akkreditációjú középfokú nevelési-oktatási intézmény és kollégium elismerésére jogosult nemzetközi szervezet az Intézményt nevelési-oktatási intézménynek, az általa kiadott bizonyítványt pedig az ilyen nevelési-oktatási intézménynek megfelelő bizonyítványnak jogszerűen elismeri és az elismerést az Intézmény hitelt érdemlően bizonyítja, feltéve, hogy az Intézmény működése nem ellentétes az Alaptörvényben foglaltakkal.
+(8) Az Intézmény Magyarországon akkor működhet, ha a (2) bekezdésben meghatározott akkreditációjú középfokú nevelési-oktatási intézmény és kollégium elismerésére jogosult nemzetközi szervezet az Intézményt nevelési-oktatási intézménynek, az általa kiadott bizonyítványt pedig az ilyen nevelési-oktatási intézménynek megfelelő bizonyítványnak jogszerűen elismeri és az elismerést az Intézmény hitelt érdemlően bizonyítja, feltéve, hogy az Intézmény működése nem ellentétes az Alaptörvényben foglaltakkal.
 
 (9) Az Intézményt az oktatásért felelős miniszter – az Intézmény fenntartójának kérelme alapján – nyilvántartásba veszi és engedélyezi a működését. Az Intézmény nyilvántartásba vételére és működésének engedélyezésére a köznevelési törvénynek a nemzetközi köznevelési intézményekre vonatkozó rendelkezését kell alkalmazni.
 
@@ -42,9 +42,9 @@ A magyar köznevelési intézményrendszer megerősítése és környezetének s
 
 (15) A köznevelési törvény 92. §-ában foglaltakat az Intézményre is alkalmazni kell.
 
-(16) Az Alapítvány a saját, illetve az Intézmény e § szerinti céljainak, feladatainak megvalósításával közvetlenül összefüggő gazdasági tevékenységet végez, amely keretében az alapító által rendelt, valamint az Alapítványhoz csatlakozók és adományozók által juttatott vagyont kezeli.
+(16)
 
-(17) Az Alapítvány, illetve az Intézmény e § szerinti tevékenysége, valamint az Alapítvány céljainak a preambulumban meghatározott célokkal összhangban történő megvalósítása közérdekű célnak, közfeladatnak minősül.
+(17)
 
 #### 2. Az Alapítvány részére történő vagyonjuttatás
 
@@ -52,9 +52,9 @@ A magyar köznevelési intézményrendszer megerősítése és környezetének s
 
 (2) Az Alapítvány jogutód nélküli megszűnése vagy megszüntetése esetén az Alapítvány vagyona az államra száll.
 
-(3) Az Alapítvány további vagyonának és költségvetési támogatásának biztosításáról a Kormány gondoskodik.
+(3)
 
-(4) Az Alapítvány 2. §-ban meghatározott közérdekű tevékenysége, közfeladata ellátása érdekében az Alapítvány részére a miniszter által vezetett minisztérium fejezetéhez tartozó fejezeti kezelési előirányzatai terhére adomány juttatható, kötelezettség teljesíthető.
+(4) Az Alapítvány, a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 1. mellékletében meghatározott közfeladatainak ellátása érdekében az Alapítvány részére a miniszter által vezetett minisztérium fejezetéhez tartozó fejezeti kezelési előirányzatai terhére adomány juttatható, kötelezettség teljesíthető.
 
 (5) Az Alapítvány vagyonkezelői joga tekintetében vagyonkezelési szerződés megkötése nem szükséges.
 
@@ -70,4 +70,4 @@ A magyar köznevelési intézményrendszer megerősítése és környezetének s
 
 4. § Ez a törvény a kihirdetését követő napon lép hatályba.
 
-5. § A 3. § (5) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+5. § A 2. § (2)–(15) bekezdése és 3. § (2), (4) és (5), valamint (7)–(9) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.

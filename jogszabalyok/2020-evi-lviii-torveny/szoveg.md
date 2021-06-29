@@ -554,7 +554,7 @@ tevékenységet folytat (a továbbiakban: mentesített tevékenységet folytató
 
 61. § (1) A rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja esetében 2020. június 30-ig – a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 82. § (1) bekezdés g) pontjától eltérően – a kifogástalan életvitel ellenőrzésével kapcsolatos tudomásul vétel visszavonása nem eredményezi a hivatásos szolgálati jogviszony törvény erejénél fogva történő megszűnését.
 
-(2) A rendvédelmi feladatokat ellátó szerv hivatásos állománya azon tagja, akinek a hivatásos szolgálati jogviszonya a veszélyhelyzet ideje alatt – a Hszt. 82. § (1) bekezdés a) pontjától eltérően – a Hszt.-ben meghatározott képzési és vizsgakötelezettség teljesítésének önhibából történő elmulasztása ellenére nem szűnt meg a törvény erejénél fogva, a képzési és vizsgakötelezettségét 2021. június 30-ig köteles teljesíteni.
+(2) A rendvédelmi feladatokat ellátó szerv hivatásos állománya azon tagja, akinek a hivatásos szolgálati jogviszonya a veszélyhelyzet ideje alatt – a Hszt. 82. § (1) bekezdés a) pontjától eltérően – a Hszt.-ben meghatározott képzési és vizsgakötelezettség teljesítésének önhibából történő elmulasztása ellenére nem szűnt meg a törvény erejénél fogva, a képzési és vizsgakötelezettségét 2021. december 31-ig köteles teljesíteni.
 
 #### 29. A honvédek, illetve honvédelmi alkalmazottak jogállására vonatkozó átmeneti szabályok
 
@@ -2157,7 +2157,7 @@ korlátozhatja.
 
 #### 84. A menekültügyi eljárás átmeneti szabályai
 
-267. § A menekültügyi hatóság a menedékjogi kérelmeket 2021. június 30-áig az ebben az alcímben foglalt eltérésekkel bírálja el.
+267. § A menekültügyi hatóság a menedékjogi kérelmeket 2021. december 31-ig az ebben az alcímben foglalt eltérésekkel bírálja el.
 
 268. § (1) Menedékjogi kérelem benyújtására irányuló szándéknyilatkozat személyes benyújtásával a külföldi tájékoztatja a menekültügyi hatóságot, hogy menedékjog iránti kérelem benyújtása céljából Magyarországra kíván beutazni.
 

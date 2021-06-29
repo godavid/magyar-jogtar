@@ -12,7 +12,7 @@ A közép-európai régió egyes műemléki vagy műemléki védelemben nem rés
 
 (3)
 
-(4) Az Alapítvány (3) bekezdés szerinti tevékenysége, valamint az Alapítvány ezen céljainak a megvalósítása közérdekű célnak minősül. Az Alapítvány e céljainak megvalósításával közvetlenül összefüggő gazdasági tevékenységet végez, amely keretében az alapító által rendelt, valamint az Alapítványhoz csatlakozók és adományozók által juttatott vagyont kezeli.
+(4)
 
 (5) Az Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására az Alapítvány kuratóriuma kerüljön kijelölésre.
 
@@ -24,15 +24,15 @@ A közép-európai régió egyes műemléki vagy műemléki védelemben nem rés
 
 (3) Az 1. melléklet szerinti vagyonelemek tekintetében az Alapítvány nyilvántartásba vételének hatályával a miniszter gyakorolja az államot megillető tulajdonosi jogokat és teljesíti a kötelezettségeket. A miniszter az 1. mellékletben meghatározott vagyonelemek (1) bekezdés szerinti tulajdonba adásáról az Alapítvány alapító okiratában rendelkezik. Az 1. melléklet szerinti vagyonelemekhez kapcsolódó, 2019. év után járó osztalékra vagy annak megfelelő összegre az Alapítvány jogosult.
 
-(4) Ha az Alapítvány a tulajdonába adott 1. melléklet szerinti vagyonelemet el kívánja idegeníteni, akkor az alapító okiratban előírt módon meghatározott piaci áron köteles annak megvásárlására az államnak – a miniszterhez eljuttatott nyilatkozattal – ajánlatot tenni, amelyre tekintettel az államot vételi jog illeti meg. A vételi jog biztosítására az államot elidegenítési és terhelési tilalom illeti meg.
+(4)
 
-(5) Ha a miniszter a (4) bekezdés szerinti nyilatkozat közlésétől számított 90 napon belül úgy nyilatkozik, hogy a vagyonelem tekintetében az állam a vételi jogával nem kíván élni, vagy ha a nyilatkozat közlésétől számított 90 napon belül nem tesz nyilatkozatot, úgy az állam vételi joga megszűnik.
+(5)
 
-(6) A (4) bekezdés szerinti elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítést követően fennmaradó részét az Alapítvány az 1. § (3) bekezdésében meghatározott célok és feladatok megvalósítására köteles fordítani.
+(6) Az 1. melléklet szerinti vagyonelemek elidegenítéséből származó bevételnek az elidegenítés költségeinek kiegyenlítést követően fennmaradó részét az Alapítvány a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) 1. mellékletében meghatározott közfeladatainak ellátására és közérdekű céljainak megvalósítására köteles fordítani.
 
 (7) Az Alapítvány jogutód nélküli megszűnése vagy megszüntetése esetén az 1. melléklet szerinti vagyonelem tulajdonjoga az államra száll vissza.
 
-(8) Az Alapítvány további vagyonának és költségvetési támogatásának biztosításáról a Kormány gondoskodik. Az Alapítvány 1. § (3) bekezdésében meghatározott közérdekű tevékenysége, közfeladata ellátása érdekében az Alapítvány részére a külgazdasági ügyekért felelős miniszter által vezetett minisztérium fejezetéhez tartozó fejezeti kezelési előirányzatai terhére adomány juttatható, kötelezettség teljesíthető.
+(8) Az Alapítvány a KEKVA tv. 1. mellékletében meghatározott közfeladatainak ellátására és közérdekű céljainak megvalósítása érdekében az Alapítvány részére a miniszter által vezetett minisztérium fejezetéhez tartozó fejezeti kezelési előirányzatai terhére adomány juttatható, kötelezettség teljesíthető.
 
 (9) Az (1) bekezdés szerinti vagyonjuttatást úgy kell tekinteni, hogy az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésben és 18. § (1) bekezdésben meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
@@ -40,7 +40,9 @@ A közép-európai régió egyes műemléki vagy műemléki védelemben nem rés
 
 3. § Ez a törvény a kihirdetését követő napon lép hatályba.
 
-4. § A 2. § (1)–(7) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+4. § (1) A 2. § (1)–(7) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+
+(2) A 2. § (6)–(8) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2020. évi XCIII. törvényhez
 

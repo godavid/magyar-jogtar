@@ -24,6 +24,12 @@ A gazdaság- és társadalomtudományi képzési terület, ezen keresztül az in
 
 (3)
 
+3/A. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) 12. §-a alapján – az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása érdekében – a RÁBA Járműipari Holding Nyrt.-ben az állam tulajdonában álló 2. melléklet szerinti részesedést és a GYŐR-PÉR REPÜLŐTÉR Korlátolt Felelősségű Társaságban az állam tulajdonában álló, 2. melléklet szerinti üzletrészt (e § alkalmazásában a továbbiakban együtt: üzletrész) ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni. Az Alapítvány első alkalommal a 2021. üzleti év után járó osztalékra jogosult.
+
+(2) Ha az Alapítvány a tulajdonába adott üzletrészt elidegeníti, az elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány közérdekű céljainak megvalósítására és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátására köteles fordítani.
+
+3/B. § A 3/A. § (1) bekezdésében meghatározott intézkedések végrehajtása során az állam képviseletében a miniszter jár el, aki 2021. augusztus 1. napjától az üzletrész felett a tulajdonosi jogokat gyakorolja.
+
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
 4. § (1) Az Nvtv. 13. § (3) bekezdésében valamint a Vtv. 36. § (1) bekezdésében foglaltak alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló, az 1. mellékletben felsorolt egyes állami tulajdonban lévő ingatlan, ingatlan tulajdoni hányada ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerül.
@@ -40,9 +46,11 @@ A gazdaság- és társadalomtudományi képzési terület, ezen keresztül az in
 
 5. § (1) A 4. § alapján ingyenesen tulajdonba adott ingatlan tekintetében nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdésében foglaltakat.
 
-(2) Az Egyetem a tulajdonába adott ingatlant, – a 4. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlant értékesíti, akkor az átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 1. mellékletében meghatározott közfeladatok ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+(2) Az Egyetem a tulajdonába adott ingatlant, – a 4. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlant értékesíti, akkor az átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
 
 (3) A 4. § alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+
+5/A. § Az Egyetem az 1. mellékletben foglalt táblázat 59. és 60. sorában meghatározott ingatlanon a Kiskúti Védelmi Központot érintő fejlesztések befejezéséig az Észak-dunántúli Vízügyi Igazgatóságnak térítésmentes használati jogot biztosít, amelynek feltételeit az Egyetem és az Észak-dunántúli Vízügyi Igazgatóság megállapodással kötelesek rendezni.
 
 #### 4. Záró rendelkezések
 
@@ -58,7 +66,7 @@ A gazdaság- és társadalomtudományi képzési terület, ezen keresztül az in
 
 9. §
 
-10. § Az 5. § (2) bekezdése és az 1. melléklet 6a. sora az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+10. § A 3/A. §, az 5. § (2) bekezdése és az 1. melléklet 6a., 59–61. sora, valamint a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2020. évi XXXVIII. törvényhez
 
@@ -123,6 +131,18 @@ A gazdaság- és társadalomtudományi képzési terület, ezen keresztül az in
 | 54. | MOSONMAGYARÓVÁR | 1106/5 | 1/1 | kivett üdülőépület, udvar |
 | 55. | MOSONMAGYARÓVÁR | 1234 | 1/1 | kivett egyetem-bemutató központ |
 | 56. | MOSONMAGYARÓVÁR | 1236 | 1/1 | kivett közforgalom elől elzárt magánút és gazdasági épület |
-| 57. | MOSONMAGYARÓVÁR | 1237 | 1/1 | kivett gazdasági épület, udvar |
-| 58. | MOSONMAGYARÓVÁR | 1358/3 | 1/1 | kivett egyetem |
-| 59. |  |  |  |  |
+| 57. | MOSONMAGYARÓVÁR | 1237 | 1/1 | Kivett gazdasági épület, udvar |
+| 58. | MOSONMAGYARÓVÁR | 1358/3 | 1/1 | Kivett egyetem |
+| 59. | GYŐR | 8508 | 1/1 | Kivett gazdasági épület, udvar |
+| 60. | GYŐR | 8509/1 | 1/1 | Kivett beépítetlen terület |
+| 61. | GYŐR | 10140/3 | 1/1 | kivett beépítetlen terület” |
+
+### 2. melléklet a 2020. évi XXXVIII. törvényhez
+
+#### Az Alapítvány részére történő vagyonjuttatás
+
+|  | A | B |
+| --- | --- | --- |
+| 1. | Gazdasági társaság megnevezése | Átadandó állami tulajdonban álló részesedés/üzletrész megjelölése |
+| 2. | RÁBA Járműipari Holding Nyrt. | 20% |
+| 3. | GYŐR-PÉR REPÜLŐTÉR Kft. | 15,25% |

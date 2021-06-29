@@ -72,7 +72,7 @@ A közfeladatot ellátó közérdekű vagyonkezelő alapítványok kiemelkedő t
 
 #### 3. Az alapítvány szervezete
 
-6. § (1) Az alapítvány ügyvezetését legalább öt természetes személyből álló kuratórium látja el.
+6. § (1) Az alapítvány ügyvezetését legfeljebb öt természetes személyből álló kuratórium látja el.
 
 (2) Az alapítvány esetében felügyelőbizottság kijelölése és annak működése, továbbá állandó könyvvizsgáló megbízása kötelező. A felügyelőbizottság legalább három természetes személyből áll, a felügyelőbizottság elnökét – az alapító okirat eltérő rendelkezése hiányában – a tagok maguk közül választják.
 
@@ -378,6 +378,8 @@ biztosítja az alapítványnak.
 31. § (1) E törvény hatálybalépését megelőzően alapított, az 1. melléklet szerinti alapítványok az alapító okiratukat – így az általuk végzett közfeladatot és a közérdekű vagy más célokat is – e törvény hatálybalépését követő 6 hónapon belül módosítani kötelesek.
 
 (2) E törvény hatálybalépését megelőzően alapított, 1. melléklet szerinti alapítvány esetén a szenátusnak az e törvény 22. § (5) bekezdése szerinti delegálási jogát első alkalommal a felügyelő bizottsági tagság e törvény hatálybalépését követő megüresedése esetén kell alkalmazni.
+
+31/A. § E törvénynek az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvénnyel módosított 6. § (1) bekezdésében foglalt előírásokat az 1. melléklet szerinti alapítványoknak legkésőbb 2021. december 31. napjáig kell teljesíteni.
 
 32. § (1) E törvény az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 

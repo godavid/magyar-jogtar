@@ -38,35 +38,35 @@ A Millenáris Park mint a nemzeti és a nemzetközi együttműködést jelképez
 
 (9) Az (1) bekezdés szerinti vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
-2/A. § Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVAtv. alapján a Millenáris Alapítvány KEKVAtv. 1. mellékletében meghatározott közfeladata ellátásának érdekében a Thália Színház Nonprofit Korlátolt Felelősségű Társaság állam tulajdonában álló, 1. melléklet 3. sora szerinti üzletrészét ingyenesen, nyilvántartási értéken történő átvezetéssel a Millenáris Alapítvány tulajdonába kell adni.
+2/A. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. alapján a Millenáris Alapítvány a KEKVAtv. 1. mellékletében meghatározott közfeladata ellátásának érdekében a Thália Színház Nonprofit Korlátolt Felelősségű Társaságban az állam tulajdonában álló, 1. melléklet 3. sora szerinti üzletrészt ingyenesen, nyilvántartási értéken történő átvezetéssel a Millenáris Alapítvány tulajdonába kell adni.
 
-(2) Az (1) bekezdés szerinti üzletrész tekintetében a miniszter gyakorolja az államot megillető tulajdonosi jogokat és teljesíti a kötelezettségeket.
+(2) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. alapján – a Millenáris Alapítvány KEKVAtv. 1. mellékletében meghatározott közfeladata ellátásának érdekében – az 5. mellékletben meghatározott állami tulajdonban lévő ingatlanokat ingyenesen, nyilvántartási értéken történő átvezetéssel a Millenáris Alapítvány javára rendelt vagyon növelése érdekében a Millenáris Alapítvány tulajdonába kell adni.
 
-2/B. § Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVAtv. alapján – a Millenáris Alapítvány KEKVAtv. 1. mellékletében meghatározott közfeladata ellátásának érdekében – az 5. mellékletben meghatározott állami tulajdonban lévő ingatlanokat ingyenesen, nyilvántartási értéken történő átvezetéssel az indulótőke növelése érdekében a Millenáris Alapítvány tulajdonába kell adni.
+(3) A (2) bekezdés szerinti ingatlanok elidegenítéséből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét a Millenáris Alapítvány a közfeladata ellátására és közérdekű céljai megvalósítására köteles fordítani. A Millenáris Alapítvány az értékesítésből származó bevételt a Millenáris Alapítvány működési költségeinek finanszírozására nem használhatja fel.
+
+2/B. § (1) A 2/A. § (1) bekezdése szerinti üzletrész tekintetében a miniszter gyakorolja az államot megillető tulajdonosi jogokat és teljesíti a kötelezettségeket.
 
 (2) Az 5. melléklet szerinti ingatlanok tekintetében a miniszter gyakorolja az államot megillető tulajdonosi jogokat és teljesíti a kötelezettségeket. A miniszter tulajdonosi joggyakorlói minőségét – kérelmére – az ingatlan-nyilvántartásba be kell jegyezni. Az (1) bekezdés szerinti tulajdonátruházásoknak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződéseket az állam nevében a tulajdonosi joggyakorló köti meg.
 
 (3) Az 5. melléklet szerinti ingatlanok tulajdonjogát a Millenáris Alapítvány az azokon fennálló terhekkel együtt szerzi meg.
 
-(4) Az (1) bekezdés szerinti ingatlanok elidegenítéséből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét a Millenáris Alapítvány a közfeladata ellátására és közérdekű céljai megvalósítására köteles fordítani. A Millenáris Alapítvány az értékesítésből származó bevételt a Millenáris Alapítvány működési költségeinek finanszírozására nem használhatja fel.
-
 #### 3. A Batthyány Lajos Alapítvány
 
-3. § (1) Az Országgyűlés felhívja a Kormányt, hogy az állam nevében tegye meg a szükséges intézkedéseket a Batthyány Lajos Alapítványhoz való, e törvényben meghatározott vagyoni juttatás teljesítésével történő csatlakozásra, a Batthyány Lajos Alapítvány alapító okiratának a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény (a továbbiakban: Vatv.) rendelkezéseinek megfelelő módosítására és a Batthyány Lajos Alapítványnak közérdekű vagyonkezelő alapítványként való nyilvántartásba vételére.
+3. § (1)
 
-(2) Az állam képviseletében a 3. és a 4. alcím alkalmazása során a miniszter jár el.
+(2) Az állam képviseletében a 4. alcím alkalmazása során a miniszter jár el.
 
-(3) A Batthyány Lajos Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására a Batthyány Lajos Alapítvány kuratóriuma kerüljön kijelölésre.
+(3)
 
-(4) A Kormánynak az állam nevében a Batthyány Lajos Alapítványhoz való, e törvényben meghatározott vagyoni juttatás teljesítésével történő csatlakozására csak akkor kerülhet sor, ha a Batthyány Lajos Alapítvány alapító okiratának a Batthyány Lajos Alapítvány vagyonkezelő alapítványként való nyilvántartásba vétele érdekében a Vatv. rendelkezéseinek megfelelő, a Batthyány Lajos Alapítvány kuratóriumának új tagjait kijelölő, valamint a Batthyány Lajos Alapítvány kuratóriumának az alapítói jogok teljes körének gyakorlására történő kijelöléséhez szükséges módosítása legkésőbb a Kormánynak az állam nevében a Batthyány Lajos Alapítványhoz való csatlakozása során megtörténik.
+(4)
 
-(5) Az (1) bekezdésben előírtaknak, valamint a 4. §-ban meghatározott céloknak, a nemzeti vagyonnal való felelős gazdálkodás követelményének az érvényre juttatásával történő megvalósítása érdekében, az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény 1. § (1) bekezdésében meghatározottaktól eltérően a Kormány, az állam nevében, e törvény rendelkezései alapján – e törvényben meghatározott vagyonjuttatás teljesítésével – csatlakozhat a Batthyány Lajos Alapítványhoz azzal, hogy az alapítók, a csatlakozó, valamint az alapítói jogok gyakorlására a (3) bekezdés értelmében kijelölt kuratórium, illetve az alapítói jogokat esetlegesen gyakorló egyéb személy vagy szerv nem szüntetheti meg a Batthyány Lajos Alapítványt.
+(5) Az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény 1. § (1) bekezdésétől eltérően a Kormány, az állam nevében, e törvény rendelkezései alapján – e törvényben meghatározott vagyonjuttatás teljesítésével – csatlakozhat a Batthyány Lajos Alapítványhoz azzal, hogy az alapítók, a csatlakozó, valamint az alapítói jogok gyakorlására kijelölt kuratórium, illetve az alapítói jogokat esetlegesen gyakorló egyéb személy vagy szerv nem szüntetheti meg a Batthyány Lajos Alapítványt.
 
 4. §
 
 #### 4. A Batthyány Lajos Alapítvány részére történő vagyonjuttatás
 
-5. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján – a 4. §-ban meghatározott célok megvalósítása érdekében – a 3. melléklet szerinti ingatlant – ideértve az azon e törvény hatálybalépéséig megvalósult felépítményt is –, valamint – annak elkészültekor – az ingatlanon folyamatban lévő állami forrásból megvalósuló építési, kivitelezési munkálatok eredményeképpen létrejövő vagyonnövekményt (a továbbiakban: Vagyonnövekmény) ingyenesen, nyilvántartási értéken történő átvezetéssel – a Vtv. 36. § (2) bekezdésétől eltérően – csatlakozói vagyoni juttatásként a Batthyány Lajos Alapítvány tulajdonába kell adni.
+5. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján a 3. melléklet szerinti ingatlant – ideértve az azon e törvény hatálybalépéséig megvalósult felépítményt is –, valamint – annak elkészültekor – az ingatlanon folyamatban lévő állami forrásból megvalósuló építési, kivitelezési munkálatok eredményeképpen létrejövő vagyonnövekményt (a továbbiakban: Vagyonnövekmény) ingyenesen, nyilvántartási értéken történő átvezetéssel – a Vtv. 36. § (2) bekezdésétől eltérően – csatlakozói vagyoni juttatásként a Batthyány Lajos Alapítvány tulajdonába kell adni.
 
 (2) Az (1) bekezdés szerint ingyenesen tulajdonba adott ingatlan, illetve a Vagyonnövekmény tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdés b) pontját, valamint (7) és (8) bekezdését. Az (1) bekezdés szerinti vagyonjuttatás során a 3. melléklet szerinti védett ingatlan esetében nem kell alkalmazni a kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.) 44. § (1) bekezdés a) pontját és (4) bekezdését, valamint az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet [a továbbiakban: 254/2007. (X. 4.) Korm. rendelet] 25. § (5) bekezdését.
 
@@ -74,21 +74,21 @@ A Millenáris Park mint a nemzeti és a nemzetközi együttműködést jelképez
 
 (4) A 3. melléklet szerinti ingatlanon folyamatban lévő állami forrásból megvalósuló építési, kivitelezési munkálatoknak a Kormány határozatában kijelölt megvalósítója – a 3. melléklet szerinti ingatlan tulajdonjogának átruházását követően – a munkálatok – ideértve a használatbavételi engedély megszerzésére irányuló eljárást is – részleteiről megállapodást köt a Batthyány Lajos Alapítvánnyal.
 
-(5) A 3. melléklet szerinti ingatlan tulajdonjogát a Batthyány Lajos Alapítvány a terhekkel együtt szerzi meg.
+(5)
 
 (6) Az (1) bekezdés szerinti – ingatlanra és Vagyonnövekményre egyaránt vonatkozó – vagyonjuttatást úgy kell tekinteni, hogy az az Áfa tv. 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek, valamint az illetékekről szóló 1990. évi XCIII. törvény 17/D. § (1) bekezdése szerinti juttatással esik egy tekintet alá.
 
 #### 5. A Mathias Corvinus Collegium Alapítvány és a részére történő vagyonjuttatás
 
-6. § (1) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján – a Mathias Corvinus Collegium tehetséggondozási programjának és a Maecenas Universitatis Corvini Alapítvány oktatási tevékenységének támogatásáról szóló 2020. évi XXVI. törvény (a továbbiakban: MCC tv.) preambulumában és 2. §-ában meghatározott célok megvalósítása érdekében – a 2. mellékletben felsorolt állami tulajdonban lévő ingatlanokat ingyenesen, nyilvántartási értéken történő átvezetéssel – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérve – az indulótőke növelése érdekében a Mathias Corvinus Collegium Alapítvány (a továbbiakban: MCC Alapítvány) tulajdonába kell adni.
+6. § (1) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján a 2. melléklet szerinti állami tulajdonban lévő ingatlanokat ingyenesen, nyilvántartási értéken történő átvezetéssel – a Vtv. 36. § (2) bekezdésétől eltérően – az indulótőke növelése érdekében a Mathias Corvinus Collegium Alapítvány (a továbbiakban: MCC Alapítvány) tulajdonába kell adni.
 
 (2) Az (1) bekezdés szerint ingyenesen tulajdonba adott ingatlanok tekintetében nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdésében foglaltakat. Az (1) bekezdés szerinti vagyonjuttatás során a 2. mellékletben szereplő ingatlanok esetében nem kell alkalmazni a Kötv. 44. § (1) bekezdés a) pontját és (4) bekezdését, valamint a 254/2007. (X. 4.) Korm. rendelet 25. § (5) bekezdését.
 
-(3) A 2. melléklet szerinti ingatlanok tekintetében a törvény erejénél fogva, az e törvény hatályba lépésének napjától a miniszter gyakorolja az államot megillető tulajdonosi jogokat és teljesíti a kötelezettségeket. A miniszter tulajdonosi joggyakorlói minőségét – kérelmére – az ingatlan-nyilvántartásba be kell jegyezni. Az (1) bekezdés szerinti tulajdonátruházásoknak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződéseket az állam nevében a tulajdonosi joggyakorló készíti el és köti meg.
+(3)
 
-(4) A 2. melléklet szerinti ingatlanok tulajdonjogát az MCC Alapítvány a terhekkel együtt szerzi meg.
+(4)
 
-(5) Az MCC Alapítvány jogosult a tulajdonába adott, 2. melléklet szerinti ingatlanokat hasznosítani. Ha az MCC Alapítvány a tulajdonába adott, 2. melléklet szerinti ingatlanokat értékesíti, az ingatlanok tulajdonjogának átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVAtv. 1. mellékletében meghatározott közfeladatai ellátására és közérdekű céljai megvalósítására köteles fordítani.
+(5) Az MCC Alapítvány jogosult a tulajdonába adott, 2. melléklet szerinti ingatlanokat hasznosítani.
 
 (6) Az (1) bekezdés alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az Áfa tv. 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
@@ -130,9 +130,9 @@ A Millenáris Park mint a nemzeti és a nemzetközi együttműködést jelképez
 
 10. § Ez a törvény a kihirdetését követő napon lép hatályba.
 
-11. § (1) A 2. § (1), (2) és (4)–(7) bekezdése, a 3. § (5) bekezdése, az 5. § (1) és (2) bekezdése, a 6. § (1), (2) és (5) bekezdése, a 8. § (1) és (2) bekezdése, a 9. § (1) bekezdése és a 13. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+11. § (1) A 2. § (1), (2) és (4)–(7) bekezdése, a 3. § (5) bekezdése, az 5. § (1), (2) és (6) bekezdése, a 6. § (1), (2) és (6) bekezdése, a 8. § (1) és (2) bekezdése, a 9. § (1) bekezdése és a 13. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
-(2) A 2. § (6) bekezdése, a 2/A. § (1) bekezdése, a 2/B. § (1) és (4) bekezdése, a 6. § (5) bekezdése, a 9. § (1) bekezdése, az 1. melléklet 3. sora és az 5. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+(2) A 2. § (6) bekezdése, a 2/A. §, a 3. § (5) bekezdése, 6. § (5) bekezdése, a 9. § (1) bekezdése, az 1. melléklet 3. sora és a 2., 3. és 5. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 12. §
 

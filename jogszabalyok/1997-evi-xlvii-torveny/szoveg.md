@@ -131,7 +131,7 @@ van szükség, és
 
 (6) Az (5) bekezdés szerinti esetben csak azoknak az egészségügyi adatoknak a megismerése lehetséges, amelyek az (5) bekezdés a) pontja szerinti okkal közvetlenül összefüggésbe hozhatóak.
 
-(7) Az érintett halála esetén törvényes képviselője, közeli hozzátartozója, valamint örököse – írásos kérelme alapján – jogosult a halál okával összefüggő vagy összefüggésbe hozható, továbbá a halál bekövetkezését megelőző gyógykezeléssel kapcsolatos egészségügyi adatokat megismerni, az egészségügyi dokumentációba betekinteni, valamint azokról – saját költségére – másolatot kapni.
+(7) Az érintett halála esetén törvényes képviselője, közeli hozzátartozója, valamint örököse – írásos kérelme alapján – jogosult a halál okával összefüggő vagy összefüggésbe hozható, továbbá a halál bekövetkezését megelőző gyógykezeléssel kapcsolatos egészségügyi adatokat megismerni, az egészségügyi dokumentációba betekinteni, illetve azokról – első alkalommal – térítésmentesen, valamint minden további másolat tekintetében – a (3) bekezdés szerinti módon – másolatot kapni.
 
 8. § A betegellátót – az érintett választott háziorvosa, valamint az igazságügyi szakértő kivételével – a titoktartási kötelezettség azzal a betegellátóval szemben is köti, aki az orvosi vizsgálatban, a kórisme megállapításában, illetve a gyógykezelésben vagy műtétnél nem működött közre, kivéve, ha az adatok közlése a kórisme megállapítása vagy az érintett további gyógykezelése érdekében szükséges.
 
@@ -197,6 +197,7 @@ van szükség, és
 - a) a gyógyszer, a gyógyászati segédeszköz rendelésére jogosult, EESZT-hez hozzáféréssel rendelkező felhasználó a vényt az EESZT útján elektronikus úton is kiállíthassa, visszavonhassa,
 - b) az EESZT-ben tárolt vény adatait az érintett, az érintett kezelőorvosa, valamint a gyógyszer, a gyógyászati segédeszköz 35/B. § szerint csatlakozott kiszolgálója az EESZT útján megismerhesse, továbbá
 - c) gyógyszer, gyógyászati segédeszköz 35/B. § szerinti csatlakozott kiszolgálója a papíralapú vény tartalmát és a 14/A. § (1) bekezdés d) pontja szerinti adatokat az EESZT-ben rögzíthesse.
+- d) az elektronikus vény kiváltását a nem saját TAJ szám közlésével kezdeményező személy nevét és személyi azonosításra alkalmas okmányának számát a gyógyszer, a gyógyászati segédeszköz 35/B. § szerinti csatlakozott kiszolgálója a 4. § (2) bekezdés s) pontjában foglalt célból elektronikusan rögzíthesse.
 
 (1b)
 
@@ -213,6 +214,13 @@ tartalmazza.
 (2) A gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás kiszolgáltatója, illetve nyújtója az (1) bekezdés szerinti adatokat a 4. § (2) bekezdés s) pontjában foglalt céllal kezelheti.
 
 (2a) Ha az EESZT útján kiállított vényt kiváltó személy nem az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló rendelet szerinti felírási igazolással igazolja a vényrendelést, a gyógyszer, a gyógyászati segédeszköz kiszolgálója jogosult a TAJ számának és személyazonosságának ellenőrzésére.
+
+(2b) Ha az EESZT útján kiállított vényt kiváltó személy a vény kiváltását nem a saját TAJ szám közlésével kezdeményezi, a gyógyszer, a gyógyászati segédeszköz 35/B. § szerinti csatlakozott kiszolgálója a 4. § (2) bekezdés s) pontjában foglalt célból e személy
+
+- a) személyazonosságát ellenőrzi, valamint
+- b) nevét és az a) pont szerinti ellenőrzés során bemutatott, személyazonosításra alkalmas okmánya azonosítóját rögzíti.
+
+(2c) A gyógyszer, a gyógyászati segédeszköz 35/B. § szerinti csatlakozott kiszolgálója a (2b) bekezdés b) pontja szerint rögzített adatokat a 4. § (2) bekezdés s) pontjában meghatározott célból a rögzítéstől számított 5 évig kezelheti.
 
 (3) A gyógyszerész a 4. § (2) bekezdés z) pontja szerinti cél érdekében – amennyiben az érintett ezt írásban vagy elektronikus kapcsolattartás keretében nem tiltotta meg – megismerheti a gyógyszerellátásban részesülő biztosított által, a kötelező egészségbiztosítás terhére igénybevett, gyógyszereléssel kapcsolatos egy éven belüli adatokat – ide nem értve a mentális és viselkedészavarok kezelésére, valamint a szexuális úton terjedő betegségek kezelésére szolgáló gyógyszerekre vonatkozó adatokat – úgy, hogy az adatokat az egészségbiztosítási szerv elektronikus formában biztosítja számára. A gyógyszerész – az adatok rögzítése nélkül – a gyógyszer nevét, mennyiségét és a kiváltás idejét ismerheti meg. Az érintettet a tiltakozás lehetőségéről tájékoztatni kell. Az érintett tiltakozását megteheti az egészségbiztosítási szervnél vagy a gyógyszerésznél. Ha az érintett tiltakozását a gyógyszerésznél tette, azt a gyógyszerész haladéktalanul köteles továbbítani az egészségbiztosítási szerv részére. Az érintett aláírásával igazolja a betekintés megtörténtét.
 
@@ -316,6 +324,8 @@ tartalmazza.
 
 (16) Ha a betegségregiszterben szereplő adat a (14) vagy (15) bekezdés alapján az érintett személyazonosító adataival összekapcsolható, a betegségregisztert vezető szerv jogosult az EESZT útján hozzáférni a (7) bekezdés szerinti célból szükséges egészségügyi adatokhoz.
 
+(17) A Központi Statisztikai Hivatal az egészségügyi intézményen kívül elhunyt személyek halálának okával kapcsolatos egészségügyi adatokat és az elhunyt személyek TAJ számát, nemét és születési idejét továbbítja az egészségbiztosítási szerv részére a 4. § (1) bekezdés b) pontjában és a 4. § (2) bekezdés b)–d), v), w), z) és zs) pontjaiban meghatározott feladataihoz kapcsolódó elemzés céljából. Az adattovábbításról a Központi Statisztikai Hivatal és az egészségbiztosítási szerv megállapodást köt, amely tartalmazza az adatátadás módját, gyakoriságát és határidejét.
+
 16/A. § (1) Az egészségügyi államigazgatási szerv, valamint a területi védőnői ellátásról szóló miniszteri rendeletben és a kötelező egészségbiztosítás keretében igénybe vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokról szóló miniszteri rendeletben meghatározott feladatai keretében a védőnő a lakossági célzott szűrővizsgálat, valamint népegészségügyi szűrővizsgálat szervezése érdekében – a 4. § (1) bekezdés c) és d) pontja, valamint a 4. § (2) bekezdés b) pontja szerinti célból – a szűrővizsgálat megszervezésének lezárásáig kezelheti a szűrővizsgálat célcsoportjába tartozó személyeknek a szűrővizsgálat megszervezéséhez közvetlenül kapcsolódó egészségügyi és személyazonosító adatait.
 
 (2) A lakossági célzott szűrővizsgálatok, a népegészségügyi szűrővizsgálatok, valamint a népegészségügyi szűrővizsgálatok körébe is tartozó szűrést nem népegészségügyi szűrővizsgálatként végző egészségügyi szolgáltatók szűrővizsgálatai (a továbbiakban együtt: szűrővizsgálat) eredményeinek értékelése, monitorozása érdekében – a 4. § (1) bekezdés c) és d) pontja, valamint a 4. § (2) bekezdés b) pontja szerinti célból – az egészségügyi államigazgatási szerv értékeléssel, monitorozással megbízott munkatársa a szűrővizsgálat eredményei értékelésének lezárásáig kezelheti a szűrővizsgálaton részt vevő személyek egészségügyi és személyazonosító adatait.
@@ -382,11 +392,15 @@ tartalmazza.
 
 ### Az Európai Unión belüli határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése céljából történő adatkezelés
 
-19/A. § (1) A határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése érdekében kijelölt nemzeti kapcsolattartó szerv a 4. § (2) bekezdés zs) pontja szerinti célból – a határon átnyúló egészségügyi ellátáshoz való jogokkal kapcsolatos, a nemzeti kapcsolattartó szerv feladatairól szóló kormányrendeletben meghatározott tájékoztatás megadásáig – kezelheti az érintett nevét, nemét, születési idejét, lakóhelyét, tartózkodási helyét, TAJ-számát, valamint azon egészségügyi adatait, amelyek az érintett határon átnyúló egészségügyi ellátáshoz kapcsolódó jogainak érvényesítéséhez szükségesek.
+19/A. § (1) A határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése érdekében kijelölt nemzeti kapcsolattartó szerv a 4. § (2) bekezdés zs) pontja szerinti célból – a határon átnyúló egészségügyi ellátáshoz való jogokkal kapcsolatos, a nemzeti kapcsolattartó szerv feladatairól szóló kormányrendeletben meghatározott tájékoztatás megadásáig – kezelheti az érintett nevét, nemét, születési idejét, lakóhelyét, tartózkodási helyét, TAJ számát, a részére az EESZT útján rendelt vények adatait, valamint azon egészségügyi adatait, amelyek az érintett határon átnyúló egészségügyi ellátáshoz kapcsolódó jogainak érvényesítéséhez elengedhetetlenül szükségesek.
 
-(2) Az (1) bekezdésben megjelölt adatokat a 4. § (2) bekezdés zs) pontjában meghatározott célból a határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése érdekében kijelölt nemzeti kapcsolattartó szerv – az egészségügyi ellátás igénybevételének elősegítése céljából – továbbíthatja az egészségügyi államigazgatási szerv, illetve az egészségbiztosítási szerv részére.
+(2) Az (1) bekezdésben megjelölt adatokat a 4. § (2) bekezdés zs) pontjában meghatározott célból a határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése érdekében kijelölt nemzeti kapcsolattartó szerv – az egészségügyi ellátás igénybevételének elősegítése céljából – továbbítja a 2011/24/EU európai parlamenti és tanácsi irányelvben meghatározottak szerint más tagállamban működő nemzeti kapcsolattartó szerv részére.
 
-(3) Az egészségügyi államigazgatási szerv és az egészségbiztosítási szerv a (2) bekezdés szerinti célból az egészségügyi ellátás megszervezéséig kezelheti az érintett (1) bekezdés szerinti adatait.
+(3) Az egészségügyi államigazgatási szerv és az egészségbiztosítási szerv a (2) bekezdés szerinti célból az egészségügyi ellátás megszervezéséig kezeli az érintett (1) bekezdés szerinti adatait.
+
+(4) A nemzeti kapcsolattartó szerv a más tagállamban működő nemzeti kapcsolattartó szerv által megküldött személyazonosító és egészségügyi adatokat a 4. § (2) bekezdés zs) pontjában meghatározott célból a határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése érdekében, az egészségügyi ellátás igénybevételének elősegítése céljából továbbítja az egészségügyi ellátást nyújtó egészségügyi szolgáltató, illetve a gyógyszertár részére.
+
+(5) A nemzeti kapcsolattartó szerv a (2) és (4) bekezdés szerinti adattovábbítás céljából az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti szabályozott elektronikus ügyintézési szolgáltatást, illetve központi elektronikus ügyintézési szolgáltatást vehet igénybe.
 
 19/B. § A finanszírozási szerződéssel nem rendelkező egészségügyi szolgáltató a határon átnyúló egészségügyi ellátás keretében ellátott, a kötelező egészségbiztosítás ellátásairól szóló törvény szerinti uniós beteg (a továbbiakban: uniós beteg) részére nyújtott ellátásról – havonta, a tárgyhót követő 15. napig, személyazonosításra alkalmatlan módon – a következő adatokat szolgáltatja az egészségügyi államigazgatási szerv részére:
 
@@ -664,6 +678,7 @@ meghatározott egészségügyi dokumentáció elhelyezéséről, illetve feldolg
 - b) a gyógyszertár,
 - c) az állami mentőszolgálat,
 - d) a miniszter által rendeletben meghatározott államigazgatási szerv és egyéb szervezet.
+- e) az ártámogatási szerződéssel rendelkező gyógyászatisegédeszköz-forgalmazó.
 
 (2) Az egészségügyi ellátóhálózatba tartozó, az (1) bekezdés alá nem tartozó adatkezelők az EESZT-hez a miniszter rendeletében meghatározott feltételekkel csatlakozhatnak.
 
@@ -681,6 +696,8 @@ meghatározott egészségügyi dokumentáció elhelyezéséről, illetve feldolg
 
 (9) Törvényben meghatározott esetben az EESZT útján, a 4. § szerinti célból az egészségügyi ellátó hálózaton kívüli, az EESZT-hez nem csatlakozott szerv részére is továbbítható adat.
 
+(10) A betegellátás során nem követelhető meg az érintettől olyan egészségügyi dokumentáció bemutatása vagy egészségügyi adat igazolása, amely az EESZT-ben elérhető.
+
 35/C. § (1) Az EESZT-t a 35/B. § (3) bekezdése szerint igénybe vevő természetes személy (a továbbiakban: EESZT felhasználó) azonosítását az EESZT használatakor a működtető végzi el. A csatlakozott adatkezelők, valamint az EESZT felhasználók által az EESZT útján hozzáférhető adatok és szolgáltatások körét az érintett adatok kezelésére vonatkozó jogszabályi rendelkezések alapján a működtető korlátozhatja.
 
 (2) A működtető az EESZT felhasználó azonosítása, valamint az EESZT útján történő adatkezelés jogszerűségének ellenőrzése és biztosítása céljából egységes azonosítási és jogosultságkezelési nyilvántartást vezet.
@@ -694,9 +711,11 @@ meghatározott egészségügyi dokumentáció elhelyezéséről, illetve feldolg
 
 Az azonosítási és jogosultságkezelési nyilvántartás az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásában szereplő felhasználók a) és b) pont szerinti adatait az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásából veszi át.
 
+(4) A működtető lehetővé teheti, hogy a csatlakozott adatkezelő a működtetővel kötött megállapodás alapján a saját, az érintett azonosítását igénylő szolgáltatása keretében, az érintett azonosítása céljából igénybe vegye a működtető által elérhetővé tett elektronikus azonosítási szolgáltatást.
+
 35/D. § (1) A működtető az EESZT útján történő adatkezelések jogszerűségének ellenőrzése, valamint az érintett tájékoztatása céljából a személyes adatok EESZT útján történő kezelése tekintetében nyilvántartást vezet, amely tartalmazza
 
-- a) az érintett születési idejét és nemét, valamint TAJ számát vagy ennek hiányában más, az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló rendeletben meghatározott azonosítóját (a továbbiakban: más azonosító),
+- a) az érintett születési idejét és nemét, valamint TAJ számát vagy ennek hiányában személyazonosság igazolására alkalmas okmányának számát, európai egészségbiztosítási kártyája számát, menedékes, kérelmező, befogadó igazolvány számát, vagy ilyen hiányában az érintett EESZT-ben képzett azonosítóját (a továbbiakban: más azonosító),
 - b) az adatkezelő EESZT felhasználó megnevezését,
 - c) az adatkezelési művelet időpontját,
 - d) az adatkezelési művelet jogalapját, valamint
@@ -725,10 +744,10 @@ hívja fel az érintett csatlakozott adatkezelőt.
 
 ### Központi eseménykatalógus
 
-35/F. § (1) A 35/B. § (1) bekezdés a) pontja szerinti csatlakozott adatkezelő a 4. § (1) bekezdés a)–c) pontjában vagy a 4. § (2) bekezdés f) pontjában foglalt célból történő hozzáférhetővé tétel érdekében az EESZT útján a működtető rendelkezésére bocsátja az általa kezelt érintettel kapcsolatos alábbi adatokat:
+35/F. § (1) A csatlakozott adatkezelő a 4. § (1) és (2) bekezdésében meghatározott célból történő hozzáférhetővé tétel érdekében az EESZT útján a működtető rendelkezésére bocsátja az általa kezelt érintettel kapcsolatos alábbi adatokat:
 
 - a) az érintett TAJ száma vagy ennek hiányában más azonosítója, születési ideje, neme, állampolgársága az EESZT útján továbbított vény és beutaló esetében a vényben és beutalóban foglalt egyéb személyazonosító adatok, az érintett EESZT-ben képzett azonosítója,
-- b) az ellátási esemény megjelölése, típusa, időpontja és időtartama, valamint miniszteri rendeletben meghatározott egyéb adatai és dokumentumai, valamint
+- b) az ellátási esemény megjelölése, típusa, időpontja és időtartama, valamint az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott egyéb adatai és dokumentumai, valamint
 - c) az ellátási eseményt nyújtó egészségügyi szolgáltató megjelölése, EESZT-ben képzett azonosítója, valamint az ellátást végző vagy abban közreműködő személy EESZT azonosítója.
 
 (2) A működtető az EESZT útján nyújtott szolgáltatásokon keresztül, az adatok kezelésére jogosult EESZT felhasználó számára rendszerezett módon hozzáférést biztosít
@@ -776,7 +795,7 @@ hívja fel az érintett csatlakozott adatkezelőt.
 
 ### Egészségügyi profil
 
-35/J. § (1) Az érintett kezelőorvosa, ennek hiányában háziorvosa az érintett vércsoportjára vonatkozóan pedig az állami vérellátó szolgálat is, a 4. § (1) bekezdés a)–c) pontjában vagy a 4. § (2) bekezdés f) pontjában foglalt célból történő, az arra jogosult személyek részére történő hozzáférhetővé tétel érdekében az EESZT útján rögzíti az általa kezelt érintettel kapcsolatban az e törvény szerinti személyazonosító adatok közül az érintett TAJ számát, vagy ennek hiányában más azonosítóját, születési idejét, nemét, továbbá az érintett egészségi állapotával, kórelőzményével, egyes beavatkozásaival kapcsolatos egészségügyi adatokat (a továbbiakban: egészségügyi profil).
+35/J. § (1) Az érintett kezelőorvosa, ennek hiányában háziorvosa az érintett vércsoportjára vonatkozó adat tekintetében az állami vérellátó szolgálat is, a 4. § (1) és (2) bekezdésében meghatározott célból történő, az arra jogosult személyek részére történő hozzáférhetővé tétel érdekében az EESZT útján rögzíti az általa kezelt érintettel kapcsolatban az e törvény szerinti személyazonosító adatok közül az érintett TAJ számát, vagy ennek hiányában más azonosítóját, születési idejét, nemét, továbbá az érintett egészségi állapotával, kórelőzményével, egyes beavatkozásaival kapcsolatos egészségügyi adatokat (a továbbiakban: egészségügyi profil).
 
 (2) Az egészségügyi profilban rögzített adatokat az érintett halála után 5 évvel helyreállíthatatlanul törölni kell.
 
@@ -788,18 +807,11 @@ hívja fel az érintett csatlakozott adatkezelőt.
 
 ### Egészségügyi dokumentáció nyilvántartása az EESZT-n belül
 
-35/K. § (1) A csatlakozott adatkezelő köteles az EESZT útján a működtető részére a miniszter által rendeletben meghatározott tartalmi és formai követelményeknek megfelelő módon – az egészségügyi dokumentáció megismerésére jogosultaknak a 4. § (1) bekezdés a)–d) pontjában vagy a 4. § (2) bekezdés f) pontjában meghatározott célból az érintett dokumentumokhoz az EESZT útján való hozzáférés érdekében – megküldeni az egészségügyi ellátás során keletkezett alábbi dokumentumokat:
-
-- 1. a fekvőbeteg-szakellátásban kiállított zárójelentés,
-- 2. a járóbeteg-szakellátásban kiállított ambuláns lap,
-- 3. szövettani és patológiai leletek,
-- 4. laborleletek,
-- 5. képalkotó diagnosztikai ellátások leletei,
-- 6. műtéti leírások.
+35/K. § (1) A csatlakozott adatkezelő köteles az EESZT útján a működtető részére a miniszter által rendeletben meghatározott tartalmi és formai követelményeknek megfelelő módon – az egészségügyi dokumentáció megismerésére jogosultaknak a 4. § (1) és (2) bekezdésében meghatározott célból az érintett dokumentumokhoz az EESZT útján való hozzáférés érdekében – megküldeni az egészségügyi ellátás során keletkezett dokumentumokat.
 
 (2) A csatlakozott adatkezelő az (1) bekezdés szerinti kötelezettségét úgy is teljesítheti, hogy miniszteri rendeletben meghatározott módon az EESZT rendelkezésére bocsátja az egészségügyi dokumentációnak az egészségügyi szolgáltató rendszerében található elérési útját, ha a műszaki követelményeknek való megfelelést a miniszter rendeletében meghatározottak szerint tanúsítás igazolja.
 
-(3) Az (1) bekezdés szerint megküldött dokumentumokról a működtető – annak érdekében, hogy az egészségügyi dokumentáció megismerésére jogosultak a 4. § (1) bekezdés a)–d) pontjában vagy a 4. § (2) bekezdés f) pontjában meghatározott célból az érintett dokumentumokhoz az EESZT útján hozzáférhessenek – az EESZT útján nyilvántartást vezet, amely tartalmazza
+(3) Az (1) bekezdés szerint megküldött dokumentumokról a működtető – annak érdekében, hogy az egészségügyi dokumentáció megismerésére jogosultak a 4. § (1) és (2) bekezdésében meghatározott célból az érintett dokumentumokhoz az EESZT útján hozzáférhessenek – az EESZT útján nyilvántartást vezet, amely tartalmazza
 
 - a) az érintett TAJ számát vagy ennek hiányában más azonosítóját, születési idejét, nemét,
 - b) az egészségügyi dokumentum előállítójának azonosításához szükséges adatokat,
@@ -882,6 +894,8 @@ hívja fel az érintett csatlakozott adatkezelőt.
 
 (6) A Módtv.-vel megállapított 35/M. § (4) bekezdése szerinti hozzáférést a működtető 2021. január 1-jéig köteles biztosítani.
 
+(7) A csatlakozással kapcsolatos kötelezettségét az Eüak. 35/B. § (1) bekezdés e) pontja alapján csatlakozásra köteles gyógyászatisegédeszköz-forgalmazó 2021. szeptember 1-jéig köteles teljesíteni.
+
 36/A. § (1) Az egészségbiztosítási szerv 2020. július 1-jéig elektronikus formában átadja az EESZT működtetője részére az érintett által a kötelező egészségbiztosítás terhére 2012. november 1-jét követően
 
 - a) igénybevett egészségügyi ellátás 35/F. § (1) bekezdése szerinti adatait az eseménykatalógusba történő betöltés céljából, és
@@ -933,6 +947,7 @@ vonatkozó rendelkezések szerint kezeli.
 - x) a népegészségügyi szempontból kiemelt jelentőségű vagy egyébként jelentős költségteherrel járó megbetegedések körét, a megbetegedéseket nyilvántartó betegségregisztert vezető szervet, valamint ezen megbetegedések bejelentésére és nyilvántartására vonatkozó részletes szabályokat,
 - y) az EESZT-hez csatlakozott egészségügyi szolgáltatók által használt informatikai rendszerek megfelelőségére vonatkozó követelményeket,
 - z) a Donor Regisztert vezető szervet kijelölje, és a Donor Regiszterre vonatkozó részletes szabályokat
+- zs) a határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése érdekében a kijelölt nemzeti kapcsolattartó szerv feladatait, a tájékoztatás és adatátadás rendjét és feltételeit
 
 rendeletben állapítsa meg.
 
@@ -943,6 +958,7 @@ rendeletben állapítsa meg.
 - c) az EESZT működtetőjét,
 - d) az önrendelkezési nyilvántartást vezető szervet,
 - e) a 35/L. § szerinti kapcsolati kódot kezelő szervet
+- f) a határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése érdekében kijelölt nemzeti kapcsolattartó szervet
 
 rendeletben jelölje ki.
 

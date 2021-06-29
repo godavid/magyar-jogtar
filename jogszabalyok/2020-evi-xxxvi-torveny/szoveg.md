@@ -78,7 +78,7 @@ A regionális szerepet erősíteni tudó, ezen keresztül az innovációt támog
 
 10. §
 
-11. § A 5. § (2) bekezdése és az 1. melléklet 5a. sora az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+11. § Az 5. § (2) bekezdése és az 1. melléklet 5a. sora az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2020. évi XXXVI. törvényhez
 

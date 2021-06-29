@@ -60,7 +60,7 @@ Az állatorvostudományi képzést támogatni kész magyar felsőoktatási inté
 
 9. §
 
-10. § A 5. § (3) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+10. § Az 5. § (3) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2020. évi XXXIV. törvényhez
 

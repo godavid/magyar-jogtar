@@ -163,6 +163,10 @@ ha tudott vagy kellő gondosság mellett tudhatott volna arról, hogy a foglalko
 - b) 94. § (3) bekezdése – az a) pontban foglaltaktól eltérően – a folyamatban lévő munkaidőkeret vagy elszámolási időszak tekintetében a kollektív szerződés szabályai szerint alkalmazható,
 - c) 97. § (4) és (5) bekezdését, 105. §-át, 109. § (1) bekezdését és a 135. § (3) bekezdését a Módtv3. hatálybalépését követően közölt munkaidő-beosztás tekintetében kell alkalmazni.
 
+19/E. § (1) Az Mt.-nek az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvénnyel (a továbbiakban: Módtv4.) megállapított 94. § (4) bekezdését a 2019. január 1-jét követően kezdődött munkaidőkeret vagy elszámolási időszak tekintetében is alkalmazni kell.
+
+(2) Ha a Módtv4. hatálybalépése előtt a kollektív szerződés megszűnt és a megszűnés időpontjától három hónap eltelt, a munkaidőkeretet vagy elszámolási időszakot a Módtv4. hatálybalépésének napján kell lezárni és a feleknek el kell számolni.
+
 ## MÁSODIK RÉSZ — MÓDOSÍTÓ RENDELKEZÉSEK
 
 #### 1. A polgári perrendtartásról szóló 1952. évi III. törvény módosítása

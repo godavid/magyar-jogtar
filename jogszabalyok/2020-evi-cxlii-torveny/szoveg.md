@@ -10,13 +10,13 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 
 (2) Az Alapítvány alapítása során az állam képviseletében az innovációért és technológiáért felelős miniszter (a továbbiakban: miniszter) jár el.
 
-(3) Az Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására a miniszter kerüljön kijelölésre.
+(3)
 
 (4) Az Alapítvány alapító okiratában az alapítói jogok teljes körének gyakorlására az Alapítvány kuratóriuma kerülhet kijelölésre.
 
-(5) Az Alapítvány kuratóriuma elnökét és tagjait a miniszter jelöli ki.
+(5)
 
-(6) Az Alapítvány kuratóriumába egy tagot az agrárminiszter delegál.
+(6)
 
 2. §
 
@@ -74,7 +74,7 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 
 (4) A 3. mellékletben foglalt táblázat 173. sorában meghatározott ingatlan ingyenes átruházása tekintetében az Nvtv. 6. § (1) bekezdését nem kell alkalmazni.
 
-(5) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő, állami tulajdonú ingó vagyontárgyak e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
+(5) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő, valamint a Debreceni Egyetem Agrár Kutatóintézetek és Tangazdaság Karcagi Kutatóintézet által használt állami tulajdonú ingó vagyontárgyak az Egyetem tulajdonába kerülnek.
 
 (6) Az (5) bekezdés szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
@@ -96,7 +96,7 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 
 (15) A 3. melléklet szerinti ingatlanok vonatkozásában a (2) bekezdés szerinti megállapodás megkötéséig, valamint az (5) bekezdés szerinti ingóságok vonatkozásában a (6) bekezdés szerinti jegyzőkönyv felvételéig az Egyetemet a KEKVA tv. 1. mellékletében meghatározott közfeladatai ellátása érdekében – az ingatlan-nyilvántartásba be nem jegyezhető – ingyenes használati jog illeti meg.
 
-(16) A Békésszentandrás 0151/1 és a Kaposvár 3656/2 helyrajzi számú ingatlanokat a művelési ág változást követően az Egyetem tulajdonába kell adni.
+(16) A Békésszentandrás 0151/1 és a Kaposvár 3656/2 helyrajzi számú ingatlanokat a művelési ág változását követően az Egyetem tulajdonába kell adni.
 
 6. § (1) Az Erdőtelek 364/1, a Keszthely 1418/1 és a Keszthely 1418/3 helyrajzi számú, ingyenesen tulajdonba adott ingatlanokon e törvény erejénél fogva határozatlan idejű elidegenítési és terhelési tilalom áll fenn. Az elidegenítési és terhelési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg az MNV Zrt. kérelmezi.
 
@@ -104,7 +104,7 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 
 (3) Az Egyetem a tulajdonába adott ingatlanokat – az 5. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlanokat értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlan értékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
 
-(4) Az 5. § (1) bekezdése alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+(4) Az 5. § (1) bekezdése alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással egy tekintet alá esik.
 
 7. § (1) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján – a preambulumban meghatározott célok megvalósítása érdekében – a Magyar Kertészeti Szaporítóanyag Nonprofit Korlátolt Felelősségű Társaság különválását követően a Cegléd, Sarród, Érd és Budapest központi telephelyen tevékenységet folytató nonprofit gazdasági társaság az állam tulajdonában álló üzletrészeit ingyenesen, nyilvántartási értéken történő átvezetéssel – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérően – az Egyetem tulajdonába kell adni.
 
@@ -140,7 +140,7 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 
 11. §
 
-12. § A 6. § (3) bekezdése, a 3. melléklet 34a., 35a., 164a., 164b., 238a., 324a., 333a. és 348–353. sora, valamint a 4. melléklet 6a. és 37. sora az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+12. § A 6. § (3) bekezdése, a 3. melléklet 34a., 35a., 164a., 164b., a 193a., 238a., 324a., 333a. és 348–353. sora, valamint a 4. melléklet 6a. és 37. sora az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2020. évi CXLII. törvényhez
 

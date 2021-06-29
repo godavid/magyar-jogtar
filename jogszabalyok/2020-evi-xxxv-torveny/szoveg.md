@@ -56,7 +56,7 @@ A művészeti, kreatív ipari képzési terület, ezen keresztül az innováció
 
 9. §
 
-10. § A 5. § (2) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+10. § Az 5. § (2) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2020. évi XXXV. törvényhez
 

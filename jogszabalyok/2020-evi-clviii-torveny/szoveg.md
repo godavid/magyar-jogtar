@@ -32,7 +32,7 @@ A műszaki képzési terület, ezen keresztül az innovációt támogatni kész 
 
 7. § (1) Ez a törvény – a (2) és (3) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
-(2) A 3–6. §, valamint az 1. melléklet 2021. szeptember 1-jén lép hatályba.
+(2) A 3–6. § és az 1. melléklet 2021. szeptember 1-jén lép hatályba.
 
 (3) A 9. § és a 10. § 2022. január 1-jén lép hatályba.
 
@@ -42,6 +42,6 @@ A műszaki képzési terület, ezen keresztül az innovációt támogatni kész 
 
 10. §
 
-11. § Az 1. § (3) és (4) bekezdése, a 3. § (1) bekezdése, a 4. § (1), (4) és (6) bekezdése, az 5. § (2) bekezdése, a 6. § (1), (3) és (4) bekezdése, valamint az 1. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+11. § Az 1. § (3) bekezdése, a 3. § (1) bekezdése, a 4. § (1), (4) és (6) bekezdése, az 5. § (2) bekezdése, a 6. § (1), (3) és (4) bekezdése, valamint az 1. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2020. évi CLVIII. törvényhez

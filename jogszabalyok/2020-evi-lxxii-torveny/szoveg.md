@@ -24,11 +24,11 @@ A művészeti képzési terület, ezen keresztül az innovációt támogatni ké
 
 (3)
 
-3/A. § Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) alapján az Alapítvány vagyonkezelési tevékenységének, továbbá közfeladata ellátásának érdekében a Nemzeti Filmszínház Nonprofit Kft. az állam tulajdonában álló, 2. melléklet szerinti üzletrészét ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni.
+3/A. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény alapján az Alapítvány vagyonkezelési tevékenységének, továbbá közfeladata ellátásának érdekében a Nemzeti Filmszínház Nonprofit Kft.-ben az állam tulajdonában álló, 2. melléklet szerinti üzletrészt ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni.
 
-(2) Az (1) bekezdés szerinti üzletrész tulajdonba adásáról az Alapítvány alapító okiratának módosításával a miniszter rendelkezik. A tulajdonba adás végrehajtása során az állam képviseletében a miniszter jár el, aki jogosult az üzletrész felett az államot megillető tulajdonosi jogok gyakorlására és a kötelezettségek teljesítésére.
+(2) Az Alapítvány az (1) bekezdés alapján tulajdonába adott üzletrész elidegenítéséből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány közfeladata ellátására és közérdekű céljai megvalósítására köteles fordítani. Az Alapítvány az értékesítésből származó bevételt az Alapítvány működési költségeinek finanszírozására nem használhatja fel.
 
-(3) Az Alapítvány az állam által az (1) bekezdés alapján tulajdonába adott üzletrész elidegenítéséből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány közfeladata ellátására és közérdekű céljai megvalósítására köteles fordítani. Az Alapítvány az értékesítésből származó bevételt az Alapítvány működési költségeinek finanszírozására nem használhatja fel.
+3/B. § A 3/A. § (1) bekezdése szerinti üzletrész tulajdonba adásáról az Alapítvány alapító okiratának módosításával a miniszter rendelkezik. A tulajdonba adás végrehajtása során az állam képviseletében a miniszter jár el, aki jogosult az üzletrész felett az államot megillető tulajdonosi jogok gyakorlására és a kötelezettségek teljesítésére.
 
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
@@ -36,7 +36,7 @@ A művészeti képzési terület, ezen keresztül az innovációt támogatni ké
 
 (2) Az e törvény szerinti vagyonjuttatás során az 1. mellékletben foglalt táblázat 3. sorában szereplő védett ingatlan esetében nem kell alkalmazni a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 44. § (1) bekezdés a) pontját és (4) bekezdését, valamint az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet 25. § (5) bekezdését.
 
-(3) Az 1. melléklet szerinti ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) köti meg az Egyetemmel.
+(3) Az 1. melléklet szerinti ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) köti meg az Egyetemmel.
 
 (4) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az (1) bekezdésben meghatározott közfeladatok ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő, állami tulajdonú ingó vagyontárgyak e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
 
@@ -62,7 +62,7 @@ A művészeti képzési terület, ezen keresztül az innovációt támogatni ké
 
 (3) A 8. § és a 9. § 2022. január 1-jén lép hatályba.
 
-7. § (1) Az 1. § (3) bekezdése, a 3/A. § (1) és (3) bekezdése, az 5. § (1) és (3) bekezdése és a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+7. § (1) Az 1. § (3) bekezdése, a 3/A. §, az 5. § (1) és (3) bekezdése és a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 3. § (1) és (2) bekezdése és az 5. § (1) és (2) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 

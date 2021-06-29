@@ -62,7 +62,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - 39. segédanyag: a gyógyszernek a hatóanyagtól és a csomagolóanyagtól eltérő bármely összetevője;
 - 40. gyógyszerközvetítés: a gyógyszer-nagykereskedelem kivételével a gyógyszerek értékesítésével vagy beszerzésével kapcsolatos bármely tevékenység, amely nem jár a gyógyszer fizikai kezelésével, és amely valamely másik jogi vagy természetes személy nevében folytatott és független tárgyalás formájában valósul meg;
 - 41. gyógyszerközvetítő: gyógyszerközvetítéssel foglalkozó természetes vagy jogi személy.
-- 42. Hamisított gyógyszer: bármilyen gyógyszer, amellyel kapcsolatban – a nem szándékos minőségi hiányosság esetét kivéve – az alábbiak valamelyike hamisan van feltüntetve:
+- 42. Hamisított gyógyszer: bármilyen gyógyszer, amelynek eredete nem igazolható, vagy amellyel kapcsolatban – a nem szándékos minőségi hiányosság esetét kivéve – az alábbiak valamelyike hamisan van feltüntetve:
   - a) azonossága, így annak csomagolása és a címkézése, megnevezése, a hatóanyagokat, segédanyagokat és azok hatáserősségét jelölő összetétele,
   - b) eredete, így a gyártója, a gyártó országa, a származási országa vagy a forgalombahozatali engedély jogosultja,
   - c) előtörténete, így az alkalmazott forgalmazási lánc azonosítását lehetővé tevő nyilvántartások és dokumentumok, függetlenül attól, hogy ez sérti-e a szellemi tulajdonjogot.
@@ -213,7 +213,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - a) értesíti a forgalomba hozatali engedély jogosultját azon EGT-megállapodásban részes államban, amelyben az érintett gyógyszert engedélyezték, az érintett termékre vonatkozó forgalomba hozatali engedély e törvény alapján történő megadására vonatkozó szándékáról, és
 - b) felkéri az érintett állam illetékes hatóságát, hogy juttassa el számára a gyógyszerre vonatkozó külön jogszabályban meghatározottak szerinti értékelő jelentés és a gyógyszerre vonatkozó hatályos forgalomba hozatali engedély másolatát.
 
-(3) Amennyiben EGT-megállapodásban részes állam hatóságától érkezik a (2) bekezdés b) pontja szerinti megkeresés a gyógyszerészeti államigazgatási szervhez, úgy az a megkeresés kézhezvételétől számított 30 napon belül az értékelő jelentés és az érintett gyógyszerre vonatkozó hatályos forgalomba hozatali engedély egy példányának megküldésével köteles annak eleget tenni.
+(3) Amennyiben EGT-megállapodásban részes állam hatóságától érkezik a (2) bekezdés b) pontja szerinti megkeresés a gyógyszerészeti államigazgatási szervhez, úgy az a megkeresés kézhezvételétől számított 75 napon belül az értékelő jelentés és az érintett gyógyszerre vonatkozó hatályos forgalomba hozatali engedély egy példányának megküldésével köteles annak eleget tenni.
 
 ### Az ideiglenes és kivételes forgalomba hozatal
 
@@ -268,7 +268,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (2) Az engedélyt a gyógyszerészeti államigazgatási szerv akkor adja meg, ha a kérelmező megfelel a külön jogszabályban meghatározott személyi és tárgyi feltételeknek.
 
-(3) A gyógyszer-nagykereskedelmi engedély jogosultja – a külön jogszabályban meghatározott kivételtől eltekintve – az általa forgalmazott termékeket közvetlenül lakosság részére nem forgalmazhatja, illetve csak olyan megrendelőnek szállíthat gyógyszert, aki gyógyszerekkel kapcsolatos nagykereskedelmi, illetve egészségügyi szolgáltató tevékenység végzésére engedéllyel rendelkezik.
+(3) A gyógyszer-nagykereskedelmi engedély jogosultja – jogszabályban meghatározott kivételekkel – csak olyan személynek értékesíthet, forgalmazhat, illetve szállíthat ki gyógyszert, aki gyógyszer-nagykereskedelmi, illetve egészségügyi szolgáltató tevékenység végzésére engedéllyel rendelkezik.
 
 (4) Az engedély kiadásáról és módosításáról a hatóság a kérelem beérkezését követő naptól számított kilencven napon belül dönt. A nagykereskedelmi engedély visszavonásig érvényes.
 
@@ -306,7 +306,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (3) A kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal kapcsolatos egyes engedélyezési és nyilvántartásba vételi eljárásokért, illetve az engedély kiadásáért, módosításáért jogszabályban meghatározottak szerint igazgatási szolgáltatási díjat kell fizetni.
 
-(3a) A (3) bekezdés szerinti eljárásokban az ügyintézési határidő 30 nap.
+(3a) A (3) bekezdés szerinti eljárásokban az ügyintézési határidő 75 nap.
 
 (4) Az (1) bekezdés szerinti tevékenységi engedélyt kizárólag olyan gazdálkodó szervezet kaphat, amelynek vezetője büntetlen előéletű, nem áll gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró, valamint egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
 
@@ -455,7 +455,20 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (12) A forgalomba hozatali engedély jogosultja a (9) bekezdés a) és b) pontjában foglaltakról értesíti az Európai Gyógyszerügynökséget is, ha az intézkedésre a 18. § (5) bekezdés a)–e) pontjában említett okból volt szükség.
 
-16/A. § A forgalomba hozatali engedély jogosultjának, a gyógyszer-nagykereskedelmi engedély jogosultjának, illetve a gyógyszertár működtetőjének biztosítania kell az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló 2015. október 2-i (EU) 2016/161 felhatalmazáson alapuló bizottsági rendeletnek [a továbbiakban: (EU) 2016/161 rendelet] való megfelelést szolgálja.
+16/A. § (1) A forgalombahozatali engedély jogosultjának, a gyógyszer-nagykereskedelmi engedély jogosultjának, valamint a gyógyszertár működtetőjének biztosítania kell a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló, 2015. október 2-i (EU) 2016/161 felhatalmazáson alapuló bizottsági rendeletnek [a továbbiakban: (EU) 2016/161 rendelet] való megfelelést.
+
+(2) A 2001/83/EK európai parlamenti és tanácsi irányelv 54a. cikk (2) bekezdés e) pontja, valamint az (EU) 2016/161 rendelet 31. cikke szerinti, a biztonsági elemekre vonatkozó információk tárolására szolgáló nemzeti adattárat a magyarországi gyógyszer-azonosítási nonprofit szervezet (a továbbiakban: gyógyszer-azonosítási nonprofit szervezet) hozza létre, kezeli és működteti.
+
+(3) A magyarországi gyógyszer-azonosítási nonprofit szervezet által működtetett nemzeti adatárral összefüggő szolgáltatások igénybevételéért az (EU) 2016/161 rendelet 2. cikkében meghatározott alkalmazási kör szerinti gyógyszerek forgalomba hozatali engedély jogosultjainak szolgáltatási díjat kell fizetni. A magyarországi gyógyszer-azonosítási nonprofit szervezet köteles az általa megállapított és alkalmazott szolgáltatási díjakat és az azokhoz kapcsolódó szerződési feltételeket honlapján közzétenni.
+
+(4) A gyógyszerészeti államigazgatási szerv honlapján folyamatosan elérhetővé teszi azon információt, hogy mely gyógyszerek esnek az (EU) 2016/161 rendelet 2. cikkében rögzített alkalmazási kör hatálya alá.
+
+(5) A gyógyszer-azonosítási nonprofit szervezet jogosult adatot szolgáltatni a gyógyszerészeti államigazgatási szerv számára azon forgalomba hozatali engedély jogosultjáról
+
+- a) amellyel a (2) bekezdés szerinti nemzeti adatárral összefüggő szolgáltatások igénybevételével kapcsolatban szerződést kötött, illetve amelynek a szerződése megszűnt,
+- b) amely a magyarországi gyógyszer-azonosítási nonprofit szervezet vagy az általa működtetett nemzeti adattár szolgáltatását ténylegesen igénybe veszi, de a magyarországi gyógyszer-azonosítási nonprofit szervezettel nem kötött erre vonatkozó szerződést,
+- c) amely a magyarországi gyógyszer-azonosítási nonprofit szervezettel szerződést kötött, de nem fizette meg a magyarországi gyógyszer-azonosítási nonprofit szervezet számára a vonatkozó esedékes szolgáltatási díjakat,
+- d) amely vonatkozásában a magyarországi gyógyszer-azonosítási nonprofit szervezet a forgalomba hozatali engedély jogosultja által a (2) bekezdés szerinti nemzeti adattárba feltöltött adatokhoz való végfelhasználók általi hozzáférést korlátozta (szolgáltatás felfüggesztése).
 
 ### A gyógyszerek és a gyógyszerellátáshatósági ellenőrzése
 
@@ -465,11 +478,13 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (2a) A gyógyszerészeti államigazgatási szerv jogosult bármely Magyarországon gyártott vagy forgalmazott gyógyszer minőségét és a gyártására vagy forgalmazására vonatkozó dokumentációját ellenőrizni, továbbá jogosult vizsgálat céljából saját költségére – kivéve, ha jogszabály a költséget másra nem terheli – mintát és ellenmintát beszerezni.
 
-(3) Ha a gyógyszerészeti államigazgatási szerv az (1) bekezdésben említett bejelentés, a (2a) bekezdésben foglaltak alapján indult eljárás kapcsán vagy a tudomására jutott egyéb információk alapján megállapítja, hogy egy gyógyszer nem felel meg a forgalomba hozatali engedélyében, illetve az (EU) 2016/161 rendeletben rögzített követelményeknek, vagy ha a minősége nem igazolható, továbbá ha minőségi hibájának gyanúja merül fel, felfüggeszti a gyógyszer érintett gyártási tételének forgalmazását, elrendeli annak a forgalomból történő kivonását, illetve visszahívását. Az erről szóló, üzleti titkot nem tartalmazó döntést a gyógyszerészeti államigazgatási szerv honlapján közzéteszi. A forgalomból való kivonás, visszahívás és a forgalmazás felfüggesztésének rendjét az egészségügyért felelős miniszter rendelete állapítja meg.
+(3) Ha a gyógyszerészeti államigazgatási szerv az (1) bekezdésben említett bejelentés, a (2a) bekezdésben foglaltak alapján indult eljárás kapcsán vagy a tudomására jutott egyéb információk alapján megállapítja, hogy egy gyógyszer nem felel meg a forgalomba hozatali engedélyében, illetve az (EU) 2016/161 rendeletben rögzített követelményeknek, vagy ha a minősége nem igazolható, továbbá ha minőségi hibájának gyanúja merül fel, felfüggeszti a gyógyszer érintett gyártási tételének forgalmazását, elrendeli annak a forgalomból történő kivonását, illetve visszahívását. Az erről szóló, üzleti titkot nem tartalmazó döntés rendelkező részét és a megállapított tényállás összefoglaló ismertetését a közzététel napjának, az ügy számának és tárgyának, a forgalombahozatali engedély jogosultjának és az érintett gyógyszernek a megjelölésével a gyógyszerészeti államigazgatási szerv honlapján közzéteszi. A forgalomból való kivonás, visszahívás és a forgalmazás felfüggesztésének rendjét az egészségügyért felelős miniszter rendelete állapítja meg.
 
 (4)
 
 (5) A gyógyszer forgalomból való kivonásának, felfüggesztésének, visszagyűjtésének, alkalmazása megtiltásának a költségei – ideértve az (1)–(3) bekezdés, a 18. § (5) bekezdése, a 20. § (3) bekezdés c) pontja szerinti esetet, valamint az érintett gyógyszereknek a gyógyszertár általi kicserélésének eseteit is a hamisított gyógyszerre vonatkozó intézkedések kivételével – a forgalomba hozatali engedély jogosultját terhelik.
+
+(6) A gyógyszer forgalomból való kivonására, felfüggesztésére, alkalmazása megtiltására irányuló eljárásban a gyógyszerészeti államigazgatási szerv rendelkezik a betegnél felmerült térítési díj vagy fogyasztói ár visszatérítéséről.
 
 17/A. § (1) Ha egy a gyógyszerészeti államigazgatási szerv által már forgalomba hozatalra engedélyezett gyógyszer három egymást követő éven keresztül nincs ténylegesen forgalomban a hazai gyógyszerpiacon, a gyógyszerészeti államigazgatási szerv döntése alapján a gyógyszer forgalombahozatali engedélye hatályát veszti.
 
@@ -520,7 +535,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (7) Amennyiben az (5) vagy (6) bekezdés alkalmazása farmakovigilanciával kapcsolatos tevékenységekből származó adatok alapján indokolt, az intézkedés foganatosítására akkor kerülhet sor, ha a gyógyszerészeti államigazgatási szerv a tervezett intézkedésről és annak okairól előzetesen tájékoztatja az Európai Bizottságot, az Európai Gyógyszerügynökséget és a többi EGT-megállapodásban részes államot, és ezt követően az Ügynökség arról ad tájékoztatást, hogy a bejelentés alapján nem kezdeményez sürgős uniós eljárást. Amennyiben azonban közegészségügyi okból indokolt ideiglenes intézkedésként szükséges alkalmazni az (5) bekezdést, akkor az e bekezdésben említett tájékoztatást a gyógyszerészeti államigazgatási szerv az intézkedés foganatosítását követő munkanapon is megteheti. E bekezdést nem kell alkalmazni, ha az intézkedésre az (5) bekezdés h) pontja vagy a (8) bekezdés alapján került sor.
 
-(8) A gyógyszerészeti államigazgatási szerv az Európai Gyógyszerügynökség koordinációs csoportjában elfogadott egyhangú állásfoglalás vagy az Európai Bizottság határozata alapján is felfüggesztheti, visszavonhatja a forgalomba hozatali engedélyt, továbbá elutasíthatja annak megújítását, vagy felszólíthatja a forgalomba hozatali engedély jogosultját a forgalomba hozatali engedély megfelelő módosításának kérelmezésére.
+(8) A gyógyszerészeti államigazgatási szerv az Európai Gyógyszerügynökség koordinációs csoportjában elfogadott egyhangú állásfoglalás vagy az Európai Bizottság határozata alapján is felfüggesztheti, visszavonhatja a forgalomba hozatali engedélyt, továbbá elutasíthatja annak megújítását, vagy felszólíthatja a forgalomba hozatali engedély jogosultját a forgalomba hozatali engedély megfelelő módosításának kérelmezésére, továbbá a forgalomba hozatalnak a farmakovigilanciára irányadó nemzetközi szabályrendszer szerinti ellenőrzött elosztás feltételeivel történő engedélyezésének kérelmezésére.
 
 (9) Amennyiben az e § alapján nem forgalmazható gyógyszer más gyógyszerrel nem helyettesíthető, a gyógyszerészeti államigazgatási szerv átmeneti ideig engedélyezheti, hogy az a már kezelt betegek számára továbbra is kiszolgáltatható legyen.
 
@@ -562,7 +577,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (1a) A gyógyszerészeti államigazgatási szerv a Magyarországon vagy a harmadik országok területén végzett ellenőrzések során figyelembe veszi az Európai Bizottság iránymutatásait és együttműködik az Európai Gyógyszerügynökséggel, amelynek keretében az Európai Gyógyszerügynökséggel megosztja a tervezett és lefolytatott vizsgálatokkal kapcsolatos információkat.
 
-(2) A gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapított tényállás alapján a hiányosságok, szabályszegések jellegét és súlyát mérlegelve megteszi a szükséges intézkedéseket és ellenőrzi azok végrehajtását.
+(2) A gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapított tényállás alapján a hiányosságok, szabályszegések jellegét és súlyát mérlegelve megteszi a szükséges intézkedéseket és ellenőrzi azok végrehajtását, valamint az Európai Bizottság és az Európai Gyógyszerügynökség iránymutatásai szerint, illetve az e törvény felhatalmazása alapján kiadott jogszabályok szerint inspektori jelentést készít.
 
 (3) Amennyiben a gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapítja, hogy az arra kötelezett természetes személy, jogi személy tevékenysége folytatása során az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott feltételeinek nem tesz eleget, illetve kötelezettségét megszegi,
 
@@ -638,8 +653,8 @@ véglegessé vált határozatát a (10) bekezdésben meghatározott tartalommal 
 
 21. § (1) Ha a vizsgálati készítmény klinikai vizsgálata során, illetve annak következményeként bármely természetes személy egészségkárosodást szenved, a sérelmet szenvedett személy, illetve halála esetén a Polgári Törvénykönyv szerinti hozzátartozója részére
 
-- a) a klinikai vizsgálatot engedélyező hatóság által jóváhagyott vizsgálati terv szerint végzett vizsgálat esetén a vizsgálat kezdeményezője,
-- b) amennyiben a halál, megrokkanás vagy súlyos egészségkárosodás a vizsgálatot kezdeményező által ismert, de a klinikai vizsgálatot engedélyező hatóságnak be nem nyújtott adat eltitkolásának következménye, a vizsgálat kezdeményezője,
+- a) a klinikai vizsgálatot engedélyező hatóság által jóváhagyott vizsgálati terv szerint végzett vizsgálat esetén a megbízó,
+- b) amennyiben a halál, megrokkanás vagy súlyos egészségkárosodás a vizsgálatot kezdeményező által ismert, de a klinikai vizsgálatot engedélyező hatóságnak be nem nyújtott adat eltitkolásának következménye, a megbízó,
 - c) amennyiben a halál, megrokkanás vagy súlyos egészségkárosodás a klinikai vizsgálatot engedélyező hatóság előírásának következménye, az engedélyező hatóság,
 - d) a klinikai vizsgálatot engedélyező hatóság által jóváhagyott vizsgálati tervtől való eltérés esetén – ha az egészségkárosodás ennek következményeként következik be – a klinikai vizsgálatot végző intézmény sérelemdíjat, valamint – a halállal, megrokkanással, illetve egészségkárosodással összefüggésben bekövetkezett vagyoni károk esetén – kártérítést fizet.
 
@@ -705,7 +720,7 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 - a) az adott beteg kezelése más forgalomban lévő gyógyszer alkalmazási előírása szerint nem lehetséges vagy eredménytelen, és a külön jogszabály szerinti bizonyítékok alapján az adott gyógyszer indikáción túli alkalmazásával esély van a gyógyszeres kezelés sikerességére, illetve a beteg állapotának javítására vagy stabilizálására,
 - b) az adott gyógyszer Magyarországon vagy más országban forgalomba hozatalra engedéllyel rendelkezik, és
 - c) az adott terápiás terület szakorvosi szakképesítéssel rendelkező orvosa a külön jogszabályban foglalt feltételeknek megfelelően a gyógyszer indikáción túli alkalmazását az adott betegre nézve
-  - ca) a gyógyszerészeti államigazgatási szervtől kérelmezte és azt a gyógyszerészeti államigazgatási szerv egyedileg engedélyezte, vagy
+  - ca) a gyógyszerészeti államigazgatási szervtől kérelmezte és azt a gyógyszerészeti államigazgatási szerv egyedileg engedélyezte és ezt az orvost foglalkoztató egészségügyi szolgáltató útján az orvossal közölte, vagy
   - cb) a (6d)–(6h) bekezdés szerinti esetben a gyógyszerészeti államigazgatási szerv részére bejelentette.
 
 (6a) Gyógyszert a (6) bekezdésben foglaltakon túl akkor is lehet indikáción túli gyógyszerrendelés keretében rendelni, illetve alkalmazni, ha
@@ -758,7 +773,7 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 
 25/B. § (1) Az emberi felhasználásra kerülő gyógyszerek gyártásával, forgalomba hozatalával, forgalmazásával, a forgalomba hozatali engedély fenntartásával, a gyógyszer-nagykereskedelmi tevékenység folytatásával, a gyógyszernek nem minősülő gyógyhatású termékek gyógyszerré történő átminősítésével, a párhuzamos importtal, a vizsgálati készítmények klinikai vizsgálatával, a Helyes Laboratóriumi Gyakorlat alkalmazásával kapcsolatos – az 1. számú melléklet szerinti – engedélyezési, módosítási és egyéb eljárásokért – a (2) bekezdésben foglalt kivétellel – az eljárás lefolytatását, illetve az engedély kiadását kérelmező az 1. számú mellékletben meghatározott igazgatási szolgáltatási díjat (a továbbiakban: díj), a forgalomba hozatali engedély fenntartásáért pedig évente az 1. számú mellékletben meghatározott fenntartási díjat köteles fizetni.
 
-(2) A kormányrendeletben meghatározott nem kereskedelmi célú klinikai vizsgálat engedélyezése iránti eljárások díjmentesek.
+(2) A nem kereskedelmi célú klinikai vizsgálat engedélyezése iránti eljárások díjmentesek.
 
 (2a) Nem kell az (1) és (5) bekezdés szerinti igazgatási szolgáltatási díjat, fenntartási díjat megfizetni a Gyftv. szerinti kedvezményezetti státusszal rendelkező gyógyszerekkel kapcsolatos eljárásokért.
 
@@ -792,9 +807,9 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 - a) a kérelem az egészségügyi válsághelyzet szerinti tömeges megbetegedést okozó humánjárvány kezelése céljából, ellátási érdekből szükséges hatósági döntés kiadására irányul, vagy
 - b) az a) pont szerinti célhoz kapcsolódóan az gyógyszerészeti államigazgatási szerv legfeljebb hat hónapos határozott időre szóló hatósági döntést ad ki.
 
-### Engedélyezés előtti gyógyszeralkalmazás
+### Engedélyezés, illetve kereskedelmi forgalomba hozatal előtti gyógyszeralkalmazás
 
-25/C. § (1) Engedélyezés előtti gyógyszeralkalmazás keretében vizsgálati készítményt, vagy forgalomba hozatali engedéllyel nem rendelkező gyógyszert (a továbbiakban e § tekintetében együttesen: gyógyszer) különös méltánylást érdemlő betegellátási érdekből a gyógyszerészeti államigazgatási szerv engedélye alapján akkor lehet alkalmazni, ha
+25/C. § (1) Engedélyezés előtti gyógyszeralkalmazás keretében vizsgálati készítményt, vagy forgalomba hozatali engedéllyel nem rendelkező gyógyszert – ideértve a kérelmezett javallatban forgalombahozatali engedéllyel nem rendelkező gyógyszert is – (a továbbiakban e § tekintetében együttesen: gyógyszer) különös méltánylást érdemlő betegellátási érdekből a gyógyszerészeti államigazgatási szerv engedélye alapján akkor lehet alkalmazni, ha
 
 - a) az érintett gyógyszer
   - aa) tekintetében a Magyarországon hatályos klinikai vizsgálatokra vonatkozó szabályozással egyenértékű szabályozást alkalmazó országban legalább II. fázisú klinikai vizsgálatot már lefolytattak vagy ilyen vizsgálat folyamatban van, vagy
@@ -823,7 +838,7 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 - a) az (1) bekezdés a) pont aa) alpontja szerinti feltétel olyan gyógyszerrel is teljesíthető, amely az adott indikációra vonatkozóan az Európai Gyógyszerügynökség vagy az Egészségügyi Világszervezet ajánlásában vagy programjában szerepel,
 - b) az (1) bekezdés b) pontja azzal az eltéréssel alkalmazandó, hogy a kérelmező egészségügyi szolgáltató vagy – az ellátásért felelős egészségügyi szolgáltató vagy orvos megjelölése esetén – szponzor is lehet, és a kérelem előre meghatározott betegcsoportra vagy programra vonatkozóan is benyújtható,
 - c) az (1) bekezdés d) pontjától indokolt kérelem alapján a gyógyszerészeti államigazgatási szerv kivételes esetben eltekinthet, amennyiben a gyógyszer gyártója részéről a hozzájárulás, illetve a gyógyszer térítésmentes rendelkezésre bocsátására vonatkozó kötelezettségvállalás beszerzése bizonyíthatóan olyan késedelemmel járna vagy olyan aránytalan nehézségekbe ütközne, amelyek az engedély kiadását ellehetetlenítenék,
-- d) a (2) bekezdés szerinti indokolási kötelezettséget az a) pont szerinti szponzor is teljesítheti, és
+- d) a (2) bekezdés szerinti indokolási kötelezettséget az (1) bekezdés a) pont aa) alpontja szerinti klinikai vizsgálat megbízója is teljesítheti, és
 - e) a (7) bekezdés szerinti feltétel abban az esetben is teljesül, ha az alkalmazni kívánt gyógyszer kereskedelmi forgalomba hozatala Magyarország területén nem történt meg, és a c) pont szerinti kivétel nem kerül alkalmazásra.
 
 ### Ex tempore előállított radioaktív gyógyszer alkalmazása
@@ -855,13 +870,15 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 
 (9)
 
-(10) Az e törvényben meghatározott engedélyezési és ellenőrzési eljárásokban a hiányzó bizonyíték az ügyfél nyilatkozatával nem pótolható.
+(10) Az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott engedélyezési és ellenőrzési eljárásokban a hiányzó bizonyíték az ügyfél nyilatkozatával nem pótolható.
 
 (11) Az e törvény hatálya alá tartozó engedélyezési és ellenőrzési eljárásokban az ügyintézési határidőbe nem számítanak be az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló az Európai Parlament és a Tanács 2001. november 6-i 2001/83/EK irányelvében meghatározott időtartamok sem.
 
 (12) Az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott engedélyezési és ellenőrzési eljárásokban, ha ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem hozható döntés, az általános közigazgatási rendtartásról szóló törvény szerinti kapcsolódó eljárás szabályait azzal kell alkalmazni, hogy az egyes döntéseket külön eljárások keretében kell meghozni.
 
 (13) Az e törvény, valamint az e törvény felhatalmazása alapján kiadott jogszabály alapján hivatalból indult hatósági eljárás ügyintézési határideje 110 nap.
+
+(14) Az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott engedélyezési eljárásokban a gyógyszerészeti államigazgatási szerv az eljárást felfüggesztheti, ha az előkérdés más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el.
 
 27. § Az elektronikus kapcsolattartás az e törvény 25. § (1)–(6a) bekezdésében, valamint a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenységről szóló külön jogszabály 3. § (2)–(3) bekezdéseiben foglalt eljárások kivételével, a gyógyszerészeti és egészségügyi államigazgatási szervnek a gyógyszerekkel, vizsgálati készítményekkel és a gyógyszereknek nem minősülő gyógyhatású anyagokkal és készítményekkel, valamint a helyes laboratóriumi gyakorlat követelményeinek megfelelő vizsgálóhelyekkel és egyedi vizsgálóhelyekkel kapcsolatos hatósági eljárása során a gyógyszerészeti és egészségügyi államigazgatási szerv által működtetett informatikai rendszeren keresztül valósul meg.
 
@@ -926,7 +943,7 @@ rendeletben szabályozza.
 - v) a gyógyszerközvetítéssel kapcsolatos szabályokat,
 - w) a hatóanyagokra vonatkozó helyes gyártási gyakorlat és helyes forgalmazási gyakorlat, valamint a segédanyagokra vonatkozó helyes gyártási gyakorlat szabályait,
 - x) az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat,
-- y) az engedélyezés előtti gyógyszeralkalmazással kapcsolatos részletszabályokat
+- y) az engedélyezés, illetve a kereskedelmi forgalomba hozatal előtti gyógyszeralkalmazással kapcsolatos részletszabályokat
 - z) a gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre, azok kezelésére vonatkozó részletszabályokat, illetve a biztonsági elemek kezelésére jogosultak körét
 
 rendeletben szabályozza.
