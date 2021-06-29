@@ -351,7 +351,7 @@ folytathat tevékenységet.
 
 (4) A felsőoktatási intézményben – szervezeti és működési szabályzatában meghatározottak szerint – gazdasági tanács működtethető.
 
-14/A. § (1) Az állami felsőoktatási intézmény által ellátott, a 2. § (1) bekezdés szerinti alaptevékenysége körébe nem tartozó, ahhoz közvetlenül nem kapcsolódó, törvényben vagy kormányrendeletben meghatározott, valamint a felsőoktatási intézmény alapító okiratában megjelenített közfeladat tekintetében – ha e törvény eltérően nem rendelkezik – a (2)–(5) bekezdés szerinti sajátos döntéshozatali, működési szabályokat kell alkalmazni.
+14/A. § (1) A felsőoktatási intézmény által ellátott, a 2. § (1) bekezdés szerinti alaptevékenysége körébe nem tartozó, ahhoz közvetlenül nem kapcsolódó, törvényben vagy kormányrendeletben meghatározott, valamint a felsőoktatási intézmény alapító okiratában megjelenített közfeladat tekintetében – ha e törvény eltérően nem rendelkezik – a (2)–(5) bekezdés szerinti sajátos döntéshozatali, működési szabályokat kell alkalmazni.
 
 (2) Az (1) bekezdés szerinti közfeladat ellátására a felsőoktatási intézményben külön szervezeti egységet kell létrehozni. A szervezeti egység éves munkaterv alapján végzi feladatait. A felsőoktatási intézmény éves költségvetésében jóváhagyott kiadási előirányzatokból évente meg kell állapítani azokat az összegeket, amelyek a szervezeti egység feladatait szolgálják (e § alkalmazásában a továbbiakban: költségvetési keretek). A költségvetési keretek felett kötelezettségvállalásra a szervezeti egység vezetője jogosult.
 
@@ -1464,7 +1464,7 @@ feltéve, hogy a hallgatót előzetesen írásban felhívták arra, hogy kötele
 
 (4) A tudományos diákköri tevékenységet végző hallgatók és az őket támogató oktatók szakmai szervezete az Országos Tudományos Diákköri Tanács. Az Országos Tudományos Diákköri Tanács feladata a felsőoktatási intézményekben folyó hallgatói tudományos és művészeti tevékenység, a diákköri mozgalom országos képviselete és összehangolása, valamint az országos jellegű tudományos és művészeti diákfórumok szervezése. Az Országos Tudományos Diákköri Tanács működését – az általa megalkotott – szervezeti és működési szabályzat határozza meg.
 
-(5) Az Országos Tudományos Diákköri Tanács jogi személy, székhelye Budapest, képviseletére az elnök jogosult. Az Országos Tudományos Diákköri Tanács felett az ügyészség gyakorol törvényességi ellenőrzést. Az Országos Tudományos Diákköri Tanácsot az oktatási hivatal veszi nyilvántartásba. Az Országos Tudományos Diákköri Tanács beszámolási és könyvvezetési kötelezettségére a számvitelről szóló törvényben az egyéb szervezetekre meghatározott szabályokat kell alkalmazni. Az Országos Tudományos Diákköri Tanács – közhasznúsági nyilvántartásba vétel nélkül – közhasznú szervezet. Az Országos Tudományos Diákköri Tanács megfelelő színvonalú működéséhez szükséges forrást a miniszter által vezetett minisztérium fejezetéből kell biztosítani.
+(5) Az Országos Tudományos Diákköri Tanács jogi személy, székhelye Budapest, képviseletére az elnök jogosult. Az Országos Tudományos Diákköri Tanács felett az ügyészség gyakorol törvényességi ellenőrzést. Az Országos Tudományos Diákköri Tanácsot az oktatási hivatal veszi nyilvántartásba. Az Országos Tudományos Diákköri Tanács beszámolási és könyvvezetési kötelezettségére a számvitelről szóló törvényben az egyéb szervezetekre meghatározott szabályokat kell alkalmazni. Az Országos Tudományos Diákköri Tanács – közhasznúsági nyilvántartásba vétel nélkül – közhasznú szervezet. Az Országos Tudományos Diákköri Tanács megfelelő színvonalú működéséhez szükséges forrást a Nemzeti Kutatási, Fejlesztési és Innovációs Alap Kutatási Alaprésze terhére kell biztosítani.
 
 ## ÖTÖDIK RÉSZ — A FELSŐOKTATÁS SZERVEZÉSE ÉS IRÁNYÍTÁSA
 
@@ -1493,6 +1493,7 @@ feltéve, hogy a hallgatót előzetesen írásban felhívták arra, hogy kötele
 - d) új képzési, oktatási módszerek, megoldások, szervezeti formák, az intézményi hálózatfejlesztések támogatása,
 - e) a felsőoktatási szakképzésben, az alapképzésben és a mesterképzésben a képzési szakok szerkezetének felülvizsgálata,
 - f) a felsőoktatás és a gazdaság kapcsolatának legalább háromévenkénti értékelése.
+- g) a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény szerinti hosszú távú finanszírozás és az ennek alapján megkötött finanszírozási keretmegállapodások elveinek meghatározása, valamint az ehhez szükséges finanszírozási adatok elemzése, statisztikai adatok vizsgálata.
 
 (4) A miniszter a nemzetiségi képzés tekintetében hozott döntéseihez beszerzi az Országos Nemzetiségi Tanács véleményét. Ha a nemzetiségek jogairól szóló törvény alapján az országos nemzetiségi önkormányzat kezdeményezi az anyanyelvű vagy anyanyelvi felsőfokú oktatás feltételeinek a megteremtését, a miniszter – az igények mérlegelése után – nemzetközi megállapodás megkötésének kezdeményezésével, munkaterv létesítésével, illetve az anyaországban folytatott felsőfokú tanulmányokban való részvételre vagy hazai felsőoktatási intézményekben a szükséges feltételek biztosítására kiírt pályázattal biztosítja a feltételeket.
 
@@ -1546,9 +1547,9 @@ feltéve, hogy a hallgatót előzetesen írásban felhívták arra, hogy kötele
 
 kapcsolatos ügyekben.
 
-(4) A (3) bekezdés a) és e) pontjában meghatározott eljárásokban, valamint az alap- és mesterképzés, felsőoktatási szakképzés indítása esetén a (3) bekezdés c) pontja szerinti eljárásban az oktatási hivatal köteles beszerezni a MAB szakvéleményét. Az oktatási hivatal mesterképzés indítása esetén a (3) bekezdés c) pontja szerinti, továbbá a (3) bekezdés e) pontjában meghatározott eljárásban megfogalmazott MAB szakértői véleményéhez kötve van.
+(4) A (3) bekezdés a) és e) pontjában meghatározott eljárásokban, valamint az alap- és mesterképzés, felsőoktatási szakképzés indítása esetén a (3) bekezdés c) pontja szerinti eljárásban az oktatási hivatal köteles beszerezni a MAB szakvéleményét. Az oktatási hivatal mesterképzés indítása esetén a (3) bekezdés c) pontja szerinti, valamint a (3) bekezdés e) pontjában meghatározott eljárásban megfogalmazott MAB szakértői véleményéhez kötve van.
 
-(4a) A MAB a szakértői véleményét a (3) bekezdés a), c) és e) pontjában, valamint a 8. § (2) bekezdésében szabályozott eljárásokban a felsőoktatási minőségbiztosítás európai sztenderdjeinek (Standards and Guidelines in the European Higher Education Area, a továbbiakban: ESG) figyelembe vételével hozza meg. Az oktatási hivatal határozatában ismertetni kell a MAB ESG-nek való megfelelésről hozott szakértői megállapítását.
+(4a) A MAB a szakértői véleményét a (3) bekezdés a), c) és e) pontjában, valamint a 8. § (2) bekezdésében szabályozott eljárásokban a felsőoktatási minőségbiztosítás európai sztenderdjeinek (Standards and Guidelines in the European Higher Education Area, a továbbiakban: ESG) figyelembe vételével alakítja ki. Az oktatási hivatal határozatában ismertetni kell a MAB ESG-nek való megfelelésről hozott szakértői megállapítását.
 
 (4b) A (3) bekezdés e) pontjában meghatározott eljárásokban, valamint az alap- és mesterképzés, felsőoktatási szakképzés indítása esetén a (3) bekezdés c) pontja szerinti eljárásban a felsőoktatási intézmény kezdeményezheti, hogy a (4) bekezdésben megjelölt szakértő helyett a felsőoktatási intézmény által javasolt, az Európai Felsőoktatási Minőségbiztosítási Szövetség (European Association for Quality Assurance in Higher Education) teljes jogú tagjaként működő és az Európai Felsőoktatási Minőségbiztosítási Regiszterbe (European Quality Assurance Register for Higher Education) bejegyzett szervezet felkérésére kerüljön sor. Ebben az esetben az oktatási hivatal a MAB szakvéleménye helyett – a (4) bekezdésben meghatározott feltételek mellett – a felkért szervezet szakértői véleményét szerzi be azzal, hogy az azonos tárgy vagy személy tekintetében egy eljárás keretében szükséges újabb, ugyanazon szervezet által adott szakvélemény elkészítésében nem vehet részt az a személy, aki az eljárás korábbi részében szakértőként már részt vett.
 
@@ -1587,7 +1588,7 @@ kapcsolatos ügyekben.
 - f)
 - g)
 
-(5a) Amennyiben az oktatási hivatalnak felsőoktatási szakképzés, alap- és mesterképzés, doktori képzés indítására, valamint doktori iskola létesítésére irányuló eljárásban a MAB szakértői véleményét kell beszereznie, az ügyintézési határidő a szakértői vélemény beérkezését követő napon indul.
+(5a) Ha az oktatási hivatalnak felsőoktatási szakképzés, alap- és mesterképzés, doktori képzés indítására, valamint doktori iskola létesítésére irányuló eljárásban a MAB szakértői véleményét kell beszereznie, az ügyintézési határidő a szakértői vélemény beérkezését követő napon indul.
 
 (6) A közösségi felsőoktatási képzési központ működésének felülvizsgálatára és a diákotthon működési feltételeinek felülvizsgálatára az (5) bekezdés b) pontjában foglalt határidőt kell alkalmazni.
 
@@ -1966,11 +1967,11 @@ nyújtott támogatás.
 
 (8) A (2) bekezdésben meghatározott jogcímek – az a) és f) pontban meghatározott jogcímek kivételével – nem jelentenek felhasználási kötöttséget.
 
-84/A. § (1) A központi költségvetés a felsőoktatási intézmény 2. § (1) bekezdése szerinti alaptevékenységének biztosítását szolgáló támogatás nyújtásával járul hozzá a felsőoktatási intézmény működéséhez. A felsőoktatási intézmény alaptevékenységének támogatása az oktatási tevékenység támogatásából, a tudományos kutatási, művészeti alkotótevékenység támogatásából, valamint az ezekhez igazodó mértékű fenntartási, üzemeltetési tevékenység támogatásából áll.
+84/A. § (1) A központi költségvetés a felsőoktatási intézmény 2. § (1) bekezdése szerinti alaptevékenységének biztosítását szolgáló támogatás nyújtásával járul hozzá a felsőoktatási intézmény működéséhez.
 
-(1a) Az oktatási tevékenység támogatása elsődlegesen a (2) bekezdés szerinti megállapodásokban vállalt hallgatói létszámhoz, míg a tudományos kutatási, művészeti alkotótevékenység támogatása elsődlegesen az oktatók, kutatók létszámához és a (2) bekezdés szerinti megállapodásokban vállalt teljesítményhez igazodik.
+(1a)
 
-(2) A 84. § (2) és (4) bekezdésében felsorolt feladatok támogatásának alapvető elveit és biztosítékait, valamint az együttműködés rendjét az állam képviseletében a miniszter és a fenntartó – állami felsőoktatási intézmény esetén az állam képviseletében a miniszter és a felsőoktatási intézmény – hosszú távú, legalább tizenöt, legfeljebb huszonöt év időtartamra szóló keretmegállapodásban rögzítik, amelynek hatálya alatt kötelesek három-öt év időtartamra szóló részletes feladatfinanszírozási megállapodásban megállapítani az alaptevékenység vállalt volumenét, indikátorrendszerét, a támogatás mindezekhez igazodó mértékét és a szükséges részletszabályokat. A feladatfinanszírozási megállapodás megkötése során a miniszter a megállapodás időtartamára a 114/N. § (2) és (3) bekezdésében meghatározottak szerint vállalhat éven túli kötelezettséget. A költségvetési évek tervezése során az e bekezdésben foglalt megállapodások teljesítéséhez szükséges forrást biztosítani kell.
+(2)
 
 (3) Az állami fenntartású felsőoktatási intézmény által fenntartott köznevelési intézmény támogatását a felsőoktatási intézmény költségvetésében elkülönítve kell megtervezni. A köznevelési feladatok ellátására az egyedi feladatok támogatása körében további támogatás biztosítható.
 
@@ -2855,7 +2856,7 @@ e törvény szerint kell megállapítani a hallgatói juttatásokat.
 
 (2) E törvénynek – a Módtv3.-mal megállapított – 84. § (2) bekezdés c) és d) pontját, 84. § (3) bekezdését, 84/A. § (1), (1a) és (2) bekezdését, 94. § (3) bekezdését, 117/C. § (11) bekezdését 2021. szeptember 1-jétől kell alkalmazni.
 
-(3) E törvénynek – a Módtv3.-mal megállapított – 84/A. §-át a közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény tekintetében 2021. szeptember 1-jétől olyan módon kell alkalmazni, hogy az adott felsőoktatási intézményre tekintettel évente biztosított költségvetési hozzájárulásnak az összes felsőoktatási intézmény számára biztosított költségvetési hozzájárulás éves összegéhez viszonyított aránya nem lehet kevesebb, mint az 2020/2021-es tanévben az adott felsőoktatási intézményre tekintettel megállapított költségvetési hozzájárulásnak az összes felsőoktatási intézmény részére biztosított költségvetési hozzájáruláshoz viszonyított aránya.
+(3)
 
 (4) E törvénynek – a Módtv3.-mal megállapított – 92. § (1a)–(1c) bekezdését a Módtv2. hatálybalépésekor már létrejött támogatási jogviszonyok esetében is alkalmazni kell.
 

@@ -2376,13 +2376,13 @@ vehető nyilvántartásba.
 
 (2) A kérelmet a határozat, illetve a végzés jogerőre emelkedésétől számított harminc napon belül lehet előterjeszteni. Méltányossági kérelmet egy alkalommal lehet előterjeszteni.
 
-(3) A méltányossági kérelem elbírálása – a bíróság által kiszabott büntetés kivételével – a szabálysértési szabályozásért felelős miniszter hatáskörébe tartozik.
+(3) A méltányossági jogkör gyakorlása – a (4) bekezdésben foglalt kivétellel – a szabálysértési szabályozásért felelős miniszter hatáskörébe tartozik.
 
-(4) Ha az elkövetővel szemben a bíróság szabálysértési elzárás büntetést, közérdekű munkát vagy pénzbírságot szabott ki – ide nem értve a pénzbírság helyébe lépő szabálysértési elzárást –, a méltányossági jogkört a köztársasági elnök gyakorolja.
+(4) Ha az elkövetővel szemben a bíróság szabálysértési elzárás büntetést – ide nem értve a pénzbírság helyébe lépő szabálysértési elzárást –, közérdekű munkát vagy pénzbírságot szabott ki, vagy a büntetéssel egyidejűleg intézkedést is alkalmazott, a méltányossági jogkört a köztársasági elnök gyakorolja.
 
 (5) A méltányossági kérelmet az ügyben érdemi határozatot hozó bíróságnál, vagy a határozatot hozó szabálysértési hatóságnál kell előterjeszteni, amely a kérelmet az ügy irataival együtt soron kívül felterjeszti a szabálysértési szabályozásért felelős miniszterhez.
 
-(5a) Ha a méltányossági kérelem elbírálásához szükséges, úgy a méltányossági kérelmet elbíráló szerv, illetve a köztársasági elnök által gyakorolt elbírálás esetén az előkészítést végző szerv a kérelem alátámasztását igazoló iratokat beszerzi, valamint a személyi körülmények tisztázásához szükséges adatok feltárására az elkövető lakóhelye, tartózkodási helye szerinti helyi önkormányzat jegyzőjét kérheti fel.
+(5a) Ha a méltányossági kérelem elbírálásához szükséges, úgy a méltányossági kérelmet elbíráló szerv, illetve a köztársasági elnök által gyakorolt méltányossági jogkör esetén az előkészítést végző szerv a kérelem alátámasztását igazoló iratokat beszerzi, valamint a személyi körülmények tisztázásához szükséges adatok feltárására az elkövető lakóhelye, tartózkodási helye szerinti helyi önkormányzat jegyzőjét kérheti fel.
 
 (5b) A már végrehajtott büntetés vagy intézkedés utólagos elengedése iránt méltányossági kérelem nem nyújtható be.
 

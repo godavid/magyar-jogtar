@@ -1573,7 +1573,7 @@ terjedhet.
 
 (5)
 
-(6) Az állami tulajdonban lévő országos közutak vagyonkezelője – a 29. § (1) bekezdésében foglaltak, valamint a koncessziós társaságok kezelésében álló közutak kivételével – a Magyar Közút Nonprofit Zrt., amely a vagyonkezelői feladatokat közfeladatként látja el.
+(6) Az állami tulajdonban lévő országos közutak vagyonkezelője – a 29. § (1) bekezdésében foglaltak, valamint a koncessziós társaságok kezelésében álló közutak kivételével – a Magyar Közút Nonprofit Zrt., amely a vagyonkezelői feladatokat – ideértve a vagyonkezelésében álló vagyonelemek hasznosítását is – állami feladatként, közfeladatként látja el.
 
 32/A. § (1) A koncessziós társaságok kezelésében álló közúti hírközlő hálózatok kivételével a közúti hírközlő hálózat vagyonkezelője az MVM NET Távközlési Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: MVM NET Zrt.). A vagyonkezelői jog létesítése ingyenes, azzal, hogy az MVM NET Zrt. az MNV Zrt.-vel, mint tulajdonosi joggyakorlóval megkötendő vagyonkezelési szerződésben foglaltak szerint vagyonkezelési díj megfizetésére köteles. Az MVM NET Zrt. által fizetendő vagyonkezelési díj a (6) bekezdés szerinti hasznosításból származó bevétel öt százaléka.
 

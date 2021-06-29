@@ -67,7 +67,7 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
   - wa) költségvetési szerv egészségügyi szolgáltató esetén az alapító okiratban irányító szervként megjelölt állami szerv, helyi önkormányzat vagy önkormányzati társulás,
   - wb) egyházi jogi személy vagy vallási egyesület által fenntartott egészségügyi szolgáltató esetében az egészségügyi szolgáltató alapító okiratában fenntartóként megjelölt ilyen jogalany,
   - wc) alapítványi, közalapítványi egészségügyi szolgáltató esetén az alapítvány, közalapítvány,
-  - wd) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 97. § (1) bekezdés a), b) és c) pontja szerinti esetben az egészségügyi felsőoktatási intézmény,
+  - wd) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (1) bekezdés a) és b) pontja szerinti esetben az egészségügyi felsőoktatási intézmény,
   - we) más szervezet esetén a tulajdonosi jogokat gyakorló szervezet;
 - x) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
 - y) egészségügyi tevékenység: az egészségügyi szolgáltatás részét képező minden tevékenység, kivéve azon tevékenységeket, amelyek végzéséhez nem szükséges
@@ -381,7 +381,7 @@ nyilatkozatára is alkalmazni kell.
 
 (10) A (9) bekezdés szerinti esetben csak azoknak az egészségügyi adatoknak a megismerése lehetséges, amelyek a (9) bekezdés a) pontja szerinti okkal közvetlenül összefüggésbe hozhatók. Az egészségügyi adatokra vonatkozó tájékoztatást a beteg kezelőorvosa, illetve az egészségügyi szolgáltató orvosszakmai vezetője adja meg, az orvosi tájékoztatásra vonatkozó előírásoknak megfelelően, – szükség esetén – a kérelmező kezelőorvosával való szakmai konzultáció alapján.
 
-(11) A beteg halála esetén törvényes képviselője, közeli hozzátartozója, valamint örököse – írásos kérelme alapján – jogosult a halál okával összefüggő vagy összefüggésbe hozható, továbbá a halál bekövetkezését megelőző gyógykezeléssel kapcsolatos egészségügyi adatokat megismerni, az egészségügyi dokumentációba betekinteni, valamint azokról kivonatot, másolatot készíteni vagy saját költségére másolatot kapni.
+(11) A beteg halála esetén törvényes képviselője, közeli hozzátartozója, valamint örököse – írásos kérelme alapján – jogosult a halál okával összefüggő vagy összefüggésbe hozható, továbbá a halál bekövetkezését megelőző gyógykezeléssel kapcsolatos egészségügyi adatokat megismerni, az egészségügyi dokumentációba betekinteni, valamint azokról kivonatot, másolatot készíteni, illetve – első alkalommal térítésmentesen, valamint – minden további másolat tekintetében – az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény szerint meghatározott módon a saját költségére másolatot kapni.
 
 (12) Az egészségügyi adatok kezelésének és védelmének részletes szabályait az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény állapítja meg.
 
@@ -1407,7 +1407,7 @@ beutalása alapján vehető igénybe.
 
 101. § (1) Orvostechnikai eszköz akkor hozható forgalomba, illetve az egészségügyi ellátás során akkor használható fel, ha a vonatkozó uniós jogi aktusban, illetve az egészségügyért felelős miniszter rendeletében meghatározott követelményeket kielégíti.
 
-(2)
+(2) Az (EU) 2017/745 rendelet 101. cikke és az (EU) 2017/746 rendelet 96. cikk szerinti illetékes hatósági feladatokat az egészségügyi államigazgatási szerv látja el.
 
 101/A. § Az orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapcsolatos egyes eljárásokért – ideértve a szakhatósági eljárásokat is – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
@@ -2227,7 +2227,7 @@ feltéve, hogy a beteget más orvoshoz irányítja.
 137. § Az egészségügyi szolgáltató
 
 - a) több résztevékenységből álló, összefüggő ellátási folyamat végén vagy fekvőbeteg-gyógyintézeti ellátást követően az ellátás adatait összefoglaló zárójelentést,
-- b) miniszteri rendeletben meghatározott járóbeteg-szakellátási tevékenység befejezésekor, a beteg ellátásával és gyógykezelésével kapcsolatos összefoglaló adatokat tartalmazó ambuláns ellátási lapot készít és – a 14. § (1) bekezdésében foglalt eset kivételével – azt a betegnek átadja.
+- b) járóbeteg-szakellátási tevékenység befejezésekor, a beteg ellátásával és gyógykezelésével kapcsolatos összefoglaló adatokat tartalmazó ambuláns ellátási lapot készít és – a 14. § (1) bekezdésében foglalt eset kivételével – azt a betegnek átadja.
 
 ### Titoktartási kötelezettség
 
@@ -2633,11 +2633,13 @@ A b)–k) pont szerinti jogkörök a szakmai fenntartói jogok részét képezik
 
 (3) A kutatásengedélyezési eljárás ügyintézési határideje ötvenöt nap, az ETT és az ETT bizottsága szakhatósági eljárásának az ügyintézési határideje ötven nap.
 
+(3a) A (3) bekezdésben foglaltak az orvostechnikai eszközökkel végzett klinikai vizsgálatok engedélyezésére nem alkalmazandók.
+
 (4) A közigazgatási ügyben eljáró bíróság a kutatásengedélyezési ügyben hozott döntést nem változtathatja meg.
 
 (5) A kutatásengedélyezési ügyben hozott döntés ellen indított közigazgatási perre a Fővárosi Törvényszék kizárólagosan illetékes.
 
-159. § (1) Kutatás cselekvőképes személyen kizárólag diagnosztikus, terápiás, megelőzési és rehabilitációs eljárások tökéletesítése, új eljárások kidolgozása, valamint a betegségek kóroktanának és patogenezisének jobb megértése, valamint az orvostechnikai eszközök hatékonyságával, teljesítőképességével kapcsolatos klinikai adat gyűjtése céljából, a kutatás jellegének, kockázatainak megfelelő szakmai feltételekkel rendelkező egészségügyi szolgáltatónál, a következő feltételek együttes fennállása esetén végezhető:
+159. § (1) Kutatás cselekvőképes személyen kizárólag diagnosztikus, terápiás, megelőzési és rehabilitációs eljárások tökéletesítése, új eljárások kidolgozása, valamint a betegségek kóroktanának és patogenezisének jobb megértése, valamint – ha az (EU) 2017/745 rendelet eltérően nem rendelkezik – az orvostechnikai eszközök hatékonyságával, teljesítőképességével kapcsolatos klinikai adat gyűjtése céljából, a kutatás jellegének, kockázatainak megfelelő szakmai feltételekkel rendelkező egészségügyi szolgáltatónál, a következő feltételek együttes fennállása esetén végezhető:
 
 - a) a kutatási tervet engedélyezték,
 - b) a kutatást megelőző vizsgálatok igazolják az alkalmazott tényezők hatásosságát és biztonságosságát,
@@ -2675,9 +2677,11 @@ A b)–k) pont szerinti jogkörök a szakmai fenntartói jogok részét képezik
 - a) az elsőfokú eljárásban az ETT – orvosokból, az orvostudományi kutatás területén jártas, más tudományágak elismert képviselőiből, egészségügyi szakdolgozókból, és laikus tagokból álló – bizottságának, részbizottságának a szakmai-etikai szakkérdésekben kiadott szakhatósági állásfoglalása alapján, vagy
 - b) a jogszabályban meghatározott esetekben és az ott meghatározottak szerint, az erre a célra létrehozott – orvosokból, az orvostudományi kutatás területén jártas, más tudományágak elismert képviselőiből, egészségügyi szakdolgozókból, és laikus tagokból álló – független bizottság szakértői véleményének kikérésével az egészségügyi államigazgatási szerv engedélyezi.
 
-(7) Az orvostechnikai eszközök klinikai vizsgálatának engedélyezését – az ETT bizottságának a szakmai-etikai szakkérdésekben kiadott szakhatósági állásfoglalása alapján – az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv végzi. A gyártó III. osztályba tartozó, valamint a II.a vagy II.b osztályba tartozó beültethető, tartós használatú invazív orvostechnikai eszköz esetén a klinikai vizsgálatot megkezdheti, ha a hatóság a klinikai vizsgálat engedélyezésére irányuló kérelem beérkezését követő naptól számított ötvenöt nap napon belül a kérelmet nem utasítja el.
+(7) Orvostechnikai eszközök klinikai vizsgálatának minősülő orvostudományi kutatás – az (1)–(6) bekezdésben foglaltaktól eltérően – az (EU) 2017/745 rendeletben meghatározott feltételek fennállása esetén végezhető. Az orvostechnikai eszközök klinikai vizsgálatának engedélyezését – az ETT bizottságának a szakmai-etikai szakkérdésekben kiadott, az (EU) 2017/745 rendelet 62. cikk (4) bekezdés b) pontja szerinti szakvéleménye alapján – az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv végzi.
 
 160. § Sürgős szükség esetén, ha a kutatás alanyának, vagy a 16. § (1)–(2) bekezdések szerinti személynek a beleegyezése nem szerezhető meg, kizárólag a sürgős szükségben nyújtott ellátásra vonatkozó, a kutatás alanyának egészségét várhatóan közvetlenül szolgáló és előzetesen engedélyezett kutatási terven alapuló kutatás végezhető, feltéve, hogy a kutatás hasonló eredményességgel a sürgős szükségben lévő személy kutatásba történő bevonása nélkül nem végezhető el.
+
+160/A. § Orvostechnikai eszközzel végzett klinikai vizsgálat sürgős szükség esetén – a 160. §-ban foglaltaktól eltérően – az (EU) 2017/745 rendelet 68. cikkében meghatározott feltételek fennállása esetén végezhető.
 
 161. § (1) Állapotos vagy szoptató nő kizárólag akkor lehet kutatás alanya, ha az saját vagy gyermeke, illetőleg a hasonló életszakaszban lévő nők és gyermekek egészségét közvetlenül szolgálja, és nem áll rendelkezésre olyan eljárás, amelynek révén nem állapotos vagy szoptatós nőn is hasonlóan eredményes kutatás folytatható.
 
@@ -2691,11 +2695,26 @@ A b)–k) pont szerinti jogkörök a szakmai fenntartói jogok részét képezik
 
 163. § A kutatás során az alany érdeke mindig megelőzi a tudomány és a társadalom érdekeit; ezért a kutatás alanyát érintő kockázatot a lehető legkisebb mértékűre kell korlátozni.
 
-164. § (1) Amennyiben a szakmai szabályoknak, valamint a kutatási tervnek megfelelően végzett kutatás során a kutatás alanya kárt szenved vagy meghal, őt, illetve az általa eltartott hozzátartozóját az állam kártalanítja.
+164. § (1) Ha a szakmai szabályoknak, valamint a kutatási tervnek megfelelően végzett kutatás során a kutatás alanya kárt szenved vagy meghal, őt, illetve az általa eltartott hozzátartozóját az állam kártalanítja.
 
-(2) A kutatást végző egészségügyi szolgáltatónak a kártérítés és sérelemdíj fedezetére a kutatási tevékenység megkezdését megelőzően a kutatásokra vonatkozó, a kockázatoknak megfelelő felelősségbiztosítási szerződéssel kell rendelkeznie. A vizsgálati készítménnyel végzett klinikai vizsgálatok esetén a külön törvényben előírt felelősségbiztosítással kell rendelkezni.
+(2) A kutatást végző egészségügyi szolgáltatónak a kártérítés és a sérelemdíj fedezetére a kutatási tevékenység megkezdését megelőzően a kutatásokra vonatkozó, a kockázatoknak megfelelő felelősségbiztosítási szerződéssel kell rendelkeznie.
 
-164/A. § (1) A külön jogszabály szerinti beavatkozással nem járó vizsgálat a 157. és 158. §, a 159. § (2) bekezdése, a 161. § (1) és (2) bekezdése, a 162. és 163. §, továbbá a 164. § (1) bekezdése alapján végezhető. Utólagos, beavatkozással nem járó (retrospektív) vizsgálat esetén a kutatási alany tájékoztatására és a vizsgálatba való beleegyezésére vonatkozóan az egészségügyért felelős miniszter eltérő szabályokat határozhat meg.
+(3) A vizsgálati készítménnyel végzett klinikai vizsgálatok esetén a törvényben előírt felelősségbiztosítással kell rendelkezni. A vizsgálati készítmény klinikai vizsgálata során, illetve annak következményeként természetes személy által szenvedett egészségkárosodás esetén a sérelmet szenvedett személy, illetve halála esetén a Ptk. szerinti hozzátartozója részére fizetendő kártérítésre és sérelemdíjra vonatkozó rendelkezéseket törvény határozza meg.
+
+(4) Az orvostechnikai eszközökkel végzett klinikai vizsgálatok során a vizsgálati alany által elszenvedett kár vonatkozásában az (EU) 2017/745 rendelet 2. cikk 49. pontja szerinti megbízó (e § alkalmazásában a továbbiakban: megbízó) és a klinikai vizsgálatot végző egészségügyi szolgáltató a kártérítés és sérelemdíj fedezetére kötendő felelősségbiztosításra vonatkozó rendelkezéseket az e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg.
+
+(5) Ha az orvostechnikai eszköz klinikai vizsgálata során, illetve annak következményeként bármely természetes személy egészségkárosodást szenved, a sérelmet szenvedett személy, illetve halála esetén a Ptk. szerinti hozzátartozója részére
+
+- a) a klinikai vizsgálatot engedélyező hatóság által jóváhagyott vizsgálati terv szerint végzett vizsgálat esetén a megbízó,
+- b) ha a halál, megrokkanás vagy súlyos egészségkárosodás a vizsgálatot kezdeményező által ismert, de a klinikai vizsgálatot engedélyező hatóságnak be nem nyújtott adat eltitkolásának következménye, a megbízó,
+- c) ha a halál, megrokkanás vagy súlyos egészségkárosodás a klinikai vizsgálatot engedélyező hatóság előírásának következménye, az engedélyező hatóság,
+- d) a klinikai vizsgálatot engedélyező hatóság által jóváhagyott vizsgálati tervtől való eltérés esetén – ha az egészségkárosodás ennek következményeként következik be – a vizsgálóhely
+
+sérelemdíjat, valamint – a halállal, megrokkanással, illetve egészségkárosodással összefüggésben bekövetkezett vagyoni károk esetén – kártérítést fizet.
+
+(6) Az (1) bekezdés alkalmazásában eltartott hozzátartozón azt a személyt kell érteni, akinek a tartásáról a sérelmet, illetve vagyoni kárt szenvedett személy jogszabály vagy szerződés alapján gondoskodni köteles.
+
+164/A. § (1) A jogszabály szerinti beavatkozással nem járó vizsgálat a 157. § és a 158. §, a 159. § (2) bekezdése, a 161. § (1) és (2) bekezdése, a 162. és 163. §, továbbá a 164. § (1) bekezdése alapján végezhető, azzal az eltéréssel, hogy az orvostechnikai eszközzel végzett, jogszabályban meghatározott beavatkozással nem járó vizsgálat az(EU) 2017/745 rendelet szerinti illetékes hatóságként kijelölt szerv részére – az ETT bizottságának a szakmai-etikai szakkérdésekben kiadott, az (EU) 2017/745 rendelet 62. cikk (4) bekezdés b) pontja szerinti szakvéleményének birtokában – megtett bejelentés alapján végezhető. Utólagos, beavatkozással nem járó vizsgálat esetén a kutatási alany tájékoztatására és a vizsgálatba való beleegyezésére vonatkozóan az egészségügyért felelős miniszter eltérő szabályokat határozhat meg.
 
 (2) A (3) és (5) bekezdésben nem említett beavatkozással nem járó vizsgálat esetében a szakmai-etikai engedélyről az emberen végzett orvostudományi kutatásokról szóló kormányrendelet szerinti kutatás-etikai bizottság a kérelem megérkezését követő naptól számított negyvenöt napon belül dönt. A döntés ellen fellebbezésnek van helye, a másodfokú eljárást az ETT elnöksége folytatja le.
 
@@ -2706,7 +2725,7 @@ A b)–k) pont szerinti jogkörök a szakmai fenntartói jogok részét képezik
 
 (4) Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvény szerinti beavatkozással nem járó vizsgálatok engedélyezése során született határozattal szemben fellebbezésnek helye nincs.
 
-(5) Az orvostechnikai eszközökkel végzett beavatkozással nem járó vizsgálat megkezdéséhez hatósági engedély szükséges, amelynek kiadásáról a kérelem benyújtásától számított hatvan napon belül az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv dönt.
+(5) Az orvostechnikai eszközökkel végzett beavatkozással nem járó vizsgálat megkezdéséhez az (1) bekezdés szerinti bejelentés szükséges, amelynek megtörténtéről a bejelentés benyújtásától számított hatvan napon belül az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv igazolást állít ki.
 
 (6) Kiemelt járványügyi érdekből az adott járvánnyal összefüggő beavatkozással nem járó vizsgálatnak minősülő orvostudományi kutatásba (a továbbiakban: kutatás) bevonni kívánt cselekvőképes személy telekommunikációs eszköz útján is tájékoztatható a 159. § (3) bekezdésében foglaltakról.
 
@@ -2716,7 +2735,7 @@ A b)–k) pont szerinti jogkörök a szakmai fenntartói jogok részét képezik
 
 (9) A (6)–(8) bekezdés alkalmazásában telekommunikációs eszköz minden olyan eszköz, amely alkalmas a tájékoztatás, illetve a nyilatkozat utólag ellenőrizhető módon történő megtételére, így különösen a hangfelvétel rögzítésére alkalmas eszköz.
 
-164/B. § Az orvostudományi kutatás, valamint a 164/A. § szerinti beavatkozással nem járó vizsgálat engedélyezési eljárásáért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
+164/B. § Az orvostudományi kutatás, valamint a 164/A. § szerinti beavatkozással nem járó vizsgálat engedélyezési, illetve bejelentési eljárásáért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
 
 164/C. § (1) A jogszabály szerinti beavatkozással nem járó vizsgálat és engedélyezés utáni gyógyszerbiztonsági vizsgálat esetében az engedélyt nem lehet megadni abban az esetben sem, ha a vizsgálatról megállapítható, hogy a vizsgálat végzése a a gyógyszer vagy orvostechnikai eszköz alkalmazására ösztönöz.
 
@@ -2764,7 +2783,7 @@ alkalmazható.
 
 (4) Egyedülálló nő esetében a reprodukciós eljárás akkor végezhető el, amennyiben a nő életkora vagy egészségi állapota (meddőség) következtében gyermeket természetes úton nagy valószínűséggel nem vállalhat. A reprodukciós eljárás megkezdésére, a tájékoztatásra, a beleegyező nyilatkozatra e fejezet rendelkezései megfelelően irányadók. A reprodukciós eljárás során testen kívül létrejött és be nem ültetett embrióval kapcsolatos, e fejezet szerinti rendelkezési jogot az egyedülálló nő gyakorolja azzal, hogy rendelkezési jogáról közokiratban vagy teljes bizonyító erejű magánokiratban lemondhat.
 
-(5) Reprodukciós eljárás megfelelő szakorvosi javaslatra az eljárás lefolytatására kiadott működési engedély alapján jogosult egészségügyi szolgáltatónál végezhető.
+(5) Reprodukciós eljárás megfelelő szakorvosi javaslatra, az eljárás végzésére működési engedéllyel rendelkező, a 169. § (2) bekezdésében meghatározott egészségügyi szolgáltatónál végezhető.
 
 168. § (1) Reprodukciós eljárás – egyedülállóvá vált nő esetén annak folytatása – a házastársak, illetőleg élettársak együttes, illetve – a 167. § (2) bekezdése szerinti kizáró nyilatkozat hiányában, valamint a letétbe helyezett embrióval kapcsolatos rendelkezési jog keretei között – az egyedülállóvá vált nő írásbeli kérelmére — végezhető. A kérelmet teljes bizonyító erejű magánokiratba kell foglalni. Az élettársi kapcsolat fennállásáról az élettársak közokiratban nyilatkoznak.
 
@@ -2786,9 +2805,18 @@ alkalmazható.
 
 (6) A 171. § (4) bekezdésében meghatározott módon történő női ivarsejt-adományozás esetén a felajánlás és az adományozó nyilatkozat megtételét megelőzően a beavatkozást végző orvos, illetőleg orvoscsoport tagja, valamint egy, a beavatkozásban részt nem vevő orvos az adományozót szóban és írásban tájékoztatja a beavatkozást megelőzően az adományozót érintő kezelésekről, a beavatkozás jellegéről, kockázatairól, körülményeiről és az adományozásra vonatkozó jogszabályi rendelkezésekről. A tájékoztatásra az e törvényben foglalt általános szabályok is megfelelően irányadók.
 
-169. § (1) A reprodukciós eljárások végzésére jogosult egészségügyi szolgáltatók működésének szakmai feltételeit, az egyes beavatkozások alapjául szolgáló egészségügyi indikációk körét, és az egészségügyi beavatkozások végzésének részletes szakmai szabályait a miniszter rendeletben határozza meg.
+169. § (1) Az állam felelőssége az egészségügyi szakellátási kötelezettség részeként a reprodukciós eljárások ellátásáról történő gondoskodás, ennek keretében ezen ellátásoknak a társadalombiztosítást meghatározó jogszabályokban foglaltak szerinti biztosítása.
 
-(2) Reprodukciós eljárások végzésére működési engedély kizárólag olyan egészségügyi szolgáltató részére adható, amely egyidejűleg megfelel az ivarsejtek, valamint az embriók fagyasztva tárolására vonatkozó, jogszabályban meghatározott szakmai feltételeknek is.
+(2) Reprodukciós eljárások végzésére működési engedéllyel rendelkező
+
+- a) állami fenntartású egészségügyi szolgáltató, valamint
+- b) az egységes állami egészségügyi irányítás részét képező, a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény szerinti klinikai központ
+
+jogosult.
+
+(3) A (2) bekezdés szerinti egészségügyi szolgáltató által végezhető reprodukciós eljárások körét, a jogosult egészségügyi szolgáltatók működésének szakmai feltételeit, az egyes beavatkozások alapjául szolgáló egészségügyi indikációk körét, valamint az egészségügyi beavatkozások végzésének részletes szakmai szabályait a miniszter rendeletben határozza meg.
+
+(4) A (2) bekezdés szerinti egészségügyi szolgáltató, valamint klinikai központ e szolgáltatás keretében közreműködőként állami fenntartású egészségügyi szolgáltatót, valamint az egységes állami egészségügyi irányítás részét képező, a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény szerinti klinikai központot vehet igénybe.
 
 ### Ivarsejt-adományozás és -letét
 
@@ -3403,7 +3431,7 @@ megítéléséhez szükséges.
 - a) büntetlen előéletű,
 - b) nem áll egészségügyi tevékenységet kizáró foglalkozástól eltiltás alatt,
 - c) nem áll büntetőeljárás hatálya alatt, a magánvádas és a pótmagánvádas eljárást kivéve,
-- d) megfelel a halottvizsgálati szaktanácsadókról, valamint a halottvizsgálati szaktanácsadói névjegyzékről szóló miniszteri rendeletben meghatározott egyéb feltételeknek.
+- d) megfelel a halottvizsgálati szaktanácsadókról, valamint a halottvizsgálati szaktanácsadói névjegyzékről szóló kormányrendeletben meghatározott egyéb feltételeknek.
 
 (12) A (11) bekezdés a)–c) pontjaiban szereplő adatokat a névjegyzékbe felvételét kérő a 31/A. § szerint igazolja.
 
@@ -3864,15 +3892,48 @@ céljából lehet külföldre, illetve külföldről Magyarország területére 
 
 (7) A felsőoktatási intézmény az R. rendelkezései szerint a szakképzésben szakgyakorlati idejüket töltő személyeknek a szakképzésben történő részvételéről vagy a szakképzés szüneteltetésének tényéről minden év június 30-ig és december 31-ig elektronikus úton tájékoztatja az egészségügyi államigazgatási szervet.
 
-(8)
+(8) E törvénynek az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvénnyel (a továbbiakban: Módtv2.) módosított 167. § (5) bekezdésében és 169. §-ában foglaltakat 2022. július 1-jétől kell alkalmazni.
 
-(9)
+(9) E törvénynek a Módtv2.-vel megállapított 169. § (2) bekezdése szerinti feltételnek meg nem felelő egészségügyi szolgáltatónak (a továbbiakban: átadó szolgáltató) a reprodukciós eljárások végzésére vonatkozó működési engedélye hatályát veszti 2022. június 30. napján.
 
-(10)
+(10) A miniszter 2021. szeptember 30-áig
 
-(11)
+- a) állapítja meg a 169. § (1) bekezdésében meghatározott szakellátási kötelezettség folyamatos ellátása érdekében a közfinanszírozott feladatot, és
+- b) jelöli ki az átadó szolgáltató által nyújtott nem közfinanszírozott szolgáltatások tekintetében a 169. § (2) bekezdésének megfelelő egészségügyi szolgáltatót (a továbbiakban: átvevő szolgáltató),
 
-244/B. §
+amelyről az átadó és az átvevő szolgáltatót valamint az egészségügyi államigazgatási szervet tájékoztatja.
+
+(11) 2021. szeptember 30-át követően reprodukciós eljárás végzésére irányuló új, az érintett személynél meg nem kezdett meddőségkezelési beavatkozást célzó szerződést a 169. § (2) bekezdése szerinti kijelölt szolgáltató köthet. 2021. szeptember 30-át követően a 169. § (2) bekezdésének meg nem felelő egészségügyi szolgáltatónál új reprodukciós eljárás, további meddőségkezelési célú önálló új beavatkozás nem kezdhető meg.
+
+(12) Az egészségügyi államigazgatási szerv hivatalból eljár az átadó szolgáltató reprodukciós eljárások végzésére vonatkozó működési engedélye visszavonása, az átvevő szolgáltató reprodukciós eljárások végzésére vonatkozó működési engedélyének kiadása, módosítása, valamint a szakellátási kapacitások módosítása érdekében.
+
+(13) Az egészségbiztosítási szerv a működési engedély kézhezvételétől számított három napon belül kezdeményezi az átvevő szolgáltató finanszírozási szerződésének 2022. július 1-jei hatállyal történő módosítását, illetve új finanszírozási szerződés 2022. június 30-ai hatállyal történő megkötését.
+
+(14) Az átadó szolgáltató a (10) bekezdés alapján kijelölt átvevő szolgáltató részére a nála folyamatban lévő vagy későbbi reprodukciós eljárás céljából tárolt ivarsejteket és embriókat úgy adja át, hogy ennek során mind az átadó szolgáltatónak, mind az átvevő szolgáltatónak maradéktalanul biztosítania kell a későbbi egészséges magzati fejlődés feltételeit a tárolásra vonatkozó szakmai szabályok folyamatos és teljes körű érvényesítésével.
+
+(15) Az átvevő szolgáltató az átvételkor az átadónál folyamatban lévő reprodukciós eljárásokat átvenni köteles és a társadalombiztosítás keretében, a már nyújtott ellátásokra is figyelemmel, az ellátás finanszírozására irányadó jogszabályban meghatározott feltételek szerint végzi el. Az átvett, a társadalombiztosítás keretében igénybe nem vehető ellátások nyújtására a beteg és az átadó szolgáltató közötti szerződésben foglaltakat kell alkalmazni azzal, hogy a szolgáltatások megtérítése tekintetében az átvevő szolgáltató térítési szabályzatában foglaltak irányadók. A beteg ellátásokhoz történő hozzáférése, a részére nyújtott szolgáltatások szakmai tartalma és fizetendő térítési díj tekintetében nem kerülhet hátrányosabb helyzetbe az átadást követően.
+
+(16) A beteg a (10) bekezdés szerint kijelölt átvevő szolgáltató helyett más, a 169. § (2) bekezdésében meghatározott egészségügyi szolgáltatót is választhat reprodukciós eljárás – ennek keretében külön az embrióletét – igénybevételére. Az átvevő egészségügyi szolgáltató jogai és kötelezettségei ebben az esetben a választott egészségügyi szolgáltatót jogosítják és kötelezik.
+
+(17) A (15) bekezdés szerinti, reprodukciós eljárás igénybevételére vonatkozó szerződésből eredő minden jog és kötelezettség tekintetében az átvevő szolgáltató jogutódja az átadó szolgáltatónak.
+
+(18) Az átadó, valamint az átvevő szolgáltató a (10) bekezdés szerinti kijelölés közlését követően 8 napon belül külön-külön írásban tájékoztatják az érintett beteget
+
+- a) a vonatkozó jogszabályváltozásokról,
+- b) az átadó szolgáltatónál a további ellátásra való jogosultság megszűnéséről,
+- c) az átvevő szolgáltató kijelöléséről,
+- d) a szolgáltatóváltással kapcsolatos egyéb jogairól és kötelezettségeiről, ennek keretében arról, hogy átadó, az átvételre kijelölt és a választott egészségügyi szolgáltatóhoz címzett egybehangzó nyilatkozattal a kijelölt szolgáltató helyett más, a 169. § (2) bekezdése szerinti feltételeknek megfelelő egészségügyi szolgáltatót is választhat továbbá az átadott és átvett embrió egészséges fejlődését biztosító, a (14) bekezdés szerinti intézkedések módjáról.
+
+(19) Az az egészségügyi szolgáltató, amelynek reprodukciós eljárás végzésére jogosító működési engedélye a (9) bekezdés alapján hatályát veszti, állami kártalanításra jogosult. A kártalanítás mértéke megegyezik az egészségügyi szolgáltató működési engedélyének hatályvesztését megelőző öt üzleti év – amennyiben működését később kezdte meg az adott évek – állami átvétellel érintett gazdasági tevékenységéből származó, mérleg szerinti eredménye átlagának összegével. A kártalanítás mértékét a nemzeti vagyon kezeléséért felelős miniszter állapítja meg.
+
+244/B. § (1) E törvénynek a Módtv2.-vel megállapított, és módosított 158. § (3a) bekezdését, 159. § (1) és (7) bekezdését, 160/A. §-át, 164/A. § (1) és (5) bekezdését és 164/B. §-át, valamint az e törvény felhatalmazása alapján az orvostudományi kutatásokra és orvostechnikai eszközökkel végzett klinikai vizsgálatokra vonatkozó jogszabályoknak az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet ésaz 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet alkalmazásának megkezdésére figyelemmel megállapított, illetve módosított rendelkezéseit – az (EU) 2017/745 rendelet 120. cikk (11) bekezdésére figyelemmel – azon
+
+- a) orvostechnikai eszközzel végzett klinikai vizsgálatokra kell alkalmazni, amelyek engedélyezése iránt a kérelmet a Módtv2. hatálybalépését követően nyújtották be,
+- b) orvostechnikai eszközzel végzett, beavatkozással nem járó vizsgálatokra kell alkalmazni, amelyeket a Módtv2. hatálybalépését követően jelentettek be.
+
+(2) A súlyos nemkívánatos eseményeket és az eszközhibákat azon vizsgálatok esetében is az (EU) 2017/745 rendelet, valamint az annak végrehajtását szolgáló jogszabályi rendelkezések szerint kell bejelenteni, amelyek engedélyezése iránt a kérelmet a Módtv2. hatálybalépését megelőzően nyújtották be.
+
+(3) A 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló 2015. október 2-i (EU) 2016/161 felhatalmazáson alapuló bizottsági rendelet előírásait – Európai Unió kötelező jogi aktusa vagy jogszabály eltérő rendelkezése hiányában – valamennyi, e törvény szerinti egészségügyi szolgáltatónak be kell tartania.
 
 244/C. §
 
@@ -3964,7 +4025,10 @@ rendeletben kijelölje.
 - n) a nem az Etv. 28. §-a szerinti tagállamban egészségügyi felsőfokú szakirányú szakmai képzés során megszerzett képesítést tanúsító oklevelek, bizonyítványok elismerése során eljáró hatóságot,
 - o) az alapnyilvántartást vezető szervet, az egészségügyi szakértői nyilvántartást vezető szervet, valamint a szakértői tevékenységgel kapcsolatos hatósági eljárás részletes szabályait és a működési nyilvántartást vezető szervet,
 - p) a humán reprodukciós eljárásokkal kapcsolatos, kötelezően nyilvánosságra hozandó eredményességi adatok, statisztikák körét, a nyilvánosságra hozatal módját és helyét, továbbá az ellenőrzés módját,
-- q) a halottvizsgálatra, a halottakkal kapcsolatos orvosi eljárásra, a nem természetes halál esetén ellátandó feladatokra, a kórbonctani vizsgálatra, a hatósági és igazságügyi orvosi boncolásra, a holttest szállítására, tárolására, az ehhez kapcsolódó költségek viselésére, a halottvizsgálati szaktanácsadói névjegyzéket vezető egészségügyi államigazgatási szerv kijelölésére, a kihantolásra, valamint a holttest helyreállítására és átadására vonatkozó szabályokat,
+- q) a halottvizsgálatra, a halottakkal kapcsolatos orvosi eljárásra, a nem természetes halál esetén ellátandó feladatokra, a kórbonctani vizsgálatra, a hatósági és igazságügyi orvosi boncolásra, a holttest szállítására, tárolására, az ehhez kapcsolódó költségek viselésére, a halottvizsgálati szaktanácsadói névjegyzéket vezető egészségügyi államigazgatási szerv kijelölésére, a kihantolásra, valamint a holttest helyreállítására és átadására vonatkozó szabályokat, továbbá a halottvizsgálati szaktanácsadói névjegyzékkel összefüggésben
+  - qa) szaktanácsadói névjegyzékbe történő felvételre, valamint az ahhoz szükséges képesítési és szakmai feltételekre és a névjegyzékből való törlésre vonatkozó szabályokat,
+  - qb) a halottvizsgálati szaktanácsadó igénybe vételének, a szaktanácsadói tevékenység folytatásának részletes feltételeit, a szaktanácsadói ügyeleti rendszer részletes szabályait,
+  - qc) a halottvizsgálati szaktanácsadó részére fizetendő díjat és a díj megállapítására vonatkozó részletes szabályokat,
 - r) a sürgős szükség esetén külön jogszabályban meghatározott ellátások költségeinek behajtására és finanszírozására irányuló eljárási szabályokat,
 - s) a holttest szállításának (beleértve a szállítójármű telephelyről ki- és visszaállását, a holttest szállítójárműbe történő behelyezését és kivételét, valamint szállítás alatti hűtését is) legmagasabb árát,
 - t) a természetes fürdővizek minőségellenőrzéséhez szükséges mintavételi és laboratóriumi vizsgálati tevékenységre vonatkozó követelményeket, az engedély kiadásával, illetve bejelentés megtételével összefüggő eljárás részletes szabályait,
@@ -3973,7 +4037,8 @@ rendeletben kijelölje.
 - w) a holttest hűtésének naponkénti legmagasabb árát,
 - x) az egészségségre ártalmas szintet elérő hő- és hideghullámok, napsugárzás idején szükséges tájékoztatási és riasztási szintet, az egészségre ártalmas szintet elérő hő- és hideghullámok esetén bevezetendő intézkedések körét és tartalmát, továbbá az országos szintű hőségriasztásra vonatkozó részletes szabályokat,
 - y) a hagyományos kínai gyógyászat területén oklevéllel rendelkező személy által végzett egészségügyi tevékenység engedélyezésére vonatkozó részletes szabályokat,
-- z) a természetes gyógytényezőkkel kapcsolatos hatósági eljárásra vonatkozó részletes szabályokat
+- z) a természetes gyógytényezőkre, gyógyhelyekre, fürdő- és klímagyógyintézetekre vonatkozó részletes szabályokat és a kapcsolódó hatósági eljárásra vonatkozó szabályokat,
+- zs) a közhasználatú fürdő létesítésére, üzemeltetésére, ellenőrzésére, a fürdővízzel érintkező anyagokra vonatkozó részletes szakmai előírásokat, a fürdési célú létesítmények vízminőségének ellenőrzéséhez szükséges mintavételi és laboratóriumi vizsgálati tevékenységre vonatkozó követelményeket, továbbá az üzemeltetéshez szükséges képesítési előírásokat
 
 rendeletben megállapítsa.
 
@@ -4056,7 +4121,7 @@ rendeletben megállapítsa.
 - u) az egységes ágazati humánerőforrás-monitoringrendszer működésének, valamint a humánerőforrás-monitoringrendszer részére átadásra kerülő egyes adatok körét, illetve a humánerőforrás-monitoringrendszerből történő adatszolgáltatás részletes szabályait,
 - v) az orvosi bélyegzők adattartalmára, kérelmezésére, kiállítására, cseréjére, pótlására, visszavonására és használatára, valamint – az adópolitikáért felelős miniszterrel egyetértésben – az ezzel kapcsolatos igazgatási szolgáltatási díjakra vonatkozó szabályokat,
 - w) az Állami Egészségügyi Tartalékkal való gazdálkodás részletes szabályait, valamint
-- x) a természetes gyógytényezőkre vonatkozó részletes szabályokat,
+- x)
 - y) a pszichiátriai betegekre vonatkozó korlátozó intézkedések alkalmazására, az időszakos ellenőrzésre, a gondoskodásra, ezek dokumentálására, valamint az elrendelés időtartamára vonatkozó részletes szabályokat,
 - z) az egészségügyi szolgáltatóknál végezhető egészségügyi ellátások nyilvántartására és a nyilvántartásba vételére vonatkozó szabályokat,
 - zs) a közúti járművezetői engedély megszerzéséhez szükséges elsősegély-nyújtási ismeretek megszerzésének részletes szabályait, továbbá a gépjárművezetők egészségi alkalmassága elbírálásának szabályait
@@ -4069,20 +4134,16 @@ rendeletben állapítsa meg.
   - aa) elkészítésének, egyeztetésének, elfogadásának, módosításának eljárási szabályait,
   - ab) tartalmi követelményeire vonatkozó részletes szabályokat,
 - b) az egészségfejlesztési programok akkreditációs eljárásának szabályait,
-- c) a közfürdők létesítésére, üzemeltetésére, valamint a közfürdők és kútjaik védőterületére vonatkozó részletes szakmai előírásokat, továbbá az üzemeltetéshez szükséges képesítési előírásokat,
+- c)
 - d) az egészségügyi kockázattal járó egyes nem egészségügyi tevékenységek egészségügyi kockázatának csökkentésére irányuló szakmai szabályokat,
 - e) a gyermekágyas és az újszülöttellátás szabályait
 - f) az egészségügyi szakdolgozó által, orvosi elrendelésre önállóan is ellátható tevékenységek felelősségi, szakmai, szakképesítési és szakképzettségi feltételeit,
 - g) az egészségügyi tevékenységet e törvény alapján felügyelet mellett végzők felügyeletének módjával, illetve a felügyelet szintjével kapcsolatos szabályokat,
-- h) a halottvizsgálati szaktanácsadói névjegyzékkel összefüggésben
-  - ha) az igazságügyért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadói névjegyzékbe történő felvételre, valamint az ahhoz szükséges képesítési és szakmai feltételekre és a névjegyzékből való törlésre vonatkozó szabályokat,
-  - hb) az igazságügyért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadó igénybe vételének, a szaktanácsadói tevékenység folytatásának részletes feltételeit, a szaktanácsadói ügyeleti rendszer részletes szabályait,
-  - hc) az adópolitikáért felelős miniszterrel egyetértésben a névjegyzékbe-vételi eljárás igazgatási szolgáltatási díjának összegére, befizetésére, visszafizetésére és nyilvántartására vonatkozó részletes szabályokat,
-  - hd) az igazságügyért felelős miniszterrel és az államháztartásért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadó részére fizetendő díjat és a díj megállapítására vonatkozó részletes szabályokat,
+- h) a halottvizsgálati szaktanácsadói névjegyzékkel összefüggésben az adópolitikáért felelős miniszterrel egyetértésben és a közigazgatás-szervezésért felelős miniszterrel egyetértésben a névjegyzékbe vételi eljárás igazgatási szolgáltatási díjának összegére, befizetésére, visszafizetésére és nyilvántartására vonatkozó részletes szabályokat,
 - i) a Szoptatást Támogató Nemzeti Bizottság működésére vonatkozó szabályokat,
 - j) a rendezvénybiztosítás és a helyszínbiztosítás részletes szakmai szabályait, valamint ezen szolgáltatásokért – ideértve a mentési terv jóváhagyását is – fizetendő térítési díj mértékét, valamint a mentési terv elkészítéséért fizetendő térítési díjnál figyelembe veendő körülményeket, szempontokat és a megfizetésre vonatkozó rendelkezéseket,
 - k) a Központi Implantátumregiszter működésére vonatkozó részletes szabályokat és a 101/C. § (1) bekezdése szerinti nyilvántartási kötelezettség alól – a 101/C. § (1) bekezdésében meghatározott egyes adatok vagy valamennyi adat tekintetében – mentesülő implantátumok körét,
-- l) a 137. § b) pontja szerinti azon járóbeteg-szakellátási tevékenységeket, amelyek befejezésekor ambuláns ellátási lapot kell kiállítani, valamint az ambuláns ellátási lap tartalmával kapcsolatos szabályokat
+- l)
 - m) a sugárszennyezett vagy arra gyanús személy egészségügyi ellátásának, valamint a sugárszennyezett személy elkülönítésének részletes szabályait,
 - n) egyes, környezeti eredetű kórokozók által a lakosságra nézve fertőzési kockázatot jelentő közegek és létesítmények vonatkozásában
   - na) a fertőzés kockázatának csökkentésére és megelőzésére irányuló közegészségügyi előírásokat,
@@ -4091,6 +4152,7 @@ rendeletben állapítsa meg.
 - p) az állami és nem állami szervezetek hazai és nemzetközi egészségügyi segítségnyújtásra vonatkozó szabályokat, valamint az ilyen tevékenységet végzők nyilvántartására és felkészítésére vonatkozó szabályokat,
 - q) a prehospitális gyógyszeralkalmazás szabályait,
 - r) az állami fenntartásban működő országos gyógyintézetek típusait és körét és az országos gyógyintézetek működésére vonatkozó speciális szabályokat
+- s) az orvosi fizikus szakértői tevékenység folytatásához szükséges továbbképzésre vonatkozó szabályokat,
 
 rendeletben állapítsa meg.
 
@@ -4122,6 +4184,8 @@ fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a d
 - f) a miniszter, hogy – a rendészetért felelős miniszterrel egyetértésben – a rendőri intézkedések kapcsán szükségessé váló, az intézkedéstaktikába épített elsősegélynyújtás képzések részletes tematikáját, az oktatásra jogosultak körét, az oktatásban részt vevők kompetenciáit;
 - g) a miniszter, hogy – a rendészetért felelős miniszterrel egyetértésben – a halálos tömegszerencsétlenségek áldozatainak nemzetközi szervezetek szabványai szerinti azonosítására irányuló szervezett tevékenységben részt vevők körét, oktatását, feladatrendszerét, riasztási rendjét, tevékenységét, felszerelését, az együttműködés rendjét, a működtetés és a tevékenység részletes szabályait;
 - h) a miniszter, hogy a terrorizmus elleni küzdelemért felelős miniszterrel egyetértésben az egészségügyi intézmények terrorveszély idején ellátandó feladatait, működési és jelentési rendjét, a terrorizmus elleni védelmével kapcsolatos intézkedések körét és az erre való felkészülés részletes szabályait
+- i) a büntetés-végrehajtásért felelős miniszter, hogy – a miniszterrel és az igazságügyért felelős miniszterrel egyetértésben – a büntetés-végrehajtási intézetekben fogvatartottak élelmezési szakmai és táplálkozás-egészségügyi követelményeire vonatkozó szabályokat,
+- j) az állami vagyon felügyeletéért felelős miniszter, hogy a 244/A. § (19) bekezdés szerinti kártalanítás mértékét
 
 rendeletben állapítsa meg.
 
@@ -4146,5 +4210,6 @@ rendeletben állapítsa meg.
 - a) az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet,
 - b) a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló, 2015. október 2-i (EU) 2016/161 bizottsági felhatalmazáson alapuló rendelet,
 - c) az orvostechnikai eszközökről szóló (EU) 2017/745 rendeletnek a benne foglalt bizonyos rendelkezések alkalmazási időpontja tekintetében történő módosításáról szóló, 2020. április 23-i (EU) 2020/561 európai parlamenti és tanácsi rendelet
+- d) az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló 2017. április 5-i (EU) 2017/746 parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.

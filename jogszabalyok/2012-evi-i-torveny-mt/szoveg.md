@@ -1051,7 +1051,7 @@ foglalkoztatott munkavállaló esetében.
 
 (3) A munkaidőkeret tartama, ha ezt objektív vagy műszaki vagy munkaszervezéssel kapcsolatos okok indokolják, kollektív szerződés rendelkezése szerint legfeljebb harminchat hónap.
 
-(4) A kollektív szerződés felmondása vagy megszűnése a már elrendelt munkaidőkeret alapján történő foglalkoztatást nem érinti.
+(4) A kollektív szerződés megszűnése a már elrendelt munkaidőkeret alapján történő foglalkoztatást a kollektív szerződés megszűnését követő legfeljebb három hónapig nem érinti.
 
 #### 49. Eljárás a munkaviszony munkaidőkeret lejárta előtti megszűnése esetén
 
