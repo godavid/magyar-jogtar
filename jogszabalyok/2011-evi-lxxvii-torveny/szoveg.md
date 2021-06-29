@@ -107,6 +107,8 @@ nyilvánítható.
 
 6/A. § (1) A világörökségi helyszínen található ingatlan tekintetében – ide nem értve a lakhatás céljára szolgáló rendeltetés szerinti jellegű épületet (különösen: lakás, lakóház), valamint a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földet – a magyar államot – más jogosultakat megelőzően – elővásárlási jog illeti meg.
 
+(1a) Az (1) bekezdéstől eltérően a magyar államot elővásárlási jog illeti meg az ingatlan-nyilvántartásban kivett lakóház fő rendeltetési jellegű, valamint a 200 négyzetmétert meghaladó alapterületű, lakás rendeltetésű azon ingatlan vonatkozásában, amely a Budapest – a Duna-partok, a Budai Várnegyed és az Andrássy út világörökségi helyszínen található.
+
 (2) A magyar állam elővásárlási jogát
 
 - a) a természetvédelemért felelős miniszter gyakorolja, ha a világörökségi helyszín kiemelkedő egyetemes értékét a természet védelméről szóló jogszabályok alapján fennálló védettséggel összhangban állapították meg,

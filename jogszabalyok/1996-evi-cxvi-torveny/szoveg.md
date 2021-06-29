@@ -428,7 +428,7 @@ távolságon belüli terület.
 
 (5) Az atomenergia-felügyeleti szerv legalább 15 nappal a közmeghallgatás előtt a közmeghallgatás helyéről, időpontjáról és az eljárás tárgyáról
 
-- a) hirdetményt tesz közzé az atomenergia-felügyeleti szerv honlapján és hirdetőtábláján, valamint a hirdetmeny.magyarorszag.hu közigazgatási portálon,
+- a) hirdetményt tesz közzé az atomenergia-felügyeleti szerv honlapján és hirdetőtábláján, valamint a központi ügyintézési portálon,
 - b) értesíti az eljárásban közreműködő szakhatóságot.
 
 (6) A közmeghallgatáson elhangzottakról készült feljegyzés az Ákr.-ben meghatározottakon kívül

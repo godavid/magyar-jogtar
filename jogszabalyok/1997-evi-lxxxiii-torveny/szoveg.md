@@ -230,7 +230,7 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 
 15. § (1) A biztosított a 14. § rendelkezései szerint jogosult a magzat méhen belüli gyógykezelésére, továbbá szülészeti ellátásra és várandósságának orvosi indikáció alapján történő megszakítására. A biztosított jogszabály rendelkezése alapján jogosult anyatejellátásra.
 
-(2) A biztosított orvosi indikáció alapján jogszabályban meghatározott feltételekkel jogosult a meddőség kezelésére.
+(2) A biztosított orvosi indikáció alapján jogszabályban foglalt feltételekkel jogosult a meddőség kezelésére az egészségügyről szóló 1997. évi CLIV. törvény 169. § (2) bekezdésében meghatározott egészségügyi szolgáltatóknál.
 
 ### Orvosi rehabilitáció
 
@@ -753,7 +753,12 @@ igazolja.
 
 (7) Az (5)–(6) bekezdésben és a 31. § (5) bekezdés b)–d) pontjában foglaltakat nem kell alkalmazni az egyéni vállalkozói formában működő egészségügyi szolgáltatók esetében.
 
-30/A. § Az egészségbiztosító szerződést köthet a gyógyszer Gyftv. 36. § (1) bekezdése szerinti forgalomba hozatali engedélyének jogosultjával, a gyógyászati segédeszközt forgalomba hozóval, illetve a gyógyászati ellátást nyújtóval az árhoz nyújtott támogatással forgalmazható termék és ellátás áráról, mennyiségéről, minőségi követelményéről, illetve a felek által lényegesnek ítélt egyéb kérdésről.
+30/A. § Az egészségbiztosító szerződést köthet a gyógyszer Gyftv. 36. § (1) bekezdése szerinti forgalomba-hozatali engedélyének jogosultjával, illetve meghatalmazása alapján a gyógyszer forgalomba hozójával, a gyógyászati segédeszközt forgalomba hozóval, illetve a gyógyászati ellátást nyújtóval
+
+- a) az árhoz nyújtott támogatással forgalmazható termék és ellátás, és
+- b) a tételes elszámolás alá eső hatóanyagot tartalmazó gyógyszer
+
+áráról, mennyiségéről, minőségi követelményéről, illetve a felek által lényegesnek ítélt egyéb kérdésről.
 
 31. § (1) Az egészségügyi szolgáltatóval kötött finanszírozási szerződésben meg kell határozni
 
@@ -1935,6 +1940,12 @@ kell érteni.
 
 (15) A Módtv.-nyel megállapított 52/A. §-t, 55/A. §-t, valamint a 65. § (2) bekezdést a 2012. június 30-át követően bekövetkezett balesetek tekintetében kell alkalmazni.
 
+(16) E törvénynek az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvénnyel módosított 15. § (2) bekezdésében foglaltakat 2022. július 1-jétől kell alkalmazni.
+
+(17) Az egészségbiztosító meddőség kezelésére szolgáló egészségügyi szolgáltatások nyújtására az egészségügyről szóló 1997. évi CLIV. törvény 169. § (2) bekezdésének figyelembevételével köthet finanszírozási szerződést.
+
+(18) Az egészségbiztosító az egészségügyről szóló 1997. évi CLIV. törvény 169. § (2) bekezdésének nem megfelelő egészségügyi szolgáltató finanszírozási szerződését az egészségügyi államigazgatási szerv tájékoztatása alapján 2022. június 30-ával megszünteti. Ezen finanszírozási szerződés tekintetében az egészségbiztosító elszámolásra köteles.
+
 82/A. § (1) A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény és az egészségügyi szakellátási kötelezettségről, továbbá egyes egészségügyet érintő törvények módosításáról szóló 2001. évi XXXIV. törvény módosításáról szóló 2005. évi CLXXXII. törvény hatálybalépése nem érinti az annak hatálybalépése előtt szerv- vagy szövetátültetésre jogosító várólistára felkerült személyek szerv- vagy szövetátültetésre való jogosultságát.
 
 (2) Azt a személyt, akinek esetében ugyanazon szerv vagy szövet átültetése a Magyarországon elvégzett korábbi szerv- vagy szövetátültetést követően, a beültetett szerv vagy szövet kilökődése miatt indokolttá vált, arra tekintet nélkül kell felvenni a várólistára, hogy az érintett személy 2006. január 1-jétől az (1) bekezdésben meghatározott törvény alapján arra jogosult.
@@ -2073,6 +2084,8 @@ meghatározására.
 
 (2l) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyógyászati segédeszközök árához nyújtott támogatással igénybe vehető szolgáltatást nyújtók számára folyósítható előleg feltételeinek és folyósításának szabályait.
 
+(2m) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg az egészségbiztosítói ellenjegyzéssel kiszolgáltatható gyógyászati segédeszközökkel kapcsolatos egészségbiztosítói ellenjegyzés eljárási szabályait.
+
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg
 
 - a) a gyógyászati ellátások körét, az árukhoz nyújtott támogatás alapját és mértékét, valamint a támogatott gyógyászati segédeszközök körét funkcionális csoport vagy alcsoport szintig, az árukhoz nyújtott támogatás mértékét, az egyes funkcionális csoportokra vagy alcsoportokra megállapított támogatási módszert, a támogatási csoportra vonatkozó kihordási időket, a kihordási időre maximálisan felírható mennyiségeket, rendelhetőségi feltételeket,
@@ -2131,7 +2144,7 @@ vonatkozó szabályokat,
 - d) a gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásához kapcsolódó eljárás során alkalmazandó szakmai szempontrendszert és szakmapolitikai prioritásokat,
 - e) a háziorvosi indikátorrendszerre vonatkozó részletes szabályokat, az egyes indikátorok meghatározását, a háziorvosok gyógyító-megelőző tevékenységének értékelési módszerét és ennek alapjául szolgáló célértékeket,
 - f) az egészségügyi ellátás finanszírozásában használt kódrendszerek meghatározását és alkalmazásainak részletszabályait,
-- g) az egészségbiztosítói ellenjegyzéssel kiszolgáltatható gyógyászati segédeszközök körét, az egészségbiztosítói ellenjegyzés feltételeit és a mérlegelés szempontjait, valamint az ellenjegyzéssel kapcsolatos eljárási szabályokat,
+- g) az egészségbiztosítói ellenjegyzéssel kiszolgáltatható gyógyászati segédeszközök körét, az egészségbiztosítói ellenjegyzés feltételeit és a mérlegelés szempontjait,
 - h) a társadalombiztosítási támogatással javítható gyógyászati segédeszközök körét,
 - i) azoknak a gyógyászati segédeszközöknek a körét, amelyek esetében az egészségbiztosító méltányosságból a gyógyászati segédeszköz árához az egészségügyért felelős miniszter rendeletében meghatározott indikációtól és ahhoz tartozó kiegészítő feltételektől eltérően támogatást nyújthat,
 - j) a társadalombiztosítási támogatás alapját képező javítási díj számításánál figyelembeveendő rezsi óradíj összegét,
