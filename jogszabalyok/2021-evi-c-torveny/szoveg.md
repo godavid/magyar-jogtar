@@ -350,21 +350,11 @@ Az Országgyűlés annak érdekében, hogy elősegítse a tulajdonhoz, a vállal
 
 #### 51. Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény módosítása
 
-98. § Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény 32/C. § (1) bekezdés y) pontja a következő ye) alponttal egészül ki:
-
-(Tárgyánál fogva díjmentes:
-
-a kulturális örökségvédelmi jogi jellegek:)
-
-„ye) védett kulturális javak körébe tartozó tartozékok, alkotórészek”
-
-(ingatlan-nyilvántartási feljegyzése iránti hatósági eljárás;)
+98. §
 
 #### 52. A kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosítása
 
-99. § A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 72. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A 71. § (2) bekezdés a) pontja szerinti kulturális javak körébe tartozó tartozékok, alkotórészek esetében a védettség tényének ingatlan-nyilvántartásba történő feljegyzése iránt a hatóság intézkedik.”
+99. §
 
 #### 53. A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény módosítása
 
@@ -376,9 +366,7 @@ a kulturális örökségvédelmi jogi jellegek:)
 
 103. §
 
-104. § Az Fttv. 40. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A 11. § (1) bekezdés m)–o) pontja, a 13. § (2) bekezdése, valamint a 15. § (1) bekezdése 2023. február 1-jén lép hatályba.”
+104. §
 
 #### 54. A Polgári Törvénykönyvről szóló 2013. évi V. törvény módosítása
 
@@ -394,4 +382,4 @@ a kulturális örökségvédelmi jogi jellegek:)
 
 - a)
 - b)
-- c) 40. § (5) bekezdése.
+- c)
