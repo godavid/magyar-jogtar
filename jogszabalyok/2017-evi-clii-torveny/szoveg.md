@@ -139,6 +139,8 @@ az érdekelt vámszervek kötelesek egymás között azonnal, de legfeljebb 3 mu
 
 (1) A vámjogszabályok eltérő rendelkezése hiányában a vámigazgatási eljárás nyelve a magyar.
 
+(1a) Az (1) bekezdéstől eltérően a 952/2013/EU európai parlamenti és tanácsi rendeletnek az Uniós Vámkódex egyes rendelkezéseire vonatkozó részletes szabályok tekintetében történő kiegészítéséről szóló 2015. július 28-i (EU) 2015/2446. felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: FJA) 143a. cikke szerinti, a kis értékű szállítmányok szabad forgalomba bocsátására benyújtható vám-árunyilatkozaton az árumegnevezés megadható angol nyelven is.
+
 (2) Ha a vámhatóság nem magyar állampolgár, a magyar nyelvet nem ismerő ügyfél ügyében magyarországi tartózkodásának tartama alatt hivatalból indít azonnali eljárási cselekménnyel járó vámigazgatási eljárást, a vámhatóság gondoskodik arról, hogy az ügyfelet ne érje joghátrány a magyar nyelv ismeretének hiánya miatt.
 
 (3) A magyar nyelvet nem ismerő ügyfél – a fordítási és tolmácsolási költség előlegezése és viselése mellett – a (2) bekezdés hatálya alá nem tartozó esetekben is kérheti, hogy a vámhatóság bírálja el az anyanyelvén vagy valamely közvetítő nyelven megfogalmazott kérelmét.
@@ -473,6 +475,15 @@ Ha a Vámkódex 6. cikk (3) bekezdés a) pontja alapján az információcsere é
 (7) A vámtitkot képező, személyes adatnak nem minősülő egyedi adatok adatfeldolgozási technikával kezelhetők és továbbíthatók, ha az adatbiztonság feltételeinek a fogadó állam eleget tesz.
 
 (8) E § alkalmazásában a vámhatóság megkeresés esetén annak beérkezésétől számított 30 napon belül, hivatalból tájékoztatja a kereskedelemért felelős minisztert és a külgazdasági ügyekért felelős minisztert a vámpolitikai, kereskedelempolitikai elemzési célokból összesített adatokról.
+
+#### 29/A. § [Tájékoztatás vámtitokról és összesített adatokról]
+
+A Vámkódex 139. cikk (1) bekezdésében meghatározott kötelezettségek teljesítése céljából a vámhatóság megkeresésre tájékoztatja az Unió vámterületére beszállított áruk fuvarozásáért felelősséget viselő személyt
+
+- a) a vám-árunyilatkozat benyújtásának, vagy annak elmaradásának tényéről, vagy
+- b) a szabad forgalomba bocsátás tényéről,
+
+ha e személy az árukat a közös hozzáadottértékadó-rendszerről szóló 2006. november 28-i 2006/112/EK tanácsi irányelv XII. címének 7. fejezete szerinti különleges szabályokat alkalmazva kívánja vám elé állítani.
 
 #### 30. § [Egyedi adatkezelés]
 
@@ -952,7 +963,19 @@ céljából használható fel.
 
 #### 66. § [Határozat és végzés]
 
-(1) A vámhatóság az ügy érdemében határozatot hoz, az eljárás során felmerült minden más kérdésben végzést bocsát ki.
+(1) A vámhatóság az (1a) bekezdésben foglaltak kivételével az ügy érdemében határozatot hoz, Vámjegyet ad ki, továbbá az eljárás során felmerült minden más kérdésben végzést bocsát ki.
+
+(1a) Ha a közös hozzáadottértékadó-rendszerről szóló 2006. november 28-i 2006/112/EK tanácsi irányelv hatálya alá tartozó harmadik országból beszállított termékek tekintetében kezdeményezett szabad forgalomba bocsátás vámeljárás során
+
+- a) a küldemény szabad forgalomba bocsátása a vámmentességi rendelet 23–24. cikke alapján vámmentesen történik,
+- b) az általános forgalmi adó alanyának nem minősülő természetes személy a vám-árunyilatkozatot saját nevében és érdekében eljárva nyújtja be, és
+- c) az általános forgalmi adó alanyának nem minősülő természetes személy által benyújtott vám-árunyilatkozat alapján a vámhatóság a szabad forgalomba bocsátás vámeljárást az ügyfél által benyújtott vám-árunyilatkozatban foglaltakkal megegyezően folytatja le,
+
+akkor a vámhatóság a fizetendő általános forgalmi adó összegéről nem hoz határozatot.
+
+(1b) Az (1a) bekezdésben meghatározott feltételek teljesülése és az általános forgalmi adó megfizetése vagy biztosítása esetén a vámhatóság az áru átengedéséről elektronikus üzenetben értesíti a nyilatkozattevőt.
+
+(1c) Az (1a) bekezdést a vámmentességi rendelet 24. cikkében foglalt jövedéki termékektől eltérő más jövedéki termékekre nem lehet alkalmazni.
 
 (2) A határozatnak – a vámjogszabályok eltérő rendelkezése hiányában – tartalmaznia kell
 
@@ -2161,6 +2184,8 @@ A Vámkódex 92. cikk (1) bekezdése alapján a biztosítékot nyújtó személy
 
 (4) Az Azonnali Fizetési Rendszeren keresztül történő befizetések esetén közölt vámot és egyéb terheket a Magyar Államkincstár által küldött előzetes értesítés alapján biztosítottnak kell tekinteni és az áru átengedhető.
 
+(5) Ha az ügyfél a 66. § (1a) bekezdés szerinti szabad forgalomba bocsátás vámeljárás során közölt egyéb terheket az elektronikus fizetéseket és elszámolásokat biztosító alrendszeren keresztül, internetes felületen (VPOS) történő bankkártyás fizetéssel egyenlíti ki és a hitelintézet a fizetés sikeres teljesítését a vámhatóságnak visszaigazolja, akkor az egyéb terheket biztosítottnak kell tekinteni és az áru átengedhető.
+
 #### 152. § [Biztosíték garanciavállaló nyilatkozat és készfizető kezesi szerződés formájában]
 
 (1) A 150. § b) pontja szerinti garanciavállaló nyilatkozatra és a készfizető kezesi szerződésre vonatkozóan a Ptk. rendelkezéseit kell alkalmazni, ha az uniós vámjogszabályok másként nem rendelkeznek.
@@ -2271,6 +2296,10 @@ amelyet követően a biztosíték felszabadítása felől haladéktalanul intéz
 
 A Vámkódex 101. cikk (3) bekezdés harmadik albekezdése alkalmazásában a fizetendő behozatali vagy kiviteli vám összegét 100 forintra kerekítve kell megállapítani.
 
+#### 156/A. § [A vámmentességi rendelet 23–24. cikke alapján vámmentesen beszállított küldemények tekintetében kezdeményezett szabad forgalomba bocsátás eljárásban felmerült általános forgalmi adó összegének meghatározása]
+
+A vámmentességi rendelet 23–24. cikke alapján vámmentes vámeljárásban felmerült általános forgalmi adó összegét kerekítés nélkül, pontos összegben kell meghatározni.
+
 #### 43. A Vámkódex 102. cikkéhez
 
 #### 157. § [A vámtartozás közlése]
@@ -2280,6 +2309,19 @@ A Vámkódex 101. cikk (3) bekezdés harmadik albekezdése alkalmazásában a fi
 (2) Az adatfeldolgozási technika alkalmazásával benyújtott árunyilatkozatok esetében, ha a technikai feltételek adottak, a vámhatóság a vám és egyéb terhek összegét közlő határozatát elektronikus dokumentum formájában hozhatja meg. Az e bekezdésben meghatározott döntések kiadmányozása személy által felügyelt automatizált aláírással, elektronikus formában történik.
 
 (3) A vámhatóság az FJA 88. cikk (2) bekezdésében meghatározott esetben eltekint a vámtartozás közlésétől. Ebben az esetben a 2. § 6. ponttól eltérően nem keletkezik vámhiány.
+
+#### 157/A. § [A vámmentességi rendelet 23–24. cikke alapján vámmentesen beszállított küldemények tekintetében természetes személy által kezdeményezett szabad forgalomba bocsátás eljárásban felmerült általános forgalmi adó közlése]
+
+(1) A 66. § (1a) bekezdése szerinti szabad forgalomba bocsátás vámeljárásban felmerült általános forgalmi adó összegét a vámhatóság elektronikus értesítés formájában közli.
+
+(2) Az (1) bekezdés szerinti értesítés legalább az alábbi adatokat tartalmazza:
+
+- a) az iktatószámot,
+- b) a benyújtott vám-árunyilatkozat azonosítására vonatkozó adatokat,
+- c) a nyilatkozattevő egyedi azonosítására alkalmas adatait,
+- d) a kiszámított általános forgalmi adó összegét,
+- e) a vámhatóság bevételi számlaszámát és
+- f) a fizetési kötelezettséghez tartozó pénzügyi azonosító számot.
 
 #### 44. A Vámkódex 103. cikkéhez
 
@@ -2339,7 +2381,9 @@ Az egyéb terhek és a hitelkamat, a vámhatósági eljárások után fizetendő
 
 (4) Az állami adó- és vámhatóságnál nyilvántartott, vámhatósági jogkörben előírt kötelezettségre, de téves bevételi számlára, illetve nem azonosítható módon teljesített befizetést – ideértve a túlfizetést is – addig meg nem fizetettnek kell tekinteni, ameddig az adós a tartozást előíró vámhatóságtól a befizetés számlák közötti átvezetését, beazonosítását nem kéri, illetve a tétel hivatalból való beazonosítása meg nem történt, függetlenül attól, hogy a fizetés egyébként határidőben történt. Ez esetben a vámhatóság az adós rendelkezése alapján a számlák közötti átvezetésről, beazonosításról kamatmentesen intézkedik.
 
-(5) A vámhatóság által kiszabott, illetve visszautalandó, jogcímenként kis összegű, 10 EUR-nál vagy az ezzel megegyező, a 138. § (1) bekezdése szerinti árfolyamon átszámított forintösszegnél kevesebb egyéb terhek összegét – kivéve a jövedéki termék után kiszabott egyéb terheket – nem kell megfizetni, illetve visszafizetni. Az így meg nem fizetett összeget a vámigazgatási eljárás lezárásával egyidejűleg törölni kell, a vissza nem térítendő összeget pedig bevételként köteles elszámolni a vámhatóság. Nem kell megfizetni, illetve visszafizetni azt a tíz euró alatti, egyéb teher különbözetet, valamint visszafizetni azt a 10 EUR alatti vámtúlfizetést, amely az egy határozatban egy vagy több jogcímen kiszabott és megfizetett összeg különbségéből keletkezett. Az így keletkezett tartozást a vámhatóság utólag törli, a túlfizetést pedig köteles bevételként adónemenként belső bizonylattal előírni és elszámolni.
+(5) Az (5a) bekezdésben meghatározott kivétellel a vámhatóság által kiszabott, illetve visszautalandó, jogcímenként kis összegű, 10 EUR-nál vagy az ezzel megegyező, a 138. § (2) bekezdése szerinti árfolyamon átszámított forintösszegnél kevesebb egyéb terhek összegét – kivéve a jövedéki termék után kiszabott egyéb terheket – nem kell megfizetni, illetve visszafizetni. Az így meg nem fizetett összeget a vámigazgatási eljárás lezárásával egyidejűleg törölni kell, a vissza nem térítendő összeget pedig bevételként köteles elszámolni a vámhatóság. Nem kell megfizetni, illetve visszafizetni azt a 10 EUR alatti, egyéb teher különbözetet, valamint visszafizetni azt a 10 EUR alatti vámtúlfizetést, amely az egy határozatban egy vagy több jogcímen kiszabott és megfizetett összeg különbségéből keletkezett. Az így keletkezett tartozást a vámhatóság utólag törli, a túlfizetést pedig köteles bevételként adónemenként belső bizonylattal előírni és elszámolni.
+
+(5a) Az (5) bekezdésben foglaltakat a vámmentességi rendelet 23–24. cikke alapján szabad forgalomba bocsátás vámeljárásban a vámhatóság által kiszabott, illetve visszautalandó általános forgalmi adó tekintetében nem lehet alkalmazni.
 
 (6) A túlfizetésként vagy tartozatlan befizetésként nyilvántartott pénzösszeg visszafizetését az állami adó- és vámhatóság a kérelem benyújtásától számított 30 napon belül kamatmentesen teljesítheti.
 

@@ -35,8 +35,8 @@ Mindezekre tekintettel az Országgyűlés az igazságügyi szakértői tevékeny
 - 5. igazságügyi szakértői intézet: olyan állami szerv vagy egyetem szervezeti egységeként működő intézet, amely kizárólagosan, illetve törvényben vagy az alapszabályában meghatározott alaptevékenységén, így különösen tudományos, oktatói vagy kutatói tevékenységén kívül igazságügyi szakértői tevékenységet is végez,
 - 6. igazságügyi szakértői intézmény: a Kormány által jogszabályban alapított, az igazságügyért felelős miniszter (a továbbiakban: miniszter) által alapított, a miniszter és a Kormány más tagja által közösen alapított vagy a miniszterrel egyetértésben a Kormány más tagja által alapított központi költségvetési szerv, amelynek feladata jogszabályban meghatározott igazságügyi szakértői kirendelés teljesítése,
 - 7. igazságügyi szakértői testület: a miniszter rendeletében vagy más jogszabályban létrehozott, a létrehozó jogszabályban meghatározott szakkérdésben, bizottságként eljárva véleménynyilvánításra jogosult, jellemzően jogi személy,
-- 8. igazságügyi szakértői tevékenység: a jogszabályban meghatározott követelményeknek megfelelő igazságügyi szakértő, illetve az igazságügyi szakértő munkáját segítő egyéb személyek által, a kirendelő hatóság, bíróság, ügyészség, rendőrség (a továbbiakban együtt: hatóság) kirendelése vagy megbízás alapján, e törvény által meghatározott szervezeti keretek között, jellemzően szakértői díj ellenében végzett, a hatóság eljárásaiban különleges szakértelmet igénylő tény vagy egyéb körülmény megállapítását vagy megítélését elősegítő részcselekmények összessége, így különösen a szakvéleményhez szükséges vizsgálatok elvégzése, a szakvélemény előkészítése, elkészítése és előterjesztése, valamint a hatóság kérésére annak kiegészítése és az ezekkel összefüggő valamennyi részcselekmény,
-- 9. kirendelés: az igazságügyi szakértő eljárását megalapozó bírósági, közjegyzői, ügyészségi, rendőrségi vagy jogszabályban meghatározott más hatóság által meghozott döntés, amely minden esetben az igazságügyi szakértői tevékenység kifejtésére való felhívást tartalmazza, így különösen a polgári perrendtartásról szóló törvény vagy a közigazgatási perrendtartásról szóló törvény szerinti végzés, a büntetőeljárásról szóló törvény szerinti határozat, az általános közigazgatási rendtartásról szóló törvény szerinti végzés, valamint a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény szerinti határozat,
+- 8. igazságügyi szakértői tevékenység: a jogszabályban meghatározott követelményeknek megfelelő igazságügyi szakértő, illetve az igazságügyi szakértő munkáját segítő egyéb személyek által, a kirendelő hatóság, bíróság, ügyészség, rendőrség, közjegyző, bírósági végrehajtó (a továbbiakban együtt: hatóság) kirendelése vagy megbízás alapján, e törvény által meghatározott szervezeti keretek között, jellemzően szakértői díj ellenében végzett, a hatóság eljárásaiban különleges szakértelmet igénylő tény vagy egyéb körülmény megállapítását vagy megítélését elősegítő részcselekmények összessége, így különösen a szakvéleményhez szükséges vizsgálatok elvégzése, a szakvélemény előkészítése, elkészítése és előterjesztése, valamint a hatóság kérésére annak kiegészítése és az ezekkel összefüggő valamennyi részcselekmény,
+- 9. kirendelés: az igazságügyi szakértő eljárását megalapozó bírósági, közjegyzői, bírósági végrehajtói, ügyészségi, rendőrségi vagy jogszabályban meghatározott más hatóság által meghozott döntés, amely minden esetben az igazságügyi szakértői tevékenység kifejtésére való felhívást tartalmazza, így különösen a polgári perrendtartásról szóló törvény vagy a közigazgatási perrendtartásról szóló törvény szerinti végzés, a büntetőeljárásról szóló törvény szerinti határozat, az általános közigazgatási rendtartásról szóló törvény szerinti végzés, valamint a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény szerinti határozat,
 - 10. kompetenciavétség: az a fegyelmi vétség, amelyet az igazságügyi szakértő az igazságügyi szakértői szakterületekről, valamint az azokhoz kapcsolódó képesítési és egyéb szakmai feltételekről szóló rendeletben meghatározott rendelkezések megszegésével követ el,
 - 11. külön minősítéssel rendelkező igazságügyi szakértő: olyan igazságügyi szakértő, aki nemzetközi vagy hazai szakmai szervezet akkreditált minősítő testülete által létrehozott személyi szakmai minősítést szerzett, amely garantálja az adott szakterületen a kiemelkedő képzettséget és szakértelmet, illetve a szakmai tapasztalatot, a folyamatos szakmai fejlődést és függetlenséget,
 - 12. lelet: a szakvélemény részét képező tartalmi egység, amely a vizsgálat tárgyára, a vizsgálati eljárásokra és eszközökre, valamint a vizsgálat tárgyában bekövetkezett változásokra vonatkozó adatok összességét tartalmazza,
@@ -140,7 +140,7 @@ Mindezekre tekintettel az Országgyűlés az igazságügyi szakértői tevékeny
 
 9. § (1) A névjegyzékbe történő felvétel iránti kérelem tartalmára vonatkozó szabályokat a Kormány rendeletben állapítja meg. Kérelem csak a miniszter rendeletében szereplő szakterületre nyújtható be.
 
-(2) A névjegyzéket vezető hatóság a kérelemről értesíti a Kamarát. A Kamara az eljárásban véleményezőként vesz részt. A Kamara az értesítés kézhezvételétől számított tizenöt napon belül jelzi, ha tudomása van olyan tényről, ami akadálya a kérelmező felvételének.
+(2)
 
 (2a) A névjegyzéket vezető hatóság a hiánypótlásra legfeljebb harmincnapos határidőt állapíthat meg.
 
@@ -168,19 +168,19 @@ Mindezekre tekintettel az Országgyűlés az igazságügyi szakértői tevékeny
 
 11. § (1) Az igazságügyi szakértő 1. mellékletben meghatározott adatait és a tevékenységével kapcsolatos egyes tényeket a névjegyzék tartalmazza. A névjegyzék vezetésének és a névjegyzékkel összefüggő adatszolgáltatás szabályait a Kormány rendeletben állapítja meg.
 
-(2) Az (1) bekezdés szerinti névjegyzék – az 1. melléklet 1.1.–1.5., 1.7.–1.8., 1.11., 1.13., pontjában, 1.18.1. és 1.18.2. alpontjában, valamint 1.22. és 1.23. pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(2) Az (1) bekezdés szerinti névjegyzék – az 1. melléklet 1.1–1.6., 1.8–1.9., 1.13., 1.15., pontjában, 1.20.1. és 1.20.2. alpontjában, valamint 1.24. és 1.25. pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(3) Az 1. melléklet 1.12.1. és 1.12.3.–1.12.5. alpontja szerint nyilvántartott igazságügyi szakértőnek az 1. melléklet 1.1., 1.6.–1.9. pontjaiban, 1.10.1. alpontjában, 1.11. pontjában, 1.12.4. és 1.12.5. alpontjában, 1.13. pontjában, 1.17. pontjában, valamint 1.19.–1.22. és 1.23. pontjában foglalt adatai nyilvánosak, azokat az igazságügyi szakértői névjegyzéket vezető hatóság a kormányzati portálon közzéteszi.
+(3) Az 1. melléklet 1.14.1. és 1.14.3–1.14.5. alpontja szerint nyilvántartott igazságügyi szakértőnek az 1. melléklet 1.1., 1.7–1.11. pontjában, 1.12.1. alpontjában, 1.13. pontjában, 1.14.4. és 1.14.5. alpontjában, 1.15. pontjában, 1.19. pontjában, valamint 1.21–1.24. és 1.25. pontjában foglalt adatai nyilvánosak, azokat az igazságügyi szakértői névjegyzéket vezető hatóság a kormányzati portálon közzéteszi.
 
-(4) A névjegyzék (3) bekezdésben fel nem sorolt adatai nem nyilvánosak, azokról csak törvényben foglalt esetben, az arra jogosult részére adható tájékoztatás. A névjegyzéket vezető hatóság az 1. melléklet 1.10.2. és 1.10.3. alpontjában, valamint 1.15. pontjában foglalt adatok kivételével a nyilvántartás adatait a Kamara részére átadja, azokat a Kamara e törvény rendelkezései szerint nyilvántartja és kezeli.
+(4) A névjegyzék (3) bekezdésben fel nem sorolt adatai nem nyilvánosak, azokról csak törvényben foglalt esetben, az arra jogosult részére adható tájékoztatás. A névjegyzéket vezető hatóság az 1. melléklet 1.12.2. és 1.12.3. alpontjában, valamint 1.17. pontjában foglalt adatok kivételével a nyilvántartás adatait a Kamara részére átadja, azokat a Kamara e törvény rendelkezései szerint nyilvántartja és kezeli.
 
-(5) Az 1. melléklet 1.12.4., 1.12.5. és 1.18.2. alpontjában foglalt adatokat a Kamara, az 1.1.–1.8., 1.11. és 1.13. pontjában foglalt adatokat az igazságügyi szakértő, az 1.16. és 1.18.1. pontjában foglalt adatokat a hatóság köteles bejelenteni a névjegyzéket vezető hatóságnak. Az 1. melléklet 1.16. pontjában és 1.18.1. alpontjában foglalt adatokról a hatóság a névjegyzéket vezető hatóságot és a Kamarát is értesíteni köteles.
+(5) Az 1. melléklet 1.14.4., 1.14.5. és 1.20.2. alpontjában foglalt adatokat a Kamara, az 1.1–1.9., 1.13. és 1.15. pontjában foglalt adatokat az igazságügyi szakértő, az 1.18. pontjában és 1.20.1. alpontjában foglalt adatokat a hatóság köteles bejelenteni a névjegyzéket vezető hatóságnak. Az 1. melléklet 1.18. pontjában és 1.20.1. alpontjában foglalt adatokról a hatóság a névjegyzéket vezető hatóságot és a Kamarát is értesíteni köteles.
 
-(6) A névjegyzéket vezető hatóság az 1. melléklet 1.12.6. alpontja szerint nyilvántartott igazságügyi szakértő adatait és a vonatkozó tényeket tárolja, feldolgozza és jogos érdekének igazolása után, törvény által arra jogosított harmadik személy részére továbbítja. A névjegyzékből történő törlés időpontjától számított tíz év elteltével a névjegyzéket vezető hatóság gondoskodik az adatok törléséről.
+(6) A névjegyzéket vezető hatóság az 1. melléklet 1.14.6. alpontja szerint nyilvántartott igazságügyi szakértő 1. mellékletben meghatározott adatait és a vonatkozó tényeket a hatósági feladatainak ellátása, valamint a hatóságok igazságszolgáltatási feladatainak adatszolgáltatás nyújtásával történő elősegítése érdekében tárolja, feldolgozza és jogos érdekének igazolása után, törvény által arra jogosított harmadik személy részére továbbítja. A névjegyzékből történő törlés időpontjától számított húsz év elteltével a névjegyzéket vezető hatóság gondoskodik az adatok törléséről.
 
-(7) A névjegyzéket vezető hatóság az igazságügyi szakértő 1. melléklet 1.1.–1.4. pontjaiban és 1.6. pontjában szereplő adatait a hatóság megkeresésére, az igazságügyi szakértővel való kapcsolattartás újrafelvétele, az igazságügyi szakértő bírságolása vagy a bírság végrehajtása céljából átadja a hatóságnak.
+(7) A névjegyzéket vezető hatóság az igazságügyi szakértő 1. melléklet 1.1–1.5. pontjában és 1.7. pontjában szereplő adatait a hatóság megkeresésére, az igazságügyi szakértővel való kapcsolattartás újrafelvétele, az igazságügyi szakértő bírságolása vagy a bírság végrehajtása céljából átadja a hatóságnak.
 
-(8) Az igazságügyi szakértőnek az 1. mellékletben meghatározott adatait és a tevékenységével kapcsolatos egyes tényeket, valamint a 2. mellékletben meghatározott adatokat és körülményeket – a hatóságok munkájának és a megfelelő szakértő kiválasztásának elősegítése érdekében – az e célra létrehozott elektronikus felület (a továbbiakban: elektronikus felület) tartalmazza. Az elektronikus felület létrehozására és kezelésére vonatkozó részletes szabályokat a miniszter rendeletben állapítja meg.
+(8)
 
 #### 6. A szakterület kiterjesztése
 
@@ -194,7 +194,7 @@ Mindezekre tekintettel az Országgyűlés az igazságügyi szakértői tevékeny
 - b) a névjegyzékbe való felvétel feltételei – ide nem értve az 5. § (3) bekezdés a) pontjában meghatározott feltételt – már a felvételkor sem álltak fenn, vagy utóbb megszűntek, illetve az igazságügyi szakértő a szakértői esküt a 10. § (1) bekezdésében foglaltak szerint nem teszi le,
 - c) a névjegyzékben szereplő adatok változását, a Kormány rendeletében meghatározott módon, ismételt felhívásra, a jogkövetkezményekre történő írásbeli figyelmeztetés után nem jelenti be,
 - d) az igazságügyi szakértő hatósági kirendelésre történő szakvélemény nyújtásával egy évet elérő késedelembe esett,
-- e) az 5. § (2) bekezdés f) pontjában meghatározott kötelezettségének felhívás ellenére ismételten nem tesz eleget,
+- e) az 5. § (2) bekezdés f) pontjában meghatározott kötelezettségének ugyanazon eljárásban felhívás ellenére ismételten nem tesz eleget,
 - f) azon statisztikai adatokat, amelyeket e törvény alapján a Kamara részére szolgáltatni köteles, a naptári év tekintetében határidőben nem szolgáltatja,
 - g) az igazságügyi szakértő a naptári év első három negyedévében esedékes statisztikai adatszolgáltatást két éven belül három alkalommal elmulasztja, vagy az általa szolgáltatott adatok eltérnek a szakértő nyilvántartásában szereplő adatoktól,
 - h) az e törvény alapján fennálló képzési kötelezettségének határidőben nem tett eleget,
@@ -350,9 +350,11 @@ minősítést kap.
 
 (3) A névjegyzékbe való felvételről és a felvételi kérelem elutasításáról szóló döntésre a 9. § rendelkezéseit megfelelően alkalmazni kell.
 
-25. § (1) A társaságnak az 1. melléklet 2. pontjában meghatározott adatait a névjegyzék tartalmazza. A mellékletben meghatározott adatok a 2.8. alpont kivételével nyilvánosak és azokat a névjegyzéket vezető hatóság a kormányzati portálon közzéteszi. A névjegyzékkel összefüggő adatszolgáltatás szabályait a miniszter rendeletben állapítja meg.
+25. § (1) A társaságnak az 1. melléklet 2. pontjában meghatározott adatait a névjegyzék tartalmazza. A mellékletben meghatározott adatok nyilvánosak és azokat a névjegyzéket vezető hatóság a kormányzati portálon közzéteszi. A névjegyzékkel összefüggő adatszolgáltatás szabályait a miniszter rendeletben állapítja meg.
 
-(2) Az (1) bekezdés szerinti névjegyzék – az 1. melléklet 2.1.–2.3. pontjaiban és 2.5.–2.7. pontjaiban foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(2) Az (1) bekezdés szerinti névjegyzék – az 1. melléklet 2.1–2.6. pontjában és 2.8–2.9. pontjaiban foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+(3) A névjegyzéket vezető hatóság a névjegyzékből törölt társaság 1. melléklet 2. pontjában meghatározott adatait és a vonatkozó tényeket a hatósági feladatainak ellátása, valamint a hatóságok igazságszolgáltatási feladatainak adatszolgáltatás nyújtásával történő elősegítése érdekében tárolja. A társaság névjegyzékből történő törlésének időpontjától számított húsz év elteltével a névjegyzéket vezető hatóság gondoskodik az adatok törléséről.
 
 26. § A társaságot a névjegyzékből törölni kell, ha
 
@@ -360,7 +362,7 @@ minősítést kap.
 - b) a cégbíróság a cégjegyzékből – a 27. §-ban megjelölt eset kivételével – törli,
 - c) nincs a névjegyzékben szereplő tagja vagy alkalmazottja,
 - d) a névjegyzékben szereplő valamennyi tagjának és alkalmazottjának a kamarai tagsága szünetel, vagy fel van függesztve vagy
-- e) az 5. § (2) bekezdés f) pontjában meghatározott kötelezettségének felhívás ellenére ismételten nem tesz eleget.
+- e) az 5. § (2) bekezdés f) pontjában meghatározott kötelezettségének ugyanazon eljárásban felhívás ellenére ismételten nem tesz eleget.
 
 27. § Ha a társaság működési forma megváltoztatása vagy egyesülés útján szűnt meg, és a jogutód társaság a 23. § (1) bekezdésében foglalt feltételeknek megfelel, a névjegyzéket vezető hatóság a társaság kérelmére a jogutódlást a névjegyzékben átvezeti.
 
@@ -1801,7 +1803,7 @@ rendeletben határozza meg.
 - i) a szakértő eljárására, a szakvéleményre, a szakértői vizsgálatra és az egyes vizsgálattípusokra, a szakértői vizsgálathoz szükséges mintavételre és a vizsgálati tárgyak rendelkezésre bocsátására, a szakértői ügyvitelre vonatkozó szabályokat, a vizsgálati tárgy megváltozásával és megsemmisülésével járó vizsgálat elvégzéséhez szükséges előzetes hozzájárulásra vonatkozó szabályokat,
 - j) az igazságügyi szakértők értékelésére vonatkozó részletes szabályokat, valamint az igazságügyi szakértő által kért értékeléssel összefüggésben megfizetendő díjra vonatkozó szabályokat,
 - k) az igazságügyi szakértői és szakértőjelölti igazolványra vonatkozó részletes szabályokat,
-- l) az elektronikus felület létrehozására és kezelésére vonatkozó részletes szabályokat,
+- l)
 - m) az adópolitikáért felelős miniszterrel egyetértésben a kamarai tagság szünetelésének engedélyezése iránti eljárás és a szakértőjelölti igazolvány kiállítása iránti eljárás igazgatási szolgáltatási díjának összegére, befizetésére, visszatérítésére és nyilvántartására vonatkozó részletes szabályokat és
 - n) a szakértő statisztikai adatszolgáltatására vonatkozó szabályokat
 
@@ -2055,50 +2057,53 @@ való megfelelést szolgálja.
 
 - 1. Az igazságügyi szakértők névjegyzéke az igazságügyi szakértő következő adatait, és a szakértő tevékenységére vonatkozó tényeket tartalmazza:
 - 1.1. családi neve és utóneve(i);
-- 1.2. anyja születési neve;
-- 1.3. születési hely és idő;
-- 1.4. lakcím (postacím, telefon-, telefaxszám, e-mail);
-- 1.5. munkahely (postacím, telefon-, telefaxszám, e-mail);
-- 1.6. elérhetőségi cím (postacím, telefon-, telefaxszám, e-mail);
-- 1.7. nyelvismeret (nyelv, nyelvtudás foka);
-- 1.8. szakmai kamarai tagság;
-- 1.9. igazságügyi szakértői igazolvány száma;
-- 1.10. szakterület
-- 1.10.1. a névjegyzékbe bejegyzett szakterület és a bejegyzés időpontja,
-- 1.10.2. elutasított szakterület és az elutasítás időpontja,
-- 1.10.3. elbírálás alatt lévő szakterület;
-- 1.11. iskolai végzettség és szakmai képesítés, valamint nemzetközi vagy hazai szakmai minősítés;
-- 1.12. állapot
-- 1.12.1. névjegyzékbe felvett,
-- 1.12.2. névjegyzékbe történő felvétel folyamatban,
-- 1.12.3. névjegyzékbe bejegyzett, kiterjesztési kérelem folyamatban,
-- 1.12.4. névjegyzékbe bejegyzett, kamarai tagsági viszony szünetel,
-- 1.12.5. névjegyzékbe bejegyzett, kamarai tagsági viszony felfüggesztve,
-- 1.12.6. névjegyzékből törölt,
-- 1.12.7. elhunyt;
-- 1.13. tudományos fokozat;
-- 1.14. nyilvántartási szám;
-- 1.15. az igazgatási ügyiratok ügyszáma;
-- 1.16. az 55. § (2) bekezdése szerinti bejelentés ténye az ügyre történő utalással;
-- 1.17. az igazságügyi szakértő minősítése;
-- 1.18. a szakértő ellen
-- 1.18.1. közvádra üldözendő szándékos bűncselekmény miatt indult eljárás megindításának, megszüntetésének, illetve befejezésének ténye,
-- 1.18.2. indult fegyelmi eljárás során kiszabott fegyelmi büntetés;
-- 1.19. annak ténye, hogy a szakértő az elektronikus kapcsolattartást vállalja; ebben az esetben elektronikus elérhetősége;
-- 1.20. az igazságügyi szakértő tevékenységével kapcsolatos közleményei („közlemények”);
-- 1.21. nyilatkozat arról, hogy az igazságügyi szakértő tevékenységét fő- vagy mellékállásban végzi;
-- 1.22. egyetemi vagy főiskolai végzettsége, a diploma minősítése;
-- 1.23. külön minősítésre vonatkozó adat (ha van);
+- 1.2. születési neve;
+- 1.3. anyja születési neve;
+- 1.4. születési hely és idő;
+- 1.5. lakcím (postacím, telefon-, telefaxszám, e-mail);
+- 1.6. munkahely (postacím, telefon-, telefaxszám, e-mail);
+- 1.7. elérhetőségi cím (postacím, telefon-, telefaxszám, e-mail);
+- 1.8. nyelvismeret (nyelv, nyelvtudás foka);
+- 1.9. szakmai kamarai tagság;
+- 1.10. igazságügyi szakértői eskü letételének időpontja;
+- 1.11. igazságügyi szakértői igazolvány száma;
+- 1.12. szakterület
+- 1.12.1. a névjegyzékbe bejegyzett szakterület és a bejegyzés időpontja,
+- 1.12.2. elutasított szakterület és az elutasítás időpontja,
+- 1.12.3. elbírálás alatt lévő szakterület;
+- 1.13. iskolai végzettség és szakmai képesítés, valamint nemzetközi vagy hazai szakmai minősítés;
+- 1.14. állapot
+- 1.14.1. névjegyzékbe felvett,
+- 1.14.2. névjegyzékbe történő felvétel folyamatban,
+- 1.14.3. névjegyzékbe bejegyzett, kiterjesztési kérelem folyamatban,
+- 1.14.4. névjegyzékbe bejegyzett, kamarai tagsági viszony szünetel,
+- 1.14.5. névjegyzékbe bejegyzett, kamarai tagsági viszony felfüggesztve,
+- 1.14.6. névjegyzékből törölt,
+- 1.14.7. elhunyt;
+- 1.15. tudományos fokozat;
+- 1.16. nyilvántartási szám;
+- 1.17. az igazgatási ügyiratok ügyszáma;
+- 1.18. az 55. § (2) bekezdése szerinti bejelentés ténye az ügyre történő utalással;
+- 1.19. az igazságügyi szakértő minősítése;
+- 1.20. a szakértő ellen
+- 1.20.1. közvádra üldözendő szándékos bűncselekmény miatt indult eljárás megindításának, megszüntetésének, illetve befejezésének ténye,
+- 1.20.2. indult fegyelmi eljárás során kiszabott fegyelmi büntetés;
+- 1.21. az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti hivatalos elérhetőség, ha a szakértő elektronikus kapcsolattartásra köteles vagy azt vállalja;
+- 1.22. az igazságügyi szakértő tevékenységével kapcsolatos közleményei („közlemények”);
+- 1.23. nyilatkozat arról, hogy az igazságügyi szakértő tevékenységét fő- vagy mellékállásban végzi;
+- 1.24. egyetemi vagy főiskolai végzettsége, a diploma minősítése;
+- 1.25. külön minősítésre vonatkozó adat (ha van).
 - 2. Az igazságügyi szakértők névjegyzéke a gazdasági társaság következő adatait tartalmazza:
 - 2.1. név,
 - 2.2. székhely,
 - 2.3. cégjegyzékszám,
-- 2.4. szakterület,
-- 2.5. a vezető tisztségviselő neve,
-- 2.6. a vezető tisztségviselő lakóhelye,
-- 2.7. annak ténye, hogy a társaság az elektronikus kapcsolattartást vállalja, az azt vállaló vezető tisztségviselő nevének megjelölésével,
-- 2.8. az elektronikus kapcsolattartást vállaló vezető tisztségviselő születési helye, ideje és anyja neve,
-- 2.9. a 23. § (1) bekezdésében meghatározott tagokra és alkalmazottakra vonatkozó nyilvános adatok.
+- 2.4. adószám,
+- 2.5. elektronikus kézbesítési cím,
+- 2.6. az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti hivatalos elérhetőség,
+- 2.7. szakterület,
+- 2.8. a vezető tisztségviselő neve,
+- 2.9. a vezető tisztségviselő lakóhelye,
+- 2.10. a 23. § (1) bekezdésében meghatározott tagokra és alkalmazottakra vonatkozó nyilvános adatok.
 - 3. Az igazságügyi szakértők névjegyzéke az igazságügyi szakértői intézmények következő adatait tartalmazza:
 - 3.1. megnevezés,
 - 3.2. elérhetőség (cím, telefon, e-mail-cím),

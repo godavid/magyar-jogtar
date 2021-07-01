@@ -17,7 +17,7 @@ a költségmentesség és a költségfeljegyzési jog polgári és közigazgatá
 3. § (1) A felet – ha törvény, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés alapján nem illeti meg tárgyi költségmentesség – költségfeljegyzési jog illeti meg
 
 - a) a származási perben,
-- b) a szülői felügyelettel kapcsolatos perben,
+- b) a szülői felügyelettel kapcsolatos és kapcsolattartási perben,
 - c) a törvényen alapuló tartással kapcsolatos perben, ideértve a tartásdíjnak a kötelezett járandóságait folyósító szervtől vagy más személytől való behajtása, a tartásdíj megszüntetése vagy összegének megváltoztatása, a tartásdíjra irányuló végrehajtás megszüntetése vagy korlátozása iránti pert, továbbá a határon átnyúló tartási ügyben a tartásra kötelezett adatainak beszerzése iránti eljárást is,
 - d) a munkaügyi vagy közszolgálati jogviszonnyal kapcsolatos perben, kivéve azt a pert, amelyben a felet tárgyi illetékfeljegyzési jog illeti meg,
 - e) a bányakár megtérítése iránti perben,

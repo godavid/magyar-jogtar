@@ -45,7 +45,7 @@ Az Országgyűlés a nemzeti köznevelésről szóló törvényben, a szakképz�
 
 (3a) A személyiadat- és lakcímnyilvántartást kezelő szerv minden év január 15-éig adatot szolgáltat az oktatási nyilvántartás működéséért felelős szerv számára az adott évben a harmadik életévüket betöltő gyermekek, továbbá folyamatosan a Magyarország területére érkező óvodába járni köteles vagy tanköteles gyermekek 2. § a)–h) pontja szerinti adatai vonatkozásában.
 
-(4) Az oktatási nyilvántartás működéséért felelős szerv a 2. § a)–e) pontjában meghatározott adatokról adategyeztetés céljából az összerendelési nyilvántartáson keresztül adatot igényel a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 10/A. § (2) bekezdése szerinti azonosítók képzésére jogosult adatkezelőktől.
+(4) Az oktatási nyilvántartás működéséért felelős szerv a 2. § a)–e) pontjában és 3. § (1) bekezdés a) és b) pontjában meghatározott adatokról – adategyeztetés céljából – az összerendelési nyilvántartás jogszabályban kijelölt szolgáltatójától adatot igényel.
 
 3/A. § (1) A természetes személynek egy oktatási azonosító száma lehet, továbbá egy oktatási azonosító számhoz egy természetes személy tartozhat.
 
@@ -76,6 +76,8 @@ Az Országgyűlés a nemzeti köznevelésről szóló törvényben, a szakképz�
 - 3a. felnőttképzési jogviszonyban áll,
 - 4. a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartásában szerepel.
 - 5. részére oktatási igazolvány kerül kibocsátásra.
+
+(2a) A (2) bekezdés 3a. pontja szerinti esetben az oktatási azonosító szám kiadása nem magyar állampolgár esetén a képzésben részt vevő személy kérelmére történik.
 
 (3) A kiadott oktatási azonosító számot az azt igénylő köznevelési intézmény, szakképző intézmény, felsőoktatási intézmény, illetve felnőttképző számára az oktatási nyilvántartás 4. § (1) bekezdés a)–d) pontja szerinti szakrendszere útján kell elérhetővé tenni és egyidejűleg át kell adni a pályakövetési rendszer részére.
 
@@ -219,7 +221,7 @@ vonatkozóan kért nyilvántartott adatokat átadja a magyar állami ösztöndí
 
 (6) A 4. § (1) bekezdés h) pontja szerinti nyilvántartás részére az államilag elismert nyelvvizsgaközpont szolgáltatja a vizsgázó 6. melléklet a) és d) pontjában meghatározott adatait.
 
-(7) A Diákhitel Központ – a képzési hitelt felvevő tanuló, illetve képzésben részt vevő személy oktatási azonosító száma alapján – a képzési hitel igénybevételéről, az igényelt hitelösszegről, a képzési hitel folyósításának felfüggesztéséről folyamatosan adatot szolgáltat a szakképzési információs rendszerbe, illetve a felnőttképzés adatszolgáltatási rendszerébe.
+(7) A Diákhitel Központ – a képzési hitelt felvevő tanuló, illetve képzésben részt vevő személy oktatási azonosító száma alapján – a képzési hitel igénybevételéről, típusáról, az igényelt hitelösszegről, a képzési hitel folyósításának felfüggesztéséről folyamatosan adatot szolgáltat a szakképzési információs rendszerbe, illetve a felnőttképzés adatszolgáltatási rendszerébe.
 
 6/A. § (1) Az oktatási nyilvántartás működéséért felelős szerv az oktatási nyilvántartás 4. § (1) bekezdés a)–d) és h) pontja szerinti szakrendszerében szereplő adatok közül elektronikus adatkapcsolaton keresztül – az érintett oktatási azonosító számának összevetése útján – veszi át az érintett 2. § a)–h) pontjában meghatározott adatait, továbbá az érintett
 
@@ -256,13 +258,46 @@ a pályakövetési rendszerbe – a Kormány rendeletében meghatározottak szer
 
 (4) Az online kérdőíves vizsgálatok eredményeit legalább évente rövidített összefoglaló formájában a felsőoktatási intézmény a honlapján nyilvánosságra hozza.
 
+#### 3/A. Az oktatási nyilvántartáshoz kapcsolódó egyéb adatkezelés
+
+6/C. § (1) A központi költségvetésből vagy európai uniós forrásból a köznevelési intézmény tanulója és a szakképző intézmény tanulója részére megszervezett külföldi tanulmányút finanszírozásának biztosítása és a felhasználás ellenőrzése céljából a Tempus Közalapítvány informatikai alapú nyilvántartást vezet (a továbbiakban: tanulmányutak nyilvántartása).
+
+(2) A tanulmányutak nyilvántartása az alábbi adatokat tartalmazza:
+
+- 1. a tanuló családi és utónevét, valamint születési családi és utónevét,
+- 2. a tanuló oktatási azonosító számát,
+- 3. a tanuló anyja születési nevét,
+- 4. a tanuló születési helyét és idejét,
+- 5. a tanuló állampolgárságát,
+- 6. a tanuló nemét,
+- 7. a tanuló köznevelési intézményének vagy szakképző intézményének nevét, OM azonosítóját,
+- 8. a tanuló tanulói jogviszonyát megalapozó köznevelési alapfeladatot vagy szakképzési alapfeladatot,
+- 9. azt a feladatellátási helyet, ahol a tanuló nevelés-oktatása vagy szakképzésben való részvétele megvalósul,
+- 10. a tanuló évfolyamát,
+- 11. azt, hogy a tanuló hányadik évfolyamon, mely országban vett részt külföldi tanulmányúton,
+- 12. kiskorú tanuló esetén a külföldi tanulmányúthoz történő szülői hozzájárulási nyilatkozatot,
+- 13. a tanuló nyelvi szintjét igazoló iskolai ajánlást,
+- 14. a választott külföldi fogadó intézmény, gazdálkodó szervezet nevét,
+- 15. az utasbiztosítás szerződésszámát,
+- 16. a támogatói okirat számát,
+- 17. egyéni pályázat esetén a tanuló fizetési számlaszámát,
+- 18. a tanuló sajátos nevelési igényére vonatkozó adatokat.
+
+(3) A (2) bekezdés 1–6. pontjában meghatározott adatokat a központi költségvetésből vagy európai uniós forrásból megszervezett külföldi tanulmányút finanszírozásának biztosítása és a felhasználás ellenőrzése céljából a Tempus Közalapítvány a köznevelés információs rendszerébe és a szakképzés információs rendszerébe továbbítja.
+
+(4) A külföldi tanulmányútra irányuló egyéni pályázat esetén a (2) bekezdés 1–15., 17. és 18. pontja szerinti adatokat a tanuló, kiskorú tanuló esetén a törvényes képviselő, csoportos pályázat esetén a (2) bekezdés 1–15. és 18. pontja szerinti adatokat a köznevelési intézmény, illetve a szakképző intézmény továbbítja a Tempus Közalapítvány számára.
+
+(5) A tanulói nyilvántartásból, illetve a tanulók és a képzésben részt vevő személyek nyilvántartásából a 2. § a)–d), g) és l) pontjában, valamint az 1. melléklet I. rész e)–g), i) és l) alpontjában és az 1/A. melléklet II. rész 1. pont g) és k) alpontjában meghatározott adatokat – a központi költségvetésből vagy európai uniós forrásból megszervezett külföldi tanulmányutak megszervezése, továbbá az igénybevétel jogszerűségének ellenőrzése céljából – a Tempus Közalapítvány részére az oktatási nyilvántartás működéséért felelős szervvel kötött megállapodásban foglaltak szerint kell továbbítani.
+
+(6) A tanulmányutak nyilvántartásában rögzített adatokat a Tempus Közalapítvány az adatfelvételtől a tanulói jogviszony megszűnéséig kezeli.
+
 #### 4. Az oktatási nyilvántartáshoz való hozzáférés, adattovábbítás
 
 7. § (1) A tanulói nyilvántartásból, illetve a tanulók és a képzésben részt vevő személyek nyilvántartásából személyes adat – az érintetten kívül –
 
 - a) a tanulói jogviszonyhoz, illetve a felnőttképzési jogviszonyhoz kapcsolódó juttatás jogszerű igénybevételének megállapítása céljából továbbítható a szolgáltatást nyújtó vagy az igénybevétel jogosságának ellenőrzésére jogosult személy részére,
 - b) a tanuló nevelési-oktatási intézményének megállapítása, a tanítási napon a tanítási órától vagy az iskola által szervezett kötelező foglalkozástól való távolmaradás jogszerűségének ellenőrzése, valamint a nevelési-oktatási intézménnyel és a tanuló szülőjével, törvényes képviselőjével való kapcsolatfelvétel céljából a 2. § a)–g) pontjában meghatározott adatok, valamint az 1. melléklet I. rész c)–f) és h) pontjában és az 1/A. melléklet I. rész c)–f) és h) pontjában meghatározott adatok a rendőrség részére,
-- c) a központi költségvetésből vagy európai uniós forrásból megszervezett külföldi tanulmányutak megszervezése, továbbá az igénybevétel jogszerűségének ellenőrzése céljából a 2. § a)–c), e)–g) és l) pontjában, továbbá az 1. melléklet I. rész e)–g) és i) pontjában meghatározott adatok a Tempus Közalapítvány részére
+- c)
 
 továbbítható.
 
@@ -306,6 +341,9 @@ továbbítható.
   - ba) a (20) bekezdés a) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 1. pont a) és b) alpontjában és 2. pont b)–d) alpontjában meghatározott adatok,
   - bb) a (20) bekezdés b) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 1. pont b) alpontjában meghatározott adatok,
   - bc) a (20) bekezdés c) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 2. pont b) és d) alpontjában meghatározott adatok
+- c) a felnőttképzési intézménytörzsből
+  - ca) a felnőttképző képviseletére jogosult személy azonosítása céljából a 3/A. melléklet I. rész 1. pont a) alpontjában meghatározott adatok,
+  - cb) a közvetlenül a felnőttképző rendelkezésére bocsátott képzési hitelhez kapcsolódóan a képzési hitel folyósítása céljából a felnőttképző fizetési számlájának száma
 
 továbbíthatóak a Diákhitel Központnak.
 
@@ -727,10 +765,10 @@ i)
   - j) sajátos nevelési igénye, beilleszkedési, tanulási és magatartási nehézsége tényét, hátrányos és halmozottan hátrányos helyzetének tényét és hatályát,
   - k) melyik évfolyamon, mely országban vett részt határon túli kiránduláson, illetve külföldi tanulmányúton,
   - l) a szakmai oktatás, illetve a szakmai képzés teljesítésére vonatkozó adatokat, ennek keretében a tanuló tudásának értékelésével és minősítésével, valamint a tanuló által tett vizsgákkal és az évfolyamismétléssel kapcsolatos adatokat,
-  - m) tanulóbalesetre vonatkozó adatokat,
-  - n) fegyelmi és kártérítési ügyeivel kapcsolatos adatokat,
+  - m)
+  - n)
   - o) az általa fizetett díjak és térítések adata,
-  - p) a tankönyvellátásra vonatkozó adatok,
+  - p)
   - q) a számára járó ösztöndíj, támogatás és egyéb juttatás adata,
   - r) a képzési hitel igénybevételének tényére és típusára vonatkozó adata,
   - s) kollégiumi vagy diákotthoni elhelyezés esetén a kollégium, illetve a diákotthon megnevezése, az adott félévre vonatkozó elhelyezés ténye,
@@ -739,7 +777,7 @@ i)
 #### III. Alkalmazotti nyilvántartás
 
 - 1. Az alkalmazotti nyilvántartás az alkalmazott alábbi személyes adatait tartalmazza:
-  - a) oktatási azonosító számát,
+  - a) oktatási azonosító számát és társadalombiztosítási azonosító jelét,
   - b) végzettségi szintjére és szakképzettségére vonatkozó adatokat: felsőoktatási intézmény nevét, az oklevél számát, a végzettségi szintet, szakképzettséget, a végzettségi szint, szakképzettség, a pedagógus-szakvizsga, tudományos fokozat megszerzésének idejét,
   - c) munkaköre megnevezését,
   - d) munkáltatója nevét, címét, valamint OM-azonosítóját,
@@ -1011,7 +1049,7 @@ II. A képzési és személyi törzs
 
 a) oktatási azonosító számát,
 
-b) természetes személyazonosító adatait és nemét,
+b) természetes személyazonosító adatait és nemét, valamint – annak rendelkezésre állása esetén – a 2. § h)–k) pontja és 3. § (1) bekezdés a) és b) pontja szerinti adatát,
 
 c) állampolgárságát, nem magyar állampolgár Magyarországon való tartózkodásának jogcímét és a tartózkodásra jogosító okirat, okmány megnevezését és számát,
 
@@ -1027,7 +1065,7 @@ a) a képzés megnevezését, jellegét, helyét, óraszámát,
 
 b) a képzés első képzési napját és – a zárt rendszerű elektronikus távoktatás keretében megvalósuló képzés kivételével – befejezésének tervezett időpontját,
 
-c) a képzési díj mértékét és annak költségviselőjének nevét, valamint a képzési hitel igénybevételének tényét és típusát,
+c) a képzési díj mértékét és annak költségviselőjének megjelölését, valamint a képzési hitel igénybevételének és szünetelésének tényét, típusát és mértékét,
 
 d) a képzés elvégzésének időpontját és az arról kiállított tanúsítvány számát.
 

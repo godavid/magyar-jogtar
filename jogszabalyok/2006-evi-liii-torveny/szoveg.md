@@ -128,9 +128,9 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósít�
 
 (6) A közlekedési infrastruktúra-beruházás megvalósítása során az Étv. építési tevékenység végzésére vonatkozó rendelkezéseit a (7)–(9) bekezdésben foglalt eltéréssel kell alkalmazni.
 
-(7) Az építési engedély iránti kérelmet – a településrendezési eszközöknek a rendelettel való összhangja hiányában – a rendelet követelményeinek megfelelően kell elbírálni. Ebben az esetben az építési engedélyezési eljárásban a jegyző (főjegyző) településrendezési követelmények és a helyi építési követelmények megfelelőségéről szóló szakhatósági nyilatkozatát nem kell beszerezni.
+(7) Az építési engedély iránti kérelmet – a településrendezési tervnek a rendelettel való összhangja hiányában – a rendelet követelményeinek megfelelően kell elbírálni. Ebben az esetben az építési engedélyezési eljárásban a jegyző (főjegyző) településrendezési követelmények és a helyi építési követelmények megfelelőségéről szóló szakhatósági nyilatkozatát nem kell beszerezni.
 
-(8) A rendelettel megállapított nyomvonal nem pótolja a településrendezési eszközöket, és nem érinti az érintett település önkormányzatának a 6/H. § (1) bekezdésében foglalt kötelezettségét.
+(8) A rendelettel megállapított nyomvonal nem pótolja a településrendezési terveket, és nem érinti az érintett település önkormányzatának a 6/H. § (1) bekezdésében foglalt kötelezettségét.
 
 (9) A rendelet hatálybalépésétől az államot – más jogszabállyal megjelölt jogosultakat megelőzően – elővásárlási jog illeti meg a rendelettel meghatározott nyomvonalon található földrészlet tekintetében. Az elővásárlási jogot az állam nevében az építtető gyakorolja. A megvásárolt földrészlet és a kisajátítással megszerzett földrészlet az állam tulajdonába kerül. Az állam javára adásvétel vagy kisajátítás útján megszerzett ingatlanok vagyonkezelői jogának ingatlan-nyilvántartási bejegyzése és annak az ingatlan-nyilvántartásból való törlése után igazgatási szolgáltatási díjat nem kell fizetni.
 
@@ -187,36 +187,36 @@ válik hatályossá.
 
 (4) A kiadott építési engedélyt és a vízjogi létesítési engedélyt a jóhiszeműen szerzett és gyakorolt jogokra tekintet nélkül vissza kell vonni, ha a bíróság a környezetvédelmi engedélyt – további jogorvoslattal már nem támadható határozatával – hatályon kívül helyezi.
 
-6/H. § (1) A közlekedési infrastruktúra-beruházással érintett települések önkormányzatainak településrendezési eszközeiket
+6/H. § (1) A közlekedési infrastruktúra-beruházással érintett települések önkormányzatainak településrendezési tervüket
 
 - a) ha a közlekedési infrastruktúra-beruházás szerepel a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvényben (a továbbiakban: MATrT.), a telepítési tanulmányterv települési (a fővárosban a fővárosi és kerületi) önkormányzatnak való benyújtásától számított 4 hónapon belül összhangba kell hozni az MATrT. 14. § (1) bekezdésében foglaltakkal,
 - b) ha a közlekedési infrastruktúra-beruházás nem szerepel az MATrT-ben, a térségi területfelhasználási engedély véglegessé válásától, de legkorábban a telepítési tanulmányterv települési (a fővárosban a fővárosi és kerületi) önkormányzatnak való benyújtásától számított 4 hónapon belül összhangba kell hozni a területfelhasználási engedélyben foglaltakkal.
 
-(2) Ha a települési önkormányzat az (1) bekezdésben foglalt kötelezettségét határidőre nem teljesíti, az építtető az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnál a településrendezési eszköz vagy annak módosítása (a továbbiakban együtt: településrendezési eszköz) hiánytalan tervezetének benyújtásával kérelmezi a településrendezési eszköz módosítására irányuló, e § szerinti eljárást. Az eljárásra az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvénynek a településrendezési eszközök véleményezési eljárására vonatkozó rendelkezéseit a (3)–(13) bekezdésben foglalt eltérésekkel kell alkalmazni.
+(2) Ha a települési önkormányzat az (1) bekezdésben foglalt kötelezettségét határidőre nem teljesíti, az építtető az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnál a településrendezési terv vagy annak módosítása (a továbbiakban együtt: településrendezési terv) hiánytalan tervezetének benyújtásával kérelmezi a településrendezési terv módosítására irányuló, e § szerinti eljárást. Az eljárásra az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvénynek a településrendezési tervek véleményezési eljárására vonatkozó rendelkezéseit a (3)–(13) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
-(3) A településrendezési eszközök módosításának véleményezési eljárását az építtető kezdeményezésére az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal folytatja le.
+(3) A településrendezési tervek módosításának véleményezési eljárását az építtető kezdeményezésére az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal folytatja le.
 
-(4) A településrendezési eszköz tervezetét véleményeztetni kell a partnerekkel, az államigazgatási szervekkel, valamint az érintett területi és települési önkormányzatokkal. A partnerségi egyeztetés a lakosságra, érdek-képviseleti, civil és gazdálkodó szervezetekre, vallási közösségekre terjed ki.
+(4) A településrendezési terv tervezetét véleményeztetni kell a partnerekkel, az államigazgatási szervekkel, valamint az érintett területi és települési önkormányzatokkal. A partnerségi egyeztetés a lakosságra, érdek-képviseleti, civil és gazdálkodó szervezetekre, vallási közösségekre terjed ki.
 
-(5) A településrendezési eszköz tervezetét a fővárosi és megyei kormányhivatal, valamint a település honlapján – a (2) bekezdés szerinti hiánytalan kérelem beérkezésétől számított 5 napon belül – közzé kell tenni, amelyre a partnerek 10 napon belül írásos észrevételt tehetnek, a honlapon megadott elérhetőségen.
+(5) A településrendezési terv tervezetét a fővárosi és megyei kormányhivatal, valamint a település honlapján – a (2) bekezdés szerinti hiánytalan kérelem beérkezésétől számított 5 napon belül – közzé kell tenni, amelyre a partnerek 10 napon belül írásos észrevételt tehetnek, a honlapon megadott elérhetőségen.
 
-(6) Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal a kérelem beérkezésétől számított 10 napon belül egyeztető tárgyalást hív össze a partnerek részére, 15 napon belül az államigazgatási szervek, az érintett területi és települési önkormányzatok részére, amely tárgyalásokon az építtető a településrendezési eszköz tervezetét közérthető módon ismerteti a megjelentekkel, különös tekintettel a beruházás lezárásával megvalósuló környezetalakítás végleges állapotának bemutatására.
+(6) Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal a kérelem beérkezésétől számított 10 napon belül egyeztető tárgyalást hív össze a partnerek részére, 15 napon belül az államigazgatási szervek, az érintett területi és települési önkormányzatok részére, amely tárgyalásokon az építtető a településrendezési terv tervezetét közérthető módon ismerteti a megjelentekkel, különös tekintettel a beruházás lezárásával megvalósuló környezetalakítás végleges állapotának bemutatására.
 
-(7) A (6) bekezdés szerinti tárgyalásokról az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal jegyzőkönyvet készít, amely tartalmazza a felmerült véleményeltéréseket és a településrendezési eszköz elfogadásra alkalmassá tételéhez szükséges feltételeket.
+(7) A (6) bekezdés szerinti tárgyalásokról az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal jegyzőkönyvet készít, amely tartalmazza a felmerült véleményeltéréseket és a településrendezési terv elfogadásra alkalmassá tételéhez szükséges feltételeket.
 
 (8) Azt az érdekeltet, aki az egyeztető tárgyaláson meghívás ellenére nem vett részt vagy aki az egyeztető tárgyaláson nem képviselteti magát, az eljárás során kifogást nem emelő véleményezőnek kell tekinteni.
 
-(9) Ha a településrendezési eszköz készítéséhez vagy módosításához adatok beszerzése szükséges, az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal – az egyeztető tárgyalás összehívásával egyidejűleg – az előzetes tájékoztatási szakasz szerinti előzetes adatszolgáltatást kér az érintett államigazgatási szervtől.
+(9) Ha a településrendezési terv készítéséhez vagy módosításához adatok beszerzése szükséges, az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal – az egyeztető tárgyalás összehívásával egyidejűleg – az előzetes tájékoztatási szakasz szerinti előzetes adatszolgáltatást kér az érintett államigazgatási szervtől.
 
-(10) Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal a jegyzőkönyveket, a záró szakmai véleményét, valamint a településrendezési eszköz – szükség szerint módosított – tervezetét 8 napon belül megküldi a polgármesternek a településrendezési eszköz elfogadása érdekében, és kezdeményezi a képviselő-testület összehívását.
+(10) Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal a jegyzőkönyveket, a záró szakmai véleményét, valamint a településrendezési terv – szükség szerint módosított – tervezetét 8 napon belül megküldi a polgármesternek a településrendezési terv elfogadása érdekében, és kezdeményezi a képviselő-testület összehívását.
 
-(11) A polgármester az iratok kézhezvételét követő 15 napon belül képviselő-testületi ülést hív össze a településrendezési eszköz megállapítása céljából. A településrendezési eszközt úgy kell elfogadni, hogy az legkésőbb a kihirdetését követő 5. napon hatályba lépjen.
+(11) A polgármester az iratok kézhezvételét követő 15 napon belül képviselő-testületi ülést hív össze a településrendezési terv megállapítása céljából. A településrendezési tervet úgy kell elfogadni, hogy az legkésőbb a kihirdetését követő 5. napon hatályba lépjen.
 
-(12) Ha a települési önkormányzat a településrendezési eszközt a (10) bekezdés szerinti javaslatnak megfelelően, a (11) bekezdés szerinti határidőben nem fogadja el, a fővárosi és megyei kormányhivatal intézkedik az önkormányzat jogalkotási kötelezettségének elmulasztása miatti eljárás megindítása iránt.
+(12) Ha a települési önkormányzat a településrendezési tervet a (10) bekezdés szerinti javaslatnak megfelelően, a (11) bekezdés szerinti határidőben nem fogadja el, a fővárosi és megyei kormányhivatal intézkedik az önkormányzat jogalkotási kötelezettségének elmulasztása miatti eljárás megindítása iránt.
 
-(13) Ha az a közlekedési infrastruktúra-beruházás miatt szükséges, az országos településrendezési és építési követelményekről szóló jogszabály 2012. augusztus 6-án vagy azt megelőzően hatályos településrendezési követelményeinek megfelelően kidolgozott településrendezési eszközök 2021. december 31-ig módosíthatók.
+(13) Ha az a közlekedési infrastruktúra-beruházás miatt szükséges, az országos településrendezési és építési követelményekről szóló jogszabály 2012. augusztus 6-án vagy azt megelőzően hatályos településrendezési követelményeinek megfelelően kidolgozott településrendezési tervek 2023. december 31-ig módosíthatók.
 
-(14) Ha az építtető a (2) bekezdés szerinti kérelem előterjesztését az építési engedélyezési eljárásban igazolja, az építési engedélyt a jegyző (főjegyző) településrendezési követelmények és a helyi építési követelmények megfelelőségéről szóló szakhatósági állásfoglalásának hiányában vagy a hozzájárulás elutasítása esetén is ki kell adni. Ha nem került kiadásra a 6/D. § (3) bekezdése szerinti rendelet, akkor az építési engedély akkor válik hatályossá és az építési tevékenység akkor kezdhető meg, amikor a településrendezési eszköz olyan módosítása lép hatályba, amellyel a kiadott engedély összhangban van.
+(14) Ha az építtető a (2) bekezdés szerinti kérelem előterjesztését az építési engedélyezési eljárásban igazolja, az építési engedélyt a jegyző (főjegyző) településrendezési követelmények és a helyi építési követelmények megfelelőségéről szóló szakhatósági állásfoglalásának hiányában vagy a hozzájárulás elutasítása esetén is ki kell adni. Ha nem került kiadásra a 6/D. § (3) bekezdése szerinti rendelet, akkor az építési engedély akkor válik hatályossá és az építési tevékenység akkor kezdhető meg, amikor a településrendezési terv olyan módosítása lép hatályba, amellyel a kiadott engedély összhangban van.
 
 6/I. § (1) A környezeti hatásvizsgálati eljárás során a kérelmet és mellékleteit elektronikus adathordozón is be kell nyújtania a kérelmezőnek, amelyet az érdemi döntésre jogosult hatóság elektronikus adathordozón vagy elektronikus úton is a szakhatóságok rendelkezésére bocsát.
 
@@ -413,7 +413,7 @@ cél megvalósítására irányuló beruházást.
 - e) a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. §-a szerinti környezetvédelmi és fás szárú növények védelmére vonatkozó előírásokat,
 - f) a felszín alatti vizek és a földtani közeg kármentesítésével összefüggő hatósági eljárások ágazati jogszabályban foglaltaktól eltérő különös eljárási szabályait, a kármentesítés során a tényfeltárás, a beavatkozás és a kármentesítési monitoring egyedi szabályait.
 
-(2) Az (1) bekezdés a) pontja szerinti településrendezési és beépítési szabály, valamint egyedi építési követelmény az Étv. 13. § (1) bekezdésével összefüggő követelményekre, valamint az országos településrendezési és építési követelményektől, az országos tűzvédelmi szabályoktól, továbbá a változtatási és építési tilalmat elrendelő szabályoktól, valamint a településrendezési eszközökben foglaltaktól való eltérő rendelkezésekre vonatkozhat.
+(2) Az (1) bekezdés a) pontja szerinti településrendezési és beépítési szabály, valamint egyedi építési követelmény az Étv. 13. § (1) bekezdésével összefüggő követelményekre, valamint az országos településrendezési és építési követelményektől, az országos tűzvédelmi szabályoktól, továbbá a változtatási és építési tilalmat elrendelő szabályoktól, valamint a településrendezési tervekben foglaltaktól való eltérő rendelkezésekre vonatkozhat.
 
 (3) Az (1) bekezdés b) pontja szerinti sajátos telekalakítási követelmény az Étv. 23. §-ában foglaltakkal összefüggésben és összhangban állapítható meg.
 
@@ -421,7 +421,7 @@ cél megvalósítására irányuló beruházást.
 
 (5) Az (1) bekezdés d) pontja szerinti egyedi örökségvédelmi követelmény – a kulturális örökség védelmére és a világörökségre vonatkozó követelményekkel összhangban – különösen a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 63. § (4) bekezdésében foglaltakra vonatkozhat.
 
-(6) Kiemelten közérdekű beruházás helyszínére és közvetlen környezetére vonatkozó települési önkormányzati településrendezési eszközöket, településképi rendeletet, valamint egyéb önkormányzati rendeletet az (1) bekezdés szerinti kormányrendeletben meghatározott eltérésekkel kell alkalmazni. Amennyiben a településrendezési eszköz, településképi rendelet vagy egyéb önkormányzati rendelet az (1) bekezdés alapján megalkotott kormányrendelettel ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor helyette az (1) bekezdés szerinti kormányrendeletben foglaltakat kell alkalmazni.
+(6) Kiemelten közérdekű beruházás helyszínére és közvetlen környezetére vonatkozó települési önkormányzati településrendezési terveket, településképi rendeletet, valamint egyéb önkormányzati rendeletet az (1) bekezdés szerinti kormányrendeletben meghatározott eltérésekkel kell alkalmazni. Amennyiben a településrendezési terv, településképi rendelet vagy egyéb önkormányzati rendelet az (1) bekezdés alapján megalkotott kormányrendelettel ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor helyette az (1) bekezdés szerinti kormányrendeletben foglaltakat kell alkalmazni.
 
 (7) Az (1) bekezdés f) pontja szerinti kármentesítési eljárásban az ügyintézési határidő negyvenkét nap.
 

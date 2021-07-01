@@ -53,7 +53,7 @@ a következő törvényt alkotja:
 
 (4) A kulturális örökség védett elemeinek megóvását a jogszabályban kijelölt örökségvédelmi szerv jogszabályban meghatározottak szerint szakértői szolgáltatásokkal segíti elő.
 
-(5) Műemlékkel kapcsolatos építésügyi és építésfelügyeleti hatósági eljárásban – törvény vagy kormányrendelet szerinti igénybevétel esetén – a (3) bekezdés szerinti tanácsadó testületként a központi építészeti-műszaki tervtanács jár el, amelynek véleményét az építésügyi és építésfelügyeleti hatóság érdemben vizsgálja az eljárása, döntése meghozatala során. A műemlékkel kapcsolatos eljárásban a központi építészeti-műszaki tervtanács tagja a Magyar Művészeti Akadémia által delegált tag is.
+(5) Műemlékkel kapcsolatos építésügyi hatósági eljárásban – törvény vagy kormányrendelet szerinti igénybevétel esetén, a területi építészeti-műszaki tervtanács kijelölésének esetét kivéve – a (3) bekezdés szerinti tanácsadó testületként a központi építészeti-műszaki tervtanács jár el, amelynek véleményét az építésügyi és építésfelügyeleti hatóság az eljárása, döntése meghozatala során bizonyítékként veheti figyelembe. A műemlékkel kapcsolatos eljárásban a központi építészeti-műszaki tervtanács tagja a Magyar Művészeti Akadémia által delegált tag is.
 
 ### Értelmező rendelkezések
 
@@ -1095,7 +1095,7 @@ kötelezi a tevékenységet végzőt.
 
 (3) A hatóság engedélyezi vagy tudomásul veszi az építésügyi hatósági vagy más hatósági engedélyhez nem kötött – jogszabályban meghatározott – tevékenységeket.
 
-(4) Műemlékvédelmi érdekből műemlék, illetve a kiemelt nemzeti emlékhellyel kapcsolatos érdekből a kiemelt nemzeti emlékhelyen és a településkép-védelmi környezetében található ingatlan fenntartása, különösen helyreállítása során az országos építési követelményektől, a településrendezési eszközöktől, annak részeként a helyi építési szabályzattól a tervezés folyamán és a hatósági eljárásban el lehet térni. A nemzeti szabványoktól való eltérést a műemléki értékek megőrzése, továbbá a kiemelt nemzeti emlékhely egyedi településképi követelményeknek való megfelelése érdekében előnyben kell részesíteni, ha az alkalmazandó megoldás az élet- és vagyonbiztonság követelményeinek megfelel, vagy az élet- és vagyonbiztonság más módon biztosítható.
+(4) Műemlékvédelmi érdekből műemlék, illetve a kiemelt nemzeti emlékhellyel kapcsolatos érdekből a kiemelt nemzeti emlékhelyen és a településkép-védelmi környezetében található ingatlan fenntartása, különösen helyreállítása során az országos építési követelményektől, a településrendezési tervtől, annak részeként a helyi építési szabályzattól a tervezés folyamán és a hatósági eljárásban el lehet térni. A nemzeti szabványoktól való eltérést a műemléki értékek megőrzése, továbbá a kiemelt nemzeti emlékhely egyedi településképi követelményeknek való megfelelése érdekében előnyben kell részesíteni, ha az alkalmazandó megoldás az élet- és vagyonbiztonság követelményeinek megfelel, vagy az élet- és vagyonbiztonság más módon biztosítható.
 
 (4a) A (4) bekezdés tekintetében
 
@@ -1268,7 +1268,7 @@ központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban 
 
 #### 74/B. §
 
-74/C. § (1) Ha a településrendezési eszközökkel érintett ingatlan a hatályos településrendezési eszközökben megállapítottakhoz képest utóbb védetté válik, vagy a védettsége megszűnik, úgy a védettség keletkezése vagy a védettség megszűnésétől számított 6 hónapon belül a helyi építési szabályzatban a 71. § (1) bekezdése szerinti központi, közhiteles nyilvántartás tartalmának megfelelő változtatásokat át kell vezetni.
+74/C. § (1) Ha a településrendezési tervvel érintett ingatlan a hatályos településrendezési tervben megállapítottakhoz képest utóbb védetté válik, vagy a védettsége megszűnik, úgy a védettség keletkezésétől vagy a védettség megszűnésétől számított 6 hónapon belül a helyi építési szabályzatban a 71. § (1) bekezdése szerinti központi, közhiteles nyilvántartás tartalmának megfelelő változtatásokat át kell vezetni.
 
 (2) Az (1) bekezdésben meghatározott változás átvezetése iránt az ezt megállapító végleges határozatával vagy végzéssel a hatóság megkeresi az illetékes települési önkormányzatot.
 
@@ -1390,9 +1390,9 @@ iránt.
 
 ### Örökségvédelmi hatástanulmány
 
-85/A. § (1) Örökségvédelmi hatástanulmányt kell készíteni a település településfejlesztési koncepciójának kidolgozása során. Ha a településfejlesztési koncepció készítésekor nem készült, vagy a rendezés alá vont területre nincs örökségvédelmi hatástanulmány, vagy van, de az tíz évnél régebbi, akkor azt a rendezés alá vont területre el kell készíteni. Nem kell örökségvédelmi hatástanulmányt készíteni, ha az Étv. 8. § (2) bekezdése szerinti véleményezési eljárásban az illetékes államigazgatási szerv véleménye szerint a rendezés alá vont terület örökségvédelmi szempontból nem érintett.
+85/A. § (1) Örökségvédelmi hatástanulmányt kell készíteni a település településfejlesztési tervének kidolgozása során. Ha a településfejlesztési terv készítésekor nem készült, vagy a rendezés alá vont területre nincs örökségvédelmi hatástanulmány, vagy van, de az tíz évnél régebbi, akkor azt a rendezés alá vont területre el kell készíteni. Nem kell örökségvédelmi hatástanulmányt készíteni, ha az Étv. 8. § (2) bekezdése szerinti véleményezési eljárásban az illetékes államigazgatási szerv véleménye szerint a rendezés alá vont terület örökségvédelmi szempontból nem érintett.
 
-(2) Az örökségvédelmi hatástanulmányban megfogalmazott értékvédelmi terv szerint kell meghatározni az örökségvédelemmel érintett területekre vonatkozó településfejlesztési és településrendezési eszközöket.
+(2) Az örökségvédelmi hatástanulmányban megfogalmazott értékvédelmi terv szerint kell meghatározni az örökségvédelemmel érintett területekre vonatkozó településfejlesztési és településrendezési terveket.
 
 (3) A hatóság örökségvédelmi hatástanulmány készítését írhatja elő jogszabályban meghatározott esetekben.
 

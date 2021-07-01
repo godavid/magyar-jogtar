@@ -324,7 +324,7 @@ hatásköréhez kapcsolódóan a megbízható szervezői minőség 37. § 30. po
 
 (6)
 
-(7) A szerencsejáték-felügyeleti hatóság díjbevételéből kell fedezni a koncessziós pályázatok kiírásának és elbírálásának költségeit is.
+(7)
 
 (7a) A nyertes játékos részére a nyeremény igénylésére a jóváhagyott játéktervben meghatározottak szerint, a sorsolás, illetve a fogadási esemény napját követő 90 napos jogvesztő határidőn belül van lehetőség. A szervező a nyeremény igénylését követően a nyeremény átadása érdekében haladéktalanul köteles a szükséges intézkedéseket megtenni és a nyeremény átadását a nyertes játékos részére a nyeremény igénylésétől számított 30 napos jogvesztő határidőn belül biztosítani.
 
@@ -669,7 +669,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 (5) Lóversenyfogadás kivételével a bukmékeri rendszerű fogadás szervezéséhez a 3. § (1) bekezdésének a) pontjában szereplő jogi személynek legalább 1 milliárd forint alap- vagy törzstőkével és legalább ötéves szerencsejáték-szervezői gyakorlattal kell rendelkeznie. Lóversenyfogadás kivételével a bukmékeri rendszerű fogadásra kiírt koncessziós pályázat nyertese csak az a személy lehet, aki a pályázat kiírása előtt legalább öt évig az e törvény hatálya alá tartozó szerencsejáték szervezésével foglalkozott, és a bukmékeri rendszerű fogadási tevékenység folytatására legalább 1 milliárd forint alap- vagy törzstőkével rendelkező koncessziós társaságot alapít. Ha többen közösen nyújtanak be pályázatot, vagy olyan pályázó nyújt be pályázatot, amelynek egyik tagja (részvényese) a szavazatok többségével rendelkezik, a legalább ötéves szerencsejáték-szervezői gyakorlattal kapcsolatos feltételt elegendő, ha legalább a pályázók egyike vagy a szavazatok többségével rendelkező tag (részvényes) teljesíti.
 
-(6) Bukmékeri rendszerű fogadás esetén a koncessziós díj mértéke évente legalább 200 millió forint. A kiadott koncessziók száma egyidejűleg legfeljebb 2 lehet.
+(6) A kiadott koncessziók száma egyidejűleg legfeljebb 2 lehet.
 
 (7) A szerencsejáték-felügyeleti hatóság a nemzetközi együttműködés keretében szervezett totalizatőri rendszerű lóversenyfogadás esetén sorsolás alkalmazását a nemzetközi együttműködés keretében valamennyi szerencsejáték-szervező által kialakított és elfogadott játékszabályoknak megfelelően engedélyezi.
 
@@ -688,7 +688,7 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 29. § (1) Lóversenyfogadás szervezéséhez a 3. § (1) bekezdésének a) pontjában szereplő jogi személynek legalább 100 millió forint alap- vagy törzstőkével kell rendelkeznie. A lóversenyfogadás szervezésére kiírt koncessziós pályázat nyertese csak az a személy lehet, aki a lóversenyfogadási tevékenység folytatására legalább 100 millió forint alap- vagy törzstőkével rendelkező koncessziós társaságot alapít.
 
-(2) A koncessziós díj mértéke évente legalább 50 millió forint.
+(2)
 
 (3) A kiadott koncessziók száma egyidejűleg legfeljebb 2 lehet.
 
@@ -1288,7 +1288,7 @@ fizeti meg a szerencsejáték-felügyeleti hatósághoz a felügyeleti díj megf
   - b) egyik bankszámláján sem volt 10 000 000 Ft-ot meghaladó azonnali beszedési megbízás az adóhatóság részéről, illetve működése során az állami adóhatóság nem indított ellene 10 000 000 Ft-ot meghaladó érték tekintetében végrehajtási eljárást,
   - c) működése során, azzal összefüggésben, nem történt olyan jogsértés, amely miatt a szerencsejáték-felügyeleti hatóság esetenként ötmillió forint összeget meghaladó közigazgatási bírsággal sújtotta volna,
   - d) legalább 5 éven keresztül folytatott a szerencsejáték-felügyeleti hatóság engedélyével a koncessziós szerződés alapján gyakorolni kívánt tevékenység szerinti szerencsejáték szervezésére irányuló tevékenységet Magyarországon,
-  - e) a játékosok személyazonosságának megállapítására, valamint az ahhoz kapcsolódó adatkezelésre vonatkozó szabályokat maradéktalanul betartotta, amennyiben ilyen kötelezettség terhelte.
+  - e)
 - 31.
 - 32. sérülékeny személy: a 18 év alatti személy, az 1. § (6) bekezdés szerinti személy, valamint az egy vagy több szerencsejáték-játékfajtára, vagy több szervezőre kiterjedően önkorlátozó vagy önkizáró intézkedéssel érintett játékos.
 

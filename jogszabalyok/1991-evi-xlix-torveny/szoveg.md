@@ -29,7 +29,7 @@ Az Országgyűlés a fizetésképtelenséggel fenyegető helyzetben lévő vagy 
 3. § (1) E törvény alkalmazásában:
 
 - a) gazdálkodó szervezet:
-  - aa) a magyarországi székhellyel rendelkező gazdasági társaság, közhasznú társaság, ügyvédi iroda, közjegyzői iroda, szabadalmi ügyvivői iroda, végrehajtói iroda, európai részvénytársaság, szövetkezet, lakásszövetkezet, európai szövetkezet, vízgazdálkodási társulat (a víziközmű-társulat kivételével), erdőbirtokossági társulat, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, egyéni cég, egyesülés – ideértve az európai gazdasági egyesülést is –, európai területi társulás, egyesület, alapítvány, valamint
+  - aa) a magyarországi székhellyel rendelkező gazdasági társaság, közhasznú társaság, ügyvédi iroda, közjegyzői iroda, szabadalmi ügyvivői iroda, végrehajtói iroda, európai részvénytársaság, szövetkezet, lakásszövetkezet, valamint európai szövetkezet, vízgazdálkodási társulat (a víziközmű-társulat kivételével), erdőbirtokossági társulat, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, egyéni cég, egyesülés – ideértve az európai gazdasági egyesülést is –, európai területi társulás, egyesület, alapítvány, valamint
   - ab) mindazon egyéb jogi személy vagy jogi személyiséggel nem rendelkező, a személyes joga alapján gazdasági társaság vagy más, gazdasági tevékenységet folytató szervezet, amelynek a fő érdekeltségeinek központja – a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet (a továbbiakban: 2015/848 EU rendelet) alapján – az Európai Unió területén található, és az ellene indítható fizetésképtelenségi eljárás a 2015/848 EU rendelet hatálya alá esik;
 - b) adós: az a gazdálkodó szervezet, amely tartozását (tartozásait) az esedékességkor nem tudta vagy előreláthatóan nem tudja kiegyenlíteni;
 - c) hitelező:
@@ -276,7 +276,7 @@ közötti kapcsolattartás során a jognyilatkozatok megtétele írásban tört�
 
 (4) Ha a fizetésképtelenségi főeljárás belföldön indult, a 2015/848 EU rendelet 29. cikke szerinti bejegyeztetés iránt csődeljárás esetén az adós, felszámolási eljárás esetén pedig a felszámoló intézkedik. A bejegyeztetési kötelezettség teljesítéséről a vagyonfelügyelőt egyidejűleg tájékoztatni kell.
 
-6/E. §
+#### 6/E. §
 
 6/F. § A 6/B–6/D. §-ok szerinti kérelmet a Fővárosi Törvényszékhez kell benyújtani, amely nemperes eljárásban dönt a kérelemről a beérkezéstől számított legfeljebb 30 napon belül, a 6/B. § szerinti kérelem esetében 8 napon belül. A kérelemnek helyt adó végzés ellen jogorvoslatnak nincs helye.
 
@@ -861,7 +861,7 @@ folytatható le.
 
 (5) A felszámoló a kirendelését tartalmazó végzés kézhezvételétől – vagy ha a kizárási ok később következik be, annak bekövetkeztétől – számított öt munkanapon belül köteles bejelenteni a bíróságnak, ha vele szemben kizárási ok áll fenn. A felszámoló a kirendelést kizárási ok esetén, továbbá akkor utasíthatja vissza, ha az adós székhelye kívül esik a felszámolónak a felszámolók névjegyzékébe bejegyzett működési területén. A felszámolót kirendelő végzés ellen külön fellebbezésnek nincs helye. Ha a felszámoló a kizárási ok bejelentését elmulasztja, a bíróság kezdeményezi a felszámolók névjegyzékéből való törlését.
 
-(5a) A felszámoló a felszámolást elrendelő végzés kézhezvételétől számított öt munkanapon belül köteles az általa kijelölt felszámolóbiztos nevét, lakóhelyét vagy a személyi adat- és lakcímnyilvántartásban szereplő értesítési címét, születési idejét, adóazonosító jelét, valamint anyja születési nevét bejelenteni a bíróságnak, és csatolja a felszámolóbiztos azon nyilatkozatát, hogy személyével összefüggésben nem áll fenn kizáró vagy összeférhetetlenségi ok, továbbá kötelezettséget vállal arra, hogy ha ilyen ok később bekövetkezik, azt haladéktalanul bejelenti a felszámolónak, és kezdeményezi a felszámolótól a kijelölése visszavonását. A felszámoló köteles bejelenteni a bíróságnak és a felszámolók névjegyzékét vezető szervnek, ha a felszámolóbiztossal szemben kizáró vagy összeférhetetlenségi ok merül fel, vagy pedig a felszámolóbiztos munkaviszonya, megbízási jogviszonya, vagy – tagsági jogviszony esetén a felszámolóbiztosi tevékenység végzésére irányuló személyes közreműködésre jogosító megbízatása – megszűnt, vagy a kijelölését visszavonta, külön megjelölve azt, ha erre a 27/B. § (5) bekezdésében meghatározott okból került sor. A felszámoló öt munkanapon belül köteles az új felszámolóbiztos nevét, lakóhelyét vagy a személyi adat- és lakcímnyilvántartásban szereplő értesítési címét, születési idejét, adóazonosító jelét, valamint anyja születési nevét bejelenteni.
+(5a) A felszámoló a felszámolást elrendelő végzés kézhezvételétől számított öt munkanapon belül köteles a 27/C. § (4) bekezdés a) pont ac) alpontja szerinti pénzforgalmi számlájára vonatkozó adatot, valamint az általa kijelölt felszámolóbiztos nevét, lakóhelyét vagy a személyi adat- és lakcímnyilvántartásban szereplő értesítési címét, születési idejét, adóazonosító jelét, valamint anyja születési nevét bejelenteni a bíróságnak, és csatolja a felszámolóbiztos azon nyilatkozatát, hogy személyével összefüggésben nem áll fenn kizáró vagy összeférhetetlenségi ok, továbbá kötelezettséget vállal arra, hogy ha ilyen ok később bekövetkezik, azt haladéktalanul bejelenti a felszámolónak, és kezdeményezi a felszámolótól a kijelölése visszavonását. A felszámoló köteles bejelenteni a bíróságnak és a felszámolók névjegyzékét vezető szervnek, ha a felszámolóbiztossal szemben kizáró vagy összeférhetetlenségi ok merül fel, vagy pedig a felszámolóbiztos munkaviszonya, megbízási jogviszonya, vagy – tagsági jogviszony esetén a felszámolóbiztosi tevékenység végzésére irányuló személyes közreműködésre jogosító megbízatása – megszűnt, vagy a kijelölését visszavonta, külön megjelölve azt, ha erre a 27/B. § (5) bekezdésében meghatározott okból került sor. A felszámoló öt munkanapon belül köteles a 27/C. § (4) bekezdés a) pont ac) alpontja szerinti pénzforgalmi számlájára vonatkozó adatot, valamint az új felszámolóbiztos nevét, lakóhelyét vagy a személyi adat- és lakcímnyilvántartásban szereplő értesítési címét, születési idejét, adóazonosító jelét, valamint anyja születési nevét bejelenteni.
 
 (6) Ha a kirendelést követően a bíróság megállapítja, hogy a felszámolóval vagy a felszámolóbiztossal szemben kizárási ok áll fenn, illetve a felszámolót a felszámolók névjegyzékéből törölték, vagy a felszámoló szervezet ellen felszámolás, kényszer-törlési eljárás indult, vagy végelszámolás alatt áll, a bíróság a felszámolót hivatalból felmenti. A névjegyzékből való törlést a nyilvántartó szerv jogszabályban meghatározott módon közzéteszi, továbbá elektronikus úton, haladéktalanul értesítést küld minden ítélőtáblának, törvényszéknek.
 
@@ -1077,7 +1077,7 @@ jogerősen elrendelte a felszámoló szervezet felmentését,
 - e) utalást arra, hogy a felszámolás kezdő időpontja a felszámolást elrendelő jogerős végzés Cégközlöny honlapján történő közzétételének napja,
 - f) a hitelezőknek [ideértve a zálogjogosultat, az alzálogjog jogosultját, továbbá a zálogjogosulti bizományost is – ez utóbbit abban az esetben is, ha a biztosított követelés nem, vagy nemcsak őt illeti meg – valamint a biztosítéki célú vételi jog alapításával, illetve jog vagy követelés biztosítéki célú átruházásával érintett, a hitelbiztosítéki nyilvántartásba vagy ingatlan-nyilvántartásba bejegyzett jogosultakat, továbbá a 3. § (1) bekezdés g) pontja szerinti függő követelés jogosultjait is] szóló felhívást, hogy ismert követeléseiket – kivéve a felszámolási eljárást közvetlenül megelőző csődeljárásban [27. § (2) bekezdés e) pont] már bejelentett és nyilvántartásba vett követeléseket – a felszámolást elrendelő végzés közzétételétől számított 40 napon belül a felszámolónak jelentsék be;
 - g) a felszámoló nevét, székhelyét, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 14. §-a szerinti elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségét, adószámát, valamint a felszámolóbiztos nevét, lakóhelyét, vagy a személyiadat- és lakcímnyilvántartásban szereplő értesítési címét, születési idejét, adóazonosító jelét, valamint anyja születési nevét;
-- h) a 46. § (7) bekezdésében meghatározott elkülönített számla számát;
+- h) a 46. § (7) bekezdésében meghatározott elkülönített számla számát és a 27/C. § (4) bekezdés a) pont ac) alpontja szerinti pénzforgalmi számla számát;
 - i) ha az adós egyszemélyes társaság, az alapítója (tagja, részvényese) nevét és lakóhelyét (székhelyét);
 - j) az egyéb lényeges körülményeket.
 
@@ -1126,7 +1126,7 @@ jogerősen elrendelte a felszámoló szervezet felmentését,
 
 (3) A felszámoló az e törvény szerinti feladatainak teljesítése érdekében az adós helyiségeibe beléphet, bármely vagyontárgyát átvizsgálhatja. Az adós a lezárt helyiségét, vagyontárgyát (bútorát, egyéb ingóságát) a felszámoló felhívására köteles haladéktalanul felnyitni, a vagyontárgy meglétéről és hollétéről tájékoztatást adni.
 
-32. §
+#### 32. §
 
 33. § (1) A bíróság az adott gazdálkodó szervezettől a felszámolás kezdő időpontját megelőző évben felvett bevételének 50%-áig vagy – ha a vezető bevétele nem állapítható meg – 2 000 000 forintig terjedő pénzbírsággal sújthatja a gazdálkodó szervezet vezetőjét, aki a 31. §-ban foglalt kötelezettségét elmulasztotta, vagy azt késedelmesen teljesíti, valótlan adatokat közölt, a felszámolóval való együttműködési kötelezettségét nem teljesíti. A bírság akkor is kiszabható, ha a vezető már nem áll az adósnál munkaviszonyban, munkavégzési kötelezettséggel járó egyéb jogviszonyban, tagsági viszonyban, vagy vezetői tisztségviselői (cégvezetői) minősége megszűnt. Ha a gazdálkodó szervezet vezetője a 31. § szerinti kötelezettségeit, továbbá a felszámolóval való együttműködési kötelezettségét nem teljesíti, a felszámoló az iratokat a bírósági végrehajtásról szóló 1994. évi LIII. törvény 31/D. §-a szerinti végrehajtói kézbesítés útján is eljuttathatja.
 
@@ -1352,6 +1352,12 @@ volt.
 (6c) Ha a munkavállaló a Pp. 508. § (7) bekezdésében meghatározott határidőben munkaügyi pert nem indít vagy a per jogerős érdemi határozat nélkül fejeződik be, a felszámoló a munkavállaló hitelezői igényének nyilvántartásba vételét megtagadja és erről a munkavállalót tájékoztatja.
 
 (7) Az (5) bekezdésben meghatározott követelések – kivéve az 57. § (1) bekezdés a) és c) pontjában foglalt követeléseket – nyilvántartásba vételének feltétele, hogy a hitelező a követelése tőkeösszegének 1%-át, de legalább 5000 forintot és legfeljebb 200 000 forintot a bíróság Gazdasági Hivatala által kezelt elkülönített számlára – a bírósági ügyszámra hivatkozással – befizessen, és ezt a felszámolónak igazolja. Ha a felszámolási eljárást közvetlenül csődeljárás előzte meg, és a hitelező a követelését ott bejelentette, és kifizette a nyilvántartásba-vételi díjat is, a felszámolási eljárásban a követelést nem kell ismét bejelentenie, azonban a felszámoló felhívására meg kell fizetnie a díjkülönbözetet. A hitelezők által befizetett összeget mint hitelezői követelést, az 57. § (1) bekezdésének f) pontja szerint kell besorolni. A Gazdasági Hivatal a felszámolót félévente, – elektronikus úton benyújtott megkeresés esetén elektronikus úton – tájékoztatja a számlán lévő összeg nagyságáról.
+
+(7a) Az (5) bekezdésben meghatározott követelések – kivéve az 57. § (1) bekezdés a) és c) pontjában foglalt követeléseket – nyilvántartásba vételének feltétele, hogy a 28. § (2) bekezdés f) pontjában meghatározott 40 napos határidőben a hitelező a követelése tőkeösszegének 0,5%-át, de legalább 5000 forint és legfeljebb 40 000 forint költségátalányt a felszámoló 27/C. § (4) bekezdés a) pont ac) alpontja szerinti pénzforgalmi számlájára – a bírósági ügyszámra hivatkozással – is befizessen, és ezt a felszámolónak igazolja. A hitelezők által befizetett összeget mint hitelezői követelést, az 57. § (1) bekezdésének f) pontja szerint kell besorolni. A felszámoló a költségátalány összegét a vagyonkutatási és vagyonvisszaszerzési tevékenységével összefüggő költségek kiegyenlítésére használhatja fel.
+
+(7b) A (7a) bekezdés szerint befizetett költségátalány felhasználását a felszámoló iratokkal, számlákkal alátámasztva igazolja a közbenső mérleghez csatolt szöveges jelentésében, illetve zárójelentésében.
+
+(7c) Ha a felszámolási eljárás során a (7a) bekezdés szerint befizetett összeg nem került teljes mértékben felhasználásra, a felszámoló a zárómérlegben kezdeményezi a hitelezők részére történő visszafizetést a befizetés arányában.
 
 (8) Ha a bejelentett követelést a felszámoló elismeri – de a jogosult nem kívánja a (7) bekezdésben foglalt összeget az elkülönített számlára befizetni –, a jogosult kérésére a felszámoló az elismert követelésről 2000 forint nettó összegű költségtérítés megfizetése ellenében köteles haladéktalanul kiadni a számvitelről szóló 2000. évi C. törvény 3. § (4) bekezdés 10. pont c) alpontja szerinti, a követelés behajthatatlanságára vonatkozó igazolást, feltéve, hogy a felszámolás kezdő időpontját követően a bejelentett követelést nem engedményezték, és a jogosult igényének kielégítésére várhatóan nincs fedezet. A költségtérítés a felszámolót illeti meg.
 
@@ -1596,7 +1602,7 @@ vonhatja le, az a)–f) pont szerinti levonásokat követően fennmaradó össze
 
 (2) Az (1) bekezdés szerinti keresetekre a 6. § szerinti bíróság kizárólagosan illetékes.
 
-55. §
+#### 55. §
 
 ### A felszámolási eljárás befejezése
 
@@ -1758,7 +1764,7 @@ kötelezi, ha az egyszerűsített felszámolási eljárásra a könyvvezetés, i
 
 (7) A (6) bekezdés a) pontja szerinti felszámolói díj megtérítését a Fővárosi Törvényszék Gazdasági Hivatalához kell befizetni. A Gazdasági Hivatal a központi költségvetést megillető összeget az 59. § (5) bekezdés szerinti elszámolás részeként mutatja ki. A központi költségvetést megillető összeg adók módjára behajtandó köztartozás, amelyet az állami adóhatóság hajt be. A végrehajtás során felmerült, ki nem egyenlített költségeket a központi költségvetés viseli.
 
-64. §
+#### 64. §
 
 ### IV. Fejezet — A STRATÉGIAILAG KIEMELT JELENTŐSÉGŰ GAZDÁLKODÓ SZERVEZETEKRE VONATKOZÓ ELTÉRŐ RENDELKEZÉSEK
 
@@ -1921,7 +1927,23 @@ hirdetheti ki.
 
 (7) A felszámoló a felszámolás elrendelését megelőzően közhiteles nyilvántartásba bejegyzett vagy jogszabály alapján fennálló elővásárlásra jogosulttal előzetesen közli, hogy az elővásárlási joggal érintett vagyonrész nem nyilvánosan kerül értékesítésre. A felszámoló a nem nyilvános értékesítésen kapott ajánlatot köteles közölni az elővásárlásra jogosulttal. Az elővásárlásra jogosult elővásárlási jogának gyakorlásáról haladéktalanul köteles dönteni és döntéséről a felszámolót tájékoztatni. Az elővásárlásra jogosult a vagyonrész (dologösszesség) egészére vonatkozó ajánlat tartalmát csak teljes egészében fogadhatja el.
 
-71–79. §
+#### 71. §
+
+#### 72. §
+
+#### 73. §
+
+#### 74. §
+
+#### 75. §
+
+#### 76. §
+
+#### 77. §
+
+#### 78. §
+
+#### 79. §
 
 ### V. Fejezet — EGYÉB RENDELKEZÉSEK
 
@@ -1929,7 +1951,7 @@ hirdetheti ki.
 
 (2) Ha a Nyugdíjbiztosítási Alapot megillető követelés a társadalombiztosítási nyugellátásról szóló törvényen alapuló ellátások – ideértve a korengedményes nyugdíjat is – megtérítése címén áll fenn, az állami adóhatóság a követelés behajtására jogosult szervezet.
 
-81. §
+#### 81. §
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -1985,7 +2007,7 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 
 83/E. § Az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvénnyel megállapított 57. § (1) bekezdés e) pontját és 57. § (6) bekezdését a hatálybalépés napját követően indult felszámolási eljárásokban kell alkalmazni.
 
-83/E. §
+#### 83/E. §
 
 83/F. § (1) A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint az azzal összefüggő egyes törvények módosításáról szóló 2009. évi LI. törvénnyel (a továbbiakban: 2009. évi LI. törvény) megállapított 7. § (3) bekezdés b) pontját a 2009. szeptember 1-jét követően kezdeményezett csődeljárásokat követő újabb csődeljárásoknál kell alkalmazni.
 
@@ -2078,6 +2100,8 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 (4) A 2020. évi LXXIII. törvénnyel módosított 40. § (1) és (5) bekezdést azokban a perekben kell alkalmazni, amelyekben a kereseti kérelmet a 2020. évi LXXIII. törvény hatálybalépését követően nyújtották be.
 
 (5) A 33/A. §-nak az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi CLXV. törvénnyel hatályon kívül helyezett (12) bekezdését akkor kell alkalmazni, ha a felszámolási eljárás jogerős lezárásáról hozott határozat Cégközlönyben való közzétételére még 2020. augusztus 1-jét megelőzően került sor, és a 33/A. § (1) bekezdése szerinti megállapítási perben 2020. augusztus 1-jén még nem volt jogerős bírósági határozat.
+
+83/Z. § E törvénynek a kényszertörlési eljárásra és a felszámolási eljárásra vonatkozó és kapcsolódó egyes törvények módosításáról szóló 2021. évi LXX. törvénnyel (a továbbiakban: 2021. évi LXX. tv.) megállapított rendelkezéseit a 2021. évi LXX. tv. hatálybalépése napját követően jogerősen elrendelt felszámolási eljárásokban kell alkalmazni.
 
 84. § (1) Ha a felszámoló vagy annak tagja nem felel meg a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény és egyéb törvények módosításáról szóló 2012. évi CIV. törvénnyel módosított 27/A. § (2) bekezdés szerinti átlátható és megismerhető tulajdonosi szerkezeti feltételeknek, a felszámolónak 2012. szeptember 1-jéig kell igazolnia a feltételek teljesítését a felszámolók névjegyzékét vezető szervnek.
 

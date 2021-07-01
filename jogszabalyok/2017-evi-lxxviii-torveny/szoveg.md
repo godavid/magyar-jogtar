@@ -29,7 +29,7 @@ az ügyvédi tevékenységről
 - c) a jogi tanácsadás,
 - d) az okiratszerkesztés,
 - e) az okirat ellenjegyzése,
-- f) az a)–e) pont szerinti ügyvédi tevékenységgel összefüggésben a szerkesztett okiratok és mellékleteik elektronikus okirati formába alakítása,
+- f) az a)–e) pont szerinti ügyvédi tevékenységgel összefüggésben a szerkesztett okiratok és mellékleteik elektronikus másolattá vagy elektronikus okirati formába alakítása (a továbbiakban együtt: elektronikus okirati formába alakítás),
 - g) az a)–f) pont szerinti ügyvédi tevékenységgel összefüggésben letét kezelése.
 
 (2) Nem minősül ügyvédi tevékenységnek
@@ -328,7 +328,7 @@ vonatkozásában áll fenn, akkor a korlátozás az egyéni ügyvédre, a teljes
 
 (2) Az erről szóló határozat jogerőre emelkedését követő három évig nem folytathat ügyvédi tevékenységet az, akivel szemben jogerősen megállapították, hogy jogosulatlanul folytatott rendszeresen és ellenérték fejében ügyvédi tevékenységet.
 
-(3) Az (1) bekezdés c) pont ca) és cb) alpontja kegyelmi mentesítés esetén nem alkalmazható.
+(3) Az (1) bekezdés c) pont ca)–cc) alpontja kegyelmi mentesítés esetén nem alkalmazható.
 
 #### 15. Az ügyvédi tevékenységgel összeférhetetlen tevékenységek
 
@@ -674,11 +674,13 @@ azzal, hogy ezt a körülményt, valamint a b) pont szerinti esetben az (1) beke
 
 46. § (1) Az ügyvéd és a kamarai jogtanácsos (ezen alcím alkalmazásában a továbbiakban együtt: ügyvéd) papíralapú okiratot – utalvány, értékpapír vagy más vagyoni értékű jogot megtestesítő okirat kivételével – elektronikus okirati formába alakíthat.
 
-(2) Az elektronikus okirati formába való alakítás során az Eüsztv.-t – az Eüsztv. 102. § (6) bekezdése, 103. § (4) és (5) bekezdése kivételével – és a végrehajtási rendeleteit azzal az eltéréssel kell alkalmazni, hogy az ügyvéd az elektronikus másolaton csak minősített elektronikus aláírást használhat és kizárólag oldalhű elektronikus másolatot készíthet.
+(2) Az elektronikus okirati formába való alakítás során az ügyvéd kizárólag oldalhű elektronikus másolatot készíthet. Az elektronikus okirati formába alakítás során az Eüsztv. 102. § (6) bekezdését, valamint 103. § (4) és (5) bekezdését nem kell alkalmazni.
 
-(3) A (2) bekezdés szerinti minősített elektronikus aláírás elhelyezésével az ügyvéd tanúsítja, hogy az elektronikus okirat a papíralapú okirattal az időbélyegzőben megjelölt időpontban mindenben megegyezett. A tanúsítás – az ellenkező bizonyításáig – teljes bizonyító erővel bír.
+(3) A 3. § (1) bekezdés l) pontjában meghatározott kiegészítő jellegű tevékenység ellátása során az ügyvéd kizárólag a 18. § (1) bekezdése szerinti követelményeknek megfelelő elektronikus aláírását használhatja.
 
-(4) Az ügyvéd az általa ellenjegyzett papíralapú okirat elektronikus formába való alakítása során az elektronikus okiratot is ellenjegyzi a 43. § (3) bekezdésében foglaltak szerint.
+(4) Ha az ügyvéd az elektronikus okirati formába alakítás során az elektronikus másolaton a 18. § (1) bekezdése szerinti követelményeknek megfelelő elektronikus aláírását és időbélyegzőt helyez el, az ellenkező bizonyításáig úgy kell tekinteni, hogy az elektronikus okirat a papíralapú okirattal az időbélyegzőben megjelölt időpontban mindenben megegyezett.
+
+(4a) Ha az ügyvéd az általa ellenjegyzett papíralapú okiratot a (4) bekezdés szerint alakítja elektronikus formába, az elektronikus okirat is ügyvéd által ellenjegyzett magánokiratnak minősül.
 
 (5) Az ügyvéd az elektronikus okiratot – ha a felek ennél hosszabb ideig történő őrzésben nem egyeztek meg – a másolatkészítéstől számított tíz évig megőrzi.
 
@@ -2110,7 +2112,7 @@ az új tisztségviselők megbízatásának a kezdő napjáig, illetve a b) pont 
 - 35. az ügyvédi kamarai nyilvántartás adatszerkezetének egységességére, a kamarai azonosító szám képzésére, az ügyvédi kamarai nyilvántartás informatikai rendszerének működtetésére és az ügyvédkereső működtetésére vonatkozó szabályokról,
 - 36. minden olyan kérdésben, amelyre az Alapszabály feljogosítja.
 
-(2) Az Alapszabály, valamint az (1) bekezdés 8., 11., 14. és 20. pontban felsorolt szabályzatok a Magyar Ügyvédi Kamara kiemelt szabályzatai.
+(2) Az Alapszabály, valamint az (1) bekezdés 8., 11., 14., 20. és 21. pontban felsorolt szabályzatok a Magyar Ügyvédi Kamara kiemelt szabályzatai.
 
 (3) Az Alapszabály a Magyar Ügyvédi Kamara tagjaira, a Magyar Ügyvédi Kamara szabályzata a területi kamarákra, a területi kamara tagjaira, és a területi kamara által az ügyvédi kamarai nyilvántartásba vett személyekre kötelező.
 

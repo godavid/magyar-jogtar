@@ -18,7 +18,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 ### A közvetítés fogalma
 
-2. § A közvetítés e törvény alapján lefolytatott olyan sajátos permegelőző vagy bírósági, illetve hatósági eljárás befejezését elősegítő, egyeztető, konfliktuskezelő, vitarendező eljárás, amelynek célja – összhangban az 1. § (1) bekezdésében foglaltakkal – a vitában érdekelt felek kölcsönös megegyezése alapján a vitában nem érintett, harmadik személy (a továbbiakban: közvetítő) bevonása mellett a felek közötti vita rendezésének megoldását tartalmazó írásbeli megállapodás létrehozása.
+2. § A közvetítés e törvény alapján lefolytatott olyan sajátos permegelőző vagy bírósági, illetve hatósági eljárás befejezését elősegítő, egyeztető, konfliktuskezelő, vitarendező eljárás, amelynek célja – összhangban az 1. § (1) bekezdésében foglaltakkal – a vitában érdekelt felek kölcsönös megegyezése alapján a vitában nem érintett, harmadik személy (a továbbiakban: közvetítő) bevonása mellett a felek közötti vita rendezésének megoldását tartalmazó írásbeli megállapodás létrehozásának elősegítése.
 
 ### A közvetítő feladata
 
@@ -36,7 +36,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 5. § (1) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti bejelentés alapján a névjegyzékbe fel kell venni azt a – cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt nem álló – természetes személyt, aki
 
-- a) felsőfokú végzettséggel és a végzettség megszerzésétől számított, annak megfelelő legalább ötéves igazolt szakmai gyakorlattal rendelkezik,
+- a) felsőfokú végzettséggel és a végzettség megszerzésétől számított, felsőfokú végzettséghez kötött legalább ötéves igazolt szakmai gyakorlattal rendelkezik,
 - b) a miniszter rendeletében meghatározott közvetítői szakmai képzést elvégezte,
 - c) büntetlen előéletű, és nem áll a közvetítői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
 
@@ -50,6 +50,8 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 (4) A természetes személy a jogszabályban meghatározott módon köteles igazolni, hogy a közvetítői tevékenységhez szükséges elméleti és gyakorlati ismereteket a közvetítői szakmai képzés elvégzésével elsajátította.
 
 (5) Vizsgálat alapján történő törlés esetén a természetes személy és jogi személy a törlésről szóló határozat véglegessé válásától számított öt évig nem vehető fel a névjegyzékbe.
+
+(6) Ha a természetes személyt azért kell törölni a névjegyzékből, mert a továbbképzésre vonatkozó kötelezettségének nem tesz eleget, a természetes személy mindaddig nem vehető fel ismételten a névjegyzékbe, amíg az elmaradt továbbképzési kötelezettségét nem teljesíti.
 
 5/A. § Az ellenőrzés során megismert személyes adatokat a miniszter a hatósági ellenőrzés időtartamára vagy a névjegyzékből való törlésre irányuló eljárásban az eljárás végleges vagy jogerős befejezéséig kezeli.
 
@@ -86,9 +88,9 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 (2a) Az (1) és (2) bekezdés szerinti névjegyzék – az (1) bekezdés a)–c), k) és m) pontjában, valamint a (2) bekezdés a)–c) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(3) A névjegyzék adatai – a 6. § (1) bekezdés b), k), l) pontjaiban foglaltak kivételével – nyilvánosak, amelyeket a miniszter a világhálón tesz közzé.
+(3) A névjegyzék adatai – a 6. § (1) bekezdés b) és k) pontjában foglaltak kivételével – nyilvánosak, amelyeket a miniszter a világhálón tesz közzé.
 
-(4) A nyilvános adatok jogszabályban meghatározott körét a miniszter a Hivatalos Értesítőben is közzéteszi.
+(4)
 
 (5) A névjegyzékben kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
@@ -104,7 +106,7 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 8. § (1) A névjegyzékbe történő felvétel iránti bejelentést egy példányban, az erre rendszeresített nyomtatvány kitöltésével a miniszterhez kell benyújtani.
 
-(2) A bejelentésnek a 6. § (1) és (2) bekezdésében felsorolt adatokat kell – a 6. § (1) bekezdés d), e), és n) pontjában, továbbá a 6. § (2) bekezdés f) pontjában foglaltak kivételével – tartalmaznia. A bejelentéshez csatolni kell a 6. § (1) bekezdésének – a közvetítői szakmai képzés elvégzését igazoló okirat kivételével – a c), f), és m) pontjában írtak igazolására szolgáló iratokat, valamint a közvetítői szakmai képzés elvégzését igazoló eredeti okiratot vagy annak hiteles másolatát.
+(2) A bejelentésnek a 6. § (1) és (2) bekezdésében felsorolt adatokat kell – a 6. § (1) bekezdés d), e) és n) pontjában, továbbá a 6. § (2) bekezdés f) pontjában foglaltak kivételével – tartalmaznia. A bejelentéshez csatolni kell a 6. § (1) bekezdés c), f) és m) pontjában foglaltak igazolására szolgáló iratokat.
 
 (3)
 
@@ -114,9 +116,9 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 
 (6)
 
-9. § (1) A miniszter hivatalbóli eljárásban a közvetítőt a névjegyzékbe történő felvételét követően közvetítői minőségének igazolására szolgáló arcképes közvetítői igazolvánnyal látja el. Az igazolvány személyesen vehető át.
+9. § (1) A miniszter hivatalból indult eljárásban a közvetítőt a névjegyzékbe történő felvételét követően közvetítői minőségének igazolására szolgáló arcképes közvetítői igazolvánnyal látja el. A közvetítői igazolvány kizárólag postai úton, hivatalos iratként küldhető meg a közvetítő részére.
 
-(2) Ha a névjegyzékbe felvételt nyert természetes személy jogi személy alkalmazottjaként jogosult a közvetítői tevékenység folytatására, az igazolvány a jogi személy elnevezését is tartalmazza.
+(2)
 
 ### A közvetítői tevékenység szüneteltetése
 
@@ -136,20 +138,23 @@ Az Országgyűlés a polgári jogviták bíróságon kívüli rendezésének el�
 - b) a közvetítői feladatainak ellátására tartósan képtelenné válik,
 - c) a miniszter a törlést vizsgálat alapján elrendelte,
 - d) a továbbképzésre vonatkozó kötelezettségének nem tesz eleget,
-- e) azt a természetes személy kéri, vagy
-- f) meghalt.
+- e) a közvetítői tevékenysége szüneteltetésének megkezdésétől számított öt év anélkül telt el, hogy bejelentette volna a szüneteltetés befejezésének tényét,
+- f) azt a természetes személy kéri – a (3) bekezdés szerinti kivételekkel –, vagy
+- g) meghalt.
 
 (2) A jogi személyt a névjegyzékből törölni kell, ha
 
 - a) a hatóság, bíróság a nyilvántartásból törli,
-- b) nem felel meg az 5. § (3) bekezdésében foglaltaknak,
+- b) nem felel meg az 5. § (2) bekezdésében foglaltaknak,
 - c) a közvetítői tevékenység folytatására feljogosított valamennyi alkalmazottjának a közvetítői tevékenysége szünetel,
 - d) a miniszter a törlést vizsgálat alapján elrendelte,
 - e) azt a jogi személy kéri.
 
-(3) A természetes személy és a jogi személy csak akkor kérheti a névjegyzékből való törlést, ha folyamatban lévő közvetítői eljárásban nem vesz részt.
+(3) A természetes személy és a jogi személy csak akkor kérheti a névjegyzékből való törlést, ha folyamatban lévő közvetítői eljárásban nem vesz részt. A természetes személy és a jogi személy nem kérheti a névjegyzékből való törlést, amíg vele szemben vizsgálat van folyamatban, vagy természetes személlyel szemben a továbbképzési kötelezettség elmulasztásának megállapításával kapcsolatos hivatalból indított eljárás van folyamatban.
 
 (4) Az (1) bekezdés c) pontja és a (2) bekezdés d) pontja esetében figyelmeztetés közigazgatási szankció nem alkalmazható.
+
+(5) A miniszter a névjegyzékből törölt személynek a törlés időpontjában – jogszabály alapján – nyilvántartott adatait a névjegyzékbe történő ismételt felvétel e törvény szerinti feltételeinek ellenőrzése, hatósági feladatainak ellátása, valamint a hatóságok igazságszolgáltatási feladatainak adatszolgáltatás nyújtásával történő elősegítése céljából kezelheti és azokat kizárólag az adatok kezelésére jogosult más szerv vagy személy részére továbbíthatja. A névjegyzékből törölt személy tekintetében kezelt adatok törlése iránt a miniszter a névjegyzékből történő törlés időpontjától számított tíz év elteltével gondoskodik.
 
 12. § (1) A természetes személy és a jogi személy a névjegyzékből hivatalból való törlésről szóló határozat kézhezvételét követő 8 napon belül köteles a folyamatban lévő közvetítői eljárást megszüntetni és a felekkel elszámolni.
 
@@ -463,6 +468,10 @@ a közvetítői eljárásban
 40/A. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a névjegyzék vezetésére, a névjegyzékbe történő felvétel iránti bejelentés benyújtására, a névjegyzékben szereplő adatok kezelésére vonatkozó részletes szabályokat.
 
 41. § Az OBH elnöke szabályzatban állapítja meg a bírósági közvetítéssel kapcsolatos részletszabályokat.
+
+### Európai uniós követelményekre utaló rendelkezések
+
+41/A. § Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 42. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 

@@ -48,7 +48,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 
 - a) a Magyar Posta Zártkörűen Működő Részvénytársaság felett – ha miniszteri rendelet eltérően nem rendelkezik – az állami vagyon felügyeletéért felelős miniszter (a továbbiakban: miniszter),
 - b) azon állami tulajdonban álló ingatlanok felett, amelyek egy része a Nemzeti Földalapba tartozik, a miniszter az agrárpolitikáért felelős miniszterrel közösen, a Nemzeti Földalapról szóló törvény, valamint annak végrehajtására kiadott jogszabályban meghatározottak szerint,
-- c) a HM ArmCom Kommunikációtechnikai Zártkörűen Működő Részvénytársaság, a HM Arzenál Elektromechanikai Zártkörűen Működő Részvénytársaság, a HM CURRUS Gödöllői Harcjárműtechnikai Zártkörűen Működő Részvénytársaság, a HM Elektronikai, Logisztikai és Vagyonkezelő Zártkörűen Működő Részvénytársaság felett a miniszter
+- c) a HM Elektronikai, Logisztikai és Vagyonkezelő Zártkörűen Működő Részvénytársaság felett a miniszter,
 - d) a víziközmű-szolgáltató társaságok állami tulajdonú társasági részesedése felett a Nemzeti Vízművek Zártkörűen Működő Részvénytársaság
 
 gyakorolja.

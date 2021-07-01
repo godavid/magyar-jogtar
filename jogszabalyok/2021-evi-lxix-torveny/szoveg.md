@@ -135,7 +135,7 @@ lép.
 
 37. § Az Áfa tv.
 
-- 1.
+- 1. 85. § (1) bekezdés i) pontjában a „felnőttképző vagy” szövegrész helyébe a „felnőttképző, a szakképzésről szóló törvény szerinti akkreditált vizsgaközpont, ennek hiányában a szakmai vizsgát, illetve a képesítő vizsgát a szakképzésről szóló törvény szerint megszervező személy vagy”,
 - 2.
 - 3.
 - 4.
@@ -426,7 +426,9 @@ lép.
 
 #### 14. Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény módosítása
 
-118. §
+118. § Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény (a továbbiakban: Avt.) 15. § (5a) bekezdése helyébe a következő rendelkezés lép:
+
+„(5a) A felfüggesztés tárgyában hozott végzés elleni fellebbezésnek a döntés végrehajtására nincs halasztó hatálya.”
 
 119. §
 
@@ -436,13 +438,19 @@ lép.
 
 122. §
 
-123. §
+123. § Az Avt. a 124. §-a a következő (4) és (5) bekezdéssel egészül ki:
+
+„(4) Ha a meghatározott cselekmény kizárólag személyesen az adós által végezhető el, és a 122. § (2)–(5) bekezdésében foglalt eljárás eredménytelenül zárul, az állami adó- és vámhatóság az eljárás eredménytelenségéről jegyzőkönyvet vesz fel, amelyet megküld a behajtást kérő hatóság részére, egyúttal tájékoztatja azt az eljárás megszüntetéséről.
+
+(5) Ha a meghatározott cselekmény végrehajtása során közreműködő szervezet igénybevétele a 123. § alapján nem indokolt, vagy nem lehetséges, és a 122. § (2)–(6) bekezdésében foglalt eljárás eredménytelenül zárul, az állami adó- és vámhatóság az eljárás eredménytelenségéről jegyzőkönyvet vesz fel, amelyet megküld a behajtást kérő hatóság részére, egyúttal tájékoztatja azt az eljárás megszüntetéséről.”
 
 ### VIII. Fejezet — VÁMIGAZGATÁS
 
 #### 15. Az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény módosítása
 
-124. §
+124. § Az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény (a továbbiakban: Vtv.) 13. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Az (1) bekezdéstől eltérően a 952/2013/EU európai parlamenti és tanácsi rendeletnek az Uniós Vámkódex egyes rendelkezéseire vonatkozó részletes szabályok tekintetében történő kiegészítéséről szóló 2015. július 28-i (EU) 2015/2446. felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: FJA) 143a. cikke szerinti, a kis értékű szállítmányok szabad forgalomba bocsátására benyújtható vám-árunyilatkozaton az árumegnevezés megadható angol nyelven is.”
 
 125. §
 

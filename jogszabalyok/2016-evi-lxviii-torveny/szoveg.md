@@ -1355,14 +1355,14 @@ készpénzfizetéssel is értékesíthető.
 
 forgalmazhat.
 
-(3) Sört, csendes és habzóbort, egyéb csendes és habzó erjesztett italt, köztes alkoholterméket és alkoholterméket jövedéki kiskereskedő a kereskedelmi tevékenységek végzésének feltételeiről szóló jogszabály szerinti alkalmi rendezvényen, a kereskedelemről szóló törvény szerinti közterületi értékesítés keretében, vásáron vagy piacon akkor forgalmazhat, ha az állami adó- és vámhatóságnak – a végrehajtási rendeletben meghatározott adattartalommal – az értékesítés megkezdése előtt legkésőbb 3 munkanappal bejelentést tesz.
+(3)
 
 71. § Bérfőzető a bérfőzött párlatot
 
 - a) adóraktár engedélyese részére, vagy
 - b) – ha a bérfőzető a kistermelői élelmiszer-termelés, -előállítás és -értékesítés feltételeiről szóló miniszteri rendelet szerinti kistermelőnek minősül és megfizette a 132. § (2) bekezdés a) pont ab) alpontja szerinti jövedéki adót – palackozott kiszerelésben, zárjeggyel ellátva
   - ba) a gazdasága helyén a kereskedelemről szóló törvény szerinti vendéglátás vagy szálláshely-szolgáltatás keretében, vagy
-  - bb) a gazdasága helyétől légvonalban számítva Magyarország területén legfeljebb 40 km távolságon belüli, a kereskedelemről szóló törvény szerinti vásáron vagy piacon folytatott kereskedelmi tevékenység keretében, a 70. § (3) bekezdése szerinti bejelentés megtételével
+  - bb) a gazdasága helyétől légvonalban számítva Magyarország területén legfeljebb 40 km távolságon belüli, a kereskedelemről szóló törvény szerinti vásáron vagy piacon folytatott kereskedelmi tevékenység keretében
 
 értékesítheti.
 

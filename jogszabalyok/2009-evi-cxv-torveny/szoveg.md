@@ -93,6 +93,7 @@ kell megtenni.
 - c) a főtevékenységet, és a folytatni kívánt egyéb tevékenységet (tevékenységeket) a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendeleten alapuló TEÁOR-számokból képzett a mindenkor hatályos Önálló vállalkozók tevékenységi jegyzéke (ÖVTJ) szerinti ÖVTJ kód szerint megjelölve,
 - d) a székhely, valamint szükség szerint a telephely (telephelyek) és a fióktelep (fióktelepek) címét,
 - e) az adózás rendjéről szóló törvényben meghatározott további adatokat és nyilatkozatokat, amelyek az állami adóhatósághoz való bejelentkezési kötelezettség teljesítéséhez szükségesek.
+- f) a székhelye szerint illetékes területi gazdasági kamarához címzett nyilvántartásba vétel iránti kérelmet.
 
 (2) A bejelentési űrlapnak tájékoztatást kell tartalmaznia arról, hogy a bejelentő mely adatai és milyen célból kerülnek be az egyéni vállalkozói nyilvántartásba és ezek közül melyek lesznek bárki számára megismerhető, nyilvános adatok.
 
@@ -108,7 +109,7 @@ kell megtenni.
 
 (4) Ha a bejelentő a bejelentési űrlapot megfelelően töltötte ki, a nyilvántartást vezető szerv nem mérlegelheti a (2) és (3) bekezdésben foglaltak végrehajtását.
 
-(5) A nyilvántartást vezető szerv a 9. § szerinti értesítés megküldésével egyidejűleg a nyilvántartásba vételről értesíti a Központi Statisztikai Hivatalt, a Közreműködő Szervet, valamint a Hatóságot.
+(5) A nyilvántartást vezető szerv a 9. § szerinti értesítés megküldésével egyidejűleg a nyilvántartásba vételről értesíti a Központi Statisztikai Hivatalt, a Közreműködő Szervet, a Hatóságot, valamint a székhelye szerint illetékes területi gazdasági kamarát.
 
 (6) Az egyéni vállalkozói tevékenység a nyilvántartásba vétel napján kezdhető meg.
 
@@ -184,7 +185,7 @@ kell megtenni.
 
 (2) Az adatváltozás bejelentésére és nyilvántartásba vételére a 6. és 7. §-t kell alkalmazni azzal, hogy az értesítés az egyéni vállalkozó nyilvántartási számát, a 9. § a) és b) pontjában meghatározott, valamint az adatváltozással érintett adatokat tartalmazza.
 
-(3) A nyilvántartást vezető szerv az (1) és (2) bekezdésben foglalt esetekben a megváltozott adatokról értesíti a Központi Statisztikai Hivatalt, a Közreműködő Szervet, valamint a Hatóságot.
+(3) A nyilvántartást vezető szerv az (1) és (2) bekezdésben foglalt esetekben a megváltozott adatokról értesíti a Központi Statisztikai Hivatalt, a székhely szerint illetékes területi gazdasági kamarát, a Közreműködő Szervet, valamint a Hatóságot.
 
 ### Az egyéni vállalkozói tevékenység
 
@@ -216,15 +217,15 @@ kell megtenni.
 
 ### Az egyéni vállalkozói tevékenység szünetelése
 
-18. § (1) Az egyéni vállalkozó egyéni vállalkozói tevékenységét legalább egy hónapig és legfeljebb két évig szüneteltetheti. A szünetelés bejelentésére az e §-ban meghatározott eltérésekkel az egyéni vállalkozói tevékenység megkezdésének bejelentésére vonatkozó szabályokat kell megfelelően alkalmazni.
+18. § (1) Az egyéni vállalkozó egyéni vállalkozói tevékenységét legalább egy hónapig és legfeljebb három évig szüneteltetheti. A szünetelés bejelentésére az e §-ban meghatározott eltérésekkel az egyéni vállalkozói tevékenység megkezdésének bejelentésére vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(2) Amennyiben az egyéni vállalkozó egyéni vállalkozói tevékenységét szüneteltetni kívánja, köteles azt a változásbejelentési űrlapon a nyilvántartást vezető szervnél megfelelő módon bejelenteni, amely a szünetelés tényét és kezdő időpontját az egyéni vállalkozók nyilvántartásába bejegyzi. A szünetelés kezdő napja a bejelentést követő nap. A nyilvántartást vezető szerv a szünetelésről haladéktalanul, elektronikus úton értesíti a Központi Statisztikai Hivatalt, valamint a Hatóságot.
+(2) Amennyiben az egyéni vállalkozó egyéni vállalkozói tevékenységét szüneteltetni kívánja, köteles azt a bejelentési vagy változásbejelentési űrlapon a nyilvántartást vezető szervnél bejelenteni, akár a tevékenység megkezdésének bejelentésével egyidejűleg, amely a szünetelés tényét és kezdő időpontját az egyéni vállalkozók nyilvántartásába bejegyzi. A szünetelés kezdő napja nem lehet korábbi a bejelentést követő napnál. A szünetelés kezdő napja a bejelentést követően nem módosítható. A nyilvántartást vezető szerv a szünetelésről haladéktalanul, elektronikus úton értesíti a Központi Statisztikai Hivatalt, a székhely szerint illetékes területi gazdasági kamarát, valamint a Hatóságot.
 
 (3) A szünetelés bejelentését követően, annak tartama alatt az egyéni vállalkozó egyéni vállalkozói tevékenységet nem végezhet, egyéni vállalkozói tevékenységhez kötődő új jogosultságot nem szerezhet, új kötelezettséget nem vállalhat. Az egyéni vállalkozó tevékenységének folytatása során a szünetelésig keletkezett és azt követően esedékessé váló fizetési kötelezettségeit a szünetelés ideje alatt is köteles teljesíteni.
 
 (3a) Az egyéni vállalkozó tevékenységének szünetelése alatt kizárólag székhelyének változását jelentheti be a nyilvántartást vezető szervnek.
 
-(4) Az egyéni vállalkozó szüneteltetett egyéni vállalkozói tevékenységét a változásbejelentési űrlapon benyújtott, az egyéni vállalkozói tevékenység folytatására vonatkozó, a nyilvántartást vezető szervnél megfelelő módon tett bejelentésével folytathatja. A bejelentésben nyilatkozni kell arról, hogy az egyéni vállalkozó az egyéni vállalkozói tevékenység folytatására előírt feltételeknek továbbra is megfelel. A tevékenység folytatásának kezdő napja a bejelentést követő nap. A nyilvántartást vezető szerv a szünetelés záró napját bejegyzi az egyéni vállalkozók nyilvántartásába, és erről haladéktalanul, elektronikus úton értesíti a Központi Statisztikai Hivatalt, valamint a Hatóságot.
+(4) Az egyéni vállalkozó szüneteltetett egyéni vállalkozói tevékenységét a változásbejelentési űrlapon benyújtott, az egyéni vállalkozói tevékenység folytatására vonatkozó, a nyilvántartást vezető szervnél megfelelő módon tett bejelentésével folytathatja. A bejelentésben nyilatkozni kell arról, hogy az egyéni vállalkozó az egyéni vállalkozói tevékenység folytatására előírt feltételeknek továbbra is megfelel. A tevékenység folytatásának kezdő napja a bejelentést követő nap. A nyilvántartást vezető szerv a szünetelés záró napját bejegyzi az egyéni vállalkozók nyilvántartásába, és erről haladéktalanul, elektronikus úton értesíti a Központi Statisztikai Hivatalt, a székhely szerint illetékes területi gazdasági kamarát, valamint a Hatóságot.
 
 (5)
 
@@ -234,13 +235,13 @@ kell megtenni.
 
 19. § (1) Az egyéni vállalkozói tevékenységre való jogosultság e törvény erejénél fogva megszűnik
 
-- a) ha az egyéni vállalkozó tevékenysége megszüntetését a Közreműködő Szervnek vagy a nyilvántartó szervnek bejelenti, a bejelentés napján,
+- a) ha az egyéni vállalkozó tevékenysége megszüntetését a Közreműködő Szervnek vagy a nyilvántartó szervnek bejelenti, legkorábban a tevékenység megkezdésének bejelentésével egyidejűleg, a bejelentésben megjelölt napon, amely nem lehet korábbi a bejelentést követő napnál, és amely időpont a bejelentést követően nem módosítható;
 - b) ha az egyéni vállalkozó egyéni céget vagy a 19/C. § szerinti korlátolt felelősségű társaságot alapított, a 32. § (1) és (2) bekezdése szerint az egyéni cég tagjává vált, a cégbejegyző határozat jogerőre emelkedésének napját megelőző napon, vagy ha az egyéni vállalkozó átruházással megszerezte az egyéni cég vagyoni betétjét, az átruházás napján,
 - c) az egyéni vállalkozó halála napján,
 - d) az egyéni vállalkozó gondnokság alá helyezéséről szóló bírósági határozat jogerőre emelkedésének a napján,
 - e) ha az adóhatóság törölte az egyéni vállalkozó adószámát, a törlést kimondó határozat véglegessé válásának napján,
 - f) a 3. § (2) bekezdés b), illetve c) pontjaiban meghatározott kizáró ok bekövetkezése esetén, a 19/B. §-ban foglalt összeférhetetlenség megállapításakor, valamint
-- g) ha az egyéni vállalkozó a 18. § (1) bekezdésben foglalt időpontig nem jelentette be az egyéni vállalkozói tevékenység folytatását vagy megszüntetését, a szünetelés kezdőnapját követő két év elteltét követő napon.
+- g) ha az egyéni vállalkozó a 18. § (1) bekezdésben foglalt időpontig nem jelentette be az egyéni vállalkozói tevékenység folytatását vagy megszüntetését, a szünetelés kezdőnapját követő három év elteltét követő napon.
 
 (2) Az egyéni vállalkozói tevékenységre való jogosultság megszűnése alapjául szolgáló tényről
 
@@ -256,7 +257,7 @@ elektronikus úton értesíti a nyilvántartást vezető szervet.
 - b)
 - c) ha az egyéni vállalkozó a 11. § (1) bekezdés c) pontja szerinti tevékenységek egyikét sem folytathatja jogszerűen,
 
-(4) A nyilvántartást vezető szerv azt az egyéni vállalkozót, akinek az egyéni vállalkozói tevékenységre való jogosultsága megszűnt, az illetékes hatóság értesítése alapján a jogosultság megszűnésének napjával hivatalból törli a nyilvántartásból, és erről az egyéni vállalkozót – az (1) bekezdés c) és e) pontjának kivételével – tájékoztatja. A nyilvántartást vezető szerv a nyilvántartásból való törlésről és annak időpontjáról haladéktalanul, elektronikus úton tájékoztatja a Központi Statisztikai Hivatalt, valamint a Hatóságot.
+(4) A nyilvántartást vezető szerv azt az egyéni vállalkozót, akinek az egyéni vállalkozói tevékenységre való jogosultsága megszűnt, az illetékes hatóság értesítése alapján a jogosultság megszűnésének napjával hivatalból törli a nyilvántartásból, és erről az egyéni vállalkozót – az (1) bekezdés c) és e) pontjának kivételével – tájékoztatja. A nyilvántartást vezető szerv a nyilvántartásból való törlésről és annak időpontjáról haladéktalanul, elektronikus úton tájékoztatja a Központi Statisztikai Hivatalt, a székhely szerint illetékes területi gazdasági kamarát, valamint a Hatóságot.
 
 ### Az egyéni vállalkozói tevékenység ellenőrzése
 

@@ -69,7 +69,7 @@ látja el.
 3. § (1) A települési, a fővárosban a fővárosi önkormányzat feladata
 
 - a) a helyi közszolgáltatást megvalósító komp- és révközlekedés – önkormányzati hatáskörbe tartozó – működőképességének és fejlesztésének biztosítása,
-- b) a településrendezési eszközök készítésénél és elfogadásánál a létesítendő kikötő működtetéséhez szükséges és megfelelő parti terület kijelölése, az igénybevétel feltételeinek tervezhető módon, hosszú távra történő meghatározása, a megyei önkormányzat bevonásával.
+- b) a településrendezési terv készítésénél és elfogadásánál a létesítendő kikötő működtetéséhez szükséges és megfelelő parti terület kijelölése, az igénybevétel feltételeinek tervezhető módon, hosszú távra történő meghatározása, a megyei önkormányzat bevonásával.
 
 (2) Személyforgalomban menetrend szerinti helyi közszolgáltatást végző hajózási engedélyes kiválasztására, a közszolgáltatásból eredő jogokat, kötelezettségeket, valamint a közszolgáltatás bevételekkel nem fedezett indokolt költségeihez nyújtott önkormányzati működési támogatásra vonatkozó közszolgáltatási szerződésre a személyszállítási szolgáltatásokról szóló törvényt kell megfelelően alkalmazni.
 
@@ -737,10 +737,12 @@ kezeli.
 
 (4a) A Vizsgaközpont az e törvényben, valamint a hajózási képesítésekről szóló miniszteri rendeletben meghatározott vizsgáztatási tevékenységével összefüggésben jogosult a (4) bekezdés a) pontjában foglalt, valamint a hajózási képesítő vizsgára jelentkező és a vizsgát tett személy egészségi alkalmasságra vonatkozó adatait a vizsgára jelentkezéstől számítottan két évig, a vizsgára jelentkező és a vizsgát tett személy természetes személyazonosító adatait, képesítéssel kapcsolatos adatait kezelni és – ezek hitelességének utólagos igazolása céljából – nyilvántartani a vizsga letételét követő 40 évig.
 
+(4b) A személyiadat- és lakcímnyilvántartást kezelő szerv a vizsgaközpont adatkérése alapján az úszólétesítményen fedélzeti és gépüzemi szolgálatot ellátó személyek, továbbá a hajózási üzemeltetési vezetők, valamint a kedvtelési céllal közlekedő úszólétesítmény vezetői képzésén részt vevők, illetve ehhez kapcsolódóan vizsgára jelentkezők adatainak ellenőrzése céljából díjmentesen átadja a résztvevők, valamint jelentkezők természetes személyazonosító adatait.
+
 (5) A hajózási hatóság a büntetett előéletre, a foglalkozástól eltiltásra vagy a járművezetéstől eltiltásra vonatkozóan kezelt adatot
 
 - a) a (4) bekezdés a) pontjában meghatározott esetben a Vizsgabiztosok Névjegyzékéből való törlésig,
-- b) a (4) bekezdés b) pontjában meghatározott esetben a vizsga letételéig,
+- b) a (4) bekezdés b) pontjában meghatározott esetben a vizsga letételéig, vagy a hajózási képesítéshez kötött foglalkozásától vagy járművezetéstől eltiltás hatályának lejáratáig
 - c) a (4) bekezdés c) pontjában meghatározott esetben az engedély visszavonásáig vagy hatályának lejártáig kezeli.
 
 (6) A hajózási hatóság a tengerészek jogszerű foglalkoztatásának biztosítása érdekében a tengerész munkaközvetítői és munkaerő-kölcsönzési tevékenység feltételeiről szóló kormányrendeletben meghatározottak szerint a tengerész munkaközvetítőkről és a tengerész kölcsönbeadókról nyilvántartást vezet, amely a következő adatokat tartalmazza:

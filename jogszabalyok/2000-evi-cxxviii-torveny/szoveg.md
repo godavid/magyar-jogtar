@@ -23,7 +23,7 @@ személy által – a vezetői engedéllyel vezethető járművekkel elkövetett
 
 (4) Nem állapítható meg pont olyan szabályszegés elkövetése esetén, amely miatt a bíróság vagy a szabálysértési hatóság járművezetéstől eltiltást, meghatározott járműkategória, alkategória, kombinált kategória (a továbbiakban: járműkategória) vezetésétől való eltiltást alkalmazott.
 
-(5) A járművezetőnek az eltiltás jogerőre emelkedésének időpontjáig nyilvántartásba vett pontjait törölni kell, ha a vezetői engedély visszaadására utánképzést követően kerülhet sor.
+(5)
 
 4. § (1) Az 1. § (1) bekezdése alapján a szabályszegésekhez rendelhető pontok száma:
 
@@ -78,15 +78,17 @@ személy által – a vezetői engedéllyel vezethető járművekkel elkövetett
 
 5/A. § A Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz tartozó tárhelyszolgáltatás kijelölt szolgáltatója a Nyilvántartó természetes személyazonosító adatokat tartalmazó elektronikus kérelmére megküldi a Nyilvántartó részére a természetes személy kapcsolati kódját és tárhely-azonosítóját. Az adatszolgáltatás adatait a Nyilvántartó a járművezetővel való elektronikus úton történő kapcsolatfelvételre használhatja fel.
 
-6. § (1) A nyilvántartásba vett pontszámot a pontszám alapját képező szabályszegést megállapító határozat jogerőre emelkedésének, illetve a helyszíni bírság tudomásulvételének időpontjától számított legfeljebb három évig lehet a pontok összesítésénél figyelembe venni.
+6. § (1) A nyilvántartásba vett pontszámot a pontszám alapját képező szabályszegést megállapító határozat jogerőre emelkedésének, illetve a helyszíni bírság tudomásulvételének időpontjától számított legfeljebb három évig lehet a pontok összesítésénél figyelembe venni (elévülés).
 
 (2) A Nyilvántartó értesíti a járművezetőt, ha pontjainak száma a 13-at elérte, – a 9. § (1a) bekezdésben foglalt korlátozás figyelembe vételével – tájékoztatja a pontok csökkentését eredményező önkéntes utánképzés lehetőségéről, továbbá figyelmezteti a felső pontérték elérésének következményeire.
 
 7. § (1) Ha a járművezető nyilvántartott pontjainak száma elérte vagy meghaladta a 18-at, a Nyilvántartó három napon belül értesíti az illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi hivatalát (a továbbiakban: közlekedési igazgatási hatóság), amely ennek alapján a járművezető vezetői engedélyét határozattal, nyolc napon belül visszavonja.
 
-(1a)
+(1a) 18 pont elérése vagy meghaladása esetén a pontösszesítés időpontja a 18 pont elérését vagy meghaladását eredményező pontérték nyilvántartásba vételének dátuma. Az így megállapított összpontszámba tartozó pontértékek tekintetében, a pontösszesítést követően a 6. § (1) bekezdésében meghatározott elévülés már nem vehető figyelembe.
 
 (2) Az (1) bekezdés alapján hozott határozat véglegessé válásakor nyilvántartott pontokat a közlekedési igazgatási hatóság törli.
+
+7/A. § A járművezető a közúti közlekedési nyilvántartás engedély-nyilvántartásában szereplő saját közúti közlekedési előéleti pontrendszer adatairól díjmentesen kérhet tájékoztatást a Nyilvántartótól.
 
 8. § (1) A 7. § (1) bekezdése alapján visszavont vezetői engedélyt annak leadásától számított hat hónapot követően vissza kell adni, ha
 
@@ -124,6 +126,10 @@ személy által – a vezetői engedéllyel vezethető járművekkel elkövetett
 15. § Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 4. § (1) bekezdés c) és d) pontjában meghatározott ponthatárok között – a szabálysértés és a közigazgatási bírsággal sújtandó szabályszegés tárgyi súlyát és gyakoriságát figyelembe véve – a pontrendszer hatálya alá tartozó szabálysértéseket és közigazgatási bírsággal sújtandó szabályszegéseket, az azokhoz rendelt pontok számát, valamint a pontrendszer alkalmazásának részletes szabályait.
 
 15/A. § Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a közlekedési előéleti pontrendszert nyilvántartó szervet vagy szerveket.
+
+16. § (1) Az e törvénynek az egyes törvényeknek nyilvántartásokkal és elektronikus ügyintézéssel összefüggő módosításáról szóló 2020. évi CXXI. törvénnyel (a továbbiakban: Módtv.) megállapított 7. § (1a) bekezdését a hatálybalépését követően szerzett pontok számítása kapcsán kell alkalmazni.
+
+(2) A Módtv.-nek a 3. § (5) bekezdését hatályon kívül helyező rendelkezése hatálybalépését megelőzően szerzett, a járművezetőnek az eltiltás jogerőre emelkedésének időpontjáig nyilvántartásba vett pontjait törölni kell, ha a vezetői engedély visszaadására utánképzést követően kerülhet sor.
 
 ### 1. számú melléklet a 2000. évi CXXVIII. törvényhez
 

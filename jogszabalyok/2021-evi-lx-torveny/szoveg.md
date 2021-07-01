@@ -16,7 +16,7 @@ egyes agrártárgyú törvények módosításáról
 
 4. § Hatályát veszti a légiközlekedésről szóló 1995. évi XCVII. törvény
 
-- a)
+- a) 61/A. § (2) bekezdés d) pontja;
 - b)
 
 #### 4. A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény módosítása
@@ -85,7 +85,17 @@ egyes agrártárgyú törvények módosításáról
 
 32. §
 
-33. §
+33. § A Tfvt. 15. §-a a következő (7)–(11) bekezdéssel egészül ki:
+
+„(7) Ha a földrészlet belterületbe vonási eljárásának a megindítását az önkormányzatnál természetes személy kezdeményezi saját tulajdonában álló ingatlana vonatkozásában abból a célból, hogy ezáltal saját, illetve közeli hozzátartozói lakhatása biztosítására szolgáló lakóépületet létesítsen, a belterületbe vonás során a 11. § (2) bekezdésének első mondatában és az (5) bekezdés b) pontjában foglaltakat nem kell alkalmazni.
+
+(8) A (7) bekezdésben foglalt esetben az ingatlan természetes személy tulajdonosának saját, illetve közeli hozzátartozóinak lakhatása szempontjából az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 33/A. § (3a) bekezdésében foglaltakat kell alkalmazni.
+
+(9) A belterületbe vonás (7) bekezdésben rögzített esetében az önkormányzatnak – a (2) bekezdésben foglaltakon túl – csatolnia a kell az ingatlan természetes személy tulajdonosának közokiratba, vagy teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy az érintett ingatlan a saját tulajdonában áll, és azon saját, illetve közeli hozzátartozói lakhatására kíván lakóépületet létesíteni.
+
+(10) Ha az ingatlan természetes személy tulajdonosa nem tesz eleget a (9) bekezdés szerinti nyilatkozatában foglaltaknak, vele szemben a 24. § (1) bekezdés f) pontja szerinti földvédelmi bírság kiszabásának van helye.
+
+(11) A (10) bekezdés szerinti esetben a földvédelmi bírság mértéke az 1. melléklet 4.1. pontjában meghatározott földvédelmi járulék ötszöröse.”
 
 34. §
 
@@ -213,9 +223,9 @@ egyes agrártárgyú törvények módosításáról
 
 - a)
 - b)
-- c)
-- d)
-- e)
+- c) 10. § (1) bekezdés a) pontjában a „3000” szövegrész helyébe a „4500” szöveg,
+- d) 10. § (1) bekezdés b) pontjában a „3000” szövegrész helyébe a „4500” szöveg,
+- e) 10. § (1) bekezdés c) pontjában az „1000” szövegrész helyébe az „1500” szöveg,
 - f)
 - g)
 - h)

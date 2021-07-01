@@ -93,7 +93,10 @@ a beadványokat kizárólag elektronikus úton terjesztheti elő, e rendelkezés
 
 (3) A közhasznú szervezetté minősítés iránti kérelmet kizárólag elektronikus úton lehet előterjeszteni, s az eljárásban a kérelmező a beadványokat kizárólag elektronikus úton terjesztheti elő. A közhasznú szervezet a beadványokat kizárólag elektronikus úton terjesztheti elő.
 
-(4) Az elektronikus eljárásra kötelezett kérelmező az Ectv.-ben meghatározott beszámolót és a közhasznúsági mellékletét (a továbbiakban együtt: beszámoló) elektronikus úton küldi meg a bíróság részére.
+(4) Az Ectv.-ben meghatározott beszámolót és a közhasznúsági mellékletét (a továbbiakban együtt: beszámoló) elektronikus úton küldi meg a bíróság részére
+
+- a) az elektronikus eljárásra kötelezett kérelmező, és
+- b) az Ectv. 2. § 6. pont b) és c) alpontja szerinti civil szervezet, ha mérlegfőösszege eléri az ötmillió forintot.
 
 9. § (1) A jogi képviselő feladata az általa készített okiratok mellett a kérelem mellékletét képező, nem általa készített okiratok elektronikus okirati formába történő átalakítása. A jogi képviselő az eredetileg nem elektronikus formában készült okiratok megőrzéséről az ügyvédi tevékenységről szóló törvényben szabályozott módon gondoskodik.
 
@@ -1255,7 +1258,7 @@ is.
 - e) – kurátor esetében – a kurátor nevét, illetve megnevezését, valamint lakóhelyét (székhelyét), anyja születési nevét,
 - f) – szükség szerint – az alapítvány képviselőjének anyja születési nevét,
 - g) határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját, valamint ha a jogviszony megszűnésére a nyilvántartásban feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját,
-- h) azt a tényt, hogy a külföldről támogatott szervezetek átláthatóságáról szóló 2017. évi LXXVI. törvény szerinti külföldről támogatott szervezetnek minősül.
+- h)
 
 (2) A nyilvántartás az alapítvány esetén szükség szerint a 92. §-ban foglaltakon túlmenően tartalmazza az állami alapító által alapított alapítvány, és állami alapító által államháztartáson kívüli alapítóval közösen alapított alapítvány esetében a kuratóriumba az állami alapító részéről jelölt tag vagy tagok nevét is, vagy azt a tényt, hogy a kurátort az állami alapító jelölte ki.
 
@@ -1276,7 +1279,7 @@ is.
 - b) az egyesület képviselőjének anyja születési nevét,
 - c) szövetség esetén az egyesületek szövetségét létrehozó egyesületek, illetve alapítványok nevét, székhelyét, nyilvántartási számát,
 - d) határozott időre szóló képviselet esetében a jogviszony megszűnésének időpontját, illetve, ha a jogviszony megszűnésére a nyilvántartásban feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját,
-- e) azt a tényt, hogy a külföldről támogatott szervezetek átláthatóságáról szóló 2017. évi LXXVI. törvény szerinti külföldről támogatott szervezetnek minősül.
+- e)
 
 95/A. § (1) A nyilvántartás a bejegyzett egyház, a nyilvántartásba vett egyház és a vallási egyesület esetén az Ehtv.-ben meghatározott adatokat, valamint a 91. § (1) bekezdés a), b) és – ha az ismert – c) pontja szerinti adatokat tartalmazza. A nyilvántartás szükség szerint tartalmazza a 92. § (1) bekezdés a) és e)–p) pontja, valamint a 93. § (1) bekezdés c) pontja szerinti adatokat.
 
@@ -1369,9 +1372,13 @@ rendeletben állapítsa meg.
 
 110. § Az Ehtv. 38. §-ában meghatározott nyilvántartási adatok átvezetése a bíróság részéről hivatalból történik, amelynek során a vallási egyesületek a vallási tevékenységet végző szervezetek általános jogutódjaként kerülnek nyilvántartásba vételre.
 
-#### 47. Módosuló jogszabályok
+111. § (1) E törvénynek a közélet befolyásolására alkalmas tevékenységet végző civil szervezetek átláthatóságáról szóló 2021. évi XLIX. törvénnyel (a továbbiakban: Módtv2.) megállapított 8. § (4) bekezdését a 2021. december 31-ét követően induló üzleti évre vonatkozó beszámolóra kell először alkalmazni.
 
-#### 111. §
+(2) A bíróság a Módtv2. hatálybalépésétől számított 30 napon belül hivatalból törli az alapítvány nyilvántartásából a 2021. június 30-án hatályos 94. § (1) bekezdés h) pontja szerint bejegyzett tényt, valamint az egyesület nyilvántartásából a 2021. június 30-án hatályos 95. § e) pontja szerint bejegyzett tényt. A tényt úgy kell törölni, hogy az mint törölt adat se legyen megismerhető.
+
+(3) A külföldről támogatott szervezetek átláthatóságáról szóló 2017. évi LXXVI. törvény 3. §-a alapján indult, 2021. június 30-án folyamatban lévő elsőfokú és másodfokú eljárások a Módtv2. hatálybalépésének napján megszűnnek. Ha az elsőfokú bíróság a 37. § (2) bekezdése szerinti bírságot szabott ki, a folyamatban levő eljárás bírság alkalmazása nélkül szűnik meg. Az eljárás megszűnéséről az elsőfokú bíróság a Módtv2. hatálybalépését követő 30 napon belül tájékoztatja a szervezetet.
+
+#### 47. Módosuló jogszabályok
 
 #### 112–116. §
 

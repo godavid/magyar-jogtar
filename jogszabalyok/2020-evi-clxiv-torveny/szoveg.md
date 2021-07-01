@@ -120,7 +120,15 @@ az ügyfelek számára adminisztratív terheket tartalmazó egyes törvények m�
 
 #### 22. A gazdasági kamarákról szóló 1999. évi CXXI. törvény módosítása
 
-22. §
+22. § (1) A gazdasági kamarákról szóló 1999. évi CXXI. törvény (a továbbiakban: Gk.) 8/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A cégbejegyzésre kötelezett gazdálkodó szervezet a cégjegyzékbe való bejegyzését követő tizenöt munkanapon belül köteles a székhelye szerint illetékes területi gazdasági kamaránál a kamarai nyilvántartásba való bejegyzését kérni. Az egyéni vállalkozó erre irányuló kérelmét az egyéni vállalkozási tevékenysége megkezdésének bejelentésével egyidejűleg terjeszti elő.”
+
+(2) A Gk. 8/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A kamarai nyilvántartásba az a gazdálkodó szervezet jegyezhető be, amely a (2) bekezdésben meghatározott adatait tartalmazó kamarai adatlapot kitöltve és cégszerűen aláírva a területi gazdasági kamara részére elektronikus úton vagy papíralapon benyújtotta, valamint a 34/A. §-ban meghatározott kamarai hozzájárulást megfizette. Egyéni vállalkozó esetében a papír alapú kamarai adatlapot az egyéni vállalkozók nyilvántartását végző hatóság továbbítja a területi gazdasági kamara részére.”
+
+(3) A Gk. 8/A. § (4) és (5) bekezdésében az „öt” szövegrész helyébe a „tizenöt” szöveg lép.
 
 #### 23. A kémiai biztonságról szóló 2000. évi XXV. törvény módosítása
 
@@ -144,9 +152,15 @@ az ügyfelek számára adminisztratív terheket tartalmazó egyes törvények m�
 
 (2)
 
-(3)
+(3) A Kstv. 40/G. §-a helyébe a következő rendelkezés lép:
 
-(4)
+„40/G. § A kisajátítást kérő, illetve annak képviselője az e törvény hatálya alá tartozó hatósági eljárásokban, e hatósági eljárásokban hozott döntésekkel szemben indított közigazgatási perben, valamint a kisajátítási terv záradékolására irányuló eljárásban elektronikus ügyintézésre köteles.”
+
+(4) A Kstv. a következő 50. §-sal egészül ki:
+
+„50. § (1) E törvénynek az ügyfelek számára adminisztratív terheket tartalmazó egyes törvények módosításáról szóló 2020. évi CLXIV. törvénnyel megállapított 40/G. §-át a 2021. július 1-jét követően indult és megismételt hatósági és bírósági eljárásokban kell alkalmazni.
+
+(2) Kisajátítási eljárásban nem kötelező az elektronikus ügyintézés azon kisajátítást kérő illetve képviselője esetében, akinek részére a záradékolás iránt 2021. július 1-jét megelőzően benyújtott kérelme alapján záradékolt kisajátítási terv csak papíralapon áll rendelkezésére. Az elektronikus ügyintézést ennek alapján nem alkalmazó kisajátítást kérő, illetve képviselője e körülmény fennállásáról a kisajátítási hatóság részére nyilatkozni köteles.”
 
 #### 28. A termőföld védelméről szóló 2007. évi CXXIX. törvény módosítása
 
@@ -164,7 +178,32 @@ az ügyfelek számára adminisztratív terheket tartalmazó egyes törvények m�
 
 #### 31. Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény módosítása
 
-31. §
+31. § (1) Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény (a továbbiakban: Evectv.) 6. § (1) bekezdése a következő f) ponttal egészül ki:
+
+(A bejelentésnek tartalmaznia kell:)
+
+„f) a székhelye szerint illetékes területi gazdasági kamarához címzett nyilvántartásba vétel iránti kérelmet.”
+
+(2) Az Evectv. 7. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A nyilvántartást vezető szerv a 9. § szerinti értesítés megküldésével egyidejűleg a nyilvántartásba vételről értesíti a Központi Statisztikai Hivatalt, a Közreműködő Szervet, a Hatóságot, valamint a székhelye szerint illetékes területi gazdasági kamarát.”
+
+(3) Az Evectv. 18. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Amennyiben az egyéni vállalkozó egyéni vállalkozói tevékenységét szüneteltetni kívánja, köteles azt a bejelentési vagy változásbejelentési űrlapon a nyilvántartást vezető szervnél bejelenteni, akár a tevékenység megkezdésének bejelentésével egyidejűleg, amely a szünetelés tényét és kezdő időpontját az egyéni vállalkozók nyilvántartásába bejegyzi. A szünetelés kezdő napja nem lehet korábbi a bejelentést követő napnál. A szünetelés kezdő napja a bejelentést követően nem módosítható. A nyilvántartást vezető szerv a szünetelésről haladéktalanul, elektronikus úton értesíti a Központi Statisztikai Hivatalt, a székhely szerint illetékes területi gazdasági kamarát, valamint a Hatóságot.”
+
+(4) Az Evectv. 19. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Az egyéni vállalkozói tevékenységre való jogosultság e törvény erejénél fogva megszűnik)
+
+„a) ha az egyéni vállalkozó tevékenysége megszüntetését a Közreműködő Szervnek vagy a nyilvántartó szervnek bejelenti, legkorábban a tevékenység megkezdésének bejelentésével egyidejűleg, a bejelentésben megjelölt napon, amely nem lehet korábbi a bejelentést követő napnál, és amely időpont a bejelentést követően nem módosítható;”
+
+(5) Az Evectv.
+
+- a) 14. § (3) bekezdésében, 18. § (4) bekezdésében és a 19. § (4) bekezdésében a „Hivatalt” szövegrész helyébe a „Hivatalt, a székhely szerint illetékes területi gazdasági kamarát” szöveg,
+- b) 18. § (1) bekezdésében és 19. § (1) bekezdés g) pontjában a „két” szövegrész helyébe a „három” szöveg
+
+lép.
 
 #### 32. Az anyakönyvi eljárásról szóló 2010. évi I. törvény módosítása
 
@@ -194,7 +233,11 @@ az ügyfelek számára adminisztratív terheket tartalmazó egyes törvények m�
 
 38. § (1)
 
-(2)
+(2) Az Art. 131. § (8) bekezdése a következő c) ponttal egészül ki:
+
+(Az állami adó- és vámhatóság megkeresésre elektronikus úton átadja a költségvetési támogatások kedvezményezettjének nevére vagy megnevezésére, lakóhelyére vagy székhelyére, valamint az adatszolgáltatást megelőző hónap utolsó napjáig esedékessé vált és meg nem fizetett köztartozásuk jogcímére, összegére vonatkozó adatokat)
+
+„c) a költségvetési támogatás megállapítása, illetve havi összegének elszámoláson alapuló kifizetése céljából az állami foglalkoztatási szerv részére.”
 
 (3)
 

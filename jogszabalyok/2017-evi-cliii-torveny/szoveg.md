@@ -165,7 +165,7 @@ különös elszámolási szabályok alkalmazandóak.
 
 (5) Az eljáró adóhatóság a végrehajtási eljárást törvényben meghatározott esetben felfüggeszti.
 
-(5a) A felfüggesztést elrendelő végzés elleni fellebbezésnek a döntés végrehajtására nincs halasztó hatálya.
+(5a) A felfüggesztés tárgyában hozott végzés elleni fellebbezésnek a döntés végrehajtására nincs halasztó hatálya.
 
 (6) Ha az adóhatóság hatósági átutalási megbízását a fizetési számlát vezető pénzforgalmi szolgáltató a végrehajtás felfüggesztéséről szóló végzés meghozataláig nem teljesítette, az adóhatóság a hatósági átutalási megbízás visszavonásáról haladéktalanul intézkedik. Ha a fizetési számlát vezető pénzforgalmi szolgáltató a hatósági átutalási megbízást a felfüggesztés kezdő napját követően, a felfüggesztés hatálya alatt teljesítette és az összeget az adóhatóság részére átutalta, az adóhatóság azt a tudomására jutásától számított 8 napon belül visszatéríti az adósnak.
 
@@ -1223,6 +1223,10 @@ a (3)–(8) bekezdésben foglaltak szerint.
 (2) A közreműködő szervezet által kiállított számla és az eljárásról felvett jegyzőkönyv alapján az állami adó- és vámhatóság intézkedik a kifizetés iránt.
 
 (3) A (2) bekezdésben foglaltak szerint kifizetett díj ki nem egyenlített végrehajtási költségnek minősül, amelyet az állami adó- és vámhatóság végzésben állapít meg és – önkéntes teljesítés hiányában – a pénzfizetési kötelezettségekre vonatkozó szabályok szerint érvényesít. A végzés a végrehajtási eljárásban végrehajtható okirat.
+
+(4) Ha a meghatározott cselekmény kizárólag személyesen az adós által végezhető el, és a 122. § (2)–(5) bekezdésében foglalt eljárás eredménytelenül zárul, az állami adó- és vámhatóság az eljárás eredménytelenségéről jegyzőkönyvet vesz fel, amelyet megküld a behajtást kérő hatóság részére, egyúttal tájékoztatja azt az eljárás megszüntetéséről.
+
+(5) Ha a meghatározott cselekmény végrehajtása során közreműködő szervezet igénybevétele a 123. § alapján nem indokolt, vagy nem lehetséges, és a 122. § (2)–(6) bekezdésében foglalt eljárás eredménytelenül zárul, az állami adó- és vámhatóság az eljárás eredménytelenségéről jegyzőkönyvet vesz fel, amelyet megküld a behajtást kérő hatóság részére, egyúttal tájékoztatja azt az eljárás megszüntetéséről.
 
 125. § A 122. § (6) bekezdés szerinti végrehajtás során az állami adó- és vámhatóság pénzügyőri munkakört betöltő foglalkoztatottjai a Nemzeti Adó- és Vámhivatalról szóló törvény szerinti intézkedések megtételére jogosultak.
 

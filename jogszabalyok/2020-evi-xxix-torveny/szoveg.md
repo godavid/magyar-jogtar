@@ -54,7 +54,7 @@ Az Országgyűlés elkötelezett Magyarország Kormánya és a Kínai Népközt�
 
 (7) Az építtető a vagyonkezelői jog bejegyzésére vonatkozó határozatot, annak kézhezvételét követően haladéktalanul megküldi a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) – mint az állam tulajdonában lévő ingatlanok tekintetében a tulajdonosi jogokat gyakorló szervezet – részére.
 
-(8) A (2) és (3) bekezdés alapján az állam tulajdonába kerülő ingatlanok esetén az önálló ingatlannak nem minősülő ingatlanrészek önálló ingatlanként való kialakítása során nem kell alkalmazni a településszerkezeti tervben, a helyi építési szabályzatban vagy szabályozási tervben foglalt, önálló ingatlanként való minimális területnagyságra vonatkozó kialakíthatósági előírásokat.
+(8) A (2) és (3) bekezdés alapján az állam tulajdonába kerülő ingatlanok esetén az önálló ingatlannak nem minősülő ingatlanrészek önálló ingatlanként való kialakítása során nem kell alkalmazni a településrendezési tervben, a helyi építési szabályzatban vagy szabályozási tervben foglalt, önálló ingatlanként való minimális területnagyságra vonatkozó kialakíthatósági előírásokat.
 
 #### 4. A Beruházással kapcsolatos elszámolási, vagyonkezelési és egyéb eljárási szabályok
 

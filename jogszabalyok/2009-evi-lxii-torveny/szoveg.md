@@ -625,11 +625,11 @@ változás következik be.
 
 44. § Gépjárművet forgalomba helyezni, a forgalmi engedélybe üzemben tartóval kapcsolatos bejegyzést tenni, ideiglenes forgalomban tartási engedélyt kiadni, azt meghosszabbítani, a gépjármű hatósági jelzését (rendszámtábláját) cserélni, a gépjármű időszakos vizsgálatát elvégezni abban az esetben lehet, ha az e törvény szerinti biztosítási kötelezettségnek eleget tettek.
 
-45. § (1) A 44. §-ban meghatározott közlekedési igazgatási eljárásokban és a gépjármű időszakos vizsgálata során, továbbá a közúti forgalomban részt vevő jármű ellenőrzésekor a biztosítási fedezet fennállását az ellenőrzésre jogosult hatóság elektronikus úton, közvetlen lekérdezéssel, a kötvénynyilvántartó szervvel számítógépes kommunikációs kapcsolat segítségével ellenőrzi. E hatósági eljárások során az ügyfél, illetve az ellenőrzés alá vont jogosult a felelősségbiztosítási szerződés fennállását az (1a) bekezdésben meghatározott igazolóeszközzel is bizonyítani.
+45. § (1) A 44. §-ban meghatározott közlekedési igazgatási eljárásokban és a gépjármű időszakos vizsgálata során, továbbá a közúti forgalomban részt vevő jármű ellenőrzésekor a biztosítási fedezet fennállását, a gépjármű első forgalomba helyezésére, a forgalmi engedélybe üzembentartóval kapcsolatos bejegyzés tételére, ideiglenes forgalomban tartási engedély kiadására és meghosszabbítására irányuló közlekedési hatósági eljárások megindításakor a 49. § (1a) bekezdése szerinti ajánlat (a továbbiakban: hatályosult ajánlat) meglétét az ellenőrzésre jogosult hatóság elektronikus úton, közvetlen lekérdezéssel, a kötvénynyilvántartó szervvel számítógépes kommunikációs kapcsolat segítségével ellenőrzi. E hatósági eljárások során az ügyfél, illetve az ellenőrzés alá vont jogosult a felelősségbiztosítási szerződés fennállását az (1a) bekezdésben meghatározott igazolóeszközzel is bizonyítani.
 
 (1a) A biztosítási fedezet fennállásának az ellenőrzésre jogosult hatóság – a 44. §-ban meghatározott, azonban az (1) bekezdésben nem említett – eljárása során történő tanúsítására a gépjárművek kötelező gépjármű-felelősségbiztosítási fedezetének fennállását tanúsító igazolóeszközökre vonatkozó szabályokról szóló miniszteri rendeletben meghatározott igazolóeszköz szolgál.
 
-(2) Ha a járműnyilvántartás és a kötvénynyilvántartás kötvénynyilvántartó szerv általi összevetésével, vagy az ellenőrzésre jogosult hatóság eljárása során megállapítást nyer, hogy a gépjárműre nincs érvényes biztosítási fedezet, a kötvénynyilvántartó szerv, illetve a hatóság értesítése alapján az üzemben tartó lakóhelye (székhelye) szerinti illetékes járási hivatal a külön jogszabályban meghatározott módon – az 57/A. § (1) bekezdésének megfelelően mentesített gépjárművek kivételével – a gépjárművet kivonja a forgalomból.
+(2) Ha a járműnyilvántartás és a kötvénynyilvántartás, továbbá az ideiglenes rendszámtáblák nyilvántartása és a kötvénynyilvántartás kötvénynyilvántartó szerv általi összevetésével, vagy az ellenőrzésre jogosult hatóság eljárása során megállapítást nyer, hogy a gépjárműre vagy az ideiglenes rendszámra nincs érvényes biztosítási fedezet, a kötvénynyilvántartó szerv, illetve a hatóság értesítése alapján az üzembentartó, vagy az ideiglenes rendszámtábla jogosultjának lakóhelye (székhelye) szerint illetékes járási hivatal jogszabályban meghatározott módon – az 57/A. § (1) bekezdésének megfelelően mentesített gépjárművek kivételével – az ideiglenes rendszámtáblát visszavonja és a gépjárművet kivonja a forgalomból.
 
 (2a) A járási hivatal kötelezi a biztosítót, hogy a gépjármű forgalomba történő visszahelyezésének költségeit az üzemben tartó részére térítse meg, ha a (2) bekezdés szerinti eljárás lefolytatására azért került sor, mert a biztosító a kötvénynyilvántartó szervet határidőn belül nem, vagy – a biztosító érdekkörében felmerült okból – tévesen értesítette.
 
@@ -643,13 +643,22 @@ változás következik be.
 
 (2) A kötvénynyilvántartás tartalmazza a szerződő üzemben tartó, a gépjármű, a rendszám és a szerződés következő adatait:
 
-- a) a szerződő üzemben tartó nevét (jogi személy vagy egyéni vállalkozó, egyéni cég nevét, továbbá cégjegyzékszámát, illetve nyilvántartási számát), születési helyét, születési idejét, anyja nevét és lakcímét (székhelyét, telephelyét);
+- a) az üzembentartó vagy ideiglenes rendszámtábla jogosultjának nevét (jogi személy vagy egyéni vállalkozó, egyéni cég nevét, továbbá cégjegyzékszámát, illetve nyilvántartási számát), születési helyét, születési idejét, anyja nevét és lakcímét (székhelyét, telephelyét);
 - b) a gépjármű rendszámát és alvázszámát, egy adott gépjárműhöz nem köthető ideiglenes rendszámra kötött biztosítási szerződés esetén a rendszámot, valamint az ideiglenes rendszám kiadásának évét;
 - c) rendszámváltozás esetén annak időpontját és a korábbi rendszámot;
 - d) a biztosító nevét, a biztosítást igazoló okirat számát;
 - e) a kockázatviselés – ha a biztosítás szünetelés idején jön létre, úgy a biztosítási időszak – kezdetének időpontját, megszűnése esetén annak dátumát és a megszűnés okát.
 
-(3) A kötvénynyilvántartó szerv a (2) bekezdésben felsorolt adatokat a biztosítási jogviszony megszűnését követő 7 évig kezeli.
+(2a) A kötvénynyilvántartó szerv nyilvántartást vezet a hatályosult ajánlatban szereplő (2) bekezdés a)–e) pont szerinti adatokról azzal, hogy
+
+- a) a (2) bekezdés b) pontjában egy adott gépjárműhöz nem köthető ideiglenes rendszámra vonatkozó hatályosult ajánlatot;
+- b) a (2) bekezdés d) pontjában a hatályosult ajánlat 49. § (1a) bekezdése szerinti azonosítóját (a továbbiakban: ajánlati azonosító)
+
+kell érteni.
+
+(2b) A (2) bekezdés a)–c) pontjában foglalt adatok és a (2a) bekezdésnek a (2) bekezdés a)–c) pontjának megfelelő adatai változását a kötvénynyilvántartás a járműnyilvántartást és az ideiglenes rendszámtáblák nyilvántartását vezető szerv értesítése alapján tartalmazza.
+
+(3) A kötvénynyilvántartó szerv a (2) és (2a) bekezdésben felsorolt adatokat a biztosítási jogviszony megszűnését követő 7 évig kezeli.
 
 47. § (1) A kötvénynyilvántartásból adatot igényelhet:
 
@@ -676,7 +685,7 @@ a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időp
 - n) a 46. § (2) bekezdésének a) pontjában foglalt adatok tekintetében – jogának vagy jogos érdekének érvényesítése céljából, indokolt körben – bármely természetes személy, illetve jogi személy, egyéni vállalkozó, egyéni cég a felhasználás céljának és jogalapjának igazolása mellett;
 - o) a 46. § (2) bekezdés e) pontjában meghatározott adatok tekintetében – a gépjármű hatósági jelzése alapján – a biztosítási kockázatviselés fennállásának tényére vonatkozóan a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvényben (a továbbiakban: Kknyt.) meghatározott járműéletút-adatszolgáltatás céljából a Kknyt.-ben meghatározott központi közúti közlekedési nyilvántartó szerv.
 
-(2) A kötvénynyilvántartó szerv az (1) bekezdés a)–e), l), m) és o) pontjában szereplő adatigénylők részére az adatszolgáltatást elektronikus úton – a kötvénynyilvántartó szerv és az adatigénylő közötti számítógépes kommunikációs kapcsolat segítségével – teljesíti.
+(2) A kötvénynyilvántartó szerv az (1) bekezdés a)–e), g)–m) és o) pontjában szereplő adatigénylők részére az adatszolgáltatást elektronikus úton – a kötvénynyilvántartó szerv és az adatigénylő közötti, jogszabályban előírt elektronikus kommunikációs kapcsolaton, illetve az erre a célra szolgáló internetes felületen keresztül – teljesíti.
 
 (2a) A kötvénynyilvántartó szerv az egészségbiztosítási szerv és a nyugdíjbiztosítási szerv részére az adatigénylés teljesítése érdekében közvetlen hozzáférést biztosít a kötvénynyilvántartás (1) bekezdés m) pontjában meghatározott adataihoz.
 
@@ -688,11 +697,19 @@ a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időp
 
 (6) Az (1) bekezdés o) pontjában foglalt adatátadás valamint ezen adatok tekintetében a Kknyt.-ben meghatározott informatikai platformon keresztül történő járműéletút-adatszolgáltatás díjmentes.
 
-48. § (1) A kötvénynyilvántartó szerv legalább havonta köteles a járműnyilvántartás, az ideiglenes rendszámtáblák nyilvántartása és a kötvénynyilvántartás összevetésével ellenőrizni a biztosítási szerződések érvényességét és összeállítani az érvényes szerződéssel nem rendelkező üzemben tartók adatait tartalmazó listát, és azt a 45. § (2) bekezdésében meghatározott eljárás lefolytatása érdekében az üzemben tartó lakóhelye (székhelye, telephelye) szerinti illetékes járási hivatal részére továbbítani.
+48. § (1) A kötvénynyilvántartó szerv legalább havonta köteles a járműnyilvántartás, az ideiglenes rendszámtáblák nyilvántartása és a kötvénynyilvántartás összevetésével ellenőrizni a biztosítási szerződések érvényességét és összeállítani az érvényes szerződéssel nem rendelkező üzembentartók vagy ideiglenes rendszámtábla jogosultjainak adatait tartalmazó listát, és azt a 45. § (2) bekezdésében meghatározott eljárás lefolytatása érdekében az üzembentartó vagy ideiglenes rendszámtábla jogosultjának lakóhelye (székhelye, telephelye) szerinti illetékes járási hivatal részére informatikai rendszerén keresztül elérhetővé tenni.
+
+(1a) A járási hivatal a 45. § (2) bekezdésében foglalt eljárás során az ügyfél által bemutatott kötelező gépjármű-felelősségbiztosítást igazoló okirat érvényességét a járműnyilvántartás, továbbá az ideiglenes rendszámtáblák nyilvántartása kötvénynyilvántartással meglévő adatkapcsolata útján a kötvénynyilvántartásban ellenőrzi.
 
 (2) Az (1) bekezdésben meghatározottak szerinti összekapcsolás útján létrejött adatállomány más célra nem használható fel és azt az eljárási feladatok elvégzése után 90 nappal törölni kell.
 
 49. § (1) A biztosító a szerződés létrejöttétől, illetve – a 21. § (4) bekezdésében meghatározott eset kivételével – megszűnésétől – érdekmúlással történő megszűnés esetén a biztosító tudomásszerzésétől –, továbbá a biztosítást igazoló okirat adataiban bekövetkező egyéb – a kötvénynyilvántartás adattartalmát képező – változás időpontjától számított 3 napon belül köteles a kötvénynyilvántartó szervet informatikai rendszerén keresztül értesíteni – a 46. § (2) bekezdésében megjelölt adatok feltüntetésével – a biztosítási szerződés megkötéséről, illetve megszűnéséről, valamint az adatokban bekövetkező egyéb változásokról.
+
+(1a) A biztosító az adott járművet vagy ideiglenes rendszámot illetően tett, a 46. § (2a) bekezdése szerinti adatokat tartalmazó, ajánlati kötöttséget eredményező biztosítási ajánlatot hatályosult ajánlatként kezeli. A biztosító a hatályosult ajánlat azonosítása céljából egyedi azonosító karaktersort, ajánlati azonosítót képez. A biztosító a hatályosult ajánlatról az ajánlati azonosító megadásával a hatályosulást követő napon köteles a kötvénynyilvántartó szervet informatikai rendszerén keresztül értesíteni. A biztosító a hatályosult ajánlat esetleges elutasításáról legkésőbb az elutasítást követő napon köteles a kötvénynyilvántartó szervet informatikai rendszerén keresztül értesíteni.
+
+(1b) A közlekedési igazgatási hatóság kérésére a kiadott rendszám járműnyilvántartásba, vagy ideiglenes rendszámtáblák nyilvántartásába történő bejegyzéséhez, illetve a biztosítási kötelezettséggel járó nyilvántartásba vételi eljárás során a kötvénynyilvántartó szerv a biztosítást igazoló okirat számáról vagy az ajánlati azonosítóról, vagy ezek hiányáról, továbbá az alvázszámról, valamint az üzemben tartó nevéről elektronikus kommunikációs kapcsolaton keresztül értesíti a járműnyilvántartást és az ideiglenes rendszámtáblák nyilvántartását vezető szervet. A biztosítást igazoló okirathoz vagy ajánlati azonosítóhoz rögzített rendszámról a járműnyilvántartást és az ideiglenes rendszámtáblák nyilvántartását vezető szerv elektronikus kommunikációs kapcsolaton keresztül értesíti a kötvénynyilvántartó szervet.
+
+(1c) A kötvénynyilvántartó szerv a biztosítást igazoló okirat számához vagy az ajánlati azonosítóhoz rendelten nyilvántartásba veszi a rendszámot, amellyel egyidejűleg informatikai rendszerén keresztül értesíti a biztosítót a rendszámról.
 
 (2) A tevékenységi engedély visszavonásával érintett szerződés 10. § (2) bekezdésében meghatározott megszűnése esetén az új szerződés létrejöttéről szóló – (1) bekezdésben meghatározott – értesítés a tevékenységi engedély visszavonásával érintett szerződés megszűnésére vonatkozó értesítést pótolja, amennyiben a tevékenységi engedély visszavonásával érintett szerződés megszűnésére vonatkozó értesítés a kötvénynyilvántartó szervhez még nem érkezett meg.
 
@@ -705,6 +722,36 @@ a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időp
 (3) A (2) bekezdésben foglaltakat nem lehet alkalmazni, ha az érintett személy a személyes adatainak kezeléséről kér tájékoztatást. Abban az esetben, ha a büntetőeljárásban eljáró bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv, a nemzetbiztonsági szolgálat, vagy külön törvény szerint titkos információgyűjtésre felhatalmazott szerv adatigénylése ezt – bűnüldözési, bűnmegelőzési vagy nemzetbiztonsági érdekre hivatkozással – kifejezetten tartalmazza, a kötvénynyilvántartó szerv nem tájékoztathatja az érintettet a személyes adataival kapcsolatos adattovábbításról.
 
 50/A. § A kötvénynyilvántartó szerv által hozott elsőfokú döntéssel szemben nincs helye fellebbezésnek.
+
+50/B. § A kötvénynyilvántartó szerv kezeli az elektronikus úton végzett adatkezelési műveletek nyilvántartását (adatkezelési napló).
+
+50/C. § (1) A kötvénynyilvántartó szerv a kötvénynyilvántartásban kezelt adatokhoz való jogosulatlan hozzáférés, a kezelt adatok jogosulatlan megváltoztatása, nyilvánosságra hozatala, törlése, sérülése, vagy megsemmisülése elleni védelem, illetve az adatkezelés jogszerűségének ellenőrzése céljából az elektronikus információs rendszer igénybevételével a kötvénynyilvántartás számára adatközlésre kötelezett szervekről, a kötvénynyilvántartásban adatkezelést végző szervekről, illetve abból közvetlen adatátvételre, vagy adatigénylésre jogosult szervekről, és a közvetlen adatátvételre vagy adatigénylésre jogosult szervek nevében hozzáférésre felhatalmazott felhasználókról, valamint az ezen felhasználók jogosultságkezelését végző adminisztrátorokról jogosultsági nyilvántartást vezet.
+
+(2) Az (1) bekezdés szerinti jogosultsági nyilvántartás tartalmazza az adatközlő szerv, az adatközlésre kötelezettek, továbbá a közvetlen hozzáférési jogosultsággal adatátvételre vagy adatigénylésre jogosult szervek
+
+- a) megnevezését,
+- b) székhelyét, levelezési címét,
+- c) e-mail-címét, telefonszámát,
+- d) a szerv nevében hozzáférésre felhatalmazott személy
+  - da) családi és utónevét,
+  - db) születési családi nevét és utónevét,
+  - dc) anyja nevét,
+  - dd) születési helyét, idejét,
+  - de) szervezeti egységét,
+  - df) hozzáférési jogosultságának típusát, terjedelmét és jogalapját,
+  - dg) hozzáférési jogosultsága keletkezésének és törlésének tényét, időpontját,
+  - dh) felhasználónevét,
+  - di) hivatali kapcsolattartásra használható e-mail-címét.
+
+(3) Az adatközlésre kötelezett, a kötvénynyilvántartásban adatkezelést végző, illetve abból közvetlen adatátvételre, vagy adatigénylésre jogosult személy hozzáférési jogosultsága határozott idejű, amelynek időtartama két év. A hozzáférési jogosultság – a meghatározott időtartam lejártával – a jogosultságot kérő szerv kérelme alapján kerül megújításra.
+
+(4) A közvetlen hozzáférési jogosultsággal rendelkezők jogosultsági nyilvántartásában kezelt személyes adatokat a felhasználó utolsó jogosultságának törlésétől számított tíz évig kell megőrizni.
+
+(5) A közvetlen hozzáférési jogosultsággal rendelkező szervek a felhasználóiknak az (1) bekezdés szerinti nyilvántartásba történő felvételét az adatkezelő szervnél közvetlen hozzáférési jogosultság iránti kérelem benyújtásával kezdeményezik. A közvetlen hozzáférési jogosultság iránti kérelem tartalmazza a (2) bekezdés a)–c) pontjában, valamint d) pont da)–df) és di) alpontjában meghatározott adatokat, valamint a szerv nevében hozzáférésre felhatalmazott személy azonosítóját. Az adatkezelő szerv a kérelem alapján a személyiadat- és lakcímnyilvántartásban történő azonosítás céljából az adatszolgáltatás igénybevételéhez, e cél megvalósulásához szükséges ideig kezeli az érintett kérelemben megadott személyi azonosítóját, amelyet kizárólag a személyiadat- és lakcímnyilvántartást vezető szerv részére jogosult továbbítani. A (2) bekezdésben meghatározott adatokban bekövetkezett változásokról a közvetlen hozzáférési jogosultsággal rendelkező szervek az adatváltozást követő három munkanapon belül elektronikus úton értesítik az adatkezelő szervet.
+
+(6) Az adatkezelés jogszerűségének ellenőrzése céljából az (1) bekezdés szerinti nyilvántartásban kezelt adatok teljes körét az adatkezelő szervtől az adatkezelő szerv szakmai felügyeletét ellátó miniszter, a Nemzeti Adatvédelmi és Információszabadság Hatóság, valamint a hozzáférési jogosultságot kérő szerv jogosult igényelni.
+
+(7) Az adatkezelés jogszerűségének ellenőrzése céljából a kötvénynyilvántartó szerv az adatkezelési műveleteket naplózza és ehhez kapcsolódóan kezeli az adatkezelésre jogosultak a (2) bekezdés d) pont da)–dd) alpontjában foglalt adatait.
 
 ### Kártörténeti nyilvántartás
 

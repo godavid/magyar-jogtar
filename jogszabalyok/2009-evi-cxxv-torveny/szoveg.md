@@ -26,6 +26,8 @@ Az Országgyűlés figyelembe véve, hogy a hallássérült, valamint a siketvak
 
 (2) A magyar jelnyelvet használó személyek közösségét mint nyelvi kisebbséget megilleti a magyar jelnyelv használatának, fejlesztésének és megőrzésének, a siketkultúra ápolásának, gyarapításának és átörökítésének joga.
 
+(3) A magyar jelnyelvből tett államilag elismert nyelvvizsga a nemzeti felsőoktatásról szóló törvény szerinti idegennyelv-tudást igazoló államilag elismert nyelvvizsga.
+
 ### Térítésmentes jelnyelvi tolmácsszolgáltatás
 
 4. § (1) Térítésmentes jelnyelvi tolmácsszolgáltatást az a magyar állampolgársággal, vagy a szabad mozgás és tartózkodás jogával rendelkező, valamint bevándorolt és letelepedett hallássérült, illetve siketvak személy vehet igénybe,

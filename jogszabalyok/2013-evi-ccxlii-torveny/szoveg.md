@@ -134,13 +134,13 @@ rendeltetésű épület, valamint parkoló és gépjárművek, illetve kerékpá
 
 (5) A Városligeti építési szabályzat hatálya a Budapest közigazgatási területén fekvő, Hungária körút – Kacsóh Pongrác út – Hermina út – Ajtósi Dürer sor – Dózsa György út, valamint a Magyar Államvasutak Zrt. 29737 és 29834/3 helyrajzi számú vasúti területe által határolt területre terjed ki.
 
-(6) A Városligeti építési szabályzat egyeztetését a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendeletben meghatározott tárgyalásos eljárással kell lefolytatni.
+(6) A Városligeti építési szabályzat egyeztetését a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendeletben meghatározott tárgyalásos eljárással kell lefolytatni.
 
-(7) A Városligeti építési szabályzat készítése és jóváhagyása során Budapest hosszú távú városfejlesztési koncepcióját, a fővárosi integrált településfejlesztési stratégiát, valamint a mindenkori hatályos fővárosi településrendezési eszközök szabályait nem kell figyelembe venni.
+(7) A Városligeti építési szabályzat készítése és jóváhagyása során a fővárosi településfejlesztési tervet, valamint a mindenkori hatályos fővárosi településrendezési terv szabályait nem kell figyelembe venni.
 
 (8) A Városligeti építési szabályzat készítése és jóváhagyása során nem kell alkalmazni az országos településrendezési és építési követelményekről szóló kormányrendeletben meghatározott, zöldterületre vonatkozó előírásokat.
 
-(9) A Városligeti építési szabályzat és a településszerkezeti terv készítése és jóváhagyása során a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 42. § (5) bekezdésében foglaltakat a városligeti ingatlan területére vonatkozóan azzal az eltéréssel kell alkalmazni, hogy a beépítésre szánt, és beépítésre nem szánt különleges terület területfelhasználási egységek köréből olyan terület jelölhető ki, amelyen a (3) bekezdés szerinti rendeltetések elhelyezhetők.
+(9) A Városligeti építési szabályzat készítése és jóváhagyása során a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 42. § (5) bekezdésében foglaltakat a városligeti ingatlan területére vonatkozóan azzal az eltéréssel kell alkalmazni, hogy a beépítésre szánt, és beépítésre nem szánt különleges terület területfelhasználási egységek köréből olyan terület jelölhető ki, amelyen a (3) bekezdés szerinti rendeltetések elhelyezhetők.
 
 8. § (1) A vagyonkezelő által létrehozott projekttársaság közvetlenül vagy közvetett módon 100%-os állami tulajdonban áll.
 

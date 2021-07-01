@@ -610,7 +610,7 @@ vonatkozó információ.
 - c) meghatározza az általa alkalmazni kívánt bányaművelési technológiát (mélyművelés, külfejtés, fúrólyukas kitermelés), és műszaki leírással igazolja a kitermelési feltételek teljesíthetőségét, valamint megjelöli a kitermelés ütemterv szerinti időpontját,
 - d) teljesíti a bányatelek-dokumentáció tartalmára jogszabályban előírt követelményeket.
 
-(3a) A külfejtéses művelésű bányatelket akkor lehet megállapítani vagy horizontálisan bővíteni, ha a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény bányatelek-megállapításra vonatkozó előírásai teljesülnek, és a bányászati tevékenység befejezését követő, a bányászattal igénybe vett területekre vonatkozó újrahasznosítási cél a településrendezési eszközökben foglaltaknak megfelel.
+(3a) A külfejtéses művelésű bányatelket akkor lehet megállapítani vagy horizontálisan bővíteni, ha a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény bányatelek-megállapításra vonatkozó előírásai teljesülnek, és a bányászati tevékenység befejezését követő, a bányászattal igénybe vett területekre vonatkozó újrahasznosítási cél a településrendezési tervben foglaltaknak megfelel.
 
 (4) A bányavállalkozó a bányatelek megállapításától számított 5 éven, az építőipari nyers- és alapanyagokra megállapított bányatelkek esetében 2 éven, közös államhatár mentén lévő szénhidrogén-előfordulás esetében 10 éven belül köteles az üzemszerű kitermelést megkezdeni. A bányavállalkozó egy bányatelekre vonatkozóan legfeljebb egy alkalommal kérheti a bányafelügyelettől az üzemszerű kitermelés megkezdésére megállapított határidő legfeljebb 5 évvel, az építőipari nyers- és alapanyagokra megállapított bányatelkek esetében 2 évvel történő meghosszabbítását. Meghosszabbítás esetén a bányavállalkozó térítést köteles fizetni.
 
@@ -670,7 +670,7 @@ vonatkozó információ.
 
 27. § (1) A feltárási, kitermelési, föld alatti gáztárolási és meddőhányó-hasznosítási tevékenységet jóváhagyott műszaki üzemi terv szerint kell végezni.
 
-(2) A műszaki üzemi tervet a műszaki-biztonsági, az egészségvédelmi, a tűzvédelmi szabályok és az ásványvagyon-gazdálkodási, a vízgazdálkodási, valamint a környezet-, természet- és tájvédelmi követelmények figyelembevételével úgy kell elkészíteni, hogy az biztosítsa az élet, az egészség, a felszíni és a föld alatti létesítmények, valamint a mező- és erdőgazdasági rendeltetésű földek megóvását, a bányakárok, a környezeti-természeti károk lehetséges megelőzését, illetve csökkentését, továbbá a 26/A. § (3a) bekezdése szerint megállapított bányateleknél, illetve horizontálisan bővített bányatelekrésznél a településrendezési eszközökben foglaltaknak való megfelelést.
+(2) A műszaki üzemi tervet a műszaki-biztonsági, az egészségvédelmi, a tűzvédelmi szabályok és az ásványvagyon-gazdálkodási, a vízgazdálkodási, valamint a környezet-, természet- és tájvédelmi követelmények figyelembevételével úgy kell elkészíteni, hogy az biztosítsa az élet, az egészség, a felszíni és a föld alatti létesítmények, valamint a mező- és erdőgazdasági rendeltetésű földek megóvását, a bányakárok, a környezeti-természeti károk lehetséges megelőzését, illetve csökkentését, továbbá a 26/A. § (3a) bekezdése szerint megállapított bányateleknél, illetve horizontálisan bővített bányatelekrésznél a településrendezési tervben foglaltaknak való megfelelést.
 
 (3) A műszaki üzemi tervet a bányafelügyelet a (2) bekezdésben meghatározott szempontokra és az ingatlan-igénybevételi ütemtervre figyelemmel hagyja jóvá.
 
@@ -755,7 +755,7 @@ foglaltakat kell alkalmazni.
 - a) a sajátos építményre vagy annak egy részére vonatkozó építési tevékenységet véglegessé vált vagy azonnal végrehajthatónak nyilvánított engedély nélkül végzi,
 - b) az építési tevékenységet az a) pontban meghatározott engedélytől eltérően végzi,
 - c) a sajátos építményre vagy annak egy részére vonatkozó építési tevékenységet bejelentés nélkül vagy attól eltérően végzi,
-- d) sajátos építményt vagy annak részét a településrendezési eszközök és az általános érvényű kötelező építésügyi előírások és biztonsági szabályzatok megszegésével létesít, vagy
+- d) sajátos építményt vagy annak részét a településrendezési terv és az általános érvényű kötelező építésügyi előírások és biztonsági szabályzatok megszegésével létesít, vagy
 - e) építési engedélyhez kötött sajátos építményt használatbavételi engedély nélkül használ [a továbbiakban az a)–e) pont együttesen: szabálytalan építési tevékenység], bírságot szab ki, továbbá az építtetőt az a)–d) pontok esetében eltiltja a tevékenység folytatásától, az e) pont esetében eltiltja a használattól.
 
 (3) Ha a sajátos építményt a (2) bekezdés a), b) vagy c) pontja szerint létesítették, a bányafelügyelet arra fennmaradási engedélyt adhat, ha a szabályossá tétel feltételei fennállnak vagy megteremthetők. Ha a sajátos építményt a (2) bekezdés d) pontja alapján létesítették, a bányafelügyelet elrendeli a sajátos építmény bontását.
@@ -975,7 +975,7 @@ okozott kárt az engedélyes az ingatlan tulajdonosának, használójának (a to
 
 (2) A bányavállalkozó a bányatelket vagy biztonsági övezetet érintő valamennyi építési vagy telekalakítási eljárásban ügyfélnek minősül. Ha a bányavállalkozó az építéshez vagy telekalakításhoz olyan feltételek előírását kezdeményezi, amelyek kifejezetten a bányaművelés okozta hátrányok elkerülését célozzák, úgy köteles az ebből eredő, még meg nem térített károkat az ingatlan tulajdonosának (vagyonkezelőjének, használójának) megtéríteni.
 
-(3) A területrendezési tervek, illetőleg a településrendezési eszközök kidolgozásánál – a bányafelügyelet megkeresésével – figyelembe kell venni a nyilvántartott ásványi nyersanyagvagyont tartalmazó területeket. A bányafelügyelet javaslatára a megállapított bányatelek területén a helyi építési szabályzatban területfelhasználási, illetőleg építési korlátozásokat lehet életbe léptetni.
+(3) A területrendezési tervek, illetőleg a településrendezési terv kidolgozásánál – a bányafelügyelet megkeresésével – figyelembe kell venni a nyilvántartott ásványi nyersanyagvagyont tartalmazó területeket. A bányafelügyelet javaslatára a megállapított bányatelek területén a helyi építési szabályzatban területfelhasználási, illetőleg építési korlátozásokat lehet életbe léptetni.
 
 (4) A bányafelügyelet a bányászati tevékenység befejezését követően megkeresi az illetékes települési önkormányzatot a bányászati tevékenységgel vagy megszüntetett sajátos építményekkel veszélyeztetett ingatlanra vonatkozó építési tilalom vagy korlátozás elrendelése érdekében.
 

@@ -34,13 +34,19 @@ A Tisza-völgy árvízi biztonságának a mentesített árterek részleges reakt
 - b) a nemzeti fejlesztési terv operatív programjai és a nemzeti vidékfejlesztési stratégiai tervet megvalósító nemzeti vidékfejlesztési program keretében az Európai Unió támogatási alapjából pályázati úton elnyerhető pénzeszközökből, valamint az európai uniós támogatások hazai társfinanszírozási keretéből; továbbá
 - c) a már megkezdett beruházások esetében a költségvetési támogatásból, a Kormány gondoskodik.
 
-3/A. § Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 14. § (5) bekezdésében foglaltakra tekintettel a vízügyi igazgatási szervek irányításáért felelős miniszter kezdeményezésére a vízkárelhárítási célú szükségtározóval érintett területeket – az 5. § (1) és a 24. § (2) bekezdése szerint megállapított miniszteri rendelet alapján – az érintett települési önkormányzatoknak a külön jogszabályban meghatározott településrendezési eszközeikben figyelembe kell venniük, és a miniszteri rendelet hatálybalépésétől számított kilenc hónapon belül a településrendezési tervükben, illetve a helyi építési szabályzatukban át kell vezetniük.
+3/A. § Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 14. § (5) bekezdésében foglaltakra tekintettel a vízügyi igazgatási szervek irányításáért felelős miniszter kezdeményezésére a vízkárelhárítási célú szükségtározóval érintett területeket – az 5. § (1) és a 24. § (2) bekezdése szerint megállapított miniszteri rendelet alapján – az érintett települési önkormányzatoknak a külön jogszabályban meghatározott helyi építési szabályzatukban figyelembe kell venniük, és a miniszteri rendelet hatálybalépésétől számított kilenc hónapon belül a helyi építési szabályzatukban át kell vezetniük.
 
 4. § A VTT keretében megvalósuló árvízvédelmi célú beavatkozások beruházója a Kormány által rendeletben kijelölt vízügyi igazgatási szerv (a továbbiakban: beruházó), amely szerv a hatósági és az egyéb igazgatási eljárások során jár el.
 
 ### II. Fejezet — A vízkárelhárítási célú szükségtározó területével érintett földrészletek igénybevétele
 
-#### 5–8. §
+#### 5. §
+
+#### 6. §
+
+#### 7. §
+
+#### 8. §
 
 9. § (1)–(4)
 
@@ -136,7 +142,11 @@ fenntartás
 
 (3)–(6)
 
-#### 21–23. §
+#### 21. §
+
+#### 22. §
+
+#### 23. §
 
 24. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a 10. § (1) bekezdésében meghatározott elővásárlásra vonatkozó részletes rendelkezéseket.
 

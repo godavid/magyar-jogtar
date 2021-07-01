@@ -185,7 +185,7 @@ e törvény erejénél fogva a működési terület szerinti vízügyi igazgatá
 - b) természet- és tájvédelmi,
 - c) domborzati,
 - d) klimatikus hidrológiai és hidrogeológiai,
-- e) gazdasági (településszerkezeti, településfejlesztési),
+- e) gazdasági (településrendezési, településfejlesztési),
 - f) műszaki,
 - g) üzemeltetési,
 - h) társadalmi,
@@ -1560,7 +1560,7 @@ E törvény alkalmazásában
 - 31. vízszolgáltatások: az állam, illetve a helyi önkormányzatok közfeladataival összefüggő, különösen a vízigények kielégítésére, a szennyvizek elvezetésére, illetőleg a használt vizek ártalommentes elhelyezésére, a vízkészletek védelmére irányuló közfeladatok, különösen
   - a) a felszíni vagy felszín alatti víz kitermelése, duzzasztása, tárolása, kezelése és elosztása,
   - b) a szennyvíz összegyűjtése és kezelése, amelyet ezt követően a felszíni vizekbe juttatnak;
-- 32. lakott terület: a település közigazgatási területének belterületi része, valamint az övezeti besorolástól függetlenül minden olyan külterületi településrész, ahol a nyilvántartott földrészleteket (ingatlanokat) tekintve legalább 50%-ban állandó tartózkodási hely szerint bejelentett (nyilvántartott) lakosság él, és a területfelhasználás, valamint az infrastruktúra-hálózat kialakítása a települést érintő – jóváhagyott – országos és térségi területrendezési tervekkel összhangban lévő településrendezési eszközöknek megfelel;
+- 32. lakott terület: a település közigazgatási területének belterületi része, valamint az övezeti besorolástól függetlenül minden olyan külterületi településrész, ahol a nyilvántartott földrészleteket (ingatlanokat) tekintve legalább 50%-ban állandó tartózkodási hely szerint bejelentett (nyilvántartott) lakosság él, és a területfelhasználás, valamint az infrastruktúra-hálózat kialakítása a települést érintő – jóváhagyott – országos és térségi területrendezési tervekkel összhangban lévő településrendezési tervnek megfelel;
 - 33. ivóvízminőség-javító program (intézkedési terv): az emberi fogyasztásra szolgáló vízre (ivóvízre) vonatkozó – jogszabályban meghatározott – minőségi követelményeket kielégítő cél megvalósítására irányuló feladatok összessége.
 - 34. vízkárelhárítási célú tározó:
   - a) árvízi tározó: aa) záportározó: vízfolyáson vagy vízfolyás mentén kiépített, kizárólag az árhullámok csúcs-vízhozamainak és vízállásainak mérséklését szolgáló, időszakosan vizet tartó tározó, ab) árvízcsúcs-csökkentő tározó: vízfolyáson vagy vízfolyás mentén kiépített, az árhullámok csúcs-vízhozamainak és vízállásainak mérséklését szolgáló olyan állandóan vagy időszakosan vizet tartó tározó, amelynél a maximális tározási térfogat legalább 50%-a árvízvisszatartásra szabadon áll, ac) szükségtározó: vízfolyások mentén, árhullámok részleges visszatartására kijelölt, ideiglenes vízvisszatartást szolgáló, be- és kivezetési helyekkel ellátott terület, ad) vésztározó: vízfolyások mentén, az árhullámok részleges visszatartására és a nagyobb károk megelőzésére töltségmegbontással – rendkívüli védekezési készültség vagy veszélyhelyzet esetén – igénybe vehető terület,

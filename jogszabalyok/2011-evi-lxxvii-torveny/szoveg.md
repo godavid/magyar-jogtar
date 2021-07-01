@@ -37,9 +37,9 @@ nyilvánítható.
 
 #### 2. Általános rendelkezések
 
-3. § (1) A világörökségi helyszín kiemelkedő egyetemes értéket, a várományos helyszín kiemelkedő értéket hordoz, amelyet – a kulturális örökség, illetve a természet védelméről szóló jogszabályok alapján fennálló védettséggel összhangban – mindenki köteles megóvni.
+3. § (1) A világörökségi helyszín kiemelkedő egyetemes értéket, a várományos helyszín kiemelkedő értéket hordoz, amelyet – a kulturális örökség, a természet, illetve a településkép védelméről szóló jogszabályok alapján fennálló védettséggel összhangban – mindenki köteles megóvni.
 
-(2) A világörökségi és a várományos terület védelme és fennmaradását szolgáló, értékőrző használata közérdek, amely – összhangban a kulturális örökség, illetve a természet védelméről szóló jogszabályok alapján fennálló védettségből fakadó kötelezettségeikkel – az állami és önkormányzati szervek, az egyházi jogi személyek, a társadalmi és egyéb szervezetek, illetve a természetes személyek együttműködésével valósul meg.
+(2) A világörökségi és a várományos terület védelme és fennmaradását szolgáló, értékőrző használata közérdek, amely – összhangban a kulturális örökség, a természet, illetve a településkép védelméről szóló jogszabályok alapján fennálló védettségből fakadó kötelezettségeikkel – az állami és önkormányzati szervek, az egyházi jogi személyek, a társadalmi és egyéb szervezetek, illetve a természetes személyek együttműködésével valósul meg.
 
 (3) A világörökségi és a Világörökség Jegyzékbe jelölendő várományos területet az Egyezménnyel összhangban, annak egyetemes és nemzeti értékeit megőrizve és a köz érdekét szolgálva kell használni, bemutatni, fenntartható módon fejleszteni vagy szükség szerint helyreállítani.
 
@@ -67,8 +67,8 @@ nyilvánítható.
 - i) ellátja a világörökséggel kapcsolatos, az Egyezményből eredő nemzetközi feladatokat, így különösen a határon átnyúló világörökségi helyszínek esetén együttműködésre törekszik a határon átnyúló helyszínnel érintett Részes Állam felelős miniszterével;
 - j) gondoskodik a kiemelkedő egyetemes értéket hordozó örökség széles körben történő megismertetését, bemutatását, valamint fejlesztését elősegítő – köztük oktatási, képzési, ismeretterjesztő – programok kidolgozásáról és végrehajtásáról, valamint
 - k) gondoskodik a világörökség állapotának figyelemmel kísérése, értékeinek megóvása során a létesítő okiratuk szerint kulturális örökség védelmével, illetve természeti értékek esetén a természetvédelemmel foglalkozó civil szervezetekkel való együttműködésről;
-- l) gondoskodik a hazai világörökségi területek és a Világörökségi Várományos Helyszínek Jegyzékének mint közhiteles nyilvántartásnak a vezetéséről;
-- m) jogszabályban meghatározott módon gondoskodik a világörökségi és a világörökségi várományos területek adatainak nyilvántartásáról.
+- l)
+- m) gondoskodik a hazai világörökségi területek jogszabályban meghatározott – személyes adatot nem tartalmazó – adatai központi, közhiteles nyilvántartásának vezetéséről.
 
 4/A. § (1) A kulturális örökség védelméért felelős miniszter, vagy ha a világörökségi helyszín kiemelkedő egyetemes értéke kizárólag természeti érték és a világörökségi terület egésze védett természeti területen van, úgyszintén, ha az állami tulajdonban álló vagyonelem (a továbbiakban: állami vagyonelem) kizárólag természetvédelmi oltalom alatt áll, a természet védelméért felelős miniszter (a továbbiakban együtt: védelemért felelős miniszter) hivatalból, továbbá az állam tulajdonosi jogait gyakorló szerv vagy a világörökségi helyszínen működő világörökségi gondnokság kérelmére megvizsgálja a világörökségi területen levő, állami vagyonelem használatát és hasznosítását. Amennyiben a világörökségi helyszín kiemelkedő egyetemes értéke természeti érték is, vagy az állami vagyonelem természetvédelmi oltalom alatt is áll, a kulturális örökség védelméért felelős miniszter a vizsgálatot a természet védelméért felelős miniszter közreműködésével folytatja le.
 
@@ -86,9 +86,9 @@ nyilvánítható.
 
 - a) kiválasztja a várományos helyszíneket,
 - b) bejelenti a várományos helyszíneket a Központhoz,
-- c) ötévente felülvizsgálja a Világörökségi Várományos Helyszínek Jegyzékét,
-- d) a c) pont szerinti felülvizsgálat eredményére is figyelemmel javaslatot tesz a Kormány részére a Világörökség Jegyzékbe jelölendő várományos helyszínre (a továbbiakban: a Világörökség Jegyzékbe jelölendő helyszín),
-- e) gondoskodik a Kormány döntése alapján a Világörökség Jegyzékbe jelölendő helyszín és javasolt védőövezete világörökségi kezelési tervének elkészítéséről és világörökségi gondnokságának kijelöléséről,
+- c) gondoskodik a hazai Világörökségi Várományos Helyszínek Jegyzékének vezetéséről,
+- d) javaslatot tesz a Kormány részére a Világörökség Jegyzékbe jelölendő várományos helyszínre (a továbbiakban: a Világörökség Jegyzékbe jelölendő helyszín),
+- e) gondoskodik a Kormány döntése alapján a Világörökség Jegyzékbe jelölendő helyszín világörökségi gondnokságának ideiglenes kijelöléséről,
 - f) intézkedik a Világörökség Jegyzékbe jelölendő helyszín Világörökség Jegyzékbe történő jelöléséről, valamint
 - g) gondoskodik a várományos helyszínen kiemelkedő értéket hordozó örökség megismerését, fejlesztését és bemutatását elősegítő – köztük oktatási, képzési, ismeretterjesztő – programok kidolgozásáról és végrehajtásáról.
 
@@ -152,7 +152,7 @@ nyilvánítható.
 
 (6) A világörökségi területek világörökségi kezelési tervében foglaltak figyelembevételével kell különösen
 
-- a) a területrendezési tervet, valamint a területfelhasználás rendjét és a területhasználat szabályait érintően a településrendezési eszközöket felülvizsgálni, és szükség esetén módosítani, összhangba hozni;
+- a) a területrendezési tervet, valamint a területfelhasználás rendjét és a területhasználat szabályait érintően a településrendezési tervet felülvizsgálni, és szükség esetén módosítani, összhangba hozni;
 - b) a világörökségi terület vagy a Világörökség Jegyzékbe jelölendő helyszín természeti és kulturális örökségi értékeit érő káros hatások bekövetkezését megelőzni, a káros hatásokat elhárítani, csökkenteni; valamint
 - c) a világörökségi területet vagy a Világörökség Jegyzékbe jelölendő helyszínt érintő bármely változtatást (különösen fejlesztést, felújítást, helyreállítást) végezni.
 
@@ -186,7 +186,7 @@ nyilvánítható.
 
 - a) a világörökségi kezelési terv kidolgozását;
 - b) a 9. § (2) bekezdésében meghatározott szakértői költségeket;
-- c) a területrendezési tervek és településrendezési eszközök világörökségi kezelési tervben foglaltak szerinti felülvizsgálatát és módosítását;
+- c) a területrendezési tervek és a településrendezési tervek világörökségi kezelési tervben foglaltak szerinti felülvizsgálatát és módosítását;
 - d) a 4/A. § szerinti felülvizsgálattal összefüggésben felmerülő, másra át nem hárítható költségeket és egyéb fizetési kötelezettségeket;
 - e) a Világörökség Jegyzékbe jelölendő helyszín jelölésének költségeit.
 
@@ -206,7 +206,7 @@ nyilvánítható.
 
 (2) Az illetékes országos szervezetek, valamint a megyei önkormányzatok a területrendezési terveik 8. § (6) bekezdés a) pontja szerinti összhangja megteremtéséről a világörökségi kezelési tervek kihirdetését követően legkésőbb 5 éven belül, illetve más jogszabályból fakadó kötelező felülvizsgálat vagy más okból elvégzett módosítás alkalmával kötelesek gondoskodni.
 
-(3) A települési (fővárosi, fővárosi kerületi) önkormányzatok a településrendezési eszközeik 8. § (6) bekezdés a) pontja szerinti módosításáról a világörökségi kezelési tervek kihirdetését követő tizennyolc hónapon belül kötelesek gondoskodni.
+(3) A települési (fővárosi, fővárosi kerületi) önkormányzatok a településrendezési tervük 8. § (6) bekezdés a) pontja szerinti módosításáról a világörökségi kezelési tervek kihirdetését követő tizennyolc hónapon belül kötelesek gondoskodni.
 
 (4) A világörökségi gondnokságot az e törvény hatálybalépésétől számított 14 hónapon belül kell kijelölni.
 
@@ -226,11 +226,9 @@ nyilvánítható.
 - d) a világörökségi gondnokság kijelölésének szabályait és ellátandó feladatait,
 - e) a világörökségi területre vonatkozóan a kiemelkedő egyetemes értéket és az azt hordozó elemeket (attribútumokat), valamint az ezek megőrzését és fenntartását biztosító alapvető kezelési követelményeket, korlátozásokat és tilalmakat meghatározó világörökségi kezelési tervet,
 - f) a világörökségi helyszínen található ingatlanok vonatkozásában a magyar államot megillető elővásárlási jog gyakorlásának részletes szabályait, a 6/A. § (5) bekezdésében meghatározott hatóság kijelölését, valamint az elővásárlási joggal érintett ingatlanok adatait.
+- g) a világörökségi komplex hatásvizsgálati dokumentáció tartalmi elemeit, valamint az annak elkészítésére vonatkozó különös szabályokat.
 
-(2) Felhatalmazást kap a kulturális örökség védelméért felelős miniszter, hogy – az 1. mellékletben meghatározott miniszterekkel egyetértésben – rendeletben állapítsa meg:
-
-- a) a világörökségi komplex hatásvizsgálati dokumentáció tartalmi elemeit, valamint az annak elkészítésére vonatkozó különös szabályokat;
-- b) a világörökségi területtel érintett ingatlanokat.
+(2) Felhatalmazást kap a kulturális örökség védelméért felelős miniszter, hogy rendeletben állapítsa meg a Világörökségi Várományos Helyszínek Jegyzékét.
 
 (3)
 

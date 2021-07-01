@@ -18,7 +18,7 @@ a Magyarország Kormánya és Svédország Kormánya között a Magyar Népközt
 
 5. § Az e törvény végrehajtásához szükséges intézkedésekről a külgazdasági ügyekért felelős miniszter gondoskodik.
 
-6. § Hatályát veszti a Magyar Népköztársaság Kormánya és a Svéd Királyság Kormánya között a beruházások elősegítéséről és kölcsönös védelméről szóló megállapodás kihirdetéséről szóló 25/1987. (VII. 28.) MT rendelet.
+6. §
 
 ### 1. melléklet a 2021. évi XXX. törvényhez
 

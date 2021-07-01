@@ -311,21 +311,119 @@ számára lehetőséget biztosít a munkavégzési feltételek megteremtésére,
 
 34. § A nyugdíjas szövetkezetnek a nevében viselnie kell a „közérdekű nyugdíjas szövetkezet” megnevezést.
 
-35. §
+#### 6. Kisgyermekkel otthon lévők szövetkezete
 
-36. §
+35. § (1) A kisgyermekkel otthon lévők szövetkezete olyan speciális szövetkezet, amelynek célja nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülők vagyoni, szociális, kulturális helyzetének előmozdítása, lehetőséget biztosítva arra, hogy a tagok rugalmas keretek között a foglalkoztatásba bekapcsolódjanak, illetve abban újra részt vehessenek, közösséghez tartozhassanak.
 
-37. §
+(2) A kisgyermekkel otthon lévők szövetkezetének célja továbbá az is, hogy elősegítse a tagok között a kisgyermekek gondozásához, neveléséhez kapcsolódó tudás- és ismeretanyag átadását, valamint tapasztalatcserét, ezen túlmenően pedig hozzásegítse tagjait a kisgyermekek gondozását, nevelését érintő új ismeret- és tudásanyag megszerzésének lehetőségéhez.
 
-38–39. §
+36. § A kisgyermekkel otthon lévők szövetkezete minden olyan tevékenységet gyakorolhat, amelyet jogszabály nem tilt és egybeesik a 35. §-ban meghatározott célkitűzésekkel.
 
-40. §
+37. § A kisgyermekkel otthon lévők szövetkezetének csak természetes személy tagjai lehetnek.
 
-41. §
+38. § A kisgyermekkel otthon lévők szövetkezete tagjainak legalább 90%-a olyan természetes személy, aki nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesül.
+
+39. § A kisgyermekkel otthon lévők szövetkezetének nem lehet személyes közreműködést nem vállaló tagja.
+
+40. § (1) A tagfelvételi kérelemben a tagságra jelentkező személynek (a továbbiakban: tagjelölt) nyilatkoznia kell arról, hogy
+
+- a) a szövetkezet tagjává kíván válni,
+- b) nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesül,
+- c) a szövetkezet alapszabályában foglaltakat elfogadja, magára nézve kötelezőnek ismeri el,
+- d) vállalja a szövetkezet tevékenységében való személyes közreműködést,
+- e) vállalja a szövetkezet alapszabályában meghatározott vagyoni hozzájárulás teljesítését,
+- f) a tagoknak biztosított előnyökkel élni kíván, a tagoknak biztosított szolgáltatásokat igénybe kívánja venni, és
+- g) a tagsága létesítésének nincs akadálya, és személyes közreműködését a munkavégzésre irányuló jogviszonyára vonatkozó szabályokkal összhangban fogja teljesíteni, ha egyébként munkavégzésre irányuló jogviszonyban áll.
+
+(2) A tagjelölt köteles az (1) bekezdés b) pontjában foglaltakat igazolni.
+
+41. § (1) A kisgyermekkel otthon lévők szövetkezetének alapításakor, illetve belépéskor a tagsági jogviszony létrehozatalának feltétele az alapszabályban meghatározott mértékű vagyoni hozzájárulás teljesítése, amely lehet pénzbeli, illetve nem pénzbeli vagyoni hozzájárulás.
+
+(2) A vagyoni hozzájárulás teljesítése feltételeinek részletszabályait az alapszabály tartalmazza.
+
+(3) A vagyoni hozzájárulás teljesítésére az e §-ban nem szabályozott kérdésekben a Ptk. vonatkozó rendelkezései az irányadóak.
+
+42. § (1) A kisgyermekkel otthon lévők szövetkezete célhoz kötött ismeretfejlesztési és edukációs alapot képez.
+
+(2) Az ismeretfejlesztési és edukációs alap célja, hogy fedezetet nyújtson a szövetkezet tagjai számára a kisgyermekek gondozására, nevelésére irányuló ismeret-, tudásanyag, valamint tapasztalat bővítésére és megszerzésére, továbbá a tagok edukációjára.
+
+(3) Az ismeretfejlesztési és edukációs alap a tagok között nem osztható fel.
+
+(4) A kisgyermekkel otthon lévők szövetkezete gazdasági társasággá való átalakulása vagy jogutód nélküli megszűnése esetén – a hitelezőkkel való elszámolást követően – az ismeretfejlesztési és edukációs alapot az alapszabály rendelkezése szerinti más kisgyermekkel otthon lévők szövetkezetének vagy szövetkezeti érdekképviseleti szervezetnek adja át.
+
+(5) Az ismeretfejlesztési és edukációs alap igénybevételére és felhasználására vonatkozó részletszabályokat az alapszabályban kell meghatározni.
+
+(6) Az ismeretfejlesztési és edukációs alapból nyújtott szolgáltatás a nyereségből való részesedésként és a tagsági jogviszony megszűnéséhez kapcsolódó elszámolás során nem vehető figyelembe.
+
+(7) Az e §-ban nem szabályozott kérdésekben a Ptk. közösségi alapra irányadó rendelkezéseit kell megfelelően alkalmazni.
+
+43. § (1) A kisgyermekkel otthon lévők szövetkezete által nyújtott szolgáltatásokért szolgáltatási díjat kell fizetni.
+
+(2) A kisgyermekkel otthon lévők szövetkezete az éves nettó árbevételének legalább 85%-át a tagok között személyes közreműködésük arányában osztja fel.
+
+44. § (1) A kisgyermekkel otthon lévők szövetkezete közgyűlésén a vagyoni hozzájárulás mértékére tekintet nélkül minden tagnak egy szavazata van.
+
+(2) A döntéshozatalra egyebekben az e §-ban nem szabályozott kérdésekben a Ptk. vonatkozó szabályai irányadóak.
+
+45. § (1) A kisgyermekkel otthon lévők szövetkezete a tagjával tagsági megállapodást köt a személyes közreműködés konkrét tartalmára, módjára és ellentételezésére vonatkozóan.
+
+(2) A tagsági megállapodásban a szövetkezet tagját megillető ellentételezést akként kell meghatározni, hogy annak arányosnak kell lennie a tag személyes közreműködésének mértékével, figyelemmel a 43. § (2) bekezdésére.
+
+46. § (1) A kisgyermekkel otthon lévők szövetkezetének tagja személyes közreműködését a kisgyermekkel otthon lévők szövetkezete által harmadik személy részére nyújtott szolgáltatás (a továbbiakban: külső szolgáltatás) keretében is teljesítheti.
+
+(2) A külső szolgáltatás nyújtására irányuló jogviszony olyan sajátos jogviszony, amelynél a kisgyermekkel otthon lévők szövetkezetének tagja személyes közreműködését külső szolgáltatás keretében teljesíti, és amelyre a Ptk. megbízásra vonatkozó, valamint a munka törvénykönyvének e törvényben meghatározott szabályait és a munkavédelemről szóló törvény irányadó rendelkezéseit kell megfelelően alkalmazni.
+
+(3) A külső szolgáltatás nyújtására irányuló jogviszony a kisgyermekkel otthon lévők szövetkezete és tagja közötti külső szolgáltatásra vonatkozó tagsági megállapodás alapján jön létre.
+
+(4) A külső szolgáltatás nyújtása során a külső szolgáltatás fogadója a kisgyermekkel otthon lévők szövetkezete tagját közvetlenül utasíthatja. Az utasításadási jog kiterjed különösen a feladatteljesítés módjának, idejének és ütemezésének meghatározására.
+
+(5) A kisgyermekkel otthon lévők szövetkezete tagja részére, ha a feladatteljesítés tartama a napi hat órát meghaladja, napi húsz, ha a napi kilenc órát meghaladja, további napi huszonöt perc munkaközi szünetet kell biztosítani. A kisgyermekkel otthon lévők szövetkezete tagja részére, ha két egymást követő napon végzi feladatát, a napi munka befejezése és a következő napi munka megkezdése között legalább tizenegy óra pihenőidőt kell biztosítani.
+
+(6) A külső szolgáltatás fogadójánál történő feladatteljesítés tartamára járó, az egyes feladatokhoz kapcsolódó díj nem lehet alacsonyabb, mint az Mt. 153. §-ában foglalt felhatalmazás alapján kiadott jogszabályban meghatározott minimális összeg.
+
+(7) A (3) bekezdés szerinti tagsági megállapodásnak tartalmaznia kell
+
+- a) a tag által vállalt feladatok körét,
+- b) a tagnak a külső szolgáltatás fogadójánál történő feladatteljesítése tartamára járó, az egyes feladatokhoz kapcsolódó díj és a díjhoz kapcsolódó egyéb juttatás legkisebb összegét, valamint
+- c) a kisgyermekkel otthon lévők szövetkezete és a tagja közötti kapcsolattartás módját a feladatteljesítéssel nem járó időtartamra.
+
+(8) A személyes közreműködés külső szolgáltatás keretében történő teljesítése megkezdésének feltétele, hogy a kisgyermekkel otthon lévők szövetkezete és a tag írásban megállapodjanak
+
+- a) a szolgáltatás fogadójának személyében,
+- b) a teljesítendő konkrét feladatban,
+- c) a tag díjának és a díjhoz kapcsolódó egyéb juttatások összegében és az összeg kifizetésének időpontjában,
+- d) a feladat teljesítésének helyében, valamint
+- e) a feladat teljesítésének időtartamában.
+
+(9) A külső szolgáltatás teljesítésében részt vevő tag károkozása vagy személyiségi jog megsértése esetén a kisgyermekkel otthon lévők szövetkezete és a külső szolgáltatás fogadójának megállapodása alapján az alkalmazott károkozásáért való felelősség polgári jogi szabályait kell alkalmazni, azzal, hogy a harmadik személynek okozott kárért vagy személyiségi jogsértésért a kisgyermekkel otthon lévők szövetkezete és a külső szolgáltatás fogadója egyetemlegesen felelnek.
+
+(10) A külső szolgáltatás fogadója részére történő feladatteljesítés során a külső szolgáltatás teljesítésében részt vevő tagnak okozott kárért vagy személyiségi jogai megsértéséért a szövetkezet és a szolgáltatás fogadója egyetemlegesen felel.
+
+47. § A szolgáltatás fogadója együttműködik a kisgyermekkel otthon lévők szövetkezetével, így különösen biztosítja a kisgyermekkel otthon lévők szövetkezete képviselőjének a feladatteljesítés helyére történő belépést, tájékoztatja a kisgyermekkel otthon lévők szövetkezetét a feladatteljesítéssel kapcsolatos lényeges körülményekről.
+
+48. § A kisgyermekkel otthon lévők szövetkezete közhasznú jogállású lehet.
+
+49. § (1) A kisgyermekkel otthon lévők szövetkezeteinek érdekképviselete e törvény érdekképviseletre irányadó szabályai szerint több szinten szerveződhet.
+
+(2) Az érdekképviselet legfőbb feladata a kisgyermekkel otthon lévők szövetkezete tagjai érdekeinek védelme, képviselete, érvényre juttatása, különös tekintettel a kisgyermekkel otthon lévők szövetkezete tevékenységét elősegítő jogalkotásban való közreműködésre.
+
+(3) Az érdekképviseletnek kiemelt feladata az is, hogy a szövetkezetek közötti együttműködés nemzetközi szövetkezeti alapelvére is figyelemmel működjön közre más szövetkezeti érdekképviseletekkel a tagjai javára.
+
+(4) Az e §-ban nem szabályozott kérdésekben e törvény érdekképviseletre vonatkozó rendelkezései az irányadóak.
+
+50. § A szövetkezetnek a nevében viselnie kell a „kisgyermekkel otthon lévők szövetkezete” megnevezést.
+
+51. § (1) Az állam a kisgyermekkel otthon lévők szövetkezete tevékenységéhez szükséges és arányos mértékben támogatást nyújthat.
+
+(2) A kisgyermekkel otthon lévők szövetkezete működése során a céljai érvényre juttatásával közérdeket szolgál.
+
+52. § A gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő tag tagsági jogviszonya megszűnik azon a napon, amelytől sem gyermekgondozási díjban, sem gyermekgondozást segítő ellátásban nem részesül.
+
+53. § A kisgyermekkel otthon lévők szövetkezetére a 35–52. §-ban nem szabályozott kérdésekben a Ptk. vonatkozó rendelkezései és az I. Fejezet rendelkezései az irányadóak.
 
 ### IV. Fejezet
 
-42–64. §
+54–64. §
 
 ### V. Fejezet
 

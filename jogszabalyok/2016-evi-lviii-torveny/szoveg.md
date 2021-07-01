@@ -2,7 +2,41 @@
 
 a XXXIII. nyári olimpiai és XVII. nyári paralimpiai játékok pályázatáról és rendezéséről
 
-Magyarország a modern kori olimpiákon elnyert 168 aranyérmével, 148 ezüstérmével és 170 bronzérmével, valamint a paralimpiákon szerzett 30 aranyérmével, 41 ezüstérmével és 55 bronzérmével az olimpiai és paralimpiai játékok történetének legeredményesebb sportnemzetei közé tartozik, a világelsők között áll az egy főre jutó olimpiai és paralimpiai érmek számát tekintve. Magyarország a Nemzetközi Olimpiai Bizottság egyik alapítójaként kiemelkedő szerepet játszott a modern olimpizmus megteremtésében, valamint azóta is aktív és megbecsült tagja az olimpiai mozgalomnak, az olimpiai közösségnek.A viharos huszadik század nem adta meg a lehetőséget, hogy Magyarország rendezője is lehessen az egyetemes sport legnagyobb ünnepének, az olimpiai és paralimpiai játékoknak. Hisszük, hogy most elérkezett az idő arra, hogy Hazánk történelme során első ízben olimpiát rendezhessen, azaz házigazdája legyen a 2024. évi XXXIII. nyári olimpiai és XVII. nyári paralimpiai játékoknak, és vendégül láthassa a világ sportolóit és nemzeteit.Ez a lehetőség három történelmi tényező szerencsés együttállásán alapul.1989-ben leomlott a berlini fal és az Európát megosztó vasfüggöny. Az azóta eltelt negyedszázad alatt Közép-Európa népei visszanyerték szabadságukat, újjáépítették országaikat, újraindították gazdaságaikat, és sikeresen illeszkedtek be a szuverén, szabad nemzetek közösségébe. 2024-ben, egy emberöltővel az új szabadság kivívása után, az első közép-európai olimpia sikeres befejezése lenne e történelmi vállalkozásnak, az átalakulás korszakának, és egyben kezdete is lenne a 150 milliós lakosú Közép-Európa XXI. századi története sikeres, új korszakának.Magyarország és Közép-Európa gazdasági teljesítményében is megújult: 2024-ben az olimpiarendezés feltételei zömében olimpia nélkül is adottak lesznek Budapesten, Magyarországon. Már most is, és 2024-re még inkább Magyarország, az európai uniós kohéziós forrásokat is felhasználva, gyökeresen megújított, korszerű infrastruktúrával, közlekedési hálózattal, turisztikai infrastruktúrával és sportlétesítményekkel bír.2014 végén a Nemzetközi Olimpiai Bizottság a játékok megújítása mellett döntött, és elfogadta a gazdaságos olimpia reformprogramját, az „Agenda2020” programot. Az Agenda2020 célja az ésszerűbb, gazdaságosabb, takarékosabb és így megtérülő olimpiarendezés elősegítése. Az Agenda2020 újra reális esélyt biztosít az olimpiarendezésre a Budapest méretű nagyvárosok számára – csak úgy, mint korábban, amikor a Budapesthez hasonló méretű Antwerpen, Stockholm, Helsinki és Barcelona is rendkívül sikeres nyári játékokat rendezett.Az olimpiai és paralimpiai játékok megrendezésével Magyarország nem kizárólag a világ legnagyobb sporteseményének lebonyolítására vállalkozik. Az olimpiai és paralimpiai játékok megrendezése Hazánkra irányítja az egész világ figyelmét, és lehetőséget ad arra, hogy bemutassuk a magyar nemzet kiválóságát és erényeit, alkotó- és szervezőképességét, büszke történelmét, gazdag kultúráját, a szabadság, a béke, a sport és az olimpiai mozgalom iránti elkötelezettségét, hogy együtt szerezzünk dicsőséget és hírnevet külföldön, és múlhatatlan nemzeti önbecsülést idehaza. Hiszünk abban, hogy Budapest és Magyarország az „Agenda 2020” nevű olimpiai reformprogram szellemiségében, az ahhoz illeszkedő friss és újszerű megközelítésű olimpiarendezési elképzeléseivel, a fiatalabb nemzedékek megszólításán keresztül képes hozzájárulni a nemzetközi olimpiai mozgalom megújításához. Hisszük továbbá, hogy az olimpiarendezés egy olyan össznemzeti ügy lehet, amely közös célt tud adni a nemzet valamennyi tagjának, ezáltal lendületet ad Budapest, valamint az egész ország további fejlődésének.A 2024. évi XXXIII. nyári olimpiai és XVII. nyári paralimpiai játékok sikeres pályázatához, illetve rendezéséhez nélkülözhetetlen a nemzeti együttműködés, a hosszú távú tervezhetőség, és a kitartó támogatás biztosítása. A sikeres pályázat, illetve rendezés hatékony és gyors lebonyolítását egy speciális szabályozó rendszer döntő mértékben segítheti.Az Országgyűlés ennek szem előtt tartásával a XXXIII. Olimpiai Játékok és a XVII. Paralimpiai Játékok 2024-es budapesti megrendezésére vonatkozó pályázati szándék támogatásáról szóló 31/2015. (VII. 7.) OGY határozat alapján– a Nemzetközi Olimpiai Bizottság Olimpiai Chartájában foglalt modern olimpizmus eszméje és az olimpizmus alapelvei és értékei iránti elkötelezettséggel;– tisztelegve Magyarország mint olimpiai nemzet, és a magyar olimpizmus múltja, jelene, hagyományai, eredményei és sportolói előtt;– kiemelve, hogy a sportolás Magyarország Alaptörvényének XX. cikke alapján a testi és lelki egészséghez való jog érvényesülésének kötelezően támogatandó eszköze;– elismerve, hogy a sport, a parasporttal együttesen a társadalom szerves része, az életminőség, az egészség javításának, az ifjúság nevelésének pótolhatatlan eszköze;– elismerve, hogy a világ legnagyobb sportfesztiválja, az olimpiai és paralimpiai játékok, a nemzeti összetartozás kifejezésének és megélésének, a világ országai nemes versengésének nagyszerű eseménye;– felelősséggel azért, hogy Magyarország hozzájáruljon a világ országainak és nemzeteinek békés együttéléséhez, egymás megbecsüléséhez és tiszteletéhez, egy békés és jobb világ építéséhez;– kifejezésre juttatva az Alaptörvény P) cikkében is oltalmazott a jövő nemzedékek iránt érzett felelősségét és– elkötelezve az iránt, hogy Magyarország és Budapest a Nemzetközi Olimpiai Bizottság 127. közgyűlésén elfogadott „Agenda 2020” reformprogramban lefektetett gazdaságosság és az Alaptörvény Q) cikkében is közös célként megjelölt fenntartható fejlődés szempontjait érvényesítő, az egész világ elismerését kivívó olimpiai és paralimpiai játékoknak adhasson otthont,a 2024. évi XXXIII. nyári olimpiai és XVII. nyári paralimpiai játékok hatékony és sikeres pályázata, illetve rendezése érdekében a következő törvényt alkotja:
+Magyarország a modern kori olimpiákon elnyert 168 aranyérmével, 148 ezüstérmével és 170 bronzérmével, valamint a paralimpiákon szerzett 30 aranyérmével, 41 ezüstérmével és 55 bronzérmével az olimpiai és paralimpiai játékok történetének legeredményesebb sportnemzetei közé tartozik, a világelsők között áll az egy főre jutó olimpiai és paralimpiai érmek számát tekintve. Magyarország a Nemzetközi Olimpiai Bizottság egyik alapítójaként kiemelkedő szerepet játszott a modern olimpizmus megteremtésében, valamint azóta is aktív és megbecsült tagja az olimpiai mozgalomnak, az olimpiai közösségnek.
+
+A viharos huszadik század nem adta meg a lehetőséget, hogy Magyarország rendezője is lehessen az egyetemes sport legnagyobb ünnepének, az olimpiai és paralimpiai játékoknak. Hisszük, hogy most elérkezett az idő arra, hogy Hazánk történelme során első ízben olimpiát rendezhessen, azaz házigazdája legyen a 2024. évi XXXIII. nyári olimpiai és XVII. nyári paralimpiai játékoknak, és vendégül láthassa a világ sportolóit és nemzeteit.
+
+Ez a lehetőség három történelmi tényező szerencsés együttállásán alapul.
+
+1989-ben leomlott a berlini fal és az Európát megosztó vasfüggöny. Az azóta eltelt negyedszázad alatt Közép-Európa népei visszanyerték szabadságukat, újjáépítették országaikat, újraindították gazdaságaikat, és sikeresen illeszkedtek be a szuverén, szabad nemzetek közösségébe. 2024-ben, egy emberöltővel az új szabadság kivívása után, az első közép-európai olimpia sikeres befejezése lenne e történelmi vállalkozásnak, az átalakulás korszakának, és egyben kezdete is lenne a 150 milliós lakosú Közép-Európa XXI. századi története sikeres, új korszakának.
+
+Magyarország és Közép-Európa gazdasági teljesítményében is megújult: 2024-ben az olimpiarendezés feltételei zömében olimpia nélkül is adottak lesznek Budapesten, Magyarországon. Már most is, és 2024-re még inkább Magyarország, az európai uniós kohéziós forrásokat is felhasználva, gyökeresen megújított, korszerű infrastruktúrával, közlekedési hálózattal, turisztikai infrastruktúrával és sportlétesítményekkel bír.
+
+2014 végén a Nemzetközi Olimpiai Bizottság a játékok megújítása mellett döntött, és elfogadta a gazdaságos olimpia reformprogramját, az „Agenda2020” programot. Az Agenda2020 célja az ésszerűbb, gazdaságosabb, takarékosabb és így megtérülő olimpiarendezés elősegítése. Az Agenda2020 újra reális esélyt biztosít az olimpiarendezésre a Budapest méretű nagyvárosok számára – csak úgy, mint korábban, amikor a Budapesthez hasonló méretű Antwerpen, Stockholm, Helsinki és Barcelona is rendkívül sikeres nyári játékokat rendezett.
+
+Az olimpiai és paralimpiai játékok megrendezésével Magyarország nem kizárólag a világ legnagyobb sporteseményének lebonyolítására vállalkozik. Az olimpiai és paralimpiai játékok megrendezése Hazánkra irányítja az egész világ figyelmét, és lehetőséget ad arra, hogy bemutassuk a magyar nemzet kiválóságát és erényeit, alkotó- és szervezőképességét, büszke történelmét, gazdag kultúráját, a szabadság, a béke, a sport és az olimpiai mozgalom iránti elkötelezettségét, hogy együtt szerezzünk dicsőséget és hírnevet külföldön, és múlhatatlan nemzeti önbecsülést idehaza. Hiszünk abban, hogy Budapest és Magyarország az „Agenda 2020” nevű olimpiai reformprogram szellemiségében, az ahhoz illeszkedő friss és újszerű megközelítésű olimpiarendezési elképzeléseivel, a fiatalabb nemzedékek megszólításán keresztül képes hozzájárulni a nemzetközi olimpiai mozgalom megújításához. Hisszük továbbá, hogy az olimpiarendezés egy olyan össznemzeti ügy lehet, amely közös célt tud adni a nemzet valamennyi tagjának, ezáltal lendületet ad Budapest, valamint az egész ország további fejlődésének.
+
+A 2024. évi XXXIII. nyári olimpiai és XVII. nyári paralimpiai játékok sikeres pályázatához, illetve rendezéséhez nélkülözhetetlen a nemzeti együttműködés, a hosszú távú tervezhetőség, és a kitartó támogatás biztosítása. A sikeres pályázat, illetve rendezés hatékony és gyors lebonyolítását egy speciális szabályozó rendszer döntő mértékben segítheti.
+
+Az Országgyűlés ennek szem előtt tartásával a XXXIII. Olimpiai Játékok és a XVII. Paralimpiai Játékok 2024-es budapesti megrendezésére vonatkozó pályázati szándék támogatásáról szóló 31/2015. (VII. 7.) OGY határozat alapján
+
+– a Nemzetközi Olimpiai Bizottság Olimpiai Chartájában foglalt modern olimpizmus eszméje és az olimpizmus alapelvei és értékei iránti elkötelezettséggel;
+
+– tisztelegve Magyarország mint olimpiai nemzet, és a magyar olimpizmus múltja, jelene, hagyományai, eredményei és sportolói előtt;
+
+– kiemelve, hogy a sportolás Magyarország Alaptörvényének XX. cikke alapján a testi és lelki egészséghez való jog érvényesülésének kötelezően támogatandó eszköze;
+
+– elismerve, hogy a sport, a parasporttal együttesen a társadalom szerves része, az életminőség, az egészség javításának, az ifjúság nevelésének pótolhatatlan eszköze;
+
+– elismerve, hogy a világ legnagyobb sportfesztiválja, az olimpiai és paralimpiai játékok, a nemzeti összetartozás kifejezésének és megélésének, a világ országai nemes versengésének nagyszerű eseménye;
+
+– felelősséggel azért, hogy Magyarország hozzájáruljon a világ országainak és nemzeteinek békés együttéléséhez, egymás megbecsüléséhez és tiszteletéhez, egy békés és jobb világ építéséhez;
+
+– kifejezésre juttatva az Alaptörvény P) cikkében is oltalmazott a jövő nemzedékek iránt érzett felelősségét és
+
+– elkötelezve az iránt, hogy Magyarország és Budapest a Nemzetközi Olimpiai Bizottság 127. közgyűlésén elfogadott „Agenda 2020” reformprogramban lefektetett gazdaságosság és az Alaptörvény Q) cikkében is közös célként megjelölt fenntartható fejlődés szempontjait érvényesítő, az egész világ elismerését kivívó olimpiai és paralimpiai játékoknak adhasson otthont,
+
+a 2024. évi XXXIII. nyári olimpiai és XVII. nyári paralimpiai játékok hatékony és sikeres pályázata, illetve rendezése érdekében a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -115,7 +149,17 @@ Magyarország a modern kori olimpiákon elnyert 168 aranyérmével, 148 ezüsté
 
 ### III. Fejezet
 
-10–15. §
+#### 10. §
+
+#### 11. §
+
+#### 12. §
+
+#### 13. §
+
+#### 14. §
+
+#### 15. §
 
 ### IV. Fejezet — KIEMELT JELENTŐSÉGŰ OLIMPIAI ÜGYEK
 
@@ -125,7 +169,9 @@ Magyarország a modern kori olimpiákon elnyert 168 aranyérmével, 148 ezüsté
 
 (3) A kiemelt jelentőségű olimpiai ügyekben a nemzetgazdasági szempontból kiemelt jelentőségű közigazgatási hatósági ügyekre vonatkozó külön jogszabályban meghatározott rendelkezéseket az e törvényben és a végrehajtására kiadott jogszabályokban meghatározott eltérésekkel kell alkalmazni.
 
-17–18. §
+#### 17. §
+
+#### 18. §
 
 19. § (1) Kiemelt jelentőségű olimpiai ügyben a kérelem benyújtását megelőzően legalább tizenöt nappal az eljáró hatóság és az érintett szakhatóságok közreműködésével az előzetes tervegyeztetés legalább egy alkalommal kötelező.
 
@@ -150,7 +196,7 @@ Magyarország a modern kori olimpiákon elnyert 168 aranyérmével, 148 ezüsté
 
 (2) Az (1) bekezdés szerinti építési tevékenységek és építésügyi hatósági ügyek tárgyát képező építmények (a továbbiakban: olimpiai építmények) telkére, valamint az azok közvetlen környezetébe tartozó telkekre vonatkozóan a Kormány rendeletben megállapíthatja a beépítés sajátos szabályait.
 
-(3) Amennyiben az olimpiai építmények telkére, valamint az azok közvetlen környezetébe tartozó telkekre vonatkozóan a Kormány rendeletben állapítja meg a beépítés sajátos szabályait, akkor az érintett telkekre vonatkozó településrendezési eszközöket a beépítés sajátos szabályai szerinti eltérésekkel kell alkalmazni, azzal, hogy ha a településrendezési eszköz a beépítés sajátos szabályaival ellentétes, vagy azzal nem összeegyeztethető előírást tartalmaz, akkor azt nem lehet alkalmazni.
+(3) Amennyiben az olimpiai építmények telkére, valamint az azok közvetlen környezetébe tartozó telkekre vonatkozóan a Kormány rendeletben állapítja meg a beépítés sajátos szabályait, akkor az érintett telkekre vonatkozó településrendezési terveket a beépítés sajátos szabályai szerinti eltérésekkel kell alkalmazni, azzal, hogy ha a településrendezési terv a beépítés sajátos szabályaival ellentétes, vagy azzal nem összeegyeztethető előírást tartalmaz, akkor azt nem lehet alkalmazni.
 
 (4) A Kormány rendeletben meghatározhatja az olimpiai építményekkel kapcsolatos, az országos építési követelményektől eltérő sajátos építési követelményeket és az országos építési követelményektől való eltérés szabályait, az olimpiai építményekre vonatkozó tervezési program tartalmi követelményeit és azok részletes szakmai szabályait.
 
@@ -164,7 +210,7 @@ Magyarország a modern kori olimpiákon elnyert 168 aranyérmével, 148 ezüsté
 
 24. § (1) Az építés helyi rendjének biztosítása érdekében Budapesten a Fővárosi Önkormányzat az Olimpiai és Paralimpiai Játékok megrendezésének helyszínéül kijelölt területek felhasználásával és beépítésével, továbbá a környezet természeti, táji és épített értékeinek védelmével kapcsolatos, a telkekhez fűződő sajátos helyi követelményeket, jogokat és kötelezettségeket az Olimpiai és Paralimpiai Játékok Építési Szabályzatában (a továbbiakban: OJÉSZ) állapítja meg.
 
-(2) Az OJÉSZ készítése és jóváhagyása során Budapest hosszú távú városfejlesztési koncepcióját, a fővárosi integrált településfejlesztési stratégiát, továbbá a mindenkor hatályos fővárosi településrendezési eszközök szabályait figyelembe kell venni.
+(2) Az OJÉSZ készítése és jóváhagyása során Budapest hosszú távú városfejlesztési koncepcióját, a a hatályos fővárosi településfejlesztési és településrendezési tervek szabályait figyelembe kell venni.
 
 (3) Az OJÉSZ több ütemre, továbbá külön, az egyes együtt tervezendő területekre bontva is készülhet.
 
@@ -178,7 +224,7 @@ Magyarország a modern kori olimpiákon elnyert 168 aranyérmével, 148 ezüsté
 
 (2) Olimpiai célú kisajátítás esetében a Kstv. rendelkezéseit az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-26. §
+#### 26. §
 
 27. § Olimpiai célú kisajátítás közérdekű célra az alábbi esetekben lehetséges:
 
@@ -197,11 +243,17 @@ Magyarország a modern kori olimpiákon elnyert 168 aranyérmével, 148 ezüsté
 
 ### VII. Fejezet
 
-30–31. §
+#### 30. §
+
+#### 31. §
 
 ### VIII. Fejezet
 
-32–34. §
+#### 32. §
+
+#### 33. §
+
+#### 34. §
 
 ### IX. Fejezet — AZ OLIMPIAI SZELLEMI TULAJDON
 
@@ -285,7 +337,7 @@ Magyarország a modern kori olimpiákon elnyert 168 aranyérmével, 148 ezüsté
 
 ### X. Fejezet
 
-41. §
+#### 41. §
 
 ### XI. Fejezet — A PÁLYÁZAT ÉS A RENDEZÉS FINANSZÍROZÁSA
 
@@ -313,7 +365,7 @@ Magyarország a modern kori olimpiákon elnyert 168 aranyérmével, 148 ezüsté
 
 (2)
 
-44. §
+#### 44. §
 
 ### XII. Fejezet — OLIMPIAI GARANCIÁK
 

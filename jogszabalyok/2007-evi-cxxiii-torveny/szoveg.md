@@ -682,7 +682,7 @@ alapján vezeti át az ingatlan-nyilvántartáson.
 
 (2) Az e törvény hatálya alá tartozó hatósági eljárásokban hirdetményi közlésnek és közhírré tételnek nincs helye.
 
-40/G. § Az e törvény hatálya alá tartozó hatósági eljárásokban, valamint a kisajátítási terv záradékolására irányuló eljárásban az ügyfél, illetve annak képviselője nem jogosult az ügyei intézése során ügyintézési cselekményeit elektronikus úton végezni, nyilatkozatait elektronikus úton megtenni.
+40/G. § A kisajátítást kérő, illetve annak képviselője az e törvény hatálya alá tartozó hatósági eljárásokban, e hatósági eljárásokban hozott döntésekkel szemben indított közigazgatási perben, valamint a kisajátítási terv záradékolására irányuló eljárásban elektronikus ügyintézésre köteles.
 
 ### Záró rendelkezések
 
@@ -722,3 +722,7 @@ vonatkozó szabályokat rendeletben állapítsa meg.
 (2) E törvénynek a 2016. évi CXLIV. törvénnyel megállapított 9. § (4) bekezdését annak hatálybalépését követően kezdeményezett szakértő előzetes kirendelésére irányuló eljárásokban, és az ilyen eljárásokban elkészített szakvéleményt felhasználó kisajátítási eljárásokban, valamint – szakértő előzetes kirendelése hiányában – a hatályba lépést követően indult kisajátítási eljárásokban kell alkalmazni.
 
 49. § E törvénynek az egyes törvények igazgatási, valamint gazdaságélénkítő célú módosításáról, továbbá egyes vagyongazdálkodást érintő rendelkezésekről szóló 2020. évi LXXXI. törvénnyel (a továbbiakban: 2020. évi LXXXI. törvény) megállapított 4. § (1) bekezdés c) pontját a 2020. évi LXXXI. törvény hatálybalépésekor folyamatban lévő kisajátítási eljárásokban is alkalmazni kell.
+
+50. § (1) E törvénynek az ügyfelek számára adminisztratív terheket tartalmazó egyes törvények módosításáról szóló 2020. évi CLXIV. törvénnyel megállapított 40/G. §-át a 2021. július 1-jét követően indult és megismételt hatósági és bírósági eljárásokban kell alkalmazni.
+
+(2) Kisajátítási eljárásban nem kötelező az elektronikus ügyintézés azon kisajátítást kérő illetve képviselője esetében, akinek részére a záradékolás iránt 2021. július 1-jét megelőzően benyújtott kérelme alapján záradékolt kisajátítási terv csak papíralapon áll rendelkezésére. Az elektronikus ügyintézést ennek alapján nem alkalmazó kisajátítást kérő, illetve képviselője e körülmény fennállásáról a kisajátítási hatóság részére nyilatkozni köteles.

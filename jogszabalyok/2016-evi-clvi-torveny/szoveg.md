@@ -8,7 +8,7 @@ Annak érdekében, hogy az Európai Unió támogatásából vagy a központi kö
 
 #### 1. Hatály
 
-1. § E törvény hatálya az államháztartás központi alrendszeréből, valamint az európai uniós forrásokból nyújtott költségvetési támogatás igénybevételével megvalósuló turisztikai fejlesztésekre, továbbá a szálláshely-szolgáltatókra és szálláshely-szolgáltatást igénybevevő és a szálláshelyet vele együtt igénybe vevő személyekre (a továbbiakban együtt: igénybevevő) terjed ki.
+1. § E törvény hatálya az államháztartás központi alrendszeréből, valamint az európai uniós forrásokból nyújtott költségvetési támogatás igénybevételével megvalósuló turisztikai fejlesztésekre, továbbá a szálláshely-szolgáltatókra és szálláshely-szolgáltatást igénybe vevő és a szálláshelyet vele együtt igénybe vevő személyekre, a vendéglátó üzlet üzemeltetőkre és a vendéglátó üzlet szolgáltatásait igénybe vevő személyekre, továbbá a turisztikai attrakció üzemeltetőkre, a turisztikai attrakciót látogató és igénybe vevő személyekre terjed ki.
 
 #### 2. Értelmező rendelkezések
 
@@ -20,6 +20,11 @@ Annak érdekében, hogy az Európai Unió támogatásából vagy a központi kö
 - 4. turisztikai térség (desztináció): olyan földrajzilag körülhatárolható, beazonosítható területrész, amely a turisztikai kínálati piacon egységes fogadóterületként jeleníthető meg, épített környezeti, természetföldrajzi vagy kulturális értékek tekintetében összefüggő elemek alkotják, ezért egységes koncepcióban történő tervezéséhez, fejlesztéséhez és térségi turisztikai márka kialakításához országos érdek fűződik;
 - 5. egyéb kiemelt turisztikai jelentőségű állami ingatlan, vagyonelem: az állam 100%-os tulajdonában álló, olyan ingatlan vagy vagyonelem, amely turisztikai fejlesztési célú hasznosítása kiemelt jelentőséggel bír, elhelyezkedésénél, jellegénél fogva alkalmas arra, hogy turisztikai fejlesztés helyszíne legyen, vagy annak tárgyát képezze, és ezt jogszabály, szerződés vagy más megállapodás nem zárja ki, azonban kiemelt állami turisztikai beruházással nem érintett;
 - 6. ingatlan: ingatlan, ingatlanrészek, ingatlanalrészlet és ingatlanhányad.
+- 7. turisztikai attrakció: olyan turisztikai céllal hasznosított és működtetett természeti vagy ember alkotta vonzerő, illetve földrajzi terület, amely a látogatók számára élmény-, szabadidős, utazási szolgáltatásokkal, kínálati palettával, vagy szórakoztatási funkcióval rendelkezik;
+- 8. turisztikai attrakció üzemeltetője: a turisztikai attrakció bérlője, tulajdonosa, fenntartója vagy kezelője;
+- 9. turisztikailag kiemelt jelentőségű település: olyan település, ahol legalább egy országos, vagy nemzetközi jelentőségű turisztikai attrakció található, és amely a beutazó turizmus szempontjából kiemelkedő jelentőségű vagy célzott fejlesztések eredményeként azzá tehető;
+- 10. vendéglátó üzlet: a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendeletben meghatározott vendéglátóhely üzlettípusok, ahol a kereskedelemről szóló 2005. évi CLXIV. törvény 2. § 30. pontja szerinti vendéglátás tevékenységet folytatnak;
+- 11. vendéglátó üzlet üzemeltetője: a vendéglátó üzlet bérlője vagy tulajdonosa.
 
 #### 3. A turisztikai fejlesztések tervezése
 
@@ -90,7 +95,7 @@ látja el.
 
 (7) A vagyonkezelési szerződés megkötésekor fennálló jogviszonyok – így különösen a hasznosítási, megbízási, vállalkozási, szolgáltatás-igénybevételi, garanciális, valamint szellemi tulajdonra vonatkozó jogviszonyok, és ideértve az ingatlanok formai kialakítása, alap- és tervrajzai (tervezése) tekintetében fennálló nem személyhez fűződő, a tervek felhasználási jogait, közműkapacitásokat is – tekintetében a bejegyzett vagyonkezelő, tulajdonosi joggyakorló helyébe a bejegyzett vagyonkezelő vagyonkezelésében, a tulajdonosi joggyakorló közvetlen kezelésében lévő ingatlanok vonatkozásában általános és egyetemleges jogutódként a vagyonkezelő lép. A rendelet szerinti ingatlanok vagyonkezelőjének megváltozása nem érinti az Európai Unió által támogatott, már megvalósított projektek fenntartási kötelezettségét.
 
-(8) A vagyonkezelési szerződés megkötésekor a rendeletben megjelölt, önálló ingatlannak nem minősülő ingatlanrészek önálló ingatlanként való kialakítása során nem kell alkalmazni a településszerkezeti tervben, a helyi építési szabályzatban vagy szabályozási tervben foglalt, önálló ingatlanként való minimális területnagyságra vonatkozó kialakíthatósági előírásokat.
+(8) A vagyonkezelési szerződés megkötésekor a rendeletben megjelölt, önálló ingatlannak nem minősülő ingatlanrészek önálló ingatlanként való kialakítása során nem kell alkalmazni a településrendezési tervben, a helyi építési szabályzatban vagy szabályozási tervben foglalt, önálló ingatlanként való minimális területnagyságra vonatkozó kialakíthatósági előírásokat.
 
 #### 5. Turisztikai beruházások megvalósítása
 
@@ -165,32 +170,34 @@ látja el.
 
 #### 6/A. Nemzeti Turisztikai Adatszolgáltató Központ
 
-9/A. § A szálláshely-szolgáltatók adminisztrációs kötelezettségének könnyítése és az országos statisztikai adatgyűjtés segítése céljából informatikai rendszer (a továbbiakban: Nemzeti Turisztikai Adatszolgáltató Központ) működik, amelynek üzemeltetőjét a Kormány rendeletben jelöli ki.
+9/A. § A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője és a turisztikai attrakció üzemeltetője adminisztrációs kötelezettségének könnyítése és adatelemzés, valamint hivatalos statisztikai adatok előállításának segítése céljából informatikai rendszer (a továbbiakban: Nemzeti Turisztikai Adatszolgáltató Központ) működik, amelynek üzemeltetőjét a Kormány rendeletben jelöli ki.
 
-9/B. § (1) A Nemzeti Turisztikai Adatszolgáltató Központ az
+9/B. § (1) A Nemzeti Turisztikai Adatszolgáltató Központ
 
-- a) e törvény végrehajtására kiadott kormányrendeletben (a továbbiakban: Vhr.) meghatározott adatszolgáltatási eljárás szerint összegyűjtött, valamint
+- a) az e törvény végrehajtására kiadott kormányrendeletben (a továbbiakban: Vhr.) meghatározott adatszolgáltatási eljárás szerint összegyűjtött, valamint
 - b) a hivatalos statisztikáról szóló 2016. évi CLV. törvény 26. § (2) bekezdése szerint – a Vhr.-ben meghatározott gazdálkodó szervezetekre vonatkozóan – előkészített, statisztikai adatszolgáltatási kötelezettséget megállapító kormányrendeletben előírt,
 
-személyes adatot nem tartalmazó, statisztikai adatkörökbe tartozó, a szálláshely-szolgáltató által a szálláshelykezelő szoftver igénybevételével átadott adatokat tartalmazza.
+személyes adatot nem tartalmazó adatkörökbe tartozó, a szálláshely-szolgáltató által a szálláshelykezelő szoftver, vendéglátó üzlet üzemeltetője által a vendéglátó szoftver, valamint a turisztikai attrakció üzemeltetője által a jegykezelő szoftver igénybevételével átadott adatokat tartalmazza, valamint a b) pont alá nem tartozó, a Vhr.-ben meghatározott vendéglátó üzlet üzemeltetője által a vendéglátó szoftver, valamint a turisztikai attrakció üzemeltetője által a jegykezelő szoftver igénybevételével átadott adatokat tartalmazza.
 
 (2) Az (1) bekezdés szerinti adatkörről a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központ honlapján tájékoztatót tesz közzé.
 
-9/C. § (1) A szálláshely-szolgáltató tevékenysége megkezdésétől számított 5 napon belül a Nemzeti Turisztikai Adatszolgáltató Központban elektronikus úton regisztrál.
+9/C. § (1) A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője, valamint a turisztikai attrakció üzemeltetője a tevékenysége megkezdésétől számított 5 napon belül a Nemzeti Turisztikai Adatszolgáltató Központban elektronikus úton regisztrál.
 
-(2) A szálláshely-szolgáltató regisztrációja, annak módosítása vagy törlése, valamint a nevében eljáró személy azonosítása és képviseleti jogosultsága ellenőrzése az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és végrehajtási rendeleteinek az elektronikus azonosításra, továbbá a Vhr.-ben megjelölt egyéb szabályozott és központi elektronikus ügyintézési szolgáltatásokra (továbbiakban együtt: SZEÜSZ) vonatkozó szabályok megfelelő alkalmazásával, a Vhr.-ben meghatározott módon, elektronikus úton történik.
+(2) A szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője, a turisztikai attrakció üzemeltetője regisztrációja, annak módosítása vagy törlése, valamint a nevében eljáró személy azonosítása és képviseleti jogosultságának ellenőrzése, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és végrehajtási rendeleteinek az elektronikus azonosításra, továbbá a Vhr.-ben megjelölt egyéb szabályozott és központi elektronikus ügyintézési szolgáltatásokra (a továbbiakban együtt: SZEÜSZ) vonatkozó szabályok megfelelő alkalmazásával, a Vhr.-ben meghatározott módon, elektronikus úton történik.
 
-(3) A Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője a (2) bekezdésben foglalt folyamatok keretében, a szálláshely-szolgáltató és képviselője azonosítása érdekében, az azonosítási folyamat és a képviseleti jog ellenőrzése céljából, az azok lefolytatásához szükséges ideig jogosult kezelni a szálláshely-szolgáltató nevében eljáró személynek a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti természetes személyazonosító adatait (a továbbiakban: természetes személyazonosító adat).
+(2a) A Magyar Turisztikai Ügynökség Zrt. jogosult a (2) bekezdés szerinti SZEÜSZ-öket az általa üzemeltetett turisztikai rendszerek működéséhez kapcsolódóan igénybe venni.
+
+(3) A Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője a (2) bekezdésben foglalt folyamatok keretében, a szálláshely-szolgáltató és képviselője, a vendéglátó üzlet üzemeltetője és képviselője, illetve a turisztikai attrakció üzemeltetője és képviselője azonosítása érdekében, az azonosítási folyamat és a képviseleti jog ellenőrzése céljából, az azok lefolytatásához szükséges ideig kezeli a szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője, illetve a turisztikai attrakció üzemeltetője nevében eljáró személynek a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti természetes személyazonosító adatait (a továbbiakban: természetes személyazonosító adat).
 
 (4) A Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője a szálláshely-szolgáltatónak szálláshely-szolgáltatási tevékenysége befejezéséig jogosult kezelni a szálláshely-szolgáltató nevét, elérhetőségét és adószámát.
 
-(5) A Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője a szálláshely-szolgáltató adatai, valamint a nevében eljáró személy képviseleti jogát a Vhr.-ben megjelölt SZEÜSZ útján ellenőrzi, vagy ennek ellenőrzése érdekében
+(4a) A Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője a vendéglátó üzlet üzemeltetőjének a vendéglátás jellegű kereskedelmi tevékenysége befejezéséig kezeli a vendéglátó üzlet üzemeltetője nevét, elérhetőségét és adószámát.
 
-- a) a cégnyilvántartásból a szálláshely-szolgáltató nevét, adószámát, képviselőjének közérdekből nyilvános természetes személy azonosító adatait,
-- b) az állami adóhatóságtól a szálláshely-szolgáltató nevét, adószámát,
-- c) az egyéni vállalkozók nyilvántartásából a szálláshely-szolgáltató nevét, elérhetőségét, egyéni vállalkozói nyilvántartási számát
+(4b) A Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője a turisztikai attrakció üzemeltetőjének a turisztikai attrakcióhoz kapcsolódó tevékenysége befejezéséig kezeli a turisztikai attrakció üzemeltetője nevét, elérhetőségét és adószámát.
 
-díjmentesen igényelheti.
+(5) A Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője a szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője, illetve a turisztikai attrakció üzemeltetője adatait, valamint a nevében eljáró személy képviseleti jogát a Vhr.-ben megjelölt SZEÜSZ útján ellenőrzi, vagy ennek ellenőrzése érdekében a szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője vagy a turisztikai attrakció üzemeltetője nevét, adószámát az állami adó- és vámhatóságtól díjmentesen igényelheti.
+
+(5a) Amennyiben a szálláshely-szolgáltatónak, a vendéglátó üzlet üzemeltetőjének, illetve a turisztikai attrakció üzemeltetőjének az adatai, valamint a nevében eljáró személy képviseleti joga az (5) bekezdés szerinti SZEÜSZ és az állami adó- és vámhatósági nyilvántartásokban nem ellenőrizhető, akkor a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője az ellenőrzéshez szükséges dokumentumokat jogosult bekérni.
 
 (6) A Nemzeti Turisztikai Adatszolgáltató Központban történő regisztráció, valamint az adatszolgáltatás részletes szabályait a Vhr. tartalmazza.
 
@@ -200,16 +207,35 @@ díjmentesen igényelheti.
 
 (2) A Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője az (1) bekezdés szerinti adattovábbítás céljából együttműködési megállapodást köt a KSH-val.
 
-9/E. § A Nemzeti Turisztikai Adatszolgáltató Központnak a szálláshely-szolgáltató által nyújtott statisztikai adataihoz hozzáférési jogosultsággal rendelkezik:
+9/E. § (1) A Nemzeti Turisztikai Adatszolgáltató Központnak a szálláshely-szolgáltató által nyújtott adataihoz hozzáférési jogosultsággal rendelkezik:
 
 - a) a Magyar Turisztikai Ügynökség Zrt.,
 - b) a helyi önkormányzat,
 - c) az állami adóhatóság, valamint
 - d) a KSH.
 
+(2) A Nemzeti Turisztikai Adatszolgáltató Központnak a vendéglátó üzlet üzemeltetője által nyújtott adataihoz hozzáférési jogosultsággal rendelkezik:
+
+- a) a Magyar Turisztikai Ügynökség Zrt.,
+- b) az állami adóhatóság,
+- c) a helyi önkormányzat, valamint
+- d) a KSH.
+
+(3) A Nemzeti Turisztikai Adatszolgáltató Központnak a turisztikai attrakció üzemeltetője által nyújtott adataihoz hozzáférési jogosultsággal rendelkezik:
+
+- a) a Magyar Turisztikai Ügynökség Zrt.,
+- b) az állami adóhatóság, valamint
+- c) a KSH.
+
 9/F. § A Nemzeti Turisztikai Adatszolgáltató Központ részére, e alcím szerint történő adattovábbítás, valamint a Nemzeti Turisztikai Adatszolgáltató Központból történő adatátvétel térítésmentes.
 
-#### 9/G. §
+9/G. § (1) A vendéglátó üzlet üzemeltetője a Kormány rendeletében meghatározott műszaki előírásoknak megfelelő olyan vendéglátó szoftvert alkalmaz, amely alkalmas arra, hogy a 9/B. § (1) bekezdésében meghatározott adatokat a Nemzeti Turisztikai Adatszolgáltató Központ részére továbbítsa.
+
+(2) A Magyar Turisztikai Ügynökség Zrt. az (1) bekezdésnek megfelelő szoftvert térítésmentesen biztosítja.
+
+(3) A turisztikai attrakció üzemeltetője a Kormány rendeletében meghatározott műszaki előírásoknak megfelelő olyan jegykezelő szoftvert alkalmaz, amely alkalmas arra, hogy a 9/B. § (1) bekezdésében meghatározott adatokat a Nemzeti Turisztikai Adatszolgáltató Központ részére továbbítsa.
+
+(4) A Magyar Turisztikai Ügynökség Zrt. a (3) bekezdésnek megfelelő szoftvert térítésmentesen biztosítja.
 
 #### 6/B. A szálláshely-szolgáltatást igénybe vevők bejelentkezésével kapcsolatos adatszolgáltatás
 
@@ -252,10 +278,14 @@ továbbítsa.
 - c) kiemelt állami turisztikai beruházások megvalósításának helyszíneit, a beruházással érintett ingatlanok helyrajzi számának megjelölésével,
 - d) a 3. § (5) bekezdése szerinti feladatok ellátásának részletszabályait, a 4. § (3) bekezdése szerinti ingatlanokat, vagyonelemeket és az ott megjelölt ingatlanok vagy vagyonelemek tekintetében vagyonkezelési szerződés megkötésére feljogosított beruházót vagy fenntartót,
 - e) szálláshely-szolgáltató által alkalmazandó szálláshelykezelő szoftver és a Nemzeti Turisztikai Adatszolgáltató Központ közötti kommunikáció részletszabályait,
-- f) Nemzeti Turisztikai Adatszolgáltató Központ 9/B. § (1) bekezdés a) és b) pontja szerinti adatai körét, a regisztrációval és az adatszolgáltatási kötelezettséggel kapcsolatos részletes szabályokat, az adatszolgáltatással kapcsolatban az üzemeltető és a szálláshely-szolgáltató által használt SZEÜSZ-öket,
+- f) a Nemzeti Turisztikai Adatszolgáltató Központ 9/B. § (1) bekezdés a) és b) pontja szerinti adatai körét, a regisztrációval és az adatszolgáltatási kötelezettséggel kapcsolatos részletes szabályokat, az adatszolgáltatással kapcsolatban az üzemeltető és a szálláshely-szolgáltató, a vendéglátó üzlet üzemeltetője, valamint a turisztikai attrakció üzemeltetője által használt SZEÜSZ-öket,
 - g) Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetőjét, valamint a 12. § szerinti időpontokat,
 - h) 9/H. § (4) bekezdésben meghatározott tárhelyszolgáltatót, továbbá a tárhelyszolgáltatóhoz történő csatlakozás és adatfeldolgozás, valamint a tárhely üzemeltetésének és titkosításának részletes szabályait
-- i)
+- i) vendéglátó üzlet üzemeltetője által alkalmazandó vendéglátó szoftver és a Nemzeti Turisztikai Adatszolgáltató Központ közötti kommunikáció részletszabályait,
+- j) turisztikai attrakció üzemeltetője által alkalmazandó jegykezelő szoftver és a Nemzeti Turisztikai Adatszolgáltató Központ közötti kommunikáció részletszabályait,
+- k) Nemzeti Turisztikai Adatszolgáltató Központban adatszolgáltatásra kötelezett vendéglátó üzletek és turisztikai attrakciók körét;
+- l) turisztikai attrakció üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központtal kapcsolatos kötelezettségeinek ellenőrzésére jogosult szervet;
+- m) turisztikailag kiemelt jelentőségű településeket
 
 rendeletben határozza meg.
 
@@ -267,7 +297,7 @@ rendeletben határozza meg.
 
 12. § (1) A szálláshely-szolgáltató a 9/B. § (1) bekezdés a) pontja szerinti adatokat 2019. május 1-jétől a 9/C. § (2) bekezdése szerinti regisztrációt követően a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője egyetértése esetén önkéntesen szolgáltathatja. A szálláshely-szolgáltató a 9/B. § (1) bekezdés a) pontja szerinti adatok továbbítására a Kormány rendeletében meghatározott időponttól köteles.
 
-(2) A 9/C. § (1) bekezdésben foglalt regisztrációs kötelezettséget a 2019. július 1-jét követően szálláshely-szolgáltatási tevékenységet megkezdő szolgáltatókra kell alkalmazni.
+(2) A 9/C. § (1) bekezdésében foglalt regisztrációs kötelezettséget a szálláshely-szolgáltatók vonatkozásában a 2019. július 1-jét követően szálláshely-szolgáltatási tevékenységet megkezdő szolgáltatókra kell alkalmazni.
 
 (3) A Kormány rendeletében meghatározott időpontban már működő szálláshely-szolgáltató 9/C. § (2) bekezdés szerinti regisztrációs kötelezettségét a Kormány rendeletében meghatározott határidőben köteles teljesíteni.
 
@@ -278,6 +308,14 @@ rendeletben határozza meg.
 (6) A szálláshely-szolgáltató a 9/H. § (1) bekezdés szerinti adatok továbbítására 2021. szeptember 1. napjától köteles.
 
 (7) Az (5) bekezdés szerinti csatlakozás elmulasztása esetén a kereskedelmi hatóság 2021. szeptember 1. napját követően a kereskedelemről szóló 2005. évi CLXIV. törvény 6/D. §-a szerinti jogkövetkezményeket alkalmaz.
+
+12/A. § (1) A vendéglátó üzlet üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központba történő regisztrációt 2021. november 1. napjával köteles megkezdeni, az adatok szolgáltatására és továbbítására 2022. július 1. napjától köteles.
+
+(2) A 9/C. § (1) bekezdésében foglalt regisztrációs kötelezettséget a vendéglátó üzlet üzemeltetője vonatkozásában a vendéglátó üzlet üzemeltetői tevékenységet 2021. november 1. napján már ellátókra, illetve azt követően megkezdő szolgáltatókra kell alkalmazni.
+
+12/B. § (1) A turisztikai attrakció üzemeltetője a Nemzeti Turisztikai Adatszolgáltató Központba történő regisztrációt 2021. november 1. napjával köteles megkezdeni, az adatok szolgáltatására és továbbítására 2022. július 1. napjától köteles.
+
+(2) A 9/C. § (1) bekezdésében foglalt regisztrációs kötelezettséget a turisztikai attrakció üzemeltetője vonatkozásában a turisztikai attrakció üzemeltetői tevékenységet 2021. november 1. napján már ellátókra, illetve azt követően megkezdő szolgáltatókra kell alkalmazni.
 
 #### 10. Az Európai Unió jogának való megfelelés
 

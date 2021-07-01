@@ -45,11 +45,11 @@ Az Országgyűlés a fővárosi városfejlesztési célkitűzések érvényesül
 
 (a továbbiakban együtt: létesítményfejlesztési ingatlanok) tekintetében.
 
-(2) A létesítményfejlesztési ingatlanokon az M3 metróvonalat érintő építmények tekintetében a fővárosi és kerületi településrendezési eszközöknek az előírásait az e törvény felhatalmazása alapján kiadott kormányrendeletben foglalt eltérésekkel kell figyelembe venni.
+(2) A létesítményfejlesztési ingatlanokon az M3 metróvonalat érintő építmények tekintetében a fővárosi és kerületi településrendezési terveknek az előírásait az e törvény felhatalmazása alapján kiadott kormányrendeletben foglalt eltérésekkel kell figyelembe venni.
 
 (3) A létesítményfejlesztési ingatlanok telkét úgy kell kialakítani, hogy azon csak a beruházáshoz tartozó felépítmények álljanak.
 
-(4) A létesítményfejlesztési ingatlanok telke rendezettnek minősül, ha a kerületi településrendezési eszközöknek megfelelő telekalakítási eljárásban a telekalakítási engedély rendelkezésre áll. A telekalakítási engedély alapján az ingatlan-nyilvántartásba történő bejegyzésre vonatkozó változásátvezetési eljárást a használatbavételi engedély megkéréséig kérelmezni kell.
+(4) A létesítményfejlesztési ingatlanok telke rendezettnek minősül, ha a kerületi településrendezési terveknek megfelelő telekalakítási eljárásban a telekalakítási engedély rendelkezésre áll. A telekalakítási engedély alapján az ingatlan-nyilvántartásba történő bejegyzésre vonatkozó változásátvezetési eljárást a használatbavételi engedély megkéréséig kérelmezni kell.
 
 6. § (1) A közlekedési beruházás építtetője Budapest Főváros Önkormányzata vagy a Budapest Főváros Önkormányzata 100%-os tulajdonában álló Budapesti Közlekedési Zártkörűen Működő Részvénytársaság (BKV Zrt.).
 
@@ -61,7 +61,7 @@ Az Országgyűlés a fővárosi városfejlesztési célkitűzések érvényesül
 
 (3) Amennyiben az árvízvédelmi beruházás során megelőző feltárás válik szükségessé, úgy a feltárás csak a feltétlenül szükséges mértékben akadályozhatja az árvízvédelmi beruházás – különösen a feltárással nem érintett részének – megvalósítását.
 
-8. § Az árvízvédelmi beruházással érintett ingatlanokon a létesítendő árvízvédelmi mű tekintetében a fővárosi és kerületi településrendezési eszközöknek, valamint a vonatkozó fővárosi és kerületi önkormányzati rendeleteknek a parkolás rendjére, az építtetők személygépkocsi elhelyezési kötelezettségére vonatkozó előírásait nem kell figyelembe venni.
+8. § Az árvízvédelmi beruházással érintett ingatlanokon a létesítendő árvízvédelmi mű tekintetében a fővárosi és kerületi településrendezési terveknek, valamint a vonatkozó fővárosi és kerületi önkormányzati rendeleteknek a parkolás rendjére, az építtetők személygépkocsi elhelyezési kötelezettségére vonatkozó előírásait nem kell figyelembe venni.
 
 #### 3. Záró rendelkezések
 

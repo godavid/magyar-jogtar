@@ -166,6 +166,8 @@ járó kiadások és bevételek értékelésére (a továbbiakban: költség-has
 
 (2) 2014. január 1. napjától kezdve évente el kell végezni a felújítási kötelezettség alá eső kormányzati épületek közül a felújítási kötelezettség alá eső kormányzati épületek összalapterületének 3%-át kitevő alapterületű épületek – legalább a jogszabályban meghatározott energetikai minimumkövetelményeknek megfelelő – energiahatékonysági felújítását, amely során vizsgálni kell a felújítási kötelezettség alá eső kormányzati épületek távhőellátásba kapcsolását.
 
+(2a) 2022. január 1. napjától kezdve a (2) bekezdés szerinti energiahatékonysági felújítás mértékének el kell érnie az épületeken energetikai jellemzőinek meghatározásáról szóló miniszteri rendeletben az új épületek tekintetében előírt energetikai minimum követelményszintjét legalább a felújítandó alapterület 50%-a esetében.
+
 (3) Nem tartoznak a felújítási kötelezettség alá eső kormányzati épületek körébe
 
 - a) a hitéleti célra használt épületek,
@@ -429,7 +431,7 @@ megfelelő mértékű éves energiamegtakarítást (a továbbiakban: energiamegt
 - b) ösztönzi a kis- és középvállalkozásokat energetikai auditálás lefolytatására és az auditokban foglalt ajánlások végrehajtására,
 - c) a lakosság számára ingyenes energetikai tanácsadást biztosít, valamint nyomon követi a tanácsadás következtében elért energiamegtakarítás mértékét,
 - d) tájékoztatást nyújt az elérhető energiahatékonysági pályázatokról.
-- e) tájékoztatást nyújt az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendelet szerinti energiahatékonysági tanúsítványokról, ezek rendeltetéséről és céljáról, a költséghatékony intézkedésekről, felújítási tanácsadás keretében az épület energiahatékonyságának javítását szolgáló pénzügyi eszközökről, valamint a fosszilis tüzelőanyaggal működő kazánok fenntarthatóbb alternatívával való helyettesítéséről.
+- e) tájékoztatást nyújt az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendelet szerinti energiahatékonysági tanúsítványokról, ezek rendeltetéséről és céljáról, a megújuló energiahasználatot, és a rendkívül energiahatékony megoldásokat is ösztönző költséghatékony intézkedésekről, felújítási tanácsadás keretében az épület energiahatékonyságának javítását és a megújuló energiahasználat növelését szolgáló pénzügyi eszközökről, valamint a fosszilis tüzelőanyaggal működő kazánok fenntarthatóbb – pl. megújuló energián, hulladékhőn vagy hulladék hűtőenergián alapuló – alternatívával való helyettesítéséről.
 
 #### 17/A. Fogyasztóvédelmi feladatok a távhűtés terén
 
@@ -1119,7 +1121,8 @@ rendeletben állapítsa meg.
 - b) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
 - c) az épületek energiahatékonyságáról szóló, 2010. május 19-i 2010/31/EU európai parlamenti és tanácsi irányelvnek,
 - d) az épületek energiahatékonyságáról szóló 2010/31/EU irányelv és az energiahatékonyságról szóló 2012/27/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/844 európai parlamenti és tanácsi irányelvnek,
-- e) az energiahatékonyságról szóló, 2012/27/EU irányelv módosításáról szóló, 2018. december 11-i (EU) 2018/2002 európai parlamenti és tanácsi irányelvnek
+- e) az energiahatékonyságról szóló, 2012/27/EU irányelv módosításáról szóló, 2018. december 11-i (EU) 2018/2002 európai parlamenti és tanácsi irányelvnek,
+- f) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló (EU) 2018/2001 európai parlamenti és tanácsi irányelv 15. cikk (5) és (6) bekezdésének
 
 való megfelelést szolgálja.
 

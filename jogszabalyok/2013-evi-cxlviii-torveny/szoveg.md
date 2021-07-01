@@ -2,7 +2,7 @@
 
 a Normafa Park történelmi sportterületről
 
-Az Országgyűlés a polgárok fizikai és szellemi épülése, a gazdaság és a turizmus élénkítése, az egyes építészeti, természeti és hitéleti értékek megóvása, a sport- és kulturális szolgáltatások színvonalának emelése érdekében a Normafa Park történelmi sportterületen a sport- és kulturális igényeknek megfelelő, nemzetközi színvonalú, összetett szolgáltatásokat biztosítani képes közösségi használatú parkerdő és kiszolgáló épületei, valamint a szükséges infrastruktúra létrehozásának elősegítése céljából – Budapest Főváros Településszerkezeti Tervével és a Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvénnyel összhangban – a következő törvényt alkotja:
+Az Országgyűlés a polgárok fizikai és szellemi épülése, a gazdaság és a turizmus élénkítése, az egyes építészeti, természeti és hitéleti értékek megóvása, a sport- és kulturális szolgáltatások színvonalának emelése érdekében a Normafa Park történelmi sportterületen a sport- és kulturális igényeknek megfelelő, nemzetközi színvonalú, összetett szolgáltatásokat biztosítani képes közösségi használatú parkerdő és kiszolgáló épületei, valamint a szükséges infrastruktúra létrehozásának elősegítése céljából – Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvénnyel összhangban – a következő törvényt alkotja:
 
 1. § (1) E törvény hatálya
 
@@ -11,7 +11,7 @@ Az Országgyűlés a polgárok fizikai és szellemi épülése, a gazdaság és 
 
 terjed ki.
 
-(2) Az (1) bekezdésben foglaltak esetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.), az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény (a továbbiakban: erdőtörvény), a Nemzeti Földalapról szóló törvény előírásait, az országos településrendezési és építési követelményekről szóló szabályokat, a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendeletet az e törvényben foglalt eltéréssel, a természet védelméről szóló törvény rendelkezéseit a 2. § (4)–(5) bekezdésében foglalt eltéréssel kell alkalmazni.
+(2) Az (1) bekezdésben foglaltak esetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.), az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény (a továbbiakban: erdőtörvény), a Nemzeti Földalapról szóló törvény előírásait, az országos településrendezési és építési követelményekről szóló szabályokat, a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendeletet az e törvényben foglalt eltéréssel, a természet védelméről szóló törvény rendelkezéseit a 2. § (4)–(5) bekezdésében foglalt eltéréssel kell alkalmazni.
 
 2. § (1) A történelmi sportterület az 1. mellékletben meghatározott földrészletekre, illetve ezen földrészletekből a telekalakítási eljárás jogerős befejezését követően kialakított földrészletekre terjed ki.
 
@@ -41,7 +41,7 @@ terjed ki.
 
 rendeltetés helyezhető el.
 
-(6) A történelmi sportterületre vonatkozó településrendezési eszközöket az e törvényben foglalt eltérésekkel kell alkalmazni.
+(6) A történelmi sportterületre vonatkozó településrendezési tervet az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (7) A beruházással érintett és az erdőtörvény hatálya alá tartozó ingatlanok esetében az erdővédelmi járulék megfizetése alól mentesül az ingatlan mindenkori tulajdonosa, amennyiben az igénybe vett ingatlan esetében annak megfizetésére jogszabály alapján kötelezettsége keletkezik.
 
@@ -53,7 +53,7 @@ rendeltetés helyezhető el.
 
 4. § A történelmi sportterület kialakítása közérdekű célú fejlesztésnek minősül.
 
-5. § Felhatalmazást kap Budapest Főváros XII. kerület Hegyvidéki Önkormányzata, hogy a történelmi sportterület területén az e törvénynek megfelelő településrendezési eszközöket megalkossa.
+5. § Felhatalmazást kap Budapest Főváros XII. kerület Hegyvidéki Önkormányzata, hogy a történelmi sportterület területén az e törvénynek megfelelő településrendezési tervet megalkossa.
 
 6. § Ez a törvény a kihirdetését követő 8. napon lép hatályba.
 

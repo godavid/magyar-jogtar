@@ -10,18 +10,25 @@ Annak érdekében, hogy a társadalom tagjai meg tudjanak felelni a gazdasági, 
 
 1. § (1) E törvényt kell alkalmazni
 
-- a) a jogi személy, a személyes joga szerint jogképes szervezet, az egyéni vállalkozó, illetve a gazdasági tevékenységet folytató más természetes személy (a továbbiakban együtt: felnőttképző) által célirányosan kompetenciakialakításra vagy -fejlesztésre irányuló és szervezetten megvalósuló – a köznevelési intézmény, a szakképző intézmény, a felsőoktatási intézmény, illetve törvényben meghatározott oktatási és tehetséggondozó intézmény alapfeladatába nem tartozó – oktatás és képzés
-  - aa) üzletszerű gazdasági tevékenység keretében,
-  - ab) – a belső képzés kivételével – ingyenesen és a képzésben részt vevő személyekről a felnőttképző által e törvénnyel összhangban, egyedi azonosításra és annak ellenőrizhetőségére alkalmas módon, bármilyen formában vezetett nyilvántartás mellett, vagy
+- a) a jogi személy, a személyes joga szerint jogképes szervezet, az egyéni vállalkozó, illetve a gazdasági tevékenységet folytató más természetes személy (a továbbiakban együtt: felnőttképző) által célirányosan kompetenciakialakításra vagy -fejlesztésre irányuló és szervezetten megvalósuló – a köznevelési intézmény, a szakképző intézmény, illetve törvényben meghatározott oktatási és tehetséggondozó intézmény alapfeladatába vagy a felsőoktatási intézmény alaptevékenységébe nem tartozó – oktatás és képzés
+  - aa) üzletszerű gazdasági tevékenység keretében vagy nem üzletszerű gazdasági tevékenység esetén térítés ellenében vagy a 2/A. § (2) bekezdés b) pontja szerinti felnőttképzési tevékenységként,
+  - ab) ingyenesen és a képzésben részt vevő személyekről a felnőttképző által e törvénnyel összhangban, – legalább a képzésben részt vevő személy természetes személyazonosító adataira kiterjedően – egyedi azonosításra és annak ellenőrizhetőségére alkalmas módon, bármilyen formában vezetett nyilvántartás mellett, vagy
   - ac) belső képzésként
 
 történő megszervezésére (a továbbiakban: felnőttképzési tevékenység), valamint
 
 - b) a felnőttképzési tevékenységhez kapcsolódó szolgáltatásra.
 
-(1a) A munkavédelemről szóló törvény és a tűz elleni védekezésről a műszaki mentésről és a tűzoltóságról szóló törvény alapján a munkáltató kötelezettségeként előírt oktatásra, képzésre e törvényt nem kell alkalmazni. Nem kell e törvényt alkalmazni az egyházi jogi személy, a vallási egyesület által közvetlenül vagy az általuk fenntartott felnőttképző által a vallási tevékenység folytatásával összefüggésben szervezett oktatásra, képzésre.
+(1a) E törvényt nem kell alkalmazni
 
-(2) Jogszabály alapján szervezett oktatás és képzés felnőttképzési tevékenység keretében történő végzésére e törvényt a jogszabályban meghatározott eltérésekkel kell alkalmazni. Jogszabály a 2/A. § (1) bekezdése szerinti bejelentési kötelezettséget nem zárhatja ki és a 15. § (1) bekezdésében meghatározott adatszolgáltatási kötelezettség tartalmát nem szűkítheti.
+- 1. az igazságszolgáltatási tevékenységet ellátó, igazságszolgáltatásban jogszabály alapján közreműködő, illetve ahhoz szakmai tevékenységükkel közvetlenül kapcsolódó más személyek részére ilyen minőségükben jogszabály rendelkezése vagy felhatalmazása alapján történő oktatás, képzés,
+- 2. az egyházi jogi személy, a vallási egyesület által közvetlenül vagy az általuk fenntartott felnőttképző által a vallási tevékenység folytatásával összefüggésben történő oktatás, képzés,
+- 3. a munkavédelemről szóló törvény és a tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló törvény alapján a munkáltató kötelezettségeként előírt oktatás, képzés,
+- 4. a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló törvény szerinti reintegrációs program keretében történő oktatás, képzés
+
+megszervezésére.
+
+(2) Jogszabály alapján szervezett oktatás és képzés esetén – ha jogszabály e törvény más rendelkezésének alkalmazását kifejezetten elő nem írja – a felnőttképző kizárólag a 2/A. § (1) bekezdése szerinti bejelentési kötelezettséget és – ha a 15. § (1a) bekezdése szerinti kivétel alkalmazásának nincs helye – a 15. § (1) bekezdése szerinti adatszolgáltatási kötelezettséget köteles teljesíteni. Ha a jogszabály alapján szervezett oktatás és képzés tekintetében jogszabály ekként rendelkezik, e kötelezettségeket a felnőttképző helyett a jogszabályban meghatározott hatóság teljesítheti legkésőbb annak a negyedévet követő negyedévnek az utolsó napjáig, amelyikbe a jogszabály alapján szervezett oktatás és képzés befejezésének időpontja esik. A jogszabályban meghatározott hatóság jogosult a felnőttképző 5. § (1) bekezdés b) pontjában és a képzésben részt vevő személy 15. § (1) bekezdésében meghatározott személyes adatát a bejelentés, illetve az adatszolgáltatás általa történő teljesítése céljából az ahhoz elengedhetetlenül szükséges ideig kezelni.
 
 (3) E törvény felnőttképzőre vonatkozó szabályait a szabad szolgáltatásnyújtás jogával rendelkező szolgáltató határon átnyúló szolgáltatásnyújtás keretében történő folytatására is alkalmazni kell.
 
@@ -31,8 +38,8 @@ történő megszervezésére (a továbbiakban: felnőttképzési tevékenység),
 
 - 1. belső képzés: az olyan oktatás és képzés, amelyet a munkáltató
   - a) nem üzletszerű gazdasági tevékenység keretében,
-  - b) – a jogszabály alapján szervezett oktatás, képzés kivételével – összesen hat óra időtartamot meghaladó mértékben,
-  - c) a saját, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 4. § (2)–(6) bekezdése szerinti partner- vagy kapcsolódó vállalkozás, illetve beszállítójának foglalkoztatottja részére
+  - b) – a jogszabály alapján szervezett oktatás, képzés kivételével – összesen hat óra időtartamot meghaladó mértékben, vagy
+  - c) a saját, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 4. § (2)–(6) bekezdése szerinti partner- vagy kapcsolódó vállalkozás, valamint a munkáltató beszállítójának, illetve a munkáltató által igénybe vett közreműködő foglalkoztatottja (ideértve a kölcsönzött munkavállalót is, ha a munkaerő-kölcsönzésre kötött megállapodás tartalmazza az arra vonatkozó kitételt, hogy a kölcsönvevő vállalja a kölcsönzött munkavállaló oktatását, képzését is) részére
 
 szervez.
 
@@ -40,16 +47,18 @@ szervez.
 - 3. előzetes tudásmérés: annak felmérése, hogy a képzésre jelentkező dokumentumokkal nem igazolt tanulmányai vagy megszerzett gyakorlati tapasztalatai alapján képes-e a képzés során elsajátítandó tananyagegység követelményeinek teljesítésére, amelynek eredményeként a követelmények megfelelő szintű teljesítése esetén a tananyagegység elsajátítására irányuló képzési rész alól a képzésre jelentkezőt fel kell menteni,
 - 4. előzetesen megszerzett tudás beszámítása: a képzésre jelentkező – dokumentummal igazolt – tanulmányainak beszámítása, amelynek eredményeként a tananyagegység elsajátítására irányuló képzési rész alól a képzésre jelentkezőt fel lehet menteni,
 - 5. felnőttképzési tevékenységhez kapcsolódó szolgáltatás: olyan tevékenység, amely a felnőttképzési tevékenység keretében szervezett oktatás, képzés egyénre szabott kialakításának elősegítésére, a képzés hatékonyságának javítására vagy a munkavállalás elősegítésére irányul,
+- 5a. jogszabály alapján szervezett oktatás és képzés: jogszabály által valamely tevékenység folytatásának, munkakör betöltésének, illetve magasabb fizetési besorolás alkalmazásának feltételéül meghatározott olyan oktatás és képzés, amelynek legalább célját, tartalmát és megszervezésének általános feltételeit, továbbá az oktatás, képzés eredményes elvégzésének igazolási módját vagy ahhoz kapcsolódóan szervezett vizsga letételére vonatkozó követelményt jogszabály vagy a polgári nemzetbiztonsági szolgálatok vonatkozásában közjogi szervezetszabályozó eszköz határozza meg, ide nem értve a köznevelési intézmény, a szakképző intézmény, illetve törvényben meghatározott oktatási és tehetséggondozó intézmény alapfeladatába vagy a felsőoktatási intézmény alaptevékenységébe tartozó, valamint a szakképzettségre, szakképesítésre felkészítő oktatást és képzést,
 - 6. képzés megkezdésének időpontja: a képzés első kontaktórájának időpontja, a folyamatban lévő képzésbe bekapcsolódó képzésben részt vevő személy esetében az első kontaktóra időpontja, távoktatás és zárt rendszerű elektronikus távoktatás esetén a tananyagnak vagy résztananyagnak a képzésben részt vevő személy számára történő megküldésének vagy más módon történő rendelkezésre bocsátásának időpontja,
 - 6a. képzés befejezésének időpontja: a képzés utolsó kontaktórájának időpontja, távoktatás és zárt rendszerű elektronikus távoktatás esetén a tananyag vagy résztananyag elsajátítására megállapított utolsó időpont vagy ha a képzés elvégzése meghatározott követelményhez kötött, annak teljesítésének napja,
 - 7. kompetencia: olyan ismeretek, készségek és képességek összessége, amely által a személy egy adott területen képes meghatározott döntésen és a megvalósításon alapuló eredmény elérésére,
-- 8. kontaktóra: a képzésben részt vevő személyes jelenlétét igénylő tanóra,
-- 9. konzultáció: az elsajátítandó ismeret átadását, megerősítését elősegítő, a képzésben részt vevő személy és az oktató, tutor közötti megbeszélés, amely elektronikus úton is megvalósulhat,
+- 7a. komplex felzárkózási képzés: a személyek társadalmi és gazdasági felzárkózásának részeként a kompetenciafejlesztés, illetve a humán szolgáltatásokhoz való hozzáférésének javítása érdekében szervezett képzés, a közfoglalkoztatáshoz és a szociális szövetkezetben történő foglalkoztatáshoz kapcsolódóan szervezett képzés, a szakképzettséggel nem rendelkezők a társadalmi felzárkózását szolgáló és kompetenciáját fejlesztő képzés, valamint az esélyegyenlőségi mentorok és a helyi esélyegyenlőségi programok készítésében résztvevők képzése,
+- 8. kontaktóra: a képzésben részt vevő személyes jelenlétét vagy – az olyan tanóra kivételével, amely olyan kompetencia átadására irányul, amely kizárólag személyes jelenlét mellett sajátítható el – interaktív és távolléti kapcsolattal vagy zárt rendszerű távoktatási képzésmenedzsment rendszerrel megvalósuló jelenlétét igénylő tanóra,
+- 9. konzultáció: az elsajátítandó ismeret átadását, megerősítését elősegítő, a képzésben részt vevő személy vagy csoport és az oktató, tutor közötti megbeszélés, amely interaktív és távolléti kapcsolattal, továbbá zárt rendszerű távoktatási képzésmenedzsment rendszerrel is megvalósulhat,
 - 9a. nemzetgazdasági szempontból kiemelt jelentőségű képzés: országos vagy helyi kiterjedésű, kiemelt jelentőségű munkaerő-piaci cél megvalósítása érdekében szervezett és a Kormány rendeletében meghatározott feltételek alapján a Kormány adott ágazatért felelős tagja véleményének kikérésével az iparügyekért felelős miniszter által ilyennek minősített oktatás, képzés,
 - 10. tananyagegység: a képzési program felépítését adó, önálló tartalommal bíró képzési egység,
 - 11. távoktatás: az oktatásnak az a formája, amelynél a képzésben részt vevő személy a képzési idő több, mint felében egyedül, önállóan, a távoktatási tananyagba épített iránymutatás mellett tanul, a képzési idő kevesebb, mint felében pedig konzultációkon vagy a távoktatás vegyes képzési módszerrel történő megvalósulása (a kontaktórás képzés és a távoktatás módszereinek kombinált alkalmazása) esetén hagyományos tanórákon vesz részt, és az elsajátítási folyamat önálló megvalósításához szükséges tananyaghordozó, felmérő és útmutató anyagokat tartalmazó tanulócsomagot a felnőttképző bocsátja rendelkezésére; a konzultációkon, amelyek a kapcsolattartás bármely formájában – különösen személyes megbeszélés, internet, telefon – megvalósulhatnak, a képzésben részt vevő személy önállóan szerzett ismereteit pontosítják, illetve elmélyítik, a távoktatás minden fázisát infokommunikációs technológiai adathordozók felhasználása is segítheti,
 - 12. zárt rendszerű elektronikus távoktatás: elméleti képzési ismeretanyag oktatását digitális tananyag formájában informatikai hálózaton (internet, intranet) keresztül zárt rendszerű távoktatási képzésmenedzsment rendszerrel megvalósító távoktatási forma, ahol az oktató, az oktatásszervező és a képzésben részt vevő személy közös kommunikációs eszköze a számítógép és az informatikai hálózat, továbbá a zárt rendszerű távoktatási képzésmenedzsment rendszer,
-- 13. zárt rendszerű távoktatási képzésmenedzsment rendszer: a képzésben részt vevő személy képzését tervező, szervező és ellenőrző, a képzéshez szükséges digitális tananyagot valamint kiegészítő ismeretanyagot a képzési program szerint számára eljuttató (webböngészőben megjelenítő), minősített és tanúsított zárt informatikai rendszer, amely a képzésszervezésen túl adatbázisában manipulálhatatlanul rögzíti és értékeli – valamint a regisztrációs és tanulmányi alaprendszer számára közvetíti – a képzésben részt vevő személy képzési programban rögzített előrehaladását, ellenőrző kérdésekre adott válaszait, eredményeit, tevékenységét és végrehajtja – a képzésben részt vevő személy teljesítményének értékelése alapján – a képzési program szerint lehetséges navigációs kéréseit.
+- 13. zárt rendszerű távoktatási képzésmenedzsment rendszer: a képzésben részt vevő személy képzését tervező, szervező és ellenőrző, a képzéshez szükséges digitális tananyagot, valamint kiegészítő ismeretanyagot a képzési program szerint számára eljuttató (webböngészőben megjelenítő), minősített és tanúsított zárt informatikai rendszer, amely a képzésszervezésen túl adatbázisában manipulálhatatlanul rögzíti, értékeli, valamint a regisztrációs és tanulmányi alaprendszer számára közvetíti a képzésben részt vevő személy képzési programban rögzített előrehaladását, ellenőrző kérdésekre adott válaszait, eredményeit, tevékenységét, végrehajtja – a képzésben részt vevő személy teljesítményének értékelése alapján – a képzési program szerint lehetséges navigációs kéréseit, továbbá biztosítja az oktató, az oktatásszervező és a képzésben részt vevő személy interaktív és távolléti kapcsolattal megvalósuló, teljes értékű együttműködését.
 
 ### II. Fejezet — A FELNŐTTKÉPZÉSI TEVÉKENYSÉGHEZ KAPCSOLÓDÓ ELJÁRÁS ÉS INTÉZMÉNYRENDSZER
 
@@ -72,7 +81,7 @@ szervez, e felnőttképzési tevékenységét a szolgáltatási tevékenység me
 - b) – a költségvetési szervként működő felnőttképző kivételével – aki vagyoni biztosítékkal rendelkezik a Kormány rendeletében meghatározottak szerint,
 - c) akinek a létesítő okiratában, működési engedélyében vagy az egyéni vállalkozói nyilvántartásban a tevékenységei között az oktatás vagy képzés szerepel.
 
-(2) Nem kaphat engedélyt az a felnőttképző, akinek a képviseletére jogosult személy más felnőttképzőnél ilyen tisztséget tölt be vagy korábban betöltött, ha annak engedélyét a felnőttképzési államigazgatási szerv – a képviselet időtartama alatt elkövetett jogsértés miatt – visszavonta. Az engedély megszerzésének tilalma a visszavonás időtartamára vonatkozik.
+(2) Nem kaphat engedélyt az, akinek a képviseletére jogosult személy más felnőttképzőnél ilyen tisztséget tölt be vagy korábban betöltött, ha annak engedélyét a felnőttképzési államigazgatási szerv – a képviselet időtartama alatt elkövetett jogsértés miatt – visszavonta. Az engedély megszerzésének tilalma a visszavonás időtartamára vonatkozik.
 
 (3) A vallási közösség által fenntartott felnőttképző e törvény hatálya alá tartozó felnőttképzési tevékenységének engedélyezése során a hittudományokra és kizárólag a hitélet gyakorlására vonatkozó ismeretek tartalma nem vizsgálható.
 
@@ -226,7 +235,7 @@ kell folytatnia,
 - b) a képzésben részt vevő személy fizetési hátralékát a felnőttképző felszólítása ellenére sem teljesíti vagy
 - c) a képzésben részt vevő személy a kontaktórákról a képzési programban meghatározott időnél igazolatlanul többet mulasztott.
 
-13/B. § (1) A bejelentéshez kötött felnőttképzési tevékenység, a belső képzés és – ha jogszabály a képzés elvégzése igazolásának más módját határozza meg – a jogszabály alapján szervezett oktatás és képzés kivételével, a felnőttképző a képzés elvégzésének igazolására a felnőttképzés adatszolgáltatási rendszerében tanúsítványt állít ki és azt a képzésben részt vevő személy választása szerint elektronikus úton vagy papíralapon a képzésben részt vevő személy rendelkezésére bocsátja. A bejelentéshez kötött felnőttképzési tevékenység esetén a tanúsítványt a képzésben részt vevő személy kérésére kell kiállítani.
+13/B. § (1) A belső képzés kivételével a felnőttképző a képzés elvégzésének igazolására a felnőttképzés adatszolgáltatási rendszerében tanúsítványt állít ki és azt a képzésben részt vevő személy választása szerint elektronikus úton vagy papíralapon a képzésben részt vevő személy rendelkezésére bocsátja. A bejelentéshez kötött felnőttképzési tevékenység esetén a tanúsítványt a képzésben részt vevő személy kérésére kell kiállítani.
 
 (2) A tanúsítvány, ha a képzéshez jogszabályban meghatározottak szerint vizsga kapcsolódik, a vizsgára jelentkezés feltétele.
 
@@ -236,7 +245,7 @@ kell folytatnia,
 
 #### 14/A. §
 
-#### 9. A felnőttképző adatszolgáltatási kötelezettsége és a képzés megvalósításával összefüggő dokumentumok
+#### 9. A felnőttképző adatszolgáltatási kötelezettsége
 
 15. § (1) A felnőttképző
 
@@ -246,16 +255,16 @@ kell folytatnia,
 
 vonatkozó adatot szolgáltat a felnőttképzési államigazgatási szerv részére a felnőttképzés adatszolgáltatási rendszerében. Az adatszolgáltatási kötelezettségnek legkésőbb a képzés megkezdésének időpontját, az adatokban bekövetkezett változás esetén legkésőbb az adatváltozás keletkezését követő harmadik munkanapig, belső képzés esetén annak a negyedévnek az utolsó napjáig kell eleget tenni, amelyikbe a belső képzés befejezésének időpontja esik.
 
-(1a) Az (1) bekezdés szerinti adatszolgáltatás nem terjed ki a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv, a Magyar Honvédség, illetve a nemzetbiztonsági szolgálatok által szervezett oktatásra, képzésre és ahhoz kapcsolódóan a képzésben részt vevő személyre, ha annak eltérő kezelése e szervek tevékenységével összefüggésben Magyarország rendvédelmi, honvédelmi vagy nemzetbiztonsági érdekeinek érvényesítése céljából szükséges.
+(1a) Az (1) bekezdés szerinti adatszolgáltatás nem terjed ki a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv, a Nemzeti Adó- és Vámhivatal, a Magyar Honvédség, illetve a nemzetbiztonsági szolgálatok által vagy azok állománya számára szervezett oktatásra, képzésre és ahhoz kapcsolódóan a képzésben részt vevő személyre, ha annak eltérő kezelése e szervek tevékenységével összefüggésben Magyarország rendvédelmi, honvédelmi vagy nemzetbiztonsági érdekeinek érvényesítése céljából szükséges.
 
-(1b) A felnőttképzés adatszolgáltatási rendszerében kezelt személyes adatok azonosítása, ellenőrzése és pontosítása, valamint a pályakövetési rendszer működtetése céljából a képzésben részt vevő személy természetes személyazonosító adatainak összevetése útján
+(1b) A felnőttképzés adatszolgáltatási rendszerében kezelt személyes adatok azonosítása, ellenőrzése és pontosítása, valamint a pályakövetési rendszer és a munkaerő-piaci előrejelző rendszer működtetése céljából
 
-- a) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) 9. § (1) bekezdése szerinti nyilvántartást kezelő szerv a képzésben részt vevő személynek
-  - aa) az Nytv. 11. § (1) bekezdés a), d) és e) pontjában meghatározott adatának a központi kormányzati szolgáltatási busz útján történő ellenőrzését biztosítja,
-  - ab) az Nytv. 11. § (1) bekezdés b), c) és h) pontjában meghatározott adatát átadja,
-- b) az oktatási azonosító számot kiadó oktatási nyilvántartás működéséért felelős szerv a képzésben részt vevő személynek az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 2. § l) pontjában meghatározott adatát átadja
+- a) a képzésben részt vevő személy természetes személyazonosító adatainak összevetése útján
+  - aa) a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) 9. § (1) bekezdése szerinti nyilvántartást kezelő szerv a képzésben részt vevő személynek az Nytv. 11. § (1) bekezdés a), d) és e) pontjában meghatározott adatának ellenőrzését biztosítja és az Nytv. 11. § (1) bekezdés b), c) és h) pontjában meghatározott adatát központi kormányzati szolgáltatási busz használatával átadja,
+  - ab) az oktatási azonosító számot kiadó oktatási nyilvántartás működéséért felelős szerv a képzésben részt vevő személynek az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény (a továbbiakban: Onytv.) 2. § l) pontjában meghatározott adatát átadja vagy
+- b) a képzésben részt vevő személy természetes személyazonosító adatainak összevetése útján az összerendelési nyilvántartás jogszabályban kijelölt szolgáltatója az Onytv. 3. § (1) bekezdés a) és b) pontjában meghatározott adatokról az összerendelési nyilvántartáson keresztül adatot szolgáltat
 
-térítésmentesen és elektronikus úton a felnőttképzés adatszolgáltatási rendszere számára.
+térítésmentesen és elektronikus úton a felnőttképzés adatszolgáltatási rendszere számára. A felnőttképzési államigazgatási szerv az a) pont aa) alpontja szerinti ellenőrzés eredményeként felmerült eltérés esetén a felnőttképzés adatszolgáltatási rendszerében a felnőttképző által rögzített adatot az ellenőrzés során átadott adatnak megfelelően a felnőttképző külön értesítése nélkül automatikusan javítja.
 
 (2) A felnőttképzési államigazgatási szerv az (1) bekezdés szerinti adatszolgáltatás keretében továbbított adatokról, az (1b) bekezdés alapján megismert adatokról és a felnőttképző által kiállított tanúsítványról – a 20. § (1) bekezdése szerinti ellenőrzés és a pályakövetési rendszer működtetése céljából – elektronikus nyilvántartást vezet, és a nyilvántartás adatait – az e bekezdésben meghatározott kivétellel – azok keletkezésétől számított ötvenedik év utolsó napjáig kezeli. A felnőttképzési államigazgatási szerv a tanúsítványokat tartalmazó központi nyilvántartás adatait azok keletkezésétől számított ötvenedik év utolsó napjáig kezeli, azt követően pedig azokat átadja az illetékes levéltárnak, és az átadott adatokat törli.
 
@@ -266,6 +275,10 @@ térítésmentesen és elektronikus úton a felnőttképzés adatszolgáltatási
 (5) A felnőttképző a tervezett képzéseiről – a képzés indítását legalább harminc nappal megelőzően – önkéntes adatszolgáltatást teljesíthet a felnőttképzési államigazgatási szerv részére elektronikus úton. A felnőttképzési államigazgatási szerv a beérkezett adatokat a képzés iránt érdeklődők tájékoztatása érdekében a honlapján közzéteszi. A felnőttképzési államigazgatási szerv a határidőn túl beérkezett adatokat nem köteles közzétenni.
 
 15/A. § A felnőttképző az általa szervezett oktatásra, képzésre vonatkozóan kidolgozott és felnőttképzési szakértő által előzetesen minősített képzési programját a felnőttképzés adatszolgáltatási rendszerébe feltölti.
+
+15/B. § A felnőttképző a közvetlenül a számára rendelkezésére bocsátott képzési hitelhez kapcsolódóan a képzési hitel folyósítása céljából a fizetési számlájának számát rögzíti a felnőttképzés adatszolgáltatási rendszerébe.
+
+#### 9/A. A képzés megvalósításával összefüggő dokumentumok
 
 16. § A felnőttképzőnek az alábbi dokumentumokat kell vezetnie, nyilvántartania és – a felnőttképzési államigazgatási szerv ellenőrzési jogköre gyakorlásának biztosítása érdekében – annak keletkezésétől számított nyolcadik év utolsó napjáig megőriznie:
 
@@ -332,9 +345,11 @@ térítésmentesen és elektronikus úton a felnőttképzés adatszolgáltatási
 
 használ.
 
+(1a) Az (1) bekezdés c) pontjával összefüggésben a felnőttképzés adatszolgáltatási rendszere a szabályozott elektronikus ügyintézési szolgáltatás, illetve a központi elektronikus ügyintézési szolgáltatás szolgáltatója által térítésmentesen nyújtott szolgáltatás keretében biztosítja a benyújtott dokumentumok és elektronikus űrlapok adatainak előzetes ellenőrzését és a benyújtó általi hitelesítését.
+
 (2) A felnőttképzés adatszolgáltatási rendszereként a Köznevelési Regisztrációs és Tanulmányi Alaprendszer szakképzési és felnőttképzési modulját kell használni.
 
-(3) A jogszabály alapján szervezett oktatás és képzés ellenőrzését végző hatóság a felnőttképzés adatszolgáltatási rendszeréhez való közvetlen hozzáférés alapján jogosult az általa folytatott hatósági ellenőrzés és közigazgatási hatósági eljárás során
+(3) A jogszabály alapján szervezett oktatás és képzés ellenőrzését végző hatóság és a 2/A. § (2) bekezdés b) pontja szerinti oktatás, képzés tekintetében a támogató a felnőttképzés adatszolgáltatási rendszeréhez való közvetlen hozzáférés alapján jogosult az általa folytatott hatósági ellenőrzés és közigazgatási hatósági eljárás során
 
 - a) az eljárás résztvevője azonosításához szükséges természetes személyazonosító adatokat és az eljárás eredményes lefolytatásához elengedhetetlenül szükséges más személyes adatokat, valamint
 - b) a jogszabály alapján szervezett oktatással és képzéssel és az ahhoz kapcsolódóan kiállított tanúsítvánnyal kapcsolatos adatokat
@@ -463,6 +478,7 @@ rendeletben jelölje ki.
 - e) a képzési hitel és az ösztöndíj igénybevételének feltételeit,
 - f) a képzés nemzetgazdasági szempontból kiemelt jelentőségűvé minősítésének feltételeit, eljárását és módját,
 - g) a munkaerő-piaci előrejelző rendszer működésére, az adatszolgáltatás rendjére, továbbá a munkaerő-piaci előrejelző rendszer működéséért felelős szervnek a munkaerő-piaci előrejelző rendszer működtetésével kapcsolatos feladataira vonatkozó részletes szabályokat,
+- h) a komplex felzárkózási képzések részletes szabályait, valamint, hogy ezen képzések szervezéséért és a képzések engedélyezéséért, ellenőrzéséért felelős szervet rendeletben jelölje ki.
 
 (3) Felhatalmazást kap a felnőttképzésért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével rendeletben határozza meg a 3. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait, valamint a felnőttképzők ellenőrzése során kiszabott közigazgatási bírság befizetésének rendjét.
 

@@ -465,9 +465,9 @@ igazolja.
 
 (2) Ha az üzemeltető nem vagy nem megfelelő módon tesz eleget a veszélyes anyagokkal foglalkozó üzemre vonatkozó biztonsági jelentéssel, biztonsági elemzéssel kapcsolatos hiánypótlási felhívásnak vagy a biztonsági jelentésben vagy biztonsági elemzésben a biztonságos üzemeltetést bizonyítani nem tudja, annak teljesítéséig az iparbiztonsági hatóság a veszélyes tevékenység végzését korlátozhatja vagy felfüggesztheti.
 
-27. § (1) A veszélyes anyagokkal foglalkozó üzemek megvalósítását, jelentős változtatását, megszüntetését, illetve azok veszélyességi övezeti határait fel kell tüntetni a településszerkezeti tervben. A veszélyességi övezeten belüli fejlesztésekkel kapcsolatos eljárási rendet, a polgármester feladatát és hatáskörét a biztonsági követelmények figyelembevételével külön jogszabály határozza meg.
+27. § (1) A veszélyes anyagokkal foglalkozó üzemek megvalósítását, jelentős változtatását, megszüntetését, illetve azok veszélyességi övezeti határait fel kell tüntetni a településrendezési tervben. A veszélyességi övezeten belüli fejlesztésekkel kapcsolatos eljárási rendet, a polgármester feladatát és hatáskörét a biztonsági követelmények figyelembevételével külön jogszabály határozza meg.
 
-(1a) A településszerkezeti terv módosításának költségeit az üzemeltető viseli. Az e törvény IV. fejezete alapján kiadott hatósági döntés nem tartalmazza a településszerkezeti terv módosításának költségét, viselésének módját.
+(1a) A településrendezési terv módosításának költségeit az üzemeltető viseli. Az e törvény IV. fejezete alapján kiadott hatósági döntés nem tartalmazza a településrendezési terv módosításának költségét, viselésének módját.
 
 (2) Az üzemeltető az iparbiztonsági hatóság számára köteles haladéktalanul bejelenteni a veszélyes anyagokkal foglalkozó üzem, veszélyes anyagokkal foglalkozó létesítmény, küszöbérték alatti üzem ideiglenes leállítását, végleges bezárását.
 

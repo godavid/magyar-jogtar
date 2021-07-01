@@ -167,7 +167,7 @@ továbbá az aláírásgyűjtő ívet az aláírásával látja el.
 
 18. § (1) Az országgyűlési képviselők, az Európai Parlament tagjai, a helyi önkormányzati képviselők és polgármesterek, valamint a nemzetiségi önkormányzati képviselők általános választásának napját megelőző és követő negyvenedik nap között szünetel az aláírásgyűjtés.
 
-(2) Ha a szervező az aláírásgyűjtést az országgyűlési képviselők, az Európai Parlament tagjai, a helyi önkormányzati képviselők és polgármesterek vagy a nemzetiségi önkormányzati képviselők általános választásának napját megelőző negyvenedik napig nem fejezi be, az addig összegyűjtött aláírásokat tartalmazó és az aláírásokat nem tartalmazó aláírásgyűjtő íveket legkésőbb a szavazás napját megelőző harminckilencedik napon át kell adnia a Nemzeti Választási Irodának. E kötelezettség elmulasztása esetén a Nemzeti Választási Bizottság hivatalból eljárva bírságot szab ki. A bírság összege minden be nem nyújtott aláírásgyűjtő ív után ezer forint.
+(2) Ha a szervező az aláírásgyűjtést az országgyűlési képviselők, az Európai Parlament tagjai, a helyi önkormányzati képviselők és polgármesterek vagy a nemzetiségi önkormányzati képviselők általános választásának napját megelőző negyvenedik napig nem fejezi be, az addig összegyűjtött aláírásokat tartalmazó és az aláírásokat nem tartalmazó aláírásgyűjtő íveket legkésőbb a szavazás napját megelőző harminckilencedik napon át kell adnia a Nemzeti Választási Irodának. E kötelezettség elmulasztása esetén a Nemzeti Választási Bizottság hivatalból eljárva bírságot szab ki. A bírság összege minden be nem nyújtott aláírásgyűjtő ív után nyolcszáz forint, de összesen nem haladhatja meg választópolgár esetében a kötelező legkisebb munkabér havi összegének ötszörösét, szervezet esetében tízszeresét.
 
 (3) A (2) bekezdésben meghatározott határidőben át nem adott aláírásgyűjtő íveken gyűjtött aláírás érvénytelen.
 
@@ -179,13 +179,13 @@ továbbá az aláírásgyűjtő ívet az aláírásával látja el.
 
 (2) Ha a szervező az aláírásgyűjtő ívek iránti igényét a kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelen elteltét vagy jogorvoslat esetén a Kúria döntésének a Magyar Közlönyben történt közzétételét követő hetedik nap után nyújtja be, az (1) bekezdés szerinti határidőt a kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelen elteltét vagy jogorvoslat esetén a Kúria döntésének a Magyar Közlönyben történt közzétételét követő hetedik naptól kell számítani.
 
-(3) Az (1) bekezdés szerinti benyújtással egyidejűleg, de legkésőbb az (1) bekezdés szerint az aláírásgyűjtő íveik benyújtására rendelkezésre álló határidő utolsó napján a szervezőnek valamennyi aláírásgyűjtő ívet át kell adnia a Nemzeti Választási Irodának.
+(3) Az (1) bekezdés szerinti benyújtással egyidejűleg, de legkésőbb az (1) bekezdés szerint az aláírásgyűjtő ívek benyújtására rendelkezésre álló határidő utolsó napján a szervezőnek valamennyi aláírásgyűjtő ívet át kell adnia a Nemzeti Választási Irodának. E kötelezettség elmulasztása esetén a Nemzeti Választási Bizottság hivatalból eljárva bírságot szab ki a 18. § (2) bekezdésében foglaltaknak megfelelően.
 
 (4) A késedelmesen, pótlólag, valamint a nem a szervező által benyújtott aláírásgyűjtő íven és a 19/A. § (1) bekezdése alapján átadott aláírásgyűjtő íven szereplő aláírás érvénytelen.
 
 19/A. § (1) Ha az Országgyűlés az Alaptörvény 8. cikk (1) bekezdése alapján a népszavazást jogerősen elrendelte, az azonos tárgyú népszavazási kezdeményezésben a szervezőnek az Országgyűlés népszavazást jogerősen elrendelő döntését követő tizenöt napon belül valamennyi aláírásgyűjtő ívet át kell adnia a Nemzeti Választási Irodának.
 
-(2) Az (1) bekezdésben meghatározott kötelezettség elmulasztása esetén a Nemzeti Választási Bizottság hivatalból eljárva bírságot szab ki. A bírság összege minden be nem nyújtott aláírásgyűjtő ív után ezer forint.
+(2) Az (1) bekezdésben meghatározott kötelezettség elmulasztása esetén a Nemzeti Választási Bizottság hivatalból eljárva bírságot szab ki a 18. § (2) bekezdésében foglaltaknak megfelelően.
 
 19/B. § (1) Ha a 8. § (3) bekezdésében meghatározott körülmény fennáll, és a 19. § (1) bekezdése alapján elsőként benyújtott aláírásgyűjtő íveken (a továbbiakban: elsődleges benyújtás) szereplő érvényes aláírások száma a kétszázezret nem éri el, de legalább százezer és az aláírások ellenőrzésének eredményét megállapító határozat jogerőre emelkedett, az elsődleges benyújtást követő 85. napig (a továbbiakban: felfüggesztő benyújtási határidő) az azonos tárgyú népszavazási kezdeményezések esetén a szervezőnek valamennyi aláírásgyűjtő ívet át kell adnia (a továbbiakban: másodlagos benyújtás) a Nemzeti Választási Irodának.
 
@@ -197,7 +197,7 @@ továbbá az aláírásgyűjtő ívet az aláírásával látja el.
 
 (3) A (2) bekezdésben meghatározott nyilatkozattételi kötelezettség elmulasztása esetén a népszavazási kezdeményezést visszavontnak kell tekinteni.
 
-(4) Az (1) bekezdésben meghatározott kötelezettség elmulasztása esetén a Nemzeti Választási Bizottság hivatalból eljárva bírságot szab ki. A bírság összege minden be nem nyújtott aláírásgyűjtő ív után ezer forint.
+(4) Az (1) bekezdésben meghatározott kötelezettség elmulasztása esetén a Nemzeti Választási Bizottság hivatalból eljárva bírságot szab ki a 18. § (2) bekezdésében foglaltaknak megfelelően.
 
 (5) A felfüggesztő benyújtási határidőt követő naptól az Országgyűlés – a 23. § (3) bekezdése szerinti tájékoztatás alapján – a 25. § (2) bekezdése szerinti, az Alaptörvény 8. cikk (1) bekezdés második mondata alapján a népszavazást el nem rendelő döntéséig a 14. § (1) bekezdése szerinti határidő szünetel.
 
@@ -213,7 +213,7 @@ továbbá az aláírásgyűjtő ívet az aláírásával látja el.
 
 (3) Az átadás során a szervező nyilatkozhat arról, hogy a népszavazási kezdeményezését visszavonja.
 
-(4) A (2) bekezdésben meghatározott kötelezettség elmulasztása esetén a Nemzeti Választási Bizottság hivatalból eljárva bírságot szab ki. A bírság összege minden be nem nyújtott aláírásgyűjtő ív után ezer forint.
+(4) A (2) bekezdésben meghatározott kötelezettség elmulasztása esetén a Nemzeti Választási Bizottság hivatalból eljárva bírságot szab ki a 18. § (2) bekezdésében foglaltaknak megfelelően.
 
 (5) Az (1) bekezdés szerinti szünetelés esetén
 
@@ -255,6 +255,12 @@ továbbá az aláírásgyűjtő ívet az aláírásával látja el.
 (2) Ha az érvényes aláírások száma a kétszázezret nem éri el, de legalább százezer, és a 8. § (3) bekezdésében meghatározott körülmény nem áll fenn, az aláírások ellenőrzésének eredményéről – az azt megállapító határozat jogerőre emelkedését követő munkanapon – a Nemzeti Választási Bizottság elnöke tájékoztatja az Országgyűlés elnökét.
 
 (3) Ha az érvényes aláírások száma a kétszázezret nem éri el, de legalább százezer, és a 8. § (3) bekezdésében meghatározott körülmény fennáll, a felfüggesztő benyújtási határidőig a 19/B. § (2) bekezdés b) pontja alapján benyújtott és ellenőrizni kért további azonos tárgyú kérdést tartalmazó aláírásgyűjtő íveken szereplő aláírások ellenőrzése eredményének jogerőssé válását követő munkanapon a Nemzeti Választási Bizottság tájékoztatja az Országgyűlés elnökét. E tájékoztatás tartalmazza a felfüggesztő benyújtási határidőig a 19/B. § (2) bekezdés b) pontja alapján benyújtott és ellenőrizni kért további azonos tárgyú kérdést tartalmazó aláírásgyűjtő íveken szereplő aláírások ellenőrzésének jogerős eredményét és a benyújtási sorrendet is.
+
+23/A. § (1) Az aláírásgyűjtő ívek miatt kiszabott bírság legkésőbb a kiszabását követő ötödik év elteltével elévül, és a törvény erejénél fogva behajthatatlan követelésnek minősül.
+
+(2) Ha a jogerősen kiszabott bírság összege az ötszázezer forint összeget meghaladja, a bírság kötelezettje az eljárás bármely szakaszában kezdeményezheti a tartozást kezelő szervnél a bírság összegének legfeljebb két év időtartam alatti, havi egyenlő részletben történő megfizetését.
+
+(3) A 18. § (2) bekezdésében, a 19. § (1) bekezdésében, a 19. § (3) bekezdésében, a 19/A. § (1) bekezdésében, a 19/B. § (1) bekezdésében és a 19/C. § (2) bekezdésében meghatározott kötelezettség teljesítése során a szervező az aláírást nem tartalmazó aláírásgyűjtő íveket a hivatkozott rendelkezésekben megjelölt határidőt követő 15 napon belül is átadhatja. A Nemzeti Választási Bizottság a kötelezettség elmulasztása miatti bírságot a hivatkozott rendelkezésekben megjelölt határidő leteltét követő 30 napon belül szabja ki.
 
 #### 6. A személyes adatok védelme
 
@@ -532,7 +538,7 @@ szervezhet.
 
 ### V. Fejezet — AZ ORSZÁGOS NÉPSZAVAZÁSI ELJÁRÁS
 
-65. § Az országos népszavazási eljárásban az e fejezetben foglalt eltérésekkel alkalmazni kell a Ve. 244. § (2) bekezdésének, 245. § (1) bekezdés a), c) és d) pontjának, valamint (2)–(3) bekezdésének, 247. § (1) és (3) bekezdésének, 250. §-ának, 251. §-ának, 256. § (2) bekezdésének, 257. § (3) bekezdésének, 258. § (1) bekezdésének, 259–263. §-ának, 266–270. §-ának, 271. § (2) bekezdésének, 272–274. §-ának, 275. §-ának, 277–281. §-ának, 283–285. §-ának, 288–291. §-ának, 293. §-ának, 295. §-ának, 297. §-ának, 298. §-ának, valamint 341/A. §-ának rendelkezéseit is.
+65. § Az országos népszavazási eljárásban az e fejezetben foglalt eltérésekkel alkalmazni kell a Ve. 244. § (2) bekezdésének, 245. § (1) bekezdés a), c) és d) pontjának, valamint (2)–(5) bekezdésének, 247. § (1) és (3) bekezdésének, 250. §-ának, 251. §-ának, 256. § (2) bekezdésének, 257. § (3) bekezdésének, 257/A. §-ának, 257/B. §-ának, 258. § (1) bekezdésének, 259–263. §-ának, 266–270. §-ának, 271. § (2) bekezdésének, 272–274. §-ának, 275. §-ának, 277–281. §-ának, 283–285. §-ának, 288–291. §-ának, 293. §-ának, 295. §-ának, 297. §-ának, 298. §-ának, valamint 341/A. §-ának rendelkezéseit is.
 
 66. § A szavazás, az eredmény megállapítása és a jogorvoslat során a népszavazásra feltett minden kérdést külön-külön kell figyelembe venni.
 

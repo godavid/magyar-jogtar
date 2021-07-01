@@ -185,7 +185,8 @@ hozott intézkedésekben való részvétellel kapcsolatos, az irányítási, val
 - b) az átruházott feladatot ellátó szervezet,
 - c) az együttműködő szervezet,
 - d) a hatáskörrel rendelkező hatóság,
-- e)–f)
+- e)
+- f)
 
 (4) A (3) bekezdésben foglaltak szerinti szervek, illetve szervezetek feletti egyes, a közösségi jogszabályok által meghatározott, támogatás kifizetéséhez kapcsolódó ellenőrzési jogosítványokat
 
@@ -215,7 +216,9 @@ gyakorolja.
 
 (14) A 28–30/A. §-ban meghatározott nyilvántartással összefüggő kötelezettségek kiterjednek a hatáskörrel rendelkező hatóság hatáskörébe tartozó közigazgatási ügyekben részt vevő ügyfelekre is. Az élelmiszerlánc-felügyeleti szerv nyilvántartásaira vonatkozó törvény rendelkezéseit e törvény rendelkezéseivel együtt kell alkalmazni.
 
-12. § (1)–(2)
+12. § (1)
+
+(2)
 
 (3) A mezőgazdasági és vidékfejlesztési támogatási szerv hatásköre az akkreditált feladataihoz kapcsolódó, az e törvény szerinti mezőgazdasági támogatási eljárás keretében kizárólagos.
 
@@ -708,7 +711,7 @@ eljárhat.
 
 (5) A megyei önkormányzat a megyei területrendezési terv készítése érdekében a Mezőgazdasági Parcella Azonosító Rendszernek a területrendezési feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet.
 
-(6) A települési önkormányzat, Budapest Főváros Önkormányzata és a kerületi önkormányzat a településrendezési eszköz, a településfejlesztési koncepció, az integrált településfejlesztési stratégia készítése és a településképi követelmények meghatározása érdekében az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet.
+(6) A települési önkormányzat, Budapest Főváros Önkormányzata és a kerületi önkormányzat a településrendezési terv és településfejlesztési terv készítése és a településképi követelmények meghatározása érdekében az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet.
 
 (7) A Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság
 
@@ -1562,7 +1565,9 @@ jelzéssel érkezett vissza, az iratot – az ellenkező bizonyításáig – az
 
 #### 58. §
 
-59. § (1)–(2)
+59. § (1)
+
+(2)
 
 (3) A mezőgazdasági és vidékfejlesztési támogatási szervvel szemben intézkedésben való jogosulatlan részvétel alapján megállapított és fennálló tartozás adók módjára behajtandó köztartozásnak minősül, és azt az e törvényben meghatározott kivételekkel az állami adóhatóság a rá irányadó szabályok szerint hajtja be.
 
@@ -1576,7 +1581,8 @@ jelzéssel érkezett vissza, az iratot – az ellenkező bizonyításáig – az
 
 62. § (1) Ha az ügyfél az esedékes tartozását nem fizette meg és azt tőle nem lehet behajtani, a tartozás megfizetésére határozattal kötelezhető:
 
-- a)–b)
+- a)
+- b)
 - c) az ügyfél tartozásáért kezességet vállaló, illetve az ügyfél tartozását átvállaló, a jóváhagyott szerződésben foglalt tartozás tekintetében,
 - d) az Európai Közösség pénzügyi érdekeinek megsértésével kapcsolatos bűncselekmény elkövetője az azzal összefüggő tartozás tekintetében,
 - e) a gazdasági társaság, a közös név alatt működő polgári jogi társaság tartozásáért a rájuk vonatkozó szabályok szerint a helytállni köteles tag, vezető tisztségviselő, illetve szervezet, a jogi személy felelősségvállalásával működő vállalkozó esetében a felelősségvállaló, továbbá az a személy, amely (aki) a vállalkozás kötelezettségeiért törvény alapján felel,

@@ -416,6 +416,8 @@ okozott kárt az ingatlan tulajdonosának, használójának (a továbbiakban egy
 
 (4) Új vagy növekvő távhőigénnyel jelentkező felhasználási hely tulajdonosától a távhőszolgáltató a távhőszolgáltatás díjával nem fedezett fejlesztési költségekre az önkormányzat rendeletében meghatározott mértékű csatlakozási díjat kérhet. A csatlakozási díj magában foglalhatja a 33. § (2) bekezdés alapján fizetett fejlesztési költség teljes vagy részleges fedezetét is.
 
+34/A. § A távhőtermelő és a távhőszolgáltató együttműködik a villamos energia elosztókkal a Vet. 32/B. § (4) bekezdésében meghatározott tartalmú jelentés elkészítése érdekében.
+
 ### VI. Fejezet — A TÁVHŐTERMELŐ ÉS A TÁVHŐSZOLGÁLTATÓ, VALAMINT A TÁVHŐSZOLGÁLTATÓ,
 
 A FELHASZNÁLÓ ÉS A DÍJFIZETŐ KÖZÖTTI JOGVISZONY
@@ -851,4 +853,5 @@ megállapodásokat.
 62. § Ez a törvény
 
 - a) az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 9–11. cikkének, továbbá
-- b) az energiahatékonyságról szóló 2012/27/EU irányelv módosításáról szóló, 2018. december 11-i (EU) 2018/2002 európai parlamenti és tanácsi irányelv 1. cikk 6., 8., 10. pontjának és a Melléklet 3. pontjának való megfelelést szolgálja.
+- b) az energiahatékonyságról szóló 2012/27/EU irányelv módosításáról szóló, 2018. december 11-i (EU) 2018/2002 európai parlamenti és tanácsi irányelv 1. cikk 6., 8., 10. pontjának és a Melléklet 3. pontjának
+- c) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló (EU) 2018/2001 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

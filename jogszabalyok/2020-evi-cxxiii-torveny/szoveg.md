@@ -285,7 +285,7 @@ tárolja.
 
 (7) Ha valamely, az Európai Mezőgazdasági Vidékfejlesztési Alapból folyósított támogatás nemzeti szinten meghatározott feltétele a tevékenység egyéni vállalkozóként való végzését írja elő, a feltételt megtartottnak kell tekinteni, ha az intézkedésben résztvevő a tevékenységet 2021. január 1-jétől őstermelőként végzi, az ezzel ellentétes pályázati felhívási rendelkezés nem alkalmazható, az egyéni vállalkozói működési formára vonatkozóan tett kötelezettségvállaláshoz joghatás nem fűződik és mezőgazdasági és vidékfejlesztési támogatási szerv a kifizetési kérelmet erre hivatkozással nem utasíthatja el.
 
-(8) A családi mezőgazdasági társaságok nyilvántartásba vétele 2021. június 30. napjáig nem folytatható le sommás eljárásban.
+(8)
 
 (9) A mezőgazdasági őstermelők, az őstermelők családi gazdaságának, valamint a családi mezőgazdasági társaság nyilvántartásba vételére irányuló eljárás 2022. december 31. napjáig nem folytatható elektronikusan.
 

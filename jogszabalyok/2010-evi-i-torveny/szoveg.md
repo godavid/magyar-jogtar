@@ -69,7 +69,7 @@ kapcsolatos, e törvényben felsorolt adatokat, valamint az azokban bekövetkeze
 - p) családi név korrekciója: az 1953. január 1-jén hatályba lépett, a kötőjel kötelező használatával és megkülönböztető betűjel eltörlésével, valamint az anyakönyvekbe korábban bejegyzett ragadványnévvel kapcsolatos rendelkezések következtében kialakult névviselés rendezése,
 - q) adatbejegyzés: adat rögzítése az elektronikus nyilvántartásba,
 - r) adatmódosítás: adatváltozás bejegyzése vagy hibás adat javításának elvégzése,
-- s) adattörlés: az anyakönyvben szereplő adat vagy adatcsoport felismerhetetlenné tétele olyan módon, hogy a helyreállításuk többé nem lehetséges,
+- s) adattörlés: az anyakönyvben és apai elismerő nyilatkozatok nyilvántartásában szereplő adat vagy adatcsoport felismerhetetlenné tétele olyan módon, hogy a helyreállításuk többé nem lehetséges,
 - t) eseményazonosító: az adott anyakönyvi eseményt azonosító alfanumerikus azonosító,
 - u) ügyazonosító: az adatbejegyzéskor, adatmódosítás anyakönyvbe történő bejegyzésekor, az adattörléskor, valamint az egyéb elektronikus ügyindításkor képzett alfanumerikus azonosító,
 - v) harmadik országbeli állampolgár: a magyar állampolgár kivételével minden olyan személy, aki nem EGT-állampolgár, ideértve a hontalant is,
@@ -172,6 +172,10 @@ illetékes.
 - b) – ha a gyermek a nyilatkozattétel időpontjában már megszületett – a születést nyilvántartó anyakönyvvezető
 
 rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
+
+(3) Az apai elismerő nyilatkozatok nyilvántartásába bejegyzett hibás adat javítására a rögzítő anyakönyvvezető vagy a születést nyilvántartó anyakönyvvezető illetékes.
+
+(4) Az apai elismerő nyilatkozatok nyilvántartásából történő törlésre a születés helye szerint illetékes anyakönyvi szerv vagy külföldön történt születés esetén a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv illetékes.
 
 12/B. § (1) Az elektronikus anyakönyvi nyilvántartásból adatot az anyakönyvvezető, illetve az anyakönyvi szerv – a (2) és (3) bekezdésben foglalt esetek kivételével – a saját maga által teljesített bejegyzés tekintetében töröl.
 
@@ -339,7 +343,13 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 (2) A közeli halállal fenyegető állapotot kivéve nem köthető házasság vasárnap, január 1-jén, március 15-én, nagypénteken, húsvétvasárnap, húsvéthétfőn, május 1-jén, pünkösdvasárnap, pünkösdhétfőn, augusztus 20-án, október 23-án, november 1-jén és december 24–26-án, továbbá ha az az adott képviselő-testület hivatala köztisztviselői számára munkaszüneti nap, július 1-jén.
 
-(3) Ha a házasságkötést megelőző eljárásról készített jegyzőkönyv felvétele óta egy év eltelt, a házasságot nem kötötték meg és a házasságkötési szándék továbbra is fennáll, a házasságkötési szándék bejelentésére irányuló eljárást meg kell ismételni. Ha a házasság a házasságkötési szándék bejelentéséről szóló jegyzőkönyv felvételétől számított egy éven belül nem jött létre és a házasságkötést megelőző eljárást nem ismételték meg, a jegyzőkönyvet és az eljárás során rögzített egyéb adatokat haladéktalanul törölni kell.
+(3) A házasságkötési szándék bejelentéséről felvett jegyzőkönyv egy évig érvényes.
+
+(4) A házasságkötési szándék bejelentéséről felvett jegyzőkönyvet és az eljárás során rögzített egyéb adatokat haladéktalanul törölni kell, ha
+
+- a) a jegyzőkönyv felvételétől számított egy év eltelt, és a házasságot nem kötötték meg,
+- b) azt a házasulók valamelyike kéri,
+- c) a jegyzőkönyv felvételét követően valamelyik házasuló házasságot köt vagy bejegyzett élettársi kapcsolatot létesít.
 
 28. § (1) A házasság megkötésekor az anyakönyvvezető és két tanú előtt a házasulók házasságkötésre irányuló nyilatkozatot tesznek.
 
@@ -433,7 +443,13 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 (2) A közeli halállal fenyegető állapotot kivéve nem létesíthető bejegyzett élettársi kapcsolat vasárnap, január 1-jén, március 15-én, nagypénteken, húsvétvasárnap, húsvéthétfőn, május 1-jén, pünkösdvasárnap, pünkösdhétfőn, augusztus 20-án, október 23-án, november 1-jén és december 24–26-án, továbbá ha az az adott képviselő-testület hivatala köztisztviselői számára munkaszüneti nap, július 1-jén.
 
-(3) Ha a bejegyzett élettársi kapcsolat létrehozását megelőző eljárásról készített jegyzőkönyv felvétele óta egy év eltelt, a bejegyzett élettársi kapcsolat nem jött létre és a bejegyzett élettársi kapcsolat létesítése iránti szándék továbbra is fennáll, az eljárást meg kell ismételni. Ha a bejegyzett élettársi kapcsolat a bejegyzett élettársi kapcsolat létesítésére irányuló szándék bejelentéséről szóló jegyzőkönyv felvételétől számított egy éven belül nem jött létre, és a bejegyzett élettársi kapcsolat létesítését megelőző eljárást nem ismételték meg, a jegyzőkönyvet és az eljárás során rögzített egyéb adatokat haladéktalanul törölni kell.
+(3) A bejegyzett élettársi kapcsolat létesítésére irányuló szándék bejelentéséről felvett jegyzőkönyv egy évig érvényes.
+
+(4) A bejegyzett élettársi kapcsolat létesítésére irányuló szándék bejelentéséről felvett jegyzőkönyvet haladéktalanul törölni kell, ha
+
+- a) a jegyzőkönyv felvételétől számított egy év eltelt, és nem történt meg a bejegyzett élettársi kapcsolat létesítése,
+- b) azt a felek valamelyike kéri,
+- c) a jegyzőkönyv felvételét követően valamelyik fél bejegyzett élettársi kapcsolatot létesít vagy házasságot köt.
 
 40. § (1) A bejegyzett élettársi kapcsolat létesítésekor az anyakönyvvezető és két tanú előtt a felek a bejegyzett élettársi kapcsolat létesítésére irányuló nyilatkozatot tesznek.
 
@@ -502,7 +518,7 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 - a) kérheti a gyermek családi nevének a nemzetiségi nyelv szabályainak megfelelő anyakönyvezését, és gyermekének az adott nemzetiségnek megfelelő utónevet adhat,
 - b) kérheti az anyakönyvezett utóneve helyett az annak megfelelő nemzetiségi utónév bejegyzését,
 - c) kérheti az anyakönyvezett családi neve helyett az adott nemzetiségi nyelv szabályai szerint képzett családi név bejegyzését, és
-- d) kérheti, hogy a családi és utónevét, illetve a gyermek családi és utónevét az adott nemzetiségi nyelven, vagy az adott nemzetiségi nyelven is bejegyezzék.
+- d) kérheti, hogy a családi és utónevét, illetve a gyermek családi és utónevét az adott nemzetiségi nyelven is bejegyezzék.
 
 (2) A nemzetiségi utónév bejegyzésére irányuló kérelemben nyilatkozni kell arról, hogy a választott nevet mely nemzetiség használja.
 
@@ -589,7 +605,7 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
   - ae) személyi azonosítóját, annak hiányában születési idejét,
   - af) családi állapotát,
   - ag) házasságkötésének, bejegyzett élettársi kapcsolata létesítésének helyét és idejét,
-  - ah) lakóhelyét, annak hiányában tartózkodási helyét, valamint ha ilyennel rendelkezik, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti értesítési címét vagy azt a címet, amelyen a hatósággal kapcsolatot kíván tartani,
+  - ah) lakóhelyét, annak hiányában tartózkodási helyét vagy azt a címet, amelyen a hatósággal kapcsolatot kíván tartani,
   - ai) személyazonosságát és magyar állampolgárságát igazoló okiratának típusát, számát és érvényességi idejét,
   - aj) születési nemét,
   - ak) állampolgárságát.
@@ -1038,25 +1054,36 @@ megismerni.
   - dd) személyi azonosítóját,
   - de) hozzájáruló nyilatkozatát, ha a gyermek a 14. életévét betöltötte,
 - e) a szülői felügyeletet gyakorló szülők vagy a nagykorú gyermek nyilatkozatát a gyermek születési családi nevének viseléséről,
-- f) ha az apa jognyilatkozatának érvényességéhez törvényes képviselőjének hozzájárulása szükséges, a törvényes képviselő
-- g) ha az apai elismerő nyilatkozat tételében gondnok vagy gyám közreműködik,
-  - ga) a gondnokot vagy gyámot kirendelő szerv megnevezését,
-  - gb) a kirendelő határozat számát,
-  - gc) a kirendelt gondnok vagy gyám nevét,
-  - gd) a kirendelt gondnok vagy gyám nyilatkozatát,
-- h) az anya nyilatkozatát arról, hogy tudomása szerint apaság megállapítása iránti per van-e folyamatban, ha igen
-  - ha) az eljáró bíróság megnevezését,
-  - hb) a per ügyszámát,
-- i) a nyilatkozattal érintett nem magyar állampolgár nyilatkozatát arról, hogy a magyar nyelvet érti és beszéli,
-- j) ha a nyilatkozat megtételében közreműködött, a tolmács
-  - ja) nevét,
-  - jb) lakóhelyét,
-  - jc) személyazonosító okmányának típusát, okmányazonosítóját és érvényességi idejét,
-- k) az apai elismerő nyilatkozat és a hozzájáruló nyilatkozatok megtételének és rögzítésének helyét és idejét,
-- l) az apai elismerő nyilatkozat azonosító számát,
-- m) – ha az apai elismerő nyilatkozatot vagy a hozzájáruló nyilatkozatot nem az anyakönyvvezető előtt tették – a nyilatkozatot felvevő szerv megnevezését és személy nevét,
-- n) az apai elismerő nyilatkozatot vagy a hozzájáruló nyilatkozatot rögzítő személy nevét és felhasználói azonosítóját, valamint
-- o) az elektronikus anyakönyv adatai alapján az a) pont aa)–ae) alpontjában és ah) alpontjában, a b) pont ba)–be) alpontjában és bg) alpontjában, továbbá a d) pont da)–dd) alpontjában foglalt adatok, valamint a szülői felügyeletet gyakorló szülők e) pont szerinti nyilatkozatának változását.
+- f) ha az apa vagy az anya jognyilatkozatának érvényességéhez törvényes képviselőjének hozzájárulása szükséges, a törvényes képviselő
+  - fa) születési családi és utónevét,
+  - fb) házassági nevét,
+  - fc) születési helyét,
+  - fd) születési idejét,
+  - fe) anyja születési családi és utónevét és
+  - ff) nyilatkozatát,
+- g) ha a gyermeknek nem az anya a törvényes képviselője, illetve ha az anya és a gyermek között – születendő gyermek esetén az anya és a magzat között – érdekellentét áll fenn, a gyermek vagy magzat törvényes képviselője
+  - ga) születési családi és utónevét,
+  - gb) házassági nevét,
+  - gc) születési helyét,
+  - gd) születési idejét,
+  - ge) anyja születési családi és utónevét és
+  - gf) nyilatkozatát,
+- h) ha az apai elismerő nyilatkozat tételénél gondnok vagy gyám közreműködik,
+  - ha) a gondnokot vagy gyámot kirendelő szerv megnevezését,
+  - hb) a kirendelő határozat számát,
+- i) az anya nyilatkozatát arról, hogy tudomása szerint apaság megállapítása iránti per van-e folyamatban, ha igen,
+  - ia) az eljáró bíróság megnevezését,
+  - ib) a per ügyszámát,
+- j) a nyilatkozattal érintett nem magyar állampolgár nyilatkozatát arról, hogy a magyar nyelvet érti és beszéli,
+- k) ha a nyilatkozat megtételénél tolmács működött közre, akkor
+  - ka) a tolmácsolás nyelvét,
+  - kb) a tolmács házassági nevét, születési családi és utónevét,
+  - kc) a tolmács lakóhelyét,
+  - kd) a tolmács személyazonosító okmányának típusát, okmányazonosítóját és érvényességi idejét,
+- l) az apai elismerő nyilatkozat és a hozzájáruló nyilatkozatok megtételének és rögzítésének helyét és idejét,
+- m) az apai elismerő nyilatkozat azonosító számát,
+- n) – ha az apai elismerő nyilatkozatot vagy a hozzájáruló nyilatkozatot nem az anyakönyvvezető előtt tették – a nyilatkozatot felvevő szerv megnevezését, továbbá a nyilatkozatot felvevő személy nevét,
+- o) az apai elismerő nyilatkozatot vagy a hozzájáruló nyilatkozatot rögzítő személy nevét és felhasználói azonosítóját.
 
 (3) Az apai elismerő nyilatkozattal összefüggésben nyilvántartott adatokat törölni kell, ha az apai jogállást nem az apai elismerő nyilatkozat alapján töltötték be. Az apai elismerő nyilatkozattal összefüggésben nyilvántartott adatokat az apa adatait az anyakönyvbe bejegyző személy kezdeményezésére a nevének és felhasználói azonosítójának feltüntetésével a gyermek születési helye szerint illetékes anyakönyvi szerv, külföldön történt születés esetében pedig a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv törli az apai elismerő nyilatkozatok nyilvántartásából.
 

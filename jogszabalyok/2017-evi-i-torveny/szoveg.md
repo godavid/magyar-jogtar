@@ -127,9 +127,9 @@ A közigazgatási perben vagy az egyéb közigazgatási bírósági eljárásban
 
 (4) Ha az ügy különös bonyolultsága indokolja, az egyesbíró a (3) bekezdés szerinti perben a tárgyalás megkezdése előtt elrendelheti, hogy az ügyben három hivatásos bíróból álló tanács járjon el. A tanács elé utalt ügyben utóbb egyesbíró nem járhat el.
 
-(5) A végzés elleni fellebbezést egyesbíró bírálja el.
+(5) A végzés elleni fellebbezést – a keresetlevelet visszautasító és az eljárást megszüntető végzés elleni fellebbezés kivételével – egyesbíró bírálja el. Ha az ügy különös bonyolultsága indokolja, az egyesbíró elrendelheti, hogy az ügyben három hivatásos bíróból álló tanács járjon el. A tanács elé utalt ügyben utóbb egyesbíró nem járhat el.
 
-(6) A Kúria három hivatásos bíróból álló tanácsban jár el. Ha az ügy különös bonyolultsága vagy kiemelt társadalmi jelentősége indokolja, a Kúria elrendelheti, hogy az ügyben öt hivatásos bíróból álló tanács járjon el. Ha az ügy jellege ezt indokolja, az öt hivatásos bíróból álló tanács legfeljebb két tagja olyan hivatásos bíró lehet, aki közigazgatási ügyben eljáró bírónak nincs kijelölve.
+(6) A Kúria – az (5) bekezdésben meghatározott kivétellel – három hivatásos bíróból álló tanácsban jár el. Ha az ügy különös bonyolultsága vagy kiemelt társadalmi jelentősége indokolja, a Kúria elrendelheti, hogy az ügyben öt hivatásos bíróból álló tanács járjon el. Ha az ügy jellege ezt indokolja, az öt hivatásos bíróból álló tanács legfeljebb két tagja olyan hivatásos bíró lehet, aki közigazgatási ügyben eljáró bírónak nincs kijelölve.
 
 #### 9. § [A bíróság tagjainak jogai és kötelezettségei]
 
@@ -229,7 +229,7 @@ közigazgatási tevékenységével kapcsolatos,
 
 (1) A bíróság hatáskörének és illetékességének hiányát hivatalból veszi figyelembe.
 
-(2) Ha a közigazgatási ügyben eljáró bíróság hatáskörét megállapítja, e döntése más bíróságra – ide nem értve a közigazgatási ügyben másodfokon eljáró bíróságot és a Kúriát – kötelező.
+(2) Ha a közigazgatási ügyben eljáró bíróság hatáskörét megállapítja, e döntése más bíróságra – ide nem értve a Kúriát – kötelező.
 
 (3) A bíróság illetékességének megállapításánál a keresetlevél benyújtásának időpontja irányadó. Ha a per a keresetlevél benyújtása után bekövetkezett valamely változás folytán tartozna a bíróság illetékessége alá, a bíróság illetékességét akkor is meg kell állapítani.
 
@@ -382,7 +382,7 @@ Az a perindításra jogosult, akivel a vitatott közigazgatási cselekményt nem
 
 (1) Kötelező a jogi képviselet
 
-- a) a törvényszék végzése elleni fellebbezési eljárás kivételével a Kúria előtt,
+- a) a Kúria előtt,
 - b) a 13. § (3) bekezdésében meghatározott jogvitában, továbbá
 - c) a közigazgatási szerződéssel kapcsolatos perben.
 
@@ -730,7 +730,7 @@ alapján utasította vissza, és a felperes a visszautasító határozat jogerő
 
 (4) A bíróság a kérelem teljesítését biztosíték adásához kötheti.
 
-(5) Az azonnali jogvédelem tárgyában hozott végzés ellen a közléstől számított nyolc napon belül van helye fellebbezésnek, amelyről a másodfokú bíróság nyolc napon belül dönt. Az azonnali jogvédelmet biztosító végzés elleni fellebbezésnek nincs halasztó hatálya. A kérelem elutasítását követően ismételten, azonos ténybeli és jogi alapon benyújtott kérelmet megtagadó végzés ellen nincs helye fellebbezésnek.
+(5) Az azonnali jogvédelem tárgyában hozott végzés ellen a közléstől számított nyolc napon belül van helye fellebbezésnek. Az azonnali jogvédelmet biztosító végzés elleni fellebbezésnek nincs halasztó hatálya. A kérelem elutasítását követően ismételten, azonos ténybeli és jogi alapon benyújtott kérelmet megtagadó végzés ellen nincs helye fellebbezésnek.
 
 (6) A bíróság tanácsa az azonnali jogvédelem tárgyában hozott végzését – a felek lehetőség szerinti meghallgatását követően – legkésőbb a végzés elleni fellebbezés felterjesztéséig módosíthatja vagy visszavonhatja.
 
@@ -1442,7 +1442,7 @@ Ha az elsőfokú bíróság előtt az ítélet kijavítása, illetve kiegészít
 
 #### 115. § [A felülvizsgálat alapja és eljárási szabályai]
 
-(1) A jogerős ítélet, továbbá a keresetlevelet visszautasító vagy az eljárást megszüntető jogerős végzés ellen jogszabálysértésre, illetve a Kúria közzétett határozatától jogkérdésben való eltérésre hivatkozással felülvizsgálati kérelmet terjeszthet elő a fél, az érdekelt, valamint a rendelkezés rá vonatkozó része ellen az, akire a határozat rendelkezést tartalmaz.
+(1) A jogerős ítélet ellen jogszabálysértésre, illetve a Kúria közzétett határozatától jogkérdésben való eltérésre hivatkozással felülvizsgálati kérelmet terjeszthet elő a fél, az érdekelt, valamint a rendelkezés rá vonatkozó része ellen az, akire a határozat rendelkezést tartalmaz.
 
 (2) A felülvizsgálatra a fellebbezésre vonatkozó szabályokat az e fejezetben foglalt eltérésekkel kell megfelelően alkalmazni.
 
@@ -1464,7 +1464,7 @@ Nincs helye felülvizsgálatnak
 
 (2) A felülvizsgálati kérelem visszautasításáról a Kúria tanácsban, indokolt végzésben határoz.
 
-(3) A felülvizsgálati kérelemben nem lehet hivatkozni új jogalapra és olyan új tényre, körülményre, amely nem volt sem az elsőfokú, sem a másodfokú eljárás tárgya.
+(3) A felülvizsgálati kérelemben nem lehet hivatkozni új jogalapra és olyan új tényre, körülményre, amely nem volt az elsőfokú eljárás tárgya.
 
 (4) A felülvizsgálati kérelemben meg kell jelölni a kérelem befogadhatóságának okát, azonban annak fennállását bizonyítani és azt – a 118. § (1) bekezdés a) pont ad) alpontja szerinti ok kivételével – indokolni nem kell. A 118. § (1) bekezdés b) pontja szerinti ok esetében meg kell jelölni azt a közzétett kúriai határozatot és annak azt a részét, amelytől a felülvizsgálni kért határozat jogkérdésben eltér. A fél által megjelölt befogadhatósági okhoz a bíróság nincs kötve.
 
