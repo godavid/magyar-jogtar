@@ -81,7 +81,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 - p) ipari park: infrastruktúrával ellátott olyan terület, ahol elsősorban termelő és feldolgozóipari tevékenységet végző, valamint innovációra törekvő vállalkozások találhatóak;
 - r) innovációs központok: azon megfelelő termelési és szellemi háttérrel, illetve kapcsolatrendszerrel rendelkező települések, amelyek a gazdaság növekedését, szerkezetváltását és megújulását, illetve a társadalmi fejlődést nagyobb térségben segítik elő, vagy mindezek elérése érdekében tudatos fejlesztési politika érvényesül;
 - s) hátrányos helyzetű határmenti térségek: azon települések összessége, melyek fejlődését, működését a határhoz való kötődése egyoldalúan meghatározza és kedvezőtlenül befolyásolja;
-- t) területcsere: a Budapesti Agglomeráció Területrendezési Tervének hatálya alá tartozó települések területén olyan területrendezési hatósági eljárás, amely lehetőséget biztosít a településrendezési eszköz módosítása során arra, hogy a településszerkezeti tervben a visszasorolni kívánt beépítésre szánt területtel, megegyező területi kiterjedésű új beépítésre szánt területet lehessen máshol kijelölni;
+- t) területcsere: a Budapesti Agglomeráció Területrendezési Tervének hatálya alá tartozó települések területén olyan területrendezési hatósági eljárás, amely lehetőséget biztosít a településrendezési terv módosítása során arra, hogy a településrendezési tervben a visszasorolni kívánt beépítésre szánt területtel, megegyező területi kiterjedésű új beépítésre szánt területet lehessen máshol kijelölni;
 - u) területfejlesztési terv: a térségre készülő területfejlesztési koncepció és program,
 - u) gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 - v) ágazati tervek: a szakpolitikai stratégia, a szakpolitikai program és a hálózati fejlesztési terv,
@@ -155,7 +155,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 - a) kidolgozza az Országos Területrendezési Tervet, a Balaton Kiemelt Üdülőkörzet Területrendezési Tervét, valamint a Budapesti Agglomeráció Területrendezési Tervét;
 - b) kidolgozza a nemzetközi együttműködési kötelezettségből adódóan a határ menti térségek országhatáron átnyúló, közös területrendezési terveit;
 - c) összehangolja a területrendezési terveket, valamint a központi államigazgatási szervek területrendezéssel kapcsolatos feladatait;
-- d) elősegíti a területrendezési tervek és a településrendezési eszközök, összhangját;
+- d) elősegíti a területrendezési tervek és a településrendezési tervek összhangját;
 - e) gondoskodik a területrendezéssel kapcsolatos információs rendszerről, az adatszolgáltatás rendjéről és a területrendezés szakmai követelményeiről;
 - f) meghatározza a területrendezést szolgáló forrás felhasználásának szabályait.
 
@@ -261,11 +261,11 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 (2) A megyei önkormányzat a 11. § (1) bekezdés a) pont aa) és ae) alpontjában, a 11. § (1) bekezdés c) pont ce) alpontjában, a 12. § (1) bekezdés a) és d) alpontjában meghatározott feladata végrehajtása érdekében önkormányzati rendeletet alkot.
 
-(3) A megyei önkormányzat koncepcionálisan összehangolja települései településfejlesztési koncepciója és integrált településfejlesztési stratégiája, valamint településrendezési eszközei kidolgozását a megyei területrendezési tervhez való illeszkedésük érdekében.
+(3) A megyei önkormányzat koncepcionálisan összehangolja települései településfejlesztési és településrendezési tervei kidolgozását a megyei területrendezési tervhez való illeszkedésük érdekében.
 
-(4) A megyei önkormányzat előzetesen véleményezi a megye települései településfejlesztési koncepcióját és integrált településfejlesztési stratégiáját, valamint településrendezési eszközeit a megyei területfejlesztési koncepcióhoz és programhoz való illeszkedésük érdekében.
+(4) A megyei önkormányzat előzetesen véleményezi a megye települései településfejlesztési és településrendezési terveit a megyei területfejlesztési koncepcióhoz és programhoz való illeszkedésük érdekében.
 
-(5) A megyei önkormányzat véleményezi települései településrendezési eszközeit, a megyei területrendezési tervvel való összhang megteremtése érdekében.
+(5) A megyei önkormányzat véleményezi települései településrendezési terveit, a megyei területrendezési tervvel való összhang megteremtése érdekében.
 
 14. § (1)–(3)
 
@@ -400,7 +400,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 - a) véleményezi illetékességi területén a területrendezési terveket, és indokolt esetben javaslatot tehet e tervek módosítására,
 - b) véleményezi az országos, valamint az illetékességi területét érintő regionális, megyei fejlesztési programokat és azoknak a területrendezési tervekkel való összhangját,
-- c) nyilatkozik a megyei területrendezési tervnek az országos és a kiemelt térségi tervekkel, továbbá a településrendezési eszközöknek az országos, a kiemelt térségi és a megyei területrendezési tervekkel való összhangjáról.
+- c) nyilatkozik a megyei területrendezési tervnek az országos és a kiemelt térségi tervekkel, továbbá a településrendezési terveknek az országos, a kiemelt térségi és a megyei területrendezési tervekkel való összhangjáról.
 
 ### III/A. Fejezet — A TERÜLETFEJLESZTÉS ÉRDEKEGYEZTETÉSI FÓRUMAI
 
@@ -496,7 +496,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 - b) a térségi övezeti tervlapokat és
 - c) a területrendezési szabályozási előírásokat.
 
-(4) A területfejlesztési és ágazati programok, valamint a településrendezési eszközök készítése, egyeztetése és elfogadása során figyelembe kell venni az országos, kiemelt térségi és megyei területrendezési tervben foglaltakat.
+(4) A területfejlesztési és ágazati programok, valamint a településrendezési tervek készítése, egyeztetése és elfogadása során figyelembe kell venni az országos, kiemelt térségi és megyei területrendezési tervben foglaltakat.
 
 (5)
 
@@ -554,9 +554,9 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 (7) Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal a területrendezési hatósági eljárást követően a térségi területfelhasználási engedélyt, valamint annak mellékleteként az engedélyezési tervdokumentációt közli a megyei önkormányzattal.
 
-(8) Az állami főépítész – felkérésre – állást foglal a terület- és településfejlesztési koncepcióknak, programoknak, építészeti-műszaki terveknek, továbbá más ágazati terveknek és koncepcióknak a területrendezési tervekkel való összhangjáról, valamint a külön jogszabályban meghatározott területrendezési tanulmánytervről.
+(8) Az állami főépítész – felkérésre – állást foglal a területfejlesztési és településrendezési terveknek, építészeti-műszaki terveknek, továbbá más ágazati terveknek és koncepcióknak a területrendezési tervekkel való összhangjáról, valamint a külön jogszabályban meghatározott területrendezési tanulmánytervről.
 
-(9) A kiemelt térségi és megyei tervekkel összhangban nem lévő településrendezési eszközöket – az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal térségi területfelhasználási engedélye birtokában – a területrendezési tervvel összhangban lévőnek kell tekinteni.
+(9) A kiemelt térségi és megyei tervekkel összhangban nem lévő településrendezési terveket – az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal térségi területfelhasználási engedélye birtokában – a területrendezési tervvel összhangban lévőnek kell tekinteni.
 
 (10) Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal a területrendezési hatósági eljárásban kiadott térségi területfelhasználási engedélyekről közhiteles hatósági nyilvántartás vezet.
 
@@ -617,7 +617,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 - a) a térségi fejlesztési tanács létrehozásával, működésével, sajátos gazdálkodásával kapcsolatos feladatokat, és szabályokat, valamint a megyei önkormányzatok és a térségi fejlesztési tanácsok e törvény alapján ellátott tevékenységéről szóló éves beszámolási, illetve tájékoztatási kötelezettség szabályait;
 - b) a kedvezményezett járások és települések besorolásának feltételrendszerét és besorolását,
-- c) a településrendezési eszköz területrendezési tervvel való összhangját igazoló területrendezési hatósági eljárás részletes szabályait;
+- c) a településrendezési terv területrendezési tervvel való összhangját igazoló területrendezési hatósági eljárás részletes szabályait;
 - d) a területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeit, továbbá illeszkedésük, kidolgozásuk és közzétételük részletes szabályait, valamint egyeztetésük, elfogadásuk rendjét;
 - e) a szabad vállalkozási zónák létrehozásának és működésének, valamint a kedvezmények igénybevételének szabályait;
 - f) a területfejlesztéssel és területrendezéssel kapcsolatos információs rendszert és a kötelező adatközlés szabályait;

@@ -21,7 +21,13 @@ Az Országgyűlés a pártok Alaptörvényben biztosított, a népakarat kialak�
 
 (5) A (3)–(4) bekezdés rendelkezéseinek megsértésével elfogadott támogatást – az Állami Számvevőszék felhívására – tizenöt napon belül a központi költségvetésnek be kell fizetni. Késedelem esetén a tartozást adók módjára kell behajtani. Az alapítvány költségvetési támogatását az elfogadott támogatás értékét kitevő összeggel az Állami Számvevőszék felhívását követő negyedévben csökkenteni kell.
 
-(6)
+(6) Az alapítvány céljai megvalósítása érdekében, kiegészítő jelleggel, céljaival közvetlenül összefüggő és azt nem veszélyeztető gazdasági-vállalkozási tevékenységet végezhet, elkülönített számviteli nyilvántartás alapján.
+
+(6a) E törvény alkalmazásában gazdasági-vállalkozási tevékenységnek minősül a jövedelem- és vagyonszerzésre irányuló vagy azt eredményező, üzletszerűen végzett gazdasági tevékenység, kivéve
+
+- a) az adomány (ajándék) elfogadását,
+- b) a pénzeszközök betétbe, értékpapírba, társasági részesedésbe történő elhelyezését,
+- c) az ingatlan megszerzését, használatának átengedését és átruházását.
 
 (7) Az alapítvány kuratóriumának tagjait az alapító párt országgyűlési képviselőcsoportja nevében a képviselőcsoport vezetője, amennyiben nem rendelkezik országgyűlési képviselőcsoporttal, az alapító párt jelöli ki ötéves időtartamra. A kuratórium tagja, illetve tagjainak többsége az alapító párt tagja is lehet. A kuratórium tagjának politikai felsővezető, közigazgatási államtitkár, helyettes államtitkár is kijelölhető.
 
@@ -45,7 +51,7 @@ Az Országgyűlés a pártok Alaptörvényben biztosított, a népakarat kialak�
 
 (5) Az alapítvány köteles az (1) bekezdésben meghatározott jelentését a tárgyévet követő évben, legkésőbb június 30-áig a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben, továbbá saját honlapján közzétenni.
 
-(6) A (3) bekezdés a) pontjában foglalt rendelkezés az éves beszámoló készítésének kötelezettségére, letétbe helyezésére és közzétételére vonatkozó számviteli szabályok alkalmazását nem érinti.
+(6) Az (1) bekezdés szerinti jelentéstételi kötelezettség teljesítése mellett az alapítványt a számviteli szabályok megfelelő alkalmazásának kötelezettsége terheli. Az alapítványra az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 11. alcíme szerinti beszámolási szabályokat megfelelően alkalmazni kell.
 
 4. § (1)
 

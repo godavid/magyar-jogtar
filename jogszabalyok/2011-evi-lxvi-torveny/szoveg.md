@@ -73,10 +73,13 @@ Az Országgyűlés a közpénzek kezelésének, felhasználásának, valamint a 
 
 - a) a pártok gazdálkodását,
 - b) a pártok országgyűlési képviselőcsoportjai számára az Országgyűlés által folyósított hozzájárulás felhasználását,
-- c) a vallási egyesület, az egyházi jogi személyek vagy azok nevelési-oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, kulturális vagy sporttevékenység végzésére létrehozott, a jogi személyiséggel rendelkező vallási közösség belső szabálya szerint jogi személyiséggel nem rendelkező intézménye részére az államháztartásból nem hitéleti célra nyújtott támogatás felhasználását, valamint
-- d) a nemzetbiztonsági szolgálatok speciális működési költségkeret felhasználására vonatkozó adatait.
+- c) a vallási egyesület, az egyházi jogi személyek vagy azok nevelési-oktatási, felsőoktatási, egészségügyi, karitatív, szociális, család-, gyermek- és ifjúságvédelmi, kulturális vagy sporttevékenység végzésére létrehozott, a jogi személyiséggel rendelkező vallási közösség belső szabálya szerint jogi személyiséggel nem rendelkező intézménye részére az államháztartásból nem hitéleti célra nyújtott támogatás felhasználását,
+- d) a nemzetbiztonsági szolgálatok speciális működési költségkeret felhasználására vonatkozó adatait, valamint
+- e) a közélet befolyásolására alkalmas tevékenységet végző civil szervezetek átláthatóságáról szóló 2021. évi XLIX. törvény szerinti egyesületet és alapítványt.
 
 (12) Törvény az Állami Számvevőszék ellenőrzését szabályszerűségi szempontok vizsgálatára korlátozhatja.
+
+(12a) Az Állami Számvevőszék által a (11) bekezdés e) pontja alapján lefolytatott ellenőrzés során a 31. § és a 33. § szerinti intézkedések nem alkalmazhatóak.
 
 (13) Az Állami Számvevőszék feladatkörében elemzéseket és tanulmányokat készíthet. Az Állami Számvevőszék az elnök 13. § (2) bekezdés l) pontjában foglalt feladataihoz kapcsolódóan elemzéseket és tanulmányokat készít, ezek rendelkezésre bocsátásával segíti a Költségvetési Tanácsot feladatai ellátásában.
 

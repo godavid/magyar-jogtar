@@ -14,7 +14,9 @@ Az Országgyűlés a nemzeti közlekedéspolitikában meghatározott elvek érv�
 - b) a Magyarország területén folytatott vasúti közlekedést irányító, működtető, illetve az abban részt vevő természetes személyekre és szervezetekre,
 - c) az országhatárokon átnyúló kölcsönös átjárhatósághoz kapcsolódó szolgáltatásokra és az ilyen szolgáltatást végző vasúti munkavállalókra,
 - d) a trolibusz felsővezetékének engedélyezésére,
-- e) a vasúti telekalakítás tekintetében – a 4. mellékletben szereplő vasúti pályák kivételével – a Magyarország területén található országos jelentőségű vasútvonalak vasúti pályáit és azok tartozékait hordozó és azzal szomszédos ingatlanokra terjed ki.
+- e) a vasúti telekalakítás tekintetében – a 4. mellékletben szereplő vasúti pályák kivételével – a Magyarország területén található országos jelentőségű vasútvonalak vasúti pályáit és azok tartozékait hordozó és azzal szomszédos ingatlanokra
+
+terjed ki.
 
 (2) Nemzetközi szerződéssel összhangban e törvény rendelkezéseit abban az esetben kell alkalmazni pályahálózat-működtető Magyarország területén kívül végzett vasúti pályahálózat működtetési tevékenységére, ha magyarországi kiinduló vagy célállomással rendelkező vasúti jármű közlekedése során Magyarország területén kívül eső pályahálózatot is igénybe vesz.
 
@@ -102,7 +104,9 @@ Az Országgyűlés a nemzeti közlekedéspolitikában meghatározott elvek érv�
 (9) Koncessziós pályázatot
 
 - a) az állam kizárólagos tulajdonát képező, országos jelentőségű vasútvonal – illetve azok egyes szakaszai – és a műtárgyaik fejlesztésére, illetve működtetésére kormányrendeletben kijelölt központi kormányzati igazgatási szerv vagy miniszter;
-- b) az önkormányzat törzsvagyonának részét képező és használatában lévő vasúti pályák fejlesztésére, illetve működtetésére az önkormányzat képviselő-testülete írja ki.
+- b) az önkormányzat törzsvagyonának részét képező és használatában lévő vasúti pályák fejlesztésére, illetve működtetésére az önkormányzat képviselő-testülete
+
+írja ki.
 
 (10) A pályázati kiírásnak – a koncesszióról szóló 1991. évi XVI. törvény 8. §-ában foglaltakon túlmenően – tartalmaznia kell:
 
@@ -155,7 +159,7 @@ Az Országgyűlés a nemzeti közlekedéspolitikában meghatározott elvek érv�
 - b) az önkormányzat tulajdonában és használatában lévő vasúti pályák fejlesztése, működtetése,
 - c) városi és helyi vasúti társaság alapítása.
 
-(2) Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 14. §-ában foglaltakra tekintettel, a miniszter kezdeményezésére a környezetvédelmi engedélyben meghatározott és kormányrendeletben kijelölt vasúti nyomvonalakat az érintett települési, a fővárosban a fővárosi és a kerületi önkormányzatoknak a településrendezési eszközeikben figyelembe kell venniük és a vasúti nyomvonalakat kijelölő kormányrendelet hatálybalépésétől számított hat hónapon belül a településszerkezeti tervükben, illetve a helyi építési szabályzatukban át kell vezetniük. Az ehhez szükséges pénzügyi fedezetet a Kormány biztosítja az önkormányzatok számára.
+(2) Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 14. §-ában foglaltakra tekintettel, a miniszter kezdeményezésére a környezetvédelmi engedélyben meghatározott és kormányrendeletben kijelölt vasúti nyomvonalakat az érintett települési, a fővárosban a fővárosi és a kerületi önkormányzatoknak a településrendezési terveikben figyelembe kell venniük és a vasúti nyomvonalakat kijelölő kormányrendelet hatálybalépésétől számított hat hónapon belül a településrendezési tervükben át kell vezetniük. Az ehhez szükséges pénzügyi fedezetet a Kormány biztosítja az önkormányzatok számára.
 
 #### 5/A–5/B. §
 
@@ -631,7 +635,9 @@ a vagyonkezelési szerződést – a miniszter és az állami vagyon felügyelet
 30. § (1) A nemzeti szabályok és a nemzeti előírások
 
 - a) jogszabályban,
-- b) a vasúti műszaki bizottság által kidolgozott és a közlekedési hatóság által közzétett vasúti műszaki előírásokban kerülnek meghatározásra.
+- b) a vasúti műszaki bizottság által kidolgozott és a közlekedési hatóság által közzétett vasúti műszaki előírásokban
+
+kerülnek meghatározásra.
 
 (2) A vasútbiztonságot érintően a Bizottságnak és az Ügynökségnek bejelentett nemzeti szabályoknak meg kell felelniük az alábbi együttes feltételeknek:
 
@@ -672,7 +678,9 @@ a vagyonkezelési szerződést – a miniszter és az állami vagyon felügyelet
 - a) új nemzeti szabály bevezetése esetén,
 - b) a nemzeti szabály módosításakor,
 - c) az ÁME alkalmazása alóli mentesülés iránti kérelem benyújtásával egy időben, vagy
-- d) ha az érintett ÁME közzététele vagy felülvizsgálata nyomán a nemzeti szabályt hatályon kívül kell helyezni a közlekedési hatóság a nemzeti szabály vagy annak hatályon kívül helyezésére vonatkozó rendelkezés tervezetét – vasúti műszaki bizottság által kiadott vasúti műszaki előírás esetében a közlekedési hatóság 80. § (1) bekezdés g) pontja szerinti vizsgálatát követően – az Ügynökség által működtetett informatikai rendszer útján megküldi a Bizottságnak és az Ügynökségnek, és ismerteti bevezetésének vagy hatályon kívül helyezésének indokait.
+- d) ha az érintett ÁME közzététele vagy felülvizsgálata nyomán a nemzeti szabályt hatályon kívül kell helyezni
+
+a közlekedési hatóság a nemzeti szabály vagy annak hatályon kívül helyezésére vonatkozó rendelkezés tervezetét – vasúti műszaki bizottság által kiadott vasúti műszaki előírás esetében a közlekedési hatóság 80. § (1) bekezdés g) pontja szerinti vizsgálatát követően – az Ügynökség által működtetett informatikai rendszer útján megküldi a Bizottságnak és az Ügynökségnek, és ismerteti bevezetésének vagy hatályon kívül helyezésének indokait.
 
 (7) Az (5) bekezdés b) pontjában meghatározott esetben a közlekedési hatóság a már kihirdetett nemzeti szabályt küldi meg az Ügynökség által működtetett informatikai rendszer útján a Bizottságnak és az Ügynökségnek, és ismerteti a bevezetésének indokait.
 
@@ -1058,7 +1066,7 @@ irányul.
 (2) A vasúti telekalakítási eljárás lefolytatása során nem kell alkalmazni
 
 - a) az épített környezet alakításáról és védelméről szóló törvény és annak felhatalmazása alapján kiadott jogszabályok előírásait,
-- b) törvény szerint vagy annak alapján hozott valamely településszerkezeti terv vagy helyi építési szabályzat, illetve településrendezési eszköz rendelkezéseit,
+- b) törvény szerint vagy annak alapján hozott valamely településrendezési terv rendelkezéseit,
 - c) a településkép védelméről szóló törvény vagy annak felhatalmazása alapján hozott önkormányzati rendelet előírásait.
 
 42/C. § (1) A vasúti telekalakítás következtében önálló helyrajzi számon létrejövő, a magyar állam tulajdonába kerülő országos jelentőségű vasútvonal vasúti pályáit és azok tartozékait hordozó ingatlant az ingatlan-nyilvántartásban kivett vasúti pálya megnevezéssel kell nyilvántartani.
@@ -1585,7 +1593,9 @@ biztosítható.
 (4) A nem független pályahálózat-működtető – a VPSZ (3) bekezdésben meghatározott feladatai ellátása érdekében – a vasúti pályahálózathoz történő nyílt hozzáférés részletes szabályairól szóló rendeletben meghatározottak szerint köteles
 
 - a) az általa működtetett vasúti pályahálózat forgalmi és műszaki jellemzőire vonatkozó adatokat, valamint a pályahálózat kapacitásának meghatározásához szükséges egyéb iratot, információt, továbbá
-- b) a vasúti pályahálózat működtetésére, valamint a nyílt hozzáférés keretében nyújtandó szolgáltatásokra vonatkozó költség-, ráfordítás- és eredménykimutatásait a VPSZ rendelkezésére bocsátani.
+- b) a vasúti pályahálózat működtetésére, valamint a nyílt hozzáférés keretében nyújtandó szolgáltatásokra vonatkozó költség-, ráfordítás- és eredménykimutatásait
+
+a VPSZ rendelkezésére bocsátani.
 
 67/Q. § A nem független pályahálózat-működtető Hálózati Üzletszabályzatának tartalmaznia kell az általa működtetett, nyílt hozzáférésű vasúti pályahálózathoz történő hozzáférésére vonatkozó részletes szabályokat is.
 

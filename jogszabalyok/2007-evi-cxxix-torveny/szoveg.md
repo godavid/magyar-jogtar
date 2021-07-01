@@ -164,14 +164,14 @@ a termőföld védelméről
 
 ### A termőföld védelmének érvényesítése a településrendezés és a településfejlesztés során
 
-6/B. § (1) Ha az ingatlanügyi hatóság a településrendezési eszközök, a településfejlesztési koncepció, illetve az integrált településfejlesztési stratégia elkészítése vagy azok módosítása tekintetében az egyeztetési eljárásban véleményező hatóságként működik közre, a termőföld védelmének érvényesítése érdekében érvényre kell juttatnia, hogy a beépítésre szánt területek kijelölése lehetőség szerint a gyengébb minőségű termőföldeken, a lehető legkisebb mértékű termőföld igénybevételével történjen. A vélemény kialakítása során figyelemmel kell lenni továbbá arra, hogy az egyeztetési eljárás tárgyát képező földrészletekkel szomszédos termőföldek megfelelő mezőgazdasági hasznosítását az övezeti átsorolás szerinti területfelhasználás ne akadályozza.
+6/B. § (1) Ha az ingatlanügyi hatóság a településfejlesztési és településrendezési terv elkészítése vagy azok módosítása tekintetében az egyeztetési eljárásban véleményező hatóságként működik közre, a termőföld védelmének érvényesítése érdekében érvényre kell juttatnia, hogy a beépítésre szánt területek kijelölése lehetőség szerint a gyengébb minőségű termőföldeken, a lehető legkisebb mértékű termőföld igénybevételével történjen. A vélemény kialakítása során figyelemmel kell lenni továbbá arra, hogy az egyeztetési eljárás tárgyát képező földrészletekkel szomszédos termőföldek megfelelő mezőgazdasági hasznosítását az övezeti átsorolás szerinti területfelhasználás ne akadályozza.
 
-(2) Az egyeztetési eljárásban az ingatlanügyi hatóságnak – a (3) bekezdésben meghatározott eset kivételével – kifogást kell emelni, ha a településrendezési eszköz készítése, vagy módosítása alapján kijelölt beépítésre szánt területek
+(2) Az egyeztetési eljárásban az ingatlanügyi hatóságnak – a (3) bekezdésben meghatározott eset kivételével – kifogást kell emelni, ha a településrendezési terv készítése, vagy módosítása alapján kijelölt beépítésre szánt területek
 
 - a) többségében átlagosnál jobb minőségű termőföldeket érintenek, és a beépítésre szánt terület övezeti besorolásának megfelelő területfelhasználásra hasonló körülmények és feltételek esetén átlagosnál gyengébb vagy átlagos minőségű termőföldeken is sor kerülhet, vagy
 - b) övezeti besorolásának megfelelő területfelhasználásra kellő nagyságú térmértékben lehetőség van a település már beépítésre kijelölt, de még fel nem használt területén is.
 
-(3) A (2) bekezdésben foglaltakat nem kell alkalmazni a zártkerti ingatlan esetében, ha a településrendezési eszköz készítése vagy módosítása a zártkerti ingatlan területének beépítésre szánt területbe történő átsorolása érdekében történik.
+(3) A (2) bekezdésben foglaltakat nem kell alkalmazni a zártkerti ingatlan esetében, ha a településrendezési terv készítése vagy módosítása a zártkerti ingatlan területének beépítésre szánt területbe történő átsorolása érdekében történik.
 
 ### Földvédelmi eljárás
 
@@ -419,7 +419,7 @@ esetében.
 
 (1a) A 13. § (2) bekezdése nem alkalmazható, ha a belterületbe vonás iránti kérelem olyan földrészletet is tartalmaz, amelynek végleges más célú hasznosítását az ingatlanügyi hatóság már engedélyezte, és az engedély időbeli hatálya még nem járt le.
 
-(2) Termőföld belterületbe vonása iránti kérelmet kizárólag az önkormányzat terjeszthet elő. A kérelemhez csatolni kell az érintett földrészletek helyrajzi számait, a területnagyságot, és a területfelhasználási célt tartalmazó képviselő-testületi döntést, valamint a településszerkezeti terv kivonatát. A kérelemben az önkormányzatnak nyilatkozatnia kell arról, miszerint a kérelemben megjelölt földrészletek a kérelemben megjelölt célra 4 éven belül ténylegesen felhasználásra kerülnek.
+(2) Termőföld belterületbe vonása iránti kérelmet kizárólag az önkormányzat terjeszthet elő. A kérelemhez csatolni kell az érintett földrészletek helyrajzi számait, a területnagyságot, és a területfelhasználási célt tartalmazó képviselő-testületi döntést, valamint a településrendezési terv kivonatát. A kérelemben az önkormányzatnak nyilatkozatnia kell arról, miszerint a kérelemben megjelölt földrészletek a kérelemben megjelölt célra 4 éven belül ténylegesen felhasználásra kerülnek.
 
 (3) Külterületi, illetőleg beépítésre szánt területi felhasználásra kerülő területek folyamatosan, a településfejlesztés megvalósításától függően vonhatók a belterületbe.
 
@@ -427,11 +427,21 @@ esetében.
 
 (5) El kell utasítani a belterületbe vonás iránti kérelmet,
 
-- a) ha az nem olyan földrészletekre vonatkozik, amelyeket az önkormányzat a településszerkezeti tervben meghatározott célra 4 éven belül ténylegesen felhasználni tervez,
+- a) ha az nem olyan földrészletekre vonatkozik, amelyeket az önkormányzat a településrendezési tervben meghatározott célra 4 éven belül ténylegesen felhasználni tervez,
 - b) ha az olyan területfelhasználási célra irányul, amely a település belterületén beépítésre kijelölt, de még fel nem használt területén megvalósítható, vagy
 - c) ha a kérelemben és a képviselő-testületi döntésben megjelölt földrészletek nem azonosak.
 
 (6) Új község alakítása, településegyesítés megszüntetése esetén a belterületbe vonás során, valamint zártkerti ingatlannak a belterületbe vonása során a (2) bekezdés utolsó mondatát, a (3)–(5) bekezdés rendelkezéseit, továbbá a 11. § (2) bekezdésének első mondatát nem kell alkalmazni.
+
+(7) Ha a földrészlet belterületbe vonási eljárásának a megindítását az önkormányzatnál természetes személy kezdeményezi saját tulajdonában álló ingatlana vonatkozásában abból a célból, hogy ezáltal saját, illetve közeli hozzátartozói lakhatása biztosítására szolgáló lakóépületet létesítsen, a belterületbe vonás során a 11. § (2) bekezdésének első mondatában és az (5) bekezdés b) pontjában foglaltakat nem kell alkalmazni.
+
+(8) A (7) bekezdésben foglalt esetben az ingatlan természetes személy tulajdonosának saját, illetve közeli hozzátartozóinak lakhatása szempontjából az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 33/A. § (3a) bekezdésében foglaltakat kell alkalmazni.
+
+(9) A belterületbe vonás (7) bekezdésben rögzített esetében az önkormányzatnak – a (2) bekezdésben foglaltakon túl – csatolnia a kell az ingatlan természetes személy tulajdonosának közokiratba, vagy teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy az érintett ingatlan a saját tulajdonában áll, és azon saját, illetve közeli hozzátartozói lakhatására kíván lakóépületet létesíteni.
+
+(10) Ha az ingatlan természetes személy tulajdonosa nem tesz eleget a (9) bekezdés szerinti nyilatkozatában foglaltaknak, vele szemben a 24. § (1) bekezdés f) pontja szerinti földvédelmi bírság kiszabásának van helye.
+
+(11) A (10) bekezdés szerinti esetben a földvédelmi bírság mértéke az 1. melléklet 4.1. pontjában meghatározott földvédelmi járulék ötszöröse.
 
 15/A. § Ha az ingatlanügyi hatóság a 15. § (1a) bekezdésében meghatározott körülmény fennállása mellett a termőföld belterületbe vonását engedélyezi, ezen engedély véglegessé válása napjával a korábban kiadott végleges más célú hasznosítás engedélyezéséről szóló határozat hatályát veszti, feltéve, hogy a 22. § (4) bekezdés a) pontjában foglalt földvédelmi járulékfizetési kötelezettség esedékessége a belterületbe vonás engedélyezéséről szóló határozat meghozatalának napjáig nem állt be. A végleges más célú hasznosítás engedélyezéséről szóló határozat hatályának megszűnéséről a belterületbe vonás engedélyezéséről szóló határozatban kell rendelkezni.
 
@@ -1343,6 +1353,8 @@ a Módtv2. hatálybalépésekor folyamatban lévő ügyekben, valamint a Módtv2
 75. § (1) E törvénynek az egyes agrártárgyú törvények módosításáról szóló 2021. évi LX. törvénnyel (a továbbiakban: Módtv5.) megállapított 1/A. és 1/B. §-át, 2. § 14. pontját, 16. § (7)–(9) és (12) bekezdését, 17. § (1d) bekezdését, valamint 17. § (2)–(3) bekezdését a Módtv5. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell a (2) bekezdésben meghatározottak szerint.
 
 (2) E törvénynek a Módtv5. által megállapított 16. § (7)–(9) és (12) bekezdését, valamint 17. § (1d) bekezdését a Módtv5. hatálybalépésekor folyamatban lévő azon eljárásokban kell alkalmazni, amelyekben az ingatlanügyi hatóság a 16. § (4) bekezdésében foglalt értesítést, illetve a 17. § (1a) bekezdésében foglalt függő hatályú döntést a Módtv5. hatálybalépése napjáig még nem közölte az igénybevevővel.
+
+76. § A 9–13. § a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló (EU) 2018/2001 európai parlamenti és tanácsi irányelv 16. cikkének való megfelelést szolgálja.
 
 ### 1. melléklet a 2007. évi CXXIX. törvényhez
 

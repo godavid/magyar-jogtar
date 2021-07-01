@@ -17,7 +17,7 @@ Az Országgyűlés az élet és az anyagi javak védelmének, az alapvető szolg
   - dc) az általa nyújtott alapvető szolgáltatást érintő biztonsági esemény – kormányrendeletben meghatározott – jelentős zavart okozna szolgáltatás nyújtásában és
   - dd) az erre irányuló eljárásban alapvető szolgáltatást nyújtó szereplőként került azonosításra,
 - e) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam,
-- f) európai létfontosságú rendszerelem: e törvény alapján kijelölt olyan létfontosságú rendszerelem, amelynek kiesése jelentős hatással lenne – az ágazatokon átnyúló kölcsönös függőségből következő hatásokat is ideértve – legalább két EGT-államra,
+- f) európai létfontosságú rendszerelem: e törvény alapján nemzeti létfontosságú rendszerelemmé kijelölt olyan létfontosságú rendszerelem, amelynek kiesése jelentős hatással lenne – az ágazatokon átnyúló kölcsönös függőségből következő hatásokat is ideértve – legalább két EGT-államra,
 - g) helyszíni ellenőrzést lefolytató szerv: az ágazati kijelölő hatóság, a szakhatóság, a kijelölési eljárásban részt vevő, véleménynyilvánító szerv, és jogszabály alapján helyszíni ellenőrzés lefolytatására jogosult szerv,
 - h) horizontális kritérium: azok a szempontok, az azokhoz tartozó küszöbértékek, műszaki vagy funkcionális tulajdonságok, amelyek egy eszköz, létesítmény rendszerelemének kiesése által kiváltott hatásra vonatkoznak, és amelyek teljesülése esetén – figyelemmel a bekövetkező emberiélet-veszteségekre, az egészségre gyakorolt hatásra, a gazdasági és társadalmi hatásokra, a természetre és az épített környezetre gyakorolt hatásra – az eszköz, létesítmény, rendszer vagy azok része létfontosságú rendszerelemmé jelölhető ki attól függetlenül, hogy mely ágazatba tartozik,
 - i) létfontosságú rendszerelem védelme: a létfontosságú rendszerelem funkciójának, folyamatos működésének és sértetlenségének biztosítását célzó, a fenyegetettség, a kockázat, a sebezhetőség enyhítésére vagy semlegesítésére irányuló valamennyi tevékenység,
@@ -33,7 +33,8 @@ Az Országgyűlés az élet és az anyagi javak védelmének, az alapvető szolg
 - a) a létfontosságú rendszerelem működésének, a szolgáltatás nyújtásának kezdetétől számított 60 napon belül,
 - b) az üzemeltetés időszakában a tevékenységben bekövetkezett olyan mértékű változás esetén, amely az ágazati vagy horizontális kritériumok teljesülését eredményezi, a változás bekövetkeztétől számított 60 napon belül,
 - c) a kijelölésre nem javasolt, a korábbi azonosítási jelentésben szereplő lehetséges létfontosságú rendszerelem esetén az azonosítási vizsgálat zárónapját követő öt év elteltével, az üzemeltetés időszakában a kijelölő határozat véglegessé válását követő öt év elteltével,
-- d) a javaslattevő hatóság kezdeményezése alapján.
+- d) a javaslattevő hatóság kezdeményezése alapján,
+- e) ágazati kritérium módosítása esetén az ágazati kritériumot szabályozó kormányrendeletet módosító kormányrendelet hatálybalépését követő 60 napon belül.
 
 (2) Az üzemeltető az azonosítási vizsgálat alapján elkészített azonosítási jelentését (a továbbiakban: azonosítási jelentés) – annak elkészítését követő 8 napon belül – benyújtja a kormányrendeletben kijelölt szerv (a továbbiakban: az ágazati kijelölő hatóság) részére.
 
@@ -55,6 +56,10 @@ hivatalból folytatja le.
 dönthet.
 
 (6) Az ágazati kijelölő hatóság szakhatóság bevonásával az ágazati és horizontális kritériumok teljesülésének vizsgálata alapján dönt a nemzeti létfontosságú rendszerelem kijelöléséről vagy a kijelölés visszavonásáról.
+
+(6a) A honvédelmi rendszerek és létesítmények ágazati kijelölő hatósága által is kijelölt, az 1. mellékletben meghatározott, nem honvédelmi ágazatba tartozó rendszerelem kivételével egy rendszerelemnek több ágazatban való nemzeti létfontosságú rendszerelemmé történő kijelölésének (kettős kijelölés) nincs helye.
+
+(6b) Ha egy nemzeti létfontosságú rendszerelem az ágazati kritériumok teljesülésének lehetősége alapján több ágazatban is kijelölhető nemzeti létfontosságú rendszerelemmé, a későbbi kijelölési eljárást lefolytató ágazati kijelölő hatóság megkeresi az általános javaslattevő hatóságot annak érdekében, hogy az az ágazati függőségek és kitettség vizsgálatának eredménye alapján javaslatot tegyen a korábbi kijelölés visszavonására, vagy fenntartására. Az általános javaslattevő hatóság e körben kiadott ügyindító javaslata alapján a korábbi kijelölési eljárást lefolytató ágazati kijelölő hatóság hivatalból kijelölés visszavonására irányuló eljárást folytat le.
 
 (7) Az ágazati kijelölő hatóság a (6) bekezdés szerinti kijelölő határozatban
 
@@ -136,7 +141,7 @@ adatszolgáltatást kérni.
 
 dönthet.
 
-(2) Európai létfontosságú rendszerelemmé kijelölésre irányuló kezdeményezést, illetve az üzemeltető által benyújtott azonosítási jelentést – az (1) bekezdés c) pontja kivételével a javaslattevő hatóság bevonásával – az ágazati kijelölő hatóság megvizsgálja és az európai létfontosságú rendszerelemmé nyilvánítással kapcsolatos álláspontjáról az ágazatért felelős miniszter útján a katasztrófák elleni védekezésért felelős minisztert tájékoztatja.
+(2) Európai létfontosságú rendszerelemmé kijelölésre irányuló kezdeményezést, illetve az üzemeltető által benyújtott azonosítási jelentést – az (1) bekezdés c) pontja kivételével az ágazati javaslattevő hatóság bevonásával – az ágazati kijelölő hatóság megvizsgálja és az európai létfontosságú rendszerelemmé nyilvánítással kapcsolatos álláspontjáról az ágazatért felelős miniszter útján a katasztrófák elleni védekezésért felelős minisztert tájékoztatja.
 
 (3) Az európai létfontosságú rendszerelemmé nyilvánítással kapcsolatos nemzetközi szerződés megkötését a katasztrófák elleni védekezésért felelős miniszter az adott ágazat szerint feladat- és hatáskörrel rendelkező miniszterrel együtt kezdeményezi.
 
@@ -258,10 +263,10 @@ a kijelölő hatóság és a szakhatóság (a továbbiakban együtt: hatóságok
 
 kezeli.
 
-9. § (1) Ha az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetője nem tesz eleget az e törvényben, az e törvényben foglalt felhatalmazás alapján kiadott más jogszabályokban vagy az ágazati kijelölő hatóság határozatában foglalt előírásoknak,
+9. § (1) Ha az európai létfontosságú rendszerelem, nemzeti létfontosságú rendszerelem üzemeltetője nem tesz eleget az e törvényben, az e törvényben foglalt felhatalmazás alapján kiadott más jogszabályokban vagy az ágazati kijelölő hatóság határozatában foglalt előírásoknak,
 
-- a) az ágazati kijelölő hatóság kötelezi az üzemeltetői biztonsági terv soron kívüli módosítására vagy új üzemeltetői biztonsági terv készítésére, vagy
-- b) bírságot szab ki.
+- a) az ágazati kijelölő hatóság vagy az ellenőrzést koordináló szerv kötelezi az üzemeltetői biztonsági terv soron kívüli módosítására vagy új üzemeltetői biztonsági terv készítésére, vagy
+- b) az ágazati kijelölő hatóság, az ellenőrzést koordináló szerv vagy a nyilvántartó hatóság kormányrendeletben meghatározott mértékű bírságot szab ki.
 
 (2) Ha az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem üzemeltetője nem tesz eleget az e törvényben, e törvényben foglalt felhatalmazás alapján kiadott más jogszabályokban foglalt előírásoknak, az ellenőrzést koordináló szerv a koordinált ellenőrzés során tapasztalt hiányosságokra figyelemmel kormányrendeletben meghatározottak szerint helyszíni bírságot szabhat ki.
 
@@ -351,7 +356,8 @@ meghatározható.
 - j) határozza meg a kritikus társadalmi, illetve gazdasági tevékenységek fenntartásához szükséges alapvető szolgáltatások jegyzékét,
 - k) állapítsa meg a rendkívüli eseményekre vonatkozó részletes ágazati szabályokat,
 - l) jelölje ki a 2/B. § szerinti azonosítási eljárást lefolytató és az információbiztonsági hatósági feladatokat ellátó hatóságot és határozza meg az azonosítási eljárásra, ellenőrzésre vonatkozó különös szabályokat, valamint állapítsa meg az azonosítás visszavonására vonatkozó eljárási szabályokat,
-- m) állapítsa meg ágazatonként a 2/B. § (6) bekezdése szerinti küszöbértékeket és a 2/A. § szerinti jelentős zavar mértékét.
+- m) állapítsa meg ágazatonként a 2/B. § (6) bekezdése szerinti küszöbértékeket és a 2/A. § szerinti jelentős zavar mértékét,
+- n) állapítsa meg az IHR működésének a részletszabályait.
 
 15. § (1) Ez a törvény – a (2) és a (3) bekezdésben foglaltak kivételével – a kihirdetését követő negyedik hónap első napján lép hatályba.
 

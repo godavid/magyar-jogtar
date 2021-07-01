@@ -83,7 +83,7 @@ Az Országgyűlés a köztulajdonban álló gazdasági társaságok takarékosab
 
 (4) Egy természetes személy legfeljebb egy köztulajdonban álló gazdasági társaságnál betöltött vezető tisztségviselői megbízatás, valamint legfeljebb egy köztulajdonban álló gazdasági társaságnál betöltött felügyelőbizottsági tagság után részesülhet javadalmazásban.
 
-7. § (1) A cégbíróság nem alkalmazza a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény eltiltás jogkövetkezményét az állammal, az államot megillető tulajdonosi jogokat gyakorló szervezettel vagy ilyen szervezet közvetlen vagy közvetett többségi befolyása alatt álló szervezettel szemben.
+7. § (1) A cégbíróság nem alkalmazza a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény szerinti eltiltás jogkövetkezményét és az eltiltott személyek felelősségének megállapításával kapcsolatos szabályokat az állammal, az államot megillető tulajdonosi jogokat gyakorló szervezettel vagy az ilyen szervezet közvetlen vagy közvetett befolyása alatt álló szervezettel mint taggal és az e tag javaslatára megválasztott vezető tisztségviselőkkel szemben, továbbá a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 66. § (2) bekezdése szerinti állami felszámoló szervezet végelszámolóként való eljárása során a végelszámoló szervezettel és a végelszámolói feladatok ellátására kijelölt természetes személy végelszámolóval szemben.
 
 (2)
 

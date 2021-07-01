@@ -38,9 +38,10 @@ Az Országgyűlés, hogy hozzájáruljon a környezetszennyezés megelőzéséhe
 - 3.
 - 4. belföld: a Magyarország területe, ideértve a vámszabad és tranzitterületeket, valamint a vámszabad raktárakat is;
 - 5. bérgyártás: a megrendelő (bérgyártató) által a Magyarországon letelepedett természetes vagy jogi személy (a továbbiakban együtt: bérgyártó) részére ellenszolgáltatás nélkül – részben vagy egészben – rendelkezésére bocsátott anyagokból, félkész termékekből ellenszolgáltatás ellenében termékdíjköteles termék előállítása, amely során a bérgyártó anyagáramonként és termékáramonként legfeljebb a termékdíjköteles termék tömegében számított ötven százalékos mértéket meg nem haladóan adhat hozzá terméket a bérgyártató részére gyártott termékdíjköteles termékhez;
+- 5a. biológiailag lebomló műanyag: olyan műanyag, amely fizikai és biológiai bomlásra képes úgy, hogy végül szén-dioxiddá (CO2), biomasszává és vízzé bomoljon le, és amely a csomagolásra vonatkozó európai szabványokkal összhangban komposztálás és anaerob lebontás útján hasznosítható;
 - 6. csekély mennyiségű kibocsátó: a tárgyévben
   - a) 30 kg akkumulátort,
-  - b) csomagolószer termékkör esetén ba) 3000 kg üveget, bb) 300 kg – a műanyag bevásárló-reklám táska nélkül számított – műanyagot, bc) 75 kg műanyag bevásárló-reklám táskát, bd) 300 kg társított vagy rétegzett csomagolószert, be) 500 kg papír, fa, természetes alapú textil csomagolószert, bf) 300 kg fém csomagolószert, bg) 300 kg egyéb csomagolószert, azonban a bb)–bg) alpontok esetén mindösszesen legfeljebb 1000 kg csomagolószert,
+  - b) csomagolószer termékkör esetén ba) 3000 kg üveget, bb) 300 kg – műanyag hordtasak nélkül számított – műanyagot, bc) 75 kg műanyag hordtasakot, bd) 300 kg társított vagy rétegzett csomagolószert, be) 500 kg papír, fa, természetes alapú textil csomagolószert, bf) 300 kg fém csomagolószert, bg) 300 kg egyéb csomagolószert, azonban a bb)–bg) alpontok esetén mindösszesen legfeljebb 1000 kg csomagolószert,
   - c) 40 kg egyéb kőolajterméket,
   - d) elektromos, elektronikai berendezés termékkör esetében, da) 40 kg háztartási nagygépet, db) 40 kg háztartási kisgépet, dc) 40 kg információs (IT) és távközlési berendezést, kivéve a mobiltelefon készüléket, dd) 40 kg szórakoztató elektronikai cikket, de) 40 kg barkácsgépet, szerszámot, df) 10 kg játékot, szabadidős és sportfelszerelést, dg) 10 kg ellenőrző, vezérlő és megfigyelő eszközt, dh) 10 kg adagoló automatát, di) 5 kg mobiltelefon készüléket mindösszesen legfeljebb 100 kg elektromos, elektronikai terméket;
   - e) 60 kg gumiabroncsot,
@@ -95,10 +96,13 @@ meg nem haladó tömegű termékdíjköteles terméket – kizárólag végfelha
 - 20b. kézműipari termék: a kézműipari tevékenység keretében előállított termék;
 - 20c. kézműipari tevékenység: olyan termék-előállítási forma, amely során a termék lényeges jellegét a közvetlen emberi tevékenység, megmunkálás adja;
 - 21. kiskereskedelmi értékesítés: a kereskedelemről szóló törvény szerinti kiskereskedelmi tevékenység;
-- 22–23.
+- 22. könnyű műanyag hordtasak: olyan műanyag hordtasak, amelynek falvastagsága 50 mikronnál kevesebb;
+- 23.
 - 24. külföld: az Európai Közösség Magyarországon kívüli állama és a harmadik ország;
-- 25. műanyag bevásárló-reklám táska: a csomagolásról és a csomagolási hulladék kezelésének részletes szabályairól szóló jogszabály szerinti fogyasztói (elsődleges) vagy gyűjtőcsomagolt, illetve csomagolatlanul forgalmazott termékek, áruk, reklámanyagok szállítására szolgáló, hajlékonyfalú műanyag hordtasak vagy hordtáska, a hajlékonyfalú műanyag hűtőtasak vagy hűtőtáska kivételével;
+- 24a. műanyag: a vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról (REACH), az Európai Vegyianyag-ügynökség létrehozásáról, az 1999/45/EK irányelv módosításáról, valamint a 793/93/EGK tanácsi rendelet, az 1488/94/EK bizottsági rendelet, a 76/769/EGK tanácsi irányelv, a 91/155/EGK, a 93/67/EGK, a 93/105/EK és a 2000/21/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2006. december 18-i 1907/2006/EK európai parlamenti és tanácsi rendelet 3. cikk 5. pontja értelmében vett polimer, amelyhez esetleg adalékanyagokat vagy egyéb anyagokat is adtak és amely alkalmas a műanyag hordtasakok fő szerkezeti alkotóelemeként való felhasználásra, beleértve a biológiailag lebomló műanyagokat is;
+- 25. műanyag hordtasak: olyan, műanyagból készült, fogófüllel ellátott vagy fogófül nélküli hordtasak, amelyet az áruk vagy termékek értékesítési pontján biztosítanak a fogyasztók részére, a hajlékonyfalú műanyag hűtőtasak vagy hűtőtáska kivételével;
 - 25a. nagyméretű rögzített ipari szerszám: gépek, berendezések, illetve azok alkatrészeinek nagyméretű összessége, amelyek egy adott alkalmazás céljából működnek együtt, és amelyeket szakemberek állandó jelleggel egy adott helyen beüzemelnek, leszerelnek, használnak, illetve karbantartanak valamely ipari gyártó létesítményben vagy kutatási és fejlesztési létesítményben;
+- 25b. nagyon könnyű műanyag hordtasak: olyan műanyag hordtasak, amelynek falvastagsága 15 mikronnál kevesebb, és amelynek felhasználása higiéniai célokat szolgál, vagy amelyet ömlesztett élelmiszerek elsődleges csomagolására használnak azokban az esetekben, amikor az segít megelőzni az élelmiszer-pazarlást;
 - 26. reklámhordozó papír: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben meghatározott gazdasági reklámot tartalmazó, a médiaszolgáltatásokról és a tömegkommunikációról szóló törvény által meghatározott
   - a) sajtótermékek közül az időszaki lap egyes számai,
   - b) egyéb nyomtatott anyagok közül a grafikát, rajzot vagy fotót tartalmazó kiadvány, a térkép, a nyomtatott képeslap, a névjegykártya kivételével az üdvözlő- és más hasonló kártya, a nyomtatott naptár, a nyomtatott üzleti reklámanyag, a katalógus, a prospektus, a reklámposzter és hasonlók, a röplap és az egyéb szöveges kiadvány,
@@ -209,7 +213,7 @@ használja fel,
 - b) a Magyarországon hulladékká vált egyéb kőolajtermékből újrafinomítás vagy más célra történő újrahasználat eljárással előállított termékdíjköteles terméket belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi;
 - c) a belföldön hulladékká vált termék az újrafelhasználásra előkészítését vagy a használt termék újbóli felhasználásra történő előkészítését követően létrejött terméket belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi, a termékbe beépített új termékdíjköteles alkotórészek, tartozékok kivételével;
 - d) az elkülönített hulladék gyűjtésére szolgáló műanyag zsákot belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi;
-- e) a teljes egészében megújuló forrásból származó alapanyagból és – az MSZ EN 13432:2002 szabvány, vagy azzal egyenértékű megoldás követelményeinek megfelelően – biológiai úton lebomló műanyagból készült termékdíjköteles terméket belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi;
+- e)
 - f) olyan reklámhordozó papírt hoz belföldön forgalomba, használ fel saját célra vagy vesz készletre,
   - fa) amely teljes nyomtatott felületére vetítve legfeljebb ötven százalékában gazdasági reklám terjesztésére szolgál, vagy
   - fb) amelyet közhasznú szervezet, állami, önkormányzati szerv alapfeladata körében ad ki.
@@ -1042,6 +1046,10 @@ a termékdíjköteles terméket lefoglalja.
 
 40/G. § A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény módosításáról szóló 2015. évi CLXVIII. törvény (a továbbiakban: Módtv. 3.) hatályba lépését megelőző évben egyéni hulladékkezelést választó kötelezettnek a Módtv. 3. hatályba lépését megelőzően hatályos rendelkezések alapján kell teljesítenie a 2015. év negyedik negyedévére vonatkozó termékdíj-kötelezettségét.
 
+#### 30/A. Európai Unió jogának való megfelelés
+
+40/H. § Ez a törvény a 94/62/EK irányelvnek a könnyű műanyag hordtasakok felhasználásának csökkentése tekintetében történő módosításáról szóló, 2015. április 29-i 2015/720 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
 #### 31. Bejelentés az Európai Unió részére
 
 41. § (1) A törvény tervezetének a következő közösségi jogi aktusok szerinti előzetes bejelentése megtörtént:
@@ -1292,16 +1300,17 @@ b) Csomagolószer
 |  | A | B |
 | --- | --- | --- |
 | 1. | Anyagáram | Termékdíjtétel (Ft/kg) |
-| 2. | Műanyag [a műanyag bevásárló-reklám táska és a teljes egészében megújuló forrásból származó alapanyagból (az MSZ EN 13432:2002 szabvány, vagy azzal egyenértékű megoldás követelményeinek megfelelően) készült biológiai úton lebomló műanyag kivételével] | 57 |
-| 3. | Műanyag bevásárló-reklám táska | 1900 |
-| 4. | Társított (kivéve társított rétegzett italkarton) | 57 |
-| 5. | Társított rétegzett italkarton | 19 |
-| 6. | Fém (a fém ital-csomagolószer kivételével) | 19 |
-| 7. | Fém ital-csomagolószer | 57 |
-| 8. | Papír | 19 |
-| 9. | Fa, természetes alapú anyag | 19 |
-| 10. | Üveg | 19 |
-| 11. | Egyéb | 57 |
+| 2. | Műanyag (a műanyag hordtasak kivételével) | 57 |
+| 3. | Műanyag hordtasak a biológiailag lebomló műanyagból készült műanyag hordtasak kivételével | 1900 |
+| 4. | Biológiailag lebomló műanyagból készült műanyag hordtasak | 500 |
+| 5. | Társított (kivéve társított rétegzett italkarton) | 57 |
+| 6. | Társított rétegzett italkarton | 19 |
+| 7. | Fém (a fém ital-csomagolószer kivételével) | 19 |
+| 8. | Fém ital-csomagolószer | 57 |
+| 9. | Papír | 19 |
+| 10. | Fa, természetes alapú anyag | 19 |
+| 11. | Üveg | 19 |
+| 12. | Egyéb | 57 |
 
 c) Egyéb kőolajtermék
 
@@ -1377,16 +1386,17 @@ b) Csomagolószer
 |  | A | B | C |
 | --- | --- | --- | --- |
 | 1. | Anyagáram | qf felső hasznosítási arány | qáhksz állami hulladékgazdálkodást közvetítő szervezet országos átlagos teljesítési hányad |
-| 2. | Műanyag (a műanyag bevásárló-reklám táska kivételével) | 0,65 | 0,25 |
-| 3. | Műanyag bevásárló-reklám táska | 0,65 | 0,15 |
-| 4. | Társított (kivéve társított rétegzett italkarton) | 0,65 | 0,40 |
-| 5. | Társított rétegzett italkarton | 0,65 | 0,20 |
-| 6. | Fém (a fém ital-csomagolószer kivételével) | 0,65 | 0,60 |
-| 7. | Papír | 0,65 | 0,65 |
-| 8. | Fa, természetes alapú anyag | 0,65 | 0,15 |
-| 9. | Üveg | 0,65 | 0,60 |
-| 10. | Egyéb | 0,65 | 0,25 |
-| 11. | Fém ital-csomagolószer | 0,17 | 0,17 |
+| 2. | Műanyag (a műanyag hordtasak kivételével) | 0,65 | 0,25 |
+| 3. | Műanyag hordtasak a biológiailag lebomló műanyagból készült műanyag hordtasak kivételével | 0,65 | 0,15 |
+| 4. | Biológiailag lebomló műanyagból készült műanyag hordtasak | 0,65 | 0,15 |
+| 5. | Társított (kivéve társított rétegzett italkarton) | 0,65 | 0,40 |
+| 6. | Társított rétegzett italkarton | 0,65 | 0,20 |
+| 7. | Fém (a fém ital-csomagolószer kivételével) | 0,65 | 0,60 |
+| 8. | Papír | 0,65 | 0,65 |
+| 9. | Fa, természetes alapú anyag | 0,65 | 0,15 |
+| 10. | Üveg | 0,65 | 0,60 |
+| 11. | Egyéb | 0,65 | 0,25 |
+| 12. | Fém ital-csomagolószer | 0,17 | 0,17 |
 
 c) Elektromos, elektronikai berendezés
 
@@ -1438,16 +1448,17 @@ b) Csomagolószer
 |  | A | B |
 | --- | --- | --- |
 | 1. | Anyagáram | Fajlagos rendszerirányítási alapköltség (Ft/kg) |
-| 2. | Műanyag (a műanyag bevásárló-reklám táska kivételével) | 34 |
-| 3. | Műanyag bevásárló-reklám táska | 1300 |
-| 4. | Társított (kivéve társított rétegzett italkarton) | 34 |
-| 5. | Társított rétegzett italkarton | 12 |
-| 6. | Fém (a fém ital-csomagolószer kivételével) | 12 |
-| 7. | Fém ital-csomagolószer | 34 |
-| 8. | Papír | 11,5 |
-| 9. | Fa, természetes alapú anyag | 14 |
-| 10. | Üveg | 12 |
-| 11. | Egyéb | 34 |
+| 2. | Műanyag (a műanyag hordtasak kivételével) | 34 |
+| 3. | Műanyag hordtasak a biológiailag lebomló műanyagból készült műanyag hordtasak kivételével | 1300 |
+| 4. | Biológiailag lebomló műanyagból készült műanyag hordtasak | 342 |
+| 5. | Társított (kivéve társított rétegzett italkarton) | 34 |
+| 6. | Társított rétegzett italkarton | 12 |
+| 7. | Fém (a fém ital-csomagolószer kivételével) | 12 |
+| 8. | Fém ital-csomagolószer | 34 |
+| 9. | Papír | 11,5 |
+| 10. | Fa, természetes alapú anyag | 14 |
+| 11. | Üveg | 12 |
+| 12. | Egyéb | 34 |
 
 c) Elektromos, elektronikai berendezés
 
@@ -1485,16 +1496,17 @@ b) Csomagolószer
 |  | A | B |
 | --- | --- | --- |
 | 1. | Anyagáram | Fajlagos externális alapköltség (Ft/kg) |
-| 2. | Műanyag (a műanyag bevásárló-reklám táska kivételével) | 24 |
-| 3. | Műanyag bevásárló-reklám táska | 774 |
-| 4. | Társított (kivéve társított rétegzett italkarton) | 24 |
-| 5. | Társított rétegzett italkarton | 7 |
-| 6. | Fém (a fém ital-csomagolószer kivételével) | 8 |
-| 7. | Fém ital-csomagolószer | 24 |
-| 8. | Papír | 4 |
-| 9. | Fa, természetes alapú anyag | 4 |
-| 10. | Üveg | 6 |
-| 11. | Egyéb | 24 |
+| 2. | Műanyag (a műanyag hordtasak kivételével) | 24 |
+| 3. | Műanyag hordtasak a biológiailag lebomló műanyagból készült műanyag hordtasak kivételével | 774 |
+| 4. | Biológiailag lebomló műanyagból készült műanyag hordtasak | 204 |
+| 5. | Társított (kivéve társított rétegzett italkarton) | 24 |
+| 6. | Társított rétegzett italkarton | 7 |
+| 7. | Fém (a fém ital-csomagolószer kivételével) | 8 |
+| 8. | Fém ital-csomagolószer | 24 |
+| 9. | Papír | 4 |
+| 10. | Fa, természetes alapú anyag | 4 |
+| 11. | Üveg | 6 |
+| 12. | Egyéb | 24 |
 
 c) Elektromos, elektronikai berendezés
 
@@ -1534,16 +1546,17 @@ b) Csomagolószer
 |  | A | B |
 | --- | --- | --- |
 | 1. | Anyagáram | Fajlagos kezelési alapköltség (Ft/kg) |
-| 2. | Műanyag (a műanyag bevásárló-reklám táska kivételével) | 30 |
-| 3. | Műanyag bevásárló-reklám táska | 30 |
-| 4. | Társított (kivéve társított rétegzett italkarton) | 30 |
-| 5. | Társított rétegzett italkarton | 10 |
-| 6. | Fém (a fém ital-csomagolószer kivételével) | 10 |
-| 7. | Fém ital-csomagolószer | 30 |
-| 8. | Papír | 5 |
-| 9. | Fa, természetes alapú anyag | 10 |
-| 10. | Üveg | 10 |
-| 11. | Egyéb | 30 |
+| 2. | Műanyag (a műanyag hordtasak kivételével) | 30 |
+| 3. | Műanyag hordtasak a biológiailag lebomló műanyagból készült műanyag hordtasak kivételével | 30 |
+| 4. | Biológiailag lebomló műanyagból készült műanyag hordtasak | 8 |
+| 5. | Társított (kivéve társított rétegzett italkarton) | 30 |
+| 6. | Társított rétegzett italkarton | 10 |
+| 7. | Fém (a fém ital-csomagolószer kivételével) | 10 |
+| 8. | Fém ital-csomagolószer | 30 |
+| 9. | Papír | 5 |
+| 10. | Fa, természetes alapú anyag | 10 |
+| 11. | Üveg | 10 |
+| 12. | Egyéb | 30 |
 
 c) Elektromos, elektronikai berendezés
 

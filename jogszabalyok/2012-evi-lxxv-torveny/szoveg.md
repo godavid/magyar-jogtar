@@ -21,7 +21,7 @@ Az Országgyűlés a gazdaság és a turizmus élénkítése, az egyes építés
 
 3. §
 
-4. § (1) Az épített környezet alakításáról és védelméről szóló törvény településrendezési eszközökre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+4. § (1) Az épített környezet alakításáról és védelméről szóló törvény településrendezési tervre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (2) A beruházás területére vonatkozó településrendezési szabályok a következők:
 
@@ -50,7 +50,7 @@ Az Országgyűlés a gazdaság és a turizmus élénkítése, az egyes építés
 
 #### 3. Záró rendelkezések
 
-7. § Ez a törvény a kihirdetését követő napon lép hatályba, és 2021. december 31-én hatályát veszti.
+7. § Ez a törvény a kihirdetését követő napon lép hatályba.
 
 8. § A 2. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 

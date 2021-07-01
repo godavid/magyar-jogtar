@@ -88,7 +88,7 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 - b) szerződés szerinti havi jövedelem:
   - ba) betegszabadságra jogosultak esetén az ellátásra való jogosultság kezdő napjának hónapjára számított távolléti díj, illetve az illetmény egy hónapra járó összege,
   - bb) egészségügyi szabadságra jogosultak esetében az ellátásra való jogosultság kezdő napjának hónapjára számított, egészségügyi szabadság idejére járó távolléti díj,
-  - bc) egyéni és társas vállalkozók esetében a jogosultság kezdő napján érvényes minimálbér,
+  - bc) egyéni és társas vállalkozók esetében a jogosultság kezdő napján érvényes kötelező legkisebb munkabér (a továbbiakban: minimálbér),
   - bd) a Tbj. 6. § (1) bekezdés f) pontja esetében a 30 napot meg nem haladó biztosítási jogviszony esetén az ellátásra való jogosultság kezdő napján érvényes minimálbér, egyéb esetben a jogviszony alapjául szolgáló szerződésben meghatározott díj,
   - be) mezőgazdasági őstermelő esetében a jogosultság kezdő napján érvényes minimálbér 92 százaléka,
 - c) az egészségbiztosítás pénzbeli ellátásai: a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj és a táppénz;
@@ -1074,11 +1074,11 @@ PÉNZBELI ELLÁTÁSAI
 
 ### Általános rendelkezések
 
-39. § (1) Az, aki ugyanazon biztosítási jogviszony alapján egyidejűleg táppénzre vagy baleseti táppénzre, csecsemőgondozási díjra, illetve gyermekgondozási díjra is jogosult, választása szerint – az e törvényben foglalt kivételekkel – csak az egyik ellátást veheti igénybe.
+39. § (1) Az, aki ugyanazon biztosítási jogviszony alapján egyidejűleg táppénzre vagy baleseti táppénzre, csecsemőgondozási díjra, örökbefogadói díjra, illetve gyermekgondozási díjra is jogosult, választása szerint – az e törvényben foglalt kivételekkel – csak az egyik ellátást veheti igénybe.
 
 (2) Az, aki ugyanazon gyermek jogán egyidejűleg gyermekgondozást segítő ellátásra, gyermeknevelési támogatásra (a továbbiakban együtt: gyermekgondozási támogatás) és az (1) bekezdés szerinti ellátásokra is jogosult, választása szerint csak az egyik ellátást veheti igénybe, kivéve azt a személyt, aki gyermekgondozási támogatás, illetve gyermekgondozási díj, örökbefogadói díj, igénybevétele mellett munkát vállal és keresőképtelenségére tekintettel táppénzre vagy baleseti táppénzre jogosult.
 
-(3) Ha a szülők a közös háztartásukban élő gyermekük után egyidejűleg jogosultak táppénzre, csecsemőgondozási díjra, gyermekgondozási díjra, valamint gyermekgondozási támogatásra, választásuk szerint – a (7) bekezdésben foglaltakat kivéve – az ellátást csak az egyik szülő veheti igénybe.
+(3) Ha a szülők a közös háztartásukban élő gyermekük után egyidejűleg jogosultak táppénzre, csecsemőgondozási díjra, örökbefogadói díjra, gyermekgondozási díjra, valamint gyermekgondozási támogatásra, választásuk szerint – a (7) bekezdésben foglaltakat kivéve – az ellátást csak az egyik szülő veheti igénybe.
 
 (4) A szülő a különböző korú gyermekei jogán a gyermekgondozást segítő ellátást és az (1) bekezdés szerinti ellátásokat egyidejűleg is igénybe veheti.
 
@@ -1148,19 +1148,12 @@ PÉNZBELI ELLÁTÁSAI
 
 a gyermek születését követő 168. napig jár, ha a (4) bekezdés a)–h) pontja szerinti feltételek bármelyikének bekövetkezése napján az (1) bekezdésben meghatározottak a (4) bekezdés alapján jogosult személy tekintetében fennállnak.
 
-41. § (1) Nem jár csecsemőgondozási díj a biztosítottnak
-
-- a) a szülési szabadságnak arra a tartamára, amelyre a teljes keresetét megkapja,
-- b) ha bármilyen jogviszonyban – ide nem értve a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenységet – keresőtevékenységet folytat.
-
-(2) Annak a biztosítottnak, aki a keresetét részben kapja meg, csak az elmaradt keresete után jár csecsemőgondozási díj.
-
-(3) Az (1) bekezdés b) pontja alkalmazásában nem minősül keresőtevékenységnek az ellátásra való jogosultság kezdőnapját megelőzően végzett tevékenységből származó jövedelem – ideértve a szerzői jog védelme alatt álló alkotásért járó díjazást és a személyijövedelemadó-mentes tiszteletdíjat is –, ha az az ellátás folyósításának ideje alatt kerül kifizetésre.
+41. § Nem jár csecsemőgondozási díj a biztosítottnak, ha bármilyen jogviszonyban – ide nem értve a nevelőszülői foglalkoztatási jogviszonyt – keresőtevékenységet folytat.
 
 42. § (1) A csecsemőgondozási díj összege – figyelemmel a (4c) bekezdésben foglaltakra –
 
-- a) a (2) és (3) bekezdés szerinti esetben a naptári napi alap 70%-a,
-- b) a (4) bekezdés szerinti esetben a naptári napi jövedelem 70%-a.
+- a) a (2) és (3) bekezdés szerinti esetben a naptári napi alap 100%-a,
+- b) a (4) bekezdés szerinti esetben a naptári napi jövedelem 100%-a.
 
 (2) A csecsemőgondozási díj naptári napi alapját a 48. § (1) és (2) bekezdésében foglaltak szerint kell megállapítani.
 
@@ -1197,7 +1190,7 @@ a gyermek születését követő 168. napig jár, ha a (4) bekezdés a)–h) pon
 - b) a Gyvtv. 84. §-a szerinti gyermekvédelmi gyám és
 - c) a nevelőszülő, függetlenül attól, hogy a nála elhelyezett, gyermekvédelmi gondoskodás alatt álló gyermek tekintetében kirendelték-e gyámként.
 
-(3) Ha a nevelőszülő a nevelőszülői foglalkoztatási jogviszonya mellett egyidejűleg fennálló Tbj. 6. §-a szerinti biztosítási jogviszonnyal rendelkezik és ezen jogviszonyában azon nevelt gyermekére tekintettel válik jogosulttá gyermekgondozási díjra, amelyre a 42/F. § szerinti gyermekgondozási díj került megállapításra, az (1) bekezdés a) pontja alkalmazásakor a nevelőszülőt szülőnek kell tekinteni azzal, hogy az ellátásra való jogosultság kezdőnapját a nevelőszülő valamennyi biztosítási jogviszonya tekintetében a 42/F. § (4) bekezdése szerint kell megállapítani.
+(3) Ha a nevelőszülő a nevelőszülői foglalkoztatási jogviszonya mellett egyidejűleg fennálló Tbj. 6. §-a szerinti biztosítási jogviszonnyal rendelkezik és ezen jogviszonyában azon nevelt gyermekére tekintettel válik jogosulttá gyermekgondozási díjra, amelyre a 42/F. § szerinti gyermekgondozási díj került megállapításra, az (1) bekezdés a) pontja alkalmazásakor a nevelőszülőt szülőnek kell tekinteni azzal, hogy az ellátásra való jogosultság kezdőnapját a nevelőszülő valamennyi biztosítási jogviszonya tekintetében a 42/F. § (4) bekezdése szerint kell megállapítani, és a 365 nap biztosítási idő meglétét a nevelésbe vett gyermek gondozási helyének a nevelőszülőnél történő kijelölését megelőző két éven belül kell vizsgálni.
 
 (4) A gyermekgondozási díjra történő jogosultsághoz szükséges előzetes 365 napi biztosítási időbe be kell számítani
 
@@ -1220,9 +1213,9 @@ a gyermek születését követő 168. napig jár, ha a (4) bekezdés a)–h) pon
 42/C. § (1) Nem jár a gyermekgondozási díj, ha
 
 - a)
-- b) a jogosult a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés i) pontjában meghatározott egyéb rendszeres pénzellátásban részesül, ide nem értve a táppénzt, a baleseti táppénzt, a csecsemőgondozási díjat, az örökbefogadói díjat, a gyermekgondozási díjat, a gyermekgondozási támogatást, a jogosult nem ugyanazon gyermekére tekintettel megállapított gyermekek otthongondozási díját, az álláskeresési járadékot és segélyt, a vállalkozói és a munkanélküli járadékot, valamint az álláskeresést ösztönző juttatást, vagy ha a jogosult rendszeres pénzellátásban részesül és a csecsemőgondozási díjra, az örökbefogadói díjra, vagy a gyermekgondozási díjra való jogosultság kezdő napján társadalombiztosítási járulék fizetésére kötelezett;
+- b) a jogosult a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés i) pontjában meghatározott egyéb rendszeres pénzellátásban részesül, ide nem értve a táppénzt, a baleseti táppénzt, a csecsemőgondozási díjat, az örökbefogadói díjat, a gyermekgondozási díjat, a gyermekgondozási támogatást, a jogosult nem ugyanazon gyermekére tekintettel megállapított gyermekek otthongondozási díját, a Tbj. szerinti álláskeresési támogatást, a rokkantsági ellátást és a rehabilitációs ellátást;
 - c) a gyermeket ideiglenes hatállyal elhelyezték, nevelésbe vették, továbbá ha harminc napot meghaladóan bentlakásos szociális intézményben helyezték el;
-- d) a gyermeket napközbeni ellátást biztosító intézményben (bölcsőde, mini bölcsőde, munkahelyi bölcsőde, családi bölcsőde, napközbeni gyermekfelügyelet) helyezték el, kivéve ha a jogosult keresőtevékenységet folytat, továbbá ide nem értve a rehabilitációs, habilitációs foglalkozást nyújtó intézményi elhelyezést;
+- d) a gyermeket bölcsődében, mini bölcsődében, munkahelyi bölcsődében, családi bölcsődében vagy napközbeni gyermekfelügyeletben helyezték el, kivéve, ha a jogosult keresőtevékenységet folytat, nappali rendszerű oktatás keretében iskolában, szakképző intézményben tanul, vagy felsőoktatási intézményben nappali képzésben vesz részt, vagy az intézmény, ahol a gyermeket elhelyezték, rehabilitációs, habilitációs foglalkoztatást nyújt;
 - e) a jogosult letartóztatásban van, vagy szabadságvesztést, elzárást tölt;
 - f)
 - g) a gyermek a gyermekgondozási díjra való jogosultság ideje alatt meghal, az elhalálozás időpontját követő hónap első napjától, vagy ha addig a halál időpontjától számítva 15 napnál kevesebb van hátra, akkor az elhalálozást követő 16. naptól;
@@ -1245,7 +1238,7 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 (3) Ha a naptári napi alap nem állapítható meg a (2) bekezdésben foglaltak szerint, akkor a naptári napi alap a jogosultság kezdő napján érvényes minimálbér kétszeresének harmincad része azzal, hogy ha a biztosított naptári napi jövedelme a minimálbér kétszeresének harmincad részét nem éri el, a gyermekgondozási díj összegének megállapításánál a biztosított tényleges jövedelmét kell figyelembe venni. Tényleges jövedelem hiányában a szerződés szerinti jövedelmet kell figyelembe venni.
 
-(4) A maximális összegben megállapított gyermekgondozási díj összegét minden év január 15-éig hivatalból felül kell vizsgálni, és a tárgyévre érvényes összeghatár figyelembevételével január 1-jei időponttól újra meg kell állapítani.
+(4) A maximális összegben megállapított gyermekgondozási díj összegét a minimálbér emelésének napjától számított 15 napon belül hivatalból felül kell vizsgálni, és a megemelt összeghatár figyelembevételével, – ha kormányrendelet korábbi időpontot nem állapít meg – a minimálbér emelésének napjára visszamenőlegesen újra meg kell állapítani.
 
 (5) Ha a gyermek gyermekgondozási díj vagy gyermekgondozást segítő ellátás igénybevétele alatt, vagy annak megszűnését követő egy éven belül születik, és az újabb gyermek születését megelőzően utolsóként született gyermek jogán megállapított csecsemőgondozási díj naptári napi alapja magasabb összegű, mint a (2) és (3) bekezdés alapján számított gyermekgondozási díj naptári napi alapja, akkor a magasabb naptári napi alap alapján kell az ellátást megállapítani.
 
@@ -1255,11 +1248,11 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 (8) Ugyanazon személy részére ugyanazon gyermeke jogán benyújtott gyermekgondozási díj iránti kérelmet ismételten elbírálni nem lehet, a gyermekgondozási díjat a (7) bekezdés szerinti határozatban megállapított összegben kell tovább folyósítani.
 
-(9) Ha a biztosított egyidejűleg fennálló több jogviszony alapján jogosult gyermekgondozási díjra, a jogviszonyonként megállapított díjak összegét egybe kell számítani. Az ellátás összege egybeszámítás esetén sem haladhatja meg az (1) bekezdésben megállapított legmagasabb összeget. Amennyiben az ellátás egybeszámított összege meghaladná az (1) bekezdésben megállapított legmagasabb összeget, a gyermekgondozási díj összegét minden év január 15-éig hivatalból felül kell vizsgálni, és a tárgyévre érvényes összeghatár figyelembevételével január 1-jei időponttól újra meg kell állapítani.
+(9) Ha a biztosított egyidejűleg fennálló több jogviszony alapján jogosult gyermekgondozási díjra, a jogviszonyonként megállapított díjak összegét egybe kell számítani. Az ellátás összege egybeszámítás esetén sem haladhatja meg az (1) bekezdésben megállapított legmagasabb összeget. Amennyiben az ellátás egybeszámított összege meghaladná az (1) bekezdésben megállapított legmagasabb összeget, a gyermekgondozási díj összegét a minimálbér emelésének napjától számított 15 napon belül hivatalból felül kell vizsgálni, és a megemelt összeghatár figyelembevételével, – ha kormányrendelet korábbi időpontot nem állapít meg – a minimálbér emelésének napjára visszamenőlegesen újra meg kell állapítani.
 
 (10) Ha a biztosított több gyermek után jogosult egyidejűleg gyermekgondozási díjra, úgy az (1) bekezdés szerinti maximális összeget gyermekenként kell megállapítani.
 
-(11) Ha a biztosított ugyanazon nevelt gyermekre tekintettel a 42/A. § és a 42/F. § szerint is jogosult gyermekgondozási díjra, az így megállapított gyermekgondozási díjak együttes összege nem haladhatja meg az (1) bekezdésben meghatározott maximális összeget. Ha az ellátás egybeszámított összege meghaladná az (1) bekezdésben megállapított legmagasabb összeget, a gyermekgondozási díj összegét minden év január 15-éig hivatalból felül kell vizsgálni, és a tárgyévre érvényes összeghatár figyelembevételével január 1-jei időponttól újra meg kell állapítani.
+(11) Ha a biztosított ugyanazon nevelt gyermekre tekintettel a 42/A. § és a 42/F. § szerint is jogosult gyermekgondozási díjra, az így megállapított gyermekgondozási díjak együttes összege nem haladhatja meg az (1) bekezdésben meghatározott maximális összeget. Ha az ellátás egybeszámított összege meghaladná az (1) bekezdésben megállapított legmagasabb összeget, a gyermekgondozási díj összegét a minimálbér emelésének napjától számított 15 napon belül hivatalból felül kell vizsgálni, és a megemelt összeghatár figyelembevételével, – ha kormányrendelet korábbi időpontot nem állapít meg – a minimálbér emelésének napjára visszamenőlegesen újra meg kell állapítani.
 
 42/E. § (1) A 42/A. § (1) bekezdésében foglaltakon túl gyermekgondozási díjra jogosult az a szülő nő is,
 
@@ -1287,7 +1280,7 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 (5) Az (1), illetve a (3) bekezdés alapján megállapított gyermekgondozási díj havi összege
 
-- a) a felsőfokú alapképzésben, felsőfokú szakképzésben vagy felsőoktatási szakképzésben, valamint a szakirányú továbbképzésben részt vevő hallgató esetén a jogosultság kezdő napján érvényes kötelező legkisebb munkabér,
+- a) a felsőfokú alapképzésben, felsőfokú szakképzésben vagy felsőoktatási szakképzésben, valamint a szakirányú továbbképzésben részt vevő hallgató esetén a jogosultság kezdő napján érvényes minimálbér,
 - b) a mesterképzésben, egységes, osztatlan képzésben vagy doktori képzésben részt vevő hallgató esetén a jogosultság kezdő napján érvényes garantált bérminimum
 
 70 százaléka.
@@ -1298,11 +1291,11 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 (8) Ha az (1) vagy a (3) bekezdés alapján gyermekgondozási díjra jogosult személy az (1) bekezdés a) pont ab) alpontja szerinti hallgatói jogviszony megszűnését követő 1 éven belül válik jogosulttá az ellátásra és az ellátás összege nem állapítható meg a (6) bekezdés alapján, a gyermekgondozási díj összegét az (5) bekezdés a) vagy b) pontja szerint kell megállapítani.
 
-(9) Az (5) és a (6) bekezdés alapján megállapított gyermekgondozási díj összegét minden év január 15-éig hivatalból felül kell vizsgálni és a tárgyévre érvényes kötelező legkisebb munkabér, illetve garantált bérminimum figyelembevételével január 1-jei időponttól újra meg kell állapítani.
+(9) Az (5)–(8) bekezdés alapján megállapított gyermekgondozási díj összegét a minimálbér, illetve a garantált bérminimum emelésének napjától számított 15 napon belül hivatalból felül kell vizsgálni, és a megemelt minimálbér, illetve garantált bérminimum figyelembevételével, – ha kormányrendelet korábbi időpontot nem állapít meg – az emelés napjára visszamenőlegesen újra meg kell állapítani.
 
 (10) Az (1)–(9) bekezdés szerint megállapított gyermekgondozási díjra a 42/B–42/D. § rendelkezései közül azokat kell alkalmazni, amelyektől eltérő rendelkezést az (1)–(9) bekezdés nem tartalmaz.
 
-42/F. § (1) A 42/A. § (1) bekezdésében és a 42/E. § (1) bekezdésében foglaltakon túl gyermekgondozási díjra jogosult a nevelőszülő a nevelőszülői foglalkoztatási jogviszony fennállásának időtartama alatt a nevelt gyermekre tekintettel, ha a nevelőszülő a nevelt gyermek nevelésbe vételét megelőző két éven belül 365 napon át biztosított volt és a gyermeket saját háztartásában neveli.
+42/F. § (1) A 42/A. § (1) bekezdésében és a 42/E. § (1) bekezdésében foglaltakon túl gyermekgondozási díjra jogosult a nevelőszülő a nevelőszülői foglalkoztatási jogviszony fennállásának időtartama alatt a nevelésbe vett gyermekre tekintettel, ha a nevelőszülő a nevelt gyermek gondozási helyének nála történő kijelölését megelőző két éven belül 365 napon át biztosított volt és a gyermeket saját háztartásában neveli.
 
 (2) A gyermek születését követő 169. napot megelőzően a nevelőszülő részére nem jár az (1) bekezdés szerinti gyermekgondozási díj arra az időszakra, amikor a nevelőszülő bármilyen jogviszonyban – ide nem értve a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenységet – keresőtevékenységet folytat.
 
@@ -1316,7 +1309,7 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 
 (7) Az (1)–(6) bekezdés szerint megállapított gyermekgondozási díjra alkalmazni kell a 42/A. § (4) bekezdését, a 42/C. § (1) és (3) bekezdését, a 42/D. § (4), (7) és (8) bekezdését azzal, hogy a 42/C. § (1) bekezdés d) pontja alkalmazásában nem minősül keresőtevékenységnek a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység.
 
-42/G. § (1) A gyermekgondozási díjra a 42/A. § (1) bekezdése alapján jogosult személy (e § alkalmazásában a továbbiakban: alapjogosult) jogán annak vagy az alapjogosulttal együtt élő házastársának – ide nem értve a családbafogadó gyám házastársát – vér szerinti és örökbe fogadó biztosított szülője, továbbá a biztosított szülővel együtt élő biztosított házastárs (a továbbiakban együtt: nagyszülő) is jogosult a gyermekgondozási díjra, ha
+42/G. § (1) A gyermekgondozási díjra a 42/A. § (1) bekezdése alapján jogosult személy (e § alkalmazásában a továbbiakban: alapjogosult) jogán annak vagy az alapjogosulttal együtt élő házastársának – ide nem értve a családbafogadó gyám házastársát – vér szerinti és örökbe fogadó biztosított szülője, továbbá a szülővel együtt élő biztosított házastárs (a továbbiakban együtt: nagyszülő) is jogosult a gyermekgondozási díjra, ha
 
 - a) a nagyszülő a gyermek születését megelőző két éven belül legalább 365 napon át biztosított volt,
 - b) a gyermek közös háztartásban élő mindkét szülője – egyedülálló alapjogosult esetében az alapjogosult – az ellátás nagyszülő részére történő folyósítása alatt a Tbj. 5. §-a szerinti jogviszony – ide nem értve a nevelőszülői foglalkoztatási jogviszonyt – alapján biztosítottként keresőtevékenységet végez,
@@ -1476,7 +1469,7 @@ azzal, hogy táppénz egy napra járó összege nem haladhatja meg a jogosultsá
 (4) A méltányosságból megállapítható pénzbeli ellátások folyósításának idejét és összegét az egészségbiztosító a méltányossági kérelem elbírálása során az V. fejezetben foglaltaktól eltérően határozhatja meg, azzal, hogy az összege nem haladhatja meg
 
 - a) csecsemőgondozási díj esetén a 42. § (3) bekezdése szerinti összeget,
-- b) gyermekgondozási díj esetén a 48. § (4) bekezdése szerinti összeget,
+- b) gyermekgondozási díj esetén a 42/D. § (1) bekezdése szerinti összeget,
 - c) az (1) bekezdés szerinti táppénz esetén – a biztosítási idő figyelembevételével – a 48. § (7) bekezdése szerinti összeget.
 
 (5) Az egészségbiztosító méltányosságból a biztosítottat és a kizárólag egészségügyi szolgáltatásra jogosult személyt indokolt esetben segélyben részesítheti.
@@ -2018,6 +2011,8 @@ kell érteni.
 82/P. § Az egyes szociális, gyermekvédelmi tárgyú, valamint egyéb kapcsolódó törvények módosításáról szóló 2018. évi CXVII. törvénnyel megállapított 42/F. § szerinti jogosultságra vonatkozó rendelkezéseket – ha az egyéb jogosultsági feltételek fennállnak – azon 2020. január 1-jén nevelőszülői foglalkoztatási jogviszonyban nevelt gyermekre tekintettel is alkalmazni kell, akinek elhelyezéséről a gyámhatóság 2020. január 1-jét megelőzően hozott véglegessé vált döntést.
 
 82/Q. § Az egyes szociális, gyermekvédelmi tárgyú, valamint egyéb kapcsolódó törvények módosításáról szóló 2018. évi CXVII. törvénnyel megállapított 42/H. § szerinti örökbefogadói díjra való jogosultságra vonatkozó rendelkezéseket – ha az egyéb jogosultsági feltételek fennállnak – a 2019. december 31-ét követően örökbefogadási szándékkal nevelésbe vett gyermekek esetén kell alkalmazni.
+
+82/R. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvénynek a csecsemőgondozási díj emelésével összefüggő módosításáról szóló 2020. évi CXXXIV. törvény által megállapított 42. § (1) bekezdés a) és b) pontját a 2021. július 1-jén fennálló jogosultságra is alkalmazni kell.
 
 ### Záró rendelkezések
 

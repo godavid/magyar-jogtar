@@ -2583,7 +2583,7 @@ felülvizsgálja, és a hatályos szabályozásnak megfelelően módosítja.
 
 (32) Ha az e törvény hatálybalépését követően, de a módosító törvény hatálybalépése előtt jóváhagyott körzeti erdőterv lejártáig az e törvény szerinti erdőterv nem kerül meghatározásra, akkor az új erdőterv véglegessé válásáig az erdőtervet az erdészeti hatóság az erdőgazdálkodó kérelmére állapítja meg.
 
-114. § Az Országos Erdőállomány Adattárból a 113. § (24) vagy (27) bekezdése szerinti kivezetést vagy átminősítést át kell vezetni az ingatlan-nyilvántartás szerinti művelési ágban, továbbá a településrendezési eszközökön is. Az erdészeti hatóság a határozat véglegessé válásától számított 8 napon belül köteles hivatalból megkeresni az ingatlanügyi hatóságot az ingatlan-nyilvántartásnak, a települési önkormányzatot a településrendezési eszközöknek az Országos Erdőállomány Adattárral történő összhangba hozatala érdekében.
+114. § Az Országos Erdőállomány Adattárból a 113. § (24) vagy (27) bekezdése szerinti kivezetést vagy átminősítést át kell vezetni az ingatlan-nyilvántartás szerinti művelési ágban, továbbá a településrendezési terveken is. Az erdészeti hatóság a határozat véglegessé válásától számított 8 napon belül köteles hivatalból megkeresni az ingatlanügyi hatóságot az ingatlan-nyilvántartásnak, a települési önkormányzatot a településrendezési terveknek az Országos Erdőállomány Adattárral történő összhangba hozatala érdekében.
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
@@ -2600,6 +2600,8 @@ felülvizsgálja, és a hatályos szabályozásnak megfelelően módosítja.
 - e) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+116. § Ez a törvény a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, (EU) 2018/2001 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 ### 1. melléklet a 2009. évi XXXVII. törvényhez
 

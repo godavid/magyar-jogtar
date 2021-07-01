@@ -3935,6 +3935,14 @@ vonatkozó adatokat kezelhet.
 
 (6c) A Gyermekeink védelmében elnevezésű informatikai rendszerbe bekerülő (2) bekezdés a)–c) pontja és az (5) bekezdés szerinti személyek azonosítása, adatainak ellenőrzése céljából a kincstár a Tbj. 57. § (1) bekezdése szerinti nyilvántartásából átadja a Gyermekeink védelmében elnevezésű informatikai rendszer számára a Tbj. 57. § (2) bekezdés a)–i) és o) pontja szerinti adatokat.
 
+(6d) A törvényben meghatározott feladata teljesítése érdekében a feladatkörében eljáró bíróság, ügyészség, nyomozó hatóság, pártfogó felügyelői szolgálat és büntetés-végrehajtási intézet jogosult közvetlen adatigényléssel megismerni a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrendszeréből, hogy
+
+- a) az az adott gyermekre tartalmaz-e adatot,
+- b) ha az adott gyermekre tartalmaz adatot, akkor ki a gyermek törvényes képviselője, és ha van rá adat,
+  - ba) a gyermek szülőjének, családbafogadó gyámjának a lakcímét, elérhetőségét,
+  - bb) a gyermek gyermekvédelmi gyámjának és az utógondozói ellátásban részesülő fiatal felnőtt hivatásos gondnokának a hivatalos elérhetőségét, és
+- c) a gyermek ügyében mely gyermekjóléti, gyermekvédelmi szolgáltató és gyámhatóság jár vagy járt el.
+
 (7) Gyámhatóság, a gyermekjóléti központ vezetője és a területi gyermekvédelmi szakszolgálat vezetője kezelheti a (2) bekezdés ai) és bf) alpontjában meghatározott adatokat. Ezeket a felsorolt szervek és személyek a 15. § (1)–(5) bekezdésében meghatározott szolgáltatások, ellátások nyújtása és intézkedések megtétele vagy azok ellenőrzése, illetve az áldozatsegítő központ tevékenységének elősegítése céljából egymásnak, illetve az áldozatsegítő szolgálatnak átadhatják.
 
 (8) Az országos örökbefogadást elősegítő szerv a gyermek belföldön történő örökbefogadásának elősegítése, a nevelésbe vett gyermek belföldi örökbefogadására tett intézkedések eredménytelenségének megállapítása és a származás megismeréséhez való jog érvényesülésének biztosítása céljából kezeli

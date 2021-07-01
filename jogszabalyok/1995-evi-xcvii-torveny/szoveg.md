@@ -61,6 +61,12 @@ látja el.
 
 (3) A miniszter látja el – az általa kijelölt szervezet útján – a légiközlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatokat. A kijelölt szervezet számára – a külön jogszabályban meghatározott forrásból a miniszter által vezetett minisztérium igazgatása terhére – a miniszter döntése alapján támogatás is nyújtható.
 
+(4) A légiközlekedési szakszemélyzeti képesítések és vizsgáztatói tanúsítás – ide nem értve a léginavigációs szolgáltatásokat nyújtó, valamint a léginavigációs szolgáltatások nyújtását közvetlenül támogató munkakörökben foglalkoztatottak képesítéseit és azok vizsgáztatói tanúsítását – megszerzéséhez szükséges vizsgáztatást – jogszabály eltérő rendelkezése hiányában – e törvény felhatalmazása alapján a Kormány által a közúti közlekedési, a hajózási, valamint a vasúti vizsgáztatásra kijelölt közlekedési vizsgaközpont (a továbbiakban: légiközlekedési vizsgaközpont) végzi.
+
+(4a) A személyiadat- és lakcímnyilvántartást kezelő szerv a vizsgaközpont adatkérése alapján a légiközlekedési szakszemélyzeti képesítések és vizsgáztatói tanúsítás megszerzéséhez szükséges vizsgára jelentkezők adatainak ellenőrzése céljából díjmentesen átadja a vizsgán résztvevők, valamint a vizsgára jelentkezők természetes személyazonosító adatait.
+
+(4b) A személyiadat- és lakcímnyilvántartást kezelő szerv a légiközlekedési hatóság adatkérése alapján a pilóta nélküli légijármű-rendszerekről, valamint a pilóta nélküli légijármű-rendszer üzemben tartókról vezetett nyilvántartáshoz kapcsolódóan a kérelmezők adatainak ellenőrzése céljából díjmentesen átadja a résztvevők, valamint jelentkezők természetes személyazonosító adatait.
+
 ### Hatósági jogkör
 
 3. § (1) A légiközlekedés hatósági feladatait légiközlekedési hatóság látja el. A légiközlekedési hatóság az e törvényben, a polgári légi közlekedés területén alkalmazandó közös szabályokról és az Európai Unió Repülésbiztonsági Ügynökségének létrehozásáról és a 2111/2005/EK, az 1008/2008/EK, a 996/2010/EU, a 376/2014/EU európai parlamenti és tanácsi rendelet és a 2014/30/EU és a 2014/53/EU európai parlamenti és tanácsi irányelv módosításáról, valamint az 552/2004/EK és a 216/2008/EK európai parlamenti és tanácsi rendelet és a 3922/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 2018. július 4-i (EU) 2018/1139 tanácsi rendeletben (a továbbiakban: 2018/1139/EU európai parlamenti és tanácsi rendelet) és annak végrehajtási rendeleteiben meghatározott feladatai ellátását az előírt feltételek teljesülése esetén minősített szervezetekre átruházhatja.
@@ -213,6 +219,8 @@ jogosult hatósági eljárás esetén, a döntés véglegessé válásának idő
 (8) A védelmi oktató és védelmi tiszt kijelölésének jóváhagyása iránti kérelem benyújtásával egyidejűleg a légiközlekedési hatóság a 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.3. pont b) alpontja alapján a kérelmezőnek a bűnügyi nyilvántartásból megkért adatait a kijelölés jóváhagyása iránti kérelem jóváhagyási eljárásának befejezéséig kezeli.
 
 (9) A pilóta nélküli légijárművekre vonatkozó szabályok megsértése miatt indult eljárással összefüggésben az eljáró hatóság a pilóta nélküli légijárművet használatba adó üzembentartó és a pilóta nélküli légijárművet használatba vevő, valamint távoli pilóta természetes személy esetén a személyazonosító adataira, lakcímére, jogi személy esetén annak megnevezésére, székhelyére vonatkozó adatokat az eljárás lefolytatása, a tényállás megállapítása és a döntés meghozatala, a jogorvoslati eljárások lefolytatása érdekében a pilóta nélküli légijárművekre vonatkozó szabályok megsértése miatt indult eljárás kezdetétől kezeli a döntés véglegessé válásától számított öt év elteltéig.
+
+(10) A légiközlekedési vizsgaközpont az e törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott vizsgáztatási tevékenységével összefüggésben jogosult a légiközlekedési szakszemélyzeti képesítések megszerzéséhez szükséges vizsgára jelentkező és a vizsgát tett személy természetes személyazonosító adatait, képesítéssel kapcsolatos adatait kezelni és ezek hitelességének utólagos igazolása céljából – uniós jogi aktus vagy törvény eltérő rendelkezése hiányában – nyilvántartani a vizsga teljesítését követő 40 évig.
 
 3/B. § (1) A légiközlekedési hatóság jogosult külföldi lajstromba felvett polgári légijárművet (a továbbiakban: külföldi légijármű) és annak személyzetét Magyarország területén ellenőrizni. A légiközlekedési hatóság az ellenőrzésről jelentést készít.
 
@@ -1271,7 +1279,7 @@ köteles elhelyezni és karbantartani.
 - a) neve: HungaroControl Magyar Légiforgalmi Szolgálat Zártkörűen Működő Részvénytársaság (a továbbiakban: Társaság);
 - b) székhelye: H-1185 Budapest, Igló u. 33–35.;
 - c) alapítója és egyedüli részvényese: a Magyar Állam;
-- d) az alapítói és részvényesi jogok gyakorlója: az állami vagyon felügyeletéért felelős miniszter.
+- d)
 
 (3) A Társaság feladatai:
 
@@ -1759,6 +1767,7 @@ rendszeres belépésre jogosító személyazonosító kártyát igénylő szemé
 - c) a közlekedésbiztonsági szervet vagy szerveket, valamint
 - d) az állami közlekedésbiztonsági szervet vagy szerveket,
 - e) a repülésmeteorológiai szolgáltatót vagy szolgáltatókat.
+- f) a légiközlekedési vizsgaközpontot.
 
 (3) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
@@ -1773,6 +1782,8 @@ rendszeres belépésre jogosító személyazonosító kártyát igénylő szemé
 - i) az állami repülések céljára szolgáló repülőterek létesítésének, fejlesztésének és megszüntetésének, valamint a közös felhasználású repülőtérré történő fejlesztésnek, üzemben tartásának, üzemeltetésének részletes szabályait,
 - j) a légvédelmi készenléti szolgálat riasztásából eredő költségek megtérítésének részletes szabályait,
 - k) a légiközlekedési hatóság által – közigazgatási hatósági hatáskörében eljárva – alkalmazandó kiegészítő eljárási szabályokat.
+- l) a légiközlekedési vizsgaközpont tevékenysége tekintetében a felügyeleti szervet, a felügyeleti szerv feladat- és hatáskörét, illetékességét, továbbá működési rendjét és eljárását,
+- m) a légiközlekedési vizsgaközpont felügyeleti szerve által kiszabható bírság megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait.
 
 73/A. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket.
 
