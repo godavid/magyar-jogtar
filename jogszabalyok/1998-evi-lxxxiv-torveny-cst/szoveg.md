@@ -98,11 +98,11 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
   - ab) a tankötelezettsége megszűnését követően köznevelési intézményben vagy szakképző intézményben tanulmányokat folytató gyermekre (személyre) tekintettel annak a tanévnek az utolsó napjáig, amelyben a gyermek (személy) a huszadik – a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény alapján fogyatékossági támogatásra nem jogosult, de sajátos nevelési igényű tanuló esetében huszonharmadik – életévét betölti; továbbá
 - b) a javítóintézet igazgatója vagy a büntetés-végrehajtási intézet parancsnoka a javítóintézetben nevelt vagy a büntetés-végrehajtási intézetben lévő, és gyermekvédelmi gondoskodás alatt álló,
   - ba) tanköteles gyermekre tekintettel a tankötelezettség teljes időtartamára,
-  - bb) a tankötelezettsége megszűnését követően köznevelési intézményben tanulmányokat folytató gyermekre tekintettel annak a tanévnek az utolsó napjáig, amelyben a gyermek a tizennyolcadik életévét betölti.
+  - bb) a tankötelezettsége megszűnését követően köznevelési intézményben vagy szakképző intézményben tanulmányokat folytató gyermekre tekintettel annak a tanévnek az utolsó napjáig, amelyben a gyermek a tizennyolcadik életévét betölti.
 
 (2) A súlyos és halmozottan fogyatékos tanuló szülője a tankötelezettség teljesítésének formájától függetlenül a tankötelezettség teljesítésének végéig jogosult iskoláztatási támogatásra.
 
-(3) Saját jogán jogosult iskoláztatási támogatásra az a köznevelési intézményben a tankötelezettsége megszűnését követően tanulmányokat folytató személy,
+(3) Saját jogán jogosult iskoláztatási támogatásra az a köznevelési intézményben vagy szakképző intézményben a tankötelezettsége megszűnését követően tanulmányokat folytató személy,
 
 - a) akinek mindkét szülője elhunyt,
 - b) akinek a vele egy háztartásban élő hajadon, nőtlen, elvált vagy házastársától különélő szülője elhunyt,
@@ -115,7 +115,7 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 (4) Az iskoláztatási támogatást a tankötelezettség fennállása alatt a tanulói jogviszony szünetelésének időtartamára is folyósítani kell.
 
-(5) A tanulói jogviszony, a hallgatói jogviszony, illetve a felnőttképzési jogviszony egyidejű fennállása esetén az iskoláztatási támogatásra való jogosultság akkor állapítható meg, ha a tanulói jogviszony a nemzeti köznevelésről szóló törvény szerinti középfokú iskolával vagy a felnőttképzési jogviszony a szakképzésről szóló törvény szerinti szakképző intézménnyel szemben áll fenn. A családi pótlék összegének megállapítása szempontjából az egyidejűleg tanulói jogviszonnyal, hallgatói jogviszonnyal, illetve felnőttképzési jogviszonnyal is rendelkező gyermek a 12. § (1) bekezdés a) pont aa) alpontjában foglalt jogcímen vehető figyelembe.
+(5) A tanulói jogviszony és a hallgatói jogviszony egyidejű fennállása esetén az iskoláztatási támogatásra való jogosultság akkor állapítható meg, ha a tanulói jogviszony középfokú iskolával vagy szakképző intézménnyel áll fenn. A családi pótlék összegének megállapítása szempontjából az egyidejűleg tanulói jogviszonnyal és hallgatói jogviszonnyal is rendelkező gyermek a 12. § (1) bekezdés a) pont aa) alpontjában foglalt jogcímen vehető figyelembe.
 
 ### A családi pótlékra vonatkozó közös szabályok
 
@@ -144,7 +144,7 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 - i) a 7. § (2) bekezdése szerinti személy esetén – a (2) bekezdésben foglaltak kivételével – 20 300 forint,
 - j) a gyermekotthonban, javítóintézetben, büntetés-végrehajtási intézetben vagy szociális intézményben élő, a nevelőszülőnél elhelyezett, vagy a Gyvt. 72. § (1) bekezdése alapján ideiglenes hatállyal elhelyezett, a g) vagy a h) pont alá nem tartozó gyermek esetén, a gyámhatóság által a szülői ház elhagyását engedélyező határozatban megjelölt személy esetén, ha a gyermek nem tartozik a g) vagy a h) pont alá, valamint a 8. § (3) bekezdése alá tartozó személy esetén 14 800 forint.
 
-(2) A köznevelési intézményben a tizennyolcadik életévének betöltését követően tanulmányokat folytató azon személyre tekintettel, aki után a tizennyolcadik életéve betöltéséig az (1) bekezdés g) vagy h) pontja szerinti összegben folyósítottak iskoláztatási támogatást, az iskoláztatási támogatást továbbra is a korábban folyósított összegnek megfelelő összegben kell folyósítani. Más jogszabály alkalmazásában magasabb összegű családi pótléknak minősül az (1) bekezdés g)–i) pontja szerinti, valamint az e bekezdés alapján folyósított ellátás.
+(2) A köznevelési intézményben vagy a szakképző intézményben a tizennyolcadik életévének betöltését követően tanulmányokat folytató azon személyre tekintettel, aki után a tizennyolcadik életéve betöltéséig az (1) bekezdés g) vagy h) pontja szerinti összegben folyósítottak iskoláztatási támogatást, az iskoláztatási támogatást továbbra is a korábban folyósított összegnek megfelelő összegben kell folyósítani. Más jogszabály alkalmazásában magasabb összegű családi pótléknak minősül az (1) bekezdés g)–i) pontja szerinti, valamint az e bekezdés alapján folyósított ellátás.
 
 (3) A tartósan beteg, illetve súlyosan fogyatékos gyermekre tekintettel vagy személy részére járó magasabb összegű családi pótlék annak a hónapnak a végéig jár, ameddig a betegség, súlyos fogyatékosság fennállását igazolták. Tartósan beteg, illetve súlyosan fogyatékos gyermeknél, ha állapota végleges, 18. éves koráig újabb igazolás benyújtására nincs szükség.
 
@@ -154,7 +154,7 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 - a) aki az igénylő háztartásában él, és
   - aa) akire tekintettel a szülő, a nevelőszülő, a gyám családi pótlékra jogosult,
-  - ab) aki köznevelési intézmény tanulója vagy felsőoktatási intézményben első felsőoktatási szakképzésben, első alapképzésben, első mesterképzésben vagy első egységes, osztatlan képzésben részt vevő hallgató és rendszeres jövedelemmel nem rendelkezik,
+  - ab) aki köznevelési intézmény vagy szakképző intézmény tanulója vagy felsőoktatási intézményben első felsőoktatási szakképzésben, első alapképzésben, első mesterképzésben vagy első egységes, osztatlan képzésben részt vevő hallgató és rendszeres jövedelemmel nem rendelkezik,
   - ac) aki a családi pótlékra – a 8. § (3) bekezdés e) pontja szerinti eset kivételével – saját jogán jogosult; vagy
 - b) aki fogyatékosként szociális intézményi ellátásban részesül, feltéve, hogy őt a gyámhatóság nem vette nevelésbe, és a családi pótlékot igénylő – a kormányrendeletben foglaltak szerint – vele kapcsolatot tart fenn.
 
@@ -166,7 +166,7 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 (3) A családi pótlék összegének megállapítása szempontjából egyedülállónak kell tekinteni azt a szülőt, gyámot is, aki saját maga, illetve akinek a házastársa, élettársa
 
-- a) köznevelési intézmény tanulója, felsőoktatási intézmény első oklevelet szerző hallgatója és jövedelme nincs,
+- a) köznevelési intézmény vagy szakképző intézmény tanulója, felsőoktatási intézmény első oklevelet szerző hallgatója és jövedelme nincs,
 - b) vakok személyi járadékában vagy fogyatékossági támogatásban részesül,
 - c) megváltozott munkaképességű személyek ellátásában részesül és egyéb jövedelme nincs,
 - d) nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesül, feltéve, ha nyugdíjának, ellátásának összege nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegét, és egyéb jövedelme nincs,
@@ -175,16 +175,16 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 13. § A gyermekotthonban, javítóintézetben vagy büntetés-végrehajtási intézetben lévő és gyermekvédelmi gondoskodás alatt álló, továbbá a szociális intézményben, a büntetés-végrehajtási intézet anya-gyermek részlegén vagy a javítóintézet fiatalkorú és gyermeke együttes elhelyezését biztosító részlegén elhelyezett gyermekre tekintettel járó családi pótlékot jogszabályban meghatározott eljárási rend szerint kell felhasználni.
 
-14. § Amennyiben a tizennyolcadik életévét betöltött személynek rendszeres jövedelme van, úgy a rá tekintettel vagy a részére megállapított családi pótlék folyósítását a negyedik hónaptól mindaddig szüneteltetni kell, amíg rendszeres jövedelemmel rendelkezik. A szüneteltetés a 12. § (1) bekezdése szerinti számítást nem érinti.
+14. § Amennyiben a tizennyolcadik életévét betöltött személynek rendszeres jövedelme van, úgy a rá tekintettel vagy a részére megállapított családi pótlék folyósítását – a 7. § (2) bekezdése alapján járó nevelési ellátás kivételével – a negyedik hónaptól mindaddig szüneteltetni kell, amíg rendszeres jövedelemmel rendelkezik. A szüneteltetés a 12. § (1) bekezdése szerinti számítást nem érinti.
 
 ### Az óvodai nevelésben való részvételi kötelezettség megszegésével, valamint a tankötelezettség mulasztásával összefüggő rendelkezések
 
-15. § (1) Ha az óvodai nevelésben való részvételre kötelezett, a tanköteles, vagy a tankötelezettsége megszűnését követően nevelési-oktatási intézményben tanulmányokat folytató gyermek (személy) – a (2) bekezdés szerinti kivétellel – az óvodai nevelésben való részvételi kötelezettségét megszegi, vagy a kötelező tanórai foglalkozások tekintetében igazolatlanul mulaszt, a nevelési-oktatási intézmény vezetője
+15. § (1) Ha az óvodai nevelésben való részvételre kötelezett, a tanköteles, vagy a tankötelezettsége megszűnését követően nevelési-oktatási intézményben vagy szakképző intézményben tanulmányokat folytató gyermek (személy) – a (2) bekezdés szerinti kivétellel – az óvodai nevelésben való részvételi kötelezettségét megszegi, vagy a kötelező tanórai foglalkozások tekintetében igazolatlanul mulaszt, a nevelési-oktatási intézmény, illetve a szakképző intézmény vezetője
 
 - a) az adott nevelési évben igazolatlanul mulasztott ötödik óvodai nevelési nap vagy az adott tanítási évben igazolatlanul mulasztott tizedik kötelező tanórai foglalkozás után felhívja a családi pótlék jogosultját a b) pontban meghatározott jogkövetkezményre,
 - b) az adott nevelési évben igazolatlanul mulasztott huszadik óvodai nevelési nap vagy az adott tanítási évben igazolatlanul mulasztott ötvenedik kötelező tanórai foglalkozás után kezdeményezi a családtámogatási ügyben eljáró hatóságnál az ellátás szüneteltetését.
 
-(1a) A nevelési-oktatási intézmény vezetője az (1) bekezdésben foglalt felhívásokat tájékoztatásul megküldi a gyámhatóság részére is.
+(1a) A nevelési-oktatási intézmény és a szakképző intézmény vezetője az (1) bekezdésben foglalt felhívásokat tájékoztatásul megküldi a gyámhatóság részére is.
 
 (2) Az (1) bekezdésben foglaltakat nem kell alkalmazni, ha az óvodai nevelésben való részvételi kötelezettséget olyan gyermek szegi meg, illetve a kötelező tanórai foglalkozások tekintetében olyan gyermek mulaszt igazolatlanul,
 
@@ -372,15 +372,15 @@ Az Országgyűlés a gyermekeket vállaló és nevelő családok jólétéért �
 
 36/A. § (1) A családtámogatási ügyben eljáró hatóság részére adatot szolgáltat
 
-- a) a nemzeti köznevelésről szóló 2011. évi CXC. törvény 19. § (5) bekezdése szerinti szerv a köznevelési intézmény tanulója tanulói jogviszonyának,
-- b) a szakképzési államigazgatási szerv a szakképző intézmény tanulója tanulói jogviszonyának, illetve képzésben részt vevő személy felnőttképzési jogviszonyának és
-- c) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 6. § (5) bekezdés a) pontja szerinti szerv és a felnőttképzési államigazgatási szerv a felsőoktatási intézmény hallgatója hallgatói jogviszonyának
+- a) a nemzeti köznevelésről szóló 2011. évi CXC. törvény 19. § (3) bekezdése szerinti szerv a köznevelési intézmény tanulója tanulói jogviszonyának,
+- b) a szakképzési államigazgatási szerv a szakképző intézmény tanulója tanulói jogviszonyának, és
+- c) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 6. § (5) bekezdés a) pontja szerinti szerv a felsőoktatási intézmény hallgatója hallgatói jogviszonyának
 
 fennállásáról, szüneteléséről és megszűnéséről.
 
 (2) Az adatok átadásának módjáról a központi családtámogatási szerv és az (1) bekezdés alapján adatszolgáltatásra köteles szerv egymással megállapodást köt.
 
-(3) Jogszabályban meghatározott módon kell igazolni a tanulmányok köznevelési intézményben, illetve szakképző intézményben történő folytatását
+(3) Jogszabályban meghatározott módon kell igazolni a tanulmányok köznevelési intézményben vagy szakképző intézményben történő folytatását
 
 - a) ha az ellátás iránti igényt családtámogatási kifizetőhely bírálja el,
 - b) a családtámogatási ügyben eljáró hatóság hiánypótlásra való felszólítása alapján, a családi pótlékban részesülő, de az (1) bekezdés szerinti adatszolgáltatásban nem érintett gyermek, illetve tanuló esetében.
@@ -586,6 +586,8 @@ közvetlen lekérdezéssel díjmentesen elérheti.
 50/C. § Az egyes törvényeknek a gyermekgondozási ellátások átalakításával, valamint a szociális hozzájárulási adó megfizetése alóli kedvezmény bővítésével összefüggő módosításáról szóló 2013. évi CCXXIV. törvénnyel megállapított 25. § (2) és (3) bekezdésében és 27. § (1) bekezdés a) pont ab) alpontjában foglaltakat a 2013. december 31-ét követően született vagy a szülő, gyám háztartásába került első gyermek esetében, továbbá azon 2013. december 31-ét követően született vagy a szülő, gyám háztartásába került második vagy további gyermek esetében kell alkalmazni, akinek a szülője, gyámja a háztartásában 2014. január 1-jét megelőzően született vagy háztartásba került, a 20. § (1) bekezdés a)–c) pontja szerinti életkorú gyermeket nevel.
 
 50/D. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+
+50/E. § A 7. § (2) bekezdése alapján járó, 2021. július 1-jén – a 2021. június 30-án hatályos 14. § alapján – szünetelő nevelési ellátást kérelemre, 2021. július 1-jei időponttól újra folyósítani kell.
 
 51. § Felhatalmazást kap
 

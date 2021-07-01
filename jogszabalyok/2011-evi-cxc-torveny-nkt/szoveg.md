@@ -250,7 +250,7 @@ tagozat,
 
 8. § (1) Az óvoda a gyermek hároméves korától a tankötelezettség kezdetéig nevelő intézmény, amely a gyermeket fokozatosan, de különösen az utolsó évében az iskolai nevelés-oktatásra készíti fel. Az óvoda felveheti azt a gyermeket is, aki a harmadik életévét a felvételétől számított fél éven belül betölti, feltéve, hogy minden, a településen, fővárosi kerületben, vagy ha a felvételi körzet több településen található, az érintett településeken lakóhellyel, ennek hiányában tartózkodási hellyel rendelkező hároméves és annál idősebb gyermek óvodai felvételi kérelme teljesíthető.
 
-(2) A gyermek abban az évben, amelynek augusztus 31. napjáig a harmadik életévét betölti, a nevelési év kezdő napjától legalább napi négy órában óvodai foglalkozáson vesz részt. A szülő – tárgyév május 25. napjáig benyújtott – kérelme alapján a gyermek jogos érdekét szem előtt tartva, a Kormány rendeletében kijelölt szerv (a továbbiakban: felmentést engedélyező szerv) felmentheti az óvodai foglalkozáson való részvétel alól, ha a gyermek családi körülményei, sajátos helyzete indokolja. Ha az eljárásban szakértőt kell meghallgatni, csak az óvodavezető vagy a védőnő rendelhető ki.
+(2) A gyermek abban az évben, amelynek augusztus 31. napjáig a harmadik életévét betölti, a nevelési év kezdő napjától legalább napi négy órában óvodai foglalkozáson vesz részt. A szülő – tárgyév április 15. napjáig benyújtott – kérelme alapján a gyermek jogos érdekét szem előtt tartva, annak az évnek az augusztus 31. napjáig, amelyben a gyermek a negyedik életévét betölti, különös méltánylást érdemlő esetben, újabb kérelem alapján annak az évnek az augusztus 31. napjáig, amelyben a gyermek az ötödik életévét betölti a Kormány rendeletében kijelölt szerv (a továbbiakban: felmentést engedélyező szerv) felmentheti az óvodai foglalkozáson való részvétel alól, ha a gyermek családi körülményei, sajátos helyzete indokolja. Ha az eljárásban szakértőt kell meghallgatni, csak az óvodavezető vagy a védőnő, továbbá tartós gyógykezelés alatt álló gyermek esetében az Eütv. 89. §-a szerinti általános járóbeteg-szakellátásban, vagy az Eütv. 91. §-a szerinti általános fekvőbeteg-szakellátásban részt vevő szakorvos rendelhető ki. Tartós gyógykezelés alatt álló gyermek esetében a kérelem a tárgyév április 15. napja után is benyújtható. Az eljárás időtartama ötven nap.
 
 (2a) A (2) bekezdésben foglalt döntés ellen közigazgatási pert a döntés közlésétől számított tizenöt napon belül lehet megindítani. A felmentést engedélyező szerv döntését a bíróság nem változtathatja meg.
 
@@ -580,7 +580,7 @@ szükséges.
 - f) a fenntartó egy nevelési, tanítási évnél hosszabb ideig nem működteti,
 - g) a hatóság súlyos vagy az országos pedagógiai-szakmai ellenőrzés során megállapított szakmai jogszabálysértés miatt – a nem állami költségvetési szerv vagy nem települési önkormányzat által fenntartott köznevelési intézmény esetén a működési engedély visszavonásával egyidejűleg – a nyilvántartásból való törlését elrendeli.
 
-(9) Ha a köznevelési intézményt a (8) bekezdés g) pontja alapján törli a nyilvántartásból a köznevelési feladatokat ellátó hatóság, akkor a nyilvántartásból való törlésről hozott határozatában kijelöli azt a nevelési-oktatási intézményt, amely a törölt intézménnyel jogviszonyban álló gyermekek, tanköteles tanulók felvételét nem tagadhatja meg. Nem tanköteles tanuló esetében csak az érintett kérelmére kell kötelező felvételt biztosító intézményt kijelölni. Az intézményt úgy kell kijelölni, hogy a gyermek, a tanuló számára a kijelölt intézményben a nevelés, a nevelés-oktatás igénybevétele ne jelentsen aránytalan terhet. A köznevelési intézmény nyilvántartásból való törléséről szóló végleges határozatot a köznevelési feladatokat ellátó hatóság megküldi a területileg illetékes tankerületi központnak, települési önkormányzatnak, a törvényben meghatározott feladataik ellátása érdekében. A jogutóddal megszűnő intézmény iratállományát a jogutód intézménynek kell átadni. A jogutód nélkül megszűnő intézmény esetén a fenntartó, a fenntartó jogutód nélküli megszűnése esetén az intézmény székhelye szerint illetékes köznevelési feladatokat ellátó hatóság számára kell átadni az iratállományt.
+(9) Ha a köznevelési feladatokat ellátó hatóság a köznevelési intézményt a (8) bekezdés g) pontja alapján törli a nyilvántartásból, az erről szóló határozatában kijelöli azt a nevelési-oktatási intézményt vagy szakképző intézményt, amely a törölt köznevelési intézménnyel jogviszonyban álló gyermek, tanköteles tanuló felvételét nem tagadhatja meg. Nem tanköteles tanuló esetében csak az érintett kérelmére kell kötelező felvételt biztosító nevelési-oktatási intézményt vagy – a szakképzési államigazgatási szerv egyetértésével – szakképző intézményt kijelölni. A nevelési-oktatási intézményt vagy szakképző intézményt úgy kell kijelölni, hogy a gyermek, a tanuló számára a kijelölt intézményben a nevelés, a nevelés-oktatás igénybevétele ne jelentsen aránytalan terhet. A köznevelési intézmény nyilvántartásból való törléséről szóló végleges határozatot a köznevelési feladatokat ellátó hatóság megküldi a köznevelési intézmény székhelye szerint területileg illetékes tankerületi központnak, települési önkormányzatnak, a törvényben meghatározott feladataik ellátása érdekében. A jogutóddal megszűnő köznevelési intézmény iratállományát a jogutód köznevelési intézménynek kell átadni. A jogutód nélkül megszűnő köznevelési intézmény esetén a fenntartó, a fenntartó jogutód nélküli megszűnése esetén a köznevelési intézmény székhelye szerint területileg illetékes köznevelési feladatokat ellátó hatóság számára kell átadni az iratállományt.
 
 (10) E § alkalmazásában súlyos jogszabálysértés, ha
 
@@ -1032,7 +1032,7 @@ továbbítható.
 
 (6)
 
-#### 26/A. A tanulói edzettség mérésével és a külföldi tanulmányúttal kapcsolatosan kezelt adatok
+#### 26/A. A tanulói edzettség mérésével kapcsolatosan kezelt adatok
 
 44/B. § (1) A tanulók fizikai állapotának és edzettségének mérési adatait tartalmazó informatikai alapú diagnosztikus értékelő rendszert, a Nemzeti Egységes Tanulói Fittségi Tesztet (a továbbiakban: NETFIT) a tanulók egészségi állapotának nyomon követése céljából a Magyar Diáksport Szövetség működteti.
 
@@ -1051,34 +1051,7 @@ továbbítható.
 
 (4) A fizikai fittségi mérés eredményeit a mérést végző pedagógus – mérésben érintett tanulónként, mérési azonosító alkalmazásával – rögzíti és feltölti a NETFIT-be. A fizikai fittségi mérés tanulót érintő eredményeit a tanuló és a szülő a tanuló mérési azonosítójának felhasználásával megismerheti.
 
-44/C. § (1) A központi költségvetésből vagy európai uniós forrásból megszervezett külföldi tanulmányút finanszírozásának biztosítása és a felhasználás ellenőrzése céljából a Tempus Közalapítvány informatikai alapú nyilvántartást vezet (a továbbiakban: tanulmányutak nyilvántartása).
-
-(2) A tanulmányutak nyilvántartása az alábbi adatokat tartalmazza:
-
-- a) a tanuló nevét,
-- b) a tanuló oktatási azonosító számát,
-- c) a tanuló anyja születési nevét,
-- d) a tanuló születési helyét és idejét,
-- e) a tanuló állampolgárságát,
-- f) a tanuló nemét,
-- g) a tanuló nevelési-oktatási intézményének nevét, oktatási azonosító számát,
-- h) a tanuló tanulói jogviszonyát megalapozó köznevelési alapfeladatot,
-- i) a tanulónevelés-oktatásának helyét,
-- j) a tanuló évfolyamát,
-- k) azt, hogy a tanuló hányadik évfolyamon, mely országban vett részt külföldi tanulmányúton,
-- l) kiskorú tanuló esetén a külföldi tanulmányúthoz történő szülői hozzájárulási nyilatkozatot,
-- m) a tanuló nyelvi szintjét igazoló iskolai ajánlást,
-- n) a választott külföldi fogadó intézmény, gazdálkodó szervezet nevét,
-- o) az utasbiztosítás szerződésszámát,
-- p) a támogatói szerződés számát,
-- q) egyéni pályázat esetén a tanuló fizetési számlaszámát,
-- r) a tanuló sajátos nevelési igényére vonatkozó adatokat.
-
-(3) A (2) bekezdés a)–f) pontjában meghatározott adatokat a központi költségvetésből vagy európai uniós forrásból megszervezett külföldi tanulmányút finanszírozásának biztosítása és a felhasználás ellenőrzése céljából a Tempus Közalapítvány a KIR részére továbbítja.
-
-(4) A külföldi tanulmányútra irányuló egyéni pályázat esetén a (2) bekezdés a)–b) és g)–r) pontjában szereplő adatokat a tanuló, kiskorú tanuló esetén a szülő, csoportos pályázat esetén a (2) bekezdés a)–b) és g)–p) és r) pontjában szereplő adatokat a nevelési-oktatási intézmény szolgáltatja a Tempus Közalapítvány számára.
-
-(5) A nyilvántartás adatai az adatfelvételtől a tanulói jogviszony megszűnéséig kezelhetők.
+#### 44/C. §
 
 #### 27. A gyermekek, a tanulók kötelességei és jogai, a tankötelezettség
 
@@ -1962,7 +1935,7 @@ foglalkoztatott tekintetében is.
 
 (9c) A pedagógus szakképzettséggel, szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott legfeljebb Pedagógus II. fokozatot érhet el. Ha a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottat korábban pedagógus-munkakörben alkalmazták és Pedagógus II. fokozatnál magasabb fokozatot ért el, illetményét, munkabérét a Pedagógus II. fokozatnak megfelelően kell megállapítani.
 
-(10) Az egyházi köznevelési intézmény és a magán köznevelési intézmény munkaviszony keretében foglalkoztatott pedagógusainak rendkívüli munkavégzése díjazására, pótszabadságára a közalkalmazottakra vonatkozó rendelkezéseket kell alkalmazni. A pedagógiai asszisztens, szabadidő-szervező, gyermek- és ifjúságvédelmi felügyelő, pedagógiai felügyelő, gyógypedagógiai asszisztens, pszichopedagógus, gyógytornász pótszabadságának meghatározására a pedagógus-munkakörben foglalkoztatott közalkalmazottakra vonatkozó rendelkezéseket kell alkalmazni.
+(10) A szakképzési centrum részeként működő köznevelési intézmény, az egyházi köznevelési intézmény és a magán köznevelési intézmény munkaviszony keretében foglalkoztatott pedagógusainak rendkívüli munkavégzése díjazására, pótszabadságára a közalkalmazottakra vonatkozó rendelkezéseket kell alkalmazni. A pedagógiai asszisztens, szabadidő-szervező, gyermek- és ifjúságvédelmi felügyelő, pedagógiai felügyelő, gyógypedagógiai asszisztens, pszichopedagógus, gyógytornász pótszabadságának meghatározására a pedagógus-munkakörben foglalkoztatott közalkalmazottakra vonatkozó rendelkezéseket kell alkalmazni.
 
 (11) Abban az esetben, ha a magasabb vezetői, vezetői megbízással rendelkező pedagógus helyettesítésének ideje eléri a tíz munkanapot, a helyettesítő pedagógus heti tanóráinak, foglalkozásainak számát az ellátott magasabb vezető, vezető beosztásra meghatározott óraszám alapján kell megállapítani.
 
@@ -3032,6 +3005,8 @@ közalkalmazott illetménye, munkavállaló munkabére a 65. § (9a) bekezdésé
 (2) Az Szktmód. hatálybalépését követő 30 napon belül a köznevelési feladatokat ellátó hatóság az általa vezetett nyilvántartás alapján az oktatásért felelős miniszternek átadja az (1) bekezdés szerinti köznevelési intézmények adatait, valamint az ezekre a köznevelési intézményekre vonatkozóan utoljára megadott és végleges működési engedély kiadmányát.
 
 (3) Az Szktmód. hatálybalépésekor működő szakképző iskolára, az ilyen szakképző iskolában folyó nevelésre-oktatásra, a szakképző iskola pedagógusára és tanulójára e törvénynek és a szakképzésről szóló 2011. évi CLXXXVII. törvénynek az Szktmód. hatálybalépését megelőző napon hatályos rendelkezéseit – ha törvény eltérően nem rendelkezik – a 2019/2020. tanév utolsó napjáig alkalmazni kell. E rendelkezést kell alkalmazni a Köznevelési Hídprogram keretében folyó nevelés-oktatásra is.
+
+(4) A szakgimnáziummal 2020. május 31-ét megelőzően létesített tanulói jogviszonyban álló tanuló szakmai vizsgájára a komplex szakmai vizsgáztatás szabályainak az Szktmód. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni. A vizsgabizottság elnökét és tagjait az oktatásért felelős miniszter javaslatára a szakképzési államigazgatási szerv delegálja, a központi kiadású tételsor, a feladatközlő lap, a segédanyag és a javítási-értékelési útmutató elkészítéséről az oktatásért felelős miniszter gondoskodik.
 
 #### 55. Az Európai Unió jogának való megfelelés
 

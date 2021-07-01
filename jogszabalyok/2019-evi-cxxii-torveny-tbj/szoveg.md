@@ -147,6 +147,7 @@ abban az esetben is, ha a nyugellátás folyósítása szünetel.
   - ba) az iskolaszövetkezet nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, képzésben részt vevő személy, hallgató tagját – 25. életévének betöltéséig a tanulói, hallgatói jogviszonya szünetelésének időtartama alatt is –,
   - bb) a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagját, és
   - bc) a szociális szövetkezetben tagi munkavégzés keretében munkát végző tagot,
+  - bd) a kisgyermekkel otthon lévők szövetkezetének nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő, egyéb jogcímen – ide nem értve az f) pont és a (2) bekezdés szerint – biztosított tagját,
 - c) álláskeresési támogatásban részesülő személy,
 - d) egyéni vállalkozó,
 - e) társas vállalkozó,

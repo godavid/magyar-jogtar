@@ -24,6 +24,8 @@ közérdekű, illetve közhasznú tevékenységük támogatása
 
 (2) Nem kell alkalmazni e törvény II–X. fejezetét a civil társaságra, a pártok működését segítő tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítványra (a továbbiakban: pártalapítvány), a pártra, továbbá VII–X. fejezetét a kölcsönös biztosító egyesületre és a szakszervezetre.
 
+(3) A (2) bekezdéstől eltérően a pártalapítvány vonatkozásában külön törvény elrendelheti e törvény alkalmazását.
+
 #### 2. Értelmező rendelkezések
 
 2. § E törvény alkalmazásában

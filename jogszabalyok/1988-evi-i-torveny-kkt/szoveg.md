@@ -262,6 +262,15 @@ alapvető jogai és kötelezettségei
 
 (3e) A gépjárművek közlekedésére szolgáló közút lakott területen kívüli szakasza mellett nem lehet reklámtábla, reklámhordozó vagy egyéb reklámcélú berendezés, valamint a tájékozódást segítő jelzést megjelenítő reklámcélú eszköz. A tilalom nem vonatkozik a 2010. december 31-éig a nem gyorsforgalmi utak mentén kihelyezett 12A/0-ás ív méretű reklámfelülettel rendelkező reklámtáblákra, az üzemanyagtöltő állomások területén elhelyezett cégjelzésre, és üzemanyagárakat tartalmazó táblákra, az építményeken, az építmények telkén elhelyezett olyan feliratra, amelyek az építményben működő cég nevét, jelét (piktogramját), vagy tevékenységét jelzik, továbbá azokra a – közvetlenül a közút mellett elhelyezett – berendezésekre, amelyek közlekedés biztonságát elősegítő közérdekű tájékoztató táblák szakmai tartalmát, valamint engedélyezésüket meghatározó testület által engedélyezett a közlekedés biztonságát elősegítő közérdekű tájékoztatást tartalmaznak.
 
+(3f) A segélykérő telefon e törvény alkalmazásában életmentő funkciót ellátó reklámcélú eszköznek minősül a következő feltételekkel:
+
+- a) reklámtábla, reklámhordozó és egyéb reklámcélú berendezés a nyilvános telefonállomás üzemeltetője engedélyével helyezhető el a segélykérő telefon tartószerkezetén,
+- b) reklámtábla, reklámhordozó és egyéb reklámcélú berendezés segélykérő telefon tartószerkezetén történő elhelyezése esetén az elhelyező életmentő funkciót ellátó reklámcélú eszközönként 3000 forint/hó összegű díj megfizetésére köteles,
+- c) elhelyezése esetén nem kell alkalmazni a településkép védelméről szóló törvény szerinti településképi bejelentési eljárásra vonatkozó szabályokat,
+- d) a közterület igénybevétele rendeltetésszerű igénybevételnek minősül, amely közterület-használati díjfizetési kötelezettséggel nem jár, az elhelyezőnek a közút kezelője részére csak a b) pont szerinti elhelyezési díjat kell fizetnie,
+- e) az elhelyezéshez a közterület használatra vonatkozó jogszabályok szerinti hatósági engedély, illetve polgári jogi jogviszony nem szükséges, és
+- f) az életmentő funkciót ellátó reklámcélú eszközre az (5) bekezdésben foglaltak irányadók.
+
 (4) A közlekedési hatóság annak az ingatlannak – az ingatlan-nyilvántartás szerinti – tulajdonosát, amelynek területén a (3a), illetve a (3e) bekezdésben megállapított tilalmat megszegik, a jel, jelzés, reklámtábla, reklámhordozó, egyéb reklámcélú berendezés, tájékozódást segítő jelzést megjelenítő reklámcélú eszköz vagy egyéb tárgy eltávolítására és 100 000 forinttól 500 000 forintig terjedő bírság megfizetésére kötelezi. A bírság ismételten is kiszabható.
 
 (4a) A közlekedési hatóság a (4) bekezdés szerinti bírság összegének meghatározása során a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontok mellett a közvetlen balesetveszély lehetőségét is mérlegeli.
@@ -1561,7 +1570,7 @@ terjedhet.
 - c) aluljárókat, valamint
 - d) a közparkokban és a telepszerű beépítésű lakóövezetben elhelyezhető épületek megközelítéséhez, és a területükön elhelyezkedő létesítmények parkolási igényének kielégítéséhez szükséges utakat és parkolókat vagy az azokon keresztülvezető gyalogutakat, gyalog- és kerékpárutakat, valamint kerékpárutakat.
 
-(3) Ha az (1) bekezdésben megjelölt utak forgalmi jellege – ideértve az út jelentőségét, forgalmi terhelését és a forgalom összetételét – megváltozik az e törvény felhatalmazása alapján kiadott jogszabályban meghatározottak szerint, a 29. §, valamint a 46/A. § szerint hatáskörrel rendelkező közlekedési hatóság országos közút esetén a vagyonkezelő, helyi közút és magánút esetén a tulajdonos kérelmére dönt a vonatkozó elfogadott terület-, vagy településrendezési eszközök szükség szerinti módosítását követően az országos közút helyi közúttá vagy magánúttá, a helyi közút országos közúttá vagy magánúttá, az állami vagy önkormányzati tulajdonú magánút helyi közúttá vagy országos közúttá minősítéséről.
+(3) Ha az (1) bekezdésben megjelölt utak forgalmi jellege – ideértve az út jelentőségét, forgalmi terhelését és a forgalom összetételét – megváltozik az e törvény felhatalmazása alapján kiadott jogszabályban meghatározottak szerint, a 29. §, valamint a 46/A. § szerint hatáskörrel rendelkező közlekedési hatóság országos közút esetén a vagyonkezelő, helyi közút és magánút esetén a tulajdonos kérelmére dönt a vonatkozó elfogadott terület- vagy településrendezési tervek szükség szerinti módosítását követően az országos közút helyi közúttá vagy magánúttá, a helyi közút országos közúttá vagy magánúttá, az állami vagy önkormányzati tulajdonú magánút helyi közúttá vagy országos közúttá minősítéséről.
 
 (3a) Ha az utak tulajdonosai a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 6. § (3b) és (3c) bekezdése alapján az utak tulajdonjogát egymás javára – helyi és országos közutak esetén – ingyenesen átruházzák, arról a változások ingatlan-nyilvántartáson való átvezetésére alkalmas megállapodást kötnek. Ha a közlekedési hatóság állami tulajdonú ingatlanon megépített utat helyi közúttá vagy önkormányzati tulajdonú ingatlanon megépített utat országos közúttá minősít vagy akként helyez forgalomba, az érintett ingatlan tulajdonosa és országos közút esetén a magyar állam képviseletében eljáró szerv, helyi közút esetén a helyi önkormányzat a közút tulajdonjogának átruházására köteles – az ingatlan-nyilvántartáson való átvezetésére alkalmas – megállapodást kötni, és köteles azt átadni és átvenni. Az átruházásra ingyenesen, könyv szerinti értéken kerül sor.
 
@@ -1843,7 +1852,7 @@ a közlekedési hatóság az útcsatlakozás tulajdonosát (kezelőjét) annak e
 42/A. § (1) A közút kezelőjének hozzájárulása szükséges
 
 - a) külterületen a közút tengelyétől számított ötven méteren, autópálya, autóút és főútvonal esetén száz méteren belül építmény elhelyezéséhez, bővítéséhez, rendeltetésének megváltoztatásához, nyomvonal jellegű építmény elhelyezéséhez, bővítéséhez, kő, kavics, agyag, homok és egyéb ásványi nyersanyag kitermeléséhez, valamint a közút területének határától számított tíz méter távolságon belül fa ültetéséhez vagy kivágásához, valamint
-- b) belterületen – a közút mellett – ipari, kereskedelmi, vendéglátó-ipari, továbbá egyéb szolgáltatási célú építmény építéséhez, bővítéséhez, rendeltetésének megváltoztatásához, valamint a helyi építési szabályzatban, vagy a szabályozási tervben szereplő közlekedési és közműterületen belül nyomvonal jellegű építmény elhelyezéséhez, bővítéséhez, továbbá a közút területének határától számított két méter távolságon belül fa ültetéséhez vagy kivágásához,
+- b) belterületen – a közút mellett – ipari, kereskedelmi, vendéglátó-ipari, továbbá egyéb szolgáltatási célú építmény építéséhez, bővítéséhez, rendeltetésének megváltoztatásához, valamint a településrendezési tervben szereplő közlekedési és közműterületen belül nyomvonal jellegű építmény elhelyezéséhez, bővítéséhez, továbbá a közút területének határától számított két méter távolságon belül fa ültetéséhez vagy kivágásához,
 - c) amennyiben az elhelyezendő létesítmény dőlési távolsága a közút határát keresztezi.
 
 (2) Ha a közút kezelője a feltételek teljesítéséhez is köthető hozzájárulását megtagadja, vagy a kérelmező az előírt feltételeket sérelmesnek tartja, a kérelmező a közlekedési hatósághoz fordulhat, amely a tevékenységet engedélyezheti és feltételekhez kötheti vagy a közút kezelője által előírt feltételeket módosíthatja.
@@ -2039,6 +2048,16 @@ személyes és egészségi állapotra, kóros szenvedélyre vonatkozó különle
 (2) Az (1) bekezdés a) és b) pontjában foglalt adatok kezelésére és nyilvántartására a vizsgaközpont is jogosult.
 
 (3) A közlekedési hatóság jogosult a 22/B. § (1) bekezdésében és a 44/A. § (1) bekezdésében meghatározott rendelkezések alapján személyes adatok nyilvántartására és kezelésére.
+
+(4) A vizsgaközpont a közlekedési hatóság által a 18. § (2) bekezdése alapján vezetett nyilvántartásból, továbbá a 18. § (9) bekezdése szerinti névjegyzékből az ott nyilvántartott adatokat, valamint az elektronikus vezetési kartonból a gyakorlati oktatásra és az oktató jármű futásteljesítményére vonatkozó adatokat az e törvényben foglalt feladatai ellátásához – a képzés, a vizsgára vagy vizsgálatra jelentkező adatainak, valamint a vizsgára bocsátás feltételeinek ellenőrzése érdekében – közvetlen adathozzáféréssel átveheti.
+
+(5) A vizsgaközpont a (4) bekezdésben meghatározott adatokat az átvétel időpontjától számított 5 évig kezeli.
+
+(6) A közlekedési hatóság és a vizsgaközpont az általa kezelt adatokat – személyazonosításra alkalmatlanná tett módon – statisztikai célokra felhasználhatja, azokból statisztikai célra adatot szolgáltathat.
+
+(7) A képző szerv a 18. § (8a) bekezdése szerinti vizsgára bocsátással összefüggő feladatai céljából adatkezelési jogosultsággal rendelkezik a közúti közlekedési szakemberek és a közúti járművezetők személyes adataira – név, születési név, anyja neve, születési hely, idő – vonatkozóan. A képző szerv az adatokat az átvétel időpontjától számított 5 évig kezeli.
+
+(8) A személyiadat- és lakcímnyilvántartást kezelő szerv a vizsgaközpont adatkérése alapján, a közúti járművezetők tanfolyami és a közúti közlekedési szakemberek szaktanfolyami képzésén, továbbképzésén, a pályaalkalmassági vizsgálaton és utánképzésén résztvevő, illetve ehhez kapcsolódóan vizsgára vagy vizsgálatra jelentkező adatainak ellenőrzése céljából díjmentesen átadja a résztvevők, valamint jelentkezők természetes személyazonosító adatait.
 
 #### 46/B. §
 

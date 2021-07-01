@@ -32,7 +32,7 @@ a bírósági végrehajtásról
 
 (4) A bírósági végrehajtó által foganatosított eljárás során az adós (kötelezett) és az eljárásban részt vevő más személy a végrehajtó felszólítására köteles a személyazonosságát okirattal igazolni. Ha a bemutatott okirat a személyazonosság igazolására nem alkalmas, a végrehajtó felhívja az érintettet megfelelő okirat bemutatására; ha ez az okirat sem megfelelő, vagy annak alapján is kétséges a személyazonosság, illetve a személyazonosság igazolását megtagadják, a végrehajtó intézkedhet a személyazonosságnak a rendőrség közreműködésével történő megállapítása iránt. A végrehajtó a személyazonosság megállapítására irányuló eljárási cselekményt és annak eredményét feltünteti a jegyzőkönyvben.
 
-6. §
+#### 6. §
 
 7. § (1) A bírósági végrehajtás során a pénzkövetelést elsősorban a pénzforgalmi szolgáltatónál kezelt, az adós rendelkezése alatt álló összegből, az adós munkabéréből, illetményéből, munkadíjából, a munkaviszonyon, közfoglalkoztatási jogviszonyon, munkaviszony jellegű szövetkezeti jogviszonyon, közszolgálati, kormányzati szolgálati, állami szolgálati és közalkalmazotti jogviszonyon, adó- és vámhatósági szolgálati jogviszonyon, szolgálati viszonyon, rendvédelmi igazgatási szolgálati jogviszonyon, honvédelmi alkalmazotti jogviszonyon, társadalombiztosítási jogviszonyon alapuló járandóságából, valamint a munkából eredő egyéb rendszeres, időszakonként visszatérően kapott díjazásából, juttatásából, követeléséből (a továbbiakban együtt: munkabéréből) kell behajtani.
 
@@ -183,7 +183,7 @@ a bírósági végrehajtásról
 
 (2) A végrehajtási záradékra megfelelően alkalmazni kell a végrehajtási lapra vonatkozó rendelkezéseket.
 
-21. §
+#### 21. §
 
 22. § A bíróság végrehajtási záradékkal látja el
 
@@ -291,11 +291,11 @@ a bírósági végrehajtásról
 
 (2) Az (1) bekezdésben foglalt esetben a bíróság a végrehajtható okirattal együtt a korábban hozott közvetlen letiltást tartalmazó végzésének, illetőleg közvetlen felhívást tartalmazó határozatának kiadmányát is megküldi a végrehajtónak.
 
-31/A. §
+#### 31/A. §
 
 ### Előzetes eljárás
 
-31/B. §
+#### 31/B. §
 
 ### Intézkedések az Európai Unió tagállamaiban történő végrehajtás érdekében
 
@@ -336,7 +336,7 @@ a bírósági végrehajtásról
 
 ### A bírósági irat végrehajtói kézbesítése
 
-31/D. § (1) Ha a 15. §, valamint a 16. § a) és b) pontja szerinti határozat kézbesítése esetén a kézbesítési fikció beállt, az a fél, aki a határozat alapján végrehajtási kérelem előterjesztésére jogosult, a végrehajtói kézbesítés költségeinek megelőlegezésével kérheti, hogy a határozatot tartalmazó iratot önálló bírósági végrehajtó (e §-ban a továbbiakban: kézbesítési végrehajtó) kézbesítse a címzettnek.
+31/D. § (1) Ha a 15. §, valamint a 16. § a) és b) pontja szerinti határozat kézbesítése esetén a kézbesítési fikció beállt, vagy a 16. § o) pontja szerinti okirat kézbesítésre került, az a fél, aki a határozat, illetve okirat alapján végrehajtási kérelem előterjesztésére jogosult, a végrehajtói kézbesítés költségeinek megelőlegezésével kérheti, hogy a határozatot tartalmazó iratot önálló bírósági végrehajtó (e §-ban a továbbiakban: kézbesítési végrehajtó) kézbesítse a címzettnek.
 
 (2) A végrehajtói kézbesítés költségére külön törvény szerinti költségkedvezmény nem vehető igénybe. A kézbesítés költségét a kézbesítést kérő fizeti meg; ha pedig az (1) bekezdés szerinti határozat alapján végrehajtás indul, a végrehajtói kézbesítés költségét – mint a végrehajtás kérésével kapcsolatos költséget – az adós viseli.
 
@@ -381,9 +381,11 @@ a bírósági végrehajtásról
 
 (7) A Magyar Országos Közjegyzői Kamara (a továbbiakban: MOKK) és a végrehajtást elrendelő közjegyző a végrehajtás elrendelése során keletkezett adatokat kezeli. A MOKK az elrendelt végrehajtási ügyre vonatkozó adatokat a számítástechnikai rendszerén keresztül elektronikus úton továbbítja a Kar hivatali szerve részére.
 
-31/F. §
+#### 31/F. §
 
-### III. Fejezet — A VÉGREHAJTÁS FOGANATOSÍTÁSÁNAKKÖZÖS SZABÁLYAI
+### III. Fejezet — A VÉGREHAJTÁS FOGANATOSÍTÁSÁNAK
+
+KÖZÖS SZABÁLYAI
 
 ### A végrehajtás foganatosításának megkezdése
 
@@ -398,7 +400,7 @@ a bírósági végrehajtásról
 
 (4) A biztosítási intézkedés elrendelését követően a biztosítandó követelés teljesítése érdekében elrendelt kielégítési végrehajtás során kiállított végrehajtható okiratot az (1) vagy a (2) bekezdés szerint illetékes, biztosítási intézkedést foganatosító végrehajtó részére kell megküldeni.
 
-33. § (1) Ha az ügygazda végrehajtó székhelye szerinti fővároson, illetőleg megyén (a továbbiakban együtt: megye) kívül válik szükségessé helyszíni eljárási cselekmény foganatosítása, az ügygazda végrehajtó megküldi a végrehajtható okirat másolatát és a szükséges iratokat elektronikus úton a Kar hivatali szervének, amely továbbítja az ügyelosztás szabályaira figyelemmel az eljárási cselekmény foganatosításának helye szerint illetékes azon végrehajtónak (232., 255/A. §) vagy a végrehajtói iroda azon végrehajtó tagjának, akinek a székhelye a cselekmény foganatosításának helye szerinti megyében van (a továbbiakban: megkeresett végrehajtó).
+33. § (1) Ha az ügygazda végrehajtó székhelye szerinti fővároson, illetőleg megyén (a továbbiakban együtt: megye) kívül válik szükségessé helyszíni eljárási cselekmény foganatosítása, az ügygazda végrehajtó megküldi a végrehajtható okirat másolatát és a szükséges iratokat elektronikus úton a Kar hivatali szervének, amely továbbítja az ügyelosztás szabályaira figyelemmel az eljárási cselekmény foganatosításának helye szerint illetékes azon végrehajtónak, akinek a székhelye a cselekmény foganatosításának helye szerinti megyében van (a továbbiakban: megkeresett végrehajtó).
 
 (1a) Az (1) bekezdésben foglaltaktól eltérően az ingatlan birtokba adása iránt az ingatlan értékesítését végző ügygazda végrehajtó intézkedik, ha az értékesített ingatlan a székhelye szerinti megyén kívül található.
 
@@ -426,7 +428,7 @@ a bírósági végrehajtásról
 
 (7) A költségek állam általi előlegezése feltételeinek fennállása esetén a Kar hivatali szerve a 217. § alapján végrehajtási kifogást terjeszthet elő a végrehajtó díj- és költségfelszámítása ellen.
 
-(8) Ha a végrehajtó díjjegyzékével szemben a nem adós fizetésre kötelezett határidőben végrehajtási kifogást nem terjesztett elő, részére a díjjegyzéket végrehajtói kézbesítés útján is kézbesíteni kell.
+(8) Ha a végrehajtó díjjegyzékével szemben a nem adós fizetésre kötelezett határidőben végrehajtási kifogást nem terjesztett elő a végrehajtási lap kiállítása iránti kérelem előterjesztését megelőzően, részére a díjjegyzéket végrehajtói kézbesítés útján is kézbesíteni kell.
 
 34/A. § (1) A Kart az önálló bírósági végrehajtói szervezetrendszer fenntartásának, az ezzel kapcsolatos igazgatási és nyilvántartási tevékenység végzésének, továbbá a Kar hatáskörébe utalt egyéb feladatok ellátásának érdekében; az igazságügyért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztériumot (a továbbiakban: minisztérium) az önálló bírósági végrehajtói szervezetrendszer feletti felügyelet gyakorlásával kapcsolatos feladatai, továbbá a miniszter feladat- és hatáskörébe utalt egyéb közfeladatok ellátásának érdekében az önálló bírósági végrehajtó hatáskörébe tartozó végrehajtási ügyek után általános költségátalány illeti meg.
 
@@ -586,7 +588,9 @@ a bírósági végrehajtásról
 
 (6) Ha a végrehajtó a végrehajtást kérő haláláról szerzett tudomást, és a jogutódja ismeretlen, a behajtott összeget bírósági letétbe helyezi.
 
-### A követelés megszűnésének és csökkenésénekbejelentése
+### A követelés megszűnésének és csökkenésének
+
+bejelentése
 
 40. § (1) A végrehajtást kérő köteles a végrehajtandó követelés megszűnését és csökkenését haladéktalanul bejelenteni a végrehajtónak, köteles egyúttal a végrehajtó felhívásának megfelelően a 34. § (5) bekezdésében említett összegeket is megfizetni.
 
@@ -890,27 +894,29 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 57/A. § (1) A végrehajtó hivatali elektronikus aláírásaként – ha jogszabály a végrehajtó számára az elektronikus aláírás használatát előírja – csak olyan minősített elektronikus aláírás használható, amely megfelel a következő feltételeknek:
 
-- a) az elektronikus aláíráshoz tartozó tanúsítványban a bizalmi szolgáltató feltüntette, hogy az aláíró önálló bírósági végrehajtó vagy önálló bírósági végrehajtó-helyettes;
+- a) az elektronikus aláíráshoz tartozó tanúsítványban a bizalmi szolgáltató feltüntette, hogy az aláíró önálló bírósági végrehajtó vagy önálló bírósági végrehajtó-helyettes vagy végrehajtói szakvizsgával rendelkező önálló bírósági végrehajtójelölt;
 - b) a bizalmi szolgáltató biztosítja, hogy a tanúsítvánnyal kapcsolatos érvényes visszavonási kérelem alapján a módosított visszavonási állapotot legfeljebb 3 percen belül közzéteszi a nyilvántartásában, és a tanúsítvány ellenőrzését kérő felhasználóknak a tanúsítvány visszavonási állapotáról folyamatos tájékoztatást ad.
 
-(2) Az önálló bírósági végrehajtó és önálló bírósági végrehajtó-helyettes részére a Kar hivatali szerve rendszeresít hivatali elektronikus aláírást.
+(2) Az önálló bírósági végrehajtó, önálló bírósági végrehajtó-helyettes és a végrehajtói szakvizsgával rendelkező önálló bírósági végrehajtójelölt (e § alkalmazásában a továbbiakban együtt: hivatali elektronikus aláírással rendelkező végrehajtó) részére a Kar hivatali szerve rendszeresít hivatali elektronikus aláírást.
 
-(3) Az önálló bírósági végrehajtó és önálló bírósági végrehajtó-helyettes az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 85. § (1) bekezdése és 97. § (4) bekezdése szerinti tájékoztatási kötelezettségének teljesítéséről a tájékoztatással egyidejűleg értesíti a Kar hivatali szervét is.
+(3) A hivatali elektronikus aláírással rendelkező végrehajtó az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 85. § (1) bekezdése és 97. § (4) bekezdése szerinti tájékoztatási kötelezettségének teljesítéséről a tájékoztatással egyidejűleg értesíti a Kar hivatali szervét is.
 
-(4) Az önálló bírósági végrehajtó és önálló bírósági végrehajtó-helyettes nem használhatja az elektronikus aláírást, ha
+(4) A hivatali elektronikus aláírással rendelkező végrehajtó nem használhatja az elektronikus aláírást, ha
 
-- a) önálló bírósági végrehajtói szolgálata megszűnt vagy törölték az önálló bírósági végrehajtó-helyettesek névjegyzékéből,
-- b) önálló bírósági végrehajtói vagy önálló bírósági végrehajtó-helyettesi hivatalából felfüggesztették,
-- c) önálló bírósági végrehajtói szolgálatát szünetelteti,
+- a) az önálló bírósági végrehajtói szolgálata megszűnt vagy törölték az önálló bírósági végrehajtó-helyettesek, illetve önálló bírósági végrehajtójelöltek névjegyzékéből,
+- b) az önálló bírósági végrehajtói, önálló bírósági végrehajtó-helyettesi vagy önálló bírósági végrehajtójelölti hivatalából felfüggesztették,
+- c) az önálló bírósági végrehajtói szolgálatát szünetelteti,
 - d) az aláírás-létrehozó adat elvesztéséről vagy arról szerzett tudomást, hogy az aláírás létrehozására illetéktelen személy vált képessé.
 
-(5) A Kar hivatali szerve a (4) bekezdés a)–c) pontjában, az önálló bírósági végrehajtó és önálló bírósági végrehajtó-helyettes a d) pontjában foglalt esetben kezdeményezi a bizalmi szolgáltatónál az elektronikus aláíráshoz tartozó tanúsítvány érvényességének felfüggesztését, illetve visszavonását.
+(5) A Kar hivatali szerve a (4) bekezdés a)–c) pontjában, a hivatali elektronikus aláírással rendelkező végrehajtó a d) pontjában foglalt esetben kezdeményezi a bizalmi szolgáltatónál az elektronikus aláíráshoz tartozó tanúsítvány érvényességének felfüggesztését, illetve visszavonását.
 
 (6) A bizalmi szolgáltató az elektronikus aláíráshoz tartozó tanúsítvány érvényességét a Kar hivatali szerve megkeresésére haladéktalanul felfüggeszti, illetve a tanúsítványt visszavonja.
 
 ## MÁSODIK RÉSZ — PÉNZKÖVETELÉS VÉGREHAJTÁSA
 
-### IV. Fejezet — VÉGREHAJTÁS MUNKABÉRREÉS EGYÉB JÁRANDÓSÁGRA
+### IV. Fejezet — VÉGREHAJTÁS MUNKABÉRRE
+
+ÉS EGYÉB JÁRANDÓSÁGRA
 
 ### Végrehajtói letiltás
 
@@ -1009,9 +1015,9 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 ### Levonás egyéb járandóságból
 
-70. §
+#### 70. §
 
-71. §
+#### 71. §
 
 72. § Az álláskeresők ellátásaiból (álláskeresési járadékból, nyugdíj előtti álláskeresési segélyből, keresetkiegészítésből, és keresetpótló juttatásból) legfeljebb 33%-ot lehet levonni az alábbi követelések fejében:
 
@@ -1043,7 +1049,9 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 - l)–m)
 - n) a fogyatékossági támogatás.
 
-### A munkáltatónaka letiltással kapcsolatos kötelessége
+### A munkáltatónak
+
+a letiltással kapcsolatos kötelessége
 
 75. § A munkáltató köteles az adós munkabéréből a letiltásban meghatározott összeget levonni és — a letiltásban foglalt felhívás szerint — kifizetni a végrehajtást kérőnek, illetőleg kivételesen átutalni a végrehajtói letéti vagy más számlára.
 
@@ -1779,7 +1787,7 @@ eredő követelések fejében vonható végrehajtás alá.
 
 (3) Mentes a végrehajtás alól az az ingatlan, amelyet a felszámolási eljárás során nem lehet az adós vagyonához tartozóként figyelembe venni.
 
-136/A. §
+#### 136/A. §
 
 137. § (1) A végrehajtás alá vont ingatlant megszerző új tulajdonos tulajdonjogát csak a következő jogok terhelhetik:
 
@@ -1957,7 +1965,7 @@ eredő követelések fejében vonható végrehajtás alá.
 
 (6)
 
-146. §
+#### 146. §
 
 147. § (1) Az ingatlan kikiáltási ára a becsérték összege.
 
@@ -1985,7 +1993,7 @@ megfelelő összeggel tehető érvényes vételi ajánlat, ha az adósnak ez az 
 
 (5) A 138/C. §, a 139. § (1) bekezdés, valamint a 154/A. § (11) és (12) bekezdés alkalmazásában lakóingatlan az ingatlan-nyilvántartásban üdülő rendeltetési jelleggel nyilvántartott ingatlan, ha az ingatlan címe megegyezik az adós lakóhely igazolására szolgáló személyazonosító okmányában megjelölt címmel és lakóhelye a végrehajtási eljárás megindítását megelőző 6 hónapban is ebben az ingatlanban volt.
 
-148. §
+#### 148. §
 
 149. § (1) Az árverési vevő köteles a teljes vételárat az árverési jegyzőkönyv aláírásának napjától – ha pedig az árverést jogorvoslattal támadták meg, a jogorvoslatot elbíráló határozat rendelkezése szerint annak jogerőre emelkedését követően a vételár megfizetésére vonatkozó végrehajtói felhívás kézbesítésétől – számított 15 napon belül befizetni vagy átutalni a végrehajtói letéti számlára; ha ezt elmulasztja, előlegét elveszti.
 
@@ -1993,13 +2001,13 @@ megfelelő összeggel tehető érvényes vételi ajánlat, ha az adósnak ez az 
 
 (3) A vételár előleggel csökkentett összege után az esedékesség napjától a Polgári Törvénykönyv szerinti késedelmi kamatot kell fizetni, amely a végrehajtás során befolyt összeget növeli.
 
-150. § (1) Ha az árverési vevőnek az adóssal szemben olyan követelése van, amelyre vonatkozóan a végrehajtást elrendelték, az árverési vevő – a kiköltözési kötelezettségének a 154/B. § szerint eleget tevő adóst megillető összeg kivételével – visszatarthatja az árverési vételárat, vagy azt a részét, amely a követelésének a kielégítéséhez szükséges.
+150. § (1) Ha az árverési vevőnek az adóssal szemben olyan követelése van, amelyre vonatkozóan a végrehajtást elrendelték, az árverési vevő – a kiköltözési kötelezettségének a 154/B. § szerint eleget tevő adóst megillető összeg és a végrehajtási költségek kivételével – visszatarthatja az árverési vételárat, vagy azt a részét, amely a követelésének a kielégítéséhez szükséges.
 
 (2) Ha az árverési vevőnek az (1) bekezdésben említett követelését a vételár felosztásakor nem lehet kielégíteni, az árverési vevő köteles a vételárat, illetőleg visszatartott részét, továbbá a Polgári Törvénykönyv szerint a szerződéses kapcsolatokban járó — az árverést követő 15. naptól esetékes — kamatot a végrehajtó felhívásától számított 15 napon belül befizetni a végrehajtói letéti számlára.
 
 151. § (1) Az árverési vevő megállapodhat a jelzálogos hitelezővel, hogy a jelzálogjog — amennyiben a vételárból a jelzálogos hitelező kielégítéshez jutna — az ingatlanon továbbra is fennmarad.
 
-(2) Ha az árverési vevő a végrehajtónál a megállapodást igazolta, – a kiköltözési kötelezettségének a 154/B. § szerint eleget tevő adóst megillető összeg kivételével – visszatarthatja a vételárat, illetőleg azt a részét, amely a jelzálogos hitelező követelésének kielégítéséhez szükséges.
+(2) Ha az árverési vevő a végrehajtónál a megállapodást igazolta, – a kiköltözési kötelezettségének a 154/B. § szerint eleget tevő adóst megillető összeg és a végrehajtási költségek kivételével – visszatarthatja a vételárat, illetőleg azt a részét, amely a jelzálogos hitelező követelésének kielégítéséhez szükséges.
 
 (3) Ha a jelzálogos hitelező követelését a vételár felosztásakor nem lehet kielégíteni, a 150. § (2) bekezdése szerint kell eljárni.
 
@@ -2065,15 +2073,14 @@ megfelelő összeggel tehető érvényes vételi ajánlat, ha az adósnak ez az 
 
 (2) A végrehajtó a kifizetés feltételeinek fennállását jegyzőkönyvben rögzíti, melyet a feleknek kézbesít; az összeg kifizetése iránt a jegyzőkönyv kézbesítését követő 15. nap elteltével, kifogás esetén a jogerős elbírálásáról szóló végzés alapján, annak kézhezvételét követő 15 napon belül intézkedik. A kifizetés után fennmaradó összeg minősül végrehajtás során befolyt összegnek, ez használható fel a végrehajtási költségek és a követelés kielégítésére.
 
-155. § (1) Az árverés sikertelen, ha
+155. § Az árverés sikertelen, ha
 
 - a) nem tettek vételi ajánlatot, vagy a felajánlott vételár nem érte el az ingatlan becsértékének felét, vagy lakóingatlan esetében a 147. § (3) bekezdésében foglalt feltételek fennállása esetén a becsérték összegét, illetve annak 70%-át;
-- b) az árverési vevő az árverési jegyzőkönyvet nem írta alá; vagy
-- c) az árverési vevő nem fizette be vagy nem utalta át a teljes vételárat a 149. § (1) bekezdésében foglalt határidőn belül, illetőleg a végrehajtó által a vételár megfizetésére adott határidőn belül.
+- b) az árverési vevő az árverési jegyzőkönyvet nem írta alá;
+- c) az árverési vevő nem fizette be vagy nem utalta át a teljes vételárat a 149. § (1) bekezdésében foglalt határidőn belül, illetőleg a végrehajtó által a vételár megfizetésére adott határidőn belül; vagy
+- d) az árverés nem szabályszerűen került kitűzésre.
 
-(2) Az árverés sikertelenségének megállapításával egyidejűleg a végrehajtó az ingatlannak a 143. § (1) bekezdés c)–h) és j) pontban foglalt adatait és az ingatlanról készült képfelvételt – az árverés későbbi kitűzéséről szóló tájékoztatással együtt – közzéteszi az elektronikus árverési hirdetmények nyilvántartásában.
-
-156. § (1) Ha az árverési vevő a vételárat nem fizette meg, második árverést kell tartani. Ezen árverést az első árverés sikertelenségének megállapításától számított 30 napon belül az első árverésre vonatkozó szabályok alkalmazásával ki kell tűzni azzal, hogy a második árverésen az első árverésen legmagasabb ajánlatot tett, de a vételár fizetését elmulasztó árverező nem árverezhet. Az elektronikus árverési rendszer a második árverés kitűzésével egyidejűleg automatikusan törli az ingatlan 155. § (2) bekezdése szerint közzétett adatait az elektronikus árverési hirdetmények nyilvántartásából.
+156. § (1) Ha az árverési vevő a vételárat nem fizette meg vagy az árverés nem szabályszerűen került kitűzésre, második árverést kell tartani. Ezen árverést az első árverés sikertelenségének megállapításától számított 30 napon belül az első árverésre vonatkozó szabályok alkalmazásával ki kell tűzni azzal, hogy a második árverésen az első árverésen legmagasabb ajánlatot tett, de a vételár fizetését elmulasztó árverező nem árverezhet.
 
 (2) Nem kell megtartani a második árverést, ha az árverési vevő az árverési jegyzőkönyvet aláírta és befizette a vételárat (vagy átutalta és az arról szóló terhelési értesítőt a végrehajtónak bemutatta), továbbá megtérítette a második árverés kitűzésével felmerült költséget, mielőtt a licitnaplóban vételi ajánlatot tesznek közzé. A vételár megfizetését a végrehajtó haladéktalanul rögzíti a licitnaplóba, és a licitnaplót lezárja. Ilyenkor az utólag megfizetett vételárba nem lehet beszámítani a 149. § alapján elvesztett előleget.
 
@@ -2087,7 +2094,19 @@ megfelelő összeggel tehető érvényes vételi ajánlat, ha az adósnak ez az 
 
 ### Nyilvános pályázat
 
-156/A–156/G. §
+#### 156/A. §
+
+#### 156/B. §
+
+#### 156/C. §
+
+#### 156/D. §
+
+#### 156/E. §
+
+#### 156/F. §
+
+#### 156/G. §
 
 ### Ingatlan árverésen kívüli eladása
 
@@ -2105,7 +2124,7 @@ megfelelő összeggel tehető érvényes vételi ajánlat, ha az adósnak ez az 
 
 ### A folyamatos árverezés iránti hirdetmény közzététele
 
-158. §
+#### 158. §
 
 159. § (1) Ha a 155. § (1) bekezdés a) vagy b) pontja alapján az első árverés sikertelen volt, vagy ha a 156. § alapján megtartott második árverés is sikertelen volt, a végrehajtó a sikertelen árverést követő 15 napon belül közzéteszi az ingatlan folyamatos árverezése iránti hirdetményt, valamint az ingatlanról készült képfelvételt az árverési hirdetmények elektronikus nyilvántartásában. A hirdetmény a 143. § (1) bekezdés a)–h) és j) pontjában foglalt adatokat tartalmazza.
 
@@ -2157,7 +2176,7 @@ megfelelő összeggel tehető érvényes vételi ajánlat, ha az adósnak ez az 
 
 (5) Az első árverési hirdetmény elektronikus árverési hirdetmények nyilvántartásában történő közzétételét követően a végrehajtó a 140. § (8) bekezdése szerint módosítja az ingatlan becsértékét bármelyik tulajdonostárs kérelmére.
 
-163. §
+#### 163. §
 
 ### VIII. Fejezet — A VÉGREHAJTÁS SORÁN BEFOLYT ÖSSZEG KIFIZETÉSE
 
@@ -2222,7 +2241,7 @@ megfelelő összeggel tehető érvényes vételi ajánlat, ha az adósnak ez az 
 
 (4) A felosztási terv ellen a kézbesítésétől számított 15 napon belül végrehajtási kifogást lehet előterjeszteni a 217. § alapján. A bíróság a végrehajtási kifogásról végzéssel dönt; ha a végrehajtási kifogásnak helyt ad, a felosztási tervet megsemmisíti, vagy – ha arra minden adat rendelkezésre áll – megváltoztatja. A bíróság a felosztási terv végrehajtási kifogással nem érintett részét is megváltoztathatja, ha abban elírás vagy számítási hiba van, illetőleg a végrehajtó nem a jogszabálynak megfelelően készítette el a felosztási tervet.
 
-171/A. §
+#### 171/A. §
 
 ### Kielégítés kisajátításból befolyt összegből
 
@@ -2321,7 +2340,9 @@ megfelelő összeggel tehető érvényes vételi ajánlat, ha az adósnak ez az 
 
 (5) A végrehajtó indítványára a rendőrség az 5. § (3) bekezdése szerint eltávolíthatja a gyermek átadásának helyszínéről azokat a személyeket, akik a gyermek átadását akadályozzák. A rendőrség intézkedésének igénybevételére a végrehajtó előzetesen figyelmezteti az érintetteket, ennek tényét – amely tartalmazza indokolt esetben a rendbírság kiszabására teendő indítványra történő figyelmeztetést is – jegyzőkönyvben rögzíti.
 
-### Lakásügyben hozott bírósági határozatvégrehajtása
+### Lakásügyben hozott bírósági határozat
+
+végrehajtása
 
 181. § A lakás és más — nem lakás céljára szolgáló — helyiség (a továbbiakban: lakás) kiürítésére, átadására vagy használatára irányuló, illetőleg a felmondás érvényességét megállapító bírósági határozatban, a bíróság által jóváhagyott egyezségben vagy bírósági végrehajtási záradékkal ellátott okiratban megállapított kötelezettség végrehajtására a 172—177. §-ban foglalt rendelkezéseken felül a 182. §-ban foglalt rendelkezéseket is alkalmazni kell.
 
@@ -2403,7 +2424,9 @@ a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre
 
 184. § A 183. § a fizető-vendéglátás keretében használatba adott és más kereskedelmi szálláshely (szálloda, turistaház stb.) kiürítésére is irányadó.
 
-### Szellemi tulajdonjogok megsértése miattindított perben hozott határozat végrehajtása
+### Szellemi tulajdonjogok megsértése miatt
+
+indított perben hozott határozat végrehajtása
 
 184/A. § (1) Ha a meghatározott cselekmény végrehajtása szabadalombitorlás, használati mintaoltalom bitorlása, mikroelektronikai félvezető termék topográfiájára vonatkozó oltalom bitorlása, növényfajta-oltalom bitorlása, illetve a növényfajta-oltalomból eredő díjigényhez kapcsolódó – a találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 109/B. §-ának (3) bekezdésében szabályozott – adatszolgáltatási kötelezettség teljesítésének elmulasztása, védjegybitorlás, földrajzi árujelző-oltalom bitorlása, formatervezési mintaoltalom bitorlása, kiegészítő oltalmi tanúsítvány bitorlása, a tisztességtelen piaci magatartás és a versenykorlátozás tilalmára vonatkozó rendelkezések, szerzői jog vagy üzleti titokhoz fűződő jog megsértése miatt indított perben hozott határozat végrehajtására irányul, a végrehajtási lap kiállítására jogosult bíróság – a végrehajtási lap kiállítása helyett – a végrehajtást közvetlenül elrendelő határozatot hoz, amelyben a kötelezettet azonnali teljesítésre hívja fel és egyidejűleg megállapítja a késedelem esetén fizetendő pénzbírság napi összegét.
 
@@ -2425,7 +2448,7 @@ a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre
 
 (9) Ha az (1) bekezdésben foglalt perben hozott határozat kizárólag pénzfizetésre kötelezést tartalmaz, a határozat végrehajtása a pénzkövetelés végrehajtására vonatkozó szabályok szerint történik.
 
-184/B. §
+#### 184/B. §
 
 ### A hitelbiztosítéki nyilvántartásba való bejegyzést, módosítást, törlést elrendelő bírósági határozat végrehajtása
 
@@ -2583,19 +2606,21 @@ a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre
 
 201/B. § A fizetési meghagyásos eljárás során elrendelt biztosítási intézkedést a fizetési meghagyásos eljárás perré alakulása esetén a fél kérelmére a perbíróság a kérelem beérkezésétől számított 8 napon belül felülvizsgálja, és ennek eredményeként a biztosítási intézkedés hatályát fenntartja vagy azt megszünteti.
 
-201/C. §
+#### 201/C. §
 
-202. §
+#### 202. §
 
-202/A. §
+#### 202/A. §
 
-203. §
+#### 203. §
 
-204. §
+#### 204. §
 
-204/A. §
+#### 204/A. §
 
-### XI. Fejezet — ZÁLOGTÁRGY EGYSZERŰSÍTETTVÉGREHAJTÁSI ÉRTÉKESÍTÉSE
+### XI. Fejezet — ZÁLOGTÁRGY EGYSZERŰSÍTETT
+
+VÉGREHAJTÁSI ÉRTÉKESÍTÉSE
 
 ### A végrehajtás elrendelése
 
@@ -2698,15 +2723,15 @@ az e Fejezetben foglaltak szerint jár el.
 
 ### XIII. Fejezet
 
-210/C. §
+#### 210/C. §
 
-210/D. §
+#### 210/D. §
 
-210/E. §
+#### 210/E. §
 
-210/F. §
+#### 210/F. §
 
-210/G. §
+#### 210/G. §
 
 ### XIV. Fejezet — KÖZPONTI HATÓSÁGI MEGKERESÉS VÉGREHAJTÁSA A TARTÁSRA KÖTELEZETT ADATAINAK BESZERZÉSE ÉRDEKÉBEN
 
@@ -2726,7 +2751,9 @@ az e Fejezetben foglaltak szerint jár el.
 
 ### XV. Fejezet — A VÉGREHAJTÁS ELRENDELÉSÉVEL KAPCSOLATOS JOGORVOSLATOK
 
-### A végrehajtási lap visszavonásaés a végrehajtási záradék törlése
+### A végrehajtási lap visszavonása
+
+és a végrehajtási záradék törlése
 
 211. § (1) Ha a bíróság a végrehajtási lapot a törvény megsértésével állította ki, a végrehajtási lapot vissza kell vonni.
 
@@ -2760,9 +2787,9 @@ feltételei fennállnak.
 
 (2) A felülvizsgálati kérelem benyújtására és elbírálására a Pp. felülvizsgálatra vonatkozó rendelkezései megfelelően irányadók.
 
-215. §
+#### 215. §
 
-216. §
+#### 216. §
 
 ### XVI. Fejezet — A VÉGREHAJTÁS FOGANATOSÍTÁSÁVAL KAPCSOLATOS JOGORVOSLATOK
 
@@ -2812,7 +2839,9 @@ feltételei fennállnak.
 
 (6) A végrehajtó – az összeg megjelölésével – nyilatkozik a bíróságnak arról, ha a (3) bekezdés alapján befizetési kötelezettsége keletkezik az állam felé.
 
-### Fellebbezésa végrehajtás foganatosításával kapcsolatban
+### Fellebbezés
+
+a végrehajtás foganatosításával kapcsolatban
 
 218. § (1) A bíróságnak a végrehajtás foganatosítása során hozott végzése ellen fellebbezésnek van helye.
 
@@ -2823,7 +2852,7 @@ feltételei fennállnak.
 
 (3) A kifogást elbíráló végzés elleni fellebbezés elbírálására a kifogás elbírálására vonatkozó rendelkezések megfelelően alkalmazandók.
 
-219. §
+#### 219. §
 
 ### Más jogorvoslatok
 
@@ -2854,7 +2883,11 @@ feltételei fennállnak.
 
 (2) A végrehajtó kérelemre vagy hivatalból saját hatáskörben kijavíthatja és kiegészítheti az általa készített jegyzőkönyvet. A kijavításról és a kiegészítésről a végrehajtó jegyzőkönyvet készít, amelyet a feleknek kézbesít.
 
-### A közjegyző által elrendelt végrehajtás során igénybe vehető jogorvoslatokra vonatkozó különös rendelkezések
+### A közjegyző által elrendelt végrehajtás során
+
+igénybe vehető jogorvoslatokra vonatkozó
+
+különös rendelkezések
 
 224/A. § Ha a bírósági végrehajtás elrendelése a közjegyző hatáskörébe tartozik, e rész rendelkezéseit az alábbi eltérésekkel kell alkalmazni:
 
@@ -2921,6 +2954,8 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 (3) Nem esik az (1) és (2) bekezdésben foglalt tilalom alá a Karban végzett tevékenység, továbbá az, ha az önálló bírósági végrehajtó – a (2) bekezdés a) pontjában foglaltak sérelme nélkül – a zálogjogosult megbízása alapján a zálogtárgy értékesítését végzi.
 
 (4) A munkaviszony, szolgálati viszony és munkavégzési kötelezettséggel járó egyéb jogviszony létesítésének és a vállalkozás fenntartásának tilalma nem vonatkozik az állásából felfüggesztett végrehajtóra, végrehajtó-helyettesre és végrehajtójelöltre, és a szolgálatát szüneteltető végrehajtóra.
+
+(5) Az állásából felfüggesztett végrehajtó, végrehajtó-helyettes és végrehajtójelölt a felfüggesztés alatt végrehajtói tevékenységet nem végezhet, végrehajtói irodával munkavégzésre, illetve foglalkoztatásra irányuló jogviszonyt nem létesíthet.
 
 228. § A végrehajtó sem hivatalában, sem hivatalán kívül nem tanúsíthat olyan magatartást, amely a feladatának ellátásához szükséges közbizalmat megingathatja, vagy hivatásának tekintélyét csorbíthatja.
 
@@ -2993,7 +3028,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 ### A végrehajtói szolgálat keletkezése
 
-232. § (1) Az önálló bírósági végrehajtót (e fejezetben a továbbiakban: végrehajtó) a miniszter nevezi ki hét évre, de legfeljebb a 65. életéve betöltésének napjáig, meghatározott székhelyre és meghatározott járásbíróság mellé.
+232. § (1) Az önálló bírósági végrehajtót (e fejezetben a továbbiakban: végrehajtó) a miniszter nevezi ki hét évre, de legfeljebb a 65. életéve betöltésének napjáig, meghatározott székhelyre és meghatározott járásbíróság mellé azzal, hogy egy végrehajtó egy székhelyre, illetőleg egy járásbíróság mellé kerül kinevezésre.
 
 (2) Ugyanarra a székhelyre, illetőleg ugyanazon járásbíróság mellé több végrehajtót is ki lehet nevezni.
 
@@ -3003,7 +3038,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 (5) A végrehajtó az illetékességi területén indult ügyben az ingatlan-végrehajtást az ország egész területén foganatosítja.
 
-(6) A miniszter a be nem töltött végrehajtói állások illetékességi területére kiterjesztheti a máshová kinevezett végrehajtó illetékességét.
+(6)
 
 233. § (1) Végrehajtóvá az nevezhető ki, aki
 
@@ -3034,7 +3069,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 - h) akivel szemben a 227. §-ban meghatározott összeférhetetlenségi ok áll fenn és nem vállalja, hogy kinevezése esetén azt az eskütétel időpontjáig megszünteti,
 - i) aki cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt áll.
 - j) aki büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll,
-- k) akinek a végrehajtói szolgálati jogviszonya a 239. § (1) bekezdés a) vagy c) pontja alapján szűnt meg, a megszűnést követő 10 évig.
+- k) akinek a végrehajtói szolgálati jogviszonya a 239. § (1) bekezdés a)–c) pontja alapján szűnt meg, a megszűnést követő 10 évig.
 
 (3)
 
@@ -3077,7 +3112,7 @@ esetén van lehetőség.
 
 236. § (1) A végrehajtó a végrehajtói működése körében, illetve az eljárása során okozott kárért kártérítésre és személyiségi jogsértésért sérelemdíj megfizetésére a Polgári Törvénykönyv szabályai szerint köteles.
 
-(2) A kártérítés, illetve a sérelemdíj fedezetére a végrehajtó köteles legalább harmincmillió forint értékű felelősségbiztosítást kötni és azt a működése alatt fenntartani.
+(2) A kártérítés, illetve a sérelemdíj fedezetére a végrehajtó köteles legalább harmincmillió forint értékű felelősségbiztosítást kötni és azt a működése alatt fenntartani. A végrehajtó köteles felelősségbiztosítását szolgálatának szünetelése alatt fenntartani, továbbá abban az esetben is, ha a végrehajtót hivatalából felfüggesztették.
 
 (3)–(6)
 
@@ -3241,12 +3276,14 @@ esetén van lehetőség.
 
 - a) magyar állampolgár,
 - b) a 18. évét betöltötte,
-- c) nem áll a 233. § (2) bekezdés a)–d), i) és j) pontjában meghatározott kizáró ok hatálya alatt,
+- c) nem áll a 233. § (2) bekezdésében meghatározott kizáró ok hatálya alatt,
 - d) középfokú iskolai végzettséggel rendelkezik.
 
 (3) A végrehajtójelölt – a 254/E. § (3) bekezdésében foglalt kivétellel – a meghatározott végrehajtóval áll munkaviszonyban.
 
 (4) A végrehajtói szakvizsgával rendelkező önálló bírósági végrehajtójelölt önállóan foganatosíthat eljárási cselekményeket; az ebből eredő kártérítési, illetve sérelemdíj iránti igényeket a végrehajtóval szemben kell érvényesíteni. A végrehajtójelölt azonban hagyományos ingóárverést nem tarthat, árverési jegyzőkönyvet nem készíthet, valamint ingatlan birtokbaadását és meghatározott cselekmény végrehajtását sem foganatosíthatja.
+
+(4a) A végrehajtói szakvizsgával nem rendelkező végrehajtójelölt a végrehajtó irányítása alapján és utasításai szerint közreműködik a végrehajtási eljárásban, a közreműködéséből eredő kártérítési, illetve sérelemdíj iránti igényeket a végrehajtóval szemben kell érvényesíteni. A végrehajtójelölt végrehajtási cselekményt azonban – az (5) bekezdésben foglalt kivétellel – önállóan a végrehajtó nevében sem foganatosíthat.
 
 (5) Végrehajtói kézbesítést a végrehajtójelölt akkor végezhet, ha a végrehajtójelölti kézbesítési vizsgát letette.
 
@@ -3254,7 +3291,7 @@ esetén van lehetőség.
 
 - a) a végrehajtójelölti munkakör betöltésére irányuló munkaviszonya megszűnt,
 - b) a névjegyzékbe vétel feltételei a nyilvántartásba vétel időpontjában nem álltak fenn,
-- c) a 233. § (2) bekezdés b)–d) vagy i) pontjában foglalt kizáró ok következett be,
+- c) a 233. § (2) bekezdésében foglalt kizáró ok következett be,
 - d) elhalálozott,
 - e) a végrehajtói fegyelmi bíróság jogerős határozatával a végrehajtójelöltek nyilvántartásából történő törlés fegyelmi büntetéssel sújtotta vagy alkalmatlanságát, érdemtelenségét állapította meg,
 - f) a vele szemben a nyilvántartásba vételét követően keletkezett összeférhetetlenséget Kar hivatali szerve felszólítására 30 napon belül nem szüntette meg.
@@ -3267,7 +3304,7 @@ esetén van lehetőség.
 
 (2) A végrehajtó köteles az alkalmazásában álló végrehajtó-helyettes és végrehajtójelölt részére a képzésen történő részvétel lehetőségét biztosítani, ennek érdekében a képzés idejére őt a munkavégzés alól mentesíteni.
 
-242. §
+#### 242. §
 
 ### A végrehajtó helyettesítése
 
@@ -3308,9 +3345,9 @@ esetén van lehetőség.
 
 (6) A helyettes gondoskodik a végrehajtó irodájának zavartalan működéséről, a működési költségeket kifizeti, a számláit kezeli, a végrehajtó alkalmazottjai felett a munkáltatói jogokat gyakorolja az alapvető munkáltatói jogok kivételével.
 
-246. §
+#### 246. §
 
-247. §
+#### 247. §
 
 248. § (1) A helyettes minden végrehajtási ügyet ellát; az iratokat mint ,,helyettes bírósági végrehajtó'' írja alá.
 
@@ -3326,7 +3363,7 @@ esetén van lehetőség.
 
 (3) A Kar tagjai a végrehajtók, a végrehajtó-helyettesek és a végrehajtójelöltek. A végrehajtó a kinevezése napján, a végrehajtó-helyettes a végrehajtó-helyettesi névjegyzékbe történő felvétele napján, a végrehajtójelölt a végrehajtójelölti névjegyzékbe történő felvétele napján válik a Kar tagjává.
 
-250. § (1) A Karra – az e törvényben foglalt eltérésekkel – a köztestületre vonatkozó szabályokat kell alkalmazni. A Kar az e törvényben és más jogszabályban meghatározott jogok gyakorlásával és kötelezettségek teljesítésével képviseli és védi a végrehajtók és a végrehajtó-helyettesek érdekeit, ellátja a végrehajtói szolgálattal kapcsolatos, jogszabályban meghatározott feladatokat.
+250. § (1) A Karra – az e törvényben foglalt eltérésekkel – a köztestületre vonatkozó szabályokat kell alkalmazni. A Kar az e törvényben és más jogszabályban meghatározott jogok gyakorlásával és kötelezettségek teljesítésével képviseli és védi a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek érdekeit, ellátja a végrehajtói szolgálattal kapcsolatos, jogszabályban meghatározott feladatokat.
 
 (2) A Kar jogai és feladatai különösen:
 
@@ -3383,11 +3420,11 @@ esetén van lehetőség.
 
 (7) A Kar hivatali szerve e törvényben meghatározott feladatai ellátása céljából adatot kezel, ideértve az e törvényben meghatározott körben kezelt személyes adatokat is. A Kar hivatali szerve az általa kezelt adatokat az eljárás befejezésétől számított 10 évig kezeli, ezt követően gondoskodik az adatok törléséről.
 
-250/A. § (1) A Kar a tagjairól az e §-ban foglaltak szerint vezet nyilvántartást. A nyilvántartás – a (2) bekezdés 1. és 3–5. pontjában, a (3) bekezdés d) és e) pontjában, valamint a (4) bekezdés d) pontjában megjelölt adatok, továbbá a végrehajtó-helyettes és végrehajtójelölt alkalmazásának kezdő időpontjára és a munkavégzésből történő hosszabb időtartamú kiesésére vonatkozó adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+250/A. § (1) A Kar a tagjairól az e §-ban foglaltak szerint vezet nyilvántartást. A nyilvántartás – a (2) bekezdés 1. és 3–5. pontjában, a (3) bekezdés d) és e) pontjában, valamint a (4) bekezdés d) és f) pontjában megjelölt adatok, továbbá a végrehajtó-helyettes és végrehajtójelölt alkalmazásának kezdő időpontjára és a munkavégzésből történő hosszabb időtartamú kiesésére vonatkozó adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A végrehajtók névjegyzéke a következő adatokat tartalmazza:
 
-- 1. természetes személyazonosító adatok,
+- 1. természetes személyazonosító adatok, lakcím,
 - 2. székhely, illetékességi terület,
 - 3. az iskolai végzettséget tanúsító okirat kiállítója, kelte,
 - 4. a jogi szakvizsga letételéről szóló oklevél száma, kelte,
@@ -3413,7 +3450,7 @@ esetén van lehetőség.
 
 (3) A végrehajtó-helyettesek névjegyzéke a következő adatokat tartalmazza:
 
-- a) a (2) bekezdés 1., 3–5. és 18–19. pontjában foglalt adatok,
+- a) a (2) bekezdés 1., 3–5. és 18–19. pontjában foglalt adatok és a végrehajtó-helyettes azonosító száma,,
 - b) a névjegyzékbe vétel és az abból történő törlés időpontja,
 - c) a végrehajtó-helyettest alkalmazó végrehajtó neve és székhelye, a végrehajtó-helyettes alkalmazásának kezdő időpontja, a munkavégzésből történő hosszabb időtartamú – 90 napot meghaladó – kiesésre vonatkozó adatok,
 - d) az alkalmazás (munkaviszony) megszűnésének napja és módja,
@@ -3421,11 +3458,12 @@ esetén van lehetőség.
 
 (4) A végrehajtójelöltek névjegyzéke a következő adatokat tartalmazza:
 
-- a) a (2) bekezdés 1., 3–4. pontjában foglalt adatok,
+- a) a (2) bekezdés 1., 3–4. pontjában foglalt adatok és a végrehajtójelölt azonosító száma,
 - b) a névjegyzékbe vétel és az abból történő törlés napja,
-- c) a végrehajtójelöltet alkalmazó végrehajtó neve és székhelye, a végrehajtójelölt alkalmazásának kezdő időpontja, a munkavégzésből történő hosszabb időtartamú kiesésre vonatkozó adatok,
+- c) a végrehajtójelöltet alkalmazó végrehajtó neve és székhelye, a végrehajtójelölt alkalmazásának kezdő időpontja, a munkavégzésből történő hosszabb időtartamú – 90 napot meghaladó – kiesésre vonatkozó adatok,
 - d) az alkalmazás (munkaviszony) megszűnésének napja és módja,
 - e) a végrehajtói kézbesítési vizsga letételének időpontja, a végrehajtói kézbesítésre felhatalmazott végrehajtójelöltek névjegyzékébe vétel és az abból történő törlés időpontja.
+- f) a végrehajtójelölt hivatali elektronikus aláírás tanúsítványa érvényességének kezdete és lejárta.
 
 (5) A helyettesek névjegyzéke a következő adatokat tartalmazza:
 
@@ -3446,7 +3484,7 @@ esetén van lehetőség.
 - b) az öttagú elnökség,
 - c) a Kar hivatali szerve.
 
-(2) A Kar egyetemi jogi végzettséggel rendelkező végrehajtó tagja az elnökség tagjává és elnökévé megválasztható, kivéve, ha a 267. § (1) bekezdés d) vagy e) pontja szerinti fegyelmi büntetés hatálya alatt áll.
+(2) A Kar egyetemi jogi végzettséggel rendelkező végrehajtó tagja az elnökség tagjává, egyetemi jogi végzettséggel és jogi szakvizsgával rendelkező végrehajtó tagja a Kar elnökévé megválasztható, kivéve, ha a 267. § (1) bekezdés d) vagy e) pontja szerinti fegyelmi büntetés hatálya alatt áll.
 
 (3) A Kar a munkájának elősegítésére szakmai bizottságokat hozhat létre.
 
@@ -3471,7 +3509,7 @@ esetén van lehetőség.
 
 (5)
 
-(6) Tisztségviselőnek a Kar végrehajtó tagja választható. A tisztségviselők választása titkos szavazással történik, megbízatásuk 4 évre szól, legfeljebb kétszer választhatók újra.
+(6) Tisztségviselőnek a Kar végrehajtó tagja választható. A tisztségviselők választása titkos szavazással történik, megbízatásuk 7 évre szól, legfeljebb kétszer választhatók újra.
 
 (7) A megválasztott tisztségviselő a megbízatást visszautasíthatja.
 
@@ -3515,7 +3553,7 @@ esetén van lehetőség.
 
 253/A. § Az elnökség javaslatot tehet fegyelmi eljárás kezdeményezésére.
 
-253/B. §
+#### 253/B. §
 
 253/C. § (1) A Kar hivatali szervének vezetője az elnökség bevonásával szervezeti és működési szabályzatot készít, amely – e törvény keretei között – tartalmazza a Kar szervezetének, működési rendjének és gazdálkodásának, továbbá a Kar feladatai ellátásának részletes szabályait.
 
@@ -3774,23 +3812,23 @@ kérhetnek adatszolgáltatást.
 
 (6)
 
-254/I. §
+#### 254/I. §
 
 ### XX. Fejezet
 
-255. §
+#### 255. §
 
-255/A. §
+#### 255/A. §
 
-256. §
+#### 256. §
 
-256/A. §
+#### 256/A. §
 
-257. §
+#### 257. §
 
-258. §
+#### 258. §
 
-259. §
+#### 259. §
 
 ### XXI. Fejezet — A VÉGREHAJTÁSI ÜGYINTÉZŐ
 
@@ -4184,13 +4222,17 @@ kérhetnek adatszolgáltatást.
 
 299. § Az alkalmatlanságról, illetve érdemtelenségről hozott határozat ellen a fegyelmi határozatra vonatkozó szabályok szerint van helye fellebbezésnek és másodfokú eljárásnak.
 
-### Fegyelmi eljárása szolgálati viszonyban álló személyekkel szemben
+### Fegyelmi eljárás
+
+a szolgálati viszonyban álló személyekkel szemben
 
 300. § A végrehajtási ügyintéző elleni fegyelmi eljárásra és a vele szemben kiszabható fegyelmi büntetésekre az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló szabályokat kell alkalmazni.
 
 ## HATODIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
-### XXIII. Fejezet — A TÖRVÉNY HATÁLYBALÉPÉSEÉS VÉGREHAJTÁSA
+### XXIII. Fejezet — A TÖRVÉNY HATÁLYBALÉPÉSE
+
+ÉS VÉGREHAJTÁSA
 
 ### Értelmező rendelkezések
 
@@ -4321,6 +4363,20 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 
 (5) A Módtv.11.-gyel megállapított 171. § (4) bekezdést a Módtv.11. hatálybalépését követően benyújtott végrehajtási kifogások esetén kell alkalmazni.
 
+304/H. § (1) Az egyes törvényeknek a kézbesítéssel és az igazságügyi ágazati szabályozással összefüggő módosításáról szóló 2021. évi LI. törvénnyel (a továbbiakban: Módtv.12.) megállapított rendelkezéseket a folyamatban lévő végrehajtási eljárásokban is alkalmazni kell azzal, hogy a 155. §-t és a 156. § (1) bekezdését a 2021. június 30-át követően kitűzésre kerülő árverések során kell alkalmazni.
+
+(2) A Módtv.12-vel megállapított 236. § (2) bekezdését és a 250/A. § (2) bekezdés 1. pontját a 2021. június 30-át megelőzően kinevezett végrehajtók esetében, a 250/A. § (3) bekezdés a) pontját a 2021. június 30-át megelőzően névjegyzékbe vett önálló bírósági végrehajtó-helyettesek esetében, az 57/A. § (1) bekezdés a) pontját, (2), (3) és (5) bekezdését, a 241. § (4a) bekezdését, a 241. § (6) bekezdés c) pontját, a 250/A. § (4) bekezdés a), c) és f) pontját a 2021. június 30-át megelőzően névjegyzékbe vett önálló bírósági végrehajtójelöltek esetében is alkalmazni kell.
+
+(3) A Módtv.12-vel megállapított 241. § (2) bekezdés c) pontját a 2021. július 1-jét követően indult névjegyzékbe vételi eljárásokban kell alkalmazni.
+
+(4) Annak az önálló bírósági végrehajtónak, aki 2021. július 1-jén egynél több székhelyre, illetve járásbíróság mellé van kinevezve, 2021. július 30. napjáig a miniszterhez címzett írásbeli nyilatkozatában meg kell jelölnie, hogy szolgálatát melyik járásbíróság mellett kívánja továbbra is ellátni.
+
+(5) A miniszter az önálló bírósági végrehajtó (4) bekezdés szerinti nyilatkozata alapján – ha a végrehajtó nem tett nyilatkozatot, úgy a Kar véleményének beszerzését követően – megállapítja az önálló bírósági végrehajtó szolgálatának megszűnését az egyik szolgálati hely tekintetében.
+
+(6) A Módtv.12-vel megállapított 251. § (2) bekezdését és a 252. § (6) bekezdését a 2021. július 1-jét követően kinevezésre kerülő elnök tekintetében kell alkalmazni.
+
+(7) A Módtv.12-vel hatályon kívül helyezett 232. § (6) bekezdéséből következően az illetékesség kiterjesztésével ellátott álláshelyek vonatkozásában a Karnak a 2021. július 1. napját követő hatodik hónap végéig intézkednie kell az álláshelyek betöltésére irányuló pályázat kiírása iránt.
+
 305. § (1) E törvénynek a bírósági végrehajtással kapcsolatos és egyéb, igazságügyi tárgyú törvények módosításáról szóló 2011. évi CLXXX. törvénnyel (a továbbiakban e §-ban: módosító törvény) megállapított rendelkezéseit – a (2)–(5) bekezdésben foglalt eltérésekkel – a módosító törvény hatályba lépésének időpontjában folyamatban lévő végrehajtási eljárásokban és fegyelmi eljárásokban is alkalmazni kell. A 31/E. §-nak a módosító törvénnyel megállapított rendelkezéseit a 2011. december 31-ét követően előterjesztett végrehajtási kérelmek alapján indult eljárásokban kell alkalmazni.
 
 (2) Az ingóság értékesítésére vonatkozó, a módosító törvénnyel megállapított rendelkezéseket azokban az ügyekben kell alkalmazni, amelyekben a módosító törvény hatálybalépését követően történik meg az árverési hirdetmény közzététele. Ha az ingóság árverésére vagy az ingóság árverési hirdetményének közzétételére már a módosító törvény hatálybalépése előtt sor került, a következő árverés kitűzésére, az annak alapján lefolytatott árverésre, valamint a soron következő végrehajtási cselekményekre kell e törvénynek a módosító törvénnyel megállapított rendelkezéseit alkalmazni.
@@ -4369,7 +4425,7 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 
 306/F. § E törvénynek a brókerbotrányok áldozatainak kártérítését szolgáló vagyon biztonságba helyezéséről szóló 2015. évi XXXI. törvénnyel megállapított 202/A. §-ában foglaltakat az ötvenmillió forintot meghaladó értékre elkövetett, az ötvenmillió forintot meghaladó kárt okozó, vagy az ötvenmillió forintot meghaladó vagyoni hátrányt okozó bűncselekmény – ideértve azt is, ha a bűnhalmazatban lévő bűncselekmények vonatkozásában az érték, a kár és a vagyoni hátrány együttes összege a bűnhalmazat egészét tekintve az ötvenmillió forintot meghaladja – miatt indult, a törvény hatályba lépésekor folyamatban lévő büntetőeljárásban elrendelt zár alá vétel alapján indult végrehajtási ügyekben is alkalmazni kell. Ezekben az ügyekben a brókerbotrányok áldozatainak kártérítését szolgáló vagyon biztonságba helyezéséről szóló 2015. évi XXXI. törvény hatályba lépésétől számított 8 napon belül a zár alá vételt elrendelő bíróság, ügyészség vagy nyomozó hatóság köteles a 202/A. § (1) bekezdése szerinti zárgondnokot kijelölni és a kijelölésről a zárgondnokot, valamint a bűnügyi zárlat alá vont személyt vagy szervezetet értesíteni.
 
-306/F. §
+#### 306/F. §
 
 306/G. § E törvénynek a Módtv.3. megállapított rendelkezéseit a Módtv.3. hatálybalépését követő kamarai szervi ülések összehívása és lebonyolítása, valamint a kamara szerveinek megválasztása során – a szervezeti és működési szabályzat Módtv.3.-nak megfelelő módosítása hiányában is – alkalmazni kell.
 
@@ -4519,15 +4575,23 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 - q) a panaszügyek intézésére irányuló eljárások lefolytatására, és a fegyelmi eljárások nyilvántartására vonatkozó részletes szabályokat,
 - r) a 253/I. § szerinti IVR bevezetésének időpontját és ütemezését, a létrehozására, működésére és felhasználására vonatkozó részletszabályokat, a működtetéséhez szükséges, a Kar által megalkotandó szabályzatok körét, továbbá a végrehajtók által a hatálybalépést megelőzően alkalmazott informatikai rendszer adatállományának az IVR-ben történő rögzítésének részletes szabályait azon, még érdemben befejezetlen végrehajtási ügyek tekintetében, amelyek az IVR bevezetését megelőzően kerültek kiosztásra, illetőleg érkeztek a végrehajtóhoz foganatosítás céljából.
 
-308. §
+#### 308. §
 
-309. §
+#### 309. §
 
-310. §
+#### 310. §
 
-311. §
+#### 311. §
 
-312–316. §
+#### 312. §
+
+#### 313. §
+
+#### 314. §
+
+#### 315. §
+
+#### 316. §
 
 ### Az Európai Unió jogának való megfelelés
 

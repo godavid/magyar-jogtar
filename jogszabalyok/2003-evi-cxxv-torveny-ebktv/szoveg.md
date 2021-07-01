@@ -466,7 +466,7 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló oktatást szerv
 
 31. § (1) A község, a város és a főváros kerületeinek önkormányzata (a továbbiakban: települési önkormányzat) ötévente öt évre szóló helyi esélyegyenlőségi programot fogad el.
 
-(2) A helyi esélyegyenlőségi programban helyzetelemzést kell készíteni a hátrányos helyzetű társadalmi csoportok – különös tekintettel a nők, a mélyszegénységben élők, romák, a fogyatékkal élő személyek, valamint a gyermekek és idősek csoportjára – oktatási, lakhatási, foglalkoztatási, egészségügyi és szociális helyzetéről, illetve a helyzetelemzésen alapuló intézkedési tervben meg kell határozni a helyzetelemzés során feltárt problémák komplex kezelése érdekében szükséges intézkedéseket. A helyzetelemzés és az intézkedési terv elfogadása során figyelembe kell venni a települési kisebbségi önkormányzatok véleményét. A helyi esélyegyenlőségi programot a társadalmi felzárkózásért felelős miniszter által meghatározott részletes szabályok alapján kell elkészíteni. A programalkotás során gondoskodni kell a helyi esélyegyenlőségi program és a települési önkormányzat által készítendő egyéb fejlesztési tervek, koncepciók, továbbá a köznevelési esélyegyenlőségi terv, illetve a szakképzési esélyegyenlőségi terv és az integrált településfejlesztési stratégia anti-szegregációs célkitűzéseinek összhangjáról.
+(2) A helyi esélyegyenlőségi programban helyzetelemzést kell készíteni a hátrányos helyzetű társadalmi csoportok – különös tekintettel a nők, a mélyszegénységben élők, romák, a fogyatékkal élő személyek, valamint a gyermekek és idősek csoportjára – oktatási, lakhatási, foglalkoztatási, egészségügyi és szociális helyzetéről, illetve a helyzetelemzésen alapuló intézkedési tervben meg kell határozni a helyzetelemzés során feltárt problémák komplex kezelése érdekében szükséges intézkedéseket. A helyzetelemzés és az intézkedési terv elfogadása során figyelembe kell venni a települési kisebbségi önkormányzatok véleményét. A helyi esélyegyenlőségi programot az e törvény és a felhatalmazása alapján kiadott kormányrendeletben meghatározott szempontok és eljárásrend, valamint azok figyelembevételével a társadalmi felzárkózásért felelős miniszter által, az általa vezetett minisztérium honlapján közzétett módszertani útmutató alapján kell elkészíteni. A programalkotás során gondoskodni kell a helyi esélyegyenlőségi program és a települési önkormányzat által készítendő egyéb fejlesztési tervek, koncepciók, továbbá a köznevelési esélyegyenlőségi terv, illetve a szakképzési esélyegyenlőségi terv és az településfejlesztési terv anti-szegregációs célkitűzéseinek összhangjáról.
 
 (3) A helyi esélyegyenlőségi program elkészítése során kiemelt figyelmet kell fordítani
 
@@ -565,7 +565,7 @@ olyan vallási vagy más világnézeti meggyőződésen alapuló oktatást szerv
 
 (3) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a helyi esélyegyenlőségi program elkészítésében részt vevők képzését végző szervet.
 
-(4) Felhatalmazást kap a társadalmi felzárkózásért felelős miniszter, hogy a helyi esélyegyenlőségi program elkészítésének részletes szabályait rendeletben határozza meg.
+(4)
 
 (5)
 

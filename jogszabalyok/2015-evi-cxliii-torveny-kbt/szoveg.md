@@ -408,7 +408,7 @@ feltéve, hogy a közös vállalkozást azért hozták létre, hogy az adott tev
 
 (5) A (4) bekezdés szerinti esetben a 111. § szerinti kivételek nem alkalmazhatók.
 
-(6) A (2) bekezdést a külképviseletek számára történő beszerzéskor külképviseletenként, a szakképzési centrumok esetében tagintézményenként, az országgyűlési képviselőcsoportok törvény alapján biztosított működési és ellátási kerete terhére lefolytatandó beszerzésekkor képviselőcsoportonként és keretenként, az ügyészségről szóló 2011. évi CLXIII. törvény 8. § (1) bekezdés a)–c) pontjában, valamint 10. § (1) bekezdésében említett szervek esetében pedig a részükre jóváhagyott részelőirányzatok terhére megvalósítandó beszerzések vonatkozásában külön kell alkalmazni.
+(6) A (2) bekezdést a külképviseletek számára történő beszerzéskor külképviseletenként, a szakképzési centrumok esetében a szakképzési centrum részeként működő szakképző intézményenként, az országgyűlési képviselőcsoportok törvény alapján biztosított működési és ellátási kerete terhére lefolytatandó beszerzésekkor képviselőcsoportonként és keretenként, az ügyészségről szóló 2011. évi CLXIII. törvény 8. § (1) bekezdés a)–c) pontjában, valamint 10. § (1) bekezdésében említett szervek esetében pedig a részükre jóváhagyott részelőirányzatok terhére megvalósítandó beszerzések vonatkozásában külön kell alkalmazni.
 
 ### A koncesszió becsült értéke
 
@@ -599,6 +599,8 @@ feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő 
 (3) Építési beruházások esetében az eljárás csak a külön jogszabályban meghatározott követelményeknek megfelelő tervek birtokában indítható meg. Külön jogszabályban foglalt esetekben az ajánlatkérőnek tervellenőrzésről és tervezői művezetésről is gondoskodnia kell.
 
 (4) A közbeszerzési eljárás megindítása előtt az ajánlatkérő független szakértőkkel, hatóságokkal, illetve piaci résztvevőkkel előzetes piaci konzultációkat folytathat a közbeszerzési eljárás előkészítése, valamint a gazdasági szereplők – tervezett beszerzésre és annak követelményeire vonatkozó – tájékoztatása érdekében. Az ajánlatkérő köteles minden szükséges intézkedést – különösen a releváns információk közlését a közbeszerzési dokumentumokban, valamint a megfelelő ajánlattételi határidő meghatározását – megtenni a verseny tisztaságára, a gazdasági szereplők esélyegyenlőségére és egyenlő elbánására vonatkozó alapelvek érvényesülése érdekében.
+
+(5) Előzetes piaci konzultációt az ajánlatkérő – más módszerek mellett – úgy is megvalósíthat, hogy a műszaki leírás tervezetét és a szerződéstervezetet az EKR-ben előzetesen közzéteszi, amelynek véleményezésére az érdeklődő gazdasági szereplők számára lehetőséget biztosít.
 
 ### Közös közbeszerzési eljárások
 
@@ -823,16 +825,18 @@ feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő 
 
 (5) A közbeszerzési terv minimális adattartalmát e törvény felhatalmazása alapján alkotott jogszabály határozza meg.
 
-43. § (1) Az ajánlatkérő köteles a Közbeszerzési Hatóság által működtetett nyilvános elektronikus szerződéstárban (a továbbiakban: CoRe) – valamint ha az e törvény felhatalmazása alapján alkotott jogszabály azt egyes dokumentumok, adatok tekintetében kötelezővé teszi, az EKR-ben is – közzétenni
+43. § (1) Az ajánlatkérő köteles az EKR-en keresztül a Közbeszerzési Hatóság által működtetett nyilvános elektronikus szerződéstárban (a továbbiakban: CoRe), valamint az EKR-ben közzétenni
 
-- a) a 9. § (1) bekezdés h)–i) pontjának, valamint a 12. § (1)–(5) bekezdésének alkalmazásával megkötött szerződéseket a szerződéskötést, valamint a szerződésmódosításokat a szerződés módosítását követően haladéktalanul;
-- b) a közbeszerzési eljárás alapján megkötött szerződéseket a szerződéskötést, valamint a szerződésmódosításokat a szerződés módosítását követően haladéktalanul;
+- a) a 9. § (1) bekezdés h)–j) pontjának, valamint a 12. § (1)–(5) bekezdésének alkalmazásával megkötött szerződéseket a szerződéskötést, valamint a szerződésmódosításokat a szerződés módosítását követően haladéktalanul;
+- b) a közbeszerzési eljárás alapján megkötött szerződéseket a 37. § (1) bekezdés h) pontja szerinti hirdetmény megjelenését – a 37. § (4) bekezdése szerinti hirdetménnyel érintett szerződések esetében a szerződéskötést – követően haladéktalanul, valamint a szerződésmódosításokat a 37. § (1) bekezdés j) pontja szerinti hirdetmény megjelenését követően haladéktalanul;
 - c) a szerződés teljesítésére vonatkozó következő adatokat:
   - ca) hivatkozást a közbeszerzési eljárást megindító hirdetményre (hirdetmény nélkül induló eljárások esetében felhívásra),
   - cb) a szerződő felek megnevezését,
   - cc) azt, hogy a teljesítés szerződésszerű volt-e,
   - cd) a szerződés teljesítésének az ajánlatkérő által elismert időpontját, valamint
   - ce) az ellenszolgáltatás teljesítésének időpontját és a kifizetett ellenszolgáltatás értékét a szerződés mindegyik fél – támogatásból megvalósuló közbeszerzés esetén szállítói kifizetés során a kifizetésre köteles szervezet – által történt teljesítését követő harminc napon belül.
+
+(1a) Az (1) bekezdés szerinti adatszolgáltatást az EKR-ben kell teljesíteni, amely gondoskodik az adatoknak a CoRe-ba történő, a feltöltést követő azonnali, változtatás nélküli automatikus továbbításáról.
 
 (2) Az ajánlatkérő köteles az EKR-ben közzétenni
 
@@ -1200,6 +1204,8 @@ kell érteni.
 (6) Az ajánlatkérő az eljárást megindító felhívásban köteles hivatkozni az (1) és (2) bekezdésben foglalt kizáró okokra.
 
 (7) Az ajánlatkérő – az érintett ajánlattevő, részvételre jelentkező, alvállalkozó, alkalmasság igazolásában részt vevő szervezet nevének és címének (székhelyének, lakóhelyének) az eljárás tárgyának és azonosítójának, valamint a kizárás és a kizárt gazdasági szereplő erről való tudomásszerzése időpontjának megjelölésével, valamint a kizárásra okot adó cselekmény és az eset lényeges körülményeinek leírásával – köteles tájékoztatni a Közbeszerzési Hatóságot az (1) bekezdés i) és j) pontja szerinti kizárásról és a kizárás időpontjáról.
+
+(8) A Gazdasági Versenyhivatal az EKR-ben közzéteszi az (1) bekezdés n) pontja szerinti – a Gazdasági Versenyhivatal vagy a Gazdasági Versenyhivatal döntésével szemben indított közigazgatási perben a bíróság által hozott – a kizáró okot megalapozó határozatokra vonatkozó, a kizáró ok hiányának ellenőrzését szolgáló információkat.
 
 63. § (1) Az ajánlatkérő az eljárást megindító felhívásban előírhatja, hogy az eljárásban nem lehet ajánlattevő, részvételre jelentkező, alvállalkozó, illetve nem vehet részt alkalmasság igazolásában olyan gazdasági szereplő, aki
 
@@ -2252,7 +2258,7 @@ rövidebb időtartamban. A több szakaszból álló eljárások részvételi sza
 - d) a szerződés időtartamát vagy lehetséges maximális időtartamát;
 - e) a teljesítés helyét;
 - f) a részajánlattétel lehetőségét vagy annak kizárását; ha részajánlat tételére lehetőség van, tájékoztatást arról, hogy egy vagy több, vagy valamennyi részre lehet-e ajánlatot tenni, valamint arról, hogy korlátozva van-e az egy ajánlattevőnek odaítélhető részek száma;
-- g) az ajánlatok értékelési szempontjait a 125. § (2) bekezdése alapján;
+- g)
 - h) az adott eljárásban alkalmazandó kizáró okokat és a megkövetelt igazolási módokat;
 - i) az alkalmassági követelményeket, az alkalmasság megítéléséhez szükséges adatokat és a megkövetelt igazolási módot;
 - j) az ajánlattételi határidőt vagy részvételi határidőt;
@@ -2329,13 +2335,16 @@ rövidebb időtartamban. A több szakaszból álló eljárások részvételi sza
 
 ### Értékelési szempontok
 
-125. § (1) A nyertes ajánlattevő kiválasztására objektív értékelési szempontokat kell alkalmazni. Az értékelési szempontok meghatározására a 76. § (1)–(8), (11) és (13) bekezdését alkalmazni kell, azzal a különbséggel, hogy az értékelési szempontok keretében értékelt alszempontok esetében elegendő súlyszám helyett azokat csökkenő fontossági sorrendben feltüntetni.
+125. § (1) A nyertes ajánlattevő kiválasztására objektív értékelési szempontokat kell alkalmazni. Az értékelési szempontok meghatározására a 76. § (1)–(8), (11) és (13) bekezdését az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2) Az eljárást megindító felhívásban az értékelési szempontokat elegendő csökkenő fontossági sorrendben megadni, azok súlyszámát és a 76. § (9) bekezdésében foglalt egyéb információkat, valamint az értékelés során alkalmazott módszer leírását a közbeszerzési dokumentumokban kell meghatározni.
+(2) Az ajánlatkérőnek az értékelési szempontokat és az értékelési szempontok keretében értékelt alszempontokat csökkenő fontossági sorrendben kell feltüntetnie. Az értékelési szempontokat, alszempontokat, valamint az értékelés során alkalmazott módszer leírását az eljárást megindító felhívásban vagy a további közbeszerzési dokumentumokban kell meghatározni.
 
 (3) Életciklus-költségszámítás alkalmazása esetén a 78. §-t is alkalmazni kell.
 
-(4) Ha az eljárásban olyan ajánlatot nyújtanak be, amely kivételesen magas funkcionális teljesítményt nyújtó, innovatív megoldást kínál, és e megoldást egy kellő gondossággal eljáró ajánlatkérő nem láthatta előre, az ajánlatkérő kivételesen módosíthatja – az eljárást megindító felhívásban megadott fontossági sorrend megtartásával – az értékelési szempontok súlyszámát vagy az azok keretében megadott alszempontok fontossági sorrendjét. Ebben az esetben az ajánlatkérő minden ajánlattevőt köteles tájékoztatni a módosulásról, és új ajánlattételre vonatkozó felhívást küld ki, figyelembe véve a 123. § (2) bekezdésében meghatározott huszonkét napos minimális ajánlattételi határidőt. Az e bekezdésben foglalt lehetőséggel az ajánlatkérő csak akkor élhet, ha az eljárás többszakaszos, az eljárást megindító felhívásra nem kellett ajánlatot benyújtani, hanem az ajánlatkérő az eljárás későbbi szakaszában a már alkalmasnak minősített részvételre jelentkezőknek küldött ajánlattételre felhívást, és az eljárást megindító felhívás közzétételekor a gazdasági szereplők számára csak az értékelési szempontok és azok fontossági sorrendje volt megismerhető.
+(4) Ha az eljárásban olyan ajánlatot nyújtanak be, amely kivételesen magas funkcionális teljesítményt nyújtó, innovatív megoldást kínál, és e megoldást egy kellő gondossággal eljáró ajánlatkérő nem láthatta előre, az ajánlatkérő kivételesen módosíthatja az értékelési szempontok vagy az azok keretében megadott alszempontok fontossági sorrendjét. A fontossági sorrend módosulása nem eredményezheti a 2. § (1)–(3) bekezdésében foglalt alapelvek sérelmét. Ebben az esetben az ajánlatkérő,
+
+- a) amennyiben az értékelési szempontok az eljárást megindító felhívás közzétételével egyidejűleg kerültek közzétételre, az ajánlatkérő új eljárást megindító felhívást köteles hirdetményben közzétenni, figyelembe véve a 123. § (2) bekezdésében meghatározott huszonöt napos – ha az ajánlatok csak részben nyújthatóak be elektronikusan, harminc napos – minimális ajánlattételi vagy részvételi határidőt;
+- b) amennyiben az értékelési szempontok az eljárást megindító felhívás közzétételével egyidejűleg még nem kerültek közzétételre, minden ajánlattevőt köteles tájékoztatni a módosulásról, és új ajánlattételre vonatkozó felhívást küld ki, figyelembe véve a 123. § (2) bekezdésében meghatározott tizenhét napos – ha az ajánlatok csak részben nyújthatóak be elektronikusan, huszonkét napos – minimális ajánlattételi határidőt.
 
 ### A részvételi jelentkezések és ajánlatok bírálata
 
@@ -2715,7 +2724,7 @@ valamint a módosítás nem változtatja meg a szerződés általános jellegét
 - d) ha a kérelemmel érintett jogsértéssel összefüggésben előzetes vitarendezést kérelmeztek és
   - da) ha az ajánlatkérő a jogsértéssel kapcsolatban álláspontját határidőben megküldte, de egyéb intézkedést nem tett, ezen jogsértés tekintetében az ajánlatkérői álláspont megküldésének időpontját;
   - db) ha az ajánlatkérő a jogsértéssel kapcsolatban álláspontját határidőben nem küldte meg, ezen jogsértés tekintetében az ajánlatkérői álláspont megküldésére vonatkozó határidő lejártának napját;
-- e) a közbeszerzési eljárás alapján megkötött szerződés e törvénybe ütköző módosítása vagy teljesítése esetében a szerződés módosításáról szóló tájékoztatót tartalmazó hirdetmény közzétételétől, vagy a teljesítésre vonatkozó adatok [43. § (1) bekezdés c) pont] a CoRe-ban történő közzétételétől számított harmincadik napot.
+- e) a közbeszerzési eljárás alapján megkötött szerződés e törvénybe ütköző módosítása vagy teljesítése esetében a szerződés módosításáról szóló tájékoztatót tartalmazó hirdetmény közzétételétől, vagy a teljesítésre vonatkozó adatok [43. § (1) bekezdés c) pont] az EKR-en keresztül a Core-ban történő közzétételétől számított harmincadik napot.
 
 (7a) Ha egy adott jogsértés kapcsán a (7) bekezdés c) pontja szerinti iratbetekintést követően a (7) bekezdés d) pontja szerinti előzetes vitarendezés kezdeményezésére is sor került, a tudomásra jutás időpontjának meghatározására a (7) bekezdés d) pontja alkalmazandó.
 
@@ -2827,7 +2836,7 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 - c) ha a Közbeszerzési Hatóság a 187. § (2) bekezdés j) pontja szerinti hatósági ellenőrzésének eredménye alapján vagy ha a hatósági ellenőrzés megkezdése nélkül is valószínűsíthető, hogy a szerződés módosítására vagy teljesítésére e törvénybe ütköző módon került sor, különösen ha a 142. § (2) bekezdése szerinti jogsértés történt, vagy
 - d) ha a hirdetmény nélküli tárgyalásos eljárás megkezdéséről a Közbeszerzési Hatóság részére megküldött iratok vizsgálata alapján megalapozottan feltételezhető a közbeszerzésre, valamint a közbeszerzési eljárásra vonatkozó jogszabályok rendelkezéseinek, illetve alapelveinek megsértése.
 
-(2) Az (1) bekezdésben foglaltak mellett a Közbeszerzési Hatóság elnöke a Közbeszerzési Döntőbizottság hivatalból való eljárását kezdeményezheti különösen, ha az ajánlatkérő a Közbeszerzési Hatóság felhívása ellenére az előírt határidőben nem teszi közzé a 43. § (1) bekezdés a)–c) pontja és 43. § (2) bekezdés a)–c) pontja szerinti adatokat, információkat, dokumentumokat a CoRe-ban, valamint ha az e törvény felhatalmazása alapján alkotott jogszabály azt egyes dokumentumok, adatok tekintetében kötelezővé teszi, az EKR-ben.
+(2) Az (1) bekezdésben foglaltak mellett a Közbeszerzési Hatóság elnöke a Közbeszerzési Döntőbizottság hivatalból való eljárását kezdeményezheti különösen, ha az ajánlatkérő a Közbeszerzési Hatóság felhívása ellenére az előírt határidőben nem teszi közzé a 43. § (1) bekezdés a)–c) pontja és 43. § (2) bekezdés a)–c) pontja szerinti adatokat, információkat, dokumentumokat az EKR-en keresztül a CoRe-ban, valamint az EKR-ben.
 
 (3) Az (1)–(2) bekezdés szerinti kezdeményezésre a 152. § (2)–(8) bekezdését kell alkalmazni.
 
@@ -3291,10 +3300,10 @@ figyelembe veszi. A bírság összegének megállapításakor figyelembe kell ve
 
 (2) A Hatóság
 
-- a) naprakészen vezeti és a honlapján közzéteszi
+- a) naprakészen vezeti és az EKR-ben közzéteszi
   - aa) a minősített ajánlattevők Hatóság által létrehozott hivatalos jegyzékét,
   - ab) – a gazdasági szereplő megbízhatóságának mérlegelése nélkül – a 62. § (1) bekezdés i) és j) pontja szerinti kizárás megalapozására alkalmas ajánlatkérői döntések tényét, leírását és lényeges körülményeinek összefoglalását, és a 62. § (1) bekezdés i) és j) pontja szerinti kizárást megalapozó döntőbizottsági és bírósági határozatok számát, a határozat elektronikus elérhetőségét (amennyiben elérhető) és a határozathozatal napját,
-  - ac) a gazdasági szereplők közbeszerzési eljárás alapján vállalt szerződéses kötelezettségének jogerős bírósági határozatban megállapított vagy a gazdasági szereplő által nem vitatott súlyos megszegése esetén a szerződésszegés tényét, leírását, lényeges jellemzőit – beleértve azt is, ha a szerződésszegés a szerződés felmondásához vagy a szerződéstől való elálláshoz, kártérítés követeléséhez vagy a szerződés alapján alkalmazható egyéb szankció érvényesítéséhez vezetett, valamint ha a nyertes ajánlattevőként szerződő fél olyan magatartásával, amelyért felelős, részben vagy egészben a szerződés lehetetlenülését okozta – azzal, hogy az adatoknak a honlapon a szerződésszegéstől vagy a bírósági határozat jogerőre emelkedésétől számított három évig kell elérhetőnek lenniük;
+  - ac) a gazdasági szereplők közbeszerzési eljárás alapján vállalt szerződéses kötelezettségének jogerős bírósági határozatban megállapított vagy a gazdasági szereplő által nem vitatott súlyos megszegése esetén a szerződésszegés tényét, leírását, lényeges jellemzőit – beleértve azt is, ha a szerződésszegés a szerződés felmondásához vagy a szerződéstől való elálláshoz, kártérítés követeléséhez vagy a szerződés alapján alkalmazható egyéb szankció érvényesítéséhez vezetett, valamint ha a nyertes ajánlattevőként szerződő fél olyan magatartásával, amelyért felelős, részben vagy egészben a szerződés lehetetlenülését okozta – azzal, hogy az adatoknak az EKR-ben a szerződésszegéstől vagy a bírósági határozat jogerőre emelkedésétől számított három évig kell elérhetőnek lenniük;
   - ad) a kizáró ok hatálya alatt álló gazdasági szereplő megbízhatóságát megállapító határozatokat [188. § (4) bekezdés],
   - ae) a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékét;
 - b) nyilvántartást vezet a közbeszerzésekről;
@@ -3322,6 +3331,8 @@ figyelembe veszi. A bírság összegének megállapításakor figyelembe kell ve
 - x) kizárólagos joggal ellátja a CoRe üzemeltetését.
 
 (2a) A (2) bekezdés u) pontjában foglalt feladatok ellátásához a védett munkahelyek kötelesek ezen minőségükről – valamint az adataikban történt változásokról – haladéktalanul tájékoztatni a Hatóságot az általuk gyártott vagy forgalmazott termékek, valamint a részükről nyújtott szolgáltatások megjelölésével együtt.
+
+(2b) A (2) bekezdés a) pontjában foglalt feladatok ellátása tekintetében kizárólag a Hatóság jogosult az EKR-be feltöltött adatok vonatkozásában módosítást végrehajtani. Az e bekezdésben, a (2) bekezdés a) pontjában, valamint a 43. § (1a) bekezdésében foglaltak teljesítéséhez kapcsolódóan az EKR megfelelő működéséért az EKR üzemeltetője felelős.
 
 (3) A Hatóság elnöke, illetve a közbeszerzési biztos megkeresésére a közbeszerzéssel kapcsolatos ügyben minden szervezet – ideértve a szakmai kamarákat és az érdekképviseleti szervezeteket is – köteles tíz napon belül tájékoztatást adni, és az EKR-ben rendelkezésre álló adatok hozzáférhetőségét biztosítani.
 
@@ -3536,7 +3547,7 @@ rendelkezik.
 
 (8) A közbeszerzésekért felelős miniszter az EKR működtetésével kapcsolatos feladatok ellátása körében statisztikai adatokat gyűjt a közbeszerzési eljárásokról, melyeket rendszeres időközönként közzétesz.
 
-(9)
+(9) A képző szervezetek által megküldött dokumentumok alapján a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékébe történő bejegyzéséhez és a névjegyzékbe vétel megújításához szükséges, elismert szakmai képzéseken részt vevők listáját és a részvétel alapján megszerzett tanulmányi pontokat a közbeszerzésekért felelős miniszter az EKR-ben vezeti. A listában szereplő, egyes természetes személyek által elismert szakmai képzéseken való részvétel alapján megszerzett tanulmányi pontokhoz a névjegyzékbe történő bejegyzés vagy névjegyzékbe vétel megújítás érdekében a Hatósághoz benyújtott kérelem alapján a közbeszerzésekért felelős miniszter a Hatóság részére hozzáférést biztosít.
 
 (10)
 
@@ -3597,6 +3608,8 @@ rendelkezik.
 (19) E törvénynek az egyes törvényeknek a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény hatálybalépésével összefüggő, valamint jogharmonizációs célú módosításáról szóló törvénnyel megállapított 4. § (3) bekezdését a hatálybalépését követően megkötött szerződésekre kell alkalmazni.
 
 (20) E törvénynek az egyes törvények igazgatási, valamint gazdaságélénkítő célú módosításáról, továbbá egyes vagyongazdálkodást érintő rendelkezésekről szóló 2020. évi LXXXI. törvénnyel (a továbbiakban: Mód5. tv.) megállapított 3. § 28. pont a) alpontját, 5. § (3) és (5) bekezdését a Mód5. tv. hatálybalépése napján folyamatban lévő eljárásokban, valamint fennálló jogviszonyokra is alkalmazni kell.
+
+(21) E törvénynek a közbeszerzésekről szóló 2015. évi CXLIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2020. évi CXXVIII. törvénnyel megállapított 43. § (1) és (1a) bekezdését alkalmazni kell az ezen rendelkezések hatálybalépését megelőzően kötött szerződésekre is.
 
 (22) E törvénynek a közbeszerzésekről szóló 2015. évi CXLIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2020. évi CXXVIII. törvénnyel megállapított 138. § (3) bekezdését alkalmazni kell az ezen rendelkezés hatálybalépését megelőzően indult közbeszerzési eljárások alapján kötött szerződésekre is, a megkötött szerződéseknél a még be nem jelentett alvállalkozók tekintetében. A közbeszerzési dokumentumokba foglalt szerződéstervezet vagy a megkötött szerződés módosítása nem szükséges, a szerződés – adott esetben a 131. § (1) bekezdésétől eltérően – a 138. § (3) bekezdése szerinti tartalommal köthető meg, vagy a már megkötött szerződéseknél a nyertes ajánlattevő nem csak a szerződésbe foglaltan nyilatkozhat arról, hogy nem vesz igénybe a kizáró okok hatálya alatt álló alvállalkozót. E törvénynek a közbeszerzésekről szóló 2015. évi CXLIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2020. évi CXXVIII. törvénnyel megállapított 152. § (2) bekezdését a hatálybalépését követően megvalósult jogsértések miatt kezdeményezett jogorvoslati eljárásokra kell alkalmazni.
 

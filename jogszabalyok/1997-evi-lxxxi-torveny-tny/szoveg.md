@@ -212,10 +212,10 @@ megállapításra kerülő öregségi nyugdíj esetében
 - b) 1997. január 1-jétől a biztosítással járó jogviszonyból vagy jogviszonyokból származó, nyugdíjjárulék-alapot képező keresetet, jövedelmet és 1997. évben a keresettel, jövedelemmel azonos időre járó baleseti járadékot,
 - c) amennyiben a nyugdíjjárulékot a biztosítási jogviszony keretében meghatározott összeg után kellett fizetni, ezt az összeget,
 - d) az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény alapján a nyugdíjbiztosítási visszautalás során meghatározott beszámított jövedelmet, ha a Nyugdíjbiztosítási Alapot megillető összeget a Nyugdíjbiztosítási Alapnak átutalták,
-- e) a felszolgálási díj 81%-át,
+- e) a 2020. június 30-áig terjedő időszakra a felszolgálási díj 81%-át, az azt követő időszakra a felszolgálási díj teljes összegét,
 - f) a 2020. június 30-áig terjedő időszakra a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló 81%-át,
 - g) azon egyszerűsített közteherviselési hozzájárulás (ekho) alap 50 százalékát, 2008. január 1-jétől 61 százalékát, amely után a magánszemélyt terhelő ekho mértéke 15 százalék,
-- h) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti munka-rehabilitációs díjat és fejlesztési foglalkoztatási díjat,
+- h) a 2020. augusztus 31-ét követő időszakra a Tbj. 27. § (2) bekezdése szerinti járulékfizetési alsó határ alkalmazása esetén a minimálbér 30 százalékát,
 - i) a Tbj. 41. § (2) bekezdésében meghatározott mezőgazdasági őstermelő esetében az éves bevételének 6 százalékát,
 - j) a főállású kisadózó társadalombiztosítási ellátásainak alapjául szolgáló, törvényben meghatározott összeget.
 
@@ -223,7 +223,7 @@ megállapításra kerülő öregségi nyugdíj esetében
 
 - a) az álláskeresési járadék, a munkanélküli-járadék, a vállalkozói járadék, a nyugdíj előtti munkanélküli-segély, az álláskeresést ösztönző juttatás, a keresetpótló juttatás (a továbbiakban együtt: álláskeresési támogatás) összegét,
 - b) a gyermekgondozást segítő ellátás, gyermekgondozási segély, a gyermeknevelési támogatás és a gyermekgondozási díj összegét,
-- c) a nyugdíjjárulék-köteles szociális és gyermekvédelmi ellátások (gyermekek otthongondozási díja, ápolási díj) összegét,
+- c) a nyugdíjjárulék-köteles szociális és gyermekvédelmi ellátások (gyermekek otthongondozási díja, ápolási díj) összegét, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti munka-rehabilitációs díjat és fejlesztési foglalkoztatási díjat,
 - d) a prémiumévek programról és a különleges foglalkoztatási állományról szóló 2004. évi CXXII. törvény (a továbbiakban: Péptv.) 3–5. §-a szerinti prémiumévek program, illetve különleges foglalkoztatási állomány keretében járó juttatás összegét,
 - e) a rehabilitációs ellátás összegét,
 - f) a rendvédelmi egészségkárosodási keresetkiegészítés, a rendvédelmi egészségkárosodási járadék, a honvédelmi egészségkárosodási keresetkiegészítés vagy a honvédelmi egészségkárosodási járadék, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási keresetkiegészítés, egészségkárosodási járadék összegét,
@@ -687,7 +687,7 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 (3)
 
-67. § A véglegessé vált határozattal megállapított szolgálati idő és a 18. § (2b)–(2d) bekezdése szerinti jogosultsági idő tartama a nyugellátás megállapítása iránti eljárásban a nyugellátásra való jogosultság megállapítása során – a 80. §-ban foglaltaktól eltérően – csak akkor csökkenthető, ha
+67. § A véglegessé vált határozattal megállapított szolgálati idő és a 18. § (2b)–(2d) bekezdése szerinti jogosultsági idő tartama a nyugellátás megállapítása iránti eljárásban – a 96/B. § (10) és (11) bekezdésében foglaltaktól eltérően – csak akkor csökkenthető, ha
 
 - a) a szolgálati idő, illetve a 18. § (2b)–(2d) bekezdése szerinti jogosultsági idő tartamának jogalap nélküli megállapítása az igénylőnek felróható, vagy
 - b) az adott időtartamot a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló európai uniós rendeletek (a továbbiakban: uniós rendeletek) vagy szociális biztonsági, szociálpolitikai egyezmény alapján külföldi szerv szolgálati időként figyelembe veszi.
@@ -759,9 +759,13 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 (2) A nyugdíjfolyósító szerv a megállapított nyugellátás folyósítását – a kormányrendeletben meghatározott esetekben a határozat vele való közlését követő tizenhárom napon belül, egyéb esetben a folyósításhoz szükséges adatokat tartalmazó elektronikus adatállomány beérkezését követő tizenhárom napon belül –
 
 - a) pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján vagy a jogosult által megjelölt belföldi pénzforgalmi szolgáltatónál vezetett fizetési számlára,
-- b) EGT-állam területén élők részére történő folyósítás esetén a jogosult által megjelölt, valamely EGT a államban, pénzforgalmi szolgáltatónál vezetett fizetési számlára,
+- b) EGT-állam vagy Nagy-Britannia és Észak-Írország Egyesült Királysága területén élők részére történő folyósítás esetén a jogosult által megjelölt, valamely EGT-államban vagy Nagy-Britannia és Észak-Írország Egyesült Királyságában, pénzforgalmi szolgáltatónál vezetett fizetési számlára,
 - c) Magyarországgal szociálpolitikai, szociális biztonsági egyezményt kötött állam területén élő személy részére történő folyósítás esetén a jogosult által megjelölt, a szerződő államban, pénzforgalmi szolgáltatónál vezetett fizetési számlára, vagy
-- d) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti – ideiglenes hatállyal elhelyezett vagy nevelésbe vett – gyermek árvaellátását a gyermekvédelmi gyám vagy a gyermek vagyonának kezelésére a gyámhatóság által feljogosított személy által megjelölt gyámhatósági fenntartásos betétre vagy fizetési számlára történő utalással teljesíti. A nyugellátást havonta, forintban kell folyósítani, legkorábban attól a naptól kezdve, amelytől azt megállapították, a jogosultság megszűnésének (megszüntetésének) napjáig, de – ha jogszabály eltérően nem rendelkezik – legfeljebb a jogosult elhalálozásának napját magában foglaló naptári hónap utolsó napjáig.
+- d) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti – ideiglenes hatállyal elhelyezett vagy nevelésbe vett – gyermek árvaellátását a gyermekvédelmi gyám vagy a gyermek vagyonának kezelésére a gyámhatóság által feljogosított személy által megjelölt gyámhatósági fenntartásos betétre vagy fizetési számlára történő utalással
+
+teljesíti.
+
+A nyugellátást havonta, forintban kell folyósítani, legkorábban attól a naptól kezdve, amelytől azt megállapították, a jogosultság megszűnésének (megszüntetésének) napjáig, de – ha jogszabály eltérően nem rendelkezik – legfeljebb a jogosult elhalálozásának napját magában foglaló naptári hónap utolsó napjáig.
 
 (2a) A nyugellátás és a nyugdíjfolyósító szerv által folyósított más ellátás olyan fizetési számlára folyósítható, amely felett a jogosultnak vagy törvényes képviselőjének rendelkezési joga van.
 
@@ -813,15 +817,15 @@ Az özvegyi nyugdíj feléledése során az özvegyre irányadó öregségi nyug
 
 (9) Nem lehet az (1) bekezdésben, az (1a) bekezdés a) pontjában, a (6) bekezdésben és a (7) bekezdésben foglaltakat alkalmazni, ha a nyugellátást elutasító, illetve megállapító korábbi határozatot közigazgatási bíróság már elbírálta.
 
-81. § (1) A társadalombiztosítási nyugellátás iránti igény érvényesítésével kapcsolatos eljárások, valamint az e törvény szerinti más eljárások – a (2) bekezdésben foglalt kivétellel – illeték- és költségmentesek.
+81. § (1) A társadalombiztosítási nyugellátás iránti igény érvényesítésével kapcsolatos eljárások, valamint az e törvény szerinti más eljárások költségmentesek.
 
-(2) Ha a 84–88. § alapján visszafizetésre vagy megtérítésre kötelezett, vagy a 91. § szerinti mulasztási bírságra kötelezett a tartozás mérséklése, elengedése vagy fizetési kedvezmény engedélyezése iránt nyújt be kérelmet, általános tételű eljárási illetéket köteles fizetni.
+(2)
 
 82. § (1) Az, aki a reá irányadó öregségi nyugdíjra jogosító korhatárt elérte és eddig az időpontig legalább húsz év szolgálati időt szerzett, kérheti a nyugdíja összegének folyósítás nélküli megállapítását (a továbbiakban: rögzített nyugdíj). Amennyiben a nyugdíjra jogosító korhatáron túl tovább dolgozik úgy, hogy legalább 365 naptári napra szolgálati időt szerez, és ez idő alatt nem kéri a nyugdíja folyósítását, a tényleges nyugdíjba menetel idején, – amennyiben számára kedvezőbb – választhatja a nyugdíjkorhatár betöltésére rögzített nyugdíjként kiszámított és az évenkénti emelésekkel növelt nyugdíját a tényleges nyugdíjba vonuláskor kiszámított összeg helyett. Aki nyugdíjának folyósítás nélküli megállapítását kéri, nem minősül öregségi nyugdíjasnak.
 
 (2) Nem vonatkozik az (1) bekezdés arra, akinek a reá irányadó öregségi nyugdíjkorhatár betöltésétől a tényleges nyugdíjazás időpontjáig eltöltött idő legalább fele része alatt özvegyi nyugdíjat (állandó özvegyi nyugdíjat) folyósítottak.
 
-83. § (1) Az e törvény alapján megállapított nyugellátásról lemondani, azt – mint a jogosult személyéhez kötött ellátást – átruházni (engedményezni) nem lehet.
+83. § (1) A megállapított nyugellátásról – a kivételes nyugellátás kivételével – a megállapító határozat véglegessé válását követő 15. napot követően nem lehet lemondani. Lemondás esetén a felvett nyugellátást, nyugdíjelőleget vissza kell fizetni. A megállapított nyugellátást nem lehet átruházni, engedményezni.
 
 (2) A jogosult halála esetén a fel nem vett nyugellátást a vele közös háztartásban együtt élt házastárs, gyermek, unoka, szülő, nagyszülő és testvér egymást követő sorrendben, ezek hiányában az örökös veheti fel a halál napjától vagy a hagyatéki végzés jogerőssé válása napjától számított egy éven belül.
 
@@ -937,6 +941,8 @@ kell megtéríteni.
 
 (3) Az (1) bekezdés szerinti közigazgatási szabályszegés esetén figyelmeztetésnek helye nincs.
 
+(4) A mulasztási bírságot kiszabó döntés adatait a nyugdíjbiztosítási igazgatási szerv nem jegyzi be a Közigazgatási Szankciók Nyilvántartásába.
+
 #### 92. §
 
 ### A követelés érvényesítése
@@ -972,7 +978,7 @@ kell megtéríteni.
 
 95. § (1)
 
-(2) A 80. §-ban foglaltak nem érintik a nyugdíjbiztosítási igazgatási szervnek az általános közigazgatási rendtartásban biztosított jogát a döntés módosítására vagy visszavonására. Ha e törvény másként nem rendelkezik, a nyugdíjbiztosítási igazgatási szervek eljárásában a döntés akkor is módosítható vagy visszavonható, ha az jóhiszeműen szerzett és gyakorolt jogot sért.
+(2) A 80. §-ban és a 96/B. § (10) és (11) bekezdésében foglaltak nem érintik a nyugdíjbiztosítási igazgatási szervnek az általános közigazgatási rendtartásban biztosított jogát a döntés módosítására vagy visszavonására. Ha e törvény másként nem rendelkezik, a nyugdíjbiztosítási igazgatási szervek eljárásában a döntés akkor is módosítható vagy visszavonható, ha az jóhiszeműen szerzett és gyakorolt jogot sért.
 
 #### 95/A. §
 
@@ -1014,7 +1020,7 @@ tarthatók nyilván.
 (3) A (2) bekezdés alapján nyilvántartásba vett adatokból
 
 - a) az állami adóhatóság, valamint a vámhatóság az ellenőrzési feladatok érdekében a (2) bekezdés a) és d) pontja,
-- b) az állami adóhatóság, valamint az önkormányzati adóhatóság az adókötelezettség ellenőrzése és az adóvégrehajtási eljárás lefolytatása érdekében, továbbá a támogatás megállapítása és ellenőrzése érdekében a (2) bekezdés a)–d) pontja szerinti adatok, a (2) bekezdés e) pontjából a rokkantság fokára vonatkozó adatok, valamint a (2) bekezdés f) pontja,
+- b) az állami adóhatóság, valamint az önkormányzati adóhatóság az adókötelezettség ellenőrzése és az adóvégrehajtási eljárás lefolytatása érdekében, továbbá a támogatás megállapítása és ellenőrzése érdekében a (2) bekezdés a)–d) pontja szerinti adatok, a (2) bekezdés e) pontjából a rokkantság fokára vonatkozó adatok, valamint a (2) bekezdés f) és h) pontja,
 - c) az egészségügyi ellátást nyújtó szerv vagy személy az egészségügyi szolgáltatói feladatai ellátása érdekében a (2) bekezdés a)–e) pontja,
 - d) a cégbíróság törvény,
 - e) a menekültügyi hatóság az ellátások és támogatások megállapítása, folyósítása és a jogosultság ellenőrzése, valamint a menekültügyi eljárás során az ügyfél által előadottak, illetve a jogszabályban foglalt feltételek fennállásának ellenőrzése céljából a (2) bekezdés a), d) és f) pontja,
@@ -1024,6 +1030,8 @@ tarthatók nyilván.
 - i) az oktatási nyilvántartás működéséért felelős szerv a pályakövetési rendszer működtetése céljából a (2) bekezdés d) pontja,
 - j) a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 35/A. §-ában meghatározott szervezet a közforgalmú személyszállítási utazási kedvezmények ellenőrzése céljából a nyugdíjfolyósító szerv által kibocsátott utazási utalványban részesülő személyekre vonatkozóan a (2) bekezdés a) és h) pontja
 - k) a Magyar Művészeti Akadémiáról szóló törvény szerinti művészjáradékkal kapcsolatos ügyekben eljáró szerv a művészjáradék folyósítása és a jogosultság ellenőrzése érdekében a (2) bekezdés a), c) és h) pontja
+- l) a foglalkoztatás-felügyeleti hatóság, a munkavédelmi hatóság, a családtámogatási ügyben eljáró hatóság, a rehabilitációs hatóság, a szociális, gyermekvédelmi és gyámügyi igazgatás szerve, valamint az állami foglalkoztatási szerv, foglalkoztatás-felügyeleti hatósági ellenőrzés és munkavédelmi ellenőrzés, továbbá az ellátás megállapítása, folyósítása és ellenőrzése céljából a (2) bekezdés a)–f) és h) pontja,
+- m) a rendvédelmi feladatokat ellátó szerv a kiegészítő hozzátartozói támogatásra, illetve az árvák kiegészítő támogatására való jogosultság megállapításához és ellenőrzéséhez a (2) bekezdés a) és h) pontja
 
 szerinti adatok igénylésére jogosult.
 
@@ -1092,6 +1100,13 @@ korlátozni kell. A korlátozást – az (1) bekezdésben meghatározott célbó
 - a) a (3) bekezdés szerinti értesítést az eljárás megindítását követő öt napon belül kell a kérelmezőnek megküldeni,
 - b) a kérelmező a (4) bekezdés szerinti nyilatkozatát a (3) bekezdés szerinti értesítés vele való közlését követő harminc napon belül teheti meg.
 
+(10) Az egyeztetési eljárás keretében a nyugdíjbiztosítási igazgatási szerv a véglegessé vált határozattal megállapított szolgálati idő és a 18. § (2b)–(2d) bekezdése szerinti jogosultsági idő tartamát a biztosított, volt biztosított számára kedvezőbb módon újra megállapítja, ha
+
+- a) a szolgálati idő, jogosultsági idő tartamát jogszabálysértően állapították meg, és a határozatot közigazgatási bíróság még nem bírálta el, vagy
+- b) az újra megállapítás az azóta tudomására jutott tények, adatok vagy bizonyítékok alapján indokolt.
+
+(11) Az egyeztetési eljárás keretében a nyugdíjbiztosítási igazgatási szerv a véglegessé vált határozattal megállapított szolgálati idő és a 18. § (2b)–(2d) bekezdése szerinti jogosultsági idő tartamát egy ízben, az azt megállapító döntés véglegessé válásától számított öt éven belül a biztosított, volt biztosított számára kedvezőtlenebb módon újra megállapítja, ha a szolgálati idő, jogosultsági idő tartamát jogszabálysértően állapították meg, és a határozatot közigazgatási bíróság még nem bírálta el.
+
 96/C. § (1) A nyugdíjbiztosítási igazgatási szerv a nyugdíjkorhatár betöltését megelőzően három évvel köteles a 96/B. § (3) bekezdése szerinti értesítést hivatalból megküldeni a biztosítottnak, volt biztosítottnak.
 
 (2) Nem kell az (1) bekezdés alapján hivatalból a 96/B. § (3) bekezdése szerinti értesítést megküldeni, ha
@@ -1118,7 +1133,7 @@ korlátozni kell. A korlátozást – az (1) bekezdésben meghatározott célbó
 - a) a nyilvántartásban nem szereplő szolgálati idő, jogosultsági idő elismerését is kéri, vagy
 - b) 1954. december 31-ét követően született, és vele egyeztetési eljárást még nem folytattak le, a hatósági bizonyítvány kiadása iránti eljárást fel kell függeszteni, és hivatalból egyeztetési eljárást kell lefolytatni.
 
-(3) Nem kell egyeztetési eljárást lefolytatni, ha a mezőgazdasági őstermelő a biztosítás fennállásának vizsgálatához kéri a hatósági bizonyítvány kiállítását.
+(3)
 
 ### Adatszolgáltatás és bejelentési kötelezettség
 
@@ -1238,7 +1253,11 @@ kivéve, ha a nyugdíjnövelésre jogosult személy a nyugdíjnövelés megálla
 
 (6)
 
-102/B. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
+102/B. § (1) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény és egyes kapcsolódó törvények módosításáról szóló 2021. évi LIII. törvénnyel (a továbbiakban: Módtv.) megállapított 22. § (1) bekezdés e) pontját a 2021. július 1-jén véglegessé vált határozattal le nem zárt ügyekben is alkalmazni kell.
+
+(2) Ha a nyugdíjbiztosítási igazgatási szerv a nyugellátás megállapítása során – a 2021. június 30-án hatályos 22. § (1) bekezdés e) pontjának alkalmazásával – 2020. július 1-je és 2021. június 30-a között szerzett felszolgálási díjat vett figyelembe, a nyugellátás összegét a jogosult 2021. december 31-éig benyújtott kérelmére, a nyugellátás eredeti kezdő időpontjától kezdődően – a Módtv.-vel megállapított 22. § (1) bekezdés e) pontja, egyebekben a nyugellátás eredeti kezdő időpontjában hatályos szabályok alkalmazásával – újra megállapítja.
+
+(3) Ha a 47. § (2) bekezdés c) pontja alapján megállapított özvegyi nyugdíj 2020. január 1-jét megelőzően azért szűnt meg, mert az árva tartós betegsége, fogyatékossága már nem állt fenn, de az árva az árvaellátásra az özvegyi nyugdíj megszűnése óta folyamatosan jogosult, az özvegyi nyugdíj – kérelemre, az igényérvényesítésre vonatkozó rendelkezések alkalmazásával – ismét folyósítható a gyermek árvaellátásra való jogosultságának hátralévő időtartamára.
 
 102/C. § (1) Ha a nyugdíjkorhatár betöltése miatt,
 
@@ -1259,7 +1278,7 @@ szolgálati viszonya az öregségi nyugdíj megállapítását követően helyre
 
 (2) Azt a rokkantsági, baleseti rokkantsági nyugdíjat, amelyet a 2011. december 31-én hatályos 87. vagy 88. § alapján meg kellett téríteni, és 2012. január 1-jétől a megváltozott munkaképességű személyek ellátásairól szóló törvény rendelkezése alapján öregségi nyugdíjként kell továbbfolyósítani, továbbra is meg kell téríteni a 2011. december 31-én hatályos rendelkezések alapján azzal, hogy ahol e rendelkezések rokkantsági, baleseti rokkantsági nyugdíjat említettek, azon öregségi nyugdíjat kell érteni.
 
-102/E. § Ha az adatkezelés korlátozására az egyes családtámogatási és nyugdíjbiztosítási tárgyú törvények módosításáról szóló 2018. évi CXIX. törvénnyel megállapított 96. § (11) bekezdése szerinti határidő 2019. június 30-át megelőző időpontban van, az adatkezelést 2019. június 30-áig kell korlátozni.
+#### 102/E. §
 
 #### 102/E. §
 

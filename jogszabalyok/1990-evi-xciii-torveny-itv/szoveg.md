@@ -877,7 +877,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 - f) külföldi székhelyű vállalkozás magyarországi fióktelepe esetén 50 000 forint,
 - g) külföldi vállalkozás közvetlen kereskedelmi képviselete esetén 50 000 forint.
 
-(1a) A szociális szövetkezet, a közérdekű nyugdíjas szövetkezet, a korlátolt felelősségű társaság, az egyéni cég, a közkereseti társaság és a betéti társaság bejegyzésére irányuló eljárás illetékmentes.
+(1a) A szociális szövetkezet, a közérdekű nyugdíjas szövetkezet, a kisgyermekkel otthon lévők szövetkezete a korlátolt felelősségű társaság, az egyéni cég, a közkereseti társaság és a betéti társaság bejegyzésére irányuló eljárás illetékmentes.
 
 (2) Ha a cégbejegyzésre irányuló kérelemben fióktelep bejegyzését is kérik, az (1) bekezdésben meghatározott illetéken kívül további illetéket nem kell fizetni.
 
@@ -1862,10 +1862,10 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 | IX. Az adatnyilvántartással, okmányokkal összefüggő eljárások közül |  |
 | 1. | a közigazgatási hatóságnál nyilvántartott adatokban bekövetkezett változások jogszabályi előíráson alapuló, kötelező bejelentése |
 | 2. | a személyi adat- és lakcímnyilvántartásban a lakcím érvénytelenné nyilvánítására irányuló eljárás |
-| 3. | a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett értesítési cím törlése, ha a törlést a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti címjogosult kezdeményezi |
-| 4. | a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 27/A. § (1) bekezdése és 27/D. § (1) bekezdése szerinti nyilatkozat megtételével kapcsolatos eljárás |
+| 3. |  |
+| 4. | a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 27/A. § (1) bekezdése szerinti nyilatkozat megtételével kapcsolatos eljárás |
 | 5. | az érintett polgár adatainak a polgárok személyi adatainak és lakcímének nyilvántartásából való törlésére irányuló eljárás |
-| 6. | az értesítési cím bejelentésével kapcsolatos eljárás |
+| 6. |  |
 | 7. | évente egy alkalommal az állandó személyazonosító igazolvány és a lakcímet igazoló hatósági igazolvány kiállítására irányuló eljárás |
 | 8. | a hatósági erkölcsi bizonyítvány kiállítása iránti eljárás évente négy alkalommal |
 | 9. | a vállalkozói igazolvánnyal és az üzlet működési engedélyével kapcsolatos eljárás |
@@ -1874,7 +1874,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 | 12. | a mozgásában korlátozott személy parkolási igazolványával kapcsolatos eljárás |
 | 13. | a népművészeti és népi iparművészeti igazolvánnyal kapcsolatos eljárás |
 | 14. | a) a „Magyar igazolvány” b) a „Magyar hozzátartozói igazolvány” kiállításával, cseréjével, pótlásával, visszavonásával és nyilvántartásával kapcsolatos eljárás, továbbá az igazolvány-nyilvántartásból teljesített adatszolgáltatás |
-| 15. | a Magyarország területén kívül élő magyar állampolgár kérelemre történő személyi, lakcím és értesítési cím adatait tartalmazó nyilvántartásba vételére irányuló eljárás |
+| 15. | a Magyarország területén kívül élő magyar állampolgár kérelemre történő személyi- és lakcímadatait tartalmazó nyilvántartásba vételére irányuló eljárás |
 | 16. | a) a diplomata-útlevél, b) a külügyi szolgálati útlevél, c) az ideiglenes magánútlevél, d) a határátlépési igazolvány, e) a 65. életévét betöltött személy magánútlevelének, második magánútlevelének kiállítása |
 | 17. | a gépjárművezetői engedély kiállítása első alkalommal |
 | 18. | a forgalmi engedély cseréjére irányuló eljárás, amennyiben az a helység, az utca, egyéb helymeghatározó adat nevének vagy számának megváltozása vagy kizárólag jogszabályváltozás miatt szükséges |

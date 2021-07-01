@@ -327,7 +327,7 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 (6) Nem kell az (5) bekezdés rendelkezését alkalmaznia az adózónak
 
 - a) az előtársasági adóévben .és az azt követő adóévben, illetve az első adóévében, amennyiben az előtársasági időszakról külön beszámoló készítésére nem kötelezett, vagy
-- b) ha a 2. § (2) bekezdés e)–h) pontja alapján adóalany, továbbá ha szociális szövetkezet, közérdekű nyugdíjas szövetkezet, iskolaszövetkezet, közhasznú nonprofit gazdasági társaság, vagy
+- b) ha a 2. § (2) bekezdés e)–h) pontja alapján adóalany, továbbá ha szociális szövetkezet, közérdekű nyugdíjas szövetkezet, iskolaszövetkezet, kisgyermekkel otthon lévők szövetkezete, közhasznú nonprofit gazdasági társaság, vagy
 - c) ha az adóévben vagy a megelőző adóévben elemi kár sújtotta és mértéke – több kár esetén azok együttes értéke – eléri az elemi kár bekövetkezését megelőző adóévi évesített árbevétel (átalakulással, egyesüléssel, szétválással létrejött adózónál a jogelőd árbevételéből számított, az átalakulás, egyesülés, szétválás formájától függően azzal egyező, összesített, megosztott árbevétel) legalább 15 százalékát,
 - d) ha a 2. § (2) bekezdés l) pontja vagy (6) bekezdése alapján alapján adóalany.
 
@@ -651,7 +651,7 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 (11) Abban az adóévben, amelyben az alapítvány, a közalapítvány, az egyesület, a köztestület az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerint elsődlegesen gazdasági-vállalkozási tevékenységű szervezetnek minősül, a társasági adó alapja – az (1)–(9) bekezdéstől eltérően – az adózás előtti eredmény, módosítva a 7–8. §-ban, a 16. §-ban, a 18. §-ban és a 28. §-ban, valamint a VII. Fejezetben foglaltakkal.
 
-### Az iskolaszövetkezet és a közérdekű nyugdíjas szövetkezet adóalapja
+### Az iskolaszövetkezet, kisgyermekkel otthon lévők szövetkezete és a közérdekű nyugdíjas szövetkezet adóalapja
 
 10. § (1) Az iskolaszövetkezet adóalapja az adóévre jóváhagyott osztalék, részesedés, továbbá a (6) bekezdés szerint nyilvántartott, adómentesen képződött eredménytartalékból osztalék, részesedés címen jóváhagyott összeg, valamint a jegyzett tőke leszállítása, a tagi jogviszony megszűnése következtében az adóévben keletkezett kötelezettségek együttes összege (a továbbiakban: megállapított osztalék), módosítva a (2)–(5) bekezdésben, továbbá a 18. és 28. §-okban, valamint – figyelemmel a (2)–(3) bekezdésre – a VII. fejezetben foglaltakkal.
 
@@ -669,7 +669,7 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 (8) E § alkalmazásában az eredménytartalékkal esik egy tekintet alá a jegyzett tőkének az a része is, amely az eredménytartalék terhére történő felemeléséből származik, valamint a tőketartaléknak a pozitív összevont átértékelési különbözetből származó része. Ha az adózó a jegyzett tőkét leszállítja, azt kell feltételezni, hogy a tőkeleszállítás – az eredménytartalékból megvalósított tőkeemelés összegéig – jegyzett tőkének az eredménytartalékból származó részéből történt.
 
-(9) Az e §-ban foglalt, az iskolaszövetkezetekre vonatkozó rendelkezéseket a közérdekű nyugdíjas szövetkezetek tekintetében is alkalmazni kell.
+(9) Az e §-ban foglalt, az iskolaszövetkezetekre vonatkozó rendelkezéseket a közérdekű nyugdíjas szövetkezetek és a kisgyermekkel otthon lévők szövetkezetei tekintetében is alkalmazni kell.
 
 ### A kizárólag készfizető kezességvállalást folytató részvénytársaság adóalapja
 
@@ -1789,7 +1789,7 @@ a felajánlás fogadására jogosult szervezetnek átutalja, feltéve, hogy telj
 
 (10)
 
-(11) Nem kell az (1)–(9) bekezdés rendelkezéseit alkalmaznia az adózónak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be, továbbá az MRP-nek, az ingatlannal rendelkező társaság tagjának, a közhasznú nonprofit gazdasági társaságnak, a vízitársulatnak, az alapítványnak, a közalapítványnak, az egyesületnek, a köztestületnek, az egyházi jogi személynek, a lakásszövetkezetnek, a közhasznú szervezetként besorolt felsőoktatási intézménynek, az önkéntes kölcsönös biztosítópénztárnak, a szociális szövetkezetnek, a közérdekű nyugdíjas szövetkezetnek és az iskolaszövetkezetnek.
+(11) Nem kell az (1)–(9) bekezdés rendelkezéseit alkalmaznia az adózónak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be, továbbá az MRP-nek, az ingatlannal rendelkező társaság tagjának, a közhasznú nonprofit gazdasági társaságnak, a vízitársulatnak, az alapítványnak, a közalapítványnak, az egyesületnek, a köztestületnek, az egyházi jogi személynek, a lakásszövetkezetnek, a közhasznú szervezetként besorolt felsőoktatási intézménynek, az önkéntes kölcsönös biztosítópénztárnak, a szociális szövetkezetnek, a közérdekű nyugdíjas szövetkezetnek, a kisgyermekkel otthon lévők szövetkezetének és az iskolaszövetkezetnek.
 
 (12)
 

@@ -1821,11 +1821,11 @@ A meghalt tag örököse, illetve a megszűnt tag jogutódja a társaság többi
 
 (2) A meghalt tagnak a társaságba be nem lépett örököse a tag halálától számított ötéves jogvesztő határidőn belül a hagyatéki tartozásokért való felelősség szabályai szerint köteles helytállni a tag halála előtt keletkezett társasági tartozásokért.
 
-#### 3:152. § [A társaság jogutód nélküli megszűnése]
+#### 3:152. § [A társaság tagjai számának egy főre csökkenése]
 
-(1) A jogi személy jogutód nélküli megszűnésének általános esetein túl a közkereseti társaság jogutód nélkül megszűnik abban az esetben is, ha tagjainak száma egy főre csökken, és az ettől számított hat hónapos jogvesztő határidőn belül a társaság nem jelenti be a nyilvántartó bíróságnál újabb tagnak a társaságba való belépését.
+(1) Ha a közkereseti társaság tagjainak száma egy főre csökken, az ettől számított hat hónapos határidőn belül a társaságnak a nyilvántartó bíróságnál új tagnak a társaságba való belépését kell bejelentenie, vagy a társaság átalakulását, egyesülését, jogutód nélküli megszüntetését kell elhatároznia.
 
-(2) Az új tag belépéséig vagy ennek hiányában a jogutód nélküli megszűnésig vagy a felszámoló kirendeléséig az egyedüli tag jogosult dönteni a tagok gyűlése hatáskörébe tartozó kérdésekben, és őt kell a társaság vezető tisztségviselőjének tekinteni, feltéve, hogy megfelel a vezető tisztségviselőkre vonatkozó törvényi előírásoknak. Ha a társaságnak nem maradt ilyen tagja, a társaság részére a nyilvántartó bíróság felügyelőbiztost rendel ki.
+(2) Az új tag belépéséig, az átalakulás, egyesülés megtörténtéig, vagy a jogutód nélküli megszűnésig, ezek hiányában a felszámoló kirendeléséig az egyedüli tag jogosult dönteni a tagok gyűlése hatáskörébe tartozó kérdésekben, és őt kell a társaság vezető tisztségviselőjének tekinteni, feltéve, hogy megfelel a vezető tisztségviselőkre vonatkozó törvényi előírásoknak.
 
 #### 3:153. § [A közkereseti társaság és a betéti társaság közötti átalakulás]
 
@@ -1851,13 +1851,15 @@ A kültag nem lehet a társaság vezető tisztségviselője.
 
 #### 3:157. § [A tagi felelősség változása]
 
-Ha a társaság beltagja kültaggá válik, a kültaggá válástól számított ötéves jogvesztő határidőn belül a beltagra vonatkozó rendelkezések szerint áll helyt a módosítást megelőzően keletkezett társasági tartozásokért.
+(1) Ha a társaság beltagja kültaggá válik, a kültaggá válástól számított ötéves jogvesztő határidőn belül a beltagra vonatkozó rendelkezések szerint áll helyt a módosítást megelőzően keletkezett társasági tartozásokért.
 
-#### 3:158. § [A társaság jogutód nélküli megszűnése]
+(2) Ha a társaságnak nem marad beltagja, az ezen időpont után keletkezett, a betéti társaságként való működés feltételeinek helyreállításáig vagy a társaság átalakulásának, egyesülésének, jogutód nélküli megszüntetésének elhatározásáig felmerült tartozásokért a kültag a beltagra vonatkozó rendelkezések szerint áll helyt.
 
-(1) A jogi személy jogutód nélküli megszűnésének általános esetein túl a betéti társaság jogutód nélkül megszűnik abban az esetben is, ha valamennyi beltag vagy valamennyi kültag tagsági jogviszonya megszűnik, és az ettől számított hat hónapos jogvesztő határidőn belül a társaság nem jelenti be a nyilvántartó bíróságnak, hogy a társasági szerződés megfelelő módosításával helyreállította a betéti társaságként való működés feltételeit, vagy azt, hogy a betéti társaságot közkereseti társasággá alakította át.
+#### 3:158. § [A társaság valamennyi beltagja vagy valamennyi kültagja tagsági jogviszonyának megszűnése]
 
-(2) Ha a beltagok vagy kültagok hiánya vagy a társasági tagok számának egy főre csökkenése következtében a társaságnak nem maradt vezető tisztségviselője, a társasági szerződés módosításáig vagy a szerződés módosításának hiányában a jogutód nélküli megszűnésig vagy a felszámoló kirendeléséig az a tag minősül vezető tisztségviselőnek, aki megfelel a vezető tisztségviselőkre vonatkozó törvényi előírásoknak. Ebben az esetben a társaság vezető tisztségviselője kültag is lehet. Ha a társaságnak nem maradt ilyen tagja, a társaság részére a nyilvántartó bíróság felügyelőbiztost rendel ki.
+(1) Ha valamennyi beltag vagy valamennyi kültag tagsági jogviszonya megszűnik, az ettől számított hat hónapos határidőn belül a társaságnak be kell jelentenie a nyilvántartó bíróságnak, hogy a társasági szerződés megfelelő módosításával helyreállította a betéti társaságként való működés feltételeit, vagy azt, hogy a betéti társaságot közkereseti társasággá alakította át, vagy azt, hogy a társaság átalakulását, egyesülését, jogutód nélküli megszüntetését elhatározta.
+
+(2) Ha a társaságnak nem maradt vezető tisztségviselője, a társasági szerződés módosításáig, vagy az átalakulás, egyesülés megtörténtéig, a jogutód nélküli megszűnésig, ezek hiányában a felszámoló kirendeléséig az a tag minősül vezető tisztségviselőnek, aki megfelel a vezető tisztségviselőkre vonatkozó törvényi előírásoknak. Ebben az esetben a társaság vezető tisztségviselője kijelölés vagy választás hiányában is a kültag is lehet.
 
 ### XIII. CÍM — A KORLÁTOLT FELELŐSSÉGŰ TÁRSASÁG
 

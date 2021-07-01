@@ -47,7 +47,7 @@ valamint a céginformációs szolgálat feladatai
 - g) különleges törvényességi felügyeleti eljárásban hozott érdemi határozat, továbbá más hatóság eljárásának a kezdeményezése;
 - h) a cég törlésére és a tag, vezető tisztségviselő eltiltására vonatkozó határozat, ha a cég törlésére a 62. § (2) bekezdés a) pontja alapján kerül sor és a felszámolási eljárást kényszertörlési eljárás előzte meg;
 - i) végelszámolás lefolytatása során a végelszámoló jogsértő intézkedése vagy mulasztása miatt előterjesztett kifogás elbírálása tárgyában hozott érdemi határozat;
-- j) a kényszertörlési eljárásban a 118. § szerinti határozatok;
+- j) a kényszertörlési eljárásban a 117/E. §, a 117/F. § és a 118. § szerinti határozatok;
 - k) a vagyonrendezési eljárásban az eljárás lefolytatását elrendelő határozat, a vagyonrendező jogszabálysértő intézkedése vagy mulasztása ellen benyújtott kifogás tárgyában hozott határozatok, valamint a vagyonrendezési eljárás befejezése során hozott érdemi határozat;
 - l) a cégbejegyzési (változásbejegyzési) kérelem elbírálásában hozott határozatok, ha a kérelem elbírálásának során törvényességi felügyeleti eljárás indul;
 - m) a cégjegyzékbe bejegyzett személynek a céggel kapcsolatos jogviszony törlésére irányuló eljárásban hozott határozatok.
@@ -150,7 +150,7 @@ valamint a céginformációs szolgálat feladatai
 
 9/B. § (1) A cégbíróság öt évre eltiltja azt a személyt,
 
-- a) akinek felelősségét a felszámolási vagy kényszertörlési eljárás során ki nem elégített hitelezői követelésért a bíróság jogerősen megállapította és a jogerős bírósági határozat szerinti fizetési kötelezettségét nem teljesítette,
+- a) akinek felelősségét a felszámolási eljárás során ki nem elégített hitelezői követelésért a bíróság jogerősen megállapította és a jogerős bírósági határozat szerinti fizetési kötelezettségét nem teljesítette,
 - b) aki a gazdasági társaság tartozásáért való korlátlan tagi helytállási kötelezettségének nem tett eleget, vagy
 - c) akivel mint vezető tisztségviselővel szemben a cégbíróság pénzbírságot szabott ki és a jogerős határozat szerinti fizetési kötelezettségét nem teljesítette,
 
@@ -162,13 +162,13 @@ feltéve hogy a vele szembeni végrehajtás eredménytelen volt.
 
 (4) A cégbíróság a végrehajtó, illetve a végrehajtást foganatosító egyéb hatóság (bíróság) elektronikus értesítése, illetve elektronikusan megküldött foglalási jegyzőkönyv alapján hivatalból meghozott végzésével eltiltja az érintett személyt.
 
-9/C. § (1) Ha a cég cégjegyzékből történő törlésére a 89–90. § szerinti, továbbá a 91. § szerinti különleges törvényességi felügyeleti eljárást követően kényszertörlési eljárásban kerül sor, a cégbíróság eltiltja a cégnek a kényszertörlési eljárás megindításának időpontjában bejegyzett vezető tisztségviselőjét, korlátlanul felelős tagját, korlátolt tagi felelősséggel működő gazdasági társaságban többségi befolyással rendelkező tagját. E § szerinti szabályt kell alkalmazni akkor is, ha a cég törlésére felszámolási eljárásban történő megszüntetést követően kerül sor, azonban a felszámolási eljárást e bekezdésben meghatározott kényszertörlési eljárás előzte meg.
+9/C. § (1) A cégbíróság e törvényben megállapított esetben eltiltja a cégnek a kényszertörlési eljárás megindításának időpontjában vagy az azt megelőző két évben bejegyzett vezető tisztségviselőjét, korlátlan tagi felelősséggel működő cég esetén a cég tagjait (tagját), korlátolt tagi felelősséggel működő gazdasági társaság esetén a társaság többségi befolyással rendelkező tagját. E § szerinti szabályt kell alkalmazni akkor is, ha a cég törlésére felszámolási eljárásban történő megszüntetést követően kerül sor, azonban a felszámolási eljárást kényszertörlési eljárás előzte meg.
 
-(2) Ha a 91. § (1a) bekezdése, illetve a 117. § (2a) bekezdése szerinti bejelentés a kényszertörlési eljárás megindításának időpontját megelőző egy évre vonatkozóan is tartalmaz a cég által megvalósított mulasztásra vagy céggel szembeni követelésre vonatkozó adatot és a céggel szemben bejelentett követelések összértéke eléri a 100 000 forintot, a cégbíróság eltiltja azt a személyt is, aki a kényszertörlési eljárás megindítását megelőző évben vezető tisztségviselő, korlátlanul felelős tag, korlátolt tagi felelősséggel működő gazdasági társaságban többségi befolyással rendelkező tag volt.
+(2)
 
 (3) Ha e törvény az eltiltás mellőzéséről nem rendelkezik, a cégbíróság az érintett személyt
 
-- a) 500 000 forint összértéket meg nem haladó bejelentett követelések esetén egy évre,
+- a) követelés bejelentésének hiányában, valamint 500 000 forint összértéket meg nem haladó bejelentett követelések esetén egy évre,
 - b) 500 000 forint összértéket meghaladó, de 3 millió forintot el nem érő bejelentett követelések esetén három évre,
 - c) 3 millió forint összértékű vagy azt meghaladó bejelentett követelések esetén öt évre
 
@@ -176,9 +176,9 @@ eltiltja.
 
 (4) Az eltiltott személy az eltiltás hatálya alatt nem szerezhet gazdasági társaságban többségi befolyást, nem válhat gazdasági társaság korlátlanul felelős tagjává, egyéni cég tagjává, továbbá nem lehet cég vezető tisztségviselője, cégvezetője, felügyelőbizottsági tagja.
 
-(5) A cégbíróság mellőzi az eltiltást, ha a kényszertörlési eljárás iratai és a 117/A. § (3a) bekezdése szerinti nyilatkozatban foglaltak alapján egyértelműen megállapítható, hogy az érintett személy a tőle elvárható minden intézkedést megtett a céget terhelő jogszabályi rendelkezések teljesítése érdekében.
+(5)
 
-9/D. § (1) Az eltiltás időbeli hatálya az eltiltást kimondó határozat jogerőre emelkedése napjától kezdődik. A 9/B. § (1) bekezdésében és a 9/C. §-ban érintett cég cégjegyzék adatai között az eltiltásra vonatkozó tényeket a jogerőre emelkedés napjától kell feltüntetni. Ha ugyanazon személyt több cég vonatkozásában is eltiltják, az eltiltás időbeli hatálya az utolsó eltiltás kezdő időpontjához igazodik.
+9/D. § (1) Az eltiltás időbeli hatálya az eltiltást kimondó határozat jogerőre emelkedése napjától kezdődik. A 9/B. § (1) bekezdésében és a 9/C. §-ban érintett cég cégjegyzék adatai között az eltiltásra vonatkozó tényeket a jogerőre emelkedés napjától kell feltüntetni. Ha ugyanazon személyt több cég vonatkozásában is eltiltják, az eltiltás időbeli hatálya a leghosszabb eltiltás kezdő időpontjához igazodik. Ha azonban a leghosszabb eltiltás időtartamából az újabb eltiltás jogerős elrendelésekor kevesebb idő van hátra, mint az újabb eltiltás időtartama, az eltiltott személy eltiltásának időbeli hatálya meghosszabbodik az újonnan elrendelt eltiltás és a korábbi eltiltásból még hátralévő időtartam különbségével.
 
 (2) Az eltiltás hatálya alatt az eltiltás kezdetének napján már fennálló tagsági befolyás mértéke vagyoni szolgáltatás ellenében történő átruházással, ajándékozással nem növelhető – kivéve ha az így létrejövő befolyás nem éri el a többségi befolyás mértékét –, tilalom alá eső befolyás újonnan nem szerezhető.
 
@@ -194,9 +194,7 @@ eltiltja.
 
 (8) E cím alkalmazásában vezető tisztségviselő alatt a cég által megválasztott végelszámolót is érteni kell.
 
-9/E. § (1) Ha a bűnügyi nyilvántartási rendszer adataival való összevetést követő törvényességi felügyeleti eljárásban a cég képviselőjének törlésére a vezető tisztségviselői foglalkozástól eltiltás, mint kizáró ok miatt kerül sor, a cégbíróság a törléssel egyidejűleg a cégjegyzékben feltünteti az eltiltás tényét, továbbá a bűnügyi nyilvántartás adatai alapján az eltiltás kezdetét és végét.
-
-(2) A cégbíróság az (1) bekezdés szerinti esetben is alkalmazza a 9/D. § (4)–(8) bekezdésében foglaltakat.
+#### 9/E. §
 
 ### 8. CÍM — NONPROFIT GAZDASÁGI TÁRSASÁG
 
@@ -225,7 +223,7 @@ eltiltja.
 
 (2) A cégjegyzék fennálló, illetve törölt adatai, valamint a cégiratok – ideértve az elektronikus úton benyújtott, illetve elektronikus okirattá átalakított cégiratokat is – teljeskörűen nyilvánosak. Az adózás rendjéről szóló törvény szerinti adóregisztrációs eljárás eredményes lefolytatását követően teljeskörűen nyilvánosak továbbá a benyújtott, de még el nem bírált bejegyzési kérelem és mellékletei is azzal, hogy a bejegyzési (változásbejegyzési) kérelem elbírálásának folyamatban létére a cégnyilvántartásnak utalnia kell. A törvényességi felügyeleti eljárás iratai e törvény rendelkezései szerint nyilvánosak.
 
-(3) Az eltiltás hatálya alatt teljeskörűen nyilvánosak a 9/B–9/E. § alapján bejegyzett adatok. Az eltiltás hatályának megszűnését követően az eltiltás tényére, kezdetére és végére vonatkozó adatokat vissza nem állítható módon kell a cégjegyzékből automatikus végzéssel véglegesen törölni.
+(3) Az eltiltás hatálya alatt teljeskörűen nyilvánosak a 9/B–9/D. § alapján bejegyzett adatok. Az eltiltás hatályának megszűnését követően az eltiltás tényére, kezdetére és végére vonatkozó adatokat vissza nem állítható módon kell a cégjegyzékből automatikus végzéssel véglegesen törölni.
 
 (4) Ha a cégiratban a jogszabályban előírt, illetve a cégjegyzék adattartalmát meghaladó személyes adat kerül feltüntetésre, a cégiratot szerkesztő jogi képviselő köteles felhívni a természetes személy figyelmét arra, hogy a személyes adatának az okiratban való feltüntetéséhez való hozzájárulása egyben azzal is jár, hogy az a cégiratok nyilvánosságának elve alapján bárki számára megismerhetővé válik.
 
@@ -461,7 +459,7 @@ megismerhetők.
 
 (6) Az (1) bekezdés j) pontjában meghatározott pénzforgalmi számlára vonatkozó adatot a számlát vezető pénzforgalmi szolgáltató elektronikus adattovábbítás útján köteles bejelenteni a cégbíróságon a számla megnyitását követő nyolc napon belül. Ez a rendelkezés irányadó a pénzforgalmi számla megszűnése esetén is. A bejelentés nem esik illeték, illetve közzétételi költségtérítés fizetési kötelezettség alá. Az adat bejegyzése és közzététele automatikusan, a törvény erejénél fogva történik meg. Ha a számlavezető pénzforgalmi szolgáltató e kötelezettségének nem, vagy nem határidőben tesz eleget, a cégbíróság erről tájékoztatja a Magyar Nemzeti Bankot.
 
-(7) Ha a cég felszámolás alatt áll, az (1) bekezdés h) pontja szerinti adatok között a felszámolóbiztos lakóhelye helyett a személyi adat- és lakcímnyilvántartásban szereplő értesítési címe is feltüntethető.
+(7)
 
 (8) Az (1) bekezdés m) pontja szerinti kézbesítési címen a cég a részére elektronikus úton megküldött hivatalos iratok átvételét biztosítja. A cégbíróság e címre a 39/A. § alkalmazásával kézbesít.
 
@@ -1256,7 +1254,7 @@ nincs helye.
 
 (4)
 
-(5) A törvényességi felügyeleti eljárás során hozott jogerős cégbírósági intézkedéssel az ügyben keletkezett iratok nyilvánossá válnak, továbbá nyilvánosak az ügyben keletkezett iratok akkor is, ha a cég a cégbíróság felhívására a törvényes működését helyreállította. Más esetben az iratok nyilvánosságára a Pp. rendelkezései vonatkoznak.
+(5) A 76/A. § (3) bekezdése alapján indult eljárás kivételével a törvényességi felügyeleti eljárás során hozott jogerős cégbírósági intézkedéssel az ügyben keletkezett iratok nyilvánossá válnak, továbbá nyilvánosak az ügyben keletkezett iratok akkor is, ha a cég a cégbíróság felhívására a törvényes működését helyreállította. Más esetben az iratok nyilvánosságára a Pp. rendelkezései vonatkoznak.
 
 (6) Amennyiben a törvényességi felügyeleti eljárásban a cégbírósági iratok kézbesítése postai úton meghiúsul, a cégbíróság a kézbesítendő iratokat a Cégközlönyben történő közzététellel kézbesíti azzal, hogy a közzétételt követő ötödik napon az irat kézbesítettnek tekintendő.
 
@@ -1327,6 +1325,8 @@ nincs helye.
 
 (3) A bűnügyi nyilvántartó szerv a Bnytv. 71. § (2) bekezdése szerinti – cégiratnak nem minősülő – értesítést küld a cégbíróság részére. A bűnügyi nyilvántartó szervnek a Ptk. 3:22. § (4) és (5) bekezdése szerinti kizáró okot tartalmazó értesítése alapján a cégbíróság a céggel szemben hivatalból törvényességi felügyeleti eljárást indít.
 
+(4) Ha a törvényességi felügyeleti eljárásban a cégbíróság törli az érintett személyt a cégjegyzékből, a törlés a törlésről rendelkező végzés jogerőre emelkedésének napjával válik hatályossá. Ha a törvényességi felügyeleti eljárásban a cégbíróság törli az érintett személyt a cégjegyzékből, a cégbíróság a 9/D. § (4), (5) és (8) bekezdésében foglaltakat is alkalmazza.
+
 ### 4. CÍM — A cégbíróság eljárása kérelemre
 
 77. § (1) Kérelemre indul a törvényességi felügyeleti eljárás, ha annak lefolytatását
@@ -1381,6 +1381,8 @@ elbírálásával egyidejűleg
 (4) A cégbíróság a kérelmet elutasítja, ha megállapítja, hogy a kérelemben jelzett jogsértés nem áll fenn. A hivatalból indult törvényességi felügyeleti eljárást meg kell szüntetni, ha az eljárás lefolytatása alapján a cégbíróság megállapítja, hogy a törvénysértő állapot nem áll fenn.
 
 (5) Ha a kérelmet a cég tagjai – jogszabályban biztosított – kisebbségvédelmi jogaik védelmében a legfőbb szerv összehívásának kezdeményezése iránt nyújtják be, a cégbíróság a kérelem érkezésétől számított tizenöt munkanapon belül azt érdemben elbírálja. A kérelmet elutasító cégbírósági végzés ellen fellebbezésnek van helye.
+
+(6) A cég vezető tisztségviselője köteles a cég cégjegyzékbe bejegyzett tagjait (tagját) írásban értesíteni a céggel szemben indult törvényességi felügyeleti eljárás tényéről, és köteles megadni a tagok részére – a törvényes működés helyreállításához szükséges – valamennyi információt. E kötelezettség teljesítését a vezető tisztségviselő az (1) bekezdés szerinti felhívás kézhezvételétől számított tizenöt napon belül köteles a cégbíróságnak igazolni. Ennek elmulasztása esetén a cégbíróság a vezető tisztségviselőt a 98. § (5) bekezdése szerinti pénzbírsággal sújthatja.
 
 ### 7. CÍM — A cégbíróság intézkedései
 
@@ -1487,7 +1489,15 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 
 (4) E cím szerinti eljárásban a fogalmazó vagy a bírósági ügyintéző önállóan jár el.
 
-#### 92. §
+### 7. CÍM — A közkereseti társaság tagjai számának egy főre csökkenésével vagy a betéti társaság valamennyi beltagja vagy valamennyi kültagja jogviszonyának megszűnésével összefüggő eljárás
+
+92. § (1) Az e § szerinti törvényességi felügyeleti eljárásnak van helye, ha a tag halálát követően a Ptk. 3:152. § (1) bekezdése vagy a Ptk. 3:158. § (1) bekezdése folytán válik szükségessé a törvényességi felügyeleti eljárás és a cégbíróság felhívására a társaság bejelenti, hogy a működés törvényes feltételeit azért nem tudja helyreállítani, mert a volt tag örökösével való megállapodás útján kívánja a törvényes működést helyreállítani, azonban az örökös személye bizonytalan. Ebben az esetben a társaságnak igazolnia kell, hogy az örökös személyét illetően bírósági vagy közjegyzői eljárás van folyamatban.
+
+(2) A cégbíróság a törvényességi felügyeleti eljárást intézkedés alkalmazása nélkül az örökös személyének jogerős megállapításáig felfüggeszti és egyben felhívja a társaságot, hogy a felfüggesztési ok megszűnését haladéktalanul jelentse be.
+
+(3) A felfüggesztett törvényességi felügyeleti eljárás folytatásának elrendeléséről a cégbíróság a társaság bejelentését, – ha a felfüggesztési ok megszűnéséről hivatalos tudomást szerez – a tudomásszerzést követően határoz. A végzés ellen fellebbezésnek nincs helye.
+
+(4) A törvényességi felügyeleti eljárás folytatásának elrendeléséről hozott végzésben a cégbíróság arra hívja fel a társaságot, hogy a törvényes működés feltételeit három hónapon belül állítsa helyre.
 
 #### 93. §
 
@@ -1726,13 +1736,25 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 
 (2) Nincs helye kényszertörlési eljárás elrendelésének a cég fizetésképtelenségét megállapító végzés meghozatalát követően, valamint abban az esetben, ha a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság a cégbíróságot arról értesíti, hogy a céggel szemben büntetőjogi intézkedés alkalmazására kerülhet sor. Ha a kényszertörlés elrendelésére a fizetésképtelenséget megállapító végzés meghozatalát követően, de annak jogerőre emelkedését megelőzően került sor, a felszámolást elrendelő bíróság elektronikus értesítése alapján a kényszertörlési eljárás megszüntetésének van helye. Kényszertörlési eljárás alatt fizetésképtelenség megállapítása iránti eljárás – e törvényben foglalt kivétellel – nem kezdeményezhető.
 
-(3) A kényszertörlési eljárás során a cég üzletszerű gazdasági tevékenységet nem végezhet. A cég képviselője a kényszertörlési eljárás alatt e fejezetben foglaltakkal összhangban a hitelezői érdekek figyelembevételével járhat el, a kényszertörlés kezdő időpontjától a cég vagyonával kapcsolatos jognyilatkozatot – az e fejezetben foglaltak kivételével – nem tehet. A kényszertörlési eljárás kezdő időpontját követően a cég szervei nem hozhatnak a kényszertörlési eljárás céljával ellentétes döntéseket, a cég nem dönthet átalakulásáról, egyesüléséről, szétválásáról.
+(3) Ha a kényszertörlési eljárás elrendelésére nem az (1) bekezdés d) pontjában meghatározott okból került sor, a cég a kényszertörlési eljárás kezdő időpontjától számított tizenöt napos jogvesztő határidőn belül kérheti a cégbíróságtól annak engedélyezését, hogy a kényszertörlési eljárás alatt a cég a szokásos napi üzletmenetet meg nem haladó üzletszerű gazdasági tevékenységet végezhessen, arra tekintettel, hogy a 117/C. § szerinti kérelmet kíván előterjeszteni. A cégbíróság a kérelemről öt munkanapon belül határoz. Egyéb esetekben a cég üzletszerű gazdasági tevékenységet a kényszertörlési eljárás kezdő időpontjától nem végezhet. Ha a cég a 117/C. § szerinti kérelmét az előírt határidőben nem terjeszti elő, illetve az jogerősen visszautasításra vagy elutasításra kerül, a határidő lejártát követő naptól, illetve a jogerős bírósági döntés cég általi kézhezvételét követő naptól a cég üzletszerű gazdasági tevékenységet nem végezhet. E bekezdés szerinti kérelmet a cég nem terjeszthet elő, ha adószámmal nem rendelkezik, vagy jogszabály hátrányos jogkövetkezményt ír elő arra az esetre, ha a cég kényszertörlés alatt áll; arról, hogy ezen kizáró okok nem állnak fenn, a cégnek a kérelmében nyilatkoznia kell.
 
-(4) A cégbíróság – a (2) bekezdésben foglalt kivétellel – nem dönthet a kényszertörlési eljárás megszüntetéséről.
+(3a) A kényszertörlési eljárás kezdő időpontját követően a cég szervei nem hozhatnak a kényszertörlési eljárás céljával ellentétes döntéseket, ide nem értve a hitelezői érdekek figyelembevétele mellett meghozható, a 117/C. § szerinti kérelem előterjesztéséhez szükséges döntések meghozatalát. A cég nem dönthet átalakulásáról, egyesüléséről, szétválásáról, nem határozhatja el végelszámolását, a jegyzett tőkéje leszállítását, a kényszertörlési eljárás azonban a cég egyéb cégadatai változásának nem képezi akadályát.
+
+(3b) A vezető tisztségviselő a kényszertörlési eljárás alatt a hitelezői érdekek figyelembevételével köteles eljárni. A vezető tisztségviselő a kényszertörlési eljárás megindítását követően a cég nevében új kötelezettséget nem vállalhat, a céget terhelő kötelezettséget nem elégítheti ki, a cég vagyontárgyát nem ruházhatja át, nem terhelheti meg. A kényszertörlési eljárás alatt a cég vagyontárgyának átruházására kötött szerződés vagy a vezető tisztségviselőnek a cég vagyontárgyának elidegenítésével, illetve megterhelésével kapcsolatos jognyilatkozata semmis.
+
+(3c) A (3) bekezdés szerinti engedély megadása esetén a szokásos napi üzletmenetet meg nem haladó mértékű ügyletekre a (3b) bekezdésben foglaltak nem alkalmazandóak. A (3) bekezdés szerinti engedély megadása esetén a vezető tisztségviselő a hitelezői érdekek figyelembevételével megtehet minden szükséges intézkedést annak érdekében, hogy a 117/C. § (2) bekezdésében meghatározott feltételek teljesüljenek.
+
+(4) A cégbíróság – e fejezetben foglalt kivétellel – nem dönthet a kényszertörlési eljárás megszüntetéséről.
 
 (5) Ha a kényszertörlési eljárás során felszámolási eljárást kell kezdeményezni, a felszámolás során egyezségkötésnek nincs helye és a felszámolási eljárás az adós cég teljesítésére tekintettel nem szüntethető meg.
 
-(6) A kényszertörlési eljárás polgári nemperes eljárás, amelyre a Pp. szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit – ha e törvény eltérően nem rendelkezik – kell alkalmazni, szünetelésnek azonban nincs helye. A kényszertörlési eljárásban az iratok kézbesítésére a 72. § (6) bekezdését alkalmazni kell. Ha e fejezet 1–3. Címe szerinti eljárásban e törvény alapján nem kizárólag bíró járhat el, ott fogalmazó vagy bírósági ügyintéző is – önálló aláírási joggal – eljárhat. A cégbíróság a kényszertörlési eljárásban keletkezett iratokat elektronikusan tartja nyilván. Ennek során jogosult a nem elektronikus irat elektronikus okirati formába történő alakítására. A 118. § szerinti jogerős végzéssel az eljárásban keletkezett iratok nyilvánossá válnak.
+(6) A kényszertörlési eljárás polgári nemperes eljárás, amelyre a Pp. szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit – ha e törvény eltérően nem rendelkezik – kell alkalmazni. A kényszertörlési eljárásban az iratok kézbesítésére a 72. § (6) bekezdését alkalmazni kell. Ha e fejezet 1–3. Címe szerinti eljárásban e törvény alapján nem kizárólag bíró járhat el, ott bírósági titkár, bírósági fogalmazó vagy bírósági ügyintéző is – önálló aláírási joggal – eljárhat. A cégbíróság a kényszertörlési eljárásban keletkezett iratokat elektronikusan tartja nyilván. Ennek során jogosult a nem elektronikus irat elektronikus okirati formába történő alakítására.
+
+(7) A kényszertörlési eljárásban nincs helye félbeszakadásnak, szünetelésnek, költségkedvezmény engedélyezésének és beavatkozásnak.
+
+(8) A kényszertörlési eljárás során elsődlegesen okirati bizonyításnak van helye. A cégbíróság az általa szükségesnek tartott bizonyítást hivatalból is elrendelheti, az ügyben érintettektől írásbeli nyilatkozatot kérhet. A cégbíróság szükség esetén személyes meghallgatást tart. Ha a kényszertörlési eljárást törvényességi felügyeleti eljárás előzte meg, a cégbíróság a törvényességi felügyeleti eljárás iratait is felhasználva jár el.
+
+(9) Ha e törvény eltérően nem rendelkezik, a cégbíróság általános intézkedési kötelezettségének határideje tizenöt munkanap.
 
 ### 2. CÍM — A KÉNYSZERTÖRLÉS LEFOLYTATÁSA, CÉGBÍRÓSÁG ÁLTAL LEFOLYTATOTT VAGYONFELMÉRÉS
 
@@ -1746,9 +1768,9 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 - d) tudomása van a kényszertörlés közzétételének a napját megelőző évben a cég vagyonában bekövetkezett változásról, vagy
 - e) a céggel fennálló munkaviszonyon alapuló bérkövetelése vagy munkaviszonyból származó egyéb követelése van,
 
-azt a közzétételt követő hatvan napon belül jelentse be a cégbíróságnak.
+azt a közzétételt követő negyven napon belül jelentse be a cégbíróságnak. A határidő elmulasztása esetén igényét a kényszertörlési eljárásban már nem érvényesítheti.
 
-(2a) A céggel szembeni követelés bejelentése esetén a bejelentőnek nyilatkoznia kell a követelés összege mellett a követelés jogcíméről, keletkezésének és esedékességének időpontjáról is.
+(2a) A céggel szembeni követelés bejelentése esetén a beadvány tartalmazza a követelés jogosultjának nevét vagy elnevezését, lakcímét vagy székhelyét, szervezet esetén nyilvántartási számát, a követelés jogalapját, összegét és esetleges járulékait, keletkezésének és esedékességének időpontját is. Ha a követelést nem valamely hatóság jelenti be, a beadványhoz a követelést megalapozó okiratokat is csatolni kell.
 
 (3) Az (1) bekezdés szerinti közzététellel egyidejűleg a cégbíróság megkeresi a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartást vezető szervezeteket annak megállapítására, hogy a nyilvántartásukban a kényszertörlés közzétételének napján vagy az azt megelőző évben a cég jog jogosultjaként van-e bejegyezve, a javára, illetve érdekében tény van-e feljegyezve, vagy egyébként a nyilvántartás a cég vagyonára vonatkozó adatot tartalmaz-e. A cégbíróság így megkeresi különösen a gépjárműveket nyilvántartó hatóságot, a légi járművek és az úszólétesítmények lajstromát, illetve nyilvántartását vezető szerveket, az ingatlanügyi hatóságot, az ingó jelzálogjogi nyilvántartást vezető szervezetet, a bírósági végrehajtási ügyek központi nyilvántartását vezető Magyar Bírósági Végrehajtói Kart.
 
@@ -1760,44 +1782,103 @@ azt a közzétételt követő hatvan napon belül jelentse be a cégbíróságna
 
 (7) Ha a (2) bekezdés szerinti bejelentés vagy a cégbíróság által a (3)–(6) bekezdés szerint lefolytatott vagyonfelmérés (a továbbiakban: vagyonfelmérés) alapján megállapítható, hogy a cég vagyonnal rendelkezik, a közhiteles nyilvántartásokból beszerezhető, a vagyonelemekre vonatkozó okiratok beszerzése, valamint az egyes vagyonelemek értékének megállapítására adó- és értékbizonyítvány kiállítása iránt a cégbíróság szükség szerint intézkedik.
 
-117/A. § (1) A cégbíróság – szükség szerint a (3a) bekezdés szerinti értesítéssel együtt – felhívja az elérhető vezető tisztségviselőt és tagokat a cég vagyonára és kötelezettségeire vonatkozó információk közlésére. Gazdasági társaság esetében elegendő a korlátlanul felelős tag vagy a többségi befolyással rendelkező tag felhívása, feltéve hogy a cégnek van ilyen tagja. Az együttműködési kötelezettség megszegése esetén a cégbíróság a 98. § (5) bekezdése szerinti jogkövetkezményeket alkalmazza.
+117/A. § (1) A cégbíróság harmincnapos nyilatkozattételi határidőt biztosítva – szükség szerint a 117/E. § szerinti értesítéssel együtt – felhívja a vezető tisztségviselőt és a cégjegyzékbe bejegyzett tagokat a cég vagyonára és kötelezettségeire vonatkozó információk közlésére. Az együttműködési kötelezettség megszegése esetén e törvényben meghatározott jogkövetkezmények alkalmazásán túl a cégbíróság az érintett személyt a 98. § (5) bekezdése szerinti pénzbírsággal sújthatja.
 
 (2) A kényszertörlési eljárás során az elérhető vezető tisztségviselő köteles a kényszertörlési eljárást elrendelő végzés közzétételét követő húsz napon belül a kényszertörlés alatt álló társasággal jogviszonyban álló munkavállalók részére a kényszertörlési eljárás kezdő időpontjáig esedékes bért kifizetni.
 
 (3) A kényszertörlési eljárás során a vezető tisztségviselő, ha a kényszertörlési eljárást végelszámolás előzte meg, a volt végelszámoló köteles az adózás rendjéről szóló törvény szerinti adókötelezettségeket teljesíteni, valamint a kényszertörlési eljárást megelőző nappal, mint mérlegfordulónappal, számviteli beszámolót készíteni, majd azt a számviteli törvényben foglaltak szerint letétbe helyezni és közzétenni. E bekezdés szerinti számviteli beszámolót nem kell a jóváhagyásra jogosult testületnek elfogadnia. A vezető tisztségviselő, illetve a volt végelszámoló köteles – a (4) bekezdés szerinti esetben a munkavállaló jogviszonyának megszűnésével összefüggő kötelezettségek kivételével – a jogutód nélküli megszűnéssel együttjáró kötelezettségek teljesítésére.
 
-(3a) A cégbíróság értesíti a cég korábbi vezető tisztségviselőjét, illetve korlátlanul felelős tagját, korlátolt tagi felelősséggel működő gazdasági társaságban többségi befolyással rendelkező tagját, ha a 91. § (1a) bekezdése, illetve a 117. § (2a) bekezdése alapján adat merül fel arra, hogy a cég a kötelezettségeit nem teljesítette abban az időszakban, amikor az érintett személy a cég cégjegyzékében bejegyzett vezető tisztségviselője vagy tagja volt. A cégbíróság értesíti továbbá a cégjegyzékbe bejegyzett, eltiltással fenyegetett személyeket is arról, hogy az eljárásban az eltiltásra okot adó körülmény merült fel. A cégbíróság az értesítésben harmincnapos határidővel nyilatkozattételre hívja fel az érintett személyt, hogy vitatja-e a céggel szemben bejelentett követeléseket, továbbá a cég által megvalósított mulasztást, továbbá hogy nyilatkozzon azokról az intézkedésekről, amelyeket megtett annak érdekében, hogy a cég az őt terhelő jogszabályi rendelkezéseket teljesítse. Az értesítés tartalmazza azt is, hogy a nyilatkozattétel elmaradása esetén a cégbíróság a rendelkezésre álló adatok és iratok alapján fog dönteni. A nyilatkozattételi határidő egy alkalommal harminc nappal meghosszabbítható.
+(3a)
 
-(3b) Az eljárásban a cégbíróság a Pp. XX. és XXI. Fejezetében foglaltak megfelelő alkalmazásával személyes meghallgatást tarthat, illetve az eltiltással fenyegetett személy kérelmére a cégbíróság személyes meghallgatást tart.
+(3b)
 
-(4) Ha a 117. § szerinti határidőben vagy a kényszertörlési eljárás jogerős befejezése előtt a 117. § (2) bekezdés e) pontjában foglalt okból munkavállalói bejelentés történik – feltéve hogy a cég elleni felszámolási eljárás megindításának feltételei egyébként nem állnak fenn –, a cégbíróság a felszámolói névjegyzékből jelöli ki a munkaviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolások kiadására és a Bérgarancia Alapból igényelhető támogatással összefüggő feladatok ellátására jogosult személyt (a továbbiakban: Bérgarancia biztos). A Bérgarancia biztost támogatásnak a Bérgarancia Alapból történő igénylése vonatkozásában ugyanazok a jogok illetik meg és kötelezettségek terhelik, mint a felszámolót a felszámolási eljárás esetében. A Bérgarancia biztos feladatára és felelősségére a munkaviszony megszűnésével összefüggésben a munka törvénykönyvének rendelkezései irányadók.
+(4) Ha a cégnek munkavállalóval munkaviszonya áll fenn – feltéve, hogy a cég elleni felszámolási eljárás megindításának feltételei egyébként nem állnak fenn – a cégbíróság a felszámolói névjegyzékből jelöli ki a munkáltatói jogok gyakorlására és a munkaviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolások kiadására, továbbá a Bérgarancia Alapból igényelhető támogatással összefüggő feladatok ellátására jogosult személyt (a továbbiakban: Bérgarancia biztos). A Bérgarancia biztost támogatásnak a Bérgarancia Alapból történő igénylése vonatkozásában ugyanazok a jogok illetik meg és kötelezettségek terhelik, mint a felszámolót a felszámolási eljárás esetében. A Bérgarancia biztos feladatára és felelősségére a munkáltatói jogok gyakorlásával és a munkaviszony megszűnésével összefüggésben a munka törvénykönyvének rendelkezései irányadók.
 
-(5) A Bérgarancia biztos köteles tájékoztatni a cégbíróságot a (4) bekezdés szerinti feladatainak maradéktalan elvégzéséről. A cégbíróság a Bérgarancia biztos igazolt készkiadásait (ideértve a számlában áthárított általános forgalmi adót is) legfeljebb 10 000 forint összeghatárig, továbbá 20 000 forint munkadíját és a díjat terhelő általános forgalmi adót a központi költségvetés terhére megfizeti. A Fővárosi Törvényszék Gazdasági Hivatala (a továbbiakban: Gazdasági Hivatal) minden negyedév utolsó munkanapján összesíti, és az erről szóló kimutatást az államháztartásért felelős miniszter részére megküldi, hogy a tárgynegyedévben milyen pénzösszegre áll fenn a központi költségvetési fizetési kötelezettség. A kimutatás alapján az államháztartásért felelős miniszter a központi költségvetés terhére ezt az összeget elkülönített számlán a Gazdasági Hivatal rendelkezésére bocsátja. A Gazdasági Hivatal a pénzösszeg beérkezését követő tizenöt napon belül teljesíti a Bérgarancia biztos részére az e bekezdés alapján járó kifizetéseket. A Gazdasági Hivatal központi költségvetéssel történő elszámolásának, valamint a pénzösszeg folyósításának részletes szabályait az államháztartásért felelős miniszter rendeletben állapítja meg.
+(5) A Bérgarancia biztos köteles tájékoztatni a cégbíróságot a (4) bekezdés szerinti feladatainak maradéktalan elvégzéséről. A cégbíróság a Bérgarancia biztos igazolt készkiadásait (ideértve a számlában áthárított általános forgalmi adót is) legfeljebb 10 000 forint összeghatárig, továbbá 50 000 forint munkadíját és a díjat terhelő általános forgalmi adót a központi költségvetés terhére megfizeti. A Fővárosi Törvényszék Gazdasági Hivatala (a továbbiakban: Gazdasági Hivatal) minden negyedév utolsó munkanapján összesíti, és az erről szóló kimutatást az államháztartásért felelős miniszter részére megküldi, hogy a tárgynegyedévben milyen pénzösszegre áll fenn a központi költségvetési fizetési kötelezettség. A kimutatás alapján az államháztartásért felelős miniszter a központi költségvetés terhére ezt az összeget elkülönített számlán a Gazdasági Hivatal rendelkezésére bocsátja. A Gazdasági Hivatal a pénzösszeg beérkezését követő tizenöt napon belül teljesíti a Bérgarancia biztos részére az e bekezdés alapján járó kifizetéseket. A Gazdasági Hivatal központi költségvetéssel történő elszámolásának, valamint a pénzösszeg folyósításának részletes szabályait az államháztartásért felelős miniszter rendeletben állapítja meg.
 
 117/B. § Ha a kényszertörlési eljárást ismeretlen székhelyű cég megszüntetésére irányuló eljárás előzte meg, a kényszertörlési eljárásban a 117/A. § (1) bekezdése szerinti felhívásra nem kerül sor, és a cégbíróság az elektronikus vagyonfelmérés során csak az ingatlanügyi hatóságot köteles megkeresni. A cégbíróságnak a bírósági végrehajtási ügyek központi nyilvántartását vezető Magyar Bírósági Végrehajtói Kart csak abban az esetben kell megkeresnie, ha a cégjegyzék a cég elleni végrehajtásról bejegyzést tartalmaz.
 
+117/C. § (1) A cég a 117. §-ban meghatározott bejelentési határidő leteltét követően, a kényszertörlési eljárás kezdő időpontjától számított kilencvenedik napig kérheti, hogy a cégbíróság állapítsa meg, hogy a cég továbbműködésének feltételei fennállnak és a kényszertörlési eljárást vele szemben szüntesse meg. A határidő elmulasztása miatt igazolásnak nincs helye. A cég kényszertörlési eljárás megszüntetése iránti kérelmet nem nyújthat be, ha a kényszertörlési eljárás elrendelésére a 116. § (1) bekezdés d) pontjában meghatározott okból került sor.
+
+(2) A cégbíróság a kényszertörlési eljárást a cég szabályszerűen benyújtott kérelmére akkor szünteti meg, ha a cég okirattal alátámasztva igazolja, hogy
+
+- a) a kényszertörlési eljárás lefolytatását megalapozó ok már nem áll fenn, a cég törvényes működése helyreállt,
+- b) a cég a kényszertörlési eljárásban vele szemben bejelentett esedékes követeléseket kiegyenlítette,
+- c) a kényszertörlési eljárás megszüntetésére előírt illetékét megfizette, valamint
+- d) érvényes adószámmal rendelkezik.
+
+(3) Ha a kényszertörlési eljárásra a 116. § (1) bekezdés a) pontjában meghatározott okból került sor, a cégbíróság a cég továbbműködése feltételeinek fennállására tekintettel a megszűntnek nyilvánítással kapcsolatosan a cégjegyzékbe bejegyzett adatokat is törli.
+
+### 2a. Cím
+
+### A törvénysértő működésben való közrehatás és a bejelentett követelések vizsgálata
+
+117/D. § (1) Ha a kényszertörlési eljárás megszüntetésére nem kerül sor, a bíróság megvizsgálja, hogy a törvénysértő működés körében a vezető tisztségviselőt, illetve a tagot terheli-e mulasztás. Ezen Címnek a tagra vonatkozó rendelkezéseit a nyilvánosan működő részvénytársaság részvényesére nem kell alkalmazni.
+
+(2) Ha a cég ellen a 118. § alapján felszámolási eljárás kezdeményezésének van helye, a 117/F. § (2) bekezdése alkalmazásának nincs helye. Eltiltás esetén az eltiltás időtartama a felszámolási eljárásban kielégítetlenül maradt követelésekhez igazodik.
+
+(3) A cégbíróság értesíti a cégnek a kényszertörlési eljárás megindításának időpontjában a cégjegyzékbe bejegyzett vezető tisztségviselőjét, továbbá korlátlan tagi felelősséggel működő cég esetén a cég tagjait (tagját), korlátolt tagi felelősséggel működő gazdasági társaság esetén a társaság többségi befolyással rendelkező tagját a 117. § szerint bejelentett követelésekről, valamint a céget terhelő, a kényszertörlési eljárás alapjául szolgáló mulasztásról, és harmincnapos határidővel – amely egy alkalommal legfeljebb harminc nappal meghosszabbítható – nyilatkozattételre hívja fel, hogy
+
+- a) vitatja-e a céggel szemben bejelentett követeléseket, továbbá
+- b) nyilatkozzon azokról az intézkedésekről, amelyeket megtett annak érdekében, hogy a cég a jogszabályi rendelkezéseken alapuló kötelezettségeit teljesítse, a törvénysértő működést megszüntesse, és csatolja az intézkedéseket bizonyító okiratokat.
+
+(4) Ha a kényszertörlési eljárás megindításának időpontját megelőző két évben a cégjegyzékben más vezető tisztségviselő, valamint korlátlan tagi felelősséggel működő cég esetén más tag, korlátolt tagi felelősséggel működő gazdasági társaság esetén más többségi befolyással rendelkező tag is szerepelt, és adat merül fel arra, hogy a korábbi vezető tisztségviselőnek, illetve tagnak a jogviszonya alatt is fennállt a cég törvénysértő működése, mulasztása, a cégbíróság a korábbi vezető tisztségviselőt, illetve tagot is bevonja az eljárásba, és felhívja a (3) bekezdés szerinti nyilatkozattételre.
+
+(5) A (3) és a (4) bekezdés szerinti személyt (a továbbiakban együtt: eltiltással érintett személy) ezen Cím szerinti vizsgálat tekintetében a fél jogai illetik meg. A cégbíróság szükség szerint adatot igényel a természetes személyek nyilvántartásából az eltiltással érintett személy lakóhely adatáról.
+
+(6) Ha az eltiltással érintett személy nem elérhető, vélelmezni kell, hogy e személy az adatszolgáltatási és nyilatkozattételi kötelezettségének nem tett eleget. Ha az eltiltással érintett személy a (3) bekezdés szerinti nyilatkozattételre felhívó végzésre nyilatkozatot nem tesz, a nyilatkozat elmulasztását úgy kell értékelni, hogy a 117/F. § (1) bekezdésében meghatározott, az eltiltás alkalmazására okot adó feltételek a nem nyilatkozó eltiltással érintett személlyel szemben fennállnak. A nyilatkozat elmulasztásának következményére a cégbíróság a (3) bekezdés szerinti nyilatkozattételre felhívó végzésében figyelmezteti az eltiltással érintett személyt. Ha az eltiltással érintett személy adatszolgáltatási és nyilatkozattételi kötelezettségének elmulasztása miatt a cégbíróság a 117/F. § (1) bekezdés a) pontjával összefüggő közrehatás vizsgálatát nem tudja megfelelően lefolytatni, a cégbíróság az eltiltással érintett személyt 100 000 Ft-tól 400 000 Ft-ig terjedő pénzbírsággal sújthatja.
+
+(7) A bíróság a (3) bekezdés szerinti nyilatkozattételre felhívó végzésében összegzi a bejelentett követeléseket, valamint a céggel kapcsolatos egyéb körülményeket, ideértve a (8) bekezdésben foglalt körülményeket is.
+
+(8) Ha a céggel szembeni követelés – a cégbíróságnak a hiányok pótlására vonatkozó felhívása ellenére – nem került megfelelő módon bejelentésre és emiatt a követelés fennállása, jogosultja, jogalapja, illetve összegszerűsége nem állapítható meg, vagy a követelés jogosultja, jogalapja, illetve összegszerűsége a cégbíróság által hivatalosan ismert vagy köztudomású tényekkel ellentétesen került megjelölésre, a cégbíróság a bejelentett követelést vitatott követelésként veszi figyelembe, kivéve ha az eltiltással érintett személy e követelést elismeri.
+
+117/E. § (1) Ha az eltiltással érintett személy vitatja a bejelentett követelést vagy annak egy részét, meg kell jelölnie a vitatás indokát és az annak alapjául szolgáló tényeket, valamint csatolnia kell azt az okiratot vagy annak másolatát, amelyre bizonyítékként hivatkozik. Ha a követelés közokiraton alapul, a követelés jogalapja a kényszertörlési eljárásban nem vitatható. Ha az eltiltással érintett személy a vitatás indokát nem jelöli meg vagy az ellentmondásos, a cégbíróság a (3) bekezdés szerinti végzésében elutasítja a követelés vitatását.
+
+(2) Ha az eltiltással érintett bármely személy a követelést vagy annak egy részét vitatja, a cégbíróság az eltiltással érintett személy beadványát megküldi a követelés bejelentőjének, és felhívja, hogy a beadványban foglaltakra tizenöt napos jogvesztő határidőn belül nyilatkozzon. Ha e határidő alatt a követelés bejelentője nem nyilatkozik, a cégbíróság a követelést vitatott követelésként veszi figyelembe.
+
+(3) A cégbíróság végzéssel megállapítja a céggel szembeni követeléseket. Ha az eltiltással érintett személy igazolja, hogy a bejelentett követelés kielégítésére sor került, a kielégített követelés összegét a továbbiakban nem kell figyelembe venni. A cégbíróság a végzésben valamennyi követelés vonatkozásában feltünteti annak jogosultját, jogalapját, összegét, esetleges járulékait, keletkezésének és esedékességének időpontját, valamint azt, hogy a követelés közokiraton, teljes bizonyító erejű magánokiraton vagy egyszerű magánokiraton alapul. A cégbíróság a bejelentett követelés vitatott követelésként történő megjelöléséről rendelkezik a 117/D. § (8) bekezdése szerinti esetben, továbbá az eltiltással érintett személy és a bejelentő nyilatkozata alapján abban az esetben, ha az eltiltással érintett személy a követelés jogosultját, jogalapját, összegszerűségét, keletkezését vagy esedékességét érdemben vitatta.
+
+(4) A (3) bekezdés szerinti végzés ellen az eltiltással érintett személy és a követelés bejelentője fellebbezéssel élhet.
+
+117/F. § (1) Ha a cégbíróság a törvénysértő működés vizsgálata eredményeként megállapítja, hogy az eltiltással érintett személy
+
+- a) nem tudja kétséget kizáróan igazolni azt, hogy az elvárható minden intézkedést megtett a cég törvénysértő működésének megszüntetése, a cég által megvalósított mulasztás megszüntetése érdekében, illetve
+- b) a törvényességi felügyeleti eljárásban vagy a kényszertörlési eljárásban meghatározott kötelezettségének, illetve a bíróság felhívására az adatszolgáltatási és nyilatkozattételi kötelezettségének nem tett maradéktalanul eleget, a cégbíróság a kényszertörlési eljárás befejezésével egyidejűleg külön végzéssel rendelkezik az eltiltással érintett személy eltiltásáról.
+
+(2) Az (1) bekezdés a) pontja szerinti okból eltiltott személy korlátlanul felel a kényszertörlési eljárásban bejelentett, ki nem elégített hitelezői követelésekért. Több eltiltott személy felelőssége egyetemleges. A cégbíróság az (1) bekezdés szerinti végzésében rendelkezik e bekezdés szerinti jogkövetkezményről is.
+
+(3) A jogerősen vitatott követelésnek minősülő követelésre az eltiltott személy felelőssége nem terjed ki.
+
+(4) Az (1) bekezdés szerinti végzés ellen fellebbezésnek van helye.
+
 ### 3. CÍM — A KÉNYSZERTÖRLÉS BEFEJEZÉSE
 
-118. § (1) Ha a cégbíróság azt állapítja meg, hogy a céggel szemben követelés bejelentésére nem került sor, valamint a cég vagyonával kapcsolatos bejelentés vagy adatszolgáltatás nem érkezett, a cégbíróság – a 62. § (4) bekezdése figyelembevételével – a céget – eltiltás mellőzése mellett – törli a cégjegyzékből.
+118. § (1) Ha a cégbíróság azt állapítja meg, hogy a céggel szemben követelés bejelentésére nem került sor, valamint a cég vagyonával kapcsolatos bejelentés vagy adatszolgáltatás nem érkezett, a cégbíróság – a 62. § (4) bekezdése figyelembevételével – a céget – a 116. § (1) bekezdés d) pontja szerinti esetben eltiltás mellőzése mellett – törli a cégjegyzékből.
 
-(2) Ha a céggel szemben követelés bejelentésére került sor, azonban a 117. § szerinti bejelentés, illetve a vagyonfelmérés adatai alapján a cég vagyontalan vagy a vagyona előreláthatóan nem fedezi a várható felszámolási költségeket, a cégbíróság – a 62. § (4) bekezdése figyelembevételével – a céget törli a cégjegyzékből és – kivéve, ha a bejelentett követelés kielégítésre került – rendelkezik az eltiltásról. A cégbíróság végzésében feltünteti a 117. § szerint bejelentett követelések jogosultjait, valamint a követelések és a fellelhető vagyon összesített – valószínűsíthető – mértékét is. A vezető tisztségviselő köteles gondoskodni a cég iratanyagának elhelyezéséről.
+(2) Ha a céggel szemben a (3) bekezdés szerinti mértéket el nem érő összértékű követelés bejelentésére került sor, azonban a 117. § szerinti bejelentés, illetve a vagyonfelmérés adatai alapján a cég vagyontalan vagy a vagyona nem éri el a 400 000 forintot, a cégbíróság – a 62. § (4) bekezdése figyelembevételével – a céget törli a cégjegyzékből és rendelkezik az eltiltásról. A vezető tisztségviselő köteles gondoskodni a cég iratanyagának elhelyezéséről.
 
-(3) Ha a céggel szemben követelés bejelentésére került sor és a 117. § szerinti bejelentés vagy a vagyonfelmérés adatai alapján a cégbíróság megállapítja, hogy
+(3) A cégbíróság a kényszertörlési eljárást megszünteti, és kezdeményezi a cég ellen a felszámolási eljárás megindítását azzal, hogy a 117. § (7) bekezdése szerinti költségek viselésére a céget kötelezi, ha
 
-- a) a cég vagyona előreláthatóan fedezi a várható felszámolási költségeket, vagy
-- b) a cég vagyona valószínűsíthetően fedezetelvonó ügylet miatt jelentősen csökkent vagy fedezetelvonó ügylet miatt nincs vagyona,
+- a) a céggel szemben bejelentett követelések összértéke eléri a 400 000 forintot, vagy
+- b) a céggel szemben követelés bejelentésére kerül sor, és a 117. § szerinti bejelentés vagy a vagyonfelmérés adatai alapján a cégbíróság megállapítja, hogy a cég vagyona eléri a 400 000 forintot.
 
-akkor a cégbíróság a kényszertörlési eljárást megszünteti, és kezdeményezi a cég ellen felszámolási eljárás megindítását azzal, hogy a 117. § (7) bekezdése szerinti költségek viselésére a céget kötelezi.
+(3a) A cégbíróság a felszámolási eljárásban kirendelt felszámoló részére átadja a 117. § szerinti bejelentés és a vagyonfelmérés során beszerzett vagy rendelkezésére álló adatokat és iratokat.
 
-(4) A (2) és a (3) bekezdés alkalmazásában felszámolási költség a Cstv. 57. § (2) bekezdés f) és g) pontjában, valamint a 117. § (7) bekezdésében meghatározott költségek. A (3) bekezdés b) pontja alkalmazásában fedezetelvonó ügylet megtörténtét valószínűsítheti a cégbíróság különösen, ha a 117. § szerinti bejelentés vagy a vagyonfelmérés adatai alapján megállapítható vagyonvesztés mértéke a cég utolsó közzétett számviteli törvény szerinti beszámolójában kimutatott saját tőke összegének vagy a céggel szemben bejelentett követelések összegének legalább a felét eléri.
+(4)
 
-(5) A cégbíróság – a 117. § szerinti bejelentésre és a vagyonfelmérés adataira tekintet nélkül – megszünteti a kényszertörlési eljárást és kezdeményezi a cég ellen felszámolási eljárás megindítását, ha a cég bírósági peres vagy nemperes eljárásban félként vesz részt, feltéve hogy az eljárás a kényszertörlés elrendelését megelőzően indult.
+(5) A cégbíróság – a 117. § szerinti bejelentésre és a vagyonfelmérés adataira tekintet nélkül – megszünteti a kényszertörlési eljárást és kezdeményezi a cég ellen felszámolási eljárás megindítását, ha a cég pénzkövetelés vagy pénzben kifejezhető követelés megtérítésére irányuló peres eljárásban felperesként vesz részt, feltéve hogy az eljárás a kényszertörlés elrendelését megelőzően indult.
 
-(6) Ha a céggel szemben követelés bejelentésére nem került sor, azonban a cég fellelhető vagyonnal rendelkezik, a cégbíróság – eltiltás mellőzése mellett – a céget – a 62. § (4) bekezdése figyelembevételével – törli a cégjegyzékből, és rendelkezik a vagyonnak a tagok közötti felosztásáról a Cstv. 61. §-ában foglaltak alkalmazásával azzal, hogy a 117. § (7) bekezdése szerinti eljárással felmerült költségek viselésére a tagokat egyetemlegesen kötelezi. Amennyiben azonban a cég fellelhető vagyonának tulajdonjogával összefüggésben kétség merül fel, azt úgy kell tekinteni, mintha a céggel szemben követelés bejelentésére került volna sor.
+(6) Ha a céggel szemben követelés bejelentésére nem került sor, azonban a cég fellelhető vagyonnal rendelkezik, a cégbíróság – eltiltás mellőzése mellett – a céget a 62. § (4) bekezdése figyelembevételével törli a cégjegyzékből. Ha azonban a cég fellelhető vagyonának tulajdonjogával összefüggésben kétség merül fel, a cégbíróság kezdeményezi a cég ellen a felszámolási eljárás megindítását.
+
+(6a) A cég törlése esetén, ha a cég fellelhető vagyontárggyal rendelkezik, a cégbíróság a Ptk. 3:48. § (2) bekezdése alkalmazásával rendelkezik a vagyontárgynak a tagok közötti felosztásáról, és szükség szerint rendelkezik a vagyontárgyra vonatkozóan a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásban a tagot megillető tulajdonjog bejegyzéséről. A cégbíróság a cég törléséről rendelkező végzésében szükség szerint rendelkezik valamely vagyontárgyra vonatkozóan a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartásban a céget megillető vagyoni értékű jog – ide nem értve a tulajdonjogot –, illetve a cég javára vagy érdekében feljegyzett tény törléséről is. A cégbíróság végzését a vagyontárgy tulajdonosának is megküldi.
+
+(6b) Az érintett nyilvántartásra vonatkozó szabályoktól eltérően a céget megillető vagyoni értékű jogok – ide nem értve a tulajdonjogot –, illetve a cég javára vagy érdekében feljegyzett tények törlésére a cég törlését elrendelő, a céget megillető vagyoni értékű jog – ide nem értve a tulajdonjogot –, illetve a cég javára vagy érdekében feljegyzett tény törléséről is rendelkező végzés csatolásával kerül sor. Az adott nyilvántartásra vonatkozó jogszabály által megkövetelt törlési engedélyre nincs szükség.
+
+(6c) A cégbíróság az eljárást befejező végzésében feltünteti a cég vagyontárgyait és azok – valószínűsíthető – értékét is. A cégbíróság az (1) és a (2) bekezdés szerinti végzésében a kényszertörlési eljárás kezdő időpontjában a cégjegyzékbe bejegyzett tagokat és vezető tisztségviselőit egyetemlegesen kötelezi az eljárás illetékének viselésére, kivéve, ha a kényszertörlési eljárás elrendelésére a 116. § (1) bekezdés d) pontja alapján került sor.
 
 (7) Az (1), a (2) és a (6) bekezdésben meghatározott végzést a cégbíróság a Cégközlönyben közzéteszi azzal, hogy a cég törlésére vonatkozó rendelkezésével szemben a végzés közzétételétől számított tizenöt napon belül fellebbezésnek van helye. A cég törlését elrendelő végzés jogerőre emelkedését a Cégközlönyben közzé kell tenni. Ha az eljárás adatai alapján a cég tagja, vezető tisztségviselője, illetve az eltiltással érintett személy elérhető, a végzést a cégbíróság részükre postai úton kézbesíti.
 
-### 4. CÍM — TAG, VEZETŐ TISZTSÉGVISELŐ FELELŐSSÉGE
+### 4. CÍM — Kényszertörlési eljáráshoz kapcsolódó per
 
 118/A. § (1) Ha a korlátozott tagi felelősséggel működő céget a cégbíróság kényszertörlési eljárásban törölte a cégjegyzékből, a cég – a cég törlésének időpontjában a cégjegyzékbe bejegyzett – volt tagja korlátlanul felel a cég hitelezőjének kielégítetlen követelése erejéig, ha a tag a korlátolt felelősségével visszaélt. Több tag felelőssége egyetemleges.
 
@@ -1822,6 +1903,26 @@ akkor a cégbíróság a kényszertörlési eljárást megszünteti, és kezdem�
 118/C. § (1) Hitelező az a személy, aki követelését a kényszertörlési eljárásban a 117. § (2) bekezdése szerint bejelentette és követelése jogerős és végrehajtható bírósági, hatósági határozaton, más végrehajtható okiraton alapul vagy nem vitatott vagy elismert, pénz- vagy pénzben kifejezett vagyoni követelés.
 
 (2) A hitelező a keresetét a cég törlését elrendelő jogerős határozat Cégközlönyben való közzétételét követő kilencven napos jogvesztő határidőn belül a cég utolsó bejegyzett székhelye szerint illetékes törvényszéken terjesztheti elő.
+
+(3) A 118/A. § és a 118/B. § szerinti pernek a cégnek azon a tagjával, volt tagjával, valamint azon vezető tisztségviselőjével, volt vezető tisztségviselőjével szemben van helye, akivel szemben a cégbíróság a kényszertörlési eljárásban a 117/F. § (2) bekezdése szerinti jogkövetkezményt nem alkalmazta.
+
+118/D. § (1) A 117/F. § (2) bekezdése szerinti jogerős végzés alapján a cég jogerős törlését elrendelő végzés Cégközlönyben való közzétételét követő kilencvennapos jogvesztő határidőn belül a kényszertörlési eljárásban bejelentett bármely követelés jogosultja keresettel kérheti, hogy a bíróság kötelezze az eltiltott személyt a kényszertörlési eljárásban bejelentett, vitatott követelésnek nem minősülő ki nem elégített követelése megfizetésére.
+
+(2) A perben a követelésnek a 117/E. § (3) bekezdése szerinti jogerős végzésben megállapított jogalapja, valamint a 117/F. § (2) bekezdése szerinti jogerős végzésben megállapított felelősség nem vitatható. Nem vitatható a követelés összegszerűségének a 117/E. § (3) bekezdése szerinti jogerős végzésben megállapított része, ha az összegszerűséget a másodfokú bíróság a végzéssel szembeni fellebbezés során vizsgálta vagy az összegszerűség az elsőfokú végzéssel válik jogerőssé.
+
+(3) A Pp. rendelkezéseit a perben a jelen §-ban meghatározott eltérésekkel kell alkalmazni.
+
+(4) A perre a törvényszék rendelkezik hatáskörrel. A keresetet a cég utolsó bejegyzett székhelye szerint illetékes törvényszéken kell előterjeszteni.
+
+(5) A bíróság a perben soron kívül jár el.
+
+(6) Az ellenkérelem, illetve a viszontkereset előterjesztésére vonatkozó határidő tizenöt nap. Az írásbeli ellenkérelem benyújtására előírt határidő meghosszabbítására vonatkozó határidő legfeljebb tizenöt nap.
+
+(7) A perfelvétel során további írásbeli perfelvétel elrendelésének nincs helye, és a tárgyalási időköz nyolc nap. A tárgyalás kitűzésére vonatkozó határidő egy hónap.
+
+(8) A követelés jogosultja a pert azon eltiltott vezető tisztségviselővel, illetve taggal szemben indíthatja meg, akivel szemben a cégbíróság a 117/F. § (2) bekezdése szerinti jogkövetkezményt is alkalmazta.
+
+(9) Ha több jogosult terjeszt elő az (1) bekezdés szerinti marasztalási keresetet, a bíróság a pereket egyesíti.
 
 ### IX. Fejezet — A VAGYONRENDEZÉSI ELJÁRÁS
 
@@ -2057,6 +2158,17 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 131/M. § E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2019. évi CXVII. törvénnyel megállapított 1. számú melléklet III. 4. pontját a folyamatban lévő eljárásokban akkor kell alkalmazni, ha az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló 2013. évi CLXXVI. törvény 35/A. § alapján az átalakulásról, egyesülésről, szétválásról a cég döntéshozó szerve első ízben 2019. október 1-je után döntött.
 
 131/N. § Az egyes törvények igazgatási, valamint gazdaságélénkítő célú módosításáról, továbbá egyes vagyongazdálkodást érintő rendelkezésekről szóló 2020. évi LXXXI. törvénnyel megállapított 1. § (4) bekezdést a megvalósításhoz szükséges technikai feltételek biztosítását követően kell alkalmazni.
+
+131/O. § (1) A cégbíróság a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény (a továbbiakban: Vmtv.) 157. §-a értelmében felfüggesztett, a kényszertörlési eljárásra és a felszámolási eljárásra vonatkozó és kapcsolódó egyes törvények módosításáról szóló 2021. évi LXX. törvény (a továbbiakban: 2021. évi LXX. tv.) hatálybalépése napján a 116. § (1) bekezdés d) pontja alapján folyamatban lévő, valamint a (2) bekezdés hatálya alá nem tartozó, a 2021. évi LXX. tv. hatálybalépése napján még folyamatban lévő kényszertörlési eljárásokat e törvény 2021. június 30-án hatályos rendelkezései alapján folytatja le.
+
+(2) Ha a cég a Vmtv. 157. § (5) és (6) bekezdésében meghatározott kérelmet 2021. július 30-ig benyújtja a cégbírósághoz, az (1) bekezdést csak akkor kell alkalmazni, ha e kérelem alapján a kényszertörlési eljárás megszüntetésére nem kerül sor.
+
+(3) E törvénynek a 2021. évi LXX. tv.-nyel megállapított rendelkezéseit – az (1) és a (2) bekezdésben foglalt kivétellel – a 2021. évi LXX. tv. hatálybalépése napján vagy azt követően meghozott, a 116. § (1) bekezdés szerinti végzéssel megindult kényszertörlési eljárásokban kell alkalmazni azzal, hogy
+
+- a) a cégbíróság a 117/F. § (2) bekezdése szerinti jogkövetkezményt 2022. június 30-áig nem alkalmazza azokban a kényszertörlési eljárásokban, amelyekben kizárólag az állami adó- és vámhatóság az adószámtörléssel érintett cégek megszűntnek nyilvánítására irányuló eljárás miatti törvényességi felügyeleti illeték összegét jelenti be követelésként és más követelés nincs,
+- b) a cégbíróság a 118. § szerinti, illetve a 117/F. § (2) bekezdése szerinti végzés meghozatala előtt 2022. június 30-áig felfüggeszti azokat a kényszertörlési eljárásokat, amelyekben a 118. § (2) bekezdése szerinti végzés meghozatalának lenne helye és nem tartoznak az a) pont hatálya alá. Ha a cég 2022. június 30-ig cégbíróság felé igazolja, hogy 117/C. § (2) bekezdés a) és d) pontjában foglalt feltételeknek megfelel, a cégbíróság kényszertörlési eljárást a céggel szemben megszünteti.
+
+(4) E törvénynek a 2021. évi LXX. tv.-nyel megállapított 80. § (6) bekezdését a folyamatban lévő törvényességi felügyeleti eljárásokban is alkalmazni kell azzal, hogy a cég vezető tisztségviselője köteles a tagokat a 2021. évi LXX. tv. hatálybalépését követő 30 napon belül tájékoztatni a céggel szemben folyamatban lévő törvényességi felügyeleti eljárásról.
 
 132. § (1) E törvény – végrehajtási rendeleteivel, valamint a Ptk.-val és az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

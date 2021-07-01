@@ -500,7 +500,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 - 11. állásfoglalás intézmény átszervezéséről, megszüntetéséről, ellátási, szolgáltatási körzeteiről, ha a szolgáltatás a települést is érinti;
 - 12. a települési képviselő, polgármester méltatlansági és a vagyonnyilatkozati eljárással kapcsolatos, továbbá összeférhetetlenségi ügyében való döntés;
 - 13. az önkormányzati képviselői megbízatás megszűnéséről való döntés, ha a képviselő egy éven át nem vesz részt a képviselő-testület ülésén;
-- 14. a településfejlesztési eszközök és a településszerkezeti terv jóváhagyása;
+- 14. a településfejlesztési terv és a településrendezési terv jóváhagyása;
 - 15. területszervezési kezdeményezés;
 - 16. a helyi önkormányzati vagyon tulajdonjogának a 108. § szerinti ingyenes átruházására vagy nemzeti vagyon tulajdonjogának ingyenes átvételére vonatkozó döntés;
 - 17. amit törvény a képviselő-testület át nem ruházható hatáskörébe utal.

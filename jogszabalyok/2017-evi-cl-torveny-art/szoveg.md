@@ -66,11 +66,11 @@ vonatkozó rendelkezéseket kell alkalmazni.
 - a) az uniós vámjog végrehajtásáról szóló törvény, illetve a vámjogszabályok eltérő rendelkezése hiányában e jogszabályok hatálya alá tartozó kötelező befizetések, különösen vám, adó, díj, költség, bírság, pótlék, kamat elszámolására, valamint
 - b) jogszabály eltérő rendelkezése hiányában az a) pont alá nem tartozó olyan fizetési kötelezettségek elszámolására, amelyek megállapítása, nyilvántartása, beszedése, végrehajtása, visszatérítése, kiutalása vagy ellenőrzése a vámhatóság hatáskörébe tartozik.
 
-(6) E törvény hatálya kiterjed a távolról is nyújtható szolgáltatás utáni, az Európai Unió más tagállamát megillető hozzáadottértékadó-fizetési és -bevallási kötelezettségre, ha az adóigazgatási rendtartásban meghatározott adózó (a továbbiakban: adózó) e kötelezettségének az állami adó- és vámhatóság útján tesz eleget.
+(6) E törvény hatálya kiterjed az Európai Unió más tagállamát megillető hozzáadottértékadóval kapcsolatos kötelezettségre, ha az adóigazgatási rendtartásban meghatározott adózó (a továbbiakban: adózó) e kötelezettségének az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) XIX/A–XIX/B. fejezetében szabályozott módon az állami adó- és vámhatóság útján tesz eleget.
 
 (7) Az adóigazgatási rendtartásról szóló törvényt és e törvényt kell alkalmazni a jövedéki adóról szóló 2016. évi LXVIII. törvény (a továbbiakban: Jöt.) alapján folytatott engedélyezési és tevékenység nyilvántartásba vételére vonatkozó eljárásokban.
 
-(8) A törvény hatálya kiterjed az Európai Unió tagállamainak területén székhellyel, telephellyel, lakóhellyel, szokásos tartózkodási hellyel nem rendelkező, az általános forgalmi adóról szóló 2007. évi CXXVII. törvényben (a továbbiakban: Áfa tv.) meghatározott telekommunikációs, rádió és audiovizuális médiaszolgáltatásokat, valamint elektronikus szolgáltatást (a továbbiakban: távolról is nyújtható szolgáltatás) nyújtó olyan adóalanyra, aki, amely a szolgáltatást az Európai Unió valamely tagállamának területén székhellyel, lakóhellyel, szokásos tartózkodási hellyel rendelkező, adóalanynak nem minősülő személynek nyújtja, feltéve, hogy az állami adó- és vámhatóságnál elektronikus úton bejelentkezik.
+(8) E törvény hatálya kiterjed az Európai Unió tagállamainak területén székhellyel, telephellyel, lakóhellyel, szokásos tartózkodási hellyel nem rendelkező, olyan adóalanyra, aki, amely az Európai Unió valamely tagállamának területén székhellyel, lakóhellyel, szokásos tartózkodási hellyel rendelkező, az általános forgalmi adó törvény szerint adóalanynak nem minősülő személynek importál, értékesít terméket, nyújt szolgáltatást, feltéve, hogy az állami adó- és vámhatóságnál elektronikus úton bejelentkezik.
 
 (9) Ha törvény másként nem rendelkezik, a vámszabad területre is e törvény rendelkezéseit kell alkalmazni.
 
@@ -440,7 +440,7 @@ Az állami adó- és vámhatóság az együttműködő közösség leendő tagja
 
 (3) Az állami adó- és vámhatóság az adózó által bejelentett természetes személyazonosító adatokat, lakcímet a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv nyilvántartásában szereplő adatokkal, nem magyar állampolgárok esetén a csatolt okiratok tartalmával egybeveti, és az okmányok érvényességét ellenőrzi.
 
-(4) Az (1) és a (2) bekezdés szerinti bejelentés alapján az adóhatóság megállapítja a természetes személy adóazonosító jelét, és arról tizenöt napon belül hatósági igazolványt (a továbbiakban: adóigazolvány) állít ki.
+(4) Az (1) és a (2) bekezdés szerinti bejelentés alapján az adóhatóság megállapítja a természetes személy adóazonosító jelét, és arról tizenöt napon belül hatósági igazolványt (a továbbiakban: adóigazolvány) állít ki, ennek során, továbbá az adóigazolvány egyéb okból történő kiállítása esetén megküldi az adóigazolvány kiállításához szükséges adatokat az adóigazolvány megszemélyesítését végző szervezet részére.
 
 (5) Az állami adó- és vámhatóság az adóazonosító jelről első ízben hatvan napra érvényes ideiglenes adóigazolványt állít ki, ha a természetes személy által az (1) bekezdés szerint bejelentett adatok (3) bekezdés szerinti egybevetése és ellenőrzése során eltérést állapít meg.
 
@@ -522,6 +522,7 @@ Ha a természetes személy adózó az állami adó- és vámhatóságnál tört�
 - f) amelyet a törzskönyvi nyilvántartásból töröltek,
 - g) amelyet a bírósági nyilvántartásból töröltek,
 - h) akinek (amelynek) nyilvántartását nem a bíróság, a cégbíróság, a kincstár vagy az egyéni vállalkozók nyilvántartását vezető szerv vezeti, és adószámát az állami adó- és vámhatóság a 246. § alapján véglegesen törölte.
+- i) aki áfa-regisztrált adóalanyként bejelenti, hogy általános forgalmi adókötelezettségének az Európai Unió egy másik tagállamának illetékes hatóságán keresztül tesz eleget, és ezen adókötelezettségen kívül egyéb adókötelezettsége belföldön nem merül fel.
 
 (2) Az (1) bekezdés d) pontjában meghatározott esetekben a nyilvántartásból való törlésről az állami adó- és vámhatóság az adózót haladéktalanul értesíti.
 
@@ -1083,6 +1084,8 @@ A befektetési szolgáltató az adóévet követő év január 31. napjáig elek
 
 az (1) bekezdés szerinti adattartalommal közli az állami adó- és vámhatósággal.
 
+(3) A jármű tulajdonjogának, üzemben tartói jogának bejegyzésére, ezek valamelyikének változására irányuló eljárás során az eljáró közlekedési igazgatási hatóság a közlekedési igazgatási ügymenetet támogató informatikai rendszerben az általa rögzített, az adózó által bemutatott, a gépjármű és pótkocsi vagyonszerzési illetékének megfizetését igazoló készpénz-átutalási megbízás azonosító számát, a jármű gyártójának kódját, valamint a befizetett illeték összegét a közúti közlekedési nyilvántartást vezető szerv útján, továbbá a közúti közlekedési nyilvántartást vezető szerv a közúti közlekedési nyilvántartásról szóló törvényben szereplő adatok közül a gépjármű és pótkocsi vagyonszerzési illetéke teljesítésének ellenőrzéséhez szükséges adatokat (a jármű fajtáját, gyártmányát, típusát, kategóriáját, forgalmi rendszámát, hengerűrtartalmát, teljesítményét, össztömegét, gyártási évét, a járműtulajdonos, üzemben tartói jog jogosítottja azonosító adatait, lakcímét, székhelyét) elektronikus úton továbbítja az állami adó- és vámhatóságnak.
+
 #### 88. § [Adatszolgáltatás ideiglenes rendszámtábla kiadásról]
 
 A közúti közlekedési nyilvántartási szerv minden hónap tizenötödik napjáig az előző hónap utolsó napja szerinti állapotnak megfelelően elektronikus úton adatokat szolgáltat a gépjárműadóról szóló törvény hatálya alá tartozó gépjárművek esetén az ideiglenes rendszámtábla kiadásáról az állami adó- és vámhatóságnak. Az adatszolgáltatás tartalmazza a kérelmező nevét, anyja nevét, születési helyét és idejét, valamint lakcímét, székhelyét, továbbá a jármű fajtáját és rendszámát.
@@ -1503,128 +1506,23 @@ teljesítéséért.
 
 A csoportos társasági adóalany Tao tv. szerinti adófizetési kötelezettsége, illetve a Tao tv. szerint őt megillető adóvisszatérítés teljesítésére a csoportképviselő által az állami adó- és vámhatósághoz bejelentett pénzforgalmi számlája szolgál.
 
-### XIII. Fejezet — TÁVOLRÓL IS NYÚJTHATÓ SZOLGÁLTATÁSOKAT NYÚJTÓ ADÓZÓKRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
+### XIII. Fejezet
 
-#### 115. § [Értelmező rendelkezések]
+#### 115. §
 
-E Fejezet alkalmazásában
+#### 116. §
 
-- a) teljesítési hely szerinti tagállam: az a tagállam, amelyet az Áfa tv. szerint nem adóalany részére nyújtott távolról is nyújtható szolgáltatás teljesítési helyének kell tekinteni,
-- b) HÉA-bevallás: a különös szabályozás szerint fizetendő hozzáadottérték-adó (a továbbiakban: HÉA) összegének megállapításához szükséges adatokat tartalmazó bevallás.
+#### 117. §
 
-#### 116. § [Különös szabályozás]
+#### 118. §
 
-(1) Az az Áfa tv. szerint belföldön letelepedett, de a teljesítési hely szerinti tagállamban nem letelepedett, valamint az Európai Unió területén nem letelepedett adóalany (e fejezet alkalmazásában a továbbiakban: adózó), aki (amely) nem adóalany részére távolról is nyújtható szolgáltatást nyújt, e szolgáltatása utáni HÉA fizetési és bevallási kötelezettségének választása szerint az állami adó- és vámhatóság útján tesz eleget. Az adózó e választása esetén e törvény rendelkezéseit az e fejezetben foglalt eltérésekkel, valamint az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusaira tekintettel kell alkalmazni (a továbbiakban: különös szabályozás).
+#### 119. §
 
-(2) Ha az adózó a különös szabályozás alkalmazását választja, azt köteles alkalmazni minden olyan teljesítési hely szerinti tagállam tekintetében, ahol nem telepedett le.
+#### 120. §
 
-#### 117. § [Az Európai Unió területén nem letelepedett adózó bejelentési kötelezettsége]
+#### 121. §
 
-(1) Az adózó az azonosítószám megállapítása céljából a távolról is nyújtható szolgáltatási tevékenységének az Európai Unió bármely tagállamában történő megkezdését megelőzően az állami adó- és vámhatósághoz elektronikus úton bejelenti:
-
-- a) a vállalkozás nevét, cégneve(i)t, ha eltér(nek) a vállalkozás nevétől,
-- b) a teljes postai címét, e-mail címét, a cég elektronikus elérhetőségét (honlapját),
-- c) a székhelye szerinti adóazonosító számát, ha ilyennel rendelkezik,
-- d) az adózó székhelye szerinti ország megnevezését,
-- e) az IBAN vagy OBAN bankszámlaszámot,
-- f) a BIC-kódot
-- g) az adóhatósággal történő kapcsolattartásra feljogosított személy (kapcsolattartó) nevét, telefonszámát,
-- h) nyilatkozatot arról, hogy az Európai Unió területén nem telepedett le,
-- i) a különös szabályozás hatálya alá eső tevékenység megkezdésének időpontját.
-
-(2) Az adózó a különös szabályozás hatálya alá eső adókötelezettségét érintő változást – elektronikus úton, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusaiban meghatározott határidőben – bejelenti az állami adó- és vámhatóságnak. Ilyen változásnak minősül különösen valamely, a különös szabályozás hatálya alá tartozó tevékenység megszűnése, vagy ha az adózó a továbbiakban már nem felel meg a különös szabályozás alkalmazásához szükséges feltételeknek.
-
-(3) Az állami adó- és vámhatóság a bejelentés alapján az adózót nyilvántartásba veszi az Európai Unió területén nem letelepedett adózók között, és azonosító számmal látja el, amelyről elektronikus úton értesíti az adózót.
-
-(4) Az adózó a különös szabályozás alkalmazásának időpontjától valamennyi adókötelezettségét elektronikus úton köteles teljesíteni az állami adó- és vámhatósághoz.
-
-(5) Az állami adó- és vámhatóság törli a bejelentkezett és azonosító szám alapján nyilvántartásba vett, az Európai Unió területén nem letelepedett adózók közül azt:
-
-- a) aki a különös szabályozás hatálya alá tartozó szolgáltatás nyújtását befejezte,
-- b) akinél feltételezhető, hogy a különös szabályozás hatálya alá tartozó szolgáltatás-nyújtási tevékenysége befejeződött,
-- c) aki nem felel meg a különös szabályozás alkalmazására vonatkozó feltételeknek,
-- d) aki rendszeresen nem tartja be a különös szabályozás alkalmazására vonatkozó előírásokat.
-
-(6) Az állami adó- és vámhatóság a különös szabályozás hatálya alatt álló adózókra vonatkozó nyilvántartásában az adózóra vonatkozó adatokat a regisztrációs (bejelentési) és bevallási adatok adózó által történő rendelkezésre bocsátásának, illetve az adózó különös szabályok alkalmazhatóságából történő kizárásának, kilépésének naptári éve végétől számított 5 évig nyilvántartja.
-
-(7) A különös szabályozás hatálya alatt, illetve az ennek hatálya alól történő kizárást, kilépést követően is a HÉA-bevallás – különös szabályozás keretében történő – módosítására a bevallás benyújtására nyitva álló határidő lejártát követő három évig van lehetőség.
-
-#### 118. § [Az Európai Unió területén nem letelepedett adózó bevallási kötelezettsége]
-
-(1) Az adózó minden egyes naptári negyedévre vonatkozóan, elektronikus úton HÉA-bevallást nyújt be – függetlenül attól, hogy nyújtott-e a különös szabályozás hatálya alá tartozó szolgáltatást – azon adómegállapítási időszak végét követő húsz napon belül, amelyre a bevallás vonatkozik.
-
-(2) A HÉA-bevallás tartalmazza:
-
-- a) az azonosító számot,
-- b) az adómegállapítási időszakban nyújtott távolról is nyújtható szolgáltatások HÉA nélküli teljes összegét minden egyes olyan teljesítési hely szerinti tagállam tekintetében, amelyben HÉA fizetendő,
-- c) a vonatkozó HÉA – adómértékek szerint lebontott – teljes összegét,
-- d) az alkalmazandó HÉA-mértéket minden egyes olyan teljesítési hely szerinti tagállam tekintetében, amelyben a HÉA fizetendő,
-- e) a fizetendő HÉA teljes összegét minden egyes olyan teljesítési hely szerinti tagállam tekintetében, amelyben a HÉA fizetendő.
-
-(3) A HÉA-bevallást euróban kell elkészíteni, az adómegállapítási időszak utolsó napján érvényes, az Európai Központi Bank által az adott napra vonatkozóan közzétett átváltási árfolyamon. Ha az érintett napon nem tettek közzé átváltási árfolyamot, akkor a következő közzétételi napon kiadott árfolyamot kell alkalmazni.
-
-(4) A HÉA-t a bevallás benyújtásával egy időben, legkésőbb a bevallás benyújtására előírt határidőig, az állami adó- és vámhatóság által közzétett euróbankszámlára euróban, átutalással kell megfizetni, hivatkozva a befizetés alapjául szolgáló HÉA-bevallásra. Bármely, az adózó önhibájából eredő, az adóhatóságot terhelő utalási költség, így különösen a téves, beazonosíthatatlan utalás költsége az adózót terheli.
-
-#### 119. § [Az Európai Unió területén nem letelepedett adózó nyilvántartási kötelezettsége]
-
-Az adózó a 77. §-ban megállapított nyilvántartás-vezetési kötelezettségének oly módon tesz eleget, hogy a teljesítési hely adóhatósága által végzett ellenőrzést is lehetővé tegye. Az adózó a nyilvántartást felhívásra elektronikus úton is rendelkezésre bocsátja. A nyilvántartást a távolról is nyújtható szolgáltatás Áfa tv. szerinti teljesítési időpontját magában foglaló naptári év utolsó napjától számított tíz évig kell megőrizni.
-
-#### 120. § [A belföldön letelepedett adózó bejelentési kötelezettsége]
-
-(1) Az adózó a különös szabályozás alkalmazására vonatkozó választásakor az állami adó- és vámhatósághoz bejelenti:
-
-- a) a vállalkozás nevét, cégneve(i)t, ha eltér(nek) a vállalkozás nevétől,
-- b) a teljes postai címét, e-mail címét, a cég elektronikus elérhetőségét (honlapját),
-- c) az Európai Unió másik tagállamban található állandó telephely(ek) teljes postai címét,
-- d) a belföldi adóazonosító számát,
-- e) az adózó székhelye szerinti ország megnevezését, ha a székhely az Európai Unió területén kívül található,
-- f) az IBAN bankszámlaszámot,
-- g) a BIC-kódot,
-- h) az adóhatósággal történő kapcsolattartásra feljogosított személy (kapcsolattartó) nevét, telefonszámát,
-- i) az adózó állandó telephelye szerinti az Európai Unió más tagállamában megállapított HÉA azonosító számot, vagy ennek hiányában adónyilvántartási számot,
-- j) az Európai Unió más olyan tagállama által az adózó részére megállapított HÉA azonosító számot, ahol az adózó nem telepedett le,
-- k) a különös szabályozás hatálya alá eső tevékenység megkezdésének időpontját.
-
-(2) Az adózó a különös szabályozás hatálya alá eső adókötelezettségét érintő változást – elektronikus úton, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusaiban meghatározott határidőben – bejelenti az állami adó- és vámhatóságnak. Ilyen változásnak minősül különösen valamely, a különös szabályozás hatálya alá tartozó tevékenység megszüntetése, vagy ha az adózó a továbbiakban már nem felel meg a különös szabályozás alkalmazásához szükséges feltételeknek.
-
-(3) Az állami adó- és vámhatóság a bejelentés alapján az adózót a különös szabályozás hatálya alatt álló adózókra vonatkozó nyilvántartásába felveszi, amelyről elektronikus úton értesíti az adózót.
-
-(4) Az adózó a különös szabályozás alkalmazásának időpontjától valamennyi, e különös szabályozás hatálya alá tartozó adókötelezettségét elektronikus azonosítását követően elektronikus úton köteles teljesíteni az állami adó- és vámhatósághoz.
-
-(5) A bejelentkezés kivételével az adókötelezettség e fejezet alapján történő teljesítése során egyebekben az adóügyek állami adó- és vámhatóság előtt történő elektronikus intézésének szabályairól szóló jogszabály előírásait kell megfelelően alkalmazni.
-
-(6) Az állami adó- és vámhatóság kizárja a különös szabályozás alkalmazhatóságából
-
-- a) az adózót, ha a különös szabályozás hatálya alá tartozó szolgáltatás nyújtását befejezte,
-- b) azt, akinél feltételezhető, hogy a különös szabályozás hatálya alá tartozó szolgáltatás-nyújtási tevékenysége befejeződött,
-- c) az adózót, ha nem felel meg a különös szabályozás alkalmazására vonatkozó feltételeknek, és
-- d) az adózót, ha rendszeresen nem tartja be a különös szabályozás alkalmazására vonatkozó előírásokat.
-
-(7) Az állami adó- és vámhatóság különös szabályozás hatálya alatt álló adózókra vonatkozó nyilvántartásában az adózóra vonatkozó adatokat a regisztrációs (bejelentési) és bevallási adatok adózó által történő rendelkezésére bocsátásának, illetve az adózó különös szabályok alkalmazhatóságából történő kizárásának, kilépésének naptári éve végétől számított öt évig nyilvántartja.
-
-(8) A különös szabályozás hatálya alatt, illetve az ennek hatálya alól történő kizárást, kilépést követően is a bevallás – különös szabályozás keretében történő – módosítására az alapbevallás benyújtására nyitva álló határidő lejártát követő három évig van lehetőség.
-
-#### 121. § [A belföldön letelepedett adózó bevallási kötelezettsége]
-
-(1) Az adózó minden egyes naptári negyedévre vonatkozóan, elektronikus úton HÉA-bevallást nyújt be – függetlenül attól, hogy nyújtott-e a különös szabályozás hatálya alá tartozó szolgáltatásokat – azon adómegállapítási időszak végét követő húsz napon belül, amelyre a bevallás vonatkozik.
-
-(2) A HÉA-bevallás tartalmazza:
-
-- a) az azonosítószámot,
-- b) az adómegállapítási időszakban nyújtott távolról is nyújtható szolgáltatások HÉA nélküli teljes összegét minden egyes olyan teljesítési hely szerinti tagállam tekintetében, amelyben HÉA fizetendő,
-- c) a vonatkozó HÉA – adómértékek szerint lebontott – teljes összegét,
-- d) az alkalmazandó HÉA-mértéket minden egyes olyan teljesítési hely szerinti tagállam tekintetében, amelyben HÉA fizetendő,
-- e) a fizetendő HÉA teljes összegét minden egyes olyan teljesítési hely szerinti tagállam tekintetében, amelyben HÉA fizetendő.
-
-(3) A (2) bekezdésben foglaltakon túlmenően, ha az adózó az Európai Unió másik tagállamában egy vagy több olyan állandó telephellyel rendelkezik, ahonnan távolról is nyújtható szolgáltatást nyújt, a bevallás tartalmazza – teljesítési hely szerinti tagállamonkénti bontásban – a különös szabályozás hatálya alá tartozó szolgáltatások teljes összegét minden olyan tagállam vonatkozásában, amelyben az adózó állandó telephellyel rendelkezik, és az egyéni HÉA-azonosító számát vagy e telephely adó-nyilvántartási számát.
-
-(4) A HÉA-bevallást euróban kell elkészíteni az adómegállapítási időszak utolsó napján érvényes, az Európai Központi Bank által az adott napra vonatkozóan közzétett átváltási árfolyamon. Ha az érintett napon nem tettek közzé árfolyamot, akkor a következő közzétételi napon kiadott árfolyamot kell alkalmazni.
-
-(5) A HÉA-t a bevallás benyújtásával egy időben, legkésőbb a bevallás benyújtására előírt határidőig, az állami adó- és vámhatóság által közzétett euró-bankszámlára euróban, átutalással kell megfizetni, hivatkozva a befizetés alapjául szolgáló HÉA-bevallásra. Bármely, az adózó önhibájából eredő, az adóhatóságot terhelő utalási költség, így különösen a téves, beazonosíthatatlan utalás költsége az adózót terheli.
-
-#### 122. § [Belföldön letelepedett adózó nyilvántartási kötelezettsége]
-
-Az adózó a 77. §-ban megállapított nyilvántartás-vezetési kötelezettségének oly módon tesz eleget, hogy a teljesítési hely szerinti tagállam adóhatósága által végzett ellenőrzést is lehetővé tegye. Az adózó a nyilvántartást felhívásra elektronikus úton is rendelkezésre bocsátja. A nyilvántartást a távolról is nyújtható szolgáltatás Áfa tv. szerinti teljesítési időpontját magában foglaló naptári év utolsó napjától számított tíz évig kell megőrizni.
+#### 122. §
 
 ## HARMADIK RÉSZ — ADATNYILVÁNTARTÁS, HATÓSÁGI BIZONYÍTVÁNY, ADÓTITOK, ADÓHATÓSÁGI ADATSZOLGÁLTATÁS
 
@@ -1773,6 +1671,7 @@ Ha az adózó adózásával összefüggésben olyan valótlan tényt, adatot vag
 
 - a) a köztartozás összegének a költségvetési támogatásból való levonása céljából a kincstár és a mezőgazdasági és vidékfejlesztési támogatási szerv részére,
 - b) a költségvetési támogatásnak a köztartozás megfizetéséig történő visszatartása céljából az európai uniós források felhasználásával kapcsolatos irányító hatósági vagy közreműködő szervezeti feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásért felelős miniszter által vezetett minisztérium részére.
+- c) a költségvetési támogatás megállapítása, illetve havi összegének elszámoláson alapuló kifizetése céljából az állami foglalkoztatási szerv részére.
 
 (9) Az állami adó- és vámhatóság elektronikus úton negyedévente, a negyedévet követő hó utolsó napjáig hivatalból átadja a szociális szövetkezet által benyújtott, havi adó- és járulék bevallásban szereplő adatok közül az egészségügyi szolgáltatási járulékkülönbözet összegére vonatkozó – negyedéves – adatokat a különbözetet az Egészségbiztosítási Alapnak megtérítő, a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap részére, az Egészségbiztosítási Alap részére megtérítendő járulékkülönbözet összegének meghatározása érdekében.
 
@@ -1833,6 +1732,8 @@ Ha az adózó adózásával összefüggésben olyan valótlan tényt, adatot vag
 (25) Az állami adó- és vámhatóság elektronikus úton hivatalból átadja a járási hivatalnak azon adózó természetes személyazonosító adatait, valamint a fizetési kedvezményre irányuló eljárásban feltárt jövedelmi, vagyoni és szociális körülményeinek adatait, akiről a fizetési kedvezmény engedélyezésére irányuló eljárásában olyan tényt tárt fel, amely a szociális rászorultság megállapítását a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerint megalapozhatja.
 
 (26) Ha az állami adó- és vámhatóság a személygépkocsival személyszállítási szolgáltatást végző adózó tekintetében a nyugtaadási kötelezettségek megsértését állapítja meg, akkor az erről szóló véglegessé vált döntését haladéktalanul megküldi a személyszállítási szolgáltatást folytató vállalkozás működési területén illetékes közlekedési hatóság részére, a személygépkocsival díj ellenében végzett közúti személyszállításról szóló kormányrendeletben meghatározott, a tevékenységi engedély visszavonása és a tevékenység végzéstől történő eltiltás feltételeinek vizsgálata céljából.
+
+(27) Az állami adóhatóság az Egységes Szociális Ellátások Ügyvitel-támogató Rendszer útján adatot szolgáltat a fővárosi és megyei kormányhivatal részére a szociális igazgatásról szóló törvény szerinti szociális ellátások és támogatások, a gyermektartásdíj megelőlegezésének és a hadigondozottak ellátásának megállapításával, ellenőrzésével és folyósításával összefüggésben szükséges adatokról.
 
 #### 132. § [Az állami adó- és vámhatóság adatszolgáltatása az állami támogatásokról]
 
@@ -3260,6 +3161,7 @@ Az állami adó- és vámhatóság
 - 14. honlapján adónem szerinti csoportosításban az adózással összefüggő általános és összefoglaló, valamint egyedi jellegű tájékoztatókat tesz közzé,
 - 15. honlapján az adózó az ügyfélszolgálat és az ügyintézés honlapon meghatározott típusa megjelölésével előzetesen időpontot foglalhat, az időpontot lemondhatja, a foglalás adatairól elektronikus visszajelzést kérhet,
 - 16. honlapján az adókötelezettségek jogszerű teljesítésének, valamint az adózói jogosultságok érvényesítésének elősegítése, illetve az adózó gazdasági érdekeinek védelme érdekében teljesíti e törvényben és egyéb jogszabályokban meghatározott közzétételi kötelezettségét.
+- 17. törvényben meghatározott módon közreműködik – az Áfa tv. szerinti bevallási kötelezettség alól mentesült személyek kivételével – az általános fogalmi adó bevallási kötelezettség teljesítésében.
 
 #### 257. § [Kezdő vállalkozások támogatása]
 
@@ -3601,6 +3503,14 @@ E törvénynek a Magyarország 2021. évi központi költségvetésének megalap
 
 (7) A Módtv.6. által megállapított 257. § első alkalommal a 2021. január 1-jét követően kezdeményezett kapcsolatfelvétellel érintett kezdő vállalkozások és a 2021. január 1-jén kezdő vállalkozásnak minősülő vállalkozások esetében alkalmazandó.
 
+#### 274/J. § [Átmeneti rendelkezés a Távolról is nyújtható szolgáltatásokat nyújtó adózókra vonatkozó különös szabályok hatályon kívül helyezéséhez]
+
+A XIII. Fejezet 2021. június 30-án hatályos rendelkezéseit a 2021. július 1-jét megelőző időszakra teljesítendő adókötelezettségek tekintetében 2021. július 1-jét követően is alkalmazni kell.
+
+#### 274/K. § [A közúti közlekedési nyilvántartási szerv adatszolgáltatásához kapcsolódó átmeneti rendelkezés]
+
+A közúti közlekedési nyilvántartási szerv a 87. § (3) bekezdése szerinti adattartalommal, a 2021. július 1-jén fennálló állapotnak megfelelően az állami adó- és vámhatósággal egyeztetett módon és határnapig adatszolgáltatást teljesít az állami adó- és vámhatóságnak az adatszolgáltatás hiányával érintett időszakról.
+
 #### 274/L. § [Átmeneti rendelkezés az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvényhez]
 
 (1) Az állami adó- és vámhatóság az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvény (a továbbiakban: Módtv7.) hatálybalépésétől számított három hónapon belül ellenőrzi az adózó által a Módtv7. hatálybalépését megelőzően bejelentett székhelyszolgáltató tekintetében a Módtv7. által megállapított 7. § 43. pontjában meghatározott feltételek teljesülését. Ha a bejelentett székhelyszolgáltató nem felel meg a 7. § 43. pontja szerinti feltételeknek, az állami adó- és vámhatóság a Módtv7.-tel megállapított 246. § (1) bekezdés h) pontja és 246. § (2) bekezdése szerint jár el.
@@ -3613,7 +3523,7 @@ E törvénynek a Magyarország 2021. évi központi költségvetésének megalap
 
 (2) E törvény 106. § (9) és (10) bekezdése, 107. § (5), (7) bekezdése és (8) bekezdés d) pontja, valamint 108. §-a tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése és 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.
 
-(3) E törvény 6. § (8) bekezdése, 16–18. §-a, 29. §-a, 36. §-a, 37. § (1)–(4) bekezdése, 39–44. §-a, 47. §-a, 49. § (1) bekezdése, 52. § (4) bekezdése, 78. §-a, 115–122. §-a, 141. § (1) bekezdése, 184–194. §-a, 256. § 6. pontja, 1. melléklete, 2. melléklet B/3.1. és 3.3. pontja – az Áfa tv.-nyel, illetve a Számv. tv.-nyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
+(3) E törvény 6. § (8) bekezdése, 16–18. §-a, 29. §-a, 36. §-a, 37. § (1)–(4) bekezdése, 39–44. §-a, 47. §-a, 49. § (1) bekezdése, 52. § (4) bekezdése, 78. §-a, 141. § (1) bekezdése, 184–194. §-a, 256. § 6. pontja, 1. melléklete, 2. melléklet B/3.1. és 3.3. pontja – az Áfa tv.-nyel, illetve a Számv. tv.-nyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) a közös hozzáadottértékadó-rendszerről szóló, 2006. november 28-i 2006/112/EK tanácsi irányelv,
 - b) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a rádióműsor- és televízióműsor-terjesztési szolgáltatásokra és egyes elektronikus úton nyújtott szolgáltatásokra alkalmazandó hozzáadottérték-adóra vonatkozó rendelkezések alkalmazási időszaka tekintetében történő módosításáról szóló, 2006. december 19-i 2006/138/EK tanácsi irányelv,
@@ -3621,11 +3531,16 @@ E törvénynek a Magyarország 2021. évi központi költségvetésének megalap
 - d) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek a Közösségen belüli ügyletekkel kapcsolatos adócsalás elleni küzdelem érdekében történő módosításáról szóló, 2008. december 16-i 2008/117/EK tanácsi irányelv,
 - e) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottérték-adóvisszatérítés részletes szabályainak megállapításáról szóló, 2008. február 12-i 2008/9/EK tanácsi irányelv.
 
-(4) E törvénynek a Módtv.1.-gyel megállapított 117. § (1) bekezdés h) pontja a 2006/112/EK irányelvnek és a 2009/132/EK irányelvnek a szolgáltatásnyújtásra és a termékek távértékesítésére vonatkozó bizonyos hozzáadottértékadó-kötelezettségek tekintetében történő módosításáról szóló, 2017. december 5-i (EU) 2017/2455 tanácsi irányelvnek való megfelelést szolgálja.
+(4)
 
 (5) E törvénynek a Módtv.3-mal megállapított 78. § (6a) és (7) bekezdése, valamint 205. §-a az európai uniós adóügyi vitarendezési mechanizmusokról szóló, 2017. október 10-i (EU) 2017/1852 tanácsi irányelvnek való megfelelést szolgálja.
 
 (6) E törvénynek a törvényszéki végrehajtással összefüggő egyes törvények módosításáról szóló 2019. évi LXXXI. törvénnyel megállapított 76. § (2) bekezdése az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet 113. cikkének a végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(7) E törvénynek a Módtv.6. által megállapított 6. § (6) és (8) bekezdése, 38. § (1) bekezdés i) pontja, 274/J. §-a – az Áfa tv.-nyel együtt – a következő jogi aktusoknak való megfelelést szolgálja:
+
+- a) a 2006/112/EK irányelvnek a termékek távértékesítésére és bizonyos belföldi termékértékesítésekre vonatkozó rendelkezések tekintetében történő módosításáról szóló, 2019. november 21-i (EU) 2019/1995 tanácsi irányelv,
+- b) az (EU) 2017/2455 és az (EU) 2019/1995 irányelvnek a Covid19-világjárvány miatt szükségessé vált, az átültetési határidő és az alkalmazás kezdőnapja tekintetében történő módosításáról szóló, 2020. július 20-i (EU) 2020/1109 tanácsi határozat.
 
 ### 1. melléklet az adózás rendjéről szóló 2017. évi CL. törvényhez
 
@@ -3675,11 +3590,11 @@ E törvénynek a Magyarország 2021. évi központi költségvetésének megalap
 - 11. Nem terheli a 3. pont szerinti bejelentési kötelezettség azt a kifizetőt, aki (amely) természetes személynek alkalomszerűen teljesít megbízási jogviszony keretében adó- vagy társadalombiztosítási jogviszonyt eredményező kifizetést, feltéve, hogy a természetes személy a kifizetéskor igazolja, hogy e megbízási jogviszonyával egyidejűleg a Tbj. 6. §-ában meghatározott más jogviszonya, jogállása alapján rá a társadalombiztosítási jogviszony kiterjed.
 - 12. Az előtársaság a cégbejegyzési kérelme benyújtása napjáig tartó időszakában a 3. pontban meghatározott bejelentési kötelezettségének papíralapon az adószám feltüntetése nélkül tesz eleget. Az előtársaság az adószám megszerzésétől számított nyolc napon belül – az adószámot és a korábban teljesített bejelentés adóhatósági iktatószámát is feltüntetve – ismételten bejelenti a cégbejegyzési kérelem benyújtását megelőzően az általa biztosítottként foglalkoztatott 3. pont szerinti adatait.
 - 13. Az előtársaság a cégbejegyzési kérelme benyújtása napjáig tartó időszakában az Efo. tv.-ben meghatározott bejelentési kötelezettségének elektronikus úton adószám feltüntetése nélkül tesz eleget. Az előtársaság az adószám megszerzésétől számított nyolc napon belül – az adószámot és a korábban teljesített bejelentés adóhatósági iktatószámát is feltüntetve – ismételten bejelenti a cégbejegyzési kérelem benyújtását megelőzően az Efo. tv. keretében általa foglalkoztatott természetes személy Efo. tv. 11. § (3) bekezdése szerinti adatait.
-- 14. Az iskolaszövetkezetnek, illetve a közérdekű nyugdíjas szövetkezetnek a Tbj. 6. § (1) bekezdés b) pontja alapján biztosítottnak nem minősülő, a szövetkezetekről szóló törvény szerinti tagsági megállapodás alapján személyesen közreműködő tagja esetében – a 3. pontban foglaltaktól eltérően – az iskolaszövetkezet, illetve a közérdekű nyugdíjas szövetkezet az állami adó- és vámhatóság felé köteles a külső szolgáltatásra vonatkozó tagsági megállapodás megkötésének napján bejelenteni
-- 14.1. az iskolaszövetkezet, illetve a közérdekű nyugdíjas szövetkezet adószámát,
-- 14.2. az iskolaszövetkezeti, illetve a közérdekű nyugdíjas szövetkezeti tag adóazonosító jelét és társadalombiztosítási azonosító jelét, iskolaszövetkezeti tag esetén diákigazolványa számát, illetve közérdekű nyugdíjas szövetkezeti tag esetén nyugdíjfolyósítási törzsszámát is.
-- 15. Az iskolaszövetkezet, illetve a közérdekű nyugdíjas szövetkezet köteles az állami adó- és vámhatósághoz bejelenteni a jogviszony megszűnését követő nyolc napon belül az iskolaszövetkezeti, illetve közérdekű nyugdíjas szövetkezeti tag jogviszonya megszűnésének napját. Jogutódlás esetén a 3.3. pontjában foglaltakat megfelelően alkalmazni kell.
-- 16. Az iskolaszövetkezet, illetve a közérdekű nyugdíjas szövetkezet bejelentési kötelezettségét az egyszerűsített foglalkoztatás bejelentésével azonos módon
+- 14. Az iskolaszövetkezetnek, a közérdekű nyugdíjas szövetkezetnek, illetve a kisgyermekkel otthon lévők szövetkezetének a Tbj. 6. § (1) bekezdés b) pontja alapján biztosítottnak nem minősülő, a szövetkezetekről szóló törvény szerinti tagsági megállapodás alapján személyesen közreműködő tagja esetében – a 3. pontban foglaltaktól eltérően – az iskolaszövetkezet, illetve a közérdekű nyugdíjas szövetkezet, továbbá a kisgyermekkel otthon lévők szövetkezete az állami adó- és vámhatóság felé köteles a külső szolgáltatásra vonatkozó tagsági megállapodás megkötésének napján bejelenteni
+- 14.1. az iskolaszövetkezet, a közérdekű nyugdíjas szövetkezet, illetve a kisgyermekkel otthon lévők szövetkezetének adószámát,
+- 14.2. az iskolaszövetkezeti, a közérdekű nyugdíjas szövetkezeti tag, illetve a kisgyermekkel otthon lévők szövetkezete tagja adóazonosító jelét és társadalombiztosítási azonosító jelét, továbbá iskolaszövetkezeti tag esetén diákigazolványa számát, közérdekű nyugdíjas szövetkezeti tag esetén nyugdíjfolyósítási törzsszámát, illetve kisgyermekkel otthon lévők szövetkezetének tagja esetén azt, hogy nem nagyszülőként részesül-e gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban.
+- 15. Az iskolaszövetkezet, a közérdekű nyugdíjas szövetkezet, továbbá a kisgyermekkel otthon lévők szövetkezete köteles az állami adó- és vámhatósághoz bejelenteni a jogviszony megszűnését követő nyolc napon belül az iskolaszövetkezeti, illetve közérdekű nyugdíjas szövetkezeti tag, továbbá a kisgyermekkel otthon lévők szövetkezete tagjának jogviszonya megszűnésének napját. Jogutódlás esetén a 3.3. pontjában foglaltakat megfelelően alkalmazni kell.
+- 16. Az iskolaszövetkezet, a közérdekű nyugdíjas szövetkezet, továbbá a kisgyermekkel otthon lévők szövetkezete bejelentési kötelezettségét az egyszerűsített foglalkoztatás bejelentésével azonos módon
 - 16.1. elektronikus úton – a tárhelyen keresztül – vagy
 - 16.2. telefonos ügyfélszolgálaton keresztül telefonon teljesíti.
 - 17. Az adózó,
