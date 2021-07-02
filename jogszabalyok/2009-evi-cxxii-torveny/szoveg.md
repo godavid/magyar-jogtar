@@ -182,7 +182,7 @@ közül a magasabb összeg.
 
 (3) Aránytalan a sérelem akkor, ha az adat más általi megszerzése, hasznosítása, másokkal való közlése vagy nyilvánosságra hozatala a köztulajdonban álló gazdasági társaság, vagy az általa irányított vállalkozás versenytársát indokolatlan előnyhöz juttatná.
 
-7/J. § (1) Azon köztulajdonban álló gazdasági társaság – a Magyar Nemzeti Bank és annak felügyelete alá tartozó köztulajdonban álló gazdasági társaság kivételével –, amely esetében a tárgyévet megelőző két üzleti évben a mérlegforduló napján a következő három mutatóérték közül legalább kettő a társaság elfogadott (egyszerűsített) éves beszámolója, vagy – amennyiben konszolidált éves beszámolót is készít – a konszolidált éves beszámolója alapján meghaladja az alábbi határértéket:
+7/J. § (1) Azon köztulajdonban álló gazdasági társaság – a Magyar Nemzeti Bank és annak felügyelete alá tartozó köztulajdonban álló gazdasági társaság, valamint az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság kivételével –, amely esetében a tárgyévet megelőző két üzleti évben a mérlegforduló napján a következő három mutatóérték közül legalább kettő a társaság elfogadott (egyszerűsített) éves beszámolója, vagy – amennyiben konszolidált éves beszámolót is készít – a konszolidált éves beszámolója alapján meghaladja az alábbi határértéket:
 
 - a) a mérlegfőösszeg a 600 millió forintot,
 - b) az éves nettó árbevétel az 1 200 millió forintot,
@@ -190,7 +190,7 @@ közül a magasabb összeg.
 
 az e §-ban meghatározottak szerint belső kontrollrendszert működtet.
 
-(2) Az a gazdasági társaság, amely az (1) bekezdés szerinti feltételnek nem felel meg, a felügyelőbizottság javaslata alapján alkalmazhatja és működtetheti az e § szerinti belső kontrollrendszert.
+(2) Az a gazdasági társaság, amely az (1) bekezdés szerinti feltételnek nem felel meg, a tulajdonosi joggyakorló, vagy a felügyelőbizottság javaslata alapján alkalmazhatja és működtetheti az e § szerinti belső kontrollrendszert.
 
 (3) A köztulajdonban álló gazdasági társaság első számú vezetője olyan belső kontrollrendszert alakít ki és működtet, amely a jogszabályi kötelezettségeknek való tudatos megfelelés, a kockázatok kezelése és a tárgyilagos bizonyosság megszerzése érdekében azt a célt szolgálja, hogy a köztulajdonban álló gazdasági társaság
 

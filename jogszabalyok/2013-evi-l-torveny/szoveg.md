@@ -206,7 +206,7 @@ szervezeti egységek az elektronikus információs rendszerek védelmére való 
 
 (2) Ha a vizsgálat alapján meghatározott biztonsági szint alacsonyabb, mint az adott szervezetre vagy szervezeti egységre jogszabályban meghatározott biztonsági szint, akkor a szervezetnek a vizsgálatot követő 90 napon belül cselekvési tervet kell készítenie a számára előírt biztonsági szint elérésére.
 
-(3) A szervezet vagy a 9. § (2) bekezdése szerinti szervezeti egység biztonsági szintjét a cselekvési tervben szereplő ütemezés szerint kell elérni. Ha a biztonsági szint a vizsgálat alapján az 1. szintet nem éri el, az 1. szint eléréséhez szükséges intézkedéseket az (1) bekezdésben meghatározott szempontok szerint lefolytatott vizsgálatot követő nyolc éven belül meg kell valósítani.
+(3) A szervezet vagy a 9. § (2) bekezdése szerinti szervezeti egység biztonsági szintjét a cselekvési tervben szereplő ütemezés szerint kell elérni. Ha a biztonsági szint a vizsgálat alapján az 1. szintet nem éri el, az 1. szint eléréséhez szükséges intézkedéseket az (1) bekezdésben meghatározott szempontok szerint lefolytatott vizsgálatot követő tíz éven belül meg kell valósítani.
 
 (4) A 9. § (2) bekezdésében előírt biztonsági szint teljesítése során a szervezetnek lehetősége van az előírt biztonsági szint fokozatos elérésére. Ennek keretében a magasabb biztonsági szint elérésére – minden egyes szintet érintően, a következő magasabb szintre lépéshez – két év áll rendelkezésére.
 

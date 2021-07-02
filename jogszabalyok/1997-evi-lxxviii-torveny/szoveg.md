@@ -462,10 +462,10 @@ határoz meg.
 
 (7) A tilalom nem terjed ki:
 
-- a) a tilalom hatálybalépésekor hatályos építésügyi hatósági engedéllyel megvalósuló építési, javítási-karbantartási és a jogszabályokban megengedett más építési munkákra, valamint a 33/A. § szerinti egyszerű bejelentés alapján megkezdett tevékenységre,
+- a) a tilalom hatálybalépésekor hatályos építésügyi hatósági engedéllyel megvalósuló építési, javítási-karbantartási és a jogszabályokban megengedett más építési munkákra, valamint a 33/A. § szerinti egyszerű bejelentés alapján megkezdett építési tevékenységre,
 - b) a korábban gyakorolt használat folytatására,
 - c) az állékonyságot, életet és egészséget, köz- és vagyonbiztonságot veszélyeztető kármegelőzési, kárelhárítási tevékenységre, továbbá
-- d) az a) pont szerinti, hatósági engedélyhez kötött építési munkáknak a településrendezési követelményeket nem érintő módosítására irányuló építésügyi hatósági engedélyezési eljárásra,
+- d) az a) pont szerinti, hatósági engedélyhez kötött építési munkáknak a településrendezési követelményeket nem érintő módosítására irányuló építésügyi hatósági engedélyezési eljárásra, vagy az egyszerű bejelentéstől eltérő építési munkáknak a településrendezési követelményeket nem érintő kivitelezésére,
 - e) a honvédelmi és katonai célú területre,
 - f) tömeges bevándorlás okozta válsághelyzet esetén a nemzetbiztonsági célú építmények elhelyezésére szolgáló területre.
 
@@ -1083,7 +1083,7 @@ végzik.
 (5) Szakszerűtlen a 16. §, a 32. §, a 38/A. §, a 38/C. § és a 38/D. § szerinti tevékenység, valamint a kivitelezői tevékenység, ha
 
 - a) azt – a 33/A. § szerinti építési tevékenység kivételével – a helyi építési szabályzat rendelkezéseitől eltérően végzik,
-- b) a 33/A. § szerinti építési tevékenység esetén a 13. § (2) bekezdésében foglaltaktól eltérően végzik,
+- b) a 33/A. § szerinti építési tevékenység esetén a 13. § (5) bekezdésében foglaltaktól eltérően végzik,
 - c) az alapvető követelmények, a tevékenységre vonatkozó szakmai szabályok, előírások megsértésével végzik, vagy
 - d) a tevékenység végzése az életet, az egészséget, a közbiztonságot veszélyeztető állapotot vagy használatot eredményez.
 
@@ -1671,6 +1671,8 @@ E törvény 30. §-ának rendelkezéseit kell alkalmazni a törvény hatálybal�
 
 (2) Amennyiben az (1) bekezdésben meghatározott szabályozás alapján meghatározott díjmentes használat időszakára díjfizetés történt, akkor a befizetett díjat vissza kell fizetni.
 
+60/J. § A 60/H. § rendelkezéseit azon XIX. század második és XX. század első felében megvalósult épületek esetén is alkalmazni kell, amelyek megsemmisült vagy megrongálódott tetőidomai és egyéb jelentős épületelemei, épületdíszei helyreállíthatóak. A helyreállítás keretében biztosítani kell a korábbi helyreállítási hibák, eltérések korrekcióját, ideértve különösen az építészeti minőséget lerontó utólagos hozzáépítések elbontását, a tetőzet eredeti formájának újjáépítését és az esetlegesen eltávolított épületdíszítések, tetődíszek, tornyok, kupolák, portálok visszaállítását. A helyi építési szabályzatban – a fővárosban a 14/A. § (2) bekezdés b) és c) pontja szerinti településrendezési tervekben – meghatározott építészeti hangsúly képzésének lehetséges helyszíneitől eltérni csak a fotóval, tervvel, valamint műemlék esetében az építéstörténeti tudományos dokumentációban foglaltakkal igazolt, eredeti állapot visszaállításával megengedett.
+
 61. § (1) Ahol jogszabály
 
 - a) általános rendezési tervet említ, azon településszerkezeti tervet,
@@ -1682,6 +1684,8 @@ E törvény 30. §-ának rendelkezéseit kell alkalmazni a törvény hatálybal�
 61/A. § Ha az építésügyi vagy építésfelügyeleti hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az 53/A. §-nak a 2016. december 31-én hatályos előírásait kell alkalmazni.
 
 61/B. § E törvénynek az egyes közigazgatási tárgyú törvények módosításáról, valamint ingyenes vagyonjuttatásról szóló 2020. évi XXX. törvénnyel (a továbbiakban: Mód4. tv.) megállapított 57/C–57/F. §-át a kereskedelmi építmények építési engedélyezési vagy rendeltetésmódosítási eljárásában – amennyiben a Mód4. tv. hatálybalépésekor fellebbezési eljárás van folyamatban –, a fellebbezés elbírálása során e törvénynek a Mód4. tv. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
+
+61/C. § E törvénynek az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvénnyel megállapított 60/J. §-át a folyamatban lévő ügyekben is alkalmazni kell.
 
 62. § (1) Felhatalmazást kap a Kormány arra, hogy
 
@@ -1720,7 +1724,7 @@ E törvény 30. §-ának rendelkezéseit kell alkalmazni a törvény hatálybal�
 - 33.
 - 34. a telekalakítás és építési tilalom elrendelése, továbbá a telekalakítás és cseretelek-adás részletes szabályait
 - 35. az útépítési és közművesítési hozzájárulás alkalmazására vonatkozó részletes szabályokat,
-- 36. a településrendezési illeszkedés követelménye alkalmazásának részletes szabályait, az illeszkedés egyedi tartalmát és területi hatályának megállapítására kijelölt közigazgatási szervet,
+- 36. a településrendezési illeszkedés követelménye alkalmazásának részletes szabályait, az illeszkedés egyedi tartalmát,
 - 37. az E-TÉR létrehozásáról és működtetéséről, az E-TÉR működését elősegítő elektronikus alkalmazásokról, az államigazgatási szervek és költségvetési szervek Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság részére történő személyes adatokat nem érintő adatszolgáltatásáról, az adatok továbbításáról és a véleményezésről, az E-TÉR-be történő regisztrációról, az E-TÉR adatok előállításáról és karbantartásáról, az adatforgalom rendjéről, valamint az E-TÉR működése finanszírozásának pénzügyi rendjéről szóló szabályokat
 
 rendelettel állapítsa meg.

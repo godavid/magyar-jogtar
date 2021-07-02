@@ -1427,7 +1427,7 @@ kezeli.
 
 (3) A járulékfizetésre kötelezett a járulékfizetési kötelezettségét annak keletkezésétől számított 15 napon belül a hulladékgazdálkodási hatóságnak – az e célra készített formanyomtatványon – bejelenti (ezen alcím alkalmazásában a továbbiakban: bejelentés).
 
-(4) A hulladéklerakási járulékot a járulékfizetésre kötelezett negyedévente, a tárgynegyedévet követő hónap 20. napjáig a hulladékgazdálkodási hatóság számlájára forintban fizeti be. A hulladéklerakási díjról szóló számlában a hulladéklerakási járulék összegét – a járulékköteles hulladék mennyisége szerint – külön soron, kapcsolódó tételként kell szerepeltetni.
+(4) A hulladéklerakási járulékot a járulékfizetésre kötelezett negyedévente, a tárgynegyedévet követő hónap 20. napjáig az e célra vezetett központi költségvetési fizetési számlára forintban fizeti be. A hulladéklerakási díjról szóló számlában a hulladéklerakási járulék összegét – a járulékköteles hulladék mennyisége szerint – külön soron, kapcsolódó tételként kell szerepeltetni.
 
 (5) A járulékfizetésre kötelezett a hulladéklerakóban elhelyezett hulladékról naprakész nyilvántartást vezet. A nyilvántartás tartalmazza
 
@@ -2168,7 +2168,7 @@ rendeletben állapítsa meg.
 
 90. § (1) E törvény rendelkezéseit a hatálybalépése után indult ügyekben és megismételt eljárásokban kell alkalmazni.
 
-(2)
+(2) Az e törvénynek a Magyarország 2022. évi központi költségvetésének megalapozásáról szóló 2021. évi LXXXIX. törvénnyel (a továbbiakban: Mód2. tv.) módosított 68. § (4) bekezdésében foglaltakat a 2021. év április 1. napjától teljesített hulladéklerakási járulékfizetési kötelezettségre is alkalmazni kell. A 2021. év április 1-jétől a Mód2. tv. hatálybalépéséig a hulladékgazdálkodási hatóság számlájára megfizetett hulladéklerakási járulék a központi költségvetést illeti meg.
 
 (3)
 

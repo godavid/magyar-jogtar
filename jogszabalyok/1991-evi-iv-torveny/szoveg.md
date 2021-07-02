@@ -421,11 +421,11 @@ időtartamával.
 
 ÉS A FOGLALKOZTATÁST ELŐSEGÍTŐ TÁMOGATÁSOK FEDEZETE
 
-### Gazdaságvédelmi Foglalkoztatási Alap
+### Gazdaság-újraindítási Foglalkoztatási Alap
 
 39. § (1)
 
-(2) A Gazdaságvédelmi Foglalkoztatási Alap, mely a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap célja a foglalkoztatáshoz, a munkanélküliséghez, a képzési rendszer fejlesztéséhez kapcsolódó pénzeszközök összevonásával, egységes kezelésével
+(2) A Gazdaság-újraindítási Foglalkoztatási Alap, mely a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap célja a foglalkoztatáshoz, a munkanélküliséghez, a képzési rendszer fejlesztéséhez kapcsolódó pénzeszközök összevonásával, egységes kezelésével
 
 - a) az álláskeresők ellátásának biztosítása,
 - b) a foglalkoztatás elősegítése, a munkahelyteremtés, a munkahelymegőrzés, a munkaerő alkalmazkodásának és az álláskeresők munkához jutásának támogatása,
@@ -534,7 +534,7 @@ időtartamával.
 - f) a központi költségvetési támogatás;
 - g) az állami foglalkoztatási szervek közreműködésével, uniós források bevonásával megvalósuló programok, támogatások, valamint járulékátvállalás végrehajtása érdekében befolyó bevételek;
 - h)
-- i) egyéb bevételek: a Gazdaságvédelmi Foglalkoztatási Alap javára teljesített visszafizetés, a hatósági eljárás alapján befolyt bevétel, késedelmi pótlék, kamatbevétel, a Gazdaságvédelmi Foglalkoztatási Alap javára teljesített önkéntes befizetés, támogatás, valamint a működésével összefüggő bevétel;
+- i) egyéb bevételek: a Gazdaság-újraindítási Foglalkoztatási Alap javára teljesített visszafizetés, a hatósági eljárás alapján befolyt bevétel, késedelmi pótlék, kamatbevétel, a Gazdaság-újraindítási Foglalkoztatási Alap javára teljesített önkéntes befizetés, támogatás, valamint a működésével összefüggő bevétel;
 - j) uniós forrás terhére megvalósuló operatív program finanszírozására szolgáló előleg;
 - k) az Európai Globalizációs Alkalmazkodási Alaptól az 1927/2006 EK rendelet alapján társfinanszírozás címen befolyó bevétel.
 
