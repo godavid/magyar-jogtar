@@ -323,6 +323,7 @@ az európai uniós csatlakozással összefüggő egyes törvénymódosításokr�
 - h) segítséget nyújt a vizsgált személyek és szervezetek, illetve a vizsgálattal nem érintett személyektől és szervezetektől érkező szabálytalansági kérdésekben történő megkeresések, bejelentések esetén is, ha megítélésük szerint valamely szerv, szervezet vagy személy eljárása, illetőleg mulasztása az Európai Unió pénzügyi érdekeit sérti vagy veszélyezteti, egyúttal haladéktalanul intézkedik a megkeresések, bejelentések továbbításáról a hatáskörrel és illetékességgel rendelkező közigazgatási szervek felé,
 - i) az Európai Unió pénzügyi érdekeit sértő szabálytalanságokról olyan statisztikai célú nyilvántartást vezet, amely személyes adatot nem tartalmazza,
 - j) minden év június 1-jéig Összefoglalót készít az adópolitikáért felelős miniszter részére az Európai Közösségek pénzügyi érdekeit sértő, az EUCS tv. 125. §. c) pontjában meghatározott szabálytalanságokról, valamint az OLAF Magyarországgal kapcsolatos vizsgálatairól az EUCS tv. 125. §-ának i) pontjában meghatározott nyilvántartás, valamint az EUCS tv. 130. §-a e) pontjában előírt tájékoztatók alapján.
+- k) eljár a 883/2013/EU, Euratom európai parlamenti és tanácsi rendelet 7. cikk (3a) bekezdésében rögzített információcserét biztosító nemzeti szervezetként, amelynek keretében továbbítja az OLAF – intézkedés megfelelőségére és arányosságára vonatkozó – indokolást tartalmazó megkeresését az érintett szervezetek részére.
 
 126. § (1) Az OLAF Koordinációs Iroda az OLAF megkeresésében foglaltak teljesítése céljából a megkeresés szerinti támogatásokkal érintett természetes személyek és szervezetek azonosító adatait, valamint a támogatással érintett tevékenységükre vonatkozó, e fejezetben meghatározott dokumentációkban szereplő adatait, továbbá az érintett természetes személyeknek e törvény szerinti bűnügyi adatait kezelheti.
 
@@ -387,8 +388,8 @@ az európai uniós csatlakozással összefüggő egyes törvénymódosításokr�
 (2) E fejezet összeegyeztethető szabályozást tartalmaz
 
 - a) a Tanács 2185/96/EURATOM, EK rendeletével az Európai Közösségek pénzügyi érdekeinek csalással és egyéb szabálytalanságokkal szembeni védelmében a Bizottság által végzett helyszíni ellenőrzésekről és vizsgálatokról;
-- b) a Tanács 1073/1999/EK rendeletével az Európai Csalásellenes Hivatal (OLAF) által lefolytatott vizsgálatokról;
-- c) Tanács 1074/1999/EURATOM rendeletével az Európai Csalásellenes Hivatal (OLAF) által lefolytatott vizsgálatokról.
+- b) az Európai parlament és a Tanács 883/2013/EU, Euratom rendeletével az Európai Csalás Elleni Hivatal (OLAF) által lefolytatott vizsgálatokról, valamint az 1073/1999/EK európai parlamenti és tanácsi rendelet és az 1074/1999/Euratom tanácsi rendelet hatályon kívül helyezéséről.
+- c)
 
 ### TIZENHARMADIK Fejezet — EGYES TÖRVÉNYI RENDELKEZÉSEK MEGÁLLAPÍTÁSA
 
@@ -519,6 +520,6 @@ lép.
 
 (3)
 
-148. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+148. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet, az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet és a 883/2013/EU, Euratom rendeletnek az Európai Ügyészséggel való együttműködés és az Európai Csalás Elleni Hivatal vizsgálatai hatékonysága tekintetében történő módosításáról szóló, 2020. december 23-i (EU, Euratom) 2020/2223 Európai Parlament és a Tanács rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Melléklet a 2004. évi XXIX. törvényhez

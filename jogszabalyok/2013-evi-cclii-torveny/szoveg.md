@@ -6,121 +6,127 @@ egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével össz
 
 #### 1. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
-1. §
+#### 1. §
 
 #### 2. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-2. §
+#### 2. §
 
 #### 3. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
-3. §
+#### 3. §
 
 #### 4. A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény módosítása
 
-4. §
+#### 4. §
 
 #### 5. A közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvény módosítása
 
-5. §
+#### 5. §
 
 #### 6. A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény módosítása
 
-6. §
+#### 6. §
 
 ### II. Fejezet — EGYES EGÉSZSÉGÜGYI ÉS EGÉSZSÉGBIZTOSÍTÁSI TÁRGYÚ, VALAMINT SPORTTEVÉKENYSÉGGEL ÖSSZEFÜGGŐ TÖRVÉNYEK MÓDOSÍTÁSA
 
 #### 7. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
 
-7. §
+#### 7. §
 
 #### 8. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
-8. §
+#### 8. §
 
 #### 9. Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény módosítása
 
-9. §
+#### 9. §
 
 #### 10. Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény módosítása
 
-10. §
+#### 10. §
 
 #### 11. Az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény módosítása
 
-11. §
+#### 11. §
 
 #### 12. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény módosítása
 
-12. §
+#### 12. §
 
 #### 13. A humángenetikai adatok védelméről, a humángenetikai vizsgálatok és kutatások, valamint a biobankok működésének szabályairól szóló 2008. évi XXI. törvény módosítása
 
-13. §
+#### 13. §
 
 #### 14. A sportról szóló 2004. évi I. törvény módosítása
 
-14. §
+#### 14. §
 
 ### III. Fejezet — EGYES KULTURÁLIS TÁRGYÚ TÖRVÉNYEK MÓDOSÍTÁSA
 
 #### 15. A Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény módosítása
 
-15. §
+#### 15. §
 
-#### 16. A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló1995. évi LXVI. törvény módosítása
+#### 16. A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló
 
-16. §
+1995. évi LXVI. törvény módosítása
 
-#### 17. A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló1997. évi CXL. törvény módosítása
+#### 16. §
 
-17. §
+#### 17. A muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló
+
+1997. évi CXL. törvény módosítása
+
+#### 17. §
 
 #### 18. A kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosítása
 
-18. §
+#### 18. §
 
 #### 19. A mozgóképről szóló 2004. évi II. törvény módosítása
 
-19. §
+#### 19. §
 
-#### 20. Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló2008. évi XCIX. törvény módosítása
+#### 20. Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló
 
-20. §
+2008. évi XCIX. törvény módosítása
+
+#### 20. §
 
 #### 21. A világörökségről szóló 2011. évi LXXVII. törvény módosítása
 
-21. §
+#### 21. §
 
 #### 22. A Magyar Művészeti Akadémiáról szóló 2011. évi CIX. törvény módosítása
 
-22. §
+#### 22. §
 
 ### IV. Fejezet — EGYES KÖZLEKEDÉSI, ENERGETIKAI, HÍRKÖZLÉSI ÉS VAGYONPOLITIKAI TÁRGYÚ TÖRVÉNYEK MÓDOSÍTÁSA
 
 #### 23. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-23. §
+#### 23. §
 
 #### 24. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
 
-24. §
+#### 24. §
 
 #### 25. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
 
-25. §
+#### 25. §
 
 #### 26. A területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény módosítása
 
-26. §
+#### 26. §
 
 #### 27. Az atomenergiáról szóló 1996. évi CXVI. törvény módosítása
 
-27. §
+#### 27. §
 
 #### 28. A víziközlekedésről szóló 2000. évi XLII. törvény módosítása
 
-28. §
+#### 28. §
 
 #### 29. A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosítása
 
@@ -136,7 +142,7 @@ egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével össz
 
 #### 30. A Kutatási és Technológiai Innovációs Alapról szóló 2003. évi XC. törvény módosítása
 
-30. §
+#### 30. §
 
 #### 31. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
@@ -158,11 +164,13 @@ egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével össz
 
 #### 33. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása
 
-33. §
+#### 33. §
 
-#### 34. A légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési eseményekszakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvény módosítása
+#### 34. A légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események
 
-34. §
+szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvény módosítása
+
+#### 34. §
 
 #### 35. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
@@ -174,7 +182,7 @@ egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével össz
 
 #### 36. Az állami vagyonról szóló 2007. évi CVI. törvény módosítása
 
-36. §
+#### 36. §
 
 #### 37. A földgázellátásról szóló 2008. évi XL. törvény módosítása
 
@@ -186,7 +194,7 @@ egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével össz
 
 #### 38. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása
 
-38. §
+#### 38. §
 
 #### 39. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény módosítása
 
@@ -198,85 +206,89 @@ egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével össz
 
 #### 40. A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény módosítása
 
-40. §
+#### 40. §
 
 #### 41. A postai szolgáltatásról szóló 2012. évi CLIX. törvény módosítása
 
-41. §
+#### 41. §
 
 #### 42. Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény módosítása
 
-42. §
+#### 42. §
 
 #### 43. A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény módosítása
 
-43. §
+#### 43. §
 
 ### V. Fejezet — EGYES AGRÁR ÉS KÖRNYEZETVÉDELMI TÁRGYÚ TÖRVÉNYEK MÓDOSÍTÁSA
 
 #### 44. Az állattenyésztésről szóló 1993. évi CXIV. törvény módosítása
 
-44. §
+#### 44. §
 
 #### 45. Az erdőbirtokossági társulatról szóló 1994. évi XLIX. törvény módosítása
 
-45. §
+#### 45. §
 
 #### 46. A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény módosítása
 
-46. §
+#### 46. §
 
 #### 47. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
 
-47. §
+#### 47. §
 
 #### 48. A természet védelméről szóló 1996. évi LIII. törvény módosítása
 
-48. §
+#### 48. §
 
 #### 49. A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény módosítása
 
-49. §
+#### 49. §
 
 #### 50. A géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény módosítása
 
-50. §
+#### 50. §
 
 #### 51. A Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény módosítása
 
-51. §
+#### 51. §
 
-#### 52. A növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításárólés forgalomba hozataláról szóló 2003. évi LII. törvény módosítása
+#### 52. A növényfajták állami elismeréséről, valamint a szaporítóanyagok előállításáról
 
-52. §
+és forgalomba hozataláról szóló 2003. évi LII. törvény módosítása
 
-#### 53. A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhozés egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosítása
+#### 52. §
 
-53. §
+#### 53. A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz
+
+és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosítása
+
+#### 53. §
 
 #### 54. Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosítása
 
-54. §
+#### 54. §
 
 #### 55. Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény módosítása
 
-55. §
+#### 55. §
 
 #### 56. A mezőgazdasági és élelmiszeripari termékek vonatkozásában a beszállítókkal szemben alkalmazott tisztességtelen forgalmazói magatartás tilalmáról szóló 2009. évi XCV. törvény módosítása
 
-56. §
+#### 56. §
 
 #### 57. A vízitársulatokról szóló 2009. évi CXLIV. törvény módosítása
 
-57. §
+#### 57. §
 
 #### 58. A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény módosítása
 
-58. §
+#### 58. §
 
 #### 59. A magyar nemzeti értékekről és a hungarikumokról szóló 2012. évi XXX. törvény módosítása
 
-59. §
+#### 59. §
 
 #### 60. A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény módosítása
 
@@ -294,23 +306,25 @@ egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével össz
 
 #### 62. A Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló 2012. évi CXXVII. törvény módosítása
 
-62. §
+#### 62. §
 
-#### 63. A szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseiről szóló2012. évi CXXVIII. törvény módosítása
+#### 63. A szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseiről szóló
 
-63. §
+2012. évi CXXVIII. törvény módosítása
+
+#### 63. §
 
 #### 64. A hulladékról szóló 2012. évi CLXXXV. törvény módosítása
 
-64. §
+#### 64. §
 
 #### 65. A hegyközségekről szóló 2012. évi CCXIX. törvény módosítása
 
-65. §
+#### 65. §
 
 #### 66. A halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény módosítása
 
-66. §
+#### 66. §
 
 ### VI. Fejezet — EGYES HONVÉDELMI TÁRGYÚ TÖRVÉNYEK MÓDOSÍTÁSA
 
@@ -359,40 +373,47 @@ egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével össz
 
 #### 69. A honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény módosítása
 
-69. §
+#### 69. §
 
-### VII. Fejezet — EGYES RENDÉSZETI, KATASZTRÓFAVÉDELMI, ÖNKORMÁNYZATI, ÉPÍTÉSÜGYI TÁRGYÚ,VALAMINT KÜLFÖLDRE UTAZÁSSAL KAPCSOLATOS TÖRVÉNYEK MÓDOSÍTÁSA
+### VII. Fejezet — EGYES RENDÉSZETI, KATASZTRÓFAVÉDELMI, ÖNKORMÁNYZATI, ÉPÍTÉSÜGYI TÁRGYÚ,
+
+VALAMINT KÜLFÖLDRE UTAZÁSSAL KAPCSOLATOS TÖRVÉNYEK MÓDOSÍTÁSA
 
 #### 70. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
-70. §
+#### 70. §
 
 #### 71. A helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény módosítása
 
-71. §
+#### 71. §
 
-#### 72. A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló1996. évi XLIII. törvény módosítása
+#### 72. A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló
 
-72. §
+1996. évi XLIII. törvény módosítása
 
-#### 73. A tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló1996. évi LVIII. törvény módosítása
+#### 72. §
 
-73. §
+#### 73. A tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló
 
-- a)–b)
-- c)
+1996. évi LVIII. törvény módosítása
+
+#### 73. §
+
+a)–b)
+
+c)
 
 #### 74. A tűz elleni védekezésről, a műszaki mentésről és a tűzoltóságról szóló 1996. évi XXXI. törvény módosítása
 
-74. §
+#### 74. §
 
 #### 75. Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosítása
 
-75. §
+#### 75. §
 
 #### 76. A külföldre utazásról szóló 1998. évi XII. törvény módosítása
 
-76. §
+#### 76. §
 
 #### 77. A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény módosítása
 
@@ -406,23 +427,27 @@ egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével össz
 
 #### 78. A bűnüldöző szervek nemzetközi együttműködéséről szóló 2002. évi LIV. törvény módosítása
 
-78. §
+#### 78. §
 
-#### 79. A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló2005. évi CXXXIII. törvény módosítása
+#### 79. A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló
 
-79. §
+2005. évi CXXXIII. törvény módosítása
+
+#### 79. §
 
 #### 80. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény módosítása
 
-80. §
+#### 80. §
 
 #### 81. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosítása
 
-81. §
+#### 81. §
 
-#### 82. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló2011. évi CXXVIII. törvény módosítása
+#### 82. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló
 
-82. §
+2011. évi CXXVIII. törvény módosítása
+
+#### 82. §
 
 #### 83. Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
@@ -434,7 +459,7 @@ egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével össz
 
 #### 84. A kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény módosítása
 
-84. §
+#### 84. §
 
 ### VIII. Fejezet — EGYES KÖZIGAZGATÁSI ÉS IGAZSÁGÜGYI TÁRGYÚ TÖRVÉNYEK MÓDOSÍTÁSA
 
@@ -454,15 +479,17 @@ egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével össz
 
 #### 86. A büntetések és az intézkedések végrehajtásáról szóló 1979. évi 11. törvényerejű rendelet módosítása
 
-86. §
+#### 86. §
 
-#### 87. Az anyakönyvekről, a házasságkötési eljárásról és a névviselésről szóló1982. évi 17. törvényerejű rendelet módosítása
+#### 87. Az anyakönyvekről, a házasságkötési eljárásról és a névviselésről szóló
 
-87. §
+1982. évi 17. törvényerejű rendelet módosítása
+
+#### 87. §
 
 #### 88. A jogtanácsosi tevékenységről szóló 1983. évi 3. törvényerejű rendelet módosítása
 
-88. §
+#### 88. §
 
 #### 89. A pártok működéséről és gazdálkodásáról szóló 1989. évi XXXIII. törvény módosítása
 
@@ -474,19 +501,19 @@ egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével össz
 
 #### 90. A közjegyzőkről szóló 1991. évi XLI. törvény módosítása
 
-90. §
+#### 90. §
 
 #### 91. A csődeljárásról és felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
 
-91. §
+#### 91. §
 
 #### 92. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-92. §
+#### 92. §
 
 #### 93. A magyar állampolgárságról szóló 1993. évi LV. törvény módosítása
 
-93. §
+#### 93. §
 
 #### 94. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
@@ -499,23 +526,23 @@ egyes törvényeknek az új Polgári Törvénykönyv hatálybalépésével össz
 
 #### 95. A szabadalmi ügyvivőkről szóló 1995. évi XXXII. törvény módosítása
 
-95. §
+#### 95. §
 
 #### 96. A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény módosítása
 
-96. §
+#### 96. §
 
 #### 97. A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény módosítása
 
-97. §
+#### 97. §
 
 #### 98. A védjegyek és a földrajzi árujelzők oltalmáról szóló 1997. évi XI. törvény módosítása
 
-98. §
+#### 98. §
 
 #### 99. Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény módosítása
 
-99. §
+#### 99. §
 
 #### 100. Az ügyvédekről szóló 1998. évi XI. törvény módosítása
 
@@ -572,47 +599,47 @@ lép.
 
 #### 101. A büntetőeljárásról szóló 1998. évi XIX. törvény módosítása
 
-101. §
+#### 101. §
 
 #### 102. A szerzői jogról szóló 1999. évi LXXVI. törvény módosítása
 
-102. §
+#### 102. §
 
 #### 103. Az elektronikus aláírásról szóló 2001. évi XXXV. törvény módosítása
 
-103. §
+#### 103. §
 
 #### 104. A jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény módosítása
 
-104. §
+#### 104. §
 
 #### 105. A közvetítői tevékenységről szóló 2002. évi LV. törvény módosítása
 
-105. §
+#### 105. §
 
 #### 106. A pártok működését segítő tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítványokról szóló 2003. évi XLVII. törvény módosítása
 
-106. §
+#### 106. §
 
 #### 107. A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény módosítása
 
-107. §
+#### 107. §
 
 #### 108. Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény módosítása
 
-108. §
+#### 108. §
 
 #### 109. Az európai részvénytársaságról szóló 2004. évi XLV. törvény módosítása
 
-109. §
+#### 109. §
 
 #### 110. A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény módosítása
 
-110. §
+#### 110. §
 
 #### 111. Az igazságügyi szakértői tevékenységről szóló 2005. évi XLVII. törvény módosítása
 
-111. §
+#### 111. §
 
 #### 112. A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény módosítása
 
@@ -658,15 +685,15 @@ lép.
 
 #### 113. Az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény módosítása
 
-113. §
+#### 113. §
 
 #### 114. Az európai szövetkezetről szóló 2006. évi LXIX. törvény módosítása
 
-114. §
+#### 114. §
 
 #### 115. A büntető ügyekben alkalmazható közvetítői tevékenységről szóló 2006. évi CXXIII. törvény módosítása
 
-115. §
+#### 115. §
 
 #### 116. A kisajátításról szóló 2007. évi CXXIII. törvény módosítása
 
@@ -678,55 +705,57 @@ lép.
 
 #### 117. A tőkeegyesítő társaságok határokon átnyúló egyesüléséről szóló 2007. évi CXL. törvény módosítása
 
-117. §
+#### 117. §
 
 #### 118. Az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény módosítása
 
-118. §
+#### 118. §
 
 #### 119. A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény módosítása
 
-119. §
+#### 119. §
 
 #### 120. A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény módosítása
 
-120. §
+#### 120. §
 
 #### 121. Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény módosítása
 
-121. §
+#### 121. §
 
 #### 122. A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény módosítása
 
-122. §
+#### 122. §
 
 #### 123. A sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény módosítása
 
-123. §
+#### 123. §
 
 #### 124. A Bethlen Gábor Alapról szóló 2010. évi CLXXXII. törvény módosítása
 
-124. §
+#### 124. §
 
 #### 125. A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény módosítása
 
-125. §
+#### 125. §
 
 #### 126. Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény módosítása
 
-126. §
+#### 126. §
 
 #### 127. A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény módosítása
 
-127. §
+#### 127. §
 
 #### 128. Az ügyészségről szóló 2011. évi CLXIII. törvény módosítása
 
-128. §
+#### 128. §
 
-#### 129. A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásárólés az ügyészi életpályáról szóló 2011. évi CLXIV. törvény módosítása
+#### 129. A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról
 
-129. §
+és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény módosítása
+
+#### 129. §
 
 #### 130. A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény módosítása
 
@@ -773,7 +802,7 @@ lép hatályba.
 
 #### 131. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
-131. §
+#### 131. §
 
 #### 132. Az igazságügyi és közigazgatási tárgyú törvények módosításáról szóló 2012. évi CXVII. törvény módosítása
 
@@ -797,81 +826,81 @@ IX. FEJEZET
 
 EGYES PÉNZÜGYI ÉS GAZDASÁGI TÁRGYÚ, VALAMINT KÖZSZOLGÁLATTAL ÖSSZEFÜGGŐ TÖRVÉNYEK MÓDOSÍTÁSA
 
-133. A takarékbetétről szóló 1989. évi 2. törvényerejű rendelet módosítása
+133. A takarékbetétről szóló 1989. évi 2. törvényerejű rendelet módosítása”
 
-133. §
+#### 133. §
 
 #### 134. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-134. §
+#### 134. §
 
 #### 135. A helyi adókról szóló 1990. évi C. törvény módosítása
 
-135. §
+#### 135. §
 
 #### 136. A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény módosítása
 
-136. §
+#### 136. §
 
 #### 137. A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosítása
 
-137. §
+#### 137. §
 
 #### 138. A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény módosítása
 
-138. §
+#### 138. §
 
 #### 139. Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény módosítása
 
-139. §
+#### 139. §
 
 #### 140. A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény módosítása
 
-140. §
+#### 140. §
 
 #### 141. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-141. §
+#### 141. §
 
 #### 142. A közraktározásról szóló 1996. évi XLVIII. törvény módosítása
 
-142. §
+#### 142. §
 
 #### 143. A munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény módosítása
 
-143. §
+#### 143. §
 
 #### 144. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-144. §
+#### 144. §
 
 #### 145. A lakástakarékpénztárakról szóló 1996. évi CXIII. törvény módosítása
 
-145. §
+#### 145. §
 
 #### 146. A jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvény módosítása
 
-146. §
+#### 146. §
 
 #### 147. A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény módosítása
 
-147. §
+#### 147. §
 
 #### 148. A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény módosítása
 
-148. §
+#### 148. §
 
 #### 149. A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosítása
 
-149. §
+#### 149. §
 
 #### 150. A számvitelről szóló 2000. évi C. törvény módosítása
 
-150. §
+#### 150. §
 
 #### 151. A tőkepiacról szóló 2001. évi CXX. törvény módosítása
 
-151. §
+#### 151. §
 
 #### 152. Az egyszerűsített vállalkozói adóról szóló 2002. évi XLIII. törvény módosítása
 
@@ -886,7 +915,7 @@ EGYES PÉNZÜGYI ÉS GAZDASÁGI TÁRGYÚ, VALAMINT KÖZSZOLGÁLATTAL ÖSSZEFÜGG
 
 #### 153. A Wesselényi Miklós Ár- és Belvízvédelmi Kártalanítási Alapról szóló 2003. évi LVIII. törvény módosítása
 
-153. §
+#### 153. §
 
 #### 154. A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény módosítása
 
@@ -898,9 +927,11 @@ EGYES PÉNZÜGYI ÉS GAZDASÁGI TÁRGYÚ, VALAMINT KÖZSZOLGÁLATTAL ÖSSZEFÜGG
 
 #### 155. Az adózás rendjéről szóló 2003. évi XCII. törvény módosítása
 
-155. §
+#### 155. §
 
-#### 156. A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló2003. évi CXXVII. törvény módosítása
+#### 156. A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló
+
+2003. évi CXXVII. törvény módosítása
 
 156. § (1)
 
@@ -910,71 +941,73 @@ EGYES PÉNZÜGYI ÉS GAZDASÁGI TÁRGYÚ, VALAMINT KÖZSZOLGÁLATTAL ÖSSZEFÜGG
 
 #### 157. A társasházakról szóló 2003. évi CXXXIII. törvény módosítása
 
-157. §
+#### 157. §
 
 #### 158. A kutatás-fejlesztésről és a technológiai innovációról szóló 2004. évi CXXXIV. törvény módosítása
 
-158. §
+#### 158. §
 
 #### 159. Az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi CXX. törvény módosítása
 
-159. §
+#### 159. §
 
 #### 160. A fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény módosítása
 
-160. §
+#### 160. §
 
 #### 161. A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény módosítása
 
-161. §
+#### 161. §
 
 #### 162. A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény módosítása
 
-162. §
+#### 162. §
 
 #### 163. Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosítása
 
-163. §
+#### 163. §
 
-#### 164. A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló2007. évi CXXXVI. törvény módosítása
+#### 164. A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló
 
-164. §
+2007. évi CXXXVI. törvény módosítása
+
+#### 164. §
 
 #### 165. A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítása
 
-165. §
+#### 165. §
 
 #### 166. A viszontbiztosítókról szóló 2007. évi CLIX. törvény módosítása
 
-166. §
+#### 166. §
 
 #### 167. Az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról, valamint ehhez kapcsolódóan egyes törvények módosításáról szóló 2007. évi CLXXX. törvény módosítása
 
-167. §
+#### 167. §
 
 #### 168. A pénzügyi közvetítőrendszer stabilitásának erősítéséről szóló 2008. évi CIV. törvény módosítása
 
-168. §
+#### 168. §
 
 #### 169. A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény módosítása
 
-169. §
+#### 169. §
 
 #### 170. A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosítása
 
-170. §
+#### 170. §
 
 #### 171. A befektetési alapkezelőkről és a kollektív befektetési formákról szóló 2011. évi CXCIII. törvény módosítása
 
-171. §
+#### 171. §
 
 #### 172. Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény módosítása
 
-172. §
+#### 172. §
 
 #### 173. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-173. §
+#### 173. §
 
 #### 174. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 
@@ -986,9 +1019,13 @@ EGYES PÉNZÜGYI ÉS GAZDASÁGI TÁRGYÚ, VALAMINT KÖZSZOLGÁLATTAL ÖSSZEFÜGG
 
 #### 175. A munka törvénykönyvéről szóló 2012. évi I. törvény módosítása
 
-175. §
+#### 175. §
 
-#### 176. A közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosulóés hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló2012. évi V. törvény módosítása
+#### 176. A közszolgálati tisztviselőkről szóló törvénnyel összefüggő átmeneti, módosuló
+
+és hatályát vesztő szabályokról, valamint egyes kapcsolódó törvények módosításáról szóló
+
+2012. évi V. törvény módosítása
 
 176. § (1)
 
@@ -996,11 +1033,13 @@ EGYES PÉNZÜGYI ÉS GAZDASÁGI TÁRGYÚ, VALAMINT KÖZSZOLGÁLATTAL ÖSSZEFÜGG
 
 #### 177. A távközlési adóról szóló 2012. évi LVI. törvény módosítása
 
-177. §
+#### 177. §
 
-#### 178. A munka törvénykönyvéről szóló 2012. évi I. törvény hatálybalépésével összefüggőátmeneti rendelkezésekről és törvénymódosításokról szóló 2012. évi LXXXVI. törvény módosítása
+#### 178. A munka törvénykönyvéről szóló 2012. évi I. törvény hatálybalépésével összefüggő
 
-178. §
+átmeneti rendelkezésekről és törvénymódosításokról szóló 2012. évi LXXXVI. törvény módosítása
+
+#### 178. §
 
 #### 179. Az egyes biztosítási tárgyú törvények módosításáról szóló 2013. évi LXXXVI. törvény módosítása
 
@@ -1010,17 +1049,21 @@ EGYES PÉNZÜGYI ÉS GAZDASÁGI TÁRGYÚ, VALAMINT KÖZSZOLGÁLATTAL ÖSSZEFÜGG
 
 #### 180. A Polgári Törvénykönyvről szóló 1959. évi IV. törvény módosítása
 
-180. §
+#### 180. §
 
 #### 181. A szövetkezetekről szóló 2006. évi X. törvény módosítása
 
-181. §
+#### 181. §
 
-#### 182. Az egyes adótörvények és az azzal összefüggő egyéb törvények módosításáról szóló2011. évi CLVI. törvény módosítása
+#### 182. Az egyes adótörvények és az azzal összefüggő egyéb törvények módosításáról szóló
 
-182. §
+2011. évi CLVI. törvény módosítása
 
-#### 183. A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggőátmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény módosítása
+#### 182. §
+
+#### 183. A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő
+
+átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény módosítása
 
 183. § (1) A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény (a továbbiakban: Ptké.) 21. §-a az „Sztv. átalakított befektetői részjegyre vonatkozó rendelkezései” szövegrész helyett az „Sztv. átalakított befektetői részjegyre vonatkozó, 2014. március 14-én hatályos rendelkezései” szöveggel lép hatályba.
 
@@ -1198,7 +1241,7 @@ Ha több részvényfajta, illetve részvényosztály létezik, az egyesülést k
 
 (29) A Ptk. 3:404. § (3) bekezdése a következő szöveggel lép hatályba:
 
-”(3) A nyilvántartó bíróság jogszabályban meghatározott szervezetnek juttatja a vagyont, ha az alapító okirat, vagy az alapító nem rendelkezik a megszűnő alapítvány vagyonáról, vagy ha az alapító okirat által megjelölt személy, vagy az alapító által megjelölt alapítvány, egyesület a vagyont nem fogadja el vagy azt nem szerezheti meg.”
+„”(3) A nyilvántartó bíróság jogszabályban meghatározott szervezetnek juttatja a vagyont, ha az alapító okirat, vagy az alapító nem rendelkezik a megszűnő alapítvány vagyonáról, vagy ha az alapító okirat által megjelölt személy, vagy az alapító által megjelölt alapítvány, egyesület a vagyont nem fogadja el vagy azt nem szerezheti meg.”
 
 (30) A Ptk.
 
@@ -1380,7 +1423,7 @@ lép hatályba.
 
 #### 191. Hatálybalépés
 
-191. § (1) Ez a törvény – a (2)–(10) bekezdésben meghatározott kivétellel – 2014. január 1-jén lép hatályba, és 2022. január 2-án hatályát veszti.
+191. § (1) Ez a törvény – a (2)–(10) bekezdésben meghatározott kivétellel – 2014. január 1-jén lép hatályba, és 2024. január 2-án hatályát veszti.
 
 (2)
 
@@ -1402,7 +1445,7 @@ lép hatályba.
 
 (9) A 130. § (22) bekezdése 2015. január 2-án lép hatályba.
 
-(10) A 77. § (1) és (2) bekezdése 2022. január 1-jén lép hatályba.
+(10) A 77. § (1) és (2) bekezdése 2024. január 1-jén lép hatályba.
 
 #### 192. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

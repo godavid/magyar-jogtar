@@ -12,17 +12,7 @@ egyes közlekedési tárgyú törvények módosításáról
 
 4. §
 
-5. § A Kkt. 46/A. §-a a következő (4)–(8) bekezdéssel egészül ki:
-
-„(4) A vizsgaközpont a közlekedési hatóság által a 18. § (2) bekezdése alapján vezetett nyilvántartásból, továbbá a 18. § (9) bekezdése szerinti névjegyzékből az ott nyilvántartott adatokat, valamint az elektronikus vezetési kartonból a gyakorlati oktatásra és az oktató jármű futásteljesítményére vonatkozó adatokat az e törvényben foglalt feladatai ellátásához – a képzés, a vizsgára vagy vizsgálatra jelentkező adatainak, valamint a vizsgára bocsátás feltételeinek ellenőrzése érdekében – közvetlen adathozzáféréssel átveheti.
-
-(5) A vizsgaközpont a (4) bekezdésben meghatározott adatokat az átvétel időpontjától számított 5 évig kezeli.
-
-(6) A közlekedési hatóság és a vizsgaközpont az általa kezelt adatokat – személyazonosításra alkalmatlanná tett módon – statisztikai célokra felhasználhatja, azokból statisztikai célra adatot szolgáltathat.
-
-(7) A képző szerv a 18. § (8a) bekezdése szerinti vizsgára bocsátással összefüggő feladatai céljából adatkezelési jogosultsággal rendelkezik a közúti közlekedési szakemberek és a közúti járművezetők személyes adataira – név, születési név, anyja neve, születési hely, idő – vonatkozóan. A képző szerv az adatokat az átvétel időpontjától számított 5 évig kezeli.
-
-(8) A személyiadat- és lakcímnyilvántartást kezelő szerv a vizsgaközpont adatkérése alapján, a közúti járművezetők tanfolyami és a közúti közlekedési szakemberek szaktanfolyami képzésén, továbbképzésén, a pályaalkalmassági vizsgálaton és utánképzésén résztvevő, illetve ehhez kapcsolódóan vizsgára vagy vizsgálatra jelentkező adatainak ellenőrzése céljából díjmentesen átadja a résztvevők, valamint jelentkezők természetes személyazonosító adatait.”
+5. §
 
 6. §
 
@@ -39,37 +29,15 @@ lép.
 
 #### 2. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-9. § (1) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) a következő 21/B. §-sal egészül ki:
-
-„21/B. § E törvény felhatalmazása alapján a 17. § (2) bekezdés e) pontja szerinti adatokat jogosultak igényelni:
-
-a) az állampolgárság kivételével a közúti járművezetők tanfolyami és a közúti közlekedési szakemberek szaktanfolyami képzésén, továbbképzésén, a pályaalkalmassági vizsgálaton és utánképzésén részt vevő, illetve ehhez kapcsolódóan vizsgára vagy vizsgálatra jelentkező adatainak ellenőrzése céljából a közúti közlekedésről szóló törvény szerinti vizsgaközpont;
-
-b) az állampolgárság kivételével az alapvizsgára és az időszakos vizsgára jelentkezők adatainak ellenőrzése céljából a vasúti közlekedésről szóló törvény szerinti vizsgaközpont;
-
-c) az állampolgárság kivételével az úszólétesítményen fedélzeti és gépüzemi szolgálatot ellátó személyek, továbbá a hajózási üzemeltetési vezetők, valamint a kedvtelési céllal közlekedő úszólétesítmény vezetői képzésén részt vevők, illetve ehhez kapcsolódóan vizsgára jelentkezők adatainak ellenőrzése céljából a víziközlekedésről szóló törvény szerinti vizsgaközpont;
-
-d) az állampolgárság kivételével a pilóta nélküli légijármű-rendszerekről, valamint a pilóta nélküli légijármű-rendszer üzemben tartókról vezetett nyilvántartáshoz kapcsolódóan a kérelmezők adatainak ellenőrzése céljából a légiközlekedésről szóló törvény szerinti légiközlekedési hatóság;
-
-e) az állampolgárság kivételével a légiközlekedési szakszemélyzeti képesítések és vizsgáztatói tanúsítás megszerzéséhez szükséges vizsgára jelentkezők adatainak ellenőrzése céljából a légiközlekedésről szóló törvény szerinti légiközlekedési vizsgaközpont.”
-
-(2) Hatályát veszti a Nytv. 21. § cs) pontja.
+9. §
 
 #### 3. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
 
-10. § A légiközlekedésről szóló 1995. évi XCVII. törvény (a továbbiakban: Lt.) 2. §-a a következő (4)–(4b) bekezdéssel egészül ki:
-
-„(4) A légiközlekedési szakszemélyzeti képesítések és vizsgáztatói tanúsítás – ide nem értve a léginavigációs szolgáltatásokat nyújtó, valamint a léginavigációs szolgáltatások nyújtását közvetlenül támogató munkakörökben foglalkoztatottak képesítéseit és azok vizsgáztatói tanúsítását – megszerzéséhez szükséges vizsgáztatást – jogszabály eltérő rendelkezése hiányában – e törvény felhatalmazása alapján a Kormány által a közúti közlekedési, a hajózási, valamint a vasúti vizsgáztatásra kijelölt közlekedési vizsgaközpont (a továbbiakban: légiközlekedési vizsgaközpont) végzi.
-
-(4a) A személyiadat- és lakcímnyilvántartást kezelő szerv a vizsgaközpont adatkérése alapján a légiközlekedési szakszemélyzeti képesítések és vizsgáztatói tanúsítás megszerzéséhez szükséges vizsgára jelentkezők adatainak ellenőrzése céljából díjmentesen átadja a vizsgán résztvevők, valamint a vizsgára jelentkezők természetes személyazonosító adatait.
-
-(4b) A személyiadat- és lakcímnyilvántartást kezelő szerv a légiközlekedési hatóság adatkérése alapján a pilóta nélküli légijármű-rendszerekről, valamint a pilóta nélküli légijármű-rendszer üzemben tartókról vezetett nyilvántartáshoz kapcsolódóan a kérelmezők adatainak ellenőrzése céljából díjmentesen átadja a résztvevők, valamint jelentkezők természetes személyazonosító adatait.”
+10. §
 
 11. §
 
-12. § Az Lt. 3/A. §-a a következő (10) bekezdéssel egészül ki:
-
-„(10) A légiközlekedési vizsgaközpont az e törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott vizsgáztatási tevékenységével összefüggésben jogosult a légiközlekedési szakszemélyzeti képesítések megszerzéséhez szükséges vizsgára jelentkező és a vizsgát tett személy természetes személyazonosító adatait, képesítéssel kapcsolatos adatait kezelni és ezek hitelességének utólagos igazolása céljából – uniós jogi aktus vagy törvény eltérő rendelkezése hiányában – nyilvántartani a vizsga teljesítését követő 40 évig.”
+12. §
 
 13. §
 
@@ -91,19 +59,7 @@ e) az állampolgárság kivételével a légiközlekedési szakszemélyzeti kép
 
 22. §
 
-23. § (1) Az Lt. 73. § (2) bekezdése a következő f) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki)
-
-„f) a légiközlekedési vizsgaközpontot.”
-
-(2) Az Lt. 73. § (3) bekezdése a következő l) és m) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
-
-„l) a légiközlekedési vizsgaközpont tevékenysége tekintetében a felügyeleti szervet, a felügyeleti szerv feladat- és hatáskörét, illetékességét, továbbá működési rendjét és eljárását,
-
-m) a légiközlekedési vizsgaközpont felügyeleti szerve által kiszabható bírság megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait.”
+23. §
 
 24. §
 
@@ -135,17 +91,7 @@ m) a légiközlekedési vizsgaközpont felügyeleti szerve által kiszabható b�
 
 34. §
 
-35. § (1) A Vkt. 48/A. §-a a következő (4b) bekezdéssel egészül ki:
-
-„(4b) A személyiadat- és lakcímnyilvántartást kezelő szerv a vizsgaközpont adatkérése alapján az úszólétesítményen fedélzeti és gépüzemi szolgálatot ellátó személyek, továbbá a hajózási üzemeltetési vezetők, valamint a kedvtelési céllal közlekedő úszólétesítmény vezetői képzésén részt vevők, illetve ehhez kapcsolódóan vizsgára jelentkezők adatainak ellenőrzése céljából díjmentesen átadja a résztvevők, valamint jelentkezők természetes személyazonosító adatait.”
-
-(2) A Vkt. 48/A. § (5) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A hajózási hatóság a büntetett előéletre, a foglalkozástól eltiltásra vagy a járművezetéstől eltiltásra vonatkozóan kezelt adatot)
-
-„b) a (4) bekezdés b) pontjában meghatározott esetben a vizsga letételéig, vagy a hajózási képesítéshez kötött foglalkozásától vagy járművezetéstől eltiltás hatályának lejáratáig”
-
-(kezeli.)
+35. §
 
 36. §
 

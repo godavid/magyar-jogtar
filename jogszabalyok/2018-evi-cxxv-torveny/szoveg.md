@@ -2584,7 +2584,7 @@ időtartamát.
 
 (2) A fizetési számlához kapcsolódóan a kormánytisztviselő részére legfeljebb havonta a központi költségvetésről szóló törvényben meghatározott mértékű bankszámla-hozzájárulás adható.
 
-(3) A kormánytisztviselőt foglalkoztató kormányzati igazgatási szerv viseli az illetmény fizetési számlára történő átutalásának vagy készpénzben történő kifizetésének a költségét.
+(3) A kormánytisztviselőt foglalkoztató kormányzati igazgatási szerv viseli az illetmény fizetési számlára történő átutalásának vagy készpénzben történő kifizetésének a költségét, azzal, hogy az illetmény külföldi fizetési számlára utalása esetén az átutalás költsége a munkáltatói jogkör gyakorlójának erre irányuló döntése alapján a kormánytisztviselőt terheli.
 
 (4) A kormánytisztviselő részére járó illetményt havonta utólag, egy alkalommal kell elszámolni és kifizetni. Ha a jogviszony egy hónapnál rövidebb ideig tart, az illetményt a jogviszony végén kell elszámolni és kifizetni.
 
@@ -2592,7 +2592,7 @@ időtartamát.
 
 (6) Az illetményt a tárgyhónapot követő ötödik napig ki kell fizetni.
 
-(7) Az illetmény bankszámlára utalással történő kifizetése esetén, a kormánytisztviselőt foglalkoztató kormányzati igazgatási szervnek úgy kell eljárnia, hogy a kormánytisztviselő illetményével a bérfizetési napon rendelkezhessen.
+(7) Az illetmény bankszámlára utalással történő kifizetése esetén a kormánytisztviselőt foglalkoztató kormányzati igazgatási szervnek úgy kell eljárnia, hogy a kormánytisztviselő illetményével a bérfizetési napon rendelkezhessen. Külföldi fizetési számlára utalás esetén a kormányzati igazgatási szerv köteles eddig a napig az utalást kezdeményezni.
 
 (8) Az illetményt a kormánytisztviselő részére kell kifizetni, kivéve, ha erre mást felhatalmaz, vagy bírósági vagy más hatósági határozat ebben korlátozza.
 
@@ -4315,7 +4315,7 @@ A szakmai vezető kormányzati szolgálati jogviszonyára – az e törvényben 
 
 (1) Az igazgatót a főigazgató javaslatára a kormánymegbízott nevezi ki és menti fel. A főigazgatói álláshely betöltetlensége vagy a főigazgató akadályoztatása esetén az igazgató kinevezéséről a kormánymegbízott dönt.
 
-(2) Igazgatónak az nevezhető ki, aki felsőfokú igazgatásszervezői, jogász szakképzettséggel vagy okleveles közigazgatási menedzser, illetve közgazdász szakképzettséggel, valamint jogi vagy közigazgatási szakvizsgával, államtudományi okleveles mester szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel és legalább 5 év közigazgatási szakmai gyakorlattal rendelkezik.
+(2) Igazgatónak az nevezhető ki, aki felsőfokú igazgatásszervezői, közigazgatás-szervezői, védelmi igazgatási menedzser vagy jogász szakképzettséggel vagy okleveles közigazgatási menedzser, okleveles közigazgatási szakértő, vagy közgazdász szakképzettséggel, valamint jogi vagy közigazgatási szakvizsgával, államtudományi okleveles mester szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel és legalább 5 év közigazgatási szakmai gyakorlattal rendelkezik.
 
 #### 252. § [Az igazgató feletti munkáltatói jogkör gyakorlása]
 
@@ -4370,7 +4370,7 @@ A hivatalvezető illetményét a kormánymegbízott javaslatára a kormányhivat
 
 (1) A hivatalvezető-helyettest a hivatalvezető javaslatára a kormánymegbízott nevezi ki és szünteti meg a jogviszonyát.
 
-(2) Hivatalvezető-helyettesnek az nevezhető ki, aki alapfokozattal és igazgatásszervezői szakképzettséggel, alapfokozattal és nemzetközi igazgatásszervező szakképzettséggel, mesterfokozattal és okleveles közigazgatási menedzser szakképzettséggel, mesterfokozattal és okleveles európai és nemzetközi igazgatásszervező szakképzettséggel, jogász szakképzettséggel, illetve legalább alapfokozattal és közgazdász szakképzettséggel rendelkezik.
+(2) Hivatalvezető-helyettesnek az nevezhető ki, aki felsőoktatásban államtudományi, közigazgatási, rendészeti és katonai képzési területen szerzett szakképzettséggel, jogi képzési területen szerzett jogász szakképzettséggel, valamint gazdaságtudományok képzési területen szerzett szakképzettséggel, és közigazgatási szervnél vezetői munkakörben vagy vezetői álláshelyen eltöltött legalább egy év gyakorlattal rendelkezik.
 
 #### 261. § [A hivatalvezető-helyettes feletti munkáltatói jogok gyakorlása]
 

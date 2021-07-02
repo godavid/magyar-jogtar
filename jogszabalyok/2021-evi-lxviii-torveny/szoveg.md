@@ -98,13 +98,11 @@ egyes energetikai és közszolgáltatási tárgyú törvények módosításáró
 
 43. §
 
-44. § A Vet.
+44. §
 
 - a)
 - b)
-- c) 148. § (4) bekezdésében a „0,81” szövegrész helyébe az „1,45” szöveg
-
-lép.
+- c)
 
 #### 6. A földgázellátásról szóló 2008. évi XL. törvény módosítása
 

@@ -2214,7 +2214,7 @@ a szervezet feladat- és hatásköreinek, létszámának, valamint az általa ve
 
 (2) A fizetési számlához kapcsolódóan a kormánytisztviselő részére legfeljebb havonta a központi költségvetésről szóló törvényben meghatározott mértékű bankszámla-hozzájárulás adható.
 
-(3) A munkáltató viseli az illetmény fizetési számlára történő átutalásának vagy készpénzben történő kifizetésének a költségét.
+(3) A kormánytisztviselőt foglalkoztató közigazgatási szerv viseli az illetmény fizetési számlára történő átutalásának vagy készpénzben történő kifizetésének a költségét azzal, hogy az illetmény külföldi fizetési számlára történő utalása esetén az átutalás költsége a munkáltatói jogkör gyakorlójának erre irányuló döntése alapján a kormánytisztviselőt terheli.
 
 ### Díjazás munkavégzés hiányában
 
@@ -2245,7 +2245,7 @@ a szervezet feladat- és hatásköreinek, létszámának, valamint az általa ve
 
 (3) Az illetményt a tárgyhónapot követő ötödik napig ki kell fizetni.
 
-(4) Az illetmény bankszámlára utalással történő kifizetése esetén, a munkáltatónak úgy kell eljárnia, hogy a kormánytisztviselő illetményével a bérfizetési napon rendelkezhessen.
+(4) Az illetmény bankszámlára utalással történő kifizetése esetén a munkáltatónak úgy kell eljárnia, hogy a kormánytisztviselő az illetményével a bérfizetési napon rendelkezhessen. Külföldi fizetési számlára utalása esetén a munkáltató köteles eddig a napig az utalást kezdeményezni.
 
 (5) Az illetményt a kormánytisztviselőnek kell kifizetni, kivéve, ha erre mást felhatalmaz, illetőleg bírósági vagy más hatósági határozat ebben korlátozza.
 

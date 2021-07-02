@@ -2805,7 +2805,7 @@ vonatkozó szabályait.
 
 (2)
 
-(3) Hatályát veszti a 160. §.
+(3)
 
 410. § E törvény
 

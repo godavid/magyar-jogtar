@@ -103,7 +103,7 @@ jogszabályok előkészítésében.
 
 ### II. Fejezet — AZ ÁLLAMI SZÁMVEVŐSZÉK SZEMÉLYI ÁLLOMÁNYA
 
-8. § (1) Az Állami Számvevőszék személyi állománya elnökből, egy alelnökből, vezetőkből, számvevőkből és a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) hatálya alá tartozó munkavállalókból áll.
+8. § (1) Az Állami Számvevőszék személyi állománya elnökből, két alelnökből, vezetőkből, számvevőkből és a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) hatálya alá tartozó munkavállalókból áll.
 
 (2) Az Állami Számvevőszék szervezetére és feladatai ellátásának belső rendjére, illetve módjára vonatkozó szabályokat e törvény rendelkezései szerint az Állami Számvevőszék elnöke szervezeti és működési szabályzatban állapítja meg.
 
@@ -179,9 +179,9 @@ jogszabályok előkészítésében.
 - l) a Költségvetési Tanács tagjaként ellátja a külön törvényben meghatározott ezirányú feladatait,
 - m) ellátja a törvényekben ráruházott egyéb feladatokat.
 
-### Az Állami Számvevőszék alelnöke
+### Az Állami Számvevőszék alelnökei
 
-14. § (1) Az Állami Számvevőszék alelnökét az elnök nevezi ki tizenkét évre.
+14. § (1) Az Állami Számvevőszék alelnökeit az elnök nevezi ki tizenkét évre.
 
 (2) Nem nevezhető ki az Állami Számvevőszék alelnökévé olyan személy, aki a megelőző négy évben tagja volt a Kormánynak, vagy bármely párt országos (központi) szervezetében választott vezető tisztséget töltött be.
 
@@ -215,9 +215,9 @@ jogszabályok előkészítésében.
 
 (13) Ha az Állami Számvevőszék alelnökének megbízatása megszűnik, jogosult az e megbízatására utaló megnevezést használni, feltéve, hogy a megbízatása nem összeférhetetlenség megállapításával vagy kizárással szűnt meg.
 
-(14) Az Állami Számvevőszék alelnöke az elnök akadályoztatása esetén az elnök által szabályozott jogkörben gyakorolja az elnök jogait és ellátja kötelezettségeit. Az alelnök helyettesítési jogkörben nem jogosult a 13. § (2) bekezdés a) és b) pontjában foglalt feladatok ellátására, azonban a már meghatározott ellenőrzési terv és stratégia végrehajtásáról gondoskodni köteles. Az Állami Számvevőszék alelnöke nem helyettesítheti az elnököt a Költségvetési Tanácsban.
+(14) Az Állami Számvevőszék Szervezeti és Működési Szabályzata által kijelölt alelnöke az elnök akadályoztatása esetén az elnök által szabályozott jogkörben gyakorolja az elnök jogait és ellátja kötelezettségeit. A kijelölt alelnök helyettesítési jogkörben nem jogosult a 13. § (2) bekezdés a) és b) pontjában foglalt feladatok ellátására, azonban a már meghatározott ellenőrzési terv és stratégia végrehajtásáról gondoskodni köteles. Az Állami Számvevőszék kijelölt alelnöke nem helyettesítheti az elnököt a Költségvetési Tanácsban.
 
-(15) Az Állami Számvevőszék alelnökének feladatait az Állami Számvevőszék Szervezeti és Működési Szabályzata határozza meg.
+(15) Az Állami Számvevőszék alelnökeinek feladatait az Állami Számvevőszék Szervezeti és Működési Szabályzata határozza meg.
 
 ### A számvevő
 
@@ -294,15 +294,15 @@ kategóriák valamelyikébe kell besorolni.
 
 ### Vagyonnyilatkozat
 
-19. § (1) Az Állami Számvevőszék elnöke és alelnöke az országgyűlési képviselőkre vonatkozó szabályok szerint a megválasztásakor, majd azt követően évente; az Állami Számvevőszék vezetői és számvevői a köztisztviselőkre vonatkozó szabályok szerint a kinevezésükkor, majd azt követően a vezetők évente, a számvevők kétévente vagyonnyilatkozatot tesznek. A vezetők és a számvevők vagyonnyilatkozata nem nyilvános.
+19. § (1) Az Állami Számvevőszék elnöke és alelnökei az országgyűlési képviselőkre vonatkozó szabályok szerint a megválasztásakor, majd azt követően évente; az Állami Számvevőszék vezetői és számvevői a köztisztviselőkre vonatkozó szabályok szerint a kinevezésükkor, majd azt követően a vezetők évente, a számvevők kétévente vagyonnyilatkozatot tesznek. A vezetők és a számvevők vagyonnyilatkozata nem nyilvános.
 
-(2) A vagyonnyilatkozatok őrzésére, ellenőrzésére, a vagyonnyilatkozat-tételi kötelezettség elmulasztására és a szándékosan téves tartalmú vagyonnyilatkozat közlésére az Állami Számvevőszék elnökének és alelnökének esetében az országgyűlési képviselőkre, az Állami Számvevőszék vezetői és számvevői esetében – eltérő szabály hiányában – a köztisztviselőkre vonatkozó szabályokat kell alkalmazni.
+(2) A vagyonnyilatkozatok őrzésére, ellenőrzésére, a vagyonnyilatkozat-tételi kötelezettség elmulasztására és a szándékosan téves tartalmú vagyonnyilatkozat közlésére az Állami Számvevőszék elnökének és alelnökeinek esetében az országgyűlési képviselőkre, az Állami Számvevőszék vezetői és számvevői esetében – eltérő szabály hiányában – a köztisztviselőkre vonatkozó szabályokat kell alkalmazni.
 
-### Az Állami Számvevőszék elnökét, alelnökét, vezetőit és számvevőit megillető díjazás és juttatások
+### Az Állami Számvevőszék elnökét, alelnökeit, vezetőit és számvevőit megillető díjazás és juttatások
 
 20. § (1) Az Állami Számvevőszék elnökének a tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított, az Állami Számvevőszéktől származó havi keresete a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tizenkétszerese. Egyebekben az Állami Számvevőszék elnöke a minisztert megillető juttatásokra jogosult.
 
-(2) Az Állami Számvevőszék alelnökének a tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított, az Állami Számvevőszéktől származó havi keresete a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tíz és félszerese. Egyebekben az alelnök az Állami Számvevőszék elnökét megillető juttatásokra jogosult.
+(2) Az Állami Számvevőszék alelnökeinek a tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított, az Állami Számvevőszéktől származó havi keresete a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tíz és félszerese. Egyebekben az alelnökök az Állami Számvevőszék elnökét megillető juttatásokra jogosultak.
 
 21. § (1) A tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított számvevői illetményalap a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset összegével megegyező. Az illetményalap változásából eredő illetményváltozás nem minősül a kinevezés módosításának.
 
@@ -551,6 +551,8 @@ kell megfelelően alkalmazni.
 (10) A számvevőt 2019. május 1-jétől kell besorolni az Állami Számvevőszékről szóló 2011. évi LXVI. törvény, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosításáról szóló 2019. évi XXXVII. törvénnyel (a továbbiakban: Módtv.) megállapított besorolási kategóriák valamelyikébe.
 
 (11) A számvevő a jogviszonyát érintő, a Módtv. rendelkezéseivel összefüggésben, a Módtv. hatálybalépését követő négy munkanapon belül írásban kérheti a felmentését a felmentés okának megjelölésével. A felmentési kérelemnek a munkáltatói jogkör gyakorlója általi elfogadása esetén a Módtv.-vel megállapított 15. § (2c) bekezdése megfelelően alkalmazandó.
+
+(12) E törvénynek az állami vagyonnal való fenntartható gazdálkodás megteremtése érdekében egyes vagyongazdálkodást érintő törvények módosításáról, valamint egyéb vagyongazdálkodási rendelkezésekről szóló 2021. évi LXXXIV. törvénnyel (a továbbiakban: Módtv2.) megállapított 8. § (1) bekezdése, 14. § (1), (14) és (15) bekezdése, 19. § (1) és (2) bekezdése, valamint 20. § (2) bekezdése nem érinti a Módtv2. hatálybalépésekor hivatalban lévő alelnök kinevezését.
 
 ### Módosító rendelkezések
 

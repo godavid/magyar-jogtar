@@ -268,11 +268,22 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 20. Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosítása
 
-42. §
+42. § Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) a következő 60/J. §-sal egészül ki:
 
-43. §
+„60/J. § A 60/H. § rendelkezéseit azon XIX. század második és XX. század első felében megvalósult épületek esetén is alkalmazni kell, amelyek megsemmisült vagy megrongálódott tetőidomai és egyéb jelentős épületelemei, épületdíszei helyreállíthatóak. A helyreállítás keretében biztosítani kell a korábbi helyreállítási hibák, eltérések korrekcióját, ideértve különösen az építészeti minőséget lerontó utólagos hozzáépítések elbontását, a tetőzet eredeti formájának újjáépítését és az esetlegesen eltávolított épületdíszítések, tetődíszek, tornyok, kupolák, portálok visszaállítását. A helyi építési szabályzatban – a fővárosban a 14/A. § (2) bekezdés b) és c) pontja szerinti településrendezési tervekben – meghatározott építészeti hangsúly képzésének lehetséges helyszíneitől eltérni csak a fotóval, tervvel, valamint műemlék esetében az építéstörténeti tudományos dokumentációban foglaltakkal igazolt, eredeti állapot visszaállításával megengedett.”
 
-44. §
+43. § Az Étv. a következő 61/C. §-sal egészül ki:
+
+„61/C. § E törvénynek az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvénnyel megállapított 60/J. §-át a folyamatban lévő ügyekben is alkalmazni kell.”
+
+44. § Az Étv.
+
+- a) 20. § (7) bekezdés a) pontjában a „megkezdett tevékenységre” szövegrész helyébe a „megkezdett építési tevékenységre” szöveg,
+- b) 20. § (7) bekezdés d) pontjában az „eljárásra” szövegrész helyébe az „eljárásra, vagy az egyszerű bejelentéstől eltérő építési munkáknak a településrendezési követelményeket nem érintő kivitelezésére” szöveg,
+- c) 48. § (5) bekezdés b) pontjában a „(2) bekezdésében” szövegrész helyébe az „(5) bekezdésében” szöveg,
+- d) 62. § (1) bekezdés 36. pontjában az „az illeszkedés egyedi tartalmát és területi hatályának megállapítására kijelölt közigazgatási szervet,” szövegrész helyébe az „az illeszkedés egyedi tartalmát,” szöveg
+
+lép.
 
 #### 21. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
 
@@ -588,9 +599,13 @@ lép.
 
 151. §
 
-#### 41.
+#### 41. Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény módosítása
 
-152. §
+152. § Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény 2. § 5. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában:)
+
+„5. igazságügyi szakértői intézet: olyan – jellemzően egyetem mellett működő – állami szerv, vagy közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény részeként működő szervezet, amely kizárólagosan, illetve törvényben vagy az alapszabályában meghatározott alaptevékenységén, így különösen tudományos, oktatói, kutatói tevékenységén kívül igazságügyi szakértői tevékenységet is végez,”
 
 #### 42. A Mathias Corvinus Collegium tehetséggondozási programjának és a Maecenas Universitatis Corvini Alapítvány oktatási tevékenységének támogatásáról szóló 2020. évi XXVI. törvény módosítása
 
@@ -666,7 +681,7 @@ lép.
 
 #### 52. A közbeszerzésekről szóló 2015. évi CXLIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2020. évi CXXVIII. törvény módosítása
 
-179. § Nem lép hatályba a közbeszerzésekről szóló 2015. évi CXLIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2020. évi CXXVIII. törvény 13. § (3) bekezdése.
+179. §
 
 #### 53. A Magyar Agrár- és Élettudományi Egyetemért Alapítvány létrehozásáról, valamint a Magyar Agrár- és Élettudományi Egyetemért Alapítvány és a Magyar Agrár- és Élettudományi Egyetem működéséhez szükséges feltételek és forrás biztosításáról szóló 2020. évi CXLII. törvény módosítása
 
@@ -801,7 +816,7 @@ lép.
 
 #### 72. A településtervezéssel összefüggő egyes törvények módosításáról szóló 2021. évi XXXIX. törvény módosítása
 
-224. § A településtervezéssel összefüggő egyes törvények módosításáról szóló 2021. évi XXXIX. törvény 18. §-ának az Étv. 13. § (5) bekezdését módosító rendelkezése a „követelményeket” szövegrész helyett a „követelményeket és a rendeltetési egységek számát” szöveggel lép hatályba.
+224. §
 
 ### 1. melléklet a 2021. évi CI. törvényhez
 

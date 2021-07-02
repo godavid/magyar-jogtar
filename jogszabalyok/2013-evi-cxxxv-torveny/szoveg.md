@@ -555,7 +555,7 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 (2) A Holding Szövetkezet tekintetében a Ptk.-nak a tag személyes közreműködésére, a tagok vagyoni hozzájárulásának arányára és mértékére vonatkozó rendelkezéseit és a 3:326. § (1)–(3) bekezdését nem kell alkalmazni.
 
-(3) A Holding Szövetkezet az Integrációs Szervezet tagja, amely a hitelintézetek integrációja működésében az általa tulajdonolt szervezetekkel kapcsolatos tulajdonosi és a 6. § (4)–(6) bekezdésében foglalt jogait gyakorolva vesz részt.
+(3) A Holding Szövetkezet az Integrációs Szervezet tagja, amely a hitelintézetek integrációja működésében az általa tulajdonolt szervezetekkel kapcsolatos tulajdonosi jogait gyakorolva vesz részt.
 
 (4) A Holding Szövetkezet jogosult integrált hitelintézetben és annak többségi tulajdonában álló vállalkozásban fennálló tulajdoni részesedésének kezelését fő tevékenységként végezni.
 
@@ -993,6 +993,10 @@ A fentiek nem érintik az Integrációs Szervezet törvényből fakadó egyéb j
 (4)
 
 (5) Az MFB Zrt. Integrációs Szervezetből történő kilépéséig az e törvény 2. Mód. tv. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni az MFB Zrt. Integrációs Szervezetben fennálló tagsági jogviszonyára. Az Integrációs Szervezet közgyűlésén az Integrációs Szervezet tagjait megillető szavazatokra a 6. § (3) bekezdés 2. Mód. tv hatálybalépését megelőző napon hatályos rendelkezése irányadó az MFB Zrt. Integrációs Szervezetből történő kilépéséig.
+
+20/H. § (1) Az Integrációs Szervezet eszközeit tagjai tőkehelyzetének megerősítése érdekében befektetheti olyan – piaci alapú – pénzügyi vagy tőkepiaci eszközbe, amely hozzájárul ahhoz, hogy az egyes tagjai megfeleljenek az Európai Parlament és a Tanács 575/2013/EU rendelete, illetve a Hpt. szavatoló tőkére vonatkozó rendelkezéseinek.
+
+(2) Az Integrációs Szervezet megfelel a Hpt. 125. §-ában foglalt követelményeknek.
 
 #### 10. Hatály, felhatalmazások
 

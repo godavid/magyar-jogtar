@@ -26,37 +26,15 @@ a közbeszerzésekről szóló 2015. évi CXLIII. törvény és egyes kapcsolód
 
 9. §
 
-10. § A Kbt. 28. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Előzetes piaci konzultációt az ajánlatkérő – más módszerek mellett – úgy is megvalósíthat, hogy a műszaki leírás tervezetét és a szerződéstervezetet az EKR-ben előzetesen közzéteszi, amelynek véleményezésére az érdeklődő gazdasági szereplők számára lehetőséget biztosít.
+10. §
 
 11. §
 
 12. §
 
-13. § (1) A Kbt. 43. § (1) bekezdése helyébe a következő rendelkezés lép:
+13. § (1)
 
-„(1) Az ajánlatkérő köteles az EKR-en keresztül a Közbeszerzési Hatóság által működtetett nyilvános elektronikus szerződéstárban (a továbbiakban: CoRe), valamint az EKR-ben közzétenni
-
-a) a 9. § (1) bekezdés h)–j) pontjának, valamint a 12. § (1)–(5) bekezdésének alkalmazásával megkötött szerződéseket a szerződéskötést, valamint a szerződésmódosításokat a szerződés módosítását követően haladéktalanul;
-
-b) a közbeszerzési eljárás alapján megkötött szerződéseket a 37. § (1) bekezdés h) pontja szerinti hirdetmény megjelenését – a 37. § (4) bekezdése szerinti hirdetménnyel érintett szerződések esetében a szerződéskötést – követően haladéktalanul, valamint a szerződésmódosításokat a 37. § (1) bekezdés j) pontja szerinti hirdetmény megjelenését követően haladéktalanul;
-
-c) a szerződés teljesítésére vonatkozó következő adatokat:
-
-ca) hivatkozást a közbeszerzési eljárást megindító hirdetményre (hirdetmény nélkül induló eljárások esetében felhívásra),
-
-cb) a szerződő felek megnevezését,
-
-cc) azt, hogy a teljesítés szerződésszerű volt-e,
-
-cd) a szerződés teljesítésének az ajánlatkérő által elismert időpontját, valamint
-
-ce) az ellenszolgáltatás teljesítésének időpontját és a kifizetett ellenszolgáltatás értékét a szerződés mindegyik fél – támogatásból megvalósuló közbeszerzés esetén szállítói kifizetés során a kifizetésre köteles szervezet – által történt teljesítését követő harminc napon belül.”
-
-(2) A Kbt. 43. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdés szerinti adatszolgáltatást az EKR-ben kell teljesíteni, amely gondoskodik az adatoknak a CoRe-ba történő, a feltöltést követő azonnali, változtatás nélküli automatikus továbbításáról.”
+(2)
 
 (3)
 
@@ -70,9 +48,7 @@ ce) az ellenszolgáltatás teljesítésének időpontját és a kifizetett ellen
 
 18. §
 
-19. § A Kbt. 62. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) A Gazdasági Versenyhivatal az EKR-ben közzéteszi az (1) bekezdés n) pontja szerinti – a Gazdasági Versenyhivatal vagy a Gazdasági Versenyhivatal döntésével szemben indított közigazgatási perben a bíróság által hozott – a kizáró okot megalapozó határozatokra vonatkozó, a kizáró ok hiányának ellenőrzését szolgáló információkat.”
+19. §
 
 20. §
 
@@ -112,19 +88,9 @@ ce) az ellenszolgáltatás teljesítésének időpontját és a kifizetett ellen
 
 38. §
 
-39. § A Kbt. 125. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+39. §
 
-„(1) A nyertes ajánlattevő kiválasztására objektív értékelési szempontokat kell alkalmazni. Az értékelési szempontok meghatározására a 76. § (1)–(8), (11) és (13) bekezdését az e §-ban foglalt eltérésekkel kell alkalmazni.
-
-(2) Az ajánlatkérőnek az értékelési szempontokat és az értékelési szempontok keretében értékelt alszempontokat csökkenő fontossági sorrendben kell feltüntetnie. Az értékelési szempontokat, alszempontokat, valamint az értékelés során alkalmazott módszer leírását az eljárást megindító felhívásban vagy a további közbeszerzési dokumentumokban kell meghatározni.”
-
-40. § A Kbt. 125. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Ha az eljárásban olyan ajánlatot nyújtanak be, amely kivételesen magas funkcionális teljesítményt nyújtó, innovatív megoldást kínál, és e megoldást egy kellő gondossággal eljáró ajánlatkérő nem láthatta előre, az ajánlatkérő kivételesen módosíthatja az értékelési szempontok vagy az azok keretében megadott alszempontok fontossági sorrendjét. A fontossági sorrend módosulása nem eredményezheti a 2. § (1)–(3) bekezdésében foglalt alapelvek sérelmét. Ebben az esetben az ajánlatkérő,
-
-a) amennyiben az értékelési szempontok az eljárást megindító felhívás közzétételével egyidejűleg kerültek közzétételre, az ajánlatkérő új eljárást megindító felhívást köteles hirdetményben közzétenni, figyelembe véve a 123. § (2) bekezdésében meghatározott huszonöt napos – ha az ajánlatok csak részben nyújthatóak be elektronikusan, harminc napos – minimális ajánlattételi vagy részvételi határidőt;
-
-b) amennyiben az értékelési szempontok az eljárást megindító felhívás közzétételével egyidejűleg még nem kerültek közzétételre, minden ajánlattevőt köteles tájékoztatni a módosulásról, és új ajánlattételre vonatkozó felhívást küld ki, figyelembe véve a 123. § (2) bekezdésében meghatározott tizenhét napos – ha az ajánlatok csak részben nyújthatóak be elektronikusan, huszonkét napos – minimális ajánlattételi határidőt.”
+40. §
 
 41. §
 
@@ -146,19 +112,13 @@ b) amennyiben az értékelési szempontok az eljárást megindító felhívás k
 
 50. §
 
-51. § A Kbt. 187. §-a a következő (2b) bekezdéssel egészül ki:
-
-„(2b) A (2) bekezdés a) pontjában foglalt feladatok ellátása tekintetében kizárólag a Hatóság jogosult az EKR-be feltöltött adatok vonatkozásában módosítást végrehajtani. Az e bekezdésben, a (2) bekezdés a) pontjában, valamint a 43. § (1a) bekezdésében foglaltak teljesítéséhez kapcsolódóan az EKR megfelelő működéséért az EKR üzemeltetője felelős.”
+51. §
 
 52. § (1)
 
-(2) A Kbt. 195. §-a a következő (9) bekezdéssel egészül ki:
+(2)
 
-„(9) A képző szervezetek által megküldött dokumentumok alapján a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékébe történő bejegyzéséhez és a névjegyzékbe vétel megújításához szükséges, elismert szakmai képzéseken részt vevők listáját és a részvétel alapján megszerzett tanulmányi pontokat a közbeszerzésekért felelős miniszter az EKR-ben vezeti. A listában szereplő, egyes természetes személyek által elismert szakmai képzéseken való részvétel alapján megszerzett tanulmányi pontokhoz a névjegyzékbe történő bejegyzés vagy névjegyzékbe vétel megújítás érdekében a Hatósághoz benyújtott kérelem alapján a közbeszerzésekért felelős miniszter a Hatóság részére hozzáférést biztosít.”
-
-53. § (1) A Kbt. 197. §-a a következő (21) bekezdéssel egészül ki:
-
-„(21) E törvénynek a közbeszerzésekről szóló 2015. évi CXLIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2020. évi CXXVIII. törvénnyel megállapított 43. § (1) és (1a) bekezdését alkalmazni kell az ezen rendelkezések hatálybalépését megelőzően kötött szerződésekre is.”
+53. § (1)
 
 (2)
 
@@ -168,7 +128,7 @@ b) amennyiben az értékelési szempontok az eljárást megindító felhívás k
 
 55. §
 
-56. § A Kbt.
+56. §
 
 - 1.
 - 2.
@@ -187,24 +147,22 @@ b) amennyiben az értékelési szempontok az eljárást megindító felhívás k
 - 15.
 - 16.
 - 17.
-- 18. 148. § (7) bekezdés e) pontjában a „pont] a CoRe-ban” szövegrész helyébe a „pont] az EKR-en keresztül a Core-ban” szöveg,
-- 19. 153. § (2) bekezdésében az „a CoRe-ban, valamint ha az e törvény felhatalmazása alapján alkotott jogszabály azt egyes dokumentumok, adatok tekintetében kötelezővé teszi, az EKR-ben” szövegrész helyébe az „az EKR-en keresztül a CoRe-ban, valamint az EKR-ben” szöveg,
+- 18.
+- 19.
 - 20.
 - 21.
 - 22.
 - 23.
 - 24.
 - 25.
-- 26. 187. § (2) bekezdés a) pont nyitó szövegrészében az „a honlapján” szövegrész helyébe az „az EKR-ben” szöveg,
-- 27. 187. § (2) bekezdés a) pont ac) alpontjában az „a honlapon” szövegrész helyébe az „az EKR-ben” szöveg,
+- 26.
+- 27.
 - 28.
 - 29.
 - 30.
 - 31.
 
-lép.
-
-57. § Hatályát veszti a Kbt.
+57. §
 
 - 1.
 - 2.
@@ -213,7 +171,7 @@ lép.
 - 5.
 - 6.
 - 7.
-- 8. 119. § (2) bekezdés g) pontja,
+- 8.
 - 9.
 - 10.
 - 11.
