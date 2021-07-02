@@ -1124,7 +1124,7 @@ induló tőkével alapítható.
 
 (2) A Felügyelet végelszámolást elrendelő határozatot hoz, ha
 
-- a) a pénzügyi intézmény tevékenységi engedélyét – ide nem értve a hitelintézet pénzügyi vállalkozássá vagy befektetési vállalkozássá történő átalakítását – visszavonja, kivéve ha az engedély visszavonása a 33. § (1) bekezdés b) pontja, 33. § (2) bekezdés c) pontja vagy 35. § (3) bekezdése alapján történik, vagy
+- a) a pénzügyi intézmény tevékenységi engedélyét – ide nem értve a hitelintézet pénzügyi vállalkozássá vagy befektetési vállalkozássá történő átalakítását – visszavonja, kivéve ha az engedély visszavonása a 33. § (1) bekezdés b) pontja, 33. § (2) bekezdés c) pontja, 35. § (2) és (3) bekezdése alapján történik, vagy
 - b) tudomására jut, hogy a külföldi pénzügyi intézmény alapítási, tevékenységi (működési) vagy a fióktelep formájában működő pénzügyi intézmény alapításra vonatkozó, a külföldi pénzügyi intézmény székhelye szerinti illetékes felügyeleti hatóság által kiadott engedélye visszavonásra kerül.
 
 (3) A Felügyelet végelszámolással történő megszüntetést elrendelő határozata meghozatalához nem szükséges beszerezni a Ctv. 94. § (3) bekezdésében meghatározott előzetes egyetértést.

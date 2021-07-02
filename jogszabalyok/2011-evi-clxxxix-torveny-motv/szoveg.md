@@ -1267,7 +1267,7 @@ kivételével más kereső foglalkozást nem folytathat, egyéb tevékenységé�
 
 120. § (1) A pénzügyi bizottság a helyi önkormányzatnál és intézményeinél
 
-- a) véleményezi az éves költségvetési javaslatot és a végrehajtásáról szóló féléves, éves beszámoló tervezeteit;
+- a) véleményezi az éves költségvetési javaslatot és a végrehajtásáról szóló éves beszámoló tervezeteit;
 - b) figyelemmel kíséri a költségvetési bevételek alakulását, különös tekintettel a saját bevételekre, a vagyonváltozás (vagyon növekedés, -csökkenés) alakulását, értékeli az azt előidéző okokat;
 - c) vizsgálja az adósságot keletkeztető kötelezettségvállalás indokait és gazdasági megalapozottságát, ellenőrizheti a pénzkezelési szabályzat megtartását, a bizonylati rend és a bizonylati fegyelem érvényesítését;
 - d) ellátja a képviselő-testület rendeletében meghatározott feladatokat.
