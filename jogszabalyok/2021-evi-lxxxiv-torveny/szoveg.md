@@ -100,29 +100,9 @@ az állami vagyonnal való fenntartható gazdálkodás megteremtése érdekében
 
 28. §
 
-29. § A Vtv. Átmeneti rendelkezések alcíme a következő 69/E. §-sal egészül ki:
+29. §
 
-„69/E. § (1) A 2021. december 31. napján az MNV Zrt. tulajdonosi joggyakorlása alatt álló, általa közvetlenül hasznosított, kivezetésre szánt állami vagyonnak minősített vagyonelemek az azokhoz kapcsolódó jogokkal, terhekkel és követelésekkel együtt e törvény erejénél fogva, nyilvántartási értéken, 2022. január 1. napjával a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság (a továbbiakban: MVH) tulajdonosi joggyakorlása alá kerülnek.
-
-(2) A vagyonelemek átadására az átadási felület szolgál, külön megállapodás megkötése vagy jegyzőkönyv felvétele nem szükséges. Az MNV Zrt. 2021. december 31-ig gondoskodik az általa kivezetésre szánt állami vagyonnak minősített vagyonelemek, az azokhoz kapcsolódó jogok, terhek és követelések, valamint az MNV Zrt.-re öröklés útján átszállt vagy az 1. § (6a) bekezdése alapján az MNV Zrt. által 2022. január 1-je előtt átvett követelések adatainak átadási felületre történő feltöltéséről.
-
-(3) A számviteli nyilvántartások rendezése céljából az MNV Zrt. legkésőbb 2022. június 30. napjáig számviteli szempontból átadja az MVH részére a kivezetésre szánt állami vagyonnak minősített vagyon körébe tartozó vagyonelemeket.
-
-(4) Az MNV Zrt. és az MVH 2022. január 1. napjára visszamenőlegesen, a 2022. június 30. napjáig végrehajtott átadásról az államháztartásról szóló 2011. évi CXCV. törvény 70. alcím szerinti adatszolgáltatási kötelezettségnek a 2022. szeptember hónapot és a 2022. harmadik negyedévet érintő adatszolgáltatás keretében köteles eleget tenni.
-
-(5) Az (1) bekezdés szerinti tulajdonosi joggyakorlás átszállásának napjával az érintett vagyonelemekkel kapcsolatos valamennyi jogviszonyba az MNV Zrt. helyébe jogutódként az MVH lép. Az érintett vagyonelemekkel kapcsolatos peres és nemperes eljárásokba az MVH az MNV Zrt. jogutódjaként belép.
-
-(6) Az MVH – jogszabály eltérő rendelkezése hiányában – jogosult a tulajdonosi joggyakorlás átszállásától számított kilencven napon belül felmondani azokat a szerződéseket, amelyekbe az (5) bekezdés alapján jogutódként belépett.
-
-(7) Az MVH egyoldalú nyilatkozatát tartalmazó kérelemmel gondoskodik a tulajdonosi joggyakorló személyében bekövetkezett változás ingatlan-nyilvántartásban, valamint egyéb hatósági vagy jogszabály alapján vezetett nyilvántartásban történő átvezetéséről. Az MVH e jogszabályhelyre való hivatkozását tartalmazó egyoldalú nyilatkozata és az átadási felületen előállított – a tulajdonosi joggyakorlás átadásával érintett vagyonelemeket tartalmazó – dokumentum képezi a bejegyzés alapjául szolgáló okiratot.”
-
-30. § A Vtv. Átmeneti rendelkezések alcíme a következő 69/F. §-sal egészül ki:
-
-„69/F. § (1) 2022. január 1. napján az MNV Zrt. az MVH részére átadja a kezelésében lévő fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében átvett vagyonelemeket, ideértve a vagyonelemként átvett követeléseket is.
-
-(2) A vagyonelemek átadására az átadási felület szolgál, külön megállapodás megkötése vagy jegyzőkönyv felvétele nem szükséges.
-
-(3) Az (1) bekezdés szerint átvett vagyonelemek tekintetében a 69/E. § (5)–(7) bekezdésében foglaltak alkalmazandóak.”
+30. §
 
 31. §
 
@@ -154,23 +134,11 @@ az állami vagyonnal való fenntartható gazdálkodás megteremtése érdekében
 
 #### 14. Az Állami Számvevőszékről szóló 2011. évi LXVI. törvény módosítása
 
-43. § Az Állami Számvevőszékről szóló 2011. évi LXVI. törvény (a továbbiakban: Ásztv.) 14. § (14) bekezdése helyébe a következő rendelkezés lép:
+43. §
 
-„(14) Az Állami Számvevőszék Szervezeti és Működési Szabályzata által kijelölt alelnöke az elnök akadályoztatása esetén az elnök által szabályozott jogkörben gyakorolja az elnök jogait és ellátja kötelezettségeit. A kijelölt alelnök helyettesítési jogkörben nem jogosult a 13. § (2) bekezdés a) és b) pontjában foglalt feladatok ellátására, azonban a már meghatározott ellenőrzési terv és stratégia végrehajtásáról gondoskodni köteles. Az Állami Számvevőszék kijelölt alelnöke nem helyettesítheti az elnököt a Költségvetési Tanácsban.”
+44. §
 
-44. § Az Ásztv. 35. §-a a következő (12) bekezdéssel egészül ki:
-
-„(12) E törvénynek az állami vagyonnal való fenntartható gazdálkodás megteremtése érdekében egyes vagyongazdálkodást érintő törvények módosításáról, valamint egyéb vagyongazdálkodási rendelkezésekről szóló 2021. évi LXXXIV. törvénnyel (a továbbiakban: Módtv2.) megállapított 8. § (1) bekezdése, 14. § (1), (14) és (15) bekezdése, 19. § (1) és (2) bekezdése, valamint 20. § (2) bekezdése nem érinti a Módtv2. hatálybalépésekor hivatalban lévő alelnök kinevezését.”
-
-45. § Az Ásztv.
-
-- a) 8. § (1) bekezdésében az „egy” szövegrész helyébe a „két” szöveg,
-- b) „Az Állami Számvevőszék alelnöke” alcímének címében és 19. § (1) bekezdésében az „alelnöke” szövegrész helyébe az „alelnökei” szöveg,
-- c) 14. § (1) bekezdésében és „Az Állami Számvevőszék elnökét, alelnökét, vezetőit és számvevőit megillető díjazás és juttatások” alcímének címében az „alelnökét” szövegrész helyébe az „alelnökeit” szöveg,
-- d) 14. § (15) bekezdésében, 19. § (2) bekezdésében és 20. § (2) bekezdésében az „alelnökének” szövegrész helyébe az „alelnökeinek” szöveg,
-- e) 20. § (2) bekezdésében az „alelnök” szövegrész helyébe az „alelnökök” szöveg, és a „jogosult” szövegrész helyébe a „jogosultak” szöveg
-
-lép.
+45. §
 
 #### 15. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása
 
@@ -192,19 +160,15 @@ lép.
 
 #### 16. A szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény módosítása
 
-54. § A szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény (a továbbiakban: Szhitv.) 9. alcíme a következő 20/H. §-sal egészül ki:
+54. §
 
-„20/H. § (1) Az Integrációs Szervezet eszközeit tagjai tőkehelyzetének megerősítése érdekében befektetheti olyan – piaci alapú – pénzügyi vagy tőkepiaci eszközbe, amely hozzájárul ahhoz, hogy az egyes tagjai megfeleljenek az Európai Parlament és a Tanács 575/2013/EU rendelete, illetve a Hpt. szavatoló tőkére vonatkozó rendelkezéseinek.
-
-(2) Az Integrációs Szervezet megfelel a Hpt. 125. §-ában foglalt követelményeknek.”
-
-55. § Hatályát veszti az Szhitv. 15/E. § (3) bekezdésében az „és a 6. § (4)–(6) bekezdésében foglalt” szövegrész.
+55. §
 
 #### 17. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
 
 56. §
 
-57. § A Hpt. 48. § (2) bekezdés a) pontjában a „33. § (2) bekezdés c) pontja vagy 35. § (3) bekezdése” szövegrész helyébe a „33. § (2) bekezdés c) pontja, 35. § (2) és (3) bekezdése” szöveg lép.
+57. §
 
 #### 18. A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény módosítása
 
