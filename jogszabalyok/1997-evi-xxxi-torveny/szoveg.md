@@ -26,6 +26,8 @@ Az Országgyűlés a jövő nemzedékért érzett felelősségtől vezérelve a 
 
 (2) A gyermekek védelme során az egyenlő bánásmód követelményét meg kell tartani.
 
+3/A. § A gyermekvédelmi rendszerben az állam védi a gyermekek születési nemének megfelelő önazonossághoz való jogát.
+
 ### A törvény hatálya
 
 4. § (1) A törvény hatálya kiterjed
@@ -114,6 +116,8 @@ ha az e törvényben és más jogszabályban meghatározott feltételek szerint,
 (5a) A gyermeknek joga van ahhoz, hogy a védelme érdekében eljáró szakemberek – különösen a gyermek bántalmazásának felismerése és megszüntetése érdekében – egységes elvek és módszertan alkalmazásával járjanak el.
 
 (6) A gyermeknek joga van ahhoz, hogy a médiában fejlettségének megfelelő, ismeretei bővítését segítő, a magyar nyelv és kultúra értékeit őrző műsorokhoz hozzáférjen, továbbá hogy védelmet élvezzen az olyan káros hatásokkal szemben, mint a gyűlöletkeltés, az erőszak és a pornográfia.
+
+6/A. § E törvényben foglalt célok és gyermeki jogok biztosítása érdekében tilos tizennyolc éven aluliak számára pornográf, valamint olyan tartalmat elérhetővé tenni, amely a szexualitást öncélúan ábrázolja, illetve a születési nemnek megfelelő önazonosságtól való eltérést, a nem megváltoztatását, valamint a homoszexualitást népszerűsíti, jeleníti meg.
 
 7. § (1) A gyermek szüleitől vagy más hozzátartozóitól csak saját érdekében, törvényben meghatározott esetekben és módon választható el. A gyermeket kizárólag anyagi okból fennálló veszélyeztetettség miatt nem szabad családjától elválasztani.
 

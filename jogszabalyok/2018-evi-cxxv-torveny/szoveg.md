@@ -1333,14 +1333,14 @@ magyar állampolgárral létesíthető és tartható fenn.
 
 (2) Nem létesíthető kormányzati szolgálati jogviszony azzal, aki állam elleni bűncselekmény [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXIV. Fejezet, illetve a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) X. fejezet], igazságszolgáltatás elleni bűncselekmény (Btk. XXVI. Fejezet, illetve az 1978. évi IV. törvény XV. fejezet VI. cím), korrupciós bűncselekmény (Btk. XXVII. Fejezet) vagy közélet tisztasága elleni, valamint a nemzetközi közélet tisztasága elleni bűncselekmény (1978. évi IV. törvény XV. fejezet VII. és VIII. cím), hivatali bűncselekmény (Btk. XXVIII. Fejezet, illetve az 1978. évi IV. törvény XV. fejezet IV. cím), illetve közbizalom elleni bűncselekmény (Btk. XXXIII. Fejezet, illetve az 1978. évi IV. törvény XVI. fejezet III. cím) miatt indult büntetőeljárás hatálya alatt áll.
 
-(3) Ha az álláshelyen ellátandó feladatok körébe tizennyolcadik életévét be nem töltött személy nevelése, felügyelete, gondozása vagy gyógykezelése tartozik, a kormányzati szolgálati jogviszony az (1) és (2) bekezdésben meghatározottakon túl nem létesíthető azzal, aki
+(3) Kormányzati szolgálati jogviszony az (1) és (2) bekezdésben meghatározottakon túl nem létesíthető azzal, aki
 
 - a) a 2013. június 30-ig hatályban volt emberölés [az 1978. évi IV. törvény 166. § (2) bekezdés i) pont], öngyilkosságban közreműködés [1978. évi IV. törvény 168. § (2) bekezdés], személyi szabadság megsértése [1978. évi IV. törvény 175. § (3) bekezdés e) pont], emberkereskedelem [1978. évi IV. törvény 175/B. § (2) bekezdés a) pont és (5) bekezdés], családi állás megváltoztatása [1978. évi IV. törvény 193. § (2) bekezdés b) pont], kiskorú veszélyeztetése [1978. évi IV. törvény 195. § (1)–(3) bekezdés], erőszakos közösülés [1978. évi IV. törvény 197. § (2) bekezdés a) pont és (3) bekezdés], szemérem elleni erőszak [1978. évi IV. törvény 198. § (2) bekezdés a) pont és (3) bekezdés], megrontás (1978. évi IV. törvény 201–202/A. §), tiltott pornográf felvétellel visszaélés (1978. évi IV. törvény 204. §), üzletszerű kéjelgés elősegítése [1978. évi IV. törvény 205. § (3) bekezdés a) pont], visszaélés kábítószerrel [1978. évi IV. törvény 282/B. § (1) bekezdés, (2) bekezdés a) és c) pont, 282/B. § (5) bekezdés és (7) bekezdés a) pont] miatt büntetőeljárás hatálya alatt áll,
-- b) tiltott toborzás [Btk. 146. § (3) bekezdés], emberölés [Btk. 160. § (2) bekezdés i) pont], öngyilkosságban közreműködés [Btk. 162. § (2) bekezdés], emberi test tiltott felhasználása [Btk. 175. § (3) bekezdés a) pont], kábítószer-kereskedelem [Btk. 177. § (1) bekezdés a) és b) pont], kábítószer birtoklása [Btk. 179. § (1) bekezdés a) pont és (2) bekezdés], kóros szenvedélykeltés (Btk. 181. §), teljesítményfokozó szerrel visszaélés [Btk. 185. § (3) és (5) bekezdés], emberrablás [Btk. 190. § (2) bekezdés a) pont és (3) bekezdés a) pont], emberkereskedelem és kényszermunka [Btk. 192. § (5) bekezdés a) pont és (6) bekezdés a) pont], kényszermunka [az emberkereskedelem áldozatainak kizsákmányolása elleni fellépés érdekében szükséges egyes törvények módosításáról szóló 2020. évi V. törvény hatálybalépéséig hatályban volt Btk. 193. § (2) bekezdés c) pont], személyi szabadság megsértése [Btk. 194. § (2) bekezdés a) pont és (3) bekezdés], szexuális kényszerítés [Btk. 196. § (2) bekezdés a) pont és (3) bekezdés], szexuális erőszak [Btk. 197. § (2) bekezdés, (3) bekezdés a) pont és (4) bekezdés], szexuális visszaélés (Btk. 198. §), kerítés [Btk. 200. § (2) bekezdés és (4) bekezdés a) pont], prostitúció elősegítése [Btk. 201. § (1) bekezdés c) pont és (2) bekezdés], gyermekprostitúció kihasználása (Btk. 203. §), gyermekpornográfia (Btk. 204. §), szeméremsértés [Btk. 205. § (2) bekezdés], kiskorú veszélyeztetése (Btk. 208. §), gyermekmunka (Btk. 209. §), családi jogállás megsértése [Btk. 213. § (2) bekezdés b) pont] miatt büntetőeljárás hatálya alatt áll,
+- b) tiltott toborzás [Btk. 146. § (3) bekezdés], emberölés [Btk. 160. § (2) bekezdés i) pont], öngyilkosságban közreműködés [Btk. 162. § (2) bekezdés], emberi test tiltott felhasználása [Btk. 175. § (3) bekezdés a) pont], kábítószer-kereskedelem [Btk. 177. § (1) bekezdés a) és b) pont], kábítószer birtoklása [Btk. 179. § (1) bekezdés a) pont és (2) bekezdés], kóros szenvedélykeltés (Btk. 181. §), teljesítményfokozó szerrel visszaélés [Btk. 185. § (3) és (5) bekezdés], emberrablás [Btk. 190. § (2) bekezdés a) pont és (3) bekezdés a) pont], emberkereskedelem és kényszermunka [Btk. 192. § (5) bekezdés a) pont és (6) bekezdés a) pont], kényszermunka [az emberkereskedelem áldozatainak kizsákmányolása elleni fellépés érdekében szükséges egyes törvények módosításáról szóló 2020. évi V. törvény hatálybalépéséig hatályban volt Btk. 193. § (2) bekezdés c) pont], személyi szabadság megsértése [Btk. 194. § (2) bekezdés a) pont és (3) bekezdés], szexuális kényszerítés [Btk. 196. § (2) bekezdés a) pont és (3) bekezdés], szexuális erőszak [Btk. 197. § (2) bekezdés, (3) bekezdés a) pont és (4) bekezdés], szexuális visszaélés (Btk. 198. §), kerítés [Btk. 200. § (2) bekezdés és (4) bekezdés a) pont], prostitúció elősegítése [Btk. 201. § 2020. június 30-ig hatályban volt (1) bekezdés c) pont, (2) bekezdés és (4) bekezdés b) pont], gyermekprostitúció kihasználása (Btk. 203. §), gyermekpornográfia (Btk. 204–204/A. §), szeméremsértés [Btk. 205. § (2) bekezdés], kiskorú veszélyeztetése (Btk. 208. §), gyermekmunka (Btk. 209. §), családi jogállás megsértése [Btk. 213. § (2) bekezdés b) pont] miatt büntetőeljárás hatálya alatt áll,
 - c) a Btk. 52. § (3) bekezdése szerinti foglalkozástól eltiltás hatálya alatt áll, és
 - d) az a) és b) pontban meghatározott bűncselekmények elkövetése miatt kényszergyógykezelés alatt áll.
 
-(4) Kormányzati szolgálati jogviszony nem létesíthető azzal, akivel szemben a (2) bekezdésben meghatározott
+(4) Kormányzati szolgálati jogviszony nem létesíthető azzal, akivel szemben a (2) bekezdésben, valamint a (3) bekezdés a) és b) pontjában meghatározott
 
 - a) szándékos bűncselekmény miatt végrehajtandó szabadságvesztést szabtak ki,
   - aa) öt évet el nem érő szabadságvesztés esetén a mentesítés beálltától számított öt évig,
@@ -1403,7 +1403,7 @@ a kormányzati szolgálati jogviszonyt azonnali hatállyal meg kell szüntetni.
 
 (1) A kormányzati szolgálati jogviszonyt létesíteni szándékozó személy a kinevezést megelőzően hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű, továbbá nem áll a 82. § szerinti büntetőeljárás hatálya alatt.
 
-(2) Az, aki a 82. § (3) bekezdése szerinti kormányzati igazgatási szervnél kíván kormányzati szolgálati jogviszonyt létesíteni, az (1) bekezdésben foglaltakon túl azt is igazolja, hogy az ott meghatározott kizáró feltételek nem állnak fenn vele szemben.
+(2) Az, aki kormányzati szolgálati jogviszonyt kíván létesíteni, az (1) bekezdésben foglaltakon túl azt is igazolja, hogy a 82. § (3) és (4) bekezdésében meghatározott kizáró feltételek nem állnak fenn vele szemben.
 
 (3) A pártfogó felügyelőként kormányzati szolgálati jogviszonyt létesíteni szándékozó személy az (1) bekezdésben foglaltakon túl hatósági bizonyítvánnyal azt is igazolja, hogy a 82. § (5) bekezdésében foglalt kizáró feltételek nem állnak fenn vele szemben.
 
@@ -1414,7 +1414,7 @@ a kormányzati szolgálati jogviszonyt azonnali hatállyal meg kell szüntetni.
 - a) büntetlen előéletű,
 - b) nem áll az álláshelyéhez kapcsolódó foglalkozástól eltiltás hatálya alatt,
 - c) az a) pontban foglaltakon túlmenően, pártfogó felügyelő esetén, hogy a 82. § (5) bekezdésében foglalt kizáró feltételek nem állnak fenn vele szemben, továbbá
-- d) az a) pontban foglaltakon túlmenően, a 82. § (3) bekezdése szerinti kormányzati igazgatási szervvel fennálló kormányzati szolgálati jogviszony esetén nem áll fenn vele szemben a 82. § (4) és (5) bekezdésében foglalt kizáró feltétel.
+- d) az a) pontban foglaltakon túlmenően nem áll fenn vele szemben a 82. § (2)–(4) bekezdésében foglalt kizáró feltétel.
 
 (6) A kormányzati igazgatási szerv a foglalkoztatást kizáró és az (1)–(4) bekezdés alapján vizsgálandó ok ellenőrzése céljából kezeli
 
@@ -3533,7 +3533,7 @@ együttesen kell tárolni (a továbbiakban együtt: személyi anyag).
 
 (1) A politikai felsővezető politikai szolgálati jogviszonyára – ha az Alaptörvény, valamint e törvény eltérően nem rendelkezik – a kormányzati szolgálati jogviszonyra és a kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
 
-(2) A politikai felsővezető politikai szolgálati jogviszonyára nem kell alkalmazni a 79. §, a 80. § (2) bekezdésének, a 81. §, a XII. fejezet, a 86. § (1)–(6) bekezdése és a 89. § (1) és (2) bekezdése kivételével a XIV. fejezet, a 92. §, a 95–97. §, a XVI. fejezet, a 115. § és a 117. § kivételével a XVII. fejezet, a 124. §, a 128. § (1) és (3)–(7) bekezdésének, a 134. § (1)–(3) és (5) bekezdésének, a 144–145. §, a 149. §, a 151. §, a 158. §, a 166. §, valamint a XXII. és XXIII. fejezet rendelkezéseit.
+(2) A politikai felsővezető politikai szolgálati jogviszonyára nem kell alkalmazni a 79. §, a 80. § (2) bekezdésének, a 81. §, a XII. fejezet, a 82. § (2)–(4) bekezdése, a 86. § (1)–(6) bekezdése és a 89. § (1) és (2) bekezdése kivételével a XIV. fejezet, a 92. §, a 95–97. §, a XVI. fejezet, a 115. § és a 117. § kivételével a XVII. fejezet, a 124. §, a 128. § (1) és (3)–(7) bekezdésének, a 134. § (1)–(3) és (5) bekezdésének, a 144–145. §, a 149. §, a 151. §, a 158. §, a 166. §, valamint a XXII. és XXIII. fejezet rendelkezéseit.
 
 #### 182. § [A politikai felsővezetők összeférhetetlensége]
 
@@ -3855,7 +3855,7 @@ Ha a miniszter megbízatása az Alaptörvény 20. cikk (3) bekezdés d) pontjáb
 - a) a szolgálati jogviszony alanyaival,
 - b) a Magyar Kormánytisztviselői Karban betöltött tagsággal,
 - c) a munkáltatói jogkör gyakorlásával,
-- d) a szolgálati jogviszony létesítésével és a kinevezés módosításával,
+- d) a 82. § (2)–(4) bekezdése kivételével a szolgálati jogviszony létesítésével és a kinevezés módosításával,
 - e) a kötelező részmunkaidő kikötésével,
 - f) a jogviszony megszűnésével, megszüntetésével,
 - g) a képzéssel és a továbbképzéssel,
@@ -4061,6 +4061,8 @@ nevezhető ki.
 (2) Ha a biztosi jogviszonyban álló személy kinevezésére vonatkozó normatív határozatban vagy normatív utasításban a megbízatás keletkezésének vagy megszűnésének időpontja naptári napként van meghatározva, a biztosi jogviszonyban álló személy a megjelölt naptári nap kezdetén lép hivatalba, illetve megbízatása a megjelölt naptári nap végén szűnik meg.
 
 (3) Más tisztség, megbízatás, egyéb munkavégzéssel együtt járó tevékenység végzése, illetve jogviszony létrehozása szempontjából a biztosi jogviszony nem minősül munkavégzésre, illetve foglalkoztatásra irányuló jogviszonynak, továbbá – a 221. § (1a) bekezdésben meghatározott kivétellel – nem keletkeztet összeférhetetlenséget.
+
+(4) A biztosi jogviszonyban álló személyre a 82. § (2)–(4) bekezdését alkalmazni kell.
 
 ## HETEDIK RÉSZ — A KORMÁNYZATI SZOLGÁLATI JOGVISZONYBAN ÁLLÓ VEZETŐK
 
