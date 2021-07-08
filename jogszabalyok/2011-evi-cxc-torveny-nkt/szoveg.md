@@ -298,6 +298,26 @@ tagozat,
 
 (11) A köznevelési intézmény köteles a gyermekek, tanulók számára hozzáférhető, internet-hozzáféréssel rendelkező számítógépeket a gyermekek, tanulók védelmét lehetővé tevő, könnyen telepíthető és használható, magyar nyelvű szoftverrel ellátni a gyermekek és tanulók harmonikus lelki, testi és értelmi fejlődése védelmének érdekében.
 
+(12) A tanulók részére a szexuális kultúráról, a nemi életről, a nemi irányultságról, valamint a szexuális fejlődésről szóló foglalkozás megtartása során különösen figyelemmel kell lenni az Alaptörvény XVI. cikk (1) bekezdésében foglaltakra. E foglalkozások nem irányulhatnak a születési nemnek megfelelő önazonosságtól való eltérés, a nem megváltoztatása, valamint a homoszexualitás népszerűsítésére.
+
+9/A. § (1) A nevelési-oktatási intézmény saját pedagógus-munkakörben foglalkoztatott alkalmazottján és az intézményben iskola-egészségügyi szolgálatot ellátó szakemberen és az intézménnyel kötött együttműködési megállapodással rendelkező állami szerven kívül más személy vagy szervezet tanórai vagy egyéb, tanulók részére tartott foglalkozás keretében szexuális kultúrával, nemi élettel, nemi irányultsággal, szexuális fejlődéssel, a kábítószer fogyasztás káros hatásaival, az internet veszélyeivel és egyéb testi és szellemi egészségfejlesztéssel kapcsolatos foglalkozást (e § alkalmazásában a továbbiakban: program) csak akkor tarthat, ha jogszabályban kijelölt szerv nyilvántartásba vette.
+
+(2) Az (1) bekezdés szerinti nyilvántartásban szereplő adat közérdekből nyilvános adat, amelyet az (1) bekezdés szerinti nyilvántartás vezetésére jogszabályban kijelölt szerv honlapján közzé kell tenni.
+
+(3) Az (1) bekezdés szerinti nyilvántartás
+
+- a) a program címét,
+- b) a programtulajdonos
+  - ba) – természetes személy esetén – személy nevét, elérhetőségét vagy
+  - bb) – szervezet esetén – a szervezet elnevezését, székhelyét, elérhetőségét,
+- c) annak megjelölését, hogy a programot milyen köznevelési intézménytípusban kívánják megvalósítani,
+- d) a nyilvántartásba vétel napját és a nyilvántartásba vett program köznevelési intézményben való felhasználhatóságának időtartamát (tanév megjelölésével), valamint
+- e) a program témakörét
+
+tartalmazza.
+
+(4) Az (1) bekezdés szerinti nyilvántartás vezetésére jogszabályban kijelölt szerv az (1) bekezdés szerinti nyilvántartásban kezelt adatokat a nyilvántartásból való törlés időpontjáig kezeli.
+
 #### 8. Az általános iskola
 
 10. § Az általános iskolában nyolc évfolyamon országosan egységes követelmények szerint alapfokú nevelés-oktatás folyik. Az általános iskola a tanulót az érdeklődésének, képességének és tehetségének megfelelően felkészíti a középfokú iskolai továbbtanulásra.
@@ -2270,6 +2290,8 @@ vizsgálja, amely során az a)–d) pont szerinti feltételeket egyenként és �
 
 (7) A köznevelési feladatokat ellátó hatóság a (6) bekezdésben meghatározott intézkedéssel egyidejűleg az egyenlő bánásmód megsértése miatt az intézményvezetővel szemben szabálysértési eljárást indít.
 
+(8) Ha a köznevelési feladatokat ellátó hatóság a hatósági ellenőrzés során feltárja, hogy a nevelési-oktatási intézmény megsértette a 9/A. § (1) bekezdésében foglaltakat, az intézményvezetővel és a 9/A. § (1) bekezdés szerinti foglalkozást végző, az ott meghatározott nyilvántartásban nem szereplő személlyel, vagy szervezet tagjával szemben szabálysértési eljárást kezdeményez.
+
 80. § (1) Az oktatásért felelős miniszter az országos mérési feladatok keretében gondoskodik a nevelési-oktatási intézményekben folyó pedagógiai tevékenység méréséről, értékeléséről. Az alapkészségek, képességek országos mérésének minden tanévben ki kell terjednie a köznevelés hatodik, nyolcadik és tizedik évfolyamán a nappali rendszerű iskolai oktatás munkarendje szerinti tanuló esetében a szövegértési és a matematikai eszköztudás fejlődésének vizsgálatára. Az iskola vezetője, a tanuló és a pedagógus – jogszabályban meghatározottak szerint – részt vesz az országos mérés, értékelés feladatainak végrehajtásában.
 
 (1a) Az oktatásért felelős miniszter a központi fejlesztésű mérőeszközök alapján személyazonosításra alkalmatlan módon gondoskodik az általános iskola nyolcadik évfolyamán a nappali rendszerű iskolai oktatás munkarendje szerinti tanulók sikeres pályaválasztást és továbbtanulást megalapozó személyes tanulói kompetenciák kötelező vizsgálatáról. A vizsgálat eredménye visszajelzést ad a tanuló számára azokról a középfokú iskolai továbbtanulási lehetőségekről, amelyek meglévő képességei alapján számára javasolhatók.
@@ -2727,7 +2749,7 @@ legfeljebb kettő tankönyvet tartalmazhat.
 - g) a szakgimnáziumok és szakiskolák tekintetében a szakképzési megállapodás részletes szabályait, valamint az egyes szakképesítések tekintetében megszerzett jogosultságok megfeleltetését,
 - h) az iskolai felvételi eljárás rendjét, az iskolai vizsgáztatás rendjét, a pedagógiai szakszolgálat megszervezését, a pedagógiai szakszolgálat igénybevételének rendjét, a pedagógiai szakszolgálatot ellátó intézmény működését; a nevelési-oktatási intézmények részvételét és feladatait a pedagógiai szakszolgálatok ellátásában, az érintett gyermekek, tanulók nevelésében és oktatásában, az ellenőrzés rendjét, a pedagógiai szakszolgálattal kapcsolatos köznevelési feladatokat ellátó hatósági eljárás indításával összefüggő kérdéseket, az eljárás indítására jogosultak körét, azokat a feltételeket, amikor a pedagógiai szakszolgálat igénybevételéért ellenszolgáltatás kérhető, a pedagógiai szakszolgálatot ellátó intézmények és a pedagógiai-szakmai szolgáltatásokat ellátó intézményekben történő foglalkoztatáshoz és a vezetői megbízáshoz szükséges képesítési követelményeket, a pedagógiai szakszolgálati feladatellátás nélküli munkanapok igénybe vételének részletes szabályait, a pedagógiai szakszolgálati nyomtatványok elektronikus úton történő előállításának és tárolásának rendjét, az egyes szolgáltatásokkal összefüggő, valamint a felnőttoktatásban az iskola két vagy több évfolyamára megállapított tanulmányi követelményeket egy tanévben vagy az előírtnál rövidebb idő alatti teljesítésére megszervezett osztályozó vizsgára vizsgabiztos kirendeléséért fizetendő igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit, továbbá a vizsgáztatással, a szakértői és más szolgáltató tevékenységgel kapcsolatos díjazás megállapításának kérdéseit,
 - i) az érettségi vizsga kivételével a vizsgák rendjét,
-- j)
+- j) a 9/A. § (1) bekezdése szerinti nyilvántartás vezetésére jogosult szervet rendeletben jelölje ki, valamint a nyilvántartásba vétel részletes feltételeit, a nyilvántartás vezetésére és közzétételére vonatkozó részletes szabályokat,
 - k) az oktatási jogok biztosának feladatait, eljárását, továbbá az általa vezetett hivatal szervezetének és működésének szabályait,
 - l) a 82. § szerinti köznevelési szakértői és érettségi vizsgaelnöki tevékenység folytatásának részletes feltételeit, a köznevelési szakértői tevékenység 82. § (1) bekezdés a) pontja szerinti bejelentésének, illetve a 82. § (1) bekezdés b) pontja szerinti engedély kiadásának, valamint az országos köznevelési szakértői névjegyzékbe, az országos érettségi vizsgaelnöki névjegyzékbe történő felvétel részletes eljárási szabályait és a köznevelési szakértői és érettségi vizsgaelnöki tevékenység folytatásának szakmai feltételeit, a köznevelési szakértők és érettségi vizsgaelnökök továbbképzését és a továbbképzési kötelezettség elmulasztásának következményeit, valamint az országos köznevelési szakértői és az országos érettségi vizsgaelnöki névjegyzék személyes adatot nem tartalmazó adattartalmát és a névjegyzékek vezetésére vonatkozó részletes eljárási szabályokat a szakgimnáziumi, szakiskolai képzések tekintetében, az országos szakértői, az országos vizsgáztatási, az országos szakmai szakértői és az országos szakmai vizsgafelügyelő elnöki névjegyzék, valamint a szakértői tevékenység szabályait,, az e pontban felsorolt eljárásokkal összefüggő igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit, a vizsgaközpontok ellenőrzésének szabályait,
 - m) a közneveléssel összefüggő feladatok ellátását szolgáló képzéseket,

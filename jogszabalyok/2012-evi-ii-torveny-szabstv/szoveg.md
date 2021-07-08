@@ -2886,6 +2886,10 @@ szabálysértést követ el.
 
 (2) Aki vasúti jármű, légi jármű, gépi meghajtású vízi jármű, úszó munkagép, illetve a közúti forgalomban gépi meghajtású jármű vezetését olyan személy részére átengedi, aki annak vezetésére hatósági engedéllyel nem rendelkezik, szabálysértést követ el.
 
+#### 131/A. Foglalkozás gyakorlása a foglalkozástól eltiltás hatálya alatt
+
+176/A. § Akit a Btk. 52. § (3) bekezdése alapján a foglalkozás gyakorlásától eltiltottak, ha a foglalkozástól eltiltás hatálya alatt annak érvényesülési körébe tartozó foglalkozást úgy gyakorol, hogy a foglalkoztatót tévedésbe ejti vagy tévedésben tartja, szabálysértést követ el.
+
 #### 132. A tulajdon elleni szabálysértés
 
 177. § (1) Aki
@@ -3857,6 +3861,7 @@ szabálysértést követ el.
 - a) a köznevelési intézmény, illetve a szakképző intézmény tevékenységét a tanév rendjétől eltérően szervezi meg,
 - b) a tanítási hetek szervezésére, a tanítás nélküli pihenőnapok kiadására, az egy tanítási napon szervezhető tanítási órákra, foglalkozásokra vonatkozó rendelkezéseket megszegi,
 - c) a tanuló- és gyermekbaleset megelőzésére vonatkozó előírásokat szándékosan megszegi,
+- d) a köznevelési intézményben tartható foglalkozások tartására, vagy azok törvényessége ellenőrzésére vonatkozó rendelkezéseket megszegi,
 
 szabálysértést követ el.
 

@@ -245,7 +245,7 @@ történő jogtalan behatolás, vagy
 
 28. § (1) Az elévülést félbeszakítja a bíróságnak, az ügyészségnek, a nyomozó hatóságnak, illetve nemzetközi vonatkozású ügyekben az igazságügyért felelős miniszternek vagy a külföldi hatóságnak az elkövető ellen a bűncselekmény miatt foganatosított büntetőeljárási cselekménye. A félbeszakítás napján az elévülés határideje ismét elkezdődik.
 
-(1a) Ha az erős felindulásban elkövetett emberölés, a háromévi szabadságvesztésnél súlyosabban büntetendő szándékos súlyos testi sértés, az emberrablás, az emberkereskedelem és kényszermunka, a személyi szabadság megsértése, illetve – a 26. § (3) bekezdés c) pontjában foglalt kivétellel – a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény sértettje a bűncselekmény elkövetésekor a tizennyolcadik életévét még nem töltötte be, az elévülés határidejébe nem számít be az a tartam, amíg a tizennyolcadik életévét be nem tölti vagy be nem töltötte volna.
+(1a) Ha az erős felindulásban elkövetett emberölés, a háromévi szabadságvesztésnél súlyosabban büntetendő szándékos súlyos testi sértés, az emberrablás, az emberkereskedelem és kényszermunka, a személyi szabadság megsértése, illetve – a 26. § (3) bekezdés c) pontjában foglalt kivétellel – a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény sértettje a bűncselekmény elkövetésekor a tizennyolcadik életévét még nem töltötte be, az elévülés határidejébe nem számít be az a tartam, amíg a huszonegyedik életévét be nem tölti vagy be nem töltötte volna.
 
 (2) Ha a büntetőeljárást felfüggesztik, a felfüggesztés tartama az elévülés határidejébe nem számít be. Ez a rendelkezés nem alkalmazható, ha a büntetőeljárást azért függesztik fel, mert az elkövető kiléte a nyomozásban nem volt megállapítható, ismeretlen helyen tartózkodik, vagy kóros elmeállapotú lett, továbbá ha a szabadlábon lévő terhelt külföldön ismert helyen tartózkodik és a büntetőeljárás a távollétében nem folytatható le.
 
@@ -386,8 +386,11 @@ részének, de legkevesebb három hónapnak a kitöltését követő nap.
 - a) a (4) bekezdés e) pontjában meghatározott bűncselekmény elkövetése esetén
   - aa) előkészület miatt,
   - ab) részesként, vagy
-  - ac) korlátlan enyhítés alkalmazásával, vagy
-- b) a hozzátartozója sérelmére elkövetett, nyolcévi vagy ennél súlyosabb szabadságvesztéssel fenyegetett személy elleni erőszakos bűncselekmény miatt ítéltek végrehajtandó szabadságvesztésre.
+  - ac) korlátlan enyhítés alkalmazásával,
+- b) a hozzátartozója sérelmére elkövetett, nyolcévi vagy ennél súlyosabb szabadságvesztéssel fenyegetett személy elleni erőszakos bűncselekmény miatt, vagy
+- c) tizennyolcadik életévét be nem töltött személy sérelmére elkövetett, nyolcévi vagy ennél súlyosabb szabadságvesztéssel fenyegetett nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény miatt
+
+ítéltek végrehajtandó szabadságvesztésre.
 
 (6) A bíróság az ügydöntő határozatban az (5) bekezdésben meghatározott elkövető feltételes szabadságra bocsáthatóságáról rendelkezhet, ha az elkövetés körülményeire, az elkövető személyében rejlő társadalomra veszélyesség fokára vagy egyéb büntetéskiszabási körülményekre figyelemmel, a társadalom védelme és annak megelőzése, hogy az elkövető újabb bűncselekményt kövessen el, pártfogó felügyelet elrendelésével és külön magatartási szabály meghatározásával elérhető.
 
@@ -522,7 +525,7 @@ ha azt személy elleni vagy dolog elleni erőszakkal követik el.
 
 (2) Az (1) bekezdés a) pontja azzal szemben is alkalmazható, aki a bűncselekmény elkövetésekor a tevékenységet nem a foglalkozásaként gyakorolta, de rendelkezik annak a foglalkozásnak a gyakorlásához szükséges szakképesítéssel, amely szabályainak megszegésével a bűncselekményt elkövette.
 
-(3) A nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény elkövetőjét, ha a bűncselekményt tizennyolcadik életévét be nem töltött személy sérelmére követte el, végleges hatállyal el kell tiltani bármely olyan foglalkozás gyakorlásától vagy egyéb tevékenységtől, amelynek keretében tizennyolcadik életévét be nem töltött személy nevelését, felügyeletét, gondozását, gyógykezelését végzi, illetve ilyen személlyel egyéb hatalmi vagy befolyási viszonyban áll.
+(3) A nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény elkövetőjét, ha a bűncselekményt tizennyolcadik életévét be nem töltött személy sérelmére követte el, illetve a gyermekpornográfia elkövetőjét végleges hatállyal el kell tiltani bármely olyan foglalkozás gyakorlásától vagy egyéb tevékenységtől, amelynek keretében tizennyolcadik életévét be nem töltött személy nevelését, felügyeletét, gondozását, gyógykezelését végzi, illetve ilyen személlyel egyéb hatalmi vagy befolyási viszonyban áll.
 
 (4) A kiskorú veszélyeztetése bűncselekmény elkövetőjét el kell tiltani bármely olyan foglalkozás gyakorlásától vagy egyéb tevékenységtől, amelynek keretében tizennyolcadik életévét be nem töltött személy nevelését, felügyeletét, gondozását, gyógykezelését végzi, illetve ilyen személlyel egyéb hatalmi vagy befolyási viszonyban áll. Különös méltánylást érdemlő esetben a foglalkozástól eltiltás kötelező alkalmazása mellőzhető.
 
@@ -714,9 +717,10 @@ ha annak eredményes elteltéhez az elkövető rendszeres figyelemmel kísérés
 (2) Pártfogó felügyelet alatt áll,
 
 - a) akit életfogytig tartó szabadságvesztésből feltételes szabadságra bocsátottak,
-- b) az a visszaeső, akit feltételes szabadságra bocsátottak, vagy akivel szemben a szabadságvesztés végrehajtását felfüggesztették.
-- c) az a 38. § (5) bekezdése szerinti elkövető, akit a 38. § (6) bekezdése alkalmazásával bocsátottak feltételes szabadságra, vagy
-- d) a szabadságvesztés felfüggesztésének próbaidejére az, akit a hozzátartozója sérelmére elkövetett személy elleni erőszakos bűncselekmény miatt ítéltek szabadságvesztésre.
+- b) az a visszaeső, akit feltételes szabadságra bocsátottak, vagy akivel szemben a szabadságvesztés végrehajtását felfüggesztették,
+- c) az a 38. § (5) bekezdése szerinti elkövető, akit a 38. § (6) bekezdése alkalmazásával bocsátottak feltételes szabadságra,
+- d) a szabadságvesztés felfüggesztésének próbaidejére az, akit a hozzátartozója sérelmére elkövetett személy elleni erőszakos bűncselekmény miatt ítéltek szabadságvesztésre, vagy
+- e) a szabadságvesztés felfüggesztésének próbaidejére az, akit tizennyolcadik életévét be nem töltött személy sérelmére elkövetett nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény miatt ítéltek szabadságvesztésre.
 
 (3) A (2) bekezdés d) pontja alkalmazásában hozzátartozó alatt az elkövető gyermekének szülőjét, volt házastársát, volt élettársát, gondnokát, gondokoltját, gyámját vagy gyámoltját is érteni kell.
 
@@ -1208,6 +1212,10 @@ kell átváltoztatni.
 (4) A pénzbüntetés helyébe lépő közérdekű munkát úgy kell megállapítani, hogy egy napi tétel helyébe két óra közérdekű munka lép. Egyebekben a pénzbüntetés helyébe lépő közérdekű munkára a 47. §-ban foglaltak irányadóak azzal, hogy annak tartama eltérhet a 47. § (1) bekezdésében meghatározottaktól.
 
 (5) Ha a fiatalkorú a munkakötelezettségének önként nem tesz eleget, a közérdekű munkát vagy annak hátralévő részét szabadságvesztésre kell átváltoztatni. Egyebekben a 48. §-ban foglaltak irányadóak.
+
+### A foglalkozástól eltiltás
+
+113/A. § Fiatalkorúval szemben az 52. § (3) bekezdése alkalmazása különös méltánylást érdemlő esetben mellőzhető.
 
 ### A kiutasítás
 
@@ -2444,7 +2452,7 @@ követi el.
 - b) az elkövető a hozzátartozója, vagy nevelése, felügyelete, gondozása, gyógykezelése, illetve egyéb módon a hatalma vagy befolyása alatt álló személy sérelmére követi el, vagy
 - c) azonos alkalommal, egymás cselekményéről tudva, többen követik el.
 
-(4) Öt évtől tizenöt évig terjedő szabadságvesztéssel büntetendő,
+(4) Öt évtől húsz évig terjedő szabadságvesztéssel büntetendő,
 
 - a) aki a (2) bekezdésben meghatározott bűncselekményt
   - aa) az (1) bekezdésben meghatározott módon,
@@ -2455,7 +2463,7 @@ követi el, vagy
 
 - b) ha a (3) bekezdés a) pontjában meghatározott bűncselekmény a (3) bekezdés b) vagy c) pontja szerint is minősül.
 
-(4a) A büntetés öt évtől húsz évig terjedő szabadságvesztés, ha a (4) bekezdés a) pont aa) alpontjában meghatározott bűncselekmény a (4) bekezdés a) pont ab) vagy ac) alpontja szerint is minősül.
+(4a) A büntetés tíz évtől húsz évig terjedő szabadságvesztés, ha a (4) bekezdés a) pont aa) alpontjában meghatározott bűncselekmény a (4) bekezdés a) pont ab) vagy ac) alpontja szerint is minősül.
 
 (5) Aki szexuális erőszak elkövetéséhez szükséges vagy azt könnyítő feltételeket biztosítja, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
@@ -2553,37 +2561,77 @@ terjedő szabadságvesztés.
 
 ### Gyermekpornográfia
 
-204. § (1) Aki tizennyolcadik életévét be nem töltött személyről vagy személyekről pornográf felvételt
+204. § (1) Aki tizennyolcadik életévét be nem töltött személyt ábrázoló pornográf felvételt
+
+- a) megszerez vagy tart, bűntett miatt egy évtől öt évig,
+- b) kínál, átad vagy hozzáférhetővé tesz, bűntett miatt két évtől nyolc évig,
+- c) készít, forgalomba hoz, azzal kereskedik, illetve ilyen felvételt a nagy nyilvánosság számára hozzáférhetővé tesz, bűntett miatt öt évtől tíz évig
+
+terjedő szabadságvesztéssel büntetendő.
+
+(2) A büntetés az (1) bekezdés a) pontja esetén két évtől nyolc évig terjedő, b) pontja esetén öt évtől tíz évig terjedő, c) pontja esetén öt évtől tizenöt évig terjedő szabadságvesztés, ha az ott meghatározott bűncselekményt
+
+- a) tizenkettedik életévét be nem töltött személy sérelmére,
+- b) az elkövető nevelése, felügyelete, gondozása vagy gyógykezelése alatt álló személy sérelmére, illetve a sértettel kapcsolatban fennálló egyéb hatalmi vagy befolyási viszonnyal visszaélve, vagy a sértett kiszolgáltatott helyzetét kihasználva,
+- c) hivatalos személyként e minőség felhasználásával,
+- d) sanyargatást vagy erőszak alkalmazását tartalmazó felvételre, vagy
+- e) különös visszaesőként
+
+követik el.
+
+(3) A büntetés az (1) bekezdés a) pontja esetén öt évtől tíz évig terjedő, b) pontja esetén öt évtől tizenöt évig terjedő, c) pontja esetén öt évtől húsz évig terjedő szabadságvesztés, ha az ott meghatározott bűncselekményt tizenkettedik életévét be nem töltött személy sanyargatását vagy erőszak alkalmazását tartalmazó felvételre követik el.
+
+(4) Aki az (1) bekezdés c) pontjában meghatározott
+
+- a) bűncselekményhez anyagi eszközöket szolgáltat, bűntett miatt egy évtől öt évig,
+- b) bűncselekményre irányuló előkészületet követ el, bűntett miatt három évig
+
+terjedő szabadságvesztéssel büntetendő.
+
+(5) Aki tizennegyedik életévét betöltött, de tizennyolcadik életévét be nem töltött személyt ábrázoló pornográf felvételt
 
 - a) megszerez vagy tart, bűntett miatt három évig,
-- b) készít, kínál, átad vagy hozzáférhetővé tesz, egy évtől öt évig,
-- c) forgalomba hoz, azzal kereskedik, illetve ilyen felvételt a nagy nyilvánosság számára hozzáférhetővé tesz, két évtől nyolc évig
+- b) készít, bűntett miatt egy évtől öt évig
+
+terjedő szabadságvesztéssel büntetendő, ha a (2) bekezdés b)–e) pontjában meghatározott valamely körülmény nem áll fenn.
+
+(6) Aki tizennyolcadik életévét be nem töltött személyt vagy személyeket pornográf felvételen való szereplésre felhív, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+
+(7) Aki tizennegyedik életévét betöltött, de tizennyolcadik életévét be nem töltött személyt vagy személyeket pornográf felvételen való szereplésre felhív, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő, ha a (2) bekezdés b)–e) pontjában meghatározott valamely körülmény nem áll fenn.
+
+(8) E § alkalmazásában pornográf felvétel: a másnak vagy másoknak a nemiséget súlyosan szeméremsértő nyíltsággal, célzatosan a nemi vágy felkeltésére irányuló módon történő ábrázolása, ideértve a nem létező személy vagy személyek valósághű ábrázolását is.
+
+204/A. § (1) Aki
+
+- a) olyan pornográf műsoron vesz részt, amelyben tizennyolcadik életévét be nem töltött személy szerepel vagy ilyen személyek szerepelnek, bűntett miatt két évtől nyolc évig,
+- b) tizennyolcadik életévét be nem töltött személyt vagy személyeket pornográf műsorban szerepeltet vagy ilyen pornográf műsort szervez, bűntett miatt öt évtől tíz évig
 
 terjedő szabadságvesztéssel büntetendő.
 
-(2) Két évtől nyolc évig terjedő szabadságvesztéssel büntetendő, aki az (1) bekezdés b) pontjában meghatározott bűncselekményt az elkövető nevelése, felügyelete, gondozása vagy gyógykezelése alatt álló személy sérelmére, illetve a sértettel kapcsolatban fennálló egyéb hatalmi vagy befolyási viszonnyal visszaélve követi el.
+(2) A büntetés az (1) bekezdés a) pontja esetén öt évtől tíz évig, b) pontja esetén öt évtől tizenöt évig terjedő szabadságvesztés, ha az ott meghatározott bűncselekményt
 
-(3) Egy évtől öt évig terjedő szabadságvesztéssel büntetendő, aki az (1) bekezdés c) pontjában meghatározott bűncselekményhez anyagi eszközöket szolgáltat.
+- a) tizenkettedik életévét be nem töltött személy sérelmére,
+- b) az elkövető nevelése, felügyelete, gondozása vagy gyógykezelése alatt álló személy sérelmére, illetve a sértettel kapcsolatban fennálló egyéb hatalmi vagy befolyási viszonnyal visszaélve,
+- c) hivatalos személyként e minőség felhasználásával,
+- d) sanyargatást vagy erőszak alkalmazását bemutató műsorra, vagy
+- e) különös visszaesőként
 
-(4) Aki tizennyolcadik életévét be nem töltött személyt vagy személyeket pornográf műsorban
+követik el.
 
-- a) szereplésre felhív, három évig,
-- b) szerepeltet, egy évtől öt évig
+(3) A büntetés az (1) bekezdés a) pontja esetén öt évtől tizenöt évig, b) pontja esetén öt évtől húsz évig terjedő szabadságvesztés, ha az ott meghatározott bűncselekményt tizenkettedik életévét be nem töltött személy sanyargatását vagy erőszak alkalmazását bemutató műsorra követik el.
+
+(4) Aki az (1) bekezdés b) pontjában meghatározott
+
+- a) bűncselekményhez anyagi eszközöket szolgáltat, bűntett miatt egy évtől öt évig,
+- b) bűncselekményre irányuló előkészületet követ el, bűntett miatt három évig
 
 terjedő szabadságvesztéssel büntetendő.
 
-(5) Három évig terjedő szabadságvesztéssel büntetendő, aki
+(5) Aki tizennyolcadik életévét be nem töltött személyt vagy személyeket pornográf műsorban szereplésre felhív, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
-- a) tizennyolcadik életévét be nem töltött személyt vagy személyeket pornográf felvételen való szereplésre felhív,
-- b) olyan pornográf műsoron vesz részt, amelyben tizennyolcadik életévét be nem töltött személy szerepel vagy ilyen személyek szerepelnek,
-- c) tizennyolcadik életévét be nem töltött személy vagy személyek pornográf műsorban való szerepeltetéséhez anyagi eszközöket szolgáltat.
+(6) Aki tizennegyedik életévét betöltött, de tizennyolcadik életévét be nem töltött személyt vagy személyeket pornográf műsorban szereplésre felhív, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő, ha a (2) bekezdés b)–e) pontjában meghatározott valamely körülmény nem áll fenn.
 
-(6) Aki tizennegyedik életévét be nem töltött személyről vagy személyekről pornográf felvétel készítéséhez, forgalomba hozatalához vagy az azzal való kereskedelemhez szükséges vagy azt könnyítő feltételeket biztosítja, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
-
-(7) E § alkalmazásában
-
-- a) pornográf felvétel: az olyan videó-, film- vagy fényképfelvétel, illetve más módon előállított képfelvétel, amely a nemiséget súlyosan szeméremsértő nyíltsággal, célzatosan a nemi vágy felkeltésére irányuló módon ábrázolja,
-- b) pornográf műsor: a nemiséget súlyosan szeméremsértő nyíltsággal megjelenítő, célzatosan a nemi vágy felkeltésére irányuló cselekvés vagy előadás.
+(7) E § alkalmazásában pornográf műsor: a más vagy mások nemiségét súlyosan szeméremsértő nyíltsággal megjelenítő, célzatosan a nemi vágy felkeltésére irányuló cselekvés vagy előadás.
 
 ### Szeméremsértés
 
@@ -2808,6 +2856,8 @@ vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 - d) hivatalos személy sérelmére, hivatali tevékenységével össze nem egyeztethető helyen vagy időben
 
 követi el, az (1) bekezdésben meghatározott esetben két évig, a (2) bekezdésben meghatározott esetben bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
+(4) Az a tizennyolcadik életévét betöltött személy, aki az (1) bekezdésben meghatározott zaklatást tizennyolcadik életévét be nem töltött személy sérelmére követi el, két évig terjedő szabadságvesztéssel büntetendő.
 
 ### Magántitok megsértése
 
