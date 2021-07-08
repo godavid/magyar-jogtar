@@ -27,7 +27,7 @@ Magyarország Országgyűlése kinyilvánítja, hogy a nemzet közössége a tes
 (4) A versenyző köteles:
 
 - a) a tisztességes játék (fair play) elvei szerint felkészülni és versenyezni, aminek keretében tartózkodni különösen:
-  - aa) a – 4. §-ban foglaltakra is figyelemmel – doppingellenes tevékenység szabályairól szóló kormányrendeletben meghatározott tiltott szerek használatától, tiltott módszerek alkalmazásától vagy más, doppingvétséget vagy büntetőjogi felelősségre vonást megalapozó magatartás kifejtésétől,
+  - aa) a – 4. §-ban foglaltakra is figyelemmel – doppingellenes tevékenység szabályairól szóló kormányrendelet szerinti tiltólistában szereplő tiltott szer vagy módszer alkalmazásától vagy más, doppingvétséget vagy büntetőjogi felelősségre vonást megalapozó magatartás kifejtésétől,
   - ab) a verseny, mérkőzés eredményének tiltott eszközökkel, módszerekkel történő befolyásolásától, a fogadási csalástól,
   - ac) a verseny, mérkőzés biztonságos megrendezését veszélyeztető, a nézők viselkedését a sportrendezvény rendjének fenntartása szempontjából hátrányosan befolyásoló viselkedéstől tartózkodni.
 - b) a sportág jellegének megfelelő – külön jogszabályban meghatározott – sportorvosi alkalmassági, illetve szűrővizsgálatokon részt venni (sportegészségügyi ellenőrzés),
@@ -40,7 +40,7 @@ Magyarország Országgyűlése kinyilvánítja, hogy a nemzet közössége a tes
 
 (3) A versenyengedély kiadására és visszavonására vonatkozó részletes szabályokat a sportszövetség szabályzatban köteles megállapítani. A versenyengedély tartalmazza:
 
-- a) a versenyző képmását, nevét, születési helyét és idejét,
+- a) a versenyző képmását, nevét, születési helyét és idejét, anyja nevét,
 - b) a versenyrendszer megnevezését,
 - c) a versenyengedély hatálya alá tartozó sportág megnevezését,
 - d) a versenyengedély érvényességi idejét,
@@ -60,7 +60,7 @@ Magyarország Országgyűlése kinyilvánítja, hogy a nemzet közössége a tes
 
 (9) A sportszövetség és sportszervezet köteles gondoskodni a versenyengedélyben feltüntetett, valamint az annak kiállításához felhasznált személyes adatoknak a személyes adatok védelméről szóló törvény szerinti kezeléséről.
 
-4. § (1) A versenyző tartózkodni köteles – a doppingellenes tevékenység szabályairól szóló kormányrendeletben meghatározott és a nemzeti doppingellenes szervezet által honlapján, hatóanyag szerinti alfabetikus rendben, a hozzá tartozó magyarországi forgalomban levő gyógyszerek neveivel, magyar és angol nyelven, valamint gyógyszernév szerinti alfabetikus rendben közzétett – tiltott teljesítményfokozó szerekre és módszerekre vonatkozó, doppingvétséget vagy büntetőeljárást megalapozó magatartások vagy azok kísérletének elkövetésétől.
+4. § (1) A versenyző tartózkodni köteles – a doppingellenes tevékenység szabályairól szóló kormányrendelet szerinti tiltólistán meghatározott és a nemzeti doppingellenes szervezet által honlapján, hatóanyag szerinti alfabetikus rendben, a hozzá tartozó magyarországi forgalomban levő gyógyszerek neveivel, magyar és angol nyelven, valamint gyógyszernév szerinti alfabetikus rendben közzétett – tiltott teljesítményfokozó szerekre és módszerekre vonatkozó, doppingvétséget vagy büntetőeljárást megalapozó magatartások vagy azok kísérletének elkövetésétől.
 
 (2) A versenyző köteles alávetni magát a doppingtilalom betartásának ellenőrzésére irányuló vizsgálatnak (a továbbiakban: doppingvizsgálat). A doppingvizsgálat eredményeként megállapított pozitív vizsgálati eredményt vagy a doppingvétséget megalapozó egyéb magatartás tanúsítását, valamint a doppingeljárás eredményeként meghozott jogerős doppingbüntetést az eljárás alá vont versenyző vagy sportszakember nevének és sportágának, továbbá a doppingellenes tevékenység szabályairól szóló kormányrendelet szerinti tiltólistában szereplő tiltott szer vagy módszer megjelölésével a doppingeljárás befejezésétől számított 3 munkanapon belül a jogerős döntést meghozó doppingbizottság nyilvánosságra hozza.
 
@@ -120,7 +120,13 @@ Magyarország Országgyűlése kinyilvánítja, hogy a nemzet közössége a tes
 
 (10) Doppingvétség megállapítása esetén a sportszövetség, a sportköztestület és a sportpolitikáért felelős miniszter állami sportcélú támogatás nyújtása és folyósítása, valamint a doppingvétség megállapításához fűződő egyéb jogkövetkezmények alkalmazása során kezeli a (3) bekezdés 1., 2., 4., 8. és 18. pontja, valamint a (4) bekezdés a) pontja szerinti adatokat a doppingbüntetés lejártáig vagy – ha az későbbi – az állami sportcélú támogatás folyósításának megszűnését követő tíz évig.
 
-(11) A doppingtilalom betartásának ellenőrzése, a doppingellenőrzés részét képező eljárások lefolytatása, a doppingeljárásban kiszabott büntetések nyilvántartása érdekében a nemzeti doppingellenes szervezet a (3), (4) és a (7) bekezdés szerinti adatokat harmadik országba továbbíthatja a doppingellenes tevékenység szabályairól szóló kormányrendelet szerinti nemzetközi doppingellenes szervezet részére, ha az adattovábbítás a személyes adatok harmadik országba való továbbítására vonatkozó előírásoknak megfelel.
+(11) A doppingtilalom betartásának ellenőrzése, a doppingellenőrzés részét képező eljárások lefolytatása, a doppingeljárásban kiszabott büntetések nyilvántartása érdekében a nemzeti doppingellenes szervezet a (3), (4) és a (7) bekezdés szerinti adatokat harmadik országba továbbíthatja a doppingellenes tevékenység szabályairól szóló kormányrendelet szerinti doppingellenes szervezet részére, ha az adattovábbítás a személyes adatok harmadik országba való továbbítására vonatkozó előírásoknak megfelel.
+
+4/B. § A nemzeti doppingellenes szervezetnek a doppingellenes tevékenység szabályairól szóló kormányrendeletben meghatározott követelményeknek megfelelő szabályzata kötelező
+
+- a) az országos sportági szakszövetségekre, az országos sportági szövetségekre és a fogyatékosok országos sportszövetségeire, a Magyar Olimpiai Bizottságra (a továbbiakban: MOB), a Magyar Paralimpiai Bizottságra (a továbbiakban: MPB), a Nemzeti Versenysport Szövetségre (a továbbiakban: NVESZ), a Sport Állandó Választottbíróságra, valamint a versenyszerű sportban részt vevő sportszervezetekre,
+- b) a magyar állampolgár, valamint állampolgárságra tekintet nélkül a Magyarországon tartózkodó, sportszervezettel jogviszonyban álló sportolóra, sportszakemberre és a doppingellenes tevékenység szabályairól szóló kormányrendelet szerinti egyéb közreműködőre, valamint
+- c) a sportszövetségek versenyrendszerében szervezett versenyekre, valamint a versenyrendszeren kívül szervezett sportrendezvényekre.
 
 ### Az amatőr sportolókra vonatkozó rendelkezések
 
@@ -219,19 +225,19 @@ Magyarország Országgyűlése kinyilvánítja, hogy a nemzet közössége a tes
 
 (3) A sportszakember szakmai tevékenységét a tisztességes játék (fair play) elvei szerint köteles végezni, aminek keretében tartózkodni köteles különösen:
 
-- a) a – 4. §-ban foglaltakra is figyelemmel, a doppingellenes tevékenységről szóló kormányrendeletben meghatározottak szerint – doppingvétséget vagy büntetőjogi felelősségre vonást megalapozó magatartások elkövetésétől,
+- a) a – 4. §-ban foglaltakra is figyelemmel – doppingvétséget vagy büntetőjogi felelősségre vonást megalapozó magatartások elkövetésétől,
 - b) a verseny, mérkőzés eredményének tiltott eszközökkel, módszerekkel történő befolyásolásától, a fogadási csalástól,
 - c) a verseny, mérkőzés biztonságos megrendezését veszélyeztető, a nézők viselkedését a sportrendezvény rendjének fenntartása szempontjából hátrányosan befolyásoló viselkedéstől.
 
 ### A sportfegyelmi felelősség
 
-12. § (1) A sportszövetség – a (2) bekezdésben foglaltakra is figyelemmel – sportfegyelmi eljárást folytat le a versenyzővel, illetve a sportszakemberrel szemben, ha a sportszövetség verseny-, igazolási (nyilvántartási) és átigazolási, illetve egyéb szabályzataiban foglalt kötelezettségeit vétkesen megszegi.
+12. § (1) A sportszövetség sportfegyelmi eljárást folytat le a versenyzővel, illetve a sportszakemberrel szemben, ha a sportszövetség verseny-, igazolási (nyilvántartási) és átigazolási, illetve egyéb szabályzataiban foglalt kötelezettségeit vétkesen megszegi.
 
-(2) A versenyzővel, illetve a sportszakemberrel szemben az e törvényben a sportfegyelmi felelősségre vonatkozó rendelkezések alkalmazásával – a doppingellenes tevékenység szabályairól szóló kormányrendeletben meghatározott eltérésekkel a sportfegyelmi felelősségről szóló kormányrendeletben foglaltak szerint – a doppingellenes tevékenység szabályairól szóló kormányrendeletben meghatározott doppingbizottság doppingeljárást folytat le, ha a versenyző vagy a sportszakember a sportszövetség doppingellenes szabályzatában foglalt kötelezettségeit – a (3) bekezdésben foglaltakra is figyelemmel – vétkesen megszegi.
+(2)
 
-(3) A versenyző és a sportszakember által elkövethető egyes doppingvétségeket, valamint a doppingvétség elkövetése esetén kiszabható doppingbüntetések típusát és mértékét a doppingellenes tevékenység szabályairól szóló kormányrendelet határozza meg. Ha a versenyző szervezetéből származó mintában – a doppingellenes tevékenységről szóló kormányrendeletben meghatározottak szerint – jelen van a tiltólistán szereplő tiltott szer, annak származéka vagy markerje, akkor a versenyzőt, ezért a doppingvétségért a felelősség vétkességtől függetlenül terheli. A versenyzővel szemben az eltiltás büntetés nem alkalmazható, ha a doppingeljárás során bizonyítja, hogy még gondatlanság sem terheli a doppingvétség elkövetésében, továbbá igazolja, hogy a tiltott szer milyen módon került a szervezetébe.
+(3)
 
-(4) A versenyzőre, illetve a sportszakemberre sportfegyelmi vagy doppingbüntetésként:
+(4) A versenyzőre, illetve a sportszakemberre sportfegyelmi büntetésként:
 
 - a) szóbeli figyelmeztetés,
 - b) írásbeli megrovás,
@@ -243,11 +249,11 @@ szabható ki.
 (5) A versenyzőre a (4) bekezdésben foglaltakon kívül:
 
 - a) a sportszövetség versenyrendszerében szervezett, vagy a sportszövetség, sportszervezet versenynaptárában egyébként szereplő versenyen, és sportszervezet, sportszövetség által szervezett edzésen, edzőtáborban való részvételtől történő – akár végleges időtartamú – eltiltás,
-- b) az igazolási (nyilvántartási) és az átigazolási, valamint a doppingellenes szabályok megsértése esetén az ideiglenes vagy végleges átigazolásból legfeljebb két évre történő kizárás fegyelmi vagy doppingbüntetés is kiszabható.
+- b) az igazolási (nyilvántartási) és az átigazolási szabályok megsértése esetén az ideiglenes vagy végleges átigazolásból legfeljebb két évre történő kizárás fegyelmi büntetés is kiszabható.
 
 (6) A sportszakemberre a (4) bekezdésben foglaltakon kívül a sportszakmai tevékenységtől – akár végleges időtartamú – eltiltás büntetés is kiszabható.
 
-(7) A pénzbüntetés mértéke a hivatásos sportoló sporttevékenységből, illetve a sportszakember szakmai tevékenységből származó éves nettó átlagjövedelmének tizenkét havi összegét nem haladhatja meg. Amatőr sportolóra, vagy ingyenes megbízási szerződés alapján tevékenykedő sportszakemberre pénzbüntetés nem szabható ki. A pénzbüntetés a (4) bekezdés c) pontjában, illetve az (5)–(6) bekezdésben meghatározott fegyelmi vagy doppingbüntetésekkel együtt is kiszabható, egyébként a fegyelmi vagy doppingbüntetések együttesen nem alkalmazhatók.
+(7) A pénzbüntetés mértéke a hivatásos sportoló sporttevékenységből, illetve a sportszakember szakmai tevékenységből származó éves nettó átlagjövedelmének tizenkét havi összegét nem haladhatja meg. Amatőr sportolóra, vagy ingyenes megbízási szerződés alapján tevékenykedő sportszakemberre pénzbüntetés nem szabható ki. A pénzbüntetés a (4) bekezdés c) pontjában, illetve az (5)–(6) bekezdésben meghatározott fegyelmi büntetésekkel együtt is kiszabható, egyébként a fegyelmi büntetések együttesen nem alkalmazhatók.
 
 13. § (1) Sportfegyelmi eljárást kell lefolytatni a sportszervezettel szemben, ha a sportszövetség alapszabályában, illetve más szabályzataiban meghatározott előírásokat megszegi.
 
@@ -280,7 +286,7 @@ szabható ki.
 
 (2) A sportszövetség által a versenyzővel szemben a 12. § (4) bekezdés d) pontja és (5) bekezdése alapján, a sportszakemberre a 12. § (4) bekezdés d) pontja és (6) bekezdése alapján, továbbá a sportszervezetre a 13. § (3) bekezdés b), e), f), i)–l), n) és o) pontja alapján kiszabott másodfokú fegyelmi büntetéssel szemben a határozat kézbesítésétől számított 30 napos jogvesztő határidővel az érintett keresettel bírósághoz vagy a választottbírósághoz fordulhat.
 
-(2a) Nemzetközi minősítésű sportoló doppingellenes jogerős sportfegyelmi büntetéssel szemben kizárólag a CAS-hoz fordulhat.
+(2a)
 
 (3) A sportfegyelmi felelősségre, a sportfegyelmi eljárásra és a sportfegyelmi büntetésekre vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg. A sportszövetségnek – e törvény és a külön jogszabály alapján – sportfegyelmi szabályzatban kell meghatároznia a sportszövetség sportfegyelmi eljárásának részletes szabályait.
 
@@ -367,7 +373,7 @@ szabható ki.
 
 (7a) A sportszövetség bírósági nyilvántartás szerint képviseletre jogosult vezető tisztségviselői nem minősülnek a Civil tv. 53/A. §-a alkalmazásában kötelezettnek.
 
-(8) Az országos sportági szakszövetségeket megillető, valamint terhelő jogokra és kötelezettségekre vonatkozó szabályokat megfelelően alkalmazni kell az olimpiai események vonatkozásában az olimpiai nemzeti válogatott keretek (a továbbiakban: olimpiai csapat) működése kapcsán a Magyar Olimpiai Bizottságra (a továbbiakban: MOB), a paralimpiai játékok vonatkozásában a paralimpiai nemzeti válogatott keretek (a továbbiakban: paralimpiai csapat) működése kapcsán a Magyar Paralimpiai Bizottságra (a továbbiakban: MPB), valamint a Világjátékok Nemzetközi Szövetsége Világjátékai és a Nemzetközi Sportszövetségek Szövetségének Világjátékai vonatkozásában a nemzeti válogatott keretek működése kapcsán a Nemzeti Versenysport Szövetségre (a továbbiakban: NVESZ).
+(8) Az országos sportági szakszövetségeket megillető, valamint terhelő jogokra és kötelezettségekre vonatkozó szabályokat megfelelően alkalmazni kell az olimpiai események vonatkozásában az olimpiai nemzeti válogatott keretek (a továbbiakban: olimpiai csapat) működése kapcsán a MOB-ra, a paralimpiai játékok vonatkozásában a paralimpiai nemzeti válogatott keretek (a továbbiakban: paralimpiai csapat) működése kapcsán az MPB-re, valamint a Világjátékok Nemzetközi Szövetsége Világjátékai és a Nemzetközi Sportszövetségek Szövetségének Világjátékai vonatkozásában a nemzeti válogatott keretek működése kapcsán az NVESZ-re.
 
 19/A. § (1) Az országos sportági szakszövetség a sportoló sporttevékenysége feltételeinek és a sportág rendeltetésszerű működésének biztosítása, a sportág versenyrendszerének és versenyeinek szervezése, a nemzeti válogatott keretek működtetése és a sportolók nemzetközi sporteseményeken való részvétele érdekében, valamint a 19. § (8) bekezdés szerinti esetben a MOB, az MPB, valamint az NVESZ a nemzeti válogatott keretek működtetése és a sportolók nemzetközi sporteseményeken való részvétele érdekében az e törvényben és a végrehajtására kiadott, valamint az államháztartás működésére vonatkozó jogszabályokban meghatározott feladatai végrehajtásához kezeli a sportoló 3. § (3) bekezdés a)–f) pontja szerinti adatait.
 
@@ -476,7 +482,7 @@ szabható ki.
 - b) igazolási (nyilvántartási) és átigazolási szabályzat, amely tartalmazza a versenyzők sporttevékenységére és érdekvédelmére vonatkozó szakmai előírásokat is,
 - c) sportfegyelmi szabályzat,
 - d) a sportrendezvény biztonságos lebonyolításával kapcsolatos előírásokat tartalmazó szabályzat,
-- e) doppingszabályzat,
+- e) doppingszabályzat, amelyben elfogadja a nemzeti doppingellenes szervezetnek a doppingellenes tevékenység szabályairól szóló kormányrendeletben meghatározott követelményeknek megfelelő szabályzatát,
 - f) gazdálkodási, pénzügyi szabályzat, amely tartalmazza az állami sportcélú támogatások e törvénynek, valamint az államháztartás működésére vonatkozó jogszabályoknak és az állami sportcélú támogatások felhasználásáról és elosztásáról szóló kormányrendeletnek megfelelő felhasználására vonatkozó előírásokat is,
 - g) a sportszakemberek képesítési követelményeit és feladatait tartalmazó szabályzat,
 - h) etikai és gyermekvédelmi szabályzat,
@@ -601,8 +607,11 @@ szabható ki.
 - a) a Nemzetközi Olimpiai Bizottság által sportágának hivatalos nemzetközi szövetségeként elismert sportszövetség,
 - b) a GAISF tagjának minősül,
 - c) GAISF megfigyelői státusszal rendelkezik,
-- d) a 30/C. § (2) bekezdésében meghatározott szándéknyilatkozattal rendelkezik, vagy
-- e) az a)–d) pont szerinti sportszövetség kontinentális sportszövetsége.
+- d) az a)–c) pont szerinti sportszövetség kontinentális sportszövetsége,
+- e) a Nemzetközi Olimpiai Bizottság szándéknyilatkozatával rendelkezik arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a nemzetközi sportszövetség sportágának hivatalos nemzetközi szövetségeként történő elismeréséről dönt,
+- f) a GAISF szándéknyilatkozatával rendelkezik arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a sportszövetség tagként történő elismeréséről dönt,
+- g) a GAISF szándéknyilatkozatával rendelkezik arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a sportszövetség megfigyelői státuszáról dönt, vagy
+- h) az e)–g) pont szerinti sportszövetség kontinentális sportszövetsége.
 
 (1a) A nemzetközi sportszövetség jogi személy. A nemzetközi sportszövetség a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősül.
 
@@ -622,7 +631,7 @@ szabható ki.
 
 (5) A nemzetközi sportszövetség működésének e törvényben meghatározottakon túli szabályait a nemzetközi sportszövetség létesítő okirata tartalmazza.
 
-(6) Nemzetközi sportszövetségként csak olyan szervezet vehető nyilvántartásba, amelyet a Nemzetközi Olimpiai Bizottság a sportág hivatalos nemzetközi szövetségeként elismer vagy amely a 30/C. § (2) bekezdése szerinti szándéknyilatkozattal rendelkezik.
+(6) Nemzetközi sportszövetségként csak az (1) bekezdés szerinti szervezet vehető nyilvántartásba.
 
 (7) A nemzetközi sportversenyek és sportrendezvények szervezése, kiírása és lebonyolítása, továbbá azok televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal történő közvetítése, rögzítése és ezek kereskedelmi célú hasznosításának – beleértve a reklám- és marketingjogokat is – engedélyezése a nemzetközi sportszövetséget megillető vagyoni értékű jogot képez, amelynek hasznosítása és az azokhoz kapcsolódó kereskedelmi szerződések megkötése a nemzetközi sportszövetséget illeti meg. E vagyoni értékű jogok hasznosítása és az azokhoz kapcsolódó kereskedelmi szerződések megkötése a nemzetközi sportszövetség létesítő okiratában meghatározott cél szerint tevékenységnek minősülnek.
 
@@ -630,7 +639,7 @@ szabható ki.
 
 30/B. § (1) A nemzetközi sportszövetség kérelmeit az erre a célra rendszeresített űrlapon terjeszti elő. A nemzetközi sportszövetséget a Fővárosi Törvényszék veszi nyilvántartásba. A nemzetközi sportszövetség nyilvántartásba vételére irányuló bírósági eljárásra a civil szervezetek nyilvántartásba vételére vonatkozó általános szabályokat az e törvényben meghatározott eltérésekkel kell alkalmazni, azzal, hogy a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 63. §-a szerinti adatokat és okiratokat nem kell bejelenteni, illetve csatolni, és a nemzetközi sportszövetség létesítő okiratát kizárólag a képviselőknek kell aláírnia, a tagok aláírása nem szükséges.
 
-(2) A nemzetközi sportszövetség nyilvántartásba vételére a Budapest és a fővárosi agglomeráció fejlesztéséért felelős miniszter, valamint a sportpolitikáért felelős miniszter együttes támogató nyilatkozata (a továbbiakban: miniszteri támogató nyilatkozat) alapján kerülhet sor. A miniszteri támogató nyilatkozatot mellékelni kell a nemzetközi sportszövetség nyilvántartásba vétele iránti kérelemhez. A bíróság a nyilvántartásba vételi eljárásban a miniszteri támogató nyilatkozat meglétét vizsgálja a (3) bekezdésben foglaltakra figyelemmel.
+(2) A nemzetközi sportszövetség nyilvántartásba vételére a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter, valamint a sportpolitikáért felelős miniszter együttes támogató nyilatkozata (a továbbiakban: miniszteri támogató nyilatkozat) alapján kerülhet sor. A miniszteri támogató nyilatkozatot mellékelni kell a nemzetközi sportszövetség nyilvántartásba vétele iránti kérelemhez. A bíróság a nyilvántartásba vételi eljárásban a miniszteri támogató nyilatkozat meglétét vizsgálja a (3) bekezdésben foglaltakra figyelemmel.
 
 (3) A miniszteri támogató nyilatkozatot a nemzetközi sportszövetség kérelmének kézhezvételétől számított 30 napon belül kell kiállítani vagy nyilatkozni a kérelem elutasításáról. A 30 nap eredménytelen eltelte esetén a miniszteri támogató nyilatkozatot megadottnak kell tekinteni. A kérelem formai követelményeit és a benyújtás módját, valamint a miniszteri támogató nyilatkozat kiadására irányuló eljárás részletes szabályait a Kormány rendelete tartalmazza.
 
@@ -641,16 +650,17 @@ szabható ki.
 
 (2) Eredeti alapítás esetén a miniszteri támogató nyilatkozat kiadása iránti kérelemhez mellékelni kell
 
-- a) a Nemzetközi Olimpiai Bizottság szándéknyilatkozatát arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a nemzetközi sportszövetséget sportágának hivatalos nemzetközi szövetségeként külön nyilatkozatban el fogja ismerni, vagy
-- b) a GAISF szándéknyilatkozatát arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a sportszövetséget tagjaként fogja elismerni, vagy
-- c) a GAISF szándéknyilatkozatát arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a sportszövetség megfigyelői státusszal fog rendelkezni [az a)–c) pontban foglaltak a továbbiakban együtt: elismerő nyilatkozat].
+- a) a 30/A. § (1) bekezdés a)–d) pontja szerinti státuszra vonatkozó elismerő nyilatkozatot, vagy
+- b) a 30/A. § (1) bekezdés e)–h) pontja szerinti szándéknyilatkozatot.
 
-(3) Amennyiben a miniszteri támogató nyilatkozat kiadására a (2) bekezdés szerinti szándéknyilatkozat alapján került sor, a nemzetközi sportszövetség köteles az elismerő nyilatkozatot a nyilvántartásba vételtől számított 180 napon belül a sportpolitikáért felelős miniszter részére megküldeni. Amennyiben a határidő eredménytelenül telik el, a sportpolitikáért felelős miniszter köteles erről a körülményről a bíróságot haladéktalanul tájékoztatni. A bíróság a tájékoztatás átvételét követően elrendeli a nemzetközi sportszövetség nyilvántartásból való törlését.
+(3) Amennyiben a miniszteri támogató nyilatkozat kiadására a 30/A. § (1) bekezdés e)–h) pontja szerinti szándéknyilatkozat alapján került sor, a nemzetközi sportszövetség köteles a 30/A. § (1) bekezdés a)–d) pontja szerinti státuszra vonatkozó elismerő nyilatkozatot a nyilvántartásba vételtől számított 180 napon belül a sportpolitikáért felelős miniszter részére megküldeni. Amennyiben a határidő eredménytelenül telik el, a sportpolitikáért felelős miniszter köteles erről a körülményről a bíróságot haladéktalanul tájékoztatni. A bíróság a tájékoztatás átvételét követően elrendeli a nemzetközi sportszövetség nyilvántartásból való törlését.
 
-(4) Eredeti alapítás esetén a Budapest és a fővárosi agglomeráció fejlesztéséért felelős miniszter és a sportpolitikáért felelős miniszter a miniszteri támogató nyilatkozat kiadása során
+(4) Eredeti alapítás esetén a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter és a sportpolitikáért felelős miniszter a miniszteri támogató nyilatkozat kiadása során
 
 - a) a 30/A. § (2) és (3) bekezdésében foglaltaknak való megfelelést, valamint
-- b) a (2) bekezdés szerinti szándéknyilatkozat meglétét
+- b) a 30/A. § (1) bekezdés
+  - ba) a)–d) pontja szerinti státuszra vonatkozó elismerő nyilatkozat meglétét, vagy
+  - bb) e)–h) pontja szerinti szándéknyilatkozat meglétét
 
 vizsgálja.
 
@@ -664,10 +674,10 @@ vizsgálja.
 - b) a külföldi szövetség képviselőjének teljes bizonyító erejű magánokiratba vagy közokiratba foglalt nyilatkozata arról, hogy a külföldi szövetséget nyilvántartásba vevő államban a külföldi szövetség a székhelyének Magyarországra való áthelyezéséhez és a külföldi szövetség nyilvántartásból való törléséhez a nyilvántartásba vevő állam joga szerinti, továbbá a létesítő okiratában vagy egyéb szabályzatában foglalt valamennyi szükséges intézkedést megtette,
 - c) a külföldi szövetség képviselőjének teljes bizonyító erejű magánokiratba vagy közokiratba foglalt nyilatkozata arról, hogy a b) pontban foglaltak teljesítése a külföldi szövetség saját nemzeti joga alapján nem eredményezte a külföldi szövetség jogutód nélküli megszűnését.
 
-(8) Jogutódlásos alapítás esetén a Budapest és a fővárosi agglomeráció fejlesztéséért felelős miniszter, valamint a sportpolitikáért felelős miniszter a miniszteri támogató nyilatkozat kiadása során
+(8) Jogutódlásos alapítás esetén a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter, valamint a sportpolitikáért felelős miniszter a miniszteri támogató nyilatkozat kiadása során
 
-- a) az elismerő nyilatkozat meglétét, valamint
-- b) a 30/A. § (2) és (3) bekezdésében, továbbá a (7) bekezdésben foglaltaknak való megfelelést
+- a) a 30/A. § (1) bekezdés a)–d) pontja szerinti státuszra vonatkozó elismerő nyilatkozat, vagy a 30/A. § (1) bekezdés e)–h) pontja szerinti szándéknyilatkozat meglétét, valamint
+- b) a 30/A. § (2), (3) és (7) bekezdésében foglaltaknak való megfelelést
 
 vizsgálja.
 
@@ -1274,6 +1284,8 @@ kezeli.
 - b) a sportszövetségek, illetve a sportolók és a sportszakemberek közötti sporttal kapcsolatos jogvitákban,
 - c) a sportszervezetek, illetve a sportolók és a sportszakemberek közötti sporttal kapcsolatos jogvitákban,
 - d) a MOB, valamint a tagjai közötti, sporttal kapcsolatos jogvitákban.
+
+(1a) A Sport Állandó Választottbíróság a doppingellenes tevékenység szabályairól szóló kormányrendelet, valamint a 4/B. § szerinti szabályzat szerint működteti a dopping fellebbviteli bizottságot, amely lefolytatja a másodfokú doppingeljárást.
 
 (2) A Sport Állandó Választottbíróság az érintett sportoló, sportszakember, sportszervezet, valamint sportszövetség kérelmére eljárhat a versenyengedély kiadására és visszavonására vonatkozó, igazolási és átigazolási, továbbá sportfegyelmi, valamint az indulási joggal kapcsolatos ügyekben is, ha ezekben a 3. § (6) bekezdése, a 14. § (2) bekezdése, illetve a 33. § (4) bekezdése alapján bírósági eljárásnak van helye.
 
@@ -2206,7 +2218,7 @@ televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal (p
 
 - a)
 - b) rendeletben állapítsa meg
-  - ba) a doppingtilalomra és a doppingvizsgálatra vonatkozó részletes szabályokat,
+  - ba) a doppingellenes tevékenység meghatározását, a doppingellenes tevékenységben részt vevő szervezetek körét, feladat- és hatáskörüket, a doppingeljárás szervezeti kereteit, valamint a nemzeti doppingellenes szervezetnek a doppingellenes tevékenységre vonatkozó szabályzatával összefüggő követelményeket,
   - bb) a sportfegyelmi felelősségre és a sportfegyelmi eljárásra vonatkozó részletes szabályokat,
   - bc) a sportrendezvények biztonságára és a Minősítő Bizottság működésére vonatkozó részletes szabályokat,
   - bd) az olimpiai központokra vonatkozó részletes szabályokat,

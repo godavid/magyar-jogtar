@@ -22,9 +22,9 @@ Az Országgyűlés mindezen értékek megőrzése és erősítése céljából, 
 
 ### I. Fejezet — CÉLOK ÉS ALAPELVEK
 
-1. § (1) Az állam – önmagukban vett méltóságuk és értékük miatt is – védi a család és a házasság intézményét.
+1. § (1) Az állam – önmagukban vett méltóságuk és értékük miatt is – védi a család és a házasság intézményét, különös tekintettel a családi kapcsolat alapját képező szülő-gyermek viszonyra, melyben az anya nő, az apa férfi.
 
-(2) A rendezett családi viszonyok védelme különös jelentőséggel bír a testi, a szellemi és a lelki egészség megóvása érdekében.
+(2) A rendezett családi viszonyok védelme és a gyermekek születési nemének megfelelő önazonossághoz való jogának érvényesülése különös jelentőséggel bír a testi, a szellemi és a lelki egészség megóvása érdekében.
 
 (3) Az állam a nemzet fennmaradását biztosító népesedési folyamatok érdekében külön törvényekben foglaltak szerint támogatja a gyermekvállalást, és segíti a szülők gyermekvállalási szándékainak megvalósulását.
 
@@ -45,6 +45,8 @@ Az Országgyűlés mindezen értékek megőrzése és erősítése céljából, 
 (3) Az állam kiemelten ösztönzi és támogatja a kiskorú gyermekek kis közösségekben, családias körülmények között történő napközbeni gondozását és felügyeletét.
 
 5. § E törvényben foglalt célok és a gyermekek védelme érdekében a médiaszolgáltatók kötelesek szolgáltatásaikat a házasság intézményének, valamint a család és a gyermeknevelés értékének tiszteletben tartásával nyújtani. Az állam ösztönzi a család és a gyermeknevelés értékét közvetítő műsorok, médiatartalmak bemutatását. A médiaszolgáltatók által elkövetett jogsértések esetén alkalmazható jogkövetkezményekről külön törvény rendelkezik.
+
+5/A. § E törvényben foglalt célok és a gyermekek védelme érdekében tilos tizennyolc éven aluliak számára pornográf, valamint olyan tartalmat elérhetővé tenni, amely a szexualitást öncélúan ábrázolja, illetve a születési nemnek megfelelő önazonosságtól való eltérést, a nem megváltoztatását, valamint a homoszexualitást népszerűsíti, jeleníti meg.
 
 6. § (1) Az állam elősegíti és támogatja a családbarát szemlélet kialakulását és fenntartását a társadalmi és a gazdasági élet valamennyi területén.
 
