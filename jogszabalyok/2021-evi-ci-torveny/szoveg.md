@@ -378,120 +378,25 @@ lép.
 
 #### 27. A sportról szóló 2004. évi I. törvény módosítása
 
-86. § A sportról szóló 2004. évi I. törvény (a továbbiakban: Stv.) 3. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+86. §
 
-(A versenyengedély kiadására és visszavonására vonatkozó részletes szabályokat a sportszövetség szabályzatban köteles megállapítani. A versenyengedély tartalmazza:)
+87. §
 
-„a) a versenyző képmását, nevét, születési helyét és idejét, anyja nevét,”
+88. §
 
-87. § Az Stv. „Általános szabályok” alcíme a következő 4/B. §-sal egészül ki:
+89. §
 
-„4/B. § A nemzeti doppingellenes szervezetnek a doppingellenes tevékenység szabályairól szóló kormányrendeletben meghatározott követelményeknek megfelelő szabályzata kötelező
+90. §
 
-a) az országos sportági szakszövetségekre, az országos sportági szövetségekre és a fogyatékosok országos sportszövetségeire, a Magyar Olimpiai Bizottságra (a továbbiakban: MOB), a Magyar Paralimpiai Bizottságra (a továbbiakban: MPB), a Nemzeti Versenysport Szövetségre (a továbbiakban: NVESZ), a Sport Állandó Választottbíróságra, valamint a versenyszerű sportban részt vevő sportszervezetekre,
+91. §
 
-b) a magyar állampolgár, valamint állampolgárságra tekintet nélkül a Magyarországon tartózkodó, sportszervezettel jogviszonyban álló sportolóra, sportszakemberre és a doppingellenes tevékenység szabályairól szóló kormányrendelet szerinti egyéb közreműködőre, valamint
-
-c) a sportszövetségek versenyrendszerében szervezett versenyekre, valamint a versenyrendszeren kívül szervezett sportrendezvényekre.”
-
-88. § Az Stv. 23. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-(A sportág rendeltetésszerű működése érdekében – a külön jogszabályokban előírt más szabályzatok mellett – a szakszövetség az alábbi sporttevékenységgel összefüggő szabályzatokat köteles megalkotni:)
-
-„e) doppingszabályzat, amelyben elfogadja a nemzeti doppingellenes szervezetnek a doppingellenes tevékenység szabályairól szóló kormányrendeletben meghatározott követelményeknek megfelelő szabályzatát,”
-
-89. § (1) Az Stv. 30/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A nemzetközi sportszövetség olyan sportszövetség, amely sportágában nemzetközi szinten az e törvényben, valamint jogszabályban meghatározott sportszakmai feladatokat lát el, és amely
-
-a) a Nemzetközi Olimpiai Bizottság által sportágának hivatalos nemzetközi szövetségeként elismert sportszövetség,
-
-b) a GAISF tagjának minősül,
-
-c) GAISF megfigyelői státusszal rendelkezik,
-
-d) az a)–c) pont szerinti sportszövetség kontinentális sportszövetsége,
-
-e) a Nemzetközi Olimpiai Bizottság szándéknyilatkozatával rendelkezik arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a nemzetközi sportszövetség sportágának hivatalos nemzetközi szövetségeként történő elismeréséről dönt,
-
-f) a GAISF szándéknyilatkozatával rendelkezik arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a sportszövetség tagként történő elismeréséről dönt,
-
-g) a GAISF szándéknyilatkozatával rendelkezik arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a sportszövetség megfigyelői státuszáról dönt, vagy
-
-h) az e)–g) pont szerinti sportszövetség kontinentális sportszövetsége.”
-
-(2) Az Stv. 30/A. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Nemzetközi sportszövetségként csak az (1) bekezdés szerinti szervezet vehető nyilvántartásba.”
-
-90. § (1) Az Stv. 30/C. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Eredeti alapítás esetén a miniszteri támogató nyilatkozat kiadása iránti kérelemhez mellékelni kell
-
-a) a 30/A. § (1) bekezdés a)–d) pontja szerinti státuszra vonatkozó elismerő nyilatkozatot, vagy
-
-b) a 30/A. § (1) bekezdés e)–h) pontja szerinti szándéknyilatkozatot.”
-
-(2) Az Stv. 30/C. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Eredeti alapítás esetén a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter és a sportpolitikáért felelős miniszter a miniszteri támogató nyilatkozat kiadása során
-
-a) a 30/A. § (2) és (3) bekezdésében foglaltaknak való megfelelést, valamint
-
-b) a 30/A. § (1) bekezdés
-
-ba) a)–d) pontja szerinti státuszra vonatkozó elismerő nyilatkozat meglétét, vagy
-
-bb) e)–h) pontja szerinti szándéknyilatkozat meglétét
-
-vizsgálja.”
-
-(3) Az Stv. 30/C. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) Jogutódlásos alapítás esetén a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter, valamint a sportpolitikáért felelős miniszter a miniszteri támogató nyilatkozat kiadása során
-
-a) a 30/A. § (1) bekezdés a)–d) pontja szerinti státuszra vonatkozó elismerő nyilatkozat, vagy a 30/A. § (1) bekezdés e)–h) pontja szerinti szándéknyilatkozat meglétét, valamint
-
-b) a 30/A. § (2), (3) és (7) bekezdésében foglaltaknak való megfelelést
-
-vizsgálja.”
-
-91. § Az Stv. 47. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A Sport Állandó Választottbíróság a doppingellenes tevékenység szabályairól szóló kormányrendelet, valamint a 4/B. § szerinti szabályzat szerint működteti a dopping fellebbviteli bizottságot, amely lefolytatja a másodfokú doppingeljárást.”
-
-92. § Az Stv. 79. § (1) bekezdés b) pont ba) alpontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy
-
-rendeletben állapítsa meg)
-
-„ba) a doppingellenes tevékenység meghatározását, a doppingellenes tevékenységben részt vevő szervezetek körét, feladat- és hatáskörüket, a doppingeljárás szervezeti kereteit, valamint a nemzeti doppingellenes szervezetnek a doppingellenes tevékenységre vonatkozó szabályzatával összefüggő követelményeket,”
+92. §
 
 93. §
 
-94. § Az Stv.
+94. §
 
-- a) 2. § (4) bekezdés a) pont aa) alpontjában a „kormányrendeletben meghatározott tiltott szerek használatától, tiltott módszerek” szövegrész helyébe a „kormányrendelet szerinti tiltólistában szereplő tiltott szer vagy módszer” szöveg,
-- b) 4. § (1) bekezdésében a „kormányrendeletben meghatározott” szövegrész helyébe a „kormányrendelet szerinti tiltólistán meghatározott” szöveg,
-- c) 4/A. § (11) bekezdésében a „nemzetközi doppingellenes szervezet” szövegrész helyébe a „doppingellenes szervezet” szöveg,
-- d) 12. § (4) bekezdésében a „sportfegyelmi vagy doppingbüntetésként” szövegrész helyébe a „sportfegyelmi büntetésként” szöveg,
-- e) 12. § (5) bekezdésében a „fegyelmi vagy doppingbüntetés” szövegrész helyébe a „fegyelmi büntetés” szöveg,
-- f) 12. § (7) bekezdésében a „fegyelmi vagy doppingbüntetésekkel” szövegrész helyébe a „fegyelmi büntetésekkel” szöveg, valamint a „fegyelmi vagy doppingbüntetések” szövegrész helyébe a „fegyelmi büntetések” szöveg,
-- g) 19. § (8) bekezdésében a „Magyar Olimpiai Bizottságra (a továbbiakban: MOB)” szövegrész helyébe a „MOB-ra” szöveg, az „a Magyar Paralimpiai Bizottságra (a továbbiakban: MPB)” szövegrész helyébe az „az MPB-re” szöveg, az „a Nemzeti Versenysport Szövetségre (a továbbiakban: NVESZ)” szövegrész helyébe az „az NVESZ-re” szöveg,
-- h) 30/B. § (2) bekezdésében az „a Budapest és a fővárosi agglomeráció fejlesztéséért felelős miniszter” szövegrész helyébe az „a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter” szöveg,
-- i) 30/C. § (3) bekezdésében a „(2) bekezdés szerinti szándéknyilatkozat” szövegrész helyébe a „30/A. § (1) bekezdés e)–h) pontja szerinti szándéknyilatkozat” szöveg,
-- j) 30/C. § (3) bekezdésében az „az elismerő nyilatkozatot” szövegrész helyébe az „a 30/A. § (1) bekezdés a)–d) pontja szerinti státuszra vonatkozó elismerő nyilatkozatot” szöveg
-
-lép.
-
-95. § Hatályát veszti az Stv.
-
-- a) 11/A. § (3) bekezdés a) pontjában az „ , a doppingellenes tevékenységről szóló kormányrendeletben meghatározottak szerint” szövegrész,
-- b) 12. § (1) bekezdésében az „ – a (2) bekezdésben foglaltakra is figyelemmel – ” szövegrész,
-- c) 12. § (2) és (3) bekezdése,
-- d) 12. § (5) bekezdés b) pontjában a „ , valamint a doppingellenes” szövegrész,
-- e) 14. § (2a) bekezdése.
+95. §
 
 #### 28. Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény módosítása
 

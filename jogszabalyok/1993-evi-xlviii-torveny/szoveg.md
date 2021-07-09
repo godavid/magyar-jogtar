@@ -164,6 +164,14 @@ tartozása van, vagy
 
 - b) a bányászati jog átadója vagy átvevője a bányajáradék bevallására vonatkozó kötelezettségét nem teljesítette.
 
+(4) Az (1) bekezdés szerinti hatósági hozzájárulásra vonatkozó rendelkezést
+
+- a) a bányászati joggal rendelkező gazdálkodó szervezetek jogutódlása,
+- b) a bányászati joggal rendelkező gazdasági társaságok tulajdonrészének visszterhes és ingyenes átruházása, valamint
+- c) a bányászati jog eredeti szerzésmód keretében történő megszerzése
+
+esetében is alkalmazni kell.
+
 7. § (1) A bányavállalkozó tevékenységét a 2. §-ban előírt követelmények teljesítésével és a III. Részben meghatározott általános szabályok szerint köteles végezni.
 
 (2) Az 1. § (2) bekezdés szerint, vízjogi engedély alapján végzett ásványi nyersanyag kitermelésre a törvény III. Részében meghatározott általános szabályok közül csak a 20. és a 41. §-t kell alkalmazni.
@@ -400,7 +408,7 @@ különbözőségének figyelembevételével kitermelési helyenként állapítj
 
 (6) A koncesszió jogosultja a szerződésben, a bányászatra hatósági engedéllyel rendelkező pedig az engedélyben meghatározott területen és feltételek szerint kizárólagosan jogosult kutatási munkaprogramjának végrehajtására. Ennek keretében jogosult az ásványi nyersanyagok fellelhetőségére, elhelyezkedésére, mennyiségének és minőségének, illetve a geotermikus energia földkéregbeli viszonyainak a meghatározására szolgáló műszeres mérések, vizsgálatok, fúrások elvégzésére, kutató vágatok és aknák létesítésére, valamint a bányatelek megállapításának, illetve a geotermikus védőidom kijelölésének a kezdeményezésére.
 
-(7) Ha a bányavállalkozó a kutatási tevékenység végzése során olyan ásványi nyersanyagra bukkan, amelyre jogosultsága nem terjed ki, az előfordulást köteles bejelenteni a bányafelügyeletnek, és kezdeményezheti a kutatási engedélynek erre az ásványi nyersanyagra történő kiterjesztését. A kutatási engedély nem terjeszthető ki olyan ásványi nyersanyagra, amelynek szempontjából a kutatási terület zártnak minősül.
+(7) Ha a bányavállalkozó a kutatási tevékenység végzése során olyan ásványi nyersanyagra bukkan, amelyre jogosultsága nem terjed ki, az előfordulást köteles bejelenteni a bányafelügyeletnek, és kezdeményezheti a kutatási engedélynek erre az ásványi nyersanyagra történő kiterjesztését. A kutatási engedély nem terjeszthető ki építőipari nyers- és alapanyagra, továbbá olyan ásványi nyersanyagra, amelynek szempontjából a kutatási terület zártnak minősül.
 
 (8) Az (1) bekezdésben foglaltak alapján adományozott vagy engedélyezett kutatási jog megszűnik, ha a jogosult a kutatási jogot adományozó koncessziós szerződés hatálybalépésétől, illetve a kutatást engedélyező határozat véglegessé válásától számított 6 hónapon belül a kutatási műszaki üzemi terv jóváhagyását a bányafelügyeletnél nem kérelmezi, vagy a műszaki üzemi terv jóváhagyása iránti kérelmet a bányafelügyelet véglegessé vált határozatában elutasította..
 
@@ -806,23 +814,32 @@ foglaltakat kell alkalmazni.
 
 ### Tájrendezés
 
-36. § (1) A bányavállalkozó vagy a földtani kutatásra jogosult köteles azt a külszíni területet, amelynek használhatósága a bányászati vagy földtani kutatási tevékenység következtében megszűnt vagy lényegesen korlátozódott, fokozatosan helyreállítani, és ezzel a területet újrahasznosításra alkalmas állapotba hozni vagy a természeti környezetbe illően kialakítani (a továbbiakban: tájrendezés).
+36. § (1) A bányavállalkozó vagy a földtani kutatásra jogosult köteles azt a külszíni területet, amelynek használhatósága a bányászati vagy földtani kutatási tevékenység következtében megszűnt vagy lényegesen korlátozódott, fokozatosan helyreállítani, és ezzel a területet újrahasznosításra alkalmas állapotba hozni vagy a természeti környezetbe illően kialakítani (a továbbiakban együtt: tájrendezés).
 
-(2) A bányafelügyelet a tájrendezéshez szükséges feladatokról a műszaki üzemi terv, valamint a (4) bekezdés szerinti használaton kívüli bányászati célú mélyfúrás tájrendezési tervének jóváhagyási eljárása során dönt.
+(2) A bányafelügyelet a tájrendezéshez szükséges feladatokról a műszaki üzemi terv, valamint az (5) bekezdés szerinti használaton kívüli bányászati célú mélyfúrás tájrendezési tervének jóváhagyási eljárása során dönt.
 
-(3)
+(3) A használaton kívüli bányászati célú mélyfúrások adataira vonatkozóan a bányafelügyelet nyilvántartást vezet, amelyhez az adatokat a mélyfúrás tulajdonosa vagy vagyonkezelője köteles a bányafelügyelet rendelkezésére bocsátani. A használaton kívüli bányászati célú mélyfúrások nyilvántartásában a bányafelügyelet a bányászati célú mélyfúrás tulajdonosának nevét, tulajdonjogának igazolását, valamint az e törvény végrehajtására kiadott kormányrendelet szerinti adatokat tartja nyilván.
 
-(4) Az e törvény hatálybalépése előtt keletkezett, használaton kívüli bányászati célú mélyfúrásokkal kapcsolatos tájrendezési feladatok elvégzésére az köteles, aki 2004. december 31-én e bányászati célú mélyfúrások tulajdonosa, vagy aki e határidő után a mélyfúrás tulajdonjogát megszerezte.
+(4) A bányafelügyelet a (3) bekezdés szerinti nyilvántartásban szereplő használaton kívüli bányászati célú mélyfúrások állapotáról, a tulajdonos vagy vagyonkezelő által készített és háromévente felülvizsgált, majd 30 napon belül a bányafelügyelethez benyújtott kockázatelemzés besorolása alapján 25 napon belül, ha a kockázatelemzés az e törvény végrehajtására kiadott kormányrendelet szerint
 
-(5) A tulajdonos köteles a (4) bekezdés szerinti feladatok elvégzésére vonatkozó – a tájrendezés végrehajtásának ütemezését is magában foglaló – tájrendezési tervet készíteni, és a bányafelügyelethez jóváhagyásra benyújtani.
+- a) magas vagy nagyon magas kockázatot állapított meg, kötelezi a tulajdonost vagy vagyonkezelőt a tájrendezési kötelezettség teljesítésére vonatkozó ütemterv elkészítésére; vagy
+- b) alacsony vagy közepes kockázatot állapított meg, a tulajdonos vagy vagyonkezelő kezdeményezése esetén a tájrendezési tervet elbírálja.
 
-(5a) A tulajdonosnak a tájrendezést úgy kell ütemezni, hogy 2020. évtől kezdődően, minden évben a használaton kívüli bányászati célú mélyfúrások tájrendezési kötelezettségének legalább 1/13 részét teljesíteni kell. A tulajdonos köteles a tulajdonában lévő összes használaton kívüli bányászati célú mélyfúrás tájrendezését 2032. december 31-ig befejezni.
+(5) A tulajdonos vagy vagyonkezelő a bányafelügyelet (4) bekezdés szerinti kötelezésének közlését követően
 
-(6) Nem kell elvégezni azoknak a bányászati célú mélyfúrásoknak a tájrendezését, amelyek nem bányászati célú hasznosításra kerülnek. A bányafelügyelet dönt arról, hogy a használaton kívüli bányászati célú mélyfúrás bányászati célra már nem alkalmas. A bányafelügyelet döntése nem jogosít a nem bányászati célú hasznosítás megkezdésére, ahhoz meg kell szerezni a hatáskörrel rendelkező hatóság engedélyét.
+90 napon belül – a műszaki megvalósíthatósági szempontok figyelembevételével – összeállítja az érintett mélyfúrások tájrendezésére vonatkozó ütemtervet és jóváhagyásra benyújtja a bányafelügyelethez. A bányafelügyelet az ütemterv jóváhagyását megelőzően egyeztetést tart a tulajdonossal vagy vagyonkezelővel. A tulajdonos vagy vagyonkezelő a jóváhagyott ütemtervben foglaltak szerint köteles jóváhagyás céljából benyújtani a végrehajtandó használaton kívüli bányászati célú mélyfúrás tájrendezési tervét.
 
-(7) Amennyiben a (6) bekezdés szerinti bányafelügyeleti határozat véglegessé válásától számított fél éven belül a tulajdonos nem kezdeményezi a nem bányászati célú hasznosítás engedélyezését a hatáskörrel rendelkező hatóságnál, vagy ha az engedélyben meghatározott időtartamon belül a hasznosítást nem kezdi meg, köteles a tájrendezést elvégezni.
+(6) Az e törvény hatálybalépése előtt keletkezett, használaton kívüli bányászati célú mélyfúrásokkal kapcsolatos tájrendezési feladatok elvégzésére az köteles, aki 2004. december 31-én a bányászati célú mélyfúrások tulajdonosa vagy vagyonkezelője volt, vagy aki ezen időpont után a mélyfúrás tulajdonjogát megszerezte vagy bányászati célú mélyfúrást létesített.
 
-(8) A bányafelügyelet a használaton kívüli bányászati célú mélyfúrásokról nyilvántartást vezet.
+(7) A tulajdonos vagy vagyonkezelő köteles a tulajdonában vagy kezelésében lévő használaton kívüli bányászati célú mélyfúrások fenntartását, műszaki biztonsági állapotának megőrzését a kőolaj- és földgázbányászati biztonsági szabályzatban foglaltak figyelembevételével biztosítani a későbbi azonos vagy más célú hasznosítás érdekében.
+
+(8) A bányafelügyelet a használaton kívüli bányászati célú mélyfúrás tulajdonosa vagy vagyonkezelője kérelmére megállapítja, hogy a használaton kívüli bányászati célú mélyfúrás bányászati célra már nem alkalmas. A bányafelügyelet döntése nem jogosít a nem bányászati célú hasznosítás megkezdésére, ahhoz meg kell szerezni az arra hatáskörrel rendelkező hatóság engedélyét.
+
+(9) Ha a (8) bekezdés szerinti bányafelügyeleti határozat véglegessé válásától számított egy éven belül a tulajdonos vagy vagyonkezelő nem kezdeményezi a nem bányászati célú hasznosítás engedélyezését az arra hatáskörrel rendelkező hatóságnál, vagy ha az engedélyben meghatározott időtartamon belül a hasznosítást nem kezdi meg, köteles ezt a bányafelügyelet felé jelezni és az érintett használaton kívüli bányászati célú mélyfúrás adataira vonatkozóan a (3) bekezdésben foglaltak szerinti nyilvántartáshoz adatot szolgáltatni, valamint a (4) bekezdés szerinti kockázatelemzést elvégezni. A bejelentés alapján a bányafelügyelet a bányászati célra már nem alkalmas mélyfúrás minősítést visszavonja.
+
+(10) A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvény alapján nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított beruházás megvalósítása érdekében a beruházó kezdeményezheti a bányavállalkozónál, tulajdonosnál vagy a vagyonkezelőnél a használaton kívüli bányászati célú mélyfúrás felszámolását és a tájrendezés elvégzését. A beruházóval kötött megállapodás alapján a bányavállalkozó, a tulajdonos vagy a vagyonkezelő kezdeményezheti a használaton kívüli bányászati célú mélyfúrás felszámolását követően a tájrendezés elvégzésére vonatkozó tájrendezési terv jóváhagyását.
+
+(11) A (10) bekezdés szerinti esetben a tájrendezés igazolt költségeit a nemzetgazdasági szempontból kiemelt jelentőségű beruházás beruházója viseli.
 
 ### Bányakárok
 
@@ -844,7 +861,7 @@ foglaltakat kell alkalmazni.
 
 38. § (1) Az ingatlan tulajdonosa (kezelője, használója) köteles tűrni, hogy a bányavállalkozó vagy a földtani kutatásra jogosult az ingatlanon megfigyeléseket, méréseket végezzen, jeleket helyezzen el. A bányavállalkozó, valamint a földtani kutatásra jogosult e tevékenységével és az ingatlan rendeltetésszerű használatának ideiglenes akadályozásával vagy zavarásával okozott károkat a bányakárokra vonatkozó szabályok szerint köteles megtéríteni.
 
-(1a) Az ingatlan tulajdonosa köteles tűrni, hogy a használaton kívüli mélyfúrás 36. § (4) bekezdése szerinti tulajdonosa a mélyfúrás tájrendezését elvégezze. A tájrendezés során okozott károkat a mélyfúrás tulajdonosa a bányakárokra vonatkozó szabályok szerint köteles megtéríteni.
+(1a) Az ingatlan tulajdonosa köteles tűrni, hogy a használaton kívüli mélyfúrás 36. § (4) bekezdése szerinti tulajdonosa vagy vagyonkezelője a mélyfúrás tájrendezését elvégezze. A tájrendezés során okozott károkat a mélyfúrás tulajdonosa vagy vagyonkezelője a bányakárokra vonatkozó szabályok szerint köteles megtéríteni.
 
 (2) Az (1) bekezdés szerinti tevékenységnek kell tekinteni a szeizmikus mérések helyszínére történő behajtást, a mérési pontok és nyomvonalak kitűzését, a mérések elvégzését, ideértve a többdimenziós szeizmikus méréseket és a felvételezést is. A geofizikai mérések elvégzése nem minősül a termőföld védelméről szóló törvényben meghatározott termőföld időleges más célú hasznosításának.
 
@@ -1394,7 +1411,9 @@ eltelt.
 
 (9c) A (9) bekezdés szerint felügyeleti díjat fizető bányavállalkozónak, illetve engedélyesnek a tárgyévben befizetendő felügyeleti díjból – a tárgyévre megállapított felügyeleti díj fizetési kötelezettség mértékéig – visszajár a tárgyévet megelőző évben az általa a bányafelügyelet eljárásaiért megfizetett igazgatási szolgáltatási díjak összege.
 
-(9d) A felügyeleti díj éves összege a bányatelekből, a kutatási területből a tárgyévet megelőző évben kitermelt kőolaj esetében 550 Ft/t, földgáz esetében 350 Ft/em3.
+(9d) A felügyeleti díj éves összege a bányatelekből, a kutatási területből a tárgyévet megelőző évben kitermelt kőolaj esetében 550 Ft/t, földgáz esetében 33,2 Ft/MWh.
+
+(9e) A (9d) bekezdésben meghatározott díjtételt a megállapítást követő minden 5. év december 31-ig felül kell vizsgálni.
 
 (10) A bányászati igazgatási feladatokat ellátó személyek részére igazolványt, a hatósági feladatokat ellátó személyek részére az igazolvánnyal azonos sorszámú szolgálati jelvényt kell biztosítani.
 
@@ -1642,10 +1661,10 @@ bányahatósági felügyelete
   - e) a szénhidrogén tárolására alkalmas földtani szerkezetek kutatása, tárolásra történő kialakítása, igénybevétele és bezárása,
   - f) a geotermikus energia kutatása, kinyerése és hasznosítása, továbbá
   - g) az a)–f) pontokban meghatározott tevékenységek során keletkezett hulladék kezelése.
-- 5. ,,Bányavállalkozó'' a bányászati tevékenység végzésére jogosult jogi vagy természetes személy (a továbbiakban együtt: személy). Bányavállalkozónak minősül e törvény
-  - a)
-  - b) 2. §-ának, 18. §-ának, 21. § (1) bekezdésének, 24. § (1) bekezdésének, 28. § (1) bekezdésének, 31–35. §-ainak, 37–38. §-ainak, 41. §-ának szabályai alkalmazásában, a szénhidrogén szállítóvezetékek létesítésére és üzemben tartására, valamint
-  - c) 2. §-ának, 21. § (1) bekezdésének, 28. § (1) bekezdésének, 31–34. §-ainak, 41–42. §-ainak szabályai, alkalmazásában a megszűnt föld alatti bánya nyitva maradó térségének fenntartására, hasznosítására jogosult személy is.
+- 5. „Bányavállalkozó” a bányászati tevékenység végzésére jogosult jogi vagy természetes személy, továbbá
+  - a) a 2. §, a 18. §, a 21. § (1) bekezdése, a 24. § (1) bekezdése, a 28. § (1) bekezdése, a 31–35. §, a 37. és 38. §, a 41. § alkalmazásában a szénhidrogén szállítóvezetékek létesítésére és üzemben tartására jogosult személy,
+  - b) a 2. §, a 21. § (1) bekezdése, a 28. § (1) bekezdése, a 31–34. §, a 41. és 42. § alkalmazásában a megszűnt föld alatti bánya nyitva maradó térségének fenntartására, hasznosítására jogosult személy, valamint
+  - c) a használaton kívüli bányászati célú mélyfúrás tulajdonosa vagy vagyonkezelője.
 - 6. „Feldolgozás”: az ásványi nyersanyagokon – beleértve a külfejtéses bányák működése során – végrehajtott mechanikai, fizikai, biológiai, termikus vagy kémiai eljárás, vagy eljárások összessége, beleértve a méret megváltoztatását, szétválasztását és a kioldást, továbbá az előzőleg elhagyott bányászati hulladék újrafeldolgozását, de nem beleértve az olvasztást, a mészkőégetéstől eltérő termikus gyártási folyamatokat és kohászati eljárásokat.
 - 7. ,,Előkutatás'' az ásványi nyersanyag lelőhely meglétének kimutatására, valamint az ásványi nyersanyag megközelítő elterjedésének, mennyiségének meghatározására irányuló kutatás.
 - 8. „Ásványinyersanyag-kitermelő ipar”: minden bányászati tevékenységet és ásványi nyersanyag feldolgozást folytató vállalkozás, vagy ahhoz kapcsolódó létesítmény.
@@ -1715,7 +1734,7 @@ bányahatósági felügyelete
 
 49/B. § (1) Átmeneti bányászjáradékra jogosult az a személy, aki
 
-- a) Magyarországon bányavállalkozónál föld alatti munkakörben
+- a) bányavállalkozónál föld alatti munkakörben
   - aa) legalább huszonöt év, a társadalombiztosítási nyugellátásról szóló törvény szerint figyelembe vehető szolgálati időt szerzett, vagy
   - ab) legalább 5000 – a társadalombiztosítási nyugellátásról szóló törvény szerint szolgálati időként figyelembe vehető – műszakot töltött el azzal, hogy a mecseki ércbányászatban elért műszakszámnak az 1,67-szeresét, a mecseki szénbányászatban elért műszakszámnak pedig az 1,25-szörösét kell a műszakszám meghatározása során figyelembe venni,
 - b) az öregségi nyugdíjkorhatárt nem töltötte be, és
@@ -1774,7 +1793,7 @@ bányahatósági felügyelete
 
 (17) A használaton kívüli bányászati célú mélyfúrásoknak, kutaknak a 36. §-t módosító Módtv1. hatálybalépése előtt engedélyezett nem bányászati célú hasznosítása esetében a hasznosítást a Módtv1. hatálybalépésétől számított egy éven belül kell megkezdeni. Ennek elmaradása esetén a használaton kívüli bányászati célú mélyfúrás kút tájrendezését el kell végezni.
 
-(18) A Módtv1. hatálybalépését követően a 36. § (8) bekezdése szerinti nyilvántartást 2013. szeptember 30-ig kell létrehozni, amelyhez a használaton kívüli bányászati célú mélyfúrások tulajdonosa 2013. július 31-ig köteles adatot szolgáltatni.
+(18) E törvénynek az egyes energetikai és közszolgáltatási tárgyú törvények módosításáról szóló 2021. évi LXVIII. törvénnyel (a továbbiakban: Módtv6.) megállapított 36. § (3) bekezdése szerinti nyilvántartást, a Módtv6. hatálybalépését követő 24 hónapon belül kell összeállítani, amelyhez a mélyfúrás tulajdonosa vagy vagyonkezelője a Módtv6. hatálybalépését követő 12 hónapon belül szolgáltat adatot. A Módtv6.-tal megállapított 36. § (4) bekezdés szerinti kockázatelemzést első alkalommal 2023. december 31-ig kell elvégezni.
 
 (19) E törvénynek a bányászatról szóló 1993. évi XLVIII. törvény és a termőföld védelméről szóló 2007. évi CXXIX. törvény módosításáról szóló 2014. évi LXXXVI. törvénnyel (a továbbiakban: Módtv2.) módosított 38. § (11) bekezdését, 38/A. § (5b) bekezdését, megállapított 39. § (4) és (5) bekezdését és 43/B. § (6) bekezdés g) pontját a folyamatban lévő eljárásokban is alkalmazni kell.
 
@@ -1789,6 +1808,10 @@ bányahatósági felügyelete
 (24) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 (25) E törvénynek az egyes közigazgatási tárgyú törvények módosításáról, valamint ingyenes vagyonjuttatásról szóló 2020. évi XXX. törvénnyel (a továbbiakban: Módtv3.) megállapított 5. § (6) bekezdését a Módtv3. hatálybalépésekor folyamatban lévő hatósági eljárásokban is alkalmazni kell.
+
+(26) E törvénynek a Módtv6.-tal megállapított 43. § (9e) bekezdése szerinti felülvizsgálatot első alkalommal a Módtv6. hatálybalépését követő 5. év december 31-ig kell elvégezni.
+
+(27) E törvénynek a Módtv6.-tal megállapított 43. § (9d) bekezdését a 2021. évre azzal az eltéréssel kell alkalmazni, hogy a Módtv6. 1. alcíme hatálybalépését megelőző időszakra eső felügyeleti díjat a Módtv6. 1. alcíme hatálybalépését megelőző szabályok szerint, a Módtv6. 1. alcíme hatálybalépését követő időszakra eső felügyeleti díjat a Módtv6. 1. alcíme hatálybalépését követően hatályos szabályok szerint, időarányosan kell megfizetni.
 
 50/A. § (1) Felhatalmazást kap a Kormány
 
@@ -1831,7 +1854,7 @@ bányahatósági felügyelete
 - 24. az ásványi nyersanyag és geotermikus energiavagyon nyilvántartására,
 - 25. a 26/A. § (4) bekezdése szerinti kitermelési határidő meghosszabbítása esetén fizetendő térítés mértékének és a megfizetés módjának megállapítására,
 - 26. a kőolaj- és földgázbányászati létesítmények, a szénhidrogén szállító-, elosztó-, célvezetékek és tároló létesítmények tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosításának kritériumrendszerére, kijelölésére, az érzékeny információ védelmére, a kapcsolattartásra és a jelentéstételi kötelezettségekre, valamint az európai kritikus infrastruktúra kijelölése esetén annak védelmére, ellenőrzésének rendjére, az előírások megsértése esetén alkalmazható jogkövetkezményekre
-- 27. a használaton kívüli bányászati célú mélyfúrások nyilvántartására,
+- 27. a használaton kívüli bányászati célú mélyfúrások nyilvántartására, azok kockázatelemzésére, besorolására, valamint a céltartalék képzésére,
 - 28. a koncessziós pályázatra kijelölhető zárt területek listájának kiegészítésére tehető javaslatra, a kijelölhető területek közzétételére,
 - 29. a nyugdíjas bányászok szénjárandóságának pénzbeli megváltására,
 - 30. a vizek kártételei elleni védelem és védekezés célját szolgáló közcélú vízilétesítmények létesítéséhez szükséges anyagnyerő hely engedélyezésére, az engedély iránti kérelem tartalmi követelményeire, a komplex műveleti terv tartalmára, az anyagnyerő hely létesítéséhez szükséges biztosítékokra, az anyagnyerő hely megszüntetésére irányuló kérelem tartalmi követelményeire, a bírság mértékére,

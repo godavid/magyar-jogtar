@@ -1784,7 +1784,7 @@ valamint a módosítás nem változtatja meg a szerződés általános jellegét
 
 116. § (1) A beszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy kiemelt alvállalkozóként és egyéb közreműködőként kizárólag a jegyzéken szereplő gazdasági szereplő vehet részt, a 117. § (2)–(5) bekezdésében foglalt kivételekkel. A jegyzéken
 
-- a) a Mavtv.-ben meghatározott telephelybiztonsági tanúsítvánnyal (a továbbiakban: TBT) rendelkező gazdasági szereplők,
+- a) a Mavtv.-ben meghatározott telephely biztonsági tanúsítvánnyal vagy egyszerűsített telephely biztonsági tanúsítvánnyal (a továbbiakban együtt: TBT) rendelkező gazdasági szereplők,
 - b) az előzetes minősítésen megfelelt gazdasági szereplők, valamint
 - c) a beszerzési eljáráshoz kötődő minősítésen megfelelt gazdasági szereplők
 
@@ -2484,6 +2484,8 @@ alkalmazni kell azzal az eltéréssel, hogy ahol az Itv. illetéket említ, azon
 (2) A jegyzéken szereplőnek kell tekinteni a törvény hatálybalépésekor a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló kormányrendelet (a továbbiakban: Kr.) szerinti jegyzéken szereplő gazdasági szereplőt. E gazdasági szereplők 120. § (1) bekezdése szerinti felülvizsgálata esedékességének megállapításakor – ha ellenőrzésükre a törvény előírásai szerint még nem került sor – a Kr. szerinti utolsó ellenőrzés időpontját kell figyelembe venni.
 
 (3) E törvénynek az egyes törvények honvédelmi kérdésekkel összefüggő módosításáról szóló 2017. évi CLXXXIX. törvénnyel megállapított rendelkezéseit a 2018. január 1-jén és az azt követően megkezdett beszerzésekre, beszerzési eljárásokra, beszerzési eljárás alapján megkötött szerződésekre kell alkalmazni.
+
+(4) A 2020. július 1-jét megelőző napon hatályos Mavtv. 16. § (2) bekezdés c) pontja szerint kiadott telephely biztonsági tanúsítvánnyal rendelkező gazdasági szereplőt az egyes energetikai és közszolgáltatási tárgyú törvények módosításáról szóló 2021. évi LXVIII. törvény hatálybalépését követően is jegyzéken szereplőnek kell tekinteni a telephely biztonsági tanúsítvány kiállításától számított öt évig.
 
 #### 96. Módosító rendelkezések
 

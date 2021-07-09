@@ -16,12 +16,12 @@ Az Országgyűlésaz Alaptörvény Q) cikkében és a 25/2009. (IV. 2.) OGY hat�
 
 - a) Alvállalkozó: mindazon természetes és jogi személy, aki vagy amely a Fővállalkozóval, illetve bármely alvállalkozójával a 3. § (1) bekezdése szerinti szerződést köt;
 - b) Fővállalkozó: az Egyezmény 3. cikk 1. pontja szerint kijelölt fővállalkozója;
-- c) gazdálkodó szervezet: a polgári perrendtartásról szóló 1952. évi III. törvény 396. §-a szerinti gazdálkodó szervezet;
+- c) gazdasági szereplő: a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény szerinti gazdasági szereplő;
 - d) foglalkoztatásra irányuló jogviszony: minden olyan jogviszony, amelyben a jogviszony tárgya a foglalkoztató részére ellenérték fejében végzett munkavégzés.
 
 #### 3. A Beruházást érintő különös polgári jogi és munkajogi rendelkezések
 
-3. § (1) A Beruházással összefüggő, az Egyezmény 8. cikke szerinti Megvalósítási Megállapodások (a továbbiakban: Megvalósítási Megállapodások) végrehajtására irányuló szerződést, alvállalkozási szerződést a Beruházás Fővállalkozója, valamint a Fővállalkozó alvállalkozója, vagy az Egyezmény 3. cikk 2. pontja szerinti megrendelője (a továbbiakban: Megrendelő) kizárólag olyan gazdálkodó szervezettel köthet, amely a minősített adat védelméről szóló törvény szerinti telephely-biztonsági tanúsítvánnyal rendelkezik.
+3. § (1) A Beruházással összefüggő, az Egyezmény 8. cikke szerinti Megvalósítási Megállapodások (a továbbiakban: Megvalósítási Megállapodások) végrehajtására irányuló szerződést, alvállalkozási szerződést a Beruházás Fővállalkozója, valamint a Fővállalkozó alvállalkozója, vagy az Egyezmény 3. cikk 2. pontja szerinti megrendelője (a továbbiakban: Megrendelő) kizárólag olyan gazdasági szereplővel köthet, amely szerepel a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény szerinti jegyzéken.
 
 (2) A Megvalósítási Megállapodások alapján megvalósuló, a Fővállalkozó által lefolytatott beszerzések a közbeszerzésekről szóló 2015. évi CXLIII. törvény 9. § (1) bekezdés c) pontja szerinti beszerzésnek tekintendők azzal, hogy a Fővállalkozó e beszerzései során az Egyezmény 3. cikk 6. pontjában és a Megvalósítási Megállapodásokban meghatározott eljárási szabályok szerint jár el.
 
@@ -54,6 +54,8 @@ Az Országgyűlésaz Alaptörvény Q) cikkében és a 25/2009. (IV. 2.) OGY hat�
 (4) A 20. § (2) bekezdése, a 21. §, a 24. §, a 28. § (2) bekezdése, a 30. § 21. pontja, a 31. § (1) bekezdés c)–g) pontja, valamint a 32. § 2016. január 1. napján lép hatályba.
 
 6/A. § E törvénynek a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény módosításáról szóló 2016. évi XIX. törvénnyel megállapított 5. §-át a hatálybalépésekor folyamatban lévő, közérdekű adat megismerésére irányuló igény teljesítésére vonatkozó eljárásokban is alkalmazni kell.
+
+6/B. § Azon szerződések esetén, ahol az egyes energetikai és közszolgáltatási tárgyú törvények módosításáról szóló 2021. évi LXVIII. törvény hatálybalépését megelőző napon hatályos 3. § (1) bekezdésében meghatározott telephely biztonsági tanúsítvány megléte a szerződéskötés, illetve a szerződés érvényességének vagy fennmaradásának feltételeként szerepel, e feltételt teljesítettnek kell tekinteni abban az esetben, ha a szerződő fél olyan gazdasági szereplő, amely szerepel a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény szerinti jegyzékben.
 
 7. § Ez a törvény
 

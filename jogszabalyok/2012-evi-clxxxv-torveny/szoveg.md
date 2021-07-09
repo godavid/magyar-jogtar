@@ -317,6 +317,10 @@ csökkenjen;
 
 12. § (1) A hulladéktermelő az ingatlanon képződött hulladék gyűjtését az ingatlan területén hulladékgazdálkodási engedély nélkül legfeljebb 1 évig végezheti.
 
+(1a) Természetes személy tulajdonában vagy használatában álló ingatlanon legfeljebb 3 m3, egyértelműen az ingatlanon képződő, a hulladékgazdálkodási közszolgáltatás körébe nem tartozó és nem építési és bontási hulladék, valamint legfeljebb 10 m3, egyértelműen az ingatlanon képződő építési és bontási hulladék gyűjthető.
+
+(1b) Az (1a) bekezdésben foglalt rendelkezések megsértése miatt indult hulladékgazdálkodási hatósági eljárásban az ügyintézési határidő kilencven nap.
+
 (2) A gyűjtő – a (2a) és (2c) bekezdésben, valamint a 28. § (5) bekezdésében meghatározott kivétellel – tevékenységét gyűjtésre vonatkozó hulladékgazdálkodási engedéllyel végzi.
 
 (2a) A nevelési-oktatási intézmény, illetve a szakképző intézmény papírhulladék gyűjtése céljából évente legfeljebb 2 alkalommal, és alkalmanként legfeljebb 5 nap időtartamban papírhulladék-gyűjtési kampányt szervezhet, amelynek során a papírhulladékot a vele jogviszonyban álló gyermektől, tanulótól gyűjtésre vonatkozó hulladékgazdálkodási engedély nélkül, a területén kialakított átvételi helyen átveheti. Az átvett papírhulladék kezeléséről a nevelési-oktatási intézmény a 31. § (2) bekezdése szerint gondoskodik.
@@ -2245,6 +2249,15 @@ közszolgáltatási díjat kell tekinteni.
 (2) A közvetített szolgáltatásban részes közbenső szereplő az elszámolási időszakot megelőző hónap 10. napjáig a Koordináló szerv részére adatot szolgáltat, hogy az elszámolási időszakban milyen arányban oszlik meg a vele szerződéses kapcsolatban álló rezsicsökkentésre jogosult és más felhasználók között a hulladékgazdálkodási közszolgáltatás díja. A Koordináló szerv ezen adatszolgáltatás alapján külön-külön számlát bocsát ki a közszolgáltatást közvetítő személy részére a rezsicsökkentésre jogosult és más felhasználók hulladékgazdálkodási közszolgáltatás díjáról. Ha az adatszolgáltatást a közvetített szolgáltatásban részes közbenső szereplő határidőben nem teljesíti, a Koordináló szerv csak egy, a díjcsökkentést nem tartalmazó számlát bocsát ki.
 
 (3) A 91. §-ban meghatározott mértékű díjcsökkentés a (2) bekezdés szerint előírt adatszolgáltatás elmulasztása esetén is megilleti a rezsicsökkentésre jogosultat, melynek terhét a közszolgáltatást közvetített szolgáltatásként nyújtó személy viseli.
+
+(3a) A lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti jogi személyiséggel rendelkező vallási közösség, annak belső egyházi jogi személye vagy jogi személyiséggel rendelkező szervezeti egysége (a továbbiakban: vallási jogi személy) a (2) bekezdésben meghatározott díjcsökkentésre jogosult, ha
+
+- a) a vallási jogi személy tulajdonában, használatában álló lakóépületben, lakásban, plébánián, parókián, illetve a vallási jogi személy hitéleti tevékenységére szolgáló egyéb épületben, rendházban, üdülőben vagy hétvégi házban a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 12. § (1) bekezdésében vagy 12/A. § (1) bekezdésében meghatározott személy (a továbbiakban: egyházi természetes személy) az általa használt ingatlanrészt életvitelszerű lakhatására használja, és
+- b) a hulladékgazdálkodási közszolgáltatást nem jövedelemszerzésre irányuló tevékenységgel összefüggésben kívánja igénybe venni.
+
+(3b) A vallási jogi személyt a (2) bekezdésben meghatározott díj oly mértékben illeti meg, amely arányban a hulladékgazdálkodási közszolgáltatást egyházi természetes személy igénybe veszi.
+
+(3c) A vallási jogi személy évente írásban tájékoztatja a közszolgáltatón keresztül a Koordináló szervet, hogy a hulladékgazdálkodási közszolgáltatást az egyházi természetes személy a hulladékgazdálkodási közszolgáltatás végzésének feltételeiről szóló kormányrendelet szabályait figyelembe véve mekkora térfogatú gyűjtőedénnyel vesz igénybe.
 
 (4) A közszolgáltatást közvetített szolgáltatásként nyújtó személy az általa kibocsátott számlában legfeljebb a 91. §-ban meghatározott díjat alkalmazhatja.
 

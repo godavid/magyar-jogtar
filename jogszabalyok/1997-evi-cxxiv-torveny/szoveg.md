@@ -76,7 +76,9 @@ Az Országgyűlés– elismerve a magyarországi egyházaknak a nemzet életébe
 
 10. § A Kormány jogosult a jogi személyiséggel rendelkező vallási közösségeket közcélú tevékenységük folytatásához szükséges ingatlan megszerzéséhez segíteni.
 
-11. §
+11. § (1) A villamos energiáról szóló törvény és a földgázellátásról szóló törvény alkalmazásában a jogi személyiséggel rendelkező vallási közösség, annak belső egyházi jogi személye, vagy jogi személyiséggel rendelkező szervezeti egysége (a továbbiakban együtt: jogi személyiséggel rendelkező vallási közösség) a tulajdonában álló, egy felhasználási helyet képező, egy vagy több lakóépület, lakás, plébánia, parókia, rendház, üdülő vagy hétvégi ház, továbbá a hozzá kapcsolódó garázs villamosenergia- és földgázellátásának biztosítása érdekében megkötött szerződés tekintetében háztartásnak minősül, ha a jogi személyiséggel rendelkező vallási közösség tulajdonában álló lakóépület, lakás, plébánia, parókia, rendház, üdülő vagy hétvégi ház az Ehtv. 12. § (1) bekezdésében vagy 12/A. § (1) bekezdésében meghatározott személy életvitelszerű lakhatására szolgál, és az így igénybe vett szolgáltatással a jogi személyiséggel rendelkező vallási közösség nem folytat jövedelemszerző tevékenységet.
+
+(2) A víziközmű-szolgáltatásról szóló törvény alkalmazásában a jogi személyiséggel rendelkező vallási közösség tulajdonában álló, egy felhasználási helyet képező, egy vagy több lakóépület, lakás, plébánia, parókia, rendház, üdülő vagy hétvégi ház, továbbá a hozzá kapcsolódó garázs víziközmű-szolgáltatásának biztosítása érdekében megkötött szerződés tekintetében lakossági felhasználónak minősül, ha a jogi személyiséggel rendelkező vallási közösség tulajdonában álló lakóépület, lakás, plébánia, parókia, rendház, üdülő vagy hétvégi ház az Ehtv. 12. § (1) bekezdésében vagy 12/A. § (1) bekezdésében meghatározott személy életvitelszerű lakhatására szolgál, és az így igénybe vett szolgáltatással a jogi személyiséggel rendelkező vallási közösség nem folytat jövedelemszerző tevékenységet.
 
 12. § Ez a törvény 1998. január 1-jén lép hatályba azzal, hogy a 4. § (1) bekezdését először az 1997. évi adóbevallások során kell alkalmazni.
 
