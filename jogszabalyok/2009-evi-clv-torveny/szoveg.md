@@ -303,7 +303,7 @@ csak akkor vehet részt, ha a Nemzeti Biztonsági Felügyelet a megfelelő szint
 
 - a) egyszerűsített telephely biztonsági tanúsítványt,
 - b) amennyiben a minősített adat védelmének fizikai, adminisztratív és elektronikus biztonsági feltételei is kialakításra kerültek, telephely biztonsági tanúsítványt,
-- c) a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény (a továbbiakban: 2015. évi VII. törvény) hatálya alá tartozó gazdálkodó szervezet esetében telephely biztonsági tanúsítványt vagy egyszerűsített telephely biztonsági tanúsítványt
+- c)
 
 ad ki.
 
