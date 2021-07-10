@@ -912,6 +912,8 @@ előzetesen tájékoztatja.
 
 (3) A központosított illetményszámfejtésre alkalmazott rendszer a költségvetési szervekre, a helyi önkormányzatokra, a nemzetiségi önkormányzatokra, a társulásokra és a térségi fejlesztési tanácsokra vonatkozó, a törzskönyvi nyilvántartásban szereplő adatokat a törzskönyvi nyilvántartásból veszi át.
 
+(4) A központosított illetményszámfejtés igénybevételére az (1) és (2) bekezdés szerinti kötelezett által a központosított illetményszámfejtő rendszerbe neki felróható okból történő valótlan, vagy három hónapot meghaladó késedelemmel történő adatszolgáltatás esetén a kincstár a kötelezettel szemben határozatban a Kormány rendeletében meghatározott mértékű bírságot szabhat ki.
+
 #### 31. Az állami vagyonnal való gazdálkodás sajátos államháztartási szabályai
 
 45. § (1) Az állam nevében hitelt, kölcsönt – a kijelölt tulajdonosi joggyakorló, valamint az Nvt. 8. § (7) bekezdése szerinti meghatalmazott esetén annak kezdeményezésére – az MNV Zrt. nyújthat. Ilyen kölcsön az állam többségi befolyása alatt álló gazdasági társaság részére nyújtható.
@@ -1281,7 +1283,7 @@ vonatkozó adatoknak az e célra rendszeresített honlapon való közzétételé
 
 (3) A kormányzati ellenőrzést végző személy jogosult az adathordozókról fizikai tükörmásolatot készíteni vagy készíttetni, és a tükörmásolat felhasználásával az adathordozón tárolt adatokat átvizsgálni.
 
-65. § (1) A kormányzati ellenőrzési szerv ellenőrzése során az ellenőrzött szerv, szervezet vagy más – az ellenőrzés lefolytatásához szükséges adatok, tények, információk birtokában lévő – személy, szervezet vezetője, alkalmazottja a jogszabályokban meghatározottak szerint adatszolgáltatásra és együttműködésre köteles.
+65. § (1) A kormányzati ellenőrzési szerv ellenőrzése során az ellenőrzött szerv, szervezet vagy más – az ellenőrzés lefolytatásához szükséges adatok, tények, információk birtokában lévő – személy, szervezet vezetője, alkalmazottja a jogszabályokban meghatározottak szerint adatszolgáltatásra és együttműködésre köteles, melynek megszegése esetén az érintett személy eljárási bírsággal sújtható.
 
 (2)
 

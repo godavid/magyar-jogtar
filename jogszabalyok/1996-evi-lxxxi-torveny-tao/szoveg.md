@@ -57,12 +57,11 @@ Az állami feladatok ellátásához szükséges bevételek biztosítása, a vál
 
 2/A. § (1) Belföldi illetőségű adózónak minősül legalább két, a (2) bekezdésben meghatározott személy által létrehozott csoportos társasági adóalany.
 
-(2) A csoportos társasági adóalany tagja (csoporttag) a gazdasági társaság, az egyesülés, az európai részvénytársaság, a szövetkezet, az európai szövetkezet, az egyéni cég, az üzletvezetésének helyére tekintettel belföldi illetőségű adózónak minősülő külföldi személy és belföldi telephelye útján a külföldi vállalkozó lehet, feltéve, hogy
+(2) A csoportos társasági adóalany tagja (a továbbiakban: csoporttag) a gazdasági társaság a nonprofit gazdasági társaság kivételével, az egyesülés, az európai részvénytársaság, a szövetkezet a szociális szövetkezet, a közérdekű nyugdíjas szövetkezet, az iskolaszövetkezet kivételével, az európai szövetkezet, az egyéni cég, az üzletvezetésének helyére tekintettel belföldi illetőségű adózónak minősülő külföldi személy és belföldi telephelye útján a külföldi vállalkozó lehet, ha
 
 - a) a csoporttagok között a (3) bekezdésben meghatározottak szerinti kapcsolat áll fenn,
 - b) a csoporttagok számviteli politikája szerinti mérlegfordulónapja, beszámoló készítésére nem kötelezett adózó esetén az adóév utolsó napja azonos,
-- c) a beszámoló, könyvviteli zárlat összeállítása az összes csoporttagnál egységesen vagy a számviteli törvény III. Fejezete, vagy az IFRS-ek szerint történik, és
-- d)
+- c) a beszámoló, a könyvviteli zárlat összeállítása az összes csoporttagnál egységesen vagy a számviteli törvény III. Fejezete, vagy az IFRS-ek szerint történik.
 
 (3) A csoportos társasági adóalany tagjai olyan adózók lehetnek, amelyek között
 
@@ -1305,7 +1304,7 @@ kapcsolatban az adóévi adózás előtti eredmény terhére elszámolt ráford�
 - a) a hitelszerződés megkötésének évét követő négy éven belül a beruházást nem helyezi üzembe, kivéve, ha az üzembe helyezés elháríthatatlan külső ok miatti megrongálódás következtében maradt el,
 - b) a tárgyi eszközt üzembe helyezésének adóévében vagy az azt követő három évben elidegeníti.
 
-(6)
+(6) Ha az (5) bekezdésben meghatározott adó- és késedelmipótlék-fizetési kötelezettség olyan adózót terhelne, amely csoportos társasági adóalany tagja, akkor az (5) bekezdés szerint megállapított adót, valamint azzal összefüggésben a késedelmi pótlékot az adózó a csoporttagság időtartama alatt csoporttagként, a csoportképviselő útján fizeti meg.
 
 ### Fejlesztési adókedvezmény
 
@@ -2137,6 +2136,8 @@ e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pon
 (98) E törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 7. § (1) bekezdés z) pontját, 7. § (7) bekezdését, 18/C. § (23) bekezdését, 3. számú melléklet B) rész 25. pontját első alkalommal a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény hatálybalépése napját követő ügyletekre kell alkalmazni.
 
 (99) E törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 4. § 54. pontját a 2020-ban kezdődő adóévére az adózó választása szerint alkalmazza.
+
+(100) E törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 2/A. § (2) bekezdése hatálybalépését megelőző napon csoportos társasági adóalanyiságban tagsággal rendelkező nonprofit gazdasági társaság, szociális szövetkezet, közérdekű nyugdíjas szövetkezet és iskolaszövetkezet e minőségétől függetlenül tagságát e törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 2/A. § (2) bekezdése hatálybalépését megelőző napon folyamatban lévő adóéve végéig tarthatja fenn.
 
 29/B. § (1) A tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény (a továbbiakban: Kárrendezési Törvény) alapján a Kárrendezési Alap részére a Kárrendezési Törvény 11. § (1) bekezdése alapján befizetést teljesítő adózó által az adóévben, a Kárrendezési Törvény 11. § (2) bekezdésére figyelemmel megállapított, befizetett összeg (továbbiakban e §-ban: befizetés) csökkenti az adózó által fizetendő társasági adót, a fizetendő pénzügyi szervezetek különadóját a fizetendő pénzügyi tranzakciós illetéket.
 

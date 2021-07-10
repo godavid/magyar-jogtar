@@ -547,7 +547,7 @@ származik.
 - c) a lakástulajdon megszerzése, ha azt a vagyonszerző a lakásvásárlásról szóló adásvételi szerződésben határozott időre, de legalább 5 évre a vételár 7 százalékát meg nem haladó éves bérleti díj ellenében bérbe adja a lakás korábbi magánszemély tulajdonosának, feltéve, hogy a bérlő vagy annak magánszemély örököse számára a vagyonszerző a lakásvásárlásról szóló adásvételi szerződés hatályának beálltától számított 5 éven belül gyakorolható visszavásárlási jogot létesít, legfeljebb a bérbeadó által fizetett vételár 105 százalékának megfelelő vételáron;
 - d) az ingatlan forgalmi értékéből az épület forgalmi értékének megfelelő rész, ha a telek tulajdonosával kötött megállapodásból és az építés költségeit, körülményeit tanúsító egyéb okiratokból egyértelműen kitűnik, hogy az épületet a vagyonszerző hozta létre;
 - e) a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat megszerzése, és annak megszüntetésével bekövetkező vagyonszerzés.
-- f) lakás tulajdonjogának, lakás tulajdoni hányadának az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet (a továbbiakban: Korm. rendelet1.) 2020. október 1-jén hatályos 1. § a) pontja, vagy a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet (a továbbiakban: Korm. rendelet2.) 2020. október 1-jén hatályos 1. § (2) bekezdése szerinti családi otthonteremtési kedvezmény (a továbbiakban együtt: családi otthonteremtési kedvezmény) felhasználásával történő megvásárlása.
+- f) lakás tulajdonjogának, lakás tulajdoni hányadának az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet 2020. október 1-jén hatályos 1. § a) pontja, vagy a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet 2020. október 1-jén hatályos 1. § (2) bekezdése szerinti családi otthonteremtési kedvezmény (a továbbiakban együtt: családi otthonteremtési kedvezmény) felhasználásával történő megvásárlása.
 
 (2a) Az (1) bekezdés a) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül megkeresi az illetékes építésügyi hatóságot a lakóház felépítésének igazolása céljából. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 
@@ -564,14 +564,9 @@ származik.
 
 (2f) Ha a magánszemély vagyonszerző a természetes személyek adósságrendezéséről szóló törvény rendelkezései szerint bíróságon kívüli vagy bírósági adósságrendezést kezdeményezett, és az említett eljárások időszaka alatt a lakóház építésére alkalmas telektulajdont értékesítik, akkor a 87. § (2) bekezdése nem alkalmazható, továbbá – ha a telektulajdont megszerző vevő nyilatkozik arról, hogy a megszerzett telek után az (1) bekezdés a) pontja szerinti mentességet igénybe kívánja venni vagy a telektulajdont megszerzőnek a telekre elővásárlási joga van – az említett eljárások alá vont magánszemélynek a (2a) bekezdés szerint felfüggesztett illetéket nem kell megfizetni.
 
-(2g) Ha az (1a) bekezdés f) pontja szerinti illetékmentességre a vagyonszerző kizárólag a Korm. rendelet1. 2020. október 1-jén hatályos 6. alcíme vagy a Korm. rendelet2. 2020. október 1-jén hatályos 8. alcíme szerinti megelőlegezett családi otthonteremtési kedvezmény igénybevétele alapján vált jogosulttá, és
+(2g) Ha a vagyonszerző az (1a) bekezdés f) pontja szerinti illetékmentességre jogosító családi otthonteremtési kedvezmény teljes összegét bármely okból visszafizette, vagy a hatóság annak visszafizetését rendelte el, az állami adóhatóság az erről való tudomásszerzést követően – az (1a) bekezdés f) pontjában foglaltak alkalmazását mellőzve – a lakás illetékkötelezettség keletkezésekor fennálló forgalmi értéke és az illetékkötelezettség keletkezésekor hatályos rendelkezések alapulvételével kiszabja a visszterhes vagyonátruházási illetéket.
 
-- a) a gyermekvállalás az arra vonatkozó határidő lejártáig nem teljesült, vagy
-- b) a családi otthonteremtési kedvezményt a gyermekvállalás teljesítése nélkül a határidő lejártát megelőzően bármely okból visszafizette,
-
-az állami adóhatóság az erről való tudomásszerzést követően – az (1a) bekezdés f) pontjában foglaltak alkalmazását mellőzve – a lakás illetékkötelezettség keletkezésekor fennálló forgalmi értéke és az ekkor hatályos illetékmérték alapulvételével kiszabja a visszterhes vagyonátruházási illetéket.
-
-(2h) Nem kell a (2g) bekezdést alkalmazni, ha a gyermekvállalás teljesítése a családi otthonteremtési kedvezményben részesülő egészségi állapotára tekintettel hiúsult meg.
+(2h) Nem kell a (2g) bekezdést alkalmazni, ha az (1a) bekezdés f) pontja szerinti illetékmentességre jogosító családi otthonteremtési kedvezmény teljes összegének visszafizetése kizárólag a családi otthonteremtési kedvezményben részesülő egészségi állapotára tekintettel meghiúsult gyermekvállalás miatt vált szükségessé.
 
 (3) Ha az (1) bekezdés j) pontjában említett csereingatlan a kisajátítottnál értékesebb, vagy ha a megszerzett ingatlan forgalmi értéke a kártalanítási összeget, illetőleg ennek a vevőre eső arányos részét meghaladja, az illetékmentesség a többletre nem terjed ki.
 
@@ -731,7 +726,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 ### A jogorvoslati eljárás illetékének visszatérítése
 
-32. § (1) A jogorvoslati eljárásban megfizetett valamennyi illetéket az ügyfélnek vissza kell téríteni, ha a közigazgatási hatóság vagy a közigazgatási perben elbírált közigazgatási hatósági döntés vagy intézkedés az ügyfél hátrányára részben vagy egészben jogszabálysértőnek bizonyult.
+32. § (1) A jogorvoslati eljárásban megfizetett valamennyi illetéket az ügyfélnek vissza kell téríteni, ha a közigazgatási hatóság által vagy a közigazgatási perben elbírált közigazgatási hatósági döntés vagy intézkedés az ügyfél hátrányára részben vagy egészben jogszabálysértőnek bizonyult.
 
 (2) A visszatérítést hivatalból, a jogorvoslati eljárást lezáró, vagy arra tekintettel hozott határozatban kell elrendelni és azt a visszatérítés foganatosítása végett – a (3) bekezdésben foglalt kivétellel – az ügyfél lakóhelye, székhelye, illetőleg a bíróság székhelye szerint illetékes állami adóhatóságnak kell megküldeni.
 
@@ -1353,7 +1348,7 @@ közölni. Az ilyen illetékhiány után mulasztási bírság nem szabható ki.
 
 ### Fizetési meghagyás
 
-78. § (1) A kiszabás alapján fizetendő illetékről – ideértve a mulasztási bírságot is – fizetési meghagyást (határozatot) kell kiadni. A fizetési meghagyás tartalmazza a kiszabott illeték összegének megállapításánál figyelembe vett adatokat és az alkalmazott jogszabályokat. Ha a vagyonszerzés az 5. § (1) bekezdés a)–b), h)–l), n)–q) és s)–t) pontja, a 16. § (1) bekezdése, a 17. § (1) bekezdése vagy a 26. § (1) és (1a) bekezdése alapján – ide nem értve a 16. § (1) bekezdés g) pontja, a 17. § (1) bekezdés b) pontja, a 26. § (1) bekezdés a), f), i), l), p), q), r) és y) pontjai, valamint a 26. § (1a) bekezdés a)–d) pontjai szerinti illetékmentes vagyonszerzéseket – mentes az illeték alól, az állami adóhatóság fizetési meghagyás kibocsátása helyett döntését az ügyiratra jegyzi fel. Az állami adóhatóság ügyiratra feljegyzett döntése kizárólag az illetékmentesség alkalmazásának tényét tartalmazza.
+78. § (1) A kiszabás alapján fizetendő illetékről – ideértve a mulasztási bírságot is – fizetési meghagyást (határozatot) kell kiadni. A fizetési meghagyás tartalmazza a kiszabott illeték összegének megállapításánál figyelembe vett adatokat és az alkalmazott jogszabályokat. Ha a vagyonszerzés az 5. § (1) bekezdés a)–b), h)–l), n)–q) és s)–t) pontja, a 16. § (1) bekezdése, a 17. § (1) bekezdése vagy a 26. § (1) és (1a) bekezdése alapján – ide nem értve a 16. § (1) bekezdés g) pontja, a 17. § (1) bekezdés b) pontja, a 26. § (1) bekezdés a), f), i), l), p), q), r) és y) pontjai, valamint a 26. § (1a) bekezdés a)–d) és f) pontjai szerinti illetékmentes vagyonszerzéseket – mentes az illeték alól, az állami adóhatóság fizetési meghagyás kibocsátása helyett döntését az ügyiratra jegyzi fel. Az állami adóhatóság ügyiratra feljegyzett döntése kizárólag az illetékmentesség alkalmazásának tényét tartalmazza.
 
 (2)
 
@@ -1443,7 +1438,7 @@ közölni. Az ilyen illetékhiány után mulasztási bírság nem szabható ki.
 
 naptári évének utolsó napjától számított 5 év elteltével évül el.
 
-(4) Az illeték megállapításához való jog a 26. § (2g) bekezdése szerinti esetben annak a naptári évnek az utolsó napjától számított 5 év elteltével évül el, amely évben a vagyonszerző a családi otthonteremtési kedvezményt – saját elhatározásából – visszafizette vagy a hatóság annak visszafizetését rendelte el.
+(4) Az illeték megállapításához való jog a 26. § (2g) bekezdése szerinti esetben annak a naptári évnek az utolsó napjától számított 5 év elteltével évül el, amely évben a vagyonszerző a családi otthonteremtési kedvezményt visszafizette vagy a hatóság annak visszafizetését rendelte el.
 
 ### Jogkövetkezmények
 
@@ -1647,6 +1642,8 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 
 megkötött adásvételi szerződés alapján történő vagyonszerzésre kell alkalmazni.
 
+99/X. § Az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 26. § (2g)–(2h) bekezdést és módosított 86. § (4) bekezdést azokban az illetékügyben kell alkalmazni, melyekben az illetékkötelezettség e rendelkezések hatálybalépését követően keletkezik.
+
 ### Felhatalmazás
 
 100. § (1) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy rendelettel állapítsa meg
@@ -1693,6 +1690,7 @@ megkötött adásvételi szerződés alapján történő vagyonszerzésre kell a
   - oc) több köztes vállalkozás esetén a köztes vállalkozásonként megállapított közvetett részesedések arányait össze kell adni,
   - od) ha a megszerzett gazdálkodó szervezet és az ingatlantulajdonnal rendelkező gazdálkodó szervezet között több gazdálkodó szervezetből álló tulajdonosi láncolat (köztes tulajdonosi láncolat) áll, az e szervezeteket összekötő tulajdoni részesedések szorzatát – több köztes tulajdonosi láncolat esetén a láncolatonként megállapított szorzatok összegét – kell a közvetett részesedés arányának tekinteni,
   - oe) a részesedés arányának meghatározásakor a közvetlen és közvetett részesedéseket együttesen kell figyelembe venni;
+  - of) az eszközök, ingatlan(ok) mérleg szerinti értékének számítása során az oa) alpont szerinti mérlegben kimutatott eszközök, ingatlan(ok) mérleg szerinti értékét növelni kell a mérleg fordulónapja és az illetékkötelezettség keletkezése közötti időszakban megszerzett, az oa) alpont szerinti mérlegben nem szereplő eszközöknek (ide nem értve a pénzeszközöket, pénzköveteléseket, aktív időbeli elhatárolásokat és kölcsönöket), ingatlan(ok)nak a megszerzett társaság könyveiben az illetékkötelezettség keletkezésekor szereplő könyv szerinti értékével és csökkenteni kell az ugyanezen időszakban elidegenített, megsemmisült eszközök (ide nem értve a pénzeszközöket, pénzköveteléseket, aktív időbeli elhatárolásokat és kölcsönöket), ingatlan(ok) könyv szerinti értékével, feltéve, hogy e korrekciók együttes hatása az e pont szerinti minősítést befolyásolja;
 - p) használatbavételi engedély: az épített környezet alakításáról és védelméről szóló törvény szerinti használatbavételi engedély és az egyszerű bejelentéshez kötött épület felépítésének megtörténtét tanúsító hatósági bizonyítvány;
 - r) természeti katasztrófa: az ár- és belvíz, a földcsuszamlás, valamint a földrengés;
 - s) lakóépület: kizárólag vagy túlnyomó részben lakást tartalmazó épület;
@@ -1777,13 +1775,13 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 | II. Úti okmányok kiállításával kapcsolatos különleges eljárások |  |  |
 | 1. | a második magánútlevél kiállítása | 15 000 Ft |
 | 2. | a második magánútlevél kiállítása, ha a) a kérelem benyújtásakor a magánszemély a 18. életévét még nem töltötte be b) az okmány érvényességi ideje 1 év | 5 000 Ft |
-| 3. | a magánútlevél, valamint a második magánútlevél a) soron kívüli, b) sürgősségi, c) azonnali kiállítása | az I/1–2. pontban meghatározott mértékű illeték és a külön jogszabályban meghatározott igazgatási szolgáltatási pótdíj |
+| 3. | a magánútlevél, valamint a második magánútlevél a) soron kívüli, b) sürgősségi, c) azonnali kiállítása | az I. pontban és az 1–2. alpontban meghatározott mértékű illeték és a külön jogszabályban meghatározott igazgatási szolgáltatási pótdíj |
 | 4. | a pótolt úti okmány kiállítása | 5 500 Ft |
 | 5. | a pótolt úti okmány kiállítása, ha az úti okmány érvényességi ideje 10 év | 8 500 Ft |
 | 6. | a pótolt úti okmány kiállítása, ha a) a kérelem benyújtásakor a magánszemély a 18. életévét még nem töltötte be, b) az okmány érvényességi ideje 1 év | 2 500 Ft |
 | 7. | a pótolt úti okmány kiállítása, ha a kérelem benyújtásának időpontjában két kiskorú gyermeket háztartásában nevelő törvényes képviselő kéri a kiskorú gyermek magánútlevelének pótlását | 1 000 Ft |
 | 8. | a pótolt úti okmány kiállítása, ha a kérelem benyújtásának időpontjában három vagy több kiskorú gyermeket háztartásában nevelő törvényes képviselő kéri a kiskorú gyermek magánútlevelének pótlását | 400 Ft |
-| 9. | a magánútlevél, valamint a második magánútlevél soron kívüli, sürgősségi és azonnali pótlása | a II/4–8. pontban meghatározott mértékű illeték és a külön jogszabályban meghatározott igazgatási szolgáltatási pótdíj |
+| 9. | a magánútlevél, valamint a második magánútlevél soron kívüli, sürgősségi és azonnali pótlása | a 4–8. pontban meghatározott mértékű illeték és a külön jogszabályban meghatározott igazgatási szolgáltatási pótdíj |
 
 #### II. A gépjárművezetői engedély, a forgalmi engedély és a törzskönyv kiállításával kapcsolatos eljárás illetéke
 
