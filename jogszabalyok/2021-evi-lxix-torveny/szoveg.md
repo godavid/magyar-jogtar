@@ -24,7 +24,7 @@ egyes adótörvények módosításáról
 
 9. § Az Szja tv.
 
-- a)
+- a) 7. § (1) bekezdés d) pontjában a „nyújtja” szövegrész helyébe a „nyújtja, azzal, hogy a rendeltetésszerű joggyakorlás sérelmének minősül különösen az, ha az egyesület, a köztestület magánszemély tagja egy jogi személy bármely vagyoni hozzájárulására tekintettel válik jogosulttá az egyesület, a köztestület által nyújtott szolgáltatásra” szöveg,
 - b)
 - c)
 - d)
@@ -46,7 +46,15 @@ lép.
 
 11. §
 
-12. §
+12. § A Tao. törvény 2/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A csoportos társasági adóalany tagja (a továbbiakban: csoporttag) a gazdasági társaság a nonprofit gazdasági társaság kivételével, az egyesülés, az európai részvénytársaság, a szövetkezet a szociális szövetkezet, a közérdekű nyugdíjas szövetkezet, az iskolaszövetkezet kivételével, az európai szövetkezet, az egyéni cég, az üzletvezetésének helyére tekintettel belföldi illetőségű adózónak minősülő külföldi személy és belföldi telephelye útján a külföldi vállalkozó lehet, ha
+
+a) a csoporttagok között a (3) bekezdésben meghatározottak szerinti kapcsolat áll fenn,
+
+b) a csoporttagok számviteli politikája szerinti mérlegfordulónapja, beszámoló készítésére nem kötelezett adózó esetén az adóév utolsó napja azonos,
+
+c) a beszámoló, a könyvviteli zárlat összeállítása az összes csoporttagnál egységesen vagy a számviteli törvény III. Fejezete, vagy az IFRS-ek szerint történik.”
 
 13. § (1)
 
@@ -66,13 +74,17 @@ lép.
 
 18. §
 
-19. §
+19. § A Tao. törvény 22/A. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) Ha az (5) bekezdésben meghatározott adó- és késedelmipótlék-fizetési kötelezettség olyan adózót terhelne, amely csoportos társasági adóalany tagja, akkor az (5) bekezdés szerint megállapított adót, valamint azzal összefüggésben a késedelmi pótlékot az adózó a csoporttagság időtartama alatt csoporttagként, a csoportképviselő útján fizeti meg.”
 
 20. § (1)
 
 (2)
 
-(3)
+(3) A Tao. törvény 29/A. §-a a következő (100) bekezdéssel egészül ki:
+
+„(100) E törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 2/A. § (2) bekezdése hatálybalépését megelőző napon csoportos társasági adóalanyiságban tagsággal rendelkező nonprofit gazdasági társaság, szociális szövetkezet, közérdekű nyugdíjas szövetkezet és iskolaszövetkezet e minőségétől függetlenül tagságát e törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 2/A. § (2) bekezdése hatálybalépését megelőző napon folyamatban lévő adóéve végéig tarthatja fenn.”
 
 21. §
 
@@ -302,19 +314,41 @@ lép.
 
 74. §
 
-75. §
+75. § Az Itv. 26. § (2g)–(2h) bekezdése helyébe a következő rendelkezés lép:
 
-76. §
+„(2g) Ha a vagyonszerző az (1a) bekezdés f) pontja szerinti illetékmentességre jogosító családi otthonteremtési kedvezmény teljes összegét bármely okból visszafizette, vagy a hatóság annak visszafizetését rendelte el, az állami adóhatóság az erről való tudomásszerzést követően – az (1a) bekezdés f) pontjában foglaltak alkalmazását mellőzve – a lakás illetékkötelezettség keletkezésekor fennálló forgalmi értéke és az illetékkötelezettség keletkezésekor hatályos rendelkezések alapulvételével kiszabja a visszterhes vagyonátruházási illetéket.
 
-77. § (1)
+(2h) Nem kell a (2g) bekezdést alkalmazni, ha az (1a) bekezdés f) pontja szerinti illetékmentességre jogosító családi otthonteremtési kedvezmény teljes összegének visszafizetése kizárólag a családi otthonteremtési kedvezményben részesülő egészségi állapotára tekintettel meghiúsult gyermekvállalás miatt vált szükségessé.”
+
+76. § Az Itv. Hatálybaléptető és átmeneti rendelkezések alcíme a következő 99/X. §-sal egészül ki:
+
+„99/X. § Az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 26. § (2g)–(2h) bekezdést és módosított 86. § (4) bekezdést azokban az illetékügyben kell alkalmazni, melyekben az illetékkötelezettség e rendelkezések hatálybalépését követően keletkezik.”
+
+77. § (1) Az Itv. 102. § (1) bekezdés o) pontja a következő of) alponttal egészül ki:
+
+[E törvény alkalmazásában
+
+belföldi ingatlanvagyonnal rendelkező társaság: olyan gazdálkodó szervezet (megszerzett gazdálkodó szervezet), melynek a mérlegében kimutatott eszközök (ide nem értve a pénzeszközöket, pénzköveteléseket, aktív időbeli elhatárolásokat és kölcsönöket) mérleg szerinti értékének összegéből a belföldön fekvő ingatlan(ok), mérleg szerinti értéke több mint 75 százalék, vagy olyan gazdálkodó szervezetben (ingatlantulajdonnal rendelkező gazdálkodó szervezetben) rendelkezik legalább 75 százalékos – közvetett, vagy közvetlen – részesedéssel, melynek a mérlegében kimutatott eszközök (ide nem értve a pénzeszközöket, pénzköveteléseket, aktív időbeli elhatárolásokat és kölcsönöket) mérleg szerinti értékének összegéből a belföldön fekvő ingatlan(ok) mérleg szerinti értéke több mint 75 százalék azzal, hogy]
+
+„of) az eszközök, ingatlan(ok) mérleg szerinti értékének számítása során az oa) alpont szerinti mérlegben kimutatott eszközök, ingatlan(ok) mérleg szerinti értékét növelni kell a mérleg fordulónapja és az illetékkötelezettség keletkezése közötti időszakban megszerzett, az oa) alpont szerinti mérlegben nem szereplő eszközöknek (ide nem értve a pénzeszközöket, pénzköveteléseket, aktív időbeli elhatárolásokat és kölcsönöket), ingatlan(ok)nak a megszerzett társaság könyveiben az illetékkötelezettség keletkezésekor szereplő könyv szerinti értékével és csökkenteni kell az ugyanezen időszakban elidegenített, megsemmisült eszközök (ide nem értve a pénzeszközöket, pénzköveteléseket, aktív időbeli elhatárolásokat és kölcsönöket), ingatlan(ok) könyv szerinti értékével, feltéve, hogy e korrekciók együttes hatása az e pont szerinti minősítést befolyásolja;”
 
 (2)
 
-78. §
+78. § Az Itv. 1. melléklete az 5. melléklet szerint módosul.
 
-79. §
+79. § Az Itv.
 
-80. §
+- 1. 32. § (1) bekezdésében a „közigazgatási hatóság vagy a közigazgatási perben” szövegrész helyébe a „közigazgatási hatóság által vagy a közigazgatási perben”,
+- 2. 78. § (1) bekezdésében a „26. § (1a) bekezdés a)–d) pontjai” szövegrész helyébe a „26. § (1a) bekezdés a)–d) és f) pontjai”
+
+szöveg lép.
+
+80. § Hatályát veszti az Itv.
+
+- 1. 26. § (1a) bekezdés f) pontjában az „(a továbbiakban: Korm. rendelet1.)” és az „(a továbbiakban: Korm. rendelet2.)”,
+- 2. 86. § (4) bekezdésében a „– saját elhatározásából –”
+
+szövegrész.
 
 ### VI. Fejezet — A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIT MEGILLETŐ EGYES BEFIZETÉSEKET ÉRINTŐ MÓDOSÍTÁSOK
 
@@ -430,7 +464,11 @@ lép.
 
 120. §
 
-121. §
+121. § Az Avt. 102. §-a helyébe a következő rendelkezés lép:
+
+„102. § (1) Ha az adóhatóság az adóst megillető jövedelmet, a hitelintézetnél kezelt összeget, illetve követelést vonja végrehajtás alá, és a munkáltató, hitelintézet, valamint más személy az adóhatóság felhívása ellenére a követelés fennállásáról nem nyilatkozik, illetve a levonást, átutalást, megfizetést elmulasztja, vagy nem a jogszabályban előírtaknak megfelelően teljesíti, az adóhatóság határozattal kötelezi a követelés, illetve a levonni, átutalni, megfizetni elmulasztott összeg erejéig az adótartozás megfizetésére. A határozatban foglalt teljesítési határidő elteltével az adóhatóság a végrehajtási szabályok szerint intézkedik a tartozás behajtása iránt.
+
+(2) Ha az adóhatóság az adóst megillető, hitelintézetnél kezelt összeg zárolását rendeli el, és a hitelintézet a zárolást elmulasztja, vagy nem a jogszabályban előírtaknak megfelelően teljesíti, az adóhatóság a hitelintézettel szemben a zárolni elmulasztott vagy nem jogszabályban előírtaknak megfelelően zárolt összeg ötven százalékáig, de legfeljebb tíz millió forintig terjedő eljárási bírságot szabhat ki.”
 
 122. §
 
@@ -649,6 +687,14 @@ lép.
 ### 4. melléklet a 2021. évi LXIX. törvényhez
 
 ### 5. melléklet a 2021. évi LXIX. törvényhez
+
+Az Itv.
+
+1. 1. melléklet I. alcím II. pont 3. alpontjában az „I/1–2. pontban” szövegrész helyébe az „I. pontban és az 1–2. alpontban”,
+
+2. 1. melléklet I. alcím II. pont 9. alpontjában a „II/4–8. pontban” szövegrész helyébe a „4–8. pontban”
+
+szöveg lép.
 
 ### 6. melléklet a 2021. évi LXIX. törvényhez
 
