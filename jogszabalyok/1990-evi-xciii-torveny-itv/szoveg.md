@@ -1136,7 +1136,13 @@ esetében.
 
 (4) Az e §-ban nem szabályozott kérdésekben a bírósági eljárási illetékre vonatkozó szabályok az irányadók.
 
-66. §
+66. § (1) A cégbíróság által lefolytatott kényszertörlési eljárásért 250 000 Ft felügyeleti illetéket kell fizetni. A felügyeleti illetéket a kényszertörlési eljárás kezdő napján a cégjegyzékbe bejegyzett tagok és vezető tisztségviselő egyetemlegesen viselik.
+
+(2) Ha a kényszertörlési eljárást a cégbíróság a cég kérelmére megszünteti, a kényszertörlési eljárásért – az (1) bekezdéstől eltérően – a céget 50 000 Ft felügyeleti illeték terheli, amelyet az eljárásmegszüntetési kérelem benyújtásával egyidejűleg kell megfizetni.
+
+(3) A felügyeleti illeték megfizetéséről, illetve viseléséről a cégbíróság a kényszertörlési eljárás befejezéséről szóló végzésben rendelkezik.
+
+(4) Az e §-ban nem szabályozott kérdésekben a bírósági eljárási illetékre vonatkozó szabályok az irányadók.
 
 ### VII. Fejezet — AZ IGAZGATÁSI ÉS BÍRÓSÁGI SZOLGÁLTATÁSOK DÍJA
 
@@ -1643,6 +1649,8 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 megkötött adásvételi szerződés alapján történő vagyonszerzésre kell alkalmazni.
 
 99/X. § Az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 26. § (2g)–(2h) bekezdést és módosított 86. § (4) bekezdést azokban az illetékügyben kell alkalmazni, melyekben az illetékkötelezettség e rendelkezések hatálybalépését követően keletkezik.
+
+99/Z. § A kényszertörlési eljárásra és a felszámolási eljárásra vonatkozó és kapcsolódó egyes törvények módosításáról szóló 2021. évi LXX. törvénnyel (a továbbiakban: 2021. évi LXX. tv.) megállapított 66. §-t a hatálybalépése napján és az azt követően indult kényszertörlési eljárásokban kell alkalmazni azzal, hogy a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény 157. § (2)–(6) bekezdésének hatálya alá tartozó cégek esetében az illeték kiszabására nem kerül sor akkor sem, ha a céggel szembeni kényszertörlési eljárás a 2021. évi LXX. tv. hatálybalépése napján vagy azt követően indul.
 
 ### Felhatalmazás
 
