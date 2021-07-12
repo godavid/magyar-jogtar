@@ -365,7 +365,7 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 | 191. | GÖDÖLLŐ | 4969/8 | 1/1 | kivett lakóház, udvar |
 | 192. | GÖDÖLLŐ | 4969/9 | 1/1 | kivett beépítetlen terület |
 | 193. | GÖDÖLLŐ | 5395/3 | 1/1 | kivett munkásszálló |
-| 194. | GÖDÖLLŐ | 8044/2 | 1/1 | kivett üzem |
+| 193a. | GÖDÖLLŐ | 5880 | 1/1 | kivett ipartelep |
 | 195. | GÖDÖLLŐ | 8044/2/Y | 1/1 | egyéb épület |
 | 196. | GÖDÖLLŐ | 8044/2/A | 1/1 | egyéb épület |
 | 197. | GÖDÖLLŐ | 8044/2/B | 1/1 | irodaház |
