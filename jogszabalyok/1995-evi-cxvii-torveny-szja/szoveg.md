@@ -404,6 +404,8 @@ alapján illeti meg.
 
 (1e) Nem szerez bevételt a magánszemély a javadalmazási politika keretében megszerezhető pénzügyi eszközök kezelését szolgáló MRP szervezet résztvevőjeként az MRP szervezet tagi részesedésének és a szervezet által kezelt pénzügyi eszköz megszerzésével összefüggő kedvezmény révén.
 
+(1f) Nem szerez bevételt a magánszemély a különleges MRP (a továbbiakban: KMRP) szervezet résztvevőjeként a részvételi jogosultság megszerzése révén.
+
 (2) Nem számít költségnek az a kiadás, amely alacsony adókulcsú államban székhellyel, állandó lakóhellyel rendelkező személy részére juttatott ellenérték következtében merült fel, kivéve, ha a magánszemély bizonyítja, hogy a kiadás a bevételszerző tevékenységgel közvetlen összefüggésben, kizárólag a bevétel megszerzése, a tevékenység folytatása érdekében merült fel. Szintén nem számít költségnek az a kiadás, amely
 
 - a) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvényben meghatározott vesztegetés, befolyással üzérkedés, vesztegetés nemzetközi kapcsolatokban vagy befolyással üzérkedés nemzetközi kapcsolatokban,
@@ -1969,6 +1971,7 @@ a (3)–(9) bekezdés, a 7. számú melléklet, valamint az adózás rendjéről
   - ae) a bizalmi vagyonkezelési szerződés alapján a kezelt vagyon hozamainak terhére a vagyonkezelő által a kedvezményezett vagy a vagyonrendelő magánszemély részére juttatott vagyoni érték;
   - af) a kisadózó vállalkozás kisadózóként be nem jelentett tagja részére a társaság nyereségéből való részesedésként kifizetett összeg;
   - ag) a közhasznúnak nem minősülő alapítvány által az alapítványi vagyon hozamainak terhére a kedvezményezett magánszemély részére juttatott vagyoni érték;
+  - ah) a KMRP résztvevője részére a KMRP által megszerzett vagyonelemek hozamából származó kifizetés;
 - b) osztalékelőleg az adóévi várható osztalékra tekintettel az adóévben kapott bevétel.
 
 (2)
@@ -1988,7 +1991,7 @@ a (3)–(9) bekezdés, a 7. számú melléklet, valamint az adózás rendjéről
 
 67. § (1) Árfolyamnyereségből származó jövedelem az értékpapír átruházása (ide nem értve a kölcsönbe adást) ellenében megszerzett bevételnek az a része, amely meghaladja az értékpapír megszerzésére fordított érték és az értékpapírhoz kapcsolódó járulékos költségek együttes összegét. Nem minősül árfolyamnyereségből származó jövedelemnek az említett különbözetből az a rész, amelyet e törvény előírásai szerint más jövedelem megállapításánál kell figyelembe venni.
 
-(2)
+(2) Árfolyamnyereségből származó jövedelemnek minősül a KMRP szervezetben való részvételi jogosultság ellenérték fejében történő értékesítéséből származó bevételnek az a része, amely meghaladja a részvételi jogosultsággal összefüggésben teljesített kiadás összegét.
 
 (3) A bevételből a jövedelmet az értékpapír átruházásáról szóló szerződés keltének napjára kell megállapítani. Ha a magánszemély az átruházott értékpapír tulajdonjogát értékpapír kölcsönbe vétele útján szerezte meg, akkor a jövedelmet
 
@@ -2162,6 +2165,8 @@ azzal, hogy a szerződés szerint keletkező hozam adókötelezettségére e § 
 (5) Az MRP szervezet megszűnése esetén a részt vevő magánszemély által a szervezet vagyonából megszerzett bevételnek az a része, amely meghaladja a magánszemély részére még járó, de a tulajdonába korábban nem került, a szervezet analitikájában a számvitelről szóló törvény felhatalmazása alapján kiadott kormányrendelet szerint elkülönítetten, a megszerzett részvények, üzletrészek között kimutatott értékpapírok (ide nem értve a visszavásárolt vagyonrésznek minősülő értékpapírokat) együttes könyv szerinti értékét, a magánszemély jövedelmének minősül. A bevételt és az értékpapírok könyv szerinti értékét a szervezet utolsó üzleti évéről elkészített beszámolót alátámasztó nyilvántartások szerint kell megállapítani. Az MRP szervezet az adózás rendjéről szóló törvényben az adóbevallás benyújtására előírt határidőig résztvevőnként adatot szolgáltat az állami adó- és vámhatóság részére a jövedelem megállapításakor a bevétel csökkentéseként elszámolt értékpapírok együttes könyv szerinti értékéről.
 
 (6) A javadalmazási politika keretében megszerezhető pénzügyi eszközök kezelését szolgáló MRP szervezet vagyonából a résztvevő által tagi részesedése bevonása következtében, arra tekintettel megszerzett bevétel a résztvevő jövedelmének minősül. Ha az MRP alapjául szolgáló javadalmazási politika arról rendelkezett, hogy a bevont tagi részesedéshez kapcsolódóan az MRP szervezet által vagyoni hozzájárulásként átvett pénzügyi eszközök ellenérték fejében illetik meg a résztvevőt, akkor a jövedelem megállapításánál (legfeljebb a bevétel összegéig) a résztvevő bevételét csökkentő tételként kell számításba venni az általa a pénzügyi eszköz ellenértékeként a tagi részesedése bevonásáig megfizetett összeget. Ha azonban a résztvevőt terhelő ellenérték teljesítése úgy történik, hogy az ellenértéket az MRP szervezet levonja a résztvevőt tagi részesedése bevonására tekintettel megillető igény összegéből, akkor az így levont összeget sem a résztvevő által megszerzett bevételként, sem az általa megfizetett ellenértékként nem lehet számításba venni. A résztvevő halála esetén örököse, vagy az általa a tagi részesedés kedvezményezettjeként megjelölt magánszemély a vállalkozásból kivont jövedelem megállapításakor a résztvevővel esik egy tekintet alá.
+
+(6a) Vállalkozásból kivont jövedelemnek minősül a KMRP szervezet vagyona felosztása során a résztvevő által pénzben megszerzett bevétel csökkentve a résztvevőként teljesített befizetés (ide nem értve a KMRP szervezet által eladásra kínált vagyonrész megszerzésére fordított összeget) összegének arányos – a pénzbeli formában megszerzett bevételnek a vagyonfelosztáskor megszerzett összes bevétel arányában megállapított – részével.
 
 (7) Ha az (1)–(3) és (5) bekezdés rendelkezései szerint a bevétel megállapításánál irányadó érték nem éri el az alapjául szolgáló eszköznek a jövedelemszerzés időpontjára vonatkozó szokásos piaci értékét, a jövedelem meghatározásakor a szokásos piaci értéket kell bevételnek tekinteni.
 
@@ -2416,6 +2421,7 @@ révén szerezte;
 - i) az értékpapírt a javadalmazási politika keretében megszerezhető pénzügyi eszközök kezelését szolgáló MRP szervezet résztvevőjeként szerezte; az MRP szervezet résztvevőnként, az adóévet követő év január 31-ig adatot szolgáltat az állami adó- és vámhatóság részére a résztvevőnek a tagi részesedése bevonása következtében, arra tekintettel átadott összes részvénynek az átadásuk napjára megállapított együttes szokásos piaci értékéről, valamint – ha az MRP alapjául szolgáló javadalmazási politika az átadott részvény ellenértékének megfizetéséről rendelkezett – a részvények ellenértékének a résztvevő által már megfizetett összegéről;
 - j) az értékpapírt a társaság által ki nem fizetett és a tagok törzsbetétjére az osztalékfizetés szabályai szerint elszámolt nyereségnek a még be nem fizetett pénzbeli vagyoni hozzájárulás (a jegyzett, de még be nem fizetett tőke feltöltése) teljesítéseként szerezte meg;
 - k) a szövetkezeti formában működő szövetkezeti hitelintézet tagjaként a tulajdonában álló részjegynek – a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény rendelkezései alapján Holding Szövetkezetnek minősülő – szövetkezet részére történő átruházása ellenében részjegyet szerez a szövetkezetben.
+- l) az értékpapírt a KMRP szervezet résztvevőjeként szerezte; a KMRP szervezet résztvevőnként, az adóévet követő év január 31-ig adatot szolgáltat az állami adó- és vámhatóság részére a résztvevőnek a vagyon felosztása során átadott összes vagyonrésznek az átadásuk napjára megállapított együttes szokásos piaci értékéről, valamint a vagyonrészek megszerzése érdekében a résztvevő által teljesített összegéről.
 
 (3) A (2) bekezdés alkalmazásában társas vállalkozás az a külföldi székhelyű jogi személy és egyéb szervezet is, amely a székhelye szerinti államban (kivéve az alacsony adókulcsú államot) a társasági adónak megfelelő adó alanya.
 

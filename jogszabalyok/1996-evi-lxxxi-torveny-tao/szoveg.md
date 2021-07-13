@@ -2793,6 +2793,8 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 25. a közfeladatot ellátó közérdekű vagyonkezelő alapítványnak alapításkor vagy csatlakozáskor rendelt vagyon átadása kapcsán az adózás előtti eredmény terhére elszámolt összeg, továbbá visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ideértve ha a közfeladatot ellátó közérdekű alapítvány részére a vagyont, juttatást, átadást, szolgáltatást nem az alapító, csatlakozó hanem harmadik személy juttatja és harmadik személy juttatását az alapító, csatlakozó sajátjának ismeri el;
 
+26. a társaságnál a Különleges Munkavállalói Résztulajdonosi Program szervezet vagy Különleges Munkavállalói Résztulajdonosi Program szervezetet kezelő vagyonkezelő alapítvány részére a rendeltetésszerű joggyakorlás elvének betartásával keletkezett finanszírozási és működési költségekre, ráfordításokra visszafizetési kötelezettség nélkül adott támogatás, juttatás, vagyoni hozzájárulás adóévi adózás előtti eredményben elszámolt összege;
+
 ### 4. számú melléklet az 1996. évi LXXXI. törvényhez
 
 ### 5. számú melléklet az 1996. évi LXXXI. törvényhez
