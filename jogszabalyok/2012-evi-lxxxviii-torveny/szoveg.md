@@ -24,36 +24,45 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 2. § E törvény alkalmazásában:
 
 - 1. biztonságos termék: minden olyan termék, amely a szokásos vagy ésszerűen előrelátható használati feltételek mellett nem jelent veszélyt, vagy kizárólag a termék használatával összeegyeztethető, elfogadhatónak tekinthető, és a személyek biztonsága és egészsége magas szintű védelmének megfelelő legkisebb veszélyt jelenti,
-- 2. CE megfelelőségi jelölés: a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK Rendelet) 2. cikk 20. pontjában meghatározott jelölés,
+- 2. CE-jelölés: a termékek forgalmazása tekintetében az akkreditálás előírásainak megállapításáról és a 339/93 EGK rendelet hatályon kívül helyezéséről szóló 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK Rendelet) 2. cikk 20. pontjában meghatározott jelölés,
 - 3. felhasználó: az önálló foglalkozási és gazdasági tevékenységi körébe eső célok érdekében eljáró személy, aki terméket vesz, rendel, kap, használ, igénybe vesz, vagy a termékkel kapcsolatos kereskedelmi kommunikáció, ajánlat címzettje,
 - 4. fogyasztó: a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 2. § a) pontjában meghatározott fogalom, valamint az, akinek – önálló foglalkozása és gazdasági tevékenysége körén kívül – fogyasztás vagy használat céljából a terméket forgalmazzák,
-- 5. forgalmazás: a 765/2008/EK Rendelet 2. cikk 1. pontjában meghatározott fogalom,
-- 6. forgalmazó: a 765/2008/EK Rendelet 2. cikk 6. pontjában meghatározott természetes vagy jogi személy, valamint a jogi személyiséggel nem rendelkező gazdasági társaság, ideértve az értékesítés, fogyasztás vagy használat céljára akár ingyenesen, akár ellenérték fejében rendelkezésre bocsátó természetes vagy jogi személyt, valamint a jogi személyiséggel nem rendelkező gazdasági társaságot,
-- 7. forgalomba hozatal: a 765/2008/EK Rendelet 2. cikk 2. pontjában meghatározott fogalom,
-- 8. forgalomból való kivonás: a 765/2008/EK Rendelet 2. cikk 15. pontjában meghatározott intézkedés,
-- 9. forgalomból való visszahívás: a 765/2008/EK Rendelet 2. cikk 14. pontjában meghatározott intézkedés,
-- 10. gazdasági szereplő: a 765/2008/EK Rendelet 2. cikk 7. pontjában meghatározott fogalom,
-- 11. gyártó: a 765/2008/EK Rendelet 2. cikk 3. pontjában meghatározott fogalom,
+- 5. forgalmazás: a piacfelügyeletről és a termékek megfelelőségéről, valamint a 2004/42/EK irányelv, továbbá a 765/2008/EK és a 305/2011/EU rendelet módosításáról szóló 2019. június 20-i (EU) 2019/1020 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2019/1020 Rendelet] 3. cikk 1. pontjában meghatározott fogalom,
+- 6. forgalmazó: az (EU) 2019/1020 Rendelet 3. cikk 10. pontjában meghatározott fogalom,
+- 7. forgalomba hozatal: az (EU) 2019/1020 Rendelet 3. cikk 2. pontjában meghatározott fogalom,
+- 8. forgalomból történő kivonás: az (EU) 2019/1020 Rendelet 3. cikk 23. pontjában meghatározott intézkedés,
+- 9. forgalomból való visszahívás: az (EU) 2019/1020 Rendelet 3. cikk 22. pontjában meghatározott intézkedés,
+- 10. gazdasági szereplő: az (EU) 2019/1020 Rendelet 3. cikk 13. pontjában meghatározott fogalom,
+- 11. gyártó: az (EU) 2019/1020 Rendelet 3. cikk 8. pontjában meghatározott fogalom,
 - 12. harmonizált szabvány: a 765/2008/EK Rendelet 2. cikk 9. pontjában meghatározott szabvány, amelynek hivatkozását az Európai Unió Hivatalos Lapjában közzéteszik,
 - 13. használati és kezelési útmutató: maradandó formában a fogyasztó vagy a felhasználó számára a gyártó által rendelkezésre bocsátott tájékoztatás a termék rendeltetésszerű és biztonságos használatának, felhasználásának, eltarthatóságának és kezelésének módjáról,
 - 14. honosított harmonizált szabvány: a nemzeti szabványként közzétett harmonizált szabvány,
-- 15. importőr: a 765/2008/EK Rendelet 2. cikk 5. pontjában meghatározott fogalom,
+- 15. importőr: az (EU) 2019/1020 Rendelet 3. cikk 9. pontjában meghatározott fogalom,
 - 16. kereskedelmi kommunikáció: az Fgytv. 2. § q) pontjában meghatározott fogalom,
 - 17. Közösségi Gyors Tájékoztatási Rendszer: az Európai Bizottság veszélyes termékek bejelentésére létrehozott információs rendszere,
 - 18. Központi Piacfelügyeleti Információs Rendszer: a piacfelügyeleti hatóságok által végzett piacfelügyeleti ellenőrzéssel kapcsolatos adatok és beszerzett dokumentumok feldolgozására és nyilvántartására szolgáló adatbázis,
 - 19. megfelelőséget igazoló dokumentum: a megfelelőségértékelési eljárás lefolytatását igazoló dokumentumok,
 - 20. megfelelőségértékelés: a 765/2008/EK Rendelet 2. cikk 12. pontjában meghatározott eljárás,
 - 21. megfelelőségértékelő szervezet: a 765/2008/EK Rendelet 2. cikk 13. pontjában meghatározott szervezet,
-- 22. meghatalmazott képviselő: a 765/2008/EK Rendelet 2. cikk 4. pontjában meghatározott fogalom,
+- 22. meghatalmazott képviselő: az (EU) 2019/1020 Rendelet 3. cikk 12. pontjában meghatározott fogalom,
 - 23. nem megfelelő termék: az általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktusok vagy a jogszabályok be nem tartásával gyártott vagy forgalmazott termék,
 - 24. okmányhiányos termék: minden olyan termék, amely nem rendelkezik európai uniós harmonizációs jogi aktusokban előírt nyomtatott vagy elektronikus dokumentációval,
-- 25. piacfelügyelet: a 765/2008/EK Rendelet 2. cikk 17. pontjában meghatározott fogalom,
-- 26. piacfelügyeleti hatóság: a 765/2008/EK Rendelet 2. cikk 18. pontjában meghatározott fogalom,
+- 25. piacfelügyelet: az (EU) 2019/1020 Rendelet 3. cikk 3. pontjában meghatározott fogalom,
+- 26. piacfelügyeleti hatóság: az (EU) 2019/1020 Rendelet 3. cikk 4. pontjában meghatározott fogalom,
 - 27. súlyos veszély: a piacfelügyeleti hatóság gyors beavatkozását igénylő veszély, amely érinti vagy érintheti a fogyasztók vagy a felhasználók életét, testi épségét és egészségét,
 - 28. szabad forgalomba bocsátás: az a vámeljárás, amelynek eredményeként a nem közösségi áru elnyeri a közösségi áru vámjogi helyzetét,
 - 29. szolgáltatás: az Fgytv. 2. § g) pontjában meghatározott fogalom,
 - 30. termék: minden olyan ingó dolog, amelyet fogyasztóknak és felhasználóknak szántak, és üzleti tevékenység folyamán ellenszolgáltatás fejében vagy anélkül, új, használt vagy újra feldolgozott állapotban szállítottak vagy bocsátottak rendelkezésre, kivéve az élelmiszer, a takarmány, az élő növény vagy állat, az emberi eredetű készítmény vagy a közvetlenül a növények vagy állatok reprodukciójához kapcsolódó növényi vagy állati eredetű készítmény, továbbá a villamos energiáról, a földgázellátásról és a távhőszolgáltatásról szóló törvény hatálya alá tartozó termékek és szolgáltatások,
-- 31. veszélyes termék: a biztonságos termék meghatározásának nem megfelelő termék.
+- 31. veszélyes termék: a biztonságos termék meghatározásának nem megfelelő termék,
+- 32. az információs társadalommal összefüggő szolgáltatást nyújtó szolgáltató: az (EU) 2019/1020 Rendelet 3. cikk 14. pontjában meghatározott fogalom,
+- 33. korrekciós intézkedés: az (EU) 2019/1020 Rendelet 3. cikk 16. pontjában meghatározott fogalom,
+- 34. logisztikai szolgáltató: az (EU) 2019/1020 Rendelet 3. cikk 11. pontjában meghatározott fogalom,
+- 35. meg nem felelés: az (EU) 2019/1020 Rendelet 3. cikk 7. pontjában meghatározott fogalom,
+- 36. online interfész: az (EU) 2019/1020 Rendelet 3. cikk 15. pontjában meghatározott fogalom,
+- 37. önkéntes intézkedés: az (EU) 2019/1020 Rendelet 3. cikk 17. pontjában meghatározott fogalom,
+- 38. súlyos kockázatot jelentő termék: az (EU) 2019/1020 Rendelet 3. cikk 20. pontjában meghatározott fogalom,
+- 39. végfelhasználó: az (EU) 2019/1020 Rendelet 3. cikk 21. pontjában meghatározott fogalom,
+- 40. vámhatóságok: az (EU) 2019/1020 Rendelet 3. cikk 24. pontjában meghatározott fogalom.
 
 ### II. Fejezet — A TERMÉKEK FORGALOMBA HOZATALÁNAK ÉS FORGALMAZÁSÁNAK ALAPVETŐ KÖVETELMÉNYEI
 
@@ -130,7 +139,7 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 
 (4) Amennyiben a termék mérete, kialakítása vagy egyéb sajátossága miatt az azonosító jelölés és a (3) bekezdésben meghatározott adatok nem tüntethetők fel magán a terméken, azokat jogszabály eltérő rendelkezésének hiányában a termék csomagolásán vagy a termék kísérő dokumentációján kell megadni.
 
-(5) Amennyiben általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktus vagy az Európai Unió egyes termékek forgalmazásának feltételeit harmonizáló kötelező jogi aktusa rendelkezéseinek átültetése céljából elfogadott jogszabály előírja, a gyártó köteles mellékelni az ott meghatározott formában, módon és tartalommal használati és kezelési útmutatót, valamint a biztonságot érintő figyelmeztetéseket a termékhez. A használati és kezelési útmutatónak közérthetőnek és egyértelműnek kell lennie.
+(5) A gyártó a termékhez magyar nyelven köteles mellékelni a fogyasztók és más végfelhasználók számára a használati és kezelési útmutatót, valamint a biztonságot érintő figyelmeztetéseket. A használati és kezelési útmutatónak közérthetőnek és egyértelműnek kell lennie.
 
 9. § (1) A gyártó, amennyiben úgy ítéli meg, hogy a termék nem felel meg az általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktusokban vagy a jogszabályokban foglalt előírásoknak, a szükséges intézkedéseket haladéktalanul köteles megtenni. A veszélyes terméket köteles a forgalomból kivonni, visszahívni, valamint egyidejűleg tájékoztatni a piacfelügyeleti hatóságot az intézkedések szükségességének okáról, a megtett intézkedésekről és azok eredményéről.
 
@@ -155,7 +164,7 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 
 (4) A meghatalmazott képviselő köteles a piacfelügyeleti hatóság felhívására 8 napon belül megküldeni a megfelelőséget igazoló dokumentumot vagy kérésre annak hiteles, magyar nyelvű fordítását. A hatóság indokolt esetben ennél hosszabb határidőt is megállapíthat.
 
-#### 8. Az importőr kötelezettségei
+#### 8. Az importőr és a logisztikai szolgáltató kötelezettségei
 
 11. § (1) Az importőr kizárólag a 7. § (1) bekezdésében meghatározott követelmények szerint tervezett és gyártott terméket hozhat forgalomba.
 
@@ -165,7 +174,7 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 
 (4) Amennyiben a termék mérete, kialakítása vagy egyéb sajátossága miatt a (3) bekezdésben meghatározott adatok nem tüntethetők fel magán a terméken, azokat jogszabály eltérő rendelkezésének hiányában a termék csomagolásán vagy a termék kísérő dokumentációján kell megadni.
 
-(5) Amennyiben általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktus vagy az Európai Unió egyes termékek forgalmazásának feltételeit harmonizáló kötelező jogi aktusa rendelkezéseinek átültetése céljából elfogadott jogszabály előírja, az importőr a termékhez mellékeli a használati és kezelési útmutatót, valamint a biztonságot érintő figyelmeztetéseket magyar nyelven. A mellékelt használati és kezelési útmutatónak közérthetőnek és egyértelműnek kell lennie, valamint tartalmaznia kell mindazt az információt, amelyet a gyártó által csatolt idegen nyelvű használati és kezelési útmutató tartalmaz.
+(5) Az importőr köteles biztosítani, hogy a termékhez mellékelt használati és kezelési útmutató a fogyasztók és más végfelhasználók számára magyar nyelvű, közérthető és egyértelmű legyen, valamint tartalmazza mindazt az információt, amelyet a gyártó által csatolt idegen nyelvű használati és kezelési útmutató tartalmaz. Amennyiben a gyártó nem mellékelte a termékhez az általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktus vagy az Európai Unió egyes termékek forgalmazásának feltételeit harmonizáló kötelező jogi aktusa rendelkezéseinek átültetése céljából elfogadott jogszabály által előírt tájékoztatásokat, az importőr köteles azt pótolni.
 
 (6) Amennyiben jogszabály előírja, az importőr köteles a forgalomba hozatal előtt a terméket bejelenteni.
 
@@ -180,6 +189,8 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 (5) Amennyiben az importőr a piacfelügyeleti hatóság felhívására nem küldi meg a megfelelőséget igazoló dokumentumot, a piacfelügyeleti hatóság jogosult e törvényben és más jogszabályokban meghatározott intézkedéseket elrendelni.
 
 (6) Az importőr köteles együttműködni a piacfelügyeleti hatósággal a termék által jelentett veszély elhárítása érdekében tett azonnali intézkedések végrehajtásában.
+
+12/A. § Ha a gyártó, az importőr vagy a meghatalmazott képviselő nem gondoskodott róla, akkor a logisztikai szolgáltató köteles biztosítani, hogy a termékhez mellékelt használati és kezelési útmutató a fogyasztók és más végfelhasználók számára magyar nyelvű, közérthető és egyértelmű legyen, valamint tartalmazza mindazt az információt, amelyet a gyártó által csatolt idegen nyelvű használati és kezelési útmutató tartalmaz. Amennyiben a gyártó vagy az importőr vagy a meghatalmazott képviselő nem mellékelte a termékhez az általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktus vagy az Európai Unió egyes termékek forgalmazásának feltételeit harmonizáló kötelező jogi aktusa rendelkezéseinek átültetése céljából elfogadott jogszabály által előírt tájékoztatásokat, a logisztikai szolgáltató köteles azt pótolni.
 
 #### 9. A forgalmazó kötelezettségei
 
@@ -199,28 +210,68 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 
 (4) A forgalmazó köteles együttműködni a piacfelügyeleti hatósággal a termék által jelentett veszély elhárítása érdekében tett azonnali intézkedések végrehajtásában.
 
+14/A. § (1) A gazdasági szereplő – a forgalmazó kivételével – köteles az (EU) 2019/1020 Rendelet 4. cikk (3) bekezdésében meghatározott feladatokat ellátni.
+
+(2) Az (1) bekezdés szerinti gazdasági szereplő nevét, a fogyasztók számára beazonosítható elnevezését vagy bejegyzett védjegyét és elérhetőségeit, beleértve a postai címét is, fel kell tüntetni a terméken vagy annak csomagolásán, az árukötegen vagy a kísérő dokumentumon.
+
 ### IV. Fejezet — A PIACFELÜGYELETI HATÓSÁG ELJÁRÁSÁRA VONATKOZÓ SZABÁLYOK
 
 #### 10. Piacfelügyeleti ellenőrzés és az annak során alkalmazható jogkövetkezmények
 
 15. § (1) Piacfelügyeleti eljárása keretében a piacfelügyeleti hatóság felhívására a gazdasági szereplő és felhasználó köteles hitelt érdemlően igazolni azt, hogy kitől szerezte be a terméket, és azt mely gazdasági szereplőnek értékesítette tovább. A piacfelügyeleti hatóság jogosult bármely termék biztonságosságát, egészségre gyakorolt hatását, megfelelőségét és dokumentációját ellenőrizni, továbbá jogosult a helyszínen méréssel ellenőrizni a termék megfelelőségét vagy laboratóriumi vizsgálat, megfelelőségértékelő szervezet általi vizsgálat vagy a hatóság mérése céljából ingyenes mintát és ellenmintát venni. A súlyos kockázatot jelentő terméket a piacfelügyeleti hatóság jogosult elkobozni, és azt a jogsértést elkövető gazdasági szereplő költségére megsemmisíteni.
 
-(2) Ha a piacfelügyeleti hatóság a piacfelügyeleti ellenőrzés során megállapítja, hogy a termék nem felel meg e törvényben, európai uniós jogi aktusokban vagy jogszabályokban foglalt követelményeknek, jogosult:
+(2) A piacfelügyeleti hatóság megfelelő intézkedést hoz, amennyiben egy, az uniós harmonizációs jogszabályok vagy az általános termékbiztonsági irányelv hatálya alá tartozó termék rendeltetésszerű vagy észszerűen előrelátható feltételek mellett történő használata, valamint megfelelő üzembe helyezése és karbantartása:
+
+- a) veszélyezteti a felhasználók egészségét vagy biztonságát vagy
+- b) nem felel meg az alkalmazandó uniós harmonizációs jogszabályoknak.
+
+(3) Amennyiben a piacfelügyeleti hatóság megállapítja a (2) bekezdés a) vagy b) pontjában foglaltakat, úgy haladéktalanul felszólítja az érintett gazdasági szereplőt a megfelelő és arányos korrekciós intézkedés megtételére annak érdekében, hogy a meg nem felelés okát vagy az ebből adódó kockázatot a piacfelügyeleti hatóság által meghatározott határidőn belül megszüntesse.
+
+(4) A gazdasági szereplő (3) bekezdés szerinti korrekciós intézkedései különösen a következők:
+
+- a) a termék megfelelővé tétele, ideértve az alkalmazandó uniós harmonizációs jogszabályokban meghatározott formai meg nem felelés korrigálását vagy annak biztosítását, hogy a termék már ne jelentsen kockázatot;
+- b) a termék forgalmazásának megtiltása;
+- c) a termék azonnali visszahívása vagy forgalomból történő kivonása, továbbá a nyilvánosság figyelmeztetése a fennálló kockázatra;
+- d) a termék megsemmisítése vagy egyéb módon történő működésképtelenné tétele;
+- e) megfelelő, egyértelmű, könnyen érthető és magyar nyelvű figyelmeztetések elhelyezése a terméken az általa jelentett kockázat tekintetében;
+- f) az előzetes feltételek meghatározása az érintett termék forgalmazására vonatkozóan;
+- g) a kockázatnak kitett végfelhasználók azonnali és megfelelő módon történő figyelmeztetése, akár speciális figyelmeztetések közzétételével is, magyar nyelven.
+
+(5) A (4) bekezdés e)–g) pontjában meghatározott korrekciós intézkedésekre csak abban az esetben kerülhet sor, ha a termék csak bizonyos feltételek mellett vagy csak bizonyos végfelhasználókra nézve jelent kockázatot.
+
+(6) Ha a gazdasági szereplő elmulasztja a (4) bekezdésben meghatározott korrekciós intézkedés megtételét, vagy ha a (2) bekezdésben meghatározott meg nem felelés vagy kockázat továbbra is fennáll, a piacfelügyeleti hatóság biztosítja a termék forgalomból történő kivonását vagy visszahívását, valamint a termék forgalmazásának betiltását vagy korlátozását, továbbá a nyilvánosság, az Európai Bizottság és a többi tagállam megfelelő tájékoztatását.
+
+(7) A (6) bekezdésben foglalt jogkövetkezmények alkalmazása esetén a piacfelügyeleti hatóság – amennyiben azt az eset körülményeire tekintettel szükségesnek tartja – határidő tűzésével kötelezheti a jogsértő gazdasági szereplőt, hogy a hibák, hiányosságok, illetve a jogsértés megszüntetése érdekében tett intézkedésekről az érintett piacfelügyeleti hatóságot értesítse.
+
+(8) A (6) bekezdés alapján az Európai Bizottságnak és a többi tagállamnak nyújtandó információkat az (EU) 2019/1020 Rendelet 34. cikkében meghatározott Információs és kommunikációs rendszeren (a továbbiakban: ICSMS rendszer) keresztül kell közölni.
+
+(9) Ha a piacfelügyeleti hatóság a piacfelügyeleti ellenőrzés során megállapítja, hogy a termék nem felel meg az e törvényben, egyéb jogszabályban vagy európai uniós jogi aktusban foglalt követelményeknek, jogosult:
 
 - a) a termék használatából származó veszélyre vonatkozó figyelmeztető tájékoztatás elhelyezését előírni,
-- b) széles körű tájékoztatást elrendelni úgy, hogy a termék használatából származó veszélyről időben és megfelelő módon – szükség esetén a rádiós vagy audiovizuális lineáris médiaszolgáltatásban vagy sajtótermékben – a fogyasztók vagy a felhasználók értesüljenek,
+- b) széles körű tájékoztatást elrendelni úgy, hogy a termék használatából származó veszélyről megfelelő időben és módon – szükség esetén rádiós vagy audiovizuális lineáris médiaszolgáltatásban vagy sajtótermékben – a fogyasztók vagy a felhasználók értesüljenek,
 - c) a termék forgalomba hozatalát, reklámozását korlátozni vagy megtiltani, és a tilalom betartásához szükséges kísérő intézkedéseket bevezetni,
-- d) a már forgalomba hozott termék forgalomból való kivonását elrendelni, és előírni az erről való tájékoztatást a b) pontban meghatározott módon,
+- d) a már forgalomba hozott termék forgalomból való kivonását elrendelni, és előírni az erről történő tájékoztatást a b) pontban meghatározott módon,
 - e) elrendelni a termék visszahívását, vagy – ha ez indokolt – a gazdasági szereplőkkel együttműködve megszervezni a termék fogyasztóktól vagy felhasználóktól történő visszahívását és környezetvédelmi szempontok figyelembevételével történő megsemmisítését, valamint ellenőrizni ezek végrehajtását,
 - f) határidő tűzésével a feltárt hibák, hiányosságok megszüntetésére kötelezni a gazdasági szereplőt,
 - g) a jogszerű állapot helyreállításáig feltételhez kötni vagy megtiltani a termék forgalmazását, értékesítését,
 - h) bírságot kiszabni.
 
-(3) Jogszabály az abban meghatározott rendelkezés megsértése esetére további jogkövetkezményeket állapíthat meg.
+(10) Törvény az abban meghatározott rendelkezés megsértése esetére további jogkövetkezményeket állapíthat meg.
 
-(4) A (2) és (3) bekezdés szerinti jogkövetkezmények együttesen is megállapíthatóak.
+(11) A (9) és (10) bekezdés szerinti jogkövetkezmények együttesen is megállapíthatóak.
 
-(5) A (2) bekezdésben foglalt jogkövetkezmények alkalmazása esetén a piacfelügyeleti hatóság – amennyiben azt az eset körülményeire tekintettel szükségesnek tartja – határidő tűzésével kötelezheti a jogsértő vállalkozást, hogy a hibák, hiányosságok, illetve a jogsértés megszüntetése érdekében tett intézkedésekről a hatóságot értesítse.
+(12) A (9) bekezdésben foglalt jogkövetkezmények alkalmazása esetén a piacfelügyeleti hatóság – amennyiben azt az eset körülményeire tekintettel szükségesnek tartja – határidő tűzésével kötelezheti a jogsértő vállalkozást, hogy a hibák, hiányosságok, illetve a jogsértés megszüntetése érdekében tett intézkedésekről a hatóságot értesítse.
+
+(13) A piacfelügyeleti hatóság minden esetben ellenőrzi a gazdasági szereplők által végrehajtandó korrekciós intézkedések megtételét.
+
+(14) Amennyiben egy súlyos kockázat megszüntetésére más hatékony eszköz nem áll rendelkezésre a piacfelügyeleti hatóság:
+
+- a) megkövetelheti a kapcsolódó termékre utaló tartalom eltávolítását az online interfészről vagy megkövetelheti a végfelhasználóknak szóló kifejezett figyelmeztetés megjelenítését az online interfészre való belépéskor; vagy
+- b) amennyiben az a) pont szerinti követelmények nem feleltek meg, megkövetelheti az információs társadalommal összefüggő szolgáltatást nyújtó szolgáltatótól, hogy korlátozza az online interfészre való belépést.
+
+(15) A piacfelügyeleti hatóság (14) bekezdés szerinti határozatának kötelezettje – annak határozatban történő megjelölése nélkül – valamennyi elektronikus hírközlési szolgáltató.
+
+(16) Az ideiglenes hozzáférhetetlenné tétel végrehajtását a Nemzeti Média- és Hírközlési Hatóság az elektronikus hírközlésről szóló törvény alapján szervezi és ellenőrzi.
 
 16. § (1) A piacfelügyeleti hatóság által alkalmazott jogkövetkezményeknek hatékonynak, arányosnak és kellően visszatartó erejűnek kell lenniük. A bírság összegének meghatározásakor figyelembe kell venni, ha a gazdasági szereplő 3 éven belül megsértette e törvény, valamint más jogszabályok ugyanazon rendelkezéseit.
 
@@ -294,6 +345,16 @@ kötelességét megszegi, azt a Kormány által rendeletben kijelölt műszaki-b
 
 (6) Amennyiben az (5) bekezdés alkalmazásának feltételei nem állnak fenn, az érintett gazdasági szereplő a tárgyalás megtartását követő 8 napon belül akkor is előterjesztheti az (1) bekezdés szerinti döntés elleni fellebbezését, ha a fellebbezési határidő már eltelt.
 
+### IV/A. Fejezet — A PIACFELÜGYELETI HATÓSÁGOK ÉS ÖSSZEKÖTŐ HIVATAL SZERVEZETE, TEVÉKENYSÉGE ÉS KÖTELEZETTSÉGEI
+
+18/A. § (1) A piacfelügyeleti hatóságok összekötő hivatalának feladatait a fogyasztóvédelemért felelős miniszter látja el.
+
+(2) Az összekötő hivatal felel a piacfelügyeleti hatóságok és a vámhatóságok összehangolt álláspontjának képviseletéért, valamint a nemzeti piacfelügyeleti stratégiák közléséért. Az összekötő hivatal segítséget nyújt a különböző tagállamok piacfelügyeleti hatóságai közötti együttműködésben is.
+
+(3) A piacfelügyeleti hatóságok tevékenységük során megfelelő mértékben ellenőrzik a termékjellemzőket a termékekhez tartozó dokumentumok és a megfelelő mintákon alapuló fizikai és laboratóriumi vizsgálatok révén, kihasználva a rendelkezésre álló erőforrásokat és megfelelő intézkedéseket hozva a hatékony piacfelügyelet megvalósítása érdekében, valamint figyelembe véve a nemzeti piacfelügyeleti stratégiát.
+
+(4) A piacfelügyeleti hatóságok a termékbiztonsági szempontból nem megfelelő termékek esetében kockázatértékelést végeznek az általános termékbiztonságról szóló 2001/95/EK irányelv 12. cikke alapján létrehozott Európai Uniós Gyors Tájékoztatási Rendszer (RAPEX) és annak értesítési rendszere alkalmazására vonatkozó iránymutatások megállapításáról szóló 2018. november 8-i (EU) 2019/417 európai bizottsági végrehajtási határozat figyelembevételével.
+
 ### V. Fejezet — AZ IMPORTTERMÉKEKRE VONATKOZÓ SZABÁLYOK
 
 #### 12. A harmadik országok illetékes hatóságaival folytatott együttműködés
@@ -304,25 +365,25 @@ kötelességét megszegi, azt a Kormány által rendeletben kijelölt műszaki-b
 
 #### 13. Az importtermékek piacfelügyeleti ellenőrzésére vonatkozó előírások
 
-20. § (1) A harmadik országból érkező termékek az Európai Unió belső piacára irányuló forgalom számára szabad forgalomba bocsátásra történő vámeljáráskor a 765/2008/EK Rendelet szerinti ellenőrzést is el kell végezni.
+20. § (1) A harmadik országból érkező termékeknek az Európai Unió belső piacára irányuló forgalmazása érdekében történő szabad forgalomba bocsátás vámeljárás alá vonása során az (EU) 2019/1020 Rendelet VII. fejezete szerinti ellenőrzést is el kell végezni.
 
-(2) Az (1) bekezdésben foglalt rendelkezés nem alkalmazható arra a termékre, amelynek az Európai Unió belső piacára irányuló forgalom számára történő vámkezeléséhez szükség van az Európai Unió általános hatályú és közvetlenül alkalmazandó európai uniós jogi aktusa vagy jogszabály szerint előírt hatósági ellenőrző vizsgálat elvégzésére.
+(2) Az (1) bekezdés nem alkalmazható arra a termékre, amelynek az Európai Unió belső piacára irányuló forgalmazása érdekében történő szabad forgalomba bocsátás vámeljárás alá vonásához szükség van az Európai Unió általános hatályú és közvetlenül alkalmazandó európai uniós jogi aktusa vagy jogszabály szerint előírt hatósági ellenőrző vizsgálat elvégzésére.
 
-(3) Ha a szabad forgalomba bocsátást a vámhatóság felfüggeszti, akkor a jogszabályban meghatározott piacfelügyeleti hatóságot telefaxon vagy elektronikus úton haladéktalanul értesíti.
+(3) Ha a szabad forgalomba bocsátás vámeljárást a vámhatóság felfüggeszti, akkor a jogszabályban meghatározott piacfelügyeleti hatóságot elektronikus úton haladéktalanul értesíti.
 
 #### 14. Az importtermékek szabad forgalomba bocsátása
 
-21. § (1) A vámhatóság a felfüggesztést megszünteti és a vámkezelést lefolytatja, ha a szabad forgalomba bocsátás felfüggesztését követő 3 munkanapon belül a piacfelügyeleti hatóság által indított eljárásról vagy a termék jogszabályi előírásoknak való megfelelősége tárgyában hozott döntésről nem értesül.
+21. § (1) Ha a szabad forgalomba bocsátás felfüggesztését követő 4 munkanapon belül a piacfelügyeleti hatóság nem kéri a felfüggesztés fenntartását, a vámhatóság a kérelmezett vámeljárást lefolytatja és az árukat kiadja.
 
-(2) A vámhatóság az importterméket szabad forgalomba bocsátja, ha a piacfelügyeleti hatóság a vámhatóság 20. § (3) bekezdése szerinti értesítését követően döntésében megállapítja, hogy a termék megfelel a jogszabályi előírásoknak.
+(2) A vámhatóság az importtermék szabad forgalomba bocsátás vámeljárás alá vonását lefolytatja és az árukat kiadja, ha a piacfelügyeleti hatóság értesíti a vámhatóságot a termék szabad forgalomba bocsátásának jóváhagyásáról.
 
 #### 15. A piacfelügyeleti hatóság intézkedései vámriasztás során
 
-22. § (1) Amennyiben a piacfelügyeleti hatóság jelzi a vámhatóságnak a veszélyes importtermékeket, akkor a vámhatóság a kísérő okmányokkal kapcsolatosan a 765/2008/EK Rendeletben foglaltak szerint jár el.
+22. § (1) Amennyiben a piacfelügyeleti hatóság jelzi a vámhatóságnak a veszélyes importtermékeket, akkor a vámhatóság a kísérő okmányokkal kapcsolatosan az (EU) 2019/1020 Rendeletben foglaltak szerint jár el.
 
-(2) Amennyiben a piacfelügyeleti hatóság az okmányhiányos, valamint a nem megfelelő importtermékeket jelzi a vámhatóságnak, akkor a vámhatóság a kísérő okmányokkal kapcsolatosan a 765/2008/EK Rendeletben foglaltak szerint jár el.
+(2) Amennyiben a piacfelügyeleti hatóság az okmányhiányos, valamint a nem megfelelő importtermékeket jelzi a vámhatóságnak, akkor a vámhatóság a kísérő okmányokkal kapcsolatosan az (EU) 2019/1020 Rendeletben foglaltak szerint jár el.
 
-(3) A súlyos veszélyt jelentő terméket a piacfelügyeleti hatóság a jogszabályban foglaltak szerint a vámkezelést kérő költségén megsemmisítheti, elrendelheti a megsemmisítést vagy egyéb módon működésképtelenné teheti.
+(3) A súlyos kockázatot jelentő terméket a piacfelügyeleti hatóság a jogszabályban foglaltak szerint a vámkezelést kérő költségén megsemmisítheti, elrendelheti a megsemmisítést vagy egyéb módon működésképtelenné teheti.
 
 (4) A piacfelügyeleti hatóság megadja a vámhatóságnak azokat az információkat, amelyek az importtermékekkel kapcsolatos súlyos veszélyre vagy meg nem felelésre vonatkoznak, és kérheti bizonyos termékkörök fokozott figyelését a vámhatóságtól.
 
@@ -365,7 +426,7 @@ kötelességét megszegi, azt a Kormány által rendeletben kijelölt műszaki-b
 
 (5) Súlyos veszély esetén a KPIR működtetéséért felelős fogyasztóvédelmi hatóság értesíti az Európai Bizottságot a gazdasági szereplők által hozott önkéntes intézkedésekről. Amennyiben a KPIR működtetéséért felelős fogyasztóvédelmi hatóság az Európai Bizottság útján az Európai Unió más tagállamából származó, a fentieknek megfelelő értesítést kap, tájékoztatja az Európai Bizottságot a részéről megtett intézkedésekről.
 
-(6) Amennyiben az Európai Bizottság a fogyasztók egészségére és biztonságára az Európai Unió több tagállamában is súlyosan veszélyes termékről szerez tudomást és az Európai Unió érintett tagállamaival folytatott tanácskozást, valamint a veszély tekintetében illetékes tudományos bizottsággal folytatott konzultációt követően a 2001/95/EK irányelv 13. cikkének (1) bekezdése alapján határozatot hoz, a határozat tárgyát képező veszélyes terméknek az Európai Unió területéről történő kivitele – a határozat eltérő rendelkezése hiányában – tilos. A KPIR működtetéséért felelős fogyasztóvédelmi hatóság az Európai Bizottság határozata alapján haladéktalanul értesíti a piacfelügyeleti hatóságot, és az a határozatban megjelölt más határidő hiányában legfeljebb 20 napon belül meghoz minden szükséges intézkedést a határozat végrehajtása érdekében. A határozat végrehajtásáért felelős piacfelügyeleti hatóságnál az érintettek a határozat közzétételét követő 30 napon belül észrevételeket tehetnek.
+(6) Amennyiben az Európai Bizottság a fogyasztók egészségére és biztonságára az Európai Unió több tagállamában is súlyos kockázatot jelentő termékről szerez tudomást és az Európai Unió érintett tagállamaival folytatott tanácskozást, valamint a veszély tekintetében illetékes tudományos bizottsággal folytatott konzultációt követően a 2001/95/EK irányelv 13. cikkének (1) bekezdése alapján határozatot hoz, a határozat tárgyát képező veszélyes terméknek az Európai Unió területéről történő kivitele – a határozat eltérő rendelkezése hiányában – tilos. A KPIR működtetéséért felelős fogyasztóvédelmi hatóság az Európai Bizottság határozata alapján haladéktalanul értesíti a piacfelügyeleti hatóságot, és az a határozatban megjelölt más határidő hiányában legfeljebb 20 napon belül meghoz minden szükséges intézkedést a határozat végrehajtása érdekében. A határozat végrehajtásáért felelős piacfelügyeleti hatóságnál az érintettek a határozat közzétételét követő 30 napon belül észrevételeket tehetnek.
 
 (7) A piacfelügyeleti hatóság az észrevételekről a KPIR működtetéséért felelős fogyasztóvédelmi hatóságon keresztül tájékoztatja az Európai Bizottságot.
 
@@ -392,6 +453,28 @@ kötelességét megszegi, azt a Kormány által rendeletben kijelölt műszaki-b
 - c) a fennálló veszéllyel összefüggésben lényeges kiegészítő információkkal rendelkezik-e, ideértve az elvégzett vizsgálatok vagy elemzések eredményeit is.
 
 (7) A rendelkezésre bocsátott információk tartalmáért a KPIR működtetéséért felelős fogyasztóvédelmi hatóságot értesítő piacfelügyeleti hatóság felel.
+
+### VI/A. Fejezet — INFORMÁCIÓS ÉS KOMMUNIKÁCIÓS RENDSZER
+
+28/A. § (1) A piacfelügyeleti hatóság köteles az ICSMS rendszer használatára.
+
+(2) Az összekötő hivatal a következő információkat tölti fel az ICSMS rendszerbe:
+
+- a) a nemzeti piacfelügyeleti hatóság megnevezése és e hatóságnak az (EU) 2019/1020 Rendelet 10. cikk (2) bekezdése szerinti illetékességi területe;
+- b) a kijelölt vámhatóság megnevezése;
+- c) az (EU) 2019/1020 Rendelet 13. cikke alapján kidolgozott nemzeti piacfelügyeleti stratégia, valamint a piacfelügyeleti stratégia felülvizsgálatának és értékelésének eredményei.
+
+(3) A piacfelügyeleti hatóság a következő tájékoztatást tölti fel az ICSMS rendszerbe azon forgalmazott termékek tekintetében, amelyek vonatkozásában – a 2001/95/EK európai parlamenti és tanácsi irányelv 12. cikkének és az (EU) 2019/1020 Rendelet 20. cikkének sérelme nélkül – megfelelőségi ellenőrzést végzett, adott esetben az uniós piacra belépő olyan termékek tekintetében, amelyek vonatkozásában a szabad forgalomba bocsátást területükön az (EU) 2019/1020 Rendelet 26. cikkével összhangban felfüggesztette:
+
+- a) a piacfelügyeleti hatóság által az (EU) 2019/1020 Rendelet 16. cikk (5) bekezdése szerint hozott intézkedéseket;
+- b) a piacfelügyeleti hatóság által végzett vizsgálatokról szóló jegyzőkönyveket és jelentéseket;
+- c) az érintett gazdasági szereplők által végrehajtott korrekciós intézkedést vagy intézkedéseket;
+- d) az adott termék által okozott sérülésekről szóló jegyzőkönyveket, amennyiben azok könnyen hozzáférhetők;
+- e) a tagállamok által a termékre alkalmazandó uniós harmonizációs jogszabályok keretében alkalmazandó védintézkedési eljárással összhangban emelt bármely kifogást, és az ennek nyomán tett intézkedéseket;
+- f) a meghatalmazott képviselők által az (EU) 2019/1020 Rendelet 5. cikk (2) bekezdésének való nem megfelelést;
+- g) a gyártók által az (EU) 2019/1020 Rendelet 5. cikk (1) bekezdésének való nem megfelelés.
+
+(4) Amennyiben a piacfelügyeleti hatóság hasznosnak ítéli, az általa végzett ellenőrzéssel kapcsolatos további információkat és az általa vagy kérésére végzett vizsgálat eredményét is feltöltheti az ICSMS rendszerbe.
 
 ### VII. Fejezet — PIACFELÜGYELETI PROGRAMOK ÉS JELENTÉSEK
 
@@ -462,6 +545,6 @@ rendeletben határozza meg.
 
 39. § (1) Ez a törvény az általános termékbiztonságról szóló, 2001. december 3-i 2001/95/EK európai parlamenti és tanácsi irányelv 1., 2., 3., 5., 8., 9., 11., 12., 13. és 18. cikkének való megfelelést szolgálja.
 
-(2) Ez a törvény a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(2) Ez a törvény a piacfelügyeletről és a termékek megfelelőségéről, valamint a 2004/42/EK irányelv, továbbá a 765/2008/EK és a 305/2011/EU rendelet módosításáról szóló 2019. június 20-i (EU) 2019/1020 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (3) Ez a törvény a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 93/465/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 768/2008/EK európai parlamenti és tanácsi határozat R2.–R7. cikkeivel összhangban álló szabályozást tartalmaz.
