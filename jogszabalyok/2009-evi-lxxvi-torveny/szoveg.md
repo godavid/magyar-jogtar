@@ -37,7 +37,7 @@ Az Országgyűlés a vállalkozások, különösen a kis- és középvállalkoz�
 - h) a személy- és vagyonvédelmi tevékenység szabályairól szóló törvényben meghatározott személy- és vagyonvédelmi tevékenységekre;
 - i) a közjegyzők és az önálló bírósági végrehajtók tevékenységére;
 - j) az adó-, illeték-, vám-, járulék- és egyéb, az államháztartás valamely alrendszerét megillető, jogszabályban rögzített befizetési kötelezettségre és az ezen fizetési kötelezettségekkel összefüggő hatósági eljárásokra;
-- k) a termékek forgalmazása tekintetében az akkreditálás előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet szerinti, meghatározott termék forgalmazása körülményeinek feltételeire vonatkozó közösségi jogszabályok végrehajtását szolgáló jogszabályokban, továbbá a valamely másik tagállamban jogszerűen forgalmazott áruk kölcsönös elismeréséről és a 764/2008/EK rendelet hatályon kívül helyezéséről szóló, 2019. március 19-i (EU) 2019/515 európai parlamenti és tanácsi rendelet szerinti nemzeti műszaki szabálynak minősülő jogszabályokban foglaltakra.
+- k) a termékek forgalmazása tekintetében a piacfelügyeletről és a termékek megfelelőségéről, valamint a 2004/42/EK irányelv, továbbá a 765/2008/EK és a 305/2011/EU rendelet módosításáról szóló 2019. június 20-i (EU) 2019/1020 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2019/1020 rendelet] szerinti, termék forgalmazása körülményeinek feltételeire vonatkozó közösségi jogszabályok végrehajtását szolgáló jogszabályokban, továbbá a valamely másik tagállamban jogszerűen forgalmazott áruk kölcsönös elismeréséről és a 764/2008/EK rendelet hatályon kívül helyezéséről szóló 2019. március 19-i (EU) 2019/515 európai parlamenti és tanácsi rendelet szerinti nemzeti műszaki szabálynak minősülő jogszabályokban foglaltakra.
 
 (3) Ha az adott szolgáltatási tevékenység szabályozott szakmának minősül, e törvény rendelkezéseit a külföldi bizonyítványok és oklevelek elismeréséről szóló törvényben meghatározott eltérésekkel kell alkalmazni.
 
@@ -70,7 +70,7 @@ jogszerűen nem kezdhető meg és nem folytatható, vagy a szolgáltatás jogsze
 - l) szolgáltatási tevékenység: bármely önálló, üzletszerűen – rendszeresen, nyereség elérése érdekében, gazdasági kockázatvállalás mellett – végzett gazdasági tevékenység, kivéve a termelő tevékenységet és a közhatalom gyakorlását,
 - m) szolgáltató: a szolgáltatási tevékenységet folytató vállalkozás,
 - n) termék: minden birtokba vehető forgalomképes ingó dolog – ide nem értve a pénzt, az értékpapírt és a pénzügyi eszközt – és a dolog módjára hasznosítható természeti erő,
-- o) termelő tevékenység: valamely termék – akár más termékek feldolgozása útján történő – előállítása, beleértve az előállított terméknek az előállító által történő, a 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikkének 2. pontja szerinti forgalomba hozatalát is.
+- o) termelő tevékenység: valamely termék – akár más termékek feldolgozása útján történő – előállítása, beleértve az előállított terméknek az előállító által történő, (EU) 2019/1020 rendelet 3. cikk 2. pontja szerinti forgalomba hozatalát is.
 
 ### A letelepedés szabadsága
 
