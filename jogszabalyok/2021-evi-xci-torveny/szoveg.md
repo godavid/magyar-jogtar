@@ -213,7 +213,4 @@ rendeletben jelölje ki.
 
 (2) A döntéselőkészítéshez szükséges adatok hozzáférhetőségének biztosításáról szóló 2007. évi CI. törvény rendelkezéseit kell alkalmazni az e törvény hatálybalépését megelőzően kezdeményezett adattovábbítás vagy adatátadás teljesítésére.
 
-17. § Hatályát veszti
-
-- a) a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló 2010. évi CLVII. törvény,
-- b) a döntéselőkészítéshez szükséges adatok hozzáférhetőségének biztosításáról szóló 2007. évi CI. törvény.
+17. §
