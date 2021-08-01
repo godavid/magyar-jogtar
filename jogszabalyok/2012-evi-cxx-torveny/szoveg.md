@@ -89,6 +89,7 @@ kell érteni.
 - b) akit a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV törvény (a továbbiakban: 1978. évi IV. törvény) szerinti állam elleni bűncselekmény (1978. évi IV. törvény X. fejezet), emberiség elleni bűncselekmény (1978. évi IV. törvény XI. fejezet), személy elleni bűncselekmény [1978. évi IV. törvény 166–168. §, 170. § (2)–(6) bekezdés, 171. §, 174. §, 174/A. §, 174/B. §, 174/C. §, 175. §, 175/A. §, 175/B. §, 176. § (2) bekezdés b) pont és (3)–(4) bekezdése, nemi erkölcs elleni erőszakos bűncselekmény [1978. évi IV. törvény 197. és 198. §, 207. § (3) bekezdés b) pont], hivatali bűncselekmény (1978. évi IV. törvény XV. fejezet, IV. cím), hivatalos személy elleni bűncselekmény (1978. évi IV. törvény XV. fejezet V. cím), embercsempészés (1978. évi IV. törvény 218. §), közveszély okozása [1978. évi IV. törvény 259. § (1)–(3) bekezdése], közérdekű üzem működésének megzavarása (1978. évi IV. törvény 260. §), terrorcselekmény (1978. évi IV. törvény 261. §), nemzetközi gazdasági tilalom megszegése (1978. évi IV. törvény 261/A. §), légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), visszaélés robbanóanyaggal vagy robbantószerrel (1978. évi IV. törvény 263. §), visszaélés lőfegyverrel vagy lőszerrel (1978. évi IV. törvény 263/A. §), visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (1978. évi IV. törvény 263/B. §), bűnszervezetben részvétel (1978. évi IV. törvény 263/C. §), visszaélés radioaktív anyaggal (1978. évi IV. törvény 264. §), visszaélés nemzetközi szerződés által tiltott fegyverrel (1978. évi IV. törvény 264/C. §), tiltott állatviadal szervezése (1978. évi IV. törvény 266/A. §), állatkínzás (1978. évi IV. törvény 266/B. §), garázdaság (1978. évi IV. törvény 271. §), önbíráskodás (1978. évi IV. törvény 273. §), környezetkárosítás (1978. évi IV. törvény 280. §), természetkárosítás (1978. évi IV. törvény 281. §), visszaélés kábítószerrel (1978. évi IV. törvény 282–282/C. §), visszaélés kábítószer-prekurzorral (1978. évi IV. törvény 283/A. §), pénzmosás (1978. évi IV. törvény 303. §), vagyon elleni szándékos bűncselekmény (1978. évi IV. törvény 316–324. §, 326. §, 327. §), szökés és elöljáró vagy szolgálati közeg elleni erőszak fegyveresen elkövetett esetei [1978. évi IV. törvény 343. § (2) bekezdés a) pont és (4)–(5) bekezdése, valamint 355. § (2) bekezdés a) pontja] alapján, vagy olyan bűntett miatt, amelyet bűnszervezet keretében követett el, elítéltek és a (3) bekezdésben meghatározott mentesítés időtartama még nem telt el,
 - c) akit a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti emberiesség elleni bűncselekmény (Btk. XIII. Fejezet), háborús bűncselekmény (Btk. XIV. Fejezet), emberölés (Btk. 160. §), erős felindulásban elkövetett emberölés (Btk. 161. §), öngyilkosságban közreműködés (Btk. 162. §), testi sértés [Btk. 164. § (3)–(8) bekezdés], foglalkozás körében elkövetett veszélyeztetés (Btk. 165. §), emberrablás (Btk. 190. §), emberrablás feljelentésének elmulasztása (Btk. 191. §), emberkereskedelem és kényszermunka (Btk. 192. §), személyi szabadság megsértése (Btk. 194. §), kényszerítés (Btk. 195. §), a lelkiismereti és a vallásszabadság megsértése (Btk. 215. §), közösség tagja elleni erőszak (Btk. 216. §), az egyesülési, a gyülekezési szabadság, valamint a választási gyűlésen való részvétel jogának megsértése (Btk. 217. §), magánlaksértés [Btk. 221. § (2) bekezdés b) pont és (3)–(4) bekezdés], kábítószer-kereskedelem (Btk. 176–177. §), kábítószer birtoklása (Btk. 178–180. §), kóros szenvedélykeltés (Btk. 181. §), kábítószer készítésének elősegítése (Btk. 182. §), kábítószer-prekurzorral visszaélés (Btk. 183. §), szexuális erőszak (Btk. 197. §), kerítés [Btk. 200. § (4) bekezdés c) pont], környezetkárosítás (Btk. 241. §), természetkárosítás (Btk. 242. §), állatkínzás (Btk. 243. §), orvvadászat (Btk. 245. §), orvhalászat (Btk. 246. §), tiltott állatviadal szervezése (Btk. 247. §), radioaktív anyaggal visszaélés (Btk. 250. §), állam elleni bűncselekmény (Btk. XXIV. Fejezet), hivatali bűncselekmény (Btk. XXVIII. Fejezet), hivatalos személy elleni bűncselekmény (Btk. XXIX. Fejezet), terrorcselekmény (Btk. 314–316/A. §), terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §), jármű hatalomba kerítése (Btk. 320. §), bűnszervezetben részvétel (Btk. 321. §), közveszély okozása [Btk. 322. § (1)–(3) bekezdés], közérdekű üzem működésének megzavarása (Btk. 323. §), robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §), lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), nemzetközi szerződés által tiltott fegyverrel visszaélés (Btk. 326. §), nemzetközi gazdasági tilalom megszegése (Btk. 327. §), nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), kettős felhasználású termékkel visszaélés (Btk. 330. §), garázdaság (Btk. 339. §), embercsempészés (Btk. 353. §), vagyon elleni erőszakos bűncselekmény (Btk. XXXV. Fejezet), vagyon elleni szándékos bűncselekmény (Btk. 370–376. §, 380. § és a 2020. december 31-éig hatályban volt Btk. 379. §), pénzmosás (Btk. 399. §) vagy szökés és elöljáró vagy szolgálati közeg elleni erőszak fegyveresen elkövetett esetei [Btk. 434. § (2) bekezdés a) pont és (3)–(4) bekezdés, 445. § (2) bekezdés a) pont] alapján vagy olyan bűntett miatt, amelyet bűnszervezet keretében követett el, elítéltek és a (3) bekezdésben meghatározott mentesítés időtartama még nem telt el,
 - d) aki az e törvény hatálya alá tartozó foglalkozástól eltiltás hatálya alatt áll.
+- e) aki a b) vagy c) pontban meghatározott bűncselekmény miatt büntetőeljárás hatálya alatt áll.
 
 (3) Nem lehet az (1) bekezdésben meghatározott személy, akivel szemben a (2) bekezdés b) vagy c) pontjában meghatározott
 
@@ -102,16 +103,19 @@ kell érteni.
 
 (4) A rendészeti feladatokat ellátó személy köteles az (1)–(3) bekezdésben meghatározott kizáró okot a munkáltató részére haladéktalanul bejelenteni.
 
-(5) Az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: rendőrség) – az elkövetett bűncselekmény jellege, az elkövetett bűncselekmény és a jogviszony közötti összefüggés, valamint a munkáltató javaslata alapján kialakított – egyetértésével a (3) bekezdésben meghatározott kizáró okoktól a munkáltató eltekinthet, amely alapján az érintett személy foglalkoztatható.
+(5) Az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: rendőrség) – az elkövetett bűncselekmény jellege, az elkövetett bűncselekmény és a jogviszony közötti összefüggés, valamint a munkáltató javaslata alapján kialakított – egyetértésével a (2) bekezdés e) pontjában és a (3) bekezdésben meghatározott kizáró okoktól a munkáltató eltekinthet, amely alapján az érintett személy foglalkoztatható.
 
-6. § (1) A jogviszony létesítésekor az alkalmazási feltételeket az érintett igazolja. A rendészeti feladatokat ellátó személy alkalmazásának az 5. § (2) és (3) bekezdésében foglalt kizáró okait – a jogviszony fennállása alatt – a rendőrség évente ellenőrzi.
+6. § (1) A jogviszony létesítésekor az alkalmazási feltételeket az érintett igazolja. A rendészeti feladatokat ellátó személy alkalmazásának az 5. § (2) és (3) bekezdésében foglalt kizáró okait, valamint a cselekvőképesség fennállását a rendőrség a szolgálati igazolvány és a szolgálati jelvény kiadására irányuló eljárás során, valamint a jogviszony fennállása alatt évente ellenőrzi.
 
-(2) A kizáró okok ellenőrzése során a rendőrség a bűntettesek nyilvántartásából, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából, valamint a büntetőeljárás hatálya alatt állók nyilvántartásából jogosult közvetlen hozzáféréssel a 5. § (2) és (3), valamint az (1) bekezdésben meghatározott feltételekre vonatkozó adatokat átvenni és kezelni.
+(2) A szolgálati igazolvány és a szolgálati jelvény kiadására irányuló eljárás, valamint a kizáró okok ellenőrzése során a rendőrség a bűntettesek nyilvántartásából, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából, valamint a büntetőeljárás hatálya alatt állók nyilvántartásából jogosult közvetlen hozzáféréssel az 5. § (2) és (3) bekezdése, valamint az (1) bekezdés szerinti feltételekre vonatkozó adatokat átvenni és kezelni.
 
-(3) A rendőrség az ellenőrzés során a (2) bekezdés szerint átvett adatokat
+(3) A rendőrség a szolgálati igazolvány és a szolgálati jelvény kiadására irányuló eljárás, valamint az ellenőrzés során a (2) bekezdés szerint átvett adatokat
 
-- a) az ellenőrzés befejezéséig kezelheti, az ellenőrzést követően az adatokat törli, majd az ellenőrzés irataira az ellenőrzés tényét és időpontját feljegyzi, vagy
-- b) ha a rendészeti feladatokat ellátó személy szolgálati igazolványának visszavonását kezdeményezte, az eljárás jogerős befejezéséig kezelheti.
+- a) a szolgálati igazolvány és a szolgálati jelvény kiadására irányuló eljárás befejezéséig;
+- b) az ellenőrzés befejezéséig, vagy
+- c) – ha a rendészeti feladatokat ellátó személy szolgálati igazolványának visszavonását kezdeményezte – az eljárás befejezéséig
+
+kezeli, azt követően az adatokat törli.
 
 7. § (1) Ha a 6. § (1) bekezdése szerinti ellenőrzés során a rendőrség megállapítja, hogy a rendészeti feladatokat ellátó személlyel szemben – az 5. § (2) és (3) bekezdésben meghatározott – kizáró ok áll fenn, a rendőrség felhívja a munkáltatót a szolgálati igazolvány és szolgálati jelvény bevonására, valamint annak a rendőrség részére 8 napon belül történő megküldésére.
 
@@ -121,7 +125,7 @@ kell érteni.
 
 #### 5. A rendészeti feladatokat ellátó személy szolgálati igazolványa és jelvénye, valamint a rendészeti feladatokat ellátó személyek nyilvántartása
 
-8. § (1) A rendészeti feladatokat ellátó személy részére – igazgatási szolgáltatási díj ellenében – a szolgálati igazolványt, valamint a szolgálati jelvényt a rendőrség a munkáltató kezdeményezésére állítja ki. A kérelem benyújtásakor
+8. § (1) A rendészeti feladatokat ellátó személy részére – igazgatási szolgáltatási díj ellenében – a szolgálati igazolványt, valamint a szolgálati jelvényt a rendőrség a munkáltató kezdeményezésére állítja ki, ha az érintett cselekvőképes és megfelel az 5. § (2) és (3) bekezdésében meghatározott alkalmazási feltételeknek. A kérelem benyújtásakor
 
 - a) a munkáltató nyilatkozik arról, hogy az érintett az 5. § (1)–(3) bekezdésében meghatározott alkalmazási feltételeket igazolta, vagy
 - b) munkáltató hiányában a kérelmező igazolja, hogy az 5. § (1)–(3) bekezdésében meghatározott alkalmazási feltételek fennállnak.
@@ -136,7 +140,7 @@ kell érteni.
 - d) az 1. § (1) bekezdés g) és h) pontja szerinti személy szakszemélyzeti jogosultsága a külön jogszabály szerinti okból megszűnt,
 - e) a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 53. § (2) bekezdése szerinti ok fennáll.
 
-(4) Az 1. § (1) bekezdés g) és h) pontja alá tartozó személy esetében az (1) és (2) bekezdésben, valamint a 7. § (1) bekezdésében foglaltak tekintetében munkáltató helyett az erdészeti hatóság jár el.
+(4)
 
 (5) A (2)–(3) bekezdés szerinti közigazgatási hatósági ügyben hozott elsőfokú döntés ellen fellebbezésnek van helye.
 
@@ -166,6 +170,8 @@ kell érteni.
 - g) az 1. § (1) bekezdés l) pontjában meghatározottak esetében a mezőgazdasági igazgatási szerv
 
 az általa vezetett nyilvántartásból közvetlenül közli a központi szervvel.
+
+(3a) A szolgálati igazolvány és a szolgálati jelvény kiadására irányuló eljárás lefolytatására illetékes rendőri szerv a szolgálati igazolvány és a szolgálati jelvény kiadásáról a kiadást követő 8 napon belül értesíti a (3) bekezdés szerinti érintett hatóságot.
 
 (4) A (3) bekezdés szerinti adatszolgáltató a nyilvántartásában beállt változásról haladéktalanul értesíti a központi szervet.
 
@@ -504,6 +510,8 @@ rendeletben állapítsa meg.
 (4) Az e törvény hatálybalépésekor a rendészeti feladatokat ellátó személy által használt szolgálati igazolvány és jelvény visszavonásig, de legkésőbb 2013. május 1-ig érvényes.
 
 (5) E törvénynek az egyes törvényeknek a közigazgatási hatósági eljárásokkal, az egyes közhiteles hatósági nyilvántartásokkal összefüggő, valamint egyéb törvények módosításáról szóló 2013. évi LXXXIV. törvény 91. §-a szerinti módosítása hatálybalépését követően rendészeti feladatokat el nem látó erdészeti szakszemélyzet és a jogosult erdészeti szakszemélyzet esetében az e törvény 8. § (2) bekezdését és (3) bekezdés a) pontját kell megfelelően alkalmazni.
+
+(6) A rendészeti feladatokat ellátó erdészeti szakszemélyzet és a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet részére az erdészeti hatóság által kezdeményezett eljárás során az e bekezdés hatálybalépéséig kiadott szolgálati igazolványok és szolgálati jelvények e bekezdés hatálybalépésétől számított 8 hónapig érvényesek.
 
 #### 20. Módosító rendelkezések
 

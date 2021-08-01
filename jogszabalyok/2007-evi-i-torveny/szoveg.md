@@ -264,6 +264,10 @@ rendelkező családtag száznyolcvan napon belül kilencven napot meghaladó tar
 
 (5) A tartózkodási kártya az érvényességi ideje alatt igazolja a tartózkodási jog fennállását.
 
+(6) A tartózkodási kártya kiadásakor, valamint a tartózkodási kártya cseréje és pótlása során az idegenrendészeti hatóság az (EU) 2019/1157 európai parlamenti és tanácsi rendelet szerint jár el.
+
+(7) A harmadik országbeli állampolgár családtag az arcképmása, valamint – az (EU) 2019/1157 európai parlamenti és tanácsi rendeletben meghatározott kivétellel – az ujjnyomata rögzítését tűrni köteles. Az ujjnyomat rögzítése hatéves kortól kötelező.
+
 23. § (1) Az EGT-állampolgár harmadik ország állampolgárságával rendelkező családtagja tartózkodási kártyájának érvényességi ideje a tartózkodási joggal rendelkező EGT-állampolgár tartózkodásának időtartamához igazodik. A tartózkodási kártyát legfeljebb ötéves érvényességgel kell kiállítani.
 
 (2)
@@ -274,11 +278,15 @@ rendelkező családtag száznyolcvan napon belül kilencven napot meghaladó tar
 
 tartózkodási jogát igazoló okmány
 
-24. § (1) Az EGT-állampolgár és a családtag állandó tartózkodási jogát az eljáró idegenrendészeti hatóság által kiállított okmány (a továbbiakban: állandó tartózkodási kártya) tanúsítja.
+24. § (1) Az EGT-állampolgár állandó tartózkodási jogát az eljáró idegenrendészeti hatóság által kiállított állandó tartózkodási kártya, az EGT-állampolgár harmadik országbeli családtagjának állandó tartózkodási jogát az eljáró idegenrendészeti hatóság által kiállított huzamos tartózkodási kártya (a továbbiakban együtt: állandó tartózkodási kártya) tanúsítja.
 
 (2) Az állandó tartózkodási kártya kiadása iránti kérelmet az eljáró idegenrendészeti hatóság az állandó tartózkodási kártya kiadásával teljesíti, vagy azt határozattal utasítja el.
 
 (3) Az állandó tartózkodási kártya iránti kérelem tárgyában indult eljárásban az eljáró idegenrendészeti hatóság az érdemi döntést a kérelem benyújtásától számított hetven napon belül hozza meg.
+
+(4) Az (1) bekezdés szerinti huzamos tartózkodási kártya kiadásakor, valamint a huzamos tartózkodási kártya cseréje és pótlása során az idegenrendészeti hatóság az (EU) 2019/1157 európai parlamenti és tanácsi rendelet szerint jár el.
+
+(5) A harmadik országbeli állampolgár családtag az arcképmása, valamint – az (EU) 2019/1157 európai parlamenti és tanácsi rendeletben meghatározott kivétellel – az ujjnyomata rögzítését tűrni köteles. Az ujjnyomat rögzítése hatéves kortól kötelező.
 
 25. § (1) A harmadik ország állampolgárságával rendelkező családtag köteles az állandó tartózkodási kártya kiállítása iránti kérelmet a tartózkodási kártya érvényességének lejárta előtt benyújtani. Ha a kérelmező a tartózkodási kártya érvényességének lejárta után nyújtja be a kérelmet, és magát kimenteni nem tudja, az állandó tartózkodás jogának fennállását igazolnia kell.
 
@@ -738,7 +746,10 @@ meghosszabbítása
 - g) a regisztrációt, illetve a tartózkodási jogot igazoló okmány cseréjének, pótlásának, az okmány elvesztésének, megsemmisülésének, a talált okmány visszaadásának tényét,
 - h) az EGT-állampolgár családi állapotát, amennyiben ez más személy tartózkodási jogát alapozza meg.
 
-#### 76/A. §
+76/A. § A tartózkodási jogot igazoló okmányokkal kapcsolatos, a 75. § (1) bekezdés b) és c) pontja szerinti résznyilvántartások az érintettek tartózkodási jogot igazoló okmányával kapcsolatos alábbi adatokat is tartalmazzák:
+
+- a) az (EU) 2019/1157 európai parlamenti és tanácsi rendelet szerinti arcképmás és ujjnyomat,
+- b) az arcképmáshoz rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló szám.
 
 76/B. § (1) Az eljáró idegenrendészeti hatóság a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum iránti kérelem és a kiadott vízum, illetve vízumot helyettesítő engedély (a továbbiakban e §-ban együtt: vízum) alapján a harmadik ország állampolgárságával rendelkező családtag következő adatait kezeli:
 
@@ -761,6 +772,8 @@ meghosszabbítása
 (2) Az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság vízumkérelem elutasítása esetén annak időpontjától, a kiadott vízum esetén annak érvényességi ideje lejártát, illetve visszavonását követő öt évig kezeli.
 
 76/D. § A kishatárforgalmi engedély kiadásához rögzített, a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet szerinti arcképmás és ujjnyomat adatot az eljáró idegenrendészeti hatóság a kishatárforgalmi engedély iránti kérelem tárgyában hozott véglegessé vált és végrehajtható döntésig kezelheti, azt követően haladéktalanul törölni kell.
+
+76/E. § Az EGT-állampolgár családtagja részére kiállított tartózkodási kártya, valamint a 24. § (1) bekezdése szerinti huzamos tartózkodási kártya kiadásához rögzített, az (EU) 2019/1157 európai parlamenti és tanácsi rendelet szerinti arcképmás és ujjnyomat adatot az eljáró idegenrendészeti hatóság a tartózkodási kártya és az állandó tartózkodási kártya kiadása iránti kérelem tárgyában hozott véglegessé vált és végrehajtható döntésig kezelheti, azt követően azt haladéktalanul törölni kell.
 
 77. § A tartózkodási jogot igazoló okmányokról vezetett résznyilvántartásokban az adatok a tartózkodási jog megszűnésétől vagy a tartózkodási jog gyakorlásával való felhagyás megállapításától számított öt évig kezelhetők.
 
@@ -1127,7 +1140,7 @@ c) aki a szabad mozgás és tartózkodás jogával rendelkező személyek beutaz
 
 #### 96. §
 
-#### 97. §
+97. § A 2021. augusztus 1-je előtt benyújtott, de el nem bírált EGT-állampolgár harmadik országbeli állampolgár családtagja tartózkodási kártya vagy állandó tartózkodási kártya kiadására, vagy az EGT-állampolgár családtagja tartózkodási kártya vagy állandó tartózkodási kártya pótlására vagy cseréjére irányuló kérelmek teljesítése esetén a 22. § (6)–(7) bekezdése, valamint a 24. § (4)–(5) bekezdése szerint kell az okmányt kiállítani.
 
 #### 98. §
 
@@ -1212,4 +1225,7 @@ c) aki a szabad mozgás és tartózkodás jogával rendelkező személyek beutaz
 - g) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2007. június 12-i 2007/533/IB tanácsi határozat 38–39. cikkének
 - h) Schengeni határ-ellenőrzési kódex, a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 810/2009/EK európai parlamenti és tanácsi rendelet, az 1683/95/EK tanácsi rendelet, az 539/2001/EK tanácsi rendelet, valamint a 767/2008/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2013. június 26-i 610/2013/EU európai parlamenti és tanácsi rendelet;
 - i) a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló, 2018. november 14-i (EU) 2018/1806 európai parlamenti és tanácsi rendelet
-- l) a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló (EU) 2018/1806 rendeletnek az Egyesült Királyság Unióból való kilépése tekintetében történő módosításáról szóló, 2019. április 10-i (EU) 2019/592 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+- l) a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló (EU) 2018/1806 rendeletnek az Egyesült Királyság Unióból való kilépése tekintetében történő módosításáról szóló, 2019. április 10-i (EU) 2019/592 európai parlamenti és tanácsi rendelet
+- m) az uniós polgárok személyazonosító igazolványai és a szabad mozgás jogával élő uniós polgárok és azok családtagjai részére kiállított tartózkodási okmányok biztonságának megerősítéséről szóló, 2019. június 20-i (EU) 2019/1157 európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.

@@ -84,7 +84,7 @@ egyes törvényeknek a kézbesítéssel és az igazságügyi ágazati szabályoz
 
 35. § Hatályát veszti a Kvtv.
 
-- a)
+- a) 6. § (1) bekezdés j) és l) pontja,
 - b)
 - c)
 

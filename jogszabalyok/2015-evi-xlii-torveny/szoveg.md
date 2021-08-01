@@ -39,7 +39,7 @@ is alkalmazni kell.
 
 (5) A tartalékállományra vonatkozó rendelkezéseket a szolgálati viszony megszűnését követően a hivatásos állományból tartalékállományba helyezettekre vagy tartalékállományban tartottakra is alkalmazni kell.
 
-(6) A 14. §-t, a 342. § (4) bekezdését, valamint a XXVIII/A., a XXIX. és XXX. Fejezet rendelkezéseit a rendvédelmi szervvel rendvédelmi igazgatási szolgálati jogviszonyban állókra is alkalmazni kell.
+(6) A 14. §-t, a 328/A. §-t, a 342. § (4) bekezdését, valamint a XXVIII/A., a XXIX. és XXX. Fejezet rendelkezéseit a rendvédelmi szervvel rendvédelmi igazgatási szolgálati jogviszonyban állókra is alkalmazni kell.
 
 (7) A 287/C. § rendelkezéseit a rendvédelmi szervvel munkaviszonyban állókra, a 290/B. §-t a rendvédelmi szervnél igazságügyi alkalmazotti jogviszonyban kell alkalmazni.
 
@@ -812,7 +812,7 @@ meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati b
 - a) a munkáltatói jogkört gyakorló elöljáró jogosult a hivatásos állomány tagjának szolgálati feladattal való ideiglenes ellátására intézkedni vagy részére ezen időtartamra szolgálatmentességet biztosítani, illetve
 - b) a hivatásos állomány tagja a vezetői visszavonással érintett vezetői beosztásának megfelelő illetményre jogosult.
 
-(3) Ha a vezetői kinevezés visszavonásakor a (2) bekezdés szerinti szolgálati beosztás nem biztosítható, vagy a felajánlásról egészségi állapota miatt nem lehet dönteni, a hivatásos állomány tagját – a vezetői besorolása szerinti utolsó illetménye 85%-ának folyósítása mellett – a szolgálati beosztásba helyezéséig, de legfeljebb egy évig rendelkezési állományba kell helyezni. Ez esetben a szolgálati hely és szolgálati tevékenység meghatározásáról az állományilletékes parancsnok köteles gondoskodni.
+(3) Ha a vezetői kinevezés visszavonásakor a (2) bekezdés szerinti szolgálati beosztás nem biztosítható, vagy a felajánlásról egészségi állapota miatt nem lehet dönteni, a hivatásos állomány tagját – a vezetői besorolása szerinti utolsó beosztási illetménye 85%-ának megállapítása mellett – a szolgálati beosztásba helyezéséig, de legfeljebb egy évig rendelkezési állományba kell helyezni. Ez esetben a szolgálati hely és szolgálati tevékenység meghatározásáról az állományilletékes parancsnok köteles gondoskodni.
 
 (4) Ha a hivatásos állomány tagja a neki felajánlott szolgálati beosztást elfogadja, új szolgálati beosztásának megfelelően be kell sorolni és illetményét megállapítani. Ha a hivatásos állomány tagja a vezetői kinevezés visszavonása után a neki felajánlott, a (2) bekezdésben meghatározott feltételeknek megfelelő szolgálati beosztást nem fogadja el, szolgálati viszonyát a 86. § (2) bekezdés e) pontja alapján felmentéssel meg kell szüntetni.
 
@@ -1091,7 +1091,7 @@ az (1) bekezdésben foglaltaktól eltérően a miniszter helyett az országos pa
 
 (2) Könnyített szolgálat ellátása esetén a szolgálatteljesítési idő heti harmincöt óra, túlszolgálat nem rendelhető el. A könnyített szolgálatban foglalkoztatott beleegyezése nélkül éjszakai szolgálatteljesítés nem rendelhető el.
 
-(3) A hivatásos állomány könnyített szolgálatban foglalkoztatott tagjának alapilletménye azon összegnek a 90%-a, amely a hivatásos állomány tagját alapilletményként az általa betöltött szolgálati beosztásban akkor illetné meg, ha a szolgálati beosztást nem könnyített szolgálatban töltené be.
+(3) A hivatásos állomány könnyített szolgálatban foglalkoztatott tagjának beosztási illetménye azon összegnek a 90%-a, amely a hivatásos állomány tagját beosztási illetményként az általa betöltött szolgálati beosztásban akkor illetné meg, ha a szolgálati beosztást nem könnyített szolgálatban töltené be.
 
 (4) A könnyített szolgálatban foglalkoztatottak által betölthető szolgálati beosztásokat a miniszter határozza meg.
 
@@ -2021,7 +2021,7 @@ elő kell írni. Ha a hivatásos állomány tagja az előírt képzési kötelez
 
 134. § (1) A szolgálatteljesítési idő heti negyven óra (a továbbiakban: általános heti szolgálatteljesítési idő). A részben vagy egészben készenléti jellegű szolgálati beosztásban (a továbbiakban: készenléti jellegű szolgálati beosztás) ennél hosszabb, de heti negyvennyolc órát meg nem haladó szolgálatteljesítési idő állapítható meg.
 
-(2) A szolgálatteljesítési idő – a heti szolgálatteljesítési idő figyelembevételével – többheti, de legfeljebb négyhavi vagy tizenhat heti keretben is meghatározható. A folyamatos ügyeleti szolgálat ellátására szervezett, valamint a készenléti jellegű szolgálati beosztásban a szolgálatteljesítési időt a heti szolgálatteljesítési időtartam figyelembevételével legfeljebb hathavi keretben is meg lehet határozni.
+(2) A szolgálatteljesítési idő – a heti szolgálatteljesítési idő figyelembevételével – többheti, de legfeljebb négyhavi vagy tizenhat heti keretben is meghatározható. A folyamatos ügyeleti szolgálat ellátására szervezett, a készenléti jellegű, továbbá a személyvédelmi feladatok ellátására rendszeresített szolgálati beosztásban a szolgálatteljesítési időt a heti szolgálatteljesítési időtartam figyelembevételével legfeljebb hathavi keretben is meg lehet határozni.
 
 (3) Készenléti jellegű szolgálati beosztás az a szolgálati beosztás, amelyben
 
@@ -5270,6 +5270,25 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 (2)
 
 (3) Nem kell engedélyeztetni a szolgálati időn kívül végzett, a hivatásos katasztrófavédelmi szerv hivatásos állománya tagjának kéményseprő-ipari közszolgáltatási tevékenység végzésére irányuló jogviszonyának létesítését, fenntartását.
+
+#### 126/A. A büntetés-végrehajtási szervezet állományára vonatkozó szabályok
+
+328/A. § (1) A büntetés-végrehajtási szervezetnél a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvényben és a végrehajtására kiadott miniszteri rendeletben foglalt börtönlelkészi szolgálat keretében a rendvédelmi igazgatási alkalmazottként foglalkoztatott börtönlelkész (a továbbiakban: börtönlelkész) az lehet, aki megfelel a 287/L. § (3) bekezdésében meghatározott követelményeknek és rendelkezik egyházi, illetve felekezeti elöljárója hozzájárulásával.
+
+(2) A börtönlelkész vonatkozásában
+
+- a) a 287/K. §-sal alkalmazni rendelt 20. §-t azzal az eltéréssel kell alkalmazni, hogy a börtönlelkész visszarendelésére kizárólag az egyházi, illetve felekezeti elöljáró előzetes hozzájárulásával kerülhet sor,
+- b) a munkaköri leírás meghatározására és módosítására – a hitéleti tevékenységgel összefüggésben – az egyházi, illetve felekezeti elöljáróval való előzetes egyeztetés alapján kerülhet sor, továbbá a börtönlelkész csak börtönlelkészi feladatok végzésére alkalmazható,
+- c) a 288. § (3) bekezdés d) és i) pontja nem alkalmazható,
+- d) a 288. § (3) bekezdés e) és h) pontja kizárólag az egyházi, illetve felekezeti elöljáró előzetes hozzájárulásával alkalmazható,
+- e) a 288/A–288/D. § nem alkalmazható,
+- f) a 288/E. § (3) bekezdés g) pontja alapján megszűnik az igazgatási szolgálati jogviszony, ha az egyházi, illetve felekezeti elöljáró a börtönlelkészként történt megbízáshoz adott hozzájárulását visszavonja,
+- g) a 288/M. §-t azzal a kiegészítéssel kell alkalmazni, hogy a börtönlelkész közvetlen vezetője a börtönlelkészi szolgálat ellátására vonatkozó intézkedést – a büntetés-végrehajtás rendjének és biztonságának biztosítása kivételével – nem tehet,
+- h) a 288/O. § (4) és (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy a börtönlelkész egyházi szolgálati jogviszonyt engedély nélkül létesíthet és tarthat fenn,
+- i) a 288/U. § (2) bekezdés a) pontjában foglalt feltétel helyett a börtönlelkész vonatkozásában a kinevezéshez a rendvédelmi szakvizsga helyett a rendvédelmi alapvizsga megléte is elegendő,
+- j) 289/H. §-a tekintetében ahol e törvény szolgálati időről rendelkezik, szolgálati időként kell figyelembe venni az egyházi szolgálati jogviszonyban töltött időt is.
+
+(3) A (2) bekezdés f) pontjában foglalt eseten kívül a börtönlelkész rendvédelmi igazgatási szolgálati jogviszonyának megszüntetésére az egyházi, illetve felekezeti elöljárója véleményének az előzetes kikérésével kerülhet sor.
 
 #### 127. Az Országgyűlési Őrség hivatásos állományára vonatkozó szabályok
 
