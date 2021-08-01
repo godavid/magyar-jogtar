@@ -16,7 +16,7 @@ Az Országgyűlés a hazai szőlőművelés érdekeinek előmozdítása, a borte
 
 3. § (1) A hegyközség egy borvidék egy vagy több településének szőlészeti és borászati termelői által e tevékenységükhöz fűződő közös érdekeik előmozdítására, valamint az általuk előállított termékek származás-, minőség- és eredetvédelmére létrehozott köztestület.
 
-(2) Szőlészeti és borászati termelőtevékenység borvidéken csak hegyközség tagjaként folytatható, borvidéken kívül pedig csak akkor, ha a szőlészeti és borászati termelő eleget tett a külön jogszabály szerinti nyilvántartásba vételi kötelezettségének.
+(2) Szőlészeti és borászati termelőtevékenység szakigazgatási egység területén csak hegyközség tagjaként folytatható, szakigazgatási egység területén kívül pedig csak akkor, ha a szőlészeti és borászati termelő eleget tett a külön jogszabály szerinti nyilvántartásba vételi kötelezettségének.
 
 (3) Szőlészeti és borászati felvásárló tevékenység akkor folytatható, ha a szőlészeti és borászati felvásárló a külön jogszabály szerinti nyilvántartásba vételi kötelezettségének eleget tett.
 
@@ -27,8 +27,9 @@ Az Országgyűlés a hazai szőlőművelés érdekeinek előmozdítása, a borte
 - a) szőlészeti termelő: aki 1000 m2-nél nagyobb területen borszőlőt művel, vagy területnagyságtól függetlenül borszőlőültetvényének termését értékesíti, és nem minősül borászati termelőnek,
 - b) borászati termelő: aki borászati terméket értékesítés céljából állít elő,
 - c) szőlészeti és borászati felvásárló: aki borszőlőt, mustot, illetve bort tovább-feldolgozási célú továbbértékesítés céljából vásárol,
-- d) borvidék: a szőlőtermesztésről és a borgazdálkodásról szóló törvény szerinti borvidék,
+- d) borvidék: termőhelyek összességéből álló szakigazgatási egység, amely több település közigazgatási területére kiterjedően hasonló éghajlati, domborzati, talajtani adottságokkal, jellemző fajtaösszetételű és művelésű ültetvényekkel, sajátos szőlő- és bortermelési hagyományokkal rendelkezik,
 - e) borrégió: a borvidékek közös érdekeik előmozdítására, valamint az általuk előállított termékek származás-, minőség- és eredetvédelmére létrehozott olyan önkéntes társulása, amely hasonló szőlő- és bortermelési hagyományokkal rendelkező, földrajzilag egymáshoz közel eső vagy határos borvidékek összességéből áll.
+- f) szakigazgatási egység: a borvidék és a borrégió.
 
 ### II. Fejezet — A HEGYKÖZSÉG SZERVEZETE
 
@@ -208,15 +209,15 @@ kezeli.
 
 #### 14. A tagsági viszony keletkezése és megszűnése
 
-17. § (1) A szőlészeti és borászati termelő hegyközségi tagsági viszonya, illetve a borvidéken kívül a szőlészeti és borászati termelőtevékenységet végző nyilvántartásba-vételi kötelezettsége azon a napon keletkezik, amelyen a tevékenységét megkezdi.
+17. § (1) A szőlészeti és borászati termelő hegyközségi tagsági viszonya, illetve a szakigazgatási egység területén kívül a szőlészeti és borászati termelőtevékenységet végző nyilvántartásba-vételi kötelezettsége azon a napon keletkezik, amelyen a tevékenységét megkezdi.
 
 (2) A szőlészeti és borászati felvásárló nyilvántartásba vételi kötelezettsége azon a napon keletkezik, amelyen a tevékenységét megkezdi.
 
-(3) A szőlészeti és borászati felvásárló és a nem borvidéki településen működő szőlészeti és borászati termelő a hegybírónak köteles bejelenteni a nevét (cégnevét), lakóhelyét (székhelyét, telephelyét), adóazonosító jelét vagy adószámát, a mezőgazdasági és vidékfejlesztési támogatási szerv által adott ügyfél-azonosítóját, és a miniszter e törvény felhatalmazása alapján kiadott rendelete szerinti egyéb, személyes adatnak nem minősülő adatokat.
+(3) A szőlészeti és borászati felvásárló és a szakigazgatási egységbe nem sorolt településen működő szőlészeti és borászati termelő a hegybírónak köteles bejelenteni a nevét (cégnevét), lakóhelyét (székhelyét, telephelyét), adóazonosító jelét vagy adószámát, a mezőgazdasági és vidékfejlesztési támogatási szerv által adott ügyfél-azonosítóját, és a miniszter e törvény felhatalmazása alapján kiadott rendelete szerinti egyéb, személyes adatnak nem minősülő adatokat.
 
 (4) Új telepítésű szőlő esetén a szőlészeti termelő hegyközségi tagsági viszonya – amennyiben még nem tagja a hegyközségnek – a telepítési engedély véglegessé válásával jön létre.
 
-(5) A hegyközségi tag, valamint a szőlészeti és borászati felvásárló, illetve a nem borvidéki településen működő szőlészeti és borászati termelő a hegybírónak köteles bejelenteni, hogy tevékenységével felhagyott, vagy a szőlészeti termelő a szőlőültetvény használatát másnak engedte át. A hegybíró a bejelentés alapján a tagsági jogviszony megszüntetéséről, ezzel összefüggésben a névjegyzékből való törlésről, illetve az adatszolgáltatási kötelezettség megszűnéséről határozatot hoz, amennyiben a szőlészeti és borászati termelőnek, illetve a szőlészeti és borászati felvásárlónak nincs járuléktartozása, illetve adatszolgáltatási kötelezettségének eleget tett.
+(5) A hegyközségi tag, valamint a szőlészeti és borászati felvásárló, illetve a szakigazgatási egységbe nem sorolt településen működő szőlészeti és borászati termelő a hegybírónak köteles bejelenteni, hogy tevékenységével felhagyott, vagy a szőlészeti termelő a szőlőültetvény használatát másnak engedte át. A hegybíró a bejelentés alapján a tagsági jogviszony megszüntetéséről, ezzel összefüggésben a névjegyzékből való törlésről, illetve az adatszolgáltatási kötelezettség megszűnéséről határozatot hoz, amennyiben a szőlészeti és borászati termelőnek, illetve a szőlészeti és borászati felvásárlónak nincs járuléktartozása, illetve adatszolgáltatási kötelezettségének eleget tett.
 
 (6) A szőlészeti termelő 30 napon belül köteles a hegybírónak bejelenteni, ha a szőlőültetvény művelésével felhagyott, az ültetvény tulajdonosának, illetve – amennyiben a szőlészeti termelő a tulajdonos volt – az új használó nevének és címének feltüntetésével.
 
@@ -241,7 +242,12 @@ kezeli.
 - a) tanácskozási joggal részt vegyen a közgyűlésen vagy részközgyűlésen;
 - b) a hegyközség belső szabályzatában foglaltak szerint igénybe vegye a hegyközség által nyújtott szolgáltatásokat.
 
-(3) Az (1) bekezdés a) pontjában meghatározott tagsági viszonyból eredő jogait természetes személy csak személyesen, jogi személy és jogi személyiséggel nem rendelkező szervezet a képviseletére jogosult útján gyakorolhatja.
+(3) Az (1) bekezdés a) és b) pontjában meghatározott tagsági viszonyból eredő jogait
+
+- a) természetes személy csak személyesen vagy közeli hozzátartozója vagy a képviseletében eljáró, legalább öt éve, legalább heti 20 órában folyamatosan alkalmazásában álló személy,
+- b) jogi személy és jogi személyiséggel nem rendelkező szervezet a képviseletére jogosult
+
+útján gyakorolhatja.
 
 (4) Aki több hegyközségnek is tagja, tisztséget csak egy hegyközségben viselhet.
 
@@ -300,7 +306,7 @@ kezeli.
 
 24. § (1) A hegyközségi tanács, ennek hiányában a hegyközségi választmány kizárólagos hatáskörébe tartozik
 
-- a) a borvidék területére vagy annak egy részére kiterjedő termőterülettel rendelkező oltalom alatt álló eredetmegjelölések és földrajzi jelzések 2011. december 31-ig benyújtott termékleírásával,
+- a) a borvidék területére vagy annak egy részére kiterjedő termőterülettel rendelkező oltalom alatt álló eredetmegjelölések és földrajzi jelzések termékleírásával,
 - b) a borvidéki rendtartással,
 - c) a borvidék közép- és hosszú távú stratégiájának kidolgozásával,
 - d) a borvidéket érintő közéleti eseményekkel
@@ -321,7 +327,7 @@ kapcsolatos feladatok ellátása.
 
 - a) a borrégió közép- és hosszú távú stratégiájának kidolgozása;
 - b) a borrégiót alkotó borvidékeken átívelő oltalom alatt álló eredetmegjelölések és földrajzi jelzések termékleírásaival kapcsolatos – a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló 1308/2013/EU európai parlamenti és tanácsi rendelet II. Rész II. Cím I. Fejezet 2. Szakasza szerinti – feladatok ellátása; és
-- c) a borrégiót alkotó valamely hegyközségi tanács által átadott feladatok ellátása.
+- c) a borrégiót alkotó valamely hegyközségi tanács vagy annak hiányában hegyközség által átadott feladatok ellátása.
 
 (2) A borrégiós tanács tagjai a hegyközségi tanácsok 24. § (2) bekezdés szerint megválasztott küldöttjei. A küldöttek a borrégiós tanácsban szőlészeti és borászati szekciót alakítanak.
 
@@ -329,7 +335,7 @@ kapcsolatos feladatok ellátása.
 
 (4) Az alapszabály elfogadását követően a borrégiós tanács székhelye szerint illetékes törvényszéknél kérni kell a borrégiós tanács nyilvántartásba-vételét. A borrégiós tanács a bírósági nyilvántartásba vétellel jön létre, az alapszabály elfogadásának napjára visszaható hatállyal. A törvényszék a borrégiós tanács nyilvántartásba-vételéről szóló határozatát a miniszterrel is közli.
 
-(5) A döntéshozatal során a küldöttet az őt delegáló hegyközségi tanács hegybírók által nyilvántartott területe alapján minden megkezdett száz hektár után egy szavazat illeti meg. A döntéshozatal során a szőlészeti és a borászati szekciót azonos szavazatszám illeti meg. A döntéshozatalhoz a küldöttek szavazattöbbsége és a szavazásra jogosult küldöttek több mint felének támogató szavazata is szükséges azzal, hogy azt mindkét szekció tagjai szavazatának többségével is támogatni kell.
+(5) A döntéshozatal során a küldöttet az őt delegáló hegyközségi tanács hegybírók által nyilvántartott területe alapján minden megkezdett száz hektár után egy szavazat illeti meg. A döntéshozatal során a szőlészeti és a borászati szekciót azonos szavazatszám illeti meg. Amennyiben az alapszabály egyhangúlag elfogadott módon másképp nem rendelkezik, a döntéshozatalhoz a küldöttek szavazattöbbsége és a szavazásra jogosult küldöttek több mint felének támogató szavazata is szükséges azzal, hogy azt mindkét szekció tagjai szavazatának többségével is támogatni kell.
 
 (6) A Tokaji Borvidék Hegyközségi Tanácsának döntéshozatala során a 25. §-ban foglaltakat kell alkalmazni.
 
@@ -381,7 +387,7 @@ kapcsolatos feladatok ellátása.
 (2) A hegyközségi rendtartás a hegyközség területén a borszőlő termőhelyi kataszterbe sorolt területre kiterjedő hatállyal határozza meg
 
 - a) az ingatlanok, az utak, vízelvezető árkok állapotára és növényvédelmére, valamint az ingatlanok rendeltetésszerű használatával kapcsolatos létesítmények karbantartására vonatkozó szabályokat;
-- b) a csemegeszőlő-telepítést kivéve gyümölcsös, erdő telepítése, fásítás, halastó és nádas létesítése, valamint a termőföld más célú hasznosítására vonatkozó hegybírói hozzájárulás megadására vagy elutasítására vonatkozó szabályokat.
+- b) a csemegeszőlő-telepítést kivéve gyümölcsös, erdő telepítése, fásítás, halastó és nádas létesítése, valamint a termőföld más célú hasznosítására vonatkozó hegyközségi hozzájárulás megadására vagy elutasítására vonatkozó szabályokat.
 
 (2a) A rendtartás (2) bekezdés szerinti előírásait a borszőlő termőhelyi kataszterbe eső, más művelési ágú külterületi ingatlanok használóinak és az utak kezelőinek is be kell tartaniuk.
 
@@ -420,12 +426,12 @@ kapcsolatos feladatok ellátása.
 - c) vezeti az újratelepítési jogok, az átváltott telepítési engedélyek, az új telepítési engedélyek és az újratelepítési engedélyek (a továbbiakban együtt: telepítési engedélyek) központi nyilvántartását;
 - d) termékek piacra jutását elősegítő szolgáltatásokat szervez;
 - e) képviselheti a hegyközséget a származás-, minőség- és eredetvédelemmel kapcsolatos ügyekben;
-- f)
+- f) hitelesíti a papíralapú kísérőokmányokat és szakmai-jövedéki nyilvántartásokat, és ezekről nyilvántartást vezet;
 - g) együttműködik a szőlő- és bortermeléssel kapcsolatban feladatokat ellátó hatóságokkal és intézményekkel;
 - h) kapcsolatot tart a nemzetközi eredetvédelmi szervezetekkel;
 - i) kiállításokat, borversenyeket, konferenciákat szervez.
 
-(2) A Hegyközségek Nemzeti Tanácsa a nem borvidéki települések vonatkozásában meghatározza az illetékes hegyközséget, valamint a közigazgatási feladatok ellátására kijelöli az illetékes hegybírót, és ezeket az információkat a honlapján közzéteszi.
+(2) A Hegyközségek Nemzeti Tanácsa a szakigazgatási egységbe nem sorolt települések vonatkozásában meghatározza az illetékes hegyközséget, valamint a közigazgatási feladatok ellátására kijelöli az illetékes hegybírót, és ezeket az információkat a honlapján közzéteszi.
 
 (3) A Hegyközségek Nemzeti Tanácsa jogszabályban foglalt feladatai ellátása érdekében informatikai rendszert működtet, melynek során jogosult a hegyközségi tagok és az adatszolgáltatásra kötelezettek személyes adatainak kezelésére. Az adatokhoz a hegybírók, a főtitkár, valamint a közigazgatási hatósági ügyben eljáró tisztségviselő számára a hozzáférést biztosítani kell.
 
@@ -451,8 +457,9 @@ kapcsolatos feladatok ellátása.
 - f) ellátja a számára törvényben meghatározott feladatokat,
 - g) az engedély nélkül telepített szőlőültetvényekről értesíti a növénytermesztési hatóságot,
 - h) a számítógépes nyilvántartásában foglalt adatokat rendszerezi és összegezi,
-- i) a szőlőtermesztésről és a borgazdálkodásról szóló törvényben szereplő közigazgatási szervek, valamint a borgazdálkodás körébe tartozó ellenőrzéseket végző szervezetek számára megkeresésre adatot szolgáltat,
+- i) a szőlészetről és borászatról szóló törvényben (a továbbiakban: Btv.) szereplő közigazgatási szervek, valamint a borgazdálkodás körébe tartozó ellenőrzéseket végző szervezetek számára megkeresésre adatot szolgáltat,
 - j) a szőlőtermelőnek a szőlőterületére, szőlőfajtáira, a tárgyévi termésmennyiségére és a szőlőfelhasználására vonatkozó adatokat egyedileg azonosítható módon, jövedéki ellenőrzés elősegítése céljára adathordozón vagy elektronikus úton továbbítja a vámhatóságnak.
+- k) ellenőrzi a neki címzett bejelentések és kérelmek, valamint az azok alapján kiadott hatósági bizonyítványok valóságtartalmát.
 
 (3) Ha a hegybíró a működési területén belüli hegyközségi tagnál irányítási jogviszonyban, munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban áll, ezen tag ügyeiben, valamint saját és közvetlen hozzátartozói ügyeiben nem járhat el. Az ezen ügyekkel kapcsolatos közigazgatási feladatok ellátására a Hegyközségek Nemzeti Tanácsának főtitkára jelöli ki az illetékes hegybírót.
 
@@ -488,7 +495,7 @@ kapcsolatos feladatok ellátása.
 
 (14) A Hegyközségek Nemzeti Tanácsának főtitkára – a szervezeti és működési szabályzatban meghatározott feltételek szerint, és az ott meghatározott hatáskörökre vonatkozóan – a különleges szakértelmet igénylő kiemelt ügyekben országos vagy regionális illetékességgel eljáró hegybírót jelölhet ki.
 
-41. § Aki a szőlő, must vagy bor származási bizonyítványát, vagy jogszabályban meghatározott, a hegybíró által kiadandó más igazolását nem a jogszabályban meghatározott határidőig kérelmezi, az okiratokat csak 5000 forinttól 500 000 forintig terjedő mulasztási bírság megfizetésével kaphatja meg. A hegybíró a bírság kiszabása során figyelembe veszi a késedelem időtartamát, az ügyfél késedelembe esésének gyakoriságát, továbbá származási bizonyítvány esetén a kérelemben foglalt szőlő, illetve bor mennyiségét. A mulasztási bírság a Hegyközségek Nemzeti Tanácsának bevétele.
+41. § Aki a származási bizonyítványt vagy jogszabályban meghatározott, a hegybíró által kiadandó más igazolását nem a jogszabályban meghatározott határidőig kérelmezi, az okiratokat csak 5000 forinttól 500 000 forintig terjedő mulasztási bírság megfizetésével kaphatja meg. A hegybíró a bírság kiszabása során figyelembe veszi a késedelem időtartamát, az ügyfél késedelembe esésének gyakoriságát, továbbá származási bizonyítvány esetén a kérelemben foglalt bor mennyiségét. A mulasztási bírság a Hegyközségek Nemzeti Tanácsának bevétele.
 
 #### 25. Közigazgatási hatósági ügyekkel kapcsolatos szabályok
 
@@ -511,7 +518,7 @@ jár el.
 
 (3) A szervezeti és működési szabályzatban kell meghatározni a közigazgatási hatósági ügyben eljáró személy kizárás miatt vagy bármely más okból való akadályoztatása esetére a feltételeknek megfelelő másik személy kijelölésére vonatkozó szabályokat.
 
-(4) E törvény, valamint a szőlőtermesztésről és a borgazdálkodásról szóló törvény alapján a hegybíró hatáskörébe tartozó ügyekben
+(4) E törvény, valamint a Btv. alapján a hegybíró hatáskörébe tartozó ügyekben
 
 - a) nincs helye sommás eljárásnak,
 - b)
@@ -635,7 +642,7 @@ kell fedezni.
 
 (4) A hegyközségi hozzájárulás alapösszegét és kiegészítő összegét minden év március 1-jéig kell megállapítani és közölni a hegyközségekkel.
 
-(5) A nem borvidéki településen működő szőlészeti, illetve borászati termelőnek az általa művelt szőlőültetvény területe alapján, valamint a feldolgozott bormennyiség alapján a Hegyközségek Nemzeti Tanácsa által megállapított mértékű hegyközségi járulékot kell fizetni a működése helye szerint illetékes hegyközség részére.
+(5) A szakigazgatási egységbe nem sorolt településen működő szőlészeti, illetve borászati termelőnek az általa művelt szőlőültetvény területe alapján, valamint a feldolgozott bormennyiség alapján a Hegyközségek Nemzeti Tanácsa által megállapított mértékű hegyközségi járulékot kell fizetni a működése helye szerint illetékes hegyközség részére.
 
 (6) Az (5) bekezdés szerinti hegyközségi járulék mértéke nem lehet több a szőlészeti, illetve a borászati termelők számára az adott évre megállapított hegyközségi járulék mértékének a hegyközségek területének nagyságával súlyozott országos átlagánál.
 
@@ -725,12 +732,13 @@ kell fedezni.
 
 61. § (1) Felhatalmazást kap a Kormány, hogy a mezőgazdasági igazgatási szervet rendeletben kijelölje.
 
-(2) Felhatalmazást kap a miniszter, hogy
+(2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
-- a) a hegyközségi tagok, az adatszolgáltatásra kötelezettek, a hegyközségek és a hegyközségi tanácsok adatszolgáltatásának rendjét,
+- a) az adatszolgáltatásra kötelezettek, a hegyközségek és a hegyközségi tanácsok adatszolgáltatásának rendjét,
 - b) a származási bizonyítvány kiadásának rendjét,
 - c) az adópolitikáért felelős miniszterrel egyetértésben a hegyközségi szervezetek által lefolytatott egyes eljárások igazgatási szolgáltatási díjainak mértékét és megfizetésének rendjét,
-- d) a hegybíró, a regionális titkár és a főtitkár tevékenységének ellenőrzési szabályait rendeletben állapítsa meg.
+- d) a hegybíró, a regionális titkár és a főtitkár tevékenységének ellenőrzési szabályait,
+- e) a borvidékeket és a borrégiókat, továbbá a hozzájuk tartozó települések listáját.
 
 #### 37. Hatályba léptető és hatályon kívül helyező rendelkezések
 

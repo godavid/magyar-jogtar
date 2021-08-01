@@ -113,11 +113,13 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 - f) irattári anyagának selejtezhető részét az irattári tervben megjelölt irattári őrzési idő letelte, illetve ügyviteli értékének megszűnése után, a szerv nem selejtezhető iratainak átvételére jogosult közlevéltár (a továbbiakban: illetékes közlevéltár) engedélyével kiselejtezni;
 - g) a nem selejtezhető irattári tételekbe tartozó, valamint a mintavétel során maradandó értékűnek minősített iratokat a kapcsolódó nyilvántartásokkal és segédletekkel együtt, olvasható formában, a 12. §-ban előírtak szerint az illetékes közlevéltárnak saját költségén átadni.
 
-(2) Elektronikus iratkezelés esetén a közfeladatot ellátó szerv kizárólag olyan iratkezelési szoftvert alkalmazhat, amely a külön jogszabályban meghatározott követelményeknek megfelel és tanúsítvánnyal rendelkezik.
+(2) Elektronikus iratkezelés esetén a közfeladatot ellátó szerv kizárólag olyan iratkezelési szoftvert alkalmazhat, amely a külön jogszabályban meghatározott követelményeknek megfelel és – az (5) bekezdésben meghatározott kivétellel – tanúsítvánnyal rendelkezik.
 
 (3) Az (1) bekezdésben meghatározott követelmények teljesítéséért, valamint az iratok szakszerű és biztonságos megőrzésére alkalmas irattár kialakításáért és működtetéséért, továbbá az iratkezeléshez szükséges egyéb tárgyi, technikai és személyi feltételek biztosításáért, valamint a megfelelő tanúsítvánnyal rendelkező iratkezelési szoftver használatáért a közfeladatot ellátó szerv vezetője felelős.
 
-(4) Az e törvényben, valamint a 35/A. § (1) bekezdése szerinti kormányrendeletben meghatározott követelmények teljesítésének részletes szabályait a közfeladatot ellátó szerv által készített egyedi, vagy a részére kötelezően előírt egységes iratkezelési szabályzat és irattári terv (a továbbiakban együtt: iratkezelési szabályzat) tartalmazza.
+(4) Az e törvényben, valamint a 35/A. § (1) bekezdése szerinti kormányrendeletben meghatározott követelmények teljesítésének részletes szabályait a közfeladatot ellátó szerv által a 10. § (1) bekezdése alapján készített egyedi, a részére a 10. § (2) bekezdése alapján kötelezően előírt egységes iratkezelési szabályzat és irattári terv (a továbbiakban együtt: iratkezelési szabályzat) vagy a Kormánynak a 10. § (2a) bekezdése alapján kiadott rendelete tartalmazza.
+
+(5) A közfeladatot ellátó szerv jogszabály-előkészítéssel összefüggő feladatának a Kormány rendeletében meghatározott elektronikus zárt rendszeren (a továbbiakban: jogszabály-előkészítési munkafolyamatot támogató szoftver) keresztül történő megvalósítása esetén a jogszabály-előkészítési munkafolyamatot támogató szoftverben keletkező irattal kapcsolatos iratkezelésre a jogszabály-előkészítési munkafolyamatot támogató szoftvert kell a Kormány rendeletében meghatározottak szerint használni. A közfeladatot ellátó szerv (3) bekezdés szerinti felelőssége a jogszabály-előkészítési munkafolyamatot támogató szoftverben keletkező irattal kapcsolatosan a Kormány rendeletében meghatározottak szerint áll fenn.
 
 9/A. § (1) Közfeladatot ellátó szerv megszüntetése vagy feladatkörének megváltoztatása esetén a rendelkező szerv köteles intézkedni az érintett szerv irattári anyagának további elhelyezéséről, biztonságos megőrzéséről, kezeléséről és használhatóságáról.
 
@@ -129,9 +131,9 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 
 ### Az iratkezelési szabályzatok kiadása
 
-10. § (1) Egyedi iratkezelési szabályzatot ad ki:
+10. § (1) Az e törvényben meghatározott kivételekkel egyedi iratkezelési szabályzatot ad ki:
 
-- a) a közfeladatot ellátó szerv – e törvényben foglalt kivételekkel – az illetékes közlevéltárral egyetértésben,
+- a) a közfeladatot ellátó szerv az illetékes közlevéltárral egyetértésben,
 - b) a központi államigazgatási szerv a Magyar Nemzeti Levéltárral, az illetékes szaklevéltárral és a köziratok kezelésének szakmai irányításáért felelős miniszterrel egyetértésben,
 - c) az önkormányzati hivatal számára a jegyző (főjegyző) a Magyar Nemzeti Levéltárral, a 18. § (2) bekezdésében meghatározott esetekben Budapest Főváros Önkormányzata által fenntartott levéltárral és a Kormány általános hatáskörű területi államigazgatási szervével egyetértésben.
 
@@ -141,11 +143,13 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 - b) az Országos Bírósági Hivatal elnöke a bíróságok, a legfőbb ügyész az ügyészségek részére a Magyar Nemzeti Levéltárral egyetértésben,
 - c) az igazságügyért felelős miniszter a közjegyzők és bírósági végrehajtók, valamint ezek kamarái, továbbá az igazságügyi szakértői tevékenység végzésére feljogosított természetes személyek és gazdasági társaságok, igazságügyi szakértői intézmények, hatósági tolmácsok, hiteles szakfordítók és büntető ügyekben közvetítői tevékenységet végző ügyvédek tekintetében a köziratok kezelésének szakmai irányításáért felelős miniszterrel, valamint a kultúráért felelős miniszterrel egyetértésben.
 
+(2a) A jogszabály-előkészítésnek a jogszabály-előkészítési munkafolyamatot támogató szoftveren keresztül történő megvalósítása tekintetében az iratkezelési szabályzat tartalmát a jogszabály-előkészítési munkafolyamatot támogató szoftver felhasználója által az abban létrehozott irattal kapcsolatos iratkezelésre kiterjedően a Kormány rendeletben határozza meg.
+
 (3) A 10. § (1) bekezdés b) pontja és a 10. § (2) bekezdésének a) pontja szerinti iratkezelési szabályzatokat a szakmai irányítást ellátó miniszter vagy a központi államigazgatási szerv vezetője egységes iratkezelési szabályzatban is kiadhatja.
 
 (4) A szakmai irányítást ellátó miniszter az állami és helyi önkormányzati intézmények meghatározott csoportja részére a köziratok kezelésének szakmai irányításáért felelős miniszterrel, valamint a kultúráért felelős miniszterrel egyetértésben egységes iratkezelési szabályzatot vagy egyedi iratkezelési szabályzatuk mellékletét képező egységes irattári tervet ad ki.
 
-(5) Az önkormányzati hivatal számára a helyi önkormányzatokért felelős miniszter a köziratok kezelésének szakmai irányításáért felelős miniszterrel és a kultúráért felelős miniszterrel egyetértésben egységes irattári tervet ad ki.
+(5) Az önkormányzati hivatal számára – a (2a) bekezdésben meghatározott kivétellel – a helyi önkormányzatokért felelős miniszter a köziratok kezelésének szakmai irányításáért felelős miniszterrel és a kultúráért felelős miniszterrel egyetértésben egységes irattári tervet ad ki.
 
 (6) Az önkormányzati társulás a társulási megállapodásban foglalt esetben rendelkezik az iratkezelés szabályozásáról.
 
@@ -167,7 +171,7 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 
 ### A köziratok levéltárba adása
 
-12. § (1) A nem selejtezhető köziratok teljes és lezárt évfolyamait — az (5) bekezdésben meghatározott kivétellel — a keletkezés naptári évétől számított tizenötödik év végéig kell az illetékes közlevéltárnak átadni.
+12. § (1) A nem selejtezhető köziratok teljes és lezárt évfolyamait — a (4) és (5) bekezdésben meghatározott kivétellel — a keletkezés naptári évétől számított tizenötödik év végéig kell az illetékes közlevéltárnak átadni.
 
 (2) A nem selejtezhető köziratok átadásának-átvételének időpontjáról az átadó szerv és az illetékes közlevéltár közösen állapodik meg.
 
@@ -522,6 +526,8 @@ iratkezelésére és levéltári anyagára, továbbá mindezek jogelődeinek, a 
 - f) a kijelölés felfüggesztésének, megszűnésének eseteit
 
 rendeletben állapítsa meg.
+
+(3) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a jogszabály-előkészítési munkafolyamatot támogató szoftverként a köziratok e törvényben meghatározott kezelésének és védelmének követelményeit megvalósító szoftvert és az annak felhasználója által az abban létrehozott irattal kapcsolatos iratkezelésre kiterjedően az iratkezelés követelményeit és az iratkezelési szabályzat tartalmát.
 
 36. § Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben szabályozza
 

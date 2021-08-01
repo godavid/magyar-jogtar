@@ -316,7 +316,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 ### A száznyolcvan napon belül kilencven napot meghaladó tartózkodásra vonatkozó különös szabályok
 
-19. § (1) Családi együttélés biztosítása céljából tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, aki tartózkodási, bevándorlási, letelepedési, ideiglenes letelepedési, nemzeti letelepedési vagy EK letelepedési engedéllyel rendelkező harmadik országbeli állampolgár, illetve magyar állampolgár, vagy külön törvény szerinti tartózkodási kártyával vagy állandó tartózkodási kártyával rendelkező személy (a továbbiakban e § alkalmazásában: családegyesítő) családtagja.
+19. § (1) Családi együttélés biztosítása céljából tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, aki tartózkodási, bevándorlási, letelepedési, ideiglenes letelepedési, nemzeti letelepedési vagy EK letelepedési engedéllyel rendelkező harmadik országbeli állampolgár, illetve magyar állampolgár, vagy külön törvény szerinti tartózkodási kártyával, állandó tartózkodási kártyával, vagy huzamos tartózkodási kártyával rendelkező személy (a továbbiakban e § alkalmazásában: családegyesítő) családtagja.
 
 (2) Családi együttélés biztosítása céljából tartózkodási engedélyt kaphat
 
@@ -3316,4 +3316,9 @@ való megfelelést szolgálja.
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(3) E törvény a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló (EU) 2018/1806 rendeletnek az Egyesült Királyság Unióból való kilépése tekintetében történő módosításáról szóló, 2019. április 10-i (EU) 2019/592 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(3) Ez a törvény
+
+- a) a külső határok átlépésekor vízumkötelezettség alá eső, illetve az e kötelezettség alól mentes harmadik országbeli állampolgárok országainak felsorolásáról szóló (EU) 2018/1806 rendeletnek az Egyesült Királyság Unióból való kilépése tekintetében történő módosításáról szóló, 2019. április 10-i (EU) 2019/592 európai parlamenti és tanácsi rendelet,
+- b) az uniós polgárok személyazonosító igazolványai és a szabad mozgás jogával élő uniós polgárok és azok családtagjai részére kiállított tartózkodási okmányok biztonságának megerősítéséről szóló, 2019. június 20-i (EU) 2019/1157 európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.

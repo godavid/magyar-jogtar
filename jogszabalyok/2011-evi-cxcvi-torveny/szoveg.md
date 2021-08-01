@@ -2303,7 +2303,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 2.4. | PÉCS Nyár u. 8. | Idrisz Baba türbéje |
 | 2.5. | PÉCS Minaret tér (Rákóczi út) | Jakováli Hasszán pasa dzsámija |
 | 2.6. | PÉCS Szent István tér | ókeresztény mauzóleum |
-| 2.7. | PÉCS Szepessy I. u. 3. | Egyetemi Könyvtár |
+| 2.7. |  |  |
 | 2.8. | PÉCS, Mecsekalja, Jakabhegy | pálos templom- és kolostorrom |
 | 2.9. | PÉCSVÁRAD | vár |
 | 2.10. | SIKLÓS | vár |

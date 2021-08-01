@@ -455,11 +455,12 @@ jogosultak.
 
 szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított hét évig, szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a mentesítés beálltától számított öt évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a mentesítés beálltától számított három évig, szándékos bűncselekmény miatt kiszabott elzárás, közérdekű munka vagy pénzbüntetés esetén a mentesítés beálltától számított két évig,
 
-- c) a b) pontban meghatározott bűncselekmény miatt büntetőeljárás hatálya alatt áll.
+- c) a b) pontban meghatározott bűncselekmény miatt büntetőeljárás hatálya alatt áll, vagy
+- d) cselekvőképtelen, korlátozottan cselekvőképes vagy a cselekvőképességet korlátozó gondnokság alatt áll.
 
 (3)
 
-(4) A rendőrség a hatósági ellenőrzéskor az (1) és (2) bekezdésben meghatározott feltételek fennállását vizsgálja. A rendőrség a hatósági ellenőrzés során az (1) és a (2) bekezdésben meghatározott feltételek fennállásának ellenőrzése céljából jogosult a bűntettesek nyilvántartásából, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából, a büntetőeljárás hatálya alatt állók nyilvántartásából, a bírósági cégnyilvántartásból, a rendőrség által a felügyeleti bírsággal sújtott vállalkozásokról vezetett nyilvántartásból, valamint a központi szabálysértési nyilvántartásból az (1) és (2) bekezdésben meghatározott feltételekre vonatkozó adatokat közvetlen hozzáféréssel átvenni.
+(4) A rendőrség a hatósági ellenőrzéskor az (1) és (2) bekezdésben meghatározott feltételek fennállását vizsgálja. A rendőrség a hatósági ellenőrzés során az (1) és a (2) bekezdésben meghatározott feltételek fennállásának ellenőrzése céljából jogosult a bűntettesek nyilvántartásából, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából, a büntetőeljárás hatálya alatt állók nyilvántartásából, a bírósági cégnyilvántartásból, a rendőrség által a felügyeleti bírsággal sújtott vállalkozásokról vezetett nyilvántartásból, a gondnokoltak nyilvántartásából, valamint a központi szabálysértési nyilvántartásból az (1) és (2) bekezdésben meghatározott feltételekre vonatkozó adatokat közvetlen hozzáféréssel átvenni.
 
 (5) A rendőrség a hatósági ellenőrzés során a (4) bekezdés szerint átvett adatokat a hatósági ellenőrzés befejezéséig kezelheti, az ellenőrzést követően az adatokat törli. Ha a hatósági ellenőrzés során a rendőrség a tevékenység gyakorlását kizáró okot tár fel és az engedély visszavonására, illetve a tevékenység végzésétől való eltiltásra eljárást indít, az átvett adatokat az eljárás során hozott döntés véglegessé válásáig kezelheti.
 
@@ -557,7 +558,7 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 (5) Felhatalmazást kap a kereskedelemért felelős miniszter, hogy a rendészetért felelős miniszterrel egyetértésben rendeletben:
 
 - a) meghatározza a fegyver és lőszer forgalomba hozatalához, forgalmazásához szükséges megelőző és időszakos megvizsgálásának szabályait;
-- b) meghatározza az a) pontban felsorolt eszközök vizsgálatára vonatkozó mérési eljárásokat és eszközöket, a vizsgálat módját és követelményeit, a kiadandó tanúsítványra, szakvéleményre vonatkozó előírásokat, és kijelölje a vizsgálatra, tanúsítvány, szakvélemény kiadására jogosult szervezetet;
+- b) meghatározza az a) pontban felsorolt eszközök vizsgálatára vonatkozó mérési eljárásokat és eszközöket, a vizsgálat módját és követelményeit, a kiadandó tanúsítványra, szakvéleményre vonatkozó előírásokat, kijelölje a vizsgálatra, tanúsítvány, szakvélemény kiadására jogosult szervezetet, valamint meghatározza az (1a) bekezdés szerinti nemzeti kapcsolattartó pontként kijelölt szervezet által ellátandó feladatokat;
 - c) kijelölje a lőfegyverek hatástalanításának végrehajtására jogosult szervezetet.
 
 ### Az Európai Unió jogának való megfelelés
