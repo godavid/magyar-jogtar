@@ -114,6 +114,7 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 - 43. forgalmazás-teljesítési nap: az a nap, amelyen az elszámolt vételi és visszaváltási megbízások ellenértékét a befektetők felé teljesítik, jóváírják;
 - 44. forgalmazó: a kollektív befektetési értékpapír forgalomba hozatalában közreműködő, a Tpt. 23. § (1) bekezdésében meghatározott szervezet;
 - 45. forgalomba hozatal: a kollektív befektetési értékpapír keletkeztetése és az első tulajdonosnak történő átadása;
+- 45a. forgalomba hozatalt megelőző tájékoztatás: az Európai Unióban lakóhellyel vagy székhellyel rendelkező lehetséges szakmai befektetők számára – a befektetési stratégiákra vagy befektetési elképzelésekre vonatkozóan uniós ABAK vagy annak megbízottja által – végzett közvetett vagy közvetlen információszolgáltatás vagy kommunikáció egy még létre nem hozott ABA vagy részalapja vagy egy olyan, már létrehozott ABA vagy részalapja iránti érdeklődésük felmérése céljából, amelynek vonatkozásában a forgalmazással kapcsolatos, a 120. §-nak, illetve a 121. §-nak megfelelő értesítés még nem történt meg a lehetséges befektetők lakóhelye vagy székhelye tagállamában, és amely egyik esetben sem minősül a lehetséges befektetőknek címzett, az ABA vagy részalapja kollektív befektetési értékpapírjaiba történő befektetésre irányuló ajánlattételnek vagy az említett kollektív befektetési értékpapírok befektetőkhöz történő kihelyezésének;
 - 46. főiroda: az a hely, ahol a vállalkozás üzleti tevékenységével kapcsolatos központi döntéshozatal történik;
 - 47. gyűjtő-ABA: olyan ABA, amely
   - a) eszközeinek legalább 85%-át egy másik ABA (cél-ABA) kollektív befektetési értékpapírjaiba fekteti,
@@ -128,7 +129,7 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 - 52. hozzátartozó: a Ptk.-ban meghatározott fogalom;
 - 53. induló tőke: a vállalkozás alapításkori jegyzett tőkéjének, a tőketartalékának és az eredménytartalékának összege;
 - 54. jogi képviselő: az a természetes személy, akinek lakóhelye az Európai Unióban van, illetve az a jogi személy, amelynek székhelye az Európai Unióban van, és akit vagy amelyet egy nem uniós ABAK jelölt ki arra, hogy a hatóságok, ügyfelek, szervezetek és nem uniós ABAK üzletfelei felé az Európai Unióban a nevében eljárjon ezen törvény szerinti kötelezettségei tekintetében;
-- 54a. jó üzleti hírnév: a befektetési alapkezelő vezető állású személyeinek, teljes tevékenységet irányító személyének, a befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személyének, minősített befolyással rendelkező tagjainak a befektetési alapkezelő irányítására vagy tulajdonlására való alkalmasságát igazoló feltételek megléte;
+- 54a. jó üzleti hírnév: a befektetési alapkezelő vezető állású személyeinek, a befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személyének, minősített befolyással rendelkező tagjainak a befektetési alapkezelő irányítására vagy tulajdonlására való alkalmasságát igazoló feltételek megléte;
 - 55. kereskedelmi kommunikáció: a tájékoztató, a kezelési szabályzat, a kiemelt befektetői információ és a hirdetmény kivételével minden, a befektetők tájékoztatását szolgáló, a kollektív befektetési értékpapír nyilvános forgalomba hozatalával és forgalmazásával összefüggésbe hozható, reklámban vagy egyéb módon közölt információ;
 - 56. kibocsátó: a Tpt.-ben meghatározott fogalom;
 - 57. kibocsátási program: a Tpt.-ben meghatározott fogalom;
@@ -427,32 +428,36 @@ alá.
 - c) legalább hároméves pénzügyi szakmai gyakorlattal és legalább hároméves pénzügyi, illetve gazdasági területen szerzett vezetői gyakorlattal rendelkezik és
 - d) igazolja, hogy vele szemben a (10) bekezdésében meghatározott kizáró okok és ÁÉKBV-alapkezelő esetén a 27. §-ban, ABAK esetében a 34. §-ban meghatározott összeférhetetlenségi okok nem állnak fenn.
 
-(3) A befektetési alapkezelő ügyvezetőjének, igazgatósága, valamint felügyelőbizottsága tagjának, teljes tevékenységet irányító személyének, a befektetéskezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személyének az nevezhető ki, akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját megelőzően a Felügyeletnek – az előzetes engedély megszerzése érdekében – bejelentették, és a Felügyelet az engedélyt megadta.
+(3) A befektetési alapkezelő ügyvezetőjének, igazgatósága, valamint felügyelőbizottsága tagjának, a befektetéskezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személyének az nevezhető ki, akinek személyét a megválasztás, illetve a kinevezés tervezett időpontját megelőzően a Felügyeletnek – az előzetes engedély megszerzése érdekében – bejelentették, és a Felügyelet az engedélyt megadta.
 
-(4) A befektetési alapkezelő ügyvezetője, igazgatósága, valamint felügyelőbizottsága tagja, teljes tevékenységet irányító személye, a befektetéskezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személye valamint a befektetési alapkezelő köteles a Felügyeletnek haladéktalanul bejelenteni, ha az engedély megadását követően kizárási ok merül fel. A megválasztáshoz vagy kinevezéshez megadott engedélyt a Felügyelet visszavonhatja, illetve felfüggesztheti, ha az engedély alapjául szolgáló feltétel az engedély megadását követően megszűnik, illetve ha az engedély megadását követően merül fel kizárási ok.
+(4) A befektetési alapkezelő ügyvezetője, igazgatósága, valamint felügyelőbizottsága tagja, a befektetéskezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személye valamint a befektetési alapkezelő köteles a Felügyeletnek haladéktalanul bejelenteni, ha az engedély megadását követően kizárási ok merül fel. A megválasztáshoz vagy kinevezéshez megadott engedélyt a Felügyelet visszavonhatja, illetve felfüggesztheti, ha az engedély alapjául szolgáló feltétel az engedély megadását követően megszűnik, illetve ha az engedély megadását követően merül fel kizárási ok.
 
-(4a) Ha a befektetési alapkezelő ügyvezetője, igazgatósága, valamint felügyelőbizottsága tagja, teljes tevékenységet irányító személye, a befektetéskezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személye kinevezésére vagy megválasztására az engedély megszerzésétől számított három hónapon belül nem kerül sor, úgy arra csak ismételt engedélyezést követően nevezhető ki vagy választható meg. Az ismételt engedélyezési eljárásra a (3) bekezdésben meghatározott szabályok alkalmazandók.
+(4a) Ha a befektetési alapkezelő ügyvezetője, igazgatósága, valamint felügyelőbizottsága tagja, a befektetéskezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személye kinevezésére vagy megválasztására az engedély megszerzésétől számított három hónapon belül nem kerül sor, úgy arra csak ismételt engedélyezést követően nevezhető ki vagy választható meg. Az ismételt engedélyezési eljárásra a (3) bekezdésben meghatározott szabályok alkalmazandók.
 
-(5) A befektetési alapkezelő teljes tevékenységét irányító személy az lehet, aki
-
-- a) a (9) bekezdésben meghatározott bűncselekményi kör tekintetében büntetlen előéletű, és e tényt – a (9a) bekezdésben foglaltak figyelembevételével – igazolja;
-- b) felsőfokú végzettséggel,
-- c) legalább ötéves szakmai gyakorlattal rendelkezik, amelyből legalább 2 év magyarországi szakmai gyakorlat, és
-- d) nem áll a tevékenységének megfelelő foglalkozástól eltiltó jogerős bírói ítélet hatálya alatt.
+(5)
 
 (6) A befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személy az lehet, aki a (9) bekezdésben meghatározott bűncselekményi kör tekintetében büntetlen előéletű – és e tényt a (9a) bekezdésben foglaltak figyelembevételével igazolja –, legalább kétéves, befektetési területen szerzett szakmai gyakorlattal rendelkezik, amelyből legalább 1 év magyarországi szakmai gyakorlat, és akivel szemben nem áll fenn a (10) bekezdésben meghatározott kizáró ok.
 
-(7) Az adminisztratív tevékenységet irányító személy az lehet, aki a (9) bekezdésben meghatározott bűncselekményi kör tekintetében büntetlen előéletű – és e tényt a (9a) bekezdésben foglaltak figyelembevételével igazolja –, legalább kétéves portfóliókezelési, befektetési alapkezelési vagy pénzügyi intézményi szakmai gyakorlattal rendelkezik, amelyből legalább 1 év magyarországi szakmai gyakorlat, és akivel szemben nem áll fenn a (10) bekezdésben meghatározott kizáró ok.
+(6a) A (6) bekezdésben foglaltak figyelembevétele mellett
 
-(8) A (2) és (5)–(7) bekezdés esetében
+- a) ingatlanalapot is kezelő befektetési alapkezelő befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személy tekintetében – kizárólag az ingatlanalapok vonatkozásában – szakmai gyakorlatként ingatlanforgalmazónál, ingatlanalapot kezelő befektetési alapkezelőnél szakirányú területen,
+- b) kockázati tőkealap-kezelő befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személy tekintetében üzletviteli tanácsadással foglalkozó gazdasági társaságnál szakirányú területen
+
+munkavégzésre irányuló jogviszonyban eltöltött idő is szakmai gyakorlatnak számít.
+
+(7)
+
+(8) A (2) bekezdés esetében
 
 - a) a befektetési alapkezelőnél, kollektív befektetési formánál, befektetési vállalkozásnál, pénzügyi intézménynél, biztosítónál, önkéntes, kölcsönös biztosító pénztárnál, magánnyugdíjpénztárnál, foglalkoztatói nyugdíj szolgáltató intézménynél,
 - b) az MNB-nél, a minisztériumban, szabályozott piacnál, tőzsdénél, a központi értéktárnál, központi szerződő félnél, az Államadósság Kezelő Központ Zrt.-nél, a Magyar Államkincstárnál,
-- c) ingatlanalapot kezelő befektetési alapkezelő ingatlanbefektetési tevékenységét irányító személye esetében ingatlanforgalmazónál, ingatlanalapot kezelő alapkezelőnél,
-- d) kockázatitőkealap-kezelő, magántőkealap-kezelő vezető állású személye esetén üzletviteli tanácsadással foglalkozó gazdasági társaságnál, valamint
-- e) az a)–d) pontban felsoroltak külföldi megfelelőinél szakirányú területen munkavégzésre irányuló jogviszonyban eltöltött idő számít szakmai gyakorlatnak.
+- c) kizárólag ingatlanalapot kezelő befektetési alapkezelő vezető állású személye esetében – az a) és b) pontban foglaltakon túl – az ingatlanforgalmazónál,
+- d) kockázati tőkealap-kezelő vezető állású személye esetében – az a) és b) pontban foglaltakon túl – üzletviteli tanácsadással foglalkozó gazdasági társaságnál, valamint
+- e) az a)–d) pontban felsoroltak külföldi megfelelőinél
 
-(9) A (2) és (5)–(7) bekezdés szempontjából az alábbi bűncselekményeket kell figyelembe venni:
+szakirányú területen munkavégzésre irányuló jogviszonyban eltöltött idő számít szakmai gyakorlatnak.
+
+(9) A (2), (6) és (6a) bekezdés szempontjából az alábbi bűncselekményeket kell figyelembe venni:
 
 - a) a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) XV. fejezet III. címében meghatározott bűncselekmények, a hamis vád (1978. évi IV. törvény 233. §), a hatóság félrevezetése (1978. évi IV. törvény 237. §), a hamis tanúzás (1978. évi IV. törvény 238. §), a hamis tanúzásra felhívás (1978. évi IV. törvény 242. §), a mentő körülmény elhallgatása (1978. évi IV. törvény 243. §), a bűnpártolás (1978. évi IV. törvény 244. §), a 1978. évi IV. törvény XV. fejezet VII. címében és VIII. címében meghatározott bűncselekmények, a terrorcselekmény (1978. évi IV. törvény 261. §), a nemzetközi gazdasági tilalom megszegése (1978. évi IV. törvény 261/A. §), a légi jármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), a visszaélés robbanóanyaggal vagy robbantószerrel (1978. évi IV. törvény 263. §), a visszaélés lőfegyverrel vagy lőszerrel (1978. évi IV. törvény 263/A. §), a visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel (1978. évi IV. törvény 263/B. §), a bűnszervezetben részvétel (1978. évi IV. törvény 263/C. §), a visszaélés atomenergia alkalmazásával (1978. évi IV. törvény 264/B. §), a visszaélés nemzetközi szerződés által tiltott fegyverrel (1978. évi IV. törvény 264/C. §), az önbíráskodás (1978. évi IV. törvény 273. §), a 1978. évi IV. törvény XVI. fejezet III. címében, továbbá XVII. és XVIII. fejezetében meghatározott bűncselekmények,
 - b) az atomenergia alkalmazásával visszaélés (Btk. 252. §), a minősített adattal visszaélés (Btk. 265. §), a hamis vád (Btk. 268. §), a hatóság félrevezetése (Btk. 271. §), a hamis tanúzás (Btk. 272. §), a hamis tanúzásra felhívás (Btk. 276. §), a mentő körülmény elhallgatása (Btk. 281. §), a bűnpártolás (Btk. 282. §), a Btk. XXVII. Fejezetében meghatározott bűncselekmények, a terrorcselekmény (Btk. 314–316/A. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), a terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §), a jármű hatalomba kerítése (Btk. 320. §), a bűnszervezetben részvétel (Btk. 321. §), a robbanóanyaggal vagy robbantószerrel visszaélés (Btk. 324. §), a lőfegyverrel vagy lőszerrel visszaélés (Btk. 325. §), a nemzetközi szerződés által tiltott fegyverrel visszaélés (Btk. 326. §), a nemzetközi gazdasági tilalom megszegése (Btk. 327. §), a nemzetközi gazdasági tilalom megszegése feljelentésének elmulasztása (Btk. 328. §), a haditechnikai termékkel vagy szolgáltatással visszaélés (Btk. 329. §), a kettős felhasználású termékkel visszaélés (Btk. 330. §), a Btk. XXXIII. és XXXV–XLIII. Fejezetében meghatározott bűncselekmények.
@@ -462,7 +467,7 @@ alá.
 - a) magyar állampolgár esetén a Felügyelet által beszerzett vagy az ügyfél által szolgáltatott – a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 71. § (1) bekezdése alapján kibocsátott hatósági bizonyítvány szerinti tartalmú – adatok igazolják,
 - b) nem magyar állampolgár esetén az általa beszerzett, és a Felügyelet számára a kérelemmel együtt megküldött, a nem magyar állampolgár személyes joga szerinti, az a) pontban foglalt hatósági bizonyítványnak megfelelő okirat igazolja.
 
-(10) Az (5)–(7) bekezdés vonatkozásában kizáró ok olyan személlyel szemben áll fenn, aki:
+(10) Az (6) és (6a) bekezdés vonatkozásában kizáró ok olyan személlyel szemben áll fenn, aki:
 
 - a) 10%-ot elérő vagy azt meghaladó közvetlen, illetve közvetett tagi részesedéssel rendelkezik, rendelkezett, illetve vezető állású személy volt olyan, a Felügyelet által felügyelt intézményben, amely a befektetési alapkezelési tevékenység végzésére vonatkozó engedély iránti kérelem benyújtását megelőző 5 éven belül fizetésképtelenné vált, vagy fizetésképtelenségét csak felügyeleti intézkedéssel lehetett elkerülni, illetve amelynek tevékenységi engedélyét a Felügyelet visszavonta, és akinek személyes felelősségét e helyzetek kialakulásáért jogerős vagy végleges határozat megállapította;
 - b) súlyosan vagy ismételten megsértette a Felügyelet feladatkörébe eső törvények, illetve e törvények felhatalmazása alapján kiadott jogszabályok előírásait és emiatt vele szemben a Felügyelet, más hatóság vagy bíróság a befektetési alapkezelési tevékenység végzésére vonatkozó engedély iránti kérelem benyújtását megelőző 5 évnél nem régebben kelt jogerős vagy végleges határozatban legalább három esetben szankciót alkalmazott;
@@ -470,7 +475,7 @@ alá.
 
 (11) A (10) bekezdés szerinti kizáró okokat a kérelmező külföldi tevékenysége tekintetében is vizsgálni kell.
 
-(12) A befektetési alapkezelő az (1) és (2), valamint az (5)–(7) bekezdésben meghatározott személyek kinevezését, a személyükben bekövetkezett változást a kinevezést vagy a változást követően haladéktalanul, de legkésőbb a kinevezést vagy a változást követő 5 napon belül a Felügyeletnek köteles bejelenteni.
+(12) A befektetési alapkezelő az (1) és (2), valamint az (6) és (6a) bekezdésben meghatározott személyek kinevezését, a személyükben bekövetkezett változást a kinevezést vagy a változást követően haladéktalanul, de legkésőbb a kinevezést vagy a változást követő 5 napon belül a Felügyeletnek köteles bejelenteni.
 
 (13) A 2. § (2) bekezdés szerinti kockázati tőkealap-kezelő felügyelő-bizottságának elnökére és tagjára a (2) bekezdés c) pontja nem alkalmazandó.
 
@@ -483,7 +488,7 @@ alá.
 - a) aki mentes a befektetési alapkezelő óvatos, körültekintő és megbízható (a továbbiakban együtt: prudens) működését veszélyeztető befolyástól, jó üzleti hírnévvel rendelkezik, valamint biztosítani képes a befektetési alapkezelő megbízható, gondos tulajdonosi irányítását és ellenőrzését, valamint
 - b) akinek üzleti kapcsolatrendszere és tulajdonosi szerkezete átlátható és ezáltal nem zárja ki a befektetési alapkezelő feletti hatékony felügyelet gyakorlását.
 
-(2) A befektetési alapkezelő vezető állású személyeinek, teljes tevékenységet irányító személyének, a befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személyének, üzleti tevékenységét irányító személyeinek jó üzleti hírnévvel kell rendelkezniük.
+(2) A befektetési alapkezelő vezető állású személyeinek, a befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személyének, üzleti tevékenységét irányító személyeinek jó üzleti hírnévvel kell rendelkezniük.
 
 (3) A jó üzleti hírnevet a kérelmezőnek, illetve annak kell bizonyítania, akinek érdekében áll, hogy azt a Felügyelet elfogadja. A jó üzleti hírnév igazolásának módját a kérelmező megválaszthatja, azonban a Felügyelet egyéb, pontosan meghatározott iratok (okmányok) benyújtását írhatja elő. A Felügyelet a jó üzleti hírnév fennállásának megállapítása érdekében az illetékes külföldi hatóságot közvetlenül megkeresheti.
 
@@ -930,6 +935,8 @@ között létrejött érdekellentét nyomán az ABAK által kezelt kollektív be
 
 (6) A (2) bekezdés b)–d) pontjaiban meghatározott adatokban bekövetkezett változás esetén – a változások végrehajtása előtt legalább 1 hónappal – az ÁÉKBV-alapkezelő írásban köteles tájékoztatni a Felügyeletet és a fogadó tagállam felügyeleti hatóságát a változásról. A Felügyelet a (4) bekezdés szerinti elutasítási jogot ezen 1 hónap alatt gyakorolhatja.
 
+(6a) Ha a (6) bekezdés szerinti változás miatt az ÁÉKBV-alapkezelő a továbbiakban már nem felelne meg e törvénynek, a Felügyelet a (6) bekezdés szerinti – a változásról szóló – értesítés kézhezvételétől számított 15 munkanapon belül tájékoztatja az ÁÉKBV-alapkezelőt arról, hogy ezt a változtatást nem hajthatja végre. A Felügyelet erről tájékoztatja a fogadó tagállam felügyeleti hatóságait. Ha a tervezett változtatást ennek ellenére ezt követően végrehajtják, amelynek következtében az ÁÉKBV-alapkezelő már nem felel meg e törvénynek, a Felügyelet megteszi a megfelelő intézkedéseket, és azokról haladéktalanul értesíti a fogadó tagállam felügyeleti hatóságait.
+
 (7) A (3) bekezdés szerint megküldött adatokban bekövetkezett változás esetén a Felügyelet megfelelő módon tájékoztatja a fogadó tagállam felügyeleti hatóságát, és szükség esetén módosítja az (5) bekezdés szerinti igazolásban szereplő információkat.
 
 54. § (1) Az az ÁÉKBV-alapkezelő, amely határon átnyúló szolgáltatásként első alkalommal kíván számára engedélyezett tevékenységet végezni más EGT-államban, a Felügyelet részére megküldi
@@ -1003,7 +1010,7 @@ tekintetében.
 
 (4) A Felügyelet a (2) bekezdés szerinti hiánytalan értesítés kézhezvételét követő egy hónapon belül, illetve a (3) bekezdés szerinti hiánytalan értesítés kézhezvételét követő két hónapon belül megküldi a fogadó tagállam felügyeleti hatóságának a (2), illetve a (3) bekezdésben meghatározott információkat. A Felügyelet akkor továbbítja az iratokat – az ABAK engedélyezésére vonatkozó iratokkal együtt –, ha az ABAK megfelel e törvény rendelkezéseinek. A Felügyelet az iratok megküldéséről haladéktalanul tájékoztatja az ABAK-ot annak érdekében, hogy a tájékoztatás kézhezvételét követően megkezdhesse működését a fogadó tagállamban.
 
-(5) A (2) vagy (3) bekezdésnek megfelelően közölt bármely információ lényeges megváltozása esetén az ABAK legalább egy hónappal a tervezett változtatás végrehajtása előtt – vagy valamely nem tervezett változtatás bekövetkezését követően közvetlenül – írásbeli értesítést küld e változásról a Felügyeletnek. Ha a tervezett változtatás következtében az ABAK már nem az e törvénynek megfelelő módon kezelné az ABA-t, vagy az ABAK más tekintetben nem felelne meg e törvénynek, a Felügyelet késedelem nélkül tájékoztatja az ABAK-ot arról, hogy a változtatást nem hajthatja végre. Ha a tervezett változtatást ennek ellenére végrehajtják, vagy ha előre nem tervezett változtatásra került sor, amelynek következtében az ABAK már nem e törvénynek megfelelő módon kezelné az ABA-t, vagy az ABAK más tekintetben nem felelne meg e törvénynek, a Felügyelet hatáskörében eljárva meghoz minden szükséges intézkedést, ideértve szükség esetén az ABA kollektív befektetési értékpapírjai forgalmazásának kifejezett megtiltását. Ha a változások elfogadhatók, mert nem befolyásolják azt, hogy az ABAK e törvénynek megfelelően kezeli-e az ABA-t, vagy, hogy az ABAK más tekintetben megfelel-e e törvénynek, a Felügyelet haladéktalanul tájékoztatja az ABAK fogadó tagállamának felügyeleti hatóságait e változásokról.
+(5) A (2) vagy (3) bekezdésnek megfelelően közölt bármely információ lényeges megváltozása esetén az ABAK legalább egy hónappal a tervezett változtatás végrehajtása előtt – vagy valamely nem tervezett változtatás bekövetkezését követően közvetlenül – írásbeli értesítést küld e változásról a Felügyeletnek. Ha a tervezett változtatás következtében az ABAK már nem az e törvénynek megfelelő módon kezelné az ABA-t vagy az ABAK más tekintetben nem felelne meg e törvénynek, a Felügyelet a változásról küldött valamennyi információ kézhezvételétől számított 15 munkanapon belül tájékoztatja az ABAK-ot arról, hogy a változtatást nem hajthatja végre. Ha a tervezett változtatást ennek ellenére végrehajtják, vagy ha előre nem tervezett változtatásra került sor, amelynek következtében az ABAK már nem e törvénynek megfelelő módon kezelné az ABA-t, vagy az ABAK más tekintetben nem felelne meg e törvénynek, a Felügyelet hatáskörében eljárva meghoz minden szükséges intézkedést, és ennek megfelelően haladéktalanul értesíti az ABAK fogadó tagállamának felügyeleti hatóságait. Ha a változások elfogadhatók, mert nem befolyásolják azt, hogy az ABAK e törvénynek megfelelően kezeli-e az ABA-t, vagy, hogy az ABAK más tekintetben megfelel-e e törvénynek, a Felügyelet haladéktalanul tájékoztatja az ABAK fogadó tagállamának felügyeleti hatóságait e változásokról.
 
 (6) Az (1)–(5) bekezdés rendelkezései nem vonatkoznak a 2. § (2) bekezdése szerinti ABAK-ra.
 
@@ -1405,7 +1412,12 @@ pótolja.
 
 #### 32. Eszközök értékesítése és a vagyon kifizetése
 
-77. § (1) A megszűnési eljárás alatt a befektetési alap vagyonába tartozó pénzügyi eszközöket 1 hónapon belül, az ingatlanokat 12 hónapon belül a kockázati és magántőkealap portfóliójában lévő eszközöket 18 hónapon belül értékesíteni kell. Az értékesítést a pénzügyi eszközök esetében piaci áron, az ingatlanalap portfóliójában lévő ingatlanok esetében legalább az ingatlanértékelő által meghatározott áron, a kockázati és magántőkealap portfóliójában lévő eszközök esetében a 38. §-ban meghatározott értékbecslő által meghatározott áron kell megkísérelni. Az értékesítésre megállapított határidő a befektetők érdekében a Felügyelet engedélyével pénzügyi eszközök esetében 3, ingatlanok és egyéb eszközök esetében 6 hónappal meghosszabbítható. A kockázati, illetve magántőkealap tulajdonában lévő, szabályozott piacra bevezetett értékpapírokat a befektetési jegy tulajdonosai között – a kezelési szabályzatban rögzített szabályoknak megfelelően – természetben is fel lehet osztani.
+77. § (1) A megszűnési eljárás alatt a befektetési alap vagyonába tartozó pénzügyi eszközöket 1 hónapon belül, az ingatlanokat 12 hónapon belül, a kockázati és magántőkealap portfóliójában lévő eszközöket 18 hónapon belül értékesíteni kell. Az értékesítést a pénzügyi eszközök esetében piaci áron, az ingatlanalap portfóliójában lévő ingatlanok esetében legalább az ingatlanértékelő által meghatározott áron, a kockázati és magántőkealap portfóliójában lévő eszközök esetében a 38. §-ban meghatározott értékbecslő által meghatározott áron kell megkísérelni. Az értékesítésre megállapított határidő a befektetők érdekében a Felügyelet engedélyével pénzügyi eszközök esetében 3, ingatlanok és egyéb eszközök esetében 6 hónappal meghosszabbítható. A kockázati, illetve magántőkealap tulajdonában lévő,
+
+- a) szabályozott piacra bevezetett értékpapírokat a befektetési jegy tulajdonosok között – a kezelési szabályzatban rögzített szabályoknak megfelelően –,
+- b) szabályozott piacra be nem vezetett eszközöket az összes befektetési jegy tulajdonos egyhangú hozzájárulása alapján a befektetési jegy tulajdonosok között – a kezelési szabályzatban rögzített szabályoknak megfelelően –
+
+természetben is fel lehet osztani.
 
 (2) Az ingatlanalap portfóliójában lévő ingatlanok értékesítésére vonatkozó, (1) bekezdésben meghatározott határidő eredménytelen eltelte esetén az ingatlanokat nyilvános árverésen történő értékesítésre kell bocsátani. Az árverési felhívást a befektetési alap közzétételi helyein az árverés időpontját legalább 10 nappal megelőzően meg kell jelentetni.
 
@@ -1777,18 +1789,54 @@ engedélyezte a tervezett egyesülést.
 
 #### 38. ÁÉKBV által forgalomba hozott kollektív befektetési értékpapírok más EGT-államban történő forgalomba hozatala
 
-117. § A magyarországi székhelyű ÁÉKBV befektetési jegye más EGT-államban is forgalomba hozható, valamint folyamatosan forgalmazható, amennyiben
+117. § (1) A magyarországi székhelyű ÁÉKBV minden olyan EGT-államban, ahol befektetési jegyeit forgalmazni kívánja, rendelkezésre bocsátja az alábbi feladatok ellátására szolgáló lehetőségeket:
 
-- a) a másik EGT-államban megfelelő forgalmazó helyek állnak rendelkezésre a befektetési jegy eladására, visszaváltására, a befektetők számára történő kifizetések lebonyolítására, és
-- b) az ÁÉKBV kezelési szabályzata, a tájékoztató és a kiemelt befektetői információ, valamint az éves és féléves jelentés az adott ország bármelyik hivatalos nyelvén vagy az adott ország felügyeleti hatóságai által elismert nyelven, legalább az ÁÉKBV alapkezelő honlapján a befektetők rendelkezésére áll.
+- a) a kezelési szabályzatban meghatározott feltételekkel összhangban az ÁÉKBV befektetési jegyeivel kapcsolatos jegyzési és visszaváltási befektetői megbízások feldolgozása és egyéb kifizetések teljesítése a befektetési jegy tulajdonosok számára;
+- b) a befektetők tájékoztatása az a) pont szerinti megbízások teljesítésének, valamint a visszaváltási összegek kifizetésének módjáról;
+- c) az ÁÉKBV befektetési jegyeibe történő befektetésből származó befektetői jogok gyakorlásával kapcsolatos információk kezelésének, valamint a panaszkezelési eljáráshoz való hozzáférés megkönnyítése abban az EGT-államban, ahol az ÁÉKBV befektetési jegyeit forgalmazzák;
+- d) a XX. Fejezetben előírt információk és dokumentumok befektetők rendelkezésére bocsátása – az adott EGT-állam bármelyik hivatalos nyelvén vagy az adott EGT-állam felügyeleti hatóságai által előírt nyelven – betekintés és másolat megszerzése céljából;
+- e) az eszközök által ellátott feladatokkal kapcsolatos tudnivalóknak a befektetők rendelkezésére bocsátása a 4. § (1) bekezdés 93. pontja szerinti tartós adathordozón; valamint
+- f) kapcsolattartó pontként való közreműködés a felügyeleti hatóságokkal folytatott kommunikáció során.
 
-118. § (1) A befektetési alapkezelő a más EGT-államban történő befektetési jegy forgalmazási szándékáról bejelentő levelet küld a Felügyeletnek. Az 584/2010/EU rendeletben meghatározottaknak megfelelően elkészített bejelentő levél tartalmazza az ÁÉKBV befektetési jegyének a fogadó tagállamban történő forgalmazásának tervezett módozatait – beleértve a részvényosztályokról szóló tájékoztatást is – és a forgalmazó megnevezését. A bejelentéshez elektronikus formában mellékelni kell a 117. § b) pontjában meghatározott iratokat.
+(2) Az ÁÉKBV számára nem írható elő, hogy az (1) bekezdés alkalmazásában az ÁÉKBV fogadó tagállamában fizikailag jelen legyen vagy erre harmadik felet jelöljön ki.
+
+(3) Az ÁÉKBV biztosítja, hogy az (1) bekezdésben meghatározott feladatok ellátására szolgáló lehetőségek elektronikusan is rendelkezésre álljanak:
+
+- a) annak az EGT-államnak a hivatalos nyelvén vagy hivatalos nyelveinek egyikén, ahol az ÁÉKBV befektetési jegyeit forgalmazzák vagy az adott EGT-állam felügyeleti hatósága által jóváhagyott nyelven,
+- b) maga az ÁÉKBV, illetve egy olyan harmadik fél révén, amelyre az elvégzendő feladatokat szabályozó rendelkezés és felügyelet vonatkozik.
+
+(4) Ha – a (3) bekezdés b) pontjának alkalmazása során – harmadik fél végzi a feladatokat, akkor a kijelölést rögzítő írásbeli szerződésben meg kell határozni az (1) bekezdésben felsorolt feladatok közül a harmadik fél által ellátandó feladatokat, és a szerződésnek tartalmaznia kell azt is, hogy az ÁÉKBV biztosítja a feladatok ellátásához szükséges összes információt és dokumentumot.
+
+118. § (1) Az ÁÉKBV-alapkezelő a más EGT-államban történő befektetési jegy forgalmazási szándékáról bejelentő levelet küld a Felügyeletnek. Az 584/2010/EU rendeletben meghatározottaknak megfelelően elkészített bejelentő levél tartalmazza az ÁÉKBV befektetési jegyének a fogadó tagállamban történő forgalmazásának tervezett módozatait – beleértve a részvényosztályokról szóló tájékoztatást is – és a forgalmazó megnevezését. A bejelentő levél tartalmazza
+
+- a) azokat az adatokat – beleértve a címet –, amelyek szükségesek a számlázáshoz és ahhoz, hogy az ÁÉKBV fogadó tagállamának felügyeleti hatóságai közöljék az alkalmazandó szabályozási díjakat vagy illetékeket, valamint
+- b) a 117. § (1) bekezdésében foglalt feladatok ellátására szolgáló lehetőségekre vonatkozó információkat.
 
 (2) Az (1) bekezdésben meghatározott iratokat – az ÁÉKBV értesítésével egyidejűleg – a Felügyelet 10 munkanapon belül eljuttatja azon EGT-állam felügyeleti hatóságainak, amelyben az ÁÉKBV befektetési jegyét forgalmazni tervezik. A dokumentációhoz az 584/2010/EU rendelet által előírt formátumú és tartalmú igazolást csatol arról, hogy az ÁÉKBV teljesíti az ÁÉKBV-irányelv szabályainak a magyar jogrendbe történő átvétele alapján előírt feltételeket. Az ÁÉKBV által forgalomba hozott befektetési jegyek az értesítés kézhezvételének időpontjától hozhatók forgalomba, illetve forgalmazhatók a fogadó tagállamban. A bejelentési eljárás egyéb részleteivel kapcsolatban a Felügyelet és az ÁÉKBV az 584/2010/EU rendeletben előírtak figyelembevételével jár el.
 
 (3) Az (1) és (2) bekezdésben meghatározott bejelentő levelet és igazolást – a Felügyelet és a fogadó tagállam felügyeleti hatósága közötti eltérő megállapodás kivételével – a nemzetközi pénzügyi piacokon általában használt nyelven kell rendelkezésre bocsátani.
 
-(4) Az ÁÉKBV az (1) bekezdés szerint a bejelentéshez mellékelt dokumentumokat köteles naprakészen tartani és azok módosulásáról, illetve elektronikus elérési módjáról, a (3) bekezdésben meghatározott nyelven haladéktalanul tájékoztatja a fogadó tagállam felügyeleti hatóságát. A forgalmazással kapcsolatos rendelkezések vagy a forgalmazni kívánt részvényosztályok változása esetén az ÁÉKBV a változások hatálybalépése előtt 10 nappal köteles értesíteni a fogadó tagállam felügyeleti hatóságát.
+(4) Az ÁÉKBV az (1) bekezdés szerint a bejelentéshez mellékelt dokumentumokat naprakészen tartja és azok módosulásáról, illetve elektronikus elérési módjáról a (3) bekezdésben meghatározott nyelven haladéktalanul tájékoztatja a fogadó tagállam felügyeleti hatóságát.
+
+(5) Az (1) bekezdés szerinti bejelentő levélben közölt információk változása vagy a forgalmazni kívánt részvényosztályok változása esetén az ÁÉKBV a változások hatálybalépése előtt legalább egy hónappal írásban értesíti a változásról a Felügyeletet és a fogadó tagállam felügyeleti hatóságait. Ha a tervezett változtatás következtében az ÁÉKBV a továbbiakban már nem felelne meg e törvénynek, a Felügyelet a változásról küldött valamennyi információ kézhezvételétől számított 15 munkanapon belül tájékoztatja az ÁÉKBV-t arról, hogy a változtatást nem hajthatja végre. Ebben az esetben a Felügyelet ennek megfelelően értesíti az ÁÉKBV fogadó tagállamának felügyeleti hatóságait. Ha a tervezett változtatást ennek ellenére végrehajtják, és ennek következtében az ÁÉKBV már nem felel meg e törvénynek, a Felügyelet meghozza a megfelelő intézkedéseket, beleértve szükség esetén az ÁÉKBV befektetési jegyei forgalmazásának kifejezett megtiltását is, és a megtett intézkedésekről haladéktalanul értesíti az ÁÉKBV fogadó tagállamának felügyeleti hatóságait.
+
+118/A. § (1) Az ÁÉKBV befektetési jegyei más EGT-államban történő forgalmazása céljából tett intézkedéseivel kapcsolatos, 118. §-sal összhangban benyújtott értesítéseit – adott esetben beleértve a részvényosztályokról szóló értesítéseit is – visszavonhatja, amennyiben az alábbi feltételek mindegyike teljesül:
+
+- a) az ÁÉKBV legalább 30 munkanapon keresztül nyilvánosan elérhető általános érvényű ajánlatot tesz közzé az összes ilyen befektetési jegye bármely díjtól vagy levonástól mentes visszaváltására az adott EGT-államban, és az ajánlatot közvetlenül vagy pénzügyi közvetítőkön keresztül külön-külön megküldi az adott EGT-állambeli azon befektetőknek, akiknek a személyazonossága ismert,
+- b) az ÁÉKBV az ÁÉKBV-k befektetési jegyei forgalmazására szokásosan használt és a tipikus ÁÉKBV-befektető számára megfelelő, nyilvánosan elérhető médium útján – többek között elektronikus úton – közzéteszi azon szándékát, hogy megszüntesse az adott EGT-államban az ilyen befektetési jegyek forgalmazása céljából tett intézkedéseket,
+- c) a pénzügyi közvetítőkkel vagy megbízottakkal kötött szerződéses megállapodások módosulnak vagy megszűnnek attól az időponttól kezdődő hatállyal, amikor az értesítést visszavonták, a (4) bekezdés szerinti értesítésben meghatározott befektetési jegyekre vonatkozó új vagy további, közvetlen vagy közvetett ajánlattétel vagy kihelyezés megakadályozása érdekében.
+
+(2) Az (1) bekezdés a) és b) pontja szerinti információ egyértelműen tartalmazza, hogy a befektetőkre nézve milyen következményekkel jár, ha a befektetési jegyek visszaváltására vonatkozó ajánlatot nem fogadják el.
+
+(3) Az (1) bekezdés a) és b) pontja szerinti információkat annak az EGT-államnak a hivatalos nyelvén vagy hivatalos nyelveinek egyikén kell közzétenni, amely tekintetében az ÁÉKBV a 118. §-sal összhangban értesítést nyújtott be, vagy az adott EGT-állam felügyeleti hatósága által jóváhagyott nyelven. Az (1) bekezdés c) pontja szerinti időponttól kezdve az ÁÉKBV megszünteti az érintett EGT-államban azon befektetési jegyekre vonatkozó új vagy további, közvetlen vagy közvetett ajánlattételt vagy kihelyezést, amelyek tekintetében értesítést nyújtott be a visszavonásra.
+
+(4) Az ÁÉKBV értesíti a Felügyeletet az (1) bekezdés a)–c) pontjában foglalt információkról.
+
+(5) A Felügyelet ellenőrzi a (4) bekezdés szerinti értesítés hiánytalanságát, és a hiánytalan értesítés kézhezvételét követő 15 munkanapon belül továbbítja azt az értesítésben foglalt EGT-állam felügyeleti hatóságának, valamint az Európai Értékpapír-piaci Hatóságnak (továbbiakban: EÉPH). Ezt követően a Felügyelet haladéktalanul értesíti az ÁÉKBV-t a továbbításról.
+
+(6) Az ÁÉKBV biztosítja az ÁÉKBV megmaradt befektetői, valamint a Felügyelet számára a XX. Fejezetben előírt információkat. Az információk továbbítása bármely elektronikus vagy egyéb távközlési eszköz használatával engedélyezett, amennyiben az információk és a kommunikációs eszközök a befektetők számára a befektető lakóhelye vagy székhelye szerinti EGT-állam bármelyik hivatalos nyelvén vagy az adott EGT-állam felügyeleti hatóságai által előírt nyelven rendelkezésre állnak.
+
+(7) A Felügyelet továbbítja a (4) bekezdés szerinti értesítésben meghatározott EGT-állam felügyeleti hatóságának a XX. Fejezetben meghatározott dokumentumokban és információkban bekövetkezett bármely változást.
 
 #### 39. Más EGT-államban engedélyezett ÁÉKBV kollektív befektetési értékpapírjainak belföldi forgalomba hozatala
 
@@ -1796,24 +1844,49 @@ engedélyezte a tervezett egyesülést.
 
 (2) Az (1) bekezdésben meghatározott követelmények az ott meghatározott információk és dokumentumok módosítása esetén is megfelelően alkalmazandók.
 
-(3) Az ÁÉKBV székhely szerinti tagállama által lefolytatott bejelentési eljárást követően a forgalmazásra vonatkozó előkészületek megfelelőségének ellenőrzése céljából az ÁÉKBV a forgalmazás megkezdése előtt köteles megküldeni a Felügyelet részére az ÁÉKBV és a forgalmazó között létrejött forgalmazási szerződést, amennyiben a forgalmazást nem a befektetési alapkezelő látja el. Amennyiben magyarországi székhelyű közvetítő igénybevételére is sor kerül, úgy a közvetítővel kötött szerződés benyújtása is kötelező. Magyarországi székhelyű forgalmazó hiányában magyarországi székhelyű közvetítő igénybevétele kötelező.
+(3) Az ÁÉKBV székhely szerinti tagállama által lefolytatott bejelentési eljárást követően a forgalmazásra vonatkozó előkészületek megfelelőségének ellenőrzése céljából az ÁÉKBV a forgalmazás megkezdése előtt köteles megküldeni a Felügyelet részére az ÁÉKBV és a forgalmazó között létrejött forgalmazási szerződést, amennyiben a forgalmazást nem a befektetési alapkezelő látja el. Amennyiben magyarországi székhelyű közvetítő igénybevételére is sor kerül, úgy a közvetítővel kötött szerződés benyújtása is kötelező.
 
 (4) A forgalmazással kapcsolatos intézkedésekre vonatkozó információ változása vagy a forgalmazni kívánt részvényosztályokkal kapcsolatos változás esetén a változás végrehajtása előtt az ÁÉKBV írásban értesíti a Felügyeletet. Az ÁÉKBV szintén értesíti a Felügyeletet a 117. § b) pontjában meghatározott dokumentumok módosításairól, és közli, hogy e dokumentumok hol érhetők el elektronikusan.
 
-(5) A Felügyelet honlapján magyarázó leírás és forrásdokumentumokra mutató hivatkozások vagy linkek kombinálásával magyar és a nemzetközi pénzügyi piacokon általában használt nyelven közzéteszi a más EGT-államban engedélyezett ÁÉKBV kollektív befektetési értékpapírjainak belföldi forgalomba hozatalához szükséges lényeges jogszabályokat és rendelkezéseket.
+(5) Abban az esetben, ha más EGT-államban engedélyezett ÁÉKBV által forgalmazott kollektív befektetési értékpapír magyarországi forgalmazásának visszavonására kerül sor, az ÁÉKBV által a székhelye szerinti tagállam felügyeleti hatóságának küldött, a 118/A. § (4) bekezdésének megfeleltethető értesítésben meghatározott Felügyelet ugyanazokkal a jogokkal és kötelezettségekkel rendelkezik, mint a 71. alcímben foglaltaknak megfelelően az ÁÉKBV fogadó tagállamának felügyeleti hatóságai. Az 55. § és a 172. § szerinti felügyeleti hatáskörök sérelme nélkül az ÁÉKBV székhelye szerinti tagállam felügyeleti hatósága által a Felügyelet részére a 118/A. § (7) bekezdésének megfelelő továbbítás időpontjától kezdődően a Felügyelet nem írhatja elő az ÁÉKBV számára, hogy bizonyítsa a kollektív befektetési vállalkozások határokon átnyúló forgalmazásának megkönnyítéséről, valamint a 345/2013/EU, a 346/2013/EU és az 1286/2014/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1156 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2019/1156 európai parlamenti és tanácsi rendelet] 5. cikke szerinti forgalmazási követelményeket szabályozó nemzeti törvényi, rendeleti és közigazgatási rendelkezéseknek való megfelelést.
 
-(6) A Felügyelet az (5) bekezdésben meghatározott rendelkezések közül legalább az alábbiakat teszi közzé:
+(6)
 
-- a) a folyamatos forgalmazás definíciója;
-- b) a kereskedelmi kommunikáció tartalmára, formájára és megjelenítési módjára vonatkozó követelmények;
-- c) a befektetők számára közzéteendő információk;
-- d) a forgalmazásra vonatkozó szabályok;
-- e) a Felügyeletnek megküldött jelentésekre vagy információk továbbítására vonatkozó követelmények, és az előírt dokumentumok frissített verziónak benyújtási eljárása;
-- f) a Felügyelet részére a forgalmazással kapcsolatban fizetendő díjak;
-- g) a befektetők részére történő kifizetésekkel, a kollektív befektetési értékpapír visszaváltásával, és az ÁÉKBV által kötelezően nyújtandó tájékoztatás elérhetőségével kapcsolatos követelmények;
-- h) az ÁÉKBV által folytatott forgalmazás megszüntetésének feltételei;
-- i) az 584/2010/EU bizottsági rendelet 1. cikkében említett bejelentő levélben feltüntetendő információk részletes tartalma;
-- j) a (4) bekezdésben meghatározott bejelentési kötelezettség teljesítésére szolgáló e-mail cím.
+#### 39/A. ABAK által az Európai Unióban végzett, forgalomba hozatalt megelőző tájékoztatás feltételei
+
+119/A. § (1) Magyarországi székhelyű ABAK forgalomba hozatalt megelőző tájékoztatást nyújthat az Európai Unióban, kivéve, ha a lehetséges szakmai befektetők számára nyújtott információk
+
+- a) elegendőek ahhoz, hogy lehetővé tegyék a befektetők számára, hogy kötelezettséget vállaljanak egy adott ABA kollektív befektetési értékpapírjainak megszerzésére,
+- b) jegyzési formanyomtatványnak vagy hasonló dokumentumnak minősülnek, akár tervezeti, akár végleges formátumban, vagy
+- c) egy még létre nem hozott ABA végleges formátumú alapító dokumentumainak, tájékoztatójának vagy ajánlattételi dokumentumainak minősülnek.
+
+(2) Ha a tájékoztató vagy az ajánlattételi dokumentum tervezetét bocsátják rendelkezésre, ezek nem tartalmazhatnak olyan lényeges információkat, amelyek lehetővé tennék a befektetők számára a befektetési döntés meghozatalát, és egyértelműen ki kell mondaniuk, hogy
+
+- a) nem minősülnek egy ABA kollektív befektetési értékpapírjainak jegyzésére irányuló ajánlatnak vagy felhívásnak, és
+- b) a bennük közölt információk nem teljes körűek és változhatnak, ezért nem lehet rájuk hagyatkozni.
+
+(3) Az ABAK-nak nem kell bejelentenie a forgalomba hozatalt megelőző tájékoztatás tartalmát vagy címzettjeit a Felügyelet részére, és nem kell teljesítenie a forgalomba hozatalt megelőző tájékoztatás nyújtása előtt az ebben az alcímben meghatározottaktól eltérő feltételeket vagy követelményeket. Az ABAK-nak ugyanakkor biztosítania kell, hogy a forgalomba hozatalt megelőző tájékoztatás megfelelően dokumentálva legyen.
+
+(4) Az ABAK biztosítja, hogy a befektetők a forgalomba hozatalt megelőző tájékoztatás révén nem juthatnak hozzá ABA kollektív befektetési értékpapírokhoz, és hogy azok a befektetők, akikkel a forgalomba hozatalt megelőző tájékoztatás részeként kapcsolatfelvételre került sor, kizárólag a 120. § vagy a 121. § értelmében engedélyezett forgalmazás keretében juthassanak hozzá az adott ABA-ban kollektív befektetési értékpapírokhoz.
+
+(5) A szakmai befektetők általi minden olyan jegyzést, amelyre a forgalomba hozatalt megelőző tájékoztatás ABAK általi megkezdésétől számított 18 hónapon belül került sor, és amelynek tárgyai valamely, a forgalomba hozatalt megelőző
+
+- a) tájékoztatásban említett ABA kollektív befektetési értékpapírjai, vagy
+- b) tájékoztatás eredményeként létrehozott ABA kollektív befektetési értékpapírjai,
+
+a forgalmazás eredményének kell tekinteni, és e jegyzésekre a 120. § vagy a 121. § szerinti értesítési eljárás alkalmazandó.
+
+(6) Az ABAK a forgalomba hozatalt megelőző tájékoztatás megkezdésétől számított két héten belül – papíralapú vagy elektronikus formában – informális levelet küld a Felügyelet számára. E levélnek meg kell adnia, hogy a forgalomba hozatalt megelőző tájékoztatásra mely tagállamokban és mely időszakokban kerül vagy került sor, tartalmaznia kell a forgalomba hozatalt megelőző tájékoztatás rövid ismertetését, ideértve a bemutatott befektetési stratégiákkal kapcsolatos információkat, és adott esetben a forgalomba hozatalt megelőző tájékoztatás tárgyát képező ABA-k vagy ABA részalapok jegyzékét. A Felügyelet haladéktalanul tájékoztatja azon tagállamok felügyeleti hatóságait, amelyekben az ABAK forgalomba hozatalt megelőző tájékoztatást nyújt vagy nyújtott.
+
+(7) Amennyiben nem magyarországi székhelyű uniós ABAK részéről Magyarországon kerül sor forgalomba hozatalt megelőző tájékoztatásra, a Felügyelet kérheti az uniós ABAK letelepedése szerinti tagállam felügyeleti hatóságait, hogy nyújtsanak további információt a Magyarországon sorra kerülő vagy sorra került forgalomba hozatalt megelőző tájékoztatásról.
+
+(8) Az ABAK nevében harmadik fél ebben az alcímben meghatározott feltételekkel és kizárólag akkor vehet részt forgalomba hozatalt megelőző tájékoztatás nyújtásában, ha
+
+- a) befektetési vállalkozás vagy más EGT-államban tevékenység végzésére jogosító engedéllyel rendelkező befektetési vállalkozás,
+- b) hitelintézet vagy más EGT-államban tevékenység végzésére jogosító engedéllyel rendelkező hitelintézet,
+- c) ÁÉKBV-alapkezelő vagy más EGT-államban tevékenység végzésére jogosító engedéllyel rendelkező ÁÉKBV-t kezelő vállalkozás,
+- d) uniós ABAK, vagy
+- e) a Bszt.-ben meghatározott függő ügynök.
 
 #### 40. ABAK által kezelt más EGT-államban engedélyezett uniós ABA kollektív befektetési értékpapírjainak belföldi forgalmazása
 
@@ -1832,6 +1905,26 @@ engedélyezte a tervezett egyesülést.
 - a) az uniós ABA-t a Felügyelet a lakossági befektetőknek forgalmazható Magyarországon bejegyzett ABA típussal egyenértékűnek minősíti,
 - b) az uniós ABA kollektív befektetési értékpapírjai forgalmazása során betartja a XVII. fejezet rendelkezéseit.
 
+#### 40/A. A lakossági befektetők rendelkezésére álló eszközök
+
+120/A. § (1) Az (EU) 2015/760 európai parlamenti és tanácsi rendelet 26. cikkének sérelme nélkül a magyarországi székhelyű ABAK minden olyan EGT-államban, ahol valamely ABA kollektív befektetési értékpapírjait lakossági befektetők számára forgalmazni kívánja, rendelkezésre bocsátja az alábbi feladatok ellátására szolgáló lehetőségeket:
+
+- a) az ABA kezelési szabályzatában meghatározott feltételekkel összhangban az ABA kollektív befektetési értékpapírjaival kapcsolatos jegyzési és visszaváltási befektetői megbízások feldolgozása,
+- b) a befektetők tájékoztatása az a) pont szerinti megbízások teljesítésének, valamint a visszaváltási összegek kifizetésének módjáról,
+- c) az ABA kollektív befektetési értékpapírjaiba történő befektetésből származó befektetői jogok gyakorlásával kapcsolatos információk kezelésének megkönnyítése abban az EGT-államban, ahol az ABA kollektív befektetési értékpapírjait forgalmazzák,
+- d) a 131. §-ban, a 134. §-ban, a 140. §-ban, a 141. § (1) bekezdésében, valamint a 3. és 6. mellékletben előírt információk és dokumentumok befektetők rendelkezésére bocsátása betekintés és másolat megszerzése céljából,
+- e) az eszközök által ellátott feladatokkal kapcsolatos tudnivalóknak a befektetők rendelkezésére bocsátása a 4. § (1) bekezdés 93. pontja szerinti tartós adathordozón, és
+- f) kapcsolattartó pontként való közreműködés a felügyeleti hatóságokkal folytatott kommunikáció során.
+
+(2) Az ABAK számára nem írható elő, hogy az (1) bekezdés alkalmazásában az ABAK fogadó tagállamában fizikailag jelen legyen vagy erre harmadik felet jelöljön ki.
+
+(3) Az ABAK biztosítja, hogy az (1) bekezdésben meghatározott feladatok ellátására szolgáló lehetőségek elektronikusan is rendelkezésre álljanak:
+
+- a) annak az EGT-államnak a hivatalos nyelvén vagy hivatalos nyelveinek egyikén, ahol az ABA kollektív befektetési értékpapírjait forgalmazzák, vagy az adott EGT-állam felügyeleti hatósága által jóváhagyott nyelven, és
+- b) maga az ABAK vagy egy olyan harmadik fél révén, amelyre az elvégzendő feladatokat szabályozó rendelkezés és felügyelet vonatkozik.
+
+(4) Ha – a (3) bekezdés b) pontjának alkalmazása során – harmadik fél végzi a feladatokat, akkor a kijelölést rögzítő írásbeli szerződésben meg kell határozni az (1) bekezdésben felsorolt feladatok közül a harmadik fél által ellátandó feladatokat, és a szerződésnek tartalmazni kell azt is, hogy az ABAK biztosítja a feladatok ellátásához szükséges összes információt és dokumentumot.
+
 #### 41. ABAK által kezelt uniós ABA kollektív befektetési értékpapírjainak más EGT-államban történő forgalmazása
 
 121. § (1) Magyarországi székhelyű ABAK az általa kezelt uniós ABA kollektív befektetési értékpapírjait más EGT-állam szakmai befektetői számára forgalmazhatja, amint az e §-ban megállapított feltételek teljesülnek.
@@ -1848,7 +1941,47 @@ engedélyezte a tervezett egyesülést.
 
 (7) A (3) bekezdés szerinti értesítést és a (4) bekezdés szerinti igazolást a nemzetközi pénzügyi piacokon általában használt nyelven kell rendelkezésre bocsátani. A Felügyelet elektronikus formában fogadja és továbbítja a (4) bekezdésben említett dokumentumokat.
 
-(8) A (3) bekezdésnek megfelelően közölt bármelyik adat lényeges megváltozása esetén az ABAK írásbeli értesítést küld e változásról a Felügyeletnek a tervezett változtatás végrehajtása előtt legalább egy hónappal vagy valamely nem tervezett változtatás után közvetlenül. Ha a tervezett változtatás következtében az ABAK már nem az e törvénynek megfelelő módon kezelné az ABA-t, vagy az ABAK már nem felelne meg e törvénynek, a Felügyelet késedelem nélkül tájékoztatja az ABAK-ot arról, hogy a változtatást nem hajthatja végre. Ha a tervezett változtatást ennek ellenére végrehajtják, vagy ha olyan nem tervezett változtatásra került sor, amelynek következtében az ABAK már nem e törvénynek megfelelő módon kezelné az ABA-t, vagy az ABAK már nem felelne meg e törvénynek, a Felügyelet meghozza a szükséges intézkedéseket, beleértve az ABA kollektív befektetési értékpapírjai forgalmazásának megtiltását is. Ha a változtatások elfogadhatók, mert nem befolyásolják azt, hogy az ABAK e törvény rendelkezéseinek megfelelően kezeli-e az ABA-t, vagy hogy az ABAK megfelel-e e törvénynek, a Felügyelet ezekről a változásokról késedelem nélkül tájékoztatja a fogadó tagállam felügyeleti hatóságait.
+(8) A (3) bekezdésnek megfelelően közölt bármelyik adat lényeges megváltozása esetén az ABAK írásbeli értesítést küld e változásról a Felügyeletnek a tervezett változtatás végrehajtása előtt legalább egy hónappal vagy valamely nem tervezett változtatás után közvetlenül. Ha a tervezett változtatás következtében az ABAK már nem az e törvénynek megfelelő módon kezelné az ABA-t vagy az ABAK már nem felelne meg e törvénynek, a Felügyelet az ABAK által a változásról küldött valamennyi információ kézhezvételétől számított 15 munkanapon belül tájékoztatja az ABAK-ot arról, hogy a változtatást nem hajthatja végre. Ebben az esetben a Felügyelet ennek megfelelően értesíti az ABAK fogadó tagállamának felügyeleti hatóságait. Ha a tervezett változtatást ennek ellenére végrehajtják, vagy ha olyan nem tervezett változtatásra került sor, amelynek következtében az ABAK már nem e törvénynek megfelelő módon kezelné az ABA-t, vagy az ABAK már nem felelne meg e törvénynek, a Felügyelet meghozza a szükséges intézkedéseket, beleértve az ABA kollektív befektetési értékpapírjai forgalmazásának megtiltását is, és ennek megfelelően haladéktalanul értesíti az ABAK fogadó tagállamának felügyeleti hatóságait.
+
+(9) Ha a változtatások elfogadhatók, mert nem befolyásolják
+
+- a) az ABA ABAK általi – e törvény rendelkezéseinek megfelelő – kezelését, vagy
+- b) az ABAK e törvény rendelkezéseinek való megfelelését,
+
+a Felügyelet ezekről a változásokról egy hónapon belül tájékoztatja a fogadó tagállam felügyeleti hatóságait.
+
+#### 41/A. Más EGT-államban engedélyezett ABAK által kezelt uniós ABA kollektív befektetési értékpapírjainak belföldi forgalmazása
+
+121/A. § (1) Más EGT-államban engedélyezett ABAK által kezelt kollektív befektetési értékpapír szakmai befektetők részére történő magyarországi forgalmazásához az ABAK-nak a letelepedése szerinti tagállam előírásainak kell megfelelnie azzal, hogy Magyarországon is a szakmai befektetők rendelkezésére kell bocsátani minden olyan információt és dokumentumot, amit az ABAK letelepedése szerinti tagállamában a befektetők rendelkezésére kell bocsátania.
+
+(2) Az (1) bekezdésben meghatározott követelmények az ott meghatározott információk és dokumentumok módosítása esetén is megfelelően alkalmazandók.
+
+(3) Az (1) bekezdéstől eltérően a Felügyelet engedélyezi a más EGT-államban engedélyezett ABAK által kezelt uniós ABA kollektív befektetési értékpapírjainak magyarországi forgalmazását lakossági befektetők számára is, amennyiben a következő feltételek teljesülnek:
+
+- a) az uniós ABA-t a Felügyelet a lakossági befektetőknek forgalmazható Magyarországon bejegyzett ABA típussal egyenértékűnek minősíti, és
+- b) a más EGT-államban engedélyezett ABAK kollektív befektetési értékpapírjai forgalmazása során betartja a XVII. Fejezet rendelkezéseit.
+
+(4) Abban az esetben, ha más EGT-államban engedélyezett ABAK az általa kezelt egyes vagy összes ABA kollektív befektetési értékpapírjai magyarországi forgalmazásának visszavonására kerül sor, az ABAK által a letelepedése szerinti tagállam felügyeleti hatóságának küldött, a 121/B. § (3) bekezdésének megfeleltethető értesítésben meghatározott Felügyelet ugyanazokkal a jogokkal és kötelezettségekkel rendelkezik, mint a 73. alcímben foglaltaknak megfelelően az ABAK fogadó tagállamának felügyeleti hatóságai. A 60. § és 177. § szerinti felügyeleti hatáskörök sérelme nélkül az ABAK letelepedése szerinti tagállam felügyeleti hatósága által a Felügyelet részére a 121/B. § (7) bekezdés szerinti továbbítás időpontjától kezdődően a Felügyelet nem írhatja elő az ABAK számára, hogy bizonyítsa az (EU) 2019/1156 európai parlamenti és tanácsi rendelet 5. cikke szerinti forgalmazási követelményeket szabályozó nemzeti törvényi, rendeleti és közigazgatási rendelkezéseknek való megfelelést.
+
+#### 41/B. ABAK által kezelt uniós ABA kollektív befektetési értékpapírjai más EGT-államban történő forgalmazása céljából tett intézkedések bejelentésének visszavonása
+
+121/B. § (1) Magyarországi székhelyű ABAK az általa kezelt egyes vagy összes ABA kollektív befektetési értékpapírjai más EGT-államban történő forgalmazása céljából tett intézkedéseivel kapcsolatos – 121. §-sal összhangban benyújtott – értesítéseit visszavonhatja, amennyiben az alábbi feltételek mindegyike teljesül:
+
+- a) az ABAK legalább 30 munkanapon keresztül nyilvánosan elérhető általános érvényű ajánlatot tesz közzé – a zártvégű ABA és az (EU) 2015/760 európai parlamenti és tanácsi rendelet által szabályozott ABA kivételével – az ABA összes ilyen kollektív befektetési értékpapírja bármely díjtól vagy levonástól mentes visszaváltására az adott EGT-államban, és az ajánlatot közvetlenül vagy pénzügyi közvetítőkön keresztül külön-külön megküldi az adott EGT-állambeli azon befektetőknek, akiknek a személyazonossága ismert,
+- b) az ABAK az ABA-k kollektív befektetési értékpapírjai forgalmazására szokásosan használt és a tipikus ABA-befektető számára megfelelő, nyilvánosan elérhető médium útján – többek között elektronikus úton – közzéteszi azon szándékát, hogy megszüntesse az adott EGT-államban az általa kezelt egyes vagy összes ABA kollektív befektetési értékpapírjai forgalmazása céljából tett intézkedéseket,
+- c) a pénzügyi közvetítőkkel vagy megbízottakkal kötött szerződéses megállapodások módosulnak vagy megszűnnek attól az időponttól kezdődő hatállyal, amikor az értesítést visszavonták, a (3) bekezdés szerinti értesítésben meghatározott kollektív befektetési értékpapírokra vonatkozó új vagy további, közvetlen vagy közvetett ajánlattétel vagy kihelyezés megakadályozása érdekében.
+
+(2) Az (1) bekezdés c) pontja szerinti időponttól kezdve az ABAK megszünteti az általa kezelt ABA kollektív befektetési értékpapírjaira vonatkozó új vagy további, közvetlen vagy közvetett ajánlattételt vagy kihelyezést azon EGT-államban, amelyben a (3) bekezdéssel összhangban értesítést nyújtott be.
+
+(3) Az ABAK értesíti a Felügyeletet az (1) bekezdés a)–c) pontjában foglalt információkról.
+
+(4) A Felügyelet ellenőrzi az értesítés hiánytalanságát, és a hiánytalan értesítés kézhezvételét követő 15 munkanapon belül továbbítja azt az értesítésben foglalt EGT-állam felügyeleti hatóságának, valamint az EÉPH-nak. Ezt követően a Felügyelet haladéktalanul értesíti az ABAK-ot a továbbításról.
+
+(5) Az (1) bekezdés c) pontja szerinti időponttól számított 36 hónapos időtartamon belül az ABAK a (3) bekezdés szerinti értesítésben meghatározott EGT-államban nem nyújthat forgalomba hozatalt megelőző tájékoztatást az értesítésben meghatározott kollektív befektetési értékpapírokkal kapcsolatban vagy hasonló befektetési stratégiákra vagy befektetési tervekre vonatkozóan.
+
+(6) Az ABAK biztosítja az uniós ABA megmaradt befektetői és a Felügyelet számára a 131. §-ban, a 134. §-ban, a 140. §-ban, a 141. § (1) bekezdésében, valamint a 3. és 6. mellékletben előírt információkat. Az információk továbbítása bármely elektronikus vagy egyéb távközlési eszköz használatával engedélyezett.
+
+(7) A Felügyelet továbbítja a (3) bekezdés szerinti értesítésben meghatározott EGT-állam felügyeleti hatóságának a 15. melléklet b)–f) pontjában meghatározott dokumentumokban és információkban bekövetkezett bármely változást.
 
 #### 42. ABAK által kezelt nem uniós ABA kollektív befektetési értékpapírjainak belföldi forgalmazása
 
@@ -2004,9 +2137,7 @@ formájában teljesíti.
 
 (3) A befektetési alapkezelő a befektető kérésére átadja az ÁÉKBV kockázatkezelésére vonatkozó mennyiségi korlátokra, a kiválasztott módszerekre és az eszközkategóriák kockázatainak és hozamainak alakulására vonatkozó információt.
 
-137. § (1) A kereskedelmi kommunikáció csak tisztességes, világos és egyértelmű lehet, és ennek során nem lehet olyan kijelentést tenni, amely cáfolja vagy csökkenti a tájékoztatóban és a kiemelt befektetői információban foglaltak jelentőségét. A kereskedelmi kommunikációban meg kell jelölni, hogy a befektetési jegy nyilvános forgalomba hozatalával, illetve folyamatos forgalmazásával kapcsolatosan tájékoztató és kiemelt befektetői információ közzétételére került vagy kerül sor, és hogy a tájékoztató és a kereskedelmi kommunikáció hol, milyen módon, és más EGT-államban székhellyel rendelkező kollektív befektetési forma esetében milyen nyelven hozzáférhető.
-
-(2) A Felügyelet a kereskedelmi kommunikációt betilthatja, ha annak tartalma ellentétes vagy félrevezető információt tartalmaz a benyújtott, illetve közzétételre engedélyezett tájékoztatóban foglaltakhoz képest, vagy egyébként a tisztességtelen kereskedelmi gyakorlat Fttv.-ben meghatározott tilalmába ütközik.
+#### 137. §
 
 #### 138. §
 
@@ -2911,9 +3042,9 @@ van összefüggésben.
 
 200/A. § (1) A Hpt. 164/B. §-a alapján átvett adatokat az ABAK és az ÁÉKBV-alapkezelő tevékenységi köre ellátásával összefüggésben a szolgáltatásai nyújtásához szükséges mértékben megismerheti, és az ügyfélkapcsolat létrehozásának és fennállásának időtartamában kezelheti, ha az ügyfél az adattovábbítást a (2) bekezdés szerinti nem korlátozta vagy tiltotta meg.
 
-(2) A hitelintézet Hpt. szerinti ellenőrző befolyása alatt működő ABAK és ÁÉKBV-alapkezelő ügyfele kifejezett nyilatkozatával jogosult korlátozni vagy megtiltani a Hpt. 164/B. § (2) bekezdés szerinti adattovábbítást.
+(2) A hitelintézet, valamint a Hpt. 15/A. § szerinti külön jóváhagyást kapott pénzügyi holding társaság Hpt. szerinti ellenőrző befolyása alatt működő ABAK és ÁÉKBV-alapkezelő ügyfele kifejezett nyilatkozatával jogosult korlátozni vagy megtiltani a Hpt. 164/B. § (2) bekezdés szerinti adattovábbítást.
 
-(3) A hitelintézet Hpt. szerinti ellenőrző befolyása alatt működő ABAK és ÁÉKBV-alapkezelő az ügyféllel kötendő szerződést megelőzően köteles az ügyfél részére a Hpt. 164/B. §-ában foglalt kölcsönös adatátadás lehetőségéről igazolható módon tájékoztatást adni. A tájékoztatásban egyértelműen fel kell hívni az ügyfél figyelmét arra, hogy a személyes adatai e §-ban foglalt kezelésének lehetőségét bármikor korlátozhatja vagy megtilthatja.
+(3) A hitelintézet, valamint a Hpt. 15/A. § szerinti külön jóváhagyást kapott pénzügyi holding társaság Hpt. szerinti ellenőrző befolyása alatt működő ABAK és ÁÉKBV-alapkezelő az ügyféllel kötendő szerződést megelőzően köteles az ügyfél részére a Hpt. 164/B. §-ában foglalt kölcsönös adatátadás lehetőségéről igazolható módon tájékoztatást adni. A tájékoztatásban egyértelműen fel kell hívni az ügyfél figyelmét arra, hogy a személyes adatai e §-ban foglalt kezelésének lehetőségét bármikor korlátozhatja vagy megtilthatja.
 
 ## NYOLCADIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -2986,6 +3117,7 @@ van összefüggésben.
 - e) az Európai Parlament és a Tanács 2013/14/EU irányelve (2013. május 21.) a foglalkoztatói nyugellátást szolgáltató intézmények tevékenységéről és felügyeletéről szóló 2003/41/EK irányelvnek, az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló 2009/65/EK irányelvnek és az alternatív befektetésialap-kezelőkről szóló 2011/61/EU irányelvnek a hitelminősítések túlzott figyelembevétele tekintetében történő módosításáról,
 - f) az Európai Parlament és a Tanács 2014. július 23-i 2014/91/EU irányelve az átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozásokra (ÁÉKBV) vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló 2009/65/EK irányelvnek a letétkezelői funkciók, a javadalmazási politikák és a szankciók tekintetében történő módosításáról.
 - g) az Európai Parlament és a Tanács 2019. november 27-i (EU) 2019/2034 irányelve a befektetési vállalkozások prudenciális felügyeletéről, valamint a 2002/87/EK, a 2009/65/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU és a 2014/65/EU irányelv módosításáról.
+- h) az Európai Parlament és a Tanács 2019. június 20-i (EU) 2019/1160 irányelve a 2009/65/EK és a 2011/61/EU irányelvnek a kollektív befektetési vállalkozások határokon átnyúló forgalmazása tekintetében történő módosításáról.
 
 (2) E törvény
 
@@ -4256,6 +4388,10 @@ f) a kezelési szabályzatban említett bármely további információ minden eg
 g) azon EGT-államok megnevezése, amelyben az ABA kollektív befektetési értékpapírjait szakmai befektetők részére forgalmazni kívánja;
 
 h) az ABA-k forgalmazására vonatkozó intézkedésekkel kapcsolatos információk, valamint adott esetben az azon intézkedésekkel kapcsolatos információk, amelyekkel az ABA kollektív befektetési értékpapírjainak a lakossági befektetők számára történő forgalmazását akadályozzák meg, beleértve azt az esetet, amikor az ABAK független szereplők bevonásával nyújtja az ABA-val kapcsolatos befektetési szolgáltatásait.
+
+i) azok az adatok – beleértve a címet – amelyek szükségesek a számlázáshoz és ahhoz, hogy az ABAK fogadó tagállamának felügyeleti hatóságai közöljék az alkalmazandó szabályozási díjakat vagy illetékeket;
+
+j) a 120/A. §-ban foglalt feladatok ellátására szolgáló lehetőségekre vonatkozó információk.
 
 ### 16. melléklet a 2014. évi XVI. törvényhez
 

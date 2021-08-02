@@ -737,6 +737,14 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 (4) Ha az elektronikus anyakönyvbe történő bejegyzéskor a papír alapú anyakönyv nem tartalmazza a személyi azonosítót, azt a személyiadat- és lakcímnyilvántartás adatai alapján kell bejegyezni az anyakönyvbe.
 
+### Származási hely utólagos bejegyzése
+
+60/A. § (1) Ha az anyakönyv a származási helyet nem tartalmazza, az ügyfél kérelmére az elektronikus anyakönyvbe származási helyként az ügyfél nyilatkozatában megjelölt származási helyet jegyzi be az illetékes anyakönyvvezető.
+
+(2) A származási hely utólagos bejegyzése iránti kérelemnek és az (1) bekezdés szerinti nyilatkozatnak kell tekinteni az állandó személyazonosító igazolvány kiadása során a származási hely feltüntetése iránti kérelmet.
+
+(3) A származási hely utólagos bejegyzése esetén az anya nyilatkozatát pótolja az ügyfél nyilatkozata.
+
 ### Bejelentés
 
 61. § (1) A születést – a (3) bekezdésben meghatározott kivétellel – anyakönyvezés céljából – legkésőbb az azt követő első munkanapon – az illetékes anyakönyvvezetőnél be kell jelenteni. A bejelentéssel egyidejűleg a bejelentő közli és igazolja – az anyakönyvvezető által beszerzendő okiratok kivételével – mindazokat az adatokat, amelyek rendelkezésére állnak és a születés anyakönyvezéséhez szükségesek. Születésnél a bejelentésről a kormányrendeletben meghatározott adattartalommal jegyzőkönyvet kell felvenni.
@@ -1400,7 +1408,7 @@ foglalt adatait tartja nyilván.
 
 81/D. § (1) Az elektronikus anyakönyvből közvetlen hozzáféréssel jogosult átvenni, vagy a papír alapú anyakönyvből jogosult megtekinteni és átvenni az anyakönyvi kivonat adattartalmát képező adatokat a 84. § (2) bekezdés a) pontjában foglalt adatok megadásával
 
-- a) a személyazonosság igazolására alkalmas hatósági igazolványt kiállító hatóság a személyazonosság igazolására alkalmas hatósági igazolvány kiadása iránti eljárás lefolytatása céljából,
+- a) a személyazonosság igazolására alkalmas hatósági igazolvánnyal összefüggő eljárásban hatáskörrel rendelkező hatóság a személyazonosság igazolására alkalmas hatósági igazolvány kiadása iránti eljárás lefolytatása céljából,
 - b) az útlevélhatóság az úti okmány kiadására irányuló eljárás lefolytatása céljából,
 - c) a kincstár a hatáskörébe tartozó támogatási eljárás lefolytatása céljából,
 - d) az egészségbiztosítási szerv az ellátásra való jogosultság megállapítása céljából,
@@ -1410,9 +1418,11 @@ foglalt adatait tartja nyilván.
 
 (2) Ha az (1) bekezdésben meghatározott szervek nem ismerik az adatigényléssel érintett személynek a 84. § (2) bekezdés a) pontjában foglalt adatait, részükre adatigénylés alapján a 84. § (2) bekezdés a) pontjában foglalt feltételek hiányában is továbbítható adat az (1) bekezdésben foglalt nyilvántartásokból.
 
-(3) Az okirat-nyilvántartásban kezelt adatok teljes körét jogosult közvetlen hozzáféréssel átvenni a személyazonosság igazolására alkalmas hatósági igazolvány kiadása iránti eljárás lefolytatása céljából a személyazonosság igazolására alkalmas hatósági igazolványt kiállító hatóság.
+(3) Az okirat-nyilvántartásban kezelt adatok teljes körét jogosult közvetlen hozzáféréssel átvenni a személyazonosság igazolására alkalmas hatósági igazolvány kiadása iránti eljárás lefolytatása céljából a személyazonosság igazolására alkalmas hatósági igazolvánnyal összefüggő eljárásban hatáskörrel rendelkező hatóság.
 
-(4) A személyazonosító igazolványt kiállító hatóság a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 16. § (3) bekezdése alapján kérelmezett személyazonosító igazolvány kiadása céljából, az elektronikus anyakönyvből közvetlen hozzáféréssel jogosult átvenni a nemzetiséghez tartozó személy nevét nemzetiségi nyelven.
+(4) A személyazonosító igazolvánnyal összefüggő eljárásban hatáskörrel rendelkező hatóság a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 16. § (3) bekezdése alapján kérelmezett személyazonosító igazolvány kiadása céljából, az elektronikus anyakönyvből közvetlen hozzáféréssel jogosult átvenni a nemzetiséghez tartozó személy nevét nemzetiségi nyelven.
+
+(5) Az állandó személyazonosító igazolvány kiadása céljából az eljáró hatóság az elektronikus anyakönyvből közvetlen hozzáféréssel jogosult átvenni a személy származási helyét, ha annak az állandó személyazonosító igazolványon történő feltüntetését a polgár kérelmezte.
 
 81/E. § (1) A 81/B. § (1) bekezdés a) pontjában meghatározott célból a külpolitikáért felelős miniszter, a 81/C. § (1) bekezdés d) pontjában meghatározott célokból – a hagyatéki eljárás lefolytatása kivételével – a közjegyző, és a 81/D. § (1) bekezdésében meghatározott célokból az ott felsorolt szervek az örökbefogadott személynek csak az örökbefogadás következtében változatlan, valamint az örökbefogadás tényére utaló adatok kivételével az örökbefogadás következtében megváltozott adatait ismerhetik meg.
 

@@ -366,27 +366,13 @@ lép.
 
 95. §
 
-96. § Az Art. 15. §-a helyébe a következő rendelkezés lép:
-
-„15. § [Az adóköteles tevékenység szünetelésének következménye]
-
-(1) Az egyéni vállalkozó, az egyéni ügyvéd, a szolgáltató állatorvosi tevékenység gyakorlására jogosító igazolvánnyal rendelkező természetes személy és a szabadalmi ügyvivő a tevékenységének szüneteltetése, a közjegyző a közjegyzői szolgálata, az önálló bírósági végrehajtó a végrehajtói szolgálata szünetelésének időtartamához kötődő és ilyen minőségében keletkezett adókötelezettségek – kivéve az általános forgalmi adóval kapcsolatos kötelezettségek – teljesítése alól mentesül, ideértve a pénzforgalmi-számlafenntartási kötelezettséget is.
-
-(2) Az egyéni vállalkozó, az egyéni ügyvéd, a szabadalmi ügyvivő, a szolgáltató állatorvosi tevékenység gyakorlására jogosító igazolvánnyal rendelkező természetes személy tevékenysége szüneteltetésének, valamint a közjegyző közjegyzői, az önálló bírósági végrehajtó a végrehajtói szolgálata szünetelésének időtartamára vonatkozóan – ha törvény vagy törvény felhatalmazása alapján kiadott jogszabály másként nem rendelkezik – ilyen minőségében adó-visszaigénylést, adóvisszatérítést, költségvetési támogatásigénylést a szünetelés megszűnését követően sem kérhet, illetve a szünetelés időtartama alatt a túlfizetés visszatérítését nem kérheti. Egyéni vállalkozó esetén a szünetelés időtartama alatt az egyéni vállalkozók nyilvántartása szerinti szünetelés kezdő és záró időpontja közötti időszakot kell érteni.”
+96. §
 
 97. §
 
 98. §
 
-99. § Az Art. 98. §-a helyébe a következő rendelkezés lép:
-
-„98. § [Adatszolgáltatás tevékenység szüneteléséről]
-
-(1) A területi ügyvédi kamara, a Magyar Állatorvosi Kamara, illetve a Magyar Szabadalmi Ügyvivői Kamara az ügyvédi, szabadalmi ügyvivői, szolgáltató állatorvosi tevékenység szünetelésének kezdőnapjáról, valamint a szünetelés megszűnésének napjáról, az ügyvéd, a szabadalmi ügyvivő és az állatorvos természetes személyazonosító adatainak, lakcímének feltüntetésével a bejegyzést követő hónap tizenötödik napjáig adatot szolgáltat az állami adó- és vámhatóságnak.
-
-(2) A közjegyző székhelye szerint illetékes területi közjegyzői kamara, a közjegyző szolgálata szünetelésének kezdőnapjáról, valamint a szünetelés megszűnésének napjáról a közjegyző természetes személyazonosító adatainak, lakcímének feltüntetésével, a szolgálat szünetelésének kezdőnapját, illetve szünetelés megszűnésének napját követő hónap tizenötödik napjáig adatot szolgáltat az állami adó- és vámhatóságnak.
-
-(3) A Magyar Bírósági Végrehajtói Kar az önálló bírósági végrehajtó szolgálata szünetelésének kezdőnapjáról, valamint a szünetelés megszűnésének napjáról, a végrehajtó természetes személyazonosító adatainak, lakcímének feltüntetésével, a bejegyzést követő hónap tizenötödik napjáig adatot szolgáltat az állami adó- és vámhatóságnak.”
+99. §
 
 100. §
 

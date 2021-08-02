@@ -440,81 +440,24 @@ esetén.
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-27. § (1) A Hktv. 4. § d) pontja helyébe a következő rendelkezés lép:
+27. §
 
-(E törvény és e törvény felhatalmazása alapján kiadott rendeletek alkalmazásában:)
+28. §
 
-„d) borvidék: termőhelyek összességéből álló szakigazgatási egység, amely több település közigazgatási területére kiterjedően hasonló éghajlati, domborzati, talajtani adottságokkal, jellemző fajtaösszetételű és művelésű ültetvényekkel, sajátos szőlő- és bortermelési hagyományokkal rendelkezik,”
+29. §
 
-(2) A Hktv. 4. §-a a következő f) ponttal egészül ki:
+30. §
 
-(E törvény és e törvény felhatalmazása alapján kiadott rendeletek alkalmazásában:)
+31. §
 
-„f) szakigazgatási egység: a borvidék és a borrégió.”
+32. §
 
-28. § A Hktv. 19. § (3) bekezdése helyébe a következő rendelkezés lép:
+33. §
 
-„(3) Az (1) bekezdés a) és b) pontjában meghatározott tagsági viszonyból eredő jogait
+34. §
 
-a) természetes személy csak személyesen vagy közeli hozzátartozója vagy a képviseletében eljáró, legalább öt éve, legalább heti 20 órában folyamatosan alkalmazásában álló személy,
+35. §
 
-b) jogi személy és jogi személyiséggel nem rendelkező szervezet a képviseletére jogosult
+36. §
 
-útján gyakorolhatja.”
-
-29. § A Hktv. 38. § (1) bekezdése a következő f) ponttal egészül ki:
-
-(A Hegyközségek Nemzeti Tanácsa)
-
-„f) hitelesíti a papíralapú kísérőokmányokat és szakmai-jövedéki nyilvántartásokat, és ezekről nyilvántartást vezet;”
-
-30. § A Hktv. 26. § (1a) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(A borrégiós tanács hatáskörébe tartozik)
-
-„c) a borrégiót alkotó valamely hegyközségi tanács vagy annak hiányában hegyközség által átadott feladatok ellátása.”
-
-31. § A Hktv. 40. § (2) bekezdése a következő k) ponttal egészül ki:
-
-(A hegybíró)
-
-„k) ellenőrzi a neki címzett bejelentések és kérelmek, valamint az azok alapján kiadott hatósági bizonyítványok valóságtartalmát.”
-
-32. § A Hktv. 61. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
-
-a) az adatszolgáltatásra kötelezettek, a hegyközségek és a hegyközségi tanácsok adatszolgáltatásának rendjét,
-
-b) a származási bizonyítvány kiadásának rendjét,
-
-c) az adópolitikáért felelős miniszterrel egyetértésben a hegyközségi szervezetek által lefolytatott egyes eljárások igazgatási szolgáltatási díjainak mértékét és megfizetésének rendjét,
-
-d) a hegybíró, a regionális titkár és a főtitkár tevékenységének ellenőrzési szabályait,
-
-e) a borvidékeket és a borrégiókat, továbbá a hozzájuk tartozó települések listáját.”
-
-33. § A Hktv.
-
-- a) 3. § (2) bekezdésében a „borvidéken” szövegrészek helyébe a „szakigazgatási egység területén” szöveg,
-- b) 17. § (1) bekezdésében a „borvidéken” szövegrész helyébe a „szakigazgatási egység területén” szöveg,
-- c) 17. § (3) és (5) bekezdésében, 38. § (2) bekezdésében és 49. § (5) bekezdésében a „nem borvidéki” szövegrész helyébe a „szakigazgatási egységbe nem sorolt” szöveg,
-- d) 26. § (5) bekezdésében az „A döntéshozatalhoz” szövegrész helyébe az „Amennyiben az alapszabály egyhangúlag elfogadott módon másképp nem rendelkezik, a döntéshozatalhoz” szöveg,
-- e) 34. § (2) bekezdés b) pontjában a „hegybírói hozzájárulás” szövegrész helyébe a „hegyközségi hozzájárulás” szöveg,
-- f) 40. § (2) bekezdés i) pontjában a „szőlőtermesztésről és a borgazdálkodásról szóló törvényben” szövegrész helyébe a „szőlészetről és borászatról szóló törvényben (a továbbiakban: Btv.)” szöveg,
-- g) 41. §-ában
-  - ga) a „szőlő, must vagy bor származási bizonyítványát,” szövegrész helyébe a „származási bizonyítványt” szöveg,
-  - gb) a „szőlő, illetve bor” szövegrész helyébe a „bor” szöveg,
-- h) 43. § (4) bekezdés nyitó szövegrészében a „szőlőtermesztésről és a borgazdálkodásról szóló törvény” szövegrész helyébe a „Btv.” szöveg
-
-lép.
-
-34. § Hatályát veszti a Hktv. 24. § (1) bekezdés a) pontjában a „2011. december 31-ig benyújtott” szövegrész.
-
-35. § A Jöt. 136. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Az állami adó- és vámhatóság az egyszerűsített adóraktári engedély visszavonásáról – az érintett engedélyes nevére (cégnevére), lakcímére (székhelyére), az engedély visszavonásának tényére és időpontjára vonatkozó adatok megadásával – értesíti a borászati hatóságot.”
-
-36. § A Jöt. 136. § (2) bekezdésében és 137. § (3) bekezdésében az „augusztus 15-ig” szövegrész helyébe a „szeptember 10-ig” szöveg lép.
-
-37. § Hatályát veszti a szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény.
+37. §

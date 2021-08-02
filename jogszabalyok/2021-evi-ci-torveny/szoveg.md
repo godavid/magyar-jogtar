@@ -584,7 +584,13 @@ lép.
 
 149. §
 
-150. §
+150. § A Kbt. 201. §-a a következő l) ponttal egészül ki:
+
+(Ez a törvény)
+
+„l) a tiszta és energiahatékony közúti járművek használatának előmozdításáról szóló 2009/33/EK irányelv módosításáról szóló 2019. június 20-i 2019/1161/EU európai parlamenti és tanácsi irányelvnek”
+
+(való megfelelést szolgálja.)
 
 151. §
 
@@ -711,41 +717,23 @@ lép.
 
 #### 58. A Budapesti Gazdasági Egyetemért Alapítványról, a Budapesti Gazdasági Egyetemért Alapítvány és a Budapesti Gazdasági Egyetem részére történő vagyonjuttatásról szóló 2021. évi X. törvény módosítása
 
-193. § (1) A Budapesti Gazdasági Egyetemért Alapítványról, a Budapesti Gazdasági Egyetemért Alapítvány és a Budapesti Gazdasági Egyetem részére történő vagyonjuttatásról szóló 2021. évi X. törvény (a továbbiakban: 2021. évi X. törvény) 5. § (2) és (3) bekezdése a következő szöveggel lép hatályba:
+193. §
 
-„(2) Az ingatlan tekintetében a tulajdonosváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződéseket az állam nevében az egyes tulajdonosi joggyakorló szervezetek készítik elő és kötik meg az Egyetemmel.
+194. § (1)
 
-(3) Az ingatlan és az (5) bekezdés szerinti ingóságok vonatkozásában a vagyonkezelő és a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság között fennálló vagyonkezelési szerződés megszűnik.”
-
-(2) A 2021. évi X. törvény 5. §-a a következő (8) bekezdéssel kiegészülve lép hatályba:
-
-„(8) A Budapest belterület 31905/11 helyrajzi számú ingatlant az ingatlanon folyamatban lévő beruházás megvalósulását követően – az (1)–(7) bekezdés, valamint a 6. § alkalmazásával – ingyenesen az Egyetem tulajdonába kell adni.”
-
-194. § (1) A 2021. évi X. törvény 3. § (1) bekezdése az „ingatlan” szövegrész helyett az „ingatlant (ezen alcím alkalmazásában a továbbiakban: ingatlan)” szöveggel, az „átvezetéssel az Alapítvány tulajdonába kerül” szövegrész helyett az „átvezetéssel alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni” szöveggel lép hatályba.
-
-(2) A 2021. évi X. törvény
-
-- a) 7. § (2) bekezdésében a „9. §, valamint” szövegrész helyébe a „9. § és” szöveg,
-- b) 8. §-ában az „5. § (1), (5) és (7) bekezdése” szövegrész helyébe az „5. § (1), (5), (7) és (8) bekezdése” szöveg
-
-lép.
+(2)
 
 #### 59. A Dunaújvárosi Egyetemért Alapítványról, a Dunaújvárosi Egyetemért Alapítvány és a Dunaújvárosi Egyetem részére történő vagyonjuttatásról szóló 2021. évi XI. törvény módosítása
 
-195. § A Dunaújvárosi Egyetemért Alapítványról, a Dunaújvárosi Egyetemért Alapítvány és a Dunaújvárosi Egyetem részére történő vagyonjuttatásról szóló 2021. évi XI. törvény (a továbbiakban: 2021. évi XI. törvény) 3. § (1) bekezdése az „ingatlanok, valamint ingatlanok tulajdoni hányada” szövegrész helyett az „ingatlanokat, valamint ingatlanok tulajdoni hányadát” szöveggel, az „átvezetéssel az Alapítvány tulajdonába kerülnek” szövegrész helyett az „átvezetéssel alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni szöveggel lép hatályba.
+195. §
 
-196. § A 2021. évi XI. törvény 7. § (2) bekezdésében a „9. §, valamint” szövegrész helyébe a „9. §, továbbá” szöveg lép.
+196. §
 
 #### 60. A Gróf Tisza István Debreceni Egyetemért Alapítványról, a Gróf Tisza István Debreceni Egyetemért Alapítvány és a Debreceni Egyetem részére történő vagyonjuttatásról szóló 2021. évi XIII. törvény módosítása
 
-197. § A Gróf Tisza István Debreceni Egyetemért Alapítványról, a Gróf Tisza István Debreceni Egyetemért Alapítvány és a Debreceni Egyetem részére történő vagyonjuttatásról szóló 2021. évi XIII. törvény (a továbbiakban: 2021. évi XIII. törvény)
+197. §
 
-- a) 3. § (1) bekezdése az „ingatlanok, valamint ingatlanok tulajdoni hányada” szövegrész helyett az „ingatlanokat, valamint ingatlanok tulajdoni hányadát” szöveggel, az „átvezetéssel az Alapítvány tulajdonába kerülnek” szövegrész helyett az „átvezetéssel alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni” szöveggel,
-- b) 2. mellékletében foglalt táblázat C:32 mezője az „1/1” szövegrész helyett az „1/2” szöveggel
-
-lép hatályba.
-
-198. § A 2021. évi XIII. törvény 7. § (2) bekezdésében a „9. §, valamint” szövegrész helyébe a „9. §, továbbá” szöveg lép.
+198. §
 
 #### 61.
 
@@ -763,83 +751,55 @@ lép hatályba.
 
 #### 63. A Magyar Táncművészeti Egyetemért Alapítványról, a Magyar Táncművészeti Egyetemért Alapítvány és a Magyar Táncművészeti Egyetem részére történő vagyonjuttatásról szóló 2021. évi XVII. törvény módosítása
 
-204. § A Magyar Táncművészeti Egyetemért Alapítványról, a Magyar Táncművészeti Egyetemért Alapítvány és a Magyar Táncművészeti Egyetem részére történő vagyonjuttatásról szóló 2021. évi. XVII. törvény 5. § (2) bekezdésében a „7. § és” szövegrész helyébe a „7. §, valamint” szöveg lép.
+204. §
 
 #### 64. A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény módosítása
 
-205. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény (a továbbiakban: 2021. évi XX. törvény)
+205. §
 
-- a) 3. § (1) bekezdése az „ingatlanok, ingatlanok tulajdoni hányada” szövegrész helyett az „ingatlanokat, valamint ingatlanok tulajdoni hányadát” szöveggel, az „átvezetéssel az Alapítvány tulajdonába kerülnek” szövegrész helyett az „átvezetéssel alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni” szöveggel,
-- b) 5. § (7) bekezdése a „ , valamint” szövegrész helyett az „és” szöveggel,
-- c) 6. §-a az „az 5. §-ban foglaltak alapján” szövegrész helyett az „az 5. §-ban foglaltak értelmében” szöveggel
-
-lép hatályba.
-
-206. § A 2021. évi XX. törvény 7. § (2) bekezdésében a „9. §, valamint” szövegrész helyébe a „9. § és” szöveg lép.
+206. §
 
 #### 65. A Nyíregyházi Egyetemért Alapítványról, a Nyíregyházi Egyetemért Alapítvány és a Nyíregyházi Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXI. törvény módosítása
 
-207. § (1) A Nyíregyházi Egyetemért Alapítványról, a Nyíregyházi Egyetemért Alapítvány és a Nyíregyházi Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXI. törvény (a továbbiakban: 2021. évi XXI. törvény) 3. § (1) bekezdése a következő szöveggel lép hatályba:
+207. §
 
-„(1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján az Nftv.-ben meghatározott oktatási, tudományos, kutatási feladatok ellátását szolgáló, a 2. mellékletben felsorolt állami tulajdonban lévő ingatlanokat (ezen alcím alkalmazásában a továbbiakban: ingatlan) ingyenesen, nyilvántartási értéken történő átvezetéssel alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni.”
+208. §
 
-(2) A 2021. évi XXI. törvény 3. §-a a következő (5) bekezdéssel kiegészülve lép hatályba:
-
-„(5) A 2. mellékletben foglalt táblázat 3. sorában meghatározott ingatlan tulajdonjogát az Alapítvány terhek nélkül szerzi meg.”
-
-208. § A 2021. évi XXI. törvény a 12. melléklet szerinti 2. melléklettel kiegészülve lép hatályba.
-
-209. § A 2021. évi XXI. törvény
-
-- a) 7. § (2) bekezdésében a „9. §, valamint” szövegrész helyébe a „9. § és” szöveg,
-- b) 8. §-ában a „3. § (1) és (4) bekezdése” szövegrész helyébe a „3. § (1), (4) és (5) bekezdése” szöveg, az „1. melléklet” szövegrész helyébe az „1. és 2. melléklet” szöveg
-
-lép.
+209. §
 
 #### 66. A Rudolf Kalman Óbudai Egyetemért Alapítványról, a Rudolf Kalman Óbudai Egyetemért Alapítvány és az Óbudai Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXII. törvény módosítása
 
-210. § A Rudolf Kalman Óbudai Egyetemért Alapítványról, a Rudolf Kalman Óbudai Egyetemért Alapítvány és az Óbudai Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXII. törvény (a továbbiakban: 2021. évi XXII. törvény) 3. § (1) bekezdése az „ingatlanok” szövegrész helyett az „ingatlanokat” szöveggel, az „átvezetéssel az Alapítvány tulajdonába kerülnek” szövegrész helyett az „átvezetéssel alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni” szöveggel lép hatályba.
+210. §
 
-211. § A 2021. évi XXII. törvény 7. § (2) bekezdésében a „9. §, valamint” szövegrész helyébe a „9. § és” szöveg lép.
+211. §
 
-212. § A 2021. évi XXII. törvény 1. melléklete a 13. mellékletben foglaltak szerint lép hatályba.
+212. §
 
 #### 67. A Szegedi Tudományegyetemért Alapítványról, a Szegedi Tudományegyetemért Alapítvány és a Szegedi Tudományegyetem részére történő vagyonjuttatásról szóló 2021. évi XXIII. törvény módosítása
 
-213. § A Szegedi Tudományegyetemért Alapítványról, a Szegedi Tudományegyetemért Alapítvány és a Szegedi Tudományegyetem részére történő vagyonjuttatásról szóló 2021. évi XXIII. törvény (a továbbiakban: 2021. évi XXIII. törvény) 3. § (1) bekezdése az „ingatlanok, ingatlanok tulajdoni hányada” szövegrész helyett az „ingatlanokat, ingatlanok tulajdoni hányadát” szöveggel, az „átvezetéssel az Alapítvány tulajdonába kerülnek” szövegrész helyett az „átvezetéssel alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni” szöveggel lép hatályba.
+213. §
 
-214. § A 2021. évi XXIII. törvény 10. § (2) bekezdésében a „12. §, valamint” szövegrész helyébe a „12. § és” szöveg lép.
+214. §
 
 #### 68. A Testnevelési Egyetemért Alapítványról, a Testnevelési Egyetemért Alapítvány és a Testnevelés Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXIV. törvény módosítása
 
-215. § A Testnevelési Egyetemért Alapítványról, a Testnevelési Egyetemért Alapítvány és a Testnevelés Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXIV. törvény (a továbbiakban: 2021. évi XXIV. törvény) 5. § (2) bekezdésében a „7. §, valamint” szövegrész helyébe a „7. § és” szöveg lép.
+215. §
 
 #### 69. A Tokaj-Hegyalja Egyetemért Alapítványról, a Tokaj-Hegyalja Egyetemért Alapítvány és a Tokaj-Hegyalja Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXV. törvény módosítása
 
-216. § A Tokaj-Hegyalja Egyetemért Alapítványról, a Tokaj-Hegyalja Egyetemért Alapítvány és a Tokaj-Hegyalja Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXV. törvény (a továbbiakban: 2021. évi XXV. törvény) 2. § (2) bekezdése a „Vtv. 36. § (1) bekezdése és” szövegrész helyett a „Vtv. 36. § (1) bekezdése, valamint” szöveggel lép hatályba.
+216. §
 
-217. § A 2021. évi XXV. törvény 5. § (2) bekezdésében a „7. §, valamint” szövegrész helyébe a „7. §, továbbá” szöveg lép.
+217. §
 
 #### 70. Az Universitas Quinqueecclesiensis Alapítványról, az Universitas Quinqueecclesiensis Alapítvány és a Pécsi Tudományegyetem részére történő vagyonjuttatásról szóló 2021. évi XXVI. törvény módosítása
 
-218. § Az Universitas Quinqueecclesiensis Alapítványról, az Universitas Quinqueecclesiensis Alapítvány és a Pécsi Tudományegyetem részére történő vagyonjuttatásról szóló 2021. évi XXVI. törvény (a továbbiakban: 2021. évi XXVI. törvény) 2. alcíme a következő 4/A. §-sal kiegészülve lép hatályba:
+218. §
 
-„4/A. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján – az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása érdekében a Harkányi Termál Rehabilitációs Centrum Közhasznú Nonprofit Korlátolt Felelősségű Társaság üzletrészét ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni. Az Alapítvány első alkalommal a 2021. év után járó osztalékra jogosult.
+219. §
 
-(2) Ha az Alapítvány a tulajdonába adott üzletrészt elidegeníti, az elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány közérdekű céljainak megvalósítására és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátására köteles fordítani.”
+220. §
 
-219. § A 2021. évi XXVI. törvény 2. alcíme a következő 4/B. §-sal kiegészülve lép hatályba:
-
-„4/B. § A 4/A. § (1) bekezdésében meghatározott intézkedések végrehajtása során az állam képviseletében a miniszter jár el, aki 2021. augusztus 1. napjától az üzletrész felett a tulajdonosi jogokat gyakorolja.”
-
-220. § A 2021. évi XXVI. törvény 3. § (1) bekezdése az „ingatlanok, ingatlanok tulajdoni hányada” szövegrész helyett az „ingatlanokat, ingatlanok tulajdoni hányadát” szöveggel, az „átvezetéssel az Alapítvány tulajdonába kerülnek” szövegrész helyett az „átvezetéssel alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni” szöveggel lép hatályba.
-
-221. § A 2021. évi XXVI. törvény
-
-- a) 9. § (2) bekezdésében a „11. §, valamint” szövegrész helyébe a „11. §, továbbá” szöveg,
-- b) 10. §-ában a „4. §,” szövegrész helyébe a „4. §, a 4/A. §,” szöveg
-
-lép.
+221. §
 
 #### 71.
 
@@ -914,42 +874,4 @@ lép.
 
 ### 12. melléklet a 2021. évi CI. törvényhez
 
-„2. melléklet a 2021. évi XXI. törvényhez
-
-Az Alapítvány részére átadásra kerülő állami tulajdonú ingatlan
-
-|  | A | B | C | D |
-| --- | --- | --- | --- | --- |
-| 1. | TELEPÜLÉS | HELYRAJZI SZÁM | MAGYAR ÁLLAM TULAJDONI HÁNYADA | MEGNEVEZÉS |
-| 2. | NAPKOR | 0178/27 | 32/100 | kivett major |
-| 3. | NYÍREGYHÁZA | 1024/9 | 1/1 | kivett főiskola |
-
-”
-
 ### 13. melléklet a 2021. évi CI. törvényhez
-
-„1. melléklet a 2021. évi XXII. törvényhez
-
-Az Alapítvány részére átadásra kerülő állami tulajdonú ingatlanok
-
-|  | A | B | C | D |
-| --- | --- | --- | --- | --- |
-| 1. | TELEPÜLÉS | HELYRAJZI SZÁM | MAGYAR ÁLLAM TULAJDONI HÁNYADA | MEGNEVEZÉS |
-| 2. | BALATONSZEPEZD | 144/5 | 1/1 | kivett táborhely |
-| 3. | BUDAPEST | 14729/7 | 1/1 | kivett épület, udvar |
-| 4. | BUDAPEST | 16197/2 | 1/1 | kivett beépítetlen terület |
-| 5. | BUDAPEST | 16198/1 | 1/1 | kivett beépítetlen terület |
-| 6. | BUDAPEST | 16198/2 | 1/1 | kivett beépítetlen terület |
-| 7. | BUDAPEST | 63620 | 1/1 | kivett beépítetlen terület” |
-| 8. | BUDAPEST | 63619 | 49/140 és további 45/140 arányban | kivett lakóház, udvar, hétvégi ház |
-| 9. | BUDAPEST | 63618 | 1/1 | kivett hétvégi ház, udvar |
-| 10. | BUDAPEST | 63617 | 1/1 | kivett beépítetlen terület |
-| 11. | BUDAPEST | 63615 | 1/1 | kivett üdülőépület, udvar |
-| 12. | BUDAPEST | 60083 | 1/1 | kivett üdülő |
-| 13. | BUDAPEST | 60082 | 1/1 | kivett hétvégi ház, udvar” |
-| 14. | BUDAPEST | 23756 | 1/1 | kivett üdülő |
-| 15. | BUDAPEST | 60064/1 | 1/1 | kivett üdülőépület, udvar |
-| 16. | SZÉKESFEHÉRVÁR | 806 | 1/1 | kivett udvar |
-| 17. | ZAMÁRDI | 2175 | 1/1 | kivett üdülőépület, udvar |
-
-”

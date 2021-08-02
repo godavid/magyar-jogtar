@@ -70,7 +70,7 @@ A Pécsi Tudományegyetem nemzetközi szintű tudásközpont szerepének megerő
 
 (2) A 6. § (1) bekezdése az Alaptörvény 38. cikk (1), (2) és (6) bekezdése alapján sarkalatosnak minősül.
 
-11. § Hatályát veszti az 1. § (3) és (5) bekezdése.
+11. §
 
 ### 1. melléklet a 2021. évi XXVI. törvényhez
 

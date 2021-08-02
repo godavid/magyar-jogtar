@@ -20,7 +20,7 @@ Az Országgyűlés a Magyar Nemzeti Bankról, annak elsődleges céljairól, ala
 
 3. § (1) Az MNB elsődleges célja az árstabilitás elérése és fenntartása.
 
-(2) Az MNB elsődleges céljának veszélyeztetése nélkül támogatja a pénzügyi közvetítőrendszer stabilitásának fenntartását, ellenállóképességének növelését, a gazdasági növekedéshez való fenntartható hozzájárulásának biztosítását és a rendelkezésére álló eszközökkel a Kormány gazdaságpolitikáját.
+(2) Az MNB elsődleges céljának veszélyeztetése nélkül támogatja a pénzügyi közvetítőrendszer stabilitásának fenntartását, ellenállóképességének növelését, a gazdasági növekedéshez való fenntartható hozzájárulásának biztosítását és a rendelkezésére álló eszközökkel a Kormány gazdaság-, valamint a környezeti fenntarthatósággal kapcsolatos politikáját.
 
 #### 2. Az MNB alapvető és egyéb feladatai
 
@@ -667,6 +667,8 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (35) Az MNB a 39. § (1) bekezdés l) pontjában meghatározott feladatai során ellátja a befektetési vállalkozásokra vonatkozó prudenciális követelményekről, valamint az 1093/2010/EU, az 575/2013/EU, a 600/2014/EU és a 806/2014/EU rendelet módosításáról szóló, 2019. november 27-i (EU) 2019/2033 európai parlamenti és tanácsi rendelet végrehajtását.
 
+(36) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében az (EU) 2016/1011 rendeletnek az egyes harmadik országbeli azonnali referencia-árfolyamok mentessége és egyes megszűnő referenciamutatók helyettesítőinek kijelölése tekintetében történő módosításáról, valamint a 648/2012/EU rendelet módosításáról szóló, 2021. február 10-i (EU) 2021/168 európai parlamenti és tanácsi rendelet 1. cikk 5. pontjában meghatározott, az (EU) 2016/1011 európai parlamenti és tanácsi rendelet 23b. cikk (5) bekezdés a) pontja szerinti értékelést.
+
 41. § (1) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] végrehajtását
 
 - a) a fogyasztói hitelmegállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2008 április 23-i 2008/48/EK európai parlamenti és tanácsi irányelvet,
@@ -704,7 +706,7 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 - a) az általa kiadott tevékenységi engedéllyel rendelkező, illetve nyilvántartásba vett szervezetek és személyek jegyzékét, ideértve az engedély típusát,
 - b) azon külföldi illetékes felügyeleti hatóságok jegyzékét, amelyekkel felügyeleti együttműködési megállapodást kötött,
 - c) a pénzügyi szervezetek és befektetési vállalkozások által alkalmazandó hatályos jogszabályok elérhetőségére mutató internetes hivatkozásokat,
-- d) a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetek tőkeszükséglet számításának felügyeleti felülvizsgálata és értékelése során alkalmazott feltételeket és módszereket,
+- d) a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetek tőkeszükséglet számításának felügyeleti felülvizsgálata és értékelése során alkalmazott feltételeket és módszereket, ideértve az arányosság elvének alkalmazására vonatkozó feltételeket is,
 - e) a hitelintézetek és befektetési vállalkozások működése, a tőkemegfelelés és a prudenciális előírások tekintetében a jogszabályokban foglaltak alkalmazására vonatkozó összesített statisztikai adatokat és kapcsolódó elemzést,
 - f) az MNB jogalkalmazási gyakorlatának alapját ismertető, a 4. § (9) bekezdésében meghatározott feladatkörében a felügyelete alá tartozó személyekre és szervezetekre vonatkozó ajánlásait,
 - g) az uniós jogszabályokban biztosított választási lehetőségek körét és a vonatkozó mérlegelési jogkör gyakorlásának módját és elveit,
@@ -953,7 +955,7 @@ folytat le.
 - a) az iratról való másolat-, illetve kivonatkészítés jogát korlátozhatja, illetve
 - b) kivételesen, ha az ügyfél törvényes jogainak gyakorlása csak olyan adat megismerésének lehetővé tételével biztosítható, amely adatnak a betekintést kérő általi pontos ismerete az adat jogosultjának az adat titokban tartásához fűződő érdekét közvetlenül és visszafordíthatatlanul sértheti, előírhatja, hogy az iratbetekintés csak az ügyfelet képviselő ügyvéd vagy az ügyfél által megbízott szakértő személy útján gyakorolható azzal, hogy a megismert korlátozottan megismerhető adatok nem tárhatók fel az ügyfélnek sem.
 
-(9) Az iratbetekintés során az arra jogosult másolatot, kivonatot készíthet, elektronikus másolatot kérhet, vagy elektronikus adathordozón kérheti az adatok rögzítését és átadását, vagy olyan papíralapú másolatot kérhet, amelyet az MNB kérelemre hitelesít. Az iratbetekintési jog – a személyes és védett adatok megismerhetetlenné tételéért, valamint az ilyen módon kivonatolt iratról való másolat készítéséért – jogszabályban meghatározott költségtérítés ellenében gyakorolható.
+(9) Az iratbetekintés során az arra jogosult – díj- és költségmentesen – másolatot, kivonatot készíthet, elektronikus másolatot kérhet, vagy elektronikus adathordozón kérheti az adatok rögzítését és átadását, vagy olyan papíralapú másolatot kérhet, amelyet az MNB kérelemre hitelesít.
 
 (10) Az MNB az iratbetekintés korlátozással történő engedélyezéséről, vagy az iratbetekintési kérelem elutasításáról végzéssel dönt. Amennyiben az MNB az iratbetekintést korlátozás nélkül engedélyezi, arról külön alakszerű döntést nem kell hoznia, de az ügyfelet haladéktalanul tájékoztatja.
 
@@ -1004,7 +1006,7 @@ rendelhet el.
 
 (2) Az (1) bekezdésben foglaltak alkalmazását követően az eljárás más résztvevői – az ügyfél képviselője kivételével – és más hatóság részére az MNB a rendelkezésére álló iratokat az eljárás nyelvén és – ellentétes nyilatkozatuk hiányában – magyar nyelvű fordításban adja át. A fordítás költségeit az MNB viseli.
 
-(3) Az (1) bekezdés nem alkalmazható az alapítási, a tevékenységi engedélyezési, valamint a minősített befolyás megszerzésére irányuló eljárásokban, amelyek során az ügyfél köteles az iratok hiteles magyar nyelvű fordítását biztosítani.
+(3) Az (1) bekezdés nem alkalmazható az alapítási, a tevékenységi engedélyezési, valamint a minősített befolyás megszerzésére irányuló eljárásokban, amelyek során az ügyfél köteles az iratok hiteles magyar nyelvű fordítását biztosítani azzal, hogy az Európai Unió bármely hivatalos nyelvéről történő fordítás esetén elfogadott a szakfordító vagy szakfordító-lektor képesítéssel rendelkezők által készített fordítás.
 
 (4) Ha az MNB döntésének magyar és idegen nyelvű szövege között eltérés van, a magyar nyelvű szöveg az irányadó.
 
@@ -1232,7 +1234,7 @@ az MNB dönthet úgy, hogy nem teszi közzé a szankciót vagy intézkedést elr
 62. § (1) Az MNB ellenőrzési jogköre
 
 - a) e törvény,
-- b) a 39. §-ban meghatározott törvények hatálya alá tartozó személy és szervezet működésére és tevékenységére vonatkozó jogszabályok, és
+- b) a 39. §-ban meghatározott törvények hatálya alá tartozó személy és szervezet működésére és tevékenységére vonatkozó jogszabályok, valamint az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusai, és
 - c) az MNB elnöke rendelete
 
 megtartásának, valamint az MNB hatósági határozataiban foglaltak végrehajtásának ellenőrzésére terjed ki.
@@ -1608,7 +1610,7 @@ szerzett vezetői gyakorlattal rendelkezik.
 
 81. § (1) Az MNB kérelemre vagy hivatalból indított eljárás keretében ellenőrzi
 
-- a) a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet által nyújtott szolgáltatást igénybe vevő fogyasztóval szemben tanúsítandó magatartásra vonatkozó kötelezettséget megállapító, a 39. §-ban meghatározott törvények vagy az azok végrehajtására kiadott jogszabályban, továbbá közvetlenül alkalmazandó uniós jogi aktusban előírt rendelkezések,
+- a) a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet által nyújtott szolgáltatást igénybe vevő fogyasztóval szemben tanúsítandó magatartásra vonatkozó kötelezettséget megállapító, a 39. §-ban meghatározott törvények vagy az azok végrehajtására kiadott jogszabályban, továbbá az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusában előírt rendelkezések,
 - b) a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvény rendelkezéseinek,
 - c) a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvény rendelkezéseinek,
 - d) az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvény rendelkezéseinek [az a)–d) pont a továbbiakban együtt: fogyasztóvédelmi rendelkezések], továbbá
@@ -1759,7 +1761,7 @@ tarthat.
 
 90. § (1) Az MNB piacfelügyeleti eljárást indít
 
-- a) engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közvetítői (ügynöki) tevékenység gyanúja esetén,
+- a) engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közvetítői (ügynöki) tevékenység, elektronikuspénz-értékesítői tevékenység gyanúja esetén,
 - b) bennfentes kereskedelem vagy piacbefolyásolás, valamint bennfentes információ jogosulatlan közzétételének gyanúja esetén,
 - c) az 596/2014/EU rendelet szerinti vezetői feladatokat ellátó személyekre és adott esetben az 596/2014/EU rendelet szerinti velük szoros kapcsolatban álló személyekre vonatkozó bejelentési kötelezettségre vonatkozó szabályok ellenőrzése céljából,
 - d) a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése céljából,
@@ -1871,7 +1873,9 @@ számított 5 évig kezelheti.
 
 (2) A magyarországi lakcímmel vagy székhellyel nem rendelkező ügyfél részére hirdetményi közlésnek, illetve – amennyiben annak feltételei fennállnak – kézbesítési ügygondnok útján történő kézbesítésnek kézbesítési meghatalmazott megnevezésének hiánya miatt csak akkor van helye, ha nemzetközi jogsegély útján vagy az igénybe vehető egyéb közlési módok alkalmazásával a közlés – annak megtörténte igazolásával – nem biztosítható.
 
-#### 92/A. §
+92/A. § (1) A piacfelügyeleti eljárásban az MNB a szerződést, ügyletet és más hasonló cselekményt valódi tartalma szerint minősíti.
+
+(2) Az érvénytelen szerződésnek vagy más jogügyletnek a piacfelügyeleti eljárás szempontjából annyiban van jelentősége, amennyiben annak gazdasági eredménye kimutatható.
 
 93. § (1) Engedély nélkül végzett tevékenység megállapítása esetén az MNB
 
@@ -3280,6 +3284,7 @@ való megfelelést szolgálja.
 - 18. a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről szóló 575/2013/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2401 európai parlamenti és tanácsi rendelet,
 - 19. az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet,
 - 20. az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztatóról és a 2003/71/EK irányelv hatályon kívül helyezéséről szóló, 2017. június 14-i (EU) 2017/1129 európai parlamenti és tanácsi rendelet
+- 21. az (EU) 2016/1011 rendeletnek az egyes harmadik országbeli azonnali referencia-árfolyamok mentessége és egyes megszűnő referenciamutatók helyettesítőinek kijelölése tekintetében történő módosításáról, valamint a 648/2012/EU rendelet módosításáról szóló, 2021. február 10-i (EU) 2021/168 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 

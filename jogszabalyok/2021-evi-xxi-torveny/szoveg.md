@@ -58,7 +58,7 @@ A Nyíregyházi Egyetem többfókuszú stratégiai céljainak megvalósítása, 
 
 8. § Az 1. § (3)–(5) bekezdése, a 2. §, a 3. § (1), (4) és (5) bekezdése, a 4. §, az 5. § (1), (5) és (7) bekezdése, a 6. §, a 9. §, valamint az 1. és 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
-9. § Hatályát veszti az 1. § (3) és (5) bekezdése.
+9. §
 
 ### 1. melléklet a 2021. évi XXI. törvényhez
 

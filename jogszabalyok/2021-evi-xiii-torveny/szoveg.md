@@ -70,7 +70,7 @@ A multidiszciplináris jellegű Debreceni Egyetem többfókuszú stratégiai cé
 
 8. § Az 1. § (3)–(5) bekezdése, a 2. § (1), (2) és (4) bekezdése, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1), (3), (5), (8), (10) és (11) bekezdése, a 6. §, a 9. §, valamint az 1. és a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
-9. § Hatályát veszti az 1. § (3) és (5) bekezdése.
+9. §
 
 ### 1. melléklet a 2021. évi XIII. törvényhez
 

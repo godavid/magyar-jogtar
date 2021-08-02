@@ -26,19 +26,41 @@ egyes törvényeknek nyilvántartásokkal és elektronikus ügyintézéssel öss
 
 11. §
 
-12. § (1)
+12. § (1) Az Nytv. 29. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) A tároló elem nem tartalmazza az ujjnyomat adatot, ha a polgár
+
+a) a személyazonosító igazolvány kiállításakor a 6. életévét még nem töltötte be,
+
+b) annak adására ideiglenesen fizikailag képtelen, vagy
+
+c) annak adására fizikailag képtelen.”
 
 (2)
 
-13. § (1)
+13. § (1) Az Nytv. 29/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A 29. § (9) bekezdésében foglalt esetek kivételével a személyazonosító igazolvány kiadása iránti kérelem előterjesztésekor a nyilvántartás szerve az ujjnyomatnak a személyazonosító igazolvány tároló elemén történő elhelyezése céljából rögzíti a polgár ujjnyomatát, ha a polgár a kérelem benyújtásakor 6. életévét betöltötte.”
 
 (2)
 
-(3)
+(3) Az Nytv. 29/A. § (3)–(5) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(3) A 29. § (9) bekezdésében foglalt esetek kivételével a honosítási és visszahonosítási kérelmet átvevő szerv a honosítási és visszahonosítási kérelem (a továbbiakban együtt: honosítási kérelem) benyújtásakor 6. életévét betöltött, valamint a honosítási kérelem benyújtásának évében 6. életévét betöltő polgár ujjnyomatát rögzíti az ujjnyomat adatnak a személyazonosító igazolvány tároló elemén történő elhelyezése céljából. A honosítási kérelmet átvevő szerv az ujjnyomatot a honosítási kérelem továbbításával egyidejűleg küldi meg az állampolgársági ügyekben eljáró szervnek. Az állampolgársági ügyekben eljáró szerv az ujjnyomat adatot a 14. § m) pont mj) alpontjában meghatározott feladata teljesítése céljából, az értesítés megküldéséig kezeli, az értesítés megküldését, valamint a honosítási kérelem elutasítását követően az ujjnyomat adatot haladéktalanul törli.
+
+(4) A nyilvántartást kezelő szerv – a 11. § (4) bekezdésében meghatározott kivétellel – és a kijelölt kormányhivatal az ujjnyomatot az (5) bekezdésben meghatározott kivétellel az állandó személyazonosító igazolvány kiállításáig, valamint a személyazonosító igazolvány kiadását megtagadó határozat vagy eljárást megszüntető végzés véglegessé válásáig kezeli, azt az állandó személyazonosító igazolvány kiállításakor, valamint a személyazonosító igazolvány kiadását megtagadó határozat vagy az eljárást megszüntető végzés véglegessé válását követően haladéktalanul törölni kell.
+
+(5) A honosítási kérelmet előterjesztő polgár ujjnyomat adatát a kijelölt kormányhivatal az állampolgársági eskü vagy fogadalom letételéig, legfeljebb azonban a magyar állampolgárságról szóló 1993. évi LV. törvény 16. § (6) bekezdésében meghatározott időpontig kezeli. A honosítási kérelmet előterjesztő polgár ujjnyomat adatát a kijelölt kormányhivatal a tároló elemen csak akkor helyezheti el, ha a polgár a 6. életévét legkésőbb az állampolgársági eskü vagy fogadalom letételének napján betölti.”
 
 14. §
 
-15. §
+15. § (1) Az Nytv. 29/E. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A 29. § (9) bekezdés b) pontjában meghatározott polgár részére a kiállítás napjától számított 1 éves érvényességi idejű személyazonosító igazolványt kell kiállítani.”
+
+(2) Az Nytv. 29/E. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A 70. életévet betöltött jogosult – az (1a), (4) és (4a) bekezdésben foglalt kivétellel – kérheti, hogy részére a kiállítás napjától számított 10 éves érvényességi idejű személyazonosító igazolvány kerüljön kiállításra.”
 
 16. §
 
@@ -46,27 +68,37 @@ egyes törvényeknek nyilvántartásokkal és elektronikus ügyintézéssel öss
 
 18. §
 
-19. §
+19. § Az Nytv. a következő 52/I. és 52/J. §-sal egészül ki:
 
-20. §
+„52/I. § (1) A 2016. január 1. napját követően kiállított, érvényes tároló elemet nem tartalmazó állandó személyazonosító igazolvánnyal rendelkező polgár a 29/E. § (1) vagy (2) bekezdése szerinti állandó személyazonosító igazolvány kiadását igényelheti.
+
+(2) A 2021. augusztus 2. napját megelőzően kiállított állandó személyazonosító igazolványok esetén kizárólag a tároló elemmel ellátott és ujjnyomat adatot tartalmazó állandó személyazonosító igazolvány pótolható.
+
+52/J. § (1) 2026. augusztus 3. napján érvényét veszti a 2000. január 1. napja előtt kiállított személyazonosító igazolvány.
+
+(2) 2031. augusztus 3. napján érvényét veszti az a 2016. január 1. napját követően kiállított határidő nélküli érvényességi idejű személyazonosító igazolvány, amely esetén a polgár 2021. augusztus 2. napjáig nem töltötte be 70. életévét.”
+
+20. § Az Nytv. a következő 54. §-sal egészül ki:
+
+„54. § Ez a törvény az uniós polgárok személyazonosító igazolványai és a szabad mozgás jogával élő uniós polgárok és azok családtagjai részére kiállított tartózkodási okmányok biztonságának megerősítéséről szóló, 2019. június 20-i (EU) 2019/1157 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
 
 21. § Az Nytv.
 
 - a)
 - b)
 - c)
-- d)
-- e)
-- f)
+- d) 29/E. § (1) bekezdésében az „a (2), (4) és a (4a) bekezdésben” szövegrész helyébe az „az (1a) (2), (4) és a (4a) bekezdésben” szöveg,
+- e) 29/E. § (4) bekezdésében az „az (1) bekezdésben meghatározott érvényességi idővel” szövegrész helyébe az „az (1) és (1a) bekezdésben meghatározott érvényességi idővel” szöveg,
+- f) 29/E. § (4a) bekezdésében az „a menekültkénti vagy oltalmazottkénti státuszról rendelkező döntés” szövegrész helyébe az „– az (1a) bekezdésben meghatározott kivétellel – a menekültkénti vagy oltalmazottkénti státuszról rendelkező döntés” szöveg
 
 lép.
 
 22. § Hatályát veszti az Nytv.
 
-- a)
-- b)
+- a) 5. § (21) bekezdésében az „– a 29/E. § (2) bekezdésében meghatározott kivétellel –” szövegrész,
+- b) 7. § (2) bekezdése,
 - c)
-- d)
+- d) 29. § (6) bekezdés b) pontjában és 29. § (7) bekezdésében az „– a 29/E. § (2) bekezdésében foglalt eset kivételével –” szövegrész,
 - e)
 
 #### 2.
@@ -214,7 +246,7 @@ lép.
 - j)
 - k)
 - l)
-- m)
+- m) 25. § (2) bekezdése,
 - n)
 
 #### 8. A közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény módosítása

@@ -54,7 +54,7 @@ A szőlész-borász, valamint a turizmus-vendéglátás képzést, ezen kereszt�
 
 6. § Az 1. § (3)–(5) bekezdése, a 2. § (1), (2) és (4) bekezdése, a 3. § (1), (5) és (7) bekezdése, a 4. §, a 7. §, valamint az 1. és a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
-7. § Hatályát veszti az 1. § (3) és (5) bekezdése.
+7. §
 
 ### 1. melléklet a 2021. évi XXV. törvényhez
 

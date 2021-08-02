@@ -4,15 +4,7 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 #### 1. A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény módosítása
 
-1. § (1) A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 20. § (1) bekezdése a következő e) ponttal egészül ki:
-
-(Az erdő- és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület kivételével vagyonkezelési szerződés köthető:)
-
-„e) felsőoktatási intézménnyel az alapító okiratában vagy jogszabályban meghatározott, agrárágazathoz kapcsolódó oktatási vagy tudományos kutatási alapfeladatát szolgáló földrészletre.”
-
-(2) A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 20. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A (2) bekezdésben foglaltakon túlmenően az alapító okiratban vagy jogszabályban meghatározott, agrárágazathoz kapcsolódó oktatási vagy tudományos kutatási alapfeladatot – az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet – közvetlenül szolgáló földterület vagyonkezelését felsőoktatási intézmény is végezheti.”
+1. §
 
 #### 2. Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
@@ -24,7 +16,7 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 #### 3. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása
 
-5. § Hatályát veszti a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklet III. pont 2. alpontjában foglalt táblázat 2.7. sora.
+5. §
 
 #### 4. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 
@@ -40,47 +32,17 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 10. §
 
-11. § Az Nftv. 63. alcíme a következő 104/G. §-sal egészül ki:
+11. §
 
-„104/G. § A Tokaj-Hegyalja Egyetem alkalmazott tudományok egyetemeként működő felsőoktatási intézmény, amely – alapító okiratában foglaltak szerint – eltérhet a 6. § (2) bekezdésében, a 9. § (3a) bekezdésében foglalt, a felsőoktatási intézményekre előírt feltételektől, azzal, hogy a 15. § és a 16. § szerinti képzési rendszert meg kell tartania.”
+12. §
 
-12. § Az Nftv. 115. §-a a következő (33) és (34) bekezdéssel egészül ki:
+13. §
 
-„(33) Az Eszterházy Károly Egyetemből kiváló Sárospataki Comenius Campus 2021. augusztus 1. napjától Tokaj-Hegyalja Egyetemként jön létre.
+14. §
 
-(34) Az Eszterházy Károly Egyetem 2021. augusztus 1. napjától Eszterházy Károly Katolikus Egyetem megnevezéssel működik.”
+15. §
 
-13. § Az Nftv. 117/C. §-a a következő (6b) bekezdéssel egészül ki:
-
-„(6b) Az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézményben – az (5) bekezdés szerinti jogállásváltozás folytán – létesített munkaviszony tekintetében a jogállásváltozást megelőzően ki nem adott szabadságot 2023. december 31. napjáig kell kiadni.”
-
-14. § Az Nftv. 70. alcíme a következő 117/E. §-sal egészül ki:
-
-„117/E. § (1) Az Eszterházy Károly Egyetem Gyakorló Általános, Közép-, Alapfokú Művészeti Iskola és Pedagógiai Intézet az Nkt. 21. § (1) bekezdésétől eltérően átmenetileg, 2022. augusztus 31-ig az Eszterházy Károly Katolikus Egyetem jogi személyiségű szervezeti egységeként működik.
-
-(2) Az Eszterházy Károly Egyetem fenntartóváltására tekintettel az Eszterházy Károly Egyetem mint munkáltató által foglalkoztatott közalkalmazott közalkalmazotti jogviszonya 2021. augusztus 1-jével munkaviszonnyá alakul át (a továbbiakban: jogállásváltozás). A jogállásváltozásra a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 25/A. §-ának rendelkezéseit kell alkalmazni. Nem jogosult végkielégítésre a jogállásváltozásra tekintettel az, akinek közalkalmazotti jogviszonya megszűnését követően a munkáltatóval munkaviszonya jön létre. A jogállásváltozás a megkezdett próbaidő mértékét nem érinti.
-
-(3) A jogállásváltozással érintett munkavállalók Eszterházy Károly Egyetemnél megállapított munkabére a jogállásváltozást követően nem lehet kevesebb annál, mint amekkora összegre az érintett illetményként – ideértve az alapilletményt, alapilletmény-eltérítést, az illetménykiegészítést, idegennyelv-tudási pótlékot, képzettségi pótlékot, címpótlékot, vezetők esetében vezetői pótlékot – a kinevezési okirata alapján 2021. július 31-én jogosult volt. A munkabér megállapításánál figyelembe kell venni a 2021. július 31-éig megvalósult – a Kjt. által kötelezően előírt – átsorolást, a más munkakörbe történő helyezéshez kapcsolódó illetményváltozást, továbbá a szakmai cím visszavonásával vagy adományozásával összefüggő illetménymódosulást.
-
-(4) A magasabb vezetők és vezetők vezetői megbízása esetén a munkaszerződés a közalkalmazotti jogviszony megszűnése időpontjában fennálló kinevezés tartalma szerint jön létre.
-
-(5) Az Eszterházy Károly Egyetem fenntartóváltására tekintettel létrejött munkaviszony tekintetében a jogállásváltozást megelőzően ki nem adott szabadságot 2023. december 31. napjáig kell kiadni.
-
-(6) A (2) bekezdés szerinti jogállásváltozás folytán létesített munkaviszony első
-
-a) évében a közalkalmazottak jogállásáról szóló törvénynek a munkáltatói felmentésre,
-
-b) öt évében a közalkalmazottak jogállásáról szóló törvénynek a jubileumi jutalomra
-
-vonatkozó szabályait kell alkalmazni.
-
-(7) A munkáltató és a foglalkoztatott közötti egyéb megállapodást a jogállásváltozás nem érinti.”
-
-15. § Az Nftv. 70. alcíme a következő 117/F. §-sal egészül ki:
-
-„117/F. § E törvénynek a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2021. évi VIII. törvénnyel megállapított 117/C. § (6b) bekezdését azon felsőoktatási intézményben kell alkalmazni, amelyben a fenntartóváltásra 2021. augusztus 1. vagy szeptember 1. napjával kerül sor.”
-
-16. § (1) Az Nftv. 1. melléklete helyébe az 1. melléklet lép.
+16. § (1)
 
 (2)
 
@@ -340,86 +302,6 @@ vonatkozó szabályait kell alkalmazni.
 (8) A 106. § a) és c) pontja az Alaptörvény 38. cikk (1) és (2) bekezdése, valamint 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2021. évi VIII. törvényhez
-
-„1. melléklet a 2011. évi CCIV. törvényhez
-
-Magyarország államilag elismert felsőoktatási intézményei
-
-|  | A | B | C |
-| --- | --- | --- | --- |
-| 1. | I. EGYETEMEK |  |  |
-| 2. |  | I/A. Állami egyetemek |  |
-| 3. |  |  | Budapesti Műszaki és Gazdaságtudományi Egyetem, Budapest |
-| 4. |  |  | Eötvös Loránd Tudományegyetem, Budapest |
-| 5. |  |  | Liszt Ferenc Zeneművészeti Egyetem, Budapest |
-| 6. |  |  | Magyar Képzőművészeti Egyetem, Budapest |
-| 7. |  |  | Nemzeti Közszolgálati Egyetem, Budapest |
-| 8. |  |  | Pannon Egyetem, Veszprém |
-| 9. |  | I/B. Nem állami egyetemek |  |
-| 10. |  |  | Andrássy Gyula Budapesti Német Nyelvű Egyetem, Budapest |
-| 11. |  |  | Állatorvostudományi Egyetem, Budapest |
-| 12. |  |  | Budapesti Corvinus Egyetem, Budapest |
-| 13. |  |  | Debreceni Egyetem, Debrecen |
-| 14. |  |  | Debreceni Református Hittudományi Egyetem, Debrecen |
-| 15. |  |  | Eszterházy Károly Katolikus Egyetem, Eger |
-| 16. |  |  | Evangélikus Hittudományi Egyetem, Budapest |
-| 17. |  |  | Károli Gáspár Református Egyetem, Budapest |
-| 18. |  |  | Közép-európai Egyetem, Budapest |
-| 19. |  |  | Magyar Agrár- és Élettudományi Egyetem, Gödöllő |
-| 20. |  |  | Magyar Táncművészeti Egyetem, Budapest |
-| 21. |  |  | Miskolci Egyetem, Miskolc |
-| 22. |  |  | Moholy-Nagy Művészeti Egyetem, Budapest |
-| 23. |  |  | Óbudai Egyetem, Budapest |
-| 24. |  |  | Országos Rabbiképző – Zsidó Egyetem, Budapest |
-| 25. |  |  | Pázmány Péter Katolikus Egyetem, Budapest |
-| 26. |  |  | Pécsi Tudományegyetem, Pécs |
-| 27. |  |  | Semmelweis Egyetem, Budapest |
-| 28. |  |  | Soproni Egyetem, Sopron |
-| 29. |  |  | Széchenyi István Egyetem, Győr |
-| 30. |  |  | Szegedi Tudományegyetem, Szeged |
-| 31. |  |  | Színház- és Filmművészeti Egyetem, Budapest |
-| 32. |  |  | Testnevelési Egyetem, Budapest |
-| 33. | II. NEM ÁLLAMI ALKALMAZOTT TUDOMÁNYOK EGYETEMEI |  |  |
-| 34. |  |  | Budapesti Gazdasági Egyetem, Budapest |
-| 35. |  |  | Budapesti Metropolitan Egyetem, Budapest |
-| 36. |  |  | Dunaújvárosi Egyetem, Dunaújváros |
-| 37. |  |  | Edutus Egyetem, Tatabánya |
-| 38. |  |  | Gál Ferenc Egyetem, Szeged |
-| 39. |  |  | Kodolányi János Egyetem, Székesfehérvár |
-| 40. |  |  | Milton Friedman Egyetem, Budapest |
-| 41. |  |  | Neumann János Egyetem, Kecskemét |
-| 42. |  |  | Nyíregyházi Egyetem, Nyíregyháza |
-| 43. |  |  | Tokaj-Hegyalja Egyetem, Sárospatak |
-| 44. | III. FŐISKOLÁK |  |  |
-| 45. |  | III/A. Állami főiskolák |  |
-| 46. |  |  | Eötvös József Főiskola, Baja |
-| 47. |  | III/B. Nem állami főiskolák |  |
-| 48. |  |  | A Tan Kapuja Buddhista Főiskola, Budapest |
-| 49. |  |  | Adventista Teológiai Főiskola, Pécel |
-| 50. |  |  | Apor Vilmos Katolikus Főiskola, Vác |
-| 51. |  |  | Baptista Teológiai Akadémia, Budapest |
-| 52. |  |  | Bhaktivedanta Hittudományi Főiskola, Budapest |
-| 53. |  |  | Brenner János Hittudományi Főiskola, Győr |
-| 54. |  |  | Budapest Kortárstánc Főiskola, Budapest |
-| 55. |  |  | Egri Hittudományi Főiskola, Eger |
-| 56. |  |  | Esztergomi Hittudományi Főiskola, Esztergom |
-| 57. |  |  | Gábor Dénes Főiskola, Budapest |
-| 58. |  |  | IBS Nemzetközi Üzleti Főiskola, Budapest |
-| 59. |  |  | Pápai Református Teológiai Akadémia, Pápa |
-| 60. |  |  | Pécsi Püspöki Hittudományi Főiskola, Pécs |
-| 61. |  |  | Pünkösdi Teológiai Főiskola, Budapest |
-| 62. |  |  | Sapientia Szerzetesi Hittudományi Főiskola, Budapest |
-| 63. |  |  | Sárospataki Református Teológiai Akadémia, Sárospatak |
-| 64. |  |  | Sola Scriptura Teológiai Főiskola, Biatorbágy |
-| 65. |  |  | Szent Atanáz Görögkatolikus Hittudományi Főiskola, Nyíregyháza |
-| 66. |  |  | Szent Bernát Hittudományi Főiskola, Zirc |
-| 67. |  |  | Szent Pál Akadémia, Budapest |
-| 68. |  |  | Tomori Pál Főiskola, Budapest |
-| 69. |  |  | Veszprémi Érseki Hittudományi Főiskola, Veszprém |
-| 70. |  |  | Wekerle Sándor Üzleti Főiskola, Budapest |
-| 71. |  |  | Wesley János Lelkészképző Főiskola, Budapest |
-
-”
 
 ### 2. melléklet a 2021. évi VIII. törvényhez
 
