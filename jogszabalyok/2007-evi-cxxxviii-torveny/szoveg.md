@@ -107,7 +107,7 @@ befektetési szolgáltatási tevékenységére és kiegészítő szolgáltatás 
 - a) az e törvény multilaterális kereskedési rendszerre vagy szervezett kereskedési rendszerre vonatkozó rendelkezései vagy
 - b) a Tpt. Kilencedik Részében meghatározott rendelkezések
 
-szerint kell működtetni, valamint a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 600/2014/EU rendelet) II. címével összhangban kell az a) és b) pont szerinti kereskedési helyszínek átláthatóságát biztosítani.
+szerint kell működtetni, valamint a 600/2014/EU rendelet II. címével összhangban kell az a) és b) pont szerinti kereskedési helyszínek átláthatóságát biztosítani.
 
 (2) Minden olyan befektetési vállalkozást, amely szervezett, gyakori és rendszeres formában, jelentős nagyságrendben, az ügyfélmegbízások végrehajtásakor saját számlás kereskedést folytat szabályozott piacon, multilaterális kereskedési rendszeren vagy szervezett kereskedési rendszeren kívül, a 600/2014/EU rendelet III. címével összhangban kell működtetni.
 
@@ -234,7 +234,7 @@ használnak,
 - 48. miniszter: a pénz-, tőke és biztosítási piac szabályozásáért felelős miniszter,
 - 49. minisztérium: a miniszter által vezetett minisztérium,
 - 49a. multilaterális rendszer: valamely rendszer, amelyben több harmadik fél pénzügyi eszközökre irányuló vételi és eladási szándéka hozható össze a rendszeren belül,
-- 49b. nagykereskedelmi energiatermék: az 1227/2011/EU rendelet 2. cikkének 4. pontjában meghatározott nagykereskedelmi energiatermék,
+- 49b. nagykereskedelmi energiatermék: a nagykereskedelmi energiapiacok integritásáról és átláthatóságáról szóló, 2011. október 25-i 1227/2011/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1227/2011/EU európai parlamenti és tanácsi rendelet) 2. cikkének 4. pontjában meghatározott nagykereskedelmi energiatermék,
 - 49c. nagysebességű algoritmikus kereskedési technika: bármely, az alábbi sajátosságokkal jellemezhető kereskedési technika:
   - a) a hálózati és egyéb típusú adatátviteli idő minimalizálását célzó infrastruktúra, amely az algoritmikus ajánlatbevitelre szolgáló következő lehetőségek közül legalább egyet magába foglal: szervereknek a kereskedési helyszínhez közeli vagy egy helyiségen belüli elhelyezése vagy nagy sebességű közvetlen elektronikus hozzáférés,
   - b) a megbízások kezdeményezését, létrehozását, továbbítását vagy végrehajtását a rendszer határozza meg, anélkül, hogy az egyes ügyletek vagy megbízások kapcsán emberi beavatkozásra kerülne sor, valamint
@@ -243,6 +243,7 @@ használnak,
 - 49e. összevont helyzet: az (EU) 2019/2033 rendelet 4. cikk (1) bekezdés 11. pontjában meghatározott fogalom,
 - 50. pénzügyi elemző: a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendeletében meghatározott személy,
 - 51. pénzpiaci eszköz: a fizetőeszköz kivételével sorozatban kibocsátott pénzkövetelésre szóló eszköz, amellyel pénzpiacon kereskednek
+- 51b. pénzügyi vállalkozás: az (EU) 2019/2033 rendelet 4. cikk (1) bekezdés 14. pontjában meghatározott fogalom,
 - 52. pénzügyi eszköz elhelyezése (placement): a pénzügyi eszköz Tpt. szerinti forgalombahozatala és nyilvános értékesítésre történő felajánlása,
 - 52a. piacműködtető: olyan személy, amely irányítja, illetve működteti a szabályozott piac üzletvitelét, és amely maga a szabályozott piac,
 - 53. portfóliókezelés: az a tevékenység, amelynek során az ügyfél eszközei előre meghatározott feltételek mellett, az ügyfél által adott megbízás alapján, az ügyfél javára pénzügyi eszközökbe kerülnek befektetésre és kezelésre azzal, hogy az ügyfél a megszerzett pénzügyi eszközből eredő kockázatot és hozamot, azaz a veszteséget és a nyereséget közvetlenül viseli,
@@ -421,7 +422,7 @@ folytathat.
 8/A. § (1) Az 575/2013/EU rendelet 4. cikk (1) bekezdés 1. pont b) alpontjában foglaltakat teljesítő befektetési vállalkozás a hitelintézetekre előírt tevékenységi (működési) engedély iránti kérelmet nyújt be azon a napon, amikor a következő események bármelyike bekövetkezik:
 
 - a) az eszközei havi összértékének 12 egymást követő hónapra számított átlaga legalább harmincmilliárd euró, vagy
-- b) eszközei havi összértékének 12 egymást követő hónapra számított átlaga legfeljebb harmincmilliárd euró, de olyan csoport tagja, amelynél a csoporthoz tartozó valamennyi vállalkozás egyedi szinten harmincmilliárd eurónál kisebb összértékű eszközzel rendelkezik és befektetési szolgáltatásként sajátszámlás kereskedést vagy pénzügyi eszköz elhelyezését az eszköz (értékpapír vagy egyéb pénzügyi eszköz) vételére vonatkozó kötelezettségvállalással (jegyzési garanciavállalást) végez, a vállalkozások konszolidált eszközeinek összértéke legalább ötmilliárd euró, és ezen összegek mindkét esetben a megelőző 12 egymást követő hónap átlagában kerültek kiszámításra.
+- b) eszközei havi összértékének 12 egymást követő hónapra számított átlaga legfeljebb harmincmilliárd euró, de olyan csoport tagja, amelynél a csoporthoz tartozó valamennyi vállalkozás egyedi szinten harmincmilliárd eurónál kisebb összértékű eszközzel rendelkezik és befektetési szolgáltatásként sajátszámlás kereskedést vagy pénzügyi eszköz elhelyezését az eszköz (értékpapír vagy egyéb pénzügyi eszköz) vételére vonatkozó kötelezettségvállalással (jegyzési garanciavállalást) végez, a vállalkozások konszolidált eszközeinek összértéke legalább harmincmilliárd euró, és ezen összegek mindkét esetben a megelőző 12 egymást követő hónap átlagában kerültek kiszámításra.
 
 (2) Az (1) bekezdés szerinti tevékenységi (működési) engedélyezéskor a Hpt.-ben foglaltak alkalmazandóak azzal, hogy a Felügyelet biztosítja, hogy az eljárás a lehető legegyszerűbb legyen, figyelembe véve a meglévő engedélyekből származó információkat.
 
@@ -2675,7 +2676,7 @@ van összefüggésben.
   - ea) az ügyfél ahhoz kifejezetten hozzájárult,
   - eb) a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott követelményeket kielégítő adatkezelés feltételei a külföldi befektetési vállalkozásnál, árutőzsdei szolgáltatónál minden egyes adatra nézve biztosítottak,
   - ec) a külföldi befektetési vállalkozás, árutőzsdei szolgáltató székhelye szerinti állam rendelkezik a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott követelményeket kielégítő adatvédelmi jogszabállyal,
-- f) a befektetési vállalkozás, az árutőzsdei szolgáltató igazgatóságának írásbeli hozzájárulásával a befektetési vállalkozásban, az árutőzsdei szolgáltatóban minősített befolyással rendelkező tulajdonosnak vagy az ilyen befolyást szerezni kívánó személynek vagy szervezetnek, a szerződéses kötelezettségek állományának átruházásáról szóló megállapodás szerinti átvevő társaságnak, vagy ezek tulajdonosa, jövőbeni tulajdonosa által felhatalmazott könyvvizsgálónak, jogi vagy más szakértőnek történő adatátadás,
+- f) a befektetési vállalkozás, az árutőzsdei szolgáltató irányítási jogkörrel rendelkező vezető testületének írásbeli hozzájárulásával a befektetési vállalkozásban, az árutőzsdei szolgáltatóban minősített befolyással rendelkező vagy az ilyen befolyást szerezni kívánó személynek vagy szervezetnek, a szerződéses kötelezettségek állományának átruházásáról szóló megállapodás szerinti átvevő társaságnak, vagy ezek tulajdonosa által felhatalmazott könyvvizsgálónak, jogi vagy más szakértőnek történő adatátadás,
 - g) a bíróság megkeresése esetén a peres fél számlája felett rendelkezésre jogosultak aláírás-mintájának bemutatása,
 - h) a Felügyelet által – az értékpapírtitokra vonatkozó szabályok betartásával – a befektetési vállalkozásokról, illetőleg az árutőzsdei szolgáltatókról egyedi azonosításra alkalmas adatok szolgáltatása
   - ha) statisztikai célra a Központi Statisztikai Hivatal, és
@@ -2696,14 +2697,14 @@ részére,
 - s) a nyilvántartásba vett vagy elismert kereskedési adattárnak való, a 648/2012/EU európai parlamenti és tanácsi rendelet szerinti adattovábbítás,
 - t) a szanálási feladatkörében eljáró MNB által a pénzügyi közvetítő rendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló törvény szerinti független és ideiglenes értékelőnek – valamint az értékelésben közreműködőnek – az értékelés elkészítése érdekében, a vagyonértékesítés alkalmazása során a lehetséges ajánlattevőknek, továbbá a vagyonértékesítés alkalmazása során az áthidaló intézménynek nem minősülő átvevőnek való adat- és információátadás,
 - u) a befektetési vállalkozás ügyfele által nyilvánosságra hozott állítással összefüggésben a befektetési vállalkozás részéről a közte és ügyfele közötti jogviszonyra vonatkozó, a nyilvánosság előtti válaszadáshoz szükséges mértékben történő adatközlés,
-- v) a hitelintézet Hpt. szerinti ellenőrző befolyása alatt működő befektetési vállalkozás Hpt. 164/B. § szerinti kölcsönös adatátadása,
+- v) a hitelintézet, valamint a Hpt. 15/A. § szerinti külön jóváhagyást kapott pénzügyi holding társaság Hpt. szerinti ellenőrző befolyása alatt működő befektetési vállalkozás Hpt. 164/B. § szerinti kölcsönös adatátadása,
 - w) a nyilvánosan működő részvénytársaság számára külön jogszabályban biztosított részvényesi azonosítás érdekében az értékpapírszámla-vezető részéről a nyilvánosan működő részvénytársaság részére nyújtott adatszolgáltatás.
 
 120/A. § (1) A Hpt. 164/B. §-a alapján átvett adatokat a befektetési vállalkozás tevékenységi köre ellátásával összefüggésben a szolgáltatásai nyújtásához szükséges mértékben megismerheti, és az ügyfélkapcsolat létrehozásának és fennállásának időtartamában kezelheti, ha az ügyfél az adattovábbítást a (2) bekezdés szerint nem korlátozta vagy tiltotta meg.
 
-(2) A hitelintézet Hpt. szerinti ellenőrző befolyása alatt működő befektetési vállalkozás ügyfele kifejezett nyilatkozatával jogosult korlátozni vagy megtiltani a Hpt. 164/B. § (2) bekezdése szerinti adattovábbítást.
+(2) A hitelintézet, valamint a Hpt. 15/A. § szerinti külön jóváhagyást kapott pénzügyi holding társaság Hpt. szerinti ellenőrző befolyása alatt működő befektetési vállalkozás ügyfele kifejezett nyilatkozatával jogosult korlátozni vagy megtiltani a Hpt. 164/B. § (2) bekezdése szerinti adattovábbítást.
 
-(3) A hitelintézet Hpt. szerinti ellenőrző befolyása alatt működő befektetési vállalkozás az ügyféllel kötendő szerződést megelőzően köteles az ügyfél részére a Hpt. 164/B. §-ában foglalt kölcsönös adatátadás lehetőségéről igazolható módon tájékoztatást adni. A tájékoztatásban egyértelműen fel kell hívni az ügyfél figyelmét arra, hogy a személyes adatai e §-ban foglalt kezelésének lehetőségét bármikor korlátozhatja vagy megtilthatja.
+(3) A hitelintézet, valamint a Hpt. 15/A. § szerinti külön jóváhagyást kapott pénzügyi holding társaság Hpt. szerinti ellenőrző befolyása alatt működő befektetési vállalkozás az ügyféllel kötendő szerződést megelőzően köteles az ügyfél részére a Hpt. 164/B. §-ában foglalt kölcsönös adatátadás lehetőségéről igazolható módon tájékoztatást adni. A tájékoztatásban egyértelműen fel kell hívni az ügyfél figyelmét arra, hogy a személyes adatai e §-ban foglalt kezelésének lehetőségét bármikor korlátozhatja vagy megtilthatja.
 
 ### A panaszkezelés
 
@@ -4013,7 +4014,7 @@ kapcsolatos információkról.
 
 (6) A kibocsátási egységekkel kapcsolatban a Felügyeletnek együtt kell működnie az azonnali és aukciós piacok felügyeletére hatáskörrel rendelkező közjogi intézményekkel és hatáskörrel rendelkező hatóságokkal, nyilvántartási tisztviselőkkel és az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvényben meghatározott közjogi szervekkel annak érdekében, hogy azok konszolidált áttekintést nyerjenek a kibocsátási egységek piacairól.
 
-(7) A mezőgazdasági árualapú származtatott ügyletek vonatkozásában a Felügyelet beszámolási kötelezettséggel rendelkezik az 1308/2013/EU rendelet szerinti mezőgazdasági árupiacok felügyeletére, igazgatására és szabályozására hatáskörrel rendelkező közintézmények felé, és együtt kell velük működnie.
+(7) A mezőgazdasági árualapú származtatott ügyletek vonatkozásában a Felügyelet beszámolási kötelezettséggel rendelkezik az 1308/2013/EU európai parlamenti és tanácsi rendelet szerinti mezőgazdasági árupiacok felügyeletére, igazgatására és szabályozására hatáskörrel rendelkező közintézmények felé, és együtt kell velük működnie.
 
 164/B. § (1) A 164. §-ban meghatározott szankcionálási hatáskörök gyakorlása során kivetett közigazgatási szankció vagy intézkedés típusának és mértékének a meghatározásakor a Felügyeletnek figyelembe kell vennie minden lényeges körülményt, így különösen
 

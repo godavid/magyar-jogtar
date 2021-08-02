@@ -3487,7 +3487,7 @@ eltiltja a központi értéktár vezetői feladatainak ellátásától a közpon
   - bb) az 596/2014/EU rendelet 16. és 17. cikkének megsértése esetén legfeljebb 2 000 000 000 forint vagy a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti árbevétel 2%-a, azzal, hogy ha a vállalkozás anyavállalat vagy anyavállalat olyan leányvállalata, amelyik a számviteli jogszabályok alapján konszolidált beszámoló készítésére kötelezett, akkor a figyelembe veendő éves árbevétel a legutolsó, az anyavállalat döntéshozó szerve által jóváhagyott konszolidált beszámoló szerinti éves árbevétel vagy a számviteli jogszabályok szerinti, annak megfelelő bevétel,
   - bc) az 596/2014/EU rendelet 18., 19. és 20. cikkének megsértése esetén legfeljebb 2 000 000 000 forint.
 
-(4) Az 596/2014/EU rendelet megsértése esetén a bírság mértéke a jogsértésből származó nyereség vagy az amiatt elkerült veszteség legfeljebb háromszorosa, ha a veszteség összegszerűen meghatározható.
+(4) Az 596/2014/EU rendelet megsértése esetén a bírság mértéke a jogsértésből származó nyereség vagy az amiatt elkerült veszteség legfeljebb háromszorosa, ha a nyereség vagy a veszteség összegszerűen meghatározható.
 
 (5) A 909/2014/EU rendelet megsértése esetén a bírság mértéke
 
