@@ -628,7 +628,7 @@ induló tőkével alapítható.
 
 (4) A szerződésállományt átadó pénzügyi intézmény – az átruházás Felügyelet által engedélyezett időpontját megelőzően legalább harminc nappal – postai úton írásban köteles minden érintett ügyfelet értesíteni a szerződésállomány átruházás szándékáról. Az értesítéssel egyidejűleg az átadó pénzügyi intézmény köteles tájékoztatni az ügyfelet az átruházással összefüggésben szükségessé váló egyes szerződési feltételeknek az átruházás engedélyezett időpontját követő módosulásáról. A szerződési feltételek átruházással összefüggő egyoldalú módosítása a kamat, díj, költség tekintetében az ügyfélre nem lehet hátrányosabb.
 
-(5) A (4) bekezdés szerinti értesítésben fel kell hívni a figyelmet arra, hogy az ügyfél az átruházás Felügyelet által engedélyezett napjáig jogosult a szerződést díjmentesen írásban felmondani, ennek hiányában úgy kell tekinteni, hogy az átruházás tényét és az ezzel összefüggésben módosuló szerződési feltételeket tudomásul vette. A szerződés felmondása esetén az ügyfél fennálló kötelezettségei egy összegben esedékessé válnak, melyet legkésőbb a szerződés szerinti felmondási idő utolsó napjáig köteles teljesíteni.
+(5) A (4) bekezdés szerinti értesítésben tájékoztatni szükséges az ügyfelet az értesítés időpontjában fennálló tartozása összegéről és fel kell hívni a figyelmet arra, hogy az ügyfél az átruházás Felügyelet által engedélyezett napjáig jogosult a szerződést díjmentesen írásban felmondani, ennek hiányában úgy kell tekinteni, hogy az átruházás tényét és az ezzel összefüggésben módosuló szerződési feltételeket tudomásul vette. A szerződés felmondása esetén az ügyfél fennálló kötelezettségei egy összegben esedékessé válnak, melyet legkésőbb a szerződés szerinti felmondási idő utolsó napjáig köteles teljesíteni.
 
 (6) A szerződésállomány átruházásával egyidejűleg – az átruházás Felügyelet által engedélyezett időpontjának napjával – az átvevőre szállnak át a szerződést biztosító megállapodásokból eredő jogok és kötelezettségek, így különösen a zálogjogi, a kezességi, az óvadéki, a biztosítékként alkalmazott opciós, engedményezési és garancia szerződésekből eredő jogok és kötelezettségek. E rendelkezés irányadó az átadó pénzügyi intézményt az átruházást megelőzően megillető adatigénylési, ellenőrzési jogosultságaira is. Az átadó és az átvevő pénzügyi intézménynek együttesen értesítenie kell a szerződést biztosító megállapodások kötelezettjeit a biztosítékok, a jogok és kötelezettségek átszállásáról.
 
@@ -927,7 +927,7 @@ induló tőkével alapítható.
 
 - a) a közvetítő működése súlyosan vagy ismétlődően megsérti az ügyfelek érdekeit;
 - b) a közvetítő tevékenységére vonatkozó jogszabályokat ismételten vagy súlyosan megsérti; vagy
-- c) megállapítja, hogy a közvetítő tevékenységi engedély nélkül vagy bejelentés hiányában végez az MNB tv. 39. § (1) bekezdés a), f), h), i), k) vagy l) pontjában meghatározott törvények hatálya alá tartozó személy által végezhető tevékenységet és
+- c) megállapítja, hogy a közvetítő tevékenységi engedély nélkül vagy bejelentés hiányában végez az MNB tv. 39. § (1) bekezdés a), c), f), h), i), k) vagy l) pontjában meghatározott törvények hatálya alá tartozó személy által végezhető tevékenységet és
   - ca) e tevékenységével előidézett jogsértés súlya indokolja, vagy
   - cb) azon személyek érdekeinek a megóvása indokolja, amelyek számára e tevékenységet végezte.
 
@@ -1332,7 +1332,7 @@ pusztán e jellemzőik miatt nem tekintendők beágyazott származtatott ügylet
 
 (5) A hitelintézet a kiszervezésre vonatkozó szerződésben foglaltaktól történő eltérő tevékenységvégzésből eredő, rendkívüli helyzetek kezelésére intézkedési tervet dolgoz ki.
 
-(6) A hitelintézet belső ellenőrzése a kiszervezett tevékenység szerződésben foglaltaknak megfelelő végzését legalább évente megvizsgálja.
+(6) A hitelintézet belső ellenőrzése a kiszervezett tevékenység szerződésben foglaltaknak megfelelő végzését legalább évente, szoros kapcsolatban álló vállalkozásánál legalább kettő évente megvizsgálja.
 
 (7) A hitelintézet felelős azért, hogy a kiszervezett tevékenységet végző a tevékenységet a jogszabályi előírások betartásával és a tőle elvárható gondossággal végezze. A hitelintézet haladéktalanul bejelenti a Felügyelet részére, ha a kiszervezett tevékenység végzése jogszabályba vagy a szerződésbe ütközik.
 
@@ -1929,13 +1929,11 @@ a csökkenését eredményezné azzal, hogy a kifizetés felfüggesztése vagy t
 - b) a hitelintézettel szoros kapcsolatban álló vállalkozás által kibocsátott, tagsági jogokat megtestesítő értékpapírt, ideértve a szövetkezeti részesedést is,
 - c) a hitelintézet vagy az összevont alapú felügyelet alá tartozó hitelintézettel szoros kapcsolatban álló vállalkozás Ptk.-ban meghatározott minősített többséget biztosító befolyása alatt álló részvénytársaság részvényét.
 
-(3) A kockázatvállalást tartalmazó szerződés tartama alatt a hitelintézet rendszeresen figyelemmel kíséri és dokumentálja a szerződésben foglalt feltételek megvalósulását, beleértve az ügyfél pénzügyi, gazdasági helyzetének alakulását és az (1) bekezdésben foglaltakat.
+(3) A kockázatvállalást tartalmazó szerződés tartama alatt a hitelintézet rendszeresen figyelemmel kíséri és dokumentálja a szerződésben foglalt feltételek megvalósulását, az ügyfél pénzügyi, gazdasági helyzetének alakulását és az (1) bekezdésben foglaltakat.
 
 #### 48. Tulajdonszerzéshez kapcsolódó kockázatvállalás korlátozása
 
-100. § (1) A hitelintézet nem vállalhat kockázatot olyan ügyletért, amelynek célja, hogy az ügyfél a hitelintézet vagy a hitelintézettel szoros kapcsolatban álló vállalkozás által kibocsátott tagsági jogot megtestesítő értékpapírt, valamint szövetkezeti részesedést vásároljon.
-
-(2)
+#### 100. §
 
 #### 49. Ingatlanbefektetések korlátozása
 
@@ -2390,7 +2388,7 @@ amelyek folyamatosan tükrözik a hitelintézet kitettségeinek minőségét azz
 
 120. § (1) A hitelintézet ellenőrzési feladatokat végző munkavállalói – ideértve a belső kontroll feladatkört ellátó munkavállalókat is – javadalmazása független az általuk felügyelt szervezeti egységek teljesítményétől, az a feladatkörükhöz kapcsolódó célkitűzések elérésén alapul.
 
-(2) Az ellenőrzési feladatokat és a kockázatkezelési feladatokat végző munkavállalóknak – ideértve a belső kontroll feladatkört ellátó munkavállalókat is – a javadalmazását – a (3) bekezdésben meghatározott kivétellel – a felügyelő bizottság felügyeli.
+(2) Az ellenőrzési feladatokat és a kockázatkezelési feladatokat végző munkavállalóknak – ideértve a belső kontroll feladatkört ellátó munkavállalókat is – a javadalmazását – a (3) bekezdésben meghatározott kivétellel – a felügyeleti jogkörrel rendelkező vezető testület felügyeli.
 
 (3) Ha a hitelintézet javadalmazási bizottságot állít fel, akkor a javadalmazási bizottság a felelős az érintett munkavállalók javadalmazásának felügyeletéért.
 
@@ -2627,7 +2625,7 @@ a szerződéskötést követő harminc napon belül írásban értesíti a Felü
 - c) büntetett előéletű;
 - d) nem rendelkezik jó üzleti hírnévvel.
 
-(5) Hitelintézetnél nem lehet vezető állású személy – a felügyelő bizottsági tag kivételével – a (4) bekezdésben foglaltakon túl az sem, aki
+(5) Hitelintézetnél nem lehet vezető állású személy – a felügyeleti jogkörrel rendelkező vezető testület tagja kivételével – a (4) bekezdésben foglaltakon túl az sem, aki
 
 - a) nem rendelkezik legalább háromévi – a banki vagy vállalati gazdálkodás vagy a közigazgatás pénzügyi, illetve gazdasági területén szerzett – vezetői gyakorlattal,
 - b) más pénzügyi intézménynél könyvvizsgáló,
@@ -2704,7 +2702,7 @@ együttesen jogosult.
 
 (3) A vezető állású személy nem vállalhat szerződéses kötelezettséget – ideértve az adásvételi szerződést is – azzal a pénzügyi intézménnyel szemben, amelyben igazgatósági vagy felügyelő bizottsági tag, vagy ügyvezető, kivéve, ha a szerződés megkötéséhez az igazgatóság előzetesen egyhangú szavazással hozzájárult. Ezt a rendelkezést kell megfelelően alkalmazni a csoporthoz tartozó pénzügyi intézményben igazgatósági, felügyelő bizottsági, ügyvezetői tisztséget vagy állást betöltő vezető állású személyre, ha a csoporthoz tartozó pénzügyi intézménnyel kíván szerződést kötni. Ebben az esetben a szerződéskötéshez a szerződő pénzügyi intézmény és az irányító hitelintézet igazgatóságának előzetes egyetértése szükséges, ha az nem azonos az irányító hitelintézettel.
 
-(4) A (3) bekezdésben foglalt rendelkezést nem kell alkalmazni azon hitelek esetében, amelyek megfelelnek a 106. § (3) és (5) bekezdésében foglalt feltételeknek.
+(4) A (3) bekezdésben foglalt rendelkezést nem kell alkalmazni azon kockázatvállalások esetében, amelyek megfelelnek a 106. § (3) és (5) bekezdésében foglalt feltételeknek.
 
 (5) Az (1) bekezdés szerinti korlátozást nem kell alkalmazni, ha a kockázatvállalást megalapozó döntés olyan összevont felügyelet alá tartozó vállalkozásra vonatkozik, amely összevont alapú felügyelet kiterjed arra a pénzügyi intézményre is, amelynél a döntésben résztvevő vezető állású személy vagy az üzleti döntésre felhatalmazott alkalmazott tölt be vezető állást.
 
@@ -2768,7 +2766,7 @@ együttesen jogosult.
 
 (3) A jegyzőkönyvet az ülés elnöke és két jelen lévő további vezető testületi tag írja alá. A jegyzőkönyvet valamennyi vezető testületi tagnak, valamint az igazgatósági ülés jegyzőkönyvét a felügyelő bizottság elnökének az ülést követő tizenöt napon belül meg kell küldeni függetlenül attól, hogy az ülésen részt vett-e.
 
-(4) Távbeszélőn, telefaxon, telexen és más hasonló módon a vezető testület csak akkor hozhat érvényes határozatot az alapszabályban meghatározott időtartamon belül, ha a vezető testületi tagok alapszabályban meghatározott hányadának szavazatát teljes bizonyító erejű magánokiratba foglalja, és megküldi a pénzügyi intézmény székhelyére.
+(4) Távbeszélőn, telefaxon, elektronikus eszközön és más hasonló módon a vezető testület csak akkor hozhat érvényes határozatot az alapszabályban meghatározott időtartamon belül, ha a vezető testületi tagok alapszabályban meghatározott hányadának szavazatát írásba foglalja, és megküldi a pénzügyi intézmény székhelyére.
 
 152. § (1) A felügyeleti jogkörrel rendelkező vezető testület tagja csak természetes személy lehet.
 
@@ -2779,7 +2777,7 @@ együttesen jogosult.
 - a) gondoskodás arról, hogy a pénzügyi intézmény rendelkezzen átfogó és az eredményes működésre alkalmas ellenőrzési rendszerrel,
 - b) javaslattétel a közgyűlés számára a megválasztandó könyvvizsgáló személyére és díjazására,
 - c) a pénzügyi intézmény éves és közbenső pénzügyi jelentéseinek ellenőrzése,
-- d) a belső ellenőrzési szervezet irányítása, amelynek keretében a felügyelő bizottság
+- d) a belső ellenőrzési szervezet irányítása, amelynek keretében a felügyeleti jogkörrel rendelkező vezető testület
   - da) elfogadja a belső ellenőrzési szervezeti egység éves ellenőrzési tervét,
   - db) legalább félévente megtárgyalja a belső ellenőrzés által készített jelentéseket, és ellenőrzi a szükséges intézkedések végrehajtását,
   - dc) szükség esetén külső szakértő felkérésével segíti a belső ellenőrzés munkáját,
@@ -2788,9 +2786,9 @@ együttesen jogosult.
 
 (4) A felügyeleti jogkörrel rendelkező vezető testület számára feladatai ellátása során a hitelintézet hozzáférést biztosít a hitelintézet kockázataira vonatkozó információkhoz, a kockázati ellenőrzés funkcióhoz és a külső szakértők véleményéhez.
 
-(5) A belső ellenőrzési szervezet vezetője munkaviszonyának létesítésével, munkáltató részéről történő megszüntetésével kapcsolatos döntések a felügyelő bizottság előzetes egyetértésével hozhatóak meg.
+(5) A belső ellenőrzési szervezet vezetője munkaviszonyának létesítésével, munkáltató részéről történő megszüntetésével kapcsolatos döntések a felügyeleti jogkörrel rendelkező vezető testület előzetes egyetértésével hozhatóak meg.
 
-(6) A felügyeleti jogkörrel rendelkező vezető testület elnöke a bizottsági ülést követő tíz napon belül a Felügyeletnek megküldi azokat a jegyzőkönyveket, előterjesztéseket és jelentéseket, amelyek a felügyelő bizottság által tárgyalt olyan napirendi pontra vonatkoznak, amelynek tárgya a pénzügyi intézmény belső szabályzatainak súlyos megsértése vagy az irányításban, vezetésben észlelt súlyos szabálytalanság.
+(6) A felügyeleti jogkörrel rendelkező vezető testület elnöke a bizottsági ülést követő tíz napon belül a Felügyeletnek megküldi azokat a jegyzőkönyveket, előterjesztéseket és jelentéseket, amelyek a felügyeleti jogkörrel rendelkező vezető testület által tárgyalt olyan napirendi pontra vonatkoznak, amelynek tárgya a pénzügyi intézmény belső szabályzatainak súlyos megsértése vagy az irányításban, vezetésben észlelt súlyos szabálytalanság.
 
 153. § Az alapítványi formában működő pénzügyi vállalkozás kuratóriuma működésének ellenőrzésére legalább háromtagú felügyelő bizottságot kell létrehozni. A felügyelő bizottság működésére a pénzügyi intézmény felügyelő bizottságára vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
@@ -2830,6 +2828,8 @@ együttesen jogosult.
 
 (5) A pénzügyi vállalkozás legalább egy belső ellenőrt foglalkoztat. A pénzügyi vállalkozások írásban megállapodhatnak arról, hogy a belső ellenőr kölcsönös foglalkoztatása ellen nem emelnek kifogást. Ugyanazon személy legfeljebb három pénzügyi vállalkozásnál foglalkoztatható belső ellenőrként.
 
+(5a) A hitelintézet csoportjába tartozó leányvállalatok esetén a hitelintézet belső ellenőrzési szervezetébe tartozó munkavállaló elláthatja a leányvállalat belső ellenőrének feladatait is.
+
 (6) A belső ellenőrzés szervezetét, hatáskörét, feladatait, a belső ellenőrrel szemben támasztott szakmai követelményt és eljárási szabályokat a pénzügyi vállalkozás belső szabályzatban rögzíti.
 
 (7) A pénzügyi intézménynél működő belső ellenőrzési szervezet (belső ellenőr) feladata
@@ -2842,15 +2842,15 @@ vizsgálata, és
 
 - b) mindaz, amit jogszabály a feladatkörébe utal.
 
-(8) A belső ellenőrzési szervezeti egység számára az éves tervhez képest további ellenőrzési feladatokat csak a felügyelő bizottság, a belső ellenőrzési szervezeti egység vezetője, valamint a felügyelő bizottság egyetértésével vagy utólagos tájékoztatásával az ügyvezető határozhat meg.
+(8) A belső ellenőrzési szervezeti egység számára az éves tervhez képest további ellenőrzési feladatokat csak a felügyeleti jogkörrel rendelkező vezető testület, a belső ellenőrzési szervezeti egység vezetője, valamint a felügyeleti jogkörrel rendelkező vezető testület egyetértésével vagy utólagos tájékoztatásával az ügyvezető határozhat meg.
 
 (9) A belső ellenőr feletti munkáltatói jogokat közvetlenül az ügyvezető gyakorolja.
 
 (10) A belső ellenőrzési szervezeti egység vezetője vagy a belső ellenőr
 
 - a) a jelentését megküldi
-  - aa) a felügyelő bizottságnak és az igazgatóságnak,
-  - ab) fióktelep esetén az alapító felügyelő bizottságának és igazgatóságának vagy ezek megfelelő szervének; továbbá
+  - aa) a felügyeleti jogkörrel rendelkező vezető testületnek és az igazgatóságnak,
+  - ab) fióktelep esetén az alapító felügyeleti jogkörrel rendelkező vezető testületének és igazgatóságának vagy ezek megfelelő szervének; továbbá
 - b) gondoskodik arról, hogy szükség esetén jelentése a Felügyelet rendelkezésére álljon.
 
 (11) A belső ellenőrzési szervezeti egység vezetésével, vagy ha a pénzügyi intézmény csak egy belső ellenőrt alkalmaz, akkor a belső ellenőrzési feladatok ellátásával csak olyan személy bízható meg, aki
@@ -3003,7 +3003,7 @@ e szervek írásbeli megkeresése alapján, ha teljesülnek a (7b) bekezdésben 
 
 - a) a pénzügyi intézmény ügyfele, annak törvényes képviselője a rá vonatkozó kiszolgáltatható banktitok-kört pontosan megjelölve közokiratba vagy teljes bizonyító erejű magánokiratba foglaltan kéri vagy erre felhatalmazást ad; nem szükséges a közokiratba, teljes bizonyító erejű magánokiratba foglalás, ha az ügyfél ezt az írásbeli nyilatkozatát a pénzügyi intézménnyel történő szerződéskötés keretében – ideértve a fizetési számla váltásának kezdeményezését is – nyújtja,
 - b) e törvény a banktitok megtartásának kötelezettsége alól felmentést ad,
-- c) a pénzügyi intézmény érdeke ezt az ügyféllel szemben fennálló követelése eladásához vagy lejárt követelése érvényesítéséhez szükségessé teszi,
+- c) a pénzügyi intézmény érdeke ezt az ügyféllel szemben fennálló követelése eladásához vagy követelése érvényesítéséhez szükségessé teszi,
 - d) a pénzügyi intézmény által megbízott tanúsító szervezet és alvállalkozója ezt a tanúsítási eljárás lefolytatása keretében ismeri meg.
 
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a banktitok megtartásának kötelezettsége nem áll fenn
@@ -3087,7 +3087,7 @@ van összefüggésben.
 - b) a pénzforgalmi számlatulajdonos nevére, pénzforgalmi számlájának számára vonatkozó adatszolgáltatás, továbbá téves utalás esetén a teljesített átutalási megbízás megbízója, illetve a megbízó számlavezetője javára történő adatátadás, a megbízás szerint kedvezményezett, nem pénzforgalmi számlatulajdonos nevére, címére vonatkozóan,
 - c) a 3. § (1) bekezdés b)–g) és l) pontjában foglalt tevékenységek legalább egyikét végző pénzügyi intézmény, valamint a kizárólag garanciavállalással, készfizető kezesség vállalásával foglalkozó jogi személy részéről a központi hitelinformációs rendszerről szóló törvényben meghatározott központi hitelinformációs rendszerbe, illetve e rendszerből a törvényben meghatározott referenciaadat-szolgáltató részére nyújtott referenciaadat-szolgáltatás,
 - d) a pénzügyi intézmény által felhatalmazott könyvvizsgálónak, a megbízott vagyonellenőrnek, jogi vagy egyéb szakértőnek, valamint a pénzügyi intézmény részére biztosítási fedezetet nyújtó biztosítónak a biztosítási szerződés teljesítéséhez szükséges mértékben történő adatátadás,
-- e) a pénzügyi intézmény igazgatóságának írásbeli hozzájárulásával a pénzügyi intézményben befolyásoló részesedéssel rendelkező tagnak vagy az ilyen befolyást szerezni kívánó személy (társaság), az üzletág átvételét tervező társaság, illetve az ilyen tag vagy esetleges jövőbeni tag által felhatalmazott könyvvizsgálónak, jogi vagy más szakértőnek történő, valamint a 17. és 17/A. § szerinti állományátruházáshoz kapcsolódóan az átadó és az átvevő pénzügyi intézmény közötti adatátadás,
+- e) a pénzügyi intézmény irányítási jogkörrel rendelkező vezető testületének írásbeli hozzájárulásával a pénzügyi intézményben befolyásoló részesedéssel rendelkező tagnak vagy az ilyen befolyást szerezni kívánó személy (társaság), az üzletág átvételét tervező társaság, illetve az ilyen tag vagy esetleges jövőbeni tag által felhatalmazott könyvvizsgálónak, jogi vagy más szakértőnek történő, valamint a 17. és 17/A. § szerinti állományátruházáshoz kapcsolódóan az átadó és az átvevő pénzügyi intézmény közötti adatátadás,
 - f) a bíróság megkeresése esetén a peres fél számlája felett rendelkezésre jogosultak aláírásmintájának bemutatása,
 - g) az MNB által – a banktitokra vonatkozó szabályok betartásával – a hitelintézetekről egyedi azonosításra alkalmas adatok szolgáltatása
   - ga) statisztikai célra a Központi Statisztikai Hivatal
@@ -3124,15 +3124,15 @@ részére,
 
 szükséges.
 
-164/B. § (1) A hitelintézetnek és az ellenőrző befolyása alatt működő pénzügyi intézménynek, pénzforgalmi intézménynek, elektronikuspénz-kibocsátó intézménynek, befektetési vállalkozásnak, biztosítónak, ABAK-nak és ÁÉKBV-alapkezelőnek a Bszt. 117. § (1) bekezdésében, az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 58. § (1) bekezdésében, a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 144. § (1) bekezdésében, valamint a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 197. § (1) bekezdésében előírt titoktartási kötelezettsége, továbbá az e törvény 165. § (1) bekezdésében és a Bszt. 118. § (1) bekezdésében előírt bank- és értékpapírtitok, továbbá az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 59. §-a szerinti fizetési titok, a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 135. §-a szerinti biztosítási titok, a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 198. §-a szerinti értékpapírtitok – ide értve a személyes adatokat is – megtartási kötelezettsége a (2) és (3) bekezdésben meghatározott feltételek teljesülése esetén – ha az ügyfél nem tett a (4) bekezdés szerinti korlátozó vagy tiltó nyilatkozatot – nem áll fenn egymás közti viszonyukban.
+164/B. § (1) A hitelintézetnek, a 15/A. § szerinti külön jóváhagyást kapott pénzügyi holding társaságnak és az ellenőrző befolyása alatt működő pénzügyi intézménynek, pénzforgalmi intézménynek, elektronikuspénz-kibocsátó intézménynek, befektetési vállalkozásnak, biztosítónak, ABAK-nak és ÁÉKBV-alapkezelőnek a Bszt. 117. § (1) bekezdésében, az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 58. § (1) bekezdésében, a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 144. § (1) bekezdésében, valamint a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 197. § (1) bekezdésében előírt titoktartási kötelezettsége, továbbá az e törvény 165. § (1) bekezdésében és a Bszt. 118. § (1) bekezdésében előírt bank- és értékpapírtitok, továbbá az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 59. §-a szerinti fizetési titok, a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 135. §-a szerinti biztosítási titok, a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény 198. §-a szerinti értékpapírtitok – ide értve a személyes adatokat is – megtartási kötelezettsége a (2) és (3) bekezdésben meghatározott feltételek teljesülése esetén – ha az ügyfél nem tett a (4) bekezdés szerinti korlátozó vagy tiltó nyilatkozatot – nem áll fenn egymás közti viszonyukban.
 
-(2) A hitelintézet és az ellenőrző befolyása alatt működő pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, befektetési vállalkozás, biztosító, ABAK és ÁÉKBV-alapkezelő az általuk az ügyfélről kezelt személyes adatokat, bank-, értékpapír-, fizetési-, illetve biztosítási titoknak minősülő adatokat, valamint az üzleti titoknak minősülő adatokat tevékenységi körük ellátásával összefüggésben a szolgáltatásaik nyújtásához szükséges mértékben kölcsönösen megismerhetik, és a közös adatkezelésben részt vevő adatkezelők általános szerződési feltételeinek megfelelően, az egyedi szolgáltatásokhoz való hozzáférés biztosítása céljából egymásnak továbbíthatják és az így átvett adatokat az ügyfélkapcsolat létrehozásának és fennállásának időtartamában kezelhetik.
+(2) A hitelintézet, a 15/A. § szerinti külön jóváhagyást kapott pénzügyi holding társaság és az ellenőrző befolyása alatt működő pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, befektetési vállalkozás, biztosító, ABAK és ÁÉKBV-alapkezelő az általuk az ügyfélről kezelt személyes adatokat, bank-, értékpapír-, fizetési-, illetve biztosítási titoknak minősülő adatokat, valamint az üzleti titoknak minősülő adatokat tevékenységi körük ellátásával összefüggésben a szolgáltatásaik nyújtásához szükséges mértékben kölcsönösen megismerhetik, és a közös adatkezelésben részt vevő adatkezelők általános szerződési feltételeinek megfelelően, az egyedi szolgáltatásokhoz való hozzáférés biztosítása céljából egymásnak továbbíthatják és az így átvett adatokat az ügyfélkapcsolat létrehozásának és fennállásának időtartamában kezelhetik.
 
-(3) A hitelintézet és az ellenőrző befolyása alatt működő pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, befektetési vállalkozás, biztosító, ABAK és ÁÉKBV-alapkezelő a célhoz kötöttség elvének megfelelően – a kölcsönös adatátadáson alapuló közös adatkezelésben részt vevő adatkezelők általános szerződési feltételeinek megfelelően, erre vonatkozó külön megállapodás nélkül is – jogosultak egymás ügyfeleivel való kapcsolatfelvételre az (1) és (2) bekezdés szerint megismert adatok felhasználásával.
+(3) A hitelintézet, a 15/A. § szerinti külön jóváhagyást kapott pénzügyi holding társaság és az ellenőrző befolyása alatt működő pénzügyi intézmény, pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény, befektetési vállalkozás, biztosító, ABAK és ÁÉKBV-alapkezelő a célhoz kötöttség elvének megfelelően – a kölcsönös adatátadáson alapuló közös adatkezelésben részt vevő adatkezelők általános szerződési feltételeinek megfelelően, erre vonatkozó külön megállapodás nélkül is – jogosultak egymás ügyfeleivel való kapcsolatfelvételre az (1) és (2) bekezdés szerint megismert adatok felhasználásával.
 
 (4) Az ügyfél kifejezett nyilatkozatával jogosult korlátozni vagy megtiltani a (2) bekezdés szerinti adattovábbítást.
 
-(5) Az (1)–(3) bekezdésben foglaltakat a hitelintézet és az ellenőrző befolyása alatt működő pénzügyi intézménynek, pénzforgalmi intézménynek, elektronikuspénz-kibocsátó intézménynek, befektetési vállalkozásnak, biztosítónak, ABAK-nak és ÁÉKBV-alapkezelőnek nem minősülő vállalkozások tekintetében azzal az eltéréssel kell alkalmazni, hogy az (1) bekezdésben meghatározott adatok (1)–(3) bekezdés szerinti megismerésére és kezelésére kizárólag olyan vállalkozások esetében van lehetőség, amelyek
+(5) Az (1)–(3) bekezdésben foglaltakat a hitelintézet, a 15/A. § szerinti külön jóváhagyást kapott pénzügyi holding társaság és az ellenőrző befolyása alatt működő pénzügyi intézménynek, pénzforgalmi intézménynek, elektronikuspénz-kibocsátó intézménynek, befektetési vállalkozásnak, biztosítónak, ABAK-nak és ÁÉKBV-alapkezelőnek nem minősülő vállalkozások tekintetében azzal az eltéréssel kell alkalmazni, hogy az (1) bekezdésben meghatározott adatok (1)–(3) bekezdés szerinti megismerésére és kezelésére kizárólag olyan vállalkozások esetében van lehetőség, amelyek
 
 - a) készpénzkímélő digitális pénzforgalmi szolgáltatások ügyfelek általi hozzáférésének elősegítésével,
 - b) fogyasztónak nem minősülő ügyfelek gazdálkodásának digitális megoldásokkal való támogatásával,
@@ -3140,9 +3140,9 @@ szükséges.
 
 kapcsolatos tevékenységet végeznek, és az adatkezelés e tevékenységekhez kapcsolódó ügyfélkapcsolat kiépítéséhez kötődik.
 
-(6) Az (1), (2) és (5) bekezdés szerinti adatkezelés tekintetében a hitelintézet és az ellenőrző befolyása alatt működő vállalkozások a megismert adatok tekintetében egyaránt adatkezelőnek minősülnek.
+(6) Az (1), (2) és (5) bekezdés szerinti adatkezelés tekintetében a hitelintézet, a 15/A. § szerinti külön jóváhagyást kapott pénzügyi holding társaság és az ellenőrző befolyása alatt működő vállalkozások a megismert adatok tekintetében egyaránt adatkezelőnek minősülnek.
 
-(7) A hitelintézet és az ellenőrző befolyása alatt működő pénzügyi intézmény, valamint az (5) bekezdés szerinti vállalkozás az ügyféllel kötendő szerződés megkötését megelőzően köteles az ügyfél részére az e §-ban foglalt közös adatkezelés érdekében történő kölcsönös adatátadás lehetőségéről igazolható módon tájékoztatást adni. A tájékoztatásban egyértelműen fel kell hívni az ügyfél figyelmét arra, hogy az adatai e §-ban foglalt kezelésének lehetőségét a (4) bekezdésben meghatározottak szerinti kifejezett nyilatkozatával bármikor korlátozhatja vagy megtilthatja.
+(7) A hitelintézet, a 15/A. § szerinti külön jóváhagyást kapott pénzügyi holding társaság és az ellenőrző befolyása alatt működő pénzügyi intézmény, valamint az (5) bekezdés szerinti vállalkozás az ügyféllel kötendő szerződés megkötését megelőzően köteles az ügyfél részére az e §-ban foglalt közös adatkezelés érdekében történő kölcsönös adatátadás lehetőségéről igazolható módon tájékoztatást adni. A tájékoztatásban egyértelműen fel kell hívni az ügyfél figyelmét arra, hogy az adatai e §-ban foglalt kezelésének lehetőségét a (4) bekezdésben meghatározottak szerinti kifejezett nyilatkozatával bármikor korlátozhatja vagy megtilthatja.
 
 #### 72. Üzleti titok és banktitok közös szabályai
 
@@ -3311,7 +3311,7 @@ megvizsgálja azzal, hogy az eljárásban részt vehet a b) pont szerinti illet�
 
 (9) A pénzügyi holding társaság, vegyes pénzügyi holding társaság külön jóváhagyás iránti kérelme elutasítása esetén, a csoport összevont alapú felügyeletét ellátó illetékes felügyeleti hatóság az engedély iránti kérelem kézhezvételét követő négy hónapon belül, vagy amennyiben a kérelem hiányos, a határozathoz szükséges összes információ kézhezvételétől számított négy hónapon belül az elutasításról és annak indokairól tájékoztatja a kérelmezőt.
 
-(10) A pénzügyi holding társaság, vegyes pénzügyi holding társaság külön jóváhagyás iránti kérelméről hat hónapon belül dönteni kell. Az engedélyezés elutasítása esetén – amennyiben erre szükség van – a 192/A. §-ban meghatározott kivételes intézkedések alkalmazhatóak.
+(10) A pénzügyi holding társaság, vegyes pénzügyi holding társaság külön jóváhagyás iránti kérelméről hat hónapon belül dönteni kell. A külön jóváhagyás iránti kérelem elutasítása esetén – amennyiben erre szükség van – a 192/A. §-ban meghatározott kivételes intézkedések alkalmazhatóak.
 
 #### 75. Összevont alapú felügyeleti ellenőrzés
 
@@ -3421,6 +3421,8 @@ megvizsgálja azzal, hogy az eljárásban részt vehet a b) pont szerinti illet�
 (9) A Felügyelet által végzett felülvizsgálat és értékelés kiterjed a hitelintézetnek a nem kereskedési könyvben nyilvántartott kitettségének a kamatkockázatára.
 
 (10) A Felügyelet a felügyeleti felülvizsgálat és értékelés keretében ellenőrzi, hogy a hitelintézet nyújtott-e burkolt támogatást értékpapírosításhoz. Ha a hitelintézet egynél többször nyújtott már az 575/2013/EU rendelet 248. cikke szerinti burkolt támogatást, és ezzel nem ér el jelentős kockázat-transzferálást, akkor a Felügyeletnek meg kell tennie a 185. § szerinti intézkedéseket.
+
+(10a) Ha a Felügyelet a felügyeleti felülvizsgálat és értékelés során pénzmosásra vagy terrorizmus finanszírozására utaló tényt, adatot vagy körülményt tár fel, vagy a pénzmosás vagy terrorizmus finanszírozása megvalósulásának fokozott kockázatát állapítja meg, a Felügyelet a Pmt.-ben meghatározott felügyeleti feladatkörének ellátásával összhangban haladéktalanul tájékoztatja az EBH-t a felügyeleti felülvizsgálat és értékelés e bekezdés szerinti megállapításairól.
 
 (11) A felülvizsgálat és az értékelés gyakoriságát, mértékét és részletezettségét a Felügyelet a hitelintézet mérete, tevékenységének jelentősége, jellege, nagyságrendje és összetettsége alapján arányosan határozza meg azzal, hogy a felülvizsgálatot és értékelést legalább évente egyszer elvégzi. A Felügyelet az arányosság elvét a honlapján közzétett feltételeknek megfelelően alkalmazza.
 
@@ -4231,7 +4233,7 @@ időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártala
 
 (1d) Az (1) bekezdés szerinti határidő lejártát követő naptól számított 5 éves jogvesztő határidőn túl a kártalanítás kifizetését a kártalanításra jogosult személy nem követelheti az OBA-tól.
 
-(2) Az OBA legalább két országos napilapban, valamint honlapján közzéteszi a betétesek kártalanításának feltételeit és a lebonyolításával kapcsolatos információkat. Az OBA által közzétett információkat a kártalanítással érintett hitelintézet a honlapján is közzéteszi.
+(2) Az OBA honlapján közzéteszi a betétesek kártalanításának feltételeit és a lebonyolításával kapcsolatos információkat. Az OBA által közzétett információkat a kártalanítással érintett hitelintézet a honlapján is közzéteszi.
 
 (3) A betétet gyűjtő hitelintézet a névre szóló betét esetén a betétesnek a Pmt. szerinti azonosító adatait a kártalanításra való jogosultság egyértelmű megállapítása érdekében nyilvántartja.
 
@@ -5037,7 +5039,7 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 #### 126. Panaszkezelés
 
-288. § (1) A pénzügyi intézmény és a független közvetítő biztosítja, hogy az ügyfél a pénzügyi intézmény és a független közvetítő magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
+288. § (1) A pénzügyi intézmény és a független közvetítő biztosítja, hogy az ügyfél a pénzügyi intézmény és a független közvetítő magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse. A panaszkezelésre vonatkozó szabályokat alkalmazni kell arra a személyre is, aki szolgáltatás igénybevétele céljából lép kapcsolatba pénzügyi intézménnyel, független közvetítővel, de a szolgáltatást nem veszi igénybe.
 
 (2) Telefonon történő panaszkezelés esetén a pénzügyi intézmény, független közvetítő és az ügyfél közötti telefonos kommunikációt a pénzügyi intézmény hangfelvétellel rögzíti, és a hangfelvételt öt évig megőrzi. Erről az ügyfelet a telefonos ügyintézés kezdetekor tájékoztatni kell. Az ügyfél kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen – kérésének megfelelően – huszonöt napon belül rendelkezésére kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet vagy a hangfelvétel másolatát.
 
