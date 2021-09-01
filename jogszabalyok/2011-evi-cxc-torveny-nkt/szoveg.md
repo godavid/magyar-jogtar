@@ -14,7 +14,7 @@ A nemzet felemelkedésének zálogaként a magyar oktatásügy nemes hagyománya
 
 (4) Az állam – az általános rendőrségi feladatok ellátására létrehozott szerv közreműködésével – biztosítja, hogy a pedagógus és a nevelő-oktató munkát közvetlenül segítő munkakörben alkalmazott személy munkáját biztonságos, emberi méltóságát, személyhez fűződő jogait tiszteletben tartó, nyugodt körülmények között végezhesse.
 
-2. § (1) Az Alaptörvényben foglalt ingyenes és kötelező alapfokú, ingyenes és mindenki számára hozzáférhető középfokú nevelés-oktatáshoz való jog biztosítása az érettségi megszerzéséig, a szakgimnáziumi, szakiskolai nevelés-oktatásban a második szakképesítés, szakképzettség megszerzését biztosító első képesítő vizsga, szakmai vizsga befejezéséig, valamint a készségfejlesztő iskola utolsó gyakorlati évfolyamának befejezéséig a magyar állam közszolgálati feladata. Ingyenes az iskolai rendszerű nevelésben-oktatásban való részvétel a halmozottan hátrányos helyzetű és a sajátos nevelési igényű tanuló részére.
+2. § (1) Az Alaptörvényben foglalt ingyenes és kötelező alapfokú, valamint ingyenes és mindenki számára hozzáférhető középfokú nevelés-oktatáshoz való jog biztosítása az érettségi megszerzéséig, a szakgimnáziumi, illetve a szakiskolai nevelés-oktatásban az Szkt. 3. § (1) bekezdés a) és b) pontjában meghatározottak szerint, a készségfejlesztő iskola tekintetében pedig az utolsó gyakorlati évfolyam befejezéséig az állam közszolgálati feladata. Ingyenes az iskolai rendszerű nevelésben-oktatásban való részvétel a halmozottan hátrányos helyzetű és a sajátos nevelési igényű tanuló részére.
 
 (2) Az állami, települési önkormányzati fenntartású intézményekben, továbbá az állami feladatellátásban részt vevő más fenntartású intézményben az óvodai nevelés, az óvodai nevelést és az iskolai nevelés-oktatást kiegészítő pedagógiai szakszolgálatok igénybevétele, valamint a kollégiumi ellátás az ingyenes oktatásban részt vevő, e törvényben meghatározott feltételeknek megfelelő gyermekek, tanulók számára térítésmentes.
 
@@ -796,7 +796,11 @@ rendkívüli szünetet rendel el.
 
 (4) A köznevelési szerződés keretei között a nevelés és oktatás a gyermekek, tanulók számára térítésmentessé válik, továbbá a gyermekek, tanulók felvételére alkalmazni kell azokat a szabályokat, amelyek az állami, települési önkormányzati nevelési-oktatási intézményekre vonatkoznak, és nem lehet alkalmazni a (2) bekezdés c) pontjában foglaltakat.
 
-(5)–(7)
+(5)
+
+(6)
+
+(7)
 
 32. § (1) Ha a nevelési-oktatási intézményt egyházi jogi személy vagy a vallási egyesület tartja fenn:
 
@@ -1459,7 +1463,11 @@ továbbítható.
 
 fegyelmi büntetés szabható ki.
 
-(8)–(10)
+(8)
+
+(9)
+
+(10)
 
 (11) A tanulóval szemben ugyanazért a kötelességszegésért csak egy fegyelmi büntetés állapítható meg. Ha a kötelességszegés miatt az iskolában és a kollégiumban is helye lenne fegyelmi büntetés megállapításának, a nevelési-oktatási intézmények eltérő megállapodásának hiányában a fegyelmi büntetést abban a nevelési-oktatási intézményben lehet megállapítani, amelyikben az eljárás előbb indult.
 
@@ -1576,6 +1584,22 @@ fegyelmi büntetés szabható ki.
 - q) hivatásához méltó magatartást tanúsítson,
 - r) a gyermek, tanuló érdekében együttműködjön munkatársaival és más intézményekkel.
 
+(1a) A nevelési-oktatási intézmény, többcélú intézmény vezetője a 14 évnél fiatalabb 1-es típusú diabétesszel élő gyermek, tanuló részére abban az időtartamban, amikor az óvoda, az általános iskola, a fejlesztő nevelést-oktatást végző iskola, a kollégium, a hat és nyolc évfolyammal működő gimnázium vagy a szakgimnázium ötödik-nyolcadik évfolyamán az intézmény – beleértve az ilyen köznevelési alapfeladatot ellátó többcélú intézményt is – felügyelete alatt áll, az 1-es típusú diabétesszel élő gyermek, tanuló szülőjének, más törvényes képviselőjének kérelmére, a gyermekkori diabétesz gondozásával foglalkozó egészségügyi intézmények szakmai iránymutatása alapján az (1b)–(1e) bekezdés szerinti speciális ellátást biztosítja.
+
+(1b) Az intézmény vezetője a pedagógus vagy érettségi végzettséggel rendelkező, nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottja számára az (1a) bekezdés szerinti esetben és módon előírhatja
+
+- a) a vércukorszint szükség szerinti mérését,
+- b) szükség esetén, orvosi előírás alapján, a szülővel, más törvényes képviselővel, a megadott kapcsolattartási módon egyeztetve, az előírt időközönként a szükséges mennyiségű inzulin beadását.
+
+(1c) A nevelési-oktatási intézmény vezetője az (1b) bekezdés szerinti feladat ellátását
+
+- a) olyan pedagógus vagy legalább érettségi végzettséggel rendelkező, nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott személy útján biztosítja, aki a hivatal által szervezett, a feladat ellátásához kapcsolódó ismeretekről szóló szakmai továbbképzésén részt vett, és aki a speciális ellátásban való részvételt vállalja, vagy
+- b) iskolaorvos vagy iskolavédőnő útján biztosítja.
+
+(1d) A szülő, más törvényes képviselő az (1a) bekezdés szerinti kérelmét az Eütv. 15. § (5) bekezdésével összhangban megtett formában nyújtja be.
+
+(1e) Az intézmény vezetője az e § szerinti esetkörben egy esetleges rosszullét esetén az Eütv.-vel összhangban álló speciális ellátási eljárásrendet alakít ki.
+
 (2) A pedagógus hétévenként legalább egy alkalommal – jogszabályban meghatározottak szerint – továbbképzésben vesz részt. Megszüntethető – munkaviszony esetében felmondással, közalkalmazotti jogviszony esetében az alkalmatlanság jogcímén történő felmentéssel – annak a pedagógusnak a munkaviszonya, közalkalmazotti jogviszonya, aki a továbbképzésben önhibájából nem vett részt, vagy tanulmányait nem fejezte be sikeresen. Az első továbbképzés a Pedagógus II. fokozat megszerzésére irányuló első minősítés előtt kötelező. Mentesül a továbbképzési kötelezettség alól az a pedagógus, aki betöltötte az 55. életévét. Nem kell továbbképzésben részt venni annak a pedagógusnak, aki pedagógus-szakvizsgát tett, a vizsgák letétele utáni hét évben.
 
 (3) A Pedagógus II., a Mesterpedagógus és a Kutatótanár fokozatból eggyel alacsonyabb fokozatba kerül visszasorolásra az a pedagógus, aki a fokozatba lépését követő kilencedik tanév végéig önhibájából nem teljesíti a pedagógus-továbbképzésben történő részvételi kötelezettségét.
@@ -1683,7 +1707,11 @@ fegyelmi büntetés szabható ki.
 
 (3) Az Országos Küldöttgyűlést szükség szerint, de évente legalább egy alkalommal össze kell hívni. Az Országos Küldöttgyűlés kötelező összehívásának más eseteit, továbbá a működés rendjét az Alapszabály állapítja meg.
 
-(4)–(6)
+(4)
+
+(5)
+
+(6)
 
 63/D. § (1) Az Országos Küldöttgyűlés kizárólagos hatásköre:
 
@@ -1723,7 +1751,9 @@ fegyelmi büntetés szabható ki.
 
 (7) Az Elnökség és tagjainak feladat- és hatáskörét, annak átruházási módját, működésük rendjét és választásuk részletes szabályait az Alapszabály határozza meg.
 
-(8)–(9)
+(8)
+
+(9)
 
 (10) Az Elnökség és a Felügyelő Bizottság tagjai a munkájukért tiszteletdíjban részesülnek. Az Országos Etikai Bizottság és a Területi Etikai Bizottságok tagjainak eseti jelleggel felmerült, igazolt költségeit a Kar megtéríti. A tiszteletdíj mértékéről és a költségek elismerésének módjáról az Alapszabály rendelkezik.
 
@@ -1737,7 +1767,13 @@ fegyelmi büntetés szabható ki.
 
 (5) A Központi Iroda munkaviszonyban foglalkoztatott munkavállalói felett a munkáltatói jogokat a főtitkár gyakorolja. A Központi Iroda és a főtitkár feladat- és hatáskörét, működésük rendjét az Alapszabály határozza meg.
 
-(6)–(9)
+(6)
+
+(7)
+
+(8)
+
+(9)
 
 (10) A Kar jogszabályokban, valamint az e törvényben meghatározott módon feladatok érvényesítése érdekében szakmai döntés-előkészítő, véleményező, javaslattevő országos szakértői bizottságot hozhat létre, melynek feladatait, működési feltételeit az Alapszabály határozza meg.
 
@@ -1905,6 +1941,8 @@ alapulvételével megállapított illetményalappal számolt illetmény.
 - c) mesterfokozat esetén kétszáz százaléka.
 
 (3) A Kormány rendeletben állapítja meg a 8. melléklet szerinti, az ágazati, szakmai sajátosságokra tekintettel meghatározott illetménypótlék megállapításának elveit, továbbá a munkavégzés sajátos körülményeire tekintettel az e törvényben meghatározott felső határnál magasabb mértékű pótlékot határozhat meg.
+
+(3a) A 62. § (1c) bekezdés a) pontja szerinti foglalkoztatott, aki a 62. § (1b) bekezdésében meghatározott feladatot látja el, a 8. mellékletben meghatározott diabétesz ellátási pótlékra jogosult. A diabétesz ellátási pótlék alapja – a feladatot ellátó foglalkoztatott besorolásától függetlenül – a mesterfokozathoz kapcsolódó illetményalap.
 
 (4) Az intézményvezetőt a fenntartó, az intézményben pedagógus-munkakörben foglalkoztatottakat az intézményvezető jutalomban részesítheti, amelynek éves összege vezető esetében nem haladhatja meg a vezető pótlékkal számított éves illetményének, munkabérének tizenöt százalékát, beosztott esetében éves illetményének, munkabérének tizenöt százalékát.
 
@@ -2081,7 +2119,13 @@ dönt.
 
 71. § (1) A nevelési-oktatási intézményben legalább öt pedagógus hozhat létre szakmai munkaközösséget. Egy nevelési-oktatási intézményben legfeljebb tíz szakmai munkaközösség hozható létre. A szakmai munkaközösség részt vesz a nevelési-oktatási intézmény szakmai munkájának irányításában, tervezésében, szervezésében és ellenőrzésében, összegző véleménye figyelembe vehető a pedagógusok minősítési eljárásában.
 
-(2)–(5)
+(2)
+
+(3)
+
+(4)
+
+(5)
 
 #### 42. A szülő kötelességei és jogai
 
@@ -2164,7 +2208,11 @@ dönt.
 
 75. § (1) Az oktatásért felelős miniszternek a köznevelési közszolgálati feladatok megszervezéséhez szükséges döntései előkészítése céljából a hivatal tankerületi központ illetékességi területe szerinti bontásban, fenntartó típusonként évente jelentést készít az oktatásért felelős miniszter számára a KIR-ben rendelkezésre álló adatok felhasználásával a nevelési-oktatási intézményi férőhelyek és a nevelésben-oktatásban részt vevő gyermekek, tanulók létszámának alakulásáról. A jelentést az oktatásért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni.
 
-(2)–(4)
+(2)
+
+(3)
+
+(4)
 
 76. § A tankerületi központ fenntartója és a köznevelési intézményt fenntartó állami felsőoktatási intézmény együttműködik a települési önkormányzattal a helyi közösségi és kulturális élet feltételeinek biztosítása érdekében oly módon, hogy a vagyonkezelésében lévő önkormányzati tulajdonú ingatlan használatát tanítási időn kívül és a pedagógiai programban, továbbá egyéb jogszabályban meghatározott feladatok végrehajtásának biztosítása mellett külön megállapodás alapján ingyenesen biztosítja a tulajdonos települési önkormányzat számára. A megállapodás megkötéséhez szükség van az érintett köznevelési intézmény vezetőjének előzetes véleményére.
 
@@ -2249,7 +2297,13 @@ illeti meg.
 
 (3) Az oktatásért felelős miniszter, az egészségügyért felelős miniszter programok kiadásával, pályázatok kiírásával, továbbképzés biztosításával segíti a nevelési-oktatási intézményekben folyó egészségfejlesztési feladatok végrehajtását.
 
-(4)–(7)
+(4)
+
+(5)
+
+(6)
+
+(7)
 
 (8) Az oktatásért felelős miniszter kétévenként összehívja a diákparlamentet. A diákparlament a diákok közneveléssel kapcsolatos országos tájékoztató fóruma, amely az előterjesztésében áttekinti a tanulói jogok érvényesülését, és ajánlást fogadhat el, amelyben megfogalmazza véleményét, javaslatát.
 
@@ -2292,7 +2346,7 @@ vizsgálja, amely során az a)–d) pont szerinti feltételeket egyenként és �
 
 (8) Ha a köznevelési feladatokat ellátó hatóság a hatósági ellenőrzés során feltárja, hogy a nevelési-oktatási intézmény megsértette a 9/A. § (1) bekezdésében foglaltakat, az intézményvezetővel és a 9/A. § (1) bekezdés szerinti foglalkozást végző, az ott meghatározott nyilvántartásban nem szereplő személlyel, vagy szervezet tagjával szemben szabálysértési eljárást kezdeményez.
 
-80. § (1) Az oktatásért felelős miniszter az országos mérési feladatok keretében gondoskodik a nevelési-oktatási intézményekben folyó pedagógiai tevékenység méréséről, értékeléséről. Az alapkészségek, képességek országos mérésének minden tanévben ki kell terjednie a köznevelés hatodik, nyolcadik és tizedik évfolyamán a nappali rendszerű iskolai oktatás munkarendje szerinti tanuló esetében a szövegértési és a matematikai eszköztudás fejlődésének vizsgálatára. Az iskola vezetője, a tanuló és a pedagógus – jogszabályban meghatározottak szerint – részt vesz az országos mérés, értékelés feladatainak végrehajtásában.
+80. § (1) Az oktatásért felelős miniszter az országos mérési feladatok keretében gondoskodik a nevelési-oktatási intézményekben folyó pedagógiai tevékenység méréséről, értékeléséről. Az alapkészségek, képességek országos mérésének minden tanévben ki kell terjednie a köznevelés hatodik, nyolcadik és tizedik évfolyamán a nappali rendszerű iskolai oktatás munkarendje szerinti tanuló esetében a szövegértési, a matematikai és a természettudományos eszköztudás fejlődésének vizsgálatára. Az iskola vezetője, a tanuló és a pedagógus – jogszabályban meghatározottak szerint – részt vesz az országos mérés, értékelés feladatainak végrehajtásában.
 
 (1a) Az oktatásért felelős miniszter a központi fejlesztésű mérőeszközök alapján személyazonosításra alkalmatlan módon gondoskodik az általános iskola nyolcadik évfolyamán a nappali rendszerű iskolai oktatás munkarendje szerinti tanulók sikeres pályaválasztást és továbbtanulást megalapozó személyes tanulói kompetenciák kötelező vizsgálatáról. A vizsgálat eredménye visszajelzést ad a tanuló számára azokról a középfokú iskolai továbbtanulási lehetőségekről, amelyek meglévő képességei alapján számára javasolhatók.
 
@@ -2354,7 +2408,11 @@ vizsgálja, amely során az a)–d) pont szerinti feltételeket egyenként és �
 
 (9) A hivatal – az (1) bekezdés b) pontja szerinti esetben az engedély visszavonásával egyidejűleg – eltiltja a köznevelési szakértői tevékenység végzésétől vagy a vizsgaelnöki feladatok végzésétől és törli az országos köznevelési szakértői névjegyzékből, az országos érettségi vizsgaelnöki névjegyzékből azt, aki a tevékenységére vonatkozó, e törvényben vagy a felhatalmazására kiadott jogszabályban meghatározott szabályokat súlyosan megszegi.
 
-(10)–(12)
+(10)
+
+(11)
+
+(12)
 
 #### 48. A fenntartó kötelezettségei és jogai
 
@@ -2516,9 +2574,19 @@ közalkalmazotti jogviszonnyá alakul át.
 
 ellenőrzés.
 
-(2)–(3)
+(2)
 
-(4)–(8)
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
 
 87. § (1) Az oktatásért felelős miniszter működteti az országos pedagógiai-szakmai ellenőrzés rendszerét. Ennek keretei között a köznevelési intézményben folyamatos pedagógiai-szakmai ellenőrzést szervez, amely köznevelési intézményenként ötévente ismétlődő, értékeléssel záruló vizsgálat.
 
@@ -2935,7 +3003,9 @@ alapozza meg, azon a gyermek, a tanuló következő felülvizsgálatáig, de leg
 
 (13) Az e törvény hatálybalépésekor működő nyelvi előkészítő évfolyamon, továbbá – a nemzetiségi nevelés-oktatás kivételével – a két tanítási nyelvű nevelés-oktatásban a 2016/2017. tanév végéig teljesíteni kell a külön jogszabályban meghatározott feltételeket. A külön jogszabályban meghatározott feltételeket nem teljesítő intézményekben a nyelvi előkészítő évfolyam vagy a két tanítási nyelven folyó oktatás felmenő rendszerben megszűnik.
 
-(14)–(15)
+(14)
+
+(15)
 
 (16) Az a pedagógus, aki e törvény hatálybalépésekor az ötvenkettedik életévét betöltötte, pedagógus-továbbképzésben történő részvételre nem kötelezhető.
 
@@ -2997,7 +3067,23 @@ közalkalmazott illetménye, munkavállaló munkabére a 65. § (9a) bekezdésé
 
 99/A. § A 78. § (2a) bekezdésében meghatározott feladat végrehajtásában a jogszabályban történő kijelölés esetén az oktatási központ részt vehet. Az e kijelölés alapján eljáró oktatási központ a költségvetésében e célra rendelkezésre álló előirányzat terhére támogatást nyújt.
 
-99/B. § (1)–(9)
+99/B. § (1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
 
 (10) A Kar 2014-ben megválasztott tisztségviselőinek megbízatása két évre szól, és további két teljes ciklusra megválaszthatók.
 
@@ -3198,4 +3284,4 @@ Az intézményvezető-helyettes, tagintézmény-vezető, intézményegység-veze
 | 6 | nemzetiségi | 10 | 40 |
 | 7 | gyógypedagógiai | 5 | 10 |
 | 8 | nehéz körülmények között végzett munkáért járó | 10 | 30 |
-| 9 |  |  |  |
+| 9 | diabétesz ellátási pótlék | 17 | 17 |

@@ -36,7 +36,7 @@ Az Országgyűlés a nemzet iránt érzett felelőssége tudatában, az Alaptör
 - b) a mesterképzés,
 - c) a doktori képzés.
 
-(2) Az alap- és mesterképzést egymásra épülő ciklusokban, osztott képzésként, vagy jogszabályban meghatározott esetben osztatlan képzésként lehet megszervezni. A ciklusokra bontott, osztott és az osztatlan képzések szerkezetét a Kormány határozza meg.
+(2) Az alap- és mesterképzést egymásra épülő ciklusokban, osztott képzésként, vagy jogszabályban meghatározott esetben osztatlan képzésként lehet megszervezni. A ciklusokra bontott, osztott és az osztatlan képzések szerkezetét az oktatásért felelős miniszter (a továbbiakban: miniszter) határozza meg.
 
 (3) A felsőoktatás keretében – az (1) bekezdésben foglaltak mellett – felsőfokú végzettségi szintet nem biztosító képzésként
 
@@ -66,7 +66,7 @@ alapíthat.
 
 (3) Költségvetési szervként működik a felsőoktatási intézmény, ha az (1) bekezdés a) pontjában meghatározottak tartják fenn. Az (1) bekezdés a) pontjában felsoroltak közösen, illetve az (1) bekezdés b–d) pontjában meghatározottak közösen is gyakorolhatják a fenntartói jogokat.
 
-(4) Az állam nevében a fenntartói jogokat – ha törvény másként nem rendelkezik – az oktatásért felelős miniszter (a továbbiakban: miniszter) gyakorolja. A miniszter a fenntartói jogot megállapodással a tudománypolitika koordinációjáért felelős miniszterre ruházhatja.
+(4) Az állam nevében a fenntartói jogokat – ha törvény másként nem rendelkezik – a miniszter gyakorolja. A miniszter a fenntartói jogot megállapodással a tudománypolitika koordinációjáért felelős miniszterre ruházhatja.
 
 (5) A (2a) és (2b) bekezdés szerinti esetben
 
@@ -386,6 +386,18 @@ folytathat tevékenységet.
 (4) A doktori képzésben szerezhető oklevél által tanúsított tudományos fokozat a „Doctor of Philosophy” (rövidítve: PhD), a művészeti képzésben a „Doctor of Liberal Arts” (rövidítve: DLA). Az oklevelet a rektor és a doktori tanács elnöke írja alá.
 
 (5) A doktori képzés szervezése és a doktori fokozat odaítélése (a továbbiakban: doktori eljárás) a felsőoktatási intézmény doktori tanácsának joga. Az intézmény doktori tanácsa tudományterületenként – ezen belül a felsőoktatási intézmény doktori szabályzatában meghatározott tudomány-, illetve művészeti ágakban – tudomány-, illetve művészeti ági doktori tanácsot hozhat létre. A doktori tanács valamennyi tagjának – a doktorandusz képviselők kivételével – tudományos fokozattal kell rendelkeznie.
+
+#### 7/A. A felsőoktatási szakképzés, az alapképzés és a mesterképzés képzési és kimeneti követelményei és a képesítési keret
+
+16/A. § (1) A miniszter a képzési és kimeneti követelményeket – a tanári szakok képzési és kimeneti követelményeit ide nem értve – hivatalos kiadványként közzéteszi a miniszter által vezetett minisztérium honlapján. A képzési és kimeneti követelmények normatív rendelkezést nem tartalmazhatnak és azok tartalma jogszabállyal és közjogi szervezetszabályozó eszközzel nem lehet ellentétes. A képzési és kimeneti követelmények a honlapról nem távolíthatók el, archiválásukra a digitális archiválás szabályait kell alkalmazni.
+
+(2) A közzétett képzési és kimeneti követelményeket a miniszter minősített elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja. A képzési és kimeneti követelményekben a közzététel időpontját és az alkalmazás kezdő dátumát fel kell tüntetni. A közzététel időpontja nem lehet korábbi, mint az időbélyegzőben szereplő naptári nap.
+
+(3) A képzési és kimeneti követelményeket érintő változást kizárólag felmenő rendszerben lehet bevezetni, és azt a bevezetést megelőző első tanév kezdő napjáig kell közzétenni. A képzési és kimeneti követelmények módosítása a módosítást megelőzően közzétett képzési és kimeneti követelmények szerint indított képzést nem érinti.
+
+(4) A képzési és kimeneti követelményekkel szemben kizárólag jogszabálysértésre hivatkozással kezdeményezhető közigazgatási jogvita.
+
+16/B. § A miniszter hivatalos kiadványként közzéteszi a miniszter által vezetett minisztérium honlapján a képesítési keretet.
 
 #### 8. A képzés megszervezésének módozatai
 
@@ -1224,7 +1236,7 @@ esetében.
 
 (6) A kiadott oklevelekről központi nyilvántartást kell vezetni.
 
-(7) A miniszter hivatalos kiadványként közzéteszi a miniszter által vezetett minisztérium honlapján a képesítési keretet.
+(7)
 
 (8) Az olyan hallgató részére, akinek a továbbtanulási elismerési kérelméről azzal a feltétellel hozott döntést a felsőoktatási intézmény, hogy utóbb be kell mutatnia jogszabályban előírt okiratot, akkor állítható ki oklevél, ha a hallgató az okiratbemutatási kötelezettségének eleget tett.
 
@@ -2191,7 +2203,7 @@ eltérő rendelkezéseket állapíthat meg,
 
 (3) Ahol e törvény munkaviszonyt említ, azon egyházi felsőoktatási intézmények esetén az egyházi személy jogviszonyt is érteni kell.
 
-(4) A miniszter az alap- és mesterképzés, valamint a felsőoktatási szakképzés képzési és kimeneti követelményeinek szabályozásánál a hitéleti képzés tekintetében az egyházi fenntartó kezdeményezésére szabályoz. A hitéleti képzés szakjait, felsőoktatási szakképzéseit a képzési és kimeneti követelményekről szóló jogszabály tartalmazza.
+(4) Az alap- és mesterképzés, valamint a felsőoktatási szakképzés képzési és kimeneti követelményeinek közzétételére a hitéleti képzés tekintetében az egyházi fenntartó kezdeményezésére kerül sor.
 
 (5) Az egyházi fenntartó kezdeményezésére a MAB-on belül hittudományi kérdésekkel foglalkozó bizottságot kell működtetni.
 
@@ -2614,7 +2626,7 @@ foglalt eltérésekkel együtt kell alkalmazni.
 
 tartalmazza, a képzés részletes szabályaival, különösen a tantervvel, illetve az oktatási programmal és a tantárgyi programokkal, valamint az értékelési és ellenőrzési módszerekkel, eljárásokkal és szabályokkal együtt;
 
-- 20. képzési terület: azoknak a szakoknak kormányrendeletben meghatározott összessége, amelyek hasonló vagy részben megegyező képzési tartalommal rendelkeznek;
+- 20. képzési terület: azoknak a szakoknak miniszter rendeletében meghatározott összessége, amelyek hasonló vagy részben megegyező képzési tartalommal rendelkeznek;
 - 21. kis létszámú szak: nemzetközi kötelezettségvállalás, kultúr- és oktatáspolitikai érdekek alapján indított képzés, amelynek éves, magyar állami (rész)ösztöndíjjal támogatott felvehető létszáma országosan nem haladja meg a húsz főt, továbbá a nemzetiségi képzés;
 - 22. klinika: a klinikai központ szervezeti egysége, amely az egészségügyi szolgáltató működési engedélye szerinti progresszivitási szinten és területi ellátási kötelezettsége keretében nyújtott gyógyító-megelőző feladatain keresztül közreműködik az orvos-, fogorvos-, gyógyszerész- és egészségtudományi képzéssel összefüggő képzési feladatok ellátásában, továbbá részt vesz az orvos- és egészségtudomány adott ágának elméleti és gyakorlati fejlesztésében, e szakterületen kutatómunkát végez;
 - 23. konzultáció: a felsőoktatási intézmény oktatója által a hallgató részére biztosított személyes megbeszélés lehetősége, ideértve az elektronikus úton történő kommunikációt is;
@@ -2665,14 +2677,12 @@ tartalmazza, a képzés részletes szabályaival, különösen a tantervvel, ill
 110. § (1) A Kormány felhatalmazást kap arra, hogy rendelettel szabályozza
 
 - 1. a szakirányú továbbképzés szervezésének általános feltételeit,
-- 2. a ciklusokra bontott, osztott és az osztatlan képzések szerkezetét,
+- 2. a pedagógusképzésben az alap- és mesterképzés, valamint az osztatlan képzés szakjait és szakirányait, választható egyenrangú szakpárjait és szakirányait, továbbá a mesterképzés szakosodási rendszerének általános szabályait,
 - 3. a felsőoktatási intézmény, valamint a közösségi felsőoktatási képzési központ minimális létesítési és működési feltételeit, az alapítással kapcsolatos eljárás rendjét, a gyakorló köznevelési intézmény, a nem Magyarország területén folytatott székhelyen kívüli képzés létesítésének feltételeit, a konzisztórium tagjaira való javaslattétel rendjét,
-- 4. a képesítési keretet, a doktori képzés szabályait,
-  - a) az alap- és mesterképzés képzési területeit, szakjait, valamint a létesítéssel és indítással összefüggő eljárási rendet,
-  - b) a doktori iskola létesítésének eljárási rendjét és feltételeit, a doktori iskola tagságára és szervezetére, a doktori tanács számára biztosított hatáskörre, a doktori tézisek, a doktori értekezés nyilvánosságára, a doktori fokozatszerzési eljárásra vonatkozó általános szabályokat, a doktori fokozat megszerzésének feltételeit,
+- 4. a doktori képzés szabályait, a doktori iskola létesítésének eljárási rendjét és feltételeit, a doktori iskola tagságára és szervezetére, a doktori tanács számára biztosított hatáskörre, a doktori tézisek, a doktori értekezés nyilvánosságára, a doktori fokozatszerzési eljárásra vonatkozó általános szabályokat, a doktori fokozat megszerzésének feltételeit,
 - 5. az államilag elismert nyelvvizsgáztatás rendszerét, ezen belül az Európa Tanács Közös Európai Referenciakeretében ajánlott hatfokozatú nyelvvizsgarendszer és az alap-, közép-, illetve felsőfokú államilag elismert vagy azzal egyenértékű nyelvvizsgák megfeleltetését, továbbá az idegennyelv-tudást igazoló államilag elismert nyelvvizsgáztatás rendjét,
 - 6. a felsőoktatási információs rendszer működtetésével, az adattovábbítással, továbbá a diákigazolvánnyal kapcsolatos eljárási szabályokat, a felsőoktatási intézmények által kötelezően használt nyomtatványok tartalmi és formai követelményeit, jóváhagyási rendjét, a támogatási idő nyilvántartásának, a magyar állami (rész)ösztöndíjas és az önköltséges hallgatók közötti átsorolásnak, a hallgatói kompetenciamérésnek a rendjét, a hallgatói átvétel rendjét, a különböző végzettségi szintet eredményező szakok közötti hallgatói átvétel szabályait,
-- 7. a felsőoktatási szakképzés rendjét, a felsőoktatási szakképzés képzési területeit, szakjait, valamint a létesítéssel és az indítással összefüggő eljárási rendet, továbbá a gyakorlati képzés feltételeit, az ahhoz kapcsolódó díjmentes hallgatói juttatásokat, valamint a külső, nem felsőoktatási intézményi keretek között folyó gyakorlati képzés megvalósítására köthető hallgatói megállapodásra, továbbá a hallgatói munkaszerződésre vonatkozó szabályokat,
+- 7. a gyakorlati képzés feltételeit, az ahhoz kapcsolódó díjmentes hallgatói juttatásokat, valamint a külső, nem felsőoktatási intézményi keretek között folyó gyakorlati képzés megvalósítására köthető hallgatói megállapodásra, továbbá a hallgatói munkaszerződésre vonatkozó szabályokat,
 - 8. a felvételhez szükséges érettségi vizsga teljesítésével kapcsolatos követelményeket, az érettségi vizsgatárgyakat, a nyelvi követelményeket, a jelentkezők eredményeinek megfeleltetését, a jelentkezések elbírálási rendjét, a többletteljesítmények, beszámítása, a jelentkezők rangsorolásának, valamint felsőoktatási intézménybe való besorolásának elveit és módját a felsőoktatási felvételi tájékoztatás módját, ezen belül a felvételi feltételek, illetve az alkalmassági követelmények a felvételt legalább két évvel megelőzően történő közzétételének rendjét, a felvételi eljárások igazgatási szolgáltatási díjainak mértékét, befizetésének módját és visszatérítésének feltételeit, azon alapszakokat, amelyek esetében a felvétel gyakorlati vizsga, egészségügyi alkalmassági vizsgálat alkalmazásával történik, továbbá azt, hogy a felsőoktatási intézmények milyen feltételekkel szervezhetnek szóbeli felvételi vizsgát,
 - 9. a felvételi eljárás azon feltételeit, amelyek
   - a) hátrányos helyzetű hallgatói (jelentkezői) csoport,
@@ -2729,9 +2739,11 @@ rendeletben jelölje ki.
 (3) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
 - a) az oktatási jogok biztosának a felsőoktatást érintő feladatait, eljárását, továbbá az e feladatok ellátásával összefüggésben az általa vezetett hivatal szervezetének és működésének szabályait,
-- b) a felsőoktatási szakképzés, az alapképzés és a mesterképzés képzési és kimeneti követelményeit,
-- c)
+- b) a ciklusokra bontott, osztott és az osztatlan képzések szerkezetét, az alap- és mesterképzés képzési területeit, szakjait – a pedagógusképzés kivételével –, valamint a létesítés módját,
+- c) a felsőoktatási szakképzés képzési területeit, szakjait, valamint a létesítés módját,
 - d) az államilag elismert nyelvvizsgáztatáshoz, a külföldi bizonyítványok és oklevelek elismeréséhez és honosításához, az oklevelekről és bizonyítványokról kiállított hatósági bizonyítványokhoz, a felsőoktatási információs rendszer működtetéséhez kapcsolódó igazgatási szolgáltatási díjak mértékét, a felsőoktatási hatósági eljárásokhoz kapcsolódó igazgatási szolgáltatási díjak mértékét, valamint a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
+- e) az egyes tanári szakok képzési és kimeneti követelményeit,
+- f) az oklevéllel tanúsított végzettség, szakképzettség Magyar Képesítési Keretrendszer szerinti besorolási rendjét.
 
 (4) A miniszter a (3) bekezdés d) pontjában kapott szabályozási jogkörét az adópolitikáért felelős miniszter egyetértésével gyakorolja.
 
@@ -3134,23 +3146,23 @@ vonatkozó szabályait kell alkalmazni.
 | 5. |  |  | Liszt Ferenc Zeneművészeti Egyetem, Budapest |
 | 6. |  |  | Magyar Képzőművészeti Egyetem, Budapest |
 | 7. |  |  | Nemzeti Közszolgálati Egyetem, Budapest |
-| 8. |  |  | Pannon Egyetem, Veszprém |
-| 9. |  | I/B. Nem állami egyetemek |  |
-| 10. |  |  | Andrássy Gyula Budapesti Német Nyelvű Egyetem, Budapest |
-| 11. |  |  | Állatorvostudományi Egyetem, Budapest |
-| 12. |  |  | Budapesti Corvinus Egyetem, Budapest |
-| 13. |  |  | Debreceni Egyetem, Debrecen |
-| 14. |  |  | Debreceni Református Hittudományi Egyetem, Debrecen |
-| 15. |  |  | Eszterházy Károly Katolikus Egyetem, Eger |
-| 16. |  |  | Evangélikus Hittudományi Egyetem, Budapest |
-| 17. |  |  | Károli Gáspár Református Egyetem, Budapest |
-| 18. |  |  | Közép-európai Egyetem, Budapest |
-| 19. |  |  | Magyar Agrár- és Élettudományi Egyetem, Gödöllő |
-| 20. |  |  | Magyar Táncművészeti Egyetem, Budapest |
-| 21. |  |  | Miskolci Egyetem, Miskolc |
-| 22. |  |  | Moholy-Nagy Művészeti Egyetem, Budapest |
-| 23. |  |  | Óbudai Egyetem, Budapest |
-| 24. |  |  | Országos Rabbiképző – Zsidó Egyetem, Budapest |
+| 8. |  | I/B. Nem állami egyetemek |  |
+| 9. |  |  | Andrássy Gyula Budapesti Német Nyelvű Egyetem, Budapest |
+| 10. |  |  | Állatorvostudományi Egyetem, Budapest |
+| 11. |  |  | Budapesti Corvinus Egyetem, Budapest |
+| 12. |  |  | Debreceni Egyetem, Debrecen |
+| 13. |  |  | Debreceni Református Hittudományi Egyetem, Debrecen |
+| 14. |  |  | Eszterházy Károly Katolikus Egyetem, Eger |
+| 15. |  |  | Evangélikus Hittudományi Egyetem, Budapest |
+| 16. |  |  | Károli Gáspár Református Egyetem, Budapest |
+| 17. |  |  | Közép-európai Egyetem, Budapest |
+| 18. |  |  | Magyar Agrár- és Élettudományi Egyetem, Gödöllő |
+| 19. |  |  | Magyar Táncművészeti Egyetem, Budapest |
+| 20. |  |  | Miskolci Egyetem, Miskolc |
+| 21. |  |  | Moholy-Nagy Művészeti Egyetem, Budapest |
+| 22. |  |  | Óbudai Egyetem, Budapest |
+| 23. |  |  | Országos Rabbiképző – Zsidó Egyetem, Budapest |
+| 24. |  |  | Pannon Egyetem, Veszprém |
 | 25. |  |  | Pázmány Péter Katolikus Egyetem, Budapest |
 | 26. |  |  | Pécsi Tudományegyetem, Pécs |
 | 27. |  |  | Semmelweis Egyetem, Budapest |

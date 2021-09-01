@@ -1361,8 +1361,8 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 - g) kezdeményezheti a helyi önkormányzatnak a központi költségvetés terhére nyújtott támogatások felülvizsgálatát a 117. § (1) bekezdés a) pontja szerinti támogatás esetében a kincstárnál, a helyi önkormányzatnak nyújtott költségvetési támogatás esetében a támogatónál;
 - h) pert indíthat a sorozatos törvénysértést elkövető polgármester tisztségének megszüntetése iránt;
 - i) fegyelmi eljárást kezdeményezhet a helyi önkormányzat polgármestere ellen és a polgármesternél a jegyző ellen;
-- j) kezdeményezheti a helyi önkormányzat gazdálkodását érintő vizsgálat lefolytatását az Állami Számvevőszéknél;
-- k)
+- j) kezdeményezheti az államháztartásról szóló 2011. évi CXCV. törvény 68/B. §-a szerinti kincstári ellenőrzést;
+- k) a j) pont szerinti kincstári ellenőrzés eredményétől függően kezdeményezheti a helyi önkormányzat gazdálkodását érintő vizsgálat lefolytatását az Állami Számvevőszéknél;
 - l) törvényességi felügyeleti bírságot szabhat ki a helyi önkormányzatra vagy a társulásra az e törvényben meghatározott esetekben.
 
 (1a) A kormányhivatal a Nemzeti Választási Iroda elnökének a választási eljárásról szóló 2013. évi XXXVI. törvény 69. § (6) bekezdése szerinti tájékoztatása alapján haladéktalanul fegyelmi eljárást kezdeményez a polgármesternél a jegyző ellen.
