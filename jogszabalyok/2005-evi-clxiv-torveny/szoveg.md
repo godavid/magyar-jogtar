@@ -59,6 +59,7 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 - 38. utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedelmi tevékenység: olyan tevékenység, amelynek keretében az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedő az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló kormányrendeletben meghatározott utazási szolgáltatást kínál, értékesít;
 - 39. magánszálláshely: az a nem kizárólag szálláshely-szolgáltatás folytatása céljából, magánszemély vagy egyéni vállalkozó által hasznosított lakás vagy üdülő, illetve azok egy lehatárolt részének és hozzátartozó területének hasznosítása, ahol a szobák száma legfeljebb nyolc, és az ágyak száma legfeljebb tizenhat,
 - 40. egyéb szálláshely: nem kizárólag szálláshely-szolgáltatás folytatása céljából létesített épületben, de szálláshely-szolgáltatási céllal és nem magánszemély vagy nem egyéni vállalkozó által hasznosított, önálló rendeltetési egységet képező épületrész, ahol az egy szobában található ágyak külön-külön is hasznosításra kerülhetnek, illetve a szobák száma legfeljebb huszonöt, és az ágyak száma legfeljebb száz.
+- 41. szálláshely-minősítés: a szálláshelyek számára előírt minőségi követelményeknek való megfelelés vizsgálata és annak alapján a szálláshelyek minőségi fokozatokba sorolása a szálláshely-minősítő szervezet által.
 
 ### A kereskedelmi tevékenységek folytatásának általános feltételei
 
@@ -199,7 +200,7 @@ köteles ügyfélszolgálat működtetéséről gondoskodni személyes, valamint
 - b) amelynek vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozó esetén az egyéni vállalkozó nem volt olyan vállalkozás tulajdonosa, tagja, vezető tisztségviselője, vezető beosztású munkavállalója, amelyet a tevékenység megkezdését megelőző egy éven belül a lovas szolgáltató tevékenységével összefüggésben az állat-egészségügyi és az állattartási körülményekre vonatkozó jogszabályi rendelkezések megsértése miatt végleges hatósági határozatban eltiltottak a lovas szolgáltató tevékenység végzésétől,
 - c) amely által munkavállalóként vagy foglalkoztatásra irányuló egyéb jogviszony alapján foglalkoztatott legalább egy személy, illetve egyéni vállalkozó esetén az egyéni vállalkozó rendelkezik a külön jogszabályban meghatározott szakképesítéssel.
 
-6/D. § (1) Szálláshely-szolgáltatás csak a kereskedelmi hatóság részére történő szálláshely-üzemeltetési bejelentést követően folytatható.
+6/D. § (1) Szálláshely-szolgáltatás csak a Kormány rendeletében meghatározott, a szálláshely-minősítésre vonatkozó rendelkezések megtartásával és a kereskedelmi hatóság részére történő szálláshely-üzemeltetési bejelentést követően folytatható.
 
 (2) A szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeit – ide nem értve a magánszálláshelyen és az egyéb szálláshelyen az egy naptári éven belül szálláshely-szolgáltatás céljára felhasználható napok számát –, a szálláshely-üzemeltetési bejelentés rendjét és feltételeit, valamint a szálláshelyek nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szálláshely-szolgáltató tájékoztatási és adatszolgáltatási kötelezettségeit, az adatszolgáltatás rendjét, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket a Kormány rendeletben állapítja meg.
 
@@ -208,6 +209,8 @@ köteles ügyfélszolgálat működtetéséről gondoskodni személyes, valamint
 (4) Ha az önkormányzat a (3) bekezdés alapján a magánszálláshelyen és az egyéb szálláshelyen az egy naptári éven belül szálláshely-szolgáltatás céljára felhasználható napok számát nem határozta meg, abban az esetben e tevékenység időbeli megkötés nélkül végezhető.
 
 (5) Az önkormányzat a (3) bekezdés szerinti rendeletében az abban foglaltak megsértése esetére közigazgatási bírságot és tevékenység végzésétől történő eltiltást állapíthat meg.
+
+(6) A szálláshely-minősítés Magyarországon az állam hatáskörébe tartozó tevékenység. A szálláshely-minősítést az állam a Kormány rendeletében kijelölt szálláshely-minősítő szervezet útján látja el, a nemzetközileg általánosan elfogadott és közzétett kritériumok alapján.
 
 6/E. § (1) Aki tartós szálláshasználati szolgáltatási tevékenységet kíván folytatni, köteles az erre irányuló szándékát a kereskedelmi hatóságnak bejelenteni.
 
@@ -263,6 +266,18 @@ nyilvántartást vezet.
 (3) A 6/G. § a)–c) pontjában meghatározott nyilvántartások adatai – a (2) bekezdésben meghatározott adatok kivételével – nyilvánosak.
 
 (4) Az élelmiszerlánc-felügyeletért felelős miniszter, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal, valamint járási hivatal törvényben meghatározott feladatai ellátása céljából jogosult az (1) bekezdés szerinti nyilvántartásba közvetlenül betekinteni.
+
+### A szálláshely-minősítési eljárással kapcsolatban benyújtott panasz elbírálása
+
+6/J. § (1) Az a minősített szálláshely, amelyre nézve a szálláshely-minősítési eljárás jog- vagy érdeksérelemmel jár, az eljárással kapcsolatban panasszal fordulhat a szálláshely-minősítő szervezet vezetőjéhez.
+
+(2) A szálláshely-minősítő szervezet tevékenysége ellen benyújtott panaszt a szálláshely-minősítő szervezet vezetője közigazgatási hatósági eljárásban bírálja el.
+
+(3) A panaszt a szálláshely-minősítési eljárás lezárását és a minősítésnek a szálláshely általi megismerését követő nyolc napon belül lehet előterjeszteni.
+
+(4) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott elektronikus ügyintézés szabályai alkalmazásának nincs helye a panasz elbírálása során.
+
+(5) A szálláshely-minősítő szervezet eljárása ellen benyújtott panasz elbírálása esetén nincs helye sommás eljárásnak.
 
 ### A jelentős piaci erővel rendelkező vállalkozásokra vonatkozó szabályozás
 
@@ -322,6 +337,12 @@ kell érteni.
 8. § (1) A kereskedelmi vállalkozások és a beszállítók, valamint kereskedelmi jellegű turisztikai szolgáltatási tevékenységet folytatók képviseletét ellátó egyesület e törvény erejénél fogva ügyfélnek minősül az e törvény megsértése miatt indított azon közigazgatási hatósági eljárásban, ideértve a versenyfelügyeleti eljárást is, amely a kereskedők, a beszállítók vagy a kereskedelmi jellegű turisztikai szolgáltatási tevékenységet végzők széles körét érinti, vagy a vállalkozások működésére jelentős hátrányt okoz.
 
 (2) Az (1) bekezdés alapján fennálló ügyféli minőség nem érinti a beszállító és a vállalkozás azon jogát, hogy a jogsértővel szemben igényét érvényesítse.
+
+### A szálláshely-minősítés körében alkalmazott díjszabás
+
+8/A. § (1) A (2) bekezdésben meghatározott kivétellel a szálláshely-minősítő szervezet által lefolytatott egyes igazgatási jellegű szolgáltatásokért és közigazgatási hatósági eljárásokért igazgatási szolgáltatási díjat kell fizetni a szálláshely-minősítő szervezet részére.
+
+(2) Szálláshelyenként az első szálláshely-minősítési eljárás ingyenes.
 
 ### A kereskedelmi tevékenységek, a kereskedelmet kiszolgáló szolgáltató tevékenységek, valamint a kereskedelmi jellegű turisztikai szolgáltatási tevékenységek folytatásának ellenőrzése, jogkövetkezmények
 
@@ -397,7 +418,7 @@ kell érteni.
 - c) a vásárlók könyve hitelesítésének rendjét,
 - d) a vásár- és piactartás részletes szabályait, a bevásárlóközpont, a vásár és a piac üzemeltetésének részletes feltételeit, valamint a bevásárlóközpont és a helyi termelői piac bejelentésének, illetve a vásár- és a piacüzemeltetési engedély kiadásának részletes szabályait, valamint a kereskedelmet kiszolgáló szolgáltató tevékenységet végzők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - e) a tartós szálláshasználati szolgáltatási tevékenység folytatásának részletes feltételeit, a tartós szálláshasználati szolgáltatási tevékenység bejelentésének és az e tevékenységet folytatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban, illetve hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
-- f) a szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeit – ide nem értve a magánszálláshelyen és az egyéb szálláshelyen az egy naptári éven belül szálláshely-szolgáltatás céljára felhasználható napok számát –, a szálláshely-üzemeltetési bejelentés rendjét és feltételeit, valamint a szálláshelyek nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szálláshely-szolgáltató tájékoztatási és adatszolgáltatási kötelezettségeit, az adatszolgáltatás rendjét, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
+- f) a szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeit – ide nem értve a magánszálláshelyen és az egyéb szálláshelyen az egy naptári éven belül szálláshely-szolgáltatás céljára felhasználható napok számát –, a szálláshely-üzemeltetési bejelentés rendjét és feltételeit, valamint a szálláshelyek nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szálláshely-szolgáltató tájékoztatási és adatszolgáltatási kötelezettségeit, az adatszolgáltatás rendjét, a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, továbbá a szálláshely-minősítő szervezetet és a szálláshely-minősítés rendjét, valamint a nemzetközileg általánosan elfogadott kritériumok közzétételét,
 - g) az utazásszervezői és utazásközvetítői tevékenységre vonatkozó bejelentés rendjét és feltételeit, az utazásszervezői és utazásközvetítői tevékenység végzésének feltételeit, valamint az utazásszervezők és az utazásközvetítők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket, valamint a kötelező biztosításra vonatkozó részletszabályokat,
 - h) a kereskedelmi hatóság vagy hatóságok kijelölését,
 - i) a kereskedelmi hatóság által kiszabható bírság megállapításának, mértékének részletes szabályait,
@@ -427,7 +448,7 @@ rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a turizmusért felelős miniszter, hogy
 
-- a)
+- a) az adópolitikáért felelős miniszterrel egyetértésben a szálláshely-minősítő szervezet által végzett azon igazgatási jellegű szolgáltatások és közigazgatási hatósági eljárások körét, amelyek lefolytatásáért igazgatási szolgáltatási díjat kell fizetni, továbbá a fizetendő díj mértékét, valamint a fizetésre vonatkozó egyéb szabályokat;
 - b) az idegenvezetői tevékenység folytatásának részletes feltételeit, valamint az idegenvezetői tevékenység bejelentésének és az idegenvezetők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - c) a lovas szolgáltató tevékenység folytatásának részletes feltételeit, valamint a lovas szolgáltató tevékenység bejelentésének és a lovas szolgáltatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - d)–f)
