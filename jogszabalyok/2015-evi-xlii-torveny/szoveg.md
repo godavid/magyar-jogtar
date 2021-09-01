@@ -3683,7 +3683,7 @@ a rögzítéskor meghatározott szolgálati időre figyelemmel kell megállapít
 
 287/A. § (1) A tisztjelöltet az e törvényben a hivatásos állomány tagját megillető járandóságok – a (2) bekezdésben megállapított korlátozások figyelembevételével – illetik meg.
 
-(2) Ha a törvény eltérően nem rendelkezik, a tisztjelölt havonta ösztöndíjra jogosult. Az ösztöndíj a 11. mellékletben meghatározottak szerint alapösztöndíjból, alapösztöndíj-kiegészítésből, a tanulmányi pótlékból, valamint egyéb pótlékokból áll.
+(2) Ha törvény eltérően nem rendelkezik, a tisztjelölt havonta ösztöndíjra jogosult. Az ösztöndíj a miniszteri rendeletben meghatározottak szerint alapösztöndíjból, alapösztöndíj-kiegészítésből, tanulmányi pótlékból, valamint egyéb pótlékokból áll.
 
 (3) Az ösztöndíj összegét az egyes ösztöndíjelemekre megállapított szorzószámok és a rendvédelmi illetményalap szorzataként kell kiszámolni. Tört időszak esetén az alapösztöndíj, az alapösztöndíj-kiegészítés, a tanulmányi pótlék összegét időarányosan, az adott hónap naptári napjainak figyelembevételével kell meghatározni. Az ösztöndíjra az illetményfolyósítás és a visszatartás szabályait kell megfelelően alkalmazni.
 
@@ -5497,7 +5497,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 - 24. meghatározza a rendvédelmi szervek és a hivatásos állomány tagjainak kártérítési felelősségével kapcsolatos eljárások részletes szabályait, a kártérítési felelősség megállapításának módját, mérséklésének és mellőzésének részletes szabályait,
 - 25. meghatározza a szociális és kegyeleti gondoskodás, támogatás formáit, nyújtásának eljárási rendjét és feltételeit, mértékét, a személyi állomány elhunyt tagja kegyeleti minősítésének rendjét, valamint az ellátások pénzügyi feltételei biztosításának módját, továbbá a szolgálati nyugdíjasokkal kapcsolatos személyügyi feladatok ellátásának rendjét,
 - 26. megállapítsa a szolgálati panasz elbírálásának rendjét,
-- 27. megállapítsa a tisztjelölti jogviszony létesítésére és megszüntetésére vonatkozó részletes eljárási szabályokat, valamint a tisztjelölti szolgálatra vonatkozó rendelkezéseket, valamint a tisztjelölt járandóságra jogosultság feltételeit, fajtáit és mértékét, megállapításának rendjét, folyósításának szabályait,
+- 27. megállapítsa a tisztjelölti jogviszony létesítésére és megszüntetésére vonatkozó részletes eljárási szabályokat, a tisztjelölti szolgálatra vonatkozó rendelkezéseket, valamint a tisztjelölti ösztöndíjra és a tisztjelölt járandóságra jogosultság feltételeit, fajtáit és mértékét, megállapításának rendjét, folyósításának szabályait,
 - 28. meghatározza a szenior állományba vétel fizikai, pszichológiai és egészségi feltételeit, a szenior állomány tagját megillető ruházati ellátási normát és a felszerelést.
 
 (2) Felhatalmazást kap a rendészetért felelős miniszter, hogy rendeletben az Országgyűlés elnöke véleményének kikérésével az (1) bekezdés szerinti tárgykörökben az Országgyűlési Őrség vonatkozásában szabályokat állapítson meg.
@@ -6577,28 +6577,6 @@ B) Területi szerv vezetője
 | 8. | 45 év vagy afelett | 320% |
 
 ### 11. melléklet a 2015. évi XLII. törvényhez
-
-#### A tisztjelölt ösztöndíja
-
-#### I. Az alapösztöndíj szorzószáma havonta
-
-- 1. szakaszparancsnoki feladatok ellátására kijelöltek esetén: 0,60
-- 2. rajparancsnoki feladatok ellátására kijelöltek esetén: 0,55
-- 3. az 1. és a 2. pontokba nem tartozók esetén: 0,50
-
-#### II. Az alapösztöndíj-kiegészítés szorzószáma havonta az egyes kiképzési vagy tanulmányi szemeszterek alapján
-
-- 1. I. szemeszter (rendészeti alapfelkészítés): 0,25
-- 2. II. szemeszter: 0,26
-- 3. III. szemeszter: 0,27
-- 4. IV. szemeszter: 0,28
-- 5. V. szemeszter: 0,29
-- 6. VI–VIII. szemeszter: 0,30 III. A rendészeti tisztjelölt az előző szemeszterben elért – nem a korrigált kreditindex szerint meghatározott – tanulmányi átlaga alapján számítandó tanulmányi pótlékának szorzószáma havonta: 1. 3,50 és alatta: nem jár 2. 3,51-4,00 között: 0,10 3. 4,01-4,50 között: 0,15 4. 4,51-5,00 között: 0,20
-- 5. miniszteri rendeletben megfogalmazott legmagasabb követelményeknek megfelelők esetében: 0,40
-
-#### IV. Egyéb pótlék a rendvédelmi illetményalap %-ában
-
-- 1. katasztrófavédelmi feladatokra történő alkalmazás pótléka naponta: 5,80
 
 ### 12. melléklet a 2015. évi XLII. törvényhez
 

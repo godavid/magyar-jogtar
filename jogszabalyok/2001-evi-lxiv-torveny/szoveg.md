@@ -727,7 +727,7 @@ terjed ki.
 
 - a) muzeális intézmény esetében az alapleltárban nyilvántartott kulturális javakat,
 - b) könyvtár esetében az állomány-nyilvántartásban rögzített muzeális dokumentumot,
-- c) levéltár esetében a levéltári anyagról vezetett törzskönyvben nyilvántartott állományt,
+- c) levéltár esetében a levéltári anyagról vezetett törzskönyvben nyilvántartott állományt, továbbá az Ltv. 7/C. § (1) bekezdése szerinti nyilvántartásban szereplő köziratot,
 - d) a közgyűjteményként működő kép- és hangarchívum esetében a közgyűjtemény nyilvántartásában rögzített kulturális javakat
 
 illeti meg.
@@ -1546,7 +1546,13 @@ ingyenesen, nyilvántartási értéken, a c) pont szerinti szerződésben meghat
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa
 
-- a)–g)
+- a)
+- b)
+- c)
+- d)
+- e)
+- f)
+- g)
 - h)
 - i) egyes nyilvántartott régészeti lelőhelyek védetté nyilvánítását és a védettség megszüntetését;
 - j) az örökségvédelem körében a hatósági nyilvántartással összefüggő igazgatási szolgáltatási díj mértékét és a fizetésre vonatkozó egyéb szabályokat;
@@ -1554,7 +1560,8 @@ ingyenesen, nyilvántartási értéken, a c) pont szerinti szerződésben meghat
 - l)
 - m)
 - n) egyes nyilvántartott műemléki értékek műemlékké nyilvánítását és a műemléki védettség megszüntetését;
-- o)–p)
+- o)
+- p)
 - q) a kulturális javak nyilvántartásával összefüggésben – az adópolitikáért felelős miniszterrel egyetértésben – az igazgatási szolgáltatási díj mértékét és a fizetésre vonatkozó egyéb szabályokat,
 - r) az adópolitikáért felelős miniszterrel egyetértésben a kulturális javak kivitelének engedélyezésére irányuló eljárásért fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint megfizetésének részletes szabályait,
 - s) az Európai Örökség cím elnyerésére pályázó helyszínek közül az arra érdemesnek tartott helyszínek nemzeti szintű előzetes kiválasztására vonatkozó eljárási szabályokat.
@@ -1573,7 +1580,8 @@ ingyenesen, nyilvántartási értéken, a c) pont szerinti szerződésben meghat
 - b)
 - c)
 - d) a könyvtárakban levő muzeális dokumentumok kezelésével és nyilvántartásával kapcsolatos külön szabályokat,
-- e)–f)
+- e)
+- f)
 - g) a miniszterrel egyetértésben az elsődleges leletfeldolgozásra, a leletanyag végleges befogadására vonatkozó szabályokat,
 - h) meghatározza a műemléktől elvált vagy elválasztani engedélyezett alkotórészek, tartozékok, berendezési tárgyak közgyűjteményi elhelyezésének, nyilvántartásának, védelmének szabályait.
 

@@ -18,24 +18,27 @@ céljából, az Alaptörvényben meghatározott művelődéshez és munkához va
 
 #### 1. § [A szakképzés feladata]
 
-A szakképzés feladata a korszerű szakmai ismeretek megszerzésére való felkészítés és az egész életen át tartó tanuláshoz szükséges készségek fejlesztése. A szakképzés és a felsőoktatás az oktatási rendszer egymásra épülő, szerves részei.
+A szakképzés feladata a korszerű szakmai ismeretek megszerzésére való felkészítés, az egész életen át tartó tanuláshoz szükséges készségek fejlesztése és a gazdaság versenyképességének erősítése az ahhoz szükséges szakemberek képzésén keresztül. A szakképzés és a felsőoktatás az oktatási rendszer egymásra épülő, szerves részei.
 
 #### 2. § [Az oktatáshoz való jog biztosítása]
 
-(1) Az állam az Alaptörvény szerinti ingyenes és mindenki számára hozzáférhető középfokú oktatás keretében a szakképzésialapfeladat-ellátás kereteit és garanciáit – a hatékonyság, a szakszerűség, a magas szintű minőség és az egyenlő eséllyel történő hozzáférés követelményére figyelemmel – az e törvényben meghatározott módon biztosítja.
+(1) Az állam a szakképzésben való részvételt és a szakképzési alapfeladat ellátását – a hatékonyság, a szakszerűség, a magas szintű minőség és az egyenlő eséllyel történő hozzáférés követelményére figyelemmel – az e törvényben és a Kormány e törvény végrehajtására kiadott rendeletében meghatározott módon biztosítja.
 
 (2) A szakképzésialapfeladat-ellátás a szakmai önállósággal rendelkező szakképző intézmény és a duális képzőhely között az állam és a magánszféra konstruktív együttműködésével és érdekeik kölcsönös elismerésével megosztva folyik. A szakképzés megszervezésének minőségét, demokratikus és jogszerű működését e törvény és az állam általi ellenőrzés biztosítja.
 
 #### 3. § [A szakképzés ingyenessége]
 
-(1) Az állam a szakképzésben való részvétel keretében
+(1) Az állam
 
-- a) legfeljebb kettő szakma megszerzését az első szakmai vizsga befejezéséig, a második szakma esetén legfeljebb három tanéven keresztül, és
-- b) a szakképző intézményben a szakmai képzéshez kapcsolódó első szakképesítés megszerzését az első képesítő vizsga befejezéséig
+- a) az első kettő szakma megszerzését – ideértve az ahhoz kapcsolódó előkészítő évfolyamban, illetve a műhelyiskolában való részvételt is – az első szakmai vizsga befejezéséig, a második szakma esetén legfeljebb három tanéven keresztül,
+- b) a szakmai képzéshez kapcsolódó első szakképesítés megszerzését az első képesítő vizsga letételéig és
+- c) a technikumban tanulói jogviszony, illetve felnőttképzési jogviszony keretében az érettségi bizonyítvány megszerzését
 
-ingyenesen biztosítja. A szakképzésben való ingyenes részvétel szempontjából nem számít önálló szakma megszerzésének a munkakör magasabb színvonalon történő ellátása céljából a meglévő részszakmát magában foglaló szakmára történő felkészítés és szakmai vizsga letétele.
+az általa, illetve az együttműködési megállapodással rendelkező fenntartó által fenntartott szakképző intézményben ingyenesen biztosítja. A szakképzésben való ingyenes részvétel szempontjából nem számít önálló szakma megszerzésének a munkakör magasabb színvonalon történő ellátása céljából a meglévő részszakmát magában foglaló szakmára történő felkészítés és szakmai vizsga letétele.
 
-(2) A szakképző intézmény a Kormány rendeletében meghatározott esetben szedhet térítési díjat, illetve tandíjat. A szakképzés megszervezése, végzése és feltételeinek biztosítása ezt meghaladóan nem tehető pénzbeli, anyagi, természetbeni hozzájárulástól vagy költségtérítéstől függővé, ha a tanuló, illetve a képzésben részt vevő személy a szakképzésben ingyenes részvételre jogosult.
+(1a) Az állam, illetve az együttműködési megállapodással rendelkező fenntartó által fenntartott szakképző intézményben minden esetben ingyenes a szakképzésben tanulói jogviszony keretében való részvétel a halmozottan hátrányos helyzetű és a sajátos nevelési igényű vagy fogyatékkal élő személy részére.
+
+(2) Attól a tanulótól, illetve képzésben részt vevő személytől, aki a szakképzésben ingyenesen vesz részt, a Kormány rendeletében meghatározott esetben szedhető térítési díj, illetve tandíj. A szakképzés megszervezése, végzése és feltételeinek biztosítása ezt meghaladóan nem tehető pénzbeli, anyagi, természetbeni hozzájárulástól vagy költségtérítéstől függővé, ha a tanuló, illetve a képzésben részt vevő személy a szakképzésben ingyenesen vesz részt.
 
 #### 4. § [A szakképzés elvei]
 
@@ -45,7 +48,7 @@ ingyenesen biztosítja. A szakképzésben való ingyenes részvétel szempontjá
 
 (3) A szakképző intézményben folyó oktatás nyelve a magyar. A szakképzés – részben vagy egészben – nem magyar nyelven is folyhat. Az állam biztosítja, hogy minden szakma tekintetében elérhető legyen magyar nyelven folyó szakmai oktatás.
 
-(4) A szakképzés kiemelt feladata a sajátos nevelési igényű tanuló, illetve képzésben részt vevő kiskorú személy, a képzésben részt vevő fogyatékkal élő nagykorú személy, valamint a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló speciális igényeinek figyelembevétele és egyéni képességeihez igazodó, legeredményesebb fejlődésének elősegítése a minél teljesebb társadalmi beilleszkedés lehetőségeinek megteremtése érdekében.
+(4) A szakképzés kiemelt feladata a sajátos nevelési igényű vagy fogyatékkal élő személy, valamint a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló speciális igényeinek figyelembevétele és egyéni képességeihez igazodó, legeredményesebb fejlődésének elősegítése a minél teljesebb társadalmi beilleszkedés lehetőségeinek megteremtése érdekében.
 
 #### 5. § [A vallási közösségek részvétele a szakképzésben]
 
@@ -63,15 +66,17 @@ Az állam tiszteletben tartja a vallási közösségek vallási, világnézeti e
 
 E törvény alkalmazásában
 
-- 1. beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló: az a különleges bánásmódot igénylő tanuló, aki a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) szerinti szakértői bizottság szakvéleménye alapján az életkorához viszonyítottan jelentősen alulteljesít, társas kapcsolati problémákkal, tanulási, magatartás-szabályozási hiányosságokkal küzd, közösségbe való beilleszkedése, továbbá személyiségfejlődése nehezített vagy sajátos tendenciákat mutat, de nem minősül sajátos nevelési igényűnek,
+- 1. beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló: az a különleges bánásmódot igénylő tanuló, aki a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) szerinti szakértői bizottság szakvéleménye alapján az életkorához viszonyítottan jelentősen alulteljesít, társas kapcsolati problémákkal, tanulási, magatartás-szabályozási hiányosságokkal küzd, közösségbe való beilleszkedése, továbbá személyiségfejlődése nehezített vagy sajátos tendenciákat mutat, de nem minősül sajátos nevelési igényű vagy fogyatékkal élő személynek,
 - 2. egészségügyi alkalmasság: annak az orvosi szakvéleményre alapozott megállapítása, hogy a szakképzésbe bekapcsolódni szándékozó személy testi adottságai, egészségi és pszichikai állapota alapján képes önmaga és mások veszélyeztetése nélkül a választott szakma szerinti tevékenység, foglalkozás gyakorlására és a szakmai vizsgára való felkészülésre,
 - 3. feladatellátási hely: az a cím, ahol a szakképző intézmény alapító okiratában meghatározott szakképzési alapfeladat ellátása történik,
 - 4. pályaalkalmassági követelmény: a szakképzésbe történő bekapcsolódás – képzési és kimeneti követelményekben meghatározott – azon feltétele, amely alapján megállapítható, hogy a szakképzésben részt venni szándékozó személy képességei, készségei alapján sikeresen fel tud készülni a szakmai vizsgára és a szakma végzésére,
-- 5. sajátos nevelési igényű tanuló, illetve képzésben részt vevő kiskorú személy: az a különleges bánásmódot igénylő tanuló, illetve képzésben részt vevő kiskorú személy, aki az Nkt. szerinti szakértői bizottság szakvéleménye alapján mozgásszervi, érzékszervi – látási, hallási –, értelmi vagy beszédfogyatékos, több fogyatékosság együttes előfordulása esetén halmozottan fogyatékos, autizmus spektrumzavarral vagy egyéb pszichés fejlődési zavarral – súlyos tanulási, figyelem- vagy magatartás-szabályozási zavarral – küzd,
-- 6. szakképzési alapfeladat: a szakképző intézmény alapító okiratában meghatározott technikumi szakmai oktatás és szakképző iskolai szakmai oktatás,
+- 5. sajátos nevelési igényű vagy fogyatékkal élő személy: az a tanuló, illetve képzésben részt vevő személy, aki az Nkt. szerinti szakértői bizottság vagy a rehabilitációs hatóság szakvéleménye alapján mozgásszervi, érzékszervi – látási, hallási –, értelmi vagy beszédfogyatékos, több fogyatékosság együttes előfordulása esetén halmozottan fogyatékos, autizmus spektrumzavarral vagy egyéb pszichés fejlődési zavarral – súlyos tanulási, figyelem- vagy magatartás-szabályozási zavarral – küzd,
+- 6. szakképzési alapfeladat: a szakképző intézmény alapító okiratában meghatározott technikumi szakmai oktatás és szakképző iskolai szakmai oktatás, továbbá ahhoz kapcsolódóan az előkészítő évfolyam és a műhelyiskola megszervezése,
+- 6a. szakképzési tankönyv: az olyan könyv – ideértve a szótárt, a szöveggyűjteményt, az atlaszt, a kislexikont, a munkatankönyvet, a munkafüzetet és a feladatgyűjteményt –, valamint a zárt rendszerű távoktatási képzésmenedzsment rendszerben elérhető digitális tananyag, kiegészítő ismeretanyag és egyéb tanulmányi segédlet, amely a szakképzési tankönyvjegyzéken szerepel,
+- 6b. szakmai szervezet: valamely gazdasági ágazat vagy közös gazdasági érdekek képviseletét ellátó köztestület vagy egyesület,
 - 7. székhely: a szakképző intézmény alapító okiratában meghatározott, a szakképző intézmény szakképzési alapfeladatának ellátását szolgáló feladatellátási hely, ahol a képviseleti jogának gyakorlására jogosult vezetőjének munkavégzési helye található,
 - 8. tanítási nap: az olyan nap, amelyen a foglalkozások száma eléri a hármat,
-- 9. tanulóbaleset: minden olyan baleset, amely a tanulót, illetve a képzésben részt vevő személyt az alatt az idő alatt vagy tevékenység során éri, amikor a szakképző intézmény vagy a szakirányú oktatás folytatójának felügyelete alatt áll, ideértve a szakképző intézményen kívüli szakirányú oktatás során bekövetkezett balesetet is,
+- 9. tanulóbaleset: minden olyan baleset, amely a tanulót, illetve a képzésben részt vevő személyt az alatt az idő alatt vagy tevékenység során éri, amikor a szakképző intézmény vagy a duális képzőhely felügyelete alatt áll, ideértve a szakképző intézményen kívüli szakirányú oktatás során bekövetkezett balesetet is,
 - 10. telephely: a szakképző intézmény alapító okiratában meghatározott, a szakképző intézmény szakképzési alapfeladatának ellátását szolgáló olyan feladatellátási hely, amely a szakképző intézmény székhelyén kívül található,
 - 11. zárt rendszerű elektronikus távoktatás: a felnőttképzésről szóló törvényben (a továbbiakban: Fktv.) ekként meghatározott fogalom,
 - 12. zárt rendszerű távoktatási képzésmenedzsment rendszer: az Fktv.-ben ekként meghatározott fogalom.
@@ -89,14 +94,14 @@ E törvény alkalmazásában
 
 #### 9. § [A szakképzés megszervezése]
 
-(1) Szakképzés szakképző intézményben folytatható.
+(1) Szakképzés szakképző intézményben szervezhető.
 
 (2) A szakképzés szakképző intézményen kívül
 
 - a) részszakmára felkészítő szakmai oktatás és
 - b) szakképesítésre felkészítő szakmai képzés
 
-keretében az Fktv. szerint a felnőttképzési tevékenység folytatására engedéllyel rendelkező felnőttképző által folytatható.
+keretében az Fktv. szerint a felnőttképzési tevékenység folytatására engedéllyel rendelkező felnőttképző által szervezhető.
 
 (3) A duális képzőhely a szakirányú oktatás keretében vesz részt a szakképzésben.
 
@@ -104,13 +109,13 @@ keretében az Fktv. szerint a felnőttképzési tevékenység folytatására eng
 
 #### 10. § [A szakmajegyzék]
 
-A kizárólag szakképző intézményben szakmai oktatás keretében elsajátítható szakmákat a Kormány rendeletben állapítja meg (a továbbiakban: szakmajegyzék). A szakmajegyzékben szakmánként meg kell határozni a szakma azonosító számát, ennek keretében tanulmányi területét, ágazati besorolását, szintjének meghatározására vonatkozó megjelölését, a szakma megnevezését, a hozzá kapcsolódó szakmairányt, a szakmai oktatás időtartamát és a 107. § (2) bekezdése szerinti súlyszorzót.
+A kizárólag szakképző intézményben szakmai oktatás keretében elsajátítható szakmákat a Kormány rendeletben állapítja meg (a továbbiakban: szakmajegyzék). A szakmajegyzékben szakmánként meg kell határozni a szakma azonosító számát, ennek keretében tanulmányi területét, ágazati besorolását, szintjének meghatározására vonatkozó megjelölését, a szakma megnevezését, a hozzá kapcsolódó szakmairányt és a szakmai oktatás időtartamát.
 
 #### 11. § [A képzési és kimeneti követelmények]
 
 (1) A szakmákhoz – az ellenőrzési, a mérési és az értékelési rendszer kialakítását és működését biztosító, a szakképzésben kötelezően alkalmazandó – képzési és kimeneti követelményeket kell előírni. A képzési és kimeneti követelményekben – részszakmaként – meghatározható a szakmának olyan önállóan elkülöníthető része, amely legalább egy munkakör betöltéséhez szükséges kompetenciák megszerzését teszi lehetővé. Ha e törvény eltérően nem rendelkezik, a szakmára vonatkozóan meghatározott rendelkezéseket a részszakmára is alkalmazni kell.
 
-(2) A képzési és kimeneti követelményeket – a Kormány adott ágazatért felelős tagjának egyetértésével – a szakképzésért felelős miniszter hivatalos kiadványként az általa vezetett minisztérium honlapján (a továbbiakban: honlap) teszi közzé. A képzési és kimeneti követelmények normatív rendelkezést nem tartalmazhatnak és azok tartalma jogszabállyal és közjogi szervezetszabályozó eszközzel nem lehet ellentétes. A képzési és kimeneti követelmények a honlapról nem távolíthatók el, archiválásukra a digitális archiválás szabályait kell alkalmazni.
+(2) A képzési és kimeneti követelményeket – a Kormány adott ágazatért felelős tagjának egyetértésével – a szakképzésért felelős miniszter hivatalos kiadványként a szakképzési tájékoztatási és információs központ keretében működtetett honlapon (a továbbiakban: honlap) teszi közzé. A képzési és kimeneti követelmények normatív rendelkezést nem tartalmazhatnak és azok tartalma jogszabállyal és közjogi szervezetszabályozó eszközzel nem lehet ellentétes. A képzési és kimeneti követelmények a honlapról nem távolíthatók el, archiválásukra a digitális archiválás szabályait kell alkalmazni.
 
 (3) A közzétett képzési és kimeneti követelményeket a szakképzésért felelős miniszter minősített elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja. A képzési és kimeneti követelményekben a közzététel időpontját és az alkalmazás kezdő dátumát fel kell tüntetni. A közzététel időpontja nem lehet korábbi, mint az időbélyegzőben szereplő naptári nap.
 
@@ -122,34 +127,36 @@ A kizárólag szakképző intézményben szakmai oktatás keretében elsajátít
 
 A szakképző intézményben a nevelő és oktató munka
 
-- a) a szakképzésben kötelezően alkalmazandó programtanterv és
-- b) a programtanterv alapján kidolgozott szakmai program
+- a) a szakképzésben kötelezően alkalmazandó képzési és kimeneti követelmények és
+- b) a programtantervben – a szakmai oktatás kötelező foglalkozásai összesített számának kivételével – ajánlásként megfogalmazottak figyelembevételével kidolgozott szakmai program
 
 szerint folyik. Az egyházi jogi személy, illetve a vallási egyesület által alapított, illetve fenntartott szakképző intézmény szakmai programjába beépíthető az adott vallás hitelveinek megfelelő ismeret. Az egyházi jogi személy, illetve a vallási egyesület által alapított, illetve fenntartott szakképző intézmény szakmai programja a fenntartó jóváhagyásával válik érvényessé.
 
-#### 13. § [A programkövetelmény és a képzési program]
+#### 13. § [A programkövetelmény és a szakmai képzés képzési programja]
 
 (1) A szakmai képzéshez kapcsolódóan megszerezhető szakképesítés kimeneti követelményeit programkövetelményben kell meghatározni. A szakmai képzés az Fktv. szerinti képzési program alapján folyik.
 
-(2) A programkövetelmény és a képzési program nem sértheti más személy szabadalmi vagy szerzői jogát és szakmai tartalma nem lehet azonos a szakmajegyzékben szereplő szakma képzési és kimeneti követelményekben meghatározott tartalmával.
+(2) A programkövetelmény és a szakmai képzés képzési programja nem sértheti más személy szabadalmi vagy szerzői jogát és szakmai tartalma nem lehet azonos a szakmajegyzékben szereplő szakma képzési és kimeneti követelményekben meghatározott tartalmával.
 
 (3) A programkövetelményekről a szakképzésért felelős miniszter elektronikus nyilvántartást vezet. A programkövetelmény és a programkövetelményekről vezetett nyilvántartás nyilvános, azt a szakképzésért felelős miniszter a honlapon közzéteszi.
 
-(4) A programkövetelményekről vezetett nyilvántartásból való törlés vagy módosítás a törölt vagy módosított programkövetelmény alapján indított szakmai képzést nem érinti. A programkövetelmény a honlapról nem távolítható el, archiválására a digitális archiválás szabályait kell alkalmazni.
+(4) A programkövetelményekről vezetett nyilvántartásból való törlés vagy módosítás a törölt vagy módosított programkövetelmény alapján – legkésőbb a törlés vagy módosítás időpontját megelőző naptári napon – indított szakmai képzést nem érinti. A programkövetelmény a honlapról nem távolítható el, archiválására a digitális archiválás szabályait kell alkalmazni.
 
 #### 14. § [Az akkreditált vizsgaközpont]
 
 Szakma megszerzésére irányuló szakmai vizsgát, illetve szakmai képzéshez kapcsolódóan megszerezhető szakképesítés megszerzésére irányuló képesítő vizsgát a nemzeti akkreditálásról szóló törvény szerinti akkreditáló szerv által személytanúsító szervezetként akkreditált vizsgaközpont szervezhet.
 
-#### 15. § [Az oklevél és a bizonyítvány]
+#### 15. § [Az oklevél, a szakmai bizonyítvány és a képesítő bizonyítvány]
 
-(1) A szakma megszerzéséről kiállított oklevél, illetve szakmai bizonyítvány államilag elismert középfokú végzettséget és szakképzettséget tanúsít és egy vagy több foglalkozás valamennyi munkakörének betöltésére képesít, a részszakma megszerzéséről kiállított szakmai bizonyítvány államilag elismert alapfokú végzettséget és szakképesítést tanúsít és legalább egy munkakör betöltésére képesít.
+(1) A szakma megszerzéséről kiállított oklevél, illetve a szakmai bizonyítvány államilag elismert középfokú végzettséget és szakképzettséget tanúsít és egy vagy több foglalkozás valamennyi munkakörének betöltésére képesít. A részszakma megszerzéséről kiállított szakmai bizonyítvány szakképesítést, ha a részszakmára történő felkészítés dobbantó program keretében és műhelyiskolában történt, államilag elismert alapfokú végzettséget és szakképesítést tanúsít és legalább egy munkakör betöltésére képesít.
 
 (2) A szakmai képzéshez kapcsolódóan megszerzett képesítő bizonyítvány államilag elismert, önálló végzettségi szintet nem biztosító szakképesítést tanúsít.
 
+(3) A szakképzésért felelős miniszter a kiállított oklevelet, szakmai bizonyítványt és képesítő bizonyítványt annak kiállításától számított öt éven belül visszavonja, ha azt jogellenesen szerezték meg. A szakképzésért felelős miniszter a kiállított oklevelet, szakmai bizonyítványt és képesítő bizonyítványt időbeli korlátozás nélkül – a bíróság, illetve az ügyészség erre vonatkozó tájékoztatása alapján – megsemmisíti, ha annak kiállítását bűncselekmény befolyásolta és a bűncselekmény elkövetését a bíróság jogerős ügydöntő határozata megállapította, vagy az ügyészség a büntetőeljárást azért szüntette meg, mert a feltételes ügyészi felfüggesztés tartama eredményesen telt el és a megsemmisítés jóhiszeműen szerzett és gyakorolt jogot nem érint. A visszavont és a megsemmisített oklevél, szakmai bizonyítvány és képesítő bizonyítvány sorozatjelét és sorszámát, az érvénytelenítés időpontját és okát a honlapon közzé kell tenni.
+
 ## HARMADIK RÉSZ — A SZAKKÉPZŐ INTÉZMÉNY
 
-### III. Fejezet — A SZAKKÉPZŐ INTÉZMÉNY TÍPUSAI ÉS TEVÉKENYSÉGE
+### III. Fejezet — A SZAKKÉPZŐ INTÉZMÉNY TÍPUSAI, TEVÉKENYSÉGE ÉS GAZDÁLKODÁSA
 
 #### 1. A szakképző intézmény típusai
 
@@ -166,7 +173,7 @@ Szakma megszerzésére irányuló szakmai vizsgát, illetve szakmai képzéshez 
 
 #### 17. § [A szakképző intézmény jogállása]
 
-A szakképző intézmény szakképzési alapfeladat ellátására létrejött jogi személy, amely a fenntartójától elkülönült, önálló költségvetéssel rendelkezik. A szakképzési centrum részeként működő szakképző intézmény a szakképzési centrum jogi személyiséggel rendelkező szervezeti egysége, amely önálló költségvetéssel nem rendelkezik és kizárólag a Kormány rendeletében meghatározott jogok és kötelezettségek alanya lehet.
+A szakképző intézmény szakképzési alapfeladat ellátására létrejött jogi személy. A szakképzési centrum részeként működő szakképző intézmény a szakképzési centrum jogi személyiséggel rendelkező szervezeti egysége, amely kizárólag a Kormány rendeletében meghatározott jogok és kötelezettségek alanya lehet.
 
 #### 18. § [A többcélú szakképző intézmény]
 
@@ -183,20 +190,20 @@ A szakképző intézmény köznevelési intézmény egy vagy több köznevelési
 
 történik. A szakmai oktatás keretében – ha e törvény vagy a Kormány rendelete eltérően nem rendelkezik – az ágazati alapoktatással és a szakirányú oktatással párhuzamosan vagy attól függetlenül a közismereti kerettanterv szerinti oktatás folyik.
 
-(2) A szakmai vizsgára történő felkészítés a szakképző intézmény feladata, amely a kötelező foglalkozások keretében történik. A szakmai vizsgára történő felkészülést a szakképző intézmény választható foglalkozások biztosításával is segíti. A szakmai vizsgára a képzési és kimeneti követelmények szerinti felkészítésért a szakképzési munkaszerződéssel rendelkező tanuló, illetve képzésben részt vevő személy tekintetében az e törvényben meghatározott feltételek szerint a duális képzőhely a szakképző intézménnyel közösen felel.
+(2) A szakmai vizsgára történő felkészítés a szakképző intézmény feladata, amely a kötelező foglalkozások keretében történik. A szakmai vizsgára történő felkészülést a szakképző intézmény választható foglalkozások biztosításával is segíti. A szakmai vizsgára a képzési és kimeneti követelmények szerinti felkészítésért a szakképzési munkaszerződéssel rendelkező tanuló, illetve képzésben részt vevő személy tekintetében az e törvényben és a Kormány e törvény végrehajtására kiadott rendeletében meghatározott feltételek szerint a duális képzőhely a szakképző intézménnyel közösen felel.
 
 (3) A szakképző intézmény a tevékenységét minőségirányítási rendszer alapján végzi.
 
-(4) A szakképző intézményben a szakmai oktatást előkészítő évfolyam előzheti meg. Az előkészítő évfolyamon
+(4) Az állami szakképző intézményben és az együttműködési megállapodással rendelkező fenntartó által fenntartott nem állami szakképző intézményben az együttműködési megállapodásban foglaltak alapján a szakmai oktatást előkészítő évfolyam előzheti meg. Az előkészítő évfolyamon
 
 - a) a technikum nyelvi előkészítést,
 - b) a szakképző iskola
   - ba) a szakma megszerzéséhez szükséges kompetenciák tekintetében történő orientációs fejlesztést, illetve
   - bb) dobbantó program keretében alapkompetencia-fejlesztést
 
-folytathat.
+szervezhet.
 
-(5) A szakképző intézmény tizedik évfolyamán a nappali rendszerű szakmai oktatásban tanulói jogviszony keretében részt vevő tanuló szövegértési és matematikai eszköztudás fejlődését az Nkt. szerint kell mérni és értékelni.
+(5) A szakképző intézmény szakmai képzést az e törvényben és a Kormány e törvény végrehajtására kiadott rendeletében meghatározott eltérésekkel az Fktv. szerint szervezhet.
 
 #### 20. § [A technikum szakképzési tevékenysége]
 
@@ -207,24 +214,38 @@ folytathat.
 
 a szakmajegyzékben meghatározott számú évfolyama van.
 
-(2) A technikum kizárólag érettségi vizsgára történő felkészítést is folytathat. Az ilyen felkészítésnek két évfolyama van, és az a nappali rendszerben nem szervezhető meg.
+(1a) A szakképzésért felelős miniszter – a Kormány adott ágazatért felelős tagjának egyetértésével kiadott – engedélye alapján a technikum az (1) bekezdés a) és b) pontjában meghatározott évfolyamot felsőoktatási intézménnyel közösen kidolgozott szakmai program alapján is megszervezheti.
+
+(2) A technikum kizárólag érettségi vizsgára történő felkészítést is szervezhet. Az ilyen felkészítésnek két évfolyama van, és az a nappali rendszerben nem szervezhető meg.
 
 #### 21. § [A szakképző iskola szakképzési tevékenysége]
 
 (1) A szakképző iskolának
 
 - a) az adott szakma megszerzéséhez szükséges közismereti oktatást és szakmai oktatást magában foglaló, illetve
-- b) érettségi végzettséggel kizárólag szakmai vizsgára felkészítő,
+- b) kizárólag szakmai vizsgára felkészítő,
 
 a szakmajegyzékben meghatározott számú évfolyama van.
 
-(2) A szakképző iskola – a fenntartó, a szakképzési centrum részeként működő szakképző iskola esetében a szakképzési centrum engedélyével – műhelyiskola keretében a tanulónak, illetve a képzésben részt vevő személynek a szakképzésbe való bekapcsolódáshoz vagy a munkába álláshoz szükséges ismeretek megszerzésére szolgáló képzési formát indíthat.
+(2) Az állam által alapított szakképző iskola és – az együttműködési megállapodásban foglaltak alapján – az együttműködési megállapodással rendelkező fenntartó által fenntartott szakképző iskola műhelyiskola keretében a tanulónak, illetve a képzésben részt vevő személynek a szakképzésbe való bekapcsolódáshoz vagy a munkába álláshoz szükséges ismeretek megszerzésére szolgáló képzési formát indíthat.
+
+#### 2/A. A szakképző intézmény gazdálkodása
+
+#### 21/A. § [A szakképző intézmény költségvetése]
+
+A szakképző intézmény a fenntartójától elkülönült, önálló költségvetés alapján gazdálkodik. A szakképzési centrum részeként működő szakképző intézmény költségvetését a szakképzési centrum költségvetése tartalmazza. A szakképző intézmény költségvetését az általa ellátott szakképzési alapfeladat kiadási szükségletének átlagos költségeihez igazodóan a szakképző intézmény által elvárhatóan biztosítani szükséges közszolgáltatási szintnek megfelelően kell megtervezni.
+
+#### 21/B. § [A szakképző intézmény vagyonnal való gazdálkodása]
+
+(1) Vagyonkezelési szerződés a szakképzésialapfeladat-ellátást és a szakképző intézmény által szervezett szakmai képzést szolgáló állami tulajdon vonatkozásában kizárólag önálló költségvetési szervként működő állami szakképző intézménnyel és szakképzési centrummal köthető. A szakképzési centrum – a szakképzésért felelős miniszter engedélyével – ágazati képzőközpontban, illetve tudásközpontban részesedést szerezhet, amely tekintetében a szakképzési centrum gyakorolja az államot megillető tulajdonosi jogokat.
+
+(2) Az állami szakképző intézmény szakképzési alapfeladatának ellátását szolgáló, a helyi önkormányzat tulajdonában álló ingatlanra és ingóra vonatkozóan az állami szakképző intézményt, a szakképzési centrum részeként működő szakképző intézmény esetén a szakképzési centrumot ingyenes vagyonkezelői jog illeti meg mindaddig, amíg a szakképzési alapfeladat ellátása az érintett ingatlanban meg nem szűnik. A helyi önkormányzat a vagyonkezelői jog fennállása alatt a szakképzésialapfeladat-ellátást szolgáló ingatlant és ingót nem idegenítheti el, nem terhelheti meg, biztosítékul nem adhatja, azon osztott tulajdont nem létesíthet és bérbe nem adhatja. A felek megállapodásának eltérő rendelkezése hiányában nem keletkezik állami tulajdon az e § szerinti ingatlanon vagy ingón végzett értéknövelő beruházással.
 
 ### IV. Fejezet — A SZAKKÉPZŐ INTÉZMÉNY ALAPÍTÁSA, MEGSZÜNTETÉSE ÉS ÁTSZERVEZÉSE
 
 #### 22. § [A szakképző intézmény alapítása]
 
-(1) Szakképző intézményt – az e törvényben és a Kormány rendeletében meghatározott feltételek szerint – önállóan vagy együttesen
+(1) Szakképző intézményt – az e törvényben és a Kormány e törvény végrehajtására kiadott rendeletében meghatározott feltételek szerint – önállóan vagy együttesen
 
 - a) az állam,
 - b) nemzetiségi önkormányzat,
@@ -234,6 +255,8 @@ a szakmajegyzékben meghatározott számú évfolyama van.
 - f) egyesület
 
 alapíthat.
+
+(1a) Szakképző intézmény – a rendvédelmi szakképző intézmény kivételével – kizárólag szakmai vizsgára felkészítő szakmai oktatás folytatására nem alapítható.
 
 (2) A szakképző intézménynek a feladatai ellátásához szükséges feltételekkel rendelkeznie kell.
 
@@ -248,11 +271,11 @@ alapíthat.
 
 (6) A költségvetési szervként működő szakképző intézmény a törzskönyvi nyilvántartásba való bejegyzéssel, a nem állami szakképző intézmény a szakképzési államigazgatási szerv által vezetett nyilvántartásba való bejegyzéssel a bejegyzés napján jön létre és a nyilvántartásból való törléssel, a törlés napján szűnik meg. Az alapító okirat a szakképző intézmény későbbi időponttal való alapításáról, átalakításáról, illetve megszüntetéséről is rendelkezhet, ebben az esetben a szakképző intézményt ezen időponttal kell nyilvántartásba venni, illetve a nyilvántartásból törölni.
 
-#### 23. § [A szakképző intézmény fenntartói jogának átadása, megszüntetése és átszervezése]
+#### 23. § [A szakképző intézmény fenntartói irányítási hatáskörének átadása, megszüntetése és átszervezése]
 
 Az alapító az intézkedés tervezett végrehajtása éve májusának utolsó munkanapjáig hozhat döntést
 
-- a) a szakképző intézmény fenntartói jogának átadásáról,
+- a) a szakképző intézmény fenntartói irányítási hatáskörének átadásáról,
 - b) a szakképző intézmény megszüntetéséről,
 - c) a szakképző intézmény átalakításáról, amely történhet:
   - ca) egyesüléssel, amely lehet összeolvadás vagy beolvadás,
@@ -277,7 +300,7 @@ Az alapító az intézkedés tervezett végrehajtása éve májusának utolsó m
 - d) az alapító két tanítási évnél hosszabb ideig a szakképző intézményt nem működteti vagy
 - e) a szakképzési államigazgatási szerv a szakképző intézmény hatósági ellenőrzése vagy minőségirányítási rendszerének külső értékelése keretében súlyos jogszabálysértést vagy szakmai jogszabálysértést tárt fel.
 
-(4) A szakképző intézmények nyilvántartásának fennálló és törölt adatai nyilvánosak, azokat a szakképzési államigazgatási szerv a honlapján bárki számára ingyenesen hozzáférhetővé teszi.
+(4) A szakképző intézmények nyilvántartásának fennálló és törölt adatai nyilvánosak, azokat a szakképzési államigazgatási szerv a honlapon bárki számára ingyenesen hozzáférhetővé teszi.
 
 ### V. Fejezet — A SZAKKÉPZŐ INTÉZMÉNY FENNTARTÁSA
 
@@ -285,31 +308,31 @@ Az alapító az intézkedés tervezett végrehajtása éve májusának utolsó m
 
 #### 25. § [A fenntartó]
 
-(1) Az állami szakképző intézmény esetében a fenntartói irányítási hatásköröket az állam nevében a Kormány erre kijelölt tagja gyakorolja. A nem állami szakképző intézményt az alapító tartja fenn vagy a fenntartói irányítási hatásköröket az alapító nevében az alapító által kijelölt más személy gyakorolja. Más személy fenntartóként történő kijelölése hiányában az e törvényben és a Kormány rendeletében a fenntartó alatt az alapítót kell érteni.
+(1) Az állami szakképző intézmény esetében a fenntartói irányítási hatásköröket az állam nevében a Kormány erre kijelölt tagja gyakorolja. A nem állami szakképző intézményt az alapító tartja fenn vagy a fenntartói irányítási hatásköröket az alapító nevében az alapító által kijelölt más személy gyakorolja. Más személy fenntartóként történő kijelölése hiányában az e törvényben és a Kormány e törvény végrehajtására kiadott rendeletében a fenntartó alatt az alapítót kell érteni.
 
 (2) Fenntartó az a természetes személy vagy jogi személy lehet, aki a szakképzésialapfeladat-ellátáshoz szükséges feltételekről az alapító nevében gondoskodik.
 
 (3) A fenntartónak címzett hatásköröket a természetes személy fenntartó, jogi személy fenntartó esetében a fenntartó törvényes képviseletére jogosult személy vagy testület gyakorolja.
 
-#### 26. § [A szakképzésért felelős miniszter fenntartói joggyakorlása alá tartozó szakképző intézmény]
+#### 26. § [A szakképzésért felelős miniszter fenntartói irányítási hatásköre alá tartozó szakképző intézmény]
 
-(1) Ha e törvény vagy a Kormány rendelete eltérően nem rendelkezik, az állami szakképző intézmény a szakképzésért felelős miniszter által az állam nevében alapított szakképzési centrum részeként működik.
+(1) Ha e törvény vagy a Kormány e törvény végrehajtására kiadott rendelete eltérően nem rendelkezik, az állami szakképző intézmény a szakképzésért felelős miniszter által az állam nevében alapított szakképzési centrum részeként működik.
 
 (2) A szakképzési centrum részeként működő szakképző intézményt az igazgató a főigazgató irányítása mellett vezeti, ennek keretében ellátja mindazokat a feladatokat és gyakorolja mindazokat a hatásköröket, amiket e törvény, a Kormány rendelete, a szakképzési centrum szervezeti és működési szabályzata vagy gazdálkodási szabályzata nem utal a főigazgató vagy a kancellár feladat- és hatáskörébe.
 
 (3) A szakképzési centrumot a főigazgató és a kancellár önállóan vezeti és képviseli.
 
-(4) A főigazgató felel a szakképzési centrum részeként működő szakképző intézmények szakképzési alapfeladatainak ellátásáért. A főigazgatót feladatai ellátásában főigazgató-helyettes segíti.
+(4) A főigazgató felel a szakképzési centrum részeként működő szakképző intézmények szakképzési alapfeladatainak ellátásáért.
 
 (5) A kancellár felel a szakképzési centrum törvényes és szakszerű működéséért. A kancellár jogosult a gazdasági vezető megbízására és a megbízás visszavonására.
 
-(6) A főigazgató, a főigazgató-helyettes, a kancellár és a gazdasági vezető a szakképzési centrummal munkaviszonyban áll, a szakképzési centrum más, nem oktató munkakörben foglalkoztatottja a szakképzési centrummal munkaviszonyban vagy megbízási jogviszonyban áll.
+(6) A szakképzési centrum vezető állású munkavállalója a szakképzési centrummal munkaviszonyban, más foglalkoztatottja a szakképzési centrummal munkaviszonyban vagy megbízási jogviszonyban áll.
 
-(7) Az állami szakképző intézmény szakképzési alapfeladatának ellátását szolgáló, a települési önkormányzat tulajdonában álló ingatlanra és ingóra vonatkozóan az állami szakképző intézményt, a szakképzési centrum részeként működő szakképző intézmény esetében a szakképzési centrumot ingyenes vagyonkezelői jog illeti meg mindaddig, amíg a szakképzési alapfeladat ellátása az érintett ingatlanban meg nem szűnik. A települési önkormányzat a vagyonkezelői jog fennállása alatt a szakképzésialapfeladat-ellátást szolgáló ingatlant és ingót nem idegenítheti el, nem terhelheti meg, bérbe nem adhatja.
+(7)
 
-(8) A szakképzési centrum – a szakképzésért felelős miniszter engedélyével – ágazati képzőközpontban, illetve tudásközpontban részesedést szerezhet.
+(8)
 
-#### 27. § [A Kormány más tagja, illetve az állami és nem állami felsőoktatási intézmény fenntartói joggyakorlása alá tartozó szakképző intézmény]
+#### 27. § [A Kormány más tagja, illetve a felsőoktatási intézmény fenntartói irányítási hatásköre alá tartozó szakképző intézmény]
 
 (1) Az állam képviseletében eljárva szakképző intézményt
 
@@ -321,15 +344,11 @@ alapíthat és gyakorolhatja a fenntartót megillető jogokat. Az a) pont szerin
 
 (2) A Kormány rendeletben az állami szakképző intézmény állam nevében történő alapítására és a fenntartói irányítási hatáskörök gyakorlására az (1) bekezdésben meghatározott miniszter mellett más tagját is kijelölheti. A Kormány rendeletben a szakképzésért felelős miniszter mellett más tagja által alapított szakképző intézmény szakképzési centrum részeként történő működését írhatja elő.
 
-(3) Állami felsőoktatási intézmény szakképző intézmény fenntartói jogait a szakképzésért felelős miniszter hozzájárulásával gyakorolhatja.
+(3) Állami felsőoktatási intézmény szakképző intézmény fenntartói irányítási hatásköreit a szakképzésért felelős miniszter hozzájárulásával, nem állami felsőoktatási intézmény a nemzeti felsőoktatásról szóló törvény (a továbbiakban: Nftv.) 84. § (3) bekezdése szerinti megállapodás ilyen rendelkezése esetén gyakorolhatja.
 
-(4) A szakképző intézmény fenntartói jogát a nemzeti felsőoktatásról szóló törvény (a továbbiakban: Nftv.) 84. § (3) bekezdésében foglalt megállapodást kötött nem állami felsőoktatási intézmény gyakorolhatja.
+(4)
 
-#### 28. § [A fenntartói megállapodás]
-
-(1) A fenntartó fenntartói megállapodással vehet részt a szakképzési alapfeladatok megvalósításában. A fenntartói megállapodás a fenntartó számára három tanév időtartamra biztosítja az állam által finanszírozott szakképzésben való részvételre jogosult tanulók, illetve képzésben részt vevő személyek számára szervezett szakmai oktatás elindításának lehetőségét.
-
-(2) Az egyházi jogi személy a 109. § (3) bekezdése szerinti együttműködési megállapodás alapján a szakképzésért felelős miniszter részére megküldött egyoldalú nyilatkozatában meghatározott képzési szerkezetnek megfelelően vehet részt a szakképzésben.
+#### 28. §
 
 #### 4. A fenntartói irányítás
 
@@ -502,9 +521,9 @@ Az igazgató feladatai ellátásának segítésére és helyettesítésére igaz
 
 (1) Igazgatói és igazgatóhelyettesi (a továbbiakban együtt: intézményvezető) megbízást az kaphat, aki a Kormány rendeletében meghatározott szakképzettséggel és gyakorlattal rendelkezik.
 
-(2) Nem lehet intézményvezető a szakképző intézmény fenntartója, továbbá a szakképző intézmény fenntartójánál vezető állású munkavállaló vagy vezetői megbízással rendelkező személy. Ez a korlátozás nemzetiségi önkormányzat tekintetében nem vonatkozik a fenntartói jogot gyakorló képviselő-testület tagjaira, a más nem állami szakképző intézmény esetében a fenntartói jogot gyakorló testület tagjaira.
+(2) Nem lehet intézményvezető a szakképző intézmény fenntartója, továbbá a szakképző intézmény fenntartójánál vezető állású munkavállaló vagy vezetői megbízással rendelkező személy. Ez a korlátozás nemzetiségi önkormányzat tekintetében nem vonatkozik a fenntartói irányítási hatáskört gyakorló képviselő-testület tagjaira, a más nem állami szakképző intézmény esetében a fenntartói irányítási hatáskört gyakorló testület tagjaira.
 
-(3) Az állami szakképző intézményben az igazgató kiválasztása nyilvános pályázat útján történik. A pályázat mellőzhető, ha az igazgató ismételt megbízásával a fenntartó és az oktatói testület legalább kétharmada egyetért. Egyetértés hiányában, továbbá az igazgató harmadik és további megbízási ciklusát megelőzően a pályázat kiírása kötelező.
+(3) Az állami szakképző intézményben az igazgató kiválasztása nyilvános pályázat útján történik. A pályázat mellőzhető, ha az igazgató ismételt megbízásával a fenntartó és az oktatói testület legalább kétharmada egyetért vagy újonnan létesített szakképző intézmény esetén a szervezési feladatok ellátása érdekében ez indokolt. Egyetértés hiányában, illetve az igazgató harmadik és további megbízási ciklusát megelőzően a pályázat kiírása kötelező. A szervezési feladatok ellátására adott megbízás legfeljebb a következő tanév utolsó napjáig terjedő időszakra szólhat.
 
 (4) Az igazgatót a fenntartó – a szakképzési centrum részeként működő szakképző intézmény esetében a szakképzési intézményfenntartó központ vezetője – a szakképzésért felelős miniszter egyetértésével bízza meg. A szakképzésért felelős miniszter az egyetértést csak jogszabálysértés esetén tagadhatja meg. Az igazgatóhelyettest az igazgató a fenntartó – a szakképzési centrum részeként működő szakképző intézmény esetében a főigazgató az igazgató – egyetértésével bízza meg.
 
@@ -527,19 +546,20 @@ Az igazgató feladatai ellátásának segítésére és helyettesítésére igaz
 Az oktatót feladatának ellátásával összefüggésben megilleti az a jog, hogy
 
 - 1. személyét mint az oktatói testület tagját megbecsüljék, emberi méltóságát és személyiségi jogait tiszteletben tartsák, nevelői-oktatói tevékenységét értékeljék és elismerjék,
-- 2. a szakképző intézmény szakmai programja, illetve a szakmai képzés képzési programja alapján az ismereteket, a tananyagot, a szakmai oktatás, illetve a szakmai képzés módszereit megválassza,
-- 3. a szakképző intézmény szakmai programja, illetve a szakmai képzés képzési programja alapján – a szakmai munkaközösség véleményének kikérésével – megválassza az alkalmazott tankönyveket, a tanulmányi segédleteket, a szemléltető és a szakképzés céljait szolgáló pedagógiai szakmai eszközöket,
+- 2. a szakképző intézmény szakmai programja, illetve a szakképző intézmény által szervezett szakmai képzés képzési programja alapján az ismereteket, a tananyagot, a szakmai oktatás, illetve a szakmai képzés módszereit megválassza,
+- 3. a szakképző intézmény szakmai programja, illetve a szakmai képzés képzési programja alapján – a szakmai munkaközösség véleményének kikérésével – megválassza az alkalmazott tankönyveket, digitális tananyagokat és egyéb tanulmányi segédleteket, a szemléltető és a szakképzés céljait szolgáló pedagógiai szakmai eszközöket,
 - 4. – az egyházi jogi személy, illetve a vallási egyesület által alapított, illetve fenntartott szakképző intézményben a fenntartó eltérő rendelkezése hiányában – a 4. § (2) bekezdésében foglaltak megtartásával saját világnézete és értékrendje szerint végezze munkáját, anélkül, hogy annak elfogadására kényszerítené vagy késztetné a tanulót, illetve a képzésben részt vevő személyt,
 - 5. hozzájusson a munkájához szükséges ismeretekhez, intézményi és fenntartói információkhoz,
-- 6. az oktatói testület tagjaként részt vegyen a szakképző intézmény szakmai programjának és a szakmai képzés képzési programjának megalkotásában, elfogadásában és értékelésében, gyakorolja az oktatói testület tagjait megillető jogokat,
+- 6. az oktatói testület tagjaként részt vegyen a szakképző intézmény szakmai programjának és a szakképző intézmény által szervezett szakmai képzés képzési programjának megalkotásában, elfogadásában és értékelésében, gyakorolja az oktatói testület tagjait megillető jogokat,
 - 7. szakmai ismereteit, tudását szervezett továbbképzésben való részvétel útján gyarapítsa,
 - 8. szakmai egyesületek tagjaként vagy képviseletében részt vegyen szakképzéssel foglalkozó testületek munkájában,
-- 9. a szakképző intézmény könyvtárán keresztül használatra megkapja a munkájához szükséges tankönyveket, digitális tananyagokat, tanári segédkönyveket, informatikai eszközöket,
+- 9. a szakképző intézmény könyvtárán keresztül használatra megkapja a munkájához szükséges tankönyveket, digitális tananyagokat és egyéb tanulmányi segédleteket, tanári segédkönyveket, informatikai eszközöket,
+- 9a. munkáját biztonságos és egészséges munkafeltételek között végezze,
 - 10. az oktatási jogok biztosához forduljon.
 
 #### 49. § [Az oktató kötelességei]
 
-(1) Az oktató alapvető feladata a tanuló, illetve a képzésben részt vevő személy szakmai oktatása, illetve szakmai képzése, a képzési és kimeneti követelményekben és a programkövetelményben meghatározott törzsanyag átadása, elsajátításának ellenőrzése, sajátos nevelési igényű tanuló, illetve képzésben részt vevő kiskorú személy esetén az egyéni fejlesztési tervben foglaltak figyelembevételével.
+(1) Az oktató alapvető feladata a tanuló, illetve a képzésben részt vevő személy szakmai oktatása, illetve szakmai képzése, az ahhoz kapcsolódó törzsanyag átadása, elsajátításának ellenőrzése, sajátos nevelési igényű vagy fogyatékkal élő személy esetén az egyéni fejlesztési tervben foglaltak figyelembevételével.
 
 (2) Az (1) bekezdéssel összefüggésben az oktató kötelessége, hogy
 
@@ -558,11 +578,11 @@ Az oktatót feladatának ellátásával összefüggésben megilleti az a jog, ho
 
 #### 51. § [Az oktatói testület]
 
-(1) Az oktatói testület a szakképző intézmény legfontosabb tanácskozó és döntéshozó szerve. Az oktatói testület a szakmai oktatási kérdésekben, a szakképző intézmény működésével kapcsolatos, e törvényben és a Kormány rendeletében meghatározott ügyekben döntési, egyebekben véleményező és javaslattevő jogkörrel rendelkezik.
+(1) Az oktatói testület a szakképző intézmény legfontosabb tanácskozó és döntéshozó szerve. Az oktatói testület a szakmai oktatási kérdésekben, a szakképző intézmény működésével kapcsolatos, e törvényben és a Kormány e törvény végrehajtására kiadott rendeletében meghatározott ügyekben döntési, egyebekben véleményező és javaslattevő jogkörrel rendelkezik.
 
 (2) Az oktatói testület dönt
 
-- 1. a szakképző intézmény szakmai programjának, illetve a szakmai képzés képzési programjának elfogadásáról,
+- 1. a szakképző intézmény szakmai programjának, illetve a szakképző intézmény által szervezett szakmai képzés képzési programjának elfogadásáról,
 - 2. a szakképző intézmény szervezeti és működési szabályzatának és házirendjének elfogadásáról,
 - 3. a szakképző intézmény éves munkatervének elfogadásáról,
 - 4. a szakképző intézmény munkáját átfogó elemzések, értékelések, beszámolók elfogadásáról,
@@ -578,7 +598,7 @@ Az oktatót feladatának ellátásával összefüggésben megilleti az a jog, ho
 
 #### 52. § [A szakmai munkaközösség]
 
-(1) A szakképző intézményben legalább öt oktató szakmai munkaközösséget hozhat létre. Egy szakképző intézményben legfeljebb tíz szakmai munkaközösség hozható létre.
+(1) A szakképző intézményben legalább öt oktató részvételével szakmai munkaközösség hozható létre. Egy szakképző intézményben egyidejűleg legfeljebb tíz szakmai munkaközösség működhet.
 
 (2) A szakmai munkaközösség részt vesz a szakképző intézmény szakmai munkájának irányításában, tervezésében, szervezésében és ellenőrzésében, összegző véleménye figyelembe vehető az oktatók értékelésében.
 
@@ -593,7 +613,7 @@ Az oktatót feladatának ellátásával összefüggésben megilleti az a jog, ho
 - a) a tanuló tanulói jogviszonyban,
 - b) a képzésben részt vevő személy felnőttképzési jogviszonyban
 
-áll. A tanulói jogviszony a szakképző intézmény és a tanuló között, a felnőttképzési jogviszony a szakképző intézmény, illetve a felnőttképző és a képzésben részt vevő személy között jön létre. A tanulói jogviszonyra az 54–72. §-t, a felnőttképzési jogviszonyra az Fktv.-t kell alkalmazni.
+áll. A tanulói jogviszony a szakképző intézmény és a tanuló között, a felnőttképzési jogviszony a szakképző intézmény, illetve a felnőttképző és a képzésben részt vevő személy között jön létre. A tanulói jogviszonyra az 54–72. §-t, a felnőttképzési jogviszonyra – az e törvényben és a Kormány e törvény végrehajtására kiadott rendeletében meghatározott eltéréssel – az Fktv.-t kell alkalmazni. A képzésben részt vevő személyre alkalmazni kell az 59. § (3) bekezdését, ha a szakképző intézményben felnőttképzési jogviszony keretében szakmai oktatásban vesz részt.
 
 (2) Tanulói jogviszony tanköteles kiskorúval, továbbá a nappali rendszerű szakmai oktatásban részt vevő tanulóval hozható létre annak a tanévnek az utolsó napjáig, amelyikben a tanuló a huszonötödik életévét betölti. A szakképző intézmény tanulójának tankötelezettségére az Nkt.-t kell alkalmazni.
 
@@ -602,9 +622,11 @@ Az oktatót feladatának ellátásával összefüggésben megilleti az a jog, ho
 (4) A felnőttképzési jogviszony keretében folyó szakmai oktatásban
 
 - a) a szakmai oktatás időtartama legfeljebb a negyedére,
-- b) az óraszám legfeljebb a nappali rendszerű szakmai oktatás óraszámának negyven százalékáig
+- b) a kötelező foglalkozások száma legfeljebb a nappali rendszerű szakmai oktatás kötelező foglalkozásai számának negyven százalékáig
 
 csökkenthető.
+
+(4a) A szakképző intézmény szakmai programjában meghatározottak szerint a tanuló, illetve a képzésben részt vevő személy korábbi tanulmányait, megszerzett ismereteit és gyakorlatát az adott szakmai oktatásra, illetve szakmai képzésre előírt – megegyező tartalmú – követelmények teljesítésébe be kell számítani. A beszámítás alapján a tanuló, illetve a képzésben részt vevő személy a tanulmányi követelményeket az előírtnál rövidebb idő alatt teljesítheti.
 
 (5) Az egyházi jogi személy, illetve a vallási egyesület által alapított, illetve fenntartott szakképző intézményben a tanulói jogviszony és a felnőttképzési jogviszony létrehozásának feltételeként kiköthető az adott vallás, világnézet elfogadása és annak igazolása.
 
@@ -672,13 +694,14 @@ Megszűnik a tanulói jogviszony
 
 #### 59. § [A tanuló juttatásai és az őt megillető további kedvezmények]
 
-(1) A tanuló a Kormány rendeletében meghatározottak szerint
+(1) A tanuló a Kormány rendeletében meghatározottak szerint ahhoz a szakképző intézményben szervezett szakmai oktatáshoz kapcsolódóan, amelyben ingyenesen vesz részt
 
-- a) – a duális képzőhelyen folytatott szakirányú oktatás kivételével – ösztöndíjra,
-- b) az első szakma megszerzéséhez kapcsolódóan egyszeri pályakezdési juttatásra,
-- c) rászorultsági helyzete és jó tanulmányi eredménye alapján pályázat útján támogatásra
+- a) az első szakma megszerzésével összefüggésben
+  - aa) – a szakirányú oktatásban szakképzési munkaszerződéssel részt vevő tanuló kivételével – ösztöndíjra és
+  - ab) egyszeri pályakezdési juttatásra,
+- b) rászorultsági helyzete és jó tanulmányi eredménye alapján pályázat útján támogatásra
 
-jogosult.
+jogosult. Az e bekezdés szerinti juttatásra vonatkozó követelést hat hónapnál régebbi időre bírósági úton akkor lehet visszamenőlegesen érvényesíteni, ha a jogosult a követelés érvényesítésével alapos ok miatt késlekedett. Három évnél régebbi időre az e bekezdés szerinti juttatásra vonatkozó követelés bírósági úton nem érvényesíthető.
 
 (2) A tanuló a szakképző intézmény útján vagy közvetlenül kérheti kollégiumi felvételét, valamint externátusi elhelyezését az Nkt. szerint. A tanuló tanítási évben (ideértve az évközi szünetek idejét is) és a szorgalmi időszakon kívüli egybefüggő gyakorlat idejében hazautazásra – a rendkívüli eseteket kivéve – nem kötelezhető.
 
@@ -688,9 +711,9 @@ jogosult.
 
 #### 60. § [A tanuló értékelése és minősítése]
 
-(1) A tanuló teljesítményét, előmenetelét az oktató a tanítási év közben rendszeresen érdemjeggyel értékeli, félévkor és a tanítási év végén osztályzattal minősíti. Ha a tanuló szakirányú oktatását nem a szakképző intézmény végzi, a szakirányú oktatással összefüggésben a tanuló teljesítményét, előmenetelét a duális képzőhely az oktatóval közösen értékeli és minősíti. Az ilyen értékelésre a szakképző intézmény szakmai programjában meghatározott, elsajátított tananyagrészenként megszervezett beszámolás keretében kerül sor. Az előkészítő évfolyamon – a nyelvi előkészítés kivételével – a tanulót kizárólag a tanítási év végén kell szövegesen minősíteni és dönteni az előrehaladásáról. A műhelyiskolában értékelés, minősítés nem alkalmazható.
+(1) A tanuló teljesítményét az oktató a tanítási év közben rendszeresen érdemjeggyel értékeli, félévkor és a tanítási év végén osztályzattal minősíti. Ha a tanuló szakirányú oktatását nem a szakképző intézmény végzi, a szakirányú oktatással összefüggésben a tanuló teljesítményét a duális képzőhely az oktatóval közösen értékeli és minősíti. Az ilyen értékelésre a szakképző intézmény szakmai programjában meghatározott, elsajátított tananyagrészenként megszervezett beszámolás keretében kerül sor. Az előkészítő évfolyamon – a nyelvi előkészítés kivételével – a tanulót kizárólag a tanítási év végén kell szövegesen minősíteni és dönteni az előrehaladásáról. A műhelyiskolában értékelés, minősítés nem alkalmazható.
 
-(2) A sajátos nevelési igényű tanulót, ha egyéni adottsága, fejlettsége szükségessé teszi, az igazgató mentesíti
+(2) A tanulói jogviszonyban álló sajátos nevelési igényű vagy fogyatékkal élő személyt, ha egyéni adottsága, fejlettsége szükségessé teszi, az igazgató az Nkt. szerinti szakértői bizottság szakvéleménye alapján mentesíti
 
 - a) az érdemjegyekkel történő értékelés és osztályzatokkal történő minősítés alól, és ehelyett szöveges értékelés és minősítés alkalmazását írja elő,
 - b) – a szakirányú oktatás kivételével – egyes tantárgyakból, tantárgyrészekből az értékelés és a minősítés alól.
@@ -701,13 +724,7 @@ jogosult.
 
 A tanuló kérelmére – kiskorú esetében a kiskorú tanuló törvényes képviselőjének kérelmére – a Kormány rendeletében meghatározott kedvezményekben részesíthető, ha egyéni adottságai, sajátos nevelési igénye vagy egyéb helyzete ezt indokolttá teszi.
 
-#### 62. § [A korábbi tanulmányok, gyakorlat beszámítása]
-
-A szakképző intézmény szakmai programjában meghatározottak szerint
-
-- a) a szakképző intézményben, a köznevelési intézményben és a felsőoktatási intézményben folytatott tanulmányokat az adott szakmára előírt – megegyező tartalmú – követelmények teljesítésébe be kell számítani,
-- b) a szakképzés megkezdése előtt foglalkoztatásra irányuló jogviszonyban eltöltött szakirányú gyakorlati időt a szakirányú oktatás idejébe be kell számítani,
-- c) a tanulmányi követelmények az előírtnál rövidebb idő alatt is teljesíthetők.
+#### 62. §
 
 #### 63. § [A magasabb évfolyamba lépés]
 
@@ -827,7 +844,7 @@ A szakirányú oktatás célja, hogy a tanuló, illetve a képzésben részt vev
 - a) a szakképző intézményben vagy
 - b) szakképzési munkaszerződéssel a duális képzőhelyen
 
-vehet részt. A szakképző intézményben a szakirányú oktatás akkor teljesíthető, ha a tanuló, illetve a képzésben részt vevő személy duális képzőhelyen való részvétele a szakirányú oktatásban a gazdasági kamara közreműködése mellett sem biztosítható. Ha a szakmai oktatás célját szolgálja, a szakirányú oktatás teljesíthető külföldön is, amelynek időtartama nem haladhatja meg a szakirányú oktatás időtartamának egynegyedét.
+vehet részt. A szakképző intézményben a szakirányú oktatás akkor teljesíthető, ha a tanuló, illetve a képzésben részt vevő személy duális képzőhelyen való részvétele a szakirányú oktatásban nem biztosítható. Ennek tényét a gazdasági kamara – belső szabályozó eszközében meghatározott módon – igazolja. Ha a szakmai oktatás célját szolgálja, a szakirányú oktatás teljesíthető külföldön is, amelynek időtartama nem haladhatja meg a szakirányú oktatás időtartamának egynegyedét.
 
 (2) A szakirányú oktatásban való részvétel kötelező.
 
@@ -874,7 +891,7 @@ biztosítanak a munkavállaló részére. E rendelkezések alkalmazásában munk
 
 #### 80. § [A szakirányú oktatás megszervezése]
 
-(1) Szakirányú oktatást a duális képzőhely, illetve a szakképző intézmény (a továbbiakban együtt: szakirányú oktatást folytató szervezet) folytathat.
+(1) Szakirányú oktatást a duális képzőhely, illetve a szakképző intézmény (a továbbiakban együtt: szakirányú oktatást folytató szervezet) szervezhet.
 
 (2) A szakirányú oktatás követelményeire való felkészítéshez szükséges tárgyi eszközöket és személyi feltételeket a szakirányú oktatást folytató szervezet biztosítja.
 
@@ -888,9 +905,11 @@ biztosítanak a munkavállaló részére. E rendelkezések alkalmazásában munk
 
 létrehozott nonprofit gazdasági társaság ágazati képzőközpontként működhet.
 
-(2) A szakirányú oktatás és az Nftv. szerinti duális képzés egy képzőközpontban történő megvalósítása céljából a felsőoktatási intézmény és a szakképzési centrum együttesen legalább ötvenegy százalékos tulajdoni hányadával létrehozott nonprofit gazdasági társaság tudásközpontként működhet.
+(1a) Az (1) bekezdés a) pontja szerint létesített ágazati képzőközpontban a szakmai szervezet – ha jogszabály vagy létesítő okirat a társasági részesedésszerzés lehetőségét nem zárja ki – legfeljebb tízszázalékos tulajdoni hányadot szerezhet.
 
-(3) Önállóan vagy más gazdálkodó szerv megbízása alapján szakirányú oktatás folytatása céljából a saját tanműhellyel rendelkező, a Kkvtv. szerinti mikro-, kis- és középvállalkozásnál nagyobb gazdálkodó szervezet, ha utolsó éves nettó árbevételének legalább kilencven százaléka vállalkozási tevékenységből származik, saját szervezetén belül vállalati képzőközpontot működtethet.
+(2) A szakirányú oktatás és az Nftv. szerinti duális képzés egy képzőközpontban történő megvalósítása céljából a felsőoktatási intézmény és a szakképzési centrum együttesen legalább ötvenegy százalékos tulajdoni hányadával létrehozott ágazati képzőközpont tudásközpontként működhet.
+
+(3) Önállóan vagy más gazdálkodó szervezet megbízása alapján folytatandó szakirányú oktatás céljából a saját tanműhellyel rendelkező, a Kkvtv. hatálya alá nem tartozó gazdálkodó szervezet, ha utolsó éves nettó árbevételének legalább kilencven százaléka vállalkozási tevékenységből származik, saját szervezetén belül vállalati képzőközpontot működtethet.
 
 (4) Az ágazati képzőközpont és a tudásközpont szervezeti minőséget – a társaság alapításakor vagy később – a gazdasági társaság kérelmére a cégbíróság állapítja meg. A gazdasági társaság az ágazati képzőközponti és a tudásközponti szervezeti minőséget cégnevében feltüntetheti.
 
@@ -898,7 +917,7 @@ létrehozott nonprofit gazdasági társaság ágazati képzőközpontként műk�
 
 (1) Duális képzőhelyként az a képzőközpont vagy – a szakképző intézmény kivételével – más olyan gazdálkodó szervezet vehető nyilvántartásba,
 
-- a) amelynél a szakirányú oktatás folytatásának feltételei biztosítottak,
+- a) amelynél a szakirányú oktatás megszervezésének feltételei biztosítottak,
 - b) amely a Kormány rendeletében meghatározott végzettséggel és szakképesítéssel vagy szakképzettséggel és gyakorlattal rendelkező személyt foglalkoztat,
 - c) amely a duális képzőhely által vállalt szakirányú oktatáshoz szükséges eszközzel és felszereléssel rendelkezik és
 - d) a 19. § (3) bekezdése szerinti minőségirányítási rendszert működtet vagy legalább a gazdasági kamara által kidolgozott szempontrendszerben meghatározott minőségi követelményeknek megfelel.
@@ -939,6 +958,8 @@ létrehozott nonprofit gazdasági társaság ágazati képzőközpontként műk�
 
 (6) A szakképzési munkaszerződés alapján foglalkoztatott tanuló, illetve képzésben részt vevő személy esetében az Mt. 56. §-a, 193–213. §-a, 214–222. §-a és 228–229. §-a nem alkalmazható, az Mt. 277. § (2) bekezdését és 279. § (3) bekezdését pedig azzal az eltéréssel kell alkalmazni, hogy a tanulóra, illetve a képzésben részt vevő személyre a munkáltatónál érvényben lévő kollektív szerződésnek csak az Mt.-ben, e törvényben és e törvények végrehajtási rendeleteiben foglaltaknál kedvezőbb feltételeket meghatározó rendelkezéseinek a hatálya terjedhet ki. Ezt a rendelkezést kell alkalmazni a munkáltatónál az Mt. 268. §-a szerint érvényben lévő üzemi megállapodásra is. Az Mt. 276. § (2) bekezdés szerinti létszám számításánál a tanuló, illetve a képzésben részt vevő személy nem vehető figyelembe. A tanuló, illetve a képzésben részt vevő személy az üzemi tanács tagjává nem választható, és az üzemi tanács választásán szavazati joggal nem rendelkezik.
 
+(7) Ha a szakképzési munkaszerződés megkötésére más munkáltatóval fennálló, foglalkoztatásra irányuló jogviszony mellett kerül sor, a tanuló, illetve a képzésben részt vevő személy tekintetében a 77. § (2) bekezdése nem alkalmazható, a 84. § (4) bekezdését és a 85. § (1) és (2) bekezdését pedig a szakképzési munkaszerződés alapján létrejövő munkaviszony időtartamával arányosan kell alkalmazni.
+
 #### 84. § [Munka- és pihenőidő, mentesülés a munkavégzési kötelezettség alól]
 
 (1) A tanuló, illetve a képzésben részt vevő személy teljes napi munkaideje nem haladhatja meg a 78. § (1) bekezdésében meghatározott mértéket.
@@ -949,9 +970,9 @@ létrehozott nonprofit gazdasági társaság ágazati képzőközpontként műk�
 
 (4) A tanulót, illetve a képzésben részt vevő személyt a tizennyolcadik életévének betöltése évének utolsó napjáig évente negyvenöt munkanap, ezt követően évente harminc munkanap szabadság illeti meg. A szabadság kiadásánál figyelemmel kell lenni az őszi, téli, tavaszi és nyári szünet rendjére. A nyári szünetben legalább tizenöt munkanap szabadságot a tanuló, illetve a képzésben részt vevő személy kérésének megfelelő időpontban egybefüggően kell kiadni.
 
-(5) A tanuló, illetve a képzésben részt vevő személy mentesül rendelkezésre állási és munkavégzési kötelezettségének teljesítése alól a közismereti oktatás időtartamára.
+(5) A tanuló, illetve a képzésben részt vevő személy a Kormány e törvény végrehajtására kiadott rendeletében meghatározott esetben mentesül rendelkezésre állási és munkavégzési kötelezettségének teljesítése alól.
 
-(6) A duális képzőhely érettségi vizsgatárgyanként – az érettségi vizsga napját is beszámítva – négy munkanapra köteles a tanulót, illetve a képzésben részt vevő személyt mentesíteni a munkavégzési kötelezettsége alól. A tanulót, illetve a képzésben részt vevő személyt a szakmai vizsga előtt a szakmai vizsgára való felkészülés céljából egy alkalommal legalább tizenöt munkanap egybefüggő felkészülési idő illeti meg, amelyet a szakképző intézményben kell eltölteni.
+(6) A duális képzőhely érettségi vizsgatárgyanként – az érettségi vizsga napját is beszámítva – négy munkanapra köteles a tanulót, illetve a képzésben részt vevő személyt mentesíteni a munkavégzési kötelezettsége alól. A tanulót, illetve a képzésben részt vevő személyt a szakmai vizsga előtt a szakmai vizsgára való felkészülés céljából egy alkalommal legalább tizenöt munkanap egybefüggő felkészülési idő illeti meg, amelyet a szakképző intézményben vagy a duális képzőhelynek a szakképző intézménnyel kötött megállapodása alapján vállalati képzőközpontban, vagy olyan képzőközpontban kell eltölteni, amiben a szakképzési centrum tulajdoni részesedéssel rendelkezik.
 
 #### 85. § [A szakképzési munkaszerződés alapján járó munkabér]
 
@@ -1023,23 +1044,23 @@ A tanuló, illetve a képzésben részt vevő személy és a duális képzőhely
 
 #### 91. § [Az ágazati alapvizsga]
 
-(1) Az ágazati alapvizsga állami vizsga, amely a tanulónak, illetve a képzésben részt vevő személynek az adott ágazatban történő munkavégzéshez szükséges szakmai alaptudását és kompetenciáit országosan egységes eljárás keretében méri. A tanuló, illetve a képzésben részt vevő személy az ágazati alapoktatás elvégzését követően tehet ágazati alapvizsgát.
+(1) Az ágazati alapvizsga a tanulónak, illetve a képzésben részt vevő személynek az adott ágazatban történő munkavégzéshez szükséges szakmai alaptudását és kompetenciáit méri. A tanuló, illetve a képzésben részt vevő személy az ágazati alapoktatás elvégzését követően tehet ágazati alapvizsgát.
 
 (2) Az ágazati alapvizsga az adott ágazatba tartozó valamennyi szakma tekintetében azonos szakmai tartalmát a képzési és kimeneti követelmények határozzák meg.
 
-(3) A szakképző intézmény által szervezett ágazati alapvizsgát a szakképző intézmény oktatóiból és az elnökből álló vizsgabizottság előtt kell letenni. A vizsgabizottság elnökét a szakképző intézmény székhelye szerint illetékes területi gazdasági kamara delegálja. A vizsgabizottság elnöke a Kormány rendeletében meghatározott díjazásra jogosult.
+(3) A szakképző intézmény által szervezett ágazati alapvizsgát a szakképző intézmény oktatóiból és az elnökből álló vizsgabizottság előtt kell letenni. A vizsgabizottság elnökét a szakképző intézmény feladatellátási helye szerint illetékes területi gazdasági kamara delegálja. A vizsgabizottság elnöke a Kormány rendeletében meghatározott díjazásra jogosult.
 
-(4) Az ágazati alapvizsga teljesítését az év végén adott bizonyítványba kell bejegyezni. Az ágazati alapvizsga bizonyítványba bejegyzett teljesítése a képzési és kimeneti követelményekben meghatározott munkakör betöltésére való alkalmasságot igazol.
+(4) Az ágazati alapvizsga teljesítését a bizonyítványba kell bejegyezni. Az ágazati alapvizsga bizonyítványba bejegyzett teljesítése a képzési és kimeneti követelményekben meghatározott munkakör betöltésére való alkalmasságot igazol.
 
 #### 21. Az érettségi vizsga
 
 #### 92. § [Az érettségi vizsga]
 
-(1) Az érettségi vizsgán a tanuló, illetve a képzésben részt vevő személy az Nkt.-ban meghatározott vizsgatárgyakból ad számot tudásáról azzal, hogy az érettségi vizsga kötelezően választandó vizsgatárgya helyett szakmai vizsgát kell tenni. A technikumban folytatott tanulmányokhoz kapcsolódóan letett szakmai vizsga a tanuló, illetve a képzésben részt vevő személy adott vizsgatárgyból letett emelt szintű érettségi vizsgájának felel meg. Az érettségi vizsgáról valamennyi érettségi vizsgatárgy és a szakmai vizsga sikeres letételét követően lehet bizonyítványt kiállítani.
+(1) Az érettségi vizsgán a tanuló, illetve a képzésben részt vevő személy az Nkt.-ban meghatározott vizsgatárgyakból ad számot tudásáról azzal, hogy az érettségi vizsga kötelezően választandó vizsgatárgya helyett szakmai vizsgát kell tenni. A technikumban folytatott tanulmányokhoz kapcsolódóan letett szakmai vizsga a tanuló, illetve a képzésben részt vevő személy adott vizsgatárgyból letett emelt szintű érettségi vizsgájának felel meg. Az érettségi vizsgáról valamennyi érettségi vizsgatárgy és a szakmai vizsga sikeres letételét követően lehet érettségi bizonyítványt kiállítani.
 
 (2) Az, aki a szakképző iskolában folytatott tanulmányokhoz kapcsolódóan szakmát szerzett és annak megszerzését követően kíván érettségi vizsgát tenni, mentesül az érettségi vizsga kötelezően választandó vizsgatárgya alól.
 
-(3) Az érettségi vizsgán az érettségi vizsga kötelező vizsgatárgyai helyett a sajátos nevelési igényű tanuló – jogszabályban meghatározottak szerint – másik tantárgyat választhat.
+(3) Az érettségi vizsgán az érettségi vizsga kötelező vizsgatárgyai helyett a sajátos nevelési igényű vagy fogyatékkal élő személy – jogszabályban meghatározottak szerint – másik tantárgyat választhat.
 
 (4) Az érettségi vizsga megszervezésére és lebonyolítására az Nkt.-t kell alkalmazni.
 
@@ -1064,11 +1085,19 @@ A tanuló, illetve a képzésben részt vevő személy és a duális képzőhely
 
 (6) Szakma megszerzéséről kiállított oklevelet, illetve szakmai bizonyítványt az kaphat, aki sikeres szakmai vizsgát tett.
 
-### XIV. Fejezet — A SAJÁTOS NEVELÉSI IGÉNYŰ TANULÓ, ILLETVE KÉPZÉSBEN RÉSZT VEVŐ KISKORÚ SZEMÉLY ÉS A BEILLESZKEDÉSI, TANULÁSI, MAGATARTÁSI NEHÉZSÉGGEL KÜZDŐ TANULÓ FELKÉSZÍTÉSE ÉS SZAKMAI VIZSGÁJA
+#### 22/A. A képesítő vizsga
 
-#### 94. § [Eljárás a sajátos nevelési igényű tanuló, illetve képzésben részt vevő kiskorú személy és a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló felkészítése és szakmai vizsgája során]
+#### 93/A. § [A képesítő vizsga]
 
-(1) A sajátos nevelési igényű tanuló, illetve képzésben részt vevő kiskorú személy részére az egészségügyi alkalmassági követelmények, a pályaalkalmassági követelmények és a fogyatékkal élő emberek egyenlő esélyű hozzáférésének figyelembevételével a Kormány rendeletében meghatározott kedvezmények útján kell biztosítani a sajátos nevelési igény, illetve a fogyatékosság jellegéhez igazodó felkészítést és vizsgáztatást. A sajátos nevelési igényű tanuló, illetve képzésben részt vevő kiskorú személy számára biztosított kedvezményeket megállapító rendelkezéseket a képzésben részt vevő fogyatékkal élő nagykorú személyre is alkalmazni kell.
+(1) A képesítő vizsga az akkreditált vizsgaközpont által szervezett, a szakmai képzésben elsajátított és a programkövetelményben a szakmai képzéshez kapcsolódóan megszerezhető szakképesítésre meghatározott kimeneti követelmények mérésére szolgáló vizsga.
+
+(2) Képesítő bizonyítványt az kaphat, aki sikeres képesítő vizsgát tett.
+
+### XIV. Fejezet — A SAJÁTOS NEVELÉSI IGÉNYŰ VAGY FOGYATÉKKAL ÉLŐ SZEMÉLY ÉS A BEILLESZKEDÉSI, TANULÁSI, MAGATARTÁSI NEHÉZSÉGGEL KÜZDŐ TANULÓ FELKÉSZÍTÉSE ÉS SZAKMAI VIZSGÁJA
+
+#### 94. § [Eljárás a sajátos nevelési igényű vagy fogyatékkal élő személy és a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló felkészítése és szakmai vizsgája során]
+
+(1) A sajátos nevelési igényű vagy fogyatékkal élő személy részére az egészségügyi alkalmassági követelmények, a pályaalkalmassági követelmények és a fogyatékkal élő emberek egyenlő esélyű hozzáférésének figyelembevételével a Kormány rendeletében meghatározott kedvezmények útján kell biztosítani a sajátos nevelési igény, illetve a fogyatékosság jellegéhez igazodó felkészítést és vizsgáztatást.
 
 (2) Ha a tanuló beilleszkedési, tanulási, magatartási nehézséggel küzd, fejlesztőpedagógiai ellátásban és a Kormány rendeletében meghatározott kedvezményben részesül.
 
@@ -1091,15 +1120,16 @@ A Kormány a szakképzésért felelős miniszter útján irányítja a szakképz
 - c) kiadja a képzési és kimeneti követelményeket és a programtantervet a Kormány adott ágazatért felelős tagjának egyetértésével,
 - d) vezeti a szakmai képzéshez kapcsolódóan megszerezhető szakképesítések programkövetelményeinek nyilvántartását,
 - e) – a Kormány adott ágazatért felelős tagjának egyetértésével –
-  - ea) kidolgoztatja a szakképzési tankönyveket, digitális tananyagokat és egyéb tanulmányi segédleteket,
-  - eb) gondoskodik a szakmai vizsga központi vizsgatevékenysége és interaktív vizsgatevékenysége tartalmának meghatározásáról, értékelési útmutatóinak és egyéb dokumentumainak kidolgozásáról és rendelkezésre állásáról,
+  - ea) javaslatot tesz a Kormány számára a szakmajegyzék megállapítására,
+  - eb) kidolgoztatja a szakképzési tankönyveket,
+  - ec) gondoskodik a szakmai vizsga központi vizsgatevékenysége és interaktív vizsgatevékenysége tartalmának meghatározásáról, értékelési útmutatóinak és egyéb dokumentumainak kidolgozásáról és rendelkezésre állásáról,
 - f) gondoskodik a Szakképzési Innovációs Tanács működéséhez szükséges feltételek biztosításáról,
 - g) működteti a szakképzési tájékoztatási és információs központot,
 - h) ellátja a szakképzéshez kapcsolódó kutató és fejlesztő-szolgáltató feladatokat és kidolgozza az oktatók értékelésének módszertanát,
 - i) gondoskodik a regisztrációs és tanulmányi alaprendszer és annak részeként a korai iskolaelhagyás megelőzését támogató rendszer, valamint a zárt rendszerű távoktatási képzésmenedzsment rendszer működtetéséről,
 - j) végzi a jogszabályban meghatározott egyéb feladatokat.
 
-(2) A szakképzésért felelős miniszter a könyvkiadást folytató jogi személy, illetve egyházi jogi személy kérelme alapján – a Kormány adott ágazatért felelős tagjának egyetértésével – dönt a tankönyvvé nyilvánításról és a tankönyvvé nyilvánítás megszüntetéséről. A szakképzési államigazgatási szerv a szakképzésért felelős miniszter döntése alapján veszi fel a szakképzési tankönyvet a tankönyvjegyzékre. A tankönyvjegyzék szakképzési tantárgyanként legfeljebb kettő szakképzési tankönyvet tartalmazhat. A tankönyvellátásra egyebekben az Nkt.-t kell alkalmazni.
+(2) A szakképzésért felelős miniszter a könyvkiadást, illetve a digitális tananyagfejlesztést folytató személy kérelme alapján – a Kormány adott ágazatért felelős tagjának egyetértésével – dönt a szakképzési tankönyvvé nyilvánításról, annak módosításáról, meghosszabbításáról és megszüntetéséről. Az eljárásban az ügyintézési határidő három hónap. A szakképzési tankönyvvé nyilvánítással, annak módosításával és meghosszabbításával összefüggő eljárásban a Kormány e törvény végrehajtására kiadott rendeletében meghatározottak szerinti szakértő kirendelése kötelező. A szakképzési államigazgatási szerv a szakképzésért felelős miniszter döntése alapján hivatalbóli eljárás keretében veszi fel a szakképzési tankönyvjegyzékre, illetve törli a szakképzési tankönyvet a szakképzési tankönyvjegyzékről. A könyvkiadást, illetve a digitális tananyagfejlesztést folytató személy a szakképzési tankönyvvé nyilvánítás és annak módosítása és meghosszabbítása iránti eljárásért, valamint annak a könyvkiadást, illetve a digitális tananyagfejlesztést folytató személy kérelmére történő megszüntetéséért – a kérelem benyújtásával egyidejűleg – igazgatási szolgáltatási díjat fizet. Az igazgatási szolgáltatási díj a szakképzésért felelős miniszter által vezetett minisztérium bevétele.
 
 #### 97. § [A szakképzési államigazgatási szerv feladata]
 
@@ -1108,7 +1138,7 @@ A szakképzési államigazgatási szerv
 - a) vezeti a szakképző intézmények nyilvántartását és dönt a működési engedéllyel kapcsolatos ügyekben,
 - b) elektronikus felületet működtet a szakmai vizsgához kapcsolódóan és elbírálja a szakmai vizsgával összefüggő jogorvoslati kérelmeket,
 - c) vezeti a szakmai vizsgák adatainak, továbbá a kiadott oklevelek, szakmai bizonyítványok, képesítő bizonyítványok és a vizsgatörzslapok központi nyilvántartását és az annak részként kezelt személyes adatokat a keletkezésük évétől számított ötvenedik év utolsó napjáig őrzi,
-- d) kezeli a szakképzési tankönyvjegyzéket és végzi a szakképzési tankönyvvé nyilvánítással és tankönyvjegyzékkel kapcsolatos döntés-előkészítő feladatokat,
+- d) vezeti a szakképzési tankönyvjegyzéket és végzi a szakképzési tankönyvvé nyilvánítással, annak módosításával, meghosszabbításával és megszüntetésével kapcsolatos döntés-előkészítő feladatokat,
 - e) működteti a pedagógiai-szakmai szolgáltatásnyújtási tevékenységet,
 - f) működteti a szakképzés információs rendszerét,
 - g) működteti a nemzeti referencia- és koordináló központot,
@@ -1139,13 +1169,13 @@ A szakképzési államigazgatási szerv
 (2) Az ágazati készségtanács folyamatosan figyelemmel kíséri a saját ágazatában a szakképzési szerkezet fejlesztését, a gazdasági, munkaerő-piaci, technikai-technológiai folyamatokat, és ennek alapján
 
 - a) szakvéleményt ad a szakmai képzés programkövetelményének nyilvántartásba vételével összefüggésben,
-- b) kidolgozott javaslatot tesz
-  - ba) a szakmai oktatás időtartamára, a képzési és kimeneti követelményekre, a tankönyvek és egyéb tanulmányi segédletek tartalmára,
-  - bb) a szakképzés képzési rendszerének működtetésére,
-  - bc) az ágazati alapoktatás szakmai tartalmának meghatározására és
-- c) előrejelzést készít a szakképzés rövid és középtávú fejlesztése irányainak, céljainak tervezése, meghatározása érdekében.
+- b) kidolgozott javaslatot tehet
+  - ba) a szakmajegyzékre,
+  - bb) a szakmai oktatás időtartamára, a képzési és kimeneti követelményekre és az ágazati alapoktatás szakmai tartalmára,
+  - bc) új szakképzési tankönyv kidolgozására és tartalmára, és
+- c) előrejelzést készít a szakképzés rövid és középtávú fejlesztési irányainak, céljainak tervezése, meghatározása érdekében.
 
-(3) Az ágazati készségtanács tesz javaslatot a szakmajegyzék meghatározására. Az ágazati készségtanács javaslata hiányában a szakmajegyzéket a Kormány a szakképzésért felelős miniszter – a Kormány adott ágazatért felelős tagjának egyetértésével tett – javaslatára állapítja meg.
+(3)
 
 #### 100. § [A gazdasági kamara]
 
@@ -1158,7 +1188,7 @@ A szakképzési államigazgatási szerv
   - cb) vezeti a duális képzőhelyek nyilvántartását,
   - cc) elősegíti a szakképzési munkaszerződések megkötését, ennek érdekében ösztönzi a gazdálkodó szervezeteket a szakképzésben való részvételre,
   - cd) minősíti és ellenőrzi a duális képzőhelyek szakirányú oktatási tevékenységét,
-- d) a szakmai vizsga helyszíne szerint illetékes területi gazdasági kamara útján delegálja az ágazati alapvizsga elnökét és a szakmai vizsga vizsgabizottság ellenőrzési feladatokat ellátó tagját,
+- d) – a Kormány e törvény végrehajtására kiadott rendeletében meghatározott eltéréssel – a szakmai vizsga helyszíne szerint illetékes területi gazdasági kamara útján delegálja az ágazati alapvizsga elnökét és a szakmai vizsga vizsgabizottság ellenőrzési feladatokat ellátó tagját,
 - e) – a szakképzésért felelős miniszter jóváhagyásával – kialakítja a kamarai gyakorlati oktatói képzés és vizsga képzési és vizsgakövetelményeit és szervezi a kamarai gyakorlati oktatói képzést és vizsgát,
 - f) – az országos gazdasági érdekképviseleti szervekkel együttműködve – szervezi a mestervizsgára felkészítő, a szakmai tevékenység mesterszintű gyakorlásához szükséges mesterképzést és -vizsgáztatást,
 - g) a tanulmányi versenyekkel összefüggésben
@@ -1201,7 +1231,7 @@ A szakképzés ellenőrzési rendszere
 
 #### 103. § [Az ellenőrzés végzésének követelményei]
 
-(1) A hatósági ellenőrzést az általános közigazgatási rendtartásról szóló törvény alapján kell végezni. A hatósági ellenőrzés lefolytatására jogosult közigazgatási szankcióként figyelmeztetést, közigazgatási bírságot, a duális képzőhellyel szemben figyelmeztetést, közigazgatási bírságot vagy annak kiszabását követő két éven belül azonos jogsértés esetén a szakirányú oktatás folytatásától legfeljebb három évre történő eltiltást alkalmazhat.
+(1) A hatósági ellenőrzést az általános közigazgatási rendtartásról szóló törvény alapján kell végezni. A hatósági ellenőrzés lefolytatására jogosult közigazgatási szankcióként figyelmeztetést, közigazgatási bírságot, a duális képzőhellyel szemben figyelmeztetést, közigazgatási bírságot vagy annak kiszabását követő két éven belül azonos jogsértés esetén a szakirányú oktatás megszervezésére irányuló tevékenység folytatásától legfeljebb három évre történő eltiltást alkalmazhat.
 
 (2) A minőségirányítási rendszer külső értékelése keretében kell értékelni a szakmai tevékenységet és a szakképző intézmény alkalmazottjának munkáját. A külső értékelés eredményét a szakképző intézmény a honlapján nyilvánosságra hozza.
 
@@ -1260,7 +1290,7 @@ kell megosztania.
 
 (2) A bruttó kötelezettség csökkenthető
 
-- a) a fenntartói megállapodással, az Nkt. 88. § (6) bekezdése szerinti szakképzési megállapodással vagy együttműködési megállapodással rendelkező fenntartó által fenntartott
+- a) az állam, illetve az együttműködési megállapodással rendelkező fenntartó által fenntartott
   - aa) szakképző intézménnyel tanulói jogviszonyban álló tanulónként, illetve felnőttképzési jogviszonyban álló képzésben részt vevő személyenként a szakirányú oktatás, illetve
   - ab) szakiskolával tanulói jogviszonyban álló tanulónként az Nkt. 13/A. § (3) bekezdése szerinti nevelés-oktatás
 
@@ -1303,18 +1333,13 @@ a naptári évre maga állapítja meg, elektronikus úton vallja be és fizeti m
 
 (1) A szakképzésialapfeladat-ellátás fedezetét a fenntartó saját költségvetése terhére biztosítja. A szakképző intézményben szervezett szakirányú oktatás költségei a fenntartót, a duális képzőhely által szervezett szakirányú oktatás költségei az e törvényben meghatározottak szerint a duális képzőhelyet terhelik.
 
-(2) A fenntartói megállapodással rendelkező fenntartó a központi költségvetésről szóló törvényben meghatározott támogatásra jogosult az általa fenntartott szakképző intézményben ellátott szakképzési alapfeladatra tekintettel. A támogatást az állami szakképző intézmény támogatásával azonos mértékben kell megállapítani
-
-- a) a bevett egyház és
-- b) a szakképzésialapfeladat-ellátásra kiterjedő együttműködési megállapodással rendelkező más fenntartó
-
-számára. A Magyar Katolikus Egyház az állami szakképző intézmény támogatásával azonos mértékű támogatásra a Magyarország és az Apostoli Szentszék között létrejött nemzetközi szerződés alapján jogosult.
+(2) Az együttműködési megállapodással rendelkező fenntartó jogszabályban meghatározott támogatásra jogosult az általa fenntartott szakképző intézményben ellátott szakképzési alapfeladatra vagy szakmai képzésre tekintettel. A támogatási rendszert úgy kell kialakítani, hogy az biztosítsa a fenntartó és az általa fenntartott szakképző intézmény bevételi érdekeltségének fenntartását. A támogatást az állami szakképző intézmény támogatásával azonos mértékben kell megállapítani a bevett egyház számára. A Magyar Katolikus Egyház az állami szakképző intézmény támogatásával azonos mértékű támogatásra a Magyarország és az Apostoli Szentszék között létrejött nemzetközi szerződés alapján jogosult.
 
 (3) Együttműködési megállapodás
 
 - a) az állammal a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 9. § (2) bekezdése szerinti átfogó megállapodást kötött jogi személyiséggel rendelkező vallási közösséggel – az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter egyetértésével –,
 - b) a nemzetiségi önkormányzattal – a nemzetiségpolitikáért felelős miniszter egyetértésével – és
-- c) társadalmi támogatottsága vagy kiemelkedő jelentőségű közfeladatellátása alapján más nem állami fenntartóval
+- c) társadalmi támogatottsága vagy kiemelkedő jelentőségű közfeladatellátása alapján más fenntartóval
 
 köthető. Az együttműködési megállapodást az állam nevében a szakképzésért felelős miniszter írja alá. Az együttműködési megállapodásban meg kell határozni azt a keretszámot, ami után a központi költségvetés támogatást biztosít.
 
@@ -1333,7 +1358,11 @@ köthető. Az együttműködési megállapodást az állam nevében a szakképz�
   - bc) követeléseinek behajtásáért, a pénzügyi garanciák érvényesítéséért,
 - c) ellátja az Alap képzési alaprészével kapcsolatos, jogszabályban meghatározott egyéb feladatokat.
 
-(3) Az Alap képzési alaprészének felhasználásával kapcsolatos feladatok ellátására a szakképzésért felelős miniszter a Kormány rendeletében meghatározott kezelő szervet vehet igénybe.
+(3)
+
+#### 110/A. § [Kezelő szerv igénybevétele]
+
+Az e törvény és a Kormány e törvény végrehajtására kiadott rendelete alapján a szakképzés finanszírozásával és az Alap képzési alaprészének felhasználásával kapcsolatos feladatok ellátására a szakképzésért felelős miniszter a Kormány e törvény végrehajtására kiadott rendeletében meghatározott kezelő szervet vehet igénybe.
 
 ### XIX. Fejezet — A SZAKKÉPZÉS INFORMÁCIÓS RENDSZERE
 
@@ -1400,6 +1429,8 @@ A korai iskolaelhagyás megelőzését támogató rendszer a Kormány rendeleté
 - d) a felnőttképzési jogviszonnyal kapcsolatos adatok keretében a c) pont cb)–cf) és ci)–ck) alpontjában meghatározott adatokat,
 - e) jogszabályban biztosított kedvezményekre való igényjogosultság elbírálásához és igazolásához szükséges olyan adatokat, amelyekből megállapítható a jogosult személye és a kedvezményre való jogosultsága.
 
+(1a) A szakképző intézmény a tanulmányi kötelezettség teljesítésének biztosítása és ellenőrzése céljából kezeli a tanuló, illetve a képzésben részt vevő személy szakképzési munkaszerződéssel összefüggésben keletkezett és az állami adó- és vámhatóság által számára átadott adatát. Ezzel összefüggésben az állami adó- és vámhatóság a szakképzési munkaszerződéshez kapcsolódóan az adózás rendjéről szóló 2017. évi CL. törvény 50. § (2) bekezdés 1., 3., 5., 9., 14. és 15. pontjában meghatározott adatokat a tanuló, illetve a képzésben részt vevő személy természetes személyazonosító adatainak összevetése útján – az e törvényben vagy a Kormány e törvény végrehajtására kiadott rendeletében a szakképzés irányításával és ellenőrzésével összefüggésben meghatározott feladatok ellátása céljából – a szakképzési államigazgatási szerv részére a szakképzés információs rendszerén keresztül átadja. Az állami adó- és vámhatóság az adatszolgáltatást havonta, a bejelentést követő tizenöt napon belül teljesíti.
+
 (2) A szakképző intézmény az alkalmazottja foglalkoztatása, számára a juttatások, kedvezmények, kötelezettségek megállapítása és teljesítése, továbbá az e törvényben meghatározott nyilvántartások vezetése céljából kezeli
 
 - a) az alkalmazott
@@ -1438,7 +1469,7 @@ A korai iskolaelhagyás megelőzését támogató rendszer a Kormány rendeleté
 - a) a tanuló családi és utóneve, születési helye és ideje, lakóhelye, tartózkodási helye, törvényes képviselője családi és utóneve, lakcíme és telefonszáma, a tanulói jogviszony kezdete, szünetelésének ideje, megszűnése, az egyéni tanulmányi renddel kapcsolatos adatok, a tanuló mulasztásával kapcsolatos adatok a tartózkodásának megállapítása, a tanítási napon a foglalkozástól való távolmaradás jogszerűségének ellenőrzése és a törvényes képviselővel való kapcsolatfelvétel céljából, a tanulói jogviszony fennállásával, a tankötelezettség teljesítésével összefüggésben a fenntartó, a bíróság, a rendőrség, az ügyészség, a települési önkormányzat jegyzője, a közigazgatási szerv és a nemzetbiztonsági szolgálat részére,
 - b) a tanuló felvételével, átvételével kapcsolatos adatok az érintett iskola, szakképző intézmény, felsőoktatási intézménybe történő felvétellel kapcsolatosan az érintett felsőoktatási intézmény részére,
 - c) a tanuló családi és utóneve, születési helye és ideje, lakcíme, levelezési címe, társadalombiztosítási azonosító jele, törvényes képviselője családi és utóneve, lakcíme, levelezési címe és telefonszáma, a szakképző intézményi egészségügyi dokumentáció, a tanulóbalesetre vonatkozó adatok az egészségi állapotának megállapítása céljából az egészségügyi intézmény és az iskola-egészségügyi feladatot ellátó intézmény részére,
-- d) a tanuló családi és utóneve, születési helye és ideje, lakcíme, levelezési címe, törvényes képviselője családi és utóneve, lakcíme, levelezési címe és telefonszáma, a tanuló mulasztásával kapcsolatos adatok, a sajátos nevelési igényű tanulóra, illetve képzésben részt vevő személyre, a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanulóra, a hátrányos helyzetű és a halmozottan hátrányos helyzetű tanulóra, illetve képzésben részt vevő személyre vonatkozó adatok a veszélyeztetettségének feltárása, megszüntetése céljából a családvédelemmel foglalkozó intézménynek, szervezetnek, gyermek- és ifjúságvédelemmel foglalkozó szervezet, intézmény részére,
+- d) a tanuló családi és utóneve, születési helye és ideje, lakcíme, levelezési címe, törvényes képviselője családi és utóneve, lakcíme, levelezési címe és telefonszáma, a tanuló mulasztásával kapcsolatos adatok, a sajátos nevelési igényű vagy fogyatékkal élő személyre, a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanulóra, a hátrányos helyzetű és a halmozottan hátrányos helyzetű tanulóra, illetve képzésben részt vevő személyre vonatkozó adatok a veszélyeztetettségének feltárása, megszüntetése céljából a családvédelemmel foglalkozó intézménynek, szervezetnek, gyermek- és ifjúságvédelemmel foglalkozó szervezet, intézmény részére,
 - e) a tanuló igényjogosultsága elbírálásához és igazolásához szükséges adatai az igénybe vehető támogatás igénylése céljából a fenntartó részére,
 - f) a tanuló állami vizsgája alapján kiadott oklevelének, illetve bizonyítványának adatai a szakképzési államigazgatási szervnek az oklevél, illetve a bizonyítvány nyilvántartása céljából, továbbá a szakképzési államigazgatási szervtől a felsőfokú felvételi kérelmeket nyilvántartó szervezethez,
 - g) a honvédségi szakképző intézményben tanuló honvéd altiszt-jelöltek adatai közül az őket megillető jogok gyakorlása és kötelezettségek teljesítése céljából a 114. § (1) bekezdés c) pontja szerinti adatot a Magyar Honvédség központi személyügyi szerve részére
@@ -1500,7 +1531,7 @@ A szakképző intézmény adatkezelési szabályzatában kell meghatározni az a
 
 (4) A külföldi szakképző intézmény alapítására, az általa ellátott nevelő és oktató munkára, valamint annak ellenőrzésére, a tanulókkal összefüggő ügyekre és döntésekre annak az államnak az előírásait kell alkalmazni, amelyik a külföldi szakképző intézményt sajátjának elismerte.
 
-(5) A külföldi szakképző intézmény és a nemzetközi iskola fenntartójával a szakképzésért felelős miniszter fenntartói megállapodást köt.
+(5) A külföldi szakképző intézmény és a nemzetközi iskola fenntartójával a szakképzésért felelős miniszter együttműködési megállapodást köt.
 
 #### 120. § [Magyar szakképző intézmény működése külföldön]
 
@@ -1533,47 +1564,50 @@ A szakképzési közokirat külföldön történő felhasználásához – ha ne
 (2) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - 1. a szakmajegyzéket,
+- 1a. a szakképzésben való részvétel feltételeit,
 - 2. a képzési és kimeneti követelmények, a programtanterv és a szakmai program meghatározásának szabályait,
-- 3. a programkövetelmény és a képzési program meghatározásának szabályait és nyilvántartásba vételének rendjét,
-- 4. a szakképző intézmény alapításának, a nem állami szakképző intézmény működési engedélye kiadásának és a szakképző intézmények nyilvántartásának részletes szabályait, a szakképző intézmény létesítő okiratának kötelező tartalmi elemeit, a szakképző intézmények névhasználatának szabályait, valamint a szakképző intézmény belső szabályzatainak kötelező tartalmi elemeit,
+- 3. a programkövetelmény és a szakmai képzés képzési programja meghatározásának szabályait és nyilvántartásba vételének rendjét,
+- 4. a szakképző intézmény alapításának, megszüntetésének, átszervezésének és fenntartói irányítási hatásköre átadásának, a nem állami szakképző intézmény működési engedélye kiadásának és a szakképző intézmények nyilvántartásának részletes szabályait, a szakképző intézmény alapító okiratának kötelező tartalmi elemeit, a szakképző intézmények névhasználatának szabályait, valamint a szakképző intézmény belső szabályzatainak kötelező tartalmi elemeit,
 - 5. a szakképzés kísérleti jelleggel történő megszervezésének szabályait,
-- 6. a szakképző intézmény ügyintézésének, iratkezelésének általános szabályait, az általa használt nyomtatványok körét, azok használatának részletes szabályait,
+- 6. a szakképző intézmény ügyintézésének, iratkezelésének általános szabályait, a szakképző intézmény és az akkreditált vizsgaközpont által használt nyomtatványok körét és tartalmát, azok használatának részletes szabályait,
 - 7. a szakképzési minőségirányítási keretrendszert és a szakképző intézmény külső értékelésére, valamint a szakképző intézmény és a duális képzőhely ellenőrzésére vonatkozó részletes szabályokat,
 - 8. a szakképzés szakképző intézményben és duális képzőhelyen történő folytatásának rendjét,
-- 9. a fenntartói megállapodás tartalmát és megkötésének részletes szabályait,
+- 9. az együttműködési megállapodás tartalmát és megkötésének részletes szabályait,
 - 10. a szakképzés megkezdésének és folytatásának feltételeit, ideértve az előkészítő évfolyam, a két tanítási nyelvű oktatás és a műhelyiskola megszervezésének eseteit és feltételeit, valamint a térítési díj, illetve a tandíj ellenében nyújtható szolgáltatásokat,
 - 11. a szakképzési centrum működésének szabályait, a főigazgató, az igazgató és a kancellár feladat- és hatásköreit,
 - 12. a honvédségi szakképző intézményre és a rendvédelmi szakképző intézményre vonatkozó sajátos szabályokat,
 - 13. a fenntartó feladatait és irányítási hatásköreit, valamint a nemzetiségi önkormányzat által alapított szakképző intézménnyel kapcsolatosan az érintett nemzetiségi önkormányzat egyetértése vagy véleményének kikérése esetköreit,
 - 14. az intézményvezető megbízási feltételeit és a megbízással kapcsolatos eljárást,
 - 15. a szakképző intézmény alkalmazottjának végzettségi és szakképzettségi, illetve gyakorlati követelményeit, munkaidő-beosztásának és szabadsága kiadásának részletes szabályait,
-- 16. az oktató továbbképzési kötelezettsége teljesítésének rendjét,
+- 16. az oktató kötelességének részletes szabályait és továbbképzési kötelezettsége teljesítésének rendjét,
 - 17. az oktatói testület és a szakmai munkaközösség döntési jogköreit,
-- 18. a tanulói jogviszony létesítésének feltételeit,
+- 18. a tanulói jogviszony létesítésének, szünetelésének és megszüntetésének feltételeit,
 - 19. a tanuló és a kiskorú tanuló törvényes képviselője e törvényben foglalt jogainak és kötelességeinek részletes szabályait,
 - 20. a tanulókkal, a képzésben részt vevő személyekkel kapcsolatos fegyelmi eljárás lefolytatásának szabályait,
 - 21. a foglalkozások megszervezésének rendjét, a közösségi szolgálat végzésének megszervezésére vonatkozó részletes szabályokat, a mindennapos testnevelés megszervezésére és a diáksport-tevékenységre vonatkozó részletes szabályokat,
 - 22. a tanulók egészségügyi ellátására és egészségfejlesztésére vonatkozó részletes szabályokat,
-- 23. a tehetség kibontakoztatására, a hátrányos helyzetű tanuló, illetve képzésben részt vevő személyek felzárkóztatására, valamint a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló számára biztosított differenciált fejlesztés részletes szabályait, a sajátos nevelési igényű tanuló, illetve képzésben részt vevő kiskorú személy szakmai oktatásával kapcsolatos részletes szabályokat,
+- 23. a tehetség kibontakoztatására, a hátrányos helyzetű tanuló, illetve képzésben részt vevő személyek felzárkóztatására, valamint a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló számára biztosított differenciált fejlesztés részletes szabályait, a sajátos nevelési igényű vagy fogyatékkal élő személy szakmai oktatásával kapcsolatos részletes szabályokat,
 - 24. a tanuló heti kötelező foglalkozásainak számát,
 - 25. a tanítási idő e törvényben meghatározott szabályaitól az e törvény által megengedett eltérések tartalmát és igénybevételük rendjét,
 - 26. a tanuló értékelésének és minősítésének, valamint a tanulmányok alatti vizsga részletes szabályait,
-- 27. a szakképző intézmény tanulója számára járó ösztöndíj, az egyszeri pályakezdési juttatás és támogatás mértékére, feltételeire, folyósítására és az ezzel összefüggésben felmerült költségek térítésére vonatkozó szabályokat,
+- 27. a tanuló számára járó ösztöndíj, az egyszeri pályakezdési juttatás és támogatás mértékére, feltételeire, folyósítására és az ezzel összefüggésben felmerült költségek térítésére vonatkozó szabályokat,
 - 28. a tanuló- és gyermekbalesetek megelőzésével kapcsolatos feladatokat, továbbá a balesetek kivizsgálásával, nyilvántartásával és jelentésével összefüggő tevékenységet,
 - 29. a diákönkormányzat működésére vonatkozó részletes szabályokat,
 - 30. a képzési hitel igénybevételének feltételeit,
+- 30a. a diákigazolvány kiadásával és használatával kapcsolatos szabályokat,
 - 31. a duális képzőhelyek nyilvántartásának – személyes adatnak nem minősülő – adattartalmát, a nyilvántartásba-vételi eljárás részletes szabályait, a szakirányú oktatási célt szolgáló tanműhelyként történő nyilvántartásba vétel feltételeit, a duális képzőhely felelősségbiztosításának mértékét és a duális képzőhelyek ellenőrzésének részletes szabályait,
 - 32. a szakirányú oktatásról való mulasztás igazolásának, pótlásának módját, az igazolatlan mulasztás következményeit, az igazolatlan mulasztások esetén követendő eljárás szabályait,
-- 33. a foglalkozási napló vezetése és ellenőrzése rendjének megszegéséért kiszabható bírság mértékét és a bírságkiszabás szempontjait,
+- 33.
 - 34. a szakképzési munkaszerződés tartalmi elemeit,
 - 35. a szakképzési munkaszerződésre tekintettel járó munkabér mértékét és a tanulókat, illetve a képzésben részt vevő személyeket megillető egyéb juttatások részletes szabályait,
 - 36. az ágazati alapvizsga megszervezésének és lebonyolításának, a vizsgabizottság kialakításának és díjazásának szabályait,
 - 37. az akkreditált vizsgaközpont akkreditálásának, működésének feltételeit,
-- 38. a szakmai vizsga rendjét, a szakmai vizsga megszervezésének és lebonyolításának, a vizsgabizottság kialakításának, a szakmai vizsga – személyes adatnak nem minősülő – adatait tartalmazó központi nyilvántartás vezetésének, a szakmai vizsgával kapcsolatos adatszolgáltatásnak és a szakmai vizsga ellenőrzésének részletes szabályait, valamint a szakmai vizsgadíj és a vizsgáztatási díjak kereteit,
+- 38. a szakmai vizsga rendjét, a szakmai vizsga megszervezésének és lebonyolításának, a vizsgabizottság kialakításának, a szakmai vizsga – személyes adatnak nem minősülő – adatait tartalmazó központi nyilvántartás vezetésének, a szakmai vizsgával kapcsolatos adatszolgáltatásnak és a szakmai vizsga ellenőrzésének részletes szabályait, a szakmai vizsgával összefüggésben az akkreditált vizsgaközpont döntése, intézkedése vagy intézkedésének elmulasztása felülvizsgálatának szabályait, valamint a szakmai vizsgadíj és a vizsgáztatási díjak kereteit,
 - 39. az oklevelek, a szakmai bizonyítványok és a képesítő bizonyítványok központi elektronikus nyilvántartásának részletes szabályait,
 - 39a. a szakképzés irányításának és a szakképzésért felelős miniszter e törvényben meghatározott feladatai végrehajtásának részletes szabályait,
-- 39b. a szakképzési tankönyv tekintetében a tankönyvvé nyilvánítás eljárási rendjét, valamint a tankönyvjegyzék elkészítését és kiadását, a tankönyvjegyzékre való felvétel eljárását, az eljárásban szakértőként eljáró szervet, az iskolai terjesztési árat, a tankönyvjegyzékből való törlés rendjét és eljárását,
-- 40. a Nemzeti Foglalkoztatási Alap képzési alaprészéből nyújtható támogatás mértékére, feltételeire, folyósítására, valamint a támogatás felhasználásáról történő elszámolásra és ellenőrzésre vonatkozó szabályokat,
+- 39b. a szakképzési tankönyvvé nyilvánítás, annak módosítása és megszüntetése rendjét, az eljárásba bevonásra kerülő szakértőket és a szakértői vélemény elkészítéséért fizetendő szakértői díj mértékét, a szakképzési tankönyvjegyzék elkészítését és kiadását, valamint a szakképzésben alkalmazott terjesztési árat,
+- 40. az Alap képzési alaprészéből nyújtható támogatás mértékére, feltételeire, folyósítására, valamint a támogatás felhasználásáról történő elszámolásra és ellenőrzésre vonatkozó szabályokat,
+- 40a. a felnőttképzési jogviszonyban szakmai oktatásban, illetve ingyenes szakmai képzésben részt vevők tekintetében a szakképző intézmény finanszírozására vonatkozó szabályokat,
 - 41. a Szakképzési Innovációs Tanács összetételét és működésének részletes szabályait,
 - 42. az ágazati készségtanácsok számát, azokat az ágazatokat, amelyekben ágazati készségtanács működtethető, az ágazati készségtanács összetételét, az ágazati készségtanács elnökének és tagjainak megbízására, megbízatásának megszűnésére és díjazására, valamint az ágazati készségtanács működésére vonatkozó szabályokat,
 - 43. az életpálya-tanácsadással, a pályaorientációval és a tanulmányi versenyek szervezésével összefüggő feladatokat, a pályaorientációval és az egész életen át tartó életpálya-tanácsadással és pályaorientációval kapcsolatos adatszolgáltatások részletes szabályait, a pályaorientációval és az egész életen át tartó életpálya-tanácsadási és pályaorientációs szolgáltatásokat koordináló szervezet, valamint az életpálya-tanácsadást és a pályaorientációt nyújtó szervezetek feladatait,
@@ -1582,6 +1616,8 @@ A szakképzési közokirat külföldön történő felhasználásához – ha ne
 - 46. a szakképzés információs rendszerében tárolt – személyes adatnak nem minősülő – adatok körét, azok közzétételének és továbbításának módját,
 - 47. a korai iskolaelhagyás megelőzését támogató rendszer működtetésének szabályait és az abba történő adatszolgáltatás rendjét,
 - 48. a külföldi szakképző intézmény Magyarországon történő és a magyar szakképző intézmény külföldön történő működésének és nyilvántartásának részletes szabályait.
+
+(3) Felhatalmazást kap a szakképzésért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a 96. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait.
 
 ### XXII. Fejezet — HATÁLYBA LÉPTETŐ RENDELKEZÉSEK
 
@@ -1604,40 +1640,47 @@ kell kifutó jelleggel megszervezni.
 
 (2) A tanuló tanulói jogviszonyára 2020. szeptember 1-jétől – a (3)–(5) bekezdésben meghatározott kivétellel – e törvény rendelkezéseit kell alkalmazni.
 
-(3) A 2020. május 31-ét megelőzően létesített tanulói jogviszony és a tanulói jogviszonyból fakadó, vagy arra tekintettel jogszabály alapján a tanulót megillető, illetve terhelő jogok és kötelességek teljesítése tekintetében – a 2019/2020. tanévben az Nkt. e törvény hatálybalépését megelőző napon hatályos rendelkezései szerinti szakgimnázium nyelvi előkésztő évfolyamán, illetve szakközépiskola előkészítő évfolyamán részt vevő tanuló kivételével – az Nkt., a szakképzésről szóló 2011. évi CLXXXVII. törvény (a továbbiakban: régi Szkt.) és a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény és más jogszabály e törvény hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni
+(3) A 2020. május 31-ét megelőzően létesített tanulói jogviszony és a tanulói jogviszonyból fakadó, vagy arra tekintettel jogszabály alapján a tanulót megillető, illetve terhelő jogok és kötelességek teljesítése tekintetében – a 2019/2020. tanévben az Nkt. e törvény hatálybalépését megelőző napon hatályos rendelkezései szerinti szakgimnázium nyelvi előkészítő évfolyamán, illetve szakközépiskola előkészítő évfolyamán részt vevő tanuló kivételével – az Nkt., a szakképzésről szóló 2011. évi CLXXXVII. törvény (a továbbiakban: régi Szkt.) és a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény és más jogszabály e törvény hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni
 
 - a) a tanuló tanulmányai befejezésére,
 - b) a gyakorlati képzésben tanulószerződéssel vagy együttműködési megállapodással való részvételre,
 - c) a szintvizsga és az érettségi vizsga megszervezésére és teljesítésére, valamint
 - d) a tanuló juttatásaira.
 
-(4) Az a tanuló, aki a 2019/2020. tanévben az Nkt. e törvény hatálybalépését megelőző napon hatályos rendelkezései szerinti szakgimnázium nyelvi előkésztő évfolyamán vesz részt – választása szerint – a tizenkettedik évfolyam végén tehet érettségi vizsgát, amire a technikum biztosítja a felkészülés lehetőségét.
+(4) Az a tanuló, aki a 2019/2020. tanévben az Nkt. e törvény hatálybalépését megelőző napon hatályos rendelkezései szerinti szakgimnázium nyelvi előkészítő évfolyamán vesz részt – választása szerint – a tizenkettedik évfolyam végén tehet érettségi vizsgát, amire a technikum biztosítja a felkészülés lehetőségét.
 
 (5) A 2020. május 31-ét megelőzően létesített tanulói jogviszony keretében a szakmai vizsgát az e törvényben meghatározott rend szerint kell megszervezni és a tanulóra irányadó szakmai és vizsgakövetelmény szerinti tartalommal kell teljesíteni oly módon, hogy a szóbeli és a gyakorlati vizsgatevékenységet együttesen a projektfeladat keretében, az írásbeli vizsgatevékenységet az interaktív vizsgatevékenység keretében a szakképzésért felelős miniszter által a Kormány adott ágazatért felelős tagjának egyetértésével kiadott központi írásbeli vizsgatétel alapján kell lebonyolítani.
 
 (6) 2020. szeptember 1-jét követően a régi Szkt. szerinti gyakorlati képzés folytatására a szakképző intézmény és a duális képzőhely jogosult. A gazdasági kamara 2022. augusztus 31-éig hivatalból felülvizsgálja a régi Szkt. szerinti gyakorlati képzés folytatására jogosult szervezetek közhiteles hatósági nyilvántartását és azt, aki a duális képzőhelyre e törvényben meghatározott szabályoknak megfelel, a duális képzőhelyek nyilvántartásába felveszi. Aki e törvény hatálybalépésekor a régi Szkt. szerinti gyakorlati képzést folytató szervezetként a gazdasági kamara ilyen nyilvántartásában szerepel, az e bekezdésben határozott határnapig duális képzőhelyként – nyilvántartásba vétel nélkül is – részt vehet a szakirányú oktatásban.
 
-(7) A képzési és kimeneti követelményeket először 2020. március 31-éig kell közzétenni.
+(7)
 
 (8) Ágazati alapoktatást és ágazati alapvizsgát a 2020/2021. tanévtől a változással érintett legalacsonyabb évfolyamon kezdve felmenő rendszerben kell megszervezni.
 
-(9) A szakmai vizsgát 2025. december 31-éig a szakképző intézményben az e törvényben meghatározott feltételekkel kell megszervezni azzal, hogy akkreditált vizsgaközpont alatt a szakképző intézményt kell érteni. 2026. január 1-jétől a szakképző intézmény akkor szervezhet szakmai vizsgát, ha rendelkezik a nemzeti akkreditálásról szóló törvény szerinti akkreditáló szerv által az adott szakmára, illetve szakképesítésre vonatkozó személytanúsításra kiadott akkreditált státusszal. A 2025. december 31-éig a szakképző intézményben szervezett szakmai vizsga lefolytatásával kapcsolatos jogszabálysértés megállapítására és jogkövetkezményeinek alkalmazására a régi Szkt. e törvény hatálybalépését megelőző napon hatályos 17. §-át kell alkalmazni azzal, hogy a hivatal helyett a szakképzésért felelős miniszter jár el.
+(9) A szakmai vizsgát 2025. december 31-éig az állam, illetve az együttműködési megállapodással rendelkező fenntartó által fenntartott szakképző intézményben az e törvényben meghatározott feltételekkel kell megszervezni azzal, hogy akkreditált vizsgaközpont alatt az ilyen szakképző intézményt kell érteni. 2026. január 1-jétől az ilyen szakképző intézmény akkor szervezhet szakmai vizsgát, ha rendelkezik a nemzeti akkreditálásról szóló törvény szerinti akkreditáló szerv által az adott szakmához tartozó képzési területre vonatkozó személytanúsításra kiadott akkreditált státusszal. A 2025. december 31-éig az ilyen szakképző intézményben szervezett szakmai vizsga lefolytatásával kapcsolatos jogszabálysértés megállapítására és jogkövetkezményeinek alkalmazására a régi Szkt. e törvény hatálybalépését megelőző napon hatályos 17. §-át kell alkalmazni azzal, hogy a hivatal helyett a szakképzésért felelős miniszter jár el.
 
-(10) Ha valamely szakma vagy szakképesítés tekintetében nincs szakmai vizsgát vagy képesítő vizsgát szervező akkreditált vizsgaközpont, a szakmai vizsga és képesítő vizsga megszervezéséről a szakképzésért felelős miniszter az akkreditált vizsgaközpontra e törvényben előírt szabályok szerint gondoskodik.
+(10) Ha valamely szakma vagy szakképesítés tekintetében nincs
 
-(11) A szakképzési centrum részeként működő szakképző intézmény régi Szkt. szerinti felnőttoktatási tevékenységének 2019/2020. tanévre vonatkozó normatív támogatását az e törvény hatálybalépését megelőző napon hatályos szabályok szerint kell igényelni, megállapítani, folyósítani, felhasználni, azzal elszámolni és azt ellenőrizni. A normatív támogatás lebonyolítását úgy kell megszervezni, hogy a normatív támogatás elszámolása a támogató által ellenőrzött módon legkésőbb 2020. december 31-éig megtörténhessen.
+- a) olyan akkreditált vizsgaközpont, amely az adott szakma vagy szakképesítés képzési területére akkreditált vizsgahelyszínnel rendelkezik a szakmai oktatás, illetve a szakmai képzés helyszíne szerinti vagy azzal közvetlenül szomszédos megyében vagy
+- b) az akkreditált vizsgaközpont által a szakmai oktatás, illetve a szakmai képzés befejezésének időpontját követő harmadik hónap utolsó napjáig meghirdetett szakmai vizsga vagy képesítő vizsga,
+
+a szakmai vizsga és a képesítő vizsga megszervezéséről a szakképzésért felelős miniszter gondoskodik.
+
+(11)
+
+(12) A szakképzésben való ingyenes részvétel szempontjából az e törvény hatálybalépését követően megszerzett szakma és szakképesítés vehető figyelembe.
 
 #### 126. § [A korábbi képesítések elismerése]
 
-A bizonyítványban vagy e törvény hatálybalépését megelőzően rá irányadó szabályozásban meghatározott végzettséget és szakképzettséget tanúsít a 2020. szeptember 1-jét megelőzően megszerzett államilag elismert szakképesítést igazoló bizonyítvány. A bizonyítványban vagy e törvény hatálybalépését megelőzően rá irányadó szabályozásban meghatározott végzettséget és szakképesítést tanúsít a 2020. szeptember 1-jét megelőzően megszerzett államilag elismert részszakképesítést igazoló bizonyítvány.
+A bizonyítványban vagy e törvény hatálybalépését megelőzően rá irányadó szabályozásban meghatározott végzettséget és szakképzettséget tanúsít a 2020. szeptember 1-jét megelőzően, valamint a 125. § (1) bekezdése és az Fktv. 30. § (3) bekezdése alapján kifutó jelleggel szervezett oktatás, képzés keretében megszerzett államilag elismert szakképesítést igazoló bizonyítvány. A bizonyítványban vagy e törvény hatálybalépését megelőzően rá irányadó szabályozásban meghatározott végzettséget és szakképesítést tanúsít a 2020. szeptember 1-jét megelőzően, valamint a 125. § (1) bekezdése és az Fktv. 30. § (3) bekezdése alapján kifutó jelleggel szervezett oktatás, képzés keretében megszerzett államilag elismert részszakképesítést igazoló bizonyítvány.
 
 #### 127. § [A szakképző intézményre vonatkozó szabályozási átmenet]
 
 (1) A technikum az Nkt. e törvény hatálybalépését megelőző napon hatályos rendelkezései szerinti szakgimnáziumként, a szakképző iskola az Nkt. e törvény hatálybalépését megelőző napon hatályos rendelkezései szerinti szakközépiskolaként működik 2020. június 30-áig. A fenntartó 2020. július 1-jével gondoskodik az Nkt. e törvény hatálybalépését megelőző napon hatályos rendelkezései szerinti szakgimnázium, illetve szakközépiskola e törvénynek megfelelő működése előkészítéséről és alapító okiratának módosításáról azzal, hogy a több különböző típusú szakképző intézmény, illetve köznevelési intézmény feladatait is ellátó, valamint nem köznevelési alapfeladatot ellátó intézménnyel összevont szerv jogállását az általa ellátott alapfeladat nagyságrendje alapján kell meghatározni. A többcélú nevelési-oktatási intézményt szakképző intézményként akkor kell átalakítani, ha alaptevékenysége alapján szakképzési alapfeladatot lát el a Kormány rendeletében meghatározott arányban.
 
-(2) Az e törvény hatálybalépését megelőzően megkötött és e törvény hatálybalépésekor hatályos szakképzési megállapodás alatt az e törvény szerinti fenntartói megállapodást kell érteni azzal, hogy annak módosítására és megszüntetésére e törvény rendelkezéseit kell alkalmazni. Az e törvény szerinti új fenntartói megállapodást először a 2021/2022. tanévre vonatkozóan kell kötni. Az e törvény hatálybalépésekor hatályos szakképzési megállapodások a fenntartói megállapodás megkötésével, de legkésőbb 2021. augusztus 31-én hatályukat vesztik.
+(2) Az e törvény hatálybalépését megelőzően megkötött és e törvény hatálybalépésekor hatályos szakképzési megállapodás alatt az e törvény hatálybalépésekor hatályos rendelkezései szerinti fenntartói megállapodást kell érteni. Az e törvény hatálybalépésekor hatályos szakképzési megállapodás 2021. augusztus 31-én hatályát veszti. Az e törvény hatálybalépését követően megkötött fenntartói megállapodás alatt az e törvény 2021. augusztus 31-én hatályos rendelkezései szerinti együttműködési megállapodást kell érteni. A 2021. szeptember 1-jén hatályos fenntartói megállapodás 2024. augusztus 31-én hatályát veszti. A központi költségvetés által a szakképzésben való részvételhez a nem állami fenntartó számára nyújtott támogatás összesített keretösszege 2024. augusztus 31-éig nem lehet magasabb, mint a 2021. augusztus 31-én hatályos szabályok alapján igénybe vehető ilyen támogatás összesített keretösszege.
 
-(3) A szakképző intézmény a minőségirányítási rendszerét 2022. augusztus 31-éig alakítja ki.
+(3) A szakképző intézmény és a duális képzőhely a minőségirányítási rendszerét 2022. augusztus 31-éig alakítja ki.
 
 (4) A többcélú szakképző intézményre, alkalmazottaira és tanulóira e törvényt és az e törvény végrehajtására kiadott jogszabályokat kell alkalmazni azzal, hogy a többcélú szakképző intézmény által ellátott, nem az e törvény hatálya alá tartozó alapfeladat tekintetében az alapfeladatot szabályozó jogszabálynak kizárólag az ilyen alapfeladat megszervezése szakmai tartalmát és annak oktatásához szükséges végzettségi, képesítési és munkaköri követelményeket meghatározó rendelkezéseit kell alkalmazni. Ha az alkalmazandó jogszabály vagy jogszabályi rendelkezés nem állapítható meg, az ilyen alapfeladat tekintetében a szakképző intézményre vonatkozóan e törvényt és az e törvény végrehajtására kiadott jogszabályokat kell megfelelően alkalmazni.
 
@@ -1649,13 +1692,13 @@ A bizonyítványban vagy e törvény hatálybalépését megelőzően rá irány
 
 #### 128. § [Egyéb átmeneti rendelkezések]
 
-(1) Az állami szakképzési és felnőttképzési szerv e törvény hatálybalépését megelőző napon hatályos és e törvénnyel a szakképzésért felelős miniszter, illetve a szakképzési államigazgatási szerv feladatkörébe átkerülő feladatok átadását 2020. június 30-áig átadás-átvétel keretében kell végrehajtani a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 5/A. §-a és az annak végrehajtására kiadott kormányrendeletnek a központi államigazgatási szervek közötti átadás-átvétel általános rendjére vonatkozó szabályai szerint. A munkáltató személyében bekövetkező jogutódlásra a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 114. §-át kell alkalmazni.
+(1)
 
-(2) Az (1) bekezdés szerinti feladatok átadás-átvétele a feladatot átadó szervvel szemben fennálló követeléseket nem teszi lejárttá, és arra való hivatkozással a feladatot átvevő szervvel szemben szerződésszegésre alapított igényt nem lehet érvényesíteni. A feladatot átvevő szerv az átvett feladatokkal összefüggő jogviszonyok vonatkozásában jogosult belépni a fennálló jogviszonyokba és a folyamatban lévő hatósági és bírósági eljárásokba. Az átadás-átvétellel érintett feladatok ellátásával összefüggő, a feladatot átadó szerv javára kiadott hatósági engedélyek jogosultjának 2020. július 1-jétől a feladatot átvevő szerv minősül. A hatósági engedélyek ennek megfelelő módosítását a feladatot átvevő szerv kezdeményezi. Az átadás-átvétellel érintett feladatok ellátásához szükséges vagyonelemeket a feladatot átvevő szerv részére 2020. július 1-jével kell átadni és a könyvviteli, nyilvántartási számlák és részletező nyilvántartások lezárása nélkül, a folyamatos könyvelés keretében a feladatot átadó szerv könyveiből 2020. június 30-ával kivezetni és ugyanezen napi állapotnak megfelelő értéken a feladatot átvevő szerv könyveiben nyilvántartásba venni.
+(2)
 
 (3) Az a kedvezményezett, akit az e törvény hatálybalépését megelőzően létrejött támogatási jogviszonyból a kapott támogatásra tekintettel fenntartási kötelezettség, illetve elidegenítési és terhelési tilalom terhel, e kötelezettségét az e törvény szerinti feltételek alapján vagy a támogató jóváhagyásával más módon teljesíti.
 
-(4) A Szakképzési Innovációs Tanács és az ágazati készségtanács szervezetének és működésének e törvény szerinti feltételeit az e törvény hatálybalépését követő első ülés berekesztéséig kell megteremteni.
+(4)
 
 (5) A 2021. január 1-jét megelőző időszakra vonatkozó szakképzésihozzájárulás-fizetési kötelezettséget a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény és az abban kapott felhatalmazás alapján kiadott jogszabály 2020. december 31-én hatályos rendelkezései szerint kell teljesíteni, megállapítani és bevallani. A szakképzési hozzájárulásra kötelezett e törvény szerinti szakképzésihozzájárulás-fizetési kötelezettségét 2021. január 1-jétől teljesíti akként, hogy
 
@@ -1670,9 +1713,11 @@ A bizonyítványban vagy e törvény hatálybalépését megelőzően rá irány
 
 (6) A 109. § (3) bekezdése szerinti együttműködési megállapodásban meghatározott keretszám nem lehet kevesebb az egyházi jogi személy esetében a 2019/2020. tanévre beiskolázott tanulói létszám huszonöt százalékkal növelt mértékénél.
 
-(7) A nem állami szakképző intézmény fenntartója a 2020. költségvetési évre vonatkozóan a köznevelési intézményekre meghatározott szabályok szerint jogosult a központi költségvetésről szóló törvény alapján a köznevelési intézmény számára járó támogatásra azzal, hogy a bevett egyháznak a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény alapján biztosított működési támogatás megállapítása és felhasználása tekintetében nevelési-oktatási, illetve köznevelési intézmény alatt szakképző intézményt, köznevelési feladat alatt szakképzési alapfeladatot kell érteni.
+(7)
 
 (8) Szakképző intézmény alapítására az alapítvány általi alapításra vonatkozó szabályokat kell alkalmazni az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény alapján e törvény hatálybalépésekor működő közalapítványok tekintetében.
+
+(8a) A MódTv1.-gyel megállapított 22. § (1a) bekezdését a 2021. szeptember 1-jén és az azt követően alapított szakképző intézményre kell alkalmazni.
 
 (9) Regisztrációs és tanulmányi alaprendszerként a Köznevelési Regisztrációs és Tanulmányi Alaprendszer szakképzési és felnőttképzési modulját kell használni.
 
@@ -1688,13 +1733,16 @@ E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Szkt.
 
 (1) E törvény
 
-- a) a fiatal személyek munkahelyi védelméről szóló, 1994. június 22-i, 94/33/EK tanácsi irányelvnek,
-- b) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról szóló, 2003. november 25-i, 2003/109/EK tanácsi irányelv 11. cikk (1) bekezdés b) pontjának és 21. cikkének,
-- c) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i, 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének,
-- d) a nemzetközi védelmet kérelmezők befogadására vonatkozó szabályok megállapításáról szóló, 2013. június 26-i, 2013/33/EU európai parlamenti és tanácsi irányelv 14. cikk (1) és (2) bekezdésének,
-- e) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv 12. cikk (1) bekezdés c) pontjának,
-- f) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i, 2011/95/EU európai parlamenti és tanácsi irányelv 27. cikk (1) bekezdésének,
-- g) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló (EU) 2018/2001 európai parlamenti és tanácsi irányelv 18. cikk (3), (4) és (6) bekezdésének
+- a) a fiatal személyek munkahelyi védelméről szóló, 1994. június 22-i 94/33/EK tanácsi irányelvnek,
+- b) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról szóló, 2003. november 25-i 2003/109/EK tanácsi irányelv 11. cikk (1) bekezdés b) pontjának és 21. cikkének,
+- c) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének,
+- d) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló, 2009. május 25-i 2009/50/EK tanácsi irányelv 14. cikk (1) bekezdés c) pontjának,
+- e) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i 2011/95/EU európai parlamenti és tanácsi irányelv 27. cikk (1) bekezdésének,
+- f) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i 2011/98/EU európai parlamenti és tanácsi irányelv 12. cikk (1) bekezdés c) pontjának,
+- g) a nemzetközi védelmet kérelmezők befogadására vonatkozó szabályok megállapításáról szóló, 2013. június 26-i 2013/33/EU európai parlamenti és tanácsi irányelv 14. cikk (1) és (2) bekezdésének,
+- h) a harmadik országbeli állampolgárok idénymunkásként való munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló, 2014. február 26-i 2014/36/EU európai parlamenti és tanácsi irányelv 23. cikk (1) bekezdés g) pontjának,
+- i) a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i 2016/801/EU európai parlamenti és tanácsi irányelv 22. cikke,
+- j) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i 2018/2001/EU európai parlamenti és tanácsi irányelv 18. cikk (3), (4) és (6) bekezdésének
 
 való megfelelést szolgálja.
 

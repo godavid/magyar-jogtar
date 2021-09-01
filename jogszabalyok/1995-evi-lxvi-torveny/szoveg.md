@@ -33,7 +33,7 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 - b) közfeladatot ellátó szerv: az állami és önkormányzati közfeladat-kataszterről szóló kormányrendeletben meghatározott közfeladat-kataszter adatbázisában szereplő közfeladatot ellátó, továbbá a nemzeti vagyonnal gazdálkodó vagy azzal rendelkező szerv vagy személy, valamint a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklet I. pontjában meghatározott vagy többségi állami vagy önkormányzati tulajdonban lévő gazdasági társaság;
 - c) irat: valamely szerv működése vagy személy tevékenysége során keletkezett vagy hozzá érkezett, bármely jelrendszerrel és adathordozón rögzített, egy egységként kezelendő rögzített információ, adategyüttes;
 - d) közirat: a keletkezés idejétől és az őrzés helyétől függetlenül minden olyan irat, amely a közfeladatot ellátó szerv irattári anyagába tartozik vagy tartozott;
-- e) magánirat: a nem közfeladatot ellátó szerv irattári anyagába tartozó, valamint a természetes személyek tulajdonában lévő irat;
+- e) magánirat: a köziratnak nem minősülő irat;
 - f) irattári anyag: rendeltetésszerűen a szervnél maradó, tartalmuk miatt átmeneti vagy végleges megőrzést igénylő, szervesen összetartozó iratok összessége;
 - g) irattár: az irattári anyag szakszerű és biztonságos őrzése, valamint kezelésének biztosítása céljából létrehozott és működtetett fizikai, illetve elektronikus tárolóhely;
 - h) iratkezelés: az iratokkal kapcsolatos bármely műveletet vagy azok összességét együttesen magába foglaló tevékenység, különösen az azok készítését, hitelesítését, továbbítását, nyilvántartását, rendszerezését és a selejtezhetőség szempontjából történő válogatását, segédletekkel való ellátását, hiteles másolatkészítését, szakszerű és biztonságos megőrzését, használatra bocsátását, selejtezését, megsemmisítését, illetve levéltárba adását érintő feladatok;
@@ -55,15 +55,32 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 
 ### Az irattári és a levéltári anyag védelmének általános szabályai
 
-3/A. § A maradandó értékű közirat és magánirat a kulturális javak, a levéltári anyag pedig a védett kulturális javak részét képezi. A maradandó értékű közirat és magánirat, továbbá a levéltári anyag védelmét, épségben és használható állapotban történő megőrzését az e törvényben, valamint a kulturális örökség védelméről szóló törvényben foglaltak szerint kell biztosítani.
+3/A. § (1) A közirat
+
+- a) annak a közfeladatot ellátó szervnek a tulajdonát képezi, amely irattári anyagába a közirat tartozik vagy tartozott, illetve ennek hiányában
+- b) az állam tulajdonát képezi
+
+kivéve, ha a közirat jogszerűen más szerv vagy személy tulajdonába került (a továbbiakban: elszármazott közirat).
+
+(2) Az 1957. január 1-je előtt keletkezett és az elmúlt rendszer titkosszolgálati tevékenységének feltárásáról és az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szóló törvény hatálya alá nem tartozó közirat birtokosát az ellenkező bizonyításáig tulajdonosnak kell tekinteni.
+
+(3) A maradandó értékkel bíró elszármazott közirat esetében az államot elővásárlási jog illeti meg, amelyet a 7/A. § (2) bekezdése szerinti hatóság gyakorol.
+
+(4) Az elszármazott köziratban foglalt személyes adatokat az irat tulajdonosa a hatályos adatvédelmi szabályokban foglaltak betartásával kezeli.
+
+3/B. § (1) A maradandó értékű közirat és a maradandó értékű magánirat a kulturális javak részét képezi. A levéltári anyag és a 7/C. § (1) bekezdése szerinti nyilvántartásban szereplő elszármazott közirat a védett kulturális javak részét képezi.
+
+(2) Az (1) bekezdés szerinti iratok és a levéltári anyag védelmét, épségben és használható állapotban történő megőrzését az e törvényben, valamint a kulturális örökség védelméről szóló törvényben foglaltak szerint kell biztosítani.
 
 4. § Az irattári anyaggal rendelkező szervek és a maradandó értékű iratokat őrző természetes személyek kötelesek a szervesen összetartozó irataik egységének, illetve eredeti rendjének megőrzéséről, valamint a tulajdonukban vagy birtokukban lévő maradandó értékű iratok megóvásáról gondoskodni.
 
-5. § (1) Köziratot, valamint közlevéltárban őrzött, köziratnak nem minősülő levéltári anyagot elidegeníteni, megrongálni vagy egyéb módon használhatatlanná tenni, továbbá – a szabályosan lefolytatott selejtezési eljárást, illetve a hiteles másolatkészítési eljárást kivéve – megsemmisíteni tilos.
+5. § (1) Köziratot, valamint közlevéltárban őrzött, köziratnak nem minősülő levéltári anyagot – az e törvényben meghatározott kivétellel – elidegeníteni, megrongálni, így különösen az abban szereplő adatok egy részét vagy egészét törölni, olvashatatlanná vagy egyéb módon használhatatlanná tenni, továbbá – a szabályosan lefolytatott selejtezési eljárást, illetve a hiteles másolatkészítési eljárást kivéve – megsemmisíteni tilos.
 
 (2) A megrongálás, az egyéb módon történő használhatatlanná tétel, továbbá a megsemmisítés tilalma a nyilvános magánlevéltárban őrzött levéltári anyagra és a védetté nyilvánított maradandó értékű magániratra is kiterjed.
 
 (3) Az (1) bekezdésben meghatározott elidegenítési tilalom nem zárja ki a közlevéltárban őrzött, köziratnak nem minősülő levéltári anyagnak levéltár, múzeum, könyvtár részére csereszerződés útján történő elidegenítését. A csereszerződés megkötéséhez, valamint a nyilvános magánlevéltárban őrzött magánirat elidegenítéséhez a kultúráért felelős miniszternek engedélye szükséges. A védetté nyilvánított magánirat elidegenítésekor a kulturális örökség védelméről szóló törvényben foglaltak szerint kell eljárni.
+
+(3a) Az 1957. január 1-je előtt keletkezett, elszármazott közirat – az elmúlt rendszer titkosszolgálati tevékenységének feltárásáról és az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szóló törvény hatálya alá tartozó közirat kivételével – az e törvényben foglalt rendelkezések figyelembevételével elidegeníthető.
 
 (4) Az elektronikus ügyintézés részletszabályairól szóló kormányrendeletnek megfelelően lefolytatott hiteles másolatkészítési eljárást és a hiteles elektronikus példányok megőrzéséről történő gondoskodást követően, a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló kormányrendeletben foglaltak szerint az ügyviteli értékű közirat papíralapú példánya megsemmisíthető. Nem semmisíthető meg a maradandó értékkel is bíró iratoknak a levéltár által papíralapon is megőrzendőnek minősített példánya.
 
@@ -80,6 +97,84 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 (2) A levéltári anyagról, annak külföldre vitele előtt, a Magyar Nemzeti Levéltár vagy az őrző levéltár biztonsági másolatot készít.
 
 7. § A levéltári anyag közlevéltárban történő elhelyezése — ajándék, adásvétel, csereszerződés kivételével — a levéltári anyag tulajdonjogi helyzetét nem érinti.
+
+### Az irat közirati minőségének megállapításával összefüggő hatósági eljárás szabályai
+
+7/A. § (1) Az irat tulajdonosa vagy birtokosa közigazgatási hatósági eljárásban (ezen alcím alkalmazásában a továbbiakban: eljárás) kérheti annak megállapítását, hogy az irat köziratnak minősül-e, illetve azt, hogy az elszármazott közirat maradandó értékűnek minősül-e.
+
+(2) Az eljárás lefolytatására a Magyar Nemzeti Levéltár (ezen alcím alkalmazásában a továbbiakban: Hatóság) rendelkezik hatáskörrel.
+
+(3) Az eljárást a Hatóság hivatalból is lefolytatja, ha egy hatósági eljárásban annak megállapítása szükséges, hogy egy irat magániratnak vagy köziratnak minősül.
+
+(4) Az elszármazott közirat külföldre szállításának, illetve tulajdonjoga átruházásának feltétele az eljárás lefolytatása, kivéve, ha az eljárást korábban már lefolytatták.
+
+(5) Valamely irat kereskedelmi forgalomba bocsátását – így különösen árverésen történő átruházását – megelőzően a kereskedő, amennyiben vélelmezhető, hogy az irat közirat, köteles azt a Hatóság részére bejelenteni.
+
+(6) Ha a Hatóság olyan irat kereskedelmi forgalomba bocsátásáról értesül, amelyről vélelmezhető, hogy közirat, az eljárást hivatalból lefolytatja.
+
+(7) A határforgalom ellenőrzésére jogosult szerv a jogosulatlanul külföldre szállítani szándékozott olyan iratot, amelyről vélelmezhető, hogy közirat, visszatartja és kezdeményezi az eljárás hivatalból történő lefolytatását.
+
+(8) Az iratot annak tulajdonosa vagy birtokosa átadás-átvételi jegyzőkönyv és a mellékletét képező részletes iratjegyzék ellenében az eljárás időtartamára átadja a Hatóságnak.
+
+(9) Az irat átadásától a Hatóság eltekinthet, ha az terjedelmi vagy egyéb okból aránytalan nehézséggel vagy költséggel járna, és az eljárás szemle megtartásával is megvalósítható.
+
+(10) Az eljárás során a Hatóság megvizsgálja, hogy az irat köziratnak minősül-e, és ha igen,
+
+- a) mely közfeladatot ellátó szerv irattári anyagába tartozik, illetve
+- b) az elszármazott közirat maradandó értékűnek minősül-e.
+
+(11) Az eljárás során szakértőként bevonható
+
+- a) az illetékes közlevéltár,
+- b) az 1990-ben és azt követően keletkezett iratok esetében a köziratok kezelésének szakmai irányításáért felelős miniszter, valamint
+- c) az iratokat keletkeztető közfeladatot ellátó szerv vagy annak jogutódja.
+
+(12) A Hatóság a döntését 30 napon belül hozza meg.
+
+7/B. § (1) Ha az eljárás során a Hatóság megállapítja, hogy az irat magánirat vagy maradandó értékkel nem bíró elszármazott közirat, dönt annak visszaadásáról.
+
+(2) Ha az eljárás során a Hatóság megállapítja, hogy a maradandó értékkel nem bíró elszármazott közirat ügyviteli értékkel rendelkezik, a visszaadást megelőzően az iratról hiteles másolatot készít, amelyet átad azon közfeladatot ellátó szerv részére, amely a közirat őrzésére e törvény előírásai szerint kötelezett.
+
+(3) Ha az eljárás során a Hatóság megállapítja, hogy az elszármazott közirat maradandó értékkel bír,
+
+- a) a tulajdonosnak az irat tulajdonjogának átruházására irányuló szándéka esetében dönt a 3/A. § (3) bekezdése szerinti elővásárlási jog gyakorlásáról, vagy
+- b) az irat megvásárlására vételi ajánlatot tehet a tulajdonos részére.
+
+(4) A (3) bekezdés b) pontja szerinti vételi ajánlat megtétele során a Hatóság figyelembe veszi az irat
+
+- a) történettudományi forrásértékét,
+- b) eszmei értékét és
+- c) annak lehetséges piaci értékét.
+
+(5) Ha az irat tulajdonosa a vételi ajánlatot elfogadja vagy a közirat tulajdonjogáról ingyenesen lemond az állam javára, a Hatóság határozatában dönt a köziratnak az illetékes közlevéltár részére történő átadásáról. A Hatóság a határozat véglegessé válásával egyidejűleg gondoskodik a vételár megfizetéséről.
+
+(6) A maradandó értékkel bíró elszármazott köziratot a Hatóság visszaadja a tulajdonosnak, ha
+
+- a) a Hatóság nem él az elővásárlási jogával,
+- b) a Hatóság nem tesz vételi ajánlatot, vagy
+- c) az irat tulajdonosa a vételi ajánlatot nem fogadja el,
+
+azzal, hogy a visszaszolgáltatást megelőzően az iratról a Hatóság elektronikus másolatot készít, és annak egy példányát átadja az illetékes közlevéltárnak.
+
+(7) Ha az eljárás során a Hatóság megállapítja, hogy az irat olyan közirat, ami nem minősül elszármazott köziratnak, dönt a köziratnak azon közfeladatot ellátó szerv vagy közlevéltár részére további iratkezelés céljából történő átadásáról, amely a közirat őrzésére e törvény előírásai szerint kötelezett.
+
+(8) A határozat véglegessé válását követő 15 napon belül a határozatban foglaltaknak megfelelően gondoskodni kell a köziratnak a jogosult részére történő átadásáról.
+
+7/C. § (1) A Hatóság a 7/B. § (6) bekezdése alapján visszaszolgáltatott köziratokról nyilvántartást vezet, amely tartalmazza a közirat
+
+- a) részletes leírását, valamint az azonosítását lehetővé tévő egyéb adatokat,
+- b) őrzési helyét,
+- c) tulajdonosának természetes személyazonosító adatait és lakcímét,
+- d) tulajdonjoga keletkezésének és változásának idejét, jogcímét,
+- e) esetleges vételárát.
+
+(2) Az (1) bekezdés szerinti nyilvántartás az (1) bekezdés a) és b) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
+
+(3) A közirat tulajdonosa az (1) bekezdés szerint nyilvántartott adatokban történt változást a Hatóság részére 30 napon belül köteles bejelenteni, amelyet a Hatóság bejegyez az (1) bekezdés szerinti nyilvántartásba.
+
+(4) A közirat tulajdonosa az (1) bekezdés szerinti nyilvántartásban szereplő közirat tulajdonjogának átruházására irányuló szándékát köteles a Hatóság részére bejelenteni.
+
+(5) Ha a Hatóság él az elővásárlási jogával, a közirat az illetékes közlevéltár levéltári anyaga részévé válik, és azt az (1) bekezdés szerinti nyilvántartásból törölni kell.
 
 ### A levéltári anyag védelmének irányítása
 
@@ -128,6 +223,17 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 (3) Ha a megszűnő szerv feladatköre több szerv között oszlik meg, vagy valamely szerv egyes feladatait egy másik szerv veszi át, az irattári anyagot csak irattári tételenként szabad megosztani. Az egyes ügyiratokra vonatkozó igényt másolat készítésével vagy kölcsönzéssel kell teljesíteni. Az irattári anyag irattári tételenkénti megosztását az illetékes közlevéltár egyetértésével kell elvégezni.
 
 (4) Ha a közfeladatot ellátó szerv jogutód nélkül szűnik meg, irattári anyagának maradandó értékű részét az illetékes közlevéltárban kell elhelyezni. Az irattári anyag többi részének meghatározott ideig történő további őrzéséhez, kezeléséhez és selejtezéséhez szükséges költségek biztosításáról a megszüntetésről intézkedő szerv gondoskodik.
+
+9/B. § (1) Köziratvédelmi bírsággal (a továbbiakban: bírság) kell sújtani azt, aki a 7/A. § (4) vagy (5) bekezdése vagy a 7/C. § (3) vagy (4) bekezdése szerinti kötelezettségének nem tesz eleget.
+
+(2) A bírságot a 7/A. § (2) bekezdése szerinti hatóság szabja ki, amely a bírság összegének megállapítása során – a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott mérlegelési szempontok mellett – figyelembe veszi a közirat ügyviteli szempontból vett értékét, történettudományi forrásértékét, eszmei értékét és annak lehetséges piaci értékét. A bírság összege 10 000 forinttól 250 000 000 forintig terjedhet.
+
+(3) A bírság kiszabásának nincs helye, ha
+
+- a) az annak alapjául szolgáló magatartásnak, illetve cselekménynek a 7/A. § (2) bekezdése szerinti hatóság tudomására jutásától számított egy év, vagy
+- b) az annak alapjául szolgáló magatartásnak, illetve cselekménynek a befejezésétől számított tíz év
+
+eltelt.
 
 ### Az iratkezelési szabályzatok kiadása
 
