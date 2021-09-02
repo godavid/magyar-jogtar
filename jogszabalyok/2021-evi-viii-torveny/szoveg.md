@@ -44,7 +44,7 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 16. § (1)
 
-(2) Az Nftv. 1. melléklete helyébe a 2. melléklet lép.
+(2)
 
 17. §
 
@@ -244,49 +244,31 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 #### 24. A Nemzeti Agrárkutatási és Innovációs Központ egyes feladatainak agrár-felsőoktatás részére történő átadásáról, valamint egyes felsőoktatási tárgyú törvények módosításáról 2020. évi CXLIX. törvény módosítása
 
-97. § Nem lép hatályba a Nemzeti Agrárkutatási és Innovációs Központ egyes feladatainak agrár-felsőoktatás részére történő átadásáról, valamint egyes felsőoktatási tárgyú törvények módosításáról szóló 2020. évi CXLIX. törvény 11. § (2) bekezdése és 4. melléklete.
+97. §
 
 #### 25. A Pannon Egyetemért Alapítványról, a Pannon Egyetemért Alapítvány és a Pannon Egyetem részére történő vagyonjuttatásról szóló 2020. évi CLVIII. törvény módosítása
 
 98. §
 
-99. § (1) A 2020. évi CLVIII. törvény 4. § (2) bekezdése a következő szöveggel lép hatályba:
+99. §
 
-„(2) Az e törvény szerinti vagyonjuttatás során a vízgazdálkodásról szóló 1995. évi LVII. törvény 23. § (1) bekezdésében foglaltakat nem kell alkalmazni.”
+100. §
 
-(2) A 2020. évi CLVIII. törvény 4. §-a a következő (7) és (8) bekezdéssel kiegészülve lép hatályba:
-
-„(7) A költségvetési szervi formában működő Egyetem és a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság között fennálló vagyonkezelési szerződés megszűnik.
-
-(8) Az 1. melléklet szerinti ingatlanok vonatkozásában a tulajdonjog megszerzéséig az Egyetemet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) 1. mellékletében meghatározott közfeladatok ellátása érdekében – az ingatlan-nyilvántartásba be nem jegyezhető – ingyenes használati jog illeti meg.”
-
-100. § A 2020. évi CLVIII. törvény 5. § (2) bekezdése a következő szöveggel lép hatályba:
-
-„(2) Az Egyetem a tulajdonába adott ingatlant – a 4. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.”
-
-101. § A 2020. évi CLVIII. törvény 6. §-a a következő szöveggel lép hatályba:
-
-„6. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján – a KEKVA tv. 1. mellékletében meghatározott közfeladatok megvalósítása érdekében – az Egyetemi Centrum Szolgáltató Korlátolt Felelősségű Társaság, valamint a Nereus Park Hotel Idegenforgalmi Korlátolt Felelősségű Társaság – az állam tulajdonában álló – üzletrészeit (a továbbiakban: üzletrészek) ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni.
-
-(2) Az (1) bekezdésben meghatározott intézkedések végrehajtása során az állam képviseletében a miniszter jár el, aki 2021. szeptember 1. napjától az (1) bekezdésben meghatározott társaságok felett a tulajdonosi jogokat gyakorolja.
-
-(3) Ha az Egyetem a tulajdonába adott üzletrészeket elidegeníti, az elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Egyetem a KEKVA tv. 1. mellékletében meghatározott közfeladatok megvalósítására köteles fordítani.
-
-(4) Az Egyetem jogutód nélküli megszűnése esetén az (1) bekezdés szerinti vagyonelemek tulajdonjoga az államra száll vissza.”
+101. §
 
 102. §
 
-103. § A 2020. évi CLVIII. törvény 1. melléklete a 11. melléklet szerint módosul.
+103. §
 
-104. § A 2020. évi CLVIII. törvény 3. § (1) bekezdése az „az Egyetem” szövegrész helyett az „a Pannon Egyetem (a továbbiakban: Egyetem)” szöveggel lép hatályba.
+104. §
 
 105. §
 
 106. § Nem lép hatályba a 2020. évi CLVIII. törvény
 
-- a) 3. § (2) (3) bekezdése,
-- b) 3. § (3) bekezdése,
-- c) 5. § (1) bekezdése,
+- a)
+- b)
+- c)
 - d)
 - e)
 - f)
@@ -323,86 +305,6 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 ### 2. melléklet a 2021. évi VIII. törvényhez
 
-„1. melléklet a 2011. évi CCIV. törvényhez
-
-Magyarország államilag elismert felsőoktatási intézményei
-
-|  | A | B | C |
-| --- | --- | --- | --- |
-| 1. | I. EGYETEMEK |  |  |
-| 2. |  | I/A. Állami egyetemek |  |
-| 3. |  |  | Budapesti Műszaki és Gazdaságtudományi Egyetem, Budapest |
-| 4. |  |  | Eötvös Loránd Tudományegyetem, Budapest |
-| 5. |  |  | Liszt Ferenc Zeneművészeti Egyetem, Budapest |
-| 6. |  |  | Magyar Képzőművészeti Egyetem, Budapest |
-| 7. |  |  | Nemzeti Közszolgálati Egyetem, Budapest |
-| 8. |  | I/B. Nem állami egyetemek |  |
-| 9. |  |  | Andrássy Gyula Budapesti Német Nyelvű Egyetem, Budapest |
-| 10. |  |  | Állatorvostudományi Egyetem, Budapest |
-| 11. |  |  | Budapesti Corvinus Egyetem, Budapest |
-| 12. |  |  | Debreceni Egyetem, Debrecen |
-| 13. |  |  | Debreceni Református Hittudományi Egyetem, Debrecen |
-| 14. |  |  | Eszterházy Károly Katolikus Egyetem, Eger |
-| 15. |  |  | Evangélikus Hittudományi Egyetem, Budapest |
-| 16. |  |  | Károli Gáspár Református Egyetem, Budapest |
-| 17. |  |  | Közép-európai Egyetem, Budapest |
-| 18. |  |  | Magyar Agrár- és Élettudományi Egyetem, Gödöllő |
-| 19. |  |  | Magyar Táncművészeti Egyetem, Budapest |
-| 20. |  |  | Miskolci Egyetem, Miskolc |
-| 21. |  |  | Moholy-Nagy Művészeti Egyetem, Budapest |
-| 22. |  |  | Óbudai Egyetem, Budapest |
-| 23. |  |  | Országos Rabbiképző – Zsidó Egyetem, Budapest |
-| 24. |  |  | Pannon Egyetem, Veszprém |
-| 25. |  |  | Pázmány Péter Katolikus Egyetem, Budapest |
-| 26. |  |  | Pécsi Tudományegyetem, Pécs |
-| 27. |  |  | Semmelweis Egyetem, Budapest |
-| 28. |  |  | Soproni Egyetem, Sopron |
-| 29. |  |  | Széchenyi István Egyetem, Győr |
-| 30. |  |  | Szegedi Tudományegyetem, Szeged |
-| 31. |  |  | Színház- és Filmművészeti Egyetem, Budapest |
-| 32. |  |  | Testnevelési Egyetem, Budapest |
-| 33. | II. NEM ÁLLAMI ALKALMAZOTT TUDOMÁNYOK EGYETEMEI |  |  |
-| 34. |  |  | Budapesti Gazdasági Egyetem, Budapest |
-| 35. |  |  | Budapesti Metropolitan Egyetem, Budapest |
-| 36. |  |  | Dunaújvárosi Egyetem, Dunaújváros |
-| 37. |  |  | Edutus Egyetem, Tatabánya |
-| 38. |  |  | Gál Ferenc Egyetem, Szeged |
-| 39. |  |  | Kodolányi János Egyetem, Székesfehérvár |
-| 40. |  |  | Milton Friedman Egyetem, Budapest |
-| 41. |  |  | Neumann János Egyetem, Kecskemét |
-| 42. |  |  | Nyíregyházi Egyetem, Nyíregyháza |
-| 43. |  |  | Tokaj-Hegyalja Egyetem, Sárospatak |
-| 44. | III. FŐISKOLÁK |  |  |
-| 45. |  | III/A. Állami főiskolák |  |
-| 46. |  |  | Eötvös József Főiskola, Baja |
-| 47. |  | III/B. Nem állami főiskolák |  |
-| 48. |  |  | A Tan Kapuja Buddhista Főiskola, Budapest |
-| 49. |  |  | Adventista Teológiai Főiskola, Pécel |
-| 50. |  |  | Apor Vilmos Katolikus Főiskola, Vác |
-| 51. |  |  | Baptista Teológiai Akadémia, Budapest |
-| 52. |  |  | Bhaktivedanta Hittudományi Főiskola, Budapest |
-| 53. |  |  | Brenner János Hittudományi Főiskola, Győr |
-| 54. |  |  | Budapest Kortárstánc Főiskola, Budapest |
-| 55. |  |  | Egri Hittudományi Főiskola, Eger |
-| 56. |  |  | Esztergomi Hittudományi Főiskola, Esztergom |
-| 57. |  |  | Gábor Dénes Főiskola, Budapest |
-| 58. |  |  | IBS Nemzetközi Üzleti Főiskola, Budapest |
-| 59. |  |  | Pápai Református Teológiai Akadémia, Pápa |
-| 60. |  |  | Pécsi Püspöki Hittudományi Főiskola, Pécs |
-| 61. |  |  | Pünkösdi Teológiai Főiskola, Budapest |
-| 62. |  |  | Sapientia Szerzetesi Hittudományi Főiskola, Budapest |
-| 63. |  |  | Sárospataki Református Teológiai Akadémia, Sárospatak |
-| 64. |  |  | Sola Scriptura Teológiai Főiskola, Biatorbágy |
-| 65. |  |  | Szent Atanáz Görögkatolikus Hittudományi Főiskola, Nyíregyháza |
-| 66. |  |  | Szent Bernát Hittudományi Főiskola, Zirc |
-| 67. |  |  | Szent Pál Akadémia, Budapest |
-| 68. |  |  | Tomori Pál Főiskola, Budapest |
-| 69. |  |  | Veszprémi Érseki Hittudományi Főiskola, Veszprém |
-| 70. |  |  | Wekerle Sándor Üzleti Főiskola, Budapest |
-| 71. |  |  | Wesley János Lelkészképző Főiskola, Budapest |
-
-”
-
 ### 3. melléklet a 2021. évi VIII. törvényhez
 
 ### 4. melléklet a 2021. évi VIII. törvényhez
@@ -420,20 +322,3 @@ Magyarország államilag elismert felsőoktatási intézményei
 ### 10. melléklet a 2021. évi VIII. törvényhez
 
 ### 11. melléklet a 2021. évi VIII. törvényhez
-
-- 1. A 2020. évi CLVIII. törvény 1. mellékletében foglalt táblázat a következő 11a. sorral kiegészülve lép hatályba:
-
-|  | (A | B | C | D |
-| --- | --- | --- | --- | --- |
-| 1. | TELEPÜLÉS | HELYRAJZI SZÁM | MAGYAR ÁLLAM TULAJDONI HÁNYADA | MEGNEVEZÉS) |
-|  |  |  |  |  |
-| „11a. | VESZPRÉM | 5122 | 1/1 | kivett kollégium” |
-
-- 2. A 2020. évi CLVIII. törvény 1. mellékletében foglalt táblázat a következő 19a. és 19b. sorral kiegészülve lép hatályba:
-
-|  | (A | B | C | D |
-| --- | --- | --- | --- | --- |
-| 1. | TELEPÜLÉS | HELYRAJZI SZÁM | MAGYAR ÁLLAM TULAJDONI HÁNYADA | MEGNEVEZÉS) |
-|  |  |  |  |  |
-| „19a. | VESZPRÉM | 6104/26 | 1/1 | kivett, beépítetlen terület |
-| 19b. | VESZPRÉM | 6104/26/A | 1/1 | földhasználati jog alapján létesült épület, diákszálló” |

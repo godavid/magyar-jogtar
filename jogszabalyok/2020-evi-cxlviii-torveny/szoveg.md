@@ -144,19 +144,7 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 50. §
 
-51. § Az Nftv. a következő 7/A. alcímmel egészül ki:
-
-„7/A. A felsőoktatási szakképzés, az alapképzés és a mesterképzés képzési és kimeneti követelményei és a képesítési keret
-
-16/A. § (1) A miniszter a képzési és kimeneti követelményeket – a tanári szakok képzési és kimeneti követelményeit ide nem értve – hivatalos kiadványként közzéteszi a miniszter által vezetett minisztérium honlapján. A képzési és kimeneti követelmények normatív rendelkezést nem tartalmazhatnak és azok tartalma jogszabállyal és közjogi szervezetszabályozó eszközzel nem lehet ellentétes. A képzési és kimeneti követelmények a honlapról nem távolíthatók el, archiválásukra a digitális archiválás szabályait kell alkalmazni.
-
-(2) A közzétett képzési és kimeneti követelményeket a miniszter minősített elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja. A képzési és kimeneti követelményekben a közzététel időpontját és az alkalmazás kezdő dátumát fel kell tüntetni. A közzététel időpontja nem lehet korábbi, mint az időbélyegzőben szereplő naptári nap.
-
-(3) A képzési és kimeneti követelményeket érintő változást kizárólag felmenő rendszerben lehet bevezetni, és azt a bevezetést megelőző első tanév kezdő napjáig kell közzétenni. A képzési és kimeneti követelmények módosítása a módosítást megelőzően közzétett képzési és kimeneti követelmények szerint indított képzést nem érinti.
-
-(4) A képzési és kimeneti követelményekkel szemben kizárólag jogszabálysértésre hivatkozással kezdeményezhető közigazgatási jogvita.
-
-16/B. § A miniszter hivatalos kiadványként közzéteszi a miniszter által vezetett minisztérium honlapján a képesítési keretet.”
+51. §
 
 52. §
 
@@ -184,9 +172,7 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 64. §
 
-65. § Az Nftv. 93. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az alap- és mesterképzés, valamint a felsőoktatási szakképzés képzési és kimeneti követelményeinek közzétételére a hitéleti képzés tekintetében az egyházi fenntartó kezdeményezésére kerül sor.”
+65. §
 
 66. §
 
@@ -194,44 +180,14 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 68. §
 
-69. § (1) Az Nftv. 110. § (1) bekezdés 2. pontja helyébe a következő rendelkezés lép:
-
-(A Kormány felhatalmazást kap arra, hogy rendelettel szabályozza)
-
-„2. a pedagógusképzésben az alap- és mesterképzés, valamint az osztatlan képzés szakjait és szakirányait, választható egyenrangú szakpárjait és szakirányait, továbbá a mesterképzés szakosodási rendszerének általános szabályait,”
-
-(2) Az Nftv. 110. § (1) bekezdés 4. pontja helyébe a következő rendelkezés lép:
-
-(A Kormány felhatalmazást kap arra, hogy rendelettel szabályozza)
-
-„4. a doktori képzés szabályait, a doktori iskola létesítésének eljárási rendjét és feltételeit, a doktori iskola tagságára és szervezetére, a doktori tanács számára biztosított hatáskörre, a doktori tézisek, a doktori értekezés nyilvánosságára, a doktori fokozatszerzési eljárásra vonatkozó általános szabályokat, a doktori fokozat megszerzésének feltételeit,”
-
-(3) Az Nftv. 110. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a miniszter, hogy rendeletben szabályozza)
-
-„b) a ciklusokra bontott, osztott és az osztatlan képzések szerkezetét, az alap- és mesterképzés képzési területeit, szakjait – a pedagógusképzés kivételével –, valamint a létesítés módját,”
-
-(4) Az Nftv. 110. § (3) bekezdése a következő c) ponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy rendeletben szabályozza)
-
-„c) a felsőoktatási szakképzés képzési területeit, szakjait, valamint a létesítés módját,”
-
-(5) Az Nftv. 110. § (3) bekezdése a következő e) és f) ponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy rendeletben szabályozza)
-
-„e) az egyes tanári szakok képzési és kimeneti követelményeit,
-
-f) az oklevéllel tanúsított végzettség, szakképzettség Magyar Képesítési Keretrendszer szerinti besorolási rendjét.”
+69. §
 
 70. §
 
-71. § Az Nftv.
+71. §
 
-- 1. 3. § (2) bekezdésében az „a Kormány” szövegrész helyébe az „az oktatásért felelős miniszter (a továbbiakban: miniszter)” szöveg,
-- 2. 4. § (4) bekezdésében az „az oktatásért felelős miniszter (a továbbiakban: miniszter)” szövegrész helyébe az „a miniszter” szöveg,
+- 1.
+- 2.
 - 3.
 - 4.
 - 5.
@@ -262,28 +218,26 @@ f) az oklevéllel tanúsított végzettség, szakképzettség Magyar Képesíté
 - 30.
 - 31.
 - 32.
-- 33. 108. § 20. pontjában a „kormányrendeletben” szövegrész helyébe a „miniszter rendeletében” szöveg,
+- 33.
 - 34.
 - 35.
 - 36.
 - 37.
 
-lép.
-
-72. § Hatályát veszti az Nftv.
+72. §
 
 - 1.
 - 2.
 - 3.
 - 4.
-- 5. 51. § (7) bekezdése,
+- 5.
 - 6.
 - 7.
 - 8.
 - 9.
 - 10.
 - 11.
-- 12. 110. § (1) bekezdés 7. pontjában az „a felsőoktatási szakképzés rendjét, a felsőoktatási szakképzés képzési területeit, szakjait, valamint a létesítéssel és az indítással összefüggő eljárási rendet, továbbá” szövegrész,
+- 12.
 - 13.
 
 #### 17. A felnőttképzésről szóló 2013. évi LXXVII. törvény módosítása
@@ -348,7 +302,7 @@ lép.
 
 (2)
 
-(3) A Vatv. 1. melléklete a 8. melléklet szerint módosul.
+(3)
 
 #### 21. A szakképzésről szóló 2019. évi LXXX. törvény módosítása
 
@@ -427,7 +381,3 @@ alapján sarkalatosnak minősül.
 ### 7. melléklet a 2020. évi CXLVIII. törvényhez
 
 ### 8. melléklet a 2020. évi CXLVIII. törvényhez
-
-A Vatv. 1. melléklete a következő 15. ponttal egészül ki:
-
-„15. Pannon Egyetemért Alapítvány”
