@@ -3207,7 +3207,7 @@ vonatkozó szabályait kell alkalmazni.
 | 66. |  |  | Szent Bernát Hittudományi Főiskola, Zirc |
 | 67. |  |  | Szent Pál Akadémia, Budapest |
 | 68. |  |  | Tomori Pál Főiskola, Budapest |
-| 69. |  |  | Veszprémi Érseki Hittudományi Főiskola, Veszprém |
+| 69. |  |  | Veszprémi Érseki Főiskola, Veszprém |
 | 70. |  |  | Wekerle Sándor Üzleti Főiskola, Budapest |
 | 71. |  |  | Wesley János Lelkészképző Főiskola, Budapest |
 
