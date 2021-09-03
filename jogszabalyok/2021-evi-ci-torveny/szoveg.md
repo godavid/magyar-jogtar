@@ -539,16 +539,14 @@ lép.
 
 137. §
 
-138. § Az Nftv.
+138. §
 
 - a)
 - b)
 - c)
 - d)
 - e)
-- f) 1. mellékletében foglalt táblázat C:69 mezőjében az „Érseki Hittudományi” szövegrész helyébe az „Érseki” szöveg
-
-lép.
+- f)
 
 139. §
 
