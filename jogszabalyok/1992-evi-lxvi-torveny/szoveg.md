@@ -265,6 +265,10 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - p) értesítési címét, ha azt a polgár bejelentette;
 - q) arcképmásához rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot;
 - r) személyazonosító igazolvány kérelem és adatlap ügyszámát.
+- s) útlevelének okmányazonosítóját, érvényessége, illetve érvénytelensége tényét és ennek okát, valamint
+- t) kártyaformátumú vezetői engedélye okmányazonosítóját, érvényessége, illetve érvénytelensége tényét és ennek okát.
+
+(1a) Az (1) bekezdés s) és t) pontja szerinti adatot a nyilvántartás az 1. § (2) bekezdése szerinti célból – a személyazonosításra alkalmas adatokkal együtt – a polgárok személyazonosság igazolására alkalmas hatósági igazolványai érvényességének egységes nyilvántartása és igazolása céljából tartalmazza.
 
 (2) A nyilvántartás a szabad mozgás és tartózkodás jogával rendelkező személynek az (1) bekezdés a)–j) és l) pontja szerinti adatait, valamint személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját tartalmazza.
 
@@ -342,6 +346,8 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - q) a magánútlevél kiadásában közreműködő hatóság értesítése a természetes személyazonosító adatokról, családi állapotról, a házasságkötés helyéről vagy a bejegyzett élettársi kapcsolat létesítésének helyéről, nemről, magyarországi lakcím- vagy külföldi lakóhely adatokról;
 - r) a születést anyakönyvező anyakönyvvezető által a 7. § (3) bekezdésében meghatározott újszülött hivatalból kiadásra kerülő állandó személyazonosító igazolványa kiadásához szükséges adatok.
 - s) az anyakönyvvezető által a születési vagy a házasságkötés előtt közvetlenül viselt nevétől eltérő házassági nevet felvevő, Magyarországon házasságot kötő, érvényes állandó személyazonosító igazolvánnyal rendelkező és hivatalbóli kiállítást megakadályozó nyilatkozatot nem tevő magyar állampolgárok esetén a hivatalból kiadásra kerülő állandó személyazonosító igazolványa kiadásához szükséges adatok.
+- t) az útiokmány-nyilvántartó szerv értesítése az útlevél okmányazonosítója, érvényessége, illetve érvénytelensége ténye és oka adatokról;
+- u) a közúti közlekedési nyilvántartás engedély-nyilvántartását vezető szerv értesítése a kártyaformátumú vezetői engedély okmányazonosítója, érvényessége, illetve érvénytelensége ténye és oka adatokról.
 
 15. § (1) A polgár a lakcímbejelentés során a következő adatokat közli a helyi nyilvántartó szervvel:
 
@@ -359,7 +365,10 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 - b) új lakcímét,
 - c) jogszabályban meghatározott kivétellel a szállásadó nevét, szállásadói minőségét, lakcímét vagy székhelyét és hozzájárulását.
 
-(1b) A nyilvántartással összefüggő eljárásban informatikai rendszer igénybevételével előállított lakcímbejelentés iránti kérelem – jogszabályban meghatározott adatokon kívül – tartalmazza az eljáró polgár személyazonosság igazolására alkalmas hatósági igazolványának adatait és cselekvőképessége tényét az eljárás lefolytatása céljából.
+(1b) A jogszabályban meghatározott adatokon kívül a nyilvántartással összefüggő eljárásban informatikai rendszer igénybevételével előállított
+
+- a) lakcímbejelentés iránti kérelem tartalmazza az eljáró polgár személyazonosság igazolására alkalmas hatósági igazolványának adatait és cselekvőképessége tényét az eljárás lefolytatása céljából,
+- b) személyazonosító igazolvány iránti kérelem a polgár kérésére tartalmazza kapcsolattartási adatait (telefonszám, elektronikus levelezési cím) az okmány átadása, valamint értesítés küldése céljából.
 
 (2) A polgár a személyazonosító igazolvány, valamint az egységes arcképmás- és aláírás-felvételezés iránti kérelem előterjesztésekor rendelkezésre bocsátja – és a jogszabályban foglaltak szerint igazolja – a 29. § (2) bekezdés a)–g) pontjában megjelölt adatait, és – ha 12. életévét betöltötte, valamint nem írásképtelen vagy írástudatlan – saját kezű aláírását. Ha a polgár írásképtelen vagy írástudatlan, a kérelem aláírás rovatában a kiállító hatóság az „írásképtelen” megjelölést tünteti fel. A polgár a személyazonosító igazolvány iránti kérelem előterjesztésekor – a 29. § (9) bekezdésében foglaltak kivételével –rendelkezésre bocsátja az ujjnyomatát is.
 
@@ -512,6 +521,17 @@ van lehetőség.
 (4) Az (1)–(3) bekezdés szerinti adatigénylés alapján a nyilvántartást kezelő szerv az adatigénylőnek a 17. § (2) bekezdés g) pontja szerinti adatokról ad tájékoztatást.
 
 19/G. § Az Országgyűlés Hivatala kapcsolattartás és megemlékezés szervezése céljából a nyilvántartást kezelő szervtől kérheti az általa nyilvántartott országgyűlési képviselő, volt országgyűlési képviselő, nemzetiségi szószóló, volt nemzetiségi szószóló személyes adatai felhasználásával az országgyűlési képviselő, volt országgyűlési képviselő, nemzetiségi szószóló, volt nemzetiségi szószóló 17. § (2) bekezdés f) pontja szerinti adatát, valamint elhalálozása idejének adatát.
+
+19/H. § (1) A nyilvántartást kezelő szervtől a törvény alapján az a)–d) pont szerinti adatok megismerésére jogosult szerv a személy azonosítása és a személyazonosság ellenőrzése céljából közvetlen hozzáféréssel adatszolgáltatást kérhet a polgár
+
+- a) természetes személyazonosító adatairól,
+- b) arcképmásáról,
+- c) aláírásáról, és
+- d) a személyazonosság igazolására alkalmas hatósági igazolványának okmányazonosítójáról és érvényességéről.
+
+(2) Az (1) bekezdés szerinti adatokat a személyazonosítást és személyazonosság ellenőrzését követően – ha törvény eltérően nem rendelkezik – az adatkérő haladéktalanul törli.
+
+(3) A 24. §-ban meghatározott szervek a polgár természetes személyazonosító adatai vonatkozásában a történeti adatokról is kérhetik az (1) bekezdés szerinti adatszolgáltatást.
 
 20. § (1) A polgárnak a 17. § (2) bekezdésének a) és b) pontjában meghatározott adatairól — függetlenül attól, hogy élt-e adatai letiltásának jogával — más polgárnak, jogi személynek vagy jogi személyiséggel nem rendelkező szervezetnek adatszolgáltatás akkor teljesíthető, ha azt törvény, nemzetközi szerződés vagy viszonosság előírja, vagy ha a kérelmező
 
@@ -1422,6 +1442,8 @@ kell érteni.
 52/K. § (1) A nyilvántartásban szereplő érvényes értesítési címeket 2021. július 1. napjával a nyilvántartást kezelő szerv hivatalból érvényteleníti, valamint érvényét veszti a címjogosult és a postafiók bérlőjének 27/D. § (1) és (2) bekezdése szerinti nyilatkozata.
 
 (2) A járási hivatal 2021. június 15-ig az értesítési címmel rendelkező személyeket az (1) bekezdés szerinti változásról – a lakcímükön – értesíti.
+
+52/L. § A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv részére haladéktalanul átadja a nyilvántartás hatálya alá tartozó polgárok tekintetében az útiokmány-nyilvántartó szerv az útiokmány-nyilvántartásban szereplő útlevelek okmányazonosítója, érvényessége, illetve érvénytelensége ténye és oka adatokat, valamint a közúti közlekedési nyilvántartás engedély-nyilvántartását vezető közúti közlekedési nyilvántartó szerve a közúti közlekedési nyilvántartás engedély-nyilvántartásában szereplő kártyaformátumú vezetői engedélyek okmányazonosítója, érvényessége, illetve érvénytelensége ténye és oka, 2021. szeptember 11-én fennálló adatokat.
 
 53. § (1) Ez a törvény a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
