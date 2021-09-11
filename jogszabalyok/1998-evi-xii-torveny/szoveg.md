@@ -496,6 +496,8 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (2a) A választási szerv a külön törvényben meghatározott feladatai ellátásához – közvetlen adathozzáféréssel – adatokat vehet át az adatkezelő szerv által a 24. § (1) bekezdés a), e) és f) pontja alapján kezelt adatállományból.
 
+(2b) Az adatkezelő szerv az útiokmány-nyilvántartásban szereplő útlevél okmányazonosítójáról, érvényessége, illetve érvénytelensége tényéről és ennek okáról értesíti a személyiadat- és lakcímnyilvántartást vezető szervet.
+
 (3) A rendőrség határforgalom-ellenőrzést végző szerve a jogosulatlan külföldre utazás megakadályozása, illetve a személyazonosság megállapítása céljából – közvetlen adathozzáféréssel – adatokat vehet át az adatkezelő szerv által a 24. § (1) bekezdés a)–f) és h)–k) pontja alapján kezelt adatállományból. Az adatokat az adatkérőnek az ellenőrzést követően haladéktalanul törölnie kell.
 
 (4) Az útlevélhatóság, illetve az adatkezelő szerv a személyiadat- és lakcímnyilvántartás szerve, valamint a konzuli tisztviselő részére a személyazonosító igazolvány kiadására irányuló eljárás során a személyazonosítás céljára a 24. § (1) bekezdés a)–c), valamint e) és f) pontjában meghatározott adatokat szolgáltathatja.
