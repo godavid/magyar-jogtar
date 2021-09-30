@@ -138,7 +138,8 @@ a következő törvényt alkotja:
   - b) a pótmagánvádló képviseletében,
   - c) a tanú segítőjeként,
   - d) pártfogó ügyvédként,
-  - e) ügygondnokként
+  - e) ügygondnokként,
+  - f) a magánvádló képviseletében
 
 jár el;
 
@@ -4131,7 +4132,7 @@ indítványozhatja.
 
 (2) Az (1) bekezdés nem alkalmazható,
 
-- a) ha a terhelttel szemben életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény miatt van folyamatban eljárás,
+- a)
 - b) az ügydöntő határozat kihirdetése után elrendelt vagy fenntartott letartóztatás esetén,
 - c) ha a másodfokú vagy a harmadfokú bíróság hatályon kívül helyező végzése elleni fellebbezés elbírálása iránti eljárás van folyamatban, vagy
 - d) ha hatályon kívül helyezés folytán megismételt eljárás van folyamatban.
@@ -9962,7 +9963,7 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 
 ### Az eljárás megindításának alapja
 
-765. § (1) Az eljárás feljelentésre indul meg. A feljelentésben elő kell adni, hogy a sértett ki ellen, milyen cselekmény miatt és milyen bizonyítékok alapján kéri a büntetőeljárás lefolytatását.
+765. § (1) Az eljárás feljelentésre indul meg. A feljelentésben elő kell adni, hogy a sértett ki ellen, milyen cselekmény miatt és milyen bizonyítékok alapján indítványozza a büntetőeljárás lefolytatását.
 
 (2) A feljelentést a bíróságon kell megtenni.
 
@@ -10012,7 +10013,7 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 
 ### A bíróság feladatai az elsőfokú bírósági eljárás előtt
 
-768. § (1) Ha a 766–767. §-ban felsorolt intézkedések megtétele nem indokolt, vagy azokat a bíróság vagy az ügyészség elvégezte, a bíróság az érintett személyek személyes meghallgatása érdekében ülést (a továbbiakban: személyes meghallgatás) tart, amelyen a sértett és a feljelentett, valamint ha az ügyészség a vád képviseletét átvette, az ügyész jelenléte kötelező. Ha az ügyben több sértett van, a személyes meghallgatáson valamennyi sértett jelenléte kötelező. A személyes meghallgatáson a sértett képviselője jelen lehet.
+768. § (1) Ha a 766–767. §-ban felsorolt intézkedések megtétele nem indokolt, vagy azokat a bíróság vagy az ügyészség elvégezte, a bíróság az érintett személyek személyes meghallgatása érdekében ülést (a továbbiakban: személyes meghallgatás) tart, amelyen törvény eltérő rendelkezése hiányában a sértett és a feljelentett, valamint ha az ügyészség a vád képviseletét átvette, az ügyész jelenléte kötelező. Ha az ügyben több sértett van, a személyes meghallgatáson valamennyi sértett jelenléte kötelező. A személyes meghallgatáson a sértett képviselője jelen lehet.
 
 (1a) A feljelentettre a bűncselekmény elkövetésével megalapozottan gyanúsítható személy jogaira és kötelezettségeire vonatkozó szabályokat kell megfelelően alkalmazni. A személyes meghallgatáson a védő jelenléte nem kötelező.
 
@@ -10029,17 +10030,33 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 
 (5) Ha a feljelentett külföldi állampolgár, a személyes meghallgatáson államának konzuli tisztviselője is jelen lehet.
 
-769. § (1) A személyes meghallgatás megkezdésekor a bíróság megállapítja a sértett és a feljelentett személyazonosságát, ismerteti a feljelentés lényegét, és – ha annak feltételei fennállnak – figyelmezteti a feljelentettet a viszonvád lehetőségére. Ezt követően megkísérli a sértett és a feljelentett kibékítését.
+769. § (1) A személyes meghallgatás megkezdésekor a bíróság megállapítja a sértett és a feljelentett személyazonosságát, ismerteti a feljelentés lényegét, és – ha annak feltételei fennállnak – figyelmezteti a feljelentettet a viszonvád lehetőségére. Ezt követően – a 769/A. § (7) bekezdésében foglalt kivétellel – megkísérli a sértett és a feljelentett kibékítését.
 
 (2) Ha a békítés eredménytelen, a továbbiakban a sértett magánvádlóként, a feljelentett vádlottként vesz részt az eljárásban.
 
 (3)
 
-(4) Ha a vádlott viszonvádat emel, a bíróság a magánvádlót vádlottként is meghallgatja. A 768. § (2) bekezdésében foglalt esetben a vádlott által tett feljelentést viszonvádnak kell tekinteni.
+(4) Ha a vádlott viszonvádat emel, a bíróság – a 769/A. § (8) bekezdésében foglalt kivétellel – a magánvádlót vádlottként is meghallgatja. A 768. § (2) bekezdésében foglalt esetben a vádlott által tett feljelentést viszonvádnak kell tekinteni.
 
 (5) A bíróság felhívja a magánvádlót, továbbá viszonvád esetében a vádlottat, hogy jelölje meg a bizonyítási eszközöket, valamint azt, hogy az egyes bizonyítási eszközök mely tények bizonyítására szolgálnak. A bíróság felhívására a vádlott és a védő is megjelölheti a védekezésének alátámasztására szolgáló bizonyítási eszközöket. A bíróság minderre tizenöt napos határidőt állapíthat meg.
 
 (6) Ha az ügyben több sértett van, a megegyezésüktől függ, hogy melyikük jár el magánvádlóként. Megegyezés hiányában a magánvádlót a bíróság jelöli ki.
+
+769/A. § (1) Ha a sértett a feljelentésében vagy a személyes meghallgatás megkezdéséig úgy nyilatkozik, hogy a kibékítés megkísérlését nem kívánja, és a személyes meghallgatáson való jelenlétről lemond, a személyes meghallgatáson a feljelentő helyébe jogi képviselő léphet. A 768. § (2) bekezdésében foglalt esetben a sértett a (6) bekezdésben foglalt szabályok szerint mondhat le a személyes meghallgatáson való jelenlét jogáról.
+
+(2) Ha a sértett az (1) bekezdés szerinti nyilatkozatot tett, a magánvádas eljárásban a nyilatkozattételt követően a sértett helyett a jogi képviselője jár el.
+
+(3) Ha a sértett a személyes meghallgatás megkezdéséig az (1) bekezdés szerinti nyilatkozatot tett, és a személyes meghallgatáson jogi képviselő megjelenéséről nem gondoskodik, úgy kell tekinteni, hogy a feljelentését visszavonta. A sértettet erre az idézésben figyelmeztetni kell.
+
+(4) Ha a sértett az (1) bekezdés szerinti nyilatkozatot tett, a személyes meghallgatáson a sértett jogi képviselőjének jelenléte kötelező. Ebben az esetben a 768. § (3) és (3a) bekezdése a jogi képviselő tekintetében alkalmazandó. A bíróság erre a jogi képviselőt az idézésben figyelmezteti.
+
+(5) Ha a sértett az (1) bekezdés szerinti nyilatkozatot tett, és a személyes meghallgatáson megjelenik, vagy úgy nyilatkozik, hogy a személyes meghallgatáson jelen kíván lenni, a továbbiakban a sértett jelenléte az eljárásban kötelező, és utóbb az eljárás során a jelenlétről ismételten nem mondhat le.
+
+(6) Ha a feljelentett a személyes meghallgatás megkezdéséig úgy nyilatkozik, hogy kibékítés megkísérlését nem kívánja, a 430–431. §-ban foglaltak értelemszerű alkalmazásával a személyes meghallgatáson való jelenlét jogáról lemondhat.
+
+(7) Ha a sértett, illetve a feljelentett úgy nyilatkozott, hogy a kibékítés megkísérlését nem kívánja, a bíróság a kibékítést annak megkísérlése nélkül eredménytelennek tekinti. Ha a sértett és a feljelentett is úgy nyilatkozott, hogy a kibékítés megkísérlését nem kívánja, és a tárgyalás megtartásának nincs akadálya, a bíróság a tárgyalást nyomban megtarthatja.
+
+(8) Nem akadálya a viszonvád emelésének, ha a magánvádló a személyes meghallgatáson nincs jelen személyesen. Ebben az esetben a bíróság a magánvádló vádlottként történő meghallgatását mellőzi.
 
 770. § (1) A bíróságnak a 766–769. §-ban meghatározott feladatait – a (2) bekezdésben foglalt kivételekkel – bírósági titkár is elláthatja, és jogosult a 771. § (1) bekezdése szerinti határozat meghozatalára is.
 
@@ -10071,9 +10088,21 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 
 773. § (1) A magánvádas eljárásban előkészítő ülés tartásának nincs helye.
 
-(2) A tárgyaláson a magánvádló jelenléte kötelező.
+(2) A tárgyaláson a magánvádló jelenléte – a (2a) bekezdésben foglalt kivétellel – kötelező.
 
-(3) Ha a magánvádlónak képviselője van, őt a bíróság a tárgyalásról értesíti.
+(2a) A magánvádló helyébe a tárgyaláson jogi képviselő léphet, ha a magánvádló úgy nyilatkozik, hogy a tárgyaláson személyesen nem kíván jelen lenni. Ha a magánvádló helyébe jogi képviselő lépett, a magánvádas eljárásban a nyilatkozattételt követően a magánvádló helyett a jogi képviselője jár el.
+
+(2b) Viszonvád esetén a magánvádló, korábbi nyilatkozataitól függetlenül, a tárgyaláson való jelenlétről a 430–431. §-ban foglalt szabályok szerint mondhat le.
+
+(2c) A bíróság a tárgyaláson való jelenlétről lemondott magánvádlót a tárgyaláson való jelenlétre kötelezheti, ha bizonyítási cselekmény lefolytatása vagy szakértő meghallgatása érdekében szükséges.
+
+(2d) Ha a magánvádló a tárgyaláson való jelenlétről lemondott, és a tárgyaláson jogi képviselő megjelenéséről nem gondoskodik, úgy kell tekinteni, hogy a vádat ejtette. A magánvádlót erre az idézésben figyelmeztetni kell.
+
+(2e) A (2a) bekezdés esetén a tárgyaláson a magánvádló jogi képviselőjének jelenléte kötelező, és az (5) és (6) bekezdés a jogi képviselő tekintetében alkalmazandó. A bíróság erre a jogi képviselőt az idézésben figyelmezteti.
+
+(2f) Ha a tárgyaláson való jelenlétről lemondott magánvádló a tárgyaláson megjelenik vagy úgy nyilatkozik, hogy a tárgyaláson jelen kíván lenni, a továbbiakban a magánvádló jelenléte a tárgyaláson kötelező, és utóbb tárgyaláson való jelenlétről ismételten nem mondhat le.
+
+(3) Ha a magánvádlónak képviselője van, őt a bíróság a tárgyalásról – ha jelenléte a (2e) bekezdés értelmében nem kötelező – értesíti.
 
 (4) A bíróság az idézéssel, illetve az értesítéssel egyidejűleg arról is tájékoztatja a magánvádlót, illetve a képviselőjét, hogy a kitűzött határnapon milyen bizonyítás felvételét tervezi.
 
@@ -10135,7 +10164,7 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 
 ### A másodfokú bírósági eljárás
 
-779. § (1) A másodfokú bíróság a magánvádlót a tárgyalásra idézi, és ha a magánvádlónak van képviselője, őt a bíróság értesíti.
+779. § (1) A másodfokú bíróság a magánvádlót a tárgyalásra idézi, és ha a magánvádlónak van képviselője, őt a bíróság értesíti. Ha a magánvádló a tárgyaláson való jelenlétről lemondott, a bíróság a tárgyalásra a magánvádló jogi képviselőjét idézi.
 
 (1a) Ha a magánvádló a tárgyaláson
 
@@ -10143,6 +10172,10 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 - b) önhibájából olyan állapotban jelenik meg, hogy nem hallgatható ki, az eljárási kötelezettségeit nem képes teljesíteni, továbbá az eljárási cselekményről engedély nélkül távozik, úgy kell tekinteni, hogy a fellebbezését visszavonta. A magánvádlót erre az idézésben figyelmeztetni kell.
 
 (1b) A magánvádló a tárgyalásról ismételt vagy súlyos rendzavarása esetén sem utasítható ki, illetve vezettethető ki. Ha a magánvádló a rendzavarással nem hagy fel, és ezzel lehetetlenné teszi a tárgyalás jelenlétében való folytatását, úgy kell tekinteni, hogy a fellebbezést visszavonta.
+
+(1c) Ha a 773. § (2e) bekezdésére tekintettel a tárgyaláson a magánvádló jogi képviselőjének jelenléte kötelező, az (1a) és (1b) bekezdés a jogi képviselő tekintetében alkalmazandó. A bíróság erre a jogi képviselőt az idézésben figyelmezteti.
+
+(1d) Ha a magánvádló a tárgyaláson való jelenlétről lemondott, és a tárgyaláson jogi képviselő megjelenéséről nem gondoskodik, úgy kell tekinteni, hogy a fellebbezést visszavonta. A magánvádlót erre az idézésben figyelmeztetni kell.
 
 (2) A másodfokú bíróság az elsőfokú bíróság ítéletét tanácsülésen hatályon kívül helyezi, és az eljárást megszünteti, ha ezt a magánvádló az ügydöntő határozat meghozataláig indítványozza. A 771. § (3) bekezdése ez esetben is irányadó.
 
@@ -10160,7 +10193,7 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 
 780. § (1) Ha az ítélet ellen a vádlott terhére nem jelentettek be fellebbezést, a magánvádló nyilvános ülés kitűzését indítványozhatja.
 
-(2) A harmadfokú bíróság a magánvádlót a nyilvános ülésre idézi, és ha a magánvádlónak van képviselője, őt a bíróság értesíti.
+(2) A harmadfokú bíróság a magánvádlót a nyilvános ülésre idézi, és ha a magánvádlónak van képviselője, őt a bíróság értesíti. Ha a magánvádló a nyilvános ülésen való jelenlétről lemondott, a bíróság a nyilvános ülésre a magánvádló jogi képviselőjét idézi.
 
 ### A másodfokú és a harmadfokú bíróság hatályon kívül helyező végzése elleni fellebbezés elbírálása
 
@@ -10217,8 +10250,8 @@ feltéve, hogy a bíróság vagyonelkobzást nem rendelt el.
 (4) A büntetővégzés meghozatalára irányuló eljárásban
 
 - a) a végzés meghozatalára meghatározott egy hónapos határidőt a személyes meghallgatás napjától kell számítani,
-- b) a magánvádló a büntetővégzés kézbesítésétől számított nyolc napon belül tárgyalás tartását kérheti,
-- c) a magánvádló tárgyalás tartása iránti kérelme alapján a bíróság az eljárást az e Fejezetben foglalt eltérésekkel a C. Fejezet szerint folytatja.
+- b) a magánvádló a büntetővégzés kézbesítésétől számított nyolc napon belül tárgyalás tartását indítványozhatja,
+- c) a magánvádló tárgyalás tartása iránti indítványa alapján a bíróság az eljárást az e Fejezetben foglalt eltérésekkel a C. Fejezet szerint folytatja.
 
 (5) A magánvádló a távollévő terhelttel szembeni, illetve a külföldön tartózkodó terhelt távollétében történő bírósági eljárást nem indítványozhat.
 

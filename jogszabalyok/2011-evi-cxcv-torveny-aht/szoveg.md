@@ -746,7 +746,7 @@ az állam nevében, a tulajdonosi joggyakorlóval kötött megbízási szerződ�
 
 kerülhet sor.
 
-(4a) A (3) bekezdés szerinti előirányzat-átcsoportosítás – a közfeladatok változásával, költségvetési szervek alapításával, átalakításával vagy megszüntetésével, valamint a költségvetési szervek részére biztosított, a Kormány rendeletében meghatározott mérték szerinti költségvetési támogatásokkal kapcsolatos előirányzat-átcsoportosítás kivételével – nem irányulhat a személyi juttatások költségvetési kiadási előirányzatai növelésére.
+(4a) A (3) bekezdés szerinti előirányzat-átcsoportosítás – a közfeladatok változásával, illetve a közfeladat ellátásának módjával, annak helyével, vagy a közfeladatot ellátó személyében bekövetkező változásával, költségvetési szervek alapításával, átalakításával vagy megszüntetésével, valamint a költségvetési szervek részére biztosított, a Kormány rendeletében meghatározott mérték szerinti költségvetési támogatásokkal kapcsolatos előirányzat-átcsoportosítás kivételével – nem irányulhat a személyi juttatások költségvetési kiadási előirányzatai növelésére.
 
 (4b) Az államháztartásért felelős miniszter előzetes hozzájárulására van szükség a Kormány irányítása alá tartozó fejezeten belüli, (3) bekezdés szerinti előirányzat-átcsoportosításhoz, ha az a központi költségvetés előirányzat-módosítási kötelezettség nélkül túlteljesíthető előirányzatai terhére történik.
 
@@ -1028,6 +1028,8 @@ jogszabály vagy egyedi döntés (a továbbiakban: támogatási döntés) alapj�
 - d) a természetes személyeknek a méltánylást igénylő élethelyzetükre figyelemmel, továbbá jövedelmük pótlása, illetve kiegészítése érdekében rászorultsági alapon nyújtott egyéb szociális pénzbeli, természetbeni és személyes jellegű ellátásokra.
 
 (3) Az (1) bekezdés e) pontja alkalmazásában nem minősül tisztségviselőnek a vagyonkezelő alapítvány vagyonellenőre.
+
+(4) Az (1) bekezdés b)–e) pontját nem kell alkalmazni a 2000 fő vagy ez alatti lakosságszámú települések polgármestere tekintetében a Magyar Falu Program keretében nyújtott támogatás esetén.
 
 49. § A fejezetet irányító szerv a költségvetési támogatásokkal kapcsolatos feladatok ellátásával lebonyolító szervet, az európai uniós forrásból nyújtott költségvetési támogatásokkal kapcsolatos feladatok ellátására közreműködő szervezetet is megbízhat, ha azt jogszabály lehetővé teszi.
 
@@ -1497,6 +1499,7 @@ nem végezhet a (7) bekezdés szerinti tevékenységet.
 - c) a (4b)–(4d) bekezdés szerinti esetekben,
 - d) ha törvény vagy kormányrendelet meghatározott pénzeszközök kezelését a kincstárnál vezetett fizetési számlán írja elő.
 - e) a közfeladatot ellátó közérdekű vagyonkezelő alapítvány megbízása esetén a közfeladatot ellátó közérdekű vagyonkezelő alapítvány számára, valamint ha a közfeladatot ellátó közérdekű vagyonkezelő alapítvány közfeladatként felsőoktatási tevékenységet végez, megbízása esetén az általa fenntartott felsőoktatási intézménye számára is.
+- f) a közfeladatot ellátó közérdekű vagyonkezelő alapítvány tulajdonában álló, illetve a közfeladatot ellátó vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény tulajdonában álló nonprofit gazdasági társaság megbízása esetén a közfeladatot ellátó közérdekű vagyonkezelő alapítvány tulajdonában álló, illetve a közfeladatot ellátó vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény tulajdonában álló nonprofit gazdasági társaság számára.
 
 (4b) A kincstár a 4/A. § (5) bekezdése szerinti pénzeszközök elkülönítésére letéti és más sajátos elszámolási, lebonyolítási számlákat vezethet.
 
@@ -2182,6 +2185,8 @@ vállalható kötelezettség azzal, hogy az előző években vállalt kötelezet
 (2) Az (1) bekezdés a) és b) pontja esetében, ha a kötelezettségvállalás összege eléri a bruttó 100 000 000 forintot, a kötelezettségvállaló – a kötelezettségvállalást megelőzően egy munkanappal – köteles tájékoztatni az államháztartásért felelős minisztert.
 
 111/H. § A 41. § (6) bekezdésétől eltérően a központi költségvetés terhére az egészségügyi válsághelyzettel összefüggésben történő eszközbeszerzések és kapcsolódó szolgáltatások beszerzése tekintetében felmerülő szerződések esetében a szerződéses fél a megkötött szerződés vonatkozásában átlátható szervezetnek minősül.
+
+111/I. § E törvénynek a felsőoktatási intézmények versenyképes működését elősegítő szabályokról, valamint egyes vagyongazdálkodási, kormányzati igazgatási és büntetőjogi tárgyú törvények módosításáról szóló 2021. évi CIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 48/B. § (4) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 #### 74. Az Európai Unió jogának való megfelelés
 
