@@ -105,13 +105,11 @@ a 2021. február 7-én hatályos szöveggel, a Rendeletben foglalt eltérésekke
 
 (8) A (7) bekezdés szerinti aláírásgyűjtés esetén a helyi választási iroda vezetője a veszélyhelyzet megszűnését követő napon új hitelesítési záradékkal látja el az aláírásgyűjtő ív mintapéldányát, és azt átadja a szervezőnek. A szünetelés időtartama az Nsztv. 47. § (1) bekezdésében meghatározott időtartamba nem számít be.
 
-4/A. § Ez a törvény nem érinti a Kormány azon jogkörét, hogy a veszélyhelyzetet a 2021. évi őszi országgyűlési ülésszak első ülésnapját követő 15. napot megelőzően megszüntesse.
+4/A. § Ez a törvény nem érinti a Kormány azon jogkörét, hogy a veszélyhelyzetet e törvény hatályvesztését megelőzően megszüntesse.
 
 5. § Ez a törvény a kihirdetése napján 23 órakor lép hatályba.
 
-5/A. § (1) Ez a törvény a 2021. évi őszi országgyűlési ülésszak első ülésnapját követő 15. napon hatályát veszti.
-
-(2) E törvény hatályvesztésének naptári napját az igazságügyért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+5/A. § Ez a törvény 2022. január 1-jén hatályát veszti.
 
 6. § E törvény
 

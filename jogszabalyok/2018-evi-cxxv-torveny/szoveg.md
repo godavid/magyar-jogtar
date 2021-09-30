@@ -395,7 +395,7 @@ helyettesíti.
 
 (1) A minisztériumban az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására helyettes államtitkár működik.
 
-(2) Az (1) bekezdés szerinti helyettes államtitkár hatáskörébe – a Technikai Segítségnyújtás keret felhasználásáért felelős Végrehajtás Operatív Program kivételével – az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatokon kívül más szakmai feladat nem utalható.
+(2) Az (1) bekezdés szerinti helyettes államtitkár hatáskörébe – a Technikai Segítségnyújtás keret felhasználásáért felelős Végrehajtás Operatív Program, valamint a Belügyi Alapok 2021–2027 (Belső Biztonsági Alap, Határigazgatási és Vízumpolitikai Eszköz és a Menekültügyi, Migrációs és Integrációs Alap) programjai kivételével – az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatokon kívül más szakmai feladat nem utalható.
 
 (3) Az (1) bekezdés szerinti helyettes államtitkár tevékenységét a minisztérium szervezeti és működési szabályzata szerint a miniszter, az államtitkár vagy a közigazgatási államtitkár irányítja. Az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok tekintetében az (1) bekezdés szerinti helyettes államtitkár nem utasítható.
 
@@ -1267,13 +1267,17 @@ kézbesítettnek kell tekinteni.
 
 #### 78. § [A tagsági viszonnyal összefüggő adatkezelés szabályai]
 
-(1) A kormányzati igazgatási szerv a kormányzati szolgálati jogviszony létesítéséről és megszűnéséről legkésőbb tizenöt napon belül tájékoztatja az MKK kijelölt szervét.
+(1) A kormányzati igazgatási szerv a kormányzati szolgálati jogviszony létesítéséről és megszűnéséről a (6) bekezdésben meghatározott módon tájékoztatja az MKK kijelölt szervét.
 
 (2) Az MKK tagja a nyilvántartásba vétel, annak elmulasztása, illetve a nyilvántartásból való törlés ellen a kijelölt szervhez fellebbezéssel élhet. A nyilvántartással kapcsolatos döntésekkel, illetve mulasztással szembeni jogorvoslatra az Ákr. rendelkezéseit kell alkalmazni.
 
 (3) Az MKK a 77. § (3) bekezdés b) pontjában meghatározott etikai eljárások eredményéről nyilvántartást vezet.
 
-(4) Az MKK kijelölt szerve a tagnyilvántartási adatok körében az MKK 77. § (3) bekezdésében meghatározott feladatainak ellátása céljából kezeli a 3. melléklet szerinti közszolgálati alapnyilvántartás adatköréből az I/A. 1–4., 9–11., I/B. 1–2., II.1., a III.1. és kizárólag a korábban fennálló kormányzati szolgálati és közszolgálati jogviszony tekintetében a III.6., a IV.1., az V.1–2., 5. és 8. pontban foglalt, valamint a tagsági viszonyból eredő jogokkal és kötelezettségekkel összefüggésben keletkezett adatokat. Az MKK által kezelt adatokat a kormányzati igazgatási szerv az (1) bekezdésben meghatározott időpontban adja át az MKK részére. A kezelt adatokat a tagsági viszony megszűnését követő öt év elteltével törölni kell.
+(4) Az MKK kijelölt szerve a tagnyilvántartási adatok körében az MKK 77. § (3) bekezdésében meghatározott feladatainak ellátása céljából kezeli a 3. melléklet szerinti közszolgálati alapnyilvántartás adatköréből a 3. melléklet I/A. 1–4., 9–11., I/B. 1–2., II.1., III.1., V.7. pontjában és kizárólag a korábban fennálló kormányzati szolgálati és közszolgálati jogviszony tekintetében a 3. melléklet III.6., a IV.1., az V.1–2., 5. és 8. pontjában foglalt, valamint a tagsági viszonyból eredő jogokkal és kötelezettségekkel összefüggésben keletkezett adatokat. Az MKK által kezelt adatokat a kormányzati igazgatási szerv a (6) bekezdésben meghatározott módon adja át az MKK részére. A kezelt adatokat a tagsági viszony megszűnését követő öt év elteltével törölni kell.
+
+(5) Az (1) és a (4) bekezdésben meghatározott adatokról és az azokban bekövetkezett változásokról a kormányzati igazgatási szerv minden hónap ötödik napjáig, a Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben meghatározott informatikai rendszer útján – a Kormány rendeletében meghatározott rendben – közvetlenül nyújt adatszolgáltatást az MKK részére.
+
+(6) Az MKK tagnyilvántartásában a kormánytisztviselő kezelt adatait az (5) bekezdés szerinti informatikai rendszerben képzett és az (5) bekezdés szerinti informatikai rendszerből átadott technikai azonosítóval kell azonosítani.
 
 ### XIII. Fejezet — A KORMÁNYZATI SZOLGÁLATI JOGVISZONY ÉS ANNAK ALANYAI
 
@@ -3549,7 +3553,7 @@ együttesen kell tárolni (a továbbiakban együtt: személyi anyag).
 - f) hivatásos szolgálati jogviszonya a politikai felsővezetői kinevezés időtartamára a honvédek jogállásáról szóló törvény vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint szüneteljen.
 - g) adó- és vámhatósági szolgálati jogviszonya a politikai felsővezetői kinevezés időtartamára a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerint szüneteljen.
 
-(3) Az (1) bekezdésben foglalt összeférhetetlenségi okokat az országgyűlési képviselői megbízatással nem rendelkező államtitkár vonatkozásában a Magyar Nemzeti Bank felügyelőbizottságának tagjaira, a Nemzeti Vagyongazdálkodási Tanács tagjaira, az Országos Betétbiztosítási Alap igazgatótanácsának tagjaira, a Szanálási Alap igazgatótanácsának tagjaira, a Likviditási Bizottság és a Fenntartható Gazdaságfehéredésért Felelős Bizottság tagjaira, a közvetlen vagy közvetett többségi állami tulajdonban lévő befektetési alapkezelő irányító testületének, illetve felügyeleti feladatokat ellátó irányító testületének tagjaira, valamint az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság, a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság és a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság igazgatóságának, illetve felügyelőbizottságának tagjaira, továbbá a Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnökére vagy tagjaira nem kell alkalmazni.
+(3) Az (1) bekezdésben foglalt összeférhetetlenségi okokat az országgyűlési képviselői megbízatással nem rendelkező államtitkár vonatkozásában a Magyar Nemzeti Bank felügyelőbizottságának tagjaira, a Nemzeti Vagyongazdálkodási Tanács tagjaira, az Országos Betétbiztosítási Alap igazgatótanácsának tagjaira, a Szanálási Alap igazgatótanácsának tagjaira, a Likviditási Bizottság és a Fenntartható Gazdaságfehéredésért Felelős Bizottság tagjaira, a közvetlen vagy közvetett többségi állami tulajdonban lévő befektetési alapkezelő irányító testületének, illetve felügyeleti feladatokat ellátó irányító testületének tagjaira, valamint az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság, a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság és a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság igazgatóságának, illetve felügyelőbizottságának tagjaira, továbbá a Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnökére vagy tagjaira és a START Garancia Pénzügyi Szolgáltató Zártkörűen Működő Részvénytársaság igazgatóságának vagy felügyelőbizottságának tagjaira nem kell alkalmazni.
 
 (3a) Az (1) bekezdésben foglalt összeférhetetlenségi okokat közérdekű vagyonkezelő alapítvány kuratóriumának vagy felügyelőbizottságának tagjaira, illetve a közfeladatot ellátó közérdekű vagyonkezelő alapítványban vagyonellenőri tisztséget betöltőkre nem kell alkalmazni.
 

@@ -105,15 +105,7 @@ a következő törvényt alkotja:
 
 (2)
 
-(3) Az MFB Zrt. csak
-
-- a) hitelhez, kölcsönhöz, továbbá hitelviszonyt megtestesítő értékpapírhoz,
-- b) támogatáshoz,
-- c) ajánlattételhez,
-- d) szolgáltatás nyújtásához,
-- e) vállalkozási szerződéshez
-- f) adásvételi szerződéshez,
-- g) pénzügyi lízinghez kapcsolódóan vállalhat kezességet, garanciát, továbbá egyéb bankári kötelezettséget.
+(3)
 
 (4) Az MFB Zrt. kizárólag akkor nyújthat hitelt, illetve kölcsönt, valamint csak akkor vállalhat kezességet, garanciát, továbbá egyéb bankári kötelezettséget, ha annak visszafizetése, megtérülése az ügyletre vonatkozó üzleti, pénzügyi tervek alapján biztosított, és/vagy az MFB Zrt. fedezetértékelési szabályzata szerinti mértékű fedezetek a hitelnyújtáskor vagy a későbbiekben rendelkezésre állnak. Ha mindez a 2. § b), c), h) és k) pontjában megjelölt feladatok teljesíthetőségét akadályozza, akkor ezen feladatok teljesítésének kell elsőbbséget biztosítani.
 

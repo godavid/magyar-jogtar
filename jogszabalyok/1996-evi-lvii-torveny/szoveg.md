@@ -236,6 +236,10 @@ kell figyelembe venni.
 
 25/A. § A 24. §-tól eltérően nem kell bejelenteni a Gazdasági Versenyhivatalnak a közvetlenül vagy közvetetten többségi állami tulajdonban lévő kockázati tőkealap vagy magántőkealap részvételével a COVID-19 koronavírus miatt szükségessé vált finanszírozási ügylettel – az e célra létrehozott tőkeprogramon keresztül – megvalósuló összefonódást, amely révén a közvetlenül vagy közvetetten többségi állami tulajdonban lévő kockázati tőkealap vagy magántőkealap egyedül vagy más vállalkozásokkal közös, befektetésvédelmi célú irányítási jogokat szerez.
 
+25/B. § (1) A 24. §-tól eltérően, nem kell bejelenteni a Gazdasági Versenyhivatalnak azt az összefonódást, amely révén közvetlenül vagy közvetetten többségi állami tulajdonban lévő kockázati tőkealap az Európai Bizottság által a belső piaccal összeegyeztethetőnek nyilvánított állami támogatással megvalósuló tőkebefektetése következtében közös irányítási jogokat szerez egy vállalkozásban, amelynek előző évi nettó árbevétele nem érte el az egymilliárd forintot.
+
+(2) Az (1) bekezdés szerinti összefonódás végrehajtásáról az irányításszerző tőkealap a végrehajtás időpontját követő 30 napon belül tájékoztatja a Gazdasági Versenyhivatalt.
+
 26. § (1) Érintett vállalkozások az összefonódásban közvetlenül és közvetetten részt vevő vállalkozások.
 
 (2) Közvetlen résztvevők
@@ -2373,6 +2377,8 @@ végrehajtási eljárásokra is alkalmazni kell.
 (3) Ha a Gazdasági Versenyhivatalnál foglalkoztatott, (1) bekezdés szerinti köztisztviselő a közszolgálati munkaszerződésre vonatkozó ajánlatot nem fogadja el, közszolgálati jogviszonya a Küt. 105. § (7) bekezdésének megfelelően a határidő utolsó napját követő napon megszűnik. A Küt. 41. §-ának alkalmazásában a versenytanácstagként járó illetményt kell figyelembe venni.
 
 (4) A 34. §-ban meghatározott köztisztviselők jogviszonyának Küt. szerinti közszolgálati jogviszonnyá történő átalakulása nem érinti a megbízatást, kinevezést.
+
+95/I. § E törvénynek a felsőoktatási intézmények versenyképes működését elősegítő szabályokról, valamint egyes vagyongazdálkodási, kormányzati igazgatási és büntetőjogi tárgyú törvények módosításáról szóló 2021. évi CIII. törvénnyel (a továbbiakban: Módtv5.) megállapított 25/B. §-át a Módtv5. hatálybalépését megelőzően létrejött, de még végre nem hajtott összefonódásokra is alkalmazni kell.
 
 ### Felhatalmazó rendelkezések
 
