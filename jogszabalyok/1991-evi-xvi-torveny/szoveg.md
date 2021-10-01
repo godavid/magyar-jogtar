@@ -26,7 +26,7 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 (3) Ha a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 18. § (5) bekezdésében foglalt feltételeknek megfelelő szerződés alapján a tulajdonszerzésre még nem került sor, az önkormányzat a törzsvagyon részét képező tereken, parkokon és egyéb közterületeken létesített építmény tekintetében köteles zártkörű pályázatot kiírni. Zártkörű pályázat esetén érdekeltnek kell tekinteni a hatályos építésügyi hatósági engedély engedélyesét.
 
-5. § (1) Az állam nevében pályázat kiírására, elbírálására, ajánlattételi felhívásra, ajánlattételi eljárás, valamint a 10/A. § szerinti eljárás lefolytatására és a koncessziós szerződés megkötésére a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv jogosult.
+5. § (1) Az állam nevében pályázat kiírására, elbírálására, ajánlattételi felhívásra, ajánlattételi eljárás, valamint a 10/A. § szerinti eljárás lefolytatására és a koncessziós szerződés megkötésére – a Szabályozott Tevékenységek Felügyeleti Hatóságának (a továbbiakban: Hatóság) előzetes egyetértésével – a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv jogosult.
 
 (2) Az e törvény szerinti koncessziós pályázatok, ajánlattételi eljárások és a 10/A. § szerinti eljárások elbírálására bíráló bizottság kerül létrehozásra. A bíráló bizottság javaslatot készít a koncessziós pályázat odaítéléséről, az ajánlat elfogadásáról szóló döntésről, az értékesítésre vonatkozó döntésről, valamint a koncessziós szerződés megkötéséről.
 
@@ -215,7 +215,7 @@ az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy k�
 
 (2) A koncesszió-köteles tevékenységgel összefüggésben létrejött kizárólagos állami tulajdonnak vagy önkormányzati törzsvagyonnak minősülő vagyontárgy az üzembehelyezés időpontjával kerül az állam, illetőleg az önkormányzat tulajdonába a koncessziós szerződésben rögzített feltételek szerint.
 
-16. § A koncessziós szerződésből eredő jogviták elbírálása során – a felek ilyen megállapodása esetén, nemzetközi szerződés eltérő rendelkezése vagy Magyarország nemzetközi szerződésből eredő eltérő kötelezettsége hiányában – magyar és külföldi választottbíróság is eljárhat, egyébként a koncessziós szerződésből eredő jogviták elbírálására az általános hatáskörrel és illetékességgel rendelkező bíróság jogosult.
+16. § A koncessziós szerződésből eredő jogviták elbírálása során – a felek ilyen megállapodása esetén, nemzetközi szerződés eltérő rendelkezése vagy Magyarország nemzetközi szerződésből eredő eltérő kötelezettsége hiányában – a Koncessziós Állandó Választottbíróság és külföldi választottbíróság is eljárhat, egyébként a koncessziós szerződésből eredő jogviták elbírálására az általános hatáskörrel és illetékességgel rendelkező bíróság jogosult.
 
 17. § (1) A koncesszió-köteles tevékenység folytatására kiírt pályázat nyertesének a koncessziós szerződésben kötelezettséget kell vállalnia arra vonatkozólag, hogy a pályázati kiírás alapján a koncessziós szerződésben rögzített követelményeket az általa alapított gazdasági társaság alapító okiratában érvényesíteni fogja.
 
@@ -228,6 +228,8 @@ az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy k�
 (2) A koncessziós szerződés azon tartalmi elemei, amelyek a nyilvános koncessziós pályázat kiírásának részét képezték, közérdekű adatnak minősülnek.
 
 (3) A koncessziós szerződések megkötésével és teljesítésével kapcsolatban nem lehet üzleti titokra hivatkozással visszatartani az információt a közérdekű adatok nyilvánosságára és a közérdekből nyilvános adatra vonatkozó, külön törvényben meghatározott adatszolgáltatási és tájékoztatási kötelezettség esetén.
+
+19/A. § A koncessziós szerződés módosításához, az állam nevében történő megszüntetéséhez a Hatóság előzetes egyetértése szükséges.
 
 ### A koncessziós társaság
 

@@ -302,7 +302,7 @@ bemutatására köteles fordítani.
 
 - a) párt, politikai mozgalom,
 - b) olyan vállalkozás, amelynek elsődleges tevékenysége cigaretta, egyéb dohánytermék, elektronikus cigaretta, utántöltő flakon gyártása vagy értékesítése,
-- c) a szerencsejáték-felügyeleti hatóság engedélye nélkül szerencsejáték-szervezői tevékenységet végző vállalkozás.
+- c) a Szabályozott Tevékenységek Felügyeleti Hatóságának engedélye nélkül szerencsejáték-szervezői tevékenységet végző vállalkozás.
 
 (2) Az (1) bekezdés b) pontban foglaltakon túli azon vállalkozás, amely – főtevékenysége szerint – e törvény, illetve más jogszabályok alapján nem reklámozható terméket állít elő, illetőleg ilyen termékekkel kapcsolatos szolgáltatást nyújt, e terméke, illetve szolgáltatása megjelenítésével, népszerűsítésével médiaszolgáltatást vagy műsorszámot nem támogathat.
 
@@ -349,7 +349,7 @@ műsorszámban.
 - b) olyan vállalkozás terméke, amelynek elsődleges tevékenysége az a) pont szerinti termékek valamelyikének gyártása vagy értékesítése,
 - c) jogszabály alapján nem reklámozható termék,
 - d) olyan gyógyszer, illetve gyógyászati termék, eljárás, amely kizárólag orvosi rendelvényre vehető igénybe,
-- e) a szerencsejáték-felügyeleti hatóság engedélye nélkül nyújtott szerencsejáték-szolgáltatás.
+- e) a Szabályozott Tevékenységek Felügyeleti Hatóságának engedélye nélkül nyújtott szerencsejáték-szolgáltatás.
 
 31. § (1) A termékmegjelenítést tartalmazó műsorszámoknak meg kell felelniük az alábbi követelményeknek:
 

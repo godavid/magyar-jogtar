@@ -38,7 +38,7 @@ Az Országgyűlés a polgárok, így különösen a fiatalkorúak egészségéne
 
 4. § Magatartási kódex nem ösztönözhet olyan magatartásra, amely e törvény rendelkezéseibe ütközik.
 
-5. § (1) Reklám akkor tehető közzé, ha a reklámozó a reklám megrendelésekor a reklámszolgáltató – ennek hiányában a reklám közzétételének megrendelésekor a reklám közzétevője – részére megadja a cégnevét, illetve nevét, a székhelyét, ennek hiányában lakóhelyét, továbbá az adószámát és a szerencsejátékot népszerűsítő reklám esetén a szerencsejáték-felügyeleti hatóság által szerencsejáték szervezésére jogosító engedélyt.
+5. § (1) Reklám akkor tehető közzé, ha a reklámozó a reklám megrendelésekor a reklámszolgáltató – ennek hiányában a reklám közzétételének megrendelésekor a reklám közzétevője – részére megadja a cégnevét, illetve nevét, a székhelyét, ennek hiányában lakóhelyét, továbbá az adószámát és a szerencsejátékot népszerűsítő reklám esetén a Szabályozott Tevékenységek Felügyeleti Hatósága által szerencsejáték szervezésére jogosító engedélyt.
 
 (2) A külön jogszabályban meghatározott előzetes minőségvizsgálati vagy megfelelőségtanúsítási kötelezettség alá tartozó termékre vonatkozó reklám esetén a reklámozó köteles a reklámszolgáltatónak – ennek mellőzése esetén a reklám közzétevőjének – nyilatkozni arról, hogy a vizsgálatot elvégezték és annak alapján a termék forgalomba hozható. Ha a termék nem tartozik előzetes minőségvizsgálati vagy megfelelőségtanúsítási kötelezettség alá, a nyilatkozatnak ezt kell tartalmaznia. Ilyen nyilatkozat hiányában a reklám nem tehető közzé.
 
@@ -227,9 +227,9 @@ közvetlenül vagy közvetetetten tulajdoni részesedéssel rendelkezik.
 
 (2) Tilos közzétenni szerencsejátékhoz kapcsolódó reklámot olyan sajtótermékben, amely alapvetően gyermek-, illetve fiatalkorúakhoz szól.
 
-(3) Tilos közzétenni olyan reklámot, amely a szerencsejáték-felügyeleti hatóság engedélye nélkül szervezett szerencsejátékot népszerűsíti.
+(3) Tilos közzétenni olyan reklámot, amely a Szabályozott Tevékenységek Felügyeleti Hatósága engedélye nélkül szervezett szerencsejátékot népszerűsíti.
 
-(4) Tilos olyan reklámban szerepelni, amely a szerencsejáték-felügyeleti hatóság engedélye nélkül Magyarország területén szervezett szerencsejátékot népszerűsít.
+(4) Tilos olyan reklámban szerepelni, amely a Szabályozott Tevékenységek Felügyeleti Hatósága engedélye nélkül Magyarország területén szervezett szerencsejátékot népszerűsít.
 
 22. § (1) Tilos közzétenni temetkezési szolgáltatás reklámját egészségügyi intézmény területén, épületének falán és kerítésén, valamint – az erre a célra kijelölt hely kivételével – temető területén. E korlátozás nem vonatkozik a temetkezési szolgáltatók nevét és telephelyének címét, elérhetőségét, valamint a nyújtott szolgáltatás teljeskörűségére utaló megjegyzést az egyes szolgáltatók megkülönböztetése nélkül, ábécésorrendben tartalmazó, az egészségügyi intézmény információs irodájában elhelyezett tájékoztatóra.
 
@@ -261,7 +261,7 @@ közvetlenül vagy közvetetetten tulajdoni részesedéssel rendelkezik.
 
 24. § (1) A gazdasági reklámtevékenységre, továbbá a tiltott szponzorálásra vonatkozó rendelkezések megsértése esetén – a (4) bekezdésben foglalt kivétellel – a fogyasztóvédelmi hatóság vagy – a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) által felügyelt tevékenység reklámja és az erre vonatkozó magatartási kódex tekintetében – a Felügyelet jár el.
 
-(2) Az 5. § (1) bekezdésében és a 21. §-ban foglalt rendelkezések megsértése esetén fogyasztóvédelmi hatóságként a Szerencsejáték Felügyelet jár el.
+(2) Az 5. § (1) bekezdésében és a 21. §-ban foglalt rendelkezések megsértése esetén fogyasztóvédelmi hatóságként a Szabályozott Tevékenységek Felügyeleti Hatósága jár el.
 
 (3)
 

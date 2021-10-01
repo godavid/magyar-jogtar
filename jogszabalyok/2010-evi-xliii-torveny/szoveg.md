@@ -19,8 +19,9 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 (3) Önálló szabályozó szerv
 
-- a) a Nemzeti Média- és Hírközlési Hatóság, és
-- b) a Magyar Energetikai és Közmű-szabályozási Hivatal.
+- a) a Nemzeti Média- és Hírközlési Hatóság,
+- b) a Magyar Energetikai és Közmű-szabályozási Hivatal és
+- c) a Szabályozott Tevékenységek Felügyeleti Hatósága.
 
 (4) Autonóm államigazgatási szerv
 
