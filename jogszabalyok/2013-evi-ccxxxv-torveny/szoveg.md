@@ -916,6 +916,7 @@ szemben.
 - o) a feladatkörében eljáró kormányzati ellenőrzési szervvel, valamint
 - p) az eltűnt vagy az elfogatóparancs, európai elfogatóparancs, nemzetközi elfogatóparancs hatálya alatt álló személyek felkutatását, továbbá az ismeretlen személy vagy holttest azonosítását végző rendőri szervvel,
 - q) a szociális rászorultságtól függő pénzbeli és természetbeni ellátások jogosultsági feltételeinek vizsgálatával összefüggő feladatkörében eljáró, szociális hatáskört gyakorló szervvel
+- r) a feladatkörében eljáró Szabályozott Tevékenységek Felügyeleti Hatóságával
 
 szemben e szerveknek a pénzforgalmi intézményhez, elektronikuspénz-kibocsátó intézményhez intézett adatkérése, illetve írásbeli megkeresése esetén.
 

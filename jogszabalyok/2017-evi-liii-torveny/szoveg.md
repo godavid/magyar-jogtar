@@ -179,7 +179,7 @@ Mindezek érdekében az Országgyűlés a következő törvényt alkotja:
 5. § E törvény alkalmazásában felügyeletet ellátó szerv az 1. § (1) bekezdés
 
 - a) a)–e) pontjában meghatározott szolgáltatók vonatkozásában a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró MNB (a továbbiakban: Felügyelet);
-- b) i) pontjában meghatározott szolgáltatók vonatkozásában a szerencsejáték felügyeleti hatóság;
+- b) i) pontjában meghatározott szolgáltatók vonatkozásában a Szabályozott Tevékenységek Felügyeleti Hatósága;
 - c) g) pontjában meghatározott szolgáltatók vonatkozásában a Magyar Könyvvizsgálói Kamara;
 - d) l) pontjában meghatározott szolgáltatók vonatkozásában az e törvény alapján az ügyvédekre, a kamarai jogtanácsosokra, valamint a közjegyzőkre vonatkozó eltérő rendelkezések szerint:
   - da) az ügyvédek és a kamarai jogtanácsosok esetében az a kamara, amelynek az ügyvéd, kamarai jogtanácsos a tagja (a továbbiakban: területi ügyvédi kamara),
@@ -1055,7 +1055,7 @@ belső ellenőrző és információs rendszerek működéséről.
 
 (2a) Az 5. §-ban meghatározott felügyeletet ellátó szerv (1) bekezdés szerinti felügyeleti tevékenysége kiterjed a szolgáltatónak a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló jogszabályi rendelkezéseknek való megfelelésének biztosítására is.
 
-(3) A felügyelet ellátása során – az e törvényben meghatározott eltérésekkel – az 5. § e) és f) pontjában meghatározott felügyeletet ellátó szerv a általános közigazgatási rendtartásról szóló törvény, az 5. § a) és g) pontjában meghatározott felügyeletet ellátó szerv a általános közigazgatási rendtartásról szóló törvény és az MNBtv., az 5. § b) pontjában meghatározott felügyeletet ellátó szerv a közigazgatási hatósági eljárásról szóló és a szerencsejáték szervezéséről szóló törvény, az 5. § c) pontjában meghatározott felügyeletet ellátó szerv a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló és a általános közigazgatási rendtartásról szóló törvény rendelkezései szerint jár el.
+(3) A felügyelet ellátása során – az e törvényben meghatározott eltérésekkel – az 5. § e) és f) pontjában meghatározott felügyeletet ellátó szerv a általános közigazgatási rendtartásról szóló törvény, az 5. § a) és g) pontjában meghatározott felügyeletet ellátó szerv a általános közigazgatási rendtartásról szóló törvény és az MNBtv., az 5. § b) pontjában meghatározott felügyeletet ellátó szerv az általános közigazgatási rendtartásról szóló törvény, a Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló törvény és a szerencsejáték szervezéséről szóló törvény, az 5. § c) pontjában meghatározott felügyeletet ellátó szerv a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló és a általános közigazgatási rendtartásról szóló törvény rendelkezései szerint jár el.
 
 (4) A felügyelet ellátása során az 5. § d) pont da) alpontjában meghatározott felügyeletet ellátó szerv az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény (a továbbiakban: Üttv.), az 5. § d) pont db) alpontjában meghatározott felügyeletet ellátó szerv a Kjtv. rendelkezései szerint jár el.
 
@@ -1337,7 +1337,7 @@ elkövetése miatt elítéltek, a büntetett előélethez fűződő hátrányos 
 
 77. § (1) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg a belső szabályzat kötelező tartalmi elemeit, valamint a vagyon forrására vonatkozó nyilatkozat kötelező tartalmi elemeit.
 
-(2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg az 1. § (1) bekezdés f), h–k) és n–r) pontjában meghatározott szolgáltatók tekintetében
+(2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg az 1. § (1) bekezdés f), h), j), k) és n)–r) pontjában meghatározott szolgáltatók tekintetében
 
 - a) a belső kockázatértékelés elkészítésének szabályrendszerére,
 - b) a belső ellenőrző és információs rendszer működtetésére,
@@ -1362,6 +1362,19 @@ vonatkozó részletszabályokat.
 - g) a képzési programra,
 - h) az ügylet felfüggesztésére
 - i) i) a tényleges tulajdonos személyazonosságának megállapítása érdekében megteendő intézkedésekre
+
+vonatkozó részletszabályokat.
+
+(3a) Felhatalmazást kap a Szabályozott Tevékenységek Felügyeleti Hatóságának elnöke, hogy rendeletben állapítsa meg az 1. § (1) bekezdés i) pontjában meghatározott szolgáltatók tekintetében
+
+- a) a belső kockázatértékelés elkészítésének szabályrendszerére,
+- b) a belső ellenőrző és információs rendszer működtetésére,
+- c) az egyszerűsített és a fokozott ügyfél-átvilágítás esetköreire és azok felügyeleti jóváhagyásának szabályaira,
+- d) az auditált elektronikus hírközlő eszköz és működtetésének minimumkövetelményeire, auditálásának módjára, valamint az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtására,
+- e) a megerősített eljárás esetköreire és feltételrendszerére,
+- f) a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez vezetői döntést igénylő esetek meghatározására,
+- g) a képzési programra,
+- h) az ügylet felfüggesztésére
 
 vonatkozó részletszabályokat.
 

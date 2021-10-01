@@ -152,7 +152,7 @@ Abból a felismerésből, hogy a közösség és az egyén érdekének, illetve 
 
 (6) A médiatartalomban közzétett kereskedelmi közlemény nem ösztönözhet az egészségre, a biztonságra és a környezetre ártalmas magatartásra.
 
-(7) Nem szabad médiatartalomban közzétenni cigarettát és más dohányárut, elektronikus cigarettát, utántöltő flakont, fegyvert, lőszert, robbanóanyagot, a szerencsejáték-felügyeleti hatóság engedélye nélkül szervezett szerencsejátékot, kizárólag orvosi rendelvényre igénybe vehető gyógyszert, továbbá gyógyászati eljárást népszerűsítő, ismertető kereskedelmi közleményt. E korlátozás nem terjed ki a gazdasági reklámtevékenységről szóló törvényben, illetve más jogszabályban foglalt kivételekre.
+(7) Nem szabad médiatartalomban közzétenni cigarettát és más dohányárut, elektronikus cigarettát, utántöltő flakont, fegyvert, lőszert, robbanóanyagot, a Szabályozott Tevékenységek Felügyeleti Hatóságának engedélye nélkül szervezett szerencsejátékot, kizárólag orvosi rendelvényre igénybe vehető gyógyszert, továbbá gyógyászati eljárást népszerűsítő, ismertető kereskedelmi közleményt. E korlátozás nem terjed ki a gazdasági reklámtevékenységről szóló törvényben, illetve más jogszabályban foglalt kivételekre.
 
 (8) A médiatartalom támogatóját a közzététellel egyidejűleg, illetve azt közvetlenül megelőzően vagy azt követően meg kell nevezni. Audiovizuális médiaszolgáltatás vagy annak műsorszáma más audiovizuális médiaszolgáltatást végző, illetve audiovizuális műsorszámok vagy filmalkotások készítésével foglalkozó vállalkozás által nem támogatható.
 

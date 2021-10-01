@@ -88,24 +88,28 @@ kiskereskedelmi értékesítésére.
 
 4. § (1) Az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter (a továbbiakban: miniszter) ellátja a dohánytermék-kiskereskedelmi tevékenység szervezésének szakmai irányítását, melynek során mindenkor – e törvény alapvető céljának – a fiatalkorúak védelmének elsődlegessége alapján kell tevékenykednie.
 
-(2) Az (1) bekezdésben foglaltak teljesülése érdekében a miniszter 100%-os állami tulajdonban lévő zártkörűen működő nonprofit részvénytársaságot (a továbbiakban: részvénytársaság) alapít
+(2) A kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv
 
-- a) a dohánytermék-kiskereskedelem szervezett működésének előmozdítására, szakmai állásfoglalások kibocsátására,
-- b) a dohánytermék-kiskereskedelmi jogosultság átengedéséről szóló pályázatok kiírásának, elbírálásának, a koncessziós szerződések megkötésének (módosításának, megszüntetésének) előkészítésére,
-- c) a dohánytermék-kiskereskedőkkel, valamint a dohány-kiskereskedelmi ellátóval megkötött koncessziós szerződésekben foglaltak betartásának ellenőrzésére; a koncessziós szerződésekből eredő jogok és vállalt kötelezettségek érvényesítésében való közreműködésre,
-- d) a dohánytermék-kiskereskedők részére országos szakmai képzési rendszer működtetésére és oktatási feladatok ellátására,
-- e) a dohányipari ágazati konzultációs fórum létrehozására és folyamatos működtetésére,
-- f) a dohánytermék-nagykereskedők, a dohánytermék-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó közötti vitás kérdések rendezésére vonatkozó mediációs tevékenységre,
-- g) a külön jogszabályban meghatározottak szerint a dohányboltban forgalmazható termékek regisztrációs adatainak fogadására, és ezeknek a dohány-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó részére történő publikálására; készletnyilvántartó minősítési rendszer működtetésére, a dohánytermék-kiskereskedők készlet és forgalmi adatainak kezelésére, feldolgozására,
-- h) a Jöt. alapján a dohánytermékek árainak közzététele érdekében a külön jogszabályban meghatározottak szerint a szolgáltatott árbejelentések rendszerezésére, feldolgozására és továbbítására,
-- i) a koncessziós szerződésekből eredő számlázási feladatok ellátására,
-- j) a koncessziós szerződésekkel összefüggő követeléskezelési feladatok – ide nem értve az azonnali beszedési megbízást – ellátására,
-- k) a dohánytermék-kiskereskedelmi jogosultság gyakorlására a részvénytársaság által külön feljogosított személyek kötelezettségeinek ellenőrzésére, a feljogosításról szóló okiratból eredő jogok és kötelezettségek érvényesítésére, valamint az ezzel összefüggő intézkedések és tájékoztatások megtételére, valamint
-- l) e törvényben vagy jogszabályban meghatározott egyéb feladat ellátására.
+- a) előkészíti a dohánytermék-kiskereskedelmi jogosultság átengedéséről szóló pályázatok kiírását, elbírálását, a koncessziós szerződések megkötését (módosítását, megszüntetését),
+- b) ellátja a koncessziós szerződésekből eredő számlázási feladatokat, és
+- c) ellátja a koncessziós szerződésekkel összefüggő követeléskezelési feladatokat, ide nem értve az azonnali beszedési megbízást.
 
-(3) A részvénytársaság e törvényben meghatározott tevékenységével összefüggő költségeihez a miniszter a központi költségvetésről szóló törvényben e célra meghatározott fejezeti kezelésű előirányzat terhére támogatást nyújt.
+(3) A Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság)
 
-(4) A részvénytársaságnak a (2) bekezdésben és a 10/C. §-ban meghatározott feladatai közfeladatnak minősülnek.
+- a) előmozdítja a dohánytermék-kiskereskedelem szervezett működését, szakmai állásfoglalásokat bocsát ki,
+- b) ellenőrzi a dohánytermék-kiskereskedőkkel, valamint a dohány-kiskereskedelmi ellátóval megkötött koncessziós szerződések szerinti koncesszióköteles tevékenység gyakorlását; közreműködik a koncessziós szerződésekből eredő jogok és vállalt kötelezettségek érvényesítésében,
+- c) ellátja a dohánytermék-kiskereskedelem engedélyezésével, a dohánytermék-kiskereskedelmi tevékenység végzésére jogosító engedéllyel rendelkező személyek közhiteles nyilvántartásával kapcsolatos feladatokat,
+- d) ellátja a dohánytermék-kiskereskedelem hatósági felügyeletével és a fiatalkorúak különös védelmével kapcsolatos rendelkezések végrehajtásának ellenőrzésével kapcsolatos feladatokat,
+- e) gyakorolja a dohánytermék-kiskereskedelem és a dohány-kiskereskedelmi ellátási jogosultság átengedéséről szóló pályázat kiírásához, elbírálásához, továbbá a dohánytermék-kiskereskedelmi, dohány-kiskereskedelmi ellátási tevékenység gyakorlására jogosító koncessziós szerződés megkötéséhez, módosításához, megszüntetéséhez előzetes hozzájárulási megadásához kapcsolódó jogkört,
+- f) végzi a dohánytermék-nagykereskedőknek a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvény szerinti hatósági ellenőrzésével, felügyeletével kapcsolatos feladatokat,
+- g) a dohánytermék-kiskereskedők részére országos szakmai képzési rendszert működtet és oktatási feladatokat lát el,
+- h) létrehozza és folyamatosan működteti a dohányipari ágazati konzultációs fórumot,
+- i) a dohánytermék-nagykereskedők, a dohánytermék-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó közötti vitás kérdések rendezésére vonatkozóan mediációs tevékenységet lát el,
+- j) jogszabályban meghatározottak szerint fogadja a dohányboltban forgalmazható termékek regisztrációs adatait, és ezeket a dohány-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó részére publikálja; készletnyilvántartó minősítési rendszert működtet, a dohánytermék-kiskereskedők készlet- és forgalmi adatait kezeli, feldolgozza,
+- k) a Jöt. alapján a dohánytermékek árainak közzététele érdekében jogszabályban meghatározottak szerint a szolgáltatott árbejelentéseket rendszerezi, feldolgozza és továbbítja, és
+- l) a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személyek kötelezettségeit ellenőrzi.
+
+(4)
 
 4/A. § (1) Ha a dohánykiskereskedelem-ellátási feladatokat az állam maga látja el, úgy a miniszter e feladatok ellátására 100%-os állami tulajdonban lévő zártkörűen működő részvénytársaságot alapít.
 
@@ -130,7 +134,7 @@ kiskereskedelmi értékesítésére.
 
 7. § (1) A dohánytermék-kiskereskedelmi jogosultság átengedésére vonatkozó nyilvános pályázatra a Ktv.-ben előírt szabályokat az e törvényben foglalt eltéréssel kell alkalmazni.
 
-(2) A nyilvános pályázati felhívást vagy legalább két országos napilapban, vagy a pályázat szerinti településen illetékes megyei (fővárosi) kormányhivatal honlapján, vagy a részvénytársaság honlapján meg kell hirdetni a pályázatok benyújtására nyitva álló időtartam kezdő napját legalább tizenöt nappal megelőzően.
+(2) A nyilvános pályázati felhívást vagy legalább két országos napilapban, vagy a pályázat szerinti településen illetékes megyei (fővárosi) kormányhivatal honlapján meg kell hirdetni a pályázatok benyújtására nyitva álló időtartam kezdő napját legalább tizenöt nappal megelőzően.
 
 (3) A pályázati kiírásnak tartalmaznia kell a pályázat elbírálásának szempontjait. A szempontok között érvényt kell szerezni a 13. § (5) bekezdésében foglaltaknak, továbbá előnyben kell részesíteni azt a pályázót, aki
 
@@ -172,17 +176,17 @@ kiskereskedelmi értékesítésére.
 10. § (1) Ha
 
 - a) a nyilvános pályázat eredménytelen, vagy
-- b) bármely dohánytermék-kiskereskedelmi jogosultság gyakorlása az adott településen megszűnt, illetve még nem folyik, a dohánytermékek kiskereskedelmére vonatkozó jogosultságot az állam a részvénytársaság vagy a részvénytársaság által erre külön feljogosított személy útján is gyakorolhatja az új, eredményes pályázat alapján megkötendő koncessziós szerződés aláírását követő 90. nap elteltéig.
+- b) bármely dohánytermék-kiskereskedelmi jogosultság gyakorlása az adott településen megszűnt, illetve még nem folyik, a dohánytermékek kiskereskedelmére vonatkozó jogosultságot az állam a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv által erre külön feljogosított személy útján is gyakorolhatja az új, eredményes pályázat alapján megkötendő koncessziós szerződés aláírását követő 90. nap elteltéig.
 
 (2) A pályázat eredménytelensége esetén legkésőbb az eredménytelenség kihirdetését követő 6 hónapon belül új pályázatot kell kiírni és annak eredményéről a határidőn belül határozni is kell.
 
 (3) Ha a (2) bekezdés alapján kiírt új pályázat is bármely okból eredménytelen, legkésőbb az új pályázat eredménytelenségének kihirdetését követő 36 hónapon belül kell új pályázatot kiírni.
 
-(4) A (3) bekezdésben foglaltaktól eltérően, ha az állam a dohánytermék-kiskereskedelmi jogosultságot a részvénytársaság által feljogosított személy útján gyakorolja, és a (2) bekezdés alapján kiírt új pályázat is bármely okból eredménytelen, legkésőbb az új pályázat eredménytelenségének kihirdetését követő 12 hónapon belül kell új pályázatot kiírni.
+(4) A (3) bekezdésben foglaltaktól eltérően, ha az állam a dohánytermék-kiskereskedelmi jogosultságot a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv által feljogosított személy útján gyakorolja, és a (2) bekezdés alapján kiírt új pályázat is bármely okból eredménytelen, legkésőbb az új pályázat eredménytelenségének kihirdetését követő 12 hónapon belül kell új pályázatot kiírni.
 
 (5) Ha egy dohánytermék-kiskereskedelmi jogosultság gyakorlása – legalább két, 24 hónapon belül meghirdetett pályázati kiírást követően – az utolsó pályázati kiírás eredményhirdetését követő 90. napon belül sem folyik, az utolsó pályázat eredményhirdetését követő 36 hónap elteltéig nem kötelező új pályázatot kiírni.
 
-(6) A (3)–(5) bekezdéstől eltérően a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv is meghatározhatja az új pályázat kiírásának legkorábbi napját akkor, ha a részvénytársaság tájékoztatása alapján az adott településen a dohánytermék-kiskereskedelmi jogosultság gyakorlására nyilvánvalóan nincs érdeklődő. A részvénytársaság az érdeklődés felméréséről legalább évente – a település önkormányzata vagy jegyzője részére – megküldött megkeresés útján, valamint a honlapján folyamatosan fenntartott felhívással gondoskodik.
+(6) A (3)–(5) bekezdéstől eltérően a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv is meghatározhatja az új pályázat kiírásának legkorábbi napját akkor, ha az adott településen a dohánytermék-kiskereskedelmi jogosultság gyakorlására nyilvánvalóan nincs érdeklődő. A kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv az érdeklődés felméréséről legalább évente – a település önkormányzata vagy jegyzője részére – megküldött megkeresés útján, valamint a honlapján folyamatosan fenntartott felhívással gondoskodik.
 
 ### 3. CÍM — A dohánykiskereskedelem-ellátási koncesszió nyilvános pályázata
 
@@ -208,19 +212,19 @@ kiskereskedelmi értékesítésére.
 
 ### 4. CÍM — A koncessziós szerződés alapján keletkező bevételek
 
-10/B. § (1) A koncessziós díjat a miniszter a részvénytársaság közreműködésével szedi be.
+10/B. § (1) A koncessziós díjat a miniszter szedi be.
 
 (2) A miniszter a beszedett koncessziós díjak nettó összegét a kincstár által – a koncessziós díjak központi kezelésű előirányzatként történő elszámolása céljából – vezetett fizetési számlára, a koncessziós díjat terhelő általános forgalmi adót pedig az állami adóhatóságnak utalja át a tárgyhónapot követő hónap huszadik napjáig. A miniszter által vezetett minisztérium költségvetésében a beszedett koncessziós díjat és a kapcsolódó általános forgalmi adót bevételként, azoknak e bekezdés szerinti átutalását kiadásként nem lehet elszámolni.
 
 (3) A koncessziós szerződés alapján a koncessziós díjon felül keletkező egyéb bevételek (így különösen a késedelmi pótlék, kártérítés, kötbér) a miniszter által vezetett minisztérium bevételei, amelyeket a miniszter a feladatellátáshoz kapcsolódó tevékenységek indokolt költségeire fordít.
 
-(4) A miniszter a részvénytársaság közfeladatainak ellátásához szükséges forrást közszolgáltatási szerződés útján biztosítja úgy, hogy a koncessziós díjból származó bevétel legalább 60 százalékának megfelelő összeget a részvénytársaság működési költségeinek fedezésére kell fordítani. Az egyéb feladatokhoz szükséges forrásokat az éves központi költségvetésről szóló törvényben e célra meghatározott fejezeti kezelésű előirányzat terhére támogatási szerződés keretében kell biztosítani.
+(4)
 
-(5) Az állam jogosult azon személytől éves díjra (a továbbiakban: jogosultsági díj), akit a 10. § (1) bekezdése alapján a dohánytermékek kiskereskedelmére vonatkozó jogosultság gyakorlására – a részvénytársaság útján – külön feljogosít. A jogosultsági díj mértéke a tevékenység folytatására külön feljogosított személy által forgalmazott dohánytermékek kiskereskedelmi eladási árának 1%-a, de legfeljebb az adott településen egyébként irányadó koncessziós díj összege. A jogosultsági díjat a tevékenység folytatására külön feljogosított személy által külön jogszabály alapján szolgáltatandó forgalmi adatok alapján kell megállapítani, amelyet a tevékenység folytatására feljogosított személy a tárgyévet követő negyedév végéig, a jogviszony évközi megszűnése esetén a megszűnést követő negyedév végéig köteles az állam részére – a részvénytársaság felhívására – megfizetni. A jogosultsági díjra egyebekben a koncessziós díjra vonatkozó jogszabályi rendelkezéseket is megfelelően alkalmazni kell.
+(5) Az állam jogosult azon személytől éves díjra (a továbbiakban: jogosultsági díj), akit a 10. § (1) bekezdése alapján a dohánytermékek kiskereskedelmére vonatkozó jogosultság gyakorlására – a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv útján – külön feljogosít. A jogosultsági díj mértéke a tevékenység folytatására külön feljogosított személy által forgalmazott dohánytermékek kiskereskedelmi eladási árának 1%-a, de legfeljebb az adott településen egyébként irányadó koncessziós díj összege. A jogosultsági díjat a tevékenység folytatására külön feljogosított személy által külön jogszabály alapján szolgáltatandó forgalmi adatok alapján kell megállapítani, amelyet a tevékenység folytatására feljogosított személy a tárgyévet követő negyedév végéig, a jogviszony évközi megszűnése esetén a megszűnést követő negyedév végéig köteles az állam részére – a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv felhívására – megfizetni. A jogosultsági díjra egyebekben a koncessziós díjra vonatkozó jogszabályi rendelkezéseket is megfelelően alkalmazni kell.
 
-### 5. CÍM — A részvénytársaság közreműködése az egészségvédelmet érintő feladatokban
+### 5. CÍM — A Hatóság közreműködése az egészségvédelmet érintő feladatokban
 
-10/C. § A részvénytársaság közreműködik a dohányzás visszaszorítását és az egészségvédelmet érintő feladatokban
+10/C. § A Hatóság közreműködik a dohányzás visszaszorítását és az egészségvédelmet érintő feladatokban
 
 - a) médiakampány szervezése, lebonyolítása, szakmai támogatása,
 - b) közösségi megjelenés,
@@ -269,23 +273,24 @@ feltéve, hogy az üzlet egyébként megfelel a dohánytermékek értékesítés
 - a) egyéni vállalkozó, vagy
 - b) olyan gazdasági társaság folytathat, amelynek legalább egy természetes személy tagja – a koncesszió jogosultja – korlátlan felelősséggel tartozik a társaság kötelezettségeiért.
 
-(2) A dohánytermék-kiskereskedelmi tevékenység folytatásához a dohánytermékek jövedéki ügyében hatáskörrel rendelkező illetékes hatóság (a továbbiakban: vámhatóság) engedélye szükséges.
+(2) A dohánytermék-kiskereskedelmi tevékenység folytatásához a Hatóság engedélye szükséges.
 
-(3) A vámhatóság az engedélyt annak adja meg legfeljebb a koncessziós szerződésben meghatározott időtartamra, aki a dohánytermék-kiskereskedelmi tevékenység biztonságos, szakszerű lebonyolításához szükséges személyi, tárgyi és gazdasági feltételekkel rendelkezik, és akit – a 10. §-ban foglaltak kivételével – érvényes koncessziós szerződés e tevékenység végzésére feljogosít. Az engedélyt a vámhatóság – a dohányboltokra vonatkozó különös jogszabályi rendelkezés hiányában – akkor adhatja meg, ha az erre jogosult a vámhatóság felé a kérelmében a dohánytermék-kiskereskedelmi tevékenység végzésének helyére vonatkozó alapvető adatokat (cím, helyrajzi szám, alapterület, nyitva tartás idő, helyszínrajz) bejelenti, és a helyiség jogszerű használatára vonatkozó jogcímet, valamint a dohánytermék-kiskereskedelmi jogosultság megszerzésének tényét igazolja. A vámhatóság a jogosultnak azonos időszakra, azonos koncessziós szerződés alapján csak egyetlen dohányboltra (elkülönített helyre) adhat érvényes engedélyt; új engedélyt a jogosultnak csak a korábbi engedély visszavonásának hatályával lehet adni.
+(3) A Hatóság az engedélyt annak adja meg legfeljebb a koncessziós szerződésben meghatározott időtartamra, aki a dohánytermék-kiskereskedelmi tevékenység biztonságos, szakszerű lebonyolításához szükséges személyi, tárgyi és gazdasági feltételekkel rendelkezik, és akit – a 10. §-ban foglaltak kivételével – érvényes koncessziós szerződés e tevékenység végzésére feljogosít. Az engedélyt a Hatóság – a dohányboltokra vonatkozó különös jogszabályi rendelkezés hiányában – akkor adhatja meg, ha az erre jogosult a Hatóság felé a kérelmében a dohánytermék-kiskereskedelmi tevékenység végzésének helyére vonatkozó alapvető adatokat (cím, helyrajzi szám, alapterület, nyitva tartás idő, helyszínrajz) bejelenti, és a helyiség jogszerű használatára vonatkozó jogcímet, valamint a dohánytermék-kiskereskedelmi jogosultság megszerzésének tényét igazolja. A Hatóság a jogosultnak azonos időszakra, azonos koncessziós szerződés alapján csak egyetlen dohányboltra (elkülönített helyre) adhat érvényes engedélyt; új engedélyt a jogosultnak csak a korábbi engedély visszavonásának hatályával lehet adni.
 
 (4) Dohánytermék-kiskereskedelmi tevékenységet 18 éven aluli személy nem folytathat.
 
-(4a) A dohánytermék-kiskereskedelmi tevékenységet folytató személy szakmai tudását önképzés és kötelező továbbképzés útján fejleszti. A kötelező továbbképzés megszervezése a részvénytársaság feladata.
+(4a) A dohánytermék-kiskereskedelmi tevékenységet folytató személy szakmai tudását önképzés és kötelező továbbképzés útján fejleszti. A kötelező továbbképzés megszervezése a Hatóság feladata.
 
 (5) Nem adható meg az engedély, ha
 
 - a) a kérelem benyújtását megelőző 5 éven belül a kérelmezővel szemben az illetékes adóhatóság vagy vámhatóság jogerősen 1 millió forintot meghaladó vám- vagy adóbírságot, vagy 200 ezer – magánszemély esetén 100 ezer – forintot meghaladó mértékű mulasztási bírságot szabott ki,
 - b) a kérelmezőnek 30 napon túli lejáratú, állami adóhatóság által behajtandó köztartozása vagy állami adóhatóság által nyilvántartott adótartozása van,
 - c) a kérelmező a jogszabályban meghatározott feltételeknek nem felel meg.
+- d) a Hatóság a kérelem benyújtását megelőző 5 éven belül a kérelmezővel szemben a 22. §-ban foglaltak szerint véglegesen 1 millió forintot meghaladó bírságot, vagy 200 ezer – magánszemély esetén 100 ezer – forintot meghaladó mértékű eljárási bírságot szabott ki.
 
 (6) Az engedély kizárólag az abban meghatározott jogosultra és időtartamra, az abban foglalt feltételekkel és az engedélyben meghatározott dohányboltra vagy üzletre (elkülönített helyre) vonatkozik. Az engedély – ha a törvény másként nem rendelkezik – másra át nem ruházható. Ha az engedély jogosultja a dohánytermékek értékesítésére munkavállalót (megbízottat) alkalmaz, akkor biztosítania kell és felel azért, hogy a munkavállaló (megbízott) az engedélyben foglaltaknak megfelelően jár el.
 
-(7) Az engedély jogosultja a dohánytermék-kiskereskedelmi tevékenység körébe tartozó, az engedély kiadásánál figyelembe vett tény, vagy körülmény változásáról a vámhatóságot tizenöt napon belül köteles értesíteni.
+(7) Az engedély jogosultja a dohánytermék-kiskereskedelmi tevékenység körébe tartozó, az engedély kiadásánál figyelembe vett tény, vagy körülmény változásáról a Hatóságot tizenöt napon belül köteles értesíteni.
 
 (8) A dohánytermék-kiskereskedelmi tevékenység jogosultjának örököse akkor válik a koncessziós szerződésből eredő jogok gyakorlására és kötelezettségek teljesítésére jogosulttá, illetve kötelezetté, ha
 
@@ -296,15 +301,15 @@ feltéve, hogy az üzlet egyébként megfelel a dohánytermékek értékesítés
 
 (9) A (8) bekezdés alkalmazása során azt a tényt, hogy a kérelmező örökös, a hagyatéki eljárás befejezéséig közokiratba foglalt nyilatkozattal kell igazolni. Több örökös esetén további feltétel, hogy az örökösök a jogok gyakorlásáról és a kötelezettségek teljesítéséről közokiratba foglalt megállapodást kössenek, és az állam felé a kötelezettségek teljesítésére közokiratba foglalt nyilatkozattal egyetemleges felelősséget vállaljanak.
 
-(10) A (8) bekezdés alkalmazása során a tevékenység folytatására vonatkozó igényt az örökhagyó halálát követő 90 napon belül be kell jelenteni a vámhatósághoz, valamint a részvénytársaság útján a 8. § (1) bekezdésében meghatározott személyhez, amely esetben a koncessziós szerződés hatálya fennmarad azzal, hogy ha az örökhagyó halálától számított két éven belül a hagyaték átszállását igazoló jogerős közokiratot az örökös nem nyújtja be, vagy e közokiratból a kérelmező öröklési jogosultsága nem derül ki, a koncessziós szerződés hatálya megszűnik. Ha az örökös kérelme az e bekezdésben foglaltaknak megfelel, a vámhatóság az örökhagyó részére kibocsátott vámhatósági engedélyt módosítja, feljogosítva a kérelmezőt a dohánytermék-kiskereskedelmi jogosultság további gyakorlására, ellenkező esetben a vámhatóság a vámhatósági engedélyt visszavonja.
+(10) A (8) bekezdés alkalmazása során a tevékenység folytatására vonatkozó igényt az örökhagyó halálát követő 90 napon belül be kell jelenteni a Hatósághoz, valamint a 8. § (1) bekezdésében meghatározott személyhez, amely esetben a koncessziós szerződés hatálya fennmarad azzal, hogy ha az örökhagyó halálától számított két éven belül a hagyaték átszállását igazoló jogerős közokiratot az örökös nem nyújtja be, vagy e közokiratból a kérelmező öröklési jogosultsága nem derül ki, a koncessziós szerződés hatálya megszűnik. Ha az örökös kérelme az e bekezdésben foglaltaknak megfelel, a Hatóság az örökhagyó részére kibocsátott engedélyt módosítja, feljogosítva a kérelmezőt a dohánytermék-kiskereskedelmi jogosultság további gyakorlására, ellenkező esetben a Hatóság az engedélyt visszavonja.
 
-(11) Az egyéni vállalkozó a részvénytársaság útján a 8. § (1) bekezdésében meghatározott személynél kezdeményezheti a koncessziós szerződés módosítását, ha a tevékenységét a továbbiakban az (1) bekezdés b) pontja szerinti formában kívánja folytatni, és a tevékenység ekként történő folytatása a jogszabályban foglalt feltételeknek megfelel. Ebben az esetben az egyéni vállalkozói jogviszony megszüntetése és az (1) bekezdés b) pontja szerinti jogviszony létrehozása, továbbá a tevékenység megszüntetésével és új formában történő folytatásával kapcsolatos elszámolás rendezése céljából a jogosult a dohánytermék-kiskereskedelmi tevékenységét legfeljebb három hónapos időtartamra szüneteltetheti azt követően, hogy ezen igényét a részvénytársaság felé bejelentette, és igénye elfogadásáról a részvénytáraság a kérelmezőt tájékoztatta.
+(11) Az egyéni vállalkozó a 8. § (1) bekezdésében meghatározott személynél kezdeményezheti a koncessziós szerződés módosítását, ha a tevékenységét a továbbiakban az (1) bekezdés b) pontja szerinti formában kívánja folytatni, és a tevékenység ekként történő folytatása a jogszabályban foglalt feltételeknek megfelel. Ebben az esetben az egyéni vállalkozói jogviszony megszüntetése és az (1) bekezdés b) pontja szerinti jogviszony létrehozása, továbbá a tevékenység megszüntetésével és új formában történő folytatásával kapcsolatos elszámolás rendezése céljából a jogosult a dohánytermék-kiskereskedelmi tevékenységét legfeljebb három hónapos időtartamra szüneteltetheti azt követően, hogy ezen igényét a 8. § (1) bekezdésében meghatározott személy felé bejelentette, és igénye elfogadásáról a 8. § (1) bekezdésében meghatározott személy a kérelmezőt tájékoztatta.
 
 (12) E törvény és a Ktv. rendelkezéseinek alkalmazása során a dohánytermék-kiskereskedelmi tevékenységet folytató egyéni vállalkozóra a koncessziós társaságra vonatkozó rendelkezéseket megfelelően alkalmazni kell.
 
 (13) Ha a koncessziós társaság nem az e törvényben kifejezetten megengedett módon alakul át, e társasággal megkötött koncessziós szerződés az átalakulás napjával hatályát veszti.
 
-(14) E § rendelkezéseit – ha e törvény alapján dohánytermékek kiskereskedelmét végzi – a (4) bekezdést kivéve a részvénytársaságra, vagy az általa a 10. § (1) bekezdés b) pontja szerint külön feljogosított személyre nem kell alkalmazni.
+(14) E § rendelkezéseit – ha e törvény alapján dohánytermékek kiskereskedelmét végzi – a (4) bekezdést kivéve a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv által a 10. § (1) bekezdés b) pontja szerint külön feljogosított személyre nem kell alkalmazni.
 
 #### 13/A. §
 
@@ -320,11 +325,11 @@ feltéve, hogy az üzlet egyébként megfelel a dohánytermékek értékesítés
 - h) ha a dohánytermék-kiskereskedő az e törvényben foglalt adatszolgáltatási kötelezettségének egy hónapban összesen legalább 5 napon keresztül alapos ok nélkül nem tesz eleget;
 - i) ha a koncessziós díj kétszeri póthatáridő-tűzését követő 15 napon belül sem kerül hiánytalanul igazolható módon megfizetésre.
 
-14/A. § (1) A vámhatóság a dohánytermék-kiskereskedelmi tevékenység végzésére jogosító engedéllyel rendelkező személyekről közhiteles hatósági nyilvántartást vezet.
+14/A. § (1) A Hatóság a dohánytermék-kiskereskedelmi tevékenység végzésére jogosító engedéllyel rendelkező személyekről közhiteles hatósági nyilvántartást vezet.
 
 (2) Az (1) bekezdés szerinti nyilvántartásban az engedélyes engedélyszámára, az engedély kiadásának időpontjára, valamint az engedély érvényességére vonatkozó adatok minősülnek közhitelesnek.
 
-(3) A vámhatóság az (1) bekezdésben felsorolt személyekre vonatkozó, közhitelesnek minősülő adatokat hivatalos honlapján közzéteszi.
+(3) A Hatóság az (1) bekezdésben felsorolt személyekre vonatkozó, közhitelesnek minősülő adatokat hivatalos honlapján közzéteszi.
 
 ### 3. CÍM — A dohánytermékek beszerzése
 
@@ -434,77 +439,75 @@ fogadhatja el.
 
 (6) A dohánytermék-kiskereskedő köteles az 1. § (1) bekezdésében meghatározott termék értékesítését megtagadni abban az esetben is, ha annak gyanúja merül fel benne, hogy a nem fiatalkorú fogyasztó az 1. § (1) bekezdésében meghatározott terméket fiatalkorú részére történő továbbadás céljából kívánja megvásárolni.
 
-(7) A dohánytermék-kiskereskedővel szemben az e §-ban szabályozott rendelkezések be nem tartásáért a fogyasztóvédelmi hatóság bírságot szabhat ki, azzal, hogy az (1)–(3) bekezdésben foglalt rendelkezések megsértése esetén bírság kiszabása kötelező.
+(7) A dohánytermék-kiskereskedővel szemben az e §-ban szabályozott rendelkezések be nem tartásáért a Hatóság bírságot szabhat ki, azzal, hogy az (1)–(3) bekezdésben foglalt rendelkezések megsértése esetén bírság kiszabása kötelező.
 
 16/A. § A dohánytermék-kiskereskedő a fogyasztó kérdésére köteles a dohányzás ártalmaival összefüggésben az alapvető tényekre vonatkozó felvilágosítást megadni.
 
 ### 7. CÍM — A dohánytermékek árusításával feljogosított személyekre vonatkozó különös rendelkezések
 
-16/B. § E törvény III. Fejezete 3–6. címében foglalt rendelkezéseket a dohánytermékek árusítására e törvény alapján jogosult részvénytársaságra, valamint az általa feljogosított személyre is megfelelően alkalmazni kell.
+16/B. § E törvény III. Fejezete 3–6. címében foglalt rendelkezéseket a dohánytermékek árusítására kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv által feljogosított személyre is megfelelően alkalmazni kell.
 
 ### IV. Fejezet — A DOHÁNYTERMÉK-KISKERESKEDELEM FELÜGYELETE ÉS ELLENŐRZÉSE
 
-17. § (1) A vámhatóság – a (2) bekezdésben foglalt kivétellel – a dohánytermék-kiskereskedelem hatósági felügyeletét látja el, tevékenységének célja a dohánytermék-kiskereskedelmi piac zavartalan és eredményes működésének, a fiatalkorúak védelmének, továbbá a dohánytermék-kiskereskedelemmel szembeni bizalom erősítésének érdekében a dohánytermék-kiskereskedelmi piac folyamatos felügyelete.
+17. § (1) A Hatóság a dohánytermék-kiskereskedelem hatósági felügyeletét látja el, tevékenységének célja a dohánytermék-kiskereskedelmi piac zavartalan és eredményes működésének, a fiatalkorúak védelmének, továbbá a dohánytermék-kiskereskedelemmel szembeni bizalom erősítésének érdekében a dohánytermék-kiskereskedelmi piac folyamatos felügyelete.
 
 (2) Az 1. § (2) bekezdése, a 12. §, a 16. §, a 16/A. §, valamint a dohányboltban forgalmazható termékek láthatóságának korlátozására vonatkozó, a 3. § 8. pontjában, továbbá a 15/D. § (1) bekezdésében foglalt rendelkezés a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezésnek minősül.
 
-(3) A fogyasztóvédelmi hatóság a dohánytermék-kereskedelmi tevékenységgel összefüggő szabályok megsértése miatt hozott jogerős határozatát megküldi a vámhatóságnak.
+(3)
 
-18. § (1) A vámhatóság dohánytermék-kiskereskedelmi ügyben – az e törvényben meghatározott eltérésekkel – az általános közigazgatási rendtartásról szóló törvény szerint jár el azzal, hogy fizetési kedvezmény engedélyezésének nincs helye. A bírság végrehajtására az adózás adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény rendelkezései az irányadóak.
+18. § (1) A Hatóság dohánytermék-kiskereskedelmi ügyben – az e törvényben meghatározott eltérésekkel – az általános közigazgatási rendtartásról szóló törvény szerint jár el azzal, hogy fizetési kedvezmény engedélyezésének nincs helye. A bírság végrehajtására az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény rendelkezései az irányadóak.
 
-(2) A dohánytermék-kiskereskedelmi ügyben hozott elsőfokú határozat ellen fellebbezésnek van helye.
+(2)
 
-(3) A vámhatóság a kérelem elbírálásához előírhatja a kérelem egyes adatainak részletezését, kiegészítését. Hiányosan benyújtott kérelem esetén, annak beérkezésétől számított 15 napon belül a vámhatóság intézkedik a hiánypótlási felhívás kibocsátásáról.
+(3)
 
 (4) A dohánytermék-kiskereskedelmi engedélyezési ügyeket elektronikus úton kell intézni.
 
-19. § (1) A vámhatóság a dohánytermék-kiskereskedelmi tevékenység folytatásának engedélyezése iránti kérelem elbírálásáról, a kérelemnek a vámhatósághoz történt beérkezésétől számított 30 napon belül dönt. Dohánytermék-kiskereskedelmi engedélyezési ügyben kérelem a kormányablaknál nem terjeszthető elő. A dohánytermék-kiskereskedelmi tevékenység engedélyezési kérelem elbírálása során sommás eljárásnak nincs helye. E törvény hatálya alá tartozó hivatalbóli eljárás megindítása az ügyfél erről szóló értesítésének mellőzésével történik. A határozott időtartamra szóló engedély lejárati időpontja előtt ugyanarra a tevékenységre vonatkozó új engedélykérelem legkorábban az engedély lejárata előtt 100 nappal nyújtható be.
+19. § (1) A Hatóság a dohánytermék-kiskereskedelmi tevékenység folytatásának engedélyezése iránti kérelem elbírálásáról, a kérelemnek a Hatósághoz történt beérkezésétől számított 30 napon belül dönt. A dohánytermék-kiskereskedelmi tevékenység engedélyezési kérelem elbírálása során sommás eljárásnak nincs helye. A határozott időtartamra szóló engedély lejárati időpontja előtt ugyanarra a tevékenységre vonatkozó új engedélykérelem legkorábban az engedély lejárata előtt 100 nappal nyújtható be.
 
-(2) A vámhatóság a törvényben felsorolt feladatai ellátása érdekében jogosult a dohánytermék-kiskereskedelmi tevékenységet folytató személyes adatainak kezelésére és feldolgozására.
+(2) A Hatóság a törvényben felsorolt feladatai ellátása érdekében jogosult a dohánytermék-kiskereskedelmi tevékenységet folytató személyes adatainak kezelésére és feldolgozására.
 
-20. § (1) A dohánytermék-kiskereskedelmi tevékenység engedélyezéséért, a vámhatóság által végzett, illetve egyes, jogszabályban meghatározott igazgatási szolgáltatások igénybevételéért igazgatási-szolgáltatási díjat kell fizetni.
+#### 20. §
 
-(2) Az engedély iránti kérelemre indult eljárásokban az eljárás megszüntetése, vagy a kérelem elutasítása esetén az igazgatási-szolgáltatási díjat nem kell visszatéríteni.
-
-21. § (1) A vámhatóság vezetője és helyettesei, közeli hozzátartozói valamint dohánytermék-kiskereskedelem tárgyában felügyeleti feladatkörében eljáró alkalmazottai dohánytermék-kiskereskedelmi tevékenységet nem végezhetnek.
+21. § (1) A Hatóság vezetője és helyettesei, közeli hozzátartozói valamint dohánytermék-kiskereskedelem tárgyában felügyeleti feladatkörében eljáró alkalmazottai dohánytermék-kiskereskedelmi tevékenységet nem végezhetnek.
 
 (2) Az (1) bekezdésben felsorolt személy a hatóságnál fennálló foglalkoztatási jogviszonyának megszűnését követő két évig dohánytermék-kiskereskedelmi tevékenységet nem folytathat, mely tilalom alól a miniszter – különös méltánylást érdemlő esetben – felmentést adhat.
 
-22. § (1) A vámhatóság az e törvény hatálya alá tartozó tevékenységet folytató személyt a (2)–(3) bekezdésben foglaltak szerinti esetekben az ott írt mértékű bírság megfizetésére kötelezi.
+22. § (1) A Hatóság az e törvény hatálya alá tartozó tevékenységet folytató személyt a (2)–(3) bekezdésben foglaltak szerinti esetekben az ott írt mértékű bírság megfizetésére kötelezi.
 
-(2) A bírság összege a dohánytermék-kiskereskedővel vagy a részvénytársaság által a 10. § (1) bekezdése alapján feljogosított személlyel szemben 30 ezer forinttól 10 millió forintig terjedhet, ha a dohánytermék-kiskereskedő (feljogosított személy)
+(2) A bírság összege a dohánytermék-kiskereskedővel vagy a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv által a 10. § (1) bekezdése alapján feljogosított személlyel szemben 30 ezer forinttól 10 millió forintig terjedhet, ha a dohánytermék-kiskereskedő (feljogosított személy)
 
 - a) az engedélyben foglaltaktól eltér, vagy a dohánytermékek kiskereskedelmére, továbbá az 1. § (1) bekezdés b)–h) pontjában felsorolt termékek üzletszerű értékesítésére vonatkozó jogszabályi rendelkezéseket megsérti,
 - b) az állammal szembeni kötelezettségét nem teljesíti, vagy
 - c) a számára előírt nyilvántartási, könyvvezetési előírásoknak nem tesz eleget vagy hamis adatot közöl.
 
-(3) Ha valaki az e törvényben foglaltak ellenére dohánytermék-kiskereskedelmi jogosultság vagy engedély nélkül folytat az 1. § (1) bekezdésében felsorolt termék üzletszerű értékesítésére vonatkozó tevékenységet, őt a vámhatóság 5 millió forinttól 500 millió forintig terjedő bírsággal sújtja, amelynek legfeljebb 50%-os mérséklése csak különös méltánylást érdemlő esetben lehetséges.
+(3) Ha valaki az e törvényben foglaltak ellenére dohánytermék-kiskereskedelmi jogosultság vagy engedély nélkül folytat az 1. § (1) bekezdésében felsorolt termék üzletszerű értékesítésére vonatkozó tevékenységet, őt a Hatóság 5 millió forinttól 500 millió forintig terjedő bírsággal sújtja, amelynek legfeljebb 50%-os mérséklése csak különös méltánylást érdemlő esetben lehetséges.
 
 (4) A bírság együttesen, illetve a 23. § rendelkezései szerint hozott intézkedés mellett is kiszabható.
 
-(5) A bírság megfizetésének módjára, elszámolására, valamint a bírság késedelmes megfizetése miatt a késedelmi pótlék megállapítására az adózás rendjéről szóló törvény rendelkezései az irányadóak.
+(5)
 
-23. § (1) A vámhatóság – a körülmények mérlegelését követően – a dohánytermék-kiskereskedelmi tevékenység folytatására vonatkozó engedélyt visszavonhatja, ha
+23. § (1) A Hatóság – a körülmények mérlegelését követően – a dohánytermék-kiskereskedelmi tevékenység folytatására vonatkozó engedélyt visszavonhatja, ha
 
 - a) az engedély kiadása után merül fel olyan tény, adat vagy körülmény, amely miatt az engedélykérelem elutasításának lett volna helye;
-- b) a dohánytermék-kiskereskedő a dohánytermék-kereskedelmi tevékenységgel összefüggő szabályokat legalább három alkalommal olyan súlyosan megsértette, hogy az a tevékenysége folytatását nem teszi lehetővé, feltéve, hogy a jogsértés tényéről a vámhatóság vagy a fogyasztóvédelmi hatóság jogerős határozatot hozott, és e jogkövetkezmény alkalmazásának lehetőségére őt a hatóság előzetesen figyelmeztette;
-- c) a dohánytermék-kiskereskedő 1 éven belül legalább három különböző alkalommal a dohánytermék-kiskereskedelmi tevékenységgel összefüggő szabályokat megsértette, feltéve, hogy a jogsértés tényéről a vámhatóság vagy a fogyasztóvédelmi hatóság jogerős határozatot hozott, és az első jogsértést követő 365 napon belül a harmadik jogsértés is megvalósul, függetlenül attól, hogy a jogsértések tényét a hatóság mikor állapítja meg, illetve határozata mikor válik jogerőssé;
-- d) a dohánytermék-kiskereskedő a vámhatóság felhívása ellenére sem közli a tevékenységével összefüggő adatokat;
+- b) a dohánytermék-kiskereskedő a dohánytermék-kereskedelmi tevékenységgel összefüggő szabályokat legalább három alkalommal olyan súlyosan megsértette, hogy az a tevékenysége folytatását nem teszi lehetővé, feltéve, hogy a jogsértés tényéről a Hatóság jogerős határozatot hozott, és e jogkövetkezmény alkalmazásának lehetőségére őt a Hatóság előzetesen figyelmeztette;
+- c) a dohánytermék-kiskereskedő 1 éven belül legalább három különböző alkalommal a dohánytermék-kiskereskedelmi tevékenységgel összefüggő szabályokat megsértette, feltéve, hogy a jogsértés tényéről a Hatóság jogerős határozatot hozott, és az első jogsértést követő 365 napon belül a harmadik jogsértés is megvalósul, függetlenül attól, hogy a jogsértések tényét a Hatóság mikor állapítja meg, illetve határozata mikor válik jogerőssé;
+- d) a dohánytermék-kiskereskedő a Hatóság felhívása ellenére sem közli a tevékenységével összefüggő adatokat;
 - e) a dohánytermék-kiskereskedő az e törvényben meghatározott, a tisztességes piaci verseny körülményeit biztosító értékesítési követelményeket legalább két alkalommal megszegi.
 
-(2) A vámhatóság – e törvény eltérő rendelkezése hiányában – a dohánytermék-kiskereskedelmi tevékenység folytatására vonatkozó engedélyt visszavonja, ha
+(2) A Hatóság – e törvény eltérő rendelkezése hiányában – a dohánytermék-kiskereskedelmi tevékenység folytatására vonatkozó engedélyt visszavonja, ha
 
-- a) a dohánytermék-kiskereskedő 1 éven belül legalább három alkalommal e törvénynek a fiatalkorúak különös védelmére vonatkozó szabályait megsértette, feltéve, hogy a jogsértés tényéről a fogyasztóvédelmi hatóság jogerős határozatot hozott, és az első jogsértést követő 365 napon belül a harmadik jogsértés is megvalósul, függetlenül attól, hogy a jogsértések tényét a hatóság mikor állapítja meg, illetve határozata mikor válik jogerőssé;
-- b) a dohánytermék-kiskereskedő által üzemeltetett dohányboltban a dohányáruk reklámozásának tilalmára vonatkozó szabályokat 1 éven belül legalább három különböző alkalommal megsértették, feltéve, hogy a jogsértés tényéről a vámhatóság vagy a fogyasztóvédelmi hatóság jogerős határozatot hozott, és az első jogsértést követő 365 napon belül a harmadik jogsértés is megvalósul, függetlenül attól, hogy a jogsértések tényét a hatóság mikor állapítja meg, illetve határozata mikor válik jogerőssé;
-- c) a dohánytermék-kiskereskedő a vámhatóság hatósági intézkedése ellenére a jogszabálysértő állapotot nem szünteti meg;
+- a) a dohánytermék-kiskereskedő 1 éven belül legalább három alkalommal e törvénynek a fiatalkorúak különös védelmére vonatkozó szabályait megsértette, feltéve, hogy a jogsértés tényéről a Hatóság jogerős határozatot hozott, és az első jogsértést követő 365 napon belül a harmadik jogsértés is megvalósul, függetlenül attól, hogy a jogsértések tényét a Hatóság mikor állapítja meg, illetve határozata mikor válik jogerőssé;
+- b) a dohánytermék-kiskereskedő által üzemeltetett dohányboltban a dohányáruk reklámozásának tilalmára vonatkozó szabályokat 1 éven belül legalább három különböző alkalommal megsértették, feltéve, hogy a jogsértés tényéről a Hatóság jogerős határozatot hozott, és az első jogsértést követő 365 napon belül a harmadik jogsértés is megvalósul, függetlenül attól, hogy a jogsértések tényét a Hatóság mikor állapítja meg, illetve határozata mikor válik jogerőssé;
+- c) a dohánytermék-kiskereskedő a Hatóság hatósági intézkedése ellenére a jogszabálysértő állapotot nem szünteti meg;
 - d) a dohánytermék-kiskereskedő a dohánytermék-kiskereskedelmi tevékenységet az engedély kézhezvételétől számított 90 napon belül nem kezdi meg, továbbá, ha a tevékenységet engedély nélkül szünetelteti;
 - e) a dohánytermék-kiskereskedő tevékenységét az engedélyben foglalt telephelytől eltérő helyen is folytatja – ide nem értve a 11. § (3) bekezdésében foglaltakat –;
 - f) a dohánytermék-kiskereskedő a dohányboltban (elkülönített helyen) olyan terméket értékesít, vagy olyan szolgáltatást nyújt, amely termék értékesítését, vagy szolgáltatás nyújtását e törvény nem teszi lehetővé;
 - g) a dohánytermék-kiskereskedelmi jogosultság megszűnt.
 
-(3) Ha a dohánytermék-nagykereskedő, illetve más személy közvetve vagy közvetlenül e törvény által tiltott ajándékot, árengedményt vagy juttatást nyújt a dohánytermék-kiskereskedőnek vagy rá tekintettel másnak, az ajándékot, árengedményt, illetve juttatást nyújtót, továbbá azt, akinek érdekében ezen előnyök bármelyikét nyújtják, a vámhatóság a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 47/C. §-ában meghatározott mértékű bírsággal sújthatja.
+(3) Ha a dohánytermék-nagykereskedő, illetve más személy közvetve vagy közvetlenül e törvény által tiltott ajándékot, árengedményt vagy juttatást nyújt a dohánytermék-kiskereskedőnek vagy rá tekintettel másnak, az ajándékot, árengedményt, illetve juttatást nyújtót, továbbá azt, akinek érdekében ezen előnyök bármelyikét nyújtják, a Hatóság a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 47/C. §-ában meghatározott mértékű bírsággal sújthatja.
 
-23/A. § Ha a dohánytermék-nagykereskedő a dohány-kiskereskedelmi ellátó felé az e törvény által előírt – így különösen a dohánytermékek kiszolgálására vonatkozó – kötelezettségének nem tesz eleget, vagy a dohánytermék-kiskereskedőnek e törvénytől eltérően közvetlenül dohányterméket értékesít, úgy őt a vámhatóság az Fgytv. 47/C. §-ában meghatározott mértékű bírsággal sújtja. Ha a dohánytermék-kiskereskedő a dohányterméket nem az e törvényben előírt módon szerzi be, úgy őt a vámhatóság 5 milliótól 500 millió forintig terjedő bírsággal sújtja.
+23/A. § Ha a dohánytermék-nagykereskedő a dohány-kiskereskedelmi ellátó felé az e törvény által előírt – így különösen a dohánytermékek kiszolgálására vonatkozó – kötelezettségének nem tesz eleget, vagy a dohánytermék-kiskereskedőnek e törvénytől eltérően közvetlenül dohányterméket értékesít, úgy őt a Hatóság az Fgytv. 47/C. §-ában meghatározott mértékű bírsággal sújtja. Ha a dohánytermék-kiskereskedő a dohányterméket nem az e törvényben előírt módon szerzi be, úgy őt a Hatóság 5 milliótól 500 millió forintig terjedő bírsággal sújtja.
 
 ### V. Fejezet — HATÁLYBA LÉPTETŐ ÉS ÁTMENETI RENDELKEZÉSEK
 
@@ -546,11 +549,11 @@ fogadhatja el.
 
 (12) E törvénynek a Módtv.3.-mal megállapított 23. §-át a Módtv.3. hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-(13) E törvénynek a Módtv.3.-mal megállapított 10/B. § (5) bekezdése alapján előírt fizetési kötelezettséget első alkalommal 2022. március 31-ig, a jogviszony 2021. évközi megszűnése esetén a megszűnést követő negyedév végéig kell a részvénytársaság felhívására teljesíteni.
+(13) E törvénynek a Módtv.3.-mal megállapított 10/B. § (5) bekezdése alapján előírt fizetési kötelezettséget első alkalommal 2022. március 31-ig, a jogviszony 2021. évközi megszűnése esetén a megszűnést követő negyedév végéig kell a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv felhívására teljesíteni.
 
 24/B. § (1)
 
-(2) A dohánytermék-kiskereskedőkre vonatkozó, a 4. § (2) bekezdésében, a 23. § (3) bekezdésében, valamint a 23/A. §-ban foglalt rendelkezéseket a dohánytermékek kiskereskedelmére vonatkozó jogosultság gyakorlására – a részvénytársaság útján – külön feljogosított személyekre is megfelelően alkalmazni kell.
+(2) A dohánytermék-kiskereskedőkre vonatkozó, a 4. § (2) bekezdésében, a 23. § (3) bekezdésében, valamint a 23/A. §-ban foglalt rendelkezéseket a dohánytermékek kiskereskedelmére vonatkozó jogosultság gyakorlására – a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv útján – külön feljogosított személyekre is megfelelően alkalmazni kell.
 
 24/C. § Felhatalmazást kap a Kormány, hogy
 
@@ -602,7 +605,15 @@ a dohánytermék-kiskereskedő a dohányterméket a 2015. október 31-én hatál
 
 #### 25. §
 
-26. § Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a vámhatóság által lefolytatott eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét, valamint a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
+26. § Felhatalmazást kap a Hatóság elnöke, hogy
+
+- a) a dohánytermék-kiskereskedőkkel, a dohány-kiskereskedelmi ellátóval megkötött koncessziós szerződések szerinti koncesszióköteles tevékenység gyakorlásának ellenőrzésére,
+- b) a dohánytermék-kiskereskedelemi jogosultság gyakorlására külön feljogosított személyek kötelezettségeinek ellenőrzésére,
+- c) a dohánytermék-kiskereskedelem engedélyezésével, a dohánytermék-kiskereskedelmi tevékenység végzésére jogsító engedéllyel rendelkező személyek közhiteles nyilvántartására,
+- d) a dohánytermék-kiskereskedelem hatósági felügyeletére és a fiatalkorúak különös védelmével kapcsolatos rendelkezések végrehajtásának ellenőrzésére, és
+- e) a dohánytermék-nagykereskedő e törvény szerinti kötelezettségeinek ellenőrzésére
+
+vonatkozó részletes szabályokat rendeletben megállapítsa.
 
 ### VII. Fejezet — AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 
@@ -613,7 +624,9 @@ a dohánytermék-kiskereskedő a dohányterméket a 2015. október 31-én hatál
 28. § (1) E törvény tervezetének
 
 - a) a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke,
-- b) a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+- b) a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése
+
+szerinti előzetes bejelentése megtörtént.
 
 (2) A Módtv.3. tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti, valamint a Módtv.3. tervezetének 3. alcíme vonatkozásában a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 

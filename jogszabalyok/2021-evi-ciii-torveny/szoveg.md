@@ -71,19 +71,13 @@ függ.
 
 #### 4. A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény módosítása
 
-8. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény a következő 25/B. §-sal egészül ki:
+8. §
 
-„25/B. § (1) A 24. §-tól eltérően, nem kell bejelenteni a Gazdasági Versenyhivatalnak azt az összefonódást, amely révén közvetlenül vagy közvetetten többségi állami tulajdonban lévő kockázati tőkealap az Európai Bizottság által a belső piaccal összeegyeztethetőnek nyilvánított állami támogatással megvalósuló tőkebefektetése következtében közös irányítási jogokat szerez egy vállalkozásban, amelynek előző évi nettó árbevétele nem érte el az egymilliárd forintot.
-
-(2) Az (1) bekezdés szerinti összefonódás végrehajtásáról az irányításszerző tőkealap a végrehajtás időpontját követő 30 napon belül tájékoztatja a Gazdasági Versenyhivatalt.”
-
-9. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény „Átmeneti rendelkezések” alcíme a következő 95/I. §-sal egészül ki:
-
-„95/I. § E törvénynek a felsőoktatási intézmények versenyképes működését elősegítő szabályokról, valamint egyes vagyongazdálkodási, kormányzati igazgatási és büntetőjogi tárgyú törvények módosításáról szóló 2021. évi CIII. törvénnyel (a továbbiakban: Módtv5.) megállapított 25/B. §-át a Módtv5. hatálybalépését megelőzően létrejött, de még végre nem hajtott összefonódásokra is alkalmazni kell.”
+9. §
 
 #### 5. A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosítása
 
-10. § Hatályát veszti a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 4. § (3) bekezdése.
+10. §
 
 #### 6.
 
@@ -99,145 +93,47 @@ függ.
 
 #### 7. A közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény módosítása
 
-16. § A közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény 6. §-a a következő (1a) bekezdéssel egészül ki:
+16. §
 
-„(1a) Nem kell alkalmazni az (1) bekezdés b)–e) pontját a 2000 fő vagy ez alatti lakosságszámú települések polgármestere tekintetében a Magyar Falu Program keretében nyújtott támogatás esetén.”
-
-17. § A közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény a következő 20. §-sal egészül ki:
-
-„20. § E törvénynek a felsőoktatási intézmények versenyképes működését elősegítő szabályokról, valamint egyes vagyongazdálkodási, kormányzati igazgatási és büntetőjogi tárgyú törvények módosításáról szóló 2021. évi CIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 6. § (1a) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
+17. §
 
 #### 8. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-18. § Az államháztartásról szóló 2011. évi CXCV. törvény 48/B. §-a a következő (4) bekezdéssel egészül ki:
+18. §
 
-„(4) Az (1) bekezdés b)–e) pontját nem kell alkalmazni a 2000 fő vagy ez alatti lakosságszámú települések polgármestere tekintetében a Magyar Falu Program keretében nyújtott támogatás esetén.”
+19. §
 
-19. § Az államháztartásról szóló 2011. évi CXCV. törvény 79. § (4a) bekezdése a következő f) ponttal egészül ki:
+20. §
 
-(A kincstár fizetési számlát vezet)
-
-„f) a közfeladatot ellátó közérdekű vagyonkezelő alapítvány tulajdonában álló, illetve a közfeladatot ellátó vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény tulajdonában álló nonprofit gazdasági társaság megbízása esetén a közfeladatot ellátó közérdekű vagyonkezelő alapítvány tulajdonában álló, illetve a közfeladatot ellátó vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény tulajdonában álló nonprofit gazdasági társaság számára.”
-
-20. § Az államháztartásról szóló 2011. évi CXCV. törvény 73. alcíme a következő 111/I. §-sal egészül ki:
-
-„111/I. § E törvénynek a felsőoktatási intézmények versenyképes működését elősegítő szabályokról, valamint egyes vagyongazdálkodási, kormányzati igazgatási és büntetőjogi tárgyú törvények módosításáról szóló 2021. évi CIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 48/B. § (4) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
-
-21. § Az államháztartásról szóló 2011. évi CXCV. törvény 33. § (4a) bekezdésében a „közfeladatok változásával” szövegrész helyébe a „közfeladatok változásával, illetve a közfeladat ellátásának módjával, annak helyével, vagy a közfeladatot ellátó személyében bekövetkező változásával” szöveg lép.
+21. §
 
 #### 9. A Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény módosítása
 
-22. § A Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény 2. melléklete a 2. melléklet szerint módosul.
+22. §
 
 #### 10. A büntetőeljárásról szóló 2017. évi XC. törvény módosítása
 
-23. § (1) A büntetőeljárásról szóló 2017. évi XC. törvény 10. § (1) bekezdés 7. pont e) alpontja helyébe a következő rendelkezés lép:
+23. §
 
-(E törvény alkalmazásában
+24. §
 
-jogi képviselő: az ügyvéd és az ügyvédi iroda, ha)
+25. §
 
-„e) ügygondnokként,”
+26. §
 
-(jár el;)
+27. §
 
-(2) A büntetőeljárásról szóló 2017. évi XC. törvény 10. § (1) bekezdés 7. pontja a következő f) alponttal egészül ki:
-
-(E törvény alkalmazásában
-
-jogi képviselő: az ügyvéd és az ügyvédi iroda, ha)
-
-„f) a magánvádló képviseletében”
-
-(jár el;)
-
-24. § A büntetőeljárásról szóló 2017. évi XC. törvény a következő 769/A. §-sal egészül ki:
-
-„769/A. § (1) Ha a sértett a feljelentésében vagy a személyes meghallgatás megkezdéséig úgy nyilatkozik, hogy a kibékítés megkísérlését nem kívánja, és a személyes meghallgatáson való jelenlétről lemond, a személyes meghallgatáson a feljelentő helyébe jogi képviselő léphet. A 768. § (2) bekezdésében foglalt esetben a sértett a (6) bekezdésben foglalt szabályok szerint mondhat le a személyes meghallgatáson való jelenlét jogáról.
-
-(2) Ha a sértett az (1) bekezdés szerinti nyilatkozatot tett, a magánvádas eljárásban a nyilatkozattételt követően a sértett helyett a jogi képviselője jár el.
-
-(3) Ha a sértett a személyes meghallgatás megkezdéséig az (1) bekezdés szerinti nyilatkozatot tett, és a személyes meghallgatáson jogi képviselő megjelenéséről nem gondoskodik, úgy kell tekinteni, hogy a feljelentését visszavonta. A sértettet erre az idézésben figyelmeztetni kell.
-
-(4) Ha a sértett az (1) bekezdés szerinti nyilatkozatot tett, a személyes meghallgatáson a sértett jogi képviselőjének jelenléte kötelező. Ebben az esetben a 768. § (3) és (3a) bekezdése a jogi képviselő tekintetében alkalmazandó. A bíróság erre a jogi képviselőt az idézésben figyelmezteti.
-
-(5) Ha a sértett az (1) bekezdés szerinti nyilatkozatot tett, és a személyes meghallgatáson megjelenik, vagy úgy nyilatkozik, hogy a személyes meghallgatáson jelen kíván lenni, a továbbiakban a sértett jelenléte az eljárásban kötelező, és utóbb az eljárás során a jelenlétről ismételten nem mondhat le.
-
-(6) Ha a feljelentett a személyes meghallgatás megkezdéséig úgy nyilatkozik, hogy kibékítés megkísérlését nem kívánja, a 430–431. §-ban foglaltak értelemszerű alkalmazásával a személyes meghallgatáson való jelenlét jogáról lemondhat.
-
-(7) Ha a sértett, illetve a feljelentett úgy nyilatkozott, hogy a kibékítés megkísérlését nem kívánja, a bíróság a kibékítést annak megkísérlése nélkül eredménytelennek tekinti. Ha a sértett és a feljelentett is úgy nyilatkozott, hogy a kibékítés megkísérlését nem kívánja, és a tárgyalás megtartásának nincs akadálya, a bíróság a tárgyalást nyomban megtarthatja.
-
-(8) Nem akadálya a viszonvád emelésének, ha a magánvádló a személyes meghallgatáson nincs jelen személyesen. Ebben az esetben a bíróság a magánvádló vádlottként történő meghallgatását mellőzi.”
-
-25. § A büntetőeljárásról szóló 2017. évi XC. törvény 773. §-a a következő (2a)–(2f) bekezdéssel egészül ki:
-
-„(2a) A magánvádló helyébe a tárgyaláson jogi képviselő léphet, ha a magánvádló úgy nyilatkozik, hogy a tárgyaláson személyesen nem kíván jelen lenni. Ha a magánvádló helyébe jogi képviselő lépett, a magánvádas eljárásban a nyilatkozattételt követően a magánvádló helyett a jogi képviselője jár el.
-
-(2b) Viszonvád esetén a magánvádló, korábbi nyilatkozataitól függetlenül, a tárgyaláson való jelenlétről a 430–431. §-ban foglalt szabályok szerint mondhat le.
-
-(2c) A bíróság a tárgyaláson való jelenlétről lemondott magánvádlót a tárgyaláson való jelenlétre kötelezheti, ha bizonyítási cselekmény lefolytatása vagy szakértő meghallgatása érdekében szükséges.
-
-(2d) Ha a magánvádló a tárgyaláson való jelenlétről lemondott, és a tárgyaláson jogi képviselő megjelenéséről nem gondoskodik, úgy kell tekinteni, hogy a vádat ejtette. A magánvádlót erre az idézésben figyelmeztetni kell.
-
-(2e) A (2a) bekezdés esetén a tárgyaláson a magánvádló jogi képviselőjének jelenléte kötelező, és az (5) és (6) bekezdés a jogi képviselő tekintetében alkalmazandó. A bíróság erre a jogi képviselőt az idézésben figyelmezteti.
-
-(2f) Ha a tárgyaláson való jelenlétről lemondott magánvádló a tárgyaláson megjelenik vagy úgy nyilatkozik, hogy a tárgyaláson jelen kíván lenni, a továbbiakban a magánvádló jelenléte a tárgyaláson kötelező, és utóbb tárgyaláson való jelenlétről ismételten nem mondhat le.”
-
-26. § (1) A büntetőeljárásról szóló 2017. évi XC. törvény 779. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A másodfokú bíróság a magánvádlót a tárgyalásra idézi, és ha a magánvádlónak van képviselője, őt a bíróság értesíti. Ha a magánvádló a tárgyaláson való jelenlétről lemondott, a bíróság a tárgyalásra a magánvádló jogi képviselőjét idézi.”
-
-(2) A büntetőeljárásról szóló 2017. évi XC. törvény 779. §-a a következő (1c) és (1d) bekezdéssel egészül ki:
-
-„(1c) Ha a 773. § (2e) bekezdésére tekintettel a tárgyaláson a magánvádló jogi képviselőjének jelenléte kötelező, az (1a) és (1b) bekezdés a jogi képviselő tekintetében alkalmazandó. A bíróság erre a jogi képviselőt az idézésben figyelmezteti.
-
-(1d) Ha a magánvádló a tárgyaláson való jelenlétről lemondott, és a tárgyaláson jogi képviselő megjelenéséről nem gondoskodik, úgy kell tekinteni, hogy a fellebbezést visszavonta. A magánvádlót erre az idézésben figyelmeztetni kell.”
-
-27. § A büntetőeljárásról szóló 2017. évi XC. törvény 780. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A harmadfokú bíróság a magánvádlót a nyilvános ülésre idézi, és ha a magánvádlónak van képviselője, őt a bíróság értesíti. Ha a magánvádló a nyilvános ülésen való jelenlétről lemondott, a bíróság a nyilvános ülésre a magánvádló jogi képviselőjét idézi.”
-
-28. § A büntetőeljárásról szóló 2017. évi XC. törvény
-
-- a) 765. § (1) bekezdésében a „kéri” szövegrész helyébe az „indítványozza” szöveg,
-- b) 768. § (1) bekezdésében az „amelyen a” szövegrész helyébe az „amelyen törvény eltérő rendelkezése hiányában a” szöveg,
-- c) 769. § (1) bekezdésében a „követően megkísérli” szövegrész helyébe a „követően – a 769/A. § (7) bekezdésében foglalt kivétellel – megkísérli” szöveg,
-- d) 769. § (4) bekezdésében a „bíróság a” szövegrész helyébe a „bíróság – a 769/A. § (8) bekezdésében foglalt kivétellel – a” szöveg,
-- e) 773. § (2) bekezdésében a „jelenléte kötelező” szövegrész helyébe a „jelenléte – a (2a) bekezdésben foglalt kivétellel – kötelező” szöveg,
-- f) 773. § (3) bekezdésében a „tárgyalásról értesíti” szövegrész helyébe a „tárgyalásról – ha jelenléte a (2e) bekezdés értelmében nem kötelező – értesíti” szöveg,
-- g) 786. § (4) bekezdés b) pontjában a „kérheti” szövegrész helyébe az „indítványozhatja” szöveg és
-- h) 786. § (4) bekezdés c) pontjában a „kérelme” szövegrész helyébe az „indítványa” szöveg
-
-lép.
+28. §
 
 #### 11. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
-29. § (1) A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 78. § (1) bekezdése helyébe a következő rendelkezés lép:
+29. §
 
-„(1) A kormányzati igazgatási szerv a kormányzati szolgálati jogviszony létesítéséről és megszűnéséről a (6) bekezdésben meghatározott módon tájékoztatja az MKK kijelölt szervét.”
-
-(2) A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 78. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az MKK kijelölt szerve a tagnyilvántartási adatok körében az MKK 77. § (3) bekezdésében meghatározott feladatainak ellátása céljából kezeli a 3. melléklet szerinti közszolgálati alapnyilvántartás adatköréből a 3. melléklet I/A. 1–4., 9–11., I/B. 1–2., II.1., III.1., V.7. pontjában és kizárólag a korábban fennálló kormányzati szolgálati és közszolgálati jogviszony tekintetében a 3. melléklet III.6., a IV.1., az V.1–2., 5. és 8. pontjában foglalt, valamint a tagsági viszonyból eredő jogokkal és kötelezettségekkel összefüggésben keletkezett adatokat. Az MKK által kezelt adatokat a kormányzati igazgatási szerv a (6) bekezdésben meghatározott módon adja át az MKK részére. A kezelt adatokat a tagsági viszony megszűnését követő öt év elteltével törölni kell.”
-
-(3) A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 78. §-a a következő (5) és (6) bekezdéssel egészül ki:
-
-„(5) Az (1) és a (4) bekezdésben meghatározott adatokról és az azokban bekövetkezett változásokról a kormányzati igazgatási szerv minden hónap ötödik napjáig, a Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben meghatározott informatikai rendszer útján – a Kormány rendeletében meghatározott rendben – közvetlenül nyújt adatszolgáltatást az MKK részére.
-
-(6) Az MKK tagnyilvántartásában a kormánytisztviselő kezelt adatait az (5) bekezdés szerinti informatikai rendszerben képzett és az (5) bekezdés szerinti informatikai rendszerből átadott technikai azonosítóval kell azonosítani.”
-
-30. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény
-
-- a) 27. § (2) bekezdésében a „Program kivételével” szövegrész helyébe a „Program, valamint a Belügyi Alapok 2021–2027 (Belső Biztonsági Alap, Határigazgatási és Vízumpolitikai Eszköz és a Menekültügyi, Migrációs és Integrációs Alap) programjai kivételével” szöveg,
-- b) 182. § (3) bekezdésében a „Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnökére vagy tagjaira” szövegrész helyébe a „Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnökére vagy tagjaira és a START Garancia Pénzügyi Szolgáltató Zártkörűen Működő Részvénytársaság igazgatóságának vagy felügyelőbizottságának tagjaira” szöveg
-
-lép.
+30. §
 
 #### 12. A 2020. évi Dubaji Világkiállításon történő magyar megjelenés sikeres megvalósításához, továbbá egyes nemzetközi nagyeseményekhez kapcsolódó rendelkezésekről szóló 2019. évi XIV. törvény módosítása
 
-31. § A 2020. évi Dubaji Világkiállításon történő magyar megjelenés sikeres megvalósításához, továbbá egyes nemzetközi nagyeseményekhez kapcsolódó rendelkezésekről szóló 2019. évi XIV. törvény 9. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az állami tulajdonban álló, Budapest IX. kerület, belterület 38295/2 és 38295/4 helyrajzi számú ingatlanokat (a továbbiakban együtt: Ingatlanok) „kivett beépítetlen terület” megnevezésű ingatlanként kell nyilvántartásba venni a területnek multifunkcionális sport- és rendezvénycsarnokként történő későbbi használata céljából. A művelés alól kivett terület elnevezése változásának átvezetésére irányuló eljárást a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság kérelmére az ingatlanügyi hatóságként eljáró Budapest Főváros Kormányhivatala folytatja le. A művelés alól kivett terület elnevezése változásának ingatlan-nyilvántartási átvezetésére irányuló kérelemben kizárólag e törvénynek a művelés alól kivett terület elnevezése változását, valamint az Ingatlanok helyrajzi számát tartalmazó rendelkezésére kell hivatkozni, további dokumentum benyújtása nem szükséges. Az ingatlanügyi hatóság ügyintézési határideje 15 nap.”
+31. §
 
 #### 13.
 
@@ -245,15 +141,7 @@ lép.
 
 #### 14. A Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény módosítása
 
-33. § A Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény
-
-- a) 53/A. § (2) bekezdésében a „készfizető kezesség” szövegrész helyébe a „kezesség” szöveg,
-- b) 53/A. § (3) bekezdésében a „készfizető kezességet” szövegrész helyébe a „kezességet” szöveg,
-- c) 53/A. § (4) bekezdésében a „készfizető kezességet” szövegrész helyébe a „kezességet” szöveg,
-- d) 53/A. § (5) bekezdésében a „készfizető kezesi” szövegrész helyébe a „kezesi” szöveg,
-- e) 53/A. § (6) bekezdésében a „készfizető kezesség” szövegrész helyébe a „kezesség” szöveg
-
-lép.
+33. §
 
 ### 1. melléklet a 2021. évi CIII. törvényhez
 
@@ -285,7 +173,3 @@ lép.
 | 22. | Universitas Quinqueecclesiensis Alapítvány | 42 613 051 | 42 381 365 | 42 685 871 | 42 924 766 | 43 127 725 |
 
 ### 2. melléklet a 2021. évi CIII. törvényhez
-
-- 1. A Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény 2. melléklet IV. pontja a következő 21a. alponttal egészül ki:
-
-„21a. A Nemzetközi Olimpiai Bizottság által szervezett nyári vagy téli olimpiai játékokon, továbbá a Nemzetközi Paralimpiai Bizottság által szervezett nyári és téli paralimpiai játékokon (a továbbiakban együtt: olimpiai és paralimpiai játékok) annak a magyar állampolgárnak, aki a magyar nemzeti válogatott tagjaként egyéni számban vagy csapattagként első, második vagy harmadik helyezést ért el (a továbbiakban együtt: érmes), valamint az érmes felkészítésében közreműködő sportszakember részére – az olimpiai és paralimpiai játékok évében – Magyar Érdemrend és Magyar Érdemkereszt a 20. pontban meghatározott kereteken felül is adományozható.”

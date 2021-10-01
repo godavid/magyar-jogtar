@@ -696,7 +696,7 @@ formanyomtatvány használatával, elektronikus úton továbbítja a magyar megk
 
 #### 14/B. A panasz benyújtása, tartalma, visszavonása
 
-41/B. § (1) Az európai uniós kölcsönös egyeztető eljárásban a kapcsolt vállalkozásokat érintő, szokásos piaci ár megállapításával kapcsolatos kölcsönös egyeztető eljárásban az állami adó- és vámhatóság; minden más esetben – ideértve az állandó telephely fennállta és az annak betudható jövedelem megállapításával összefüggő vitás kérdést – az adópolitikáért felelős miniszter jár el (a továbbiakban együtt: magyar illetékes hatóság).
+41/B. § (1) Az európai uniós kölcsönös egyeztető eljárásban az adópolitikáért felelős miniszter jár el (a továbbiakban: magyar illetékes hatóság).
 
 (2) Az érintett személy – az (5) bekezdésben meghatározott érintett személyeket kivéve – az illetékes hatósághoz benyújtott, vitás kérdés rendezésére irányuló kérelem (a továbbiakban: panasz) alapján kérelmezheti annak rendezését, feltéve, hogy a panasz minden egyes érintett tagállam illetékes hatóságához benyújtásra került.
 
@@ -1175,7 +1175,7 @@ vonatkozó szabályoktól.
 
 ### IV. Fejezet — A VÁLASZTOTTBÍRÓSÁGI EGYEZMÉNY ALKALMAZÁSÁHOZ KAPCSOLÓDÓ RENDELKEZÉSEK
 
-42. § (1) E fejezet rendelkezéseit – a Választottbírósági Egyezmény eltérő rendelkezése hiányában – az érintett személy választása alapján a Választottbírósági Egyezmény szerinti eljárásokra kell alkalmazni. A Választottbírósági Egyezmény szerinti eljárásban az állami adó- és vámhatóság (a továbbiakban: illetékes hatóság) jár el.
+42. § (1) E fejezet rendelkezéseit – a Választottbírósági Egyezmény eltérő rendelkezése hiányában – az érintett személy választása alapján a Választottbírósági Egyezmény szerinti eljárásokra kell alkalmazni. A Választottbírósági Egyezmény szerinti eljárásban az adópolitikáért felelős miniszter (a továbbiakban: illetékes hatóság) jár el.
 
 (2) Vitás kérdés rendezésére irányuló kérelmet (a továbbiakban: panasz) terjeszthet elő a magyar illetékes hatóság részére a magyar belföldi adóügyi illetőségű érintett személy, illetve a külföldi illetékes hatóság a külföldi adóügyi illetőségű érintett személy kérelme alapján.
 
@@ -1205,7 +1205,7 @@ vonatkozó szabályoktól.
 
 #### 14/O. A panasz benyújtása, tartalma, visszavonása
 
-42/B. § (1) A kapcsolt vállalkozásokat érintő, szokásos piaci ár megállapításával kapcsolatos kölcsönös egyeztető eljárásban az állami adó- és vámhatóság; minden más esetben – ideértve az állandó telephely fennállta és az annak betudható jövedelem megállapításával összefüggő vitás kérdést – az adópolitikáért felelős miniszter jár el (a továbbiakban együttesen: magyar illetékes hatóság).
+42/B. § (1) A kölcsönös egyeztető eljárásban az adópolitikáért felelős miniszter jár el (a továbbiakban: magyar illetékes hatóság).
 
 (2) A vitás kérdés rendezésére irányuló kérelmet (a továbbiakban: panaszt) terjeszthet elő a magyar illetékes hatóság részére
 
@@ -1710,6 +1710,8 @@ a 30 napos teljesítési határidő számítása 2021. január 1-jétől kezdőd
 (2) A 2018. január 1-jét megelőzően kezdődő adómegállapítási időszakot érintő, a kölcsönös egyeztető eljárás megindítására irányuló kérelem vagy panasz esetén – ha a nemzetközi szerződés másként nem rendelkezik – a kölcsönös egyeztető eljárás lefolytatásának feltétele, hogy a kérelem, a panasz vagy bármilyen arra utaló értesítés, amely az eljárás megindításának alapjául szolgál, a kérelmezőtől, az érintett személytől vagy a másik szerződő állam illetékes hatóságától az adómegállapításhoz való jog vagy az adó-visszatérítés iránti jog elévülési idején belül a magyar illetékes hatósághoz beérkezzen.
 
 45/M. § E törvénynek az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvénnyel megállapított 4. § (4c) bekezdését, valamint 42. §-át a folyamatban lévő eljárásokban a hatálybalépést követően megkezdett eljárási cselekményekre is alkalmazni kell.
+
+45/N. § A Nemzeti Adó- és Vámhivatalnál 2021. szeptember 30-án folyamatban lévő, a III/A. Fejezetben szabályozott európai uniós kölcsönös egyeztető eljárásokat, a IV. Fejezetben szabályozott Választottbírósági Egyezmény szerinti eljárásokat, valamint a IV/A. Fejezetben szabályozott adóegyezmények szerinti kölcsönös egyeztető eljárásokat 2021. október 1-jétől az adópolitikáért felelős miniszter folytatja le.
 
 #### 17. Az Európai Unió jogának való megfelelés
 

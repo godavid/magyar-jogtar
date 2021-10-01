@@ -35,7 +35,11 @@ az anyakönyvi eljárások egyszerűsítéséről és elektronizálásáról, va
 
 (4)
 
-(5)
+(5) Az At. 10. § (1) bekezdése a következő f) ponttal egészül ki:
+
+(A hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv anyakönyvezi)
+
+„f) a magyar állampolgár Magyarország területén található külképviseleti hatóság előtt a 23. § (3) bekezdésének megfelelően kötött házasságát vagy a 35. § (3) bekezdésének megfelelően létesített bejegyzett élettársi kapcsolatát.”
 
 (6)
 
@@ -101,7 +105,13 @@ az anyakönyvi eljárások egyszerűsítéséről és elektronizálásáról, va
 
 17. §
 
-18. § (1)
+18. § (1) Az At. 62/A. §-a a következő c) ponttal egészül ki:
+
+[Az anyakönyvvezető elektronikus úton, egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) jogosult]
+
+„c) az ügyfél ügyintézési rendelkezésének ellenőrzése, valamint a törvényes képviselő személyazonosító igazolvány kiállításához szükséges hozzájáruló nyilatkozatának ellenőrzése céljából az ügyfél ügyintézési rendelkezéseinek nyilvántartásában kezelt adatokat”
+
+(megismerni.)
 
 (2)
 
@@ -143,7 +153,11 @@ az anyakönyvi eljárások egyszerűsítéséről és elektronizálásáról, va
 
 26. § (1)
 
-(2)
+(2) Az At. 81. §-a helyébe a következő rendelkezés lép:
+
+„81. § (1) Az anyakönyvvezető, az anyakönyvi szerv, valamint az anyakönyvi ügyekért felelős miniszter az e törvényben meghatározott eljárás lefolytatása, az anyakönyv és az apai elismerő nyilatkozatok nyilvántartása adatai helyességének biztosítása, valamint a felügyeleti tevékenység ellátása céljából az elektronikus anyakönyvben, az apai elismerő nyilatkozatok nyilvántartásában, az okirat-nyilvántartásban és a jogosultsági nyilvántartásban kezelt adatok teljes körét, valamint az elektronikus anyakönyvi alapiratot közvetlen hozzáféréssel jogosult átvenni, továbbá a papír alapú anyakönyvben nyilvántartott valamennyi adatot jogosult megtekinteni és átvenni, az anyakönyvi alapiratot jogosult megtekinteni és arról másolatot kérni.
+
+(2) Az állampolgársági ügyekben eljáró szerv az állampolgársági eljárásban az érintett anyakönyvezett adatainak, névviselésének, valamint a családi kapcsolatok fennállásának megállapítása céljából az elektronikus anyakönyvben nyilvántartott, az érintett személyazonosító adatait és az anyakönyvi eseményekhez kapcsolódó, a 69/C–69/F. §-ban meghatározott adatokat, valamint az elektronikus anyakönyvi alapiratot közvetlen hozzáféréssel jogosult megismerni és átvenni, továbbá a papír alapú anyakönyvben nyilvántartott valamennyi adatot jogosult megtekinteni és átvenni, az anyakönyvi alapiratot jogosult megtekinteni és arról másolatot kérni.”
 
 27. § (1)
 
@@ -164,12 +178,12 @@ az anyakönyvi eljárások egyszerűsítéséről és elektronizálásáról, va
 - 7.
 - 8.
 - 9.
-- 10.
-- 11.
+- 10. 21. § (1) bekezdésében a „családi nevéről” szövegrész helyébe a „névviseléséről” szöveg,
+- 11. 23. § (3) bekezdésében az „állampolgárságú nem magyar állampolgár házasulók” szövegrész helyébe a „külföldi állampolgárságú házasulók – ideértve azt is, ha a házasulók valamelyike magyar állampolgársággal is rendelkezik –” szöveg,
 - 12.
 - 13.
 - 14.
-- 15.
+- 15. 35. § (3) bekezdésében az „állampolgárságú nem magyar állampolgár felek” szövegrész helyébe a „külföldi állampolgárságú felek – ideértve azt is, ha a felek legalább egyike magyar állampolgársággal is rendelkezik –” szöveg,
 - 16.
 - 17.
 - 18.
@@ -197,7 +211,7 @@ lép.
 - f)
 - g)
 - h)
-- i)
+- i) 81/C. § (1) bekezdés a) pontja,
 - j)
 - k)
 - l)

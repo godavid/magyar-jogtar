@@ -396,7 +396,9 @@ lép.
 
 110. §
 
-111. §
+111. § Az Art. 274/L. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) A Nemzeti Adó- és Vámhivatalnál 2021. szeptember 30-án folyamatban lévő szokásos piaci ár megállapítására irányuló eljárásokat 2021. október 1-jétől az adópolitikáért felelős miniszter folytatja le.”
 
 112. §
 
@@ -404,10 +406,10 @@ lép.
 
 - a)
 - b)
-- c)
-- d)
-- e)
-- f)
+- c) 174. § (1), (3) és (4) bekezdésében, 178. § (1) bekezdésében, 178. § (2) bekezdés nyitó szövegrészében, a 178. § (3) bekezdésében, valamint 183. § (1) bekezdésében az „állami adó- és vámhatóság” szövegrész helyébe az „adópolitikáért felelős miniszter” szöveg,
+- d) 174. § (4) bekezdésében, valamint 178. § (2) bekezdés c) pontjában az „adóhatóság” szövegrész helyébe az „adópolitikáért felelős miniszter” szöveg,
+- e) 176. § (1) bekezdésében és 178. § (2) bekezdés e) pontjában az „állami adó- és vámhatóság” szövegrész helyébe az „adópolitikáért felelős miniszter megkeresésére az állami adó- és vámhatóság” szöveg,
+- f) 177. § (2) bekezdésében az „állami adó- és vámhatóság értesíti” szövegrész helyébe az „adópolitikáért felelős miniszter értesíti” szöveg,
 - g)
 
 lép.
@@ -536,7 +538,9 @@ lép.
 
 162. §
 
-163. §
+163. § Az Aktv. 41/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az európai uniós kölcsönös egyeztető eljárásban az adópolitikáért felelős miniszter jár el (a továbbiakban: magyar illetékes hatóság).”
 
 164. §
 
@@ -544,17 +548,21 @@ lép.
 
 166. §
 
-167. §
+167. § Az Aktv. 42/B. § (1) bekezdés helyébe a következő rendelkezés lép:
+
+„(1) A kölcsönös egyeztető eljárásban az adópolitikáért felelős miniszter jár el (a továbbiakban: magyar illetékes hatóság).”
 
 168. §
 
-169. §
+169. § Az Aktv. a következő 45/N. §-sal egészül ki:
+
+„45/N. § A Nemzeti Adó- és Vámhivatalnál 2021. szeptember 30-án folyamatban lévő, a III/A. Fejezetben szabályozott európai uniós kölcsönös egyeztető eljárásokat, a IV. Fejezetben szabályozott Választottbírósági Egyezmény szerinti eljárásokat, valamint a IV/A. Fejezetben szabályozott adóegyezmények szerinti kölcsönös egyeztető eljárásokat 2021. október 1-jétől az adópolitikáért felelős miniszter folytatja le.”
 
 170. § Az Aktv.
 
 - 1.
 - 2.
-- 3.
+- 3. 42. § (1) bekezdésében az „állami adó- és vámhatóság” szövegrész helyébe az „adópolitikáért felelős miniszter” szöveg
 
 lép.
 

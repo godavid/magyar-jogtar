@@ -147,6 +147,7 @@ illetékes.
 - c) a magyar állampolgár halálesetét, ha a bíróság holtnak nyilvánító döntést hozott, és az érintett születési helye külföldön van vagy ismeretlen, továbbá, ha a halál tényének bírói megállapítása esetén a bíróság döntése szerint a haláleset helye külföldön van,
 - d) annak a külföldön született nem magyar állampolgárnak a halálesetét, akit magyar bíróság nyilvánított holtnak,
 - e) a Magyarországon lakóhellyel rendelkező hontalan személy külföldön történt születését, házasságkötését, bejegyzett élettársi kapcsolata létesítését, valamint halálesetét, ha a bejegyzést olyan személy kéri, akinek a magyarországi anyakönyvezéshez érdeke fűződik.
+- f) a magyar állampolgár Magyarország területén található külképviseleti hatóság előtt a 23. § (3) bekezdésének megfelelően kötött házasságát vagy a 35. § (3) bekezdésének megfelelően létesített bejegyzett élettársi kapcsolatát.
 
 (2) Ha nem állapítható meg, hogy az anyakönyvi esemény bekövetkezésének időpontjában melyik anyakönyvvezető lett volna illetékes, vagy az eredetileg vezetett anyakönyvek külföldön vannak, az anyakönyvi bejegyzés teljesítésére a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az illetékes.
 
@@ -301,7 +302,7 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 ### Megállapodás a gyermek családi nevéről
 
-21. § (1) Ha a szülők a házasságkötés után nem viselnek közös házassági nevet, a házasságkötést megelőző eljárás során megállapodhatnak a – házasságukból származó – születendő gyermek családi nevéről. A megállapodást a házassági anyakönyvbe be kell jegyezni.
+21. § (1) Ha a szülők a házasságkötés után nem viselnek közös házassági nevet, a házasságkötést megelőző eljárás során megállapodhatnak a – házasságukból származó – születendő gyermek névviseléséről. A megállapodást a házassági anyakönyvbe be kell jegyezni.
 
 (2) A gyermekek nevére vonatkozó megállapodás legkésőbb az első közös gyermek születésének anyakönyvezéséig módosítható.
 
@@ -333,7 +334,7 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 (2) A házasságkötést megelőző eljárásban az anyakönyvi szerv harminc napon belül nyilatkozik a külföldi okiratok elfogadhatóságáról.
 
-(3) Azonos állampolgárságú nem magyar állampolgár házasulók az állampolgárságuk szerint illetékes, Magyarország területén található külképviseleti hatóságnál is köthetnek házasságot, feltéve, hogy nemzetközi szerződés és a külföldi állam joga ezt lehetővé teszi.
+(3) Azonos külföldi állampolgárságú házasulók – ideértve azt is, ha a házasulók valamelyike magyar állampolgársággal is rendelkezik – az állampolgárságuk szerint illetékes, Magyarország területén található külképviseleti hatóságnál is köthetnek házasságot, feltéve, hogy nemzetközi szerződés és a külföldi állam joga ezt lehetővé teszi.
 
 #### 24–26. §
 
@@ -433,7 +434,7 @@ rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
 
 (2) A bejegyzett élettársi kapcsolat létesítését megelőző eljárásban az anyakönyvi szerv harminc napon belül nyilatkozik a külföldi okiratok elfogadhatóságáról.
 
-(3) Azonos állampolgárságú nem magyar állampolgár felek az állampolgárságuk szerint illetékes, Magyarország területén található külképviseleti hatóságnál is létesíthetnek bejegyzett élettársi kapcsolatot, feltéve, hogy nemzetközi szerződés és a külföldi állam joga ezt lehetővé teszi.
+(3) Azonos külföldi állampolgárságú felek – ideértve azt is, ha a felek legalább egyike magyar állampolgársággal is rendelkezik – az állampolgárságuk szerint illetékes, Magyarország területén található külképviseleti hatóságnál is létesíthetnek bejegyzett élettársi kapcsolatot, feltéve, hogy nemzetközi szerződés és a külföldi állam joga ezt lehetővé teszi.
 
 #### 36–38. §
 
@@ -819,6 +820,7 @@ a bíróság értesíti a születést nyilvántartó anyakönyvvezetőt.
 
 - a) a személyazonosság és az állampolgárság ellenőrzése, valamint az elhalt személyek személyazonosság igazolására alkalmas hatósági igazolványainak, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolványának bevonása céljából a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvényben, valamint a külföldre utazásról szóló törvényben meghatározott adatokat, valamint
 - b) a személyazonosság ellenőrzése, valamint az elhalt személyek személyazonosság igazolására alkalmas hatósági igazolványainak bevonása céljából a közúti közlekedési nyilvántartásról szóló törvényben meghatározott adatokat
+- c) az ügyfél ügyintézési rendelkezésének ellenőrzése, valamint a törvényes képviselő személyazonosító igazolvány kiállításához szükséges hozzájáruló nyilatkozatának ellenőrzése céljából az ügyfél ügyintézési rendelkezéseinek nyilvántartásában kezelt adatokat
 
 megismerni.
 
@@ -1373,7 +1375,9 @@ foglalt adatait tartja nyilván.
 
 ### A közvetlen hozzáféréssel történő adatátvétel és a betekintés
 
-81. § Az anyakönyvvezető, az anyakönyvi szerv, valamint az anyakönyvi ügyekért felelős miniszter az elektronikus anyakönyvben, az apai elismerő nyilatkozatok nyilvántartásában, az okirat-nyilvántartásban és a jogosultsági nyilvántartásban kezelt adatok teljes körét, valamint az elektronikus anyakönyvi alapiratot közvetlen hozzáféréssel jogosult átvenni, továbbá a papír alapú anyakönyvben nyilvántartott valamennyi adatot jogosult megtekinteni és átvenni, az anyakönyvi alapiratot jogosult megtekinteni és arról másolatot kérni az e törvényben meghatározott eljárás lefolytatása céljából.
+81. § (1) Az anyakönyvvezető, az anyakönyvi szerv, valamint az anyakönyvi ügyekért felelős miniszter az e törvényben meghatározott eljárás lefolytatása, az anyakönyv és az apai elismerő nyilatkozatok nyilvántartása adatai helyességének biztosítása, valamint a felügyeleti tevékenység ellátása céljából az elektronikus anyakönyvben, az apai elismerő nyilatkozatok nyilvántartásában, az okirat-nyilvántartásban és a jogosultsági nyilvántartásban kezelt adatok teljes körét, valamint az elektronikus anyakönyvi alapiratot közvetlen hozzáféréssel jogosult átvenni, továbbá a papír alapú anyakönyvben nyilvántartott valamennyi adatot jogosult megtekinteni és átvenni, az anyakönyvi alapiratot jogosult megtekinteni és arról másolatot kérni.
+
+(2) Az állampolgársági ügyekben eljáró szerv az állampolgársági eljárásban az érintett anyakönyvezett adatainak, névviselésének, valamint a családi kapcsolatok fennállásának megállapítása céljából az elektronikus anyakönyvben nyilvántartott, az érintett személyazonosító adatait és az anyakönyvi eseményekhez kapcsolódó, a 69/C–69/F. §-ban meghatározott adatokat, valamint az elektronikus anyakönyvi alapiratot közvetlen hozzáféréssel jogosult megismerni és átvenni, továbbá a papír alapú anyakönyvben nyilvántartott valamennyi adatot jogosult megtekinteni és átvenni, az anyakönyvi alapiratot jogosult megtekinteni és arról másolatot kérni.
 
 81/A. § (1) Az elektronikus anyakönyvben, az apai elismerő nyilatkozatok nyilvántartásában, az okirat-nyilvántartásban és a jogosultsági nyilvántartásban kezelt adatok teljes körét, valamint az elektronikus alapiratot közvetlen hozzáféréssel jogosult átvenni, továbbá a papír alapú anyakönyvben nyilvántartott valamennyi adatot jogosult megtekinteni és átvenni, valamint az anyakönyvi alapiratot jogosult megtekinteni és arról másolatot kérni a 84. § (2) bekezdés a) pontjában foglalt adatok megadásával
 
@@ -1398,7 +1402,7 @@ foglalt adatait tartja nyilván.
 
 81/C. § (1) Az elektronikus anyakönyvben kezelt adatok teljes körét, valamint az elektronikus anyakönyvi alapiratot közvetlen hozzáféréssel jogosult átvenni, továbbá a papír alapú anyakönyvben nyilvántartott és e törvény szerint az elektronikus anyakönyv adattartalmát képező adatot jogosult megtekinteni és átvenni, és az anyakönyvi alapiratot jogosult megtekinteni és arról másolatot kérni a 84. § (2) bekezdés a) pontjában foglalt adatok megadásával
 
-- a) az állampolgársági ügyekért felelős miniszter és az állampolgársági ügyekben eljáró szerv az állampolgársági eljárásban az érintett anyakönyvezett adatainak, névviselésének, valamint a családi kapcsolatok fennállásának megállapítása céljából,
+- a)
 - b) a személyiadat- és lakcímnyilvántartás szerve a személyiadat- és lakcímnyilvántartás vezetése céljából,
 - c) a gyámhatóság a gyermek családból történő kiemelése, a családi jogállás rendezése, a származás megismeréséhez való jog biztosítása, az örökbefogadás, a kiskorú házasságkötésének előzetes engedélyezése, a szülői felügyelettel kapcsolatos ügyek, a gyám és gondnok kirendelése, valamint a bíróság vagy más hatóság előtti eljárás megindítása céljából,
 - d) a közjegyző a bejegyzett élettársi kapcsolat megszüntetése iránti eljárás lefolytatása, az Élettársi Nyilatkozatok Nyilvántartásának vezetése, valamint a hagyatéki eljárás lefolytatása céljából,
