@@ -2225,13 +2225,13 @@ Az adó feltételes megállapítására irányuló eljárás során hozott hatá
 
 #### 174. § [A szokásos piaci ár megállapításának általános szabályai]
 
-(1) Az állami adó- és vámhatóság kérelemre határozatban állapítja meg a kapcsolt vállalkozások közötti jövőbeni ügyletben érvényesíthető szokásos piaci ár meghatározásakor alkalmazandó módszert, a megállapítás alapjául szolgáló tényeket, körülményeket, valamint ha meghatározható, a szokásos piaci árat, ártartományt.
+(1) Az adópolitikáért felelős miniszter kérelemre határozatban állapítja meg a kapcsolt vállalkozások közötti jövőbeni ügyletben érvényesíthető szokásos piaci ár meghatározásakor alkalmazandó módszert, a megállapítás alapjául szolgáló tényeket, körülményeket, valamint ha meghatározható, a szokásos piaci árat, ártartományt.
 
 (2) A szokásos piaci ár megállapítása iránti eljárás egyoldalúan, kétoldalúan, illetve többoldalúan folytatható le. Ha az ügyletre külföldi állam jövedelemadózást érintő jogszabályát is alkalmazni kell, a kapcsolt vállalkozás kérelmében megjelöli, hogy a szokásos piaci ár megállapítására egyoldalú, kétoldalú, illetve többoldalú eljárást választ.
 
-(3) A határozat érvényességéhez kétoldalú vagy többoldalú eljárás esetén az állami adó- és vámhatóság és az illetékes külföldi hatóság közötti megállapodás megkötése szükséges.
+(3) A határozat érvényességéhez kétoldalú vagy többoldalú eljárás esetén az adópolitikáért felelős miniszter és az illetékes külföldi hatóság közötti megállapodás megkötése szükséges.
 
-(4) A (3) bekezdés szerinti megállapodás hiányában a kétoldalú, illetve a többoldalú eljárást az adóhatóság az adózó kérelmére egyoldalúan csak akkor folytatja le, ha az állami adó- és vámhatóság rendelkezésére álló információk a szokásos piaci ár megállapításához elegendőek.
+(4) A (3) bekezdés szerinti megállapodás hiányában a kétoldalú, illetve a többoldalú eljárást az adópolitikáért felelős miniszter az adózó kérelmére egyoldalúan csak akkor folytatja le, ha az adópolitikáért felelős miniszter rendelkezésére álló információk a szokásos piaci ár megállapításához elegendőek.
 
 (5) A szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettségről szóló jogszabály szerinti nyilvántartás készítésére nem kötelezett adózók – kivéve azt az adózót, amelyben az állam rendelkezik közvetlenül vagy közvetve többségi befolyással – a szokásos piaci ár megállapítására irányuló kérelmet nem terjeszthetnek elő.
 
@@ -2249,7 +2249,7 @@ Az adó feltételes megállapítására irányuló eljárás során hozott hatá
 
 #### 176. § [Valódiságvizsgálat]
 
-(1) Az állami adó- és vámhatóság a kérelemben és az ahhoz csatolt mellékletekben, iratokban, elemzésekben, tanulmányokban, kimutatásokban, számításokban, ismertetőkben feltüntetett adatok, körülmények valódiságát az adóigazgatási rendtartás ellenőrzésre irányadó szabályainak megfelelő alkalmazásával, a határozat meghozatalához szükséges mértékben és módon előzetesen vizsgálhatja.
+(1) Az adópolitikáért felelős miniszter megkeresésére az állami adó- és vámhatóság a kérelemben és az ahhoz csatolt mellékletekben, iratokban, elemzésekben, tanulmányokban, kimutatásokban, számításokban, ismertetőkben feltüntetett adatok, körülmények valódiságát az adóigazgatási rendtartás ellenőrzésre irányadó szabályainak megfelelő alkalmazásával, a határozat meghozatalához szükséges mértékben és módon előzetesen vizsgálhatja.
 
 (2) Az állami adó- és vámhatóság által végzett valódiságvizsgálat nem teremt ellenőrzéssel lezárt időszakot.
 
@@ -2257,24 +2257,24 @@ Az adó feltételes megállapítására irányuló eljárás során hozott hatá
 
 (1) A szokásos piaci ár megállapítására irányuló eljárást százhúsz nap alatt kell lefolytatni. A határidő két alkalommal hatvan nappal meghosszabbítható.
 
-(2) Az ügyintézési határidőbe – az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény (a továbbiakban: Air.) 50. § (5a) bekezdése szerinti eseteken túl – a külföldi állam illetékes hatóságával folytatott egyeztetés, az állami adó- és vámhatóság által lefolytatott valódiságvizsgálat időtartama sem számít bele. Ha ezek eredményeként az eljárás során az ügy szempontjából jelentős olyan új tény merül fel, kritikus feltételek módosulnak, illetve a szokásos piaci ár megbízhatóságának szempontjából jelentőséggel bíró, a határozathozatal alapjául szolgáló olyan körülmények lényeges mértékben megváltoznak, amelyek a szokásos piaci ár megállapítására érdemben kihatnak, az ügyintézési határidő az ennek alapjául szolgáló tény bekövetkeztének időpontjában újrakezdődik. Erről az állami adó- és vámhatóság értesíti a kérelmezőt.
+(2) Az ügyintézési határidőbe – az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény (a továbbiakban: Air.) 50. § (5a) bekezdése szerinti eseteken túl – a külföldi állam illetékes hatóságával folytatott egyeztetés, az állami adó- és vámhatóság által lefolytatott valódiságvizsgálat időtartama sem számít bele. Ha ezek eredményeként az eljárás során az ügy szempontjából jelentős olyan új tény merül fel, kritikus feltételek módosulnak, illetve a szokásos piaci ár megbízhatóságának szempontjából jelentőséggel bíró, a határozathozatal alapjául szolgáló olyan körülmények lényeges mértékben megváltoznak, amelyek a szokásos piaci ár megállapítására érdemben kihatnak, az ügyintézési határidő az ennek alapjául szolgáló tény bekövetkeztének időpontjában újrakezdődik. Erről az adópolitikáért felelős miniszter értesíti a kérelmezőt.
 
 #### 178. § [A szokásos piaci ár megállapítása iránti eljárásban hozott döntések]
 
-(1) Az állami adó- és vámhatóság a kérelmet az Air. 48. §-a szerinti eseteken túl akkor is visszautasítja, ha
+(1) Az adópolitikáért felelős miniszter a kérelmet az Air. 48. §-a szerinti eseteken túl akkor is visszautasítja, ha
 
 - a) Magyarországnak a külföldi állammal nincs a kettős adóztatás elkerülése tárgyában kötött nemzetközi egyezménye, vagy az egyezmény nem tartalmaz a kölcsönös egyeztetési eljárásról szóló vagy ennek megfelelő rendelkezéseket, vagy
 - b) az eljárás lefolytatásához jogszabály megalkotására vagy módosítására lenne szükség.
 
-(2) Az állami adó- és vámhatóság az eljárást az Air. 49. §-a szerinti eseteken túl akkor is megszünteti, ha
+(2) Az adópolitikáért felelős miniszter az eljárást az Air. 49. §-a szerinti eseteken túl akkor is megszünteti, ha
 
 - a) a kérelmező által közölt tényállás hiányos és a hiánypótlásra megállapított határidő is eredménytelenül eltelt, és emiatt a rendelkezésre álló adatok a szokásos piaci ár meghatározásához nem elegendőek,
 - b) kétoldalú, illetve többoldalú eljárás esetén az illetékes külföldi hatóság a kérelem elbírálásához szükséges adatokat, tájékoztatást nem adja meg és az adózó nem kéri az eljárás egyoldalúan történő lefolytatását,
-- c) az eljárás lefolytatása a díj mértékét meghaladó költségterheket ró az eljáró hatóságra, és a kérelmező a költségtöbbletet az adóhatóság felhívására nem fizeti meg,
+- c) az eljárás lefolytatása a díj mértékét meghaladó költségterheket ró az eljáró hatóságra, és a kérelmező a költségtöbbletet az adópolitikáért felelős miniszter felhívására nem fizeti meg,
 - d) a külföldi állam illetékes hatóságával a szokásos piaci ár megállapítását érintő megállapodásra irányuló egyeztetés eredménytelen, kivéve, ha az adózó kéri az eljárás egyoldalúan történő lefolytatását, vagy
-- e) az adózó – a kétoldalú, illetve a többoldalúan lefolytatandó eljárás helyett – egyoldalú eljárást kezdeményezett és az ennek alapján megindult eljárás folyamán az állami adó- és vámhatóság információcserére vonatkozó kérését a külföldi állam illetékes hatósága visszautasítja, vagy az információcserére vonatkozó megkeresésre kölcsönös egyeztető eljárást kezdeményez, kivéve, ha az adózó az eljárás egyoldalú lefolytatására irányuló kérelmét kétoldalú, illetve többoldalú eljárás iránti kérelemre módosítja.
+- e) az adózó – a kétoldalú, illetve a többoldalúan lefolytatandó eljárás helyett – egyoldalú eljárást kezdeményezett és az ennek alapján megindult eljárás folyamán az adópolitikáért felelős miniszter megkeresésére az állami adó- és vámhatóság információcserére vonatkozó kérését a külföldi állam illetékes hatósága visszautasítja, vagy az információcserére vonatkozó megkeresésre kölcsönös egyeztető eljárást kezdeményez, kivéve, ha az adózó az eljárás egyoldalú lefolytatására irányuló kérelmét kétoldalú, illetve többoldalú eljárás iránti kérelemre módosítja.
 
-(3) Az állami adó- és vámhatóság a kérelmet határozattal elutasítja, ha
+(3) Az adópolitikáért felelős miniszter a kérelmet határozattal elutasítja, ha
 
 - a) a kérelmező a tényállásról valótlan tartalmú nyilatkozatot tett,
 - b) adat merül fel arra vonatkozóan, hogy a közölt tényállás színlelt vagy valamely más szerződést, ügyletet vagy cselekményt leplez, vagy a rendeltetésszerű joggyakorlás elvébe ütközik, vagy
@@ -2329,7 +2329,7 @@ időszak.
 
 #### 183. § [A szokásos piaci ár megállapításának módosítása]
 
-(1) Az állami adó- és vámhatóság a határozatot az abban meghatározott hatályossági időn belül az adózó kérelmére határozatban módosítja.
+(1) Az adópolitikáért felelős miniszter a határozatot az abban meghatározott hatályossági időn belül az adózó kérelmére határozatban módosítja.
 
 (2) A határozat módosításának abban az esetben van helye, ha az ügy szempontjából jelentős új tény merül fel, amely a korábbi eljárás során nem a kérelmező rosszhiszemű eljárása miatt volt ismeretlen, vagy a szokásos piaci ár megbízhatóságának szempontjából jelentőséggel bíró, a határozathozatal alapjául szolgáló körülmények lényegesen megváltoztak.
 
@@ -3518,6 +3518,8 @@ A közúti közlekedési nyilvántartási szerv a 87. § (3) bekezdése szerinti
 (1) Az állami adó- és vámhatóság az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvény (a továbbiakban: Módtv7.) hatálybalépésétől számított három hónapon belül ellenőrzi az adózó által a Módtv7. hatálybalépését megelőzően bejelentett székhelyszolgáltató tekintetében a Módtv7. által megállapított 7. § 43. pontjában meghatározott feltételek teljesülését. Ha a bejelentett székhelyszolgáltató nem felel meg a 7. § 43. pontja szerinti feltételeknek, az állami adó- és vámhatóság a Módtv7.-tel megállapított 246. § (1) bekezdés h) pontja és 246. § (2) bekezdése szerint jár el.
 
 (2) A Módtv7.-tel megállapított 124. § (1a) bekezdését a Módtv7. hatálybalépését megelőzően tett bejelentések adatai és az e bejelentések alapján képzett EKAER számok tekintetében is alkalmazni kell, azzal, hogy az adatkezelési határidő kezdő időpontjának a bejelentés időpontja minősül.
+
+(3) A Nemzeti Adó- és Vámhivatalnál 2021. szeptember 30-án folyamatban lévő szokásos piaci ár megállapítására irányuló eljárásokat 2021. október 1-jétől az adópolitikáért felelős miniszter folytatja le.
 
 #### 275. § [Az Európai Unió jogának való megfelelés]
 

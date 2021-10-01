@@ -1950,7 +1950,7 @@ azt a közzétételt követő negyven napon belül jelentse be a cégbíróságn
 
 (3) A 119. § (5) bekezdésében foglalt esetben sem folytatható le az eljárás, ha a vagyontárgy ténylegesen nem lelhető fel. Ebben az esetben a bíróság elrendeli a vagyontárgynak a nyilvántartásból való törlését.
 
-121. § (1) A vagyonrendezési eljárás lefolytatását elrendelő, a Cégközlönyben közzétett végzésben a bíróság – az eljárás tárgyát képező vagyontárgy megjelölésével – vagyonrendezőt rendel ki a felszámolók névjegyzékében szereplő felszámolók közül. A vagyonrendezőre vonatkozóan a Cstv.-ben a felszámoló szervezetre, illetve a felszámolóbiztosra irányadó összeférhetetlenségi szabályokat megfelelően alkalmazni kell.
+121. § (1) A vagyonrendezési eljárás lefolytatását elrendelő, a Cégközlönyben közzétett végzésben a bíróság – az eljárás tárgyát képező vagyontárgy megjelölésével vagyonrendezőt rendel ki a felszámolók névjegyzékében szereplő felszámolók közül, a Cstv. 27/A. § (1) bekezdésében foglaltak alkalmazásával. A vagyonrendezőre vonatkozóan a Cstv.-ben a felszámoló szervezetre, illetve a felszámolóbiztosra irányadó összeférhetetlenségi szabályokat alkalmazni kell.
 
 (2) A bíróság a végzésben felhívja a törölt cég volt hitelezőit, illetve tagjait, hogy a vagyontárgyra vonatkozó igényeiket a közzétételtől számított harminc napon belül a vagyonrendezőnek jelentsék be, illetve csatolják az igényt megalapozó okiratokat.
 

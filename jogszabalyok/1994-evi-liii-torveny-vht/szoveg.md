@@ -430,9 +430,9 @@ KÖZÖS SZABÁLYAI
 
 (8) Ha a végrehajtó díjjegyzékével szemben a nem adós fizetésre kötelezett határidőben végrehajtási kifogást nem terjesztett elő a végrehajtási lap kiállítása iránti kérelem előterjesztését megelőzően, részére a díjjegyzéket végrehajtói kézbesítés útján is kézbesíteni kell.
 
-34/A. § (1) A Kart az önálló bírósági végrehajtói szervezetrendszer fenntartásának, az ezzel kapcsolatos igazgatási és nyilvántartási tevékenység végzésének, továbbá a Kar hatáskörébe utalt egyéb feladatok ellátásának érdekében; az igazságügyért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztériumot (a továbbiakban: minisztérium) az önálló bírósági végrehajtói szervezetrendszer feletti felügyelet gyakorlásával kapcsolatos feladatai, továbbá a miniszter feladat- és hatáskörébe utalt egyéb közfeladatok ellátásának érdekében az önálló bírósági végrehajtó hatáskörébe tartozó végrehajtási ügyek után általános költségátalány illeti meg.
+34/A. § (1) A Kart az önálló bírósági végrehajtói szervezetrendszer fenntartásának, az ezzel kapcsolatos igazgatási és nyilvántartási tevékenység végzésének, továbbá a Kar hatáskörébe utalt egyéb feladatok ellátásának érdekében; a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság) az önálló bírósági végrehajtói szervezetrendszer feletti felügyelet gyakorlásával kapcsolatos feladatai, továbbá a feladat- és hatáskörébe utalt egyéb közfeladatok ellátásának érdekében az önálló bírósági végrehajtó hatáskörébe tartozó végrehajtási ügyek után általános költségátalány illeti meg.
 
-(2) Az önálló bírósági végrehajtó az adóstól a behajtott követelésen felül, a végrehajtási költségekkel együtt hajtja be az általános költségátalányt, és azt befizeti, vagy átutalja a Kar hivatali szervének. Az általános költségátalány 15%-a a minisztérium bevétele, amit a Kar hivatali szerve utal át a minisztériumnak. A költségátalány összegének elszámolása és kielégítése a 164. § szerint történik.
+(2) Az önálló bírósági végrehajtó az adóstól a behajtott követelésen felül, a végrehajtási költségekkel együtt hajtja be az általános költségátalányt, és azt befizeti, vagy átutalja a Kar hivatali szervének. Az általános költségátalányból a Hatóságot törvény alapján megillető összeget a Kar hivatali szerve utalja át a Hatóságnak. A költségátalány összegének elszámolása és kielégítése a 164. § szerint történik.
 
 (3) Az általános költségátalány mértéke 500 000 forintot meg nem haladó végrehajtási ügyérték esetén ügyenként 5 000 forint, 500 000 forint feletti végrehajtási ügyérték esetén az ügyérték 1%-a.
 
@@ -1338,7 +1338,7 @@ eredő követelések fejében vonható végrehajtás alá.
 
 (5) A természetes személy adós foglalkozásának gyakorlásához nélkülözhetetlen gépjármű lefoglalásakor – a zár alá vétel alkalmazásának kivételével – csak a törzskönyvet kell lefoglalni és a foglalási jegyzőkönyv másolatával együtt megküldeni az illetékes közlekedési igazgatási hatóságnak, ha pedig ez nem állapítható meg, a gépjárművet nyilvántartó hatóságnak; az adós a gépjármű értékesítéséig – a zár alá vétel esetét kivéve – a gépjárművet használhatja. Ha az adós a végrehajtási eljárás tartama alatt a foglalkozásával felhagyott, vagy a foglalkozás végzéséhez szükséges engedélyét visszavonták, az (1)–(4) bekezdés szerint kell eljárni.
 
-(6) Ha az (5) bekezdésben említett gépjármű becsértéke nem éri el a miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében foglalt összeget, a gépjármű mentes a végrehajtás alól.
+(6) Ha az (5) bekezdésben említett gépjármű becsértéke nem éri el az igazságügyért felelős miniszternek (a továbbiakban: miniszter) az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében foglalt összeget, a gépjármű mentes a végrehajtás alól.
 
 (7) A végrehajtó a járműnyilvántartásból a következő adatokat igényelheti:
 
@@ -2971,9 +2971,9 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 ### A végrehajtási szervezet felügyelete
 
-230. § (1) A végrehajtási szervezet feletti általános felügyeletet a miniszter látja el.
+230. § (1) A végrehajtási szervezet feletti általános felügyeletet a Hatóság látja el.
 
-(1a) A miniszter felügyeli a végrehajtókkal, végrehajtó-helyettesekkel és végrehajtójelöltekkel kapcsolatos panaszügyek intézését, a bíróság hatáskörébe tartozó ügyek kivételével.
+(1a) A Hatóság felügyeli a végrehajtókkal, végrehajtó-helyettesekkel és végrehajtójelöltekkel kapcsolatos panaszügyek intézését, a bíróság hatáskörébe tartozó ügyek kivételével.
 
 (2) Az önálló bírósági végrehajtó eljárásának törvényességével kapcsolatban a végrehajtó székhelye szerinti törvényszék elnöke fegyelmi eljárást kezdeményezhet, és a végrehajtó tevékenységének vizsgálatát kezdeményezheti.
 
@@ -2983,7 +2983,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 (5)
 
-(6) A végrehajtói tevékenység vizsgálatának és ellenőrzésének eredményéről a minisztert soron kívül, de legkésőbb az ellenőrzési jelentés keltétől számított 45 napon belül tájékoztatni kell.
+(6) A végrehajtói tevékenység vizsgálatának és ellenőrzésének eredményéről a Hatóság elnökét soron kívül, de legkésőbb az ellenőrzési jelentés keltétől számított 45 napon belül tájékoztatni kell.
 
 230/A. § (1)
 
@@ -2995,40 +2995,32 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 (5)
 
-(6) A minisztérium képviselője jogosult a végrehajtó vizsgálatán részt venni, a vizsgálat tárgyát képező adatokat megismerni.
+(6) A Hatóság képviselője jogosult a végrehajtó vizsgálatán részt venni, a vizsgálat tárgyát képező adatokat megismerni.
 
-231. § (1) A miniszter a Kar felügyeletének ellátására, továbbá a Kar hatékony működésének elősegítésére miniszteri biztost nevezhet ki. A miniszteri biztos az e törvényben meghatározottak szerint gyakorolja a (2)–(3) bekezdésben foglalt azon jogosítványokat, amelyeket a kinevezés a feladatkörébe utal. A miniszteri biztos a Kar jogosítványait akként gyakorolhatja, ahogyan azt a jogszabály a Kar részére előírja. Miniszteri biztos kinevezése esetén a Kar bármely pénzügyi kötelezettségvállalásához, a szerződések teljesítésének elfogadásához és a kifizetésekhez a miniszteri biztos jóváhagyására van szükség, és kizárólag ő gyakorolja a Kar alkalmazottai feletti munkáltatói jogokat.
-
-(2) A miniszteri biztos
+231. § (1) A Hatóság elnöke
 
 - a) részt vehet a Kar szerveinek ülésén,
-- b) tájékoztatást kérhet a Kar szerveitől és azok tisztségviselőitől,
-- c) megismerheti a Kar és szervei által kezelt valamennyi adatot,
-- d) megtekintheti a Kar és szervei bármely iratát,
+- b) törvényben meghatározott feladatai ellátása érdekében tájékoztatást kérhet a Kar szerveitől és azok tisztségviselőitől,
+- c) törvényben meghatározott feladatai ellátása érdekében megismerheti a Kar és szervei által kezelt valamennyi adatot,
+- d) törvényben meghatározott feladatai ellátása érdekében megtekintheti a Kar és szervei bármely iratát,
 - e) beléphet a Kar és szervei által használt bármely helyiségbe,
 - f) felügyeli a Kar ügyintézési és ügyviteli tevékenységét,
-- g) elrendelheti a Kar gazdálkodásának és informatikai rendszereinek vizsgálatát,
+- g) elrendelheti a Kar gazdálkodásának és informatikai rendszereinek vizsgálatát, és
 - h) rendkívüli közgyűlést hívhat össze.
 
-(3) A miniszteri biztos a kinevezésében foglaltaktól függően
+(2) A Hatóság elnöke
 
 - a) tájékoztatást nyújt a sajtó, a rádió és a televízió részére a végrehajtási ügyekről és a Kar ügyeiről,
-- b) elrendelheti a végrehajtó összeférhetetlenségének ellenőrzését, és a Kar által lefolytatott ellenőrzés eredményétől függően az összeférhetetlenség fennállását bejelenti a miniszter felé,
+- b) elrendelheti a végrehajtó összeférhetetlenségének ellenőrzését,
 - c) elrendelheti a 226/A. §-ban foglaltak betartásának ellenőrzését,
-- d) iránymutatás kiadását kezdeményezheti,
-- e) jóváhagyja az ugyanazon járásbíróság mellett működő végrehajtók esetében a végrehajtási ügyek elosztásának rendjét, és az ügyek elosztásának rendje év közbeni megváltoztatását,
-- f) javaslatot tesz a miniszternek végrehajtói álláshely létesítésére és megszüntetésére,
-- g) felterjesztés előtt jóváhagyja a végrehajtói kinevezési javaslatot.
-
-(4) A miniszteri biztos által gyakorolt jogkörök vonatkozásában a Kar jogosítványai szünetelnek.
-
-(5) A miniszteri biztos a tevékenységéről negyedévente beszámol a miniszternek.
+- d) iránymutatás kiadását kezdeményezheti, és
+- e) jóváhagyja az ugyanazon járásbíróság mellett működő végrehajtók esetében a végrehajtási ügyek elosztásának rendjét, és az ügyek elosztásának rendje év közbeni megváltoztatását.
 
 ### XIX. Fejezet — AZ ÖNÁLLÓ BÍRÓSÁGI VÉGREHAJTÓ
 
 ### A végrehajtói szolgálat keletkezése
 
-232. § (1) Az önálló bírósági végrehajtót (e fejezetben a továbbiakban: végrehajtó) a miniszter nevezi ki hét évre, de legfeljebb a 65. életéve betöltésének napjáig, meghatározott székhelyre és meghatározott járásbíróság mellé azzal, hogy egy végrehajtó egy székhelyre, illetőleg egy járásbíróság mellé kerül kinevezésre.
+232. § (1) Az önálló bírósági végrehajtót (e fejezetben a továbbiakban: végrehajtó) a Hatóság elnöke nevezi ki hét évre, de legfeljebb a 65. életéve betöltésének napjáig, meghatározott székhelyre és meghatározott járásbíróság mellé azzal, hogy egy végrehajtó egy székhelyre, illetőleg egy járásbíróság mellé kerül kinevezésre.
 
 (2) Ugyanarra a székhelyre, illetőleg ugyanazon járásbíróság mellé több végrehajtót is ki lehet nevezni.
 
@@ -3063,7 +3055,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
   - bg) gondatlan bűncselekmény miatt kiszabott, végrehajtandó szabadságvesztés büntetés esetén a mentesítés beálltától számított nyolc évig,
 - c) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
 - d) aki a jogi képesítéshez kötött foglalkozástól vagy a végrehajtói foglalkozástól eltiltás hatálya alatt áll,
-- e) akit a végrehajtói fegyelmi bíróság jogerős határozattal hivatalvesztés fegyelmi büntetéssel sújtott vagy akinek a végrehajtói szolgálatát a miniszter a 239. § (4a) bekezdése alapján szüntette meg, a fegyelmi bíróság határozata jogerőre emelkedésétől vagy a miniszter határozata véglegessé válásától számított 10 évig
+- e) akit a végrehajtói fegyelmi bíróság jogerős határozattal hivatalvesztés fegyelmi büntetéssel sújtott vagy akinek a végrehajtói szolgálatát 2021. október 1. napját megelőzően a miniszter, 2021. október 1. napját követően a Hatóság elnöke a 239. § (4a) bekezdése alapján szüntette meg, a fegyelmi bíróság határozata jogerőre emelkedésétől vagy a miniszter, illetve a Hatóság elnöke határozata véglegessé válásától számított 10 évig,
 - f) aki egészségi állapota miatt vagy más okból a szolgálat ellátására alkalmatlan, vagy
 - g) aki életmódja vagy magatartása miatt a végrehajtói szolgálat ellátásához szükséges közbizalomra érdemtelen,
 - h) akivel szemben a 227. §-ban meghatározott összeférhetetlenségi ok áll fenn és nem vállalja, hogy kinevezése esetén azt az eskütétel időpontjáig megszünteti,
@@ -3079,9 +3071,9 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 - b) vele szemben a (2) bekezdés szerinti kizáró ok nem áll fenn, és
 - c)
 
-234. § A végrehajtói állást pályázat útján kell betölteni, kivéve, ha a határozott idő lejárta előtt a miniszter megállapítja a végrehajtó szolgálata folyamatosságát.
+234. § A végrehajtói állást pályázat útján kell betölteni, kivéve, ha a határozott idő lejárta előtt a Hatóság elnöke megállapítja a végrehajtó szolgálata folyamatosságát.
 
-234/A. § (1) A miniszter a végrehajtó által előterjesztett kérelem alapján határozatlan időre megállapítja a szolgálat folyamatosságát,
+234/A. § (1) A Hatóság elnöke a végrehajtó által előterjesztett kérelem alapján határozatlan időre megállapítja a szolgálat folyamatosságát,
 
 - a) ha a kinevezését követően a végrehajtót nem sújtották jogerősen fegyelmi büntetéssel, vagy
 - b) ha a kinevezését követően a végrehajtót legfeljebb kettő alkalommal sújtották jogerősen fegyelmi büntetéssel, amelyek közül legfeljebb egy volt súlyosabb figyelmeztetésnél, de egyik sem volt súlyosabb írásbeli megrovásnál és a kérelem előterjesztését követően a Kar hivatali szerve által – a Kormány rendeletében meghatározott, a végrehajtó működésének ellenőrzésére vonatkozó szabályok szerint – lefolytatott átfogó ellenőrzés során fegyelmi eljárás kezdeményezésére okot adó körülmény nem került megállapításra.
@@ -3104,9 +3096,9 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 esetén van lehetőség.
 
-(2) Ha a végrehajtói álláshelyet a miniszter a 234. § szerinti eljárása során más székhelyre kinevezett végrehajtó személyével tölti be, a végrehajtót e székhelyre és járásbíróság mellé helyezi át.
+(2) Ha a végrehajtói álláshelyet a Hatóság elnöke a 234. § szerinti eljárása során más székhelyre kinevezett végrehajtó személyével tölti be, a végrehajtót e székhelyre és járásbíróság mellé helyezi át.
 
-(3) A miniszter a végrehajtókat – közös, indokolással ellátott, írásban előterjesztett kérelmükre és a Kar hivatali szerve vezetőjének egyetértésével – egymás székhelyére pályázat nélkül kölcsönösen áthelyezheti.
+(3) A Hatóság elnöke a végrehajtókat – közös, indokolással ellátott, írásban előterjesztett kérelmükre és a Kar hivatali szerve vezetőjének egyetértésével – egymás székhelyére pályázat nélkül kölcsönösen áthelyezheti.
 
 (4) Az áthelyezéssel a végrehajtó szolgálata folyamatos marad, de megváltozik az álláshelye, székhelye és illetékességi területe, továbbá – a kölcsönös áthelyezés esetét kivéve – eredeti álláshelye megüresedik. A végrehajtó áthelyezése nem érinti a korábbi székhelyén lefolytatott eljárásokkal kapcsolatos felelősségét. Az áthelyezésre megfelelően alkalmazni kell a kinevezésre vonatkozó szabályokat.
 
@@ -3141,39 +3133,39 @@ esetén van lehetőség.
 - e) a végrehajtó halálának,
 - f) a szolgálat folyamatosságának megállapítása hiányában a határozott idő utolsó napján.
 
-(2) A miniszter a végrehajtót felmenti, ha a végrehajtó a szolgálatáról a miniszterhez intézett írásbeli nyilatkozatában lemondott.
+(2) A Hatóság elnöke a végrehajtót felmenti, ha a végrehajtó a szolgálatáról a Hatóság elnökéhez intézett írásbeli nyilatkozatában lemondott.
 
-(3) A miniszter a végrehajtói szolgálat megszűnését állapítja meg, ha
+(3) A Hatóság elnöke a végrehajtói szolgálat megszűnését állapítja meg, ha
 
 - a) a végrehajtó magyar állampolgárságát elvesztette, vagy az országgyűlési képviselők választásán már nem választható,
 - b) a végrehajtóval szemben a 233. § (2) bekezdés b) pont ba)–bd), bg) alpontjában, c), d) vagy i) pontjában meghatározott körülmény következett be,
 - c) a végrehajtó a 238. §-ban meghatározott esküt nem tette le,
-- d) a távolléttel érintett napok száma meghaladja egy naptári évben a 275 napot, vagy három egymást követő naptári év mindegyikében a 270 napot, kivéve a 240/B. § (2)–(2a) bekezdésében foglalt esetet,
+- d) a távolléttel érintett napok száma meghaladja egy naptári évben a 275 napot, vagy három egymást követő naptári év mindegyikében a 270 napot, kivéve a 240/B. § (2) bekezdésében foglalt esetet,
 - e) a végrehajtó a kinevezését megelőzően vagy azt követően keletkezett összeférhetetlenséget felszólításra nem szüntette meg,
 - f) a végrehajtónak 30 napot meghaladóan nincs bejelentve állandó helyettese,
 - g) a végrehajtó a kinevezését követő 3 hónapon belül nem alapít végrehajtói irodát vagy nem lép be tagként végrehajtói irodába,
 - h) a végrehajtót helyi önkormányzati képviselőnek, illetve polgármesternek megválasztották.
 
-(4) A miniszter a végrehajtói szolgálat megszűnését állapítja meg, ha a végrehajtó kinevezését követően jut tudomására, hogy a kinevezés 233. § (1) bekezdésében meghatározott feltételei a kinevezés időpontjában nem álltak fenn, vagy a végrehajtóval szemben a kinevezés időpontjában a 233. § (2) bekezdés a)–d) vagy i) pontjában meghatározott körülmény állt fenn.
+(4) A Hatóság elnöke a végrehajtói szolgálat megszűnését állapítja meg, ha a végrehajtó kinevezését követően jut tudomására, hogy a kinevezés 233. § (1) bekezdésében meghatározott feltételei a kinevezés időpontjában nem álltak fenn, vagy a végrehajtóval szemben a kinevezés időpontjában a 233. § (2) bekezdés a)–d) vagy i) pontjában meghatározott körülmény állt fenn.
 
-(4a) A miniszter a végrehajtói szolgálat megszűnését állapítja meg, ha a végrehajtói vizsgálat eredménye alapján megállapítható, hogy a végrehajtó jogszabályban meghatározott kötelezettségeit súlyosan vagy rendszeresen ismétlődően megszegte.
+(4a) A Hatóság elnöke a végrehajtói szolgálat megszűnését állapítja meg, ha a végrehajtói vizsgálat eredménye alapján megállapítható, hogy a végrehajtó jogszabályban meghatározott kötelezettségeit súlyosan vagy rendszeresen ismétlődően megszegte.
 
-(5) Ha a Kar bármely tagja vagy hivatali szervének alkalmazottja a szolgálat megszűnésére okot adó körülményről szerzett tudomást, köteles azt a Kar hivatali szerve vezetőjének haladéktalanul bejelenteni, aki köteles erről haladéktalanul tájékoztatni a minisztert. Összeférhetetlenség esetén a Kar hivatali szervének vezetője írásban felszólítja a végrehajtót, hogy az összeférhetetlenséget 30 napon belül szüntesse meg; e határidő eredménytelen eltelte esetén jelenti be a miniszternek az összeférhetetlenség fennállását.
+(5) Ha a Kar bármely tagja vagy hivatali szervének alkalmazottja a szolgálat megszűnésére okot adó körülményről szerzett tudomást, köteles azt a Kar hivatali szerve vezetőjének haladéktalanul bejelenteni, aki köteles erről haladéktalanul tájékoztatni a Hatóság elnökét. Összeférhetetlenség esetén a Kar hivatali szervének vezetője írásban felszólítja a végrehajtót, hogy az összeférhetetlenséget 30 napon belül szüntesse meg; e határidő eredménytelen eltelte esetén jelenti be a Hatóság elnökének az összeférhetetlenség fennállását.
 
-(6) A végrehajtó felmentéséről, a végrehajtói szolgálat megszűnésének megállapításáról a miniszter a Kar hivatali szervének vezetője véleményének beszerzését követően dönt, és e döntéséről – a határozat megküldésével – értesíti a Kar hivatali szervét.
+(6) A végrehajtó felmentéséről, a végrehajtói szolgálat megszűnésének megállapításáról a Hatóság elnöke a Kar hivatali szervének vezetője véleményének beszerzését követően dönt, és e döntéséről – a határozat megküldésével – értesíti a Kar hivatali szervét.
 
 239/A. § (1) A végrehajtói szolgálat fennállása alatt lefolytatott hatósági ellenőrzés keretében a Kar hivatali szerve ellenőrzi azt is, hogy a végrehajtóval szemben fennáll-e a 233. § (2) bekezdés a)–d), i) vagy j) pontjában meghatározott körülmény.
 
-(2) A hatósági ellenőrzés céljából a Kar hivatali szerve adatot igényelhet a bűnügyi nyilvántartási rendszerből és a gondnokoltak nyilvántartásából. Az adatigénylés kizárólag azon adatra irányulhat, amely alapján megállapítható a végrehajtóval szembeni 233. § (2) bekezdés a)–d), i) vagy j) pontjában meghatározott körülmény fennállása. Az adatigénylést a Kar hivatali szerve minden félévet követően valamennyi végrehajtóval szemben lefolytatja, és ennek eredményéről a Kar hivatali szerve félévente utólag, a tárgyfélévet követő hónap 15. napjáig tájékoztatja a minisztert.
+(2) A hatósági ellenőrzés céljából a Kar hivatali szerve adatot igényelhet a bűnügyi nyilvántartási rendszerből és a gondnokoltak nyilvántartásából. Az adatigénylés kizárólag azon adatra irányulhat, amely alapján megállapítható a végrehajtóval szembeni 233. § (2) bekezdés a)–d), i) vagy j) pontjában meghatározott körülmény fennállása. Az adatigénylést a Kar hivatali szerve minden félévet követően valamennyi végrehajtóval szemben lefolytatja, és ennek eredményéről a Kar hivatali szerve félévente utólag, a tárgyfélévet követő hónap 15. napjáig tájékoztatja a Hatóság elnökét.
 
-(2a) A (2) bekezdés szerinti adatigénylést a Kar hivatali szerve a tudomására jutott információ ellenőrzése érdekében eltérő időpontban is lefolytathatja; ennek eredményéről a Kar hivatali szerve az adat megérkezését követő hónap 15. napjáig tájékoztatja a minisztert.
+(2a) A (2) bekezdés szerinti adatigénylést a Kar hivatali szerve a tudomására jutott információ ellenőrzése érdekében eltérő időpontban is lefolytathatja; ennek eredményéről a Kar hivatali szerve az adat megérkezését követő hónap 15. napjáig tájékoztatja a Hatóság elnökét.
 
-(3) A Kar hivatali szerve, valamint a miniszter a 233. § (2) bekezdés a)–d), i) vagy j) pontjában meghatározott körülmény vizsgálata céljából kezeli
+(3) A Kar hivatali szerve, valamint a Hatóság elnöke a 233. § (2) bekezdés a)–d), i) vagy j) pontjában meghatározott körülmény vizsgálata céljából kezeli
 
 - a) a végrehajtói állásra pályázó vagy kijelölt személy,
 - b) a végrehajtó azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv vagy a gondnokoltakat nyilvántartó szerv által e célból kiállított igazolás tartalmaz.
 
-(4) A (2) és (2a) bekezdés alapján megismert személyes adatokat a Kar hivatali szerve, valamint a miniszter abból a célból, hogy az esetlegesen fennálló kinevezési akadályról és jogviszony megszüntetési, illetve felfüggesztési okról tudomást szerezzen,
+(4) A (2) és (2a) bekezdés alapján megismert személyes adatokat a Kar hivatali szerve, valamint a Hatóság elnöke abból a célból, hogy az esetlegesen fennálló kinevezési akadályról és jogviszony megszüntetési, illetve felfüggesztési okról tudomást szerezzen,
 
 - a) a végrehajtói kinevezésről meghozott döntésig, vagy
 - b) a végrehajtói kinevezés esetén a hatósági ellenőrzés időtartamára vagy a végrehajtói szolgálat megszűnésének, illetve felfüggesztésének megállapítására irányuló eljárásban az eljárás végleges befejezéséig kezeli.
@@ -3185,7 +3177,7 @@ esetén van lehetőség.
 - a) a végrehajtót felfüggesztheti, valamint a végrehajtó-helyettest és a végrehajtójelöltet a névjegyzékből törölheti, ha az olyan közvádra üldözendő szándékos bűncselekmény miatt áll büntetőeljárás hatálya alatt, amely 5 évnél nem súlyosabb szabadságvesztés büntetéssel fenyegetett,
 - b) azonnali hatállyal felfüggeszti a végrehajtót, valamint törli a névjegyzékből a végrehajtó-helyettest és a végrehajtójelöltet, ha az olyan közvádra üldözendő szándékos bűncselekmény miatt áll büntetőeljárás hatálya alatt, amely 5 évnél súlyosabb szabadságvesztés büntetéssel fenyegetett.
 
-(3) A Kar hivatali szervének vezetője a szolgálatból történő felfüggesztés feltételei bekövetkeztének megállapításáról, valamint a felfüggesztésről soron kívül, de legkésőbb 15 napon belül tájékoztatja a minisztert.
+(3) A Kar hivatali szervének vezetője a szolgálatból történő felfüggesztés feltételei bekövetkeztének megállapításáról, valamint a felfüggesztésről soron kívül, de legkésőbb 15 napon belül tájékoztatja a Hatóság elnökét.
 
 (4) A felfüggesztés a (2) bekezdés szerinti büntetőeljárás jogerős befejezéséig tart.
 
@@ -3217,9 +3209,15 @@ esetén van lehetőség.
 
 240/B. § (1) Az egybefüggően 30 napot meghaladó távollét esetén a 31. naptól a végrehajtói szolgálat szünetel. Ha egy naptári évben a távollét összesen meghaladja a 90 napot, a végrehajtói szolgálat a 91. naptól szünetel.
 
-(2) Ha a végrehajtót országgyűlési képviselőjelöltként nyilvántartásba vették, ettől az időponttól a választás eredményének jogerős megállapításáig, illetve megválasztása esetén a mandátuma megszűnéséig végrehajtói szolgálata szünetel.
+(2) Ha
 
-(2a) A végrehajtó politikai tanácsadóvá, politikai főtanácsadóvá vagy kabinetfőnökké való kinevezése esetén a kormányzati igazgatásról szóló törvény szerinti politikai szolgálati jogviszonyának időtartama alatt végrehajtói szolgálata szünetel.
+- a) a végrehajtót országgyűlési képviselőjelöltként nyilvántartásba vették, ettől az időponttól a választás eredményének jogerős megállapításáig, illetve megválasztása esetén a mandátuma megszűnéséig,
+- b) a végrehajtót különleges jogállású szerv vezetőjévé vagy vezetőjének helyettesévé nevezték ki, a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvény szerinti közszolgálati jogviszonyának, vagy a különleges jogállású szervet létrehozó törvény szerinti jogviszonyának időtartama alatt,
+- c) a végrehajtót szakmai felsővezetővé nevezték ki, a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati jogviszonyának időtartama alatt
+
+a végrehajtói szolgálata szünetel.
+
+(2a)
 
 (3) A szünetelést a Kar hivatali szerve állapítja meg.
 
@@ -3229,7 +3227,7 @@ esetén van lehetőség.
 
 ### A végrehajtói szolgálattal kapcsolatos eljárás
 
-240/C. § (1) A miniszter a végrehajtó kölcsönös áthelyezése, felmentése, továbbá szolgálata folyamatossága és megszűnése megállapítása, valamint a végrehajtói kinevezés érvénytelenségének megállapítása ügyében az Ákr. rendelkezései szerint jár el.
+240/C. § (1) A Hatóság elnöke a végrehajtó kölcsönös áthelyezése, felmentése, továbbá szolgálata folyamatossága és megszűnése megállapítása, valamint a végrehajtói kinevezés érvénytelenségének megállapítása ügyében az Ákr. rendelkezései szerint jár el.
 
 (2)–(3)
 
@@ -3368,11 +3366,11 @@ esetén van lehetőség.
 (2) A Kar jogai és feladatai különösen:
 
 - 1. vezeti a végrehajtók, végrehajtó-helyettesek, végrehajtójelöltek, végrehajtói kézbesítésre felhatalmazott végrehajtójelöltek névjegyzékét;
-- 2. havi rendszerességgel tájékoztatja a minisztert a végrehajtói névjegyzék adatairól és az adatváltozásokról;
+- 2. havi rendszerességgel tájékoztatja a Hatóság elnökét a végrehajtói névjegyzék adatairól és az adatváltozásokról;
 - 3. ellenőrzi az általa vezetett névjegyzékekbe való felvétel feltételeinek folyamatos fennállását;
 - 4. kiállítja a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek igazolványát;
 - 5. vezeti a távollévő végrehajtók nyilvántartását, és felhívja a helyettesként eljáró személyt a helyettesítésre;
-- 6. a végrehajtói szolgálat megszűnésével kapcsolatos körülményekről haladéktalanul tájékoztatja a minisztert;
+- 6. a végrehajtói szolgálat megszűnésével kapcsolatos körülményekről haladéktalanul tájékoztatja a Hatóság elnökét;
 - 7. engedélyezi végrehajtói iroda alapítását, alapító okiratának, illetve cégadatának módosítását;
 - 8. nyilvántartást vezet a végrehajtói irodákról;
 - 9. a végrehajtói szolgálat megkezdése előtt ellenőrzi a végrehajtó hivatali helyiségét, felelősségbiztosítását, bélyegzőlenyomatát, a letéti és elszámolási számla megnyitásáról szóló szerződést;
@@ -3388,7 +3386,7 @@ esetén van lehetőség.
 - 19. működteti és fejlesztheti az elektronikus árverési rendszert, az elektronikus ügyviteli rendszert és a végrehajtási iratok elektronikus kézbesítési rendszerét;
 - 20. működteti és fejlesztheti a végrehajtási ügyek végrehajtók közötti elosztására és a végrehajtható okiratok, valamint a kézbesítendő okiratok végrehajtóknak történő megküldésére szolgáló informatikai alkalmazást;
 - 21. a végrehajtói álláshelyre pályázatot ír ki és a pályázati eljárást lebonyolítja;
-- 22. javaslatot tesz a miniszter számára az egyes ellátási területek meghatározásához, összevonásához;
+- 22. javaslatot tesz a Hatóság elnöke számára az egyes ellátási területek meghatározásához, összevonásához;
 - 23. ellátja az ügykiosztással kapcsolatban jogszabályban meghatározott feladatokat;
 - 24. számítástechnikai fejlesztéseket végezhet;
 - 25. szolgáltatásokat nyújthat a végrehajtók számára;
@@ -3416,7 +3414,7 @@ esetén van lehetőség.
 
 (5) A Kar érdek-képviseleti tevékenységével összefüggésben felmerülő kiadásokat elsősorban a tagdíjak fedezik. A Kar közfeladataival összefüggésben felmerülő kiadásokat az általános költségátalány és a Kar egyéb bevételei fedezik. A Kar hivatali szerve a szervezeti és működési szabályzatban meghatározott módon engedélyezheti az érdek-képviseleti feladatok ellátásának általános költségátalányból történő finanszírozását.
 
-(6) A minisztérium az igazolvány előállítását megelőzően lefolytatja a Nemzetbiztonsági Szakszolgálatnál a szükséges engedélyeztetési eljárást.
+(6) A Hatóság az igazolvány előállítását megelőzően lefolytatja a Nemzetbiztonsági Szakszolgálatnál a szükséges engedélyeztetési eljárást.
 
 (7) A Kar hivatali szerve e törvényben meghatározott feladatai ellátása céljából adatot kezel, ideértve az e törvényben meghatározott körben kezelt személyes adatokat is. A Kar hivatali szerve az általa kezelt adatokat az eljárás befejezésétől számított 10 évig kezeli, ezt követően gondoskodik az adatok törléséről.
 
@@ -3450,7 +3448,7 @@ esetén van lehetőség.
 
 (3) A végrehajtó-helyettesek névjegyzéke a következő adatokat tartalmazza:
 
-- a) a (2) bekezdés 1., 3–5. és 18–19. pontjában foglalt adatok és a végrehajtó-helyettes azonosító száma,,
+- a) a (2) bekezdés 1., 3–5. és 18–19. pontjában foglalt adatok és a végrehajtó-helyettes azonosító száma,
 - b) a névjegyzékbe vétel és az abból történő törlés időpontja,
 - c) a végrehajtó-helyettest alkalmazó végrehajtó neve és székhelye, a végrehajtó-helyettes alkalmazásának kezdő időpontja, a munkavégzésből történő hosszabb időtartamú – 90 napot meghaladó – kiesésre vonatkozó adatok,
 - d) az alkalmazás (munkaviszony) megszűnésének napja és módja,
@@ -3499,7 +3497,7 @@ esetén van lehetőség.
 
 (6) Az elnökség a tagjai közül megválasztja a Kar elnökét és alelnökét.
 
-252. § (1) A Kar elnöke a közgyűlést szükség szerint, de évente legalább egyszer a napirend közlésével összehívja. Ha a Kar végrehajtó tagjainak egyötöde az ok és a cél megjelölésével azt írásban kéri, az elnök köteles a közgyűlést egy hónapon belüli időpontra összehívni. A miniszteri biztos az ok és a cél megjelölésével egy hónapon belüli időpontra rendkívüli közgyűlést hívhat össze.
+252. § (1) A Kar elnöke a közgyűlést szükség szerint, de évente legalább egyszer a napirend közlésével összehívja. Ha a Kar végrehajtó tagjainak egyötöde az ok és a cél megjelölésével azt írásban kéri, az elnök köteles a közgyűlést egy hónapon belüli időpontra összehívni. A Hatóság elnöke az ok és a cél megjelölésével egy hónapon belüli időpontra rendkívüli közgyűlést hívhat össze.
 
 (2) A közgyűlés akkor határozatképes, ha azon a Kar végrehajtó tagjainak több mint a fele jelen van. Határozatképtelenség esetén a közgyűlést 30 napon belüli időpontra újra össze kell hívni, a megismételt közgyűlés a résztvevők számára tekintet nélkül határozatképes. A két közgyűlés között több mint egy hétnek kell eltelnie.
 
@@ -3521,7 +3519,7 @@ esetén van lehetőség.
 
 (2) A Kar hivatali szerve a hatáskörébe tartozó ügyekben a szervezeti és működési szabályzatban meghatározott rendben dönt. A Kar hivatali szervének vezetője gyakorolja a munkáltatói jogokat a Kar alkalmazottai felett. A Kar hivatali szervének vezetője a gazdálkodással összefüggő feladatok körében jóváhagyja a Kar pénzügyi kötelezettségvállalásait és kifizetéseit, dönt a teljesítésigazolások elfogadhatóságáról.
 
-(3) A Kar hivatali szervének vezetőjét a miniszter nevezi ki 7 évre egyetemi jogi végzettséggel és legalább 5 éves vezetői gyakorlattal rendelkező személyek közül. A vezető felett a munkáltatói jogokat a miniszter gyakorolja.
+(3) A Kar hivatali szervének vezetőjét a Hatóság elnöke nevezi ki 7 évre egyetemi jogi végzettséggel és legalább 5 éves vezetői gyakorlattal rendelkező személyek közül. A vezető felett a munkáltatói jogokat a Hatóság elnöke gyakorolja.
 
 (4) A Kar hivatali szervének vezetője
 
@@ -3531,7 +3529,7 @@ esetén van lehetőség.
 - d) megtekintheti a Kar más szerveinek bármely iratát,
 - e) beléphet a Kar és szervei által használt bármely helyiségbe,
 - f) tájékoztatást nyújt a sajtó, a rádió és a televízió részére a végrehajtási ügyekről,
-- g) tevékenységéről félévente beszámol a miniszternek.
+- g) tevékenységéről félévente beszámol a Hatóság elnökének.
 
 (5) A Kar hivatali szervének vezetője más keresőtevékenységet nem folytathat, és egyéb tevékenységéért – a tudományos, oktatói, művészeti, szerzői jogi védelem alá eső, lektori, szerkesztői tevékenységet és a nevelőszülői foglalkoztatási jogviszonyt kivéve – díjazást nem fogadhat el.
 
@@ -3547,7 +3545,7 @@ esetén van lehetőség.
 - d) lemondással,
 - e) a kinevezés visszavonásával.
 
-(9) Összeférhetetlenség esetén a miniszter írásban felszólítja a Kar hivatali szervének vezetőjét, hogy az összeférhetetlenséget 30 napon belül szüntesse meg; e határidő eredménytelen eltelte esetén a miniszter megállapítja az összeférhetetlenség fennállását.
+(9) Összeférhetetlenség esetén a Hatóság elnöke írásban felszólítja a Kar hivatali szervének vezetőjét, hogy az összeférhetetlenséget 30 napon belül szüntesse meg; e határidő eredménytelen eltelte esetén a Hatóság elnöke megállapítja az összeférhetetlenség fennállását.
 
 (10) A Kar hivatali szerve vezetőjének jogviszonyára az e törvényben nem szabályozott kérdésekben a munka törvénykönyvéről szóló 2012. évi I. törvény 1–31. §-át; 46. §-át; 51–52. §-át; 54–55. §-át; 80–81. §-át; 86–91. §-át; 103–106. §-át; 115–134. §-át; 154–164. §-át; 166–177. §-át; 179–180. §-át; 190. §-át megfelelően alkalmazni kell.
 
@@ -3557,7 +3555,13 @@ esetén van lehetőség.
 
 253/C. § (1) A Kar hivatali szervének vezetője az elnökség bevonásával szervezeti és működési szabályzatot készít, amely – e törvény keretei között – tartalmazza a Kar szervezetének, működési rendjének és gazdálkodásának, továbbá a Kar feladatai ellátásának részletes szabályait.
 
-(2) A szervezeti és működési szabályzatot, valamint az iránymutatást a meghozatalától számított 15 napon belül jóváhagyás végett be kell mutatni a miniszternek. A miniszter a szervezeti és működési szabályzat, illetve az iránymutatás megküldésétől számított 30 napon belül kifogással élhet a szervezeti és működési szabályzat, illetve iránymutatás azon rendelkezésével szemben, amely – elfogadása esetén – a 253/D. § alapján törvényességi felügyeleti intézkedést indokolna.
+(2) A meghozatalától számított 15 napon belül jóváhagyás céljából be kell mutatni
+
+- a) a szervezeti és működési szabályzatot a Hatóság elnökének,
+- b) a Hatóság elnökének rendeletalkotási felhatalmazásába tartozó szabályozási tárgykört érintő iránymutatást a Hatóság elnökének,
+- c) a Kormány vagy a miniszter rendeletalkotási felhatalmazásába tartozó szabályozási tárgykört érintő iránymutatást a miniszternek.
+
+(2a) A (2) bekezdésben foglaltak szerint a Hatóság elnöke, illetve a miniszter a szervezeti és működési szabályzat, illetve az iránymutatás megküldésétől számított 30 napon belül kifogással élhet a szervezeti és működési szabályzat, illetve iránymutatás azon rendelkezésével szemben, amely – elfogadása esetén – a 253/D. § alapján törvényességi felügyeleti intézkedést indokolna.
 
 (3) Az etikai szabályzat jóváhagyására a Kar szervezeti és működési szabályzatának jóváhagyására vonatkozó szabályokat kell alkalmazni.
 
@@ -3565,15 +3569,13 @@ esetén van lehetőség.
 
 (5) A Kar hivatali szerve internetes honlapot tart fenn, ahol közzéteszi a szervezeti és működési szabályzatot, az elnökség ügyrendjét, az etikai szabályzatot és az iránymutatásokat.
 
-253/D. § (1) A miniszter törvényességi felügyeletet gyakorol a Kar működése felett. A törvényességi felügyelet nem terjed ki olyan ügyre, amelyben bírósági eljárásnak van helye.
+253/D. § (1) A Hatóság elnöke, valamint a 253/C. § (2) bekezdés c) pontjában és (2a) bekezdésében foglaltak szerint a miniszter törvényességi felügyeletet gyakorol a Kar működése felett. A törvényességi felügyelet nem terjed ki olyan ügyre, amelyben bírósági eljárásnak van helye.
 
-(2) Ha a szervezeti és működési szabályzat vagy az iránymutatás jogszabályba, illetőleg ha a Kar szerveinek határozata jogszabályba vagy a szervezeti és működési szabályzat valamely rendelkezésébe ütközik, a miniszter a törvényességi felügyeleti jogkörében – határidő kitűzésével – felhívja a Kart a jogszabálysértés megszüntetésére.
+(2) Ha a szervezeti és működési szabályzat vagy az iránymutatás jogszabályba, illetőleg ha a Kar szerveinek határozata jogszabályba vagy a szervezeti és működési szabályzat valamely rendelkezésébe ütközik, a Hatóság elnöke, illetve a miniszter a törvényességi felügyeleti jogkörében – határidő kitűzésével – felhívja a Kart a jogszabálysértés megszüntetésére.
 
-(3) A Kar köteles a megadott határidőn belül a felhívásnak megfelelően a szervezeti és működési szabályzatot, iránymutatást, illetve egyéb határozatot módosítani, vagy egyet nem értéséről a minisztert tájékoztatni.
+(3) A Kar köteles a megadott határidőn belül a felhívásnak megfelelően a szervezeti és működési szabályzatot, iránymutatást, illetve egyéb határozatot módosítani, vagy egyet nem értéséről a Hatóság elnökét, illetve a minisztert tájékoztatni.
 
-(4) Ha a Kar a megadott határidőn belül nem intézkedett a jogszabálysértés megszüntetése iránt, a miniszter köztestületi felügyeleti pert indíthat.
-
-(5)–(8)
+(4) Ha a Kar a megadott határidőn belül nem intézkedett a jogszabálysértés megszüntetése iránt, a Hatóság elnöke, illetve a miniszter köztestületi felügyeleti pert indíthat.
 
 253/E. § (1) A Kar hivatali szerve – a végrehajtók feletti szakmai felügyelet gyakorlásának elősegítése, a végrehajtási eljárás folyamatban létének és az abban érvényesített igénynek az igazolása, az adattal érintett jogalany joggyakorlásának elősegítése, valamint mások jogainak védelme céljából – az önálló bírósági végrehajtók adatszolgáltatása és a Kar hivatali szervének megküldött végrehajtható okiratok adatai alapján elektronikus közhiteles nyilvántartást vezet az önálló bírósági végrehajtók által intézett bírósági és közigazgatási végrehajtási ügyekről a következő tartalommal:
 
@@ -4034,7 +4036,7 @@ kérhetnek adatszolgáltatást.
 
 ### A fegyelmi eljárás megindítása
 
-278. § (1) Fegyelmi vétség alapos gyanúja esetén a miniszter, a törvényszék elnöke vagy a Kar hivatali szervének vezetője feljelentést tesz az elsőfokú fegyelmi bíróság elnökénél, aki a feljelentést haladéktalanul közli a gyanúsított személlyel.
+278. § (1) Fegyelmi vétség alapos gyanúja esetén a Hatóság elnöke, a törvényszék elnöke vagy a Kar hivatali szervének vezetője feljelentést tesz az elsőfokú fegyelmi bíróság elnökénél, aki a feljelentést haladéktalanul közli a gyanúsított személlyel.
 
 (2)
 
@@ -4054,13 +4056,13 @@ kérhetnek adatszolgáltatást.
 
 (4) Ha az eljárás alá vont személy (3) bekezdésben foglalt kötelezettségének nem tett eleget, a meghallgatáson nem jelent meg vagy nem nyilatkozott, ez az eljárás lefolytatását nem gátolja, azonban a fegyelmi eljárás során e körülményt szintén értékelni kell. Erre a vizsgálóbiztos figyelmezteti az eljárás alá vont személyt.
 
-(5) A vizsgálóbiztos a kirendelését tartalmazó határozat kézhezvételét követő 30 napon belül a fegyelmi vizsgálat eredményéről a fegyelmi tanácsnak írásban jelentést tesz, és a jelentést megküldi a feljelentőnek, valamint ha a feljelentést nem ő tette, a miniszternek és a Kar hivatali szerve vezetőjének is. A vizsgálóbiztos indokolt kérelmére a fegyelmi tanács a jelentéstételre nyitva álló határidőt egy alkalommal 30 nappal meghosszabbíthatja.
+(5) A vizsgálóbiztos a kirendelését tartalmazó határozat kézhezvételét követő 30 napon belül a fegyelmi vizsgálat eredményéről a fegyelmi tanácsnak írásban jelentést tesz, és a jelentést megküldi a feljelentőnek, valamint ha a feljelentést nem ő tette, a Hatóság elnökének és a Kar hivatali szerve vezetőjének is. A vizsgálóbiztos indokolt kérelmére a fegyelmi tanács a jelentéstételre nyitva álló határidőt egy alkalommal 30 nappal meghosszabbíthatja.
 
 (6) A vizsgálóbiztos a jelentésében a kötelességszegés súlyáról nem nyilváníthat véleményt, fegyelmi büntetés kiszabására nem tehet javaslatot.
 
 279/A. § (1) A jelentés kézhezvételét követően a feljelentő a feljelentésben megjelölt tényállást kiegészítheti, amelyet a kézhezvételt követő 15 napon belül megküld a fegyelmi tanácsnak.
 
-(2) A fegyelmi tanács a feljelentés kiegészítését megküldi a vizsgálóbiztosnak, aki a 279. §-ban foglaltak szerint lefolytatott vizsgálat alapján a jelentését kiegészíti, és azt a feljelentés kiegészítésének kézhezvételét követő 30 napon belül megküldi a fegyelmi tanácsnak és a feljelentőnek, valamint ha a feljelentést nem ő tette, a miniszternek és a Kar hivatali szerve vezetőjének is.
+(2) A fegyelmi tanács a feljelentés kiegészítését megküldi a vizsgálóbiztosnak, aki a 279. §-ban foglaltak szerint lefolytatott vizsgálat alapján a jelentését kiegészíti, és azt a feljelentés kiegészítésének kézhezvételét követő 30 napon belül megküldi a fegyelmi tanácsnak és a feljelentőnek, valamint ha a feljelentést nem ő tette, a Hatóság elnökének és a Kar hivatali szerve vezetőjének is.
 
 ### Az elsőfokú fegyelmi tanács eljárása
 
@@ -4071,7 +4073,7 @@ kérhetnek adatszolgáltatást.
 - c) az eljárást megszünteti,
 - d) 60 napon belüli időpontra kitűzi a fegyelmi tárgyalást.
 
-281. § (1) A tárgyalásra az eljárás alá vont személyt és képviselőjét, szükség esetén a vizsgálóbiztost meg kell idézni, a minisztert és a Kar hivatali szervének vezetőjét pedig értesíteni kell a tárgyalás időpontjáról.
+281. § (1) A tárgyalásra az eljárás alá vont személyt és képviselőjét, szükség esetén a vizsgálóbiztost meg kell idézni, a Hatóság elnökét és a Kar hivatali szervének vezetőjét pedig értesíteni kell a tárgyalás időpontjáról.
 
 (2) Ha az eljárás alá vont személy a szabályszerű idézés ellenére nem jelent meg a tárgyaláson, azt a távollétében is meg lehet tartani.
 
@@ -4085,9 +4087,9 @@ kérhetnek adatszolgáltatást.
 
 (2) A bizonyítási eljárás során a fegyelmi tanács tanút és szakértőt hallgathat meg, okiratot ismertethet, és bármilyen bizonyítási eszközt felhasználhat. A kérdezés joga a fegyelmi tanács minden tagját megilleti.
 
-(3) Az eljárás alá vont személy és képviselője, valamint a miniszternek és a Kar hivatali szervének a képviselője a bizonyítékokra nyilatkozatot tehet, az eljárás alá vont személyhez, a tanúhoz, a szakértőhöz és a vizsgálóbiztoshoz kérdést intézhet.
+(3) Az eljárás alá vont személy és képviselője, valamint a Hatóság elnökének és a Kar hivatali szervének a képviselője a bizonyítékokra nyilatkozatot tehet, az eljárás alá vont személyhez, a tanúhoz, a szakértőhöz és a vizsgálóbiztoshoz kérdést intézhet.
 
-(4) A bizonyítási eljárás befejezése után sorrendben a miniszternek és a Kar hivatali szervének a képviselője, az eljárás alá vont személy és a képviselője kap szót; legvégül az eljárás alá vont személy nyilatkozhat.
+(4) A bizonyítási eljárás befejezése után sorrendben a Hatóság elnökének és a Kar hivatali szervének a képviselője, az eljárás alá vont személy és a képviselője kap szót; legvégül az eljárás alá vont személy nyilatkozhat.
 
 ### Fegyelmi határozat
 
@@ -4109,7 +4111,7 @@ kérhetnek adatszolgáltatást.
 
 (4) A fegyelmi határozatot a fegyelmi tanács elnöke és tagjai írják alá.
 
-(5) A fegyelmi határozatot a kihirdetésétől számított 15 napon belül kézbesíteni kell az eljárás alá vont személy és képviselője, valamint a miniszternek és a Kar hivatali szervének a képviselője részére.
+(5) A fegyelmi határozatot a kihirdetésétől számított 15 napon belül kézbesíteni kell az eljárás alá vont személy és képviselője, valamint a Hatóság elnökének és a Kar hivatali szervének a képviselője részére.
 
 ### Jegyzőkönyv fegyelmi ügyben
 
@@ -4123,7 +4125,7 @@ kérhetnek adatszolgáltatást.
 
 ### Fellebbezés fegyelmi ügyben
 
-287. § (1) Az elsőfokú fegyelmi bíróság fegyelmi tanácsának határozata ellen az eljárás alá vont személy, a miniszternek és a Kar hivatali szervének a képviselője jogszabálysértésre hivatkozással fellebbezést nyújthat be a Kúria mellett működő bírósági végrehajtói fegyelmi bírósághoz. Ha az eljárás a törvényszék elnökének feljelentése alapján indult, a fellebbezés joga a törvényszék elnökét is megilleti.
+287. § (1) Az elsőfokú fegyelmi bíróság fegyelmi tanácsának határozata ellen az eljárás alá vont személy, a Hatóság elnökének és a Kar hivatali szervének a képviselője jogszabálysértésre hivatkozással fellebbezést nyújthat be a Kúria mellett működő bírósági végrehajtói fegyelmi bírósághoz. Ha az eljárás a törvényszék elnökének feljelentése alapján indult, a fellebbezés joga a törvényszék elnökét is megilleti.
 
 (2) A fellebbezést és indokait az elsőfokú fegyelmi határozat kézbesítésétől számított 15 napon belül kell benyújtani az elsőfokú fegyelmi tanácsnál, amely a fellebbezési határidő lejárta után a fellebbezést és a fegyelmi ügy iratait felterjeszti a másodfokú fegyelmi tanácshoz.
 
@@ -4165,15 +4167,15 @@ kérhetnek adatszolgáltatást.
   - ac) előzetes kényszergyógykezelését rendelték el, illetve
 - b) a fegyelmi vagy a büntetőeljárás során a felfüggesztés más fontos okból indokolt.
 
-(1a) A felfüggesztésre a feljelentő, valamint a miniszternek vagy a Kar hivatali szervének a képviselője indítványt tehet, továbbá azt a bíróság hivatalból is elrendelheti.
+(1a) A felfüggesztésre a feljelentő, valamint a Hatóság elnökének vagy a Kar hivatali szervének a képviselője indítványt tehet, továbbá azt a bíróság hivatalból is elrendelheti.
 
 (2) Az (1) bekezdésben foglalt indítványról a fegyelmi tanács 15 napon belül határoz. Ha az indítványt a feljelentéssel együtt terjesztették elő, a felfüggesztéssel egyidejűleg a fegyelmi eljárás megindításának kérdésében is dönteni kell.
 
-(3) Ha a felfüggesztést a miniszter és a Kar hivatali szervének vezetője is kérte, a fegyelmi tanács haladéktalanul megindítja a fegyelmi eljárást, és az eljárás alá vont személyt felfüggeszti a hivatalából. Ha ilyen kérelmet a fegyelmi eljárás során terjesztettek elő, a felfüggesztést szintén haladéktalanul el kell rendelni.
+(3) Ha a felfüggesztést a Hatóság elnöke és a Kar hivatali szervének vezetője is kérte, a fegyelmi tanács haladéktalanul megindítja a fegyelmi eljárást, és az eljárás alá vont személyt felfüggeszti a hivatalából. Ha ilyen kérelmet a fegyelmi eljárás során terjesztettek elő, a felfüggesztést szintén haladéktalanul el kell rendelni.
 
 (4) A fegyelmi tanács a felfüggesztésről azzal a rendelkezéssel értesíti a végrehajtó letéti számláját vezető pénzforgalmi szolgáltatót, hogy a letéti számláról a számlavezető végrehajtó rendelkezésére ne teljesítsen kifizetést.
 
-(5) A felfüggesztés tárgyában hozott határozatot kézbesíteni kell az eljárás alá vont személynek, az indítványt előterjesztőnek, továbbá a miniszter és a Kar hivatali szerve képviselőjének. Az eljárás alá vont személy, továbbá a miniszternek és a Kar hivatali szervének a képviselője a határozat ellen a kézbesítésétől számított 15 napon belül fellebbezést nyújthat be, amelynek nincs halasztó hatálya. A fellebbezésről a másodfokú fegyelmi tanács 8 napon belül határoz.
+(5) A felfüggesztés tárgyában hozott határozatot kézbesíteni kell az eljárás alá vont személynek, az indítványt előterjesztőnek, továbbá a Hatóság elnöke és a Kar hivatali szerve képviselőjének. Az eljárás alá vont személy, továbbá a Hatóság elnökének és a Kar hivatali szervének a képviselője a határozat ellen a kézbesítésétől számított 15 napon belül fellebbezést nyújthat be, amelynek nincs halasztó hatálya. A fellebbezésről a másodfokú fegyelmi tanács 8 napon belül határoz.
 
 ### A büntetőeljárással kapcsolatos rendelkezések
 
@@ -4181,11 +4183,11 @@ kérhetnek adatszolgáltatást.
 
 (2) A büntetőeljárás jogerős befejezéséig a fegyelmi bíróság a fegyelmi eljárást felfüggesztheti.
 
-(3) A büntetőügyben eljáró bíróság, ügyészség, nyomozó hatóság a végrehajtóval, a végrehajtó-helyettessel és a végrehajtójelölttel szemben indított büntetőeljárásról, illetve személyi szabadságot érintő bírói engedélyes kényszerintézkedésről értesíti a törvényszék elnökét, a minisztert és a Kar hivatali szervének vezetőjét, az eljárást befejező határozatot pedig kézbesíti részükre.
+(3) A büntetőügyben eljáró bíróság, ügyészség, nyomozó hatóság a végrehajtóval, a végrehajtó-helyettessel és a végrehajtójelölttel szemben indított büntetőeljárásról, illetve személyi szabadságot érintő bírói engedélyes kényszerintézkedésről értesíti a törvényszék elnökét, a Hatóság elnökét és a Kar hivatali szervének vezetőjét, az eljárást befejező határozatot pedig kézbesíti részükre.
 
 ### Új eljárás kezdeményezése
 
-294. § (1) A jogerős fegyelmi határozat meghozatala után az eljárás alá vont személy, a törvényszék elnöke, továbbá a miniszter és a Kar hivatali szervének vezetője új eljárást kezdeményezhet, ha
+294. § (1) A jogerős fegyelmi határozat meghozatala után az eljárás alá vont személy, a törvényszék elnöke, továbbá a Hatóság elnöke és a Kar hivatali szervének vezetője új eljárást kezdeményezhet, ha
 
 - a) olyan tényre vagy bizonyítékra, illetve olyan jogerős bírósági vagy véglegessé vált hatósági határozatra, illetve büntetőeljárásban a bíróság jogerős vagy véglegessé vált határozatára, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatára hivatkozik, amelyet a fegyelmi bíróság nem bírált el, feltéve, hogy az a fegyelmi határozatra lényeges hatással lett volna,
 - b) az alapügyben a fegyelmi bíróság valamelyik tagja a kötelességét a Büntető Törvénykönyvbe ütköző módon megszegte.
@@ -4200,7 +4202,7 @@ kérhetnek adatszolgáltatást.
 
 ### A fegyelmi büntetés nyilvántartása
 
-296. § (1) A fegyelmi bíróság a jogerős határozatát megküldi a miniszternek és a Kar hivatali szervének; ha a törvényszék elnöke tett feljelentést, vagy hivatalvesztés fegyelmi büntetés kiszabására került sor, a törvényszék elnökének is.
+296. § (1) A fegyelmi bíróság a jogerős határozatát megküldi a Hatóság elnökének és a Kar hivatali szervének; ha a törvényszék elnöke tett feljelentést, vagy hivatalvesztés fegyelmi büntetés kiszabására került sor, a törvényszék elnökének is.
 
 (2) A jogerős fegyelmi büntetést és a 285. § (2a) bekezdése szerinti, vétkességet megállapító határozatot a végrehajtók, a végrehajtó-helyettesek és a végrehajtójelöltek névjegyzékében fel kell tüntetni.
 
@@ -4214,11 +4216,11 @@ kérhetnek adatszolgáltatást.
 
 ### Alkalmatlanság
 
-298. § (1) A Kar hivatali szerve javaslatára a miniszter a 233. § (2) bekezdésének f) vagy g) pontjában foglalt körülmények fennállása esetén felszólítja a végrehajtót, hogy meghatározott időn belül mondjon le szolgálatáról.
+298. § (1) A Kar hivatali szerve javaslatára a Hatóság elnöke a 233. § (2) bekezdésének f) vagy g) pontjában foglalt körülmények fennállása esetén felszólítja a végrehajtót, hogy meghatározott időn belül mondjon le szolgálatáról.
 
-(2) Ha a végrehajtó a felszólításnak nem tett eleget, erről a miniszter értesíti az elsőfokú fegyelmi bíróságot. Az elsőfokú fegyelmi tanács a fegyelmi eljárás szabályainak megfelelő alkalmazásával soron kívül határoz a végrehajtó alkalmatlanságáról, illetve érdemtelenségéről, és ha őt alkalmatlanná vagy érdemtelenné nyilvánítja, határozatában a végrehajtó szolgálatának megszűnését mondja ki.
+(2) Ha a végrehajtó a felszólításnak nem tett eleget, erről a Hatóság elnöke értesíti az elsőfokú fegyelmi bíróságot. Az elsőfokú fegyelmi tanács a fegyelmi eljárás szabályainak megfelelő alkalmazásával soron kívül határoz a végrehajtó alkalmatlanságáról, illetve érdemtelenségéről, és ha őt alkalmatlanná vagy érdemtelenné nyilvánítja, határozatában a végrehajtó szolgálatának megszűnését mondja ki.
 
-(3) Végrehajtó-helyettes vagy végrehajtójelölt esetén a miniszternek az (1) és (2) bekezdésben foglalt jogköre a Kar hivatali szervét illeti meg.
+(3) Végrehajtó-helyettes vagy végrehajtójelölt esetén a Hatóság elnökének az (1) és (2) bekezdésben foglalt jogköre a Kar hivatali szervét illeti meg.
 
 299. § Az alkalmatlanságról, illetve érdemtelenségről hozott határozat ellen a fegyelmi határozatra vonatkozó szabályok szerint van helye fellebbezésnek és másodfokú eljárásnak.
 
@@ -4449,7 +4451,7 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 
 (10) A Kar elnökségének megválasztásakor az újraválaszthatóságot korlátozó rendelkezés alkalmazása során a kamarai elnökségi tisztségviselést is figyelembe kell venni, mint az újraválaszthatóságot korlátozó körülményt, a Módtv.3. hatálybalépése után keletkezett kamarai tisztségviselés kivételével.
 
-306/I. § A 2015. szeptember 1. napján határozatlan idejű kinevezéssel rendelkező önálló bírósági végrehajtók szolgálata az e naptól számított 7 év elteltével megszűnik, kivéve, ha a 234/A. § alapján előterjesztett kérelemre a miniszter megállapítja a szolgálat folyamatosságát. A szolgálat folyamatosságának megállapításakor a 2015. szeptember 1. napját követő cselekményekkel összefüggésben megállapított fegyelmi büntetéseket kell értékelni.
+306/I. § A 2015. szeptember 1. napján határozatlan idejű kinevezéssel rendelkező önálló bírósági végrehajtók szolgálata az e naptól számított 7 év elteltével megszűnik, kivéve, ha a 234/A. § alapján előterjesztett kérelemre a Hatóság elnöke megállapítja a szolgálat folyamatosságát. A szolgálat folyamatosságának megállapításakor a 2015. szeptember 1. napját követő cselekményekkel összefüggésben megállapított fegyelmi büntetéseket kell értékelni.
 
 306/J. § (1) A 2015. szeptember 1. napján végrehajtói szakvizsgával nem rendelkező önálló bírósági végrehajtónak 2017. március 31. napjáig végrehajtói szakvizsgát kell tennie.
 
@@ -4473,7 +4475,7 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 
 (5) A 2015. szeptember 1. napján egyetemi jogi végzettséggel nem rendelkező önálló bírósági végrehajtó 2015. december 31. napjáig köteles egyetemi jogi végzettségű alkalmazottat foglalkoztatni, a foglalkoztatást az egyetemi jogi végzettség megszerzéséig folyamatosan fenntartani és a foglalkoztatás tényét a Kar hivatali szerve felhívására igazolni.
 
-(6) Amennyiben az (1) bekezdés szerinti önálló bírósági végrehajtó nem tesz eleget az (1)–(5) bekezdésben meghatározott kötelezettségének, a miniszter megállapítja a szolgálat megszűnését.
+(6) Amennyiben az (1) bekezdés szerinti önálló bírósági végrehajtó nem tesz eleget az (1)–(5) bekezdésben meghatározott kötelezettségének, a Hatóság elnöke megállapítja a szolgálat megszűnését.
 
 (7) Az (1) bekezdés szerinti önálló bírósági végrehajtó a tanulmányokban való előrehaladással kapcsolatos kötelezettségeit nem teljesíti, ha a felsőoktatási intézmény által kiállított (3) bekezdés szerinti igazolásból az állapítható meg, hogy 2022. december 31. napjáig az egyetemi jogi végzettséget igazoló oklevelet nem tudja megszerezni.
 
@@ -4551,29 +4553,48 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 
 - a) a 7. § (3) bekezdésének b) pontjában megjelölt összegek végrehajtás alá vonásának részletes szabályait,
 - b) a végrehajtói kézbesítés részletes eljárási szabályait,
-- c) az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának ellenőrzésére irányuló vizsgálatok lefolytatására vonatkozó részletes szabályokat,
-- d) a végrehajtó kölcsönös áthelyezése, felmentése, továbbá szolgálata folyamatossága és megszűnése megállapítása, valamint a végrehajtói kinevezés érvénytelenségének megállapítása részletes eljárási szabályait.
+- c)
+- d)
+
+(1a) Felhatalmazást kap a Hatóság elnöke, hogy rendeletben állapítsa meg
+
+- a) az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának ellenőrzésére irányuló vizsgálatok lefolytatására vonatkozó részletes szabályokat,
+- b) a végrehajtó kölcsönös áthelyezése, felmentése, továbbá szolgálata folyamatossága és megszűnése megállapítása, valamint a végrehajtói kinevezés érvénytelenségének megállapítása részletes eljárási szabályait,
+- c) a végrehajtók működésének folyamatosságához szükséges átmeneti intézkedéseket,
+- d) az önálló bírósági végrehajtói állások számát, e végrehajtók székhelyét és az azonos illetékességi területen működő végrehajtók között a végrehajtási ügyek elosztásának rendjét,
+- e) a végrehajtói állások betöltésének és a végrehajtói pályázati eljárásnak a részletes szabályait, és a végrehajtói kinevezéshez készített pályázati rangsor kialakítása során figyelembe vehető szempontokat és azokhoz rendelhető pontszámokat,
+- f) a végrehajtók, végrehajtó-helyettesek, végrehajtójelöltek igazolványára és nyilvántartására, a Kar által vezetett nyilvántartások, névjegyzékek vezetésére, a Kar igazgatási jellegű feladatainak ellátására és panaszügyintézésére, továbbá a végrehajtási ügyekről vezetett nyilvántartás adatairól szóló tanúsítvány kiállításért járó költségtérítés összegére és megfizetésére vonatkozó részletes szabályokat,
+- g) a fegyelmi eljárásban közreműködő személyek részére járó költségtérítésről szóló szabályokat,
+- h) a végrehajtó tevékenységével okozott kárért járó kártérítés, illetve személyiségi jogsértésért járó sérelemdíj fedezésére szolgáló biztosíték összegének kezelésére vonatkozó részletes szabályokat,
+- i) a 253/I. § szerinti IVR bevezetésének időpontját és ütemezését, a létrehozására, működésére és felhasználására vonatkozó részletszabályokat, a működtetéséhez szükséges, a Kar által megalkotandó szabályzatok körét, továbbá a végrehajtók által a hatálybalépést megelőzően alkalmazott informatikai rendszer adatállományának az IVR-ben történő rögzítésének részletes szabályait azon, még érdemben befejezetlen végrehajtási ügyek tekintetében, amelyek az IVR bevezetését megelőzően kerültek kiosztásra, illetőleg érkeztek a végrehajtóhoz foganatosítás céljából,
+- j) a végrehajtói díjszabást és a végrehajtás során befolyt összegeknek a végrehajtási költségekre történő elszámolásának részletes szabályait,
+- k) az árverezők elektronikus nyilvántartásába történő bejegyzés díját, a közös tulajdonban lévő ingatlan árverése esetén a tulajdonostárs tulajdoni hányadának értékesítéséért felszámítható díjat, az önálló bírósági végrehajtó által a felvilágosításra jogosult részére kiadott másolatért felszámítható költségtérítést, valamint ezek megfizetésének módját,
+- l) az általános költségátalány megfizetéséről szóló szabályokat,
+- m) az elektronikus árverési rendszer és a kézbesítési rendszer informatikai alkalmazásának működtetésére, biztonsági követelményeire és felhasználói szabályzatának kötelező tartalmi elemeire vonatkozó részletes szabályokat,
+- n) a panaszügyek intézésére irányuló eljárások lefolytatására, és a fegyelmi eljárások nyilvántartására vonatkozó részletes szabályokat.
+
+(1b) Az (1a) bekezdés a), d), i), j), l) és m) pontjában meghatározott rendeletet a Hatóság elnöke a miniszter véleményének kikérését követően adja ki.
 
 (2) Felhatalmazást kap a miniszter, hogy rendelettel állapítsa meg
 
-- a) a végrehajtók működésének folyamatosságához szükséges átmeneti intézkedéseket,
-- b) az önálló bírósági végrehajtói állások számát, e végrehajtók székhelyét és az azonos illetékességi területen működő végrehajtók között a végrehajtási ügyek elosztásának rendjét,
-- c) a végrehajtói állások betöltésének és a végrehajtói pályázati eljárásnak a részletes szabályait, és a végrehajtói kinevezéshez készített pályázati rangsor kialakítása során figyelembe vehető szempontokat és azokhoz rendelhető pontszámokat,
-- d) a végrehajtók, végrehajtó-helyettesek, végrehajtójelöltek igazolványára és nyilvántartására, a Kar által vezetett nyilvántartások, névjegyzékek vezetésére, a Kar igazgatási jellegű feladatainak ellátására és panaszügyintézésére, továbbá – az adópolitikáért felelős miniszterrel egyetértésben – a végrehajtási ügyekről vezetett nyilvántartás adatairól szóló tanúsítvány kiállításért járó költségtérítés összegére és megfizetésére vonatkozó részletes szabályokat,
+- a)
+- b)
+- c)
+- d)
 - e) a végrehajtói szakvizsga, a végrehajtási ügyintézői vizsga és a végrehajtó-jelölti kézbesítési vizsga szabályait,
 - f) a bírósági árverési csarnokok létesítésére és működésére vonatkozó szabályokat,
 - g) a végrehajtási ügyvitelre, pénzkezelésre és statisztikára vonatkozó szabályokat, valamint a végrehajtási kérelem előterjesztésére szolgáló végrehajtható okirat nyomtatványok adattartalmát,
-- h) az adópolitikáért felelős miniszterrel egyetértésben a végrehajtói díjszabást, a törvényszéki végrehajtó végrehajtási jutalmát, a végrehajtási költségátalányt, a végrehajtási eljárásban közreműködő jogi képviselő díjazását és a végrehajtás során befolyt összegeknek a végrehajtási költségekre történő elszámolásának részletes szabályait,
+- h) az adópolitikáért felelős miniszterrel egyetértésben a végrehajtási eljárásban közreműködő jogi képviselő díjazását,
 - i) a rendészetért felelős miniszterrel és a gyermekek és az ifjúság védelméért felelős miniszterrel egyetértésben a meghatározott cselekmény végrehajtására vonatkozó részletes szabályokat, különösen a lakás kiürítésére, valamint a gyermek átadására irányuló eljárásban,
-- j) a fegyelmi eljárásban közreműködő személyek részére járó költségtérítésről szóló szabályokat,
-- k) az általános költségátalány megfizetéséről szóló szabályokat,
+- j)
+- k)
 - l) az adópolitikáért felelős miniszterrel egyetértésben a természetes személy adós foglalkozásának gyakorlásához nélkülözhetetlen gépjármű becsértékének azt az összegét, amelynél alacsonyabb becsérték esetén a gépjármű mentes a végrehajtás alól, továbbá azt az összeget, amely a gépjármű értékesítése során befolyt vételárból az adóst illeti meg,
-- m) a végrehajtó tevékenységével okozott kárért járó kártérítés, illetve személyiségi jogsértésért járó sérelemdíj fedezésére szolgáló biztosíték összegének kezelésére vonatkozó részletes szabályokat,
-- n) az adópolitikáért felelős miniszterrel egyetértésben az árverezők elektronikus nyilvántartásába történő bejegyzés díját, a közös tulajdonban lévő ingatlan árverése esetén a tulajdonostárs tulajdoni hányadának értékesítéséért felszámítható díjat, az önálló bírósági végrehajtó által a felvilágosításra jogosult részére kiadott másolatért felszámítható költségtérítést, a végrehajtási kifogás előterjesztésével egyidejűleg letétbe helyezendő szakértői díj előlegének összegét, valamint ezek megfizetésének módját,
-- o) az elektronikus árverési rendszer és a kézbesítési rendszer informatikai alkalmazásának működtetésére, biztonsági követelményeire és felhasználói szabályzatának kötelező tartalmi elemeire vonatkozó részletes szabályokat,
+- m)
+- n) az adópolitikáért felelős miniszterrel egyetértésben a végrehajtási kifogás előterjesztésével egyidejűleg letétbe helyezendő szakértői díj előlegének összegét, valamint megfizetésének módját,
+- o)
 - p) a végrehajtó állandó helyettes általi helyettesítésével összefüggő elszámolás, ügyvitel és ügykezelés részletes szabályait,
-- q) a panaszügyek intézésére irányuló eljárások lefolytatására, és a fegyelmi eljárások nyilvántartására vonatkozó részletes szabályokat,
-- r) a 253/I. § szerinti IVR bevezetésének időpontját és ütemezését, a létrehozására, működésére és felhasználására vonatkozó részletszabályokat, a működtetéséhez szükséges, a Kar által megalkotandó szabályzatok körét, továbbá a végrehajtók által a hatálybalépést megelőzően alkalmazott informatikai rendszer adatállományának az IVR-ben történő rögzítésének részletes szabályait azon, még érdemben befejezetlen végrehajtási ügyek tekintetében, amelyek az IVR bevezetését megelőzően kerültek kiosztásra, illetőleg érkeztek a végrehajtóhoz foganatosítás céljából.
+- q)
+- r)
 
 #### 308. §
 
