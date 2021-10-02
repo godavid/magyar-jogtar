@@ -555,494 +555,59 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 17. Módosító rendelkezések
 
-37. § (1) A Ktv. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+37. §
 
-„(1) Az állam nevében pályázat kiírására, elbírálására, ajánlattételi felhívásra, ajánlattételi eljárás, valamint a 10/A. § szerinti eljárás lefolytatására és a koncessziós szerződés megkötésére – a Szabályozott Tevékenységek Felügyeleti Hatóságának (a továbbiakban: Hatóság) előzetes egyetértésével – a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv jogosult.”
+38. § (1)
 
-(2) A Ktv. 16. §-a helyébe a következő rendelkezés lép:
+(2)
 
-„16. § A koncessziós szerződésből eredő jogviták elbírálása során – a felek ilyen megállapodása esetén, nemzetközi szerződés eltérő rendelkezése vagy Magyarország nemzetközi szerződésből eredő eltérő kötelezettsége hiányában – a Koncessziós Állandó Választottbíróság és külföldi választottbíróság is eljárhat, egyébként a koncessziós szerződésből eredő jogviták elbírálására az általános hatáskörrel és illetékességgel rendelkező bíróság jogosult.”
+(3)
 
-(3) A Ktv. „A koncessziós szerződés” alcíme a következő 19/A. §-sal egészül ki:
+(4)
 
-„19/A. § A koncessziós szerződés módosításához, az állam nevében történő megszüntetéséhez a Hatóság előzetes egyetértése szükséges.”
+(5)
 
-38. § (1) A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény (a továbbiakban: Szjtv.) 1. § (7c) bekezdése helyébe a következő rendelkezés lép:
+(6)
 
-„(7c) A felelős játékszervezés részletes szabályairól szóló jogszabály szerinti, az ajánlott felelős játékszervezői minősítés megállapításához szükséges, ezen jogszabály szerinti szervezet tevékenységének támogatására vonatkozó feltételt a szerencsejáték szervező a 29/J. § (1) bekezdés b) pontja szerinti szervezet támogatásával is teljesítheti.”
+(7)
 
-(2) Az Szjtv. 3. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(A Magyar Állam képviseletét)
-
-„b) a koncessziós szerződések végrehajtása, teljesítése, ellenőrzése során a szerencsejáték-szabályozásért felelős miniszter, a koncesszióköteles tevékenység gyakorlásának ellenőrzése során a Hatóság”
-
-(látja el)
-
-(3) Az Szjtv. 3. § (2a) bekezdése helyébe a következő rendelkezés lép:
-
-„(2a) A Hatóság feladatainak ellátása során együttműködik – amelynek keretében különösen adatot szolgáltat, egyéb tájékoztatást nyújt, véleményt nyilvánít, állásfoglalást ad ki – a szerencsejáték-szabályozásért felelős miniszterrel.”
-
-(4) Az Szjtv. 8. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A (3) bekezdésben felsoroltak munkavégzésre irányuló jogviszonyának a Hatóságnál történő megszűnését követő 1 évig szerencsejáték szervező társaságnál vezető tisztségviselők, felügyelőbizottsági tagok, illetve korlátlanul felelős vagy többségi befolyással rendelkező tagok nem lehetnek.”
-
-(5) Az Szjtv. 27/B. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A 3. § (1) bekezdés a) pontja szerinti kérelmező kérelmét a Hatóság elnökének a játékkaszinó üzemeltetéséhez – meghatározott időszakra, helyszínre, valamint egyéb feltételekkel – való előzetes hozzájárulásának birtokában nyújthatja be.”
-
-(6) Az Szjtv. 36/L. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A Megállapodás végrehajtása során hatáskörrel rendelkező hatóság (a továbbiakban: magyar hatóság) a Hatóság, amely e hatásköre gyakorlásához kapcsolódóan az adópolitikáért felelős minisztertől és a szerencsejáték-szabályozásért felelős minisztertől adatszolgáltatást, tájékoztatást kérhet.”
-
-(7) Az Szjtv.
-
-- a) 1. § (5) bekezdésében a „szerencsejáték-felügyeleti hatóság” szövegrész helyébe a „szerencsejáték-felügyeleti hatósági jogkörben eljáró Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság)” szöveg,
-- b) 1/B. § (2) bekezdésében az „egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló 32/2005. (X. 21.) PM rendeletben” szövegrész helyébe az „egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló, a Hatóság elnöke által kiadott rendeletben” szöveg,
-- c) 3. § (2) bekezdés b) pontjában és (2c) bekezdés b) pontjában a „szerencsejáték-szervezés állami felügyeletéért” szövegrész helyébe a „szerencsejáték-szabályozásért” szöveg,
-- d) 3. § (2b) bekezdésében a „szerencsejáték-szervezés állami felügyeletéért” szövegrészek helyébe a „szerencsejáték-szabályozásért” szöveg,
-- e) 7/A. § (1) bekezdésében „a felelős játékszervezés részletes szabályairól szóló kormányrendeletben” szövegrész helyébe „a Hatóság elnöke által e törvény végrehajtására kiadott rendeletben” szöveg,
-- f) 15. § (2) bekezdésében, 27. § (8) bekezdésében és 38. § (2) bekezdésében a „szerencsejáték-szervezés állami felügyeletéért felelős miniszter” szövegrész helyébe a „Hatóság elnöke” szöveg,
-- g) 35/A. § (3) bekezdés i) pontjában a „felelős játékszervezés részletes szabályairól szóló kormányrendelettel” szövegrész helyébe a „Hatóság elnökének a felelős játékszervezés részletes szabályairól szóló rendeletével” szöveg, és
-- h) 38. § (1a) és (1c) bekezdésében a „Kormány” szövegrész helyébe a „Hatóság elnöke” szöveg
-
-lép.
-
-(8) Hatályát veszti az Szjtv.
+(8)
 
 - a)
-- b) 13/C. §-a,
-- c) 27/B. § (2) bekezdés g) pontja,
+- b)
+- c)
 - d)
 - e)
 - f)
-- g) 38. § (1b) bekezdése, és
-- h) 38. § (2) bekezdés h) pontjában az „az adópolitikáért felelős miniszterrel egyetértésben” szövegrész.
+- g)
+- h)
 
-39. § (1) A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Csődtv.) 10. § (1) bekezdése helyébe a következő rendelkezés lép:
+39. §
 
-„(1) Ha a csődeljárás megindítása iránti kérelmet a bíróság nem utasítja el, 15 napon belül végzést hoz a csődeljárás elrendeléséről és a vagyonfelügyelő kirendeléséről a 27/A. § (1) bekezdésében foglaltak alkalmazásával, és ezt követően haladéktalanul intézkedik a végzés Cégközlönyben történő közzétételéről és a cégjegyzékben az adós cégneve mellett a „cs. a.” toldat feltüntetéséről. A Cégközlönyben történő közzétételre a Cégközlöny honlapján, napi feltöltéssel, 0 órakor kerül sor. A bíróság végzése ellen – ha e törvény eltérően nem rendelkezik – jogorvoslatnak nincs helye.”
+40. §
 
-(2) A Csődtv. 27/A. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
+41. §
 
-„(1) A bíróság a Hatóság által működtetett elektronikus, véletlenszerű kiválasztás elvét alkalmazó informatikai rendszer segítségével – jogszabályban meghatározott eljárási szabályok szerint – haladéktalanul kirendeli a felszámoló szervezetet (a továbbiakban: felszámoló). Az eljáró felszámoló kirendelése átlátható, ellenőrizhető módszertan szerint és olyan elvek alapján történhet, amelyek biztosítják az eljárás hatékony lefolytatásához szükséges felszámolói kapacitásokat, a felszámolók arányos munkaterhelését, és – az eljárás költségeinek csökkentése érdekében – figyelembe veszik a felszámoló, valamint az adós gazdálkodó szervezet földrajzi elhelyezkedését. Felszámolóként – a IV. Fejezetben foglaltak, valamint azon felszámoló kivételével, amelyet törvény pénzügyi szervezetek felszámolására vagy végelszámolására kijelöl – az a gazdálkodó szervezet rendelhető ki, amely szerepel a felszámolók névjegyzékében.
+42. §
 
-(2) A felszámolóként kirendelhetők körét a Hatóság elnöke rendelettel állapítja meg. Felszámoló csak olyan szervezet lehet, amelynek tagja (részvényese) megismerhető, továbbá amelyben közvetlen vagy közvetett részesedéssel nem rendelkezik olyan tag (részvényes), amely az adózási szempontból nem együttműködő államok listájának közzétételéről szóló rendeletben meghatározott államban rendelkezik adóügyi illetőséggel, vagy amelyben – ide nem értve az Európai Gazdasági Térségről szóló megállapodásban részes államot – jogszabály nem ír elő a társasági adónak megfelelő adókötelezettséget, vagy az előírt adómérték legfeljebb 10 százalék. A Hatóság a felszámolók névjegyzékébe való felvételre nyilvános pályázatot ír ki.”
+43. §
 
-(3) A Csődtv. 27/A. § (4) bekezdés b) pont bj) alpontja helyébe a következő rendelkezés lép:
+44. §
 
-(E törvény alkalmazásában a felszámolót és a felszámolóbiztost érintő kizárási okok:
+45. §
 
-Nem jelölhető ki felszámolóbiztosnak az a személy,)
+46. §
 
-„bj) aki többségi részesedéssel rendelkezik olyan gazdasági társaságban vagy más vállalkozásban, amely vállalkozás olyan államban van bejegyezve vagy van adóügyi illetékessége, amely állam az adózási szempontból nem együttműködő államok listájának közzétételéről szóló rendeletben meghatározott állam, vagy amelyben – ide nem értve az Európai Gazdasági Térségről szóló megállapodásban részes államot – jogszabály nem ír elő a társasági adónak megfelelő adókötelezettséget, vagy az előírt adómérték legfeljebb 10 százalék,”
+47. §
 
-(4) A Csődtv. 27/D. § (1) bekezdése helyébe a következő rendelkezés lép:
+48. §
 
-„(1) A felszámolók névjegyzékét vezető szerv a Hatóság, amely hatósági tevékenysége során minden más szervtől független, és a feladatkörébe tartozó hatósági ügyek tekintetében nem utasítható.”
+49. §
 
-(5) A Csődtv. 27/D. §-a a következő (1a) bekezdéssel egészül ki:
+50. §
 
-„(1a) A felszámolási elektronikus értékesítési rendszer, a csődeljárásban a vagyonfelügyelő, a felszámolási eljárásban a felszámoló és az ideiglenes vagyonfelügyelő elektronikus kiválasztás igénybevételével történő kirendelésére szolgáló elektronikus rendszer működtetője és üzemeltetője a Hatóság.”
+51. §
 
-(6) A Csődtv. 27/D. §-a a következő (14) bekezdéssel egészül ki:
+52. §
 
-„(14) A Hatóság felszámolói névjegyzékkel, valamint a felszámoló szervezetek más hatósági nyilvántartásaival kapcsolatos hatósági döntéseivel szembeni közigazgatási perek elbírálására a Fővárosi Törvényszék rendelkezik kizárólagos illetékességgel.”
-
-(7) A Csődtv. a következő 83/W. §-sal egészül ki:
-
-„83/W. § (1) E törvénynek a Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvénnyel (a továbbiakban: 2021. évi XXXII. törvény) megállapított rendelkezéseit – a (2) és (3) bekezdés szerinti kivétellel – e rendelkezések hatálybalépését követően kezdeményezett csődeljárásokban és felszámolási eljárásokban kell alkalmazni.
-
-(2) E törvénynek a 2021. évi XXXII. törvénnyel megállapított rendelkezéseit a már folyamatban lévő csődeljárásban, felszámolási eljárásban alkalmazni kell, ha e rendelkezések hatálybalépését követően kerül sor a 27/A. § (10a) bekezdése alapján másik vagyonfelügyelő vagy felszámoló kirendelésére.
-
-(3) E törvénynek a 2021. évi XXXII. törvénnyel beiktatott 27/D. § (14) bekezdését az e rendelkezés hatálybalépésekor folyamatban lévő csődeljárásokban és felszámolási eljárásokban alkalmazni kell.”
-
-(8) A Csődtv. a következő 85/A. §-sal egészül ki:
-
-„85/A. § Felhatalmazást kap a Hatóság elnöke, hogy rendeletben határozza meg
-
-a) a felszámolói névjegyzékbe való felvétel és az onnan való törlés részletes feltételeit és eljárásrendjét, a névjegyzék adatainak változásával összefüggő szabályokat, a felszámolók adatszolgáltatásának, szakmai beszámoltatásának, hatósági ellenőrzésének részletes szabályait, valamint azoknak a vagyoni biztosítékoknak a körét, mértékét és rendelkezésre bocsátásának módját, amelyekkel a felszámolónak rendelkeznie kell,
-
-b) a felszámolók névjegyzékébe nem került – de a 27/A. § (6a) bekezdésében foglaltak szerint a folyamatban lévő csődeljárásokban, felszámolási eljárásokban vagyonfelügyelőként, ideiglenes vagyonfelügyelőként, felszámolóként való közreműködésre jogosult – felszámoló tevékenységével, nyilvántartásával, szakmai beszámoltatásával, adatszolgáltatásával és hatósági ellenőrzésével összefüggő részletes szabályokat,
-
-c) a csődeljárásban a vagyonfelügyelő elektronikus kiválasztás igénybevételével történő kirendelésének, valamint az elektronikus kijelölést támogató számítógépes rendszer működésének, üzemeltetésének és ellenőrzésének szabályait,
-
-d) a felszámolót a zálogtárgy értékesítésekor és a követelésen alapuló zálogjog esetén a követelés behajtásából származó bevételből megillető díj elszámolásának szabályait,
-
-e) a felszámolási eljárásban a felszámoló és az ideiglenes vagyonfelügyelő elektronikus kiválasztás igénybevételével történő kirendelésének részletes szabályait, valamint az elektronikus kijelölést támogató számítógépes rendszer működésének, üzemeltetésének és ellenőrzésének szabályait,
-
-f) a felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyek kötelező szakmai továbbképzésének megszervezésére és teljesítésére vonatkozó részletes szabályokat.”
-
-(9) A Csődtv.
-
-- a) 12. § (1) bekezdésében a „bíróság” szövegrész helyébe a „Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság)”,
-- b) 24. § (1) bekezdésében a „kérelemben meg kell” szövegrész helyébe a „kérelemhez – ha ez rendelkezésre áll – csatolni kell az adós utoljára közzétett éves (egyszerűsített éves) beszámolóját, valamint a kérelemben meg kell”,
-- c) 24/A. § (1) bekezdésében a „hogy a bíróság” szövegrész helyébe a „hogy a bíróság a 27/A. § (1) bekezdésében foglaltak alkalmazásával”,
-- d) 27/A. § (4) bekezdés b) pont bk) alpontjában, 27/A. § (6a) és (7) bekezdésében, 27/C. § (1) bekezdésében, 27/C. § (6)–(9) bekezdésében, 27/D. § (5) és (7)–(12) bekezdésében, 83/B. § (4) bekezdésében a „felszámolók névjegyzékét vezető szerv” szövegrész helyébe a „Hatóság”,
-- e) 27/A. § (5a) és (7) bekezdésében és 27/C. § (6) bekezdés h) pontjában és 51. § (3) és (5) bekezdésében a „felszámolók névjegyzékét vezető szervnek” szövegrész helyébe a „Hatóságnak”,
-- f) 27/A. § (6) bekezdésében a „nyilvántartó szerv” szövegrész helyébe a „Hatóság”,
-- g) 27/A. § (6a) bekezdésében, 27/D. § (8)–(9) bekezdésében, 66. § (6a) bekezdésében a „felszámolók névjegyzékéről szóló kormányrendeletben” szövegrész helyébe a „Hatóság elnökének a felszámolók névjegyzékéről szóló rendeletében”,
-- h) 27/A. § (6b) bekezdésében a „felszámoló szervezet hatósági nyilvántartását vezető szerv” szövegrészek helyébe a „Hatóság”,
-- i) 27/A. § (6c) bekezdésében a „névjegyzéket vezető szervnek” szövegrész helyébe a „Hatóságnak”,
-- j) 27/A. § (8) bekezdésében az „új felszámoló kijelöléséről” szövegrész helyébe a „megkeresi a Hatóságot új felszámoló kijelölésére”,
-- k) 27/B. § (10) bekezdésében a „felszámolói névjegyzéket vezető szerv” szövegrészek helyébe a „Hatóság”,
-- l) 27/B. § (11)–(13) bekezdésében a „felszámolói névjegyzéket vezető szerv” szövegrész helyébe a „Hatóság”,
-- m) 27/B. § (11) bekezdésében a „felszámolói névjegyzéket vezető szervet” szövegrész helyébe a „Hatóságot”,
-- n) 27/B. § (13) bekezdésében, 27/C. § (2b) bekezdésében és (6) bekezdés c) pont cb) alpontjában a „felszámolók névjegyzékéről szóló kormányrendelet” szövegrész helyébe a „Hatóság elnökének a felszámolók névjegyzékéről szóló rendelete”,
-- o) 27/C. § (2) bekezdés b) pontjában a „kormányrendeletben” szövegrész helyébe a „Hatóság elnökének rendeletében”,
-- p) 27/C. § (2) bekezdés b) pontjában a „kormányrendelet” szövegrész helyébe a „Hatóság elnökének rendelete”,
-- q) 27/C. § (2) bekezdés f) pontjában a „névjegyzéket vezető szervezetet” szövegrész helyébe a „Hatóságot”,
-- r) 27/C. (2b) és (5a) bekezdésében, 27/D. § (2) bekezdésében a „felszámolók névjegyzékét vezető szerv” szövegrészek helyébe a „Hatóság”,
-- s) 27/C. § (5) bekezdésében a „nyilvántartó szerv” szövegrész helyébe a „Hatóság”,
-- t) 27/C. § (6) bekezdés g) pontjában a „pályázatot elbíráló szervnek” szövegrész helyébe a „Hatóságnak”,
-- u) 27/C. § (10) bekezdésében a „felszámolók névjegyzékéről szóló kormányrendeletnek” szövegrész helyébe a „Hatóság elnökének a felszámolók névjegyzékéről szóló rendeletének”,
-- v) 51/A. §-ában a „felszámolók névjegyzékét vezető, illetve a felszámoló szervezetet a 27/A. § (6a) bekezdése vagy a 66. § (6) bekezdése alapján nyilvántartó hatóságnak” szövegrész helyébe a „Hatóságnak”,
-- w) 65. § (3) bekezdés f) pontjában a „tartozó” szövegrész helyébe a „tartozik”,
-- x) 66. § (6) bekezdésében a „felszámolók névjegyzékét vezető közigazgatási szerv” szövegrészek helyébe a „Hatóság”, és
-- y) 69. § (8) bekezdésében az „egy munkanapon” szövegrész helyébe az „1 munkanapon”
-
-szöveg lép.
-
-(10) Hatályát veszti a Csődtv.
-
-- a) 66/A. §-ában a „legalább” szövegrész,
-- b) 67. § (3) bekezdésében az „és” szövegrész,
-- c) 84/A. § (1) bekezdés c) és e) pontja,
-- d) 84/A. § (1a) bekezdése,
-- e) 84/A. § (3) bekezdésében az „ , és kijelölheti az elektronikus értékesítési rendszer létrehozásáért, működtetésért felelős szervet” szövegrész,
-- f) 85. § (5) bekezdés b) pontja, és
-- g) 85. § (6) bekezdése.
-
-40. § (1) A bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 34/A. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az önálló bírósági végrehajtó az adóstól a behajtott követelésen felül, a végrehajtási költségekkel együtt hajtja be az általános költségátalányt, és azt befizeti, vagy átutalja a Kar hivatali szervének. Az általános költségátalányból a Hatóságot törvény alapján megillető összeget a Kar hivatali szerve utalja át a Hatóságnak. A költségátalány összegének elszámolása és kielégítése a 164. § szerint történik.”
-
-(2) A Vht. 231. §-a helyébe a következő rendelkezés lép:
-
-„231. § (1) A Hatóság elnöke
-
-a) részt vehet a Kar szerveinek ülésén,
-
-b) törvényben meghatározott feladatai ellátása érdekében tájékoztatást kérhet a Kar szerveitől és azok tisztségviselőitől,
-
-c) törvényben meghatározott feladatai ellátása érdekében megismerheti a Kar és szervei által kezelt valamennyi adatot,
-
-d) törvényben meghatározott feladatai ellátása érdekében megtekintheti a Kar és szervei bármely iratát,
-
-e) beléphet a Kar és szervei által használt bármely helyiségbe,
-
-f) felügyeli a Kar ügyintézési és ügyviteli tevékenységét,
-
-g) elrendelheti a Kar gazdálkodásának és informatikai rendszereinek vizsgálatát, és
-
-h) rendkívüli közgyűlést hívhat össze.
-
-(2) A Hatóság elnöke
-
-a) tájékoztatást nyújt a sajtó, a rádió és a televízió részére a végrehajtási ügyekről és a Kar ügyeiről,
-
-b) elrendelheti a végrehajtó összeférhetetlenségének ellenőrzését,
-
-c) elrendelheti a 226/A. §-ban foglaltak betartásának ellenőrzését,
-
-d) iránymutatás kiadását kezdeményezheti, és
-
-e) jóváhagyja az ugyanazon járásbíróság mellett működő végrehajtók esetében a végrehajtási ügyek elosztásának rendjét, és az ügyek elosztásának rendje év közbeni megváltoztatását.”
-
-(3) A Vht. 233. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-(Nem nevezhető ki végrehajtóvá az,)
-
-„e) akit a végrehajtói fegyelmi bíróság jogerős határozattal hivatalvesztés fegyelmi büntetéssel sújtott vagy akinek a végrehajtói szolgálatát 2021. október 1. napját megelőzően a miniszter, 2021. október 1. napját követően a Hatóság elnöke a 239. § (4a) bekezdése alapján szüntette meg, a fegyelmi bíróság határozata jogerőre emelkedésétől vagy a miniszter, illetve a Hatóság elnöke határozata véglegessé válásától számított 10 évig,”
-
-(4) A Vht. 253/C. § (2) bekezdése helyébe a következő rendelkezés lép, és a Vht. 253/C. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2) A meghozatalától számított 15 napon belül jóváhagyás céljából be kell mutatni
-
-a) a szervezeti és működési szabályzatot a Hatóság elnökének,
-
-b) a Hatóság elnökének rendeletalkotási felhatalmazásába tartozó szabályozási tárgykört érintő iránymutatást a Hatóság elnökének,
-
-c) a Kormány vagy a miniszter rendeletalkotási felhatalmazásába tartozó szabályozási tárgykört érintő iránymutatást a miniszternek.
-
-(2a) A (2) bekezdésben foglaltak szerint a Hatóság elnöke, illetve a miniszter a szervezeti és működési szabályzat, illetve az iránymutatás megküldésétől számított 30 napon belül kifogással élhet a szervezeti és működési szabályzat, illetve iránymutatás azon rendelkezésével szemben, amely – elfogadása esetén – a 253/D. § alapján törvényességi felügyeleti intézkedést indokolna.”
-
-(5) A Vht. 253/D. §-a helyébe a következő rendelkezés lép:
-
-„253/D. § (1) A Hatóság elnöke, valamint a 253/C. § (2) bekezdés c) pontjában és (2a) bekezdésében foglaltak szerint a miniszter törvényességi felügyeletet gyakorol a Kar működése felett. A törvényességi felügyelet nem terjed ki olyan ügyre, amelyben bírósági eljárásnak van helye.
-
-(2) Ha a szervezeti és működési szabályzat vagy az iránymutatás jogszabályba, illetőleg ha a Kar szerveinek határozata jogszabályba vagy a szervezeti és működési szabályzat valamely rendelkezésébe ütközik, a Hatóság elnöke, illetve a miniszter a törvényességi felügyeleti jogkörében – határidő kitűzésével – felhívja a Kart a jogszabálysértés megszüntetésére.
-
-(3) A Kar köteles a megadott határidőn belül a felhívásnak megfelelően a szervezeti és működési szabályzatot, iránymutatást, illetve egyéb határozatot módosítani, vagy egyet nem értéséről a Hatóság elnökét, illetve a minisztert tájékoztatni.
-
-(4) Ha a Kar a megadott határidőn belül nem intézkedett a jogszabálysértés megszüntetése iránt, a Hatóság elnöke, illetve a miniszter köztestületi felügyeleti pert indíthat.”
-
-(6) A Vht. 307. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
-
-„(1a) Felhatalmazást kap a Hatóság elnöke, hogy rendeletben állapítsa meg
-
-a) az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának ellenőrzésére irányuló vizsgálatok lefolytatására vonatkozó részletes szabályokat,
-
-b) a végrehajtó kölcsönös áthelyezése, felmentése, továbbá szolgálata folyamatossága és megszűnése megállapítása, valamint a végrehajtói kinevezés érvénytelenségének megállapítása részletes eljárási szabályait,
-
-c) a végrehajtók működésének folyamatosságához szükséges átmeneti intézkedéseket,
-
-d) az önálló bírósági végrehajtói állások számát, e végrehajtók székhelyét és az azonos illetékességi területen működő végrehajtók között a végrehajtási ügyek elosztásának rendjét,
-
-e) a végrehajtói állások betöltésének és a végrehajtói pályázati eljárásnak a részletes szabályait, és a végrehajtói kinevezéshez készített pályázati rangsor kialakítása során figyelembe vehető szempontokat és azokhoz rendelhető pontszámokat,
-
-f) a végrehajtók, végrehajtó-helyettesek, végrehajtójelöltek igazolványára és nyilvántartására, a Kar által vezetett nyilvántartások, névjegyzékek vezetésére, a Kar igazgatási jellegű feladatainak ellátására és panaszügyintézésére, továbbá a végrehajtási ügyekről vezetett nyilvántartás adatairól szóló tanúsítvány kiállításért járó költségtérítés összegére és megfizetésére vonatkozó részletes szabályokat,
-
-g) a fegyelmi eljárásban közreműködő személyek részére járó költségtérítésről szóló szabályokat,
-
-h) a végrehajtó tevékenységével okozott kárért járó kártérítés, illetve személyiségi jogsértésért járó sérelemdíj fedezésére szolgáló biztosíték összegének kezelésére vonatkozó részletes szabályokat,
-
-i) a 253/I. § szerinti IVR bevezetésének időpontját és ütemezését, a létrehozására, működésére és felhasználására vonatkozó részletszabályokat, a működtetéséhez szükséges, a Kar által megalkotandó szabályzatok körét, továbbá a végrehajtók által a hatálybalépést megelőzően alkalmazott informatikai rendszer adatállományának az IVR-ben történő rögzítésének részletes szabályait azon, még érdemben befejezetlen végrehajtási ügyek tekintetében, amelyek az IVR bevezetését megelőzően kerültek kiosztásra, illetőleg érkeztek a végrehajtóhoz foganatosítás céljából,
-
-j) a végrehajtói díjszabást és a végrehajtás során befolyt összegeknek a végrehajtási költségekre történő elszámolásának részletes szabályait,
-
-k) az árverezők elektronikus nyilvántartásába történő bejegyzés díját, a közös tulajdonban lévő ingatlan árverése esetén a tulajdonostárs tulajdoni hányadának értékesítéséért felszámítható díjat, az önálló bírósági végrehajtó által a felvilágosításra jogosult részére kiadott másolatért felszámítható költségtérítést, valamint ezek megfizetésének módját,
-
-l) az általános költségátalány megfizetéséről szóló szabályokat,
-
-m) az elektronikus árverési rendszer és a kézbesítési rendszer informatikai alkalmazásának működtetésére, biztonsági követelményeire és felhasználói szabályzatának kötelező tartalmi elemeire vonatkozó részletes szabályokat,
-
-n) a panaszügyek intézésére irányuló eljárások lefolytatására, és a fegyelmi eljárások nyilvántartására vonatkozó részletes szabályokat.
-
-(1b) Az (1a) bekezdés a), d), i), j), l) és m) pontjában meghatározott rendeletet a Hatóság elnöke a miniszter véleményének kikérését követően adja ki.”
-
-(7) A Vht. 307. § (2) bekezdés h) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a miniszter, hogy rendelettel állapítsa meg)
-
-„h) az adópolitikáért felelős miniszterrel egyetértésben a végrehajtási eljárásban közreműködő jogi képviselő díjazását,”
-
-(8) A Vht. 307. § (2) bekezdés n) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a miniszter, hogy rendelettel állapítsa meg)
-
-„n) az adópolitikáért felelős miniszterrel egyetértésben a végrehajtási kifogás előterjesztésével egyidejűleg letétbe helyezendő szakértői díj előlegének összegét, valamint megfizetésének módját,”
-
-(9) A Vht.
-
-- a) 34/A. § (1) bekezdésében „az igazságügyért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztériumot (a továbbiakban: minisztérium) az önálló bírósági végrehajtói szervezetrendszer feletti felügyelet gyakorlásával kapcsolatos feladatai, továbbá a miniszter feladat- és hatáskörébe utalt egyéb közfeladatok” szövegrész helyébe „a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság) az önálló bírósági végrehajtói szervezetrendszer feletti felügyelet gyakorlásával kapcsolatos feladatai, továbbá a feladat- és hatáskörébe utalt egyéb közfeladatok”,
-- b) 103. § (6) bekezdésében az „a miniszternek” szövegrész helyébe az „az igazságügyért felelős miniszternek (a továbbiakban: miniszter)”,
-- c) 230. § (1)–(1a) bekezdésében a „miniszter” szövegrész helyébe a „Hatóság”,
-- d) 230. § (6) bekezdésében, 239. § (5) bekezdésében, 239/A. § (2) és (2a) bekezdésében, 239/B. § (3) bekezdésében, 250. § (2) bekezdés 2. és 6. pontjában, 281. § (1) bekezdésében, 293. § (3) bekezdésében a „minisztert” szövegrész helyébe a „Hatóság elnökét”,
-- e) 230/A. § (6) bekezdésében, 250. § (6) bekezdésében a „minisztérium” szövegrész helyébe a „Hatóság”,
-- f) 232. § (1) bekezdésében, 234. §-ában, 234/A. § (1) bekezdésében, 235. § (2) és (3) bekezdésében, 239. § (2)–(4a) bekezdésében és (6) bekezdésében, 239/A. § (3) és (4) bekezdésében, 240/C. § (1) bekezdésében, 250. § (2) bekezdés 22. pontjában, 278. § (1) bekezdésében, 292. § (3) és (5) bekezdésében, 294. § (1) bekezdésében, 298. § (1) és (2) bekezdésében, 306/I. §-ában, 306/L. § (6) bekezdésében a „miniszter” szövegrész helyébe a „Hatóság elnöke”,
-- g) 253. § (3) és (9) bekezdésében a „miniszter” szövegrészek helyébe a „Hatóság elnöke”,
-- h) 239. § (2) bekezdésében a „miniszterhez” szövegrész helyébe a „Hatóság elnökéhez”,
-- i) 239. § (5) bekezdésében, 253. § (4) bekezdés g) pontjában, 279. § (5) bekezdésében, 279/A. § (2) bekezdésében, 283. § (3) és (4) bekezdésében, 285. § (5) bekezdésében, 287. § (1) bekezdésében, 292. § (1a) bekezdésében, 292. § (5) bekezdésében, 296. § (1) bekezdésében, 298. § (3) bekezdésében a „miniszternek” szövegrész helyébe a „Hatóság elnökének”, és
-- j) 252. § (1) bekezdésében a „miniszteri biztos” szövegrész helyébe a „Hatóság elnöke”
-
-szöveg lép.
-
-(10) Hatályát veszti a Vht.
-
-- a) 307. § (1) bekezdés c) és d) pontja,
-- b) 307. § (2) bekezdés a)–d), j), k), m), o), q) és r) pontja.
-
-41. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. § i) pontja a következő ix) alponttal egészül ki:
-
-(E törvény alkalmazásában
-
-nemzetbiztonsági ellenőrzés alá eső személy:)
-
-„ix) a Szabályozott Tevékenységek Felügyeleti Hatósága foglalkoztatottja.”
-
-42. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 121. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A vagyonrendezési eljárás lefolytatását elrendelő, a Cégközlönyben közzétett végzésben a bíróság – az eljárás tárgyát képező vagyontárgy megjelölésével vagyonrendezőt rendel ki a felszámolók névjegyzékében szereplő felszámolók közül, a Cstv. 27/A. § (1) bekezdésében foglaltak alkalmazásával. A vagyonrendezőre vonatkozóan a Cstv.-ben a felszámoló szervezetre, illetve a felszámolóbiztosra irányadó összeférhetetlenségi szabályokat alkalmazni kell.”
-
-43. § A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény
-
-- a) 5. § (1) bekezdésében és 21. § (3)–(4) bekezdésében a „szerencsejáték-felügyeleti hatóság” szövegrész helyébe a „Szabályozott Tevékenységek Felügyeleti Hatósága” szöveg,
-- b) 24. § (2) bekezdésében a „Szerencsejáték Felügyelet” szövegrész helyébe „Szabályozott Tevékenységek Felügyeleti Hatósága” szöveg
-
-lép.
-
-44. § A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Önálló szabályozó szerv
-
-a) a Nemzeti Média- és Hírközlési Hatóság,
-
-b) a Magyar Energetikai és Közmű-szabályozási Hivatal és
-
-c) a Szabályozott Tevékenységek Felügyeleti Hatósága.”
-
-45. § A sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény 20. § (7) bekezdésében a „szerencsejáték-felügyeleti hatóság” szövegrész helyébe a „Szabályozott Tevékenységek Felügyeleti Hatóságának” szöveg lép.
-
-46. § A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 27. § (1) bekezdés c) pontjában és 30. § (4) bekezdés e) pontjában a „szerencsejáték-felügyeleti hatóság” szövegrész helyébe a „Szabályozott Tevékenységek Felügyeleti Hatóságának” szöveg lép.
-
-47. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 29. § (3) bekezdésében az „és a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke rendeletben” szövegrész helyébe az „ , a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke és a Szabályozott Tevékenységek Felügyeleti Hatósága elnöke rendeletben” szöveg lép.
-
-48. § (1) Az Fdtv. 4. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) A kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv
-
-a) előkészíti a dohánytermék-kiskereskedelmi jogosultság átengedéséről szóló pályázatok kiírását, elbírálását, a koncessziós szerződések megkötését (módosítását, megszüntetését),
-
-b) ellátja a koncessziós szerződésekből eredő számlázási feladatokat, és
-
-c) ellátja a koncessziós szerződésekkel összefüggő követeléskezelési feladatokat, ide nem értve az azonnali beszedési megbízást.
-
-(3) A Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság)
-
-a) előmozdítja a dohánytermék-kiskereskedelem szervezett működését, szakmai állásfoglalásokat bocsát ki,
-
-b) ellenőrzi a dohánytermék-kiskereskedőkkel, valamint a dohány-kiskereskedelmi ellátóval megkötött koncessziós szerződések szerinti koncesszióköteles tevékenység gyakorlását; közreműködik a koncessziós szerződésekből eredő jogok és vállalt kötelezettségek érvényesítésében,
-
-c) ellátja a dohánytermék-kiskereskedelem engedélyezésével, a dohánytermék-kiskereskedelmi tevékenység végzésére jogosító engedéllyel rendelkező személyek közhiteles nyilvántartásával kapcsolatos feladatokat,
-
-d) ellátja a dohánytermék-kiskereskedelem hatósági felügyeletével és a fiatalkorúak különös védelmével kapcsolatos rendelkezések végrehajtásának ellenőrzésével kapcsolatos feladatokat,
-
-e) gyakorolja a dohánytermék-kiskereskedelem és a dohány-kiskereskedelmi ellátási jogosultság átengedéséről szóló pályázat kiírásához, elbírálásához, továbbá a dohánytermék-kiskereskedelmi, dohány-kiskereskedelmi ellátási tevékenység gyakorlására jogosító koncessziós szerződés megkötéséhez, módosításához, megszüntetéséhez előzetes hozzájárulási megadásához kapcsolódó jogkört,
-
-f) végzi a dohánytermék-nagykereskedőknek a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvény szerinti hatósági ellenőrzésével, felügyeletével kapcsolatos feladatokat,
-
-g) a dohánytermék-kiskereskedők részére országos szakmai képzési rendszert működtet és oktatási feladatokat lát el,
-
-h) létrehozza és folyamatosan működteti a dohányipari ágazati konzultációs fórumot,
-
-i) a dohánytermék-nagykereskedők, a dohánytermék-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó közötti vitás kérdések rendezésére vonatkozóan mediációs tevékenységet lát el,
-
-j) jogszabályban meghatározottak szerint fogadja a dohányboltban forgalmazható termékek regisztrációs adatait, és ezeket a dohány-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó részére publikálja; készletnyilvántartó minősítési rendszert működtet, a dohánytermék-kiskereskedők készlet- és forgalmi adatait kezeli, feldolgozza,
-
-k) a Jöt. alapján a dohánytermékek árainak közzététele érdekében jogszabályban meghatározottak szerint a szolgáltatott árbejelentéseket rendszerezi, feldolgozza és továbbítja, és
-
-l) a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személyek kötelezettségeit ellenőrzi.”
-
-(2) Az Fdtv. 10. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A (3)–(5) bekezdéstől eltérően a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv is meghatározhatja az új pályázat kiírásának legkorábbi napját akkor, ha az adott településen a dohánytermék-kiskereskedelmi jogosultság gyakorlására nyilvánvalóan nincs érdeklődő. A kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv az érdeklődés felméréséről legalább évente – a település önkormányzata vagy jegyzője részére – megküldött megkeresés útján, valamint a honlapján folyamatosan fenntartott felhívással gondoskodik.”
-
-(3) Az Fdtv. 13. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A dohánytermék-kiskereskedelmi tevékenység folytatásához a Hatóság engedélye szükséges.”
-
-(4) Az Fdtv. 13. § (5) bekezdése a következő d) ponttal egészül ki:
-
-(Nem adható meg az engedély, ha)
-
-„d) a Hatóság a kérelem benyújtását megelőző 5 éven belül a kérelmezővel szemben a 22. §-ban foglaltak szerint véglegesen 1 millió forintot meghaladó bírságot, vagy 200 ezer – magánszemély esetén 100 ezer – forintot meghaladó mértékű eljárási bírságot szabott ki.”
-
-(5) Az Fdtv. 13. § (10) és (11) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(10) A (8) bekezdés alkalmazása során a tevékenység folytatására vonatkozó igényt az örökhagyó halálát követő 90 napon belül be kell jelenteni a Hatósághoz, valamint a 8. § (1) bekezdésében meghatározott személyhez, amely esetben a koncessziós szerződés hatálya fennmarad azzal, hogy ha az örökhagyó halálától számított két éven belül a hagyaték átszállását igazoló jogerős közokiratot az örökös nem nyújtja be, vagy e közokiratból a kérelmező öröklési jogosultsága nem derül ki, a koncessziós szerződés hatálya megszűnik. Ha az örökös kérelme az e bekezdésben foglaltaknak megfelel, a Hatóság az örökhagyó részére kibocsátott engedélyt módosítja, feljogosítva a kérelmezőt a dohánytermék-kiskereskedelmi jogosultság további gyakorlására, ellenkező esetben a Hatóság az engedélyt visszavonja.
-
-(11) Az egyéni vállalkozó a 8. § (1) bekezdésében meghatározott személynél kezdeményezheti a koncessziós szerződés módosítását, ha a tevékenységét a továbbiakban az (1) bekezdés b) pontja szerinti formában kívánja folytatni, és a tevékenység ekként történő folytatása a jogszabályban foglalt feltételeknek megfelel. Ebben az esetben az egyéni vállalkozói jogviszony megszüntetése és az (1) bekezdés b) pontja szerinti jogviszony létrehozása, továbbá a tevékenység megszüntetésével és új formában történő folytatásával kapcsolatos elszámolás rendezése céljából a jogosult a dohánytermék-kiskereskedelmi tevékenységét legfeljebb három hónapos időtartamra szüneteltetheti azt követően, hogy ezen igényét a 8. § (1) bekezdésében meghatározott személy felé bejelentette, és igénye elfogadásáról a 8. § (1) bekezdésében meghatározott személy a kérelmezőt tájékoztatta.”
-
-(6) Az Fdtv. 19. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Hatóság a dohánytermék-kiskereskedelmi tevékenység folytatásának engedélyezése iránti kérelem elbírálásáról, a kérelemnek a Hatósághoz történt beérkezésétől számított 30 napon belül dönt. A dohánytermék-kiskereskedelmi tevékenység engedélyezési kérelem elbírálása során sommás eljárásnak nincs helye. A határozott időtartamra szóló engedély lejárati időpontja előtt ugyanarra a tevékenységre vonatkozó új engedélykérelem legkorábban az engedély lejárata előtt 100 nappal nyújtható be.”
-
-(7) Az Fdtv. 26. §-a helyébe a következő rendelkezés lép:
-
-„26. § Felhatalmazást kap a Hatóság elnöke, hogy
-
-a) a dohánytermék-kiskereskedőkkel, a dohány-kiskereskedelmi ellátóval megkötött koncessziós szerződések szerinti koncesszióköteles tevékenység gyakorlásának ellenőrzésére,
-
-b) a dohánytermék-kiskereskedelemi jogosultság gyakorlására külön feljogosított személyek kötelezettségeinek ellenőrzésére,
-
-c) a dohánytermék-kiskereskedelem engedélyezésével, a dohánytermék-kiskereskedelmi tevékenység végzésére jogsító engedéllyel rendelkező személyek közhiteles nyilvántartására,
-
-d) a dohánytermék-kiskereskedelem hatósági felügyeletére és a fiatalkorúak különös védelmével kapcsolatos rendelkezések végrehajtásának ellenőrzésére, és
-
-e) a dohánytermék-nagykereskedő e törvény szerinti kötelezettségeinek ellenőrzésére
-
-vonatkozó részletes szabályokat rendeletben megállapítsa.”
-
-(8) Az Fdtv.
-
-- a) 10. § (1) bekezdésében a „részvénytársaság vagy a részvénytársaság által” szövegrész helyébe a „kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv által”,
-- b) 10. § (4) bekezdésében a „részvénytársaság által” szövegrész helyébe a „kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv által”,
-- c) 10/B. § (5) bekezdésében a „részvénytársaság” szövegrészek helyébe a „kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv”,
-- d) II. Fejezet 5. cím címében, 10/C. §-ában, valamint a 13. § (4a) bekezdésében a „részvénytársaság” szövegrész helyébe a „Hatóság”,
-- e) 13. § (3) bekezdésében, 23. § (1) és (2) bekezdésében, valamint 23/A. §-ában a „vámhatóság” szövegrészek helyébe a „Hatóság”,
-- f) 13. § (7) bekezdésében a „vámhatóságot” szövegrész helyébe a „Hatóságot”,
-- g) 13. § (14) bekezdésében a „részvénytársaságra, vagy az általa” szövegrész helyébe a „kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv által”,
-- h) 14/A. § (1) és (3) bekezdésében, 17. § (1) bekezdésében, 18. § (1) bekezdésében, 19. § (2) bekezdésében, 21. § (1) bekezdésében, 22. § (1) bekezdésében, 22. § (3) bekezdésében és 23. § (3) bekezdésében a „vámhatóság” szövegrész helyébe a „Hatóság”,
-- i) 16. § (7) bekezdésében és 23. § (2) bekezdés a) pontjában a „fogyasztóvédelmi hatóság” szövegrész helyébe a „Hatóság”,
-- j) 16/B. §-ában „az e törvény alapján jogosult részvénytársaságra, valamint az általa” szövegrész helyébe „a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv által”,
-- k) 22. § (2) bekezdésében, 24/A. § (13) bekezdésében és 24/B. § (2) bekezdésében a „részvénytársaság” szövegrész helyébe a „kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv”,
-- l) 23. § (1) bekezdés b) és c) pontjában, valamint a 23. § (2) bekezdés b) pontjában a „vámhatóság vagy a fogyasztóvédelmi hatóság” szövegrész helyébe a „Hatóság”, és
-- m) 23. § (1) bekezdés b) és c) pontjában, valamint 23. § (2) bekezdés a) és b) pontjában az „a hatóság” szövegrész helyébe az „a Hatóság”
-
-szöveg lép.
-
-(9) Hatályát veszti az Fdtv.
-
-- a) 4. § (4) bekezdése,
-- b) 7. § (2) bekezdésében a „ , vagy a részvénytársaság honlapján” szövegrész,
-- c) 10/B. § (1) bekezdésében „a részvénytársaság közreműködésével” szövegrész,
-- d) 10/B. § (4) bekezdése,
-- e) 17. § (1) bekezdésében „– a (2) bekezdésben foglalt kivétellel –” szövegrész.
-- f) 17. § (3) bekezdése,
-- g) 18. § (1) bekezdésében az „adózás” szövegrész,
-- h) 18. § (2) és (3) bekezdése,
-- i) 20. §-a, és
-- j) 22. § (5) bekezdése.
-
-49. § Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény 60. § (2) bekezdése a következő r) ponttal egészül ki:
-
-[Az (1) bekezdés b) pontjában foglaltak alapján a fizetési titok megtartásának kötelezettsége nem áll fenn]
-
-„r) a feladatkörében eljáró Szabályozott Tevékenységek Felügyeleti Hatóságával”
-
-(szemben e szerveknek a pénzforgalmi intézményhez, elektronikuspénz-kibocsátó intézményhez intézett írásbeli megkeresése esetén.)
-
-50. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 161. § (2) bekezdése a következő t) ponttal egészül ki:
-
-[Az (1) bekezdés b) pontjában foglaltak alapján a banktitok megtartásának kötelezettsége nem áll fenn]
-
-„t) a feladatkörében eljáró Szabályozott Tevékenységek Felügyeleti Hatóságával”
-
-(szemben e szerveknek a pénzügyi intézményhez intézett írásbeli megkeresése esetén.)
-
-51. § (1) A Pvkit. 17. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Felhatalmazást kap a Szabályozott Tevékenységek Felügyeleti Hatóságának elnöke, hogy rendeletben állapítsa meg a pénzmosás és terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 1. § (1) bekezdés i) pontjában meghatározott szolgáltatók számára kiadandó e törvény szerinti szűrőrendszer kidolgozására és működtetésének minimumkövetelményeire vonatkozó részletszabályokat.”
-
-(2) A Pvkit. 17. § (2) bekezdésében az „f) és h-k)” szövegrész helyébe az „f), h), j) és k)” szöveg lép.
-
-52. § (1) A Pmt. 77. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Felhatalmazást kap a Szabályozott Tevékenységek Felügyeleti Hatóságának elnöke, hogy rendeletben állapítsa meg az 1. § (1) bekezdés i) pontjában meghatározott szolgáltatók tekintetében
-
-a) a belső kockázatértékelés elkészítésének szabályrendszerére,
-
-b) a belső ellenőrző és információs rendszer működtetésére,
-
-c) az egyszerűsített és a fokozott ügyfél-átvilágítás esetköreire és azok felügyeleti jóváhagyásának szabályaira,
-
-d) az auditált elektronikus hírközlő eszköz és működtetésének minimumkövetelményeire, auditálásának módjára, valamint az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtására,
-
-e) a megerősített eljárás esetköreire és feltételrendszerére,
-
-f) a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez vezetői döntést igénylő esetek meghatározására,
-
-g) a képzési programra,
-
-h) az ügylet felfüggesztésére
-
-vonatkozó részletszabályokat.”
-
-(2) A Pmt.
-
-- a) 5. § b) pontjában a „szerencsejáték felügyeleti hatóság” szövegrész helyébe a „Szabályozott Tevékenységek Felügyeleti Hatósága” szöveg,
-- b) 66. § (3) bekezdésében „a közigazgatási hatósági eljárásról szóló és a szerencsejáték szervezéséről szóló törvény” szövegrész helyébe „az általános közigazgatási rendtartásról szóló törvény, a Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló törvény és a szerencsejáték szervezéséről szóló törvény” szöveg, és
-- c) 77. § (2) bekezdésében az „f), h-k) és n-r)” szövegrész helyébe az „f), h), j), k) és n)–r)” szöveg
-
-lép.
-
-53. § (1) A Küt. 2. § (1) bekezdése a következő k) ponttal egészül ki:
-
-(E törvény alkalmazásában különleges jogállású szerv)
-
-„k) a Szabályozott Tevékenységek Felügyeleti Hatósága,”
-
-(2) A Küt. 98. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Szabályozott Tevékenységek Felügyeleti Hatósága, a Gazdasági Versenyhivatal és a Közbeszerzési Hatóság köztisztviselőjének közszolgálati jogviszonya a különleges jogállású szerv mint munkáltató és a köztisztviselő mint foglalkoztatott között közszolgálati munkaszerződéssel jön létre.”
+53. §
