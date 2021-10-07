@@ -2366,7 +2366,8 @@ kapcsolatos részletes szabályokat a sportpolitikáért felelős miniszter egye
 | 15. | Budapest, 4465 (14000/68063 tulajdoni hányad arányában) | Magyar Testgyakorlók Köre (székhely: Budapest 1087, Salgótarjáni út 12–14.) |
 | 16. | Budapest, 38820/3 | Magyar Testgyakorlók Köre (székhely: Budapest 1087, Salgótarjáni út 12–14.) |
 | 17. | Budapest, 38831 | Magyar Testgyakorlók Köre (székhely: Budapest 1087, Salgótarjáni út 12–14.) |
-| 18. | Budapest, 26085/1123 | Vasas Sport Club (székhely: Budapest 1139, Fáy utca 58.) |
+| 18. | Budapest, 26085/1123 (33261/125049 tulajdoni hányad arányában) | Vasas Sport Club (székhely: Budapest 1139, Fáy utca 58.) |
+| 18a. | Budapest, 26085/1123 (91788/125049 tulajdoni hányad arányában) | Vasas Futball Club Kft. (székhely: Budapest 1139, Fáy utca 58., Cg.01-09-717962) |
 | 19. | Budapest, 76561/221 | Vasas Sport Club (székhely: Budapest 1139, Fáy utca 58.) |
 | 20. | Budapest, 29834/8 (7953/10944 tulajdoni hányad arányában) | Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
 | 21. | Budapest, 29834/12 | Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
