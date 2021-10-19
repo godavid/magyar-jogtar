@@ -316,12 +316,11 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 
 (5) A közlekedési igazgatási hatóság a közlekedési igazgatási eljárás során informatikai adatkapcsolat útján közvetlen bekérdezéssel jogosult megismerni az alvázszámmal azonosított jármű eredetiségvizsgálata során megállapított minősítést és annak időpontját.
 
-9/C. § (1) Az útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában is a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartása tartalmazza
+9/C. § (1) Az útdíjköteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában is a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartása tartalmazza
 
 - a) a jármű felségjelzéssel ellátott forgalmi rendszámát,
-- b)
-- c) a díjmentes használat vagy közútkezelői hozzájárulás beszerzése alóli mentesség jogcímének megjelölését, továbbá
-- d) a díjmentes használati, illetve közútkezelői hozzájárulás nélküli közlekedési jogosultság kezdőidőpontját és annak időtartamát.
+- b) a díjmentes használat vagy közútkezelői hozzájárulás beszerzése alóli mentesség jogcímének megjelölését, továbbá
+- c) a díjmentes használati, illetve közútkezelői hozzájárulás nélküli közlekedési jogosultság kezdő időpontját és annak időtartamát.
 
 (2) A nyilvántartó és a közlekedési igazgatási hatóság az útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára való, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel történő közlekedési jogosultság ellenőrzése céljából a nyilvántartásba vételt megelőzően az érintett jármű rendszámadatát összeveti a járműnyilvántartás 9. § (1) bekezdése, vagy ideiglenes rendszámtáblák esetén a 9/D. § szerinti adatokkal.
 
@@ -547,6 +546,7 @@ kezeli.
 
 - a) a külpolitikáért felelős miniszter által vezetett minisztérium konzuli szolgálata az érintett személy által közölt és a nyilvántartásban szereplő adatok egyezőségéről, továbbá az érintett személy kezdeményezésére vezetői engedélye külföldön történő cseréjének elősegítése érdekében, a 8. § (1) bekezdés a) pont aa), ae), ah), ai) alpontjában és b) pontjában meghatározott adatok tekintetében,
 - b) az Európai Gazdasági Térségről szóló megállapodásban részes állam vezetői engedély kiadására, lecserélésére, pótlására, megújítására vagy visszavonására hatáskörrel rendelkező hatósága az erre irányuló eljárásához a 8. § (1) bekezdés a) pont aa), ae), ah), ai) alpontjában és b) pontjában meghatározott adatok tekintetében.
+- c) az Európai Gazdasági Térségről szóló megállapodásban részes állam járművek ismételt nyilvántartásba vételére hatáskörrel rendelkező hatósága az erre irányuló eljárásához a 9. § (2) bekezdés a), b), d), e), g) meghatározott adatok tekintetében.
 
 (4) A szerencsejáték szervezéséről szóló törvény szerinti szervező adatszolgáltatást igényelhet a természetes személy személyazonosságának igazoló ellenőrzése céljából a természetes személy által megadott, a szerencsejáték szervezéséről szóló törvényben meghatározott adatok nyilvántartási adatokkal való egyezőségéről és a vezetői engedély érvényességének tényéről.
 
@@ -707,6 +707,20 @@ továbbítására jogosult.
 - b) a természetes vagy jogi személy azonosító adatai, vagy héa azonosító száma, és az időpont megadásával elrendelt adatlekérdezése esetén az Európai Gépjármű és Vezetői Engedély Információs Rendszer (EUCARIS) szoftveralkalmazásának igénybevételével, közvetlen hozzáférés útján történő automatizált keresést biztosít az Európai Unió más tagállama nemzeti gépjármű-nyilvántartási adatállományában.
 
 (3) A (2) bekezdés szerinti hozzáférés a Rendeletben meghatározott Eurofisc-kapcsolattartó révén jön létre, aki az említett információkhoz való hozzáférést lehetővé tevő elektronikus rendszerben személyes felhasználói azonosítóval rendelkezik.
+
+### Automatizált keresés az (EU) 2019/520 irányelv alapján
+
+27/F. § (1) A nyilvántartó mint nemzeti kapcsolattartó pont az (EU) 2019/520 európai parlamenti és tanácsi irányelve végrehajtásában közreműködő európai uniós tagállami nemzeti kapcsolattartó pont részére elektronikus úton történő automatizált hozzáférést biztosít a jármű teljes forgalmi rendszámát, az útdíjfizetés elmulasztásával kapcsolatos adatokat, és a keresett időpontot tartalmazó adatigénylés alapján, a megadott jármű vonatkozásában a 9. § (1) bekezdés a), b) és d) pontjában, valamint a 9. § (2) bekezdés a) és b) pontjában meghatározott adatokhoz.
+
+(2) A nyilvántartó az útdíj-, úthasználatidíj-fizetés elmulasztásának megállapítása esetén, az annak ellenőrzésére jogszabályban felhatalmazott szervezetek és hatóságok részére, a jármű teljes forgalmi rendszáma, az útdíjfizetés elmulasztásával kapcsolatos adatok, továbbá a keresett időpont megadásával elrendelt adatlekérdezése alapján az Európai Gépjármű és Vezetői Engedély Információs Rendszer (EUCARIS) szoftveralkalmazásának igénybevételével, biztonságos informatikai kapcsolat útján, közvetlen automatizált keresést biztosít az Európai Unió más tagállama nemzeti gépjármű-nyilvántartási adatállományában.
+
+### Automatizált keresés az 1999/37/EK irányelv alapján
+
+27/G. § (1) A nyilvántartó mint nemzeti kapcsolattartó pont az 1999/37/EK tanácsi irányelv végrehajtásában közreműködő európai uniós tagállam nemzeti kapcsolattartó pontja részére, a gépjármű teljes forgalmi rendszámát, vagy alvázszámát, vagy forgalmi engedélyének számát tartalmazó adatigénylése alapján a 9. § (2) bekezdés a), b), d), e) és g) pontjában meghatározott adatokhoz elektronikus úton történő automatizált hozzáférést biztosít.
+
+(2) A nyilvántartó a járművek ismételt nyilvántartásba vételével összefüggő eljárásokban a jármű jogi helyzetének tisztázása érdekében az Európai Gépjármű és Vezetői Engedély Információs Rendszer (EUCARIS) szoftveralkalmazásának igénybevételével, közvetlen hozzáférés útján történő automatizált keresést végez a gépjármű nyilvántartásba vétele szerinti, az Irányelv végrehajtásában közreműködő és az EUCARIS szoftveralkalmazást használó más európai uniós tagállam gépjármű-nyilvántartási adatállományában.
+
+(3) A nyilvántartó, a jármű jogi helyzetének tisztázása céljából, a járművek ismételt nyilvántartásba vételével összefüggő eljárásokban eljáró más hatóságok és szervek részére közvetlen hozzáférés útján történő automatizált keresést biztosít az Európai Gépjármű és Vezetői Engedély Információs Rendszer (EUCARIS) szoftveralkalmazásának igénybevételével, a gépjármű nyilvántartásba vétele szerinti, az Irányelvet átültető és az EUCARIS szoftveralkalmazást használó más európai uniós tagállam gépjármű-nyilvántartási adatállományában, amennyiben az ehhez szükséges technikai feltételek adottak.
 
 ### IV. Fejezet — ADATVÉDELEM
 
@@ -919,7 +933,8 @@ bűncselekmény miatt büntetőeljárás hatálya alatt áll.
   - bc) az egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat, valamint a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat végrehajtásáról szóló, 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és e megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról szóló, 2009. szeptember 21-i, 2009/1023/IB tanácsi határozatnak, továbbá
 - c) 27/B–27/C. §-a, 32. § (5)–(8) bekezdése és 32/A. §-a a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló, 2015. március 11-i, 2015/413/EU európai parlamenti és tanácsi irányelv 4. és 7. cikkének, valamint I. Mellékletének
 - d) 27/D. §-a a vezetői engedélyekről szóló, 2006. december 20-ai 2006/126/EK európai parlamenti és tanácsi irányelv 7. cikk (5) bekezdésének,
-- e) a járművek nyilvántartásba vételéhez kapcsolódó okmányokról szóló 1999/37/EK tanácsi irányelv módosításáról szóló, 2014. április 3-i 2014/46/EU európai parlamenti és tanácsi irányelvnek
+- e) a járművek nyilvántartásba vételéhez kapcsolódó okmányokról szóló 1999/37/EK tanácsi irányelvnek, valamint a járművek nyilvántartásba vételéhez kapcsolódó okmányokról szóló 1999/37/EK tanácsi irányelv módosításáról szóló, 2014. április 3-i 2014/46/EU európai parlamenti és tanácsi irányelvnek
+- f) 27/F. §-a az Unión belüli elektronikus útdíjszedési rendszerek átjárhatóságáról és az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítéséről szóló, 2019. március 19-i (EU) 2019/520 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -930,5 +945,7 @@ való megfelelést szolgálja.
 - a) a járművek forgalmi engedélyének kiadására hatáskörrel rendelkező tagállami szolgálatoknak a Schengeni Információs Rendszer második generációjához (SIS II) való hozzáféréséről szóló, 1986/2006/EK rendeletnek, továbbá
 - b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 1987/2006/EK parlamenti és tanácsi rendelet 31–34. cikkének,
 - c) a 904/2010/EU és az (EU) 2017/2454 rendeletnek a hozzáadottérték-adó területén történő közigazgatási együttműködés megerősítésére irányuló intézkedések tekintetében történő módosításáról szóló, 2018. október 2-i (EU) 2018/1541 tanácsi rendelet
+- d) a gépjárművek osztályozásáról, az európai elektronikus útdíjszedési szolgáltatás felhasználóinak kötelezettségeiről, az átjárhatósági rendszerelemekre vonatkozó követelményekről és a bejelentett szervekre vonatkozó minimális alkalmassági feltételekről szóló, 2019. november 28-i (EU) 2020/203 felhatalmazáson alapuló bizottsági rendelet
+- e) az európai elektronikus útdíjszedési szolgáltatást nyújtó szolgáltatók részletes kötelezettségeiről, az EETS területi nyilatkozatok minimális tartalmáról, az elektronikus kapcsolódási pontokról, az átjárhatósági rendszerelemekre vonatkozó követelményekről és a 2009/750/EK határozat hatályon kívül helyezéséről szóló, 2019. november 28-i (EU) 2020/204 bizottsági végrehajtási rendelet
 
 végrehajtását szolgálja.
