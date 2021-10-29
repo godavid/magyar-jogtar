@@ -433,7 +433,7 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 - a)
 - b) a kilépni kívánó tag az Integrációs Szervezettel és annak tagjaival elszámolt, azok felé tartozással nem rendelkezik, ide nem értve azt az esetet, ha nála az Integrációs Szervezet valamely tagja betétet helyezett el, vagy az 5/A. §-ban meghatározott egyetemleges felelősség körében fennálló függő kötelezettséget,
 - c) teljesültek a kilépés vonatkozásában az Integrációs Szervezet kilépéskor hatályos alapszabályában meghatározott feltételek,
-- d) teljesült a 20/A. § (7) bekezdésében írt feltétel.
+- d)
 
 (6)
 
@@ -827,9 +827,8 @@ A fentiek nem érintik az Integrációs Szervezet törvényből fakadó egyéb j
 
 - a) annak tevékenységi engedélyét a Felügyelet visszavonta és az átalakítás a visszavonó határozatban megjelölt időpontban megtörténik,
 - b) a tevékenységi engedély visszavonásának más okból nincs helye,
-- c) a felszámolási eljárás kezdeményezésének feltételei nem állnak fenn,
-- d) az átalakítás nem sérti a hitelintézetek integrációja gazdasági érdekeit, valamint
-- e) a kérelmező a 20/A. § (7) bekezdésében foglalt követelményeknek megfelel.
+- c) a felszámolási eljárás kezdeményezésének feltételei nem állnak fenn, valamint
+- d) az átalakítás nem sérti a hitelintézetek integrációja gazdasági érdekeit.
 
 (4) Az Integrációs Szervezet tagja végelszámolására, az integrált hitelintézet átalakítására az Integrációs Szervezetből kilépni kívánó integrált hitelintézetre irányadó rendelkezéseket kell megfelelően alkalmazni.
 
@@ -954,7 +953,7 @@ A fentiek nem érintik az Integrációs Szervezet törvényből fakadó egyéb j
 
 (6)
 
-(7) Az 5/A. § (3) bekezdése vonatkozásában a kilépő tag köteles a kilépési szándéknyilatkozat Integrációs Szervezet részére történő benyújtásakor – könyvvizsgálói jelentéssel ellátott közbenső mérleg alapján – fennálló saját tőke értékének megfelelő összeget a tagsági jogviszony megszűnését követő 730 napig – ha pedig ezen időszak alatt igényt jelentettek be, annak teljesítéséről való döntésig – az Integrációs Szervezet által kijelölt integrált hitelintézeti tagnál erre a célra nyitott, elkülönített számlán tartani. Az elkülönített bankszámlán elhelyezendő összeg felszabadítására az Integrációs Szervezet által kiadott szabályzatban meghatározott személyek számára, a szabályzat szerinti feltételekkel és időpontokban kerül sor.
+(7)
 
 (8)
 
@@ -994,9 +993,19 @@ A fentiek nem érintik az Integrációs Szervezet törvényből fakadó egyéb j
 
 (5) Az MFB Zrt. Integrációs Szervezetből történő kilépéséig az e törvény 2. Mód. tv. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni az MFB Zrt. Integrációs Szervezetben fennálló tagsági jogviszonyára. Az Integrációs Szervezet közgyűlésén az Integrációs Szervezet tagjait megillető szavazatokra a 6. § (3) bekezdés 2. Mód. tv hatálybalépését megelőző napon hatályos rendelkezése irányadó az MFB Zrt. Integrációs Szervezetből történő kilépéséig.
 
-20/H. § (1) Az Integrációs Szervezet eszközeit tagjai tőkehelyzetének megerősítése érdekében befektetheti olyan – piaci alapú – pénzügyi vagy tőkepiaci eszközbe, amely hozzájárul ahhoz, hogy az egyes tagjai megfeleljenek az Európai Parlament és a Tanács 575/2013/EU rendelete, illetve a Hpt. szavatoló tőkére vonatkozó rendelkezéseinek.
+20/H. § (1) Az Integrációs Szervezet – a hitelintézetek integrációja céljainak megvalósulása érdekében – köteles vagyonát az Integrációs Szervezet tagja felett ellenőrző befolyást gyakorló, tagállami pénzügyi holding társaság anyavállalat által kibocsátásra kerülő, húszéves lejáratú és az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság honlapján közzétett állampapír-átlaghozamnak megfelelő kamatozású kötvényekbe fektetni 2022. január 31. napjáig azzal, hogy a tagállami pénzügyi holding társaság anyavállalat az Integrációs Szervezet e rendelkezésen alapuló megkeresésében meghatározott értéken köteles a kötvények kibocsátására.
 
 (2) Az Integrációs Szervezet megfelel a Hpt. 125. §-ában foglalt követelményeknek.
+
+(3) Az Integrációs Szervezet tagja, illetve az Integrációs Szervezet tagjában közvetlen vagy közvetett befolyásoló részesedéssel rendelkező személyek – a hitelintézetek integrációja piacszerű működésének előmozdítása céljából – kötelesek a (1) bekezdés szerinti ügylet megvalósulása érdekében szükséges döntések, illetve intézkedések meghozatalára.
+
+(4) Az (1) bekezdésben meghatározott tagállami pénzügyi holding társaság anyavállalat az (1) bekezdés szerinti kötvényjegyzésből származó pénzeszközt köteles az (1) bekezdés szerinti ügylet megvalósulásától számított egy éven belül az Integrációs Szervezet hitelintézet tagjai vagy a velük együtt összevont alapú felügyelet alatt álló további hitelintézetek saját tőkéjének növelésére fordítani az Integrációs Szervezet hitelintézet tagjainak és a velük együtt összevont alapú felügyelet alatt álló további hitelintézeteknek az Európai Parlament és a Tanács 575/2013/EU rendelete és a Hpt. szavatoló tőkére vonatkozó rendelkezéseinek való megfelelése biztosítása érdekében.
+
+20/I. § (1) Az Integrációs Szervezet hitelintézet tagjai kötelesek legkésőbb a 20/H. § (1) bekezdése szerinti kötvény lejegyzésétől számított huszadik naptári év utolsó napjáig kezdeményezni az Integrációs Szervezetből való kilépésüket. Az Integrációs Szervezet tájékoztatja hitelintézet tagjait az esedékesség napjáról a 20/H. § (1) bekezdése szerinti ügylet megvalósulásától számított 15 napon belül. Az Integrációs Szervezet valamennyi integrált hitelintézeti tagjának kilépése esetén az Integrációs Szervezet jogutód nélkül megszűnik, a célja megvalósul. Az 1/A. §-ban meghatározott célok megvalósulására tekintettel ezzel egyidejűleg az integrációs üzleti irányító szervezet e törvényben meghatározott feladatai, továbbá az ebből eredő jogosultságai és kötelezettségei megszűnnek, valamint az Integrációs Szervezet tagjai közötti, e törvény szerinti egyetemlegesség megszűnik.
+
+(2) Az Integrációs Szervezet megszűnése esetén az Integrációs Szervezet – esetleges harmadik feleket megillető igények kielégítése után fennmaradó – vagyona a magyar államra száll.
+
+(3) Az Integrációs Szervezet megszűnésére a Ptk.-nak az egyesület megszűnésére vonatkozó szabályai alkalmazandóak.
 
 #### 10. Hatály, felhatalmazások
 
