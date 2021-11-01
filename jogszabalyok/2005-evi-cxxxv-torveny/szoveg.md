@@ -162,6 +162,8 @@ nyújt a sérelem rendezéséhez.
 
 (6) Kárenyhítés iránti kérelem esetén a 11. § szerinti igazolás hiányában minden esetben, az azonnali pénzügyi segély vagy az áldozati státusz igazolása iránti kérelem esetén pedig akkor, ha az áldozat a kérelméhez nem csatolja az (5) bekezdésben felsorolt iratok valamelyikét, illetve ha azokból nem állapítható meg, hogy a kérelmező az 1. § szerint áldozatnak minősül-e, az áldozatsegítő szolgálat a kérelem benyújtását követően haladéktalanul beszerzi a 11. § szerinti igazolást. A 2. § (1) és (1a) bekezdése esetén az azonnali pénzügyi segély vagy az áldozati státusz igazolása iránt benyújtott kérelemben az áldozatnak – a megfelelő dokumentumokat csatolva – igazolnia kell azt, hogy bűncselekmény áldozatává vált.
 
+(7) A támogatásokkal kapcsolatos eljárásokban jogutódlásnak nincs helye.
+
 ### Igazolás
 
 11. § (1) A büntetőeljárásban eljáró bíróság, ügyészség, nyomozó hatóság a támogatás igénybevételéhez igazolást állít ki az áldozat vagy az áldozatsegítő szolgálat kérelme alapján. Az igazolás tartalmazza
@@ -227,7 +229,7 @@ meghatározott feltételek vizsgálatát kell érteni.
 
 ### Visszatérítés
 
-15. § (1) Az áldozat a támogatás iránti kérelmet érdemben elbíráló határozat véglegessé válását vagy jogerőre emelkedését követő 3 évig köteles visszatéríteni a pénzben nyújtott támogatást, ha
+15. § (1) Az áldozat a támogatás iránti kérelmet érdemben elbíráló határozat véglegessé válását vagy jogerőre emelkedését követő 5 évig köteles visszatéríteni a pénzben nyújtott támogatást, ha
 
 - a) az e törvény szerinti támogatás iránti kérelmet az áldozat bűncselekmény áldozataként nyújtotta be és az eljáró bíróság jogerős ügydöntő határozatában vagy az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatában megállapította, hogy a támogatás alapjául szolgáló cselekmény nem bűncselekmény,
 - b) az áldozat a támogatás iránti ügyében valótlan adatot szolgáltatott,
@@ -242,7 +244,7 @@ meghatározott feltételek vizsgálatát kell érteni.
 
 (2a) A biztosító a támogatás iránti kérelmet érdemben elbíráló határozat véglegessé válását vagy jogerőre emelkedését követő 3 éven belül, az (1) bekezdés c) pontjában meghatározott feltétel meglétének vizsgálata érdekében megküldött megkeresésre tájékoztatja az áldozatsegítő szolgálatot a biztosítási titokról.
 
-(3) Az áldozat köteles a támogatást egy összegben, a visszafizetésre kötelező végleges vagy jogerős határozat kézhezvételétől számított 30 napon belül a felülről nyitott „bűncselekmények áldozatainak kárenyhítése” elnevezésű célelőirányzat (a továbbiakban: célelőirányzat) javára megfizetni.
+(3) Az áldozat köteles a támogatást egy összegben, a visszafizetésre kötelező végleges vagy jogerős határozat kézhezvételétől számított 30 napon belül a felülről nyitott, e törvény alapján fennálló fizetési kötelezettségének teljesítésére szolgáló célelőirányzat (a továbbiakban: célelőirányzat) javára megfizetni.
 
 (4) Az áldozatsegítő szolgálat a visszatérítendő összeg megfizetésére kérelemre, indokolt esetben egy alkalommal legfeljebb tizenkét hónap halasztást vagy részletfizetést engedélyezhet.
 
@@ -452,7 +454,7 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 ### A döntő hatóság intézkedése a kérelem beérkezését követően
 
-35. § (1) A döntő hatóság a kérelem beérkezését követő naptól számított nyolc napon belül dönt arról, hogy a kérelem érdemi elbírálásához szükség van-e arra, hogy a támogató hatóság a kérelmezőt vagy más személyt meghallgasson.
+35. § (1) A döntő hatóság az igazolás beérkezését követő naptól számított nyolc napon belül dönt arról, hogy a kérelem érdemi elbírálásához szükség van-e arra, hogy a támogató hatóság a kérelmezőt vagy más személyt meghallgasson.
 
 (2)
 
@@ -510,23 +512,28 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 43. § (1) Az áldozatsegítő szolgálat feladatai ellátása során együttműködik és kapcsolatot tart a rendőrség áldozatvédelmi hálózatával, a bírósággal, az ügyészséggel, a nyomozó hatósággal a menekültügyi hatósággal, az idegenrendészeti hatósággal, a konzuli szolgálattal, a helyi és nemzetiségi önkormányzatokkal, az egészségügyi intézményekkel, az ifjúságvédelmi szervezetekkel, a személyes gondoskodást nyújtó gyermekjóléti és gyermekvédelmi intézményekkel, a családsegítő szolgálatokkal, az alap- és szakellátást nyújtó szociális szolgáltatókkal és intézményekkel, a köznevelési intézményekkel, a szakképző intézményekkel, a polgárőrséggel, a civil szervezetekkel és a vallási közösségekkel.
 
-(2) Az áldozatsegítő szolgálat abban az esetben, ha munkája során kiskorú veszélyeztetettségéről szerez tudomást, haladéktalanul jelzi azt a kiskorú tényleges tartózkodási helye szerint illetékes gyermekjóléti szolgálatnak. Ha a feltárt körülmény a kiskorú életét, testi épségét súlyosan veszélyezteti, a jelzéssel egyidejűleg gyámhatósági eljárást kezdeményez.
+(2) Az áldozatsegítő szolgálat abban az esetben, ha munkája során kiskorú veszélyeztetettségéről szerez tudomást, haladéktalanul jelzi azt a kiskorú tényleges tartózkodási helye szerint illetékes gyermekjóléti szolgálatnak. A kiskorút súlyosan veszélyeztető ok fennállása esetén az áldozatsegítő szolgálat a jelzéssel egyidejűleg hatósági eljárást kezdeményez. Ha az áldozatsegítő szolgálat hozzátartozók közötti erőszak veszélyét észleli, köteles jelzést tenni a családvédelmi koordinációért felelős szervnek.
 
 (3) Az áldozatsegítő szolgálat a 24. § (3) bekezdése szerinti tájékoztatás megtörténtét követően – a büntetőeljárásban eljáró bíróság, ügyészség, nyomozó hatóság egyidejű értesítése mellett – haladéktalanul kezdeményezi az idegenrendészeti hatóságnál a harmadik országbeli állampolgár ideiglenes tartózkodásra jogosító igazolással történő ellátását.
 
 ### Az áldozatok közvetlen elérése
 
-43/A. § (1) Az általános nyomozó hatóság a nyomozása során ismertté vált olyan sértettet, valamint a nála tett feljelentés alapján ismertté vált olyan feljelentőt, akinek a sérelmére a Btk. szerinti szándékos, személy elleni erőszakos bűncselekményt követtek el, a személyének és elérhetőségének ismertté válását követően lehetőség szerint azonnal, de legkésőbb két napon belül tájékoztatja
+43/A. § (1) Az általános nyomozó hatóság a szándékos, személy elleni erőszakos bűncselekmény [1978. évi IV. törvény 137. § 17. pontja, illetve Btk. 459. § (1) bekezdés 26. pontja], a megrontás [1978. évi IV. törvény 201–202/A. §), a szexuális visszaélés (Btk. 198. §), a kerítés (1978. évi IV. törvény 207. §, illetve Btk. 200. §), az üzletszerű kéjelgés elősegítése [1978. évi IV. törvény 205. § (3) bekezdés a) pontja], a gyermekprostitúció kihasználása (Btk. 203. §), a zaklatás (1978. évi IV. törvény 176/A. §, illetve Btk. 222. §), a kifosztás (1978. évi IV. törvény 322. §, illetve Btk. 366. §), a szabálysértési értékre elkövetett lopás [1978. évi IV. törvény 316. § (2) bekezdés második fordulata, illetve Btk. 370. § (2) bekezdés b) pontja] vagy a kisebb értékre elkövetett lopás bűncselekmény [1978. évi IV. törvény 316. § (2) bekezdés első fordulata, illetve Btk. 370. § (2) bekezdés a) pontja] sértettjét – ha a sértett a feljelentést személyesen teszi meg, akkor a feljelentés megtételekor, egyébként a sértett első tanúkénti kihallgatásakor – tájékoztatja
 
 - a) az áldozatsegítő szolgálatokról,
 - b) arról, hogy támogatásra lehet jogosult, és
-- c) arról, hogy hozzájárulása esetén a 10. § (3) bekezdés a) és b) pontjában, valamint a 11. § (1) bekezdés c) pontjában meghatározott adatait, valamint az általa megadott elérhetőségeit a közvetlen kapcsolatfelvétel céljából továbbítja az áldozatsegítő szolgálat részére.
+- c) arról, hogy amennyiben a tájékoztatás közlésekor ezt nem ellenzi, a 10. § (3) bekezdés a) és b) pontjában, valamint a 11. § (1) bekezdés c) pontjában meghatározott adatait, valamint az általa a büntetőeljárás során megadott elérhetőségeit a közvetlen kapcsolatfelvétel céljából továbbítja az áldozatsegítő szolgálat részére.
 
 (2) Az (1) bekezdésben foglaltak alkalmazásával kell eljárni a 6. § (1) bekezdés b)–d) pontjában meghatározott, az általános nyomozó hatóság előtt ismertté vált személyek tekintetében is, ha a sértett az (1) bekezdésben megjelölt bűncselekmény következtében meghalt.
 
-(3) A tájékoztatás megtörténtét, valamint az érintett hozzájárulását, vagy a hozzájárulás megtagadását írásba kell foglalni. Írásbeli tájékoztatás esetén, ha az érintett a hozzájárulás tekintetében nem tesz nyilatkozatot, úgy azt a hozzájárulás megtagadásának kell tekinteni.
+(3) A tájékoztatás megtörténtét, valamint az érintett adattovábbítást megtiltó nyilatkozatát írásba kell foglalni.
 
-(4) Az érintett hozzájárulása esetén az általános nyomozó hatóság a hozzájárulást követően lehetőség szerint azonnal, de legfeljebb két napon belül az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott információátadási szolgáltatás útján az érintett (1) bekezdés c) pontjában meghatározott adatait továbbítja az áldozatsegítő szolgálat részére.
+(4) Ha a sértett az adattovábbítást nem tiltja meg, az általános nyomozó hatóság az érintett (1) bekezdés c) pontjában meghatározott adatait,
+
+- a) ha az (1) bekezdés szerinti tájékoztatásra a sértett tanúkénti kihallgatásakor kerül sor, a kihallgatást követően,
+- b) ha az (1) bekezdés szerinti tájékoztatásra a feljelentés megtételekor kerül sor, a nyomozás elrendelését követően
+
+lehetőség szerint azonnal, de legfeljebb két munkanapon belül az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott információátadási szolgáltatás útján továbbítja az áldozatsegítő szolgálat részére.
 
 (5) A büntetőeljárásról szóló törvény szerinti zárt adatkezelés esetén az általános nyomozó hatóság az érintett zártan kezelt adatait a (4) bekezdésben foglaltaktól eltérően papíralapon továbbítja az áldozatsegítő szolgálat részére.
 
@@ -572,7 +579,7 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 47. § (1) E törvény a bűncselekmények áldozatainak kárenyhítéséről szóló, 2004. április 29-i 2004/80/EK tanácsi irányelvnek való megfelelést szolgálja.
 
-(2) E törvény a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU parlamenti és tanácsi irányelv 8. és 9. cikkének való megfelelést szolgálja.
+(2) E törvény a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU parlamenti és tanácsi irányelv 4., 8. és 9. cikkének való megfelelést szolgálja.
 
 (3) E törvény 24. § (3) bekezdése és 43. § (3) bekezdése a harmadik országok emberkereskedelem áldozatává vált vagy az illegális bevándorlás megkönnyítésére irányuló cselekményektől érintett, a hatáskörrel rendelkező hatóságokkal együttműködő állampolgárai részére kiállított tartózkodási engedélyről szóló, 2004. április 29-i 2004/81/EK tanácsi irányelv 5. és 6. cikkének való megfelelést szolgálja.
 
