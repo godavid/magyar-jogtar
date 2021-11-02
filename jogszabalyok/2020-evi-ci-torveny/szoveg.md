@@ -8,6 +8,6 @@ a Magyarország Kormánya és a Közép- és Kelet-Európai Regionális Környez
 
 (2) A 3. § 2021. november 1-jén lép hatályba.
 
-3. § Hatályát veszti a 2014. évi XIII. törvény.
+3. §
 
 4. § E törvény végrehajtásához szükséges intézkedésekről a külgazdasági és külügyminiszter gondoskodik.

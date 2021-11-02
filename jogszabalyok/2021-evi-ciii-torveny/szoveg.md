@@ -83,47 +83,15 @@ függ.
 
 #### 6. A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény módosítása
 
-11. § A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény 10. §-a a következő (7) bekezdéssel egészül ki:
+11. §
 
-„(7) A támogatásokkal kapcsolatos eljárásokban jogutódlásnak nincs helye.”
+12. §
 
-12. § A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény 15. § (3) bekezdése helyébe a következő rendelkezés lép:
+13. §
 
-„(3) Az áldozat köteles a támogatást egy összegben, a visszafizetésre kötelező végleges vagy jogerős határozat kézhezvételétől számított 30 napon belül a felülről nyitott, e törvény alapján fennálló fizetési kötelezettségének teljesítésére szolgáló célelőirányzat (a továbbiakban: célelőirányzat) javára megfizetni.”
+14. §
 
-13. § A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény 43. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az áldozatsegítő szolgálat abban az esetben, ha munkája során kiskorú veszélyeztetettségéről szerez tudomást, haladéktalanul jelzi azt a kiskorú tényleges tartózkodási helye szerint illetékes gyermekjóléti szolgálatnak. A kiskorút súlyosan veszélyeztető ok fennállása esetén az áldozatsegítő szolgálat a jelzéssel egyidejűleg hatósági eljárást kezdeményez. Ha az áldozatsegítő szolgálat hozzátartozók közötti erőszak veszélyét észleli, köteles jelzést tenni a családvédelmi koordinációért felelős szervnek.”
-
-14. § (1) A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény 43/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az általános nyomozó hatóság a szándékos, személy elleni erőszakos bűncselekmény [1978. évi IV. törvény 137. § 17. pontja, illetve Btk. 459. § (1) bekezdés 26. pontja], a megrontás [1978. évi IV. törvény 201–202/A. §), a szexuális visszaélés (Btk. 198. §), a kerítés (1978. évi IV. törvény 207. §, illetve Btk. 200. §), az üzletszerű kéjelgés elősegítése [1978. évi IV. törvény 205. § (3) bekezdés a) pontja], a gyermekprostitúció kihasználása (Btk. 203. §), a zaklatás (1978. évi IV. törvény 176/A. §, illetve Btk. 222. §), a kifosztás (1978. évi IV. törvény 322. §, illetve Btk. 366. §), a szabálysértési értékre elkövetett lopás [1978. évi IV. törvény 316. § (2) bekezdés második fordulata, illetve Btk. 370. § (2) bekezdés b) pontja] vagy a kisebb értékre elkövetett lopás bűncselekmény [1978. évi IV. törvény 316. § (2) bekezdés első fordulata, illetve Btk. 370. § (2) bekezdés a) pontja] sértettjét – ha a sértett a feljelentést személyesen teszi meg, akkor a feljelentés megtételekor, egyébként a sértett első tanúkénti kihallgatásakor – tájékoztatja
-
-a) az áldozatsegítő szolgálatokról,
-
-b) arról, hogy támogatásra lehet jogosult, és
-
-c) arról, hogy amennyiben a tájékoztatás közlésekor ezt nem ellenzi, a 10. § (3) bekezdés a) és b) pontjában, valamint a 11. § (1) bekezdés c) pontjában meghatározott adatait, valamint az általa a büntetőeljárás során megadott elérhetőségeit a közvetlen kapcsolatfelvétel céljából továbbítja az áldozatsegítő szolgálat részére.”
-
-(2) A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény 43/A. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(3) A tájékoztatás megtörténtét, valamint az érintett adattovábbítást megtiltó nyilatkozatát írásba kell foglalni.
-
-(4) Ha a sértett az adattovábbítást nem tiltja meg, az általános nyomozó hatóság az érintett (1) bekezdés c) pontjában meghatározott adatait,
-
-a) ha az (1) bekezdés szerinti tájékoztatásra a sértett tanúkénti kihallgatásakor kerül sor, a kihallgatást követően,
-
-b) ha az (1) bekezdés szerinti tájékoztatásra a feljelentés megtételekor kerül sor, a nyomozás elrendelését követően
-
-lehetőség szerint azonnal, de legfeljebb két munkanapon belül az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott információátadási szolgáltatás útján továbbítja az áldozatsegítő szolgálat részére.”
-
-15. § A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény
-
-- a) 15. § (1) bekezdés nyitó szövegrészében a „3” szövegrész helyébe az „5” szöveg,
-- b) 35. § (1) bekezdésében az „a kérelem beérkezését” szövegrész helyébe az „az igazolás beérkezését” szöveg,
-- c) 47. § (2) bekezdésében a „8.” szövegrész helyébe a „4., 8.” szöveg
-
-lép.
+15. §
 
 #### 7. A közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény módosítása
 
