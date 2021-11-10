@@ -669,6 +669,8 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (36) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében az (EU) 2016/1011 rendeletnek az egyes harmadik országbeli azonnali referencia-árfolyamok mentessége és egyes megszűnő referenciamutatók helyettesítőinek kijelölése tekintetében történő módosításáról, valamint a 648/2012/EU rendelet módosításáról szóló, 2021. február 10-i (EU) 2021/168 európai parlamenti és tanácsi rendelet 1. cikk 5. pontjában meghatározott, az (EU) 2016/1011 európai parlamenti és tanácsi rendelet 23b. cikk (5) bekezdés a) pontja szerinti értékelést.
 
+(37) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatkörében ellátja az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1503 európai parlamenti és tanácsi rendelet végrehajtásával járó feladatokat.
+
 41. § (1) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] végrehajtását
 
 - a) a fogyasztói hitelmegállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2008 április 23-i 2008/48/EK európai parlamenti és tanácsi irányelvet,
@@ -3285,6 +3287,7 @@ való megfelelést szolgálja.
 - 19. az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet,
 - 20. az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztatóról és a 2003/71/EK irányelv hatályon kívül helyezéséről szóló, 2017. június 14-i (EU) 2017/1129 európai parlamenti és tanácsi rendelet
 - 21. az (EU) 2016/1011 rendeletnek az egyes harmadik országbeli azonnali referencia-árfolyamok mentessége és egyes megszűnő referenciamutatók helyettesítőinek kijelölése tekintetében történő módosításáról, valamint a 648/2012/EU rendelet módosításáról szóló, 2021. február 10-i (EU) 2021/168 európai parlamenti és tanácsi rendelet
+- 22. a tőkepiacról szóló 2001. évi CXX. törvénnyel és a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvénnyel együtt az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1503 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
