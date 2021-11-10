@@ -346,6 +346,8 @@ feltéve, hogy az egyszeri fizetési művelet összege nem haladja meg a tizenö
 
 (6) Nem minősül pénzügyi lízingnek az anyavállalat és a leányvállalata közötti lízing, ide nem értve a pénzügyi intézmény által kötött ilyen ügyletet.
 
+(6a) Nem minősül pénzügyi szolgáltatás közvetítésének az (EU) 2020/1503 európai parlamenti és tanácsi rendeletben meghatározott közösségi finanszírozási szolgáltatás.
+
 (7) Az e törvényben vagy az 575/2013/EU rendeletben megállapított követelmények vagy felügyeleti hatáskörök összevont vagy szubkonszolidált alapon, e törvénnyel és az 575/2013/EU rendelettel összhangban történő alkalmazásának biztosítása érdekében a „hitelintézet”, a „tagállami anyavállalat”, az „EU-szintű anyavállalat” és az „anyavállalat” fogalmába bele kell érteni a következőket is:
 
 - a) azok a pénzügyi holding társaságok és vegyes pénzügyi holding társaságok, amelyek a 15/A. §-nak megfelelően megkapták a Felügyelettől a külön jóváhagyást,
@@ -1124,7 +1126,7 @@ induló tőkével alapítható.
 
 (2) A Felügyelet végelszámolást elrendelő határozatot hoz, ha
 
-- a) a pénzügyi intézmény tevékenységi engedélyét – ide nem értve a hitelintézet pénzügyi vállalkozássá vagy befektetési vállalkozássá történő átalakítását – visszavonja, kivéve ha az engedély visszavonása a 33. § (1) bekezdés b) pontja, 33. § (2) bekezdés c) pontja, 35. § (2) és (3) bekezdése alapján történik, vagy
+- a) a pénzügyi intézmény tevékenységi engedélyét – ide nem értve a hitelintézet pénzügyi vállalkozássá vagy befektetési vállalkozássá történő átalakítását – visszavonja, kivéve ha az engedély visszavonása a 33. § (1) bekezdés b) pontja, 33. § (2) bekezdés c) pontja vagy 35. § (3) bekezdése alapján történik, vagy
 - b) tudomására jut, hogy a külföldi pénzügyi intézmény alapítási, tevékenységi (működési) vagy a fióktelep formájában működő pénzügyi intézmény alapításra vonatkozó, a külföldi pénzügyi intézmény székhelye szerinti illetékes felügyeleti hatóság által kiadott engedélye visszavonásra kerül.
 
 (3) A Felügyelet végelszámolással történő megszüntetést elrendelő határozata meghozatalához nem szükséges beszerezni a Ctv. 94. § (3) bekezdésében meghatározott előzetes egyetértést.
@@ -5435,8 +5437,9 @@ Qn= az érintett kvartilis sorszáma
   - n) a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv, valamint a 2009/138/EK és a 2013/36/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/843 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 - 2. Ez a törvény a 185. § (1) bekezdésében a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet 9. cikk (6)–(7) bekezdés végrehajtásához szükséges rendelkezéseket állapít meg a Felügyelet eljárásában.
 - 3. Ez a törvény
-  - a) a hitelintézetekre vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendeletnek és
-  - b) az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
+  - a) a hitelintézetekre vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendeletnek,
+  - b) az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendeletnek,
+  - c) a tőkepiacról szóló 2001. évi CXX. törvénnyel és a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvénnyel együtt az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1503 európai parlamenti és tanácsi rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 6. melléklet a 2013. évi CCXXXVII. törvényhez
 
