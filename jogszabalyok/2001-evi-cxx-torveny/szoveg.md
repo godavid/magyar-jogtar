@@ -29,6 +29,8 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - a) az STS értékpapírosításnak, illetve szintetikus értékpapírosításnak nem minősülő értékpapírosításra, valamint
 - b) a KCGE-re, az értékpapírosítást kezdeményezőre, a szponzorra, az intézményi befektetőre és az eredeti hitelezőre.
 
+1/B. § E törvény hatálya kiterjed a közösségi finanszírozási szolgáltatásra, valamint annak alanyaira.
+
 2. § Nem tartozik a törvény hatálya alá
 
 - a) a szövetkezeti üzletrész, a csekk, a váltó, a kárpótlási jegy, a közraktárjegy forgalomba hozatala, és az állampapír zártkörű forgalomba hozatala,
@@ -147,6 +149,8 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 76. kollektív befektetési értékpapír: a Kbftv.-ben meghatározott fogalom,
 - 77. kollektív befektetési forma: a Kbftv.-ben meghatározott fogalom, 77/A.
 - 78. közeli hozzátartozó: a Ptk.-ban meghatározott személy és az élettárs,
+- 78a. közösségi finanszírozási szolgáltatás: az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1503 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2020/1503 európai parlamenti és tanácsi rendelet] ekként meghatározott fogalom,
+- 78b. közösségi finanszírozási szolgáltató: az (EU) 2020/1503 európai parlamenti és tanácsi rendeletben ekként meghatározott fogalom,
 - 79. központi értékpapír-nyilvántartás: a központi értéktár által vezetett, a belföldön kibocsátott értékpapírok adatait visszakereshető módon tartalmazó nyilvántartás,
 - 80. központi értékpapírszámla: a központi értéktár által a dematerializált értékpapírról sorozatonként vezetett összesített nyilvántartás,
 - 80a. központi értéktár: a 909/2014/EU rendelet 2. cikk (1) bekezdés 1. pontjában meghatározott fogalom,
@@ -180,6 +184,7 @@ A tőkepiac fejlődésének, nemzetközi versenyképessége javulásának előse
 - 105. portfólió: a portfóliókezelési tevékenységet végző számára átadott eszközök, illetőleg ezen eszközökből a portfóliókezelési tevékenységet végző által összeállított, többféle vagyonelemet tartalmazó eszközök összessége,
 - 106. portfóliókezelés: a Bszt.-ben meghatározott tevékenység,
 - 107. pozíciólezáró nettósítás: a felek megállapodása alapján a szerződés nemteljesítésekor vagy a felek által meghatározott egyéb felmondási esemény bekövetkeztekor az azonnali deviza- és értékpapírügyletből, származtatott ügyletből, repó- vagy fordított repóügyletből, értékpapír-kölcsönzésre irányuló megállapodásból, óvadéki, illetve biztosítéki célt szolgáló egyéb szerződésből, vagy más hasonló tőzsdén, tőzsdén kívül árura, illetve pénzügyi eszközre kötött ügyletből eredő tartozásoknak és követeléseknek az adott ügylet piacán elfogadott elszámolásaként egyetlen nettó tartozássá vagy követeléssé történő átalakítása, amelynek eredményeként a tartozás vagy a követelés kizárólag az ekként megállapított nettó összegre korlátozódik,
+- 107a. projektgazda: az (EU) 2020/1503 európai parlamenti és tanácsi rendeletben ekként meghatározott fogalom,
 - 108. referenciaadat: a központi hitelinformációs rendszerről szóló törvényben meghatározott fogalom,
 - 109. referenciaadat-szolgáltató: a befektetési hitel nyújtására vonatkozó engedéllyel rendelkező, illetve értékpapír-kölcsönzési tevékenységet végző szervezet (befektetési vállalkozás, kollektív befektetési forma, befektetési alapkezelő, központi értéktár, pénzügyi intézmény, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, biztosító),
 - 110. repó- és fordított repóügylet: minden olyan megállapodás, amely értékpapír vagy áru tulajdonjogának, illetve az értékpapír vagy áru tulajdonjogához fűződő garantált jog átruházására vonatkozik – ha e garanciát olyan elismert tőzsde bocsátja ki, amely az értékpapírhoz vagy az áruhoz fűződő joggal rendelkezik –, és a megállapodás nem teszi lehetővé az eladó számára, hogy az adott értékpapírt vagy árut adott időpontban egyszerre több félnek ruházza át, illetőleg más ügylethez adja biztosítékul. A szerződéskötéssel egyidejűleg az értékpapírra vagy árura az eladó visszavásárlási kötelezettséget, a vevő az eladó részére történő viszonteladási kötelezettséget vállal a szerződésben meghatározott vagy az eladó által meghatározandó jövőbeli időpontban történő meghatározott visszavásárlási, illetve viszonteladási áron. A felek közötti megállapodás rendelkezhet úgy is, hogy az ügylet tárgyát képező és biztosítékul szolgáló értékpapír vagy áru más, egyenértékű értékpapírra vagy árura kicserélhető. Az ügylet az értékpapír vagy áru eladója szempontjából repóügyletnek, az értékpapír vagy áru vevője szempontjából fordított repóügyletnek tekintendő,
@@ -2096,15 +2101,19 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 
 239–296. §
 
-## NYOLCADIK/A. RÉSZ
+## NYOLCADIK/A. RÉSZ — A KÖZÖSSÉGI FINANSZÍROZÁSRA VONATKOZÓ SZABÁLYOK
 
-### XXXI/A. Fejezet
+296/A. § A közösségi finanszírozás keretében közvetíthető, (EU) 2020/1503 európai parlamenti és tanácsi rendeletben meghatározott hitelnyújtás alatt a Hpt. 6. § (1) bekezdés 40. pont b) pont ba) alpontja szerinti pénzkölcsönnyújtást kell érteni.
 
-296/A–296/F. §
+296/B. § (1) Az (EU) 2020/1503 európai parlamenti és tanácsi rendelet 23. cikkében meghatározott kiemelt befektetési információkat tartalmazó adatlapon szereplő információk valóságnak való megfelelőségéért és eltérő értelmezést kizáró teljességéért a projektgazda, valamint annak vezető állású személye egyetemleges kártérítési felelősséggel tartozik.
 
-### XXXI/B. Fejezet
+(2) A kiemelt befektetési információkat tartalmazó adatlapon szereplő információk más nyelvre fordításában történt hibával okozott kárért a projektgazda és a fordításért felelős személy egyetemlegesen felel.
 
-296/G–296/Q. §
+(3) Az (EU) 2020/1503 európai parlamenti és tanácsi rendelet 24. cikkében meghatározott platform szintű, kiemelt befektetési információkat tartalmazó adatlapon szereplő információk valóságnak való megfelelőségéért és eltérő értelmezést kizáró teljességéért a közösségi finanszírozási szolgáltató, valamint annak vezető állású személye egyetemleges kártérítési felelősséggel tartozik.
+
+(4) A platform szintű, kiemelt befektetési információkat tartalmazó adatlapon szereplő információk más nyelvre fordításában történt hibával okozott kárért a közösségi finanszírozási szolgáltató és a fordításért felelős személy egyetemlegesen felel.
+
+296/C–296/Q. §
 
 ## KILENCEDIK RÉSZ — A TŐZSDE
 
@@ -3369,6 +3378,22 @@ eltiltja a központi értéktár vezetői feladatainak ellátásától a közpon
 - m) felfüggeszti az értékpapírok kereskedését vagy előírja az adott szabályozott piacon, multilaterális kereskedési rendszerben vagy szervezett kereskedési rendszerben folytatott értékpapír-kereskedés felfüggesztését, ha úgy ítéli meg, hogy a kibocsátó helyzete következtében a kereskedés hátrányosan befolyásolná a befektetők érdekeit,
 - n) helyszíni ellenőrzéseket és vizsgálatokat végez a természetes személyek lakóhelyétől eltérő helyszíneken, és e célból bizonyos helyszínekre beléphet, hogy dokumentumokhoz és bármilyen formátumú adatokhoz férjen hozzá, amennyiben fennáll a megalapozott gyanúja annak, hogy ott az ellenőrzés vagy vizsgálat tárgyával összefüggő olyan dokumentumok és adatok találhatók, amelyek relevánsak lehetnek az (EU) 2017/1129 rendelet megszegése bizonyításának az alátámasztásához.
 
+(3b) A Felügyelet a közösségi finanszírozási szolgáltatással összefüggésben észlelt jogszabálysértés – különösen az (EU) 2020/1503 európai parlamenti és tanácsi rendelet 39. cikk (1) bekezdés a) és b) pontjában foglaltak megsértése – esetén az MNBtv.-ben meghatározott hatáskörei mellett – a fokozatosság és arányosság elvének figyelembevételével – az alábbi intézkedéseket, szankciókat alkalmazhatja:
+
+- a) közleményt ad ki, amely megnevezi a jogsértésért felelős személyt és a jogsértést;
+- b) megállapítja a jogsértés tényét és megtiltja a jogsértésért felelős személy számára a jogsértő magatartás folytatását, valamint annak megismétlését;
+- c) megtiltja, hogy a jogsértésért felelős természetes személyt vezető állású személyként alkalmazzák közösségi finanszírozási szolgáltatónál;
+- d) felfüggeszti a közösségi finanszírozási ajánlatot esetenként legfeljebb tíz egymást követő munkanapra, ha észszerű indokkal feltételezhető, hogy a közösségi finanszírozási szolgáltatás jogszabályi feltételét az érintett szolgáltató megsértette;
+- e) megtiltja vagy felfüggeszti – vagy előírja, hogy a közösségi finanszírozási szolgáltató vagy a közösségi finanszírozási szolgáltatás nyújtásával kapcsolatos feladatok ellátására kijelölt harmadik fél szüntesse be vagy függessze fel – a marketingközleményeket, esetenként legfeljebb tíz egymást követő munkanapra, ha észszerű indokkal feltételezhető, hogy a közösségi finanszírozási szolgáltatás jogszabályi feltételeit az érintett szolgáltató megsértette;
+- f) betiltja a közösségi finanszírozási ajánlatot, ha közösségi finanszírozási szolgáltatással összefüggésben jogszabálysértést vagy annak közvetlen veszélyét észleli;
+- g) felfüggeszti – vagy előírja a közösségi finanszírozási szolgáltató számára, hogy függessze fel – a közösségi finanszírozási szolgáltatás nyújtását, esetenként legfeljebb tíz egymást követő munkanapra, ha észszerű indokkal feltételezhető, hogy a közösségi finanszírozási szolgáltatás jogszabályi feltételét az érintett szolgáltató megsértette;
+- h) megtiltja az érintett szolgáltató számára a közösségi finanszírozási szolgáltatás nyújtását;
+- i) közzéteszi a tényt, hogy egy közösségi finanszírozási szolgáltató vagy a közösségi finanszírozási szolgáltatás nyújtásával kapcsolatos feladatok ellátására kijelölt harmadik fél nem teljesíti a kötelezettségét;
+- j) közzéteszi – vagy előírja a közösségi finanszírozási szolgáltató vagy a közösségi finanszírozási szolgáltatás nyújtásával kapcsolatos feladatok ellátására kijelölt harmadik fél számára, hogy tegye közzé – az összes lényeges információt, amely hatással lehet a közösségi finanszírozási szolgáltatás nyújtására;
+- k) felfüggeszti – vagy előírja a közösségi finanszírozási szolgáltató vagy a közösségi finanszírozási szolgáltatás nyújtásával kapcsolatos feladatok ellátására kijelölt harmadik fél számára, hogy függessze fel – a közösségi finanszírozási szolgáltatás nyújtását, ha a közösségi finanszírozási szolgáltató helyzete következtében a közösségi finanszírozási szolgáltatás hátrányosan befolyásolná a befektetők érdekeit;
+- l) átruházza a jogszabálysértő közösségi finanszírozási szolgáltató szerződéseit egy másik közösségi finanszírozási szolgáltatóra az ügyfelek és az átvevő közösségi finanszírozási szolgáltató beleegyezése feltételével, ha a közösségi finanszírozási szolgáltató engedélyét azért vonta vissza, mert kilenc egymást követő hónapon keresztül nem nyújtott közösségi finanszírozási szolgáltatást, és már nem vesz részt azon meglévő szerződések kezelésében sem, amelyek az eredetileg a vállalkozásfinanszírozási szándékok közösségi finanszírozási platformjának használatával történt összepárosítása eredményeként jöttek létre; illetve
+- m) törvényben meghatározott bírságot szab ki.
+
 (4) A Felügyelet a tőkepiaci intézményrendszer biztonságos működése és a befektetők érdekeinek védelmében a központi értéktár által vezetett egyes számlák fölött a számlatulajdonos és a részvényesi meghatalmazott rendelkezési jogát harminc napra korlátozhatja. A korlátozás indokolt esetben – további harminc nappal – egyszer meghosszabbítható.
 
 (5) A számla fölötti rendelkezési jogot a Felügyelet akkor korlátozhatja, ha
@@ -3472,9 +3497,11 @@ eltiltja a központi értéktár vezetői feladatainak ellátásától a közpon
 
 ### A felügyeleti bírság
 
-405. § (1) A Felügyelet a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban történő befolyásszerzés szabályait megsértő személyt, a tőzsdét, a központi értéktárat, a központi szerződő felet, illetve ezek vezető állású személyét és alkalmazottját, a bennfentes kereskedelmet, a piacbefolyásolást és a bennfentes információ jogosulatlan közzétételét elkövető személyt, az 596/2014/EU rendelet szerinti vezetői feladatokat ellátó személyekre és az 596/2014/EU rendelet szerinti velük szoros kapcsolatban álló személyekre vonatkozó bejelentési kötelezettségre vonatkozó szabályokat megsértő személyt és a 61. §-ban foglalt kötelezettséget megsértő részvényest vagy a szavazati jog birtokosát az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban, a Pmt.-ben, valamint a Felügyelet határozatában foglalt kötelezettsége, továbbá a saját szabályzatában foglaltak megszegése, kijátszása, elmulasztása vagy késedelmes teljesítése esetén, továbbá ha azt külföldi felügyeleti hatóság a 399. § (2) bekezdése szerint kezdeményezi, bírság megfizetésére kötelezheti.
+405. § (1) A Felügyelet a kibocsátót, az ajánlattevőt, a nyilvánosan működő részvénytársaságban történő befolyásszerzés szabályait megsértő személyt, a tőzsdét, a központi értéktárat, a központi szerződő felet, a közösségi finanszírozási szolgáltatót, a projektgazdát, illetve ezek vezető állású személyét és alkalmazottját, a bennfentes kereskedelmet, a piacbefolyásolást és a bennfentes információ jogosulatlan közzétételét elkövető személyt, az 596/2014/EU rendelet szerinti vezetői feladatokat ellátó személyekre és az 596/2014/EU rendelet szerinti velük szoros kapcsolatban álló személyekre vonatkozó bejelentési kötelezettségre vonatkozó szabályokat megsértő személyt és a 61. §-ban foglalt kötelezettséget megsértő részvényest vagy a szavazati jog birtokosát az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban, a Pmt.-ben, valamint a Felügyelet határozatában foglalt kötelezettsége, továbbá a saját szabályzatában foglaltak megszegése, kijátszása, elmulasztása vagy késedelmes teljesítése esetén, továbbá ha azt külföldi felügyeleti hatóság a 399. § (2) bekezdése szerint kezdeményezi, bírság megfizetésére kötelezheti.
 
 (2) A Felügyelet a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-ei 648/2012/EU európai parlamenti és tanácsi rendelet 2. cikk 9. pontja szerinti nem pénzügyi szerződő felet a rendelet 4. és 9–11. cikkében előírt kötelezettsége megsértése esetén bírság megfizetésére kötelezheti.
+
+(2a) A Felügyelet az (EU) 2020/1503 európai parlamenti és tanácsi rendelet szerinti közösségi finanszírozási szolgáltatót, illetve projektgazdát a közösségi finanszírozási szolgáltatásra vonatkozó kötelezettsége megsértése esetén bírság megfizetésére kötelezheti.
 
 (3) Az 596/2014/EU rendelet megsértése esetén a bírság mértéke
 
@@ -3503,6 +3530,13 @@ eltiltja a központi értéktár vezetői feladatainak ellátásától a közpon
 
 (8) A (7) bekezdésben meghatározott bírság esetén a bírság mértéke a jogsértésből származó nyereség vagy az amiatt elkerült veszteség legfeljebb kétszerese, ha a jogsértésből származó nyereség vagy az amiatt elkerült veszteség összegszerűen meghatározható.
 
+(9) A közösségi finanszírozási szolgáltatásra vonatkozó kötelezettség megsértése esetén a kiszabható legnagyobb bírság mértéke
+
+- a) ha a nyereség összegszerűen meghatározható, a jogsértésből származó nyereség kétszerese,
+- b) ha a nyereség összegszerűen nem határozható meg,
+  - ba) jogi személy esetében legfeljebb 179 010 000 forint vagy a döntéshozó szerv által jóváhagyott utolsó rendelkezésre álló pénzügyi beszámoló szerinti előző teljes éves árbevételének legfeljebb 5 százaléka azzal, hogy ha a jogi személy anyavállalat vagy anyavállalat olyan leányvállalata, amelyik a számviteli jogszabályok alapján konszolidált beszámoló készítésére kötelezett, akkor a figyelembe veendő éves árbevétel a legutolsó, az anyavállalat döntéshozó szerve által jóváhagyott konszolidált beszámoló szerinti éves árbevétel vagy a számviteli jogszabályok szerinti, annak megfelelő bevétel,
+  - bb) természetes személy esetében legfeljebb 179 010 000 forint.
+
 ### A bírság összege
 
 406. §
@@ -3527,9 +3561,7 @@ eltiltja a központi értéktár vezetői feladatainak ellátásától a közpon
 
 (5) Az Áttv., a Bat., valamint az Épt. előírásait kell alkalmazni, ha a felügyeleti intézkedés kiszabására okot adó esemény e törvény hatálybalépése előtt következett be.
 
-### Az Európai Unió jogának való megfelelés
-
-407/A. § E törvény az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról szóló, 2014. április 16-i 2014/56/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+407/A. §
 
 ### Átmeneti rendelkezések
 
@@ -3689,6 +3721,8 @@ alakul át.
 450/E. § A 2018. január 3. napja előtt engedélyezett valamely szabályozott piac vezető testületének tagját és ügyvezetőjét úgy kell tekinteni, mint aki megfelel a pénzügyi piacok működését és a pénzügyi eszközök kereskedését szabályozó törvények jogharmonizációs célú módosításáról szóló 2017. évi LXIX. törvénnyel megállapított 310/A. § (1) bekezdésében megállapított követelményeknek.
 
 450/F. § Ha a tájékoztató, illetve a tájékoztató kiegészítése közzétételének engedélyezésére 2019. július 21-ét megelőzően került sor, a IV. Fejezet 2019. július 20-án hatályos rendelkezéseit kell alkalmazni a tájékoztató érvényességének időszaka alatt, de legkésőbb 2020. július 21-ig.
+
+450/G. § A fedezett kötvények szabályozásával összefüggő, valamint egyéb, a pénzügyi közvetítőrendszert érintő jogharmonizációs célú törvénymódosításokról szóló 2021. évi LVIII. törvénnyel megállapított NYOLCADIK/A. RÉSZ rendelkezéseit az (EU) 2020/1503 európai parlamenti és tanácsi rendelet 1. cikk (2) bekezdés c) pontjától eltérően 2023. november 10. napjáig az egymillió eurót meg nem haladó teljes ellenértékű közösségi finanszírozási ajánlatokra kell alkalmazni.
 
 ### Felhatalmazások
 
@@ -4202,10 +4236,10 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 - 2. Az Európai Parlament és a Tanács 2001. május 28-i, 2001/34/EK irányelve az értékpapírok hivatalos tőzsdei jegyzésre történő bevezetéséről és az ilyen értékpapírokról közzéteendő információról.
 - 3. Az Európai Parlament és a Tanács 2002. június 6-i 2002/47/EK irányelve a pénzügyi biztosítékokról szóló megállapodásokról.
 - 4. Az Európai Parlament és a Tanács 2002. december 16-i 2002/87/EK irányelve a pénzügyi konglomerátumhoz tartozó hitelintézetek, biztosítók és befektetési vállalkozások kiegészítő felügyeletéről, valamint a 73/239/EGK, a 79/267/EGK, a 92/96/EGK, a 93/6/EGK és a 93/22/EGK tanácsi, továbbá a 98/78/EK és a 2000/12/EK európai parlamenti és tanácsi irányelv módosításáról.
-- 5.
+- 5. Az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról szóló, 2014. április 16-i 2014/56/EU európai parlamenti és tanácsi irányelv.
 - 6. Az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztatóról és a 2003/71/EK irányelv hatályon kívül helyezéséről szóló, 2017. június 14-i (EU) 2017/1129 európai parlamenti és tanácsi rendelet.
 - 7. Az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet.
-- 8.
+- 8. A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvénnyel és a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvénnyel együtt az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1503 európai parlamenti és tanácsi rendelet.
 - 9. Az Európai Parlament és a Tanács 2004. április 21-i 2004/25/EK irányelve a nyilvános vételi ajánlatról.
 - 10. Az Európai Parlament és a Tanács 2014/65/EU irányelve (2014. május 15.) a pénzügyi eszközök piacairól, valamint a 2002/92/EK irányelv és a 2011/61/EU irányelv módosításáról.
 - 11.
