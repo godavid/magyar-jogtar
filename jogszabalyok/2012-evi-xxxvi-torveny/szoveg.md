@@ -1728,7 +1728,7 @@ országgyűlési köztisztviselő 3. melléklet szerint számított alapilletmé
 
 (4) Az (1) bekezdés szerinti közszolgálati jogviszonyra a Kttv. és a Kttv. végrehajtására kiadott jogszabály közszolgálati jogviszonyra vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(4a) Az Országgyűlés Hivatalánál határozott idejű közszolgálati jogviszony – a Kttv. 38. § (2) bekezdésében foglaltakon túlmenően – az Országgyűlés 1. § a)–c) pontjában meghatározott tisztségviselő munkájának segítésére – a tisztségviselő megbízatásának időtartamára figyelemmel, ismételt határozott idejű kinevezés keretében is – létesíthető.
+(4a) Az Országgyűlés Hivatalánál határozott idejű közszolgálati jogviszony – a Kttv. 38. § (2) bekezdésében foglaltakon túlmenően – az Országgyűlés 1. § a)–c) pontjában meghatározott tisztségviselője, valamint a nemzetbiztonsággal foglalkozó állandó bizottság elnöke munkájának segítésére – a tisztségviselő, valamint a bizottság elnöke megbízatásának időtartamára figyelemmel, ismételt határozott idejű kinevezés keretében is – létesíthető.
 
 (5) A főigazgató, továbbá az Országgyűlés Hivatalának Szervezeti és Működési Szabályzatában meghatározott hivatali szervek (a továbbiakban: hivatali szervek) vezetői felett a munkáltatói jogokat a házelnök gyakorolja a 2. § (2) bekezdés k) pontja szerint, az Országgyűlés Hivatalának további köztisztviselői, munkavállalói feletti munkáltatói jogokat a főigazgató – a Szervezeti és Működési Szabályzatban meghatározottak szerint – gyakorolja.
 
