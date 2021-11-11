@@ -602,6 +602,8 @@ feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő 
 
 (5) Előzetes piaci konzultációt az ajánlatkérő – más módszerek mellett – úgy is megvalósíthat, hogy a műszaki leírás tervezetét és a szerződéstervezetet az EKR-ben előzetesen közzéteszi, amelynek véleményezésére az érdeklődő gazdasági szereplők számára lehetőséget biztosít.
 
+(6) Az előzetes piaci konzultáció kötelező alkalmazásának eseteit és feltételeit kormányrendelet állapítja meg.
+
 ### Közös közbeszerzési eljárások
 
 29. § (1) Az ajánlatkérő más ajánlatkérőt is meghatalmazhat azzal, hogy a nevében közbeszerzési eljárást folytasson le. Ez azonban nem eredményezheti a meghatalmazást adó ajánlatkérőre e törvény alapján alkalmazandó szabályok megkerülését.
@@ -824,6 +826,8 @@ feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő 
 (4) Az ajánlatkérő köteles a Közbeszerzési Hatóság vagy a jogszabályban az ajánlatkérő ellenőrzésére feljogosított szerv kérésére a közbeszerzési tervét megküldeni.
 
 (5) A közbeszerzési terv minimális adattartalmát e törvény felhatalmazása alapján alkotott jogszabály határozza meg.
+
+(6) Kormányrendeletben meghatározott feltételek teljesülése esetén az ajánlatkérő a közbeszerzési tervével egyidejűleg – vagy ha közbeszerzési terv készítésére nem köteles, az adott év március 31. napjáig – intézkedési tervet tesz közzé, amelyben bemutatja azokat az intézkedéseket, amelyekkel az általa lefolytatandó közbeszerzési eljárásokban a verseny szintjének növelését segíti elő.
 
 43. § (1) Az ajánlatkérő köteles az EKR-en keresztül a Közbeszerzési Hatóság által működtetett nyilvános elektronikus szerződéstárban (a továbbiakban: CoRe), valamint az EKR-ben közzétenni
 
@@ -2111,7 +2115,7 @@ ajánlattevőt kell ajánlattételre felhívnia.
 - k) közfoglalkoztató által közfoglalkoztatási jogviszony keretében előállított áruk, teljesített szolgáltatások, illetve építési beruházások beszerzésére;
 - l) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzforgalmi szolgáltatás igénybevételére;
 - m) a postai szolgáltatást vagy a postai szolgáltató által nyújtott postai szolgáltatásoktól eltérő szolgáltatást nyújtó szervezet beszerzései vonatkozásában;
-- n) kulturális javak körébe tartozó tárgyak vételére és a rájuk vonatkozó egyéb jogok megszerzésére, valamint hangszerek, hangszertartozékok és hangszeralkatrészek beszerzésére;
+- n) nyomtatott és elektronikus könyvek, újságok, folyóiratok, időszakos kiadványok, valamint az elsődlegesen az előbbieket tartalmazó, kutatási, közművelődési vagy oktatási célt szolgáló elektronikus adatbázisok, illetve azok felhasználására vonatkozó jogok, a kulturális javak körébe tartozó tárgyak és rájuk vonatkozó jogok megszerzésére, hangszerek, hangszertartozékok és hangszeralkatrészek beszerzésére;
 - o) az Országgyűlésről szóló 2012. évi XXXVI. törvény 113. §-ában és 114. § (3) bekezdésében meghatározott keret terhére történő beszerzések vonatkozásában;
 - p) olyan szolgáltatás megrendelése esetében, amely a pártok működését segítő tudományos, ismeretterjesztő, kutatási, oktatási tevékenységet végző alapítványokról szóló 2003. évi XLVII. törvény 1. §-a alapján létrehozott alapítvány alapító okiratában meghatározott tudományos, ismeretterjesztő, kutatási vagy oktatási tevékenység végzésére irányul, vagy azt közvetlenül segíti;
 - q) a külképviselet számára történő beszerzés esetén;
@@ -3646,7 +3650,7 @@ indult eljárásban kell alkalmazni.
 - 17. a védett munkahelyek, a fejlesztő foglalkoztatók, és a hátrányos helyzetű munkavállalókat foglalkoztató szervezetek részére fenntartott közbeszerzések kötelező eseteit;
 - 18. a NATO Biztonsági Beruházási Programja, valamint az egyéb közös finanszírozású NATO támogatott programok keretében megvalósuló beszerzésre vonatkozó részletes szabályokat;
 - 19. a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakítására, a közbeszerzési tárgyú képzések irányítására, felügyeletére és ellenőrzésére vonatkozó szabályokat;
-- 20.
+- 20. az előzetes piaci konzultáció kötelező alkalmazásának eseteit és feltételeit, a közbeszerzési eljárásokban a verseny szintjének növelése érdekében hozandó intézkedési terv közzétételére irányuló kötelezettség feltételeit, valamint a közbeszerzésekben a verseny javítása érdekében szükséges monitoring és szervezeti intézkedések szabályait;
 - 21. a tömeges bevándorlás okozta válsághelyzettel összefüggő intézkedésekhez kapcsolódó beszerzésekre vonatkozó sajátos szabályokat;
 - 22. a felelős akkreditált közbeszerzési szaktanácsadók tevékenységére, a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező közbeszerzési gyakorlatra és annak igazolására, a felelős akkreditált közbeszerzési szaktanácsadók nyilvántartásba vételére, a nyilvántartásba vétel folyamatára, a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékére, annak vezetésére, a névjegyzékbe vétel feltételeire, a felelős akkreditált közbeszerzési szaktanácsadók szakmai testületére, valamint a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat;
 - 23. a közétkeztetés tárgyú közbeszerzések – e törvénytől az ilyen eljárások sajátosságai miatt szükséges eltérő – sajátos szabályait.

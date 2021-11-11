@@ -316,7 +316,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 28. § (1) A helyi önkormányzati képviselő (a továbbiakban: önkormányzati képviselő) megbízatása, jogai és kötelezettségei a megválasztásával keletkeznek, a megbízatás megszűnésével szűnnek meg.
 
-(2) Ha a listáról megválasztott önkormányzati képviselő nem veszi át a megbízólevelét, jelöltként továbbra is a listán marad. A lista alapján a helyi önkormányzati képviselők következő általános választásáig a helyi önkormányzati képviselők és polgármesterek választásáról szóló 2010. évi L. törvény 21. § (2) bekezdése alapján képviselői megbízatást szerezhet, ha a megbízólevelét át nem vevő jelöltön kívül a listán szereplő valamennyi jelölt kiesett.
+(2) Ha a listáról megválasztott önkormányzati képviselő nem veszi át a megbízólevelét, jelöltként továbbra is a listán marad. A lista alapján a helyi önkormányzati képviselők következő általános választásáig a helyi önkormányzati képviselők és polgármesterek választásáról szóló 2010. évi L. törvény 21. § (2) bekezdése alapján képviselői megbízatást szerezhet.
 
 (3) Az önkormányzati képviselő a képviselő-testület alakuló ülésén, időközi választás esetén a megválasztását követő ülésen a képviselő-testület előtt az 1. melléklet szerinti szöveggel esküt tesz és erről okmányt ír alá.
 
@@ -406,6 +406,8 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 - i) médiatartalom-szolgáltató természetes személy, jogi személy, gazdasági társaság legfőbb szervének, ügyvezetésének tagja, személyes közreműködője, képviselet ellátására jogosultja.
 
 (2) A települési önkormányzati képviselő nem lehet a megyei közgyűlés elnöke, alelnöke, főpolgármester, főpolgármester-helyettes.
+
+(3) Fővárosi kerületi önkormányzati képviselő csak akkor lehet egyidejűleg a fővárosi közgyűlésnek a fővárosi kompenzációs listáról mandátumot szerzett tagja is, ha a kerületi önkormányzati képviselői mandátumát egyéni választókerületben szerezte.
 
 ### Összeférhetetlenségi eljárás
 
@@ -1570,7 +1572,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 146/F. § Azon 3000 fő és ez alatti lakosságszámú település polgármesterére, akivel szemben az összeférhetetlenség a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosításáról szóló 2016. évi CLXXXV. törvény hatálybalépését megelőző napon hatályos 72. § (2) bekezdése alapján merült fel, az összeférhetetlenség jogkövetkezményeit nem kell alkalmazni.
 
-146/G. § E törvénynek a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosításáról szóló 2020. évi VII. törvénnyel (a továbbiakban: Módtv.) megállapított 28. § (2) bekezdését a helyi önkormányzati képviselők és polgármesterek 2019. október 13-i választásán listáról mandátumot szerzett, de arról a Módtv. hatálybalépését megelőzően lemondott önkormányzati képviselő esetén is alkalmazni kell akkor, ha a lemondott jelöltön vagy jelölteken kívül a listán szereplő valamennyi jelölt kiesett.
+146/G. § E törvénynek az egyes közjogi tárgyú törvények módosításáról szóló 2021. évi CXIII. törvénnyel módosított 28. § (2) bekezdését a helyi önkormányzati képviselők és polgármesterek 2019. október 13-i választásán listáról mandátumot szerzett önkormányzati képviselők esetén is alkalmazni kell.
 
 146/H. § E törvénynek a Módtv.-vel megállapított 72. § (2) bekezdés c) pontját a Módtv. hatálybalépését megelőzően megválasztott polgármesterre is alkalmazni kell.
 
