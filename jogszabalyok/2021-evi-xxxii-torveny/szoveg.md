@@ -84,7 +84,7 @@ kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogsz
 
 #### 5. A Hatóság elnöke és elnökhelyettesei
 
-7. § (1) A Hatóság elnökét a miniszterelnök kilenc évre nevezi ki. Az elnök a megbízatási idejének lejártát követően egy alkalommal ismételten kinevezhető.
+7. § (1) A Hatóság elnökét a miniszterelnök javaslatára a köztársasági elnök kilenc évre nevezi ki. Az elnök a megbízatási idejének lejártát követően egy alkalommal ismételten kinevezhető.
 
 (2) A Hatóság legfeljebb négy elnökhelyettesét a Hatóság elnöke kilenc évre nevezi ki. Az elnökhelyettes megbízatási idejének lejártát követően ismételten kinevezhető.
 
@@ -111,38 +111,39 @@ kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogsz
 - b) 70. életéve betöltésével,
 - c) halálával,
 - d) lemondásával,
-- e) felmentésével.
+- e) a (4) bekezdés szerinti felmentésével.
 
-(2) A Hatóság elnöke jogviszonyának megszűnését az (1) bekezdés a)–d) pontja esetén a miniszterelnök állapítja meg.
+(2) A Hatóság elnöke jogviszonyának megszűnését az (1) bekezdés a)–d) pontja esetén a köztársasági elnök állapítja meg.
 
-(3) A Hatóság elnöke a miniszterelnökhöz intézett írásos nyilatkozattal tisztségéről bármikor lemondhat. Lemondás esetén a lemondási idő 60 nap. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges. A lemondást nem kell indokolni.
+(3) A Hatóság elnöke a köztársasági elnökhöz intézett írásos nyilatkozattal tisztségéről bármikor lemondhat. Lemondás esetén a lemondási idő 60 nap. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges. A lemondást nem kell indokolni.
 
-(4) A miniszterelnök felmenti a Hatóság elnökét,
+(4) A köztársasági elnök felmenti a Hatóság elnökét,
 
 - a) ha a 12. § (1) bekezdése szerinti összeférhetetlenséget a kinevezését, illetve az összeférhetetlenség okának felmerülését követő 30 napon belül nem szünteti meg,
 - b) ha a kinevezését követően beállott körülmény folytán a kinevezés feltételei már nem állnak fent,
 - c) az ítélet jogerőre emelkedésének napjával, ha a Hatóság elnökével szemben lefolytatott büntetőeljárás eredményeként az elnök bűnösségét a bíróság – szabadságvesztés vagy az elnök tevékenységének megfelelő foglalkoztatástól eltiltás büntetést tartalmazó – jogerős ítélete állapította meg,
 - d) ha cselekvőképességet érintő gondnokság alá helyezték, vagy
-- e) ha neki felróható okból, több mint 90 napon át nem tesz eleget megbízatásából eredő kötelezettségeinek.
+- e) ha neki felróható okból, több mint hat hónapon át nem tesz eleget megbízatásából eredő kötelezettségeinek.
 
 10. § (1) A Hatóság elnökhelyettesének megbízatása megszűnik
 
 - a) a kinevezési időtartam lejártával,
-- b) 70. életéve betöltésével,
-- c) halálával,
-- d) lemondásával,
-- e) felmentésével
-- f) közös megegyezéssel.
+- b) halálával,
+- c) az elnök általi (3) bekezdés szerinti felmentéssel,
+- d) az elnök általi (4) bekezdés szerinti visszahívással,
+- e) lemondásával,
+- f) az elnök és az elnökhelyettes közös megegyezésével.
 
 (2) A Hatóság elnökhelyettese a Hatóság elnökéhez intézett nyilatkozatával bármikor lemondhat tisztségéről. Lemondás esetén a lemondási idő 60 nap. A lemondást nem kell indokolni, és érvényességéhez elfogadó nyilatkozat nem szükséges.
 
 (3) A Hatóság elnöke felmenti a Hatóság elnökhelyettesét,
 
 - a) ha a 12. § (1) bekezdése szerinti összeférhetetlenséget a kinevezését, illetve az összeférhetetlenség okának felmerülését követő 30 napon belül nem szünteti meg,
-- b) ha a kinevezését követően beállott körülmény folytán a kinevezés feltételei már nem állnak fent,
-- c) az ítélet jogerőre emelkedésének napjával, ha a Hatóság elnökhelyettesével szemben lefolytatott büntetőeljárás eredményeként az elnökhelyettes bűnösségét a bíróság – szabadságvesztés vagy az elnökhelyettes tevékenységének megfelelő foglalkozástól eltiltás büntetést tartalmazó – jogerős ítélete állapította meg,
-- d) ha cselekvőképességet érintő gondnokság alá helyezték, vagy
-- e) ha neki felróható okból, több mint 90 napon át nem tesz eleget megbízatásából eredő kötelezettségeinek.
+- b) az ítélet jogerőre emelkedésének napjával, ha a Hatóság elnökhelyettesével szemben lefolytatott büntetőeljárás eredményeként az elnökhelyettes bűnösségét a bíróság – szabadságvesztés vagy az elnökhelyettes tevékenységének megfelelő foglalkozástól eltiltás büntetést tartalmazó – jogerős ítélete állapította meg,
+- c) ha cselekvőképességet érintő gondnokság alá helyezték, vagy
+- d) ha neki felróható okból, több mint hat hónapon át nem tesz eleget megbízatásából eredő kötelezettségeinek.
+
+(4) Az elnök visszahívással is megszüntetheti az elnökhelyettes megbízását. A visszahívást nem kell indokolni.
 
 11. § (1) A Hatóság elnöke jogviszonyának a 9. § (1) bekezdés a) és b) pontja, valamint elnökhelyettese jogviszonyának a 10. § (1) bekezdés a) és b) pontja szerinti megszűnése esetén megszűnéskori havi illetménye kétszeresének megfelelő összegű végkielégítésre jogosult. Ha a Hatóság elnöke, illetve elnökhelyettese három évnél rövidebb ideig töltötte be tisztségét, úgy a (2) bekezdésben meghatározott tilalom a megbízatás megszűnésétől számított hat hónapig áll fenn, és ebben az esetben egyhavi illetménye illeti meg végkielégítésként.
 
