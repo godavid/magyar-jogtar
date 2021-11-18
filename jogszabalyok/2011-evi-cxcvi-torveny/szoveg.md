@@ -106,6 +106,8 @@ Magyarország Alaptörvénye rögzíti, hogy az állam és a helyi önkormányza
 - b) törvény vagy a helyi önkormányzat rendelete nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősít (az a) és b) pont a továbbiakban együtt: forgalomképtelen törzsvagyon),
 - c) törvény vagy a helyi önkormányzat rendelete korlátozottan forgalomképes vagyonelemként állapít meg.
 
+(2a) Helyi önkormányzat rendelete lakáscélú épületet forgalomképtelen törzsvagyonnak nem minősíthet, a korábbi ilyen minősítés pedig e rendelkezés hatályba lépésével megszűnik.
+
 (3) A helyi önkormányzat kizárólagos tulajdonát képező nemzeti vagyonba tartoznak
 
 - a) a helyi közutak és műtárgyaik,

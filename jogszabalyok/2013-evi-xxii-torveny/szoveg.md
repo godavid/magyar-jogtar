@@ -178,7 +178,7 @@ az eljárás végleges döntéssel történő befejezését vagy az ügy lezár�
 
 #### 4. A Hivatal elnöke és elnökhelyettesei
 
-6. § (1) A Hivatal elnökét a miniszterelnök hét évre nevezi ki. Az elnök egy alkalommal ismételten kinevezhető.
+6. § (1) A Hivatal elnökét a miniszterelnök javaslatára a köztársasági elnök hét évre nevezi ki. Az elnök egy alkalommal ismételten kinevezhető.
 
 (2) A Hivatal legfeljebb öt elnökhelyettesét a Hivatal elnöke hét évre nevezi ki. Az elnökhelyettes ismételten kinevezhető.
 
@@ -206,11 +206,11 @@ az eljárás végleges döntéssel történő befejezését vagy az ügy lezár�
 - a) a kinevezési időtartam lejártával,
 - b) halálával,
 - c) lemondásával,
-- d) felmentésével.
+- d) a köztársasági elnök általi, (3) bekezdés szerinti felmentésével.
 
-(2) A Hivatal elnöke jogviszonyának megszűnését az (1) bekezdés a)–c) pontja esetén a miniszterelnök állapítja meg.
+(2) A Hivatal elnöke jogviszonyának megszűnését az (1) bekezdés a)–c) pontja esetén a köztársasági elnök a miniszterelnök javaslata alapján állapítja meg.
 
-(3) A miniszterelnök – a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvény szerinti indokolási kötelezettség mellett – felmenti az elnököt,
+(3) A köztársasági elnök – a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló törvény szerinti indokolási kötelezettség mellett – felmenti az elnököt,
 
 - a) ha a 11. § (1) bekezdése szerinti összeférhetetlenséget a kinevezését, illetve az összeférhetetlenség okának felmerülését követő 30 napon belül nem szünteti meg,
 - b) az ítélet jogerőre emelkedésének napjával, ha az elnökkel szemben lefolytatott büntetőeljárás eredményeként az elnök bűnösségét a bíróság – szabadságvesztés vagy az elnök tevékenységének megfelelő foglalkoztatástól eltiltás büntetést tartalmazó – jogerős ítélete állapította meg,

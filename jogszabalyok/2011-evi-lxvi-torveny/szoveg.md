@@ -215,7 +215,7 @@ jogszabályok előkészítésében.
 
 (13) Ha az Állami Számvevőszék alelnökének megbízatása megszűnik, jogosult az e megbízatására utaló megnevezést használni, feltéve, hogy a megbízatása nem összeférhetetlenség megállapításával vagy kizárással szűnt meg.
 
-(14) Az Állami Számvevőszék Szervezeti és Működési Szabályzata által kijelölt alelnöke az elnök akadályoztatása esetén az elnök által szabályozott jogkörben gyakorolja az elnök jogait és ellátja kötelezettségeit. A kijelölt alelnök helyettesítési jogkörben nem jogosult a 13. § (2) bekezdés a) és b) pontjában foglalt feladatok ellátására, azonban a már meghatározott ellenőrzési terv és stratégia végrehajtásáról gondoskodni köteles. Az Állami Számvevőszék kijelölt alelnöke nem helyettesítheti az elnököt a Költségvetési Tanácsban.
+(14) Az Állami Számvevőszék elnökének 60 napot meghaladó akadályoztatása esetén az elnök által kijelölt alelnök, az Állami Számvevőszék Szervezeti és Működési Szabályzatában meghatározott jogkörben gyakorolja az elnök jogait és ellátja kötelezettségeit. A kijelölt alelnök általános helyettesítési jogkörében nem jogosult a 13. § (2) bekezdés a), b) és d) pontjában foglalt feladatok ellátására, azonban a már meghatározott ellenőrzési terv és stratégia végrehajtásáról gondoskodni köteles. Az Állami Számvevőszék kijelölt alelnöke nem helyettesítheti az elnököt a Költségvetési Tanácsban.
 
 (15) Az Állami Számvevőszék alelnökeinek feladatait az Állami Számvevőszék Szervezeti és Működési Szabályzata határozza meg.
 
