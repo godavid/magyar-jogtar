@@ -16,6 +16,8 @@ a választási eljárásról
 - d) az Európai Parlament tagjainak választásán,
 - e) abban az eljárásban, amelyre e törvény alkalmazását törvény elrendeli [az a)–e) pontban meghatározottak a továbbiakban együtt: választás].
 
+1/A. § Ha több választást azonos napon kell megtartani, azokat egy eljárásban (a továbbiakban: közös eljárás) kell lebonyolítani.
+
 #### 2. A választási eljárás alapelvei
 
 2. § (1) A választási eljárás szabályainak alkalmazása során érvényre kell juttatni a következő alapelveket:
@@ -1158,6 +1160,8 @@ kell benyújtani.
 
 (2) A szavazóköri névjegyzékkel kapcsolatos kérelmet a szavazást megelőző hatvanhatodik naptól lehet benyújtani.
 
+(3) Közös eljárás esetén a szavazóköri névjegyzékkel kapcsolatos kérelem, a 88. § szerinti segítség iránti igény és a 89. § szerinti adatkiadás megtiltása iránti kérelem a közös eljárás minden választására vonatkozik.
+
 111. § A levélben benyújtott kérelemnek a kérelem benyújtására meghatározott határidőben kell beérkeznie a választási irodába.
 
 #### 56. A szavazóköri névjegyzékkel kapcsolatos kérelem elbírálása
@@ -1195,6 +1199,8 @@ kell benyújtani.
 - k) a választással kapcsolatos tájékoztatást.
 
 (4) A választópolgár – ha nem kapja meg az értesítőt, az megsemmisül vagy elvész – a helyi választási irodától új értesítőt igényelhet.
+
+(5) Közös eljárás esetén a választási iroda közös értesítő megküldésével tájékoztatja a választópolgárt a szavazóköri névjegyzékbe vételről.
 
 116. § (1) A helyi választási iroda értesítő átadásával vagy megküldésével tájékoztatja a szavazóköri névjegyzékbe történt felvételéről azt a választópolgárt, aki a szavazás napját megelőző hatvanhetedik napot követően kerül a település szavazóköri névjegyzékébe.
 
@@ -2197,6 +2203,8 @@ beérkezett kérelme alapján a választópolgár nemzetiséghez tartozását a 
 
 (7) Azt a választópolgárt, aki átjelentkezési és mozgóurna iránti kérelmet is benyújtott, a mozgóurna iránti kérelmének visszavonása esetén – eltérő nyilatkozata hiányában – az átjelentkezés helye szerinti szavazókör névjegyzékébe kell felvenni. A (6) bekezdés szerinti mozgóurna iránti kérelem visszavonása esetén a választópolgárt – eltérő nyilatkozata hiányában – a lakcíme szerinti szavazókör névjegyzékébe kell felvenni.
 
+(8) Közös eljárás esetén az átjelentkezésre irányuló kérelem a közös eljárás minden választására vonatkozik.
+
 #### 112. A megismételtetett szavazás névjegyzéke
 
 251. § Ha a választási bizottság vagy a bíróság megismételteti a szavazást a szavazókörben, az ismételt szavazáson nem szerepelnek a szavazóköri névjegyzékben azok sem, akik a megismételtetett szavazáson a külképviseleti névjegyzékben vagy a levélben szavazók névjegyzékében szerepeltek.
@@ -2264,6 +2272,8 @@ ingyenesen átadja a jelölő szervezetként jogerősen nyilvántartásba vett o
 a szavazatszámláló bizottság egy egyéni választókerületi szavazólapot ad át.
 
 (2) Az átjelentkezéssel szavazó választópolgár a lakcíme szerinti országgyűlési egyéni választókerület szavazólapján és az országos listás szavazólapon szavaz. A szavazólapok elhelyezésére szolgáló borítékon az országgyűlési egyéni választókerület megjelölése szerepel. A választópolgár a szavazólapokat a borítékba helyezi, és a borítékot lezárja.
+
+(2a) Közös eljárás esetén az átjelentkezéssel szavazó választópolgár a lakcíme szerinti országgyűlési egyéni választókerület szavazólapját, az országos listás szavazólapot, és a közös eljárásban lebonyolított további választás szavazólapját borítékba helyezi, és a borítékot lezárja. A szavazólapok elhelyezésére szolgáló borítékon az országgyűlési egyéni választókerület megjelölése szerepel.
 
 (3) A kijelölt szavazókör szavazatszámláló bizottsága a mozgóurnás szavazás lebonyolítását az átjelentkezéssel szavazó választópolgárok és a települési szintű lakóhellyel rendelkező választópolgárok tekintetében a település egészére kiterjedő illetékességgel végzi.
 
@@ -2368,6 +2378,8 @@ a szavazatszámláló bizottság egy egyéni választókerületi szavazólapot a
 - c) a levélben szavazás szavazólapjának borítékját (a továbbiakban: belső boríték),
 - d) a postára adás esetére bérmentesített borítékot (a továbbiakban: külső boríték),
 - e) a szavazás módjáról szóló tájékoztatást.
+
+(1a) Közös eljárás esetén a szavazási levélcsomag az (1) bekezdésben foglaltakon kívül tartalmazza a közös eljárásban lebonyolított további választás szavazólapját.
 
 (2) A szavazási levélcsomag külső borítékjának címzése a Nemzeti Választási Iroda címét tartalmazza.
 

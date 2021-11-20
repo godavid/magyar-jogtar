@@ -158,6 +158,7 @@ továbbá az aláírásgyűjtő ívet az aláírásával látja el.
 - d) állami, helyi és nemzetiségi önkormányzati szervek hivatali helyiségében,
 - e) egészségügyi szolgáltató helyiségében,
 - f) felsőoktatási és köznevelési intézményben.
+- g) a tulajdonos előzetes, írásbeli hozzájárulásának hiányában közforgalom számára nyitva álló magánterületen.
 
 (3) Az aláírásért az aláíró választópolgár részére előnyt adni vagy ígérni tilos. Az aláíró választópolgár az aláírásért nem kérhet előnyt, illetve nem fogadhat el előnyt vagy annak ígéretét.
 
@@ -538,7 +539,13 @@ szervezhet.
 
 ### V. Fejezet — AZ ORSZÁGOS NÉPSZAVAZÁSI ELJÁRÁS
 
-65. § Az országos népszavazási eljárásban az e fejezetben foglalt eltérésekkel alkalmazni kell a Ve. 244. § (2) bekezdésének, 245. § (1) bekezdés a), c) és d) pontjának, valamint (2)–(5) bekezdésének, 247. § (1) és (3) bekezdésének, 250. §-ának, 251. §-ának, 256. § (2) bekezdésének, 257. § (3) bekezdésének, 257/A. §-ának, 257/B. §-ának, 258. § (1) bekezdésének, 259–263. §-ának, 266–270. §-ának, 271. § (2) bekezdésének, 272–274. §-ának, 275. §-ának, 277–281. §-ának, 283–285. §-ának, 288–291. §-ának, 293. §-ának, 295. §-ának, 297. §-ának, 298. §-ának, valamint 341/A. §-ának rendelkezéseit is.
+65. § (1) Az országos népszavazási eljárásban az e fejezetben foglalt eltérésekkel alkalmazni kell a Ve. 244. § (2) bekezdésének, 245. § (1) bekezdés a), c) és d) pontjának, valamint (2)–(5) bekezdésének, 247. § (1) és (3) bekezdésének, 250. §-ának, 251. §-ának, 256. § (2) bekezdésének, 257. § (3) bekezdésének, 257/A. §-ának, 257/B. §-ának, 258. § (1) bekezdésének, 259–263. §-ának, 266–270. §-ának, 271. § (2) bekezdésének, 272–274. §-ának, 275. §-ának, 277–281. §-ának, 283–285. §-ának, 288–291. §-ának, 293. §-ának, 295. §-ának, 297. § (1) és (3) bekezdésének, 298. §-ának, valamint 341/A. §-ának rendelkezéseit is.
+
+(2) Az országgyűlési képviselők általános választásával azonos napon tartott országos népszavazási eljárásban (a továbbiakban: közös eljárás) a köztársasági elnök, a Kormány által kezdeményezett népszavazás esetén a 68. §-t és a 70. § (1) és (2) bekezdését nem kell alkalmazni.
+
+(3) Közös eljárás esetén a 76. §-ban és a 77. § (2) bekezdés b) pontjában foglalt rendelkezéseket nem kell alkalmazni.
+
+(4) Közös eljárás esetén a Ve. 282. §-ának, 286. §-ának, 287. §-ának és 292. §-ának rendelkezéseit is alkalmazni kell.
 
 66. § A szavazás, az eredmény megállapítása és a jogorvoslat során a népszavazásra feltett minden kérdést külön-külön kell figyelembe venni.
 
@@ -554,7 +561,7 @@ szervezhet.
 - b) annak időpontjáig legalább ötven nap van hátra, és
 - c) az újabb kérdésben történő népszavazás egyidejű megtartása a szavazás lebonyolításának törvényességét nem veszélyezteti.
 
-(3) Az országgyűlési képviselők, az Európai Parlament tagjai, valamint a helyi önkormányzati képviselők és polgármesterek általános választásának napjára, továbbá az azt megelőző és követő 41 napon belüli időpontra nem tűzhető ki országos népszavazás. Ha az országos népszavazást emiatt nem lehet kitűzni, az országos népszavazást a választást követő 131 napon belüli időpontra kell kitűzni.
+(3)
 
 (4) A népszavazás elrendeléséről és a népszavazás időpontjának kitűzéséről szóló határozatot a Magyar Közlönyben közzé kell tenni.
 
@@ -590,9 +597,17 @@ szervezhet.
 
 (2) Az adatszolgáltatás teljesítésének feltétele, hogy a kezdeményezés szervezői, illetve az országgyűlési képviselőcsoporttal rendelkező párt igazolja a kötelező legkisebb munkabér tíz havi összegének megfelelő összegű adatszolgáltatási díjnak a Nemzeti Választási Iroda számlájára történt befizetését.
 
+(3) Közös eljárás esetén a szavazóköri névjegyzékben szereplő választópolgárok nevét és lakcímét – a Ve. 89. § rendelkezéseire is figyelemmel – a Nemzeti Választási Iroda legkorábban a népszavazás napját megelőző harminchatodik napon átadja.
+
+(4) Közös eljárás esetén az adatszolgáltatás teljesítésének feltétele, hogy a – magánszemély szervező kivételével – az adatszolgáltatásra jogosult igazolja a kötelező legkisebb munkabér kilencvenhárom havi összegének megfelelő összegű adatszolgáltatási díjnak a Nemzeti Választási Iroda számlájára történt befizetését.
+
+(5) A magánszemély szervező a (4) bekezdésében megjelölt adatszolgáltatási díj 25%-ának megfelelő díj befizetését köteles igazolni.
+
+(6) Az országgyűlési képviselőcsoporttal rendelkező párt a közös eljárásban a népszavazási kampányban való, Ve. 155. § (1) bekezdése szerinti részvétel céljából felhasználhatja az országos listát állító jelölő szervezetként igényelt és megkapott adatszolgáltatást.
+
 #### 25. A szavazólap adattartalma
 
-71. § (1) Egy szavazólapon csak egy kérdés szerepelhet.
+71. § (1) Egy szavazólapon csak egy kérdés szerepelhet, kivéve, ha a népszavazás kezdeményezője – választópolgári kezdeményezés esetén szervezője – azonos.
 
 (2) Az országos népszavazás szavazólapja tartalmazza
 
@@ -600,10 +615,10 @@ szervezhet.
 - b) a bélyegzőlenyomat elhelyezésére szolgáló terület megjelölését a szavazólap bal felső sarkában,
 - c) az országos népszavazás megnevezést,
 - d) az országos népszavazás napját,
-- e) annak megjelölését, hogy érvényesen szavazni csak egy válaszra lehet,
-- f) az országos népszavazásra feltett kérdést,
-- g) az igen és nem válaszlehetőséget,
-- h) a szavazásra szolgáló kört,
+- e) annak megjelölését, hogy érvényesen szavazni – kérdésenként – csak egy válaszra lehet,
+- f) az országos népszavazásra feltett kérdést, több kérdés esetén az elrendelés sorrendjében, a kérdés sorszámának feltüntetésével,
+- g) kérdésenként az igen és nem válaszlehetőséget,
+- h) kérdésenként a szavazásra szolgáló köröket,
 - i) az érvényes szavazat formájára vonatkozó tájékoztatást.
 
 (3) A szavazólap adattartalmát a Nemzeti Választási Bizottság hagyja jóvá legkésőbb a szavazás napját megelőző negyvenötödik napon.
@@ -622,7 +637,12 @@ szervezhet.
 
 #### 29. A szavazatszámlálás
 
-75. § A Ve. 193. §, 195. §, valamint 197. § rendelkezéseinek alkalmazása során jelöltön választ kell érteni.
+75. § (1) A Ve. 193. §, 195. §, valamint 197. § rendelkezéseinek alkalmazása során jelöltön választ kell érteni.
+
+(2) Ha egy szavazólapon több kérdés szerepel, akkor
+
+- a) a Ve. 193. § (1) bekezdés b) és c) pontjának rendelkezéseit nem kell alkalmazni,
+- b) kérdésenként kell vizsgálni a szavazatok érvényességét: érvénytelen a szavazat, ha az adott kérdésre vonatkozóan nem tartalmaz érvényes szavazatot a szavazólap vagy ha a választópolgár mindkét válaszra leadott szavazatot.
 
 76. § A külképviseleten leadott szavazatokat a Nemzeti Választási Bizottság felügyelete mellett a Nemzeti Választási Iroda számlálja meg. A számlálást nem lehet megkezdeni a szavazás napján 19 órát megelőzően.
 
@@ -644,11 +664,15 @@ alapján megállapítja a választás eredményét.
 
 #### 31. A jogorvoslat
 
-79. § (1) Az országos népszavazási eljárásban a jogorvoslat benyújtására és elbírálására rendelkezésre álló határidő öt nap. Ha a határidő utolsó napja nem munkanapra esik, a határidő csak az azt követő legközelebbi munkanapon jár le.
+79. § (1) Az országos népszavazási eljárásban a jogorvoslat benyújtására és elbírálására rendelkezésre álló határidő öt nap, közös eljárás esetén három nap. Ha a határidő utolsó napja nem munkanapra esik, a határidő – közös eljárás kivételével – csak az azt követő legközelebbi munkanapon jár le.
 
-(2) A médiaszolgáltatók és a sajtó, illetve a filmszínházak választási kampányban való részvételével kapcsolatos kifogást a Nemzeti Választási Bizottság bírálja el. Körzeti és helyi, illetve lekérhető médiaszolgáltatással vagy nem országosan terjesztett sajtótermékkel kapcsolatos kifogást a médiatartalom-szolgáltató székhelye vagy lakóhelye szerint illetékes országgyűlési egyéni választókerületi választási bizottság bírálja el.
+(2) Az országgyűlési egyéni választókerületi választási bizottság dönt minden olyan jogsértés miatti kifogásról, amely csak az egyéni választókerület területén fejti ki hatását.
 
-(3) A Ve. 233. § alkalmazása során az alkotmányjogi panasz benyújtására és az Alkotmánybíróság döntéseire rendelkezésre álló határidő öt munkanap.
+(3) A Nemzeti Választási Bizottság dönt minden olyan kifogásról, amely nem tartozik a (2) bekezdés alá.
+
+(4) A médiaszolgáltatók és a sajtó, illetve a filmszínházak választási kampányban való részvételével kapcsolatos kifogást a Nemzeti Választási Bizottság bírálja el. Körzeti és helyi, illetve lekérhető médiaszolgáltatással vagy nem országosan terjesztett sajtótermékkel kapcsolatos kifogást a médiatartalom-szolgáltató székhelye vagy lakóhelye szerint illetékes országgyűlési egyéni választókerületi választási bizottság bírálja el. E rendelkezés közös eljárás esetén is alkalmazandó.
+
+(5) A Ve. 233. § alkalmazása során az alkotmányjogi panasz benyújtására és az Alkotmánybíróság döntéseire rendelkezésre álló határidő öt munkanap; közös eljárás esetén az alkotmányjogi panasz benyújtására rendelkezésre álló határidő három nap, az Alkotmánybíróság döntéseire rendelkezésre álló határidő három munkanap.
 
 ### VI. Fejezet — A HELYI NÉPSZAVAZÁSI ELJÁRÁS
 
@@ -773,7 +797,7 @@ alapján megállapítja a választás eredményét.
 95. § E törvény
 
 - a) 69. §-a az Alaptörvény IX. cikk (3) bekezdése alapján,
-- b) 79. § (3) bekezdése, 98. §-a és 101. § (3) bekezdése az Alaptörvény 24. cikk (9) bekezdése alapján,
+- b) 79. § (5) bekezdése, 98. §-a és 101. § (3) bekezdése az Alaptörvény 24. cikk (9) bekezdése alapján,
 - c) 99. §-a az Alaptörvény XXIX. cikk (3) bekezdése alapján,
 - d) 102. § f) pontja az Alaptörvény 2. cikk (1) bekezdése és 35. cikk (1) bekezdése alapján
 
