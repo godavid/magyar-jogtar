@@ -982,8 +982,9 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 - h) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelvnek,
 - i) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról szóló 2011. június 8-i 2011/62/EU európai parlamenti és tanácsi irányelvnek,
 - j) a 2001/83/EK irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2012. október 25-i 2012/26/EU európai parlamenti és tanácsi irányelvnek,
-- k) a 2004/757/IB tanácsi kerethatározat mellékletének a kábítószer fogalommeghatározása új pszichoaktív anyagokkal való kiegészítése céljából történő módosításáról szóló, 2018. december 31-i (EU) 2019/369 felhatalmazáson alapuló bizottsági irányelvnek
-- l) a 2004/757/IB tanácsi kerethatározat mellékletének a „kábítószer” fogalommeghatározását az N,N-dietil-2-[[4-(1-metiletoxi)fenil]metil]-5-nitro-1H-benzimidazol-1-etánamin (izotonitazén) új pszichoaktív anyaggal kiegészítő módosításáról szóló, 2020. szeptember 2-i (EU) 2020/1687 felhatalmazáson alapuló bizottsági irányelvnek
+- k) a 2004/757/IB tanácsi kerethatározat mellékletének a kábítószer fogalommeghatározása új pszichoaktív anyagokkal való kiegészítése céljából történő módosításáról szóló, 2018. december 31-i (EU) 2019/369 felhatalmazáson alapuló bizottsági irányelvnek,
+- l) a 2004/757/IB tanácsi kerethatározat mellékletének a „kábítószer” fogalommeghatározását az N,N-dietil-2- [[4-(1-metiletoxi)fenil]metil]-5-nitro-1H-benzimidazol-1-etánamin (izotonitazén) új pszichoaktív anyaggal kiegészítő módosításáról szóló, 2020. szeptember 2-i (EU) 2020/1687 felhatalmazáson alapuló bizottsági irányelvnek,
+- m) a 2004/757/IB tanácsi kerethatározat mellékletének a „kábítószer” fogalommeghatározását a metil-3,3-dimetil-2-{[1-(pent-4-én-1-il)-1H-indazol-3-karbonil]amino}butanoát (MDMB-4en-PINACA) és a metil-2-{[1-(4-fluorbutil)-1H-indol-3-karbonil]amino}-3,3-dimetilbutanoát (4F-MDMB-BICA) új pszichoaktív anyaggal kiegészítő módosításáról szóló 2021. március 12-i (EU) 2021/802 felhatalmazáson alapuló bizottsági irányelvnek
 
 való megfelelést szolgálja.
 
@@ -1329,7 +1330,7 @@ Azok az anyagok, amelyek az 1979. évi 25. törvényerejű rendelettel kihirdete
 | 61 | Salvinorin A (Szalvinorin A) | (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(3 furanyl)dodecahydro- 6a,10b-dimethyl-4,10-dioxo-2H-naphtho[2,1-c]pyran-7-carboxylic acid methyl ester |
 | 62. | TFMPP | 1-[3-(trifluoromethyl)phenyl]piperazine |
 | 63. | â-Me-PEA | 2-phenylpropan-1-amine |
-| 64. | 3-MeO-PCP | 1-[1-(3-methoxyphenyl)cyclohexyl]-piperidine |
+| 64. |  |  |
 | 65. | Homoamphetamine | 3-amino-1-phenyl-butane |
 | 66. | AH-7921 | 3,4-diklór-N-[[1-(dimetil-amino)ciklohexil]metil]benzamid |
 | 67. | 25I-NBOMe | 4-jód-2,5-dimetoxi-N-(2-metoxi-benzil)fenetilamin |
@@ -1352,15 +1353,16 @@ Azok az anyagok, amelyek az 1979. évi 25. törvényerejű rendelettel kihirdete
 | 84. | N-(2-methoxyethyl)-N- (1-methylethyl)-2-(1-pentyl-1H-indol-3-yl)-4-thiazol-methanamine | N-(2-methoxyethyl)-N-(1-methylethyl)-2-(1-pentyl-1H-indol-3-yl)-4-thiazol-methanamine |
 | 85. | N,N-diethyl-2-(1-pentyl-1H-indol-3-yl)-4-thiazol- methanamine | N,N-diethyl-2-(1-pentyl-1H-indol-3-yl)-4-thiazol-methanamine |
 | 86. | alpha-PBT; alfa-PBT; a-PBT; α-Pyrrolidinobutiothiophenone | 2-(Pyrrolidin-1-yl)-1-(thiophen-2-yl)butan-1-one |
-| 87. | Diclazepam, 2-Chlorodiazepam, Ro5-3448 | 7-chloro-5-(2-chlorophenyl)-1-methyl-1,3-dihydro-2H- 1,4-benzodiazepin-2-one |
-| 88. | Diphenidine, 1,2- diphenylethylpiperidine; DPD; 1,2-DEP; DIPH | 1-(1,2-Diphenylethyl)piperidine |
+| 87. |  |  |
+| 88. |  |  |
 | 89. | MTTA; MTA; Mephtetramine | 2-[(Methylamino)methyl]-3,4-dihydronaphthalen-1(2H)-one |
 | 90. | Nitracaine | 3-(Diethylamino)-2,2-dimethylpropyl 4-nitrobenzoate |
 | 91. | EG-018 | (naphthalen-1-yl) (9-pentyl-9H-carbazol-3-yl)-methanone” |
-| 92. | isotonitazene | N,N-diethyl-2-[[4-(1-methylethoxy)phenyl]methyl]-5-nitro-1H-benzimidazole-1-ethanamine” |
+| 92. |  |  |
 | 93. |  |  |
 | 94. |  |  |
 | 95. |  |  |
+| 96. | 4F-MDMB-BICA | metil-2-{[1-(4-fluorbutil)-1H-indol-3-karbonil]amino}-3,3-dimetilbutanoát |
 
 − és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezett kivételes rendelkezés alá;
 
