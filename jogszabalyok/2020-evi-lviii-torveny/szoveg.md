@@ -412,28 +412,9 @@ tevékenységet folytat (a továbbiakban: mentesített tevékenységet folytató
 
 (2) A munkahelyi gyermekfelügyelet végzése céljából foglalkoztatott személy számára a 2020. április, május és június hónapra kifizetett jövedelem, juttatás után a kifizetőnek a szociális hozzájárulási adóról szóló 2018. évi LII. törvény szerinti szociális hozzájárulási adó, valamint a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény szerinti szakképzési hozzájárulás megfizetésének kötelezettségét nem kell teljesítenie.
 
-#### 18. A Széchenyi Pihenő Kártya formájában – béren kívüli juttatásként – adható összeg emelése és mentesítése a szociális hozzájárulási adó alól
+#### 18.
 
-40. § (1) A 2020. évben, valamint 2021. január 1. és 2021. június 30. között a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 71. § (1) bekezdésétől eltérően a Széchenyi Pihenő Kártya
-
-- a) szálláshely alszámlájára utalt támogatás legfeljebb évi 400 ezer forint,
-- b) vendéglátás alszámlájára utalt támogatás legfeljebb évi 265 ezer forint,
-- c) szabadidő alszámlájára utal utalt támogatás legfeljebb évi 135 ezer forint
-
-összegig minősül béren kívüli juttatásnak.
-
-(2) A 2020. évben, valamint 2021. január 1. és 2021. június 30. között az Szja tv. 70. § (8) bekezdésétől eltérően az éves rekreációs keretösszeg
-
-- a) – ha a munkáltató költségvetési szerv –
-  - aa) évi 400 ezer forint, ha a munkavállaló munkaviszonya egész évben fennáll,
-  - ab) a 400 ezer forintnak a munkavállaló által az adott munkáltatónál az adóévben a juttatás alapjául szolgáló jogviszonyban töltött napokkal arányos összege, ha a munkavállaló munkaviszonya csak az év egy részében áll fenn,
-  - ac) évi 400 ezer forint, ha a magánszemély munkaviszonya a magánszemély halála miatt szűnik meg,
-- b) más munkáltató esetében
-  - ba) évi 800 ezer forint, ha a munkavállaló munkaviszonya egész évben fennáll,
-  - bb) a 800 ezer forintnak a munkavállaló által az adott munkáltatónál az adóévben a juttatás alapjául szolgáló jogviszonyban töltött napokkal arányos összege, ha a munkavállaló munkaviszonya csak az év egy részében áll fenn,
-  - bc) évi 800 ezer forint, ha a magánszemély munkaviszonya a magánszemély halála miatt szűnik meg.
-
-(3) A szociális hozzájárulási adóról szóló 2018. évi LII. törvény 1. § (4) bekezdés a) pontjától eltérően 2020. április 22-től a 2021. június 30-ig adott juttatások tekintetében nem terheli adókötelezettség a Széchenyi Pihenő Kártya kártyaszámlájára utalt béren kívüli juttatásnak minősülő összeget.
+#### 40. §
 
 #### 19. A munkáltatót terhelő egészségügyi szolgáltatási járulékfizetési kötelezettség
 
@@ -664,29 +645,9 @@ való jogosultság 2020. június 30-áig meghosszabbodik.
 
 (2) A 2020. március 11-e és 2020. június 30-a között lejáró rehabilitációs ellátás a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 10. § (1) bekezdés a) pontjában foglaltaktól eltérően 2020. szeptember 1-jén szűnik meg.
 
-73. § (1) Az 1993. évi III. törvény szerinti, a fogyatékos és az idős személyek számára nappali ellátást nyújtó intézmények épületében egyidejűleg tartózkodó ellátottak száma 2020. július 31-éig nem haladhatja meg a bejegyzett férőhelyszám 50%-át, valamint a fogyatékos és az idős személyek számára nappali ellátást nyújtó intézmények az ellátottak lakókörnyezetében is nyújthatják a szükséges ellátást.
+#### 73. §
 
-(2) Az (1) bekezdés szerinti szolgáltatásnyújtás esetén az igénybevevői nyilvántartásban rögzíteni kell az igénybevevőt akkor is, ha a szolgáltatásnyújtás az otthonában vagy infokommunikációs eszközön keresztül történik.
-
-(3) 2020. december 31-éig egészségügyi válsághelyzet időtartama alatt
-
-- a) a szociális alapszolgáltatások igénybevételéhez szükséges ellátotti jogosultság vizsgálatát nem kell elvégezni,
-- b) szociális alapszolgáltatások esetén a jogszabályban meghatározott személyi és tárgyi feltételektől ellátási érdekből, a fenntartó döntése alapján ideiglenesen el lehet térni,
-- c) szociális alapszolgáltatások esetén az egyes szolgáltatási elemek nyújtása a fenntartó döntése alapján szüneteltethető, és
-- d) házi segítségnyújtás esetében az újonnan felvételre kerülő személlyel személyi gondozásra irányuló megállapodást kell kötni, és az egészségügyi válsághelyzet időszakát nem kell figyelembe venni a személyi gondozás éves átlagának meghatározásakor.
-
-74. § (1) Az 1993. évi III. törvény szerinti szociális szakosított intézményekben az országos tisztifőorvos által elrendelt látogatási tilalom (a továbbiakban: látogatási tilalom) fennállása alatt, de legfeljebb 2020. december 31-éig
-
-- a) a fővárosi és megyei kormányhivatal a fogyatékos személyek alapvizsgálatát és a szociális intézményben elhelyezettek felülvizsgálatát nem végezheti el,
-- b) a Szociális és Gyermekvédelmi Főigazgatóság a komplex szükségletfelmérést nem végezheti el.
-
-(2) Az (1) bekezdés szerinti vizsgálatok elvégzése nélkül a szociális szolgáltatás a látogatási tilalom fennállása alatt, valamint a tilalom feloldását követő harmincadik napig, de legfeljebb 2020. december 31-éig jogszerűen nyújtható.
-
-(3) A fejlesztő foglalkoztatásba bevontak rehabilitációs alkalmassági vizsgálatáról szóló, a látogatási tilalom fennállása alatt lejáró szakvélemények, javaslatok érvényessége a látogatási tilalom feloldását követő hatvanadik napig, de legfeljebb 2020. december 31-éig meghosszabbodik.
-
-(4) Az 1993. évi III. törvény szerinti átmeneti elhelyezést nyújtó szociális intézményekben az országos tisztifőorvos által elrendelt felvételi zárlat fennállása alatt lejáró ellátotti jogviszony a tilalom feloldását követő hatvanadik napig, de legfeljebb 2020. december 31-éig meghosszabbodik, ha az ellátottnak az állapotánál fogva további, tartós elhelyezésre van szüksége.
-
-(5) A látogatási tilalom fennállása alatt, de legfeljebb 2020. december 31-éig az idősek otthonában foglalkoztatottak számára 24 órás műszak is elrendelhető. A 24 órás műszakot követően 48 óra összefüggő pihenőidőt kell biztosítani.
+#### 74. §
 
 75. § (1) 2020. július 15-éig az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló kormányrendelet szerinti családi otthonteremtési kedvezmény és a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló kormányrendelet szerinti családi otthonteremtési kedvezmény esetén az együttes igénylők egyike a másik igénylőt teljes bizonyító erejű magánokiratban meghatalmazhatja az együttes igénylés mindkettejük nevében történő benyújtására, valamint minden, az igénylés benyújtásához és a támogatási szerződés megkötéséhez szükséges jognyilatkozat mindkettejük nevében való megtételére, továbbá a támogatási szerződés megkötésére.
 
@@ -918,9 +879,9 @@ távmonitoring eszközökkel és egyéb infokommunikációs technológiák rév�
 
 94. § Ha a személyi biztonsági tanúsítvány, a telephely biztonsági tanúsítvány vagy biztonsági szakvélemény érvényessége a veszélyhelyzet ideje alatt járt le vagy a veszélyhelyzet megszűnésétől számított 45 napon belül jár le, érvényessége a veszélyhelyzet megszűnését követő 90. napig meghosszabbodik.
 
-#### 45. A vagyonnyilatkozatok megtételére vonatkozó rendelkezések eltérő alkalmazása
+#### 45.
 
-95. § Ha a vagyonnyilatkozat-tételi kötelezettség határideje a veszélyhelyzet ideje alatt járt le, vagy a veszélyhelyzet megszűnésétől számított 30 napon belül járna le – a nyilvános vagyonnyilatkozat tételére kötelezettek vagyonnyilatkozata kivételével –, a határidő a veszélyhelyzet megszűnését követő 90. napig meghosszabbodik.
+#### 95. §
 
 #### 46. Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény rendelkezéseinek eltérő alkalmazása
 
@@ -1099,59 +1060,53 @@ akkor is, ha a jogi személy létesítő okirata e lehetőségekről és annak f
 
 (3) Ezen alcím rendelkezéseit az e törvény hatálybalépésének napján folyamatban lévő eljárásokban is alkalmazni kell.
 
-120. § (1) A köztestület testületi szerveinek a veszélyhelyzet ideje alatt hatályos rendelkezések előírásai szerint, a veszélyhelyzet megszűnését követő 60 napon belüli időpontra kiírt ülése a kiíráskor hatályos rendelkezéseknek megfelelően is megtartható. Az írásbeli egyeztetés és döntéshozatal a veszélyhelyzet ideje alatt hatályos rendelkezések előírásai szerint is történhet. Az ülésezésre és a döntéshozatalra a köztestület elnöke által meghatározott és a köztestület honlapján az érintettek számára hozzáférhetővé tett szabályokat a veszélyhelyzet megszűnését követő 60 napig lehet alkalmazni.
+120. § (1)
 
-(2) A köztestület testületi szervének ülése különböző helyszínen jelen lévők között, egy időben, valós idejű kommunikációt lehetővé tévő, kép és hang egyidejű továbbítására alkalmas elektronikus hírközlő eszköz vagy más elektronikus eszköz útján is megtartható. Ha az elektronikus hírközlő eszköz vagy más elektronikus eszköz útján való tanácskozás és döntéshozatal szabályaira nincs elfogadott eljárásrend, az ülésezésre és a döntéshozatalra a köztestület elnöke által meghatározott és a köztestület honlapján az érintettek számára hozzáférhetővé tett szabályokat kell alkalmazni. E bekezdés alkalmazható akkor is, ha a köztestület testületi szervének ülésén egyes tagok személyesen megjelennek.
+(2)
 
-(3) Többszintű köztestületi szervezet esetén az (1) és (2) bekezdésben meghatározott szabályozási jogkört az országos elnök gyakorolhatja, és a szabályokat a köztestület országos honlapján kell az érintettek számára hozzáférhetővé tenni.
+(3)
 
-(4) Ha a köztestület határozott időre kinevezett vagy megválasztott tisztségviselője megbízatásának időtartama a veszélyhelyzet idején járt le, a határozott idő meghosszabbodik mindaddig, amíg a veszélyhelyzet megszűnését követően haladéktalanul megtartott választáson az új tisztségviselőt nem választják meg, vagy az új tisztségviselőt ki nem nevezik.
+(4)
 
-(5) Ha a köztestületi ügy intézésével kapcsolatos eljárási cselekmény lefolytatását a veszélyhelyzet ideje alatt hatályos rendelkezések előírásai szerint elhalasztották, az eljárási cselekmény elhalasztásáról szóló döntés meghozatalától a veszélyhelyzet megszűnéséig terjedő időszak a köztestületi ügy elintézésére nyitva álló határidőbe nem számít bele. Az elhalasztott eljárási cselekmény elvégzésére meghatározott határidő kezdőnapja a veszélyhelyzet megszűnését követő nap.
+(5)
 
 (6) A fegyelmi vagy etikai felelősségre vonás elévülése a veszélyhelyzet megszűnését követő napon folytatódik.
 
-121. § A köztestületnek a veszélyhelyzet ideje alatt az ügyvezetését ellátó szerv által elfogadott költségvetését és beszámolóját a köztestület legfőbb szervének a veszélyhelyzet megszűnését követő legkésőbb 90. napra összehívandó rendkívüli ülése napirendjére kell tűzni. A köztestület legfőbb szervének határozata hiányában a költségvetés a veszélyhelyzet megszűnését követő 90. napon hatályát veszti, a beszámolót pedig legkésőbb a veszélyhelyzet megszűnését követő 90 napon belül a köztestület legfőbb szervének is el kell fogadnia.
+#### 121. §
 
-#### 54. A közjegyzőkről szóló 1991. évi XLI. törvény rendelkezéseinek eltérő alkalmazása
+#### 54.
 
-122. § A közjegyzőkről szóló 1991. évi XLI. törvényt az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
+#### 122. §
 
-123. § Ha a veszélyhelyzet ideje alatt a közjegyzői eskü tételére kötelezett az esküokmány elektronikus aláírásával megkezdte a közjegyzői vagy közjegyzőhelyettesi tevékenységet, az esküt a veszélyhelyzet megszűnését követő 30 napon belül le kell tennie, és erről aláírt esküokmányt kell készíteni.
+#### 123. §
 
-124. § A Magyar Országos Közjegyzői Kamara (a továbbiakban: MOKK) országos elnöke által a veszélyhelyzet ideje alatt a MOKK honlapján közzétett határozatában az alapszabálytól és a szabályzatoktól a veszélyhelyzet elhárításához, következményeinek megelőzéséhez, illetve enyhítéséhez kapcsolódó intézkedések végrehajtása és a kamarai névjegyzékbe vagy nyilvántartásba vett személyekre háruló terhek csökkentése érdekében hozott e személyekre kötelező eltérő döntését a veszélyhelyzet megszűnését követő legfeljebb 90. napra összehívandó rendkívüli választmányi, illetve országos elnökségi ülés napirendjére kell tűzni a testület tájékoztatása érdekében. A MOKK elnökének döntései a veszélyhelyzet megszűnését követő második hónap utolsó napján hatályukat vesztik.
+#### 124. §
 
-125. § A közjegyzőkről szóló 1991. évi XLI. törvény 18. § (3) bekezdésében foglaltaktól eltérően a megüresedő közjegyzői állásra a pályázatot a veszélyhelyzet megszűnését követő három hónapon belül kell meghirdetni.
+#### 125. §
 
-126. § A területi közjegyzői kamara elnöke által a veszélyhelyzet ideje alatt a területi közjegyzői kamara illetékességi területének egészére vagy annak egy részére illetékesként kijelölt közjegyzők kijelölésének hatálya a veszélyhelyzet utolsó napjával megszűnik, kivéve, ha a kijelölés hatályának fenntartása az egyébként illetékes közjegyző 127. § (1) bekezdése szerinti kérelme hiányában indokolt. A kijelölés fenntartásáról soron kívül szükséges értesíteni az érintett közjegyzőket, valamint a MOKK elnökét. Az országos kamara a honlapján közzéteszi a kijelölt közjegyző nevét, illetékességi területét, elérhetőségét, valamint ügyfélfogadásának rendjét.
+#### 126. §
 
-127. § (1) A veszélyhelyzet ideje alatt a területi közjegyzői kamara elnöke által, a közreműködési kötelezettsége alól kérelmére mentesített közjegyző az országos kamara elnöke által kiadott utasításban meghatározottak szerint kérheti a mentesítés megszüntetését.
+#### 127. §
 
-(2) Az országos kamara elnöke az (1) bekezdés szerinti utasítását a veszélyhelyzet megszűnését követően haladéktalanul köteles elfogadni és az országos kamara honlapján közzétenni.
+#### 55.
 
-(3) Ha a mentesítés hatálya korábban nem szűnt meg, a mentesítés a veszélyhelyzet megszűnését követő második hónap utolsó napján megszűnik.
+#### 128. §
 
-#### 55. Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény rendelkezéseinek eltérő alkalmazása
+#### 129. §
 
-128. § Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvényt (a továbbiakban: Szaktv.) az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
+#### 130. §
 
-129. § Ha a veszélyhelyzet ideje alatt a szakértői eskü tételére kötelezett az esküokmány elektronikus aláírásával megkezdte a szakértői vagy szakértői testületi tagi tevékenységet, az esküt a veszélyhelyzet megszűnését követő 30 napon belül le kell tennie, és erről aláírt esküokmányt kell készíteni.
+#### 131. §
 
-130. § A Magyar Igazságügyi Szakértői Kamara (a továbbiakban: MISZK) elnöksége által a veszélyhelyzet ideje alatt a MISZK honlapján közzétett határozatban az alapszabálytól és a szabályzatoktól a veszélyhelyzet elhárításához, következményeinek megelőzéséhez, illetve enyhítéséhez kapcsolódó intézkedések végrehajtása és az igazságügyi szakértőkre háruló terhek csökkentése érdekében a MISZK tagjaira vagy a kamarai nyilvántartásba vett személyekre megállapított kötelező eltérő rendelkezések a veszélyhelyzet megszűnését követő második hónap utolsó napján hatályukat vesztik.
+#### 132. §
 
-131. § A veszélyhelyzet megszűnését követő 60 napon belüli időpontra kiírt, a Szaktv. 15. § (1) bekezdésében meghatározott jogi ismeretek oktatását és a jogi vizsgát, valamint a rendszeres jogi oktatást a veszélyhelyzet ideje alatt hatályos rendelkezések előírásai szerint is le lehet bonyolítani.
+#### 56.
 
-132. § A 2019. december 31-én a nyilvántartásban szereplő igazságügyi szakértő a Szaktv. 44. § (1a) bekezdése alapján az ügyintézési rendelkezések nyilvántartásába legkésőbb a veszélyhelyzet megszűnését követő 15. napig köteles bejelenteni az elektronikus ügyintézés általános szabályairól szóló törvény szerinti hivatalos elérhetőségét.
+#### 133. §
 
-#### 56. Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény rendelkezéseinek eltérő alkalmazása
+#### 134. §
 
-133. § Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvényt az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
-
-134. § Ha a veszélyhelyzet ideje alatt az ügyvédi eskü tételére kötelezett az esküokmány elektronikus aláírásával megkezdte az ügyvédi tevékenységet, az esküt a veszélyhelyzet megszűnését követő 30 napon belül le kell tennie, és erről aláírt esküokmányt kell készíteni.
-
-135. § (1) A Magyar Ügyvédi Kamara (a továbbiakban: MÜK) elnöksége által a veszélyhelyzet ideje alatt határozatban, a területi kamarákra, a területi kamara tagjaira, és a területi kamara által az ügyvédi kamarai nyilvántartásba vett személyekre kötelező szabályzatoktól – a kiemelt szabályzatok és az ügyvédi felelősségbiztosítás követelményeiről szóló szabályzat kivételével – a veszélyhelyzet elhárításához, következményeinek megelőzéséhez, illetve enyhítéséhez kapcsolódó intézkedések végrehajtása és az ügyvédi tevékenységet gyakorlókra háruló terhek csökkentése érdekében megállapított eltérő rendelkezések a veszélyhelyzet megszűnését követő második hónap utolsó napján hatályukat vesztik.
-
-(2) A MÜK elnöke által a veszélyhelyzet ideje alatt hatályos rendelkezések előírásai szerint hozott intézkedésekről az elnökséget vagy a küldöttgyűlést legkésőbb a veszélyhelyzet megszűnésétől számított 90. napra összehívott rendkívüli ülésen tájékoztatni kell.
+#### 135. §
 
 #### 57. A polgári peres és bírósági polgári nemperes eljárásokra vonatkozó rendelkezések eltérő alkalmazása
 
@@ -1159,11 +1114,7 @@ akkor is, ha a jogi személy létesítő okirata e lehetőségekről és annak f
 
 (2) Ezen alcím rendelkezéseit az e törvény hatálybalépésének napján folyamatban lévő eljárásokban is alkalmazni kell.
 
-137. § (1) Ha a bíróság a 2020. március 31. napja és 2020. június 1. napja közötti időszakban beszerezte a tárgyalás mellőzésével lefolytatott perfelvétel lezárásához szükséges – a jogvita kereteit meghatározó – nyilatkozatokat, a perfelvételt perfelvételi tárgyalás mellőzésével zárja le. A bíróság a perfelvétel lezárása előtt a feleket erre írásban figyelmezteti, és lehetőséget biztosít további nyilatkozatok írásban történő megtételére. A bíróság a perfelvétel lezárását írásban közli a felekkel.
-
-(2) Ha a bíróság a 2020. március 31. napja és 2020. június 1. napja közötti időszakban a perfelvétel lefolytatását megkezdte, de a felek a veszélyhelyzet megszűnéséig még nem tették meg valamennyi, a jogvita kereteit meghatározó nyilatkozataikat, a bíróság a perfelvételt a perfelvételi tárgyalás kitűzésével vagy a Pp. 197. § (1) bekezdés b) és c) pontja szerinti eljárással folytatja.
-
-(3) Ha a veszélyhelyzet ideje alatt a bíróság ideiglenes intézkedést – erre irányuló kérelem esetén – a perindítást megelőzően rendelt el, a per megindítására a bíróság által megállapított határidő a veszélyhelyzet megszűnését követő napon kezdődik.
+#### 137. §
 
 138. § (1) Ha járványügyi intézkedések indokolják, a tárgyalás elektronikus hírközlő hálózat vagy más elektronikus kép és hang továbbítására alkalmas eszköz útján is megtartható.
 
@@ -1175,25 +1126,13 @@ akkor is, ha a jogi személy létesítő okirata e lehetőségekről és annak f
 
 (3) A személyi szabadságot korlátozó intézkedésekkel összefüggő eljárási cselekményeket – ha nincs más módja – a járványügyi intézkedés hatálya alatt álló helyen is foganatosítani kell.
 
-140. § (1) A keresetlevelet, a keresetet tartalmazó iratot, a viszontkereset-levelet, a beszámítást tartalmazó iratot és az írásbeli ellenkérelmet a jogi képviselő nélkül eljáró fél a jogszabályban meghatározott, erre rendszeresített nyomtatvány alkalmazása nélkül is előterjesztheti.
+#### 140. §
 
-(2) Ha a jogi képviselő nélkül eljáró fél által előterjesztett keresetlevél nem tartalmazza a kötelező tartalmi elemeket vagy alaki kellékeket, a bíróságnak a hiánypótlásra felhívó végzésben a keresetlevél valamennyi hiányosságát fel kell tüntetnie, és a bíróságnak részletes, a fél jogban való járatlanságához igazodó teljes körű tájékoztatást kell adnia a hiányok pótlására vonatkozóan. Ennek eredménytelensége esetén van csak helye visszautasításnak.
+#### 141. §
 
-141. § Ha a veszélyhelyzet ideje alatt hatályos rendelkezések előírásai szerint az eljárásban hirdetményi kézbesítésnek lett volna helye, és ezért a bíróság az eljárás félbeszakadását állapította meg – és a hirdetményi kézbesítés oka korábban nem szűnt meg – a veszélyhelyzet megszűnésekor a félbeszakadás megszűnik, a bíróság az eljárást hivatalból folytatja.
+#### 142. §
 
-142. § (1) Ha a 2020. március 31. napja és 2020. június 1. napja közötti időszakban a bíróság írásban figyelmeztette a feleket a tárgyalás berekesztésére, és a felek a bíróság felhívására a nyilatkozataikat megtették, vagy a megadott határidő alatt nyilatkozatot nem tettek, a bíróság az ítéletet tárgyaláson kívül hozza meg.
-
-(2) Ha a 2020. március 31. napja és 2020. június 1. napja közötti időszakban a bíróság a Pp. hatálya alá tartozó peres eljárásokban az érdemi tárgyalást, az 1952-es Pp. hatálya alá tartozó perekben a tárgyalást még nem tűzte ki – ideértve azt az esetet is, ha a bíróság a személyes közreműködést igénylő eljárási cselekményt a 2020. március 31. napja és 2020. június 1. napja közötti időszakban tárgyaláson kívül nem tartotta lefolytathatónak, és ezért az eljárás megakadt –, valamint, ha az (1) bekezdés szerinti eljárásnak nincs helye, a bíróság az eljárást a tárgyalás kitűzésével folytatja.
-
-(3) Ha a 2020. március 31. napja és 2020. június 1. napja közötti időszakban a bíróság a Pp. hatálya alá tartozó peres eljárásokban az érdemi tárgyalást, az 1952-es Pp. hatálya alá tartozó perekben a tárgyalást kitűzte, a bíróság a Pp. 226. § (3) bekezdésének vagy az 1952-es Pp. 125. § (5) bekezdésének alkalmazásával meghatározza a tárgyalás helyét – kivéve a 138. § (1) bekezdésében foglalt esetet – és erről értesíti a tárgyalásra megidézetteket.
-
-(4) Ha a 2020. március 31. napja és 2020. június 1. napja közötti időszakban a bíróság a feleket már megnyilatkoztatta az egyezség kérdésében, a perbeli egyezséget végzésével tárgyaláson kívül is jóváhagyhatja. Az egyezséget jóváhagyó végzést a felekkel kézbesítés útján kell közölni. Az ilyen módon meghozott jóváhagyó végzés elleni fellebbezésnek az egyezség végrehajtására halasztó hatálya van.
-
-143. § (1) A fellebbezési és felülvizsgálati eljárásban eljáró bíróság a továbbiakban is tárgyaláson kívül jár el, ha a 2020. március 31. napja és 2020. június 1. napja közötti időszakban értesítette a feleket a tárgyaláson kívüli elbírálásról.
-
-(2) Ha a 2020. március 31. napja és 2020. június 1. napja közötti időszakban a bíróság által kiadott, a tárgyaláson kívüli elbírálásról szóló értesítését követően a felek az értesítés kiadásakor hatályos jogszabályi rendelkezések szerinti határidő alatt közös kérelemben kérték a tárgyalás megtartását, a bíróság kitűzi a tárgyalást.
-
-(3) Ha a 2020. június 1. napja előtt előterjesztett fellebbezés és felülvizsgálati kérelem alapján indult fellebbezési és felülvizsgálati eljárásban az (1) és (2) bekezdésben foglaltak alkalmazásának nincs helye, bármelyik félnek a veszélyhelyzet megszűnését követő 15 napon belül előterjesztett, tárgyalás tartása iránti kérelme esetén a bíróság tárgyalást tart. Erre irányuló kérelem hiányában a bíróság a továbbiakban is tárgyaláson kívül jár el.
+#### 143. §
 
 144. § E törvénynek az 1952-es Pp. és a Pp. tekintetében megállapított eltérő rendelkezéseit alkalmazni kell a bírósági hatáskörbe tartozó polgári nemperes eljárásokban is az eljárás nemperes jellegéből adódó eltérésekkel, kivéve, ha e törvény az adott eljárásra eltérő szabályt állapít meg.
 
@@ -1353,12 +1292,7 @@ akkor is, ha a jogi személy létesítő okirata e lehetőségekről és annak f
 - a) építési engedély, amelynek hatálya a veszélyhelyzet kihirdetésének és a veszélyhelyzet megszűnésének napja közötti időben lejárt, külön erre irányuló kérelem hiányában is meghosszabbodik a veszélyhelyzet megszűnésének napjától számított további egy évvel, valamint
 - b) építési engedély, amelynek hatálya a veszélyhelyzet megszűnésének napját követő 180 napon belül jár le, külön erre irányuló kérelem hiányában is meghosszabbodik az engedély hatályának lejártától számított további egy évvel.
 
-164. § (1) A (2) bekezdés kivételével a vízgazdálkodási hatósági jogkör gyakorlásáról szóló 72/1996. (V. 22.) Korm. rendelet alapján engedélyezett vízilétesítményekre és vízimunkákra vonatkozó vízjogi létesítési engedély, elvi vízjogi engedély és megszüntetési engedély, amelynek hatálya
-
-- a) a veszélyhelyzet kihirdetésének és a veszélyhelyzet megszűnésének napja közötti időszakban lejárt, külön erre irányuló kérelem hiányában is meghosszabbodik a veszélyhelyzet megszűnésének napjától számított további egy évvel, valamint
-- b) a veszélyhelyzet megszűnésének napját követő 180 napon belül jár le, külön erre irányuló kérelem hiányában is meghosszabbodik az engedély hatályának lejártától számított további egy évvel.
-
-(2) Ha az (1) bekezdés szerinti engedélyhez kapcsolódó vagyonkezelői, kezelői vagy tulajdonosi hozzájárulás érvényességi ideje a veszélyhelyzet kihirdetésének és a veszélyhelyzet megszűnésének napja közötti időszakban vagy a veszélyhelyzet megszűnésének napját követő 180 napon belül jár le, az új hozzájárulás beszerzéséről az engedélyes gondoskodik. Ebben az esetben a vízügyi hatóság az engedélyes kérelmére, soron kívül módosítja az (1) bekezdés szerinti vízjogi engedélyt. A kérelem mentesül az igazgatási szolgáltatási díj vagy illeték megfizetése alól.
+#### 164. §
 
 165. § (1) 2020. december 31-éig a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendeletet [a továbbiakban: 314/2012. (XI. 8.) Korm. rendelet] az ebben a §-ban foglalt eltérésekkel kell alkalmazni.
 
@@ -2126,26 +2060,11 @@ korlátozhatja.
 
 (2) A miniszter e törvény hatálybalépését követő vagy az ezen alcím szerinti akadály elhárulását követő három hónapon belül meghozza a 89/2020. (IV. 5.) Korm. rendelet 19. § (2) bekezdése miatt nem kezdeményezett, magyar bíróság által kiszabott jogerős szabadságvesztés büntetés vagy alkalmazott szabadságelvonással járó intézkedés végrehajtásának átadásával kapcsolatos döntését.
 
-#### 83. Az adatvédelmi jogok gyakorlása érdekében benyújtott kérelmek és a folyamatban levő adatigénylések átmeneti szabályai
+#### 83.
 
-265. § A veszélyhelyzet idején az egyes adatvédelmi és adatigénylési rendelkezésektől való eltérésről szóló 179/2020. (V. 4.) Korm. rendelet [a továbbiakban: 179/2020. (V. 4.) Korm. rendelet] 1. § (2) bekezdése alapján felfüggesztett kérelem tekintetében az érintett kérelme alapján teendő minden intézkedés felfüggesztéséről szóló tájékoztatást – ha arra a veszélyhelyzet időtartama alatt nem került sor – az e törvény hatálybalépését követően haladéktalanul teljesíteni kell. A 179/2020. (V. 4.) Korm. rendelet 1. § (2) bekezdése szerint felfüggesztett kérelmeket az e törvény hatálybalépését követően akként kell teljesíteni, hogy az intézkedésekre irányadó határidők kezdő napja az e törvény hatálybalépésének napja.
+#### 265. §
 
-266. § (1) Ha az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) szerinti közfeladatot ellátó szerv a veszélyhelyzet fennállásának időtartama alatt a közérdekű adat megismerésére irányuló igénynek a 179/2020. (V. 4.) Korm. rendelet 2. § (3) bekezdése alkalmazásával kívánt eleget tenni – feltéve, hogy erről az igénylőt az igény beérkezését követő 15 napon belül megfelelően tájékoztatta –, az ilyen igénynek – az Infotv. 29. § (2) bekezdése alkalmazásának lehetőségét nem érintve –,
-
-- a) ha az igény beérkezésétől számított 15 nap még nem telt el, az Infotv. 29. § (1) bekezdése szerinti határidőben kell eleget tenni,
-- b) ha az igény beérkezésétől számított 15 nap már eltelt, a lehető legrövidebb időn belül, de legkésőbb az igény beérkezését követő 45 napon belül eleget kell tenni azzal, hogy e határidő a veszélyhelyzet megszűnése napját követő 15 napot ebben az esetben sem haladhatja meg.
-
-(2) Ha az Infotv. szerinti közfeladatot ellátó szerv a veszélyhelyzet fennállásának időtartama alatt a közérdekű adat megismerésére irányuló igénynek a 179/2020. (V. 4.) Korm. rendelet 2. § (3) bekezdése alkalmazásával kívánt eleget tenni, valamint az igény teljesítésére nyitva álló határidőt a veszélyhelyzet fennállásának időtartama alatt a 179/2020. (V. 4.) Korm. rendelet 2. § (4) bekezdése szerint meghosszabbította, az ilyen igénynek a lehető legrövidebb időn belül, de legkésőbb az igény beérkezését követő 90 napon belül eleget kell tenni azzal, hogy e határidő a veszélyhelyzet megszűnése napját követő 15 napot ebben az esetben sem haladhatja meg. Az e bekezdés alkalmazása esetében az Infotv. 31. § (1) bekezdésében az Infotv. 29. § (2) bekezdése szerint meghosszabbított határidő alatt az így meghosszabbított határidőt is érteni kell.
-
-(3) Ha az Infotv. szerinti közfeladatot ellátó szerv a veszélyhelyzet fennállásának időtartama alatt a közérdekű adat megismerésére irányuló igény tekintetében az adatigénylés teljesítéséért a költségtérítést a 179/2020. (V. 4.) Korm. rendelet 2. § (5) bekezdése alkalmazásával állapította meg, úgy az adatigénylést
-
-- a) – feltéve, hogy a teljesítésért megállapított költségtérítést az igénylő a veszélyhelyzet fennállásának időtartama alatt megfizette – a megfizetést követő lehető legrövidebb időn belül, de legkésőbb a megfizetést követő 45 napon belül kell teljesíteni azzal, hogy e határidő a veszélyhelyzet megszűnése napját követő 15 napot ebben az esetben sem haladhatja meg, vagy
-- b) – feltéve, hogy a teljesítésért megállapított költségtérítést az igénylő a veszélyhelyzet fennállásának időtartam alatt nem fizette meg – a megfizetést követő 15 napon belül kell teljesíteni.
-
-(4) Ha az Infotv. szerinti közfeladatot ellátó szerv a veszélyhelyzet fennállásának időtartama alatt a közérdekű adat megismerésére irányuló igénynek a 179/2020. (V. 4.) Korm. rendelet 2. § (3) bekezdése alkalmazásával kívánt eleget tenni, valamint erről az igénylőt az igény beérkezését követő 15 napon belül tájékoztatta, úgy az ilyen igény teljesítésének megtagadásáról
-
-- a) az (1) bekezdés a) pontja szerinti esetben az Infotv. 30. § (3) bekezdésében meghatározottak szerint kell értesíteni az igénylőt,
-- b) az (1) bekezdés b) pontja szerinti esetben – az elutasítás indokaival, valamint az igénylőt az Infotv. alapján megillető jogorvoslati lehetőségekről való tájékoztatással együtt – az igény beérkezését követő 45 napon belül, de legfeljebb a veszélyhelyzet megszűnése napját követő 15 napon belül kell írásban vagy – ha az igényben az elektronikus levelezési címét közölte – elektronikus levélben értesíteni az igénylőt.
+#### 266. §
 
 #### 84. A menekültügyi eljárás átmeneti szabályai
 
@@ -2208,7 +2127,7 @@ tekintetében.
   - b) az Európai Unión, az Európai Gazdasági Térségen, valamint a Svájci Államszövetségen kívüli állam állampolgára vagy ilyen államban bejegyzett jogi személy vagy egyéb szervezet;
 - 3. stratégiai társaság: olyan magyarországi székhelyű korlátolt felelősségű társaság, zártkörűen működő részvénytársaság, vagy nyilvánosan működő részvénytársaság, amely a Kormány rendeletében meghatározott főtevékenységként vagy további tevékenységi körként végzett tevékenysége az energia-, a közlekedés, a kommunikáció ágazatba, valamint az Unióba irányuló közvetlen külföldi befektetések átvilágítási keretének létrehozásáról szóló, 2019. március 19-i (EU) 2019/452 európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdés a)–e) pontja szerinti – ide nem értve a pénzügyi infrastruktúrát – stratégiai jelentőségű ágazatba tartozik.
 
-277. § (1) Stratégiai társaság esetén – ha a szerződés megkötése, az egyoldalú jognyilatkozat megtétele vagy a társaság határozata (a továbbiakban együtt: jogügylet) a (2)–(4) bekezdésben foglaltakat eredményezi – a belgazdaságért felelős miniszterhez (ezen alcím alkalmazásában a továbbiakban: miniszter) tett bejelentés szükséges a 2021. június 30-ig létrejött jogügyletekkel összefüggésben:
+277. § (1) Stratégiai társaság esetén – ha a szerződés megkötése, az egyoldalú jognyilatkozat megtétele vagy a társaság határozata (a továbbiakban együtt: jogügylet) a (2)–(4) bekezdésben foglaltakat eredményezi – a belgazdaságért felelős miniszterhez (ezen alcím alkalmazásában a továbbiakban: miniszter) tett bejelentés szükséges a létrejött jogügyletekkel összefüggésben:
 
 - a) stratégiai társaságban fennálló tulajdoni részesedés részben, vagy egészben, bármilyen tulajdonjog átruházási jogcímen – ideértve az apportálást is –, ingyenesen vagy visszterhesen történő átruházása,
 - b) stratégiai társaságban történő tőkeemelés,

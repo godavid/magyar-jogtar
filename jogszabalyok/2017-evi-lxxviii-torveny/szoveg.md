@@ -2047,6 +2047,8 @@ az új tisztségviselők megbízatásának a kezdő napjáig, illetve a b) pont 
 
 (7) A Magyar Ügyvédi Kamarát feladatai teljesítésének fedezetére a kamarai tagdíj összegének szabályzatban meghatározott legalább negyede, legfeljebb fele illeti meg.
 
+(8) A Magyar Ügyvédi Kamara szerveinek ülése elektronikus hírközlő eszköz útján vagy más személyazonosítást lehetővé tevő elektronikus eszköz igénybevételével is megtartható, vagy írásbeli egyeztetésre és döntéshozatalra is sor kerülhet. Az írásbeli egyeztetés és döntéshozatal elektronikus üzenetváltással (e-mail) is történhet.
+
 #### 69. A küldöttgyűlés
 
 157. § (1) A Magyar Ügyvédi Kamara legfőbb döntéshozó szerve a küldöttgyűlés, amely százötven tagból áll. Tagjai
@@ -2111,6 +2113,7 @@ az új tisztségviselők megbízatásának a kezdő napjáig, illetve a b) pont 
 - 34. az ügyvédi tevékenységet gyakorlók, valamint az ügyvédasszisztensek nyilvántartásának vezetésével kapcsolatos szabályokról,
 - 35. az ügyvédi kamarai nyilvántartás adatszerkezetének egységességére, a kamarai azonosító szám képzésére, az ügyvédi kamarai nyilvántartás informatikai rendszerének működtetésére és az ügyvédkereső működtetésére vonatkozó szabályokról,
 - 36. minden olyan kérdésben, amelyre az Alapszabály feljogosítja.
+- 37. az elektronikus hírközlő eszköz vagy más személyazonosítást lehetővé tevő elektronikus eszköz útján való tanácskozás és döntéshozatal szabályairól, továbbá a titkos szavazás lebonyolításának módjáról
 
 (2) Az Alapszabály, valamint az (1) bekezdés 8., 11., 14., 20. és 21. pontban felsorolt szabályzatok a Magyar Ügyvédi Kamara kiemelt szabályzatai.
 
@@ -2211,6 +2214,8 @@ a területi kamara szerveinek hatáskörébe tartozó nem egyedi döntéseknél.
 163. § (1) A területi kamara szerveinek ülésén – tagjain kívül – a kamarai szerv elnöke által meghívottak és azok vehetnek részt, akiket az alapszabálya felsorol.
 
 (2) A területi kamara szerveinek, egyéb bizottságainak és tisztségviselőinek feladatát, hatáskörét, működését és eljárási rendjét a területi kamara alapszabálya határozza meg.
+
+(3) A területi kamara szerveinek ülése elektronikus hírközlő eszköz útján vagy más személyazonosítást lehetővé tevő elektronikus eszköz igénybevételével is megtartható, vagy írásbeli egyeztetésre és döntéshozatalra is sor kerülhet. Az írásbeli egyeztetés és döntéshozatal elektronikus üzenetváltással (e-mail) is történhet.
 
 #### 73. A közgyűlés
 

@@ -62,6 +62,7 @@ az arcképelemzési nyilvántartásról és az arcképelemző rendszerről
 - p) a rendőri intézkedéssel érintett személyek személyazonosságának megállapítása, ellenőrzése,
 - q) az elektronikus ügyintézést igénybe vevő személyek személyazonosság-ellenőrzésének támogatása az ügyfélazonosítás keretében,
 - r) az elektronikus ügyintézés során a személyazonosság igazolására alkalmas hatósági igazolványok kiadására irányuló eljárásokban a személyazonosság ellenőrzésének támogatása.
+- s) az egészségügyről szóló 1997. évi CLIV. törvény szerinti arcképes azonosításra épülő telemedicina szolgáltatás esetében a beteg azonosítása.
 
 (4) A jogosultsági nyilvántartás vezetésének a célja az igénybevételre jogosult szerv, a hozzáférésre felhatalmazott személy, valamint a központi szervnek az arcképelemző rendszer működtetésére jogosult tagja arckép profil nyilvántartáshoz való hozzáféréséhez szükséges adatainak tárolása, valamint az adatkezelés jogszerűsége ellenőrzésének biztosítása.
 
@@ -243,6 +244,8 @@ személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 (2) A 3. § (3) bekezdés q) pontjában meghatározott célból jogosult az elektronikus azonosítási szolgáltatást végző szerv az elektronikus ügyintézés során az általa rögzített arcképmás felhasználásával az elektronikus ügyintézést igénybe vevő személy személyazonossága ellenőrzésének támogatása érdekében az arcképelemző rendszer általi automatizált összehasonlítást igénybe venni.
 
 (3) A 3. § (3) bekezdés r) pontjában meghatározott célból jogosult a személyazonosság igazolására alkalmas hatósági igazolványok kiadására irányuló eljárások esetén az eljáró szerv, az elektronikus ügyintézés során az általa rögzített arcképmás felhasználásával, az ügyfél személyazonossága ellenőrzésének támogatása érdekében az arcképelemző rendszer általi automatizált összehasonlítást igénybe venni.
+
+(4) A 3. § (3) bekezdés s) pontjában meghatározott célból jogosult az e-közigazgatásért felelős miniszter az általa rögzített arcképmás felhasználásával a beteg személyazonossága ellenőrzésének támogatása érdekében az arcképelemző rendszer általi automatizált összehasonlítást igénybe venni.
 
 ### III. Fejezet — ADATOK TOVÁBBÍTÁSA AZ IGÉNYBEVÉTELRE JOGOSULT SZERV RÉSZÉRE
 

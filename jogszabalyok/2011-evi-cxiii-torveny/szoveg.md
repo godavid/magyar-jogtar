@@ -1206,7 +1206,13 @@ az általa vezetett minisztériumnak a kormányzati igazgatásról szóló 2018.
 
 (8)
 
-46/A. §
+#### 29/A. A honvédelmi egészségügyi szolgáltató irányítására vonatkozó rendelkezések
+
+46/A. § (1) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjét az egészségügyért felelős miniszter egyetértésével a honvédelemért felelős miniszter nevezi ki, vagy bízza meg és vonja vissza magasabb vezetői megbízását.
+
+(2) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetője törvényben meghatározott egyes jogköreit – a honvédelmi egészségügyi szolgáltató szervezeti és működési szabályzatában rögzített módon – az egyes irányítási és szakmai fenntartói feladatok koordinálása céljából a honvédelmi egészségügyi szolgáltató szervezeti egységen belül erre létrehozott, önálló, magasabb vezetői munkakört, vagy ennek megfelelő szolgálati beosztást betöltő személy részére átruházhatja, akit a honvédelemért felelős miniszter és az egészségügyi szolgáltatás irányításáért felelős szerv vezetője együttesen nevez ki, vagy bízza meg és vonja vissza magasabb vezetői megbízását.
+
+(3) A honvédelmi egészségügyi szolgáltató és az egészségügyi szolgáltatás irányításáért felelős szerv közötti kapcsolattartásra a honvédelemért felelős miniszter katonai összekötőt nevez ki.
 
 #### 30. A katonai szervezetek irányítása és vezetése
 
@@ -1883,6 +1889,8 @@ rendelheti el.
 - 9. Honvédség fegyverzete: a Honvédségnél rendszeresített valamennyi lőfegyver és minden olyan egyéb harceszköz – tekintet nélkül műszaki jellemzőire és alkalmazási módjára –, amely alkalmas a szemben álló erők és eszközök leküzdésére, ide nem értve a kibertérben végrehajtott műveletekhez szükséges technikai eszközöket és eljárásokat,
 - 10. honvédelem helyi igazgatási szerve: a helyi védelmi bizottság,
 - 11. honvédelem területi igazgatási szerve: a megyei, fővárosi védelmi bizottság, valamint a katonai igazgatás területi szerve,
+- 11a. honvédelmi egészségügyi szolgáltató: a honvédelemért felelős miniszter irányítása alá tartozó, az egészségügyről szóló 1997. évi CLIV. törvény szerint egészségügyi szolgáltatónak minősülő honvédelmi szervezet, amely a Kormány rendeletében meghatározott megyei intézmény kategóriával azonos besorolású egészségügyi intézmény,
+- 11b. honvédelmi egészségügyi szolgáltató szervezeti egység: a honvédelmi egészségügyi szolgáltató alapító okiratában meghatározott, közfinanszírozott területi ellátási kötelezettséggel rendelkező szervezeti egység,
 - 12. honvédelmi igazgatás: a védelmi igazgatás részét képező feladat- és szervezetrendszer, amelynek keretében az ország védelmére létrehozott, valamint e feladatra kijelölt közigazgatási szervek, továbbá a honvédelemben közreműködő más szervek ellátják az 1. § (3) bekezdésében meghatározottak honvédelemre való felkészítésével, az országvédelemmel és a honvédelmi kötelezettségek teljesítésével kapcsolatos feladatokat,
 - 12a. honvédelmi összekötő: a honvédelemben közreműködő szerv honvédelmi felkészülési és védekezési szakmai feladatait támogató, e feladat ellátására a honvédelemért felelős miniszter által – a katasztrófák elleni védekezésért felelős miniszter tájékoztatása mellett – kijelölt, a honvédelemért felelő miniszter által az e törvény végrehajtására kiadott rendeletben meghatározott végzettséggel rendelkező személy,
 - 13. honvédelmi szervezet: a honvédelemért felelős miniszter által vezetett minisztérium, a honvédelemért felelős miniszter közvetlen alárendeltségébe tartozó szervezet, a Honvédség, valamint a KNBSZ,

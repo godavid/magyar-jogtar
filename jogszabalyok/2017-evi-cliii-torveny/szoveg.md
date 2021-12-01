@@ -56,7 +56,7 @@ kell érteni.
 - 9. gépjármű: olyan jármű, amelyet beépített erőgép hajt;
 - 10. hozzátartozó: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti hozzátartozó;
 - 11. jármű: közúti szállító- vagy vontató eszköz, ideértve az önjáró vagy vontatott munkagépet is;
-- 12. jövedelem: munkabér, illetmény, munkadíj, a munkaviszonyon, közfoglalkoztatási jogviszonyon, munkaviszony jellegű szövetkezeti jogviszonyon, közszolgálati, kormányzati szolgálati, adó- és vámhatósági szolgálati, állami szolgálati és közalkalmazotti jogviszonyon, rendvédelmi igazgatási szolgálati jogviszonyon, honvédelmi alkalmazotti jogviszonyon, szolgálati viszonyon, társadalombiztosítási jogviszonyon alapuló járandóság, valamint a munkából eredő egyéb rendszeres, időszakonként visszatérően kapott díjazás, juttatás, valamint az egyéb járandóság;
+- 12. jövedelem: munkabér, illetmény, munkadíj, a munkaviszonyon, közfoglalkoztatási jogviszonyon, munkaviszony jellegű szövetkezeti jogviszonyon, közszolgálati, kormányzati szolgálati, adó- és vámhatósági szolgálati, állami szolgálati közalkalmazotti és egészségügyi szolgálati jogviszonyon, rendvédelmi igazgatási szolgálati jogviszonyon, honvédelmi alkalmazotti jogviszonyon, szolgálati viszonyon, társadalombiztosítási jogviszonyon alapuló járandóság, valamint a munkából eredő egyéb rendszeres, időszakonként visszatérően kapott díjazás, juttatás, valamint az egyéb járandóság;
 - 13. költségvetési támogatás: az államháztartásról szóló törvény (a továbbiakban: Áht.) szerinti támogatás és az Art. szerinti azon költségvetési támogatások, amelyek az Áht. alapján nem minősülnek támogatásnak;
 - 14. közeli hozzátartozó: a Ptk. szerinti közeli hozzátartozó;
 - 15. közeli lejáratú termék:

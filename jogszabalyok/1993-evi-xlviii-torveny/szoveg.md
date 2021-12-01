@@ -24,6 +24,7 @@ E törvény célja az ásványi nyersanyagok bányászatának, a geotermikus ene
 - l) a földtani kutatás, ide nem értve a nukleáris létesítmény, radioaktívhulladék-tároló és radioaktív hulladék átmeneti tárolója telephelyének vizsgálatához, értékeléséhez, telepítéséhez szükséges földtani kutatást,
 - m) a vizek kártételei elleni védelem és védekezés célját szolgáló közcélú vízilétesítmények létesítéséhez szükséges ásványinyersanyag-kinyerő helyek létesítése, üzemeltetése, megszüntetése,
 - n) az a)–m) pontokban felsorolt tevékenységek gyakorlásához szükséges létesítmények és berendezések, valamint a nukleáris létesítmény, a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója telephelyének vizsgálatához, értékeléséhez, telepítéséhez szükséges földtani kutatást szolgáló sajátos építmények.
+- o) a magyar állam tulajdonosi jogait gyakorló szerv útján a magyar állam javára megszerzett bányászati jog gyakorlása az e törvényben meghatározott eltérésekkel.
 
 (2) Az (1) bekezdés a) pontjában meghatározott tevékenységnek minősül a torlatban, hordalékban előforduló ásványi nyersanyagok kutatása és kitermelése is.
 
@@ -664,7 +665,9 @@ vonatkozó információ.
 
 (3b) A (3a) bekezdés szerinti nyilvántartás – a jogosítottjának neve és lakóhelye, illetve megnevezése és székhelye kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(4) A bányafelügyelet a bányatelket kérelemre módosíthatja. Ha a módosítás az ingatlan-nyilvántartásba bejegyzett bányatelket érint, a módosításról rendelkező véglegessé vált határozattal megkeresi az ingatlanügyi hatóságot a bányatelekben bekövetkezett módosulás ingatlan-nyilvántartási bejegyzése végett. A bányatelek módosítására a bányatelek megállapítására vonatkozó szabályokat kell megfelelően alkalmazni.
+(4) A bányafelügyelet a bányatelket kérelemre módosíthatja. Ha a módosítás az ingatlan-nyilvántartásba bejegyzett bányatelket érint, a módosításról rendelkező véglegessé vált határozattal megkeresi az ingatlanügyi hatóságot a bányatelekben bekövetkezett módosulás ingatlan-nyilvántartási bejegyzése végett.
+
+(4a) A bányatelek módosítására a bányatelek megállapítására vonatkozó szabályokat kell megfelelően alkalmazni. Nem kell alkalmazni a 26/A. § (3) bekezdés b) pontjában és (3a) bekezdésében foglaltakat abban az esetben, ha a módosítás a bányatelek megosztására vagy bányatelkek egyesítésére irányul, és a módosítással megállapított bányatelek nem érint új térrészt a megosztott, illetve egyesített bányatelkek EOV rendszer szerinti koordinátái, alap- és fedőlapja által körülhatárolt térrészhez képest.
 
 (5) Ha – az építőipari nyers- és alapanyag esetén a magyar állam tulajdonosi jogköreit gyakorló szerv a bányászati jogra nem tart igényt – a bányavállalkozó kérelmére vagy hivatalból a bányafelügyelet törli a bányatelket, a törlés tényét a nyilvántartásában átvezeti és erről az érintetteket értesíti. A véglegessé vált törlő határozattal megkeresi az ingatlanügyi hatóságot a bányatelek-bejegyzés ingatlan-nyilvántartásból történő törlése végett. A bányatelek volt jogosultjának kötelezettségei a bányakárok megtérítése, a tájrendezés és a biztonság, valamint a környezet- és természetvédelem tekintetében a bányatelek törlését követően is fennállnak.
 
@@ -702,9 +705,23 @@ vonatkozó információ.
 
 (5) A bányaüzemi felelős műszaki vezető felel a 27. § (2) bekezdésében foglalt rendelkezések, a műszaki előírások és bányabiztonsági szabályok bányaüzemben történő végrehajtásáért, valamint megtartásuk ellenőrzéséért, e körben a bányavállalkozó képviselőjének minősül. Felelőssége nem zárja ki a bányavállalkozó vagy beosztása, munkaköre alapján más személy felelősségét. Ha a bányaüzemi felelős műszaki vezetői megbízás egyes bányászati tevékenységek tekintetében áll fenn, a bányaüzemi felelős műszaki vezető felelőssége e körben kizárólagos.
 
-#### 28/A. §
+### Bányászati jog hasznosításba adása
 
-#### 28/B. §
+28/A. § A magyar állam tulajdonosi jogait gyakorló szerv a 26/A. § (6) bekezdése alapján vagy az építőipari nyers- és alapanyagokra vonatkozó e törvény és végrehajtására kiadott rendelet alapján a magyar állam javára megszerzett bányászati jogot a nemzeti vagyonról szóló törvényben, valamint az állami vagyonról szóló törvényben meghatározott feltételekkel és módon, meghatározott időtartamra szóló szerződéssel hasznosításba adás útján is hasznosíthatja.
+
+28/B. § (1) A hasznosítási szerződés megkötésére a magyar állam tulajdonosi jogait gyakorló szerv nyilvános pályázatot ír ki.
+
+(2) Zártkörű pályázat kiírására kerül sor, ha az adott ügylet megvalósítása – társadalom-, fejlesztéspolitikai vagy egyéb szempontok szerinti cél megvalósítása érdekében – kiemelten indokolt, és arról a Kormány erre figyelemmel határozatban döntött.
+
+(3) A pályázatok értékelésére a pályázat kiírója a Magyar Bányászati és Földtani Szolgálat és az Innovációs és Technológiai Minisztérium részvételével legalább 3 fős bírálóbizottságot hoz létre. A bírálóbizottság javaslata alapján a nyertes pályázó személyéről a magyar állam tulajdonosi jogait gyakorló szerv dönt. A pályázat eredményét nyilvánosságra kell hozni és arról valamennyi pályázót értesíteni kell.
+
+28/C. § A bányászati tevékenység gyakorlásához szükséges valamennyi engedély megszerzése során a hasznosító jár el saját nevében és költségére azzal, hogy ha az engedélyek hasznosító által történő megszerzését követően a hasznosítási szerződés bármely okból megszűnik, úgy a hasznosító jogutódja a magyar állam.
+
+28/D. § A szolgalmi jog alapítását, illetve a kisajátítást a magyar állam tulajdonosi jogait gyakorló szerv jogosult kezdeményezni a hasznosító kérésére. A szolgalmi jog alapításával és a kisajátítással kapcsolatban felmerülő kiadásokat a hasznosító köteles viselni. A kiadások összegét a hasznosító köteles a kisajátítási eljárásban a magyar állam tulajdonosi jogait gyakorló szerv részére megelőlegezni. A szolgalomalapítással érintett, illetve kisajátított ingatlan birtoklására és használatára a hasznosítási szerződés időtartama alatt a hasznosító jogosult.
+
+28/E. § A hasznosítóra az e törvény bányavállalkozóra vonatkozó rendelkezéseit megfelelően alkalmazni kell. A hasznosítóra a 41. § (2) bekezdésében és 41. § (7b) bekezdésében foglalt, a bányavállalkozóra vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a bányászati jog törlése helyett a bányafelügyelet a hasznosítási szerződés megszüntetését kezdeményezheti.
+
+28/F. § A hasznosítási szerződés legfeljebb 20 évi időtartamra köthető, amely egy alkalommal legfeljebb további 10 évi időtartammal, a hasznosító kezdeményezésére meghosszabbítható. A hasznosítási szerződés meghosszabbítását annak lejárata előtt legalább 6 hónappal korábban kell kezdeményezni. A határidő elmulasztása esetén a szerződést meghosszabbítani nem lehet.
 
 ### Együttes kitermelés
 
@@ -1463,6 +1480,7 @@ a bányászati joggal érintett ingatlan tulajdonosa.
   - ab) a bezárást követő időszakra vonatkozó terv elbírálására 45 nap,
 - b) a bányatelek megállapítására indított eljárás során 60 nap,
 - c) a kutatás engedélyezésére vonatkozó eljárás során 25 nap.
+- d) a magyar állam tulajdonosi jogait gyakorló szerv igénybejelentése esetén 55 nap.
 
 (2) A bányafelügyelet
 
@@ -1721,6 +1739,7 @@ bányahatósági felügyelete
 - 54. „Együttes művelési terv”: az a műszaki dokumentáció, amelyet akkor kell készíteni, ha a szénhidrogén-lelőhely feltárására és kitermelésére több, a kitermeléshez szükséges feltételekkel rendelkező bányavállalkozó jogosult.
 - 55. Állami elővásárlási jog szempontjából védettnek minősülő ingatlanokat érintő bányatelkek vonatkozásában bányászható ásványi nyersanyagok: az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben meghatározott gránit murva (kód 1013), riolit (kód 1110), pados andezit (kód 1141), andezit (kód 1142), bazalt (kód 1150), riolittufa (-tufit) (kód 1211), kálitufa (kód 1212), bazalttufa (-tufit) (kód 1240), agyag (kód 1411-1419), kőzetliszt, kőzetiszap (kód 1422), homok (kód 1451-1453), kavics (kód 1460), átmeneti törmelékes nyersanyagok (kód 1471-1473), homokkő-konglomerátum (kód 1481-1485), durva mészkő/puha mészkő (kód 1520), tömött, kristályos mészkő (kód 1531-1533), dolomit (kód 1541-1543), márga (kód 1561-1563), alginit (kód 1620).
 - 56. Építőipari nyers- és alapanyagok: az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben meghatározott képlékeny agyag-II. (kód 1419), kőzetliszt, kőzetiszap (kód 1422), homok (kód 1453), homokos kavics (kód 1471), kavicsos homok (kód 1472), agyagos törmelék (kód 1473), agyagmárga (kód 1564), kevert ásványi nyersanyag I. (kód 2311), kevert ásványi nyersanyag II. (kód 2312) ásványi nyersanyag alcsoportba tartozó nyersanyagok, valamint a kavics (kód 1460) ásványi nyersanyag csoportba tartozó nyersanyagok.
+- 57. Hasznosító: a magyar állam tulajdonát képező bányászati jog hasznosítására a magyar állam tulajdonosi jogait gyakorló szervvel szerződéses jogviszonyban álló személy.
 
 ## VI. RÉSZ — A BÁNYÁSZOK ERKÖLCSI ÉS ANYAGI MEGBECSÜLÉSE
 
@@ -1859,7 +1878,10 @@ bányahatósági felügyelete
 - 29. a nyugdíjas bányászok szénjárandóságának pénzbeli megváltására,
 - 30. a vizek kártételei elleni védelem és védekezés célját szolgáló közcélú vízilétesítmények létesítéséhez szükséges anyagnyerő hely engedélyezésére, az engedély iránti kérelem tartalmi követelményeire, a komplex műveleti terv tartalmára, az anyagnyerő hely létesítéséhez szükséges biztosítékokra, az anyagnyerő hely megszüntetésére irányuló kérelem tartalmi követelményeire, a bírság mértékére,
 - 31. a bányászati hatósági feladatokat ellátó szervek által – közigazgatási hatósági hatáskörében eljárva – alkalmazandó kiegészítő eljárási szabályokra
-- 32. az állami elővásárlási jog szempontjából védettnek minősülő ingatlanok esetében az állami elővásárlási jog gyakorlására vonatkozó részletes szabályok rendeletben történő megállapítására.
+- 32. az állami elővásárlási jog szempontjából védettnek minősülő ingatlanok esetében az állami elővásárlási jog gyakorlására
+- 33. a bányászati jog hasznosításba adására vonatkozó pályázati eljárásra, hasznosítási szerződés tartalmi követelményeire;
+
+vonatkozó részletes szabályok rendeletben történő megállapítására.
 
 (2) Felhatalmazást kap a miniszter
 
@@ -1938,3 +1960,5 @@ rendeletben történő megállapítására.
 - d) a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi irányelv, a 2000/60/EK, a 2001/80/EK, a 2004/35/EK, a 2006/12/EK és a 2008/1/EK európai parlamenti és tanácsi irányelv, valamint az 1013/2006/EK rendelet módosításáról szóló, 2009. április 23-i 2009/31/EK európai parlamenti és tanácsi irányelv.
 
 52. § E törvény 42/V. § (2) bekezdése az energiaunió és az éghajlat-politika irányításáról, valamint a 663/2009/EK és a 715/2009/EK európai parlamenti és tanácsi rendelet, a 94/22/EK, a 98/70/EK, a 2009/31/EK, a 2009/73/EK, a 2010/31/EU, a 2012/27/EU és a 2013/30/EU európai parlamenti és tanácsi irányelv, a 2009/119/EK és az (EU) 2015/652 tanácsi irányelv módosításáról, továbbá az 525/2013/EU európai parlamenti és tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. december 11-i 2018/1999/EU európai parlamenti és tanácsi rendelet 48. cikke végrehajtásához szükséges rendelkezéseket állapít meg.
+
+53. § A 28/F. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.

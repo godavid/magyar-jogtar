@@ -39,9 +39,9 @@ is alkalmazni kell.
 
 (5) A tartalékállományra vonatkozó rendelkezéseket a szolgálati viszony megszűnését követően a hivatásos állományból tartalékállományba helyezettekre vagy tartalékállományban tartottakra is alkalmazni kell.
 
-(6) A 14. §-t, a 328/A. §-t, a 342. § (4) bekezdését, valamint a XXVIII/A., a XXIX. és XXX. Fejezet rendelkezéseit a rendvédelmi szervvel rendvédelmi igazgatási szolgálati jogviszonyban állókra is alkalmazni kell.
+(6) A 14. §-t, a 328/A. §-t, a 342. § (4) bekezdését, valamint a XXVIII/A., a XXIX., XXX. és XXX/A. Fejezet rendelkezéseit a rendvédelmi szervvel rendvédelmi igazgatási szolgálati jogviszonyban állókra is alkalmazni kell.
 
-(7) A 287/C. § rendelkezéseit a rendvédelmi szervvel munkaviszonyban állókra, a 290/B. §-t a rendvédelmi szervnél igazságügyi alkalmazotti jogviszonyban kell alkalmazni.
+(7) A 287/C. § és a XXX/A. Fejezet rendelkezéseit a rendvédelmi szervvel munkaviszonyban állókra, a 290/B. §-t a rendvédelmi szervnél igazságügyi alkalmazotti jogviszonyban kell alkalmazni.
 
 (8) A rendvédelmi egészségkárosodási keresetkiegészítésre és a rendvédelmi egészségkárosodási járadékra vonatkozó rendelkezéseket a szolgálati viszony megszűnését követően a hivatásos állomány volt tagjára és közeli hozzátartozóira is alkalmazni kell.
 
@@ -476,9 +476,9 @@ kézbesítettnek kell tekinteni.
 
 34. § (1) Ha a szolgálati viszony létesítése kormányzati szolgálati jogviszonyból, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyból (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) vagy a Magyar Honvédség hivatásos katonai állományából áthelyezéssel történik, próbaidő kikötésére nem kerül sor.
 
-(2) Ha a szolgálati viszony közszolgálati jogviszonyból, közalkalmazotti jogviszonyból, rendvédelmi igazgatási szolgálati jogviszonyból vagy igazságügyi alkalmazotti jogviszonyból áthelyezéssel létesül, a próbaidő kikötése kötelező, azzal, hogy próbaidő legfeljebb hat hónap időtartamra köthető ki. Mellőzhető a próbaidő kikötése, ha az áthelyezett rendelkezik a szolgálati beosztás ellátásához előírt rendvédelmi képzettséggel.
+(2) Ha a szolgálati viszony közszolgálati jogviszonyból, közalkalmazotti jogviszonyból, egészségügyi szolgálati jogviszonyból, rendvédelmi igazgatási szolgálati jogviszonyból vagy igazságügyi alkalmazotti jogviszonyból áthelyezéssel létesül, a próbaidő kikötése kötelező, azzal, hogy próbaidő legfeljebb hat hónap időtartamra köthető ki. Mellőzhető a próbaidő kikötése, ha az áthelyezett rendelkezik a szolgálati beosztás ellátásához előírt rendvédelmi képzettséggel.
 
-(3) Ha a szolgálati viszony olyan személy áthelyezésével létesül, akinek korábbi szolgálati viszonya áthelyezéssel változott közszolgálati, közalkalmazotti, igazságügyi alkalmazotti jogviszonyra vagy rendvédelmi igazgatási szolgálati jogviszonyra, a próbaidőre vonatkozó rendelkezések nem alkalmazhatók, feltéve, hogy az érintett rendelkezik a szolgálati beosztás ellátásához előírt rendvédelmi képzettséggel.
+(3) Ha a szolgálati viszony olyan személy áthelyezésével létesül, akinek korábbi szolgálati viszonya áthelyezéssel változott közszolgálati, közalkalmazotti, egészségügyi szolgálati, igazságügyi alkalmazotti jogviszonyra vagy rendvédelmi igazgatási szolgálati jogviszonyra, a próbaidőre vonatkozó rendelkezések nem alkalmazhatók, feltéve, hogy az érintett rendelkezik a szolgálati beosztás ellátásához előírt rendvédelmi képzettséggel.
 
 (4) Szolgálati viszony létesítésére a hivatásos szolgálat felső korhatáráig kerülhet sor. Egyebekben az áthelyezettnek meg kell felelnie a szolgálati viszony létesítéséhez a 33. § (1)–(6) bekezdésében meghatározott feltételeknek.
 
@@ -689,7 +689,7 @@ valamint kikéri a hivatásos állomány tagja szolgálati elöljárójának vé
 - c) a fogvatartottak kötelező foglalkoztatására létrehozott gazdálkodó szervezetnél, vagy
 - d) a miniszter vagy a miniszter irányítása alá tartozó személy, szervezet tulajdonosi joggyakorlása alatt álló gazdasági társaságnál vagy annak leányvállalatánál
 
-meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati beosztásban, kormánytisztviselői, közalkalmazotti, rendvédelmi igazgatási alkalmazotti, a d) pont szerinti esetben továbbá munkavállalói munkakörben.
+meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati beosztásban, kormánytisztviselői, közalkalmazotti, egészségügyi szolgálati jogviszonyban betölthető, rendvédelmi igazgatási alkalmazotti, a d) pont szerinti esetben továbbá munkavállalói munkakörben.
 
 (3) Hivatásos szolgálat kormányzati, rendvédelmi érdekből a rendvédelmi szerven kívül a következő szerveknél is teljesíthető:
 
@@ -886,13 +886,13 @@ meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati b
 
 65. § (1) A hivatásos állomány tagját a miniszter az 51. § (2) bekezdésében meghatározott szervhez – beleegyezésével – határozott vagy határozatlan időre vezényelheti.
 
-(2) A miniszter az 51. § (2) bekezdésében meghatározott szervhez vezénylés elrendelésekor meghatározza, hogy a vezényelt szolgálati beosztást, közalkalmazotti, rendvédelmi igazgatási alkalmazotti, kormánytisztviselői vagy – az 51. § (2) bekezdés d) pontja szerinti esetben – munkavállalói munkakört, illetve álláshelyet tölt be.
+(2) A miniszter az 51. § (2) bekezdésében meghatározott szervhez vezénylés elrendelésekor meghatározza, hogy a vezényelt szolgálati beosztást, közalkalmazotti, egészségügyi szolgálati jogviszonyban betölthető, rendvédelmi igazgatási alkalmazotti, kormánytisztviselői vagy – az 51. § (2) bekezdés d) pontja szerinti esetben – munkavállalói munkakört, illetve álláshelyet tölt be.
 
 (2a) Az (1) bekezdéstől eltérően a büntetés-végrehajtási szervezet hivatásos állományának tagját az 51. § (2) bekezdés c) pontjában meghatározott szervhez – beleegyezésével – az állományilletékes parancsnok vezényli, határozatlan időre. A (2) bekezdéstől eltérően a vezénylés csak szolgálati beosztás betöltésére történhet.
 
 (3) Az 51. § (2) bekezdésében meghatározott szervhez
 
-- a) kormánytisztviselői, közalkalmazotti, rendvédelmi igazgatási alkalmazotti vagy munkavállalói munkakörbe, álláshelyre történő vezénylésre a más szervhez vezénylésre vonatkozó rendelkezéseket az e §-ban meghatározott eltéréssel,
+- a) kormánytisztviselői, közalkalmazotti, egészségügyi szolgálati jogviszonyban betölthető, rendvédelmi igazgatási alkalmazotti vagy munkavállalói munkakörbe, álláshelyre történő vezénylésre a más szervhez vezénylésre vonatkozó rendelkezéseket az e §-ban meghatározott eltéréssel,
 - b) szolgálati beosztás betöltésére vezénylésre az e §-ban és a 66. §-ban foglalt eltérésekkel
 
 kell alkalmazni.
@@ -1115,7 +1115,7 @@ az (1) bekezdésben foglaltaktól eltérően a miniszter helyett az országos pa
 - b) lemondással,
 - c) azonnali hatályú lemondással,
 - d) felmentéssel,
-- e) kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszonyba, rendvédelmi igazgatási szolgálati jogviszonyba, vagy igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezéssel,
+- e) kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati jogviszonyba, rendvédelmi igazgatási szolgálati jogviszonyba, vagy igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezéssel,
 - f) más rendvédelmi szervhez történő áthelyezéssel,
 - g) a Magyar Honvédséghez történő áthelyezéssel,
 - h) azonnali hatállyal a próbaidő alatt.
@@ -1532,7 +1532,7 @@ távolléti díjnak megfelelő összeg. E tekintetben a hivatásos szolgálati i
 (2) A hivatásos állomány tagját kérelmére a szolgálati viszony megszűnése után is tartalékállományban kell tartani a továbbfoglalkoztatás megkezdéséig, de legfeljebb egy évig, ha
 
 - a) a 86. § (2) bekezdés a) pontja alapján egészségi, pszichológiai vagy fizikai alkalmatlanság miatt mentették fel,
-- b) az (1) bekezdés szerinti tartalékállomány tartama alatt részére a rendvédelmi szervnél, más rendvédelmi vagy egyéb költségvetési szervnél a képzettségének, végzettségének, egészségi, pszichológiai és fizikai állapotának megfelelő hivatásos, rendvédelmi igazgatási szolgálati, kormányzati szolgálati, közalkalmazotti jogviszony vagy munkaviszony alá tartozó munkakör nem volt biztosítható, és
+- b) az (1) bekezdés szerinti tartalékállomány tartama alatt részére a rendvédelmi szervnél, más rendvédelmi vagy egyéb költségvetési szervnél a képzettségének, végzettségének, egészségi, pszichológiai és fizikai állapotának megfelelő hivatásos, rendvédelmi igazgatási szolgálati, kormányzati szolgálati, közalkalmazotti, egészségügyi szolgálati jogviszony vagy munkaviszony alá tartozó munkakör nem volt biztosítható, és
 - c) a felmentési idő lejártakor rendelkezik legalább huszonöt év tényleges szolgálati idővel.
 
 (3) A (2) bekezdés szerinti tartalékállományban tartás időtartamára a tartalékállományban tartott a felmentését megelőző havi illetménye 50%-ának, de legalább a minimálbérnek megfelelő összegű ideiglenes szolgálati járandóságra jogosult, feltéve, hogy az ideiglenes szolgálati járandóság kezdő napján más biztosítással járó jogviszonyban nem áll, és a szociális igazgatásról és szociális ellátásokról szóló törvény által rendszeres pénzellátásként felsorolt ellátásban – ide nem értve a Tny. szerinti hozzátartozói nyugellátásokat – nem részesül. A tartalékállomány időtartama társadalombiztosítási szempontból szolgálati időnek számít, a tartalékállományban tartott biztosítási jogviszonyban áll.
@@ -1569,17 +1569,17 @@ távolléti díjnak megfelelő összeg. E tekintetben a hivatásos szolgálati i
 
 94. § Ha törvény a tartalékállományba helyezettek vagy tartalékállományban tartottak foglalkoztatására járulékcsökkentési kedvezményt biztosít, vagy lehetővé teszi annak személyi juttatásokra történő felhasználását, e rendelkezéseket a 91–93. § szerint tartalékállományba helyezett vagy tartalékállományban tartott személyt foglalkoztatóra is alkalmazni kell.
 
-95. § A rendvédelmi szervek hivatásos állományából tartalékállományba helyezetteket és a tartalékállományban tartottakat a közszolgálatban történő továbbfoglalkoztatásuk érdekében a kormányzati szolgálati jogviszonyban, közszolgálati, közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban vagy igazságügyi alkalmazotti szolgálati jogviszonyban foglalkoztató költségvetési szerveknél, valamint a Magyar Honvédségnél a megüresedő munkakörök betöltésénél előnyben kell részesíteni.
+95. § A rendvédelmi szervek hivatásos állományából tartalékállományba helyezetteket és a tartalékállományban tartottakat a közszolgálatban történő továbbfoglalkoztatásuk érdekében a kormányzati szolgálati jogviszonyban, közszolgálati, közalkalmazotti, egészségügyi szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban vagy igazságügyi alkalmazotti szolgálati jogviszonyban foglalkoztató költségvetési szerveknél, valamint a Magyar Honvédségnél a megüresedő munkakörök betöltésénél előnyben kell részesíteni.
 
-#### 57. Kormányzati szolgálati, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezés
+#### 57. Kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati, igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezés
 
 96. § A hivatásos állomány tagja, valamint
 
 - a) az állományilletékes parancsnok,
 - b) az állományilletékes parancsnok és a rendvédelmi szerv másik szervezeti egységének munkáltatói jogkört gyakorló elöljárója, vagy
-- c) az állományilletékes parancsnok és a kormányzati szolgálati, közszolgálati, közalkalmazotti vagy igazságügyi alkalmazotti szolgálati jogviszony létrehozására feljogosított munkáltatói szerv vezetője
+- c) az állományilletékes parancsnok és a kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati vagy igazságügyi alkalmazotti szolgálati jogviszony létrehozására feljogosított munkáltatói szerv vezetője
 
-megállapodhatnak a hivatásos állomány tagjának kormányzati szolgálati, közszolgálati, közalkalmazotti vagy igazságügyi alkalmazotti szolgálati jogviszonyba, rendvédelmi igazgatási szolgálati jogviszonyba történő áthelyezésében.
+megállapodhatnak a hivatásos állomány tagjának kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati vagy igazságügyi alkalmazotti szolgálati jogviszonyba, rendvédelmi igazgatási szolgálati jogviszonyba történő áthelyezésében.
 
 #### 58. Más rendvédelmi szervhez történő áthelyezés
 
@@ -3597,7 +3597,7 @@ kerülhet sor.
 - c) e törvény hatálya alá tartozó másik rendvédelmi szervnél szolgálati viszonyban, közalkalmazotti, kormányzati szolgálati, közszolgálati, igazságügyi alkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban töltött időt,
 - d) a Magyar Honvédség hivatásos és szerződéses katonai állományában töltött időt,
 - e) az a) és b) pont alá nem tartozó költségvetési szervnél kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban vagy közszolgálati jogviszonyban töltött időt, ha a szolgálati viszony e jogviszonyok valamelyikéből áthelyezéssel vagy közvetlenül kinevezéssel jött létre,
-- f) az a) és b) pont alá nem tartozó költségvetési szervnél közalkalmazotti, igazságügyi alkalmazotti, bírói vagy ügyészi jogviszonyban eltöltött időt, ha a szolgálati viszony e jogviszonyok valamelyikéből áthelyezéssel vagy közvetlenül kinevezéssel jött létre,
+- f) az a) és b) pont alá nem tartozó költségvetési szervnél közalkalmazotti, egészségügyi szolgálati, igazságügyi alkalmazotti, bírói vagy ügyészi jogviszonyban eltöltött időt, ha a szolgálati viszony e jogviszonyok valamelyikéből áthelyezéssel vagy közvetlenül kinevezéssel jött létre,
 - g) e törvény hatálybalépése előtt a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: 1996. évi XLIII. törvény) rendelkezései alapján elismert és beszámított időt
 - h) a sor- és tartalékos katonai szolgálatban eltöltött időt.
 - i) a Nemzeti Adó- és Vámhivatalnál adó- és vámhatósági szolgálati jogviszonyban és munkaviszonyban, valamint 2021. január 1-jét megelőzően hivatásos szolgálati jogviszonyban, kormánytisztviselői jogviszonyban töltött időt.
@@ -3625,7 +3625,7 @@ a rögzítéskor meghatározott szolgálati időre figyelemmel kell megállapít
 
 (2) A szolgálati viszony szünetelésének időtartama hivatásos szolgálati időnek számít, ha a járulékfizetési kötelezettségnek eleget tettek.
 
-283. § Akinek a szolgálati viszonyát megszüntették, annak a 280. § (1) bekezdése szerint számított hivatásos szolgálati idejét – ha jogszabály eltérően nem rendelkezik – kormányzati szolgálati, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti szolgálati jogviszony, bírói vagy ügyészségi szolgálati viszony, rendvédelmi igazgatási szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony vagy közigazgatási szervnél munkaviszony létesítése esetén a létesítendővel azonos jellegű jogviszonyban eltöltött időnek kell elismerni.
+283. § Akinek a szolgálati viszonyát megszüntették, annak a 280. § (1) bekezdése szerint számított hivatásos szolgálati idejét – ha jogszabály eltérően nem rendelkezik – kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati, igazságügyi alkalmazotti szolgálati jogviszony, bírói vagy ügyészségi szolgálati viszony, rendvédelmi igazgatási szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony vagy közigazgatási szervnél munkaviszony létesítése esetén a létesítendővel azonos jellegű jogviszonyban eltöltött időnek kell elismerni.
 
 ### XXVII. Fejezet — A TISZTJELÖLT
 
@@ -4112,7 +4112,7 @@ létesíthető. A határozott idejű igazgatási jogviszony időtartamát naptá
 - b) lemondással,
 - c) azonnali hatályú lemondással,
 - d) felmentéssel,
-- e) kormányzati szolgálati, közszolgálati, közalkalmazotti, hivatásos szolgálati jogviszonyba, katonai szolgálati jogviszonyba vagy igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezéssel,
+- e) kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati, hivatásos szolgálati jogviszonyba, katonai szolgálati jogviszonyba vagy igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezéssel,
 - f) más rendvédelmi szervhez történő áthelyezéssel,
 - g) azonnali hatállyal a próbaidő alatt.
 
@@ -5200,6 +5200,104 @@ hivatásos állománya tagjainak és rendvédelmi igazgatási alkalmazottainak, 
 
 317. § Az Országos Közszolgálati Érdekegyeztető Tanács a szolgálati viszonyban állók érdekegyeztető fóruma is.
 
+### XXX/A. Fejezet — A RENDVÉDELMI SZERVNÉL MŰKÖDŐ EGÉSZSÉGÜGYI SZOLGÁLTATÓNÁL FOGLALKOZTATOTTAKRA VONATKOZÓ ELTÉRŐ RENDELKEZÉSEK
+
+317/A. § (1) A rendvédelmi szervnél működő egészségügyi szolgáltatónál
+
+- a) a hivatásos állományból,
+- b) a rendvédelmi igazgatási szolgálati jogviszonyban álló állományból, valamint
+- c) a munkavállalói állományból
+
+egészségügyi tevékenységet végző személyre e törvényt az e fejezetben foglalt eltérésekkel kell alkalmazni.
+
+(2) E fejezet alkalmazásában
+
+- a) egészségügyi tevékenységet végző személy: az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 4. § a) pontja szerinti egészségügyi dolgozó,
+- b) egészségügyi feladatot ellátó dolgozó: a rendvédelmi szervnél szolgálati viszonyban, rendvédelmi igazgatási szolgálati jogviszonyban vagy munkaviszonyban álló orvos, szakorvos, fogorvos, szakfogorvos, gyógyszerész, szakgyógyszerész, továbbá egyéb, az egészségügyi feladatot ellátó szakdolgozónak nem minősülő nem egészségügyi egyetemi végzettséggel, valamint nem egészségügyi egyetemi végzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkező személy,
+- c) egészségügyi feladatot ellátó szakdolgozó: a rendvédelmi szervnél szolgálati viszonyban, rendvédelmi igazgatási szolgálati jogviszonyban vagy munkaviszonyban álló egészségügyi tevékenységet végző személy, aki a miniszter által rendeletben meghatározott szakdolgozói szolgálati beosztást vagy munkakört tölt be.
+
+317/B. § (1) A szolgálati viszonyban álló egészségügyi feladatot ellátó dolgozó
+
+- a) a 154–158. § szerinti illetmény helyett az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) 1. mellékletében meghatározott illetmény 106%-ára jogosult, az Eszjtv. 8. § (8a)–(9a) bekezdése alapján részére meghatározott gyakorlati idő figyelembevételével,
+- b) részére a 180. § (2) bekezdése szerinti tanácsosi és főtanácsosi címpótlék nem folyósítható, azonban a cím használatára jogosult,
+- c) besorolása, rendfokozata, szolgálati ideje e törvény szerint kerül megállapításra,
+- d) esetében nem alkalmazható a 160. §, a 6., 8. és 9. mellékletben foglalt, a beosztási illetményt meghatározó szorzószám és a 10. melléklet.
+
+(2) A rendvédelmi igazgatási szolgálati viszonyban álló egészségügyi feladatot ellátó dolgozó
+
+- a) a 289. § szerinti illetmény helyett az Eszjtv. 1. mellékletében meghatározott illetményre jogosult, az Eszjtv. 8. § (8a)–(9a) bekezdése alapján részére meghatározott gyakorlati idő figyelembevételével,
+- b) esetében a 289/A. § nem alkalmazható azzal, hogy a rendvédelmi igazgatási szolgálati viszonyban álló e törvény szerinti fizetési fokozatát vezetni kell,
+- c) esetében nem alkalmazható a 289/D. § és a 12. melléklet.
+
+(3) Az (1) bekezdés a) pontja, illetve a (2) bekezdés a) pontja szerinti illetmény legfeljebb húsz százalékos mértékben növelhető, a szolgálati viszonyban álló egészségügyi feladatot ellátó dolgozó esetében a 111–113. §, a rendvédelmi igazgatási szolgálati jogviszonyban álló egészségügyi feladatot ellátó dolgozó esetében a 288/Q. § szerinti teljesítményértékelés alapján. Az ilyen módon megnövelt illetmény első alkalommal április hónapban folyósítható, utolsó alkalommal a tárgyévet követő év márciusában jár.
+
+(4) Ha a XXVIII. Fejezet szerinti munkavállaló egészségügyi feladatot ellátó dolgozói feladatot lát el, legalább az Eszjtv. 1. mellékletében meghatározott illetmény 100%-ára jogosult.
+
+(5) Az egészségügyi feladatot ellátó dolgozók közül magasabb vezetőnek minősül
+
+- a) a Büntetés-végrehajtás Egészségügyi Központ főigazgatója, valamint az Igazságügyi Megfigyelő és Elmegyógyító Intézet főigazgató főorvosa, valamint
+- b) a Büntetés-végrehajtás Egészségügyi Központ, valamint az Igazságügyi Megfigyelő és Elmegyógyító Intézet
+  - ba) orvos igazgatója,
+  - bb) ápolási igazgatója és
+  - bc) gazdasági vezetője.
+
+(6) Az (1) bekezdés a) pontjában, illetve (2) bekezdés a) pontjában foglaltaktól eltérően az (5) bekezdés a) pontja szerinti magasabb vezető illetményének összegét egyedileg – az egészségügyi szolgáltatás irányításáért az ágazati jogszabályban kijelölt felelős állami szerv vezetőjének egyetértésével, az egészségügyi szolgáltatás irányításáért az ágazati jogszabályban kijelölt felelős állami szerv vezetőjének irányítása alá tartozó egészségügyi szolgáltatók vezetőinek juttatásai megállapítására vonatkozó alapelvekkel összhangban – a kinevezésre jogosult vezető állapítja meg azzal, hogy
+
+- a) ha az (5) bekezdés a) pontja szerinti magasabb vezető szolgálati viszonyban áll, a 154–158. § szerinti illetmény helyett az Eszjtv. 1. melléklete szerinti legmagasabb fizetési fokozathoz meghatározott összeg legalább 106%-ára,
+- b) ha az (5) bekezdés a) pontja szerinti magasabb vezető rendvédelmi igazgatási szolgálati jogviszonyban áll, a 289. § szerinti illetmény helyett legalább az Eszjtv. 1. melléklete szerinti legmagasabb fizetési fokozathoz meghatározott összegre
+
+jogosult.
+
+(7) Az (1) bekezdés a) pontjában, illetve (2) bekezdés a) pontjában foglaltaktól eltérően az (5) bekezdés b) pontja szerinti magasabb vezető illetményének összegét egyedileg – az egészségügyi szolgáltatás irányításáért az ágazati jogszabályban kijelölt felelős állami szerv vezetőjének egyetértésével, az egészségügyi szolgáltatás irányításáért az ágazati jogszabályban kijelölt felelős állami szerv vezetőjének irányítása alá tartozó egészségügyi szolgáltatók vezetőinek juttatásai megállapítására vonatkozó alapelvekkel összhangban – a kinevezésre jogosult vezető állapítja meg azzal, hogy
+
+- a) ha az (5) bekezdés b) pontja szerinti magasabb vezető szolgálati viszonyban áll, a 154–158. § szerinti illetmény helyett legalább az Eszjtv. 1. melléklete szerinti fizetési fokozatához meghatározott összeg 106%-ára,
+- b) ha az (5) bekezdés b) pontja szerinti magasabb vezető rendvédelmi igazgatási szolgálati jogviszonyban áll, a 289. § szerinti illetmény helyett legalább az Eszjtv. 1. melléklete szerinti fizetési fokozatához meghatározott összegre
+
+jogosult.
+
+(8) A (6) és (7) bekezdésben foglalt magasabb vezető illetményének a (3) bekezdésben foglaltak szerinti növelésére nincs lehetőség.
+
+(9) A 288/S. § (4) bekezdése szerinti korlát tekintetében nem kell beszámítani a 288/T. § (1) bekezdése szerint felsőfokú munkaköri osztályba tartozó „F” munkaköri kategóriába sorolt, (2) bekezdés szerinti rendvédelmi igazgatási alkalmazottat.
+
+(10) Az egészségügyi szolgáltatás irányításáért az ágazati jogszabályban kijelölt felelős állami szerv vezetőjének normatív utasítására figyelemmel a kinevezésre jogosult az egészségügyi tevékenységet végző személy részére elrendelt átmeneti többletfeladatok – ide nem értve a helyettesítést – teljesítéséért alkalmanként kiegészítő illetményt állapíthat meg.
+
+317/C. § (1) A miniszter által rendeletben meghatározott szolgálati beosztást vagy munkakört betöltő egészségügyi feladatot ellátó, szolgálati viszonyban vagy rendvédelmi igazgatási szolgálati jogviszonyban álló szakdolgozó egészségügyi szakdolgozói pótlékra jogosult.
+
+(2) A szolgálati viszonyban álló egészségügyi feladatot ellátó szakdolgozó esetében az egészségügyi szakdolgozói pótlék
+
+- a) a 154. § szerinti illetmény része, azt egyéb pótlékként kell figyelembe venni,
+- b) a 168. § (2) bekezdése tekintetében rendszeres illetménypótléknak minősül.
+
+(3) Az egészségügyi feladatot ellátó szakdolgozói pótlék mértékét a miniszter a rendvédelmi illetményalap 150–400%-a közötti értékben állapítja meg. Az egészségügyi szakdolgozói pótlék mértékének megállapításánál
+
+- a) a betöltött szolgálati beosztást vagy munkakört,
+- b) az egészségügyi tevékenységhez szükséges szakképzettséget, valamint
+- c) az egészségügyi tapasztalatot
+
+kell figyelembe venni.
+
+(4) Az egészségügyi szakdolgozói pótlék megállapításához szükséges gyakorlati időt az Eszjtv. 8. § (8a)–(9a) bekezdésében foglalt idők figyelembevételével kell megállapítani.
+
+(5) Az egészségügyi szakdolgozói pótlékra jogosító szolgálati beosztást és munkakört a középfokú, emeltszintű és felsőfokú végzettséghez kötött szakdolgozói szolgálati beosztásba vagy munkakörbe kell besorolni. Az egészségügyi szakdolgozói pótlék megállapításához szükséges szakdolgozói végzettség szintjeit a miniszter rendeletben határozza meg.
+
+(6) Az egészségügyi szakdolgozói pótlékra jogosultságról a munkáltatói jogkör gyakorlója munkáltatói intézkedésben rendelkezik.
+
+317/D. § (1) A vezetői szolgálati beosztást vagy vezetői munkakört betöltő egészségügyi feladatot ellátó dolgozót a 317/B. §-ban foglaltakon túl – e § szerint – egészségügyi vezetői bérkiegészítés illeti meg.
+
+(2) Az egészségügyi vezetői bérkiegészítés mértékét a vezető kinevezésére jogosult személy állapítja meg. Ha a vezetői szolgálati beosztást vagy vezetői munkakört betöltő egészségügyi feladatot ellátó dolgozót
+
+- a) az országos parancsnok vagy az országos főigazgató nevezi ki, akkor az egészségügyi vezetői bérkiegészítés mértékére az állományilletékes parancsnok tesz javaslatot,
+- b) az állományilletékes parancsnok vagy – rendvédelmi igazgatási szolgálati jogviszonyban foglalkoztatott esetében – a szervezeti egység vezetője nevezi ki, akkor az egészségügyi vezetői bérkiegészítés mértékének megállapítására az országos parancsnok vagy országos főigazgató jóváhagyásával kerülhet sor.
+
+(3) Az egészségügyi vezetői bérkiegészítés mértékét a magasabb vezetők körébe nem tartozó azon vezetői szolgálati beosztást vagy munkakört betöltő esetében, aki önálló szervezeti elem vagy a munkamegosztás szempontjából elkülönült szervezeti elem vezetője az Eszjtv. végrehajtásáról szóló kormányrendelet szerint az egészségügyi intézmény önálló szervezeti egységének, illetve a munkamegosztás szempontjából elkülönült szervezeti egységének – magasabb vezetőnek nem minősülő – vezetőjére és annak helyettesére vonatkozó gyakorlat figyelembevételével kell megállapítani.
+
+(4) Az (1)–(3) bekezdésben foglalt szabályok figyelembevételével megállapított egészségügyi vezetői bérkiegészítés megállapítását követően az egészségügyi vezetői bérkiegészítés mértékéről a munkáltatói jogkör gyakorlója az országos kórház-főigazgatót tájékoztatja.
+
+(5) A szolgálati viszonyban álló egészségügyi feladatot ellátó dolgozó esetében az egészségügyi vezetői bérkiegészítés
+
+- a) a 154. § szerinti illetmény része, azt egyéb pótlékként kell figyelembe venni,
+- b) a 168. § (2) bekezdése tekintetében rendszeres illetménypótléknak minősül.
+
 ### XXXI. Fejezet — EGYES RENDVÉDELMI SZERVEKRE VONATKOZÓ ELTÉRŐ RENDELKEZÉSEK
 
 #### 124. A rendőrség hivatásos állományára vonatkozó szabályok
@@ -5336,7 +5434,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 (2) A miniszter e törvényben meghatározottakon túl, a szolgálat sajátosságainak megfelelő további alkalmassági követelményeket határozhat meg.
 
-(3) Ha a szolgálati viszony létesítése kormányzati szolgálati jogviszonyból, közszolgálati jogviszonyból, közalkalmazotti jogviszonyból, rendvédelmi igazgatási szolgálati jogviszonyból, igazságügyi alkalmazotti szolgálati jogviszonyból, a Magyar Honvédség hivatásos katonai állományából vagy más rendvédelmi szervnél fennálló szolgálati viszonyból áthelyezéssel történik, próbaidő a 49. § (1)–(3) bekezdésében foglaltakra figyelemmel kiköthető.
+(3) Ha a szolgálati viszony létesítése kormányzati szolgálati jogviszonyból, közszolgálati jogviszonyból, közalkalmazotti jogviszonyból, egészségügyi szolgálati jogviszonyból, rendvédelmi igazgatási szolgálati jogviszonyból, igazságügyi alkalmazotti szolgálati jogviszonyból, a Magyar Honvédség hivatásos katonai állományából vagy más rendvédelmi szervnél fennálló szolgálati viszonyból áthelyezéssel történik, próbaidő a 49. § (1)–(3) bekezdésében foglaltakra figyelemmel kiköthető.
 
 335. § (1) A polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja – az 51. §-ban meghatározott szerveken kívül – a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott intézményeknél és szervezeteknél is teljesíthet szolgálatot.
 
@@ -5395,7 +5493,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 - 1. meghatározza a rendvédelmi szerv e törvény szempontjából központi, területi vagy helyi szervnek minősülő szerveit, szervezeti egységeit, az önálló állománytáblázattal rendelkező szervezeti egységeit és az állományilletékes parancsnokok felsorolását, továbbá a rendvédelmi szervhez tartozásra utaló rendfokozati jelzőket és azok használatára vonatkozó szabályokat,
 - 2. megállapítsa a miniszter, az országos parancsnok, az országos főigazgató, valamint az állományilletékes parancsnok alárendeltségébe tartozó vezető munkáltatói jogköreit,
-- 3. meghatározza a kormányzati szolgálati, közszolgálati, közalkalmazotti, rendvédelmi igazgatási, adó- és vámhatósági szolgálati, igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezésre, a más rendvédelmi szervhez történő áthelyezésre, valamint a rendvédelmi szervek és a Magyar Honvédség közötti áthelyezésre vonatkozó eljárási szabályokat és az áthelyezett foglalkoztatásával, jogaival és kötelezettségeivel összefüggő kérdéseket,
+- 3. meghatározza a kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati, rendvédelmi igazgatási, adó- és vámhatósági szolgálati, igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezésre, a más rendvédelmi szervhez történő áthelyezésre, valamint a rendvédelmi szervek és a Magyar Honvédség közötti áthelyezésre vonatkozó eljárási szabályokat és az áthelyezett foglalkoztatásával, jogaival és kötelezettségeivel összefüggő kérdéseket,
 - 4. meghatározza a kifogástalan életvitel ellenőrzése végrehajtásának szabályait,
 - 5. megállapítsa a más szervhez vezénylésre, a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezénylésre, az ügyészi szervezethez vezénylésre, valamint a Nemzeti Közszolgálati Egyetemre vezénylésre vonatkozó szabályokat, továbbá a vezényelt foglalkoztatásával, jogaival és kötelezettségeivel összefüggő kérdéseket, és a rendészeti felsőoktatási illetménykiegészítésre, valamint az illetménypótlékra jogosultság és megállapításának általános feltételeit,
 - 6. megállapítsa a külföldre vezénylésre vonatkozó szabályokat, a külföldre vezényelt juttatásaira, többletjuttatásaira, költségtérítésére, ellátmányára vonatkozó rendelkezéseket, valamint a külföldre vezényelt közeli hozzátartozóira tekintettel e törvényben nem szabályozott pénzbeli és természetbeni ellátást,
@@ -5560,6 +5658,10 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 - c) a pszichológiai alkalmasság és a fizikai állóképesség követelményeit, a pszichológiai és fizikai alkalmassági követelmények felmérésének szabályait, a felmérést végző szervezetek kijelölését, az alkalmassági vizsgálatok eljárási rendjét, valamint
 - d) a munkaviszony létesítésének e törvényben nem szabályozott feltételeit.
 
+342/C. § Felhatalmazást kap a miniszter, hogy rendeletben határozza meg az egészségügyi feladatot ellátó szakdolgozói pótlékra jogosító szolgálati beosztásokat és munkaköröket, a pótlék mértékét és megállapításának részletes feltételeit.
+
+342/D. § Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a SARS-CoV2 járványhelyzethez kapcsolódóan, méltányosságból meghosszabbított egészségügyi szabadság megállapításának eljárásrendjét.
+
 343. § (1) Ez a törvény – a (2) és (3) bekezdésben meghatározott kivétellel – 2015. július 1-jén lép hatályba.
 
 (2) A 284–289. § és a 11. melléklet 2016. július 1-jén lép hatályba.
@@ -5675,7 +5777,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 - i) 2018-as illetménykülönbözet: a korábbi rendszeres díjazás és a 2018-as rendszeres díjazás közötti emelkedés százalékos mértékben kifejezve,
 - j) 2018-as rendszeres díjazás: a c) pont 1–4. alpontjában felsorolt illetményelemeknek a hivatásos állomány tagjának besorolása alapján a XIII. Fejezet szerint, 2018. január 1. napján számított együttes összege.
 
-#### 353. §
+353. § Az egészségügyi tevékenységet végző személy 317/B. § (3) bekezdése szerinti illetmény növelésére első alkalommal a 2020. évre vonatkozó teljesítményértékelés elvégzését követően kerülhet sor.
 
 #### 353/A. §
 
@@ -5866,6 +5968,10 @@ alakul át.
 362/L. § A XXVIII/A. Fejezet hatálya alá tartozó rendvédelmi szerv által kötött, 2019. január 31-én hatályos kollektív szerződés közalkalmazottakra vonatkozó rendelkezéseit 2019. december 31-éig alkalmazni kell.
 
 363. § A 128. § (1) és (2) bekezdése vonatkozásában a szakképző iskolai végzettségen a 2020. június 30-ig megszerzett szakiskolai végzettséget is érteni kell.
+
+363/A. § (1) Ha a hivatásos állomány tagjának szolgálatképtelensége igazolhatóan az egészségügyi ellátás SARS-CoV2 járványhelyzethez kapcsolódó felfüggesztése okán egy éven túl is fennáll, a 147. § (2) bekezdésétől eltérően az egészségügyi szabadság méltányosságból a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő legfeljebb hatodik hónap végéig meghosszabbítható.
+
+(2) Az egészségügyi szabadság (1) bekezdés szerinti időtartamára az egészségügyi szabadság 365. napján folyósítható ellátást kell folyósítani.
 
 364. § (1) Ez a törvény a 340. és 341. §-ban foglalt felhatalmazások alapján kiadott rendeletekkel együtt
 

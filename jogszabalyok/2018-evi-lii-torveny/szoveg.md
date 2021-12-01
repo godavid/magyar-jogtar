@@ -479,7 +479,7 @@ tanúsítja, az a)–d) pont szerinti esetben az igazolás vagy a diákigazolvá
 - 11. minimálbér: az év első napján érvényes kötelező legkisebb munkabér havi összege, kivéve az e törvény egyéni és társas vállalkozókra vonatkozó rendelkezéseiben említett minimálbért, amely a tárgyhónap első napján, a teljes munkaidőre érvényes garantált bérminimum havi összege, ha az egyéni vállalkozó személyesen végzett főtevékenysége vagy a társas vállalkozó főtevékenysége legalább középfokú iskolai végzettséget vagy középfokú szakképzettséget igényel, ennek hiányában a tárgyhónap első napján érvényes kötelező legkisebb munkabér havi összege;
 - 12. munkaviszony:
   - a) az Mt-ben meghatározott munkaviszony,
-  - b) a közalkalmazotti jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a honvédelmi alkalmazotti jogviszony,
+  - b) a közalkalmazotti jogviszony, az egészségügyi szolgálati jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a honvédelmi alkalmazotti jogviszony,
   - c) a közszolgálati jogviszony, a kormányzati szolgálati jogviszony, a politikai szolgálati jogviszony, a biztosi jogviszony, az adó- és vámhatósági szolgálati jogviszony,
   - d) a bírósági jogviszony,
   - e) az igazságügyi alkalmazotti szolgálati viszony,

@@ -1659,6 +1659,8 @@ kell kifutó jelleggel megszervezni.
 
 (9) A szakmai vizsgát 2025. december 31-éig az állam, illetve az együttműködési megállapodással rendelkező fenntartó által fenntartott szakképző intézményben az e törvényben meghatározott feltételekkel kell megszervezni azzal, hogy akkreditált vizsgaközpont alatt az ilyen szakképző intézményt kell érteni. 2026. január 1-jétől az ilyen szakképző intézmény akkor szervezhet szakmai vizsgát, ha rendelkezik a nemzeti akkreditálásról szóló törvény szerinti akkreditáló szerv által az adott szakmához tartozó képzési területre vonatkozó személytanúsításra kiadott akkreditált státusszal. A 2025. december 31-éig az ilyen szakképző intézményben szervezett szakmai vizsga lefolytatásával kapcsolatos jogszabálysértés megállapítására és jogkövetkezményeinek alkalmazására a régi Szkt. e törvény hatálybalépését megelőző napon hatályos 17. §-át kell alkalmazni azzal, hogy a hivatal helyett a szakképzésért felelős miniszter jár el.
 
+(9a) A szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet 1. melléklet 127. pontja szerinti 4 0811 17 04 azonosító számú gazda szakmához tartozó aranykalászos gazda részszakma képzéshez kapcsolódó szakmai vizsgát felnőttképzési tevékenység folytatására engedéllyel rendelkező felnőttképző is szervezhet.
+
 (10) Ha valamely szakma vagy szakképesítés tekintetében nincs
 
 - a) olyan akkreditált vizsgaközpont, amely az adott szakma vagy szakképesítés képzési területére akkreditált vizsgahelyszínnel rendelkezik a szakmai oktatás, illetve a szakmai képzés helyszíne szerinti vagy azzal közvetlenül szomszédos megyében vagy

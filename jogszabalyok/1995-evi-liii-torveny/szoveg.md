@@ -529,7 +529,7 @@ képviselői.
 (4) A települési önkormányzat képviselő-testületének hatáskörébe tartozik:
 
 - a) a füstködriadó terv,
-- b)
+- b) a háztartási tevékenységgel okozott légszennyezésre vonatkozó egyes sajátos, valamint az avar és kerti hulladék égetésére vonatkozó szabályok rendelettel történő megállapítása,
 - c) a légszennyezettség szempontjából ökológiailag sérülékeny területek kijelölésével kapcsolatos eljárásban való közreműködés,
 - d) területek zajvédelmi szempontból fokozottan védetté nyilvánítása,
 - e) csendes övezet kijelölése, valamint

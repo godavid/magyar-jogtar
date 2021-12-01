@@ -689,6 +689,8 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 
 (2) A 9. § (4) bekezdése alapján a 2019. évre meghatározandó értéket a Kormány legkésőbb 2018. október 31-ig hagyja jóvá.
 
+(3) Az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó SARS-CoV-2 koronavírus-világjárvány következményeinek elhárítása, az állampolgárok élet-, egészség-, személyi-, vagyon- és jogbiztonságának, valamint a nemzetgazdaság stabilitásának garantálása érdekében a 3/A. § (2) bekezdését a 2021–2023. költségvetési évben nem kell alkalmazni.
+
 49. § E törvény 10/F. §-át a 2020. január 1-jét követően megkötendő adósságot keletkeztető ügyletekre kell alkalmazni.
 
 #### 50. §

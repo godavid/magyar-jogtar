@@ -61,7 +61,7 @@ terjed ki.
 - b) egészségügyben dolgozó: az a) pont hatálya alá nem tartozó, az egészségügyi szolgáltatóval a szolgáltató működőképességének, illetve az egészségügyi szolgáltatások üzemeltetésének biztosítása céljából munkavégzésre irányuló jogviszonyt létesítő személy,
 - c) rezidens: az első egészségügyi felsőfokú szakirányú szakképesítésének megszerzése érdekében jogviszonyban álló, az államilag támogatott, az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 115. § (2) bekezdés b) pontja szerinti képzésben részt vevő szakorvos-, szakfogorvos-, szakgyógyszerész-, illetve szakpszichológus-jelölt.
 - d) ügyeleti feladatellátás: az Eütv. 93. §-ában meghatározott ügyeleti ellátás keretében végzett tényleges egészségügyi tevékenység, valamint a tényleges egészségügyi tevékenység végzése nélküli rendelkezésre állás az egészségügyi szolgáltató által meghatározott helyen és időben,
-- e) egészségügyi ügyelet: a d) pontban meghatározott ügyeleti feladatellátás munkaviszonyban vagy közalkalmazotti jogviszonyban,
+- e) egészségügyi ügyelet: a d) pontban meghatározott ügyeleti feladatellátás egészségügyi szolgálati jogviszonyban vagy honvédelmi alkalmazotti jogviszonyban,
 - f) az a)–e) pontokban foglaltakon túl az Eütv. 3. §-ában foglalt fogalommeghatározásokat kell figyelembe venni.
 
 ### II. Fejezet — AZ EGÉSZSÉGÜGYI TEVÉKENYSÉG VÉGZÉSÉNEK
@@ -103,7 +103,7 @@ terjed ki.
 - a) szabadfoglalkozás keretében,
 - b) egyéni egészségügyi vállalkozóként,
 - c) társas vállalkozás tagjaként,
-- d) közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban,
+- d) egészségügyi szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban,
 - e) munkaviszonyban,
 - f) közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban,
 - g) szolgálati jogviszonyban,
@@ -161,9 +161,9 @@ terjed ki.
 
 (2) A társas vállalkozás tagjaként történő egészségügyi tevékenység végzése esetén a 10. § (2)–(3) bekezdéseiben foglaltakat értelemszerűen alkalmazni kell.
 
-### Munkaviszony és közalkalmazotti jogviszony
+### Munkaviszony, egészségügyi szolgálati jogviszony és honvédelmi alkalmazotti jogviszony
 
-11/A. § (1) E törvény meghatározza a közalkalmazotti, valamint munkaviszonyban foglalkoztatott egészségügyi dolgozók (a továbbiakban együtt: alkalmazott egészségügyi dolgozók), valamint a Kormány által rendeletben meghatározott egészségügyben dolgozó számára – az egészségügyi tevékenységgel járó különös felelősségre és az egészségügyi dolgozók leterheltségére tekintettel – a sajátos egészségügyi ágazati előmeneteli szabályokat.
+11/A. § (1) E törvény meghatározza az egészségügyi szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, valamint munkaviszonyban foglalkoztatott egészségügyi dolgozók (a továbbiakban együtt: alkalmazott egészségügyi dolgozók), valamint a Kormány által rendeletben meghatározott egészségügyben dolgozó számára – az egészségügyi tevékenységgel járó különös felelősségre és az egészségügyi dolgozók leterheltségére tekintettel – a sajátos egészségügyi ágazati előmeneteli szabályokat.
 
 (2) Az e fejezetben, valamint a 29–31. §-ban meghatározott egészségügyi ágazati előmeneteli szabályokat
 
@@ -173,12 +173,16 @@ terjed ki.
 
 kell alkalmazni.
 
+(2a) A (2) bekezdés szerinti szabályokat az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) előírásaira figyelemmel kell alkalmazni.
+
 (3) Az alkalmazott egészségügyi dolgozókat
 
 - a) a munkakör ellátásához előírt iskolai végzettség, egészségügyi szakképesítés, továbbá a munkájuk ellátásához közvetlenül kapcsolódó, azt közvetlenül segítő doktori cím, tudományos fokozat, valamint akadémiai tagság, szakmai gyakorlat, publikációs tevékenység, és minősítés (a továbbiakban együtt: szakmai követelmények) alapján besorolási osztályokba, és
 - b) a jogviszonyban töltött idő alapján fizetési fokozatba
 
 kell sorolni.
+
+(3a) Az Eszjtv. 8. § (3) bekezdése szerinti egészségügyi szolgálati jogviszonyban álló személyt az egészségügyi szolgálati jogviszonyban töltött ideje alapján kell fizetési fokozatba sorolni.
 
 (4) Az orvos, fogorvos, szakorvos, szakfogorvos munkakörben (a továbbiakban együtt: orvos munkakörben) foglalkoztatott – ideértve a 12/H. §-ban említett oktató orvos munkakörben foglalkoztatottakat is – egészségügyi dolgozó havi alapbére (garantált illetménye) nem lehet kevesebb, mint az 1. melléklet szerinti összeg.
 
@@ -188,31 +192,31 @@ kell sorolni.
 
 (6a) A gyógyszerész, szakgyógyszerész munkakörben (a továbbiakban együtt: gyógyszerész munkakörben) foglalkoztatott egészségügyi dolgozó havi alapbére (illetménye) nem lehet kevesebb, mint a Kjt. szerinti besorolási illetmény és havi 75 820 Ft egyösszegű illetmény- vagy bérnövelés együttes összege.
 
+(6b) Az Eszjtv. 8. § (3) bekezdése szerinti egészségügyi szolgálati jogviszonyban álló személy havi illetménye nem lehet kevesebb, mint az Eszjtv. 1. mellékletében meghatározott összeg.
+
 (7) Az egészségügyi dolgozó, egészségügyben dolgozó átsorolására, az osztályba soroláshoz szükséges szakmai követelményekre, a jogviszonyban töltött idő számítására, az illetményre (munkaviszonyban foglalkoztatottak esetén a munkabérre), valamint az átsorolással kapcsolatos eljárási szabályokra a Kjt. szabályait kell alkalmazni.
+
+(7a) Az egészségügyi szolgálati jogviszonyban álló egészségügyi dolgozó, egészségügyben dolgozó átsorolására, az osztályba soroláshoz szükséges szakmai követelményekre, a jogviszonyban töltött idő számítására, az illetményre, valamint az átsorolással kapcsolatos eljárási szabályokra az Eszjtv. és a Kormány által rendeletben megállapított szabályokat kell alkalmazni.
 
 (8) A (6) és (6a) bekezdés alkalmazásában Kjt. szerinti besorolási illetményként kell figyelembe venni a Kjt. 66. §-a szerinti garantált illetményt, a garantált illetmény feletti, a munkáltató döntése alapján megállapított illetményrészt, továbbá a közalkalmazott számára a Kjt. 70–75. §-a alapján megállapított illetménypótlékot.
 
-(9) A 17. § (7) bekezdésében meghatározott kivétellel az első szakorvosi, szakfogorvosi, szakgyógyszerészi és klinikai szakpszichológusi szakképzésben részt vevő részére a képzés ideje alatt, foglalkoztatási jogviszonytól függetlenül havonta legalább
-
-- a) az orvos munkakörben foglalkoztatott egészségügyi dolgozó részére a (4) bekezdés alapján,
-- b) a (6) bekezdésben meghatározott munkakörben foglalkoztatott egészségügyi dolgozó részére a (6) bekezdés alapján és
-- c) a (6a) bekezdésben meghatározott munkakörben foglalkoztatott egészségügyi dolgozó részére a (6a) bekezdés alapján járó bért, illetve illetményt kell folyósítani. Ha a szakképzésben részt vevő foglalkoztatására heti 36 órát elérő időben, tartós megbízási szerződés alapján vagy vállalkozói jogviszonyban kerül sor, e rendelkezéseket az egészségügyi dolgozó havi megbízási vagy vállalkozói díjazására kell alkalmazni.
+(9)
 
 (10) A Kormány az 1–3. mellékletben foglalt bértábláktól, illetve bérnövelési mértékektől az egészségügyi dolgozók, egészségügyben dolgozók számára kedvezőbb szabályokat rendeletben megállapíthat. Ebben az esetben e törvénytől eltérően a Kormány rendeletében megállapított kedvezőbb rendelkezést kell alkalmazni.
 
-11/B. § (1) A rezidens az egészségügyi felsőfokú szakirányú szakképzése ideje alatt a kormányrendeletben meghatározott szakorvosképzésért felelős egészségügyi államigazgatási szervvel létesített közalkalmazotti jogviszonyban áll.
+11/B. § (1) A rezidens az egészségügyi felsőfokú szakirányú szakképzése ideje alatt az elsődleges képzőhelyével egészségügyi szolgálati jogviszonyban, a nem az Eszjtv. hatálya alá tartozó képzőhely esetében a 7. § (2) bekezdés d)–g) pontja szerinti jogviszonyban áll.
 
-(2) Az (1) bekezdés szerinti rezidens felett a közalkalmazotti jogviszony létesítésére és megszüntetésére, az illetmény és a munkakör megállapítására, valamint a munkarend meghatározására irányuló munkáltatói jogköröket a szakorvosképzésért felelős egészségügyi államigazgatási szerv vezetője gyakorolja. A rezidens felett az egyéb munkáltatói jogokat – e törvény vagy a felek eltérő rendelkezése hiányában – a szakorvosképzésért felelős egészségügyi államigazgatási szerv által a rezidens részére a munkavégzés helyeként kijelölt egészségügyi szolgáltató vezetője gyakorolja a (3) bekezdésben foglaltakra figyelemmel.
+(2)
 
-(3) Ahol jogszabály munkáltatóról rendelkezik, azon a (2) bekezdés szerinti egészségügyi szolgáltatót is érteni kell, figyelembe véve az intézményvezető munkáltatói jogainak e törvény szerinti korlátozását.
+(3)
 
 (4) A Kormány a rezidensek foglalkoztatása tekintetében a III. Fejezetben foglaltaktól a rezidensek számára kedvezőbb szabályokat rendeletben megállapíthat. Ebben az esetben e törvénytől eltérően a Kormány rendeletében megállapított kedvezőbb rendelkezést kell alkalmazni.
 
-(5) A 12/B. §-ban foglaltaktól eltérően a rezidenssel önként vállalt többletmunkáról megállapodás nem köthető. A rezidens egészségügyi ügyelet ellátására a 12/D. § (3) bekezdése szerinti keret terhére nem osztható be.
+(5)
 
-(6) Ügyeleti feladatokat a rezidens a 12/D. § (2) bekezdése szerinti beosztás alapján is csak a képzési tervben foglaltakkal összhangban láthat el, vagy ezen túlmenően arra a rezidens és a képzés helye szerinti egészségügyi szolgáltató a 8. § (1)–(3) bekezdése szerint szabadfoglalkozású jogviszonyt létesít. Az e szabadfoglalkozású jogviszony alapján teljesítendő egészségügyi tevékenységet a 13. § (1) bekezdésében foglaltak megfelelő alkalmazásával, az 5. § (5) bekezdésében foglaltakra figyelemmel kell beosztani. A rezidens a 14/B. § szerinti műszakpótlékra jogosító munkaidő-beosztásba csak a szakorvosképzésért felelős egészségügyi államigazgatási szerv előzetes jóváhagyásával osztható be.
+(6) Ügyeleti feladatokat a rezidens a 12/D. § (2) bekezdése szerinti beosztás alapján is csak a képzési tervben foglaltakkal összhangban láthat el.
 
-(7) A (6) bekezdés szerinti, kizárólag ügyeleti feladatellátás céljából létesíthető szabadfoglalkozású jogviszonyban teljesített ügyelet tartama nem haladhatja meg a munkaidőkeret átlagában a heti 32 órát, amelynek a 8 óra feletti tartamára legalább az önként vállalt többletmunkára irányadó díjazást kell a szabadfoglalkozású megbízási szerződésben megállapítani.
+(7)
 
 12. § (1) Ha az egészségügyi szolgáltató tevékenysége az Munka Törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 90. § a) pontja alapján megszakítás nélküli (a továbbiakban: megszakítás nélkül működő egészségügyi szolgáltató), az alkalmazott egészségügyi dolgozó egészségügyi tevékenységet
 
@@ -249,7 +253,7 @@ lehet megkötni.
 - a) meg kell határozni egész órában kifejezve, a törvényes maximális óraszámig az alkalmazott egészségügyi dolgozó által önként vállalt többletmunka mértékét, és ezen belül az előre tervezetten beosztható és – amennyiben az annak elrendelésére alapot adó ok bekövetkezik – előre nem tervezett rendkívüli munkára igénybe vehető önként vállalt többletmunka időtartamát,
 - b) meg lehet határozni az e törvényben foglaltaknál magasabb díjazást.
 
-(5) Az önként vállalt többletmunkára irányuló megállapodást – a felek vagy kollektív szerződés eltérő rendelkezése hiányában – a felmondás közlésének időpontját követő hónap utolsó napjával felmondhatja
+(5) Az önként vállalt többletmunkára irányuló megállapodást – a felek eltérő rendelkezése hiányában – a felmondás közlésének időpontját követő hónap utolsó napjával felmondhatja
 
 - a) a határozatlan időre szóló megállapodás esetében bármelyik fél indokolás nélkül,
 - b) a határozott időre szóló megállapodás esetében
@@ -330,9 +334,9 @@ rendelhet el.
 
 12/H. § Az egészségügyi szolgáltatóval munkavégzésre irányuló jogviszony alapján oktatói feladatokat is ellátó egészségügyi dolgozók tekintetében a 12/F–12/G. §-ban foglaltakat az oktatói és az egészségügyi tevékenység együttes végzésére kell alkalmazni.
 
-13. § (1) Az alkalmazott egészségügyi dolgozóval a munkaidő-beosztást, amely tartalmazza az egészségügyi ügyelet és a készenlét beosztását is – kollektív szerződés eltérő rendelkezése hiányában – az Mt. 110. § (6) bekezdésében foglaltaktól eltérően legalább 15 nappal korábban és legalább egy hónapra előre, írásban kell közölni.
+13. § (1) Az alkalmazott egészségügyi dolgozóval a munkaidő-beosztást, amely tartalmazza az egészségügyi ügyelet és a készenlét beosztását is az Mt. 110. § (6) bekezdésében foglaltaktól eltérően legalább 15 nappal korábban és legalább egy hónapra előre, írásban kell közölni.
 
-(2) Kollektív szerződés az (1) bekezdés szerinti írásbeli közlés módját, formáját – különös tekintettel a közzététel helyben szokásos módjára vagy az elektronikus úton történő közlés lehetőségére – szabályozhatja.
+(2)
 
 (3) A munkáltató az alkalmazott egészségügyi dolgozóval az (1) bekezdés szerinti munkaidő-beosztásban közli
 
@@ -349,7 +353,7 @@ minősül.
 
 (5) A munkaidő-beosztásban önként vállalt többletmunka előírására akkor kerülhet sor, ha a felek legkésőbb a munkaidő-beosztás közléséig megkötik az önként vállalt többletmunkára vonatkozó megállapodást.
 
-13/A. § (1) Az egészségügyi ügyelet, valamint a készenlét ellátásáért az alkalmazott egészségügyi dolgozót ügyeleti díj, illetve készenléti díj illeti meg, amelynek mértékét kollektív szerződés vagy a felek megállapodása határozza meg azzal, hogy az ügyeleti díj mértéke kollektív szerződés vagy a felek megállapodása alapján sem lehet a 13/B. és a 14. §-ban megállapítottnál alacsonyabb.
+13/A. § (1) Az egészségügyi ügyelet, valamint a készenlét ellátásáért az alkalmazott egészségügyi dolgozót ügyeleti díj, illetve készenléti díj illeti meg, amelynek mértékét a felek megállapodása határozza meg azzal, hogy az ügyeleti díj mértéke a felek megállapodása alapján sem lehet a 13/B. és a 14. §-ban megállapítottnál alacsonyabb.
 
 (2) Az Mt. 145. §-a alapján pótlékot is magában foglaló alapbér, illetve pótlékátalány alkalmazására nem kerülhet sor.
 
@@ -387,17 +391,13 @@ minősül.
 
 14/C. § A bérpótlék számítási alapjának eltérő meghatározásáról az Mt. 139. § (2) bekezdésében foglaltaktól eltérően megállapodás nem köthető.
 
-14/D. § (1) A Kjt. és a honvédelmi alkalmazottak jogállásáról szóló törvény (a továbbiakban: Haj.) hatálya alá tartozó egészségügyi szolgáltatónál történő foglalkoztatás esetén a Kjt. 41. § (2) bekezdés a) pontja és a Haj. 46. § (2) bekezdés a) pontja nem alkalmazható.
-
-(2) A Kjt. 41. § (2) bekezdés b) pontjában és 41. § (3) bekezdésében, valamint a Haj. 46. § (2) bekezdés b) pontjában és 46. § (3) bekezdésében foglaltak alapján a közalkalmazott vagy a Kjt. 22/B. §-a szerinti vezető állású munkavállaló, illetve honvédelmi alkalmazott a munkáltatóéval azonos vagy ahhoz hasonló tevékenységet is végző, illetve a munkáltatóval rendszeres gazdasági kapcsolatban álló más gazdasági társaságban betöltött vezető tisztségviselői, felügyelőbizottsági tagságot kizárólag a munkáltató fenntartójának jóváhagyásával létesíthet.
-
-(3) A (2) bekezdés szerinti összeférhetetlenség megszüntetésére a Kjt. 44. § (2)–(5) bekezdése és a Haj. 50. § (2)–(5) bekezdése irányadó, azzal az eltéréssel, hogy a Kjt. 44. § (2) bekezdése és a Haj. 50. § (2) bekezdése alapján a fenntartói döntés ellen munkaügyi jogvita kezdeményezhető abban az esetben is, ha a fenntartó nem a közalkalmazott munkáltatója.
+#### 14/D. §
 
 14/E. § (1) Az Mt. 122. § (2) bekezdésében foglaltaktól eltérően a munkáltató az alkalmazott egészségügyi dolgozó számára hét munkanap szabadságot – a munkaviszony első három hónapját kivéve – a munkavállaló kérésének megfelelő időpontban köteles kiadni. A munkavállalónak erre vonatkozó igényét legalább tizenöt nappal a szabadság kezdete előtt be kell jelentenie.
 
 (2) Az Mt. 122. § (3) bekezdésében foglaltaktól eltérően a szabadságot kettőnél több részletben csak a munkavállaló kérésére lehet kiadni. Kivételesen fontos gazdasági érdek, illetve a munkáltató működési körét közvetlenül és súlyosan érintő ok miatt a munkáltató kettőnél több részletben is kiadhatja a szabadságot, azonban – a felek eltérő megállapodása hiányában – a szabadságot ebben az esetben is úgy kell kiadni, hogy a munkavállaló naptári évenként egy alkalommal, legalább tizennégy egybefüggő napra mentesüljön a munkavégzési és rendelkezésre állási kötelezettség alól. E tekintetben – a szabadságként kiadott napon túl – a heti pihenőnap (heti pihenőidő), a munkaszüneti nap és az egyenlőtlen munkaidő-beosztás szerinti szabadnap vehető figyelembe.
 
-(3) A (2) bekezdésben foglaltaktól eltérően a munkáltató a közalkalmazott kérése nélkül kettőnél több, legfeljebb négy részletben is kiadhatja a szabadságot a Kjt. 57. § (3) bekezdés szerinti pótszabadságra jogosító munkakört betöltő közalkalmazott esetében.
+(3) A (2) bekezdésben foglaltaktól eltérően a munkáltató az egészségügyi szolgálati jogviszonyban vagy honvédelmi alkalmazotti jogviszonyban álló személy kérése nélkül kettőnél több, legfeljebb négy részletben is kiadhatja a szabadságot az Eszjtv. 6. § (4)–(7) bekezdése vagy a Haj. 54. § (2)–(4) bekezdése szerinti pótszabadságra jogosító munkakört betöltő egészségügyi szolgálati jogviszonyban vagy honvédelmi alkalmazotti jogviszonyban álló személy esetében.
 
 15. § (1) Az alkalmazott egészségügyi dolgozó munkaidejébe a pontszerző kötelező továbbképzésére fordított időből – ideértve a kongresszusi részvételt is – az egészségügyi szolgáltató szabályzata szerint megállapított időt be kell számítani.
 
@@ -407,7 +407,7 @@ minősül.
 
 (4) Ha az egészségügyi dolgozó munkavégzésre irányuló jogviszonya az egészségügyi szolgáltatónál megszűnik, és másik egészségügyi szolgáltatónál új jogviszonyt létesít, az új munkáltatónál az (1) és (3) bekezdés szerinti szabályzat alapján két egymást követő évben együttesen igénybe vehető időtartamot az egészségügyi dolgozó által a korábbi munkáltatónál az azonos időszakra már igénybe vett időtartammal csökkenteni kell.
 
-15/A. § Ha annál az egészségügyi szolgáltatónál, ahol az egészségügyi dolgozó egészségügyi felsőfokú szakirányú szakképzése megszerzése érdekében alkalmazásban áll, vagy a 11/B. § bekezdése alapján a szakorvosképzésért felelős egészségügyi államigazgatási szerv által szakképzésre kijelölt egészségügyi szolgáltatónál részben hiányoznak a szükséges szakmai gyakorlat feltételei, az egészségügyi dolgozó a szakképzettség megszerzéséhez szükséges, és a munkáltatónál vagy a szakképzésre kijelölt egészségügyi szolgáltatónál nem teljesíthető időtartamban annál az egészségügyi szolgáltatónál végezhet tevékenységet, ahol a szakmai gyakorlat megszerzésének a feltételei rendelkezésre állnak (a továbbiakban: külső képzőhely). Erről a munkáltatónak, valamint a külső képzőhelynek és az egészségügyi dolgozónak meg kell állapodnia, azzal, hogy e jogcímen a munkavégzés tartama a teljes naptári évet elérheti. E jogviszonyra egyebekben az Mt.-nek a munkaszerződéstől eltérő foglalkoztatásra vonatkozó szabályait kell megfelelően alkalmazni.
+15/A. § Ha annál az egészségügyi szolgáltatónál, ahol az egészségügyi dolgozó egészségügyi felsőfokú szakirányú szakképzése megszerzése érdekében alkalmazásban áll, részben hiányoznak a szükséges szakmai gyakorlat feltételei, az egészségügyi dolgozó a szakképzettség megszerzéséhez szükséges, és a munkáltatónál nem teljesíthető időtartamban annál az egészségügyi szolgáltatónál végezhet tevékenységet, ahol a szakmai gyakorlat megszerzésének a feltételei rendelkezésre állnak (a továbbiakban: külső képzőhely). Erről a munkáltatónak, valamint a külső képzőhelynek és az egészségügyi dolgozónak meg kell állapodnia, azzal, hogy e jogcímen a munkavégzés tartama a teljes naptári évet elérheti. E jogviszonyra egyebekben az Mt.-nek a munkaszerződéstől eltérő foglalkoztatásra vonatkozó szabályait kell megfelelően alkalmazni.
 
 15/B. § (1) Július 1-je Semmelweis-nap, amely az egészségügyi szolgáltatóknál foglalkoztatási jogviszonyban álló egészségügyi dolgozókra és egészségügyben dolgozókra kiterjedően munkaszüneti nap.
 
@@ -418,9 +418,11 @@ minősül.
 
 15/C. § Az Mt. 179. § (3) bekezdésében foglaltaktól eltérően az alkalmazott egészségügyi dolgozó által – kizárólag az egészségügyi tevékenysége végzésével a betegnek – okozott kár esetén a kártérítés mértéke súlyosan gondatlan károkozás esetén nem haladhatja meg a munkavállaló négyhavi távolléti díjának összegét.
 
-15/D. § A 11/A–15/C. §-ban foglaltaktól kollektív szerződés – az Mt. 135. § (2) bekezdésében, valamint 165. § (2) bekezdésében foglaltakon túlmenően, a Kjt. 83. §-ában foglaltaktól eltérően – csak az alkalmazott egészségügyi dolgozó javára térhet el.
+#### 15/D. §
 
 15/E. § Amennyiben a fekvőbeteg-szakellátó és egyes fekvőbeteg-szakellátóhoz kapcsolódó egészségügyi háttérszolgáltatást nyújtó, 100%-os állami tulajdonban lévő, valamint azok 100%-os tulajdonában lévő gazdasági társaságok által ellátott feladatok központi költségvetési szervek általi átvételéről, valamint az ezzel kapcsolatos eljárási kérdések rendezéséről szóló 2013. évi XXV. törvény (a továbbiakban: Átvételi tv.) 7. §-a alapján közalkalmazotti jogviszonyban továbbfoglalkoztatott személy az Átvételi tv. 7. § (5) bekezdésére tekintettel jubileumi jutalom iránti igényt érvényesít, a megállapítható jubileumi jutalom összegét csökkenteni kell azon juttatás összegével, amelyet a foglalkoztatott a gazdasági társaságnál vagy annak az Átvételi tv. 7. § (5) bekezdése szerinti jogelődjénél kollektív szerződés, munkaszerződés vagy egyoldalú munkáltatói kötelezettségvállalás alapján, kifejezetten huszonöt év, harminc év vagy negyven év jogviszonyban töltött idejére tekintettel kapott (a továbbiakban e § alkalmazásában: felvett juttatás). Amennyiben a felvett juttatás mértéke eléri vagy meghaladja a megállapítható jubileumi jutalom összegét, a közalkalmazott részére a felvett juttatással értékelt jogviszonyban töltött idejére tekintettel jubileumi jutalom nem állapítható meg.
+
+15/F. § Az Eszjtv. hatálya alá tartozó egészségügyi szolgáltató vezetője kizárólag a működési nyilvántartás megújítása céljából, a továbbképzése alapján szükséges gyakorlati pontok megszerzése érdekében és az ahhoz szükséges mértékben végezheti az 1. § szerinti gyógyító-megelőző tevékenységet.
 
 ### Közszolgálati jogviszony, kormányzati szolgálati jogviszony, szolgálati viszony
 
@@ -434,7 +436,7 @@ minősül.
 
 (5) A 11/A. § alkalmazásában a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) hatálya alá tartozók esetében, ahol e törvény „alapbért (garantált illetményt)” említ, ott a 11/A. § (4) és (5) bekezdése alkalmazásában „a távolléti díjba tartozó illetményelemek együttes összegét” kell érteni.
 
-(6) A Hjt. hatálya alá tartozók esetében a 11/A. § (5) bekezdésében foglaltak végrehajtásához a 11/A. § (5) bekezdése szerinti személyek esetében meg kell állapítani, hogy amennyiben közalkalmazotti jogviszonyban állnának, akkor iskolai végzettségüknek és közalkalmazotti jogviszonyban figyelembe vehető szolgálati idejüknek megfelelően mely Kjt. szerinti besorolási osztályba és fizetési fokozatba tartoznának.
+(6) A Hjt. hatálya alá tartozók esetében a 11/A. § (5) bekezdésében foglaltak végrehajtásához a 11/A. § (5) bekezdése szerinti személyek esetében meg kell állapítani, hogy amennyiben egészségügyi szolgálati jogviszonyban állnának, akkor iskolai végzettségüknek és egészségügyi szolgálati jogviszonyban figyelembe vehető szolgálati idejüknek megfelelően mely Kjt. szerinti besorolási osztályba és fizetési fokozatba tartoznának.
 
 (7) A Hjt. hatálya alá tartozók esetében a (3) bekezdésben foglaltak végrehajtásához szükséges esetleges illetménykülönbözetet egészségügyi dolgozók kiegészítő illetményeként kell megállapítani és folyósítani.
 
@@ -442,19 +444,19 @@ minősül.
 
 (9) A (4) bekezdésben foglaltakon túl a Hjt. hatálya alá tartozók esetében a 15/A. §-ban foglaltakat is alkalmazni kell.
 
-### Jövedelemkiegészítés közalkalmazotti, kormányzati szolgálati, adó- és vámhatósági szolgálati jogviszonyban álló egészségügyi dolgozók illetményének és pénzellátásának együttfolyósítási tilalmára tekintettel
+### Jövedelemkiegészítés egészségügyi szolgálati, honvédelmi alkalmazotti, kormányzati szolgálati, adó- és vámhatósági szolgálati jogviszonyban álló egészségügyi dolgozók illetményének és pénzellátásának együttfolyósítási tilalmára tekintettel
 
 16/A. § Ezen alcím alkalmazásában:
 
 - a) pénzellátás: az öregségi nyugdíj, a korhatár előtti ellátás, valamint más olyan ellátás, amelyet az öregségi nyugdíjkorhatár betöltésekor hivatalból öregségi nyugdíjként kell továbbfolyósítani,
-- b) jövedelemkiegészítés: az e törvényben meghatározott feltételek szerint, pénzellátásuk törvény alapján történő szüneteltetésére tekintettel, egyes közalkalmazotti jogviszonyban, kormányzati szolgálati, adó- és vámhatósági szolgálati jogviszonyban álló egészségügyi dolgozók jövedelmének kiegészítésére szolgáló juttatás,
-- c) munkáltató: költségvetési szervként működő egészségügyi szolgáltató munkáltató.
+- b) jövedelemkiegészítés: az e törvényben meghatározott feltételek szerint, pénzellátásuk törvény alapján történő szüneteltetésére tekintettel, egyes egészségügyi szolgálati, honvédelmi alkalmazotti jogviszonyban, kormányzati szolgálati, adó- és vámhatósági szolgálati jogviszonyban álló egészségügyi dolgozók jövedelmének kiegészítésére szolgáló juttatás,
+- c) munkáltató: költségvetési szervként működő egészségügyi szolgáltató munkáltató, valamint az Eszjtv. szerinti munkáltató.
 
-16/B. § (1) Azt a közalkalmazotti jogviszonyban, kormányzati szolgálati, adó- és vámhatósági szolgálati jogviszonyban álló egészségügyi dolgozót, akinek a megállapított pénzellátása folyósítását a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) 83/C. §-a alapján szüneteltetik – ideértve a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 11. §-a szerinti szüneteltetést is –, a munkáltató – általa meghatározott összegű – jövedelemkiegészítésben részesítheti, a (2)–(7) bekezdésben foglalt feltételek, valamint kormányrendeletben meghatározott eljárásrend szerint és jóváhagyás birtokában.
+16/B. § (1) Azt az egészségügyi szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, kormányzati szolgálati, adó- és vámhatósági szolgálati jogviszonyban álló egészségügyi dolgozót, akinek a megállapított pénzellátása folyósítását a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 83/C. §-a alapján szüneteltetik – ideértve a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény (a továbbiakban: Kenyt.) 11/A. §-a szerinti szüneteltetést is –, a munkáltató – általa meghatározott összegű – jövedelemkiegészítésben részesítheti, a (2)–(7) bekezdésben foglalt feltételek, valamint kormányrendeletben meghatározott eljárásrend szerint és jóváhagyás birtokában.
 
-(2) A munkáltató által meghatározott jövedelemkiegészítésnek az egészségügyi dolgozót megillető, a kifizetést terhelő adók és járulékok nélkül számított (a továbbiakban: nettó) mértéke nem lehet magasabb az egészségügyi dolgozót a közalkalmazotti, kormányzati szolgálati, adó- és vámhatósági szolgálati jogviszony fennállása miatt történő szüneteltetés hiányában egyébként megillető pénzellátás havi összegénél.
+(2) A munkáltató által meghatározott jövedelemkiegészítésnek az egészségügyi dolgozót megillető, a kifizetést terhelő adók és járulékok nélkül számított (a továbbiakban: nettó) mértéke nem lehet magasabb az egészségügyi dolgozót a egészségügyi szolgálati, honvédelmi alkalmazotti, kormányzati szolgálati, adó- és vámhatósági szolgálati jogviszony fennállása miatt történő szüneteltetés hiányában egyébként megillető pénzellátás havi összegénél.
 
-(3) Ha az egészségügyi dolgozó több egészségügyi szolgáltatóval is közalkalmazotti, kormányzati szolgálati, adó- és vámhatósági szolgálati jogviszonyban áll, a jövedelemkiegészítés
+(3) Ha az egészségügyi dolgozó több egészségügyi szolgáltatóval is egészségügyi szolgálati, honvédelmi alkalmazotti, kormányzati szolgálati, adó- és vámhatósági szolgálati jogviszonyban áll, a jövedelemkiegészítés
 
 - a) teljes munkaidős foglalkoztatás esetén csak egy jogviszonyra tekintettel,
 - b) több részmunkaidős jogviszony fennállása esetén együttesen legfeljebb a (2) bekezdés szerinti nettó mértékig folyósítható.
@@ -463,17 +465,17 @@ minősül.
 
 (5) Az egészségügyi dolgozó nem jogosult jövedelemkiegészítésre a fizetés nélküli szabadság, valamint az egész napos igazolatlan távollét időtartamára. A jövedelemkiegészítés emiatt kieső összegét a tárgyhónapban kieső munkanapok számának a továbbfoglalkoztatott munkarendje szerinti, a tárgyhónap egészére megállapított munkanapok számához viszonyított arányában, 100 forintra kerekítve kell megállapítani. Nem jár jövedelemkiegészítés a felmentési időnek arra a részére, amely időtartam vonatkozásában az egészségügyi dolgozót a munkavégzési kötelezettség alól mentesítették.
 
-(6) A jövedelemkiegészítés a foglalkoztatottat a közalkalmazotti, kormányzati szolgálati, adó- és vámhatósági szolgálati jogviszonyára irányadó törvényben foglalt illetményrendszeren kívül illeti meg, különösen az alábbiakra tekintettel:
+(6) A jövedelemkiegészítés a foglalkoztatottat a egészségügyi szolgálati, honvédelmi alkalmazotti, kormányzati szolgálati, adó- és vámhatósági szolgálati jogviszonyára irányadó törvényben foglalt illetményrendszeren kívül illeti meg, különösen az alábbiakra tekintettel:
 
-- a) a távolléti díj, a jubileumi jutalom, az illetménypótlékok, az illetményen alapuló egyéb bérelemek, valamint az ügyeleti díj és a készenléti díj számítása szempontjából figyelmen kívül kell hagyni,
+- a) a távolléti díj, a honvédelmi alkalmazottak jogállásáról szóló törvény szerinti jubileumi jutalom, a szolgálati elismerés, a helyettesítési díj, az illetménypótlékok, az illetményen alapuló egyéb bérelemek, valamint az ügyeleti díj és a készenléti díj számítása szempontjából figyelmen kívül kell hagyni,
 - b) a minimálbér és a garantált bérminimum biztosítása, valamint az egészségügyi ágazati előmeneteli rendszer alkalmazása szempontjából nem kell az illetmény részének tekinteni, és
 - c) nem kell figyelembe venni az adó- és járulékváltozások ellentételezésére szolgáló, a foglalkoztatottat megillető, kormányrendeletben meghatározott kompenzációra való jogosultság és a kompenzáció összegének számítása tekintetében.
 
-(7) Az egészségügyi dolgozó a jövedelemkiegészítés után nem fizet nyugdíjjárulékot.
+(7) Az egészségügyi dolgozó a jövedelemkiegészítés után nem fizet társadalombiztosítási járulékot.
 
-16/C. § (1) Ha a jövedelemkiegészítésben részesülő egészségügyi dolgozó az öregségi nyugdíjkorhatárt még nem töltötte be, és nyugdíját nem a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 3. § (2) bekezdés b) pontja alapján folyósították tovább, a jövedelemkiegészítés szüneteltetésére a Tny. 83/B. §-ában foglaltakat kell alkalmazni, azzal, hogy nyugdíj és nyugellátás alatt jövedelemkiegészítést kell érteni.
+16/C. § (1) Az öregségi nyugdíjas kivételével a jövedelemkiegészítés szüneteltetésére a Kenyt. 11. §-ában foglaltakat kell alkalmazni azzal, hogy korhatár előtti ellátás alatt jövedelemkiegészítést kell érteni.
 
-(2) A jövedelemkiegészítésben részesülő egészségügyi dolgozó tizenöt napon belül köteles bejelenteni a munkáltatójának minden olyan tényt, adatot, körülményt, amely a jövedelemkiegészítésre való jogosultságát vagy a jövedelemkiegészítés folyósítását érinti, ideértve a Tny. 83/B. §-a szerinti éves keretösszeg elérését is. A munkáltató a Tny. 83/B. §-ában foglaltakat a bejelentési kötelezettség elmulasztása esetén is érvényesíti, ha az ehhez szükséges adatok rendelkezésére állnak.
+(2) A jövedelemkiegészítésben részesülő egészségügyi dolgozó tizenöt napon belül köteles bejelenteni a munkáltatójának minden olyan tényt, adatot, körülményt, amely a jövedelemkiegészítésre való jogosultságát vagy a jövedelemkiegészítés folyósítását érinti, ideértve a Kenyt. 11. §-a szerinti éves keretösszeg elérését is. A munkáltató a Kenyt. 11. §-ában foglaltakat a bejelentési kötelezettség elmulasztása esetén is érvényesíti, ha az ehhez szükséges adatok rendelkezésére állnak.
 
 16/D. § (1) A munkáltató a 16/B. § (1) bekezdése szerinti egészségügyi dolgozó részére juttatható jövedelemkiegészítés biztosítása érdekében kormányrendeletben meghatározottak szerint támogatást igényelhet.
 
@@ -526,19 +528,7 @@ részt vehet.
 
 19/A. § A beteg, illetve hozzátartozója az egészségügyi szolgáltatás során vagy az azzal összefüggésben keletkezett kára megtérítésére vonatkozó igényét közvetlenül a közszolgáltatást nyújtó egészségügyi szolgáltatóval szemben érvényesítheti, függetlenül attól, hogy az egészségügyi közszolgáltató milyen jogviszonyban foglalkoztatta a kárt okozó egészségügyi dolgozót.
 
-### Kollektív szerződés kiterjesztése az egészségügyi ágazatban
-
-19/B. § (1) A munkáltató vagy a tagok felhatalmazása alapján a munkáltatói érdek-képviseleti szervezet és a szakszervezet vagy szakszervezeti szövetség által kötött kollektív szerződésnek a jogviszonyból származó jogokat és kötelezettségeket, ezek gyakorlásának, illetve teljesítésének módját, az ezzel kapcsolatos eljárás rendjét érintő szabályainak hatályát a kollektív szerződést kötő két oldal együttes kérelmének megfelelően a foglalkoztatáspolitikáért felelős miniszter az egészségügyi ágazatban főtevékenység alapján besorolt munkáltatókra kiterjesztheti, a Nemzeti Gazdasági és Társadalmi Tanácsról szóló 2011. évi XCIII. törvény szerinti országos munkáltatói és munkavállalói érdekképviseletek, illetve érdek-képviseleti szövetségek képviselői, valamint az egészségügyért felelős miniszter véleményének kikérése után.
-
-(2) A kollektív szerződés egészségügyi ágazatra történő kiterjesztésének feltétele, hogy a kollektív szerződést kötő munkáltató, munkáltatók vagy munkáltatói érdekképviseleti szervezet munkáltató tagjai az egészségügyi ágazatban közalkalmazotti jogviszonyban és munkajogviszonyban állók többségét foglalkoztassák, valamint a kollektív szerződést kötő szakszervezet, szakszervezetek között legyen legalább egy olyan szakszervezet, amelynek az egészségügyi ágazatban közalkalmazotti jogviszonyban és munkajogviszonyban álló tagjainak száma eléri az egészségügyi ágazatban foglalkoztatott közalkalmazotti jogviszonyban és munkajogviszonyban állók létszámának 10%-át.
-
-(3) A kiterjesztés iránti kérelem a Gazdasági Tevékenységek Egységes Ágazati Osztályozási Rendszere TEÁOR '08 szerinti ágazatra, alágazatra, szakágazatra vonatkozhat. A (2) bekezdés szerinti feltételeket ennek megfelelően kell teljesíteni.
-
-(4) A (2) bekezdésben foglalt feltételek fennállását a kérelmezőknek a foglalkoztatáspolitikáért felelős miniszter előtti eljárásban a kiterjesztés iránti kérelem benyújtásának időpontját hat hónappal megelőző időpontjára vonatkozó tényadatokkal kell alátámasztaniuk. A foglalkoztatáspolitikáért felelős miniszter az eljárása során az adatok igazolására megkeresheti az adatok nyilvántartását ellátó vagy kezelő illetékes hatóságot, bíróságot, közigazgatási szervet, köztestületet, érdekvédelmi, illetve érdekképviseleti szervet vagy fórumot, munkáltatót, munkáltatói érdek-képviseleti szervezetet, szakszervezetet vagy szakszervezeti szövetséget.
-
-(5) A kiterjesztés iránti kérelem benyújtására csak a foglalkoztatáspolitikáért felelős miniszter által vezetett, a kollektív szerződések nyilvántartásába bejegyzett kollektív szerződés esetén kerülhet sor. A foglalkoztatáspolitikáért felelős miniszter a kiterjesztés elrendeléséről szóló döntés meghozatala érdekében megvizsgálja a kiterjesztést alátámasztó gazdasági, költségvetési, államháztartási, foglalkoztatási, szociális tényezőkhöz kapcsolódó adatokat és indokokat.
-
-(6) Az egészségügyi ágazatra történő kiterjesztésre alkalmazni kell az ágazati párbeszéd bizottságokról és a középszintű szociális párbeszéd egyes kérdéseiről szóló 2009. évi LXXIV. törvény 17. § (3) és (4) bekezdésének, 18. § (1)–(3) bekezdésének és 26. § 13. pontjának rendelkezéseit.
+#### 19/B. §
 
 ### IV. Fejezet — AZ EGÉSZSÉGÜGYI TEVÉKENYSÉG VÉGZÉSÉRE VALÓ ALKALMASSÁG
 
@@ -645,15 +635,15 @@ részt vehet.
 
 (20)
 
-29/A. § (1) Az egészségügyi ágazati előmeneteli szabályok alapján járó illetmény- vagy bérnövelést az Mt., a Kjt. és a Hjt. alkalmazásában a távolléti díj számítása során figyelembe kell venni.
+29/A. § (1) Az egészségügyi ágazati előmeneteli szabályok alapján járó illetmény- vagy bérnövelést az Mt., az Eszjtv. és a honvédelmi alkalmazottak jogállásáról szóló törvény és a Hjt. alkalmazásában a távolléti díj számítása során figyelembe kell venni.
 
-(2) Az egészségügyi ágazati előmeneteli szabályok alapján járó illetmény- vagy bérnövelést a Kjt. alkalmazásában a jubileumi jutalom számítása során figyelembe kell venni.
+(2) Az egészségügyi ágazati előmeneteli szabályok alapján járó illetmény- vagy bérnövelést az Eszjtv. alkalmazásában a szolgálati elismerés és a honvédelmi alkalmazottak jogállásáról szóló törvény alkalmazásában a jubileumi jutalom számítása során figyelembe kell venni.
 
 #### 29/B. §
 
 #### 29/C. §
 
-30. § Az egészségügyi szolgáltató a 11/A. § és a 29/B. § szerint meghatározott illetmény- vagy bérnöveléssel járó többlet személyi juttatások és az azokhoz kapcsolódó, a munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetéséhez az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló kormányrendeletben meghatározottak szerint, ott meghatározott összegű – működési célú, támogatásértékű bevételként – támogatásban részesül.
+30. § Az egészségügyi szolgáltató a 11/A. § szerint meghatározott illetmény- vagy bérnöveléssel járó többlet személyi juttatások és az azokhoz kapcsolódó, a munkaadókat terhelő járulékok és szociális hozzájárulási adó kifizetéséhez az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló kormányrendeletben meghatározottak szerint, ott meghatározott összegű – működési célú, támogatásértékű bevételként – támogatásban részesül.
 
 31. § A Hjt. hatálya alá tartozók esetében, ahol a 29/A–30. § „illetmény- vagy bérnövelést” említ, ott „egészségügyi dolgozók kiegészítő illetményét” kell érteni.
 

@@ -38,6 +38,7 @@ a Kormány rendeletében kijelölt miniszterhez (a továbbiakban: miniszter) tö
 - g) a víziközmű-szolgáltatásról szóló törvény hatálya alá tartozó szolgáltatások,
 - h) az elektronikus hírközlésről szóló törvény hatálya alá tartozó szolgáltatások,
 - i) az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény hatálya alá tartozó elektronikus információs rendszerek kialakítása, fejlesztése vagy működtetése
+- j) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény szerinti biztosítási és viszontbiztosítási tevékenység, valamint a biztosítási tevékenységgel közvetlenül összefüggő tevékenységek körében bejelentési kötelezettség alá tartozó tevékenységek
 
 tevékenységi körökön belül a Kormány rendeletében meghatározott egyes tevékenységek.
 

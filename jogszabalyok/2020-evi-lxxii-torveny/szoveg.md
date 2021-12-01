@@ -24,11 +24,33 @@ A művészeti képzési terület, ezen keresztül az innovációt támogatni ké
 
 (3)
 
-3/A. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény alapján az Alapítvány vagyonkezelési tevékenységének, továbbá közfeladata ellátásának érdekében a Nemzeti Filmszínház Nonprofit Kft.-ben az állam tulajdonában álló, 2. melléklet szerinti üzletrészt ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni.
+3/A. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) alapján az Alapítvány vagyonkezelési tevékenységének, továbbá közfeladata ellátásának érdekében a Nemzeti Filmszínház Nonprofit Kft.-ben az állam tulajdonában álló, 2. melléklet szerinti üzletrészt ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni.
 
 (2) Az Alapítvány az (1) bekezdés alapján tulajdonába adott üzletrész elidegenítéséből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány közfeladata ellátására és közérdekű céljai megvalósítására köteles fordítani. Az Alapítvány az értékesítésből származó bevételt az Alapítvány működési költségeinek finanszírozására nem használhatja fel.
 
 3/B. § A 3/A. § (1) bekezdése szerinti üzletrész tulajdonba adásáról az Alapítvány alapító okiratának módosításával a miniszter rendelkezik. A tulajdonba adás végrehajtása során az állam képviseletében a miniszter jár el, aki jogosult az üzletrész felett az államot megillető tulajdonosi jogok gyakorlására és a kötelezettségek teljesítésére.
+
+3/C. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján – az Alapítvány KEKVA tv. 1. mellékletében meghatározott közfeladatai ellátása érdekében – az állam tulajdonában álló, 3. melléklet szerinti ingatlanok (ezen § alkalmazásában a továbbiakban együtt: ingatlanok) ingyenesen az Alapítvány tulajdonába kerülnek.
+
+(2) Az Alapítvány a Budapest XII. kerület 8398/2 helyrajzi számú ingatlan tulajdonjogát per-, teher- és igénymentesen, a Budapest I. kerület 7599/2 helyrajzi számú, valamint a Budapest XII. kerület 8398/3 helyrajzi számú ingatlanok tulajdonjogát – a (3) bekezdésben foglalt kivétellel – a fennálló terhekkel együtt szerzi meg. Az (1) bekezdés szerinti tulajdonátruházás feltétele, hogy az Alapítvány a 7599/2 helyrajzi számú, valamint a 8398/3 helyrajzi számú ingatlanokat terhelő kötelezettségeket a 3/D. § (2) bekezdés szerinti szerződésben teljeskörűen átvállalja.
+
+(3) Az ingatlanokon fennálló vagyonkezelői jog – külön elszámolás, a beruházások vagyonnyilvántartási átvezetése, rendezése nélkül – az Alapítvány tulajdonszerzésével egyidejűleg megszűnik azzal, hogy a tulajdonosi joggyakorló és a vagyonkezelő a tulajdonba adással érintett ingatlanok tekintetében egymással szemben követelést semmilyen jogcímen nem támaszthatnak.
+
+(4) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az ingatlanokban elhelyezett, állami tulajdonú, kulturális javaknak nem minősülő ingó vagyontárgyak, a fennálló vagyonkezelői jog egyidejű megszűnésével az Alapítvány tulajdonába kerülnek.
+
+(5) A Budapest XII. kerület 8398/3 helyrajzi számú ingatlan tekintetében – a KEKVA tv. 12. § (6) bekezdésére figyelemmel – a magyar állam javára az ingatlan-nyilvántartásba elidegenítési és terhelési tilalmat kell bejegyezni. Az elidegenítési és terhelési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg a tulajdonosi joggyakorló kérelmezi.
+
+(6) Ha az Alapítvány a tulajdonába adott ingatlanokat – az (5) bekezdésben foglalt kivétellel – értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét az alaptevékenységét szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Alapítvány az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+
+3/D. § (1) A 3/C. § (4) bekezdése alapján átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá.
+
+(2) A 3/C. § (1) bekezdése szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti el és köti meg.
+
+3/E. § (1) A Déryné Művészeti Nonprofit Korlátolt Felelősségű Társaság (cégjegyzékszám. 01-09-351845 székhely: 1131 Budapest, Reitter Ferenc utca 132.) üzletrésze 100%-át a magyar állam tulajdonszerzését követően alapítói vagyoni juttatásként, az induló tőke növelése érdekében, ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladatai ellátása érdekében az Alapítvány tulajdonába kell adni.
+
+(2) Az Alapítvány az (1) bekezdés alapján tulajdonába adott üzletrész elidegenítéséből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány közfeladata ellátására és közérdekű céljai megvalósítására köteles fordítani. Az Alapítvány az értékesítésből származó bevételt az Alapítvány működési költségeinek finanszírozására nem használhatja fel.
+
+(3) Az (1) bekezdése szerinti üzletrész tulajdonba adásáról az Alapítvány alapító okiratának módosításával a miniszter rendelkezik. A tulajdonba adás végrehajtása során az állam képviseletében a miniszter jár el, aki jogosult az üzletrész felett az államot megillető tulajdonosi jogok gyakorlására és a kötelezettségek teljesítésére.
 
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
@@ -62,7 +84,7 @@ A művészeti képzési terület, ezen keresztül az innovációt támogatni ké
 
 (3) A 8. § és a 9. § 2022. január 1-jén lép hatályba.
 
-7. § (1) Az 1. § (3) bekezdése, a 3/A. §, az 5. § (1) és (3) bekezdése és a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+7. § (1) Az 1. § (3) bekezdése, a 3/A. §, a 3/C. §, a 3/E. §, az 5. § (1) és (3) bekezdése és a 2. és a 3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 3. § (1) és (2) bekezdése és az 5. § (1) és (2) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
@@ -90,3 +112,14 @@ A művészeti képzési terület, ezen keresztül az innovációt támogatni ké
 | --- | --- | --- |
 | 1. | Gazdasági társaság megnevezése | Átadandó állami tulajdonban álló részesedés megjelölése |
 | 2. | Nemzeti Filmszínház Nonprofit Korlátolt Felelősségű Társaság | 15 000 000 forint üzletrész |
+
+### 3. melléklet a 2020. évi LXXII. törvényhez
+
+#### Az Alapítvány részére átadásra kerülő állami tulajdonú ingatlanok
+
+|  | A | B | C | D |
+| --- | --- | --- | --- | --- |
+|  | Település | Helyrajzi szám | A magyar állam tulajdoni hányada | Megnevezés |
+| 1 | Budapest | 7599/2 | 2/2 | kivett irodaház |
+| 2 | Budapest | 8398/3 | 1/1 | kivett múzeum |
+| 3 | Budapest | 8398/2 | 1/1 | kivett beépítetlen terület |

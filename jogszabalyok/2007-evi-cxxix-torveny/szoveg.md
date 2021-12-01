@@ -191,9 +191,11 @@ a termőföld védelméről
 
 (3) A szakhatósági hozzájárulást meg kell tagadni, ha az engedélyezés iránti kérelem átlagosnál jobb minőségű termőföldet érint, azonban a tervezett tevékenység végzésére, létesítmény elhelyezésére, jogosultság gyakorlására hasonló körülmények és feltételek esetén átlagos minőségű vagy átlagosnál gyengébb minőségű termőföldeken is sor kerülhet. A külfejtéses bányászati tevékenységgel összefüggő hatósági eljárásban való szakhatósági közreműködés esetén akkor is meg kell tagadni a szakhatósági hozzájárulást, ha a homok, kavics vagy agyag ásványi nyersanyag kutatására vonatkozó műszaki üzemi terv jóváhagyása iránti kérelmet vagy a bányatelek megállapítása iránti kérelmet olyan településen fekvő termőföldre nyújtották be, amelynek külterületén lévő földrészletek összterületének több mint 25%-ára a bányatelek jogi jelleg be van jegyezve az ingatlan-nyilvántartásban.
 
+(3a) Nem kell megtagadni a szakhatósági hozzájárulás megadását a (3) bekezdés szerinti esetben akkor, ha a kutatásra vonatkozó műszaki üzemi terv vagy előkutatási kérelem meglévő bányatelek vertikális bővítésére vagy a bányatelek megállapítása iránti kérelem már megállapított bányatelek kizárólag vertikális bővítésére, illetve olyan megosztására, egyesítésére irányul, amely összességében nem eredményezi a bányatelkek területének növekedését.
+
 (4) Az ingatlanügyi hatóság előzetes szakhatósági állásfoglalást nem ad ki.
 
-8/A. § Földvédelmi szakkérdés vizsgálata során a 8. § (1)–(3) bekezdésében foglaltakat alkalmazni kell.
+8/A. § Földvédelmi szakkérdés vizsgálata során a 8. § (1)–(3a) bekezdésében foglaltakat alkalmazni kell.
 
 8/B. § (1) Ha a termőföld végleges más célú hasznosításával járó tervezett beruházást a Kormány nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással összefüggő üggyé nyilvánította, és a beruházó – a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvényben meghatározottak szerint – a földvédelmi eljárás lefolytatását a környezeti hatásvizsgálati eljárás keretében kéri lefolytatni, az érintett termőföldnek a földvédelmi szakkérdés vizsgálata alapján engedélyezhető végleges más célú hasznosítása esetén – a 22. § (1) bekezdésében foglaltaktól eltérően – a környezetvédelmi engedély részét nem képezi a földvédelmi járulék összegének a megállapításáról és megfizetéséről szóló rendelkezés.
 
@@ -221,7 +223,7 @@ a termőföld védelméről
 
 (2) Nem minősül a termőföld más célú hasznosításának napenergiát az e törvény végrehajtására kiadott rendeletben meghatározottak szerinti agrofotovoltaikus rendszer szerint felhasználva villamos energiát termelő erőmű létesítése és üzemeltetése, ha nem akadályozza az alatta fekvő területnek a 2. § 19. pontjában megjelölt valamely művelési ág szerint termőföldként történő hasznosítását.
 
-(3) A termőföld más célú hasznosítása időleges vagy végleges lehet. A termőföld belterületbe vonása, valamint a termőföldnek a 15/B. §-ában meghatározott célból történő igénybevétele végleges más célú hasznosításnak minősül.
+(3) A termőföld más célú hasznosítása időleges vagy végleges lehet. A termőföld belterületbe vonása végleges más célú hasznosításnak minősül.
 
 10. § (1) A termőföldet az ingatlanügyi hatóság engedélyével lehet más célra hasznosítani, ide nem értve a (2) bekezdésében meghatározott eseteket. Az engedély hiánya esetén a más hatóságok által kiadott engedélyek nem mentesítik az igénybevevőt az e törvényben foglalt jogkövetkezmények alól. Az ingatlanügyi hatóság engedélye nem mentesít a szükséges más hatósági engedélyek megszerzésének kötelezettsége alól.
 
@@ -451,9 +453,11 @@ esetében.
 
 (2) A cél-kitermelőhely létesítéséhez szükséges termőföld végleges más célú hasznosításának engedélyezése iránti kérelmet a külön törvény szerinti építtető, az építtetővel szerződéses jogviszonyban álló vállalkozó, és a bányavállalkozó (ezen alcímben a továbbiakban együtt: jogosult) nyújthat be. A kérelemnek – a 12. § (1) bekezdésben foglaltakon túl – tartalmaznia kell a tevékenység megszüntetését követően a terület helyreállításának, természeti környezetbe való visszahelyezésének tervezett módját.
 
-(3) Cél-kitermelőhely létesítése céljából kizárólag átlagosnál gyengébb minőségű termőföld végleges más célú hasznosítása engedélyezhető.
+(3) Cél-kitermelőhely létesítése céljából kizárólag átlagosnál gyengébb minőségű termőföld végleges más célú hasznosítása engedélyezhető, kivéve, ha a tevékenységgel érintett területet a Kormány a Magyar Közlönyben közzétett határozatával beruházási célterületté nyilvánította.
 
-(4) A (3) bekezdésben foglalt feltétel fennállása esetén sem engedélyezhető a termőföld végleges más célú hasznosítása cél-kitermelőhely létesítése céljára, ha a kérelemmel érintett település külterületén lévő földrészletek összterületének 25%-át meghaladja az ilyen célból már igénybevett és az ilyen célra felhasználni engedélyezett, de még igénybe nem vett termőföldek együttes területe.
+(4) A (3) bekezdésben foglalt feltétel fennállása esetén – a (4a) bekezdésben foglalt kivételtől eltekintve – sem engedélyezhető a termőföld végleges más célú hasznosítása cél-kitermelőhely létesítése céljára, ha a kérelemmel érintett település külterületén lévő földrészletek összterületének 25%-át meghaladja az ilyen célból már igénybevett és az ilyen célra felhasználni engedélyezett, de még igénybe nem vett termőföldek együttes területe.
+
+(4a) A (4) bekezdés szerinti esetben akkor engedélyezhető a termőföld más célú hasznosítása cél-kitermelőhely létesítése céljára, ha a tevékenységgel érintett területet a Kormány a Magyar Közlönyben közzétett határozatával beruházási célterületté nyilvánította.
 
 (5) Ha a végleges más célú hasznosítással érintett területet a jogosult a cél-kitermelőhely megszüntetése esetére irányadó szabályok alapján kiadott véglegessé vált határozat előírásainak megfelelően úgy állítja helyre, hogy ennek eredményeként a végleges más célú hasznosítással érintett terület egésze vagy annak egy része e törvény szerinti újrahasznosítása valósul meg, a jogosult köteles az újrahasznosítást az ingatlanügyi hatóságnak bejelenteni.
 
