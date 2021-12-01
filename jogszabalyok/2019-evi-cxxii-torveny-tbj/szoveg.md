@@ -308,12 +308,14 @@ tart.
 
 (6) Az (1) bekezdés i) pontjában említett tanuló, képzésben részt vevő személy és hallgató a tanulói jogviszony vagy a hallgatói jogviszony kezdetétől a diákigazolványra való jogosultság megszűnéséig jogosult egészségügyi szolgáltatásra, ideértve a tanulói, hallgatói jogviszony szünetelésének időtartamát is.
 
-(7) A (3) bekezdés és a 43. § (1) bekezdés a) pontja alkalmazásában belföldi az a Magyarországon élő magyar állampolgár is, aki
+(7) Belföldi
 
-- a) a jogviszony vizsgálat időpontjában társadalombiztosítási, szociális, családtámogatási ellátásban részesül, és
-- b) a jogviszony vizsgálatot megelőző öt éven belül
-  - ba) rendelkezett belföldön legalább tizenkét hónap biztosítási jogviszonnyal, vagy
-  - bb) legalább tizenkét hónapig egészségügyi szolgáltatásra volt jogosult az (1) bekezdés alapján.
+- a) – a (3) bekezdés alkalmazásában – az a Magyarországon élő magyar állampolgár is,
+- b) – a 43. § (1) bekezdés a) pontja alkalmazásában – az a legalább egy éve Magyarországon élő magyar állampolgár is,
+
+aki a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 80. § (5) bekezdése szerinti – a külföldön, illetve a nemzetközi szervezet szociális biztonsági rendszerében létrejött biztosításra vonatkozó – bejelentést nem teljesített.
+
+(8) A (7) bekezdés szerint belföldinek minősülő magyar állampolgár esetében a (3) bekezdés és a 43. § (2) bekezdése szerinti feltételt teljesítettnek kell tekinteni.
 
 ### IV. Fejezet — AZ ELLÁTÁSOK FEDEZETE
 
@@ -1288,6 +1290,8 @@ a 25 százalékot.
 (2) E törvénynek a családi gazdaságokról szóló 2020. évi CXXIII. törvénnyel módosított 27. § (1) bekezdés b) pontjának ba) és bb) alpontja, 27. § (3) bekezdés a) pontja, 42. § (8) bekezdése, 73. § (2) bekezdése, és a családi gazdaságokról szóló 2020. évi CXXIII. törvénnyel megállapított 100. § (3) bekezdése 2020. július 1-jétől alkalmazható.
 
 105/A. § A 41. § (2) bekezdésétől eltérően a 2021. adóévben a 2020. december 31-én hatályos Szja tv. szerinti mezőgazdasági kistermelő a tárgyévet megelőző évi – támogatások nélküli – bevételének 15 százaléka után fizeti meg a társadalombiztosítási járulékot.
+
+105/B. § Ha a magánszemély az egészségügyi szolgáltatások veszélyhelyzeti igénybevételével kapcsolatos egyes szabályokról és a koronavírus elleni védettség igazolásáról szóló 60/2021. (II. 12.) Korm. rendelet módosításáról szóló 222/2021. (V. 3.) Korm. rendelet (e § alkalmazásában a továbbiakban: kormányrendelet) 1. § (1) bekezdése alapján minősült belföldinek és a kormányrendelet hatálybalépését megelőzően az egészségügyi szolgáltatásra való jogosultsága vagy az egészségügyi szolgáltatási járulékfizetési kötelezettsége a belföldiség hiányában nem volt megállapítható, az egészségügyi szolgáltatásra való jogosultság és az egészségügyi szolgáltatási járulékfizetési kötelezettség kezdő időpontjára a kormányrendelet 1. § (3) bekezdése rendelkezését kell alkalmazni.
 
 #### 34. Az Európai Unió jogának való megfelelés
 

@@ -947,6 +947,8 @@ esélyegyenlőségét az a)–d) pontban meghatározott hallgatói csoportok tek
 - c) a doktorandusz munkaidő-beosztását oly módon kell meghatározni, hogy vizsgázási és a vizsgára történő felkészülési kötelezettségeinek eleget tudjon tenni,
 - d) a munkadíj havi összege, a teljes munkaidő ötven százalékának megfelelő idejű foglalkoztatás esetén nem lehet kevesebb, mint a legkisebb kötelező munkabér (minimálbér), eltérő idejű foglalkoztatás esetén ennek időarányos része.
 
+44/A. § Szűrővizsgálat elvégzésében – egészségügyi tevékenység végzésére való jogosultság nélkül – az orvos-, egészségtudományi képzésben részt vevő hallgató önkéntesen közreműködhet. Az igazolt önkéntes munkavégzésre a hallgató és a felsőoktatási intézmény között a 44. § (1) bekezdés b) pontja szerinti hallgatói munkaszerződés jön létre. A hallgatói munkaszerződés során szerzett munkatapasztalat kreditértékét a 49. § (6) bekezdése szerint a kreditátviteli bizottság állapítja meg. Az önkéntes munkát végző hallgató tanulmányi kötelezettségeinek teljesítését a felsőoktatási intézmény a hallgatói munkaszerződésre tekintettel szervezi meg. A hallgatói munkaszerződésből származó jövedelem a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 4.13. pontja szerinti jövedelemnek minősül.
+
 #### 26. A hallgatói jogviszony szünetelése
 
 45. § (1) Ha a hallgató bejelenti, hogy a következő képzési időszakban hallgatói kötelezettségének nem kíván eleget tenni, illetve, ha a hallgató a soron következő képzési időszakra nem jelentkezik be, a hallgatói jogviszonya szünetel. A hallgatói jogviszony egybefüggő szüneteltetésének ideje nem lehet hosszabb, mint két félév. A hallgató, a tanulmányi és vizsgaszabályzatban meghatározottak szerint több alkalommal is élhet a hallgatói jogviszonyának szüneteltetésével.
@@ -1738,7 +1740,12 @@ irányuló eljárásban.
 
 (5) A törvényesség biztosítása keretében kell ellenőrizni az intézményi dokumentumokban foglaltak megtartását, jogszerűségét, a felsőoktatási intézmény működésének és a döntéshozatalnak a jogszerűségét.
 
-#### 73/A. §
+73/A. § (1) Közegészségügyi, közbiztonsági okból, természeti csapás vagy a tanév rendjét és a hallgatói jogok érvényesülését közvetlenül fenyegető, elháríthatatlan helyzet (a továbbiakban együtt: rendkívüli helyzet) esetén a fenntartó a 73. § (5) bekezdésében és a 74. §-ban foglalt felelőssége körében – az oktatási hivatal tájékoztatása mellett – megállapíthatja, hogy a tanulmányi kötelezettségek jogszerű teljesítésének feltételei nem állnak fenn vagy nem biztosíthatóak, illetve azok nem ellenőrizhetőek általa. Az 58. § (1) bekezdésében foglaltaktól eltérően a döntés
+
+- a) elleni keresetlevél benyújtásának nincs halasztó hatálya és
+- b) azonnal végrehajtható.
+
+(2) A rendkívüli helyzettel érintett félév, illetve tanév nem számít be a 47. § (1) bekezdése, a 48. § (2) bekezdése, a 48/A. § a) pontja, valamint az 53. § (4) bekezdése szerinti határidőbe.
 
 74. § (1) Ellenőrzése eredményeképpen a fenntartó – megfelelő határidő tűzésével – felhívja a felsőoktatási intézmény vezetőjét a jogszabálysértő döntés orvoslására, a szükséges intézkedés meghozatalára.
 
@@ -1873,8 +1880,18 @@ gyakorolja.
 - c) a költségvetés pályázati úton elnyerhető ösztöndíj folyósításával nyújthat segítséget a tanulmányok folytatásához,
 - d) a felsőfokú tanulmányok megkezdése előtt legfeljebb két féléven keresztül – hallgatói jogviszony keretében – előkészítő tanulmányokat folytathatnak,
 - e) az államközi megállapodás alapján, a miniszter által működtetett ösztöndíjprogram keretében ösztöndíjjal támogatott hallgató az ösztöndíjjal támogatott időszakra vonatkozóan nem köteles a magyar állami (rész)ösztöndíjhoz kapcsolódó, e törvényben meghatározott sajátos feltételek teljesítésére.
+- f) ha a hallgatóval hallgatói jogviszonyban álló felsőoktatási intézmény rektora a képzési időszakra való bejelentkezéshez eseti egészségügyi alkalmassági vizsgálatot ír elő, és a hallgató az eseti egészségügyi alkalmassági vizsgálat alapján egészségügyi szempontból alkalmatlan a tanulmányok folytatására, szünetel a hallgató hallgatói jogviszonya abban a félévben, amelyben az egészségügyi alkalmatlanságot megállapították,
+- g) a felsőoktatási intézmény megszünteti a hallgató hallgatói jogviszonyát, ha az f) pont szerinti vizsgálat szerint a hallgató a tanulmányok további folytatására és befejezésére egészségügyi szempontból alkalmatlan,
+- h) a miniszter vagy a külpolitikáért felelős miniszter által működtetett ösztöndíjprogram keretében támogatott hallgató ösztöndíjprogramban történő részvételéhez
+  - ha) az ösztöndíjprogram alapítója,
+  - hb) a miniszter és
+  - hc) – kizárólag az általa működtetett ösztöndíjprogram tekintetében – a külpolitikáért felelős miniszter
+
+egészségügyi alkalmassági vizsgálatot írhat elő bármelyik képzési szinten.
 
 (2a) Ha a nem magyar állampolgár magyarországi tanulmányait távolléti oktatás keretében kezdi meg vagy tanulmányait távolléti oktatás keretében folytatja, hallgatói jogviszonyt létesíthet a (2) bekezdés a) pontja szerinti engedély nélkül is. A hallgatónak a távolléti oktatás keretében megkezdett képzésének nem távolléti oktatás keretében történő folytatását megelőzően be kell szereznie a (2) bekezdés a) pontja szerinti engedélyt és a felsőoktatási intézmény részére be kell mutatnia a felvételi eljárás és a beiratkozás során elektronikusan bemutatott iratai közül azokat, amelyeket a felsőoktatási intézmény előír.
+
+(2a) A (2) bekezdés f)–h) pontja nem alkalmazható a szabad mozgás és tartózkodás jogával rendelkező, a bevándorolt vagy a letelepedett jogállású hallgató esetében.
 
 (3) A 39. § (1) bekezdés f) pontja szerinti – a miniszter által kiírt pályázatot elnyert – személyek a miniszter által meghatározott létszámban jogosultak magyar állami (rész)ösztöndíjjal támogatott képzésben részt venni.
 
@@ -2290,87 +2307,92 @@ eltérő rendelkezéseket állapíthat meg,
 
 #### 59. Az egészségügyi felsőoktatási intézmény működése
 
-97. § (1) Az orvos- és egészségtudományi képzést folytató egyetem (a továbbiakban: egészségügyi felsőoktatási intézmény)
+97. § (1) A közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott, orvos- és egészségtudományi képzést végző felsőoktatási intézmény (a továbbiakban: egészségügyi felsőoktatási intézmény)
 
-- a) felsőoktatási intézmény részeként klinikai központot működtethet,
-- b) a felsőoktatási intézménytől elkülönített szervezeti keretben egészségügyi szolgáltatót létesíthet és tarthat fenn,
-- c) a felsőoktatási intézmény szervezeti egységeként egyetemi kórházat is működtethet.
+- a) a felsőoktatási intézmény részeként jogi személyiségű szervezeti egység formájában klinikai központot működtet,
+- b) a felsőoktatási intézménytől elkülönített szervezeti keretben egészségügyi szolgáltatót létesíthet és tarthat fenn.
 
-(2) Az egészségügyért felelős miniszter az általa vezetett minisztérium irányítása alá tartozó egészségügyi szolgáltató tekintetében az államháztartásról szóló törvény 9. § b)–d) és g)–j) pontja szerinti irányítási hatásköröket az általa vezetett minisztérium irányítása alá tartozó olyan egészségügyi felsőoktatási intézményre mint középirányító szervre ruházhatja át, amely az alapító okiratában foglaltak szerint alapképzést több képzési területen folytat.
+(2) A klinikai központ
 
-(3) Az egészségügyért felelős miniszter az általa vezetett minisztérium irányítása alá tartozó egészségügyi szolgáltató tekintetében kormányrendelet kifejezett – az egészségügyi szolgáltatót, a középirányító szervet és az irányítási hatásköröket meghatározó – rendelkezése alapján ruházhatja át az államháztartásról szóló törvény 9/A. § (3) bekezdése szerinti irányítási hatásköröket az alapító okiratában foglaltak szerint alapképzést csak egy képzési területen folytató, az egészségügyért felelős miniszter által vezetett minisztérium irányítása alá tartozó egészségügyi felsőoktatási intézményre.
+- a) irányítói megyei intézményi feladatokat ellátó és
+- b) irányítói megyei intézményi feladatokat el nem látó
 
-(4) A (2)–(3) bekezdés szerinti esetben az egészségügyi szolgáltató tekintetében az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 155. § (1) bekezdése szerinti fenntartói jogokat – az alapítás, átalakítás és megszüntetés, az egészségügyi szolgáltató éves költségvetési keretszámainak megállapítása és költségvetésének jóváhagyása kivételével – a középirányító szerv gyakorolja.
+klinikai központ lehet, amelyekre ezen alcím rendelkezései szerint eltérő szabályok az irányadók.
 
-(5) A (2)–(3) bekezdés szerinti egészségügyi felsőoktatási intézménynek címzett irányítási hatásköröket és fenntartói jogköröket
+(3) A klinikai központ fenntartója a felsőoktatási intézmény, a fenntartói jogokat a rektor a jogszabályban meghatározott, egészségügyi szolgáltatás irányításáért felelős szerv (a továbbiakban: egészségügyi szolgáltatás irányításáért felelős szerv) ezen alcímben foglalt jogkörei, továbbá a kancellár – ahol kancellár nem kerül megbízásra, a gazdasági vezető – e törvény szerinti jogkörei figyelembevételével gyakorolja.
 
-- a) a szakmai feladatokkal kapcsolatos hatáskörök és jogkörök tekintetében a rektor,
-- b) a működtetéssel és gazdálkodással kapcsolatos hatáskörök és jogkörök tekintetében a kancellár
+(4) A klinikai központ olyan, az (1) bekezdés a) pontja szerinti egészségügyi szolgáltató, amely az egészségügyi államigazgatási szerv által kiadott működési engedéllyel és az egészségbiztosítási szervvel kötött finanszírozási szerződéssel rendelkezik, jogokat és kötelezettségeket az egészségügyi szolgáltatáshoz kapcsolódóan szerezhet.
 
-gyakorolja.
+(5) A klinikai központ az egészségügyi szolgáltatást végző és a felsőoktatási képzési programban részt vevő klinikáit, diagnosztikai egységeit és az egészségügyi szolgáltatás szervezéséhez kapcsolódó egyéb egységeit foglalhatja magában.
 
 (6) Az (1) bekezdés b) pontja esetében az egészségügyi szolgáltatót önálló alapító okirattal vagy egyéb létesítő okirattal hozhatja létre az egészségügyi felsőoktatási intézmény.
 
-(7) Egyetemi kórház a költségvetési szervként működő egészségügyi szolgáltatónak az egészségügyi felsőoktatási intézménybe történő beolvadásával hozható létre. Egyetemi kórházzá csak olyan költségvetési szervként működő egészségügyi szolgáltató alakítható át, amely tekintetében a beolvadás időpontjában az egyesítésben részt vevő egészségügyi felsőoktatási intézmény a (2)–(3) bekezdés szerint középirányítóként irányítási hatáskört gyakorol.
+(7) Az egészségügyi felsőoktatási intézmény gyakorlati képzés céljából az egészségügyi szolgáltatóval megállapodhat gyakorló kórházi, járóbeteg-szakrendelési, gyógyszerészeti feladatok ellátására.
 
-(8) Egyetemi kórház szervezeti egység létrehozásához az egészségügyért és oktatásért felelős miniszter egyetértése szükséges.
+(8) Az egészségügyi felsőoktatási intézmény – jogszabályban meghatározottak szerint – ellátja az igazságügyi szakértői tevékenységet.
 
-(9) Az egyetemi kórház vezetője az egyetemi kórház működésével és tevékenységével összefüggésben az egészségügyi felsőoktatási intézmény képviseletében – az egészségügyi felsőoktatási intézmény szervezeti és működési szabályzata szerint – eljárhat. Az egyetemi kórház – az Eütv.-ben meghatározott feltételeknek való megfelelés esetén – az egészségügyi felsőoktatási intézmény egészségügyi szolgáltatójának minősül, rá a működési formája szerint irányadó jogszabályi rendelkezéseket – e törvényben meghatározott eltérésekkel – alkalmazni kell.
+98. § (1) A klinikai központot az elnök vezeti, aki az egészségügyi felsőoktatási intézményben az egészségügyi szolgáltatás irányításáért felelős vezető. Az egészségügyi szolgáltatás irányításáért felelős vezetőnek felsőfokú végzettséggel, orvos- és egészségtudomány képzési területen szerzett mesterfokozattal, illetve tudományos fokozattal kell rendelkeznie.
 
-(10) Az egyetemi kórház és a klinikai központ működésére és szervezetére, az egyetemi kórház és a klinikai központ vezetőjének jogaira és kötelezettségeire, továbbá képviseleti jogának terjedelmére vonatkozó szabályokat – e törvény és az Eütv. irányadó rendelkezéseinek figyelembevételével – az egészségügyi felsőoktatási intézmény szervezeti és működési szabályzatában, az egyetemi kórház és a klinikai központ gazdálkodására vonatkozó szabályokat az egészségügyi felsőoktatási intézmény belső szabályzatában kell meghatározni.
+(2) A klinikai központ elnöke felelős az egészségügyi szolgáltatás megszervezéséért.
 
-(11) Az egészségügyi felsőoktatási intézmény gyakorlati képzés céljából egészségügyi szolgáltatóval megállapodhat gyakorló kórházi, járóbeteg-szakrendelési, gyógyszerészeti feladatok ellátására. Ha a felsőoktatási intézmény nem egészségügyi felsőoktatási intézmény, azonban részt vesz az egészségtudományi képzésben, az e bekezdésben foglaltakat a gyakorlati képzés megszervezése tekintetében alkalmazni kell.
+(3) A klinikai központ elnöke a jogszabályban meghatározott feltételek figyelembevételével az egészségügyi közfeladat-ellátást érintő változás tekintetében javaslatot tesz az egészségügyi szolgáltatás irányításáért felelős szerv vezetője részére. Ha az egészségügyi szolgáltatás irányításáért felelős szerv vezetője a javaslattal nem ért egyet, a javaslat beérkezésétől számított tizenöt napon belül – az indok megjelölésével – kifogást tehet. A kifogásolt döntési javaslat nem fogadható el és nem hajtható végre. A határidő eredménytelen eltelte esetén az egészségügyi szolgáltatás irányításáért felelős szerv hozzájárulását kell vélelmezni.
 
-(12) Az egészségügyi felsőoktatási intézmény – jogszabályban meghatározottak szerint – ellátja az igazságügyi szakértői tevékenységet.
+(4) A klinikai központ elnöke
 
-97/A. § (1) A klinikai központ és az egyetemi kórház részt vesz
+- a) a klinikai központ működésével és tevékenységével összefüggésben az egészségügyi felsőoktatási intézmény képviseletében – az egészségügyi felsőoktatási intézmény szervezeti és működési szabályzata szerint – eljárhat,
+- b) részt vesz az egészségügyi felsőoktatási intézmény klinikai oktatási feladatainak szervezésében, valamint oktatói, kutatói és gyógyító-megelőző tevékenységet végezhet,
+- c) a 97. § (2) bekezdés a) pontja szerinti esetben irányítja és felügyeli a klinikai központ gazdasági működését, az egészségügyikancellár-helyettessel, ahol egészségügyikancellár-helyettes nem került megbízásra, az egészségügyi gazdaságivezető-helyettessel együttműködésben.
 
-- a) az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvényben foglaltak, valamint az Eütv. szerint a területi egészségügyi szolgáltatások nyújtásában, a szakellátás különböző progresszivitású szintjei szerinti betegellátásban,
+99. § (1) A klinikai központ által nyújtott egészségügyi szolgáltatások tekintetében az egészségügyi szolgáltatás irányításáért felelős szerv vezetője gyakorolja az alábbi szakmai irányítási jogköröket:
+
+- a) a klinikai központ által kötendő egészségügyi ellátási szerződés jóváhagyása,
+- b) az egészségügyi közfeladat-ellátást érintő változásra irányuló megállapodás megkötése és a megállapodás alapján a döntés kezdeményezése, illetve ha az egészségügyi közfeladat módosításának nem feltétele a megállapodás megkötése, akkor a döntés kezdeményezése a jogszabályban meghatározott feltételek esetén,
+- c) a klinikai központ kapacitása és ellátási területe módosításának kezdeményezése a jogszabályban meghatározott feltételek esetén,
+- d) a klinikai központnak az Egészségbiztosítási Alapból származó bevételeit tartalmazó számla megterheléséhez való hozzájárulás a kötelező egészségbiztosítás ellátásairól szóló törvény, valamint az ennek végrehajtására kiadott kormányrendelet szerint meghatározott esetben,
+- e) a klinikai központ működési engedélyének módosítása iránti kérelem előzetes jóváhagyása a klinikai központ által végezhető szakmák, az ellátás progresszivitási szintje és formája, az ágyszám és a heti óraszám tekintetében,
+- f) a klinikai központ működési engedélyében szereplő egészségügyi szolgáltatás szüneteltetéséhez és annak meghosszabbításához való hozzájárulás, valamint
+- g) az egészségügyi intézmények irányítására vonatkozó jogszabályban foglaltakat nem érintve a Kormány által kijelölt miniszter által meghatározott szakmai irányítási feladatok ellátása.
+
+(2) A szakellátási kapacitással és ellátási területtel kapcsolatos döntéshozatal során az egészségügyi államigazgatási szervnek az (1) bekezdés b) és c) pontja szerinti kezdeményezésnek megfelelően kell eljárnia.
+
+(3) A 97. § (2) bekezdés a) pontja szerinti esetben az egészségügyi szolgáltatás irányításáért felelős szerv az e törvényben foglaltak szerint gyakorolja a működtetéssel és gazdálkodással kapcsolatos irányítási jogköröket.
+
+(4) A 97. § (2) bekezdés a) pontja szerinti esetben a klinikai központ gazdálkodásának ellenőrzése érdekében a kancellár egészségügyikancellár-helyettest – ha kancellár nem kerül megbízásra, a gazdasági vezető egészségügyi gazdaságivezető-helyettest – nevez ki és tevékenységét irányítja. Feladatkörében eljárva az egészségügyikancellár-helyettes – ha egészségügyikancellár-helyettes nem kerül megbízásra az egészségügyi gazdaságivezető-helyettes – minden, a klinikai központ gazdálkodásával kapcsolatos iratba betekinthet.
+
+(5) Az egészségügyi szolgáltatás irányításáért felelős szerv e törvényben megállapított jogköre nem vonható el, és a jogkör gyakorlása során nem utasítható.
+
+99/A. § (1) A klinikai központ működésére és szervezetére, a klinikai központ vezetőjének jogaira és kötelezettségeire vonatkozó szabályokat – e törvény és az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) irányadó rendelkezéseinek figyelembevételével –, valamint a klinikai központ gazdálkodására vonatkozó szabályokat az egészségügyi felsőoktatási intézmény intézményi dokumentumában kell meghatározni.
+
+(2) A 97. § (2) bekezdés a) pontja szerinti esetben az egészségügyi felsőoktatási intézmény szervezeti és működési szabályzatának az egészségügyi tevékenységet közvetlenül meghatározó rendelkezései, valamint az egészségügyi felsőoktatási intézmény egyéb belső szabályzatának egészségügyi tevékenységet közvetlenül meghatározó rendelkezései elfogadásához a klinikai központ elnökének javaslata alapján az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének jóváhagyását be kell szerezni.
+
+(3) A klinikai központ és az egészségügyi felsőoktatási intézmény az egészségügyi szolgáltatás megszervezése keretében köteles az orvos- és egészségtudományi klinikai képzés szakmai-működési, a betegellátás önálló és a betegellátás, oktatás, kutatás közös infrastruktúrájának működtetési, üzemeltetési feladatainak, a gazdasági, igazgatási és adminisztrációs feladatainak ellátási módjáról és finanszírozásáról intézményi dokumentumban rendelkezni, valamint egyes költségvetési évekhez kapcsolódó változó feladatokról belső megállapodást, illetve szerződést kötni. A klinikai központ éves költségvetését ezek figyelembevételével kell meghatározni.
+
+(4) A 97. § (2) bekezdés a) pontja szerinti esetben a belső megállapodás, illetve szerződés, a klinikai központ éves költségvetése, vagyongazdálkodási terve, valamint ezek módosítása hatálybalépésének feltétele az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének hozzájárulása. A 97. § (2) bekezdés a) pontja szerinti esetben az egészségügyi felsőoktatási intézmény a klinikai központot érintő, a 74. § (2) bekezdése szerinti rész-beszámolót az egészségügyi szolgáltatás irányításáért felelős szerv vezetője részére előzetesen megküldi.
+
+(5) A 97. § (2) bekezdés a) pontja szerinti esetben az egészségügyi felsőoktatási intézmény a (2) és (3) bekezdés szerinti dokumentumokat előzetesen az egészségügyi szolgáltatás irányításáért felelős szerv vezetője részére továbbítja, aki az értesítés beérkezésétől számított tizenöt napon belül – az indok megjelölésével – kifogást tehet. A kifogásolt döntési javaslat nem fogadható el, nem hajtható végre. A határidő eredménytelen eltelte esetén az egészségügyi szolgáltatás irányításáért felelős szerv hozzájárulását kell vélelmezni.
+
+(6) Az egészségügyi felsőoktatási intézmény a jogszabályban meghatározott központi kórházi integrált gazdálkodási rendszer részére adatot szolgáltat.
+
+99/B. § (1) A klinikai központ részt vesz
+
+- a) az egészségügyi ellátórendszer fejlesztéséről szóló törvényben foglaltak, valamint az Eütv. szerint a területi egészségügyi szolgáltatások nyújtásában, a szakellátás különböző progresszivitású szintjei szerinti betegellátásban,
 - b) a tancélú gyógyító-megelőző tevékenység keretében az egészségügyi felsőoktatási intézmény képzési és kutatási feladatainak ellátásában.
 
-(2) Az (1) bekezdés a) pontjában meghatározott feladat ellátásra vonatkozóan az egészségbiztosítási szerv – a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvényben meghatározottak figyelembevételével – külön finanszírozási szerződést köt a klinikai központtal és az egyetemi kórházzal.
+(2) Az egészségbiztosítási szerv – a kötelező egészségbiztosítás ellátásairól szóló törvényben meghatározottak figyelembevételével – az egészségügyi szolgáltatás irányításáért felelős szerv véleményének kikérését követően finanszírozási szerződést köt a klinikai központtal.
 
-(3) Az egészségügyi felsőoktatási intézmény a 97. § (1) bekezdés a) és c) pontja szerinti egészségügyi szolgáltatója tekintetében – az egészségbiztosítási szerv által finanszírozott feladatok tekintetében – elkülönített kincstári számlákkal rendelkezik. Az egészségbiztosítási szerv által az egészségügyi szolgáltatás ellenértékeként biztosított összeg csak a finanszírozási szerződésben meghatározott feladatokra használható fel.
+(3) A klinikai központ – az egészségbiztosítási szerv által finanszírozott feladatok tekintetében – elkülönített számlával rendelkezik. Az egészségbiztosítási szerv által az egészségügyi szolgáltatás ellenértékeként biztosított összeg csak a finanszírozási szerződésben meghatározott feladatokra használható fel.
 
-(4) Az Egészségbiztosítási Alap terhére beszerzett, illetve működtetett vagyon értékesítése, hasznosítása esetén az egészségügyért felelős miniszter által kijelölt szerv egyetértését be kell szerezni.
+99/C. § (1) A klinikai központ tekintetében az egészségügyi felsőoktatási intézmény egészségügyi szolgáltatásának forrásait, illetve a betegellátó tevékenységhez kapcsolódó központi beruházási és felújítási, valamint fejlesztési forrásait a központi költségvetésről szóló törvény egészségügyért felelős miniszter által vezetett minisztérium fejezetében kell megtervezni.
 
-(5) Az egyetemi kórház és a klinikai központ tekintetében az egészségügyi felsőoktatási intézménynek címzett fenntartói jogokat
+(2) Az egészségügyért felelős miniszter szakmai irányításával és koordinálásával az egészségügyi felsőoktatási intézmény szervezi, illetve annak klinikai központja végzi a szakorvos-, a szakfogorvos-, a szakgyógyszerész-, klinikai szakpszichológus, népegészségügyi szakemberképzést, a más felsőfokú végzettséggel rendelkezők egészségügyi szak- és továbbképzését, továbbá közreműködik e feladatok ellátásában. A kormányzati tudománypolitikáért felelős miniszter irányítja és koordinálja – a törvény alapján az egészségügyért felelős miniszter hatáskörébe tartozó kutatások kivételével – az ágazati kutató-fejlesztő tevékenységet.
 
-- a) az egészségügyi szolgáltatóval kapcsolatos szakmai jogosítványok körében – ideértve az egészségügyi szolgáltató vezetője felett gyakorolt valamennyi munkáltatói jogot – a rektor,
-- b) az egészségügyi szolgáltató működtetésével és gazdálkodásával kapcsolatos jogosítványok körében a kancellár
+99/D. § (1) Az egészségügyi felsőoktatási intézmény klinikai központjában foglalkoztatott egészségügyi dolgozó foglalkoztatására az egészségügyi szolgálati jogviszonyról szóló törvényt alkalmazni kell, továbbá szakmai, oktatói, kutatói és tudományos tevékenységet – a tevékenységre irányadó képesítési és egyéb, jogszabályban meghatározott szakmai követelmények figyelembevételével – a jogviszonyától és beosztásától függetlenül végezhet.
 
-gyakorolja.
+(2) Az egészségügyi felsőoktatási intézményben az egészségügyi szolgálati jogviszonyban foglalkoztatott alkalmazott az e törvényben, illetve a felsőoktatási intézmény szabályzatában foglalt feltételek teljesítése esetén a 27. § (1) bekezdése szerint oktatói munkakörben, illetve a 33. § (2) bekezdése szerint kutatói munkakörben is foglalkoztatható azzal, hogy a betegellátásra irányuló jogviszonyban és az oktatói, illetve kutatói munkakör ellátására irányuló jogviszonyban végzett tevékenység munkaidő szempontjából egy jogviszonyban végzett munkának minősül.
 
-(6) Az egyetemi kórház vezetője kinevezéséhez vagy megbízásához az egészségügyért felelős miniszter egyetértése szükséges. Az egyetemi kórház dolgozói – a kancellár hatáskörébe tartozó feladatokat ellátó alkalmazottak kivételével – felett a munkáltatói jogokat – a bérgazdálkodást érintő, a kancellár egyetértésével hozott döntések kivételével – az egyetemi kórház vezetője gyakorolja.
+(3) A (2) bekezdés szerinti foglalkoztatás esetén az oktatói és kutatói munkakörhöz szabadságként kizárólag pótszabadság jár, melynek igénybevételét a rendes szabadsággal együtt a klinikai központ elnöke engedélyezi. A klinikai képzésben az egészségügyi szolgálati jogviszonyban foglalkoztatott dolgozó oktatást kiegészítő és segítő feladatokban részt vehet. A kettős feladatellátást eredményező foglalkoztatás esetén az egyes tevékenységekre vonatkozó díjazási szabályokat kell alkalmazni.
 
-(7) A 97. § (1) bekezdés szerinti egészségügyi szolgáltatók tekintetében a fenntartói jogok gyakorlására az Eütv.-ben foglalt szabályokat az e törvényben meghatározott eltéréssel kell alkalmazni.
-
-98. § (1) A klinikai központ és az egyetemi kórház tekintetében az egészségügyi felsőoktatási intézmény egészségügyi szolgáltatásának központi beruházási és felújítási, valamint fejlesztési forrásait a központi költségvetésről szóló törvény egészségügyért felelős miniszter által vezetett minisztérium fejezetében kell megtervezni. Az egészségügyért felelős miniszter által vezetett minisztérium jogosult az általa biztosított költségvetési előirányzatokkal kapcsolatos gazdálkodás ellenőrzésére. Az egészségügyért felelős miniszter előzetes tájékoztatást, beszámolót kérhet, illetve kezdeményezheti az egészségügyi szolgáltatással összefüggő kérdések tekintetében a minisztert illető egyes feladatok ellátására létrehozott állami szervek szakmai közreműködését.
-
-(2) Az egészségügyért felelős miniszter szakmai irányításával és koordinálásával az egészségügyi felsőoktatási intézmény szervezi, illetve annak klinikai központja végzi a szakorvos-, a szakfogorvos-, a szakgyógyszerész-, klinikai szakpszichológus, népegészségügyi szakemberképzést, a más felsőfokú végzettséggel rendelkezők egészségügyi szak- és továbbképzését, továbbá közreműködik e feladatok ellátásában. Az egészségügyért felelős miniszter irányítja és koordinálja az egészségügyi felsőoktatási intézményekben folytatott tancélú gyógyító-megelőző tevékenységet, ágazati kutató-fejlesztő tevékenységet.
-
-(3) Annál, aki az egészségügyi felsőoktatási intézmény képzési feladataiban és egészségügyi szolgáltatással összefüggő feladataiban is – munkaköri feladataként – részt vesz, meg kell határozni, hogy a teljes munkaidő mekkora részét kell az oktatói, illetőleg az egészségügyi szolgáltatással összefüggő feladatokra fordítani. Ilyen foglalkoztatás esetén az egyes tevékenységekre vonatkozó foglalkoztatási és munkaidő-megosztáshoz igazodó díjazási szabályokat alkalmazni kell.
-
-(4) A (3) bekezdés szerinti alkalmazottak a kettős feladat-ellátási kötelezettségük körében mind az egészségügyi minimumfeltételek, mind az oktatási akkreditáció szempontjából teljes értékű alkalmazottnak minősülnek. Az egészségügyi felsőoktatási intézmény egészségügyi szolgáltatójánál oktatási feladatot ellátó alkalmazott az e törvényben foglalt feltételek teljesítése esetén a 27. § (1) bekezdés szerinti oktatói munkakörben foglalkoztatható a (3) bekezdésben foglalt bérforrás megosztási kötelezettség és az intézményi foglalkoztatási követelményrendszer belső szabályainak teljesítése mellett.
-
-99. § (1) A betegellátási feladatok koordinálására az egészségügyi felsőoktatási intézmény klinikai központot hozhat létre a 97. § (1) bekezdés a) pontja szerint. A klinikai központ a felsőoktatási intézmény egészségügyi szolgáltatást végző és a felsőoktatási képzési programban részt vevő klinikákat, diagnosztikai egységeket és – a 97. § (1) bekezdés c) pontja szerinti egyetemi kórházat ide nem értve – az egészségügyi szolgáltatás szervezéséhez kapcsolódó egyéb szervezeti egységeket foglalhatja magában.
-
-(2) Az egészségügyi felsőoktatási intézményben az egészségügyi szolgáltatás irányításáért felelős magasabb vezetői megbízással rendelkező vezetőt a szervezeti és működési szabályzatban kell meghatározni (a továbbiakban: egészségügyi szolgáltatásért felelős vezető). A klinikai központot irányító egészségügyi szolgáltatásért felelős vezetőnek felsőfokú végzettséggel, orvos- és egészségtudomány képzési területen szerzett mesterfokozattal, illetve tudományos fokozattal kell rendelkeznie; e rendelkezéstől eltérni vagy szigorúbb feltételt előírni a pályázatban nem lehet. A klinikai központ egészségügyi szolgáltatásért felelős vezetője megbízásához az egészségügyért felelős miniszter előzetes egyetértését be kell szerezni. Az egészségügyi szolgáltatásért felelős vezető önállóan irányítja az egészségügyi szolgáltatás megszervezését. A klinikai központ egészségügyi szolgáltatásért felelős vezetője e feladatok tekintetében a klinikai központ dolgozói felett – a kancellár hatáskörébe tartozó feladatokat ellátó alkalmazottak kivételével – gyakorolja a munkáltatói jogokat a bérgazdálkodást érintő, a kancellár egyetértésével hozott döntések kivételével.
-
-(3) Ha az egészségügyi felsőoktatási intézmény klinikai központot és egyetemi kórházat is működtet, az egészségügyi szolgáltatások egységes szakmai irányítását Egészségügyi Irányító Testület (a továbbiakban: EIT) látja el.
-
-(4) Az EIT az egészségügyi felsőoktatási intézmény testületi szerve, amelynek tagjai:
-
-- a) az egészségügyért felelős miniszter által delegált 4 fő,
-- b) az egészségügyi felsőoktatási intézmény rektora és kancellára által delegált 2-2 fő.
-
-(5) Az EIT a tagjai közül – az EIT képviseletére jogosult – elnököt választ. Az elnök megválasztásához, az egészségügyi felsőoktatási intézmény szervezeti és működési szabályzatának az EIT-t egészségügyi szolgáltatásra vonatkozó feladataira, kötelezettségeire, jogosultságaira vonatkozó szabályainak meghatározásához és módosításához az egészségügyért felelős miniszter egyetértése szükséges.
-
-(6) Az EIT ülésén a klinikai központ és az egyetemi kórház vezetője tanácskozási joggal részt vehet.
-
-(7) Az EIT a klinikai központ és az egyetemi kórház vonatkozásában az egészségügyi felsőoktatási intézmény szervezeti és működési szabályzatában rögzített feladatok mellett az Eütv. 155. § (5) bekezdése szerinti fenntartói jogkörök gyakorlásához kapcsolódó előkészítő tevékenységet végez, amelynek keretében az egészségügyi felsőoktatási intézményen belül döntési jogkörrel rendelkezik. Az EIT működésének rendjét az általa elfogadott ügyrend határozza meg.
-
-(8) A felsőoktatási intézmény által biztosított egészségügyi szolgáltatáshoz – jogszabályban meghatározott feltételekkel – az egészségügyért felelős miniszter költségvetési finanszírozást nyújt, illetve támogatást nyújthat. Az egészségügyi felsőoktatási intézmény által végzett egészségügyi tevékenységre, továbbá az egészségügyi kutatásra, egészségügyi fejlesztésekre, egészségügyi szak- és továbbképzésre is alkalmazni kell az egészségügy szakmai irányítására és szervezésére, az egészségügyért felelős miniszter szakmai irányítási jogkörére vonatkozó rendelkezéseket, továbbá mindazokat a jogszabályokat, amelyek meghatározzák az egészségügyi szolgáltatás megszervezését, a feladatellátásban közreműködők szakképzettségét, az egészségügyi szolgáltatás finanszírozását.
+(4) A (2) bekezdés szerinti foglalkoztatottak a kettős feladatellátási kötelezettségük és jogviszonyuk körében mind az egészségügyi minimumfeltételek, mind az oktatási akkreditáció szempontjából teljes értékű alkalmazottnak minősülnek.
 
 #### 60. Az állami felsőoktatási intézményekben folytatott kutatás-fejlesztési vállalkozási tevékenység
 
@@ -3112,6 +3134,10 @@ vonatkozó szabályait kell alkalmazni.
 (7) A munkáltató és a foglalkoztatott közötti egyéb megállapodást a jogállásváltozás nem érinti.
 
 117/F. § E törvénynek a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2021. évi VIII. törvénnyel megállapított 117/C. § (6b) bekezdését azon felsőoktatási intézményben kell alkalmazni, amelyben a fenntartóváltásra 2021. augusztus 1. vagy szeptember 1. napjával kerül sor.
+
+117/G. § (1) Az 53. § (4) bekezdésétől eltérően a komplex vizsgát követő négy tanéven belül kell a doktori szabályzatban meghatározottak szerinti doktori értekezést benyújtania annak, aki a komplex vizsgáját 2018. február 1-je és 2021. május 10-e között teljesítette. Ez a határidő különös méltánylást érdemlő esetekben legfeljebb egy évvel a doktori szabályzatban meghatározottak szerint meghosszabbítható.
+
+(2) Az (1) bekezdésben meghatározott doktorandusz fokozatszerzési eljárásában a hallgatói jogviszony szünetelése legfeljebb négy félév lehet.
 
 #### 71. Az Európai Unió jogának való megfelelés
 
