@@ -649,6 +649,10 @@ kell biztosítani.
 
 (6) A főváros közigazgatási területén a köznevelési fenntartó által fenntartott nevelési-oktatási intézményben, illetve szakképző intézményben – a fővárosi önkormányzat saját tulajdonában álló ingatlanban működő nevelési-oktatási intézmények kivételével – az (1) és a (4) bekezdés szerinti gyermekétkeztetést a kerületi önkormányzat biztosítja. A fővárosi önkormányzat köteles biztosítani az (1) és a (4) bekezdés szerinti gyermekétkeztetést azon nevelési-oktatási intézményben, amely saját tulajdonában álló ingatlanban működik.
 
+(7) A tantermen kívüli, digitális munkarendben megszervezett nevelés-oktatás, óvoda esetében a nevelési évben munkanapra az Nkt. 30. § (5) bekezdése alapján elrendelt rendkívüli szünet, valamint bölcsőde és mini bölcsőde esetében a nevelési évben munkanapra elrendelt rendkívüli zárvatartás időtartama alatt, kivéve ha az adott időtartamban a 21/C. §-ban foglaltak szerint szünidei gyermekétkeztetést kell biztosítani, az intézményi gyermekétkeztetést a szülő, más törvényes képviselő kérelmére – elvitel vagy kiszállítás formájában – az (1)–(6) bekezdés szerint kell biztosítani.
+
+(8) Ha a gyermek, tanuló a lakóhelyétől, tartózkodási helyétől eltérő településen jár bölcsődébe, mini bölcsődébe, köznevelési vagy szakképző intézménybe, és a szülő, más törvényes képviselő a gyermek számára az intézményi gyermekétkeztetést igényli, akkor azt a (7) bekezdés szerinti időtartam alatt a feladatellátásra kötelezett szerv helyett a gyermek, tanuló lakóhelye, tartózkodási helye szerinti települési önkormányzat biztosíthatja.
+
 ### Ingyenes és kedvezményes intézményi gyermekétkeztetés
 
 21/B. § (1) Az intézményi gyermekétkeztetést ingyenesen kell biztosítani
@@ -1299,6 +1303,11 @@ vezeti.
 (3) A bölcsődei ellátásban a sajátos nevelési igényű gyermek annak az évnek az augusztus 31. napjáig vehet részt, amelyben a hatodik életévét betölti.
 
 (4) Meg kell szüntetni annak a gyermeknek a bölcsődei ellátását, aki orvosi szakvélemény alapján egészségi állapota miatt bölcsődében nem gondozható.
+
+42/B. § Ha rendkívüli időjárás, járvány, természeti csapás vagy más elháríthatatlan ok miatt a gyermekek napközbeni ellátását biztosító szolgáltató, intézmény, vagy valamely bölcsődei csoport működtetése nem lehetséges,
+
+- a) a szolgáltatóra, intézményre vagy valamely bölcsődei csoportra kiterjedően az intézményvezető, ennek hiányában a szolgáltatást nyújtó személy,
+- b) a településen, fővárosi kerületben működő valamennyi, gyermekek napközbeni ellátását biztosító szolgáltatóra, intézményre kiterjedően a települési önkormányzat jegyzője, a fővárosban a fővárosi kerületi önkormányzat jegyzője – a fenntartó egyidejű értesítése mellett – rendkívüli zárva tartást rendel el.
 
 ### Bölcsőde
 

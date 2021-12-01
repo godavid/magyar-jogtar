@@ -1865,7 +1865,7 @@ hirdetheti ki.
 
 (9h) A 49. § (5) és (6) bekezdése szerinti keresetindítási határidő a (9e) bekezdés szerinti megismerhetővé tételtől számítandó.
 
-(9i) A felszámolási eljárásban az adós vagyonának értékesítésekor a magyar államot e törvény alapján elővásárlási jog illeti meg, amelyet megelőz a törvény alapján fennálló elővásárlási jog.
+(9i) A felszámolási eljárásban az adós gazdálkodó szervezet 25 millió forintot meghaladó egyedi forgalmi értékű vagyonelemeinek értékesítésekor a magyar államot e törvény alapján elővásárlási jog illeti meg, amelyet megelőz a törvény alapján fennálló elővásárlási jog.
 
 (10) Az 56. § (2) bekezdés szerinti – a be nem hajtott követeléseket és az értékesítetlen vagyontárgyakat a hitelezők között felosztó – bírósági döntés meghozatalánál a (8) bekezdés szerinti határidőket kell figyelembe venni.
 
@@ -2131,7 +2131,7 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 
 (1a)
 
-(1b) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a 67. § (9i) bekezdése szerinti állami elővásárlási jog gyakorlására jogosult szervezetet.
+(1b)
 
 (1c) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a gazdálkodó szervezetek reorganizációjára, működőképességének fenntartására, illetve helyreállítására, tartozásaik rendezésére vonatkozó sajátos szabályokat.
 

@@ -661,7 +661,7 @@ szolgálati beosztásából indokolás nélkül rendelkezési állományba áthe
 - n) a tábornok, aki a szolgálati viszonya megszűnésére, megszüntetésére vonatkozó előterjesztési javaslattal szemben bírósághoz fordult, a kereset jogerős elbírálásáig,
 - o) az állomány azon tagja, akivel szemben méltatlansági eljárást rendeltek el, annak befejezéséig, ha a méltatlansági eljárás felfüggesztésre kerül és az állomány tagja nem tölt be szolgálati beosztást,
 - p) az állomány azon tagja, akinek a szolgálati beosztása létszámcsökkentés vagy átszervezés következtében megszűnt, szolgálati viszonyban történő továbbfoglalkoztatásra tervezett, megfelelő szolgálati beosztásba helyezéséig, de legfeljebb 1 évig,
-- q) az állomány azon tagja, aki az egészségügyi felsőfokú szakirányú szakképzési rendszerben szakorvos-jelöltként vesz részt, az előírt képzési idő tartamára,
+- q) az állomány azon tagja, aki az egészségügyi felsőfokú szakirányú szakképzési rendszerben szakorvos-jelöltként vesz részt, az előírt képzési idő tartamára, ha nem tölt be szolgálati beosztást,
 - r) a hivatásos tiszti állomány legalább főhadnagy és a hivatásos altiszti állomány legalább törzsőrmester rendfokozattal rendelkező tagja, akinek szolgálati beosztása létszámcsökkentés vagy átszervezés következtében megszűnt, vagy akivel szemben az e) pont szerinti ok megszűnt és továbbfoglalkoztatására nincs lehetőség, a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati, a közszolgálati, honvédelmi alkalmazotti, a közalkalmazotti vagy rendvédelmi igazgatási szolgálati jogviszonyba vagy a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyba (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) történő áthelyezéséig, illetve a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) szerinti kormányzati szolgálati jogviszony létesítéséig, de legfeljebb a 47. § (1) bekezdésében meghatározott időtartamra,
 - s) a hivatásos állomány legalább 25 év tényleges szolgálati viszonyban töltött idővel rendelkező tagja, aki egészségi vagy pszichikai okból katonai szolgálatra alkalmatlan, a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati, a közszolgálati, honvédelmi alkalmazotti, a közalkalmazotti vagy rendvédelmi igazgatási szolgálati jogviszonyba, adó- és vámhatósági szolgálati jogviszonyba történő áthelyezéséig, illetve a Kit. szerinti kormányzati szolgálati jogviszony létesítéséig, de legfeljebb a 47. § (1) vagy (1a) bekezdésében meghatározott időtartamra,
 - t) a hivatásos állomány azon tagja, aki legalább 30 év tényleges szolgálati viszonyban töltött idővel rendelkezik, a szolgálat felső korhatárának elérése előtt 5 évvel, de legfeljebb a szolgálat felső korhatáráig (a továbbiakban: nyugdíj előtti rendelkezési állomány),
@@ -918,6 +918,8 @@ feltéve, hogy a szolgálati beosztás ellátásához miniszteri rendeletben el�
 - a) ha a felek a szerződésben vállalt szolgálati időt a szerződés módosításával meghosszabbítják, továbbá
 - b) különleges jogrend ideje alatt.
 
+(4b) A 2. § 33. pontja szerinti szerződéses állomány azon tagjának, akinek a jogviszonya az (1) bekezdés d) pontja alapján szűnt volna meg, de erre a (4) bekezdés b) pontja alapján nem került sor, annak a szerződéses szolgálati viszonya a különleges jogrend megszűnését követő 15. napon szűnik meg.
+
 (5) A (3) bekezdés, a (3a) bekezdés, valamint a (4) bekezdés b) pontja esetén a vállalt szolgálati idő lejártakor a szerződéses állomány tagjának szolgálati viszonya e törvény erejénél fogva meghosszabbodik. E rendelkezés nem alkalmazható, ha a munkáltatói jogkört gyakorló a szerződéses állomány tagjának kérelmére, különös méltánylást érdemlő egyéni érdekre tekintettel, a szolgálati viszony szerződésben megállapított határozott idő letelte szerinti megszűnését megállapítja.
 
 #### 36. A közös megegyezés
@@ -1043,7 +1045,7 @@ meghosszabbodik. A felmentési idő a 8 hónapot, valamint a szerződéses állo
 
 68. § (1) E törvény erejénél fogva szűnik meg az állomány tagjának szolgálati viszonya
 
-- a) a szolgálat felső korhatárának elérésekor,
+- a) a szolgálat felső korhatárának elérésekor azzal, hogy a katonai bíró a Magyar Honvédséggel fennálló szolgálati viszonya a hivatásos szolgálat felső korhatárának elérése miatt csak akkor szűnik meg, ha a bírói szolgálati viszonya megszűnik,
 - b) a jogszabályban előírt képzési kötelezettség önhibából történő nem teljesítése esetén,
 - c) országgyűlési képviselővé, európai parlamenti képviselővé, főpolgármesterré, főpolgármester-helyettessé, megyei közgyűlés elnökévé, alelnökévé, polgármesterré, alpolgármesterré, társadalmi megbízatású polgármesterré, alpolgármesterré, helyi önkormányzati képviselővé és nemzetiségi önkormányzati képviselővé történt megválasztásakor,
 - d) – az 58/A. §-ban foglaltak kivételével – politikai szolgálati jogviszonyba történő kinevezésével,
@@ -1724,7 +1726,7 @@ valósul-e meg.
 
 (3) A munkáltatói jogkört gyakorló időkeret alkalmazása esetén előzetesen írásban meghatározza és a helyben szokásos módon közli az állomány tagjával a szolgálatteljesítési időkeret kezdő és befejező időpontját, valamint a szolgálatteljesítési időkeretben teljesítendő szolgálatteljesítési időt. A szolgálatteljesítési időkeretben teljesítendő szolgálatteljesítési időt miniszteri rendeletben meghatározottak szerint az időkeret tartama, az állomány tagjára irányadó napi szolgálatteljesítési idő és az általános szolgálati rend alapulvételével kell megállapítani.
 
-(4) A munkáltatói jogkört gyakorló a (3) bekezdés szerinti szolgálatteljesítési időkeret tartamán belül miniszteri rendeletben meghatározottak szerint kijelöli, közli, és szükség esetén módosíthatja a tényleges szolgálatteljesítési időt és a pihenőnapokat. Az állomány tagjával a (3) bekezdés szerinti szolgálatteljesítési időkeret befejező időpontjával el kell számolni, azzal, hogy a munkaszüneti napon, valamint a rá irányadó heti pihenőnapon teljesített szolgálatot kétszeresen kell figyelembe venni.
+(4) A munkáltatói jogkört gyakorló a (3) bekezdés szerinti szolgálatteljesítési időkeret tartamán belül miniszteri rendeletben meghatározottak szerint kijelöli, közli, és szükség esetén módosíthatja a teljesítendő szolgálatteljesítési időt és a pihenőnapokat. A munkáltatói jogkört gyakorló a (3) bekezdés szerinti szolgálatteljesítési időkeret időtartamának lejártakor megállapítja az időkeretben ténylegesen teljesített szolgálatteljesítési idő tartamát azzal, hogy – a 237/A. § (3) bekezdése és a 237/H. § (5) bekezdése kivételével – a munkaszüneti napon, valamint a rá irányadó heti pihenőnapon teljesített szolgálatot kétszeresen kell figyelembe venni. Ha az állomány időkeretben foglalkoztatott tagja az idő elszámolása szerint az időkeret időtartamának lejártáig a részére (3) bekezdés szerint előírt szolgálatteljesítési időt meghaladó szolgálatot teljesített, a szolgálatteljesítési idő elszámolás során megállapított többlet-szolgálatteljesítés időtartama túlszolgálatnak minősül, ezért a munkáltatói jogkört gyakorló a 103. § (5) bekezdése szerint jár el.
 
 98. § (1) Az alapkiképzésben, valamint miniszteri rendeletben meghatározott katonai szakmai felkészítésben érintett személyi állományra irányadó szolgálatteljesítési idő e törvény rendelkezéseitől eltérően is meghatározható azzal, hogy
 
@@ -2326,7 +2328,7 @@ távolléti díjnak megfelelő összeg.
 - f) a miniszter által vezetett minisztérium vagyonkezelésébe nem tartozó lakások bérletéhez és lízingjéhez nyújtható pénzbeli támogatással, és
 - g) a magántulajdonú lakás építéséhez, vásárlásához, valamint a pénzintézeti lakáscélú kölcsön kiváltásához nyújtható visszatérítendő és vissza nem térítendő támogatással,
 
-valósul meg. A legénységi állomány tagja, továbbá az állomány próbaidős tagja kizárólag laktanyai elhelyezésre vagy helyőrségi szálló férőhely juttatására jogosult.
+valósul meg.
 
 (3) A lakhatási támogatások formáját és mértékét, az igényjogosultság feltételeit, a miniszter által vezetett minisztérium által bérbe adott lakások és szállóférőhelyek bérleti díját miniszteri rendelet a szolgálati viszony jellegére, az állománycsoportra, a rendfokozati csoportra, a szolgálati beosztásra, valamint a szociális és családi körülményekre tekintettel differenciáltan határozhatja meg.
 
@@ -3320,6 +3322,8 @@ különbözetének megtérítése iránti igényt.
 
 (2) Nem alkalmazható a 23. § (2) bekezdése, a 25. § (1) bekezdése, a 31. § (3) bekezdése, a 32. § (3)–(5) bekezdése, a 44/A. §, a 45. § (3) bekezdése, a 46–48. §, az 57. §, az 58/A. §, az 59. § (2) bekezdés b), c) és e) pontja, a 61–67. §, a 68. § (1) bekezdés b), h), n) és o) pontja, a 68/A–68/J. §, a 69. §, a 71. és 73–74/A. §, a 76. §, a 81–86. §, a 87. § (2) bekezdése,, a 109–118. §, a 120. §, a 123. § (4) bekezdés a)–c) és e) pontja, a 125–127. §,, a 129. § (2) és (3) bekezdése, a 132. §, a 133–134. §, a 137. és 138. §, a 140. § (2) bekezdés a)–e) és g)–h) pontja, a 140/C. §, továbbá a XVI. Fejezet.
 
+(2a) Nem alkalmazható a 22. § (4) bekezdése és a 68. § (1) bekezdés c) pontja a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 106. § (12) bekezdése, valamint Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 36. § (1a) bekezdése szerinti önkéntes tartalékos katona esetében.
+
 (3) Az önkéntes tartalékos katona önkéntes tartalékos szolgálati viszonyban teljesít katonai szolgálatot, amelyben mindkét felet jogszabályban és a felek által kötött szerződésben meghatározott kötelezettségek terhelik, és jogosultságok illetik meg.
 
 (4) Az önkéntes tartalékos katona tényleges szolgálatteljesítésének minősül a külföldi szolgálatteljesítés, valamint a 216. § (3) és (4) bekezdése szerinti szolgálatteljesítés időtartama.
@@ -3344,7 +3348,7 @@ különbözetének megtérítése iránti igényt.
 
 (2) Az önkéntes tartalékos katona honvéd esküt tesz.
 
-(3) Az önkéntes tartalékos katona a rendelkezésre állás időszakában is köteles bejelenteni a munkáltatói jogkör gyakorlójának az országgyűlési képviselői, az európai parlamenti képviselői, a főpolgármesteri, főpolgármester-helyettesi, megyei közgyűlés elnöki, alelnöki, a polgármesteri, alpolgármesteri, társadalmi megbízatású polgármesteri, alpolgármesteri, a helyi önkormányzati képviselői és a nemzetiségi önkormányzati képviselői választáson jelöltként történt nyilvántartásba vételét, a jelöltségtől való visszalépését, a tisztségbe történt megválasztását, és annak elmaradását. A jelöltként történő nyilvántartásba vételtől tényleges szolgálatteljesítésre nem hívható be, és a tisztségbe történt megválasztásakor az önkéntes tartalékos szolgálati viszonya e törvény erejénél fogva megszűnik.
+(3) Az önkéntes tartalékos katona a rendelkezésre állás időszakában is köteles bejelenteni a munkáltatói jogkör gyakorlójának az országgyűlési képviselői, az európai parlamenti képviselői, a főpolgármesteri, főpolgármester-helyettesi, megyei közgyűlés elnöki, alelnöki, a polgármesteri, alpolgármesteri, társadalmi megbízatású polgármesteri, alpolgármesteri, a helyi önkormányzati képviselői és a nemzetiségi önkormányzati képviselői választáson jelöltként történt nyilvántartásba vételét, a jelöltségtől való visszalépését, a tisztségbe történt megválasztását, és annak elmaradását. A jelöltként történő nyilvántartásba vételtől tényleges szolgálatteljesítésre nem hívható be, és a tisztségbe történt megválasztásakor az önkéntes tartalékos szolgálati viszonya – a 212. § (2a) bekezdése szerinti önkéntes tartalékos katona kivételével – e törvény erejénél fogva megszűnik.
 
 #### 122. A VII. Fejezethez kapcsolódó rendelkezések
 
@@ -3383,6 +3387,19 @@ különbözetének megtérítése iránti igényt.
 (3) Az önkéntes tartalékos katona – a 214. § (1a) bekezdése szerinti önkéntes tartalékos katona kivételével – beosztására történő felkészítésre – katonai előképzettsége szerint differenciáltan – első alkalommal legfeljebb 25 napra, ezt követően a szerződésben foglalt időtartamig évente legfeljebb 15 napra hívható be. Ha az önkéntes tartalékos katona beosztásra történő felkészítése az e bekezdésben foglalt időtartamot meghaladó szervezetszerű tanfolyamon történik, ez az önkéntes tartalékos katona beleegyezésével a tanfolyam elvégzéséhez szükséges időtartammal meghosszabbítható.
 
 (4) A beosztására történő felkészítésen kívül az önkéntes tartalékos katona – a 214. § (1a) bekezdése szerinti önkéntes tartalékos katona kivételével – 3 évente összesen legfeljebb 6 hónap tényleges szolgálatteljesítésre behívható. Ez az időtartam az önkéntes tartalékos katona beleegyezésével meghosszabbítható.
+
+216/A. § (1) A honvédelmi szervezet a 212. § (2a) bekezdése szerinti önkéntes tartalékos katona kiképzésre vagy tényleges szolgálatteljesítésre történő behívásának időpontját és várható időtartamát – figyelemmel a közjogi tisztségéből adódó feladatainak ellátására – a behívás kezdeményezését megelőzően legalább 30 nappal korábban, a vele történt előzetes egyeztetés eredménye szerint határozza meg, és erről tájékoztatja a 212. § (2a) bekezdése szerinti önkéntes tartalékos katona munkáltatóját.
+
+(2) Az (1) bekezdés szerinti önkéntes tartalékos katona a behívásról a 216. § (1) bekezdése szerinti behívóparancs kézhezvételétől számított 5 napon belül tájékoztatja a képviselő-testületet, közgyűlést.
+
+(3) Az (1) bekezdés szerinti önkéntes tartalékos katona a kiképzésre és a tényleges szolgálatteljesítés idejére párttagságának felfüggesztésére nem köteles, de a párttagságából fakadó jogait és kötelezettségeit nem gyakorolhatja.
+
+(4) Az (1) bekezdés szerinti önkéntes tartalékos katonára a 214. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a jelöltként történt nyilvántartásba vételtől a jelöltségtől való visszalépésig, a tisztségbe történt megválasztásig, vagy annak elmaradásáig az (1) bekezdés szerinti önkéntes tartalékos katona önkéntes tartalékos szolgálati viszonya szünetel. A szünetelés időtartama alatt az (1) bekezdés szerinti önkéntes tartalékos katona illetményre és egyéb pénzbeli, valamint természetbeni ellátásra nem jogosult, az önkéntes tartalékos szolgálati viszonyból származó jogait nem gyakorolhatja, az azzal kapcsolatos kötelezettségek őt nem terhelik. Az (1) bekezdés szerinti önkéntes tartalékos katona önkéntes tartalékos szolgálati viszonya megszűnik, ha a szünetelés időtartama alatt a szerződésében vállalt szolgálati ideje letelik.
+
+(5) Az (1) bekezdés szerinti önkéntes tartalékos katona
+
+- a) ha az Alaptörvény XXXI. cikk (3) bekezdése szerinti Országgyűlés általi döntés meghozatalakor tényleges szolgálatot teljesít, a tényleges szolgálatból azonnal el kell bocsátani,
+- b) az Alaptörvény XXXI. cikk (3) bekezdése szerinti döntés Országgyűlés általi meghozatalát követően tényleges szolgálatra nem hívható be.
 
 217. § (1) Az önkéntes tartalékos katona meghatározott honvédelmi szervezetben, vagy ennek állományából létrehozott ideiglenes kötelékben, a KNBSZ-nél, valamint egyéni beosztásban teljesíthet szolgálatot.
 
@@ -3626,7 +3643,9 @@ jogosult.
 
 ### XXI/B. Fejezet — A HVT. 36. § (1) BEKEZDÉS K) PONTJA SZERINTI FELADATBAN RÉSZT VEVŐ ÁLLOMÁNYRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
-237/B. § Ha a Honvédség a Kormány döntése alapján a Hvt. 36. § (1) bekezdés k) pontja szerinti feladatban részt vesz, a Kormány rendeletében az e Fejezetben foglalt különös szabályok alkalmazását rendelheti el az 1. § (1) bekezdése szerinti állomány tagja és – a 212–222. §-ban foglaltakra figyelemmel – a tényleges szolgálatot teljesítő önkéntes tartalékos katona vonatkozásában.
+237/B. § (1) Ha a Honvédség a Kormány döntése alapján a Hvt. 36. § (1) bekezdés k) pontja szerinti feladatban részt vesz, a Kormány rendeletében az e fejezetben foglalt különös szabályok alkalmazását rendelheti el az 1. § (1) bekezdése szerinti állomány tagja és – a 212–222. §-ban foglaltakra figyelemmel – a tényleges szolgálatot teljesítő önkéntes tartalékos katona, valamint a honvéd tisztjelölt vonatkozásában.
+
+(2) Az állomány tagjának és a tényleges szolgálatot teljesítő önkéntes tartalékos katonának a Hvt. 36. § (1) bekezdés k) pontja szerinti feladatban történő részvételére a 49. § szerinti vezényléssel kerül sor. A honvéd tisztjelölt a 230. § (5) bekezdéstől eltérően a Hvt. 36. § (1) bekezdés k) pontja szerinti feladat ellátására is vezényelhető.
 
 237/C. § (1) A más szervnél történő szolgálatteljesítésére vonatkozó megállapodásban az 52/A. § (2) bekezdésében foglaltakon túl, az 52. § (1) bekezdésében szereplő bármely kérdésben el lehet térni, ide nem értve a más szerv vezetőjének az állomány más szervhez vezényelt tagja tekintetében a szolgálatteljesítésre vonatkozó rendelkezési jogát.
 
@@ -3644,15 +3663,145 @@ jogosult.
 
 (3) A 101. § (1) bekezdése szerinti napi pihenőidőbe a lakásról a szolgálatteljesítési helyre és az onnan való visszautazás időtartama is beszámítható. A pihenőidő időtartama ebben az esetben sem lehet – a lakásról a szolgálatteljesítési helyre és az onnan való visszautazás időtartamát levonva – kevesebb hat óra időtartamnál.
 
-(4) Az állomány tagja számára a 105. § (3) bekezdés a) és c) pontja szerint elrendelt laktanyán kívüli készenléti szolgálat után fokozott igénybevételi illetménypótlék nem jár, valamint a 105. § (3) bekezdés b) és c) pontja szerint elrendelt laktanyai készenléti szolgálat után a fokozott igénybevételi illetménypótlék óránkénti mértéke a honvédelmi illetményalap 0,26%-a.
+(4)
 
-(5) A tényleges szolgálatot teljesítő önkéntes tartalékos katona részére a 105. § (3) bekezdés b) pontja szerint elrendelt laktanyai készenléti szolgálat után fokozott igénybevételi pótlék jár, melynek óránkénti mértéke a honvédelmi illetményalap 0,26%-a.
+(5)
 
 (6) A munkáltatói jogkört gyakorló az általa meghatározott szabadság kezdő napját a 112. § (1) bekezdésétől eltérően a szabadság kezdete előtt 15 napon belül is közölheti.
 
 (7) Az elrendelt őr-, ügyeleti és készenléti szolgálat esetében a 106. § (1) bekezdésétől eltérően nem kell figyelembe venni a szolgálat miniszteri rendeletben meghatározott besorolását.
 
 237/G. § A Kit. 3. § (7) bekezdés b) pontja szerinti szakmai felsővezető – ha az 58/A. §-a alapján szünetel a jogviszonya – az 58/C. §-ban meghatározottakon túlmenően a feladatai ellátása során jogosult egyenruhát viselni, a miniszter előzetes egyetértése esetén.
+
+237/H. § (1) A Hvt. 36. § (1) bekezdés k) pontja szerinti veszélyhelyzettel kapcsolatos feladatra vezényelt
+
+- a) állomány tagja,
+- b) tényleges szolgálatot teljesítő önkéntes tartalékos katona, valamint
+- c) honvéd tisztjelölt
+
+[e fejezet alkalmazásában az a)–c) pont a továbbiakban együtt: vezényelt állomány] naptári naponként, miniszteri rendeletben meghatározott összegű fokozott igénybevételi illetménypótlékra jogosult.
+
+(2) A vezényelt állomány a 107. § (1) bekezdésétől eltérően nem jogosult az őr-, az ügyeleti és a készenléti szolgálat és a 105. § (4) bekezdése szerinti rendelkezésre állás teljesítésének ellentételezéseként a 128. § (3) bekezdése szerinti illetménypótlékra.
+
+(3) A vezényelt állományra nem alkalmazható a 101. § (3) bekezdése, 104. §-a, 247/H. §-a és 247/I. § (5) bekezdése.
+
+(4) A vezényelt állomány pihentetéséről az állományilletékes parancsnok a vezénylés megszűnését követően közvetlenül, szolgálatmentesség biztosításával gondoskodik.
+
+(5) Aki az (1) bekezdés szerinti fokozott igénybevételi illetménypótlékban részesült, arra a 97. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munkaszüneti napon, valamint a rá irányadó heti pihenőnapon történő szolgálatteljesítését nem kell kétszeresen figyelembe venni.
+
+237/I. § Ha az állomány tagja a Hvt. 36. § (1) bekezdés k) pontja szerinti szolgálati feladat végrehajtásában való részvétele miatt nem vett részt a fizikai állapotfelmérésen, illetve nem teljesítette az éves kiképzési feladatokat, vagy a fizikai állapotfelmérés, illetve az éves kiképzési feladat a Hvt. 36. § (1) bekezdés k) pontja szerinti szolgálati feladat végrehajtása miatt nem került megszervezésre, akkor az éves teljesítményértékelés során az értékelt időszakot megelőző évben eredményesen teljesített fizikai állapotfelmérés, illetve az éves kiképzési feladatok eredményét kell figyelembe venni.
+
+### XXI/C. Fejezet — AZ EGÉSZSÉGÜGYI MUNKAKÖRŰ KATONÁK JOGÁLLÁSÁRA VONATKOZÓ KÜLÖN SZABÁLYOK
+
+237/J. § (1) E fejezet alkalmazásában
+
+- a) egészségügyi munkakörű katona: a honvédelmi egészségügyi szolgáltatónál vagy a KNBSZ-nél szolgálatot teljesítő, az 1. § (1) bekezdése hatálya alá tartozó, az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 4. § a) pontja szerinti egészségügyi dolgozó és az Eütev. 4. § c) pontja szerinti rezidens,
+- b) egészségügyi tevékenység: az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § y) pontjában meghatározott tevékenység,
+- c) magasabb vezető:
+  - ca) a honvédelmi egészségügyi szolgáltató vezetője, a honvédelmi egészségügyi szolgáltató alapító okiratában meghatározott, közfinanszírozott területi ellátási kötelezettséggel rendelkező szervezeti egység (a továbbiakban: honvédelmi egészségügyi szolgáltató szervezeti egység) vezetője, valamint
+  - cb) a honvédelmi egészségügyi szolgáltató vezetőjének a helyettese és gazdasági helyettese, a honvédelmi egészségügyi szolgáltató gazdasági igazgatója, a honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjének a Hvt. 46/A. § (2) bekezdése szerinti helyettese (a továbbiakban: a felügyeleti helyettes), a honvédelmi egészségügyi szolgáltató szervezeti egység orvosigazgatója (szakmai főigazgató-helyettese), ápolási igazgatója,
+- d) vezető: a c) pontban foglaltakat ide nem értve a honvédelmi egészségügyi szolgáltató szervezeti elemének vezetője és annak helyettese, valamint a főgyógyszerész.
+
+(2) Az egészségügyi munkakörű katona tekintetében e törvényt az e fejezetben foglalt eltérésekkel, megfelelően kell alkalmazni.
+
+(3) Az (1) bekezdés c) és d) pontját, a (7)–(8) bekezdést, a 237/L. § (3), (4) és (6) bekezdését az állomány honvédelmi egészségügyi szolgáltatónál foglalkoztatott, az Eütev. 4. § b) pontja szerinti egészségügyben dolgozó tagjára is alkalmazni kell.
+
+(4) A honvédelmi egészségügyi szolgáltatóra és az egészségügyi munkakörű katonára az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) nem alkalmazható, kivéve, ha e fejezet másként nem rendelkezik.
+
+(5) A miniszter ellátási érdekből engedélyezheti a honvédelmi egészségügyi szolgáltató számára az Eütv. 247. § (1) bekezdés b) pontja szerinti, az egészségügyi szolgáltatás – ideértve a telemedicina keretében nyújtott egészségügyi szolgáltatást is – megkezdésére és gyakorlására vonatkozó általános szabályokat, valamint a működési engedélyezési eljárásra, a bejelentés alapján történő egészségügyi szolgáltatás – ideértve a telemedicina keretében nyújtott egészségügyi szolgáltatást is – érdekében a hatósági nyilvántartásba vételre, továbbá a hatósági nyilvántartás személyes adatokat nem tartalmazó adattartalmára vonatkozó szabályokat tartalmazó jogszabályban meghatározott közreműködő személy vagy szervezet igénybevételét.
+
+(6) A 38. § (1a) bekezdés b) pontjában, 46. § (1) bekezdés r) és s) pontjában, 47. § (1a) bekezdésében, 59. § (2) bekezdés c) pontjában, 92. § (2a) bekezdésében, 197. § (3) bekezdésében és 215. § (1) bekezdés e) pontjában az ott felsorolt jogviszonyokon túl az egészségügyi szolgálati jogviszonyt is érteni kell.
+
+(7) A 4. § (1) bekezdésétől eltérően az állományilletékes parancsnoki jogkör gyakorlására jogosultakat, jogköreiket és a jogkör-gyakorlás rendjét a honvédelmi egészségügyi szolgáltató szervezeti és működési szabályzata is meghatározhatja.
+
+(8) A 215. § (1) bekezdés e) pontja nem alkalmazható a honvédelmi egészségügyi szolgáltatónál létesítendő honvédelmi alkalmazotti jogviszonyra.
+
+237/K. § (1) A 81. § (1), (2), (4) bekezdésétől és (5) bekezdés a) pontjától eltérően az egészségügyi munkakörű katona kizárólag a miniszter előzetes engedélyével létesíthet vagy tarthat fenn
+
+- a) más kereső tevékenységnek minősülő jogviszonyt és egyéb, díjazás ellenében folytatott tevékenységet,
+- b) szellemi tevékenység, valamint közérdekű önkéntes tevékenység végzésére irányuló jogviszonyt, ha a munkavégzés időtartama részben azonos az egészségügyi munkakörű katona szolgálatteljesítési idejével.
+
+(2) Az (1) bekezdés szerinti engedélyre vonatkozó kérelmet a honvédelmi egészségügyi szolgáltató vezetője útján, annak véleményével ellátva kell felterjeszteni döntéshozatal céljából a miniszter részére. A miniszter a döntéséről egyidejűleg tájékoztatja az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjét.
+
+(3) Az egészségügyi munkakörű katona az őt foglalkoztató honvédelmi egészségügyi szolgáltató székhelyén vagy telephelyén nem végezhet olyan egészségügyi tevékenységet, amire szolgálati viszonya nem terjed ki.
+
+(4) Az egészségügyi munkakörű katona a szolgálati viszony keretében – az Eütv. 3. § i) pontja szerinti sürgős szükség esetét és jogszabályban meghatározott eseteket kivéve – nem nyújthat egészségügyi szolgáltatást ugyanazon személy számára, akinek más – e törvény hatálya alá nem tartozó – jogviszonyban már ugyanazon betegség tekintetében egészségügyi szolgáltatást nyújtott.
+
+(5) A magasabb vezető és a vezető beosztást betöltő, továbbá a pénzügyi kötelezettségvállalásra jogosult egészségügyi munkakörű katona beosztásával összeférhetetlen a munkáltatóéval azonos vagy ahhoz hasonló tevékenységet is végző, illetve a munkáltatóval rendszeres gazdasági kapcsolatban álló gazdasági társaságban betöltött vezető tisztségviselői, felügyelőbizottsági tagság.
+
+(6) Az (5) bekezdés szerinti összeférhetetlenség alól a munkáltatói jogkört gyakorló felmentést adhat.
+
+(7) A honvédelmi egészségügyi szolgáltató vezetője, a honvédelmi egészségügyi szolgáltató szervezeti egység vezetője és a felügyeleti helyettes az Eütev. 1. §-a szerinti gyógyító-megelőző tevékenységet kizárólag a védelem-egészségügy körében, továbbá a működési nyilvántartás megújítása céljából, a továbbképzése alapján szükséges gyakorlati pontok megszerzése érdekében és az ahhoz szükséges mértékben végezhet.
+
+(8) Ha az Eszjtv. és felhatalmazása alapján kiadott jogszabály az Eszjtv. 4. §-a szerinti összeférhetetlenségi rendelkezéseit feloldó vagy enyhítő szabályt állapít meg, úgy azt az egészségügyi munkakörű katonára is alkalmazni kell.
+
+237/L. § (1) Nem alkalmazható a 122. § (1)–(1b), (6) bekezdése, a 123–125. §, a 127. és 128. §
+
+- a) az orvos, szakorvos, fogorvos, szakfogorvos, gyógyszerész, szakgyógyszerész,
+- b) a miniszteri rendeletben meghatározott munkakörben foglalkoztatott egyéb, nem egészségügyi egyetemi végzettséggel, valamint nem egészségügyi egyetemi végzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkező egészségügyi munkakörű katona, továbbá
+- c) az Eütv. szerinti egészségügyi felsőfokú szakirányú szakmai képzést lezáró szakképesítés megszerzését megelőzően – az ilyen szakképesítés megszerzése feltételeként előírt felsőfokú szakképesítéssel rendelkező és ezen szakképesítéshez kötött munkakörben foglalkoztatott – egészségügyi munkakörű katona
+
+illetménye megállapítása során.
+
+(2) Az (1) bekezdés szerinti egészségügyi munkakörű katona az Eszjtv. 1. mellékletében foglalt illetménytábla szerinti fizetési fokozatához tartozó illetmény 106%-ára jogosult.
+
+(3) A (2) bekezdéstől eltérően, a magasabb vezető illetményének összegét egyedileg a miniszter – az egészségügyi szolgáltatás irányításáért felelős szerv vezetője egyetértésével, az ő irányítása alá tartozó egészségügyi szolgáltatók magasabb vezetőinek juttatásai megállapítására vonatkozó alapelvekkel összhangban – állapítja meg azzal, hogy az egészségügyi munkakörű katonának minősülő
+
+- a) 237/J. § (1) bekezdés c) pont ca) alpontja szerinti magasabb vezető legalább az Eszjtv. 1. mellékletében foglalt illetménytábla legmagasabb fizetési fokozatához meghatározott összeg 106%-ára,
+- b) 237/J. § (1) bekezdés c) pont cb) alpontja szerinti magasabb vezető pedig legalább az Eszjtv. 1. mellékletében foglalt illetménytábla szerinti fizetési fokozatához tartozó illetmény 106%-ára
+
+jogosult.
+
+(4) A miniszter – az Eszjtv. hatálya alá tartozó vezetőkre vonatkozó feltételekre és mértékre tekintettel – megállapíthatja a 237/J. § (1) bekezdés d) pontjában meghatározott vezetőnek minősülő tagja illetményén felül járó vezetői juttatása feltételeit és mértékét.
+
+(5) A (2) és (4) bekezdés szerinti fizetési fokozathoz tartozó illetmény, valamint a (17) bekezdés szerinti egészségügyi munkakörű katona illetménye legfeljebb 20%-os növeléséről a munkáltatói jogkör gyakorlója a miniszteri rendeletben meghatározott teljesítményértékelés alapján dönthet, ha az értékelés kiemelkedő vagy jó szintű.
+
+(6) Nem jogosult az (5) bekezdés szerinti teljesítményértékelésen alapuló illetménynövelésre a 237/J. § (1) bekezdés c) pontjában meghatározott magasabb vezető.
+
+(7) Az (1) bekezdés szerinti egészségügyi munkakörű katona szolgálati viszonyban töltött ideje és a fizetési fokozatának megállapítása során
+
+- a) a 92. § (2a) bekezdése szerinti pótszabadság mértéke szempontjából irányadó szolgálati időt,
+- b) az egészségügyi tevékenység végzésére irányuló szabadfoglalkozás keretében, egyéni egészségügyi vállalkozóként, egyéni cég tagjaként, társas vállalkozás tagjaként, egyházi személyként vagy vallási egyesület vallásos szertartást hivatásszerűen végző tagjaként töltött időt, és
+- c) ha ezen időtartam korábban nem került beszámításra, akkor a PhD-fokozat megszerzése esetén a doktori képzésben töltött időt
+
+kell figyelembe venni. Ha a szolgálati viszonyban töltött idő számításánál az azonos naptári időszakra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.
+
+(8) Az (1) bekezdés szerinti egészségügyi munkakörű katona a szolgálati viszonyban töltött idő alapján az Eszjtv. 1. melléklete szerinti – az adott fizetési fokozathoz tartozó – időtartam (a továbbiakban: várakozási idő) szerint lép eggyel magasabb fizetési fokozatba. Az (1) bekezdés szerinti egészségügyi munkakörű katona eggyel magasabb fizetési fokozatba lép a várakozási idő elteltét követő hónap első napjától. A magasabb fizetési fokozat elérésével a várakozási idő újrakezdődik.
+
+(9) Az Eütv. szerinti egészségügyi felsőfokú szakirányú szakmai képzést lezáró szakvizsga megszerzését megelőzően az – ilyen szakvizsga megszerzése feltételeként előírt felsőfokú szakképesítéssel rendelkező és ezen szakképesítéshez kötött munkakörben foglalkoztatott – egészségügyi munkakörű katona illetménye az Eszjtv. 1. melléklete szerinti 4. fizetési fokozatot akkor sem érheti el, ha a számára előírt várakozási idő eltelt.
+
+(10) Ahol e törvény vagy miniszteri rendelet az (1) bekezdés szerinti egészségügyi munkakörű katona
+
+- a) alapilletményét említi, ott az Eszjtv. 1. melléklete szerinti fizetési fokozathoz tartozó, (2) bekezdés szerinti – az (5) bekezdés szerinti esetben a megnövelt – illetményt vagy a (3) bekezdés szerinti illetményt,
+- b) illetményét vagy távolléti díját említi, ott az Eszjtv. 1. melléklete szerinti fizetési fokozathoz tartozó, a (2) bekezdés szerinti – az (5) bekezdés szerinti esetben a megnövelt – illetmény vagy a (3) bekezdés szerinti illetmény és a (4) bekezdés szerinti illetményén felül járó vezetői juttatás együttes összegét
+
+kell érteni.
+
+(11) A miniszter közjogi szervezetszabályozó eszközben – az Eszjtv. hatálya alá tartozó foglalkoztatottakra vonatkozó feltételekre és mértékre tekintettel – megállapítja az (1) bekezdés szerinti egészségügyi munkakörű katona részére különösen a
+
+- a) kötelezően elrendelt ügyelet,
+- b) készenlét,
+- c) rendes munkarend szerinti feladatok ellátása, ügyeleti feladatellátás, készenléti feladatellátás keretében történő önként vállalt többletmunkavégzés
+
+esetén járó további díjakat, azok feltételeit és mértékét.
+
+(12) Az Eszjtv. hatálya alá tartozó foglalkoztatottakra vonatkozó feltételekre és mértékre tekintettel a miniszter az (1) bekezdés szerinti egészségügyi katona részére elrendelt átmeneti többletfeladatok – ide nem értve a helyettesítést – teljesítéséért alkalmanként kiegészítő illetményt állapíthat meg közjogi szervezetszabályozó eszközben.
+
+(13) Az (1) bekezdés szerinti egészségügyi munkakörű katona az önként vállalt többletmunkáért – ideértve az önként vállalt ügyeletet és készenlétet is – díjazásra jogosult, melynek mértékét a munkáltatói jogkört gyakorló és az (1) bekezdés szerinti egészségügyi munkakörű katona – a (11) bekezdés szerinti keretek között – külön megállapodásban állapít meg. Az (1) bekezdés alá tartozó egészségügyi munkakörű katona önként vállalt többletmunkájának díjazására az Eütev. nem alkalmazható.
+
+(14) Ha az egészségügyi munkakörű katona szolgálati beosztása ellátása helyett vagy mellett a honvédelmi egészségügyi szolgáltató vezetője rendelkezése alapján átmenetileg más egészségügyi munkakörű katona szolgálati beosztásába vagy egészségügyi honvédelmi alkalmazott munkakörébe tartozó feladatokat lát el 30 napon túl, és ezáltal jelentős többletmunkát végez, a többletmunka ellentételezésére illetményén felül részére
+
+- a) az (1) bekezdés szerinti egészségügyi munkakörű katona helyettesítése esetén a helyettesített (10) bekezdés a) pontja szerinti alapilletményének legfeljebb 50%-a,
+- b) az (1) bekezdés hatálya alá nem tartozó egészségügyi munkakörű katonának minősülő egészségügyi munkakörű katona helyettesítése esetén a helyettesített 123. § szerinti alapilletményének legfeljebb 50%-a,
+- c) az egészségügyi honvédelmi alkalmazott helyettesítése esetén a helyettesített honvédelmi alkalmazott a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 89/D. § (2) bekezdése szerinti illetményének legfeljebb 50%-a
+
+állapítható meg. E bekezdés szerinti esetekre nem alkalmazható az 55. §.
+
+(15) Ha az (1) bekezdés szerinti egészségügyi munkakörű katona a Hvt. 36. § (1) bekezdés h) és k), vagy (2) bekezdés a) pontja szerinti feladatra vezénylésre kerül, gyakorlaton vesz részt, vagy miniszteri rendeletben meghatározott, 105. § szerinti katonai szolgálattal összefüggő tevékenységet lát el, az (1) bekezdéstől eltérően e törvény és miniszteri rendelet szerinti fokozott igénybevételi pótlékra jogosult.
+
+(16) Ha az (1) bekezdés szerinti egészségügyi munkakörű katona szolgálati viszonyának általa kezdeményezett megszüntetését követően 12 hónapon belül egészségügyi szolgálati jogviszonyt létesít, akkor az egészségügyi szolgálati jogviszonyban megállapított illetménye egy évig nem haladhatja meg a korábbi jogviszony megszűnésekor érvényes illetményét.
+
+(17) Az (1) bekezdés hatálya alá nem tartozó egészségügyi munkakörű katona az egészségügyi ágazati előmeneteli szabályok szerinti – törvényben, a Kormány rendeletében és a miniszter rendeletében meghatározott – illetményre, valamint illetménypótlékra jogosult. A miniszter – az Eszjtv. hatálya alá tartozó foglalkoztatottakra vonatkozó feltételekre és mértékre tekintettel – az (1) bekezdés hatálya alá nem tartozó egészségügyi munkakörű katona részére további illetményen felüli díjazást, egyéb juttatást, támogatást állapíthat meg.
 
 ### XXII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -3713,6 +3862,8 @@ jogosult.
 - 40. a hivatásos és szerződéses állomány tagja nyelvvizsga díjának megtérítésére vonatkozó szabályokat,
 - 41. a speciális végzettsége, képzettsége, valamint az általa ellátandó feladat fontossága vagy speciális jellege miatt a honvédelmi szervezet kiemelt érdekében alkalmazandó önkéntes tartalékos katona alapkiképzésére, tényleges szolgálatteljesítésére, behívására, szolgálatteljesítési idő beosztására, túlszolgálat elrendelésére, valamint az illetményére vonatkozó eltérő szabályokat,
 - 42. azon beosztások körét, amelyekben az állomány tagjának illetménye szolgálati érdekből, az érintett személy speciális végzettségére, képzettségére, az általa ellátandó feladat kiemelt fontosságára vagy speciális jellegére tekintettel eltérően is meghatározható.
+- 43. a 237/L. § (1) bekezdés b) pontja szerinti munkaköröket,
+- 44. a SARS-CoV2 járványhelyzethez kapcsolódóan, méltányosságból meghosszabbított egészségügyi szabadság megállapításának eljárásrendjét.
 
 (3) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszter egyetértésével rendeletben állapítsa meg
 
@@ -3958,6 +4109,14 @@ végkielégítésre jogosult azzal, hogy az a) és a b) pontok alapján megálla
 - b) nem rendelkezik az előmenetel egyéb feltételével, csak a feltétel megszerzésekor léptethető elő.
 
 (2) E törvénynek a Módtv6.-tal módosított 86. § (2) bekezdését a Módtv6. hatálybalépésekor a 46. § (1) bekezdés j) pontja szerinti rendelkezési állományban lévőkre is alkalmazni kell.
+
+247/Y. § (1) A Hvt. 36. § (1) bekezdés k) pontja szerinti feladatra vezényelt állomány tagjának és a tényleges szolgálatot teljesítő önkéntes tartalékos katonának a veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendelet szerinti veszélyhelyzet kihirdetésétől a honvédek jogállásáról szóló 2012. évi CCV. törvény hatálya alá tartozókra vonatkozó rendkívüli intézkedésekről szóló 548/2020. (XII. 2.) Korm. rendelet hatálybalépését megelőző napig teljesített túlszolgálata tekintetében – a 247/H. § (2) és (3) bekezdésétől eltérően – a túlszolgálatért annak időtartamával azonos mértékű szabadidő jár, amelyet legkésőbb a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 60 napon belül kell kiadni.
+
+(2) Az (1) bekezdés szerinti szabadidő kétszeresére jogosult az az (1) bekezdés szerint túlszolgálatot teljesítő, aki a heti pihenőnapon vagy munkaszüneti napon teljesített túlszolgálatot.
+
+247/Z. § (1) Ha a hivatásos vagy szerződéses állományú katona szolgálatképtelensége igazolhatóan az egészségügyi ellátás SARS-CoV2 járványhelyzethez kapcsolódó felfüggesztése okán egy éven túl is fennáll, a 119. § (2) bekezdésétől eltérően az egészségügyi szabadság méltányosságból a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő legfeljebb hatodik hónap végéig meghosszabbítható.
+
+(2) Az egészségügyi szabadság (1) bekezdés szerinti időtartamára az egészségügyi szabadság 365. napján folyósítható ellátást kell folyósítani.
 
 #### 142. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

@@ -304,6 +304,27 @@ kezeli tovább.
 
 (3) Az (1) és a (2) bekezdés szerinti személyek adatai a hivatásos vagy szerződéses szolgálati viszony létesítése esetén a személyügyi nyilvántartásban tovább kezelhetők.
 
+12/A. § (1) A honvédelmi egészségügyi szolgáltató vezetője a Hjt. 237/J. § (1) bekezdés a) pontja szerinti egészségügyi munkakörű katonáról és a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 89/A. § (1) bekezdés a) pontja szerinti egészségügyi honvédelmi alkalmazottról (a továbbiakban együtt: az egészségügyi állomány tagja) a 23. mellékletben meghatározott adatkörre kiterjedő nyilvántartást (a továbbiakban: alapnyilvántartás) vezet. A 23. mellékletben nem szereplő körben – törvény eltérő rendelkezésének hiányában – adatkezelés nem végezhető, ilyen adatot nyilvántartani nem lehet.
+
+(2) Az Infotv. 26. § (2) bekezdésében foglalt adatokon túl közérdekből nyilvános adat az egészségügyi állomány tagja munkáltatójának megnevezése és besorolására vonatkozó adata is.
+
+(3) A honvédelmi egészségügyi szolgáltató alapnyilvántartási rendszere törvény felhatalmazásának hiányában más adatrendszerrel nem kapcsolható össze.
+
+(4) Az alapnyilvántartásból statisztikai célra csak személyazonosításra alkalmatlan módon szolgáltatható adat.
+
+(5) A honvédelmi egészségügyi szolgáltatónál vezetett alapnyilvántartásba – az érintetten kívül – a következők jogosultak betekinteni, illetve abból adatot átvenni a rájuk vonatkozó jogszabályban meghatározott feladataik ellátása céljából:
+
+- a) az egészségügyi állomány tagjának elöljárója vagy hivatali felettese,
+- b) a teljesítményértékelést, minősítést végző vezető,
+- c) feladatkörének keretei között a törvényességi ellenőrzést végző vagy törvényességi felügyeletet gyakorló szerv,
+- d) munkaügyi, polgári jogi, közigazgatási per kapcsán a bíróság,
+- e) az egészségügyi állomány tagja ellen indult büntetőeljárásban a bíróság, az ügyészség és a nyomozó hatóság,
+- f) a személyzeti, munkaügyi és illetményszámfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül,
+- g) az adóhatóság, a nyugdíjbiztosítási igazgatási szerv és az egészségbiztosítási szerv, az üzemi baleseteket kivizsgáló szerv és a munkavédelmi szerv,
+- h) az államháztartási belső ellenőrzési tevékenységet végző személy.
+
+(6) Az alapnyilvántartásban rögzített adat a jogviszony megszűnését követő 10. év végéig kezelhető.
+
 13. § (1) A kiképzett tartalékosnak nem minősülő személyek esetén a Honvédség központi irattározási feladatát ellátó honvédelmi szervezete a személyi anyagokat a szolgálati viszonnyal kapcsolatos jogok gyakorlása és kötelezettségek teljesítése, a katonai szolgálat teljesítésével kapcsolatos hatósági bizonyítványok kiállítása, valamint a tudományos kutatás elősegítése céljából a szolgálati viszony megszűnésétől vagy megszüntetésétől számított ötven évig köteles megőrizni. A megőrzési határidő lejárta előtt a Honvédség központi irattározási feladatát ellátó honvédelmi szervezetének vezetője a katonai szolgálat teljesítésével kapcsolatos hatósági bizonyítványok kiállítása, valamint a tudományos kutatás elősegítése céljára figyelemmel javaslatot tehet a személyi anyagok további őrzésére.
 
 (2) Az (1) bekezdéstől eltérően a megőrzési határidő lejártát követően a levéltári törvényben foglalt feladatok végrehajtása céljából – végleges megőrzésre – a Hadtörténelmi Levéltárnak át kell adni azok iratait, akik
@@ -3377,3 +3398,38 @@ d) anyja neve,
 e) jogviszony megnevezése, katona esetében a rendfokozat,
 
 f) a nyugállomány tagja és a szolgálati járandóságra jogosult esetében egyenruha-viseléssel összefüggő rendelkezés.
+
+### 23. melléklet a 2013. évi XCVII. törvényhez
+
+#### Az alapnyilvántartás adatköre
+
+- 1. Az egészségügyi katona és az egészségügyi honvédelmi alkalmazott
+- 1.1. neve (születési neve),
+- 1.2. születési helye, ideje,
+- 1.3. anyja neve (születési neve),
+- 1.4. állampolgársága,
+- 1.5. Társadalombiztosítási Azonosító Jele, adóazonosító jele,
+- 1.6. lakóhelye, tartózkodási helye, telefonszáma,
+- 1.7. családi állapota,
+- 1.8. gyermekeinek születési ideje,
+- 1.9. egyéb eltartottjainak száma, az eltartás kezdete,
+- 1.10. legmagasabb iskolai végzettsége (több végzettség esetén valamennyi),
+- 1.11. szakképzettsége,
+- 1.12. iskolarendszeren kívüli oktatás keretében szerzett szakképesítése, valamint meghatározott munkakör betöltésére jogosító okiratok adatai,
+- 1.13. tudományos fokozata,
+- 1.14. idegennyelv-ismerete,
+- 1.15. a korábbi jogviszonyaiban töltött időtartamok megnevezése,
+- 1.16. a korábbi munkahelyei megnevezése,
+- 1.17. a korábbi jogviszonya megszűnése módja, időpontja,
+- 1.18. a Hjt. szerinti szolgálati viszonya vagy a honvédelmi alkalmazotti jogviszonya kezdete,
+- 1.19. a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítványa száma, kelte,
+- 1.20. a jubileumi jutalom és a végkielégítés mértéke kiszámításának alapjául szolgáló időtartamok,
+- 1.21. a Hjt. szerinti szolgálati viszonyban vagy a honvédelmi alkalmazotti jogviszonyban álló személyt foglalkoztató szerv neve, székhelye, statisztikai számjele, e szervnél a jogviszony kezdete,
+- 1.22. jelenlegi besorolása, besorolásának időpontja, vezetői beosztása, FEOR-száma, ha a Hjt. szerinti szolgálati viszonyban vagy a honvédelmi alkalmazotti jogviszonyban álló személy,
+- 1.23. címadományozása, jutalmazása, kitüntetése adatai,
+- 1.24. a teljesítményértékelése vagy minősítése időpontja és tartalma,
+- 1.25. személyi juttatásai,
+- 1.26. munkából való távollétének jogcíme és időtartama, ha a Hjt. szerinti szolgálati viszonyban vagy a honvédelmi alkalmazotti jogviszonyban álló személy,
+- 1.27. honvédelmi egészségügyi szolgáltatónál történő foglalkoztatása megszűnésének időpontja, módja, ha a Hjt. szerinti szolgálati viszonyban vagy a honvédelmi alkalmazotti jogviszonyban álló személy,
+- 1.28. honvédelmi egészségügyi szolgáltatónál történő foglalkoztatása megszűnésével együtt jár a szolgálati viszonyának, honvédelmi alkalmazotti jogviszonyának a megszűnése, úgy ennek időpontja, módja, a végkielégítés adatai, ha a Hjt. szerinti szolgálati viszonyban vagy a honvédelmi alkalmazotti jogviszonyban álló személy,
+- 1.29. munkavégzésére irányuló egyéb jogviszonyával összefüggő adatai, ha a Hjt. szerinti szolgálati viszonyban vagy a honvédelmi alkalmazotti jogviszonyban álló személy.

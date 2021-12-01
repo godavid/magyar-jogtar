@@ -952,6 +952,8 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 (11) Az országos nemzetiségi önkormányzat főállású elnöke, elnökhelyettese tudományos, oktatói, lektori, szerkesztői, művészeti, jogi oltalom alá eső szellemi tevékenység és a nevelőszülői foglalkoztatási jogviszony kivételével egyéb, munkavégzésre irányuló jogviszonyt nem létesíthet, más kereső foglalkozást nem folytathat, és e tevékenységet nem végezheti gazdasági társaság személyesen közreműködő tagjaként, egyéb tevékenységéért díjazást nem fogadhat el.
 
+(12) Az (1)–(11) bekezdéstől eltérően nem minősül összeférhetetlenségi oknak az önkéntes tartalékos szolgálati viszony létesítése, fenntartása, e szolgálati viszony alapján díjazás elfogadása.
+
 ### A méltatlanság
 
 107. § (1) Méltatlanság miatt a nemzetiségi önkormányzat képviselő-testülete, közgyűlése megszünteti annak az önkormányzati képviselőnek a megbízatását,

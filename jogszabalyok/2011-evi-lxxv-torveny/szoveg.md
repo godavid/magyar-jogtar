@@ -40,6 +40,7 @@ Az Országgyűlés a korábbi időszak devizakölcsönzése következtében kial
   - m) az állam többségi befolyása alatt álló gazdasági társaságnál munkavégzésre irányuló jogviszonyban foglalkoztatott személy,
   - n) a honvédelmi alkalmazottak jogállásáról szóló törvény hatálya alá tartozó honvédelmi alkalmazott,
   - o) a rendvédelmi igazgatási alkalmazottak szolgálati jogviszonyát szabályozó törvény hatálya alá tartozó rendvédelmi igazgatási alkalmazott;
+  - p) az egészségügyi szolgálati jogviszonyról szóló törvény hatálya alá tartozó, egészségügyi szolgálati jogviszonyban álló személy.
 - 8. lakáshitel-szerződés: magyarországi lakóingatlanra alapított jelzálogjog – ideértve az önálló zálogjogként alapított jelzálogjogot is – fedezete mellett a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdése szerinti fogyasztó és pénzügyi intézmény által kötött hitel- vagy kölcsönszerződés;
 - 9. lakóingatlan:
   - a) lakás céljára létesített és az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan – ha arra használatbavételi engedélyt adtak ki – a hozzá tartozó földrészlettel, az ingatlan-nyilvántartásban tanyaként feltüntetett lakó-, illetőleg gazdasági épület, épületcsoport és az azonos helyrajzi szám alatt hozzá tartozó föld együttese, valamint

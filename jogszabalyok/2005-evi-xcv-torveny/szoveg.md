@@ -43,7 +43,10 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - 20. külső csomagolás: azt a csomagolási formát jelenti, amely da közvetlen csomagolást foglalja magában;
 - 21. Gyógyszerkönyv: a gyógyszerkészítés, a gyógyszerminőség, a gyógyszerellenőrzés és a gyógyszerminősítés általános szabályait, valamint az egyes gyógyszerek és gyógyszer anyagok minőségét és összetételét tartalmazó, a gyógyszerészeti államigazgatási szerv által kiadott, illetve módosított, a gyógyszergyártókra, forgalmazókra, orvosokra és gyógyszerészekre kötelező hivatalos kiadvány;
 - 22. Szabványos Vényminta Gyűjtemény (FoNo): a magisztrális gyógyszerkészítés szabályait, valamint az egyes gyógyszerek minőségét és összetételét tartalmazó, a gyógyszerészeti államigazgatási szerv által kiadott, illetve módosított, a gyógyszergyártókra, forgalmazókra, orvosokra és gyógyszerészekre kötelező hivatalos kiadvány;
-- 23. különös méltánylást érdemlő betegellátási érdek: akkor áll fenn, ha a Magyarországon érvényes forgalomba hozatali engedéllyel nem rendelkező gyógyszer orvosi kezelés során történő alkalmazásával esélye lehet a kezelés sikerességének, és ez a Magyarországon már forgalomban lévő gyógyszertől nem várható; valamint ha az adott indikációban forgalomba hozatalra engedélyezett gyógyszerhez a beteg hozzájutása olyan aránytalanul nagy mértékben akadályozott, ami a gyógyszeres kezelés megkezdésének késlekedése miatt visszafordíthatatlan egészségkárosodáshoz vezethet.
+- 23. különös méltánylást érdemlő betegellátási érdek: akkor áll fenn, ha a Magyarországon érvényes forgalombahozatali engedéllyel nem rendelkező gyógyszer orvosi kezelés során történő alkalmazásával esélye lehet a kezelés sikerességének, és
+  - a) ez a Magyarországon már forgalomban lévő gyógyszertől nem várható,
+  - b) ha a kezelés sikerességét biztosító, Magyarországon vagy az EGT-ben részes államban már forgalomban lévő gyógyszer Magyarországon kellő mennyiségben nem elérhető, vagy
+  - c) ha az adott indikációban forgalomba hozatalra engedélyezett gyógyszerhez a beteg hozzájutása olyan aránytalanul nagymértékben akadályozott, ami a gyógyszeres kezelés megkezdésének késlekedése miatt visszafordíthatatlan egészségkárosodáshoz vezethet;
 - 24. Európai Gyógyszerügynökség: az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 726/2004/EK európai parlamenti és tanácsi rendelettel létrehozott Európai Gyógyszerügynökség;
 - 25. a gyógyszer alkalmazásával kapcsolatos kockázatok: a gyógyszer minőségével, biztonságosságával és hatásosságával kapcsolatos, a betegek egészségét vagy a közegészséget érintő bármely kockázat, illetve a környezetre gyakorolt nemkívánatos hatások kockázata;
 - 26. előny/kockázat arány: a gyógyszer pozitív terápiás hatása a 25. pontban meghatározott kockázat viszony értékelésének eredménye;
@@ -420,9 +423,24 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 (2) Ha a forgalomba hozatali engedély jogosultja vagy – közfinanszírozásban részesülő gyógyszer esetén, amennyiben a forgalomba hozatali engedély jogosult belföldön forgalmazási tevékenységet nem végez – a forgalmazó Magyarországon a gyógyszerrel a folyamatos ellátást nem tudja biztosítani, a készítményt átmenetileg vagy tartósan nem tudja vagy nem kívánja forgalmazni, ezt a tényt, valamint ennek időtartamát, az ezen idő alatt is elérhető mennyiség nagyságrendjét a vele szerződéses jogviszonyban álló gyógyszer-nagykereskedőkkel, a gyógyszerészeti államigazgatási szervvel és közfinanszírozásban részesülő gyógyszer esetén az egészségbiztosítási szervvel haladéktalanul tudatni köteles.
 
-(2a) A közfinanszírozásban részesülő gyógyszerrel való folyamatos ellátásról a forgalomba hozatali engedély jogosultja, ennek hiányában a forgalmazó köteles gondoskodni.
+(2a) A közfinanszírozásban részesülő gyógyszerrel való folyamatos ellátásról a forgalomba hozatali engedély jogosultja – amennyiben a forgalomba hozatali engedély jogosult belföldön forgalmazási tevékenységet nem végez – a forgalmazó (a továbbiakban: szerződött forgalmazó) köteles gondoskodni.
 
-(2b) A gyógyszerészeti államigazgatási szerv a gyógyszerhiányt vagy annak kockázatát bármely, a jogszabályban foglalt feladatainak ellátásával összefüggésben tudomására jutó információk alapján, a (2) bekezdés szerinti értesítés hiányában is megállapíthatja.
+(2b) A gyógyszerészeti államigazgatási szerv a gyógyszerhiányt vagy annak kockázatát bármely, a jogszabályban foglalt feladatainak ellátásával összefüggésben tudomására jutó információk alapján, a (2) bekezdés szerinti értesítés hiányában is megállapíthatja. A gyógyszerészeti államigazgatási szerv hiányt Magyarországon forgalomba hozatalra nem engedélyezett gyógyszer esetében is megállapíthat.
+
+(2c) A gyógyszerészeti államigazgatási szerv a (2) vagy (2b) bekezdés alapján megállapított gyógyszerhiány vagy annak kockázata esetén kötelezheti a forgalomba hozatali engedély jogosultját vagy a szerződött forgalmazót a hiánnyal érintett gyógyszer helyett alkalmazható gyógyszer beszerzése útján a hiány elhárítására. A határozatban a gyógyszerészeti államigazgatási szerv rendelkezik
+
+- a) hiánnyal érintett gyógyszer helyett alkalmazható gyógyszerről, és
+- b) a magyar nyelvű kísérőiratok rendelkezésre bocsátásával és a csomagolással kapcsolatos követelményekről.
+
+(2d) A (2c) bekezdés szerinti határozat kötelezettjeként a forgalomba hozatali engedély jogosultja és a szerződött forgalmazó egyetemleges felelősség mellett is kijelölhető.
+
+(2e) Ha a hiány Magyarországon forgalomba hozatalra nem engedélyezett gyógyszer tekintetében került megállapításra, vagy a (2c) bekezdés szerinti határozat kiadásától a gyógyszerhiány kezelése nem várható, vagy a kiadott határozat végrehajtása nem vezetett eredményre, a gyógyszerészeti államigazgatási szerv gyógyszer-nagykereskedő kérelmére a hiánnyal érintett gyógyszer helyett alkalmazható gyógyszer beszerzését engedélyezi. Az engedély alapján a gyógyszer-nagykereskedő jogosult az abban megjelölt gyógyszernek a határozat szerinti mennyiségben, időtartamig történő behozatalára (a továbbiakban: kontingensengedély). A kontingensengedély tartalmára a (2c) bekezdés a) és b) pontját alkalmazni kell.
+
+(2f) A (2c) bekezdés szerinti határozat kötelezettje és a kontingensengedély jogosultja a hiány elhárítása céljából behozott gyógyszer behozatalát a behozataltól számított 8 napon belül, a mennyiség megjelölésével bejelenti a gyógyszerészeti államigazgatási szerv részére.
+
+(2g) A gyógyszerészeti államigazgatási szerv a honlapján közzéteszi a (2c) és (2e) bekezdés szerinti döntés kivonatát, valamint a (2f) bekezdés alapján a tényleges behozatal ténynek megtörténtét.
+
+(2h) Magyarországra forgalmazási céllal behozott gyógyszer külföldre történő értékesítése vagy kivitele esetén a gyógyszer-nagykereskedő 8 napon belül a gyógyszer mennyiségére vonatkozó adatszolgáltatást teljesít a gyógyszerészeti államigazgatási szerv részére.
 
 (3) A gyógyszer-nagykereskedelmi engedély jogosultja köteles azon gyógyszereket beszerezni és forgalmazni, amelyek forgalmazására nagykereskedelmi tevékenységi engedélyt kapott.
 
@@ -706,6 +724,33 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 
 (2) Azt a gyógyszert, amely az EGT-megállapodásban részes államban nem, de más országban forgalomba hozatali engedéllyel rendelkezik, különleges esetben gyógyászati célra akkor lehet alkalmazni, ha a felhasználását különös méltánylást érdemlő betegellátási érdek indokolja, és alkalmazását – a külön jogszabályban meghatározott feltételek szerint – a gyógyszerészeti államigazgatási szerv engedélyezte. Azt a gyógyszert, amelyet az EGT-megállapodásban részes államban forgalomba hozatalra engedélyeztek, gyógyászati célra akkor lehet alkalmazni, ha azt a külön jogszabályban foglaltaknak megfelelően a gyógyszerészeti államigazgatási szervnek bejelentették. A különös méltánylást érdemlő betegellátási érdek fennállása a terápiás eljárás biztonságossága és hatékonysága tekintetében szükség szerint a szakmai kollégium véleményét figyelembe véve kerül megállapításra.
 
+(2a) A (2) bekezdésben foglaltaktól eltérően, e törvény alkalmazásában a különös méltánylást érdemlő betegellátási érdeket az egészségügyről szóló 1997. évi CLIV. törvény szerinti egészségügyi válsághelyzet kihirdetését megalapozó vagy azzal közvetlenül összefüggő megbetegedésekkel (a továbbiakban e § alkalmazásában: megbetegedés) kapcsolatban lefolytatandó, az egészségügyi válsághelyzet kezelésével összefüggő hatósági eljárások során – az egészségügyi válsághelyzet ideje alatt – fennállónak kell tekinteni.
+
+(2b) A (2a) bekezdés szerinti feltételek fennállása esetén a gyógyszerészeti államigazgatási szerv határozott időtartamra, az állami egészségügyi tartalék kezeléséért felelős szerv kérelmére engedélyezheti EGT-megállapodásban részes államban nem, de más országban forgalombahozatali engedéllyel rendelkező gyógyszer ideiglenes hozzáférhetővé tételét, alkalmazását vagy adományozását a megbetegedés feltételezett vagy igazolt terjedésének megakadályozása érdekében, ha a készítmény minőségileg megfelelő, és az elvégzett vizsgálatok alapján előnyös terápiás előny/kockázat aránnyal rendelkezik. Az engedély legfeljebb hat hónapos határozott időre adható ki, ami különösen indokolt esetben legfeljebb további hat hónappal meghosszabbítható.
+
+(2c) A (2b) bekezdés szerinti engedélyezés során, kormányrendeletben meghatározottak szerint
+
+- a) az országos tisztifőorvos meghatározott szakkérdésben szakhatóságként kerül kijelölésre, továbbá
+- b) az emberi felhasználásra kerülő gyógyszerek forgalomba hozatalának és gyártásának engedélyezéséről szóló kormányrendelet értékelésre és engedélyezésre vonatkozó egyes rendelkezései alkalmazandók.
+
+(2d) A (2b) bekezdés szerint engedélyezett gyógyszerrel történő ellátás igénylési rendjét az állami egészségügyi tartalék kezeléséért felelős szerv állapítja meg.
+
+(2e) A (2a) bekezdés szerinti feltételek fennállása esetén, a (2f)–(2h) bekezdésben foglaltak szerint, a megbetegedés feltételezett vagy igazolt terjedésének megakadályozása érdekében az állami egészségügyi tartalék kezeléséért felelős szerv kérelmére a gyógyszerészeti államigazgatási szerv engedélyezheti
+
+- a) EGT-megállapodásban részes államban, vagy EGT-megállapodásban nem részes, de a klinikai vizsgálatok, illetve a gyógyszergyártás tekintetében a Magyarországon hatályos szabályozással egyenértékű szabályozást alkalmazó államban,
+- b) Nagy-Britannia és Észak-Írország Egyesült Királyságában, vagy
+- c) legalább három – köztük legalább egy európai uniós vagy európai uniós tagjelölt – államban
+
+a betegek számára hozzáférhetővé tett, illetve alkalmazásra engedélyezett gyógyszer behozatalát, adományozását, a betegek számára történő hozzáférhetővé tételét, illetve alkalmazását.
+
+(2f) A (2e) bekezdés alapján – a (2g) bekezdésben meghatározott engedélyezés kivételével – oltóanyag esetében abban az esetben kerülhet sor az engedély kiadására, ha a gyógyszert legalább egymillió személynél már alkalmazták. Ezen körülmény fennállását a külpolitikáért felelős miniszter igazolja.
+
+(2g) A gyógyszerészeti államigazgatási szerv a (2e) bekezdés szerinti engedélyt a (2b) bekezdés megfelelő alkalmazásával, vagy az adott államban kiadott engedély alapulvételével vagy annak elismerése útján adhatja ki.
+
+(2h) A (2e) bekezdés alapján a gyógyszerészeti államigazgatási szerv az engedélyt legfeljebb egy éves határozott időre adhatja ki, ami különösen indokolt esetben legfeljebb további egy évvel meghosszabbítható. Az engedély kiadása feltételeinek fennállását a gyógyszerészeti államigazgatási szerv folyamatosan figyelemmel kíséri. Az engedély – figyelemmel a 10. § (3) és (4) bekezdésében foglaltakra is – szükség szerint rendelkezik az 5. § (5) bekezdésében foglaltakról, valamint a farmakovigilanciával kapcsolatos követelményekről.
+
+(2i) A (2b) és (2h) bekezdés alapján engedélyezett gyógyszer alkalmazásához a Kormány rendeletében további feltételeket állapíthat meg.
+
 (3) Az orvosi gyógyszerrendelés részletes szabályait külön jogszabály állapítja meg.
 
 (4) A külföldre küldött és a Magyarországra érkező gyógyszeradományok az alábbi feltételekkel kerülhetnek kivitelre, illetve behozatal esetén hazai alkalmazásra:
@@ -914,6 +959,7 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 - g) az emberi felhasználásra kerülő gyógyszerek egyedi rendelésének és felhasználásának engedélyezésére vonatkozó szabályokat,
 - h) a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenység végzésének engedélyezésére vonatkozó szabályokat,
 - i) a gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratóriumok felügyeletére vonatkozó részletes szabályokat
+- j) a 25. § (2b) és (2h) bekezdése alapján engedélyezett gyógyszer alkalmazásának további feltételeit
 
 rendeletben szabályozza.
 

@@ -185,7 +185,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - a) a vonatkozó jogszabályok alapján ellátja a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben, valamint a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését,
 - b) elvégzi
   - ba) az (1c) bekezdésben foglalt kivétellel a Kormány vagy a Kormány tagjának irányítása vagy felügyelete alá tartozó költségvetési szerv, valamint a Nemzeti Közszolgálati Egyetem valamennyi foglalkoztatottjának,
-  - bb) az egészségügyi tevékenység végzésében tanulói jogviszony alapján közreműködő személyek, valamint az egyházi jogi személy fenntartásában vagy tulajdonában álló egészségügyi szolgáltatónál foglalkoztatottak kivételével az egészségügyi szolgálati jogviszonyban állók,
+  - bb) az egészségügyi tevékenység végzésében tanulói jogviszony alapján közreműködő személyek, valamint az egyházi jogi személy fenntartásában vagy tulajdonában álló egészségügyi szolgáltatónál foglalkoztatottak kivételével az egészségügyi szolgálati jogviszonyban állók, valamint a honvédelemért felelős miniszter irányítása alá tartozó honvédelmi egészségügyi szolgáltató személyi állományának,
   - bc) az Országgyűlési Őrség hivatásos állománya, köztisztviselői és munkavállalói
 
 [a ba)–bc) alpontban foglaltak a továbbiakban együtt: védett állomány] megbízhatósági vizsgálatát.
@@ -211,7 +211,7 @@ foglalkoztatott.
 (1c) Az (1) bekezdés b) pont ba) alpontjától eltérően nem tartozik a védett állomány körébe
 
 - a) az Információs Hivatal foglalkoztatottja,
-- b) a honvédelmi szervezetek foglalkoztatottja azzal a kivétellel, hogy az (1) bekezdés b) pont bb) alpontja szerint megbízhatósági vizsgálat alá vonható a honvédelemért felelős miniszter irányítása alá tartozó egészségügyi szolgáltató egészségügyi szolgálati jogviszonyban álló foglalkoztatottja, továbbá
+- b) a honvédelmi szervezetek foglalkoztatottja, ez a kivétel azonban nem terjed ki az (1) bekezdés b) pont bb) alpontja szerint megbízhatósági vizsgálat alá vonható, a honvédelemért felelős miniszter irányítása alá tartozó honvédelmi egészségügyi szolgáltató személyi állományára, továbbá
 - c) a Kormány rendeletében a feladat- és tevekénységi kör mérlegelése alapján a megbízhatósági vizsgálat elvégzésének lehetősége alól mentesített szerv foglalkoztatottja.
 
 (2) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv nyomozóhatósági jogkört nem gyakorol.
@@ -246,6 +246,8 @@ foglalkoztatott.
 (5) Ha az (1) bekezdésben meghatározott mesterséges élethelyzet kialakítása objektív körülmények miatt meg sem kezdődött, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv eljárást megszüntető határozatot hoz, azonban a megbízhatósági vizsgálat évenkénti elrendelésére vonatkozóan a (4) bekezdésben meghatározott korlátozást figyelmen kívül kell hagyni.
 
 (6) A megbízhatósági vizsgálat időtartama alkalmanként legfeljebb tizenöt nap, amelyet a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője egy alkalommal tizenöt nappal meghosszabbíthat. A megbízhatósági vizsgálat során végzett tevékenységeket dokumentálni kell.
+
+(7) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója a honvédelemért felelős miniszter irányítása alá tartozó honvédelmi egészségügyi szolgáltató személyi állománya megbízhatósági vizsgálatát érintően végzett tevékenységéről folyamatosan tájékoztatja a Katonai Nemzetbiztonsági Szolgálat vezetőjét.
 
 7/B. § (1) A megbízhatósági vizsgálat során a VII. Fejezetben meghatározott módon titkos információgyűjtés folytatható. A titkos információgyűjtés során alkalmazni kívánt eszközt az elrendelő határozatnak és a részletes tervnek tartalmaznia kell.
 

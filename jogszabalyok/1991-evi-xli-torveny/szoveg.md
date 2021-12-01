@@ -925,6 +925,8 @@ foglalt kötelezettségek teljesítését.
 
 (3) A közjegyző elleni fegyelmi eljárás kezdeményezése vagy a közjegyző tevékenységének vizsgálata tárgyában a határozathozatalhoz az elnökön kívül 5 közjegyző részvétele szükséges. A területi elnökség közjegyzőhelyettes tagjai jelen lehetnek, de a határozathozatalban nem vesznek részt.
 
+(4) A területi kamara testületi szerveinek ülése elektronikus hírközlő eszköz útján vagy más személyazonosítást lehetővé tevő elektronikus eszköz igénybevételével is megtartható, vagy írásbeli egyeztetésre és döntéshozatalra is sor kerülhet. Az írásbeli egyeztetés és döntéshozatal elektronikus üzenetváltással (e-mail) is történhet.
+
 52. § (1) A területi kamara elnöke képviseli a területi kamarát és elnökségét, gondoskodik a területi kamara és a területi elnökség határozatainak előkészítéséről és végrehajtásáról.
 
 (2) A területi kamara elnöke a 49. §-ban felsorolt ügyben önállóan intézkedhet, az ilyen döntéséről a területi elnökség következő ülésén köteles beszámolni.
@@ -991,6 +993,7 @@ foglalt kötelezettségek teljesítését.
 - 24. a közjegyzői eljárásokban az elektronikus ügyintézés egyes kérdéseiről,
 - 25. a közjegyzői okiratszerkesztésre vonatkozó egyes formai követelményekről, és
 - 26. minden olyan kérdésről, amelyre jogszabály vagy a szervezeti és működési szabályzata feljogosítja.
+- 27. az elektronikus hírközlő eszköz vagy más személyazonosítást lehetővé tevő elektronikus eszköz útján való tanácskozás és döntéshozatal szabályairól, továbbá a titkos szavazás lebonyolításának módjáról.
 
 (2) Az országos kamara szervezeti és működési szabályzatot készít, amelyben rögzíti saját szervezetét, működési és gazdálkodási rendjét, a területi kamarákkal és a területi elnökségekkel összefüggő jogait, valamint kapcsolattartásuk rendjét.
 
@@ -1000,12 +1003,14 @@ foglalt kötelezettségek teljesítését.
 
 (5) Az országos és területi kamarák szervezeti és működési szabályzatait és az országos kamara kiemelt szabályzatait a miniszter jóváhagyásának kézhezvételétől számított 15 napon belül, a nem kiemelt szabályzatokat azok hatálybalépésével egyidejűleg az országos kamara honlapján kell közzétenni.
 
-56. § Az országos kamara szervei:
+56. § (1) Az országos kamara szervei:
 
 - a) a választmány,
 - b) az elnökség (a továbbiakban: országos elnökség),
 - c) az elnök (a továbbiakban: országos elnök),
 - d) a számvizsgálók.
+
+(2) Az országos kamara testületi szerveinek ülése elektronikus hírközlő eszköz útján vagy más személyazonosítást lehetővé tevő elektronikus eszköz igénybevételével is megtartható, vagy írásbeli egyeztetésre és döntéshozatalra is sor kerülhet. Az írásbeli egyeztetés és döntéshozatal elektronikus üzenetváltással (e-mail) is történhet.
 
 57. § (1) A választmány a területi elnökségek tagjai közül a területi kamara által választott, területi kamaránként 4—4 közjegyzőből és egy-egy közjegyzőhelyettesből, valamint a területi kamarák elnökeiből áll.
 
@@ -1751,7 +1756,9 @@ kommunikálhat.
 
 (2) Az (1) bekezdésben foglalt rendelkezést a végrendelet visszavonására megfelelően alkalmazni kell.
 
-#### 134. §
+### Egyoldalú kötelezettségvállaló nyilatkozat
+
+134. § Az állami kamattámogatással érintett lakáscélú fogyasztói hitel-, illetve kölcsönszerződés és az azt biztosító jelzálogszerződés alapján a közjegyzői okirat elkészítésére kizárólag egyoldalú kötelezettségvállaló nyilatkozat formájában kerülhet sor azzal, hogy a – félnek vagy az eljárás egyéb résztvevőjének nem minősülő – hitelezőnek a miniszter rendeletében meghatározott okiratminta alapján elkészített írásbeli tervezetet kell kitöltve a közjegyző rendelkezésére bocsátania.
 
 #### 135. §
 
@@ -2120,11 +2127,13 @@ kommunikálhat.
 
 (10) E törvénynek az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi CLXV. törvénnyel megállapított 55. §-a szerinti szabályzatokat az országos kamara 2021. június 30-ig alkotja meg. A 2020. december 31-én hatályos iránymutatások a helyükbe lépő szabályzatok hatálybalépésével, de legkésőbb 2021. augusztus 31-én hatályukat vesztik. E törvény szabályzatra vonatkozó rendelkezéseit az iránymutatásra – annak hatályvesztéséig – alkalmazni kell.
 
-(11) Ha a 178. § (2) bekezdése hatálya alá tartozó közjegyző a tevékenységét egyénileg folytatja, a szolgálata megszűnéséig a tevékenysége egyénileg történő folytatását illetően e törvény 2021. december 31-én hatályos rendelkezései szerint jogosult a közjegyzői tevékenység folytatására.
+(11) Ha a 178. § (2) bekezdése hatálya alá tartozó közjegyző a tevékenységét egyénileg folytatja, a szolgálata megszűnéséig a tevékenysége egyénileg történő folytatását illetően e törvény 2022. december 31-én hatályos rendelkezései szerint jogosult a közjegyzői tevékenység folytatására.
 
-(12) Ha a közjegyzői iroda megalapítására 2021. december 31-ig azért nem került sor, mert a közjegyző fegyelmi büntetés vagy intézkedés hatálya alatt állt, vagy más ok miatt tartósan helyettesítették, a tevékenységét egyénileg folytató közjegyzőnek a tartós helyettesítés megszűnését követő 30 napon belül kell kérelmeznie az alapítási engedély megadását. A közjegyzői iroda megalapításáig a tevékenysége egyénileg történő folytatását illetően a közjegyző e törvény 2021. december 31-én hatályos rendelkezései szerint jogosult a közjegyzői tevékenység folytatására.
+(12) Ha a közjegyzői iroda megalapítására 2022. december 31-ig azért nem került sor, mert a közjegyző fegyelmi büntetés vagy intézkedés hatálya alatt állt, vagy más ok miatt tartósan helyettesítették, a tevékenységét egyénileg folytató közjegyzőnek a tartós helyettesítés megszűnését követő 30 napon belül kell kérelmeznie az alapítási engedély megadását. A közjegyzői iroda megalapításáig a tevékenysége egyénileg történő folytatását illetően a közjegyző e törvény 2022. december 31-én hatályos rendelkezései szerint jogosult a közjegyzői tevékenység folytatására.
 
 (13) A 18. § (4) bekezdése szerint közzétett területi kamarai tájékoztatás alapján benyújtott áthelyezési kérelem elbírálásának akkor van helye, ha a területi kamarai tájékoztatás közzétételére a 18. § (4) bekezdésének az egyes törvényeknek a kézbesítéssel és az igazságügyi ágazati szabályozással összefüggő módosításáról szóló 2021. évi LI. törvénnyel történő hatályon kívül helyezését megelőzően került sor.
+
+(14) E törvénynek a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvénnyel megállapított 134. §-ában foglalt követelményeket 2021. január 31-ét követően azzal kell alkalmazni, hogy a 2021. február 1-től 2021. április 5-ig közokiratba foglalt egyoldalú kötelezettségvállaló nyilatkozatok esetén a miniszter rendeletében meghatározott okiratmintától való eltérés nem vonja maga után a közjegyzői okirat közokirati jellegének elvesztését.
 
 ### Felhatalmazás
 
@@ -2142,6 +2151,7 @@ kommunikálhat.
 - j) a közjegyzői pályázati eljárás részletes szabályait, és a közjegyzői kinevezéshez készített kamarai javaslatban szereplő pályázati rangsor kialakítása során figyelembe vehető szempontokat és azokhoz rendelhető pontszámokat,
 - k) a közjegyző okirat-szerkesztési eljárására irányuló kérelem tartalmi és formai követelményeit,
 - l) a közjegyzői vizsga részletes szabályait.
+- m) az állami kamattámogatással érintett lakáscélú fogyasztói hitel-, illetve kölcsönszerződés és az azt biztosító jelzálogszerződés alapján tett egyoldalú kötelezettségvállaló nyilatkozat közokiratba foglalása esetén alkalmazandó okiratmintát.
 
 183/A. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
