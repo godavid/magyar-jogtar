@@ -381,6 +381,10 @@ meghatározható.
 
 17. § Ez a törvény a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-i, (EU) 2016/1148 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
+18. § Ez a törvény az uniós űrprogram és az Európai Unió Űrprogramügynökségének a létrehozásáról, valamint a 912/2010/EU, az 1285/2013/EU és a 377/2014/EU rendelet és az 541/2014/EU határozat hatályon kívül helyezéséről szóló, 2021. április 28-i (EU) 2021/696 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+19. § Ez a törvény az uniós űrprogram keretében kiépített, üzemeltetett és használt, az Unió biztonságát esetleg befolyásoló rendszerek és szolgáltatások biztonságáról és a 2014/496/KKBP határozat hatályon kívül helyezéséről szóló, 2021. április 30-i (KKBP) 2021/698 tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
+
 ### 1. melléklet a 2012. évi CLXVI. törvényhez
 
 |  | A | B |

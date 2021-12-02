@@ -106,7 +106,7 @@ felkérésére kizárólag a pályázat kiírásáról hozott döntés meghozata
   - fb) amely a pályázat kiírását megelőző öt évben párttal közös jelöltet állított országgyűlési, európai parlamenti vagy helyi önkormányzati választáson,
 - g) akinek a részvételből való kizártságának tényét a 13. § alapján a honlapon közzétették.
 
-(1a) Nem kell alkalmazni az (1) bekezdés b)–e) pontját a 2000 fő vagy ez alatti lakosságszámú települések polgármestere tekintetében a Magyar Falu Program keretében nyújtott támogatás esetén.
+(1a)
 
 (2) Az (1) bekezdés e) pontját nem kell alkalmazni a területfejlesztésről és a területrendezésről szóló törvény által meghatározott regionális fejlesztési ügynökségre, ha a támogatás célja a fejlesztési támogatások elosztása intézményrendszere működésének támogatása, továbbá olyan támogatás, amelynek előkészítésében, lebonyolításában a regionális fejlesztési ügynökség nem vesz részt, illetve a támogatással kapcsolatos döntésre befolyással nem rendelkezik.
 
@@ -225,4 +225,4 @@ gb) a rendelkező nyilatkozat évét megelőző öt évben nem állított pártt
 
 (7) E törvény 6. §-át a Nemzeti Kulturális Alapból nyújtott támogatások tekintetében a 2008. december 31-ét követően kiírt pályázatokra kell alkalmazni.
 
-20. § E törvénynek a felsőoktatási intézmények versenyképes működését elősegítő szabályokról, valamint egyes vagyongazdálkodási, kormányzati igazgatási és büntetőjogi tárgyú törvények módosításáról szóló 2021. évi CIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 6. § (1a) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+#### 20. §

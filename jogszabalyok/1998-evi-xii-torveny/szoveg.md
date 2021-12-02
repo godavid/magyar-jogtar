@@ -182,9 +182,9 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 (2) Kizárólag utazásának időtartamára érvényes külügyi szolgálati útlevelet kaphat az a személy is, akinek az útlevéllel történő ellátását rendkívül indokolt esetben az irányítást (felügyeletet) gyakorló miniszter javaslatára a külpolitikáért felelős miniszter engedélyezte.
 
-14. § (1) Az irányítást (felügyeletet) gyakorló miniszter, ennek hiányában a szerv vagy hivatal vezetőjének javaslatára szolgálati útlevelet kaphatnak hivatalos célú utazásuk, illetőleg kiküldetésük idejére
+14. § (1) Az irányítást (felügyeletet) gyakorló miniszter, ennek hiányában a szerv vagy hivatal vezetője, az Országgyűlési Őrség tekintetében az Országgyűlés elnöke javaslatára szolgálati útlevelet kaphatnak hivatalos célú utazásuk, illetőleg kiküldetésük idejére
 
-- a) a központi államigazgatási szerveknél, a Köztársasági Elnöki Hivatalnál, az Országgyűlés Hivatalánál, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, a Nemzeti Média- és Hírközlési Hatóságnál foglalkoztatottak;
+- a) a központi államigazgatási szerveknél, a Köztársasági Elnöki Hivatalnál, az Országgyűlés Hivatalánál, az Országgyűlési Őrségnél, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, a Nemzeti Média- és Hírközlési Hatóságnál foglalkoztatottak;
 - b) a bírák és az ügyészek;
 - c) a Magyar Nemzeti Bank vezető munkatársai;
 - d) a szomszédos államokkal fennálló vízügyi együttműködés keretében vízi munka elvégzése, vízkár vagy jégveszély elhárítása érdekében határvízen közlekedő vízügyi dolgozók.

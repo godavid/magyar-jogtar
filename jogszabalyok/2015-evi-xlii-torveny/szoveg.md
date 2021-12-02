@@ -3675,6 +3675,8 @@ a rögzítéskor meghatározott szolgálati időre figyelemmel kell megállapít
 
 (3) A tisztjelölt szolgálatteljesítése során – a 285. § (4) bekezdésében meghatározott képzettségi szintet meghaladó – intézkedésre önállóan nem jogosult. Az alapképzést követően – az eskütétel után – szakmai gyakorlaton vagy elrendelt szolgálati tevékenység során szolgálati fegyvert, felszerelést a rendvédelmi szerv számára meghatározott szabályok szerint viselhet és a jogszabályok előírásainak megfelelően használhat.
 
+(3a) A (3) bekezdésben foglaltaktól eltérően a rendőrség tisztjelöltje az őt ösztöndíj szerződéssel foglalkoztató rendvédelmi szerven kívül más rendőrségi szervnél is teljesítheti a szakmai gyakorlatát. Ebben az esetben a szakmai gyakorlat során a tisztjelölt szolgálati fegyvert, felszerelést a szakmai gyakorlatot biztosító rendvédelmi szerv számára meghatározott szabályok szerint viselhet és a jogszabályok előírásainak megfelelően használhat.
+
 (4) A tisztjelölt szolgálatteljesítése képzési időnek minősül, amelyet úgy kell megállapítani, hogy az a tanulmányi kötelezettségeinek teljesítését ne veszélyeztesse.
 
 (5) A tisztjelölt kizárólag a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló törvényben meghatározott szolgálati feladat ellátására vezényelhető, továbbá a Rendvédelmi Tagozat állományában rajparancsnoki vagy szakaszparancsnoki gyakorló feladatok ellátására jelölhető ki.
@@ -5973,7 +5975,7 @@ alakul át.
 
 (2) Az egészségügyi szabadság (1) bekezdés szerinti időtartamára az egészségügyi szabadság 365. napján folyósítható ellátást kell folyósítani.
 
-364. § (1) Ez a törvény a 340. és 341. §-ban foglalt felhatalmazások alapján kiadott rendeletekkel együtt
+364. § (1) Ez a törvény a felhatalmazása alapján kiadott rendeletekkel együtt
 
 - 1. a munkaadónak a munkavállalóval szembeni, a szerződés, illetve a munkaviszony feltételeire vonatkozó tájékoztatási kötelezettségéről szóló 1991. október 14-i 91/533/EGK tanácsi irányelvnek,
 - 2. a várandós, a gyermekágyas vagy szoptató munkavállalók munkahelyi biztonságának és egészségvédelmének javítását ösztönző intézkedések bevezetéséről (tizedik egyedi irányelv a 89/391/EGK irányelv 16. cikke (1) bekezdésének értelmében) szóló 1992. október 19-i 92/85/EGK tanácsi irányelvnek,

@@ -331,6 +331,8 @@ biztosítja az alapítványnak.
   - dc) az irányító megyei intézményi feladatokat ellátó és az irányító megyei intézményi feladatokat el nem látó klinikai központok esetében jogszabályban meghatározott eltérő irányítási jogköröket gyakorol,
 - e) az irányító megyei intézményi feladatokat végző klinikai központ egészségügyi dolgozói felett az egészségügyi szolgálati jogviszonnyal összefüggő, a d) pont da) alpontjában meg nem nevezett munkáltatói jogot a klinikai központ elnöke gyakorolja.
 
+(5a) A klinikai központ elnöke – az (5) bekezdésben foglalt irányítási jogköreinek gyakorlásán túl – írásban jogosult előzetesen jóváhagyni az irányítása alá tartozó városi intézmény egyes tárgyévi vagy költségvetési éven túli kötelezettségvállalásait. Ha a jóváhagyás megtagadása ellenére a városi intézmény az álláspontját fenntartja, az egészségügyi szolgáltatás irányításáért az ágazati jogszabályban kijelölt felelős állami szerv dönt.
+
 (6) Az egészségügyi irányítási jogkör gyakorlása nem eredményezheti sem az alapítvány felsőoktatási közfeladat-ellátásának, sem a klinikai központ egészségügyi közfeladat-ellátásának ellehetetlenülését.
 
 (7) Az egészségügyi közfeladat-ellátást érintő változásra (ideértve a közfeladatnak az e törvényben rögzített részelemének bármely visszavételét is) megállapodással akkor kerülhet sor, ha az egészségügyi szolgáltatás irányításáért felelős szerv vezetője az egészségügyi szakmai irányítási jogköre szerinti kezdeményezése alapján

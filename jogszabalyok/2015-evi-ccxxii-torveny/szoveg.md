@@ -146,6 +146,8 @@ jár el.
 
 (6) Nincs helye elektronikus ügyintézésnek olyan irat, okirat vagy más beadvány esetében, amely minősített adatot tartalmaz.
 
+(7) Diplomáciai ügyekben – ideértve a sportdiplomáciai ügyeket – az e törvény szerinti elektronikus ügyintézés szabályai – ha törvény eltérően nem rendelkezik – nem alkalmazandóak.
+
 #### 3. Kötelező elektronikus ügyintézés
 
 9. § (1) Ha nemzetközi szerződésből eredő kötelezettség alapján törvény vagy nemzetközi szerződés eltérően nem rendelkezik, elektronikus ügyintézésre köteles valamennyi, a 2. § (1) bekezdése szerinti ügy tekintetében
@@ -779,12 +781,21 @@ olyan technológiai megoldást kell alkalmazni, ami garantálja, hogy az ügyfé
 - m) központi dokumentumhitelesítési ügynök,
 - n) általános célú elektronikus kéreleműrlap szolgáltatás,
 - o) összerendelési nyilvántartás.
+- p) a Kormány által rendeletben megjelölt központi elektronikus ügyintézési szolgáltatás.
 
 (2) Amennyiben a központi elektronikus ügyintézési szolgáltatás igénybevételéhez regisztráció szükséges, a regisztrációra jogszabály eltérő rendelkezése hiányában kizárólag elektronikus azonosítási szolgáltatással kerülhet sor. A regisztráció során az elektronikus azonosítási szolgáltató az igénybe vevő hozzájárulása alapján jogosult a kijelölt szolgáltató részére átadni a regisztrációhoz szükséges, az elektronikus azonosítási szolgáltató által kezelt személyes adatokat.
 
 (3) Törvény vagy kormányrendelet valamely központi elektronikus ügyintézési szolgáltatás igénybevételét kötelezővé teheti.
 
 (4) A Kormány által kijelölt szolgáltató központi elektronikus ügyintézési szolgáltatás nyújtásával összefüggő adatkezelése körében a 36. § és a 37. § rendelkezései megfelelően alkalmazandóak.
+
+(5) A szabályozott elektronikus ügyintézési szolgáltatások, valamint a központi elektronikus ügyintézési szolgáltatások tekintetében mesterséges intelligencián alapuló technológia is felhasználható.
+
+(6) Ha jogszabály a nyilatkozat érvényességéhez az ügyfél, illetve az elektronikus ügyintézést biztosító szerv képviselőjének aláírását követeli meg, az a Kormány rendeletében meghatározott mesterséges intelligencián alapuló szolgáltatás használata során a Kormány rendeletében meghatározottak szerint pótolható.
+
+(7) Ha az elektronikus ügyintézést biztosító szerv a mesterséges intelligencián alapuló szolgáltatás használata során a szolgáltatás útján, gépi úton tesz nyilatkozatot, a központi elektronikus ügyintézési szolgáltatás szolgáltatója az elektronikus ügyintézést biztosító szerv nevében jár el.
+
+(8) Törvény vagy a Kormány eredeti jogalkotói hatáskörében kiadott rendelete meghatározhatja azon ügyeket, ahol a (6) bekezdés szerinti szolgáltatások vagy ezen szolgáltatások valamelyikének használata kizárt.
 
 #### 23. Az ügyfél ügyintézési rendelkezésének nyilvántartása
 
@@ -1777,7 +1788,7 @@ kell biztosítani.
 
 - a) az elektronikus ügyintézés és az elektronikus kapcsolattartás részletes szabályait,
 - b) az elektronikus ügyintézési szolgáltatásnak és a központi elektronikus ügyintézési szolgáltatásnak az elektronikus ügyintézést nem biztosító szerv által történő felhasználása feltételeit, a felhasználás során a Felügyelet feladatát és eljárását, valamint a szolgáltatás használatáért számítható díj megállapításának módját,
-- c) a szabályozott elektronikus ügyintézési szolgáltatások és a központi elektronikus ügyintézési szolgáltatások részletes követelményeit, a szolgáltatásnyújtás részletes eljárási rendjét, a szolgáltatás igénybevételének részletes szabályait, a szabályozott elektronikus ügyintézési szolgáltatásnyújtásra vonatkozó szervezési és a szolgáltató által teljesítendő személyi és pénzügyi feltételeket, a szabályozott elektronikus ügyintézési szolgáltatás bejelentésével, valamint a Felügyelet általi bírság kiszabásával kapcsolatos rendelkezéseket és a bírság mértékét,
+- c) e törvényben nem meghatározott szabályozott és központi elektronikus ügyintézési szolgáltatásokat, ezek részletes követelményeit, a szolgáltatásnyújtás részletes eljárási rendjét, a szolgáltatás igénybevételének részletes szabályait, a szabályozott elektronikus ügyintézési szolgáltatásnyújtásra vonatkozó szervezési és a szolgáltató által teljesítendő személyi és pénzügyi feltételeket, a szabályozott elektronikus ügyintézési szolgáltatás bejelentésével, valamint a Felügyelet általi bírság kiszabásával kapcsolatos rendelkezéseket és a bírság mértékét,
 - d) az elektronikus ügyintézést biztosító szerv azonosításával kapcsolatos részletes követelményeket,
 - e) az elektronikus kapcsolattartási módokra vonatkozó részletes szabályokat,
 - f) az ügyintézési rendelkezés tételének és nyilvántartásba vételének részletes szabályait,

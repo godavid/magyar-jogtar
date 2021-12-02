@@ -395,4 +395,11 @@ ellátva kell csatolni.
 
 25/A. § A magyar állampolgársággal összefüggő egyes törvények módosításáról szóló 2019. évi XCVII. törvénnyel megállapított 16. § (4) és (5) bekezdését a Magyarországon lakóhellyel nem rendelkező honosított személyek vonatkozásában az e rendelkezések hatálybalépését követően benyújtott honosítási vagy visszahonosítási kérelem esetén kell alkalmazni.
 
+25/B. § A 16. § (5) bekezdésétől eltérően, 2022. december 31-ig a honosított személy akkor is tehet esküt vagy fogadalmat, ha
+
+- a) a részére hivatalból kiállítandó állandó személyazonosító igazolvány kiállítására irányuló eljárást az eljáró hatóság (a továbbiakban e § alkalmazásában: hatóság) a jogszabályban előírt feltételek elmaradása miatt megszüntette,
+- b) az a) pont szerinti eljárás megszüntetéséről a hatóság a honosított személyt az eskü- vagy fogadalomtétel helye szerint illetékes polgármester, vagy külképviselet útján megküldött döntésében értesítette,
+- c) a hatóság a b) pontban megjelölt szerv, vagy személy részére megküldte a honosított személy arcképmását, és
+- d) a honosított személy rendelkezik más érvényes, személyazonosság igazolására alkalmas hatósági igazolvánnyal és azzal a személyazonossága kétséget kizáró módon megállapítható.
+
 26. § E törvény 1. § (1) és (2) bekezdése, 1. § (4) bekezdése, 2–4. §-a, 4/A. § (2) bekezdése, 5. §-a, 5/A. § (1) és (1a) bekezdése, 7. § (2) és (3) bekezdése, 8. § (1) és (2) bekezdése, 8. § (4) bekezdése, 9. § (1) és (4) bekezdése, 23. §-a és 25. §-a az Alaptörvény G) cikk (4) bekezdése alapján sarkalatosnak minősül.

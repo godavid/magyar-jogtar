@@ -29,7 +29,7 @@ a lőfegyverekről és lőszerekről
 - 4. elöltöltő fegyver: az olyan egylövetű- vagy ismétlőfegyver, amelynél a lőport és a lövedéket kizárólag a csőtorkolat irányából lehet a csőbe vagy a forgódobba betölteni, rendeltetésszerűen fekete lőporral vagy gyárilag a fekete lőpor kiváltására készült lőporral és hozzávaló csappantyúval működtethető;
 - 5. expanzív (kiterjedő) lövedékű lőszer: olyan lőszer, melynek lövedéke üreges csúcsú vagy lövedéke a köpenytől eltekintve nem egy darabból áll;
 - 6. félautomata lőfegyver: olyan lőfegyver, amely minden lövés után automatikusan újratölt, és az elsütőbillentyű egyszeri működtetésével csak egy lövést képes leadni;
-- 7. flóbert rövid lőfegyver: olyan peremgyújtású egylövetű rövid tűzfegyver, melynek teljes hossza 28 cm-nél rövidebb, kizárólag flóberttöltény működtetésére alkalmas és az Európai Közösségek Tanácsának a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK irányelve szerint a ,,B'' engedélyköteles kategóriába tartozik;
+- 7. flóbert rövid lőfegyver: olyan peremgyújtású egylövetű rövid tűzfegyver, melynek teljes hossza 28 cm-nél rövidebb, kizárólag flóberttöltény működtetésére alkalmas és a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 2021. március 24-i (EU) 2021/555 európai parlamenti és tanácsi irányelve szerint a ,,B'' engedélyköteles kategóriába tartozik;
 - 8. flóberttöltény: olyan egybeszerelt töltény, melyet gyúelegyes töltényhüvelyből és lövedékből szereltek össze, lőport nem tartalmaz és hüvelyhossza nem haladja meg a 10,5 millimétert;
 - 9. gyújtólövedéket tartalmazó lőszer: olyan lőszer, amelynek lövedéke olyan vegyi anyagot tartalmaz, amely a levegővel történő érintkezéskor vagy becsapódáskor lángra lobban;
 - 10. hangtompító: lőfegyver torkolatdörejének csökkentésére szolgáló, a fegyvercsőre vagy annak torkolatára felszerelhető eszköz;
@@ -293,7 +293,7 @@ tartása, valamint lézeres célzókészülék és éjszakai irányzék lőfegyv
 
 - a) a polgári felhasználású robbanóanyagok forgalmazására és ellenőrzésére vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i, 2014/28/EU európai parlamenti és tanácsi irányelv 14. cikk (1) bekezdésében,
 - b) a 91/477/EGK tanácsi irányelv értelmében a tűzfegyverek Unión belüli transzferére vonatkozó információk elektronikus eszközökkel történő szisztematikus cseréjére vonatkozó részletes szabályok meghatározásáról szóló, 2019. január 16-i (EU) 2019/686 bizottsági rendeletben,
-- c) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 1991. június 18-i 91/477/EGK tanácsi irányelv 13. cikk (4) bekezdésében
+- c) az (EU) 2021/555 európai parlamenti és tanácsi irányelvnek megfelelően a bizonyos tűzfegyverek megszerzésére és tartására vonatkozó engedélyek megtagadásával kapcsolatos információk elektronikus eszközökkel történő szisztematikus cseréjére vonatkozó részletes szabályok meghatározásáról szóló, 2021. május 21-i (EU) 2021/1423 bizottsági rendeletben előírtak szerint a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 2021. március 24-i (EU) 2021/555 európai parlamenti és tanácsi irányelv 18. cikk (4) bekezdésében
 
 meghatározott hatósági feladatokat.
 
@@ -498,6 +498,12 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 - a) az 1–3. pirotechnikai osztályba tartozó – maximum 20 kg összes nettó hatóanyag-tartalmú – tűzijáték terméknek a jogszabály rendelkezése alapján előzetes bejelentési kötelezettség mellett a felhasználási engedély benyújtására jogosult vállalkozás felelős pirotechnikusa részéről történő engedély nélküli felhasználására vonatkozó bejelentést, valamint
 - b) az 1. és a 2. pirotechnikai osztályba tartozó tűzijáték termék forgalmazására vonatkozó előzetes bejelentést, ha azt nem a bejelentés előterjesztésére jogosult ügyfélkapuján keresztül terjesztették elő.
 
+18/I. § Az egyes polgári célú pirotechnikai termékek magánszemélyek általi használatának szabályait a Kormány rendeletben állapítja meg.
+
+18/J. § (1) Az e törvény felhatalmazása alapján megalkotott jogszabály az egyes polgári célú pirotechnikai termékek esetében előírhatja az állatvédelmi tájékoztató kötelező elhelyezését.
+
+(2) Az (1) bekezdés szerinti állatvédelmi tájékoztató szövegét a természetvédelemért felelős miniszter rendeletben állapítja meg.
+
 ### ZÁRÓ RENDELKEZÉSEK
 
 ### Hatálybalépés
@@ -561,6 +567,8 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 - b) meghatározza az a) pontban felsorolt eszközök vizsgálatára vonatkozó mérési eljárásokat és eszközöket, a vizsgálat módját és követelményeit, a kiadandó tanúsítványra, szakvéleményre vonatkozó előírásokat, kijelölje a vizsgálatra, tanúsítvány, szakvélemény kiadására jogosult szervezetet, valamint meghatározza az (1a) bekezdés szerinti nemzeti kapcsolattartó pontként kijelölt szervezet által ellátandó feladatokat;
 - c) kijelölje a lőfegyverek hatástalanításának végrehajtására jogosult szervezetet.
 
+(6) Felhatalmazást kap a természetvédelemért felelős miniszter, hogy rendeletben állapítsa meg a 18/J. § (2) bekezdése szerinti állatvédelmi tájékoztató szövegét.
+
 ### Az Európai Unió jogának való megfelelés
 
 23. § (1) Ez a törvény
@@ -568,16 +576,19 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 - a) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 1991. június 18-i, 91/477/EGK tanácsi irányelvnek,
 - b) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK tanácsi irányelv módosításáról szóló, 2008. május 21-i 2008/51/EK európai parlamenti és tanácsi irányelvnek,
 - c) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK tanácsi irányelv módosításáról szóló, 2017. május 17-i (EU) 2017/853 európai parlamenti és tanácsi irányelvnek,
-- d) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK tanácsi irányelv szerinti riasztó- és jelzőfegyverekre vonatkozó műszaki előírások meghatározásáról szóló, 2019. január 16-i (EU) 2019/69 bizottsági végrehajtási irányelvnek,
-- e) a polgári felhasználású robbanóanyagok forgalmazására és ellenőrzésére vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i 2014/28/EU európai parlamenti és tanácsi irányelv 12. cikkének és 14. cikk (1) bekezdésének,
-- f) a pirotechnikai termékek forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2013. június 12-i 2013/29/EU európai parlamenti és tanácsi irányelvnek, valamint
-- g) a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
+- d) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 2021. március 24-i (EU) 2021/555 európai parlamenti és tanácsi irányelvnek,
+- e) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK tanácsi irányelv szerinti riasztó- és jelzőfegyverekre vonatkozó műszaki előírások meghatározásáról szóló, 2019. január 16-i (EU) 2019/69 bizottsági végrehajtási irányelvnek,
+- f) a polgári felhasználású robbanóanyagok forgalmazására és ellenőrzésére vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i 2014/28/EU európai parlamenti és tanácsi irányelv 12. cikkének és 14. cikk (1) bekezdésének,
+- g) a pirotechnikai termékek forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2013. június 12-i 2013/29/EU európai parlamenti és tanácsi irányelvnek, valamint
+- h) a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
 (1a) Az 5. § (2) bekezdés c) pontja és a 11/A. § a hatástalanított tűzfegyverek végleges működésképtelenségét biztosító hatástalanítási előírásokra és technikákra vonatkozó közös iránymutatások meghatározásáról szóló, 2015. december 15-i, 2015/2403 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (1b) A 6. § (4) bekezdés b) pontja a 91/477/EGK tanácsi irányelv értelmében a tűzfegyverek Unión belüli transzferére vonatkozó információk elektronikus eszközökkel történő szisztematikus cseréjére vonatkozó részletes szabályok meghatározásáról szóló, 2019. január 16-i (EU) 2019/686 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(1c) A 6. § (4) bekezdés c) pontja az (EU) 2021/555 európai parlamenti és tanácsi irányelvnek megfelelően a bizonyos tűzfegyverek megszerzésére és tartására vonatkozó engedélyek megtagadásával kapcsolatos információk elektronikus eszközökkel történő szisztematikus cseréjére vonatkozó részletes szabályok meghatározásáról szóló, 2021. május 21-i (EU) 2021/1423 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) E törvény 18/C. §-a tervezetének a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 39. cikk (5) bekezdése szerinti előzetes bejelentése megtörtént.
 

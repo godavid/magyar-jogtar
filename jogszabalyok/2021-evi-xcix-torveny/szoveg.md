@@ -1326,789 +1326,145 @@ bármely építmény tekintetében a 2020. november 4-ét követően hatályba l
 
 #### 76. A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény módosítása
 
-165. § A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény
-
-- a) 58. § (5) bekezdés a) pontjában és (6) bekezdés b) és c) pontjában a „közalkalmazotti jogviszony,” szövegrész helyébe a „közalkalmazotti jogviszony, egészségügyi szolgálati jogviszony,” szöveg,
-- b) 58. § (6) bekezdés a) pontjában a „közalkalmazott,” szövegrész helyébe a „közalkalmazott, az egészségügyi szolgálati jogviszonyban álló,” szöveg
-
-lép.
+#### 165. §
 
 #### 77. A közjegyzőkről szóló 1991. évi XLI. törvény módosítása
 
-166. § A közjegyzőkről szóló 1991. évi XLI. törvény 51. §-a a következő (4) bekezdéssel egészül ki:
+#### 166. §
 
-„(4) A területi kamara testületi szerveinek ülése elektronikus hírközlő eszköz útján vagy más személyazonosítást lehetővé tevő elektronikus eszköz igénybevételével is megtartható, vagy írásbeli egyeztetésre és döntéshozatalra is sor kerülhet. Az írásbeli egyeztetés és döntéshozatal elektronikus üzenetváltással (e-mail) is történhet.”
+#### 167. §
 
-167. § A közjegyzőkről szóló 1991. évi XLI. törvény 55. § (1) bekezdése a következő 27. ponttal egészül ki:
+#### 168. §
 
-(Az országos kamara szabályzatban rendelkezik)
+#### 169. §
 
-„27. az elektronikus hírközlő eszköz vagy más személyazonosítást lehetővé tevő elektronikus eszköz útján való tanácskozás és döntéshozatal szabályairól, továbbá a titkos szavazás lebonyolításának módjáról.”
+#### 170. §
 
-168. § A közjegyzőkről szóló 1991. évi XLI. törvény 56. §-a helyébe a következő rendelkezés lép:
-
-„56. § (1) Az országos kamara szervei:
-
-a) a választmány,
-
-b) az elnökség (a továbbiakban: országos elnökség),
-
-c) az elnök (a továbbiakban: országos elnök),
-
-d) a számvizsgálók.
-
-(2) Az országos kamara testületi szerveinek ülése elektronikus hírközlő eszköz útján vagy más személyazonosítást lehetővé tevő elektronikus eszköz igénybevételével is megtartható, vagy írásbeli egyeztetésre és döntéshozatalra is sor kerülhet. Az írásbeli egyeztetés és döntéshozatal elektronikus üzenetváltással (e-mail) is történhet.”
-
-169. § A közjegyzőkről szóló 1991. évi XLI. törvény a 133. §-át követően a következő „Egyoldalú kötelezettségvállaló nyilatkozat” alcím címmel és 134. §-sal egészül ki:
-
-„Egyoldalú kötelezettségvállaló nyilatkozat
-
-134. § Az állami kamattámogatással érintett lakáscélú fogyasztói hitel-, illetve kölcsönszerződés és az azt biztosító jelzálogszerződés alapján a közjegyzői okirat elkészítésére kizárólag egyoldalú kötelezettségvállaló nyilatkozat formájában kerülhet sor azzal, hogy a – félnek vagy az eljárás egyéb résztvevőjének nem minősülő – hitelezőnek a miniszter rendeletében meghatározott okiratminta alapján elkészített írásbeli tervezetet kell kitöltve a közjegyző rendelkezésére bocsátania.”
-
-170. § (1) A közjegyzőkről szóló 1991. évi XLI. törvény 182. § (11) és (12) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(11) Ha a 178. § (2) bekezdése hatálya alá tartozó közjegyző a tevékenységét egyénileg folytatja, a szolgálata megszűnéséig a tevékenysége egyénileg történő folytatását illetően e törvény 2022. december 31-én hatályos rendelkezései szerint jogosult a közjegyzői tevékenység folytatására.
-
-(12) Ha a közjegyzői iroda megalapítására 2022. december 31-ig azért nem került sor, mert a közjegyző fegyelmi büntetés vagy intézkedés hatálya alatt állt, vagy más ok miatt tartósan helyettesítették, a tevékenységét egyénileg folytató közjegyzőnek a tartós helyettesítés megszűnését követő 30 napon belül kell kérelmeznie az alapítási engedély megadását. A közjegyzői iroda megalapításáig a tevékenysége egyénileg történő folytatását illetően a közjegyző e törvény 2022. december 31-én hatályos rendelkezései szerint jogosult a közjegyzői tevékenység folytatására.”
-
-(2) A közjegyzőkről szóló 1991. évi XLI. törvény 182. §-a a következő (14) bekezdéssel egészül ki:
-
-„(14) E törvénynek a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvénnyel megállapított 134. §-ában foglalt követelményeket 2021. január 31-ét követően azzal kell alkalmazni, hogy a 2021. február 1-től 2021. április 5-ig közokiratba foglalt egyoldalú kötelezettségvállaló nyilatkozatok esetén a miniszter rendeletében meghatározott okiratmintától való eltérés nem vonja maga után a közjegyzői okirat közokirati jellegének elvesztését.”
-
-171. § A közjegyzőkről szóló 1991. évi XLI. törvény 183. §-a a következő m) ponttal egészül ki:
-
-[Felhatalmazást kap a miniszter, hogy – a 12. § (3) bekezdésében foglaltakon túl – rendelettel állapítsa meg:]
-
-„m) az állami kamattámogatással érintett lakáscélú fogyasztói hitel-, illetve kölcsönszerződés és az azt biztosító jelzálogszerződés alapján tett egyoldalú kötelezettségvállaló nyilatkozat közokiratba foglalása esetén alkalmazandó okiratmintát.”
+#### 171. §
 
 #### 78. A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
 
-172. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 67. § (9i) bekezdése helyébe a következő rendelkezés lép:
+#### 172. §
 
-„(9i) A felszámolási eljárásban az adós gazdálkodó szervezet 25 millió forintot meghaladó egyedi forgalmi értékű vagyonelemeinek értékesítésekor a magyar államot e törvény alapján elővásárlási jog illeti meg, amelyet megelőz a törvény alapján fennálló elővásárlási jog.”
-
-173. § Hatályát veszti a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 84/A. § (1b) bekezdése.
+#### 173. §
 
 #### 79. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
 
-174. § A bányászatról szóló 1993. évi XLVIII. törvény 1. § (1) bekezdése a következő o) ponttal egészül ki:
+#### 174. §
 
-(E törvény hatálya alá tartozik:)
+#### 175. §
 
-„o) a magyar állam tulajdonosi jogait gyakorló szerv útján a magyar állam javára megszerzett bányászati jog gyakorlása az e törvényben meghatározott eltérésekkel.”
+#### 176. §
 
-175. § (1) A bányászatról szóló 1993. évi XLVIII. törvény 26/B. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 177. §
 
-„(4) A bányafelügyelet a bányatelket kérelemre módosíthatja. Ha a módosítás az ingatlan-nyilvántartásba bejegyzett bányatelket érint, a módosításról rendelkező véglegessé vált határozattal megkeresi az ingatlanügyi hatóságot a bányatelekben bekövetkezett módosulás ingatlan-nyilvántartási bejegyzése végett.”
+#### 178. §
 
-(2) A bányászatról szóló 1993. évi XLVIII. törvény 26/B. §-a a következő (4a) bekezdéssel egészül ki:
+#### 179. §
 
-„(4a) A bányatelek módosítására a bányatelek megállapítására vonatkozó szabályokat kell megfelelően alkalmazni. Nem kell alkalmazni a 26/A. § (3) bekezdés b) pontjában és (3a) bekezdésében foglaltakat abban az esetben, ha a módosítás a bányatelek megosztására vagy bányatelkek egyesítésére irányul, és a módosítással megállapított bányatelek nem érint új térrészt a megosztott, illetve egyesített bányatelkek EOV rendszer szerinti koordinátái, alap- és fedőlapja által körülhatárolt térrészhez képest.”
+#### 180. §
 
-176. § A bányászatról szóló 1993. évi XLVIII. törvény a 28. §-át követően a következő „Bányászati jog hasznosításba adása” alcím címmel és 28/A–28/E. §-sal egészül ki:
-
-„Bányászati jog hasznosításba adása
-
-28/A. § A magyar állam tulajdonosi jogait gyakorló szerv a 26/A. § (6) bekezdése alapján vagy az építőipari nyers- és alapanyagokra vonatkozó e törvény és végrehajtására kiadott rendelet alapján a magyar állam javára megszerzett bányászati jogot a nemzeti vagyonról szóló törvényben, valamint az állami vagyonról szóló törvényben meghatározott feltételekkel és módon, meghatározott időtartamra szóló szerződéssel hasznosításba adás útján is hasznosíthatja.
-
-28/B. § (1) A hasznosítási szerződés megkötésére a magyar állam tulajdonosi jogait gyakorló szerv nyilvános pályázatot ír ki.
-
-(2) Zártkörű pályázat kiírására kerül sor, ha az adott ügylet megvalósítása – társadalom-, fejlesztéspolitikai vagy egyéb szempontok szerinti cél megvalósítása érdekében – kiemelten indokolt, és arról a Kormány erre figyelemmel határozatban döntött.
-
-(3) A pályázatok értékelésére a pályázat kiírója a Magyar Bányászati és Földtani Szolgálat és az Innovációs és Technológiai Minisztérium részvételével legalább 3 fős bírálóbizottságot hoz létre. A bírálóbizottság javaslata alapján a nyertes pályázó személyéről a magyar állam tulajdonosi jogait gyakorló szerv dönt. A pályázat eredményét nyilvánosságra kell hozni és arról valamennyi pályázót értesíteni kell.
-
-28/C. § A bányászati tevékenység gyakorlásához szükséges valamennyi engedély megszerzése során a hasznosító jár el saját nevében és költségére azzal, hogy ha az engedélyek hasznosító által történő megszerzését követően a hasznosítási szerződés bármely okból megszűnik, úgy a hasznosító jogutódja a magyar állam.
-
-28/D. § A szolgalmi jog alapítását, illetve a kisajátítást a magyar állam tulajdonosi jogait gyakorló szerv jogosult kezdeményezni a hasznosító kérésére. A szolgalmi jog alapításával és a kisajátítással kapcsolatban felmerülő kiadásokat a hasznosító köteles viselni. A kiadások összegét a hasznosító köteles a kisajátítási eljárásban a magyar állam tulajdonosi jogait gyakorló szerv részére megelőlegezni. A szolgalomalapítással érintett, illetve kisajátított ingatlan birtoklására és használatára a hasznosítási szerződés időtartama alatt a hasznosító jogosult.
-
-28/E. § A hasznosítóra az e törvény bányavállalkozóra vonatkozó rendelkezéseit megfelelően alkalmazni kell. A hasznosítóra a 41. § (2) bekezdésében és 41. § (7b) bekezdésében foglalt, a bányavállalkozóra vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a bányászati jog törlése helyett a bányafelügyelet a hasznosítási szerződés megszüntetését kezdeményezheti.”
-
-177. § A bányászatról szóló 1993. évi XLVIII. törvény „Bányászati jog hasznosításba adása” című alcíme a következő 28/F. §-sal egészül ki:
-
-„28/F. § A hasznosítási szerződés legfeljebb 20 évi időtartamra köthető, amely egy alkalommal legfeljebb további 10 évi időtartammal, a hasznosító kezdeményezésére meghosszabbítható. A hasznosítási szerződés meghosszabbítását annak lejárata előtt legalább 6 hónappal korábban kell kezdeményezni. A határidő elmulasztása esetén a szerződést meghosszabbítani nem lehet.”
-
-178. § A bányászatról szóló 1993. évi XLVIII. törvény 43/C. § (1) bekezdése a következő d) ponttal egészül ki:
-
-(A bányafelügyelet eljárása során az ügyintézési határidő)
-
-„d) a magyar állam tulajdonosi jogait gyakorló szerv igénybejelentése esetén 55 nap.”
-
-179. § A bányászatról szóló 1993. évi XLVIII. törvény 49. §-a a következő 57. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„57. Hasznosító: a magyar állam tulajdonát képező bányászati jog hasznosítására a magyar állam tulajdonosi jogait gyakorló szervvel szerződéses jogviszonyban álló személy.”
-
-180. § A bányászatról szóló 1993. évi XLVIII. törvény 50/A. § (1) bekezdése a következő 33. ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány)
-
-„33. a bányászati jog hasznosításba adására vonatkozó pályázati eljárásra, hasznosítási szerződés tartalmi követelményeire;”
-
-(vonatkozó részletes szabályok rendeletben történő megállapítására.)
-
-181. § A bányászatról szóló 1993. évi XLVIII. törvény a következő 53. §-sal egészül ki:
-
-„53. § A 28/F. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.”
+#### 181. §
 
 #### 80. A munkavédelemről szóló 1993. évi XCIII. törvény módosítása
 
-182. § A munkavédelemről szóló 1993. évi XCIII. törvény
-
-- a) 5. §-ában az „illetve a közalkalmazottak jogállásáról szóló törvényekben” szövegrész helyébe az „a közalkalmazottak jogállásáról, illetve az egészségügyi szolgálati jogviszonyban álló személyek jogállásáról szóló törvényben” szöveg,
-- b) 87. § 9. pontjában az „a közalkalmazotti jogviszonyban,” szövegrész helyébe az „a közalkalmazotti, az egészségügyi szolgálati jogviszonyban,” szöveg
-
-lép.
+#### 182. §
 
 #### 81. Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény módosítása
 
-183. § Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény 12. § (2) bekezdésében a „közalkalmazotti,” szövegrész helyébe a „közalkalmazotti, egészségügyi szolgálati,” szöveg lép.
+#### 183. §
 
 #### 82. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
-184. § A Rendőrségről szóló 1994. évi XXXIV. törvény 7. § (1) bekezdés b) pont bb) alpontja helyébe a következő rendelkezés lép:
+#### 184. §
 
-[A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv kizárólagos hatáskörrel ellátja az 1. § (2) bekezdés 14. pontjában meghatározott feladatokat. Ennek keretében:
+#### 185. §
 
-elvégzi]
-
-„bb) az egészségügyi tevékenység végzésében tanulói jogviszony alapján közreműködő személyek, valamint az egyházi jogi személy fenntartásában vagy tulajdonában álló egészségügyi szolgáltatónál foglalkoztatottak kivételével az egészségügyi szolgálati jogviszonyban állók, valamint a honvédelemért felelős miniszter irányítása alá tartozó honvédelmi egészségügyi szolgáltató személyi állományának,”
-
-([a ba)–bc) alpontban foglaltak a továbbiakban együtt: védett állomány] megbízhatósági vizsgálatát.)
-
-185. § A Rendőrségről szóló 1994. évi XXXIV. törvény 7. § (1c) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-[Az (1) bekezdés b) pont ba) alpontjától eltérően nem tartozik a védett állomány körébe]
-
-„b) a honvédelmi szervezetek foglalkoztatottja, ez a kivétel azonban nem terjed ki az (1) bekezdés b) pont bb) alpontja szerint megbízhatósági vizsgálat alá vonható, a honvédelemért felelős miniszter irányítása alá tartozó honvédelmi egészségügyi szolgáltató személyi állományára, továbbá”
-
-186. § A Rendőrségről szóló 1994. évi XXXIV. törvény 7/A. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója a honvédelemért felelős miniszter irányítása alá tartozó honvédelmi egészségügyi szolgáltató személyi állománya megbízhatósági vizsgálatát érintően végzett tevékenységéről folyamatosan tájékoztatja a Katonai Nemzetbiztonsági Szolgálat vezetőjét.”
+#### 186. §
 
 #### 83. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-187. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 251. §-a a következő (7) bekezdéssel egészül ki:
+#### 187. §
 
-„(7) A Kar testületi szerveinek ülése elektronikus hírközlő eszköz útján vagy más személyazonosítást lehetővé tevő elektronikus eszköz igénybevételével is megtartható, vagy írásbeli egyeztetésre és döntéshozatalra is sor kerülhet. Az írásbeli egyeztetés és döntéshozatal elektronikus üzenetváltással (e-mail) is történhet.”
-
-188. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény
-
-- a) 7. § (1) bekezdésében a „közalkalmazotti jogviszonyon,” szövegrész helyébe a „közalkalmazotti jogviszonyon, egészségügyi szolgálati jogviszonyon,” szöveg,
-- b) 66. § a) pontjában a „közalkalmazotti jogviszony,” szövegrész helyébe a „közalkalmazotti jogviszony, az egészségügyi szolgálati jogviszony,” szöveg
-
-lép.
+#### 188. §
 
 #### 84. A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény módosítása
 
-189. § A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. § (4) bekezdése a következő b) ponttal egészül ki:
-
-(A települési önkormányzat képviselő-testületének hatáskörébe tartozik:)
-
-„b) a háztartási tevékenységgel okozott légszennyezésre vonatkozó egyes sajátos, valamint az avar és kerti hulladék égetésére vonatkozó szabályok rendelettel történő megállapítása,”
+#### 189. §
 
 #### 85. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-190. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 4. pont e) alpontjában a „közalkalmazotti,” szövegrész helyébe a „közalkalmazotti, egészségügyi szolgálati,” szöveg lép.
+#### 190. §
 
 #### 86. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-191. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 21/A. §-a a következő (7) és (8) bekezdéssel egészül ki:
+#### 191. §
 
-„(7) A tantermen kívüli, digitális munkarendben megszervezett nevelés-oktatás, óvoda esetében a nevelési évben munkanapra az Nkt. 30. § (5) bekezdése alapján elrendelt rendkívüli szünet, valamint bölcsőde és mini bölcsőde esetében a nevelési évben munkanapra elrendelt rendkívüli zárvatartás időtartama alatt, kivéve ha az adott időtartamban a 21/C. §-ban foglaltak szerint szünidei gyermekétkeztetést kell biztosítani, az intézményi gyermekétkeztetést a szülő, más törvényes képviselő kérelmére – elvitel vagy kiszállítás formájában – az (1)–(6) bekezdés szerint kell biztosítani.
-
-(8) Ha a gyermek, tanuló a lakóhelyétől, tartózkodási helyétől eltérő településen jár bölcsődébe, mini bölcsődébe, köznevelési vagy szakképző intézménybe, és a szülő, más törvényes képviselő a gyermek számára az intézményi gyermekétkeztetést igényli, akkor azt a (7) bekezdés szerinti időtartam alatt a feladatellátásra kötelezett szerv helyett a gyermek, tanuló lakóhelye, tartózkodási helye szerinti települési önkormányzat biztosíthatja.”
-
-192. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény „Bölcsődei ellátás” alcíme a következő 42/B. §-sal egészül ki:
-
-„42/B. § Ha rendkívüli időjárás, járvány, természeti csapás vagy más elháríthatatlan ok miatt a gyermekek napközbeni ellátását biztosító szolgáltató, intézmény, vagy valamely bölcsődei csoport működtetése nem lehetséges,
-
-a) a szolgáltatóra, intézményre vagy valamely bölcsődei csoportra kiterjedően az intézményvezető, ennek hiányában a szolgáltatást nyújtó személy,
-
-b) a településen, fővárosi kerületben működő valamennyi, gyermekek napközbeni ellátását biztosító szolgáltatóra, intézményre kiterjedően a települési önkormányzat jegyzője, a fővárosban a fővárosi kerületi önkormányzat jegyzője
-
-– a fenntartó egyidejű értesítése mellett – rendkívüli zárva tartást rendel el.”
+#### 192. §
 
 #### 87. Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény módosítása
 
-193. § Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény a következő III/B. Fejezettel egészül ki:
+#### 193. §
 
-„III/B. FEJEZET
-
-EGYES JÁRVÁNYÜGYI VÉDEKEZÉST SZOLGÁLÓ PANDÉMIA-ÉRTÉKELŐ REGISZTERRE VONATKOZÓ RÉSZLETES SZABÁLYOKRÓL
-
-35/Q. § (1) Az egészségbiztosítási szerv pandémia-értékelő regisztert (a továbbiakban: regiszter) vezet a megfelelő ellátásszervezés, egyéni betegút követés, valamint a járványügyi megelőzés érdekében a hatékony oltási stratégia továbbfejlesztése és a SARS-CoV-2 vírus (a továbbiakban: koronavírus) elleni védekezés elősegítése céljából. A regiszter vezetése a (2)–(5) bekezdésben, valamint a 35/R. §-ban foglalt keretek szerint magában foglalja a regiszterben szereplő adatok felvételéhez, rögzítéséhez, rendszerezéséhez, tárolásához, felhasználásához és összekapcsolásához szükséges adatkezelési műveletek összességét.
-
-(2) A regiszter tartalmazza:
-
-a) a koronavírussal fertőzött személy
-
-aa) nevét,
-
-ab) születési idejét,
-
-ac) nemét,
-
-ad) állampolgárságát,
-
-ae) társadalombiztosítási azonosító jelét, vagy egyéb, az ellátás során használt azonosítóját,
-
-af) a koronavírus kimutatására szolgáló mintavétel időpontját,
-
-ag) a koronavírus kimutatására szolgáló mintavétel típusát,
-
-ah) a mintát vevő intézmény azonosítóját,
-
-ai) a minta elemzését végző intézmény azonosítóját,
-
-aj) a koronavírus kimutatására szolgáló molekuláris biológiai vizsgálat, antigén gyorsteszt vagy a koronavírus ellenanyag kimutatásra szolgáló szerológiai teszt eredményét,
-
-b) a koronavírussal fertőzött esetében a szükségessé vált egészségügyi ellátások adatai közül
-
-ba) az ellátóhely azonosítóját,
-
-bb) az ellátás típusát,
-
-bc) az ellátás időtartamát,
-
-bd) ha sor került intenzív ellátásra, ennek a tényét,
-
-be) a koronavírus fertőzés szövődményei megnevezését és BNO kódját,
-
-c) a Covid–19 elleni védőoltásban részesült személy a) pont szerinti adatait, a Covid–19 elleni védőoltás típusát, a Covid–19 elleni védőoltásra történő regisztráció időpontját, valamint a Covid–19 elleni védőoltás beadásának időpontjait.
-
-(3) A koronavírus fertőzési és ellátási adatokra vonatkozó adatszolgáltatás keretében
-
-a) az egészségügyi államigazgatási szerv
-
-aa) az Országos Szakmai Információs Rendszer járványügyi szakrendszerének adatbázisából,
-
-ab) a közfinanszírozott egészségügyi szolgáltatókra vonatkozó működési engedélyek adatait tartalmazó adatállományból
-
-származó adatokat,
-
-b) az EESZT működtetője az EESZT adatbázisból
-
-ba) a fekvő- és járóbeteg-szakellátást nyújtó egészségügyi szolgáltató által az EESZT-ben rögzített, általa nyújtott, tárgyhét első napját megelőző hét ellátási adatait,
-
-bb) az egészségügyi szolgáltatók által napi szinten rögzített ellátási adatokat, ideértve a (4) bekezdés szerinti megállapodásban rögzített, betegen elvégzett vizsgálatok adatait és eredményeit,
-
-bc) az egészségügyi szolgáltatók által a Covid–19 ellátásokra vonatkozóan rögzített ágykihasználtsági adatokat,
-
-bd) a (2) bekezdés c) pontja szerinti oltási adatokat,
-
-be) az U0710, U0720 BNO kód megjelölésével, valamint a (4) bekezdés szerinti megállapodásban rögzített TTT kódokhoz kapcsolódó vényfelírási és kiváltási adatokat,
-
-c) az állami mentőszolgálat hetente a sürgősségi betegellátás keretében a Covid–19 betegek ellátásához kapcsolódó adatokat, a központi ágynyilvántartó adatbázisba felvett adatokat
-
-átadja a regiszter részére.
-
-(4) A (3) bekezdés szerinti adatszolgáltatás teljesítése érdekében az egészségbiztosítási szerv a (3) bekezdés szerinti szervekkel megállapodást köt az adatszolgáltatás részletes technikai feltételei és struktúrája tekintetében.
-
-(5) Az azonos betegre a regiszterben tárolt koronavírus fertőzési és ezzel összefüggő ellátási adatokat a beteg személyének azonosításra alkalmas módon vonatkozó első adat regiszterbe történő felvételétől számított 10 év elteltével meg kell fosztani a személyes azonosítás lehetőségétől.
-
-35/R. § (1) Az egészségbiztosítási szerv a 35/Q. § (1) bekezdésében meghatározott adatkezelési cél keretei között, betegellátási érdekből, a koronavírus fertőzésből származó egészségügyi állapot nyomon követése, a fertőzés közösségi vagy egyéni kockázatainak megelőzése céljából vagy ellátásszervezési célból jogosult személy azonosításra alkalmas módon az általa jogszabály alapján kezelt, valamint a 35/Q. § (3) bekezdése szerint részére továbbított adatok összekapcsolására. Az adatok összekapcsolását az összekapcsolást megalapozó adatkezelési cél megvalósulását követően haladéktalanul meg kell szüntetni, az adatok összekapcsolásával keletkezett további adatokat a regiszterből törölni kell.
-
-(2) Az egészségbiztosítási szerv az (1) bekezdés szerint összekapcsolt adatok alapján – személyazonosításra nem alkalmas módon –, a 35/Q. § (3) bekezdése szerinti szervek közreműködésével oltási stratégiát támogató statisztikai elemzéseket készít, és azt hetente, a hét második munkanapján megküldi
-
-a) az egészségügyért felelős miniszternek,
-
-b) a járványügyi készültség során működő Operatív Törzs ügyeleti központján keresztül a rendészetért felelős miniszternek.”
-
-194. § Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 4. § (2) bekezdés o) pontjában a „közalkalmazotti,” szövegrész helyébe a „közalkalmazotti, egészségügyi szolgálati” szöveg lép.
+#### 194. §
 
 #### 88. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
-195. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 83/C. § (1) bekezdésben a „közalkalmazotti jogviszonyban,” szövegrész helyébe a „közalkalmazotti jogviszonyban, egészségügyi szolgálati jogviszonyban,” szöveg lép.
+#### 195. §
 
 #### 89. A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény módosítása
 
-196. § A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény 4. § (2) bekezdés x) pontjában a „közalkalmazotti,” szövegrész helyébe a „közalkalmazotti, egészségügyi szolgálati,” szöveg lép.
+#### 196. §
 
 #### 90. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
 
-197. § (1) A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 31. § (1) bekezdés h) pontja helyébe a következő rendelkezés lép:
+#### 197. §
 
-(Az egészségügyi szolgáltatóval kötött finanszírozási szerződésben meg kell határozni)
+#### 198. §
 
-„h) a szerződés hatályát, a módosítására és felmondására vonatkozó rendelkezéseket,”
+#### 199. §
 
-(2) A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 31. § (1) bekezdése a következő i) ponttal egészül ki:
-
-(Az egészségügyi szolgáltatóval kötött finanszírozási szerződésben meg kell határozni)
-
-„i) a szerződés megszegése esetén követendő eljárást, ideértve a szerződésszegésen alapuló igények érvényesítési rendjét is.”
-
-(3) A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 31. §-a a következő (11) bekezdéssel egészül ki:
-
-„(11) Járványügyi készültség idején az egészségbiztosító a határozott időre kötött finanszírozási szerződést – egyoldalúan – a határozott idő lejárta előtt is felmondhatja.”
-
-198. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény a következő 44/A. §-sal egészül ki:
-
-„44/A. § Az a biztosított, aki részére magánútlevéllel, valamint egyéb úti okmánnyal végrehajtott, nem hivatalos célú külföldről Magyarország területére történő beutazáskor az egészségügyről szóló 1997. évi CLIV. törvény 67/A. § (1) bekezdés a) pontja alapján hatósági házi karantént rendeltek el, nem minősül keresőképtelennek.”
-
-199. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 50. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Ha a keresőképtelenség igazolhatóan az egészségügyi ellátás SARS-CoV2 járványhelyzethez kapcsolódó felfüggesztése okán egy éven túl is fennáll, a táppénz méltányosságból a veszélyhelyzet megszűnését követő legfeljebb hatodik hónap végéig folyósítható.”
-
-200. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény
-
-- a) 19. § (3) bekezdésben a „nem munkaviszonyban, illetve közalkalmazotti jogviszonyban” szövegrész helyébe a „nem munkaviszonyban, közalkalmazotti jogviszonyban, illetve egészségügyi szolgálati jogviszonyban” szöveg,
-- b) 27. § (5) és (7) bekezdésben a „biztosi vagy közalkalmazotti jogviszonyban,” szövegrész helyébe a „biztosi, közalkalmazotti vagy egészségügyi szolgálati jogviszonyban,” szöveg
-
-lép.
+#### 200. §
 
 #### 91. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
-201. § Az egészségügyről szóló 1997. évi CLIV. törvény 3/A. §-a a következő e) és f) ponttal egészül ki:
+#### 201. §
 
-(E törvény alkalmazásában)
+#### 202. §
 
-„e) alapvető munkáltatói jog: a foglalkoztatási jogviszony létrehozása és megszüntetése, a vezetői megbízatás adása és visszavonása, az illetmény megállapítása és módosítása, valamint a fegyelmi jogkör gyakorlása;
+#### 203. §
 
-f) egyéb munkáltatói jog: mindazon munkáltatói jogkörök, amelyek nem minősülnek alapvető munkáltatói jognak.”
+#### 204. §
 
-202. § Az egészségügyről szóló 1997. évi CLIV. törvény IV. Fejezete a 106. §-át követően a következő alcímmel egészül ki:
+#### 205. §
 
-„Arcképes azonosításra épülő telemedicina szolgáltatás
+#### 206. §
 
-106/A. § (1) Az egészségügyi szolgáltató a miniszter által meghatározott telemedicina útján nyújtható egészségügyi szolgáltatásokat (a továbbiakban: telemedicina szolgáltatás) – ha az ellátás sajátosságai és orvosszakmai megítélése az arcképes azonosítást indokolttá teszik – arcképes azonosítást biztosító, videojel és hang továbbítására alkalmas infokommunikációs eszköz (a továbbiakban: arcképes azonosítást biztosító videotechnológia) útján is nyújthatja.
+#### 207. §
 
-(2) A miniszter rendeletében előírhatja, hogy egyes telemedicina szolgáltatások esetében kötelező az arcképes azonosítást biztosító videotechnológia használata.
+#### 208. §
 
-(3) Az egészségügyi szolgáltató abban az esetben ajánlja fel a beteg számára az arcképes azonosítást biztosító videotechnológia útján történő telemedicina szolgáltatást, ha a betegadatok védelme, a beteg egyes tüneteinek vizsgálata vagy az ellátás jellege miatt egyéb telemedicina szolgáltatás útján az ellátás nem lenne kivitelezhető.
+#### 209. §
 
-(4) Az egészségügyi szolgáltató egyes, egészségügyi dolgozó jelenlétét igénylő ellátásokat úgy is biztosíthat telemedicina szolgáltatás útján, hogy
-
-a) az orvosi, fogorvosi, szakorvosi, szakfogorvosi végzettséget igénylő egészségügyi ellátás esetében az orvos, fogorvos, szakorvos a beteggel arcképes azonosítást biztosító videotechnológia útján tartja a kapcsolatot, és
-
-b) az ellátásban egészségügyi dolgozó személyesen közreműködik.
-
-(5) A (4) bekezdés szerinti telemedicina szolgáltatás esetében a (4) bekezdés b) pontja szerinti egészségügyi dolgozót az egészségügyi szolgáltató képviselőjének kell tekinteni.
-
-106/B. § (1) Arcképes azonosítást biztosító videotechnológia használata esetén a videojel segítségével az informatikai rendszer a beteg személyazonosság igazolására alkalmas hatósági igazolványából (a továbbiakban: okmány) kiolvasott természetes személyazonosító adatokat, és az okmányszámot összeveti az okmányt nyilvántartó központi nyilvántartásban szereplő természetes személyazonosító adatokkal, ellenőrzi az okmány érvényességét, valamint az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 9/B. alcíme szerinti automatizált összehasonlítás igénybevételével az ügyfélről videojel útján készült arckép és a személyiadat- és lakcímnyilvántartásban szereplő, a személyazonosság ellenőrzésével érintett személy utolsó alkalommal nyilvántartásba vett arcképmásának az egymással történő megfeleltethetőségét. A nyilvántartásban szereplő adatok egyezősége, az okmány érvényessége, valamint az egyezőség feltételeként meghatározott értékszám elérése esetén az azonosítás sikeres.
-
-(2) Az (1) bekezdés szerinti azonosítást követően az e-közigazgatásért felelős miniszter automatikus információátadás útján – szükség esetén az összerendelési nyilvántartás szolgáltatás bevonásával – a személyiadat- és lakcímnyilvántartásból a beteg természetes személyazonosító adatait és lakcímét, valamint az összerendelési nyilvántartás útján a Társadalombiztosítási Azonosító Jelet átveszi, és azokat az egészségügyi szolgáltató részére átadja.
-
-(3) Ha az (1) bekezdés szerinti azonosítás sikertelen, arcképes azonosítást biztosító videotechnológia útján végzett telemedicina szolgáltatásnak nincs helye.
-
-(4) A (3) bekezdés szerinti esetben az egészségügyi szolgáltató az ellátást személyes jelenlét útján vagy egyéb telemedicina szolgáltatás útján biztosítja azzal, hogy egyéb telemedicina szolgáltatás a 106/A. § (3) bekezdése szerinti feltételek fennállása esetében csak a 106/A. § (4) bekezdése szerinti módon végezhető azzal, hogy az ezen alcím szerinti arcképes azonosítás elhagyható.
-
-106/C. § (1) Az arcképes azonosítást biztosító videotechnológiához szükséges informatikai rendszert – az azonosítási rendszer tekintetében az e-közigazgatásért felelős miniszter bevonásával – az EESZT működtetője teszi elérhetővé térítésmentesen az EESZT-hez csatlakozott egészségügyi szolgáltatók részére.
-
-(2) Az e-közigazgatásért felelős miniszter a beteg természetes személyazonosító adatait, lakcímét, arcképmását, az okmány adatait, valamint a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 10/A. § (4) bekezdése szerinti titkosított összerendelési kapcsolati kódot az azonosítás és az adatátadás idejéig kezeli, azokat az okmányt nyilvántartó központi nyilvántartásból átveheti, valamint jogosult az okmányról készült másolatot készíteni és azt az azonosítás és az adatátadás idejéig kezelni.”
-
-203. § Az egészségügyről szóló 1997. évi CLIV. törvény 108. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Az egészségügyi szolgáltatók jogszabályban meghatározott szempontok szerinti elnevezés használatára jogosultak.”
-
-204. § (1) Az egészségügyről szóló 1997. évi CLIV. törvény 110. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) Egészségügyi tevékenységet önállóan az a működési nyilvántartásba bejegyzett személy végezhet, aki
-
-a) az adott tevékenység folytatására jogosító egészségügyi szakképesítéssel rendelkezik, vagy egészségügyi felsőfokú szakirányú szakképzésének teljesítése során, miniszteri rendeletben foglaltak alapján az adott egészségügyi tevékenység önálló végzésére feljogosító kompetenciát szerzett, és
-
-b) az adott szakképesítés tekintetében a kötelező továbbképzési kötelezettségét teljesítette vagy a továbbképzési kötelezettség teljesítése alól e törvény szerint mentesült. A (4), (4a), (10) és (10a) bekezdésében szereplő személyek működési nyilvántartásba történő bejegyzés hiányában is jogosultak önálló egészségügyi tevékenység végzésére.
-
-(3) Az adott tevékenység folytatására jogosító egészségügyi szakképesítéssel rendelkező, a (2) bekezdés b) pontja szerinti feltételekkel rendelkező személy felügyelete mellett – a (25) bekezdésben foglalt eltéréssel – végezhet egészségügyi tevékenységet az a személy,
-
-a) aki a szakképesítése megszerzéséhez szükséges képzésben vesz részt – a (3a) bekezdésben foglaltak kivételével –,
-
-b) akit a működési nyilvántartásból a 113/A. § (1) bekezdése alapján töröltek, a törlés okának megszűnését vagy megszüntetését követően, a működési nyilvántartásba történő visszakerülése érdekében, az ahhoz szükséges ideig, de legfeljebb három évig,
-
-c) aki működési nyilvántartását e törvényben és jogszabályokban foglalt módon határidőben nem újította meg, vagy működési nyilvántartása lejárt és meghosszabbítási kérelmét véglegesen elutasították, legfeljebb három évig,
-
-d) aki külön törvény szerint, megfelelő szakképesítés nélkül az egészségügyi tevékenység végzésében közreműködik.”
-
-(2) Az egészségügyről szóló 1997. évi CLIV. törvény 110. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A (3) bekezdés a) pontjától eltérően az egészségügyi felsőfokú szakirányú szakképzésben részt vevő személy önállóan végezhet egészségügyi tevékenységet mindazon kompetenciák tekintetében, amelynek gyakorlására miniszteri rendelet alapján a szakképzése részét képező vizsga során felhatalmazást szerzett.”
-
-(3) Az egészségügyről szóló 1997. évi CLIV. törvény 110. § (5) és (6) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(5) Egészségügyi tevékenységben a (3) bekezdés alapján felügyelet mellett közreműködő személy csak a szakmai felügyeletet ellátó személy utasítása szerint működhet közre. A felügyeletet gyakorló személy utasítási joga – ide nem értve a munkáltatói utasítási joggyakorlást – csak a szakképesítésének megfelelő körben gyakorolható.
-
-(6) Az az (5) bekezdésben meghatározott személy, aki az egészségügyi tevékenységben nem a szakképesítésének, vagy megszerzett, önállóan is gyakorolható kompetenciáinak megfelelő körben működik közre, tevékenységét csak előzetes és megfelelő oktatását követően kezdheti meg, illetve folytathatja.”
-
-205. § Az egészségügyről szóló 1997. évi CLIV. törvény 116/B. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az egészségügyi ellátás megfelelő szakmai színvonalának biztosítása érdekében – a megszerzett ismeretek és készségek folyamatos szinten tartása, fejlesztése érdekében, a tudomány korszerű színvonalának és az egészségügyi ellátás igényeinek megfelelően – az egészségügyi szakképesítéssel rendelkező személyek (a továbbiakban: továbbképzésre kötelezett) egészségügyi szakmai továbbképzésben (a továbbiakban: továbbképzés) kötelesek részt venni.”
-
-206. § (1) Az egészségügyről szóló 1997. évi CLIV. törvény 116/A. § (6) és (7) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(6) Az egészségügyi felsőfokú szakirányú szakképzésről szóló kormányrendeletben foglalt támogatás folyósításának a feltétele a képzésben részt vevő személyt foglalkoztató egészségügyi szolgáltató és az egészségügyi felsőoktatási intézmény által havonta az egészségügyi államigazgatási szerv részére elektronikus úton történő tájékoztatás a képzésben részt vevő személynek az (5) bekezdés d) pontja szerinti adatairól.
-
-(7) Az
-
-a) (5) bekezdés a) pontjában foglalt adatok közül a természetes személyazonosító adatokban bekövetkezett változást a jelölt,
-
-b) (5) bekezdés b) és c) pontja szerinti adatokban bekövetkezett változást a felsőoktatási intézmény és
-
-c) (5) bekezdés e) pontja szerinti adatokban bekövetkezett változást a képzésben részt vevő személyt foglalkoztató egészségügyi szolgáltató
-
-a változás bekövetkezésétől számított 15 napon belül köteles bejelenteni az egészségügyi államigazgatási szerv részére.”
-
-(2) Az egészségügyről szóló 1997. évi CLIV. törvény 116/A. § (7b) bekezdése helyébe a következő rendelkezés lép:
-
-„(7b) A (7) bekezdés c) pontja szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a képzésben részt vevő személyt foglalkoztató egészségügyi szolgáltató kéri – a (7) bekezdés szerinti határidőben értesíti az egészségügyi államigazgatási szervet.”
-
-207. § Az egészségügyről szóló 1997. évi CLIV. törvény 150. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A miniszter az e törvényben foglaltaknak, valamint a Kormány egészségpolitikai döntéseinek megfelelően ellátja az egészségügy ágazati irányítását. Így különösen
-
-a) meghatározza az egészségügyi szolgáltatás nyújtásához szükséges szakmai minimumfeltételeket és az egészségügyi szolgáltatások szakmai követelményrendszerét,
-
-b) ellátja az egészségügyi képzéssel, szakképzéssel, szakirányú szakképzéssel és továbbképzéssel összefüggő, jogszabályban meghatározott szakmai feladatokat,
-
-c) meghatározza az egészségpolitikai stratégiákat, koordinálja, szervezi és értékeli a nemzeti egészségügyi programokat és a prevenciós programokat,
-
-d) összehangolja az egészségügyi ágazat feladatkörét érintő tudományos kutatótevékenységet,
-
-e) meghatározza az egészségügyi tevékenység ágazati irányításához és egységes működéséhez szükséges nyilvántartási és információs rendszerek működésének szakmai kereteit,
-
-f) egészségügyi szakmai módszertani irányítási feladatokat lát el,
-
-g) kapcsolatot tart a nem állami fenntartású egészségügyi szolgáltatók fenntartóival, figyelemmel kíséri és véleményezi azok szakmai fejlesztési programját, továbbá egységes szempontok kidolgozásával irányítja az intézményfelügyeleti tevékenység végzését,
-
-h) meghatározza és összehangolja a gyógyszerek, gyógyászati segédeszközök, orvostechnikai eszközök előállításával, forgalmazásával és rendelésével kapcsolatos tevékenységeket,
-
-i) meghatározza az egészségügyi rendszer teljesítményértékelésére vonatkozó részletes szabályokat, a teljesítményértékelés intézményrendszerét, az egyes indikátorok meghatározásának és gyűjtésének, valamint az egészségpolitikai döntéshozatal során az értékelések felhasználásának szabályait,
-
-j) irányítja az egészségügyi szakmai kollégium működését,
-
-k) kidolgozza jogszabály alapján az egészségügyi szakmai irányelveket.”
-
-208. § Az egészségügyről szóló 1997. évi CLIV. törvény a következő 151/B. §-sal és az azt megelőző alcím címmel egészül ki:
-
-„Az állami fenntartású egészségügyi intézményeket irányító miniszter feladatai
-
-151/B. § (1) Az állami fenntartású fekvőbeteg-szakellátó egészségügyi intézmények fenntartója és irányítója a Kormány által kijelölt miniszter azzal, hogy az egyes fenntartói jogokat és irányítói hatásköröket a 154/A. § szerinti egészségügyi szolgáltatás irányításáért felelős szerv és az irányító megyei intézmények közreműködésével gyakorolja.
-
-(2) Az (1) bekezdés alá nem tartozó állami fenntartású egészségügyi intézmények tekintetében a fenntartó és az irányító az egészségügyért felelős miniszter azzal, hogy egyes fenntartói jogok és irányítói hatáskörök – az e törvényben meghatározott kivétellel – jogszabályban meghatározottak szerint átadhatóak.
-
-(3) Az (1) és (2) bekezdésben foglaltak nem alkalmazandóak a rendvédelmi feladatokat ellátó szervnél működő, állami fenntartású egészségügyi intézményekre.”
-
-209. § Az egészségügyről szóló 1997. évi CLIV. törvény a következő 154/A. §-sal és az azt megelőző alcímmel egészül ki:
-
-„Az egészségügyi szolgáltatás irányításáért felelős szerv feladatai
-
-154/A. § (1) Az egészségügyi szolgáltatás irányításáért felelős szerv az e törvényben és a Kormány rendeletében meghatározottak szerint közreműködik a 151/B. § (1) bekezdése szerinti egészségügyi intézmények tekintetében a Kormány által kijelölt miniszter fenntartói és irányítási jogköreinek gyakorlásában.
-
-(2) Az egészségügyi szolgáltatás irányításáért felelős szervet a Kormány rendeletében jelöli ki.
-
-(3) Az egészségügyi szolgáltatás irányításáért felelős szerv jogállását és feladatait a Kormány rendeletben határozza meg.
-
-(4) Az egészségügyi szolgáltatás irányításáért felelős szervet irányító minisztert a Kormány rendeletben jelöli ki.
-
-(5) Az egészségügyi szolgáltatás irányításáért felelős szerv vezetője és annak helyettesei részére a miniszter, az igazgatók részére az egészségügyi szolgáltatás irányításáért felelős szerv vezetője személyi illetményt állapíthat meg. Az egészségügyi szolgáltatás irányításáért felelős szerv vezetője, annak helyettesei, valamint az igazgatók személyi illetménye legkisebb és legnagyobb összegét a Kormány rendeletben állapítja meg.”
-
-210. § (1) Az egészségügyről szóló 1997. évi CLIV. törvény 155. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdésben foglaltakon túl az egészségügyi intézmény fenntartójának hatáskörébe tartozik (a továbbiakban: szakmai fenntartói jogkörök):
-
-a) az egészségügyi intézmény által kötendő egészségügyi ellátási szerződés jóváhagyása,
-
-b) az egészségügyi intézmény kapacitásainak átcsoportosításával, csökkentésével, illetve szakmai összetételével kapcsolatos módosítás kezdeményezése,
-
-c) az egészségügyi intézmény ellátási területe módosításának kezdeményezése,
-
-d) váratlan esemény vagy előre nem látható módon bekövetkező ellátási szükséglet miatt szükséges többletkapacitásra kötendő finanszírozási szerződés kezdeményezése,
-
-e) az egészségügyi intézmény az Egészségbiztosítási Alapból származó bevételeit tartalmazó számla megterheléséhez való hozzájárulás az Ebtv., valamint az ennek végrehajtására kiadott kormányrendelet szerint meghatározott esetben,
-
-f) az egészségügyi intézmény működési engedélyének módosítása iránti kérelem előzetes jóváhagyása az egészségügyi szolgáltató által végezhető szakmák, az ellátás progresszivitási szintje és formája, az ágyszám és a heti óraszám tekintetében,
-
-g) az egészségügyi intézmény működési engedélyében szereplő egészségügyi szolgáltatás szüneteltetéséhez és annak meghosszabbításához való hozzájárulás, ha azt jogszabály a szüneteltetés és annak meghosszabbítása feltételeként előírja, valamint
-
-h) az egészségügyi intézmények belső minőségügyi rendszerének összehangolása, egységes szakmai minőségértékelési rendszer működtetése.”
-
-(2) Az egészségügyről szóló 1997. évi CLIV. törvény 155. § (3)–(6) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(3) A 151/B. § (1) bekezdése szerinti egészségügyi intézmények esetében – a 156/A. §-ban foglalt kivétellel –
-
-a) a miniszter jogkörébe tartozik az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének javaslatára az alapítói jogok – létesítés, átalakítás, megszüntetés – gyakorlása,
-
-b) a Kormány által kijelölt miniszter jogkörébe tartozik az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének javaslatára a megyeszékhelyen, illetve megyei jogú városban székhellyel rendelkező, fekvőbeteg- szakellátást nyújtó egészségügyi intézmény (a továbbiakban: megyei intézmény) vezetője tekintetében vezetői megbízás adása és a vezetői megbízás visszavonása.
-
-(4) A 151/B. § (2) bekezdése szerinti egészségügyi intézmények esetében a miniszter kizárólagos jogkörébe tartozik az alapítói jogok – létesítés, átalakítás, megszüntetés – gyakorlása.
-
-(5) A miniszter törvényességi, szakszerűségi, hatékonysági és pénzügyi szempontból ellenőrzi
-
-a) a 151/B. § (1) bekezdése szerinti egészségügyi intézményeknek az egészségügyi szolgáltatás irányításáért felelős szerv általi irányítását,
-
-b) az egészségügyi szolgáltatás irányításáért felelős szerv közreműködésével a 151/B. § (1) bekezdése szerinti egészségügyi intézmények működését.
-
-(6) A megyei intézmény tekintetében az egészségügyi szolgáltatás irányításáért felelős szerv vezetője gyakorolja:
-
-a) az (1) bekezdés a), c), f) és g) pontja szerinti, valamint az (1a) bekezdés szerinti jogköröket,
-
-b) a jogszabályban meghatározott mértékű kapacitás módosulását eredményező szervezeti változások jóváhagyását, és
-
-c) a költségvetési irányítás tekintetében az intézmények éves költségvetési keretszámainak megállapítását és költségvetésének jóváhagyását, valamint az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) és a végrehajtási rendelete alapján az irányító szerv jogkörébe tartozó intézkedések megtételét.”
-
-(3) Az egészségügyről szóló 1997. évi CLIV. törvény 155. §-a a következő (7)–(22) bekezdéssel egészül ki:
-
-„(7) Az egészségügyi szakellátási kapacitással és ellátási területtel kapcsolatos döntéshozatal során az egészségügyi államigazgatási szervnek az egészségügyi szolgáltatás irányításáért felelős szerv vezetője által az (1a) bekezdés b) és c) pontja alapján előterjesztett kezdeményezésnek megfelelően kell eljárnia.
-
-(8) A megyei intézmény vezetője felett az alapvető és az egyéb munkáltatói jogokat – a (3) bekezdés b) pontja szerinti kivétellel – az egészségügyi szolgáltatás irányításáért felelős szerv vezetője gyakorolja.
-
-(9) A megyei intézmény (8) bekezdés alá nem tartozó foglalkoztatottjai tekintetében
-
-a) az alapvető munkáltatói jogokat az egészségügyi szolgáltatás irányításáért felelős szerv vezetője,
-
-b) az egyéb munkáltatói jogokat a megyei intézmény vezetője
-
-gyakorolja.
-
-(10) Az állami fenntartású, megyei intézménynek nem minősülő és a (15), (17) és (18) bekezdés, valamint a 151/B. § (2) bekezdése hatálya alá nem tartozó egészségügyi intézmény (a továbbiakban: városi intézmény) irányítási szempontból ahhoz a megyei intézményhez (ide nem értve a megyei jogú városban székhellyel rendelkező megyei intézményt) tartozik, amelyik megyei intézmény székhelye szerinti megyében a városi intézmény székhelye található azzal, hogy azokban a megyékben, ahol irányítási joggal rendelkező megyei intézmény nem működik, a megyében működő egészségügyi felsőoktatási intézmény klinikai központját kell megyei intézmény alatt érteni (a továbbiakban: irányító megyei intézmény).
-
-(11) A városi intézmény tekintetében a (10) bekezdés szerinti irányító megyei intézmény vezetője gyakorolja a (6) bekezdés szerinti jogköröket azzal, hogy a (7) bekezdést kell alkalmazni az irányító megyei kórház vezetője által tett kezdeményezésekre is.
-
-(12) A városi intézmény vezetője tekintetében
-
-a) az alapvető munkáltatói jogokat az egészségügyi szolgáltatás irányításáért felelős szerv vezetője,
-
-b) az egyéb munkáltatói jogokat az irányító megyei intézmény vezetője
-
-gyakorolja.
-
-(13) A városi intézmény (12) bekezdés alá nem tartozó foglalkoztatottjai tekintetében
-
-a) az alapvető munkáltató jogokat az irányító megyei intézmény vezetője,
-
-b) az egyéb munkáltató jogokat a városi intézmény vezetője
-
-gyakorolja.
-
-(14) Az egészségügyi szolgáltatás nyújtásához szükséges szakmai feltételek, valamint az egészségügyi intézmény működőképességének biztosítása
-
-a) az egészségügyi szolgáltatás irányításáért felelős szerv vezetője felelősségi körébe tartozik a megyei intézmény tekintetében,
-
-b) az irányító megyei intézmény vezetője felelősségi körébe tartozik a városi intézmény tekintetében.
-
-(15) Az országos gyógyintézetek és országos társgyógyintézetek vonatkozásában az (1)–(14) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy:
-
-a) az országos gyógyintézet és az országos társgyógyintézet vezetőjét – az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének javaslatára – a miniszter nevezi ki és menti fel,
-
-b) a (6) bekezdés alkalmazásában megyei intézménynek az országos gyógyintézet minősül,
-
-c) az országos gyógyintézet vezetője felett az alapvető munkáltatói jogokat és az egyéb munkáltatói jogokat – az a) pont szerinti kivétellel – az egészségügyi szolgáltatás irányításáért felelős szerv vezetője gyakorolja,
-
-d) az országos gyógyintézet c) pont alá nem tartozó foglalkoztatottjai felett az alapvető munkáltatói jogokat az egészségügyi szolgáltatás irányításáért felelős szerv vezetője, az egyéb munkáltatói jogokat az országos gyógyintézet vezetője gyakorolja,
-
-e) az egészségügyi szolgáltatás irányításáért felelős szerv felelősségi körébe tartozik az országos gyógyintézet tekintetében az egészségügyi szolgáltatás nyújtásához szükséges szakmai feltételek, valamint a gyógyintézet működőképességének biztosítása,
-
-f) az országos társgyógyintézet tevékenységét a Kormány rendeletében meghatározott országos gyógyintézet irányítása alatt gyakorolja,
-
-g) az országos társgyógyintézet tekintetében a (6) bekezdése szerinti jogköröket az országos gyógyintézet vezetője gyakorolja,
-
-h) az országos társgyógyintézet vezetője tekintetében az alapvető munkáltatói jogokat – a) pont szerinti kivétellel – egészségügyi szolgáltatás irányításáért felelős szerv vezetője, az egyéb munkáltatói jogokat az országos gyógyintézet vezetője gyakorolja,
-
-i) az országos társgyógyintézet h) pont alá nem tartozó foglalkoztatottjai felett az alapvető munkáltatói jogokat az országos gyógyintézet vezetője, az egyéb munkáltatói jogokat az országos társgyógyintézet vezetője gyakorolja.
-
-(16) A (8), (9), (12), (13) bekezdés és a (15) bekezdés c), d), h) és i) pontja szerinti munkáltatói jogok gyakorlása az egészségügyi szolgáltatás irányításáért felelős szerv által kiadott szabályzatban foglaltak szerint átruházható.
-
-(17) A Budapesten és Pest megyében működő állami tulajdonú és fenntartású egészségügyi szakellátást nyújtó egészségügyi intézményekre az (1)–(14) és a (16) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a Kormány rendeletben határozza meg az irányító jogkört gyakorló egészségügyi intézményeket és az általuk irányított egészségügyi intézményeket.
-
-(18) Törvényben vagy a Kormány rendeletében meghatározott eltérésekkel kell alkalmazni az (1)–(16) bekezdésben foglaltakat
-
-a) az egyidejűleg több ágazat irányítása alá tartozó országos gyógyintézet,
-
-b) az orvos- és egészségtudományi képzést folytató egyetem részeként működő klinikai központ
-
-fenntartására és irányítására.
-
-(19) Nem alkalmazandóak
-
-a) az (1)–(17) bekezdésben foglaltak
-
-aa) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 80. § 11a. pontja szerinti honvédelmi egészségügyi szolgáltató irányítása alá tartozó, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltató,
-
-ab) a rendvédelmi feladatokat ellátó szervnél működő egészségügyi szolgáltató,
-
-b) a (2)–(17) bekezdésben foglaltak a Hvt. 80. § 11a. pontja szerinti honvédelmi egészségügyi szolgáltató
-
-fenntartására és irányítására.
-
-(20) Egészségügyi válsághelyzetben a Kormány rendeletében az állam tulajdonában és fenntartásában működő egészségügyi intézmények fenntartása és irányítása tekintetében az (1)–(18) bekezdésben foglaltaktól eltérő szabályokat állapíthat meg.
-
-(21) Az önkormányzati fenntartású, járóbeteg-szakellátást nyújtó egészségügyi intézmény tekintetében az (1a) bekezdés a)–d) és f)–h) pontja szerinti szakmai fenntartói jogköröket az az irányító megyei intézmény gyakorolja, amelyik székhelye szerinti megye területén a járóbeteg-szakellátást nyújtó egészségügyi intézmény székhelye található.
-
-(22) A Budapesten és Pest megyében működő önkormányzati fenntartású járóbeteg-szakellátást nyújtó egészségügyi intézményekre a (21) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a Kormány rendeletben határozza meg az irányító jogkört gyakorló egészségügyi intézményeket és az általuk irányított egészségügyi intézményeket.”
+#### 210. §
 
 #### 211. §
 
-212. § Az egészségügyről szóló 1997. évi CLIV. törvény VII. Fejezete a következő 156/B. §-sal és az azt megelőző alcím címmel egészül ki:
+#### 212. §
 
-„A honvédelmi egészségügyi szolgáltató irányítása alá tartozó, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltatók irányítására vonatkozó rendelkezések
+#### 213. §
 
-156/B. § (1) A Hvt. 80. § 11b. pontja szerinti honvédelmi egészségügyi szolgáltató szervezeti egység vezetője a honvédelmi egészségügyi szolgáltató irányítása alá tartozó, a Kormány rendeletében meghatározott, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltató (a továbbiakban: honvédelmi irányítású egészségügyi szolgáltató) vonatkozásában – a honvédelemért felelős miniszter felügyelete mellett – gyakorolja a (2)–(9) bekezdés szerinti jogköröket.
+#### 214. §
 
-(2) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetője gyakorolja – az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének előzetes egyetértésével – a honvédelmi irányítású egészségügyi szolgáltató felett az alábbi jogköröket:
-
-a) az egészségügyi szolgáltató kapacitásainak átcsoportosításával, csökkentésével, illetve szakmai összetételével kapcsolatos módosítás kezdeményezése,
-
-b) az egészségügyi szolgáltató ellátási területe módosításának kezdeményezése,
-
-c) az egészségügyi szolgáltató az Egészségbiztosítási Alapból származó bevételeit tartalmazó számla megterheléséhez való hozzájárulás a kötelező egészségbiztosítás ellátásairól szóló törvény, valamint az ennek végrehajtására kiadott kormányrendelet szerint meghatározott esetben,
-
-d) az egészségügyi szolgáltatót működési engedélyének módosítása iránti kérelem előzetes jóváhagyása az egészségügyi szolgáltató által végezhető szakmák, az ellátás progresszivitási szintje és formája, az ágyszám és az óraszám tekintetében,
-
-e) az egészségügyi szolgáltató működési engedélyében szereplő egészségügyi szolgáltatás szüneteltetéséhez és annak meghosszabbításához való hozzájárulás, ha azt jogszabály a szüneteltetés és annak meghosszabbítása feltételeként előírja,
-
-f) az alapítói jogok – létesítés, átalakítás, megszüntetés – gyakorlása, és
-
-g) a jogszabályban meghatározott mértékű kapacitás módosulását eredményező szervezeti változások jóváhagyása.
-
-(3) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetője gyakorolja – az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjével együttműködve – a honvédelmi irányítású egészségügyi szolgáltató felett az alábbi jogköröket:
-
-a) az egészségügyi szolgáltató szakmai felügyelete,
-
-b) az egészségügyi szolgáltató költségvetésével kapcsolatos, jogszabályban meghatározott, az irányító szerv jogkörébe tartozó jogok gyakorlása,
-
-c) az egészségügyi szolgáltató működését szabályozó dokumentumok (pl. szervezeti és működési szabályzat, házirend, szakmai program, munkaterv) jóváhagyása,
-
-d) az egészségügyi szolgáltató által kötendő egészségügyi ellátási szerződés jóváhagyása,
-
-e) váratlan esemény vagy előre nem látható módon bekövetkező ellátási szükséglet miatt szükséges többletkapacitásra kötendő finanszírozási szerződés kezdeményezése,
-
-f) a költségvetési irányítás tekintetében az intézmények éves költségvetési keretszámainak megállapítása és költségvetésének jóváhagyása, valamint az Áht. és a végrehajtási rendelete alapján az irányító szerv jogkörébe tartozó intézkedések megtétele,
-
-g) az egészségügyi szolgáltató irányításának és működésének törvényességi, szakszerűségi, hatékonysági és pénzügyi szempontú ellenőrzése, és
-
-h) a belső minőségügyi rendszerek összehangolása, egységes szakmai minőségértékelési rendszer működtetése.
-
-(4) A honvédelmi egészségügyi szolgáltató szervezeti egységének vezetője a (2) bekezdés szerinti egyetértési kezdeményezést előzetesen az egészségügyi szolgáltatás irányításáért felelős szerv vezetője felé továbbítja, aki az egyetértési jogkörében a megkeresés beérkezésétől számított 15 napon belül – indok megjelölésével – kifogást tehet. A kifogásolt döntési javaslat nem fogadható el, nem hajtható végre. A határidő eredménytelen eltelte esetén az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének egyetértését vélelmezni kell.
-
-(5) A (4) bekezdés szerinti kezdeményezési jogát a honvédelmi egészségügyi szolgáltató szervezeti egység vezetője a Hvt. 46/A. § (3) bekezdése szerinti katonai összekötő útján gyakorolja.
-
-(6) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjének felelősségi körébe tartozik a honvédelmi irányítású egészségügyi szolgáltató tekintetében az egészségügyi szolgáltatás nyújtásához szükséges szakmai feltételek, valamint az egészségügyi szolgáltató működőképességének biztosítása. A honvédelmi egészségügyi szolgáltató szervezeti egység vezetője kikérheti az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének álláspontját a honvédelmi irányítású egészségügyi szolgáltató szakmai feltételeinek és működőképességének biztosítása érdekében szükséges intézkedések vonatkozásában. Az egészségügyi szolgáltatás irányításáért felelős szerv vezetője köteles érdemben megvizsgálni és állásfoglalást adni a megkeresésre.
-
-(7) A honvédelmi irányítású egészségügyi szolgáltató vezetője tekintetében
-
-a) az alapvető munkáltatói jogokat az egészségügyi szolgáltatás irányításáért felelős szerv vezetője,
-
-b) az egyéb munkáltatói jogokat a honvédelmi egészségügyi szolgáltató szervezeti egységének vezetője
-
-gyakorolja azzal, hogy a munkáltatói jogok gyakorlása átruházható.
-
-(8) A honvédelmi irányítású egészségügyi szolgáltató vezető-helyettese és a honvédelmi irányítású egészségügyi szolgáltató foglalkoztatottjai felett
-
-a) az alapvető munkáltatói jogokat a honvédelmi egészségügyi szolgáltató szervezeti egységének vezetője,
-
-b) az egyéb munkáltatói jogokat pedig a honvédelmi irányítású egészségügyi szolgáltató vezetője
-
-gyakorolja azzal, hogy a munkáltatói jogok gyakorlása átruházható.
-
-(9) A munkáltatói jogok
-
-a) a (7) bekezdés a) pontja esetében a honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjére,
-
-b) a (7) bekezdés b) pontja és a (8) bekezdés a) pontja esetében a Hvt. 46/A. § (2) bekezdése szerinti, a honvédelmi egészségügyi szolgáltató szervezeti egységen belül erre létrehozott, önálló, magasabb vezetői munkakörbe, vagy ennek megfelelő szolgálati beosztásba kinevezett vagy megbízott személyre,
-
-c) a (8) bekezdés b) pontja esetében a honvédelmi irányítású egészségügyi szolgáltató vezetője által meghatározott vezető munkakörű személyre
-
-ruházhatók át.”
-
-213. § Az egészségügyről szóló 1997. évi CLIV. törvény 231. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Ha az egészségügyi válsághelyzet felszámolásában vagy a védekezésben részt vevő, közfeladatot ellátó szerv vagy személy a védekezést elősegítő orvostechnikai eszközt, egyéni védőeszközt vagy más eszközt saját hatáskörben igazoltan nem vagy csak aránytalanul költségesen tud beszerezni, kezdeményezheti az érintett eszköz az Állami Egészségügyi Tartalék kezelője általi beszerzését. A kezdeményezés Operatív Törzs vezetőjének jóváhagyása esetén az Állami Egészségügyi Tartalék kezelője a kezdeményező szerv vagy személy képviselőjeként jár el a kezdeményezéssel érintett eszköz beszerzése során.”
-
-214. § Az egészségügyről szóló 1997. évi CLIV. törvény 232/B. §-a a következő (9)–(13) bekezdéssel egészül ki:
-
-„(9) A (3) bekezdés alapján létrehozott akciócsoport a (4) bekezdésben meghatározott adatszolgáltatás teljesítését az egészségügyi államigazgatási szerv járványügyi szakrendszerében, az Egészségbiztosítási Alap kezelésére kijelölt egészségbiztosítási szerv finanszírozási rendszerében, valamint az Elektronikus Egészségügyi Szolgáltatási Térben (a továbbiakban együtt: adatbázis) kezelt adatok vonatkozásában akként is igényelheti, hogy adatbázis adatkezelője az akciócsoport arra jogosult tagja részére az adatok átvételét lehetővé tevő, közvetlen elektronikus hozzáférést (a továbbiakban: közvetlen hozzáférés) biztosítson.
-
-(10) Ha a közvetlen hozzáférés során személyes adatok kezelésére is sor kerül, ezen adatok kezelésére az (5)–(8) bekezdésben meghatározott előírásokat kell alkalmazni.
-
-(11) A közvetlen hozzáféréssel végrehajtott adatkezelési művelet körülményeit, így különösen
-
-a) az adatkezelési művelettel érintett személyes adatok körének meghatározását,
-
-b) az adatkezelési művelet jogalapját, célját és indokát,
-
-c) az adatkezelési művelet elvégzésének pontos dátumát és időpontját,
-
-d) az adatkezelési műveletet végrehajtó személy nevét és felhasználói azonosító adatát és a tevékenységét leíró adatokat,
-
-e) az egyéb, az adatkezelési művelettel összefüggő leíró és technikai adatokat
-
-(a továbbiakban együtt: naplóbejegyzés) a közvetlen hozzáféréssel érintett adatbázis adatkezelője az adatkezelési műveletek jogszerűségének ellenőrizhetősége, valamint a személyes adatok integritásának és biztonságának biztosítása céljából rögzíti és az így rögzített nyilvántartást (a továbbiakban: napló) a naplóbejegyzés keletkezésétől tíz évig megőrzi.
-
-(12) Naplóbejegyzést a személyes adatokkal végzett valamennyi műveletről, az adatkezelési esemény megtörténtével egyidejűleg kell képezni. A naplóbejegyzést pontos és megmásíthatatlan időadattal kell ellátni.
-
-(13) A naplóban rögzített adatok kizárólag az adatkezelés jogszerűségének ellenőrzése, az adatbiztonsági követelmények érvényesítése, büntetőeljárás lefolytatása céljából, törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági és bűnmegelőzési ellenőrzési célból ismerhetőek meg és használhatóak fel, e tevékenységet folytató adatkezelő részére továbbíthatóak.”
-
-215. § (1) Az egészségügyről szóló 1997. évi CLIV. törvény 232/D. § (1) bekezdése a következő l) és m) ponttal egészül ki:
-
-(A járványügyi készültség keretében egészségügyi válsághelyzetben a Kormány rendeletében)
-
-„l) az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 13. pontja szerinti közterület használatára a közterülethez közvetlenül csatlakozó, a kereskedelemről szóló 2005. évi CLXIV. törvény 2. § 30. pontja szerinti tevékenységek folytatására alkalmas helyiség tekintetében közterület-használati hozzájárulás megfizetésével kapcsolatos rendelkezéseket állapíthat meg,
-
-m) a 232/G. § szerinti, a távmunkavégzésre vonatkozó különös szabályok alkalmazását rendelheti el.”
-
-(2) Az egészségügyről szóló 1997. évi CLIV. törvény 232/D. §-a a következő (4)–(7) bekezdéssel egészül ki:
-
-„(4) Egészségügyi válsághelyzetben vagy járványügyi készültség esetén a települési önkormányzat az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény szerinti, az alapellátáshoz kapcsolódó háziorvosi, házi gyermekorvosi és fogorvosi ügyeleti ellátásról (a továbbiakban: ügyeleti ellátás) – az (5) bekezdésben foglaltak figyelembe vételével – az állami mentőszolgálat útján is gondoskodhat.
-
-(5) A települési önkormányzat az ügyeleti ellátásra megállapodást köt az állami mentőszolgálattal, ha az erre irányuló kezdeményezését az állami mentőszolgálat elfogadja.
-
-(6) Az (5) bekezdés szerinti megállapodás az ügyeleti ellátásra irányuló – már megkötött – szerződések hatályát nem érinti azzal, hogy az ügyeleti ellátásra irányuló szerződésben meghatározott szolgáltató a (4) bekezdés szerinti időszakban ügyeleti ellátást nem nyújt.
-
-(7) Az ügyeleti ellátásra irányuló szerződésben meghatározott szolgáltatót a jogszabályok és a (6) bekezdés szerinti szerződés alapján járó díjazás abban az időtartamban is megilleti, amíg helyette az állami mentőszolgálat látja el az ügyeleti ellátást. Az ügyeleti ellátásra irányuló szerződésben meghatározott szolgáltató díjazásának havi mértéke megegyezik azzal az összeggel, amely arra a teljes hónapra jár számára, amikor utoljára ügyeleti ellátást nyújtott vagy érvényes szerződés alapján először nyújtott volna.”
+#### 215. §
 
 #### 216. §
 
-217. § Az egészségügyről szóló 1997. évi CLIV. törvény a következő 244/L. és 244/M. §-sal egészül ki:
+#### 217. §
 
-„244/L. § (1) Az EESZT működtetője a SARS-CoV-2 vírus terjedésének megállításához szükséges védelmi intézkedések megtétele – így különösen a köznevelési intézmény vezetőjének tájékoztatása, a rendkívüli szünet elrendelése, valamint a tankötelezettség teljesítéséhez szükséges oktatás megszervezése – céljából napi rendszerességgel az érintettek Társadalombiztosítási Azonosító Jelének összevetése útján – a (2) bekezdés szerinti módon – megismerhetővé teszi az Nkt. szerinti, a Kormány által a miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv (a továbbiakban: köznevelési szerv) számára az adat megismerhetővé tételének napján az oltottsággal vagy védettséggel rendelkező személyeknek a SARS-CoV-2 vírus elleni védőoltás tényére vagy a védettségi időtartamra vonatkozó adatát.
+#### 218. §
 
-(2) A Társadalombiztosítási Azonosító Jeleket olyan titkosítási módszerrel kell összevetni, amely csak azon érintettek védettségének ténye megismerhetőségét teszi lehetővé a köznevelési szerv számára, akikre vonatkozóan a köznevelési szerv az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 4. § (1) bekezdés a) pontja szerinti köznevelés információs rendszerében Társadalombiztosítási Azonosító Jelet kezel.
-
-244/M. § (1) Járványügyi készültség esetén a SARS-CoV-2 vírus terjedésének megállításához szükséges védelmi intézkedések megtétele – így különösen a köznevelési intézmény vezetőjének tájékoztatása, a rendkívüli szünet elrendelése, valamint a tankötelezettség teljesítéséhez szükséges oktatás megszervezése – céljából a köznevelési intézmény a köznevelési szerv számára – az e szervek által az e célra létrehozott felület alkalmazásával – átadja azon, a köznevelési intézménnyel
-
-a) az Mt. szerinti munkaviszonyban álló, vagy
-
-b) a Kjt. szerinti közalkalmazotti jogviszonyban álló
-
-személyek Társadalombiztosítási Azonosító Jelét, akik a munkakörükbe tartozó – különösen az Nkt. szerinti gazdasági, ügyviteli, műszaki, kisegítő és más – feladatokat a köznevelési intézmény területén látják el.
-
-(2) Az EESZT működtetője az (1) bekezdés szerinti célból napi rendszerességgel az érintettek Társadalombiztosítási Azonosító Jelének összevetése útján – a (3) bekezdés szerinti módon – megismerhetővé teszi a köznevelési szerv számára az adat megismerhetővé tételének napján a SARS-CoV-2 vírus elleni védőoltás tényére vagy a védettség időtartamára vonatkozó adatát.
-
-(3) A Társadalombiztosítási Azonosító Jeleket olyan titkosítási módszerrel kell összevetni, amely csak azon érintettek adatainak megismerhetőségét teszi lehetővé a köznevelési szerv számára, akikre vonatkozóan Társadalombiztosítási Azonosító Jelet a köznevelési intézmény a köznevelési szerv számára az (1) bekezdés szerinti módon és célból átadott.
-
-(4) A köznevelési szerv az (1) bekezdés szerint átadott adatokat – az (5) bekezdés szerinti kivétellel – a járványügyi készültség megszűnéséig kezeli.
-
-(5) Az (1) bekezdés szerint átvett adatot haladéktalanul törölni kell akkor, ha a köznevelési intézmény a köznevelési szervet arról értesíti, hogy az érintett már nem áll vele az Mt. szerinti munkaviszonyban vagy Kjt. szerinti közalkalmazotti jogviszonyban, illetve, ha az érintett a munkakörét a továbbiakban már nem a köznevelési intézmény területén látja el.”
-
-218. § Az egészségügyről szóló 1997. évi CLIV. törvény 247. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„b) az egészségügyi szolgáltatás – ideértve a telemedicina keretében nyújtott egészségügyi szolgáltatást is – megkezdésére és gyakorlására vonatkozó általános szabályokat, valamint a működési engedélyezési eljárásra, a bejelentés alapján történő egészségügyi szolgáltatás – ideértve a telemedicina keretében nyújtott egészségügyi szolgáltatást is – érdekében a hatósági nyilvántartásba vételre, továbbá a hatósági nyilvántartás személyes adatokat nem tartalmazó adattartalmára vonatkozó szabályokat, valamint a telemedicina keretében nyújtott egészségügyi szolgáltatással összefüggő, a telemedicina tevékenységek meghatározásával, finanszírozásával, dokumentációjával, betegazonosításával kapcsolatos szabályokat,”
-
-(rendeletben megállapítsa.)
-
-219. § Az egészségügyről szóló 1997. évi CLIV. törvény 247. § (1a) bekezdése a következő f)–n) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány arra, hogy rendeletben)
-
-„f) kijelölje az egészségügyi szolgáltatás irányításáért felelős szervet és az azt irányító minisztert,
-
-g) határozza meg az egészségügyi szolgáltatás irányításáért felelős szerv vezetője és annak helyettesei, valamint az igazgatók részére megállapítható személyi illetmény legkisebb és legnagyobb összegét,
-
-h) kijelölje a 151/B. § (1) bekezdése szerinti egészségügyi intézményeket irányító minisztert,
-
-i) határozza meg az állami fenntartású – 151/B. § (1) bekezdése szerinti – egészségügyi intézmények irányításával kapcsolatosan az egészségügyi szolgáltatás irányításáért felelős szerv általi joggyakorlás szabályait,
-
-j) határozza meg a Budapesten és Pest megyében működő egészségügyi szakellátást nyújtó egészségügyi intézmények tekintetében az irányító jogkört gyakorló egészségügyi intézményeket és az általuk irányított egészségügyi intézményeket,
-
-k) határozza meg az egyidejűleg több ágazat irányítása alá tartozó országos gyógyintézet fenntartására és irányítására alkalmazandó szabályokat,
-
-l) egészségügyi válsághelyzetben az egészségügyi szolgáltatás irányításáért felelős szerv, valamint az állam tulajdonában és fenntartásában működő egészségügyi intézmények irányítására sajátos irányítási rendet vezessen be,
-
-m) határozza meg a honvédelmi irányítású egészségügyi szolgáltatókat,
-
-n) határozza meg a Hvt. 80. § 11a. pontja szerinti honvédelmi egészségügyi szolgáltató és az annak irányítása alá tartozó, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltatók minősítési rendszerére vonatkozó szabályokat.”
+#### 219. §
 
 #### 220. §
 
@@ -2116,1218 +1472,255 @@ n) határozza meg a Hvt. 80. § 11a. pontja szerinti honvédelmi egészségügyi
 
 #### 222. §
 
-223. § Az egészségügyről szóló 1997. évi CLIV. törvény 155. §-át megelőző alcím címében a „fenntartása” szövegrész helyébe a „fenntartása és irányítása” szöveg lép.
+#### 223. §
 
 #### 92. A családok támogatásáról szóló 1998. évi LXXXIV. törvény módosítása
 
-224. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény 4. § d) pontjában a „közalkalmazotti,” szövegrész helyébe a „közalkalmazotti, egészségügyi szolgálati,” szöveg lép.
+#### 224. §
 
 #### 93. A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény módosítása
 
-225. § A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény 29. § (1) bekezdésében a „közalkalmazotti jogviszonyban,” szövegrész helyébe a „közalkalmazotti jogviszonyban, egészségügyi szolgálati jogviszonyban,” szöveg lép.
+#### 225. §
 
 #### 94. Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény módosítása
 
-226. § Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 11/A. §-a a következő (2a) bekezdéssel egészül ki:
+#### 226. §
 
-„(2a) A (2) bekezdés szerinti szabályokat az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) előírásaira figyelemmel kell alkalmazni.”
+#### 227. §
 
-227. § Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 11/A. §-a a következő (3a) bekezdéssel egészül ki:
+#### 228. §
 
-„(3a) Az Eszjtv. 8. § (3) bekezdése szerinti egészségügyi szolgálati jogviszonyban álló személyt az egészségügyi szolgálati jogviszonyban töltött ideje alapján kell fizetési fokozatba sorolni.”
+#### 229. §
 
-228. § Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 11/A. §-a a következő (6b) bekezdéssel egészül ki:
+#### 230. §
 
-„(6b) Az Eszjtv. 8. § (3) bekezdése szerinti egészségügyi szolgálati jogviszonyban álló személy havi illetménye nem lehet kevesebb, mint az Eszjtv. 1. mellékletében meghatározott összeg.”
+#### 231. §
 
-229. § Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 11/A. §-a következő (7a) bekezdéssel egészül ki:
+#### 232. §
 
-„(7a) Az egészségügyi szolgálati jogviszonyban álló egészségügyi dolgozó, egészségügyben dolgozó átsorolására, az osztályba soroláshoz szükséges szakmai követelményekre, a jogviszonyban töltött idő számítására, az illetményre, valamint az átsorolással kapcsolatos eljárási szabályokra az Eszjtv. és a Kormány által rendeletben megállapított szabályokat kell alkalmazni.”
+#### 233. §
 
-230. § (1) Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 11/B. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A rezidens az egészségügyi felsőfokú szakirányú szakképzése ideje alatt az elsődleges képzőhelyével egészségügyi szolgálati jogviszonyban, a nem az Eszjtv. hatálya alá tartozó képzőhely esetében a 7. § (2) bekezdés d)–g) pontja szerinti jogviszonyban áll.”
-
-(2) Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 11/B. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Ügyeleti feladatokat a rezidens a 12/D. § (2) bekezdése szerinti beosztás alapján is csak a képzési tervben foglaltakkal összhangban láthat el.”
-
-231. § Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény a következő 15/F. §-sal egészül ki:
-
-„15/F. § Az Eszjtv. hatálya alá tartozó egészségügyi szolgáltató vezetője kizárólag a működési nyilvántartás megújítása céljából, a továbbképzése alapján szükséges gyakorlati pontok megszerzése érdekében és az ahhoz szükséges mértékben végezheti az 1. § szerinti gyógyító-megelőző tevékenységet.”
-
-232. § Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 16/C. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az öregségi nyugdíjas kivételével a jövedelemkiegészítés szüneteltetésére a Kenyt. 11. §-ában foglaltakat kell alkalmazni azzal, hogy korhatár előtti ellátás alatt jövedelemkiegészítést kell érteni.”
-
-233. § Az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény
-
-- a) 4. § e) pontjában a „munkaviszonyban vagy közalkalmazotti jogviszonyban” szövegrész helyébe az „egészségügyi szolgálati jogviszonyban vagy honvédelmi alkalmazotti jogviszonyban” szöveg,
-- b) 7. § (2) bekezdés d) pontjában a „közalkalmazotti jogviszonyban,” szövegrész helyébe az „egészségügyi szolgálati jogviszonyban,” szöveg,
-- c) 11/A. §-t megelőző alcímében a „Munkaviszony és közalkalmazotti jogviszony” szövegrész helyébe a „Munkaviszony, egészségügyi szolgálati jogviszony és honvédelmi alkalmazotti jogviszony” szöveg,
-- d) 11/A. § (1) bekezdésében az „a közalkalmazotti” szövegrész helyébe az „az egészségügyi szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban” szöveg,
-- e) 14/E. § (3) bekezdésében az „a közalkalmazott” szövegrész helyébe az „az egészségügyi szolgálati jogviszonyban vagy honvédelmi alkalmazotti jogviszonyban álló személy” szöveg, az „a Kjt. 57. § (3) bekezdés” szövegrész helyébe az „az Eszjtv. 6. § (4)–(7) bekezdése vagy a Haj. 54. § (2)–(4) bekezdése” szöveg, a „közalkalmazott” szövegrész helyébe az „egészségügyi szolgálati jogviszonyban vagy honvédelmi alkalmazotti jogviszonyban álló személy” szöveg,
-- f) 16. § (6) bekezdésében a „közalkalmazotti” szövegrészek helyébe az „egészségügyi szolgálati” szöveg, és az „a Kjt.” szövegrész helyébe az „az Eszjtv.” szöveg,
-- g) 16/A. §-t megelőző alcím címében, 16/A. § b) pontjában és 16/B. § (2), (3) és (6) bekezdésében a „közalkalmazotti” szövegrész helyébe az „egészségügyi szolgálati, honvédelmi alkalmazotti” szöveg,
-- h) 16/A. § c) pontjában az „egészségügyi szolgáltató munkáltató” szövegrész helyébe az „egészségügyi szolgáltató munkáltató, valamint az Eszjtv. szerinti munkáltató” szöveg,
-- i) 16/B. § (1) bekezdésében az „a közalkalmazotti jogviszonyban” szövegrész helyébe az „az egészségügyi szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban” szöveg, az „1997. évi LXXXI. törvény (a továbbiakban: Tny.)” szövegrész helyébe az „1997. évi LXXXI. törvény” szöveg és a „2011. évi CLXVII. törvény 11. §-a” szövegrész helyébe a „2011. évi CLXVII. törvény (a továbbiakban: Kenyt.) 11/A. §-a” szöveg,
-- j) 16/B. § (6) bekezdés a) pontjában az „a jubileumi jutalom” szövegrész helyébe az „a honvédelmi alkalmazottak jogállásáról szóló törvény szerinti jubileumi jutalom, a szolgálati elismerés, a helyettesítési díj” szöveg,
-- k) 16/B. § (7) bekezdésében a „nyugdíjjárulékot” szövegrész helyébe a „társadalombiztosítási járulékot” szöveg,
-- l) 16/C. § (2) bekezdésében a „Tny. 83/B. §-a” szövegrész helyébe a „Kenyt. 11. §-a” szöveg és a „Tny. 83/B. §-ában” szövegrész helyébe a „Kenyt. 11. §-ában” szöveg,
-- m) 29/A. § (1) bekezdésében az „a Kjt.” szövegrész helyébe az „az Eszjtv. és a honvédelmi alkalmazottak jogállásáról szóló törvény” szöveg,
-- n) 29/A. § (2) bekezdésében az „a Kjt. alkalmazásában a jubileumi jutalom” szövegrész helyébe az „az Eszjtv. alkalmazásában a szolgálati elismerés és a honvédelmi alkalmazottak jogállásáról szóló törvény alkalmazásában a jubileumi jutalom” szöveg
-
-lép.
-
-234. § Hatályát veszti az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény
-
-- a) 11/A. § (9) bekezdése,
-- b) 11/B. § (2), (3), (5) és (7) bekezdése,
-- c) 12/B. § (5) bekezdésében a „vagy kollektív szerződés” szövegrész,
-- d) 13. § (1) bekezdésében a „– kollektív szerződés eltérő rendelkezése hiányában –” szövegrész,
-- e) 13. § (2) bekezdése,
-- f) 13/A. § (1) bekezdésében a „kollektív szerződés vagy” szövegrészek,
-- g) 14/D. §-a,
-- h) 15/A. §-ában a „vagy a 11/B. § bekezdése alapján a szakorvosképzésért felelős egészségügyi államigazgatási szerv által szakképzésre kijelölt egészségügyi szolgáltatónál” szövegrész, és a „vagy a szakképzésre kijelölt egészségügyi szolgáltatónál” szövegrész,
-- i) 15/D. §-a,
-- j) „Kollektív szerződés kiterjesztése az egészségügyi ágazatban” alcíme,
-- k) 30. §-ában az „és a 29/B. §” szövegrész.
+#### 234. §
 
 #### 95. Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény módosítása
 
-235. § Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 3. § (1) bekezdés a) pontjában az „a közalkalmazotti jogviszony” szövegrész helyébe az „a közalkalmazotti jogviszony, az egészségügyi szolgálati jogviszony” szöveg lép.
+#### 235. §
 
 #### 96. A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény módosítása
 
-236. § A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény
-
-- a) 1. § (2) bekezdés 3. pontjában a „közalkalmazotti jogviszony,” szövegrész helyébe a „közalkalmazotti jogviszony, egészségügyi szolgálati jogviszony,” szöveg,
-- b) 1. § (2) bekezdés 6. pontjában a „közalkalmazotti jogviszonyban,” szövegrész helyébe a „közalkalmazotti jogviszonyban, egészségügyi szolgálati jogviszonyban,” szöveg,
-- c) 1. § (2) bekezdés 7. pontjában a „közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.)” szövegrész helyébe a „közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.), az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.)” szöveg,
-- d) 1. § (2) bekezdés 8. pontjában az „a Kit. és a Kjt.” szövegrész helyébe az „a Kit., a Kjt., és az Eszjtv.” szöveg
-
-lép.
+#### 236. §
 
 #### 97. Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény módosítása
 
-237. § Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 1. § 23. pontja helyébe a következő rendelkezés lép:
+#### 237. §
 
-(E törvény alkalmazásában:)
+#### 238. §
 
-„23. különös méltánylást érdemlő betegellátási érdek: akkor áll fenn, ha a Magyarországon érvényes forgalombahozatali engedéllyel nem rendelkező gyógyszer orvosi kezelés során történő alkalmazásával esélye lehet a kezelés sikerességének, és
+#### 239. §
 
-a) ez a Magyarországon már forgalomban lévő gyógyszertől nem várható,
-
-b) ha a kezelés sikerességét biztosító, Magyarországon vagy az EGT-ben részes államban már forgalomban lévő gyógyszer Magyarországon kellő mennyiségben nem elérhető, vagy
-
-c) ha az adott indikációban forgalomba hozatalra engedélyezett gyógyszerhez a beteg hozzájutása olyan aránytalanul nagymértékben akadályozott, ami a gyógyszeres kezelés megkezdésének késlekedése miatt visszafordíthatatlan egészségkárosodáshoz vezethet;”
-
-238. § (1) Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 16. § (2a) és (2b) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2a) A közfinanszírozásban részesülő gyógyszerrel való folyamatos ellátásról a forgalomba hozatali engedély jogosultja – amennyiben a forgalomba hozatali engedély jogosult belföldön forgalmazási tevékenységet nem végez – a forgalmazó (a továbbiakban: szerződött forgalmazó) köteles gondoskodni.
-
-(2b) A gyógyszerészeti államigazgatási szerv a gyógyszerhiányt vagy annak kockázatát bármely, a jogszabályban foglalt feladatainak ellátásával összefüggésben tudomására jutó információk alapján, a (2) bekezdés szerinti értesítés hiányában is megállapíthatja. A gyógyszerészeti államigazgatási szerv hiányt Magyarországon forgalomba hozatalra nem engedélyezett gyógyszer esetében is megállapíthat.”
-
-(2) Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 16. §-a a következő (2c)–(2h) bekezdéssel egészül ki:
-
-„(2c) A gyógyszerészeti államigazgatási szerv a (2) vagy (2b) bekezdés alapján megállapított gyógyszerhiány vagy annak kockázata esetén kötelezheti a forgalomba hozatali engedély jogosultját vagy a szerződött forgalmazót a hiánnyal érintett gyógyszer helyett alkalmazható gyógyszer beszerzése útján a hiány elhárítására. A határozatban a gyógyszerészeti államigazgatási szerv rendelkezik
-
-a) hiánnyal érintett gyógyszer helyett alkalmazható gyógyszerről, és
-
-b) a magyar nyelvű kísérőiratok rendelkezésre bocsátásával és a csomagolással kapcsolatos követelményekről.
-
-(2d) A (2c) bekezdés szerinti határozat kötelezettjeként a forgalomba hozatali engedély jogosultja és a szerződött forgalmazó egyetemleges felelősség mellett is kijelölhető.
-
-(2e) Ha a hiány Magyarországon forgalomba hozatalra nem engedélyezett gyógyszer tekintetében került megállapításra, vagy a (2c) bekezdés szerinti határozat kiadásától a gyógyszerhiány kezelése nem várható, vagy a kiadott határozat végrehajtása nem vezetett eredményre, a gyógyszerészeti államigazgatási szerv gyógyszer-nagykereskedő kérelmére a hiánnyal érintett gyógyszer helyett alkalmazható gyógyszer beszerzését engedélyezi. Az engedély alapján a gyógyszer-nagykereskedő jogosult az abban megjelölt gyógyszernek a határozat szerinti mennyiségben, időtartamig történő behozatalára (a továbbiakban: kontingensengedély). A kontingensengedély tartalmára a (2c) bekezdés a) és b) pontját alkalmazni kell.
-
-(2f) A (2c) bekezdés szerinti határozat kötelezettje és a kontingensengedély jogosultja a hiány elhárítása céljából behozott gyógyszer behozatalát a behozataltól számított 8 napon belül, a mennyiség megjelölésével bejelenti a gyógyszerészeti államigazgatási szerv részére.
-
-(2g) A gyógyszerészeti államigazgatási szerv a honlapján közzéteszi a (2c) és (2e) bekezdés szerinti döntés kivonatát, valamint a (2f) bekezdés alapján a tényleges behozatal ténynek megtörténtét.
-
-(2h) Magyarországra forgalmazási céllal behozott gyógyszer külföldre történő értékesítése vagy kivitele esetén a gyógyszer-nagykereskedő 8 napon belül a gyógyszer mennyiségére vonatkozó adatszolgáltatást teljesít a gyógyszerészeti államigazgatási szerv részére.”
-
-239. § Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 25. §-a a következő (2a)–(2i) bekezdéssel egészül ki:
-
-„(2a) A (2) bekezdésben foglaltaktól eltérően, e törvény alkalmazásában a különös méltánylást érdemlő betegellátási érdeket az egészségügyről szóló 1997. évi CLIV. törvény szerinti egészségügyi válsághelyzet kihirdetését megalapozó vagy azzal közvetlenül összefüggő megbetegedésekkel (a továbbiakban e § alkalmazásában: megbetegedés) kapcsolatban lefolytatandó, az egészségügyi válsághelyzet kezelésével összefüggő hatósági eljárások során – az egészségügyi válsághelyzet ideje alatt – fennállónak kell tekinteni.
-
-(2b) A (2a) bekezdés szerinti feltételek fennállása esetén a gyógyszerészeti államigazgatási szerv határozott időtartamra, az állami egészségügyi tartalék kezeléséért felelős szerv kérelmére engedélyezheti EGT-megállapodásban részes államban nem, de más országban forgalombahozatali engedéllyel rendelkező gyógyszer ideiglenes hozzáférhetővé tételét, alkalmazását vagy adományozását a megbetegedés feltételezett vagy igazolt terjedésének megakadályozása érdekében, ha a készítmény minőségileg megfelelő, és az elvégzett vizsgálatok alapján előnyös terápiás előny/kockázat aránnyal rendelkezik. Az engedély legfeljebb hat hónapos határozott időre adható ki, ami különösen indokolt esetben legfeljebb további hat hónappal meghosszabbítható.
-
-(2c) A (2b) bekezdés szerinti engedélyezés során, kormányrendeletben meghatározottak szerint
-
-a) az országos tisztifőorvos meghatározott szakkérdésben szakhatóságként kerül kijelölésre, továbbá
-
-b) az emberi felhasználásra kerülő gyógyszerek forgalomba hozatalának és gyártásának engedélyezéséről szóló kormányrendelet értékelésre és engedélyezésre vonatkozó egyes rendelkezései alkalmazandók.
-
-(2d) A (2b) bekezdés szerint engedélyezett gyógyszerrel történő ellátás igénylési rendjét az állami egészségügyi tartalék kezeléséért felelős szerv állapítja meg.
-
-(2e) A (2a) bekezdés szerinti feltételek fennállása esetén, a (2f)–(2h) bekezdésben foglaltak szerint, a megbetegedés feltételezett vagy igazolt terjedésének megakadályozása érdekében az állami egészségügyi tartalék kezeléséért felelős szerv kérelmére a gyógyszerészeti államigazgatási szerv engedélyezheti
-
-a) EGT-megállapodásban részes államban, vagy EGT-megállapodásban nem részes, de a klinikai vizsgálatok, illetve a gyógyszergyártás tekintetében a Magyarországon hatályos szabályozással egyenértékű szabályozást alkalmazó államban,
-
-b) Nagy-Britannia és Észak-Írország Egyesült Királyságában, vagy
-
-c) legalább három – köztük legalább egy európai uniós vagy európai uniós tagjelölt – államban
-
-a betegek számára hozzáférhetővé tett, illetve alkalmazásra engedélyezett gyógyszer behozatalát, adományozását, a betegek számára történő hozzáférhetővé tételét, illetve alkalmazását.
-
-(2f) A (2e) bekezdés alapján – a (2g) bekezdésben meghatározott engedélyezés kivételével – oltóanyag esetében abban az esetben kerülhet sor az engedély kiadására, ha a gyógyszert legalább egymillió személynél már alkalmazták. Ezen körülmény fennállását a külpolitikáért felelős miniszter igazolja.
-
-(2g) A gyógyszerészeti államigazgatási szerv a (2e) bekezdés szerinti engedélyt a (2b) bekezdés megfelelő alkalmazásával, vagy az adott államban kiadott engedély alapulvételével vagy annak elismerése útján adhatja ki.
-
-(2h) A (2e) bekezdés alapján a gyógyszerészeti államigazgatási szerv az engedélyt legfeljebb egy éves határozott időre adhatja ki, ami különösen indokolt esetben legfeljebb további egy évvel meghosszabbítható. Az engedély kiadása feltételeinek fennállását a gyógyszerészeti államigazgatási szerv folyamatosan figyelemmel kíséri. Az engedély – figyelemmel a 10. § (3) és (4) bekezdésében foglaltakra is – szükség szerint rendelkezik az 5. § (5) bekezdésében foglaltakról, valamint a farmakovigilanciával kapcsolatos követelményekről.
-
-(2i) A (2b) és (2h) bekezdés alapján engedélyezett gyógyszer alkalmazásához a Kormány rendeletében további feltételeket állapíthat meg.”
-
-240. § Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 32. § (4) bekezdése a következő j) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy)
-
-„j) a 25. § (2b) és (2h) bekezdése alapján engedélyezett gyógyszer alkalmazásának további feltételeit”
-
-(rendeletben szabályozza.)
+#### 240. §
 
 #### 98. Az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény módosítása
 
-241. § Az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény 21. § (2) bekezdésben a „közalkalmazotti” szövegrész helyébe a „közalkalmazotti, egészségügyi szolgálati” szöveg lép.
+#### 241. §
 
 #### 99. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény módosítása
 
-242. § A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 55. §-a a következő (1) bekezdéssel egészül ki:
+#### 242. §
 
-„(1) A közforgalmú gyógyszertár szaktevékenysége keretében biztosíthatja a 2000 fő állandó lakosságszám alatti kistelepülésen működő napi fogyasztási cikkek kiskereskedelmi forgalmazásával foglalkozó olyan üzletek gyógyszerellátását, amelyek gyógyszertáron kívüli gyógyszer forgalmazására engedéllyel rendelkeznek, és e szolgáltatást állami támogatással nyújtják.”
-
-243. § (1) A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 68. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A kereskedelemről szóló törvény alapján kereskedelmi tevékenység végzésére jogosult üzlet gyógyszert akkor forgalmazhat, ha az egészségügyi államigazgatási szerv erre engedélyt adott. Az egészségügyi államigazgatási szerv a gyógyszer kiskereskedelmi forgalmazására jogosító engedélyt az üzletet nyilvántartásba bejegyző kereskedelmi hatósággal is közli. Az egészségügyi államigazgatási szerv a gyógyszerforgalmazásra jogosító engedélyt megadja, ha az üzlet megfelel az e törvényben, illetve az emberi alkalmazásra kerülő gyógyszerek forgalomba hozataláról szóló miniszteri rendeletben foglalt követelményeknek. Az engedély távollevők között kötött szerződések keretében történő értékesítésre nem jogosít.”
-
-(2) A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 68. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A gyógyszer-kiskereskedelmi forgalmazási engedéllyel rendelkező üzlet – a (3a) bekezdésben foglalt kivétellel – gyógyszereket csak gyógyszer-nagykereskedelmi tevékenység folytatására jogosulttól szerezhet be, és csak fogyasztónak adhatja tovább.”
-
-(3) A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 68. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A 2000 fő állandó lakosságszám alatti kistelepülésen működő, napi fogyasztási cikkek kiskereskedelmi forgalmazásával foglalkozó olyan üzlet, amely gyógyszertáron kívüli gyógyszer forgalmazását állami támogatással biztosítja, gyógyszer beszerzésére elsősorban az üzlethez legközelebb található közforgalmú gyógyszertárral köt megállapodást. Ha az üzlethez legközelebb eső közforgalmú gyógyszertárral a megállapodás nem jön létre, más – a közúton történő megközelítés figyelembevételével legközelebb eső, legfeljebb 30 km távolságra működő – közforgalmú gyógyszertárral köthető megállapodás.”
+#### 243. §
 
 #### 100. A villamos energiáról szóló 2007. évi LXXXVI. törvény módosítása
 
-244. § Hatályát veszti a villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (5) bekezdés 6. pont e) alpontja és a 172. §-a.
+#### 244. §
 
 #### 101. A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény módosítása
 
-245. § A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény 2. § 23. pontjában az „a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény szerinti közalkalmazotti jogviszony,” szövegrész helyébe az „a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény szerinti közalkalmazotti jogviszony, az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény szerinti egészségügyi szolgálati jogviszony,” szöveg lép.
+#### 245. §
 
 #### 102. A termőföld védelméről szóló 2007. évi CXXIX. törvény módosítása
 
-246. § A termőföld védelméről szóló 2007. évi CXXIX. törvény 8. §-a a következő (3a) bekezdéssel egészül ki:
+#### 246. §
 
-„(3a) Nem kell megtagadni a szakhatósági hozzájárulás megadását a (3) bekezdés szerinti esetben akkor, ha a kutatásra vonatkozó műszaki üzemi terv vagy előkutatási kérelem meglévő bányatelek vertikális bővítésére vagy a bányatelek megállapítása iránti kérelem már megállapított bányatelek kizárólag vertikális bővítésére, illetve olyan megosztására, egyesítésére irányul, amely összességében nem eredményezi a bányatelkek területének növekedését.”
+#### 247. §
 
-247. § A termőföld védelméről szóló 2007. évi CXXIX. törvény 8/A. §-a helyébe a következő rendelkezés lép:
+#### 248. §
 
-„8/A. § Földvédelmi szakkérdés vizsgálata során a 8. § (1)–(3a) bekezdésében foglaltakat alkalmazni kell.”
-
-248. § A termőföld védelméről szóló 2007. évi CXXIX. törvény 9. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A termőföld más célú hasznosítása időleges vagy végleges lehet. A termőföld belterületbe vonása végleges más célú hasznosításnak minősül.”
-
-249. § (1) A termőföld védelméről szóló 2007. évi CXXIX. törvény 15/B. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(3) Cél-kitermelőhely létesítése céljából kizárólag átlagosnál gyengébb minőségű termőföld végleges más célú hasznosítása engedélyezhető, kivéve, ha a tevékenységgel érintett területet a Kormány a Magyar Közlönyben közzétett határozatával beruházási célterületté nyilvánította.
-
-(4) A (3) bekezdésben foglalt feltétel fennállása esetén – a (4a) bekezdésben foglalt kivételtől eltekintve – sem engedélyezhető a termőföld végleges más célú hasznosítása cél-kitermelőhely létesítése céljára, ha a kérelemmel érintett település külterületén lévő földrészletek összterületének 25%-át meghaladja az ilyen célból már igénybevett és az ilyen célra felhasználni engedélyezett, de még igénybe nem vett termőföldek együttes területe.”
-
-(2) A termőföld védelméről szóló 2007. évi CXXIX. törvény 15/B. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) A (4) bekezdés szerinti esetben akkor engedélyezhető a termőföld más célú hasznosítása cél-kitermelőhely létesítése céljára, ha a tevékenységgel érintett területet a Kormány a Magyar Közlönyben közzétett határozatával beruházási célterületté nyilvánította.”
+#### 249. §
 
 #### 103. Az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény módosítása
 
-250. § Az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény 2. §-a helyébe a következő rendelkezés lép:
-
-„2. § E törvény alkalmazásában
-
-1. közszolgálatban álló személy:
-
-a) a rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja,
-
-b) a Magyar Honvédség hivatásos és szerződéses állományú katonája és a honvédelmi alkalmazott,
-
-c) aki közalkalmazotti jogviszonyban áll,
-
-d) aki rendvédelmi igazgatási szolgálati jogviszonyban áll,
-
-e) aki egészségügyi szolgálati jogviszonyban áll,
-
-f) aki közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban áll,
-
-g) aki adó- és vámhatósági szolgálati jogviszonyban áll,
-
-h) aki ügyészségi szolgálati viszonyban áll,
-
-i) az igazságügyi alkalmazott, valamint
-
-j) a Magyar Nemzeti Bank Monetáris Tanácsának tagjai kivételével a Magyar Nemzeti Bank alkalmazottja (a továbbiakban: a Magyar Nemzeti Bank alkalmazottai);
-
-2. hozzátartozó: a házastárs, az élettárs, valamint a közös háztartásban élő szülő, gyermek, a házastárs gyermeke, ideértve az örökbefogadott és a nevelt gyermeket is.”
+#### 250. §
 
 #### 104. A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosítása
 
-251. § A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 56. § (1) bekezdésében a „közalkalmazotti” szövegrész helyébe a „közalkalmazotti, egészségügyi szolgálati,” szöveg lép.
+#### 251. §
 
 #### 105. A devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény módosítása
 
-252. § A devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény 1. § (1) bekezdés 7a. pontja a következő p) alponttal egészül ki:
-
-(E törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban:
-
-közszférában dolgozó:)
-
-„p) az egészségügyi szolgálati jogviszonyról szóló törvény hatálya alá tartozó, egészségügyi szolgálati jogviszonyban álló személy.”
+#### 252. §
 
 #### 106. A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény módosítása
 
-253. § A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény VII. Fejezete a következő 29/A. alcímmel egészül ki:
+#### 253. §
 
-„29/A. A honvédelmi egészségügyi szolgáltató irányítására vonatkozó rendelkezések
-
-46/A. § (1) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjét az egészségügyért felelős miniszter egyetértésével a honvédelemért felelős miniszter nevezi ki, vagy bízza meg és vonja vissza magasabb vezetői megbízását.
-
-(2) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetője törvényben meghatározott egyes jogköreit – a honvédelmi egészségügyi szolgáltató szervezeti és működési szabályzatában rögzített módon – az egyes irányítási és szakmai fenntartói feladatok koordinálása céljából a honvédelmi egészségügyi szolgáltató szervezeti egységen belül erre létrehozott, önálló, magasabb vezetői munkakört, vagy ennek megfelelő szolgálati beosztást betöltő személy részére átruházhatja, akit a honvédelemért felelős miniszter és az egészségügyi szolgáltatás irányításáért felelős szerv vezetője együttesen nevez ki, vagy bízza meg és vonja vissza magasabb vezetői megbízását.
-
-(3) A honvédelmi egészségügyi szolgáltató és az egészségügyi szolgáltatás irányításáért felelős szerv közötti kapcsolattartásra a honvédelemért felelős miniszter katonai összekötőt nevez ki.”
-
-254. § A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. §-a a következő 11a–11b. ponttal egészül ki:
-
-(E törvény és a honvédelmet érintő jogszabályok alkalmazásában)
-
-„11a. honvédelmi egészségügyi szolgáltató: a honvédelemért felelős miniszter irányítása alá tartozó, az egészségügyről szóló 1997. évi CLIV. törvény szerint egészségügyi szolgáltatónak minősülő honvédelmi szervezet, amely a Kormány rendeletében meghatározott megyei intézmény kategóriával azonos besorolású egészségügyi intézmény,
-
-11b. honvédelmi egészségügyi szolgáltató szervezeti egység: a honvédelmi egészségügyi szolgáltató alapító okiratában meghatározott, közfinanszírozott területi ellátási kötelezettséggel rendelkező szervezeti egység,”
+#### 254. §
 
 #### 107. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény módosítása
 
-255. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 19. § (3) bekezdésében az „a köztisztviselő és a közalkalmazott” szövegrész helyébe az „a köztisztviselő, a közalkalmazott és az egészségügyi szolgálati jogviszonyban álló személy” szöveg lép.
+#### 255. §
 
 #### 108. A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény módosítása
 
-256. § A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 106. §-a a következő (12) bekezdéssel egészül ki:
-
-„(12) Az (1)–(11) bekezdéstől eltérően nem minősül összeférhetetlenségi oknak az önkéntes tartalékos szolgálati viszony létesítése, fenntartása, e szolgálati viszony alapján díjazás elfogadása.”
+#### 256. §
 
 #### 109. A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
-257. § A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 36. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Nem minősül összeférhetetlenségi oknak, ha az önkormányzati képviselő, valamint a képviselő-testület bizottságának nem képviselő tagja – a polgármester és az alpolgármester kivételével – önkéntes tartalékos szolgálati viszonyt létesít, illetve tart fenn.”
+#### 257. §
 
 #### 110. A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény módosítása
 
-258. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 48. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó SARS-CoV-2 koronavírus-világjárvány következményeinek elhárítása, az állampolgárok élet-, egészség-, személyi-, vagyon- és jogbiztonságának, valamint a nemzetgazdaság stabilitásának garantálása érdekében a 3/A. § (2) bekezdését a 2021–2023. költségvetési évben nem kell alkalmazni.”
+#### 258. §
 
 #### 111. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-259. § Az államháztartásról szóló 2011. évi CXCV. törvény 21. §-a a következő (6) és (7) bekezdéssel egészül ki:
+#### 259. §
 
-„(6) A beruházások megvalósítását, továbbá az ingatlanszerzés teljes vagy részbeni fedezetének biztosítására Beruházási Alap megjelöléssel – központi kezelésű előirányzatként – létrehozott tartalék (a továbbiakban: Beruházási Alap) szolgál, aminek a terhére az államháztartásért felelős miniszter a Kormány irányítása alá tartozó bármely fejezet kiadási előirányzata javára előirányzat-átcsoportosítást hajthat végre a 36. § (4h) bekezdésen kívüli előkészítéshez szükséges kötelezettségvállalás, a beruházás vagy támogatás, továbbá az ingatlanszerzés érdekében vállalt pénzügyi kötelezettség teljesítése érdekében.
+#### 260. §
 
-(7) A Beruházási Alap terhére történő forrásbiztosítási folyamat részletes szabályait, így különösen a forrás igénylésének rendjét, a forrásigény indokoltságának megalapozására irányuló követelményeket, a forrásbiztosítási folyamat lépéseit és határidőit az államháztartásért felelős miniszter által meghatározott eljárásrend tartalmazza, amelyről elektronikus úton tájékoztatja az érintett szervezeteket.”
+#### 261. §
 
-260. § Az államháztartásról szóló 2011. évi CXCV. törvény 36. §-a a következő (4f)–(4i) bekezdéssel egészül ki:
-
-„(4f) Ha a Kormány közvetlen vagy közvetett állami vagy önkormányzati vagyon növekedését vagy állagának javítását eredményező építési beruházások megvalósítását, továbbá egyéb szervezeteknek nyújtott építési beruházási támogatások nyújtását határozatban olyan módon támogatja, hogy azok teljes vagy részbeni fedezetének biztosítása a Beruházási Alap terhére történik, az (1)–(4c) bekezdésben meghatározottaktól eltérően a beruházásra vagy a támogatásra a Kormány egyedi határozatában adott felhatalmazás alapján vállalható kötelezettség.
-
-(4g) A Kormány a (4f) bekezdés szerint adott felhatalmazása a tárgyévi és éven túli kötelezettségek együttes összegét tartalmazza, továbbá a felhatalmazásnak a beruházás megvalósításáról szóló, a megvalósításban érintett felek által kölcsönösen elfogadott szerződésen – így különösen kivitelezési szerződésen – kell alapulnia.
-
-(4h) A (4g) bekezdés szerinti felhatalmazás összeghatár meghatározásával is megadható, ebben az esetben a kötelezettségvállalás végleges – a beruházás megvalósításáról szóló, a megvalósításban érintett felek által kölcsönösen elfogadott szerződésnek megfelelő – összegéről a kötelezettségvállalással érintett költségvetési fejezetet irányító szerv vezetője az államháztartásért felelős minisztert írásban tájékoztatja.
-
-(4i) A Kormány által adott felhatalmazás kiterjedhet a Beruházási Alappal érintett beruházások előkészítésére, továbbá az e beruházásokhoz közvetlenül szükséges ingatlanszerzésre is. Ebben az esetben a (4g) és (4h) bekezdésben foglaltakat a beruházás előkészítésére, valamint az ingatlanszerzésre irányuló szerződésre kell alkalmazni.”
-
-261. § Az államháztartásról szóló 2011. évi CXCV. törvény 37. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A 36. § (4f)–(4i) bekezdése szerinti kötelezettségvállalás esetén a pénzügyi ellenjegyzőnek kizárólag arról kell meggyőződnie, hogy a kötelezettségvállalás nem sérti a gazdálkodásra vonatkozó szabályokat.”
-
-262. § Az államháztartásról szóló 2011. évi CXCV. törvény
-
-- a) 11/F. § (1) bekezdésben az „a közalkalmazottak jogállásáról szóló törvény,” szövegrész helyébe az „a közalkalmazottak jogállásáról szóló törvény, a honvédelmi alkalmazottak jogállásáról szóló törvény, az egészségügyi szolgálati jogviszonyról szóló törvény,” szöveg,
-- b) 11/F. § (1), (3) és (8) bekezdésben a „közalkalmazotti” szövegrész helyébe a „közalkalmazotti, egészségügyi szolgálati” szöveg,
-- c) 11/F. § (7) bekezdésben a „közalkalmazotti” szövegrészek helyébe a „közalkalmazotti, egészségügyi szolgálati” szöveg
-
-lép.
+#### 262. §
 
 #### 112. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
 
-263. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 25. alcíme a következő 44/A. §-sal egészül ki:
+#### 263. §
 
-„44/A. § Szűrővizsgálat elvégzésében – egészségügyi tevékenység végzésére való jogosultság nélkül – az orvos-, egészségtudományi képzésben részt vevő hallgató önkéntesen közreműködhet. Az igazolt önkéntes munkavégzésre a hallgató és a felsőoktatási intézmény között a 44. § (1) bekezdés b) pontja szerinti hallgatói munkaszerződés jön létre. A hallgatói munkaszerződés során szerzett munkatapasztalat kreditértékét a 49. § (6) bekezdése szerint a kreditátviteli bizottság állapítja meg. Az önkéntes munkát végző hallgató tanulmányi kötelezettségeinek teljesítését a felsőoktatási intézmény a hallgatói munkaszerződésre tekintettel szervezi meg. A hallgatói munkaszerződésből származó jövedelem a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 4.13. pontja szerinti jövedelemnek minősül.”
+#### 264. §
 
-264. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény a következő 73/A. §-sal egészül ki:
+#### 265. §
 
-„73/A. § (1) Közegészségügyi, közbiztonsági okból, természeti csapás vagy a tanév rendjét és a hallgatói jogok érvényesülését közvetlenül fenyegető, elháríthatatlan helyzet (a továbbiakban együtt: rendkívüli helyzet) esetén a fenntartó a 73. § (5) bekezdésében és a 74. §-ban foglalt felelőssége körében – az oktatási hivatal tájékoztatása mellett – megállapíthatja, hogy a tanulmányi kötelezettségek jogszerű teljesítésének feltételei nem állnak fenn vagy nem biztosíthatóak, illetve azok nem ellenőrizhetőek általa. Az 58. § (1) bekezdésében foglaltaktól eltérően a döntés
+#### 266. §
 
-a) elleni keresetlevél benyújtásának nincs halasztó hatálya és
-
-b) azonnal végrehajtható.
-
-(2) A rendkívüli helyzettel érintett félév, illetve tanév nem számít be a 47. § (1) bekezdése, a 48. § (2) bekezdése, a 48/A. § a) pontja, valamint az 53. § (4) bekezdése szerinti határidőbe.”
-
-265. § (1) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 80. § (2) bekezdése a következő f)–h) ponttal egészül ki:
-
-(Nem magyar állampolgárok magyarországi tanulmányaira e törvény rendelkezéseit kell alkalmazni, a következő eltérésekkel:)
-
-„f) ha a hallgatóval hallgatói jogviszonyban álló felsőoktatási intézmény rektora a képzési időszakra való bejelentkezéshez eseti egészségügyi alkalmassági vizsgálatot ír elő, és a hallgató az eseti egészségügyi alkalmassági vizsgálat alapján egészségügyi szempontból alkalmatlan a tanulmányok folytatására, szünetel a hallgató hallgatói jogviszonya abban a félévben, amelyben az egészségügyi alkalmatlanságot megállapították,
-
-g) a felsőoktatási intézmény megszünteti a hallgató hallgatói jogviszonyát, ha az f) pont szerinti vizsgálat szerint a hallgató a tanulmányok további folytatására és befejezésére egészségügyi szempontból alkalmatlan,
-
-h) a miniszter vagy a külpolitikáért felelős miniszter által működtetett ösztöndíjprogram keretében támogatott hallgató ösztöndíjprogramban történő részvételéhez
-
-ha) az ösztöndíjprogram alapítója,
-
-hb) a miniszter és
-
-hc) – kizárólag az általa működtetett ösztöndíjprogram tekintetében – a külpolitikáért felelős miniszter
-
-egészségügyi alkalmassági vizsgálatot írhat elő bármelyik képzési szinten.”
-
-(2) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 80. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A (2) bekezdés f)–h) pontja nem alkalmazható a szabad mozgás és tartózkodás jogával rendelkező, a bevándorolt vagy a letelepedett jogállású hallgató esetében.”
-
-266. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 59. alcíme helyébe a következő rendelkezés lép:
-
-„59. Az egészségügyi felsőoktatási intézmény működése
-
-97. § (1) A közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott, orvos- és egészségtudományi képzést végző felsőoktatási intézmény (a továbbiakban: egészségügyi felsőoktatási intézmény)
-
-a) a felsőoktatási intézmény részeként jogi személyiségű szervezeti egység formájában klinikai központot működtet,
-
-b) a felsőoktatási intézménytől elkülönített szervezeti keretben egészségügyi szolgáltatót létesíthet és tarthat fenn.
-
-(2) A klinikai központ
-
-a) irányítói megyei intézményi feladatokat ellátó és
-
-b) irányítói megyei intézményi feladatokat el nem látó
-
-klinikai központ lehet, amelyekre ezen alcím rendelkezései szerint eltérő szabályok az irányadók.
-
-(3) A klinikai központ fenntartója a felsőoktatási intézmény, a fenntartói jogokat a rektor a jogszabályban meghatározott, egészségügyi szolgáltatás irányításáért felelős szerv (a továbbiakban: egészségügyi szolgáltatás irányításáért felelős szerv) ezen alcímben foglalt jogkörei, továbbá a kancellár – ahol kancellár nem kerül megbízásra, a gazdasági vezető – e törvény szerinti jogkörei figyelembevételével gyakorolja.
-
-(4) A klinikai központ olyan, az (1) bekezdés a) pontja szerinti egészségügyi szolgáltató, amely az egészségügyi államigazgatási szerv által kiadott működési engedéllyel és az egészségbiztosítási szervvel kötött finanszírozási szerződéssel rendelkezik, jogokat és kötelezettségeket az egészségügyi szolgáltatáshoz kapcsolódóan szerezhet.
-
-(5) A klinikai központ az egészségügyi szolgáltatást végző és a felsőoktatási képzési programban részt vevő klinikáit, diagnosztikai egységeit és az egészségügyi szolgáltatás szervezéséhez kapcsolódó egyéb egységeit foglalhatja magában.
-
-(6) Az (1) bekezdés b) pontja esetében az egészségügyi szolgáltatót önálló alapító okirattal vagy egyéb létesítő okirattal hozhatja létre az egészségügyi felsőoktatási intézmény.
-
-(7) Az egészségügyi felsőoktatási intézmény gyakorlati képzés céljából az egészségügyi szolgáltatóval megállapodhat gyakorló kórházi, járóbeteg-szakrendelési, gyógyszerészeti feladatok ellátására.
-
-(8) Az egészségügyi felsőoktatási intézmény – jogszabályban meghatározottak szerint – ellátja az igazságügyi szakértői tevékenységet.
-
-98. § (1) A klinikai központot az elnök vezeti, aki az egészségügyi felsőoktatási intézményben az egészségügyi szolgáltatás irányításáért felelős vezető. Az egészségügyi szolgáltatás irányításáért felelős vezetőnek felsőfokú végzettséggel, orvos- és egészségtudomány képzési területen szerzett mesterfokozattal, illetve tudományos fokozattal kell rendelkeznie.
-
-(2) A klinikai központ elnöke felelős az egészségügyi szolgáltatás megszervezéséért.
-
-(3) A klinikai központ elnöke a jogszabályban meghatározott feltételek figyelembevételével az egészségügyi közfeladat-ellátást érintő változás tekintetében javaslatot tesz az egészségügyi szolgáltatás irányításáért felelős szerv vezetője részére. Ha az egészségügyi szolgáltatás irányításáért felelős szerv vezetője a javaslattal nem ért egyet, a javaslat beérkezésétől számított tizenöt napon belül – az indok megjelölésével – kifogást tehet. A kifogásolt döntési javaslat nem fogadható el és nem hajtható végre. A határidő eredménytelen eltelte esetén az egészségügyi szolgáltatás irányításáért felelős szerv hozzájárulását kell vélelmezni.
-
-(4) A klinikai központ elnöke
-
-a) a klinikai központ működésével és tevékenységével összefüggésben az egészségügyi felsőoktatási intézmény képviseletében – az egészségügyi felsőoktatási intézmény szervezeti és működési szabályzata szerint – eljárhat,
-
-b) részt vesz az egészségügyi felsőoktatási intézmény klinikai oktatási feladatainak szervezésében, valamint oktatói, kutatói és gyógyító-megelőző tevékenységet végezhet,
-
-c) a 97. § (2) bekezdés a) pontja szerinti esetben irányítja és felügyeli a klinikai központ gazdasági működését, az egészségügyikancellár-helyettessel, ahol egészségügyikancellár-helyettes nem került megbízásra, az egészségügyi gazdaságivezető-helyettessel együttműködésben.
-
-99. § (1) A klinikai központ által nyújtott egészségügyi szolgáltatások tekintetében az egészségügyi szolgáltatás irányításáért felelős szerv vezetője gyakorolja az alábbi szakmai irányítási jogköröket:
-
-a) a klinikai központ által kötendő egészségügyi ellátási szerződés jóváhagyása,
-
-b) az egészségügyi közfeladat-ellátást érintő változásra irányuló megállapodás megkötése és a megállapodás alapján a döntés kezdeményezése, illetve ha az egészségügyi közfeladat módosításának nem feltétele a megállapodás megkötése, akkor a döntés kezdeményezése a jogszabályban meghatározott feltételek esetén,
-
-c) a klinikai központ kapacitása és ellátási területe módosításának kezdeményezése a jogszabályban meghatározott feltételek esetén,
-
-d) a klinikai központnak az Egészségbiztosítási Alapból származó bevételeit tartalmazó számla megterheléséhez való hozzájárulás a kötelező egészségbiztosítás ellátásairól szóló törvény, valamint az ennek végrehajtására kiadott kormányrendelet szerint meghatározott esetben,
-
-e) a klinikai központ működési engedélyének módosítása iránti kérelem előzetes jóváhagyása a klinikai központ által végezhető szakmák, az ellátás progresszivitási szintje és formája, az ágyszám és a heti óraszám tekintetében,
-
-f) a klinikai központ működési engedélyében szereplő egészségügyi szolgáltatás szüneteltetéséhez és annak meghosszabbításához való hozzájárulás, valamint
-
-g) az egészségügyi intézmények irányítására vonatkozó jogszabályban foglaltakat nem érintve a Kormány által kijelölt miniszter által meghatározott szakmai irányítási feladatok ellátása.
-
-(2) A szakellátási kapacitással és ellátási területtel kapcsolatos döntéshozatal során az egészségügyi államigazgatási szervnek az (1) bekezdés b) és c) pontja szerinti kezdeményezésnek megfelelően kell eljárnia.
-
-(3) A 97. § (2) bekezdés a) pontja szerinti esetben az egészségügyi szolgáltatás irányításáért felelős szerv az e törvényben foglaltak szerint gyakorolja a működtetéssel és gazdálkodással kapcsolatos irányítási jogköröket.
-
-(4) A 97. § (2) bekezdés a) pontja szerinti esetben a klinikai központ gazdálkodásának ellenőrzése érdekében a kancellár egészségügyikancellár-helyettest – ha kancellár nem kerül megbízásra, a gazdasági vezető egészségügyi gazdaságivezető-helyettest – nevez ki és tevékenységét irányítja. Feladatkörében eljárva az egészségügyikancellár-helyettes – ha egészségügyikancellár-helyettes nem kerül megbízásra az egészségügyi gazdaságivezető-helyettes – minden, a klinikai központ gazdálkodásával kapcsolatos iratba betekinthet.
-
-(5) Az egészségügyi szolgáltatás irányításáért felelős szerv e törvényben megállapított jogköre nem vonható el, és a jogkör gyakorlása során nem utasítható.
-
-99/A. § (1) A klinikai központ működésére és szervezetére, a klinikai központ vezetőjének jogaira és kötelezettségeire vonatkozó szabályokat – e törvény és az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) irányadó rendelkezéseinek figyelembevételével –, valamint a klinikai központ gazdálkodására vonatkozó szabályokat az egészségügyi felsőoktatási intézmény intézményi dokumentumában kell meghatározni.
-
-(2) A 97. § (2) bekezdés a) pontja szerinti esetben az egészségügyi felsőoktatási intézmény szervezeti és működési szabályzatának az egészségügyi tevékenységet közvetlenül meghatározó rendelkezései, valamint az egészségügyi felsőoktatási intézmény egyéb belső szabályzatának egészségügyi tevékenységet közvetlenül meghatározó rendelkezései elfogadásához a klinikai központ elnökének javaslata alapján az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének jóváhagyását be kell szerezni.
-
-(3) A klinikai központ és az egészségügyi felsőoktatási intézmény az egészségügyi szolgáltatás megszervezése keretében köteles az orvos- és egészségtudományi klinikai képzés szakmai-működési, a betegellátás önálló és a betegellátás, oktatás, kutatás közös infrastruktúrájának működtetési, üzemeltetési feladatainak, a gazdasági, igazgatási és adminisztrációs feladatainak ellátási módjáról és finanszírozásáról intézményi dokumentumban rendelkezni, valamint egyes költségvetési évekhez kapcsolódó változó feladatokról belső megállapodást, illetve szerződést kötni. A klinikai központ éves költségvetését ezek figyelembevételével kell meghatározni.
-
-(4) A 97. § (2) bekezdés a) pontja szerinti esetben a belső megállapodás, illetve szerződés, a klinikai központ éves költségvetése, vagyongazdálkodási terve, valamint ezek módosítása hatálybalépésének feltétele az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének hozzájárulása. A 97. § (2) bekezdés a) pontja szerinti esetben az egészségügyi felsőoktatási intézmény a klinikai központot érintő, a 74. § (2) bekezdése szerinti rész-beszámolót az egészségügyi szolgáltatás irányításáért felelős szerv vezetője részére előzetesen megküldi.
-
-(5) A 97. § (2) bekezdés a) pontja szerinti esetben az egészségügyi felsőoktatási intézmény a (2) és (3) bekezdés szerinti dokumentumokat előzetesen az egészségügyi szolgáltatás irányításáért felelős szerv vezetője részére továbbítja, aki az értesítés beérkezésétől számított tizenöt napon belül – az indok megjelölésével – kifogást tehet. A kifogásolt döntési javaslat nem fogadható el, nem hajtható végre. A határidő eredménytelen eltelte esetén az egészségügyi szolgáltatás irányításáért felelős szerv hozzájárulását kell vélelmezni.
-
-(6) Az egészségügyi felsőoktatási intézmény a jogszabályban meghatározott központi kórházi integrált gazdálkodási rendszer részére adatot szolgáltat.
-
-99/B. § (1) A klinikai központ részt vesz
-
-a) az egészségügyi ellátórendszer fejlesztéséről szóló törvényben foglaltak, valamint az Eütv. szerint a területi egészségügyi szolgáltatások nyújtásában, a szakellátás különböző progresszivitású szintjei szerinti betegellátásban,
-
-b) a tancélú gyógyító-megelőző tevékenység keretében az egészségügyi felsőoktatási intézmény képzési és kutatási feladatainak ellátásában.
-
-(2) Az egészségbiztosítási szerv – a kötelező egészségbiztosítás ellátásairól szóló törvényben meghatározottak figyelembevételével – az egészségügyi szolgáltatás irányításáért felelős szerv véleményének kikérését követően finanszírozási szerződést köt a klinikai központtal.
-
-(3) A klinikai központ – az egészségbiztosítási szerv által finanszírozott feladatok tekintetében – elkülönített számlával rendelkezik. Az egészségbiztosítási szerv által az egészségügyi szolgáltatás ellenértékeként biztosított összeg csak a finanszírozási szerződésben meghatározott feladatokra használható fel.
-
-99/C. § (1) A klinikai központ tekintetében az egészségügyi felsőoktatási intézmény egészségügyi szolgáltatásának forrásait, illetve a betegellátó tevékenységhez kapcsolódó központi beruházási és felújítási, valamint fejlesztési forrásait a központi költségvetésről szóló törvény egészségügyért felelős miniszter által vezetett minisztérium fejezetében kell megtervezni.
-
-(2) Az egészségügyért felelős miniszter szakmai irányításával és koordinálásával az egészségügyi felsőoktatási intézmény szervezi, illetve annak klinikai központja végzi a szakorvos-, a szakfogorvos-, a szakgyógyszerész-, klinikai szakpszichológus, népegészségügyi szakemberképzést, a más felsőfokú végzettséggel rendelkezők egészségügyi szak- és továbbképzését, továbbá közreműködik e feladatok ellátásában. A kormányzati tudománypolitikáért felelős miniszter irányítja és koordinálja – a törvény alapján az egészségügyért felelős miniszter hatáskörébe tartozó kutatások kivételével – az ágazati kutató-fejlesztő tevékenységet.
-
-99/D. § (1) Az egészségügyi felsőoktatási intézmény klinikai központjában foglalkoztatott egészségügyi dolgozó foglalkoztatására az egészségügyi szolgálati jogviszonyról szóló törvényt alkalmazni kell, továbbá szakmai, oktatói, kutatói és tudományos tevékenységet – a tevékenységre irányadó képesítési és egyéb, jogszabályban meghatározott szakmai követelmények figyelembevételével – a jogviszonyától és beosztásától függetlenül végezhet.
-
-(2) Az egészségügyi felsőoktatási intézményben az egészségügyi szolgálati jogviszonyban foglalkoztatott alkalmazott az e törvényben, illetve a felsőoktatási intézmény szabályzatában foglalt feltételek teljesítése esetén a 27. § (1) bekezdése szerint oktatói munkakörben, illetve a 33. § (2) bekezdése szerint kutatói munkakörben is foglalkoztatható azzal, hogy a betegellátásra irányuló jogviszonyban és az oktatói, illetve kutatói munkakör ellátására irányuló jogviszonyban végzett tevékenység munkaidő szempontjából egy jogviszonyban végzett munkának minősül.
-
-(3) A (2) bekezdés szerinti foglalkoztatás esetén az oktatói és kutatói munkakörhöz szabadságként kizárólag pótszabadság jár, melynek igénybevételét a rendes szabadsággal együtt a klinikai központ elnöke engedélyezi. A klinikai képzésben az egészségügyi szolgálati jogviszonyban foglalkoztatott dolgozó oktatást kiegészítő és segítő feladatokban részt vehet. A kettős feladatellátást eredményező foglalkoztatás esetén az egyes tevékenységekre vonatkozó díjazási szabályokat kell alkalmazni.
-
-(4) A (2) bekezdés szerinti foglalkoztatottak a kettős feladatellátási kötelezettségük és jogviszonyuk körében mind az egészségügyi minimumfeltételek, mind az oktatási akkreditáció szempontjából teljes értékű alkalmazottnak minősülnek.”
-
-267. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 70. alcíme a következő 117/G. §-sal egészül ki.
-
-„117/G. § (1) Az 53. § (4) bekezdésétől eltérően a komplex vizsgát követő négy tanéven belül kell a doktori szabályzatban meghatározottak szerinti doktori értekezést benyújtania annak, aki a komplex vizsgáját 2018. február 1-je és 2021. május 10-e között teljesítette. Ez a határidő különös méltánylást érdemlő esetekben legfeljebb egy évvel a doktori szabályzatban meghatározottak szerint meghosszabbítható.
-
-(2) Az (1) bekezdésben meghatározott doktorandusz fokozatszerzési eljárásában a hallgatói jogviszony szünetelése legfeljebb négy félév lehet.”
+#### 267. §
 
 #### 113. A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény módosítása
 
-268. § A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény
-
-- a) 37. § (4) bekezdésében a „közalkalmazott,” szövegrész helyébe a „közalkalmazott, egészségügyi szolgálati jogviszonyban álló személy” szöveg,
-- b) 37. § (5) bekezdés c) pontjában a „közalkalmazotti,” szövegrész helyébe a „közalkalmazotti, egészségügyi szolgálati” szöveg
-
-lép.
+#### 268. §
 
 #### 114. A honvédek jogállásáról szóló 2012. évi CCV. törvény módosítása
 
-269. § A honvédek jogállásáról szóló 2012. évi CCV. törvény 59. §-a a következő (4b) bekezdéssel egészül ki:
+#### 269. §
 
-„(4b) A 2. § 33. pontja szerinti szerződéses állomány azon tagjának, akinek a jogviszonya az (1) bekezdés d) pontja alapján szűnt volna meg, de erre a (4) bekezdés b) pontja alapján nem került sor, annak a szerződéses szolgálati viszonya a különleges jogrend megszűnését követő 15. napon szűnik meg.”
+#### 270. §
 
-270. § A honvédek jogállásáról szóló 2012. évi CCV. törvény 97. § (4) bekezdése helyébe a következő rendelkezés lép:
+#### 271. §
 
-„(4) A munkáltatói jogkört gyakorló a (3) bekezdés szerinti szolgálatteljesítési időkeret tartamán belül miniszteri rendeletben meghatározottak szerint kijelöli, közli, és szükség esetén módosíthatja a teljesítendő szolgálatteljesítési időt és a pihenőnapokat. A munkáltatói jogkört gyakorló a (3) bekezdés szerinti szolgálatteljesítési időkeret időtartamának lejártakor megállapítja az időkeretben ténylegesen teljesített szolgálatteljesítési idő tartamát azzal, hogy – a 237/A. § (3) bekezdése és a 237/H. § (5) bekezdése kivételével – a munkaszüneti napon, valamint a rá irányadó heti pihenőnapon teljesített szolgálatot kétszeresen kell figyelembe venni. Ha az állomány időkeretben foglalkoztatott tagja az idő elszámolása szerint az időkeret időtartamának lejártáig a részére (3) bekezdés szerint előírt szolgálatteljesítési időt meghaladó szolgálatot teljesített, a szolgálatteljesítési idő elszámolás során megállapított többlet-szolgálatteljesítés időtartama túlszolgálatnak minősül, ezért a munkáltatói jogkört gyakorló a 103. § (5) bekezdése szerint jár el.”
+#### 272. §
 
-271. § A honvédek jogállásáról szóló 2012. évi CCV. törvény 212. §-a a következő (2a) bekezdéssel egészül ki:
+#### 273. §
 
-„(2a) Nem alkalmazható a 22. § (4) bekezdése és a 68. § (1) bekezdés c) pontja a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 106. § (12) bekezdése, valamint Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 36. § (1a) bekezdése szerinti önkéntes tartalékos katona esetében.”
+#### 274. §
 
-272. § A honvédek jogállásáról szóló 2012. évi CCV. törvény a következő 216/A. §-sal egészül ki:
+#### 275. §
 
-„216/A. § (1) A honvédelmi szervezet a 212. § (2a) bekezdése szerinti önkéntes tartalékos katona kiképzésre vagy tényleges szolgálatteljesítésre történő behívásának időpontját és várható időtartamát – figyelemmel a közjogi tisztségéből adódó feladatainak ellátására – a behívás kezdeményezését megelőzően legalább 30 nappal korábban, a vele történt előzetes egyeztetés eredménye szerint határozza meg, és erről tájékoztatja a 212. § (2a) bekezdése szerinti önkéntes tartalékos katona munkáltatóját.
+#### 276. §
 
-(2) Az (1) bekezdés szerinti önkéntes tartalékos katona a behívásról a 216. § (1) bekezdése szerinti behívóparancs kézhezvételétől számított 5 napon belül tájékoztatja a képviselő-testületet, közgyűlést.
+#### 277. §
 
-(3) Az (1) bekezdés szerinti önkéntes tartalékos katona a kiképzésre és a tényleges szolgálatteljesítés idejére párttagságának felfüggesztésére nem köteles, de a párttagságából fakadó jogait és kötelezettségeit nem gyakorolhatja.
+#### 278. §
 
-(4) Az (1) bekezdés szerinti önkéntes tartalékos katonára a 214. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a jelöltként történt nyilvántartásba vételtől a jelöltségtől való visszalépésig, a tisztségbe történt megválasztásig, vagy annak elmaradásáig az (1) bekezdés szerinti önkéntes tartalékos katona önkéntes tartalékos szolgálati viszonya szünetel. A szünetelés időtartama alatt az (1) bekezdés szerinti önkéntes tartalékos katona illetményre és egyéb pénzbeli, valamint természetbeni ellátásra nem jogosult, az önkéntes tartalékos szolgálati viszonyból származó jogait nem gyakorolhatja, az azzal kapcsolatos kötelezettségek őt nem terhelik. Az (1) bekezdés szerinti önkéntes tartalékos katona önkéntes tartalékos szolgálati viszonya megszűnik, ha a szünetelés időtartama alatt a szerződésében vállalt szolgálati ideje letelik.
-
-(5) Az (1) bekezdés szerinti önkéntes tartalékos katona
-
-a) ha az Alaptörvény XXXI. cikk (3) bekezdése szerinti Országgyűlés általi döntés meghozatalakor tényleges szolgálatot teljesít, a tényleges szolgálatból azonnal el kell bocsátani,
-
-b) az Alaptörvény XXXI. cikk (3) bekezdése szerinti döntés Országgyűlés általi meghozatalát követően tényleges szolgálatra nem hívható be.”
-
-273. § A honvédek jogállásáról szóló 2012. évi CCV. törvény 237/B. §-a helyébe a következő rendelkezés lép:
-
-„237/B. § (1) Ha a Honvédség a Kormány döntése alapján a Hvt. 36. § (1) bekezdés k) pontja szerinti feladatban részt vesz, a Kormány rendeletében az e fejezetben foglalt különös szabályok alkalmazását rendelheti el az 1. § (1) bekezdése szerinti állomány tagja és – a 212–222. §-ban foglaltakra figyelemmel – a tényleges szolgálatot teljesítő önkéntes tartalékos katona, valamint a honvéd tisztjelölt vonatkozásában.
-
-(2) Az állomány tagjának és a tényleges szolgálatot teljesítő önkéntes tartalékos katonának a Hvt. 36. § (1) bekezdés k) pontja szerinti feladatban történő részvételére a 49. § szerinti vezényléssel kerül sor. A honvéd tisztjelölt a 230. § (5) bekezdéstől eltérően a Hvt. 36. § (1) bekezdés k) pontja szerinti feladat ellátására is vezényelhető.”
-
-274. § A honvédek jogállásáról szóló 2012. évi CCV. törvény XXI/B. Fejezete a következő 237/H. és 237/I. §-sal egészül ki:
-
-„237/H. § (1) A Hvt. 36. § (1) bekezdés k) pontja szerinti veszélyhelyzettel kapcsolatos feladatra vezényelt
-
-a) állomány tagja,
-
-b) tényleges szolgálatot teljesítő önkéntes tartalékos katona, valamint
-
-c) honvéd tisztjelölt
-
-[e fejezet alkalmazásában az a)–c) pont a továbbiakban együtt: vezényelt állomány] naptári naponként, miniszteri rendeletben meghatározott összegű fokozott igénybevételi illetménypótlékra jogosult.
-
-(2) A vezényelt állomány a 107. § (1) bekezdésétől eltérően nem jogosult az őr-, az ügyeleti és a készenléti szolgálat és a 105. § (4) bekezdése szerinti rendelkezésre állás teljesítésének ellentételezéseként a 128. § (3) bekezdése szerinti illetménypótlékra.
-
-(3) A vezényelt állományra nem alkalmazható a 101. § (3) bekezdése, 104. §-a, 247/H. §-a és 247/I. § (5) bekezdése.
-
-(4) A vezényelt állomány pihentetéséről az állományilletékes parancsnok a vezénylés megszűnését követően közvetlenül, szolgálatmentesség biztosításával gondoskodik.
-
-(5) Aki az (1) bekezdés szerinti fokozott igénybevételi illetménypótlékban részesült, arra a 97. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munkaszüneti napon, valamint a rá irányadó heti pihenőnapon történő szolgálatteljesítését nem kell kétszeresen figyelembe venni.
-
-237/I. § Ha az állomány tagja a Hvt. 36. § (1) bekezdés k) pontja szerinti szolgálati feladat végrehajtásában való részvétele miatt nem vett részt a fizikai állapotfelmérésen, illetve nem teljesítette az éves kiképzési feladatokat, vagy a fizikai állapotfelmérés, illetve az éves kiképzési feladat a Hvt. 36. § (1) bekezdés k) pontja szerinti szolgálati feladat végrehajtása miatt nem került megszervezésre, akkor az éves teljesítményértékelés során az értékelt időszakot megelőző évben eredményesen teljesített fizikai állapotfelmérés, illetve az éves kiképzési feladatok eredményét kell figyelembe venni.”
-
-275. § A honvédek jogállásáról szóló 2012. évi CCV. törvény a következő XXI/C. Fejezettel egészül ki:
-
-„XXI/C. FEJEZET
-
-AZ EGÉSZSÉGÜGYI MUNKAKÖRŰ KATONÁK JOGÁLLÁSÁRA VONATKOZÓ KÜLÖN SZABÁLYOK
-
-237/J. § (1) E fejezet alkalmazásában
-
-a) egészségügyi munkakörű katona: a honvédelmi egészségügyi szolgáltatónál vagy a KNBSZ-nél szolgálatot teljesítő, az 1. § (1) bekezdése hatálya alá tartozó, az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 4. § a) pontja szerinti egészségügyi dolgozó és az Eütev. 4. § c) pontja szerinti rezidens,
-
-b) egészségügyi tevékenység: az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § y) pontjában meghatározott tevékenység,
-
-c) magasabb vezető:
-
-ca) a honvédelmi egészségügyi szolgáltató vezetője, a honvédelmi egészségügyi szolgáltató alapító okiratában meghatározott, közfinanszírozott területi ellátási kötelezettséggel rendelkező szervezeti egység (a továbbiakban: honvédelmi egészségügyi szolgáltató szervezeti egység) vezetője, valamint
-
-cb) a honvédelmi egészségügyi szolgáltató vezetőjének a helyettese és gazdasági helyettese, a honvédelmi egészségügyi szolgáltató gazdasági igazgatója, a honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjének a Hvt. 46/A. § (2) bekezdése szerinti helyettese (a továbbiakban: a felügyeleti helyettes), a honvédelmi egészségügyi szolgáltató szervezeti egység orvosigazgatója (szakmai főigazgató-helyettese), ápolási igazgatója,
-
-d) vezető: a c) pontban foglaltakat ide nem értve a honvédelmi egészségügyi szolgáltató szervezeti elemének vezetője és annak helyettese, valamint a főgyógyszerész.
-
-(2) Az egészségügyi munkakörű katona tekintetében e törvényt az e fejezetben foglalt eltérésekkel, megfelelően kell alkalmazni.
-
-(3) Az (1) bekezdés c) és d) pontját, a (7)–(8) bekezdést, a 237/L. § (3), (4) és (6) bekezdését az állomány honvédelmi egészségügyi szolgáltatónál foglalkoztatott, az Eütev. 4. § b) pontja szerinti egészségügyben dolgozó tagjára is alkalmazni kell.
-
-(4) A honvédelmi egészségügyi szolgáltatóra és az egészségügyi munkakörű katonára az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) nem alkalmazható, kivéve, ha e fejezet másként nem rendelkezik.
-
-(5) A miniszter ellátási érdekből engedélyezheti a honvédelmi egészségügyi szolgáltató számára az Eütv. 247. § (1) bekezdés b) pontja szerinti, az egészségügyi szolgáltatás – ideértve a telemedicina keretében nyújtott egészségügyi szolgáltatást is – megkezdésére és gyakorlására vonatkozó általános szabályokat, valamint a működési engedélyezési eljárásra, a bejelentés alapján történő egészségügyi szolgáltatás – ideértve a telemedicina keretében nyújtott egészségügyi szolgáltatást is – érdekében a hatósági nyilvántartásba vételre, továbbá a hatósági nyilvántartás személyes adatokat nem tartalmazó adattartalmára vonatkozó szabályokat tartalmazó jogszabályban meghatározott közreműködő személy vagy szervezet igénybevételét.
-
-(6) A 38. § (1a) bekezdés b) pontjában, 46. § (1) bekezdés r) és s) pontjában, 47. § (1a) bekezdésében, 59. § (2) bekezdés c) pontjában, 92. § (2a) bekezdésében, 197. § (3) bekezdésében és 215. § (1) bekezdés e) pontjában az ott felsorolt jogviszonyokon túl az egészségügyi szolgálati jogviszonyt is érteni kell.
-
-(7) A 4. § (1) bekezdésétől eltérően az állományilletékes parancsnoki jogkör gyakorlására jogosultakat, jogköreiket és a jogkör-gyakorlás rendjét a honvédelmi egészségügyi szolgáltató szervezeti és működési szabályzata is meghatározhatja.
-
-(8) A 215. § (1) bekezdés e) pontja nem alkalmazható a honvédelmi egészségügyi szolgáltatónál létesítendő honvédelmi alkalmazotti jogviszonyra.
-
-237/K. § (1) A 81. § (1), (2), (4) bekezdésétől és (5) bekezdés a) pontjától eltérően az egészségügyi munkakörű katona kizárólag a miniszter előzetes engedélyével létesíthet vagy tarthat fenn
-
-a) más kereső tevékenységnek minősülő jogviszonyt és egyéb, díjazás ellenében folytatott tevékenységet,
-
-b) szellemi tevékenység, valamint közérdekű önkéntes tevékenység végzésére irányuló jogviszonyt, ha a munkavégzés időtartama részben azonos az egészségügyi munkakörű katona szolgálatteljesítési idejével.
-
-(2) Az (1) bekezdés szerinti engedélyre vonatkozó kérelmet a honvédelmi egészségügyi szolgáltató vezetője útján, annak véleményével ellátva kell felterjeszteni döntéshozatal céljából a miniszter részére. A miniszter a döntéséről egyidejűleg tájékoztatja az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjét.
-
-(3) Az egészségügyi munkakörű katona az őt foglalkoztató honvédelmi egészségügyi szolgáltató székhelyén vagy telephelyén nem végezhet olyan egészségügyi tevékenységet, amire szolgálati viszonya nem terjed ki.
-
-(4) Az egészségügyi munkakörű katona a szolgálati viszony keretében – az Eütv. 3. § i) pontja szerinti sürgős szükség esetét és jogszabályban meghatározott eseteket kivéve – nem nyújthat egészségügyi szolgáltatást ugyanazon személy számára, akinek más – e törvény hatálya alá nem tartozó – jogviszonyban már ugyanazon betegség tekintetében egészségügyi szolgáltatást nyújtott.
-
-(5) A magasabb vezető és a vezető beosztást betöltő, továbbá a pénzügyi kötelezettségvállalásra jogosult egészségügyi munkakörű katona beosztásával összeférhetetlen a munkáltatóéval azonos vagy ahhoz hasonló tevékenységet is végző, illetve a munkáltatóval rendszeres gazdasági kapcsolatban álló gazdasági társaságban betöltött vezető tisztségviselői, felügyelőbizottsági tagság.
-
-(6) Az (5) bekezdés szerinti összeférhetetlenség alól a munkáltatói jogkört gyakorló felmentést adhat.
-
-(7) A honvédelmi egészségügyi szolgáltató vezetője, a honvédelmi egészségügyi szolgáltató szervezeti egység vezetője és a felügyeleti helyettes az Eütev. 1. §-a szerinti gyógyító-megelőző tevékenységet kizárólag a védelem-egészségügy körében, továbbá a működési nyilvántartás megújítása céljából, a továbbképzése alapján szükséges gyakorlati pontok megszerzése érdekében és az ahhoz szükséges mértékben végezhet.
-
-(8) Ha az Eszjtv. és felhatalmazása alapján kiadott jogszabály az Eszjtv. 4. §-a szerinti összeférhetetlenségi rendelkezéseit feloldó vagy enyhítő szabályt állapít meg, úgy azt az egészségügyi munkakörű katonára is alkalmazni kell.
-
-237/L. § (1) Nem alkalmazható a 122. § (1)–(1b), (6) bekezdése, a 123–125. §, a 127. és 128. §
-
-a) az orvos, szakorvos, fogorvos, szakfogorvos, gyógyszerész, szakgyógyszerész,
-
-b) a miniszteri rendeletben meghatározott munkakörben foglalkoztatott egyéb, nem egészségügyi egyetemi végzettséggel, valamint nem egészségügyi egyetemi végzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkező egészségügyi munkakörű katona, továbbá
-
-c) az Eütv. szerinti egészségügyi felsőfokú szakirányú szakmai képzést lezáró szakképesítés megszerzését megelőzően – az ilyen szakképesítés megszerzése feltételeként előírt felsőfokú szakképesítéssel rendelkező és ezen szakképesítéshez kötött munkakörben foglalkoztatott – egészségügyi munkakörű katona
-
-illetménye megállapítása során.
-
-(2) Az (1) bekezdés szerinti egészségügyi munkakörű katona az Eszjtv. 1. mellékletében foglalt illetménytábla szerinti fizetési fokozatához tartozó illetmény 106%-ára jogosult.
-
-(3) A (2) bekezdéstől eltérően, a magasabb vezető illetményének összegét egyedileg a miniszter – az egészségügyi szolgáltatás irányításáért felelős szerv vezetője egyetértésével, az ő irányítása alá tartozó egészségügyi szolgáltatók magasabb vezetőinek juttatásai megállapítására vonatkozó alapelvekkel összhangban – állapítja meg azzal, hogy az egészségügyi munkakörű katonának minősülő
-
-a) 237/J. § (1) bekezdés c) pont ca) alpontja szerinti magasabb vezető legalább az Eszjtv. 1. mellékletében foglalt illetménytábla legmagasabb fizetési fokozatához meghatározott összeg 106%-ára,
-
-b) 237/J. § (1) bekezdés c) pont cb) alpontja szerinti magasabb vezető pedig legalább az Eszjtv. 1. mellékletében foglalt illetménytábla szerinti fizetési fokozatához tartozó illetmény 106%-ára
-
-jogosult.
-
-(4) A miniszter – az Eszjtv. hatálya alá tartozó vezetőkre vonatkozó feltételekre és mértékre tekintettel – megállapíthatja a 237/J. § (1) bekezdés d) pontjában meghatározott vezetőnek minősülő tagja illetményén felül járó vezetői juttatása feltételeit és mértékét.
-
-(5) A (2) és (4) bekezdés szerinti fizetési fokozathoz tartozó illetmény, valamint a (17) bekezdés szerinti egészségügyi munkakörű katona illetménye legfeljebb 20%-os növeléséről a munkáltatói jogkör gyakorlója a miniszteri rendeletben meghatározott teljesítményértékelés alapján dönthet, ha az értékelés kiemelkedő vagy jó szintű.
-
-(6) Nem jogosult az (5) bekezdés szerinti teljesítményértékelésen alapuló illetménynövelésre a 237/J. § (1) bekezdés c) pontjában meghatározott magasabb vezető.
-
-(7) Az (1) bekezdés szerinti egészségügyi munkakörű katona szolgálati viszonyban töltött ideje és a fizetési fokozatának megállapítása során
-
-a) a 92. § (2a) bekezdése szerinti pótszabadság mértéke szempontjából irányadó szolgálati időt,
-
-b) az egészségügyi tevékenység végzésére irányuló szabadfoglalkozás keretében, egyéni egészségügyi vállalkozóként, egyéni cég tagjaként, társas vállalkozás tagjaként, egyházi személyként vagy vallási egyesület vallásos szertartást hivatásszerűen végző tagjaként töltött időt, és
-
-c) ha ezen időtartam korábban nem került beszámításra, akkor a PhD-fokozat megszerzése esetén a doktori képzésben töltött időt
-
-kell figyelembe venni. Ha a szolgálati viszonyban töltött idő számításánál az azonos naptári időszakra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.
-
-(8) Az (1) bekezdés szerinti egészségügyi munkakörű katona a szolgálati viszonyban töltött idő alapján az Eszjtv. 1. melléklete szerinti – az adott fizetési fokozathoz tartozó – időtartam (a továbbiakban: várakozási idő) szerint lép eggyel magasabb fizetési fokozatba. Az (1) bekezdés szerinti egészségügyi munkakörű katona eggyel magasabb fizetési fokozatba lép a várakozási idő elteltét követő hónap első napjától. A magasabb fizetési fokozat elérésével a várakozási idő újrakezdődik.
-
-(9) Az Eütv. szerinti egészségügyi felsőfokú szakirányú szakmai képzést lezáró szakvizsga megszerzését megelőzően az – ilyen szakvizsga megszerzése feltételeként előírt felsőfokú szakképesítéssel rendelkező és ezen szakképesítéshez kötött munkakörben foglalkoztatott – egészségügyi munkakörű katona illetménye az Eszjtv. 1. melléklete szerinti 4. fizetési fokozatot akkor sem érheti el, ha a számára előírt várakozási idő eltelt.
-
-(10) Ahol e törvény vagy miniszteri rendelet az (1) bekezdés szerinti egészségügyi munkakörű katona
-
-a) alapilletményét említi, ott az Eszjtv. 1. melléklete szerinti fizetési fokozathoz tartozó, (2) bekezdés szerinti – az (5) bekezdés szerinti esetben a megnövelt – illetményt vagy a (3) bekezdés szerinti illetményt,
-
-b) illetményét vagy távolléti díját említi, ott az Eszjtv. 1. melléklete szerinti fizetési fokozathoz tartozó, a (2) bekezdés szerinti – az (5) bekezdés szerinti esetben a megnövelt – illetmény vagy a (3) bekezdés szerinti illetmény és a (4) bekezdés szerinti illetményén felül járó vezetői juttatás együttes összegét
-
-kell érteni.
-
-(11) A miniszter közjogi szervezetszabályozó eszközben – az Eszjtv. hatálya alá tartozó foglalkoztatottakra vonatkozó feltételekre és mértékre tekintettel – megállapítja az (1) bekezdés szerinti egészségügyi munkakörű katona részére különösen a
-
-a) kötelezően elrendelt ügyelet,
-
-b) készenlét,
-
-c) rendes munkarend szerinti feladatok ellátása, ügyeleti feladatellátás, készenléti feladatellátás keretében történő önként vállalt többletmunkavégzés
-
-esetén járó további díjakat, azok feltételeit és mértékét.
-
-(12) Az Eszjtv. hatálya alá tartozó foglalkoztatottakra vonatkozó feltételekre és mértékre tekintettel a miniszter az (1) bekezdés szerinti egészségügyi katona részére elrendelt átmeneti többletfeladatok – ide nem értve a helyettesítést – teljesítéséért alkalmanként kiegészítő illetményt állapíthat meg közjogi szervezetszabályozó eszközben.
-
-(13) Az (1) bekezdés szerinti egészségügyi munkakörű katona az önként vállalt többletmunkáért – ideértve az önként vállalt ügyeletet és készenlétet is – díjazásra jogosult, melynek mértékét a munkáltatói jogkört gyakorló és az (1) bekezdés szerinti egészségügyi munkakörű katona – a (11) bekezdés szerinti keretek között – külön megállapodásban állapít meg. Az (1) bekezdés alá tartozó egészségügyi munkakörű katona önként vállalt többletmunkájának díjazására az Eütev. nem alkalmazható.
-
-(14) Ha az egészségügyi munkakörű katona szolgálati beosztása ellátása helyett vagy mellett a honvédelmi egészségügyi szolgáltató vezetője rendelkezése alapján átmenetileg más egészségügyi munkakörű katona szolgálati beosztásába vagy egészségügyi honvédelmi alkalmazott munkakörébe tartozó feladatokat lát el 30 napon túl, és ezáltal jelentős többletmunkát végez, a többletmunka ellentételezésére illetményén felül részére
-
-a) az (1) bekezdés szerinti egészségügyi munkakörű katona helyettesítése esetén a helyettesített (10) bekezdés a) pontja szerinti alapilletményének legfeljebb 50%-a,
-
-b) az (1) bekezdés hatálya alá nem tartozó egészségügyi munkakörű katonának minősülő egészségügyi munkakörű katona helyettesítése esetén a helyettesített 123. § szerinti alapilletményének legfeljebb 50%-a,
-
-c) az egészségügyi honvédelmi alkalmazott helyettesítése esetén a helyettesített honvédelmi alkalmazott a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 89/D. § (2) bekezdése szerinti illetményének legfeljebb 50%-a
-
-állapítható meg. E bekezdés szerinti esetekre nem alkalmazható az 55. §.
-
-(15) Ha az (1) bekezdés szerinti egészségügyi munkakörű katona a Hvt. 36. § (1) bekezdés h) és k), vagy (2) bekezdés a) pontja szerinti feladatra vezénylésre kerül, gyakorlaton vesz részt, vagy miniszteri rendeletben meghatározott, 105. § szerinti katonai szolgálattal összefüggő tevékenységet lát el, az (1) bekezdéstől eltérően e törvény és miniszteri rendelet szerinti fokozott igénybevételi pótlékra jogosult.
-
-(16) Ha az (1) bekezdés szerinti egészségügyi munkakörű katona szolgálati viszonyának általa kezdeményezett megszüntetését követően 12 hónapon belül egészségügyi szolgálati jogviszonyt létesít, akkor az egészségügyi szolgálati jogviszonyban megállapított illetménye egy évig nem haladhatja meg a korábbi jogviszony megszűnésekor érvényes illetményét.
-
-(17) Az (1) bekezdés hatálya alá nem tartozó egészségügyi munkakörű katona az egészségügyi ágazati előmeneteli szabályok szerinti – törvényben, a Kormány rendeletében és a miniszter rendeletében meghatározott – illetményre, valamint illetménypótlékra jogosult. A miniszter – az Eszjtv. hatálya alá tartozó foglalkoztatottakra vonatkozó feltételekre és mértékre tekintettel – az (1) bekezdés hatálya alá nem tartozó egészségügyi munkakörű katona részére további illetményen felüli díjazást, egyéb juttatást, támogatást állapíthat meg.”
-
-276. § A honvédek jogállásáról szóló 2012. évi CCV. törvény 238. § (2) bekezdése a következő 43. és 44. ponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa)
-
-„43. a 237/L. § (1) bekezdés b) pontja szerinti munkaköröket,
-
-44. a SARS-CoV2 járványhelyzethez kapcsolódóan, méltányosságból meghosszabbított egészségügyi szabadság megállapításának eljárásrendjét.”
-
-277. § A honvédek jogállásáról szóló 2012. évi CCV. törvény 141. alcíme a következő 247/Y. és 247/Z. §-sal egészül ki:
-
-„247/Y. § (1) A Hvt. 36. § (1) bekezdés k) pontja szerinti feladatra vezényelt állomány tagjának és a tényleges szolgálatot teljesítő önkéntes tartalékos katonának a veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendelet szerinti veszélyhelyzet kihirdetésétől a honvédek jogállásáról szóló 2012. évi CCV. törvény hatálya alá tartozókra vonatkozó rendkívüli intézkedésekről szóló 548/2020. (XII. 2.) Korm. rendelet hatálybalépését megelőző napig teljesített túlszolgálata tekintetében – a 247/H. § (2) és (3) bekezdésétől eltérően – a túlszolgálatért annak időtartamával azonos mértékű szabadidő jár, amelyet legkésőbb a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 60 napon belül kell kiadni.
-
-(2) Az (1) bekezdés szerinti szabadidő kétszeresére jogosult az az (1) bekezdés szerint túlszolgálatot teljesítő, aki a heti pihenőnapon vagy munkaszüneti napon teljesített túlszolgálatot.
-
-247/Z. § (1) Ha a hivatásos vagy szerződéses állományú katona szolgálatképtelensége igazolhatóan az egészségügyi ellátás SARS-CoV2 járványhelyzethez kapcsolódó felfüggesztése okán egy éven túl is fennáll, a 119. § (2) bekezdésétől eltérően az egészségügyi szabadság méltányosságból a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő legfeljebb hatodik hónap végéig meghosszabbítható.
-
-(2) Az egészségügyi szabadság (1) bekezdés szerinti időtartamára az egészségügyi szabadság 365. napján folyósítható ellátást kell folyósítani.”
-
-278. § A honvédek jogállásáról szóló 2012. évi CCV. törvény
-
-- a) 46. § (1) bekezdés q) pontjában a „tartamára” szövegrész helyébe a „tartamára, ha nem tölt be szolgálati beosztást” szöveg,
-- b) 68. § (1) bekezdés a) pontjában az „elérésekor” szövegrész helyébe, az „elérésekor azzal, hogy a katonai bíró a Magyar Honvédséggel fennálló szolgálati viszonya a hivatásos szolgálat felső korhatárának elérése miatt csak akkor szűnik meg, ha a bírói szolgálati viszonya megszűnik” szöveg,
-- c) 214. § (3) bekezdésében a „szolgálati viszonya e törvény” szövegrész helyébe a „szolgálati viszonya – a 212. § (2a) bekezdése szerinti önkéntes tartalékos katona kivételével – e törvény” szöveg
-
-lép.
-
-279. § Hatályát veszti a honvédek jogállásáról szóló 2012. évi CCV. törvény
-
-- a) 137. § (2) bekezdésében az „A legénységi állomány tagja, továbbá az állomány próbaidős tagja kizárólag laktanyai elhelyezésre vagy helyőrségi szálló férőhely juttatására jogosult.” szövegrész,
-- b) 237/F. § (4) és (5) bekezdése.
+#### 279. §
 
 #### 115. A honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény módosítása
 
-280. § A honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény a következő 12/A. §-sal egészül ki:
+#### 280. §
 
-„12/A. § (1) A honvédelmi egészségügyi szolgáltató vezetője a Hjt. 237/J. § (1) bekezdés a) pontja szerinti egészségügyi munkakörű katonáról és a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 89/A. § (1) bekezdés a) pontja szerinti egészségügyi honvédelmi alkalmazottról (a továbbiakban együtt: az egészségügyi állomány tagja) a 23. mellékletben meghatározott adatkörre kiterjedő nyilvántartást (a továbbiakban: alapnyilvántartás) vezet. A 23. mellékletben nem szereplő körben – törvény eltérő rendelkezésének hiányában – adatkezelés nem végezhető, ilyen adatot nyilvántartani nem lehet.
-
-(2) Az Infotv. 26. § (2) bekezdésében foglalt adatokon túl közérdekből nyilvános adat az egészségügyi állomány tagja munkáltatójának megnevezése és besorolására vonatkozó adata is.
-
-(3) A honvédelmi egészségügyi szolgáltató alapnyilvántartási rendszere törvény felhatalmazásának hiányában más adatrendszerrel nem kapcsolható össze.
-
-(4) Az alapnyilvántartásból statisztikai célra csak személyazonosításra alkalmatlan módon szolgáltatható adat.
-
-(5) A honvédelmi egészségügyi szolgáltatónál vezetett alapnyilvántartásba – az érintetten kívül – a következők jogosultak betekinteni, illetve abból adatot átvenni a rájuk vonatkozó jogszabályban meghatározott feladataik ellátása céljából:
-
-a) az egészségügyi állomány tagjának elöljárója vagy hivatali felettese,
-
-b) a teljesítményértékelést, minősítést végző vezető,
-
-c) feladatkörének keretei között a törvényességi ellenőrzést végző vagy törvényességi felügyeletet gyakorló szerv,
-
-d) munkaügyi, polgári jogi, közigazgatási per kapcsán a bíróság,
-
-e) az egészségügyi állomány tagja ellen indult büntetőeljárásban a bíróság, az ügyészség és a nyomozó hatóság,
-
-f) a személyzeti, munkaügyi és illetményszámfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül,
-
-g) az adóhatóság, a nyugdíjbiztosítási igazgatási szerv és az egészségbiztosítási szerv, az üzemi baleseteket kivizsgáló szerv és a munkavédelmi szerv,
-
-h) az államháztartási belső ellenőrzési tevékenységet végző személy.
-
-(6) Az alapnyilvántartásban rögzített adat a jogviszony megszűnését követő 10. év végéig kezelhető.”
-
-281. § A honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény az 1. melléklet szerinti 23. melléklettel egészül ki.
+#### 281. §
 
 #### 116. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
-282. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény a következő XXX/A. Fejezettel egészül ki:
+#### 282. §
 
-„XXX/A. FEJEZET
+#### 283. §
 
-A RENDVÉDELMI SZERVNÉL MŰKÖDŐ EGÉSZSÉGÜGYI SZOLGÁLTATÓNÁL FOGLALKOZTATOTTAKRA VONATKOZÓ ELTÉRŐ RENDELKEZÉSEK
+#### 284. §
 
-317/A. § (1) A rendvédelmi szervnél működő egészségügyi szolgáltatónál
+#### 285. §
 
-a) a hivatásos állományból,
-
-b) a rendvédelmi igazgatási szolgálati jogviszonyban álló állományból, valamint
-
-c) a munkavállalói állományból
-
-egészségügyi tevékenységet végző személyre e törvényt az e fejezetben foglalt eltérésekkel kell alkalmazni.
-
-(2) E fejezet alkalmazásában
-
-a) egészségügyi tevékenységet végző személy: az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 4. § a) pontja szerinti egészségügyi dolgozó,
-
-b) egészségügyi feladatot ellátó dolgozó: a rendvédelmi szervnél szolgálati viszonyban, rendvédelmi igazgatási szolgálati jogviszonyban vagy munkaviszonyban álló orvos, szakorvos, fogorvos, szakfogorvos, gyógyszerész, szakgyógyszerész, továbbá egyéb, az egészségügyi feladatot ellátó szakdolgozónak nem minősülő nem egészségügyi egyetemi végzettséggel, valamint nem egészségügyi egyetemi végzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkező személy,
-
-c) egészségügyi feladatot ellátó szakdolgozó: a rendvédelmi szervnél szolgálati viszonyban, rendvédelmi igazgatási szolgálati jogviszonyban vagy munkaviszonyban álló egészségügyi tevékenységet végző személy, aki a miniszter által rendeletben meghatározott szakdolgozói szolgálati beosztást vagy munkakört tölt be.
-
-317/B. § (1) A szolgálati viszonyban álló egészségügyi feladatot ellátó dolgozó
-
-a) a 154–158. § szerinti illetmény helyett az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) 1. mellékletében meghatározott illetmény 106%-ára jogosult, az Eszjtv. 8. § (8a)–(9a) bekezdése alapján részére meghatározott gyakorlati idő figyelembevételével,
-
-b) részére a 180. § (2) bekezdése szerinti tanácsosi és főtanácsosi címpótlék nem folyósítható, azonban a cím használatára jogosult,
-
-c) besorolása, rendfokozata, szolgálati ideje e törvény szerint kerül megállapításra,
-
-d) esetében nem alkalmazható a 160. §, a 6., 8. és 9. mellékletben foglalt, a beosztási illetményt meghatározó szorzószám és a 10. melléklet.
-
-(2) A rendvédelmi igazgatási szolgálati viszonyban álló egészségügyi feladatot ellátó dolgozó
-
-a) a 289. § szerinti illetmény helyett az Eszjtv. 1. mellékletében meghatározott illetményre jogosult, az Eszjtv. 8. § (8a)–(9a) bekezdése alapján részére meghatározott gyakorlati idő figyelembevételével,
-
-b) esetében a 289/A. § nem alkalmazható azzal, hogy a rendvédelmi igazgatási szolgálati viszonyban álló e törvény szerinti fizetési fokozatát vezetni kell,
-
-c) esetében nem alkalmazható a 289/D. § és a 12. melléklet.
-
-(3) Az (1) bekezdés a) pontja, illetve a (2) bekezdés a) pontja szerinti illetmény legfeljebb húsz százalékos mértékben növelhető, a szolgálati viszonyban álló egészségügyi feladatot ellátó dolgozó esetében a 111–113. §, a rendvédelmi igazgatási szolgálati jogviszonyban álló egészségügyi feladatot ellátó dolgozó esetében a 288/Q. § szerinti teljesítményértékelés alapján. Az ilyen módon megnövelt illetmény első alkalommal április hónapban folyósítható, utolsó alkalommal a tárgyévet követő év márciusában jár.
-
-(4) Ha a XXVIII. Fejezet szerinti munkavállaló egészségügyi feladatot ellátó dolgozói feladatot lát el, legalább az Eszjtv. 1. mellékletében meghatározott illetmény 100%-ára jogosult.
-
-(5) Az egészségügyi feladatot ellátó dolgozók közül magasabb vezetőnek minősül
-
-a) a Büntetés-végrehajtás Egészségügyi Központ főigazgatója, valamint az Igazságügyi Megfigyelő és Elmegyógyító Intézet főigazgató főorvosa, valamint
-
-b) a Büntetés-végrehajtás Egészségügyi Központ, valamint az Igazságügyi Megfigyelő és Elmegyógyító Intézet
-
-ba) orvos igazgatója,
-
-bb) ápolási igazgatója és
-
-bc) gazdasági vezetője.
-
-(6) Az (1) bekezdés a) pontjában, illetve (2) bekezdés a) pontjában foglaltaktól eltérően az (5) bekezdés a) pontja szerinti magasabb vezető illetményének összegét egyedileg – az egészségügyi szolgáltatás irányításáért az ágazati jogszabályban kijelölt felelős állami szerv vezetőjének egyetértésével, az egészségügyi szolgáltatás irányításáért az ágazati jogszabályban kijelölt felelős állami szerv vezetőjének irányítása alá tartozó egészségügyi szolgáltatók vezetőinek juttatásai megállapítására vonatkozó alapelvekkel összhangban – a kinevezésre jogosult vezető állapítja meg azzal, hogy
-
-a) ha az (5) bekezdés a) pontja szerinti magasabb vezető szolgálati viszonyban áll, a 154–158. § szerinti illetmény helyett az Eszjtv. 1. melléklete szerinti legmagasabb fizetési fokozathoz meghatározott összeg legalább 106%-ára,
-
-b) ha az (5) bekezdés a) pontja szerinti magasabb vezető rendvédelmi igazgatási szolgálati jogviszonyban áll, a 289. § szerinti illetmény helyett legalább az Eszjtv. 1. melléklete szerinti legmagasabb fizetési fokozathoz meghatározott összegre
-
-jogosult.
-
-(7) Az (1) bekezdés a) pontjában, illetve (2) bekezdés a) pontjában foglaltaktól eltérően az (5) bekezdés b) pontja szerinti magasabb vezető illetményének összegét egyedileg – az egészségügyi szolgáltatás irányításáért az ágazati jogszabályban kijelölt felelős állami szerv vezetőjének egyetértésével, az egészségügyi szolgáltatás irányításáért az ágazati jogszabályban kijelölt felelős állami szerv vezetőjének irányítása alá tartozó egészségügyi szolgáltatók vezetőinek juttatásai megállapítására vonatkozó alapelvekkel összhangban – a kinevezésre jogosult vezető állapítja meg azzal, hogy
-
-a) ha az (5) bekezdés b) pontja szerinti magasabb vezető szolgálati viszonyban áll, a 154–158. § szerinti illetmény helyett legalább az Eszjtv. 1. melléklete szerinti fizetési fokozatához meghatározott összeg 106%-ára,
-
-b) ha az (5) bekezdés b) pontja szerinti magasabb vezető rendvédelmi igazgatási szolgálati jogviszonyban áll, a 289. § szerinti illetmény helyett legalább az Eszjtv. 1. melléklete szerinti fizetési fokozatához meghatározott összegre
-
-jogosult.
-
-(8) A (6) és (7) bekezdésben foglalt magasabb vezető illetményének a (3) bekezdésben foglaltak szerinti növelésére nincs lehetőség.
-
-(9) A 288/S. § (4) bekezdése szerinti korlát tekintetében nem kell beszámítani a 288/T. § (1) bekezdése szerint felsőfokú munkaköri osztályba tartozó „F” munkaköri kategóriába sorolt, (2) bekezdés szerinti rendvédelmi igazgatási alkalmazottat.
-
-(10) Az egészségügyi szolgáltatás irányításáért az ágazati jogszabályban kijelölt felelős állami szerv vezetőjének normatív utasítására figyelemmel a kinevezésre jogosult az egészségügyi tevékenységet végző személy részére elrendelt átmeneti többletfeladatok – ide nem értve a helyettesítést – teljesítéséért alkalmanként kiegészítő illetményt állapíthat meg.
-
-317/C. § (1) A miniszter által rendeletben meghatározott szolgálati beosztást vagy munkakört betöltő egészségügyi feladatot ellátó, szolgálati viszonyban vagy rendvédelmi igazgatási szolgálati jogviszonyban álló szakdolgozó egészségügyi szakdolgozói pótlékra jogosult.
-
-(2) A szolgálati viszonyban álló egészségügyi feladatot ellátó szakdolgozó esetében az egészségügyi szakdolgozói pótlék
-
-a) a 154. § szerinti illetmény része, azt egyéb pótlékként kell figyelembe venni,
-
-b) a 168. § (2) bekezdése tekintetében rendszeres illetménypótléknak minősül.
-
-(3) Az egészségügyi feladatot ellátó szakdolgozói pótlék mértékét a miniszter a rendvédelmi illetményalap 150–400%-a közötti értékben állapítja meg. Az egészségügyi szakdolgozói pótlék mértékének megállapításánál
-
-a) a betöltött szolgálati beosztást vagy munkakört,
-
-b) az egészségügyi tevékenységhez szükséges szakképzettséget, valamint
-
-c) az egészségügyi tapasztalatot
-
-kell figyelembe venni.
-
-(4) Az egészségügyi szakdolgozói pótlék megállapításához szükséges gyakorlati időt az Eszjtv. 8. § (8a)–(9a) bekezdésében foglalt idők figyelembevételével kell megállapítani.
-
-(5) Az egészségügyi szakdolgozói pótlékra jogosító szolgálati beosztást és munkakört a középfokú, emeltszintű és felsőfokú végzettséghez kötött szakdolgozói szolgálati beosztásba vagy munkakörbe kell besorolni. Az egészségügyi szakdolgozói pótlék megállapításához szükséges szakdolgozói végzettség szintjeit a miniszter rendeletben határozza meg.
-
-(6) Az egészségügyi szakdolgozói pótlékra jogosultságról a munkáltatói jogkör gyakorlója munkáltatói intézkedésben rendelkezik.
-
-317/D. § (1) A vezetői szolgálati beosztást vagy vezetői munkakört betöltő egészségügyi feladatot ellátó dolgozót a 317/B. §-ban foglaltakon túl – e § szerint – egészségügyi vezetői bérkiegészítés illeti meg.
-
-(2) Az egészségügyi vezetői bérkiegészítés mértékét a vezető kinevezésére jogosult személy állapítja meg. Ha a vezetői szolgálati beosztást vagy vezetői munkakört betöltő egészségügyi feladatot ellátó dolgozót
-
-a) az országos parancsnok vagy az országos főigazgató nevezi ki, akkor az egészségügyi vezetői bérkiegészítés mértékére az állományilletékes parancsnok tesz javaslatot,
-
-b) az állományilletékes parancsnok vagy – rendvédelmi igazgatási szolgálati jogviszonyban foglalkoztatott esetében – a szervezeti egység vezetője nevezi ki, akkor az egészségügyi vezetői bérkiegészítés mértékének megállapítására az országos parancsnok vagy országos főigazgató jóváhagyásával kerülhet sor.
-
-(3) Az egészségügyi vezetői bérkiegészítés mértékét a magasabb vezetők körébe nem tartozó azon vezetői szolgálati beosztást vagy munkakört betöltő esetében, aki önálló szervezeti elem vagy a munkamegosztás szempontjából elkülönült szervezeti elem vezetője az Eszjtv. végrehajtásáról szóló kormányrendelet szerint az egészségügyi intézmény önálló szervezeti egységének, illetve a munkamegosztás szempontjából elkülönült szervezeti egységének – magasabb vezetőnek nem minősülő – vezetőjére és annak helyettesére vonatkozó gyakorlat figyelembevételével kell megállapítani.
-
-(4) Az (1)–(3) bekezdésben foglalt szabályok figyelembevételével megállapított egészségügyi vezetői bérkiegészítés megállapítását követően az egészségügyi vezetői bérkiegészítés mértékéről a munkáltatói jogkör gyakorlója az országos kórház-főigazgatót tájékoztatja.
-
-(5) A szolgálati viszonyban álló egészségügyi feladatot ellátó dolgozó esetében az egészségügyi vezetői bérkiegészítés
-
-a) a 154. § szerinti illetmény része, azt egyéb pótlékként kell figyelembe venni,
-
-b) a 168. § (2) bekezdése tekintetében rendszeres illetménypótléknak minősül.”
-
-283. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény a következő 342/C. és 342/D. §-sal egészül ki:
-
-„342/C. § Felhatalmazást kap a miniszter, hogy rendeletben határozza meg az egészségügyi feladatot ellátó szakdolgozói pótlékra jogosító szolgálati beosztásokat és munkaköröket, a pótlék mértékét és megállapításának részletes feltételeit.
-
-342/D. § Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a SARS-CoV2 járványhelyzethez kapcsolódóan, méltányosságból meghosszabbított egészségügyi szabadság megállapításának eljárásrendjét.”
-
-284. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény a következő 353. §-sal egészül ki:
-
-„353. § Az egészségügyi tevékenységet végző személy 317/B. § (3) bekezdése szerinti illetmény növelésére első alkalommal a 2020. évre vonatkozó teljesítményértékelés elvégzését követően kerülhet sor.”
-
-285. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény a következő 363/A. §-sal egészül ki:
-
-„363/A. § (1) Ha a hivatásos állomány tagjának szolgálatképtelensége igazolhatóan az egészségügyi ellátás SARS-CoV2 járványhelyzethez kapcsolódó felfüggesztése okán egy éven túl is fennáll, a 147. § (2) bekezdésétől eltérően az egészségügyi szabadság méltányosságból a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő legfeljebb hatodik hónap végéig meghosszabbítható.
-
-(2) Az egészségügyi szabadság (1) bekezdés szerinti időtartamára az egészségügyi szabadság 365. napján folyósítható ellátást kell folyósítani.”
-
-286. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény
-
-- a) 1. § (6) bekezdésében az „és XXX.” szövegrész helyébe a „ , XXX. és XXX/A.” szöveg,
-- b) 1. § (7) bekezdésében a „287/C. §” szövegrész helyébe a „287/C. § és a XXX/A. Fejezet” szöveg,
-- c) 34. § (2) bekezdésében, 334. § (3) bekezdésében a „közalkalmazotti” szövegrész helyébe a „közalkalmazotti jogviszonyból, egészségügyi szolgálati” szöveg,
-- d) 34. § (3) bekezdésében, 80. § (2) bekezdés e) pontjában, 91. § (2) bekezdés b) pontjában, 95. §-ában, 57. alcím címében, 96. § c) pontjában, 96. § záró szövegrészében, 280. § (1) bekezdés f) pontjában, 283. §-ában, 288/E. § (4) bekezdés e) pontjában, 340. § 3. pontjában a „közalkalmazotti” szövegrész helyébe a „közalkalmazotti, egészségügyi szolgálati” szöveg,
-- e) 51. § (2) bekezdésében, 65. § (2) bekezdésében a „közalkalmazotti” szövegrész helyébe a „közalkalmazotti, egészségügyi szolgálati jogviszonyban betölthető” szöveg,
-- f) 65. § (3) bekezdés a) pontjában a „közalkalmazotti” szövegrész helyébe a „közalkalmazotti, egészségügyi szolgálati jogviszonyban betölthető” szöveg
-
-lép.
+#### 286. §
 
 #### 117. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
-287. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 9. § (8) bekezdés g) pontjában a „közalkalmazotti jogviszony” szövegrész helyébe a „közalkalmazotti jogviszony, egészségügyi szolgálati jogviszony” szöveg lép.
+#### 287. §
 
 #### 118. Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény módosítása
 
-288. § (1) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 3. § (3) bekezdése a következő s) ponttal egészül ki:
-
-(Az arckép profil nyilvántartás vezetésének a célja)
-
-„s) az egészségügyről szóló 1997. évi CLIV. törvény szerinti arcképes azonosításra épülő telemedicina szolgáltatás esetében a beteg azonosítása.”
-
-(2) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 9/A. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A 3. § (3) bekezdés s) pontjában meghatározott célból jogosult az e-közigazgatásért felelős miniszter az általa rögzített arcképmás felhasználásával a beteg személyazonossága ellenőrzésének támogatása érdekében az arcképelemző rendszer általi automatizált összehasonlítást igénybe venni.”
+#### 288. §
 
 #### 119. A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény módosítása
 
-289. § A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény 7. § (1) bekezdés 12. pontjában a „vagy közalkalmazotti jogviszony” szövegrész helyébe a „közalkalmazotti vagy egészségügyi szolgálati jogviszony,” szöveg lép.
+#### 289. §
 
 #### 120. A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény módosítása
 
-290. § A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 58. §-a a következő (18) bekezdéssel egészül ki:
+#### 290. §
 
-„(18) A kihelyező vezető mérlegelési jogkörében eljárva a kormányzati igazgatásról szóló törvény szerinti együttalkalmazási tilalom és összeférhetetlenség alól a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló személy részére legfeljebb négy év időtartamra felmentést adhat.”
-
-291. § A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény
-
-- a) 1. § (1) bekezdés e) pontjában az „a 13. § (6) bekezdése tekintetében a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban nem álló, a 13. § (1) bekezdése szerinti ranggal rendelkező személyekre” szövegrész helyébe az „a 13. § (1) és (6) bekezdése tekintetében a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló, illetve a minisztériummal jogviszonyban nem álló személyekre” szöveg,
-- b) 2. § 7. pontjában a „külképviseleti biztonság fenntartásával és kockázati kitettségének csökkentésére irányuló kapcsolatos érdek;” szövegrész helyébe a „külképviseleti biztonság fenntartásával kapcsolatos és kockázati kitettségének csökkentésére irányuló érdek;” szöveg,
-- c) 11. § (3a) bekezdésében a „jogviszonya” szövegrész helyébe a „jogviszonya, ide nem értve, ha az a) vagy a b) pont a kormánytisztviselőnek fel nem róható módon, önhibáján kívül következik be,” szöveg,
-- d) 13. § (1) bekezdésében a „javaslatára a kormánytisztviselőnek” szövegrész helyébe a „javaslatára” szöveg
-
-lép.
+#### 291. §
 
 #### 121. Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény módosítása
 
-292. § Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 156. §-a a következő (8) bekezdéssel egészül ki:
+#### 292. §
 
-„(8) A Magyar Ügyvédi Kamara szerveinek ülése elektronikus hírközlő eszköz útján vagy más személyazonosítást lehetővé tevő elektronikus eszköz igénybevételével is megtartható, vagy írásbeli egyeztetésre és döntéshozatalra is sor kerülhet. Az írásbeli egyeztetés és döntéshozatal elektronikus üzenetváltással (e-mail) is történhet.”
+#### 293. §
 
-293. § Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 158. § (1) bekezdése a következő 37. ponttal egészül ki:
-
-(A küldöttgyűlés szabályzatban rendelkezik)
-
-„37. az elektronikus hírközlő eszköz vagy más személyazonosítást lehetővé tevő elektronikus eszköz útján való tanácskozás és döntéshozatal szabályairól, továbbá a titkos szavazás lebonyolításának módjáról”
-
-294. § Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény 163. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A területi kamara szerveinek ülése elektronikus hírközlő eszköz útján vagy más személyazonosítást lehetővé tevő elektronikus eszköz igénybevételével is megtartható, vagy írásbeli egyeztetésre és döntéshozatalra is sor kerülhet. Az írásbeli egyeztetés és döntéshozatal elektronikus üzenetváltással (e-mail) is történhet.”
+#### 294. §
 
 #### 122. Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény módosítása
 
-295. § Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 7. § (1) bekezdés 12. pontjában az „és közalkalmazotti jogviszonyon,” szövegrész helyébe a „közalkalmazotti és egészségügyi szolgálati jogviszonyon,” szöveg lép.
+#### 295. §
 
 #### 123. A szociális hozzájárulási adóról szóló 2018. évi LII. törvény módosítása
 
-296. § A szociális hozzájárulási adóról szóló 2018. évi LII. törvény 34. § 12. pont b) alpontjában az „a közalkalmazotti jogviszony,” szövegrész helyébe az „a közalkalmazotti jogviszony, az egészségügyi szolgálati jogviszony,” szöveg lép.
+#### 296. §
 
 #### 124. A 2021. évi népszámlálásról szóló 2018. évi CI. törvény módosítása
 
-297. § (1) A 2021. évi népszámlálásról szóló 2018. évi CI. törvény 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 297. §
 
-„(1) A Magyarország területén 2022. október 1-jén 0 órakor fennálló állapot alapulvételével a természetes személyekről és a lakásokról nép- és lakásszámlálást (a továbbiakban: népszámlálás) kell tartani.”
-
-(2) A 2021. évi népszámlálásról szóló 2018. évi CI. törvény 1. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az adatfelvételt 2022. október 1. és 2022. november 20. között kell végrehajtani. Az összeírásból kimaradt személyek és lakásuk pótösszeírását 2022. november 28-ig kell befejezni az 5. § (6) bekezdése szerinti eltéréssel. Az adat-előkészítési, adatfeldolgozási folyamat 2023. november 28-ig tart.”
-
-298. § A 2021. évi népszámlálásról szóló 2018. évi CI. törvény
-
-- a) 1. § (2) bekezdésében, 2. § (1) és (2) bekezdésében, (3) bekezdés b) pontjában, (4) bekezdés b) pontjában, (5) bekezdésében, 3. § (1), (3) és (5) bekezdésében, 4. § (1)–(3) és (6) bekezdésében, 8. § a) pontjában a „2021. évi népszámlálás” szövegrész helyébe a „népszámlálás” szöveg,
-- b) 1. § (3) bekezdésében a „2021. évi népszámlálást” szövegrész helyébe a „népszámlálást” szöveg,
-- c) 2. § (3) bekezdésében a „2021. évi népszámlálási” szövegrészek helyébe a „népszámlálási” szöveg,
-- d) 2. § (4) bekezdés a) pontjában a „2021. évi népszámlálási” szövegrész helyébe a „népszámlálási” szöveg,
-- e) 2. § (4) bekezdésében, 4. § (5) bekezdésében, 6. § (1) bekezdésében a „2021. évi népszámlálás” szövegrészek helyébe a „népszámlálás” szöveg,
-- f) 4. § (6) bekezdésében a „2021. évi népszámlálással” szövegrész helyébe a „népszámlálással” szöveg
-
-lép.
+#### 298. §
 
 #### 125. A Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény módosítása
 
-299. § A Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény 2. § (4) bekezdése a következő j) ponttal egészül ki:
-
-[Az (1)–(3) bekezdés szerinti bejelentéshez kötött tevékenységek a következők:]
-
-„j) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény szerinti biztosítási és viszontbiztosítási tevékenység, valamint a biztosítási tevékenységgel közvetlenül összefüggő tevékenységek körében bejelentési kötelezettség alá tartozó tevékenységek”
-
-(tevékenységi körökön belül a Kormány rendeletében meghatározott egyes tevékenységek.)
+#### 299. §
 
 #### 126. A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény módosítása
 
-300. § A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 21. § (1a) bekezdése helyébe a következő rendelkezés lép:
+#### 300. §
 
-„(1a) Az (1) bekezdés a) pontjától eltérően különleges jogrend ideje alatt nem szűnik meg a honvédelmi alkalmazotti jogviszony a kinevezésben foglalt határozott idő lejártával, kivéve, ha a munkáltatói jogkör gyakorlója írásban – legkésőbb a jogviszony megszűnésének napján – így rendelkezik, és azt közli a honvédelmi alkalmazottal. A munkáltatói jogkör gyakorlójának ilyen rendelkezése hiányában a honvédelmi alkalmazott honvédelmi alkalmazotti jogviszonya a különleges jogrend megszűnését követő 15. napon szűnik meg.”
+#### 301. §
 
-301. § A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 83. § (1) bekezdése a következő n) ponttal egészül ki:
+#### 302. §
 
-(E törvény alkalmazásakor honvédelmi alkalmazotti jogviszonyban töltött időnek kell tekinteni)
+#### 303. §
 
-„n) az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) és a végrehajtására kiadott rendelet szerinti egészségügyi szolgálati jogviszonyban”
-
-(töltött időt.)
-
-302. § A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény a következő V/A. Fejezettel egészül ki:
-
-„V/A. FEJEZET
-
-AZ EGÉSZSÉGÜGYI HONVÉDELMI ALKALMAZOTT JOGÁLLÁSÁRA VONATKOZÓ KÜLÖN SZABÁLYOK
-
-89/A. § (1) E fejezet alkalmazásában
-
-a) egészségügyi honvédelmi alkalmazott: a honvédelmi egészségügyi szolgáltatónál vagy a Katonai Nemzetbiztonsági Szolgálatnál honvédelmi alkalmazotti jogviszonyban foglalkoztatott, az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 4. § a) pontja szerinti egészségügyi dolgozó és a 4. § c) pontja szerinti rezidens,
-
-b) egészségügyi tevékenység: az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § y) pontjában meghatározott tevékenység,
-
-c) magasabb vezető:
-
-ca) a honvédelmi egészségügyi szolgáltató vezetője, a honvédelmi egészségügyi szolgáltató alapító okiratában meghatározott, közfinanszírozott területi ellátási kötelezettséggel rendelkező szervezeti egység (a továbbiakban: honvédelmi egészségügyi szolgáltató szervezeti egység) vezetője, valamint
-
-cb) a honvédelmi egészségügyi szolgáltató vezetőjének a helyettese és gazdasági helyettese, a honvédelmi egészségügyi szolgáltató gazdasági igazgatója, a honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjének a Hvt. 46/A. § (2) bekezdése szerinti helyettese (a továbbiakban: felügyeleti helyettes), a honvédelmi egészségügyi szolgáltató szervezeti egység orvosigazgatója (szakmai főigazgató-helyettese), ápolási igazgatója,
-
-d) vezető: a c) pontban foglaltakat ide nem értve a honvédelmi egészségügyi szolgáltató szervezeti elemének vezetője és annak helyettese, valamint a főgyógyszerész.
-
-(2) Az egészségügyi honvédelmi alkalmazott tekintetében e törvényt az e fejezetben foglalt eltérésekkel, megfelelően kell alkalmazni.
-
-(3) Az (1) bekezdés c) és d) pontját, a (6) és (7) bekezdést, a 89/C. § (2) bekezdését és a 89/D. § (3) és (4) bekezdését a honvédelmi egészségügyi szolgáltatónál foglalkoztatott, az Eütev. 4. § b) pontja szerinti egészségügyben dolgozó honvédelmi alkalmazottra is alkalmazni kell.
-
-(4) A honvédelmi egészségügyi szolgáltatóra és az egészségügyi honvédelmi alkalmazottra az Eszjtv. nem alkalmazható, kivéve, ha e fejezet másként nem rendelkezik.
-
-(5) Az egészségügyi honvédelmi alkalmazott honvédelmi alkalmazotti jogviszonya 21. § (2) bekezdés b) pontja szerinti áthelyezéssel megszüntethető az e törvény és az Eszjtv. hatálya alá tartozó munkáltatók között.
-
-(6) A 3. § (4) bekezdése nem alkalmazható a honvédelmi egészségügyi szolgáltatónál foglalkoztatott, a 3. § (2) bekezdése szerinti többletkötelezettséget nem vállalt honvédelmi alkalmazottra.
-
-(7) A 6. § (1) bekezdésétől eltérően a munkáltatói jogkörök gyakorlására jogosultak körét és hatáskörüket a honvédelmi egészségügyi szolgáltató szervezeti és működési szabályzata is meghatározhatja.
-
-(8) A miniszter ellátási érdekből engedélyezheti a honvédelmi egészségügyi szolgáltató számára az Eütv. 247. § (1) bekezdés b) pontja szerinti, az egészségügyi szolgáltatás – ideértve a telemedicina keretében nyújtott egészségügyi szolgáltatást is – megkezdésére és gyakorlására vonatkozó általános szabályokat, valamint a működési engedélyezési eljárásra, a bejelentés alapján történő egészségügyi szolgáltatás – ideértve a telemedicina keretében nyújtott egészségügyi szolgáltatást is – érdekében a hatósági nyilvántartásba vételre, továbbá a hatósági nyilvántartás személyes adatokat nem tartalmazó adattartalmára vonatkozó szabályokat tartalmazó jogszabályban meghatározott közreműködő személy vagy szervezet igénybevételét.
-
-89/B. § (1) A 48. § (1) bekezdésétől és az 50. § (1) bekezdésétől eltérően az egészségügyi honvédelmi alkalmazott munkavégzésre irányuló további jogviszonyt, ideértve más kereső foglalkoztatást, valamint díjazás ellenében folytatott tevékenységet is – tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony (a továbbiakban: gyakorolható tevékenység) kivételével – kizárólag a miniszter előzetes engedélyével létesíthet vagy tarthat fenn.
-
-(2) Az egészségügyi honvédelmi alkalmazott, az (1) bekezdésben foglaltaktól eltérően, kizárólag a miniszter előzetes engedélye alapján létesíthet gyakorolható tevékenység végzésére irányuló jogviszonyt, ha a munkavégzés időtartama részben azonos az egészségügyi honvédelmi alkalmazott munkaidejével.
-
-(3) Az (1) és (2) bekezdés szerinti engedélyre vonatkozó kérelmet a honvédelmi egészségügyi szolgáltató vezetője útján, annak véleményével ellátva kell felterjeszteni döntéshozatal céljából a miniszter részére. A miniszter a döntéséről egyidejűleg tájékoztatja az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjét.
-
-(4) Az egészségügyi honvédelmi alkalmazott az őt foglalkoztató honvédelmi egészségügyi szolgáltató székhelyén vagy telephelyén nem végezhet olyan egészségügyi tevékenységet, amire honvédelmi alkalmazotti jogviszonya nem terjed ki.
-
-(5) Az egészségügyi honvédelmi alkalmazott a honvédelmi alkalmazotti jogviszony keretében – az Eütv. 3. § i) pontja szerinti sürgős szükség esetét és jogszabályban meghatározott eseteket kivéve – nem nyújthat egészségügyi szolgáltatást ugyanazon személy számára, akinek más – e törvény hatálya alá nem tartozó – jogviszonyban már ugyanazon betegség tekintetében egészségügyi szolgáltatást nyújtott.
-
-(6) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetője és a felügyeleti helyettes az Eütev. 1. §-a szerinti gyógyító-megelőző tevékenységet kizárólag a védelem-egészségügy körében, továbbá a működési nyilvántartás megújítása céljából, a továbbképzése alapján szükséges gyakorlati pontok megszerzése érdekében és az ahhoz szükséges mértékben végezhet.
-
-(7) Ha az Eszjtv. és a felhatalmazása alapján kiadott jogszabály az Eszjtv. 4. §-a szerinti összeférhetetlenségi rendelkezéseit feloldó vagy enyhítő szabályt állapít meg, úgy azt az egészségügyi honvédelmi alkalmazottra is alkalmazni kell.
-
-89/C. § (1) A 89/D. § (2) bekezdése szerinti fizetési fokozathoz tartozó illetmény legfeljebb 20%-os növelése minősítés alapján történhet, ha az egészségügyi honvédelmi alkalmazott kiválóan alkalmas minősítést kap. A 89/D. § (1) bekezdése szerinti egészségügyi honvédelmi alkalmazott minősítését évente legalább egy alkalommal el kell végezni.
-
-(2) Nem jogosult a minősítésen alapuló illetménynövelésre a 89/A. § (1) bekezdés c) pontjában meghatározott magasabb vezető.
-
-89/D. § (1) Nem alkalmazható a 3. § (3) bekezdése, a 62–76. § és a 82. §
-
-a) az orvos, szakorvos, fogorvos, szakfogorvos, gyógyszerész, szakgyógyszerész,
-
-b) a miniszter rendeletében meghatározott munkakörben foglalkoztatott egyéb, nem egészségügyi egyetemi végzettséggel, valamint nem egészségügyi egyetemi végzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkező honvédelmi alkalmazott,
-
-c) az Eütv. szerinti egészségügyi felsőfokú szakirányú szakmai képzést lezáró szakképesítés megszerzését megelőzően – az ilyen szakképesítés megszerzése feltételeként előírt felsőfokú szakképesítéssel rendelkező és ezen szakképesítéshez kötött munkakörben foglalkoztatott – egészségügyi honvédelmi alkalmazott
-
-illetménye megállapítása során.
-
-(2) Az (1) bekezdés szerinti egészségügyi honvédelmi alkalmazott az Eszjtv. 1. mellékletében foglalt illetménytábla szerinti fizetési fokozatához tartozó illetményre jogosult.
-
-(3) A (2) bekezdéstől eltérően, a 89/A. § (1) bekezdés c) pontjában meghatározott magasabb vezető illetményének összegét egyedileg a miniszter – az egészségügyi szolgáltatás irányításáért felelős szerv vezetője egyetértésével, az ő irányítása alá tartozó egészségügyi szolgáltatók vezetőinek juttatásai megállapítására vonatkozó alapelvekkel összhangban – állapítja meg azzal, hogy az egészségügyi honvédelmi alkalmazottnak minősülő
-
-a) 89/A. § (1) bekezdés c) pont ca) alpontja szerinti magasabb vezető legalább az Eszjtv. 1. mellékletében foglalt illetménytábla szerinti legmagasabb fizetési fokozathoz meghatározott összegre,
-
-b) 89/A. § (1) bekezdés c) pont cb) alpontja szerinti magasabb vezető pedig legalább az Eszjtv. 1. mellékletében foglalt illetménytábla szerinti fizetési fokozatához tartozó illetményre
-
-jogosult.
-
-(4) A miniszter – az Eszjtv. hatálya alá tartozó vezetőkre vonatkozó feltételekre és mértékre tekintettel – megállapíthatja a 89/A. § (1) bekezdés d) pontjában meghatározott vezető illetményén felül járó vezetői juttatása feltételeit és mértékét.
-
-(5) Az (1) bekezdés szerinti egészségügyi honvédelmi alkalmazott honvédelmi alkalmazotti jogviszonyban töltött idejét és fizetési fokozatát a 83. § (1) és (2) bekezdése szerint kell megállapítani, továbbá be kell számítani a szabadfoglalkozás keretében, az egyéni egészségügyi vállalkozóként, az egyéni cég tagjaként, a társas vállalkozás tagjaként, az egyházi személyként vagy vallási egyesület vallásos szertartást hivatásszerűen végző tagjaként töltött idejét, és a PhD-fokozat megszerzése esetén a doktori képzésben töltött időt, ha ezen időtartam korábban nem került beszámításra. Ha a honvédelmi alkalmazotti jogviszonyban töltött idő számításánál az azonos naptári időszakra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.
-
-(6) A 66. § (1) bekezdéstől eltérően az (1) bekezdés szerinti egészségügyi honvédelmi alkalmazott a honvédelmi alkalmazotti jogviszonyban töltött idő alapján az Eszjtv. 1. melléklete szerinti – az adott fizetési fokozathoz tartozó – időtartam (a továbbiakban: várakozási idő) szerint lép eggyel magasabb fizetési fokozatba. Az (1) bekezdés szerinti egészségügyi honvédelmi alkalmazott eggyel magasabb fizetési fokozatba lép a várakozási idő elteltét követő hónap első napjától. A magasabb fizetési fokozat elérésével a várakozási idő újrakezdődik.
-
-(7) Az Eütv. szerinti egészségügyi felsőfokú szakirányú szakmai képzést lezáró szakvizsga megszerzését megelőzően az – ilyen szakvizsga megszerzése feltételeként előírt felsőfokú szakképesítéssel rendelkező és ezen szakképesítéshez kötött munkakörben foglalkoztatott – egészségügyi honvédelmi alkalmazott illetménye az Eszjtv. 1. melléklete szerinti 4. fizetési fokozatot akkor sem érheti el, ha a számára előírt várakozási idő eltelt.
-
-(8) Ahol törvény vagy miniszteri rendelet az (1) bekezdés szerinti egészségügyi honvédelmi alkalmazott illetményét említi, ott az Eszjtv. 1. melléklete szerinti fizetési fokozathoz tartozó – a 89/C. § szerinti esetben a megnövelt – illetményt, vagy a (3) bekezdés szerinti illetményt kell érteni.
-
-(9) Az (1) bekezdés szerinti egészségügyi honvédelmi alkalmazott esetében az Mt. 148. és 149. §-át, 151. § (1)–(4) bekezdését és 152. §-át azzal az eltéréssel kell alkalmazni, hogy a távolléti díj megállapításakor
-
-a) az Eszjtv. 1. melléklete szerinti fizetési fokozathoz tartozó – 89/C. § (1) bekezdése szerinti esetben megnövelt – illetményt vagy a (3) bekezdés szerinti illetményt,
-
-b) a (4) bekezdés szerinti járó vezetői juttatást, valamint
-
-c) az Mt. 151. § (4) bekezdésének megfelelően az ügyelet és a készenlét esetén járó díjazást
-
-kell figyelembe venni.
-
-(10) Az (1) bekezdés szerinti egészségügyi honvédelmi alkalmazott esetében a jubileumi jutalom alapjául szolgáló illetmény összegébe a (2) bekezdés szerinti – a 89/C. § (1) bekezdése szerinti esetben megnövelt – illetmény vagy a (3) bekezdés szerinti illetmény, valamint a (4) bekezdés szerinti vezetői juttatás összegét kell beszámítani.
-
-(11) A miniszter közjogi szervezetszabályozó eszközben – az Eszjtv. hatálya alá tartozó foglalkoztatottakra vonatkozó feltételekre és mértékre tekintettel – megállapítja az (1) bekezdés szerinti egészségügyi honvédelmi alkalmazott részére az Eszjtv. 1. melléklete szerinti illetményén felül különösen a
-
-a) kötelezően elrendelt ügyelet,
-
-b) készenlét,
-
-c) rendes munkarend szerinti feladatok ellátása, ügyeleti feladatellátás, készenléti feladatellátás keretében történő önként vállalt többletmunkavégzés,
-
-d) kirendelés
-
-esetén járó további díjakat, azok feltételeit és mértékét.
-
-(12) Az Eszjtv. hatálya alá tartozó foglalkoztatottakra vonatkozó feltételekre és mértékre tekintettel a miniszter az (1) bekezdés szerinti egészségügyi honvédelmi alkalmazott részére elrendelt átmeneti többletfeladatok – ide nem értve a helyettesítést – teljesítéséért alkalmanként keresetkiegészítést állapíthat meg közjogi szervezetszabályozó eszközben.
-
-(13) Az (1) bekezdés szerinti egészségügyi honvédelmi alkalmazott az önként vállalt többletmunkáért – ideértve az önként vállalt ügyeletet és készenlétet is – díjazásra jogosult, melynek mértékét a munkáltató és az egészségügyi honvédelmi alkalmazott – a (11) bekezdés szerinti keretek között – külön megállapodásban állapítja meg. Az (1) bekezdés szerinti egészségügyi honvédelmi alkalmazott önként vállalt többletmunkájának díjazására az Eütev. nem alkalmazható.
-
-(14) Ha az egészségügyi honvédelmi alkalmazott munkaköre ellátása helyett vagy mellett a honvédelmi egészségügyi szolgáltató vezetője rendelkezése alapján átmenetileg más egészségügyi munkakörű katona szolgálati beosztásába vagy más egészségügyi honvédelmi alkalmazott munkakörébe tartozó feladatokat lát el 30 napon túl, és ezáltal jelentős többletmunkát végez, a többletmunka ellentételezésére illetményén felül részére
-
-a) a helyettesített egészségügyi honvédelmi alkalmazott illetményének legfeljebb 50%-a,
-
-b) a Hjt. 237/L. § (1) bekezdése szerinti egészségügyi munkakörű katona helyettesítése esetén a helyettesített Hjt. 237/L. § (10) bekezdés a) pontja szerinti alapilletményének legfeljebb 50%-a,
-
-c) a Hjt. 237/L. § (1) bekezdés hatálya alá nem tartozó egészségügyi munkakörű katona helyettesítése esetén a Hjt. 123. §-a szerinti alapilletményének legfeljebb 50%-a
-
-állapítható meg. E bekezdés szerinti esetekre nem alkalmazható a 20. § (1) bekezdése.
-
-(15) Ha az (1) bekezdés szerinti egészségügyi honvédelmi alkalmazott honvédelmi alkalmazotti jogviszonyának általa kezdeményezett megszüntetését követően az érintett személy 12 hónapon belül egészségügyi szolgálati jogviszonyt létesít, akkor az egészségügyi szolgálati jogviszonyban megállapított illetménye egy évig nem haladhatja meg a korábbi jogviszony megszűnésekor irányadó illetményét.
-
-89/E. § (1) A 89/D. § (1) bekezdés hatálya alá nem tartozó egészségügyi honvédelmi alkalmazott az egészségügyi ágazati előmeneteli szabályok szerinti – az Eütev.-ben, e törvényben, a Kormány rendeletében és az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott – illetményre, illetménykiegészítésre, illetménypótlékra, valamint keresetkiegészítésre jogosult.
-
-(2) A miniszter – az Eszjtv. hatálya alá tartozó foglalkoztatottakra vonatkozó feltételekre és mértékre tekintettel – az (1) bekezdés szerinti egészségügyi honvédelmi alkalmazott részére további illetményen felüli díjazást, egyéb juttatást, támogatást állapíthat meg.
-
-89/F. § (1) A miniszter döntése alapján – az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének erre irányuló kezdeményezése esetén, a honvédelmi egészségügyi szolgáltató vezetője véleményének kikérését követően – egészségügyi közfeladat ellátása érdekében az egészségügyi honvédelmi alkalmazott határozott időre kirendelhető egy másik fenntartóhoz tartozó egészségügyi szolgáltatóhoz. A kirendelés nem veszélyeztetheti a honvédelmi egészségügyi szolgáltató alaprendeltetéséből, valamint a Hvt.-ből fakadó feladatainak ellátását.
-
-(2) Kirendelés esetén a munkáltatói döntésnek tartalmaznia kell, hogy a kirendelés időtartama tizenkét hónapos időszak alatt összesen a negyvennégy beosztás szerinti munkanapot vagy háromszázötvenkét órát nem haladhatja meg.
-
-(3) Nem rendelhető ki az egészségügyi honvédelmi alkalmazott
-
-a) a várandóssága megállapításától gyermeke hároméves koráig,
-
-b) ha legalább három eltartott gyermeke van,
-
-c) gyermeke tizenhat éves koráig, ha gyermekét egyedül neveli,
-
-d) hozzátartozójának tartós, személyes gondozása esetén,
-
-e) ha a rehabilitációs szakértői szerv legalább ötvenszázalékos mértékű egészségkárosodását megállapította,
-
-f) a szakvizsgájának letételét megelőző fél éven belül,
-
-g) ha öregségi nyugdíjra jogosult,
-
-kivéve, ha hozzájárul a kirendeléséhez.
-
-(4) Ha a tizenhat évnél fiatalabb gyermek mindkét szülője egészségügyi honvédelmi alkalmazott, illetve a Hjt. szerinti egészségügyi munkakörű katona, akkor csak az egyik szülő rendelhető ki a (2) és (3) bekezdésben foglaltak figyelembevételével.
-
-(5) Az egészségügyi honvédelmi alkalmazottat legalább tíz munkanappal korábban írásban tájékoztatni szükséges
-
-a) a kirendelés elrendeléséről,
-
-b) a kirendelés időtartamáról,
-
-c) a kirendelésnek megfelelő munkavégzés helyéről,
-
-d) a kirendelés idejére járó illetményéről és
-
-e) a kirendeléshez kapcsolódó szállási és utazási kérdésekről.
-
-(6) A kirendelt egészségügyi honvédelmi alkalmazott az (5) bekezdés szerinti tájékoztatást követő három munkanapon belül köteles jelezni, ha a kirendelés a (3) vagy (4) bekezdésbe ütközik, vagy számára aránytalan sérelemmel járna.”
-
-303. § A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 93. §-a a következő 35. ponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg)
-
-„35. a 89/D. § (1) bekezdés b) pontja szerinti munkaköröket.”
-
-304. § A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 92/B. § (5) bekezdésében az „egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény” szövegrész helyébe az „Eütev.” szöveg lép.
+#### 304. §
 
 #### 127. A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény módosítása
 
-305. § (1) A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 22. § (7) bekezdése helyébe a következő rendelkezés lép:
+#### 305. §
 
-„(7) Belföldi
-
-a) – a (3) bekezdés alkalmazásában – az a Magyarországon élő magyar állampolgár is,
-
-b) – a 43. § (1) bekezdés a) pontja alkalmazásában – az a legalább egy éve Magyarországon élő magyar állampolgár is,
-
-aki a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 80. § (5) bekezdése szerinti – a külföldön, illetve a nemzetközi szervezet szociális biztonsági rendszerében létrejött biztosításra vonatkozó – bejelentést nem teljesített.”
-
-(2) A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 22. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) A (7) bekezdés szerint belföldinek minősülő magyar állampolgár esetében a (3) bekezdés és a 43. § (2) bekezdése szerinti feltételt teljesítettnek kell tekinteni.”
-
-306. § A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 33. alcíme a következő 105/B. §-sal egészül ki:
-
-„105/B. § Ha a magánszemély az egészségügyi szolgáltatások veszélyhelyzeti igénybevételével kapcsolatos egyes szabályokról és a koronavírus elleni védettség igazolásáról szóló 60/2021. (II. 12.) Korm. rendelet módosításáról szóló 222/2021. (V. 3.) Korm. rendelet (e § alkalmazásában a továbbiakban: kormányrendelet) 1. § (1) bekezdése alapján minősült belföldinek és a kormányrendelet hatálybalépését megelőzően az egészségügyi szolgáltatásra való jogosultsága vagy az egészségügyi szolgáltatási járulékfizetési kötelezettsége a belföldiség hiányában nem volt megállapítható, az egészségügyi szolgáltatásra való jogosultság és az egészségügyi szolgáltatási járulékfizetési kötelezettség kezdő időpontjára a kormányrendelet 1. § (3) bekezdése rendelkezését kell alkalmazni.”
+#### 306. §
 
 #### 128. A 2020. évi Dubaji Világkiállításon történő magyar megjelenés sikeres megvalósításához, továbbá egyes nemzetközi nagyeseményekhez kapcsolódó rendelkezésekről szóló 2019. évi XIV. törvény módosítása
 
-307. § A 2020. évi Dubaji Világkiállításon történő magyar megjelenés sikeres megvalósításához, továbbá egyes nemzetközi nagyeseményekhez kapcsolódó rendelkezésekről szóló 2019. évi XIV. törvény 2. §-a helyébe a következő rendelkezés lép:
+#### 307. §
 
-„2. § A Beruházás, valamint a Projekt megvalósítása, a Világkiállításon történő magyar megjelenés, a rendezvények lebonyolítása és szervezése, továbbá a Kelet-Magyarországi Versenypálya Korlátolt Felelősségű Társaság által a Magyarországi MotoGP megrendezésére irányuló vagyoni értékű jog megszerzése kiemelkedően fontos közérdek, amelyek érdekében kötendő szerződések halasztást nem tűrő, kiemelkedően fontos közérdek célját szolgáló szerződésnek tekintendőek, teljesítésükhöz kiemelkedően fontos közérdek fűződik.”
-
-308. § A 2020. évi Dubaji Világkiállításon történő magyar megjelenés sikeres megvalósításához, továbbá egyes nemzetközi nagyeseményekhez kapcsolódó rendelkezésekről szóló 2019. évi XIV. törvény 3. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Beruházással, a rendezvények lebonyolításával és szervezésével, a Projekttel összefüggésben lebonyolítandó közbeszerzési eljárások, valamint a Magyarországi MotoGP megrendezésére irányuló vagyoni értékű jogok megszerzésével összefüggésben a Kelet-Magyarországi Versenypálya Korlátolt Felelősségű Társaság által lebonyolítandó közbeszerzési eljárások tekintetében az ajánlatkérő minden esetben jogosult a közbeszerzésekről szóló 2015. évi CXLIII. törvény szerinti rendkívüli sürgősségre alapított hirdetmény nélküli tárgyalásos eljárás alkalmazására.”
+#### 308. §
 
 #### 129. A szakképzésről szóló 2019. évi LXXX. törvény módosítása
 
-309. § A szakképzésről szóló 2019. évi LXXX. törvény 125. §-a a következő (9a) bekezdéssel egészül ki:
-
-„(9a) A szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet 1. melléklet 127. pontja szerinti 4 0811 17 04 azonosító számú gazda szakmához tartozó aranykalászos gazda részszakma képzéshez kapcsolódó szakmai vizsgát felnőttképzési tevékenység folytatására engedéllyel rendelkező felnőttképző is szervezhet.”
+#### 309. §
 
 #### 130. A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény módosítása
 
@@ -3335,98 +1728,32 @@ aki a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXI
 
 311. § Hatályát veszti a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény
 
-- a) 18. alcíme,
-- b) 73. és 74. §-a,
-- c) 45. alcíme,
-- d) 120. § (1)–(5) bekezdése és 121. §-a,
-- e) 54–56. alcíme,
-- f) 137. §-a és 140–143. §-a,
+- a)
+- b)
+- c)
+- d)
+- e)
+- f)
 - g)
-- h) 164. §-a,
-- i) 277. § (1) bekezdésében a „2021. június 30-ig” szövegrész,
-- j) 83. alcíme.
+- h)
+- i)
+- j)
 
 #### 131. Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény módosítása
 
-312. § Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 1. § (6) bekezdése helyébe a következő rendelkezés lép:
+#### 312. §
 
-„(6) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény szerinti felsőoktatási intézmény által fenntartott klinikai központban foglalkoztatott (3) bekezdés a) pontja szerinti egészségügyi dolgozó tekintetében e törvény rendelkezéseit kell alkalmazni.”
+#### 313. §
 
-313. § (1) Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 1. §-a a következő (5a) és (5b) bekezdéssel egészül ki:
+#### 314. §
 
-„(5a) A kormányzati igazgatási szervként működő egészségügyi szolgáltatónál kormányzati szolgálati jogviszonyban is lehet egészségügyi tevékenységet végezni.
+#### 315. §
 
-(5b) Nem terjed ki e törvény hatálya a szociális intézményként működő egészségügyi szolgáltatókra, valamint a szociális intézményként működő egészségügyi szolgáltatónál foglalkoztatott személyekre.”
+#### 316. §
 
-(2) Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 1. §-a a következő (7a) bekezdéssel egészül ki:
+#### 317. §
 
-„(7a) A rendvédelmi feladatokat ellátó szerveknél működő egészségügyi szolgáltatók és foglalkoztatottjaik a jogviszony sajátossága okán nem tartoznak e törvény hatálya alá.”
-
-314. § Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 1. § (12) bekezdése helyébe a következő rendelkezés lép:
-
-„(12) Az Mt. XVI. Fejezetét azzal az eltéréssel kell alkalmazni, hogy egészségügyi szolgáltató alaptevékenysége körében nem foglalkoztatható munkaerő-kölcsönzés keretében kölcsönzött munkavállaló. Ha az egészségügyi szolgáltató alaptevékenysége szerinti feladat ellátása más módon nem biztosítható, az országos kórház-főigazgató előzetes engedélyével foglalkoztatható munkaerő-kölcsönzés keretében kölcsönzött munkavállaló az egészségügyi szolgáltatónál. Az engedélyezés eljárásrendjét az országos kórház-főigazgató állapítja meg.”
-
-315. § (1) Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 8. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A (3) bekezdés szerinti egészségügyi szolgálati jogviszonyban álló személy fizetési fokozatát az egészségügyi szolgálati jogviszonyban töltött ideje alapján kell megállapítani. A (6) bekezdés szerinti egészségügyi szolgálati jogviszonyban álló személy fizetési fokozatát a munkakör betöltéséhez szükséges iskolai végzettsége, szakképzettsége és az egészségügyi szolgálati jogviszonyban töltött ideje alapján kell megállapítani.”
-
-(2) Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 8. §-a a következő (8a) bekezdéssel egészül ki:
-
-„(8a) Ha az egészségügyi szolgálati jogviszonyban töltött idő számításánál az azonos naptári időszakra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.”
-
-(3) Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 8. §-a a következő (9a) bekezdéssel egészül ki:
-
-„(9a) A (9) bekezdésben foglaltakon túl egészségügyi szolgálati jogviszonyban töltött időnek kell tekinteni
-
-a) a munkaviszonynak azt az időtartamát, amely alatt a közalkalmazott a közalkalmazotti jogviszonyában betöltendő munkaköréhez szükséges iskolai végzettséggel vagy képesítéssel rendelkezett,
-
-b) az 1992. július 1-jét megelőzően fennállt munkaviszony teljes időtartamát,
-
-c) a hadkötelezettség alapján teljesített sor- vagy tartalékos katonai szolgálatnak, illetve a polgári szolgálatnak az időtartamát,
-
-d) a (9) bekezdés h) pontja alá nem tartozó foglalkoztatónál ösztöndíjas foglalkoztatási jogviszonyban eltöltött időt, és
-
-e) a PhD-fokozat megszerzése esetén a doktori képzésben töltött időt,
-
-ha ezen időtartamok korábban nem kerültek beszámításra a közalkalmazotti jogviszonyba.”
-
-(4) Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 8. § (10) bekezdése helyébe a következő rendelkezés lép:
-
-„(10) Az egészségügyi szolgálati jogviszonyban álló egészségügyi dolgozó az egészségügyi szolgálati jogviszonyban töltött idő alapján az 1. melléklet, valamint az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 7. melléklete szerint eggyel magasabb fizetési fokozatba lép a várakozási idő elteltét követő hónap első napjától.”
-
-316. § Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 19. §-a a következő (19) bekezdéssel egészül ki:
-
-„(19) A 4. § (10) bekezdésétől eltérően
-
-a) a járóbeteg-szakellátást nyújtó egészségügyi szolgáltató vezetője 2023. március 1. napjáig,
-
-b) a klinikai központ vezetője
-
-gyógyító-megelőző tevékenységet végezhet.”
-
-317. § Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény
-
-- 1. 1. § (1) bekezdésében az „az állami és az önkormányzati fenntartású” szövegrész helyébe a „kizárólag – ide nem értve a munkavállalói résztulajdont – az állami és az önkormányzati fenntartású” szöveg,
-- 2. 4. § (10) bekezdésében a „tevékenységet nem folytathat” szövegrész helyébe a „tevékenységet az Eütev. 15/F. §-ban foglalt kivétellel nem folytathat” szöveg,
-- 3. 7. § (2) bekezdésében az „A 8. § (3) bekezdése” szövegrész helyébe az „A 8. § (3) és (6) bekezdése” szöveg,
-- 4. 8. § (3) bekezdésében a „foglalkoztatott, továbbá egyéb” szövegrész helyébe a „foglalkoztatott, egyéb” szöveg,
-- 5. 8. § (6) bekezdésében a „valamint illetménypótlékra” szövegrész helyébe az „illetménypótlékra, valamint alapilletményen felül járó munkáltatói döntésen alapuló juttatásra” szöveg,
-- 6. 14. § (1) bekezdésében az „alapnyilvántartás” szövegrész helyébe a „személyi nyilvántartás” szöveg,
-- 7. 14. § (2) bekezdésében az „Az alapnyilvántartás” szövegrész helyébe az „A személyi nyilvántartás” szöveg,
-- 8. 14. § (3) bekezdésében az „alapnyilvántartási” szövegrész helyébe a „személyi nyilvántartási” szöveg,
-- 9. 14. § (4) bekezdésében az „Az alapnyilvántartásból” szövegrész helyébe az „A személyi nyilvántartásból” szöveg,
-- 10. 14. § (5) bekezdésében az „alapnyilvántartásba” szövegrész helyébe a „személyi nyilvántartásba” szöveg,
-- 11. 14. § (6) bekezdésében az „Az alapnyilvántartásban” szövegrész helyébe az „A személyi nyilvántartásban” szöveg,
-- 12. 14. § (7) és (8) bekezdésében az „az alapnyilvántartás” szövegrész helyébe az „a személyi nyilvántartás” szöveg,
-- 13. 19. § (4) bekezdésében az „az érintett közalkalmazotti jogviszonya 2021. január 1-jével” szövegrész helyébe az „az egészségügyi szolgáltatónál foglalkoztatott közalkalmazott közalkalmazotti jogviszonya 2021. március 1-jével” szöveg,
-- 14. 19. § (7) bekezdésében a „2021. január 1. napján” szövegrész helyébe a „2021. március 1. napján” szöveg, valamint a „2021. március 1. napjáig” szövegrész helyébe az „az egészségügyi szolgálati jogviszony létrejöttét követő 60 napon belül” szöveg,
-- 15. 19. § (18) bekezdésében a „4. § (6) bekezdését” szövegrész helyébe a „4. § (5) bekezdését” szöveg,
-- 16. 1. melléklete címében a „foglalkoztatott, továbbá egyéb” szövegrész helyébe a „foglalkoztatott, egyéb” szöveg,
-- 17. 2. melléklete címében az „Az alapnyilvántartás” szövegrész helyébe az „A személyi nyilvántartás” szöveg
-
-lép.
-
-318. § Hatályát veszti az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 8. § (15) bekezdésében a „ , függetlenül az utóbbi jogviszony létesítése érdekében kötött egészségügyi szolgálati munkaszerződésében szereplő heti munkaidejétől” szövegrész.
+#### 318. §
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -3458,67 +1785,3 @@ sarkalatosnak minősül.
 322. § E törvény 52. § (1) és (2) bekezdésének és 65. §-ának a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti bejelentése megtörtént.
 
 ### 1. melléklet a 2021. évi XCIX. törvényhez
-
-„23. melléklet a 2013. évi XCVII. törvényhez
-
-Az alapnyilvántartás adatköre
-
-1. Az egészségügyi katona és az egészségügyi honvédelmi alkalmazott
-
-1.1. neve (születési neve),
-
-1.2. születési helye, ideje,
-
-1.3. anyja neve (születési neve),
-
-1.4. állampolgársága,
-
-1.5. Társadalombiztosítási Azonosító Jele, adóazonosító jele,
-
-1.6. lakóhelye, tartózkodási helye, telefonszáma,
-
-1.7. családi állapota,
-
-1.8. gyermekeinek születési ideje,
-
-1.9. egyéb eltartottjainak száma, az eltartás kezdete,
-
-1.10. legmagasabb iskolai végzettsége (több végzettség esetén valamennyi),
-
-1.11. szakképzettsége,
-
-1.12. iskolarendszeren kívüli oktatás keretében szerzett szakképesítése, valamint meghatározott munkakör betöltésére jogosító okiratok adatai,
-
-1.13. tudományos fokozata,
-
-1.14. idegennyelv-ismerete,
-
-1.15. a korábbi jogviszonyaiban töltött időtartamok megnevezése,
-
-1.16. a korábbi munkahelyei megnevezése,
-
-1.17. a korábbi jogviszonya megszűnése módja, időpontja,
-
-1.18. a Hjt. szerinti szolgálati viszonya vagy a honvédelmi alkalmazotti jogviszonya kezdete,
-
-1.19. a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítványa száma, kelte,
-
-1.20. a jubileumi jutalom és a végkielégítés mértéke kiszámításának alapjául szolgáló időtartamok,
-
-1.21. a Hjt. szerinti szolgálati viszonyban vagy a honvédelmi alkalmazotti jogviszonyban álló személyt foglalkoztató szerv neve, székhelye, statisztikai számjele, e szervnél a jogviszony kezdete,
-
-1.22. jelenlegi besorolása, besorolásának időpontja, vezetői beosztása, FEOR-száma, ha a Hjt. szerinti szolgálati viszonyban vagy a honvédelmi alkalmazotti jogviszonyban álló személy,
-
-1.23. címadományozása, jutalmazása, kitüntetése adatai,
-
-1.24. a teljesítményértékelése vagy minősítése időpontja és tartalma,
-
-1.25. személyi juttatásai,
-
-1.26. munkából való távollétének jogcíme és időtartama, ha a Hjt. szerinti szolgálati viszonyban vagy a honvédelmi alkalmazotti jogviszonyban álló személy,
-
-1.27. honvédelmi egészségügyi szolgáltatónál történő foglalkoztatása megszűnésének időpontja, módja, ha a Hjt. szerinti szolgálati viszonyban vagy a honvédelmi alkalmazotti jogviszonyban álló személy,
-
-1.28. honvédelmi egészségügyi szolgáltatónál történő foglalkoztatása megszűnésével együtt jár a szolgálati viszonyának, honvédelmi alkalmazotti jogviszonyának a megszűnése, úgy ennek időpontja, módja, a végkielégítés adatai, ha a Hjt. szerinti szolgálati viszonyban vagy a honvédelmi alkalmazotti jogviszonyban álló személy,
-
-1.29. munkavégzésére irányuló egyéb jogviszonyával összefüggő adatai, ha a Hjt. szerinti szolgálati viszonyban vagy a honvédelmi alkalmazotti jogviszonyban álló személy.”
