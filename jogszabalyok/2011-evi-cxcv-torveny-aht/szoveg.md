@@ -823,6 +823,8 @@ kerülhet sor.
 
 (7) A kötelezettségvállalásra jogosult személyek körét a Kormány rendeletben határozza meg.
 
+36/A. § Az egészségügyről szóló törvény szerinti városi intézmények egyes tárgyévi vagy költségvetési éven túli kötelezettségvállalásainak megtételéhez az irányító megyei intézmény előzetes jóváhagyása szükséges. Az előzetes jóváhagyás alá tartozó kötelezettségvállalások körét és a jóváhagyás feltételeit a Kormány rendeletben határozza meg.
+
 37. § (1) Kötelezettséget vállalni a Kormány rendeletében foglalt kivételekkel csak pénzügyi ellenjegyzés után, a pénzügyi teljesítés esedékességét megelőzően, írásban lehet. A pénzügyi ellenjegyzőnek a Kormány rendeletében foglalt kivételekkel meg kell győződnie arról, hogy a tervezett kifizetési időpontokban a pénzügyi fedezet biztosított, a kötelezettségvállalás nem sérti a gazdálkodásra vonatkozó szabályokat, és
 
 - a) a 36. § (3) bekezdése szerinti kötelezettségvállalás összege, a költségvetési évet követő év vagy évek kiadási előirányzatai terhére vállalt kötelezettség esetén a Kormány rendeletében foglaltak szerint a kötelezettségvállalás értékeként meghatározott összegből a költségvetési évet terhelő összeg a szabad előirányzatok összegét nem haladja meg, vagy
@@ -1027,7 +1029,7 @@ jogszabály vagy egyedi döntés (a továbbiakban: támogatási döntés) alapj�
 48/B. § (1) Nem lehet a támogatási jogviszonyban kedvezményezett
 
 - a) az, aki a támogatási döntést meghozta vagy aki a támogatási döntés meghozatalában döntés-előkészítőként részt vett,
-- b) az, aki a támogatási döntés időpontjában a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, kormánymegbízott, kormánybiztos, miniszterelnöki megbízott, miniszterelnöki biztos, megyei közgyűlés elnöke, főpolgármester, polgármester, regionális fejlesztési ügynökség vezető tisztségviselője,
+- b) az, aki a támogatási döntés időpontjában a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, kormánymegbízott, kormánybiztos, miniszterelnöki megbízott, miniszterelnöki biztos, megyei közgyűlés elnöke, főpolgármester, polgármester – az 5000 fő vagy ez alatti lakosságszámú település polgármestere kivételével – , regionális fejlesztési ügynökség vezető tisztségviselője,
 - c) az a) és b) pont szerinti személlyel közös háztartásban élő hozzátartozó,
 - d) – a nyilvánosan működő részvénytársaság kivételével – az a) és b) pont szerinti személy tulajdonában álló gazdasági társaság,
 - e) – az állam, a helyi önkormányzat, illetve a köztestület legalább 50%-os közvetlen vagy közvetett tulajdonában lévő gazdasági társaság, valamint a sportegyesület, a sportszövetség, a polgárőr szervezet és az állam által alapított vagyonkezelő alapítvány, valamint azon vagyonkezelő alapítvány, amelyhez az állam csatlakozott kivételével – az olyan gazdasági társaság, alapítvány, egyesület, egyházi jogi személy vagy szakszervezet, illetve ezek önálló jogi személyiséggel rendelkező olyan szervezeti egysége, amelyben az a)–c) pont szerinti személy vezető tisztségviselő, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, az egyesület, az egyházi jogi személy vagy a szakszervezet ügyintéző vagy képviseleti szervének tagja.
@@ -1041,7 +1043,7 @@ jogszabály vagy egyedi döntés (a továbbiakban: támogatási döntés) alapj�
 
 (3) Az (1) bekezdés e) pontja alkalmazásában nem minősül tisztségviselőnek a vagyonkezelő alapítvány vagyonellenőre.
 
-(4) Az (1) bekezdés b)–e) pontját nem kell alkalmazni a 2000 fő vagy ez alatti lakosságszámú települések polgármestere tekintetében a Magyar Falu Program keretében nyújtott támogatás esetén.
+(4)
 
 49. § A fejezetet irányító szerv a költségvetési támogatásokkal kapcsolatos feladatok ellátásával lebonyolító szervet, az európai uniós forrásból nyújtott költségvetési támogatásokkal kapcsolatos feladatok ellátására közreműködő szervezetet is megbízhat, ha azt jogszabály lehetővé teszi.
 
@@ -2198,7 +2200,7 @@ vállalható kötelezettség azzal, hogy az előző években vállalt kötelezet
 
 111/H. § A 41. § (6) bekezdésétől eltérően a központi költségvetés terhére az egészségügyi válsághelyzettel összefüggésben történő eszközbeszerzések és kapcsolódó szolgáltatások beszerzése tekintetében felmerülő szerződések esetében a szerződéses fél a megkötött szerződés vonatkozásában átlátható szervezetnek minősül.
 
-111/I. § E törvénynek a felsőoktatási intézmények versenyképes működését elősegítő szabályokról, valamint egyes vagyongazdálkodási, kormányzati igazgatási és büntetőjogi tárgyú törvények módosításáról szóló 2021. évi CIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 48/B. § (4) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+111/I. § E törvénynek az egyes eljárások korszerűsítését és a polgárok biztonságának további megerősítését célzó intézkedésekről szóló 2021. évi CXX. törvénnyel (a továbbiakban: Módtv2.) módosított 48/B. § (1) bekezdés b) pontját a Módtv2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 #### 74. Az Európai Unió jogának való megfelelés
 
