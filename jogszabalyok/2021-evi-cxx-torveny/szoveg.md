@@ -4,19 +4,11 @@ egyes eljárások korszerűsítését és a polgárok biztonságának további m
 
 #### 1. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-1. § (1) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29. § (2b) bekezdése helyébe a következő rendelkezés lép:
-
-„(2b) Ha az elektronikus anyakönyv nem tartalmazza a polgár származási helyét, az állandó személyazonosító igazolványra a polgár kérelmében megjelölt származási hely kerül feltüntetésre és a nyilvántartást kezelő szerv a kérelmet a személyazonosító igazolvány kiadására irányuló eljárás megindításával egyidejűleg az elektronikus anyakönyvi nyilvántartás informatikai rendszere útján továbbítja az illetékes anyakönyvvezetőhöz vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szervhez.”
-
-(2) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29. §-a a következő (16b) bekezdéssel egészül ki:
-
-„(16b) Az állandó személyazonosító igazolvány (16a) bekezdés szerinti pótlása esetén az igazolványon az a származási hely kerül feltüntetésre, amely az elvesztett, eltulajdonított vagy megsemmisült állandó személyazonosító igazolványon szerepelt.”
+1. §
 
 2. §
 
-3. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29/E. §-a a következő (3b) bekezdéssel egészül ki:
-
-„(3b) Ha a honosított személy a magyar állampolgárságról szóló 1993. évi LV. törvény 25/B. §-ában meghatározottak szerint tesz esküt vagy fogadalmat, részére az állandó személyazonosító igazolvány kérelmére kerül kiállításra.”
+3. §
 
 4. §
 
@@ -26,7 +18,7 @@ egyes eljárások korszerűsítését és a polgárok biztonságának további m
 
 7. § Hatályát veszti a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény
 
-- a) 29. § (2c) bekezdése,
+- a)
 - b)
 
 #### 2. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
@@ -59,7 +51,7 @@ egyes eljárások korszerűsítését és a polgárok biztonságának további m
 
 (4)
 
-17. § A bányászatról szóló 1993. évi XLVIII. törvény 51. § c) pontjában az „50/A. § (2) bekezdés m) pontja” szövegrész helyébe az „50/A. § (1b) bekezdés 31. pontja” szöveg lép.
+17. §
 
 18. § Hatályát veszti a bányászatról szóló 1993. évi XLVIII. törvény
 
@@ -90,17 +82,7 @@ egyes eljárások korszerűsítését és a polgárok biztonságának további m
 
 #### 3. A magyar állampolgárságról szóló 1993. évi LV. törvény módosítása
 
-19. § A magyar állampolgárságról szóló 1993. évi LV. törvény a következő 25/B. §-sal egészül ki:
-
-„25/B. § A 16. § (5) bekezdésétől eltérően, 2022. december 31-ig a honosított személy akkor is tehet esküt vagy fogadalmat, ha
-
-a) a részére hivatalból kiállítandó állandó személyazonosító igazolvány kiállítására irányuló eljárást az eljáró hatóság (a továbbiakban e § alkalmazásában: hatóság) a jogszabályban előírt feltételek elmaradása miatt megszüntette,
-
-b) az a) pont szerinti eljárás megszüntetéséről a hatóság a honosított személyt az eskü- vagy fogadalomtétel helye szerint illetékes polgármester, vagy külképviselet útján megküldött döntésében értesítette,
-
-c) a hatóság a b) pontban megjelölt szerv, vagy személy részére megküldte a honosított személy arcképmását, és
-
-d) a honosított személy rendelkezik más érvényes, személyazonosság igazolására alkalmas hatósági igazolvánnyal és azzal a személyazonossága kétséget kizáró módon megállapítható.”
+19. §
 
 #### 4. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
@@ -116,8 +98,8 @@ d) a honosított személy rendelkezik más érvényes, személyazonosság igazol
 
 25. § A Rendőrségről szóló 1994. évi XXXIV. törvény
 
-- a) 4/A. § (6) bekezdésében a „valamint munkavállalókból” szövegrész helyébe a „munkavállalókból, valamint tisztjelöltekből” szöveg,
-- b) 7/B. § (2) bekezdés b) pont bb) alpontjában az „a hamis vád (Btk. 268. §), a hatóság félrevezetése [Btk. 271. § (1) bekezdés]” szövegrész helyébe az „a hamis vád [Btk. 268. § és 269. § a) pont], a hatóság félrevezetése [Btk. 271. § (1) és (2) bekezdés]” szöveg,
+- a)
+- b)
 - c)
 - d)
 - e)
@@ -137,12 +119,7 @@ lép.
 
 29. §
 
-30. § A külföldre utazásról szóló 1998. évi XII. törvény
-
-- a) 14. § (1) bekezdés nyitó szövegrészében a „vezetőjének” szövegrész helyébe a „vezetője, az Országgyűlési Őrség tekintetében az Országgyűlés elnöke” szöveg,
-- b) 14. § (1) bekezdés a) pontjában az „az Országgyűlés Hivatalánál, az Alkotmánybíróság Hivatalánál,” szövegrész helyébe az „az Országgyűlés Hivatalánál, az Országgyűlési Őrségnél, az Alkotmánybíróság Hivatalánál,” szöveg
-
-lép.
+30. §
 
 #### 7.
 
@@ -154,53 +131,15 @@ lép.
 
 #### 9. A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény módosítása
 
-33. § A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 6. § (4) bekezdés c) pontja helyébe a következő rendelkezés lép:
+33. §
 
-[A lőfegyvereknek, illetve a lőszereknek más tagállam területére történő átvitele esetén a rendeltetési hely, illetve a tranzitország között történő – a kérelmező által az 5. § (2) bekezdés a) pont ab) alpontjára, a szállítandó lőfegyverekre, lőszerekre, a lőfegyver-kereskedők közötti szállítás kivételével a szállítóeszközre, valamint az indulás és érkezés várható időpontjára vonatkozó bejelentési kötelezettség teljesítésén alapuló – adatszolgáltatást és adatfogadást a rendőrség központi szerve végzi, valamint – jogszabály eltérő rendelkezésének hiányában – ellátja]
+34. §
 
-„c) az (EU) 2021/555 európai parlamenti és tanácsi irányelvnek megfelelően a bizonyos tűzfegyverek megszerzésére és tartására vonatkozó engedélyek megtagadásával kapcsolatos információk elektronikus eszközökkel történő szisztematikus cseréjére vonatkozó részletes szabályok meghatározásáról szóló, 2021. május 21-i (EU) 2021/1423 bizottsági rendeletben előírtak szerint a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 2021. március 24-i (EU) 2021/555 európai parlamenti és tanácsi irányelv 18. cikk (4) bekezdésében”
+35. §
 
-(meghatározott hatósági feladatokat.)
+36. §
 
-34. § A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény „A POLGÁRI CÉLÚ PIROTECHNIKAI TEVÉKENYSÉGEK SZABÁLYAI” alcíme a következő 18/I. és 18/J. §-sal egészül ki:
-
-„18/I. § Az egyes polgári célú pirotechnikai termékek magánszemélyek általi használatának szabályait a Kormány rendeletben állapítja meg.
-
-18/J. § (1) Az e törvény felhatalmazása alapján megalkotott jogszabály az egyes polgári célú pirotechnikai termékek esetében előírhatja az állatvédelmi tájékoztató kötelező elhelyezését.
-
-(2) Az (1) bekezdés szerinti állatvédelmi tájékoztató szövegét a természetvédelemért felelős miniszter rendeletben állapítja meg.”
-
-35. § A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 22. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Felhatalmazást kap a természetvédelemért felelős miniszter, hogy rendeletben állapítsa meg a 18/J. § (2) bekezdése szerinti állatvédelmi tájékoztató szövegét.”
-
-36. § (1) A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 23. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ez a törvény
-
-a) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 1991. június 18-i, 91/477/EGK tanácsi irányelvnek,
-
-b) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK tanácsi irányelv módosításáról szóló, 2008. május 21-i 2008/51/EK európai parlamenti és tanácsi irányelvnek,
-
-c) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK tanácsi irányelv módosításáról szóló, 2017. május 17-i (EU) 2017/853 európai parlamenti és tanácsi irányelvnek,
-
-d) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 2021. március 24-i (EU) 2021/555 európai parlamenti és tanácsi irányelvnek,
-
-e) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK tanácsi irányelv szerinti riasztó- és jelzőfegyverekre vonatkozó műszaki előírások meghatározásáról szóló, 2019. január 16-i (EU) 2019/69 bizottsági végrehajtási irányelvnek,
-
-f) a polgári felhasználású robbanóanyagok forgalmazására és ellenőrzésére vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i 2014/28/EU európai parlamenti és tanácsi irányelv 12. cikkének és 14. cikk (1) bekezdésének,
-
-g) a pirotechnikai termékek forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2013. június 12-i 2013/29/EU európai parlamenti és tanácsi irányelvnek, valamint
-
-h) a belső piaci szolgáltatásokról szóló 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
-
-való megfelelést szolgálja.”
-
-(2) A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 23. §-a a következő (1c) bekezdéssel egészül ki:
-
-„(1c) A 6. § (4) bekezdés c) pontja az (EU) 2021/555 európai parlamenti és tanácsi irányelvnek megfelelően a bizonyos tűzfegyverek megszerzésére és tartására vonatkozó engedélyek megtagadásával kapcsolatos információk elektronikus eszközökkel történő szisztematikus cseréjére vonatkozó részletes szabályok meghatározásáról szóló, 2021. május 21-i (EU) 2021/1423 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
-
-37. § A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 2. § 7. pontjában az „az Európai Közösségek Tanácsának a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK irányelve” szövegrész helyébe az „a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 2021. március 24-i (EU) 2021/555 európai parlamenti és tanácsi irányelve” szöveg lép.
+37. §
 
 #### 10. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény módosítása
 
@@ -248,7 +187,7 @@ való megfelelést szolgálja.”
 
 #### 13. A közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény módosítása
 
-55. § Hatályát veszti a közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény 6. § (1a) bekezdése és 20. §-a.
+55. §
 
 #### 14.
 
@@ -258,25 +197,17 @@ való megfelelést szolgálja.”
 
 #### 15. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-58. § Az államháztartásról szóló 2011. évi CXCV. törvény a következő 36/A. §-sal egészül ki:
+58. §
 
-„36/A. § Az egészségügyről szóló törvény szerinti városi intézmények egyes tárgyévi vagy költségvetési éven túli kötelezettségvállalásainak megtételéhez az irányító megyei intézmény előzetes jóváhagyása szükséges. Az előzetes jóváhagyás alá tartozó kötelezettségvállalások körét és a jóváhagyás feltételeit a Kormány rendeletben határozza meg.”
+59. §
 
-59. § Az államháztartásról szóló 2011. évi CXCV. törvény 111/I. §-a helyébe a következő rendelkezés lép:
+60. §
 
-„111/I. § E törvénynek az egyes eljárások korszerűsítését és a polgárok biztonságának további megerősítését célzó intézkedésekről szóló 2021. évi CXX. törvénnyel (a továbbiakban: Módtv2.) módosított 48/B. § (1) bekezdés b) pontját a Módtv2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
-
-60. § Az államháztartásról szóló 2011. évi CXCV. törvény 48/B. § (1) bekezdés b) pontjában a „polgármester,” szövegrész helyébe a „polgármester – az 5000 fő vagy ez alatti lakosságszámú település polgármestere kivételével – ,” szöveg lép.
-
-61. § Hatályát veszti az államháztartásról szóló 2011. évi CXCV. törvény 48/B. § (4) bekezdése.
+61. §
 
 #### 16. A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény módosítása
 
-62. § A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény a következő 18. és 19. §-sal egészül ki:
-
-„18. § Ez a törvény az uniós űrprogram és az Európai Unió Űrprogramügynökségének a létrehozásáról, valamint a 912/2010/EU, az 1285/2013/EU és a 377/2014/EU rendelet és az 541/2014/EU határozat hatályon kívül helyezéséről szóló, 2021. április 28-i (EU) 2021/696 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
-
-19. § Ez a törvény az uniós űrprogram keretében kiépített, üzemeltetett és használt, az Unió biztonságát esetleg befolyásoló rendszerek és szolgáltatások biztonságáról és a 2014/496/KKBP határozat hatályon kívül helyezéséről szóló, 2021. április 30-i (KKBP) 2021/698 tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.”
+62. §
 
 #### 17.
 
@@ -292,9 +223,7 @@ való megfelelést szolgálja.”
 
 66. §
 
-67. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 287. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A (3) bekezdésben foglaltaktól eltérően a rendőrség tisztjelöltje az őt ösztöndíj szerződéssel foglalkoztató rendvédelmi szerven kívül más rendőrségi szervnél is teljesítheti a szakmai gyakorlatát. Ebben az esetben a szakmai gyakorlat során a tisztjelölt szolgálati fegyvert, felszerelést a szakmai gyakorlatot biztosító rendvédelmi szerv számára meghatározott szabályok szerint viselhet és a jogszabályok előírásainak megfelelően használhat.”
+67. §
 
 68. §
 
@@ -310,7 +239,7 @@ való megfelelést szolgálja.”
 
 - a)
 - b)
-- c) 364. § (1) bekezdés nyitó szövegrészében a „340. és 341. §-ban foglalt felhatalmazások” szövegrész helyébe a „felhatalmazása” szöveg
+- c)
 
 lép.
 
@@ -318,37 +247,19 @@ lép.
 
 74. §
 
-75. § Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 8. §-a a következő (7) bekezdéssel egészül ki:
+75. §
 
-„(7) Diplomáciai ügyekben – ideértve a sportdiplomáciai ügyeket – az e törvény szerinti elektronikus ügyintézés szabályai – ha törvény eltérően nem rendelkezik – nem alkalmazandóak.”
-
-76. § (1) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 38. § (1) bekezdése a következő p) ponttal egészül ki:
-
-(Az alábbi központi elektronikus ügyintézési szolgáltatásokat a Kormány biztosítja a jogszabályban kijelölt szolgáltató útján:)
-
-„p) a Kormány által rendeletben megjelölt központi elektronikus ügyintézési szolgáltatás.”
+76. § (1)
 
 (2)
 
 (3)
 
-(4) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 38. §-a a következő (5)–(8) bekezdéssel egészül ki:
-
-„(5) A szabályozott elektronikus ügyintézési szolgáltatások, valamint a központi elektronikus ügyintézési szolgáltatások tekintetében mesterséges intelligencián alapuló technológia is felhasználható.
-
-(6) Ha jogszabály a nyilatkozat érvényességéhez az ügyfél, illetve az elektronikus ügyintézést biztosító szerv képviselőjének aláírását követeli meg, az a Kormány rendeletében meghatározott mesterséges intelligencián alapuló szolgáltatás használata során a Kormány rendeletében meghatározottak szerint pótolható.
-
-(7) Ha az elektronikus ügyintézést biztosító szerv a mesterséges intelligencián alapuló szolgáltatás használata során a szolgáltatás útján, gépi úton tesz nyilatkozatot, a központi elektronikus ügyintézési szolgáltatás szolgáltatója az elektronikus ügyintézést biztosító szerv nevében jár el.
-
-(8) Törvény vagy a Kormány eredeti jogalkotói hatáskörében kiadott rendelete meghatározhatja azon ügyeket, ahol a (6) bekezdés szerinti szolgáltatások vagy ezen szolgáltatások valamelyikének használata kizárt.”
+(4)
 
 77. §
 
-78. § (1) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 105. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
-
-„c) e törvényben nem meghatározott szabályozott és központi elektronikus ügyintézési szolgáltatásokat, ezek részletes követelményeit, a szolgáltatásnyújtás részletes eljárási rendjét, a szolgáltatás igénybevételének részletes szabályait, a szabályozott elektronikus ügyintézési szolgáltatásnyújtásra vonatkozó szervezési és a szolgáltató által teljesítendő személyi és pénzügyi feltételeket, a szabályozott elektronikus ügyintézési szolgáltatás bejelentésével, valamint a Felügyelet általi bírság kiszabásával kapcsolatos rendelkezéseket és a bírság mértékét,”
+78. § (1)
 
 (2)
 
@@ -356,11 +267,7 @@ lép.
 
 79. §
 
-80. § (1) A polgári perrendtartásról szóló 2016. évi CXXX. törvény 325. § (1) bekezdése a következő i) ponttal egészül ki:
-
-(Teljes bizonyító erejű a magánokirat, ha)
-
-„i) – törvény eltérő rendelkezése hiányában – a kiállító szóbeli nyilatkozatát az E-ügyintézési tv. szerinti elektronikus ügyintézést biztosító szerv vagy a szolgáltatás használatára jogosult egyéb szerv a Kormány rendeletében meghatározottak szerint mesterséges intelligenciával támogatott szolgáltatás szerint írásbeli formátumba alakította, az írásbeli formátumba alakított nyilatkozat tervezetét a kiállító jóváhagyta, és dokumentum a Kormány rendeletében meghatározottak szerint hitelesítve lett.”
+80. § (1)
 
 (2)
 
@@ -380,9 +287,7 @@ lép.
 
 #### 25. A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény módosítása
 
-85. § A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 23. §-a a következő (5a) bekezdéssel egészül ki:
-
-„(5a) A klinikai központ elnöke – az (5) bekezdésben foglalt irányítási jogköreinek gyakorlásán túl – írásban jogosult előzetesen jóváhagyni az irányítása alá tartozó városi intézmény egyes tárgyévi vagy költségvetési éven túli kötelezettségvállalásait. Ha a jóváhagyás megtagadása ellenére a városi intézmény az álláspontját fenntartja, az egészségügyi szolgáltatás irányításáért az ágazati jogszabályban kijelölt felelős állami szerv dönt.”
+85. §
 
 #### 26. A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény módosítása
 
