@@ -440,7 +440,7 @@ jogosult hatósági eljárás esetén, a döntés véglegessé válásának idő
 - b) a jogi személy tulajdonos esetén a jogi személy nevét, adószámát, székhelyét,
 - c) a tulajdonos e-mail-címét, telefonszámát, jogi személy esetén a kapcsolattartó e-mail címét és telefonszámát,
 - d) a pilóta nélküli légijármű gyártójának nevét,
-- e) a pilóta nélküli légijármű típusát, altípusát, sorozatszámát, valamint
+- e) a pilóta nélküli légijármű típusát, altípusát – a saját építésű pilóta nélküli légijárművek kivételével – a sorozatszámát, valamint
 - f) a légiközlekedési hatóság által generált nyilvántartási jelet.
 
 (5) A (4) bekezdés szerinti nyilvántartás a (4) bekezdés d)–f) pontjában meghatározott adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
@@ -500,6 +500,8 @@ jogosult hatósági eljárás esetén, a döntés véglegessé válásának idő
 (17) A légiközlekedési hatóság az ügyfél kérelmére a pilóta nélküli légijármű-rendszer nyilvántartásba vételéről a (4) bekezdés szerinti, a pilóta nélküli légijármű-rendszerek üzembentartói nyilvántartásba vételéről pedig a (7) bekezdésben meghatározott adattartalommal igazolást állít ki. Az ügyfél az igazolásért igazgatási szolgáltatási díjat fizet.
 
 (18) A légiközlekedési hatóság a nyilvántartásba vételről az ügyfél erre irányuló kérelme és igazgatási szolgáltatási díj megfizetése ellenében a (13) bekezdésben szereplő adatokkal megegyező tartalommal igazolást állít ki a tulajdonos és a tanúsító szervezet részére.
+
+(19) A nyilvántartásba vett pilóta nélküli légijárművön az üzembentartó nyilvántartási száma mellett jól látható módon fel kell tüntetni az eszköz nyilvántartási jelét is.
 
 17/A. § A repülőeszközökről és a pilóta nélküli légijárművekről vezetett nyilvántartásból a Terrorelhárítási Információs és Bűnügyi Elemző Központ törvényben meghatározott, a szervezett bűnözés elleni fellépés céljából gyűjtött adatok gyűjtésének, felhasználásának és ellenőrzésének koordinációjával összefüggő feladatai ellátása érdekében az adatkezelés céljának megjelölésével, egyedi adatigényléssel adatot kérhet.
 

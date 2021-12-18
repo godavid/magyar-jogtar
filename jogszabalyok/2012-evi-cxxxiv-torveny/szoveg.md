@@ -91,8 +91,9 @@ kiskereskedelmi értékesítésére.
 (2) A kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv
 
 - a) előkészíti a dohánytermék-kiskereskedelmi jogosultság átengedéséről szóló pályázatok kiírását, elbírálását, a koncessziós szerződések megkötését (módosítását, megszüntetését),
-- b) ellátja a koncessziós szerződésekből eredő számlázási feladatokat, és
-- c) ellátja a koncessziós szerződésekkel összefüggő követeléskezelési feladatokat, ide nem értve az azonnali beszedési megbízást.
+- b) kezeli a koncessziós szerződéseket,
+- c) ellátja a koncessziós szerződésekből eredő számlázási feladatokat, és
+- d) ellátja a koncessziós szerződésekkel összefüggő követeléskezelési feladatokat.
 
 (3) A Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság)
 
@@ -214,9 +215,9 @@ kiskereskedelmi értékesítésére.
 
 10/B. § (1) A koncessziós díjat a miniszter szedi be.
 
-(2) A miniszter a beszedett koncessziós díjak nettó összegét a kincstár által – a koncessziós díjak központi kezelésű előirányzatként történő elszámolása céljából – vezetett fizetési számlára, a koncessziós díjat terhelő általános forgalmi adót pedig az állami adóhatóságnak utalja át a tárgyhónapot követő hónap huszadik napjáig. A miniszter által vezetett minisztérium költségvetésében a beszedett koncessziós díjat és a kapcsolódó általános forgalmi adót bevételként, azoknak e bekezdés szerinti átutalását kiadásként nem lehet elszámolni.
+(2) A miniszter a beszedett koncessziós díjak, jogosultsági díjak és ezen felül keletkező egyéb bevételek összegét az államháztartásról szóló 2011. évi CXCV. törvény 19. § (3) bekezdése szerinti tulajdonosi ügyletként számolja el.
 
-(3) A koncessziós szerződés alapján a koncessziós díjon felül keletkező egyéb bevételek (így különösen a késedelmi pótlék, kártérítés, kötbér) a miniszter által vezetett minisztérium bevételei, amelyeket a miniszter a feladatellátáshoz kapcsolódó tevékenységek indokolt költségeire fordít.
+(3) A koncessziós szerződés alapján a koncessziós díjon felül keletkező egyéb bevételek (így különösen a késedelmi pótlék, kártérítés, kötbér) a miniszter által irányított költségvetési fejezet bevételei.
 
 (4)
 
@@ -275,7 +276,7 @@ feltéve, hogy az üzlet egyébként megfelel a dohánytermékek értékesítés
 
 (2) A dohánytermék-kiskereskedelmi tevékenység folytatásához a Hatóság engedélye szükséges.
 
-(3) A Hatóság az engedélyt annak adja meg legfeljebb a koncessziós szerződésben meghatározott időtartamra, aki a dohánytermék-kiskereskedelmi tevékenység biztonságos, szakszerű lebonyolításához szükséges személyi, tárgyi és gazdasági feltételekkel rendelkezik, és akit – a 10. §-ban foglaltak kivételével – érvényes koncessziós szerződés e tevékenység végzésére feljogosít. Az engedélyt a Hatóság – a dohányboltokra vonatkozó különös jogszabályi rendelkezés hiányában – akkor adhatja meg, ha az erre jogosult a Hatóság felé a kérelmében a dohánytermék-kiskereskedelmi tevékenység végzésének helyére vonatkozó alapvető adatokat (cím, helyrajzi szám, alapterület, nyitva tartás idő, helyszínrajz) bejelenti, és a helyiség jogszerű használatára vonatkozó jogcímet, valamint a dohánytermék-kiskereskedelmi jogosultság megszerzésének tényét igazolja. A Hatóság a jogosultnak azonos időszakra, azonos koncessziós szerződés alapján csak egyetlen dohányboltra (elkülönített helyre) adhat érvényes engedélyt; új engedélyt a jogosultnak csak a korábbi engedély visszavonásának hatályával lehet adni.
+(3) A Hatóság az engedélyt annak adja meg legfeljebb a koncessziós szerződésben meghatározott időtartamra, aki a dohánytermék-kiskereskedelmi tevékenység biztonságos, szakszerű lebonyolításához szükséges személyi, tárgyi és gazdasági feltételekkel rendelkezik, és akit – a 10. §-ban foglaltak kivételével – érvényes koncessziós szerződés e tevékenység végzésére feljogosít. Az engedélyt a Hatóság akkor adja meg, ha a kérelmező kérelmében a Hatóság elnökének rendeletében meghatározott adatokat megadja, és a Hatóság elnökének rendeletében meghatározott iratokat a kérelemmel benyújtja. A Hatóság a jogosultnak azonos időszakra, azonos koncessziós szerződés alapján csak egyetlen dohányboltra (elkülönített helyre) adhat érvényes engedélyt; új engedélyt a jogosultnak csak a korábbi engedély visszavonásának hatályával lehet adni.
 
 (4) Dohánytermék-kiskereskedelmi tevékenységet 18 éven aluli személy nem folytathat.
 
@@ -494,13 +495,14 @@ fogadhatja el.
 - c) a dohánytermék-kiskereskedő 1 éven belül legalább három különböző alkalommal a dohánytermék-kiskereskedelmi tevékenységgel összefüggő szabályokat megsértette, feltéve, hogy a jogsértés tényéről a Hatóság jogerős határozatot hozott, és az első jogsértést követő 365 napon belül a harmadik jogsértés is megvalósul, függetlenül attól, hogy a jogsértések tényét a Hatóság mikor állapítja meg, illetve határozata mikor válik jogerőssé;
 - d) a dohánytermék-kiskereskedő a Hatóság felhívása ellenére sem közli a tevékenységével összefüggő adatokat;
 - e) a dohánytermék-kiskereskedő az e törvényben meghatározott, a tisztességes piaci verseny körülményeit biztosító értékesítési követelményeket legalább két alkalommal megszegi.
+- f) a dohánytermék-kiskereskedő a dohánytermék-kiskereskedelmi tevékenységet engedély nélkül szünetelteti;
 
 (2) A Hatóság – e törvény eltérő rendelkezése hiányában – a dohánytermék-kiskereskedelmi tevékenység folytatására vonatkozó engedélyt visszavonja, ha
 
 - a) a dohánytermék-kiskereskedő 1 éven belül legalább három alkalommal e törvénynek a fiatalkorúak különös védelmére vonatkozó szabályait megsértette, feltéve, hogy a jogsértés tényéről a Hatóság jogerős határozatot hozott, és az első jogsértést követő 365 napon belül a harmadik jogsértés is megvalósul, függetlenül attól, hogy a jogsértések tényét a Hatóság mikor állapítja meg, illetve határozata mikor válik jogerőssé;
 - b) a dohánytermék-kiskereskedő által üzemeltetett dohányboltban a dohányáruk reklámozásának tilalmára vonatkozó szabályokat 1 éven belül legalább három különböző alkalommal megsértették, feltéve, hogy a jogsértés tényéről a Hatóság jogerős határozatot hozott, és az első jogsértést követő 365 napon belül a harmadik jogsértés is megvalósul, függetlenül attól, hogy a jogsértések tényét a Hatóság mikor állapítja meg, illetve határozata mikor válik jogerőssé;
 - c) a dohánytermék-kiskereskedő a Hatóság hatósági intézkedése ellenére a jogszabálysértő állapotot nem szünteti meg;
-- d) a dohánytermék-kiskereskedő a dohánytermék-kiskereskedelmi tevékenységet az engedély kézhezvételétől számított 90 napon belül nem kezdi meg, továbbá, ha a tevékenységet engedély nélkül szünetelteti;
+- d) a dohánytermék-kiskereskedő a dohánytermék-kiskereskedelmi tevékenységet az engedély kézhezvételétől számított 90 napon belül nem kezdi meg;
 - e) a dohánytermék-kiskereskedő tevékenységét az engedélyben foglalt telephelytől eltérő helyen is folytatja – ide nem értve a 11. § (3) bekezdésében foglaltakat –;
 - f) a dohánytermék-kiskereskedő a dohányboltban (elkülönített helyen) olyan terméket értékesít, vagy olyan szolgáltatást nyújt, amely termék értékesítését, vagy szolgáltatás nyújtását e törvény nem teszi lehetővé;
 - g) a dohánytermék-kiskereskedelmi jogosultság megszűnt.
@@ -557,11 +559,13 @@ fogadhatja el.
 
 24/C. § Felhatalmazást kap a Kormány, hogy
 
-- a) az e törvényben nem szabályozott, a dohánytermék-kiskereskedelmi tevékenység biztonságos, szakszerű lebonyolításához szükséges személyi, tárgyi és gazdasági feltételeket, valamint az engedélyezési eljárásra vonatkozó további szabályokat,
+- a) az e törvényben nem szabályozott, a dohánytermék-kiskereskedelmi tevékenység biztonságos, szakszerű lebonyolításához szükséges személyi, tárgyi és gazdasági feltételeket,
 - b) a dohánytermék-kiskereskedők által a nyilvántartások vezetésére és a dohányboltban forgalmazott egyes jövedéki termékekre vonatkozó adatszolgáltatási kötelezettség teljesítésére irányadó részletes szabályokat,
 - c) az új dohánytermék-kategóriák, valamint az 1. § (1) bekezdés d)–h) pontjában meghatározott termékek forgalmazására, illetve e termékek bemutatására és ismertetésére vonatkozó különös szabályokat,
 - d) a dohánygyártmányok árának bejelentésére és az állami adó- és vámhatóság honlapján történő közzétételére, valamint az ezekkel összefüggő eljárási szabályokra vonatkozó részletes rendelkezéseket,
 - e) a koncessziós szerződés módosítására vonatkozó eljárási szabályokat a dohányboltok nyitvatartási ideje tekintetében
+- f) a 4. § (2) bekezdésében, a 10. § (1) és (4) bekezdésében, a 10/B. § (5) bekezdésében, a 13. § (14) bekezdésében, a 16/B. §-ban, a 22. § (2) bekezdésében, a 24/A. §-ban valamint a 24/B. § (2) bekezdésében meghatározott feladatok ellátására köteles minisztert vagy központi kormányzati igazgatási szervet
+- g) a 24/H. § szerinti kompenzáció igénylésére, elbírálására és kifizetésére irányuló eljárás részletes szabályait,
 
 rendeletben állapítsa meg.
 
@@ -591,15 +595,15 @@ a dohánytermék-kiskereskedő a dohányterméket a 2015. október 31-én hatál
 
 (4) Amennyiben a (2) bekezdésben meghatározott határidőben a szerződés-módosítás írásbeli formában nem jön létre, úgy a jogosult a (3) bekezdés a) és c) pontjában számára biztosított jogokra – a magyar állammal szemben – a szerződés-módosítás nélkül is hivatkozhat, továbbá kezdeményezheti a szerződés-módosítás létrehozását bírósági úton.
 
-24/H. § (1) Kiskereskedelmi tevékenység körében elektronikus cigaretta, utántöltő flakon, vagy dohányzást imitáló elektronikus eszköz forgalmazására 2016. május 20-án jogosult személy vagy szervezet – az e törvényben meghatározottak szerint – anyagi kompenzációra jogosult, amennyiben 2016. május 20. napját követően az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2015. évi CCXXIV. törvény 65. §-a alapján ezen jogosultságát elvesztette.
+24/H. § (1) Kiskereskedelmi tevékenység körében elektronikus cigaretta, utántöltő flakon, vagy dohányzást imitáló elektronikus eszköz forgalmazására 2016. május 20-án jogosult személy vagy szervezet – az e törvényben, valamint a Kormány rendeletében meghatározottak szerint – anyagi kompenzációra jogosult, amennyiben 2016. május 20. napját követően az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2015. évi CCXXIV. törvény 65. §-a alapján ezen jogosultságát elvesztette.
 
 (2) Kompenzációra az jogosult, aki az (1) bekezdés szerinti üzleti tevékenysége körében a 2013., 2014. és 2015. üzleti évek mindegyikében a teljes árbevételének legalább 10%-át az elektronikus cigaretta, utántöltő flakon, vagy dohányzást imitáló elektronikus eszköz kiskereskedelméből érte el.
 
 (3) A kompenzáció mértéke az (1) bekezdésben meghatározott termékek kiskereskedelmi forgalomban történő értékesítéséből a (2) bekezdés szerinti üzleti években elért adózás utáni eredmény mértékének megfelelő összeg.
 
-(4) A kompenzáció iránti kérelmet – a Kormány rendeletében meghatározottak szerint – 2021. október 31-ig lehet benyújtani.
+(4) A kompenzáció iránti kérelmet – a Kormány rendeletében meghatározottak szerint – 2022. január 31-ig lehet benyújtani.
 
-(5) A kompenzációra irányuló kérelemről az államháztartásért felelős miniszter dönt.
+(5) A kompenzációra irányuló kérelemről a kormányrendeletben kijelölt szerv dönt.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

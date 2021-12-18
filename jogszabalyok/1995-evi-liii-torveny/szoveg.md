@@ -951,11 +951,13 @@ tarthatók nyilván.
 
 (1a) A környezethasználat – a (2) bekezdésben meghatározott kivételekkel – az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 2011. december 13-i 2011/92/EU európai parlamenti és tanácsi irányelv 1. cikk (3) bekezdésének vagy 2. cikk (4) bekezdésének végrehajtása érdekében, törvényben meghatározott esetekben a környezeti hatásvizsgálati eljárás lefolytatása nélkül kezdődhet meg, illetve folytatható.
 
+(1b) A villamos energiáról szóló 2007. évi LXXXVI. törvény 115. § (1) bekezdés b) pontja szerinti eljárásban a környezetvédelmi engedély az integrált építési és környezetvédelmi engedély részeként kerül kiadásra.
+
 (2) Az e törvény végrehajtására kiadott rendeletben meghatározott esetekben a környezethasználat a környezethasználó által a környezetvédelmi hatóság részére adott bejelentést követően kezdhető meg, illetve folytatható.
 
 (3) A környezetvédelmi hatóság az (1) bekezdés a)–e) pontjában meghatározott hatósági határozatairól, szakhatósági állásfoglalásairól nyilvántartást vezet.
 
-(4) Törvény a gyorsforgalmi utak, valamint a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló árvízvédelmi létesítmények tervezésével, építésével összefüggő környezethasználat esetében a hatósági engedélyezésre eltérő szabályokat állapíthat meg.
+(4) Törvény a gyorsforgalmi utak, a Magyar Energetikai és Közmű-szabályozási Hivatal által jóváhagyott hálózatfejlesztési tervben szereplő, új közcélú átviteli hálózati távvezeték, valamint a Vásárhelyi-terv továbbfejlesztése keretében megvalósuló árvízvédelmi létesítmények tervezésével, építésével összefüggő környezethasználat esetében a hatósági engedélyezésre eltérő szabályokat állapíthat meg.
 
 (5) Ha az (1) bekezdés a) és b) pontjának hatálya alá tartozó környezethasználathoz más jogszabály által meghatározott létesítési, illetve működési engedélyezési eljárás is szükséges, az engedély akkor adható meg, ha a környezethasználó környezetvédelmi, illetve egységes környezethasználati engedéllyel rendelkezik. A környezetvédelmi, illetve egységes környezethasználati engedély megszerzéséig a környezethasználathoz más jogszabály által meghatározott létesítési, illetve működési engedélyezési eljárást fel kell függeszteni. A létesítési (építési), illetve működési (használatbavételi) engedély a környezetvédelmi, illetve egységes környezethasználati engedélyben foglaltaktól nem térhet el.
 

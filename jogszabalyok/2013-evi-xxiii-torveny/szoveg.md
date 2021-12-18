@@ -115,15 +115,9 @@ figyelembevételével kell számítani.
 
 #### 3. A Magyar Szénhidrogén Készletező Szövetség
 
-12. § (1) A Szövetség – mint központi készletező szervezet – feladata a biztonsági kőolajkészlet megvásárlása, tárolása és értékesítése, az ehhez szükséges tárolók létesítése, működtetése és fejlesztése, valamint a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvényben (a továbbiakban: Fbkt.) meghatározott feladatok teljesítése.
+12. § A Szövetség központi készletező szervezet, amelynek feladata a biztonsági kőolajkészlet megvásárlása, tárolása és értékesítése, az ehhez szükséges tárolók létesítése, működtetése és fejlesztése, valamint a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvényben (a továbbiakban: Fbkt.) meghatározott feladatok teljesítése, továbbá közreműködik a motorhajtóanyagok minőségi követelményeiről szóló miniszteri rendeletben meghatározott, a motorhajtóanyagok minőségi adatairól szóló jelentés elkészítésében.
 
-(2)–(3)
-
-(3a)
-
-(4)
-
-13. § (1) A Szövetség e törvény alapján létrehozott jogi személy, működését saját bevételeiből fedezi, a bevételeket a készletezési költségek fedezésére, kőolaj-, kőolajtermék-tároló vásárlására, létesítésére, fejlesztésére, a tároló társaságokban való tulajdonszerzésre és hiteleinek törlesztésére, a Szövetség működésére, valamint az Fbkt.-ban meghatározott feladatai teljesítésére fordíthatja. A Szövetség nem alanya a társasági adónak. A Szövetség a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvény szerinti egyéb szervezetnek minősül.
+13. § (1) A Szövetség e törvény alapján létrehozott jogi személy, működését saját bevételeiből fedezi, a bevételeket a készletezési költségek fedezésére, kőolaj-, kőolajtermék-, villamosenergia-tároló vásárlására, létesítésére, fejlesztésére, a tároló társaságokban való tulajdonszerzésre és hiteleinek törlesztésére, a Szövetség működésére, a motorhajtóanyagok minőségi követelményeiről szóló miniszteri rendeletben meghatározott, a motorhajtóanyagok minőségi adatairól szóló jelentés elkészítésében való közreműködésre, valamint az Fbkt.-ban meghatározott feladatai teljesítésére fordíthatja. A Szövetség nem alanya a társasági adónak. A Szövetség a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló törvény szerinti egyéb szervezetnek minősül.
 
 (2) A Szövetség szervezete kőolaj- és kőolajtermék készletezési szekcióból (a továbbiakban: kőolaj szekció), valamint földgáz-készletezési szekcióból (a továbbiakban: földgáz szekció) áll.
 
@@ -133,30 +127,28 @@ figyelembevételével kell számítani.
 
 15. § A 9. § (4) bekezdés c) pontja alapján a miniszter által meghatározott célból kijelölt felhasználók ellátására felszabadított készleten felül, a felszabadított készletek vonatkozásában a kőolaj szekció tagjait, a készlet felszabadítást megelőző naptári év forgalmának egyenlege alapján esedékessé vált és teljesített nettó tagi hozzájárulásuk arányában elővásárlási jog illeti meg. A nettó tagi hozzájárulás összege a befizetett, valamint a visszaigényelt és levont tagi hozzájárulás egyenlege.
 
-16. § A Szövetség az e törvényben és az Fbkt.-ben előírt földgáz biztonsági készletezési tevékenységen kívül, csak az azzal összefüggő – a Szövetség Alapszabályában (a továbbiakban: alapszabály) meghatározott – tevékenységek gyakorlására jogosult.
+16. § A Szövetség az e törvényben és az Fbkt.-ben előírt tevékenységein kívül, csak az azokkal összefüggő – a Szövetség Alapszabályában (a továbbiakban: alapszabály) meghatározott – tevékenységek gyakorlására jogosult.
 
 17. § (1) A Szövetség a miniszter által közzétett alapszabály alapján működik.
 
-(2) Az alapszabályban meg kell határozni:
+(2) Az alapszabály tartalmazza
 
-- a) a Szövetség székhelyét,
-- b) a Szövetség szervezeti felépítését és működését,
-- c) a tagsági viszony létrejöttének és megszűnésének részletes szabályait,
-- d) a Szövetség tagjainak e törvényben nem szabályozott jogait és kötelezettségeit, továbbá e kötelezettségek elmulasztásának jogkövetkezményét,
-- e) a Szövetség gazdálkodási rendjének részletes szabályait,
-- f) a felszabadított biztonsági kőolaj- és földgázkészlet értékesítésének rendjét,
-- g) a Szövetség tagjai által a Szövetségnek fizetendő tagi hozzájárulás megfizetésének részletszabályait,
-- h) a kőolaj- és kőolajtermék-készletezés rendszerének részletes szabályait, különösen
-  - ha) a készlet azonosításának, számbavételének módszereit, nyilvántartásának rendjét,
-  - hb) a készletállomány összetételére vonatkozó termékszerkezet-összetételi arányok, valamint a mennyiségi és minőségi paraméterek meghatározásának módját,
-  - hc) a készlet vagy annak része tulajdonjoga megállapíthatóságának és bírósági végrehajtás alóli mentességének biztosítása érdekében alkalmazandó jelölés módját,
-- i) a kőolaj- és kőolajtermék-készletek minőségének megőrzése céljából történő kőolaj és kőolajtermék cserélésének gyakoriságát, módját és rendszerét, a normatív veszteségre vonatkozó előírásokat,
-- j) a tag és a Szövetség közötti elektronikus kapcsolattartás szabályait, valamint az üzemszüneti rendelkezéseket,
-- k) a földgázkészletezés rendszerének részletes szabályait,
-- l) a Szövetség adatszolgáltatási kötelezettségét,
-- m)
-- n)
-- o) mindazokat a kérdéseket, amelyeket e törvény és az Fbkt. kötelezően előír.
+- 1. a Szövetség székhelyét,
+- 2. a Szövetség szervezeti felépítését és működését,
+- 3. a tagsági viszony létrejöttének és megszűnésének részletes szabályait,
+- 4. a Szövetség tagjainak e törvényben nem szabályozott jogait és kötelezettségeit, továbbá e kötelezettségek elmulasztásának jogkövetkezményét,
+- 5. a Szövetség gazdálkodási rendjének részletes szabályait,
+- 6. a felszabadított biztonsági kőolaj- és földgázkészlet értékesítésének rendjét,
+- 7. a Szövetség tagjai által a Szövetségnek fizetendő tagi hozzájárulás megfizetésének részletszabályait,
+- 8. a kőolaj- és kőolajtermék-készletezés rendszerének részletes szabályait, különösen
+  - a) a készlet azonosításának, számbavételének módszereit, nyilvántartásának rendjét,
+  - b) a készletállomány összetételére vonatkozó termékszerkezet-összetételi arányok, valamint a mennyiségi és minőségi paraméterek meghatározásának módját,
+  - c) a készlet vagy annak része tulajdonjoga megállapíthatóságának és bírósági végrehajtás alóli mentességének biztosítása érdekében alkalmazandó jelölés módját,
+- 9. a kőolaj- és kőolajtermék-készletek minőségének megőrzése céljából történő kőolaj és kőolajtermék cserélésének gyakoriságát, módját és rendszerét, a normatív veszteségre vonatkozó előírásokat,
+- 10. a tag és a Szövetség közötti elektronikus kapcsolattartás szabályait, valamint az üzemszüneti rendelkezéseket,
+- 11. a földgázkészletezés rendszerének részletes szabályait,
+- 12. a Szövetség adatszolgáltatási kötelezettségét, valamint
+- 13. amit e törvény és az Fbkt. alapján az alapszabályban szükséges szabályozni.
 
 (3) Az alapszabályt a Szövetség honlapján közzé kell tenni.
 
@@ -364,7 +356,7 @@ figyelembevételével kell számítani.
 
 (5) A tagi hozzájárulás visszaigénylésének, illetve levonásának jogosságát a tag az erre vonatkozó okiratok, nyilvántartások benyújtásával hitelt érdemlően köteles igazolni. A visszaigénylés és a levonás együttes összege éves szinten nem haladhatja meg a tag által befizetett tagi hozzájárulás összegét.
 
-(6) A (2)–(5) bekezdésben nem szabályozott kérdéseket a 17. § (2) bekezdés g) pontja alapján az alapszabályban kell meghatározni.
+(6) A (2)–(5) bekezdésben nem szabályozott kérdéseket a 17. § (2) bekezdés 7. pontja alapján az alapszabályban kell meghatározni.
 
 (7)
 
