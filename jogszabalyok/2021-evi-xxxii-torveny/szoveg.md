@@ -265,9 +265,9 @@ a támogatására fordítható.
 
 (5) A tárgyévben a (4) bekezdés szerint rendelkezésre álló, de fel nem használt összeg a következő évre átvihető és azonos célokra felhasználható.
 
-(6) A Hatóság kérelemre indult eljárásáért, továbbá a Hatóság által végzett egyes igazgatási szolgáltatások igénybevételéért – jogszabály eltérő rendelkezése hiányában – igazgatási szolgáltatási díjat kell fizetni. Az engedély iránti kérelemre indult eljárásokban az eljárás megszüntetése vagy a kérelem elutasítása esetén az igazgatási szolgáltatási díjat nem kell visszatéríteni.
+(6) A Hatóság kérelemre indult eljárásáért, továbbá a Hatóság által végzett egyes igazgatási szolgáltatások igénybevételéért – Hatóság elnöke által kiadott rendelet eltérő rendelkezése hiányában – igazgatási szolgáltatási díjat kell fizetni. Az engedély iránti kérelemre indult eljárásokban az eljárás megszüntetése vagy a kérelem elutasítása esetén az igazgatási szolgáltatási díjat nem kell visszatéríteni.
 
-(7) Törvényben, törvény felhatalmazása alapján kiadott jogszabályban megállapított, a Hatóságnak fizetendő igazgatási szolgáltatási, felügyeleti díj és annak késedelmi kamata köztartozásnak minősül, és adók módjára kell behajtani.
+(7) Törvényben, a Hatóság elnökének rendeletében megállapított, a Hatóságnak fizetendő igazgatási szolgáltatási, felügyeleti díj és annak késedelmi kamata köztartozásnak minősül, és adók módjára kell behajtani.
 
 (8) A (2) bekezdés a)–c) pontja szerinti bevételek 9%-a a központi költségvetést illeti meg. A központi költségvetésről szóló törvény ennél alacsonyabb mértéket határozhat meg.
 
@@ -441,6 +441,7 @@ a támogatására fordítható.
 - c) az egyes koncessziókkal kapcsolatos nyilvántartások vezetésének részletes szabályait,
 - d) a Hatóság által a koncesszióköteles tevékenységek gyakorlása tekintetében lefolytatható hatósági ellenőrzés részletes szabályait,
 - e) a koncesszióba adó és a koncesszióba vevő ellenőrzéshez kapcsolódó kötelezettségeit, amelynek keretében a Hatóság a koncesszióköteles tevékenység gyakorlásához kapcsolódó adatok teljes körű megismerésére jogosult és azok átadását kérheti.
+- f) a Hatóság hatáskörébe tartozó hatósági eljárásokban a közérdeken alapuló kényszerítő indok alapján valamely okirat vagy más irat bizonyítási eszközként történő kötelező alkalmazását.
 
 #### 13. Hatályba léptető rendelkezés
 
@@ -479,11 +480,11 @@ a jogelődök helyébe a Hatóság lép.
 
 (10) A Hatósághoz átkerülő feladatokhoz kapcsolódóan a jogelődök által kötött együttműködési megállapodás, koordinációs tanácsban, európai koordinációs tárcaközi bizottságban, nemzetközi szervezetben 2021. szeptember 30-án fennálló tagság tekintetében a jogelőd szerződő fél vagy tag vonatkozásában 2021. október 1-jétől a Hatóság jogosult eljárni. A Hatóság köteles tájékoztatni az együttműködési megállapodásokban részes feleket és a szervezeteket arról, hogy a megállapodással érintett jogviszony és tagsági jogviszony tekintetében a jogelőd helyett a Hatóság jogosult eljárni.
 
-(11) A 2021. október 1. napján folyamatban lévő önálló végrehajtói álláspályázatok és áthelyezési kérelmek elbírálására az IM jogosult.
+(11) A Magyar Bírósági Végrehajtói Kar által kiírt és az önálló bírósági végrehajtói álláshelyek betöltésére vonatkozó azon pályázati felhívást, amely alapján a pályázati eljárás lefolytatása az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXXVI. törvény hatályba lépése napján folyamatban van, ismételten közzé kell tenni és a pályázati eljárást a közzétételt követően újra le kell folytatni. A pályázati felhívás ismételt közzétételével egyidejűleg a folyamatban lévő pályázati eljárások megszűnnek. Annak a pályázónak, aki a folyamatban lévő pályázati eljárás során érvényes pályázatot nyújtott be és az ismételten közzétett pályázati felhívásra is pályázni kíván, elegendő büntetőjogi felelősségének tudatában nyilatkoznia arról, hogy a benyújtott pályázatát az adott végrehajtói álláshely betöltésére az ismételt pályázati felhívás tekintetében továbbra is fenntartja, valamint arról, hogy vele szemben az ismételten lefolytatásra kerülő pályázatban való részvételével összefüggésben jogszabályban meghatározott kizáró ok nem áll fenn. E nyilatkozatot szükséges teljes bizonyító erejű magánokiratba foglalni, valamint a pályázati felhívásban szereplő módon és határidőben a Magyar Bírósági Végrehajtói Kar részére megküldeni. A nyilatkozathoz mellékelni kell a nyilatkozattétel napjához képest kilencven napnál nem régebbi hatósági erkölcsi bizonyítvány eredeti példányát.
 
 (12) Nem jelenti az adótitok és üzleti titok sérelmét, ha a jogelődök a Hatóság számára ezen titokkörbe eső adatokat adnak át e törvény kihirdetését követően, e törvény hatálybalépéséből adódó feladatok ellátása érdekében.
 
-(13) A 20. § (3) bekezdése szerinti felügyeleti hozzájárulás mértéke 2021. évben hétszázötvenmillió forint, 2022. évben hárommilliárd forint.
+(13) A 20. § (3) bekezdése szerinti felügyeleti hozzájárulás mértéke 2021. évben hétszázötvenmillió forint, 2022. évben ötmilliárd-háromszázhetvenkilencmillió-ötszázezer forint.
 
 32. § (1) Az SZF elnökének és elnökhelyetteseinek megbízatása 2021. szeptember 30. napján megszűnik. Az elnök és az elnökhelyettes a 11. § (1) bekezdés szerinti végkielégítésre jogosult, kivéve, ha megbízatása megszűnésétől számított 30 napon belül közszolgálati vagy kormányzati szolgálati jogviszonyt létesít.
 

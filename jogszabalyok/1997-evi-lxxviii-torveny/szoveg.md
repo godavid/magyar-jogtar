@@ -1314,6 +1314,8 @@ jogszabályban meghatározottakat kell alkalmazni.
 
 (6) Amennyiben elosztóvezeték vagy elosztóhálózat létesítéséhez vagy felújításához a közterület tulajdonosának, kezelőjének nyilatkozata, hozzájárulása vagy jóváhagyása szükséges a közterület igénybevételével, felbontásával kapcsolatban, és arra az elosztó nyolc napon belül nem kap érdemi választ, a hozzájárulást vagy jóváhagyást megadottnak kell tekinteni.
 
+(6a) Közcélú hálózat építése céljából a közterület (6) bekezdés szerinti felbontása a november 15. és március 15. közötti időszakban is engedélyezhető, amennyiben a közművezeték üzemeltetője vállalja, hogy olyan műszaki-technológiai megoldás szerint jár el, amellyel az érintett közterület végleges helyreállítása a közúti közlekedés biztonságát nem veszélyeztetve, az időjárási körülményekhez igazodva szakszerűen, a vonatkozó útügyi műszaki előírásokban foglaltaknak megfelelve elvégezhető, és a közművezeték üzemeltetője az egyes nyomvonal jellegű építményszerkezetek kötelező alkalmassági idejéről szóló miniszteri rendelet szerinti alkalmassági időtartamra jótállást vállal az elvégzett munkákra.
+
 (7) Egyéb ingatlanoknak a közhasználat céljára átadott területrészére – az erről szóló külön szerződésben foglaltak keretei között – a közterületre vonatkozó rendelkezéseket kell alkalmazni.
 
 55. § (1)–(2)

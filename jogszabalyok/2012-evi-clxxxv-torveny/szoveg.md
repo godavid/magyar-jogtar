@@ -2337,7 +2337,7 @@ kezdeményezheti az Európai Bizottságnál.
 
 (3) E törvény Mód. tv.-nyel megállapított 16/A. alcíme szerinti követelményeinek a 2018. július 4. előtt létrehozott kiterjesztett gyártói felelősségi rendszereknek 2023. január 5-től kell megfelelni.
 
-92/G. § (1) Az egyes energetikai és közszolgáltatási tárgyú törvények módosításáról szóló 2021. évi LXVIII. törvény hatálybalépésétől 2023. június 30. napjáig a hulladékgazdálkodási közszolgáltatási feladatok ellátásába bevont hulladékgazdálkodási vagyonelem átruházásához, a vagyonelemek birtoklását, hasznosítását, használatát, a hasznai szedését és az azzal való rendelkezést érintő szerződéses jogviszony létesítéséhez a miniszter előzetes jóváhagyása szükséges.
+92/G. § (1) Az egyes energetikai és közszolgáltatási tárgyú törvények módosításáról szóló 2021. évi LXVIII. törvény hatálybalépésétől 2023. június 30. napjáig a hulladékgazdálkodási közszolgáltatási feladatok ellátásába bevont hulladékgazdálkodási vagyonelem átruházásához, a vagyonelemek birtoklását, hasznosítását, használatát, a hasznai szedését, valamint az azzal való rendelkezést érintő szerződéses jogviszony létesítéséhez, megszüntetéséhez és módosításához a miniszter előzetes jóváhagyása szükséges.
 
 (2) Az (1) bekezdésben foglaltak nem alkalmazandók az olyan szerződéses jogviszonyokra, amelyek
 
@@ -2439,6 +2439,7 @@ teljesíti.
 - j) a hulladéklerakókról szóló 1999/31/EK irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/850 európai parlamenti és tanácsi irányelvnek
 - k) az egyes műanyagtermékek környezetre gyakorolt hatásának csökkentéséről szóló, 2019. június 5-i (EU) 2019/904 európai parlamenti és tanácsi irányelvnek,
 - l) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
+- m) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

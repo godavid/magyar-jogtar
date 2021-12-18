@@ -27,9 +27,10 @@ Az Országgyűlésnek e törvény megalkotásával az a célja, hogy megteremtse
 - g) a kizárólag tudományos kutatás vagy akár a levegőben, akár a szárazföldön lévő légi járművek vagy berendezések ellenőrzése, tesztelése vagy hitelesítése céljából végzett repülés,
 - h) az 5700 kg-nál kisebb maximális felszálló tömegre hitelesített légi járművel végzett repülés,
 - i) a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról szóló, 2008. szeptember 24-i 1008/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1008/2008/EK európai parlamenti és tanácsi rendelet) értelmében előírt közszolgáltatási kötelezettség keretében végrehajtott repülés az Európai Unió működéséről szóló szerződés 349. cikkében meghatározott legkülső régiók útjain vagy olyan utakon, amelyeken a felajánlott kapacitás nem haladja meg az évi 30 000 ülőhelyet,
-- j) olyan légiközlekedési tevékenység, amely során a kereskedelmi légiközlekedési üzembentartó 3 egymást követő 4 hónapos időszakban időszakonként 243-nál kevesebb járatot teljesít, vagy járatainak éves összes kibocsátása kevesebb 10 000 tonnánál, amelybe beleszámítandó az l) pont szerinti járatok, valamint a tagállamok uralkodói és közvetlen családjuk, a tagállamok állam- és kormányfői, valamint miniszterei hivatalos út alkalmával történő szállítása is,
-- k) 2013. január 1-jétől 2030. december 31-ig azok a repülések, amelyek e ponttól eltekintve az e törvény hatálya alá tartozó repülési tevékenység körébe tartoznának, és amelyeket kevesebb, mint évi 1 000 tonna összkibocsátással járó repüléseket végző nem kereskedelmi légijármű-üzemeltető hajt végre [az l) pont szerinti járatok kibocsátásait is beleértve],
+- j) olyan légiközlekedési tevékenység, amely során a kereskedelmi légiközlekedési üzembentartó 3 egymást követő 4 hónapos időszakban időszakonként 243-nál kevesebb járatot teljesít, vagy járatainak éves összes kibocsátása kevesebb 10 000 tonnánál, amelybe beleszámítandó az l) és m) pont szerinti járatok, valamint a tagállamok uralkodói és közvetlen családjuk, a tagállamok állam- és kormányfői, valamint miniszterei hivatalos út alkalmával történő szállítása is,
+- k) 2013. január 1-jétől 2030. december 31-ig azok a repülések, amelyek e ponttól eltekintve az e törvény hatálya alá tartozó repülési tevékenység körébe tartoznának, és amelyeket kevesebb, mint évi 1 000 tonna összkibocsátással járó repüléseket végző nem kereskedelmi légijármű-üzemeltető hajt végre [az l) és m) pont szerinti járatok kibocsátásait is beleértve],
 - l) a Svájcban található repülőterekről induló és az EGT területén található repülőterekre érkező járatok.
+- m) az Egyesült Királyságban található repülőterekről induló és az EGT területén található repülőterekre érkező járatok.
 
 (5)
 
@@ -597,6 +598,7 @@ való megfelelést szolgálja.
 - q) a Párizsi Megállapodásban vállalt kötelezettségek teljesítése érdekében a tagállamok által 2021-től 2030-ig kötelezően teljesítendő, az éghajlat-politikai fellépéshez hozzájáruló éves üvegházhatásúgázkibocsátás-csökkentések meghatározásáról, valamint az 525/2013/EU rendelet módosításáról szóló, 2018. május 30-i (EU) 2018/842 európai parlamenti és tanácsi rendelet,
 - r) a 2003/87/EK európai parlamenti és tanácsi irányelvnek a Svájcból érkező járatoknak az uniós kibocsátáskereskedelmi rendszerből való kizárása érdekében történő módosításáról szóló, 2020. május 18-i (EU) 2020/1071 felhatalmazáson alapuló bizottsági határozat,
 - s) az egyes tagállamok energiarendszereinek korszerűsítését és energiahatékonyságának javítását célzó beruházásokat támogató modernizációs alap működése tekintetében a 2003/87/EK európai parlamenti és tanácsi irányelv részletes alkalmazási szabályainak megállapításáról szóló, 2020. július 9-i (EU) 2020/1001 bizottsági végrehajtási rendelet
+- t) a 2003/87/EK európai parlamenti és tanácsi irányelvnek az Egyesült Királyságból érkező járatoknak az uniós kibocsátáskereskedelmi rendszerből való kizárása tekintetében történő módosításáról szóló, 2021. június 17-i (EU) 2021/1416 felhatalmazáson alapuló bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 

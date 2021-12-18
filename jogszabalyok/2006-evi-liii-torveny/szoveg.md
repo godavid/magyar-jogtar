@@ -43,7 +43,7 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósít�
 
 (4) A (3) bekezdés szerinti esetben a telekalakítást legkésőbb a használatbavételi engedélyezési vagy tudomásulvételi eljárás megindulásáig az ingatlan-nyilvántartásban át kell vezetni.
 
-(5) Közlekedési infrastruktúra-beruházás megvalósítása során az építtető kérelmére a hatóság köteles lefolytatni azt az Étv. szerinti, valamint a környezet védelmének általános szabályairól szóló törvény szerinti előzetes vizsgálati eljárást és környezeti hatásvizsgálati engedélyezési, valamint a már kiadott engedély módosítására irányuló eljárást is, ha az adott tevékenységre vonatkozóan jogszabály már nem ír elő engedélyt. Ilyen esetben az engedélyezésre vonatkozó korábbi – a hatályvesztésüket megelőző napon hatályos – jogszabályi rendelkezéseket kell alkalmazni.
+(5) Közlekedési infrastruktúra-beruházás megvalósítása során az építtető kérelmére a hatóság akkor is lefolytatja az Étv. szerinti, valamint a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) szerinti előzetes vizsgálati eljárást és környezeti hatásvizsgálati engedélyezési, valamint a már kiadott engedély módosítására irányuló eljárást, ha az adott tevékenységre vonatkozóan jogszabály nem ír elő engedélyt.
 
 (6) Az e törvény szerinti eljárásokban ügygondnokot vagy eseti gondnokot kell kirendelni abban az esetben is, ha a tulajdonos vagy más kártalanításra jogosult személye nem állapítható meg egyértelműen. Az ügygondnokot az eljáró hatóság, az eseti gondnokot a hatóság megkeresésére a gyámhatóság rendeli ki. A gyámhatósági eljárás ügyintézési ideje 15 nap.
 
@@ -75,7 +75,7 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósít�
 
 (5) Az ügyintézési határidő
 
-- a) a környezet védelmének általános szabályairól szóló törvény szerinti előzetes vizsgálati eljárás esetén az ott meghatározott határidő, környezeti hatásvizsgálati eljárás esetén hatvan nap,
+- a) a Kvt. szerinti előzetes vizsgálati eljárás esetén az ott meghatározott határidő, környezeti hatásvizsgálati eljárás esetén hatvan nap,
 - b) az elektronikus hírközlésről szóló törvény szerinti elektronikus hírközlési építményekkel kapcsolatos építésügyi hatósági eljárások esetén az ott meghatározott határidő,
 - c) a közúti közlekedésről szóló törvény szerinti közlekedési hatósági engedélyezési eljárások esetén harminc nap,
 - d) a villamos energiáról szóló törvény szerinti villamosenergia-ipari építésügyi hatósági engedélyezési eljárások esetén harminc nap,
@@ -157,7 +157,7 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósít�
 - b) átadják a lehetséges megvalósítási változatokkal kapcsolatos adatokat, továbbá az eljáró hatóságok, szakhatóságok vagy más érintett állami szerv kezelésében lévő, a tervezést segítő és a későbbi engedélyezés szempontjából releváns közérdekű adatokat, valamint
 - c) a lehetséges nyomvonalak között megvalósíthatósági rangsort állítanak fel az a) és b) pont szerinti tények és adatok figyelembevételével.
 
-6/F. § A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 72. §-ától eltérően a környezetvédelmi hatóság a környezetvédelmi engedélyt akkor vonja vissza, ha
+6/F. § A Kvt. 72. §-ától eltérően a környezetvédelmi hatóság a környezetvédelmi engedélyt akkor vonja vissza, ha
 
 - a) a véglegessé válástól számított tíz éven belül a közlekedési infrastruktúra-beruházás megvalósítását vagy az ahhoz szükséges építési előkészítési munkákat nem kezdték meg,
 - b) a jogosult nyilatkozik arról, hogy a környezetvédelmi engedéllyel nem kíván élni, vagy
@@ -283,7 +283,7 @@ az ingatlanügyi hatóság, illetve az erdészeti hatóság a közlekedési infr
 
 (10) A (9) bekezdés szerinti kártalanítást adásvételi szerződés vagy kisajátítási eljárás hiányában a tulajdonos kérelmére a fővárosi vagy a megyei kormányhivatal állapítja meg. A kártalanítás megállapítására vonatkozó eljárásra a kisajátítási eljárás szabályait kell alkalmazni. Amennyiben az ingatlan megvásárlására, kisajátítására az egyszeri kártalanítás megállapítását és kifizetését követően sor kerül, úgy a vételár, kártalanítási összeg meghatározása során az ingatlan – a (4) bekezdés szerinti használati korlátozás figyelmen kívül hagyásával megállapított – forgalmi értékéből az egyszeri kártalanítás összegét le kell vonni.
 
-6/M. § (1) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások kapcsán az építtető az előkészítés fázisában köteles az egységes elektronikus közműnyilvántartás adatszolgáltatását igénybe venni, a kiváltásra vagy kiépítésre kerülő közművek terveit a közműszolgáltatóval elkészíttetni.
+6/M. § (1) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások kapcsán az építtető az előkészítés fázisában az egységes elektronikus közműnyilvántartás adatszolgáltatását veszi igénybe, valamint a kiváltásra vagy kiépítésre kerülő közművek terveit elkészítteti. Az építtető a kiváltásra vagy kiépítésre kerülő közművek terveit a közműszolgáltatóval is elkészíttetheti.
 
 (2) Ha az építtető, a beruházó, vagy a tervező az egységes elektronikus közműnyilvántartás adatszolgáltatás igénybe vételét követően a felmerülő kérdések tisztázása érdekében a közmű tulajdonosához vagy üzemeltetőjéhez (a továbbiakban: közműszolgáltató) fordul, a közműszolgáltató 15 napon belül köteles a nyilatkozatát kiadni.
 
@@ -410,7 +410,7 @@ cél megvalósítására irányuló beruházást.
 - b) a sajátos telekalakítási követelményeket,
 - c) az egyedi településképi követelményeket,
 - d) az egyedi örökségvédelmi szabályokat,
-- e) a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. §-a szerinti környezetvédelmi és fás szárú növények védelmére vonatkozó előírásokat,
+- e) a Kvt. 48. §-a szerinti környezetvédelmi és fás szárú növények védelmére vonatkozó előírásokat,
 - f) a felszín alatti vizek és a földtani közeg kármentesítésével összefüggő hatósági eljárások ágazati jogszabályban foglaltaktól eltérő különös eljárási szabályait, a kármentesítés során a tényfeltárás, a beavatkozás és a kármentesítési monitoring egyedi szabályait.
 
 (2) Az (1) bekezdés a) pontja szerinti településrendezési és beépítési szabály, valamint egyedi építési követelmény az Étv. 13. § (1) bekezdésével összefüggő követelményekre, valamint az országos településrendezési és építési követelményektől, az országos tűzvédelmi szabályoktól, továbbá a változtatási és építési tilalmat elrendelő szabályoktól, valamint a településrendezési tervekben foglaltaktól való eltérő rendelkezésekre vonatkozhat.

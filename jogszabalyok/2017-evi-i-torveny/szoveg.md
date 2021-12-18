@@ -2002,5 +2002,6 @@ E törvény
 - 7. a menekültstátusz megadására és visszavonására vonatkozó tagállami eljárások minimumszabályairól 2005. december 1-jei 2005/85/EK tanácsi irányelvnek,
 - 8. az alternatív befektetésialap-kezelőkről, valamint a 2003/41/EK és a 2009/65/EK irányelv, továbbá az 1060/2009/EK és az 1095/2010/EU rendelet módosításáról szóló, 2011. június 8-i 2011/61/EU európai parlamenti és tanácsi irányelvnek,
 - 9. a nemzetközi védelem megadására és visszavonására vonatkozó közös eljárásokról szóló, 2013. június 26-i 2013/32/EU európai parlamenti és tanácsi irányelvnek,
+- 10. a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
