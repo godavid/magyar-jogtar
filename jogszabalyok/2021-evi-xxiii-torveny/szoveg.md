@@ -32,7 +32,31 @@ A Szegedi Tudományegyetem régiós szerepének erősítése és stratégiai cé
 
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
-5. §
+5. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján – az Egyetem közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében meghatározott közfeladata ellátása érdekében – a KAÁLI REK Reprodukciós Központ Korlátolt Felelősségű Társaság állami tulajdonban álló üzletrészét ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni annak kötelezettségével, hogy a tulajdonba adást követő hat hónapon belül az Egyetem a KAÁLI REK Reprodukciós Központ Korlátolt Felelősségű Társaságot megszünteti oly módon, hogy annak feladatait az Egyetem lássa el általános jogutódként. Az Egyetem első alkalommal a 2021. év után járó osztalékra jogosult.
+
+(2) Az Egyetem kérelmére a cégbíróság végelszámolás lefolytatása nélkül törli a KAÁLI REK Reprodukciós Központ Korlátolt Felelősségű Társaságot a cégjegyzékből. A törlés iránti kérelmet az Egyetem a jogutód nélküli megszüntetésre vonatkozó döntése meghozatalától számított hatvan napon belül kell benyújtani a cégbírósághoz.
+
+(3) Az (1) bekezdésben meghatározott intézkedések végrehajtása során az állam képviseletében a miniszter jár el, aki 2021. december 20. napjától az üzletrész felett a tulajdonosi jogokat gyakorolja.
+
+(4) A KEKVA tv. 13. § (1) és (8) bekezdése alapján az Egyetem KEKVA tv. 1. melléklete szerinti közfeladata ellátását és közérdekű céljainak megvalósítását szolgáló, a Szeged, II. kerület 11634 és 11637 helyrajzi számú állami tulajdonban álló ingatlanokon az Egyetem javára ingyenes, határozatlan időre szóló, közfeladathoz rendelt vagyonkezelői jogot kell alapítani.
+
+(5) A (4) bekezdés szerinti vagyonkezelői jog megalapításával egyidejűleg a (4) bekezdés szerinti ingatlanokban a közfeladat ellátására rendelkezésre álló állami tulajdonú ingó vagyontárgyak (e § alkalmazásában a továbbiakban: ingóságok) e törvény erejénél fogva ingyenesen az Egyetem tulajdonába kerülnek. Az átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
+(6) Az Egyetem gondoskodik az általa vagy a tulajdonában, fenntartásában álló szervezet által bármilyen jogcímen használt ingatlanok területén található épített örökség megóvásáról.
+
+6. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, a 2. mellékletben felsorolt állami tulajdonban lévő ingatlanok, ingatlanok állami tulajdonban lévő tulajdoni hányada (e § alkalmazásában a továbbiakban együtt: ingatlan) ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerülnek.
+
+(2) Az ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződéseket az állam nevében a tulajdonosi joggyakorló szervezetek készítik elő és kötik meg az Egyetemmel.
+
+(3) A költségvetési szervi formában működő Egyetem és a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) között fennálló vagyonkezelési szerződés megszűnik.
+
+(4) Az ingatlan vonatkozásában a (2) bekezdés szerinti megállapodás megkötéséig, valamint a (5) bekezdés szerinti ingóságok vonatkozásában a (6) bekezdés szerinti jegyzőkönyv felvételéig az Egyetemet a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátása érdekében ingyenes használati jog illeti meg.
+
+(5) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg a KEKVA tv. 1. mellékletében meghatározott közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő, állami tulajdonban lévő ingó vagyontárgyak (e § alkalmazásában a továbbiakban: ingóságok) e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
+
+(6) Az (5) bekezdés szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
+(7) Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
 
 7. § Az Egyetem a tulajdonába adott ingatlant – a 6. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. melléketében meghatározott közfeladata ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
 
