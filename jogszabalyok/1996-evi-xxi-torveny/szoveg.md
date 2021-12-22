@@ -546,7 +546,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 (3b) A 23/D. § (1)–(3) bekezdése és (9) bekezdése szerinti területrendezési hatósági eljárás során a kapcsolattartás írásban történik.
 
-(4) A térségi területfelhasználási engedély kiadása – az összhang igazolására vonatkozó kérelem kivételével – csak akkor tagadható meg, ha a térségi területfelhasználási kérelemben szereplő javaslat nincs összhangban az elfogadott országos vagy az adott térségre vonatkozó területrendezési terv előírásaival.
+(4) A térségi területfelhasználási engedély kiadása – az összhang igazolására vonatkozó kérelem kivételével – csak akkor tagadható meg, ha a térségi területfelhasználási kérelemben szereplő javaslat nincs összhangban az elfogadott országos vagy az adott térségre vonatkozó területrendezési terv előírásaival vagy a termőföld védelméről szóló 2007. évi CXXIX. törvény 6/B. §-ával és 8. §-ával.
 
 (5)
 

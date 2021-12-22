@@ -98,7 +98,9 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 9. § (1) Az eljáró hatóság húsz napon belül hiánypótlásra hívja fel a kérelmezőt, ha a kérelmet nem a jogszabályoknak megfelelően nyújtotta be.
 
-(2) Az eljáró hatóság a II. és III. Fejezet szerinti eljárásban a kérelem megérkezését követő naptól számított negyvenöt napon belül, a IV. és V. Fejezet, valamint a VII–IX/B. Fejezet szerinti eljárásban a kérelem megérkezését követő naptól számított hetvenöt napon belül dönt.
+(2) Az eljáró hatóság a II. és III. Fejezet szerinti eljárásban a kérelem megérkezését követő naptól számított negyvenöt napon belül, a IV. és V. Fejezet szerinti eljárásban a kérelem megérkezését követő naptól számított hetvenöt napon belül dönt.
+
+(2a) Az eljáró hatóságnak a VII–IX/B. Fejezet szerinti eljárásában az ügyintézési határideje harminc nap.
 
 (3) Az eljáró hatóság a XI. és a XI/A. Fejezet szerinti eljárásban egy hónapon belül dönt. Ha a kérelem célja olyan európai szakmai kártya létrehozása, amellyel előzetes ellenőrzés alá nem tartozó határon átnyúló szolgáltatást kíván nyújtani a kérelmező, az eljáró hatóság huszonegy napon belül dönt.
 

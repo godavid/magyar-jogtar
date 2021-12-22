@@ -51,9 +51,9 @@ a következő törvényt alkotja:
 
 (3) A hatósági és egyéb szakmai döntések előkészítését jogszabályban meghatározottak szerint örökségvédelmi tanácsadó testületek segítik.
 
-(4) A kulturális örökség védett elemeinek megóvását a jogszabályban kijelölt örökségvédelmi szerv jogszabályban meghatározottak szerint szakértői szolgáltatásokkal segíti elő.
+(4) A kulturális örökség védett elemeinek megóvását, tudományos kutatását és értékelését a jogszabályban kijelölt örökségvédelmi szerv jogszabályban meghatározottak szerint szakértői szolgáltatásokkal segíti elő.
 
-(5) Műemlékkel kapcsolatos építésügyi hatósági eljárásban – törvény vagy kormányrendelet szerinti igénybevétel esetén, a területi építészeti-műszaki tervtanács kijelölésének esetét kivéve – a (3) bekezdés szerinti tanácsadó testületként a központi építészeti-műszaki tervtanács jár el, amelynek véleményét az építésügyi és építésfelügyeleti hatóság az eljárása, döntése meghozatala során bizonyítékként veheti figyelembe. A műemlékkel kapcsolatos eljárásban a központi építészeti-műszaki tervtanács tagja a Magyar Művészeti Akadémia által delegált tag is.
+(5) Műemlékkel kapcsolatos építésügyi hatósági eljárásban – törvényben vagy kormányrendeletben meghatározott beavatkozás, illetve tevékenység esetén, a területi építészeti-műszaki tervtanács kijelölésének esetét kivéve – a (3) bekezdés szerinti tanácsadó testületként a központi építészeti-műszaki tervtanács jár el, amelynek véleményét az építésügyi és építésfelügyeleti hatóság az eljárása, döntése meghozatala során bizonyítékként veheti figyelembe. A műemlékkel kapcsolatos eljárásban a központi építészeti-műszaki tervtanács tagja a Magyar Művészeti Akadémia által delegált tag is.
 
 ### Értelmező rendelkezések
 
@@ -554,7 +554,7 @@ soron kívül, a jogszabályban meghatározott tartalmú értékvizsgálat alapj
 
 (2) Az ideiglenes védelem nem hosszabbítható meg.
 
-(3) Az ideiglenes műemléki védelem alatt álló ingatlanra – a 68. § kivételével – a műemlékekre vonatkozó rendelkezéseket kell alkalmazni.
+(3) Az ideiglenes műemléki védelem alatt álló ingatlanra – a 68. § és 86. § kivételével – a műemlékekre vonatkozó rendelkezéseket kell alkalmazni.
 
 (4) Az ideiglenes védelem megszűnik a határozatban megjelölt időtartam elteltével, illetve a műemlékké nyilvánításról szóló rendelet hatálybalépésével.
 
@@ -568,10 +568,10 @@ soron kívül, a jogszabályban meghatározott tartalmú értékvizsgálat alapj
 
 - a) a védetté nyilvánítás tényét,
 - b) a védetté nyilvánított műemléki érték meghatározását és a védelem célját,
-- c) a védelem fajtáját (műemlék vagy műemléki terület),
+- c) a védelem fajtáját (műemlék, történeti kert, történeti temetkezési hely, történeti táj, műemléki jelentőségű terület),
 - d) a műemlék kategóriába sorolását (kiemelten védett műemlék vagy védett műemlék),
 - e) védett műemlék esetén az érintett ingatlanra vagy ingatlanrészre vonatkozó, állami elővásárlási joggal kapcsolatos rendelkezést, ha azt a műemléki érték jellege alapján a miniszter indokoltnak tartja,
-- f) kiemelten védett műemlék esetében a kiemelten védett műemlék, valamint műemléki környezete helyrajzi számú meghatározását, védett műemlék és műemléki terület esetében a védelem szerinti ingatlan helyrajzi számú meghatározását vagy a földrajzi azonosítókkal lehatárolt ingatlanrészt, valamint a kijelölt műemléki környezet helyrajzi számú meghatározását.
+- f) műemlék esetében a műemlék helyrajzi számmal történő meghatározását vagy a földrajzi azonosítókkal lehatárolt ingatlanrész meghatározását, műemléki terület esetében a területet alkotó ingatlanok helyrajzi számmal történő meghatározását, illetve földrajzi azonosítókkal lehatárolt kijelölését, továbbá – ha a műemléki érték jellege alapján a miniszter indokoltnak tartja – a műemlék műemléki környezetének kijelölését, a műemléki környezet helyrajzi számú meghatározását.
 
 32/A. § A hatóság évente legalább egyszer javaslatot tesz a műemléki értékek műemlékké nyilvánítására.
 
@@ -587,9 +587,9 @@ terjed ki.
 
 (3) A védett műemlék és műemléki terület esetében a nevesített műemléki értéket a műemléki értékleltárba fel kell venni és azt a közhiteles nyilvántartásnak is tartalmaznia kell. Nevesített műemléki érték lehet a műemlék fekvése szerinti ingatlan vagy ingatlanrész is.
 
-(4) A műemlék jogszabályban meghatározott környezete műemléki környezetnek minősül.
+(4) A műemlék jogszabályban meghatározott környezete műemléki környezetnek minősül. A műemléki környezet a műemlék védőövezete. A műemlék védettségének megszüntetése esetén a jogszabályban meghatározott műemléki környezet megszűnik
 
-33. § Egyes jelentős történeti és kulturális értékű, illetve veszélyeztetett helyzetű műemlékek és műemlékegyüttesek fokozott védelmét biztosítani kell.
+33. § Egyes jelentős történeti és kulturális értékű, illetve veszélyeztetett helyzetű műemlékek és műemlékegyüttesek fokozott védelmét, valamint a védett értékek egységes tulajdonosi szerkezetét biztosítani kell.
 
 34. § A műemléket, valamint indokolt esetben fontosabb megközelítési pontjain a védett területet a hatóság a jellemző adatokat ismertető ,,Műemlék'' feliratú táblával jelöli meg.
 
@@ -662,9 +662,11 @@ terjed ki.
 
 41. § (1) A műemlék fenntartásáról, jókarbantartásáról annak tulajdonosa (tulajdonosi jogok gyakorlója), vagyonkezelője, használója, vagy az egyes állami tulajdonban lévő vagyontárgyak önkormányzatok tulajdonába adásáról szóló 1991. évi XXXIII. törvényben (a továbbiakban: Tv.) meghatározott ingyenes használója (a továbbiakban együtt: tulajdonos) az Étv.-ben meghatározottak, valamint e törvény szerint köteles gondoskodni.
 
-(2) A műemléket épségben, jellegük megváltoztatása nélkül kell fenntartani. A műemlék esetében a fenntartási, jókarbantartási kötelezettség a rendeltetésszerű és biztonságos használathoz szükséges műszaki állapot fenntartásán túlmenően kiterjed az azok sajátos értékeit képező építészeti, képző- és iparművészeti, valamint kertépítészeti alkotórészeire és tartozékaira, felszerelési tárgyaira.
+(2) A műemléket épségben, jellege megváltoztatása nélkül kell fenntartani. A műemlék esetében a fenntartási, jókarbantartási kötelezettség a rendeltetésszerű és biztonságos használathoz szükséges műszaki állapot fenntartásán túlmenően kiterjed a műemlék sajátos értékeit képező építészeti, képző- és iparművészeti, valamint kertépítészeti alkotórészeire és tartozékaira, felszerelési tárgyaira.
 
 (3) Ha a védettség csak az ingatlan meghatározott részét érinti, akkor a tulajdonos kötelezettségét – a műemléket magában foglaló ingatlannak a védettség hatálya alá nem tartozó részei tekintetében – az általános építésügyi szabályok megfelelő alkalmazásával kell gyakorolni.
+
+(4) A műemléki értéket hordozó ingatlan telekalakítása abban az esetben engedélyezhető, ha a védett érték épségét, jellegét, fenntarthatóságát és a településszerkezetben, településképben betöltött szerepét a kialakuló telekhatárok biztosítják. Műemléki értéket hordozó, történetileg vagy használati módjában összetartozó ingatlanok telekegységének biztosítására, valamint az ilyen ingatlanok egyesítésére törekedni kell.
 
 42. § (1) Ha a műemlék tulajdonosának személye, lakóhelye, tartózkodási helye ismeretlen, a műemlék állagmegóvásáról vagy jókarbantartásáról – a tulajdonos költségére – a hatóság gondoskodik.
 
@@ -781,9 +783,9 @@ kulturális javakat.
 
 (3a) A (3) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a tulajdonos (birtokos) kéri – a (3) bekezdés szerinti határidőben értesíti a hatóságot.
 
-(4) A védetté nyilvánított kulturális javak kereskedelmi forgalomban – így különösen árverésen – történő átruházása esetén a (3) bekezdés szerinti bejelentésre a kereskedő köteles. Ez a rendelkezés irányadó abban az esetben is, ha a védettség ténye később jut a kereskedő tudomására.
+(4) A kereskedelmi forgalomban – így különösen árverésen – történő tulajdonátruházás céljából átadott, védetté nyilvánított kulturális javak esetén a (3) bekezdés szerinti bejelentésre a kereskedő köteles. Ez a rendelkezés irányadó abban az esetben is, ha a védettség ténye később jut a kereskedő tudomására.
 
-(5) A bejelentésre kötelezett tulajdonos (birtokos) személyazonosító adatait és lakcímét az ezt igazoló hatósági igazolvány alapján közli a hatósággal.
+(5) A bejelentésre kötelezett tulajdonos (birtokos) a személyazonosító adatait és a lakcímét az ezt igazoló hatósági igazolvány alapján közli a hatósággal, vagy kereskedelmi forgalomban értékesítés céljából történő átadás esetén a kereskedővel.
 
 53. § A védetté nyilvánított kulturális javak tulajdonosait kötelezettségeikre tekintettel a külön jogszabályban meghatározott támogatások és kedvezmények illetik meg.
 
@@ -1040,7 +1042,7 @@ kötelezi a tevékenységet végzőt.
   - ac) a kiemelt nemzeti emlékhelyen, valamint a településkép-védelmi környezetében található ingatlan fenntartását, helyreállítását, felújítását és átalakítását szolgáló támogatási és ösztönző rendszer részletes szabályait.
 - b) rendeletben állapíthatja meg a beépítési szabályokat, valamint az ezekkel összefüggő sajátos építésügyi és örökségvédelmi követelményeket.
 
-(3) A Kormány a (2) bekezdés a) pont ab) alpontja alapján az egyedi településképi követelmények érvényesítése érdekében egyedi településképi arculati kézikönyv készítését írhatja elő, az egyedi kézikönyv tartalmára, elkészítésére és egyeztetésére vonatkozó részletes szabályok meghatározásával.
+(3) A Kormány a (2) bekezdés a) pont ab) alpontja alapján az egyedi településképi követelmények érvényesítése érdekében kiemelt településképi arculati kézikönyv készítését írhatja elő, a kiemelt kézikönyv tartalmára, elkészítésére és egyeztetésére vonatkozó részletes szabályok meghatározásával.
 
 (4) A kiemelt nemzeti emlékhelyre és annak településkép-védelmi környezetére – a (2) bekezdés a) pont ab) alpontja szerinti kormányrendeletben meghatározott esetekben és részletszabályok szerint – a hatóság
 
@@ -1145,7 +1147,7 @@ biztosító védelmet, továbbá az ezeket elősegítő közérdekű szempontok 
 - b) műemlékek, nyilvántartott régészeti lelőhelyek és védetté nyilvánított kulturális javak károsítása, veszélyeztetése esetén jogosult a tevékenységet leállítani, és az ilyen magatartás tanúsítóját e tevékenység abbahagyására kötelezni,
 - c) elrendelheti a műemlékek állagmegóvására vagy jókarbantartására vonatkozó kötelezettség teljesítését,
 - d) a 61/K. § (6) bekezdése szerinti esetben és körben elrendelheti – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján vagy véleményének kikérésével – a kiemelt nemzeti emlékhelyen és annak településkép-védelmi környezetében építmény, építményrész – meghatározott időtartamon belül teljesítendő – felújítását, átalakítását,
-- e) amennyiben a nyilvántartott műemléki érték, műemlék jelenkori állapota – a védett vagy a védettséget megalapozó korábbi és jelentős építési korszak szerinti állapotától eltérően – szomszédos ingatlan kiemelt közérdekű beruházás részeként megvalósuló, jogszabályban meghatározott módon és feltételek szerint való beépítését vagy beépítését követő használatát akadályozza, elrendelheti épület, építmény, építményrész – meghatározott időtartamon belül teljesítendő – felújítását, átalakítását a 43. § (5) és (5c) bekezdésében meghatározott célok érdekében és korlátok között. A hatóság a döntést azonnal végrehajthatóvá nyilváníthatja, ha kiemelten közérdekű beruházásnak a szomszédos ingatlanon való megvalósításával összefüggésben kerül sor a felújítás, illetve átalakítás elrendelésére, és a végrehajtás késedelme a kiemelten közérdekű beruházás megvalósítását akadályozza vagy késlelteti.
+- e) amennyiben a műemlék jelenkori állapota – a védett vagy a védettséget megalapozó korábbi és jelentős építési korszak szerinti állapotától eltérően – szomszédos ingatlan kiemelt közérdekű beruházás részeként megvalósuló, jogszabályban meghatározott módon és feltételek szerint való beépítését vagy beépítését követő használatát akadályozza, elrendelheti épület, építmény, építményrész – meghatározott időtartamon belül teljesítendő – felújítását, átalakítását a 43. § (5) és (5c) bekezdésében meghatározott célok érdekében és korlátok között. A hatóság a döntést azonnal végrehajthatóvá nyilváníthatja, ha kiemelten közérdekű beruházásnak a szomszédos ingatlanon való megvalósításával összefüggésben kerül sor a felújítás, illetve átalakítás elrendelésére, és a végrehajtás késedelme a kiemelten közérdekű beruházás megvalósítását akadályozza vagy késlelteti.
 
 (2) A hatóság
 
@@ -1217,7 +1219,7 @@ központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban 
 - a) a védetté nyilvánított kulturális javakról,
 - b) a kiviteli engedélyekről és igazolásokról,
 - c) a Magyarország területén jogellenesen eltulajdonított, valamint a Magyarországról jogtalanul kivitt vagy ilyen módon behozott kulturális javakról,
-- d) a jogellenesen kivitt kulturális javak visszaszolgáltatásáról szóló 2001. évi LXXX. törvény 2. § 1. pontjában meghatározott kulturális javakról,
+- d) a jogellenesen kivitt kulturális javak visszaszolgáltatásáról szóló 2001. évi LXXX. törvény 2. § 1. pontjában meghatározott, Magyarország területéről jogtalanul kivitt vagy ilyen módon behozott kulturális javakról,
 - e) a kölcsönzött kulturális javak különleges védelméről szóló tanúsítványokról,
 - f) az ideiglenesen védetté nyilvánított kulturális javakról,
 - g) a nemzeti érdekű nyilvános gyűjteményekről,
@@ -1227,15 +1229,15 @@ központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban 
 - k) a 64/A. § szerint a kulturális javak körébe sorolt kulturális javakról, valamint
 - l) jogszabályban meghatározott egyéb adatokról.
 
-72. § (1) A 71. § (1) bekezdése és a (2) bekezdés a) és f) pontja szerinti nyilvántartás a védettség fennállására vonatkozó adatok tekintetében közhiteles hatósági nyilvántartásnak minősül, mely tanúsítja a védettség fennállásának vagy megszüntetésének tényét. A kulturális örökség védelme érdekében a hatóság a nyilvántartás egyes adataihoz való hozzáférést – az (1a) bekezdésben meghatározott kivételekkel – jogszabály alapján korlátozhatja.
+72. § (1) A 71. § (1) bekezdése és a (2) bekezdés a) és f) pontja szerinti nyilvántartás a védettség fennállására vonatkozó adatok tekintetében közhiteles hatósági nyilvántartásnak minősül, mely tanúsítja a védettség létrejöttének, fennállásának vagy megszüntetésének tényét. A kulturális örökség védelme érdekében a hatóság a nyilvántartás egyes adataihoz való hozzáférést – az (1a) bekezdésben meghatározott kivételekkel – jogszabály alapján korlátozhatja.
 
-(1a) A 71. § (1) bekezdés a) és c)–d) pontja esetében a védettség tényére vonatkozó adatokhoz való hozzáférés nem korlátozható, ezen adatok közléséért igazgatási szolgáltatási díj nem szedhető.
+(1a) A 71. § (1) bekezdés a) és c)–d) pontja esetében a védettség tényére vonatkozó adatokhoz való hozzáférés nem korlátozható. A védettség tényére vonatkozó adatot nyilvánosan elérhető elektronikus felületen hozzáférhetővé kell tenni.
 
 (2) A nyilvántartás a kulturális örökség elemeinek azonosításához szükséges adatokat és tényeket tartalmazza.
 
 (3) A hatóság a nyilvántartással kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
-(4) A hatósági nyilvántartásból történő adatszolgáltatásért – a védettség tényére vonatkozó adatszolgáltatás kivételével – a hatóságot igazgatási szolgáltatási díj illeti meg.
+(4) A hatósági nyilvántartásból történő adatszolgáltatásért – a kulturális javakra és a védettség tényére vonatkozó adatszolgáltatás kivételével – igazgatási szolgáltatási díjat kell fizetni.
 
 (5) A (4) bekezdés szerinti igazgatási szolgáltatási díj megfizetése alól mentességet kap a világörökségi gondnokság, valamint a nyilvántartási adatokat jogszabályban meghatározott feladatellátásához igénylő, feltárásra jogosult intézmény vagy a jogszabályban kijelölt örökségvédelmi szerv, amely ezt az adatszolgáltatás iránti kérelmében igazolja.
 
@@ -1278,7 +1280,7 @@ központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban 
 
 75/A. § (1) Ha jogszabály az örökségvédelemmel kapcsolatos szakkérdésben szakértő igénybevételét írja elő, szakértőként kizárólag az a személy vehető igénybe, valamint a jogszabályban meghatározott jogkövetkezmények csak annak a szakértőnek az igénybevételéhez fűződnek, aki büntetlen előéletű, nem áll az örökségvédelemmel kapcsolatos szakterületen végezhető tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, rendelkezik a jogszabályban meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
-(1a) Szakértőként a jogszabályban kijelölt szervezet vehető igénybe.
+(1a) Szakértőként a jogszabályban kijelölt örökségvédelmi szerv vehető igénybe.
 
 (2)–(3)
 
@@ -1400,10 +1402,10 @@ iránt.
 
 86. § (1) A kulturális örökség védetté nyilvánított elemeire a Magyar Államot a 37–40. § kivételével elővásárlási jog illeti meg
 
-- a) kiemelten védett műemlék ingatlan esetében e törvény erejénél fogva, védett műemlék ingatlan esetében akkor, ha ezt a védetté nyilvánító vagy a védettséget módosító rendelet kimondja;
+- a) kiemelten védett műemlék ingatlan esetében, valamint az 1998. január 1-je előtt műemlék, műemlék jellegű, városképi jelentőségű kategóriában védettséget szerző védett műemlék ingatlanok esetében e törvény erejénél fogva; az 1998. január 1-jétől védettséget szerzett védett műemlék ingatlanok esetében akkor, ha ezt a védetté nyilvánító vagy a védettséget módosító rendelet kimondja,
 - b) védetté nyilvánított kulturális javak ellenérték mellett történő tulajdonátruházása esetében.
 
-(1a) Ha a műemlékre több elővásárlási jog áll fenn, első helyen az államot, második helyen az ingatlan vagyonkezelését ellátó (vagy azt ingyenesen használó) önkormányzatot, harmadik helyen az ingatlan fekvése szerinti települési önkormányzatot illeti meg az elővásárlási jog.
+(1a)
 
 (2) Az elővásárlási jog ingatlan-nyilvántartásba történő bejegyzése érdekében a hatóság megkeresi az ingatlanügyi hatóságot.
 
@@ -1414,11 +1416,11 @@ iránt.
 
 gyakorolja.
 
-(4) Az 1998. január 1-je előtt hatályos jogszabályok alapján műemlék, műemlék jellegű, városképi jelentőségű kategóriában védett ingatlanok tekintetében első helyen az államot, második helyen a feladatot ellátó helyi önkormányzatot, ennek hiányában az ingatlan fekvése szerinti települési önkormányzatot – fővárosban lévő ingatlan esetén a fővárosi és kerületi önkormányzatot megegyezésük szerint – elővásárlási jog illeti meg. A jogi személyiséggel rendelkező vallási közösség működését biztosító, illetve hitéleti, oktatási, nevelési, egészségügyi, szociális, gyermek- és ifjúságvédelmi, továbbá kulturális célú, egyházi használatban lévő műemlék épület esetében a települési önkormányzat helyett második helyen a használót illeti e jog.
+(4) Ha az (1) bekezdés a) pontja szerinti ingatlanra több elővásárlási jog áll fenn, első helyen az államot, második helyen az ingatlanon közfeladatot ellátó önkormányzatot – fővárosban lévő ingatlan esetén a fővárosi és kerületi önkormányzatot megegyezésük szerint – elővásárlási jog illeti meg. A jogi személyiséggel rendelkező vallási közösség működését biztosító, illetve hitéleti, oktatási, nevelési, egészségügyi, szociális, gyermek- és ifjúságvédelmi, továbbá kulturális célú, egyházi használatban lévő műemlék épület esetében az önkormányzat helyett második helyen a használót illeti meg e jog.
 
 87. § (1) A kiemelt nemzeti emlékhely részét képező közterülettel szomszédos ingatlanok tekintetében a Magyar Államot – más jogosultakat megelőzően – elővásárlási jog illeti meg.
 
-(2) Az (1) bekezdésben meghatározott elővásárlási jog kiterjed a kiemelt nemzeti emlékhely részét képező közterülettel közös határvonallal rendelkező – közterületnek nem minősülő – földrészletre, az azon fekvő építményre, társasház esetén valamennyi albetétre.
+(2) Az (1) bekezdésben meghatározott elővásárlási jog kiterjed a kiemelt nemzeti emlékhely részét képező közterülettel közös határral rendelkező – közterületnek nem minősülő – földrészletre, az azon fekvő építményre, társasház esetén valamennyi albetétre.
 
 (3) Az (1) bekezdésben meghatározott elővásárlási jogot a kormányrendeletben kijelölt örökségvédelmi szerv gyakorolja.
 
@@ -1463,7 +1465,7 @@ elkészített értékmeghatározó szakértői vizsgálat hatóság által tört
 
 (6) Ha a műemléki védettség megszüntetésével egyidejűleg értékvizsgálati dokumentáció alapján került sor a nyilvántartott műemléki érték jelleg megállapítására, értékmeghatározó szakértői vizsgálat nélkül alkalmazhatók a (3) bekezdés b) pontjában foglaltak.
 
-(7) A védett műemlékek vonatkozásában az elővásárlási jog akkor áll fenn, ha azt a védetté nyilvánító vagy a védettséget módosító rendelet kimondja, vagy az elővásárlási jog a 86. § (4) bekezdése alapján áll fenn. A 2020. augusztus 31-én nyilvántartott műemléki érték kategóriába tartozó ingatlanok vonatkozásában az államot elővásárlási jog nem illeti meg.
+(7)
 
 92/B. § E törvénynek az egyes kulturális tárgyú törvények módosításáról szóló 2013. évi CCXVII. törvénnyel (a továbbiakban: Módtv.) megállapított 61/I–61/K. §-át a Módtv. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
@@ -1559,11 +1561,11 @@ ingyenesen, nyilvántartási értéken, a c) pont szerinti szerződésben meghat
 - k) az örökségvédelmi tanácsadó testületek működtetésével kapcsolatos feladatokat és szabályokat;
 - l)
 - m)
-- n) egyes nyilvántartott műemléki értékek műemlékké nyilvánítását és a műemléki védettség megszüntetését;
+- n) egyes műemléki értékek műemlékké nyilvánítását és a műemléki védettség megszüntetését;
 - o)
 - p)
-- q) a kulturális javak nyilvántartásával összefüggésben – az adópolitikáért felelős miniszterrel egyetértésben – az igazgatási szolgáltatási díj mértékét és a fizetésre vonatkozó egyéb szabályokat,
-- r) az adópolitikáért felelős miniszterrel egyetértésben a kulturális javak kivitelének engedélyezésére irányuló eljárásért fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint megfizetésének részletes szabályait,
+- q)
+- r)
 - s) az Európai Örökség cím elnyerésére pályázó helyszínek közül az arra érdemesnek tartott helyszínek nemzeti szintű előzetes kiválasztására vonatkozó eljárási szabályokat.
 
 (3) A miniszter a (2) bekezdés j) pontjában kapott, az igazgatási szolgáltatási díjra vonatkozó szabályozási jogkörét az adópolitikáért felelős miniszter egyetértésével gyakorolja.

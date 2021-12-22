@@ -29,7 +29,7 @@ Annak érdekében, hogy a múltunk és jelenünk megismerésének pótolhatatlan
 
 (2) A különleges védelem a kölcsönzött kulturális javaknak a különleges védelem fennállása alatt keletkezett sérülése vagy károsodása (a továbbiakban együtt: sérülés) esetén a helyreállításhoz vagy restauráláshoz (a továbbiakban együtt: restaurálás) szükséges idővel, de legfeljebb – a különleges védelem időtartamának eredeti lejártától számított – 4 hónappal meghosszabbítható a 6. § (3) bekezdésében meghatározottak szerint.
 
-5. § Nem illeti meg a különleges védelem azokat a kulturális javakat, amelyek szerepelnek a Kötv. 71. § f) pontja szerinti nyilvántartásban, vagy velük szemben – jogtalan megszerzésük vagy átruházásuk, illetve jogellenes behozataluk vagy kivitelük miatt – jogszabály vagy nemzetközi szerződés alapján visszaszolgáltatási eljárás van folyamatban.
+5. § Nem állítható ki tanúsítvány a különleges védelemről azon kulturális javak esetén, amelyek szerepelnek a Kötv. 71. § (2) bekezdés c) és d) pontja szerinti nyilvántartásban, vagy velük szemben – jogtalan megszerzésük vagy átruházásuk, illetve jogellenes behozataluk vagy kivitelük miatt – jogszabály vagy nemzetközi szerződés alapján visszaszolgáltatási eljárás van folyamatban.
 
 #### 4. A tanúsítvánnyal kapcsolatos eljárás
 
