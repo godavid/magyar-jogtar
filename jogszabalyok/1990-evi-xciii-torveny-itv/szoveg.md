@@ -67,7 +67,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - c) a költségvetési szerv, a Magyar Nemzeti Vagyonkezelő Zrt., valamint a Tartalékgazdálkodási Kht., illetve annak tevékenységét folytató nonprofit gazdasági társaság,
 - d) az egyesület, a köztestület,
 - e) az egyházi jogi személy,
-- f) az alapítvány (ideértve a közalapítványt is), továbbá a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény szerinti alapítvány,
+- f) az alapítvány (ideértve a közalapítványt is), továbbá a közfeladatot ellátó közérdekű vagyonkezelő alapítvány és az általa fenntartott felsőoktatási intézmény,
 - g) a vízgazdálkodási társulat,
 - h) az egészségbiztosítási szerv, a központi nyugdíjbiztosítási szerv,
 - i) a Magyar Nemzeti Bank,
@@ -1609,6 +1609,8 @@ Erre a kötelezettségre a halálesetet követő meghallgatás, illetve leltáro
 99/I. § (1) A 16. § (2e), a 17. § (2e), a 26. § (2e) bekezdéseinek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított rendelkezéseit azokban a vagyonszerzési ügyekben is alkalmazni kell, melyekben az állami adóhatóság 2014. január 1-jéig még nem rendelkezett jogerősen a felfüggesztett illeték késedelmi pótlékkal növelt összegben történő megfizetéséről.
 
 (2) Ha a 16. § (2e) bekezdése, a 17. § (2e) bekezdése, a 26. § (2e) bekezdése alapján a felfüggesztett illeték törlésének van helye, a lakóház felépítésére nyitva álló határidő azonban 2014. január 1-jéig még nem telt el és a vagyonszerző az illetéket már megfizette, akkor annak visszatérítését 2014. január 1-jétől kezdődően kérheti az állami adóhatóságtól.
+
+(3) Az 5. § (1) bekezdés f) pontjának az egyes képzéseket és a foglalkoztatást érintő törvények módosításáról szóló 2021. évi CXLVII. törvénnyel (a továbbiakban: Mód2tv.) megállapított rendelkezését alkalmazni kell a Mód2tv. hatálybalépésekor az állami adóhatóság által véglegesen még el nem bírált illetékügyekben is.
 
 99/J. § Az adózás rendjéről szóló 2003. évi XCII. törvény és egyes adótörvények módosításáról szóló 2015. évi CLXXXVII. törvénnyel megállapított 26. § (1a) bekezdésének d) pontját az állami adóhatóság által jogerősen még el nem bírált illetékügyekben is alkalmazni kell.
 

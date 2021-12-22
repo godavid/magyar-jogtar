@@ -444,8 +444,10 @@ illeti meg.
 
 (4) A bérleti jogviszony (1) bekezdés szerinti fennállása időtartamának megállapításakor
 
-- a) a 23/A. § (2) bekezdés és a 26. § szerinti cserelakás felajánlása esetén – ha a bérlő személye azonos – az érintett lakásra és a korábbi lakásra vonatkozó határozatlan idejű bérleti jogviszony időtartamát,
-- b) a bérleti jogviszony 32. § szerinti folytatójának minősülő személyek és jogelődjeik bérleti jogviszonyának időtartamát
+- a) a 23/A. § (2) bekezdése és a 26. § szerinti cserelakás felajánlása esetén – ha a bérlő személye azonos – az érintett lakásra és a korábbi lakásra vonatkozó határozatlan idejű bérleti jogviszony időtartamát,
+- b) ha az (1) bekezdés szerinti lakások bérleti jogának bérlők közti cseréjére került sor, a cserével érintett korábbi és jelenlegi lakásra vonatkozó határozatlan idejű bérleti jogviszony időtartamát,
+- c) ha a bérelt lakás bővítése miatt a bővített lakásra új bérleti jogviszonyt létesítettek, – ha a bérlő személye azonos – a bővítés előtti és a bővített lakásra vonatkozó határozatlan idejű bérleti jogviszony időtartamát,
+- d) a bérleti jogviszony 32. § szerinti folytatójának minősülő személyek és jogelődjeik bérleti jogviszonyának időtartamát
 
 össze kell számítani.
 
@@ -532,7 +534,7 @@ illeti meg.
 
 (3) A (2) bekezdésben foglaltakat a 81. § (1) bekezdésével érintett, az állam tulajdonában álló lakásokra nem kell alkalmazni.
 
-51. § (1) Az első adásvételi szerződés megkötését, illetve az első forgalmi érték közlésére a 47. § (1) bekezdésben előírt határidő lejártát megelőzően – az egylakásos vagy az egy helyiségből (helyiségcsoportból) álló épület kivételével – az épületet társasházzá kell alakítani. A társasházalapítás késedelméből eredő kárért a tulajdonos állam, illetve önkormányzat felel.
+51. § (1) Az első adásvételi szerződés megkötését, illetve – vételi jog gyakorlása esetén – az első forgalmi érték közlésére a 47. § (1) bekezdésben előírt határidő lejártát megelőzően – az egylakásos vagy az egy helyiségből (helyiségcsoportból) álló épület kivételével – az épületet társasházzá kell alakítani. A társasházalapítás késedelméből eredő kárért a tulajdonos állam, illetve önkormányzat felel.
 
 (2) A társasház alapító okirat tervezetének előkészítésébe a leendő tulajdonostársakat be kell vonni. Az alapító okirat tervezetének meg kell felelnie a leendő tulajdonostársak többségi akaratának.
 

@@ -1405,6 +1405,12 @@ beutalása alapján vehető igénybe.
 
 (7) A rehabilitációs medicina területén működő egészségügyi szolgáltatók tevékenységüket rehabilitációs ellátási programok szabályozott rendszere alapján végzik.
 
+### A lovasterápia, valamint a fogyatékos és a sérült személynek nyújtott lovas szolgáltatások keretében végzett tevékenység
+
+100/A. § (1) A lovasterápia, valamint a fogyatékos és a sérült személynek nyújtott lovas szolgáltatások keretében végzett tevékenység sérült, fogyatékos vagy pszichológiai kezelés alatt álló személy gyógyítására, készségei fejlesztésére, egészségi és pszichés állapotának javítására irányuló speciális-fejlesztő rehabilitációs szolgáltatás.
+
+(2) Az (1) bekezdés szerinti tevékenységet végző személyek képzésére vonatkozó szabályokat az e törvény felhatalmazása alapján kiadott miniszteri rendelet határozza meg.
+
 ### Orvostechnikai eszközellátás
 
 101. § (1) Orvostechnikai eszköz akkor hozható forgalomba, illetve az egészségügyi ellátás során akkor használható fel, ha a vonatkozó uniós jogi aktusban, illetve az egészségügyért felelős miniszter rendeletében meghatározott követelményeket kielégíti.
@@ -4429,6 +4435,7 @@ rendeletben állapítsa meg.
 - q) a prehospitális gyógyszeralkalmazás szabályait,
 - r) az állami fenntartásban működő országos gyógyintézetek típusait és körét és az országos gyógyintézetek működésére vonatkozó speciális szabályokat
 - s) az orvosi fizikus szakértői tevékenység folytatásához szükséges továbbképzésre vonatkozó szabályokat,
+- t) a lovasterápiát, valamint a fogyatékos és a sérült személynek nyújtott lovas szolgáltatásokat végző személyek képzésére vonatkozó szabályokat
 
 rendeletben állapítsa meg.
 

@@ -867,6 +867,13 @@ rendkívüli szünetet rendel el.
 
 (3) Az egyházi jogi személy által foglalkoztatott, fakultatív hitoktatásban, illetve a bevett egyház és azok belső egyházi jogi személyei által foglalkoztatott, hit- és erkölcstanoktatásban közreműködő személynek a 32. § (1) bekezdés h) pontjában meghatározott feltételeknek kell megfelelnie. A bevett egyház és azok belső egyházi jogi személyei által polgári jogi jogviszony keretében foglalkoztatott hit- és erkölcstanoktatónak meg kell felelnie a 66. § (1) bekezdés b) pontjában előírt feltételeknek, amely tényt a polgári jogi jogviszony létesítésekor az érintett személy hatósági bizonyítvánnyal igazolja.
 
+(4) A 64. § (4a) bekezdése szempontjából pedagógus szakképzettséggel rendelkezőnek tekintendő
+
+- a) a bevett egyház és annak belső egyházi jogi személyei által munkaviszonyban foglalkoztatott hit- és erkölcstanoktatásban közreműködő, továbbá
+- b) az egyházi jogi személy vagy annak belső egyházi jogi személye által fenntartott iskolában nem a saját felekezetnek megfelelő hittant oktató,
+
+a 32. § (1) bekezdés h) pontjában foglalt feltételeknek megfelelő személy.
+
 #### 24. A honvédelemért felelős miniszter által alapított és fenntartott nevelési-oktatási intézményekre vonatkozó külön rendelkezések
 
 36. § (1) Ha a nevelési-oktatási intézményt a honvédelemért felelős miniszter alapítja vagy tartja fenn,
