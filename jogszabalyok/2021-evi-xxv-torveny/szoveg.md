@@ -26,6 +26,24 @@ A szőlész-borász, valamint a turizmus-vendéglátás képzést, ezen kereszt�
 
 (4) Ha az Alapítvány a tulajdonába adott részvényeket elidegeníti, az elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány közérdekű céljainak megvalósítására és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátására köteles fordítani.
 
+2/A. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló, állami tulajdonban lévő, 3. melléklet szerinti ingatlanokat (ezen alcím alkalmazásában a továbbiakban együtt: ingatlanok) alapítói vagyoni juttatásként az indulótőke növelése érdekében, ingyenesen az Alapítvány tulajdonába kell adni.
+
+(2) Az Alapítvány az ingatlanokat – a (3) bekezdésben foglalt kivétellel – terhekkel együtt szerzi meg. Az (1) bekezdés szerinti tulajdonátruházás feltétele, hogy az Alapítvány az ingatlanokat terhelő kötelezettségeket a 2/B. § (1) bekezdése szerinti szerződésben teljeskörűen átvállalja.
+
+(3) Az ingatlanokon fennálló vagyonkezelői jog az Alapítvány tulajdonszerzésével egyidejűleg megszűnik külön elszámolás, a beruházások vagyonnyilvántartási átvezetése, rendezése nélkül, azzal, hogy a tulajdonosi joggyakorló és a vagyonkezelő a tulajdonba adással érintett ingatlanok tekintetében egymással szemben követelést semmilyen jogcímen nem támaszthatnak.
+
+(4) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az ingatlanokhoz funkcionálisan kapcsolódó, a közfeladat-ellátáshoz szükséges ingóságok – a fennálló vagyonkezelői jog egyidejű megszűnésével – az Alapítvány tulajdonába kerülnek. Az átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, a számvitelről szóló 2000. évi C. törvény 50. § (4) bekezdése szerinti értékkel.
+
+2/B. § (1) A 2/A. § (1) bekezdése szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti el és köti meg. A szerződésben az ingatlanok forgalmi értékeként a tulajdonosi joggyakorló által megállapított értéket kell megjelölni.
+
+(2) Az ingatlanok tekintetében a 2/A. § hatálybalépésének napjától a miniszter gyakorolja az államot megillető tulajdonosi jogokat és teljesíti a kötelezettségeket. A miniszter tulajdonosi joggyakorlói minőségét – kérelmére – az ingatlan-nyilvántartásba be kell jegyezni.
+
+2/C. § A Tiszavasvári belterület 6556 és a Tokaj belterület 594/35 és 594/37 helyrajzi számú ingatlanokhoz funkcionálisan kapcsolódó, közfeladat-ellátáshoz szükséges ingóságok a fennálló vagyonkezelői jog egyidejű megszűnésével az Alapítvány tulajdonába kerülnek. Az átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
+2/D. § (1) A KEKVA tv. 13. § (1) és (8) bekezdése alapján az Alapítvány KEKVA tv. 1. melléklete szerinti közfeladata ellátását és közérdekű céljainak megvalósítását szolgáló, a Bodrogkeresztúr 2717/29 helyrajzi számú, állami tulajdonban álló ingatlanon az Alapítvány javára ingyenes, határozatlan időre szóló, közfeladathoz rendelt vagyonkezelői jogot kell alapítani.
+
+(2) Az (1) bekezdés szerinti vagyonkezelői jog megalapításával egyidejűleg az (1) bekezdés szerinti ingatlanban a közfeladat ellátására rendelkezésre álló állami tulajdonú ingó vagyontárgyak (e § alkalmazásában a továbbiakban: ingóságok) ingyenesen az Alapítvány tulajdonába kerülnek. Az átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
 3. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az Nftv.-ben meghatározott oktatási és tudományos kutatási feladatok ellátását szolgáló, a 2. mellékletben felsorolt állami tulajdonban lévő ingatlanok (a továbbiakban: ingatlan) ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerülnek.
@@ -52,7 +70,7 @@ A szőlész-borász, valamint a turizmus-vendéglátás képzést, ezen kereszt�
 
 (2) Az 1. § (4) bekezdése, a 2–4. §, a 7. §, továbbá az 1. és a 2. melléklet 2021. augusztus 1-jén lép hatályba.
 
-6. § Az 1. § (3)–(5) bekezdése, a 2. § (1), (2) és (4) bekezdése, a 3. § (1), (5) és (7) bekezdése, a 4. §, a 7. §, valamint az 1. és a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+6. § Az 1. § (3)–(5) bekezdése, a 2. § (1), (2) és (4) bekezdése, a 2/A. §, a 2/C. §, a 2/D. §, a 3. § (1), (5) és (7) bekezdése, a 4. §, valamint az 1–3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 7. §
 
@@ -76,3 +94,14 @@ A szőlész-borász, valamint a turizmus-vendéglátás képzést, ezen kereszt�
 | 3. | SÁROSPATAK | 249 | 1/1 | kivett épület |
 | 4. | SÁROSPATAK | 253/3 | 1/1 | kivett egyetem |
 | 5. | SÁROSPATAK | 263 | 1/1 | kivett irodaház (oktatási központ) |
+
+### 3. melléklet a 2021. évi XXV. törvényhez
+
+#### Az Alapítvány részére átadásra kerülő állami tulajdonú ingatlanok
+
+|  | A | B | C | D |
+| --- | --- | --- | --- | --- |
+| 1 | TELEPÜLÉS | HELYRAJZI SZÁM | MAGYAR ÁLLAM TULAJDONI HÁNYADA | MEGNEVEZÉS |
+| 2 | TOKAJ | 1426/3 | 1/1 | kivett panzió |
+| 3 | TOKAJ | 1426/6 | 1/1 | kivett középiskola és udvar |
+| 4 | TOKAJ | 1430 | 1/1 | kivett sporttelep |

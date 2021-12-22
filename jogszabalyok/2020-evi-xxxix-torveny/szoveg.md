@@ -26,13 +26,13 @@ A Miskolci Egyetem képzési területeinek, ezen keresztül az innovációt tám
 
 3/A. § (1) Az Egyetem által használni kívánt, Miskolc belterület 40589/5 helyrajzi számú, nem állami tulajdonban lévő ingatlan tekintetében az Egyetem által ellátott közfeladat hatékony megvalósítása érdekében az államot – független ingatlanforgalmi szakértő szakvéleménye alapján meghatározott forgalmi értéken – vételi jog illeti meg.
 
-(2) Ha az állam él a vételi joggal, az állam tulajdonába került (1) bekezdés szerinti ingatlant az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján az Alapítvány céljainak megvalósítása érdekében ingyenesen, nyilvántartási értéken történő átvezetéssel – a Vtv. 36. § (2) bekezdésétől eltérően – az Alapítvány tulajdonába kell adni.
+(2) Ha az állam él a vételi joggal, az állam tulajdonába került (1) bekezdés szerinti ingatlant az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján az Alapítvány céljainak megvalósítása érdekében ingyenesen, nyilvántartási értéken történő átvezetéssel alapítói vagyoni juttatásként az indulótőke növelése érdekében – a Vtv. 36. § (2) bekezdésétől eltérően – az Alapítvány tulajdonába kell adni.
 
 3/B. § (1) A 3/A. § (1) bekezdésében meghatározott vételi jog biztosítására az államot elidegenítési és terhelési tilalom illeti meg.
 
-(2) A 3/A. § (1) és (3) bekezdésében meghatározott intézkedések során az állam képviseletében az állami vagyon felügyeletéért felelős miniszter jár el.
+(2) A 3/A. § (1) bekezdésében meghatározott intézkedések során az állam képviseletében az állami vagyon felügyeletéért felelős miniszter jár el.
 
-(3) A 3/A. § (1) bekezdése szerinti ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság köti meg az Alapítvánnyal.
+(3) A 3/A. § (1) bekezdése szerinti ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a miniszter köti meg az Alapítvánnyal.
 
 3/C. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) 12. §-a alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási és betegellátási feladatok ellátását szolgáló, Miskolc 01223 helyrajzi számú állami tulajdonban lévő ingatlan ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kerül.
 

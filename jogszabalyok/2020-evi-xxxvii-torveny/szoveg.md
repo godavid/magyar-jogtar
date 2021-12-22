@@ -42,6 +42,12 @@ Az agrár képzési terület, ezen keresztül az innovációt támogatni kész m
 
 (12) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló, Sopron, külterület 0516, 0514/1, 0514/2, valamint a 0517/1 helyrajzi számú állami tulajdonban lévő ingatlanok valós művelési ágának ingatlan-nyilvántartási feltüntetését követően ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kerülnek.
 
+(13) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. § (1) bekezdése alapján – az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében meghatározott közfeladata ellátása érdekében – a Sopron, külterület 0636/2 és a Sopron, belterület 9401/1 helyrajzi számú állami tulajdonban lévő ingatlanokat ingyenesen, nyilvántartási értéken történő átvezetéssel, alapítói vagyoni juttatásként az indulótőke növelése érdekében az Alapítvány tulajdonába kell adni.
+
+3/A. § (1) A 3. § (13) bekezdése szerinti ingatlanok tekintetében a 3. § (13) bekezdése hatálybalépésének napjától a miniszter gyakorolja az államot megillető tulajdonosi jogokat és teljesíti a kötelezettségeket. A miniszter tulajdonosi joggyakorlói minőségét – kérelmére – az ingatlan-nyilvántartásba be kell jegyezni.
+
+(2) A 3. § (13) bekezdése szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti el és köti meg.
+
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
 4. § (1) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló, az 1. mellékletben felsorolt egyes állami tulajdonban lévő ingatlan, ingatlan tulajdoni hányada ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerül.
@@ -92,7 +98,7 @@ Az agrár képzési terület, ezen keresztül az innovációt támogatni kész m
 
 7. § (1) A 3. § (1), (4) és (9) bekezdése, a 4. § (1), (9) és (10) bekezdése, valamint az 5. § (1) és (2) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
-(2) A 3. § (9) és (12) bekezdése, valamint az 5. § (3) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+(2) A 3. § (9), (12) és (13) bekezdése, valamint az 5. § (3) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 8. §
 

@@ -40,6 +40,8 @@ A nukleáris ipar hazai és nemzetközi tudásszolgáltatási platformjának kia
 
 (4) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő állami tulajdonú ingó vagyontárgyak (a továbbiakban: ingóságok) az Egyetem tulajdonába kerülnek.
 
+(4a) A Dunaújvárosi SZC Bánki Donát Technikum feladatellátásához szükséges, állami tulajdonú ingó vagyontárgyak a fennálló vagyonkezelői jog egyidejű megszűnésével az Egyetem tulajdonába kerülnek. Az átszálló ingó vagyontárgyakról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá.
+
 (5) A (4) bekezdés szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
 (6) Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
@@ -54,7 +56,7 @@ A nukleáris ipar hazai és nemzetközi tudásszolgáltatási platformjának kia
 
 (2) Az 1. § (4) bekezdés, a 2–6. §, a 9. §, továbbá az 1. és a 2. melléklet 2021. augusztus 1-jén lép hatályba.
 
-8. § Az 1. § (3)–(5) bekezdése, a 2. §, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1), (4) és (6) bekezdése, a 6. §, a 9. §, valamint az 1. és a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+8. § Az 1. § (3)–(5) bekezdése, a 2. §, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1), (4), (4a) és (6) bekezdése, a 6. §, a 9. §, valamint az 1. és a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 9. §
 

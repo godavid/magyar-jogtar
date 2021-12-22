@@ -111,7 +111,7 @@ Az Országgyűlés – figyelemmel az ország általános és egyes térségeine
 (2) E Rész alkalmazásában
 
 - 1. mezőgazdasági térség: az országos és megyei területrendezési tervben megállapított területfelhasználási kategória, amelybe elsősorban szántó, gyep – ingatlan-nyilvántartás szerint rét, legelő művelési ágba sorolt területek –, szőlő, gyümölcsös és kert területek tartoznak, és amelyen a mezőgazdasági funkció hosszú távú fenntartása indokolt;
-- 2. sajátos területfelhasználású térség: megyei területrendezési tervben megállapított területfelhasználási kategória, amelybe az 5 ha-nál nagyobb külfejtéses művelésű bányaterületek, hulladékártalmatlanító létesítmény elhelyezésére szolgáló területek, egyes egészségügyi, sportolási, rekreációs, megújuló energiahasznosítási, közlekedési és honvédelmi területek tartoznak;
+- 2. sajátos területfelhasználású térség: megyei területrendezési tervben megállapított területfelhasználási kategória, amelybe az 5 ha-nál nagyobb külfejtéses művelésű bányaterületek, hulladékártalmatlanító létesítmény elhelyezésére szolgáló területek, továbbá az egészségügyi, sportolási, közlekedési és honvédelmi területek tartoznak;
 - 3. települési térség: az országos és a megyei területrendezési tervben megállapított területfelhasználási kategória, amelybe a vízgazdálkodási térségbe és a sajátos területfelhasználású térségbe tartozó területek kivételével a település belterülete, valamint a belterületen kívüli beépítésre szánt területek tartoznak.
 
 6. § (1) Az Ország Szerkezeti Tervét a 2. melléklet tartalmazza.
@@ -128,7 +128,7 @@ Az Országgyűlés – figyelemmel az ország általános és egyes térségeine
 
 #### 5. A területrendezési tervek és településrendezési tervek kapcsolata egymással és az ágazati szabályozással
 
-7. § (1) Az ország településein, az egyes térségekben a területfelhasználásra, a településképi követelményekre és az építésre vonatkozó szabályokat a 3. §-ban foglalt rendelkezésekre is tekintettel e törvény rendelkezéseivel összhangban kell kialakítani.
+7. § (1) Az egyes térségekben a területfelhasználásra, az ország településein a településképi követelményekre és az építésre vonatkozó szabályokat a 3. §-ban foglalt rendelkezésekre is tekintettel e törvény rendelkezéseivel összhangban kell kialakítani.
 
 (2) A települési (a fővárosban a fővárosi és a kerületi) önkormányzatot az általa elfogadott településrendezési terv előírása miatt kártalanítási kötelezettség nem terheli, ha az előírás területrendezési tárgyú jogszabály vagy az országos településrendezési és építési követelmények tárgyában kiadott kormányrendelet (a továbbiakban: OTÉK) települési szintű érvényesítésének közvetlen következménye.
 
@@ -173,15 +173,15 @@ Az Országgyűlés – figyelemmel az ország általános és egyes térségeine
 
 (2) A vízgazdálkodási térség területét vízgazdálkodási térség kategóriába kell sorolni, és a működési területével érintett vízügyi igazgatási szervvel egyeztetve kell pontosítani.
 
-(3) A sajátos területfelhasználású térségbe sorolt országos területfelhasználási térség területét a fenti számításnál figyelmen kívül kell hagyni.
+(3) Az 5 ha-nál nagyobb külfejtéses művelésű bányaterületet, hulladékártalmatlanító létesítmény elhelyezésére szolgáló területet, egészségügyi, sportolási, közlekedési és honvédelmi területet a megyei területrendezési tervben sajátos területfelhasználású térségbe kell sorolni. A sajátos területfelhasználású térségbe sorolt országos területfelhasználási kategória területét az (1) bekezdés szerinti számításnál figyelmen kívül kell hagyni.
 
 11. § A kiemelt térségi, illetve megyei területfelhasználási kategóriák területén belül a településrendezési tervben, a 90. § (2) bekezdése figyelembevételével
 
 - a) az erdőgazdálkodási térségben az erdőterület övezetet a térséget lefedő erdők övezetére vonatkozó szabályok szerint, valamint az erdőtelepítésre javasolt terület övezetére vonatkozó szabályok figyelembevételével kell, meglévő és tervezett erdő övezetként differenciáltan lehatárolni;
 - b) a mezőgazdasági térség területének legalább 75%-át a mezőgazdasági terület övezetébe kell sorolni, a fennmaradó részen nagyvárosias lakóterület és vegyes terület építési övezet nem jelölhető ki;
-- c) a vízgazdálkodási térség területét – e törvény hatálybalépését megelőzően már jogszerűen kijelölt beépítésre szánt területek kivételével – vízgazdálkodási terület, vízgazdálkodási célú erdőterület, vízgazdálkodási célú mezőgazdasági terület, természetközeli terület, zöldterület,, továbbá különleges honvédelmi, katonai és nemzetbiztonsági célú terület vagy honvédelmi célú erdőterület övezetbe kell sorolni, és a működési területével érintett vízügyi igazgatási szervvel egyeztetve kell pontosítani;
+- c) a vízgazdálkodási térség területét – e törvény hatálybalépését megelőzően már jogszerűen kijelölt beépítésre szánt területek kivételével – vízgazdálkodási terület, vízgazdálkodási célú erdőterület, vízgazdálkodási célú mezőgazdasági terület, természetközeli terület, zöldterület,, továbbá különleges beépítésre nem szánt honvédelmi, katonai és nemzetbiztonsági célú terület vagy honvédelmi célú erdőterület övezetbe kell sorolni, és a működési területével érintett vízügyi igazgatási szervvel egyeztetve kell pontosítani;
 - d) a települési térség területén bármely építési övezet, övezet kijelölhető;
-- e) a sajátos területfelhasználású térség területét a terület tervezett felhasználásának megfelelően honvédelmi, különleges, közlekedési, erdő-, gazdasági vagy intézményterület települési övezetbe kell sorolni.
+- e) a sajátos területfelhasználású térség területét a terület tervezett felhasználásának megfelelően különleges – ideértve a beépítésre szánt vagy beépítésre nem szánt honvédelmi, katonai, nemzetbiztonsági célú területet –, közúti közlekedési, egyéb közlekedési, védelmi célú erdőterület, rekreációs célú erdőterület, egyéb erdőterület, kertes mezőgazdasági terület, általános mezőgazdasági terület, tájgazdálkodási mezőgazdasági terület, kereskedelmi szolgáltató gazdasági, ipari gazdasági, egyéb ipari gazdasági, általános gazdasági, intézményi vegyes területbe kell sorolni.
 
 #### 8. Új beépítésre szánt terület kijelölése
 
@@ -191,9 +191,9 @@ Az Országgyűlés – figyelemmel az ország általános és egyes térségeine
 - b) az új beépítésre szánt terület kijelölése nem okozza a különböző települések beépítésre szánt területeinek összenövését, és
 - c) új beépítésre szánt terület kijelölésére csak akkor kerül sor, ha a települési térségben nincs a tervezett rendeltetésnek megfelelő beépítésre szánt területen beépítetlen földrészlet, vagy az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) szerinti barnamezős terület.
 
-(2) Az (1) bekezdés c) pontja szerinti szempontot abban az esetben nem kell alkalmazni, ha a c) pont szerinti meglévő beépítésre szánt terület – tervezett rendeltetésnek megfelelő – igénybevétele aránytalanul nagy terhet jelentene annak várható költsége miatt.
+(2) Az (1) bekezdés c) pontja szerinti szempontot abban az esetben nem kell mérlegelni, ha a c) pont szerinti meglévő beépítésre szánt terület – tervezett rendeltetésnek megfelelő – igénybevétele aránytalanul nagy terhet jelentene annak várható költsége miatt.
 
-(3) Új beépítésre szánt terület kijelölésével egyidejűleg a területnövekmény legkevesebb 5%-ának megfelelő kiterjedésű, legalább 50%-ában az újonnan kijelölt beépítésre szánt területtel kapcsolatban lévő zöldterületet, – gazdasági vagy különleges terület kijelölése esetén zöldterületet vagy véderdőt – kell kijelölni. Ha a zöldterület vagy véderdő kijelölése az új beépítésre szánt terület rendeltetése miatt az adott területen nem valósítható meg, akkor a zöldterületet vagy a véderdő területét a település arra alkalmas más területén kell kijelölni.
+(3) Új beépítésre szánt terület kijelölésével egyidejűleg a területnövekmény legkevesebb 5%-ának megfelelő kiterjedésű, legalább 50%-ában az újonnan kijelölt beépítésre szánt területtel kapcsolatban lévő zöldterületet, – gazdasági vagy különleges terület kijelölése esetén zöldterületet vagy védelmi célú erdőterületet – kell kijelölni. Ha a zöldterület vagy védelmi célú erdőterület kijelölése az új beépítésre szánt terület rendeltetése miatt az adott területen nem valósítható meg, akkor a zöldterületet vagy a védelmi célú erdőterületet a település arra alkalmas más területén kell kijelölni.
 
 13. § (1) Borvidéki település borszőlő termőhelyi katasztere I–II. osztályú területeihez tartozó földrészlet – a különleges mezőgazdasági üzemi terület kivételével – nem minősíthető beépítésre szánt területté.
 
@@ -292,11 +292,11 @@ Az Országgyűlés – figyelemmel az ország általános és egyes térségeine
 
 #### 11. A térségi övezetek lehatárolása
 
-22. § A kiemelt térségi és megyei területrendezési tervek, valamint a településrendezési terv készítése során a térségi övezetek által érintett területeket az e törvény felhatalmazása alapján kiadott kormányrendelet szerint, az abban meghatározott államigazgatási szervek előzetes adatszolgáltatását mérlegelve kell lehatárolni. A mérlegelésnél az e törvényben és a megyei területrendezési tervben meghatározott szerkezeti terv szerinti települési térséget kell elsősorban figyelembe venni.
+22. § A kiemelt térségi és megyei területrendezési tervek, valamint a településrendezési terv készítése során a térségi övezetek által érintett területeket az e törvény felhatalmazása alapján kiadott kormányrendelet szerint, az abban meghatározott államigazgatási szervek adatszolgáltatását mérlegelve kell lehatárolni. A mérlegelésnél az e törvényben és a megyei területrendezési tervben meghatározott szerkezeti terv szerinti települési térséget kell elsősorban figyelembe venni.
 
 23. § (1) A megyei területrendezési tervek készítésénél az OTrT. vagy a területrendezésért felelős miniszter 19. § (4) bekezdésében meghatározott rendelete szerinti térségi övezeteinek lehatárolásához képest a térségi övezetek – az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott – illetékes téradatgazdák egyetértése esetén változtathatók meg, kivéve a 22. § szerinti esetet. Ha az illetékes téradatgazdának az országos övezet lehatárolására vonatkozó pontosított adatszolgáltatása eltér az OTrT-ben vagy a területrendezésért felelős miniszter 19. § (4) bekezdése szerinti rendeletében meghatározott övezeti lehatárolástól, a megyei területrendezési tervben a megyei önkormányzat számára kedvezőbb lehatárolás szerepeltethető, kivéve, ha az jogszabályba ütközik.
 
-(2) A településrendezési terv készítésénél a kiemelt térségi és megyei területrendezési terv térségi övezeteinek lehatárolásához képest a térségi övezetek csak – az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott – illetékes téradatgazdák egyetértése esetén változtathatók meg, kivéve a 22. § szerinti esetet. Ha az illetékes téradatgazdának a térségi övezet lehatárolására vonatkozó adatszolgáltatása eltér az OTrT-ben, a területrendezésért felelős miniszter 19. § (4) bekezdése szerinti rendeletében, illetve a kiemelt térségi és megyei területrendezési tervben meghatározott övezeti lehatárolástól, a településrendezési terv készítése során a települési önkormányzat számára kedvezőbb lehatárolás szerepeltethető, kivéve, ha az jogszabályba ütközik.
+(2) A településrendezési terv készítésénél a kiemelt térségi és megyei területrendezési terv térségi övezeteinek lehatárolásához képest a térségi övezetek csak – az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott – illetékes állami igazgatási szervek vagyok azok területi szervei egyetértése esetén változtathatók meg, kivéve a 22. § szerinti esetet. Ha az illetékes államigazgatási szervnek a térségi övezet lehatárolására vonatkozó adatszolgáltatása eltér az OTrT-ben, a területrendezésért felelős miniszter 19. § (4) bekezdése szerinti rendeletében, illetve a kiemelt térségi és megyei területrendezési tervben meghatározott övezeti lehatárolástól, a településrendezési terv készítése során a települési önkormányzat számára kedvezőbb lehatárolás szerepeltethető, kivéve, ha az jogszabályba ütközik.
 
 #### 12. Az egyedileg meghatározott megyei övezet
 
@@ -317,7 +317,7 @@ Az Országgyűlés – figyelemmel az ország általános és egyes térségeine
 
 #### 13. Ökológiai hálózat magterületének övezete
 
-25. § (1) Az ökológiai hálózat magterületének övezetében – kivéve, ahol az Ország Szerkezeti Terve, vagy a Budapesti Agglomeráció Szerkezeti Terve, vagy a Balaton Kiemelt Üdülőkörzet Szerkezeti Terve települési térséget határoz meg – csak olyan megyei területfelhasználási kategória és megyei övezet, valamint a településrendezési tervben olyan övezet és építési övezet jelölhető ki, amely az ökológiai hálózat magterülete és az ökológiai hálózat ökológiai folyosója természetes és természetközeli élőhelyeit és azok kapcsolatait nem veszélyezteti.
+25. § (1) Az ökológiai hálózat magterületének övezetében csak olyan megyei területfelhasználási kategória és megyei övezet, valamint a településrendezési tervben olyan övezet és építési övezet jelölhető ki, amely az ökológiai hálózat magterülete és az ökológiai hálózat ökológiai folyosója természetes és természetközeli élőhelyeit és azok kapcsolatait nem károsítja
 
 (2) Az ökológiai hálózat magterületének övezetében új beépítésre szánt terület nem jelölhető ki, kivéve, ha:
 
@@ -334,7 +334,7 @@ Az Országgyűlés – figyelemmel az ország általános és egyes térségeine
 
 #### 14. Ökológiai hálózat ökológiai folyosójának övezete
 
-26. § (1) Az ökológiai hálózat ökológiai folyosójának övezetében – kivéve, ahol az Ország Szerkezeti Terve, a Budapesti Agglomeráció Szerkezeti Terve vagy a Balaton Kiemelt Üdülőkörzet Szerkezeti Terve települési térséget határoz meg – csak olyan megyei területfelhasználási kategória és megyei övezet, valamint a településrendezési tervben olyan övezet és építési övezet jelölhető ki, amely az ökológiai hálózat magterülete és az ökológiai hálózat ökológiai folyosója természetes és természetközeli élőhelyeit és azok kapcsolatait nem veszélyezteti.
+26. § (1) Az ökológiai hálózat ökológiai folyosójának övezetében csak olyan megyei területfelhasználási kategória és megyei övezet, valamint a településrendezési tervben olyan övezet és építési övezet jelölhető ki, amely az ökológiai hálózat magterülete és az ökológiai hálózat ökológiai folyosója természetes és természetközeli élőhelyeit és azok kapcsolatait nem károsítja.
 
 (2) Az ökológiai hálózat ökológiai folyosójának övezetében új beépítésre szánt terület nem jelölhető ki, kivéve, ha
 
@@ -343,13 +343,13 @@ Az Országgyűlés – figyelemmel az ország általános és egyes térségeine
 
 (3) A (2) bekezdésben szereplő kivételek együttes fennállása esetén, a beépítésre szánt terület csak az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnak a területrendezési hatósági eljárása során kiadott területfelhasználási engedélye alapján jelölhető ki. Az eljárás során vizsgálni kell, hogy biztosított-e az ökológiai hálózat magterület és az ökológiai hálózat ökológiai folyosó természetes és természetközeli élőhelyeinek fennmaradása, valamint az ökológiai kapcsolatok zavartalan működése.
 
-(4) Az ökológiai hálózat ökológiai folyosójának övezetében a közlekedési és energetikai infrastruktúra-hálózatok elemeinek nyomvonala, továbbá az erőművek az ökológiai folyosó és az érintkező magterület természetes élőhelyeinek fennmaradását biztosító módon, az azok közötti ökológiai kapcsolatok működését nem akadályozó műszaki megoldások alkalmazásával jelölhetők ki és helyezhetők el.
+(4) Az ökológiai hálózat ökológiai folyosójának övezetében a közlekedési és energetikai infrastruktúra-hálózatok elemeinek nyomvonala, az ökológiai folyosó és az érintkező magterület természetes élőhelyeinek fennmaradását biztosító módon, az azok közötti ökológiai kapcsolatok működését nem akadályozó műszaki megoldások alkalmazásával jelölhetők ki és helyezhetők el.
 
 (5) Az ökológiai hálózat ökológiai folyosójának övezetében bányászati tevékenység folytatása a bányászati szempontból kivett helyekre vonatkozó előírások alkalmazásával engedélyezhető. Az övezetben új célkitermelőhely és külfejtéses művelésű bányatelek nem létesíthető, meglévő külfejtéses művelésű bányatelek horizontálisan nem bővíthető.
 
 #### 15. Ökológiai hálózat pufferterületének övezete
 
-27. § (1) Az ökológiai hálózat pufferterületének övezetében – kivéve, ahol az Ország Szerkezeti Terve, a Budapesti Agglomeráció Szerkezeti Terve vagy a Balaton Kiemelt Üdülőkörzet Szerkezeti Terve települési térséget határoz meg – csak olyan megyei területfelhasználási kategória és megyei övezet, valamint a településrendezési tervben olyan övezet és építési övezet jelölhető ki, amely az ökológiai hálózat magterülete, ökológiai folyosója és pufferterülete övezetek természetes és természetközeli élőhelyeit és azok kapcsolatait nem veszélyezteti.
+27. § (1) Az ökológiai hálózat pufferterületének övezetében csak olyan megyei területfelhasználási kategória és megyei övezet, valamint a településrendezési tervben olyan övezet és építési övezet jelölhető ki, amely az ökológiai hálózat magterülete, ökológiai folyosója és pufferterülete övezetek természetes és természetközeli élőhelyeit és azok kapcsolatait nem károsítja.
 
 (2) Az ökológiai hálózat pufferterületének övezetében – a (3) bekezdésben meghatározott feltétel kivételével – a településrendezési terv beépítésre szánt területet csak abban az esetben jelölhet ki, ha az a szomszédos magterület vagy ökológiai folyosó természeti értékeit, biológiai sokféleségét, valamint táji értékeit nem veszélyezteti.
 
@@ -405,7 +405,7 @@ Az Országgyűlés – figyelemmel az ország általános és egyes térségeine
 (2) E Rész alkalmazásában
 
 - 1. mezőgazdasági térség: területfelhasználási kategória, amelybe a kertes mezőgazdasági térségen kívül eső, elsősorban szántó, gyep – ingatlan-nyilvántartás szerint rét, legelő művelési ágba sorolt –, szőlő, gyümölcsös és kert területek tartoznak, és amelyen a mezőgazdasági funkció hosszú távú fenntartása indokolt;
-- 2. sajátos területfelhasználású térség: területfelhasználási kategória, amelybe az 5 ha-nál nagyobb külfejtéses művelésű bányaterületek, hulladékártalmatlanító létesítmény elhelyezésére szolgáló területek, egyes egészségügyi, sportolási, rekreációs, megújuló energiahasznosítási, közlekedési és honvédelmi területek tartoznak;
+- 2. sajátos területfelhasználású térség: területfelhasználási kategória, amelybe az 5 ha-nál nagyobb külfejtéses művelésű bányaterületek, hulladékártalmatlanító létesítmény elhelyezésére szolgáló területek, egyes egészségügyi, sportolási, közlekedési és honvédelmi területek tartoznak;
 - 3. települési térség: területfelhasználási kategória, amelybe a települések összefüggő területi egységet képező, jellemzően beépítésre szánt – ide sorolva a beépítésre nem szánt területek közül az 5 ha-nál kisebb zöldterületeket is – területei tartoznak, kivéve a sajátos területfelhasználású térségbe sorolt beépítésre szánt területeket.
 
 35. § (1) A Budapesti Agglomeráció Szerkezeti Tervét a 7. melléklet tartalmazza.
@@ -562,7 +562,7 @@ tartalmazza.
 (2) E Rész alkalmazásában
 
 - 1. mezőgazdasági térség: területfelhasználási kategória, amelybe elsősorban szántó, gyep – ingatlan-nyilvántartás szerint rét, legelő művelési ágba sorolt – területek tartoznak, és amelyen a mezőgazdasági funkció hosszú távú fenntartása indokolt;
-- 2. sajátos területfelhasználású térség: területfelhasználási kategória, amelybe a települési térségen kívüli, a településrendezési tervbenjellemzően a különleges beépítésre nem szánt övezetbe sorolt területek – így különösen külfejtéses művelésű bányaterületek, hulladékártalmatlanító létesítmény elhelyezésére szolgáló területek, egyes egészségügyi, sportolási, megújuló energiahasznosítási, honvédelmi területek – és egyes közlekedési területek – így különösen repülőterek – tartoznak;
+- 2. sajátos területfelhasználású térség: területfelhasználási kategória, amelybe a települési térségen kívüli, a településrendezési tervbenjellemzően a különleges beépítésre nem szánt övezetbe sorolt területek – így különösen külfejtéses művelésű bányaterületek, hulladékártalmatlanító létesítmény elhelyezésére szolgáló területek, egyes egészségügyi, sportolási, honvédelmi területek – és egyes közlekedési területek – így különösen repülőterek – tartoznak;
 - 3. települési térség: területfelhasználási kategória, amelybe a vízgazdálkodási térségbe és a sajátos területfelhasználású térségbe tartozó területek kivételével a település belterülete, valamint a belterületen kívüli beépítésre szánt területek tartoznak.
 
 47. § (1) A Balaton Kiemelt Üdülőkörzet Szerkezeti Tervét a 10. melléklet tartalmazza.
@@ -616,16 +616,16 @@ tartalmazza.
 
 - a) az erdőgazdálkodási térség területét az erdők övezetére és az erdőtelepítésre javasolt terület övezetére, valamint a kiemelt üdülőkörzet területére, továbbá a parti és partközeli településekre vonatkozó előírások alapján kell erdőterület övezetként lehatárolni;
 - b) erdőterület övezetbe sorolt erdőterület a település közigazgatási területén összességében nem csökkenhet;
-- c) a mezőgazdasági térség területét elsődlegesen általános mezőgazdasági terület vagy természetközeli terület települési övezetbe kell sorolni, továbbá mezőgazdasági térség területén új nagyvárosias lakóterület és új üdülőterület nem jelölhető ki;
-- d) szőlő-, gyümölcs- és kertművelésű térség területét általános mezőgazdasági terület, kertes mezőgazdasági terület vagy természetközeli terület övezetbe kell sorolni az e törvény által lehatárolt kertes mezőgazdasági terület övezete és a területrendezésért felelős miniszter 19. § (4) bekezdése szerinti miniszteri rendeletében lehatárolt általános mezőgazdasági terület övezete, továbbá a valós területhasználat alapján, azzal, hogy a térség területén nagyvárosias lakóterület és üdülőterület nem jelölhető ki;
+- c) a mezőgazdasági térség területét elsődlegesen általános mezőgazdasági terület, tájgazdálkodási mezőgazdasági terület vagy természetközeli terület települési övezetbe kell sorolni, továbbá mezőgazdasági térség területén új nagyvárosias lakóterület és új üdülőterület nem jelölhető ki;
+- d) szőlő-, gyümölcs- és kertművelésű térség területét általános mezőgazdasági terület, tájgazdálkodási mezőgazdasági terület, kertes mezőgazdasági terület vagy természetközeli terület övezetbe kell sorolni az e törvény által lehatárolt kertes mezőgazdasági terület övezete és a területrendezésért felelős miniszter 19. § (4) bekezdése szerinti miniszteri rendeletében lehatárolt általános mezőgazdasági terület övezete, továbbá a valós területhasználat alapján, azzal, hogy a térség területén nagyvárosias lakóterület és üdülőterület nem jelölhető ki;
 - e) a vízgazdálkodási térség területét vízgazdálkodási terület, vízgazdálkodási célú erdőterület vagy természetközeli terület övezetbe kell sorolni, és a működési területével érintett vízügyi igazgatási szervvel egyeztetve kell pontosítani;
 - f) új beépítésre szánt terület a település közigazgatási határához 200 méternél közelebb csak az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnak a területrendezési hatósági eljárása során kiadott területfelhasználási engedélye alapján jelölhető ki;
-- g) új ipari terület települési területfelhasználási egység nem jelölhető ki az M7 gyorsforgalmi út, a 7. sz. főút, a 76. sz. főút, a 71. sz. főút és a 710. sz. főút, a 7119. sz. út (Balatonberény parti út) és a 71345. sz. út (Keszthely parti út) 1000 méteres környezetében, továbbá a köztük és a Balaton-part közötti területen;
+- g) új ipari terület építési övezet nem jelölhető ki az M7 gyorsforgalmi út, a 7. sz. főút, a 76. sz. főút, a 71. sz. főút és a 710. sz. főút, a 7119. sz. út (Balatonberény parti út) és a 71345. sz. út (Keszthely parti út) 1000 méteres környezetében, továbbá a köztük és a Balaton-part közötti területen;
 - h) az M7 gyorsforgalmi út, a 7. sz. főút, a 76. sz. főút, a 71. sz. főút és a 710. sz. főút, a 7119. sz. út (Balatonberény parti út) és a 71345. sz. út (Keszthely parti út) 1000 méteres környezetében, továbbá a köztük és a Balaton-part közötti területen csarnok egyetlen építési övezetben, övezetben sem helyezhető el;
 - i) a sajátos területfelhasználású térség területe – legfeljebb 5% eltéréssel – különleges beépítésre nem szánt, valamint közlekedési terület övezetbe sorolható;
-- j) a településrendezési tervben új, a környezetre jelentős hatást gyakorló ipari terület nem jelölhető ki;
-- k) a település központi belterületén lévő vagy ahhoz közvetlenül kapcsolódó általános gazdasági terület építési övezet területén az új kereskedelmi, szolgáltató terület legfeljebb 50%-os, valamint az egyéb ipari terület legfeljebb 40%-os beépítettségű lehet, továbbá az új telephelyek területének legalább 30%-át fás növényzettel fedetten, a telekhatár mentén takarást biztosítva kell kialakítani;
-- l) a település központi belterületétől elkülönülő gazdasági terület építési övezet területén az új kereskedelmi, szolgáltató terület, valamint az egyéb ipari terület beépítettsége legfeljebb 30%-os lehet, továbbá az új telephelyek területének legalább 50%-át fás növényzettel fedetten kell kialakítani.
+- j) a településrendezési tervben új ipari gazdasági terület nem jelölhető ki;
+- k) a település központi belterületén lévő vagy ahhoz közvetlenül kapcsolódó általános gazdasági terület és kereskedelmi szolgáltató gazdasági terület építési övezet legfeljebb 50%-os, valamint az egyéb ipari terület legfeljebb 40%-os beépítettségű lehet, továbbá az új telephelyek területén a meghatározható legkisebb zöldfelület aránya 30%, amelyet fás növényzettel fedetten, a telekhatár mentén takarást biztosítva kell kialakítani;
+- l) a település központi belterületétől elkülönülő gazdasági terület építési övezet területén az új kereskedelmi, szolgáltató terület, valamint az egyéb ipari terület beépítettsége legfeljebb 30%-os lehet, továbbá az új telephelyek területén a meghatározható legkisebb zöldfelület aránya 50%, amelyet fás növényzettel fedetten kell kialakítani.
 
 #### 33. Zöldterület
 
@@ -784,7 +784,7 @@ nem okoz.
 68. § A kempingek területének más övezetbe történő besorolása kizárólag
 
 - a) zöldterületként legfeljebb 3%-os beépítettséggel vagy
-- b) különleges strand települési övezetként
+- b) különleges strand terület övezetként
 
 történhet.
 
@@ -935,7 +935,7 @@ valósítható meg.
 
 - a) a kialakult tájhasználat csak a természetközeli állapothoz való közelítés érdekében változtatható meg;
 - b) új építmény csak természetvédelmi kezelés és bemutatás céljából, valamint legfeljebb 30 m2 bruttó alapterületű szakrális építményként helyezhető el;
-- c) 10 méter beépítési magasságot meghaladó építmény – a kizárólag kilátó rendeltetésű építmény kivételével – nem létesíthető;
+- c) építmény legmagasabb pontja kizárólag kilátó rendeltetésű építmény esetén haladhatja meg a 10 métert.
 - d) védelmi és közjóléti erdőtelepítés, külterületi fásítás kizárólag őshonos fafajokkal végezhető;
 - e) a területen környezetszennyező tevékenység nem folytatható, továbbá új vegyszertároló és hulladékkezelő létesítmény nem létesíthető, valamint energetikai célú növénytelepítés nem megengedett.
 
@@ -948,7 +948,7 @@ valósítható meg.
 - c) a kertes mezőgazdasági terület övezetébe is besorolt területeken a 2700 m2-nél kisebb telek nem építhető be;
 - d) csarnok nem helyezhető el;
 - e) új építmény elhelyezése, műszaki infrastruktúra telepítése csak tájba illesztve, az illetékes természetvédelmi hatóság, valamint a Balatoni főépítész hozzájárulása alapján történhet;
-- f) 10 méter beépítési magasságot meghaladó építmény – a kizárólag kilátó rendeltetésű építmény és a víztorony kivételével – nem létesíthető;
+- f) építmény legmagasabb pontja kizárólag kilátó rendeltetésű építmény és víztorony esetén haladhatja meg a 10 métert.
 - g) védelmi és közjóléti erdőtelepítés, külterületi fásítás kizárólag őshonos fafajokkal végezhető;
 - h) a területen környezetszennyező tevékenység nem folytatható, továbbá új vegyszertároló és hulladékkezelő létesítmény nem létesíthető, valamint energetikai célú növénytelepítés nem megengedett.
 
@@ -957,7 +957,7 @@ valósítható meg.
 80. § Az ökológiai hálózat pufferterületének övezete tekintetében a 27. § szerinti övezeti előírások mellett a következő előírások alkalmazandók:
 
 - a) országos jelentőségű védett természeti terület szántó művelési ágú területén építmény – út- és közműhálózat építménye kivételével – nem helyezhető el;
-- b) a kertes mezőgazdasági terület övezetébe is besorolt területeken a 2700 m2-nél kisebb telek nem építhető be;
+- b) a kertes mezőgazdasági terület övezetébe is besorolt területeken a 2700 m2-nél kisebb telken épület nem helyezhető el;
 - c) közlekedési infrastruktúra építménye, egyéb közművezeték, illetve építmény tájba illesztve létesíthető;
 - d) csarnok nem helyezhető el;
 - e) a területen környezetszennyező tevékenység nem folytatható, továbbá új vegyszertároló és hulladékkezelő létesítmény – a komposztáló telepet és az átrakóállomást kivéve – nem létesíthető;
@@ -977,7 +977,7 @@ valósítható meg.
 
 (3) A tájképvédelmi szempontból kiemelten kezelendő terület övezetén:
 
-- a) új épület vagy építmény elhelyezése tájba illesztve, a történeti tájszerkezet, a táji és tájképi értékek és az egyedi tájértékek megőrzésével, a tájkarakter erősítésével, a helyi építészeti hagyományok követése mellett, a beépítésre nem szánt területen a telek a meglévő beépítéshez igazodó, de legfeljebb 3%-os beépítésével történhet;
+- a) új épület vagy építmény elhelyezése tájba illesztve, a történeti tájszerkezet, a táji és tájképi értékek és az egyedi tájértékek megőrzésével, a tájkarakter erősítésével, a helyi építészeti hagyományok követése mellett, a beépítésre nem szánt területen a telek a meglévő beépítéshez igazodó, de legfeljebb 3%-os beépítettséggel történhet;
 - b) új üzemanyagtöltő állomás és hulladékkezelő létesítmény – a komposztáló telepet és az átrakóállomást kivéve – nem létesíthető;
 - c) csarnok nem helyezhető el;
 - d) az erőművek közül csak háztartási méretű kiserőmű helyezhető el épületre felszerelten;
@@ -1016,7 +1016,7 @@ valósítható meg.
 
 #### 55. Kertes mezőgazdasági terület övezete
 
-84. § (1) A kertes mezőgazdasági terület övezetét a településrendezési terv készítésénél kertes mezőgazdasági területbe kell sorolni. Az övezet területének a település közigazgatási területére eső része legfeljebb 5%-kal, ezenfelül csak közlekedési területbe sorolás céljából az állami főépítészi hatáskörben eljáró fővárosi és megyei kormányhivatal egyetértése esetén módosítható.
+84. § (1) A kertes mezőgazdasági terület övezetét a településrendezési terv készítésénél kertes mezőgazdasági terület vagy tájgazdálkodási mezőgazdasági terület, országos jelentőségű védett természeti területen tájgazdálkodási mezőgazdasági terület övezetbe kell sorolni. Az övezet területének a település közigazgatási területére eső része legfeljebb 5%-kal, ezenfelül csak közlekedési területbe sorolás céljából az állami főépítészi hatáskörben eljáró fővárosi és megyei kormányhivatal egyetértése esetén módosítható.
 
 (2) Kertes mezőgazdasági terület övezetén:
 
@@ -1052,7 +1052,7 @@ valósítható meg.
   - ca) a beépíthető telek legkisebb nagyságára és beépítettségére, valamint a mezőgazdasági birtokközpontokra vonatkozó előírások figyelembevételével, és
   - cb) az I. osztályú borszőlő termőhelyi kataszteri területen a legalább 80%-ban szőlő művelési ágban nyilvántartott és ennek megfelelően művelt telken, kizárólag szőlőművelést, szőlőfeldolgozást, bortárolást vagy borturizmust szolgáló rendeltetéssel, összesen legfeljebb 3000 m2 nagyságú bruttó alapterülettel, a II. osztályú borszőlő termőhelyi kataszteri területen pedig a mezőgazdaságilag műveltnek minősülő telken, legfeljebb 3000 m2 nagyságú bruttó alapterülettel
 
-helyezhető el;
+építhető és bővíthető;
 
 - d) szakrális építmény, amely a szőlőhegyek tájképéhez hagyományosan hozzátartozó tájképformáló elem – szőlőműveléssel nem hasznosított területen is – a telek méretétől függetlenül elhelyezhető, legfeljebb 30 m2 bruttó alapterülettel, legfeljebb 3%-os beépítettséggel;
 - e) a szőlőművelés tényét a terület pontosan meghatározott százalékában az illetékes hegybíró nyilatkozatával kell igazolni;
@@ -1060,7 +1060,7 @@ helyezhető el;
 
 (2) Az (1) bekezdés szerinti előírásokat a már kijelölt beépítésre szánt területeken nem kell alkalmazni.
 
-(3) Az övezet területén található egyedi értékű dűlőkön új építményként csak a szőlőtermesztéssel összefüggő rendeltetésű építmény helyezhető el, amelyről a településrendezési tervben rendelkezni kell.
+(3) Az övezet területén található egyedi értékű dűlőkön új építményként csak a szőlőtermesztéssel összefüggő rendeltetésű építmény építhető, amelyről a településrendezési tervben rendelkezni kell.
 
 (4) A (3) bekezdés szerinti egyedi értékű dűlők lehatárolását és a megőrzésükre vonatkozó követelményeket e törvény felhatalmazása alapján kiadott miniszteri rendelet tartalmazza.
 

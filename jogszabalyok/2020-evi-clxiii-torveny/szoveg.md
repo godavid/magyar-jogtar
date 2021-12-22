@@ -58,6 +58,19 @@ Az Országgyűlés a szőlő-bor ágazat átlátható és fenntartható működ�
 
 (5) A gazdasági aktában szőlőültetvényként nyilvántartott földterület határától számított ötven méteren belül új erdő vagy új fásítás telepítése nem végezhető, továbbá az ilyen földrészletnek a szőlő termőhelyi kataszterből való kivonása erdő vagy fásítás telepítése céljából nem engedélyezhető.
 
+(6) A szőlő termőhelyi kataszterbe sorolás jogi jelleg ingatlan-nyilvántartásba történő bejegyzéséhez vagy ingatlan-nyilvántartásból történő törléséhez az ingatlan-nyilvántartásról szóló törvénynek az ingatlan-nyilvántartási bejegyzés alapjául szolgáló okirat tartalmi elemeit meghatározó rendelkezésétől eltérően
+
+- a) a szőlő termőhelyi kataszterbe sorolás vagy a szőlő termőhelyi kataszterből történő törlés megjelölése;
+- b) a szőlő termőhelyi kataszterbe sorolással vagy a szőlő termőhelyi kataszterből történő törléssel érintett földterület
+  - ba) fekvése szerinti település neve,
+  - bb) helyrajzi száma,
+  - bc) az érintett alrészlet jele; és
+- c) ha a szőlő termőhelyi kataszterbe sorolás nem az egész ingatlant vagy annak egész alrészletét érinti,
+  - ca) a szőlő termőhelyi kataszterbe sorolt földterület nagysága és
+  - cb) a földterületről földmérő által készített vagy földmérő által tanúsított, és az ingatlanügyi hatóság által érvényes záradékkal ellátott változási vázrajz
+
+szükséges.
+
 3. § (1) Árutermő szőlőültetvény telepítéséhez osztályba sorolt szőlőfajta használható fel.
 
 (2) Szőlőfajta osztályba sorolásához – a növénytermesztési hatóság engedélyével – el kell végezni a szőlőfajta termesztési alkalmassági vizsgálatát. A növénytermesztési hatóság a termesztési alkalmassági vizsgálat e törvény végrehajtására kiadott miniszteri rendeletben meghatározott eredményei alapján dönt a szőlőfajta osztályba sorolásáról. Az osztályba sorolt, borkészítésre alkalmas szőlőfajtákról a növénytermesztési hatóság nyilvántartást vezet, amelyet e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint közzé kell tenni.

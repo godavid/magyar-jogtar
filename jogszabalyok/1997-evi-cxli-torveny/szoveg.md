@@ -671,6 +671,8 @@ kell csatolnia.
 
 (3b) Az ingatlanügyi hatóság felfüggeszti az eljárását akkor is, ha a kérelem érdemi elbírálása a gyámhatóság hatáskörébe tartozó kérdés előzetes elbírálásától függ, a végleges gyámhatósági döntés meghozataláig. Ha a bejelentést tevő személy az ingatlanügyi hatósági hiánypótlási felhívásban meghatározott határidő alatt a gyámügyi eljárás megindítását a kérelemnek a gyámhatóság által iktatott példányával vagy annak hiteles másolatával nem igazolja, az ingatlanügyi hatóság érdemi határozatot hoz a bejegyzési, feljegyzési kérelem tekintetében.
 
+(3c) Közös tulajdonban álló ingatlanok esetében a tulajdonostársak egy részével kötött – bányaszolgalmi jogot alapító – szerződés alapján történő bányaszolgalmi jog bejegyzésére irányuló eljárást fel kell függeszteni mindaddig, amíg a megállapodásban nem részes tulajdonostársak vonatkozásában a bányaszolgalmi jog alapítását elrendelő végleges hatósági határozat, vagy a bányaszolgalmi jog alapítására irányuló hatósági eljárás más módon történő lezárásáról szóló végleges döntés benyújtásra nem kerül.
+
 (4) Az ingatlanügyi hatóság az eljárást felfüggeszti, ha a kérelem érdemi elbírálása külföldi jogi vagy természetes személy mező- és erdőgazdasági hasznosítású földnek nem minősülő ingatlan megszerzésének engedélyezésétől függ. Az ingatlanügyi hatóság megfelelő határidő tűzése mellett felhívja az ügyfelet az engedély iránti kérelem benyújtására, amennyiben a felfüggesztés időpontjáig az a hatósághoz nem érkezett meg. Az ingatlanügyi hatóság az eljárást megszünteti, ha az ügyfél a kérelem benyújtására vonatkozó felhívásnak határidőben nem tesz eleget.
 
 (5) A hatósági határozat elleni közigazgatási per megindításának igazolására és annak elmulasztására a (3) bekezdésben foglaltak értelemszerűen irányadók azzal, hogy annak megtörténte a keresetlevélnek az ingatlan-nyilvántartási eljárás alapjául szolgáló határozatot hozó hatóság által iktatott példányával, vagy annak hiteles másolatával is igazolható.
@@ -926,6 +928,8 @@ bejegyzésével egyidejűleg.
 (1a) A büntetőeljárásról szóló 2017. évi XC. törvény 464. § (4) bekezdése vagy 560. § (1) bekezdés e) pontja alapján a bíróságnak megküldött polgári jogi igény esetén, ha az (1) bekezdés a) vagy b) pontjában foglalt feltételek fennállnak, a bíróság az (1) bekezdés szerinti végzést hivatalból hozza meg.
 
 (2) A bejegyzéssel vagy az alapjául szolgáló okirattal kapcsolatban elkövetett bűncselekmény miatt indult büntetőeljárásról a bíróság e tény feljegyzése végett értesíti az ingatlanügyi hatóságot.
+
+(2a) Nem ingatlan-nyilvántartási döntés felülvizsgálata iránt indult közigazgatási perben eljáró bíróság az ingatlan-nyilvántartásba bejegyzett jogot, feljegyzett tényt vagy az ingatlan-nyilvántartásban szereplő adatot érintő perben a felperes kérelmére, előzetesen végrehajtható végzésével elrendeli az ingatlant érintő közigazgatási per megindítása tényének feljegyzését az ingatlan-nyilvántartásba.
 
 (3) A feljegyzés alapjául szolgáló végzés hatályon kívül helyezéséről szóló jogerős végzést a bíróság megküldi az ingatlanügyi hatóságnak a feljegyzés törlése céljából.
 
@@ -1199,7 +1203,7 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
 (5) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
 
-- a)
+- a) az ingatlan-nyilvántartási rendszer működéséhez szükséges külső informatikai rendszerek kötelező kiépítését és az ingatlan-nyilvántartási rendszerrel való összekapcsolását.
 - b) a számítógépes ingatlan-nyilvántartási rendszerből történő, törvényben meghatározott szolgáltatásra vonatkozó szolgáltatási szerződés kötelező elemeit,
 - c) az ingatlanügyi hatóság vagy hatóságok kijelölését,
 - d) az ingatlan-nyilvántartási eljárás részletes szabályait,

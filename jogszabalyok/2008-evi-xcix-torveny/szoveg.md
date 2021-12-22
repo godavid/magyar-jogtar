@@ -184,14 +184,14 @@ A törvény azt a felismerést fogalmazza meg, hogy az élő, jelen idejű előa
 
 (2) Azt az előadó-művészeti szervezetet lehet nemzeti előadó-művészeti szervezetnek minősíteni, amelynek
 
-- a) fenntartója az állam vagy az e törvény szerinti közszolgáltatási szerződése van az állammal,
+- a) fenntartója az állam, közfeladatot ellátó közérdekű vagyonkezelő alapítvány, vagy az e törvény szerinti közszolgáltatási szerződése van az állammal,
 - b) munkavégzésre irányuló jogviszonyban foglalkoztatott művészei – ide nem értve a gyermek- és csoportos szereplőket – legalább 70%-a szakirányú felsőfokú végzettséggel vagy művészeti elismeréssel rendelkezik,
 - c) vezetőjét – állami vagy önkormányzati fenntartású szervezet esetén – az e törvényben és a Kormány rendeletében foglalt rendelkezéseknek megfelelően bízták meg, és
 - d) a magyar előadó-művészeti életben betöltött szerepe, a művészeti tevékenysége a magyar nemzeti kulturális identitás és hagyományok őrzése, fejlesztése, a kulturális érték- és mintaközvetítés szempontjából kiemelkedő jelentőségű.
 
 (3) Azt az előadó-művészeti szervezetet lehet kiemelt előadó-művészeti szervezetnek minősíteni, amelynek
 
-- a) fenntartója helyi önkormányzat vagy az e törvény szerinti közszolgáltatási szerződése van helyi önkormányzattal,
+- a) fenntartója helyi önkormányzat, közfeladatot ellátó közérdekű vagyonkezelő alapítvány, vagy az e törvény szerinti közszolgáltatási szerződése van helyi önkormányzattal,
 - b) munkavégzésre irányuló jogviszonyban foglalkoztatott művészeinek – ide nem értve a gyermek- és csoportos szereplőket – legalább 60%-a szakirányú felsőfokú végzettséggel vagy művészeti elismeréssel rendelkezik,
 - c) vezetőjét – állami vagy önkormányzati fenntartású szervezet esetén – az e törvényben és a Kormány rendeletében foglalt rendelkezéseknek megfelelően bízták meg, és
 - d) a fővárosi, illetve a megyei előadó-művészeti életben betöltött művészeti, kulturális szerepe, az általa nyújtott művészeti szolgáltatások tartalma és művészeti értéke az állami támogatási és az önkormányzati fenntartói vagy támogatási szerepvállalást egyidejűleg és tartósan indokolja.
@@ -583,6 +583,8 @@ részére.
 46/A. § (1) 2017. január 1-jétől a nyugdíjfolyósító szerv a nyugdíjkorhatárt be nem töltő személyek balettművészeti életjáradékát hivatalból – a 2017. januári nyugdíjemelés mértékével növelt összegben – táncművészeti életjáradékként folyósítja.
 
 (2) Az egyes törvényeknek a táncművészeti életjáradék bevezetésével összefüggő módosításáról szóló 2016. évi CLXIV. törvénnyel megállapított 43/A. § (1) bekezdés a) pontjában meghatározott feltételeknek megfelelő, nyugdíjkorhatárt be nem töltött, korhatár előtti ellátásban részesülő személy 2017. február 28-áig benyújtott kérelmére a nyugdíjfolyósító szerv a korhatár előtti ellátást 2017. május 1-jétől táncművészeti életjáradékként folyósítja.
+
+46/B. § Az egyes kulturális tárgyú és egyéb törvények módosításáról szóló 2021. évi CXLVIII. törvény hatálybalépését megelőzően állami vagy önkormányzati fenntartásból közfeladatot ellátó közérdekű vagyonkezelő alapítvány fenntartásába került előadó-művészeti szervezetnek az állami vagy önkormányzati fenntartás időtartama alatt a 11. § (2) vagy (3) bekezdése szerint szerzett minősítését a fenntartó személyében bekövetkezett változás nem érinti.
 
 ### Felhatalmazások
 

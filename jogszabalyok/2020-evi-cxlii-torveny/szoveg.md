@@ -44,7 +44,7 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 
 (8) Az (1) bekezdés szerint az Alapítvány részére tulajdonba adott részvények tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdés b) pontjában, valamint (7) és (8) bekezdésében foglaltakat.
 
-(9) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) 1. mellékletében meghatározott közfeladatok ellátását szolgáló, a 2. mellékletben meghatározott állami tulajdonban lévő ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kerülnek. A tulajdonba adással egyidejűleg a Gödöllő 5852, 5848 helyrajzi számú ingatlanok tekintetében a Gödöllői Királyi Kastély Közhasznú Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: GKK NKft.) vagyonkezelői joga megszűnik – a tulajdonosi joggyakorló Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársasággal (a továbbiakban: MNV Zrt.) történő külön elszámolás, a beruházások vagyonnyilvántartási átvezetése, rendezése nélkül – azzal, hogy az MNV Zrt., a magyar állam és a GKK NKft. a tulajdonba adással érintett ingatlanok és a hozzájuk funkcionálisan kapcsolódó ingóságok tekintetében egymással szemben követelést semmilyen jogcímen nem támaszthatnak, valamint az Alapítvány a (10) bekezdés szerinti szerződés alapján tulajdonába kerülő ingatlanokkal kapcsolatban semmilyen követelést nem támaszthat az MNV Zrt.-vel és a magyar állammal szemben.
+(9) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) 1. mellékletében meghatározott közfeladatok ellátását szolgáló, a 2. mellékletben felsorolt állami tulajdonban lévő ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kerülnek. A tulajdonba adással egyidejűleg a Gödöllő 5852, 5848 helyrajzi számú ingatlanok tekintetében a Gödöllői Királyi Kastély Közhasznú Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: GKK NKft.) vagyonkezelői joga megszűnik – a tulajdonosi joggyakorló Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársasággal (a továbbiakban: MNV Zrt.) történő külön elszámolás, a beruházások vagyonnyilvántartási átvezetése, rendezése nélkül – azzal, hogy az MNV Zrt., a magyar állam és a GKK NKft. a tulajdonba adással érintett ingatlanok és a hozzájuk funkcionálisan kapcsolódó ingóságok tekintetében egymással szemben követelést semmilyen jogcímen nem támaszthatnak, valamint az Alapítvány a (10) bekezdés szerinti szerződés alapján tulajdonába kerülő ingatlanokkal kapcsolatban semmilyen követelést nem támaszthat az MNV Zrt.-vel és a magyar állammal szemben.
 
 (10) A 2. melléklet szerinti ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az MNV Zrt. köti meg az Alapítvánnyal.
 
@@ -64,9 +64,11 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 
 (18) A (9) bekezdés alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
+(19) A (9) bekezdés szerinti vagyonjuttatás során nem kell alkalmazni az Nvtv. 13. § (4) és (5), valamint (7) és (8) bekezdését.
+
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
-5. § (1) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok, valamint jogszabályban meghatározott közfeladatok ellátását szolgáló, a 3. mellékletben felsorolt egyes állami tulajdonban lévő ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerülnek.
+5. § (1) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok, valamint jogszabályban meghatározott közfeladatok ellátását szolgáló, a 3. mellékletben meghatározott egyes állami tulajdonban lévő ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerülnek.
 
 (2) A 3. melléklet szerinti ingatlanok, illetve ingatlanok tulajdoni hányada tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az MNV Zrt. köti meg az Egyetemmel.
 
@@ -106,7 +108,7 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 
 (4) Az 5. § (1) bekezdése alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében és 18. § (1) bekezdésében meghatározott feltételek szerinti juttatással egy tekintet alá esik.
 
-7. § (1) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján – a preambulumban meghatározott célok megvalósítása érdekében – a Magyar Kertészeti Szaporítóanyag Nonprofit Korlátolt Felelősségű Társaság különválását követően a Cegléd, Sarród, Érd és Budapest központi telephelyen tevékenységet folytató nonprofit gazdasági társaság az állam tulajdonában álló üzletrészeit ingyenesen, nyilvántartási értéken történő átvezetéssel – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérően – az Egyetem tulajdonába kell adni.
+7. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján – az Egyetem közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében meghatározott közfeladata ellátása érdekében – a Magyar Kertészeti Szaporítóanyag Nonprofit Korlátolt Felelősségű Társaság szétválását követően a Cegléd, Sarród, Érd és Budapest központi telephelyen tevékenységet folytató kiválással létrejött jogutód nonprofit gazdasági társaságban az állam tulajdonában álló üzletrészeket ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni.
 
 (2) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján – a preambulumban meghatározott célok megvalósítása érdekében – a ZKI Zöldségtermesztési Kutatóintézet Zártkörűen Működő Részvénytársaságban az állam tulajdonában álló, 6. melléklet szerinti részesedést (a továbbiakban: társasági részesedés) és a Gabonakutató Nonprofit Közhasznú Korlátolt Felelősségű Társaság, valamint a Magyar Tejgazdasági Kísérleti Intézet Korlátolt Felelősségű Társaság az állam tulajdonában álló üzletrészeit ingyenesen, nyilvántartási értéken történő átvezetéssel – a Vtv. 36. § (2) bekezdése szerinti rendelkezéstől eltérően – az Egyetem tulajdonába kell adni.
 
@@ -136,11 +138,11 @@ A magyar agrár- és élettudományi felsőoktatás intézményrendszerének és
 
 (3) Az 1. § (4) bekezdése, valamint a 11. § 2022. január 1-jén lép hatályba.
 
-10. § A 3. § (2) bekezdése, a 4. § (8) és (12) bekezdése, az 5. § (4) bekezdése, a 6. § (1) és (2) bekezdése, valamint a 7. § (9) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+10. § A 3. § (2) bekezdése, a 4. § (8), (12) és (19) bekezdése, az 5. § (4) bekezdése, a 6. § (1) és (2) bekezdése, valamint a 7. § (9) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 11. §
 
-12. § A 6. § (3) bekezdése, a 3. melléklet 34a., 35a., 164a., 164b., a 193a., 238a., 324a., 333a. és 348–353. sora, valamint a 4. melléklet 6a. és 37. sora az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+12. § A 4. § (9) bekezdése, az 5. § (1) bekezdése, a 6. § (3) bekezdése, a 7. § (1) bekezdése, a 3. melléklet 34a., 35a., 164a., 164b., a 193a., 238a., 324a., 333a. és 348–353. sora, valamint a 4. melléklet 6a. és 37. sora az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2020. évi CXLII. törvényhez
 

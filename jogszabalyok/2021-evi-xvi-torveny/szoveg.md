@@ -32,7 +32,9 @@ A kultúrstratégiai jelentőségű tevékenységek finanszírozása, támogatá
 
 #### 3. A Petőfi Irodalmi Ügynökség Nonprofit Korlátolt Felelősségű Társaság részére történő vagyonjuttatás
 
-3. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az állam tulajdonában lévő, 2. mellékletben felsorolt ingatlanok (a továbbiakban: ingatlanok) ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítványnak a Petőfi Irodalmi Ügynökség Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Ügynökség) útján ellátott, KEKVA tv. 1. melléklete szerinti közfeladatai ellátásának elősegítése érdekében az Ügynökség tulajdonába kerülnek azzal, hogy a Budapest III. kerület 18386/9 helyrajzi számú, valamint a Budapest III. kerület 18019 helyrajzi számú ingatlan ingyenes használatát határozatlan időre biztosítani kell a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) számára.
+3. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az állam tulajdonában lévő, 2. mellékletben felsorolt ingatlanok (a továbbiakban: ingatlanok) ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítványnak a Petőfi Irodalmi Ügynökség Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Ügynökség) útján ellátott, KEKVA tv. 1. melléklete szerinti közfeladatai ellátásának elősegítése érdekében az Ügynökség tulajdonába kerülnek.
+
+(1a) A Budapest III. kerület 18386/9 helyrajzi számú, valamint a Budapest III. kerület 18019 helyrajzi számú ingatlanok esetében az ingyenes használatot – az ingatlan-nyilvántartásba bejegyzett jogokat nem sértve – a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) számára biztosítani kell, az MNV Zrt. és a tulajdonosi joggyakorlása alatt álló gazdasági társaságok, valamint az MNV Zrt. által az ingatlanokban elhelyezett központi költségvetési szervek ezen ingatlanokban ellátott feladatainak fennállásáig.
 
 (2) Az ingatlanok tekintetében a tulajdonosváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a tulajdonosi joggyakorló MNV Zrt. készíti elő és köti meg az Ügynökséggel.
 
@@ -44,13 +46,29 @@ A kultúrstratégiai jelentőségű tevékenységek finanszírozása, támogatá
 
 4. § A 2. melléklet 10. és 12. pontja alapján ingyenesen tulajdonba adott ingatlanon e törvény erejénél fogva határozatlan ideig tartó elidegenítési és terhelési tilalom áll fenn. Az elidegenítési és terhelési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg a tulajdonosi joggyakorló kérelmezi.
 
+4/A. § Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az állam tulajdonában lévő, 4. melléklet szerinti ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítványnak a KEKVA tv. 1. mellékletében meghatározott közfeladatai megvalósítása érdekében a közfeladat ellátásban közreműködő Petőfi Kulturális Ügynökség Zártkörűen Működő Részvénytársaság (a továbbiakban: PKÜ) tulajdonába kerülnek.
+
+4/B. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az állam tulajdonában lévő, a Budapest belterület 23796/32 helyrajzi számú, „kivett üdülő és sporttelep és park” megnevezésű ingatlan ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítványnak a KEKVA tv. 1. mellékletében meghatározott közfeladatai megvalósítása érdekében a közfeladat-ellátásban közreműködő PKÜ tulajdonába kerül.
+
+(2) Az (1) bekezdés szerinti vagyonjuttatásra nem kell alkalmazni a Nvtv. 6. § (1) bekezdésében foglaltakat.
+
+4/C. § (1) A PKÜ a 4/B. § szerinti ingatlan és a 4. melléklet szerinti ingatlanok tulajdonjogát az azokon fennálló terhekkel együtt szerzi meg.
+
+(2) A 4/A. § és a 4/B. § szerinti ingatlanjuttatással egyidejűleg a 4/B. § szerinti ingatlanban, valamint a 4. melléklet szerinti ingatlanokban elhelyezett állami tulajdonú ingóságok e törvény erejénél fogva, a fennálló vagyonkezelői jog egyidejű megszűnésével a PKÜ tulajdonába kerülnek.
+
+4/D. § (1) A 4/B. § szerinti ingatlannal és a 4. melléklet szerinti ingatlanokkal átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
+(2) A 4/B. § szerinti ingatlan és a 4. melléklet szerinti ingatlanok tekintetében a tulajdonosváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a tulajdonosi joggyakorló MNV Zrt. készíti elő és köti meg a PKÜ-vel.
+
+4/E. § A PKÜ-t az e törvényből fakadó jogok és kötelezettségek vonatkozásában az Ügynökség jogutódjának kell tekinteni.
+
 #### 4. Záró rendelkezések
 
 5. § Ez a törvény a kihirdetését követő napon lép hatályba.
 
-6. § (1) Az 1. § (3) és (4) bekezdése, a 2. § (1) és (3) bekezdése, a 3. § (1), (3) és (5) bekezdése, az 1. melléklet és a 2. mellékletben foglalt táblázat 2–9., 11., 13–20. pontja az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+6. § (1) Az 1. § (3) és (4) bekezdése, a 2. § (1) és (3) bekezdése, a 3. § (1), (1a), (3) és (5) bekezdése, a 4/A. § és a 4/C. §, az 1. melléklet és a 2. mellékletben foglalt táblázat 2–9., 11., 13–20. pontja, valamint a 4. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
-(2) A 2/A. §, 4. §, a 2. mellékletben foglalt táblázat 10. és 12. pontja és a 3. melléklet az Alaptörvény 38. cikk (1), (2) és (6) bekezdése alapján sarkalatosnak minősül.
+(2) A 2/A. §, 4. §, 4/B. §, a 2. mellékletben foglalt táblázat 10. és 12. pontja és a 3. melléklet az Alaptörvény 38. cikk (1), (2) és (6) bekezdése alapján sarkalatosnak minősül.
 
 (3) A 7. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
@@ -119,3 +137,15 @@ A kultúrstratégiai jelentőségű tevékenységek finanszírozása, támogatá
 | 17. | 237942,20 | 655335,79 |
 | 18. | 237920,89 | 655340,82 |
 | 19. | 237899,31 | 655344,53 |
+
+### 4. melléklet a 2021. évi XVI. törvényhez
+
+#### A PKÜ részére átadásra kerülő állami tulajdonú ingatlanok
+
+|  | A | B | C |
+| --- | --- | --- | --- |
+| 1 | TELEPÜLÉS | HELYRAJZI SZÁM | MEGNEVEZÉS |
+| 2 | NYÍREGYHÁZA | 3380 | kivett lakóház, udvar, gazdasági épület |
+| 3 | NYÍREGYHÁZA | 3381/A/6 | kivett iroda |
+| 4 | SZOLNOK | 2161 | kivett TV- és rádióadó |
+| 5 | SZOLNOK | 2163 | kivett TV- és rádióadó |

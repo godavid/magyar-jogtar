@@ -42,17 +42,19 @@ A multidiszciplináris jellegű Debreceni Egyetem többfókuszú stratégiai cé
 
 (2) Az ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződéseket az állam nevében a tulajdonosi joggyakorló szervezetek készítik elő és kötik meg az Egyetemmel.
 
-(3) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő állami tulajdonú ingó vagyontárgyak (a továbbiakban: ingóságok) az Egyetem tulajdonába kerülnek.
+(3) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében vagy használatában lévő állami tulajdonú ingó és minden egyéb, a jogelőd központi költségvetési szerv könyveiben vagyonkezeltként nyilvántartott állami tulajdonú vagyonelem az Egyetem tulajdonába kerül.
 
-(4) A (3) bekezdés szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+(3a) Az Egyetem egészségügyi feladatellátására tekintettel használatba kapott, a közfeladat-ellátáshoz szükséges állami tulajdonú ingó vagyontárgyak az Egyetem tulajdonába kerülnek.
+
+(4) A (3) és (3a) bekezdés szerint átszálló ingóságokról és egyéb vagyonelemekről jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok és egyéb vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
 (5) Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
 
 (6) A költségvetési szervi formában működő Egyetem és a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság között fennálló vagyonkezelési szerződés megszűnik.
 
-(7) Az ingatlan vonatkozásában a (2) bekezdés szerinti megállapodás megkötéséig, valamint a (3) bekezdés szerinti ingóságok vonatkozásában a (4) bekezdés szerinti jegyzőkönyv felvételéig az Egyetemet a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátása érdekében ingyenes használati jog illeti meg.
+(7) Az ingatlan vonatkozásában a (2) bekezdés szerinti megállapodás megkötéséig, valamint a (3) és (3a) bekezdés szerinti ingóságok és egyéb vagyonelemek vonatkozásában a (4) bekezdés szerinti jegyzőkönyv felvételéig az Egyetemet a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátása érdekében ingyenes használati jog illeti meg.
 
-(8) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az Egyetem közérdekű céljainak megvalósítására és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása érdekében a Debreceni Nyári Egyetem Oktatási Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság – az állam tulajdonában álló – üzletrészeit és az MKSZN Magyar Kertészeti Szaporítóanyag Nonprofit Korlátolt Felelősségű Társaság különválását követően az újfehértói telephelyen tevékenységet folytató jogutód nonprofit gazdasági társaság – az állam tulajdonában álló – üzletrészeit (e § alkalmazásában a továbbiakban együtt: üzletrészek) ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni. Az Egyetem első alkalommal a 2021. év után járó osztalékra jogosult.
+(8) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az Egyetem közérdekű céljainak megvalósítására és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása érdekében a Debreceni Nyári Egyetem Oktatási Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság – az állam tulajdonában álló – üzletrészeit és az MKSZN Magyar Kertészeti Szaporítóanyag Nonprofit Korlátolt Felelősségű Társaság szétválását követően az újfehértói telephelyen tevékenységet folytató jogutód nonprofit gazdasági társaság – az állam tulajdonában álló – üzletrészeit (e § alkalmazásában a továbbiakban együtt: üzletrészek) ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni. Az Egyetem első alkalommal a 2021. év után járó osztalékra jogosult.
 
 (9) A (8) bekezdésben meghatározott intézkedések végrehajtása során az állam képviseletében a miniszter jár el, aki 2021. augusztus 1. napjától az üzletrészek felett a tulajdonosi jogokat gyakorolja.
 
@@ -68,7 +70,7 @@ A multidiszciplináris jellegű Debreceni Egyetem többfókuszú stratégiai cé
 
 (2) Az 1. § (4) bekezdése, a 2–6. §, a 9. §, továbbá az 1. és a 2. melléklet 2021. augusztus 1-jén lép hatályba.
 
-8. § Az 1. § (3)–(5) bekezdése, a 2. § (1), (2) és (4) bekezdése, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1), (3), (5), (8), (10) és (11) bekezdése, a 6. §, a 9. §, valamint az 1. és a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+8. § Az 1. § (3)–(5) bekezdése, a 2. § (1), (2) és (4) bekezdése, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1), (3), (3a), (5), (8), (10) és (11) bekezdése, a 6. §, a 9. §, valamint az 1. és a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 9. §
 

@@ -8,7 +8,7 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 #### 1. Egyes állami tulajdonú ingatlanok ingyenes tulajdonba adása a Kárpát-medencei Művészeti Népfőiskola Alapítvány részére
 
-1. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdése és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdése alapján az állam tulajdonában lévő, az 1. melléklet szerinti ingatlanok (ezen alcím alkalmazásában a továbbiakban együtt: ingatlanok) ingyenesen a Kárpát-medencei Művészeti Népfőiskola Alapítvány (a továbbiakban: Alapítvány) tulajdonába kerülnek az Alapítvány nevelési, oktatási és felsőoktatási feladatai ellátásának elősegítése céljából, azzal, hogy az 1. melléklet 11. sora szerinti ingatlan tekintetében az Alapítvány részére történő tulajdonba adást megelőzően a termőföld más célú hasznosítására vonatkozó eljárást a Nemzeti Földügyi Központ útján le kell folytatni.
+1. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdése és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdése alapján az állam tulajdonában lévő, az 1. melléklet 1–12. sora szerinti ingatlanok (ezen alcím alkalmazásában a továbbiakban együtt: ingatlanok) ingyenesen a Kárpát-medencei Művészeti Népfőiskola Alapítvány (a továbbiakban: Alapítvány) tulajdonába kerülnek az Alapítvány nevelési, oktatási és felsőoktatási feladatai ellátásának elősegítése céljából, azzal, hogy az 1. melléklet 11. sora szerinti ingatlan tekintetében az Alapítvány részére történő tulajdonba adást megelőzően a termőföld más célú hasznosítására vonatkozó eljárást a Nemzeti Földügyi Központ útján le kell folytatni.
 
 (2) Az Alapítvány az ingatlanokat – a (3) bekezdésben foglalt kivétellel – a fennálló terhekkel együtt szerzi meg. Az (1) bekezdés szerinti tulajdonátruházás feltétele, hogy az Alapítvány az ingatlanokat terhelő kötelezettségeket a 2. § szerinti szerződésben teljeskörűen átvállalja.
 
@@ -19,6 +19,18 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 2. § (1) Az 1. § (1) bekezdése szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti el és köti meg. A szerződésben az ingatlanok forgalmi értékeként a tulajdonosi joggyakorló által megállapított értéket kell megjelölni.
 
 (2) Az 1. § (1) bekezdése szerinti vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa. tv.) 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+
+2/A. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az állami tulajdonban lévő 1. melléklet 13. és 14. sora szerinti ingatlanok ingyenesen az Alapítvány tulajdonába kerülnek az Alapítvány nevelési, oktatási és felsőoktatási feladatai ellátásának elősegítése céljából.
+
+(2) Az Alapítvány az 1. melléklet 13. és 14. sora szerinti ingatlanokat a fennálló terhekkel együtt szerzi meg. Az (1) bekezdés szerinti tulajdonátruházás feltétele, hogy az Alapítvány az ingatlanokat terhelő kötelezettségeket a (4) bekezdés szerinti szerződésben teljeskörűen átvállalja.
+
+(3) Az 1. melléklet 14. sora szerinti ingatlanon fennálló vagyonkezelői jog az Alapítvány tulajdonszerzésével egyidejűleg megszűnik.
+
+(4) Az (1) bekezdés szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti el és köti meg. A szerződésben az 1. melléklet 13. és 14. sora szerinti ingatlan forgalmi értékeként a tulajdonosi joggyakorló által megállapított értéket kell megjelölni.
+
+(5) Az (1) bekezdés szerinti tulajdonátruházásról szóló szerződésben rögzíteni kell, hogy az 1. melléklet 14. sora szerinti ingatlan mindenkori tulajdonosa a működési területileg illetékes vízügyi igazgatási szerv feladatainak ellátása érdekében a Velence belterület 4475/2 helyrajzi számú ingatlan, mint uralkodó telek megközelítése céljából, az illetékes vízügyi igazgatási szervvel együttműködve, legkésőbb az egyes kulturális tárgyú és egyéb törvények módosításáról szóló 2021. évi CXLVIII. törvény hatálybalépését követő hat hónapon belül a Velence belterület 4477/1 helyrajzi számú ingatlant, mint szolgáló telket terhelő átjárási szolgalmat alapít, valamint, hogy az Alapítvány az 1. melléklet 13. és 14. sora szerinti ingatlanok tekintetében a magyar állammal és az annak képviseletét ellátó Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársasággal szemben semmilyen követelést nem támaszthat.
+
+(6) Az (1) bekezdés szerinti vagyonjuttatást úgy kell tekinteni, hogy az az Áfa. tv. 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
 #### 2. Ingatlan ingyenes tulajdonba adása Zalaegerszeg Megyei Jogú Város Önkormányzata részére
 
@@ -57,6 +69,12 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 (2) Az ingatlanügyi hatóság az (1) bekezdés szerinti vagyonkezelői jogot a vagyonkezelő kérelme alapján jegyzi be az ingatlan-nyilvántartásba. Az ingatlan-nyilvántartási bejegyeztetésére és a vagyonkezelői jog gyakorlására a vagyonkezelő vagyonkezelési szerződés kötése nélkül jogosult.
 
 (3) A vagyonkezelő vagyonkezelői jogának fennállása alatt az (1) bekezdés szerinti ingatlanokat a tulajdonos települési önkormányzat nem idegenítheti el, nem terhelheti meg.
+
+#### 4/A. Ingatlanok ingyenes vagyonkezelésbe adása a Kalocsa-Kecskeméti Főegyházmegye részére
+
+5/A. § (1) A Kalocsa Város Önkormányzata tulajdonában álló, az ingatlan-nyilvántartás szerinti Kalocsa belterület 1019/3 és 1019/4 helyrajzi számú ingatlanok 2021. december 31-ével ingyenesen 100 évre a Kalocsa-Kecskeméti Főegyházmegye (ezen alcím alkalmazásában a továbbiakban: vagyonkezelő) vagyonkezelésébe kerülnek.
+
+(2) A vagyonkezelő vagyonkezelői jogának fennállása alatt az (1) bekezdés szerinti ingatlanokat a tulajdonos települési önkormányzat nem idegenítheti el, nem terhelheti meg.
 
 #### 5. Az OMSZI Intézményfenntartó Közhasznú Nonprofit Korlátolt Felelősségű Társaság állami tulajdonban álló ingatlanok vagyonkezelőjeként történő kijelöléséről
 
@@ -164,7 +182,7 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 #### 9. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-11. § (1) A 3. § (2), (3) és (6) bekezdése, a 4. § (6) bekezdése, az 5. § (2) bekezdése, a 8. § (4) bekezdése, a 153. §, a 155. §, a 156. § b–g) pontja, a 160. §, a 167. §, a 170. § (1) bekezdése, a 172. § b) pontja, a 173. §, a 175. §, a 176. §, a 178. § d) és g) pontja, a és a 10. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+11. § (1) A 3. § (2), (3) és (6) bekezdése, a 4. § (6) bekezdése, az 5. § (2) bekezdése, az 5/B. §, a 8. § (4) bekezdése, a 153. §, a 155. §, a 156. § b–g) pontja, a 160. §, a 167. §, a 170. § (1) bekezdése, a 172. § b) pontja, a 173. §, a 175. §, a 176. §, a 178. § d) és g) pontja, a és a 10. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 153. §, a 155. § b) pontja, a 156. § f) pontja, a 160. §, a 163. §, a 164. § a) pontja, a 167. §, a 170. §, a 172. § b) pontja, a 173. §, a 175. §, a 178. § g) pontja, a 180. §, a 181. §, a 183. § a) pontja, a 184. §, a 186. §, a 187. §, a 190–192. §, 193. § (2) bekezdése, a 194. § (1) bekezdése, a 195. §, a 197. §, a 199. § a) pontja, a 200–202. §, a 205. § a) és c pontja, a 207. §, a 208. §, a 210. §, a 212. §, a 213. §, a 216. §, a 218. §, a 220. § és a 8–13. melléklete az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
@@ -819,6 +837,8 @@ lép.
 | 10. | Budapest | belterület | 5085 |
 | 11. | Kápolnásnyék | belterület | 57 |
 | 12. | Szombathely | belterület | 5941/7 |
+| 13. | Gárdony | belterület | 5437 |
+| 14. | Velence | belterület | 4477/1 |
 
 ### 2. melléklet a 2021. évi CI. törvényhez
 

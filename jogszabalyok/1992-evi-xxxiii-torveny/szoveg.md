@@ -1400,7 +1400,7 @@ magasabb fizetési fokozatba kell besorolni.
 - d) a felsőoktatási intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében
   - da) a magyar állampolgárság feltételét a közalkalmazotti jogviszony létesítéséhez,
   - db) a gyakornoki idő kikötése alól mentes munkaköröket,
-  - dc)
+  - dc) az illetménytöbblet mértékét és juttatásának szabályait,
   - dd) az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazatba tartozó munkakörhöz kapcsolódó további vagy eltérő szempontokat, illetve az egyes munkakörökben foglalkoztatott közalkalmazott minősítésénél kizárt szempontokat,
   - de) a külön törvényben szabályozott teljesítményértékelés minősítési eredménnyel való egyenértékűsége feltételeit,
   - df) az illetménynövekedés feltételeit azokban az esetekben, amikor a további szakképzettség, illetve szakképesítés hasznosításának mértéke előre nem határozható meg,

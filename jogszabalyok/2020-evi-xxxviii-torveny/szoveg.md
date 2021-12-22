@@ -145,4 +145,4 @@ A gazdaság- és társadalomtudományi képzési terület, ezen keresztül az in
 | --- | --- | --- |
 | 1. | Gazdasági társaság megnevezése | Átadandó állami tulajdonban álló részesedés/üzletrész megjelölése |
 | 2. | RÁBA Járműipari Holding Nyrt. | 20% |
-| 3. | GYŐR-PÉR REPÜLŐTÉR Kft. | 15,25% |
+| 3. | GYŐR-PÉR REPÜLŐTÉR Kft. | 15,2% |

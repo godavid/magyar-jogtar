@@ -26,7 +26,7 @@ A Szegedi Tudományegyetem régiós szerepének erősítése és stratégiai cé
 
 (3) Az ingatlan vonatkozásában a (2) bekezdés szerinti megállapodások megkötéséig az Egyetemet a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátása érdekében ingyenes használati jog illeti meg.
 
-(4) Az ingatlan tulajdonjogát az Alapítvány a terhekkel együtt szerzi meg.
+(4) Az ingatlan tulajdonjogát az Alapítvány a terhekkel együtt szerzi meg, azzal a kivétellel, hogy az 1. melléklet 6. pontja szerinti ingatlan szovjet katonai bázisként történt használata időszakában bekövetkezett környezeti károk mentesítése, valamint az ennek kapcsán keletkezett környezetvédelmi kötelezettségek teljesítése a magyar állam kötelezettsége.
 
 4. § Az Alapítvány a tulajdonába adott ingatlant – a 3. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Alapítvány a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladata ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Alapítvány az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
 
@@ -104,8 +104,8 @@ A Szegedi Tudományegyetem régiós szerepének erősítése és stratégiai cé
 | 4. | FONYÓD | 8255 | 1/1 | kivett üdülőépület, udvar |
 | 5. | HÓDMEZŐVÁSÁRHELY | 12773 | 1/1 | kivett középiskola |
 | 6. | SZEGED II. KERÜLET | 01392/29 | 1/1 | kivett beépítetlen terület |
-| 7. | SZEGED II. KERÜLET | 01392/30 | 1/1 | kivett körforgalom számára megnyitott magánút |
-| 8. | SZEGED II. KERÜLET | 01392/31 | 1/1 | kivett körforgalom számára megnyitott magánút |
+| 7. | SZEGED II. KERÜLET | 01392/30 | 1/1 | kivett közforgalom számára megnyitott magánút |
+| 8. | SZEGED II. KERÜLET | 01392/31 | 1/1 | kivett közforgalom számára megnyitott magánút |
 | 9. | SZEGED II. KERÜLET | 01392/32 | 1/1 | kivett beépítetlen terület |
 | 10. | SZEGED III. KERÜLET | 02216 | 1/1 | kivett épület, udvar, út |
 | 11. | SZEGED I. KERÜLET | 240/2 | 1/1 | kivett udvar és középület |

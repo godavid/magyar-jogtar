@@ -62,6 +62,7 @@ Az Országgyűlés a nemzeti köznevelésről szóló törvényben, a szakképz�
   - h) pedagógiai előadó vagy pedagógiai szakértő munkakörben dolgozik,
   - i) köznevelési intézményben óraadóként dolgozik,
   - j) szerepel az Országos érettségi vizsgaelnöki névjegyzéken, az Országos szakértői névjegyzéken, illetve az Országos szaktanácsadói névjegyzéken,
+  - k) köznevelési intézményben hit- és erkölcstanoktatási, fakultatív hitoktatási, továbbá az egyházi jogi személy vagy annak belső egyházi jogi személye által fenntartott iskolában nem a saját felekezetnek megfelelő hittanoktatási feladatokat lát el,
 - 2. a szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: Szkt.) alapján
   - a) tanulói jogviszonyban áll,
   - b)
@@ -117,6 +118,7 @@ Az Országgyűlés a nemzeti köznevelésről szóló törvényben, a szakképz�
 - m) az oktatási nyilvántartás működéséért felelős szerv feladatkörébe tartozó tanulmányi és művészeti versenyek nyilvántartása;
 - n) az óvodai nevelésben részvételre kötelezett gyermekek nyilvántartása;
 - o) a tanköteles gyermekek nyilvántartása.
+- p) a hit- és erkölcstanoktatásban, a fakultatív hitoktatásban közreműködő, továbbá az egyházi jogi személy vagy annak belső egyházi jogi személye által fenntartott iskolában nem a saját felekezetnek megfelelő hittant oktató személyek nyilvántartása.
 
 (2a) Az (1) bekezdés b) pontja szerinti szakrendszer személyes adatokat tartalmazó alrendszerei:
 
@@ -425,6 +427,8 @@ továbbíthatóak a Diákhitel Központnak.
 (37) A Kormány vagy az egyes miniszterek által megkötött megállapodások keretében elérhető kedvezmény igénybevételére történő jogosultság érvényességének megerősítése céljából az oktatási nyilvántartás működéséért felelős szerv a 2. § e) pontja szerinti, a születési időre vonatkozó, valamint az 2. § l) pontja szerinti, oktatási azonosító számára vonatkozó megerősítő adatokat továbbítja jogosultság ellenőrzését végző program és az igénylőfelület működtetését végző szervnek.
 
 (38) Az oktatási nyilvántartás működéséért felelős szerv az oktatási nyilvántartás 3/C. §, 4. § (2) bekezdés a–b) pontja, 4. § (3) bekezdés b) és d) pontja szerinti szakrendszerből személyes adatot továbbít a Nemzeti Köznevelési Portál és a Tankönyvkatalógus működtetéséért felelős szerv részére a tanulók, hallgatók, pedagógusok és oktatók köznevelési és felsőoktatási intézménnyel fennálló aktív jogviszonyának tényére vonatkozóan az ezen portálok szerzői jog által védett tartalmainak jogszerű igénybevétele céljából.
+
+7/A. § Az oktatási nyilvántartás működéséért felelős szerv a családtámogatási ellátásra való jogosultság megállapítása és ellenőrzése céljából az egészségügyi államigazgatási szerv által működtetett ágazatközi központi kiszolgáló rendszeren keresztül továbbítja az INYR-ből a központi családtámogatási szerv részére a gyermek, tanuló sajátos nevelési igényének megállapításáról szóló végleges szakértői bizottsági szakértői vélemény adatait.
 
 #### 5. Záró rendelkezések
 
@@ -735,7 +739,13 @@ i)
   - b) tanköteles korúvá váló tanuló kötelező felvételt biztosító iskolájának ba) OM azonosító számát, bb) nevét, bc) címét, bd) fenntartóját,
   - c) a tankötelessé válásának időpontját,
   - d) a felmentést engedélyező szerv döntése alapján a felmentés tényét és hatályát.
-  - e) ha a gyermek, tanuló tankötelezettségét külföldön teljesíti, a tanulmányok külföldön történő folytatásának kezdő és várható befejező időpontját. valamint azt az országot, ahol a tanuló a tankötelezettségét teljesíti.
+  - e) ha a gyermek, tanuló tankötelezettségét külföldön teljesíti, a tanulmányok külföldön történő folytatásának kezdő és várható befejező időpontját. valamint azt az országot, ahol a tanuló a tankötelezettségét teljesíti. XVI. A hit- és erkölcstanoktatásban, a fakultatív hitoktatásban közreműködő, továbbá az egyházi jogi személy vagy annak belső egyházi jogi személye által fenntartott iskolában nem a saját felekezetnek megfelelő hittant oktató nyilvántartása A nyilvántartás a tevékenység ellenőrzése finanszírozásának ellenőrzése céljából tartalmazza a személy:
+  - a) oktatási azonosító számát,
+  - b) végzettségére és szakképzettségére vonatkozó adatokat,
+  - c) munkavégzésének helyét,
+  - d) munkaidejének mértéket,
+  - e) foglalkoztatójának megnevezését,
+  - f) elektronikus levelezési címét. A nyilvántartásból a munkajogi jogviszony megszűnését követő 30 napon belül az adatokat törölni kell.
 
 ### 1/A. melléklet a 2018. évi LXXXIX. törvényhez
 
