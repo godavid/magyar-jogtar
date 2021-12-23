@@ -76,6 +76,8 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 (2) A vagyonkezelő vagyonkezelői jogának fennállása alatt az (1) bekezdés szerinti ingatlanokat a tulajdonos települési önkormányzat nem idegenítheti el, nem terhelheti meg.
 
+5/B. § Az ingatlanügyi hatóság az 5/A. § (1) bekezdése szerinti vagyonkezelői jogot a vagyonkezelő kérelme alapján jegyzi be az ingatlan-nyilvántartásba. Az ingatlan-nyilvántartási bejegyeztetésére és a vagyonkezelői jog gyakorlására a vagyonkezelő vagyonkezelési szerződés kötése nélkül jogosult.
+
 #### 5. Az OMSZI Intézményfenntartó Közhasznú Nonprofit Korlátolt Felelősségű Társaság állami tulajdonban álló ingatlanok vagyonkezelőjeként történő kijelöléséről
 
 6. § (1) Az Nvtv. 11. § (5) bekezdése alapján az állami tulajdonban álló, a 3. mellékletben felsorolt ingatlanok, valamint az azokhoz kapcsolódó ingóságok vagyonkezelője az OMSZI Intézményfenntartó Közhasznú Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: OMSZI) a szociális, valamint köznevelési, oktatási feladatainak elősegítése céljából.
@@ -182,7 +184,7 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 #### 9. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-11. § (1) A 3. § (2), (3) és (6) bekezdése, a 4. § (6) bekezdése, az 5. § (2) bekezdése, az 5/B. §, a 8. § (4) bekezdése, a 153. §, a 155. §, a 156. § b–g) pontja, a 160. §, a 167. §, a 170. § (1) bekezdése, a 172. § b) pontja, a 173. §, a 175. §, a 176. §, a 178. § d) és g) pontja, a és a 10. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+11. § (1) A 3. § (2), (3) és (6) bekezdése, a 4. § (6) bekezdése, az 5. § (2) bekezdése, az 5/B. §,, a 8. § (4) bekezdése, a 153. §, a 155. §, a 156. § b–g) pontja, a 160. §, a 167. §, a 170. § (1) bekezdése, a 172. § b) pontja, a 173. §, a 175. §, a 176. §, a 178. § d) és g) pontja, a és a 10. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 153. §, a 155. § b) pontja, a 156. § f) pontja, a 160. §, a 163. §, a 164. § a) pontja, a 167. §, a 170. §, a 172. § b) pontja, a 173. §, a 175. §, a 178. § g) pontja, a 180. §, a 181. §, a 183. § a) pontja, a 184. §, a 186. §, a 187. §, a 190–192. §, 193. § (2) bekezdése, a 194. § (1) bekezdése, a 195. §, a 197. §, a 199. § a) pontja, a 200–202. §, a 205. § a) és c pontja, a 207. §, a 208. §, a 210. §, a 212. §, a 213. §, a 216. §, a 218. §, a 220. § és a 8–13. melléklete az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
