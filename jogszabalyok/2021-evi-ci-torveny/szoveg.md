@@ -48,17 +48,17 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 #### 3. A Médiaszolgáltatás-támogató és Vagyonkezelő Alap részére történő vagyonjuttatásról
 
-4. § (1) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján, a Médiaszolgáltatás-támogató és Vagyonkezelő Alap (a továbbiakban: MTVA) a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 136. § (1) bekezdésében meghatározott közfeladata ellátásának elősegítése érdekében a 2. mellékletben meghatározott ingatlan ingyenesen, nyilvántartási értéken történő átvezetéssel az MTVA tulajdonába kerül.
+4. § (1) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján, a Médiaszolgáltatás-támogató és Vagyonkezelő Alap (a továbbiakban: MTVA) a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 136. § (1) bekezdésében meghatározott közfeladata ellátásának elősegítése érdekében a 2. mellékletben meghatározott ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az MTVA tulajdonába kerül.
 
-(2) A 2. melléklet szerinti ingatlan tekintetében a tulajdonátruházás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti el és köti meg. A szerződésben az ingatlan forgalmi értékeként a tulajdonosi joggyakorló által megállapított értéket kell megjelölni.
+(2) A 2. melléklet szerinti ingatlanok tekintetében a tulajdonátruházás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti el és köti meg. A szerződésben az ingatlanok forgalmi értékeként a tulajdonosi joggyakorló által megállapított értéket kell megjelölni.
 
-(3) A 2. mellékletben meghatározott ingatlan tulajdonjogát az MTVA per-, teher- és igénymentesen szerzi meg.
+(3) A 2. mellékletben meghatározott ingatlanok tulajdonjogát az MTVA per-, teher- és igénymentesen szerzi meg.
 
-(4) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az (1) bekezdésben meghatározott közfeladatok ellátására rendelkezésre álló a 2. melléklet szerinti ingatlanban található állami tulajdonú ingó vagyontárgyak (ezen alcím alkalmazásában a továbbiakban: ingóságok) e törvény erejénél fogva az MTVA tulajdonába kerülnek.
+(4) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az (1) bekezdésben meghatározott közfeladatok ellátására rendelkezésre álló a 2. melléklet szerinti ingatlanokban található állami tulajdonú ingó vagyontárgyak (ezen alcím alkalmazásában a továbbiakban: ingóságok) e törvény erejénél fogva az MTVA tulajdonába kerülnek.
 
 (5) Az átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
-(6) Az (1) bekezdés alapján ingyenesen tulajdonba adott ingatlan, valamint a (4) bekezdés alapján átszálló ingóságok tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdés b) pontjában, valamint (7) és (8) bekezdésében foglaltakat.
+(6) Az (1) bekezdés alapján ingyenesen tulajdonba adott ingatlanok, valamint a (4) bekezdés alapján átszálló ingóságok tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdés b) pontjában, valamint (7) és (8) bekezdésében foglaltakat.
 
 (7) Az (1) bekezdés alapján történő vagyonjuttatást úgy kell tekinteni, hogy az Áfa. tv. 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
@@ -93,6 +93,52 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 (6) Az (1) bekezdésben meghatározott ingatlanokra vonatkozó vagyonkezelői jogot – a (3) bekezdés szerinti vagyonkezelési szerződés megkötését követően – az OMSZI kérelme alapján kell az ingatlan-nyilvántartásba bejegyezni.
 
 7. § Az Országgyűlés e törvény hatálybalépésével egyidejűleg lemond az államnak az OMSZI-val szemben, az OMSZI jogcím nélküli használatában álló, a 3. melléklet 7–10. pontjában megjelölt állami vagyonra vonatkozó, a tulajdonosi joggyakorló által kezelt nettó 817.651.380 forint összegű használati díj követeléséről azzal, hogy az OMSZI vállalja, hogy a jogcím nélküli használat időtartama alatt az állami ingatlanokon saját forrásból megvalósított beruházás, valamint egyéb felmerült költségek tekintetében megtérítést nem érvényesít az állammal szemben.
+
+#### 5/A. A Dunamelléki Református Egyházkerület részére történő vagyonjuttatás
+
+7/A. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az állami tulajdonban lévő, az ingatlan-nyilvántartás szerint Budapest XII. kerület belterület 6886/2 helyrajzi számú, természetben az 1122 Budapest, XII. kerület Bíró utca 3. szám alatt található ingatlan ingyenesen – köznevelési feladatok ellátása érdekében – a Dunamelléki Református Egyházkerület (a továbbiakban: Egyházkerület) tulajdonába kerül.
+
+(2) Az (1) bekezdés szerinti tulajdonátruházás feltétele, hogy az Egyházkerület mint jogi személy az (1) bekezdés szerinti ingatlant terhelő kötelezettségeket a (4) bekezdés szerinti szerződés alapján teljeskörűen átvállalja.
+
+(3) Az (1) bekezdés szerinti ingatlanon fennálló vagyonkezelői jog – külön elszámolás nélkül – az Egyházkerület tulajdonszerzésével egyidejűleg megszűnik azzal, hogy a tulajdonosi joggyakorló és az OMSZI a tulajdonba adással érintett ingatlan tekintetében egymással szemben követelést semmilyen jogcímen nem támaszthatnak.
+
+(4) Az (1) bekezdés szerinti tulajdonátruházás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében az MNV Zrt. készíti el és köti meg. A szerződésben az ingatlan forgalmi értékeként az MNV Zrt. által megállapított értéket kell megjelölni.
+
+(5) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az (1) bekezdésben meghatározott feladatok ellátására rendelkezésre álló, az ingatlanban található és az OMSZI vagyonkezelésében lévő állami tulajdonú ingó vagyontárgyak e törvény erejénél fogva a vagyonkezelői jog – külön elszámolás nélküli – egyidejű megszűnésével az Egyházkerület tulajdonába kerülnek.
+
+(6) Az (5) bekezdés alapján átszálló ingó vagyontárgyakról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, az átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
+(7) Az (1) bekezdés alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az Áfa. tv. 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+
+7/B. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az állami tulajdonban álló Budapest V. kerület belterület 24849 helyrajzi számú, természetben a 1054 Budapest, V. kerület Alkotmány u. 25. szám alatt található ingatlan (e § alkalmazásában a továbbiakban: ingatlan) ingyenesen – az egyházkerületi szolgálat hivatali feladatainak ellátása és konferenciaközpont kialakítása érdekében – az Egyházkerület tulajdonába kerül.
+
+(2) Az (1) bekezdés szerinti tulajdonátruházás feltétele, hogy az Egyházkerület mint jogi személy az ingatlant terhelő kötelezettségeket a (3) bekezdés szerinti szerződés alapján teljeskörűen átvállalja.
+
+(3) Az (1) bekezdés szerinti tulajdonátruházás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló MNV Zrt. készíti el és köti meg. A szerződésben az ingatlan forgalmi értékeként az MNV Zrt. által megállapított értéket kell megjelölni.
+
+(4) Az Egyházkerület az ingatlan tekintetében az ingatlanban elhelyezett központi költségvetési szerv kiköltözéséig – ingatlan-nyilvántartásba be nem jegyezhető – térítésmentes használati jogot biztosít az ingatlanban elhelyezett központi költségvetési szerv részére, amelynek feltételeit az Egyházkerület és az MNV Zrt. megállapodásban rögzíti.
+
+(5) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az (1) bekezdésben meghatározott feladatok ellátására rendelkezésre álló, az ingatlanban található állami tulajdonú ingó vagyontárgyak e törvény erejénél fogva az Egyházkerület tulajdonába kerülnek.
+
+(6) Az (5) bekezdés alapján átszálló ingó vagyontárgyakról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, az átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
+(7) Az (1) bekezdés alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az Áfa. tv. 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+
+5/B. A Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat részére történő vagyonjuttatás
+
+7/C. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az állami tulajdonban lévő, az ingatlan-nyilvántartás szerint Budapest XII. kerület, belterület 9328 helyrajzi számon nyilvántartott, természetben a Budapest XII. kerület, Művész út 7. szám alatt található ingatlan a Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat tulajdonába kerül óvodai ellátás, valamint szociális és gyermekjóléti szolgáltatások és ellátások biztosításának elősegítése céljából.
+
+(2) Az (1) bekezdés szerinti ingatlanon fennálló vagyonkezelői jog – külön elszámolás nélkül – Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat tulajdonszerzésével egyidejűleg megszűnik azzal, hogy a tulajdonosi joggyakorló és az OMSZI a tulajdonba adással érintett ingatlan tekintetében egymással szemben követelést semmilyen jogcímen nem támaszthatnak.
+
+(3) Az (1) bekezdés szerinti tulajdonátruházás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében az MNV Zrt. köti meg a Budapest Főváros XII. Kerület Hegyvidéki Önkormányzattal. A szerződésben az ingatlan forgalmi értékeként az MNV Zrt. által megállapított értéket kell megjelölni.
+
+(4) Az (1) bekezdés szerinti ingatlan tulajdonjogát Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat per-, teher- és igénymentesen szerzi meg.
+
+(5) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az (1) bekezdésben meghatározott feladatok ellátására rendelkezésre álló, az (1) bekezdés szerinti ingatlanban található, az OMSZI vagyonkezelésében lévő, állami tulajdonú ingó vagyontárgyak e törvény erejénél fogva a vagyonkezelői jog – külön elszámolás nélküli – egyidejű megszűnésével Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat tulajdonába kerülnek.
+
+(6) Az (5) bekezdés alapján átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
+(7) Az (1) bekezdés alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az Áfa. tv. 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
 #### 6. Ingatlan ingyenes tulajdonba adása a Szír Ortodox Vallási Egyesület részére
 
@@ -184,7 +230,7 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 #### 9. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-11. § (1) A 3. § (2), (3) és (6) bekezdése, a 4. § (6) bekezdése, az 5. § (2) bekezdése, az 5/B. §,, a 8. § (4) bekezdése, a 153. §, a 155. §, a 156. § b–g) pontja, a 160. §, a 167. §, a 170. § (1) bekezdése, a 172. § b) pontja, a 173. §, a 175. §, a 176. §, a 178. § d) és g) pontja, a és a 10. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+11. § (1) A 3. § (2), (3) és (6) bekezdése, a 4. § (6) bekezdése, az 5. § (2) bekezdése, az 5/B. §, a 8. § (4) bekezdése, a 153. §, a 155. §, a 156. § b–g) pontja, a 160. §, a 167. §, a 170. § (1) bekezdése, a 172. § b) pontja, a 173. §, a 175. §, a 176. §, a 178. § d) és g) pontja, a és a 10. melléklet az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 153. §, a 155. § b) pontja, a 156. § f) pontja, a 160. §, a 163. §, a 164. § a) pontja, a 167. §, a 170. §, a 172. § b) pontja, a 173. §, a 175. §, a 178. § g) pontja, a 180. §, a 181. §, a 183. § a) pontja, a 184. §, a 186. §, a 187. §, a 190–192. §, 193. § (2) bekezdése, a 194. § (1) bekezdése, a 195. §, a 197. §, a 199. § a) pontja, a 200–202. §, a 205. § a) és c pontja, a 207. §, a 208. §, a 210. §, a 212. §, a 213. §, a 216. §, a 218. §, a 220. § és a 8–13. melléklete az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
@@ -844,12 +890,13 @@ lép.
 
 ### 2. melléklet a 2021. évi CI. törvényhez
 
-#### Az MTVA részére átadásra kerülő állami tulajdonú ingatlan
+#### Az MTVA részére átadásra kerülő állami tulajdonú ingatlanok
 
 |  | A | B | C | D |
 | --- | --- | --- | --- | --- |
 | 1. | Település, fekvés | Helyrajzi szám | magyar állam tulajdoni hányada | Megnevezés |
 | 2. | Budapest VI. kerület belterület, 1066 Budapest, Jókai u. 4. | 29038/3/A/5 | 1/1 | egyéb helyiség |
+| 3. | Budapest VI. kerület belterület, 1066 Budapest, Jókai u. 2. | 29038/2/A/4 | 1/1 | színház |
 
 ### 3. melléklet a 2021. évi CI. törvényhez
 
@@ -858,13 +905,13 @@ lép.
 |  | A | B | C | D |
 | --- | --- | --- | --- | --- |
 | 1. | TELEPÜLÉS | HELYRAJZI SZÁM | KIJELÖLÉSSEL ÉRINTETT ÁLLAMI TULAJDONI HÁNYAD | MEGNEVEZÉS |
-| 2. | Budapest VIII. kerület | 38721 | magyar állam 655/10000 tulajdonában álló ingatlan 2. emeletén az OMSZI által használt terület | kivett üzem |
+| 2. | Budapest VIII. kerület | 38721 | magyar állam 655/10000 tulajdonában álló ingatlan 2. emelete és 2 db parkolóhely | kivett üzem |
 | 3. | Budapest VI. kerület | 28317 | 1/1 | kivett szociális otthon, művészotthon |
 | 4. | Budapest V. kerület | 24141 | 1/1 | kivett szociális otthon |
 | 5. | Budapest II. kerület | 51584/1 | 1/1 | kivett idősek otthon |
 | 6. | Sopron | 7087/1 | 1/1 | kivett szociális intézmény |
-| 7. | Budapest XII. kerület | 9328 | 1/1 | kivett udvar és óvoda, bölcsőde |
-| 8. | Budapest XII. kerület | 6886/2 | 1/1 | kivett bölcsőde |
+| 7. |  |  |  |  |
+| 8. |  |  |  |  |
 | 9. | Budapest II. kerület | 12248 | 1/1 | kivett lakóház, udvar, egyéb épület |
 | 10. | Budapest II. kerület | 12239/2 | 1/1 | kivett lakóház, udvar |
 

@@ -1755,9 +1755,9 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 (2) Az olimpiai központok szakmai felügyeletét a MOB és az MPB közreműködésével a sportpolitikáért felelős miniszter látja el.
 
-(3) Az ingatlan-nyilvántartásban sporttelepként nyilvántartott állami tulajdonú ingatlanok a sportpolitikáért felelős miniszter által vezetett minisztérium előzetes egyetértésével adhatók ingyenesen önkormányzati tulajdonba.
+(3) Az ingatlan-nyilvántartásban sporttelepként nyilvántartott állami tulajdonú ingatlanok a sportpolitikáért felelős miniszter előzetes egyetértésével sportcélokra adhatóak ingyenesen tulajdonba.
 
-(4) Az önkormányzat az ingyenesen tulajdonba kapott, a tulajdonátruházás időpontjában az ingatlan-nyilvántartásban sporttelepként nyilvántartott állami tulajdonban lévő ingatlant a tulajdonszerzést követő 15 évig köteles elsődlegesen sportcélokra használni, és ezt az ingatlan másodlagos jellegű hasznosítása sem veszélyeztetheti. Az ingyenesen történt tulajdonszerzést követő 15 évig az önkormányzat az ingatlant csak a sportpolitikáért felelős miniszter által vezetett minisztérium egyetértésével terhelheti meg.
+(4) Az ingyenesen tulajdonba kapott, a tulajdonátruházás időpontjában az ingatlan-nyilvántartásban sporttelepként nyilvántartott állami tulajdonban lévő ingatlant a tulajdonszerző a tulajdonszerzést követő 15 évig köteles elsődlegesen sportcélokra használni, és ezt az ingatlan másodlagos jellegű hasznosítása sem veszélyeztetheti.
 
 (5) Állami tulajdonban lévő sportcélú ingatlan értékesítésére csak a sportpolitikáért felelős miniszter által vezetett minisztérium egyetértésével kerülhet sor.
 

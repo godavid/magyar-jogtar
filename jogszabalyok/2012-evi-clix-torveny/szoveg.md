@@ -175,7 +175,7 @@ nyújtja.
 - a) a postai szolgáltatással kapcsolatos általános szerződési feltételeket;
 - b) amennyiben a bejelentő az általános szerződési feltételekben olyan többletszolgáltatás nyújtását is vállalja, amely más hatóság engedélyéhez vagy nyilvántartásba vételéhez is kötött, úgy az engedélyt vagy a bejelentőre vonatkozó harminc napnál nem régebbi okirati igazolást arról, hogy nyilvántartásba vétele megtörtént;
 - c) bejelentő által alkalmazandó – a postai szolgáltató azonosítására alkalmas – jelzés mintáját;
-- d) annak a központi ügyfélszolgálatnak az elérhetőségét (különösen: cím, telefonszám és internet), ahol a felhasználók a szolgáltatásokkal kapcsolatosan érdeklődhetnek, panaszt tehetnek, és ahol kártérítési igényüket bejelenthetik;
+- d) annak a központi ügyfélszolgálatnak az elérhetőségét (különösen: cím, telefonszám, e-mail és internetes honlap), ahol a felhasználók a szolgáltatásokkal kapcsolatosan érdeklődhetnek, panaszt tehetnek, és ahol kártérítési igényüket bejelenthetik;
 - e) a titkos információgyűjtés folytatására, illetve leplezett eszközök alkalmazására feljogosított szervezetekkel való együttműködés teljesítésére vonatkozó nyilatkozatot;
 - f) a postai szolgáltatás normál üzemmenetéhez szükséges technológiai folyamatok leírását, különös tekintettel a bejelentő által nyújtani kívánt szolgáltatások –értelmező rendelkezésekben foglalt technológiai elemek részletes bemutatására;
 - g) a 8. § (3) bekezdés f) pontja szerinti szolgáltatás nyújtása esetén az egyedi szerződés tervezetét és a 8. § (4) bekezdésében foglalt körülmények fennállásával kapcsolatos jogi álláspontját;
@@ -1137,7 +1137,7 @@ köteles megőrizni.
 - b) a postai szolgáltatók által nyújtott szolgáltatás kategória megnevezését e törvény alapján,
 - c) a szolgáltató által alkalmazandó – a postai szolgáltató azonosítására is alkalmas – jelzés mintáját,
 - d) a szolgáltatás nyújtásának földrajzi (közigazgatási) területét,
-- e) a szolgáltató által az engedélyben, illetve bejelentésben megjelölt központi ügyfélszolgálatnak az elérhetőségét (cím, telefonszám, e-mail, internet),
+- e) a szolgáltató által az engedélyben, illetve bejelentésben megjelölt központi ügyfélszolgálatnak az elérhetőségét (különösen: cím, telefonszám, e-mail és internetes honlap),
 - f) a jogszabályban meghatározott egyéb adatot.
 
 ### IX. Fejezet — ZÁRÓ RENDELKEZÉSEK

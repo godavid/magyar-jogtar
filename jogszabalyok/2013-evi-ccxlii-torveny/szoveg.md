@@ -52,6 +52,10 @@ e törvény erejénél fogva mint közfeladat ellátásához szükséges ingatla
 
 (4) A vagyonkezelő a vagyonkezelésében lévő bármely vagyonelem harmadik személy részére történő hasznosítása során jogosult díjfizetési kötelezettséget előírni. A hasznosítási tevékenységből származó bevétel teljes mértékben a vagyonkezelőt illeti meg azzal, hogy köteles a hasznosításból származó bevételt a vagyonkezelésében lévő vagyonelemek fenntartására fordítani.
 
+2/B. § (1) Az 1. § (1) bekezdése és az 1. § (1a) bekezdés a) pont aa) alpontja szerinti ingatlanok tekintetében a létesítménygazdálkodási tevékenység állami feladat, amelynek ellátása a vagyonkezelő feladata. E létesítménygazdálkodási feladatot az állam a 2/A. § (4) bekezdése szerinti bevétel figyelembevételével finanszírozza.
+
+(2) A vagyonkezelő az (1) bekezdésben foglaltakon túl ellátja a vagyonkezelésében lévő muzeális intézményekben elhelyezett kiemelt jelentőségű nemzeti, kulturális értékek védelmére vonatkozó állami feladatot a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény rendelkezései szerint.
+
 3. § (1) A vagyonkezelő vagyonkezelői joga fennállásának időtartama alatt a vagyonkezelő által a városligeti ingatlanon felépített építmény önálló ingatlanként, e törvény erejénél fogva az állam 100%-os tulajdonába kerül.
 
 (2) A vagyonkezelő vagyonkezelői joga fennállásának időtartama alatt a városligeti ingatlanon – e törvény hatálybalépésekor – fennálló építményeknek a vagyonkezelő általi átalakítása, bővítése, felújítása, korszerűsítése (a továbbiakban együtt: építési tevékenység) esetén az építési tevékenységgel érintett építményrész az egész ingatlan értékéből az épített részre eső érték arányában az állam tulajdonába kerül.
@@ -100,6 +104,8 @@ tekintetében a feladatait az állam nevében és javára eljárva látja el. A 
 (5) Ha a közmű tulajdonosa neki felróható módon a (2) bekezdés szerinti értesítésben szereplő közműszakaszt érintő munka elvégzésére vagy elvégeztetésére vonatkozó kötelezettségét késedelmesen teljesíti, vagy egyébként nem megfelelő módon végzi vagy végezteti el azt, köteles az ezzel okozott kárt a polgári jog általános szabályai szerint megtéríteni.
 
 (6) A közmű tulajdonosa által elvégzett, a közműszakaszt érintő munka indokolt költségeit az építtető a közmű tulajdonosának köteles megfizetni. Ha a közműszakaszt érintő munkára a műszakilag feltétlenül szükséges mértéket meghaladóan került sor, akkor a műszakilag feltétlenül szükséges mértéket meghaladó munkák költségét a közmű tulajdonosa köteles megtéríteni illetve viselni. Az építtető által létrehozott közmű – a közmű műszaki átadás-átvételi eljárása eredményes lezárását követően – e törvény erejénél fogva, ingyenesen, az építtető által nyilvántartott nyilvántartási értéken való átvezetéssel az (1) bekezdés szerinti közműtulajdonos tulajdonába, a víziközmű az ellátásért felelős Budapest Főváros Önkormányzat tulajdonába és a közmű üzemeltetőjének üzemeltetésébe kerül.
+
+(7) Az építtetőnek a vagyonkezelésében lévő felhasználási helyek tekintetében nem kell víziközmű-fejlesztési hozzájárulást fizetnie.
 
 4. § A 3. § (1) bekezdése szerint felépített építmények a használatbavételi engedély véglegessé válásának vagy a használatbavétel tudomásulvételének időpontjától e törvény erejénél fogva nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülnek.
 

@@ -2548,9 +2548,11 @@ minősül, amelyet az erdészeti hatóság 2017. december 31-ig az Adattáron á
 
 (24) Az önerdősülés útján létrejött, az Adattárban e törvény hatálybalépését követően hivatalból nyilvántartásba vett erdőt az erdészeti hatóság a tulajdonos, közös tulajdon esetén a tulajdonosok tulajdoni hányad alapján számított kétharmadának hozzájárulásával az erdőgazdálkodó, erdőgazdálkodó hiányában az erdő használatára jogosult kezdeményezésére átminősíti szabad rendelkezésű erdővé. Az átminősítés kezdeményezésére a módosító törvény hatálybalépését követő négy éven belül van lehetőség. A nem erdő művelési ágú területek esetében, ha a megadott határidő lejártáig az adott területen nincs erdőgazdálkodó, a terület adattári nyilvántartásáról való tudomásszerzést követően a módosító törvény hatálybalépését követő öt éven belül van lehetőség.
 
-(25) Az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény 13. § (4) bekezdés a) pontja alapján, valamint az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény hatálybalépését megelőzően megkötött megbízási szerződést bármelyik fél 60 napos felmondási idővel felmondhatja.
+(25) Az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény 13. § (4) bekezdés a) pontja alapján, vagy 2021. december 31. napját megelőzően megkötött megbízási szerződést bármelyik fél 60 napos felmondási idővel felmondhatja.
 
 (25a) A (25) bekezdés szerinti szerződések 2021. december 31-én hatályukat vesztik, az ilyen jogcímen fennálló bejegyzéseket az erdészeti hatóság törli az erdőgazdálkodói nyilvántartásból.
+
+(25b) A (25a) bekezdéstől eltérően, ha 2021. december 31. napján a (25) bekezdés szerinti szerződéssel érintett földrészlet vonatkozásában az erdőgazdálkodó az Európai Unió Közös Agrárpolitikája forrásaiból eredő támogatási jogviszony alanya, a támogatással érintett földrészletre vonatkozó megbízási szerződés – ha a szerződő felek a szerződést korábban nem szüntetik meg – ezen támogatási jogviszony lejárta napján veszti hatályát. A támogatási jogviszony megszűnésekor az ilyen címen fennálló bejegyzéseket az erdészeti hatóság törli az erdőgazdálkodói nyilvántartásból.
 
 (26) A módosító törvény hatálybalépésekor az Adattárban nyilvántartott erdő természetességi állapotára vonatkozó alapelvárásnak az erdő Adattárban nyilvántartott természetességi állapota minősül, amelyet az erdészeti hatóság 2017. december 31-ig az Adattáron átvezet.
 

@@ -43,7 +43,7 @@ Annak érdekében, hogy a központi költségvetési forrásból és európai un
 
 5. § (1) A kiemelt budapesti fejlesztések megvalósítása során az építtető a vagyonkezelésében lévő ingatlanon a vagyonkezelési jog alapján beruházási és felújítási tevékenységet is végezhet.
 
-(2) Az (1) bekezdésben megjelölt beruházás során az építtető az állam nevében és javára jár el, a beruházás során létrehozott vagyon az állam tulajdonába kerül.
+(2) Az (1) bekezdésben megjelölt beruházás során az építtető az állam érdekében, saját nevében és az állam javára jár el, a beruházás során létrehozott vagyon az állam tulajdonába kerül.
 
 (3) Amennyiben az (1) bekezdés szerinti beruházás nem az állam tulajdonában álló ingatlanon valósul meg, úgy az építtető köteles az ingatlan tulajdonosával a beruházási szerződés keretei között rendezni a beruházás eredményeképpen létrejövő vagyon vonatkozásában a tulajdoni hányadok megállapításának módját.
 
@@ -260,9 +260,9 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 
 (3) A 23–25. §, a 30. § és a 33. § Magyarország filmszakmai támogatási programjáról szóló SA.36579 számú határozattal meghosszabbított N 202/2008. számú és az azt módosító SA.38425 számú és SA.50768 számú európai bizottsági határozat hatálya alá tartozó támogatást tartalmaz.
 
-#### 12. Módosító rendelkezések
+23. § E törvénynek az egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongazdálkodást és nemzeti pénzügyi szolgáltatásokat érintő törvények módosításáról szóló 2021. évi CXXXIII. törvénnyel (a továbbiakban: Módtv.) megállapított 2. mellékletét a Módtv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
-23. §
+#### 12. Módosító rendelkezések
 
 24. §
 
@@ -314,15 +314,49 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 | 13 | 12 | 651513.36 | 235313.03 |
 | 14 | 13 | 651581.79 | 235308.19 |
 | 15 | 14 | 651642.96 | 235310.40 |
-| 16 | 15 | 651651.24 | 235208.52 |
-| 17 | 16 | 651618.12 | 235200.28 |
-| 18 | 17 | 651621.28 | 235187.41 |
-| 19 | 18 | 651623.22 | 235173.66 |
-| 20 | 19 | 651620.98 | 235156.91 |
-| 21 | 20 | 651607.66 | 235119.51 |
-| 22 | 21 | 651574.55 | 235050.52 |
-| 23 | 22 | 651537.77 | 235002.89 |
-| 24 | 23 | 651447.01 | 234880.50 |
+| 16 | 15 | 651649.66 | 235227.92 |
+| 17 | 16 | 651650.85 | 235227.72 |
+| 18 | 17 | 651653.12 | 235205.93 |
+| 19 | 18 | 651647.75 | 235205.30 |
+| 20 | 19 | 651638.22 | 235203.83 |
+| 21 | 20 | 651627.13 | 235201.13 |
+| 22 | 21 | 651615.95 | 235198.81 |
+| 23 | 22 | 651604.78 | 235196.48 |
+| 24 | 23 | 651593.79 | 235193.37 |
+| 25 | 24 | 651585.61 | 235195.80 |
+| 26 | 25 | 651584.34 | 235191.52 |
+| 27 | 26 | 651579.37 | 235190.00 |
+| 28 | 27 | 651568.45 | 235186.68 |
+| 29 | 28 | 651538.89 | 235169.39 |
+| 30 | 29 | 651527.61 | 235167.64 |
+| 31 | 30 | 651516.27 | 235166.38 |
+| 32 | 31 | 651504.91 | 235165.12 |
+| 33 | 32 | 651505.49 | 235159.97 |
+| 34 | 33 | 651495.12 | 235154.95 |
+| 35 | 34 | 651484.97 | 235149.73 |
+| 36 | 35 | 651474.83 | 235144.50 |
+| 37 | 36 | 651471.64 | 235142.86 |
+| 38 | 37 | 651461.54 | 235137.53 |
+| 39 | 38 | 651451.45 | 235132.20 |
+| 40 | 39 | 651449.79 | 235131.32 |
+| 41 | 40 | 651447.64 | 235130.06 |
+| 42 | 41 | 651436.93 | 235123.78 |
+| 43 | 42 | 651435.67 | 235123.04 |
+| 44 | 43 | 651435.85 | 235122.74 |
+| 45 | 44 | 651431.78 | 235119.45 |
+| 46 | 45 | 651428.94 | 235115.12 |
+| 47 | 46 | 651420.02 | 235095.50 |
+| 48 | 47 | 651416.39 | 235090.78 |
+| 49 | 48 | 651345.09 | 235032.33 |
+| 50 | 49 | 651281.40 | 234962.97 |
+| 51 | 50 | 651278.68 | 234959.29 |
+| 52 | 51 | 651191.93 | 234811.40 |
+| 53 | 52 | 651186.06 | 234800.99 |
+| 54 | 53 | 651183.39 | 234788.40 |
+| 55 | 54 | 651188.29 | 234776.65 |
+| 56 | 55 | 651199.46 | 234763.24 |
+| 57 | 56 | 651205.56 | 234755.92 |
+| 58 | 57 | 651213.64 | 234746.22 |
 
 ### 3. melléklet a 2018. évi XLIX. törvényhez
 

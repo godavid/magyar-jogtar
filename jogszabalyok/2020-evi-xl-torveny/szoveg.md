@@ -80,6 +80,8 @@ foglaltak szerint jár el.
 
 (3) A Nemzeti Földalap kezeléséért felelős szervnek 2021. december 31-ig az (1) bekezdés szerinti vételi jog gyakorlására figyelemmel kell lennie a földrészlet hasznosítási módjának meghatározása során.
 
+(4) Védett természeti területnek minősülő földrészlet esetében a vételi jog gyakorlásának feltétele a földügyért felelős miniszter hozzájárulása a földrészletnek az állami tulajdonból történő kikerüléséhez. A hozzájárulás nem tagadható meg akkor, ha a vételi jogot gyakorlóval szemben a joggyakorlást megelőző tíz éven belül nem állapították meg környezetkárosítás vagy természetkárosítás bűntettét, vagy természetvédelmi szabálysértés miatt a felelősségét, továbbá természetvédelmi bírság nem került vele szemben kiszabásra. Az (1) bekezdés szerinti határidőt megtartottnak kell tekinteni, ha a vételi jog gyakorlására és a miniszter hozzájárulásának kezdeményezésére a joggyakorló által a határidőben került sor.
+
 #### 2. Záró rendelkezések
 
 9. § Felhatalmazást kap a Kormány, hogy a termelőszövetkezeti szövetkezeti földhasználati jog alatt álló ingatlanok állami tulajdonba kerülésével kapcsolatban a részarány-tulajdonosok kártalanítására vonatkozó szabályokat rendeletben állapítsa meg.
