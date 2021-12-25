@@ -14,9 +14,9 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 - b) az a) pont hatálya alá nem tartozó mindazon vagyon, amely vonatkozásában törvény az állam kizárólagos tulajdonjogát nevesíti,
 - c) az állam tulajdonában lévő tagsági jogviszonyt megtestesítő értékpapír, illetve az államot megillető egyéb társasági részesedés,
 - d) az államot megillető olyan immateriális, vagyoni értékkel rendelkező jogosultság, amelyet jogszabály vagyoni értékű jogként nevesít,
-- e) az állam tulajdonában lévő pénzügyi eszközök.
+- e) az állam tulajdonában álló a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény szerinti pénzügyi eszköz.
 
-(2a) A (2) bekezdés e) pontja szerinti pénzügyi eszközökre e törvény hatálya kizárólag a (6a) bekezdés és a 35. § (2a) bekezdés tekintetében terjed ki.
+(2a) A (2) bekezdés e) pontja szerinti pénzügyi eszközökre e törvény hatálya kizárólag a (6a) bekezdés, a 3. § (2a) bekezdése, a 35. § (2a) bekezdése és a 71. § (2) bekezdés b) pontja tekintetében terjed ki.
 
 (3) Külön törvény rendelkezik:
 
@@ -57,7 +57,7 @@ gyakorolja.
 
 (2b)
 
-(3) Az állami vagyon meghatározott köre felett tulajdonosi jogokat és kötelezettségeket a (2a) bekezdés alapján az állam nevében gyakorló személy e tevékenységét e törvény és végrehajtási rendelete, valamint a (2a) bekezdés szerinti miniszteri rendelet szabályai szerint végezheti azzal, hogy a tulajdonosi joggyakorlással érintett állami vagyon tulajdonjogának átruházására, arra vételi jog, elővásárlási jog szerződéssel történő alapítására, annak biztosítékul adására és más módon való megterhelésére az (1) bekezdés alapján az MNV Zrt. jogosult.
+(3) Az állami vagyon meghatározott köre felett tulajdonosi jogokat és kötelezettségeket a (2a) bekezdés alapján az állam nevében gyakorló személy e tevékenységét e törvény és az e törvény végrehajtási rendelete szerint végezheti azzal, hogy a tulajdonosi joggyakorlással érintett állami vagyon tulajdonjogának átruházására, továbbá arra vételi jog, elővásárlási jog szerződéssel történő alapítására, annak biztosítékul adására és más módon való megterhelésére az (1) bekezdés alapján az MNV Zrt. jogosult. A tulajdonosi joggyakorlással érintett társasági részesedés 100%-ban állami tulajdonban álló gazdasági társaság részére nem pénzbeli vagyoni hozzájárulásként történő szolgáltatására az MNV Zrt. meghatalmazást adhat a (2a) bekezdés szerint kijelölt tulajdonosi joggyakorló részére.
 
 (3a) Ha az állami részesedéssel működő gazdasági társaságban az állam nevében tulajdonosi (tagsági, részvényesi, alapítói) jogokat gyakorló személy ezen jogait az Nvtv. 8. § (7) bekezdése alapján az MNV Zrt.-vel kötött szerződés alapján gyakorolja, úgy az MNV Zrt. előzetes engedélyét köteles kérni állami vagyon nem pénzbeli hozzájárulásként való szolgáltatásához, a tőkeemeléshez, a nem kötelező tőkeleszállításhoz, a gazdálkodó szervezet végelszámolással történő megszüntetéséhez vagy átalakulásához, egyesüléséhez, szétválásához.
 
@@ -89,7 +89,31 @@ gyakorolja.
 
 ### II. Fejezet
 
-6–16. §
+#### 6. §
+
+#### 7. §
+
+#### 8. §
+
+#### 8/A. §
+
+#### 9. §
+
+#### 10. §
+
+#### 11. §
+
+#### 12. §
+
+#### 12/A. §
+
+#### 13. §
+
+#### 14. §
+
+#### 15. §
+
+#### 16. §
 
 ### III. Fejezet — AZ MNV ZRT. FELADATAI, JOGÁLLÁSA, SZERVEZETE
 
@@ -507,7 +531,9 @@ vonhat be.
 - a) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv részére állami elhelyezési célú ingatlanhasználati jogviszony keretében használatba adott, többségében irodai funkciót ellátó, Magyarország területén található, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 11–13. §-a szerinti önálló ingatlan, ahol az ingatlanon fekvő összes építmény valamennyi helyiségét együttesen figyelembe véve megállapítható, hogy azok – hasznos alapterületük összessége alapján számított – többsége irodai rendeltetésű vagy azok tényleges hasznosítása irodai célokat szolgál,
 - b) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv részére állami elhelyezési célú ingatlanhasználati jogviszony keretében használatba adott olyan oktatási, üdültetési vagy egyéb rekreációs célt szolgáló, Magyarország területén található ingatlan, amely nem a költségvetési szerv szakmai alapfeladataként meghatározott tevékenység ellátását biztosítja.
 
-### Állami tulajdonú gazdasági társaságokés más gazdálkodó szervezetek
+### Állami tulajdonú gazdasági társaságok
+
+és más gazdálkodó szervezetek
 
 29. § (1) Az állam – a törvényes képviseletét ellátó szerv útján – csak olyan gazdálkodó szervezetben vehet részt, illetve olyan gazdálkodó szervezetet alapíthat, amelyben felelőssége nem haladja meg vagyoni hozzájárulásának mértékét.
 
@@ -535,9 +561,9 @@ vonhat be.
 
 (7)
 
-31. §
+#### 31. §
 
-32. §
+#### 32. §
 
 ### V. Fejezet — AZ ÁLLAMI VAGYON ELIDEGENÍTÉSÉNEK SZABÁLYAI
 
@@ -550,6 +576,8 @@ vonhat be.
 (1b) Az állami vagyon változásával kapcsolatos nyilvántartási kötelezettségeinek a 28/A. § (8) bekezdése szerinti feladatok ellátásába bevont központi költségvetési szerv az MNV Zrt.-vel kötött megállapodásban foglalt adatszolgáltatási kötelezettségének teljesítésével tesz eleget.
 
 (2) Központi költségvetési szerv vagyonkezelő a működéséhez már nem szükséges, az Nvtv. 11. § (6) bekezdése szerinti immateriális jószágokat, tárgyi eszközöket, készleteket – amennyiben azok egyedi, könyv szerinti bruttó értéke az éves költségvetési törvényben meghatározott értékhatárt nem haladja meg – kizárólag a tulajdonosi joggyakorlóval kötött megbízási szerződés alapján, az állam nevében és javára értékesítheti a 34–35. § alkalmazásával. Az értékesítésből származó bevétel a vagyonkezelő központi költségvetési szervet illeti meg.
+
+(3) Központi költségvetési szerv vagyonkezelő a részére megbízási, vállalkozási vagy felhasználási jogviszony keretében előállított, az Nvtv. 11. § (6) bekezdése szerinti immateriális jószágokat, tárgyi eszközöket, készleteket – ha azok egyedi, könyv szerinti bruttó értéke az ötvenezer forintot nem haladja meg – a tulajdonosi joggyakorlóval kötött megbízási szerződés alapján, az állam nevében és javára értékesítheti a 34. § és a 35. § alkalmazásával. Az értékesítésből származó bevétel a vagyonkezelő központi költségvetési szervet illeti meg.
 
 34. § (1) Az értékesítést a vagyontárgy jellegétől függően
 
@@ -632,6 +660,8 @@ lehet végezni.
 - f) az MNV Zrt. által peres eljárásban kötött, bíróság által jóváhagyott egyezség keretében állami vagyonba tartozó dolog tulajdonjogáról való lemondás esetén,
 - g) egyház, egyházi jogi személy hitéleti feladatai elősegítése vagy az általa végzett állami – így különösen oktatási, szociális, család-, gyermek- és ifjúságvédelmi, kulturális – feladatok ellátásának elősegítése érdekében.
 
+(2a) Az ingatlan-nyilvántartásban sporttelepként nyilvántartott állami tulajdonban álló ingatlanok kizárólag sportcélokra adhatóak ingyenesen tulajdonba.
+
 (3) A (2) bekezdés szerinti ingyenes átruházásról – a (6)–(8) bekezdésben foglalt kivétellel – a Kormány nyilvános határozattal dönt.
 
 (4) A (2) bekezdés c), e) és g) pontja, valamint a (7) bekezdés alapján ingyenesen átruházható vagyontárgyak összesített értéke évente nem haladhatja meg az adott évi költségvetési törvényben meghatározott keretösszeget.
@@ -658,15 +688,17 @@ lehet végezni.
 
 (3) Osztatlan közös tulajdonban álló védett természeti terület esetében az MNV Zrt. tulajdonosi joggyakorlása alá tartozó tulajdoni hányad értékesítésére akkor van lehetőség, ha a földrészlet tekintetében az állam kisebbségi tulajdonostársnak minősül és olyan tulajdonostárstól érkezik a vételi ajánlat, aki az ajánlata megtételekor legalább 3 éve tulajdoni hányaddal rendelkezik.
 
-38. §
+38. § (1) Központi költségvetési szerv vagyonkezelő – a feladatellátásához kapcsolódóan – jogosult a megbízási, vállalkozási vagy felhasználási jogviszony keretében részére előállított, az Nvtv. 11. § (6) bekezdése szerinti ingóságok tulajdonjogának ingyenes átruházására, ha azok egyedi, könyv szerinti bruttó értéke az ötvenezer forintot nem haladja meg.
 
-39. §
+(2) A központi költségvetési szerv az (1) bekezdés szerinti vagyonátruházásról évente tájékoztatja az MNV Zrt.-t.
 
-40. §
+#### 39. §
 
-41. §
+#### 40. §
 
-42. §
+#### 41. §
+
+#### 42. §
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -722,7 +754,7 @@ c) a helyi önkormányzat korlátozottan forgalomképes és forgalomképes vagyo
 
 (2) Az NFA tv. 3. §-ának helyébe a következő rendelkezés lép:
 
-3. § „A Nemzeti Földalap felett a Magyar Állam nevében a tulajdonosi jogok és kötelezettségek összességét a Nemzeti Vagyongazdálkodási Tanács (a továbbiakban: Tanács) gyakorolja, feladatait az MNV Zrt. útján, annak ügyvezető szerveként látja el.”
+„3. § „A Nemzeti Földalap felett a Magyar Állam nevében a tulajdonosi jogok és kötelezettségek összességét a Nemzeti Vagyongazdálkodási Tanács (a továbbiakban: Tanács) gyakorolja, feladatait az MNV Zrt. útján, annak ügyvezető szerveként látja el.”
 
 (3) Az NFA tv. 4. §-ának (6) bekezdése helyébe a következő rendelkezés lép:
 
@@ -736,7 +768,7 @@ a) az állami tulajdonban lévő termőföld, valamint a mezőgazdasági termel�
 
 (5) Az NFA tv. 7. §-a helyébe a következő rendelkezés lép:
 
-7. § „(1) E törvény erejénél fogva a Nemzeti Földalapba kerül az állam által bármely jogcímen megszerzett termőföld.
+„7. § „(1) E törvény erejénél fogva a Nemzeti Földalapba kerül az állam által bármely jogcímen megszerzett termőföld.
 
 (2) Nem kerül a Nemzeti Földalapba az a földrészlet, amelynek a Magyar Állam által történő megszerzésére országos közút megépítése érdekében került sor.
 
@@ -744,7 +776,7 @@ a) az állami tulajdonban lévő termőföld, valamint a mezőgazdasági termel�
 
 (6) Az NFA tv. 11. §-a helyébe a következő rendelkezés lép:
 
-11. § „Az MNV Zrt. a székhelyén, az internetes honlapján, az agrárpolitikáért felelős miniszter által vezetett minisztérium hivatalos lapjában, valamint a földrészlet fekvése szerinti települési (fővárosban a kerületi) önkormányzat polgármesteri hivatalánál történő kifüggesztés útján rendszeresen közzéteszi a Nemzeti Földalapba tartozó értékesítésre, vagyonkezelésre vagy haszonbérbeadásra szánt földrészletek jegyzékét.”
+„11. § „Az MNV Zrt. a székhelyén, az internetes honlapján, az agrárpolitikáért felelős miniszter által vezetett minisztérium hivatalos lapjában, valamint a földrészlet fekvése szerinti települési (fővárosban a kerületi) önkormányzat polgármesteri hivatalánál történő kifüggesztés útján rendszeresen közzéteszi a Nemzeti Földalapba tartozó értékesítésre, vagyonkezelésre vagy haszonbérbeadásra szánt földrészletek jegyzékét.”
 
 (7) Az NFA tv. 13. §-ának (2) bekezdése helyébe a következő rendelkezés lép:
 
@@ -756,7 +788,7 @@ a) az állami tulajdonban lévő termőföld, valamint a mezőgazdasági termel�
 
 (9) Az NFA tv. 15. §-ának helyébe a következő rendelkezés lép:
 
-15. § „A termőföld értékesítésére, illetve haszonbérletére irányuló pályázati felhívás kiírásának, valamint elbírálásának részletes szabályait az MNV Zrt. által kiadott és az agrárpolitikáért felelős miniszter által – az NFA ellenőrző bizottság véleménye figyelembevételével – jóváhagyott szabályzat határozza meg. A szabályzatot a Magyar Közlönyben, valamint az MNV Zrt.-nek az ügyfélforgalom számára nyitva álló helyiségében közzé kell tenni.”
+„15. § „A termőföld értékesítésére, illetve haszonbérletére irányuló pályázati felhívás kiírásának, valamint elbírálásának részletes szabályait az MNV Zrt. által kiadott és az agrárpolitikáért felelős miniszter által – az NFA ellenőrző bizottság véleménye figyelembevételével – jóváhagyott szabályzat határozza meg. A szabályzatot a Magyar Közlönyben, valamint az MNV Zrt.-nek az ügyfélforgalom számára nyitva álló helyiségében közzé kell tenni.”
 
 46. § A koncesszióról szóló 1991. évi XVI. törvény 12. §-a a következő (4) bekezdéssel egészül ki:
 
@@ -766,11 +798,11 @@ a) az állami tulajdonban lévő termőföld, valamint a mezőgazdasági termel�
 
 „(1) Felhatalmazást kap a Kormány, hogy a központi költségvetési szervekkel szolgálati, köztisztviselői, közalkalmazotti és egyéb munkaviszonyban, valamint más címen foglalkoztatási jogviszonyban álló személyek elhelyezéséhez szükséges lakásokra, illetőleg helyiségekre (ideértve a bérlőkijelölési vagy bérlő-kiválasztási jog gyakorlását is), – e törvény keretei között – rendeletben határozza meg:”
 
-48. §
+#### 48. §
 
 49. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 26. §-ának helyébe a következő rendelkezés lép:
 
-26. § „Az országos, valamint az állami tulajdonban lévő vasúti pályát tartalmazó térségi, illetve elővárosi vasúti pályahálózatot működtető pályavasúti társaság, illetve az integrált vasúti társaság a vagyonkezelési szerződést a miniszter és az állami vagyon felügyeletéért felelős miniszter egyetértésével – a vonatkozó jogszabályok alapján – az állam nevében eljáró Magyar Nemzeti Vagyonkezelő Zrt.-vel köti meg.”
+„26. § „Az országos, valamint az állami tulajdonban lévő vasúti pályát tartalmazó térségi, illetve elővárosi vasúti pályahálózatot működtető pályavasúti társaság, illetve az integrált vasúti társaság a vagyonkezelési szerződést a miniszter és az állami vagyon felügyeletéért felelős miniszter egyetértésével – a vonatkozó jogszabályok alapján – az állam nevében eljáró Magyar Nemzeti Vagyonkezelő Zrt.-vel köti meg.”
 
 50. § (1) A sportról szóló 2004. évi I. törvény (a továbbiakban: Spt.) 49. §-ának i) pontja helyébe a következő rendelkezés lép:
 
@@ -866,11 +898,11 @@ lép.
 
 (2)
 
-58. §
+#### 58. §
 
 ### Átmeneti rendelkezések
 
-59. §
+#### 59. §
 
 60. § (1) Az ÁPV Zrt. 2007. december 31-én megszűnik, jogai és kötelezettségei ezen időponttól az MNV Zrt.-re szállnak. A jogok és kötelezettségek átszállása nem minősül az ÁPV Zrt. által kötött szerződések módosításának. Az ÁPV Zrt.-vel szembeni követelések a jogutódlás szempontjából biztosítékokkal ellátott követeléseknek minősülnek.
 
@@ -890,11 +922,11 @@ lép.
 
 (5)
 
-62. §
+#### 62. §
 
-63. §
+#### 63. §
 
-64. §
+#### 64. §
 
 65. § (1) Ahol az ingatlan-nyilvántartás az ÁPV Zrt.-t, a KVI-t mint tulajdonosi joggyakorlót, illetve vagyonkezelőt tünteti fel, ezen az MNV Zrt.-t kell érteni.
 

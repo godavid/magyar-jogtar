@@ -84,6 +84,11 @@ Magyarország Alaptörvénye rögzíti, hogy az állam és a helyi önkormányza
 - k) a rádióspektrum, valamint az elektronikus hírközlő hálózat működéséhez, az elektronikus hírközlési szolgáltatások nyújtásához vagy az elektronikus hírközlőhálózatok és szolgáltatások együttműködéséhez szükséges, az információ vagy a jelzés célba juttatására szolgáló, annak címzettjét meghatározó betűkből, számokból vagy jelekből álló karaktersorozat,
 - l) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény szerinti biztonsági földgáztároló.
 
+(1a) Az állam kizárólagos tulajdonába tartozik – tekintettel az Országház rendeltetésszerű működtetéséhez szükséges műszaki kapcsolatára –
+
+- a) a természetben a Budapest V. kerület Balassi Bálint utca 1–5. szám alatt található Tisza Lajos Irodaház,
+- b) az id. Antall József rakpart állami tulajdonban álló szakasza.
+
 (2) Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősül a 2. mellékletben meghatározott, valamint külön törvényben vagy kormányrendeletben ekként meghatározott állami tulajdonban álló vagyonelem.
 
 (3)
@@ -158,7 +163,7 @@ Magyarország Alaptörvénye rögzíti, hogy az állam és a helyi önkormányza
 
 (6) Az 1. § (2) bekezdés a) pontja hatálya alá és nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonba nem tartozó vagyonelem, amely felett a rendelkezési jog gyakorlását jogszabály feltételhez köti – állami vagyon tekintetében kincstári vagyonként, a helyi önkormányzat vagyona tekintetében törzsvagyonként – korlátozottan forgalomképes nemzeti vagyonnak minősül.
 
-(7) A 2. melléklet II. pont d) alpontja szerinti nemzeti vagyon az állam és a helyi önkormányzat között átruházható.
+(7)
 
 (8) Az olyan – pályázat alapján megkötött – szerződés, amelynek nemzeti vagyon a tárgya, a pályázati kiírástól, illetve a nyertes pályázattól eltérő tartalommal nem módosítható, kivéve a szerződés időtartama jogszabályban meghatározott meghosszabbításának esetét.
 
@@ -255,7 +260,7 @@ jóváhagyó határozata szükséges.
 
 (5) A vagyonkezelői jog kivételesen törvényben történő kijelöléssel, a törvényben megjelölt – a 3. § (1) bekezdés 19. pontjában felsoroltak körébe tartozó – személyekkel, vagy a törvényben egyedileg meghatározott jogi személlyel jön létre. Az állam és a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon, a 2. mellékletben meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon, valamint az állam és a helyi önkormányzat kizárólagos gazdasági tevékenysége tekintetében a 3. § (1) bekezdés 19. pont a) alpont aa)–ag) alpontjában, valamint b) és c) alpontjában felsorolt személyeken kívül kijelölés nem alkalmazható.
 
-(6) Központi költségvetési szerv a működéséhez szükséges, az államháztartás számviteléről szóló kormányrendelet szerinti immateriális jószág, tárgyi eszköz (különösen műszaki berendezés, gép, felszerelés, készlet) valamint egyéb ingóság megvásárlására – ingatlan kivételével – adásvételi szerződést köthet. Ezen vagyonelem e törvény erejénél fogva az állam tulajdonába és vagyonkezelési szerződés megkötése nélkül a központi költségvetési szerv vagyonkezelésébe és a fennálló vagyonkezelési szerződése hatálya alá kerül azzal, hogy a központi költségvetési szerv köteles – a vagyon-nyilvántartási szabályoknak megfelelő – írásbeli nyilatkozattal bejelenteni a tulajdonosi joggyakorló felé a fennálló vagyonkezelési szerződése hatálya alá került új vagyonelemet.
+(6) Központi költségvetési szerv a működéséhez szükséges, az államháztartás számviteléről szóló kormányrendelet szerinti immateriális jószág, tárgyi eszköz (különösen műszaki berendezés, gép, felszerelés, készlet) valamint egyéb ingóság megvásárlására – ingatlan kivételével – adásvételi, előállítására megbízási, vállalkozási vagy felhasználási szerződést köthet. Ezen vagyonelem e törvény erejénél fogva az állam tulajdonába és vagyonkezelési szerződés megkötése nélkül a központi költségvetési szerv vagyonkezelésébe és a fennálló vagyonkezelési szerződése hatálya alá kerül azzal, hogy a központi költségvetési szerv köteles – a vagyon-nyilvántartási szabályoknak megfelelő – írásbeli nyilatkozattal bejelenteni a tulajdonosi joggyakorló felé a fennálló vagyonkezelési szerződése hatálya alá került új vagyonelemet.
 
 (6a) A vagyonkezelőt e törvény erejénél fogva változatlan feltételekkel megilleti a vagyonkezelői jog mindazon vagyonelemre, amely a vagyonkezelésében lévő vagyonból bármely módon – így különösen kitermelés, bontás, megosztás útján – újonnan jön létre, feltéve hogy az újonnan létrejövő vagyonelem és a vagyonkezelő vagyonkezelésében lévő vagyonelem tulajdonosa megegyezik. A felek eltérő megállapodásának hiányában a vagyonkezelői jog e törvény erejénél fogva kiterjed arra a vagyonelemre is – ideértve a tartozékot és az alkotórészt is –, amely a vagyonkezelői jogviszony fennállása alatt válik a vagyon részévé.
 
@@ -303,8 +308,8 @@ jóváhagyó határozata szükséges.
 (17) Mellőzhető a versenyeztetés abban az esetben, ha a hasznosítás
 
 - a) államháztartási körbe tartozó szervezet,
-- b) jogszabályban előírt állami vagy önkormányzati feladatot ellátó gazdálkodó szervezet, vagy
-- c) államháztartási körbe tartozó szervezet vagyonkezelésében lévő, az állam vagy a helyi önkormányzat tulajdonában álló lakások tekintetében a vagyonkezelő szervezettel foglalkoztatásra irányuló jogviszonyban álló személyek,
+- b) jogszabályban előírt állami vagy önkormányzati feladatot ellátó gazdálkodó szervezet, továbbá jogszabályban előírt állami vagy önkormányzati feladatot ellátó egyházi jogi személy,
+- c) államháztartási körbe tartozó szervezet vagyonkezelésében lévő, az állam vagy a helyi önkormányzat tulajdonában álló lakások tekintetében a vagyonkezelő szervezettel foglalkoztatásra irányuló jogviszonyban álló személyek, vagy
 - d) a közfeladatot ellátó, az állam közvetlen vagy közvetett tulajdonában álló gazdasági társaság vagyonkezelésében lévő, az állam tulajdonában álló lakások tekintetében a vagyonkezelővel vagy a vagyonkezelő tulajdonában álló gazdasági társasággal foglalkoztatásra irányuló jogviszonyban álló személyek
 
 javára történik.
@@ -2119,8 +2124,6 @@ Budapesti körvasút vonalai közül:
 
 220 Rákosrendező - Istvántelki főműhely
 
-221 Soroksár - Szemeretelep mh.
-
 ### 2. melléklet a 2011. évi CXCVI. törvényhez
 
 A nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon köre
@@ -2151,15 +2154,11 @@ I. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartan
 | Budapesti Erdőgazdaság Zrt. | 100% |
 | Kaszó Erdőgazdaság Zrt. | 100% |
 | VERGA Veszprémi Erdőgazdaság Zrt. | 100% |
-| HM Armcom Zrt. | 100% |
-| HM Currus Zrt. | 100% |
-| HM Arzenál Zrt. | 100% |
 | Magyar Export-Import Bank Zrt. | 100% |
 | Magyar Exporthitel Biztosító Zrt. | 100% |
 | Magyar Posta Zrt. | 75%+1 szavazat |
 | Magyar Államvasutak Zrt. | 100% |
 | Győr-Sopron-Ebenfurti Vasút Zrt. | 65,6% |
-| HungaroControl Magyar Légiforgalmi Szolgálat Zrt. | 100% |
 | Magyar Fejlesztési Bank Zrt. | 100% |
 | Hortobágyi Természetvédelmi és Génmegőrző Nonprofit Kft. | 100% |
 | HM Elektronikai, Logisztikai és Vagyonkezelő Zrt. | 100% |
@@ -2188,7 +2187,6 @@ I. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartan
 | Magyar Turizmus Zrt. | 100% |
 | Vasúti Pályakapacitás-elosztó Kft. | 100% |
 | Hollóházi Hungarikum Nonprofit Kft. | 50%+1 szavazat |
-| RÁBA Járműipari Holding Nyrt. | 50% + 1 szavazat |
 | Nemzeti Filmintézet Zrt. | 100% |
 
 II. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó vagyonelemek
@@ -2203,15 +2201,21 @@ b) A 100%-os állami tulajdonban lévő olyan génmegőrző gyűjtemény, amely 
 
 c) Az egyes állami tulajdonban lévő vagyontárgyak önkormányzatok tulajdonba adásáról szóló törvényben meghatározott levéltári anyag.
 
-d) Budapest, V. kerület Kossuth Lajos tér, 24893 helyrajzi számú ingatlanon álló szobrok:
+d) A kulturális örökség védelméről szóló 2001. évi LXIV. törvény 2. melléklete szerinti kiemelt nemzeti emlékhelyen található:
 
 da) II. Rákóczi Ferenc emlékmű,
 
 db) Kossuth-emlékmű,
 
-dc) A forradalom lángja emlékmű,
+dc) A Dunánál – József Attila portrészobor,
 
-dd) A Dunánál – József Attila portrészobor.
+dd) Tisza István emlékmű,
+
+de) gróf Andrássy Gyula emlékmű,
+
+df) Nemzeti Vértanúk emlékműve,
+
+dg) Összetartozás Emlékhelye.
 
 III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő, műemléki védelem alatt álló építmények és építményegyüttesek*
 
@@ -2634,7 +2638,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 
 IV. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó sportcélú ingatlanok
 
-| 1. | 1146 Budapest, Istvánmezei út 3–5. Budapest, Ifjúság útja–Stefánia út–Thököly út–Dózsa György út–Kerepesi út által határolt és a Dózsa György és a Kerepesi út által határolt területrésznek e két út kereszteződésétől a) a Dózsa György útnak a Jobbágy utca és a Verseny utca közötti szakasza meghosszabbításának a Kerepesi úttal alkotott metszéspontja, és b) az a) pont szerinti metszésponttól a Kerepesi útra állított merőleges vonal és a Dózsa György út metszéspontja által meghatározott egyenessel lezárt területtel kiegészített területe | Budapesti Olimpiai Központ – Puskás Ferenc Stadion és Létesítményei |
+| 1. |  | Budapesti Olimpiai Központ – Puskás Ferenc Stadion és Létesítményei |
 | --- | --- | --- |
 | 2. | 2890 Tata, Baji út 21. | Északnyugat-magyarországi Általános Olimpiai Központ – Tatai Edzőtábor |
 | 3. |  |  |

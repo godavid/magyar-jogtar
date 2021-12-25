@@ -152,11 +152,12 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
 - i) a közérdekű bejelentés, javaslat és a panasz elbírálására, valamint a közigazgatási hatóság és a büntetőügyben eljáró bíróság által elrendelt zárlat, az ügyész, a nyomozó hatóság és a büntető ügyben eljáró bíróság által elrendelt zár alá vétel tényének feljegyzésére és törlésére, továbbá a büntetőeljárás megindításának feljegyzésére és törlésére irányuló eljárás;
 - j) a költségmentesség engedélyezése iránti eljárás;
 - k) a kárpótlási eljárás, a részarány-tulajdonnal kapcsolatos eljárás;
-- l) a lakóingatlanon alapított zálogjog fedezetével kötött, devizaalapú kölcsönszerződésből származó követelés törvényben rögzített árfolyamon történő végtörlesztése során megszűnt jelzálogjog, végrehajtási jog, továbbá az elidegenítési és terhelési tilalom törlésére irányuló eljárás, valamint a hitelszerződésből eredő kötelezettségeinek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény és a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló törvény alapján
+- l) a lakóingatlanon alapított zálogjog fedezetével kötött, devizaalapú kölcsönszerződésből származó követelés törvényben rögzített árfolyamon történő végtörlesztése során megszűnt jelzálogjog, végrehajtási jog, továbbá az elidegenítési és terhelési tilalom törlésére irányuló eljárás, valamint a hitelszerződésből eredő kötelezettségeinek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény és a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló törvény, valamint az egyes otthonteremtési állami feladatok karitatív szervezetek általi átvállalásáról szóló törvény alapján
   - la) a visszavásárlási jog bejegyzésére és törlésére irányuló eljárás,
-  - lb) a Magyar Állam javára szóló jelzálogjog és az azt biztosító elidegenítési és terhelési tilalom bejegyzésére irányuló eljárás,
+  - lb) a magyar állam javára szóló jelzálogjog és az azt biztosító elidegenítési és terhelési tilalom bejegyzésére irányuló eljárás,
   - lc) a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény szerinti Lebonyolító vagyonkezelői jogának bejegyzésére és törlésére irányuló eljárás,
   - ld) a magánszemély tulajdonszerzésének bejegyzésére irányuló eljárás,
+  - le) az MR Közösségi Lakásalap Közhasznú Nonprofit Korlátolt Felelősségű Társaság tulajdonszerzésének bejegyzésére irányuló eljárás;
 - m) a polgári perrendtartásról szóló 2016. évi CXXX. törvény XXXII. Fejezete szerinti gondnokság alá helyezés tényének feljegyzése iránti eljárás;
 - n) a nagyvízi mederben való elhelyezkedés tényének mint jogi jellegnek a feljegyzése,
 - o) a vízfolyás mint művelés alól kivett terület bejegyzése, valamint a parti sáv mint jogi jelleg feljegyzése,
