@@ -2418,7 +2418,7 @@ a közforgalom számára nyitva álló hivatali, vállalati vagy más épületre
 
 (4) A helyiség kiürítése során a 182/A. § rendelkezései nem alkalmazhatóak.
 
-183/C. § (1) A hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján megkötött bérleti szerződés megszűnését követő 60 napon belül a bérbeadó kérheti a 183. §-ban meghatározott rendelkezéseknek a bérbe adott lakóingatlanra vonatkozó alkalmazását.
+183/C. § (1) Az egyes otthonteremtési állami feladatok karitatív szervezetek általi átvállalásáról szóló 2021. évi LXXXVI. törvény alapján ingyenesen az MR Közösségi Lakásalap Közhasznú Nonprofit Korlátolt Felelősségű Társaság tulajdonába kerülő ingatlanokon fennálló lakásbérleti jogviszony megszűnését követő 60 napon belül a bérbeadó kérheti a 183. §-ban meghatározott rendelkezéseknek a bérbe adott lakóingatlanra vonatkozó alkalmazását.
 
 (2) A 182/A. §-t az (1) bekezdés szerinti eljárás során is alkalmazni kell azzal, hogy a bérbe adott lakóingatlan a kiürítés elhalasztása szempontjából nem minősül önkényesen elfoglalt lakásnak.
 
