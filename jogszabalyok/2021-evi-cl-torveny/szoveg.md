@@ -4,27 +4,13 @@ egyes agrártárgyú törvények módosításáról
 
 #### 1. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-1. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 49/A. §-a a következő (10) bekezdéssel egészül ki:
+1. §
 
-„(10) Ha a mezőgazdasági tevékenységet folytató egyéni vállalkozó az egyéni vállalkozói jogállását megszüntetve tevékenységét mezőgazdasági őstermelőként (a továbbiakban: őstermelő) folytatja tovább, e továbbfolytatással összefüggésben az alábbiak szerint jár el:
+2. §
 
-a) a 49/B. § (5), (11), (14) és (16) bekezdését, vagy a 13. számú melléklet 14. pontját – az egyéni vállalkozói jogállás megszűnésére előírt rendelkezések kivételével – alkalmazza, ha az őstermelői jogállás keletkezésének évében vagy azt megelőzően a 49/B. § (6) bekezdés g) pontja szerinti kedvezményt, kisvállalkozói kedvezményt, illetve a kisvállalkozások adókedvezményét vette igénybe, vagy fejlesztési tartalékot képzett;
+3. §
 
-b) a 49/C. § (2) bekezdés a), c) és d) pontját alkalmazza, ha az őstermelői jogállás keletkezésének évében vagy azt megelőzően a 49/C. § (6) bekezdés szerinti vállalkozói jövedelem csökkentéssel élt, a 49/C. § (2) bekezdés a) pontja esetében akkor is, ha őstermelői jogállását az ott említett határidőn belül megszünteti;
-
-c) a 10. számú melléklet II. Az egyéni vállalkozói tevékenység megszüntetésével összefüggő bevételek fejezet 1. pontját nem alkalmazza, azonban az őstermelői tevékenység megszüntetésének adóévében a 2. számú melléklet II. A mezőgazdasági őstermelő tevékenységének megszüntetése fejezet 1. pontja alkalmazásában az egyéni vállalkozói időszakból maradt készletet is figyelembe kell venni;
-
-d) az egyéni vállalkozói időszakból fennmaradt elhatárolt veszteséget a tételes költségelszámolást alkalmazó őstermelő a 22. § (1)–(3) bekezdésében foglaltak szerint elhatárolt veszteségként veheti figyelembe;
-
-e) a tételes költségelszámolást alkalmazó őstermelő az egyéni vállalkozói időszakban a 11. számú melléklet szerint megkezdett értékcsökkenési leírást folytathatja, arra őstermelői jogállásának keletkezése után is jogosult.”
-
-2. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény „Hatályba léptető és átmeneti rendelkezések” alcíme a következő 103. §-sal egészül ki:
-
-„103. § Az egyes agrártárgyú törvények módosításáról szóló 2021. évi CL. törvénnyel megállapított 39. § (1) bekezdése és a 49/A. § (10) bekezdése a 2021. évi személyi jövedelemadó kötelezettség megállapítása során is alkalmazandó.”
-
-3. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 85. pontjában a „kiegészítő tevékenység” szövegrész helyébe a „kiegészítő őstermelői tevékenység (a továbbiakban: kiegészítő tevékenység)” szöveg lép.
-
-4. § Hatályát veszti a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 39. § (1) bekezdésében a „kérelemre” szövegrész.
+4. §
 
 #### 2. A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény módosítása
 
@@ -140,11 +126,9 @@ e) a tételes költségelszámolást alkalmazó őstermelő az egyéni vállalko
 
 #### 5. Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény módosítása
 
-52. § Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 113. §-a a következő (25b) bekezdéssel egészül ki:
+52. §
 
-„(25b) A (25a) bekezdéstől eltérően, ha 2021. december 31. napján a (25) bekezdés szerinti szerződéssel érintett földrészlet vonatkozásában az erdőgazdálkodó az Európai Unió Közös Agrárpolitikája forrásaiból eredő támogatási jogviszony alanya, a támogatással érintett földrészletre vonatkozó megbízási szerződés – ha a szerződő felek a szerződést korábban nem szüntetik meg – ezen támogatási jogviszony lejárta napján veszti hatályát. A támogatási jogviszony megszűnésekor az ilyen címen fennálló bejegyzéseket az erdészeti hatóság törli az erdőgazdálkodói nyilvántartásból.”
-
-53. § Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 113. § (25) bekezdésében a „valamint az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény hatálybalépését” szövegrész helyébe a „vagy 2021. december 31. napját” szöveg lép.
+53. §
 
 #### 6.
 
@@ -198,13 +182,7 @@ e) a tételes költségelszámolást alkalmazó őstermelő az egyéni vállalko
 
 #### 9. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény módosítása
 
-76. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 5. § 19. pontja a következő d) ponttal egészül ki:
-
-(E törvény alkalmazásában
-
-mezőgazdasági termelőszervezet: a mezőgazdasági igazgatási szerv által e törvény végrehajtására kiadott rendeletben meghatározott feltételek alapján nyilvántartásba vett, tagállami székhelyű jogi személy, illetve jogi személyiséggel nem rendelkező szervezet,)
-
-„d) amely erdőgazdálkodásra jogosult erdészeti szakirányító vállalkozásnak minősül;”
+76. §
 
 77. §
 
@@ -228,9 +206,7 @@ mezőgazdasági termelőszervezet: a mezőgazdasági igazgatási szerv által e 
 
 (2)
 
-84. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény a következő 33/A. §-sal egészül ki:
-
-„33/A. § Hatósági jóváhagyáshoz kötött szerződés hatósági jóváhagyás hiányában nem szolgálhat alapul jogcímes elbirtoklással történő tulajdonjog szerzéshez.”
+84. §
 
 85. §
 
@@ -410,9 +386,7 @@ lép.
 
 #### 12. A szociális hozzájárulási adóról szóló 2018. évi LII. törvény módosítása
 
-133. § A szociális hozzájárulási adóról szóló 2018. évi LII. törvény 22. alcíme a következő 36/F. §-sal egészül ki:
-
-„36/F. § Az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel hatályon kívül helyezett 6. § (6) és (7) bekezdése a 2021. évi adókötelezettség megállapítása során még alkalmazható.”
+133. §
 
 #### 13.
 
@@ -440,9 +414,7 @@ lép.
 
 #### 14. A termelőszövetkezeti földhasználati jog alatt álló földrészletek tulajdonjogának rendezéséről és egyes földügyi tárgyú törvények módosításáról szóló 2020. évi XL. törvény módosítása
 
-145. § A termelőszövetkezeti földhasználati jog alatt álló földrészletek tulajdonjogának rendezéséről és egyes földügyi tárgyú törvények módosításáról szóló 2020. évi XL. törvény 8. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Védett természeti területnek minősülő földrészlet esetében a vételi jog gyakorlásának feltétele a földügyért felelős miniszter hozzájárulása a földrészletnek az állami tulajdonból történő kikerüléséhez. A hozzájárulás nem tagadható meg akkor, ha a vételi jogot gyakorlóval szemben a joggyakorlást megelőző tíz éven belül nem állapították meg környezetkárosítás vagy természetkárosítás bűntettét, vagy természetvédelmi szabálysértés miatt a felelősségét, továbbá természetvédelmi bírság nem került vele szemben kiszabásra. Az (1) bekezdés szerinti határidőt megtartottnak kell tekinteni, ha a vételi jog gyakorlására és a miniszter hozzájárulásának kezdeményezésére a joggyakorló által a határidőben került sor.”
+145. §
 
 #### 15.
 
