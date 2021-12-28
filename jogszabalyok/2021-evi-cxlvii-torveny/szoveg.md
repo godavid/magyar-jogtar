@@ -226,7 +226,9 @@ lép.
 
 65. §
 
-66. §
+66. § A Szegedi Tudományegyetemért Alapítványról, a Szegedi Tudományegyetemért Alapítvány és a Szegedi Tudományegyetem részére történő vagyonjuttatásról szóló 2021. évi XXIII. törvény 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján – az Egyetem közérdekű céljainak megvalósítása, valamint a KEKVA tv. 1. mellékletében meghatározott közfeladata ellátása érdekében – a KAÁLI REK Reprodukciós Központ Korlátolt Felelősségű Társaság állami tulajdonban álló üzletrészét ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni annak kötelezettségével, hogy a tulajdonba adást követő hat hónapon belül az Egyetem a KAÁLI REK Reprodukciós Központ Korlátolt Felelősségű Társaságot megszünteti azzal, hogy a feladatait az Egyetem látja el. Az Egyetem első alkalommal a 2021. üzleti év után járó osztalékra jogosult.”
 
 67. §
 
