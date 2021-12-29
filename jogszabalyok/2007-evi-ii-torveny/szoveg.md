@@ -370,7 +370,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 rendelkezik.
 
-(5) A tanulmányi célú és a hallgatói mobilitási tartózkodási engedéllyel, továbbá a hallgatói mobilitási igazolással rendelkező harmadik országbeli állampolgár keresőtevékenységet a szorgalmi időszakban hetente legfeljebb huszonnégy órában, szorgalmi időszakon kívül évente legfeljebb kilencven napon vagy hatvanhat munkanapon végezhet teljes munkaidőben.
+(5) A tanulmányi célú és a hallgatói mobilitási tartózkodási engedéllyel, továbbá a hallgatói mobilitási igazolással rendelkező harmadik országbeli állampolgár keresőtevékenységet a szorgalmi időszakban hetente legfeljebb harminc órában, szorgalmi időszakon kívül évente legfeljebb kilencven napon vagy hatvanhat munkanapon végezhet teljes munkaidőben.
 
 (6) A jövedelemszerzés céljából kiadott tartózkodási engedély érvényességi ideje legfeljebb három év, amely alkalmanként legfeljebb három évvel meghosszabbítható.
 

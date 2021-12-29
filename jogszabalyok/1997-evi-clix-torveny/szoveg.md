@@ -34,6 +34,8 @@ jelleggel.
 
 (6) Fegyveres biztonsági őrség létrehozható és működtethető a Magyar Honvédség, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az idegenrendészeti hatóság, illetve a menekültügyi hatóság szervezetében (a továbbiakban: fegyveres biztonsági őrséget működtető szervezet) is olyan – az adott szerv tevékenységi körébe tartozó – objektum-, illetve személyőrzési vagy kísérési feladatok ellátására, amelyekhez az e törvényben, valamint a végrehajtására kiadott rendeletben meghatározott képesítési követelmények, intézkedési és kényszerítőeszköz-használati jogosultságok elegendők.
 
+(7) Az általános rendőrségi feladatok ellátására létrehozott szerv szervezetében létrehozott és működtetett fegyveres biztonsági őrség az e törvényben meghatározott keretek között támogatja az általános rendőrségi feladatok ellátására létrehozott szerv határrendészeti és határőrizeti feladatainak ellátását.
+
 1/A. § (1) Fegyveres biztonsági őrség létrehozására
 
 - a) a honvédelemért felelős miniszter a honvédelmi szervezetek létesítményei, a honvédelemért felelős miniszter tulajdonosi joggyakorlása alá tartozó gazdasági társaság létesítményei, továbbá az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságok létesítményei (e törvény alkalmazásában a továbbiakban együtt: a Magyar Honvédség létesítményei)
@@ -328,6 +330,15 @@ alkalmazhat, illetve használhat.
 10/B. § A fegyveres biztonsági őrség tevékenysége során együttműködik a Rendőrségről szóló törvény hatálya alá tartozó rendőri szervekkel, a hivatásos katasztrófavédelmi szervvel, a Nemzeti Adó- és Vámhivatal vámszerveivel, az önkormányzati és létesítményi tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalával (a továbbiakban: járási hivatal). Az atomenergia alkalmazása körében működő fegyveres biztonsági őrségek az Országos Atomenergia Hivatallal is együttműködnek.
 
 10/C. § A munka törvénykönyvéről szóló 2012. évi I. törvény 86. § (1) bekezdésében foglalt rendelkezéstől eltérően a honvédelemért felelős miniszter által létrehozott fegyveres biztonsági őrségnél foglalkoztatott fegyveres biztonsági őr munkaidejéhez nem kell hozzászámítani az előírt formaruha fel- és levételének, valamint a fegyver átvételének és leadásának időtartamát.
+
+10/D. § (1) Az általános rendőrségi feladatok ellátására létrehozott szerv szervezetében létrehozott és működtetett fegyveres biztonsági őrségnél foglalkoztatott fegyveres biztonsági őr az 1. § (7) bekezdése szerinti feladatot kizárólag az általános rendőrségi feladatok ellátására létrehozott szerv hivatásos állományú tagjával közösen, annak közvetlen felügyelete és irányítása mellett végezheti, és kizárólag az e törvény szerinti intézkedések megtételre jogosult.
+
+(2) A fegyveres biztonsági őr az 1. § (7) bekezdése szerinti feladatok ellátása során
+
+- a) támogatja a rendőr határrendészeti és határőrizeti feladatainak ellátását,
+- b) az államhatáron illetéktelenül belépő személyt az ország területén átkísérő rendőr tevékenységét biztosítja,
+- c) biztosítja az elfogást vagy az előállítást végrehajtó rendőr tevékenységét,
+- d) közreműködik a rendőr helyszínbiztosításával kapcsolatos feladatainak ellátásában.
 
 ### II. Fejezet — A természetvédelmi őrszolgálat
 
