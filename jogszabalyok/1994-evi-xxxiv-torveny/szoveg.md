@@ -669,6 +669,8 @@ igazolja.
 
 (4) A rendőrség a nyilvános forgalom számára nyitva álló helyen őrizetlenül hagyott, a közbiztonságra veszélyt jelentő tárgyat szükség esetén az elvárható gondossággal eltávolíthatja, megsemmisítheti.
 
+(5) A fokozott ellenőrzés elrendelésének végrehajtását az elrendelő rendőri szerv vezetője – függetlenül a fokozott ellenőrzés előzetesen meghatározott időtartamától – havi rendszerességgel felülvizsgálja, és annak eredményéről a felettes rendőri szerv vezetőjét, ennek hiányában a minisztert tájékoztatja.
+
 31. § (1) Akivel szemben személyi szabadságot korlátozó intézkedést foganatosítanak, annak ruházatát a rendőr a 29/B. § (1) bekezdésében meghatározott dolog elvétele végett, előzetes figyelmeztetés után átvizsgálhatja.
 
 (2) A ruházat átvizsgálását — halaszthatatlan eset kivételével — az intézkedés alá vonttal azonos nemű személy végezheti. Az intézkedés nem történhet szeméremsértő módon.
@@ -738,7 +740,7 @@ igazolja.
 
 (3) A rendőrség a határforgalom ellenőrzése során engedélyezi a határátlépés jogszabályban meghatározott feltételeivel rendelkező személyek határátlépését, illetve megtagadja a határátlépés feltételeivel nem rendelkező személyek határátléptetését.
 
-(4) Az utasadat-információs egységnek az elemző-értékelő tevékenysége alapján az Nbtv. 52/H. § (7) bekezdése szerint feltárt információról szóló tájékoztatása alapján a rendőrség az (1)–(3) bekezdés szerinti intézkedések alá vonhatja azt a személyt, akire a feltárt információ vonatkozik. Az ennek során megállapított adatokról és beszerzett információkról a rendőrség az utasadat-információs egységet kérésére visszatájékoztathatja.
+(4) Az utasadat-információs egységnek az elemző-értékelő tevékenysége alapján az Nbtv. 52/H. § (7) bekezdése vagy az Nbtv. 52/N. §-a szerint feltárt információról szóló tájékoztatása alapján a rendőrség az (1)–(3) bekezdés szerinti intézkedések alá vonhatja azt a személyt, akire a feltárt információ vonatkozik. Az ennek során megállapított adatokról és beszerzett információkról a rendőrség az utasadat-információs egységet kérésére visszatájékoztathatja.
 
 ### Járványügyi intézkedések tömeges bevándorlás okozta válsághelyzetben
 
@@ -2037,11 +2039,11 @@ részére.
 
 (3) A rendőrség a (2) bekezdésben felsorolt adatokat a határforgalom-ellenőrzés végrehajtásának céljából nyilvántartja. A nyilvántartott adatot az utas beléptetését vagy beléptetésének megtagadását követően, de legkésőbb az adatok átvételétől számított huszonnégy órán belül törli, kivéve, ha arra határrendészeti feladatainak végrehajtásához, illetve büntető- vagy szabálysértési eljárás lefolytatásához szüksége van. A határrendészeti feladat végrehajtását követően, illetve a szabálysértési eljárás jogerős befejezésekor, valamint a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésekor, illetve az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalakor a nyilvántartott adatot haladéktalanul törölni kell.
 
-(3a) A rendőrség (3) bekezdésben meghatározott nyilvántartásából a (2) bekezdésben meghatározott adatokat a Terrorelhárítási Információs és Bűnügyi Elemző Központ – a terrorizmussal vagy a szervezett bűnözéssel összefüggő bűncselekményre vonatkozó információ feltárása esetén és az utasadatok kockázatelemzésére vonatkozó törvényi feltételek teljesülése esetén – a konkrét cél megjelölésével átveheti.
+(3a) A rendőrség (3) bekezdésben meghatározott nyilvántartásából a (2) bekezdésben meghatározott adatokat a Terrorelhárítási Információs és Bűnügyi Elemző Központ – nemzetbiztonsági szolgálatokról szóló törvény szerint terrorista és súlyos bűncselekménynek minősülő bűncselekményre vonatkozó információ feltárása esetén és az utasadatok kockázatelemzésére vonatkozó törvényi feltételek teljesülése esetén – a konkrét cél megjelölésével átveheti.
 
 (3b) A rendőrség a 35/A. § (4) bekezdésében meghatározott határellenőrzési tevékenysége során az utasadat-információs egység részére történő továbbítás céljából a következő adatokat kezelheti:
 
-- a) a (2) bekezdésben meghatározott adatok,
+- a) a (2) vagy (4) bekezdésben meghatározott adatok,
 - b) az utas által a személyazonosításra bemutatott okmányban szereplő arckép másolata,
 - c) az utas által bemutatott személyazonosításra alkalmas okmányok száma, érvényességi ideje,
 - d) az utas által bemutatott úti okmány valamennyi oldalának és az ott található teljes adattartalomnak a másolata,
@@ -2064,6 +2066,8 @@ részére.
 - e) a határátlépés tervezett időpontját, a járművön utazók kiinduló állomását és tervezett úticélját.
 
 (7) A (4)–(6) bekezdés szerint a rendőrség részére átadott adatok nyilvántartására a (3) bekezdést kell alkalmazni.
+
+(8) A (4) bekezdés szerint a rendőrség által kezelt adatok (7) bekezdés szerinti nyilvántartásában kezelt adatokat a Terrorelhárítási Információs és Bűnügyi Elemző Központ – a nemzetbiztonsági szolgálatokról szóló törvény szerint terrorista és súlyos bűncselekménynek minősülő bűncselekményre vonatkozó információ feltárása esetén és az utasadatok kockázatelemzésére vonatkozó törvényi feltételek teljesülése esetén – a konkrét cél megjelölésével átveheti.
 
 91/N. § A rendőrség a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet II. melléklete szerinti adatokat egy évig kezeli.
 
@@ -2146,7 +2150,7 @@ közölheti, kivéve, ha a személyes adat közlése a kiskorú testi, értelmi 
 
 ### IX. Fejezet — JOGORVOSLAT
 
-92. § (1) Akinek a IV–V. Fejezetben – a 46/A–46/C. § kivételével –, valamint a VI. Fejezetben meghatározott kötelezettség megsértése, a rendőri intézkedés, annak elmulasztása, a kényszerítő eszköz alkalmazása (e fejezet alkalmazásában a továbbiakban együtt: intézkedés) alapvető jogát sértette, választása szerint
+92. § (1) Akinek a IV–V. Fejezetben – a személyi védelemmel, illetve Védelmi Programmal kapcsolatos intézkedés, a rejtett ellenőrzés elrendelése, a Schengeni Információs Rendszerben elhelyezett rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtása, valamint a fokozott ellenőrzés elrendelése kivételével –, valamint a VI. Fejezetben meghatározott kötelezettség megsértése, a rendőri intézkedés, annak elmulasztása, a kényszerítő eszköz alkalmazása (e fejezet alkalmazásában a továbbiakban együtt: intézkedés) alapvető jogát sértette, választása szerint
 
 - a) panasszal fordulhat az intézkedést foganatosító rendőri szervhez vagy
 - b) kérheti, hogy – amennyiben a panasz elintézése nem tartozik más eljárás hatálya alá – panaszát az alapvető jogok biztosa által lefolytatott vizsgálatot követően, az érintett rendőri szerv kilététől függően

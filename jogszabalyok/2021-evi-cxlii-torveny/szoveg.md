@@ -28,23 +28,9 @@ a határok, a vízumügy, a rendőrségi és igazságügyi együttműködés, va
 
 #### 3. A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény módosítása
 
-11. § A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 1. §-a a következő (7) bekezdéssel egészül ki:
+11. §
 
-„(7) Az általános rendőrségi feladatok ellátására létrehozott szerv szervezetében létrehozott és működtetett fegyveres biztonsági őrség az e törvényben meghatározott keretek között támogatja az általános rendőrségi feladatok ellátására létrehozott szerv határrendészeti és határőrizeti feladatainak ellátását.”
-
-12. § A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény I. Fejezete a következő 10/D. §-sal egészül ki:
-
-„10/D. § (1) Az általános rendőrségi feladatok ellátására létrehozott szerv szervezetében létrehozott és működtetett fegyveres biztonsági őrségnél foglalkoztatott fegyveres biztonsági őr az 1. § (7) bekezdése szerinti feladatot kizárólag az általános rendőrségi feladatok ellátására létrehozott szerv hivatásos állományú tagjával közösen, annak közvetlen felügyelete és irányítása mellett végezheti, és kizárólag az e törvény szerinti intézkedések megtételre jogosult.
-
-(2) A fegyveres biztonsági őr az 1. § (7) bekezdése szerinti feladatok ellátása során
-
-a) támogatja a rendőr határrendészeti és határőrizeti feladatainak ellátását,
-
-b) az államhatáron illetéktelenül belépő személyt az ország területén átkísérő rendőr tevékenységét biztosítja,
-
-c) biztosítja az elfogást vagy az előállítást végrehajtó rendőr tevékenységét,
-
-d) közreműködik a rendőr helyszínbiztosításával kapcsolatos feladatainak ellátásában.”
+12. §
 
 #### 4.
 
@@ -76,7 +62,7 @@ d) közreműködik a rendőr helyszínbiztosításával kapcsolatos feladatainak
 
 24. §
 
-25. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 20. § (5) bekezdésében a „huszonnégy” szövegrész helyébe a „harminc” szöveg lép.
+25. §
 
 #### 7.
 

@@ -811,17 +811,17 @@ szerzi be.
 
 52/G. § A Terrorelhárítási Információs és Bűnügyi Elemző Központ által kezelt adatot tartalmazó adatkezelési rendszerbe csak a Terrorelhárítási Információs és Bűnügyi Elemző Központ hozzáférési jogosultsággal rendelkező munkatársa, valamint a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter irányítói jogkörében eljárva, továbbá sarkalatos törvény által feljogosított más szerv tekinthet be, annak adattartalmáról felvilágosítást vagy értesítést kérhet.
 
-52/H. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a 8/A. § (4) bekezdésében meghatározott feladatkörében az utasadat szolgáltatójától átveszi és kezeli az utasadatokat.
+52/H. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a 8/A. § (4) bekezdésében meghatározott feladatkörében a légiutas-adat szolgáltatójától átveszi és kezeli az utasadatokat.
 
-(2) Az utasadatok átvételének és kezelésének a célja a 3. számú mellékletben meghatározott bűncselekmények megelőzésének, felderítésének, nyomozásának és üldözésének elősegítése.
+(2) A légiutas-adatok átvételének és kezelésének a célja a 3. számú mellékletben meghatározott bűncselekmények megelőzésének, felderítésének, nyomozásának és üldözésének elősegítése.
 
-(3) Az utasadat szolgáltatója a Terrorelhárítási Információs és Bűnügyi Elemző Központ által meghatározott elektronikus formátumban és módon adja át az utasadatot.
+(3) A légiutas-adat szolgáltatója a Terrorelhárítási Információs és Bűnügyi Elemző Központ által meghatározott elektronikus formátumban és módon adja át a légiutas-adatot.
 
 (4) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a 8/A. § (4) bekezdésében meghatározott feladatkörében
 
-- a) az utasadat szolgáltatója által szolgáltatott utasadatokat összeveti az elemző-értékelő tevékenység céljából kezelt adatokkal,
-- b) az utasadatok tekintetében a (2) bekezdésben meghatározott bűncselekményekre, tevékenységekre, illetve törekvésekre utaló információk gyűjtése érdekében elemző-értékelő tevékenység keretében kockázatelemzést végez, és
-- c) az átvett utasadatokról nyilvántartást vezet.
+- a) a légiutas-adat szolgáltatója által szolgáltatott légiutas-adatokat összeveti az elemző-értékelő tevékenység céljából kezelt adatokkal,
+- b) légiutas-adatok tekintetében a (2) bekezdésben meghatározott bűncselekményekre, tevékenységekre, illetve törekvésekre utaló információk gyűjtése érdekében elemző-értékelő tevékenység keretében kockázatelemzést végez, és
+- c) az átvett légiutas-adatokról nyilvántartást vezet.
 
 (5) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a (4) bekezdés b) pontjában meghatározott feladata ellátása érdekében a törvényben meghatározott esetekben más állami szervektől, illetve nyilvántartásokból az érintett személy azonosítása céljából személyes adatokat vehet át.
 
@@ -829,9 +829,9 @@ szerzi be.
 
 (7) Ha a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadat-információs feladatai során az elemző-értékelő tevékenység keretében a 3. számú mellékletben meghatározott bűncselekményre vonatkozó információt tár fel, a 8/A. § (3) bekezdés i) pontjában meghatározottak szerint jár el.
 
-(8) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az átvett utasadatot a Terrorelhárítási Információs és Bűnügyi Elemző Központhoz érkezést követő öt évig kezeli.
+(8) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az átvett légiutas-adatot a Terrorelhárítási Információs és Bűnügyi Elemző Központhoz érkezést követő öt évig kezeli.
 
-(9) Az utasadat szolgáltatója által szolgáltatott utasadatot a Terrorelhárítási Információs és Bűnügyi Elemző Központhoz érkezést követő 6 hónap elteltével az alábbi adatelemek elrejtése útján személyazonosításra alkalmatlanná kell tenni:
+(9) A légiutas-adat szolgáltatója által szolgáltatott légiutas-adatot a Terrorelhárítási Információs és Bűnügyi Elemző Központhoz érkezést követő 6 hónap elteltével az alábbi adatelemek elrejtése útján személyazonosításra alkalmatlanná kell tenni:
 
 - a) az utas neve, beleértve a 2016/681/EU parlamenti és tanács irányelv szerinti megosztott/kettős utas-nyilvántartási információt, valamint az egy utas-nyilvántartási adathoz kapcsolódó utazók számát, ezek neveit,
 - b) az utas által közölt kapcsolattartási adatok, különösen az utas és a vele utazók lakó- és tartózkodási helyének címe, telefonszámaik, e-mail címeik,
@@ -850,22 +850,22 @@ szerzi be.
 
 (13)
 
-52/I. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az Európai Unió tagállamainak utasadat-információs egységei, az Európai Unió tagállamainak a 2016/681/EU parlamenti és tanács irányelv szerinti illetékes hatóságai, valamint az Európai Unió jogi aktusával létrehozott nemzetközi szervezetek és adatkezelési rendszerek részére az 52/H. § (2) bekezdésében meghatározott bűnüldözési célból az Európai Unió jogi aktusa, illetve két- vagy többoldalú nemzetközi szerződés alapján az ott meghatározott adatkörben, időtartamban és feltételekkel továbbíthatja az általa kezelt utasadatot, továbbá azok kezelésének eredményét.
+52/I. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az Európai Unió tagállamainak utasadat-információs egységei, az Európai Unió tagállamainak a 2016/681/EU parlamenti és tanács irányelv szerinti illetékes hatóságai, valamint az Európai Unió jogi aktusával létrehozott nemzetközi szervezetek és adatkezelési rendszerek részére az 52/H. § (2) bekezdésében meghatározott bűnüldözési célból az Európai Unió jogi aktusa, illetve két- vagy többoldalú nemzetközi szerződés alapján az ott meghatározott adatkörben, időtartamban és feltételekkel továbbíthatja az általa kezelt légiutas-adatot, továbbá azok kezelésének eredményét.
 
-(2) A Terrorelhárítási Információs és Bűnügyi Elemző Központ, valamint a 2016/681/EU parlamenti és tanács irányelv szerinti magyar illetékes hatóság az Európai Unió tagállamainak utasadat-információs egységeitől, valamint az Európai Unió jogi aktusával létrehozott nemzetközi szervezetektől és adatkezelési rendszerektől az 52/H. § (2) bekezdésében meghatározott bűnüldözési célból az Európai Unió jogi aktusa, illetve két- vagy többoldalú nemzetközi szerződés alapján az ott meghatározott adatkörben, időtartamban és feltételekkel vehet át utasadatot, továbbá azok kezelésének eredményét.
+(2) A Terrorelhárítási Információs és Bűnügyi Elemző Központ, valamint a 2016/681/EU parlamenti és tanács irányelv szerinti magyar illetékes hatóság az Európai Unió tagállamainak utasadat-információs egységeitől, valamint az Európai Unió jogi aktusával létrehozott nemzetközi szervezetektől és adatkezelési rendszerektől az 52/H. § (2) bekezdésében meghatározott bűnüldözési célból az Európai Unió jogi aktusa, illetve két- vagy többoldalú nemzetközi szerződés alapján az ott meghatározott adatkörben, időtartamban és feltételekkel vehet át légiutas-adatot, továbbá azok kezelésének eredményét.
 
-(3) Ha a 2016/681/EU parlamenti és tanács irányelv szerinti magyar illetékes hatóság a (2) bekezdés szerint az Európai Unió tagállamainak utasadat-információs egységeitől vesz át utasadatot, továbbá azok kezelésének eredményét, erről a Terrorelhárítási Információs és Bűnügyi Elemző Központot értesíti.
+(3) Ha a 2016/681/EU parlamenti és tanács irányelv szerinti magyar illetékes hatóság a (2) bekezdés szerint az Európai Unió tagállamainak utasadat-információs egységeitől vesz át légiutas-adatot, továbbá azok kezelésének eredményét, erről a Terrorelhárítási Információs és Bűnügyi Elemző Központot értesíti.
 
-(4) A Terrorelhárítási Információs és Bűnügyi Elemző Központ harmadik országtól bűnüldözési vagy nemzetbiztonsági célból nemzetközi szerződés alapján az ott meghatározott adatkörben vehet át utasadatot.
+(4) A Terrorelhárítási Információs és Bűnügyi Elemző Központ harmadik országtól bűnüldözési vagy nemzetbiztonsági célból nemzetközi szerződés alapján az ott meghatározott adatkörben vehet át légiutas-adatot.
 
-(5) A Terrorelhárítási Információs és Bűnügyi Elemző Központ harmadik ország részére – a 2008/977/IB kerethatározat 13. cikkében foglalt feltételek teljesülésével – kizárólag a 3. számú mellékletnek megfelelő bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából, nemzetközi szerződés alapján, az ott meghatározott adatkörben, időtartamban és feltételekkel továbbíthatja az általa kezelt utasadatot, feltéve hogy
+(5) A Terrorelhárítási Információs és Bűnügyi Elemző Központ harmadik ország részére – a 2008/977/IB kerethatározat 13. cikkében foglalt feltételek teljesülésével – kizárólag a 3. számú mellékletnek megfelelő bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából, nemzetközi szerződés alapján, az ott meghatározott adatkörben, időtartamban és feltételekkel továbbíthatja az általa kezelt légiutas-adatot, feltéve hogy
 
 - a) a harmadik ország átvevő hatóságának a feladata bűncselekmények megelőzése, nyomozása, felderítése, büntetőeljárás lefolytatása vagy büntetőjogi szankciók végrehajtása,
-- b) – az Európai Unió más tagállamtól származó utasadat esetén, a (7) bekezdésben meghatározott kivétellel – a tagállam, amelytől az utasadat származik, előzetesen hozzájárult az utasadatok harmadik országnak történő átadásához.
+- b) – az Európai Unió más tagállamtól származó légiutas-adat esetén, a (7) bekezdésben meghatározott kivétellel – a tagállam, amelytől a légiutas-adat származik, előzetesen hozzájárult a légiutas-adatok harmadik országnak történő átadásához.
 
-(6) Ha az (5) bekezdés a) pontja szerint kért utasadatot az adatelemek elrejtésével személyazonosításra alkalmatlanná tették, a Terrorelhárítási Információs és Bűnügyi Elemző Központ csak akkor adhatja át a teljes – személyazonosításra alkalmas adatokat is tartalmazó – utasadatot, ha a kérelem megalapozott és az adatkérés célja a 3. számú melléklet szerinti bűncselekmény megelőzése, felderítése, nyomozása és üldözése, feltéve, hogy az ügyészség az utasadatok újbóli személyazonosításra alkalmassá tételét követő átadására engedélyt adott. Az ügyészség engedélyének beszerzésére vonatkozóan az 52/L. §-t kell megfelelően alkalmazni.
+(6) Ha az (5) bekezdés a) pontja szerint kért légiutas-adatot az adatelemek elrejtésével személyazonosításra alkalmatlanná tették, a Terrorelhárítási Információs és Bűnügyi Elemző Központ csak akkor adhatja át a teljes – személyazonosításra alkalmas adatokat is tartalmazó – légiutas-adatot, ha a kérelem megalapozott és az adatkérés célja a 3. számú melléklet szerinti bűncselekmény megelőzése, felderítése, nyomozása és üldözése, feltéve, hogy az ügyészség a légiutas-adatok újbóli személyazonosításra alkalmassá tételét követő átadására engedélyt adott. Az ügyészség engedélyének beszerzésére vonatkozóan az 52/L. §-t kell megfelelően alkalmazni.
 
-(7) Az Európai Unió más tagállamától származó utasadat harmadik ország részére történő átadásához nem szükséges a másik tagállam előzetes hozzájárulása, ha
+(7) Az Európai Unió más tagállamától származó légiutas-adat harmadik ország részére történő átadásához nem szükséges a másik tagállam előzetes hozzájárulása, ha
 
 - a) a 3. számú mellékletnek megfelelő bűncselekménnyel kapcsolatos, valamely tagállamot vagy harmadik országot érintő konkrét és tényleges fenyegetés elhárításához elengedhetetlen és
 - b) az előzetes hozzájárulás kellő időben nem szerezhető be.
@@ -874,7 +874,7 @@ szerzi be.
 
 (9) A Terrorelhárítási Információs és Bűnügyi Elemző Központ harmadik ország által történő megkeresés esetén felhatalmazást adhat a harmadik országnak arra, hogy a részére nemzetközi szerződés alapján a Terrorelhárítási Információs és Bűnügyi Elemző Központ által átadott adatokat másik harmadik ország felé a 3. számú mellékletnek megfelelő, nemzetközi szerződésben meghatározott súlyos bűncselekmények megelőzése, felderítése, nyomozása, üldözése céljából átadja, ha az adatok továbbítása ezen bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából feltétlenül szükséges.
 
-52/J. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadat-információs feladatai során, ha az elemző-értékelő tevékenység keretében a 3. számú mellékletben meghatározott bűncselekményre vonatkozó információt tár fel, és az 52/H. § szerinti elemző-értékelő tevékenység keretében nem azonosítható a 3. számú mellékletben meghatározott bűncselekménnyel érintett személy, a Terrorelhárítási Információs és Bűnügyi Elemző Központ az érintett személy azonosítása céljából adatot igényelhet a rendőrség személyszállítást végző légifuvarozóktól átvett adatokat tartalmazó nyilvántartásából.
+52/J. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadat-információs feladatai során, ha az elemző-értékelő tevékenység keretében a 3. számú mellékletben meghatározott bűncselekményre vonatkozó információt tár fel, és az 52/H. § szerinti elemző-értékelő tevékenység, vagy az 52/N. §-a szerinti kockázatelemző tevékenység keretében nem azonosítható a 3. számú mellékletben meghatározott bűncselekménnyel érintett személy, a Terrorelhárítási Információs és Bűnügyi Elemző Központ az érintett személy azonosítása céljából adatot igényelhet a rendőrség személyszállítást végző légifuvarozóktól átvett adatokat tartalmazó nyilvántartásából, továbbá a Rendőrségről szóló 1994. évi XXXIV. törvény 91/M. § (4) bekezdése szerint kezelt adatokból.
 
 (2) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az (1) bekezdés szerint átvett adatot az adat átvételétől számított huszonnégy órán belül, illetve – ha az 52/H. § szerinti elemző-értékelő tevékenységre kerül sor, – az 52/H. § szerinti elemző-értékelő tevékenység befejezését vagy a (3) bekezdésben foglalt adatátadást követően haladéktalanul törli.
 
@@ -882,19 +882,19 @@ szerzi be.
 
 52/K. § A Terrorelhárítási Információs és Bűnügyi Elemző Központtól a 30/A. § a)–f) pontjában meghatározott együttműködő szervek, valamint a büntetőeljárás során az ügyészség, illetve az 52/L. § (2) bekezdése szerint a büntetőeljárás során a bíróság a 3. számú mellékletben meghatározott bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából jogosultak utasadatokat vagy azok kezelésének eredményeit kérni és kapni az információk további vizsgálata vagy a megfelelő intézkedések megtétele érdekében.
 
-52/L. § (1) Ha az utasadatot az adatelemek elrejtésével személyazonosításra alkalmatlanná tették, a Terrorelhárítási Információs és Bűnügyi Elemző Központ
+52/L. § (1) Ha a légiutas-adatot az adatelemek elrejtésével személyazonosításra alkalmatlanná tették, a Terrorelhárítási Információs és Bűnügyi Elemző Központ
 
 - a) a büntetőeljárás során eljáró bíróság kivételével az 52/K. §-ban meghatározott szervek,
 - b) az Európai Unió tagállamainak utasadat-információs egységei, valamint
 - c) az Európai Unió tagállamainak a 2016/681/EU parlamenti és tanács irányelv szerinti illetékes hatóságai
 
-indokolt megkeresése alapján csak akkor adhatja át a teljes – személyazonosításra alkalmas adatokat is tartalmazó – utasadatot, ha az adatkérés célja a 3. számú melléklet szerinti bűncselekmény megelőzése, felderítése, nyomozása és üldözése, és az ügyészség az újból személyazonosításra alkalmassá tett utasadat átadására engedélyt adott.
+indokolt megkeresése alapján csak akkor adhatja át a teljes – személyazonosításra alkalmas adatokat is tartalmazó – légiutas-adatot, ha az adatkérés célja a 3. számú melléklet szerinti bűncselekmény megelőzése, felderítése, nyomozása és üldözése, és az ügyészség az újból személyazonosításra alkalmassá tett légiutas-adat átadására engedélyt adott.
 
-(2) A büntetőeljárás során eljáró bíróság megkeresése esetén az ügyészség engedélyét nem kell kérni, a Terrorelhárítási Információs és Bűnügyi Elemző Központ az 52/K. §-ban meghatározott feltételek esetén átadja a teljes – személyazonosításra alkalmas adatokat is tartalmazó – utasadatot.
+(2) A büntetőeljárás során eljáró bíróság megkeresése esetén az ügyészség engedélyét nem kell kérni, a Terrorelhárítási Információs és Bűnügyi Elemző Központ az 52/K. §-ban meghatározott feltételek esetén átadja a teljes – személyazonosításra alkalmas adatokat is tartalmazó – légiutas-adatot.
 
 (3) Az engedélyezésről a legfőbb ügyész által kijelölt ügyészi szerv dönt.
 
-(4) Az (1) bekezdésben meghatározott megkeresés esetén a megkeresésben kért, az adatelemek elrejtésével személyazonosításra alkalmatlanná tett utasadatokat a Terrorelhárítási Információs és Bűnügyi Elemző Központ az engedélyezés érdekében, ideiglenesen személyazonosításra újból alkalmassá teszi.
+(4) Az (1) bekezdésben meghatározott megkeresés esetén a megkeresésben kért, az adatelemek elrejtésével személyazonosításra alkalmatlanná tett légiutas-adatokat a Terrorelhárítási Információs és Bűnügyi Elemző Központ az engedélyezés érdekében, ideiglenesen személyazonosításra újból alkalmassá teszi.
 
 (5) Az (1) bekezdés szerinti megkeresést az ott meghatározott szervek a Terrorelhárítási Információs és Bűnügyi Elemző Központnak küldik meg. A Terrorelhárítási Információs és Bűnügyi Elemző Központ a megkeresést három munkanapon belül megküldi az ügyészségnek. Az ügyészség a Terrorelhárítási Információs és Bűnügyi Elemző Központ előterjesztése alapján öt munkanapon belül dönt az adattovábbítás engedélyezéséről.
 
@@ -907,9 +907,48 @@ indokolt megkeresése alapján csak akkor adhatja át a teljes – személyazono
 - c) az érintett adatok körét és
 - d) azt, hogy mely szerv kérésére került sor a személyazonosításra újból alkalmassá tett adatok közlésére.
 
-(8) A (7) bekezdésben meghatározott adatokat az ismét személyazonosításra alkalmassá tett utasadatokkal azonos ideig kell megőrizni, és az utasadatokkal egyidejűleg törölni kell.
+(8) A (7) bekezdésben meghatározott adatokat az ismét személyazonosításra alkalmassá tett légiutas-adatokkal azonos ideig kell megőrizni, és a légiutas-adatokkal egyidejűleg törölni kell.
 
-52/M. § A Terrorelhárítási Információs és Bűnügyi Elemző Központ évente, jogszabályban meghatározottak szerint az Európai Bizottság rendelkezésére bocsátja a részére szolgáltatott utasadatokról összeállított statisztikai információkat; ezek az információk személyes adatokat nem tartalmazhatnak.
+52/M. § A Terrorelhárítási Információs és Bűnügyi Elemző Központ évente, jogszabályban meghatározottak szerint az Európai Bizottság rendelkezésére bocsátja a részére szolgáltatott légiutas-adatokról összeállított statisztikai információkat; ezek az információk személyes adatokat nem tartalmazhatnak.
+
+52/N. § (1) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a 8/A. § (4) bekezdésében meghatározott feladatkörében átveszi és kezeli a hajó felelős vezetője vagy az úszólétesítmény üzemben tartója által a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet VI. melléklet 3.1.2. pontja szerinti, a 4.3. pont alapján a belvízi hajózásra is alkalmazni rendelt előzetes tájékoztatási kötelezettség teljesítése érdekében biztosított elektronikus felületen rögzített adatokat (a továbbiakban: folyami utasadatok).
+
+(2) A folyami utasadatok átvételének és kezelésének a célja a 3. számú mellékletben meghatározott bűncselekmények megelőzésének, felderítésének, nyomozásának és üldözésének elősegítése.
+
+(3) A folyami utasadatok tekintetében az 52/H. § (6)–(8) és (10) bekezdését, valamint az 52/L. §-át alkalmazni kell azzal, hogy a légiutas-adaton a folyami utasadatot kell érteni.
+
+(4) Ha a Terrorelhárítási Információs és Bűnügyi Elemző Központ utasadat-információs feladatai során az elemző-értékelő tevékenység keretében a 3. számú mellékletben meghatározott bűncselekményre vonatkozó információt tár fel, és a (3) bekezdéssel alkalmazni rendelt 52/H. § szerinti elemző-értékelő tevékenység keretében nem azonosítható a 3. számú mellékletben meghatározott bűncselekménnyel érintett személy, a Terrorelhárítási Információs és Bűnügyi Elemző Központ az érintett személy azonosítása céljából adatot igényelhet a Rendőrségről szóló 1994. évi XXXIV. törvény 91/M. § (4) bekezdése alapján átvett adatokat tartalmazó nyilvántartásából.
+
+(5) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a (4) bekezdés szerint átvett adatot az adat átvételétől számított huszonnégy órán belül, illetve – ha az 52/H. § szerinti elemző-értékelő tevékenységre kerül sor – az elemző-értékelő tevékenység befejezését vagy a (6) bekezdésben foglalt adatátadást követően haladéktalanul törli.
+
+(6) A Terrorelhárítási Információs és Bűnügyi Elemző Központ a (3) bekezdéssel alkalmazni rendelt 52/H. § (7) bekezdése szerinti esetben – ha a (4) bekezdés alapján átvett adatot az elemző-értékelő tevékenység keretében felhasználta – a (4) bekezdés alapján átvett adatot is átadja.
+
+(7) A Terrorelhárítási Információs és Bűnügyi Elemző Központtól a 30/A. § a)–f) pontjában meghatározott együttműködő szerv, valamint a büntetőeljárás során az ügyészség, illetve a büntetőeljárás során a bíróság a 3. számú mellékletben meghatározott bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából jogosultak folyami utasadatokat vagy azok kezelésének eredményeit kérni és kapni az információk további vizsgálata vagy a megfelelő intézkedések megtétele érdekében.
+
+(8) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az általa átvett folyami utasadatokat az átvételtől számított 6 hónap elteltével az egyes adatelemek elrejtése útján személyazonosításra alkalmatlanná teszi.
+
+52/O. § (1) A személyes adatokkal elektronikus úton végzett adatkezelési műveletek jogszerűségének ellenőrizhetősége, valamint a személyes adatok integritásának és biztonságának biztosítása céljából a Terrorelhárítási Információs és Bűnügyi Elemző Központ automatizált adatkezelési rendszerben (a továbbiakban: naplórendszer) rögzíti a folyami utasadatokkal végzett adatkezelési művelettel összefüggő információkat.
+
+(2) A naplórendszerben történik a folyami utasadatok kezelését támogató informatikai alkalmazásban végzett adatkezelési műveletre vonatkozó eseményt leíró információk (a továbbiakban: naplóbejegyzés) gyűjtése.
+
+(3) A naplóbejegyzés tartalmazza
+
+- a) az adatkezelési művelettel érintett személyes adatok körének meghatározását,
+- b) az adatkezelési művelet jogalapját, célját és indokát,
+- c) az adatkezelési művelet elvégzésének pontos dátumát és időpontját,
+- d) az adatkezelési műveletet végrehajtó személy nevét és felhasználói azonosító adatát és a tevékenységét leíró adatokat,
+- e) a megőrzési időre vonatkozó adatokat,
+- f) az egyéb, az adatkezelési művelettel összefüggő leíró és technikai adatokat.
+
+(4) Naplóbejegyzést a személyes adatokkal végzett valamennyi műveletről, az adatkezelési esemény megtörténtével egyidejűleg kell képezni. A naplóbejegyzést pontos és megmásíthatatlan időadattal kell ellátni.
+
+(5) A naplórendszerben rögzített adatok kizárólag az adatkezelés jogszerűségének ellenőrzése, az adatbiztonsági követelmények érvényesítése, büntetőeljárás lefolytatása céljából, törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági és bűnmegelőzési ellenőrzési célból ismerhetőek meg és használhatóak fel.
+
+(6) A naplórendszerből a Nemzeti Adatvédelmi és Információszabadság Hatóság, továbbá az (5) bekezdésben meghatározott célból jogszabályban meghatározott tevékenységet folytató személy és szervezet részére – azok erre irányuló kérelmére – a Terrorelhárítási Információs és Bűnügyi Elemző Központ adatot továbbít. A Terrorelhárítási Információs és Bűnügyi Elemző Központ a naplórendszerből történő adatszolgáltatást is naplózza.
+
+(7) A naplórendszert a Terrorelhárítási Információs és Bűnügyi Elemző Központ a jogosulatlan hozzáféréstől védi.
+
+(8) A naplórendszerben a naplóbejegyzések megőrzési ideje annak keletkezésétől számított tíz év. A megőrzési idő leteltét követően a naplóbejegyzést haladéktalanul törölni kell, kivéve, ha már megkezdett ellenőrzési eljáráshoz van szükség a naplóbejegyzésre. Ebben az esetben az eljárás lezárultát követően kell a törlést végrehajtani.
 
 ### Titkos információgyűjtés
 
@@ -1381,12 +1420,12 @@ iránt intézkedik.
   - ix) a Szabályozott Tevékenységek Felügyeleti Hatósága foglalkoztatottja.
 - j) elemző-értékelő tevékenység: a nemzetbiztonsági szolgálat birtokába került adatnak a nemzetbiztonság, illetve Magyarország szuverenitásának védelme, bűncselekmény elkövetésének megelőzése, felderítése, megszakítása, az elkövető kilétének megállapítása, elfogása, körözött személy felkutatása, tartózkodási helyének megállapítása, bizonyítékok megszerzése céljából történő feldolgozása, a feldolgozott adatból következtetések levonása;
 - k) együttműködő szervek: a 30/A. §-ban meghatározott szervek;
-- l) utasadat: a légiközlekedésről szóló törvényben meghatározott, az utastól vagy megbízottjától, illetve a személyszállítást végző légifuvarozó megbízásából jegyértékesítést végző szolgáltatótól származó adat;
+- l) légiutas-adat: a légiközlekedésről szóló törvényben meghatározott, az utastól vagy megbízottjától, illetve a személyszállítást végző légifuvarozó megbízásából jegyértékesítést végző szolgáltatótól származó adat;
 - m) utasadat szolgáltatója: az l) pontban meghatározott adatot a terrorizmus és a szervezett bűnözés megelőzésének, megszakításának, felderítésének elősegítése céljából törvény szerint átadó személyszállítást végző légifuvarozó;
 - n) közvetlen elektronikus adatkapcsolat: a Terrorelhárítási Információs és Bűnügyi Elemző Központ által meghatározott műszaki követelményeknek megfelelő számítástechnikai alkalmazás, amely az együttműködő szerv által kiépített felületen keresztül a Terrorelhárítási Információs és Bűnügyi Elemző Központ és az együttműködő szerv közötti dokumentált adatátadást tesz lehetővé;
 - o) jelzés: a nemzetbiztonsági szolgálatok által a feladataik végrehajtásához kapcsolódóan az adatkezelési rendszerekben kezelt adatra vonatkozóan elrendelt értesítési meghagyás, amely biztosítja a jelzéssel ellátott adatot érintő eseményről – így különösen az adatváltozásról, az adatot érintő intézkedésről, az adatra vonatkozó megkeresésről – az elrendelő nemzetbiztonsági szolgálat tudomásszerzését;
-- p) az utasadat személyazonosításra alkalmatlanná tétele: az érintett utasok közvetlen beazonosítását lehetővé tevő adatelemek láthatatlanná tétele az adatelemek elrejtésével a felhasználók számára;
-- q) az utasadat újbóli személyazonosításra alkalmassá tétele: az érintett utasok közvetlen beazonosítását lehetővé tevő adatelemek elrejtésével személyazonosításra alkalmatlanná tett utasadatok újbóli személyazonosításra alkalmassá tétele az elrejtett adatelemek láthatóvá tétele által.
+- p) a légiutas-adat személyazonosításra alkalmatlanná tétele: az érintett utasok közvetlen beazonosítását lehetővé tevő adatelemek láthatatlanná tétele az adatelemek elrejtésével a felhasználók számára;
+- q) a légiutas-adat újbóli személyazonosításra alkalmassá tétele: az érintett utasok közvetlen beazonosítását lehetővé tevő adatelemek elrejtésével személyazonosításra alkalmatlanná tett légiutas-adatok újbóli személyazonosításra alkalmassá tétele az elrejtett adatelemek láthatóvá tétele által.
 - t) honvédelmi szervezet: a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 13. pontja szerinti szervezet.
 
 75. § (1)
