@@ -212,6 +212,7 @@ rendelkezik;
   - ab) vele szemben a 8. § (5) bekezdése szerinti kizáró ok áll fenn;
   - ac) az Egyesült Nemzetek céljaiba és elveibe ütköző bűncselekményt követett el;
 - b) akinek Magyarország területén való tartózkodása a nemzetbiztonságot veszélyezteti.
+- c) akiről megalapozottan feltehető, hogy Magyarország általi befogadását megelőzően származási országában olyan bűncselekményt követett el, amely Magyarországon történő elkövetés esetén három évig terjedő vagy azt meghaladó szabadságvesztéssel büntetendő, és megalapozottan feltehető, hogy a kérelmező csak a bűncselekménye elkövetésével járó büntetés elkerülése érdekében hagyta el származási országát.
 
 ### Oltalmazottak biztonságos származási országokból és biztonságos harmadik országokból
 
@@ -1325,11 +1326,12 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (2) A bíróság a keresetlevél bírósághoz érkezésétől számított hatvan napon belül dönt. Az eljárásban szükség esetén személyes meghallgatásnak van helye.
 
-(3) A bírósági eljárásban a kérelmező személyes meghallgatása kötelező, ha a kérelmező menekültügyi őrizet hatálya alatt áll. A személyes meghallgatás helyszíne az őrizet végrehajtásának helye. A személyes meghallgatást a bíróság mellőzi, ha
+(3) A bírósági eljárásban a kérelmező személyes meghallgatása kötelező, ha a kérelmező menekültügyi őrizet hatálya alatt áll. A személyes meghallgatás helyszíne az őrizet végrehajtásának helye. A személyes meghallgatást a bíróság mellőzheti, ha az ismételt kérelem a korábbival azonos ténybeli alapon nyugszik. A bíróság a keresetlevelet visszautasítja, ha
 
-- a) a kérelmező a szálláshelyéről nem idézhető,
-- b) a kérelmező ismeretlen helyre távozott, vagy
-- c) az ismételt kérelem a korábbival azonos ténybeli alapon nyugszik.
+- a) a kérelmező a szálláshelyéről nem idézhető, vagy
+- b) a kérelmező ismeretlen helyre távozott.
+
+(3a) Ha a bíróság tárgyalási határnap kitűzéséről rendelkezett és a kérelmező a keresetlevél benyújtását követően ismeretlen helyre távozott vagy a szálláshelyéről nem idézhető, a bíróság az eljárást megszünteti. Az eljárás megszüntetésének abban az esetben is helye van, ha a kérelmező egyébként jogi képviselővel rendelkezik.
 
 (4) A bíróság vizsgálata kiterjed mind a tények, mind a jogi szempontok teljes körű, a bírósági határozat meghozatalának időpontja szerinti vizsgálatára.
 
@@ -1854,6 +1856,8 @@ igényelhetnek adatot.
 (1a) Az e fejezetben meghatározott nyilvántartásokból a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából igényelhet adatot.
 
 (1b) A menekültügyi hatóság a menekültügyi nyilvántartáshoz a Magyar igazolvány, illetve a Magyar hozzátartozói igazolvány kiadása iránti kérelmet elbíráló hatóság részére a kérelem elbírálására irányuló eljárás során a jogosultsági feltételek vizsgálatához, továbbá az igazolvány visszavonására irányuló eljárás során a visszavonási ok fennállásának vizsgálatához a menekült vagy menedékes jogállás fennállására vonatkozó adatok tekintetében az eljáró hatóság részére közvetlen hozzáférést biztosít.
+
+(1c) A menekültügyi hatóság a szociális ellátások ügyvitelét támogató rendszer útján megkeresésre adatot szolgáltat a fővárosi és megyei kormányhivatalok részére a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti pénzbeli és természetbeni szociális ellátások, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti gyermektartásdíj megelőlegezésének a jogosultság fennállásának elbírálása, az ellátás biztosítása, fenntartása és megszüntetése céljából.
 
 (2) A menekültügyi hatóság – a személyiadat- és lakcímnyilvántartásba történő felvétel, illetve a személyazonosító igazolvánnyal, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvánnyal történő ellátás céljából az érintett személy törvényben meghatározott adatainak közlésével – a menekültként vagy oltalmazottként történő elismerésről tájékoztatja az érintett leendő lakóhelye szerint illetékes járási hivatalt.
 

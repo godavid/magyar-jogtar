@@ -442,7 +442,7 @@ honvédelmi veszélyhelyzetet hirdethet ki.
 
 (4) A honvédelemért felelős miniszter – kormányrendeletben meghatározott esetekben – gondoskodik a Honvédség személyi állományának kártalanításáról, amennyiben a jogszerűen okozott vagyoni kár legalább részben a személyi állomány Honvédséggel fennálló foglalkoztatási jogviszonyával függ össze. A kártalanítás módjára és mértékére a kártérítésre vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy az általános kártérítés és a sérelemdíj szabályai nem alkalmazhatóak.
 
-22/A. §
+22/A. § A honvédelemért felelős miniszter törvényben meghatározott esetekben hatósági jogköröket gyakorol a miniszteri rendeletben kijelölt honvédelmi érdekhez közvetlenül kapcsolódó tevékenységet folytató gazdasági társaságok tekintetében.
 
 22/B. § (1) A kormányrendeletben kijelölt gazdasági társaságot kormányrendeletben foglaltak szerint, az ott meghatározott termékek és szolgáltatások tekintetében a honvédelmi, rendvédelmi, nemzetbiztonsági, valamint egyéb állami fegyveres szervek részére ellátási kötelezettség terheli.
 
@@ -922,6 +922,7 @@ alkotják.
 - e) közreműködés az állami közfoglalkoztatás feladatainak végrehajtásában,
 - f) az élet, az anyagi javak és objektumok oltalmazása érdekében az elektromágneses spektrumot kihasználó támadó, információszerző, felderítő eszközök elleni aktív elektromágneses műveletek végzése,
 - g) a Magyarország biztonságát, honvédelmi érdekeit sértő, veszélyeztető, katonai jellegű kibertér műveletek, kibertérre ható cselekmények vagy kibertámadások elleni fellépés, illetve az ezekkel összefüggő szövetségesi, illetve nemzetközi együttműködési keretben megvalósuló feladatok.
+- h) az (1) bekezdésben és a g) pontban meghatározott feladatokkal összefüggő műveletek előkészítéséhez és végrehajtásához szükséges információs műveletek teljesítése.
 
 (3) A (2) bekezdés b) pontjában meghatározott feladatot a Honvédség térítés ellenében láthatja el.
 
@@ -1153,7 +1154,7 @@ illeti meg.
 
 #### 29. A honvédelmi szervezet irányítása és felső szintű vezetése
 
-45. § (1) A honvédelemért felelős miniszter a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdése szerint irányítja a honvédelmi szervezetet. A honvédelemért felelős miniszter egyes irányítási hatásköreinek a gyakorlására kormányrendelet a honvédelemért felelős miniszter által vezetett minisztériumnak a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 3. § (3) bekezdés c) pontja, (5) bekezdés c) pontja, és (7) bekezdése szerinti vezetőjét jelölheti ki.
+45. § (1) A honvédelemért felelős miniszternek a honvédelem és az egyes honvédelmi szervezetek irányításával összefüggő feladatait törvény, az e törvény végrehajtására kiadott kormányrendelet, valamint a Kormány tagjainak feladat- és hatásköréről szóló kormányrendelet határozza meg. A honvédelemért felelős miniszter nevében e hatáskörök gyakorlása során e törvény, a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) és a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény szerint más személy eljárhat.
 
 (1a) A honvédelemért felelős miniszter egyes katonai szervezetek vagy azok speciális feladatokat ellátó szervezeti egységei esetében, a katonai szervezetek alapító okiratában meghatározottak szerint
 
@@ -1194,7 +1195,7 @@ az általa vezetett minisztériumnak a kormányzati igazgatásról szóló 2018.
 
 (2)
 
-(3) A honvédelmi államtitkár és a közigazgatási államtitkár kormányrendeletben meghatározottak szerint irányítják a honvédelemért felelős miniszter hatáskörébe tartozó döntések előkészítését, végrehajtásuk tervezését, szervezését. A honvédelmi államtitkár és a közigazgatási államtitkár feladataik ellátása során együttműködnek.
+(3) A honvédelmi államtitkár és a közigazgatási államtitkár – a honvédelemért felelős miniszter által vezetett minisztérium szervezeti és működési szabályzatában meghatározottak szerint irányítják a honvédelemért felelős miniszter hatáskörébe tartozó döntések előkészítését, végrehajtásuk tervezését, szervezését. A honvédelmi államtitkár és a közigazgatási államtitkár feladataik ellátása során együttműködnek.
 
 (4) A Magyar Honvédség Parancsnoksága a Honvédség felső szintű tervező-szervező és katonai tevékenységének vezető szerve.
 
@@ -1266,7 +1267,7 @@ az általa vezetett minisztériumnak a kormányzati igazgatásról szóló 2018.
 
 52. § (1) Intézkedésben állapíthatók meg a honvédelmi szervezet vezetéséhez kapcsolódó feladatok, valamint egyes rendszeresen ismétlődő tevékenységek végrehajtásának eljárási szabályai, ideértve a honvédelmi szervezetek működési rendjének és a személyi állomány mindennapi tevékenységének általános rendezést igénylő kérdéseit is. Intézkedés kiadására – vezetési jogkörének és hatáskörének megfelelően – a szolgálati elöljáró és a hivatali felettes jogosult.
 
-(2) Szakutasításban állapíthatók meg a honvédelmi szervezetek szakmai feladatai ellátásának alapvető végrehajtási szabályai. Szakutasítás kiadására – a KNBSZ kivételével – valamennyi honvédelmi szervezetre kiterjedő hatállyal a honvédelemért felelős miniszter által vezetett minisztérium közigazgatási államtitkára, honvédelmi államtitkára, helyettes államtitkárai, kizárólag a honvédségi szervezetekre kiterjedő hatállyal a Magyar Honvédség parancsnoka, a Magyar Honvédség Parancsnokságának szemlélői, csoportfőnökei, főnökei és a Magyar Honvédség egészségügyi főnöke jogosult.
+(2) Szakutasításban állapíthatók meg a honvédelmi szervezetek szakmai feladatai ellátásának alapvető végrehajtási szabályai. Szakutasítás kiadására – a KNBSZ kivételével – valamennyi honvédelmi szervezetre kiterjedő hatállyal a honvédelemért felelős miniszter által vezetett minisztérium közigazgatási államtitkára, honvédelmi államtitkára, helyettes államtitkára, kizárólag a honvédségi szervezetekre kiterjedő hatállyal a Magyar Honvédség parancsnoka és helyettese, szemlélője, csoportfőnöke, főnökei, továbbá a Magyar Honvédség egészségügyi főnöke és transzformációs főnöke jogosult.
 
 (3) Belső rendelkezés kiadására a jogosult távolléte vagy akadályoztatása esetén – ha a jogosult eltérően nem rendelkezik – a helyettese adhat ki belső rendelkezést. A belső rendelkezés nem lehet jogszabállyal vagy közjogi szervezetszabályozó eszközzel ellentétes.
 
@@ -1288,7 +1289,7 @@ az általa vezetett minisztériumnak a kormányzati igazgatásról szóló 2018.
 
 (4) Az ország fegyveres védelmének és a szövetségi szintű védelem tervezéséhez és felülvizsgálatához, valamint a Honvédség műveleteinek tervezéséhez, irányításához és vezetéséhez szükséges döntések meghozatalának támogatása érdekében a Honvédség és a KNBSZ felderítő rendszert működtet. A felderítő rendszer útján a Honvédség és a KNBSZ információkat gyűjt a műveleti terület valamennyi összetevőjéről, valamint a honvédelmi feladatok tervezését és végrehajtását meghatározó körülményekről, jelenségekről. E körben a Honvédség és a KNBSZ törvényben meghatározottak szerint biometrikus adatokat is gyűjthet és kezelhet.
 
-(5) Magyarország honvédelmi érdekeinek védelme és biztosítása, a kapcsolódó szövetségesi kötelezettségek teljesítése, valamint az országvédelem kibertér műveleti erőkkel történő fenntartása és fokozása érdekében a Honvédség és a KNBSZ kibertér műveleti erői közvetlenül együttműködnek egymással. A kibertér műveleti képességek fejlesztését, valamint a kapcsolódó tervezési, biztonsági és szabályozási feladatokat a Honvédség a KNBSZ egyetértésével, a KNBSZ-től kapott információk felhasználásával és a KNBSZ szakmai támogatásával látja el.
+(5) Magyarország honvédelmi érdekeinek védelme és biztosítása, a kapcsolódó szövetségesi kötelezettségek teljesítése, valamint az országvédelem kibertér műveleti erőkkel történő fenntartása és fokozása érdekében a Honvédség és a KNBSZ kibertér műveleti erői közvetlenül együttműködnek egymással. A kibertér műveleti képességek fejlesztését, valamint a kapcsolódó tervezési, biztonsági és szabályozási feladatokat a Honvédség a KNBSZ-től kapott információk felhasználásával és a KNBSZ szakmai támogatásával látja el. Ha a kibertér műveleti képességek fejlesztése, a kapcsolódó tervezési, biztonsági és szabályozási feladatok nemzetbiztonsági vonatkozással bírnak, a végrehajtásukhoz a KNBSZ főigazgatójának egyetértése szükséges.
 
 #### 35. Az őrzés-védelem és az objektumbiztonság
 
@@ -1538,11 +1539,11 @@ az általa vezetett minisztériumnak a kormányzati igazgatásról szóló 2018.
 
 62/A. § (1) A Honvédség katonai kibertér műveleti erői jogszabályban meghatározottak szerint folyamatosan ellátják
 
-- a) a honvédelmi szervezetek, gyakorlatok, műveletek kibertérből érkező fenyegetésekkel és támadásokkal szembeni védelmét, az arra történő felkészülést és a kapcsolódó biztonsági feladatokat,
+- a) a honvédelmi szervezetek – ide nem értve a KNBSZ-t – és az e törvény szerinti katonai feladatok – ideértve az ezekre való felkészülést és a gyakorlatokat – kibertérből érkező fenyegetésekkel és támadásokkal szembeni védelmét, az arra történő felkészülést és – a külön jogszabályban meghatározott elektronikus információbiztonsági feladatokra figyelemmel – a kapcsolódó biztonsági feladatokat,
 - b) az a) pont szerinti feladatokkal összefüggésben a folyamatban lévő, kibertérből érkező támadás megszakításához szükséges intézkedések végrehajtását, vagy annak kezdeményezését, valamint
 - c) külön döntés szerint a Magyarország biztonságát, honvédelmi érdekeit, vagy szövetségesi kötelezettségeit sértő vagy fenyegető rendszerekkel szembeni katonai kibertér műveleti fellépést.
 
-(2) Az (1) bekezdés b) és c) pontja szerinti feladatok szakmai koordinációjáért – a kapcsolódó közjogi döntések keretei között – a honvédelemért felelős miniszter által kijelölt kibervédelmi ügyeletes parancsnok felel.
+(2) Az (1) bekezdés a) pontja szerinti katonai feladatok ellátásának védelme kapcsán felmerülő részfeladatokat a Magyar Honvédség parancsnoka határozza meg. Az (1) bekezdés b) és c) pontja szerinti feladatok szakmai koordinációjáért – a kapcsolódó közjogi döntések keretei között – a honvédelemért felelős miniszter által kijelölt kibervédelmi ügyeletes parancsnok felel.
 
 (3) Ha az (1) bekezdés b) pontja szerinti intézkedéseket a Honvédség kibertér műveleti erői önállóan hajtják végre, akkor
 
@@ -1555,14 +1556,18 @@ az általa vezetett minisztériumnak a kormányzati igazgatásról szóló 2018.
 
 (5) Külföldről érkező jelentős támadás esetén a foganatba vett intézkedésekről és azok okairól – katonadiplomáciai úton, a külpolitikáért felelős miniszter egyidejű tájékoztatása mellett – értesíteni kell a támadók helye szerinti államot – érintettség esetén a NATO-t, az Európai Uniót, és a két- vagy többoldalú megállapodás alapján együttműködő feleket –, vagy kezdeményezni kell a hatáskörrel és illetékességgel rendelkező hatóságoknál a támadók felelősségre vonásához szükséges eljárásokat.
 
-(6) Az (1) bekezdés c) pontja szerinti fellépésre az ott meghatározottak nemzetbiztonsági információkkal megerősített fennállása esetén,
+(6) Az (1) bekezdés c) pontja szerinti fellépésre az ott meghatározottak nemzetbiztonsági információkkal megerősített fennállása esetén – a kapcsolódó közjogi döntések keretei között –,
 
 - a) szövetségi kötelezettség teljesítésének keretében,
-- b) nemzetközi művelettel összefüggésben,
-- c) honvédelmi veszélyhelyzet idején vagy
-- d) különleges jogrendben
+- b) nemzetközi művelettel összefüggésben, vagy
+- c) honvédelmi veszélyhelyzet idején
 
-a Kormány erre vonatkozó döntése alapján van lehetőség.
+a kibervédelmi ügyeletes parancsnok döntése alapján van lehetőség.
+
+(6a) Az (1) bekezdés c) pontja szerinti fellépésre az ott meghatározottak nemzetbiztonsági információkkal megerősített fennállása esetén – a kapcsolódó közjogi döntések keretei között –
+
+- a) különleges jogrendben, valamint
+- b) a (6) bekezdéstől eltérő egyéb esetben a Kormány döntése alapján van lehetőség.
 
 (7) Az (1) bekezdés c) pontja szerinti fellépés keretében megvalósuló cselekmények, intézkedések tekintetében
 
@@ -1571,7 +1576,13 @@ a Kormány erre vonatkozó döntése alapján van lehetőség.
 - c) olyan eljárásokat kell alkalmazni, amelyek a kibertéren keresztül tudják garantálni a sérelmek jövőbeni megismétlődésének megakadályozását, vagy a közvetlen fenyegetés beteljesülését, és
 - d) figyelembe kell venni az alkalmazott módszerek és eljárások katonai szükségességét.
 
-(8) A (6) bekezdésben meghatározott döntéshozatal rendjét a Kormány a 21. § (1) bekezdés o) pontjára figyelemmel, rendeletben határozza meg, különösen az elrendeléshez szükséges jelentések és információk körének, valamint a döntéshozatal folyamatának és jogosultjainak meghatározásával.
+(8) A (6) bekezdésben meghatározott döntéshozatal rendjét a Kormány a 21. § (1) bekezdés o) pontjára figyelemmel határozza meg, különösen az elrendeléshez szükséges jelentések és információk körének, valamint a döntéshozatal folyamatának és jogosultjainak meghatározásával.
+
+(9) Az (1) bekezdés szerinti feladatok ellátáshoz szükséges műveleti információkat a Honvédség kibertér műveleti erői a kibertérre irányuló önálló felderítő tevékenység, valamint a katonai egységes felderítő rendszer útján szerzik be.
+
+(10) Az (1) bekezdés szerinti feladatok tervezése és végrehajtása érdekében az állami szervek és a 18. § (2) bekezdésében felsorolt állami szervnek nem minősülő, honvédelemben közreműködő szervek együttműködnek, a kapcsolódó szolgáltatási tevékenységet folytató gazdasági társaságok együttműködhetnek a Honvédség katonai kibertér műveleti erőivel.
+
+62/B. § A katonai kibertér műveleti erők ügyelnek arra, hogy eljárásuk vagy intézkedésük lehetőség szerint minél kisebb zavarkeltéssel és károkozással járjon. Ha a 62/A. § (1) bekezdés c) pontja szerinti fenyegetés vagy támadás elhárítása, vagy megszakítása érdekében tett intézkedések során vagy azzal összefüggésben a katonai kibertér műveleti erők kárt okoznak, de az intézkedés elmulasztása feltehetően sokkal súlyosabb következménnyel járt volna, az így okozott károkért a katonai kibertér műveleti erőket nem terheli felelősség, kivéve, ha azokat szándékosan vagy súlyos gondatlanságból eredően okozták.
 
 #### 41. A katonai jelképek és jelzések
 
@@ -1911,6 +1922,7 @@ rendelheti el.
   - i) mintázat; valamint
   - j) az a)–i) pontban szereplő megjelölés kombinációja,
 - 18. igénybevevő: a 18. § (1) és (2) bekezdésében meghatározott honvédelemben közreműködő szervek és a honvédségi szervezet,
+- 18a. információs művelet: a műveleti területen lévő személyek és azok csoportjai információs ellátottságának módosítására, valamint a Honvédség erőinek és műveleteinek kedvező információs környezet kialakítására irányuló szervezett és rendszerszerűen felépített tevékenységek összessége.
 - 19. külföldi hadműveleti területen végzett humanitárius tevékenység: a Honvédség részvétele a szemben álló felek fegyveres összeütközése miatt veszélyeztetett területen, a polgári lakosok élete, testi épsége, egészsége, az életfenntartáshoz szükséges alapvető javak biztosítása érdekében,
 - 20. katonai igazgatás: a közigazgatási szervek jogilag szabályozott és a honvédelmi igazgatás részét képező olyan tevékenysége, amely a haza fegyveres védelme feltételeinek megteremtése és megvalósítása érdekében a jogalanyok honvédelmi kötelezettségeinek és önként vállalt honvédelmi feladatainak tervezésére, valamint a kötelezettségek és a vállalt feladatok végrehajtására irányul,
 - 20a. korlátozott elérésű terület: a honvédelmi szervezetek működésére szolgáló olyan helyszín, amelyre a belépés meghatározott feltételek megléte esetén engedélyezhető, amely feltételeknek való megfelelést a belépési jogosultság ellenőrzésére kijelölt személy esetileg vizsgálja; ilyen terület:
@@ -1966,6 +1978,8 @@ rendelheti el.
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a Honvédség veszélyhelyzettel és egészségügyi válsághelyzettel összefüggő feladatokban történő közreműködésének tartalmát.
 
+(1b) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg az e törvényben meghatározott kibertér műveleti feladatokban közreműködő szervezeteket, valamint e feladatok végrehajtásának rendjét.
+
 (2) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben szabályozza
 
 - a) a hadkötelesek katonai szolgálatra behívásának, katonai szolgálatának és leszerelésének rendjét,
@@ -1995,6 +2009,8 @@ rendelheti el.
 - a) a Honvédség által a Köztársasági Elnöki Hivatalnál foglalkoztatottak részére nyújtható, üdültetési és pihentetési szolgáltatások fajtáit, azok feltételeit és rendjét, továbbá a Honvédség személyi állományába nem tartozó személyeknek szolgálati érdekkel összefüggésben nyújtható költségtérítések fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás, a visszatérítés rendjét,
 - b) a nyugállományú katonák és a honvédelmi szervezettől nyugdíjba vonult honvédelmi alkalmazottak, közalkalmazottak, segítését célul kitűző civil szervezetek természetbeni támogatásával összefüggő szabályokat.
 
+(2b) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben jelölje ki azokat a honvédelmi érdekhez közvetlenül kapcsolódó tevékenységet folytató gazdasági társaságokat, amelyek tekintetében a 22/A. §-ban meghatározott jogköröket gyakorolja.
+
 (3) Felhatalmazást kapnak a miniszterek, hogy a honvédelemért felelős miniszterrel egyetértésben rendeletben
 
 - a) határozzák meg ágazatuk honvédelmi, valamint a befogadó nemzeti támogatással kapcsolatos feladatait,
@@ -2014,7 +2030,7 @@ rendelheti el.
 
 83. § E törvény
 
-- a) I–V. Fejezete – a III/A. és III/B. Fejezetek, valamint a 38. § (7) és (8) bekezdése kivételével –, VII–IX. Fejezete, 48. alcíme, 49. alcíme, 52. alcíme az Alaptörvény T) cikk (1) bekezdése, XXXI. cikk (3) bekezdése, 45. cikk (5) bekezdése, valamint 54. cikk (4) bekezdése,
+- a) I–V. Fejezete – a 22/A. §, a III/A. Fejezet, a III/B. Fejezet, valamint a 38. § (7) és (8) bekezdése kivételével –, VII–IX. Fejezete, 48. alcíme, 49. alcíme, 52. alcíme az Alaptörvény T) cikk (1) bekezdése, XXXI. cikk (3) bekezdése, 45. cikk (5) bekezdése, valamint 54. cikk (4) bekezdése,
 - b) 42/A. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése
 
 alapján sarkalatosnak minősül.

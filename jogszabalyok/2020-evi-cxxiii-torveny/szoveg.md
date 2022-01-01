@@ -23,13 +23,13 @@ terjed ki.
 2. § E törvény alkalmazásában:
 
 - a) hozzátartozó: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. § (1) bekezdés 2. pontjában meghatározott hozzátartozó;
-- b) hozzátartozói láncolat: a Ptk. 8:1. § (1) bekezdés 1. pontjának megfelelő közeli hozzátartozói kapcsolatban lévő természetes személyek, valamint e személyek hozzátartozói által alkotott csoport;
-- c) kiegészítő tevékenység: a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi törvény) 5. § 14. pontjában meghatározott kiegészítő tevékenység;
+- b) hozzátartozói láncolat: a Ptk. 8:1. § (1) bekezdés 1. pontjának megfelelő közeli hozzátartozói kapcsolatban lévő természetes személyek, valamint e személyek hozzátartozói és egyenesági rokonai által alkotott csoport;
+- c) kiegészítő őstermelői tevékenység: falusi és agroturizmus, kézművesipari tevékenység, fűrészáru-feldolgozás, takarmány-előállítás, mezőgazdasági termékből élelmiszer előállítása mező-, erdőgazdasági tevékenységből származó termékfeldolgozás kivételével, ha az a saját gazdaságban előállított alapanyag felhasználásával történik és nem haladja meg az e törvény végrehajtására kiadott rendeletben meghatározott mennyiséget, dohányfeldolgozás, bioüzemanyag-előállítás a mező-, erdőgazdasági tevékenység során keletkezett melléktermékek, növényi és állati eredetű hulladék hasznosítása, nem élelmiszercélú feldolgozása, valamint az ezekből a termékekből keletkezett termékek közvetlen termelői értékesítése, továbbá mező- és erdőgazdasági szolgáltatás;
 - d) mező-, erdőgazdasági hasznosítású föld: a Földforgalmi törvény 5. § 17. pontjában meghatározott mező-, erdőgazdasági hasznosítású föld;
-- e) mező-, erdőgazdasági tevékenység: a Földforgalmi törvény 5. § 18. pontjában meghatározott mező-, erdőgazdasági tevékenység;
+- e) mező-, erdőgazdasági tevékenység: a Földforgalmi törvény 5. § 18. pontjában meghatározott mező-, erdőgazdasági tevékenység, valamint továbbá e tevékenységből származó termékfeldolgozás, ha az a saját gazdaságban előállított alapanyag felhasználásával történik és nem haladja meg az e törvény végrehajtására kiadott rendeletben meghatározott mennyiséget;
 - f) mezőgazdasági termelőeszköz: azoknak a javaknak – az őstermelői tevékenységhez szükséges művelés alól kivett ingatlanoknak, épületeknek és építményeknek, valamint ingóságoknak – az összessége, amelyek az őstermelői tevékenység végzését szolgálják;
-- g) őstermelői tevékenység: az őstermelői nyilvántartásba felvett mező-, erdőgazdasági tevékenység, valamint kiegészítő tevékenység, továbbá e tevékenységből származó termékfeldolgozás, ha az a saját gazdaságban előállított alapanyag felhasználásával történik és nem haladja meg a kistermelői élelmiszer-termelésről, előállításról és értékesítésről szóló rendeletben meghatározott mennyiséget;
-- h) saját gazdaság: a természetes személy használatában álló mező-, erdőgazdasági hasznosítású föld, valamint mezőgazdasági termelőeszközök azon köre, amelyre nézve az érintett személyt megilleti a termelés szervezésének, valamint – a vetőmag-bértermelés, a bérnevelés, a bérhizlalás és a kihelyezett állat tartása kivételével – a termelés eredménye felhasználásának a jogosultsága.
+- g) őstermelői tevékenység: az őstermelői nyilvántartásba felvett mező-, erdőgazdasági tevékenység, valamint kiegészítő őstermelői tevékenység;
+- h) saját gazdaság: a természetes személy saját vagy az őstermelők családi gazdasága tagjainak közös használatában álló mező-, erdőgazdasági hasznosítású föld, valamint mezőgazdasági termelőeszközök azon köre, amelyre nézve az érintett személyt vagy személyeket megilleti a termelés szervezésének, valamint – a vetőmag-bértermelés, a bérnevelés, a bérhizlalás és a kihelyezett állat tartása kivételével – a termelés eredménye felhasználásának a jogosultsága.
 
 ### II. Fejezet — A MEZŐGAZDASÁGI ŐSTERMELŐ
 
@@ -41,7 +41,7 @@ terjed ki.
 
 (3) A mezőgazdasági őstermelő az őstermelői tevékenységét önállóan vagy őstermelők családi gazdaságának tagjaként végezheti. Mezőgazdasági őstermelő az őstermelői tevékenysége tekintetében nem folytathat egyéni vállalkozói tevékenységet.
 
-(4) Mezőgazdasági őstermelő kiegészítő tevékenységéből származó éves bevétele nem haladhatja meg az őstermelői tevékenységből származó éves bevételének negyedét. Ha a kiegészítő tevékenységből származó éves bevétele meghaladja a teljes őstermelői tevékenységből származó éves bevétele negyedét, akkor a kiegészítő tevékenység teljes bevétele nem minősül őstermelői tevékenységből származó bevételnek, és nem folytathat kiegészítő tevékenységet mezőgazdasági őstermelőként.
+(4) Mezőgazdasági őstermelő kiegészítő őstermelői tevékenységéből származó éves bevétele nem haladhatja meg az őstermelői tevékenységből származó éves bevételének negyedét. Ha a kiegészítő őstermelői tevékenységből származó éves bevétele meghaladja a teljes őstermelői tevékenységből származó éves bevétele negyedét, akkor a kiegészítő őstermelői tevékenység teljes bevétele nem minősül őstermelői tevékenységből származó bevételnek, és nem folytathat kiegészítő őstermelői tevékenységet mezőgazdasági őstermelőként.
 
 (5) Az őstermelői tevékenységgel előállított termék értékesítése során az őstermelő nevében, annak képviselőjeként közeli hozzátartozója vagy alkalmazottja is eljárhat.
 
@@ -66,9 +66,9 @@ terjed ki.
 
 #### 5. A mezőgazdasági őstermelők ellenőrzése
 
-5. § (1) A mezőgazdasági igazgatási szerv ellenőrzi az őstermelő tevékenységét, a mezőgazdasági őstermelő által közölt és nyilvántartásba vett adatok és nyilatkozatok valódiságát, valamint az őstermelői tevékenység során előállított termékek értékesítésének jogszerűségét.
+5. § (1) A mezőgazdasági igazgatási szerv ellenőrzi az őstermelő tevékenységét, a mezőgazdasági őstermelő által közölt és nyilvántartásba vett adatok és nyilatkozatok valódiságát, valamint az őstermelői tevékenység során előállított termékek értékesítésének jogszerűségét, illetve az őstermelői termékként történő értékesítés jogszerűségét.
 
-(2) A mezőgazdasági igazgatási szerv a tevékenység nem jogszerű folytatásának megállapítása esetén – az eset összes körülményét, így különösen az érintettek érdekei sérelmének körét, súlyát mérlegelve – bírságot szabhat ki, illetve elrendelheti a mezőgazdasági őstermelő által forgalmazott termék forgalomból való kivonását, a mezőgazdasági őstermelő költségére történő megsemmisítését, valamint a mezőgazdasági őstermelőnek a tevékenységtől történő eltiltását legfeljebb öt évig terjedő időtartamra.
+(2) A mezőgazdasági igazgatási szerv a tevékenység nem jogszerű folytatásának megállapítása esetén – az eset összes körülményét, így különösen az érintettek érdekei sérelmének körét, súlyát mérlegelve – bírságot szabhat ki, illetve elrendelheti a mezőgazdasági őstermelő által forgalmazott termék, illetve mezőgazdasági őstermelői termékként értékesített áru forgalomból való kivonását, a mezőgazdasági őstermelő költségére történő megsemmisítését, valamint a mezőgazdasági őstermelőnek a tevékenységtől történő eltiltását legfeljebb öt évig terjedő időtartamra.
 
 (3) A mezőgazdasági igazgatási szerv a tevékenység végzésétől történő eltiltásról szóló döntést a véglegessé válását követő munkanapon megküldi az állami adó- és vámhatóságnak és az Agrárkamarának.
 
@@ -87,7 +87,7 @@ terjed ki.
 7. § (1) Az őstermelők családi gazdasága alapításának céljából a tagok írásbeli szerződést kötnek, amely tartalmazza:
 
 - a) a használatukban lévő mező-, erdőgazdasági hasznosítású földnek, a használatukban lévő mezőgazdasági termelőeszközöknek, az azokhoz kapcsolódó vagyoni értékű jogoknak az őstermelők családi gazdasága tagjai által végzett közös gazdálkodás érdekében való rendelkezésre bocsátást,
-- b) a folytatandó mezőgazdasági és kiegészítő tevékenységeket,
+- b) a folytatandó őstermelői tevékenységeket,
 - c) a személyes közreműködés formáját,
 - d) az őstermelők családi gazdaságát képviselő őstermelő személyét,
 - e) az őstermelők családi gazdaságának központját.
@@ -98,19 +98,22 @@ terjed ki.
 
 (4) Az őstermelők családi gazdaságának képviselője a képviseletre a nyilvántartásba vétellel válik jogosulttá.
 
-(5) Az (1) bekezdésben meghatározott szerződés módosításáról, valamint a tagok hozzátartozói minőségében, a hozzátartozói láncolatban elfoglalt helyében bekövetkezett változásról az őstermelők családi gazdaságának képviselője 15 napon belül értesíti az Agrárkamarát.
+(5) Az (1) bekezdésben meghatározott szerződés módosításáról vagy az (1) bekezdésben meghatározott szerződés bármely tag által történő felmondásáról, valamint a tagok hozzátartozói minőségében a hozzátartozói láncolatban elfoglalt helyében bekövetkezett változásról az őstermelők családi gazdaságának képviselője 15 napon belül értesíti az Agrárkamarát.
 
-(6) Az Agrárkamara törli a nyilvántartásból az őstermelők családi gazdaságára vonatkozó adatokat a mezőgazdasági őstermelő vonatkozásában a 10. § (2) bekezdés d) pontjában meghatározott esetben.
+(6) Az Agrárkamara törli a nyilvántartásból az őstermelők családi gazdaságára vonatkozó adatokat a mezőgazdasági őstermelő vonatkozásában
+
+- a) a 10. § (2) bekezdés d) pontjában meghatározott esetben, vagy
+- b) ha az (1) bekezdésben meghatározott szerződést a tag felmondja.
 
 (7) Az Agrárkamara az őstermelők családi gazdaságát törli a nyilvántartásból, ha
 
 - a) tagjai együttesen kérelmezik a nyilvántartásból való törlést,
-- b) az őstermelők családi gazdasága már nem felel meg a nyilvántartásba vétel feltételeinek és a tagok felszólítás ellenére sem pótolják 60 napon belül a hiányzó feltételeket, vagy
+- b) az őstermelők családi gazdasága már nem felel meg a nyilvántartásba vétel feltételeinek és a tagok felszólítás ellenére sem pótolják 15 napon belül a hiányzó feltételeket, vagy
 - c) az őstermelők családi gazdaságát alapító szerződés a 10. § (1) bekezdése alapján hatályát veszti.
 
 #### 8. Az őstermelők családi gazdaságának működése
 
-8. § (1) Az őstermelők családi gazdaságának képviselője a többi tag képviseletében az őstermelők családi gazdasága tevékenysége körében jogokat szerezhet és kötelezettségeket vállalhat.
+8. § (1) Az őstermelők családi gazdaságának képviselője a többi tag képviseletében az őstermelők családi gazdasága tevékenysége körében az ügyek vitelére jogosult, a többi tag nevében csak azok meghatalmazása esetén szerezhet jogokat és vállalhat kötelezettségeket.
 
 (2) Az őstermelői tevékenységgel előállított termék értékesítése során az őstermelők családi gazdasága tagjának nevében, annak képviselőjeként az őstermelők családi gazdaságának bármelyik tagja vagy alkalmazottja is eljárhat.
 
@@ -147,7 +150,7 @@ terjed ki.
 
 (2) A mezőgazdasági őstermelőknek őstermelők családi gazdaságában való részvételének tényét az őstermelői nyilvántartásban fel kell tüntetni.
 
-(3) Az őstermelői nyilvántartást az őstermelő nyilvántartási számmal történő azonosítása, illetve más őstermelőtől való megkülönböztetése, továbbá a jogszabályoknak megfelelő működése ellenőrzése céljából, az 5. és a 11. §-ban foglalt ellenőrzési feladatok ellátása érdekében az Agrárkamara vezeti és a mezőgazdasági igazgatási szerv üzemelteti. A mezőgazdasági igazgatási szerv a mezőgazdasági őstermelő számára a nyilvántartásba vétel során az élelmiszerláncról és hatósági felügyeletéről szóló törvényben meghatározott FELIR azonosítót állapít meg.
+(3) Az őstermelői nyilvántartást az őstermelő FELIR azonosítóval történő azonosítása, illetve más őstermelőtől való megkülönböztetése, továbbá a jogszabályoknak megfelelő működése ellenőrzése céljából, az 5. és a 11. §-ban foglalt ellenőrzési feladatok ellátása érdekében az Agrárkamara vezeti és a mezőgazdasági igazgatási szerv üzemelteti. A mezőgazdasági igazgatási szerv a mezőgazdasági őstermelő számára a nyilvántartásba vétel során az élelmiszerláncról és hatósági felügyeletéről szóló törvényben meghatározott FELIR azonosítót állapít meg.
 
 (4) A mezőgazdasági igazgatási szerv az Agrárkamara számára az őstermelők nyilvántartásával kapcsolatos feladatainak ellátása érdekében elektronikus hozzáférést biztosít az őstermelői nyilvántartáshoz.
 
@@ -161,14 +164,14 @@ terjed ki.
 - 4. anyja születési családi és utónevét,
 - 5. lakcímét,
 - 6. értesítési címét, telefonszámát, elektronikus levélcímét,
-- 7. a mezőgazdasági őstermelő FELIR azonosítóját, tevékenységeinek azonosítóját,
-- 8. a mezőgazdasági őstermelő nyilvántartásba vételének, nyilvántartásból törlésének dátumát,
+- 7. a mezőgazdasági termelő FELIR azonosítóját és tevékenységazonosítóját,
+- 8. a mezőgazdasági őstermelő nyilvántartásba vételének, nyilvántartásból törlésének dátumát a 19. §-nak megfelelően, valamint az őstermelői igazolvány érvényesítésének dátumát,
 - 9. az őstermelői tevékenység végzésének helyét,
-- 10. a mezőgazdasági őstermelő által adott gazdasági évben termesztett növénykultúrák, -fajok megnevezését,
+- 10. a mezőgazdasági őstermelő által termesztett növénykultúrák, -fajok megnevezését,
 - 11. a mezőgazdasági őstermelő által tartott állatfajok megnevezését,
 - 12. a mezőgazdasági őstermelő által értékesíteni kívánt növényi, illetve állati eredetű termékek megnevezését,
 - 13. a mezőgazdasági őstermelő által vadon gyűjthető termékek körét,
-- 14. a mezőgazdasági őstermelő által folytatott tevékenységek körét, azok tevékenység-azonosítóját,
+- 14. a mezőgazdasági őstermelő által folytatott tevékenységek körét, azok tevékenység-azonosítóját és a tevékenységek kezdetének és befejezésének dátumát,
 - 15. az arra vonatkozó adatot, hogy a mezőgazdasági őstermelő őstermelők családi gazdasága tagjaként végzi-e őstermelői tevékenységét, és ez esetben az őstermelők családi gazdaságának nyilvántartási számát,
 - 16. az őstermelők családi gazdaságának központját,
 - 17. az arra vonatkozó adatot, hogy a mezőgazdasági őstermelő az őstermelők családi gazdaságát képviseli,
@@ -176,8 +179,10 @@ terjed ki.
 - 19. az őstermelők családi gazdasága működésének alapjául szolgáló szerződés példányát,
 - 20. a mezőgazdasági őstermelői tevékenységtől eltiltás tényét, kezdő és záró időpontját,
 - 21. a mezőgazdasági őstermelői tevékenység felfüggesztésének okát, kezdő és záró időpontját.
+- 22. az őstermelők családi gazdasága nyilvántartásba vételének, nyilvántartásból törlésének dátumát a 19. §-nak megfelelően,
+- 23. az őstermelők családi gazdasága tagjait és FELIR azonosítójukat a 19. §-nak megfelelően, valamint a családi gazdálkodót.
 
-(2) Az őstermelői nyilvántartás adatai közül az őstermelők tevékenységének átláthatósága céljából a mezőgazdasági igazgatási szerv honlapján való közzététellel bárki számára megismerhető az (1) bekezdés 1., 7., 8., 10–17., 20. és 21. pontja.
+(2) Az őstermelői nyilvántartás adatai közül az őstermelők tevékenységének átláthatósága céljából a mezőgazdasági igazgatási szerv honlapján való közzététellel bárki számára megismerhető az (1) bekezdés 1., 7., 8., 10–17., 20., 21., 22. és 23. pontja.
 
 (3) A mezőgazdasági igazgatási szerv az őstermelői nyilvántartásban szereplő adatokat, ha az őstermelő
 
@@ -186,7 +191,7 @@ terjed ki.
 
 tárolja.
 
-(4) A mezőgazdasági igazgatási szerv az őstermelői nyilvántartásban szereplő adatokról és azok változásáról adatot szolgáltat az állami adó- és vámhatóságnak, a mezőgazdasági és vidékfejlesztési támogatási szervnek, a kormányhivatalnak, a vásár, piac fenntartójának, üzemeltetőjének a tevékenységükre vonatkozó jogszabályban foglalt ellenőrzési feladatainak ellátása érdekében.
+(4) A mezőgazdasági igazgatási szerv az őstermelői nyilvántartásban szereplő adatokról és azok változásáról adatot szolgáltat az állami adó- és vámhatóságnak, a mezőgazdasági és vidékfejlesztési támogatási szervnek, a társadalombiztosítási és családtámogatási szervnek, a kormányhivatalnak, a vásár, piac fenntartójának, üzemeltetőjének a tevékenységükre vonatkozó jogszabályban foglalt ellenőrzési feladatainak ellátása érdekében.
 
 (5) Az őstermelői nyilvántartásban kezelt adatok a Központi Statisztikai Hivatal részére statisztikai célra és az agrárpolitikáért felelős miniszter irányítása alatt álló agrárgazdasági elemzésekkel foglalkozó intézmény részére statisztikai és gazdaságelemzési célra egyedi azonosításra alkalmas módon, egyéb statisztikai, illetve tudományos kutatási célra személyazonosításra alkalmatlan módon átadhatók.
 
@@ -196,7 +201,7 @@ tárolja.
 
 14. § (1) Családi mezőgazdasági társaságként gazdasági társaság, szövetkezet vagy erdőbirtokossági társulat a nyilvántartásba vételt követően működhet.
 
-(2) A családi mezőgazdasági társaság olyan, a családi mezőgazdasági társaságok nyilvántartásában szereplő, kizárólag mező-, erdőgazdasági tevékenységet, illetve kiegészítő tevékenységet folytató gazdasági társaság, szövetkezet vagy erdőbirtokossági társulat, amelynek legalább két tagja van, és tagjai egymással hozzátartozói láncolatban állnak.
+(2) A családi mezőgazdasági társaság olyan, a családi mezőgazdasági társaságok nyilvántartásában szereplő, kizárólag mező-, erdőgazdasági tevékenységet, illetve a Földforgalmi törvényben meghatározott kiegészítő tevékenységet folytató gazdasági társaság, szövetkezet vagy erdőbirtokossági társulat, amelynek legalább két tagja van, és tagjai egymással hozzátartozói láncolatban állnak.
 
 (3) Egy személy egyidejűleg csak egy családi mezőgazdasági társaságban lehet tag.
 
@@ -204,13 +209,14 @@ tárolja.
 
 #### 13. A családi mezőgazdasági társaság alapítása és nyilvántartása
 
-15. § (1) Az Agrárkamara a családi mezőgazdasági társaságokról, azok azonosítása, más családi mezőgazdasági társaságoktól való megkülönböztetése, továbbá a jogszabályoknak megfelelő működésük ellenőrzése céljából nyilvántartást vezet, amely a (2) bekezdés a) pontjában meghatározott adatkörben közhiteles és nyilvános. A (2) bekezdés a) pontjában meghatározott adatokat az Agrárkamara a honlapján teszi közzé.
+15. § (1) Az Agrárkamara a családi mezőgazdasági társaságokról, azok azonosítása, más családi mezőgazdasági társaságoktól való megkülönböztetése, továbbá a jogszabályoknak megfelelő működésük ellenőrzése céljából nyilvántartást vezet, amely a (2) bekezdés a) pontjában és b) pont ba), bd), bf) alpontjában meghatározott adatkörben nyilvános és a családi mezőgazdasági társaság minősítés vonatkozásában közhiteles. A (2) bekezdés a) pontjában meghatározott adatokat az Agrárkamara a honlapján teszi közzé.
 
 (2) A családi mezőgazdasági társaságok nyilvántartása tartalmazza
 
 - a) a családi mezőgazdasági társaság
   - aa) nevét,
   - ab) cégjegyzékszámát;
+  - ac) adószámát;
 - b) a tagjainak
   - ba) családi és utónevét,
   - bb) születési családi és utónevét,
@@ -220,15 +226,11 @@ tárolja.
   - bf) anyja születési családi és utónevét,
   - bg) hozzátartozói minőségére, illetve a hozzátartozói láncolatban elfoglalt helyére vonatkozó adatot.
 
-(3) A családi mezőgazdasági társaság nyilvántartásba vétel iránti kérelméhez mellékelni kell a (4) bekezdésnek megfelelő létesítő okiratot és a tagok hozzátartozói láncolatának igazolását.
+(3) A családi mezőgazdasági társaság nyilvántartásba vétel iránti kérelméhez mellékelni kell a tagok hozzátartozói láncolatának igazolását.
 
-(4) A családi mezőgazdasági társaság létesítő okiratában az erdőbirtokossági társulatról szóló törvénynek, valamint a Ptk-nak az adott jogi személy létesítő okiratára vonatkozó rendelkezései mellett rendelkezni kell
+(4)
 
-- a) a tagok tulajdonában vagy használatában levő egyes mező-, erdőgazdasági hasznosítású föld használatának a társaság részére történő átengedéséről,
-- b) a mezőgazdasági termelőeszközöknek és a vagyoni értékű jogoknak a társaság részére történő átengedéséről,
-- c)
-
-(5) A családi mezőgazdasági társaság tagjai a hozzátartozói minőségükben bekövetkezett változásról kötelesek az Agrárkamarát 15 napon belül értesíteni.
+(5) A családi mezőgazdasági társaság tagjai a nyilvántartási adatukban bekövetkezett változásról kötelesek az Agrárkamarát 15 napon belül értesíteni.
 
 (6) Az Agrárkamara törli a nyilvántartásból a családi mezőgazdasági társaságot, ha
 
@@ -236,13 +238,16 @@ tárolja.
 - b) megszűnik vagy egyesüléssé alakul,
 - c) tagjainak száma egy főre csökken,
 - d) a tagja tekintetében a hozzátartozói láncolat megszakad és e tag a tagsági jogviszonyát nem szünteti meg, vagy
-- e) mező-, erdőgazdasági tevékenységen és kiegészítő tevékenységen kívül más tevékenységet is végez.
+- e) mező-, erdőgazdasági tevékenységen és a Földforgalmi törvényben meghatározott kiegészítő tevékenységen kívül más tevékenységet is végez.
 
 (7) Az Agrárkamara a családi mezőgazdasági társaságok nyilvántartásában vezetett adatokat az abból való törlést követő öt évig tárolja.
 
 (8) Az Agrárkamara a mezőgazdasági igazgatási szerv számára az őstermelők nyilvántartásával kapcsolatos feladatainak ellátása érdekében adatot szolgáltat a családi mezőgazdasági társaságok nyilvántartásából.
 
-(9) Az Agrárkamara a családi mezőgazdasági társaságok nyilvántartásában szereplő adatokról és azok változásáról statisztikai célból, egyedi azonosításra nem alkalmas módon adatot szolgáltat az agrárpolitikáért felelős miniszternek, továbbá az állami adó- és vámhatóságnak, a mezőgazdasági és vidékfejlesztési támogatási szervnek, a kormányhivatalnak, valamint a mezőgazdasági igazgatási szervnek a tevékenységükre vonatkozó jogszabályban foglalt ellenőrzési feladataik ellátása érdekében.
+(9) Az Agrárkamara a családi mezőgazdasági társaságok nyilvántartásában szereplő adatokról és azok változásáról adatot szolgáltat
+
+- a) statisztikai célból egyedi azonosításra nem alkalmas módon az agrárpolitikáért felelős miniszternek, továbbá
+- b) egyedi azonosításra alkalmas módon az állami adó- és vámhatóságnak, a mezőgazdasági és vidékfejlesztési támogatási szervnek, a kormányhivatalnak, valamint a mezőgazdasági igazgatási szervnek a tevékenységükre vonatkozó jogszabályban foglalt ellenőrzési feladataik ellátása érdekében.
 
 (10) A családi mezőgazdasági társaságok nyilvántartásában kezelt adatok a Központi Statisztikai Hivatal részére statisztikai célra és az agrárminiszter irányítása alatt álló agrárgazdasági elemzésekkel foglalkozó intézmény részére statisztikai és gazdaságelemzési célra egyedi azonosításra alkalmas módon, egyéb statisztikai, illetve tudományos kutatási célra személyazonosításra nem alkalmas módon átadhatók.
 
@@ -277,9 +282,9 @@ tárolja.
 - a) személyükben mezőgazdasági őstermelőnek minősülnek akkor is, ha nem felelnek meg a 3. § (2) bekezdésben meghatározott életkori feltételnek;
 - b) együttesen őstermelők családi gazdaságaként működnek azzal, hogy az őstermelők családi gazdasága képviselőjének azt a tagot kell tekinteni, aki a családi gazdaság vezetőjeként szerepelt a nyilvántartásban.
 
-(4) Aki 2020. december 31. napján családi gazdaság tagja volt, 2021. január 1. napjától mezőgazdasági őstermelőnek minősül akkor is, ha 2020. december 31. napjáig egyéni vállalkozóként folytatta tevékenységét. Az Agrárkamara 2021. március 31. napjáig nyilatkozattételre hívja fel a mezőgazdasági őstermelőt, amelynek alapján ha a családi gazdaság tagja egyéni vállalkozóként kívánja folytatni a mező- és erdőgazdasági tevékenységét, akkor az őstermelői nyilvántartásból 2021. január 1. napjával törölni kell. Ha a családi gazdaság tagja a nyilatkozata alapján nem egyéni vállalkozóként kívánja folytatni a mező- és erdőgazdasági tevékenységét, akkor ezen tevékenységeket 2021. december 31. napjáig töröltetnie kell az egyéni vállalkozói nyilvántartásból. Nem zárja ki a mezőgazdasági őstermelőként történő nyilvántartásba vételt az, ha a kiegészítő tevékenysége az egyéni vállalkozóként folytatott tevékenységei között is szerepel.
+(4) Aki 2020. december 31. napján családi gazdaság tagja volt, 2021. január 1. napjától mezőgazdasági őstermelőnek minősül akkor is, ha 2020. december 31. napjáig egyéni vállalkozóként folytatta tevékenységét. Az Agrárkamara 2021. március 31. napjáig nyilatkozattételre hívja fel a mezőgazdasági őstermelőt, amelynek alapján ha a családi gazdaság tagja egyéni vállalkozóként kívánja folytatni a mező- és erdőgazdasági tevékenységét, akkor az őstermelői nyilvántartásból 2021. január 1. napjával törölni kell. Ha a családi gazdaság tagja a nyilatkozata alapján nem egyéni vállalkozóként kívánja folytatni a mező- és erdőgazdasági tevékenységét, akkor ezen tevékenységeket 2021. december 31. napjáig töröltetnie kell az egyéni vállalkozói nyilvántartásból. Nem zárja ki a mezőgazdasági őstermelőként történő nyilvántartásba vételt az, ha a kiegészítő őstermelői tevékenysége az egyéni vállalkozóként folytatott tevékenységei között is szerepel.
 
-(5) A (2) és a (3) bekezdés szerinti esetben 2021. június 30. napjáig az őstermelők családi gazdaságára vonatkozó feltételeknek meg kell felelni és a (2) bekezdés szerinti esetben az őstermelők családi gazdaságának alapításáról szóló szerződést az Agrárkamarának be kell nyújtani. Ennek elmulasztása esetén az Agrárkamara az őstermelői nyilvántartásból törli a tagok őstermelők családi gazdaságában történő részvételét.
+(5) A (2) és a (3) bekezdés szerinti esetben 2021. december 31. napjáig az őstermelők családi gazdaságára vonatkozó feltételeknek meg kell felelni és a (2) bekezdés szerinti esetben az őstermelők családi gazdaságának alapításáról szóló szerződést az Agrárkamarának be kell nyújtani. Ennek elmulasztása esetén az Agrárkamara az őstermelői nyilvántartásból törli a tagok őstermelők családi gazdaságában történő részvételét.
 
 (6) A mezőgazdasági igazgatási szerv 2020. december 31. napján közös őstermelői igazolvánnyal rendelkezők és 2020. december 31. napján családi gazdaságban tagsági viszonnyal rendelkezők vonatkozásában az Agrárkamara döntését követően átvezeti az adatváltozást a mezőgazdasági őstermelői nyilvántartásban és feltünteti a tagok őstermelők családi gazdaságában történő részvételét.
 
@@ -287,7 +292,9 @@ tárolja.
 
 (8)
 
-(9) A mezőgazdasági őstermelők, az őstermelők családi gazdaságának, valamint a családi mezőgazdasági társaság nyilvántartásba vételére irányuló eljárás 2022. december 31. napjáig nem folytatható elektronikusan.
+(9) A mezőgazdasági őstermelők, az őstermelők családi gazdaságának, valamint a családi mezőgazdasági társaság nyilvántartásba vételére, adatainak módosítására, nyilvántartásból való törlésére irányuló eljárás 2022. december 31. napjáig nem kezdeményezhető elektronikusan.
+
+(10) A termelési tényezők hasznosításából, értékesítéséből származó bevételt 2021. évben – a gazdálkodó döntésének megfelelően – nem kell beleszámítani a kiegészítő tevékenységből, tevékenységekből származó bevételbe.
 
 #### 16. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

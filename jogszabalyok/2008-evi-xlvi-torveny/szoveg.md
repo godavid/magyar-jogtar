@@ -845,6 +845,7 @@ engedélyezési, nyilvántartási, nyomonkövetési adatait, beleértve azok fog
 - n) vállalkozók által az élelmiszerlánc-felügyeleti szervhez beküldött önellenőrzési adatokat;
 - o) a 47/B. § (12) bekezdés szerinti rendszert;
 - p) FELIR felhasználók természetes személyazonosító adatait.
+- q) a megújuló energiaforrásokból előállított energia használatát szolgáló biomassza, köztes termék, bioüzemanyag, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok engedélyezési, nyilvántartási, nyomonkövetési adatait, beleértve azok fogyasztási, felhasználási adatait is.
 
 (3) A FELIR kialakításához és működtetéséhez az élelmiszerlánc-felügyeleti szerv kezeli
 
@@ -1422,6 +1423,8 @@ az államtól e törvény végrehajtására kiadott jogszabályban meghatározot
 
 57/A. § Az 57. § v)–x) pontjában meghatározott jogkövetkezmények alkalmazásakor – kötelezés kivételével – figyelmeztetés alkalmazásának helye nincs.
 
+57/A. § Az 57. § v) és w) pontjában meghatározott intézkedés alkalmazásakor figyelmeztetés, illetve közigazgatási óvadék alkalmazásának nincs helye.
+
 57/B. § Ha a mezőgazdasági igazgatási szerv a kábítószer előállítására alkalmas növényekkel kapcsolatos előírások megszegése miatt megállapítja a jogsértés elkövetését, közigazgatási szankcióként elrendeli a növényállománynak, illetve a termésnek a termesztő költségén történő megsemmisítését.
 
 58. § Ha az élelmiszer- vagy takarmányjogi előírások megsértése esetén az élelmiszerlánc-felügyeleti szerv egy adott élelmiszer vagy takarmány forgalomba hozatalát megtiltja, a jogsértésért felelős élelmiszer- vagy takarmány-vállalkozás köteles az érintett élelmiszer vagy takarmány vonatkozásában az e törvény végrehajtására kiadott jogszabályokban meghatározottak szerint eljárni, és eljárásáról, valamint a megtett intézkedésekről az élelmiszerlánc-felügyeleti szervet részletesen tájékoztatni. Amennyiben a hatóság az adott élelmiszer vagy takarmány vonatkozó előírásoknak való megfelelésének biztosítása szempontjából az élelmiszer- vagy takarmány-vállalkozás eljárását nem kielégítőnek ítéli meg, az élelmiszer- vagy takarmány-vállalkozás költségére haladéktalanul megteszi a szükséges intézkedéseket.
@@ -1883,6 +1886,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg.
 - h) a takarmányban előforduló nemkívánatos anyagokról szóló, 2002. május 7-i 2002/32/EK európai parlamenti és tanácsi irányelvnek,
 - i) a peszticidek fenntartható használatának elérését célzó közösségi fellépés kereteinek meghatározásáról szóló, 2009. október 21-i 2009/128/EK európai parlamenti és tanácsi irányelvnek,
 - j) a 93/13/EGK tanácsi irányelvnek, valamint a 98/6/EK, a 2005/29/EK és a 2011/83/EU európai parlamenti és tanácsi irányelvnek az uniós fogyasztóvédelmi szabályok hatékonyabb végrehajtása és korszerűsítése tekintetében történő módosításáról szóló, 2019. november 27-i (EU) 2019/2161 európai parlamenti és tanácsi irányelvnek
+- k) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

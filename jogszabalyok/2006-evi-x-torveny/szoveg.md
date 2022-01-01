@@ -130,7 +130,7 @@ számára lehetőséget biztosít a munkavégzési feltételek megteremtésére,
 
 12. § (1) A nevelési-oktatási intézmény, a szakképző intézmény, illetve a felsőoktatási intézmény azt a vagyonát viheti be az iskolaszövetkezetbe, illetve azt a vagyonát bocsáthatja az iskolaszövetkezet rendelkezésére, amellyel az alapító okiratának megfelelően vállalkozhat, feltéve, hogy ez nem veszélyezteti az alapító okiratában meghatározott alaptevékenységét és ebből fakadó kötelezettségeinek teljesítését.
 
-(2) Az (1) bekezdésben foglaltakon túlmenően, ha a nevelési-oktatási intézmény a szakképzési hozzájárulás teljesítése keretében fejlesztési támogatást kap, az ebből származó vagyon – külön megállapodás keretében – az iskolaszövetkezet rendelkezésére bocsátható, feltéve, hogy az iskolaszövetkezet alapszabálya szerint részt vesz a gyakorlati képzés feladatainak az ellátásában, és ezt a célt a fejlesztési támogatás nyújtásával kapcsolatos megállapodásban rögzítik.
+(2) Az (1) bekezdésben foglaltakon túlmenően, ha a nevelési-oktatási intézmény a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalapból fejlesztési támogatást kap, az ebből származó vagyon – külön megállapodás keretében – az iskolaszövetkezet rendelkezésére bocsátható, feltéve, hogy az iskolaszövetkezet alapszabálya szerint részt vesz a gyakorlati képzés feladatainak az ellátásában, és ezt a célt a fejlesztési támogatás nyújtásával kapcsolatos megállapodásban rögzítik.
 
 (3) A nevelési-oktatási intézmény, a szakképző intézmény, illetve a felsőoktatási intézmény által az iskolaszövetkezet rendelkezésére bocsátott vagyon nem minősíthető az iskolaszövetkezet fel nem osztható vagyonává.
 

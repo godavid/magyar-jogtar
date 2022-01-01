@@ -65,7 +65,7 @@ az ingatlan-nyilvántartásról
 
 (2) A ranghely előzetes biztosításának, a ranghely fenntartásának ténye a jogosultak kérelme alapján az ingatlan-nyilvántartás tulajdoni lapján legfeljebb egyévi időtartamra, a törvényben meghatározott módon feljegyezhető.
 
-(3) Állami tulajdonban álló, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánító törvényben vagy kormányrendeletben meghatározott beruházással érintett ingatlan tekintetében a vagyonkezelői jog bejegyzése, módosítása vagy törlése tárgyában hozott határozatot a széljegyzett beadványok rangsorára való tekintet nélkül kell az ingatlan-nyilvántartásban átvezetni.
+(3) Állami tulajdonban álló, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánító törvényben vagy kormányrendeletben meghatározott beruházással érintett ingatlan tekintetében a vagyonkezelői jog és a kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog bejegyzése, módosítása vagy törlése tárgyában hozott határozatot a széljegyzett beadványok rangsorára való tekintet nélkül kell az ingatlan-nyilvántartásban átvezetni.
 
 (4) A földmérési és térképészeti tevékenységről szóló törvény szerinti felmérési, térképezési és területszámítási hiba kijavítása tárgyában hozott határozatot a széljegyzett beadványok rangsorára való tekintet nélkül kell az ingatlan-nyilvántartásban átvezetni.
 
@@ -161,7 +161,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 16. § Az ingatlan-nyilvántartásba az ingatlanhoz kapcsolódó következő jogok, illetőleg annak jogosultjai jegyezhetők be:
 
-- a) tulajdonjog, illetőleg állami tulajdonban álló ingatlan esetében az állam tulajdonosi jogait gyakorló szervezet, és a vagyonkezelői jog, helyi önkormányzati tulajdon esetében a vagyonkezelői jog,
+- a) tulajdonjog, illetőleg állami tulajdonban álló ingatlan esetében az állam tulajdonosi jogait gyakorló szervezet, és a vagyonkezelői jog és a kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog helyi önkormányzati tulajdon esetében a vagyonkezelői jog és a kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog
 - b) a lakásszövetkezeti tagot megillető állandó használati jog,
 - c) megállapodáson és bírósági határozaton alapuló földhasználati jog,
 - d) haszonélvezeti jog és használat joga,
@@ -185,7 +185,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 - 5. telekalakítási eljárás megindítása,
 - 6. felmérési, térképezési és területszámítási hiba kijavítására irányuló eljárás megindítása,
 - 7. földminősítési eljárás megindítása,
-- 8. az ingatlanügyi hatósági határozat elleni 8.1. jogorvoslati kérelem, 8.2. ügyészi felhívás, 8.3. ügyészi fellépés benyújtása, 8.4. felügyeleti eljárás megindítása,
+- 8. az ingatlanügyi hatósági határozat elleni 8.1. jogorvoslati kérelem, 8.2. ügyészi felhívás benyújtása, 8.3. ügyészi fellépés benyújtása, 8.4. felügyeleti eljárás megindítása,
 - 9. a bejegyzés, a feljegyzés és az adatváltozás átvezetése alapjául szolgáló vagy azzal kapcsolatos bírósági határozat elleni felülvizsgálati, illetve perújítási kérelem benyújtása,
 - 10. az ingatlan jogi jellege,
 - 11. a bejegyzés, a feljegyzés és az adatváltozás átvezetése iránti kérelem vagy megkeresés elutasítása,
@@ -193,9 +193,9 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 - 13. az ingatlan-nyilvántartási eljárás felfüggesztése,
 - 14. végleges hatósági vagy jogerős bírósági határozattal megállapított tartós környezetkárosodás ténye, mértéke és jellege,
 - 15. bírósági ítéleten alapuló tulajdoni korlátozás,
-- 16. bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelése, valamint egyéb építésügyi korlátozás, az épített környezet alakításáról és védelméről szóló törvényben meghatározott építésügyi kötelezés, valamit önkormányzati hatósági döntésen, vagy hatósági szerződésen alapuló településrendezési kötelezettség ténye.
+- 16. bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelése, valamint egyéb építésügyi korlátozás, az épített környezet alakításáról és védelméről szóló törvényben meghatározott építésügyi kötelezés, valamint önkormányzati hatósági döntésen, vagy hatósági szerződésen alapuló településrendezési kötelezettség ténye,
 - 17. szerződésen, végintézkedésen, bírósági vagy hatósági határozaton alapuló 17.1. elidegenítési és terhelési tilalom, 17.2. elidegenítési tilalom, 17.3. a rendelkezési jogot korlátozó egyéb tilalom,
-- 18. az e törvényben meghatározott 18.1. perek, 18.2. büntetőeljárás megindítása,
+- 18. az e törvényben meghatározott 18.1. perek megindítása, 18.2. büntetőeljárás megindítása,
 - 19. árverés vagy nyilvános pályázat kitűzése,
 - 20. a zárlat, a zár alá vétel, a zárlat az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására,
 - 21. a tulajdonjog fenntartással történt eladás,
@@ -212,10 +212,11 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 - 32. történelmi emlékhely,
 - 33. a jogosult természetes személlyel szemben megindított adósságrendezési eljárás,
 - 34. az eljárás megszüntetésének ténye,
-- 35. a 2020. évi LXXI. törvény szerint folyamatban lévő megosztás.
-- 35. A fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet hatálya alá eső, az adós ellen indított fizetésképtelenségi eljárás ténye.
+- 35. a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvény szerint folyamatban lévő megosztás,
+- 36. A fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet hatálya alá eső, az adós ellen indított fizetésképtelenségi eljárás ténye,
+- 37. törölt haszonélvezeti jog visszajegyezhetőségének vizsgálatára irányuló eljárás megindítása.
 
-(2) Az (1) bekezdés 1–14. és 31–35. pontjaiban meghatározott tények feljegyzésének elmaradása az egyébként azokhoz fűződő joghatásokat nem érinti, a Ptk.-nak a feljegyzés visszamenőleges hatályára vonatkozó rendelkezését ennek megfelelően kell alkalmazni. A 15–30. pontokban meghatározott tények feljegyzésének elmaradása esetén a jogosult azokat nem érvényesítheti a jóhiszemű és ellenérték fejében szerző harmadik jogszerzővel szemben.
+(2) Az (1) bekezdés 1–14. és 31–37. pontjában meghatározott tények feljegyzésének elmaradása az egyébként azokhoz fűződő joghatásokat nem érinti, a Ptk.-nak a feljegyzés visszamenőleges hatályára vonatkozó rendelkezését ennek megfelelően kell alkalmazni. A 15–30. pontokban meghatározott tények feljegyzésének elmaradása esetén a jogosult azokat nem érvényesítheti a jóhiszemű és ellenérték fejében szerző harmadik jogszerzővel szemben.
 
 (3)
 
@@ -334,6 +335,8 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 (7) A bejegyzést – ha jogszabály rendelkezéséből vagy a felek megállapodásából más nem következik – annak kell kérnie, aki ezáltal jogosulttá válik. Kérheti a bejegyzést az is, akinek ez bejegyzett jogát érinti.
 
+(7a) A nemzeti vagyonról szóló 2011. évi CXCVI. törvényben (a továbbiakban: Nvtv.) szabályozott kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog a jog jogosultjának és az ingatlan átadójának közös kérelme alapján jegyezhető be az ingatlan-nyilvántartásba. A kérelemhez mellékelni kell az ingatlanok rendelkezésére bocsátásáról szóló átadás-átvételi jegyzőkönyvet.
+
 (8) Az eljáró hatóság – ideértve a bíróságot, közjegyzőt, bírósági végrehajtót is – bejegyezhető jogra, feljegyezhető tényre, illetve az ingatlan-nyilvántartásba bejegyzett jogosult és az ingatlan adataiban bekövetkezett változásokra vonatkozó, végrehajtható határozata alapján megkeresi az ingatlanügyi hatóságot az átvezetés iránt. A vagyonszerzést létrehozó, megállapító hatósági határozatot két eredeti példányban kell az ingatlanügyi hatóság részére megküldeni.
 
 (9) A kérelem a szerződő feleknek – a bejegyzés alapjául szolgáló okirattal megegyező alakisággal rendelkező – közös nyilatkozatával, az ingatlanügyi hatóság határozatának véglegessé válásáig visszavonható vagy módosítható. Ha a bejegyzés folytán harmadik személy vált volna jogosulttá, a kérelem visszavonásához vagy módosításához az ő hozzájárulása is szükséges.
@@ -351,7 +354,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 azon változásokat, amelyeket eljárása során észlel.
 
-(3) Az ingatlan tulajdonosa, az állam tulajdonosi jogait gyakorló szerv vagy a vagyonkezelő, illetőleg a használó a változás bekövetkezésétől, illetőleg a tudomásszerzéstől számított harminc napon belül köteles bejelenteni az ingatlanügyi hatóságnak
+(3) Az ingatlan tulajdonosa, az állam tulajdonosi jogait gyakorló szerv vagy a vagyonkezelő, a vagyonkezelői jog és a kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog jogosultja, illetőleg a használó a változás bekövetkezésétől, illetőleg a tudomásszerzéstől számított harminc napon belül köteles bejelenteni az ingatlanügyi hatóságnak
 
 - a) az ingatlan határvonalában, területében, továbbá a földrészlet művelési ágában – ideértve a művelés alól kivett területet is – és a föld minőségében bekövetkezett változást,
 - b) a nyilvántartás tárgyát képező épület, építmény létesítését, illetve lebontását.
@@ -360,7 +363,7 @@ azon változásokat, amelyeket eljárása során észlel.
 
 (4a) A (4) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a bejelentő kéri – a (3) bekezdés szerinti határidőben értesíti az ingatlanügyi hatóságot. Az ingatlanügyi hatóság a közhiteles nyilvántartást vezető szerv értesítése alapján az adatváltozást hivatalból átvezeti.
 
-(5) Nincs szükség külön bejelentésre, ha a (3) és (4) bekezdés szerinti változás hatósági határozaton alapul, illetőleg a tulajdonjog, a vagyonkezelői jog változásával kapcsolatos, feltéve, hogy ennek bejegyzését az érdekelt harminc napon belül kéri.
+(5) Nincs szükség külön bejelentésre, ha a (3) és (4) bekezdés szerinti változás hatósági határozaton alapul, illetőleg a tulajdonjog, a vagyonkezelői jog, kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog, változásával kapcsolatos, feltéve, hogy ennek bejegyzését az érdekelt harminc napon belül kéri.
 
 (6) Az ingatlan adataiban hatósági határozattal, a település közigazgatási, illetve belterületi határának módosításával kapcsolatban bekövetkezett változások átvezetése iránt az erről szóló döntést hozó szerv keresi meg az ingatlanügyi hatóságot.
 
@@ -460,6 +463,10 @@ alapján kerülhet sor.
 (5b) Ha az átalakításos önálló zálogjog bejegyzése iránti eljárásban benyújtott okirat nem tartalmazza a zálogkötelezett (1) bekezdés a) pontja szerinti személyi azonosítóját, úgy ezt az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartást vezető szerv megkeresése útján, hivatalból pótolja.
 
 (6) A föld tulajdonjogának megszerzésére irányuló, ügyvéd vagy kamarai jogtanácsos által ellenjegyzett vagy közokiratba foglalt, a külön jogszabályban meghatározott biztonsági kellékekkel rendelkező okmányon elkészített, és hatósági jóváhagyáshoz kötött szerződés bejegyzés alapjául akkor szolgálhat, ha annak eredeti példányán szerepel a mezőgazdasági igazgatási szerv jóváhagyásáról szóló záradék. Az elővásárlásra jogosult javára történő bejegyzés iránti kérelemhez csatolandó bejegyzési engedélynek tartalmaznia kell a jogszerző bejegyzéshez szükséges adatait. Felszámolási, vagy önkormányzati adósságrendezési eljárás során történő tulajdonszerzés esetén a tulajdonjog bejegyzés iránti kérelemhez csatolt árverési jegyzőkönyvnek kell tartalmaznia a mezőgazdasági igazgatási szerv jóváhagyó záradékát.
+
+(7) Az Nvtv.-ben szabályozott kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog bejegyzése során az ingatlanügyi hatóság kizárólag a 26. § (7a) bekezdésében, valamint az Nvtv. 12. § (3b) bekezdésében foglalt feltételek fennállását vizsgálja.
+
+(8) A (7) bekezdés szerinti kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog bejegyzése esetén az ingatlanügyi hatóság az ingatlanon fennálló vagyonkezelői jogot törli az ingatlan-nyilvántartásból.
 
 32/A. § (1) Követelés engedményezése esetén az engedményesre átszálló jelzálogjognak az engedményes javára történő bejegyzéséhez az erre irányuló kérelemhez elegendő az engedményezés tényét és az engedményező bejegyzési engedélyét tartalmazó okirat (engedményezési okirat) csatolása, ha az egyébként megfelel a 32. § (1) bekezdés a)–e) pontjaiban, valamint a 32. § (3)–(5) bekezdéseiben foglalt követelményeknek.
 
@@ -953,6 +960,10 @@ bejegyzésével egyidejűleg.
 
 (2) Amennyiben az ügyészi felhívásnak az ingatlanügyi hatóság az ügyész által megadott határidőben nem tesz eleget, az ügyészi felhívás tényét az ügyészi fellépés benyújtását, illetve az ügyész eljárás megszüntetéséről szóló értesítésének beérkezését követően törli.
 
+### Törölt haszonélvezeti jog visszajegyezhetőségének vizsgálatára irányuló eljárás megindítása
+
+65/C. § A törölt haszonélvezeti jog visszajegyezhetőségének vizsgálatára irányuló eljárás megindításának feljegyzésére a perfeljegyzésre irányadó rendelkezések alkalmazandók. A törölt haszonélvezeti jog visszajegyezhetőségének vizsgálatára irányuló eljárásban hozott döntésen alapuló változás bejegyzésével egyidejűleg törölni kell a függő hatállyal történt bejegyzéseket.
+
 ### VI. Fejezet — AZ INGATLAN-NYILVÁNTARTÁS ADATAINAK FELHASZNÁLÁSA ÉS AZ ADATSZOLGÁLTATÁS
 
 ### Kötelező adatfelhasználás
@@ -1052,8 +1063,9 @@ igényli.
 - a) a bíróságok és az Országos Bírósági Hivatal elnöke a bírósági ügyek ellátásához szükséges egyedi adatok lekérdezése céljából,
 - b) a Központi Statisztikai Hivatal statisztikai célú felhasználásra a személyazonosításra alkalmas módon, térítésmentesen a statisztikai feladataihoz szükséges egyedi adatokat lekérdezze,
 - c) a nemzetbiztonsági szolgálatok, a rendőrség, a hivatásos katasztrófavédelmi szerv és az ügyészség a törvényben meghatározott feladatuk ellátásához szükséges egyedi adatok lekérdezése céljából,
-- d) a Magyar Nemzeti Vagyonkezelő Zrt., valamint az állami vagyonnal gazdálkodó központi közigazgatási szervek az állami tulajdonba tartozó ingatlanokra vonatkozó, továbbá az állami tulajdonba tartozást bizonyító adatok megállapítása érdekében, saját számítástechnikai eszközeikkel az adatkezelést végzők megfelelő azonosítása mellett a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybe vegyék,
+- d) a Magyar Nemzeti Vagyonkezelő Zrt., a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság, valamint az állami vagyonnal gazdálkodó központi közigazgatási szervek az állami tulajdonba tartozó ingatlanokra vonatkozó, továbbá az állami tulajdonba tartozást bizonyító adatok megállapítása érdekében, saját számítástechnikai eszközeikkel az adatkezelést végzők megfelelő azonosítása mellett a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybe vegyék,
 - e) a kincstár a Magyar Állam javára fennálló jelzálogjog, valamint elidegenítési és terhelési tilalom, vagy elidegenítési tilalom érvényesítésével, törlésével, az azzal való rendelkezéssel kapcsolatos jognyilatkozat megtételéhez kapcsolódó feladatai ellátásához szükséges egyedi adatokat lekérdezze,
+- f) a Nemzeti Földügyi Központ a jogszabályban meghatározott feladatai ellátásához szükséges egyedi adatokat ingyenesen lekérdezze.
 
 (2) Az ingatlanügyi hatóság kérelemre, az (1) bekezdésben foglaltakon kívül más közigazgatási hatóságok, illetve költségvetési szervek részére a feladatellátásukhoz szükséges egyedi adatok lekérdezése céljából lehetővé teszi, hogy saját számítástechnikai eszközeikkel, az adatkezelést végzők megfelelő azonosítása mellett a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait igénybe vegyék.
 

@@ -38,7 +38,7 @@ az ingatlan-nyilvántartást, valamint egyes közigazgatási hatósági eljárá
 
 14. §
 
-15. §
+15. § Az Fttv. 13. § (2) bekezdése az „Egyéb önálló ingatlanok” szövegrész helyett a „Társasház, illetve szövetkezeti ház” szöveggel lép hatályba.
 
 16. §
 

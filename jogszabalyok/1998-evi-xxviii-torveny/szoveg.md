@@ -631,6 +631,8 @@ eb után.
 
 45/C. § Az e törvény alapján elkobzott állat tulajdonjoga törvény eltérő rendelkezése hiányában az államra száll.
 
+45/D. § Az állatnak a büntetőügyben történő elkobzását követően e törvénynek az elkobzásra vonatkozó szabályai szerint kell eljárni.
+
 46. § Az állatvédelmi hatósági hatáskörben eljáró települési önkormányzat jegyzőjének, fővárosban a kerületi önkormányzat jegyzőjének, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőnek döntésével szemben nincs helye fellebbezésnek.
 
 47. §

@@ -140,6 +140,8 @@ szerint folyik. Az egyházi jogi személy, illetve a vallási egyesület által 
 
 (3) A programkövetelményekről a szakképzésért felelős miniszter elektronikus nyilvántartást vezet. A programkövetelmény és a programkövetelményekről vezetett nyilvántartás nyilvános, azt a szakképzésért felelős miniszter a honlapon közzéteszi.
 
+(3a) Programkövetelményre, annak módosítására és törlésére a szakképzésért felelős miniszternek bárki javaslatot tehet. Az eljárásban az ügyintézési határidő három hónap, és a Kormány e törvény végrehajtására kiadott rendeletében meghatározottak szerinti szakértő kirendelése kötelező.
+
 (4) A programkövetelményekről vezetett nyilvántartásból való törlés vagy módosítás a törölt vagy módosított programkövetelmény alapján – legkésőbb a törlés vagy módosítás időpontját megelőző naptári napon – indított szakmai képzést nem érinti. A programkövetelmény a honlapról nem távolítható el, archiválására a digitális archiválás szabályait kell alkalmazni.
 
 #### 14. § [Az akkreditált vizsgaközpont]
@@ -344,7 +346,7 @@ alapíthat és gyakorolhatja a fenntartót megillető jogokat. Az a) pont szerin
 
 (2) A Kormány rendeletben az állami szakképző intézmény állam nevében történő alapítására és a fenntartói irányítási hatáskörök gyakorlására az (1) bekezdésben meghatározott miniszter mellett más tagját is kijelölheti. A Kormány rendeletben a szakképzésért felelős miniszter mellett más tagja által alapított szakképző intézmény szakképzési centrum részeként történő működését írhatja elő.
 
-(3) Állami felsőoktatási intézmény szakképző intézmény fenntartói irányítási hatásköreit a szakképzésért felelős miniszter hozzájárulásával, nem állami felsőoktatási intézmény a nemzeti felsőoktatásról szóló törvény (a továbbiakban: Nftv.) 84. § (3) bekezdése szerinti megállapodás ilyen rendelkezése esetén gyakorolhatja.
+(3) Állami felsőoktatási intézmény szakképző intézmény fenntartói irányítási hatásköreit a szakképzésért felelős miniszter hozzájárulásával, nem állami felsőoktatási intézmény a nemzeti felsőoktatásról szóló törvény (a továbbiakban: Nftv.) 84. § (3) bekezdése szerinti megállapodás vagy a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 20. §-a szerinti közfeladat-finanszírozási szerződés ilyen rendelkezése esetén gyakorolhatja.
 
 (4)
 
@@ -482,6 +484,8 @@ tekintetében. Az e bekezdés szerinti eljárásban jogi és igazgatási képzé
 - e) a további, közvetlenül nem a szakmaialapfeladat-ellátással összefüggő feladat ellátására létesített munkakörben foglalkoztatott személy.
 
 (2) A szakképző intézmény alkalmazottja munkaviszonyban vagy megbízási jogviszonyban áll. Az egyházi jogi személy által alapított, illetve fenntartott szakképző intézmény esetében a foglalkoztatásra irányuló jogviszony egyházi szolgálati viszonyként is létrehozható.
+
+(3) A munkaviszony létesítésével és megszüntetésével összefüggésben a munkáltató jogszabályban meghatározott feltételekkel igénybe veheti, és foglalkoztatottjai számára nyújthatja a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
 
 #### 41. § [Az alkalmazott foglalkoztatási feltételei]
 
@@ -703,7 +707,7 @@ Megszűnik a tanulói jogviszony
 
 jogosult. Az e bekezdés szerinti juttatásra vonatkozó követelést hat hónapnál régebbi időre bírósági úton akkor lehet visszamenőlegesen érvényesíteni, ha a jogosult a követelés érvényesítésével alapos ok miatt késlekedett. Három évnél régebbi időre az e bekezdés szerinti juttatásra vonatkozó követelés bírósági úton nem érvényesíthető.
 
-(2) A tanuló a szakképző intézmény útján vagy közvetlenül kérheti kollégiumi felvételét, valamint externátusi elhelyezését az Nkt. szerint. A tanuló tanítási évben (ideértve az évközi szünetek idejét is) és a szorgalmi időszakon kívüli egybefüggő gyakorlat idejében hazautazásra – a rendkívüli eseteket kivéve – nem kötelezhető.
+(2) A tanuló a szakképző intézmény útján vagy közvetlenül kérheti kollégiumi felvételét, valamint externátusi elhelyezését az Nkt. szerint. A tanuló tanítási évben (ideértve az évközi szünetek idejét is) és a tanítási éven kívüli egybefüggő gyakorlat idejében hazautazásra – a rendkívüli eseteket kivéve – nem kötelezhető.
 
 (3) A tanuló diákigazolványra jogosult.
 
@@ -859,7 +863,7 @@ vehet részt. A szakképző intézményben a szakirányú oktatás akkor teljes�
 
 áll.
 
-(2) Az őszi, a téli és a tavaszi szünet ideje alatt – a szorgalmi időszakban teljesítendő szakirányú oktatás igazolatlan mulasztásának pótlása, illetve szakképzési munkaszerződés keretében folytatott szakirányú oktatás kivételével – szakirányú oktatás nem szervezhető.
+(2) Az őszi, a téli és a tavaszi szünet ideje alatt – a tanítási évben teljesítendő szakirányú oktatás igazolatlan mulasztásának pótlása, illetve szakképzési munkaszerződés keretében folytatott szakirányú oktatás kivételével – szakirányú oktatás nem szervezhető.
 
 #### 78. § [A szakirányú oktatás időtartama]
 
@@ -1239,97 +1243,21 @@ A szakképzés ellenőrzési rendszere
 
 ### XVIII. Fejezet — A SZAKKÉPZÉS FINANSZÍROZÁSA
 
-#### 23. A szakképzési hozzájárulás
+#### 23.
 
-#### 104. § [A szakképzési hozzájárulás célja]
+#### 104. §
 
-A szakképzési hozzájárulás célja a szakképzés és az Nftv. szerinti duális képzés és a gyakorlatigényes alapképzési szak keretében folytatott gyakorlati képzés támogatása.
+#### 105. §
 
-#### 105. § [A szakképzési hozzájárulásra kötelezett]
+#### 106. §
 
-(1) Szakképzési hozzájárulásra kötelezett
+#### 107. §
 
-- a) a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet az egyéni vállalkozó kivételével,
-- b) a személyi jövedelemadóról szóló törvény (a továbbiakban: Szja tv.) szerinti egyéni vállalkozó és
-- c) a belföldön vállalkozási tevékenységet folytató külföldi adóügyi illetőségű személy,
+#### 108. §
 
-ha belföldön székhellyel, telephellyel vagy fiókteleppel rendelkezik, vagy üzletvezetésének helye belföld.
+#### 24.
 
-(2) Szakképzésihozzájárulás-fizetési kötelezettség nem terheli
-
-- 1. az államot, a helyi önkormányzatot és a nemzetiségi önkormányzatot,
-- 2. a költségvetési szervet,
-- 3. a köztestületet,
-- 4. a közhasznú szervezetet,
-- 5. az egyesületet, az alapítványt (ideértve a vagyonkezelő alapítványt, a közfeladatot ellátó közérdekű vagyonkezelő alapítványt és a közalapítványt is),
-- 6. az egyházi jogi személyt, a vallási egyesületet,
-- 7. a lakásszövetkezetet, a szociális szövetkezetet, az iskolaszövetkezetet, a közérdekű nyugdíjas szövetkezetet és a kisgyermekkel otthon lévők szövetkezetét,
-- 8. a víziközmű-társulatot,
-- 9. a büntetés-végrehajtásnál a fogvatartottak kötelező foglalkoztatására létrehozott gazdálkodó szervezetet,
-- 10. az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § f) pontjában meghatározott egészségügyi szolgáltatót – feltéve, hogy az egészségbiztosítási szervvel szerződést kötött és nem költségvetési szervként működik – az Eütv. 3. § e) pontjában meghatározott, részben vagy egészben az államháztartás terhére támogatott egészségügyi közszolgáltatás ellátásával összefüggésben őt terhelő szociális hozzájárulási adó alapja után,
-- 11. az Szja tv. szerinti egyéni vállalkozót a szociális hozzájárulási adó alapja után, ide nem értve az általa foglalkoztatottra tekintettel őt terhelő szociális hozzájárulási adó alapját,
-- 12. az egyéni cég, a végrehajtói iroda, a szabadalmi ügyvivő iroda, az ügyvédi iroda vagy a közjegyzői iroda tevékenységében személyesen közreműködő tagot a szociális hozzájárulási adó alapja után, ide nem értve az általa foglalkoztatottra tekintettel őt terhelő szociális hozzájárulási adó alapját.
-
-(3) Nem keletkezik szakképzésihozzájárulás-fizetési kötelezettség, ha a szakképzési hozzájárulásra kötelezettet szociális hozzájárulási adófizetési kötelezettség nem terheli.
-
-#### 106. § [A szakképzési hozzájárulás alapja]
-
-(1) A szakképzési hozzájárulás alapja – a szociális hozzájárulási adóról szóló 2018. évi LII. törvény (a továbbiakban: Szocho tv.) 1. § (4) bekezdése szerinti jövedelemnek az Szja tv. szerinti adóalapként meghatározott összege és a Szocho tv. 1. § (5) bekezdésében meghatározott jövedelem kivételével – a szakképzési hozzájárulásra kötelezettet terhelő szociális hozzájárulási adó alapja.
-
-(2) A szakképzési hozzájárulás alapjának megállapításához
-
-- a) a számvitelről szóló törvény (a továbbiakban: Számv. tv.) hatálya alá tartozó egészségügyi szolgáltatónak az őt terhelő szociális hozzájárulási adó alapját a Számv. tv. szerint megállapított éves árbevétele és az egészségbiztosítási szervtől származó árbevétele arányában,
-- b) az a) pont hatálya alá nem tartozó szakképzési hozzájárulásra kötelezettnek az őt terhelő szociális hozzájárulási adó alapját az éves bevétele és az egészségbiztosítási szervtől származó bevétele arányában,
-- c)
-
-kell megosztania.
-
-#### 107. § [A szakképzési hozzájárulás mértéke]
-
-(1) A szakképzési hozzájárulás mértéke a szakképzési hozzájárulás alapjának másfél százaléka (a továbbiakban: bruttó kötelezettség).
-
-(2) A bruttó kötelezettség csökkenthető
-
-- a) az állam, illetve az együttműködési megállapodással vagy az Nkt. 88. § (6) bekezdése szerinti szakképzési megállapodással rendelkező fenntartó által fenntartott
-  - aa) szakképző intézménnyel tanulói jogviszonyban álló tanulónként, illetve felnőttképzési jogviszonyban álló képzésben részt vevő személyenként a szakirányú oktatás, illetve
-  - ab) szakiskolával tanulói jogviszonyban álló tanulónként az Nkt. 13/A. § (3) bekezdése szerinti nevelés-oktatás
-
-arányosított önköltsége alapján az egy munkanapra vetített mérték és – a szakképző intézményben, illetve a szakiskolában teljesített oktatási nap és az olyan munkanap kivételével, amire tekintettel a tanuló, illetve a képzésben részt vevő munkabérre nem jogosult – az adóév munkanapjai számának szorzataként,
-
-- b) hallgatónként az Nftv. szerinti duális képzés és gyakorlatigényes alapképzési szak arányosított alapnormatívája alapján az egy munkanapra vetített mérték és az adóévben ténylegesen teljesített képzési napok számának szorzataként
-
-számított összegével. Az önköltség és az alapnormatíva mértékét a központi költségvetésről szóló törvény, az önköltség szakmánként alkalmazandó és az alapnormatíva képzési területenként alkalmazandó súlyszorzóját a Kormány rendeletben határozza meg.
-
-(3) A bruttó kötelezettség csökkenthető a 83. § (2) bekezdés a) pontja szerint megkötött és legalább hat hónapos időtartamban fennálló szakképzési munkaszerződésre tekintettel a (2) bekezdés a) pontja alapján igénybe vett adókedvezmény húsz százalékának megfelelő összeggel, ha a tanuló, illetve a képzésben részt vevő személy sikeres szakmai vizsgát tett.
-
-(3a) A (2) és (3) bekezdéstől eltérően a bruttó kötelezettség a (2) bekezdés a) pontja és a (3) bekezdés szerinti összeg ötven százalékával csökkenthető, ha a felnőttképzési jogviszonyban álló képzésben részt vevő személy a szakirányú oktatásban a szakképzési munkaszerződéssel párhuzamosan fennálló foglalkoztatásra irányuló más olyan jogviszonya mellett vesz részt, amelyben a foglalkoztató a duális képzőhelytől eltérő harmadik személy.
-
-(3b) Ha a szakképzési hozzájárulásra kötelezettet a szociális hozzájárulási adó tekintetében kedvezmény illeti meg, a bruttó kötelezettség csökkenthető
-
-- a) a szociális hozzájárulási adó kedvezményalapja után másfél százalékkal, vagy
-- b) – ha szociálishozzájárulásiadó-kedvezményt az adómérték ötven százalékával kell megállapítani – a szociális hozzájárulási adó kedvezményalapja után hetvenöt század százalékkal
-
-megállapított összeggel.
-
-(4) Az e § szerinti adókedvezményt az a szakképzési hozzájárulásra kötelezett érvényesítheti, aki a tanulóval, illetve a képzésben részt vevő személlyel szakképzési munkaszerződést, illetve a hallgatóval hallgatói munkaszerződést, gyakorlatigényes alapképzési szak esetében a felsőoktatási intézménnyel az Nftv. szerinti együttműködési megállapodást kötött. A szakképzésihozzájárulás-fizetésre kötelezett a bruttó kötelezettséget meghaladó adókedvezményt, továbbá az olyan duális képzőhely, aki alanya a szakképzési hozzájárulásnak, de szakképzésihozzájárulás-fizetési kötelezettség a 105. § (2) bekezdése vagy más törvény rendelkezése alapján nem terheli, az e § szerinti adókedvezményt adó-visszaigénylés keretében érvényesítheti.
-
-#### 108. § [A szakképzési hozzájárulás megállapítása, bevallása és megfizetése]
-
-(1) A szakképzési hozzájárulásra kötelezett
-
-- a) a szakképzési hozzájárulás alapját és az éves bruttó kötelezettségét,
-- b) a 107. § szerinti adókedvezmény éves összegét,
-- c) az éves bruttó kötelezettség és a b) pont szerinti összeg különbözeteként megállapított éves nettó kötelezettségét
-
-a naptári évre maga állapítja meg, elektronikus úton vallja be és fizeti meg az adóévet követő év január hónap tizenkettedik napjáig az állami adó- és vámhatóságnak, vagy igényli vissza. Nem kell adóbevallást benyújtani, ha a szakképzési hozzájárulásra kötelezettnek nem keletkezik szakképzésihozzájárulás-fizetési kötelezettsége vagy adókedvezményt nem érvényesít.
-
-(2) A szakképzési hozzájárulásra kötelezett havonta szakképzési hozzájárulási előleget fizet. Az előleg mértéke a – 107. § (3) bekezdése szerinti adókedvezmény nélkül számított – tárgyhavi bruttó kötelezettség azzal, hogy a 107. § szerinti adókedvezmény az előleg befizetésénél visszaigényelhető. Az előleget havonta a szakképzési hozzájárulásra kötelezett maga állapítja meg, elektronikus úton vallja be és fizeti meg a tárgyhót követő hónap tizenkettedik napjáig az állami adó- és vámhatóság kincstárnál vezetett fizetési számlájára, illetve igényli vissza. A befizetett előleg és az éves nettó kötelezettség különbözetét az adóévet követő év január hónap tizenkettedik napjáig kell befizetni, illetve visszaigényelni.
-
-(3) A szakképzési hozzájárulásra kötelezett a visszaigényelhető összeg kiutalását vagy átvezetését legkorábban a bevallás esedékességének napjától kezdeményezheti. Az állami adó- és vámhatóság a visszaigénylés tekintetében az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény szerint jár el.
-
-#### 24. A szakképzés támogatása
-
-#### 109. § [A szakképzéshez biztosított támogatás]
+#### 109. § [A szakképzésialapfeladat-ellátás fedezete]
 
 (1) A szakképzésialapfeladat-ellátás fedezetét a fenntartó saját költségvetése terhére biztosítja. A szakképző intézményben szervezett szakirányú oktatás költségei a fenntartót, a duális képzőhely által szervezett szakirányú oktatás költségei az e törvényben meghatározottak szerint a duális képzőhelyet terhelik.
 
@@ -1345,9 +1273,17 @@ köthető. Az együttműködési megállapodást az állam nevében a szakképz�
 
 (4) Az állam a szakképzési alapfeladatok ellátásához a (2) bekezdés szerinti támogatás mellett további támogatást is biztosíthat.
 
+#### 109/A. § [A duális képzőhely által a szakirányú oktatáshoz igénybe vehető támogatás]
+
+A duális képzőhely a szociális hozzájárulási adóról szóló törvényben meghatározottak szerint jogosult a szakirányú oktatás arányosított önköltsége alapján igénybe vehető adókedvezmény érvényesítésére.
+
+#### 109/B. § [A képzési hitel]
+
+A tanuló, illetve a képzésben részt vevő személy számára a képzési hitelrendszert működtető állami tulajdonú gazdasági társasággal együttműködési megállapodást kötött szakképző intézménnyel a három hónapot meghaladó időtartamú szakmai oktatásra, illetve a szakmai képzésre létrejött tanulói jogviszonyhoz vagy felnőttképzési jogviszonyhoz kapcsolódóan az állam – jogszabályban meghatározottak szerint – biztosítja a képzési hitel igénybevételének lehetőségét. A képzési hitelre – az e §-ban meghatározott eltéréssel – az Fktv. 25. §-át kell alkalmazni azzal, hogy képzésben részt vevő személy alatt a tanulót is, felnőttképző alatt a szakképző intézményt, a részszakmára felkészítő szakmai oktatás alatt a szakképző intézmény által szervezhető bármely szakmai oktatást kell érteni.
+
 #### 110. § [Az Alap képzési alaprészének felhasználása]
 
-(1) Az Alap képzési alaprésze tartalmazza a szakképzéshez kapcsolódó feladatok ellátására, a szakképzés megszervezéséhez, működtetéséhez és fejlesztéséhez nyújtható támogatások, valamint a szakképző intézmény tanulója számára járó ösztöndíj, egyszeri pályakezdési juttatás és támogatás kifizetésének előirányzati fedezetét.
+(1) Az Alap képzési alaprésze tartalmazza a szakképzéshez kapcsolódó feladatok ellátására, a szakképzés megszervezéséhez, működtetéséhez és fejlesztéséhez nyújtható támogatások, valamint a szakképző intézmény tanulója számára járó ösztöndíj és egyszeri pályakezdési juttatás kifizetésének előirányzati fedezetét.
 
 (2) Az Alap képzési alaprésze tekintetében a szakképzésért felelős miniszter
 
@@ -1429,7 +1365,7 @@ A korai iskolaelhagyás megelőzését támogató rendszer a Kormány rendeleté
 - d) a felnőttképzési jogviszonnyal kapcsolatos adatok keretében a c) pont cb)–cf) és ci)–ck) alpontjában meghatározott adatokat,
 - e) jogszabályban biztosított kedvezményekre való igényjogosultság elbírálásához és igazolásához szükséges olyan adatokat, amelyekből megállapítható a jogosult személye és a kedvezményre való jogosultsága.
 
-(1a) A szakképző intézmény a tanulmányi kötelezettség teljesítésének biztosítása és ellenőrzése céljából kezeli a tanuló, illetve a képzésben részt vevő személy szakképzési munkaszerződéssel összefüggésben keletkezett és az állami adó- és vámhatóság által számára átadott adatát. Ezzel összefüggésben az állami adó- és vámhatóság a szakképzési munkaszerződéshez kapcsolódóan az adózás rendjéről szóló 2017. évi CL. törvény 50. § (2) bekezdés 1., 3., 5., 9., 14. és 15. pontjában meghatározott adatokat a tanuló, illetve a képzésben részt vevő személy természetes személyazonosító adatainak összevetése útján – az e törvényben vagy a Kormány e törvény végrehajtására kiadott rendeletében a szakképzés irányításával és ellenőrzésével összefüggésben meghatározott feladatok ellátása céljából – a szakképzési államigazgatási szerv részére a szakképzés információs rendszerén keresztül átadja. Az állami adó- és vámhatóság az adatszolgáltatást havonta, a bejelentést követő tizenöt napon belül teljesíti.
+(1a) A szakképző intézmény a tanulmányi kötelezettség teljesítésének biztosítása és ellenőrzése céljából kezeli a tanuló, illetve a képzésben részt vevő személy szakképzési munkaszerződéssel összefüggésben keletkezett és az állami adó- és vámhatóság által számára átadott adatát. Ezzel összefüggésben az állami adó- és vámhatóság a szakképzési munkaszerződéshez kapcsolódóan az adózás rendjéről szóló 2017. évi CL. törvény 50. § (2) bekezdés 1., 3–5., 9., 14. és – ha rendelkezésre áll, a heti munkaidő tartama kivételével – 15. pontjában meghatározott adatokat a tanuló, illetve a képzésben részt vevő személy adóazonosító jelének összevetése útján – az e törvényben vagy a Kormány e törvény végrehajtására kiadott rendeletében a szakképzés irányításával és ellenőrzésével összefüggésben meghatározott feladatok ellátása céljából – a szakképzési államigazgatási szerv részére a szakképzés információs rendszerébe átadja. Az állami adó- és vámhatóság az adatszolgáltatást havonta, a bevallásra előírt határidőt követő hónap tizedik napjáig teljesíti.
 
 (2) A szakképző intézmény az alkalmazottja foglalkoztatása, számára a juttatások, kedvezmények, kötelezettségek megállapítása és teljesítése, továbbá az e törvényben meghatározott nyilvántartások vezetése céljából kezeli
 
@@ -1566,7 +1502,7 @@ A szakképzési közokirat külföldön történő felhasználásához – ha ne
 - 1. a szakmajegyzéket,
 - 1a. a szakképzésben való részvétel feltételeit,
 - 2. a képzési és kimeneti követelmények, a programtanterv és a szakmai program meghatározásának szabályait,
-- 3. a programkövetelmény és a szakmai képzés képzési programja meghatározásának szabályait és nyilvántartásba vételének rendjét,
+- 3. a programkövetelmény és a szakmai képzés képzési programja meghatározásának szabályait és nyilvántartásba vételének rendjét, valamint az eljárásba bevonásra kerülő szakértőket és a szakértői szakvélemény elkészítéséért fizetendő szakértői díj mértékét,
 - 4. a szakképző intézmény alapításának, megszüntetésének, átszervezésének és fenntartói irányítási hatásköre átadásának, a nem állami szakképző intézmény működési engedélye kiadásának és a szakképző intézmények nyilvántartásának részletes szabályait, a szakképző intézmény alapító okiratának kötelező tartalmi elemeit, a szakképző intézmények névhasználatának szabályait, valamint a szakképző intézmény belső szabályzatainak kötelező tartalmi elemeit,
 - 5. a szakképzés kísérleti jelleggel történő megszervezésének szabályait,
 - 6. a szakképző intézmény ügyintézésének, iratkezelésének általános szabályait, a szakképző intézmény és az akkreditált vizsgaközpont által használt nyomtatványok körét és tartalmát, azok használatának részletes szabályait,
@@ -1593,7 +1529,7 @@ A szakképzési közokirat külföldön történő felhasználásához – ha ne
 - 27. a tanuló számára járó ösztöndíj, az egyszeri pályakezdési juttatás és támogatás mértékére, feltételeire, folyósítására és az ezzel összefüggésben felmerült költségek térítésére vonatkozó szabályokat,
 - 28. a tanuló- és gyermekbalesetek megelőzésével kapcsolatos feladatokat, továbbá a balesetek kivizsgálásával, nyilvántartásával és jelentésével összefüggő tevékenységet,
 - 29. a diákönkormányzat működésére vonatkozó részletes szabályokat,
-- 30. a képzési hitel igénybevételének feltételeit,
+- 30. a képzési hitel igénybevételének részletes feltételeit és eljárási szabályait, a hitelszerződés megkötésének, a képzési hitel kamata meghatározásának, igénylésének, folyósításának, törlesztésének, előtörlesztésének, támogatásának, záró elszámolásának, megszűnésének, továbbá felmondásának részletes szabályait, az együttműködési megállapodás megkötésének és felmondásának részletes szabályait, valamint a képzési hitelrendszer működtetésének részletes szabályait,
 - 30a. a diákigazolvány kiadásával és használatával kapcsolatos szabályokat,
 - 31. a duális képzőhelyek nyilvántartásának – személyes adatnak nem minősülő – adattartalmát, a nyilvántartásba-vételi eljárás részletes szabályait, a szakirányú oktatási célt szolgáló tanműhelyként történő nyilvántartásba vétel feltételeit, a duális képzőhely felelősségbiztosításának mértékét és a duális képzőhelyek ellenőrzésének részletes szabályait,
 - 32. a szakirányú oktatásról való mulasztás igazolásának, pótlásának módját, az igazolatlan mulasztás következményeit, az igazolatlan mulasztások esetén követendő eljárás szabályait,
@@ -1605,14 +1541,14 @@ A szakképzési közokirat külföldön történő felhasználásához – ha ne
 - 38. a szakmai vizsga rendjét, a szakmai vizsga megszervezésének és lebonyolításának, a vizsgabizottság kialakításának, a szakmai vizsga – személyes adatnak nem minősülő – adatait tartalmazó központi nyilvántartás vezetésének, a szakmai vizsgával kapcsolatos adatszolgáltatásnak és a szakmai vizsga ellenőrzésének részletes szabályait, a szakmai vizsgával összefüggésben az akkreditált vizsgaközpont döntése, intézkedése vagy intézkedésének elmulasztása felülvizsgálatának szabályait, valamint a szakmai vizsgadíj és a vizsgáztatási díjak kereteit,
 - 39. az oklevelek, a szakmai bizonyítványok és a képesítő bizonyítványok központi elektronikus nyilvántartásának részletes szabályait,
 - 39a. a szakképzés irányításának és a szakképzésért felelős miniszter e törvényben meghatározott feladatai végrehajtásának részletes szabályait,
-- 39b. a szakképzési tankönyvvé nyilvánítás, annak módosítása és megszüntetése rendjét, az eljárásba bevonásra kerülő szakértőket és a szakértői vélemény elkészítéséért fizetendő szakértői díj mértékét, a szakképzési tankönyvjegyzék elkészítését és kiadását, valamint a szakképzésben alkalmazott terjesztési árat,
+- 39b. a szakképzési tankönyvvé nyilvánítás, annak módosítása és megszüntetése rendjét, az eljárásba bevonásra kerülő szakértőket és a szakértői szakvélemény elkészítéséért fizetendő szakértői díj mértékét, a szakképzési tankönyvjegyzék elkészítését és kiadását, valamint a szakképzésben alkalmazott terjesztési árat,
 - 40. az Alap képzési alaprészéből nyújtható támogatás mértékére, feltételeire, folyósítására, valamint a támogatás felhasználásáról történő elszámolásra és ellenőrzésre vonatkozó szabályokat,
-- 40a. a felnőttképzési jogviszonyban szakmai oktatásban, illetve ingyenes szakmai képzésben részt vevők tekintetében a szakképző intézmény finanszírozására vonatkozó szabályokat,
+- 40a.
 - 41. a Szakképzési Innovációs Tanács összetételét és működésének részletes szabályait,
 - 42. az ágazati készségtanácsok számát, azokat az ágazatokat, amelyekben ágazati készségtanács működtethető, az ágazati készségtanács összetételét, az ágazati készségtanács elnökének és tagjainak megbízására, megbízatásának megszűnésére és díjazására, valamint az ágazati készségtanács működésére vonatkozó szabályokat,
 - 43. az életpálya-tanácsadással, a pályaorientációval és a tanulmányi versenyek szervezésével összefüggő feladatokat, a pályaorientációval és az egész életen át tartó életpálya-tanácsadással és pályaorientációval kapcsolatos adatszolgáltatások részletes szabályait, a pályaorientációval és az egész életen át tartó életpálya-tanácsadási és pályaorientációs szolgáltatásokat koordináló szervezet, valamint az életpálya-tanácsadást és a pályaorientációt nyújtó szervezetek feladatait,
 - 44. a képzési tanács összetételét és működésének részletes szabályait,
-- 45. az önköltség szakmánként, illetve a 128. § (5) bekezdése tekintetében szakképesítésenként, részszakképesítésenként alkalmazandó és az alapnormatíva képzési területenként alkalmazandó súlyszorzóját,
+- 45. az önköltség szakmánként alkalmazandó súlyszorzóját,
 - 46. a szakképzés információs rendszerében tárolt – személyes adatnak nem minősülő – adatok körét, azok közzétételének és továbbításának módját,
 - 47. a korai iskolaelhagyás megelőzését támogató rendszer működtetésének szabályait és az abba történő adatszolgáltatás rendjét,
 - 48. a külföldi szakképző intézmény Magyarországon történő és a magyar szakképző intézmény külföldön történő működésének és nyilvántartásának részletes szabályait.
@@ -1680,7 +1616,7 @@ A bizonyítványban vagy e törvény hatálybalépését megelőzően rá irány
 
 (1) A technikum az Nkt. e törvény hatálybalépését megelőző napon hatályos rendelkezései szerinti szakgimnáziumként, a szakképző iskola az Nkt. e törvény hatálybalépését megelőző napon hatályos rendelkezései szerinti szakközépiskolaként működik 2020. június 30-áig. A fenntartó 2020. július 1-jével gondoskodik az Nkt. e törvény hatálybalépését megelőző napon hatályos rendelkezései szerinti szakgimnázium, illetve szakközépiskola e törvénynek megfelelő működése előkészítéséről és alapító okiratának módosításáról azzal, hogy a több különböző típusú szakképző intézmény, illetve köznevelési intézmény feladatait is ellátó, valamint nem köznevelési alapfeladatot ellátó intézménnyel összevont szerv jogállását az általa ellátott alapfeladat nagyságrendje alapján kell meghatározni. A többcélú nevelési-oktatási intézményt szakképző intézményként akkor kell átalakítani, ha alaptevékenysége alapján szakképzési alapfeladatot lát el a Kormány rendeletében meghatározott arányban.
 
-(2) Az e törvény hatálybalépését megelőzően megkötött és e törvény hatálybalépésekor hatályos szakképzési megállapodás alatt az e törvény hatálybalépésekor hatályos rendelkezései szerinti fenntartói megállapodást kell érteni. Az e törvény hatálybalépésekor hatályos szakképzési megállapodás 2021. augusztus 31-én hatályát veszti. Az e törvény hatálybalépését követően megkötött fenntartói megállapodás alatt az e törvény 2021. augusztus 31-én hatályos rendelkezései szerinti együttműködési megállapodást kell érteni. A 2021. szeptember 1-jén hatályos fenntartói megállapodás 2024. augusztus 31-én hatályát veszti. A központi költségvetés által a szakképzésben való részvételhez a nem állami fenntartó számára nyújtott támogatás összesített keretösszege 2024. augusztus 31-éig nem lehet magasabb, mint a 2021. augusztus 31-én hatályos szabályok alapján igénybe vehető ilyen támogatás összesített keretösszege.
+(2) Az e törvény hatálybalépését megelőzően megkötött és e törvény hatálybalépésekor hatályos szakképzési megállapodás alatt az e törvény hatálybalépésekor hatályos rendelkezései szerinti fenntartói megállapodást kell érteni. Az e törvény hatálybalépésekor hatályos szakképzési megállapodás 2021. augusztus 31-én hatályát veszti. Az e törvény hatálybalépését követően megkötött fenntartói megállapodás alatt az e törvény 2021. augusztus 31-én hatályos rendelkezései szerinti együttműködési megállapodást kell érteni. A 2021. szeptember 1-jén hatályos fenntartói megállapodás 2024. augusztus 31-én hatályát veszti. A központi költségvetés által a szakképzésben való részvételhez a nem állami fenntartó számára nyújtott támogatás összesített keretösszege – ha sarkalatos törvényből más nem következik – 2024. augusztus 31-éig nem lehet magasabb, mint a 2021. augusztus 31-én hatályos szabályok alapján igénybe vehető ilyen támogatás összesített keretösszege.
 
 (3) A szakképző intézmény és a duális képzőhely a minőségirányítási rendszerét 2022. augusztus 31-éig alakítja ki.
 
@@ -1700,20 +1636,15 @@ A bizonyítványban vagy e törvény hatálybalépését megelőzően rá irány
 
 (3) Az a kedvezményezett, akit az e törvény hatálybalépését megelőzően létrejött támogatási jogviszonyból a kapott támogatásra tekintettel fenntartási kötelezettség, illetve elidegenítési és terhelési tilalom terhel, e kötelezettségét az e törvény szerinti feltételek alapján vagy a támogató jóváhagyásával más módon teljesíti.
 
-(4)
+(4) A 108. § 2021. december 31-én hatályos rendelkezését – a szakképzési hozzájárulás megállapítására, bevallására és megfizetésére – annak hatályvesztését követően is alkalmazni kell azzal, hogy adóelőleget 2021. december hónapra nem kell fizetni, továbbá a 2021. adóévben befizetett előleg és a 2021. adóévre vonatkozó nettó kötelezettség különbözetét 2022. január 12-éig kell megfizetni, illetve visszaigényelni. A szakképzési hozzájárulásból 2022. január 31-éig befolyt bevétel az Alapot illeti meg.
 
-(5) A 2021. január 1-jét megelőző időszakra vonatkozó szakképzésihozzájárulás-fizetési kötelezettséget a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény és az abban kapott felhatalmazás alapján kiadott jogszabály 2020. december 31-én hatályos rendelkezései szerint kell teljesíteni, megállapítani és bevallani. A szakképzési hozzájárulásra kötelezett e törvény szerinti szakképzésihozzájárulás-fizetési kötelezettségét 2021. január 1-jétől teljesíti akként, hogy
+(5)
 
-- a) a szakképzési munkaszerződéssel szakirányú oktatásban részt vevő tanuló, képzésben részt vevő személy esetében a szakmához kapcsolódóan a Kormány rendeletében meghatározott súlyszorzót kell alkalmazni,
-- b) a tanulószerződéssel gyakorlati képzésben részt vevő tanuló esetében
-  - ba) a régi Szkt. szerinti Országos Képzési Jegyzékben meghatározott szakképesítéshez, illetve részszakképesítéshez kapcsolódóan a Kormány rendeletében meghatározott súlyszorzót kell alkalmazni,
-  - bb) a 104–108. § alkalmazásában szakirányú oktatás alatt a régi Szkt. szerinti gyakorlati képzést, szakma alatt régi Szkt. szerinti Országos Képzési Jegyzékben meghatározott szakképesítést, részszakképesítést, szakképzési munkaszerződés alatt a régi Szkt. szerinti tanulószerződést kell érteni.
+(5a)
 
-(5a) A szakképzési hozzájárulásnak az egyes törvényeknek a szakképzéssel és a felnőttképzéssel összefüggő módosításáról szóló 2021. évi LXXXIII. törvénnyel (a továbbiakban: MódTv1.), valamint az egyes képzéseket és a foglalkoztatást érintő törvények módosításáról szóló 2021. évi CXLVII. törvénnyel megállapított szabályait a 2021. adóévre is alkalmazni kell azzal, hogy a MódTv1.-gyel megállapított 107. § (2)–(3a) bekezdését kizárólag a MódTv1. hatálybalépését követően kötött szakképzési munkaszerződések tekintetében kell alkalmazni. A MódTv1. alapján a szakképzési hozzájárulásra kötelezett a 2021. január 1-jétől a MódTv1. hatálybalépéséig terjedő időszakra vonatkozó többlet-adókedvezményt a 108. § (1) bekezdése szerinti adóbevallásában önellenőrzéssel érvényesítheti. Nem kell megfizetni a szakképzési hozzájárulásnak a 2021. január 1-jétől a MódTv1. hatálybalépéséig terjedő időszakra vonatkozóan azt a részét, amely a szakképzési hozzájárulásra kötelezettet – az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó humánjárványhoz kapcsolódó veszélyhelyzet ideje alatt a Kormány rendelete alapján igénybe vehető szakképzésihozzájárulás-fizetési kedvezményre, illetve mentességre is tekintettel – a MódTv1. alapján terheli.
+(5b)
 
-(5b) A bruttó kötelezettségét a MódTv1.-gyel megállapított 107. § (2) bekezdés a) pontja szerinti mérték hetven százalékával csökkentheti a régi Szkt. szerinti gyakorlati képzést folytató szervezet az általa a régi Szkt. szerint kötött olyan együttműködési megállapodásra tekintettel, amely a gyakorlati képzési kötelezettséget a 125. § (3) bekezdése szerinti tanulóra vonatkozóan az érintett tanuló családi és utónevének és oktatási azonosító számának megjelölésével konkrétan meghatározza. Az adóév munkanapjai közül csak azon napok vehetők figyelembe, amelyek átlagában a gyakorlattal lefedett időszak eléri a napi hét órát. A bruttó kötelezettség csökkentésénél alkalmazandó súlyszorzó mértéke 1,0.
-
-(6) A 109. § (3) bekezdése szerinti együttműködési megállapodásban meghatározott keretszám nem lehet kevesebb az egyházi jogi személy esetében a 2019/2020. tanévre beiskolázott tanulói létszám huszonöt százalékkal növelt mértékénél.
+(6)
 
 (7)
 

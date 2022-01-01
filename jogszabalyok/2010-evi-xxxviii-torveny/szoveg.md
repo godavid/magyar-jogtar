@@ -284,7 +284,7 @@ vonatkozó rendelkezéseket megfelelően alkalmazni kell.
 
 (2) Ha a hagyatéki eljárás során olyan vagyontárgy átadásáról is dönteni kell, amely korábban meghalt örökhagyó hagyatékához tartozott, de hagyatéki eljárásnak tárgya nem volt, a hagyatéki eljárást az a közjegyző folytatja le, aki a korábban meghalt örökhagyó hagyatéki eljárásának a lefolytatására illetékes. Ha mindkét eljárás megindult, az utóbb meghalt örökhagyó hagyatéki ügyét az előző rendelkezés szerint illetékes közjegyzőhöz kell áttenni.
 
-28. § (1) Ha a rendelkezésre álló adatok alapján az örökhagyó a halálakor közjegyző, ügyvéd, önálló bírósági végrehajtó, igazságügyi szakértő, gyám, gondnok vagy bizalmi vagyonkezelő volt, ennek tényét, valamint azoknak a vagyontárgyaknak, iratoknak a jegyzékét, amelyek az örökhagyó e tevékenységével kapcsolatosak és a leltárban nem szerepelnek, jegyzőkönyvben kell feltüntetni.
+28. § (1) Ha a rendelkezésre álló adatok alapján az örökhagyó a halálakor közjegyző, ügyvéd, önálló bírósági végrehajtó, igazságügyi szakértő, gyám, gondnok vagy bizalmi vagyonkezelő, továbbá gazdasági társaság egyetlen bejegyzett vezető tisztségviselője vagy többségi befolyással rendelkező tagja volt, ennek tényét, valamint azoknak a vagyontárgyaknak, iratoknak a jegyzékét, amelyek az örökhagyó e tevékenységével kapcsolatosak és a leltárban nem szerepelnek, jegyzőkönyvben kell feltüntetni.
 
 (2) A jegyző vagy a közjegyző, ha adat merül fel arra vonatkozóan, hogy az örökhagyó
 
@@ -357,7 +357,7 @@ a szükséges intézkedések megtétele végett haladéktalanul értesíti az ö
 
 (4) Ha arra hivatalból nem került sor, az ügygondnokot bármelyik örökösként érdekelt kérelmére a közjegyző (a leltár megküldéséig a jegyző) végzésben kirendeli, és feladatáról a végzés megküldésével egyidejűleg – ha az a végrendelet későbbi előkerülése miatt változik, akkor ismételten – tájékoztatja. Ha valamennyi öröklésben érdekelt közös kérelemben kéri meghatározott személy ügygondnokul történő kirendelését, akkor a kérelemben megjelölt személyt kell kirendelni; e kérelemben az öröklésben érdekelteknek nyilatkozniuk kell arról, hogy más öröklésben érdekeltről nincs tudomásuk.
 
-(5) A (2)–(4) bekezdésekben meghatározott ügygondnok csak akkor rendelhető ki, ha az eljárásának előrelátható díját és költségeit a kérelmező – a hagyatéki eljárás költségeitől függetlenül – megelőlegezi és viseli.
+(5) A (2)–(4) bekezdésben meghatározott ügygondnok csak akkor rendelhető ki, ha az eljárásának előrelátható díját és költségeit a kérelmező – a hagyatéki eljárás költségeitől függetlenül – megelőlegezi és viseli. Ha más törvényes örökös hiányában a magyar állam öröklése valószínűsíthető, a (2) bekezdésben foglaltaktól eltérően ügygondnokként – díj és költségek megelőlegezése nélkül – az állam képviseletében eljáró tulajdonosi joggyakorlót kell kirendelni, ha a tulajdonosi joggyakorló ezt maga kezdeményezi, vagy más kérelmére indult biztosítási intézkedés esetén az ügygondnokként történő kirendelésével egyetért.
 
 (6) Végrendeleti öröklés esetében az (1)–(5) bekezdésben foglaltakat csak akkor lehet alkalmazni, ha az adott tevékenységet nem végrendeleti végrehajtó vagy a Ptk. rendelkezése szerint az alapítvány nyilvántartásba vétele iránt eljárni köteles személy látja el.
 
@@ -889,6 +889,8 @@ azt a hagyatékból ki kell hagyni, egyben – az a) és b) pontban foglalt eset
 
 (2a) Ha a teljes hatályú hagyatékátadó végzés utóöröklési jogot tartalmaz, akkor a közjegyző a Végrendeletek Országos Nyilvántartásába bejegyzi az előörökös nevét, születési nevét, születési helyét és idejét, anyja születési nevét, valamint az utóöröklési jogot tartalmazó teljes hatályú hagyatékátadó végzés egyedi azonosításához szükséges adatokat.
 
+(2b) A közjegyző a (2) bekezdésben foglaltakon túl minden esetben értesíti a cégbíróságot, ha az állam – nyilvánosan működő részvénytársaság kivételével – gazdasági társaságban bármilyen mértékű társasági részesedést örökölt.
+
 (3) A közjegyző a teljes hatályú hagyatékátadó végzés és az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzés jogerőre emelkedésének megállapítása után megteszi a jogszabályban előírt intézkedéseket.
 
 (4) A teljes hatályú hagyatékátadó végzés, az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzés, valamint az eljárást megszüntető végzés jogerőre emelkedésének megállapítása után a végzés rendelkezéseinek megfelelően a közjegyző intézkedik a biztosítási intézkedés folytán hatósági, közjegyzői vagy bírósági letétben levő vagyontárgy kiutalása, valamint a hagyatéki eljárás során korábban elrendelt biztosítási intézkedéssel birtokba adott (birtokban hagyott) vagyontárgynak a jogosult részére való átadása és a zár alá vétel megszüntetése iránt.
@@ -898,6 +900,8 @@ azt a hagyatékból ki kell hagyni, egyben – az a) és b) pontban foglalt eset
 92. § (1) A közjegyző a jogerős teljes hatályú hagyatékátadó végzést és a teljes hatályúvá vált ideiglenes hatályú hagyatékátadó végzést az illetékkiszabás végett megküldi az illetékes állami adóhatóságnak.
 
 (2) A hagyaték bejelentése céljából a közjegyző a jogerős teljes hatályú hagyatékátadó végzést, a teljes hatályúvá vált ideiglenes hatályú hagyatékátadó végzést és a jogszabályban előírt egyéb iratokat a teljes hatályú hagyatékátadó végzés, az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzés jogerőre emelkedésének megállapításától számított 15 napon belül az illetékes állami adóhatóságnak küldi meg.
+
+92/A. § A közjegyző az ingatlant érintő hagyatéki eljárásban tájékoztatja a feleket a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 20/P. §-a szerinti adatváltozás-kezelési szolgáltatás igénybevételének lehetőségéről.
 
 ### IV. Fejezet — KÜLÖNLEGES ELJÁRÁSOK
 

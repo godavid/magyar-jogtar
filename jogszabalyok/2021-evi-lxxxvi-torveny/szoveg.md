@@ -81,6 +81,8 @@ e törvény alapján 2022. január 1. napjával ingyenesen, nyilvántartási ér
 
 7. § Az 1. § (1)–(4) és (11) bekezdése, valamint a 2. § (2) bekezdése szerinti intézkedés az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatást tartalmaz, amely az Európai Unió működéséről szóló szerződés 106. cikk (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat alapján nyújtható.
 
-8. §
+8. § A 2018. évi CIII. törvény 10. alcíme a következő 22/B. §-sal egészül ki:
+
+„22/B. § A 2022. január 1-jén folyamatban lévő ügyekben az e törvénynek az egyes otthonteremtési állami feladatok karitatív szervezetek általi átvállalásáról szóló 2021. évi LXXXVI. törvény 9. §-a hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.”
 
 9. §

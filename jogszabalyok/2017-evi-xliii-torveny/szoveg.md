@@ -19,9 +19,10 @@ a bírósági peres és nemperes eljárásokra adott általános meghatalmazáso
   - cb) születési családi és utónevét,
   - cc) születési helyét és idejét,
   - cd) anyjának születési családi és utónevét,
-  - ce) lakóhelyét vagy székhelyét,
+  - ce) lakóhelyét vagy végrehajtási rendelet szerinti székhelyét,
   - cf) lakóhely hiányában tartózkodási helyét,
   - cg) elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségét – ha elektronikus ügyintézésre köteles vagy azt önként vállalta –;
+  - ch) ügyvédi kamarai azonosító számát, ha ügyvédi tevékenység gyakorlására jogosultként jár el;
 - d) nem természetes személy meghatalmazó, illetve meghatalmazott
   - da) megnevezését,
   - db) székhelyét,
@@ -52,7 +53,7 @@ a bírósági peres és nemperes eljárásokra adott általános meghatalmazáso
 
 #### 3. A nyilvántartási eljárás
 
-4. § (1) A 3. § (1) bekezdése szerinti adatokat – a 10. § (3) bekezdésben foglalt kivétellel – a kérelmező belföldi lakóhelye, ennek hiányában belföldi tartózkodási helye, vagy, ha a kérelmező nem természetes személy, belföldi székhelye szerint illetékes törvényszék jegyzi be a nyilvántartásba.
+4. § (1) A 3. § (1) bekezdése szerinti adatokat – a 10. § (3) bekezdésben foglalt kivétellel – a természetes személy kérelmező belföldi lakóhelye, ennek hiányában belföldi tartózkodási helye, ha a végrehajtási rendelet szerint a nyilvántartásban lakóhelyadat helyett székhelyadatot kell feltüntetni, a természetes személy székhelye, vagy ha a kérelmező nem természetes személy, belföldi székhelye szerint illetékes törvényszék jegyzi be a nyilvántartásba.
 
 (2) Ha a nyilvántartási eljárás lefolytatására hatáskörrel és illetékességgel rendelkező bíróság az (1) bekezdés alapján nem állapítható meg, az eljárásra a Fővárosi Törvényszék illetékes.
 
@@ -220,4 +221,4 @@ nincs helye.
 
 (3) A 2014. március 15. napját megelőzően az 1952-es Pp. alapján vezetett bírósági nyilvántartásokba bejegyzett általános meghatalmazások nyilvántartására a 2017. december 31. napján hatályos jogszabályok rendelkezéseit kell alkalmazni.
 
-23. §
+23. § E törvénynek az egyes igazságügyi tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXII. törvénnyel megállapított rendelkezéseit a 2022. január 1. napján vagy azt követően indult nyilvántartási eljárásokban kell alkalmazni.

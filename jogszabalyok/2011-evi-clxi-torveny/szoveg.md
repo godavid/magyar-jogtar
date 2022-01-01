@@ -38,7 +38,7 @@ Az Országgyűlés a bírósági hatáskörök jogállami szintű, hatékony ell
 
 10. § (1) A törvényes bíróhoz való jog érvényesítése érdekében az ügyelosztási rendet úgy kell összeállítani, hogy abból előzetesen megállapítható legyen, hogy az adott ügyben mely tanács jár el, ideértve azt is, hogy a tanács, illetve a tanács tagjának akadályoztatása esetén ki jár el helyette. Az ügyelosztási rend tartalmazza, hogy az adott bíróságon milyen összetételű és számú tanácsok működnek, a bírák, a tanácsok – ideértve a kirendeléssel foglalkoztatott bírákat is – és a törvényben meghatározott ügyben az egyesbíró hatáskörében eljáró bírósági titkárok melyik ügycsoportba tartozó ügyeket intézik, akadályoztatásuk esetén ki jár el helyettük, az ügyek elosztására melyik bírósági vezető jogosult, továbbá, hogy az ügyek elosztása milyen módon történik. Ha a járásbíróság szervezeti egységeként törvénykezési hely működik, az ügyelosztási rend tartalmazza, hogy a járásbírósági székhely és a törvénykezési hely között az ügyek elosztása milyen módon történik. Az ügyelosztási rend a tárgyalási tevékenységet folytató bírósági vezetők által tárgyalt ügyek körét és az ezekre vonatkozó elosztási módot is magában foglalja.
 
-(2) A Kúria elnöke egy vagy több szakágat érintően, az érintett kollégium véleményét kikérve dönthet úgy, hogy a 24. § (1) bekezdésében megjelölt egyes eljárásokban kizárólag öttagú tanácsok járnak el. Ezt a Kúria ügyelosztási rendjében meg kell jelölni. A Kúria ügyelosztási rendjében meg kell jelölni azt is, hogy az önkormányzati tanács, a jogegységi panasz tanács tagjaként mely bírák járnak el, továbbá azt, hogy az egyes bírák melyik szakágú jogegységi tanácsban járhatnak el.
+(2) A Kúria elnöke egy vagy több szakágat érintően, az érintett kollégium véleményét kikérve dönthet úgy, hogy a 24. § (1) bekezdésében megjelölt egyes eljárásokban kizárólag öttagú tanácsok járnak el. Ezt a Kúria ügyelosztási rendjében meg kell jelölni. A Kúria ügyelosztási rendjében meg kell jelölni azt is, hogy az önkormányzati tanács, a jogegységi panasz tanács tagjaként mely bírák járnak el.
 
 (3) Az ügyelosztási rend kialakítása és felülvizsgálata során figyelemmel kell lenni különösen
 
@@ -125,7 +125,7 @@ Az Országgyűlés a bírósági hatáskörök jogállami szintű, hatékony ell
 
 (3) Az ítélőtábla jogi személy.
 
-(4) Az ítélőtáblán tanácsok, büntető, polgári, valamint munkaügyi kollégiumok működnek.
+(4) Az ítélőtáblán tanácsok, büntető, polgári, valamint munkaügyi kollégiumok működnek. A Fővárosi Ítélőtáblán közigazgatási kollégium is működik.
 
 (5) A katonai tanács által első fokon elbírált, katonai büntetőeljárásra tartozó ügyekben másodfokon a külön törvényben meghatározott ítélőtáblán működő katonai tanács jár el.
 
@@ -148,7 +148,7 @@ Az Országgyűlés a bírósági hatáskörök jogállami szintű, hatékony ell
 - g) dönt a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elmulasztásának megállapításáról, és
 - h) eljár a hatáskörébe tartozó egyéb ügyekben.
 
-(2) A Kúrián ítélkező, jogegységi, önkormányzati, valamint jogegységi panaszt elbíráló tanács (a továbbiakban: jogegységi panasz tanács), büntető, polgári, valamint közigazgatási kollégiumok, továbbá bírósági joggyakorlat-elemző csoportok működnek. A Kúrián szakági részkollégiumok létesíthetők.
+(2) A Kúrián ítélkező, önkormányzati, valamint jogegységi panaszt elbíráló tanács (a továbbiakban: jogegységi panasz tanács), büntető, polgári, valamint közigazgatási kollégiumok, továbbá bírósági joggyakorlat-elemző csoportok működnek. A Kúrián szakági részkollégiumok létesíthetők.
 
 ## MÁSODIK RÉSZ — ELJÁRÁSOK AZ EGYSÉGES ÉS IDŐSZERŰ BÍRÓSÁGI JOGALKALMAZÁS ELŐSEGÍTÉSE ÉS AZ ÖNKORMÁNYZATI RENDELETALKOTÁS FELÜLVIZSGÁLATA ÉRDEKÉBEN
 
@@ -172,7 +172,7 @@ bemutatja.
 
 27. § (1) A Kúria kollégiuma az egységes ítélkezési gyakorlat biztosítása érdekében figyelemmel kíséri a bíróságok gyakorlatát, és véleményt nyilvánít a vitás jogalkalmazási kérdésekben. A joggyakorlat-elemző csoport vezetőjének felkérésére a kollégiumok közreműködnek a joggyakorlat-elemző munkában.
 
-(2) Ha a jogalkalmazás egysége érdekében szükséges, az ítélőtábla és a törvényszék kollégiumának kollégiumvezetője a jogegységi eljárás indítványozására jogosultnak javaslatot tesz jogegységi eljárás indítványozására.
+(2) Ha a jogalkalmazás egysége érdekében szükséges, az ítélőtábla és a törvényszék elnöke a Kúria érintett kollégiumvezetőjének javaslatot tesz arra, hogy a jogegység érdekében előterjesztett előzetes döntéshozatali indítvánnyal (a továbbiakban: előzetes döntéshozatali indítvány) jogegységi eljárást indítványozzon.
 
 (3)
 
@@ -204,69 +204,56 @@ bemutatja.
 
 #### 31. §
 
-#### 10. A jogegységi indítvány
+#### 10. A jogegység érdekében előterjesztett előzetes döntéshozatali indítvány
 
-32. § (1) Jogegységi eljárásnak van helye, ha
+32. § (1) Az előzetes döntéshozatali indítványra jogegységi eljárásnak van helye, ha
 
-- a) a joggyakorlat továbbfejlesztése vagy az egységes ítélkezési gyakorlat biztosítása érdekében elvi kérdésben jogegységi határozat meghozatala, korábban meghozott jogegységi határozat megváltoztatása vagy hatályon kívül helyezése szükséges,
+- a) az egységes ítélkezési gyakorlat biztosítása érdekében jogegységi határozat meghozatala, korábban meghozott jogegységi határozat megváltoztatása vagy hatályon kívül helyezése szükséges, vagy
 - b) a Kúria valamely ítélkező tanácsa jogkérdésben el kíván térni a Kúria Bírósági Határozatok Gyűjteményében közzétett határozatától (a továbbiakban: Kúria közzétett határozata).
 
-(2) Az (1) bekezdés b) pontja szerinti esetekben a Kúria tanácsa a jogegységi eljárás indítványozása mellett a jogegységi határozat meghozataláig az eljárását felfüggeszti.
+(2) Az (1) bekezdés b) pontja szerinti esetekben a Kúria tanácsa az előzetes döntéshozatali indítvány előterjesztése mellett a jogegységi határozat meghozataláig az eljárását felfüggeszti.
 
 33. § (1) Jogegységi eljárást kell lefolytatni, ha azt
 
-- a) a Kúria elnöke, vagy kollégiumvezetője, illetve helyetteseik, valamint az ítélőtábla elnöke,
+- a) a Kúria elnöke, elnökhelyettese vagy kollégiumvezetője,
 - b) a 32. § (1) bekezdés b) pontjában említett esetben a Kúria tanácsa vagy
 - c) a legfőbb ügyész
 
 indítványozza.
 
-(2) A jogegységi határozat hozatalára irányuló indítványban az indítványozónak meg kell jelölnie, hogy milyen kérdésekben és mely okokból kéri a jogegységi tanács határozatának meghozatalát, és a 32. § (1) bekezdés b) pontjában említett esetben javaslatot kell tennie a jogkérdés mikénti eldöntésére. Az indítványhoz mellékelni kell az indítvánnyal érintett bírósági határozatok kiadmányát.
+(2) Az előzetes döntéshozatali indítványban az indítványozónak meg kell jelölnie, hogy milyen kérdésekben és mely okokból kéri a jogegységi eljárásban a jogegységi határozat meghozatalát, és a 32. § (1) bekezdés b) pontjában említett esetben javaslatot kell tennie a jogkérdés mikénti eldöntésére. Az indítványhoz mellékelni kell az indítvánnyal érintett bírósági határozatok kiadmányát.
 
-#### 11. Jogegységi tanács
+#### 11. Az előzetes döntéshozatali indítvány elbírálása során eljáró testület
 
-34. § (1) A Kúrián büntető, összevont polgári-gazdasági-munkaügyi, továbbá közigazgatási szakágú jogegységi tanács (a továbbiakban: jogegységi tanács) működik. A jogegységi tanácsot a Kúria elnöke, elnökhelyettese, kollégiumvezetője vagy kollégiumvezető-helyettese vezeti. A jogegységi tanács az elnökből és további 6 tagból áll, a tagokat a jogegységi tanács elnöke választja ki.
+34. § Az előzetes döntéshozatali indítványt a jogegységi panasz tanács bírálja el.
 
-(2) Ha a jogegységi eljárásban hozandó döntés több szakágú jogegységi tanács ügykörét érinti, a jogegységi tanács elnöke a jogegységi tanácsot az érintett szakágban eljáró bírák közül arányosan jelöli ki. E jogegységi tanács az elnökből és további 6 tagból áll, elnöke a Kúria elnöke vagy elnökhelyettese.
+35. § A jogegységi panasz tanács dönthet úgy, hogy az ügyet az érintett kollégium kúriai bíró tagjaival kiegészülve tárgyalja vagy a Kúria teljes ülése elé utalja. A kiegészített jogegységi panasz tanács, illetve a teljes ülés akkor határozatképes, ha ülésén tagjainak több mint a kétharmada jelen van; a jogegységi határozat meghozatalához a jelen lévő tagok kétharmadának szavazata szükséges.
 
-(3) A jogegységi indítvány előterjesztője – a (4) bekezdésben foglalt kivétellel – nem lehet a jogegységi tanács elnöke. A 32. § (1) bekezdés b) pontja szerinti esetben a jogegységi tanács tagjait úgy kell kiválasztani, hogy abban nem lehetnek többségben annak a tanácsnak a tagjai, amely jogkérdésben el kíván térni a Kúria Bírósági Határozatok Gyűjteményében közzétett határozatától, illetve annak a tanácsnak a tagjai, amely a közzétett határozatot hozta.
+#### 12. Az előzetes döntéshozatali indítvány elbírálása
 
-(4) A jogegységi tanács a Kúria teljes kollégiuma, ha a jogegységi eljárás célja
+36. § A jogegységi eljárásban az előzetes döntéshozatali indítvány elbírálása során a jogegységi panasz elbírálásának szabályait a 37–41. §-ban írt eltérésekkel kell alkalmazni.
 
-- a) korábban meghozott jogegységi határozat megváltoztatása vagy hatályon kívül helyezése vagy
-- b) a joggyakorlat továbbfejlesztése érdekében szükséges elvi kérdés eldöntése.
+37. § (1) Ha az előzetes döntéshozatalt a törvényszék vagy az ítélőtábla elnöke kezdeményezte, az arra vonatkozó indítványt a Kúria érintett kollégiumvezetője terjeszti a jogegységi panasz tanács elé. A kollégiumvezető indokolt indítványt tesz a kezdeményezés befogadására vagy visszautasítására. Ha a jogegységi panasz tanács az eljárás lefolytatását nem tartja szükségesnek, az indítványt végzéssel visszautasítja. Az indítvány befogadása esetén a jogegységi panasz tanács az eljárást a kollégiumvezető indítványára folytatja le.
 
-(5) A (4) bekezdés szerinti jogegységi tanács elnöke a Kúria elnöke vagy elnökhelyettese.
+(2) Az indítványt – ha azt nem a legfőbb ügyész nyújtotta be, és a jogegységi panasz tanács vagy a tanács elnöke nem utasította vissza – a jogegységi panasz tanács elnöke az indítvánnyal érintett bírósági határozat kiadmányával együtt megküldi a legfőbb ügyésznek. A legfőbb ügyész az indítvány kézbesítésétől számított tizenöt napon belül megküldi nyilatkozatát a Kúriának.
 
-35. § A 34. § (1) és (2) bekezdésében foglalt esetben a jogegységi tanács valamennyi tag jelenléte mellett határozatképes és a határozatát egyszerű szótöbbséggel hozza. A 34. § (4) bekezdése szerinti jogegységi tanács akkor határozatképes, ha ülésén tagjainak több mint a kétharmada jelen van; a jogegységi tanács döntéséhez a jelen lévő tagok kétharmadának szavazata szükséges.
+(3) A jogegységi panasz tanács elnöke a 32. § (1) bekezdés b) pontja alapján indult jogegységi eljárás esetén az annak alapjául szolgáló eljárásban részt vevő feleknek, illetve terhelteknek és védőknek az indítványt megküldi, akik arra az indítvány kézbesítésétől számított 15 napon belül nyilatkozatot tehetnek.
 
-#### 12. A jogegységi eljárás
+(4) Az előzetes döntéshozatali indítvány alapján a jogegységi panasz tanács elnöke kitűzi az ülés határnapját, amelyről a tanács tagjait és a törvény alapján részvételre jogosultakat értesíti. A tanács ülésén meg kell hallgatni az indítványozót, a legfőbb ügyészt és eseti meghívottat. Az eseti meghívott személyére az indítványozó vagy a tanács tagja tehet javaslatot, a meghívásról a tanács elnöke dönt.
 
-36. § (1) A jogegységi eljárást a jogegységi tanács elnöke készíti elő, ennek során a jogegységi tanácsból egy vagy két előadó bírót jelölhet ki és az indítvánnyal kapcsolatban véleményeket szerezhet be.
+(5) A tanács ülésén akadályoztatása esetén a legfőbb ügyészt az általa kijelölt ügyész helyettesíti.
 
-(2) A jogegységi határozat hozatalára irányuló indítványt – ha azt nem a legfőbb ügyész nyújtotta be – a jogegységi tanács elnöke a jogegységi indítvánnyal érintett bírósági határozat kiadmányával együtt megküldi a legfőbb ügyésznek. A legfőbb ügyész az indítvány kézbesítésétől számított tizenöt napon belül megküldi a jogegységi indítványra tett nyilatkozatát a Kúriának.
+38. § (1) Az indítványozó a jogegységi határozat meghozataláig az indítványt módosíthatja vagy visszavonhatja.
 
-37. § (1) Az indítvány alapján a jogegységi tanács elnöke kitűzi az ülés határnapját, melyről a jogegységi tanács tagjait és a törvény alapján részvételre jogosultakat értesíti. A jogegységi tanács ülése nem nyilvános, azon a jogegységi tanács tagjain kívül az indítványozó, a legfőbb ügyész és eseti meghívott vehet részt. Az eseti meghívott személyére az indítványozó vagy a jogegységi tanács tagja tehet javaslatot, a meghívásról a jogegységi tanács elnöke dönt.
+(2) A felszólalások után a jogegységi panasz tanács elnöke az ülést berekeszti. Ezt követően a tanácskozáson a tanács tagjain kívül csak jegyzőkönyvvezető lehet jelen.
 
-(2) A jogegységi tanács ülésén akadályoztatása esetén a legfőbb ügyészt az általa kijelölt ügyész helyettesíti.
+39. § (1) A tanács elnöke érdemi elbírálás nélkül végzéssel visszautasítja a nem jogosulttól származó indítványt.
 
-38. § (1) Az ülést a jogegységi tanács elnöke vezeti, annak megnyitása után a jogegységi tanács elnöke vagy az előadó bíró összefoglalja a jogegységi indítványt, illetve az elbírálandó elvi kérdés lényegét. Az ülésen valamennyi résztvevő felszólalhat, az indítványozó a jogegységi határozat meghozataláig az indítványt módosíthatja vagy visszavonhatja.
+(2) A tanács érdemi elbírálás nélkül végzéssel megszünteti a jogegységi eljárást az indítvány visszavonása esetén, ha a 32. § (1) bekezdésében foglalt okok nem állnak fenn.
 
-(2) A felszólalások után a jogegységi tanács elnöke az ülést berekeszti. Ezt követően a jogegységi tanács a határozatát tanácskozás után, szavazással hozza meg, a tanácskozáson és a szavazásnál a jogegységi tanács elnökén és tagjain kívül csak jegyzőkönyvvezető lehet jelen.
+40. § (1) Az indítvány alapján – a 39. §-ban foglalt kivétellel – a tanács jogegységi határozatot vagy a határozathozatalt mellőző végzést hoz. A határozatot vagy a végzést a tanács elnöke a tanács ülését követő 15 napon belül megküldi az indítvány előterjesztője és – ha az indítványozó nem a legfőbb ügyész volt – a legfőbb ügyész részére is.
 
-(3) Az ülést a jogegységi tanács elnöke fontos okból elnapolhatja.
-
-39. § (1) A tanács elnöke érdemi elbírálás nélkül elutasítja a nem jogosulttól származó indítványt.
-
-(2) A tanács érdemi elbírálás nélkül megszünteti a jogegységi eljárást az indítvány visszavonása esetén, ha a 32. § (1) bekezdésében foglalt okok nem állnak fenn.
-
-40. § (1) Az indítvány alapján – a 39. §-ban foglalt kivétellel – a jogegységi tanács jogegységi határozatot vagy a határozathozatalt mellőző végzést hoz. A határozatot vagy a végzést a jogegységi tanács elnöke a jogegységi tanács ülését követő 15 napon belül megküldi az indítvány előterjesztője és – ha az indítványozó nem a legfőbb ügyész volt – a legfőbb ügyész részére is.
-
-(2) A jogegységi indítványnak helyt adó határozat rendelkező része tartalmazza a jogegységi eljárás tárgyául szolgáló, illetve azzal szorosan összefüggő elvi kérdésben adott iránymutatást.
-
-(3) A jogegységi tanács az indítványnak nem ad helyt és a jogegységi határozat meghozatalát mellőzi, ha jogegységi határozat meghozatala nem szükséges.
-
-(4) A jogegységi határozat és a határozathozatalt mellőző végzés indokolása tartalmazza, hogy a jogegységi indítványt ki terjesztette elő, az indítvány mire irányult, és mely bírósági határozatokat érint. Ismerteti az elbírálandó elvi kérdésben kialakult eltérő álláspontokat, szükség esetén az indítvánnyal érintett bírósági határozatokban megállapított tényállás lényegét, helyt adó határozat esetében számot ad a rendelkező részben adott iránymutatás indokairól, a határozathozatalt mellőző végzés indokolása esetében annak okáról.
+(2) A jogegységi határozat és a határozathozatalt mellőző végzés indokolása tartalmazza, hogy az indítványt ki terjesztette elő, az indítvány mire irányult, és mely bírósági határozatokat érint. Ismerteti az álláspontokat, szükség esetén az indítvánnyal érintett bírósági határozatokban megállapított tényállás lényegét, helyt adó határozat esetében számot ad a rendelkező részben adott iránymutatás indokairól, a határozathozatalt mellőző végzés indokolása esetében annak okáról.
 
 41. § A jogegységi határozatnak – ha törvény kivételt nem tesz – a felekre és a terheltre kiterjedő hatálya nincs.
 
@@ -373,13 +360,13 @@ kezdeményezéséről határoz.
 
 (2) Ha a Kúria indokoltnak tartja, a jogegységi határozat egyéb módon történő közzétételéről is intézkedhet.
 
-(3) Ha a jogegységi tanács a jogegységi határozatot hatályon kívül helyezi, a hatályon kívül helyező határozatot a Magyar Közlönyben közzé kell tenni. A jogegységi határozat a hatályon kívül helyező határozat közzététele időpontjától nem alkalmazható.
+(3) Ha a jogegységi panasz tanács a jogegységi határozatot hatályon kívül helyezi, a hatályon kívül helyező határozatot a Magyar Közlönyben közzé kell tenni. A jogegységi határozat a hatályon kívül helyező határozat közzététele időpontjától nem alkalmazható.
 
-(4) Ha a jogegységi tanács a jogegységi határozatot hatályon kívül helyezi, a Bírósági Határozatok Gyűjteményében, a központi honlapon és a Kúria honlapján ezt jelezni kell.
+(4) Ha a jogegységi panasz tanács a jogegységi határozatot hatályon kívül helyezi, a Bírósági Határozatok Gyűjteményében, a központi honlapon és a Kúria honlapján ezt jelezni kell.
 
-43. § Törvény – az e fejezetben nem szabályozott kérdésekben – a jogegységi eljárásra vonatkozóan további szabályokat állapíthat meg.
+43. § Törvény – az e fejezetben nem szabályozott kérdésekben – az előzetes döntéshozatali indítvány elbírálására vonatkozóan további szabályokat állapíthat meg.
 
-44. § A jogegységi eljárásra vonatkozó ügyviteli rendelkezéseket a Kúria ügyviteli szabályzata állapítja meg; a rendelkezéseket a Kúria honlapján közzé kell tenni.
+44. § A jogegységi panasz tanács eljárására vonatkozó ügyviteli rendelkezéseket a Kúria ügyviteli szabályzata állapítja meg; a rendelkezéseket a Kúria honlapján közzé kell tenni.
 
 ### IV. Fejezet — A KÚRIA ÖNKORMÁNYZATI TANÁCSA
 
@@ -550,7 +537,7 @@ kezdeményezéséről határoz.
 - b) javaslatot tesz a köztársasági elnöknek a bírák kinevezésére és felmentésére,
 - c) a bírót első kinevezésekor – a bírák jogállásáról és javadalmazásáról szóló törvényben meghatározott esetben – beosztja az elnyert pályázat szerinti bíróságra,
 - d) beosztja a katonai bírót a katonai tanácsba, valamint a Magyar Honvédségnél fennálló hivatásos szolgálati viszonyának megszűnésekor más bírói munkakörbe,
-- e) kijelöli – a bírák jogállásáról és javadalmazásáról szóló törvényben foglaltak szerint – a büntetőeljárásról szóló 2017. évi XC. törvény 680. § (4) bekezdésében meghatározott ügyekben ítélkező bírákat és a bírósági közvetítői tevékenységet végző bírákat, valamint a törvényszék elnökének javaslatára a törvényszéken közigazgatási és munkaügyi ügyekben eljáró bírákat, továbbá dönt a bírák jogállásáról és javadalmazásáról szóló törvényben foglaltak szerint a kijelölés megszüntetéséről,
+- e) kijelöli – a bírák jogállásáról és javadalmazásáról szóló törvényben foglaltak szerint – a büntetőeljárásról szóló 2017. évi XC. törvény 680. § (4) bekezdésében meghatározott ügyekben ítélkező bírákat és a bírósági közvetítői tevékenységet végző bírákat, valamint a Fővárosi Ítélőtábla elnökének javaslatára a Fővárosi Ítélőtáblán, a törvényszék elnökének javaslatára a törvényszéken közigazgatási és munkaügyi ügyekben eljáró bírákat, továbbá dönt a bírák jogállásáról és javadalmazásáról szóló törvényben foglaltak szerint a kijelölés megszüntetéséről,
 - f) beoszthatja a bírót a Kúriára, az OBH-ba, továbbá a bírák jogállásáról és javadalmazásáról szóló törvényben meghatározott szervhez (a továbbiakban: érintett szerv), illetve dönt a beosztás megszüntetéséről és a bírónak ismét tényleges bírói álláshelyre történő beosztásáról,
 - g) dönt a bíró áthelyezéséről,
 - h) dönt a bíró más szolgálati helyre történő kirendeléséről, ha a kirendelés nem a törvényszék és az illetékességi területén működő járásbíróság között vagy a törvényszék illetékességi területén működő járásbíróságok között történik,
@@ -1214,7 +1201,7 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 
 148. § (1) A bírói tanácsnak 5–15 tagja és 3–13 póttagja van; a tagok és a póttagok számát az összbírói értekezlet határozza meg. A bírák jogállásáról és javadalmazásáról szóló törvényben a bírói kinevezési eljárás során szabályozott feladatai ellátása (a pályázók meghallgatása és a pályázatoknak az elért pontszámoknak megfelelően való rangsorolása) során a törvényszék bírói tanácsa – a (2) bekezdésben meghatározott kivétellel – 2, az ítélőtábla elnöke által kijelölt ítélőtáblai bíróval, az ítélőtábla bírói tanácsa 2, a Kúria elnöke által kijelölt kúriai bíróval egészül ki, akik a bírói tanácsnak e feladatai ellátása során a többi taggal azonos jogokkal és kötelezettségekkel rendelkeznek.
 
-(2) A törvényszéki munkaügyi bírói álláshelyre kiírt pályázat esetén a törvényszék bírói tanácsa 1, az illetékes ítélőtáblai munkaügyi kollégium kollégiumvezetője által kijelölt bíróval egészül ki. A törvényszéken közigazgatási bírói álláshelyre kiírt pályázat esetén a törvényszék bírói tanácsa 2, a Kúria elnöke által kijelölt és a Kúria azonos szakági kollégiumában ítélkező bírójával egészül ki, akik a bírói tanácsnak e feladatait ellátása során a többi taggal azonos jogokkal és kötelezettségekkel rendelkeznek. Az ítélőtáblai munkaügyi bírói álláshelyre kiírt pályázat esetén az ítélőtábla bírói tanácsa 1, a Kúria azonos szakági kollégiumában ítélkező bírójával egészül ki.
+(2) A törvényszéki munkaügyi bírói álláshelyre kiírt pályázat esetén a törvényszék bírói tanácsa 1, az illetékes ítélőtáblai munkaügyi kollégium kollégiumvezetője által kijelölt bíróval egészül ki. A törvényszéken közigazgatási bírói álláshelyre kiírt pályázat esetén a törvényszék bírói tanácsa 2, a Kúria elnöke által kijelölt és a Kúria azonos szakági kollégiumában ítélkező bírójával egészül ki, akik a bírói tanácsnak e feladatait ellátása során a többi taggal azonos jogokkal és kötelezettségekkel rendelkeznek. Az ítélőtáblai munkaügyi bírói álláshelyre és az ítélőtáblán közigazgatási bírói álláshelyre kiírt pályázat esetén az ítélőtábla bírói tanácsa 1, a Kúria azonos szakági kollégiumában ítélkező bírójával egészül ki.
 
 (3) A bírói tanács az elnökét és elnökhelyettesét tagjai közül választja.
 
@@ -1263,9 +1250,11 @@ elrendeli a bírósági vezető vezetői tevékenységének vizsgálatát.
 
 (2) A Kúria kollégiumának tagjai a Kúria bírái és az ítélőtáblák, illetve a Kúria közigazgatási kollégiuma esetén a törvényszékek azonos kollégiumának vezetői.
 
-(3) Az ítélőtábla kollégiumának tagjai – a (4) bekezdésben foglalt kivétellel – az ítélőtábla adott ügyszakában működő bírái, valamint általuk az ítélőtábla illetékességi területéhez tartozó törvényszékek adott ügyszakban működő kollégiumainak a bírái közül 6 évre választott bírák, továbbá az ítélőtábla illetékességi területéhez tartozó törvényszékek azonos ügyszakban működő kollégiumainak vezetői.
+(3) Az ítélőtábla kollégiumának tagjai – a (4) és (4a) bekezdésben foglalt kivétellel – az ítélőtábla adott ügyszakában működő bírái, valamint általuk az ítélőtábla illetékességi területéhez tartozó törvényszékek adott ügyszakban működő kollégiumainak a bírái közül 6 évre választott bírák, továbbá az ítélőtábla illetékességi területéhez tartozó törvényszékek azonos ügyszakban működő kollégiumainak vezetői.
 
 (4) Az ítélőtábla munkaügyi kollégiumának a szakmai tevékenység tekintetében tagjai az ítélőtábla, valamint az ítélőtábla illetékességi területén működő törvényszékek munkaügyi bíróvá kijelölt bírái is. A kollégium ügyrendje határozza meg a munkaügyi kollégium szakmai feladatait.
+
+(4a) Az ítélőtábla közigazgatási kollégiumának tagjai az ítélőtábla közigazgatási bíróvá kijelölt bírái. A szakmai tevékenység tekintetében a kollégium tagjai az ítélőtábla közigazgatási bíróvá kijelölt bírái, valamint a törvényszékek közigazgatási kollégiumának vezetői is. A kollégium ügyrendje határozza meg a közigazgatási kollégium szakmai feladatait.
 
 (5) A törvényszéken a kollégium tagjai, a (6) bekezdésben foglalt kivétellel a törvényszék bírái, továbbá – a közigazgatási és az önálló munkaügyi kollégium kivételével – általuk a törvényszék területén működő járásbíróságok bírái közül 6 évre választott bírák. A választott bíró tagokat az adott kollégium törvényszéki bíró tagjai a kollégium szakágának, illetve szakágainak megfelelő ügyszakban működő bírák közül választják.
 
@@ -1453,7 +1442,7 @@ vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 és a köztársasági elnök intézkedéseinek ellenjegyzésére vonatkozó rendelkezés
 
-175. § E törvény 1–8. §-a, 12–15. §-a, II. Fejezete, 7–12. alcíme, 41/A. és 41/B. §-a, 13. alcíme, 45. §-a, V. Fejezete, Harmadik és Negyedik Része, X., XI. és XIII/A. Fejezete, továbbá 197–197/B. §-a, 197/D. §-a, 207. §-a és 209. §-a az Alaptörvény 25. cikk (6) és (8) bekezdése alapján sarkalatosnak minősül.
+175. § E törvény 1–8. §-a, 12–15. §-a, II. Fejezete, 7–12. alcíme, 41/A. és 41/B. §-a, 13. alcíme, 45. §-a, V. Fejezete, Harmadik és Negyedik Része, X., XI. és XIII/A. Fejezete, továbbá 197–197/B. §-a, 197/D. §-a, 197/E. §-a, 207. §-a és 209. §-a az Alaptörvény 25. cikk (6) és (8) bekezdése alapján sarkalatosnak minősül.
 
 176. § A köztársasági elnöknek az e törvényben meghatározott tevékenysége során hozott döntéséhez és intézkedéséhez ellenjegyzés nem szükséges.
 
@@ -1594,6 +1583,10 @@ vonatkozó részletes szabályokat rendeletben állapítsa meg.
 197/D. § (1) A 41/B. §-nak az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi CLXV. törvénnyel módosított (1) bekezdésében foglaltakat a 2021. január 1. napján és az azt követően benyújtott jogegységi panasz kérelmekre kell alkalmazni.
 
 (2) A Kúria főtitkárára vonatkozóan az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi CLXV. törvénnyel megállapított rendelkezéseket az e rendelkezések hatálybalépését követően első alkalommal azzal az eltéréssel kell alkalmazni, hogy a főtitkári tisztségre történő pályázat kiírása és a pályázat elbírálása közötti időben a főtitkári tisztséget a Kúria elnöke megbízással töltheti be.
+
+197/E. § (1) Az egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2021. évi CXXXIV. törvénnyel megállapított 10–12. alcím rendelkezéseit a 2022. január 1. napján és az azt követően előterjesztett előzetes döntéshozatali indítványokra kell alkalmazni.
+
+(2) Az ítélőtábla közigazgatási kollégiuma 2022. március 1-jétől működik.
 
 ### XVI. Fejezet — MÓDOSULÓ JOGSZABÁLYOK
 

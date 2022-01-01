@@ -1819,7 +1819,7 @@ céljából a nemi hovatartozásra vonatkozó, illetve azzal összefüggő adato
 
 (4) A (2) bekezdés szerinti szakmai képzés, illetve továbbképzés elvégzése legalább két különböző továbbképzési forma együttes elvégzésével (helyszíni jelenléttel megvalósuló továbbképzés, e-learning, mentorálás vagy teljes napnyi időtartamú szakmai konferencián történő részvétel) valósítható meg, azzal, hogy egy teljes napnyi időtartamú szakmai konferencián történő részvétel 5 órányi képzésnek, illetve továbbképzésnek számítható be.
 
-(5) A (2) bekezdés szerinti szakmai képzést, illetve továbbképzést az (1) bekezdés szerinti személyt foglalkoztató vagy megbízó biztosító vagy viszontbiztosító saját maga is végezheti, valamint a szakmai továbbképzés lebonyolítására a 9. mellékletben meghatározott szakképesítés megszerzésére irányuló képzést nyújtó szakképző intézményt, vagy a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott, a hatósági vizsgára felkészítő hatósági képzést nyújtó képző szervet is megbízhat.
+(5) A (2) bekezdés szerinti szakmai képzést, illetve továbbképzést az (1) bekezdés szerinti személyt foglalkoztató vagy megbízó biztosító vagy viszontbiztosító saját maga is végezheti, valamint a szakmai továbbképzés lebonyolítására a biztosításközvetítő (függő és független) szakképesítés megszerzésére irányuló képzést nyújtó szakképző intézményt, vagy a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott, a hatósági vizsgára felkészítő hatósági képzést nyújtó képző szervet is megbízhat.
 
 (6) A foglalkoztató vagy megbízó biztosító vagy viszontbiztosító köteles az (1) bekezdés szerinti – szakmai képzési, illetve továbbképzési kötelezettség alá eső – személyek továbbképzését oly módon megszervezni, hogy az adott személy vonatkozásában az új vagy módosult termék értékesítését szakmai képzés, illetve továbbképzés előzze meg.
 
@@ -4473,7 +4473,7 @@ fedezete nem elegendő, vagy az előírt mérték alá csökkent;
 
 (3) Biztosításközvetítői tevékenységet csak olyan természetes személy kezdhet, illetve végezhet – beleértve a biztosításközvetítői tevékenységet végző gazdálkodó szervezet, vagy e szervezettel megbízási jogviszonyban álló, biztosításközvetítői tevékenységet végző szervezet keretein belül végzett tevékenységet is –, aki
 
-- a) felsőfokú végzettséggel vagy a 9. mellékletben meghatározott szakképesítéssel vagy a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott hatósági vizsgával rendelkezik,
+- a) felsőfokú végzettséggel vagy biztosításközvetítő (függő és független) szakképesítéssel vagy a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott hatósági vizsgával rendelkezik,
 - b) a 376. §-ban meghatározott szakmai továbbképzési kötelezettségnek eleget tesz, és
 - c) a 69/A. § szerinti jó hírnévvel rendelkezik.
 
@@ -4488,7 +4488,7 @@ fedezete nem elegendő, vagy az előírt mérték alá csökkent;
 
 birtokában végezheti a biztosításközvetítői tevékenységét.
 
-(6a) A Felügyelet érvényteleníti annak a vizsgázónak a hatósági vizsgáját, aki a vizsgát a Felügyelet félrevezetésével, hamis adatok közlésével, jogszabályban meghatározott feltételek hiányában vagy a vizsgáztatás szabályainak megsértésével tette le. Ha a hatósági vizsga letételét igazoló tanúsítványt a Felügyelet már kiadta, úgy intézkedik annak visszavonásáról.
+(6a) A Felügyelet érvényteleníti annak a vizsgázónak a hatósági vizsgáját, aki a vizsgát a Felügyelet félrevezetésével, hamis adatok közlésével, jogszabályban meghatározott feltételek hiányában vagy a vizsgáztatás szabályainak megsértésével tette le. Ha a hatósági vizsga letételét igazoló hatósági bizonyítványt a Felügyelet már kiadta, úgy intézkedik annak visszavonásáról.
 
 (7) Az a természetes személy, aki a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott hatósági vizsga birtokában biztosításközvetítői tevékenység végzésére jogosult lenne, de a felügyeleti nyilvántartásból történő törléstől vagy – nyilvántartásba vétel hiányában – a hatósági vizsga letételétől számított öt év már eltelt, abban az esetben vehető fel a felügyeleti nyilvántartásba, ha újból hatósági vizsgát tesz.
 
@@ -4586,7 +4586,7 @@ változás következett be, akkor a (2) bekezdés szerinti szakmai képzés, ill
 
 (7) Ha a független biztosításközvetítői tevékenységet végző természetes személy a megbízás teljesítése által érintett biztosítási terméket illetően a (2) bekezdés szerinti szakmai képzésen, illetve továbbképzésen korábban nem vett részt, akkor a foglalkoztató vagy megbízó független biztosításközvetítő az elegendő számú, a piacon hozzáférhető biztosítási termék elemezéséhez kapcsolódóan – a megbízás teljesítését megelőzően – köteles meggyőződni arról, hogy a közvetítő az elemzés elvégzéséhez szükséges termékismerettel rendelkezik, és ennek tényét a (9) bekezdésben szereplő nyilvántartásba bejegyezni.
 
-(8) A (2) bekezdésben meghatározott szakmai képzést, illetve továbbképzést az (1) bekezdés szerinti személyt foglalkoztató vagy megbízó biztosító, többes ügynök vagy független biztosításközvetítő saját maga is végezheti, valamint a szakmai továbbképzés lebonyolítására a 9. mellékletben meghatározott szakképesítés megszerzésére irányuló képzést nyújtó szakképző intézményt, vagy a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott, a hatósági vizsgára felkészítő hatósági képzést nyújtó képző szervet is megbízhat.
+(8) A (2) bekezdésben meghatározott szakmai képzést, illetve továbbképzést az (1) bekezdés szerinti személyt foglalkoztató vagy megbízó biztosító, többes ügynök vagy független biztosításközvetítő saját maga is végezheti, valamint a szakmai továbbképzés lebonyolítására a biztosításközvetítő (függő és független) szakképesítés megszerzésére irányuló képzést nyújtó szakképző intézményt, vagy a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott, a hatósági vizsgára felkészítő hatósági képzést nyújtó képző szervet is megbízhat.
 
 (9) A (2) bekezdésben meghatározott szakmai képzésen, illetve továbbképzésen történő részvételt az (1) bekezdés szerinti személyt foglalkoztató vagy megbízó biztosító, többes ügynök vagy független biztosításközvetítő köteles nyilvántartani, és a felügyeleti ellenőrzés során a Felügyelet részére – a nyilvántartásban szereplő dokumentumokkal – igazolni.
 
@@ -5409,7 +5409,7 @@ a Felügyelet – a másik tagállam illetékes hatóságának tájékoztatásá
 
 #### 188. A hatósági képzéssel és vizsgáztatással kapcsolatos nyilvántartás
 
-430. § (1) A Felügyelet a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott hatósági képzéssel és vizsgáztatással kapcsolatban, a hatósági képzés és vizsgáztatás hatósági ellenőrzésével, továbbá a hatósági képzésre és vizsgára történő jelentkezés lebonyolításával és a sikeres vizsgákat igazoló hatósági tanúsítvány kiadásával, pótlásával kapcsolatos feladatai ellátása érdekében nyilvántartást vezet a képzést vagy képzést és vizsgáztatást végző szervekről (a továbbiakban együtt: képző szerv), a hatósági vizsgára jelentkező személyekről, a képző szerv által aláíró személyként megjelölt, a képzési igazolás kiállítására és aláírására feljogosított személyekről (a továbbiakban: aláíró személy), az oktatókról, a hatósági vizsga jogszabályban foglalt feltételeknek megfelelő lebonyolításának felügyeletére jogosult személyekről (a továbbiakban: vizsgabiztos), valamint a hatósági vizsga letételét igazoló tanúsítványokról.
+430. § (1) A Felügyelet a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott hatósági képzéssel és vizsgáztatással kapcsolatban, a hatósági képzés és vizsgáztatás hatósági ellenőrzésével, továbbá a hatósági képzésre és vizsgára történő jelentkezés lebonyolításával és a sikeres vizsgákat igazoló hatósági bizonyítvány kiadásával, pótlásával kapcsolatos feladatai ellátása érdekében nyilvántartást vezet a képzést vagy képzést és vizsgáztatást végző szervekről (a továbbiakban együtt: képző szerv), a hatósági vizsgára jelentkező személyekről, a képző szerv által aláíró személyként megjelölt, a képzési igazolás kiállítására és aláírására feljogosított személyekről (a továbbiakban: aláíró személy), az oktatókról, a hatósági vizsga jogszabályban foglalt feltételeknek megfelelő lebonyolításának felügyeletére jogosult személyekről (a továbbiakban: vizsgabiztos), valamint a hatósági vizsga letételét igazoló hatósági bizonyítványokról.
 
 (2) A közvetítői tevékenység gyakorlását lehetővé tevő közvetítői hatósági vizsgának és az ahhoz szükséges képzésnek a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott feltételeknek megfelelő képzés és vizsga fogadható el.
 
@@ -5438,11 +5438,11 @@ a Felügyelet – a másik tagállam illetékes hatóságának tájékoztatásá
 
 (7) A Felügyelet a nyilvántartásba vételről szóló döntésben a (6) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
 
-(8) A hatósági vizsga letételét igazoló, elveszett vagy megsemmisült tanúsítvány pótlására – erre irányuló kérelem esetén – a Felügyelet a nyilvántartása alapján másodlatot állít ki, amit a kérelmező a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendelet szerinti hatósági vizsgára történő jelentkezési lapban meghatározott – vizsgaidőpontban érvényes – adatainak megadásával igényelhet.
+(8) A hatósági vizsga letételét igazoló, elveszett vagy megsemmisült hatósági bizonyítvány pótlására – erre irányuló kérelem esetén – a Felügyelet a nyilvántartása alapján másodlatot állít ki, amit a kérelmező a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendelet szerinti hatósági vizsgára történő jelentkezési lapban meghatározott – vizsgaidőpontban érvényes – adatainak megadásával igényelhet.
 
 (9) Az e §-ban meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő a Felügyelet.
 
-(10) A Felügyelet az (1) bekezdésben meghatározott nyilvántartásban szereplő személyes adatokat az adott személy hatósági képzésben vagy vizsgáztatásban történő közreműködésétől számított tizenöt év elteltével törli a nyilvántartásból, ide nem értve azokat az adatokat, amelyek hatósági vizsga letételét igazoló tanúsítvány nyilvántartásához szükségesek.
+(10) A Felügyelet az (1) bekezdésben meghatározott nyilvántartásban szereplő személyes adatokat az adott személy hatósági képzésben vagy vizsgáztatásban történő közreműködésétől számított tizenöt év elteltével törli a nyilvántartásból, ide nem értve azokat az adatokat, amelyek hatósági vizsga letételét igazoló hatósági bizonyítvány nyilvántartásához szükségesek.
 
 (11) A Felügyelet jogosult vizsgáztatási tevékenységet folytatni a – vizsgáztatási tevékenységet végző szervekre és a hatósági vizsgára vonatkozó – jogszabályi követelmények betartásával.
 
@@ -5553,7 +5553,7 @@ vonatkozó részletes szabályokat rendeletben állapítsa meg.
 - b) a biztosító kötelező gépjármű-felelősségbiztosítási terméke eredményelszámolására,
 - c)
 - d) a biztosítási ágak elkülönítésének módjára,
-- e) a biztosításközvetítői hatósági képzés és vizsga szabályaira, a hatósági vizsga letételével szerzett, függő és független biztosításközvetítői tevékenység folytatására feljogosító tanúsítvány megszerzésének követelményeire, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére
+- e) a biztosításközvetítői hatósági képzés és vizsga szabályaira, a hatósági vizsga letételével szerzett, függő és független biztosításközvetítői tevékenység folytatására feljogosító hatósági bizonyítvány megszerzésének követelményeire, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére
 
 vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
@@ -5791,6 +5791,8 @@ feltéve, ha a szakmai gyakorlat befejezésére vonatkozó egyéb feltételek fe
 feltéve, ha a szakmai gyakorlat befejezésére vonatkozó egyéb feltételek fennállnak.
 
 (6) A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 2015. december 31-én hatályos 51. § (2) bekezdésében és az 5. számú mellékletének 1.C) és 1.D) pontjában meghatározott felügyeleti nyilvántartásban 2015. december 31-én – a szaktanácsadói tevékenységet végző természetes személy vagy gazdálkodó szervezet vonatkozásában – szereplő adatokat a Felügyelet 2026. január 1-jéig a (3)–(5) bekezdésben meghatározott rendelkezések végrehajtása és hatóságoktól vagy más szervektől érkező megkeresések teljesítése céljából kezelheti.
+
+(7) Az a biztosításközvetítői tevékenységet végző természetes személy, aki 2021. december 31-én megfelelt a 9. mellékletben meghatározott követelményeknek, 2022. január 1-jét követően is végezhet biztosításközvetítői tevékenységet.
 
 451. § A 129. §-ban meghatározott rendelkezéseket nem kell alkalmazni az állami, önkormányzati, önkéntes és létesítményi tűzoltóság tűzoltásban, műszaki mentésben részt vevő tagjaira vonatkozóan élet- és balesetbiztosítási szerződés kötésére vonatkozó kötelezettségre.
 
@@ -6251,22 +6253,6 @@ Azt a pénznemet, amelyben a biztosító kötelezettségeit teljesíteni kötele
 - 7. A biztosító mentesülhet a 2. pontban előírt kötelezettség alól, ha annak végrehajtása azt eredményezi, hogy az adott pénznemben köteles lenne a más pénznemekben lévő eszközeinek 7 százalékát meg nem haladó eszközt tartani.
 
 ### 9. melléklet a 2014. évi LXXXVIII. törvényhez
-
-- 1. Ügynöki tevékenységet az a természetes személy végezhet, aki rendelkezik
-  - a) biztosításközvetítő szakképesítéssel;
-  - b) függő biztosításközvetítői szakképesítéssel;
-  - c) független biztosításközvetítői szakképesítéssel; vagy
-  - d) biztosítási tanácsadó szakképesítéssel.
-- 2. Ha az ügynök kizárólag az 1. melléklet A) részének 17. pontjában foglalt Jogvédelem biztosítási ágazat termékeinek közvetítését végzi, akkor rendelkeznie kell
-  - a) biztosításközvetítő szakképesítéssel;
-  - b) jogvédelmi biztosításközvetítő szakképesítésével;
-  - c) függő biztosításközvetítői szakképesítéssel;
-  - d) független biztosításközvetítői szakképesítéssel; vagy
-  - e) biztosítási tanácsadó szakképesítéssel.
-- 3. A többes ügynöki és alkuszi tevékenységet azon természetes személy végezhet, aki rendelkezik
-  - a) biztosításközvetítő szakképesítéssel;
-  - b) független biztosításközvetítői szakképesítéssel; vagy
-  - c) biztosítási tanácsadó szakképesítéssel.
 
 ### 10. melléklet a 2014. évi LXXXVIII. törvényhez
 

@@ -588,7 +588,7 @@ kell figyelembe venni.
 - b) az egyszerűsített foglalkoztatás szabályai szerint jogszerűen alkalmazott munkavállalót,
 - c) az önkéntes tartalékos katonai szolgálati viszonnyal rendelkező munkavállalót, és
 - d) a Munka Törvénykönyvéről szóló törvény alapján más munkáltatónál történő átmeneti munkavégzés során foglalkoztatott munkavállalót,
-- e) a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló törvény hatálya alá tartozó hivatásos és szerződéses katonát,
+- e) a honvédek jogállásáról szóló törvény hatálya alá tartozó hivatásos és szerződéses állományú katonát,
 - f) a nevelőszülői foglalkoztatási jogviszonyban álló személyt annál a munkaadónál, aki őt nevelőszülőként foglalkoztatja.
 
 (3) A rehabilitációs hozzájárulás éves összege a kötelező foglalkoztatási szintből hiányzó létszám, valamint a rehabilitációs hozzájárulás szorzata.
@@ -603,7 +603,7 @@ kell figyelembe venni.
 
 - a) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó rendvédelmi feladatokat ellátó szerv,
 - b) a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó, a fogvatartottak kötelező foglalkoztatására létrehozott, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet,
-- c) a honvédek jogállásáról szóló törvény szerinti honvédségi szervezet.
+- c) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény szerinti honvédelmi szervezet, valamint a honvédelemért felelős miniszter fenntartói irányítása alá tartozó szakképző intézmény,
 - d) a Nemzeti Adó- és Vámhivatal.
 
 (7) A megváltozott munkaképességű munkavállalót foglalkoztató munkaadó a rehabilitációs hozzájárulás megállapítása céljából nyilvántartást vezet, amely tartalmazza a megváltozott munkaképességű munkavállaló és a 22/A. § szerinti személy természetes személyazonosító adatait és társadalombiztosítási azonosító jelét, a megváltozott munkaképességű munkavállaló munkaképesség-változásának, egészségi állapotának, egészségkárosodásának mértékét, a sajátos nevelési igény vagy fogyatékosság tényét, továbbá az ezek igazolására szolgáló okiratok másolatát. A nyilvántartást a munkáltató a foglalkoztatás megszűnését követő 5 évig köteles megőrizni. A sajátos nevelési igényre vagy a fogyatékosság tényére vonatkozó adat a foglalkoztatás megszűnését követő 5 évig, de legfeljebb a 23. életév betöltését követő 5 évig kezelhető.

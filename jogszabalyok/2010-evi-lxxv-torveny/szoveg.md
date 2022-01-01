@@ -91,7 +91,7 @@ kiadása érdekében.
 
 (3) Az (1) és (2) bekezdésben szabályozott közteher megfizetésével nem terheli
 
-- a) a munkáltatót szociális hozzájárulási adó, szakképzési hozzájárulás és rehabilitációs hozzájárulás, valamint az Szja.tv.-ben a munkáltatóra előírt adóelőleg-levonási kötelezettség,
+- a) a munkáltatót szociális hozzájárulási adó és rehabilitációs hozzájárulás, valamint az Szja.tv.-ben a munkáltatóra előírt adóelőleg-levonási kötelezettség,
 - b) a munkavállalót társadalombiztosítási járulékfizetési, és személyi jövedelemadóelőleg-fizetési kötelezettség.
 
 (4) Ha a munkáltató a (2) bekezdésben szereplő közteherrel terhelt munkára az 1. § (2)–(4) bekezdésében, a 2. § 1–3. pontjában és a 4. § (2) bekezdésében meghatározott létszám-, kereseti-, illetve időkorlátok túllépésével létesít, illetve tart fenn e törvény szerinti munkaviszonyt, attól a naptól, hogy az előzőek szerinti feltételek nem teljesülnek, a munkáltató a munkavállalóira nem alkalmazhatja az (1)–(3) bekezdés rendelkezéseit. A munkáltató a 7. § (1) bekezdésében meghatározott jogszabályokat köteles továbbá alkalmazni az előzőek szerinti feltételek megsértése feltárásának időpontjától annyi ideig, ameddig az (1)–(3) bekezdést jogosulatlanul alkalmazta.

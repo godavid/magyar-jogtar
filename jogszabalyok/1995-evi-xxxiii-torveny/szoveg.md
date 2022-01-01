@@ -229,8 +229,9 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 (6) A kizárólagos hasznosítási jog nem terjed ki
 
 - a) a magánhasználat céljából végzett, illetve a gazdasági tevékenység körén kívül eső cselekményekre;
-- b) a találmány tárgyával kapcsolatos kísérleti célú cselekményekre, ideértve a találmány tárgyát képező termék vagy a találmány tárgyát képező eljárással előállított termék forgalomba hozatalának engedélyezéséhez szükséges kísérleteket és vizsgálatokat;
-- c) orvos által rendelt gyógyszernek gyógyszertárban vény alapján történő alkalmi elkészítésére és az így elkészített gyógyszerrel kapcsolatos további cselekményekre.
+- b) a találmány tárgyával kapcsolatos kísérleti célú cselekményekre;
+- c) a gyógyszer Európai Gazdasági Térség területén vagy harmadik országban történő forgalomba hozatalának engedélyezéséhez szükséges kísérletekre, vizsgálatokra és az ezekhez szükséges cselekményekre – ideértve különösen az előállítást, használatot, forgalomba hozatalt, forgalomba hozatalra való ajánlást, raktáron tartást és az országba való behozatalt vagy kivitelt –, függetlenül attól, hogy a cselekményeket közvetlenül a forgalomba hozatali engedély kérelmezője vagy vele e célból gazdasági kapcsolatban álló más személy valósítja meg;
+- d) orvos által rendelt gyógyszernek gyógyszertárban vény alapján történő alkalmi elkészítésére és az így elkészített gyógyszerrel kapcsolatos további cselekményekre.
 
 (7) A terméket — az ellenkező bizonyításáig — a szabadalmazott eljárással előállítottnak kell tekinteni, ha a termék új, vagy nagymértékben valószínűsíthető, hogy a terméket a szabadalmazott eljárással állították elő, és a szabadalmas az adott helyzetben általában elvárható intézkedések megtétele után sem tudta meghatározni a ténylegesen alkalmazott eljárást. Különösen akkor valószínűsíthető nagymértékben, hogy a terméket a szabadalmazott eljárással állították elő, ha a szabadalmazott eljárás az egyetlen ismeretessé vált eljárás.
 
@@ -581,7 +582,7 @@ hasznosítására.
 
 - a) a szabadalom megadása,
 - b) a szabadalmi oltalom megszűnésének megállapítása és újra érvénybe helyezése,
-- c) a szabadalom megsemmisítése,
+- c) a szabadalom megsemmisítése, – kivéve, ha a szabadalom megsemmisítése iránti igényt a szabadalombitorlási perben eljáró bíróság előtt, a 104. § (1a) bekezdésében foglaltaknak megfelelően viszontkeresettel érvényesítik –,
 - d) a nemleges megállapítás,
 - e) a szabadalmi leírás értelmezése,
 - f) a szabadalmi bejelentések és a szabadalmak nyilvántartása, beleértve a fenntartásukkal kapcsolatos kérdéseket,
@@ -1116,6 +1117,10 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (16) A Szellemi Tulajdon Nemzeti Hivatala az angol nyelvű mellékletek alapján készülő írásos véleménnyel kiegészített újdonságkutatási jelentést a kérelem benyújtásának napján rendelkezésre álló leírás és igénypont, valamint rajz alapján készíti el, és azt a kérelem benyújtásától számított hat hónapon belül küldi meg a bejelentőnek.
 
+### Nemzetközi jellegű kutatás
+
+69/B. § A bejelentő kérelmére a szabadalmi bejelentés alapján az illetékes nemzetközi kutatási szerv a Washingtonban az 1970. évi június 19-én kelt Szabadalmi Együttműködési Szerződés (a továbbiakban: Szerződés) 15. cikk (5) bekezdése szerinti nemzetközi jellegű kutatást végez.
+
 ### Közzététel
 
 70. § (1) A szabadalmi bejelentést a legkorábbi elsőbbség napjától számított tizennyolc hónap elteltével közzé kell tenni.
@@ -1206,6 +1211,10 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 (4) A megsemmisítési kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
 
 (5) Ha a megsemmisítési kérelem nem felel meg a törvényben előírt feltételeknek, a megsemmisítést kérőt hiánypótlásra kell felhívni; ha pedig a kérelem díját nem fizette meg, figyelmeztetni kell a törvényben meghatározott határidőben történő pótlásra. Ezek elmaradása esetén a megsemmisítési kérelmet visszavontnak kell tekinteni.
+
+(6) Ha a 104. § (1a) bekezdése szerinti, a szabadalom megsemmisítése iránti viszontkereset benyújtását követően a Szellemi Tulajdon Nemzeti Hivatala előtt – azonos vagy eltérő ténybeli alapon – a viszontkereset tárgyát képező szabadalom megsemmisítése iránti kérelmet terjesztenek elő, a Szellemi Tulajdon Nemzeti Hivatala az eljárást felfüggeszti a viszontkereset vonatkozásában lefolytatandó bírósági eljárás jogerős befejezéséig.
+
+(7) A Szellemi Tulajdon Nemzeti Hivatala a megsemmisítési kérelmet elutasítja, ha a megsemmisítés tárgyában a 104. § (1a) bekezdése szerinti, a szabadalom megsemmisítése iránti viszontkereset alapján azonos ténybeli alapon, azonos szabadalom megsemmisítése tárgyában a bíróság jogerős döntést hozott.
 
 80/A. § Szolgálati találmányra adott szabadalom esetén a Szellemi Tulajdon Nemzeti Hivatala a megsemmisítési kérelmet azzal küldi meg a feltalálónak, hogy a megsemmisítési eljárásban ügyfélként vehet részt, ha az erre vonatkozó nyilatkozatát a kérelem kézhezvételétől számított harminc napon belül megteszi.
 
@@ -1547,7 +1556,7 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 84/M. § (1) Ha az európai szabadalmat az Egyezmény szerinti felszólalási, korlátozási vagy megvonási eljárásban megvonják vagy módosítással tartják fenn, a 81. § (8) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
-(2) Az európai szabadalom megsemmisítésére irányuló eljárást az Egyezmény szerinti felszólalási, korlátozási vagy megvonási eljárás jogerős befejezéséig indokolt esetben fel kell függeszteni, ha ugyanazzal az európai szabadalommal szemben felszólalást nyújtottak be, vagy ugyanannak az európai szabadalomnak a korlátozását vagy megvonását kérték az Egyezmény alapján.
+(2) Az európai szabadalom megsemmisítésére irányuló eljárást az Egyezmény szerinti felszólalási, korlátozási vagy megvonási eljárás jogerős befejezéséig különösen indokolt esetben fel lehet függeszteni, ha ugyanazzal az európai szabadalommal szemben felszólalást nyújtottak be, vagy ugyanannak az európai szabadalomnak a korlátozását vagy megvonását kérték az Egyezmény alapján.
 
 (3) A felfüggesztett megsemmisítési eljárást bármelyik fél kérelmére folytatni kell az Egyezmény szerinti korlátozási eljárás jogerős befejezését követően, illetve, ha az Egyezmény szerinti felszólalási vagy megvonási eljárás jogerős befejezése nem eredményezi az európai szabadalom megvonását.
 
@@ -1563,7 +1572,7 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 ### Általános szabályok
 
-84/P. § (1) E törvény alkalmazásában nemzetközi szabadalmi bejelentés: a Washingtonban az 1970. évi június 19-én kelt Szabadalmi Együttműködési Szerződés (a továbbiakban: Szerződés) alapján tett szabadalmi bejelentés.
+84/P. § (1) E törvény alkalmazásában nemzetközi szabadalmi bejelentés: a Szerződés alapján tett szabadalmi bejelentés.
 
 (2) Ahol e törvény a Szerződés alkalmazására utal, azon a Szerződéshez csatolt Végrehajtási Szabályzat alkalmazását is érteni kell.
 
@@ -1802,7 +1811,34 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 - b) az előhasználati és a továbbhasználati jog, továbbá a 84/K. § (6) bekezdésében és az Egyezmény [84/A. § a) pont] 112a. cikkének (6) bekezdésében és 122. cikkének (5) bekezdésében szabályozott jogosultság fennállásával kapcsolatos perek; valamint
 - c) a találmány- vagy szabadalombitorlás miatt indított perek.
 
-(2) Szabadalombitorlás miatt indított perekben ideiglenes intézkedést – az ellenkező valószínűsítéséig – a Pp. 103. § (1) bekezdés d) pontja szerinti különös méltánylást érdemlő okból szükségesnek kell tekinteni, ha a kérelmező igazolja, hogy a találmány szabadalmi oltalom alatt áll, és ő a szabadalmas vagy olyan hasznosító, aki jogosult saját nevében fellépni a bitorlással szemben. Az ellenkező valószínűsítése során figyelembe kell venni az eset összes körülményeit, különösen azt, hogy a szabadalmat a Szellemi Tulajdon Nemzeti Hivatala vagy az elsőfokon eljáró bíróság megsemmisítette, a Magyarországon is hatályos európai szabadalmat az Európai Szabadalmi Hivatal felszólalási osztálya megvonta, illetve azt az Európai Szabadalmi Szervezet másik tagállamában megsemmisítették. A különös méltánylást érdemlő ok fennállását megalapozó vélelemre vonatkozó rendelkezés nem alkalmazható, ha a szabadalombitorlás megkezdése óta hat hónap, illetve a kérelmezőnek a bitorlásról és a bitorló személyéről való tudomásszerzése óta hatvan nap már eltelt.
+(1a) A szabadalombitorlás miatt indított per alperese a szabadalom megsemmisítése iránt a perben eljáró bíróság előtt viszontkeresetet terjeszthet elő (a továbbiakban: megsemmisítési viszontkereset), ha
+
+- a) álláspontja szerint a szabadalom vonatkozásában a 42. § (1) bekezdése vagy 84/N. § (1) bekezdése szerinti megsemmisítési ok áll fenn és
+- b) a Szellemi Tulajdon Nemzeti Hivatala előtt azonos ténybeli alapon, ugyanannak a szabadalomnak a megsemmisítése iránt megsemmisítési eljárás nincs folyamatban és a megsemmisítés tárgyában jogerős döntés sem született.
+
+(1b) Ha a megsemmisítési viszontkeresetet olyan perben terjesztik elő, amelyben a szabadalom jogosultja félként nem vesz részt, a viszontkeresetet előterjesztő alperesnek a szabadalom jogosultját alperesként perbe kell vonnia.
+
+(1c) A szabadalombitorlás miatt indított perben eljáró bíróság a megsemmisítési viszontkereset-levelet visszautasítja, ha nem felel meg az (1a) bekezdés b) pontjában foglalt feltételnek.
+
+(1d) Ha a szabadalombitorlás miatt indított per alperese igazolja, hogy ugyanannak a szabadalomnak a megsemmisítése iránt a per megindítását megelőzően megsemmisítési eljárást indított a Szellemi Tulajdon Nemzeti Hivatala előtt, a szabadalombitorlás miatt indított pert a megsemmisítési eljárás jogerős befejezéséig fel kell függeszteni. Ha a pert Magyarországon hatályosított európai szabadalom bitorlása miatt indítják, az európai szabadalommal szembeni felszólalás esetén a szabadalombitorlási per a bíróság mérlegelése alapján, különösen indokolt esetben felfüggeszthető.
+
+(1e) A bíróság a megsemmisítési viszontkereset tartalmáról és benyújtásának időpontjáról – ha a megsemmisítési viszontkereset perfelvételre alkalmas vagy a bíróság intézkedése alapján alkalmassá vált – haladéktalanul tájékoztatja a Szellemi Tulajdon Nemzeti Hivatalát. A megsemmisítési viszontkereset előterjesztésének tényét a Szellemi Tulajdon Nemzeti Hivatala a szabadalmi lajstromban rögzíti, annak bíróság általi elbírálását követően pedig törli.
+
+(1f) Az elsőfokon eljárt bíróság a megsemmisítési viszontkereset tárgyában meghozott eljárást befejező jogerős határozatot – felülvizsgálati eljárás kezdeményezése esetén a felülvizsgálati eljárás és az annak alapján esetlegesen lefolytatandó eljárások befejeződését követően, felülvizsgálati eljárás kezdeményezése hiányában a felülvizsgálati kérelem előterjesztésére nyitva álló határidő elteltét követően – haladéktalanul megküldi a Szellemi Tulajdon Nemzeti Hivatalának. A Szellemi Tulajdon Nemzeti Hivatala a jogerős határozat alapján – amennyiben a megsemmisítésről a határozat rendelkezik – bejegyzi a szabadalom részleges vagy teljes megsemmisítését a szabadalmi lajstromba.
+
+(1g) A bíróság a szabadalombitorlási perben soron kívül jár el, ha az alperes megsemmisítési viszontkeresetet terjeszt elő.
+
+(1h) A megsemmisítési viszontkereset tárgyában kirendelt szakértőnek a szakvélemény elkészítésére a kirendelő végzés vele való közlésétől számított 30 nap áll rendelkezésére. Ha az elsősorban kirendelt szakértő nem élt előzetes akadályközléssel, akkor munkadíját a bíróság a határidő lejártát követő naptól kezdve naponta egy százalékkal csökkenti, vagy ha az elsősorban kirendelt szakértő határidőben nem tesz eleget a szakvélemény adására vonatkozó kötelezettségének, a megsemmisítési viszontkereset tárgyában a bíróság az elsősorban kirendelt szakértőt felmenti és eseti szakértőként bármely megfelelő szakértelemmel rendelkező szakértőt kirendelhet.
+
+(1i) Ha az alperes megsemmisítési viszontkeresetet terjeszt elő, a szabadalombitorlási perben magánszakértői bizonyításnak nincs helye.
+
+(2) Szabadalombitorlás miatt indított perekben ideiglenes intézkedést – az ellenkező valószínűsítéséig – a Pp. 103. § (1) bekezdés d) pontja szerinti különös méltánylást érdemlő okból szükségesnek kell tekinteni, ha a kérelmező igazolja, hogy a találmány szabadalmi oltalom alatt áll, és ő a szabadalmas vagy olyan hasznosító, aki jogosult saját nevében fellépni a bitorlással szemben. Az ellenkező valószínűsítése során figyelembe kell venni az eset összes körülményeit, ideértve az alperes által a megsemmisítési viszontkeresetben, illetve a 104. § (4) bekezdése szerinti ideiglenes intézkedés iránti kérelemmel szembeni ellenkérelemben előterjesztett bizonyítékokat, továbbá ha a szabadalmat a Szellemi Tulajdon Nemzeti Hivatala vagy az elsőfokon eljáró bíróság megsemmisítette, a Magyarországon is hatályos európai szabadalmat az Európai Szabadalmi Hivatal felszólalási osztálya megvonta, illetve azt az Európai Szabadalmi Szervezet másik tagállamában megsemmisítették. A különös méltánylást érdemlő ok fennállását megalapozó vélelemre vonatkozó rendelkezés nem alkalmazható, ha a szabadalombitorlás megkezdése óta hat hónap, illetve a kérelmezőnek a bitorlásról és a bitorló személyéről való tudomásszerzése óta hatvan nap már eltelt.
+
+(2a) A szabadalombitorlás miatt indított perben vagy a perindítást megelőzően elrendelt ideiglenes intézkedést az alperes kérelmére hatályon kívül kell helyezni, ha a per alapját képező
+
+- a) szabadalmi oltalom megszűnt,
+- b) Magyarország területén hatályos európai szabadalmat megvonták, vagy
+- c) szabadalmat a Szellemi Tulajdon Nemzeti Hivatala határozatában vagy a bíróság elsőfokú ítéletében teljesen vagy a bitorlást kizáró mértékben részlegesen megsemmisítette.
 
 (3) Az ideiglenes intézkedéssel okozott hátrány és az azzal elérhető előnyök mérlegelése során figyelembe kell venni azt is, ha az intézkedés nyilvánvalóan és jelentős mértékben sérti a közérdeket, illetve harmadik személyek jogos érdekeit.
 
@@ -1831,9 +1867,18 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (12) Az ideiglenes intézkedés – ideértve az (5) és (6) bekezdés alapján elrendelhető intézkedéseket is – elrendelésének kérdésében az ellenérdekű fél meghallgatása mellőzhető, ha az ebből fakadó késedelem helyrehozhatatlan károkat okozna. Az előzetes bizonyítás elrendelésének kérdésében az ellenérdekű fél meghallgatása a Pp. 337. § (1) bekezdés b) pontja alapján mellőzhető, ha a meghallgatásból fakadó késedelem helyrehozhatatlan károkat okozna, vagy ha a bizonyítékok megsemmisítésének kockázata valószínűsíthető. Ha a bíróság az ellenérdekű fél meghallgatását mellőzi, az ideiglenes intézkedés vagy az előzetes bizonyítás elrendeléséről szóló végzést az ellenérdekű féllel a foganatosítást követően haladéktalanul közölni kell. A végzés közlését követően az ellenérdekű fél kérheti a meghallgatását és az ideiglenes intézkedést, illetve az előzetes bizonyítást elrendelő végzés megváltoztatását vagy hatályon kívül helyezését. Az ideiglenes intézkedés vagy az előzetes bizonyítás iránti kérelem elutasítása esetén a bíróság az elutasításról szóló végzéssel együtt küldi meg az ellenérdekű fél részére az ideiglenes intézkedés vagy az előzetes bizonyítás elrendelése iránti kérelmet.
 
+(12a) Ha a bíróság a per folyamán utóbb megállapítja, hogy az ideiglenes intézkedés elrendelésére okot adó kérelem megalapozatlan, a bíróság kérelemre kötelezi az ideiglenes intézkedés kezdeményezőjét az ellenérdekű félnek az ideiglenes intézkedés által okozott kárral kapcsolatos kártalanításra. A perben az ideiglenes intézkedés iránti kérelem megalapozatlansága különösen akkor állapítható meg, ha
+
+- a) a szabadalmat utólag megsemmisítik vagy a Magyarország területén hatályos európai szabadalmat megvonják,
+- b) a felperes cselekménye vagy mulasztása folytán az ideiglenes intézkedés hatályát veszti, vagy
+- c) a bíróság megállapítja, hogy nem történt szabadalombitorlás és a rendelkezésre álló bizonyítékok alapján, a bíróság megítélése szerint a szabadalombitorlással közvetlenül fenyegető cselekmény veszélye sem állt fenn.
+
 (13) A bíróság az előzetes bizonyítás és – az (5) bekezdés c) pontját és a (6) bekezdést kivéve – az ideiglenes intézkedés elrendelését az ellenérdekű fél kérelmére biztosítékadáshoz kötheti.
 
-(14) Az (5) bekezdés c) pontjában, a (6) bekezdésben és a (13) bekezdésben meghatározott biztosíték vagy ellenbiztosíték kiadására vagy visszaadására a Pp. biztosítékra vonatkozó rendelkezéseit kell alkalmazni azzal, hogy a bíróság – az ítélet mellett – az előzetes bizonyítás, illetve az ideiglenes intézkedés tárgyában hozott végzést hatályon kívül helyező vagy annak hatályvesztését megállapító végzésben is rendelkezhet a biztosíték vagy ellenbiztosíték visszaadásáról vagy kiadásáról.
+(14) Az (5) bekezdés c) pontjában, a (6) bekezdésben és a (13) bekezdésben meghatározott biztosíték vagy ellenbiztosíték kiadására vagy visszaadására a Pp. biztosítékra vonatkozó rendelkezéseit kell alkalmazni azzal, hogy
+
+- a) a bíróság – az ítélet mellett – az előzetes bizonyítás, illetve az ideiglenes intézkedés tárgyában hozott végzést hatályon kívül helyező vagy annak hatályvesztését megállapító végzésben is rendelkezhet a biztosíték vagy ellenbiztosíték visszaadásáról vagy kiadásáról, és
+- b) a (13) bekezdés szerinti biztosíték kiadásának a (12a) bekezdés szerinti kártalanítás elrendelése esetén is helye van.
 
 (15) Ha az európai szabadalom szövegének magyar nyelvű fordítását a szabadalmas nem nyújtotta be a 84/H. § alapján, és nem bocsátotta – a 84/G. § (2) bekezdésében foglaltak szerint – a feltételezett bitorló rendelkezésére annak kérésére sem, azt úgy kell tekinteni, hogy az alperes a perre okot nem adott.
 
@@ -2493,7 +2538,7 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (5) A törvény hatálybalépésekor hatályos szabadalmak nyilvántartására, fenntartására, megszűnésére és újra érvénybe helyezésére a továbbiakban e törvény rendelkezéseit kell alkalmazni azzal, hogy a szabadalom megsemmisítésének feltételeire az elsőbbség időpontjában hatályos szabályok az irányadók.
 
-(6)
+(6) E törvénynek az egyes igazságügyi tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXII. törvény által megállapított 44. § (2) bekezdés c) pontját, 80. § (6) és (7) bekezdését, 104. § (1a)–(2a), (12a) és (14) bekezdését a 2022. január 1. napján vagy azt követően indult eljárásokban kell alkalmazni.
 
 116. § E törvénynek a Magyar Köztársaság minisztériumainak felsorolásáról szóló 2010. évi XLII. törvénnyel összefüggésben szükséges törvénymódosításokról és egyes iparjogvédelmi tárgyú törvények módosításáról szóló 2010. évi CXLVIII. törvénnyel megállapított 84/G. §-át és 84/H. §-át azokra az európai szabadalmakra kell alkalmazni, amelyek esetében a megadásról szóló értesítést 2011. január 1-jét követően hirdették meg az Európai Szabadalmi Közlönyben.
 
@@ -2560,6 +2605,8 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 - a) az Európai Parlament és a Tanács 98/44/EK irányelve (1998. július 6.) a biotechnológiai találmányok jogi oltalmáról;
 - b) az Európai Parlament és a Tanács 2004/48/EK irányelve (2004. április 29.) a szellemi tulajdonjogok érvényesítéséről.
+
+(1a) E törvény 19. § (6) bekezdése az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló, 2001. november 6-i 2001/83/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 (2) Ez a törvény megállapítja a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket:
 

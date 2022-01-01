@@ -67,7 +67,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 (2) Jövedelmi és vagyoni helyzetére tekintet nélkül rászorultnak tekintendő az a fél, aki
 
 - a) aktív korúak ellátására jogosult vagy aktív korúak ellátására jogosult, a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti közeli hozzátartozójával él közös háztartásban,
-- b) közgyógyellátásban részesül vagy egészségügyi szolgáltatásra való jogosultságát állapították meg,
+- b) közgyógyellátásban részesül vagy természetben nyújtott szociális ellátásként egészségügyi szolgáltatásra való jogosultságot megállapító érvényes hatósági bizonyítvánnyal rendelkezik,
 - c) átmeneti szállást igénybe vevő hajléktalan személy,
 - d) menekült, menedékes, menekültkénti vagy menedékeskénti, illetve hontalankénti elismerését kérő, továbbá az ideiglenes vagy kiegészítő védelemben részesítését kérő személy, valamint a dublini átadás végrehajtása érdekében menekültügyi őrizetbe vett külföldi, a jövedelmi és vagyoni helyzetéről tett nyilatkozata alapján a számára biztosított ellátásra és támogatásra jogosult,
 - e) vízumkiadása, tartózkodási engedély vagy letelepedett jogállás megszerzése, illetve honosítás iránti üggyel kapcsolatban jogi segítségnyújtást kérő olyan személy, akinek a felmenője magyar állampolgár vagy az volt, továbbá a visszahonosításra irányuló eljárásban részt vevő személy,
@@ -81,10 +81,12 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 7. § (1) A rendelkezésre álló jövedelem számításánál a havi jövedelembe be kell számítani a féllel egy háztartásban élő személy jövedelmét is – kivéve, ha ellenérdekű személy a féllel fennálló jogvitában, vagy államigazgatási eljárásban –, és ezt az összeget kell elosztani a féllel egy háztartásban élő személyek számával.
 
-(2) A rendelkezésre álló jövedelem megállapításánál a közös háztartásban élők összjövedelméből le kell vonni
+(2) A rendelkezésre álló jövedelem megállapításánál a közös háztartásban élők összjövedelméből le kell vonni különösen
 
-- a) jogszabály alapján általuk fizetendő tartásdíj vagy járadék összegét, és
-- b) lakás vásárlásához, felújításához, építéséhez pénzintézet (munkáltató) által folyósított hitel havi törlesztő-részletének az általuk fizetett összegét, ha a lakás a hitel felvételekor megfelelt a méltányolható lakásigénynek a lakáscélú állami támogatásokról szóló jogszabályban meghatározott feltételeinek.
+- a) jogszabály alapján általuk fizetendő tartásdíj vagy járadék összegét,
+- b) lakás vásárlásához, felújításához, építéséhez pénzintézet (munkáltató) által folyósított hitel havi törlesztőrészletének az általuk fizetett összegét, ha a lakás a hitel felvételekor megfelelt a méltányolható lakásigénynek a lakáscélú állami támogatásokról szóló jogszabályban meghatározott feltételeinek,
+- c) az általuk életvitelszerűen lakott lakás közüzemi díjainak, lakbérének és közös költségének igazolt összegét, valamint
+- d) a létfenntartásukat veszélyeztető egyéb kiadások igazolt összegét.
 
 8. § (1) A rászorultságot akkor is meg kell állapítani, ha a fél rendelkezésre álló jövedelme a rászorultsági összeghatárt meghaladja, de a fél
 
@@ -545,7 +547,15 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 (7) A határozat véglegessé válását vagy jogerőre emelkedését követően a jogi segítségnyújtó szolgálat intézkedik a fél helyett az állam által kifizetendő (előlegezendő) pártfogó ügyvédi díj kifizetése iránt; a díj kifizetése a célelőirányzat terhére történik.
 
-62/A. § (1) A határon átnyúló tartási ügyekben a pártfogó ügyvéd az eljárási előleg megállapítása iránti kérelmét a végrehajtás elrendelését követő 60 napon belül terjesztheti elő, ezt követően pedig akkor, ha igazolja, hogy a végrehajtás elrendeléséről szóló tájékoztatást 60 napon belül vette kézhez. Ha a határon átnyúló tartási ügyben a végrehajtás elrendeléséig több pártfogó ügyvéd járt el, a korábban eljárt pártfogó ügyvéd a jogi segítségnyújtó szolgálat felhívására az eljárási előleg megállapítására irányuló kérelmét a felhívás kézhezvételétől számított 30 napos jogvesztő határidővel terjesztheti elő.
+62/A. § (1) A pártfogó ügyvéd az eljárási előleg megállapítása iránti kérelmét
+
+- a) a perben az eljárást befejező elsőfokú érdemi határozat elleni fellebbezés benyújtását,
+- b) az eljárás félbeszakadása esetén az eljárás félbeszakadását megállapító végzés jogerőre emelkedését, vagy
+- c) a határon átnyúló tartási ügyekben a végrehajtás elrendelését
+
+követő 60 napon belül terjesztheti elő, ezt követően pedig akkor, ha igazolja, hogy a fellebbezés benyújtásától, az eljárás félbeszakadását megállapító végzés jogerőre emelkedéséig vagy a végrehajtás elrendeléséről 60 napon belül szerzett tudomást. Ha a perben a fellebbezés benyújtásáig, az eljárás szünetelés folytán történő megszűnésének megállapításáig vagy a határon átnyúló tartási ügyben a végrehajtás elrendeléséig több pártfogó ügyvéd járt el, a korábban eljárt pártfogó ügyvéd a jogi segítségnyújtó szolgálat felhívására az eljárási előleg megállapítására irányuló kérelmét a felhívás kézhezvételétől számított 30 napos jogvesztő határidővel terjesztheti elő.
+
+(1a) A pártfogó ügyvéd részére az eljárás során eljárási előleg csak egyszer állapítható meg.
 
 (2) Az eljárási előleg megállapítására irányuló eljárásról a felet értesíteni nem kell.
 
@@ -630,15 +640,18 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 - b) ügyvéd, ügyvédi iroda és a tevékenységét Magyarországon állandó jelleggel végző európai közösségi jogász (a továbbiakban együtt: ügyvéd).
 - c)
 
-(2) Jogi segítő szervezet – a (3) bekezdésben foglalt kivétellel – akkor kérheti a felvételét a névjegyzékbe, ha rendelkezik az ügyfelek fogadására alkalmas helyiséggel, és ügyvéddel olyan határozott idejű megbízási szerződést kötött, amely alapján az ügyvéd – legalább a szolgáltatási szerződés időtartama alatt – a nevében és megbízásából a jogi szolgáltatást nyújtja. Ha a jogi segítségnyújtó szolgálat a jogi segítő szervezetet abból az okból törli a névjegyzékből, hogy a jogi szolgáltatást nem a vele szerződött ügyvéd útján nyújtotta, a névjegyzékből való törlést követően a jogi segítő szervezetet, annak jogutódját, illetve a törölt szervezetnek az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvényben meghatározott vezető tisztségviselőjének a közreműködésével létrejött más szervezetet további három évig nem lehet ismételten felvenni a névjegyzékbe.
+(2) Jogi segítő szervezet – a (3) bekezdésben foglalt kivétellel – akkor kérheti a felvételét a névjegyzékbe, ha rendelkezik az ügyfelek fogadására alkalmas helyiséggel, és határozott idejű, a jogi segítő szolgálat nevében és megbízásából legalább a szolgáltatási szerződés időtartama alatt nyújtott jogi szolgáltatásra irányuló megbízási szerződést kötött olyan ügyvéddel, aki maga, vagy amelynek a tagja a Magyar Ügyvédi Kamara szabályzatában meghatározott jogi segítői továbbképzést elvégezte. Ha a jogi segítségnyújtó szolgálat a jogi segítő szervezetet abból az okból törli a névjegyzékből, hogy a jogi szolgáltatást nem a vele szerződött ügyvéd útján nyújtotta, a névjegyzékből való törlést követően a jogi segítő szervezetet, annak jogutódját, illetve a törölt szervezetnek az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvényben meghatározott vezető tisztségviselőjének a közreműködésével létrejött más szervezetet további három évig nem lehet ismételten felvenni a névjegyzékbe.
 
 (3) Jogi oktatást végző egyetem (a továbbiakban: egyetem) akkor is kérheti felvételét a névjegyzékbe, ha nincs ügyvéd megbízottja, de jogi szakvizsgával vagy állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktatója által vezetett, ügyfelek fogadására alkalmas helyiséggel rendelkező szervezeti egysége folytat jogvédő tevékenységet.
 
-(4) Az ügyvéd akkor kérheti a felvételét a névjegyzékbe, ha
+(4) Az ügyvéd – a (4a) bekezdésben foglalt kivétellel – akkor kérheti a felvételét a névjegyzékbe, ha
 
 - a) tevékenységét nem szünetelteti,
-- b) fegyelmi eljárás során tevékenységének gyakorlását nem függesztették fel, és
-- c) nem áll fegyelmi büntetés hatálya alatt.
+- b) ügyvédi tevékenységének gyakorlását nem függesztették fel,
+- c) nem áll fegyelmi büntetés hatálya alatt és
+- d) a Magyar Ügyvédi Kamara szabályzatában meghatározott jogi segítői továbbképzést elvégezte, vagy vállalja, hogy a névjegyzékbe történő felvételét követő egy éven belül elvégzi.
+
+(4a) Az ügyvédi iroda akkor kérheti felvételét a névjegyzékbe, ha van a (4) bekezdés szerinti feltételeknek megfelelő tagja.
 
 (5) A jogi segítő a pénzforgalmi számlaszámát, valamint adószámát a szolgáltatási szerződés megkötése előtt köteles bejelenteni.
 
@@ -699,15 +712,16 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 ### Törlés a névjegyzékből
 
-71. § (1) A jogi segítségnyújtó szolgálat a jogi segítőt törli a névjegyzékből, ha a névjegyzékbe vételtől számított kilencven napon belül szolgáltatási szerződés megkötésére nem kerül sor vagy a szolgáltatási szerződés megszűnt. A szolgáltatási szerződés megszűnésére a Polgári Törvénykönyv rendelkezései az e törvényben foglalt eltérésekkel megfelelően irányadóak, a (2) és (3) bekezdésben foglaltakon kívül a szerződés megszüntetésének és felbontásának nincs helye.
+71. § (1) A jogi segítségnyújtó szolgálat a jogi segítőt törli a névjegyzékből, ha a névjegyzékbe vételtől számított kilencven napon belül szolgáltatási szerződés megkötésére nem kerül sor vagy a szolgáltatási szerződés megszűnt. A szolgáltatási szerződés megszűnésére, illetve megszüntetésére e törvény és a Polgári Törvénykönyv rendelkezései alapján kerülhet sor.
 
-(2) A szerződést a jogi segítségnyújtó szolgálat felmondja, ha a jogi segítői névjegyzékbe történő bejegyzés feltételei megszűntek vagy megállapítja, hogy azok már a felvételkor sem álltak fenn.
+(2) A szerződést a jogi segítségnyújtó szolgálat felmondja, ha a jogi segítői névjegyzékbe történő bejegyzés feltételei megszűntek vagy megállapítja, hogy azok már a felvételkor sem álltak fenn. A szerződést a jogi segítségnyújtó szolgálat akkor is felmondja, ha az ügyvéd a Magyar Ügyvédi Kamara szabályzatában meghatározott jogi segítői továbbképzés általa vagy tagja által történő elvégzését a 66. § (4) bekezdés d) pontja szerinti vállalása ellenére az egyéves határidő leteltét követő 15 napon belül nem igazolja.
 
 (3) A szerződést a jogi segítségnyújtó szolgálat felmondhatja, ha
 
 - a) a jogi szolgáltatás nyújtásával kapcsolatban a jogi segítő – vagy más ügyvéd megbízottal nem rendelkező jogi segítő szervezet esetében a nevében eljáró ügyvéd – fegyelmi vagy kártérítési kötelezettségét megállapították,
-- b) a jogi segítő a jogi szolgáltatást a 70. § (1) bekezdés b) pontja alapján legalább három alkalommal alaptalanul megtagadta, vagy
-- c) a jogi segítségnyújtó szolgálat hivatalos tudomást szerez arról, hogy a jogi segítő szervezet a jogi szolgáltatást nem a 66. § (2) bekezdése szerint vele szerződött ügyvéd útján nyújtja.
+- b) a jogi segítő a jogi szolgáltatást a 70. § (1) bekezdés b) pontja alapján legalább három alkalommal alaptalanul megtagadta,
+- c) a jogi segítségnyújtó szolgálat hivatalos tudomást szerez arról, hogy a jogi segítő szervezet a jogi szolgáltatást nem a 66. § (2) bekezdése szerint vele szerződött ügyvéd útján nyújtja, vagy
+- d) a jogi segítő tevékenységének gyakorlása jogszabály megkerülésére vagy jogszabályba ütköző célra irányul, vagy ilyen jogügyletben működik közre.
 
 (4) A jogi segítő a szerződést akkor mondhatja fel, ha a névjegyzékbe történő felvétel feltételei megszűntek, vagy ha a jogi segítői névjegyzékbe felvett ügyvéd igazolja, hogy a szolgáltatási szerződésből eredő kötelezettségek teljesítése egyéb ügyvédi tevékenységének végzését lehetetlenné teszi. A jogi segítő a szerződés felmondását tartalmazó nyilatkozatát elektronikus kapcsolattartás útján nyújtja be a jogi segítségnyújtó szolgálatnak. Az elektronikus úton való kapcsolattartásra az E-ügyintézési törvény rendelkezéseit kell alkalmazni.
 
@@ -748,6 +762,8 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 (6) E törvény 71. § (3) bekezdés c) pontja alapján a jogi segítségnyújtó szolgálat a szerződést akkor mondhatja fel, ha a jogi segítő szervezet a jogi szolgáltatást a jogi segítségnyújtásról szóló 2003. évi LXXX. törvény, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosításáról szóló 2013. évi XV. törvény hatálybalépését követően nem az e törvény 66. § (2) bekezdése szerint vele szerződött ügyvéd útján nyújtja.
 
 (7) E törvénynek a polgári perrendtartásról szóló 2016. évi CXXX. törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi CXXX. törvénnyel megállapított rendelkezéseit a 2018. január 1-jén és az azt követően indult perek alapján indult eljárásokban kell alkalmazni.
+
+(8) E törvénynek az egyes igazságügyi tárgyú és kapcsolódó törvények módosításáról szóló 2021. évi CXXII. törvénnyel megállapított 66. § (2) bekezdését a 2023. január 1-jét követően kötött szolgáltatási szerződésekre kell alkalmazni.
 
 ### Felhatalmazás
 

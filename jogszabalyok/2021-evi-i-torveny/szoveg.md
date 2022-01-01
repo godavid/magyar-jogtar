@@ -97,9 +97,9 @@ a 2021. február 7-én hatályos szöveggel, a Rendeletben foglalt eltérésekke
 
 (4) Ha a kitűzött választás elmaradását a Tv. 4. § (4) bekezdése alapján szünetelésnek kellett tekinteni, a kitűzött választás szünetelése fennmarad azzal, hogy a nyilvántartásba vétel hatálya a veszélyhelyzet megszűnését követően kitűzött választásra is kiterjed, további jelölt- és listaállítás nem lehetséges. Ebben az esetben az elmaradt választást legkésőbb a veszélyhelyzet megszűnését követő negyvenötödik napra lehet kitűzni.
 
-(5) A veszélyhelyzet megszűnését követő napig országos és helyi népszavazás nem kezdeményezhető, a már kitűzött országos és helyi népszavazások elmaradnak.
+(5) A veszélyhelyzet megszűnését követő napig helyi népszavazás nem kezdeményezhető, a már kitűzött helyi népszavazások elmaradnak.
 
-(6) A népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló 2013. évi CCXXXVIII. törvény (a továbbiakban: Nsztv.) II–III. Fejezetében meghatározott valamennyi határidő megszakad. A határidők a veszélyhelyzet megszűnését követő napon újrakezdődnek. A ki nem tűzött és az elmaradt országos és helyi népszavazást a veszélyhelyzet megszűnését követő tizenöt napon belül ki kell tűzni.
+(6) A népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló 2013. évi CCXXXVIII. törvény (a továbbiakban: Nsztv.) III. Fejezetében meghatározott valamennyi határidő megszakad. A határidők a veszélyhelyzet megszűnését követő napon újrakezdődnek. A ki nem tűzött és az elmaradt helyi népszavazást a veszélyhelyzet megszűnését követő tizenöt napon belül ki kell tűzni.
 
 (7) Ha a helyi népszavazás kezdeményezése érdekében folytatott aláírásgyűjtésre vonatkozó határidő a Tv. 4. § (6) bekezdése alapján szünetelt, az aláírásgyűjtésre vonatkozó határidő a Rendelet2. hatálybalépésétől a veszélyhelyzet megszűnését követő napig szünetel.
 
@@ -109,7 +109,7 @@ a 2021. február 7-én hatályos szöveggel, a Rendeletben foglalt eltérésekke
 
 5. § Ez a törvény a kihirdetése napján 23 órakor lép hatályba.
 
-5/A. § Ez a törvény 2022. január 1-jén hatályát veszti.
+5/A. § Ez a törvény 2022. június 1-jén hatályát veszti.
 
 6. § E törvény
 

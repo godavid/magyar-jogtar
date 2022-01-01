@@ -209,7 +209,7 @@ használnak fel;
 - 3. bérfőzető: az a 18. életévét betöltött gyümölcstermesztő személy, aki a tulajdonában álló gyümölcsből (gyümölcsből származó alapanyagból) állíttat elő bérfőzött párlatot;
 - 4. bérfőzött párlat: adóraktárban a bérfőzető alapanyagából a bérfőzető részére előállított párlat;
 - 5. borászati melléktermék: a szőlőfeldolgozás és a borkészítés során keletkező melléktermék;
-- 6. borkísérő okmány: az agrárpolitikáért felelős miniszter rendeletében megállapított tartalmú, formanyomtatványként vagy számítógéppel előállított bizonylat;
+- 6. borkísérő okmány: a szőlészetről és borászatról szóló törvény (a továbbiakban: Btv.) végrehajtására kiadott jogszabályban megállapított tartalmú, formanyomtatványként vagy számítógéppel előállított bizonylat;
 - 7. borpiaci év: augusztus 1-jétől július 31-ig terjedő időszak;
 - 8. csendes bor: – a habzóbor és az egyéb habzó erjesztett ital kivételével – a 2204 10 11-2205 90 90 KN-kód szerinti olyan termék, amelynek
   - a) tényleges alkoholtartalma 1,2 térfogatszázaléknál több, de legfeljebb 15 térfogatszázalék, feltéve, hogy a végtermékben található alkohol teljes mértékben erjedésből származik,
@@ -407,7 +407,7 @@ terheli.
 (4) Belföldön az állami adó- és vámhatóság
 
 - a) a benyújtott bizonyítékok alapján bírálja el, hogy milyen mennyiség minősül a 3. § (1) bekezdés 45. pont a) alpontja szerint teljesen megsemmisültnek vagy helyrehozhatatlanul károsodottnak,
-- b) legfeljebb a végrehajtási rendeletben, csendes és habzóbor esetében az agrárpolitikáért felelős miniszter rendeletében meghatározott mértéket ismeri el a 3. § (1) bekezdés 45. pont b) alpontja szerinti hiányként.
+- b) legfeljebb a végrehajtási rendeletben, csendes és habzóbor esetében a Btv. végrehajtására kiadott jogszabályban meghatározott mértéket ismeri el a 3. § (1) bekezdés 45. pont b) alpontja szerinti hiányként.
 
 (4a) Az állami adó- és vámhatóság kérelemre és hivatalból előírhatja a (4) bekezdés b) pontjában meghatározottól eltérő elismert mennyiségű hiány alkalmazását, ha azt a tevékenység jellege vagy a műszaki-technológiai feltételek indokolják, a helyszíni mérés adatai, az állami adó- és vámhatóság által szükségesnek tartott esetben az állami adó- és vámhatóság jelenlétében elvégzett próbagyártás, valamint szükség esetén szakértői vélemény alátámasztja.
 
@@ -1467,7 +1467,7 @@ követően bocsátja a bérfőzető rendelkezésre.
 - a) a dohánygyártmányt az adóraktár engedélyese újrafeldolgozza, megsemmisíti vagy megsemmisítteti, a bejegyzett kereskedő és az importáló megsemmisítteti,
 - b) a cigarettán kívüli dohánygyártmányok esetében az adóraktár engedélyese ismételt szabadforgalomba bocsátási céllal a zárjegyet eltávolítja.
 
-(4) A (3) bekezdés szerinti adó-visszaigénylés esetén a cigaretta, szivar, szivarka, fogyasztási dohány kiskereskedelmi eladási áraként a zárjegy-adatszolgáltatás 78. § (2) bekezdés a) és b) pontja szerinti tárgynapja és az adó-visszaigénylés állami adó- és vámhatósághoz történő benyújtásának napja közötti időszakban az adott dohánygyártmányra vonatkozóan az állami adó- és vámhatóság által a 145. § (5) bekezdése szerint közzétett legalacsonyabb kiskereskedelmi eladási ár vehető figyelembe.
+(4) A (3) bekezdés szerinti adó-visszaigénylés esetén dohánygyártmány kiskereskedelmi eladási áraként a zárjegy-adatszolgáltatás 78. § (2) bekezdés a) és b) pontja szerinti tárgynapja és az adó-visszaigénylés állami adó- és vámhatósághoz történő benyújtásának napja közötti időszakban az adott dohánygyártmányra vonatkozóan a Szabályozott Tevékenységek Felügyeleti Hatósága által a 145. § (5) bekezdése szerint közzétett legalacsonyabb kiskereskedelmi eladási ár vehető figyelembe.
 
 (5) A 9. § (1) bekezdés a) pontja szerinti termékértékesítést végző adóraktár engedélyese az adózottan beszerzett és végső úti céllal harmadik országba utazó utas részére értékesített dohánygyártmány után a jövedéki adót visszaigényelheti és mentesül az (1) bekezdésben meghatározott kötelezettségek alól. Az adó-visszaigénylés esetén kiskereskedelmi eladási árként az adó-visszaigénylés állami adó- és vámhatósághoz történő benyújtását megelőző hat hónapban az adott dohánygyártmányra vonatkozóan – a 145. § (5) bekezdése szerint – közzétett legalacsonyabb kiskereskedelmi eladási ár vehető figyelembe.
 
@@ -2216,9 +2216,9 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 
 (7) Az egyszerűsített adóraktári engedélyesre nem alkalmazandó a 17. § (1) bekezdés a) pontja szerinti rendelkezés.
 
-135. § A csendes bor, az egyszerűsített adóraktárban előállítható palackos erjesztésű habzóbor és a 129. § (2) bekezdés a) pontja szerinti adómértékkel adózó egyéb csendes erjesztett ital egyszerűsített adóraktárból induló belföldi szállításakor az 54. § (1) bekezdésétől és a 64. §-tól eltérően borkísérő okmány alkalmazandó vagy a szállítmány az agrárpolitikáért felelős miniszter rendeletében meghatározott esetben mentesül a borkísérő okmány alkalmazása alól.
+135. § A csendes bor, az egyszerűsített adóraktárban előállítható palackos erjesztésű habzóbor és a 129. § (2) bekezdés a) pontja szerinti adómértékkel adózó egyéb csendes erjesztett ital egyszerűsített adóraktárból induló belföldi szállításakor az 54. § (1) bekezdésétől és a 64. §-tól eltérően borkísérő okmány alkalmazandó vagy a szállítmány a Btv. végrehajtására kiadott jogszabályban meghatározott esetben mentesül a borkísérő okmány alkalmazása alól.
 
-136. § (1) Az egyszerűsített adóraktár a 23. §-tól eltérően az agrárpolitikáért felelős miniszter rendeletében meghatározott tartalmú nyilvántartást vezet, amelyben a csendes bort és a 134. § (3) bekezdés szerinti terméket 60 liternél nagyobb névleges térfogatú tárolóeszközben elhelyezett, valamint az ennél kisebb tárolóeszközben elhelyezett termékeket kiszerelésenkénti bontásban, az adó alapjaként meghatározott mennyiségi egységben kimutatva szerepelteti.
+136. § (1) Az egyszerűsített adóraktár a 23. §-tól eltérően a Btv. végrehajtására kiadott jogszabályban meghatározott tartalmú nyilvántartást vezet, amelyben a csendes bort és a 134. § (3) bekezdés szerinti terméket 60 liternél nagyobb névleges térfogatú tárolóeszközben elhelyezett, valamint az ennél kisebb tárolóeszközben elhelyezett termékeket kiszerelésenkénti bontásban, az adó alapjaként meghatározott mennyiségi egységben kimutatva szerepelteti.
 
 (2) Az egyszerűsített adóraktár engedélyese a vásárolt és a saját termésű szőlő, az átvett, előállított (kiszerelt), tárolt és feladott csendes bor, valamint a 134. § (3) bekezdés szerinti termék mennyiségéről – elkülönítve a bérmunkára átvett, bérmunkában tárolt mennyiséget –, a készletváltozásokról és a borpiaci év tényleges zárókészletéről az (1) bekezdés szerinti nyilvántartás adatai alapján borpiaci évenként termékenkénti mennyiségi elszámolást készít, amelyet a borpiaci évet követő szeptember 10-ig nyújt be a hegybíróhoz. A hegybíró a hozzá benyújtott elszámolást 21 napon belül teszi hozzáférhetővé az állami adó- és vámhatóság számára.
 
@@ -2230,9 +2230,9 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 
 #### 91. Kisüzemi bortermelő
 
-137. § (1) A csendes bor és a kisüzemi bortermelőnél előállítható és tárolható palackos erjesztésű habzóbor kisüzemi bortermelőtől indított belföldi szállításakor az 54. § (1) bekezdésétől eltérően borkísérő okmány alkalmazandó vagy a szállítmány az agrárpolitikáért felelős miniszter rendeletében meghatározott esetben mentesül a borkísérő okmány alkalmazása alól.
+137. § (1) A csendes bor és a kisüzemi bortermelőnél előállítható és tárolható palackos erjesztésű habzóbor kisüzemi bortermelőtől indított belföldi szállításakor az 54. § (1) bekezdésétől eltérően borkísérő okmány alkalmazandó vagy a szállítmány a Btv. végrehajtására kiadott jogszabályban meghatározott esetben mentesül a borkísérő okmány alkalmazása alól.
 
-(2) A kisüzemi bortermelő az agrárpolitikáért felelős miniszter rendeletében meghatározott tartalmú nyilvántartást vezet, amelyben a csendes bort 60 liternél nagyobb névleges térfogatú tárolóeszközben elhelyezett, valamint az ennél kisebb tárolóeszközben elhelyezett csendes bort és a palackos erjesztésű habzóbort kiszerelésenkénti bontásban, az adó alapjaként meghatározott mennyiségi egységben kimutatva szerepelteti.
+(2) A kisüzemi bortermelő a Btv. végrehajtására kiadott jogszabályban meghatározott tartalmú nyilvántartást vezet, amelyben a csendes bort 60 liternél nagyobb névleges térfogatú tárolóeszközben elhelyezett, valamint az ennél kisebb tárolóeszközben elhelyezett csendes bort és a palackos erjesztésű habzóbort kiszerelésenkénti bontásban, az adó alapjaként meghatározott mennyiségi egységben kimutatva szerepelteti.
 
 (3) A kisüzemi bortermelő a vásárolt és a saját termésű szőlő, az előállított (kiszerelt), tárolt és feladott csendes bor, valamint palackos erjesztésű habzóbor mennyiségéről, készletváltozásokról és a borpiaci év tényleges zárókészletéről a (2) bekezdés szerinti nyilvántartás adatai alapján borpiaci évenként termékenkénti mennyiségi elszámolást készít, amelyet a borpiaci évet követő szeptember 10-ig nyújt be a hegybíróhoz. A hegybíró a hozzá benyújtott elszámolást 21 napon belül teszi hozzáférhetővé az állami adó- és vámhatóság számára. Az elektronikus adóbevallásra kötelezett kisüzemi bortermelő mennyiségi elszámolását is elektronikusan nyújtja be.
 
@@ -2381,16 +2381,16 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 
 (2) A jövedéki adó megállapítása szempontjából a cigaretta tételes adójának alapját kétszerezni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 8 centimétert, de nem hosszabb, mint 11 centiméter, háromszorozni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 11 centimétert, de nem hosszabb, mint 14 centiméter; az előzőek szerinti mérettartomány minden további 3 centiméterenkénti növekedése esetén a tételes adó alapjának szorzószámát eggyel növelni kell.
 
-(3) Az általános forgalmi adó alapja – figyelemmel a (4) bekezdésre – az állami adó- és vámhatóság honlapján közzétett, az adót tartalmazó kiskereskedelmi eladási ár. Az általános forgalmi adó mértéke az áfatörvény általános adó mértékének megfelelő azon százalékérték, amelyet akkor kell alkalmazni, amikor az adott pénzösszeget úgy kell tekinteni, mint amely fizetendő általános forgalmi adót is tartalmaz.
+(3) Az általános forgalmi adó alapja – figyelemmel a (4) bekezdésre – a Szabályozott Tevékenységek Felügyeleti Hatósága honlapján közzétett, az adót tartalmazó kiskereskedelmi eladási ár. Az általános forgalmi adó mértéke az áfatörvény általános adó mértékének megfelelő azon százalékérték, amelyet akkor kell alkalmazni, amikor az adott pénzösszeget úgy kell tekinteni, mint amely fizetendő általános forgalmi adót is tartalmaz.
 
 (4) A zárjegy nélküli dohánygyártmány esetében – kivéve a 9. § (1) bekezdés a) és b) pontja szerinti terméket –, ha ugyanazon termékválasztékot
 
-- a) belföldön is forgalmazzák, az állami adó- és vámhatóság honlapján közzétett, az adót tartalmazó árat,
-- b) belföldön nem forgalmazzák, az állami adó- és vámhatóság honlapján közzétett az adott dohánygyártmány típusra és kiszerelési mennyiségre vonatkozó legmagasabb, adót tartalmazó kiskereskedelmi árat
+- a) belföldön is forgalmazzák, a Szabályozott Tevékenységek Felügyeleti Hatósága honlapján közzétett, az adót tartalmazó árat,
+- b) belföldön nem forgalmazzák, a Szabályozott Tevékenységek Felügyeleti Hatósága honlapján közzétett, az adott dohánygyártmány típusra és kiszerelési mennyiségre vonatkozó legmagasabb, adót tartalmazó kiskereskedelmi árat
 
 kell kiskereskedelmi eladási árnak tekinteni.
 
-(5) A dohánygyártmány a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvényben (a továbbiakban: Fdvtv.) meghatározott dohánytermék-kiskereskedelem, továbbá az Fdvtv. 1. § (3) bekezdésében meghatározott kiskereskedelmi értékesítés keretében csak az állami adó- és vámhatóság honlapján közzétett áron értékesíthető, kivéve a 67. § (3) bekezdése szerinti visszavásárlás esetét.
+(5) A dohánygyártmány a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvényben (a továbbiakban: Fdvtv.) meghatározott dohánytermék-kiskereskedelem, továbbá az Fdvtv. 1. § (3) bekezdésében meghatározott kiskereskedelmi értékesítés keretében csak a Szabályozott Tevékenységek Felügyeleti Hatósága honlapján közzétett áron értékesíthető, kivéve a 67. § (3) bekezdése szerinti visszavásárlás esetét.
 
 146. § Az állami adó- és vámhatóság a magánszemély által harmadik országból behozott, az utasok személyi poggyászában importált termékek általános forgalmi adó és jövedéki adó mentességéről szóló törvény szerinti adómentes mennyiséget meghaladó mennyiségű, és a 17. életévét be nem töltött személy esetében a harmadik országból behozott dohánygyártmány fogyasztói csomagolását a vámjogi szabadforgalomba bocsátáskor az adó megfizetését igazoló jellel látja el.
 

@@ -94,7 +94,7 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 7. § Az Országgyűlés e törvény hatálybalépésével egyidejűleg lemond az államnak az OMSZI-val szemben, az OMSZI jogcím nélküli használatában álló, a 3. melléklet 7–10. pontjában megjelölt állami vagyonra vonatkozó, a tulajdonosi joggyakorló által kezelt nettó 817.651.380 forint összegű használati díj követeléséről azzal, hogy az OMSZI vállalja, hogy a jogcím nélküli használat időtartama alatt az állami ingatlanokon saját forrásból megvalósított beruházás, valamint egyéb felmerült költségek tekintetében megtérítést nem érvényesít az állammal szemben.
 
-#### 5/A. A Dunamelléki Református Egyházkerület részére történő vagyonjuttatás
+5/A. A Dunamelléki Református Egyházkerület részére történő vagyonjuttatás
 
 7/A. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az állami tulajdonban lévő, az ingatlan-nyilvántartás szerint Budapest XII. kerület belterület 6886/2 helyrajzi számú, természetben az 1122 Budapest, XII. kerület Bíró utca 3. szám alatt található ingatlan ingyenesen – köznevelési feladatok ellátása érdekében – a Dunamelléki Református Egyházkerület (a továbbiakban: Egyházkerület) tulajdonába kerül.
 
@@ -124,7 +124,7 @@ Annak érdekében, hogy a 2020–2021. évi koronavírus-járvány során hozott
 
 (7) Az (1) bekezdés alapján történő vagyonjuttatást úgy kell tekinteni, hogy az az Áfa. tv. 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
 
-5/B. A Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat részére történő vagyonjuttatás
+#### 5/B. A Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat részére történő vagyonjuttatás
 
 7/C. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az állami tulajdonban lévő, az ingatlan-nyilvántartás szerint Budapest XII. kerület, belterület 9328 helyrajzi számon nyilvántartott, természetben a Budapest XII. kerület, Művész út 7. szám alatt található ingatlan a Budapest Főváros XII. Kerület Hegyvidéki Önkormányzat tulajdonába kerül óvodai ellátás, valamint szociális és gyermekjóléti szolgáltatások és ellátások biztosításának elősegítése céljából.
 
@@ -346,7 +346,21 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 46. §
 
-47. §
+47. § (1) Az Ebtv. 34. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
+
+(Az egészségügyi szolgáltatások finanszírozása)
+
+„g) a minőségi mutatók figyelembevételén,”
+
+(alapuló rendszerben történik.)
+
+(2) Az Ebtv. 34. § (1) bekezdése a következő h) ponttal egészül ki:
+
+(Az egészségügyi szolgáltatások finanszírozása)
+
+„h) az a)–g) pontban foglaltak kombinációján”
+
+(alapuló rendszerben történik.)
 
 48. §
 

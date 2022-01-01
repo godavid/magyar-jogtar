@@ -184,22 +184,7 @@ az összege.
 
 (2) Szakmai vizsga felnőttképzés keretében történő megszervezésére a 27. §-t kell alkalmazni.
 
-30. § (1) Költségvetési támogatás nyújtható az olyan képzések felnőttképzési tevékenység keretében történő megszervezéséhez és megvalósításához, valamint az azokban való részvételhez, amelyek a munkavállalók és az álláskeresők számára új kompetenciák megszerzését biztosítják, munkaerő-piaci szempontból azok megszervezéséhez és megvalósításához kiemelt közérdek fűződik, és hosszú távon hozzájárulnak Magyarország gazdasági növekedéséhez.
-
-(2) Az (1) bekezdésben meghatározott célnak megfelelő tanulási eredmények meghatározását és az azok megszerzéséhez szükséges tudás átadásához szükséges képzések megszervezésének és megvalósításának követelményeit a felnőttképzésért felelős miniszter határozza meg.
-
-(3) A költségvetési támogatást a (2) bekezdés szerinti követelményeknek megfelelő felnőttképző által megszervezett és megvalósított képzésben részt vevő személy képzési díjának és a képzéssel összefüggő költségek finanszírozására lehet felhasználni.
-
-(4) Az e § szerinti képzés és az ahhoz előfeltételként kapcsolódó más képzés a felnőttképzésről szóló 2013. évi LXXVII. törvénynek (a továbbiakban: 2013. évi LXXVII. törvény) a szakképzésről szóló 2019. évi LXXX. törvény hatálybalépésével összefüggő módosító és hatályon kívül helyező rendelkezésekről szóló 2019. évi CXII. törvénnyel megállapított rendelkezései szerinti felnőttképzési tevékenység keretében szervezhető és valósítható meg a következő feltételek szerint:
-
-- a) a felnőttképzési tevékenység bejelentés és engedély nélkül folytatható azzal, hogy a felnőttképzési államigazgatási szerv a felnőttképzőt a veszélyhelyzet megszűnését követő hatvanadik napig a 2013. évi LXXVII. törvényben meghatározott eljárásban veszi a felnőttképzők nyilvántartásába,
-- b) a képzési program felnőttképzési szakértő általi előzetes minősítése helyett a (2) bekezdés szerinti követelmények vizsgálata keretében kell megállapítani azt, hogy a képzési program megfelel a jogszabályoknak és az abban meghatározott tartalommal, feltételekkel és módon megszerezhetők a képzési programban megjelölt kompetenciák,
-- c) a felnőttképző a 2013. évi LXXVII. törvény 15. §-a szerinti adatszolgáltatási kötelezettségének a veszélyhelyzet megszűnését követő kilencven napon belül tesz eleget,
-- d) a felnőttképzőnek vagyoni biztosítékkal és minőségirányítási rendszerrel a veszélyhelyzet megszűnését követő százhuszadik napig nem kell rendelkeznie.
-
-(5) Az e § szerinti képzés és az ahhoz előfeltételként kapcsolódó más képzés keretében történő szolgáltatásnyújtás és az ahhoz szorosan kapcsolódó termékértékesítés az általános forgalmi adóról szóló 2007. évi CXXVII. törvény szerinti egyéb oktatás és képzésnek minősül és mentes az általános forgalmi adó alól.
-
-(6) Ha a költségvetési támogatás feltétele, hogy a képzésben részt vevő személy a felnőttképző által egy vállalkozás részére foglalkoztatási céllal kiközvetítésre kerüljön, a felnőttképző részére kifizetett képzési díj a képzésben részt vevő személyt foglalkoztató vállalkozás részére nyújtott, az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatásnak minősül, és a 2014–2020 programozási időszakra rendelt források felhasználására vonatkozó uniós versenyjogi értelemben vett állami támogatási szabályokról szóló 255/2014. (X. 10.) Korm. rendelet 41/A. alcíme vagy 46. alcíme szerint nyújtható.
+#### 30. §
 
 #### 11. Bérleti szerződésekre vonatkozó átmeneti szabályok
 
@@ -1142,9 +1127,9 @@ akkor is, ha a jogi személy létesítő okirata e lehetőségekről és annak f
 
 (2) Ezen alcím rendelkezéseit az e törvény hatálybalépésének napján folyamatban lévő eljárásokban is alkalmazni kell.
 
-146. § Ha a jogi képviselő nélkül eljáró fél által előterjesztett keresetlevél nem tartalmazza a kötelező tartalmi elemeket vagy alaki kellékeket, a bíróságnak a hiánypótlásra felhívó végzésben a keresetlevél valamennyi hiányosságát fel kell tüntetnie, és a bíróságnak részletes, a fél jogban való járatlanságához igazodó teljes körű tájékoztatást kell adnia a hiányok pótlására vonatkozóan. Ennek eredménytelensége esetén van csak helye visszautasításnak.
+#### 146. §
 
-147. § Ha a veszélyhelyzet ideje alatt hatályos rendelkezések előírásai szerint az eljárásban hirdetményi kézbesítésnek lett volna helye, és ezért a bíróság az eljárás félbeszakadását állapította meg – és a hirdetményi kézbesítés oka korábban nem szűnt meg – a veszélyhelyzet megszűnésekor a félbeszakadás megszűnik, a bíróság az eljárást hivatalból folytatja.
+#### 147. §
 
 148. § (1) Ha járványügyi intézkedések indokolják, a tárgyalás elektronikus hírközlő hálózat vagy más elektronikus kép és hang továbbítására alkalmas eszköz útján is megtartható.
 
@@ -1156,17 +1141,7 @@ akkor is, ha a jogi személy létesítő okirata e lehetőségekről és annak f
 
 (3) A személyi szabadságot korlátozó intézkedésekkel összefüggő eljárási cselekményeket – ha nincs más módja – a járványügyi intézkedés hatálya alatt álló helyen is foganatosítani kell.
 
-150. § (1) A 2020. június 1-jén vagy azt követően előterjesztett keresetlevél alapján indult eljárásokban tárgyaláson kell eljárni, ha azt a fél vagy az érdekelt jogszabályi rendelkezés alapján kéri.
-
-(2) Ha a 2020. március 31. napja és 2020. június 1. napja közötti időszakban a bíróság értesítette a feleket a tárgyaláson kívüli elbírálásról, a továbbiakban is tárgyaláson kívül jár el. Az eljárást tárgyaláson kell folytatni, ha a fél vagy az érdekelt a veszélyhelyzet megszűnését követő naptól számított 15 napon belül tárgyalás tartása iránti kérelmet terjeszt elő.
-
-(3) Ha a 2020. március 31. napja és 2020. június 1. napja közötti időszakban hatályos rendelkezések szerint a felperes tárgyaláson kívüli elbírálás helyett a tárgyalásnak a veszélyhelyzet megszűnését követő időpontra halasztását kérte, a bíróság a tárgyalás kitűzése iránt a veszélyhelyzet megszűnését követő naptól számított 15 napon belül intézkedik.
-
-(4) Ha a 2020. március 31. napja és 2020. június 1. napja közötti időszakban hatályos rendelkezések előírásai szerint a személyes közreműködést igénylő eljárási cselekmény miatt az eljárás megakadt, a bíróság a tárgyalás kitűzése vagy az eljárási cselekmény lefolytatása iránt 2020. június 1. napját követő naptól számított 15 napon belül intézkedik.
-
-(5) Ha a 2020. március 31. napja és 2020. június 1. napja közötti időszakban a bíróság írásban figyelmeztette a feleket a tárgyalás berekesztésére, és a felek a bíróság felhívására a nyilatkozataikat megtették, vagy a megadott határidő alatt nyilatkozatot nem tettek, a bíróság az ítéletet tárgyaláson kívül hozza meg.
-
-(6) Ha a 2020. március 31. napja és 2020. június 1. napja közötti időszakban hatályos rendelkezések szerint a bíróság a feleket már megnyilatkoztatta az egyezség kérdésében, a perbeli egyezséget végzésével tárgyaláson kívül is jóváhagyhatja. Az egyezséget jóváhagyó végzést a felekkel kézbesítés útján kell közölni. Az ilyen módon meghozott jóváhagyó végzés elleni fellebbezésnek az egyezség végrehajtására halasztó hatálya van.
+#### 150. §
 
 #### 59. A közjegyzői nemperes eljárásokra vonatkozó rendelkezések eltérő alkalmazása
 
@@ -1458,7 +1433,7 @@ szerinti szabálysértések miatt indított eljárásokat a szabálysértésekr�
 
 #### 76. A büntetőeljárásról szóló 2017. évi XC. törvény rendelkezéseinek alkalmazására vonatkozó átmeneti szabályok
 
-188. § A büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) rendelkezéseit 2021. június 30. napjáig az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
+188. § A büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) rendelkezéseit a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnéséig az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
 
 189. § Ezen alcím alkalmazásában járványügyi intézkedés: az egészségügyről szóló 1997. évi CLIV. törvény III. Fejezet 6. címében szereplő járványügyi elkülönítés, járványügyi megfigyelés és járványügyi zárlat, hatósági házi karantén, járványügyi ellenőrzés vagy egyéb járványügyi intézkedés, valamint az egészségügyi válsághelyzet során a Kormány által elrendelt olyan intézkedés, amely a személyes megjelenést akadályozza.
 
@@ -1683,7 +1658,7 @@ kapcsolatban, akkor az eljárási cselekmény nem folytatható.
 
 #### 77. A távoltartás egészségügyi válsághelyzet idején alkalmazandó eltérő szabályai
 
-220. § (1) A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény (a továbbiakban: 2009. évi LXXII. törvény), valamint a Be. távoltartásra és bűnügyi felügyeletre vonatkozó rendelkezéseit 2021. június 30. napjáig az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
+220. § (1) A hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény (a továbbiakban: 2009. évi LXXII. törvény), valamint a Be. távoltartásra és bűnügyi felügyeletre vonatkozó rendelkezéseit a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnéséig az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
 
 (2) Ezen alcím alkalmazásában járványügyi intézkedés: az egészségügyről szóló 1997. évi CLIV. törvény III. Fejezet 6. címében szereplő járványügyi elkülönítés, járványügyi megfigyelés és járványügyi zárlat, hatósági házi karantén, járványügyi ellenőrzés vagy egyéb járványügyi intézkedés, valamint az egészségügyi válsághelyzet során a Kormány által elrendelt olyan intézkedés, amely a személyes megjelenést akadályozza.
 
@@ -1735,7 +1710,7 @@ járványügyi intézkedéssel érintettségét.
 
 #### 78. A büntető és szabálysértési ügyekben alkalmazható közvetítői tevékenység eltérő szabályai
 
-225. § (1) A büntető ügyekben alkalmazható közvetítői tevékenységről szóló 2006. évi CXXIII. törvény (a továbbiakban: Bktv.) rendelkezéseit 2021. június 30. napjáig az e törvényben foglalt eltérésekkel kell alkalmazni.
+225. § (1) A büntető ügyekben alkalmazható közvetítői tevékenységről szóló 2006. évi CXXIII. törvény (a továbbiakban: Bktv.) rendelkezéseit a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnéséig az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (2) Ezen alcím alkalmazásában járványügyi intézkedés: az egészségügyről szóló 1997. évi CLIV. törvény III. Fejezet 6. címében szereplő járványügyi elkülönítés, járványügyi megfigyelés és járványügyi zárlat, hatósági házi karantén, járványügyi ellenőrzés vagy egyéb járványügyi intézkedés, valamint az egészségügyi válsághelyzet során a Kormány által elrendelt olyan intézkedés, amely a személyes megjelenést akadályozza.
 
@@ -1804,7 +1779,7 @@ történik.
 
 #### 79. A megelőző pártfogás során a pártfogó felügyelő eljárására vonatkozó eltérő szabályok
 
-235. § (1) A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény rendelkezéseit 2021. június 30. napjáig az e törvényben meghatározott eltérésekkel kell alkalmazni.
+235. § (1) A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény rendelkezéseit a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnéséig az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
 (2) A pártfogó felügyelő a megelőző pártfogás elrendelése iránti eljárásban a környezettanulmány elkészítése és a megelőző pártfogás végrehajtása során feladatát az együttműködésre köteles személyekkel történő írásbeli, kép- és hangkapcsolatot vagy hangkapcsolatot biztosító elektronikus kapcsolattartás útján is elláthatja, ha a személyes kapcsolattartás
 
@@ -1817,7 +1792,7 @@ történik.
 
 #### 80. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény rendelkezéseinek eltérő alkalmazása
 
-236. § (1) A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) rendelkezéseit 2021. június 30. napjáig az e törvényben meghatározott eltérésekkel kell alkalmazni.
+236. § (1) A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény (a továbbiakban: Bv. tv.) rendelkezéseit a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnéséig az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
 (2) Ezen alcím alkalmazásában járványügyi intézkedés: az egészségügyről szóló 1997. évi CLIV. törvény III. Fejezet 6. címében szereplő járványügyi elkülönítés, járványügyi megfigyelés és járványügyi zárlat, hatósági házi karantén, járványügyi ellenőrzés vagy egyéb járványügyi intézkedés, valamint az egészségügyi válsághelyzet során a Kormány által elrendelt olyan intézkedés, amely a személyes megjelenést akadályozza.
 
@@ -1839,7 +1814,7 @@ meghosszabbodik.
 
 (8) A pártfogó felügyelői véleményt, illetve a környezettanulmányt a pártfogó felügyelő és a büntetés-végrehajtási párfogó felügyelő a személyes kapcsolatteremtés mellőzésével, a rendelkezésre álló iratok, valamint a telefonon vagy egyéb elektronikus kapcsolattartás útján beszerezhető adatok alapján akkor készítheti el, ha a személyes kapcsolatteremtés a járványügyi intézkedés vagy az egészségügyi válsághelyzettel összefüggő más ok miatt akadályba ütközik.
 
-237. § (1) A befogadást követően az elítéltet végrehajtási fokozattól függetlenül haladéktalanul a számára kijelölt büntetés-végrehajtási intézet (a továbbiakban: bv. intézet) befogadó részlegén kell elhelyezni, ahol gondoskodni kell a tizennégy napig történő elkülönítéséről. Ha ez idő alatt az elítélt járványügyi elkülönítése nem válik szükségessé, a Nemzeti Népegészségügyi Központ által kiadott eljárásrend figyelembevételével folytatni kell a befogadási eljárást, ellenkező esetben a bv. intézetnek intézkedni kell az elítéltnek a legközelebbi járványügyi megfigyelést végző egészségügyi intézménybe szállítása iránt.
+237. § (1) A befogadást követően az elítéltet végrehajtási fokozattól függetlenül haladéktalanul a számára kijelölt büntetés-végrehajtási intézet (a továbbiakban: bv. intézet) befogadó részlegén kell elhelyezni, ahol gondoskodni kell a legalább tíz, de legfeljebb tizennégy napig történő elkülönítéséről. Ha ez idő alatt az elítélt járványügyi elkülönítése nem válik szükségessé, a Nemzeti Népegészségügyi Központ által kiadott eljárásrend figyelembevételével folytatni kell a befogadási eljárást, ellenkező esetben a bv. intézetnek intézkedni kell az elítéltnek a legközelebbi járványügyi megfigyelést végző egészségügyi intézménybe szállítása iránt.
 
 (2) Ha a szabadságvesztés végrehajtásának megkezdésére felhívott elítélt a bv. intézetnél olyan egészségi állapotban jelenik meg, amely alapján járványügyi megfigyelése vagy elkülönítése látszik szükségesnek, a bv. intézet az elítélt befogadását megtagadja. Ez esetben a bv. intézet igazolást állít ki az elítélt számára arról, hogy az elítélt a felhívásban meghatározottak szerint megjelent a bv. intézetnél, de befogadására egészségügyi okból nem került sor, továbbá haladéktalanul intézkedik az elítéltnek a legközelebbi járványügyi megfigyelést végző egészségügyi intézménybe szállítása iránt. A bv. intézet a befogadás megtagadásáról a felhívást kibocsátó szervezeti egységet haladéktalanul – írásban – tájékoztatja.
 
@@ -1887,7 +1862,7 @@ korlátozhatja.
 
 (11) Az (1)–(10) bekezdés rendelkezéseit a közérdekű munka és a pénzbüntetés helyébe lépő szabadságvesztés végrehajtása során is alkalmazni kell.
 
-238. § Az elzárás végrehajtása során a járványügyi intézkedésre vagy az egészségügyi válsághelyzettel összefüggő más okra figyelemmel a szabadságvesztés végrehajtására vonatkozó különös szabályokat megfelelően alkalmazni kell azzal, hogy az elítélt befogadását követő tizennégy napos elkülönítés alatt is biztosítani kell a Bv. tv. 273. § (5) bekezdése szerinti szabályokat.
+238. § Az elzárás végrehajtása során a járványügyi intézkedésre vagy az egészségügyi válsághelyzettel összefüggő más okra figyelemmel a szabadságvesztés végrehajtására vonatkozó különös szabályokat megfelelően alkalmazni kell azzal, hogy az elítélt befogadását követő elkülönítés alatt is biztosítani kell a Bv. tv. 273. § (5) bekezdése szerinti szabályokat.
 
 239. § (1) A veszélyhelyzetre tekintettel félbeszakított közérdekű munka végrehajtását folytatni kell, ennek érdekében a pártfogó felügyelőnek mind az elítéltet, mind a végrehajtásra kijelölt munkahelyet nyolc napos határidő megállapításával nyilatkoztatnia kell arról, hogy nincs-e akadálya a végrehajtás folytatásának.
 
@@ -1918,15 +1893,15 @@ korlátozhatja.
 
 (4) A (2) bekezdés szerinti korlátozás elrendeléséről az ügyészséget haladéktalanul értesíteni kell.
 
-243. § Az őrizet és a letartóztatás végrehajtása során a szabadságvesztés végrehajtására vonatkozó különös szabályokat megfelelően alkalmazni kell azzal, hogy a letartóztatott befogadását követő tizennégy napos elkülönítés alatt is biztosítani kell a Bv. tv. 391. § (1) bekezdése szerinti szabályokat.
+243. § Az őrizet és a letartóztatás végrehajtása során a szabadságvesztés végrehajtására vonatkozó különös szabályokat megfelelően alkalmazni kell azzal, hogy a letartóztatott befogadását követő elkülönítés alatt is biztosítani kell a Bv. tv. 391. § (1) bekezdése szerinti szabályokat.
 
-244. § A rendbírság helyébe lépő elzárás és a szabálysértési elzárás végrehajtása során a szabadságvesztés végrehajtására vonatkozó különös szabályait megfelelően alkalmazni kell azzal, hogy a befogadást követő tizennégy napos elkülönítés alatt is biztosítani kell a Bv. tv. 273. § (5) bekezdése szerinti szabályokat.
+244. § A rendbírság helyébe lépő elzárás és a szabálysértési elzárás végrehajtása során a szabadságvesztés végrehajtására vonatkozó különös szabályait megfelelően alkalmazni kell azzal, hogy a befogadást követő elkülönítés alatt is biztosítani kell a Bv. tv. 273. § (5) bekezdése szerinti szabályokat.
 
 245. § A bv. intézet és a javítóintézet a járványügyi védekezés, a hatósági házi karantén, a kijelölt karantén, valamint a járványügyi megfigyelés, zárlat vagy elkülönítés fennállásának ellenőrzése céljából adatot igényelhet a rendőrségnek a járványügyi védekezés és a hatósági házi karantén szabályai megtartásának ellenőrzése céljából vezetett nyilvántartásából.
 
 #### 81. A nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény rendelkezéseinek eltérő alkalmazása
 
-246. § (1) A nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény (a továbbiakban: Nbjt.) rendelkezéseit 2021. június 30. napjáig az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
+246. § (1) A nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény (a továbbiakban: Nbjt.) rendelkezéseit a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnéséig az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
 
 (2) Ezen alcím alkalmazásában járványügyi intézkedés: az egészségügyről szóló 1997. évi CLIV. törvény III. Fejezet 6. címében szereplő járványügyi elkülönítés, járványügyi megfigyelés és járványügyi zárlat, hatósági házi karantén, járványügyi ellenőrzés vagy egyéb járványügyi intézkedés, valamint az egészségügyi válsághelyzet során a Kormány által elrendelt olyan intézkedés, amely a személyes megjelenést akadályozza.
 
@@ -2001,7 +1976,7 @@ korlátozhatja.
 
 #### 82. Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény rendelkezéseinek eltérő alkalmazása
 
-257. § (1) Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény rendelkezéseit 2021. június 30. napjáig az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
+257. § (1) Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény rendelkezéseit a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnéséig az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
 
 (2) Ezen alcím alkalmazásában járványügyi intézkedés: az egészségügyről szóló 1997. évi CLIV. törvény III. Fejezet 6. címében szereplő járványügyi elkülönítés, járványügyi megfigyelés és járványügyi zárlat, hatósági házi karantén, járványügyi ellenőrzés vagy egyéb járványügyi intézkedés, valamint az egészségügyi válsághelyzet során a Kormány által elrendelt olyan intézkedés, amely a személyes megjelenést akadályozza.
 
@@ -2720,7 +2695,7 @@ vonatkozó szabályait.
 
 (7) E törvény hatálybalépésének naptári napját a miniszterelnök annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
-409. § (1)
+409. § (1) Hatályát veszti a 30. §.
 
 (2)
 

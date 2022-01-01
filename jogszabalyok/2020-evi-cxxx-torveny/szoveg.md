@@ -33,7 +33,7 @@ is alkalmazni kell.
 [az aa) és ab) alpontban foglaltak a továbbiakban együtt: foglalkoztatott],
 
 - b) munkaviszonyban álló munkavállalókból és
-- c) tisztjelölti jogviszonyban álló pénzügyőr tisztjelöltekből (a továbbiakban: tisztjelölt)
+- c) tisztjelölti szolgálati jogviszonyban (a továbbiakban: tisztjelölti jogviszony) álló pénzügyőr tisztjelöltekből (a továbbiakban: tisztjelölt)
 
 áll.
 
@@ -83,6 +83,7 @@ is alkalmazni kell.
   - a) a NAV-nál pénzügyőri státuszon szolgálati jogviszonyban eltöltött – naptári napban meghatározandó – idő,
   - b) a NAV-nál vagy jogelődjénél, továbbá valamely rendvédelmi feladatokat ellátó szervnél hivatásos szolgálati jogviszonyban, illetve a Magyar Honvédségnél hivatásos és szerződéses szolgálati viszonyban eltöltött – naptári napban meghatározandó – idő, valamint
   - c) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) hatálybalépése előtt a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: 1996. évi XLIII. törvény) rendelkezései alapján tényleges hivatásos szolgálatban eltöltött szolgálati idő.
+- 33a. tisztjelölt: a rendvédelmi alapképzésre felvételt nyert személy, aki a képzés időtartama alatt hallgatói jogviszonyban és a XXVII. Fejezetben meghatározottak szerinti tisztjelölti jogviszonyban áll,
 - 34. tisztviselő: a tisztviselői munkakört betöltő, tisztviselői státuszú foglalkoztatott;
 - 35. tisztviselői munkakör: az a munkakör, amelyre szolgálati jogviszony létesíthető, és nem minősül pénzügyőri munkakörnek;
 - 36. utasítás: feladat végrehajtására vonatkozó utasítás, pénzügyőr esetén parancs vagy rendelkezés.
@@ -552,7 +553,7 @@ a munkáltatói jogkör gyakorlója – mérlegelése alapján – a foglalkozta
 
 (5) Ha a munkáltatói jogkör gyakorlója megállapítja, hogy a pénzügyőr életvitele nem kifogástalan, e törvény szerint intézkedik a szolgálati jogviszony megszüntetése érdekében.
 
-(6) Ha az ellenőrzés megállapításai alapján a tisztjelölt életvitele kifogásolható, a NAV vezetője az ösztöndíjszerződéstől – az érintett meghallgatását követően – egyoldalú nyilatkozattal elállhat. Az ösztöndíjszerződés megszűnésével a hallgatói jogviszony is megszűnik.
+(6) A (3)–(5) bekezdésben foglaltakat a tisztjelöltekre is alkalmazni kell azzal, hogy esetükben az ellenőrzés megállapításai alapján a NAV vezetője dönt a jogkövetkezményekről.
 
 (7) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a NAV az erről szóló döntés meghozatalától számított nyolc napon belül tájékoztatja arról, hogy a jelentkezővel létesült-e szolgálati jogviszony. A keletkezett iratokat, adatokat – a kifogástalan életvitel ellenőrzését elrendelő és befejező határozatot kivéve – meg kell semmisíteni, ha
 
@@ -1272,6 +1273,8 @@ időtartama alatt.
 - c) az illetményéből határozat vagy jogszabály alapján levonandó tartozását és ennek jogosultját, vagy azt, hogy ilyen tartozása nincs,
 - d) a szolgálati jogviszony megszűnésének évében igénybe vett szabadsága időtartamát, valamint
 - e) a kifizetett végkielégítés összegét.
+
+(4) A szolgálati jogviszony létesítésével és megszüntetésével összefüggésben a NAV jogszabályban meghatározott feltételekkel igénybe veheti, és a foglalkoztatott számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
 
 ### IX. Fejezet — A SZOLGÁLATI JOGVISZONY TARTALMA
 
@@ -3756,91 +3759,123 @@ szemben.
 
 (19) A foglalkoztató NAV szerv a munkaviszonyból származó jogok és kötelezettségek teljesítése érdekében munkaügyi nyilvántartást vezet. A nyilvántartás adattartalma – a kizárólag a foglalkoztatottak esetében releváns adatok kivételével – megegyezik a foglalkoztatott 10. melléklet szerinti személyügyi alapnyilvántartásának adataival. A munkaügyi nyilvántartásra, valamint az abból történő adatszolgáltatásra a személyügyi alapnyilvántartásra vonatkozó szabályokat kell alkalmazni, azzal, hogy a foglalkoztató NAV szerv a munkaügyi nyilvántartásban szereplő adatokat a munkaviszony megszűnését vagy megszüntetését követő tizenöt évig kezeli.
 
-### XXVII. Fejezet — A TISZTJELÖLTEKRE VONATKOZÓ KÜLÖNÖS SZABÁLYOK
+(20) A munkaviszony létesítésével és megszüntetésével összefüggésben a NAV jogszabályban meghatározott feltételekkel igénybe veheti, és munkavállalói számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
+
+### XXVII. Fejezet — A TISZTJELÖLT
 
 #### 240. § [A tisztjelölti jogviszony tartalma]
 
-(1) A tisztjelölt tisztjelölti szolgálati jogviszonyban (a továbbiakban: tisztjelölti jogviszony) teljesít szolgálatot, amelyben őt és a NAV-ot a jogszabályban és az ösztöndíjszerződésben meghatározott kötelezettségek terhelik, és jogosultságok illetik meg. A tisztjelölt elsődleges kötelezettsége a NAV-nál a pénzügyőri munkakörben történő feladatellátásra való felkészülés.
+(1) A tisztjelölt pénzügyőr tisztjelölti jogviszonyban teljesít szolgálatot, amelyben őt és a vele tisztjelölti jogviszonyt létesítő NAV-ot jogszabályban meghatározott kötelezettségek terhelik, és jogosultságok illetik meg. A tisztjelölt elsődleges szolgálati kötelezettsége a NAV-nál az I. besorolási osztályba tartozó pénzügyőri munkakörben történő feladatellátásra való felkészülés.
 
-(2) A tisztjelöltre e törvénynek a pénzügyőrre vonatkozó rendelkezéseit az e Fejezetben foglalt eltéréssel kell alkalmazni.
+(2) A tisztjelöltre e törvénynek a pénzügyőrre vonatkozó rendelkezéseit az e Fejezetben foglalt eltérésekkel megfelelően kell alkalmazni.
 
-(3) A tisztjelölti jogviszonyra nem alkalmazható a 47. §, 50. §–62. §, a 70. §–76. §, a 95. §–98. §, a 129. §–172. §, a 232. §–233. §, valamint a 234. §.
+(3) A tisztjelölti jogviszonyra nem alkalmazható a 47. §, az 50–62. §, a 70–76. §, a 95–98. §, a 129–172. §, valamint a 232–234. §.
 
 #### 241. § [A tisztjelölti jogviszony létesítése]
 
-(1) A rendészeti alapképzésre, nappali tagozatra felvételt nyert személy az ösztöndíjszerződés megkötésével a NAV tisztjelölti állományába kerül. Személyügyi nyilvántartását, tisztjelölti jogviszonyával kapcsolatos ügyei intézését a NAV végzi. A munkáltatói jogkör gyakorlója a NAV vezetője. Rendészeti alapképzésben ösztöndíjszerződés megkötése nélkül hallgatói jogviszony nem létesíthető, és nem tartható fenn.
+(1) A rendészeti alapképzésre, nappali tagozatra felvételt nyert személyt a NAV vezetője a NAV szerv tisztjelölti állományába kinevezi. A tisztjelölt személyügyi nyilvántartását, tisztjelölti jogviszonyával kapcsolatos ügyei intézését a NAV végzi. A munkáltatói jogkör gyakorlója a NAV vezetője.
 
-(2) A tisztjelölti jogviszony létesítésének további feltétele, hogy a tisztjelölttel szemben hallgatói jogviszonyt kizáró körülmény nem áll fenn. Nem köthető ösztöndíjszerződés azzal, akinek ösztöndíjas hallgatói jogviszonya vagy tisztjelölti jogviszonya kizárás fegyelmi büntetés jogerős kiszabásával, lemondással, tanulmányi kötelezettség önhibából történő elmulasztása miatt vagy méltatlanság jogerős megállapításával szűnt meg.
+(2) A tisztjelölti jogviszony létesítésének feltétele, hogy a tisztjelölttel szemben hallgatói jogviszonyt kizáró körülmény nem áll fenn. Nem nevezhető ki tisztjelölti jogviszonyba, akinek ösztöndíjas hallgatói jogviszonya vagy tisztjelölti jogviszonya kizárás fegyelmi büntetés jogerős kiszabásával, lemondással, tanulmányi kötelezettség önhibából történő elmulasztása miatt vagy méltatlanság jogerős megállapításával szűnt meg.
 
-(3) Az ösztöndíjszerződést és annak módosítását írásba kell foglalni. A tisztjelölt az ösztöndíjszerződés megkötésével vállalja, hogy rendészeti tanulmányait legjobb képességei szerint folytatja, és a NAV állományába vételét követően, legalább a rendészeti alapképzés kétszeresének megfelelő időtartamban a NAV-nál szolgálatot teljesít. A munkáltatói jogkör gyakorlójának hozzájárulásával ezt a kötelezettségét rendvédelmi szervnél is teljesítheti. A NAV azt vállalja, hogy a tisztjelölt rendészeti tanulmányait támogatja, ezek befejezését követően a NAV pénzügyőri állományába veszi, és a végzettségének megfelelő munkakörben foglalkoztatja.
+(3) A tisztjelölti jogviszonyba történő kinevezést és annak módosítását írásba kell foglalni. A tisztjelölt köteles a rendészeti tanulmányait legjobb képességei szerint folytatni, és az adó- és vámhatósági szolgálati jogviszonyba történő kinevezését követően legalább 10 év időtartamban a NAV-nál szolgálatot teljesíteni. A NAV köteles a tisztjelölt rendészeti tanulmányait támogatni, ezek befejezését követően I. besorolási osztályba tartozó pénzügyőri munkakörbe kinevezni, és a végzettségének megfelelő munkakörben foglalkoztatni.
 
-(4) A tisztjelölt a beiratkozást követő hat hónapig rendészeti alapfelkészítésen vesz részt. A tisztjelölt a rendészeti alapfelkészítés befejezésekor „Tisztjelölt” vizsgát, ezt követően a pénzügyőr számára előírt esküt tesz.
+(4) A tisztjelölt a képzési követelményt az adott szakra vonatkozó, jogszabályban közzétett Képzési és Kimeneti Követelményben meghatározott képzési idő alatt köteles teljesíteni. A hallgatói jogviszony szünetelésének időtartama a képzési időbe nem számít bele.
 
-(5) Az ösztöndíjszerződésben a rendészeti alapfelkészítést tartalmazó hat hónap idejére próbaidőt kell kikötni. A próbaidő alatt a tisztjelölti jogviszonyt bármelyik fél indokolás nélkül, azonnali hatállyal megszüntetheti. A próbaidő alatt meg kell szüntetni a tisztjelölti jogviszonyát annak, aki a rendészeti alapfelkészítést önhibájából nem teljesíti vagy a kifogástalan életvitel követelményeinek nem felel meg. A korábban folytatott rendészeti tanulmányok elismerésével megkötött ösztöndíjszerződésben – ha a tisztjelölt ismételt rendészeti alapfelkészítésére nem kerül sor – hat hónap próbaidőt kell kikötni.
+(5) A tisztjelölt részére a kinevezési okmányt legkésőbb a rendészeti alapfelkészítés megkezdését megelőző 15 nappal korábban át kell adni.
 
-#### 242. § [A tisztjelölti jogviszony megszüntetése]
+(6) A tisztjelölt a beiratkozást követő hat hónapig rendészeti alapfelkészítésen vesz részt. A tisztjelölt a rendészeti alapfelkészítés befejezésekor „Tisztjelölt” vizsgát, ezt követően a pénzügyőr számára előírt esküt tesz.
 
-(1) A tisztjelölti jogviszony közös megegyezéssel történő megszüntetésének minősül, ha a tisztjelölt kérelmére a munkáltatói jogkört gyakorló a szolgálati érdekre vagy a tisztjelölt különös méltánylást érdemlő egyéni érdekére tekintettel engedélyezi a NAV állományába vételét.
+(7) A tisztjelölt részére a rendészeti alapfelkészítést tartalmazó hat hónap idejére próbaidőt kell kikötni. A próbaidő alatt a tisztjelölti jogviszonyt bármelyik fél indokolás nélkül, azonnali hatállyal megszüntetheti. A próbaidő alatt meg kell szüntetni a tisztjelölti jogviszonyát annak, aki a rendészeti alapfelkészítést önhibájából nem teljesíti vagy a kifogástalan életvitel követelményeinek nem felel meg.
 
-(2) Ha az engedélyt a munkáltatói jogkört gyakorló megadja, vagy ha az érintett a tisztjelölti jogviszonyát nem kívánja fenntartani, a tisztjelölti jogviszony a neki felróható okból kerül megszüntetésre. A tisztjelölt tisztjelölti jogviszonyát egyoldalú jognyilatkozattal megszüntetheti. Ha a tisztjelölt kérelmére a felek rövidebb határidőben nem állapodnak meg, a tisztjelölti jogviszony a jognyilatkozat közléstől számított harminc nap elteltével – a munkáltatói jogkört gyakorló külön intézkedése nélkül – megszűnik.
+#### 242. § [A tisztjelölti jogviszony megszűnése]
 
-(3) A munkáltatói jogkört gyakorló a tisztjelölti jogviszonyt egyoldalú jognyilatkozattal megszüntetheti, ha a tisztjelölt határidőn belül önhibájából nem tesz eleget az ösztöndíjszerződésben előírt kötelezettségeinek, vagy ha nemzetbiztonsági szempontból a szolgálatra alkalmatlanná vált. Ha e törvény eltérően nem rendelkezik, a tisztjelölti jogviszony a jognyilatkozat közlésétől számított harmincadik nap elteltével megszűnik.
+(1) A tisztjelölti jogviszony megszűnik
 
-(4) A tisztjelölti jogviszony e törvény erejénél fogva szűnik meg
+- a) a tisztjelölt halálával,
+- b) a kizárás fenyítés jogerőre emelkedésével,
+- c) a hallgatói jogviszony megszűnésének napján,
+- d) a tiszti rendfokozati állománycsoportba tartozó rendfokozatba történő kinevezéssel.
 
-- a) a kizárás fegyelmi büntetés jogerőre emelkedésével,
-- b) a hallgatói jogviszony megszűnésének napján, kivéve, ha a hallgatói jogviszony a felsőfokú végzettséget tanúsító oklevél kiállításának napján szűnik meg, vagy
-- c) a tiszti rendfokozati állománycsoportba tartozó rendfokozatba történő kinevezéssel.
+(2) A tisztjelölt tisztjelölti jogviszonyát felmentéssel meg kell szüntetni, ha
 
-(5) A tisztjelölti jogviszony megszűnésének napján – a munkáltatói jogkört gyakorló külön intézkedése nélkül – az ösztöndíjszerződés hatályát veszti. A tisztjelölti jogviszony megszűnésekor, megszüntetésekor a tisztjelölt köteles a NAV-nál elszámolni.
+- a) nemzetbiztonsági szempontból a tisztjelölti szolgálatra alkalmatlanná vált,
+- b) a képzési idő alatt a jogszabályban előírt, egészségi, pszichológiai vagy fizikai alkalmassági követelményeknek nem felel meg.
 
-(6) Ha a tisztjelölti jogviszony neki felróható okból szűnik meg, a tisztjelölt a képzés költségeit a foglalkoztatási szabályzatban meghatározottaknak megfelelően köteles megtéríteni. A megtérítési kötelezettség a tisztjelölti szolgálati viszony megszűnését követő naptól esedékes.
+(3) Felmentés esetén a felmentési idő egy hónap. A tisztjelölt írásbeli kérelme alapján a felek ennél rövidebb felmentési időben is megállapodhatnak.
 
-(7) A tisztjelölt hallgatói jogviszonyának szünetelése a tisztjelölti jogviszonyának fennállását nem érinti. A tisztjelölt a munkáltatói jogkört gyakorlótól kérheti, hogy a hallgatói jogviszonya szüneteltetésével egyidejűleg különös méltánylást érdemlő egyéni érdekére tekintettel a tisztjelölti jogviszony szünetelését engedélyezze.
+#### 242/A. § [A tisztjelölt továbbfoglalkoztatása]
 
-(8) Szabadságra kizárólag a hallgatói jogviszony szünetelésének időtartama alatt szolgálati feladatokat ellátó tisztjelölt jogosult. A tisztjelöltet ezen időtartamra a 108. §–112. §-ban foglaltak alkalmazása helyett a heti szolgálatteljesítési idejének alapulvételével megállapított, évi öt heti szolgálatteljesítésnek megfelelő mértékű alapszabadság időarányos része illeti meg.
+(1) Az a tisztjelölt, aki rendelkezik a 241. § (6) bekezdése szerinti „Tisztjelölt” vizsgával és
+
+- a) a tanulmányi és vizsgaszabályzatban, illetve a tantervben rögzített, a tanulmányokban való előrehaladással kapcsolatos kötelezettségeit nem teljesíti vagy
+- b) a hallgatói jogviszonyát megszünteti,
+
+annak a tisztjelölti jogviszonya a törvény erejénél fogva megszűnik, az addig megszerzett rendfokozatát a törvény erejénél fogva elveszti, és őt a NAV vezetője adó- és vámhatósági szolgálati jogviszonyba történő kinevezéssel egyidejűleg a NAV bármely szervénél II. besorolási osztályba tartozó pénzügyőri munkakörbe helyezi.
+
+(2) Az (1) bekezdés szerinti esetben a NAV vezetője a tisztjelölt kérelmére és a tisztjelölt különös méltánylást érdemlő egyéni érdekére tekintettel – a pénzügyőri munkakörben való továbbfoglalkoztatás helyett – engedélyezheti a tisztviselői státuszban, tisztviselői munkakörben történő továbbfoglalkoztatást. A tisztviselői munkakörben történő továbbfoglalkoztatás nem érinti a (4) bekezdés szerint megállapítandó időtartamot.
+
+(3) Nem kell biztosítani a tisztjelölt számára az (1) és (2) bekezdés szerinti foglalkoztatást, ha a hallgatói jogviszonya a 241. § (7) bekezdése szerinti próbaidő alatt szűnik meg, valamint ha a hallgatói jogviszonya a rendészeti alapfelkészítés teljesítésének hiányában szűnik meg.
+
+(4) Az (1) bekezdés szerinti tisztjelölt esetében a 241. § (3) bekezdése szerint vállalt időtartamot a hallgatói jogviszony megszűnésétől kell számítani.
+
+#### 242/B. § [Megtérítési kötelezettség]
+
+(1) Ha a tisztjelölt tisztjelölti jogviszonya próbaidő alatt, a 242. § (1) bekezdés b) és c) pontja, vagy 242. § (2) bekezdése alapján szűnik meg, a tisztjelölt a képzés költségeit miniszteri rendeletben meghatározottaknak megfelelően köteles megtéríteni. A megtérítési kötelezettség a tisztjelölti jogviszony megszűnését követő naptól esedékes.
+
+(2) A megtérítési kötelezettség részbeni vagy teljes megfizetése alól a NAV vezetője – miniszteri rendeletben meghatározott rendben – a tisztjelöltet kérelmére, különös méltánylást érdemlő körülményeire figyelemmel mentesítheti.
+
+(3) Ha a szolgálati jogviszony a 241. § (3) bekezdésében meghatározott időtartam előtt, a 22. § (1) bekezdésében, 67. § a), b), e) vagy f) pontjában, 70. § (2) bekezdés a) vagy f) pontjában meghatározottak szerint kerül megszüntetésre vagy a 66. § (1) bekezdés f) pontjában, a 92. § (1) bekezdésében vagy a 95. § (4) bekezdésében meghatározottak szerint szűnik meg, a foglalkoztatott a tisztjelölti jogviszonya alapján részére kifizetett juttatás összegét miniszteri rendeletben meghatározottak szerint, időarányos mértékben köteles megtéríteni.
+
+#### 242/C. § [Hallgatói jogviszony szünetelése]
+
+A tisztjelölt hallgatói jogviszonyának szünetelése a tisztjelölti jogviszonyának fennállását nem érinti. A hallgatói jogviszony szünetelése alatt a tisztjelölt részére a munkáltatói jogkör gyakorlója a NAV bármely szervénél szolgálati feladatot határozhat meg. A tisztjelölt a munkáltatói jogkör gyakorlójától kérheti, hogy a hallgatói jogviszonya szüneteltetése alatt különös méltánylást érdemlő egyéni érdekére tekintettel mentesüljön a szolgálatifeladat-ellátási kötelezettség alól.
 
 #### 243. § [A tisztjelölti szolgálat]
 
-(1) A tisztjelölt a NAV tisztjelölti állományában, az előmenetelének megfelelő tisztjelölti rendfokozati jelzéssel teljesít szolgálatot. Munkavégzési helye a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar Rendvédelmi Tagozata (a továbbiakban: Rendvédelmi Tagozat). A tisztjelöltek szolgálati feladatait a Rendvédelmi Tagozat szolgálati szabályzata tartalmazza. A Rendvédelmi Tagozaton megalakított egységek a képzési szakok és szakirányok szerint kerülnek megalakításra, amelyek a NAV tartalékát is képezik. Kötelékben és különleges jogrendi helyzetekben történő alkalmazásuk és gyakoroltatásuk rendjét a NAV vezetője és a Nemzeti Közszolgálati Egyetem rektora által megkötött együttműködési megállapodás tartalmazza.
+(1) A tisztjelölt a NAV tisztjelölti állományában, a hallgatói előmenetelének megfelelő tisztjelölti rendfokozati jelzéssel teljesít szolgálatot.
 
-(2) A tisztjelölt esetében a szolgálati érintkezés során szóban „hallgató” megszólítást kell alkalmazni, amelyet írásban a „pénzügyőr” jelzővel kell kiegészíteni.
+(2) A tisztjelölt rendfokozata
 
-(3) A tisztjelölt szolgálatteljesítése során – a 241. § (4) bekezdésében meghatározott képzettségi szintet meghaladó – intézkedésre önállóan nem jogosult. Az alapképzést követően – az eskütétel után – szakmai gyakorlaton vagy elrendelt szolgálati tevékenység során szolgálati fegyvert, felszerelést a NAV által számára meghatározott szabályok szerint viselhet és a jogszabályok előírásainak megfelelően használhat.
+- a) az állományba vétel napjától hallgató őrmester,
+- b) a második évfolyamon a tanév első napjától hallgató törzsőrmester,
+- c) a harmadik évfolyamon a tanév első napjától hallgató főtörzsőrmester,
+- d) a negyedik évfolyamon a tanév első napjától hallgató zászlós.
 
-(4) A tisztjelölt szolgálatteljesítése képzési időnek minősül, amelyet úgy kell megállapítani, hogy az a tanulmányi kötelezettségeinek teljesítését ne veszélyeztesse.
+(3) A tisztjelölt szolgálatteljesítési helye a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar Rendvédelmi Tagozata (a továbbiakban: Rendvédelmi Tagozat). A tisztjelölt szolgálati feladatait a Rendvédelmi Tagozat szolgálati szabályzata tartalmazza. A Rendvédelmi Tagozaton megalakított egységek a képzési szakok és szakirányok szerint kerülnek megalakításra, amelyek egyben az állományilletékes NAV tartalékát is képezik. Kötelékben és különleges jogrendben történő alkalmazásuk és gyakoroltatásuk rendjét a NAV vezetője és a Nemzeti Közszolgálati Egyetem rektora által megkötött együttműködési megállapodás tartalmazza.
 
-(5) A tisztjelölt kizárólag a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló törvényben meghatározott szolgálati feladat ellátására vezényelhető, továbbá a Rendvédelmi Tagozat állományában rajparancsnoki vagy szakaszparancsnoki gyakorló feladatok ellátására jelölhető ki.
+(4) A tisztjelölt esetében a szolgálati érintkezés során szóban „hallgató” megszólítást kell alkalmazni, amelyet írásban a „pénzügyőr” jelzővel kell kiegészíteni.
+
+(5) A tisztjelölt szolgálatteljesítése során – a 241. § (6) bekezdésében meghatározott képzettségi szintet meghaladó – intézkedésre önállóan nem jogosult. A sikeres „Tisztjelölt” vizsgát követően – az eskütétel után – szakmai gyakorlaton vagy elrendelt szolgálati tevékenység során szolgálati fegyvert, felszerelést a NAV számára meghatározott szabályok szerint viselhet és a jogszabályok előírásainak megfelelően használhat.
+
+(6) A tisztjelölt szolgálatteljesítése képzési időnek minősül, amelyet úgy kell megállapítani, hogy az a tanulmányi kötelezettségeinek teljesítését ne veszélyeztesse.
+
+(7) A tisztjelölt kizárólag a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló törvényben meghatározott szolgálati feladat ellátására vezényelhető, továbbá a Rendvédelmi Tagozat állományában rajparancsnoki vagy szakaszparancsnoki gyakorló feladatok ellátására jelölhető ki.
+
+(8) A tisztjelölt az oktatási szünet időtartamára – a kötelező gyakorlat kivételével – mentesül a szolgálatteljesítési és rendelkezésre állási kötelezettség alól.
+
+(9) Szabadságra kizárólag a hallgatói jogviszony szünetelésének időtartama alatt szolgálati feladatokat ellátó tisztjelölt jogosult. A tisztjelöltet ezen időtartamra a 110–112. §-ban foglaltak alkalmazása helyett a heti szolgálatteljesítési idejének alapulvételével megállapított, évi öt heti szolgálatteljesítésnek megfelelő mértékű alapszabadság időarányos része illeti meg.
 
 #### 244. § [A tisztjelölt járandóságai]
 
-(1) A tisztjelöltet az e törvényben a pénzügyőrt megillető járandóságok – a (2) bekezdésben megállapított korlátozások figyelembevételével – illetik meg.
+(1) A tisztjelölt havonta a miniszter rendeletében meghatározottak szerinti illetményre jogosult. Az illetmény alapilletményből, tanulmányi díjból, valamint illetménypótlékból áll. Az alapilletmény legalább a garantált bérminimumnak megfelelő összeg. Az alapilletmény évfolyamonkénti eltérő mértékét, valamint a tanulmányi díj mértékét és az illetménypótlék összegét a miniszter rendeletben állapítja meg.
 
-(2) Ha a törvény eltérően nem rendelkezik, a tisztjelölt havonta ösztöndíjra jogosult. Az ösztöndíj a 11. mellékletben meghatározottak szerint alapösztöndíjból, alapösztöndíj-kiegészítésből, a tanulmányi pótlékból, valamint egyéb pótlékokból áll.
+(2) A tisztjelölt foglalkoztatási szabályzatban meghatározottak szerint kollégiumi elhelyezésre, térítésmentes élelmezési, ruházati ellátásra, tanszertámogatásra, ezen túlmenően egyes költségtérítésre és szociális juttatásokra jogosult.
 
-(3) Az ösztöndíj összegét az egyes ösztöndíjelemekre megállapított szorzószámok és a 11. mellékletben meghatározott ösztöndíj alap szorzataként kell kiszámolni. Tört időszak esetén az alapösztöndíj, az alapösztöndíj-kiegészítés, a tanulmányi pótlék összegét időarányosan, az adott hónap naptári napjainak figyelembevételével kell meghatározni. Az ösztöndíjra az illetményfolyósítás és a visszatartás szabályait kell megfelelően alkalmazni.
+(3) A tisztjelölt pénzbeli járandóságait a NAV havonta egy összegben a tisztjelölt által megnevezett fizetési számlára átutalja.
 
-(4) Az egyes ösztöndíjelemek megállapítása a Nemzeti Közszolgálati Egyetem által kialakított rendben történik, amelyről a Nemzeti Közszolgálati Egyetem illetékes szerve havonta tájékoztatja a NAV-ot. A tájékoztatás és adatszolgáltatás rendjét együttműködési megállapodásban kell rögzíteni.
+(4) Nem jogosult illetményre a tisztjelölt, ha a hallgatói jogviszonya szünetel, kivéve, ha a munkáltatói jogkör gyakorlója szolgálati feladatot határoz meg részére. Nem jogosult illetményre abban az esetben sem, ha igazolatlanul távol van.
 
-(5) Nem jogosult ösztöndíjra a tisztjelölt, ha a tisztjelölti jogviszonya szünetel, valamint ha jogellenesen távol van.
+#### 245. § [A tisztjelölt fegyelmi és kártérítési felelőssége]
 
-(6) A tisztjelölt foglalkoztatási szabályzatban meghatározottak szerint kollégiumi elhelyezésre, térítésmentes élelmezési, ruházati ellátásra, tanszertámogatásra, ezen túlmenően egyes költségtérítésre és szociális juttatásokra jogosult.
+(1) Ha a tisztjelölt a tisztjelölti jogviszonyából vagy a hallgatói jogviszonyából eredő kötelezettségét vétkesen megszegi, fegyelemsértést követ el. A tisztjelölttel szemben fenyítésként a 187. § (4) bekezdés a), és i) pontja, valamint az alapilletmény csökkentése fegyelmi büntetés szabható ki azzal, hogy az alapilletmény legfeljebb 5 hónapra, legfeljebb 20%-kal csökkenthető.
 
-(7) A tisztjelölt pénzbeli járandóságait a NAV havonta egy összegben a tisztjelölt által megnevezett fizetési számlára átutalja.
-
-#### 245. § [A tisztjelölt fegyelmi és kártérítési felelősségére, a fegyelmi, a méltatlansági és a kártérítési eljárásra vonatkozó eltérő szabályok]
-
-(1) Ha a tisztjelölt a tisztjelölti jogviszonyából vagy a hallgatói jogviszonyából eredő kötelezettségét vétkesen megszegi, fegyelemsértést követ el. A tisztjelölttel szemben fegyelmi büntetésként a 187. § (4) bekezdés a) pontja, valamint az Nftv. 55. § (2) bekezdés c) és e) pontja szerinti fegyelmi büntetés szabható ki azzal, hogy az Nftv. 55. § (2) bekezdés c) pontja szerint az ösztöndíj legfeljebb öt hónapra 10–50%-kal csökkenthető. A fegyelmi eljárás megindításának határidejére az Nftv. 55. § (4) bekezdését kell alkalmazni.
-
-(2) A tisztjelölt munkaköréből – tanulmányok folytatásától való eltiltás nélkül – legfeljebb a büntető-, a fegyelmi és a méltatlansági eljárás jogerős befejezéséig akkor függeszthető fel, ha a munkavégzési helytől távoltartása az általa elkövetett cselekmény súlya vagy jellege miatt indokolt.
+(2) A tisztjelölt vonatkozásában a fegyelmi jogkörrel kapcsolatos szabályokat kormányrendelet határozza meg.
 
 (3) A tisztjelölt kártérítési felelőssége kiterjed a tisztjelölti jogviszonyából és a hallgatói jogviszonyából eredő kötelezettségének vétkes megszegésével okozott kár megtérítésére is.
 
-(4) A tisztjelölttel szembeni fegyelmi, kártérítési és méltatlansági eljárásban a tisztjelölt képviseletében a kari hallgatói önkormányzat is eljárhat.
+(4) A fegyelmi és a kártérítési eljárás jogszabályban nem szabályozott kérdéseiben a Nemzeti Közszolgálati Egyetem fegyelmi és kártérítési szabályzatának rendelkezéseit kell alkalmazni.
 
-(5) A fegyelmi, a kártérítési és a méltatlansági eljárásra az e § szerinti eltéréssel az e törvény és az ezen eljárásokra vonatkozó kormányrendelet szerinti szabályok az irányadók.
-
-(6) A fegyelmi és a kártérítési eljárás jogszabályban nem szabályozott kérdéseiben a Nemzeti Közszolgálati Egyetem fegyelmi és kártérítési szabályzatának rendelkezéseit kell alkalmazni.
+(5) A tisztjelölt képviseletében a kari hallgatói önkormányzat is eljárhat.
 
 ## NEGYEDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -3882,6 +3917,8 @@ Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg:
 - 13. azokat a munkaköröket, amelyek a nyugdíj előtti rendelkezési állományra, valamint a könnyített szolgálatra való jogosultság szempontjából figyelembe vehetők, továbbá a könnyített szolgálatban foglalkoztatottak által betölthető munkaköröket, valamint az e körből kizárt tevékenységeket és kapcsolódó mentesítéseket;
 - 14. a munkaköri pótlékra jogosító munkaköröket, valamint a meghatározott munkakörökhöz kapcsolódó munkaköri pótlék mértékét;
 - 15. az egészségkárosodási ellátás megállapításával kapcsolatos részletes eljárási szabályokat, az egészségkárosodási ellátás számításának és folyósításának szabályait, továbbá az egészségkárosodási ellátásra jogosultakkal betölthető munkakörök meghatározásának rendjét.
+- 16. a tisztjelöltek illetménye megállapításának és folyósításának szabályait, az alapilletmény évfolyamonkénti eltérő mértékét, a tanulmányi díj mértékét és az illetménypótlék megállapításának feltételeit és összegét;
+- 17. a tisztjelölteknek a rendvédelmi alapképzés időtartama alatt, illetve a foglalkoztatottaknak a 10 éves határozott idejű szolgálata alatt fennálló megtérítési kötelezettsége eseteire, módjára, összegére vonatkozó szabályokat, a megtérítési kötelezettség érvényesítésének, ideértve a halasztás engedélyezésének rendjét, a fizetési könnyítés és a mentesítési eljárás szabályait.
 
 #### 248. § [Hatálybalépés]
 
@@ -4125,6 +4162,20 @@ alakul át e törvény hatálybalépésének napján.
 (42) E törvény hatálybalépése nem érinti a szolgálati idő 1996. évi XLIII. törvény 341/D. §-a alapján történő megállapítását.
 
 (43) A végkielégítésre és a jubileumi jutalomra jogosító szolgálati jogviszonyban töltött időt az e törvény hatálybalépése előtti időszak vonatkozásában a pénzügyőri státuszú foglalkoztatott esetében a Hszt. 2020. december 31-én hatályos 280. § (1) bekezdése szerinti szolgálati idejének figyelembe vételével kell megállapítani.
+
+#### 257/A. § [Átmeneti rendelkezések az egyes pénzügyi és gazdasági tárgyú törvények módosításáról szóló 2021. évi CXXXV. törvényhez]
+
+(1) A NAV-val ösztöndíj szerződéssel tisztjelölti jogviszonyban álló tisztjelöltek jogviszonya 2022. augusztus 1-jén átalakul az egyes pénzügyi és gazdasági tárgyú törvények módosításáról szóló 2021. évi CXXXV. törvénnyel megállapított XXVII. Fejezet szerinti tisztjelölti szolgálati jogviszonnyá.
+
+(2) A tisztjelöltet legkésőbb az (1) bekezdés szerinti időpontot megelőző 120 nappal írásban kell tájékoztatni a tisztjelölti jogviszonyát érintő módosítás tartalmi elemeiről.
+
+(3) A tisztjelölt – a 2021/2022. tanévben képzésüket befejező tisztjelöltek kivételével – legkésőbb 2022. július 1-jéig írásban nyilatkozik, hogy jogviszonyának átalakulásához hozzájárul-e. Ha a tisztjelölt az előírt határnapig nem nyilatkozik, úgy kell tekinteni, hogy a tisztjelölti jogviszonyának átalakulásához hozzájárult.
+
+(4) Ha a tisztjelölt a tisztjelölti jogviszonyának átalakulásához nem járul hozzá, a tisztjelölti jogviszonya és ösztöndíjszerződése 2022. július 31-ével megszűnik.
+
+(5) A XXVII. Fejezet szerinti tisztjelölti jogviszony alapján az egyes pénzügyi és gazdasági tárgyú törvények módosításáról szóló 2021. évi CXXXV. törvénnyel megállapított illetmény 2022. augusztus 1. napjától illeti meg a tisztjelöltet.
+
+(6) A tisztjelölti jogviszony (1) bekezdés szerinti átalakulásával összefüggésben a tisztjelöltnek próbaidő nem köthető ki, egészségi, pszichikai és fizikai alkalmasságvizsgálatokat elvégezni nem kell.
 
 #### 258. § [Átmeneti rendelkezések az elektronikus ügyintézéshez]
 
@@ -4656,29 +4707,3 @@ X.
 1. az állami készfizető kezességvállalással összefüggő adatok (a hitelszerződést kötő pénzintézet neve, címe; az állami kezességvállalással biztosított hitel nagysága; a hitel lejártának időpontja).
 
 ### 11. melléklet a 2020. évi CXXX. törvényhez
-
-#### A TISZTJELÖLT ÖSZTÖNDÍJA
-
-#### I. Ösztöndíj alap: 38 650 Ft
-
-#### II. Az alapösztöndíj szorzószáma havonta
-
-- 1. szakaszparancsnoki feladatok ellátására kijelöltek esetén: 0,60
-- 2. raj parancsnoki feladatok ellátására kijelöltek esetén: 0,55
-- 3. az 1. és a 2. pontokba nem tartozók esetén: 0,50
-
-#### III. Az alapösztöndíj-kiegészítés szorzószáma havonta az egyes kiképzési vagy tanulmányi szemeszterek alapján
-
-- 1. I. szemeszter (rendészeti alapfelkészítés): 0,25
-- 2. II. szemeszter: 0,26
-- 3. III. szemeszter: 0,27
-- 4. IV. szemeszter: 0,28
-- 5. V. szemeszter: 0,29
-- 6. VI. szemeszter: 0,30
-- 7. VII. szemeszter: 0,31
-- 8. VIII. szemeszter: 0,32 IV. A rendészeti tisztjelölt az előző szemeszterben elért – nem a korrigált kreditindex szerint meghatározott – tanulmányi átlaga alapján számítandó tanulmányi pótlékának szorzószáma havonta: 1. 3,50 és alatta: nem jár 2. 3,51–4,00 között: 0,10 3. 4,01–4,50 között: 0,15 4. 4,51–5,00 között: 0,20
-- 5. a NAV vezetője által meghatározott legmagasabb követelményeknek megfelelők esetében: 0,40
-
-#### V. Egyéb pótlék az ösztöndíj alap %-ában
-
-- 1. katasztrófavédelmi feladatokra történő alkalmazás pótléka naponta: 5,80

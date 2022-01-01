@@ -74,6 +74,7 @@ Az Országgyűlés az elektronikus ügyintézés széles körű elterjedése, az
 - 37. minősített bizalmi szolgáltató: az eIDAS Rendelet 3. cikk 20. pontja szerinti szolgáltatás;
 - 38. minősített elektronikus aláírás: az eIDAS Rendelet 3. cikk 12. pontja szerinti aláírás;
 - 39. összerendelési nyilvántartás: a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvényben szabályozott összerendelési nyilvántartás;
+- 39a. piaci szereplők részére nyújtható központi állami szolgáltatás: olyan, az állam által nyújtott informatikai, hálózati és infrastrukturális szolgáltatás, amelyet a Kormány rendeletében informatikai, hálózati és infrastrukturális közszolgáltatásra kijelölt szolgáltató nem közfeladat ellátása céljából, piaci alapon, az eredeti közszolgáltatással – a Kormány rendeletében meghatározott eltérésekkel technikai tartalomban – azonos módon nyújt;
 - 40. személyre szabott ügyintézési felület: a jogszabályban kijelölt szolgáltató által nyújtott olyan, az ügyfél által személyre szabható internetes alkalmazás, amely az azonosított ügyfél számára egységesen elérhető lehetőséget biztosít az elektronikus ügyintézéshez szükséges nyilatkozatok, eljárási cselekmények és egyéb kötelezettségek teljesítésére, az ügyfél által igénybe vehető elektronikus ügyintézési szolgáltatások igénybevételére;
 - 41. szolgáltatási szabályzat: a bizalmi szolgáltató nyilatkozata az egyes bizalmi szolgáltatások nyújtásával kapcsolatosan alkalmazott részletes eljárási vagy más működési követelményekről;
 - 42. szolgáltatási szerződés: a bizalmi szolgáltató és a bizalmi szolgáltatási ügyfél között létrejött szerződés, amely a bizalmi szolgáltatás nyújtására és a szolgáltatás igénybevételére vonatkozó feltételeket tartalmazza;
@@ -338,6 +339,51 @@ közokirat.
 
 (5) Ha jogszabály valamely nyilatkozat megtételét nem köti valamely kapcsolattartási mód alkalmazásához, az e törvényben foglaltaknak megfelelően bármely elektronikus úton megtett nyilatkozat joghatásai megegyeznek a nem elektronikus úton megtett nyilatkozat joghatásaival.
 
+#### 8/A. Videotechnológiás kapcsolattal történő ügyintézés
+
+17/A. § (1) Az elektronikus ügyintézést biztosító szerv az ügyféllel – ezen alcímben meghatározott részletszabályok szerint – a Kormány rendeletében kijelölt szerv által biztosított, élő videóképes telekommunikációs csatornán alapuló kép- és hangfelvétel továbbítására és rögzítésére alkalmas rendszer használatával is tarthatja a kapcsolatot. A Kormány rendeletében megjelölt szervet e § tekintetében elektronikus azonosítási szolgáltatást végző szervnek kell tekinteni.
+
+(2) Az ügyfél az (1) bekezdés szerinti rendszer használata során
+
+- a) – ha az adatai a személyiadat- és lakcímnyilvántartásban szerepelnek – a (3) bekezdésben és a Kormány rendeletében meghatározott részletszabályok szerint, az (1) bekezdés szerinti rendszer alkalmazásával készített arcképmásának az összevetése útján vagy
+- b) – ha az adatai a személyiadat- és lakcímnyilvántartásban nem szerepelnek – az eIDAS rendelet 6. cikk (1) bekezdése szerinti azonosító eszköz útján,
+
+és az elektronikus ügyintézést biztosító szervnél rendelkezésre álló vagy az ügyfél által átadott természetes személyazonosító adataival azonosítja magát.
+
+(3) A (2) bekezdés a) pontja szerinti azonosítás során az (1) bekezdés szerinti rendszer a videojel segítségével a személyazonosság igazolására alkalmas hatósági igazolványból (ezen alcím alkalmazásában a továbbiakban: okmány) kiolvasott természetes személyazonosító adatokat, az állampolgárságot és az okmányszámot összeveti a személyi adat- és lakcímnyilvántartásban szereplő természetes személyazonosító adatokkal, ellenőrzi az okmány érvényességét, valamint az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 9/B. alcíme szerinti automatizált összehasonlítás igénybevételével az ügyfélről videojel útján készült arckép és a személyiadat- és lakcímnyilvántartásban szereplő, a személyazonosság ellenőrzésével érintett személy utolsó alkalommal nyilvántartásba vett arcképmásának az egymással történő megfeleltethetőségét. Az azonosítás a nyilvántartásban szereplő adatok egyezősége, az okmány érvényessége, valamint az egyezőség feltételeként meghatározott értékszám elérése esetén sikeres.
+
+(4) A (2) bekezdés a) pontja szerinti azonosítás, valamint az (1) bekezdés szerinti ügyintézés során – az (5) bekezdés szerinti kivétellel – az utólagos jogérvényesítés lehetőségének biztosítása, az ügyfél eljárási jogainak védelme, az egyes ügyintézéssel kapcsolatos jogok és kötelezettségek betartásának utólagos ellenőrzése érdekében az elektronikus ügyintézést biztosító szerv és az ügyfél között létrejött teljes kommunikációt, az ügyfél videotechnológiás azonosítással kapcsolatos részletes tájékoztatását és az ügyfél ehhez történő kifejezett hozzájárulását visszakereshető módon, kép- és hangfelvételen – a kép- és hangfelvétel minőségének romlását kizáró módon – az elektronikus ügyintézést biztosító szerv nevében a Kormány rendeletében kijelölt szerv rögzíti és azt a felvételtől számított egy évig megőrzi.
+
+(5) Az elektronikus ügyintézést biztosító szerv az (1) bekezdés szerinti ügyintézés során rögzített felvételt nem őrzi meg, ha
+
+- a) az ügyfél az ügyben érdemi nyilatkozatot nem tett vagy azt a polgári perrendtartásról szóló törvény szerinti teljes bizonyító erejű magánokiratban teszi meg, és
+- b) a (7) bekezdés szerinti arcképmás vagy aláírás felvételezésére sem kerül sor.
+
+(6) A (4) bekezdésben foglalt esetben és okból az elektronikus ügyintézést biztosító szerv jogosult az okmányról készült képfelvételnek a (4) bekezdés szerinti időtartamban történő rögzítésére és tárolására.
+
+(7) Ha az (1) bekezdés szerinti kommunikációval folytatott ügyben törvény az ügyfél arcképmásának, illetve aláírásának felvételezését írja elő,
+
+- a) az arcképmást,
+- b) jogszabályban foglalt esetben az aláírást
+
+az elektronikus ügyintézést biztosító szerv az (1) bekezdés szerinti rendszer használatával is felveheti.
+
+(8) A Kormány rendeletében kijelölt szerv az azonosítás sikeressége idejéig kezeli az ügyfél (2) bekezdés szerinti adatait, valamint jogosult azokat – szükség esetén az összerendelési nyilvántartás szolgáltatás igénybevételével – a személyiadat- és lakcímnyilvántartásból átvenni.
+
+17/B. § (1) Ha jogszabály az ügyfél nyilatkozatának érvényességéhez az ügyfél, illetve az elektronikus ügyintézést biztosító szerv képviselőjének aláírását követeli meg, az a 17/A. § (1) bekezdése szerinti rendszer használata során a Kormány rendeletében meghatározottak szerint pótolható.
+
+(2) Törvény vagy a Kormány eredeti jogalkotói hatáskörében kiadott kormányrendelet eltérő rendelkezése hiányában az elektronikus ügyintézést biztosító szerv a 17/A. § (1) bekezdése szerinti kapcsolattartás során indokolási kötelezettséggel járó döntést nem közölhet az ügyféllel.
+
+(3) Az elektronikus ügyintézést biztosító szerv az indokolási kötelezettséggel nem járó döntést is köteles az ügyfél számára írásban is megküldeni, ha a döntést a 17/A. § (1) bekezdése szerinti kommunikáció során közölte. Törvény vagy kormányrendelet eltérő rendelkezése hiányában a döntés közlésének az írásban megküldött döntés kézbesítését kell tekinteni.
+
+17/C. § (1) A 17/A. § (1) bekezdése szerinti kapcsolattartás kiegészítő szolgáltatás, az igénybevételével intézhető vagy indítható ügyek köréről az elektronikus ügyintézést biztosító szerv a Felügyeletet a szolgáltatás nyújtását megelőző legalább 30 nappal korábban tájékoztatja. A Felügyelet a szolgáltatás nyújtását megelőző legalább 8 nappal korábban a honlapján közzéteszi az így intézhető ügyeket.
+
+(2) A 17/A. § (1) bekezdése szerinti kapcsolattartás során tett nyilatkozatot úgy kell tekinteni, mintha azt az ügyfél személyes jelenlét útján tette volna meg. A technológiai feltételek rendelkezésre állása esetén az ügyfél a 17/A. § (1) bekezdése szerinti kapcsolattartás során a 17. § (1) bekezdése szerinti nyilatkozatot is tehet.
+
+(3) A 17/A. § (1) bekezdése szerinti kapcsolattartás útján olyan ügy is intézhető, amelyet jogszabály alapján vagy az ügy jellege okán kizárólag személyesen lehet intézni. Ebben az esetben úgy kell tekinteni, mintha az ügyfél személyesen járt volna el.
+
+17/D. § Ezen alcímben foglaltak nem alkalmazhatóak a büntetőeljárás, a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló törvényben foglalt eljárások, a büntető ügyekben alkalmazható közvetítői tevékenységről szóló törvény szerinti eljárás, a szabálysértési eljárás, valamint a polgári perrendtartásról szóló törvény szerinti peres és nemperes eljárás során.
+
 ### IV. Fejezet — AZ ÜGYFÉL JOGAI ÉS KÖTELEZETTSÉGEI
 
 #### 9. Elektronikus azonosítási kötelezettség
@@ -424,6 +470,7 @@ követően végezhet elektronikus azonosításhoz kötött eljárási cselekmén
 - c) kapcsolattartási mód megválasztása, ideértve az ügyfél olyan tartalmú nyilatkozatait is, amely alapján az elektronikus ügyintézést biztosító szerv az ügyfél által megjelölt informatikai rendszer útján küldött üzenetet köteles az ügyfél nyilatkozatának tekinteni,
 - d) elektronikus dokumentumok titkosítására vonatkozó igény,
 - e) képviseletre vonatkozó jognyilatkozatok.
+- f) a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 20/T. § (3) bekezdése szerinti automatizált adatváltozás-bejelentési szolgáltatás igénybevétele.
 
 (2) Az ügyfél az elektronikus ügyintézési rendelkezésében
 
@@ -837,9 +884,28 @@ olyan technológiai megoldást kell alkalmazni, ami garantálja, hogy az ügyfé
 
 ### VII/A. Fejezet — EGYES E-ÜGYINTÉZÉSI SZOLGÁLTATÁSOK IGÉNYBEVÉTELE
 
-42/A. § (1) A törvényben vagy kormányrendeletben meghatározott szabályozott elektronikus ügyintézési szolgáltatások, a központi elektronikus ügyintézési szolgáltatások és a központi állami szolgáltatások – a Kormány rendeletében meghatározott módon – az elektronikus ügyintézést nem biztosító szerv által is igényelhetőek.
+42/A. § (1) Törvényben vagy kormányrendeletben meghatározott, a Kormány által biztosított
+
+- a) szabályozott elektronikus ügyintézési szolgáltatás, központi elektronikus ügyintézési szolgáltatás a Kormány rendeletében meghatározott feltételek mellett az elektronikus ügyintézést biztosító szervnek nem minősülő, ellátó szerv által közérdek teljesítése céljából igényelhető,
+- b) szabályozott elektronikus ügyintézési szolgáltatás, központi elektronikus ügyintézési szolgáltatás, valamint egyéb, informatikai, hálózati és infrastrukturális közszolgáltatás elektronikus ügyintézést biztosító szervnek nem minősülő szerv által a Kormány rendeletében meghatározott feltételekkel és az eredeti közszolgáltatáshoz képest a Kormány rendeletében meghatározott eltérésekkel és korlátozásaival piaci szereplők részére nyújtható központi állami szolgáltatásként igényelhető.
 
 (2) Az e törvény végrehajtására kiadott rendeletben meghatározott piaci szereplők által az (1) bekezdésben meghatározott, ellenszolgáltatás mellett igénybe vehető szolgáltatások esetén, a piaci szolgáltató más igénybevevők részére történő szolgáltatás nyújtása során az (1) bekezdésben meghatározott szolgáltatások továbbszolgáltatásáért ellenszolgáltatásra nem tarthat igényt.
+
+(3) Az (1) bekezdés b) pontja szerinti esetben szabályozott elektronikus ügyintézési szolgáltatással vagy központi elektronikus ügyintézési szolgáltatással – a Kormány rendeletében meghatározott eltérésekkel – azonos technikai tartalmú piaci szereplők részére nyújtható központi állami szolgáltatás esetében a személyes adatok kezelése tekintetében a központi állami szolgáltatásra a 22. alcím rendelkezéseit kell alkalmazni azzal, hogy a 22. alcím alkalmazása során szabályozott elektronikus ügyintézési szolgáltatás vagy központi elektronikus ügyintézési szolgáltatás helyett központi állami szolgáltatást kell érteni.
+
+(4) A Kormány által biztosított elektronikus azonosítási szolgáltatás vagy – a Kormány rendeletében meghatározott eltérésekkel – azzal azonos tartalmú piaci szereplők részére nyújtható központi állami szolgáltatás igénybevétele során, az azonosítás folyamata és eredményessége biztosítása érdekében kezeli azon személyes adatokat, amelyek a szolgáltatás igénybevételéhez elengedhetetlenül szükségesek.
+
+(5) A szabályozott elektronikus ügyintézési szolgáltatás, központi elektronikus ügyintézési szolgáltatás, valamint a piaci szereplők részére nyújtható központi állami szolgáltatás (e § alkalmazásában a továbbiakban együtt: Szolgáltatás) e fejezet szerinti igénybevétele feltételeinek, a Szolgáltatásra vonatkozó jogszabályokban előírt jogok és kötelezettségek teljesítését a Felügyelet a IX. Fejezet szerint ellenőrzi azzal, hogy a felügyeleti vizsgálat tekintetében a Szolgáltatást szabályozott elektronikus ügyintézési szolgáltatásnak, a Szolgáltatás igénybevevőjét elektronikus ügyintézést biztosító szervnek, a Szolgáltatás igénybevevőjével elektronikusan kapcsolatot tartó személyt vagy szervet ügyfélnek kell tekintetni.
+
+42/B. § (1) A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) 1. § (1) és (1a) bekezdése szerinti szolgáltató (a továbbiakban e § alkalmazásában: szolgáltató) részére, a szolgáltató kérelme esetén a Kormány által biztosított elektronikus ügyintézési szolgáltatások közül a központi azonosítási ügynök szolgáltatást, a Kormány által biztosított elektronikus azonosítási szolgáltatásokat, az összerendelési nyilvántartást és a központi kormányzati szolgáltatási buszt a Kormány által kijelölt szolgáltató a Pmt. szerinti ügyfél-átvilágítás (a továbbiakban: ügyfél-átvilágítás) céljára, közérdekből díjmentesen biztosítja.
+
+(2) A szolgáltató az ügyfél-átvilágítás során, az elektronikus azonosítás keretében az ügyfél nevét, születési nevét, anyja nevét, születési helyét és idejét a központi azonosítási ügynök szolgáltatáson és az összerendelési nyilvántartáson keresztül, a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény (a továbbiakban: Szaz. tv.) 10/E. §-a szerint gépi kapcsolat útján veszi át.
+
+(3) A (2) bekezdés szerinti adatszolgáltatást az állam az ügyfél-átvilágítás esetében díjmentesen biztosítja a szolgáltató számára.
+
+(4) A sikeres azonosítást követően a szolgáltató az ügyfél a Pmt. 7. § (2) bekezdés a) pont ac), af), ag) alpontja szerinti adatát, aláírását, valamint arcképmását a közhiteles hatósági nyilvántartásokból automatikus információátadással, díjmentesen veszi át.
+
+(5) A szolgáltató a Pmt. 7. § (2) bekezdés a) pont ag) alpontja szerinti adatot elsősorban a 31. § (2) bekezdése szerinti nyilvántartásból, ha az ügyfél ezen nyilvántartásban nem rögzített személyazonosításra alkalmas hatósági igazolvánnyal rendelkezik, az útiokmány-nyilvántartásból, ha az ügyfél útlevéllel sem rendelkezik, akkor a közúti közlekedési engedély-nyilvántartásából veszi át. A pénz- és hitelintézet az ügyfél személyazonosításra alkalmas hatósági igazolványához tartozó aláírás- és arcképmás-adatot veszi át.
 
 ### VIII. Fejezet — ELEKTRONIKUS ÜGYINTÉZÉST IGÉNYBE VEVŐ KÜLFÖLDI SZEMÉLYEK NYILVÁNTARTÁSA
 
@@ -891,6 +957,8 @@ olyan technológiai megoldást kell alkalmazni, ami garantálja, hogy az ügyfé
 - b) az azonosítást kérő számára igazolni tudja az adott személy személyazonosságát,
 - c) az azonosítást kérő rendelkezésére tudja bocsátani az adott személy azonosításához feltétlenül szükséges adatokat.
 
+(3a) A külföldi személyek nyilvántartásából az összerendelési nyilvántartáson keresztül a Szaz. tv. 10/E. és 10/F. §-ában meghatározott célból adat szolgáltatható, ha az adatok kezelésére az adatkezelő törvény felhatalmazása alapján jogosult.
+
 (4) Az (1) bekezdés szerinti szerv az ügyfél hozzájárulása nélkül a következő szervek részére adhatja meg az ügyfél általa kezelt adatait:
 
 - a) bíróságnak az előtte folyamatban lévő eljárásban részt vevő személyekre vonatkozó tényállítások helytállóságának, továbbá a bemutatott okirat adattartalma valódiságának ellenőrzése, valamint büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
@@ -898,6 +966,10 @@ olyan technológiai megoldást kell alkalmazni, ami garantálja, hogy az ügyfé
 - c) az ügyészségnek az ügyészségről szóló törvényben meghatározott közérdekvédelmi és törvényességi felügyeleti feladatainak ellátása, valamint a bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - d) a nemzetbiztonsági szolgálatnak a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
 - e) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervnek a terrorcselekmények vagy azzal összefüggésben elkövetett más bűncselekmények megelőzése, felderítése és megszakítása, továbbá kiemelt személyvédelmi feladatai ellátása céljából.
+
+45/A. § (1) A 45. § (3)–(4) bekezdése szerinti szervek a külföldi személyek nyilvántartásából díjmentesen igényelhetnek adatot.
+
+(2) Az ügyfél hozzájárulása esetén, valamint a 42/B. § (4) bekezdésében foglalt esetben az (1) bekezdésben meg nem jelölt szerv számára igazgatási szolgáltatási díj megfizetése ellenében szolgáltatható adat.
 
 ### IX. Fejezet — AZ ELEKTRONIKUS ÜGYINTÉZÉS FELÜGYELETE
 
@@ -1787,7 +1859,7 @@ kell biztosítani.
 105. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - a) az elektronikus ügyintézés és az elektronikus kapcsolattartás részletes szabályait,
-- b) az elektronikus ügyintézési szolgáltatásnak és a központi elektronikus ügyintézési szolgáltatásnak az elektronikus ügyintézést nem biztosító szerv által történő felhasználása feltételeit, a felhasználás során a Felügyelet feladatát és eljárását, valamint a szolgáltatás használatáért számítható díj megállapításának módját,
+- b) a szabályozott elektronikus ügyintézési szolgáltatásnak és a központi elektronikus ügyintézési szolgáltatásnak, valamint piaci szereplők részére nyújtható központi állami szolgáltatásnak az elektronikus ügyintézést nem biztosító szerv által történő felhasználása feltételeit, az ilyen felhasználás során a Felügyelet feladatát és eljárását, az ebben az esetben a szolgáltatás használatáért számítható díj megállapításának módját, a piaci szereplők részére nyújtható központi állami szolgáltatások technikai tartalmú eltéréseit, továbbá a piaci szereplők részére nyújtható központi állami szolgáltatások nyújtása korlátozásának feltételeit.
 - c) e törvényben nem meghatározott szabályozott és központi elektronikus ügyintézési szolgáltatásokat, ezek részletes követelményeit, a szolgáltatásnyújtás részletes eljárási rendjét, a szolgáltatás igénybevételének részletes szabályait, a szabályozott elektronikus ügyintézési szolgáltatásnyújtásra vonatkozó szervezési és a szolgáltató által teljesítendő személyi és pénzügyi feltételeket, a szabályozott elektronikus ügyintézési szolgáltatás bejelentésével, valamint a Felügyelet általi bírság kiszabásával kapcsolatos rendelkezéseket és a bírság mértékét,
 - d) az elektronikus ügyintézést biztosító szerv azonosításával kapcsolatos részletes követelményeket,
 - e) az elektronikus kapcsolattartási módokra vonatkozó részletes szabályokat,
@@ -1806,6 +1878,7 @@ kell biztosítani.
 - r) a központi tárhely használatára kötelezett és a tárhelyszolgáltató együttműködésének a szabályait, illetve a központi tárhely igénybevételének a szabályait,
 - s) az Egységes Digitális Kapuhoz való csatlakozással és annak működtetésével kapcsolatos részletszabályokat.
 - t) a bizalmi szolgáltatások esetében a személyes jelenléttel egyenértékű biztosítékot nyújtó, nemzeti szinten elismert egyéb azonosítási módszereket.
+- u) a 108. § (8) bekezdése szerinti időpontot.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 
@@ -1817,6 +1890,7 @@ kell biztosítani.
 - f) a tárhelyszolgáltatót.
 - g) a 35. § (15a) bekezdése szerinti szervet,
 - h) az elektronikus ügyintézési pont működtetőjét.
+- i) a 17/A. § (1) bekezdése szerinti rendszert biztosító szervet.
 
 (3) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
@@ -1903,9 +1977,9 @@ kell biztosítani.
 
 (7) E törvény hatálybalépését követően elektronikus ügyintézés céljából az elektronikus ügyintézést biztosító szervek kizárólag olyan új informatikai rendszereket állíthatnak működésbe, amelyek e törvény szerinti elektronikus ügyintézésre alkalmasak.
 
-(8)
+(8) A 42/B. §-ban foglaltakat a Kormány rendeletében meghatározott időpontig a Pmt. 1. § (1) bekezdés a) és b) pontja szerinti szolgáltatókra lehet csak alkalmazni.
 
-(9)
+(9) A 31. § (2) bekezdés b) pontja szerinti nyilvántartás a 42/B. § (4) bekezdése szerinti adatokat automatikus információátadással 2023. január 1-jétől szolgáltatja.
 
 (10)
 

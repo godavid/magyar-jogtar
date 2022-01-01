@@ -64,6 +64,11 @@ Magyarország Országgyűlése a magyar mozgóképkultúra értékeinek gyarapí
 - 31. közterület: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 13. pontja szerinti földterület;
 - 32. kiemelt nemzeti emlékhely: a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 7. § 8. pontja szerinti emlékhely.
 - 33. műpéldány: a filmalkotást vagy egyéb szerzői jogi védelem alatt álló művet, annak azonosítására alkalmas formában tartósan rögzítő hordozó.
+- 34. belföldi magánszemély:
+  - a) az a magyar állampolgár, aki rendelkezik Magyarország területén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel és életvitelszerűen Magyarország területén lakik;
+  - b) az az EGT-állampolgár, illetve családtagja, aki rendelkezik Magyarország területén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel és életvitelszerűen Magyarország területén lakik;
+  - c) az a harmadik országbeli állampolgár, aki EK vagy nemzeti letelepedési engedéllyel rendelkezik és életvitelszerűen Magyarország területén lakik.
+- 35. életvitelszerűség: életvitelszerűen Magyarország területén lakik az a magyar, EGT-állampolgár, vagy harmadik országbeli állampolgár, aki a 31/B. § (2a) bekezdése szerinti gyártási időszak (előkészítés) kezdetének napját megelőző hároméves időszakban Magyarország területén megszakítás nélkül bejelentett lakóhellyel rendelkezik.
 
 ### 3. CÍM
 
@@ -1157,7 +1162,7 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
   - bc) az adózás előtti eredmény terhére elszámolt adókötelezettségek teljesítésével keletkezett, ideértve a számlában feltüntetett, a számla kibocsátója által fizetendő adókötelezettséget is, így különösen az előzetesen felszámított, nem levonható általános forgalmi adó vagy egyéb, számlában feltüntetett fogyasztást terhelő és nem visszaigényelhető adó, és
 - c) amely megfelel a 31/E. § (2)–(10) bekezdésében foglalt feltételeknek.
 
-(1a) Az (1) bekezdés ba) alpontja szerinti, magánszemély javára teljesített olyan javadalmazások esetén, amelyek az Szja tv., vagy az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerinti adó-, vagy közteher-kötelezettség alá eső filmgyártási és filmgyártás-előkészítési költség vagy ráfordítás formájában merülnek fel, magánszemélyenként tizenkétmillió forintig a javadalmazás 100%-a számolható el közvetlen magyar filmgyártási költségként; ennél nagyobb összegű javadalmazás esetén közvetlen magyar filmgyártási költségként a javadalmazás tizenkétmillió forint feletti részének 50%-a számolható el.
+(1a) Az (1) bekezdés b) pont ba) alpontja szerinti, nem belföldi magánszemély javára teljesített olyan javadalmazások esetén, amelyek az Szja tv., vagy az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerinti adó- vagy közteher-kötelezettség alá eső filmgyártási és filmgyártás-előkészítési költség vagy ráfordítás formájában merülnek fel, magánszemélyenként hárommillió forintig a javadalmazás 100%-a számolható el közvetlen magyar filmgyártási költségként. Ennél nagyobb összegű javadalmazás esetén közvetlen magyar filmgyártási költségként a javadalmazás hárommillió forint feletti részének 50%-a számolható el.
 
 (2) Az (1) és (1a) bekezdésben meghatározottakon túl közvetlen magyar filmgyártási költségként számolható el a filmgyártásban közvetlenül közreműködő, a 31/B. § (2a) bekezdés g) pontja szerint bejelentett külföldi előadóművészek és stábtagok javadalmazása költségének 100%-a magánszemélyenként hárommillió forintig, valamint ennél nagyobb összegű javadalmazás esetén a magánszemélyenként hárommillió forintot meghaladó rész 50%-a, akkor is, ha a javadalmazás költsége nem a filmelőállító vagy a filmgyártó vállalkozás könyveiben merül fel. A közvetlen magyar filmgyártási költségként történő elszámolás feltétele, hogy az így keletkezett jövedelmet az Szja tv. alapján Magyarországon adókötelezettség terheli, és a javadalmazás teljes összegéből megállapított jövedelmet terhelő adót (adóelőleget) a kifizető a kifizetéskor a jogszabályoknak megfelelően levonta és az állami adóhatóságnak befizette, vagy kifizető hiányában a magánszemély a javadalmazás teljes összegéből megállapított jövedelmét terhelő adót (adóelőleget) az állami adóhatóságnak befizette. Az adó megfizetését a filmelőállító vagy filmgyártó vállalkozás köteles hitelt érdemlően igazolni.
 
@@ -1168,6 +1173,8 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 (5) A belföldi szállító által kiállított számla és egyéb belföldi költség magyar filmgyártási költségnek minősül, és csak e § szerint számolható el.
 
 (6) A Hatóság indokolt esetben a hatósági ellenőrzést kiterjesztheti a közbenső szerződő felekre, illetve alvállalkozókra, valamint érintett jogviszonyaikra annak érdekében, hogy a hatósági ellenőrzés hatálya alá a szolgáltatás tényleges teljesítője is bevonható legyen.
+
+(7) A költségellenőrzési eljárás során a 2. § 35. pontja szerinti magyarországi életvitelszerű tartózkodást a filmelőállító vagy filmgyártó vállalkozás magyar állampolgár esetében a magánszemély erre vonatkozó nyilatkozatával vagy a legalább hároméves belföldi tartózkodást alátámasztó lakcímet igazoló hatósági igazolvány másolatával, EGT-állampolgár (kivéve a magyar állampolgár), illetve családtagja esetében a regisztrációs igazolás vagy az állandó tartózkodási kártya másolatával, harmadik országbeli állampolgár esetében az EK vagy nemzeti letelepedési engedély másolatával igazolja.
 
 31/G. § (1) Az NFI által nyújtott, valamint a 12. § (6) bekezdése szerinti megállapodások alapján más támogató által nyújtott támogatások esetén az NFI ellenőrzi a támogatások felhasználását, és a filmalkotás pénzügyi elszámolását, amelyről az NFI a 18. § (2) bekezdésében meghatározott, a Kormány által rendeletben kijelölt miniszter rendelete szerinti jegyzőkönyvet állít ki. A jegyzőkönyvet az NFI haladéktalanul megküldi a Hatóság részére. A Hatóságot a 31/C. § (1) bekezdésében foglalt támogatási igazolás, valamint költségellenőrzési eljárás tárgyában hozott hatósági döntésének NFI által vizsgált részében az NFI által benyújtott jegyzőkönyv tartalma köti, hatósági döntésében a jegyzőkönyvben foglaltaktól – a (2) bekezdésben foglaltak kivételével – nem térhet el.
 
@@ -1364,6 +1371,8 @@ kérelmére a közvetett támogatás igénybevételére jogosító támogatási 
 (2) A Televíziós Film Mecenatúra (a továbbiakban: Mecenatúra) és a Televíziós Filmkollégium jogutódja 2019. december 31. napjától az NFI. A jogutódlás és feladatátadás tárgyát képezi az átvett feladatok ellátásával összefüggő, a Mecenatúra mint önálló jogi személy által létrehozott valamennyi jogviszony, ideértve az NFI-nél e törvény szerinti támogatási feladatok ellátására az átadás-átvételt követően továbbfoglalkoztatottak foglalkoztatási jogviszonyát és a kapcsolódó munkáltatói jogok gyakorlását azzal, hogy a jogutódlás nem terjed ki az átvett feladatokhoz tartozó eszközállományra.
 
 36/P. § E törvénynek az egyes törvényeknek a mozgóképipar versenyképességének növelésével összefüggő módosításáról szóló 2020. évi CLXXVIII. törvénnyel (a továbbiakban: Módtv3.) megállapított 31/F. § (1a) bekezdését a Módtv3. hatálybalépését követően benyújtott, a támogatási jogosultság megállapítására irányuló kérelem alapján indult eljárásokban kell alkalmazni.
+
+36/Q. § E törvénynek az egyes pénzügyi és gazdasági tárgyú törvények módosításáról szóló 2021. évi CXXXV. törvénnyel módosított 31/F. § (1a) bekezdését a 2022. január 1-jén folyamatban lévő eljárásokban is alkalmazni kell.
 
 ### 2. CÍM — Felhatalmazó rendelkezések
 

@@ -32,8 +32,9 @@ Az Országgyűlés a hatékonyan működő, költségtakarékos, az adminisztrat
 - j) az Állambiztonsági Szolgálatok Történeti Levéltára,
 - k) a Szabályozott Tevékenységek Felügyeleti Hatósága,
 - l) a Közbeszerzési Hatóság,
-- m) a Nemzeti Választási Iroda és
-- n) a Nemzeti Emlékezet Bizottságának Hivatala.
+- m) a Nemzeti Választási Iroda,
+- n) a Nemzeti Emlékezet Bizottságának Hivatala és
+- o) az Országos Atomenergia Hivatal.
 
 (2) A különleges jogállású szervek szervezetét a szervet létrehozó törvény, vagy annak felhatalmazása alapján a különleges jogállású szerv alapító okirata vagy a különleges jogállású szerv szervezeti és működési szabályzata határozza meg.
 
@@ -405,7 +406,7 @@ a munkáltató – mérlegelése alapján – a köztisztviselő részére más 
 
 (8) A közszolgálati jogviszonynak a (7) bekezdés szerinti megszüntetése esetén a köztisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a köztisztviselővel.
 
-(9) Ha a rendőrségről szóló törvény lehetővé teszi, hogy a köztisztviselő szolgálati feladatainak törvényes ellátását a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv – törvényben meghatározott esetekben és módon – megbízhatósági vizsgálattal ellenőrizze, a közszolgálati jogviszony létesítésének és fenntartásának feltétele az ellenőrzéshez való hozzájárulás.
+(9) Ha a Rendőrségről szóló törvény lehetővé teszi, hogy a köztisztviselő szolgálati feladatainak törvényes ellátását a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv – törvényben meghatározott esetekben és módon – megbízhatósági vizsgálattal ellenőrizze, közszolgálati jogviszony azzal létesíthető, aki tudomásul veszi, hogy közszolgálati jogviszonyának fennállása alatt feladatai törvényes ellátását a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló törvény szerinti megbízhatósági vizsgálattal ellenőrizheti.
 
 (10) Csak különösen indokolt esetben nevezhető ki köztisztviselőnek az e törvényben meghatározott öregségi nyugdíjra való jogosultsággal rendelkező személy, erről a munkáltató a közszolgálati jogviszonyt létesíteni szándékozó személy kérelmére dönt.
 
@@ -939,6 +940,8 @@ Ha törvény rendelkezése folytán a munkáltató egésze vagy egy része (szer
 (1) A köztisztviselő jogviszonya megszüntetésekor, illetve megszűnésekor a feladataival kapcsolatos iratait köteles átadni és a különleges jogállású szervvel elszámolni. Az átadás-átvétel és az elszámolás feltételeit a munkáltató köteles biztosítani.
 
 (2) A jogviszony megszüntetésekor vagy megszűnésekor az utolsó munkában töltött napon, de legkésőbb tizenöt napon belül a köztisztviselő illetményét és egyéb járandóságait – a 64. § (13) bekezdésében foglaltak kivételével – részére ki kell fizetni, valamint ki kell adni a jogviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolásokat.
+
+(3) A közszolgálati jogviszony létesítésével és megszüntetésével összefüggésben a különleges jogállású szerv jogszabályban meghatározott feltételekkel igénybe veheti, és foglalkoztatottjai számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
 
 #### 45. § [Elhelyezkedési korlátozás]
 
@@ -2397,7 +2400,7 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 
 #### 98. § [A közszolgálati munkaszerződés]
 
-(1) A Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Szabályozott Tevékenységek Felügyeleti Hatósága, a Gazdasági Versenyhivatal és a Közbeszerzési Hatóság köztisztviselőjének közszolgálati jogviszonya a különleges jogállású szerv mint munkáltató és a köztisztviselő mint foglalkoztatott között közszolgálati munkaszerződéssel jön létre.
+(1) A Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Szabályozott Tevékenységek Felügyeleti Hatósága, a Gazdasági Versenyhivatal, az Országos Atomenergia Hivatal és a Közbeszerzési Hatóság köztisztviselőjének közszolgálati jogviszonya a különleges jogállású szerv mint munkáltató és a köztisztviselő mint foglalkoztatott között közszolgálati munkaszerződéssel jön létre.
 
 (1a) Az (1) bekezdés szerinti különleges jogállású szerv vezetőjének és helyettesének közszolgálati jogviszonya a különleges jogállású szervet létrehozó törvényben meghatározottak szerint jön létre.
 
@@ -2455,6 +2458,8 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 
 (5) A különleges jogállású szervnél foglalkoztatott munkavállaló munkaviszonyára a 16. § (7)–(13) bekezdését és a 17. § (4) bekezdését kell alkalmazni.
 
+(6) A munkaviszony létesítésével és megszüntetésével összefüggésben a különleges jogállású szerv jogszabályban meghatározott feltételekkel igénybe veheti, és munkavállalói számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
+
 ### XVII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 #### 103. § [Értelmező rendelkezések]
@@ -2510,6 +2515,8 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 (5) A 38. § (1) bekezdés g) pontja és a 39. § (2) bekezdés d) pontja alkalmazása szempontjából a köztisztviselő öregségi nyugdíjra a (2) bekezdés a)–c) pontjában szabályozott esetben jogosult.
 
 103/A. § Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a nemzeti szakértőként az Európai Unió, valamint a nemzetközi szervezet intézményeiben alkalmazott köztisztviselők jogviszonyára, sajátos jogállására vonatkozó részletes szabályokat.
+
+103/B. § Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a továbbképzés minősítési és nyilvántartási rendjére, tervezésére, a képzésfejlesztés és szolgáltatás feltételeire, a minőségirányítás rendjére, a továbbképzési kötelezettségre, a továbbképzés pénzügyi és intézményi feltételeire vonatkozó részletes szabályokat.
 
 #### 104. § [Hatálybalépés]
 

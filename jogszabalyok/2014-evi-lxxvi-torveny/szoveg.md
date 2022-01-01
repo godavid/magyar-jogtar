@@ -85,6 +85,7 @@ a következő törvényt alkotja:
 - 16. kutatóhely: alap-, illetve főtevékenységként vagy ahhoz kapcsolódóan kutatás-fejlesztési tevékenységet folytató intézmény, szervezeti egység vagy vállalkozás,
 - 16a. kutató-tudásközvetítő szervezet: jogi formájától vagy finanszírozási módjától függetlenül olyan szervezet, így különösen egyetem vagy kutatóintézet, technológiatranszfer-ügynökség, innovációs közvetítő, valós vagy virtuális együttműködést kínáló kutatásorientált szervezet, amelynek elsődleges célja a független tevékenységként végzett alapkutatás, alkalmazott kutatás vagy kísérleti fejlesztés, vagy e tevékenységek eredményeinek oktatása, közzététele vagy tudástranszfer útján széles körben történő terjesztése, azzal, hogy amennyiben gazdasági tevékenységet is végez, úgy a gazdasági tevékenységek finanszírozását, a gazdasági tevékenységekkel járó költségek és az abból származó bevételek elszámolását elkülönítve végzi,
 - 17. mikro-, kis- és középvállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: Kkv. tv.) 3. §-a szerinti mikro-, kis- és középvállalkozás,
+- 17a. nemzeti laboratórium: felfedező és kísérleti megközelítésű kutatásoknak új, nemzetközi dimenzióját nyitó, együttműködésen alapuló, intézményesülő, dinamikus színtér a kutatási eredmények társadalmi, gazdasági, környezeti hasznosítására,
 - 18. nonprofit közhasznú kutatóhely: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti közhasznú szervezetté minősített kutatóhely,
 - 19. projekt: meghatározott kutatás-fejlesztési feladat vagy innovációs folyamat végrehajtására irányuló tevékenység az abban érdekeltek által meghatározott terv alapján,
 - 19a. projektcsoport: a kérelmező által egy adóévben megvalósított és a kérelemben megjelölt azon projektek vagy projektrészek összessége, amelyeket a minősítés szempontjából egy egységnek kell tekinteni,
@@ -110,6 +111,7 @@ a következő törvényt alkotja:
 - i) a tudománypolitika koordinációjáért felelős miniszteren keresztül koordinálja a tudományos és technológiai diplomáciai tevékenységet,
 - j) közfinanszírozású támogatás útján támogatja az innovatív vállalkozásokat és az innovatív tevékenységet folytató gazdasági szereplőket,
 - k) a kutatás-fejlesztés és a technológiai innováció közfinanszírozású támogatásának eszközével ösztönzi a digitális ökoszisztéma fejlődését.
+- l) közfinanszírozású támogatás útján gondoskodik a nemzeti laboratóriumok hazai rendszerének kialakításáról és működésük támogatásáról.
 
 (2) A Kormány a kutatási-fejlesztés és az innováció közfinanszírozású támogatásával kapcsolatos feladatokat a tudománypolitika koordinációjáért felelős miniszter útján látja el.
 
@@ -174,7 +176,7 @@ a következő törvényt alkotja:
 
 (2) Az NKFI Alap rendeltetése kiszámítható és biztos forrást biztosítani a kutatás-fejlesztés és a gazdaságban hasznosuló innováció ösztönzésére és támogatására, lehetővé tenni a gazdaságban és a társadalmi élet egyéb területein hasznosuló kutatás és fejlesztés erősítését, a hazai és külföldi kutatási eredmények hasznosítását, erősíteni a nemzetközi kutatás-fejlesztési és innovációs együttműködéseket, fejleszteni a kutatás-fejlesztési és innovációs infrastruktúrát és annak körébe tartozó szolgáltató tevékenységeket.
 
-(3) Az NKFI Alap kezeléséért a tudománypolitika koordinációjáért felelős miniszter felelős, az NKFI Alap kezelő szerve a Kormány által kijelölt szerv. Az NKFI Alap Innovációs és Kutatási Alaprészből áll.
+(3) Az NKFI Alap kezeléséért a tudománypolitika koordinációjáért felelős miniszter felelős, az NKFI Alap kezelő szerve a Kormány által kijelölt szerv. Az NKFI Alap Innovációs, Kutatási és Nemzeti Laboratóriumok Alaprészből áll.
 
 #### 8. Az NKFI Alap bevételi forrásai és kiadásai
 
@@ -227,7 +229,7 @@ nyújtható.
 
 - a) a Kkv. tv. szerint mikro- vagy kisvállalkozásnak minősülő gazdasági társaság,
 - b) a Magyar Nemzeti Bank,
-- c) a Magyar Nemzeti Vagyonkezelő Zrt.,
+- c) a Magyar Nemzeti Vagyonkezelő Zrt. és a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság,
 - d) a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó, a fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaság,
 - e) a cégbejegyzés évében a jogelőd nélkül alapított gazdasági társaság és annak előtársasága,
 - f) a közhasznú nonprofit gazdasági társaság,
@@ -307,9 +309,10 @@ nyújtható.
 
 21. § (1) A kutatás-fejlesztési és innovációs támogatási programokban kitűzött célok megvalósítását rendszeresen értékelni kell. Az értékelést a támogató és a jogszabályban, támogatási szerződésben, támogatói okiratban meghatározott személy végzi. Az értékelés során figyelembe kell venni, hogy
 
-- a) a 11. alcím szerint nyújtott támogatások esetén az alapkutatási tevékenység finanszírozási modelljét a bizalmi elvre épülő, a bevont egyéni kutatói kiválósághoz, az elért teljesítményhez és a kutatás-fejlesztési eredmények minőségi és mennyiségi jellemzőihez, ezek társadalmi, gazdasági hatásához kötött értékeknek megfelelő, a kutatási programok finanszírozását hosszú távra, fenntartható módon, átfogó minőségbiztosítási rendszer keretében érvényesített támogatás határozza meg;
-- b) a 12. alcím szerint nyújtott támogatások esetén az alkalmazott kutatás és a kísérleti fejlesztés eredményeinek piaci, kereskedelmi hasznosítását tükröző értékelési szempontokat is szükséges alkalmazni;
-- c) a kutatás-fejlesztési infrastruktúrák értékelési szempontjait – külön erre vonatkozó fogalmi rendszer és értékelési módszertan alapján – a Kormány által kijelölt szerv által koordinált értékelő testület határozza meg.
+- a) a 11. alcím szerint nyújtott támogatások esetén az alapkutatási tevékenység finanszírozási modelljét a bizalmi elvre épülő, a bevont egyéni kutatói kiválósághoz, az elért teljesítményhez és a kutatás-fejlesztési eredmények minőségi és mennyiségi jellemzőihez, ezek társadalmi, gazdasági hatásához kötött értékeknek megfelelő, a kutatási programok finanszírozását hosszú távra, fenntartható módon, átfogó minőségbiztosítási rendszer keretében érvényesített támogatás határozza meg,
+- b) a 12. alcím szerint nyújtott támogatások esetén az alkalmazott kutatás és a kísérleti fejlesztés eredményeinek piaci, kereskedelmi hasznosítását tükröző értékelési szempontokat is alkalmazni kell,
+- c) a 12/A. alcím szerint nyújtott támogatások esetén a kutatás és a kísérleti fejlesztés eredményeinek társadalmi, gazdasági, környezeti hasznosítását, valamint a kialakított kutatás-fejlesztési együttműködések minőségét és mennyiségét tükröző értékelési szempontokat is alkalmazni kell,
+- d) a kutatás-fejlesztési infrastruktúrák értékelési szempontjait – erre vonatkozó fogalmi rendszer és értékelési módszertan alapján – a Kormány által kijelölt szerv által koordinált értékelő testület határozza meg.
 
 (2) A programértékelés költségeit az adott program forrásából kell elkülöníteni.
 
@@ -349,7 +352,7 @@ nyújtható.
 
 #### 11. Az NKFI Alap Kutatási Alaprészének terhére nyújtott támogatások
 
-24. § (1) Az NKFI Alap terhére finanszírozott kutatás-fejlesztési pályázatokhoz a következő célokra nyújtható támogatás:
+24. § (1) Az NKFI Alap Kutatási Alaprésze terhére a következő célokra nyújtható támogatás:
 
 - a) tudományos kutatási témákkal, területekkel kapcsolatos folyó ráfordításokra,
 - b) nemzetközi tudományos kutatásban való részvételre, nemzetközi tudományos együttműködés támogatására, ideértve a nemzetközi pályázatoknál érvényesülő utófinanszírozással összefüggő likviditási problémák áthidalásának támogatását is,
@@ -369,19 +372,21 @@ nyújtható.
 
 (4)
 
-25. § (1) Az NKFI Alap terhére finanszírozott kutatás-fejlesztési pályázat kiírásáról a tudománypolitika koordinációjáért felelős miniszter dönt. A pályázati kiírást a Kormány által kijelölt szerv teszi közzé, a pályázatokat a Kormány által kijelölt szervhez kell benyújtani.
+25. § (1) Az NKFI Alap Kutatási Alaprésze terhére finanszírozott pályázat kiírásáról a tudománypolitika koordinációjáért felelős miniszter dönt. A pályázati kiírást a Kormány által kijelölt szerv teszi közzé, a pályázatokat a Kormány által kijelölt szervhez kell benyújtani.
 
 (2) A pályázatokat formailag a Kormány által kijelölt szerv ellenőrzi, tartalmilag a Kormány által kijelölt szerv által felkért értékelő testületek, így különösen szakterületi kollégiumok értékelik. Az értékelő testületek tevékenységének támogatására – a testület javaslata alapján – a Kormány által kijelölt szerv által megbízott szakértői csoportok működhetnek. Az értékelésben – a Kormány által kijelölt szerv vezetője, az értékelő testület vagy a szakértői csoport felkérése alapján – közreműködhetnek továbbá a pályázók számára nem megismerhető személyazonosságú szakértők (a továbbiakban: anonim szakértők).
 
 (3) A Kormány által kijelölt szerv vezetője egy adott pályázati kiírás vonatkozásában dönthet úgy, hogy a pályázatok a (2) bekezdésben meghatározott rendtől eltérően kerülnek értékelésre.
 
-(4) A Kormány által kijelölt szerv vezetője az NKFI Alapból meghirdetett kutatás-fejlesztési pályázatok és finanszírozott támogatások kezelésének eljárásrendjéről normatív utasításban határoz.
+(4) A Kormány által kijelölt szerv vezetője az NKFI Alap Kutatási Alaprészéből meghirdetett pályázatok és finanszírozott támogatások kezelésének eljárásrendjéről normatív utasításban határoz.
 
-(5) A szakértői csoportok számát és összetételét úgy kell meghatározni, hogy a benyújtott pályázatok elfogulatlan, szakszerű és a pályázati kiírásban megadott határidőn belüli értékelése elvégezhető legyen. A kutatás-fejlesztési pályázatok értékelésében közreműködő értékelő testületek elnökei és tagjai, a szakértői csoportok tagjai és az anonim szakértők munkájukért díjazásban részesülhetnek. A díjazás feltételeit és összegét a Kormány által kijelölt szerv vezetője állapítja meg.
+(5) A szakértői csoportok számát és összetételét úgy kell meghatározni, hogy a benyújtott pályázatok elfogulatlan, szakszerű és a pályázati kiírásban megadott határidőn belüli értékelése elvégezhető legyen. Az NKFI Alap Kutatási Alaprészéből meghirdetett pályázatok értékelésében közreműködő értékelő testületek elnökei és tagjai, a szakértői csoportok tagjai és az anonim szakértők munkájukért díjazásban részesülhetnek. A díjazás feltételeit és összegét a Kormány által kijelölt szerv vezetője állapítja meg.
 
 (6) A nyertes pályázóval a Kormány által kijelölt szerv köt támogatási szerződést vagy ad ki támogatói okiratot.
 
-(7) A kutatás-fejlesztési pályázatra vonatkozó beszámolót a (2) bekezdés szerint kell ellenőrizni.
+(7) Az NKFI Alap Kutatási Alaprészéből meghirdetett pályázatra vonatkozó beszámolót a (2) bekezdés szerint kell ellenőrizni.
+
+(8) A Kormány által kijelölt szerv az NKFI Alap Kutatási Alaprésze terhére finanszírozott pályázatok értékelésében közreműködő értékelő testületek elnökei és tagjai, a szakértői csoportok elnökei és tagjai, valamint az anonim szakértők e törvény szerinti feladatai ellátásával összefüggésben megismert személyes adatait az adatkezelés céljának megvalósulásáig, de legkésőbb az érintettel létrejött jogviszonnyal kapcsolatos ügyiratok selejtezéséig vagy levéltárba adásáig kezeli.
 
 26. § (1) Ha a kutatás feltételeit valamely szervezet biztosítja, a Kormány által kijelölt szerv által nyújtott közfinanszírozású támogatás összegét a közszolgáltatások díjai, az üzemeltetési költségek és a szervezetnél az elnyert pályázat intézményi kezelésével összefüggő költség kivételével, a Kormány rendeletében meghatározottak szerint a kedvezményezett rendelkezési jogának biztosításával köteles a szervezet kezelni.
 
@@ -389,7 +394,7 @@ nyújtható.
 
 (3) A Kormány által kijelölt szerv által kötött támogatási szerződés, kiadott támogatói okirat időtartamán belül az eredetileg jóváhagyott támogatás maradványa a következő évre átvihető.
 
-27. § (1) Az NKFI Alapból pályázat útján elnyert közfinanszírozási támogatás felhasználásáról és a kutatómunka előrehaladásáról (ide nem értve az infrastruktúra-fejlesztésekre elnyert támogatásokat) a kedvezményezettnek a támogatási szerződésben előírt ütem szerint, de legalább évente be kell számolnia a Kormány által kijelölt szervnek, amely – szakértői vélemény alapján – dönt a beszámoló elfogadásáról és ennek megfelelően a közfinanszírozási támogatás további folyósításáról, szükség esetén a támogatási szerződés módosításáról vagy megszüntetéséről.
+27. § (1) Az NKFI Alapból pályázat útján elnyert közfinanszírozási támogatás felhasználásáról és a kutatómunka előrehaladásáról a kedvezményezettnek a pályázati kiírásban szereplő időtartamra figyelemmel, a támogatási szerződésben előírt ütem szerint, be kell számolnia a Kormány által kijelölt szervnek, amely – szakértői vélemény alapján – dönt a beszámoló elfogadásáról és ennek megfelelően a közfinanszírozási támogatás további folyósításáról, szükség esetén a támogatási szerződés módosításáról vagy megszüntetéséről.
 
 (2) A kutatás támogatási szerződés szerinti befejezésekor – a kedvezményezett által készített beszámoló alapján – a tevékenység eredményességét és a közfinanszírozású támogatás felhasználását szakértők értékelik.
 
@@ -401,7 +406,7 @@ nyújtható.
 
 #### 12. Az NKFI Alap Innovációs Alaprészének terhére nyújtott támogatások
 
-28. § Az NKFI Alap terhére a következő célokra nyújtható innovációs támogatás:
+28. § Az NKFI Alap Innovációs Alaprésze terhére a következő célokra nyújtható támogatás:
 
 - a) országos kutatás-fejlesztési és innovációs programokra,
 - b) a kutatás-fejlesztés és innováció eredményeinek hasznosításával kapcsolatos költségek fedezetének biztosítására,
@@ -418,9 +423,40 @@ nyújtható.
 - m) külföldi kutatási infrastruktúra működtetésére, fejlesztésére, ha szerződés garantálja, hogy annak szolgáltatásait magyarországi kutatóhelyek és vállalkozások is igénybe vehetik,
 - n) a Kormány döntése alapján nemzetközi együttműködés keretében kutatási infrastruktúra magyarországi létesítésére, valamint Magyarországon létrehozott kutatási infrastruktúra működtetésére, fejlesztésére.
 
-29. § (1) Az NKFI Alap terhére finanszírozott innovációs pályázatok kiírására, azok értékelésére, a támogatási döntés meghozatalára az NKFI Alap terhére finanszírozott kutatás-fejlesztési pályázatokra vonatkozó 25. §-ban meghatározott rendelkezések megfelelően alkalmazandók.
+29. § (1) Az NKFI Alap Innovációs Alaprésze terhére finanszírozott pályázatok kiírására, értékelésére, a támogatási döntés meghozatalára a 25. §-ban meghatározott rendelkezéseket kell alkalmazni.
 
-(2) A Kormány által kijelölt szerv az innovációs pályázatok értékelésében közreműködő értékelő testületek elnökei és tagjai, a szakértői csoportok elnökei és tagjai, valamint az anonim szakértők e törvény szerinti feladatai ellátásával összefüggésben megismert személyes adatait az adatkezelés céljának megvalósulásáig, de legkésőbb az érintettel létrejött jogviszonnyal kapcsolatos ügyiratok selejtezéséig vagy levéltárba adásáig kezeli.
+(2) A Kormány által kijelölt szerv az NKFI Alap Innovációs Alaprésze terhére finanszírozott pályázatok értékelésében közreműködő értékelő testületek elnökei és tagjai, a szakértői csoportok elnökei és tagjai, valamint az anonim szakértők e törvény szerinti feladatai ellátásával összefüggésben megismert személyes adatait az adatkezelés céljának megvalósulásáig, de legkésőbb az érintettel létrejött jogviszonnyal kapcsolatos ügyiratok selejtezéséig vagy levéltárba adásáig kezeli.
+
+#### 12/A. Az NKFI Alap Nemzeti Laboratóriumok Alaprészének terhére nyújtott támogatások
+
+29/A. § (1) Az NKFI Alap Nemzeti Laboratóriumok Alaprésze terhére nemzeti laboratórium létrehozatalára, fejlesztésére, tevékenységére, valamint működésére nyújtható támogatás.
+
+(2) Az NKFI Alap Nemzeti Laboratóriumok Alaprésze terhére a következő célokra nyújtható támogatás:
+
+- 1. több régiót érintő, stratégiailag fontos országos kutatás-fejlesztési, valamint innovációs programokra,
+- 2. ösztöndíjra, különös tekintettel fiatal kutatók tudományos tevékenységének elősegítésére,
+- 3. publikálási támogatásra, ideértve a kiadványkészítés költségeinek támogatását,
+- 4. a kutatáshoz szükséges szellemi termékekre, nyomtatott vagy elektronikus folyóiratokra, könyvekre, adatbázisokra, azok előfizetési díjaira, tartalmak beszerzésére, licencdíjra, felhasználási vagy hozzáférési költségre – ideértve a tudományos közleményekhez való szabad hozzáférést is,
+- 5. a kutatás-fejlesztés, valamint innováció területén nemzetközileg is elismert szervezetek, vállalkozások Magyarországra vonzására,
+- 6. a kutatás-fejlesztés és innováció eredményeinek hasznosításával kapcsolatos költségek fedezetének biztosítására,
+- 7. a kutatás-fejlesztés és innováció eredményeként született új tudományos és technológiai eredmények alkalmazásának elterjesztésére,
+- 8. a kutatás-fejlesztés és innováció infrastrukturális feltételeinek biztosítására és fejlesztésére, ideértve a nemzetközi kutatás-fejlesztési hálózatokhoz, infrastruktúrához való kapcsolódás megteremtésében és működtetésében történő részvételt,
+- 9. a tudományos kutatáshoz a szükséges műszerek, berendezések és más eszközök beszerzésére, bérlésére, hozzáférési díj biztosítására – ideértve a nemzetközi kutatási infrastruktúrákhoz való hozzáférés díját és költségeit is –, személyi kiadások és járulékaik, valamint dologi és felhalmozási kiadások finanszírozására,
+- 10. a kutatás-fejlesztést és innovációt erősítő szolgáltatások, innovációs hídképző és hálózatépítő tevékenységek, innovációs inkubátorházak létrehozásának támogatására,
+- 11. az innovációhoz kapcsolódó, az innovációt ösztönző kapcsolatok kialakulásának elősegítését célzó, az innovációs eredmények ismertetésére szolgáló konferenciák és rendezvények tartására, szakkiállítások rendezésére,
+- 12. az innováció ösztönzésére, valamint kutatás-fejlesztésre és innovációra irányuló tevékenységek folyó ráfordításaira,
+- 13. a nemzetközi innovációs, tudományos és technológiai együttműködés támogatására, ideértve a nemzetközi pályázatoknál érvényesülő utófinanszírozással összefüggő likviditási problémák áthidalásának támogatását,
+- 14. kutatás-fejlesztési és innovációs munkahelyek létrehozására, a kutatás-fejlesztés és az innováció emberi erőforrásainak biztosítására és fejlesztésére, a kutató-fejlesztői utánpótlás és képzés, tehetséggondozás, a kutató-fejlesztői, oktatói továbbképzés támogatására, a kutató-fejlesztők hazai és nemzetközi mobilitásának, tapasztalatcseréjének, valamint az elismert hazatérő kutatók magyarországi innovációs területen történő szakmai beilleszkedésének támogatására,
+- 15. a hazai és külföldi tudományos és technológiai ismeretek megszerzésére, azok gyakorlati alkalmazására,
+- 16. a szellemi tulajdon védelmére és hasznosítására,
+- 17. külföldi kutatási infrastruktúra működtetésére, fejlesztésére, ha szerződés garantálja, hogy annak szolgáltatásait magyarországi kutatóhelyek és vállalkozások is igénybe vehetik, valamint külföldi kutatási infrastruktúra szolgáltatásainak igénybevételére,
+- 18. nemzetközi együttműködés keretében kutatási infrastruktúra magyarországi létesítésére, valamint Magyarországon létrehozott kutatási infrastruktúra működtetésére, fejlesztésére.
+
+29/B. § (1) Az NKFI Alap Nemzeti Laboratóriumok Alaprésze terhére finanszírozott pályázatok kiírására, azok értékelésére, a támogatási döntés meghozatalára – a (2) bekezdésben meghatározott eltérésekkel – a 25. §-ban meghatározott rendelkezéseket kell alkalmazni.
+
+(2) A pályázatok és a közfinanszírozású támogatásban részesült projektek tartalmi értékelésére a Kormány által kijelölt szerv a tudománypolitika koordinációjáért felelős miniszter által meghatározott programirányítási rendszert működtet. A programirányítási rendszer szerinti testületek elnökét és tagjait a tudománypolitika koordinációjáért felelős miniszter jelöli ki. Az értékelésben a programirányítási rendszer szerinti testületek mellett – a Kormány által kijelölt szerv vezetőjének felkérése alapján – anonim szakértők közreműködhetnek.
+
+29/C. § A Kormány által kijelölt szerv a programirányítási rendszer szerinti testületek elnökei és tagjai, valamint az anonim szakértők e törvény szerinti feladatai ellátásával összefüggésben megismert személyes adatait az adatkezelés céljának megvalósulásáig, de legkésőbb az érintettel létrejött jogviszonnyal kapcsolatos ügyiratok selejtezéséig vagy levéltárba adásáig kezeli.
 
 #### 13. A szellemi alkotásokhoz fűződő jogok védelme, a szellemi alkotások hasznosításának támogatása
 

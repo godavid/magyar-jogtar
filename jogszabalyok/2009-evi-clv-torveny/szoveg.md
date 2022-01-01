@@ -273,6 +273,10 @@ biztonsági feltételeket.
 
 (5) Ha közigazgatási, bírósági, szabálysértési vagy egyéb hatósági eljárásban a titoktartásra kötelezettnek nemzeti minősített adatról kell nyilatkoznia, a titoktartási kötelezettség alól az adatot minősítő személy adhat felmentést.
 
+14/A. § (1) A nemzetközi együttműködés keretében végrehajtott katonai művelet, kiképzési feladat, haditechnikai bemutató és haditechnikai eszköz, hadfelszerelés alkalmazása, karbantartása, javítása során az érintett, minősített adatot kezelő Magyarországon települő honvédelmi szervezet a birtokában lévő és ezen tevékenységéhez feltétlenül szükséges minősített adatot és minősített adatot tartalmazó technikai eszközt külföldön is felhasználhatja.
+
+(2) A minősített adatot kezelő honvédelmi szervezet vezetője gondoskodik az (1) bekezdésben meghatározott esetben külföldön felhasználásra kerülő minősített adat és minősített adatot tartalmazó technikai eszköz védelméhez szükséges személyi, fizikai, adminisztratív és elektronikus biztonsági intézkedések megtervezéséről és alkalmazásáról.
+
 ### Minősített adat átadása
 
 15. § (1) Ha a minősített adatot kezelő szerv közreműködő segítségét veszi igénybe, és ehhez a közreműködőnek minősített adatot kell felhasználnia, – a minősítő eltérő rendelkezésének hiányában – a közreműködő részére a minősített adatot kezelő szerv vezetője adja ki a felhasználói engedélyt.
@@ -354,6 +358,8 @@ ad ki.
 
 - a) az általa minősített adat esetén a rendelkezési jogosultságok teljes körűen illetik meg,
 - b) a más minősítő által minősített adat esetén a (2) bekezdés a)–l) pontjában foglalt rendelkezési jogosultságok illethetik meg.
+
+(4) A minősített adatot kezelő honvédelmi szervezet vezetőjét és biztonsági vezetőjét – a 14/A. § szerinti esetben – a (2) bekezdés a)–l) és p) pontjában foglalt rendelkezési jogosultságok illetik meg.
 
 ### Egyéb védelmi kötelezettségek
 

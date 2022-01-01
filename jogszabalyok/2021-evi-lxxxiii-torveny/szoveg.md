@@ -68,7 +68,11 @@ egyes törvényeknek a szakképzéssel és a felnőttképzéssel összefüggő m
 
 29. §
 
-30. §
+30. § A szakképzésről szóló 2019. évi LXXX. törvény a következő 109/A. §-sal egészül ki:
+
+„109/A. § [A duális képzőhely által a szakirányú oktatáshoz igénybe vehető támogatás]
+
+A duális képzőhely a szociális hozzájárulási adóról szóló törvényben meghatározottak szerint jogosult a szakirányú oktatás arányosított önköltsége alapján igénybe vehető adókedvezmény érvényesítésére.”
 
 31. §
 
@@ -157,7 +161,7 @@ egyes törvényeknek a szakképzéssel és a felnőttképzéssel összefüggő m
 - 65.
 - 66.
 - 67.
-- 68.
+- 68. 109. § címében a „szakképzéshez biztosított támogatás” szövegrész helyébe a „szakképzésialapfeladat-ellátás fedezete” szöveg,
 - 69.
 - 70.
 - 71.
@@ -197,32 +201,32 @@ lép.
 - 14.
 - 15.
 - 16.
-- 17.
+- 17. 23. alcíme,
 - 18.
 - 19.
 - 20.
-- 21.
+- 21. 24. alcím címe,
 - 22.
 - 23.
 - 24.
-- 25.
+- 25. 123. § (2) bekezdés 45. pontjában az „ , illetve a 128. § (5) bekezdése tekintetében szakképesítésenként, részszakképesítésenként alkalmazandó és az alapnormatíva képzési területenként” szövegrész,
 - 26.
 - 27.
 - 28.
 - 29.
 - 30.
-- 31.
+- 31. 128. § (5)–(5b) bekezdése,
 - 32.
 
 ### II. Fejezet — EGYES KAPCSOLÓDÓ TÖRVÉNYEK MÓDOSÍTÁSA
 
-#### 3.
+#### 3. A szövetkezetekről szóló 2006. évi X. törvény módosítása
 
-40. §
+40. § A szövetkezetekről szóló 2006. évi X. törvény 12. § (2) bekezdésében a „szakképzési hozzájárulás teljesítése keretében” szövegrész helyébe a „foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalapból” szöveg lép.
 
-#### 4.
+#### 4. Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény módosítása
 
-41. §
+41. § Hatályát veszti az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 8. § (3) bekezdés a) pontjában a „ , szakképzési hozzájárulás” szövegrész.
 
 #### 5. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
@@ -236,33 +240,53 @@ lép.
 
 46. §
 
-#### 6.
+#### 6. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
 
-47. §
+47. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 44. §-a a következő (6) bekezdéssel egészül ki:
 
-48. §
+„(6) A hallgatóval e törvény alapján hallgatói munkaszerződést, gyakorlatigényes alapképzési szak esetében a felsőoktatási intézménnyel együttműködési megállapodást kötött kifizető a szociális hozzájárulási adóról szóló törvényben meghatározottak szerint jogosult a központi költségvetésről szóló törvényben meghatározott alapnormatíva képzési területenként alkalmazandó súlyszorzója alapján igénybe vehető adókedvezmény érvényesítésére.”
 
-49. §
+48. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 84/A. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-#### 7.
+„(3) A közfeladatot ellátó közérdekű vagyonkezelő alapítvány fenntartásában működő felsőoktatási intézmény az állami felsőoktatási intézménnyel azonos elv szerint jogosult támogatásra az általa fenntartott köznevelési intézményben ellátott köznevelési alapfeladatra és szakképző intézményben ellátott szakképzési alapfeladatra tekintettel. Az állami felsőoktatási intézmény ilyen támogatását a felsőoktatási intézmény költségvetésében elkülönítve kell megtervezni, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány fenntartásában működő felsőoktatási intézmény esetében pedig közfeladat-finanszírozási szerződéssel kell azt biztosítani. A köznevelési, illetve a szakképzési tevékenységhez az egyedi feladatok támogatása körében további támogatás biztosítható.”
 
-50. §
+49. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 110. § (1) bekezdése a következő 29. ponttal egészül ki:
 
-51. §
+(A Kormány felhatalmazást kap arra, hogy rendelettel szabályozza)
 
-#### 8.
+„29. az alapnormatíva képzési területenként alkalmazandó súlyszorzóját.”
 
-52. §
+#### 7. A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény módosítása
+
+50. § A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény 21. § (2) bekezdés a) pontjában a „ ,” szövegrész helyébe az „és” szöveg lép.
+
+51. § Hatályát veszti a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény
+
+- a) 9. § (1) bekezdés d) pontjában az „és a szakképzési hozzájárulás” szövegrész,
+- b) 21. § (2) bekezdés b) pontjában az „ , és” szövegrész,
+- c) 21. § (2) bekezdés c) pontja.
+
+#### 8. A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény módosítása
+
+52. § Hatályát veszti a pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény 58. § (1) bekezdés f) pont fc) alpontjában a „ , szakképzési hozzájárulást” szövegrész.
 
 #### 9. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
 53. §
 
-#### 10.
+#### 10. Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvény módosítása
 
-54. §
+54. § Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvény
 
-55. §
+- a) 250. § (5) bekezdésében a „(3)–(4)” szövegrész helyébe a „(3)” szöveg,
+- b) 250. § (8) bekezdésében a „(3)–(4)” szövegrész helyébe a „(3)” szöveg
+
+lép.
+
+55. § Hatályát veszti az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvény
+
+- a) 27. alcím címében az „és szakképzési hozzájárulási” szövegrész,
+- b) 250. § (4) bekezdése.
 
 #### 11. Az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény módosítása
 

@@ -17,6 +17,8 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 
 1/A. § A 3. § szerinti, illetve a Kormány által a 44. § (1) bekezdés e) pontja alapján kiadott rendelet szerinti államtudományi és közigazgatási, rendészeti, katonai, nemzetbiztonsági, valamint nemzetközi és európai közszolgálati képzések tekintetében oklevél kiadására az Egyetem jogosult.
 
+1/B. § Az Egyetem alaptevékenységként ellátja a közszolgálati tisztviselők és a kormányzati igazgatási szervek kormánytisztviselőinek képzését, továbbképzését, valamint jogszabályban vagy közjogi szervezetszabályozó eszközben részére meghatározott egyéb képzési és továbbképzési feladatokat.
+
 2. § Az e törvényben nem szabályozott kérdésekben a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) rendelkezéseit kell alkalmazni.
 
 3. § E törvény alkalmazásában
@@ -55,7 +57,7 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 - d)
 - e) a számviteli rendelkezések alapján elkészített éves beszámoló elfogadása,
 - f) fejlesztés indítása, továbbá
-- g) az Egyetem költségvetésének elfogadása.
+- g) az Egyetem elemi költségvetésének elfogadása.
 
 (2) A Fenntartó a döntési javaslatoknak az alapító okirattal és az ágazati humánpolitikai igényekkel való összhangját, egységességét, teljességét, törvényességét, hatékonyságnak való megfelelőségét vizsgálja.
 
@@ -75,7 +77,7 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 
 9/C. § A Tanácsadó Testület feladatai különösen
 
-- a) az Egyetem költségvetésének, képzési és kutatási programjának, a szervezeti és működési szabályzatának, a minőségfejlesztési programjának, az intézményfejlesztési tervének véleményezése, valamint
+- a) az Egyetem elemi költségvetésének, képzési és kutatási programjának, a szervezeti és működési szabályzatának, a minőségfejlesztési programjának, az intézményfejlesztési tervének véleményezése, valamint
 - b) az Egyetemre felvehető hallgatói létszám szakonkénti megosztására vonatkozó javaslattétel.
 
 9/D. § (1) A Tanácsadó Testület tagjainak a Tanácsadó Testületben végzett tevékenysége oktatási tevékenységnek minősül.
@@ -107,10 +109,10 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 13. § (1) Az Egyetemen munkakört, vezetői beosztást
 
 - a) közalkalmazott,
-- b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel,
-- c) a honvédek jogállásáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel, valamint
-- d) közszolgálati tisztviselő, kormánytisztviselő,
-- e) rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott
+- b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel vagy közalkalmazotti jogviszony keretében,
+- c) a honvédek jogállásáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel vagy közalkalmazotti jogviszony keretében,
+- d) közszolgálati tisztviselő, kormánytisztviselő kinevezéstől eltérő foglalkoztatás keretében,
+- e) rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott kinevezéstől eltérő foglalkoztatás keretében,
 - f) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) álló személy kirendeléssel vagy vezényléssel
 
 tölthet be.
@@ -265,7 +267,7 @@ hatósági bizonyítvánnyal igazolja.
 
 kezeli.
 
-23/A. § Az Egyetemre történő felvétel, illetve hallgatói jogviszony létesítésének feltétele lehet – az államtudományi és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás sajátosságaira figyelemmel –
+23/A. § Az Egyetemre történő felvétel, illetve hallgatói jogviszony létesítésének feltétele lehet – az államtudományi és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vagy a képzés sajátosságaira figyelemmel –
 
 - a) meghatározott nyelv meghatározott típusú és szintű tudása,
 - b) a magyarországi lakóhely,
@@ -341,7 +343,7 @@ kezeli.
 - c) a hallgató a tanulmányi kötelezettségét a tanulmányi és vizsgaszabályzatban megengedett mértéket meghaladóan önhibájából nem teljesítette,
 - d) a honvéd tisztjelölti jogviszonyra figyelemmel létesített hallgatói jogviszony esetén a honvéd tisztjelölti jogviszony megszűnt, vagy
 - e) a hivatásos jogviszony alapján létesített hallgatói jogviszony esetén a hivatásos jogviszony megszűnt,
-- f) adó- és vámhatósági szolgálati jogviszony alapján létesített hallgatói jogviszony esetén a szolgálati jogviszony megszűnt.
+- f) pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszony alapján létesített hallgatói jogviszony esetén a szolgálati jogviszony megszűnt.
 
 (3) Az Egyetem az elbocsátást köteles megindokolni. Az indokolásból az elbocsátás okának világosan ki kell tűnnie, továbbá szükség esetén az Egyetemnek kell bizonyítania, hogy az elbocsátás indoka valós és okszerű.
 
@@ -397,7 +399,7 @@ kezeli.
 - c) az egyéb személyi jellegű juttatások költségeit,
 - d) a (2) bekezdés kivételével az Egyetem teljes működésének költségeit a feladatellátás alapján,
 - e) a Fenntartó által jóváhagyott kutatási és fejlesztési programok támogatását,
-- f) a 13. § (1) bekezdés b) és c) pontja szerinti vezényelt vezetői állomány illetményének Fenntartó által meghatározott vezetői illetményre történő kiegészítés költségeit.
+- f) a 13. § (1) bekezdése szerinti vezényelt, kirendelt állomány illetményének egyetemi illetményre történő kiegészítése költségeit.
 
 (5) A hallgatói juttatások és a doktori képzésben résztvevők támogatása tekintetében a költségvetés tervezése során az Nftv.-ben meghatározott normatívákat kell alkalmazni.
 
@@ -405,7 +407,7 @@ kezeli.
 
 (7) Az Egyetem költségvetési forrásai terhére az Egyetem alapító okiratban meghatározott feladataival és alaptevékenységével összefüggésben támogatás, adomány és más ellenérték nélküli kötelezettség vállalható, valamint kifizetés teljesíthető.
 
-37. § A térítési díjból és a költségtérítésből befolyt összeget az Egyetem és az adott kar a szervezeti és működési szabályzatban meghatározott arányban jogosult felhasználni.
+37. §
 
 ### VII. Fejezet — A MINŐSÍTETT ADAT VÉDELME AZ EGYETEMEN
 

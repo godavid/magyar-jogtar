@@ -108,7 +108,17 @@ egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongaz
 
 12. §
 
-13. §
+13. § A sportról szóló 2004. évi I. törvény X/B. Fejezete a következő 76/H. §-sal egészül ki:
+
+„76/H. § (1) A nemzeti sportinformációs rendszerben nyilvántartott személyek azonosítása, valamint az e személyekre vonatkozó személyes adatok ellenőrzése és pontosítása céljából a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló törvény szerinti összerendelési nyilvántartás működtetője a természetes személy
+
+a) természetes személyazonosító adatai, valamint
+
+b) a társadalombiztosítási azonosító jele – regisztrált szabadidő-sportoló esetén továbbá az adóazonosító jele –
+
+összevetése útján, az összerendelési nyilvántartáson keresztül elektronikus úton, térítésmentesen, folyamatos automatikus adatátadással adatot szolgáltat a nemzeti sportinformációs rendszer részére.
+
+(2) Az összevetés eredményeként a nemzeti sportinformációs rendszerben kezelt személyes adatok tekintetében kimutatható eltérés, adatváltozás esetén a sportpolitikáért felelős miniszter az ilyen adatot az összevetés során átadott adatnak megfelelően – a nemzeti sportinformációs rendszerbe a pontosítást igénylő adatot szolgáltató szerv vagy személy külön értesítése nélkül – pontosítja.”
 
 14. §
 
@@ -122,7 +132,9 @@ egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongaz
 
 18. §
 
-19. §
+19. § Az állami vagyonról szóló 2007. évi CVI. törvény 26. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) A kizárólagos gazdasági tevékenység gyakorlására jogosult személyt vagy szervezetet az állami vagyon tekintetében megillető, az Nvtv. 12. § (3a) bekezdése szerinti kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jogra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.”
 
 20. §
 
@@ -130,21 +142,81 @@ egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongaz
 
 22. §
 
-23. §
+23. § Az állami vagyonról szóló 2007. évi CVI. törvény V. Fejezete a következő alcímmel egészül ki:
 
-24. §
+„A honvédelmi célra feleslegessé nyilvánított hadfelszerelések, haditechnikai eszközök és szakanyagok értékesítésének szabályai
 
-25. §
+39. § (1) A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében álló, a honvédelemért felelős miniszter döntése alapján honvédelmi célra feleslegessé nyilvánított hadfelszereléseket, haditechnikai eszközöket és szakanyagokat (e § alkalmazásában a továbbiakban együtt: ingóságok) – a központi költségvetésről szóló törvényben meghatározott értékhatárig – a vagyonkezelő a tulajdonosi joggyakorlóval kötött megbízási szerződés alapján az állam nevében és javára értékesítheti. Az értékesítéssel kapcsolatos feladatai ellátása érdekében a vagyonkezelő a Kormány által rendeletben kijelölt, az állam 100%-os tulajdonában álló gazdasági társaság (e § alkalmazásában a továbbiakban: gazdasági társaság) közreműködését veszi igénybe.
+
+(2) A gazdasági társaság az (1) bekezdés szerinti értékesítés során a vagyonkezelő megbízásából, a vagyonkezelő nevében ellátja az ingóságok értékesítésével összefüggő feladatokat, az értékesítési eljárás előkészítését és lefolytatását. A gazdasági társaság az értékesítési eljárás megindítása előtt megállapítja az ingóságok forgalmi értékét az állam érdekeinek figyelembevételével.
+
+(3) A gazdasági társaság közreműködésére vonatkozó részletes szabályokat, a gazdasági társaság értékesítési eljárással összefüggő feladatait, valamint az általa nyújtott szolgáltatásokért fizetendő díj mértékét a Kormány rendeletben állapítja meg.”
+
+24. § Az állami vagyonról szóló 2007. évi CVI. törvény 42/G. §-a a következő (3)–(12) bekezdéssel egészül ki:
+
+„(3) A kivezetésre szánt állami vagyon körébe tartozó követelések tekintetében a követelés nyilvántartási értékén vagy azt meghaladó értéken történő értékesítése és átütemezése mellett – a köztartozások fejében állami tulajdonba kerülő, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében vagyonelemként átvett követelések kivételével – az MVH a hosszú távú költségvetési hatásokra, így különösen a követelés érvényesítésére tett kísérletek eredményességére, az érvényesítéssel kapcsolatban közvetlenül vagy közvetve felmerült vagy várhatóan felmerülő költségekre, valamint azok megtérülésének várható idejére és mértékére figyelemmel jogosult a követelés
+
+a) nyilvántartási értéket el nem érő áron történő értékesítésére vagy
+
+b) részleges vagy teljes elengedésére, ideértve a kamat elengedését is.
+
+(4) Az MVH (3) bekezdés a) és b) pontja szerinti tevékenysége követelésről történő lemondásnak minősül.
+
+(5) Az MVH jogosult a kivezetésre szánt állami vagyon körébe tartozó követelések
+
+a) pályázat útján,
+
+b) az MVH által működtetett e célra létrehozott elektronikus értékesítési felületen vagy
+
+c) versenyeztetés mellőzésével
+
+történő értékesítésére.
+
+(6) A kivezetésre szánt állami vagyon körébe tartozó követelések értékesítésére – az (5) bekezdés c) pontja szerinti értékesítési mód kivételével – a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény vagy más törvény szerinti követelésvásárlási tevékenység végzésére jogosult pénzügyi intézmény részére kerülhet sor.
+
+(7) A kivezetésre szánt állami vagyon körébe tartozó követelés értékesítésére versenyeztetés mellőzésével akkor kerülhet sor, ha jogszabály rendelkezései vagy az ügylet egyéb körülményei a lehetséges vevő személyének megválasztását olyan jelentősen korlátozzák, hogy a versenyeztetésből származó előnyök nem biztosíthatóak.
+
+(8) A kivezetésre szánt állami vagyon körébe tartozó követelések értékesítése során az MVH csomagban történő értékesítést is alkalmazhat azzal, hogy csomagban történő értékesítés esetén csak az adott csomagban értékesítésre kerülő valamennyi követelésre együttesen vonatkozó ajánlat fogadható el.
+
+(9) Az MVH a követelés (3) bekezdés b) pontja szerinti elengedése esetén a követelés kötelezettjével megállapodást köt.
+
+(10) A kivezetésre szánt állami vagyon körébe tartozó követelésekkel kapcsolatos feladatokra, így különösen a követelés (3) bekezdés a) és b) pontja szerinti értékesítésére és elengedésére, valamint az (5) bekezdés szerinti értékesítési módokra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
+
+(11) Az MVH a kivezetésre szánt állami vagyon körébe tartozó követelésekkel kapcsolatos feladatok ellátására vonatkozó részletes szabályokról követeléskezelési szabályzatot készít, amelynek része az MVH által alkalmazható engedménypolitika.
+
+(12) A kivezetésre szánt állami vagyon körébe tartozó követelések tekintetében a 42/H–42/O. §-ban foglalt rendelkezések nem alkalmazhatóak.”
+
+25. § Az állami vagyonról szóló 2007. évi CVI. törvény 42/H. §-a a következő (9) és (10) bekezdéssel egészül ki:
+
+„(9) Az MVH tulajdonosi joggyakorlása alá tartozó, művelés alól kivett védett természeti terület értékesítésére akkor van lehetőség, ha
+
+a) az adott ingatlan közvetlenül határos azzal a magántulajdonban álló területtel, amelynek tulajdonosa a vételi ajánlatot benyújtotta az MVH részére és
+
+b) a védett természeti területek természetvédelmi kezeléséért felelős szerv az adott ingatlan tekintetében megállapította, hogy az ingatlan védettségi szintjének fenntartása annak állami tulajdonból való kikerülése esetén is biztosítható, és meghatározta ennek feltételeit.
+
+(10) Osztatlan közös tulajdonban álló védett természeti terület esetében az MVH tulajdonosi joggyakorlása alá tartozó tulajdoni hányad értékesítésére akkor van lehetőség, ha a földrészlet tekintetében az állam kisebbségi tulajdonostársnak minősül és olyan tulajdonostárstól érkezik a vételi ajánlat, aki az ajánlata megtételekor legalább 3 éve tulajdoni hányaddal rendelkezik.”
 
 26. §
 
-27. §
+27. § Az állami vagyonról szóló 2007. évi CVI. törvény 71. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+
+„(1a) Felhatalmazást kap a Kormány, hogy
+
+a) rendeletben jelölje ki a honvédelmi célra feleslegessé nyilvánított hadfelszerelések, haditechnikai eszközök és szakanyagok értékesítésében közreműködő 100%-os állami tulajdonban álló gazdasági társaságot, valamint
+
+b) rendeletben állapítsa meg a honvédelmi célra feleslegessé nyilvánított hadfelszerelések, haditechnikai eszközök és szakanyagok értékesítésében közreműködő gazdasági társaság közreműködésére vonatkozó részletes szabályokat, a gazdasági társaság értékesítési eljárással összefüggő feladatait, valamint a gazdasági társaság által nyújtott szolgáltatásokért fizetendő díj mértékét.
+
+(1b) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a kizárólagos gazdasági tevékenység gyakorlására jogosult személyt vagy szervezetet az állami vagyon tekintetében megillető, az Nvtv. 12. § (3a) bekezdése szerinti kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jogra vonatkozó részletes szabályokat.”
 
 28. §
 
 #### 12. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása
 
-29. §
+29. § A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 3. pontja helyébe a következő rendelkezés lép:
+
+[3. § (1) E törvény alkalmazásában]
+
+„3. forgalomképtelen nemzeti vagyon: az a nemzeti vagyon, amely az e törvényben meghatározott kivétellel nem idegeníthető el –, vagyonkezelői jog, kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből jogszabályban feljogosított szervek javára alapított használati jog, vezetékjog vagy ugyanezen okokból alapított szolgalom, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével – nem terhelhető meg, biztosítékul nem adható, azon osztott tulajdon nem létesíthető;”
 
 30. §
 
@@ -152,7 +224,29 @@ egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongaz
 
 32. §
 
-33. §
+33. § A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 12. §-a a következő (3a)–(3g) bekezdéssel egészül ki:
+
+„(3a) Az országos és helyi közutakkal és műtárgyaikkal kapcsolatos kizárólagos gazdasági tevékenység átengedésével összefüggő jogviszonyban, a kizárólagos gazdasági tevékenység gyakorlására jogosult személyt vagy szervezetet a tevékenység végzése céljából részére átadott, valamint a jogviszony alapján általa létrehozott, az állam vagy a helyi önkormányzat tulajdonába kerülő vagyontárgyon (e § alkalmazásában a továbbiakban: átengedett nemzeti vagyon) a törvény erejénél fogva működtetési jog illeti meg (a továbbiakban: kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog).
+
+(3b) A kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog létrejöttének időpontja a vagyontárgy kizárólagos gazdasági tevékenység gyakorlására jogosult részére történő átadásának napja. A kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog létrejöttének napjával az átengedett nemzeti vagyonon fennálló vagyonkezelői jog e törvény erejénél fogva megszűnik.
+
+(3c) Az átadásról jegyzőkönyvet kell készíteni (átadás-átvételi jegyzőkönyv), amely tartalmazza:
+
+a) az átadó és az átvevő azonosító adatait,
+
+b) az átadás jogcímeként a jogszabályhely feltüntetésével azt, hogy az átadás az e törvény alapján a jogosultat megillető kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog alapján történik,
+
+c) az átengedett nemzeti vagyon azonosító adatait,
+
+d) a kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog szerződés szerinti időtartamát.
+
+(3d) A kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog gyakorlása során az arra jogosult nem terjeszkedhet túl a kizárólagos gazdasági tevékenység átengedése alapjául szolgáló szerződésen. Az állami tulajdonosi joggyakorlóval szemben a kizárólagos gazdasági tevékenységet ellátó személyt vagy szervezetet az átengedett nemzeti vagyonra vonatkozóan beszámolási, nyilvántartási és adatszolgáltatási kötelezettség terheli.
+
+(3e) Ingó vagyontárgy esetén a kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jogot a vagyontárgyra vonatkozó jog fennállását tanúsító közhiteles nyilvántartásba is be kell jegyezni.
+
+(3f) A kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog megszűnik a kizárólagos gazdasági tevékenység átengedésével összefüggő jogviszony megszűnésével.
+
+(3g) A kizárólagos gazdasági tevékenység gyakorlására jogosult a csődeljárásról és a felszámolási eljárásról szóló törvény hatálya alá tartozó gazdálkodó szervezetnél a kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog és az e joggal érintett átengedett nemzeti vagyon nem része a csődeljárásról és a felszámolási eljárásról szóló törvény szerinti, a csődeljárás és felszámolási eljárás körébe tartozó vagyonnak.”
 
 34. §
 
@@ -160,7 +254,7 @@ egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongaz
 
 36. § A nemzeti vagyonról szóló 2011. évi CXCVI. törvény
 
-- a)
+- a) 6. § (1) bekezdésében a „vagyonkezelői jog,” szövegrész helyébe a „vagyonkezelői jog, kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog,”,
 - b)
 
 szöveg lép.

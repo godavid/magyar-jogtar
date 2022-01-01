@@ -73,7 +73,7 @@ A bírói függetlenség és pártatlanság alkotmányos elvének maradéktalan 
 - d) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
 - e) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől számított három évig,
 - f) aki büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll,
-- g) akit bíróként, ügyészként, kormánytisztviselőként, állami tisztviselőként, köztisztviselőként, közjegyzőként, ügyvédként, végrehajtóként, közalkalmazottként, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaként vagy rendvédelmi alkalmazottjaként, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban álló foglalkoztatottként, igazságügyi alkalmazottként, alügyészként, ügyészségi fogalmazóként, ügyvédjelöltként, közjegyzőhelyettesként fegyelmi eljárásban a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
+- g) akit bíróként, ügyészként, kormánytisztviselőként, állami tisztviselőként, köztisztviselőként, közjegyzőként, ügyvédként, végrehajtóként, egészségügyi alkalmazottként, közalkalmazottként, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaként vagy rendvédelmi alkalmazottjaként, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban álló foglalkoztatottként, igazságügyi alkalmazottként, alügyészként, ügyészségi fogalmazóként, ügyvédjelöltként, közjegyzőhelyettesként fegyelmi eljárásban a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
 - h) akinek a részére öregségi nyugdíjat, korhatár előtti ellátást vagy olyan más pénzbeli ellátást folyósítanak, amelyet a nyugdíjkorhatár betöltésekor hivatalból öregségi nyugdíjként kell továbbfolyósítani,
 - i) aki betöltötte a 90. § ha) alpontjában meghatározott életkort.
 
@@ -300,9 +300,9 @@ bírói tanácsa a pályázókat meghallgatja, és a pályázatokat az elért po
 
 (3) Ha a bíró szolgálati viszonya a 90. § g) vagy n) pontja alapján szűnt meg, és az ott megjelölt megbízatása megszűnését követő 30 napon belül kéri bíróvá történő ismételt kinevezését, őt kérelmére, pályázat kiírása nélkül a köztársasági elnök – az OBH elnökének javaslatára – a megszűnést megelőző kinevezésének megfelelően határozott vagy határozatlan időre bíróvá kinevezi. A bírót az OBH elnöke tényleges bírói álláshelyre, indokolt esetben pályázat nélkül tanácselnöki munkakörbe osztja be, illetve nevezi ki. A bírót a bírói szolgálati jogviszonya megszűnését megelőző utolsó tényleges bírói álláshelye szerinti vagy azzal legalább azonos szintű, lehetőleg a bíró lakóhelye szerinti bíróságra tényleges bírói álláshelyre kell beosztani. A bíró más szolgálati helyre a hozzájárulásával osztható be. A 90. § g) és n) pontjában megjelölt jogviszonyban eltöltött időt szolgálati időként kell figyelembe venni.
 
-24. § (1) A bíróság elnöke a határozott idő utolsó napját megelőző 90 nappal korábban beszerzi a határozott időre kinevezett bíró nyilatkozatát arról, hogy kéri-e a határozatlan időre történő bírói kinevezését.
+24. § (1) A munkáltatói jogkört gyakorló bírósági elnök a határozott idő utolsó napját megelőző 120 nappal korábban beszerzi a határozott időre kinevezett bíró nyilatkozatát arról, hogy kéri-e a határozatlan időre történő bírói kinevezését.
 
-(2) Ha a bíró kérte a határozatlan időre történő kinevezését, meg kell vizsgálni a bíró működésének teljes időtartama alatt végzett munkáját, feltéve, hogy az (1) bekezdésben megjelölt határidő megnyílta előtt tényleges bírói működésének időtartama – a 25. § (3) bekezdésben foglaltakra figyelemmel – a 18 hónapot meghaladta. A vizsgálatot az V. Fejezetben foglaltak megfelelő alkalmazásával kell lefolytatni azzal, hogy az elrendeléstől számított 30 napon belül be kell fejezni, és az értékelés során abban kell állást foglalni, hogy a bíró határozatlan idejű bírói kinevezésre alkalmas-e.
+(2) Ha a bíró kérte a határozatlan időre történő kinevezését, meg kell vizsgálni a bíró működésének teljes időtartama alatt végzett munkáját, feltéve, hogy az (1) bekezdésben megjelölt határidő megnyílta előtt tényleges bírói működésének időtartama – a 25. § (3) bekezdésében foglaltakra figyelemmel – a 18 hónapot meghaladta. A vizsgálatot és az értékelést az V. Fejezetben foglaltak megfelelő alkalmazásával kell lefolytatni azzal, hogy a vizsgálatot az elrendeléstől számított 45 napon belül be kell fejezni, és az értékelést a vizsgálat befejezésétől számított 30 napon belül el kell végezni. Az értékelés során abban kell állást foglalni, hogy a bíró határozatlan idejű bírói kinevezésre alkalmas-e.
 
 (3) Ha a bírót a határozatlan idejű kinevezésre alkalmasnak találták, a kinevezési javaslatot – pályázat kiírása nélkül – a harmadik év utolsó napját megelőző 30 napon belül kell a köztársasági elnökhöz felterjeszteni.
 
@@ -314,7 +314,7 @@ bírói tanácsa a pályázókat meghallgatja, és a pályázatokat az elért po
 
 (4)
 
-25/A. § A 24. § (2) bekezdése és a 25. § (2) bekezdése alkalmazása szempontjából az OBH-ba beosztás időtartama nem minősül tényleges bírói működésnek.
+25/A. § A 24. § (2) bekezdése és a 25. § (2) bekezdése alkalmazása szempontjából tényleges működés a tényleges bírói álláshelyen végzett feladatellátás azzal, hogy az egybefüggően 30 napot meghaladó keresőképtelenség, fizetés nélküli szabadság vagy szülési szabadság időtartama nem minősül tényleges bírói működésnek.
 
 #### 14. A bíró beosztása
 
@@ -372,7 +372,7 @@ beoszthatja.
 
 #### 16. A bíró kijelölése
 
-30. § (1) A közigazgatási ügyekben eljáró bírákat a törvényszék elnökének javaslatára az OBH elnöke jelöli ki.
+30. § (1) A közigazgatási ügyekben eljáró bírákat a törvényszék bíráinak tekintetében a törvényszék elnökének javaslatára, a Fővárosi Ítélőtábla bíráinak tekintetében a Fővárosi Ítélőtábla elnökének javaslatára az OBH elnöke jelöli ki.
 
 (1a) A munkaügyi ügyekben eljáró bírákat a törvényszék bírái tekintetében a törvényszék elnökének javaslatára, az ítélőtábla bírái tekintetében az ítélőtábla elnökének javaslatára az OBH elnöke jelöli ki.
 
@@ -728,7 +728,7 @@ történő rendelkezésre állás.
 
 (2) A bírósági vezető ítélkező munkáját e törvény szerint kell értékelni, amelynek elrendelésére a kinevező jogosult.
 
-66. § Az értékelést megalapozó vizsgálatnak – a jogerősen befejezett ügyek alapján – fel kell tárnia a bíró anyagi, eljárási és ügyviteli jogszabály-alkalmazási és tárgyalásvezetési gyakorlatát.
+66. § Az értékelést megalapozó vizsgálatnak – elsősorban a jogerősen befejezett ügyek alapján – fel kell tárnia a bíró anyagi, eljárási és ügyviteli jogszabály-alkalmazási és tárgyalásvezetési gyakorlatát.
 
 #### 32. Az értékelést elősegítő tevékenységi kimutatás
 
@@ -752,15 +752,19 @@ történő rendelkezésre állás.
 
 (2) A rendszeres értékelést megalapozó vizsgálatot a bíróság elnöke hivatalból rendeli el.
 
-(3) A soron kívüli értékelést megalapozó vizsgálatot a bíróság elnöke hivatalból, vagy a bíró beosztási helye és szakterülete szerint illetékes másodfokú (felülvizsgálati ügyekben eljáró) bíróság kollégiumvezetőjének kezdeményezésére rendeli el. Járásbírósági bíró esetében a járásbíróság elnöke is kezdeményezheti a vizsgálatot.
+(3) A soron kívüli értékelést megalapozó vizsgálatot a bíróság elnöke hivatalból, vagy a bíró beosztási helye és szakterülete szerint illetékes kollégiumvezetőnek vagy a bíró beosztási helye és szakterülete szerint illetékes fellebbviteli (felülvizsgálati ügyekben eljáró) bíróság kollégiumvezetőjének kezdeményezésére rendeli el. Járásbírósági bíró esetében a járásbíróság elnöke is kezdeményezheti a vizsgálatot.
+
+(3a) Soron kívüli vizsgálata a határozott időre kinevezett bírónak is elrendelhető.
 
 (4) Az értékelést megalapozó vizsgálat lefolytatásának elrendelését a bíróval írásban kell közölni.
 
 #### 35. A vizsgálat lefolytatása
 
-71. § (1) Az értékelést megalapozó vizsgálatot az elrendelésétől számított 60 napon belül be kell fejezni és az értékelést a befejezéstől számított 15 napon belül kell elvégezni.
+71. § (1) Az értékelést megalapozó vizsgálatot az elrendelésétől számított 60 napon belül be kell fejezni. Az értékelést a vizsgálat befejezésétől számított 45 napon belül kell elvégezni.
 
-(2) Az értékelést megalapozó vizsgálatot a bíró beosztási helye és szakterülete szerint illetékes kollégiumvezető vagy az általa kijelölt bíró folytatja le.
+(1a) A nemperes ügyeket intéző, valamint a tanácsba beosztott bíró tevékenységének az értékelésénél ezt a körülményt is figyelembe kell venni.
+
+(2) Az értékelést megalapozó vizsgálatot a bíró beosztási helye és szakterülete szerint illetékes kollégiumvezető vagy az általa kijelölt bíró (a továbbiakban együtt: vizsgáló) folytatja le. A vizsgáló személyéről a bírót haladéktalanul tájékoztatni kell.
 
 (3) A Kúriára beosztott bíró tevékenységét a Kúria elnöke értékeli az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény szabályai szerint.
 
@@ -770,29 +774,57 @@ történő rendelkezésre állás.
 
 (6) Az érintett szervhez beosztott bíró hivatali munkáját a beosztás szerinti szerv vezetője a beosztás szerinti szervnél szolgálatot teljesítő alkalmazottakra irányadó szabályok szerint értékeli.
 
-72. § (1) Járásbírósági bíró értékelése esetén a járásbíróság elnökét a vizsgálatot végző meghallgathatja.
+71/A. § (1) Vizsgálónak nem jelölhető ki a munkáltatói jogkör gyakorlójának, a bíró beosztási helye és szakterülete szerint illetékes kollégiumvezetőnek és a vizsgált bírónak a hozzátartozója, valamint az, akitől a vizsgálat tárgyilagos lefolytatása egyéb okból nem várható.
 
-(2) A bíró beosztási helye és szakterülete szerint illetékes kollégiumvezető vagy az általa kijelölt bíró a vizsgálathoz kiválasztja a szükséges ügyeket és az értékeléshez beszerzi a bíró
+(2) A vizsgáló haladéktalanul köteles bejelenteni, ha vele szemben az (1) bekezdésben meghatározott kizárási ok áll fenn. A bejelentést követően a bíró beosztási helye és szakterülete szerint illetékes kollégiumvezető új vizsgálót jelöl ki.
 
-- a) ügyeiről a vizsgált időszakban készült tanácselnöki feljegyzéseket,
-- b) éves tevékenységi kimutatását,
-- c) szakterülete szerint illetékes másodfokú (felülvizsgálati ügyekben eljáró) bíróság kollégiumvezetőjének a véleményét, a kúriai bíró kivételével,
-- d) kötelező képzéseken való részvételével kapcsolatos adatokat, továbbá
-- e) az OBH elnöke által szabályzatban meghatározott egyéb okiratokat, véleményeket, adatokat.
+(3) A vizsgált bíró a vizsgáló személyéről történő tájékoztatást követő 3 napon belül a vizsgálatot elrendelő bírósági elnöknél az elsőfokú szolgálati bírósághoz címezve írásban kizárási kérelmet nyújthat be, ha a vizsgálóval szemben az (1) bekezdésben meghatározott kizárási ok áll fenn.
 
-(2a) Ha a vizsgálatot a kollégiumvezető végzi, és személye megegyezik a (2) bekezdés c) pontja szerinti kollégiumvezetővel, a (2) bekezdés c) pont szerinti véleményt a vizsgálat irataihoz csatolja.
+(4) A kizárási kérelmet a vizsgálatot elrendelő bírósági elnök az arra vonatkozó nyilatkozatával és a vizsgálót kijelölő kollégiumvezető, valamint a vizsgáló nyilatkozatával együtt 3 munkanapon belül megküldi az elsőfokú szolgálati bíróságnak.
 
-(3) A bíró beosztási helye és szakterülete szerint illetékes kollégiumvezető vagy az általa kijelölt bíró a vizsgálat kezdeményezőjének, továbbá a kúriai bíró kivételével a bíró beosztása szerint illetékes fellebbviteli (felülvizsgálati ügyekben eljáró) bíróság kollégiumvezetőjének, a járásbírósági bíró esetén az ítélőtábla kollégiumvezetőjének előzetesen megküldi a vizsgálati jelentést és az értékelés tervezetét.
+(5) Az elsőfokú szolgálati bíróság a kizárási kérelmet a fegyelmi eljárás szabályainak megfelelő alkalmazásával folytatja le azzal, hogy
+
+- a) a kizárási kérelmet az előterjesztését követő 8 napon belül vizsgálóbiztos kijelölése és előzetes vizsgálat nélkül, az iratok alapján tanácsülésen bírálja el,
+- b) határozatát haladéktalanul közli a vizsgált bíróval, a vizsgálóval, a vizsgálatot elrendelő bírósági elnökkel és a vizsgálót kijelölő kollégiumvezetővel,
+- c) az elsőfokú határozattal szemben további jogorvoslatnak nincs helye.
+
+(6) Ha az elsőfokú szolgálati bíróság a kérelemnek helyt ad, a vizsgálót kijelölő kollégiumvezető haladéktalanul új vizsgálót jelöl ki.
+
+(7) Ha az (1) bekezdés szerinti kizárási ok a vizsgált bíró beosztási helye és szakterülete szerint illetékes kollégiumvezetővel szemben áll fenn, a kijelöléssel kapcsolatos feladatait a vizsgált bíró beosztási helye és szakterülete szerint illetékes kollégiumvezető-helyettes látja el.
+
+72. § (1) Járásbírósági bíró értékelése esetén a járásbíróság elnökét a vizsgáló meghallgathatja.
+
+(2) A vizsgáló a vizsgálathoz kiválasztja a szükséges ügyeket, a bíróság elnöke pedig a vizsgáló rendelkezésére bocsátja
+
+- a) a bíró ügyeiről a vizsgált időszakban készült tanácselnöki feljegyzéseket,
+- b) a bíró éves tevékenységi kimutatását,
+- c) a bíró ügyeit felülbíráló másodfokú tanácselnöki összefoglaló véleményeket, a kúriai bíró kivételével,
+- d) a bíró elhúzódó pertartamú ügyei következtében meghozott igazgatási intézkedéseket tartalmazó iratokat,
+- e) a bíró kötelező képzéseken való részvételével kapcsolatos adatokat, továbbá
+- f) az OBH elnöke által szabályzatban meghatározott egyéb okiratokat, véleményeket, adatokat.
+
+(3) A vizsgáló
+
+- a) a bíró beosztási helye és szakterülete szerint illetékes kollégiumvezetőnek – kivéve, ha ő maga a vizsgáló –,
+- b) a vizsgálat kezdeményezőjének,
+- c) – a kúriai bíró kivételével – a bíró beosztási helye és szakterülete szerint illetékes fellebbviteli (felülvizsgálati ügyekben eljáró) bíróság kollégiumvezetőjének,
+- d) – a járásbírósági bíró esetén – az ítélőtábla bíró szakterülete szerinti kollégiumvezetőjének
+
+előzetesen megküldi a vizsgálati jelentést és az értékelési javaslatot.
+
+(4) Ha a vizsgált időszakban a bíró tényleges működése több szakterületre vagy több ítélkezési szintre is kiterjed, a vizsgáló a vizsgálati jelentést és értékelési javaslatot a vizsgált bíró valamennyi szakterülete és ítélkezési szintje szerint illetékes kollégiumvezető részére is megküldi.
+
+(5) A kollégiumvezetők a vizsgálatra vonatkozó írásbeli véleményüket 8 napon belül küldik meg a bíróság elnökének.
 
 73. § Az értékeléshez szükséges ügyek kiválasztásának rendjét és a vizsgálat részletes szabályait az OBH elnöke szabályzatban határozza meg.
 
 #### 36. Az értékelés
 
-74. § (1) A bíróság elnöke a vizsgálati anyag és a beszerzett iratok, vélemények alapján összességében értékeli a bíró munkáját.
+74. § A bíróság elnöke a vizsgálati jelentés és az értékelési javaslat kézhezvételétől számított 15 napon belül a vizsgálati anyag és a beszerzett iratok, vélemények alapján elkészíti a bíró írásbeli értékelésének tervezetét, amelyben összességében értékeli a bíró munkáját.
+
+75. § (1) Az értékelés ismertetésének időpontja előtt legalább 15 nappal az írásbeli értékelés tervezetét a bírónak át kell adni. Az ismertetésen az értékelést elrendelő bíróság elnökén vagy elnökhelyettesén kívül részt vesz a vizsgált bíró és a vizsgáló, a vizsgált bíró beosztási helye és szakterülete szerint illetékes kollégiumvezető és annak a bíróságnak az elnöke, ahol a bíró szolgálatot teljesít. A vizsgált bíró legkésőbb az ismertetésen szóban és írásban észrevételt tehet. Az értékelést elrendelő bíróság elnöke az ismertetésen elhangzottakat is figyelembe véve közli az értékelést.
 
 (2) Az értékelésben csak tényszerűen megalapozott értékítéletek szerepelhetnek.
-
-75. § Az értékelés ismertetésének időpontja előtt legalább 15 nappal az írásbeli értékelést a bírónak át kell adni. Az ismertetésen az értékelést elrendelő bíróság elnökén vagy elnökhelyettesén kívül részt vesz a vizsgált és a vizsgálatot végző bíró, a vizsgált bíró szakterülete szerint illetékes kollégium vezetője és annak a bíróságnak az elnöke, ahol a bíró szolgálatot teljesít. A vizsgált bíró legkésőbb az értékeléskor szóban és írásban észrevételt tehet.
 
 76. § (1) Az értékelés eredményeként a bíró
 
@@ -804,7 +836,7 @@ történő rendelkezésre állás.
 
 értékelést kaphat.
 
-(2) A bíróság elnöke az értékelés eredményét írásban megindokolja, és azt a bírónak, valamint – a kúriai bíró kivételével – a bíró beosztása szerint illetékes fellebbviteli (felülvizsgálati ügyekben eljáró) bíróság kollégiumvezetőjének, a járásbírósági bíró esetén az ítélőtábla kollégiumvezetőjének megküldi.
+(2) A bíróság elnöke az értékelés eredményét írásban megindokolja, és azt a bírónak, valamint a bíró beosztási helye és szakterülete szerint illetékes kollégiumvezetőnek, továbbá – a kúriai bíró kivételével – a bíró beosztási helye és szakterülete szerint illetékes fellebbviteli (felülvizsgálati ügyekben eljáró) bíróság kollégiumvezetőjének, a járásbírósági bíró esetén az ítélőtábla bíró szakterülete szerinti kollégiumvezetőjének megküldi.
 
 77. § Ha a büntetőeljárásról szóló 1998. évi XIX. törvény szerinti kiemelt jelentőségű ügyekre, valamint a polgári perrendtartásról szóló 1952. évi III. törvény kiemelt jelentőségű perekre vonatkozó fejezete szerinti ügyet tárgyaló bíró az ezen ügyekre meghatározott törvényi határidőt önhibájából mulasztotta el, úgy e körülményt az értékelésnél figyelembe kell venni, és az értékelés eredményeként „alkalmas” értékelésnél magasabb minősítést nem kaphat.
 
@@ -812,7 +844,7 @@ történő rendelkezésre állás.
 
 #### 37. Jogorvoslat az értékelés eredményével szemben
 
-79. § Ha az értékelés eredményét vagy az annak írásbeli indokolásában kifejtetteket a bíró vagy a bíró beosztása szerint illetékes fellebbviteli (felülvizsgálati ügyekben eljáró) bíróság kollégiumvezetője, illetve a járásbírósági bíró esetén az ítélőtábla kollégiumvezetője vitatja – a 81. §-ban foglalt eset kivételével –, az értékelés eredményének kézhezvételét követő 30 napon belül jogorvoslatért az elsőfokú szolgálati bírósághoz fordulhat.
+79. § Ha az értékelés eredményét vagy az annak írásbeli indokolásában kifejtetteket a bíró, a bíró beosztási helye és szakterülete szerint illetékes kollégiumvezető, a bíró beosztási helye és szakterülete szerint illetékes fellebbviteli (felülvizsgálati ügyekben eljáró) bíróság kollégiumvezetője, illetve a járásbírósági bíró esetén az ítélőtábla bíró szakterülete szerinti kollégiumvezetője vitatja – a 81. §-ban foglalt eset kivételével –, az értékelés eredményének kézhezvételét követő 30 napon belül jogorvoslatért az elsőfokú szolgálati bírósághoz fordulhat.
 
 80. § Az értékeléssel – ideértve a bírósági vezetői értékelést is – szemben előterjesztett jogorvoslat elbírálása során az elsőfokú szolgálati bíróság a 84. és 85. §-ban foglalt eltérésekkel a fegyelmi eljárás szabályainak megfelelő alkalmazásával jár el. A jogorvoslat tárgyában hozott indokolt határozat ellen a fegyelmi határozatra vonatkozó szabályok szerint van helye fellebbezésnek és másodfokú eljárásnak.
 
@@ -830,7 +862,7 @@ történő rendelkezésre állás.
 
 84. § (1) A bíróság elnökének értesítése alapján az elsőfokú szolgálati bíróság kijelölt tanácsa megindítja az alkalmatlansági eljárást. Az alkalmatlansági eljárás megindítását követően a kijelölt vizsgálóbiztos lefolytatja az előzetes vizsgálatot.
 
-(2) A vizsgálóbiztos köteles a tényállás megállapításához szükséges valamennyi körülményt tisztázni. Ennek érdekében az eljárás alá vont bírót és az értékelő bírósági elnököt meghallgatja, beszerzi a bíró beosztása szerint illetékes fellebbviteli (felülvizsgálati ügyekben eljáró) bíróság kollégiumvezetője, illetve a járásbírósági bíró esetén az ítélőtábla kollégiumvezetője véleményét, tanúkat hallgathat ki, a bírói értékelés irataiba betekinthet. A bírák és a bíróság dolgozói kötelesek részére a szükséges tájékoztatást megadni.
+(2) A vizsgálóbiztos köteles a tényállás megállapításához szükséges valamennyi körülményt tisztázni. Ennek érdekében az eljárás alá vont bírót és az értékelő bírósági elnököt meghallgatja, beszerzi a bíró beosztási helye és szakterülete szerint illetékes kollégiumvezető, a bíró beosztási helye és szakterülete szerint illetékes fellebbviteli (felülvizsgálati ügyekben eljáró) bíróság kollégiumvezetője, illetve a járásbírósági bíró esetén az ítélőtábla bíró szakterülete szerinti kollégiumvezetője véleményét, tanúkat hallgathat ki, a bírói értékelés irataiba betekinthet. A bírák és a bíróság dolgozói kötelesek részére a szükséges tájékoztatást megadni.
 
 (3) Ha a kijelölt tanács megítélése szerint az értékelés homályos, hiányos, önmagával ellentétben állónak látszik, vagy helyességéhez egyébként nyomatékos kétség fér, a kijelölt tanács az értékelő bírósági elnököt és az eljárás alá vont bírót meghallgatja.
 
@@ -984,7 +1016,7 @@ gyakorolja.
 
 #### 44. Szolgálati bíróság
 
-101. § A bírák fegyelmi és az ezzel összefüggő kártérítési és személyiségi jogsértés miatti ügyeiben, a bírói álláspályázati eljárás során benyújtott kifogások elbírálása iránti eljárásban, továbbá a bíró munkájának szakmai értékelésével és vezetői munkájának értékelésével szemben előterjesztett jogorvoslati eljárásokban, az alkalmatlansági eljárásban, valamint a 42. § (6)–(8) bekezdése szerinti összeférhetetlenségi eljárásban a Budapest területén működő ítélőtábla mellett elsőfokú szolgálati bíróság (a továbbiakban: elsőfokú szolgálati bíróság), a Kúria mellett másodfokú szolgálati bíróság (a továbbiakban: másodfokú szolgálati bíróság; a továbbiakban együtt: szolgálati bíróság) jár el.
+101. § A bírák fegyelmi és az ezzel összefüggő kártérítési és személyiségi jogsértés miatti ügyeiben, a bírói álláspályázati eljárás során benyújtott kifogások elbírálása iránti eljárásban, továbbá a 71/A. § (3)–(6) bekezdése szerinti kizárási kérelem elbírálása iránti eljárásban, a bíró munkájának szakmai értékelésével és vezetői munkájának értékelésével szemben előterjesztett jogorvoslati eljárásokban, az alkalmatlansági eljárásban, valamint a 42. § (6)–(8) bekezdése szerinti összeférhetetlenségi eljárásban a Budapest területén működő ítélőtábla mellett elsőfokú szolgálati bíróság (a továbbiakban: elsőfokú szolgálati bíróság), a Kúria mellett másodfokú szolgálati bíróság (a továbbiakban: másodfokú szolgálati bíróság; a továbbiakban együtt: szolgálati bíróság) jár el.
 
 102. § (1) A szolgálati bíróság elnökét és tagjait a Kúria, az ítélőtáblák, valamint a törvényszékek illetékességi területén működő bírák közül az OBT nevezi ki. A szolgálati bíróság elnökhelyettesét az adott szolgálati bíróság elnöke nevezi ki.
 
@@ -1591,11 +1623,11 @@ százaléka.
 
 (6) Ha a bírót a tárgyév közben áthelyezik, cafetéria-juttatásra az egyes munkáltatóknál időarányosan jogosult. Ha a bíró a korábbi munkáltatónál az időarányos részt meghaladó értékű cafetéria-juttatást vett igénybe, visszafizetési kötelezettség nem terheli, azonban az időarányos részt meghaladó mértékkel az új munkáltatónál igénybe vehető cafetéria-juttatás értékét – legfeljebb az új munkáltatónál igénybe vehető juttatás mértékéig – csökkenteni kell.
 
-184. § (1) A bíró 25, 30, 35, illetve 40 év szolgálati idő után jubileumi jutalomra jogosult.
+184. § (1) A bíró 25, 30, 35, 40, illetve 45 év szolgálati idő után jubileumi jutalomra jogosult.
 
-(2) A jubileumi jutalom 25 év szolgálati idő után a bíró 2 havi, 30 év után a 3 havi, 35 év után négyhavi, 40 év után az 5 havi illetménye.
+(2) A jubileumi jutalom 25 év szolgálati idő után a bíró kéthavi, 30 év után háromhavi, 35 év után négyhavi, 40 év után öthavi, 45 év után hathavi illetménye.
 
-(3) A jubileumi jutalomra jogosító idők számítása során a bírói szolgálati viszonyban eltöltött időn kívül az ügyészségi szolgálati viszonyban, az igazságügyi alkalmazotti szolgálati jogviszonyban, az Alkotmánybíróság tagjaként, az országgyűlési biztosként, illetve az alapvető jogok biztosaként, az országgyűlési képviselőként, a nemzetiségi szószólóként, a főállású polgármesterként vagy főállású alpolgármesterként, az állami vezetőként, politikai felsővezetőként, a kormányzati szolgálati jogviszonyban, az állami szolgálati jogviszonyban, a közszolgálati jogviszonyban, a közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerveknél és a Magyar Honvédségnél szolgálati viszonyban, továbbá a foglalkoztatásra irányuló más jogviszonyban (munkaviszonyban, 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban stb.) eltöltött időt is figyelembe kell venni.
+(3) A jubileumi jutalomra jogosító idők számítása során a bírói szolgálati viszonyban eltöltött időn kívül az ügyészségi szolgálati viszonyban, az igazságügyi alkalmazotti szolgálati jogviszonyban, az Alkotmánybíróság tagjaként, az országgyűlési biztosként, illetve az alapvető jogok biztosaként, az országgyűlési képviselőként, a nemzetiségi szószólóként, a főállású polgármesterként vagy főállású alpolgármesterként, az állami vezetőként, politikai felsővezetőként, a kormányzati szolgálati jogviszonyban, az állami szolgálati jogviszonyban, a közszolgálati jogviszonyban, az egészségügyi szolgálati jogviszonyban, a közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerveknél és a Magyar Honvédségnél szolgálati viszonyban, továbbá a foglalkoztatásra irányuló más jogviszonyban (munkaviszonyban, 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban stb.) eltöltött időt is figyelembe kell venni.
 
 (4) A (3) bekezdésben foglaltakon kívül jubileumi jutalomra jogosító időnek számít az ügyvédi tevékenység, valamint a közjegyzői és a bírósági végrehajtói szolgálat időtartama is, kivéve az ügyvédi tevékenység, illetve a közjegyzői, valamint a bírósági végrehajtói szolgálat szünetelésének idejét.
 
@@ -1955,7 +1987,7 @@ a bíróság elnöke az ülnököt megválasztó képviselő-testületnél kezde
 
 #### 79. Az ülnök javadalmazása
 
-221. § (1) A munkaviszonyban, kormányzati szolgálati, állami szolgálati, közszolgálati vagy közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerveknél és a Magyar Honvédségnél szolgálati viszonyban, vagy foglalkoztatásra irányuló más jogviszonyban (szövetkezetnél munkaviszony jellegű jogviszonyban stb.) álló ülnököt ülnöki működésének időtartamára a távolléti díja illeti meg.
+221. § (1) A munkaviszonyban, kormányzati szolgálati, állami szolgálati, közszolgálati, egészségügyi szolgálati vagy közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerveknél és a Magyar Honvédségnél szolgálati viszonyban, vagy foglalkoztatásra irányuló más jogviszonyban (szövetkezetnél munkaviszony jellegű jogviszonyban stb.) álló ülnököt ülnöki működésének időtartamára a távolléti díja illeti meg.
 
 (2) Ha valamely jogszabályban biztosított juttatáshoz való jogosultság, illetve annak mértéke meghatározott munkateljesítménytől vagy a munkában eltöltött napok számától függ, az ülnöki működés időtartamát munkában töltött időként kell számításba venni.
 
@@ -2151,6 +2183,18 @@ kerülhet sor.
 
 232/S. § Az egyes törvényeknek a kézbesítéssel és az igazságügyi ágazati szabályozással összefüggő módosításáról szóló 2021. évi LI. törvénnyel megállapított 126. § (1) bekezdés b) pontját az e rendelkezés hatálybalépését megelőzően kiszabott, két fizetési fokozattal visszavetés fegyelmi büntetés alóli mentesítésre is alkalmazni kell, ha a mentesítésre korábban nem került sor.
 
+232/T. § E törvénynek az egyes igazságügyi tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXII. törvénnyel megállapított 24. § (1) és (2) bekezdését, valamint 25/A. §-át azon határozott időre kinevezett bíró esetében kell alkalmazni, akinek a határozott idejű kinevezése 2022. május 1. napját követően jár le. Azon bíró esetében, akinek a határozott idejű kinevezése 2022. május 1. napján vagy azt megelőzően jár le, a 24. § (1) bekezdése szerinti nyilatkozat beszerzésére, a tényleges működés megítélésére, a vizsgálatra és az értékelésre a 2021. december 31-én hatályos rendelkezéseket kell alkalmazni.
+
+232/U. § (1) Az OBH elnöke 2022. január 1. napját követően megállapítja az ítélőtáblán szükséges közigazgatási bírói létszámot és pályázatot írhat ki a közigazgatási ügyszakos bírói álláshelyek betöltésére, amely az egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2021. évi CXXXIV. törvény hatálybalépését követő első alkalommal nem lehet későbbi, mint 2022. január 15. napja. A pályázatokat a pályázati felhívásban foglalt határidőig az ítélőtábla elnökéhez kell benyújtani.
+
+(2) A bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 191. § (7) bekezdése és e törvény 232/A. §-a személyi hatálya alá tartozó volt ítélőtáblai bíró, aki legalább kétéves legfelsőbb bírósági, kúriai vagy ítélőtáblai ítélkező bírói gyakorlattal rendelkezik, az OBH elnökéhez intézett nyilatkozatban kérheti közigazgatási ügyben eljáró ítélőtáblára való áthelyezését. A nyilatkozatot – a szolgálati út betartásával – úgy kell megtenni, hogy az legkésőbb 2022. január 10. napjáig az OBH elnökéhez megérkezzen.
+
+(3) Ha a nyilatkozatot tevő bíró megfelel a (2) bekezdésben foglalt feltételeknek, az OBH elnöke áthelyezi a közigazgatási ügyben eljáró ítélőtáblára.
+
+(4) A (2) bekezdés szerint nyilatkozattételre jogosult, 2021. december 31-én „címzetes kúriai bíró” vagy „címzetes táblabíró” címmel rendelkező, valamint táblabírói cím használatára és illetményére a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 191. § (7) bekezdése alapján jogosult bíró 2022. március 1. napjától beosztásától függően megtartja címét és annak megfelelő javadalmazás illeti meg, kivéve, ha címének megfelelő beosztására került sor.
+
+(5) Az ítélőtábla közigazgatási kollégiuma működésének megkezdéséig az e kollégiumba kiírt pályázatok elbírálása során kollégiumi véleményként az ítélőtábla elnökéből, a polgári kollégium vezetőjéből, valamint a Kúria Közigazgatási Kollégiumának bíráiból álló szakmai testület véleményét kell figyelembe venni.
+
 233. § E törvény
 
 - a) az UNICE, a CEEP és az ESZSZ által a szülői szabadságról kötött keretmegállapodásról szóló, 1996. június 3-i 96/34/EK tanácsi irányelvnek,
@@ -2171,7 +2215,7 @@ való megfelelést szolgálja.
 
 (4)
 
-237. § (1) E törvény 1–4. alcíme, III. Fejezete, 19–22. alcíme, 25–30. alcíme, V–X. Fejezete, XII. Fejezete, XIII. Fejezete, 223. §-a, 224. §-a, 232/L–232/S. §-a, továbbá 236. §-a az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+237. § (1) E törvény 1–4. alcíme, III. Fejezete, 19–22. alcíme, 25–30. alcíme, V–X. Fejezete, XII. Fejezete, XIII. Fejezete, 223. §-a, 224. §-a, 232/L–232/T. §-a, 236. §-a, valamint 2–4. melléklete az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Bjt.
 
@@ -2228,21 +2272,21 @@ való megfelelést szolgálja.
 
 |  | A | B |
 | --- | --- | --- |
-| 1. | Fizetési fokozatok | Szorzószámok |
-| 2. | 1. | 1,25 |
-| 3. | 2. | 1,35 |
-| 4. | 3. | 1,45 |
-| 5. | 4. | 1,55 |
-| 6. | 5. | 1,65 |
-| 7. | 6. | 1,70 |
-| 8. | 7. | 1,75 |
-| 9. | 8. | 1,80 |
-| 10. | 9. | 1,85 |
-| 11. | 10. | 1,90 |
-| 12. | 11. | 1,95 |
-| 13. | 12. | 2,00 |
-| 14. | 13. | 2,05 |
-| 15. | 14. | 2,10 |
+| 1 | Fizetési fokozatok | Szorzószámok |
+| 2 | 1. | 1,25 |
+| 3 | 2. | 1,35 |
+| 4 | 3. | 1,45 |
+| 5 | 4. | 1,55 |
+| 6 | 5. | 1,65 |
+| 7 | 6. | 1,70 |
+| 8 | 7. | 1,75 |
+| 9 | 8. | 1,80 |
+| 10 | 9. | 1,85 |
+| 11 | 10. | 1,90 |
+| 12 | 11. | 1,95 |
+| 13 | 12. | 2,00 |
+| 14 | 13. | 2,05 |
+| 15 | 14. | 2,10 |
 
 ### 3. melléklet a 2011. évi CLXII. törvényhez
 
@@ -2250,19 +2294,19 @@ való megfelelést szolgálja.
 
 |  | A | B |
 | --- | --- | --- |
-| 1. | A vezetői munkakörök | Százalék |
-| 2. | A Kúria kollégiumvezetője és főtitkára | 200 |
-| 3. | A Kúria kollégiumvezető-helyettese és főtitkár-helyettese Az ítélőtábla elnöke A Fővárosi Törvényszék elnöke | 150 |
-| 4. | A Kúria tanácselnöke Az ítélőtábla elnökhelyettese A törvényszék elnöke | 120 |
-| 5. | Az ítélőtábla kollégiumvezetője A Fővárosi Törvényszék elnökhelyettese | 100 |
-| 6. | Az ítélőtábla kollégiumvezető-helyettese | 80 |
-| 7. | A Fővárosi Törvényszék kollégiumvezetője A törvényszék elnökhelyettese | 70 |
-| 8. | A nagyobb járásbíróság elnöke | 60 |
-| 9. | Az ítélőtábla tanácselnöke | 50 |
-| 10. | A Fővárosi Törvényszék kollégiumvezető-helyettese A törvényszék kollégiumvezetője | 45 |
-| 11. | A törvényszék kollégiumvezető-helyettese A törvényszék csoportvezetője A nagyobb járásbíróság elnökhelyettese A kisebb járásbíróság elnöke | 40 |
-| 12. | A törvényszék csoportvezető-helyettese A törvényszék tanácselnöke A nagyobb járásbíróság csoportvezetője | 30 |
-| 13. | A nagyobb járásbíróság csoportvezető-helyettese A kisebb járásbíróság elnökhelyettese | 25 |
+| 1 | A vezetői munkakörök | Százalék |
+| 2 | A Kúria kollégiumvezetője és főtitkára | 200 |
+| 3 | A Kúria kollégiumvezető-helyettese és főtitkár-helyettese Az ítélőtábla elnöke A Fővárosi Törvényszék elnöke | 150 |
+| 4 | A Kúria tanácselnöke Az ítélőtábla elnökhelyettese A törvényszék elnöke | 120 |
+| 5 | Az ítélőtábla kollégiumvezetője A Fővárosi Törvényszék elnökhelyettese | 100 |
+| 6 | Az ítélőtábla kollégiumvezető-helyettese | 80 |
+| 7 | A Fővárosi Törvényszék kollégiumvezetője A törvényszék elnökhelyettese | 70 |
+| 8 | A nagyobb járásbíróság elnöke | 60 |
+| 9 | Az ítélőtábla tanácselnöke | 50 |
+| 10 | A Fővárosi Törvényszék kollégiumvezető-helyettese A törvényszék kollégiumvezetője | 45 |
+| 11 | A törvényszék kollégiumvezető-helyettese A törvényszék csoportvezetője A nagyobb járásbíróság elnökhelyettese A kisebb járásbíróság elnöke | 40 |
+| 12 | A törvényszék csoportvezető-helyettese A törvényszék tanácselnöke A nagyobb járásbíróság csoportvezetője | 30 |
+| 13 | A nagyobb járásbíróság csoportvezető-helyettese A kisebb járásbíróság elnökhelyettese | 25 |
 
 ### 4. melléklet a 2011. évi CLXII. törvényhez
 

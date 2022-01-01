@@ -6,11 +6,12 @@ Az Országgyűlés a természeti erőforrások megóvása, a mezőgazdaság alka
 
 1. § E törvény alkalmazásában:
 
-- 1. harmadlagos mű: a vízügyi igazgatási szervek által kezelt és üzemeltett vízilétesítmény, valamint a mezőgazdasági öntözési igények tényleges felmerülésének helye között elhelyezkedő üzemi szintű mezőgazdasági vízellátást biztosító, öntözési célú vagy kettős működésű vízilétesítmény;
+- 1. harmadlagos mű: a vízügyi igazgatási szervek által kezelt és üzemeltett vizilétesítmény, valamint a mezőgazdasági öntözési igények tényleges felmerülésének helye között elhelyezkedő üzemi szintű mezőgazdasági vízellátást biztosító, öntözési célú vagy kettős működésű vízilétesítmény és az öntözési körzet többletvizeit elvezető vízilétesítmény;
 - 2. mezőgazdasági termelő: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező gazdálkodó szervezet, amely Magyarország területén mezőgazdasági termelőtevékenységet végez;
 - 3. mezőgazdasági termelőtevékenység: növénytermesztés, kertészet, szaporítóanyag-termesztés, állattenyésztés, méhanya-szaporítás, halászat, haltenyésztés, kiegészítő tevékenységgel vegyes gazdálkodás;
-- 4. öntözési kerület: az öntözési igazgatási szerv által hivatalból kijelölt, középszintű tervezési egység, amely több öntözési körzetet foglalhat magába;
-- 5. öntözési körzet: az öntözési közösség működésére szolgáló terület, amely az öntözési közösség tagjai által öntözni kívánt földterületeket, valamint a közösség tagjai használatában nem álló közbeékelődött területeket foglalja magába, amelyeket az öntözési közösség elismeréséről szóló döntés tartalmaz.
+- 4. öntözésfejlesztési terület: az öntözési igazgatási szerv által hivatalból kijelölt, középszintű tervezési egység, amely több öntözési körzetet foglalhat magába;
+- 5. öntözési körzet: az öntözési közösség elismeréséről szóló döntésben meghatározott, az öntözési közösség működésére szolgáló és az öntözési közösség tagjai által öntözni kívánt külterületi földrészleteket magába foglaló terület;
+- 6. üzemeltetési szerződés: a Nemzeti Földalapba tartozó harmadlagos művek vízjogi üzemeltetési engedélyében foglaltaknak megfelelő működtetése érdekében a mezőgazdasági termelővel, az öntözési közösséggel vagy a mezőgazdasági vízszolgáltatóval kötött szerződés.
 
 2. § (1) Az öntözéses gazdálkodás folytatása érdekében a vízilétesítmény vízjogi engedélyese öntözési szolgalomra jogosult, amely alapján a szolgáló ingatlan tulajdonosa, használója köteles tűrni, hogy az ingatlanán az öntözéses gazdálkodást folytató mezőgazdasági termelő a mezőgazdasági tevékenysége folytatásához szükséges öntözést szolgáló vonalas vízilétesítményt létesítsen és üzemeltessen, az ehhez szükséges vízimunkákat elvégezze, illetve az öntözőberendezést átvezesse, ha az az ingatlan rendeltetésszerű használatát nem zárja ki.
 
@@ -43,26 +44,28 @@ illeti meg.
 
 (3) Az üzemeltetési engedélyes a (2) bekezdés b) pontjában meghatározott költségek meg nem fizetése esetén a hozzájárulását visszavonhatja, amiről értesíti a vízügyi hatóságot. A hozzájárulás visszavonása esetén a vízügyi hatóság visszavonja a csatlakozó vízjogi engedélyét.
 
-5. § Az öntözési igazgatási szerv öntözési kerületet jelöl ki a vízgyűjtő-gazdálkodási tervezési alegységek, a talajtani és vízföldtani adottságok, a domborzati és a vízrajzi viszonyok és az öntözés gazdaságossága figyelembevételével az öntözési célú vízilétesítmény hatásterületének megfelelően. Egy földrészlet csak egy öntözési kerület része lehet.
+5. § Az öntözési igazgatási szerv öntözésfejlesztési területet jelöl ki az aktív felszíni víztestekhez kapcsolódó öntözőfürtök, a vízgyűjtő-gazdálkodási tervezési alegységek, a talajtani és vízföldtani adottságok, a domborzati és a vízrajzi viszonyok és az öntözés gazdaságossága figyelembevételével a felszíni vízből ellátott öntözési célú vízilétesítmény hatásterületének megfelelően. Egy földrészlet csak egy öntözésfejlesztési terület része lehet.
 
-6. § (1) Az öntözési igazgatási szerv az öntözési kerület területére öntözésfejlesztési tervet készít, amely az e törvény végrehajtására kiadott rendeletben meghatározott hatóság jóváhagyásával válik érvényessé.
+6. § (1) Az öntözési igazgatási szerv az öntözésfejlesztési területre öntözésfejlesztési tervet készít, amely az e törvény végrehajtására kiadott rendeletben meghatározott hatóság jóváhagyásával válik érvényessé.
 
-(2) Az öntözésfejlesztési terv tartalmazza az öntözési kerületben az öntözéssel összefüggő természeti feltételeket, a domborzati, vízrajzi, vízföldtani és talajtani adottságokat, amelyek figyelembevételével az öntözési igazgatási szerv meghatározza, hogy a kijelölt területen milyen természetvédelmi, környezetvédelmi, talajvédelmi, halgazdálkodási, erdőgazdálkodási és bányászati feltételekkel lehetséges az öntözéses gazdálkodás folytatása.
+(2) Az öntözésfejlesztési terv tartalmazza az öntözésfejlesztési területen az öntözéssel összefüggő természeti feltételeket, a domborzati, vízrajzi, vízföldtani és talajtani adottságokat, amelyek figyelembevételével az öntözésfejlesztési tervet jóváhagyó határozatban meghatározásra kerül, hogy a kijelölt területen milyen természetvédelmi, környezetvédelmi, talajvédelmi feltételekkel lehetséges az öntözéses gazdálkodás folytatása.
 
-(3) Az öntözésfejlesztési tervnek megfelelő öntözéses beruházáshoz és az öntözésfejlesztési tervben meghatározott feltételek szerint történő öntözéses gazdálkodás végzéséhez nem kell lefolytatni a környezetvédelmi, természetvédelmi, talajvédelmi, halgazdálkodási, erdőgazdálkodási és bányászati engedélyezési vagy szakhatósági eljárást.
+(3) Az érvényes öntözésfejlesztési tervnek megfelelő öntözéses beruházáshoz és az öntözésfejlesztési tervet jóváhagyó határozatban meghatározott feltételek szerint történő öntözéses gazdálkodás végzéséhez nem kell lefolytatni a környezetvédelmi, természetvédelmi, talajvédelmi engedélyezési vagy szakhatósági eljárást.
 
-(4) Az öntözésfejlesztési terv a benne meghatározott természetvédelmi, környezetvédelmi, talajvédelmi, halgazdálkodási, erdőgazdálkodási és bányászati előírások tekintetében hatósági engedélynek vagy szakhatósági állásfoglalásnak minősül. Az öntözésfejlesztési terv a kiadásától számított 20 évig hatályos.
+(4) Az érvényes öntözésfejlesztési terv az abban meghatározott természetvédelmi, környezetvédelmi, talajvédelmi előírások tekintetében hatósági engedélynek vagy szakhatósági állásfoglalásnak minősül. Az öntözésfejlesztési terv a kiadásától számított 20 évig hatályos.
 
-(5) Az öntözési kerületek kijelölését és az öntözésfejlesztési terveket a kormányzati honlapon közzé kell tenni.
+(5) Az öntözésfejlesztési terület kijelölését és az öntözésfejlesztési terveket a kormányzati honlapon közzé kell tenni.
 
-(6) Az öntözési kerületeket és az öntözésfejlesztési terveket rendszeresen felül kell vizsgálni és módosítani kell, ha a kijelölés szempontjai vagy a természetvédelmi, vízgazdálkodási, környezetvédelmi, talajvédelmi, halgazdálkodási, erdőgazdálkodási és bányászati feltételek megváltoztak.
+(6) Az öntözésfejlesztési területeket és az öntözésfejlesztési terveket 5 évente felül kell vizsgálni és módosítani kell, ha a kijelölés szempontjai vagy a természetvédelmi, vízgazdálkodási, környezetvédelmi, talajvédelmi feltételek megváltoztak.
 
-7. § (1) Öntözési közösségként olyan a (2) bekezdésben meghatározott feltételeknek megfelelő gazdasági társaság vagy szövetkezet ismerhető el, amelynek tagjai az öntözési körzet területén található földrészlet használati jogával rendelkező mezőgazdasági termelők.
+7. § (1) Öntözési közösségként olyan a (2) bekezdésben meghatározott feltételeknek megfelelő gazdasági társaság vagy szövetkezet ismerhető el, amelynek tagjai az öntözési körzet területén található földrészlet használati jogával rendelkező mezőgazdasági termelők. Az öntözési körzet területén mezőgazdasági vízszolgáltatást biztosító természetes vagy jogi személyek az öntözési közösség tagjává válhatnak.
+
+(1a) A (2) bekezdésben meghatározott feltételeknek megfelelő, kizárólag mezőgazdasági termelők tagságával működő gazdasági társaság vagy szövetkezet öntözési közösségként akkor is elismerhető, ha az öntözési körzet területén található földrészletek használati jogával a tagok mellett a gazdasági társaság vagy szövetkezet is rendelkezik. A gazdasági társaság vagy szövetkezet használati joga az öntözési körzet területén található földrészletek területének legfeljebb 25%-ára terjedhet ki.
 
 (2) Az öntözési közösség az öntözési körzet területén
 
 - a) szántóföldi növénytermesztés és ipari zöldségtermesztés esetén legalább 100 hektár,
-- b) kertészeti zöldség-gyümölcstermesztés esetén legalább 10 hektár
+- b) kertészeti kertészeti növénykultúra és szántóföldi ipari növény termesztése esetén legalább 10 hektár
 
 öntözésének lehetőségét biztosítja.
 
@@ -82,28 +85,31 @@ illeti meg.
 
 (5) A miniszter az elismerést visszavonja és a nyilvántartásból törli a közösséget, ha az elismerési feltételeknek megfelelő működés a felfüggesztés alatt sem áll helyre.
 
-9. § (1) Az öntözési körzetet a miniszter az öntözési közösség elismerésében jelöli ki a vízrajzi, vízföldtani, domborzati viszonyok figyelembevételével az öntözési kerület határain belül.
+9. § (1) Az öntözési körzetet a miniszter az öntözési közösséget elismerő határozatban jelöli ki a vízrajzi, vízföldtani, domborzati viszonyok figyelembevételével az öntözésfejlesztési terület határain belül.
 
 (2) Az öntözési körzetet úgy kell kijelölni, hogy az öntözési közösség céljainak biztosítása mellett a lehető legkevesebb földrészletre terjedjen ki. Az öntözési körzet területe nem fedhet másik öntözési körzet területére.
 
-10. § (1) Az öntözési körzet területére vagy a 7. § (2) bekezdés a) vagy b) pontjának megfelelő öntözési beruházást kezdeményező mezőgazdasági termelők által öntözni kívánt területre az öntözési igazgatási szerv környezeti körzeti tervet készít abban az esetben, ha
+(3) Az öntözési körzet az öntözési igazgatási szervnek az (1) és (2) bekezdésnek megfelelő javaslata alapján csak az öntözési közösség tagjai által öntözni kívánt egymástól elkülönülő, vagy a közösség tagjai használatában nem álló közbeékelődött területeket is magába foglaló körbehatárolt külterületi földterületeken jelölhető ki. Az öntözési körzet a 7. § (2) bekezdés a) pontja szerinti esetben legfeljebb 10 000 ha, a b) pontja szerinti esetben legfeljebb 1000 ha területen jelölhető ki.
 
-- a) az érintett földrészletek vonatkozásában nincs hatályos öntözésfejlesztési terv;
-- b) az érintett földrészletek vonatkozásában a hatályos öntözésfejlesztési tervben meghatározott feltételektől el kívánnak térni.
+10. § (1) Az öntözési közösség vagy a 7. § (2) bekezdés a) vagy b) pontjának megfelelő öntözési beruházást kezdeményező mezőgazdasági termelők által öntözni kívánt területre, az öntözési igazgatási szerv környezeti körzeti tervet készít abban az esetben, ha
 
-(2) Az öntözési beruházásra vonatkozó környezetvédelmi, természetvédelmi és talajvédelmi előírásokat a környezeti körzeti terv tartalmazza, amely az e törvény végrehajtására kiadott rendeletben meghatározott hatóság jóváhagyásával válik érvényessé. A környezeti körzeti terv a benne meghatározott környezetvédelmi, természetvédelmi és talajvédelmi előírások tekintetében hatósági engedélynek vagy szakhatósági állásfoglalásnak minősül. A környezeti körzeti tervnek megfelelő öntözéses beruházás és a környezeti körzeti tervben meghatározott feltételek szerint történő öntözéses gazdálkodás végzéséhez nem kell lefolytatni a környezetvédelmi, természetvédelmi és talajvédelmi engedélyezési vagy szakhatósági eljárást. A környezeti körzeti terv a kiadásától számított 20 évig hatályos.
+- a) az érintett földrészletek vonatkozásában nincs hatályos öntözésfejlesztési terv, vagy
+- b) az érintett földrészletek vonatkozásában a hatályos öntözésfejlesztési tervben meghatározott feltételektől el kívánnak térni
+
+és a környezeti körzeti terv elkészítését az öntözési közösség vagy a 7. § (2) bekezdés a) vagy b) pontjának megfelelő öntözési beruházást kezdeményező mezőgazdasági termelők kérik.
+
+(2) Az öntözési beruházásra vonatkozó környezetvédelmi, természetvédelmi és talajvédelmi előírásokat az e törvény végrehajtására kiadott rendeletben meghatározott hatóság környezeti körzeti tervet jóváhagyó határozata tartalmazza, a környezeti körzeti terv a jóváhagyással lép hatályba. Az érvényes környezeti körzeti terv a benne meghatározott környezetvédelmi, természetvédelmi és talajvédelmi előírások tekintetében hatósági engedélynek vagy szakhatósági állásfoglalásnak minősül. Az érvényes környezeti körzeti tervnek megfelelő öntözéses beruházás és a környezeti körzeti tervben meghatározott feltételek szerint történő öntözéses gazdálkodás végzéséhez nem kell lefolytatni a környezetvédelmi, természetvédelmi és talajvédelmi engedélyezési vagy szakhatósági eljárást. A környezeti körzeti terv a kiadásától számított 20 évig hatályos.
 
 (3) A környezeti körzeti terveket rendszeresen felül kell vizsgálni és módosítani kell, ha a környezetvédelmi, természetvédelmi és talajvédelmi feltételek megváltoztak.
 
-(4) Az öntözésfejlesztési terv hatálybalépését követően a környezeti körzeti tervnek az öntözésfejlesztési tervben meghatározott feltételeknek megfelelő részei hatályukat vesztik.
+(4) Az öntözésfejlesztési tervek hatálybalépése nem érinti a környezeti körzeti terv hatályát.
 
-11. § (1) Az öntözési igazgatási szerv megbízás alapján képviseli
+11. § (1) Az öntözési igazgatási szerv a vízjogi engedélyezési eljárásban megbízás alapján képviseli
 
 - a) az öntözési közösséget,
 - b) a 7. § (2) bekezdés a) vagy b) pontjának megfelelő öntözési beruházást kezdeményező mezőgazdasági termelőt,
-- c) az öntözésfejlesztési szempontból kiemelt jelentőségű öntözési beruházást kezdeményező mezőgazdasági termelőt
 
-a vízjogi engedélyezési eljárásban, ha a beruházás megfelel az öntözésfejlesztési tervnek.
+ha a beruházás megfelel az öntözésfejlesztési tervnek.
 
 (2) Az öntözési közösség gondoskodhat a tagjai számára – meghatalmazás alapján – az öntözéshez szükséges engedélyek megszerzéséről.
 
@@ -116,6 +122,20 @@ a vízjogi engedélyezési eljárásban, ha a beruházás megfelel az öntözés
 (4) A (3) bekezdés szerinti szerződés megkötése és a szerződés hatálybalépése között legfeljebb három hónap időtartamot kell biztosítani.
 
 (5) Az (1) bekezdés szerinti tulajdonosi joggyakorlás keretében az öntözési igazgatási szerv a harmadlagos művet maga üzemelteti, vagy – ha az adott harmadlagos művel ellátott területek öntözése ezáltal hatékonyabban, és pénzügyileg kedvezőbben biztosítható – bérleti, haszonbérleti, vállalkozási szerződés alapján hasznosításra átengedheti vagy vagyonkezelésbe adhatja. Az öntözési igazgatási szerv nem jogosult a tulajdonosi joggyakorlás keretében a harmadlagos mű tulajdonjogának átruházására.
+
+12/A. § (1) A harmadlagos mű üzemeltetéséről, fenntartásáról a magántulajdonú harmadlagos mű üzemeltetésére vízjogi engedéllyel rendelkező személy, ennek hiányában a tulajdonos gondoskodik.
+
+(2) Az (1) bekezdésben foglalt kötelezettségének az üzemeltetési engedélyes vagy a tulajdonos úgy is eleget tehet, ha a harmadlagos mű fenntartását, üzemeltetését sorrendben átengedi:
+
+- a) az öntözési közösségnek,
+- b) a mezőgazdasági termelőnek, vagy
+- c) a mezőgazdasági vízszolgáltatónak.
+
+(3) A fenntartási, üzemeltetési feladatok átengedésére ingyenesen is sor kerülhet a felek megállapodása alapján.
+
+(4) Az öntözési igazgatási szerv a feladataihoz szükséges földrészlet tulajdonjogát az állam javára történő felajánlás esetén ingyenesen vagy ellenérték fejében adásvétellel vagy cserével megszerezheti. Az így az állam tulajdonába kerülő ingatlan a Nemzeti Földalapba tartozik.
+
+12/B. § A Nemzeti Földalapba tartozó harmadlagos művet a Nemzeti Földügyi Központ maga üzemelteti, vagy szerződés alapján hasznosításra átengedheti.
 
 13. § (1) Az öntözési igazgatási szerv az öntözési adatgyűjtésekhez és az állami tulajdonnal kapcsolatos jogok gyakorlásához a következő adatok megismerésére és kezelésére jogosult:
 
@@ -140,11 +160,13 @@ a vízjogi engedélyezési eljárásban, ha a beruházás megfelel az öntözés
 
 a vízügyi igazgatási szervek részére azok vízgazdálkodási, vízvédelmi feladatainak ellátása érdekében külön megállapodásban rögzített műszaki adatokat.
 
+(3) Az öntözési igazgatási szerv számára – a saját térinformatikai rendszerben történő kezelés céljából – az öntözési igazgatási szerv feladatellátásához szükséges, más adatkezelők által előállított, illetve kezelt állami térinformatikai adatbázisokból származó adatállományokat a térinformatikai adatbázisok kezelésére jogosultak (a továbbiakban: adatszolgáltatók) a külön megállapodásokban rögzített formában, tartalommal és ütemezés szerint ingyenesen továbbítják.
+
 15. § (1) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki az öntözési igazgatási szervet és az öntözésfejlesztési tervet, valamint a környezeti körzeti tervet jóváhagyó hatóságot vagy hatóságokat.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-- a) az öntözési kerületre és az öntözésfejlesztési tervre, valamint a környezeti körzeti tervre és azok hatósági jóváhagyására vonatkozó részletes szabályokat,
+- a) az öntözésfejlesztési területre és az öntözésfejlesztési tervre, valamint a környezeti körzeti tervre és azok hatósági jóváhagyására vonatkozó részletes szabályokat,
 - b) az öntözési közösség elismerésére, az elismerés felfüggesztésére, visszavonására, működésének ellenőrzésére vonatkozó részletes szabályokat,
 - c) az öntözési szolgalom alapítására és az azzal kapcsolatos kártalanításra, valamint az öntözési szolgalom megszűnésére vonatkozó részletes szabályokat.
 
@@ -162,4 +184,4 @@ a vízügyi igazgatási szervek részére azok vízgazdálkodási, vízvédelmi 
 
 22. §
 
-23. § E törvény 12. §-a az Alaptörvény 38. cikk (1) bekezdése alapján, 21. §-a az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül.
+23. § E törvény 12–12/B. §-a az Alaptörvény 38. cikk (1) bekezdése alapján, 21. §-a az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül.

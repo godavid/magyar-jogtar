@@ -87,7 +87,7 @@ a következő törvényt alkotja:
   - d) a védmű-, töltés- és a 2500 hektár alapterületet meghaladó árapasztó- vagy árapasztó tározó-építés, vagy
   - e) azon közérdekű célú beruházás, amelynek megvalósítása érdekében a kisajátításról szóló törvény szerint kisajátítást végeztek.
 - 21. Nemzeti emlékhely: a nemzet történelmében meghatározó jelentőséggel bíró helyszín, amely a magyar nemzet, illetve a magyar és az ország területén élő nemzetiségek összetartozását erősítő és identitásképző jellegénél fogva a nemzet önképében kiemelkedő fontossággal bír, továbbá amely országos jelentőségű állami megemlékezés színhelye lehet, és amelyet az Országgyűlés törvénnyel nemzeti emlékhellyé nyilvánít.
-- 21a. Nemzeti emlékpont: olyan, az egyetemes vagy a nemzeti közemlékezetben kiemelkedő helyet elfoglaló személlyel összefüggésben meghatározó jelentőséggel bíró helyszín, amelyet a kultúráért felelős miniszter rendeletében nemzeti emlékponttá nyilvánít.
+- 21a. Nemzeti emlékpont: olyan, az egyetemes vagy a nemzeti közemlékezetben kiemelkedő helyet elfoglaló személlyel összefüggésben meghatározó jelentőséggel bíró helyszín, amelyet a Nemzeti Emlékhely és Kegyeleti Bizottság (a továbbiakban: Bizottság) nemzeti emlékponttá nyilvánít.
 - 21b. Nevesített műemléki érték: értékmeghatározó szakértői vizsgálat alapján megállapított és közhiteles nyilvántartásban szereplő érték, amely a védetté nyilvánítást megalapozza; a nevesítés a műemléki érték egészére vagy annak egyes elemeire – ideértve alkotórészére, tartozékára, beépített berendezési tárgyaira – terjed ki.
 - 22.
 - 23. Nyilvántartott régészeti lelőhely: a közhiteles nyilvántartásba vett, e törvény alapján általános védelem alatt álló régészeti lelőhely.
@@ -454,7 +454,7 @@ elvégzéséről, és e feladatokra vonatkozó szerződést a beruházóval a 22
 
 (4) Amennyiben a jogszabályban kijelölt örökségvédelmi szerv régészeti feladatellátással kapcsolatos megkeresésére a (3) bekezdésben megjelölt intézmény vagy szervezet öt napon belül nem válaszol, a jogszabályban kijelölt örökségvédelmi szerv közvetlenül gondoskodik a régészeti feladatellátásról.
 
-(5) Amennyiben a jogszabályban kijelölt örökségvédelmi szerv a (4) bekezdés szerinti közvetlen feladatellátást nem tudja biztosítani, úgy a Magyar Nemzeti Múzeum bevonásával gondoskodik a régészeti feladatellátás elvégzéséről.
+(5)
 
 (6) Amennyiben a feltárásra alkalmatlan napok miatt a feltárás nem végezhető el a beruházó számára elfogadható határidőre, a feltáró intézmény a feltáráshoz szükséges technikai felszerelés biztosításának költségét a 23/F. § (9) bekezdésében meghatározott költségkereten túl elszámolhatja annak érdekében, hogy a régészeti feltárást a jogszabályban meghatározottak szerint feltárásra alkalmas napon kívüli napokon is végezni lehessen.
 
@@ -900,15 +900,15 @@ kulturális javakat.
 
 - a) érvényesíti az emlékhelyekkel kapcsolatos érdekeket az emlékhelyeket érintő jogszabályok előkészítése során, illetve átfogó tervezési programokban;
 - b) nemzetközi megállapodások keretében együttműködik a határon túli helyszínek esetén az érintett állam felelős miniszterével;
-- c) az emlékhelyekkel összefüggő feladatok tekintetében a Nemzeti Emlékhely és Kegyeleti Bizottság (a továbbiakban: Bizottság) felett szakmai irányítói jogkört gyakorol;
-- d) a nemzeti emlékhely fenntartható használatának elősegítése érdekében támogatási szerződést köt,
+- c) az emlékhelyekkel összefüggő feladatok tekintetében a Bizottság felett szakmai irányítói jogkört gyakorol;
+- d) a nemzeti és történelmi emlékhely fenntartható használatának elősegítése érdekében támogatási szerződést köt,
 - e) a Bizottság javaslatára a Bizottság felügyeletét ellátó miniszterrel egyetértésben kezdeményezi egyes helyszínek nemzeti emlékhellyé nyilvánítását;
 - f) a Bizottság javaslatára, a Bizottság felügyeletét ellátó miniszterrel egyetértésben kezdeményezi egyes helyszínek történelmi emlékhellyé nyilvánítását; valamint
 - g) a Nemzeti Örökség Intézete (a továbbiakban: NÖRI) bevonásával, a Bizottság felügyeletét ellátó miniszterrel egyetértésben évente jelentést készít a Kormány részére és négyévente tájékoztatja az Országgyűlés illetékes bizottságát az emlékhelyek állapotáról.
 
-(1a) A kultúráért felelős miniszter a Bizottság javaslatára rendeletben dönt egyes helyszínek nemzeti emlékponttá nyilvánításáról.
+(1a) A NÖRI javaslatára a Bizottság határozatban dönt az egyes helyszínek nemzeti emlékponttá nyilvánításáról.
 
-(2) A Bizottság ellátja a nemzeti emlékpontokkal, a történelmi emlékhelyekkel és a nemzeti emlékhelyekkel kapcsolatos – e törvény szerinti – véleményező és javaslattevő feladatokat.
+(2) A Bizottság ellátja a történelmi emlékhelyekkel és a nemzeti emlékhelyekkel kapcsolatos – e törvény szerinti – véleményező és javaslattevő feladatokat.
 
 (3) A NÖRI emlékhelyekkel összefüggő feladatai különösen az alábbiak:
 
@@ -950,9 +950,9 @@ kulturális javakat.
 
 (5) A nemzeti emlékhely jellegre történő utalást az ingatlan-nyilvántartásban tényként fel kell jegyezni.
 
-61/H. § (1) Az állam a nemzeti emlékhelyek vonatkozásában a 61/D. §-ban, a 61/E. §-ban és a 61/K. § (2) bekezdés b) pontjában meghatározott feladatok ellátásához a központi költségvetésből forrást biztosít.
+61/H. § (1) Az állam a nemzeti és történelmi emlékhelyek vonatkozásában a 61/D. §-ban, a 61/E. §-ban és a 61/K. § (2) bekezdés b) pontjában meghatározott feladatok ellátásához a központi költségvetésből forrást biztosít.
 
-(2) A nemzeti emlékhelyekkel kapcsolatos költségvetési pénzeszközöket az e törvényben megjelölt, a nemzeti emlékhelyekkel kapcsolatos állami feladatok költségeire figyelemmel kell meghatározni.
+(2) A nemzeti és történelmi emlékhelyekkel kapcsolatos költségvetési pénzeszközöket az e törvényben megjelölt, a nemzeti és történelmi emlékhelyekkel kapcsolatos állami feladatok költségeire figyelemmel kell meghatározni.
 
 ### 5. Fejezet — A KIEMELT NEMZETI EMLÉKHELYEKRE VONATKOZÓ KÜLÖNLEGES SZABÁLYOK
 
@@ -1127,7 +1127,7 @@ biztosító védelmet, továbbá az ezeket elősegítő közérdekű szempontok 
 
 64/A. § A miniszter vita esetén dönt arról, hogy valamely tárgy, létesítmény vagy jelenség a kulturális örökség körébe tartozik-e.
 
-64/B. § A jogszabályban kijelölt örökségvédelmi szerv ellátja a miniszter által – eseti vagy állandó jelleggel – meghatározott egyéb feladatokat.
+#### 64/B. §
 
 ### Előzetes tájékoztatás, a hatóság jogszerű hallgatása
 
@@ -1290,7 +1290,7 @@ központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban 
 
 (2) Egybefoglalt örökségvédelmi engedélyezési eljárás folytatható le egymással összefüggő, de eltérő tárgyú örökségvédelmi tevékenységek esetében jogszabályban meghatározottak szerint.
 
-#### 75/C. §
+75/C. § A régészeti örökség és a műemléki érték védelmével kapcsolatos örökségvédelmi hatósági eljárásokban az eljáró hatóság az eljárást elektronikus ügyintézés keretében folytatja le, az ügyfél elektronikus úton tart kapcsolatot az eljáró hatósággal.
 
 ### A kulturális örökség elemeinek hozzáférhetővé tétele
 
@@ -1532,7 +1532,7 @@ ingyenesen, nyilvántartási értéken, a c) pont szerinti szerződésben meghat
 - 20. szabályozza a Bizottság és a NÖRI emlékhelyekkel kapcsolatos feladatait;
 - 21. állapítsa meg – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján és véleményének kikérésével – a kiemelt nemzeti emlékhely nemzeti kulturális értéke megőrzését akadályozó tevékenység megelőzésének és az ellenőrzésnek a rendjét, a kiemelt nemzeti emlékhely területére vonatkozó közterület-használat szabályait és díjait;
 - 22. állapítsa meg – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján és véleményének kikérésével – a 61/L. § szerinti közigazgatási bírság, helyszíni bírság megállapításának és megfizetése módjának részletszabályait;
-- 23. szabályozza a nemzeti emlékhelyek – köznapi, ünnepi, idegenforgalmi és protokolláris, a nemzeti emlékhely szellemével összhangban álló – használati rendjét, valamint meghatározza a nemzeti emlékhely fenntartható használatát elősegítő támogatási szerződés megkötésével kapcsolatos részletszabályokat;
+- 23. szabályozza a nemzeti és történelmi emlékhelyek – köznapi, ünnepi, idegenforgalmi és protokolláris, a nemzeti és történelmi emlékhely szellemével összhangban álló – használati rendjét, valamint meghatározza a nemzeti és történelmi emlékhely használati tervének elkészítésével, a támogatás elbírálásának rendjével, a nemzeti és történelmi emlékhely fenntartható használatát elősegítő támogatási szerződés megkötésével kapcsolatos részletszabályokat;
 - 24. szabályozza a hadtörténeti örökség terepkutatásával és védetté nyilvánításával kapcsolatos részletszabályokat;
 - 25. szabályozza a nevesített műemléki értékek meghatározását szolgáló értékmeghatározó szakértői vizsgálat részletes tartalmi elemeit, valamint a dokumentáció elkészítésének és kiértékelésének rendjét.
 
@@ -1578,7 +1578,7 @@ ingyenesen, nyilvántartási értéken, a c) pont szerinti szerződésben meghat
 
 (6) Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben szabályozza:
 
-- a) a nemzeti emlékpontként meghatározott helyszínek körét,
+- a)
 - b)
 - c)
 - d) a könyvtárakban levő muzeális dokumentumok kezelésével és nyilvántartásával kapcsolatos külön szabályokat,
@@ -1673,7 +1673,7 @@ II. Nemzeti emlékhely
 |  | 1. | Budapest I. kerület, Várnegyed | A várfalon belüli közterületek közül a Szentháromság tér, a Dísz tér és a Szent György tér, valamint a Budai Vár (Királyi Palota) épülete cím: 1014 Budapest, Szent György tér 2. a Sándor-palota épülete cím: 1014 Budapest, Szent György tér 1. a Mátyás-templom épülete cím: 1014 Budapest, Szentháromság tér 2. a volt József-kaszárnya épülete cím: 1014 Budapest, Táncsics Mihály utca 9. a Hadtörténeti Intézet és Múzeum épülete cím: 1014 Budapest, Kapisztrán tér 2–4. |
 |  | 2. | Budapest VIII. kerület, Fiumei úti temető | A Fiumei úti temető, kivéve a Nemzeti Sírkert részévé nem nyilvánított temetési helyeket cím: 1086 Budapest, Fiumei út 16. |
 |  | 3. | Budapest VIII. kerület, Magyar Nemzeti Múzeum | A Magyar Nemzeti Múzeum épülete és a Múzeumkert cím: 1088 Budapest, Múzeum krt. 14–16. |
-|  | 4. | Budapest X. kerület, Rákoskeresztúri Újköztemető, 298., 300. és 301. parcella és a Kisfogház Emlékhely | A parcellák, kivéve a Nemzeti Sírkert részévé nem nyilvánított temetési helyeket cím: 1108 Budapest, Kozma u. 8–10. A Kisfogház Emlékhely által felölelt terület cím: 1108 Budapest, Újhegyi út 55. |
+|  | 4. | Budapest X. kerület, Rákoskeresztúri Újköztemető, 298., 300. és 301. parcella és a Kisfogház Emlékhely, valamint a váci, a márianosztrai és a sopronkőhidai rabtemető | A parcellák, kivéve a Nemzeti Sírkert részévé nemnyilvánított temetési helyeket cím: 1108 Budapest, Kozma u. 8–10. a Kisfogház Emlékhely által felölelt terület cím: 1108 Budapest, Újhegyi út 55. a váci rabtemető: Vác belterület 1769 helyrajzi számú ingatlan a márianosztrai rabtemető: Márianosztra külterület 0181/2 helyrajzi számú ingatlan a sopronkőhidai rabtemető: Sopron külterület 01055 helyrajzi számú ingatlan |
 |  | 5. | Budapest XIV. kerület, Hősök tere | A tér közutak által körbefogott területe cím: 1146 Budapest, Hősök tere |
 |  | 6. | Debrecen, Református Nagytemplom és Kollégium | A Református Nagytemplom épülete cím: 4026 Debrecen, Piac u. 4–6. a Debreceni Református Kollégium épülete cím: 4026 Debrecen, Kálvin tér 16. |
 |  | 7. | Mohácsi Nemzeti Emlékhely | cím: 7785 Sátorhely, Törökdomb |
@@ -1686,7 +1686,7 @@ II. Nemzeti emlékhely
 |  | 14. | Nagycenk, Széchenyi-kastély műemléki együttese | cím: 9485 Nagycenk, Kiscenki út 3. |
 |  | 15. | Szigetvár, vár | cím: 7900 Szigetvár, Vár utca |
 |  | 16. | Esztergom, Várhegy és Víziváros | A Főszékesegyház (Bazilika) épülete cím: 2500 Esztergom, Szent István tér 1., a királyi palota maradványa és a vár épületei cím: 2500 Esztergom, Szent István tér 2., valamint az Érseki Palota épülete: a Prímási Levéltár, a Simor Érseki Könyvtár és a Keresztény Múzeum cím: 2500 Esztergom, Bercsényi utca 2. |
-|  | 17. | Győri Káptalandomb | Győri Bazilika épülete cím: 9021 Győr, Káptalandomb 12. Püspökvár épülete cím: 9021 Győr, Káptalandomb 1. Szent László Látogatóközpont épülete cím: 9021 Győr, Káptalandomb 13. Győri Egyházmegyei Kincstár és Könyvtár épülete cím: 9021 Győr Gutenberg tér 2. Hittudományi Főiskola épülete cím: 9021 Győr, Káptalandomb 7. Hotel Konferencia épülete cím: 9021 Győr, Apor Vilmos püspök tere 3. |
+|  | 17. | Győri Káptalandomb és a vár megmaradt részei | Győri Nagyboldogasszony-székesegyház épülete, a 7456 helyrajzi számú ingatlan Püspökvár épülete cím: 9021 Győr, Káptalandomb 1., a 7479 és 7480 helyrajzi számú ingatlan Győri Egyházmegyei Kincstár és Könyvtár épülete cím: 9021 Győr Káptalandomb 26., a 7414 helyrajzi számú ingatlan Brenner János Hittudományi Főiskola épülete cím: 9021 Győr, Káptalandomb 7., a 7474 helyrajzi számú ingatlan A győri vár megmaradt káptalandombi és azon túlnyúló részei |
 |  | 18. | Mátraverebély-Szentkút Nemzeti Kegyhely | cím: 3077 Mátraverebély-Szentkút 14. |
 |  | 19. | Máriapócs Nemzeti Kegyhely | cím: 4326 Máriapócs, Kossuth tér 25. |
 |  | 20. | A rákosmezei Királydomb | Budapest X. kerület, 42717 helyrajzi számon nyilvántartott ingatlan |

@@ -252,9 +252,7 @@ alkalmazható.
 
 38/C. § Az állami tulajdonban lévő, jogszabály alapján védett kulturális javak vagyonkezelésére a Magyar Nemzeti Vagyonkezelő Zrt. a miniszter által a nemzeti kulturális érdekre figyelemmel kijelölt személlyel vagy szervezettel vagyonkezelési szerződést köt.
 
-38/D. § (1) Az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őrzött, kulturális javak – a 38/A–38/C. §-ban meghatározottaktól eltérő hasznosítása céljából történő – birtokba adásáról a tulajdonosi joggyakorló vagy a vagyonkezelő a kulturális örökség védelméért felelős miniszter javaslata alapján, a miniszter előzetes véleményének kikérése mellett – különös méltánylást érdemlő körülmények fennállása esetén a versenyeztetés mellőzésével – dönt és ezt követően a hasznosításra szerződést köt.
-
-(2) Az (1) bekezdés szerinti eljárásra, valamint a hasznosítási szerződésre vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
+38/D. §
 
 ### Muzeális intézmények működési engedélyének kiadása, módosítása, visszavonása
 
@@ -1407,7 +1405,7 @@ kapcsolatos szakmai mutatók alapján készíti el.
 - k) a kiadványok kötelespéldányainak szolgáltatására kötelezettek körét, a kötelespéldány-szolgáltatással összefüggő jelentés szabályait, az e törvényben előírt kötelespéldány-szám szolgáltatása alóli kivételeket, a kötelespéldány-szolgáltatás módját és határidejét, a kötelespéldányra jogosult szervezetek körét, a kötelespéldányok szétosztásának módját, a kötelespéldányok megőrzésének és használatának szabályait, valamint a kötelespéldány-szolgáltatás jogszabálynak nem megfelelő teljesítése esetén követendő eljárást,
 - l) az e törvény hatálya alá tartozó intézményekben teljes munkaidőben szakmai munkakörben foglalkoztatott munkavállalók dokumentum vásárlási, illetve könyvtári szolgáltatások térítési kedvezményét,
 - m) az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őrzött olyan kulturális javak visszaadásának rendjét, amelyek állami tulajdonba tartozása minden kétséget kizáró módon nem igazolható,
-- n) az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őrzött kulturális javak 38/D. §-ban meghatározottak szerinti birtokba adásának rendjét, a hasznosításukra vonatkozó szerződés tartalmi elemeit és a szerződés megszüntetésére vonatkozó – a nemzeti vagyonról szóló törvényben és az állami vagyonról szóló törvényben nem szabályozott – részletes rendelkezéseket,
+- n)
 - o) a muzeális intézmények működési engedélyének kiadására, módosítására és visszavonására irányuló kérelem (a továbbiakban együtt: kérelem) adattartalmát és a kérelemhez csatolandó mellékletek körét, a kérelem elbírálásának rendjét, a működési engedély tartalmát, a működési engedély visszavonása esetén követendő eljárást,
 - p) a tanfolyam jellegű szakmai továbbképzések nyilvántartásba vételének feltételeit és eljárási szabályait,
 - q) az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértők igénybevételének eseteit, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
@@ -1421,7 +1419,7 @@ kapcsolatos szakmai mutatók alapján készíti el.
 
 (3) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
-- a) a közművelődési intézmények és szervezetek, a könyvtárak és könyvtári tevékenységet folytató szervezetek, a muzeális intézmények és a levéltárak minősítési eljárását, a szakmai minősítő testület létrehozását és működését, a minősítési eljárásban szakértőként való közreműködés feltételeit, a minősítési eljárás során kiadható minősítést és a minőségi díjat, a minősítési eljárásért fizetendő díjra vonatkozó szabályokat és a befolyt összeg felhasználásának szabályait,
+- a) a közművelődési intézmények, a közösségi színterek, a könyvtárak és könyvtári tevékenységet folytató szervezetek, a muzeális intézmények és a levéltárak minősítési eljárását, a szakmai minősítő testület létrehozását és működését, a minősítési eljárásban szakértőként való közreműködés feltételeit, a minősítési eljárás során kiadható minősítést és a minőségi díjat, a minősítési eljárásért fizetendő díjra vonatkozó szabályokat és a befolyt összeg felhasználásának szabályait,
 - b) a múzeum, valamint az országos szakkönyvtár és a megyei hatókörű városi könyvtár éves munkatervéhez szükséges szakmai mutatókat,
 - c) a közművelődési alapszolgáltatások körében ellátható egyes szakmai feladatokat, a közművelődési alapszolgáltatások szakmai, személyi és infrastrukturális követelményeit, továbbá a közművelődési intézmények és közösségi színterek szakmai, működési, személyi és infrastrukturális követelményeit,
 - d) a 64. § (8) bekezdése szerinti megyei hatókörű városi könyvtárak körét, regionális illetékességi területüket, valamint regionális feladatellátásuk részletes szabályait,
@@ -1437,7 +1435,7 @@ kapcsolatos szakmai mutatók alapján készíti el.
 - n) a Könyvtárellátási Szolgáltató Rendszer működését,
 - o) a könyvtárak szervezeti és működési szabályzatának kötelező tartalmát,
 - p) a könyvtári dokumentumellátást,
-- q)
+- q) az Országos Idegennyelvű Könyvtár jogállását,
 - r)
 - s) a közművelődési intézmény és az állami vagy önkormányzati fenntartású muzeális intézmény, nyilvános könyvtár, közlevéltár vezetőjének megválasztására irányuló pályázat tartalmára és a pályázati eljárásra vonatkozó szabályokat, valamint a pályázatok elbírálásának rendjét, továbbá a közművelődési intézményben, a közösségi színtérben és az állami vagy önkormányzati fenntartású muzeális intézményben, nyilvános könyvtárban, közlevéltárban foglalkoztatottak munkaköreit, valamint a munkakörök és a vezető beosztás betöltéséhez szükséges képesítési és egyéb feltételeket,
 - t) az integrált kulturális intézmény működését,

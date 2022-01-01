@@ -32,7 +32,7 @@ A törvényt az Országgyűlés a 2021. szeptember 27-i ülésnapján fogadta el
 
 (3) A 13. alcím 2026. január 1-jén lép hatályba.
 
-6. § A 2. alcím és az 1. melléklet 2021. december 31-én hatályát veszti.
+6. §
 
 7. § (1) A 6. alcím a bűncselekmények áldozatainak kárenyhítéséről szóló, 2004. április 29-i 2004/80/EK tanácsi irányelvnek való megfelelést szolgálja.
 

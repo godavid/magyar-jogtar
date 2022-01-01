@@ -338,6 +338,7 @@ rendeletben állapítsa meg.
 - b) az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakört betöltő munkavállalók szakmai képzésére és vizsgáztatására, a vizsgaközpont és képzőszervezetek működésére, a képzési engedélyre vonatkozó szabályokat,
 - c) az egyéb kötöttpályás közlekedési rendszer üzemeltetési szabályzatának tartalmi és a formai követelményeire, valamint közlekedési hatósági jóváhagyására vonatkozó szabályokat, valamint az egyéb kötöttpályás közlekedési rendszer üzemeltetési engedélyezési szabályait
 - d) a közlekedési hatóság és a vasúti igazgatási szerv eljárásáért fizetendő igazgatási szolgáltatási díjak körét és mértékét, továbbá az azok megfizetésére, a közlekedési hatóság, valamint a vasúti igazgatási szerv és az egyes eljárásokban közreműködők közötti megosztására vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben
+- e) az egyéb kötöttpályás közlekedés biztonságával összefüggő munkakör betöltéséhez szükséges vizsgán való részvételért fizetendő díjak körét és mértékét, valamint azok megfizetésére vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 

@@ -13,6 +13,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - c) művelés alól kivett területként nyilvántartott olyan terület, amely a Nemzeti Földalapba tartozó földrészlet mező-, erdőgazdasági tevékenységét szolgálja, vagy ahhoz szükséges.
 - d) művelés alól kivett, honvédelmi célra feleslegessé nyilvánított területként nyilvántartott földrészlet;
 - e) a termőföld védelméről szóló törvényben állandó jellegű növényházként meghatározott és az ingatlan-nyilvántartásban ekként nyilvántartott művelés alól kivett földrészlet.
+- f) művelés alól kivett területként nyilvántartott belvízelvezető csatorna, állandó jellegű öntözőcsatorna (rizstelep elárasztó és lecsapoló főcsatornái), valamint egyéb árok.
 
 (2) Az (1) bekezdésben foglaltakon túl a Nemzeti Földalap részét képezik az (1) bekezdésben meghatározott területekhez kapcsolódó vagyoni értékű jogok is.
 
@@ -55,13 +56,13 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (2) A tulajdonosi jogok gyakorlása kiterjed a tulajdonjoghoz kapcsolódó vagyoni értékű jogok gyakorlására is.
 
-(3) Az állami tulajdonban álló vagy állami tulajdonba kerülő olyan ingatlan felett, amely az ingatlan-nyilvántartás szerint nem kizárólag a Nemzeti Földalapba tartozó földrészletet tartalmaz, a tulajdonosi jogokat a miniszter az állami vagyon felügyeletéért felelős miniszterrel, az NFK és a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján – e törvény végrehajtására kiadott jogszabályban foglaltak szerint – a következő módon gyakorolja:
+(3) Az állami tulajdonban álló vagy állami tulajdonba kerülő olyan ingatlan felett, amely az ingatlan-nyilvántartás szerint nem kizárólag a Nemzeti Földalapba tartozó földrészletet tartalmaz, a tulajdonosi jogokat a miniszter az NFK útján a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársasággal (a továbbiakban: MNV Zrt.), vagy – az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 42/A. § (1) bekezdése szerinti kivezetésre szánt állami vagyon vonatkozásában – a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársasággal (a továbbiakban: MVH) – az e törvény végrehajtására kiadott jogszabályban foglaltak szerint – a következő módon gyakorolja:
 
 - a) az ingatlan tulajdonjogának átruházása esetén együttesen,
 - b) mindkét fél tulajdonosi joggyakorlásával érintett hasznosítás esetén (ide nem értve a tulajdonjog átruházását) egymással együttműködve,
 - c) csak az egyik fél tulajdonosi joggyakorlásával érintett hasznosítás esetén (ide nem értve a tulajdonjog átruházását) a másik fél érdekeinek szem előtt tartásával önállóan.
 
-(3a) A települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény 13. §-a, illetve az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 1/B. §-a alapján az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK) tulajdonosi joggyakorlásába tartozó egészségügyi intézményekhez tartozó ingatlanok esetében a tulajdonosi jogokat a miniszter az egészségügyért felelős miniszterrel, az NFK és az ÁEEK útján a (3) bekezdés a)–c) pontjában meghatározott módon gyakorolja.
+(3a) A települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény 13. §-a, illetve az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény 1/B. §-a alapján az Országos Kórházi Főigazgatóság (a továbbiakban: OKFŐ) tulajdonosi joggyakorlásába tartozó egészségügyi intézményekhez tartozó ingatlanok esetében a tulajdonosi jogokat a miniszter az egészségügyért felelős miniszterrel, az NFK és az OKFŐ útján a (3) bekezdés a)–c) pontjában meghatározott módon gyakorolja.
 
 (4) A (3) bekezdés szerinti ingatlanokra vonatkozó döntést megelőzően meg kell állapítani az ingatlan egészének elsődleges rendeltetését, valamint a hasznosítással elérhető fő célkitűzéseket, és legkedvezőbb előnyöket.
 
@@ -87,7 +88,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (8)
 
-(9) Az NFK alapító okiratát, és a szervezeti és működési szabályzatát a miniszter a Magyar Közlönyben teszi közzé.
+(9) Az NFK szervezeti és működési szabályzatát a miniszter a Magyar Közlönyben teszi közzé.
 
 #### 5. §
 
@@ -128,7 +129,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - e) dönt 100 millió forintot, vagy 100 hektár térmértéket elérő földrészlet vagy földrészletek tulajdonjogának az állam javára történő megszerzésével kapcsolatos ügyekben;
 - f) dönt a 20. § (1) és (2) bekezdése, és a 21. § (2), (3), (3a) és (3d), valamint a (4) és (5) bekezdése szerinti jogügyletekről, ha az annak tárgyát képező földrészlet vagy földrészletek együttes ingatlanforgalmi értéke eléri az 1 millió forintot;
 - g)
-- h) az MNV Zrt.-vel közösen dönt a 3. § (3) bekezdés a) és b) pontjában meghatározott ingatlanok hasznosításának módjáról az e törvény végrehajtására kiadott jogszabály szerint.
+- h) az MNV Zrt.-vel vagy – a Vtv. 42/A. § (1) bekezdése szerinti kivezetésre szánt állami vagyon vonatkozásában – az MVH-val közösen dönt a 3. § (3) bekezdés a) és b) pontjában meghatározott ingatlanok hasznosításának módjáról az e törvény végrehajtására kiadott jogszabály szerint;
 - i) javaslatot tesz az NFK elnöke által előterjesztett és a d)–f) és h) pontokba foglalt esetek alá nem tartozó, a földrészletek hasznosításával kapcsolatos kérdésekben.
 
 (2) A Tanács ellátja továbbá az (1) bekezdésben meghatározottak körében a szervezeti és működési szabályzatban részére meghatározott feladatokat.
@@ -223,12 +224,12 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - t) a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 4/A. §-a alapján létrehozott szociális szövetkezet részére föld kedvezményes biztosítása;
 - u) a világörökségi helyszín kiemelkedő egyetemes értékekkel összefüggő oltalmának biztosítása.
 
-(4) A földrészletre vonatkozó szabályokat kell alkalmazni a mezőgazdasági termelés célját szolgáló földre, ha
+(4) A Nemzeti Földalapba kerül a mezőgazdasági termelés célját szolgáló föld, ha
 
 - a) az örökség visszautasítása útján szállt a Magyar Államra, vagy
 - b) az örökös a hagyatéki eljárásban a Magyar Állam részére felajánlotta.
 
-15/A. § (1) A mintagazdaság olyan, a miniszter javaslata alapján a Kormány által határozatban kijelölt mezőgazdasági termelőszervezet, amely a rendelkezésre álló erőforrások hatékonyabb felhasználásával, az integrációs kapcsolatok erősítésével, a magasabb hozzáadott értékű termékek előállításával, a technológia fejlesztésével és a genetikai erőforrások minél magasabb szintű megőrzésével, használatával, állami és nem állami tulajdonban álló földön gazdálkodva a magyar mezőgazdaság teljesítményének növelését, a meglévő növekedési tartalékok kiaknázását szolgálja, és megfelel a (2) vagy (3) bekezdésben foglaltaknak.
+15/A. § (1) A mintagazdaság olyan, a miniszter javaslata alapján a Kormány által határozatban kijelölt földműves, vagy mezőgazdasági termelőszervezet, amely a rendelkezésre álló erőforrások hatékonyabb felhasználásával, az integrációs kapcsolatok erősítésével, a magasabb hozzáadott értékű termékek előállításával, a technológia fejlesztésével és a genetikai erőforrások minél magasabb szintű megőrzésével, használatával, állami és nem állami tulajdonban álló földön gazdálkodva a magyar mezőgazdaság teljesítményének növelését, a meglévő növekedési tartalékok kiaknázását szolgálja, és megfelel a (2), a (2a) vagy (3) bekezdésben foglaltaknak.
 
 (2) Mezőgazdasági termelőszervezet mintagazdasággá a következő feltételek együttes teljesítése esetén jelölhető ki:
 
@@ -237,6 +238,8 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 - c) a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben meghatározott átlátható szervezetnek minősül;
 - d) tudományos, kutatás-fejlesztési tevékenységben vesz részt;
 - e) tevékenysége bekapcsolható a közép- és a felsőfokú agrárszakmai oktatás legalább egy szintjébe.
+
+(2a) Földműves mintagazdasággá a (2) bekezdés a)–b) és d)–e) pontjaiban foglalt feltételek együttes teljesítése esetén jelölhető ki.
 
 (3) A (2) bekezdésben foglaltaktól eltérően az állam vagy közfeladatot ellátó közérdekű vagyonkezelő alapítvány tulajdonában álló mezőgazdasági termelőszervezet mintagazdasággá a következő feltételek együttes teljesítése esetén jelölhető ki:
 
@@ -258,7 +261,12 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 (6a) Ha a (6) bekezdés szerinti felszámolási eljárás során a 3. § (3) bekezdésében meghatározott ingatlan kerül állami tulajdonba, az ingatlannak csak az 1. § (1) bekezdésben foglalt területe kerül a Nemzeti Földalapba, és az NFK az erre a területre eső összeget fizeti meg a társadalombiztosítás pénzügyi alapjai részére a (6) bekezdésben foglaltak szerint.
 
-(7) Ha e törvény hatálya alá tartozó földrészlet felett az állam, mint törvényes örökös, vagy végintézkedés alapján tulajdonjogot szerez, az MNV Zrt. a hagyatékátadó végzés (öröklési bizonyítvány) jogerőre emelkedését követő 30 napon belül a földrészletet átadja az NFK-nak.
+(7) Ha e törvény hatálya alá tartozó földrészlet felett az állam
+
+- a) mint törvényes örökös szerez tulajdonjogot, akkor az MVH,
+- b) végintézkedés alapján szerez tulajdonjogot, akkor az MNV Zrt.
+
+a hagyatékátadó végzés (öröklési bizonyítvány) jogerőre emelkedését követő 30 napon belül a földrészlet adatait a Vtv. 42/D. § (1) bekezdése szerinti átadási felületre feltölti és az átadási felületen keresztül átadja az NFK-nak. A számviteli rendezést az érintett ingatlan adatainak az átadási felületen történő feltöltése szolgálja, külön megállapodás, jegyzőkönyv felvétele nélkül.
 
 16/A. § (1) Az MNV Zrt. és a honvédelemért felelős miniszter a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő, az 1. § (1) bekezdés d) pontja szerinti honvédelmi célra feleslegessé nyilvánított terület átadás-átvételéről – a honvédelemért felelős miniszter erre irányuló, az NFK-nak szóló kezdeményezésétől számított 90 napon belül – megállapodást köt az NFK-val.
 
@@ -320,7 +328,7 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 
 17/B. § Az NFK köteles az ingatlan-nyilvántartásban az állam tulajdonában lévő területek vonatkozásában a vadászterületeket nyilvántartani, azok határainak változását figyelemmel kísérni.
 
-18. § (1) Az NFK a Nemzeti Földalapba tartozó földrészletet eladással, haszonbérbe adással, az (5) bekezdés szerinti megbízással, erdőgazdálkodási haszonbérbe adással, erdőgazdálkodási integrációs szerződés útján, vagyonkezelésbe adással, mintagazdasági földhasználati szerződés útján vagy cserével hasznosítja. A 21. és 22. §-ban meghatározott kivételekkel az NFK a Nemzeti Földalapba tartozó földrészletet nyilvános pályázat vagy árverés útján adhat el, továbbá nyilvános pályázat útján adhat haszonbérbe, erdőgazdálkodási haszonbérbe, vagy köthet erdőgazdálkodási integrációs szerződést.
+18. § (1) Az NFK a Nemzeti Földalapba tartozó földrészletet eladással, kompenzációs tulajdonszerzési szerződéssel, haszonbérbe adással, az (5) bekezdés szerinti megbízással, az öntözéses gazdálkodásról szóló törvény szerinti üzemeltetési szerződéssel, erdőgazdálkodási haszonbérbe adással, erdőgazdálkodási integrációs szerződés útján, vagyonkezelésbe adással, mintagazdasági földhasználati szerződés útján vagy cserével hasznosítja. A (9) bekezdésben, a 21. és 22. §-ban meghatározott kivételekkel az NFK Nemzeti Földalapba tartozó földrészletet nyilvános pályázat vagy árverés útján adhat el, továbbá nyilvános pályázat útján adhat haszonbérbe, erdőgazdálkodási haszonbérbe, vagy köthet erdőgazdálkodási integrációs szerződést.
 
 (1a) Föld vagy tanya haszonbérbe adása során a jogszabály vagy szerződés alapján fennálló előhaszonbérleti jog nem gyakorolható.
 
@@ -349,6 +357,8 @@ Az Országgyűlés az állami tulajdonban lévő termőföldvagyonnal való éss
 (7) Haszonbérleti szerződés vagy az (5) bekezdés szerinti megbízási szerződés alapján gyakorolt használati jogosultságért ellenértékként – e törvény végrehajtására kiadott rendeletben meghatározottak szerint – legalább a földnek az ingatlan-nyilvántartásban feltüntetett aranykoronában kifejezett kataszteri tiszta jövedelme kétezer-ötszázszorosának megfelelő forint összegű éves díjat kell fizetni.
 
 (8) Ha a haszonbérleti szerződés alapján a használati jogosultság megszerzéséért a haszonbérlő ellenértéket fizetett, annak a haszonbérleti jogviszony – haszonbérleti szerződés szerinti – teljes időtartamából egy évre arányosan számított részét az évente fizetendő haszonbér összegébe bele kell számítani.
+
+(9) Az egykori Rozmaring Mezőgazdasági Termelőszövetkezet működési területén kárpótlásra váró személyek helyzetének rendezéséről szóló 2021. évi CXLV. törvény alapján az NFK kompenzációs tulajdonszerzési szerződést köt.
 
 19. § (1) A Nemzeti Földalapba tartozó földrészlet hasznosítására irányuló szerződés nem köthető azzal, aki
 
@@ -386,6 +396,7 @@ követő napon.
 - c) olyan gazdálkodó szervezettel, amely jogszabályban rögzített állami feladat ellátásához kívánja hasznosítani a földrészletet,
 - d) olyan közérdekű vagyonkezelő alapítvánnyal, amelynek elsődleges feladata felsőoktatási intézmény alapítói, fenntartói jogainak gyakorlása, valamint működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása.
 - e) felsőoktatási intézménnyel az alapító okiratában vagy jogszabályban meghatározott, agrárágazathoz kapcsolódó oktatási vagy tudományos kutatási alapfeladatát szolgáló földrészletre.
+- f) a Tokaji Életpálya Program megvalósítására a Kormány által egyedi határozatban kijelölt szervezettel az ott megjelölt földrészletre.
 
 (2) Az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vagyonkezelését csak költségvetési szerv vagy 100%-os állami tulajdonban álló gazdálkodó szervezet végezheti.
 
@@ -407,7 +418,7 @@ követő napon.
 
 (6) A szerződésen alapuló vagyonkezelői jog az ingatlan-nyilvántartásba való bejegyzéssel jön létre, a vagyonkezelőt azonban a szerződés megkötésének időpontjától kezdve megilletik a vagyonkezelő jogai és terhelik kötelezettségei.
 
-(7) Az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet érintő vagyonkezelési szerződés létrejöttéhez az erdészeti hatóságnak – a vagyonkezelő erdőgazdálkodói alkalmasságát megállapító – jóváhagyása szükséges. A vagyonkezelő – a honvédelmi rendeltetésű erdők kivételével – az erdő használatát, hasznosítását harmadik személynek nem engedheti át. A honvédelmi rendeltetésű erdőt a vagyonkezelő a (2) bekezdésben meghatározott szerv vagy gazdálkodó szervezet részére használatába adhatja.
+(7) Az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet érintő vagyonkezelési szerződés létrejöttéhez az erdészeti hatóságnak – a vagyonkezelő erdőgazdálkodói alkalmasságát megállapító – jóváhagyása szükséges, kivéve, ha a vagyonkezelő a miniszter tulajdonosi joggyakorlása alá tartozó, erdőgazdálkodási feladatok ellátására létrehozott, 100%-os állami tulajdonú társaság. A vagyonkezelő – a honvédelmi rendeltetésű erdők kivételével – az erdő használatát, hasznosítását harmadik személynek nem engedheti át. A honvédelmi rendeltetésű erdőt a vagyonkezelő a (2) bekezdésben meghatározott szerv vagy gazdálkodó szervezet részére használatába adhatja.
 
 (8)
 
@@ -436,7 +447,7 @@ követő napon.
 
 - a) olyan, az állam 100%-os tulajdonában álló gazdálkodó szervezettel, amely főtevékenysége körében a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti mezőgazdasági tevékenységet folytat,
 - b) olyan központi költségvetési szervvel, amely alapító okiratában, illetve jogszabályban meghatározott alapfeladata teljesítése érdekében kívánja hasznosítani a földrészletet,
-- c) olyan osztatlan közös tulajdonban álló erdőnek, illetve erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületnek minősülő földrészletben fennálló állami tulajdoni hányadnak megfelelő területre, amelyben az állam tulajdoni hányada nem haladja meg az összes tulajdoni hányad 50%-át,
+- c) – ide értve az erdőgazdálkodási haszonbérleti szerződést vagy az erdőgazdálkodási integrációs szerződést is – olyan osztatlan közös tulajdonban álló erdőnek, illetve erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületnek minősülő földrészletben fennálló állami tulajdoni hányadnak megfelelő területre, amelyben az állam tulajdoni hányada nem haladja meg az összes tulajdoni hányad 50%-át,
 - d) az ingatlan-nyilvántartásban művelés alól kivett, állandó jellegű növényházként nyilvántartott földrészletre,
 - e) olyan halastóként hasznosítható ingatlanra, amely esetében kizárólag a tómeder áll állami tulajdonban.
 
@@ -447,11 +458,13 @@ követő napon.
 
 (3b) Települési (fővárosban a kerületi, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzat (a továbbiakban: önkormányzat) a Nemzeti Földalapba tartozó földrészlet tulajdonjogát adásvétel jogcímén csak a (3a) bekezdés alapján szerezheti meg.
 
-(3c) A védett természeti területek természetvédelmi kezeléséért felelős szerv vagyonkezelésébe kell adni azt a földrészletet, amelynek állami tulajdonba vételére a védett természeti területek védettségi szintjének helyreállítása vagy természetvédelmi célok megvalósítása érdekében került sor.
+(3c) A védett természeti területek természetvédelmi kezeléséért felelős szerv vagy az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 1. mellékletében szereplő és az állam 100%-os tulajdonában álló gazdálkodó szervezet vagyonkezelésébe kell adni azt a földrészletet, amelynek állami tulajdonba vételére a védett természeti területek védettségi szintjének helyreállítása vagy természetvédelmi célok megvalósítása érdekében került sor.
 
-(3d) Vagyonkezelési szerződés ingyenesen köthető az agrárágazathoz tartozó köznevelési intézménnyel, szakképző intézménnyel, valamint felsőoktatási intézménnyel, továbbá az agrárágazathoz tartozó kutatási feladatot ellátó, a miniszter fenntartásában működő intézménnyel az alapító okiratában vagy jogszabályban meghatározott oktatási vagy tudományos kutatási alapfeladatát szolgáló földrészletre.
+(3d) Vagyonkezelési szerződés ingyenesen köthető az agrárágazathoz tartozó köznevelési intézménnyel, szakképző intézménnyel, felsőoktatási intézménnyel, továbbá az agrárágazathoz tartozó kutatási feladatot ellátó, a miniszter fenntartásában működő intézménnyel az alapító okiratában vagy jogszabályban meghatározott oktatási vagy tudományos kutatási alapfeladatát szolgáló földrészletre, továbbá a Tokaji Életpálya Program megvalósítására a Kormány által egyedi határozatban kijelölt szervezettel az ott megjelölt földrészletre.
 
 (4) Az NFK a Nemzeti Földalapba tartozó vízlevezető árkokat és csatornákat térítésmentesen az azok fenntartására jogosultak vagyonkezelésébe adhatja.
+
+(4a) Nyilvános pályáztatás mellőzésével köthető az öntözéses gazdálkodásról szóló törvény szerinti üzemeltetési szerződés a Nemzeti Földalapba tartozó művelés alól kivett területként nyilvántartott belvízelvezető csatorna, állandó jellegű öntözőcsatorna (rizstelep elárasztó és lecsapoló főcsatornái), valamint egyéb árok hasznosítására.
 
 (5) A Nemzeti Földalapba tartozó, önálló helyrajzi számon nyilvántartott útnak, ároknak, csatornának és töltésnek az ezen ingatlanok fekvése szerinti települési (fővárosban a kerületi, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi) önkormányzat részére történő térítésmentes tulajdonába vagy használatba adásáról az NFK és az érintett önkormányzat szerződést köthet.
 
@@ -471,6 +484,7 @@ követő napon.
 - b) ingyenesen tulajdonba adható
   - ba) temető létesítése és bővítése céljából,
   - bb) abban az esetben, ha az 5 hektárt meg nem haladó méretű földrészlet a kérelem benyújtását megelőző 3 évben hasznosítatlan vagy kizárólag megbízási szerződéssel hasznosított volt.
+  - bc) törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése, továbbá a kisajátításról szóló törvényben megjelölt, a kisajátítást megalapozó közérdekű cél megvalósítása érdekében.
 
 (1a) Az önkormányzat a vagyonkezelői jogot nem adhatja tovább.
 
@@ -508,7 +522,7 @@ adható.
 
 24/A. § Kisajátítást pótló adásvétel esetében az NFK legfeljebb a földrészlet piaci értékének 150%-áig terjedő összegben vállalhatja a vételár megfizetését.
 
-25. § A mező- és erdőgazdasági földek forgalmáról szóló törvény alapján az államot megillető elővásárlási illetve vételi jogot az ott meghatározott módon az NFK gyakorolja.
+25. § A mező- és erdőgazdasági földek forgalmáról szóló törvény alapján az államot megillető elővásárlási és vételi jogot az ott meghatározott módon az NFK gyakorolja.
 
 26. § (1) A Nemzeti Földalapba tartozó földrészlet eladására, vagyonkezelésére vagy haszonbérletére irányuló pályázati felhívást az NFK hirdeti meg.
 
@@ -543,9 +557,11 @@ adható.
 
 (4) A nyilvánosságra hozatali kötelezettség nem vonatkozik a nemzetbiztonsági érdekkel közvetlenül összefüggő szerződésekre, valamint a nemzetközi jogi kötelezettség alapján, illetve – külön jogszabályban meghatározott egyéb okból – minősített adatra.
 
-31. § (1) Ha a Nemzeti Földalapba tartozó földrészlet az ingatlan-nyilvántartás szerinti adatainak megváltozása következtében kikerül e törvény hatálya alól, az adatváltozás átvezetéséről szóló ingatlanügyi hatósági határozat véglegessé válásától számított 30 napon belül a földrészletet az NFK átadja az MNV Zrt.-nek, egyúttal kivezeti a vagyonnyilvántartásából.
+31. § (1) Ha a Nemzeti Földalapba tartozó földrészlet ingatlan-nyilvántartás szerinti adatainak megváltozása következtében kikerül e törvény hatálya alól, az adatváltozás átvezetéséről szóló ingatlanügyi hatósági határozat véglegessé válásától számított 30 napon belül a földrészlet adatait az NFK az átadási felületre feltölti és az átadási felületen keresztül átadja az MNV Zrt.-nek, egyúttal a földrészletet kivezeti a vagyonnyilvántartásából. A tulajdonosi joggyakorlás átszállásának napja az érintett földrészlet adatainak az átadási felületen történő feltöltésének napja. Számviteli rendezésnek az érintett ingatlan adatainak az átadási felületen történő feltöltése minősül, külön megállapodás, jegyzőkönyv felvétele nélkül.
 
-(2) Ha törvény valamely földrészletnek a magyar állam tulajdonába, és a Nemzeti Földalapba való kerüléséről rendelkezik, de a földrészlet – annak ingatlan-nyilvántartás szerinti adatai alapján – nem felel meg az 1. § (1) bekezdésében vagy a 3. § (3) bekezdésében foglaltaknak, az NFK haladéktalanul intézkedik a földrészletnek az MNV Zrt. részére történő átadásáról, és a vagyon-nyilvántartásából való kivezetéséről.
+(2) Ha törvény valamely földrészletnek a magyar állam tulajdonába, és a Nemzeti Földalapba való kerüléséről rendelkezik, de a földrészlet – annak ingatlan-nyilvántartás szerinti adatai alapján – nem felel meg az 1. § (1) bekezdésében vagy a 3. § (3) bekezdésében foglaltaknak, az NFK haladéktalanul intézkedik a földrészletnek az MNV Zrt. részére az átadási felületen keresztül történő átadásáról és annak a vagyonnyilvántartásából való kivezetéséről. A tulajdonosi joggyakorlás átszállásának napja az érintett ingatlan adatainak az átadási felületen történő feltöltésének napja. Számviteli rendezésnek az érintett ingatlan adatainak az átadási felületen történő feltöltése minősül, külön megállapodás, jegyzőkönyv felvétele nélkül.
+
+(2a) Az (1) és (2) bekezdés szerinti tulajdonosi joggyakorló személyében történő változás ingatlan-nyilvántartásban történő átvezetéséhez az átvevő tulajdonosi joggyakorló e jogszabályhelyre való hivatkozását tartalmazó egyoldalú nyilatkozata és az átadási felületen előállított – a tulajdonosi joggyakorlás átadásával érintett vagyonelemeket tartalmazó – dokumentum képezi a bejegyzés alapjául szolgáló okiratot.
 
 (3) A Nemzeti Földalapba és a magyar állam tulajdonába bármely jogcímen kerülő, e törvény hatálya alá tartozó földrészletekre vonatkozóan az ingatlanügyi hatóságnál a tulajdonjog bejegyzése iránt folyó ingatlan-nyilvántartási eljárásban az állam tulajdonjogának megszerzését tartalmazó szerződés (okirat) benyújtásakor az állami adóhatóság által erre a célra rendszeresített – a felek adóazonosító számát vagy az ennek hiányára utaló nyilatkozatot is tartalmazó – nyomtatványt nem kell benyújtani.
 
@@ -618,7 +634,7 @@ adható.
 
 (6) Az ingatlanügyi hatóság az NFK kérelmére gondoskodik a Nemzeti Földalapba tartozó földrészleteket érintően a (2) bekezdés szerinti, a tulajdonos joggyakorló személyében bekövetkező változás ingatlan-nyilvántartási átvezetéséről.
 
-(6a) Az ingatlanügyi hatóság az NFK és az MNV Zrt. közös kérelmére gondoskodik a 3. § (3) bekezdésében meghatározott ingatlanokat érintően a kettős tulajdonosi joggyakorlás miatt a tulajdonosi joggyakorló személyében bekövetkező változás ingatlan-nyilvántartási átvezetéséről.
+(6a) Az ingatlanügyi hatóság az NFK és az MNV Zrt. vagy az NFK és az MVH közös kérelmére gondoskodik a 3. § (3) bekezdésében meghatározott ingatlanokat érintően a kettős tulajdonosi joggyakorlás miatt a tulajdonosi joggyakorló személyében bekövetkező változás ingatlan-nyilvántartási átvezetéséről.
 
 (7) Az ingatlanügyi hatóság a (6) és (6a) bekezdés szerinti eljárásban meghozott döntését – a változás tulajdoni lapon történő átvezetését követően – kézbesíti a kérelmezőnek, és annak, akinek bejegyzett joga módosult vagy megszűnt.
 

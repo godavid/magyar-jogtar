@@ -221,7 +221,7 @@ közigazgatási tevékenységével kapcsolatos,
 
 (7) Nincs helye illetékességi kikötésnek olyan ügyben, amelyre törvény valamely bíróság kizárólagos illetékességét állapítja meg. A felek a közigazgatási szerződéssel kapcsolatban felmerült jövőbeli jogvitájuk esetére nem köthetik ki a Fővárosi Törvényszék illetékességét.
 
-(8) A közszolgálati jogviszonnyal kapcsolatos perre a munkavégzés helye – ha a munkavégzés helye külföld, akkor a munkáltató szerv székhelye – szerinti bíróság illetékes. A természetes személy felperes a közszolgálati jogviszonnyal kapcsolatos pert a belföldi lakóhelye, ennek hiányában belföldi tartózkodási helye szerint illetékes bíróság előtt is megindíthatja.
+(8) A közszolgálati jogviszonnyal kapcsolatos perre a jogvitával érintett munkavégzés helye – ha a munkavégzés helye külföld, akkor a munkáltató szerv székhelye – szerinti bíróság illetékes. A természetes személy felperes a közszolgálati jogviszonnyal kapcsolatos pert a belföldi lakóhelye, ennek hiányában belföldi tartózkodási helye szerint illetékes bíróság előtt is megindíthatja. A természetes személy alperesnek a legkésőbb az írásbeli ellenkérelemben előadott kérelmére a bíróság a közszolgálati jogviszonnyal kapcsolatos pert a munkavégzés helye szerint illetékes bírósághoz teszi át tárgyalás és elbírálás végett, ha az alperes munkavégzési helye nem azonos a belföldi lakóhelyével, ennek hiányában belföldi tartózkodási helyével.
 
 (9) Több illetékes bíróság közül az a bíróság jár el, amelyhez a keresetlevelet elsőként benyújtották, illetve továbbították.
 
@@ -638,6 +638,10 @@ A felperes keresetétől az alperes hozzájárulása nélkül, a tárgyalás ber
 - c) az általa képviselt fél elmulasztotta az eljárási illeték megfizetésére vonatkozó kötelezettség teljesítését.
 
 (6) Ha a felperes a keresetlevél hiányát a kitűzött határidő alatt pótolja, a keresetlevelet úgy kell tekinteni, mintha eredetileg is hiánytalanul adta volna be.
+
+(7) Ha a jogi képviselő nélkül eljáró természetes személy által előterjesztett keresetlevél nem tartalmazza a kötelező tartalmi elemeket vagy alaki kellékeket, a bíróságnak a hiánypótlásra felhívó végzésben a keresetlevél valamennyi hiányosságát fel kell tüntetnie, és a fél jogban való járatlanságához igazodó teljes körű tájékoztatást kell adnia a hiányok pótlására vonatkozóan.
+
+(8) Hiánypótlásra történő felhívás helyett a bíróság elrendelheti a természetes személy felperes meghallgatását, ha a keresetlevél hiányainak pótlása érdekében azt célravezetőbbnek tartja.
 
 #### 47. § [Áttétel]
 
@@ -1074,7 +1078,7 @@ A bíróság megszüntetheti az eljárást, ha a felperes a kérelmére kitűzö
 
 #### 83. § [A jogsérelem orvoslása közigazgatási eljárásban]
 
-(1) Ha a keresetlevélben állított jogsérelem orvoslása érdekében az arra jogosult közigazgatási szerv eljárást indít, erről haladéktalanul értesíti a bíróságot. A bíróság eljárását a közigazgatási eljárás befejezéséig felfüggeszti.
+(1) Ha a keresetlevél alapján a közigazgatási szerv a cselekményt visszavonja és eljárását folytatja, a cselekményt módosítja, illetve az állított jogsérelem orvoslása érdekében az arra jogosult közigazgatási szerv eljárást indít, erről a keresetlevél továbbításával egy időben vagy az eljárás során haladéktalanul értesíti a bíróságot. A bíróság eljárását a közigazgatási eljárás befejezéséig felfüggeszti.
 
 (2) Az (1) bekezdés szerinti közigazgatási eljárás megindításának ténye legkésőbb az első tárgyaláson, hivatalbóli vizsgálat vagy bizonyítás elrendelése esetén az elrendelés közlésétől számított tizenöt napon belül jelenthető be.
 
@@ -1635,7 +1639,10 @@ A közigazgatási szerv közigazgatási cselekmény megvalósítására vonatkoz
 
 (1) A védiratot – a 40. § (2) bekezdésében meghatározott kivétellel – a keresetlevél benyújtásától, illetve az alperessel való közlésétől számított harminc napon belül kell előterjeszteni.
 
-(2) Szünetelésnek a polgári perrendtartás szabályai szerint van helye, ha a felek azt közösen kérik. Az eljárás a kérelem bírósághoz érkezésétől kezdve szünetel.
+(2) A polgári perrendtartás szabályai szerint szünetel az eljárás, ha
+
+- a) a felek erre vonatkozó megegyezésüket bejelentik, a bejelentésnek a bírósághoz történő beérkezésétől,
+- b) a tárgyalást valamennyi fél elmulasztja, vagy a tárgyaláson megjelent egyik fél sem kívánja az ügy tárgyalását, és a mulasztó fél egyik esetben sem kérte a tárgyalás távollétében történő megtartását, a tárgyalás időpontjától.
 
 (3) A pertárgy értékének meghatározására a polgári perrendtartás szabályait kell alkalmazni. Közszolgálati jogviszonnyal kapcsolatos perben a pertárgy értékének meghatározására a polgári perrendtartás munkaügyi perekre vonatkozó szabályait is alkalmazni kell.
 

@@ -451,6 +451,12 @@ szerződéskötési kötelezettség terheli a távhőellátás biztonságát gar
 
 (6) A díjfizetők személyében bekövetkező változások nem érintik a felhasználó és a távhőszolgáltató között létrejött általános közszolgáltatási szerződés érvényességét. A díjfizető a változás időpontjától jogosult az általános közszolgáltatási szerződésben foglaltak szerint a szolgáltatás igénybevételére és ugyanezen időponttól köteles a távhőszolgáltatás díjainak megfizetésére.
 
+(7) A fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény (a továbbiakban: Khtv.) szerinti adatváltozás-kezelési szolgáltatáshoz csatlakozott távhőszolgáltató köteles a felhasználó vagy a díjfizető adatai változásának felhasználó általi bejelentését az adatváltozás-kezelési szolgáltatás keretében, biztonságos kézbesítési szolgáltatás útján is fogadni és kezelni.
+
+(8) Az adatváltozás-kezelési szolgáltató a felhasználó rendelkezése alapján átadja a távhőszolgáltatónak a Khtv. 20/T. § (2) bekezdés a) pontja, b) pont bc)–be) alpontja, valamint 20/U. § (2) bekezdése szerinti adatokat.
+
+(9) A távhőszolgáltató a felhasználónak az adatváltozás-kezelési szolgáltatásra történő regisztrációja során a Khtv. 20/T. § (2) bekezdés a) pont aa) és ab) alpontja alapján, az adatváltozás-kezelési szolgáltatótól átvett adatait az adatok átvételét követő 60 napon belül összeveti az általa nyilvántartott, a felhasználóra vagy díjfizetőre vonatkozó adatokkal, és eltérés esetén gondoskodik azoknak az átvett adatok szerinti tartalommal történő helyesbítéséről.
+
 38. § (1) Az általános közszolgáltatási szerződés határozatlan időre szól. Az egyedi közszolgáltatási szerződés – ha a felek eltérően nem állapodtak meg – határozott időtartamra szól.
 
 (2) Az általános közszolgáltatási szerződést a felhasználó 30 napos felmondási időpontra, a kormány e törvény végrehajtásáról szóló rendeletében meghatározott módon mondhatja fel, ha együttes feltételként:
@@ -753,7 +759,7 @@ megállapodásokat.
 
 (5) Az engedélyes, illetve az értékesítő köteles a Hivatalnak minden olyan tájékoztatást és adatot megadni, amely a Hivatal árelőkészítő tevékenységéhez szükséges. Az engedélyes, illetve az értékesítő a Hivatal által megjelölt, 15 napnál nem rövidebb határidőn belül adja meg tájékoztatását, illetve szolgáltat adatokat. Az értékesítő az adatszolgáltatással egyidejűleg legalább a távhőárra és a távhőmennyiségre vonatkozó adatokat az érintett távhőszolgáltató részére is megküldi.
 
-(6) A földgáztüzelésen alapuló hőtermelési technológiát alkalmazó távhőtermelő – ideértve a távhőtermelői engedéllyel rendelkező távhőszolgáltatót is – köteles minden év július 1-jéig a következő gázévre vonatkozó földgáz beszerzési szerződést megkötni, és azt a Hivatal számára megküldeni.
+(6) A földgáztüzelésen alapuló hőtermelési technológiát alkalmazó távhőtermelő – ideértve a távhőtermelői engedéllyel rendelkező távhőszolgáltatót is – köteles minden év június 1-jéig a következő gázévre vonatkozó földgáz beszerzési szerződést megkötni, és azt a Hivatal számára megküldeni.
 
 (7) Ha az engedélyes és az értékesítő az (5) bekezdésben foglalt határidőn belül nem nyújt tájékoztatást, szolgáltat adatot vagy foglal állást, a Hivatal a tájékoztatás, adatszolgáltatás, állásfoglalás hiányában is javaslatot tehet a miniszter részére.
 

@@ -40,7 +40,7 @@ Az Országgyűlés figyelembe véve, hogy a hallássérült, valamint a siketvak
 (2) A térítésmentes jelnyelvi tolmácsszolgáltatás
 
 - a) az (1) bekezdés a) és b) pontjában meghatározott esetben az ellátást megállapító határozat,
-- b) az (1) bekezdés c)–e) pontjában meghatározott esetben szakorvosi igazolás, illetve szakorvos által kiadott audiogram
+- b) az (1) bekezdés c) és d) pontjában meghatározott esetben szakorvosi igazolás, illetve szakorvos által kiadott audiogram
 
 bemutatásával vehető igénybe.
 
@@ -48,9 +48,14 @@ bemutatásával vehető igénybe.
 
 (2) Az (1) bekezdés szerinti éves személyenkénti időkereten felül az állam
 
-- a) a tanulói jogviszonnyal összefüggésben a gimnáziumban, szakképző intézményben, illetve szakiskolában tanulói jogviszonyban álló személy részére tanévenként 120 óra,
-- b) a hallgatói jogviszonnyal összefüggésben a felsőoktatási hallgatói jogviszonyban álló személy részére szemeszterenként 60 óra,
-- c) a felnőttképzési jogviszonnyal összefüggésben a szakmai oktatásban vagy a felnőttképzésről szóló törvény szerinti képzésben felnőttképzési jogviszonyban részt vevő személy részére képzésenként a képzés óraszáma 20 százalékának megfelelő mértékű térítésmentes jelnyelvi tolmácsszolgáltatást biztosít.
+- a) az óvodai nevelés során évenként 150 óra, a tanulói jogviszonnyal összefüggésben az általános iskolában, a gimnáziumban, a szakképző intézményben tanulói jogviszonyban álló személy részére tanévenként 300 óra;
+- b) a hallgatói jogviszonnyal összefüggésben a felsőoktatási hallgatói jogviszonyban álló személy részére
+  - ba) nappali rendszerű képzésben történő részvétel esetén szemeszterenként 150 óra,
+  - bb) levelező rendszerű képzésben történő részvétel esetén szemeszterenként 100 óra;
+- c) a képzéssel összefüggésben a felnőttképzésben részt vevő személy részére képzésenként a képzés óraszáma 40 százalékának megfelelő mértékű;
+- d) e törvény mellékletében felsorolt speciális kommunikációs rendszerek használatával kommunikáló hallássérült, valamint siketvak személy részére évenként 30 óra
+
+térítésmentes jelnyelvi tolmácsszolgáltatást biztosít.
 
 6. § (1) A fogyatékos személyek esélyegyenlőségének biztosítására létrehozott, a szociál- és nyugdíjpolitikáért felelős miniszter szakmai felügyelete alatt álló szervezet a térítésmentes jelnyelvi tolmácsszolgáltatást az 5. §-ban meghatározott időkerettel való gazdálkodás, valamint a finanszírozás tekintetében ellenőrzi, továbbá az ellenőrzés céljából nyilvántartást vezet a térítésmentes jelnyelvi tolmácsszolgáltatásról. A szervezet a nyilvántartásban szereplő személyes adatok adatkezelője és adatfeldolgozója.
 
@@ -397,6 +402,7 @@ részletes szabályokat.
 
 - a) a jelnyelvi tolmácsszolgálatok pályáztatásával összefüggő szabályokat és a térítésmentes jelnyelvi tolmácsszolgáltatás finanszírozására vonatkozó részletes szabályokat,
 - b) a térítésmentes jelnyelvi tolmácsszolgáltatás igénybevételének részletes szabályait.
+- c) a jelnyelvi tolmácsok, siket jelnyelvi tolmácsok képzésének szakmai és vizsgakövetelményeire vonatkozó szabályokat.
 
 (8)
 

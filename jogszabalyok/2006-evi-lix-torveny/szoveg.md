@@ -37,8 +37,8 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 - 1. hitelintézetnél a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített adóévet megelőző második adóévi éves beszámoló adataiból számított módosított mérlegfőösszeg vagy az éves beszámolóját a számvitelről szóló 2000. évi C. törvény (a továbbiakban: számviteli törvény) 3. § (10) bekezdés 2. pontjában meghatározott IFRS-ek (a továbbiakban: IFRS-ek) szerint összeállító hitelintézetnél az IFRS-ek szerint készített, az adóévet megelőző második adóévi éves beszámoló adatai alapján meghatározott módosított mérlegfőösszeg;
 - 2. egyéb pénzügyi szervezetnél:
   - a) pénzügyi vállalkozásnál a hitelintézetek és a pénzügyi vállalkozások éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített adóévet megelőző második adóévi éves beszámoló adataiból előjelhelyesen számított aa) kamateredmény, valamint ab) díj- és jutalékeredmény összevont összege, vagy az éves beszámolóját az IFRS-ek szerint összeállító pénzügyi vállalkozásnál az IFRS-ek szerint meghatározott, ennek megfelelő összeg;
-  - b) tőzsdénél a tőzsdék és az elszámolóházi tevékenységet végző szervezetek éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített adóévet megelőző második adóévi éves beszámoló adataiból számított korrigált nettó árbevétel vagy az éves beszámolóját az IFRS-ek szerint összeállító tőzsdénél az IFRS-ek szerint meghatározott, ennek megfelelő összeg;
-  - c) árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél az adóévet megelőző második adóévi éves beszámoló adataiból számított korrigált nettó árbevétel vagy az éves beszámolóját az IFRS-ek szerint összeállító árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél az IFRS-ek szerint meghatározott, ennek megfelelő összeg.
+  - b)
+  - c)
 
 (5)
 
@@ -49,8 +49,8 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 - c) egyéb pénzügyi szervezet esetén:
   - ca) pénzügyi vállalkozásnál 6,5 százalék,
   - cb)
-  - cc) tőzsdénél 5,6 százalék,
-  - cd) árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél 5,6 százalék,
+  - cc)
+  - cd)
   - ce)
 
 (7)
@@ -65,7 +65,7 @@ A költségvetés egyensúlyának javítása érdekében az általános adófize
 
 - a) a hitelintézet az adóalap meghatározásakor számításba vett, a beszámoló, illetve az IFRS-ek szerint vezetett nyilvántartásai adataiból számított módosított mérlegfőösszeget tartalmazó kimutatást,
 - b) a pénzügyi vállalkozás az adóalap meghatározásakor számításba vett, a beszámoló, illetve az IFRS-ek szerint vezetett nyilvántartásai adataiból számított kamateredményt, valamint díj- és jutalékeredményt tartalmazó kimutatást,
-- c) az árutőzsdei szolgáltatást nem kizárólagosan végző árutőzsdei szolgáltató az éves beszámolóban szereplő értékesítés nettó árbevételéből az árutőzsdei szolgáltatásból származó árbevételt tartalmazó kimutatást.
+- c)
 
 (11)
 
@@ -171,13 +171,13 @@ támogatása.
 - 3. pénzügyi szervezet: a hitelintézet és az egyéb pénzügyi szervezet, ideértve a fióktelep formában működő pénzügyi szervezeteket is;
 - 4. hitelintézet: a Hpt. szerinti hitelintézet;
 - 5–6.
-- 7. egyéb pénzügyi szervezet: a pénzügyi vállalkozás, tőzsde, árutőzsdei szolgáltató, kockázati tőkealap-kezelő;
+- 7. egyéb pénzügyi szervezet: a pénzügyi vállalkozás;
 - 8. pénzügyi vállalkozás: a Hpt. szerinti pénzügyi vállalkozás, ide nem értve a Tanács 1083/2006/EK rendeletének 44. cikk b) pont (ii) alpontja alapján felmerülő feladatok ellátására létrejött pénzügyi vállalkozást, továbbá a kizárólag csoportfinanszírozást végző pénzügyi vállalkozást;
 - 9.
-- 10. tőzsde: a tőkepiacról szóló törvény (a továbbiakban: Tpt.) szerinti tőzsde;
-- 11. árutőzsdei szolgáltató: a Bszt. szerinti árutőzsdei szolgáltató;
-- 12. kockázati tőkealap-kezelő: Kbftv. szerinti kockázati tőkealap-kezelő;
-- 13. befektetési alapkezelő: a Kbftv. szerinti befektetési alapkezelő, ide nem értve a kockázati tőkealap-kezelőt;
+- 10.
+- 11.
+- 12.
+- 13. befektetési alapkezelő: a Kbftv. szerinti befektetési alapkezelő, ide nem értve a Kbftv. szerinti kockázatitőkealap-kezelőt;
 - 14. módosított mérlegfőösszeg: az éves beszámoló mérlegében szereplő eszközök értékének együttes összege (a mérlegfőösszeg), csökkentve
   - a) a bankközi hitelből eredő, belföldön székhellyel rendelkező adóssal szemben, vagy belföldön fiókteleppel rendelkező adóssal szemben e fióktelep útján fennálló követeléssel,
   - b) a belföldön székhellyel rendelkező hitelintézet, pénzügyi vállalkozás vagy befektetési vállalkozás által kibocsátott, valamint a belföldön fiókteleppel rendelkező hitelintézet, pénzügyi vállalkozás vagy befektetési vállalkozás által e fióktelep útján kibocsátott, hitelviszonyt megtestesítő értékpapírral,
@@ -197,11 +197,7 @@ támogatása.
 - 16. értékpapírszámla: a Tpt. szerinti értékpapírszámla;
 - 17. kollektív befektetési értékpapír: a Kbftv. szerinti kollektív befektetési értékpapír;
 - 18.
-- 19. korrigált nettó árbevétel:
-  - a)
-  - b) tőzsdénél: a tőzsdei tevékenység bevételei növelve a számvitelről szóló 2000. évi C. törvény 77. § (3) bekezdés k)–o) pontjai hatálya alá tartozó egyéb bevételeken kívüli egyéb bevételekkel;
-  - c) az árutőzsdei szolgáltatást kizárólagosan végző árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél: az értékesítés nettó árbevétele;
-  - d) az árutőzsdei szolgáltatást nem kizárólagosan végző árutőzsdei szolgáltatónál az e tevékenységekből származó nettó árbevétel;
+- 19.
 - 20. nettó eszközérték: a befektetési alap portfóliójában szereplő eszközök – ideértve a kölcsönbe adásból származó követeléseket is – értéke, csökkentve a portfóliót terhelő összes kötelezettséggel, beleértve a passzív időbeli elhatárolásokat is;
 - 21. belföldi bankközi hitel: a más belföldi hitelintézetnek nyújtott hitel, alárendelt kölcsöntőke és kiegészítő alárendelt kölcsöntőke, a más belföldi hitelintézetnél elhelyezett betét, valamint a más belföldi hitelintézettel szemben valódi penziós, óvadéki repó és sajátos szállításos repó ügyletből fennálló követelés együttes összege;
 - 22. árbevétel: a Tao. törvény 4. § 4. pontjában meghatározott fogalom;
@@ -237,3 +233,5 @@ támogatása.
 (3)
 
 15. § A 4/A. § (14)–(19) bekezdésének rendelkezéseit az adózó 2017. adóév vonatkozásában választása szerint alkalmazza, azzal, hogy e választás esetén az adózó a 2017. adóévre vonatkozóan már benyújtott adóbevallását 2017. december 10-éig önellenőrzi.
+
+16. § A naptári évtől eltérő üzleti évet alkalmazó kockázatitőkealap-kezelő, árutőzsdei szolgáltató a 2021-ben kezdődő adóévére vonatkozó pénzügyi szervezetek adókötelezettségét e törvénynek a 2021. december 31-én hatályos rendelkezései figyelembevételével határozza meg.

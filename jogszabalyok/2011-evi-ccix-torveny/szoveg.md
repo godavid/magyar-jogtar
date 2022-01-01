@@ -1203,6 +1203,12 @@ valamint a közműves szennyvízelvezetés és -tisztítás tekintetében
 
 (2) Az ellátásért felelős az érintett felhasználók átvétele, a víziközmű-szolgáltatás folyamatos biztosításához szükséges teendőkre való felkészülés céljából az (1) bekezdésben meghatározott, a felhasználó azonosításához szükséges adatot a 15. § (2) bekezdés szerinti üzemeltetési jogviszony létrejöttével egyidejűleg továbbítja a víziközmű-szolgáltató részére, amely adatot a víziközmű-szolgáltató az ellátási terület birtokba vételéig kezeli.
 
+(2a) Az adatváltozás-kezelési szolgáltatáshoz csatlakozott víziközmű-szolgáltató köteles a felhasználó adatai változásának felhasználó általi bejelentését a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény (a továbbiakban: Khtv.) szerinti adatváltozás-kezelési szolgáltatás keretében biztonságos kézbesítési szolgáltatás útján is fogadni és kezelni.
+
+(2b) Az adatváltozás-kezelési szolgáltató a felhasználó rendelkezése alapján átadja a víziközmű-szolgáltatónak a Khtv. 20/T. § (2) bekezdés a) pontja, b) pont bc)–be) alpontja, valamint 20/U. § (2) bekezdése szerinti adatokat.
+
+(2c) A felhasználónak az adatváltozás-kezelési szolgáltatásra történő regisztrációja során a Khtv. 20/T. § (2) bekezdés a) pont aa) és ab) alpontja alapján az adatváltozás-kezelési szolgáltatótól átvett adatait a víziközmű-szolgáltató az adatok átvételét követő 60 napon belül összeveti az általa nyilvántartott, a felhasználóra vonatkozó adatokkal, és eltérés esetén gondoskodik azoknak az átvett adatok szerinti tartalommal történő helyesbítéséről.
+
 (3) A közérdekű üzemeltető a közérdekű üzemeltetőt kijelölő határozat kézhezvételének napjától a Hivatal kijelölő határozatában meghatározott birtokba lépése időpontjáig az érintett felhasználók átvétele, a víziközmű-szolgáltatás folyamatos biztosításához szükséges teendőkre való felkészülés céljából kezeli a felhasználó azonosításához szükséges, az (1) bekezdésben meghatározott személyes adatot.
 
 61/A. § (1) A víziközmű-szolgáltató a védendő felhasználókat megillető kedvezmények biztosítása céljából kezeli az 58/A. § (1) bekezdés szerinti kedvezményre való jogosultság fennállását igazoló személyes adatokat és a személyes adatok különleges kategóriájába tartozó adatokat.

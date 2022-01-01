@@ -51,7 +51,7 @@ Magyarországon adóztatható része után.
 
 #### 2. Az adó mértéke és fizetendő összege
 
-2. § (1) Az adó mértéke az adóalap 15,5 százaléka, az 1. § (4) bekezdésben foglalt esetekben a juttatások adóalapként meghatározott összegének 15,5 százaléka.
+2. § (1) Az adó mértéke az adóalap 13 százaléka, az 1. § (4) bekezdésben foglalt esetekben a juttatások adóalapként meghatározott összegének 13 százaléka.
 
 (2) Az 1. § (5) bekezdés a)–e) pontja esetében az adót addig kell megfizetni, amíg a természetes személy 1. § (1)–(3) bekezdés és az 1. § (5) bekezdés a)–e) pontja szerinti jövedelme a tárgyévben eléri a minimálbér összegének huszonnégyszeresét (a továbbiakban: adófizetési felső határ).
 
@@ -138,7 +138,7 @@ nem terheli adófizetési kötelezettség.
 
 #### 6. Az egyéni vállalkozó által fizetendő adó alapja
 
-6. § (1) Az Szja tv. rendelkezései szerint a vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozót saját maga után terhelő adó alapja – figyelemmel az adóalap megállapításának különös szabályaira is – a vállalkozói kivét, az átalányadózást alkalmazó egyéni vállalkozót saját maga után terhelő adó alapja az átalányban megállapított jövedelem.
+6. § (1) Az Szja tv. rendelkezései szerint a vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozót saját maga után terhelő adó alapja – figyelemmel az adóalap megállapításának különös szabályaira is – a vállalkozói kivét, az átalányadózást alkalmazó egyéni vállalkozót saját maga után terhelő adó alapja az átalányban megállapított, személyi jövedelemadó köteles jövedelem.
 
 (2)
 
@@ -344,7 +344,7 @@ munkavállalót foglalkoztató – vállalkozásként működő kutatóhelynek m
 - b) kutató-fejlesztő: az Innovációs tv. szerinti kutató-fejlesztő,
 - c) alapkutatás, alkalmazott kutatás, kísérleti fejlesztés: az Innovációs tv. szerinti alapkutatás, alkalmazott kutatás, kísérleti fejlesztés.
 
-#### 17. Az adókedvezményekre vonatkozó közös szabályok
+#### 17. A 10–16. § szerinti adókedvezmények közös szabályai
 
 17. § (1) A kifizető az ugyanazzal a természetes személlyel fennálló munkaviszonyára, közfoglalkoztatási jogviszonyára tekintettel csak egy adókedvezmény igénybevételére jogosult. A több adókedvezmény egyidejű igénybevételét lehetővé tévő külön rendelkezés hiányában az adókedvezmények közötti választás joga a kifizetőt illeti meg.
 
@@ -355,6 +355,25 @@ munkavállalót foglalkoztató – vállalkozásként működő kutatóhelynek m
 (4) Az adókedvezmények egy adott hónap tekintetében egyszeresen vehetők igénybe ugyanazon kifizető és természetes személy között ismételten létesített munkaviszony során. Az ugyanazon kifizető és természetes személy között egyidejűleg fennálló több munkaviszony esetében az kedvezmények egy adott hónap tekintetében egyszeresen vehetők igénybe. Az adókedvezmények igénybevételét ugyanazon kifizető és természetes személy között ismételten létrejött munkaviszonyok során az elsőként létrejött munkaviszony, az egyidejűleg fennálló munkaviszonyok esetében a kifizető döntése alapozza meg.
 
 (5) A munka törvénykönyve szerinti munkáltató személyében bekövetkező változás esetén az adókedvezményt az átvevő munkáltató tovább érvényesítheti a kedvezménnyel érintett időszak fennmaradó részére.
+
+#### 17/A. A szakirányú oktatás és a duális képzés adókedvezménye
+
+17/A. § (1) Az adófizetési kötelezettséget – a 10–17. § szerinti adókedvezményeket, valamint az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény (a továbbiakban: Eat.) IX. fejezet 462/C. §-a, 462/D. §-a, 462/E. §-a és az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvény 250. §-a szerinti adókedvezményeket követő sorrendben – csökkenti
+
+- a) az állam, illetve a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 88. § (6) bekezdése szerinti szakképzési megállapodással vagy az Szkt. 109. § (3) bekezdése szerinti együttműködési megállapodással rendelkező fenntartó által fenntartott
+  - aa) szakképző intézménnyel tanulói jogviszonyban álló tanulónként, illetve felnőttképzési jogviszonyban álló képzésben részt vevő személyenként a szakirányú oktatás, illetve
+  - ab) szakiskolával tanulói jogviszonyban álló tanulónként az Nkt. 13/A. § (3) bekezdése szerinti nevelés-oktatás
+
+arányosított önköltsége alapján az egy munkanapra vetített mérték és – a szakképző intézményben, illetve a szakiskolában teljesített oktatási nap és az olyan munkanap kivételével, amire tekintettel a tanuló, illetve a képzésben részt vevő munkabérre nem jogosult – a tárgyhónap munkanapjai számának szorzataként számított összege,
+
+- b) – ha a tanuló, illetve a képzésben részt vevő személy sikeres szakmai vizsgát tett – az Szkt. 83. § (2) bekezdés a) pontja szerint megkötött és legalább hat hónapos időtartamban fennálló szakképzési munkaszerződésre tekintettel az a) pont alapján jogszerűen igénybe vett adókedvezmény húsz százalékának megfelelő összeg,
+- c) hallgatónként az Nftv. szerinti duális képzés és gyakorlatigényes alapképzési szak arányosított alapnormatívája alapján az egy munkanapra vetített mérték és a tárgyhónapban ténylegesen teljesített képzési napok számának szorzataként számított összege.
+
+(2) Az (1) bekezdéstől eltérően, ha a felnőttképzési jogviszonyban álló képzésben részt vevő személy az Szkt. szerinti szakirányú oktatásban a szakképzési munkaszerződéssel párhuzamosan fennálló foglalkoztatásra irányuló más olyan jogviszonya mellett vesz részt, amelyben a foglalkoztató a duális képzőhelytől eltérő harmadik személy, az adófizetési kötelezettség az (1) bekezdés a) és b) pont szerinti összeg ötven százalékával csökkenthető.
+
+(3) Az önköltség és az alapnormatíva mértékét a központi költségvetésről szóló törvény, az önköltség szakmánként alkalmazandó és az alapnormatíva képzési területenként alkalmazandó súlyszorzóját a Kormány rendeletben határozza meg.
+
+(4) Az e § szerinti adókedvezményt az érvényesítheti, aki a tanulóval, illetve a képzésben részt vevő személlyel az Szkt. alapján szakképzési munkaszerződést, illetve a hallgatóval az Nftv. alapján hallgatói munkaszerződést, gyakorlatigényes alapképzési szak esetében a felsőoktatási intézménnyel együttműködési megállapodást kötött, ideértve azt is, aki a 36/D. § (1) bekezdés b) pontja szerinti együttműködési megállapodást kötött. Az (1) bekezdés szerint megállapított fizetendő adót meghaladó adókedvezményt, továbbá a szociális hozzájárulási adó fizetésére törvény alapján nem köteles személy az e § szerinti adókedvezményt adó-visszaigénylés keretében érvényesítheti.
 
 ### III. Fejezet — ELJÁRÁSI SZABÁLYOK
 
@@ -506,9 +525,9 @@ tanúsítja, az a)–d) pont szerinti esetben az igazolás vagy a diákigazolvá
 
 #### 22. Átmeneti rendelkezések
 
-36. § (1) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény IX. fejezete, valamint az egészségügyi hozzájárulásról szóló 1998. évi LXVI. törvény alapján 2019. január 1-je előtt keletkezett adó, illetve hozzájárulási kötelezettségeket az e törvények 2018. december 31-éig hatályos rendelkezései alapján kell teljesíteni.
+36. § (1) Az Eat. IX. fejezete, valamint az egészségügyi hozzájárulásról szóló 1998. évi LXVI. törvény alapján 2019. január 1-je előtt keletkezett adó, illetve hozzájárulási kötelezettségeket az e törvények 2018. december 31-éig hatályos rendelkezései alapján kell teljesíteni.
 
-(2) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény IX. fejezet (a továbbiakban: Eat.) 462/B. § (2) bekezdése, 462/C. §-a, 462/D. §-a, 462/E. §-a és a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény (a továbbiakban: Szakhoz tv.) 4. § (1a) bekezdése alapján 2018. december 31-én érvényesített kedvezmények az Eat. és a Szakhoz tv. 2018. december 31-én hatályos rendelkezései szerint az érvényesítésre nyitva álló időtartamig igénybe vehetőek. Ha a kifizető az ugyanazzal a természetes személlyel fennálló munkaviszonyára a jelen bekezdésben foglaltak alapján az Eat. és e törvény alapján is jogosult lenne adókedvezményre, akkor az említett munkaviszonyra a kifizető a választása szerint csak egy adókedvezményt érvényesíthet.
+(2) Az Eat. IX. fejezete 462/B. § (2) bekezdése, 462/C. §-a, 462/D. §-a, 462/E. §-a és a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény (a továbbiakban: Szakhoz tv.) 4. § (1a) bekezdése alapján 2018. december 31-én érvényesített kedvezmények az Eat. és a Szakhoz tv. 2018. december 31-én hatályos rendelkezései szerint az érvényesítésre nyitva álló időtartamig igénybe vehetőek. Ha a kifizető az ugyanazzal a természetes személlyel fennálló munkaviszonyára a jelen bekezdésben foglaltak alapján az Eat. és e törvény alapján is jogosult lenne adókedvezményre, akkor az említett munkaviszonyra a kifizető a választása szerint csak egy adókedvezményt érvényesíthet.
 
 (3) Ahol jogszabály – e törvényt kivéve –
 
@@ -517,13 +536,24 @@ tanúsítja, az a)–d) pont szerinti esetben az igazolás vagy a diákigazolvá
 
 irányadó rendelkezést tartalmaz, azon – jogszabály eltérő rendelkezése hiányában – az e törvényben meghatározott adót kell érteni.
 
-(4) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 462/H. §-a szerint a kutatás-fejlesztési tevékenység után érvényesíthető adókedvezményt a kifizető az annak érvényesítésére nyitva álló határidő lejártáig a 2018. december 31-én hatályos rendelkezések szerint érvényesítheti. Az e bekezdés szerint érvényesített adókedvezmény összege nem haladhatja meg a kutatás-fejlesztési tevékenység közvetlen költségei között megjelenő, munkaviszonyban foglalkoztatott munkavállalók vonatkozásában a 16. § szerint érvényesített kedvezmény után fennmaradó adókötelezettség összegét.
+(4) Az Eat. 462/H. §-a szerint a kutatás-fejlesztési tevékenység után érvényesíthető adókedvezményt a kifizető az annak érvényesítésére nyitva álló határidő lejártáig a 2018. december 31-én hatályos rendelkezések szerint érvényesítheti. Az e bekezdés szerint érvényesített adókedvezmény összege nem haladhatja meg a kutatás-fejlesztési tevékenység közvetlen költségei között megjelenő, munkaviszonyban foglalkoztatott munkavállalók vonatkozásában a 16. § szerint érvényesített kedvezmény után fennmaradó adókötelezettség összegét.
 
 36/A. § E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 5. § (1) bekezdés i) pontja, 7. §-a, 22. §-a és 27. §-a 2019. január 1-jétől alkalmazható.
 
 36/B. § A Versenyképesebb Magyarországért program egyes adóintézkedéseinek megvalósítását szolgáló törvények módosításáról szóló 2019. évi C. törvénnyel megállapított 9. § (11) bekezdés a 2019. január 1-jétől keletkezett adókötelezettségre is alkalmazható.
 
 36/C. § Az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 5. § (1) bekezdés e) pont ea) alpontja az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvény hatálybalépésének napjától juttatott jövedelem tekintetében alkalmazható.
+
+36/D. § (1) A 17/A. § (1) bekezdés a) pontját
+
+- a) a szakképzésről szóló 2011. évi CLXXXVII. törvénynek (a továbbiakban: régi Szkt.) az Szkt. hatálybalépését megelőző napon hatályos rendelkezése szerinti tanulószerződéssel gyakorlati képzésben részt vevő tanuló esetében akként kell alkalmazni, hogy
+  - aa) szakirányú oktatás alatt gyakorlati képzést, szakma alatt a régi Szkt. szerinti Országos Képzési Jegyzékben meghatározott szakképesítést, rész-szakképesítést, szakképzési munkaszerződés alatt a régi Szkt. szerinti tanulószerződést kell érteni,
+  - ab) a régi Szkt. szerinti Országos Képzési Jegyzékben meghatározott szakképesítéshez, illetve rész-szakképesítéshez kapcsolódóan a Kormány rendeletében meghatározott súlyszorzót kell figyelembe venni,
+- b) a régi Szkt.-nak az Szkt. hatálybalépését megelőző napon hatályos rendelkezése szerinti olyan együttműködési megállapodással érintett tanuló esetében, amely a tanulót családi és utónevének és oktatási azonosító számának megjelölésével konkrétan meghatározza, akként kell alkalmazni, hogy a tanulóval, illetve a képzésben részt vevő személlyel kötött szakképzési munkaszerződés alatt a szakképző intézménnyel kötött együttműködési megállapodást kell érteni és a 17/A. § (1) bekezdés a) pontja szerinti mérték 70 százalékát lehet az adóév olyan munkanapjai közül figyelembe venni, amelyek átlagában a gyakorlattal lefedett időszak eléri a napi hét órát, és az alkalmazandó súlyszorzó mértéke 1,0.
+
+(2) A 17/A. § (1) bekezdés b) pontja alkalmazásában a tárgyhónapra és tárgyhónapot megelőző időszakokra jogszerűen igénybe vett adókedvezménynek minősül az Szkt. 83. § (2) bekezdés a) pontja alapján megkötött és legalább hat hónapos időtartamban fennálló szakképzési munkaszerződésre tekintettel az Szkt. 2021. december 31-én hatályos 107. § (2) bekezdése alapján jogszerűen igénybe vett kedvezmény is.
+
+36/E. § A 2022. február 1-jétől szakképzési hozzájárulás adónemre befizetett bevételt szociális hozzájárulási adóként kell nyilvántartani, a fennálló követeléseket és kötelezettségeket a szociális hozzájárulási adó terhére kell rendezni.
 
 36/F. § Az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel hatályon kívül helyezett 6. § (6) és (7) bekezdése a 2021. évi adókötelezettség megállapítása során még alkalmazható.
 

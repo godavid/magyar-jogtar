@@ -122,7 +122,11 @@ b)
 
 #### 45. §
 
-#### 46. §
+46. § Az Áfa tv. 167. § c) pontja helyébe a következő rendelkezés lép:
+
+(Mentesül a nyugtakibocsátási kötelezettség alól az adóalany abban az esetben, ha)
+
+„c) az Art. szerinti automataberendezés használatával térítik meg részére az ellenérték adót is tartalmazó összegét.”
 
 #### 47. §
 
@@ -172,7 +176,7 @@ b)
 - 4.
 - 5.
 - 6.
-- 7.
+- 7. 163. § (2) bekezdés b) pontjában az „a kezelőszemélyzet nélküli automata berendezés útján teljesített termékértékesítéstől, szolgáltatásnyújtástól eltérő olyan esetekben” szövegrész helyébe „a 167. § c) pontjától eltérő olyan esetekben”,
 - 8.
 - 9.
 - 10.
@@ -596,7 +600,9 @@ l)
 
 180. § (1)
 
-(2)
+(2) A Kkt. 67/B. §-a helyébe a következő rendelkezés lép:
+
+„67/B. § A közérdeklődésre számot tartó gazdálkodó jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó kamarai tag könyvvizsgáló, illetve könyvvizsgáló cég, a könyvvizsgálata során keletkezett könyvvizsgálati dokumentációt köteles elektronikusan archiválni és megőrizni.”
 
 #### 181. §
 

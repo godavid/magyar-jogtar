@@ -42,7 +42,7 @@ Az Országgyűlés a munkához jutás, a munkahelykeresés, a munkahely megtart�
 - a) nyújt a 651/2014/EU rendelet szerinti súlyosan hátrányos helyzetű munkavállaló foglalkoztatása elősegítése érdekében, és
 - b) nyújthat a csoportos létszámleépítés elkerülése vagy annak hátrányos következményei enyhítése érdekében.
 
-(2) Az állami foglalkoztatási szerv munkaerő-piaci program keretében foglalkoztatást elősegítő támogatást nyújthat a 651/2014/EU rendeletben meghatározott hátrányos helyzetű munkavállaló foglalkoztatásának elősegítése érdekében.
+(2) Az állami foglalkoztatási szerv munkaerőpiaci program keretében az (1) bekezdésben foglaltakon túl foglalkoztatást elősegítő támogatást nyújthat a munkaerőpiaci programban részt vevőnek a foglalkoztatás elősegítése érdekében.
 
 (3) A foglalkoztatáspolitikáért felelős miniszter által meghirdetett munkaerő-piaci program keretében az állami foglalkoztatási szerv foglalkoztatást elősegítő támogatást nyújthat.
 
@@ -198,6 +198,7 @@ kivéve, ha a végrehajtásra az állami adó és vámhatóság megkeresése meg
 - b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet,
 - c) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i, 651/2014/EU bizottsági rendelet,
 - d) a foglalkoztatási szolgálatok európai hálózatáról (EURES), a munkavállalók mobilitási szolgáltatásokhoz való hozzáféréséről és a munkaerőpiacok további integrációjáról, valamint a 492/2011/EU és az 1296/2013/EU rendeletek módosításáról szóló, 2016. április 13-i (EU) 2016/589 európai parlamenti és tanácsi rendelet
+- e) az elbocsátott munkavállalók támogatását szolgáló Európai Globalizációs Alkalmazkodási Alapról (EGAA) és az 1309/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. április 28-i (EU) 2021/691 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 

@@ -146,6 +146,8 @@ a 72. § alapján kerül sor.
 
 (11) A (3) bekezdésben foglaltakon túlmenően abban az esetben is köthető megbízási, illetve vállalkozási szerződés, ha a külpolitikáért felelős miniszter által vezetett minisztérium folyamatos működéséhez szükséges feladatellátás indokolja.
 
+8/A. § A kormányzati szolgálati jogviszony létesítésével és megszüntetésével összefüggésben a munkáltató jogszabályban meghatározott feltételekkel igénybe veheti, és foglalkoztatottjai számára nyújthatja a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
+
 ### II. Fejezet — KÖZÖS SZABÁLYOK
 
 ### Általános magatartási követelmények
@@ -944,7 +946,7 @@ köteles foglalkoztatni. Ezt követően a kormánytisztviselő munkaidejét a k�
 (2) A kormányzati szolgálati jogviszony megszüntethető:
 
 - a) a felek közös megegyezésével,
-- b) áthelyezéssel a közigazgatási szervek között, illetve a közalkalmazotti vagy hivatásos szolgálati jogviszonyt, rendvédelmi igazgatási szolgálati jogviszonyt szabályozó jogszabályok hatálya alá tartozó szervekhez,
+- b) áthelyezéssel a közigazgatási szervek között, illetve a közalkalmazotti, honvédelmi alkalmazotti vagy hivatásos szolgálati jogviszonyt, rendvédelmi igazgatási szolgálati jogviszonyt szabályozó jogszabályok hatálya alá tartozó szervekhez,
 - c) lemondással,
 - d) felmentéssel,
 - e) azonnali hatállyal a próbaidő alatt.
@@ -3592,6 +3594,8 @@ munkanapra emelkedik.
 
 (9) Az államigazgatási szerv a munkaviszonyból származó jogok és kötelezettségek teljesítése érdekében munkaügyi nyilvántartást vezet. A nyilvántartás adattartalma – a kizárólag a kormánytisztviselők esetében releváns adatok kivételével – megegyezik a kormánytisztviselő 2. melléklet szerinti közszolgálati alapnyilvántartásának adataival. A munkaügyi nyilvántartásra, valamint az abból történő adatszolgáltatásra a közszolgálati alapnyilvántartásra vonatkozó szabályokat kell alkalmazni, azzal, hogy az államigazgatási szerv a munkaügyi nyilvántartásban szereplő adatokat a munkaviszony megszűnését vagy megszüntetését követő tizenöt évig kezeli.
 
+(10) A munkaviszony létesítésével és megszüntetésével összefüggésben a munkáltató jogszabályban meghatározott feltételekkel igénybe veheti, és munkavállalói számára nyújthatja a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
+
 ### ZÁRÓ ÉS VEGYES RENDELKEZÉSEK
 
 ### Felhatalmazó rendelkezések
@@ -3651,7 +3655,10 @@ vonatkozó részletes szabályokat;
 - 15.
 - 16. megállapítsa
   - a) az e törvényben meghatározott feladatokkal összefüggésben a személyügyi központ kijelölését, valamint
-  - b) a személyügyi központ jogállására, feladat- és hatáskörére, valamint az e törvény alapján általa folytatott adatfeldolgozásra, vezetett nyilvántartásokra, adatkezelésre és adatszolgáltatásra vonatkozó részletes szabályokat;
+  - b) a személyügyi központ jogállására, feladat- és hatáskörére, valamint az e törvény alapján általa folytatott adatfeldolgozásra, vezetett nyilvántartásokra, adatkezelésre és adatszolgáltatásra
+
+vonatkozó részletes szabályokat;
+
 - 17. megállapítsa
   - a) a közigazgatási alap- és szakvizsgával, valamint az ügykezelői alapvizsgával összefüggésben a vizsgaszervező kijelölését,
   - b) a közigazgatási alap- és szakvizsgára, az ügykezelői alapvizsgára, valamint e vizsgák alóli mentesítésre vonatkozó részletes szabályokat,

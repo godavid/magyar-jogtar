@@ -38,7 +38,7 @@ jelleggel.
 
 1/A. § (1) Fegyveres biztonsági őrség létrehozására
 
-- a) a honvédelemért felelős miniszter a honvédelmi szervezetek létesítményei, a honvédelemért felelős miniszter tulajdonosi joggyakorlása alá tartozó gazdasági társaság létesítményei, továbbá az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságok létesítményei (e törvény alkalmazásában a továbbiakban együtt: a Magyar Honvédség létesítményei)
+- a) a honvédelemért felelős miniszter a honvédelmi szervezetek létesítményei, a honvédelemért felelős miniszter hatósági jogkörébe tartozó, a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény alapján miniszteri rendeletben kijelölt gazdasági társaság létesítményei (e törvény alkalmazásában a továbbiakban együtt: a Magyar Honvédség létesítményei)
 - b) a polgári hírszerzési tevékenység irányításáért felelős miniszter az Információs Hivatal létesítményei,
 - c) a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter az irányítása alatt álló polgári nemzetbiztonsági szolgálatok létesítményei vonatkozásában jogosult.
 

@@ -104,7 +104,7 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 ### IV. Fejezet — A párt vagyona és gazdálkodása
 
-4. § (1) A párt vagyona a tagok által fizetett díjakból, a központi költségvetésből juttatott támogatásból, a párt országgyűlési képviselőcsoportja által az országgyűlési képviselőcsoport működési feltételeit biztosító költségvetési kiadási előirányzat terhére nyújtott támogatásból, az állam által az 5. § alapján ingyenesen átadott ingatlanokból, magyar állampolgár természetes személyek vagyoni hozzájárulásaiból, végintézkedés alapján természetes személyek hagyatékából, a pártnak a 6. §-ban meghatározott gazdasági-vállalkozási tevékenységéből, illetve a párt által alapított egyszemélyes korlátolt felelősségű társaság adózott nyereségéből képződik.
+4. § (1) A párt vagyona a tagok által fizetett díjakból, a központi költségvetésből juttatott támogatásból, az állam által az 5. § alapján ingyenesen átadott ingatlanokból, magyar állampolgár természetes személyek vagyoni hozzájárulásaiból, végintézkedés alapján természetes személyek hagyatékából, a pártnak a 6. §-ban meghatározott gazdasági-vállalkozási tevékenységéből, illetve a párt által alapított egyszemélyes korlátolt felelősségű társaság adózott nyereségéből képződik.
 
 (2) A párt részére – az (1) bekezdésben foglalt kivételektől eltekintve – jogi személy, jogi személyiséggel nem rendelkező szervezet vagyoni hozzájárulást nem adhat, a párt jogi személytől, jogi személyiséggel nem rendelkező szervezettől vagyoni hozzájárulást nem fogadhat el.
 

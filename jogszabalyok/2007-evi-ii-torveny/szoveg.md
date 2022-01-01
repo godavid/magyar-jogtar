@@ -50,6 +50,7 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 - u) őrzött szállás: a személyes szabadságában korlátozott külföldi elhelyezésére szolgáló, az idegenrendészeti eljárásban elrendelt őrizet céljaira sajátosan kialakított létesítmény;
 - v) összevont engedély: olyan tartózkodási engedély, amely a harmadik országbeli állampolgárt Magyarország területén meghatározott foglalkoztatóval foglalkoztatási jogviszony létesítésére és tartózkodásra jogosítja;
 - w) összevont kérelmezési eljárás: olyan eljárás, amely az általa benyújtott kérelem alapján a harmadik országbeli állampolgárnak Magyarország területén való száznyolcvan napon belül kilencven napot meghaladó tartózkodása és meghatározott foglalkoztatóval foglalkoztatási jogviszony létesítése engedélyezésére irányul.
+- x) Fehér Kártya: olyan tartózkodási engedély, amelynek birtokosa Magyarországon kívüli országban igazolt foglalkoztatásra irányuló jogviszonyban áll, és a munkáját Magyarországról fejlett digitális technológiai megoldással végzi, vagy Magyarországon kívüli országban igazolt nyereséggel rendelkező vállalkozásban tulajdoni részesedéssel rendelkezik, és a munkáját vagy a vállalkozása irányítását Magyarországról fejlett digitális technológiai megoldással végzi.
 
 2/A. § E törvény alkalmazásában
 
@@ -450,6 +451,37 @@ való, magas szintű képzettséget igénylő munkavállalásra jogosít.
 (6) Nem kaphat a 20. § (1) és (2) bekezdése alapján tartózkodási engedélyt az a harmadik országbeli állampolgár, aki 2/A. § a)–b) pontjában, valamint a 20/E. § (1) bekezdésében foglalt feltételeknek megfelel.
 
 20/F. § Az Európai Unió tagállama által vállalaton belüli áthelyezés céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár vállalaton belüli áthelyezés céljából tartózkodási engedélyt (hosszú távú mobilitási engedély) kap, ha rendelkezik a 13. § (1) bekezdés a) és d) pontjában, valamint 20/E. § (1) bekezdés a)–b) és f)–i) pontjában meghatározott feltételekkel.
+
+20/G. § (1) Fehér Kártyát az a harmadik országbeli állampolgár kaphat, aki
+
+- a) Magyarországon kívüli országban igazolt foglalkoztatásra irányuló jogviszonyban áll és a munkáját Magyarországról fejlett digitális technológiai megoldással végzi, vagy Magyarországon kívüli országban igazolt nyereséggel rendelkező vállalkozásban tulajdoni részesedéssel rendelkezik, és munkáját vagy vállalkozása irányítását Magyarországról fejlett digitális technológiai megoldással végzi,
+- b) a 13. § (1) bekezdés a), valamint c)–i) pontjában foglalt feltételeknek megfelel, és vele szemben nem állnak fenn a (2) bekezdésben foglalt kizáró okok, és
+- c) nem folytat keresőtevékenységet Magyarországon, valamint magyarországi vállalkozásban tulajdoni részesedéssel nem rendelkezik.
+
+(2) Nem kaphat Fehér Kártyát:
+
+- a) az a harmadik országbeli állampolgár, aki a 20. § (1) és (2) bekezdésében foglalt feltételeknek megfelel,
+- b) aki tanulmányok folytatása célú tartózkodási engedéllyel rendelkezik, vagy aki tanulmányai részeként rövid távú, felügyelt szakmai gyakorlaton vesz részt,
+- c) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló, 1996. december 16-i 96/71/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó harmadik országbeli állampolgár, aki Magyarország területén kiküldetésben tartózkodik,
+- d) az a harmadik országbeli állampolgár, aki a menekültügyi hatóságtól menekültkénti elismerését kérte, vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért,
+- e) akit Magyarország menekültként ismert el, vagy ideiglenes vagy kiegészítő védelemben részesített,
+- f) a befogadott,
+- g) az a harmadik országbeli állampolgár, akiknek kiutasítását ténybeli vagy jogi indokok miatt felfüggesztették,
+- h) az a harmadik országbeli állampolgár, aki EK letelepedési engedéllyel rendelkezik,
+- i) az a harmadik országbeli állampolgár, aki vállalaton belüli áthelyezés keretében érkezik az Unió területére, vagy
+- j) az a harmadik országbeli állampolgár, aki magas szintű képzettséget igénylő munkavállalás céljából lép be az Unió területére.
+
+(3) Az idegenrendészeti hatóság a Fehér Kártyát visszavonja a 18. § (1) bekezdésében foglaltakon túl, ha a harmadik országbeli állampolgár
+
+- a) nem felel meg az (1) bekezdésben foglalt feltételeknek, vagy esetében a (2) bekezdésben foglalt valamely körülmény fennáll,
+- b) Magyarország területét 90 napnál hosszabb időtartamra elhagyta, vagy
+- c) belföldi foglalkoztató részére, illetve érdekében végez munkát, folytat keresőtevékenységet vagy magyarországi vállalkozásban tulajdoni részesedést szerez.
+
+(4) A Fehér Kártya érvényességi ideje legfeljebb egy év, amely ugyanezen célból egy alkalommal legfeljebb egy évvel meghosszabbítható.
+
+(5) A Fehér Kártya kiadására irányuló kérelem tárgyában az idegenrendészeti hatóság az érdemi döntést a kérelem benyújtásától számított harminc napon belül hozza meg.
+
+(6) Fehér Kártyával rendelkező harmadik országbeli állampolgár családtagja részére családi kapcsolatra hivatkozással tartózkodási engedély nem állítható ki.
 
 21. § (1) Tanulmányi célból tartózkodási engedélyt az a harmadik országbeli állampolgár kap, aki
 
@@ -931,7 +963,10 @@ kapott.
 
 (5) Az ideiglenes letelepedési engedély visszavonható, ha a harmadik országbeli állampolgár a 33. § (1) bekezdés a) vagy b) pontjában meghatározott feltételeknek nem felel meg.
 
-(6) Az ideiglenes letelepedési engedélyt vissza kell vonni, ha a harmadik országbeli állampolgárt kiutasították, vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el.
+(6) Az ideiglenes letelepedési engedélyt vissza kell vonni, ha
+
+- a) a harmadik országbeli állampolgárt kiutasították, vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el, vagy
+- b) a harmadik országbeli állampolgár veszélyezteti Magyarország közbiztonságát vagy nemzetbiztonságát.
 
 (7) A harmadik országbeli állampolgár családtagja részére a (2) bekezdés alapján kiállított ideiglenes letelepedési engedélyt vissza kell vonni, ha
 
@@ -943,6 +978,13 @@ kapott.
 (9) Amennyiben a huzamos tartózkodói jogállást igazoló EK tartózkodási engedéllyel rendelkező harmadik országbeli állampolgárt az Európai Unió tagállama menekültként elismerte vagy kiegészítő védelemben részesítette, az idegenrendészeti hatóság az ideiglenes letelepedési engedély kiállítása előtt a 94. §-ban meghatározott adatok feltüntetésével megkeresi az EK tartózkodási engedélyt kiállító tagállamot annak ellenőrzése érdekében, hogy a menekültkénti elismerés vagy kiegészítő védelem továbbra is fennáll-e.
 
 (10) Amennyiben a huzamos tartózkodói jogállást igazoló EK tartózkodási engedéllyel rendelkező harmadik országbeli állampolgárt a magyar menekültügyi hatóság vagy bíróság menekültként elismeri, illetve kiegészítő védelemben részesíti az ideiglenes letelepedési engedély kiállítása előtt, az idegenrendészeti hatóság a 94. §-ban meghatározott adatok feltüntetésével megkeresi az EK tartózkodási engedélyt kiállító tagállamot annak érdekében, hogy az az EK tartózkodási engedély okmány 'Megjegyzések' rovatát módosítsa.
+
+(11) Az ideiglenes letelepedési engedély kiadása vagy visszavonása iránti eljárásban a jogszabályban meghatározott hatóság azon szakkérdésben, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását
+
+- a) az elsőfokú eljárásban húsz,
+- b) a másodfokú eljárásban tizenöt
+
+napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely az a) pont esetében egy alkalommal további húsz nappal, a b) pont esetében egy alkalommal további tizenöt nappal meghosszabbítható. Ezen időtartam az ügyintézési határidőbe nem számít bele.
 
 ### Nemzeti letelepedési engedély
 
@@ -971,14 +1013,16 @@ kapott.
 - a) az első fokon eljáró hatóság hetven,
 - b) a másodfokon eljáró hatóság harminc napon belül bírálja el.
 
-(7) A nemzeti letelepedési engedély kiadása vagy visszavonása iránti eljárásban a jogszabályban meghatározott hatóság azon szakkérdésben, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását
+(7) A nemzeti letelepedési engedély kiadása, valamint a letelepedési, nemzeti letelepedési vagy a bevándorlási engedély visszavonása iránti eljárásban a jogszabályban meghatározott hatóság azon szakkérdésben, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását
 
-- a) az elsőfokú eljárásban harminc,
-- b) a másodfokú eljárásban húsz
+- a) az elsőfokú eljárásban húsz,
+- b) a másodfokú eljárásban tizenöt
 
-napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely időtartam az engedély kiadása iránti eljárásban az ügyintézési határidőbe beleszámít.
+napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely az a) pont esetében egy alkalommal további húsz nappal, a b) pont esetében egy alkalommal további tizenöt nappal meghosszabbítható. Ezen időtartam az ügyintézési határidőbe nem számít bele.
 
 (8) A Magyarországon működő diplomáciai és a hivatásos konzuli tisztviselő által vezetett konzuli képviseletek, a nemzetközi szervezetek, illetve azok magyarországi kirendeltsége, telephelye, irodája, továbbá a kiváltságokkal és mentességekkel törvény alapján rendelkező szervezetek tagjai és családtagjaik részére kibocsátott tartózkodási engedélyek alapján Magyarországon töltött idő az (1) bekezdés a) pontjában meghatározott időbe nem számít bele.
+
+(9) A Fehér Kártya birtokában Magyarországon töltött idő nem számít be az (1) bekezdés a) pontja szerinti tartózkodási időbe.
 
 35/A. §
 
@@ -1051,12 +1095,12 @@ napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely időtart
 
 napon belül bírálja el.
 
-(9) Az EK letelepedési engedély kiadása iránti eljárásban a külön jogszabályban meghatározott hatóság azon szakkérdésben, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását
+(9) Az EK letelepedési engedély kiadása iránti eljárásban a jogszabályban meghatározott hatóság azon szakkérdésben, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását
 
-- a) az elsőfokú eljárásban harminc,
-- b) a másodfokú eljárásban húsz,
+- a) az elsőfokú eljárásban húsz,
+- b) a másodfokú eljárásban tizenöt
 
-napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely időtartam az ügyintézési határidőbe beleszámít.
+napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely az a) pont esetében egy alkalommal további húsz nappal, a b) pont esetében egy alkalommal további tizenöt nappal meghosszabbítható. Ezen időtartam az ügyintézési határidőbe nem számít bele.
 
 39. § (1) Az idegenrendészeti hatóság az EK letelepedési engedélyt visszavonja, ha
 
@@ -1176,7 +1220,7 @@ napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely időtart
 - a) bevándoroltként vagy letelepedettként tartózkodik Magyarország területén,
 - b) bevándorolt vagy letelepedett harmadik országbeli állampolgárral házassági vagy családi életközösségben él, és tartózkodási engedéllyel rendelkezik,
 
-csak akkor utasítható ki, ha további tartózkodása a nemzetbiztonságot, a közbiztonságot vagy a közrendet súlyosan sérti.
+csak akkor utasítható ki, ha további tartózkodása a nemzetbiztonságot, a közbiztonságot vagy a közrendet súlyosan veszélyezteti.
 
 (2a) A (2) bekezdésben meghatározott személy kiutasítását elrendelő határozatot az idegenrendészeti hatóság az (1) bekezdésben meghatározott szempontok figyelembevételével hozza meg.
 
@@ -1190,7 +1234,7 @@ csak akkor utasítható ki, ha további tartózkodása a nemzetbiztonságot, a k
 
 (3) A (2) bekezdésben foglaltakat kérelmének végleges elbírálásáig a menekültügyi hatóságtól menekültkénti elismerését kérő, a menekültként elismert, illetve ideiglenes vagy kiegészítő védelemben részesített harmadik országbeli állampolgár külön jogszabályban meghatározott közvetlen családtagja esetében is alkalmazni kell.
 
-(4) Az emberkereskedelem áldozatává vált harmadik országbeli állampolgárt a számára biztosított gondolkodási idő alatt csak akkor lehet kiutasítani, ha Magyarország területén történő tartózkodása a nemzetbiztonságot, a közbiztonságot vagy a közrendet sérti.
+(4) Az emberkereskedelem áldozatává vált harmadik országbeli állampolgárt a számára biztosított gondolkodási idő alatt csak akkor lehet kiutasítani, ha Magyarország területén történő tartózkodása a nemzetbiztonságot, a közbiztonságot vagy a közrendet veszélyezteti.
 
 (5) Kísérő nélküli kiskorú csak akkor utasítható ki, ha a származási államában vagy más befogadó államban a család egyesítése, illetve az állami vagy egyéb intézményi gondoskodás megfelelően biztosított.
 
@@ -1205,7 +1249,7 @@ csak akkor utasítható ki, ha további tartózkodása a nemzetbiztonságot, a k
 (8) Az Európai Unió tagállama által kiadott, a tagállam területén tartózkodásra jogosító engedéllyel rendelkező harmadik országbeli állampolgár csak akkor utasítható ki, ha
 
 - a) az idegenrendészeti hatóság írásbeli felszólítása ellenére Magyarország területét haladéktalanul nem hagyta el, vagy
-- b) Magyarország területén történő tartózkodása a nemzetbiztonságot, a közbiztonságot vagy a közrendet sérti.
+- b) Magyarország területén történő tartózkodása a nemzetbiztonságot, a közbiztonságot vagy a közrendet veszélyezteti.
 
 (8a) Az Európai Unió tagállama által kiadott, a tagállam területén tartózkodásra jogosító engedéllyel rendelkező harmadik országbeli állampolgárt az idegenrendészeti hatóság Magyarország területéről utasítja ki, elsődlegesen azon tagállamba, amelynek területére a tartózkodási engedélye érvényes.
 
@@ -1270,7 +1314,7 @@ miatt utasított ki.
 
 (5a) A bíróság által elrendelt kiutasítás esetében az idegenrendészeti hatóság az elrendelt kiutasításnak megfelelő beutazási és tartózkodási tilalom időtartamát a bíróság határozatában meghatározott időtartamban rögzíti az idegenrendészeti nyilvántartásban.
 
-(6) A beutazási és tartózkodási tilalom legfeljebb tíz évre rendelhető el, ha a harmadik országbeli állampolgár tartózkodása Magyarország területén a közrendet, a közbiztonságot vagy a nemzetbiztonságot jelentősen veszélyeztetné.
+(6) A beutazási és tartózkodási tilalom legfeljebb tíz évre rendelhető el, ha a harmadik országbeli állampolgár tartózkodása Magyarország területén a közrendet, a közbiztonságot vagy a nemzetbiztonságot súlyosan veszélyeztetné.
 
 (7) A kiutasítás miatt elrendelt beutazási és tartózkodási tilalom időtartamát az Európai Unió tagállamai területének elhagyásának napjától, vagy ha ez nem ismert, az erre meghatározott határnaptól kell számítani.
 
@@ -1796,6 +1840,10 @@ származó jövedelemmel rendelkezik.
 ### Az EU Kék Kártyával rendelkező harmadik országbeli állampolgár bejelentési kötelezettsége
 
 75/A. § Az EU Kék Kártyával rendelkező harmadik országbeli állampolgár köteles a foglalkoztatásra irányuló jogviszony megszűnését, az azt követő újabb foglalkoztatásra irányuló jogviszony keletkezését, annak kezdő, illetve befejező időpontjától számított öt napon belül bejelenteni az idegenrendészeti hatóságnak.
+
+### A Fehér Kártyával rendelkező harmadik országbeli állampolgár bejelentési kötelezettsége
+
+75/B. § A Fehér Kártyával rendelkező harmadik országbeli állampolgár köteles a Magyarországon kívüli országban igazolt foglalkoztatásra irányuló jogviszonyának, illetve vállalkozási tevékenységének megszűnését a befejezés időpontjától számított öt napon belül bejelenteni az idegenrendészeti hatóságnak.
 
 ### VIII. Fejezet — A HONTALAN STÁTUSZ MEGÁLLAPÍTÁSA ÉS A HARMADIK ORSZÁGBELI ÁLLAMPOLGÁROK ÚTI OKMÁNNYAL ELLÁTÁSA
 
@@ -2905,6 +2953,8 @@ részére továbbíthat adatot.
 (1b) A legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás során a 102. § (1) bekezdés a), c) és d) pontja, valamint a 104. § (1) bekezdése szerinti résznyilvántartásokból igényelhet adatokat. Az igazságügyért felelős miniszter az egyes bírósági eljárások elhúzódásával kapcsolatos vagyoni elégtétel érvényesítésével összefüggő egyezségkötési eljárás és az alaptalanul alkalmazott szabadságkorlátozással összefüggő egyszerűsített kártalanítási eljárás során – az eljárás lefolytatásához szükséges természetes személyazonosító adatokról, lakcím adatokról és értesítési cím adatokról – az idegenrendészeti résznyilvántartásokból igényelhet adatokat.
 
 (1c) Az idegenrendészeti hatóság a központi idegenrendészeti nyilvántartáshoz a Magyar igazolvány, illetve a Magyar hozzátartozói igazolvány kiadása iránti kérelmet elbíráló hatóság részére a kérelem elbírálására irányuló eljárás során a jogosultsági feltételek vizsgálatához, továbbá az igazolvány visszavonására irányuló eljárás során a visszavonási ok fennállásának vizsgálatához a kiutasításra, a beutazási és tartózkodási tilalom fennállására, valamint a bevándorolt vagy letelepedett jogállás fennállására vonatkozó adatok tekintetében közvetlen hozzáférést biztosít.
+
+(1d) Az idegenrendészeti hatóság a szociális ellátások ügyvitelét támogató rendszer útján megkeresésre adatot szolgáltat a fővárosi és megyei kormányhivatalok részére a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti pénzbeli és természetbeni szociális ellátások, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti gyermektartásdíj megelőlegezésének a jogosultság fennállásának elbírálása, az ellátás biztosítása, fenntartása és megszüntetése céljából.
 
 (2) Az (1)–(1c) bekezdésben meghatározott adattovábbításról az idegenrendészeti hatóság adattovábbítási nyilvántartást vezet, amely tartalmazza, hogy mely szervnek, milyen célból továbbított adatokat. Az idegenrendészeti hatóság az adattovábbítási nyilvántartásban az adatokat az adat továbbításától számított öt évig kezeli.
 

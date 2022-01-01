@@ -4946,6 +4946,8 @@ hajtja végre.
 
 (3) Más állatot az élelmiszerlánc-felügyeleti szervnek kell átadni.
 
+(4) Az e §-ban meghatározott esetben az élő állat elkobzását az arra jogosult hatóságnak vagy szervnek történő átadással kell végrehajtani. Az átvevő hatóság vagy szerv az állat átvételét követően a rá irányadó szabályok szerint gondoskodik az állat további sorsáról.
+
 ### Az elkobzott dolog megosztása, átadása
 
 320. § (1) Ha az elkobzás foganatosítása az Európai Unió másik tagállama bírósági határozatának elismerése alapján történik, az elkobzott dolog, vagy annak értékesítéséből befolyt összeg megosztása egyenlő arányban történik a határozatot kibocsátó tagállam és a magyar állam között. Nem kell megosztani az elkobzott dolgot, vagy az annak értékesítéséből befolyt összeget, ha annak értéke a tízezer eurót nem haladja meg.

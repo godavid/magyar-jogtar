@@ -82,7 +82,7 @@ Az Országgyűlés a korszerű és hatékony kormányzati igazgatási szervezetr
 (3) Kormányzati főhivatal:
 
 - a) a Központi Statisztikai Hivatal,
-- b) az Országos Atomenergia Hivatal,
+- b)
 - c) a Szellemi Tulajdon Nemzeti Hivatala, és
 - d)
 
@@ -2115,6 +2115,8 @@ alakul át.
 (1) A kormánytisztviselő jogviszonya megszüntetésekor, illetve megszűnésekor a feladataival kapcsolatos iratait köteles átadni és a kormányzati igazgatási szervvel elszámolni. Az átadás-átvétel és az elszámolás feltételeit a kormányzati igazgatási szerv köteles biztosítani.
 
 (2) A jogviszony megszüntetésekor vagy megszűnésekor az utolsó munkában töltött napon, de legkésőbb tizenöt napon belül a kormánytisztviselő illetményét és egyéb járandóságait – a szabadságmegváltás kivételével – részére ki kell fizetni, valamint ki kell adni a jogviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolásokat.
+
+(3) A kormányzati szolgálati jogviszony létesítésével és megszüntetésével összefüggésben a munkáltató jogszabályban meghatározott feltételekkel igénybe veheti, és foglalkoztatottjai számára nyújthatja a személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
 
 #### 116. § [A jogviszony jogellenes megszüntetésének jogkövetkezményei]
 
@@ -4510,6 +4512,8 @@ illetménynek megfelelő összeg.
 
 (7) Az e törvény szerinti szabályzat és közszolgálati szabályzat a munkavállalók esetében az Mt. 17. §-a szerinti munkáltatói szabályzatnak minősül.
 
+(8) A munkaviszony létesítésével és megszüntetésével összefüggésben a munkáltató jogszabályban meghatározott feltételekkel igénybe veheti, és munkavállalói számára nyújthatja a személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
+
 #### 279. § [A munkaviszony létrehozása]
 
 (1) A kormányzati igazgatási szerv feladatainak ellátására – a (2) és (3) bekezdésben foglaltak figyelembevételével – munkaviszony is létesíthető.
@@ -4558,6 +4562,7 @@ illetménynek megfelelő összeg.
 - 20. közszolgálati szabályzat:
   - a) a kormányzati igazgatási szerv hivatali szervezetének vezetője által – a jogalkotásról szóló 2010. évi CXXX. törvény alkalmazása szempontjából közjogi szervezetszabályozó eszközként – az e törvényben meghatározott kérdésekben, valamint a hivatali szervezet vezetőjének általános munkáltatói szabályozási hatáskörébe tartozó kérdésekben kiadott normatív utasítás, vagy
   - b) ha a kormányzati igazgatási szerv hivatali szervezetének vezetője közjogi szervezetszabályozó eszköz kiadására nem jogosult, az e törvényben meghatározott kérdésekben, valamint a hivatali szervezet vezetőjének általános munkáltatói szabályozási hatáskörbe tartozó kérdésekben a hivatali szervezet vezetője által egyéb formában kiadott belső, normatív szabályzat;
+- 20a. Közszolgálati Személyügyi Szolgáltatási Keretrendszer: a személyügyi központ által az e törvény hatálya alá tartozó, valamint más foglalkoztatási jogviszonyokban álló foglalkoztatottak és munkáltatók részére térítésmentesen nyújtott szolgáltatások összessége, mely módszertani támogatást, szakrendszert, elemző felületet foglal magába.
 - 21. levonásmentes illetményrész: a bírósági végrehajtásról szóló törvény alapján teljesíthető levonások után fennmaradó illetményrész;
 - 22. munkaidő: a munkavégzésre előírt idő kezdetétől annak befejezéséig tartó idő, valamint a munkavégzéshez kapcsolódó előkészítő és befejező tevékenység időtartama, ide nem értve – a készenléti jellegű feladatkört kivéve – a munkaközi szünetet, az ebédidőt, a kormánytisztviselő lakó- vagy tartózkodási helyéről a tényleges munkavégzés helyére, valamint a munkavégzés helyéről a lakó- vagy tartózkodási helyére történő utazás időtartamát;
 - 23. idényjellegű tevékenység: a munkáltató tevékenysége munkaszervezéstől függetlenül az év valamely időszakához vagy időpontjához kötődik;
@@ -4624,7 +4629,10 @@ illetménynek megfelelő összeg.
 - 1. az e törvény hatálya alá tartozó munkavégzésre irányuló jogviszonyokkal kapcsolatos munkáltatói jogkör gyakorlásának szabályait;
 - 2. az álláshellyel kapcsolatosan a munkáltatói jogkör gyakorlója által megállapítható szakmai és képesítési követelmények meghatározásának szempontjait és kereteit;
 - 3. a főosztályvezetői és az osztályvezetői álláshely betöltéséhez szükséges feltételeket;
-- 4.
+- 4. a Közszolgálati Személyügyi Szolgáltatási Keretrendszer
+  - a) által nyújtott szolgáltatások igénybevételére vonatkozó feltételeket, szabályokat, eljárásrendet,
+  - b) informatikai üzemeltetését végző szervezetet, valamint
+  - c) az állásportálokkal való együttműködési megállapodás tartalmi elemeit;
 - 5. az ösztöndíjas jogviszony részletes szabályait;
 - 6. a 149. § (2) bekezdése szerinti kezességvállalás részletszabályait;
 - 7. a kormánytisztviselő részére nyújtható szociális jellegű támogatásra vonatkozó részletes szabályokat;

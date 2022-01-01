@@ -204,18 +204,19 @@ az e §-ban meghatározottak szerint belső kontrollrendszert működtet.
 
 (4) A köztulajdonban álló gazdasági társaság első számú vezetője gondoskodik a belső ellenőrzési funkció kialakításáról, megfelelő működtetéséről és függetlenségének biztosításáról. A belső ellenőrzést végző személy vagy szervezeti egység a tevékenységét a köztulajdonban álló gazdasági társaság első számú vezetőjének közvetlenül alárendelve végzi az (5) bekezdésben foglalt kivételekkel.
 
-(5) A felügyelőbizottság a belső ellenőrzést végző személy vagy szervezeti egység tevékenységére vonatkozóan:
+(5) A felügyelőbizottság a belső ellenőrzést végző személy vagy szervezeti egység tevékenységére vonatkozóan
 
-- a) elfogadja a belső ellenőrzés éves ellenőrzési tervét, illetve annak módosítását, valamint megtárgyalja az éves ellenőrzési beszámolóját,
-- b) legalább félévente megtárgyalja a belső ellenőrzés által készített jelentéseket, és ellenőrzi a szükséges intézkedések végrehajtását,
+- a) elfogadja a stratégiai ellenőrzési tervet, a belső ellenőrzés éves ellenőrzési tervét, azok módosításait, valamint megtárgyalja az éves ellenőrzési beszámolóját,
+- b) legalább félévente megtárgyalja a belső ellenőrzést végző személy vagy a belső ellenőrzést végző szervezeti egység vezetője által tájékoztatásul megküldött jelentéseket, és a belső ellenőrzés tárgybeli tájékoztatására alapozva ellenőrzi a szükséges intézkedések végrehajtását,
 - c) szükség esetén külső szakértő felkérésével segíti a belső ellenőrzés munkáját,
-- d) javaslatot tehet soron kívüli ellenőrzés vagy tanácsadói jellegű megbízás végrehajtására,
-- e) javaslatot tehet a belső ellenőrzési szervezeti egység létszámának változtatására, és
-- f) ajánlásokat és javaslatokat dolgozhat ki a belső ellenőrzést végző személy vagy szervezeti egység által végzett vizsgálatok megállapításai alapján.
+- d) javaslatot tehet soron kívüli ellenőrzés vagy tanácsadói jellegű megbízás végrehajtására a belső ellenőrzési kapacitás rendelkezésre állásának figyelembevétele mellett,
+- e) javaslatot tehet a belső ellenőrzési szervezeti egység létszámának változtatására,
+- f) ajánlásokat és javaslatokat dolgozhat ki a belső ellenőrzést végző személy vagy szervezeti egység által végzett vizsgálatok megállapításai alapján a belső ellenőrzés egyidejű tájékoztatása mellett, és
+- g) jóváhagyja a belső ellenőrzési alapszabályt, valamint a belső ellenőrzési kézikönyvet.
 
 (6) A belső ellenőrzési vezető – egyszemélyes feladatellátás esetén a belső ellenőrzést végző személy – kiválasztásával, jogviszonyának létesítésével, megszűnésével, valamint a belső ellenőrzés erőforrásainak – létszám, költségvetés – biztosításával kapcsolatos döntések a felügyelőbizottság előzetes jóváhagyásával hozhatóak meg.
 
-(7) A belső ellenőrzést végző személy vagy szervezeti egység számára soron kívüli ellenőrzésre vagy tanácsadói tevékenységre szóló felkérés csak a felügyelőbizottság előzetes egyetértésével adható.
+(7) A belső ellenőrzést végző személy vagy szervezeti egység számára soron kívüli ellenőrzésre vagy tanácsadói tevékenységre szóló felkérés csak a felügyelőbizottság – a köztulajdonban álló gazdasági társaság belső ellenőrzési alapszabályában, illetve belső ellenőrzési kézikönyvében meghatározott eljárásrend szerinti – előzetes egyetértésével adható.
 
 (8) Köztulajdonban álló gazdasági társaságnál csak az végezhet belső ellenőrzést, aki szerepel az államháztartásért felelős miniszter által a belső ellenőrzési tevékenység folytatására jogosult személyekről az államháztartásról szóló 2011. évi CXCV. törvény 70. § (5) bekezdése szerinti adattartalommal vezetett nyilvántartásban.
 

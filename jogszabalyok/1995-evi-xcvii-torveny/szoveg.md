@@ -107,6 +107,7 @@ látja el.
 - n) az állami célú légiközlekedéssel összefüggő repülésbiztonsági szervezet engedélyezése,
 - o) az állami légijárművekkel és a pilóta nélküli állami légijárművekkel előforduló légiközlekedési balesetekkel és repülőeseményekkel kapcsolatos közigazgatási hatósági eljárás lefolytatása,
 - p) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér létesítésének, fejlesztésének és megszüntetésének engedélyezése.
+- q) a légiközlekedési szakszemélyzet repülőorvosi minősítésének másodlagos felülvizsgálati eljárása.
 
 (2c) Az ügyintézési határidő 90 nap a frekvencia-hozzájárulással kapcsolatos előzetes nemzeti és nemzetközi frekvenciaegyeztetés, illetve frekvenciakoordináció során.
 
@@ -602,7 +603,7 @@ bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes szemé
 
 meghatározott tevékenység folytatásához.
 
-(3) Pilóta nélküli légijárművel légiközlekedési tevékenység – a 71. § 10. pont e) alpontjában meghatározott kivétellel – légiközlekedési hatósághoz tett, az e törvény végrehajtási rendeletében meghatározott előzetes bejelentést követően folytatható.
+(3)
 
 (3a) A pilóta nélküli légijármű-rendszerekről és a pilóta nélküli légijármű-rendszerek harmadik országbeli üzemben tartóiról szóló, 2019. március 12-i (EU) 2019/945 felhatalmazáson alapuló bizottsági rendelet szerinti bejelentő hatóság és piacfelügyeleti hatóság Magyarországon a légiközlekedési hatóság.
 
@@ -661,7 +662,16 @@ elkövetésének alapos gyanúja miatt büntetőeljárás hatálya alatt áll,
 
 (5) Ha a jó hírnév követelményét nem magyar állampolgárnak kell teljesítenie, kizáró oknak kell tekinteni a tevékenységi engedélynek – a (3) bekezdésben meghatározott okok alapján – az engedélyt kiadó országban történő elvesztését is.
 
-#### 23/C. §
+23/C. § (1) A légiközlekedési hatóság a gazdasági célú légiközlekedési tevékenység végzésére vagy a légiközlekedéssel összefüggő tevékenység végzésére engedélyt kérelemre annak a vállalkozási tevékenységet – ide nem értve a léginavigációs szolgáltatást – folytató természetes-, vagy jogi személynek adja ki, amely igazolja a megfelelő pénzügyi teljesítőképességét.
+
+(2) E § alkalmazásában a pénzügyi teljesítőképesség abban az esetben tekinthető igazoltnak, ha a vállalkozási tevékenységet folytató természetes-, vagy jogi személy, vagy egyéb szervezet,
+
+- a) az adózás rendjéről szóló törvény szerint köztartozásmentes adózónak minősül, és
+  - aa) ezt harminc napnál nem régebben kiállított közokirattal igazolja, vagy
+  - ab) szerepel a köztartozásmentes adózói adatbázisban, valamint
+- b) rendelkezik a légiközlekedési kötelező felelősségbiztosításról szóló kormányrendeletben előírt biztosító által nyújtott felelősségbiztosítással.
+
+(3) Ha a légiközlekedési hatóság azt állapítja meg, hogy a pénzügyi teljesítőképesség a (2) bekezdésben foglaltak szerint nem igazolt, akkor az (1) bekezdés szerinti engedélyeket visszavonja.
 
 ### A légi személyszállítás és a légi árufuvarozás
 
@@ -891,7 +901,10 @@ kezelheti.
 
 31. § Az állami célú légiközlekedés esetén a katonai repülésirányító szolgálat ellátásához szükséges szakmai ismeretekre vonatkozó képzést a honvédelemért felelős miniszter által kijelölt szervezetek végzik. A képzés feltételeiről a honvédelemért felelős miniszter gondoskodik.
 
-32. § (1) A komplex motoros meghajtású légijármű vezetésére vonatkozó típusképzésen való részvételt a képzőszervezet a képzés megkezdése előtt legalább tíz munkanappal, írásban bejelenti az általános rendőrségi feladatok ellátására létrehozott szervnek közbiztonsági, nemzetbiztonsági és terrorfenyegetettségi érdek vizsgálata céljából.
+32. § (1) A képzőszervezet a képzés megkezdése előtt legalább tíz munkanappal, írásban bejelenti az általános rendőrségi feladatok ellátására létrehozott szervnek közbiztonsági, nemzetbiztonsági és terrorfenyegetettségi érdek vizsgálata céljából
+
+- a) a légijármű és a repülőeszköz személyzet, valamint a repülésüzemi tiszt képzéséről, vizsgáztatásáról, engedélyeiről és a képzésükben részt vevő képző szervezetek engedélyezéséről szóló 53/2016. (XII. 16.) NFM rendelet 22. §-ában meghatározott, valamint
+- b) az 1178/2011/EU európai parlamenti és tanácsi rendelet I. melléklete A–J alrészében meghatározott elméleti és gyakorlati képzésen való részvételt.
 
 (2) Az írásbeli bejelentésnek tartalmaznia kell
 
@@ -1118,7 +1131,7 @@ vagy légiközlekedéssel összefüggő tevékenység
 
 (3a) Az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér repülőtérrendjét a katonai légügyi hatóság jóváhagyja, ha az megfelel a jogszabályi rendelkezéseknek.
 
-(4) A repülőtérrendben foglalt szabályok, továbbá a légijárművek repülőtéren és a repülőtér körzetének légterében való közlekedésének szabályozására vonatkozó előírások megtartását a légiközlekedési hatóság – állami repülések céljára szolgáló repülőtér esetében a katonai légügyi hatóság és közös felhasználású repülőtér esetében a katonai légügyi hatóság a légiközlekedési hatóság, mint szakhatóság bevonásával – ellenőrzi. A rendelkezések megszegőit figyelmezteti. A légiközlekedési hatóság – állami repülések céljára szolgáló repülőtér és közös felhasználású repülőtér tekintetében a katonai légügyi hatóság – az előírásokat ismételten megszegőt a repülőtér használatában, illetve tevékenységében korlátozza vagy attól meghatározott időre eltiltja.
+(4) A repülőtérrendben foglalt szabályok, továbbá a légijárművek repülőtéren és a repülőtér körzetének légterében való közlekedésének szabályozására vonatkozó előírások megtartását a légiközlekedési hatóság – állami repülések céljára szolgáló repülőtér esetében a katonai légügyi hatóság és közös felhasználású repülőtér esetében a katonai légügyi hatóság a légiközlekedési hatóság, mint szakhatóság bevonásával – ellenőrzi. A légiközlekedési hatóság – állami repülések céljára szolgáló repülőtér és közös felhasználású repülőtér tekintetében a katonai légügyi hatóság – az előírásokat ismételten megszegőt a repülőtér használatában, illetve tevékenységében korlátozza vagy attól meghatározott időre eltiltja.
 
 50/B. § (1) A nyilvános repülőtér és azon polgári célú nem nyilvános repülőtér esetében, amelyen műszeres repülési vagy különleges látvarepülési eljárásokat tettek közzé, a repülőtér körüli légtér akadálymentességének biztosítása érdekében a repülőtér üzembentartója akadálykorlátozási felületeket jelöl ki.
 
@@ -1266,7 +1279,7 @@ köteles elhelyezni és karbantartani.
 
 (4) A légiforgalmi irányító szolgálat utasítása a légijármű parancsnoka számára kötelező, attól csak veszély elhárítása érdekében térhet el.
 
-(5) A nemzeti felügyeleti hatóság (a továbbiakban: felügyeleti hatóság) a léginavigációs szolgálatoknak az egységes európai égbolt keretében történő ellátásáról szóló, 2004. március 10-i 550/2004/EK európai parlamenti és tanácsi rendelet („léginavigációs-szolgálati rendelet”) 15. cikk (2) bekezdés b) pontjában foglaltaknak megfelelően a részéről felmerült költségeket jogosult érvényesíteni a magyar légtér igénybevételéért fizetendő díjban, az azzal összefüggő költségalap részeként. A költségek fedezésére megállapított összeg mértéke 2023. december 31-ig évi 500 millió forint, ezt követően a megállapított költségátalány mértéke megegyezik a mindenkori, az egységes európai égboltra vonatkozó teljesítmény- és díjszámítási rendszer létrehozásáról, valamint a 390/2013/EU és a 391/2013/EU végrehajtási rendelet hatályon kívül helyezéséről szóló, 2019. február 11-i (EU) 2019/317 bizottsági végrehajtási rendelet alapján elfogadott és a Bizottság által jóváhagyott teljesítménytervben meghatározott összeggel. A költségátalánnyal a légiforgalmi irányító szolgálat ellátására kijelölt szerv által ellátott valamennyi olyan tevékenységével kapcsolatos felügyeleti díj, amelynek a megfizetésére e szerv a 66/C. § (1) bekezdése alapján kötelezett, megfizetettnek tekintendő.
+(5) A nemzeti felügyeleti hatóság (a továbbiakban: felügyeleti hatóság) az 550/2004/EK európai parlamenti és tanácsi rendelet 15. cikk (2) bekezdés b) pontjában foglaltaknak megfelelően a részéről felmerült költségeket jogosult érvényesíteni a magyar légtér igénybevételéért fizetendő díjban, az azzal összefüggő költségalap részeként. A költségek fedezésére megállapított összeg mértéke megegyezik a mindenkori, az (EU) 2019/317 bizottsági végrehajtási rendelet 29. cikke alapján kihirdetett, a magyar légtér igénybevételéért fizetendő díjban figyelembe vett nominális – a Bizottság által elfogadott teljesítménytervben, ennek hiányában a benyújtott teljesítményterv tervezetben nevesített – felügyeleti költségeknek a nemzeti felügyeleti hatóságra vonatkozó értékével. A költségátalánnyal a légiforgalmi irányító szolgálat ellátására kijelölt szerv által ellátott valamennyi olyan tevékenységével kapcsolatos felügyeleti díj, amelynek a megfizetésére e szerv a 66/C. § (1) bekezdése alapján kötelezett, megfizetettnek tekintendő.
 
 (5a) A 61/A. § (3) bekezdés m) pontjában kijelölt költségalap-kezelőnek (a továbbiakban: költségalap-kezelő) az (5) bekezdésben meghatározott összeget negyedéves egyenlő részletekben, a negyedévet követő hónap tizenötödik napjáig kell forintban átutalni a felügyeleti hatóság számlájára. A magyar légtérhez kapcsolódó költségalap-elszámolás biztosítása érdekében a felügyeleti hatóság köteles a felmerült költségekről a tárgyévet követő év február 15-ig kimutatást készíteni és azt megküldeni a költségalap-kezelő részére.
 
@@ -1304,7 +1317,7 @@ továbbá Magyarország légterében a légiforgalmi navigációs, távközlési
 - k) műszaki dokumentációs és ahhoz kapcsolódó tájékoztató tevékenység ellátása;
 - l) a koordinált és menetrend-egyeztetett repülőtereken a résidőkiosztás és menetrend-egyeztetés;
 - m) a magyar légtér igénybevételéért fizetendő díjjal összefüggő – nemzetközi szerződésben meghatározott – költségalap kezelése;
-- n) Budapest Liszt Ferenc Nemzetközi Repülőtéren és légterében repülésmeteorológiai feladatok ellátása;
+- n)
 - o) Budapest Liszt Ferenc Nemzetközi Repülőtér légterében, valamint a külön jogszabályban meghatározott Budapest közelkörzet légtereiben alkalmazott műszer szerinti repülési eljárások tervezése;
 - p) a pilóta nélküli légijárművek használatát támogató, az aktuális légtér információkat és egyéb korlátozásokat tartalmazó honlap és mobilalkalmazás üzemeltetése.
 
@@ -1383,6 +1396,34 @@ a felhasználói fiókja érvényességi idejének lejártától számított 60 
 63/D. § A munkáltató a légiforgalmi irányítói szakszolgálati engedélyekre és tanúsítványokra vonatkozó formai követelményeknek és igazgatási eljárásoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő meghatározásáról, a 923/2012/EU bizottsági végrehajtási rendelet módosításáról és a 805/2011/EU bizottsági rendelet hatályon kívül helyezéséről szóló, 2015. február 20-i (EU) 2015/340 bizottsági rendelet IV. melléklet A. alrész 1. szakasz ATCO.MED.A.020 pontja, továbbá a légiforgalmi szolgáltatást/léginavigációs szolgálatokat és más légiforgalmi szolgáltatási hálózati funkciókat és azok felügyeletét ellátó szolgáltatókra vonatkozó közös követelmények meghatározásáról, valamint a 482/2008/EK rendelet, az 1034/2011/EU, az 1035/2011/EU és az (EU) 2016/1377 végrehajtási rendelet hatályon kívül helyezéséről, továbbá a 677/2011/EU rendelet módosításáról szóló, 2017. március 1-jei (EU) 2017/373 bizottsági végrehajtási rendelet XIII. melléklet
 
 A. alrészének végrehajtása érdekében ellenőrzési rendszert alakít ki.
+
+63/E. § (1) Az e törvény 61/A. § (2) bekezdésében meghatározott munkáltatónál a sztrájkról szóló 1989. évi VII. törvény 4. § (2) bekezdésében meghatározott még elégséges szolgáltatás mértéke a munkabeszüntetéssel érintett időszakra vetítve
+
+- a) a Budapest CTA légterében a Körzeti Irányítás (ACC) esetében – a légiforgalmi szolgáltatási (ATM) hálózati funkciók végrehajtására vonatkozó részletes szabályok megállapításáról és a 677/2011/EU bizottsági rendelet hatályon kívül helyezéséről szóló 2019. január 24-i 2019/123/EU bizottsági végrehajtási rendelet alapján – a kijelölt hálózatirányító (a továbbiakban: Network Manager) által az adott napon a sztrájkkal érintett időszakra megadott forgalmi igényhez rendelt szektorok kapacitásának 75%-a;
+- b) a Budapest Liszt Ferenc Nemzetközi Repülőtér (a továbbiakban: LHBP) Torony Irányítása esetében az LHBP-re rendelkezésre álló futópályához tartozó, a Network Manager felé előzetesen megadott érkező kapacitás 75%-a, továbbá az összes induló járat;
+- c) a Budapest Közelkörzeti Irányítás (APP) esetében a b) pontban meghatározott kapacitás, valamint a teljes átrepülő forgalom;
+- d) a Magyarország Kormánya és a Koszovói Nemzetközi Biztonsági Erő (KFOR) között a Koszovó felett kijelölt légtérben egyes léginavigációs szolgálatok nyújtásáról és egyéb kapcsolódó tevékenységek ellátásáról szóló Végrehajtási Megállapodás kihirdetéséről szóló 2013. évi CCXLVIII. törvény alapján nyújtott szolgáltatás esetében a Network Manager által az adott napon a sztrájkkal érintett időszakra megadott forgalmi igényhez rendelt szektorok kapacitásának 75%-a;
+- e) a Körzeti Repüléstájékoztatás (FIC) esetében a nemzetközi VFR repülések és a nem ellenőrzött légtérben végrehajtott IFR repülések kezelése, valamint a belföldi VFR repülések kezelése legalább napi 6 órában azzal, hogy a belföldi VFR repülések kötelező kezelésére vonatkozó időszakot a sztrájk alatt a munkáltató jogosult meghatározni.
+
+(2) Az (1) bekezdésben meghatározott kapacitásértéknek megfelelően szolgáltatásban részesülő légijárművek számát tört szám esetén felfelé kerekítve kell meghatározni.
+
+(3) Az (1) bekezdésben meghatározott szolgáltatásokon túlmenően a munkabeszüntetés ideje alatt is teljes körűen kell biztosítani a kutató-mentő repülések, egészségügyi és mentőrepülések, az állami célú légiközlekedés, az állam- vagy kormányfőt szállító repülések, a tűzoltási célú repülések, a bajba jutott légijárművek, a humanitárius célú repülések, továbbá valamely humánjárvány megelőzését és következményeinek elhárítását biztosító légijárművek léginavigációs kiszolgálását.
+
+(4) A léginavigációs szolgáltatást nyújtó munkavállalók az (1) bekezdésben meghatározott szolgáltatási mérték teljesülését saját munkakörükben kötelesek biztosítani.
+
+(5) A még elégséges szolgáltatás mértékét a munkabeszüntetés szervezői és a munkáltató közös megállapodásukban az (1) bekezdésben meghatározott mértéket meghaladóan is meghatározhatják.
+
+(6) Az (1) bekezdésben meghatározott mértéket a munkabeszüntetés teljes ideje alatt óránkénti bontásban kell teljesíteni.
+
+(7) A munkabeszüntetés szervezői a sztrájkot annak megkezdése előtt legalább 5 nappal kötelesek írásban bejelenteni a munkáltató részére.
+
+(8) Azonos kollektív munkaügyi vitához tartozó munkabeszüntetés – a figyelmeztető sztrájkon túlmenően – legfeljebb három napig tarthat azzal, hogy a sztrájk időtartama legfeljebb napi hat óra lehet.
+
+(9) Ha a munkabeszüntetésben résztvevők az (1)–(8) bekezdés szerinti szolgáltatás nyújtását akadályozzák vagy ellehetetlenítik, a munkáltató a munkabeszüntetés szervezőivel és résztvevőivel szemben kártérítési igénnyel élhet, továbbá jogosult a vele szemben harmadik fél által érvényesített kárigényeket rájuk továbbhárítani.
+
+63/F. § (1) A 61/A. § (3) bekezdés j) pontja szerinti feladatot a polgári légiforgalmi irányító szolgálat az általa foglalkoztatott légiforgalmi irányító és körzeti repüléstájékoztató közreműködésével látja el.
+
+(2) A légiforgalmi szolgálatok folyamatos fenntartása és a honvédelmi kötelezettségek teljesítéséhez szükséges feladatokra való felkészülés érdekében az (1) bekezdésben meghatározott, a polgári légiforgalmi irányító szolgálat által foglalkoztatott léginavigációs szolgáltatásokat nyújtó munkavállaló – a polgári légiforgalmi irányító szolgálat utasításai szerint – a munkahelyi képzéssel és továbbképzéssel összefüggő feladatokat köteles ellátni, valamint – amennyiben annak egyéb, jogszabályban foglalt feltételei fennállnak – az e tevékenység ellátásához szükséges jogosultságok gyakorlására feljogosító szakszolgálati engedély fenntartásához szükséges feltételeket teljesíteni.
 
 ### VI. Fejezet — Légiközlekedési balesetek, repülőesemények
 
@@ -1730,6 +1771,8 @@ rendszeres belépésre jogosító személyazonosító kártyát igénylő szemé
 
 72/A. § Az Európai Légiközlekedés Biztonsági Ügynökségben való magyar képviselet biztosításáról, az ügyek viteléről és a döntések végrehajtásáról a miniszter gondoskodik.
 
+72/B. § E törvény 61. §-ának az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXXVI. törvénnyel megállapított (5) bekezdését a 2022. január 1-jét követően felmerülő légtér-igénybevételi díjban figyelembe vett felügyeleti költségek kifizetésével összefüggésben kell alkalmazni.
+
 73. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - a) a légiközlekedési hatóság feladat- és hatáskörét,
@@ -1935,6 +1978,8 @@ rendeletben állapítsa meg.
 78. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 79. § E törvénynek az egyes közlekedési tárgyú törvények módosításáról szóló 2021. évi LIX. törvénnyel megállapított 67. § (9) bekezdésében szereplő áruszállítás esetén fizetendő felügyeleti díjat első alkalommal 2021. július 1-től szükséges megfizetni, a harmadik negyedévet követő hónap tizenötödik napjáig.
+
+80. § E törvény 61/A. § (3) bekezdés n) pontjának az egyes agrártárgyú törvények módosításáról szóló 2021. évi LX. törvény által történt hatályon kívül helyezésével összefüggésben, amennyiben a Társaság repülésmeteorológiai feladatai költségvetési szerv részére átadásra kerülnek, az átadással érintett munkavállalók foglalkoztatási jogviszonyára az államháztartásról szóló 2011. évi CXCV. törvénynek az állami feladat átvétele miatt bekövetkező jogállásváltozásra vonatkozó 11/F. § (1)–(11) bekezdéseit kell alkalmazni azzal, hogy az átadással érintettekre az átadónál hatályos kollektív szerződés a jogállásváltozás időpontját követően nem terjed ki.
 
 ### 1. melléklet az 1995. évi XCVII. törvényhez
 

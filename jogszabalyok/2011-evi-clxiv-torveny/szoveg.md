@@ -208,7 +208,7 @@ hívja össze.
 - d) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszergyógykezelést megszüntető végzés jogerőre emelkedésétől számított három évig,
 - e) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, annak meghosszabbítása esetén a meghosszabbított próbaidő elteltétől számított három évig,
 - f) aki büntetőeljárás – ide nem értve a magánvádas vagy a pótmagánvádas eljárást – hatálya alatt áll,
-- g) akit ügyészként, bíróként, kormánytisztviselőként, állami tisztviselőként, köztisztviselőként, végrehajtóként, közalkalmazottként, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaként, vagy rendvédelmi alkalmazottjaként, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban álló foglalkoztatottként igazságügyi alkalmazottként, alügyészként és fogalmazóként, ügyvédként, ügyvédjelöltként, közjegyzőként, közjegyző helyettesként a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
+- g) akit ügyészként, bíróként, kormánytisztviselőként, állami tisztviselőként, köztisztviselőként, végrehajtóként, egészségügyi alkalmazottként, közalkalmazottként, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaként, vagy rendvédelmi alkalmazottjaként, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban álló foglalkoztatottként igazságügyi alkalmazottként, alügyészként és fogalmazóként, ügyvédként, ügyvédjelöltként, közjegyzőként, közjegyző helyettesként a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
 - h) aki külön törvényben szabályozott vagyonnyilatkozat-tételi kötelezettségét megszegte.
 
 (4a) Nem nevezhető ki ügyésznek az a személy,
@@ -1133,7 +1133,7 @@ nincs helye fegyelmi felelősségre vonásnak.
 85. § (1) A fegyelmi jogkört gyakorolja:
 
 - a) a legfőbb ügyész – a legfőbb ügyészségi főosztályi szervezetbe tartozó osztályvezető ügyész kivételével – a magasabb vezető állású ügyészek felett;
-- b) a legfőbb ügyész helyettes a titkárságán szolgálatot teljesítő ügyészek felett;
+- b) a legfőbb ügyész helyettes és a főtitkár a titkárságán szolgálatot teljesítő ügyészek felett;
 - c) a főosztályvezető ügyész a vezetése alatt álló főosztály a) pontban nem említett ügyészei felett;
 - d) a főosztályi szervezetbe nem tartozó legfőbb ügyészségi osztályvezető ügyész a vezetése alatt álló osztály ügyészei felett;
 - e) a fellebbviteli főügyész a vezetése alatt álló fellebbviteli főügyészség a) pontban nem említett ügyészei felett;
@@ -1200,7 +1200,7 @@ folytatja le, illetve hoz a fegyelmi ügyben határozatot.
 
 (3) A hivatalvesztés fegyelmi büntetés esetén az ügyész állásából való felfüggesztését fenn kell tartani, vagy el kell rendelni. Más fegyelmi büntetés kiszabása esetén a felfüggesztést meg kell szüntetni.
 
-94. § (1) A legfőbb ügyész helyettes, a főosztályvezető ügyész, a főosztályi szervezetbe nem tartozó legfőbb ügyészségi osztályvezető ügyész, a fellebbviteli főügyész és a főügyész által hozott fegyelmi határozat ellen az eljárás alá vont ügyész és képviselője a határozat kézbesítésétől számított tizenöt nap alatt a legfőbb ügyészhez kifogással élhet.
+94. § (1) A legfőbb ügyész helyettes, a főtitkár, a főosztályvezető ügyész, a főosztályi szervezetbe nem tartozó legfőbb ügyészségi osztályvezető ügyész, a fellebbviteli főügyész és a főügyész által hozott fegyelmi határozat ellen az eljárás alá vont ügyész és képviselője a határozat kézbesítésétől számított tizenöt nap alatt a legfőbb ügyészhez kifogással élhet.
 
 (2) A legfőbb ügyész a kifogást elutasítja, vagy annak helyt ad, s a határozatot egészben vagy részben az ügyész javára megváltoztatja, megalapozatlanság esetén pedig a határozatot hatályon kívül helyezi, és a fegyelmi jogkör gyakorlóját új eljárás lefolytatására és új határozat hozatalára utasítja. Az új eljárásra a 86. § (2) bekezdésében meghatározott határidők, egyebekben a fegyelmi eljárás szabályai vonatkoznak.
 
@@ -1311,6 +1311,28 @@ folytatja le, illetve hoz a fegyelmi ügyben határozatot.
 (3) Az ügyész köteles a róla nyilvántartott adatokban bekövetkezett változást haladéktalanul a munkáltatói jogkör gyakorlójának írásban bejelenteni.
 
 (4) Az ügyésznek a személyi nyilvántartásban szereplő adatairól és az iratok tartalmáról törvényben meghatározott adatkörök tekintetében a központosított illetményszámfejtést végző szerv részére lehet adatot továbbítani.
+
+### XIII/A. Fejezet — A FŐTITKÁR ÉS A FŐTITKÁR-HELYETTES
+
+108/A. § (1) A legfőbb ügyész az ügyészség szervezetéről és működéséről szóló utasításban meghatározott vezetői feladatok ellátására a határozatlan időre kinevezett ügyészek, illetve tisztviselők közül főtitkárt és főtitkár-helyettest nevezhet ki.
+
+(2) Az ügyészek közül kinevezett főtitkár, illetve főtitkár-helyettes – a 18. § (2) bekezdésében felsoroltakon túl szintén – magasabb vezető állású ügyész, és rá az e törvény magasabb vezető állású ügyészre vonatkozó rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
+
+(3) A tisztviselők közül kinevezett főtitkár, illetve főtitkár-helyettes – a 127. § (2) bekezdésében felsoroltakon túl szintén – magasabb vezető állású tisztviselő, és rá az e törvény magasabb vezető állású tisztviselőre vonatkozó rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni. A 127. § (1) és (4) bekezdése a főtitkárra és a főtitkár-helyettesre nem alkalmazható.
+
+108/B. § (1) A főtitkár és a főtitkár-helyettes kinevezése az őt kinevező legfőbb ügyész megbízatási idejére szól. Ha a legfőbb ügyész megbízatása a megbízatási időtartam letelte előtt szűnik meg, a főtitkárnak és a főtitkár-helyettesnek a megbízatása is megszűnik. A legfőbb ügyész újraválasztása esetén a főtitkár és a főtitkár-helyettes kinevezése az őt kinevező legfőbb ügyész megbízatási idejére meghosszabbodik.
+
+(2) A legfőbb ügyész a megválasztott legfőbb ügyésszel egyeztetve a megbízatási ideje lejártát legalább 20, de legfeljebb 30 nappal megelőzően kiírja a főtitkári és főtitkár-helyettesi tisztségre vonatkozó pályázatot. A megválasztott legfőbb ügyész a pályázatokat hivatalba lépését követően haladéktalanul elbírálja. Ha a legfőbb ügyész megbízatása a megbízatási időtartam letelte előtt szűnik meg, a pályázatot a megválasztott legfőbb ügyész hivatalba lépését követően haladéktalanul kiírja. A legfőbb ügyész újraválasztása esetén pályázat kiírására nem kerül sor.
+
+108/C. § (1) A főtitkár az illetményén kívül a Kúria főtitkárával azonos juttatásra jogosult.
+
+(2) A főtitkár-helyettes az illetményén kívül a Kúria főtitkár-helyettesével azonos juttatásra jogosult.
+
+(3) A főtitkárt és a főtitkár-helyettest megillető juttatások igénybevételével kapcsolatban felmerült költség – törvény eltérő rendelkezése hiányában – a központi költségvetésről szóló törvény ügyészségre vonatkozó költségvetési fejezetét terheli.
+
+(4) A főtitkár és a főtitkár-helyettes köteles a részére járó juttatások igénybevételéhez szükséges adatokat – ideértve az adatok megváltozását is – haladéktalanul közölni az érintett szervvel. A jogalap nélkül felvett juttatást az erre irányuló felhívás kézhezvételétől számított 15 napon belül kell visszafizetni.
+
+108/D. § Ha a főtitkár, illetve a főtitkár-helyettes tisztviselő, a 147. § (3) bekezdése szerinti vezetői pótszabadság mértéke a főtitkár esetén 15 munkanap, a főtitkár-helyettes esetén 13 munkanap.
 
 ### XIV. Fejezet — AZ ALÜGYÉSZ ÉS AZ ÜGYÉSZSÉGI FOGALMAZÓ ÜGYÉSZSÉGI SZOLGÁLATI VISZONYA
 
@@ -1866,7 +1888,7 @@ kell érteni.
 
 (2) A végkielégítés összegének megállapításakor – az (1) bekezdésben említetten kívül – ügyészségi szolgálati viszonyban töltött időnek kell tekinteni a bírói szolgálati viszonyban, az igazságügyi szolgálati jogviszonyban megszakítás nélkül eltöltött időt.
 
-(3) A jubileumi jutalomra jogosító idők számítása során és a fizikai alkalmazott alapszabadságának megállapításakor az ügyészségi szolgálati viszonyban töltött idő számításánál – az (1) bekezdésben említetten kívül – az Alkotmánybíróságnál és a bíróságnál szolgálati viszonyban, kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, továbbá más foglalkoztatási jogviszonyban (szolgálati viszonyban, munkaviszonyban), valamint 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban töltött időt is figyelembe kell venni.
+(3) A jubileumi jutalomra jogosító idők számítása során és a fizikai alkalmazott alapszabadságának megállapításakor az ügyészségi szolgálati viszonyban töltött idő számításánál – az (1) bekezdésben említetten kívül – az Alkotmánybíróságnál és a bíróságnál szolgálati viszonyban, kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, közszolgálati jogviszonyban, egészségügyi szolgálati jogviszonyban, közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, továbbá más foglalkoztatási jogviszonyban (szolgálati viszonyban, munkaviszonyban), valamint 1992. január 20-át követően szövetkezetnél munkaviszony jellegű jogviszonyban töltött időt is figyelembe kell venni.
 
 (4) A jubileumi jutalomra jogosító idők számítása során ügyészségi szolgálati viszonyban töltött időnek tekintendő az (1) és (3) bekezdésben írtakon túl az ügyvédi tevékenység és a közjegyzői szolgálat tartama, ide nem értve a jogviszony szünetelését.
 
@@ -1927,7 +1949,7 @@ kell érteni.
 
 158/A. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
 
-159. § (1) E törvény I. Fejezete, III–XIII. Fejezete, 151. és 152. §-a, 154–157. §-a, 158. § (2) bekezdése, 161–165/K. §-a, valamint 1–3. és 7. melléklete az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
+159. § (1) E törvény I. Fejezete, III–XIII/A. Fejezete, 151. és 152. §-a, 154–157. §-a, 158. § (2) bekezdése, 161–165/K. §-a, valamint 1–3. és 7. melléklete az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Üjt.
 
@@ -2132,9 +2154,10 @@ A vezetői pótlék az illetményalap százalékában
 
 A vezetői munkakörök %
 
-| 1. | A főosztályvezető ügyész A fővárosi főügyész Országos illetékességű főügyészség főügyésze | 200 |
+|  | A | B |
 | --- | --- | --- |
-| 2. | A főosztályvezető-helyettes ügyész | 150 |
+| 1. | A főtitkár A főosztályvezető ügyész A fővárosi főügyész Országos illetékességű főügyészség főügyésze | 200 |
+| 2. | A főtitkár-helyettes A főosztályvezető-helyettes ügyész | 150 |
 | 3. | A legfőbb ügyészségi főosztályi szervezetbe nem tartozó osztályvezető ügyész A fellebbviteli főügyész A főügyész | 120 |
 | 4. | A legfőbb ügyészségi osztályvezető ügyész A fellebbviteli főügyészhelyettes A fővárosi főügyészhelyettes Országos illetékességű főügyészség főügyészhelyettese | 100 |
 | 5. | A fellebbviteli főügyészségi osztályvezető ügyész | 80 |
@@ -2343,12 +2366,14 @@ XI.
 |  | A | B | C |
 | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Alsó határ szorzószáma | Felső határ szorzószáma |
-| 2. | Gazdasági főigazgató, Főosztályvezető, az OKRI igazgatója | 1,23 | 1,85 |
-| 3. | Főosztályvezető-helyettes, az OKRI igazgatóhelyettese | 1,09 | 1,74 |
-| 4. | Osztályvezető | 0,97 | 1,62 |
-| 5. | Osztályvezető-helyettes | 0,68 | 1,51 |
-| 6. | Csoportvezető | 0,64 | 1,45 |
-| 7. | irodavezető | 0,53 | 1,39 |
+| 2. | Főtitkár | 1.91 | 2.61 |
+| 3. | Főtitkár-helyettes | 1,51 | 2.15 |
+| 4. | Gazdasági főigazgató, Főosztályvezető, az OKRI igazgatója | 1,23 | 1,85 |
+| 5. | Főosztályvezető-helyettes, az OKRI igazgatóhelyettese | 1,09 | 1,74 |
+| 6. | Osztályvezető | 0,97 | 1,62 |
+| 7. | Osztályvezető-helyettes | 0,68 | 1,51 |
+| 8. | Csoportvezető | 0,64 | 1,45 |
+| 9. | Irodavezető | 0,53 | 1,39 |
 
 ### 7. melléklet a 2011. évi CLXIV. törvényhez
 

@@ -301,6 +301,8 @@ illetményének megfelelő összeg.
 
 (7) A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a) bekezdésében foglalt feltétel megállapításához szükséges jogosultsági időt a nyugdíjbiztosítási igazgatási szerv határozatával kell igazolni.
 
+(8) Az egészségügyi szolgálati jogviszony létesítésével és megszüntetésével összefüggésben a munkáltató jogszabályban meghatározott feltételekkel igénybe veheti, és foglalkoztatottjai számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
+
 #### 13. § [Végkielégítés]
 
 (1) A végkielégítés összegét az egészségügyi szolgálati jogviszonyban töltött idő alapján kell megállapítani azzal, hogy a Kormány rendeletében az Mt. 77. §-ában foglaltaktól az egészségügyi szolgálati jogviszonyban álló személyre kedvezőbb szabályokat állapíthat meg.

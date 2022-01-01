@@ -303,7 +303,7 @@ a pályakövetési rendszerbe – a Kormány rendeletében meghatározottak szer
 
 továbbítható.
 
-(2)
+(2) Az oktatási nyilvántartás működtetéséért felelős szerv a szociális ellátások ügyvitelét támogató rendszer útján megkeresésre adatot szolgáltat a fővárosi és megyei kormányhivatalok részére a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti pénzbeli és természetbeni szociális ellátások, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti gyermektartásdíj megelőlegezésének a jogosultság fennállásának elbírálása, az ellátás biztosítása, fenntartása és megszüntetése céljából. Az adatszolgáltatás a középfokú nappali oktatás munkarendje szerint vagy felsőoktatási intézményben nappali oktatás munkarendje szerint tanulmányokat folytató gyermek nevére, az oktatási intézmény nevére és címére, valamint a tanulmányok kezdetének, illetve a tanulmányok befejezésének várható időpontjára terjed ki.
 
 (3) A tanulói nyilvántartás, illetve a tanulók és a képzésben részt vevő személyek nyilvántartása adataihoz az oktatási nyilvántartás működéséért felelős szerv a köznevelési feladatokat ellátó hatóság, illetve a szakképzési államigazgatási szerv részére a feladatellátásához szükséges adatok tekintetében közvetlen hozzáférést biztosít.
 
@@ -336,11 +336,11 @@ továbbítható.
 (15a) A képzési hitelhez kapcsolódóan
 
 - a) tanulók és a képzésben részt vevő személyek nyilvántartásából
-  - aa) a (20) bekezdés a) pontja szerinti célból az igénylőre vonatkozóan az 1/A. melléklet II. rész 1. pont a) alpontjában meghatározott adatokból az oktatási azonosító száma és adóazonosító jele, az 1/A. melléklet II. rész 1. pont d)–g) és i) alpontjában meghatározott adata és a 2. § a)–j) pontja szerinti adata,
+  - aa) a (20) bekezdés a) pontja szerinti célból az igénylőre vonatkozóan az 1/A. melléklet II. rész 1. pont a) alpontjában meghatározott adatokból az oktatási azonosító száma és adóazonosító jele, az 1/A. melléklet II. rész 1. pont d)–g), i) és u) alpontjában meghatározott adata és a 2. § a)–j) pontja szerinti adata,
   - ab) a (20) bekezdés b) pontja szerinti célból az igénylőre vonatkozóan az 1/A. melléklet II. rész 1. pont b) alpontjában meghatározott adatok,
   - ac) a (20) bekezdés c) pontja szerinti célból az igénylőre vonatkozóan az 1/A. melléklet II. rész 1. pont l), o) és t) alpontjában meghatározott adatok,
 - b) a képzési és személyi törzsből
-  - ba) a (20) bekezdés a) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 1. pont a) és b) alpontjában és 2. pont b)–d) alpontjában meghatározott adatok,
+  - ba) a (20) bekezdés a) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 1. pont a), b) és f) alpontjában és 2. pont b)–d) alpontjában meghatározott adatok,
   - bb) a (20) bekezdés b) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 1. pont b) alpontjában meghatározott adatok,
   - bc) a (20) bekezdés c) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 2. pont b) és d) alpontjában meghatározott adatok
 - c) a felnőttképzési intézménytörzsből
@@ -375,7 +375,7 @@ továbbíthatóak a Diákhitel Központnak.
 - b) a Felsőoktatási felvételi alrendszerből a 3. melléklet III. rész 7. pontja szerinti adatok közül a Klebelsberg Képzési Ösztöndíjjal érintett szakon elért felvételi pontszám,
 - c) a Hallgatói személyi törzsből a 3. melléklet IV. rész 5. pontja, – a képzés költségviselési formája és munkarendje adatának kivételével – 6. pontja szerinti adatok, 18. pont 18.1. és 18.2. alpontja szerinti adatok.
 
-(23) A Hallgatói személyi törzsből továbbíthatók továbbá az oktatásért felelős miniszter részére az ágazati irányítással összefüggő feladatok ellátása, a miniszteri hatósági jogkör gyakorlása céljából egyedileg vagy informatikai rendszer útján továbbított, illetve a közvetlenül hozzáférhetővé tett adatok. Ezen adatokat az oktatásért felelős miniszter az adattovábbítástól számított öt évig kezeli.
+(23) A Hallgatói személyi törzsből és az alkalmazotti személyi törzsből továbbíthatók továbbá az oktatásért felelős miniszter részére az ágazati irányítással összefüggő feladatok ellátása, a miniszteri hatósági jogkör gyakorlása céljából egyedileg vagy informatikai rendszer útján továbbított, illetve a közvetlenül hozzáférhetővé tett adatok. Ezen adatokat az oktatásért felelős miniszter az adattovábbítástól számított öt évig kezeli.
 
 (24) A Hallgatói személyi törzsből továbbítható továbbá az idegenrendészeti hatóság részére a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvényben, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvényben meghatározott eljárása során az ügyfél által előadottak, illetve a jogszabályban foglalt feltételek fennállásának ellenőrzése céljából a 3. melléklet IV. rész 5., 6., 15. pontja szerinti adat, valamint a 19. pontja szerinti adatok közül az önköltségre vonatkozó adat, azzal, hogy az idegenrendészeti hatóságnak a megkeresésben minden esetben pontosan meg kell határozni azt az adatkört amire a megkeresés vonatkozik.
 
@@ -783,6 +783,7 @@ i)
   - r) a képzési hitel igénybevételének tényére és típusára vonatkozó adata,
   - s) kollégiumi vagy diákotthoni elhelyezés esetén a kollégium, illetve a diákotthon megnevezése, az adott félévre vonatkozó elhelyezés ténye,
   - t) a kiadott oklevél, oklevélmelléklet, szakmai bizonyítvány, szakmai bizonyítványmelléklet, képesítő bizonyítvány és képesítő bizonyítványmelléklet adatait.
+  - u) legmagasabb iskolai végzettségével és szakképesítésével, illetve szakképzettségével kapcsolatos adatokat.
 
 #### III. Alkalmazotti nyilvántartás
 

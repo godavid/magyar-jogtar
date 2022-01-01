@@ -518,9 +518,9 @@ illetve az eljárási szabályzatuk szerint megalakított választottbírósági
 
 (7) Az elnökség legalább négy tagja kezdeményezheti a tisztségére méltatlanná vált elnökségi tag visszahívását. A delegáló szervezet harminc napon belül dönt a visszahívás iránti indítványról. A delegáló szervezet az elnökségi tag visszahívása esetén, azzal egyidejűleg az elnökségbe új tagot delegál.
 
-(8) Az elnökség tagja – a (8a) bekezdés szerinti kivétellel – nem járhat el választottbíróként, szakértőként, valamint jogi képviselőként a Kereskedelmi Választottbíróság hatáskörébe tartozó eljárásban.
+(8) Az elnökség tagja nem járhat el jogi képviselőként a Kereskedelmi Választottbíróság hatáskörébe tartozó eljárásban. Az elnökség tagja abban a választottbírósági eljárásban járhat el szakértőként, amelyben az elnökségi tagi megbízatása keletkezése előtt szakvéleményt adott. A Kereskedelmi Választottbíróság elnöksége nem jelölhet ki elnökségi tagot eljáró választottbírónak vagy a választottbírósági tanács elnökének.
 
-(8a) Az elnökség tagja akkor járhat el választottbíróként a Kereskedelmi Választottbíróság hatáskörébe tartozó eljárásban, ha a választottbírókénti kijelölését az elnökségi tagi megbízatása keletkezése előtt elfogadta vagy ha megbízatása keletkezése után a felek jelölik választottbírónak. A felek által történő jelölés esetén az elnökség tagja a felek által megválasztott választottbírák részéről a választottbírósági tanács elnökévé is jelölhető. A Kereskedelmi Választottbíróság elnöksége nem jelölhet ki elnökségi tagot eljáró választottbírónak vagy a választottbírósági tanács elnökének. Az elnökség tagja abban az eljárásban járhat el szakértőként, amelyben az elnökségi tagi megbízatása keletkezése előtt szakvéleményt adott.
+(8a)
 
 (9) A Kereskedelmi Választottbíróságot az elnök és az általános helyetteseként eljáró alelnök képviseli.
 

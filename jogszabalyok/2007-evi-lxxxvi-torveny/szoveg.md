@@ -194,7 +194,9 @@ Az Országgyűlés a hatékonyan működő villamosenergia-versenypiac kialakít
 
 6. § (1) Az 50 MW és az ezt meghaladó névleges teljesítőképességű, nem megújuló energiaforrásból termelő erőmű üzemeltetője a külön jogszabályban meghatározott feltételek szerint köteles energiaforrás-készletet tartani.
 
-(2)–(3)
+(2)
+
+(3)
 
 6/A. § (1) A Hivatal a felhasználók tájékoztatása céljából származási garanciát állít ki és gondoskodik a származási garanciák megbízható és hiteles elektronikus tárolásáról. A származási garanciákra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
@@ -379,7 +381,8 @@ VONATKOZÓ KÖZÖS SZABÁLYOK
 - h) a szervezett villamosenergia-piacon megkötött ügyletek végrehajtásában történő közreműködés,
 - i) a villamosenergia-rendszer együttműködő képességének megőrzése érdekében szükséges intézkedések megtervezése, elrendelése, beleértve a villamosenergia-rendszer jelentős zavara, valamint az átvitel, az elosztás és a felhasználók ellátásának korlátozása, illetve szüneteltetése esetén szükséges intézkedéseket is,
 - j) az átviteli hálózat és az átvitelt befolyásoló elosztó hálózat üzemének tervezése és irányítása a teljesítmény-egyensúly folyamatos fenntartása mellett,
-- k)–l)
+- k)
+- l)
 - m) az európai rendszer-együttműködésből a magyar villamosenergia-rendszerre nézve keletkező feladatok összehangolása,
 - n) az átviteli hálózathoz történő csatlakozás és hozzáférés, valamint az ezekkel kapcsolatos információk biztosítása, beleértve az átviteli hálózati csomópontokon kiadható kapacitás mértékének a hathavi rendszerességgel történő meghatározását és hozzáférhetővé tételét is,
 - o) a keresletoldali szabályozási intézkedéseknek a villamosenergia-ellátási szabályzatokban meghatározott összehangolása és ösztönzése,
@@ -942,6 +945,12 @@ kiállított számla érvénytelen.
 (2) Amennyiben jelen törvény ettől eltérően nem rendelkezik, akkor az egyetemes szolgáltatói engedélyest (a továbbiakban: egyetemes szolgáltató) a jelen törvényben és a külön jogszabályban a villamosenergia-kereskedőre vonatkozóan meghatározott jogok illetik és kötelezettségek terhelik.
 
 47. § (1) A villamosenergia-kereskedő a felhasználók bejelentéseinek intézésére, panaszainak kivizsgálására és orvoslására, valamint a felhasználók tájékoztatása céljából köteles a kapcsolattartást szóbeli és írásbeli ügyintézés keretében biztosítani.
+
+(1a) A fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény (a továbbiakban: Khtv.) szerinti adatváltozás-kezelési szolgáltatáshoz csatlakozott villamosenergia-kereskedő, illetve egyetemes szolgáltató köteles a felhasználó vagy a fizető adatai változásának felhasználó általi bejelentését az adatváltozás-kezelési szolgáltatás keretében, biztonságos kézbesítési szolgáltatás útján is fogadni és kezelni. Ha a felhasználó hálózathasználati szerződését a villamosenergia-kereskedő, illetve egyetemes szolgáltató a 63. § (1) bekezdésének megfelelően megbízottként kezeli, akkor a felhasználó változott adatait továbbítja az érintett hálózati engedélyesnek.
+
+(1b) Az adatváltozás-kezelési szolgáltató a felhasználó rendelkezése alapján átadja a villamosenergia-kereskedőnek, illetve egyetemes szolgáltatónak a Khtv. 20/T. § (2) bekezdés a) pontja, b) pont bc)–be) alpontja, valamint 20/U. § (2) bekezdése szerinti adatokat.
+
+(1c) A villamosenergia-kereskedő, illetve egyetemes szolgáltató a felhasználónak az adatváltozás-kezelési szolgáltatásra történő regisztrációja során a Khtv. 20/T. § (2) bekezdés a) pont aa) és ab) alpontja alapján, az adatváltozás-kezelési szolgáltatótól átvett adatait az adatok átvételét követő 60 napon belül összeveti az általa nyilvántartott, a felhasználóra, illetve a fizetőre vonatkozó adatokkal, és eltérés esetén gondoskodik azoknak az átvett adatok szerinti tartalommal történő helyesbítéséről.
 
 (2) Az egyetemes szolgáltatásra jogosult felhasználókat ellátó villamosenergia-kereskedő az e törvényben és a Vhr.-ben meghatározottak szerint ügyfélszolgálatot is működtet állandó ügyfélszolgálati irodaként vagy ügyfélszolgálati fiókirodaként (a továbbiakban együtt: ügyfélszolgálat). Az ügyfélszolgálatok típusára, elhelyezésére és működtetésére vonatkozó részletes szabályokat a Vhr. és a villamosenergia-kereskedő üzletszabályzata tartalmazza.
 
@@ -3814,7 +3823,9 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 
 (3) A 2011. október 1-jét megelőzően indult engedélyezési eljárásokat e törvénynek az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított rendelkezései szerint kell lefolytatni, azzal, hogy a Hivatal nem kérheti a már rendelkezésére álló iratok ismételten történő benyújtását.
 
-(4)–(5)
+(4)
+
+(5)
 
 (6) A villamos energiáról szóló 2001. évi CX. törvény 43. § (2) bekezdése alapján a közüzemi szolgáltató és közüzemi nagykereskedő engedélyesek között létrejött, valamint a villamos energiáról szóló 2001. évi CX. törvény 43. § (5) bekezdése és 45. § (4) bekezdése alapján az átvételi kötelezettség alá eső villamos energia lekötéséről és átvételéről kötött megállapodások – amennyiben e törvény hatálybalépését megelőzően a szerződő felek nem állapodtak meg eltérően – megszűnnek.
 
@@ -3828,7 +3839,15 @@ e törvény, valamint a villamosenergia-ipari építésügyi hatósági engedél
 
 (2) A Hivatal az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 142/A. § (1) bekezdés szerinti költség-felülvizsgálatot első alkalommal 2012. december 31-ig folytatja le.
 
-(3)–(7)
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
 
 178/C. § (1) E törvénynek az egyes energetikai és közszolgáltatási tárgyú törvények módosításáról szóló 2021. évi LXVIII. törvénnyel (a továbbiakban: 2021Módtv) megállapított 117. § (6) bekezdését a módosítás hatálybalépésekor hatályos engedélyekre is alkalmazni kell.
 

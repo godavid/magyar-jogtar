@@ -1264,7 +1264,7 @@ végez.
 - a) fizetési rendszer működtetése tevékenységet végző szervezetnél, legalább kétévente,
 - b) központi szerződő félnél, továbbá központi értéktárnál legalább évente,
 - c) a d) pontban foglaltakat ide nem értve
-  - ca) hitelintézetnél, biztosítónál, viszontbiztosítónál, elektronikuspénz-kibocsátó intézménynél, pénzforgalmi intézménynél, befektetési vállalkozásnál, árutőzsdei szolgáltatónál, befektetési alapkezelőnél, tőzsdénél, APA-ként, ARM-ként, CTP-ként adatszolgáltatási tevékenységet végzőnél, valamint a 39. §-ban meghatározott törvények hatálya alá tartozó olyan személynél és szervezetnél, amelyre kiterjed az összevont alapú felügyelet (a továbbiakban: pénzügyi csoport) legalább háromévente,
+  - ca) hitelintézetnél, biztosítónál, viszontbiztosítónál, elektronikuspénz-kibocsátó intézménynél, pénzforgalmi intézménynél, befektetési vállalkozásnál, árutőzsdei szolgáltatónál, befektetési alapkezelőnél, tőzsdénél, a 600/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (3) bekezdésében meghatározottak szerint a belső piac szempontjából korlátozott jelentőségű adatszolgáltatónál, valamint a 39. §-ban meghatározott törvények hatálya alá tartozó olyan személynél és szervezetnél, amelyre kiterjed az összevont alapú felügyelet (a továbbiakban: pénzügyi csoport) legalább háromévente,
   - cb) hitelintézetnél, biztosítónál, viszontbiztosítónál, befektetési vállalkozásnál, árutőzsdei szolgáltatónál, továbbá befektetési alapkezelőnél a tevékenységének megkezdését követő egy év elteltével,
 - d) a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvényben meghatározott Integrációs Szervezethez csatlakozott hitelintézeteknél kizárólag az összevont alapú megfelelés ellenőrzésére vonatkozóan a (3) bekezdés szerinti csoportvizsgálat keretében, a biztosítási tevékenységről szóló törvény hatodik részének hatálya alá tartozó kisbiztosítónál, magánnyugdíjpénztárnál, önkéntes kölcsönös biztosító pénztárnál, továbbá foglalkoztatói nyugdíj szolgáltató intézménynél legalább ötévente
 
@@ -2937,13 +2937,16 @@ szervezetben.
 
 (3) Az MNB által kiszabott bírságból származó bevétel
 
-- a) közgazdasági, pénzügyi szakemberképzés elősegítésére, támogatására,
-- b) közgazdasági, pénzügyi, valamint interdiszciplináris kutatások elősegítésére, támogatására,
-- c) a pénzügyi kultúra erősítésére, terjesztésére, a pénzügyi tudatosság fejlesztésére, valamint ezen célok elősegítésére, így különösen a kapcsolódó oktatási és kutatási infrastruktúra fejlesztésére,
-- d) alapítványi támogatásra, valamint
-- e) karitatív célra
+- a) közgazdasági, pénzügyi szakemberképzés elősegítésére, támogatására;
+- b) közgazdasági, pénzügyi, valamint interdiszciplináris kutatások elősegítésére, támogatására;
+- c) a pénzügyi kultúra erősítésére, terjesztésére, a pénzügyi tudatosság fejlesztésére, valamint ezen célok elősegítésére, így különösen a kapcsolódó oktatási és kutatási infrastruktúra fejlesztésére;
+- d) alapítványi támogatásra;
+- e) karitatív célra; valamint
+- f) 6%-a az MNB tevékenységének a környezetre gyakorolt hatásai enyhítése céljából környezetvédelmi célok elősegítésére, támogatására
 
 fordítható.
+
+(4) A bírságbevétel (3) bekezdés f) pontja szerinti felhasználása esetén az ilyen célú felhasználásra vonatkozó szerződéseket az MNB megkötésüket követően haladéktalanul nyilvánosságra hozza honlapján.
 
 ### IX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

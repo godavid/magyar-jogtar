@@ -294,6 +294,8 @@ is alkalmazni kell.
 
 (2) Az (1) bekezdés szerinti esetben a korábbi, lebonyolítói feladatokat ellátó gazdasági társaság jogai, kötelezettségei, valamint az e törvényben, és a végrehajtására kiadott kormányrendeletben előírt lebonyolítói feladatai a megszűnésének időpontjától a Kormány által, az (1) bekezdés szerint kijelölt lebonyolító szervezetre szállnak. A jogok és kötelezettségek átszállása nem minősül a jogviszonyok módosításának, a korábbi, lebonyolítói feladatokat ellátó gazdasági társaság munkavállalóinak az (1) bekezdés szerint kijelölt lebonyolító szervezetnél történő továbbfoglalkoztatása munkáltatói jogutódlásnak minősül.
 
+22/B. § A 2022. január 1-jén folyamatban lévő ügyekben az e törvénynek az egyes otthonteremtési állami feladatok karitatív szervezetek általi átvállalásáról szóló 2021. évi LXXXVI. törvény 9. §-a hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
+
 #### 11. Sarkalatossági záradék
 
 23. § E törvény 18. §-a és 19. § (4) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.

@@ -6,13 +6,13 @@ az országgyűlési képviselőcsoport által nyújtható támogatásról
 
 1. §
 
-2. §
+2. § Hatályát veszti a Párttv. 4. § (1) bekezdésében az „a párt országgyűlési képviselőcsoportja által az országgyűlési képviselőcsoport működési feltételeit biztosító költségvetési kiadási előirányzat terhére nyújtott támogatásból,” szövegrész.
 
 #### 2. Az Országgyűlésről szóló 2012. évi XXXVI. törvény módosítása
 
 3. §
 
-4. §
+4. § Hatályát veszti az Ogytv. 118/A. §-a.
 
 #### 3. Záró rendelkezések
 

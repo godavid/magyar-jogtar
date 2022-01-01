@@ -139,7 +139,7 @@ A gazdasági hatékonyságot és a társadalmi felemelkedést szolgáló piaci v
 - c) amelyeket a b) pont szerinti vállalkozás az a) pont szerint irányít;
 - d) amelyeket az a)–c) pont szerinti vállalkozások és a vállalkozás közül kettő vagy több közösen irányít.
 
-(3) Függetlennek kell tekinteni a 25. §-ban említett vállalkozásokat, valamint azokat az állami vagy helyi önkormányzati többségi tulajdonban lévő vállalkozásokat, amelyek piaci magatartásuk meghatározásában önálló döntési joggal rendelkeznek [27. § (3) bekezdés].
+(3) Függetlennek kell tekinteni a 25. §-ban említett vállalkozásokat, valamint azokat az állami vagy helyi önkormányzati közvetlen irányítás alatt álló vállalkozásokat, amelyek piaci magatartásuk meghatározásában önálló döntési joggal rendelkeznek [27. § (3) bekezdés].
 
 16. § A megállapodások meghatározott csoportjait a Kormány rendeletben mentesítheti a 11. §-ban foglalt tilalom alól. A Kormány a megállapodások csoportos mentesüléséről a törvény 17. §-ában foglalt szempontok figyelembevételével rendelkezhet.
 
@@ -236,7 +236,7 @@ kell figyelembe venni.
 
 25/A. § A 24. §-tól eltérően nem kell bejelenteni a Gazdasági Versenyhivatalnak a közvetlenül vagy közvetetten többségi állami tulajdonban lévő kockázati tőkealap vagy magántőkealap részvételével a COVID-19 koronavírus miatt szükségessé vált finanszírozási ügylettel – az e célra létrehozott tőkeprogramon keresztül – megvalósuló összefonódást, amely révén a közvetlenül vagy közvetetten többségi állami tulajdonban lévő kockázati tőkealap vagy magántőkealap egyedül vagy más vállalkozásokkal közös, befektetésvédelmi célú irányítási jogokat szerez.
 
-25/B. § (1) A 24. §-tól eltérően, nem kell bejelenteni a Gazdasági Versenyhivatalnak azt az összefonódást, amely révén közvetlenül vagy közvetetten többségi állami tulajdonban lévő kockázati tőkealap az Európai Bizottság által a belső piaccal összeegyeztethetőnek nyilvánított állami támogatással megvalósuló tőkebefektetése következtében közös irányítási jogokat szerez egy vállalkozásban, amelynek előző évi nettó árbevétele nem érte el az egymilliárd forintot.
+25/B. § (1) A 24. §-tól eltérően, nem kell bejelenteni a Gazdasági Versenyhivatalnak azt az összefonódást, amely révén közvetlenül vagy közvetetten állami irányítás alatt álló kockázati tőkealap az Európai Bizottság által a belső piaccal összeegyeztethetőnek nyilvánított állami támogatással megvalósuló tőkebefektetése következtében közös irányítási jogokat szerez egy vállalkozásban, amelynek előző évi nettó árbevétele nem érte el az egymilliárd forintot.
 
 (2) Az (1) bekezdés szerinti összefonódás végrehajtásáról az irányításszerző tőkealap a végrehajtás időpontját követő 30 napon belül tájékoztatja a Gazdasági Versenyhivatalt.
 
@@ -258,7 +258,7 @@ kell figyelembe venni.
 
 (2) A vállalkozások nettó árbevételének számítása során a Magyarország területén eladott árukból az előző üzleti évben elért nettó árbevételt kell figyelembe venni.
 
-(3) Az állami vagy helyi önkormányzati többségi tulajdonban lévő vállalkozások nettó árbevételének kiszámításánál azt a gazdasági egységet alkotó vállalkozást kell számításba venni, amely piaci magatartásának meghatározásában önálló döntési joggal rendelkezik.
+(3) Az állami vagy helyi önkormányzati közvetlen irányítás alatt álló vállalkozások nettó árbevételének kiszámításánál azt a gazdasági egységet alkotó vállalkozást kell számításba venni, amely piaci magatartásának meghatározásában önálló döntési joggal rendelkezik.
 
 (4) Vállalkozásrész esetében az azt alkotó eszközök és jogok hasznosításával elért előző évi nettó árbevételt kell figyelembe venni.
 
@@ -301,6 +301,8 @@ kell figyelembe venni.
 - a) az érintett piacok szerkezetét; az érintett piacokon fennálló vagy lehetséges versenyt, a beszerzési és az értékesítési lehetőségeket; a piacralépés és a piacról történő kilépés költségeit, kockázatait, valamint műszaki, gazdasági és jogi feltételeit; az összefonódás várható hatását az érintett piacokon folyó versenyre;
 - b) az érintett vállalkozások piaci helyzetét és stratégiáját, gazdasági és pénzügyi képességét, üzleti magatartását, bel- és külpiaci versenyképességét, illetve ezek várható változásait;
 - c) az összefonódásnak a szállítókra és az üzletfelekre gyakorolt hatását.
+
+(2a) Digitális piacokat érintő összefonódás elbírálásakor vizsgálni kell különösen az érintett vállalkozásoknak a verseny szempontjából releváns adatokhoz való hozzáféréséből, valamint az összefonódásnak az érintett vállalkozások pénzügyi befolyásából, méretelőnyéből, adatok felhalmozására való képességéből és az adathalmazok összeadódásából fakadó, innovációra és versenyre gyakorolt hatását.
 
 (3) Ha az érintett piacon a versenynek az összefonódásból eredő jelentős mértékű csökkenése meghatározott előzetes vagy utólagos feltétel teljesülése – így különösen egyes vállalkozásrészek vagy egyes vagyontárgyak elidegenítése, valamely közvetett résztvevő felett gyakorolt irányítás megszüntetése – esetén vagy meghatározott magatartási szabályok betartása mellett kiküszöbölhető, és az e tekintetben érintett vállalkozások vállalják, hogy az összefonódást ilyen feltételek szerint megfelelően módosítják, illetve hogy az összefonódás végrehajtása esetén ennek megfelelő magatartást tanúsítanak, a Gazdasági Versenyhivatal az összefonódás megtiltása helyett határozatában kötelezővé teheti a vállalás teljesítését, illetve az összefonódás végrehajtására előzetes vagy utólagos feltételt írhat elő.
 
@@ -679,12 +681,27 @@ azzal, hogy e rendelkezések alkalmazásában ügyfél alatt az 52. § a) pont a
 
 43/N. § (1) Az összefonódás-bejelentés beérkezését – ha a 43/M. § (1) bekezdése szerinti díj megfizetésére később kerül sor, ennek időpontját – követő naptól számított nyolc napon belül a vizsgáló
 
-- a) a 67. § (4) bekezdése alapján elrendeli az összefonódás vizsgálatát,
-- b) a 67. § (4) bekezdése szerint a vizsgálat elrendelésére okot adó körülmény hiányában erről a tényről – az eljáró versenytanáccsal egyetértésben – hatósági bizonyítványt ad ki az összefonódást bejelentőnek,
-- c) a 24. § (4) bekezdése szerinti összefonódás-vizsgálati küszöbérték nem teljesülése ellenére benyújtott összefonódás-bejelentést visszautasítja, vagy
-- d) a nem a 28. § (1) bekezdése szerinti személytől származó vagy a 28. § (2) bekezdésében megjelölt időpontot megelőzően benyújtott összefonódás-bejelentést – az eljáró versenytanáccsal egyetértésben – visszautasítja; ebben az esetben a 43/M. § (1) bekezdése szerinti, már megfizetett díj felét vissza kell téríteni.
+- a) elrendeli a 67. § (4) bekezdése alapján az összefonódás vizsgálatát,
+- b) hatósági bizonyítványt ad ki a 67. § (4) bekezdése szerint a vizsgálat elrendelésére okot adó körülmény hiányának tényéről – az eljáró versenytanáccsal egyetértésben – az összefonódást bejelentőnek, vagy
+- c) visszautasítja
+  - ca) a 24. § (4) bekezdése szerinti összefonódás-vizsgálati küszöbérték nem teljesülése ellenére benyújtott összefonódás-bejelentést,
+  - cb) a közérdekből nemzetstratégiai jelentőségűnek minősített összefonódásra vonatkozó bejelentést,
+  - cc) a 25/B. § (1) bekezdése szerinti összefonódásra vonatkozó bejelentést vagy
+  - cd) – az eljáró versenytanáccsal egyetértésben – a nem a 28. § (1) bekezdése szerinti személytől származó vagy a 28. § (2) bekezdésében megjelölt időpontot megelőzően benyújtott összefonódás-bejelentést.
 
 (2) Ha az (1) bekezdés szerinti határidőben nem kerül sor az ott megjelölt intézkedések valamelyikére, a 24. § (1) bekezdése szerint bejelentett összefonódás végrehajtható. Erről a tényről az összefonódás-bejelentést tevő kérelmére a vizsgáló hatósági bizonyítványt állít ki. Ebben az esetben a 43/M. § (1) bekezdése szerinti, már megfizetett díjat vissza kell téríteni.
+
+(3) Az (1) bekezdés c) pont cb), cc) és cd) alpontja szerinti esetben a 43/M. § (1) bekezdése szerinti, már megfizetett díj felét vissza kell téríteni.
+
+(4) A 43/J. § (2) bekezdésének sérelme nélkül a Gazdasági Versenyhivatal a honlapján évente közzéteszi az (1) bekezdés b) pontja szerint kiállított hatósági bizonyítványban megjelölt összefonódással érintett piacok listáját.
+
+43/O. § (1) A 25/B. § (2) bekezdése szerinti tájékoztatást a Gazdasági Versenyhivatal által a honlapján közzétett formátumú, megfelelően kitöltött, a 25/B. § (2) bekezdése szerinti tájékoztatást szolgáló űrlapon kell benyújtani. A tájékoztatásnak az űrlapban megjelölt valamennyi tényt, adatot tartalmaznia kell, és ahhoz csatolni kell az űrlapban megjelölt iratokat.
+
+(2) A vizsgáló a 25/B. § (2) bekezdése szerinti tájékoztatási kötelezettség megsértése esetén a 61. § szerinti eljárási bírságot szabhat ki az irányításszerző tőkealappal szemben.
+
+(3) Az eljárási bírságot kiszabó végzés a közlésétől számított tizenöt napon belül, közigazgatási perben támadható meg.
+
+(4) A 25/B. § (2) bekezdése szerinti tájékoztatással kapcsolatos eljárásra a 43/K. § (1)–(3) bekezdését kell alkalmazni azzal az eltéréssel, hogy az összefonódást bejelentő az irányításszerző tőkealap, és az eljárásban az 53. § (1) bekezdése és 62/A. § (2), (5) és (6) bekezdése nem alkalmazható.
 
 ## NEGYEDIK RÉSZ — A VERSENYFELÜGYELETI ELJÁRÁS
 
@@ -735,7 +752,7 @@ az eljáró személyek, kizárás
 
 48. § (1) Ha e törvény eltérően nem rendelkezik, a vizsgálati szakaszban a vizsgáló, a versenytanácsi eljárásban az eljáró versenytanács hozza meg a döntéseket és teszi meg a szükséges egyéb intézkedéseket.
 
-(2) A Versenytanács döntéseit a Versenytanács elnöke által a Versenytanács szervezeti és működési szabályzatában meghatározottak szerint a Versenytanács tagjai közül kijelölt háromtagú vagy öttagú tanácsban eljárva hozza meg azzal, hogy az eljáró versenytanács előadó versenytanácstagként kijelölt tagja egyedül eljárva is meghozhatja az olyan végzést, amely ellen önálló jogorvoslatnak nincs helye, és megteheti a szükséges egyéb intézkedéseket.
+(2) A Versenytanács döntéseit a Versenytanács elnöke által a Versenytanács szervezeti és működési szabályzatában meghatározottak szerint a Versenytanács tagjai közül kijelölt háromtagú vagy öttagú tanácsban eljárva hozza meg azzal, hogy az eljáró versenytanács előadó versenytanácstagként kijelölt tagja egyedül eljárva is meghozhat – az eljárást megszüntető, az eljárási bírságot kiszabó, a biztosítási intézkedést és az ideiglenes intézkedést elrendelő, valamint a 67. § (4) bekezdése alapján indított versenyfelügyeleti eljárásban az eljárás felfüggesztése tárgyában hozott végzés kivételével – minden elsőfokú végzést, és megteheti a szükséges egyéb intézkedéseket.
 
 49. § (1) Az ügy elintézésében nem vehet részt az a személy, akitől nem várható el az ügy tárgyilagos megítélése.
 
@@ -932,8 +949,10 @@ tart kapcsolatot az ügyféllel és az eljárásban résztvevőkkel.
 
 - a) a hatásköri vitában az érintett hatósággal való egyeztetés eredményeként vagy a közigazgatási bíróság döntése alapján az ügyben más hatóság került kijelölésre,
 - b) az eljárás során beszerzett bizonyítékok alapján nem állapítható meg, hogy a magatartás jogsértő-e, és az eljárás folytatásától sem várható eredmény,
-- c) az eljárás okafogyottá vált, vagy
-- d) az összefonódás tekintetében nem teljesül az összefonódás-vizsgálati küszöbérték.
+- c) az eljárás okafogyottá vált,
+- d) az összefonódás tekintetében nem teljesül az összefonódás-vizsgálati küszöbérték,
+- e) az összefonódást közérdekből nemzetstratégiai jelentőségűnek minősítették vagy
+- f) az összefonódás a 25/B. § (1) bekezdése szerinti összefonódásnak minősül.
 
 (2) Az eljáró versenytanács a versenyfelügyeleti eljárást megszünteti, ha a vizsgált ügylet a 23. § szerint nem összefonódás, ideértve azt az esetet is, ha a 28. § (2) bekezdése szerinti esemény még nem következett be.
 
@@ -987,6 +1006,8 @@ kell figyelembe venni.
 
 (4) A díjfizetési kötelezettség akkor is fennáll, ha a vizsgáló, illetve az eljáró versenytanács a versenyfelügyeleti eljárást a 60/A. § (1) bekezdés c) pontjában, d) pontjában vagy (2) bekezdésében meghatározott okból megszünteti.
 
+(4a) A versenyfelügyeleti eljárás 60/A. § (1) bekezdés e) vagy f) pontja alapján történő megszüntetése esetén a 62. § (1) bekezdése szerinti, már megfizetett igazgatási szolgáltatási díj felét az összefonódást bejelentőnek vissza kell téríteni.
+
 (5) Ha az igazgatási szolgáltatási díjat vagy annak egy részét vissza kell téríteni, a visszatérítendő összeget a Gazdasági Versenyhivatal haladéktalanul átutalja annak a fizetési számlának a javára, ahonnan az igazgatási szolgáltatási díjat befizették.
 
 (6) Az igazgatási szolgáltatási díj kezelésére, elszámolására és nyilvántartására az államháztartás számviteléről szóló kormányrendelet rendelkezéseit kell megfelelően alkalmazni.
@@ -1032,7 +1053,7 @@ kell figyelembe venni.
 - a) a III. Fejezet rendelkezéseinek megsértése miatt indított eljárásban három hónap,
 - b) a 11. §-ban vagy a 21. §-ban, illetve az EUMSz. 101. vagy 102. cikkében tilalmazott magatartások miatt indított eljárásban hat hónap,
 - c) a 67. § (3), (6) vagy (8) bekezdése alapján indított eljárásban hat hónap,
-- d) a 67. § (4) bekezdés a) pontja vagy (5) bekezdése alapján indított eljárásban négy hónap,
+- d) a 67. § (4) bekezdés a) pontja, (5) vagy (5a) bekezdése alapján indított eljárásban négy hónap,
 - e) a 67. § (4) bekezdés b) pontja alapján indított eljárásban – a (3) bekezdés szerinti eltéréssel – harminc nap,
 - f) a 67. § (7) bekezdése alapján indított eljárásban hatvan nap,
 - g) a 67. § (9) bekezdése alapján indított eljárásban – a visszavont határozat szerinti ügy tárgyától függően – az a) vagy a b) pont szerinti időtartam.
@@ -1253,6 +1274,8 @@ számított hatvan napon belül kell előterjeszteni.
 
 (5) A vizsgáló – az eljáró versenytanáccsal egyetértésben – végzéssel elrendeli a bejelentésköteles összefonódás vizsgálatát akkor is, ha a valószínűsíthetően az összefonódás-vizsgálati küszöbértéket elérő nem bejelentett összefonódás tekintetében nem nyilvánvaló, hogy az érintett piacon nem eredményezi a verseny jelentős mértékű csökkenését.
 
+(5a) A vizsgáló – az eljáró versenytanáccsal egyetértésben – végzéssel elrendeli a 25/B. § (1) bekezdése szerinti összefonódás vizsgálatát, ha nem nyilvánvaló, hogy az érintett piacon nem eredményezi a verseny jelentős mértékű csökkenését.
+
 (6) Ha a vizsgáló az összefonódás-bejelentés alapján valószínűsíti, hogy az összefonódást a 29. §-ba ütköző módon végrehajtották, a 29. §-ban foglalt tilalom megsértésének vizsgálatára külön versenyfelügyeleti eljárást indít.
 
 (7) A vizsgáló – az eljáró versenytanáccsal egyetértésben – végzéssel vizsgálatot rendel el, ha valószínűsíthető, hogy
@@ -1277,7 +1300,7 @@ számított hatvan napon belül kell előterjeszteni.
 - a) a III. Fejezet rendelkezéseibe ütköző magatartás elkövetése óta három év,
 - b) a IV., illetve az V. Fejezet rendelkezéseibe ütköző magatartás elkövetése óta öt év,
 - c) összefonódás vizsgálatára irányuló eljárás esetén
-  - ca) a csak a 24. § (4) bekezdése szerint bejelentésköteles összefonódás végrehajtása óta hat hónap,
+  - ca) a csak a 24. § (4) bekezdése szerint bejelentésköteles összefonódás vagy a 25/B. § (1) bekezdése szerinti összefonódás végrehajtása óta hat hónap,
   - cb) a ca) alpont hatálya alá nem tartozó esetben az összefonódás végrehajtása óta öt év,
 - d) a 67. § (7) bekezdés a)és b) pontja szerinti esetben az összefonódás végrehajtása óta öt év,
 - e) a 67. § (7) bekezdés c) pontja szerinti esetben a határozat véglegessé válása óta öt év
@@ -1497,8 +1520,11 @@ meghozatala előtt – ha azt szükségesnek tartja – az elfogadni tervezett f
 
 - a) az (1) bekezdés a) pontja szerinti esetben határozatban megállapítja a feltétel nem teljesülésének tényét, és – ha az összefonódást végrehajtották – a 31. § szerinti intézkedést alkalmazza, valamint bírságot szabhat ki,
 - b) az (1) bekezdés b) pontja szerinti esetben – ha a határozat 32. § (4) bekezdés b) pontja szerinti módosítására nem kerül sor – a 31. § szerinti intézkedést alkalmazza, és bírságot szabhat ki,
-- c) az (1) bekezdés c) pontja szerinti esetben a 75. § (1) bekezdése szerinti határozatát a 75. § (3) bekezdés b) pontja szerint módosítja, a 75. § (6) bekezdése szerint visszavonja vagy bírságot szab ki, vagy a 75. § (6a) bekezdése szerint visszavonhatja,
-- d) az (1) bekezdés d) pontja szerinti esetben elrendeli a kötelezettség végrehajtását vagy bírságot szab ki.
+- c) az (1) bekezdés c) pontja szerinti esetben a 75. § (1) bekezdése szerinti határozatát
+  - ca) a 75. § (3) bekezdés b) pontja szerint módosítja,
+  - cb) a 75. § (6) bekezdése szerint visszavonja, bírságot szab ki, illetve a 78. § (8) bekezdése szerinti figyelmeztetést alkalmaz,
+  - cc) a 75. § (6a) bekezdése szerint visszavonhatja, vagy
+- d) az (1) bekezdés d) pontja szerinti esetben elrendeli a kötelezettség végrehajtását, bírságot szab ki, vagy a 78. § (8) bekezdése szerinti figyelmeztetést alkalmaz.
 
 ### Bírság, figyelmeztetés
 
@@ -1511,7 +1537,7 @@ meghozatala előtt – ha azt szükségesnek tartja – az elfogadni tervezett f
 - e) az összefonódás-bejelentésben – az összefonódás vizsgálatának elrendelésére kiható módon – lényeges tényt neki felróhatóan félrevezetően közölt, és ezért a 43/N. § (1) bekezdés b) pontja alapján kiadott hatósági bizonyítványt vissza kell vonni, vagy
 - f) a versenyfelügyeleti eljárásban a határozat szempontjából lényeges tényt neki felróhatóan félrevezetően közölt, és ezért a 30. § alapján vagy a 75. § (1) bekezdése alapján hozott határozatot vissza kell vonni.
 
-(1a) Az eljáró versenytanács bírságot szab ki azzal szemben, aki határidőben nem teljesítette
+(1a) Az eljáró versenytanács bírságot szab ki vagy a (8) bekezdés szerinti figyelmeztetést alkalmaz azzal szemben, aki határidőben nem teljesítette
 
 - a) a 75. § szerinti kötelezettségvállalást, kivéve, ha a kötelezettségvállalást előíró határozatnak a 75. § (6) bekezdése szerinti visszavonása folytán az ügyben a versenyfelügyeleti eljárás újból megindult, vagy
 - b) a határozatában a jogsértés megállapítása mellett meghatározott cselekmény elvégzésére, meghatározott magatartás tanúsítására vagy attól való tartózkodásra vonatkozóan előírt kötelezettséget, és végrehajtás elrendelésére nem került sor.
@@ -1873,9 +1899,15 @@ jogszerűsége tárgyában.
 
 (4) Ha a fellebbezési eljárásban a döntés meghozatalához nincs elég adat, vagy a vizsgáló végzésének meghozatalát követően új tény merül fel, vagy egyébként a tényállás további tisztázása szükséges, az eljáró versenytanács a vizsgáló végzésének megsemmisítése mellett a vizsgálót végzésben új eljárásra utasíthatja, vagy a kiegészítő bizonyítási eljárás lefolytatását maga végzi el, és ennek alapján dönt.
 
-(5) Az eljáró versenytanács önálló jogorvoslattal támadható végzése a végzés közlésétől számított nyolc napon belül támadható meg közigazgatási perben.
+(5) Az eljáró versenytanács vagy az eljáró versenytanács előadó versenytanácstagjának önálló jogorvoslattal támadható végzése a végzés közlésétől számított nyolc napon belül támadható meg közigazgatási perben.
 
-(6) Az eljáró versenytanács 55/B. § (1) és (7) bekezdése, valamint a 80. § (5) bekezdése szerinti végzésével szembeni keresetről a bíróság tizenöt napon belül határoz.
+(6) Az eljáró versenytanácsnak vagy az eljáró versenytanács előadó versenytanácstagjának az 55/B. § (1) és (7) bekezdése, valamint a 80. § (5) bekezdése szerinti végzésével szembeni keresetről a bíróság harminc napon belül határoz.
+
+(7) Ha a közigazgatási bíróság jogerős ítélete szerint a 61. § (1) bekezdése szerinti végzés jogszabályt sértett, és ennek következtében a bíróság a végzésnek a bírság összegét meghatározó rendelkezését megváltoztatja, megsemmisíti vagy hatályon kívül helyezi, a Gazdasági Versenyhivatal a jogszabálysértően kiszabott, már megfizetett bírságösszeget visszatéríti az érintett ügyfélnek, és a visszatérítendő összeg után minden naptári nap után a felszámítás időpontjában érvényes jegybanki alapkamat 365-öd részének megfelelő mértékű kamatot fizet.
+
+(8) A (7) bekezdés szerinti fizetési kötelezettség a jogerős bírósági ítélettel szemben rendkívüli perorvoslat kezdeményezésére nyitva álló határidő leteltekor, ha pedig a jogerős ítélettel szemben rendkívüli perorvoslatot kezdeményeztek, az eljárást befejező bírósági határozat Gazdasági Versenyhivatallal való közlése napján áll be.
+
+(9) A (7) bekezdés szerinti kamat kifizetését a vizsgáló külön végzésben rendeli el. A vizsgáló végzése közigazgatási perben támadható meg a közléstől számított nyolc napon belül.
 
 ### Jogorvoslat a határozattal szemben
 
@@ -1885,13 +1917,15 @@ jogszerűsége tárgyában.
 
 (2) Az (1) bekezdés szerinti fizetési kötelezettség a jogerős bírósági ítélettel szemben rendkívüli perorvoslat kezdeményezésére nyitva álló határidő leteltekor, ha pedig a jogerős ítélettel szemben rendkívüli perorvoslatot kezdeményeztek, az azt az eljárást befejező bírósági határozat Gazdasági Versenyhivatallal való közlése napján áll be.
 
-(3) Az (1) bekezdés szerinti kamat kifizetését az eljáró versenytanács külön végzésben rendeli el.
+(3) Az (1) bekezdés szerinti kamat kifizetését a vizsgáló külön végzésben rendeli el. A vizsgáló végzése közigazgatási perben támadható meg a közléstől számított nyolc napon belül.
 
 ### XII/A. Fejezet — A Gazdasági Versenyhivatal döntésének végrehajtása
 
-84/A. § A végrehajtásra az e fejezetben nem szabályozott kérdésekben az Ákr. rendelkezéseit kell megfelelően alkalmazni.
+84/A. § (1) A végrehajtásra az e fejezetben nem szabályozott kérdésekben az Ákr. rendelkezéseit kell alkalmazni azzal, hogy a végrehajtást a vizsgáló rendeli el.
 
-84/B. § (1) Az eljáró versenytanács a döntésében előírt meghatározott cselekmény elvégzésére, meghatározott magatartás tanúsítására vagy attól való tartózkodásra vonatkozó kötelezettség (a továbbiakban együtt: meghatározott cselekmény) végrehajtásának elrendelésével egyidejűleg – ha a meghatározott cselekmény teljesítése más végrehajtási módon keresztül hatékonyan nem biztosítható – végrehajtási bírságot szab ki.
+(2) A vizsgáló végrehajtás során hozott végzése ellen nincs helye fellebbezésnek. A vizsgáló végrehajtás során hozott végzése a végzés közlésétől számított nyolc napon belül támadható meg közigazgatási perben.
+
+84/B. § (1) A vizsgáló az eljáró versenytanács döntésében előírt meghatározott cselekmény elvégzésére, meghatározott magatartás tanúsítására vagy attól való tartózkodásra vonatkozó kötelezettség (a továbbiakban együtt: meghatározott cselekmény) végrehajtásának elrendelésével egyidejűleg – ha a meghatározott cselekmény teljesítése más végrehajtási módon keresztül hatékonyan nem biztosítható – végrehajtási bírságot szab ki.
 
 (2) A végrehajtási bírság a vállalkozással és a vállalkozás törvényes képviselőjével szemben egyidejűleg is kiszabható.
 
@@ -1907,17 +1941,11 @@ jogszerűsége tárgyában.
 
 84/D. § (1) A teljesítési határidőben meg nem fizetett eljárási költség, valamint a meg nem fizetett eljárási költség után felszámítandó és meg nem fizetett késedelmi pótlék végrehajtását a Gazdasági Versenyhivatal foganatosítja.
 
-(2) A meghatározott cselekmény végrehajtását a Gazdasági Versenyhivatal foganatosítja, kivéve, ha az eljáró versenytanács végrehajtási bírság kiszabásáról döntött. A meghatározott cselekmény végrehajtására irányuló végrehajtási eljárásban kiszabható eljárási bírságra a 61. § (3) bekezdését kell alkalmazni.
+(2) A meghatározott cselekmény végrehajtását a Gazdasági Versenyhivatal foganatosítja, kivéve, ha a vizsgáló végrehajtási bírság kiszabásáról döntött. A meghatározott cselekmény végrehajtására irányuló végrehajtási eljárásban kiszabható eljárási bírságra a 61. § (3) bekezdését kell alkalmazni.
 
-84/E. § (1) A végrehajtás foganatosítása során hozott törvénysértő döntés vagy intézkedés miatt végrehajtási kifogás a kifogásolt döntésről, illetve intézkedésről való tudomásszerzést vagy az akadály megszűnését követő három napon belül, de legkésőbb a döntés közlésétől, illetve az intézkedéstől számított egy hónapon belül terjeszthető elő.
+84/E. § A végrehajtás foganatosítása során hozott, törvénysértőnek tartott intézkedés miatt végrehajtási kifogás a kifogásolt intézkedésről való tudomásszerzést vagy az akadály megszűnését követő három napon belül, de legkésőbb az intézkedéstől számított egy hónapon belül terjeszthető elő, amelyről a bíróság közigazgatási perben harminc napon belül határoz.
 
-(2) A vizsgáló döntésével vagy intézkedésével szembeni végrehajtási kifogást az eljáró versenytanács nyolc napon belül bírálja el.
-
-(3) Az eljáró versenytanácsnak a végrehajtási eljárásban hozott döntésével szemben indított közigazgatási perben a bíróság tizenöt napon belül határoz.
-
-(4) A végrehajtási kifogásra az e §-ban meghatározott eltérésekkel megfelelően alkalmazni kell a 82. § (1), (3) és (4) bekezdését.
-
-84/F. § Az eljáró versenytanácsnak a végrehajtás elrendeléséről hozott végzésével szembeni közigazgatási perben halasztó hatály elrendelésének nincs helye.
+84/F. § A végrehajtás elrendeléséről szóló, véglegessé vált végzéssel szembeni közigazgatási perben halasztó hatály elrendelésének nincs helye.
 
 ## ÖTÖDIK RÉSZ — A GAZDASÁGI VERSENYHIVATAL ÁLTAL INDÍTHATÓ PEREK
 
@@ -2379,6 +2407,8 @@ végrehajtási eljárásokra is alkalmazni kell.
 (4) A 34. §-ban meghatározott köztisztviselők jogviszonyának Küt. szerinti közszolgálati jogviszonnyá történő átalakulása nem érinti a megbízatást, kinevezést.
 
 95/I. § E törvénynek a felsőoktatási intézmények versenyképes működését elősegítő szabályokról, valamint egyes vagyongazdálkodási, kormányzati igazgatási és büntetőjogi tárgyú törvények módosításáról szóló 2021. évi CIII. törvénnyel (a továbbiakban: Módtv5.) megállapított 25/B. §-át a Módtv5. hatálybalépését megelőzően létrejött, de még végre nem hajtott összefonódásokra is alkalmazni kell.
+
+95/J. § E törvénynek az egyes igazságügyi tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXII. törvénnyel megállapított 43/N. § (1) bekezdés c) pontját és (4) bekezdését, 43/O. §-át, 60/A. § (1) bekezdését, 62/A. § (4a) bekezdését, 63. § (2) bekezdés d) pontját, 67. § (5a) bekezdését, 68. § (1) bekezdés c) pont ca) alpontját az e rendelkezések hatálybalépését megelőzően létrejött, de még végre nem hajtott összefonódásokra is alkalmazni kell.
 
 ### Felhatalmazó rendelkezések
 

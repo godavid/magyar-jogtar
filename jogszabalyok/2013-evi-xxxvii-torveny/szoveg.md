@@ -130,9 +130,10 @@ A formanyomtatványban olyan személy neve és címe is megjelölhető, aki a me
   - e) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 288/A. §-a szerinti Jelentő Magyar Pénzügyi Intézmény.
 - 2. Nem Jelentő Magyar Pénzügyi Intézmény: a FATCA Megállapodás 1. cikk 1. pont q) alpontja szerinti Nem Jelentő Magyar Pénzügyi Intézmény.
 
-(6) Az V/B. Fejezet alkalmazásában
+(6) Az V/B. Fejezet és az 1. melléklet alkalmazásában
 
 - 1. adóév: a naptári év;
+- 1a. aktuális lakcím: a Jelentő Magyar Pénzügyi Intézmény által legutóbb nyilvántartásba vett lakcím;
 - 2. automatikus információcsere:
   - a) az Európai Unió más tagállamában (a továbbiakban: tagállam) vagy a Pénzügyi Számlákkal kapcsolatos információk automatikus cseréjéről szóló, illetékes hatóságok közötti többoldalú Megállapodást kihirdető törvény (a továbbiakban: Megállapodást kihirdető törvény) 1. mellékletében felsorolt államban (a továbbiakban: más állam), valamint
   - b) az Európai Unióval az 1. melléklet I. pontjában meghatározott adatok automatikus cseréjéről szóló, az V/B. fejezet szabályaihoz képest különös szabálynak minősülő hatályos megállapodással rendelkező joghatóság területén
@@ -1410,6 +1411,8 @@ teljesíti a FATCA Megállapodás 3. cikk 4. pontjában foglaltak figyelembe vé
 
 (6) A Jelentő Magyar Pénzügyi Intézmény, illetve az állami adóhatóság haladéktalanul írásban – ha az lehetséges elektronikus úton – tájékoztatja a magánszemélyt, ha az e Fejezet szerinti adatszolgáltatás és automatikus információcsere során az adatbiztonsági szabályok megsértése valószínűsíthetően hátrányosan érinti a magánszemély személyes adatait vagy magánéletének védelmét.
 
+(7) A Jelentő Magyar Pénzügyi Intézmény az adatszolgáltatási kötelezettséggel összefüggő valamennyi dokumentációt annak nyilvántartási módjától függetlenül az adatszolgáltatási kötelezettség 43/H. §-ban meghatározott határidejétől számított 5 évig megőrzi.
+
 43/J. § (1) A Jelentő Magyar Pénzügyi Intézmény a 43/G. § (1), (3), (5) és (6) bekezdése szerinti bejelentési, továbbá a 43/H. § szerinti adatszolgáltatási kötelezettségét elektronikus úton, a Nem Jelentő Magyar Pénzügyi Intézmény a 43/G. § (2) és (3) bekezdése szerinti bejelentési kötelezettségét – ha az lehetséges – elektronikus úton, az állami adóhatóság által erre a célra rendszeresített elektronikus űrlapon teljesíti az állami adóhatósághoz.
 
 (2) Az állami adóhatóság a 43/I. §-ban meghatározott, automatikus információcsere keretében az Európai Unió tagállamába továbbított információt a 16. § (5) bekezdésének megfelelő formátumban továbbítja.
@@ -1819,9 +1822,9 @@ A. A Meglévő Egyéni Számlák átvilágítására a B–E. pontokban meghatá
 
 B. Alacsonyabb Értékű Számlák átvilágítására vonatkozó szabályok
 
-1. Ha a Jelentő Magyar Pénzügyi Intézmény nyilvántartásában szerepel a magánszemély Számlatulajdonos Okirati bizonyítékkal igazolt állandó lakcíme, a Jelentő Magyar Pénzügyi Intézmény a magánszemély Számlatulajdonos Jelentendő Személyként való minősítése szempontjából úgy tekintheti, hogy a Számlatulajdonos abban a tagállamban, más államban vagy más joghatósággal rendelkező területen rendelkezik adóügyi illetőséggel, ahol az állandó lakcím vagy szokásos tartózkodási hely található. Több tagállam, más állam vagy más joghatósággal rendelkező területen található, Okirati bizonyítékkal igazolt állandó lakcím esetében úgy tekintendő, hogy a magánszemély Számlatulajdonos valamennyi érintett tagállam, más állam vagy más joghatósággal rendelkező területen illetőséggel rendelkezik.
+1. Ha a Jelentő Magyar Pénzügyi Intézmény nyilvántartásában szerepel a magánszemély Számlatulajdonos Okirati bizonyítékkal igazolt aktuális lakcíme, a Jelentő Magyar Pénzügyi Intézmény a magánszemély Számlatulajdonos Jelentendő Személyként való minősítése szempontjából úgy tekintheti, hogy a Számlatulajdonos abban a tagállamban, más államban vagy más joghatósággal rendelkező területen rendelkezik adóügyi illetőséggel, ahol az aktuális lakcím vagy szokásos tartózkodási hely található. Több tagállam, más állam vagy más joghatósággal rendelkező területen található, Okirati bizonyítékkal igazolt aktuális lakcím esetében úgy tekintendő, hogy a magánszemély Számlatulajdonos valamennyi érintett tagállam, más állam vagy más joghatósággal rendelkező területen illetőséggel rendelkezik.
 
-2. Ha a Jelentő Magyar Pénzügyi Intézmény az átvilágítás során a magánszemély Számlatulajdonos illetőségét nem az Okirati bizonyítékkal igazolt állandó lakcím alapján állapítja meg, az illetőség megállapítása érdekében elektronikus adatbázisában – B/3–B/6. pontokban foglaltakat is figyelembe véve – az alábbi szempontok figyelembe vételével keres
+2. Ha a Jelentő Magyar Pénzügyi Intézmény az átvilágítás során a magánszemély Számlatulajdonos illetőségét nem az Okirati bizonyítékkal igazolt aktuális lakcím alapján állapítja meg, az illetőség megállapítása érdekében elektronikus adatbázisában – B/3–B/6. pontokban foglaltakat is figyelembe véve – az alábbi szempontok figyelembe vételével keres
 
 a) a Számlatulajdonos valamely tagállamban vagy más államban illetőséggel rendelkezik-e;
 
@@ -1945,7 +1948,7 @@ b) Ha az adatok arra utalnak, hogy a Számlatulajdonos tagállami vagy más áll
 
 2. Annak megállapítása, hogy a Jogalany egy vagy több Jelentendő Személynek minősülő, Ellenőrzést gyakorló személy ellenőrzése alatt álló Passzív Nem Pénzügyi Jogalany-e:
 
-Meglévő Jogalanyi Számlák tulajdonosai esetében (ideértve a Jelentendő Személynek minősülő Jogalanyokat is) a Jelentő Magyar Pénzügyi Intézmény megállapítja, hogy a Számlatulajdonos olyan Passzív Nem Pénzügyi Jogalany-e, amely egy vagy több, Jelentendő Személynek minősülő, Ellenőrzést gyakorló személy ellenőrzése alatt áll. Ha az Ellenőrzést gyakorló személy, akinek/amelynek a Passzív Nem Pénzügyi Jogalany az ellenőrzése alatt áll, Jelentendő Személynek minősül, a számlát Jelentendő Pénzügyi Számlaként kell kezelni. A mérlegelés során a Jelentő Magyar Pénzügyi Intézmény a D/2.a)–c) pontokban foglaltak alapján jár el.
+Meglévő Jogalanyi Számlák tulajdonosai esetében (ideértve a Jelentendő Személynek minősülő Jogalanyokat is) a Jelentő Magyar Pénzügyi Intézmény megállapítja, hogy a Számlatulajdonos olyan Passzív Nem Pénzügyi Jogalany-e, amely egy vagy több, Jelentendő Személynek minősülő, Ellenőrzést gyakorló személy ellenőrzése alatt áll. Ha az Ellenőrzést gyakorló személy, akinek/amelynek a Passzív Nem Pénzügyi Jogalany az ellenőrzése alatt áll, Jelentendő Személynek minősül, a számlát Jelentendő Pénzügyi Számlaként kell kezelni. A mérlegelés során a Jelentő Magyar Pénzügyi Intézmény a D/2. a)–c) pontokban foglaltak alapján jár el.
 
 a) A Számlatulajdonos passzív nem pénzügyi jogalanyiságának megállapítása
 
@@ -1967,7 +1970,25 @@ cb) a Számlatulajdonos vagy az Ellenőrzést gyakorló személy nyilatkozatát 
 
 2. Azoknak a Meglévő Jogalanyi Számláknak az ellenőrzését, amelyek összesített egyenlege vagy értéke 2015. december 31-én vagy azon más államok esetében, amelyek a Megállapodást kihirdető törvény 1. számú mellékletébe 2017. január 1-jei vagy azt követő hatállyal kerülnek be, a mellékletbe való bekerülés évét megelőző adóév utolsó napján nem haladja meg a 250 000 USD-nak megfelelő, forintban vagy külföldi fizetési eszközben (devizában) kifejezett összeget, de egy későbbi adóév december 31-én meghaladja azt, az ezen összeghatár túllépését követő adóév végéig kell elvégezni.
 
-3. Ha a Meglévő Jogalanyi Számlával kapcsolatos körülményekben olyan változás áll be (2. melléklet 1. pont), melynek eredményeként a Jelentő Magyar Pénzügyi Intézménynek tudomására jut vagy alappal feltételezi, hogy a számlához kapcsolódó nyilatkozat vagy más dokumentáció hibás vagy nem megalapozott, akkor a Jelentő Magyar Pénzügyi Intézmény a D. pontban meghatározott szabályoknak megfelelően újra elvégzi a számla minősítését.
+3. Ha a Meglévő Jogalanyi Számlával kapcsolatos körülményekben olyan változás áll be (2. melléklet 1. pont), melynek eredményeként a Jelentő Magyar Pénzügyi Intézménynek tudomására jut vagy alappal feltételezi, hogy a számlához kapcsolódó nyilatkozat vagy más dokumentáció hibás vagy nem megalapozott, akkor a Jelentő Magyar Pénzügyi Intézmény az adott adóév utolsó napjáig, vagy – ha az későbbi időpont – a körülmények változásának észlelésétől vagy az arról szóló értesítéstől számított 90 naptári napon belül újra elvégzi a számla minősítését a D. pontban meghatározott szabályoknak megfelelően, az alábbi eltérésekkel:
+
+a) ha a körülmények változása folytán az adatok arra utalnak, hogy a Számlatulajdonos a korábbitól eltérő tagállami vagy más állami illetőségű, a Jelentő Magyar Pénzügyi Intézménynek be kell szereznie a Számlatulajdonos
+
+aa) nyilatkozatát vagy
+
+ab) (szükség szerint) olyan ésszerű magyarázatát és dokumentációt, amely alátámasztja az eredeti nyilatkozat vagy dokumentáció helytállóságát.
+
+Ha a Jelentő Magyar Pénzügyi Intézmény nem tudja beszerezni a nyilatkozatot vagy az eredeti nyilatkozat vagy dokumentáció helytállóságának megerősítését, a Számlatulajdonost Jelentendő Személyként kell kezelnie mindkét tagállam vagy más állam tekintetében.
+
+b) ha a körülmények változása folytán kétség merül fel azzal kapcsolatban, hogy a Számlatulajdonos Pénzügyi Intézménynek, Aktív Nem Pénzügyi Jogalanynak vagy Passzív Nem Pénzügyi Jogalanynak minősül-e, a Jelentő Magyar Pénzügyi Intézménynek kiegészítő dokumentációt vagy adott esetben a Számlatulajdonos nyilatkozatát kell beszereznie annak Pénzügyi Intézménynek vagy Aktív Nem Pénzügyi Jogalanynak történő minősítéséhez. Ha a Jelentő Magyar Pénzügyi Intézmény nem tudja beszerezni a dokumentumokat, a Számlatulajdonost Passzív Nem Pénzügyi Jogalanyként kell kezelnie.
+
+c) ha a körülmények változása folytán az adatok arra utalnak, hogy az Ellenőrzést gyakorló személy a korábbitól eltérő tagállami vagy más állami illetőségű, a Jelentő Magyar Pénzügyi Intézménynek be kell szereznie a Számlatulajdonos vagy Ellenőrzést gyakorló személy
+
+ca) nyilatkozatát vagy
+
+cb) (szükség szerint) olyan ésszerű magyarázatát és dokumentációt, amely alátámasztja az eredeti nyilatkozat vagy dokumentáció helytállóságát.
+
+Ha a Jelentő Magyar Pénzügyi Intézmény nem tudja beszerezni a nyilatkozatot vagy az eredeti nyilatkozat vagy dokumentáció helytállóságának megerősítését, a Jelentő Magyar Pénzügyi Intézmény az Ellenőrzést gyakorló személy adóügyi illetőségét a III/B/2. pontban meghatározott szempontok figyelembe vételével állapítja meg.
 
 VI. Új Jogalanyi Számlák átvilágítása
 
@@ -1985,7 +2006,7 @@ b) Ha a nyilatkozat alapján a Számlatulajdonos tagállami vagy más állami il
 
 a) A Számlatulajdonos passzív nem pénzügyi jogalanyiságának megállapítása
 
-A Jelentő Magyar Pénzügyi Intézmény a Számlatulajdonos passzív nem pénzügyi jogalanyiságának megállapítása céljából a Számlatulajdonost nyilatkozattételre szólítja fel, kivéve, ha a rendelkezésére álló vagy nyilvánosan hozzáférhető adatokat mérlegelve megállapítja, hogy a Számlatulajdonos Aktív Nem Pénzügyi Jogalany vagy olyan, a VIII/A/6. b) pontja szerinti Pénzügyi Intézmény, amely nem Résztvevő joghatóság Pénzügyi Intézménye. A Számlatulajdonos a passzív nem pénzügyi jogalanyiságáról a Jelentő Magyar Pénzügyi Intézmény felszólítására írásban tesz nyilatkozatot.
+A Jelentő Magyar Pénzügyi Intézmény a Számlatulajdonos passzív nem pénzügyi jogalanyiságának megállapítása céljából a Számlatulajdonost nyilatkozattételre szólítja fel, kivéve, ha a rendelkezésére álló vagy nyilvánosan hozzáférhető adatokat mérlegelve megállapítja, hogy a Számlatulajdonos Aktív Nem Pénzügyi Jogalany vagy olyan Pénzügyi Intézmény, amely nem tartozik a VIII/D/7. b) pontban meghatározott Pénzügyi Intézmények közé. A Számlatulajdonos a passzív nem pénzügyi jogalanyiságáról a Jelentő Magyar Pénzügyi Intézmény felszólítására írásban tesz nyilatkozatot.
 
 b) A Számlatulajdonos felett Ellenőrzést gyakorló személy azonosítása
 
@@ -1994,6 +2015,8 @@ A Számlatulajdonos felett Ellenőrzést gyakorló személy azonosítása célj�
 c) Annak megállapítása, hogy a Passzív Nem Pénzügyi Jogalany felett Ellenőrzést gyakorló személy Jelentendő Személy-e
 
 Annak megállapítása céljából, hogy a Passzív Nem Pénzügyi Jogalany felett Ellenőrzést gyakorló személy Jelentendő Személy-e, a Jelentő Magyar Pénzügyi Intézmény a Számlatulajdonos vagy az Ellenőrzést gyakorló személy nyilatkozatát is figyelembe veheti.
+
+3. Ha az Új Jogalanyi Számlával kapcsolatos körülményekben olyan változás áll be (2. melléklet 1. pont), melynek eredményeként a Jelentő Magyar Pénzügyi Intézménynek tudomására jut vagy alappal feltételezi, hogy a számlához kapcsolódó nyilatkozat vagy más dokumentáció hibás vagy nem megalapozott, akkor a Jelentő Magyar Pénzügyi Intézmény az adott adóév utolsó napjáig, vagy – ha az későbbi időpont – a körülmények megváltozásának észlelésétől vagy az arról szóló értesítéstől számított 90 naptári napon belül az V/E/3. a)–c) pontban említett eltéréssel újra elvégzi a számla minősítését.
 
 VII. Az átvilágítás különös szabályai
 

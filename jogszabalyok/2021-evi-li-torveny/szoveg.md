@@ -60,9 +60,25 @@ egyes törvényeknek a kézbesítéssel és az igazságügyi ágazati szabályoz
 
 #### 5. A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosítása
 
-25. §
+25. § (1) A fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Ftv.) 43/A. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
 
-26. §
+[A fogyasztóvédelmi hatóság látja el az (EU) 2017/2394 rendelet végrehajtását a következő irányelveket átültető tagállami jogszabályokba ütköző Európai Unión belüli jogsértések tekintetében:]
+
+„d) az áruk adásvételére irányuló szerződések egyes vonatkozásairól, az (EU) 2017/2394 rendelet és a 2009/22/EK irányelv módosításáról, valamint az 1999/44/EK irányelv hatályon kívül helyezéséről szóló, 2019. május 20-i (EU) 2019/771 európai parlamenti és tanácsi irányelv,”
+
+(2) Az Ftv. 43/A. § (1) bekezdése a következő k) ponttal egészül ki:
+
+[A fogyasztóvédelmi hatóság látja el az (EU) 2017/2394 rendelet végrehajtását a következő irányelveket átültető tagállami jogszabályokba ütköző Európai Unión belüli jogsértések tekintetében:]
+
+„k) a digitális tartalom szolgáltatására és digitális szolgáltatások nyújtására irányuló szerződések egyes vonatkozásairól szóló, 2019. május 20-i (EU) 2019/770 európai parlamenti és tanácsi irányelv.”
+
+26. § Az Ftv. 57. § (1) bekezdése a következő i) és j) ponttal egészül ki:
+
+(Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+
+„i) a digitális tartalom szolgáltatására és digitális szolgáltatások nyújtására irányuló szerződések egyes vonatkozásairól szóló, 2019. május 20-i (EU) 2019/770 európai parlamenti és tanácsi irányelv [18. §, 38. §, 39. §, 45. §, 45/A. §, 45/B. §];
+
+j) az áruk adásvételére irányuló szerződések egyes vonatkozásairól, az (EU) 2017/2394 rendelet és a 2009/22/EK irányelv módosításáról, valamint az 1999/44/EK irányelv hatályon kívül helyezéséről szóló, 2019. május 20-i (EU) 2019/771 európai parlamenti és tanácsi irányelv [18. §, 38. §, 39. §, 45. §, 45/A. §, 45/B. §].”
 
 #### 6. A közvetítői tevékenységről szóló 2002. évi LV. törvény módosítása
 
@@ -132,19 +148,33 @@ egyes törvényeknek a kézbesítéssel és az igazságügyi ágazati szabályoz
 
 #### 12. A Polgári Törvénykönyvről szóló 2013. évi V. törvény módosítása
 
-52. §
+52. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 6:159. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Fogyasztó és vállalkozás közötti – ingó dolognak minősülő áru adásvételére, digitális tartalom szolgáltatására vagy digitális szolgáltatások nyújtására irányuló – szerződés esetén a fogyasztó kellékszavatossági jogai gyakorlása keretében a hibát a kötelezett költségére maga nem javíthatja ki, illetve mással sem javíttathatja ki azt.”
 
 53. § (1)
 
-(2)
+(2) A Ptk. 8:6. § (1) bekezdés o) pontja helyébe a következő rendelkezés lép és a bekezdés a következő p) ponttal egészül ki:
+
+(E törvény:)
+
+„o) az áruk adásvételére irányuló szerződések egyes vonatkozásairól, az (EU) 2017/2394 rendelet és a 2009/22/EK irányelv módosításáról, valamint az 1999/44/EK irányelv hatályon kívül helyezéséről szóló, 2019. május 20-i (EU) 2019/771 európai parlamenti és tanácsi irányelvnek;
+
+p) a digitális tartalom szolgáltatására és digitális szolgáltatások nyújtására irányuló szerződések egyes vonatkozásairól szóló, 2019. május 20-i (EU) 2019/770 európai parlamenti és tanácsi irányelvnek”
+
+(való megfelelést szolgálja.)
 
 (3)
 
-54. §
+54. § A Ptk. 6:159. § (2) bekezdés b) pontjában az „igényelheti,” szövegrész helyébe az „igényelheti, – a (2a) bekezdés szerinti kivétellel –” szöveg lép.
 
 #### 13. A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény módosítása
 
-55. §
+55. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény 66. § (1) bekezdése a következő i) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben meghatározza)
+
+„i) a fogyasztó és vállalkozás közötti, digitális tartalom szolgáltatására vagy digitális szolgáltatás nyújtására irányuló szerződések szabályait, ideértve a digitális tartalom vagy a digitális szolgáltatás szerződésszerű teljesítésére, a hibás teljesítésre és az azzal kapcsolatos jogorvoslati lehetőségekre, valamint azok gyakorlásának módjára, illetve a digitális tartalom vagy szolgáltatás módosítására vonatkozó részletes szabályokat, továbbá a fogyasztó és vállalkozás közötti, áruk adásvételére vonatkozó szerződések szabályait, ideértve a szerződésszerű teljesítésre, a hibás teljesítésre és az azzal kapcsolatos jogorvoslati lehetőségekre, valamint azok érvényesítésének feltételeire, illetve a jótállásra vonatkozó részletes szabályokat.”
 
 #### 14. Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény módosítása
 

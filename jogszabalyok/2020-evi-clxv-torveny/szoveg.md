@@ -14,13 +14,27 @@ az egyes igazságügyi tárgyú törvények módosításáról
 
 5. §
 
-6. §
+6. § (1) A Kjtv. 31/A. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-7. §
+„(1) A közjegyző közjegyzői iroda keretében folytatja tevékenységét.”
 
-8. §
+(2) A Kjtv. 31/A. § (6) bekezdése helyébe a következő rendelkezés lép:
 
-9. §
+„(6) A közjegyzőhelyettes, a közjegyzőjelölt, a közjegyzői irodai ügyintéző és az egyéb irodai alkalmazott a közjegyzői irodával áll munkaviszonyban. Ha a közjegyzői irodát kettő vagy több közjegyző közösen tartja fenn, a közjegyzőhelyettes, a közjegyzőjelölt és a közjegyzői irodai ügyintéző tevékenységéért vagy mulasztásáért az a közjegyző felel, aki a közjegyzőhelyettesek és közjegyzőjelöltek kamarai névjegyzékében, illetve a közjegyzői irodai ügyintézők nyilvántartásában a közjegyzőhelyettest, közjegyzőjelöltet, illetve közjegyzői irodai ügyintézőt alkalmazó közjegyzőként feltüntetésre került.”
+
+7. § A Kjtv. 36. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A tartós helyettesítés alatt a helyettesített közjegyző alkalmazásában álló közjegyzőhelyettes, közjegyzőjelölt, közjegyzői irodai ügyintéző, illetve ügyintéző – a tartós helyettes utasítása és felelőssége mellett – kizárólag a 34. § (1) bekezdés b) pontja és (2) bekezdése szerinti esetekben és akkor járhat el, ha a tartós helyettest a helyettesített közjegyző közjegyzői irodájának helyettes irodavezetőjévé jelölték ki.”
+
+8. § A Kjtv. 37/B. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Ha a helyettesített közjegyző a közjegyzői iroda irodavezetője, a tartós helyettesítési megállapodásban a felek megállapodhatnak arról is, hogy a tartós helyettes a helyettesített közjegyző irodáját átveszi. Ebben az esetben a területi kamara elnökségének az eljárására a 37/D. § (4) bekezdését kell alkalmazni.”
+
+9. § A Kjtv. 37/D. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(3) Ha a helyettesített közjegyző a közjegyzői iroda irodavezetője, a tartós helyettes a kirendelésről szóló okirat közlésétől számított 8 napon belül a területi kamara elnökségének nyilatkozik arról, hogy a helyettesített közjegyző irodáját átveszi.
+
+(4) A (3) bekezdés szerinti esetben a területi kamara elnöksége hatósági eljárás keretében dönt a helyettesített közjegyző irodavezetői megbízásának megszüntetéséről és a tartós helyettest a helyettesített közjegyző irodájának irodavezetőjévé jelöli ki (a továbbiakban: helyettes irodavezető), és erről a cégbíróságot tájékoztatja. A helyettes irodavezetőre az irodavezetőre irányadó szabályokat kell alkalmazni. A helyettesítés megszűntével a területi kamara elnöksége hatósági eljárás keretében dönt a helyettes irodavezetői megbízásának megszüntetéséről és a helyettesített közjegyzőt a közjegyző irodája irodavezetőjévé jelöli ki, és erről a cégbíróságot tájékoztatja.”
 
 10. §
 
@@ -36,7 +50,11 @@ az egyes igazságügyi tárgyú törvények módosításáról
 
 16. § (1)
 
-(2)
+(2) Hatályát veszti a Kjtv.
+
+- a) 31/A. § (1a) bekezdése,
+- b) 31/A. § (5) bekezdése,
+- c) 37/D. § (2) bekezdése.
 
 #### 2. A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
 

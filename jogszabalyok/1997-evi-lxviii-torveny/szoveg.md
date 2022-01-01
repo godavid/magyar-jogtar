@@ -646,7 +646,7 @@ nem haladhatja meg.
 43. § Az igazságügyi alkalmazottat nem terheli munkavégzési kötelezettség
 
 - a) amíg az állampolgári kötelezettségét teljesíti,
-- b) közeli hozzátartozója halálakor, esetenként legalább 2 munkanapon,
+- b) hozzátartozója halálakor, esetenként legalább 2 munkanapon,
 - c) a keresőképtelenséget okozó betegség, illetve a kötelezően elrendelt orvosi vizsgálat időtartamára,
 - d) a véradás miatt távol töltött teljes időre, de legalább 4 órára,
 - e) ha a szolgálati helyén elháríthatatlan ok miatt nem tud megjelenni,
@@ -1173,8 +1173,8 @@ okozta.
 (4) Részben vagy egészben igazságügyi szolgálati időként lehet figyelembe venni
 
 - a) bírósági titkárnál a kinevezése előtt jogi képesítéshez kötött munkakörben a jogi szakvizsga letételének napjától számított időt,
-- b) igazságügyi szakértő, szakértőjelölt és felsőfokú végzettségű tisztviselő esetén a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, közalkalmazotti, hivatásos szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, kormányzati szolgálati jogviszony és szolgálati jogviszony idejét,
-- c) az egyéb igazságügyi alkalmazottaknál a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, hivatásos szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, közalkalmazotti jogviszony, kormányzati szolgálati jogviszony és szolgálati jogviszony idejét.
+- b) igazságügyi szakértő, szakértőjelölt és felsőfokú végzettségű tisztviselő esetén a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, egészségügyi szolgálati, közalkalmazotti, hivatásos szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, kormányzati szolgálati jogviszony és szolgálati jogviszony idejét,
+- c) az egyéb igazságügyi alkalmazottaknál a korábbi munkaviszony, kormánytisztviselői, állami tisztviselői, köztisztviselői, kormányzati ügykezelői, állami ügykezelői, közszolgálati ügykezelői, hivatásos szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, egészségügyi szolgálati jogviszony, közalkalmazotti jogviszony, kormányzati szolgálati jogviszony és szolgálati jogviszony idejét.
 
 (5) A (4) bekezdés alkalmazásakor a beszámítandó időt úgy kell meghatározni, hogy a következő fizetési fokozatba való előresorolás az adott év első napjával történjék. A beszámításnál figyelemmel kell lenni a helyes bérarányok fenntartására.
 
@@ -1271,9 +1271,9 @@ okozta.
 
 ### A jubileumi jutalom
 
-118. § (1) Az igazságügyi alkalmazott 25, 30, 35, illetve 40 év igazságügyi alkalmazotti szolgálati viszony után jubileumi jutalomra jogosult.
+118. § (1) Az igazságügyi alkalmazott 25, 30, 35, 40, illetve 45 év igazságügyi alkalmazotti szolgálati viszony után jubileumi jutalomra jogosult.
 
-(2) A jubileumi jutalom 25 év szolgálati viszony után az igazságügyi alkalmazott kéthavi, 30 év után háromhavi, 35 év után négyhavi, 40 év után öthavi illetménye.
+(2) A jubileumi jutalom 25 év szolgálati viszony után az igazságügyi alkalmazott kéthavi, 30 év után háromhavi, 35 év után négyhavi, 40 év után öthavi, 45 év után hathavi illetménye.
 
 (3) Az igazságügyi alkalmazott részére – ha nyugdíjazáskor szolgálati viszonya megszűnik – ki kell fizetni
 
@@ -1283,7 +1283,11 @@ okozta.
 
 (4) Ha a szolgálati viszony az igazságügyi alkalmazott halála miatt szűnik meg, a jubileumi jutalmat – a (3) bekezdés alkalmazásával – az örökösének kell kifizetni.
 
-(5) A jubileumi jutalomra való jogosultság szempontjából a szolgálati viszony idejébe be kell számítani a közszolgálati jogviszonyban, a kormányzati szolgálati jogviszonyban, az állami szolgálati jogviszonyban, a hivatásos szolgálati jogviszonyban, az adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, a közalkalmazotti jogviszonyban és a munkaviszonyban töltött időt.
+(5) A jubileumi jutalomra való jogosultság szempontjából a szolgálati viszony idejébe be kell számítani a bírói szolgálati viszonyban, az ügyészségi szolgálati viszonyban, a közszolgálati jogviszonyban, a kormányzati szolgálati jogviszonyban, az állami szolgálati jogviszonyban, a hivatásos szolgálati jogviszonyban, az adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, az egészségügyi szolgálati jogviszonyban, a közalkalmazotti jogviszonyban és a munkaviszonyban töltött időt.
+
+(5a) Az (5) bekezdésben foglaltakon kívül jubileumi jutalomra jogosító időnek számít az ügyvédi tevékenység, valamint a közjegyzői és a bírósági végrehajtói szolgálat időtartama is, kivéve az ügyvédi tevékenység, illetve a közjegyzői, valamint a bírósági végrehajtói szolgálat szünetelésének idejét.
+
+(5b) Ha a jubileumi jutalomra jogosító idők számítása során azonos időszakra több jogviszonyt is figyelembe lehetne venni, közülük csak egy jogviszony számítható be.
 
 (6) Ha az igazságügyi alkalmazott bármely korábbi foglalkoztatási jogviszonyában jubileumi jutalomban részesült, az ugyanazon fokozat szerinti jubileumi jutalom ismételten nem illeti meg.
 

@@ -429,9 +429,9 @@ VAGY KÖZEGÉSZSÉGÜGYI OKBÓL TÖRTÉNŐ KORLÁTOZÁSA
 - a) a kiutasításra azért kerül sor, mert a visszairányítást – a visszairányított személynek fel nem róható okból – nem lehetett végrehajtani, vagy
 - b) a kiutasítást kiskorúval szemben rendelték el.
 
-42. § (1) Az idegenrendészeti kiutasítás nem rendelhető el azzal az EGT-állampolgárral, illetve azzal a családtaggal szemben, aki
+42. § (1) Az idegenrendészeti kiutasítás nem rendelhető el azzal az EGT-állampolgárral szemben, aki
 
-- a) több mint tíz éve jogszerűen tartózkodik Magyarország területén, vagy
+- a) több mint tíz éve jogszerűen tartózkodik Magyarország területén, kivéve, ha valódi, közvetlen és súlyos veszélyt jelent a nemzetbiztonságra, vagy
 - b) kiskorú, kivéve, ha a kiutasítás a kiskorú érdekében történik.
 
 (2) A kiutasításról az e törvény szerinti adatkezelő szervet értesíteni kell.
@@ -492,8 +492,9 @@ VAGY KÖZEGÉSZSÉGÜGYI OKBÓL TÖRTÉNŐ KORLÁTOZÁSA
 (1a) A bírósági és az idegenrendészeti kiutasítás – a 34. §-ban meghatározott tilalom figyelembevételével – kitoloncolással hajtható végre, ha
 
 - a) a kiutasított személy szándékosan elkövetett bűncselekmény miatt kiszabott szabadságvesztés büntetésből szabadult,
-- b) a kiutasított személy olyan bűncselekmény elkövetése miatt került kiutasításra, amely ötévi vagy azt meghaladó tartamú szabadságvesztéssel büntetendő, vagy
-- c) a kiutasított személlyel szemben a 40. § (2) bekezdés a)–c) pontja, valamint a 48. § (1) bekezdése alapján rendeltek el kiutasítást és a 61/A. §-ban foglaltaknak nem tett eleget.
+- b) a kiutasított személy olyan bűncselekmény elkövetése miatt került kiutasításra, amely ötévi vagy azt meghaladó tartamú szabadságvesztéssel büntetendő,
+- c) a kiutasított személlyel szemben a 40. § (2) bekezdés a)–c) pontja, valamint a 48. § (1) bekezdése alapján rendeltek el kiutasítást és a 61/A. §-ban foglaltaknak nem tett eleget, vagy
+- d) a kiutasítás elrendelésére a 40. § (2) bekezdés c) pontja alapján került sor, és a kiutasított személy kiutazásának ellenőrzése a nemzetbiztonság, nemzetközi szerződésben vállalt kötelezettség érvényesítése, illetve a közbiztonság vagy a közrend védelme érdekében szükséges.
 
 (2) A kitoloncolásról az idegenrendészeti kiutasítást elrendelő határozatban vagy önálló határozatban kell rendelkezni. Bírósági kiutasítás esetén a kitoloncolást a bírósági kiutasítás végrehajtásáról hozott végzésben vagy önálló végzésben kell elrendelni, amellyel szemben – a (4) bekezdésben meghatározott kivétellel – jogorvoslatnak nincs helye.
 
@@ -1076,7 +1077,7 @@ c) aki a szabad mozgás és tartózkodás jogával rendelkező személyek beutaz
 (4) A magyar állampolgár családtagjaként érvényes tartózkodási kártyával vagy állandó tartózkodási kártyával rendelkező harmadik országbeli állampolgár tartózkodási kártyáját vagy állandó tartózkodási kártyáját vissza kell vonni
 
 - a) a (2) bekezdés a), b) és e)–h) pontjában meghatározott esetben,
-- b) ha a harmadik országbeli állampolgár tartózkodása sérti Magyarország közrendjét, köz- vagy nemzetbiztonsági érdekét.
+- b) ha a harmadik országbeli állampolgár tartózkodása veszélyezteti Magyarország közrendjét, köz- vagy nemzetbiztonsági érdekét.
 
 (5) A (4) bekezdés b) pontjában meghatározott szakkérdésben a Harmtv. letelepedési engedély kiadására vonatkozó szabályai szerint meg kell keresni a kijelölt szakhatóságokat szakhatósági vélemény kérése céljából.
 

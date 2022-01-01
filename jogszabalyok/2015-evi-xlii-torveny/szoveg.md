@@ -837,7 +837,7 @@ meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati b
 
 (2) Az ideiglenes átrendelést a munkáltatói jogkör gyakorlója írásban rendeli el.
 
-(3) Az ideiglenes átrendelésre egy naptári éven belül összesen harminc munkanap időtartamban, a rész-szolgálatteljesítési időben foglalkoztatott esetében a harminc munkanap időarányos részére kerülhet sor.
+(3) Az ideiglenes átrendelésre egy naptári éven belül összesen harminc nap időtartamban kerülhet sor, amely időtartam egy alkalommal harminc nappal meghosszabbítható.
 
 (4) Az ideiglenes átrendelés időtartamára a hivatásos állomány tagját nem illeti meg az illetményen felüli további díjazás.
 
@@ -1607,6 +1607,8 @@ megállapodhatnak a hivatásos állomány tagjának kormányzati szolgálati, k�
 - d) a szolgálati viszony megszűnésének évében igénybe vett szabadsága időtartamát, valamint
 - e) a kifizetett végkielégítés összegét.
 
+99/A. § A szolgálati viszony létesítésével és megszüntetésével összefüggésben a rendvédelmi szerv jogszabályban meghatározott feltételekkel igénybe veheti, és a hivatásos állomány tagja számára nyújthatja a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
+
 #### 61. Megtérítési kötelezettség
 
 100. § (1) Ha a szolgálati viszony a 80. § (1) bekezdés f) vagy g) pontja, (2) bekezdés b) vagy f) pontja, a 82. § (1) bekezdés a) vagy c) pontja, vagy a 86. § (2) bekezdés b)–d) pontja alapján az oktatási intézményben kötelező tanulmányi időnél rövidebb idő alatt szűnt meg, a rendvédelmi szerv a szolgálati beosztáshoz és előmenetelhez szükséges iskolarendszerű képzéshez térítésmentesen nyújtott támogatást időarányosan visszakövetelheti, ideértve a pénzbeli juttatásokat, a természetbeni élelmezés értékét, valamint a megállapított, de meg nem fizetett tandíjnak azt a hányadát is, amelyet a felsőoktatási intézményben a szociális és tanulmányi kedvezményekkel is meg kellett volna fizetni.
@@ -2137,6 +2139,8 @@ hatályos.
 
 (2) Az alap- és pótszabadság, valamint a szülési szabadság idejére távolléti díj jár.
 
+(3) A (2) bekezdésben foglaltaktól eltérően a szülési szabadság idejére járó távolléti díj személyi jövedelemadóval és a munkavállalót terhelő társadalombiztosítási járulékkal csökkentett – az adó- és járulékkedvezmények figyelmen kívül hagyásával számított – havi összege nem lehet kevesebb, mint a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény szerinti csecsemőgondozási díj személyi jövedelemadóval csökkentett – az adókedvezmények figyelmen kívül hagyásával számított – naptári napi összegének a harmincszorosa.
+
 #### 77. Alap- és pótszabadság
 
 143. § (1) A hivatásos állomány tagjának alapszabadsága évi huszonöt munkanap.
@@ -2344,7 +2348,7 @@ teljesíti szolgálatát.
 
 154. § (1) A hivatásos állomány tagja szolgálati viszonya alapján alapilletményből, az egyéb pótlékokból és teljesítményjuttatásból álló illetményre jogosult. Az illetményt száz forintra kerekítve kell megállapítani.
 
-(2) A hivatásos állomány tagja havonta alapilletményre és pótlékokra jogosult. Az alapilletmény beosztási illetményből, szolgálati időpótlékból és hivatásos pótlékból tevődik össze. Az ellátott feladattól és körülményektől függően a hivatásos állomány tagja az e törvényben megállapított egyéb pótlékokra jogosult.
+(2) A hivatásos állomány tagja havonta alapilletményre és pótlékokra jogosult. Az alapilletmény beosztási illetményből, szolgálati időpótlékból, hivatásos pótlékból és a 170. § (4) bekezdés szerint megállapított kiegészítő juttatásból tevődik össze. Az ellátott feladattól és körülményektől függően a hivatásos állomány tagja az e törvényben megállapított egyéb pótlékokra jogosult.
 
 (3) Az alapilletmény nem lehet kevesebb a jogszabályban meghatározott, a betöltött szolgálati beosztáshoz szükséges iskolai végzettség, szakképesítés szintjétől függő garantált bérminimum összegénél. E rendelkezést nem kell alkalmazni a hivatásos állomány pályakezdő tagjaira a rész-szakképesítés megszerzéséig.
 
@@ -2380,6 +2384,8 @@ kell figyelembe venni.
 (2) A teljesítményjuttatás kifizetés évére meghatározott mértéke nem haladhatja meg a hivatásos állomány tagja alapilletményének háromszorosát.
 
 (3) Az előző évi egyéni teljesítményértékelésre tekintettel a (2) bekezdés szerint a tárgyévre megállapított teljesítményjuttatásra a hivatásos állomány tagja akkor is jogosult, ha szolgálati viszonya a kifizetési év közben megszűnik. Ebben az esetben a kifizetésre a szolgálati viszony megszűnésére irányadó szabályok szerint kell intézkedni.
+
+(3a) Az előző évi egyéni teljesítményértékelés során kivételes teljesítményfokozattal értékelt a (2) bekezdés szerint a tárgyévre vonatkozó, miniszteri rendeletben meghatározott mértékű teljesítményjuttatásra akkor is jogosult, ha szolgálati viszonya a kifizetési évben, de a (3) bekezdésben foglaltaktól eltérően a tárgyévre vonatkozó teljesítményjuttatás megállapítását megelőzően szűnik meg, míg ilyen esetben az előző évi egyéni teljesítményértékelés során jó teljesítményfokozattal értékelt teljesítményjuttatásban részesíthető. Ezekben az esetekben a szervezeti teljesítményértékelést – ha az még nem áll rendelkezésre – a teljesítményértékelés eredményének megállapításakor nem kell figyelembe venni. A teljesítményjuttatás kifizetésére a 99. § (1) bekezdése szerinti elszámolás keretében kell intézkedni.
 
 (4) Az 51. § (2)–(4) bekezdése alapján a hivatásos állomány rendvédelmi szerven kívül szolgálatot teljesítő tagja – az előző évi egyéni teljesítményértékelés eredményétől függően – a foglalkoztató szerv személyi juttatás előirányzata terhére részesíthető teljesítményjuttatásban.
 
@@ -2530,7 +2536,7 @@ költséget.
 
 (3) A hivatásos állomány tagját a belföldi menetrend szerinti távolsági közlekedési eszközök igénybevételénél jogszabályban meghatározott utazási kedvezmény illeti meg.
 
-(4) A miniszter rendeletben az (1) bekezdésben foglaltakon túlmenően további szociális, jóléti és kulturális kedvezményeket és támogatásokat állapíthat meg a hivatásos állomány tagja, közeli hozzátartozója, valamint a szolgálati nyugdíjas és közeli hozzátartozója részére.
+(4) A miniszter rendeletben az (1) bekezdésben foglaltakon túlmenően további szociális, jóléti és kulturális kedvezményeket, juttatásokat és támogatásokat állapíthat meg a hivatásos állomány tagja, közeli hozzátartozója, valamint a szolgálati nyugdíjas és közeli hozzátartozója részére.
 
 (5) Az (1) bekezdésben meghatározott, valamint a (4) bekezdés szerinti szociális, jóléti és kulturális kedvezmények megállapítása esetén ezek fajtáit és mértékét, a kedvezmények, támogatások nyújtásának feltételeit és eljárási szabályait a miniszter rendeletben állapítja meg.
 
@@ -3822,6 +3828,8 @@ a rögzítéskor meghatározott szolgálati időre figyelemmel kell megállapít
 
 (34) A rendvédelmi szerv a munkaviszonyból származó jogok és kötelezettségek teljesítése érdekében munkaügyi nyilvántartást vezet. A nyilvántartás adattartalma – a kizárólag a hivatásos állomány tagja esetében releváns adatok kivételével – megegyezik a hivatásos állomány tagjai 1. melléklet szerinti személyügyi alapnyilvántartásának adataival. A munkaügyi nyilvántartásra, valamint az abból történő adatszolgáltatásra a személyügyi alapnyilvántartásra vonatkozó szabályokat kell alkalmazni azzal, hogy a rendvédelmi szerv a munkaügyi nyilvántartásban szereplő adatokat a munkaviszony megszűnését vagy megszüntetését követő tizenöt évig kezeli.
 
+(35) A munkaviszony létesítésével és megszüntetésével összefüggésben a rendvédelmi szerv jogszabályban meghatározott feltételekkel igénybe veheti, és munkavállalói számára nyújthatja a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
+
 287/D. § A rendvédelmi szervnél foglalkoztatott igazságügyi alkalmazott jogviszonyára a 6. § (4)–(9) bekezdését és a 6/A. §-t alkalmazni kell.
 
 ### XXVIII/A. Fejezet — A RENDVÉDELMI IGAZGATÁSI ALKALMAZOTTAK SZOLGÁLATI JOGVISZONYA
@@ -4129,6 +4137,8 @@ létesíthető. A határozott idejű igazgatási jogviszony időtartamát naptá
 - e)
 
 (7) Az igazgatási jogviszony a törvény erejénél fogva azon a napon szűnik meg, amikor a munkáltatói jogkört gyakorló elöljáró a törvényi feltétel beálltát megállapította.
+
+(8) Az igazgatási jogviszony létesítésével és megszüntetésével összefüggésben a rendvédelmi szerv jogszabályban meghatározott feltételekkel igénybe veheti, és a rendvédelmi alkalmazott számára nyújthatja a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
 
 288/F. § (1) A rendvédelmi alkalmazott igazgatási jogviszonya felmentéssel megszüntethető, ha
 
@@ -5849,11 +5859,7 @@ kell sorolni.
 
 360. § Az e törvény hatálybalépése előtt adományozott tanácsosi, főtanácsosi cím viselésére a hivatásos állomány tagja e törvény hatálybalépését követően is jogosult. Részére 2015. július 1-jétől a 180. § (2) bekezdésében meghatározott címpótlékot kell folyósítani.
 
-361. § (1) A 214. § (2) bekezdésében, a 269. §-ban, valamint a 270. § (1) bekezdés d) pontjában foglalt rendelkezést csak 2016. január 1-jét követően megindult fegyelmi eljárásban hozott határozat vagy 2016. január 1-jét követően benyújtott szolgálati panasz esetében kell alkalmazni.
-
-(2) A 219. és 220. § rendelkezéseit a hivatásos állomány tagjával 2015. április 1-je után közölt megalapozott gyanú esetében kell alkalmazni.
-
-(3) A Becsületbíróság névjegyzékét 2015. december 31-ig kell összeállítani, a Becsületbíróság eljárására vonatkozó szabályokat 2016. január 1-jét követően, az (1) bekezdésre figyelemmel kell alkalmazni.
+361. § A 142. § (3) bekezdésében foglaltakat a folyamatban lévő szülési szabadságok tekintetében is alkalmazni kell.
 
 362. § (1) A rendvédelmi szerv munkavállalója köteles a rendvédelmi szervnek e törvény hatálybalépését követő harminc napon belül bejelenteni, ha vele szemben a törvényben meghatározott összeférhetetlenségi ok merült fel, vagy, ha a munkaviszonya fennállása alatt összeférhetetlen helyzetbe került.
 
@@ -6115,6 +6121,18 @@ alakul át.
 - b) 30 napon belül meg kell váltani.
 
 (4) Az (1) bekezdésben meghatározott foglalkoztatott részére az (1) bekezdésben meghatározott időpontot követően a 2019. évi alap- és pótszabadság kiadható. Az érintett 2019. június 30-ig a Kttv., illetve a Kjt. szerinti 2019. évi szabadságának időarányos részére jogosult. Az érintett 2019. július 1-jétől 2019. december 31-ig az e törvény szerinti alapszabadságának és pótszabadságának időarányos részére jogosult. A 2019. évi szabadságnak a 2019. június 30-ig ki nem adott része 2019. június 30-a után is kiadható.
+
+368/A. § (1) A 284. § (1) bekezdése szerinti, a rendvédelmi szervvel ösztöndíj szerződéssel tisztjelölti jogviszonyban álló tisztjelöltek jogviszonya az egyes törvények honvédelemmel és rendvédelemmel összefüggő módosításáról szóló 2021. évi CXLI. törvénnyel (a továbbiakban: Módtv3.) megállapított XXVII. Fejezet alapján – a 2021/2022. tanévben képzésüket befejező tisztjelöltek kivételével – 2022. augusztus 1-jén átalakul a Módtv3.-mal megállapított XXVII. Fejezet szerinti rendvédelmi tisztjelölti szolgálati jogviszonnyá.
+
+(2) A tisztjelöltet legkésőbb az (1) bekezdés szerinti időpontot megelőző 120 nappal írásban kell tájékoztatni a tisztjelölti jogviszonyát érintő módosítás tartalmi elemeiről.
+
+(3) A tisztjelölt – a 2021/2022. tanévben képzésüket befejező tisztjelöltek kivételével – legkésőbb 2022. július 1-ig írásban nyilatkozik, hogy jogviszonyának átalakulásához hozzájárul-e. Ha a tisztjelölt az előírt határnapig nem nyilatkozik, úgy kell tekinteni, hogy a tisztjelölti jogviszonyának rendvédelmi tisztjelölti jogviszonnyá történő átalakulásához hozzájárult.
+
+(4) Ha a tisztjelölt a tisztjelölti jogviszonyának átalakulásához nem járul hozzá, a tisztjelölti jogviszonya és ösztöndíjszerződése 2022. július 31-ével megszűnik.
+
+(5) A Módtv3.-mal megállapított XXVII. Fejezet szerinti rendvédelmi tisztjelölti jogviszony alapján az illetmény 2022. augusztus 1. napjától illeti meg a rendvédelmi tisztjelöltet.
+
+(6) A tisztjelölti jogviszony (1) bekezdés szerinti átalakulásával összefüggésben a rendvédelmi tisztjelöltnek próbaidő nem köthető ki, egészségi, pszichikai és fizikai alkalmasságvizsgálatokat elvégezni nem kell.
 
 #### 369. §
 
@@ -6695,19 +6713,19 @@ Középfokú munkaköri osztályba tartozó munkakörökhöz tartozó munkaköri
 |  | A) | B) | C) | D) | E) |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | A fizetési fokozat szerinti illetmény alsó határa (Ft) | A fizetési fokozat szerinti illetmény felső határa (Ft) |
-| 2. | 1 | 0 | 3 | garantált bérminimum | 260 000 |
-| 3. | 2 | 4 | 7 | 220 000 | 290 000 |
-| 4. | 3 | 8 | 14 | 250 000 | 325 000 |
-| 5. | 4 | 15 | 23 | 280 000 | 360 000 |
-| 6. | 5 | 24 | 34 | 300 000 | 390 000 |
-| 7. | 6 | 35 |  | 330 000 | 420 000 |
+| 2. | 1 | 0 | 3 | garantált bérminimum | 273 000 |
+| 3. | 2 | 4 | 7 | garantált bérminimum | 305 000 |
+| 4. | 3 | 8 | 14 | garantált bérminimum | 341 000 |
+| 5. | 4 | 15 | 23 | 280 000 | 378 000 |
+| 6. | 5 | 24 | 34 | 300 000 | 410 000 |
+| 7. | 6 | 35 |  | 330 000 | 441 000 |
 
 „B” munkaköri kategória
 
 |  | A) | B) |
 | --- | --- | --- |
 | 1. | Alsó határ (Ft) | Felső határ (Ft) |
-| 2. | 350 000 | 555 000 |
+| 2. | 350 000 | 583 000 |
 
 Felsőfokú munkaköri osztályba tartozó munkaköri kategóriák fizetési fokozatai
 
@@ -6718,36 +6736,36 @@ Felsőfokú munkaköri osztályba tartozó munkaköri kategóriák fizetési fok
 |  | A) | B) | C) | D) | E) |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | A fizetési fokozat szerinti illetmény alsó határa (Ft) | A fizetési fokozat szerinti illetmény felső határa (Ft) |
-| 2. | 1 | 0 | 3 | 225 000 | 295 000 |
-| 3. | 2 | 4 | 7 | 230 000 | 325 000 |
-| 4. | 3 | 8 | 14 | 250 000 | 355 000 |
-| 5. | 4 | 15 | 23 | 275 000 | 380 000 |
-| 6. | 5 | 24 | 34 | 300 000 | 405 000 |
-| 7. | 6 | 35 |  | 325 000 | 435 000 |
+| 2. | 1 | 0 | 3 | garantált bérminimum | 310 000 |
+| 3. | 2 | 4 | 7 | garantált bérminimum | 341 000 |
+| 4. | 3 | 8 | 14 | garantált bérminimum | 373 000 |
+| 5. | 4 | 15 | 23 | 275 000 | 399 000 |
+| 6. | 5 | 24 | 34 | 300 000 | 425 000 |
+| 7. | 6 | 35 |  | 325 000 | 457 000 |
 
 „D” munkaköri kategória
 
 |  | A) | B) | C) | D) | E) |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | A fizetési fokozat szerinti illetmény alsó határa (Ft) | A fizetési fokozat szerinti illetmény felső határa (Ft) |
-| 2. | 1 | 0 | 3 | 250 000 | 360 000 |
-| 3. | 2 | 4 | 7 | 275 000 | 385 000 |
-| 4. | 3 | 8 | 14 | 300 000 | 400 000 |
-| 5. | 4 | 15 | 23 | 325 000 | 430 000 |
-| 6. | 5 | 24 | 34 | 340 000 | 460 000 |
-| 7. | 6 | 35 |  | 370 000 | 510 000 |
+| 2. | 1 | 0 | 3 | garantált bérminimum | 378 000 |
+| 3. | 2 | 4 | 7 | 275 000 | 404 000 |
+| 4. | 3 | 8 | 14 | 300 000 | 420 000 |
+| 5. | 4 | 15 | 23 | 325 000 | 452 000 |
+| 6. | 5 | 24 | 34 | 340 000 | 483 000 |
+| 7. | 6 | 35 |  | 370 000 | 536 000 |
 
 „E” munkaköri kategória
 
 |  | A) | B) | C) | D) | E) |
 | --- | --- | --- | --- | --- | --- |
 | 1. | Fizetési fokozat | Szolgálati idő (év) |  | A fizetési fokozat szerinti illetmény alsó határa (Ft) | A fizetési fokozat szerinti illetmény felső határa (Ft) |
-| 2. | 1 | 0 | 3 | 290 000 | 400 000 |
-| 3. | 2 | 4 | 7 | 320 000 | 435 000 |
-| 4. | 3 | 8 | 14 | 350 000 | 470 000 |
-| 5. | 4 | 15 | 23 | 380 000 | 500 000 |
-| 6. | 5 | 24 | 34 | 410 000 | 535 000 |
-| 7. | 6 | 35 |  | 420 000 | 570 000 |
+| 2. | 1 | 0 | 3 | 290 000 | 420 000 |
+| 3. | 2 | 4 | 7 | 320 000 | 457 000 |
+| 4. | 3 | 8 | 14 | 350 000 | 494 000 |
+| 5. | 4 | 15 | 23 | 380 000 | 525 000 |
+| 6. | 5 | 24 | 34 | 410 000 | 562 000 |
+| 7. | 6 | 35 |  | 420 000 | 599 000 |
 
 Felsőfokú tábla (felsőfokú végzettséget igénylő kiemelt munkaköri kategóriához tartozó illetmények alsó és felső határa
 
@@ -6763,9 +6781,9 @@ Vezetői munkaköri osztály
 |  | A) | B) | C) |
 | --- | --- | --- | --- |
 |  | A vezetői munkaköri kategória megnevezése | A vezetői munkaköri kategória szerinti illetmény alsó határa (Ft) | A vezetői munkaköri kategória szerinti illetmény felső határa (Ft) |
-| 1. | Főigazgató | 850 000 | 1 110 000 |
-| 2. | Igazgató, főosztályvezető | 530 000 | 885 000 |
-| 3. | Osztályvezető | 420 000 | 775 000 |
+| 1. | Főigazgató | 850 000 | 1 166 000 |
+| 2. | Igazgató, főosztályvezető | 530 000 | 929 000 |
+| 3. | Osztályvezető | 420 000 | 814 000 |
 
 ### 13. melléklet a 2015. évi XLII. törvényhez
 

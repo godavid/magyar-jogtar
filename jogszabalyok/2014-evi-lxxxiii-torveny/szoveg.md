@@ -129,6 +129,10 @@ a más kártyakibocsátó által kibocsátott elsődleges kártyát a saját kib
 
 (6) Az 1. § (3) bekezdés b) pontja szerinti kérelmező esetén a kártyafelhasználói regisztráció érvényessége az (5) bekezdés szerinti, a regisztráció alapjául szolgáló okmány érvényességének időpontjáig terjedő idő, de legfeljebb öt év.
 
+6/A. § (1) Az elektronikus ügyintézési ponton benyújtott kérelem esetén a személyazonosítást a személyiadat- és lakcímnyilvántartás szerve végzi.
+
+(2) Az (1) bekezdés szerinti kártyafelhasználói regisztrációval összefüggő feladatokat a működtető végzi.
+
 7. § (1) Az 1. § (3) bekezdés a) pontja szerinti kérelmező esetén a személyiadat- és lakcímnyilvántartás adatkezelője a kérelmező személyi adat- és lakcímnyilvántartásban kezelt természetes személyazonosító adatait, lakcímét, egységes arcképmás- és aláírás-felvételezés során rögzített arcképmását és – ha a 12. életévét betöltötte – aláírását kártyakibocsátás céljából a működtető részére átadja.
 
 (2) Amennyiben a személyiadat- és lakcímnyilvántartás a kártyafelhasználó egységes arcképmás- és aláírás-felvételezés során rögzített, egy évnél nem régebbi arcképmását és aláírását tartalmazza, a kártyafelhasználói regisztráció során az arcképmás és aláírás felvétele kérelemre mellőzhető.

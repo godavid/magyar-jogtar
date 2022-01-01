@@ -769,7 +769,7 @@ díjazásra és költségtérítésre jogosult.
 
 (2) A veszélyhelyzet ideje alatt, valamint a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 30. napig a házastársak egyike a házastársát teljes bizonyító erejű magánokiratban meghatalmazhatja a babaváró támogatásról szóló 44/2019. (III. 12.) Korm. rendelet szerinti babaváró támogatás iránti együttes igénylés mindkettejük nevében történő benyújtására, valamint minden, a kölcsönkérelem benyújtásához és a kölcsönszerződés megkötéséhez szükséges jognyilatkozat mindkét házasfél nevében való megtételére, továbbá a kölcsönszerződés megkötésére.
 
-90. § Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény szerinti Család, Esélyteremtő és Önkéntes Házakat működtető civil szervezetek kijelölésének hatálya visszavonásig, de legfeljebb 2022. március 31-éig – nyilvános pályázat kiírása nélkül – meghosszabbodik.
+90. § Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény szerinti Család, Esélyteremtő és Önkéntes Házakat működtető civil szervezetek kijelölésének hatálya visszavonásig, de legfeljebb 2022. december 31-éig – nyilvános pályázat kiírása nélkül – meghosszabbodik.
 
 #### 29. A koronavírus-világjárvány által okozott megbetegedésben elhunytak hozzátartozóinak megsegítésére létrehozott, közhasznú tevékenységet végző alapítványra vonatkozó szabályok
 
@@ -1734,7 +1734,7 @@ bármely építmény tekintetében a 2020. november 4-ét követően hatályba l
 - d)
 - e)
 - f)
-- g)
+- g) 146. §-a, 147. §-a és 150. §-a,
 - h)
 - i)
 - j)

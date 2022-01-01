@@ -45,6 +45,7 @@ Az Országgyűlés – felismerve azt, hogy az egészségügyi adatokat bizalmi 
 - c) az érintett egészségi állapotának nyomon követése,
 - d) a népegészségügyi [16. §], közegészségügyi és járványügyi érdekből szükségessé váló intézkedések megtétele,
 - e) a betegjogok érvényesítése.
+- f) az egyéni betegút követése.
 
 (2) Egészségügyi és személyazonosító adatot az (1) bekezdésben meghatározottakon túl – törvényben meghatározott esetekben – az alábbi célból lehet kezelni:
 
@@ -492,7 +493,7 @@ tartalmazza.
 
 22/E. § (1) Az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság, a szociális feladatkörében eljáró járási (fővárosi kerületi) hivatal (a továbbiakban: járási hivatal), továbbá az igazságügyi szakértő részére az egészségbiztosítási szerv abban az esetben továbbít a (3) bekezdésben meghatározott egészségügyi és személyazonosító adatokat, amennyiben arra az érintettnek járó társadalombiztosítási vagy szociális ellátásra, kedvezményre való jogosultsága egészségi állapota alapján történő megállapításához, illetve ellenőrzéséhez szükséges tevékenységének, szakértői tevékenységének ellátása céljából van szükség. Az orvosszakértői, rehabilitációs, illetve szociális szakértői szerv, rehabilitációs hatóság, a járási hivatal, az igazságügyi szakértő az egészségbiztosítási szervnél rendelkezésre nem álló, a (3) bekezdés szerinti adatok továbbítása érdekében megkeresheti a kezelőorvost. A megkeresésére és a kezelőorvos adatátadási kötelezettségére a 23. § (1) és (2) bekezdésében foglaltakat értelemszerűen alkalmazni kell.
 
-(1a) Az orvosszakértői, rehabilitációs szerv, rehabilitációs hatóság jogosult az EESZT útján hozzáférni a 4. § (2) bekezdés f) pontja szerinti célból szükséges egészségügyi adatokhoz.
+(1a) Az orvosszakértői, rehabilitációs szerv, rehabilitációs hatóság, valamint a keresőképtelenségi felülvizsgálati feladatot ellátó egészségbiztosítási szerv a 4. § (2) bekezdés f) pontja szerinti célból, törvényben meghatározott feladata ellátása során, az ehhez szükséges mértékű egészségügyi adathoz az EESZT útján is hozzáférhet.
 
 (2) Az egészségügyi és személyazonosító adatokat kizárólag az orvosszakértői, rehabilitációs, illetve szociális szakértői szervnek, rehabilitációs hatóságnak, járási hivatalnak a szakértői tevékenység elvégzésével, a szakkérdés elbírálásával megbízott dolgozója kezelheti.
 
@@ -887,11 +888,11 @@ hívja fel az érintett csatlakozott adatkezelőt.
 (2) A regiszter tartalmazza:
 
 - a) a koronavírussal fertőzött személy
-  - aa) nevét,
+  - aa)
   - ab) születési idejét,
   - ac) nemét,
   - ad) állampolgárságát,
-  - ae) társadalombiztosítási azonosító jelét, vagy egyéb, az ellátás során használt azonosítóját,
+  - ae)
   - af) a koronavírus kimutatására szolgáló mintavétel időpontját,
   - ag) a koronavírus kimutatására szolgáló mintavétel típusát,
   - ah) a mintát vevő intézmény azonosítóját,
@@ -903,7 +904,7 @@ hívja fel az érintett csatlakozott adatkezelőt.
   - bc) az ellátás időtartamát,
   - bd) ha sor került intenzív ellátásra, ennek a tényét,
   - be) a koronavírus fertőzés szövődményei megnevezését és BNO kódját,
-- c) a Covid–19 elleni védőoltásban részesült személy a) pont szerinti adatait, a Covid–19 elleni védőoltás típusát, a Covid–19 elleni védőoltásra történő regisztráció időpontját, valamint a Covid–19 elleni védőoltás beadásának időpontjait.
+- c) a Covid–19 elleni védőoltásban részesült személy a) pont szerinti adatait, a Covid–19 elleni védőoltás típusát, valamint a Covid–19 elleni védőoltás beadásának időpontjait.
 
 (3) A koronavírus fertőzési és ellátási adatokra vonatkozó adatszolgáltatás keretében
 
@@ -923,9 +924,13 @@ származó adatokat,
 
 átadja a regiszter részére.
 
+(3a) A (3) bekezdés szerinti adatszolgáltatók a (3) bekezdés szerinti adatszolgáltatás teljesítése érdekében megküldik az egészségbiztosítási szerv részére az érintett személy nevét, társadalombiztosítási azonosító jelét vagy egyéb, az ellátás során használt azonosítóját, amely adatok tekintetében az egészségbiztosítási szerv az átadáskor a Társadalombiztosítási Azonosító Jel pszeudonimizálásával kapcsolati kódot (a továbbiakban: pszeudo-TAJ) képez és az adatokat a kód képzésével egyidejűleg törli.
+
+(3b) A (3a) bekezdés szerinti adatok – az érintett kérelmére vagy hozzájárulásával – a 4. § (1) bekezdés f) pontja szerinti célból állíthatóak vissza.
+
 (4) A (3) bekezdés szerinti adatszolgáltatás teljesítése érdekében az egészségbiztosítási szerv a (3) bekezdés szerinti szervekkel megállapodást köt az adatszolgáltatás részletes technikai feltételei és struktúrája tekintetében.
 
-(5) Az azonos betegre a regiszterben tárolt koronavírus fertőzési és ezzel összefüggő ellátási adatokat a beteg személyének azonosításra alkalmas módon vonatkozó első adat regiszterbe történő felvételétől számított 10 év elteltével meg kell fosztani a személyes azonosítás lehetőségétől.
+(5) Az azonos betegre a regiszterben tárolt koronavírus-fertőzési és ezzel összefüggő ellátási adatokat a betegre vonatkozó első adat regiszterbe történő felvételétől számított 10 év elteltével meg kell fosztani a (3b) bekezdés szerinti személyes azonosítás lehetőségétől.
 
 35/R. § (1) Az egészségbiztosítási szerv a 35/Q. § (1) bekezdésében meghatározott adatkezelési cél keretei között, betegellátási érdekből, a koronavírus fertőzésből származó egészségügyi állapot nyomon követése, a fertőzés közösségi vagy egyéni kockázatainak megelőzése céljából vagy ellátásszervezési célból jogosult személy azonosításra alkalmas módon az általa jogszabály alapján kezelt, valamint a 35/Q. § (3) bekezdése szerint részére továbbított adatok összekapcsolására. Az adatok összekapcsolását az összekapcsolást megalapozó adatkezelési cél megvalósulását követően haladéktalanul meg kell szüntetni, az adatok összekapcsolásával keletkezett további adatokat a regiszterből törölni kell.
 
@@ -964,6 +969,12 @@ származó adatokat,
 - c) a (2) bekezdés alapján kapott adatokat az EESZT egészségügyi dokumentáció nyilvántartására
 
 vonatkozó rendelkezések szerint kezeli.
+
+36/B. § (1) Az egészségbiztosítási szerv a koronavírus fertőzési és ellátási adatokra vonatkozó adatszolgáltatás keretében a 35/Q. § (3) bekezdése szerinti adatszolgáltatóknál 2020. január 1. napjától keletkezett, adatszolgáltatási kötelezettség keretében a pandémia-értékelő regiszter részére átadott adatokat kezeli.
+
+(2) Az e törvény szerinti betegségregisztert vezető szerv a 2009. január 1-jét követően az egészségbiztosítási szerv adatkezelésébe került adatokat a 16. § (13) bekezdése szerinti kapcsolati kóddal kezeli.
+
+(3) Az egészségbiztosítási szerv az egyes járványügyi védekezést szolgáló pandémia-értékelő regiszterre vonatkozó részletes szabályokról szóló jogszabály alapján részére átadott, az érintett személyek nevére, társadalombiztosítási azonosító jelére, vagy egyéb, az ellátás során használt azonosítójára vonatkozó adatok tekintetében 2022. január 15-éig pszeudo-TAJ képzésével kapcsolati kódot képez és az adatokat törli.
 
 37. § (1) Az e törvényben foglalt rendelkezéseket az információs önrendelkezési jogról és az információszabadságról szóló törvénnyel együtt, azzal összhangban kell értelmezni és alkalmazni, valamint a TAJ szám kezelésére vonatkozóan az e törvényben nem szabályozott kérdésekben a személyazonosító jel helyébe lépő azonosítási módokról és azonosítási kódokról szóló 1996. évi XX. törvény rendelkezéseit kell alkalmazni.
 

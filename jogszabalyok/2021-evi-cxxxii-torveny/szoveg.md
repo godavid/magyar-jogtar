@@ -118,4 +118,4 @@ egyes állami tulajdonú vagyontárgyak ingyenes tulajdonba adásáról, valamin
 
 21. §
 
-22. §
+22. § Nem lép hatályba az egyes otthonteremtési állami feladatok karitatív szervezetek általi átvállalásáról szóló 2021. évi LXXXVI. törvény 9. §-a.
