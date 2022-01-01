@@ -102,7 +102,7 @@ azaz az emberi élet fenntartásához és minőségének, biztonságának javít
   - b) tűzifa minden felkészítési formában, illetve
   - c) faapríték;
 - 32. faanyag kereskedelmi lánc: azon folyamatok és az abban szereplők összessége, amelyek közvetlen vagy közvetett hatással vannak az e törvény hatálya alá tartozó faanyagok, termékek előállítására, felhasználására, feldolgozására, tárolásárára, szállítására, kereskedelmére, vagy forgalomba hozatalára;
-- 33. faanyag kereskedelmi lánc szereplője: a 995/2010/EU európai parlamenti és tanácsi rendelet 2. cikk c) és d) pontjában foglalt személy vagy szervezet;
+- 33. faanyag kereskedelmi lánc szereplője: azon személy vagy szervezet, aki a faanyag kereskedelmi lánchoz tartozó tevékenységet végez;
 - 34. forgalomba hozatal: a 995/2010/EU európai parlamenti és tanácsi rendelet 2. cikk b) pontjában foglalt tevékenység;
 - 35. kellő gondosság elve: a 995/2010/EU európai parlamenti és tanácsi rendelet 6. cikkében meghatározott rendszer, valamint a fát és fatermékeket piaci forgalomba bocsátó piaci szereplők kötelezettségeinek meghatározásáról szóló 995/2010 európai parlamenti és tanácsi rendelet által előírt, a kellő gondosság elvén alapuló rendszerre, valamint az ellenőrző szervezetek felett végzendő ellenőrzések gyakoriságára és jellegére vonatkozó részletes szabályokról szóló, 2012. július 6-i 607/2012/EU bizottsági végrehajtási rendeletben meghatározott eljárási kötelezettségek összessége;
 - 36. nyomon követhetőséget, származást igazoló dokumentumok: a nyomon követhetőséget és a kellő gondosság elvének való megfelelést igazoló dokumentumok;
@@ -1670,6 +1670,7 @@ kerülhet sor.
 - d) gazdálkodó szervezet esetén a cégnevét, adószámát, székhelyét, telephelyét, elérhetőségét, a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott regisztrációs számát, illetve technikai azonosító számát, bankszámlaszámát,
 - e) a természetes személy vagy gazdálkodó szervezet faanyag kereskedelmi lánchoz tartozó ténylegesen végzett tevékenységeit, azok telephelyenkénti elkülönítésével,
 - f) a faanyag kereskedelmi lánc felügyelete keretében elvégzett valamennyi ellenőrzés és vizsgálat eredményét elektronikusan olyan módon, hogy az ügyfélhez köthető legyen.
+- g) a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló törvény hatálya alá tartozó erdei biomassza, fásszárú biomassza, erdészeti és faipari maradványok előállítására, forgalmazására, feldolgozására és felhasználására vonatkozó rendeletben meghatározott adatokat.
 
 (3) Az (1) bekezdés szerinti nyilvántartás a (2) bekezdés a), e) és f) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
@@ -2167,6 +2168,14 @@ irányuló eljárásban.
 (8) Bírság kiszabására, illetve a 72. § (1a) bekezdés szerinti erdőfelújítási biztosíték nyújtásának előírására irányuló eljárásban, ha a döntésre az erdő állapotának vizsgálata és értékelése alapján kerül sor, és ezért az erdészeti hatóság a bizonyítási eljárás részeként helyszíni szemlét tart, a szemlén való részvételre az erdőgazdálkodónak vagy az őt képviselő jogosult erdészeti szakszemélyzetnek az erdészeti hatóság lehetőséget biztosít.
 
 (9)
+
+(10) A miniszter az e törvényben foglalt hatósági nyilvántartásokhoz kapcsolódóan az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben foglaltakkal összhangban hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszert (a továbbiakban: Erdészeti Szakigazgatási Információs és Ügyintézési Rendszer) működtet.
+
+(11) Ha e törvény vagy a végrehajtására kiadott jogszabály valamely eljárás lefolytatására vonatkozóan az Erdészeti Szakigazgatási Információs és Ügyintézési Rendszer használatát írja elő, akkor az eljárásban
+
+- a) az ügyfél a kérelmet elektronikus úton nyújtja be,
+- b) a hatóság és a szakhatóság az eljárást és annak eljárási cselekményeit elektronikus ügyintézés keretében folytatja le, továbbá
+- c) az ügyfél és a szakhatóság az érintett hatósági nyilvántartás számára nyilvános adataiba elektronikus úton betekinthet.
 
 ### Nyilvántartásokkal kapcsolatos szabályok
 

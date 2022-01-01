@@ -44,7 +44,7 @@ az alábbi törvényt alkotja:
 - 19. kézigyógyszertár: a háziorvos, házi gyermekorvos (a továbbiakban: háziorvos) gyógyító munkájához szükséges, a gyógyszerek meghatározott körét szolgáltató ellátási forma;
 - 20. személyes gyógyszertár működtetési jog: szakmai gyakorlattal rendelkező gyógyszerész részére, adott közforgalmú gyógyszertár vezetésére és működtetésére szóló engedély (a továbbiakban: személyi jog);
 - 21. közvetlen lakossági gyógyszerellátás: azon egészségügyi szolgáltatási tevékenységek összessége, amelyek során a gyógyszertár gyógyszerkészítési tevékenységet végez, a gyógyszert beszerzi, készletezi, kiszolgáltatja és az alkalmazásával összefüggő szakmai információt közvetlenül vagy házhoz szállítás útján közvetetten, a lakosság részére biztosítja, továbbá az interneten igényelt gyógyszerek kiszolgáltatása;
-- 22. gyógyszer házhoz szállítás: a csomagküldést ide nem értve a megrendelt gyógyszernek a megrendelő által megjelölt helyre történő eljuttatása közvetlen lakossági gyógyszerellátás keretében;
+- 22. gyógyszer házhoz szállítás: a megrendelt gyógyszernek a megrendelő által megjelölt helyre történő eljuttatása közvetlen lakossági gyógyszerellátás keretében;
 - 23. új gyógyszertár: az e törvény hatálybalépését megelőzően működési engedéllyel nem rendelkező gyógyszertár;
 - 24. támogatásvolumen-szerződés: a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 30/A. §-a szerinti szerződés;
 - 25. településrész: a településnek azon része, amely a település más lakott településrészeivel – a lakott területek földrajzi (domborzati), térbeni, építészeti elkülönültsége alapján – egybe nem tartozó lakott településrész;
@@ -1628,9 +1628,9 @@ tevékenységet folytatott, és e tevékenység megszűnésétől három év mé
 - b) a felelős vezető számára a személyi jogot engedélyezik, a személyi jogot engedélyező határozat véglegessé válása napján,
 - c) a felelős vezető neki felróható okból a gyógyszertár működtetését nem biztosítja, vagy a gyógyszertárba hatósági vezető kirendelése szükséges.
 
-(6) A gyógyszerészi oklevéllel nem rendelkező személy gyógyszer készítésénél csak gyógyszerész felügyelete és irányítása mellett segédkezhet. Gyógyszer házhoz szállítása esetén a gyógyszertár vezetője felelős a kiszolgálás szakszerűségéért és pontosságáért. Gyógyszer házhoz szállítását kizárólag a közvetlen lakossági gyógyszerellátásra jogosult vállalkozás jogszabály szerint arra jogosult szakdolgozója végezheti. Csomagküldés útján vényköteles gyógyszer nem szolgáltatható ki. Gyógyszert gyógyszertárban csak gyógyszerész vagy – az egészségügyért felelős miniszter által kiadott rendeletben meghatározott kivétellel – gyógyszertári szakasszisztens szolgáltathat ki. A gyógyszerek kiadására vonatkozó jogosultságot, valamint a gyógyszertár szaktevékenységének ellátásában részt vevő gyógyszerészi oklevéllel nem rendelkező dolgozók képesítési feltételeit miniszteri rendelet állapítja meg.
+(6) A gyógyszerészi oklevéllel nem rendelkező személy gyógyszer készítésénél csak gyógyszerész felügyelete és irányítása mellett segédkezhet. Gyógyszer házhoz szállítása esetén a gyógyszertár vezetője felelős a kiszolgálás szakszerűségéért és pontosságáért. Gyógyszer házhoz szállítását kizárólag a közvetlen lakossági gyógyszerellátásra jogosult vállalkozás jogszabály szerint arra jogosult szakdolgozója végezheti. Csomagküldés útján gyógyszer nem szolgáltatható ki. Gyógyszert gyógyszertárban csak gyógyszerész vagy – az egészségügyért felelős miniszter által kiadott rendeletben meghatározott kivétellel – gyógyszertári szakasszisztens szolgáltathat ki. A gyógyszerek kiadására vonatkozó jogosultságot, valamint a gyógyszertár szaktevékenységének ellátásában részt vevő gyógyszerészi oklevéllel nem rendelkező dolgozók képesítési feltételeit miniszteri rendelet állapítja meg.
 
-(6a) A (6) bekezdés szerinti, csomagküldés útján kiszolgáltatott vény nélkül kapható gyógyszer csomagküldés során bekövetkezett minőségi hibájáért a kiszolgáltató gyógyszertár működtetője felel.
+(6a)
 
 ### A gyógyszertárak állami felügyelete
 
@@ -1758,7 +1758,7 @@ a gyógyszertárat működtető vállalkozásban meghaladja az 50%-ot.
 
 (8) Ha a közforgalmú gyógyszertárat működtető gazdasági társaság jogutód nélküli megszűnésére arra tekintettel kerülne sor, hogy tagjainak száma egy főre csökken, és az ettől számított hat hónapos jogvesztő határidőn belül a gazdasági társaság nem jelenti be a nyilvántartó hatóságnál újabb tagnak a társaságba való belépését, a gazdasági társaságban egyedüli tagként maradt közforgalmú gyógyszertár működtetésére személyi joggal rendelkező gyógyszerész – a működési engedély módosításával – jogosult egyéni vállalkozóként a gyógyszertárat továbbműködtetni.
 
-74/A. §
+74/A. § Magánszemély helyett és nevében eljárva, üzletszerűen végzett bevásárlói és kiszállítói szolgáltató tevékenység keretében gyógyszerkiszállítás nem végezhető.
 
 74/B. §
 

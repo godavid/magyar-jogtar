@@ -401,7 +401,7 @@ vonatkozó szabályokat rendeletben állapítsa meg.
 - d)
 - e) az e törvény alapján nyújtott ellátás igénylésével, megállapításával, folyósításával és ellenőrzésével, valamint az igényelbíráló szervek adatkezelésével kapcsolatos részletes szabályokat.
 
-(2) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy a közszolgáltatások igénybevételének és a személyi segítés feltételeinek biztosítása érdekében rendeletben állapítsa meg a fogyatékos személyt az egyenlő esélyű hozzáféréshez fűződő joga gyakorlásában és önálló életvitelében segítő kutya kiképzésének, vizsgáztatásának és alkalmazhatóságának szabályait.
+(2) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy a közszolgáltatások igénybevételének és a személyi segítés feltételeinek biztosítása érdekében rendeletben állapítsa meg a fogyatékos személyt az egyenlő esélyű hozzáféréshez fűződő joga gyakorlásában és önálló életvitelében segítő kutya kiképzésének, vizsgáztatásának és alkalmazhatóságának szabályait, valamint segítő kutya kiképzését végző személyek képzésének szakmai és vizsgakövetelményeire vonatkozó szabályokat.
 
 ### Az Európai Unió jogának való megfelelés
 

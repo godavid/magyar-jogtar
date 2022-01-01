@@ -107,7 +107,7 @@ kiskereskedelmi értékesítésére.
 - h) létrehozza és folyamatosan működteti a dohányipari ágazati konzultációs fórumot,
 - i) a dohánytermék-nagykereskedők, a dohánytermék-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó közötti vitás kérdések rendezésére vonatkozóan mediációs tevékenységet lát el,
 - j) jogszabályban meghatározottak szerint fogadja a dohányboltban forgalmazható termékek regisztrációs adatait, és ezeket a dohány-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó részére publikálja; készletnyilvántartó minősítési rendszert működtet, a dohánytermék-kiskereskedők készlet- és forgalmi adatait kezeli, feldolgozza,
-- k) a Jöt. alapján a dohánytermékek árainak közzététele érdekében jogszabályban meghatározottak szerint a szolgáltatott árbejelentéseket rendszerezi, feldolgozza és továbbítja, és
+- k) a dohánytermékek árainak közzététele érdekében jogszabályban meghatározottak szerint a szolgáltatott árbejelentéseket rendszerezi, feldolgozza és honlapján közzéteszi, és
 - l) a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személyek kötelezettségeit ellenőrzi.
 
 (4)
@@ -511,6 +511,8 @@ fogadhatja el.
 
 23/A. § Ha a dohánytermék-nagykereskedő a dohány-kiskereskedelmi ellátó felé az e törvény által előírt – így különösen a dohánytermékek kiszolgálására vonatkozó – kötelezettségének nem tesz eleget, vagy a dohánytermék-kiskereskedőnek e törvénytől eltérően közvetlenül dohányterméket értékesít, úgy őt a Hatóság az Fgytv. 47/C. §-ában meghatározott mértékű bírsággal sújtja. Ha a dohánytermék-kiskereskedő a dohányterméket nem az e törvényben előírt módon szerzi be, úgy őt a Hatóság 5 milliótól 500 millió forintig terjedő bírsággal sújtja.
 
+23/B. § A Hatóság a 17. § (1) bekezdése szerinti céljával összefüggésben a dohánytermék-kiskereskedelmi piac folyamatos és teljes körű hatósági felügyeletéhez a 10. § (1) bekezdés alapján kijelölt személyek listáját, illetve a Hatóság elnökének rendeletében meghatározott – személyes adatnak nem minősülő – további adatokat a Hatóság elnökének rendeletében meghatározott módon és rendszerességgel továbbítja az állami adó- és vámhatóság részére.
+
 ### V. Fejezet — HATÁLYBA LÉPTETŐ ÉS ÁTMENETI RENDELKEZÉSEK
 
 24. § (1) E törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 15. napon lép hatályba.
@@ -562,7 +564,7 @@ fogadhatja el.
 - a) az e törvényben nem szabályozott, a dohánytermék-kiskereskedelmi tevékenység biztonságos, szakszerű lebonyolításához szükséges személyi, tárgyi és gazdasági feltételeket,
 - b) a dohánytermék-kiskereskedők által a nyilvántartások vezetésére és a dohányboltban forgalmazott egyes jövedéki termékekre vonatkozó adatszolgáltatási kötelezettség teljesítésére irányadó részletes szabályokat,
 - c) az új dohánytermék-kategóriák, valamint az 1. § (1) bekezdés d)–h) pontjában meghatározott termékek forgalmazására, illetve e termékek bemutatására és ismertetésére vonatkozó különös szabályokat,
-- d) a dohánygyártmányok árának bejelentésére és az állami adó- és vámhatóság honlapján történő közzétételére, valamint az ezekkel összefüggő eljárási szabályokra vonatkozó részletes rendelkezéseket,
+- d)
 - e) a koncessziós szerződés módosítására vonatkozó eljárási szabályokat a dohányboltok nyitvatartási ideje tekintetében
 - f) a 4. § (2) bekezdésében, a 10. § (1) és (4) bekezdésében, a 10/B. § (5) bekezdésében, a 13. § (14) bekezdésében, a 16/B. §-ban, a 22. § (2) bekezdésében, a 24/A. §-ban valamint a 24/B. § (2) bekezdésében meghatározott feladatok ellátására köteles minisztert vagy központi kormányzati igazgatási szervet
 - g) a 24/H. § szerinti kompenzáció igénylésére, elbírálására és kifizetésére irányuló eljárás részletes szabályait,
@@ -616,6 +618,7 @@ a dohánytermék-kiskereskedő a dohányterméket a 2015. október 31-én hatál
 - c) a dohánytermék-kiskereskedelem engedélyezésével, a dohánytermék-kiskereskedelmi tevékenység végzésére jogsító engedéllyel rendelkező személyek közhiteles nyilvántartására,
 - d) a dohánytermék-kiskereskedelem hatósági felügyeletére és a fiatalkorúak különös védelmével kapcsolatos rendelkezések végrehajtásának ellenőrzésére, és
 - e) a dohánytermék-nagykereskedő e törvény szerinti kötelezettségeinek ellenőrzésére
+- f) a dohánytermék-kiskereskedelmi tevékenységet folytatók nyilvántartás-vezetési és adatszolgáltatási kötelezettségére, a dohánytermékek árbejelentésére és árközzétételére, az állami adó- és vámhatóság részére szolgáltatandó – személyes adatnak nem minősülő – adatok körére, az adatszolgáltatás módjára és rendszerességére
 
 vonatkozó részletes szabályokat rendeletben megállapítsa.
 

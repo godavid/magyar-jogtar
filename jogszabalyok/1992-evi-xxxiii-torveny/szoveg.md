@@ -256,7 +256,7 @@ a helyben szokásos módon köteles közzétenni. Végrehajtási jogszabály hiv
 
 (8) Az üres munkakör betöltésére irányuló pályázati eljárás esetén – a pályázati feltételeknek egyformán megfelelő pályázók közül – előnyben kell részesíteni az önkéntes tartalékos szolgálati viszonyban állókat.
 
-(9)
+(9) A közalkalmazotti jogviszony létesítésével és megszüntetésével összefüggésben a munkáltató jogszabályban meghatározott feltételekkel igénybe veheti, és foglalkoztatottjai számára nyújthatja a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
 
 20/B. § (1) A magasabb vezető és a vezető beosztás ellátására szóló megbízásra a 20/A. § (1) és (3)–(8) bekezdései alkalmazásával pályázatot kell kiírni. A pályázatot a megbízási jogkör gyakorlója írja ki.
 

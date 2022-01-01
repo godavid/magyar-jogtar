@@ -30,7 +30,7 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 3. § E törvény alkalmazása során
 
 - a) szerv: a jogi személy és a jogi személyiséggel nem rendelkező szervezet;
-- b) közfeladatot ellátó szerv: az állami és önkormányzati közfeladat-kataszterről szóló kormányrendeletben meghatározott közfeladat-kataszter adatbázisában szereplő közfeladatot ellátó, továbbá a nemzeti vagyonnal gazdálkodó vagy azzal rendelkező szerv vagy személy, valamint a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklet I. pontjában meghatározott vagy többségi állami vagy önkormányzati tulajdonban lévő gazdasági társaság;
+- b) közfeladatot ellátó szerv: a feladatellátás idejétől és helyétől függetlenül az állami vagy önkormányzati feladatot ellátó szerv vagy személy, továbbá a közhatalmat gyakorló, illetve a nemzeti vagyonnal gazdálkodó vagy azzal rendelkező szerv vagy személy, valamint a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklet I. pontjában meghatározott, illetve többségi állami vagy önkormányzati tulajdonban lévő gazdasági társaság;
 - c) irat: valamely szerv működése vagy személy tevékenysége során keletkezett vagy hozzá érkezett, bármely jelrendszerrel és adathordozón rögzített, egy egységként kezelendő rögzített információ, adategyüttes;
 - d) közirat: a keletkezés idejétől és az őrzés helyétől függetlenül minden olyan irat, amely a közfeladatot ellátó szerv irattári anyagába tartozik vagy tartozott;
 - e) magánirat: a köziratnak nem minősülő irat;
@@ -45,9 +45,9 @@ Az Országgyűlés a történelmi múlt megismerésének elsődleges forrásául
 - n) nyilvános magánlevéltár: a természetes személy, valamint a nem közfeladatot ellátó szerv tulajdonában vagy birtokában lévő maradandó értékű iratok tartós megőrzésére létesített olyan intézmény, amely megfelel a 30. § (2) bekezdésében foglalt követelményeknek;
 - o) levéltári kutatás: a levéltári anyag tanulmányozása, abból adatok kigyűjtése tudományos vagy más cél érdekében;
 - p) gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
-- r) közlevéltár illetékessége (illetékességi köre): a maradandó értékű irattári anyagnak az a köre, amelyre vonatkozóan törvény közlevéltárba adási kötelezettséget ír elő, s amelyet az adott közlevéltár törvény rendelkezése, illetve fenntartójának döntése alapján köteles átvenni;
+- r) illetékes közlevéltár: a közfeladatot ellátó szerv vagy közirat vonatkozásában a közlevéltári illetékességből fakadó feladatokat e törvény előírásai szerint ellátó levéltár;
 - s) levéltári gyűjtőkör: a maradandó értékű, köziratnak nem minősülő irattári anyagnak, ha arra vonatkozóan törvény közlevéltárba adási, illetve a levéltárfenntartó levéltárba adási kötelezettséget nem ír elő, továbbá a természetes személyek maradandó értékű iratainak az a köre, amelyet az adott levéltár az őrizetében lévő levéltári anyag forrásértékének gazdagítása céljából gyűjt (ajándékként elfogad vagy megvásárol);
-- t) önkormányzati hivatal: a főpolgármesteri hivatal, a polgármesteri hivatal, a megyei önkormányzati hivatal, a közös önkormányzati hivatal, a társult képviselő-testületek közös hivatala és a nemzetiségi önkormányzat hivatala;
+- t) metaadat: az iratkezelési folyamat során kezelt és nyilvántartott iratot leíró adat;
 - u) iratkezelési szoftver: az iratkezelés folyamatát támogató, jogszabályban meghatározott módon tanúsított informatikai alkalmazás, amely alapfunkcióját tekintve a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló kormányrendeletben foglalt iratkezelési műveleteket vagy azok egy részének végrehajtását támogatja, és emellett egyéb funkciókat is elláthat;
 - v) mintavétel: a levéltár által kezdeményezett eljárás olyan selejtezendő iratok levéltári átvétele érdekében, amelyeknél az irattári tétel egészének levéltárba adása nem indokolt, de egyes ügyiratok maradandó értékű iratként történő kiemelése és levéltárba adása a levéltári érdek érvényesítése céljából szükséges;
 - w) ügyviteli értékű irat: természetes vagy jogi személyek részére a feladataik folyamatos ellátásához, jogszabályból adódó kötelezettség teljesítéséhez, az állampolgári jogok érvényesítéséhez, jogok biztosításához, létfontosságú személyes érdek vagy jogos érdek érvényesítéséhez szükséges adatot tartalmazó irat;
@@ -78,7 +78,7 @@ kivéve, ha a közirat jogszerűen más szerv vagy személy tulajdonába került
 
 (2) A megrongálás, az egyéb módon történő használhatatlanná tétel, továbbá a megsemmisítés tilalma a nyilvános magánlevéltárban őrzött levéltári anyagra és a védetté nyilvánított maradandó értékű magániratra is kiterjed.
 
-(3) Az (1) bekezdésben meghatározott elidegenítési tilalom nem zárja ki a közlevéltárban őrzött, köziratnak nem minősülő levéltári anyagnak levéltár, múzeum, könyvtár részére csereszerződés útján történő elidegenítését. A csereszerződés megkötéséhez, valamint a nyilvános magánlevéltárban őrzött magánirat elidegenítéséhez a kultúráért felelős miniszternek engedélye szükséges. A védetté nyilvánított magánirat elidegenítésekor a kulturális örökség védelméről szóló törvényben foglaltak szerint kell eljárni.
+(3) Az (1) bekezdésben meghatározott elidegenítési tilalom nem zárja ki a közlevéltárban őrzött, köziratnak nem minősülő levéltári anyagnak levéltár, muzeális intézmény, könyvtár részére csereszerződés útján történő elidegenítését. A csereszerződés megkötéséhez, valamint a nyilvános magánlevéltárban őrzött magánirat elidegenítéséhez a kultúráért felelős miniszternek engedélye szükséges. A védetté nyilvánított magánirat elidegenítésekor a kulturális örökség védelméről szóló törvényben foglaltak szerint kell eljárni.
 
 (3a) Az 1957. január 1-je előtt keletkezett, elszármazott közirat – az elmúlt rendszer titkosszolgálati tevékenységének feltárásáról és az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szóló törvény hatálya alá tartozó közirat kivételével – az e törvényben foglalt rendelkezések figyelembevételével elidegeníthető.
 
@@ -200,13 +200,15 @@ azzal, hogy a visszaszolgáltatást megelőzően az iratról a Hatóság elektro
 
 9. § (1) A közfeladatot ellátó szerv köteles
 
-- a) a hozzá érkezett és az általa készített iratokat az érkezés, illetve a keletkezés időpontjában nyilvántartásba venni;
+- a) a hozzá érkezett és az általa készített, a szerv működése vagy feladatköre szempontjából érdemi adatot tartalmazó iratokat az érkezés, illetve a keletkezés időpontjában nyilvántartásba venni;
 - b) a nyilvántartást és az ahhoz kapcsolódó — az irattári anyag áttekinthetőségét szolgáló — ügyviteli segédleteket levéltári célra is használható módon vezetni;
 - c) az ügyintézés során az ügyviteli értékű és ennek megszűnésével selejtezhető, valamint a maradandó értékű és ezért nem selejtezhető iratokat az irattári terv megfelelő tételébe besorolni, a tétel jelét az iraton feltüntetni és azt a nyilvántartásba bejegyezni;
 - d) a nála keletkező, nem selejtezhető iratok készítésekor azok tartós megőrzését lehetővé tevő eszközöket, anyagokat és eljárásokat alkalmazni;
 - e) az elintézett ügyek iratait — az irattári terv szerinti rendszerezés és válogatás pontosságának ellenőrzése mellett — irattárában elhelyezni, s irattári anyagának szakszerű és biztonságos megőrzéséről, valamint használatra bocsátásáról gondoskodni;
-- f) irattári anyagának selejtezhető részét az irattári tervben megjelölt irattári őrzési idő letelte, illetve ügyviteli értékének megszűnése után, a szerv nem selejtezhető iratainak átvételére jogosult közlevéltár (a továbbiakban: illetékes közlevéltár) engedélyével kiselejtezni;
+- f) irattári anyagának selejtezhető részét az irattári tervben megjelölt irattári őrzési idő letelte, illetve ügyviteli értékének megszűnése után az illetékes közlevéltár engedélyével kiselejtezni;
 - g) a nem selejtezhető irattári tételekbe tartozó, valamint a mintavétel során maradandó értékűnek minősített iratokat a kapcsolódó nyilvántartásokkal és segédletekkel együtt, olvasható formában, a 12. §-ban előírtak szerint az illetékes közlevéltárnak saját költségén átadni.
+- h) a köziratokról vezetett nyilvántartásban metaadatként rögzíteni az irat beazonosításához szükséges adatokat – ideértve az irat beküldőjének vagy címzettjének nevét, címét, elérhetőségét –, valamint az irat tárgyának meghatározásához elengedhetetlen személyes adatokat;
+- i) a köziratokról vezetett nyilvántartásban rögzített metaadatokat a nyilvántartásnak az illetékes közlevéltár részére történő átadásáig vagy a nyilvántartás egészének selejtezéséig épségben megőrizni.
 
 (2) Elektronikus iratkezelés esetén a közfeladatot ellátó szerv kizárólag olyan iratkezelési szoftvert alkalmazhat, amely a külön jogszabályban meghatározott követelményeknek megfelel és – az (5) bekezdésben meghatározott kivétellel – tanúsítvánnyal rendelkezik.
 
@@ -241,7 +243,7 @@ eltelt.
 
 - a) a közfeladatot ellátó szerv az illetékes közlevéltárral egyetértésben,
 - b) a központi államigazgatási szerv a Magyar Nemzeti Levéltárral, az illetékes szaklevéltárral és a köziratok kezelésének szakmai irányításáért felelős miniszterrel egyetértésben,
-- c) az önkormányzati hivatal számára a jegyző (főjegyző) a Magyar Nemzeti Levéltárral, a 18. § (2) bekezdésében meghatározott esetekben Budapest Főváros Önkormányzata által fenntartott levéltárral és a Kormány általános hatáskörű területi államigazgatási szervével egyetértésben.
+- c) a Főpolgármesteri Hivatal, a polgármesteri hivatal, a megyei önkormányzati hivatal, a közös önkormányzati hivatal, a társult képviselő-testületek közös hivatala és a nemzetiségi önkormányzat hivatala (a továbbiakban együtt: önkormányzati hivatal) számára a jegyző (főjegyző) a Magyar Nemzeti Levéltárral, a 18. §-ban meghatározott esetekben a Budapest Főváros Önkormányzata által fenntartott levéltárral és a Kormány általános hatáskörű területi államigazgatási szervével egyetértésben.
 
 (2) Egységes iratkezelési szabályzatot ad ki:
 
@@ -273,11 +275,25 @@ eltelt.
 
 - a) az iratkezelői és az irattári helyiségbe beléphet, az iratokba — a minősített adatot tartalmazó iratok kivételével — és az iratkezelési nyilvántartásokba betekinthet, az iratkezelési tevékenységet folyamatában vizsgálhatja;
 - b) iratkezelési kérdésekben szaktanácsot ad, a nem selejtezhető iratok épségben és használható állapotban történő megőrzését súlyosan veszélyeztető hibákat és hiányosságokat jegyzőkönyvbe foglalja, megszüntetésükre vonatkozóan határidőt állapít meg;
-- c)
+- c) ha a közfeladatot ellátó szerv a b) pont alapján szükséges intézkedéseket határidőben nem teszi meg, az illetékes közlevéltár 15 napon belül a köziratok védelmére irányuló hatósági eljárást kezdeményez.
+
+### Köziratok védelmére irányuló hatósági eljárás
+
+11/A. § (1) A 11. § c) pontja alapján az illetékes közlevéltár, a szerv iratkezelésének felügyeletére vagy ellenőrzésére jogosult egyéb szerv, szervezet vagy személy, illetve a köziratok kezelésének szakmai irányításáért felelős miniszter a közfeladatot ellátó szerv irattári anyagának szabályszerű megőrzését súlyosan veszélyeztető körülmény fennállása esetén 15 napon belül kezdeményezi a köziratok védelmére irányuló hatósági eljárás (e § alkalmazásában a továbbiakban: eljárás) hivatalból történő lefolytatását.
+
+(2) Az eljárásra a Magyar Nemzeti Levéltár (e § alkalmazásában a továbbiakban: Hatóság) rendelkezik hatáskörrel.
+
+(3) Ha az eljárás során a Hatóság megállapítja a közfeladatot ellátó szerv irattári anyaga szabályszerű megőrzése súlyos veszélyeztetésének tényét, – az (5) bekezdésben foglaltak kivételével – figyelmeztetést tartalmazó döntésében felhívja a közfeladatot ellátó szerv figyelmét a jogszabálysértésre, és megfelelő határidő megállapításával, valamint a jogkövetkezményekre történő figyelmeztetéssel kötelezi a veszélyeztetés megszüntetésére.
+
+(4) Ha a közfeladatot ellátó szerv határidőben nem gondoskodik az irattári anyag szabályszerű megőrzését súlyosan veszélyeztető hibák és hiányosságok megszüntetéséről, a Hatóság kötelezi a szervet az irattári anyagának a szerv költségére a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló kormányrendelet szerint kijelölt központi szolgáltatónál (a továbbiakban: központi szolgáltató) történő elhelyezésére.
+
+(5) A Hatóság határidő kitűzése nélkül kötelezheti a szervet irattári anyagának vagy annak meghatározott részének a közfeladatot ellátó szerv költségére a központi szolgáltatónál történő elhelyezésére, ha a köziratok megőrzése csak azonnali intézkedéssel biztosítható.
+
+(6) Ha az (5) bekezdésben foglaltakat követően a közfeladatot ellátó szerv az irattári anyag szabályszerű megőrzését súlyosan veszélyeztető hibákat és hiányosságokat megszünteti, kérelmére a Hatóság engedélyezi az irattári anyaga visszaadását és annak iratkezelését.
 
 ### A köziratok levéltárba adása
 
-12. § (1) A nem selejtezhető köziratok teljes és lezárt évfolyamait — a (4) és (5) bekezdésben meghatározott kivétellel — a keletkezés naptári évétől számított tizenötödik év végéig kell az illetékes közlevéltárnak átadni.
+12. § (1) A nem selejtezhető köziratok teljes és lezárt évfolyamait — a (2)–(8) bekezdésben meghatározott kivétellel — a keletkezés naptári évétől számított tizenötödik év végéig kell az illetékes közlevéltárnak átadni.
 
 (2) A nem selejtezhető köziratok átadásának-átvételének időpontjáról az átadó szerv és az illetékes közlevéltár közösen állapodik meg.
 
@@ -291,7 +307,7 @@ eltelt.
 
 (7) A közfeladatot ellátó szerv azoknak a nem selejtezhető iratoknak a használatát, amelyek a 22. § (1) bekezdésében meghatározott kutatási korlátozási idő eltelte után is az őrizetében vannak, a közlevéltárban lévő anyagra vonatkozó szabályok szerint köteles biztosítani.
 
-(8) Az elektronikus formában megőrzött maradandó értékű iratokat jogszabályban meghatározott követelményeknek megfelelően kell átadni az illetékes levéltárnak.
+(8) Az elektronikus formában megőrzött maradandó értékű iratokat jogszabályban meghatározott követelményeknek megfelelően kell átadni az illetékes közlevéltárnak.
 
 ### III. Fejezet — A KÖZLEVÉLTÁR
 
@@ -303,11 +319,12 @@ eltelt.
 - b) jogszabály alapján átveszi, gyűjti, valamint ingyenes letétként megőrzi a maradandó értékű magániratot;
 - c) az átvett és a gyűjtött levéltári anyagot nyilvántartja, szakszerűen kezeli, biztonságosan megőrzi, és az őrizetében lévő levéltári anyagot — annak szükség szerinti átselejtezésével, rendezésével, valamint a tudományos igényű áttekintést biztosító segédletek készítése és közzététele útján — feldolgozza, s az anyag használatát lehetővé teszi;
 - d) az őrizetében lévő levéltári anyagról hiteles másolatot vagy tartalmi kivonatot ad ki;
-- e) a levéltári anyag védelme érdekében ellenőrzi a közfeladatot ellátó szervek, valamint a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklet I. pontjában meghatározott gazdasági társaságok irattári selejtezését és iratkezelésének rendjét;
+- e) ellenőrzi az illetékességébe tartozó közfeladatot ellátó szervek iratkezelését, a közfeladatot ellátó szerv maradandó értékű köziratai megfelelő szintű védelmének megvalósulását;
 - f) megrongált vagy pusztulásnak indult levéltári anyagának konzerválásáról és restaurálásáról gondoskodik, ezekről és a különösen jelentős levéltári anyagáról biztonsági másolatot készít vagy készíttet, és annak egy példányát – ha jogszabály másként nem rendelkezik – a Magyar Nemzeti Levéltárnak átadja;
 - g) levéltár- és történettudományi kutatásokat végez a levéltári munka fejlesztése és a levéltári anyag felhasználásának elősegítése céljából, s közzéteszi a kutatás eredményeit, illetve a tudományos munkamegosztás keretében részt vállal az általa őrzött iratanyag publikálásában;
 - h) a levéltári anyag oktatási, közművelődési célú felhasználását, valamint a levéltári tevékenység megismertetését kiadványokkal és egyéb módon elősegíti;
 - i) a maradandó értékű magániratok kiválogatására, szakszerű kezelésére vonatkozóan szaktanácsot adhat, a maradandó értékű magániratok védetté nyilvánításában közreműködik.
+- j) az őrizetében lévő levéltári anyag használatának elősegítése érdekében – digitalizálási terv alapján – gondoskodik kutatási célú digitális másolatok készítéséről és használatba adásáról.
 
 13/A. § (1) A közlevéltár segítségnyújtás keretében átmeneti tárolást biztosíthat más közlevéltár, nyilvános magánlevéltár vagy más maradandó értékű iratokat őrző intézmény számára a veszélyeztetett maradandó értékű iratanyag megőrzése érdekében, az annak épségére jelentős kockázatot jelentő körülmények kialakulása esetén. A segítségnyújtást a közlevéltár szabad raktári kapacitásai függvényében biztosítja, amennyiben saját levéltári anyagát ezzel nem veszélyezteti.
 
@@ -315,9 +332,9 @@ eltelt.
 
 ### A közlevéltárak és illetékességük, valamint gyűjtőkörük
 
-14. § (1) A közlevéltár az általános levéltár, az állami szaklevéltár, a felsőoktatási levéltár, továbbá települési önkormányzat, köztestület, közalapítvány vagy jogszabályban meghatározott egyéb közfeladatot ellátó szerv levéltára.
+14. § (1) A közlevéltár az általános levéltár, az állami szaklevéltár, a felsőoktatási levéltár, továbbá települési önkormányzat vagy nemzetiségi önkormányzat, köztestület, közalapítvány vagy jogszabályban meghatározott egyéb közfeladatot ellátó szerv levéltára.
 
-(2) A közlevéltár illetékességét a köziratokat illetően e törvény határozza meg.
+(2) A közlevéltár az e törvényben meghatározottak szerint az illetékességi körébe tartozó közfeladatot ellátó szerv esetében ellátja iratkezelésének ellenőrzését, jóváhagyja iratkezelési szabályzatát és iratselejtezését, meghatározza a szerv maradandó értékűnek minősülő iratainak körét, valamint jogosult és kötelezett irattári anyaga maradandó értékű iratainak átvételére.
 
 (3) A közlevéltár gyűjtőköre minden olyan, a 3. § s) pontjában meghatározott maradandó értékű magániratra kiterjed, amely a közlevéltár őrizetében lévő levéltári anyaghoz illeszkedik, annak forrásértékét gazdagítja.
 
@@ -338,7 +355,7 @@ eltelt.
 
 - a) a Magyar Nemzeti Levéltár esetében a kultúráért felelős miniszter,
 - b) a Budapest Főváros Önkormányzata által fenntartott levéltár esetében a kultúráért felelős miniszter egyetértésével a fenntartó,
-- c) az állami szaklevéltár, a települési önkormányzat, a köztestület, a közalapítvány és az egyéb közfeladatot ellátó szerv levéltára esetében a kultúráért felelős miniszter véleményének kikérésével a fenntartó nevezi ki és menti fel.
+- c) az állami szaklevéltár, a felsőoktatási levéltár, a települési önkormányzat vagy a nemzetiségi önkormányzat,, a köztestület, a közalapítvány és az egyéb közfeladatot ellátó szerv levéltára esetében a kultúráért felelős miniszter véleményének kikérésével a fenntartó nevezi ki és menti fel.
 
 (4) A Budapest Főváros Önkormányzata által fenntartott levéltár alapító okiratának, szervezeti és működési szabályzatának elfogadásához és módosításához a kultúráért felelős miniszter előzetes egyetértése szükséges.
 
@@ -353,7 +370,7 @@ során a kultúráért felelős miniszter véleményezési jogot gyakorol.
 
 ### Általános levéltárak
 
-16. § (1) A levéltárral nem rendelkező közfeladatot ellátó szervek levéltári anyaga az általános levéltárak illetékességi körébe tartozik. Általános levéltárat törvény létesíthet, illetve szüntethet meg, a megszűnő levéltár anyagának átvételére illetékes közlevéltár megnevezésével.
+16. § (1) Az e törvényben meghatározottak szerint más közlevéltár illetékességébe nem tartozó közfeladatot ellátó szervek, illetve azok irattári anyaga az általános levéltárak illetékességi körébe tartozik. Általános levéltárat törvény létesíthet, illetve szüntethet meg, a megszűnő levéltár anyagának átvételére illetékes közlevéltár megnevezésével.
 
 (2) Általános levéltár a Magyar Nemzeti Levéltár és a Budapest Főváros Önkormányzata által fenntartott levéltár.
 
@@ -363,16 +380,16 @@ során a kultúráért felelős miniszter véleményezési jogot gyakorol.
 - b) a Magyar Nemzeti Levéltár költségvetésén belül az egyes tagintézmények szakmai feladatainak figyelembevételével meghatározott éves elkülönített költségvetési kerettel működik,
 - c) vezetőjét (igazgatóját) a Magyar Nemzeti Levéltár főigazgatója nevezi ki a kultúráért felelős miniszter egyetértésével.
 
-(1a) A Magyar Nemzeti Levéltár illetékességébe tartozik – a 18. § (2) bekezdésében és 19. § (2) bekezdésében meghatározott kivétellel –
+(1a) A Magyar Nemzeti Levéltár illetékességébe tartozik – a 18. §-ban és a 19. § (2) bekezdésében meghatározott kivétellel –
 
-- a) a köztársasági elnök és Hivatala, az Országgyűlés és Hivatala, az Alapvető Jogok Biztosának Hivatala, az Alkotmánybíróság és Hivatala, a Kúria, a Legfőbb Ügyészség, az Állami Számvevőszék, a Magyar Nemzeti Bank,
+- a) a köztársasági elnök és a Köztársasági Elnöki Hivatal, az Országgyűlés és az Országgyűlés Hivatala, az Alapvető Jogok Biztosa és az Alapvető Jogok Biztosának Hivatala, az Alkotmánybíróság és az Alkotmánybíróság Hivatala, a Kúria, az Országos Bírósági Hivatal, a Legfőbb Ügyészség, az Állami Számvevőszék, a Magyar Nemzeti Bank,
 - b) a miniszterelnök és a központi államigazgatási szerv,
 - c) a központi államigazgatási szerv területi szervei és a rendvédelmi szerv,
-- d) a levéltárral nem rendelkező országos köztestület és közalapítvány,
-- e) a helyi önkormányzat és a nemzetiségi önkormányzat testülete, hivatala és intézménye, továbbá
+- d) illetékes közlevéltárral nem rendelkező országos köztestület és közalapítvány,
+- e) illetékes közlevéltárral nem rendelkező helyi önkormányzat és nemzetiségi önkormányzat testülete, hivatala és intézménye, továbbá
 - f) az a)–e) pontban meghatározott szervek jogelőd szervei
 
-levéltári anyaga, valamint minden olyan levéltári anyag, amely nem tartozik más levéltár illetékességi körébe.
+iratkezelése, iratai, valamint minden olyan közfeladatot ellátó szerv iratkezelése és minden olyan közirat, amely nem tartozik más közlevéltár illetékességi körébe.
 
 (2) A Magyar Nemzeti Levéltár a 13. §-ban meghatározott feladatokon kívül
 
@@ -396,16 +413,16 @@ levéltári anyaga, valamint minden olyan levéltári anyag, amely nem tartozik 
 
 19. § (1) Állami szaklevéltár a Hadtörténelmi Levéltár, a Földügyi és Távérzékelési Levéltár, a Környezetvédelmi és Vízügyi Levéltár, az Állambiztonsági Szolgálatok Történeti Levéltára, a VERITAS Történetkutató Intézet és Levéltár, valamint az állam által fenntartott tudományos, kulturális vagy egészségügyi szolgáltatást végző intézmény levéltára.
 
-(2) A szaklevéltár illetékességi köre – az Állambiztonsági Szolgálatok Történeti Levéltára és a VERITAS Történetkutató Intézet és Levéltár kivételével –
+(2) A szaklevéltár illetékessége – az Állambiztonsági Szolgálatok Történeti Levéltára és a VERITAS Történetkutató Intézet és Levéltár kivételével –
 
 - a) a Hadtörténelmi Levéltár esetében a honvédelemért felelős miniszter, valamint – a Katonai Nemzetbiztonsági Szolgálat nemzetbiztonsági vonatkozású iratai kivételével – a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 13. pontja szerinti honvédelmi szervezet,
 - b) a Földügyi és Távérzékelési Levéltár esetében a térképészetért felelős miniszter felügyelete alá tartozó ingatlanügyi hatóságok és a kataszteri program megvalósításáért felelős szerv állami alapadatok előállításával kapcsolatos,
 - c) a Környezetvédelmi és Vízügyi Levéltár esetében a környezetvédelemért felelős miniszter és a vízgazdálkodásért felelős miniszter felügyelete alá tartozó szervek,
 - d) a tudományos, kulturális vagy egészségügyi szolgáltatást végző intézmény esetében a fenntartó szerv, továbbá a fenntartó szerv által fenntartott intézmény vagy felügyelt gazdasági társaság
 
-iratkezelésére és levéltári anyagára, továbbá mindezek jogelődeinek, a jogelődei által fenntartott intézménynek és a jogelődei által felügyelt gazdasági társaságnak a működése során keletkezett levéltári anyagára terjed ki.
+iratkezelésére és irataira, továbbá mindezek jogelődeinek, a jogelődei által fenntartott intézménynek és a jogelődei által felügyelt gazdasági társaságnak az irattári anyagára terjed ki.
 
-(3) Az Állambiztonsági Szolgálatok Történeti Levéltárának illetékessége az elmúlt rendszer titkosszolgálati tevékenységének feltárásáról és az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szóló törvényben meghatározott iratokra terjed ki.
+(3) Az Állambiztonsági Szolgálatok Történeti Levéltárának illetékessége az elmúlt rendszer titkosszolgálati tevékenységének feltárásáról és az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szóló törvényben meghatározott iratokra és szervekre terjed ki.
 
 (4) Az Állambiztonsági Szolgálatok Történeti Levéltára működésének speciális szabályait, valamint az e törvényben meghatározottakon túlmenően ellátandó feladatait a (3) bekezdésben említett törvény határozza meg.
 
@@ -413,35 +430,35 @@ iratkezelésére és levéltári anyagára, továbbá mindezek jogelődeinek, a 
 
 (5) A (2) bekezdés d) pontjában meghatározott szaklevéltár létesítését és megszüntetését – a szerv felügyeletét vagy irányítását ellátó miniszter, az autonóm államigazgatási szerv vagy az önálló szabályozó szerv vezetője véleményének előzetes kikérésével – a kultúráért felelős miniszter engedélyezi.
 
-(6) Megszűnő szaklevéltár anyagának közlevéltári elhelyezéséről a kultúráért felelős miniszter gondoskodik.
+(6) Megszűnő szaklevéltár anyagának közlevéltári elhelyezéséről a megszüntetést kezdeményező költségén a kultúráért felelős miniszter gondoskodik.
 
 ### Felsőoktatási levéltárak
 
 19/A. § (1) Felsőoktatási levéltár az állam által elismert felsőoktatási intézmény által fenntartott közlevéltár.
 
-(2) A felsőoktatási levéltár illetékessége kiterjed a fenntartó felsőoktatási intézmény, továbbá a fenntartó felsőoktatási intézmény által felügyelt gazdasági társaság és fenntartott intézmény iratkezelésére és levéltári anyagára, továbbá mindezek jogelődeinek, a jogelődei által fenntartott intézménynek és a jogelődei által felügyelt gazdasági társaságnak a működése során keletkezett levéltári anyagára.
+(2) A felsőoktatási levéltár illetékessége kiterjed a fenntartó felsőoktatási intézményre, a fenntartó felsőoktatási intézmény által felügyelt gazdasági társaságra és fenntartott intézményre, továbbá mindezek jogelődeinek és a jogelődei által felügyelt gazdasági társaságnak a működése során keletkezett irataira.
 
 (3) Felsőoktatási levéltár létesítését és megszüntetését a kultúráért felelős miniszter engedélyezi, az állam által elismert felsőoktatási intézmény fenntartójának előzetes egyetértésével.
 
-(4) A megszűnő felsőoktatási levéltár iratanyagának közlevéltári elhelyezéséről a kultúráért felelős miniszter gondoskodik.
+(4) A megszűnő felsőoktatási levéltár iratanyagának közlevéltári elhelyezéséről a megszüntetést kezdeményező költségén a kultúráért felelős miniszter gondoskodik.
 
-### Települési önkormányzat levéltára
+### Települési vagy nemzetiségi önkormányzat levéltára
 
-20. § (1) A települési önkormányzat a képviselő-testület, a hivatala és intézménye, valamint ezek jogelődei, továbbá a települési önkormányzat közigazgatási területén működő vagy működött, a települési önkormányzat többségi tulajdonában álló gazdasági társaság levéltári anyagára kiterjedő illetékességgel közlevéltárat létesíthet. A levéltár a fenntartó önkormányzat közvetlen felügyelete és irányítása alatt működik.
+20. § (1) A települési vagy nemzetiségi önkormányzat a képviselő-testület, a hivatala és intézménye, valamint ezek jogelődei, továbbá a települési önkormányzat közigazgatási területén, a nemzetiségi önkormányzat működési területén működő vagy működött, a települési vagy nemzetiségi önkormányzat többségi tulajdonában álló gazdasági társaság iratkezelésére és irattári anyagára kiterjedő illetékességgel közlevéltárat létesíthet. A levéltár a fenntartó települési vagy nemzetiségi önkormányzat közvetlen felügyelete és irányítása alatt működik.
 
-(2) Települési önkormányzat levéltárának létesítéséhez a kultúráért felelős miniszter előzetes hozzájárulása szükséges. A miniszter megtagadhatja a hozzájárulást, ha a létesítendő levéltár folyamatos működésének személyi és dologi feltételeit [15. § (1) bekezdés] hosszabb távon nem látja biztosítottnak. Ha a levéltár működését meghatározó feltételek megszűnnek, a miniszter visszavonhatja hozzájárulását. Ebben az esetben a fenntartó önkormányzat köteles a levéltárat megszüntetni.
+(2) Települési vagy nemzetiségi önkormányzat levéltárának létesítéséhez a kultúráért felelős miniszter előzetes hozzájárulása szükséges. A miniszter megtagadhatja a hozzájárulást, ha a létesítendő levéltár folyamatos működésének személyi és dologi feltételeit [15. § (1) bekezdés] hosszabb távon nem látja biztosítottnak. Ha a levéltár működését meghatározó feltételek megszűnnek, a miniszter visszavonhatja hozzájárulását. Ebben az esetben a fenntartó önkormányzat köteles a levéltárat megszüntetni.
 
 (3) Ha a települési önkormányzat vagy a nemzetiségi önkormányzat megszünteti levéltárát, annak anyagát a települési önkormányzat vagy a nemzetiségi önkormányzat székhelye szerint területileg illetékes közlevéltárban kell elhelyezni. Ilyen esetben a települési önkormányzat a levéltár céljait szolgáló vagyonát használatra köteles átengedni az illetékes közlevéltár fenntartójának.
 
 ### Köztestület, közalapítvány és egyéb közfeladatot ellátó szerv levéltára
 
-21. § Köztestület, közalapítvány vagy jogszabályban meghatározott egyéb közfeladatot ellátó szerv saját levéltári anyagának őrzésére közlevéltárat létesíthet. A létesítést és a megszüntetést a közlevéltárakról vezetett központi nyilvántartásba be kell jegyeztetni. Megszűnés esetén a köztestület, a közalapítvány és az egyéb közfeladatot ellátó szerv levéltári anyagának közlevéltári elhelyezéséről a kultúráért felelős miniszter intézkedik.
+21. § Köztestület, közalapítvány vagy jogszabályban meghatározott egyéb közfeladatot ellátó szerv saját maradandó értékű iratainak őrzésére és iratkezelésének ellenőrzésére közlevéltárat létesíthet. A létesítést és a megszüntetést a közlevéltárakról vezetett központi nyilvántartásba be kell jegyeztetni. Megszűnés esetén a köztestület, a közalapítvány és az egyéb közfeladatot ellátó szerv levéltári anyagának közlevéltári elhelyezéséről a megszüntetést kezdeményező költségén a kultúráért felelős miniszter intézkedik.
 
 ### IV. Fejezet — A KÖZLEVÉLTÁR ANYAGÁNAK HASZNÁLATA
 
 ### A közlevéltár anyagában történő kutatás
 
-22. § (1) A közlevéltárban őrzött, a keletkezés naptári évétől számított harminc éven túli levéltári anyagban – a 24. §-ban és a 25. §-ban foglalt kivételekkel –, továbbá időbeli korlátozás nélkül abban a levéltári anyagban, amelyet már nyilvánosságra hoztak, vagy amelynek tartalma az adatvédelmi jogszabályok rendelkezései alapján bárki számára kutatható, a kutatni kívánt téma megjelölését tartalmazó kérelemre bármely természetes személy ingyenesen kutathat és a kutatásra kiadott levéltári anyagról saját költségén másolatot készíttethet.
+22. § (1) A közlevéltárban őrzött, a keletkezés naptári évétől számított harminc éven túli levéltári anyagban – a 24. §-ban és a 25. §-ban foglalt kivételekkel –, továbbá időbeli korlátozás nélkül abban a levéltári anyagban, amelyet már jogszerűen nyilvánosságra hoztak, vagy amelynek tartalma az adatvédelmi jogszabályok rendelkezései alapján bárki számára kutatható, a kutatni kívánt téma megjelölését tartalmazó kérelemre bármely természetes személy ingyenesen kutathat és a kutatásra kiadott levéltári anyagról saját költségén másolatot készíttethet.
 
 (2) A közlevéltár az őrizetében lévő levéltári anyagban kutatást végző személy részére – a kutatás megkezdése előtt – látogatói jegyet ad ki. A látogatói jegy tartalmazza a kutató természetes személyazonosító adatait és lakcímét. A látogatói jegy az adott közlevéltárban – évenkénti meghosszabbítással – folyamatosan használható.
 
@@ -449,7 +466,7 @@ iratkezelésére és levéltári anyagára, továbbá mindezek jogelődeinek, a 
 
 (4) A közlevéltár a kutatásra átadott levéltári anyagról nyilvántartást vezet, és a kutató személyes adatainak védelméről a személyes adatok védelmére vonatkozó jogszabályi rendelkezések szerint gondoskodik.
 
-23. § A keletkezés naptári évétől számított harminc év lejárta előtt is folytatható kutatás, ha azt az átadó szerv hozzájárulásával a levéltári anyagot őrző levéltár engedélyezi. Jogutód nélkül megszűnt szerv levéltári anyagában a kutatást a levéltári anyagot őrző közlevéltár engedélyezi.
+23. § A keletkezés naptári évétől számított harminc év lejárta előtt is folytatható kutatás, ha azt az átadó szerv vagy annak az érintett levéltári anyag tekintetében illetékes jogutódja hozzájárulásával a levéltári anyagot őrző levéltár engedélyezi. Jogutód nélkül megszűnt szerv levéltári anyagában a kutatást a levéltári anyagot őrző közlevéltár engedélyezi.
 
 24. § (1) Ha törvény másként nem rendelkezik, a személyes adatot tartalmazó levéltári anyag az érintett halálozási évét követő harminc év után válik bárki számára kutathatóvá. A védelmi idő
 
@@ -472,7 +489,7 @@ iratkezelésére és levéltári anyagára, továbbá mindezek jogelődeinek, a 
 
 24/A. § (1) A 24. § (2) bekezdés c) pontja alapján történő tudományos kutatás a személyes adatok megfelelő szintű védelmét biztosító ország kutatója számára abban az esetben engedélyezhető, ha eleget tesz a 24. § (3) és (4) bekezdésében foglalt követelményeknek.
 
-(2) A 24. § (1) bekezdésében foglaltaktól eltérően az I. és II. világháború során hadifogságba esett vagy elhurcolt személyekkel kapcsolatban az 1989 előtt a hadifogságukkal, illetve elhurcolásukkal összefüggésben keletkezett személyes adatot – ideértve a különleges, valamint a bűnügyi személyes adatot is – tartalmazó levéltári anyag az érintett személy halálozási évét követő öt év után nyilvánosságra hozható.
+(2) A 24. § (1) bekezdésében foglaltaktól eltérően az I. és II. világháború során hadifogságba esett vagy elhurcolt személyekkel, továbbá az 1956-os forradalomban résztvevő személyekkel kapcsolatban az 1989 előtt a hadifogságukkal, illetve elhurcolásukkal, illetve az 1956-os forradalom során betöltött szerepükkel összefüggésben keletkezett személyes adatot – ideértve a különleges, valamint a bűnügyi személyes adatot is – tartalmazó levéltári anyag az érintett személy halálozási évét követő öt év után nyilvánosságra hozható.
 
 (3) A bárki számára kutatható, valamint a (2) bekezdés szerinti levéltári anyagot és azok másolatát a levéltári anyagot őrző közlevéltár közzéteheti.
 
@@ -499,7 +516,7 @@ iratkezelésére és levéltári anyagára, továbbá mindezek jogelődeinek, a 
 
 (3) Tájékoztatás érdekében közlevéltár kutatást — díjtalan szolgáltatásként — csak jogszabály alapján vagy fenntartója utasítására végez.
 
-28. § A közlevéltár az őrizetében lévő levéltári anyagot kutatási célból más levéltárnak vagy kiállítás céljából szerv számára — külön jogszabály alapján — meghatározott időre kikölcsönözheti. Az iratot átadó szerv, illetve jogutódja részére a kölcsönzést ügyviteli célból a levéltár köteles engedélyezni. A kölcsönzési kérelem másolattal is teljesíthető.
+28. § A közlevéltár az őrizetében lévő levéltári anyagot kutatási célból más levéltárnak, vagy kiállítási, illetve állományvédelmi vagy ügyviteli célból e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott módon, határozott időre kikölcsönözheti. Az iratot átadó szerv vagy jogutódja, illetve ezek felügyeleti szerve részére a kölcsönzést ügyviteli célból a levéltár köteles engedélyezni. A kölcsönzési kérelem kutatási vagy ügyviteli célból másolattal is teljesíthető.
 
 ### Jogorvoslat kutatási vagy tájékoztatási kérelem megtagadása esetén
 
@@ -525,9 +542,11 @@ iratkezelésére és levéltári anyagára, továbbá mindezek jogelődeinek, a 
 
 (4) A nyilvános magánlevéltár a 34/C. §-ban foglaltak szerinti költségvetési támogatásban részesül. A költségvetési támogatás a pártok által fenntartott nyilvános magánlevéltárakat is megilleti.
 
-31. § (1) A nyilvános magánlevéltár köziratnak minősülő levéltári anyag kivételével bármilyen levéltári anyagot gyűjthet. A vallási közösség levéltára gyűjtheti a vallási közösség által fenntartott intézmény köziratnak minősülő levéltári anyagát is, ha a levéltár fenntartója az anyag őrzését, kezelését és használatát illetően biztosítja a 15. § (1) bekezdésében meghatározott feltételeket, és az anyag kutathatóságát a közlevéltárban őrzött levéltári anyagra vonatkozó szabályok szerint lehetővé teszi, továbbá az általa őrzött köziratok esetében az egyedi adatokról a 27. §-ban foglaltaknak megfelelően tájékoztatást nyújt.
+31. § (1) A nyilvános magánlevéltár köziratnak minősülő levéltári anyag kivételével bármilyen levéltári anyagot gyűjthet. A vallási közösség levéltára az illetékes közlevéltár egyidejű értesítése mellett a közlevéltár illetékességébe tartozó feladatok átvállalásával gyűjtheti a vallási közösség által fenntartott intézmény köziratnak minősülő maradandó értékű iratait is, ha a levéltár fenntartója a levéltári anyag őrzését, kezelését és használatát illetően biztosítja a 15. § (1) bekezdésében meghatározott feltételeket, és az anyag kutathatóságát a közlevéltárban őrzött levéltári anyagra vonatkozó szabályok szerint lehetővé teszi, továbbá az általa őrzött köziratok esetében az egyedi adatokról a 27. § szerint tájékoztatást nyújt.
 
-(2) A kultúráért felelős miniszter engedélyezheti a káptalani vagy konventi hiteleshelyi levéltárak anyagának a vallási közösség levéltárában, más köziratnak nyilvános magánlevéltárban történő elhelyezését, ha a levéltár fenntartója az anyag őrzését, kezelését és használatát illetően biztosítja a 15. § (1) bekezdésében meghatározott feltételeket, és az anyag kutathatóságát a közlevéltárban őrzött levéltári anyagra vonatkozó szabályok szerint lehetővé teszi.
+(2) A kultúráért felelős miniszter engedélyezheti a káptalani vagy konventi hiteleshelyi levéltárak levéltári anyagának a vallási közösség levéltárában, valamint más köziratnak nyilvános magánlevéltárban történő elhelyezését, ha a levéltár fenntartója a levéltári anyag őrzését, kezelését és használatát illetően biztosítja a 15. § (1) bekezdésében meghatározott feltételeket, és az anyag kutathatóságát a közlevéltárban őrzött levéltári anyagra vonatkozó szabályok szerint lehetővé teszi, továbbá az általa őrzött köziratok esetében az egyedi adatokról a 27. § szerint tájékoztatást nyújt.
+
+(3) Az illetékes közlevéltár az illetékességébe tartozó, vallási közösség által fenntartott szervekre vonatkozó feladatkör (1) bekezdés szerinti átadásáról jegyzéket vezet és azt honlapján nyilvánosságra hozza.
 
 31/A. § (1) A nyilvános magánlevéltár megszűnése esetén a nyilvántartásában szereplő iratok védett kulturális javaknak minősülnek. Az iratok megfelelő elhelyezéséről a fenntartó gondoskodik.
 
@@ -535,7 +554,7 @@ iratkezelésére és levéltári anyagára, továbbá mindezek jogelődeinek, a 
 
 ### A maradandó értékű magániratok védelme
 
-32. § (1) A nem közfeladatot ellátó szervek — a (3) bekezdésben foglalt kivétellel — irattári anyaguk kezelésének módját maguk alakíthatják ki, de az illetékes közlevéltártól szaktanácsot kérhetnek, vele a segítségadás rendszeres módjára, illetve az iratok ajándékként vagy ingyenes letétként való megőrzésére vonatkozóan megállapodást köthetnek.
+32. § (1) A nem közfeladatot ellátó szervek — a (3) bekezdésben foglalt kivétellel — irattári anyaguk kezelésének módját maguk alakíthatják ki, de a közlevéltártól szaktanácsot kérhetnek, vele a segítségadás rendszeres módjára, illetve az iratok ajándékként vagy ingyenes letétként való megőrzésére vonatkozóan megállapodást köthetnek.
 
 (2) A közlevéltárnak az (1) bekezdés szerinti megállapodással átadott iratok kutathatóságát az ajándékozó vagy a letétbe adó meghatározott időtartamra korlátozhatja.
 
@@ -547,7 +566,7 @@ iratkezelésére és levéltári anyagára, továbbá mindezek jogelődeinek, a 
 - b) a jogutód nélkül megszűnt, nem közfeladatot ellátó szervek irattári anyagának maradandó értékű részét, kivéve a csődeljárásról és a felszámolási eljárásról szóló törvényben meghatározott iratokat;
 - c) a privatizált állami gazdálkodó szervezet privatizálás előtt keletkezett irattári anyagának a 34. § (3) bekezdésében meghatározott részét;
 - d) működő, nem közfeladatot ellátó szerv irattári anyagának maradandó értékű részét, ha azt a tulajdonos – a gazdálkodó szervezet eladásával együtt történő irattárátadást kivéve – kereskedelmi forgalomba kívánja bocsátani;
-- e) a nyilvános magánlevéltárak nyilvántartásából törölt magánlevéltárban őrzött iratokat.
+- e)
 
 (2) Nem nyilvánítható védetté:
 
@@ -574,7 +593,7 @@ iratkezelésére és levéltári anyagára, továbbá mindezek jogelődeinek, a 
 
 (2) Az (1) bekezdésben meghatározott előirányzatnak a közlevéltárak és a nyilvános magánlevéltárak közötti elosztásáról a kultúráért felelős miniszter pályázat kiírásával gondoskodik. A pályázat kiírásának, elbírálásának és az előirányzat felhasználásának szabályait a kultúráért felelős miniszter állapítja meg.
 
-(3) Az (1) bekezdésben meghatározott feladatok ellátásának személyi, tárgyi és technikai feltételeit legkésőbb 2000. december 31-éig kell megteremteni.
+(3)
 
 34/B. § A 17. § (2) bekezdésében felsorolt feladatok elvégzéséhez szükséges költségvetési előirányzatot a Magyar Nemzeti Levéltár éves költségvetésének elkülönített tételeként kell meghatározni.
 

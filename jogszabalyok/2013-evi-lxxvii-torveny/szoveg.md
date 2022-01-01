@@ -127,8 +127,9 @@ tartalmazza.
 
 - a) cselekvőképes,
 - b) büntetlen előéletű és nem áll a felnőttképzési szakértői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
-- b) rendelkezik a felnőttképzési szakértői tevékenység végzéséhez szükséges szakképzettséggel és szakmai gyakorlattal, és
-- c) megfelel a Kormány rendeletében meghatározott egyéb feltételeknek.
+- c) rendelkezik a felnőttképzési szakértői tevékenység végzéséhez szükséges szakképzettséggel és szakmai gyakorlattal,
+- d) a Kormány rendeletében meghatározott továbbképzésen részt vett, valamint eredményes vizsgát tett, és
+- e) megfelel a Kormány rendeletében meghatározott egyéb feltételeknek.
 
 (3)
 
@@ -396,27 +397,57 @@ kapcsolatosak.
 
 ### VIII. Fejezet — A FELNŐTTKÉPZÉS TÁMOGATÁSA
 
-#### 12.
+#### 12. A felnőttképzés támogatási forrásainak felhasználása
 
-#### 23. §
-
-#### 13. A felnőttképzés támogatási forrásainak felhasználása
-
-24. § (1) Az állam támogatást nyújthat
+23. § Az állam támogatást nyújthat
 
 - a) a felnőttképzési tevékenységhez szükséges engedély megszerzésére,
 - b) felnőttképzési tevékenység keretében szervezett képzésre,
 - c) a felnőttképzők technikai feltételei fejlesztésére és
 - d) a nemzetgazdasági szempontból kiemelt jelentőségű képzésre.
 
-(2)
-
-25. § A képzésben részt vevő személy az általa megkötött felnőttképzési szerződéshez kapcsolódóan a Kormány rendeletében meghatározottak szerint
+24. § A képzésben részt vevő személy az általa megkötött felnőttképzési szerződéshez kapcsolódóan a Kormány rendeletében meghatározottak szerint
 
 - a) képzési hitelt, illetve
 - b) ösztöndíjat
 
 vehet igénybe.
+
+#### 13. Képzési hitel
+
+25. § (1) A képzésben részt vevő személy számára – a Kormány rendeletében meghatározottak szerint – az állam a Diákhitel szervezet útján biztosítja a képzési hitel igénybevételének lehetőségét.
+
+(2) A képzési hitel a felnőttképzővel
+
+- a) a 2/A. § (2) bekezdés a) pontja szerinti, legalább három hónapos képzési időt meghaladó, legalább középfokú végzettséghez kötött szakmai oktatásra, illetve szakmai képzésre vagy
+- b) nemzetgazdasági szempontból kiemelt jelentőségű képzésre
+
+a Kormány rendeletében meghatározott feltételek mellett együttműködési megállapodást kötött felnőttképzővel létrejött felnőttképzési jogviszonyhoz kapcsolódóan a képzési díj finanszírozására vehető igénybe.
+
+(3) Képzési hitel akkor igényelhető, ha a képzésben részt vevő személy
+
+- a) magyar állampolgár, menekültként elismert, bevándorolt vagy letelepedett jogállású személy, vagy a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény alapján állandó tartózkodásra jogosult személy vagy annak családtagja,
+- b) lakóhelyét a személyiadat- és lakcímnyilvántartásba bejelentette,
+- c) a hitelkérelem benyújtásakor a 18. életévét betöltötte, de az 55. életévét nem töltötte be,
+- d) büntetlen előéletű,
+- e) a hitelkérelem benyújtásakor nem rendelkezik
+  - ea) hatályos, a Diákhitel szervezettel fennálló azonos hitelcélú felhasználást biztosító képzési hitel- vagy kölcsönszerződéssel,
+  - eb) korábban kötött és megszűnt hitel- vagy kölcsönszerződése után a Diákhitel szervezet felé fennálló hiteltartozással,
+  - ec) a Diákhitel szervezet által – a Kormány rendeletében foglaltak szerint – elengedett tartozással, valamint
+  - ed) az állami adó- és vámhatóságnál nyilvántartott köztartozással,
+- f) – az olyan képzésben részt vevő személy kivételével, aki a hitelkérelem benyújtásakor gyermekek otthongondozási díjában vagy ápolási díjban részesül – a hitelkérelem benyújtását megelőző
+  - fa) tizenkét hónapban a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 6. §-a szerint folyamatosan biztosítottként szerepelt, illetve a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személynek minősült, vagy kereső tevékenysége alapján valamely másik állam vagy nemzetközi szerződéssel létrehozott nemzetközi szervezet társadalombiztosítási rendszerének hatálya alá tartozott, vagy
+  - fb) tizenkét hónapban folyamatosan köznevelési intézménnyel tanulói jogviszonyban, szakképző intézménnyel tanulói jogviszonyban vagy felnőttképzési jogviszonyban, illetve felsőoktatási intézménnyel hallgatói jogviszonyban állt,
+- g) a 2/A. § (2) bekezdés a) pontja szerinti szakmai képzésre vagy részszakmára felkészítő szakmai oktatásra létrejött felnőttképzési jogviszony esetében rendelkezik a képzésben való részvételhez legmagasabb iskolai végzettségként előírt középfokú végzettséggel, és
+- h) – a nemzetgazdasági szempontból kiemelt jelentőségű képzés kivételével – a képzési díj legalább húsz százalékát a képzést megszervező felnőttképző felé a hitelkérelem benyújtásakor már megfizette.
+
+(4) A (3) bekezdés f) pontja szerinti időszak számítása során a különböző, egymást követő időszakokat össze kell számítani és azt folyamatosnak kell tekinteni, ha abban egybefüggően legfeljebb 30 nap megszakítás van, amelynek időtartama az adott időszakba nem számít bele, annak számításakor nem vehető továbbá figyelembe a közfoglalkoztatás keretében fennálló jogviszony és az álláskeresési támogatás igénybevételének időtartama.
+
+(5) A képzésben részt vevő személy a képzési hitel igénylése során azt a tényt, hogy büntetlen előéletű, a hitelkérelem benyújtásakor hatósági bizonyítvánnyal igazolja.
+
+(6) Ha a képzési hitel tekintetében visszaélés gyanúja merül fel, a Diákhitel szervezet a hitelkérelem elbírálását, illetve a képzési hitel folyósítását felfüggeszti és a jogosultság feltételeinek fennállását a jogosultsági feltételre vonatkozó adatot kezelő szerv közvetlen megkeresése útján ellenőrizheti.
+
+(7) A képzési hitelhez kapcsolódóan megismert személyes adatot a Diákhitel szervezet a hiteltartozás megszűnését követő ötödik év utolsó napjáig kezeli.
 
 #### 26. §
 
@@ -475,7 +506,7 @@ rendeletben jelölje ki.
 - b) a felnőttképzési szakértői tevékenység folytatásának részletes feltételeit, a felnőttképzési szakterületeket, a felnőttképzési szakértői tevékenységre irányuló bejelentés adattartalmát és a bejelentésre vonatkozó részletes eljárási szabályokat, a felnőttképzési szakértők nyilvántartásának adatait és a felnőttképzési szakértők díjazására vonatkozó rendelkezéseket,
 - c) a felnőttképzési minőségirányítási rendszert és annak külső értékelésére vonatkozó részletes szabályokat,
 - d) a bemeneti kompetenciamérés lefolytatására és eredményének figyelembevételére, valamint az előzetes tudásmérés lefolytatására, az előzetesen felmért tudásnak a képzés során történő beszámítására vonatkozó szabályokat és azon képzési egységek meghatározásának szabályait, amelyekre a tudásmérés irányul,
-- e) a képzési hitel és az ösztöndíj igénybevételének feltételeit,
+- e) az ösztöndíj igénybevételének feltételeit, a képzési hitel igénybevételének részletes feltételeit és eljárási szabályait, a hitelszerződés megkötésének, a képzési hitel kamata meghatározásának, igénylésének, folyósításának, törlesztésének, előtörlesztésének, támogatásának, záró elszámolásának, megszűnésének, továbbá felmondásának részletes szabályait, az együttműködési megállapodás megkötésének és felmondásának részletes szabályait, valamint a képzési hitelrendszer működtetésének részletes szabályait,
 - f) a képzés nemzetgazdasági szempontból kiemelt jelentőségűvé minősítésének feltételeit, eljárását és módját,
 - g) a munkaerő-piaci előrejelző rendszer működésére, az adatszolgáltatás rendjére, továbbá a munkaerő-piaci előrejelző rendszer működéséért felelős szervnek a munkaerő-piaci előrejelző rendszer működtetésével kapcsolatos feladataira vonatkozó részletes szabályokat,
 - h) a komplex felzárkózási képzések részletes szabályait, valamint, hogy ezen képzések szervezéséért és a képzések engedélyezéséért, ellenőrzéséért felelős szervet rendeletben jelölje ki.
@@ -511,7 +542,7 @@ vonatkozó részletes szabályokat.
 
 (5) A (2)–(4) bekezdés szerinti tevékenység ellenőrzésére és az ahhoz kapcsolódóan megállapítható jogkövetkezményekre a Módtv1. hatálybalépését megelőző napon hatályos rendelkezéseket kell alkalmazni.
 
-#### 31. §
+31. § Az egyes képzéseket és a foglalkoztatást érintő törvények módosításáról szóló 2021. évi CXLVII. törvénnyel (a továbbiakban: Módtv2.) megállapított 6. § (2) bekezdését arra a felnőttképzési szakértőre, aki a felnőttképzési szakértői tevékenység végzését 2022. január 1-jét megelőzően a felnőttképzési államigazgatási szerv számára bejelentette, azzal az eltéréssel kell alkalmazni, hogy ha a felnőttképzési szakértő nem felel meg a Módtv2.-vel megállapított 6. § (2) bekezdés d) pontjában meghatározott feltételeknek, a továbbképzési- és vizsgakötelezettségének a 2022. január 1-jét követő első továbbképzési időszak végéig tehet eleget.
 
 #### 32. §
 

@@ -156,7 +156,7 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 (7) A kormányhivatali aláírásminta-nyilvántartás kizárólag az aláírások egyezőségének ellenőrzése céljából, az (5) bekezdésben meghatározottak szerint használható fel, a kormányhivatali aláírásminta-nyilvántartásból adattovábbítást – e törvény eltérő rendelkezése hiányában – nem lehet teljesíteni.
 
-(8) Nincs helye az aláírópad használatának, ha az ügyfél az ügyet az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) szerinti elektronikus ügyintézési ponton kívánja intézni.
+(8) Nincs helye az aláírópad használatának, ha az ügyfél az ügyet az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) szerinti elektronikus ügyintézési ponton vagy az Eüsztv. szerinti videotechnológiás kapcsolattal történő ügyintézéssel kívánja intézni.
 
 #### 9/C. Egyedi eljárásrend alkalmazhatósága a fővárosi és megyei kormányhivatal eljárásaiban
 

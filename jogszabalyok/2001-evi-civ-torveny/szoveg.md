@@ -87,6 +87,8 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 
 (3) Ha a bűncselekménnyel elért vagy elérni kívánt előny nem vagyoni jellegű, a bíróság a jogi személy vagyoni helyzetére tekintettel állapítja meg a pénzbírságot, amelynek legkisebb mértéke ötszázezer forint.
 
+(3a) Ha a jogi személy vagyonára e törvény alapján zár alá vétel elrendelésére került sor, a pénzbírság akkor is kiszabható, ha a jogi személyt a felszámolási eljárásban megszüntették.
+
 (4) A pénzbírságot – meg nem fizetése esetén – az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény szabályai szerint kell behajtani.
 
 ### II. Fejezet — BÜNTETŐELJÁRÁSI RENDELKEZÉSEK
@@ -133,15 +135,17 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 
 11. § (1) Ha a jogi személlyel szemben intézkedés alkalmazásának szükségessége merül fel, a jogi személlyel szemben zár alá vételt akkor lehet elrendelni, ha megalapozottan lehet tartani attól, hogy a jogi személlyel szemben előreláthatóan alkalmazásra kerülő pénzbírság végrehajtását meghiúsítják. A vádemelés előtt a bíróság jogosult a jogi személlyel szembeni zár alá vétel elrendelésére.
 
-(2) A jogi személlyel szemben előreláthatóan alkalmazásra kerülő pénzbírság végrehajtásához szükséges zár alá vételt el kell rendelni, ha a bíróság vagy az ügyészség engedélyezi, hogy a jogi személlyel szemben a felszámolási eljárást folytassák.
+(2)
 
-(3) A zár alá vételt elrendelő határozatban meg kell jelölni, hogy a zár alá vétel mekkora összeg biztosítására szolgál.
+(3) A zár alá vételt elrendelő határozat rendelkező részében meg kell jelölni, hogy a zár alá vétel pénzbírság biztosítására szolgál, valamint hogy a zár alá vétel mekkora összeg biztosítására szolgál.
 
-(4) A (2) bekezdés alapján történő zár alá vételt a bíróság a felszámolási eljárás engedélyezéséről szóló határozatban is elrendelheti. Az ügyészség a határozat meghozatala előtt indítványozza a zár alá vételnek a (2) bekezdés alapján történő elrendelését, ha a felszámolási eljárás folytatásához az engedélyt megadja.
+(3a) Ha a zár alá vételt elrendelő határozat nem tartalmazza a (3) bekezdésben foglaltakat, a bíróság – a vádemelés előtt az ügyészség, a terhelt, valamint a vagyoni érdekelt indítványára, a vádemelés után hivatalból – a (3) bekezdésnek megfelelően határoz a zár alá vételről rendelkező határozat kiegészítéséről.
 
-(5) Ha a felszámoló kérelmére a büntetőügyben eljáró bíróság vagy a vádirat benyújtása előtt az ügyészség a zár alá vétel tárgyának értékesítését engedélyezi, az erről szóló határozatban a zár alá vételt arra az összegre korlátozza, ami a jogi személlyel szemben előreláthatóan alkalmazásra kerülő pénzbírság végrehajtását fedezni fogja. A zár alá vétel tárgya helyébe a bíróság, illetve az ügyészség által meghatározott összeg lép. A határozatot meg kell küldeni a zár alá vételt foganatosító állami adó- és vámhatóságnak és a felszámolónak.
+(4)
 
-(6) Az (1) és (2) bekezdés alapján elrendelt zár alá vétel esetén – kivéve, ha a jogi személlyel szemben felszámolást rendeltek el – a zár alá vétel megváltására a Be. 329. § (1)–(6) bekezdését kell alkalmazni azzal, hogy a zár alá vétel megváltását a jogi személy indítványozhatja.
+(5)
+
+(6) Az (1) bekezdés alapján elrendelt zár alá vétel esetén – kivéve, ha a jogi személlyel szemben felszámolást rendeltek el – a zár alá vétel megváltására a Be. 329. § (1)–(6) bekezdését kell alkalmazni azzal, hogy a zár alá vétel megváltását a jogi személy indítványozhatja.
 
 ### A nyomozás
 
@@ -195,6 +199,8 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 - b) a jogi személy a vádemelés vagy az ügyészség jogi személlyel szembeni intézkedés alkalmazására irányuló indítványának előterjesztése után megszűnt.
 
 (2) A bíróság az (1) bekezdés szerint jár el akkor is, ha azt a vádlottat, akire tekintettel az ügyészség a jogi személlyel szemben intézkedés alkalmazását indítványozta, felmenti, vagy vele szemben az eljárást megszünteti. Ez a rendelkezés nem alkalmazható, ha a jogi személlyel szemben intézkedés alkalmazásának a 3. § (2) bekezdés f), g) vagy h) pontjában meghatározott okból helye van.
+
+(3) A bíróság az (1) bekezdés b) pontja szerinti esetekben sem szünteti meg az eljárás jogi személlyel kapcsolatos részét, ha a pénzbírság kiszabásának a 6. § (3a) bekezdése alapján lehet helye.
 
 ### Az eljárás felfüggesztése
 
@@ -396,7 +402,7 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 
 26. § (1) A jogi személlyel szemben alkalmazott intézkedés végrehajtása iránt a bíróság a megszűntnek nyilvánítás és a tevékenység korlátozása esetén a jogi személyről nyilvántartást vezető bíróságot keresi meg.
 
-(2) A jogi személy megszüntetése esetén a nyilvántartást vezető bíróság az egyes jogi személyekre vonatkozó külön törvényeknek a megszűntnek nyilvánítás, illetve a feloszlatás esetén irányadó szabályai szerint jár el, azzal az eltéréssel, hogy ha a bíróság a büntetőeljárás során a jogi személy vagyonát érintően vagyonelkobzást alkalmazott, annak végrehajtása megelőzi a jogi személy vagyonának felosztását és így a végelszámolási, illetve felszámolási eljárás megindítását, illetve folytatását.
+(2) A jogi személy megszüntetése esetén a nyilvántartást vezető bíróság az egyes jogi személyekre vonatkozó külön törvényeknek a megszűntnek nyilvánítás, illetve a feloszlatás esetén irányadó szabályai szerint jár el.
 
 (3) A jogi személy vagyonát érintően végrehajtott vagyonelkobzás esetén is irányadó a Polgári Törvénykönyvnek az állam határozattal, kártalanítás nélküli tulajdonszerzésére vonatkozó felelősségi szabálya.
 
@@ -404,7 +410,7 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 
 (5)
 
-(6) Ha a 11. § (5) bekezdése alapján került sor a zár alá vételre és a zár alá vétel tárgya helyébe meghatározott összeg lépett, az eljárás megszüntetésekor vagy az ügydöntő határozatban rendelkezni kell az állami adó- és vámhatóságnál a végrehajtási kényszer eredményeként befizetett összegek fogadására és kezelésére elkülönített számlán a pénzbírság behajtását követően fennmaradó összegnek – a jogi személy ellen elrendelt felszámolási eljárásban kirendelt felszámoló értesítésével – a jogi személy számlájára történő átutalásáról.
+(6) Ha a zár alá vétel tárgya helyébe meghatározott összeg lépett, az eljárás megszüntetésekor vagy az ügydöntő határozatban rendelkezni kell az állami adó- és vámhatóságnál a végrehajtási kényszer eredményeként befizetett összegek fogadására és kezelésére elkülönített számlán a pénzbírság behajtását követően fennmaradó összegnek – a jogi személy ellen elrendelt felszámolási eljárásban kirendelt felszámoló értesítésével – a jogi személy számlájára történő átutalásáról.
 
 ### Eljárás a büntetőeljárás felfüggesztése, megszüntetése esetén
 

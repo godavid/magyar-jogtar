@@ -518,7 +518,12 @@ biztonsági események és fenyegetések kezelése érdekében eseménykezelő k
 
 #### 12/B. A tanúsító hatóság
 
-22/B. § (1) Az (EU) 2019/881 európai parlamenti és tanácsi rendelet szerinti nemzeti kiberbiztonsági tanúsító hatóság (a továbbiakban: tanúsító hatóság) feladatait a Kormány által kijelölt hatóságok látják el.
+22/B. § (1) Az (EU) 2019/881 európai parlamenti és tanácsi rendelet szerinti nemzeti kiberbiztonsági tanúsító hatóság (a továbbiakban: tanúsító hatóság) feladatait
+
+- a) – a b) pont kivételével – az SZTFH,
+- b) a hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő kiberbiztonsági tanúsító hatósági feladatok tekintetében a Kormány által kijelölt hatóság
+
+látja el.
 
 (2) A tanúsító hatóság eljárása során a sommás eljárás kizárt. Ha a hatósági eljárás lefolytatásához szakértő vagy a 19. § (1) bekezdése szerinti eseménykezelő központ bevonása szükséges, a tanúsító hatóság ügyintézési határideje 120 nap.
 
@@ -626,25 +631,29 @@ biztonsági események és fenyegetések kezelése érdekében eseménykezelő k
 - l) a 16. § (1) bekezdése szerinti független, képesített ellenőr igénybevételével kapcsolatos eljárásrendet,
 - m) a honvédelmi célú elektronikus információs rendszerre vonatkozóan a korai figyelmeztetés részletes szabályait, így különösen annak rendszerét, a rendszer üzemeltetőjének kijelölését, valamint a kapcsolódó korai figyelmeztető szolgáltatás igénybevételének rendjét,
 - n) a polgári hírszerző tevékenységet végző nemzetbiztonsági szolgálat elektronikus információs rendszerei vonatkozásában a hatóság 14. § (2) bekezdése, valamint a 20. § (1) bekezdése szerinti feladatait, továbbá a sérülékenység vizsgálat, illetve a biztonsági esemény vizsgálat részletes szabályait.
-- o) a tanúsító hatóság feladatának, a tanúsító hatósági tevékenység eljárásrendjének, az engedélyezési eljárás, valamint a nyilvántartás részletes szabályait,
-- p) a tanúsító hatóság által kiszabható bírság mértékét, a bírság kiszabásának és befizetésének részletes eljárási szabályait,
-- q) a megfelelőségi önértékelésre, a tanúsítási eljárásra, valamint a megfelelőségértékelő szervezetek kötelezettségeire és azok tevékenységére vonatkozó részletes szabályokat.
+- o) a 22/B. § (1) bekezdés b) pontja szerinti tanúsító hatóság feladatának, a tanúsító hatósági tevékenység eljárásrendjének, az engedélyezési eljárás, valamint a nyilvántartás részletes szabályait,
+- p) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem tekintetében a megfelelőségi önértékelésre, a tanúsítási eljárásra, valamint a megfelelőségértékelő szervezetek kötelezettségeire és azok tevékenységére vonatkozó részletes szabályokat.
+- q)
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a hatóságot.
 
-(1b) Felhatalmazást kap a Kormány, hogy kijelölje a tanúsító hatóságokat.
+(1b) Felhatalmazást kap a Kormány, hogy kijelölje a 22/B. § (1) bekezdés b) pontja szerinti tanúsító hatóságot.
 
 (2) Felhatalmazást kap
 
-- a) az e-közigazgatásért felelős miniszter, hogy az informatikáért felelős miniszterrel és a minősített adatok védelmének szakmai felügyeletéért felelős miniszterrel egyetértésben meghatározza az 5. § és 6. §-ban előírt technológiai biztonsági, valamint a biztonságos információs eszközökre, termékekre vonatkozó követelményeket, továbbá a 7–8. § szerinti biztonsági osztályba sorolás és a szervezetek 9–10. § szerinti biztonsági szintbe sorolásának követelményeit,
+- a) az e-közigazgatásért felelős miniszter, hogy az informatikáért felelős miniszterrel és a minősített adatok védelmének szakmai felügyeletéért felelős miniszterrel egyetértésben – az SZTFH elnöke véleményének kikérésével – az 5. § és 6. §-ban előírt technológiai biztonsági, valamint a biztonságos információs eszközökre, termékekre vonatkozó követelményeket, továbbá a 7. § és 8. § szerinti biztonsági osztályba sorolás és a szervezetek 9. § és 10. § szerinti biztonsági szintbe sorolásának követelményeit,
 - b) a közigazgatás-fejlesztésért felelős miniszter, hogy az e-közigazgatásért felelős miniszterrel egyetértésben az e törvényben meghatározott vezetői, az elektronikus információs rendszer biztonságáért felelős személyek képzésének és továbbképzésének tartalmát,
 - c) az e-közigazgatásért felelős miniszter, hogy a szervezetek hatósági nyilvántartásba vételének rendjét
-- d) az e-közigazgatásért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a tanúsító hatósági eljárásért fizetendő igazgatási szolgáltatási díj mértékét, a díjak beszedésével, megosztásával, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
-- e) az e-közigazgatásért felelős miniszter, hogy a megfelelőségértékelő szervezetek által teljesítendő követelményeket
+- d) a honvédelemért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a 22/B. § (1) bekezdés b) pontja szerinti tanúsító hatóság eljárásért fizetendő igazgatási szolgáltatási díj mértékét, a díjak beszedésével, megosztásával, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
+- e) a honvédelemért felelős miniszter, hogy a hadiipari kutatás, fejlesztés, gyártás és kereskedelem tekintetében a megfelelőségértékelő szervezet által teljesítendő követelményeket
 
 rendeletben határozza meg.
 
-(3)
+(3) Felhatalmazást kap az SZTFH elnöke, hogy rendeletben meghatározza
+
+- a) a 22/B. § (1) bekezdés a) pontja szerinti tanúsító hatósági tevékenység eljárásrendjének, az engedélyezési eljárás, valamint a nyilvántartás részletes szabályait,
+- b) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a megfelelőségi önértékelésre, a tanúsítási eljárásra, valamint a megfelelőségértékelő szervezetek kötelezettségeire és azok tevékenységére vonatkozó részletes szabályokat,
+- c) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a megfelelőségértékelő szervezetek által teljesítendő követelményeket.
 
 #### 14. Hatálybalépés
 

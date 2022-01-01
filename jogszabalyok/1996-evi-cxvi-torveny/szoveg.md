@@ -53,7 +53,7 @@ a következő törvényt alkotja:
 - 27. nukleárisüzemanyag-ciklus: a nukleáris üzemanyag élettartamának valamennyi szakasza, beleértve a gyártást, hasznosítást, átmeneti tárolást, és a nukleárisüzemanyag-ciklus lezárását;
 - 28. nukleárisüzemanyag-ciklus lezárása: a kiégett üzemanyag hazai vagy külföldi radioaktívhulladék-tárolóban való végleges elhelyezése feldolgozás nélkül, vagy a kiégett üzemanyag előzetes feldolgozása és az ennek során keletkezett radioaktív hulladékok végleges elhelyezése hazai vagy külföldi radioaktívhulladék-tárolóban, beleértve a nukleárisüzemanyag-ciklus lezárására vonatkozó döntést műszaki szempontból megalapozó tevékenységet;
 - 29. nukleáris biztonság: megfelelő üzemeltetési feltételek megvalósítása, balesetek megelőzése, illetve a balesetek következményeinek enyhítése a nukleáris létesítmény, valamint a radioktívhulladék-tároló életciklusának valamennyi fázisában, amelyek eredményeként megvalósul a munkavállalóknak, a lakosságnak és a környezetnek a létesítmények ionizáló sugárzásából származó veszélyekkel szembeni védelme;
-- 30. nukleáris védettség: azon tevékenységek, eszközök és eljárások összessége, amelyek a szabotázs, a nukleáris vagy más radioaktív anyaggal elkövetett, a Büntető Törvénykönyv (a továbbiakban: Btk.) szerinti visszaélés, közveszélyokozás, környezetkárosítás, illetve jogtalan eltulajdonítás megelőzésére, észlelésére, elhárítására és következményeinek kezelésére irányulnak;
+- 30. nukleáris védettség: azon tevékenységek, eszközök és eljárások összessége, amelyek a szabotázs, a nukleáris vagy más radioaktív anyaggal elkövetett, a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) szerinti visszaélés, közveszélyokozás, környezetkárosítás, illetve jogtalan eltulajdonítás megelőzésére, észlelésére, elhárítására és következményeinek kezelésére irányulnak;
 - 31. fenyegetettség: az állam által elvégzett naprakész elemzésben feltárt, az atomenergia békés célú felhasználóit fenyegető veszély, cselekmény;
 - 32. tervezési alapfenyegetettség: a fenyegetettségnek az állam által meghatározott olyan szintje, amely ellen a hatékony fizikai védelmet az atomenergia alkalmazója biztosítja;
 - 33. fizikai védelem: azon belső szabályozás, technikai eszköztár és élőerős elhárítás összessége, amely a nukleáris védettség részeként a nukleáris létesítményekkel, valamint nukleáris és más radioaktív anyagokkal szemben elkövetendő jogtalan eltulajdonítás és szabotázs elrettentésére, észlelésére, késleltetésére és elhárítására irányul;
@@ -160,7 +160,7 @@ a következő törvényt alkotja:
 
 (3) Az Országgyűlés a nemzeti politikáról normatív országgyűlési határozatban rendelkezik.
 
-(4) A nemzeti politika és annak felülvizsgálata előkészítéséről az atomenergia-felügyeleti szerv felügyeletét ellátó miniszter (a továbbiakban: miniszter) gondoskodik.
+(4) A nemzeti politika és annak felülvizsgálata előkészítéséről az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) gondoskodik.
 
 (5) A nemzeti politika kidolgozása során az alábbi elveket kell érvényesíteni:
 
@@ -198,81 +198,216 @@ a következő törvényt alkotja:
 
 ### II. Fejezet — Az atomenergia alkalmazásának általános szabályai
 
-### Szabályozás és irányítás
+### Az atomenergia-felügyeleti szerv
 
-6. § (1) Az atomenergia biztonságos alkalmazásának irányítása és felügyelete a Kormány feladata.
+6. § (1) Az e törvényben foglalt feladatok végrehajtásáról az Országos Atomenergia Hivatal (a továbbiakban: atomenergia-felügyeleti szerv), valamint a 20. §-ban, a 22–26. §-ban és a 28. §-ban meghatározott miniszterek gondoskodnak.
 
-(2) Az e törvényben foglalt kormányzati feladatok végrehajtásáról a Kormány az Országos Atomenergia Hivatal (a továbbiakban: atomenergia-felügyeleti szerv), valamint a 20. §-ban, a 22–26. §-ban és a 28. §-ban meghatározott miniszterek útján gondoskodik.
+(2) Az atomenergia-felügyeleti szerv önálló szabályozó szerv, amely ellátja az e törvényben és más jogszabályban meghatározott feladatokat.
 
-(3) Az atomenergia-felügyeleti szervnél foglalkoztatott kormánytisztviselőre és kormányzati ügykezelőre a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
+(3) Az atomenergia-felügyeleti szerv feladatai ellátása során csak jogszabálynak van alárendelve. A feladatkörében nem utasítható, feladatát más szervektől elkülönülten, befolyásolástól mentesen látja el.
 
-6/A. § (1) Az atomenergia-felügyeleti szervnél foglalkoztatott felsőfokú iskolai végzettségű kormánytisztviselőt a közszolgálati jogviszonyban eltöltött idejének megfelelően a (2) bekezdésben meghatározott besorolási fokozatba, illetve – a (3) bekezdésben meghatározott esetekben az ott meghatározott – fizetési fokozatokba kell besorolni a Kttv. 118. §-a, 119. §-a, 120. § (1) bekezdése, 121. §-a és 122. §-a megfelelő alkalmazásával.
+(4) Az atomenergia-felügyeleti szerv illetékessége kiterjed az ország területére.
 
-(2) A kormánytisztviselő
+(5) Az atomenergia-felügyeleti szerv székhelye Budapest.
 
-- a) pályakezdőként gyakornok,
-- b) egy év közszolgálati jogviszonyban töltött idő után fogalmazó,
-- c) három év közszolgálati jogviszonyban töltött idő után tanácsos,
-- d) nyolc év közszolgálati jogviszonyban töltött idő után vezető tanácsos,
-- e) tizenhat év közszolgálati jogviszonyban töltött idő után főtanácsos,
-- f) huszonöt év közszolgálati jogviszonyban töltött idő után vezető főtanácsos
+(6) Az atomenergia-felügyeleti szerv fejezetet irányító szervi jogállással bíró központi költségvetési szerv, amelynek költségvetése az Országgyűlés költségvetési fejezetén belül önálló címet képez. A költségvetésének kiadási és bevételi főösszegei kizárólag az Országgyűlés által csökkenthetők.
 
-besorolást kap.
+6/A. § (1) Az atomenergia-felügyeleti szerv élén az elnök áll. Az elnököt a miniszterelnök kilenc évre nevezi ki. Az elnök egy alkalommal ismételten kinevezhető.
 
-(3) A (2) bekezdés a) és b) pontja szerinti besorolási fokozaton belül nincsenek fizetési fokozatok, a c)–f) pontja szerinti besorolási fokozat I. és II. fizetési fokozatokból áll. A tanácsos besorolású kormánytisztviselőt öt év kormányzati szolgálati jogviszonyban eltöltött idő után tanácsos II. fizetési fokozatba, a vezető tanácsos besorolású kormánytisztviselőt tizenkét év kormányzati szolgálati jogviszonyban töltött idő után vezető tanácsos II. fizetési fokozatba, a főtanácsos besorolású kormánytisztviselőt húsz év kormányzati szolgálati jogviszonyban töltött idő után főtanácsos II. fizetési fokozatba, a vezető főtanácsos besorolású kormánytisztviselőt harminc év kormányzati szolgálati jogviszonyban töltött idő után vezető főtanácsos II. fizetési fokozatba kell besorolni.
+(2) Az atomenergia-felügyeleti szerv két elnökhelyettesét az elnök kilenc évre nevezi ki. Az elnökhelyettes ismételten kinevezhető. Az elnökhelyettes felett a munkáltatói jogokat az elnök gyakorolja.
 
-(4) Az atomenergia-felügyeleti szervnél foglalkoztatott felsőfokú iskolai végzettségű kormánytisztviselő – felügyelői munkakörében – az atomenergia-felügyeleti szerv képzési rendje és az atomenergia-felügyeleti szerv főigazgatója által kijelölt vizsgabizottság előtt tett sikeres vizsga letétele után bízható meg a 15. § (1) bekezdése szerinti önálló ellenőrzési és intézkedési tevékenység ellátásával.
+(3) Az atomenergia-felügyeleti szerv elnöke (a továbbiakban: elnök) és elnökhelyettese (a továbbiakban: elnökhelyettes) a kinevezésében megjelölt időpontban lép munkába, ennek hiányában a munkába lépés napja a kinevezés közlését követő nap.
 
-6/B. § (1) Az atomenergia-felügyeleti szervnél foglalkoztatott felsőfokú iskolai végzettségű kormánytisztviselő alapilletménye
+(4) Az atomenergia-felügyeleti szerv elnökének, elnökhelyettesének és köztisztviselőinek közszolgálati jogviszonyára – az e törvényben foglalt eltérésekkel – a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény (a továbbiakban: Küt.) rendelkezéseit kell alkalmazni.
 
-- a) gyakornok esetében az illetményalap 4-szerese,
-- b) fogalmazó esetében az illetményalap 4,5-szerese,
-- c) tanácsos
-  - ca) I. fizetési fokozat esetében az illetményalap 5,5-szerese,
-  - cb) II. fizetési fokozat esetében az illetményalap 6-szorosa,
-- d) vezető tanácsos
-  - da) I. fizetési fokozat esetében az illetményalap 6,5-szerese,
-  - db) II. fizetési fokozat esetében az illetményalap 7-szerese,
-- e) főtanácsos
-  - ea) I. fizetési fokozat esetében az illetményalap 7,6-szerese,
-  - eb) II. fizetési fokozat esetében az illetményalap 7,9-szerese,
-- f) vezető főtanácsos
-  - fa) I. fizetési fokozat esetében az illetményalap 8,4-szerese,
-  - fb) II. fizetési fokozat esetében az illetményalap 8,6-szerese.
+6/B. § (1) Az elnök és elnökhelyettes tisztségére nem kell pályázatot kiírni. Elnöknek és elnökhelyettesnek olyan személy nevezhető ki, aki a Küt.-ben és az e törvényben foglalt követelményeken túl felsőfokú iskolai végzettséggel és
 
-(2) A vezető alapilletménye
+- a) legalább hároméves gyakorlattal rendelkezik az atomenergia alkalmazásával összefüggő tevékenységi területen, vagy
+- b) vezetői gyakorlattal rendelkezik a közigazgatásban.
 
-- a) osztályvezető esetében az illetményalap 8,6-szerese,
-- b) főosztályvezető-helyettes esetében az illetményalap 8,7-szerese,
-- c) főosztályvezető esetében az illetményalap 9-szerese.
+(2) Elnöknek és elnökhelyettesnek olyan személy nevezhető ki, aki a kinevezését megelőző egy évben nem töltött be munkavégzésre irányuló olyan jogviszonyt, amely jogviszony során a gazdasági társaság jogát vagy jogos érdekét az atomenergia-felügyeleti szerv döntése érintette.
 
-(3) A vezetői illetménypótlék mértéke
+(3) A Küt. 24. §-ában meghatározott feltételeken és a 11. § (3) bekezdésében foglaltakon túl nem lehet elnök vagy elnökhelyettes olyan személy, aki büntetlen előéletű, de akinek a büntetőjogi felelősségét a bíróság jogerős ítéletében megállapította
 
-- a) osztályvezető esetében az alapilletmény 20%-a,
-- b) főosztályvezető-helyettes esetében az alapilletmény 40%-a,
-- c) főosztályvezető esetében az alapilletmény 90%-a.
+- a) a 2013. június 30-ig hatályban volt, 1978. évi IV. törvényben meghatározott visszaélés szigorúan titkos és titkos minősítésű adattal, visszaélés bizalmas minősítésű adattal, visszaélés korlátozott terjesztésű minősítésű adattal, bűnpártolás, bűnszervezetben részvétel, az 1978. évi IV. törvény XVII. Fejezetében meghatározott gazdasági bűncselekmény, XVIII. Fejezetében meghatározott vagyon elleni bűncselekmény miatt,
+- b) a Btk. szerinti minősített adattal visszaélés, bűnszervezetben részvétel, a Btk. XXXV–XLIII. Fejezetében meghatározott bűncselekmény miatt vagy
+- c) olyan bűntett miatt, amelyet bűnszervezet keretében követett el, szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végrehajtandó szabadságvesztés esetén az elítéléshez fűződő hátrányos jogkövetkezmények alóli mentesítés (a továbbiakban: büntetőjogi mentesítés) beálltától számított tizenkét évig, szándékos bűncselekmény miatt kiszabott, öt évet el nem érő végrehajtandó szabadságvesztés esetén a büntetőjogi mentesítés beálltától számított tíz évig, szándékos bűncselekmény miatt kiszabott közérdekű munka vagy pénzbüntetés esetén a büntetőjogi mentesítés beálltától számított öt évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett szabadságvesztés esetén a büntetőjogi mentesítés beálltától számított nyolc évig, szándékos bűncselekmény miatt kiszabott, végrehajtásában felfüggesztett pénzbüntetés esetén a büntetőjogi mentesítés beálltától számított három évig.
 
-(4) A gyakornokot három, a fogalmazót négy, a tanácsost hat, a vezető tanácsost nyolc, a főtanácsost tíz, a vezető főtanácsost tizenegy munkanap pótszabadság illeti meg. A vezetői pótszabadság mértéke osztályvezetőnél tizenkettő, főosztályvezető-helyettesnél és főosztályvezetőnél tizenhárom munkanap.
+(4) Az elnöknek javasolt személy a miniszterelnök részére – a javaslat előterjesztését megelőzően – hatósági bizonyítvánnyal igazolja azt a tényt, hogy vele szemben nem áll fenn a (3) bekezdés és a Küt. 24. §-a alapján kizáró ok.
 
-(5) Az atomenergia-felügyeleti szerv alaptevékenységét elősegítő munkakörben foglalkoztatott, nem felsőfokú végzettségű kormánytisztviselő illetménykiegészítésének mértéke az alapilletmény 80%-a.
+(5) A miniszterelnök az elnököt kinevezésének időtartama alatt, az elnök az elnökhelyettest kinevezésének időtartama alatt írásban, a mulasztás jogkövetkezményének ismertetésével felhívhatja annak igazolására, hogy vele szemben nem áll fenn a (3) bekezdés, a 6/G. § és a Küt. 24. §-a szerinti kizáró ok.
 
-(6) Az atomenergia-felügyeleti szerv vezetője a minősítéssel, ennek hiányában teljesítményértékeléssel alátámasztott, kimagasló teljesítményt nyújtó kormánytisztviselőnek a személyi juttatás előirányzata terhére az e törvényben, illetve a Kttv.-ben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő személyi illetményt állapíthat meg. Személyi illetmény az atomenergia-felügyeleti szerv létszámának legfeljebb húsz százalékáig adható úgy, hogy adott év március 1-jétől a következő év február utolsó napjáig terjedő időszakra vonatkozó havi illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, az adott évet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset hatszorosát. A személyi illetmény megállapítása egy évig – az adott évet követő év február utolsó napjáig – érvényes.
+(6) Az (5) bekezdés szerinti felhívásra a felhívástól számított húsz napon belül – ha e határidőn belül a felhívott személyen kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul – az elnök, elnökhelyettes igazolja, hogy vele szemben nem áll fenn a (3) bekezdés, a 6/G. § és a Küt. 24. §-a szerinti kizáró ok. Az atomenergia-felügyeleti szerv az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány kiadása iránti eljárásért megfizetett igazgatási szolgáltatási díjat az igazolást benyújtó köztisztviselőnek megtéríti.
 
-(7) Az elfogadott költségvetési keretszámokon belül az atomenergia-felügyeleti szerv vezetője – a cafeteria-juttatás kivételével – saját hatáskörben maga határozza meg a szerv kormánytisztviselőinek béren kívüli juttatásait. Az atomenergia-felügyeleti szerv vezetője által adható jutalom mértékét és a béren kívüli juttatásokat szabályzatban kell meghatározni, amelyet az atomenergia-felügyeleti szerv felügyeletét ellátó miniszter hagy jóvá.
+(7) A miniszterelnök az elnöknek javasolt személy (4) bekezdés alapján megismert személyes adatait az elnök kinevezéséig kezeli.
 
-6/C. § (1) Az atomenergia-felügyeleti szerv főigazgatója államtitkári, főigazgató-helyettese helyettes államtitkári illetményre jogosult azzal, hogy a főigazgató vezetői illetménypótléka az alapilletményének 110%-a, a főigazgató-helyettes vezetői illetménypótléka az alapilletményének 100%-a.
+6/C. § (1) Az elnök havi illetménye a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 149. § (1) bekezdése szerinti havi bér 80%-a, az elnökhelyettes havi illetménye az elnök havi illetményének 90%-a.
 
-(2) A főigazgatót és a főigazgató-helyettest naptári évenként tizenöt munkanap pótszabadság illeti meg.
+(2) Az elnököt a miniszterrel, az elnökhelyettest a közigazgatási államtitkárral azonos juttatások illetik meg.
 
-(3) A Kttv. 84–87. §-ában és az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 23–24. §-ában meghatározott összeférhetetlenségi és együttalkalmazási tilalmak, valamint kizárási szabályok érvényesítését szolgáló további részletes eljárási szabályokat az atomenergia-felügyeleti szerv vezetője dolgozza ki, figyelemmel az atomenergia-ipar sajátosságaira is.
+(3) Az elnök és elnökhelyettes minden naptári évben az atomenergia-felügyeleti szerv szabályzatában meghatározott mértékű vezetői pótszabadságot jogosult igénybe venni.
+
+6/D. § (1) Az elnök jogviszonya megszűnik
+
+- a) a kinevezési időtartam leteltével,
+- b) halálával,
+- c) lemondásával, vagy
+- d) felmentésével.
+
+(2) Az elnök jogviszonyának megszűnését az (1) bekezdés a) és c) pontja esetén a miniszterelnök állapítja meg.
+
+(3) A miniszterelnök – a Küt. szerinti indokolási kötelezettség mellett – felmenti az elnököt,
+
+- a) ha az elnök a 6/G. § (1) bekezdése szerinti összeférhetetlenséget a kinevezését, illetve az összeférhetetlenség okának felmerülését követő 30 napon belül nem szünteti meg,
+- b) az ítélet jogerőre emelkedésének napjával, ha az elnökkel szemben lefolytatott büntetőeljárás eredményeként az elnök bűnösségét a bíróság jogerős ítélete állapította meg,
+- c) ha neki felróható okból, több mint hat hónapon át nem tesz eleget megbízatásából eredő feladatainak, vagy
+- d) a közszolgálati jogviszony létesítéséhez szükséges, az e törvényben vagy a Küt. 24. §-ában meghatározott feltételeknek nem felel meg.
+
+(4) A miniszterelnök felmentheti az elnököt, ha száznyolcvan napon túl – neki fel nem róható okból – nem képes eleget tenni a megbízatásából eredő feladatainak.
+
+(5) Az elnök lemondását írásban közli a miniszterelnökkel. Lemondás esetén a megbízatás megszűnésének időpontját a miniszterelnök határozza meg. A megbízatás megszűnésének időpontja nem lehet későbbi a lemondásnak a miniszterelnökhöz történő eljuttatását követő hatvanadik napnál. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges.
+
+6/E. § (1) Az elnökhelyettes megbízatása megszűnik
+
+- a) lemondással,
+- b) halálával,
+- c) az elnök általi (2) bekezdés szerinti felmentéssel,
+- d) az elnök általi (4) bekezdés szerinti visszahívással,
+- e) az elnök és az elnökhelyettes közös megegyezésével, vagy
+- f) a kinevezési időtartam lejártával.
+
+(2) Az elnök – a Küt. szerinti indokolási kötelezettség mellett – felmenti az elnökhelyettest,
+
+- a) ha a 6/G. § (1) bekezdése szerinti összeférhetetlenséget a kinevezését, illetve az összeférhetetlenség okának felmerülését követő 30 napon belül nem szünteti meg,
+- b) az ítélet jogerőre emelkedésének napjával, ha az elnökhelyettessel szemben lefolytatott büntetőeljárás eredményeként az elnökhelyettes bűnösségét a bíróság jogerős ítélete állapította meg,
+- c) ha neki felróható okból, több mint hat hónapon át nem tesz eleget megbízatásából eredő feladatainak, vagy
+- d) a közszolgálati jogviszony létesítéséhez szükséges, az e törvényben vagy a Küt. 24. §-ában meghatározott feltételeknek nem felel meg.
+
+(3) Az elnök felmentheti az elnökhelyettest, ha száznyolcvan napon túl – neki fel nem róható okból – nem képes eleget tenni a megbízatásából eredő feladatainak.
+
+(4) Az elnök visszahívással is megszüntetheti az elnökhelyettes megbízatását. A visszahívást nem kell indokolni.
+
+(5) Az elnök nem tehet javaslatot az őt követő olyan elnök személyére, valamint nem nevezhet ki olyan elnökhelyettest, aki a javaslattételt megelőző két évben a 6/G. § (1) bekezdés c) pontja szerinti szervezetnél az ott megjelölt vezető tisztséget töltött be.
+
+6/F. § (1) Az elnök jogviszonyának 6/D. § (1) bekezdés a) és c) pontja, valamint az elnökhelyettes jogviszonyának 6/E. § (1) bekezdés d) pontja szerinti megszűnése esetén a megszűnéskori havi illetménye kétszeresének megfelelő összegű végkielégítésre jogosult. Ha az elnök három évnél rövidebb ideig töltötte be tisztségét, úgy a (2) bekezdésben meghatározott tilalom a megbízatás megszűnésétől számított hat hónapig áll fenn, és ebben az esetben egyhavi illetménye illeti meg végkielégítésként.
+
+(2) Az elnök és elnökhelyettes jogviszonyának megszűnése után egy éven át, ide nem értve a többségi állami tulajdonban lévő gazdasági társaságokat,
+
+- a) nem létesíthet munkavégzésre irányuló jogviszonyt olyan gazdasági társasággal, valamint
+- b) nem szerezhet részesedést olyan gazdasági társaságban,
+
+amelynek jogát vagy jogos érdekét az atomenergia-felügyeleti szerv döntése a megbízatás megszűnését megelőző három évben érintette.
+
+(3) Az elnök és elnökhelyettes jogviszonyának megszűnése esetén a Küt. 45. § (2)–(5) bekezdése nem alkalmazható.
+
+(4) Ha az elnökhelyettes megbízatása a 6/E. § (1) bekezdés d) pontja szerint szűnik meg, a megbízatás megszűnésére a vezetői álláshelyről nem vezetői álláshelyre való helyezés esetére irányadó rendelkezéseket kell alkalmazni.
+
+6/G. § (1) Az elnök és az elnökhelyettes nem lehet
+
+- a) köztársasági elnök, a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, az Európai Parlament tagja,
+- b) helyi vagy megyei önkormányzati képviselő, kormánytisztviselő, párt országos vagy területi szervezetének tisztségviselője vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
+- c) az atomenergia-felügyeleti szerv felügyeleti jogkörébe tartozó vállalkozás vezető tisztségviselője, vezető testületének tagja, felügyelőbizottsági tagja,
+- d) olyan személy, aki az atomenergia-felügyeleti szerv felügyeleti jogkörébe tartozó gazdasági társasággal munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll,
+- e) olyan személy, aki az atomenergia-felügyeleti szerv felügyeleti jogkörébe tartozó gazdasági társaságban rendelkezik közvetlen vagy közvetett tulajdoni részesedéssel,
+- f) olyan gazdasági társaság közvetlen vagy közvetett – nyilvánosan működő részvénytársaság esetében öt százalékot meghaladó mértékű – tulajdonosa, illetve olyan gazdasági társaságnál foglalkoztatásra irányuló jogviszonyban álló személy, amely társaság a d) pontban meghatározott gazdasági társaságokkal megbízási vagy vállalkozási jogviszonyban áll,
+- g) olyan személy, aki az a) és b) pontok alá eső személynek a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Polgári Törvénykönyv) 8:1. § (1) bekezdés 1. pontja szerinti hozzátartozója (a továbbiakban: közeli hozzátartozó), illetve a d) pont alá eső, vezetői munkakört betöltő személy közeli hozzátartozója, valamint
+- h) olyan személy, aki a d) pontban foglaltakon kívül egyéb szervezettel, vállalkozással munkavégzésre irányuló jogviszonyban áll.
+
+(2) Az (1) bekezdés d) pontja vonatkozásában, a 6/H. § (1) bekezdésének figyelembevételével nem minősül összeférhetetlennek a tudományos, oktatói tevékenység végzésére, tudományos eredmények közzétételére, illetve tudományos ismeretterjesztésre vonatkozó munkavégzésre irányuló egyéb jogviszony.
+
+(3) Az elnök és az elnökhelyettes nem folytathat pártpolitikai tevékenységet, párt nevében nyilatkozatot nem tehet.
+
+(4) A kinevezéshez szükséges feltételek meglétének vizsgálatával, az igazolásra való felhívással, továbbá az összeférhetetlenségi okok bejelentésével és az összeférhetetlenség megszüntetésére való felhívással összefüggő jogkör gyakorlója az elnök tekintetében a miniszterelnök, az elnökhelyettes és a köztisztviselők tekintetében az elnök.
+
+(5) Az elnök személyi anyagának kezelését, valamint az elnök tekintetében a Küt. 68. §-a szerinti adatok nyilvántartását, továbbá az elnök foglalkoztatási jogviszonyával kapcsolatos ügyviteli feladatokat az e feladattal megbízott elnökhelyettes látja el.
+
+6/H. § (1) Az elnök, az elnökhelyettes, valamint a köztisztviselő további jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységre irányuló jogviszony, a közérdekű önkéntes tevékenység és a nevelőszülői foglalkoztatási jogviszony kivételével – nem létesíthet (a továbbiakban: összeférhetetlenség). A tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony és az állami projektértékelői jogviszony (a továbbiakban együtt: gyakorolható tevékenység) végzésére irányuló jogviszonyt, valamint a közérdekű önkéntes tevékenység végzésére irányuló jogviszonyt, annak létesítését megelőzően a munkáltatói jogkör gyakorlójának írásban be kell jelenteni, ha e jogviszony keretében végzett tevékenység a köztisztviselő álláshelyi feladataival közvetlenül összefügg.
+
+(2) Az elnök, elnökhelyettes és a köztisztviselő nem lehet gazdasági társaságnál vezető tisztségviselő, illetve felügyelőbizottsági tag, kivéve, ha a gazdasági társaság önkormányzati, köztestületi többségi tulajdonban, vagy alapítvány (közalapítvány) közvetlen vagy közvetett tulajdonában, vagy tartósan állami tulajdonban van, vagy az állami tulajdonos különleges jogokat biztosító részvény alapján delegálja, továbbá, ha a társaságban az állami közvetlen vagy közvetett befolyás mértéke – a tőkepiacról szóló 2001. évi CXX. törvény rendelkezései alapján számítva – legalább ötven százalék.
+
+(3) A köztisztviselő nem létesíthet és nem tarthat fenn tagsági viszonyt, munkaviszonyt vagy munkavégzéssel járó egyéb jogviszonyt, vezető tisztségviselői jogviszonyt vagy felügyelőbizottsági tagsági jogviszonyt az atomenergia-felügyeleti szerv feladat- és hatáskörébe tartozó felügyeleti tevékenységi körébe tartozó szervezettel. Az atomenergia-felügyeleti szerv köztisztviselője – az öröklés kivételével – nem szerezhet tulajdoni részesedést az atomenergia-felügyeleti szerv feladat- és hatáskörébe tartozó felügyeleti tevékenységi körébe tartozó szervezetnél.
+
+6/I. § (1) Az elnök, illetve elnökhelyettes összeférhetetlenségét az elnök esetében a miniszterelnök, az elnökhelyettes esetében az elnök állapítja meg.
+
+(2) Az atomenergia-felügyeleti szerv köztisztviselője a közszolgálati munkaszerződésének megkötésekor nyilatkozik a munkáltatói jogkör gyakorlójának az összeférhetetlenséggel kapcsolatos tényekről és a követelmények teljesüléséről, továbbá haladéktalanul írásban bejelenti a 6/H. § (3) bekezdése szerinti öröklés tényét. A köztisztviselő kinevezése előtt, illetve öröklés útján szerzett tulajdoni részesedését a kinevezéstől vagy az öröklés útján történő szerzéstől számított három hónapon belül köteles elidegeníteni.
+
+(3) Az atomenergia-felügyeleti szerv köztisztviselője a munkáltatói jogkör gyakorlójának haladéktalanul írásban bejelenti, ha a vele közös háztartásban élő közeli hozzátartozója a 6/H. § (2) és (3) bekezdésében meghatározott gazdasági társaságban vagy szervezetben tulajdonosi részesedéssel, tagsági viszonnyal, munkavégzéssel járó egyéb jogviszonnyal, vezető tisztségviselői vagy felügyelőbizottsági tagsági jogviszonnyal rendelkezik. E kötelezettsége teljesítéséig a köztisztviselő nem vehet részt olyan döntés előkészítésében és meghozatalában, amely az érintett szervezetre vonatkozik.
+
+6/J. § (1) Az elnök
+
+- a) vezeti az atomenergia-felügyeleti szervet,
+- b) képviseli az atomenergia-felügyeleti szervet,
+- c) megállapítja az atomenergia-felügyeleti szerv szervezetét, alaplétszámát, kiadmányozási rendjét, valamint a szervezeti és működési szabályzatában meghatározhatja az álláshelyek besorolási kategóriáit,
+- d) kiadja az atomenergia-felügyeleti szerv szervezeti és működési szabályzatát, a Küt. szerinti közszolgálati szabályzatát, valamint egyéb szabályzatait,
+- e) gyakorolja a különleges jogállású szerv vezetője számára a Küt.-ben meghatározott egyéb hatásköröket,
+- f) gyakorolja a munkáltatói jogokat az elnökhelyettes, valamint a köztisztviselők és munkavállalók felett, ellátja a Küt.-ben a hivatali szerv vezetője számára meghatározott feladatokat,
+- g) megállapítja az atomenergia-felügyeleti szervnél foglalkoztatottakra vonatkozó hivatásetikai alapelveket és az etikai, valamint a fegyelmi eljárásra vonatkozó részletszabályokat,
+- h) megállapítja az atomenergia-felügyeleti szervnél foglalkoztatottakra vonatkozó egyéb juttatásokra vonatkozó részletszabályokat,
+- i) az atomenergia-felügyeleti szerv költségvetése tekintetében ellátja mindazon feladatokat, amelyeket az államháztartásról szóló törvény a fejezetet irányító szerv vezetőjének hatáskörébe utal,
+- j) e törvényben kapott felhatalmazás alapján rendeletet ad ki,
+- k) a minősített adat védelméről szóló törvény rendelkezései alapján dönt az atomenergia-felügyeleti szerv tevékenysége során kezelt adatok minősítéséről,
+- l) évente beszámol az Országgyűlésnek az atomenergia-felügyeleti szerv munkájáról, illetve külön felkérésre tájékoztatást ad az Országgyűlés feladatkörrel rendelkező bizottságának,
+- m) részt vehet az Országgyűlés ülésein a feladatkörét érintő napirendi pontok tárgyalásán,
+- n) ellátja mindazokat a feladatokat, amelyeket törvény, törvény felhatalmazása alapján kiadott jogszabály vagy az atomenergia-felügyeleti szerv szervezeti és működési szabályzata a feladatkörébe utal,
+- o) együttműködési megállapodást köthet más állami szervekkel, tagállami felügyeleti hatóságokkal, társadalmi szervezetekkel, valamint
+- p) gondoskodik a 2006/117/Euratom tanácsi irányelv szerinti jelentéstételi kötelezettség teljesítéséről.
+
+(2) Az elnök törvényben, törvény felhatalmazása alapján kiadott jogszabályban meghatározott feladatainak ellátása során nem utasítható. Az elnök – az atomenergia-felügyeleti szerv törvényben meghatározott hatósági ügyei tekintetében – egyedi döntésre az atomenergia-felügyeleti szervnek utasítást nem adhat.
+
+(3) Az elnök az atomenergia-felügyeleti szerv feladatkörét érintő napirendi pontok tárgyalása esetén meghívásra a Kormány ülésén részt vesz.
+
+(4) Az elnökhelyettes feladatkörét a szervezeti és működési szabályzat állapítja meg.
+
+(5) Az atomenergia-felügyeleti szerv a honlapján közzéteszi
+
+- a) az Országgyűlés által jóváhagyott beszámolóját,
+- b) az elnökének egységes szerkezetbe foglalt rendeleteit, valamint
+- c) azokat az információkat, amelyek nyilvánosságra hozatalát jogszabály elrendeli.
+
+(6) Az (1) bekezdés l) pontja szerinti beszámolót a tárgyévet követő év május 31. napjáig kell teljesíteni.
+
+6/K. § (1) Az elnök át nem ruházható hatáskörében dönt az atomenergia-felügyeleti szerv illetménypolitikai alapelveiről és béren kívüli juttatásairól.
+
+(2) Az atomenergia-felügyeleti szerv és az atomenergia-felügyeleti szervnél foglalkoztatott köztisztviselők közszolgálati munkaszerződésben állapodnak meg a köztisztviselő illetményéről, a juttatásokról, a pótszabadság mértékéről, a napi munkaidőről és az általános munkarendről.
+
+6/L. § (1) Az elnök meghatározza az atomenergia-felügyeleti szerv feladatainak ellátásához szükséges álláshelyek rendszerét, a feladatok ellátásához szükséges erőforrások mennyiségét, továbbá az atomenergia-felügyeleti szerv szervezeti és működési szabályzatában kijelöli a 6/A. § (4) bekezdésébe nem tartozó azon álláshelyeket, amely álláshelyen foglalkoztatottak feladataikat munkaviszony keretében látják el.
+
+(2) Az elnök közszolgálati jogviszonyával összefüggő, e törvényben nem nevesített munkáltatói intézkedéseket az általános elnökhelyettes teszi meg.
+
+6/M. § (1) Az elnök, az elnökhelyettes, valamint az atomenergia-felügyeleti szervvel közszolgálati jogviszonyban vagy munkaviszonyban foglalkoztatott személy e jogviszony fennállása alatt és annak megszűnését követően is köteles az atomenergia-felügyeleti szerv tevékenységével, feladatának ellátásával kapcsolatban tudomására jutott korlátozottan megismerhető adatot, továbbá minden egyéb nem nyilvános adatot megőrizni, az ilyen adatot jogosulatlanul nem teheti közzé, nem hasznosíthatja, és nem hozhatja harmadik fél tudomására.
+
+(2) Az (1) bekezdés szerinti korlátozottan megismerhető adat – a közérdekből nyilvános adat kivételével – a hivatás gyakorlásához kötött titoknak vagy törvény által védett egyéb titoknak minősülő adat, a személyes adat és az olyan egyéb adat, amelynek megismerése az iratbetekintés során e törvény szerint korlátozott.
+
+6/N. § (1) Az atomenergia-felügyeleti szervnél közszolgálati jogviszonyban állók képzéséről és továbbképzéséről – a vezetőképzést is ideértve – az atomenergia-felügyeleti szerv maga gondoskodik. A képzésre és továbbképzésre vonatkozó részletszabályokat az atomenergia-felügyeleti szerv közszolgálati szabályzata határozza meg.
+
+(2) Az atomenergia-felügyeleti szervnél foglalkoztatott felsőfokú iskolai végzettségű köztisztviselő – felügyelői munkakörében – az atomenergia-felügyeleti szerv képzési rendje és az elnök által kijelölt vizsgabizottság előtt tett sikeres vizsga letétele után bízható meg a 15. § (1) bekezdése szerinti önálló ellenőrzési és intézkedési tevékenység ellátásával.
+
+(3) Az atomenergia-felügyeleti szervnél közszolgálati jogviszonyban állók teljesítményértékelésének és minősítésének rendjére, eljárására és szintjeire, a kiválasztási eljárásra, a kiválasztás rendjére és feltételeire, a pályáztatás rendjére, annak szervezésére és lebonyolítására vonatkozó részletes szabályokat az atomenergia-felügyeleti szerv közszolgálati szabályzata határozza meg.
 
 7. § (1) Meglévő nukleáris létesítmény és radioaktívhulladék-tároló tulajdonjogának megszerzéséhez és a használat bármilyen jogcímen való átengedéséhez a Kormány előzetes, elvi hozzájárulása szükséges.
 
 (2) Új nukleáris létesítmény és radioaktívhulladék-tároló létesítését, valamint meglévő atomerőmű további atomreaktort tartalmazó egységgel való bővítését előkészítő tevékenység megkezdéséhez az Országgyűlés előzetes, elvi hozzájárulása szükséges.
 
-8. § (1) Az atomenergia-felügyeleti szerv kormányzati főhivatal, felügyeletét a miniszter látja el. Az atomenergia-felügyeleti szerv döntéseit felügyeleti jogkörben megváltoztatni vagy megsemmisíteni nem lehet.
+8. § (1) Az atomenergia-felügyeleti szerv a feladatai ellátásával és a működésével összefüggő kiadásokat saját bevételeiből fedezi.
 
-(2) Az atomenergia-felügyeleti szerv bevételét – a bírságból származó bevételek kivételével – működésének fedezetére használja fel, az más célra nem vonható el.
+(1a) Az atomenergia-felügyeleti szerv bevételét képezi
+
+- a) a felügyeleti díj,
+- b) az atomenergia-felügyeleti szerv által kiszabott bírság,
+- c) az igazgatási szolgáltatási díj és
+- d) az egyéb bevétel.
+
+(1b) Az atomenergia-felügyeleti szerv bevételeiből évente – a bírságból származó bevétel kivételével – legfeljebb a tárgyévi bevétel 25%-ának megfelelő mértékig tartalékot képezhet. Az így képzett tartalék kizárólag az (1) bekezdés szerinti kiadásokra használható fel, az más célra nem vonható el.
+
+(1c) Az atomenergia-felügyeleti szerv kérelemre indult eljárásáért – jogszabály eltérő rendelkezése hiányában – igazgatási szolgáltatási díjat kell fizetni.
+
+(1d) Az atomenergia-felügyeleti szerv eljárásaiért fizetendő igazgatási szolgáltatási díj teljes összege az atomenergia-felügyeleti szerv saját bevétele, amelyet a működésével és működtetésével kapcsolatos kiadások fedezésére használ fel. Az előző évi bevételeiből származó maradványt az atomenergia-felügyeleti szerv a következő években felhasználhatja. A maradvány felhasználásáról az elnök dönt.
+
+(1e) Törvényben, törvény felhatalmazása alapján kiadott jogszabályban vagy törvény alapján az atomenergia-felügyeleti szerv határozatában megállapított, fizetendő díj és annak késedelmi kamata köztartozásnak minősül, és adók módjára kell behajtani.
+
+(1f) A (1a) bekezdés a)–c) pontja szerinti bevételek 30%-a a központi költségvetést illeti meg. A központi költségvetésről szóló törvény ennél alacsonyabb mértéket határozhat meg.
+
+(2) Az atomenergia-felügyeleti szerv bevételét – az (1f) bekezdés kivételével – működésének fedezetére használja fel, az más célra nem vonható el.
 
 (3) Az atomenergia-felügyeleti szerv évente jelentést készít a Kormánynak és az Országgyűlésnek az atomenergia hazai alkalmazásának biztonságáról, ideértve a 7. § (2) bekezdésében foglalt előkészítő tevékenységet is.
 
@@ -294,7 +429,7 @@ besorolást kap.
 - a)
 - b) rendelkezik a Központi Nukleáris Pénzügyi Alappal;
 - c) tájékoztatja az atomenergia-felügyeleti szervet a tevékenységét érintő kormánydöntésekről;
-- d) az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítja meg az atomenergia-felügyeleti szerv részére fizetendő igazgatási-szolgáltatási díjak mértékét.
+- d)
 
 (6)
 
@@ -542,7 +677,7 @@ ha ezeket a közigazgatási hatósági ügyeket az Ngtv. felhatalmazása alapjá
 
 (9) A (8) bekezdés c) pontjában meghatározott ügyintézési határidő indokolt esetben 30 nappal meghosszabbítható.
 
-13. § (1) A nukleáris létesítménnyel összefüggő hatósági engedélyezési eljárás során biztosítani kell a szakértőként eljáró személy vagy szervezet függetlenségét. Az egyes eljárásokban kirendelt vagy felkért szakértő vagy szakértő szervezet nem lehet az eljárásban érintett ügyfelek egyikének sem a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Polgári Törvénykönyv) 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozója, nem állhat semmilyen közvetlen vagy közvetett tulajdonosi kapcsolatban a kérelmezővel vagy annak vezető tisztségviselőivel, a hatósági eljárásban megjelölt technológiaszállítóval és nem vehet részt a szakvéleménnyel érintett dokumentumok, valamint azok kiegészítő és háttérdokumentumai kidolgozásában. Szakértő szervezet esetében a hozzátartozói kapcsolatot a szakértő szervezet vezető tisztségviselői és a 19/B. § (2a) bekezdése szerinti szakértői minősítéssel rendelkező személy tekintetében kell figyelembe venni.
+13. § (1) A nukleáris létesítménnyel összefüggő hatósági engedélyezési eljárás során biztosítani kell a szakértőként eljáró személy vagy szervezet függetlenségét. Az egyes eljárásokban kirendelt vagy felkért szakértő vagy szakértő szervezet nem lehet az eljárásban érintett ügyfelek egyikének sem a Polgári Törvénykönyv 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozója, nem állhat semmilyen közvetlen vagy közvetett tulajdonosi kapcsolatban a kérelmezővel vagy annak vezető tisztségviselőivel, a hatósági eljárásban megjelölt technológiaszállítóval és nem vehet részt a szakvéleménnyel érintett dokumentumok, valamint azok kiegészítő és háttérdokumentumai kidolgozásában. Szakértő szervezet esetében a hozzátartozói kapcsolatot a szakértő szervezet vezető tisztségviselői és a 19/B. § (2a) bekezdése szerinti szakértői minősítéssel rendelkező személy tekintetében kell figyelembe venni.
 
 (2) A nukleáris létesítmény nukleáris biztonságára lényeges hatással lévő tevékenység engedélyezése esetében a kérelmet megalapozó dokumentációt független műszaki szakértői értékelésnek kell alávetni. A független műszaki szakértői értékelést a kérelmező a hatósági eljárásban, az arra vonatkozó nukleáris biztonsági követelmények szerint nyújtja be az atomenergia-felügyeleti szervhez.
 
@@ -639,8 +774,8 @@ megadott engedélyek hatályának megszűnése esetén is fennáll.
 - d) a nyilvántartás vezetésére kötelezett természetes személy nevét és lakcímét vagy a nyilvántartás vezetésére kötelezett jogi személy vezetőjének nevét és címét,
 - e) a radioaktív anyag feltalálási helyét,
 - f) zárt sugárforrások esetében – ideértve a radioaktív hulladékká minősített zárt sugárforrásokat is – tulajdonosonként és birtokosonként és radionuklidonként a radioaktív anyagok engedélyezett maximális készletét, aktuális készletét, fajtáját, aktivitását és rendeltetését (a felhasználás és az alkalmazás engedélyezett formáját),
-- g) nyitott sugárforrások esetében – ide nem értve a radioaktív hulladékokat – a radioaktív anyagok nyilvántartásáról, ellenőrzéséről és a kapcsolódó adatszolgáltatásról szóló miniszteri rendeletben meghatározott leltárfelvételi periódusra vonatkoztatva tulajdonosonként és birtokosonként, valamint radionuklidonként a radioaktív anyagok mennyiségét, készletváltozását, felhasználását, fajtáját, eredeti aktivitását és rendeltetését,
-- h) radioaktív hulladékok esetében – ide nem értve a radioaktív hulladékká minősített zárt sugárforrásokat – a radioaktív anyagok nyilvántartásáról, ellenőrzéséről és a kapcsolódó adatszolgáltatásról szóló miniszteri rendeletben meghatározott leltárfelvételi periódusra vonatkoztatva a radioaktív hulladékok mennyiségét, készletváltozását és fajtáját tulajdonosonként és birtokosonként, radioaktív hulladék osztályonként, valamint amennyiben ismert, radionuklidonként.
+- g) nyitott sugárforrások esetében – ide nem értve a radioaktív hulladékokat – a radioaktív anyagok nyilvántartásáról, ellenőrzéséről és a kapcsolódó adatszolgáltatásról szóló, elnök által kiadott rendeletben meghatározott leltárfelvételi periódusra vonatkoztatva tulajdonosonként és birtokosonként, valamint radionuklidonként a radioaktív anyagok mennyiségét, készletváltozását, felhasználását, fajtáját, eredeti aktivitását és rendeltetését,
+- h) radioaktív hulladékok esetében – ide nem értve a radioaktív hulladékká minősített zárt sugárforrásokat – a radioaktív anyagok nyilvántartásáról, ellenőrzéséről és a kapcsolódó adatszolgáltatásról szóló, elnök által kiadott rendeletben meghatározott leltárfelvételi periódusra vonatkoztatva a radioaktív hulladékok mennyiségét, készletváltozását és fajtáját tulajdonosonként és birtokosonként, radioaktív hulladék osztályonként, valamint amennyiben ismert, radionuklidonként.
 
 (3b) A központi nyilvántartás nukleáris anyagok esetében tartalmazza továbbá:
 
@@ -768,7 +903,7 @@ végezhet.
 
 ### Sugárvédelmi képzettség és annak nyilvántartása
 
-16/C. § (1) Az atomenergia alkalmazási körébe tartozó tevékenységet az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló kormányrendeletben meghatározott sugárvédelmi képzettséggel rendelkező személy végezhet. Megfelelő sugárvédelmi képzettség szerezhető a jogszabály által előírt sugárvédelmi képzésen való részvétellel és eredményes vizsga letételével. A sugárvédelmi képzettséget időszakosan meg kell újítani.
+16/C. § (1) Az atomenergia alkalmazási körébe tartozó tevékenységet az elnök rendeletében meghatározott sugárvédelmi képzettséggel rendelkező személy végezhet. Megfelelő sugárvédelmi képzettség szerezhető a jogszabály által előírt sugárvédelmi képzésen való részvétellel és eredményes vizsga letételével. A sugárvédelmi képzettséget időszakosan meg kell újítani.
 
 (2) A sugárvédelmi képzés és továbbképzés teljesítéséről, a vizsgáztatásról jegyzőkönyvet kell felvenni. A vizsga sikeres teljesítését a képzés, továbbképzés szervezője által kiállított bizonyítvány igazolja. A jegyzőkönyvet, valamint a kiállított bizonyítványok (3) bekezdésben meghatározott adatait jogszabályban meghatározott határidőn belül az atomenergia-felügyeleti szervnek meg kell küldeni.
 
@@ -865,17 +1000,64 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (11) Üzleti titoknak minősül e törvény alkalmazásában minden olyan, az engedélyezési eljárásban felmerült adat, tény, információ, amelynek nyilvánosságra hozatala az engedélyes jogos érdekét – így különösen pénzügyi, gazdasági vagy piaci érdekét – sértené vagy veszélyeztetné, így különösen az engedélyezési eljárással érintett know-how, szellemi alkotás, találmány, illetve szabadalom körébe tartozó jog sérelmét okozná.
 
+17/A. § (1) Az atomenergia-felügyeleti szerv:
+
+- 1. ellátja az Európai Atomenergia Közösség, az Euratom kutatási-fejlesztési keretprogramjaiban való hazai részvétel összehangolását és a keretprogrammal kapcsolatos nemzeti kapcsolattartási pont feladatait;
+- 2. együttműködik a Nemzetközi Atomenergia Ügynökséggel, a Gazdasági Együttműködési és Fejlesztési Szervezet Nukleáris Energia Ügynökségével, az Európai Atomenergia Közösséggel, továbbá az atomenergia békés célú alkalmazása területén működő más nemzetközi és regionális kormányközi szervezetekkel;
+- 3. ellátja az atomenergia biztonságos alkalmazása terén kötött kormányközi egyezmények hazai végrehajtását szolgáló feladatokat;
+- 4. gondoskodik a hatáskörébe utalt nemzetközi, az atomenergia biztonságos alkalmazásával kapcsolatos kötelezettségek teljesítéséről:
+  - a) a nukleáris biztonsággal,
+  - b) a radioaktív hulladékok és kiégett üzemanyag biztonságos kezelésével,
+  - c) a nukleárisbaleset-elhárítással,
+  - d) a nukleáris védettséggel,
+  - e) a nukleáris fegyverek elterjedésének megakadályozásával, továbbá
+  - f) az atomkárért való felelősséggel
+
+összefüggésben;
+
+- 5. előkészíti a 4. pont a) és b) alpontjához kapcsolódó nemzetközi kötelezettség alapján teljesítendő nemzeti jelentéseket;
+- 6. előkészíti a 2009/71/Euratom tanácsi irányelv végrehajtásáról szóló jelentést;
+- 7. gondoskodik a nukleáris létesítmények nukleáris biztonsága folyamatos javítását szolgáló nemzetközi szakértői értékelés megkéréséről;
+- 8. gondoskodik a nukleáris létesítmények nukleáris biztonságát szolgáló jogszabályoknak és a hatáskörrel rendelkező hatóságoknak a 2009/71/Euratom tanácsi irányelv szerinti tagállami önellenőrzéséről;
+- 9. bejelenti az Európai Bizottságnak a nemzeti programot és annak jelentős módosítását;
+- 10. megadja az Európai Bizottság részére a nemzeti programmal kapcsolatban kért pontosítást, illetve tájékoztatást;
+- 11. tájékoztatja az Európai Bizottságot a nemzeti program felülvizsgálatáról;
+- 12. gondoskodik a kiégett üzemanyagok és a radioaktív hulladékok felelősségteljes és biztonságos kezelését szolgáló jogszabályok és hatáskörrel rendelkező hatóságok, valamint a nemzeti program és annak végrehajtása során a 2011/70/Euratom tanácsi irányelv szerinti tagállami önellenőrzéséről;
+- 13. előkészíti a 2011/70/Euratom tanácsi irányelv végrehajtásáról szóló jelentésnek a kiégett üzemanyagra vonatkozó részjelentését, valamint összeállítja a teljes jelentést;
+- 14. gondoskodik a kiégett üzemanyag és a radioaktív hulladék magas színvonalú biztonságos kezelése érdekét szolgáló nemzetközi szakértői értékelés megkéréséről;
+- 15. koordinálja a 2014/87/Euratom tanácsi irányelv szerinti, konkrét téma alapján végrehajtott szakértői felülvizsgálat nemzeti értékelését, elkészíti és közzéteszi a nemzeti jelentést, és intézkedéseket határoz meg a biztonság növelése érdekében;
+- 16. indokolatlan késedelem nélkül nemzetközi szakértői felülvizsgálatot kér olyan balesetek esetében, amelyek a telephelyen kívüli veszélyhelyzeti intézkedéseket vagy a lakosságot érintő védelmi intézkedéseket tesznek szükségessé;
+- 17. együttműködik a Nemzeti Akkreditáló Hatósággal az NBSZ. Kr. szerinti, az engedélyestől független, jogszabály szerint feljogosított ellenőrző szervezet akkreditálási eljárásának értékelő csoportjába történő, a nukleáris területen szakértelemmel rendelkező szakértők kirendelése kapcsán.
+
+(2) Az atomenergia-felügyeleti szerv gondoskodik az (1) bekezdés 6. és 13. pontja szerinti, az Európai Bizottság részére történő jelentéstételi kötelezettség teljesítéséről.
+
+(3) A nukleáris létesítmények engedélyesei, a radioaktív hulladékot és a kiégett üzemanyagot kezelő létesítmények engedélyesei információt és adatokat szolgáltatnak az atomenergia-felügyeleti szerv hatáskörébe utalt, az (1) bekezdés 5. és 15. pontja szerinti nemzetközi kötelezettség alapján teljesítendő nemzeti jelentések előkészítéséhez, valamint a 8. § (3) bekezdése szerint az atomenergia hazai alkalmazásának biztonságáról szóló, az Országgyűlésnek benyújtandó éves jelentéshez.
+
+(4) Az atomenergia-felügyeleti szerv az atomenergia biztonságos alkalmazásával kapcsolatos kötelezettségek alapján hatékony irányítási rendszert hoz létre és tart fenn, amelynek keretében az e törvényben meghatározott alapvető biztonsági célkitűzés elérése érdekében olyan intézkedéseket hoz, amelyek a szervezet minden szintjén elősegítik a kérdésfelvető és tanuló magatartást.
+
+17/B. § Az atomenergia-felügyeleti szerv jár el általános építésügyi hatóságként és általános építésfelügyeleti hatóságként
+
+- a) kutatóreaktor és oktatóreaktor biztonsági övezetében, egyéb nukleáris létesítmény biztonsági övezetével érintett ingatlanok esetében, illetve
+- b) biztonsági övezet kijelölése hiányában a nukleáris létesítmény telephelyvizsgálati és -értékelési engedélyében meghatározott tervezett telephelyével érintett ingatlanok esetében, valamint
+  - ba) kutatóreaktor, oktatóreaktor és nukleáris üzemanyagot vizsgáló laboratórium esetében a nukleáris létesítmény tervezett telephelyének határától számított százméteres távolságon belüli vagy azzal érintett ingatlanok esetében,
+  - bb) a ba) alpontban meghatározott nukleáris létesítmények kivételével a nukleáris létesítmény tervezett telephelyének határától számított ötszáz méteres távolságon belüli vagy azzal érintett ingatlanok esetében.
+
+17/C. § Az atomenergia-felügyeleti szerv jár el általános építésügyi hatóságként és általános építésfelügyeleti hatóságként
+
+- a) a radioaktívhulladék-tároló biztonsági övezetével érintett ingatlanok esetében, illetve
+- b) biztonsági övezet kijelölése hiányában a radioaktívhulladék-tároló telephelykutatási keretprogram engedélyében meghatározott tervezett telephelyén, valamint a tervezett telephelyének határától számított százméteres távolságon belüli vagy azzal érintett ingatlanok esetében.
+
 18. § A radioaktív anyagok, valamint az ionizáló sugárzást létrehozó berendezések, továbbá az üzemeltetésnek helyt adó létesítmény tulajdonjogának átruházására, a használat bármilyen jogcímen való átengedésére irányuló szerződést írásban kell megkötni.
 
 18/A. §
 
 18/B. § Nukleáris létesítmény, valamint radioaktív-hulladék tároló nukleáris biztonságát érintő hatósági ügyben, amennyiben hatásköri összeütközés merül fel az atomenergia-felügyeleti szerv és más engedélyezésre vagy ellenőrzésre jogosult hatóság között, a kijelölési eljárás befejezéséig az atomenergia-felügyeleti szerv jogosult és köteles eljárni.
 
-18/C. § Az atomenergia alkalmazásával összefüggő, a radioaktív anyagok szállításával, fuvarozásával és csomagolásával, radioaktív anyagok közúti szállításának engedélyezésével, ionizáló sugárzást létrehozó létesítményekkel, berendezésekkel, tevékenységekkel, eszköz, berendezés vagy az ionizáló sugárzás elleni védőeszköz sugárvédelmi minősítésével, sugárvédelmi képzéssel, személyi dozimetriai ellenőrzéssel és a belső sugárterhelés meghatározásával kapcsolatos, kérelemre lefolytatott eljárásért vagy jogszabályban meghatározott szolgáltatásért igazgatási szolgáltatási díjat kell fizetni.
+18/C. §
 
 ### Az atomenergia-felügyeleti szerv mérnöki, építészeti és építészeti-műszaki szakértői szakmagyakorlással kapcsolatos feladata
 
-18/D. § (1) Az atomenergia alkalmazására szolgáló építménnyel kapcsolatos építészeti-műszaki szakértői, építészeti tervezői, építészeti műszaki ellenőri és építész felelős műszaki vezetői tevékenységet végezhet, aki az atomenergia-felügyeleti szervnél igazolja e tevékenység gyakorlására való alkalmasságát, és aki az atomenergia-felügyeleti szerv e célból létrehozott nyilvántartásában szerepel. A szakmagyakorlásra alkalmasság megállapítását az engedélyes kérelmezi. A szakmagyakorlásra alkalmasság abban az esetben állapítható meg, ha képzettsége, szakképzettsége, továbbá nemzetközi tudományos elismertsége alapján alapos okkal feltételezhető, hogy a szakmagyakorlásra alkalmas. A szakmagyakorlás igazolásának, valamint a nyilvántartásba vétel részletes szabályait kormányrendelet állapítja meg.
+18/D. § (1) Az atomenergia alkalmazására szolgáló építménnyel kapcsolatos építészeti-műszaki szakértői, építészeti tervezői, építészeti műszaki ellenőri és építész felelős műszaki vezetői tevékenységet végezhet, aki az atomenergia-felügyeleti szervnél igazolja e tevékenység gyakorlására való alkalmasságát, és aki az atomenergia-felügyeleti szerv e célból létrehozott nyilvántartásában szerepel. A szakmagyakorlásra alkalmasság megállapítását az engedélyes kérelmezi. A szakmagyakorlásra alkalmasság abban az esetben állapítható meg, ha képzettsége, szakképzettsége, továbbá nemzetközi tudományos elismertsége alapján alapos okkal feltételezhető, hogy a szakmagyakorlásra alkalmas. A szakmagyakorlás igazolásának, valamint a nyilvántartásba vétel részletes szabályait az elnök által kiadott rendelet állapítja meg.
 
 (2) Az atomenergia-felügyeleti szerv a hatósági eljárásban irányadó adatkezelési szabályok szerint kezeli az (1) bekezdés szerinti eljárása során tudomására jutott adatokat azzal, hogy a nyilvántartás nyilvánosságára az építészeti, mérnöki, építészeti-műszaki tervezési szakmagyakorlás általános szabályai alapján vezetett nyilvántartási szabályok megfelelően alkalmazandók. A nyilvántartásba való betekintés harmadik személyek számára kizárólag nemzetközi szerződés kifejezetten erre irányuló rendelkezése alapján, vagy nemzetbiztonsági érdekből tagadható meg.
 
@@ -1021,7 +1203,7 @@ szükséges nukleáris biztonsági engedélyezés;
 
 25. § A környezetvédelemért felelős miniszter jogszabályban meghatározott módon látja el a levegő, a szárazföldi és a vízi környezet radioaktív szennyezésének ellenőrzését.
 
-26. § (1) A honvédelemért felelős miniszter a honvédelmi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes munkahelyen, azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, valamint az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságoknál – e törvény keretei között honvédelmi érdekből – eltérő követelményeket állapíthat meg.
+26. § (1) A honvédelemért felelős miniszter a honvédelmi szervezetnél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében vagy más jogviszony alapján a honvédelmi szervezet használatában lévő ingatlanon honvédelmi érdeket szolgáló, a munkavédelemről szóló 1993. évi XCIII. törvény 87. § 9. pontja szerinti szervezett munkavégzést folytató szervezetnél, a honvédelemért felelős miniszter hatósági jogkörébe tartozó, a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény alapján miniszteri rendeletben kijelölt gazdasági társaságoknál – e törvény keretei között honvédelmi érdekből – eltérő követelményeket állapíthat meg.
 
 (2) A 17. § (2) bekezdés 26–42. pontjában meghatározott hatásköröket az (1) bekezdés szerinti szervezetek vonatkozásában ellátó honvédelmi szervezet kijelöléséről, valamint a kijelölt honvédelmi szervezet által alkalmazandó – az Ákr.-t kiegészítő és attól eltérő – közigazgatási hatósági eljárás szabályairól e törvény végrehajtására kiadott kormányrendelet rendelkezik.
 
@@ -1272,6 +1454,8 @@ alkalmazásával kell megállapítani.
 
 járó költségeket.
 
+(2a) Az atomerőmű befizetésének meghatározását a nettó jelenérték számítás módszerével, 3%-os reáldiszkontráta alkalmazásával kell elvégezni úgy, hogy az (1) bekezdés szerinti befizetésből, a 64. § (2) bekezdése szerinti központi költségvetési értékállósági hozzájárulásból, valamint a 64. § (5) bekezdése szerinti felhalmozott vagyonból képzett összeg jelenértéke megegyezzen a jövőben jelentkező, (2) bekezdés szerinti költségek jelenértékével.
+
 (3) Az atomerőmű befizetésének éves mértékét a központi költségvetésről szóló törvény határozza meg a (2) bekezdésben foglalt kötelezettség figyelembevételével.
 
 (4) A Magyar Tudományos Akadémia által alapított költségvetési szerv, valamint felsőoktatási intézmény vagy központi költségvetésből finanszírozott más szerv által működtetett nukleáris létesítmény esetében a kiégett üzemanyag átmeneti elhelyezését szolgáló tároló létesítésével, üzemeltetésével, a nukleárisüzemanyag-ciklus lezárásával, valamint a nukleáris létesítmény leszerelésével és lebontásával és az annak következtében keletkező radioaktív hulladék végleges elhelyezésével kapcsolatos költségeket azok felmerülésekor kell befizetni a Központi Nukleáris Pénzügyi Alapba. A Központi Nukleáris Pénzügyi Alap javára történő befizetés forrását a központi költségvetés biztosítja a működtető intézmény éves költségvetésében.
@@ -1288,9 +1472,9 @@ járó költségeket.
 
 64. § (1) A Központi Nukleáris Pénzügyi Alap gazdálkodására az államháztartásról szóló törvény elkülönített állami pénzalapokra vonatkozó rendelkezéseit kell alkalmazni az e törvényben foglalt eltérésekkel.
 
-(2) A Központi Nukleáris Pénzügyi Alap az értékállóságának biztosítása érdekében az előző évi átlagos pénzállományra vetített, a jegybanki alapkamat előző évi átlagával számított összegű központi költségvetési támogatásban részesül.
+(2) A Központi Nukleáris Pénzügyi Alap az értékállóságának biztosítása érdekében az előző évi átlagos pénzállományra vetített, a Központi Statisztikai Hivatal által közölt, előző évi fogyasztói árindex három százalékponttal megnövelt mértékével számított összegű központi költségvetési értékállósági hozzájárulásban részesül.
 
-(3) A (2) bekezdésben foglalt összeget 2003-tól kezdve évente, január 31-ig kell a Központi Nukleáris Pénzügyi Alap rendelkezésére bocsátani.
+(3) A (2) bekezdésben foglalt összeget évente, havi egyenlő részletekben, az első részletet az adott év január 31-ig kell a Központi Nukleáris Pénzügyi Alap rendelkezésére bocsátani.
 
 (4) A Központi Nukleáris Pénzügyi Alap pénzeszközeit a kincstári egységes számlán elkülönítetten kell nyilvántartani.
 
@@ -1491,11 +1675,17 @@ a miniszterrel egyetértésben, rendeletben állapítsa meg.
 
 (9)
 
-(10) Felhatalmazást kap a honvédelemért felelős miniszter, hogy az atomenergia-felügyeleti szerv felügyeletét ellátó miniszter egyetértésével kiadott rendeletben állapítsa meg a honvédelmi szervezeteknél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területen honvédelmi érdeket is szolgáló telepített munkahelyen, illetve ideiglenes munkahelyen, azon gazdasági társaságoknál, amelyeknél a tulajdonosi jog gyakorlója a honvédelemért felelős miniszter, valamint az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságoknál az e törvényben meghatározottaktól eltérő követelményeket.
+(10) Felhatalmazást kap a honvédelemért felelős miniszter, hogy az energiapolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a honvédelmi szervezetnél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében vagy más jogviszony alapján a honvédelmi szervezet használatában lévő ingatlanon honvédelmi érdeket szolgáló, a munkavédelemről szóló 1993. évi XCIII. törvény 87. § 9. pontja szerinti szervezett munkavégzést folytató szervezetnél, a honvédelemért felelős miniszter hatósági jogkörébe tartozó, a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény alapján miniszteri rendeletben kijelölt gazdasági társaságnál az e törvényben meghatározottaktól eltérő követelményeket.
 
 (11) Felhatalmazást kap a Kormány tagja, hogy rendeletben állapítsa meg a feladatkörükbe tartozó tevékenységek az országos környezeti sugárvédelmi ellenőrző rendszer részére történő adatszolgáltatáshoz szükséges környezeti sugárvédelmi ellenőrző rendszerének, továbbá adatgyűjtő és szolgáltató központjának felépítését és működési szabályait.
 
 (12)
+
+### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
+
+68/A. § A 6. § (2)–(6) bekezdése, a 6/A–6/M. §, a 8. § (1)–(2) bekezdése, a 17/A–17/C. §, valamint a 68. § (12) bekezdése az Alaptörvény 23. cikk (1), (2) és (4) bekezdése alapján sarkalatosnak minősül.
+
+### Az Európai Unió jogának való megfelelés
 
 69. § Ez a törvény a nukleáris létesítmények nukleáris biztonsági közösségi keretrendszerének létrehozásáról szóló 2009. június 25-i 2009/71/EURATOM tanácsi irányelvnek való megfelelést szolgálja.
 
@@ -1551,25 +1741,25 @@ Befizetési kötelezettség zárt sugárforrások beszállítása esetén
 | 3 | 2.2. | Nukleáris létesítmény esetében. | A radioaktív anyagoknak a vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a vízi környezet radioaktív szennyeződése ellenőrzésének és a kibocsátási határértékeknek a vizsgálata alapján a hozzájárulás megadása és feltételeinek meghatározása az atomenergia alkalmazása során a levegőbe és vízbe történő radioaktív kibocsátásokról és azok ellenőrzéséről szóló miniszteri rendeletben meghatározottak szerint. | a) létesítési engedély, b) üzembe helyezési engedély, c) üzemeltetési engedély, d) tervezett üzemidőn túli üzemeltetéshez engedély, e) végleges leállítási engedély, f) leszerelési engedély, g) nukleáris létesítmény biztonsági övezetének kijelölése, felülvizsgálata. | környezetvédelmi és természetvédelmi hatáskörében eljáró Baranya Megyei Kormányhivatal |
 | 4 | 2.3. | Nukleáris létesítmény esetében, ha az engedélyezett tevékenység megváltoztathatja a nukleáris létesítmény vonatkozásában a kibocsátásokat, a kibocsátási határértékeket, a kibocsátási határértékek számításául szolgáló adatokat, a kibocsátások ellenőrzését, a környezetellenőrzést, a hőterhelést; a kibocsátásra kerülő radioaktív izotópok, illetve radioaktív anyagok vonatkozásában megváltoztatja a keletkezés helyét, módját, a keletkező aktivitásokat, a kibocsátás módját, útvonalát, a kibocsátott radioaktív anyag aktivitását, aktivitás-koncentrációját, fizikai-kémiai jellemzőit, a kibocsátás időbeli alakulását, a kibocsátás tömeg- és térfogatáramát vagy a tervezett kibocsátási szinteket és az üzemeltetési engedély megváltoztatásával jár. | A radioaktív anyagoknak a levegőbe történő kibocsátásának, valamint a levegő radioaktív szennyeződése ellenőrzésének és a kibocsátási határértékeknek a vizsgálata alapján a hozzájárulás megadása és feltételeinek meghatározása az atomenergia alkalmazása során a levegőbe és vízbe történő radioaktív kibocsátásokról és azok ellenőrzéséről szóló miniszteri rendeletben meghatározottak szerint. | nukleáris létesítmény átalakításának engedélyezése. | környezetvédelmi és természetvédelmi hatáskörében eljáró Baranya Megyei Kormányhivatal |
 | 5 | 2.4. | Nukleáris létesítmény esetében, ha az engedélyezett tevékenység megváltoztathatja a nukleáris létesítmény vonatkozásában a kibocsátásokat, a kibocsátási határértékeket, a kibocsátási határértékek számításául szolgáló adatokat, a kibocsátások ellenőrzését, a környezetellenőrzést, a hőterhelést; a kibocsátásra kerülő radioaktív izotópok, illetve radioaktív anyagok vonatkozásában megváltoztatja a keletkezés helyét, módját, a keletkező aktivitásokat, a kibocsátás módját, útvonalát, a kibocsátott radioaktív anyag aktivitását, aktivitás-koncentrációját, fizikai-kémiai jellemzőit, a kibocsátás időbeli alakulását, a kibocsátás tömeg- és térfogatáramát vagy a tervezett kibocsátási szinteket és az üzemeltetési engedély megváltoztatásával jár. | A radioaktív anyagoknak a vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a vízi környezet radioaktív szennyeződése ellenőrzésének és a kibocsátási határértékeknek a vizsgálata alapján a hozzájárulás megadása és feltételeinek meghatározása az atomenergia alkalmazása során a levegőbe és vízbe történő radioaktív kibocsátásokról és azok ellenőrzéséről szóló miniszteri rendeletben meghatározottak szerint. | nukleáris létesítmény átalakításának engedélyezése. | környezetvédelmi és természetvédelmi hatáskörében eljáró Baranya Megyei Kormányhivatal |
-| 6 | 2.5. | Nukleáris létesítmény esetében. | A nukleáris létesítmény telephelyének vizsgálatára és értékelésére, a telephelye jellemzőinek és alkalmasságának megállapítására, valamint tervezésére vonatkozó, földtani, bányászati és műszaki biztonsági követelményeknek való megfelelés vizsgálata. A nukleáris létesítmény építése során kitermelni tervezett ásványi nyersanyag mennyisége, fajtája, a felhasználás, hasznosítás módjának meghatározása, az ásványvagyon-védelmi szempontok érvényesítése, valamint a bányajáradék-fizetési kötelezettség megállapítása. | a) telephely vizsgálati és értékelési engedély, b) telephely engedély, c) létesítési engedély | bányafelügyeleti hatáskörében eljáró területileg illetékes megyei kormányhivatal |
+| 6 | 2.5. | Nukleáris létesítmény esetében. | A nukleáris létesítmény telephelyének vizsgálatára és értékelésére, a telephelye jellemzőinek és alkalmasságának megállapítására, valamint tervezésére vonatkozó, földtani, bányászati és műszaki biztonsági követelményeknek való megfelelés vizsgálata. A nukleáris létesítmény építése során kitermelni tervezett ásványi nyersanyag mennyisége, fajtája, a felhasználás, hasznosítás módjának meghatározása, az ásványvagyon-védelmi szempontok érvényesítése, valamint a bányajáradék-fizetési kötelezettség megállapítása. | a) telephely vizsgálati és értékelési engedély, b) telephely engedély, c) létesítési engedély | bányafelügyelet |
 | 7 | 2.6. | Nukleáris létesítmény esetében, ha az engedélyezésnek tűzvédelmi vagy katasztrófavédelmi vonzata van. | A nukleáris létesítményre, a nukleáris létesítmény rendszereire, rendszerelemeire vonatkozó tűz- és katasztrófavédelmi követelményeknek való megfelelés vizsgálata. | a) létesítési engedély, b) üzembe helyezési engedély, c) üzemeltetési engedély, d) átalakítási engedély, e) végleges leállítási engedély, f) Időszakos Biztonsági Jelentés hatósági felülvizsgálata | BM Országos Katasztrófavédelmi Főigazgatóság |
 | 8 | 2.7. | Nukleáris létesítmény építése (bontása) és használatbavétele esetén, ha annak tűzvédelmi vagy katasztrófavédelmi vonzata van. | A nukleáris létesítményre, a nukleáris létesítmény rendszereire, rendszerelemeire vonatkozó tűz- és katasztrófavédelmi követelményeknek való megfelelés vizsgálata. | a) építési (bontási) engedély, b) használatbavételi engedély | BM Országos Katasztrófavédelmi Főigazgatóság |
 | 9 | 2.8. | Nukleáris létesítmény esetében. | A tűzvédelem atomenergia alkalmazásával kapcsolatos sajátos követelményeiről és a hatóságok tevékenysége során azok érvényesítésének módjáról szóló jogszabályban meghatározott, a tűzvédelemre vonatkozó követelmények teljesülésének vizsgálata. | Időszakos Biztonsági Jelentés felülvizsgálata | területileg illetékes katasztrófavédelmi kirendeltség |
 | 10 | 2.9. | A nukleáris létesítményekkel összefüggő építmények és épületszerkezetek hatósági engedélyezésére irányuló eljárásban, ha annak tűzvédelmi vonzata van. | A tűzvédelem atomenergia alkalmazásával kapcsolatos sajátos követelményeiről és a hatóságok tevékenysége során azok érvényesítésének módjáról szóló jogszabályban meghatározott, a tűzvédelemre vonatkozó követelmények teljesülésének vizsgálata. | a) építési (bontási) engedély, b) használatbavételi engedély | területileg illetékes katasztrófavédelmi kirendeltség |
 | 11 | 2.10. | Nukleáris létesítmény telepítése termőföldön. | Termőföld mennyiségi védelme követelményeinek teljesülésének vizsgálata. | telephely vizsgálati és értékelési engedély | ingatlanügyi, földügyi igazgatási hatáskörében eljáró fővárosi és megyei kormányhivatal |
-| 12 | 2.11. | Nukleáris létesítmény esetében. | A nukleáris létesítmények mélységi biztonsági övezetének kijelöléséhez földtani, bányászati és műszaki biztonsági követelményeknek való megfelelés vizsgálata. | nukleáris létesítmény biztonsági övezetének kijelölése, felülvizsgálata | bányafelügyeleti hatáskörében eljáró megyei kormányhivatal |
+| 12 | 2.11. | Nukleáris létesítmény esetében. | A nukleáris létesítmények mélységi biztonsági övezetének kijelöléséhez földtani, bányászati és műszaki biztonsági követelményeknek való megfelelés vizsgálata. | nukleáris létesítmény biztonsági övezetének kijelölése, felülvizsgálata | bányafelügyelet |
 | 13 | 2.12. | Az atomenergiáról szóló törvény szerinti Időszakos Biztonsági Jelentés. | Annak elbírálása, hogy az Időszakos Biztonsági Jelentésnek a nukleáris létesítmény által a környezetben keltett hatásoknak vizsgálata vonatkozásában a hosszú távú környezeti tendenciák bemutatását, továbbá a környezeti sugárzás ellenőrző rendszer és program megfelelőségét, valamint a környezetnek a létesítmény üzemeltetéséből adódó sugárterhelését, a környezet-ellenőrző rendszer mért adatainak elemzését, az eredmények értékelését, a környezeti sugárzás-ellenőrző rendszer és a környezet-ellenőrzési program megfelelőségének értékelését tartalmazó részek megfelelnek-e a külön jogszabályban meghatározott környezetvédelmi és természetvédelmi követelményeknek. | Időszakos Biztonsági Jelentés felülvizsgálata és a feltárt eltérések jóváhagyása | környezetvédelmi és természetvédelmi hatáskörében eljáró Baranya Megyei Kormányhivatal |
 | 14 | 3.1. | Radioaktívhulladék-tároló esetében. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a levegő radioaktív szennyezés elleni védelmének, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi és természetvédelmi felügyelőség részére adandó jelentések rendszerének a meghatározása. | a) létesítési engedély, b) üzemeltetési engedély, c) lezárási engedély d) radioaktívhulladék- tároló biztonsági övezetének kijelölése, felülvizsgálata | környezetvédelmi és természetvédelmi hatáskörében eljáró Baranya Megyei Kormányhivatal |
 | 15 | 3.2. | Radioaktívhulladék-tároló létesítmény esetében, ha az engedélyezett tevékenység megváltoztathatja a létesítmény vonatkozásában a kibocsátásokat, a kibocsátási határértékeket, a kibocsátási határértékek számításául szolgáló adatokat, a kibocsátások ellenőrzését, a környezetellenőrzést, a hőterhelést; a kibocsátásra kerülő radioaktív izotópok, illetve radioaktív anyagok vonatkozásában megváltoztatja a keletkezés helyét, módját, a keletkező aktivitásokat, a kibocsátás módját, útvonalát, a kibocsátott radioaktív anyag aktivitását, aktivitás-koncentrációját, fizikai-kémiai jellemzőit, a kibocsátás időbeli alakulását, a kibocsátás tömeg- és térfogatáramát vagy a tervezett kibocsátási szinteket és az üzemeltetési engedély megváltoztatásával jár. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a levegő radioaktív szennyezés elleni védelmének, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi és természetvédelmi felügyelőség részére adandó jelentések rendszerének a meghatározása. | radioaktívhulladék-tároló létesítmény átalakításának engedélyezése | környezetvédelmi és természetvédelmi hatáskörében eljáró Baranya Megyei Kormányhivatal |
-| 16 | 3.3. | A radioaktívhulladék-tároló létesítmény esetében. | A radioaktívhulladék-tároló létesítmények telepítésére és tervezésére vonatkozó földtani, bányászati és műszaki biztonsági követelményeknek való megfelelés vizsgálata. A radioaktívhulladék-tároló létesítmények építése során kitermelni tervezett ásványi nyersanyag mennyisége, fajtája, a felhasználás, hasznosítás módjának meghatározása, az ásványvagyon-védelmi szempontok érvényesítése, valamint a bányajáradék-fizetési kötelezettség megállapítása. | a) telephely kutatási keretprogram engedély, b) (fázisonkénti) telephelykutatási engedély, c) telepítési engedély, d) létesítési engedély, e) üzemeltetési engedély, f) lezárási engedély | bányafelügyeleti hatáskörében eljáró megyei kormányhivatal |
-| 17 | 3.4. | A radioaktívhulladék-tároló létesítmény építményeire, valamint a létesítménnyel összefüggő építményre vonatkozó eljárásokban, ha annak földtani vonatkozása is van, illetve az építés során ásványi nyersanyagot termelnek ki. | A radioaktívhulladék-tároló létesítmények telepítésére és tervezésére vonatkozó földtani, bányászati és műszaki biztonsági követelményeknek való megfelelés vizsgálata. A radioaktívhulladék-tároló létesítmények építése során kitermelni tervezett ásványi nyersanyag mennyisége, fajtája, a felhasználás, hasznosítás módjának meghatározása, az ásványvagyon-védelmi szempontok érvényesítése, valamint a bányajáradék-fizetési kötelezettség megállapítása. | a) építési (bontási) engedély, b) használatbavételi engedély | bányafelügyeleti hatáskörében eljáró megyei kormányhivatal |
-| 18 | 3.5. | A radioaktívhulladék-tároló létesítmény átalakítása esetén, ha annak földtani vonatkozása is van, illetve az átalakítás során ásványi nyersanyagot termelnek ki. | A radioaktívhulladék-tároló létesítmények telepítésére és tervezésére vonatkozó földtani, bányászati és műszaki biztonsági követelményeknek való megfelelés vizsgálata. A radioaktívhulladék-tároló létesítmények átalakítása során kitermelni tervezett ásványi nyersanyag mennyisége, fajtája, a felhasználás, hasznosítás módjának meghatározása, az ásványvagyon-védelmi szempontok érvényesítése, valamint a bányajáradék-fizetési kötelezettség megállapítása. | radioaktív- hulladéktároló létesítmény átalakításának engedélyezése | bányafelügyeleti hatáskörében eljáró megyei kormányhivatal |
-| 19 | 3.6. | Radioaktívhulladék-tároló létesítmény esetében. | A radioaktívhulladék-tároló létesítmények telepítésére és tervezésére vonatkozó földtani, bányászati és műszaki biztonsági követelményeknek való megfelelés vizsgálata. | Időszakos Biztonsági Jelentés hatósági felülvizsgálata | bányafelügyeleti hatáskörében eljáró megyei kormányhivatal |
+| 16 | 3.3. | A radioaktívhulladék-tároló létesítmény esetében. | A radioaktívhulladék-tároló létesítmények telepítésére és tervezésére vonatkozó földtani, bányászati és műszaki biztonsági követelményeknek való megfelelés vizsgálata. A radioaktívhulladék-tároló létesítmények építése során kitermelni tervezett ásványi nyersanyag mennyisége, fajtája, a felhasználás, hasznosítás módjának meghatározása, az ásványvagyon-védelmi szempontok érvényesítése, valamint a bányajáradék-fizetési kötelezettség megállapítása. | a) telephely kutatási keretprogram engedély, b) (fázisonkénti) telephelykutatási engedély, c) telepítési engedély, d) létesítési engedély, e) üzemeltetési engedély, f) lezárási engedély | bányafelügyelet |
+| 17 | 3.4. | A radioaktívhulladék-tároló létesítmény építményeire, valamint a létesítménnyel összefüggő építményre vonatkozó eljárásokban, ha annak földtani vonatkozása is van, illetve az építés során ásványi nyersanyagot termelnek ki. | A radioaktívhulladék-tároló létesítmények telepítésére és tervezésére vonatkozó földtani, bányászati és műszaki biztonsági követelményeknek való megfelelés vizsgálata. A radioaktívhulladék-tároló létesítmények építése során kitermelni tervezett ásványi nyersanyag mennyisége, fajtája, a felhasználás, hasznosítás módjának meghatározása, az ásványvagyon-védelmi szempontok érvényesítése, valamint a bányajáradék-fizetési kötelezettség megállapítása. | a) építési (bontási) engedély, b) használatbavételi engedély | bányafelügyelet |
+| 18 | 3.5. | A radioaktívhulladék-tároló létesítmény átalakítása esetén, ha annak földtani vonatkozása is van, illetve az átalakítás során ásványi nyersanyagot termelnek ki. | A radioaktívhulladék-tároló létesítmények telepítésére és tervezésére vonatkozó földtani, bányászati és műszaki biztonsági követelményeknek való megfelelés vizsgálata. A radioaktívhulladék-tároló létesítmények átalakítása során kitermelni tervezett ásványi nyersanyag mennyisége, fajtája, a felhasználás, hasznosítás módjának meghatározása, az ásványvagyon-védelmi szempontok érvényesítése, valamint a bányajáradék-fizetési kötelezettség megállapítása. | radioaktív- hulladéktároló létesítmény átalakításának engedélyezése | bányafelügyelet |
+| 19 | 3.6. | Radioaktívhulladék-tároló létesítmény esetében. | A radioaktívhulladék-tároló létesítmények telepítésére és tervezésére vonatkozó földtani, bányászati és műszaki biztonsági követelményeknek való megfelelés vizsgálata. | Időszakos Biztonsági Jelentés hatósági felülvizsgálata | bányafelügyelet |
 | 20 | 3.7. | Radioaktívhulladék-tároló létesítmény esetében. | A tűzvédelem atomenergia alkalmazásával kapcsolatos sajátos követelményeiről és a hatóságok tevékenysége során azok érvényesítésének módjáról szóló rendeletben meghatározott, a tűzvédelemre vonatkozó követelmények teljesülésének vizsgálata. | Időszakos Biztonsági Jelentés hatósági felülvizsgálata | területileg illetékes katasztrófavédelmi kirendeltség |
 | 21 | 3.8. | Az atomenergiáról szóló törvény szerinti Időszakos Biztonsági Jelentés radioaktívhulladék-tárolók esetében. | Annak elbírálása, hogy az Időszakos Biztonsági Jelentésnek a radioaktív-hulladéktároló által a környezetben keltett hatásoknak vizsgálata vonatkozásában a hosszú távú környezeti tendenciák bemutatását, továbbá a környezeti sugárzás ellenőrző rendszer és program megfelelőségét, valamint a környezetnek a létesítmény üzemeltetéséből adódó sugárterhelését, a környezet-ellenőrző rendszer mért adatainak elemzését, az eredmények értékelését, a környezeti sugárzás-ellenőrző rendszer és a környezet-ellenőrzési program megfelelőségének értékelését tartalmazó részek megfelelnek-e a külön jogszabályban meghatározott környezetvédelmi és természetvédelmi követelményeknek. | Időszakos Biztonsági Jelentés felülvizsgálata és a feltárt eltérések jóváhagyása | környezetvédelmi és természetvédelmi hatáskörében eljáró Baranya Megyei Kormányhivatal |
 | 22 | 3.9. | A radioaktívhulladék-tároló létesítményekkel összefüggő építmények és épületszerkezetek hatósági engedélyezésére irányuló eljárásban, ha annak tűzvédelmi vonzata van. | A tűzvédelem atomenergia alkalmazásával kapcsolatos sajátos követelményeiről és a hatóságok tevékenysége során azok érvényesítésének módjáról szóló rendeletben meghatározott, a tűzvédelemre vonatkozó követelmények teljesülésének vizsgálata. | a) építési (bontási) engedély, b) használatbavételi engedély | területileg illetékes katasztrófavédelmi kirendeltség |
 | 23 | 3.10. | Radioaktívhulladék-tároló létesítmény esetében. | Az Időszakos Biztonsági Jelentésben a katasztrófavédelemre vonatkozó követelmények teljesülésének vizsgálata. | Időszakos Biztonsági Jelentés hatósági felülvizsgálata | BM Országos Katasztrófavédelmi Főigazgatóság |
-| 24 | 3.11. | Radioaktívhulladék-tároló esetében. | A radioaktívhulladék-tároló létesítmények mélységi biztonsági övezetének földtani, bányászati és műszaki biztonsági követelményeknek való megfelelés vizsgálata. | radioaktívhulladék-tároló biztonsági övezetének kijelölése, felülvizsgálata | bányafelügyeleti hatáskörében eljáró megyei kormányhivatal |
+| 24 | 3.11. | Radioaktívhulladék-tároló esetében. | A radioaktívhulladék-tároló létesítmények mélységi biztonsági övezetének földtani, bányászati és műszaki biztonsági követelményeknek való megfelelés vizsgálata. | radioaktívhulladék-tároló biztonsági övezetének kijelölése, felülvizsgálata | bányafelügyelet |
 | 25 | 3.12. | Radioaktívhulladék-tároló létesítmény telepítése termőföldön. | Termőföld mennyiségi védelme követelményeinek kérdésében. | telepítési engedély | ingatlanügyi, földügyi igazgatási hatáskörében eljáró fővárosi és megyei kormányhivatal |
 | 26 | 4.1. | Kiemelt létesítmények esetében. | Kiemelt létesítmények üzemeltetéséből adódó lakossági dózismegszorítás sugár-egészségügyi vizsgálata. | lakossági dózismegszorítás jóváhagyása | Nemzeti Népegészségügyi Központ |
 | 27 | 4.2. | Kiemelt létesítmények esetében, amennyiben a sugáregészségügyi szakkérdés az eljárásban érintett. | Az üzemeltető személyzetnek a kiemelt létesítmény üzemeltetéséből adódó sugárterheléssel szembeni védelme sugár-egészségügyi követelményeinek való megfelelés vizsgálata. | létesítményi Munkahelyi Sugárvédelmi Szabályzat jóváhagyása | Nemzeti Népegészségügyi Központ |
@@ -1586,7 +1776,7 @@ Befizetési kötelezettség zárt sugárforrások beszállítása esetén
 | 38 | 6.2. | Nukleáris létesítmény létesítéséhez szükséges, de az üzemeltetéséhez nem szükséges épületek, műtárgyak létesítése esetén, ha azok rendeltetése élelmiszer előállítást, élelmiszer-forgalmazást, illetve tárolást érint. | Az építmény élelmiszer előállítást (beleértve vendéglátás, közétkeztetés); élelmiszer-forgalmazást, illetve tárolást szolgáló részeinek élelmiszerlánc- biztonsági, illetve állategészségügyi megfelelőségének vizsgálata. | építési engedély, használatbavételi engedély | illetékes megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatala |
 | 39 | 6.3. | Nukleáris létesítmény létesítéséhez szükséges, de az üzemeltetéséhez nem szükséges épületek, műtárgyak létesítése esetén. | Munkavégzés céljára szolgáló építményrészek munka-egészségügyi megfelelőségének vizsgálata. | építési engedély, használatbavételi engedély | illetékes fővárosi és megyei kormányhivatal népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatala |
 | 40 | 6.4. | Nukleáris létesítmény létesítéséhez szükséges, de az üzemeltetéséhez nem szükséges épületek, műtárgyak létesítése esetén, ha az építés nyilvántartott vagy védetté nyilvánított régészeti lelőhelyet érint. | A kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen létesülő új épület, illetve a meglévő épület terepszint alatti vagy terepszintet is érintő bővítés örökségvédelmi megfelelőségének vizsgálata. | építési engedély, használatbavételi engedély | az örökségvédelmi hatáskörében eljáró fővárosi és megyei kormányhivatal |
-| 41 | 6.5. | Nukleáris létesítmény létesítéséhez szükséges, de az üzemeltetéséhez nem szükséges épületek létesítése esetén, ha az építmény építése során mélyalapozási technológiát alkalmaznak, vagy ha az építési tevékenység során több mint 500 m3 ásványi nyersanyag mennyiséget termelnek ki. | A létesülő új épületre vonatkozó földtani, bányászati és műszaki biztonsági követelményeknek való megfelelés vizsgálata. | építési engedély, b) használatbavételi engedély | bányafelügyeleti hatáskörében eljáró megyei kormányhivatal |
+| 41 | 6.5. | Nukleáris létesítmény létesítéséhez szükséges, de az üzemeltetéséhez nem szükséges épületek létesítése esetén, ha az építmény építése során mélyalapozási technológiát alkalmaznak, vagy ha az építési tevékenység során több mint 500 m3 ásványi nyersanyag mennyiséget termelnek ki. | A létesülő új épületre vonatkozó földtani, bányászati és műszaki biztonsági követelményeknek való megfelelés vizsgálata. | építési engedély, b) használatbavételi engedély | bányafelügyelet |
 | 42 | 6.6. | Nukleáris létesítmény létesítéséhez szükséges, de az üzemeltetéséhez nem szükséges épületek létesítésekor, zajra vagy rezgésre érzékeny építmények építése, elhelyezése, megszüntetése esetén a vasúti pálya vágányának tengelyétől számított 100 méteren belüli, egyéb nukleáris létesítmény létesítéséhez szükséges, de az üzemeltetéséhez nem szükséges építmény esetében 50 méteren belüli övezetben történő építési tevékenységnél. | Közlekedésből származó terhelések hatásainak, valamint a forgalomtechnikai és közlekedésbiztonsági megfelelőség vizsgálata. | építési engedély, használatbavételi engedély | közlekedésért felelős miniszter |
 | 43 | 6.7. | Nukleáris létesítmény célját szolgáló legalább 100 darab személygépkocsi vagy legalább 10 darab tehergépkocsi vagy autóbusz befogadására alkalmas parkoló, továbbá buszpályaudvar építése esetén. | Közlekedésből származó terhelések hatásainak, valamint a forgalomtechnikai és közlekedésbiztonsági megfelelőség vizsgálata. | építési és használatba vételi engedély | fővárosi és megyei kormányhivatal |
 | 44. | 7 | Minden esetben | a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata kérdésében | radioaktív anyag belvízi szállítása | BM Országos Katasztrófavédelmi Főigazgatóság |

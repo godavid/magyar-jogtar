@@ -218,7 +218,7 @@ azzal, hogy ha a magánszemély általános forgalmi adó fizetésére köteleze
 
 (2) A magánszemély az (1) bekezdésben meghatározott ekhoalap összegéből 15 százalék ekhót fizet. Ettől eltérően, ha a magánszemély az adóév 183 napját meghaladóan a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) szerint saját jogú nyugdíjas, az ekho mértéke 9,5 százalék. Ha a magánszemély nyugdíjas, e körülményről a kifizetést megelőzően nyilatkozhat.
 
-(3) A kifizető az (1) bekezdésben meghatározott ekhoalap összege után 15,5 százalék ekhót fizet.
+(3) A kifizető az (1) bekezdésben meghatározott ekhoalap összege után 13 százalék ekhót fizet.
 
 (4) A kifizető a magánszemélyt terhelő ekhot levonással állapítja meg, ideértve azt az esetet is, ha a kifizetést számla alapján – akár egyéni vállalkozónak, akár más magánszemélynek – teljesíti, kivéve, ha a magánszemély az 5. § (3) bekezdése szerinti nyilatkozatot tesz.
 

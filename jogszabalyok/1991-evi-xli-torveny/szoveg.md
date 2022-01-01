@@ -387,6 +387,8 @@ kezeli.
 
 (2) A közjegyzőjelölt és a közjegyzőhelyettes a közjegyzővel áll munkaviszonyban.
 
+(3) A közjegyző a 69. § (4) bekezdés szerinti első éves működési vizsgálat, vagy annak utóvizsgálata eredményes lezárását követően köthet egynél több személlyel közjegyzőhelyettesi munkakör betöltésére munkaszerződést.
+
 25/A. § (1) A közjegyzőhelyettes, a közjegyzőjelölt és a közjegyzői irodai ügyintéző egyidejűleg legfeljebb kettő, ugyanazon területi kamara illetékességi területén működő közjegyzővel vagy közjegyzői irodával létesíthet részmunkaidőben történő munkavégzésre irányuló munkaviszonyt (e fejezetben a továbbiakban: munkaviszony).
 
 (2) Az egyes munkaviszonyok önálló munkaszerződések megkötésével jönnek létre.
@@ -457,9 +459,9 @@ kezeli.
 
 (3) Közjegyző közös irodát csak közjegyzővel tarthat fenn.
 
-31/A. § (1) A közjegyző egyénileg vagy közjegyzői iroda keretében folytathatja tevékenységét.
+31/A. § (1) A közjegyző közjegyzői iroda keretében folytatja tevékenységét.
 
-(1a) A 2018. december 31. napját követően kinevezett közjegyző kizárólag közjegyzői iroda keretében folytathatja tevékenységét.
+(1a)
 
 (2) A közjegyzői iroda a közjegyzői tevékenység végzésének elősegítésére határozatlan időre alapított, jogi személyiséggel rendelkező szervezet.
 
@@ -467,9 +469,9 @@ kezeli.
 
 (4) A közjegyzői iroda tagja a közjegyzői irodában őt megillető vagyoni hányadot csak olyan személyre ruházhatja át, aki megfelel az e törvényben a közjegyzői iroda tagjára előírt feltételeknek és a területi kamara elnökségétől az irodai tagság létesítésére az engedélyt megkapta.
 
-(5) A közjegyző az egyénileg folytatott tevékenysége helyett a közjegyzői iroda alapító okiratának elfogadásával – az átalakulási eljárás lefolytatása nélkül – egyszemélyes vagy többtagú közjegyzői irodát alapíthat.
+(5)
 
-(6) Ha a közjegyző a tevékenységét közjegyzői iroda keretében folytatja, a közjegyzőhelyettes, a közjegyzőjelölt, a közjegyzői irodai ügyintéző és az egyéb irodai alkalmazott a közjegyzői irodával áll munkaviszonyban. Ha a közjegyzői irodát kettő vagy több közjegyző közösen tartja fenn, a közjegyzőhelyettes, a közjegyzőjelölt és a közjegyzői irodai ügyintéző tevékenységéért vagy mulasztásáért az a közjegyző felel, aki a közjegyzőhelyettesek és közjegyzőjelöltek kamarai névjegyzékében, illetve a közjegyzői irodai ügyintézők nyilvántartásában a közjegyzőhelyettest, közjegyzőjelöltet, illetve közjegyzői irodai ügyintézőt alkalmazó közjegyzőként feltüntetésre került.
+(6) A közjegyzőhelyettes, a közjegyzőjelölt, a közjegyzői irodai ügyintéző és az egyéb irodai alkalmazott a közjegyzői irodával áll munkaviszonyban. Ha a közjegyzői irodát kettő vagy több közjegyző közösen tartja fenn, a közjegyzőhelyettes, a közjegyzőjelölt és a közjegyzői irodai ügyintéző tevékenységéért vagy mulasztásáért az a közjegyző felel, aki a közjegyzőhelyettesek és közjegyzőjelöltek kamarai névjegyzékében, illetve a közjegyzői irodai ügyintézők nyilvántartásában a közjegyzőhelyettest, közjegyzőjelöltet, illetve közjegyzői irodai ügyintézőt alkalmazó közjegyzőként feltüntetésre került.
 
 31/B. § (1) Közjegyzői irodát természetes személyek alapíthatnak olyan módon, hogy a szavazati jog több mint 50%-át közjegyző tag (e címben a továbbiakban: közjegyző tag), a (3) bekezdésben foglalt esetben a közjegyző tagok együttesen gyakorolják, és vezető tisztségviselő is csak közjegyző tag lehet.
 
@@ -574,6 +576,8 @@ kezeli.
 
 (2) Helyettesként a távollevő közjegyzőével azonos területi kamaránál működő közjegyzőt, közjegyzőhelyettest, kivételesen nyugalmazott közjegyzőt vagy nyugalmazott bírót lehet kirendelni.
 
+(2a) Helyettesként az a közjegyző rendelhető ki, aki a 69. § (4) bekezdés szerinti első éves működési vizsgálaton, vagy annak utóvizsgálatán megfelelt, vagy aki a kinevezését megelőzően közjegyzőhelyettesként tartós helyettesi feladatot látott el és a tartós helyettesi működése során tartott működési vizsgálaton megfelelt.
+
 (3) A helyettes személyére a közjegyző, ennek hiányában, továbbá a felfüggesztés esetén a területi kamara elnöksége tesz javaslatot.
 
 33. § (1) A területi kamara elnöksége a közjegyző által javasolt személyt a közjegyző valamennyi jövőbeni távolléte esetére állandó helyettesként rendelheti ki (a továbbiakban: állandó helyettes).
@@ -621,7 +625,7 @@ kezeli.
 
 (2) Az állandó helyettesítés alatt a helyettesített közjegyző alkalmazásában álló közjegyzőhelyettes – az állandó helyettes utasítása és felelőssége mellett – eljárhat.
 
-(3) A tartós helyettesítés alatt a helyettesített közjegyző alkalmazásában álló közjegyzőhelyettes, közjegyzőjelölt, közjegyzői irodai ügyintéző, illetve ügyintéző – a tartós helyettes utasítása és felelőssége mellett – kizárólag a 34. § (1) bekezdés b) pontja és (2) bekezdése szerinti esetekben és kizárólag akkor járhat el, ha a helyettesített közjegyző és a tartós helyettes a helyettesített közjegyző közjegyzőhelyettesének, közjegyzőjelöltjének, közjegyzői irodai ügyintézőjének, illetve ügyintézőjének a tartós helyettes általi foglalkoztatásáról is megállapodott, vagy a tartós helyettest a helyettesített közjegyző közjegyzői irodájának helyettes irodavezetőjévé jelölték ki.
+(3) A tartós helyettesítés alatt a helyettesített közjegyző alkalmazásában álló közjegyzőhelyettes, közjegyzőjelölt, közjegyzői irodai ügyintéző, illetve ügyintéző – a tartós helyettes utasítása és felelőssége mellett – kizárólag a 34. § (1) bekezdés b) pontja és (2) bekezdése szerinti esetekben és akkor járhat el, ha a tartós helyettest a helyettesített közjegyző közjegyzői irodájának helyettes irodavezetőjévé jelölték ki.
 
 37. § (1) A helyettes minden ügyet ellát, aláírásához a helyettesítésre utaló toldatot fűz. Ha a helyettes közjegyző, a helyettesítés során az alkalmazásában álló közjegyzőhelyettes is eljárhat.
 
@@ -663,7 +667,7 @@ kezeli.
 
 (3) A 34. § (1) bekezdés b) pontja és (2) bekezdése szerinti tartós helyettesítés tartama alatt a helyettesített közjegyző munkavállalói felett a munkáltatói jogkört a tartós helyettes gyakorolja azzal, hogy a munkaviszony létesítéséről, illetve megszüntetéséről csak a területi kamara elnökének előzetes írásbeli engedélye alapján intézkedhet. A 34. § (1) bekezdés b) pontja és (2) bekezdése szerinti tartós helyettesítés időtartama alatt a helyettesített közjegyző alkalmazásában álló közjegyzőhelyettes és közjegyzőjelölt szakmai képzéséről – a helyettesített közjegyző irodájának a helyettes általi átvétele hiányában a helyettesített közjegyző költségére – a tartós helyettes gondoskodik. Az e bekezdésben foglaltakkal ellentétes megállapodás semmis.
 
-(4) Ha a helyettesített közjegyző közjegyzői iroda keretében működik és annak ő az irodavezetője, a tartós helyettesítési megállapodásban a felek megállapodhatnak arról is, hogy a tartós helyettes a helyettesített közjegyző irodáját átveszi. Ebben az esetben a területi kamara elnökségének az eljárására a 37/D. § (4) bekezdését kell megfelelően alkalmazni.
+(4) Ha a helyettesített közjegyző a közjegyzői iroda irodavezetője, a tartós helyettesítési megállapodásban a felek megállapodhatnak arról is, hogy a tartós helyettes a helyettesített közjegyző irodáját átveszi. Ebben az esetben a területi kamara elnökségének az eljárására a 37/D. § (4) bekezdését kell alkalmazni.
 
 (5) A tartós helyettesítési megállapodás megszűnik
 
@@ -680,11 +684,11 @@ kezeli.
 
 37/D. § (1) Tartós helyettesítés esetén a területi kamara elnöksége által jóváhagyott megállapodás hiányában az e §-ban foglalt rendelkezéseket kell alkalmazni.
 
-(2) A közjegyzői díj a tartós helyettest illeti. A tartós helyettes nem köteles a helyettesített közjegyző munkavállalóit foglalkoztatni. Ha a tartós helyettes mint közjegyző közjegyzői iroda keretében folytatja tevékenységét, akkor a helyettesítési tevékenységet is a közjegyzői irodája keretében folytatja. Ha a tartós helyettes nem közjegyző, a helyettesítési tevékenységet egyénileg folytathatja.
+(2)
 
-(3) Ha a helyettesített közjegyző közjegyzői iroda keretében működik és annak a helyettesített közjegyző az irodavezetője, a tartós helyettes a kirendelésről szóló okirat közlésétől számított 8 napon belül a területi kamara elnökségének nyilatkozhat arról, hogy a helyettesített közjegyző irodáját átveszi.
+(3) Ha a helyettesített közjegyző a közjegyzői iroda irodavezetője, a tartós helyettes a kirendelésről szóló okirat közlésétől számított 8 napon belül a területi kamara elnökségének nyilatkozik arról, hogy a helyettesített közjegyző irodáját átveszi.
 
-(4) A (3) bekezdésben említett esetben a területi kamara elnöksége hatósági eljárás keretében dönt a helyettesített közjegyző irodavezetői megbízásának megszüntetéséről és a tartós helyettest a helyettesített közjegyző irodájának irodavezetőjévé jelöli ki (a továbbiakban: helyettes irodavezető), és erről a cégbíróságot tájékoztatja. A helyettes irodavezetőre az irodavezetőre irányadó szabályokat kell alkalmazni, ebben az esetben a (2) bekezdésben foglaltak nem alkalmazhatóak. A helyettesítés megszűntével a területi kamara elnöksége hatósági eljárás keretében dönt a helyettes irodavezetői megbízásának megszüntetéséről és a helyettesített közjegyzőt a közjegyző irodája irodavezetőjévé jelöli ki, és erről a cégbíróságot tájékoztatja.
+(4) A (3) bekezdés szerinti esetben a területi kamara elnöksége hatósági eljárás keretében dönt a helyettesített közjegyző irodavezetői megbízásának megszüntetéséről és a tartós helyettest a helyettesített közjegyző irodájának irodavezetőjévé jelöli ki (a továbbiakban: helyettes irodavezető), és erről a cégbíróságot tájékoztatja. A helyettes irodavezetőre az irodavezetőre irányadó szabályokat kell alkalmazni. A helyettesítés megszűntével a területi kamara elnöksége hatósági eljárás keretében dönt a helyettes irodavezetői megbízásának megszüntetéséről és a helyettesített közjegyzőt a közjegyző irodája irodavezetőjévé jelöli ki, és erről a cégbíróságot tájékoztatja.
 
 (5) A (4) bekezdés alkalmazása esetén a helyettesítés időtartama alatt keletkezett adózott eredmény – a helyettesített közjegyző társasági részesedésére eső mértékben – a tartós helyettest illeti meg. A helyettest továbbá a 10 éve szolgálatban lévő törvényszéki bíró alapilletménye és címpótléka összegének megfelelő mértékű munkabér illeti meg.
 
@@ -1628,7 +1632,9 @@ amely feltételek bekövetkezését az országos elnök ideiglenes intézkedésk
 - f) előzetesen tájékoztassa a személyazonosság ellenőrzésével érintett személyt az ellenőrzés céljáról, módjáról és tartalmáról, a közjegyzői közreműködés megtagadásának kötelezettségéről és a 122. § (8) bekezdésében megjelölt bejelentési kötelezettségéről, valamint az ellenőrzés során megismert adatok kezeléséről,
 - g) ha a fél a közjegyzői okirat felolvasásánál, aláírásánál képviselő útján jár el, meggyőződjék a fél képviselőjének képviseleti jogosultságáról.
 
-(2) A tervezeten eszközölt változtatás és kiegészítés szövegének kivételével mellőzhető a felek által rendelkezésre bocsátott írásbeli tervezet felhasználásával készített közjegyzői okirat felolvasása, ha a jogi képviselővel eljáró jogi személy felek a közjegyző előtt együttesen kijelentik, hogy az okirat tervezetét megismerték és ezért kérik az okirat felolvasásának mellőzését. A felolvasás mellőzése nem érinti a közjegyzői okirat készítésével kapcsolatban előírt egyéb kötelezettségek teljesítését. Nincs lehetőség a felolvasás mellőzésére, ha a felek bármelyike a 124. § a)–c) pontjában megjelölt személy.
+(2) A tervezeten eszközölt változtatás és kiegészítés szövegének kivételével mellőzhető a felek által rendelkezésre bocsátott írásbeli tervezet felhasználásával készített közjegyzői okirat felolvasása, ha a jogi képviselővel eljáró jogi személy felek a közjegyző előtt együttesen kijelentik, hogy az okirat tervezetét megismerték és ezért kérik az okirat felolvasásának mellőzését. A felolvasás mellőzése nem érinti a közjegyzői okirat készítésével kapcsolatban előírt egyéb kötelezettségek teljesítését. Nincs lehetőség a felolvasás mellőzésére, ha a felek jogi képviselőjének bármelyike a 124. § a)–c) pontjában megjelölt személy.
+
+(3) Ha a közjegyzői okirat felolvasása egy napon nem lehetséges, az okiratnak tartalmaznia kell a felolvasás napjait, valamint a felolvasás megszakításának és folytatásának időpontját is óra, perc pontossággal.
 
 121. § A közjegyzői okirat elkészítésénél aggályos körülménynek kell tekinteni különösen, ha a fél a közjegyzői okiratba olyan rendelkezés felvételét kéri, amely jogvita keletkezéséhez vezethet, vagy amelynek nincs joghatása.
 
@@ -1696,9 +1702,9 @@ ellenőrzése céljából megkeresi a személyiadat- és lakcímnyilvántartást
 
 126. § (1) Az ügyleti tanúk általában a közjegyzői okirat felolvasásánál és aláírásánál vannak jelen.
 
-(2) A fél kérheti, hogy az ügyleti tanúk csak a közjegyzői okirat aláírásánál legyenek jelen; ilyenkor a fél a tanúk előtt kijelenti, hogy a közjegyzői okirat felolvasása megtörtént, illetőleg kérte a közokirat felolvasásának mellőzését, az okirat tartalma az akaratával megegyező, és az okiratot a tanúk jelenlétében aláírja. Mindezeknek az okiratból ki kell tűnniük.
+(2) A fél – képviselő útján történő eljárás esetén a képviselő – kérheti, hogy az ügyleti tanúk csak a közjegyzői okirat aláírásánál legyenek jelen; ilyenkor a fél – képviselő útján történő eljárás esetén a képviselő – a tanúk előtt kijelenti, hogy a közjegyzői okirat felolvasása megtörtént vagy kérte a közokirat felolvasásának mellőzését, az okirat tartalma a fél akaratával megegyező, és az okiratot a tanúk jelenlétében aláírja. Mindezeknek az okiratból ki kell tűnniük.
 
-(3) Ha a fél – képviselő útján történő eljárás esetén a képviselő – vak, az ügyleti tanúk jelenléte a közjegyzői okirat készítésének teljes ideje alatt kötelező.
+(3) Ha a fél – képviselő útján történő eljárás esetén a képviselő – vak, az ügyleti tanúk jelenléte a közjegyzői okirat felolvasásánál és aláírásánál is kötelező.
 
 127. § A közjegyzői okirat készítésekor
 
@@ -1740,7 +1746,7 @@ kommunikálhat.
 
 131. § (1) Nem tekinthető közokiratnak az az okirat, amelyet a közjegyző a 12. §-ban, valamint a 120–129. §-ban foglaltak megsértésével vagy elmulasztásával készített.
 
-(2) A 115. §-ban és 130. §-ban foglalt adatok hiánya nem vonja maga után a közjegyzői okirat közokirati jellegének elvesztését.
+(2) A 115. §-ban és a 130. §-ban foglaltak hiánya nem vonja maga után a közjegyzői okirat közokirati jellegének elvesztését.
 
 (3) A 120. § (1) bekezdés a), b), d), e), f) és g) pontjában, a 122. §-ban, a 123. §-ban, a 128/A. §-ban, valamint a 129. § e), f) és g) pontjában foglaltak megsértésére a fél a közjegyzői okirat keltétől számított 5 éven belül hivatkozhat, e határidő elmulasztása jogvesztéssel jár.
 
@@ -1779,7 +1785,7 @@ kommunikálhat.
 
 (2) A tanúsítvány kiállítása esetén a törvénynek a közjegyzői okiratokra vonatkozó általános szabályait kell megfelelően alkalmazni azzal, hogy a közjegyző felelőssége a tanúsítvány mint közokirat alakiságának megtartásáért és a tanúsítvány tartalmi valódiságáért áll fenn. A közjegyző a tanúsítvány készítésénél nem köteles segédszemélyeket igénybe venni.
 
-(2a) A félnek a tanúsítványt – ha jogszabály eltérően nem rendelkezik – nem kell aláírnia.
+(2a) A félnek, képviselő útján történő eljárás esetén a képviselőnek a tanúsítványt – ha jogszabály eltérően nem rendelkezik – nem kell aláírnia.
 
 (3) A személyazonosítással érintett személy személyazonosságának elektronikus úton történő adatigényléssel való ellenőrzése mellőzhető az (1) bekezdés a) és b), d)–i) pontja szerinti ténytanúsítás esetén, kivéve, ha
 
@@ -1875,6 +1881,8 @@ kommunikálhat.
 
 (3) A közjegyző a tanúsítványban feltünteti a közhitelességű nyilvántartásba történt betekintés napját, vagy ha a tanúsítványt a nyilvántartást vezető szerv által kiállított hiteles kivonat vagy másolat alapján állítja ki, annak keltét.
 
+(4) A hitelesítési záradékban csak a fél írásbeli kérésére kell feltüntetni az eljárást kezdeményező fél, illetve képviselője adatait.
+
 146/A. § (1) A közjegyző előtt külföldi eljárásban történő felhasználás céljára peren kívüli esküt vagy fogadalmat (a továbbiakban e §-ban együtt: eskü) lehet tenni. Az esküvel a fél azt erősíti meg, hogy az eskü szövegét tartalmazó okiratban (a továbbiakban: esküokmány) foglaltak a valóságnak vagy akaratának megfelelnek.
 
 (2) A közjegyző az eskü tételét az esküokmány esküt tartalmazó részének esküt tevő általi felolvasását vagy az esküokmányra vonatkozó eskü esküt tevő által történő szóbeli előadását követően az esküokmányra vezetett vagy ahhoz fűzött záradékkal tanúsítja. A záradék készítésére a 139. § rendelkezéseit megfelelően alkalmazni kell.
@@ -1885,7 +1893,7 @@ kommunikálhat.
 
 147. § Az a közjegyző, aki idegen nyelven okirat készítésére jogosult, ezen a nyelven tanúsítványt is kiállíthat.
 
-147/A. § Nem tekinthető közokiratnak az a tanúsítvány, amelyet a közjegyző a 136–147. §-ban foglaltak megsértésével készített.
+147/A. § Nem tekinthető közokiratnak az a tanúsítvány, amelyet a közjegyző a 136–147. §-ban foglaltak megsértésével vagy elmulasztásával készített.
 
 ### Hiteles kiadmány, másolat, kivonat és bizonyítvány kiadása
 
@@ -1945,17 +1953,17 @@ kommunikálhat.
 
 161. § A 158—160. §-okat megfelelően alkalmazni kell a váltó, továbbá az információhordozók átvételére és visszaadására is.
 
-161/A. § (1) A végrendelkező a magánvégrendeletét nyíltan vagy a közjegyző által borítékba zárva letétbe helyezheti a közjegyzőnél azzal a kijelentéssel, hogy az okirat a végrendeletét tartalmazza. A letétbe helyezésről a közjegyző jegyzőkönyvet készít, amely a 159. § a)–c) pontjában foglaltakat tartalmazza. Az átvett végrendeletet a jegyzőkönyvhöz kell fűzni.
+161/A. § (1) A személyesen eljáró végrendelkező a magánvégrendeletét nyíltan vagy a közjegyző által borítékba zárva letétbe helyezheti a közjegyzőnél azzal a kijelentéssel, hogy az okirat a végrendeletét tartalmazza. A letétbe helyezésről a közjegyző jegyzőkönyvet készít, amely a 159. § a)–c) pontjában foglaltakat tartalmazza. Az átvett végrendeletet a jegyzőkönyvhöz kell fűzni.
 
 (2) A közjegyző a végrendelet átvételéről a félnek elismervényt ad, és a végrendeletet elzárva őrzi. A közjegyző a végrendelet megőrzéséért felel.
 
-161/B. § (1) A közjegyző – a letevőnek vagy az erre a célra adott meghatalmazással rendelkező, 132. § szerinti meghatalmazottjának kérésére – a nála letett végrendeletet visszaadja.
+161/B. § (1) A közjegyző a személyesen eljáró letevőnek a kérésére a nála letett végrendeletet visszaadja.
 
 (2) A közjegyző a végrendelet visszaadásáról jegyzőkönyvet készít, amelynek hiteles kiadmányát a végrendelet letétbe helyezéséről szóló eredeti jegyzőkönyvhöz fűzi.
 
-(3) A közjegyző a felet tájékoztatja arról, hogy a végrendeletre visszaadása után a Polgári Törvénykönyv 7:17. § (1) bekezdésének c) pontjában foglaltak nem alkalmazhatóak, és ezt a jegyzőkönyvben feltünteti.
+(3) A közjegyző a felet tájékoztatja a Polgári Törvénykönyv 7:44. §-ában foglaltakról, valamint arról, hogy a végrendeletre a visszaadása után a Polgári Törvénykönyv 7:17. § (1) bekezdés c) pontjában foglaltak nem alkalmazhatóak, és ezt a jegyzőkönyvben feltünteti. A végrendelet visszavétele esetén a közjegyző a végrendeleten feltünteti a letétel és visszavétel tényét és időpontját.
 
-(4) A közjegyzői okiratba foglalt végintézkedést, az egyéb, halál esetére szóló rendelkezést tartalmazó közjegyzői okiratot, valamint a végrendelet közjegyzőnél történő letételének tényét a közjegyző köteles bevezetni a Végrendeletek Országos Nyilvántartásába az okirat elkészítését vagy a letétbe helyezést követő 72 órán belül.
+(4) A közjegyzői okiratba foglalt végintézkedést, az egyéb, halál esetére szóló rendelkezést tartalmazó közjegyzői okiratot, valamint a végrendelet közjegyzőnél történő letételének, valamint visszavételének tényét a közjegyző köteles bevezetni a Végrendeletek Országos Nyilvántartásába az okirat elkészítését vagy a letétbe helyezést, illetve a visszavételt követő 72 órán belül.
 
 (5) A Végrendeletek Országos Nyilvántartása tartalmazza a végintézkedő nevét, születési nevét, születési helyét és idejét, anyja születési nevét, valamint a végintézkedés egyedi azonosításához szükséges adatokat.
 
@@ -2067,6 +2075,8 @@ kommunikálhat.
 
 (2) A közjegyző az (1) bekezdésben rögzítetten túlmenően jogi képviseletet nem láthat el.
 
+175/A. § Ingatlan-nyilvántartási bejegyzés alapjául szolgáló jognyilatkozat közokiratba foglalása iránti eljárásban a közjegyző szóban tájékoztatja a feleket a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 20/P. §-a szerinti adatváltozás-kezelési szolgáltatás igénybevételének lehetőségéről.
+
 ## NEGYEDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
 ### XIV. Fejezet — A TÖRVÉNY HATÁLYBALÉPÉSE ÉS VÉGREHAJTÁSA
@@ -2134,6 +2144,8 @@ kommunikálhat.
 (13) A 18. § (4) bekezdése szerint közzétett területi kamarai tájékoztatás alapján benyújtott áthelyezési kérelem elbírálásának akkor van helye, ha a területi kamarai tájékoztatás közzétételére a 18. § (4) bekezdésének az egyes törvényeknek a kézbesítéssel és az igazságügyi ágazati szabályozással összefüggő módosításáról szóló 2021. évi LI. törvénnyel történő hatályon kívül helyezését megelőzően került sor.
 
 (14) E törvénynek a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvénnyel megállapított 134. §-ában foglalt követelményeket 2021. január 31-ét követően azzal kell alkalmazni, hogy a 2021. február 1-től 2021. április 5-ig közokiratba foglalt egyoldalú kötelezettségvállaló nyilatkozatok esetén a miniszter rendeletében meghatározott okiratmintától való eltérés nem vonja maga után a közjegyzői okirat közokirati jellegének elvesztését.
+
+(15) A 2022. január 1. napját megelőzően készült közjegyzői okiratot a 131. §, illetve 147/A. § alkalmazása során akkor is közokiratnak kell tekinteni, ha az e törvény 2022. január 1. napján hatályos rendelkezéseinek megfelel.
 
 ### Felhatalmazás
 

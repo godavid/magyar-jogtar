@@ -632,7 +632,15 @@ fedezi.
 
 36. § (1) A 34. § (1) bekezdésében meghatározott feltételeknek megfelelő állatorvos jogosult önálló tevékenység formájában a saját nevében és felelősségére állat-egészségügyi szolgáltatóként működni.
 
-(2)–(3)
+(2) Önálló tevékenység keretében állatorvosi tevékenység folytatására az az állatorvos jogosult, aki legalább 5 éves szakmai gyakorlattal rendelkezik.
+
+(3) A (2) bekezdés szerinti feltételen túlmenően állatorvosi tevékenység önálló tevékenység formájában történő végzésére az az állatorvos jogosult, aki rendelkezik
+
+- a) az Állatorvostudományi Egyetemen (vagy annak jogelődjén) megszerzett szakállatorvosi végzettséggel,
+- b) a Kamara specialistája (kamarai specialista vagy praxisvezetői) végzettséggel,
+- c) legalább PhD tudományos fokozattal,
+- d) európai állatorvosi szakkollégiumi tagsággal, vagy
+- e) a Kamara által igazolt húsz év időtartamú magánállatorvosi vagy szolgáltató állatorvosi szakmai gyakorlattal.
 
 37. § (1) A 34. § (1) bekezdésében meghatározott feltételeknek megfelelő állatorvos jogosult gazdasági társaság vagy szövetkezet tagjaként, az állat-egészségügyi szolgáltatóként működő gazdasági társaság vagy szövetkezet nevében és felelősségére állatorvosi tevékenységet végezni.
 
@@ -640,13 +648,22 @@ fedezi.
 
 (3) A kamarai tagdíj és a szakmai felelősségbiztosítás díjának megfizetését az állatorvostól az állat-egészségügyi szolgáltató gazdasági társaság vagy szövetkezet átvállalhatja.
 
-(4)–(5)
+(4)
+
+(5)
 
 #### 11. A praxisengedély
 
 38. § (1) Praxisengedélyt kérelemre annak az állategészségügyi szolgáltatónak kell kiadni, amely rendelkezik az e törvény végrehajtására kiadott rendelet és a Kamara által előírt, a bejelentett szakmai tevékenységéhez szükséges felszereléssel, és az állategészségügyi intézményekre és egységekre vonatkozó szabályoknak megfelelő helyiséggel, a tevékenység folytatásához az állategészségügyi szolgáltató szakmai munkáját irányító, FELIR azonosítóval rendelkező állatorvossal.
 
-(2)
+(2) Gazdasági társaság vagy szövetkezet formájában működő állategészségügyi szolgáltató akkor jogosult praxisengedélyre, ha működése során a 34. § (2) bekezdésének a), b), d) vagy e) pontja alapján foglalkoztat legalább egy olyan
+
+- a) legalább 5 éves szakmai gyakorlattal rendelkező állatorvost, aki rendelkezik
+  - aa) az Állatorvostudományi Egyetemen (vagy annak jogelődjén) megszerzett szakállatorvosi végzettséggel,
+  - ab) a Kamara specialistája végzettséggel,
+  - ac) legalább PhD tudományos fokozattal, vagy
+  - ad) európai állatorvosi szakkollégiumi tagsággal, vagy
+- b) állatorvossal, aki rendelkezik a Kamara által igazolt húsz év időtartamú magánállatorvosi vagy szolgáltató állatorvosi szakmai gyakorlattal.
 
 (2a) Gazdasági társaság akkor jogosult praxisengedélyre, ha a tulajdoni hányadának és a legfőbb döntéshozó szervét megillető szavazati jogoknak a többségével a gazdasági társaság állategészségügyi szolgáltatásában személyesen közreműködő állatorvos rendelkezik.
 
@@ -849,6 +866,8 @@ fedezi.
 #### 52. §
 
 #### 53. §
+
+54. § Az állatorvosi tevékenység végzését önálló tevékenység formájában 2016. december 31. napját követően megkezdő és az egyes kulturális tárgyú és egyéb törvények módosításáról szóló 2021. évi CXLVIII. törvény hatálybalépésekor folytató állatorvos vonatkozásában a 36. § (2) bekezdését az önálló tevékenység megkezdésének évét követő hatodik év első napjától, a 36. § (3) bekezdését 2023. január 1-jétől kell alkalmazni.
 
 55. § (1) A 21. § (2a) bekezdése és a 22. § (3a) bekezdése a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelv 56a. cikk (2) bekezdésének való megfelelést szolgálja.
 

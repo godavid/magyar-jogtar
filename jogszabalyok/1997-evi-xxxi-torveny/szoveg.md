@@ -720,18 +720,15 @@ köteles megszervezni, és ennek keretén belül a szülő, törvényes képvise
 22. § (1) A gyermektartásdíj megelőlegezésének akkor van helye, ha
 
 - a) a bíróság a tartásdíjat jogerős határozatában már megállapította vagy van olyan külföldi bíróság, vagy más hatóság által hozott jogerős határozat, amelyet a Magyarországon élő gyermek javára nemzetközi szerződés vagy viszonosság alapján kell végrehajtani, és
-- b) a gyermektartásdíj összegének behajtása átmenetileg lehetetlen, továbbá
-- c) a gyermeket gondozó szülő vagy más törvényes képviselő nem képes a gyermek részére a szükséges tartást nyújtani,
+- b) a gyermektartásdíj összegének behajtása átmenetileg lehetetlen.
 
-feltéve, hogy a gyermeket gondozó családban az egy főre jutó havi átlagjövedelem nem éri el az öregségi nyugdíj legkisebb összegének kétszeresét.
+(2)
 
-(2) Az egy főre jutó jövedelem megállapításánál a 131. § (2) bekezdését kell alkalmazni.
-
-(3) A gyámhatóság a gyermektartásdíj behajthatatlanságát a gyermektartásdíj fizetésére kötelezett személy rendszeres jövedelmére, illetve egyéb vagyonára vezetett eredménytelen végrehajtást követően állapítja meg. Az eredménytelen végrehajtást a végrehajtás szünetelését kimondó, hat hónapnál nem régebbi foglalási jegyzőkönyv igazolja.
+(3) A gyámhatóság a gyermektartásdíj behajthatatlanságát a gyermektartásdíj fizetésére kötelezett személy rendszeres jövedelmére, illetve egyéb vagyonára vezetett eredménytelen végrehajtást követően állapítja meg. Az eredménytelen végrehajtást a végrehajtás szünetelését kimondó, három hónapnál nem régebbi foglalási jegyzőkönyv igazolja.
 
 (3a) Ha a kérelem benyújtásakor igazolják, hogy a bíróságon a gyermektartásdíj behajtása iránti eljárás a kérelem benyújtását megelőzően megindításra került, de az annak eredményét igazoló jegyzőkönyv még nem áll rendelkezésre, a gyámhatóság a gyermektartásdíj megelőlegezése iránti eljárást a jegyzőkönyv megérkezéséig felfüggeszti.
 
-(4) Az (1) bekezdésben meghatározott összeg számításánál a kérelem benyújtása időpontjában közös háztartásban élő közeli hozzátartozóként kell figyelembe venni a 19. § (4) bekezdésében meghatározott személyeket.
+(4)
 
 (5) Nincs helye a gyermektartásdíj megelőlegezésének, ha a kötelezett
 
@@ -743,14 +740,16 @@ feltéve, hogy a gyermeket gondozó családban az egy főre jutó havi átlagjö
 
 (6) Nincs helye továbbá a gyermektartásdíj megelőlegezésének
 
-- a) részösszegű megfizetés vagy részösszegű behajthatóság esetén, ha ennek mértéke a bíróság által megállapított gyermektartásdíj alapösszegének ötven százalékát meghaladja, vagy
+- a) részösszegű megfizetés vagy részösszegű behajthatóság esetén, ha ennek mértéke a bíróság által megállapított gyermektartásdíj alapösszegének nyolcvan százalékát meghaladja, vagy
 - b) lejárt gyermektartásdíj esetén.
 
 (7) A feltételek fennállása esetén a gyermektartásdíj megelőlegezése a gyermek nagykorúvá válása után is megállapítható, illetve a már megállapított gyermektartásdíj továbbfolyósítható addig az időpontig, ameddig a középfokú nappali oktatás munkarendje szerinti tanulmányokat folytat, de legfeljebb huszadik évének betöltéséig.
 
-23. § (1) A gyámhatóság a bíróság által a tartásdíj megfizetésére kötelező határozatában megállapított összeget, százalékos marasztalás esetében az alapösszeget előlegezi meg azzal, hogy a megelőlegezett gyermektartásdíj összege nem haladhatja meg gyermekenként az öregségi nyugdíj legkisebb összegének 50%-át.
+23. § (1) A gyámhatóság a bíróság által a tartásdíj megfizetésére kötelező határozatában megállapított összeget, százalékos marasztalás esetében az alapösszeget előlegezi meg azzal, hogy a megelőlegezett gyermektartásdíj összege nem haladhatja meg gyermekenként a kötelező legkisebb munkabér 30 százalékát.
 
-(2) A gyámhatóság az (1) bekezdésben meghatározott összegnél alacsonyabb összeget akkor állapíthat meg, ha a gyermek tartását a gondozó szülő részben biztosítani tudja. A megelőlegezett összeg ebben az esetben sem lehet kevesebb az öregségi nyugdíj legkisebb összegének 10%-ánál.
+(1a) Ha a megelőlegezhető gyermektartásdíj (1) bekezdés szerinti legmagasabb összege változik, a megelőlegezés összegét hivatalból felül kell vizsgálni, és az ellátást a változás időpontjára visszamenőleg módosított összegben kell továbbfolyósítani.
+
+(2)
 
 (3) A gyámhatóság a gyermektartásdíj megelőlegezését elrendelő határozatát azonnal végrehajthatóvá nyilváníthatja.
 
@@ -765,9 +764,9 @@ feltéve, hogy a gyermeket gondozó családban az egy főre jutó havi átlagjö
 
 (3) A gyámhatóság hivatalból vagy a külön jogszabályban meghatározott szervek és személyek értesítése alapján a gyermektartásdíj folyósítását – legfeljebb hat hónapra – felfüggeszti, ha
 
-- a) a kérelmezőnek a 22. § (1) bekezdésében meghatározott körülményeiben változás állt be,
-- b) a kötelezett rendszeres jövedelmére, illetve az egyéb vagyonára vezetett végrehajtás eredménnyel jár, feltéve, hogy annak mértéke a bíróság által megállapított gyermektartásdíj alapösszegének ötven százalékát meghaladja,
-- c) a kötelezett a kérelmező részére legalább négy egymást követő alkalommal közvetlenül fizet tartásdíjat, feltéve, hogy annak összege alkalmanként a bíróság által megállapított gyermektartásdíj alapösszegének ötven százalékát meghaladja,
+- a)
+- b) a kötelezett rendszeres jövedelmére, illetve az egyéb vagyonára vezetett végrehajtás eredménnyel jár, feltéve, hogy annak mértéke a bíróság által megállapított gyermektartásdíj alapösszegének nyolcvan százalékát meghaladja,
+- c) a kötelezett a kérelmező részére legalább négy egymást követő alkalommal közvetlenül fizet tartásdíjat, feltéve, hogy annak összege alkalmanként a bíróság által megállapított gyermektartásdíj alapösszegének nyolcvan százalékát meghaladja,
 - d) a gyermek ideiglenes hatályú elhelyezését rendelték el.
 
 (4) A gyámhatóság a felfüggesztést követő vizsgálat eredményeképpen, ha a felfüggesztés időtartama alatt a jogosult nem részesült a 22. § (6) bekezdés a) pontjában meghatározott mértékű gyermektartásdíjban – a felfüggesztés lejárta után – elrendeli a gyermektartásdíj további folyósítását és a felfüggesztés időtartamára esedékes megelőlegezett gyermektartásdíj utólagos, egy összegben történő kifizetését vagy a megelőlegezést megszünteti.
@@ -1259,6 +1258,8 @@ adatokat.
 vezeti.
 
 (6) A 139. § (1) bekezdés szerinti adattartalmú nyilvántartás a változások nyomon követhetőségét biztosító elektronikus úton is vezethető.
+
+(7) A szociál- és nyugdíjpolitikáért felelős miniszter által kijelölt család- és gyermekjóléti központ az Szt. 64. § (9) bekezdése szerinti fogyatékosságügyi tanácsadást is biztosít. A szociál- és nyugdíjpolitikáért felelős miniszter a kijelölésről szóló közleményt az általa irányított minisztérium honlapján és a Szociális Ágazati Portálon teszi közzé.
 
 ### VI/C. Fejezet — Gyermekek napközbeni ellátása
 
@@ -5088,6 +5089,10 @@ esetén nyújtott ellátással és szolgáltatással kapcsolatos adatokat.
 (3) E törvénynek az egyes gyermekvédelmi és szociális tárgyú törvények módosításáról szóló 2020. évi CXLVII. törvénnyel megállapított 66/E. § (1) bekezdésében foglaltakat a 2020. december 31-ét követően indult felmondási eljárásokban kell alkalmazni.
 
 188/C. § Az a személy, akinek örökbefogadásra való alkalmasságát az egyes igazságügyi tárgyú törvények módosításáról szóló 2020. évi CLXV. törvény (a továbbiakban: Imódtv.) e törvényt módosító rendelkezéseinek hatálybalépését megelőzően véglegessé vált határozattal megállapították, az alkalmassági határozat hatályának és annak meghosszabbítása hatályának fennállása alatt az Imódtv. e törvényt módosító rendelkezéseinek hatálybalépését megelőző napon hatályos rendelkezések szerint fogadhat gyermeket örökbe.
+
+188/D. § (1) Az egyes törvényeknek az egyszülős családok életkörülményeinek javítása érdekében történő módosításáról szóló 2021. évi LXXIV. törvénnyel (a továbbiakban: Módtv2.) megállapított 22. § (1) bekezdését, 22. § (6) bekezdés a) pontját, 23. § (1) bekezdését, valamint 24. § (3) bekezdés b) és c) pontját a 2022. január 1-jén véglegessé vált határozattal le nem zárt ügyekben is alkalmazni kell.
+
+(2) A 2022. január 1-jén gyermektartásdíj megelőlegezésére jogosultak közül azok esetén, akik gyermekenként az öregségi nyugdíj legkisebb összege ötven százalékának megfelelő összegű megelőlegezésben részesülnek, a megelőlegezett gyermektartásdíj összegét – az egyéb jogosultsági feltételek vizsgálata nélkül – a Módtv2.-vel megállapított 23. § (1) bekezdésére tekintettel 2022. január 31-éig felül kell vizsgálni. A 2022. január hónapra tekintettel már a felülvizsgálat eredményeként megállapított összegben kell az ellátást továbbfolyósítani.
 
 189. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

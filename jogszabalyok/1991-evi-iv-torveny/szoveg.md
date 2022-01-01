@@ -130,15 +130,15 @@ alapján kerül sor.
 
 (6) A munkaadó:
 
-- a) érdekképviseleti szervei útján részt vesz a foglalkoztatási érdekegyeztetésben,
-- b) segíti az állami foglalkoztatási szerv munkáját, ennek keretében munkaerőigényéről és annak megszűnéséről folyamatosan, de legkésőbb a betöltés esedékességekor tájékoztatja az állami foglalkoztatási szervet,
+- a)
+- b)
 - c) szociális hozzájárulási adó fizetésével hozzájárul az álláskeresők ellátásához.
 
 (7) A munkavállaló:
 
-- a) képviselői útján részt vesz a foglalkoztatási érdekegyeztetésben,
-- b) együttműködik az állami foglalkoztatási szervvel, valamint a munkaadóval, mérlegeli a felajánlott átképzési, foglalkoztatási lehetőségeket, együttműködik új munkahely felkutatásában,
-- c) álláskeresők támogatásának biztosítására járulékot fizet.
+- a)
+- b) együttműködik az állami foglalkoztatási szervvel, valamint a munkaadóval, együttműködik új munkahely felkutatásában,
+- c) álláskeresők ellátásának biztosítására járulékot fizet.
 
 (8)
 
@@ -435,13 +435,13 @@ időtartamával.
 - f) hozzájárulás a korengedményes nyugdíj helyébe lépő korhatár előtti ellátás kifizetésének részbeni finanszírozásához,
 - g) az egyes alaprészekből finanszírozott ellátások, támogatások működtetésével kapcsolatos kiadások fedezetének biztosítása, valamint
 - h)
-- i) az Európai Foglalkoztatási Szolgálat működési és fejlesztési kiadásainak finanszírozásához történő hozzájárulás.
+- i)
 
 (3) Az Alapon belül – a pénzeszközök felhasználásának célja szerint – a következő alaprészeket kell elkülöníteni:
 
 - a) szolidaritási alaprészt az álláskeresési járadék, a nyugdíj előtti álláskeresési segély, az álláskeresési segély, a munkanélküli járadék, a nyugdíj előtti munkanélküli segély,, a költségtérítés (31. §), valamint ezek juttatásával kapcsolatos postaköltség finanszírozására;
 - b)
-- c) foglalkoztatási alaprészt, a foglalkoztatást elősegítő támogatások, a nem az állami foglalkoztatási szerv által nyújtott foglalkoztatást elősegítő szolgáltatások nyújtására, az állami foglalkoztatási szerv által pályaválasztás elősegítése érdekében szervezett munkaerőpiaci információkat nyújtó rendezvény kiadásaira, az állami foglalkoztatási szerv által szervezett munkaerőpiaci információkat nyújtó állásbörze kiadásaira, valamint keresetpótló juttatással kapcsolatos postaköltség finanszírozására;
+- c) foglalkoztatási alaprészt, a foglalkoztatást elősegítő támogatások, a nem az állami foglalkoztatási szerv által nyújtott foglalkoztatást elősegítő szolgáltatások nyújtására, az állami foglalkoztatási szerv által pályaválasztás elősegítése érdekében szervezett munkaerőpiaci információkat nyújtó rendezvény kiadásaira, az állami foglalkoztatási szerv által szervezett munkaerőpiaci információkat nyújtó állásbörze kiadásaira, valamint alaprész terhére nyújtott támogatásokkal kapcsolatos postaköltség finanszírozására;
 - d) bérgarancia alaprészt, a Bérgarancia Alapról szóló 1994. évi LXVI. törvényben meghatározott támogatás, valamint annak folyósításával kapcsolatos postaköltség finanszírozására;
 - e) a képzési alaprészt, a szakképzésről szóló törvényben meghatározott feladatok finanszírozására;
 - f)
@@ -458,7 +458,7 @@ időtartamával.
 
 (8) Az állami foglalkoztatási szervek közreműködésével, uniós források bevonásával megvalósuló programok, támogatások, valamint járulékátvállalás tekintetében az Alap mint központi programok kedvezményezettje finanszírozza az előbbiekben említett intézkedések végrehajtása érdekében teljesített kifizetéseket.
 
-(9) Az Alap bevételét képező járulék, szociális hozzájárulási adó központi költségvetésről szóló törvényben meghatározott hányada, illetőleg hozzájárulás beszedése érdekében igénybe vett szolgáltatás díja az Alapnak azt az alaprészét terheli, amelynek kiadásai finanszírozása érdekében a járulék és szociális hozzájárulási adó fizetése történik.
+(9)
 
 (10) Az Alap alaprészeinek központi pénzügyi kerete által finanszírozott program esetében a programhoz közvetlenül kapcsolódó igazolt költségek az érintett keret terhére elszámolhatók, illetve abból megtéríthetők.
 
@@ -536,7 +536,7 @@ időtartamával.
 - h)
 - i) egyéb bevételek: a Gazdaság-újraindítási Foglalkoztatási Alap javára teljesített visszafizetés, a hatósági eljárás alapján befolyt bevétel, késedelmi pótlék, kamatbevétel, a Gazdaság-újraindítási Foglalkoztatási Alap javára teljesített önkéntes befizetés, támogatás, valamint a működésével összefüggő bevétel;
 - j) uniós forrás terhére megvalósuló operatív program finanszírozására szolgáló előleg;
-- k) az Európai Globalizációs Alkalmazkodási Alaptól az 1927/2006 EK rendelet alapján társfinanszírozás címen befolyó bevétel.
+- k) az Európai Globalizációs Alkalmazkodási Alaptól társfinanszírozás címen befolyó bevétel.
 
 (2) Az Alapba teljesített visszafizetések azt az alaprészt növelik, amelyből a támogatást, illetőleg az ellátást folyósították.
 
@@ -578,7 +578,7 @@ időtartamával.
 - b) a foglalkoztatást elősegítő támogatásra;
 - c) a miniszter által alapított, közfeladatot ellátó közhasznú szervezet részére – foglalkoztatási és képzési célú támogatás, valamint foglalkoztatást elősegítő szolgáltatás nyújtása érdekében – támogatás nyújtására;
 - d) foglalkoztatást elősegítő támogatások továbbfejlesztésére vonatkozó kutatások és programok támogatására;
-- e) az Európai Szociális Alap társfinanszírozásával megvalósuló programok hazai finanszírozására;
+- e) az Európai Szociális Alap, valamint az Európai Szociális Alap Plusz (a továbbiakban együtt: ESZA) társfinanszírozásával megvalósuló programok hazai finanszírozására;
 - f) 1996. január 1-je előtt a Foglalkoztatási Alap terhére vállalt kötelezettségek teljesítéséből adódó kifizetésekre;
 - g) a szociális szövetkezet tagjának tagi munkavégzés keretében történő személyes közreműködése után fizetendő egészségügyi szolgáltatási járulékra;
 - h) foglalkoztatáspolitika működtetését elősegítő informatikai fejlesztések költségére.
@@ -618,7 +618,7 @@ időtartamával.
 
 (8) Az álláskeresőként való nyilvántartással, az álláskeresők ellátásával, valamint a természetes személynek nyújtott foglalkoztatást elősegítő támogatással kapcsolatos eljárás során – az 54. § (9b) bekezdésében foglaltakat kivéve – a törvényes képviselő eljárása kizárt, az ügyfélnek személyesen kell eljárnia.
 
-(9) A foglalkoztatást elősegítő támogatással, valamint az álláskeresők ellátásával kapcsolatos kérelemre induló hatósági ügyben – a (10) bekezdésben foglaltak kivételével – a kérelmező, pályázó ügyfél választása szerint a lakóhelye vagy tartózkodási helye, illetve székhelye, telephelye vagy fióktelepe szerint illetékes állami foglalkoztatási szerv jár el.
+(9) Az álláskeresők ellátásával kapcsolatos kérelemre induló hatósági ügyben – a (10) bekezdésben foglaltak kivételével – az ügyfél választása szerint a lakóhelye vagy tartózkodási helye, illetve székhelye, telephelye vagy fióktelepe szerint illetékes állami foglalkoztatási szerv jár el.
 
 (10) A
 
@@ -795,7 +795,7 @@ együttműködik.
 
 (20)
 
-54/A. § (1) Az álláskeresési ellátást, vállalkozói járadékot, valamint foglalkoztatást elősegítő támogatást megállapító, illetve folyósító szerv az e törvényen, valamint a felhatalmazása alapján kiadott jogszabályon alapuló igényét öt év alatt érvényesítheti. Ha a követelésre alapot adó magatartás bűncselekmény, a követelés öt éven túl sem évül el mindaddig, amíg a büntethetőség el nem évül.
+54/A. § (1) Az álláskeresési ellátást, vállalkozói járadékot, valamint foglalkoztatást elősegítő támogatást megállapító, illetve folyósító szerv az e törvényen, valamint jogszabályon alapuló igényét öt év alatt érvényesítheti. Ha a követelésre alapot adó magatartás bűncselekmény, a követelés öt éven túl sem évül el mindaddig, amíg a büntethetőség el nem évül.
 
 (2) Az e törvény alapján esedékessé vált és fel nem vett ellátást az esedékességtől számított egy éven belül lehet felvenni.
 
@@ -836,7 +836,7 @@ köt a támogatásban részesülővel hatósági szerződést.
 
 56/A. § (1) Közigazgatási bírságot köteles fizetni
 
-- a) az a munkaadó, munkavállaló, egyéb szerv, vagy személy, aki e törvényben – ide nem értve a 8. § (6) bekezdés b) pontját, valamint a 36. § (1) bekezdését –, valamint a felhatalmazása alapján hozott jogszabályban, továbbá az Mt. 74. §-ában és 215. § (1) bekezdésében vagy közigazgatási határozatban, hatósági szerződésben foglalt nyilvántartási, adatszolgáltatási kötelezettségének nem vagy nem az előírt módon tesz eleget, vagy valótlan adatot szolgáltat,
+- a) az a munkaadó, munkavállaló, egyéb szerv, vagy személy, aki e törvényben – ide nem értve a 36. § (1) bekezdését –, valamint a felhatalmazása alapján hozott jogszabályban, továbbá az Mt. 74. §-ában és 215. § (1) bekezdésében vagy közigazgatási határozatban, hatósági szerződésben foglalt nyilvántartási, adatszolgáltatási kötelezettségének nem vagy nem az előírt módon tesz eleget, vagy valótlan adatot szolgáltat,
 - b) az, aki a Bérgarancia Alapról szóló 1994. évi LXVI. törvény 2. § (1) bekezdésében meghatározott kötelezettségének nem tesz eleget, valamint a munkavállalók felé fennálló munkabértartozással összefüggésben az állami foglalkoztatási szerv részére a valóságnak nem megfelelő adatot szolgáltat.
 
 (2) A közigazgatási bírság összege 500 000 forintig terjedhet. Az (1) bekezdés b) pontjában meghatározott esetben a közigazgatási bírságot munkavállalónként kell kiszabni.
@@ -954,7 +954,7 @@ szerinti adatok igénylésére jogosultak.
 
 (12) Ha az állami foglalkoztatási szerv a foglalkoztatást elősegítő szolgáltatást nyilvántartásba vett foglalkoztatást elősegítő szolgáltatást nyújtó szervezeten keresztül nyújtja, akkor e szervezet e feladatának ellátásához szükséges (2c) bekezdés d) pontja szerinti adatokat kezeli.
 
-(13) Ha az állami foglalkoztatási szerv a foglalkoztatást elősegítő támogatást az Európai Szociális Alap által finanszírozott intézkedések keretében nyújtja, akkor a támogatáskezelő szervezet e feladat ellátásához a támogatással érintett természetes személyek (1) bekezdés a) és i) pontja, n) pont nc) alpontja, valamint r) pontja szerinti adatait kezeli.
+(13) Ha az állami foglalkoztatási szerv a foglalkoztatást elősegítő támogatást az ESZA által finanszírozott intézkedések keretében nyújtja, akkor a támogatáskezelő szervezet e feladat ellátásához a támogatással érintett természetes személyek (1) bekezdés a) és i) pontja, n) pont nc) alpontja, valamint r) pontja szerinti adatait kezeli.
 
 (14)
 
@@ -1032,7 +1032,7 @@ szükséges hozzáférést.
 
 (7) Az adatbázisban rögzített adatokat a Központi Statisztikai Hivatal részére – a Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
-### Az Európai Szociális Alap által finanszírozott intézkedésekben résztvevő személyek adatbázisa
+### Az ESZA által finanszírozott intézkedésekben résztvevő személyek adatbázisa
 
 57/D. § (1) A járási hivatal a (2a) bekezdésben meghatározott célok biztosítása érdekében elektronikus nyilvántartást (a továbbiakban: ESZA adatbázis) vezet a résztvevő adatairól. Az ESZA adatbázis tartalmazza:
 
@@ -1040,7 +1040,7 @@ szükséges hozzáférést.
 - b) az állampolgárságot, valamint a bevándorolt, a letelepedett vagy a menekültstátuszt,
 - c) a belföldi lakó- vagy tartózkodási helyet,
 - d) az iskolai végzettséget, szakképesítést,
-- e) annak tényét, hogy 3 évnél fiatalabb kisgyermeket nevel-e saját háztartásában,
+- e)
 - f) TAJ számot,
 - g) az intézkedésbe történő belépésekor a munkaerő-piaci, társadalmi helyzetével összefüggő következő adatokat:
   - ga) az intézkedésbe történő belépés dátumát,
@@ -1059,9 +1059,9 @@ szükséges hozzáférést.
   - he) annak tényét, hogy az intézkedés keretében képzettséget szerzett-e,
   - hf) annak tényét, milyen szolgáltatásban, illetve támogatásban részesült a program keretében.
 
-(2) Az ESZA adatbázis a (1) bekezdés g) pont gc)–ge), gg) és gh) pontjaiban meghatározott adatokat a kedvezményezett önkéntes nyilatkozata alapján, míg az ESZA adatbázis többi adatát a kedvezményezettnek az 1304/2013/EU rendeletében kötelezően előírt adatszolgáltatása alapján tartalmazza.
+(2) Az ESZA adatbázis a (1) bekezdés g) pont gc)–ge), gg) és gh) pontjaiban meghatározott adatokat a kedvezményezett önkéntes nyilatkozata alapján, míg az ESZA adatbázis többi adatát a kedvezményezettnek az 1304/2013/EU rendeletben és az (EU) 2021/1057 rendeletben kötelezően előírt adatszolgáltatása alapján tartalmazza.
 
-(2a) A járási hivatal az Európai Szociális Alap által finanszírozott intézkedésekben résztvevőkről az uniós szintű eredmények monitoringja és értékelése, a közös indikátorok mentén történő tagállami jelentéstétel teljesíthetősége, valamint a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében kezeli az (1) bekezdésben meghatározott adatokat.
+(2a) A járási hivatal az ESZA által finanszírozott intézkedésekben résztvevőkről az uniós szintű eredmények monitoringja és értékelése, a közös indikátorok mentén történő tagállami jelentéstétel teljesíthetősége, valamint a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében kezeli az (1) bekezdésben meghatározott adatokat.
 
 (2b) A járási hivatal az (1) bekezdés szerinti adatokhoz közvetlen hozzáférést biztosít a kormányhivatal részére az adatok összesítése, a járási hivatal európai uniós támogatással megvalósuló tevékenységeinek koordinálása érdekében. A kormányhivatal az (1) bekezdés szerinti adatokat a feladatai ellátása során kezeli.
 
@@ -1080,7 +1080,7 @@ tekinthet be.
 
 (4a) Az adatbázisban rögzített adatokat a Központi Statisztikai Hivatal részére – a Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
-(5) Az (1) bekezdés szerinti adatok az Európai Szociális Alapnak a 2014–2020 közötti európai uniós költségvetési időszakban rendelkezésre álló forrásaira vonatkozó elszámolhatósági időszak lezárását követő öt évig kezelhetők.
+(5) Az (1) bekezdés szerinti adatok az Európai Szociális Alapnak a 2014–2020 közötti, az Európai Szociális Alap Plusznak a 2021–2027 közötti európai uniós költségvetési időszakban rendelkezésre álló forrásaira vonatkozó elszámolhatósági időszak lezárását követő öt évig kezelhetők.
 
 (6) Az (1) bekezdésben meghatározott adatbázissal kapcsolatos fejlesztéseket a miniszter kezdeményezheti.
 
@@ -1100,7 +1100,7 @@ tekinthet be.
 
 (5) E törvény alkalmazásában
 
-- a) munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, állami szolgálati jogviszony, kormányzati szolgálati jogviszony, politikai szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, biztosi jogviszony, közalkalmazotti jogviszony, egészségügyi szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, bírói és igazságügyi szolgálati, valamint ügyészségi szolgálati viszony, a közfoglalkoztatási jogviszony, a biztosított bedolgozói és az – 1994. június 1-jét megelőzően létesített – ezzel egy tekintet alá eső bedolgozói jogviszony, a nevelőszülői foglalkoztatási jogviszony, a szövetkezeti tag munkaviszony jellegű munkavégzésre irányuló jogviszonya – ide nem értve az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagját, a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagját, a szociális szövetkezet tagi munkavégzésre irányuló jogviszonyban munkát végző tagját és a kisgyermekkel otthon lévők szövetkezetének nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő tagját –, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszony, valamint a honvédek jogállásáról szóló törvény szerinti hivatásos és szerződéses állományú katonák szolgálati viszonya,
+- a) munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, állami szolgálati jogviszony, kormányzati szolgálati jogviszony, politikai szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, biztosi jogviszony, közalkalmazotti jogviszony, egészségügyi szolgálati jogviszony, egészségügyi szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, bírói és igazságügyi szolgálati, valamint ügyészségi szolgálati viszony, a közfoglalkoztatási jogviszony, a biztosított bedolgozói és az – 1994. június 1-jét megelőzően létesített – ezzel egy tekintet alá eső bedolgozói jogviszony, a nevelőszülői foglalkoztatási jogviszony, a szövetkezeti tag munkaviszony jellegű munkavégzésre irányuló jogviszonya – ide nem értve az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagját, a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagját, a szociális szövetkezet tagi munkavégzésre irányuló jogviszonyban munkát végző tagját és a kisgyermekkel otthon lévők szövetkezetének nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő tagját –, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszony, valamint a honvédek jogállásáról szóló törvény szerinti hivatásos és szerződéses állományú katonák szolgálati viszonya,
 - b) munkavállaló: az, aki az a) pontban meghatározott munkaviszonyban áll,
 - c) munkaadó: az a jogi személy, jogi személyiséggel nem rendelkező szervezet, valamint természetes személy, aki munkavállalót foglalkoztat, illetve foglalkoztatni kíván,
 - d) álláskereső: az a személy, aki 1. a munkaviszony létesítéséhez szükséges feltételekkel rendelkezik, és 2. oktatási intézmény nappali tagozatán nem folytat tanulmányokat, és 3. öregségi nyugdíjra nem jogosult, valamint a megváltozott munkaképességű személyek ellátásaiban nem részesül és 4. az alkalmi foglalkoztatásnak minősülő munkaviszony és a nevelőszülői foglalkoztatási jogviszony kivételével munkaviszonyban nem áll, és egyéb keresőtevékenységet sem folytat, és 5. elhelyezkedése érdekében az állami foglalkoztatási szervvel együttműködik, és akit 6. az állami foglalkoztatási szerv álláskeresőként nyilvántart. Az Európai Gazdasági Térségről szóló megállapodásban nem részes, az Európai Közösséggel és tagállamaival nemzetközi szerződést kötött állam állampolgára, az 1. pontban foglalt rendelkezés alkalmazása során, a nemzetközi szerződésben foglaltak szerint álláskeresőként akkor is nyilvántartásba vehető, ha Magyarországon engedély alapján végezhet munkát.
@@ -1113,7 +1113,7 @@ tekinthet be.
   - ib) az öregségi nyugdíjkorhatár betöltése előtt öregségi nyugdíjban részesül, vagy
   - ic) a Magyar Alkotóművészeti Közalapítvány által folyósított ellátásokról szóló kormányrendelet alapján folyósított öregségi nyugdíjsegélyben (nyugdíjban), egyházi jogi személytől egyházi, felekezeti nyugdíjban, öregségi járadékban vagy növelt összegű öregségi járadékban részesül,
 - j) munkaközvetítő tevékenység: olyan szolgáltatás, amelynek célja a munkát keresők és a munkát kínálók találkozásának elősegítése,
-- k) pályakezdő álláskereső: a 25. életévét — felsőfokú végzettségű személy esetén 30. életévét — be nem töltött, a munkaviszony létesítéséhez szükséges feltételekkel rendelkező, az állami foglalkoztatási szerv által nyilvántartott álláskereső, feltéve, ha álláskeresési járadékra a tanulmányainak befejezését követően nem szerzett jogosultságot. Nem tekinthető pályakezdő álláskeresőnek, aki 1. csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban részesül, 2. letartóztatásban van, szabadságvesztés büntetését tölti, kivéve, ha a fogvatartott reintegrációs őrizetben van, valamint elzárás büntetését tölti, 3. sor- vagy tartalékos katonai szolgálatot, továbbá polgári szolgálatot teljesít,
+- k) pályakezdő álláskereső: a 25. életévét — felsőfokú végzettségű személy esetén 30. életévét — be nem töltött, a munkaviszony létesítéséhez szükséges feltételekkel rendelkező, az állami foglalkoztatási szerv által nyilvántartott álláskereső, feltéve, ha álláskeresési járadékra a tanulmányainak befejezését követően nem szerzett jogosultságot. Nem tekinthető pályakezdő álláskeresőnek, aki 1. csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban részesül, 2. letartóztatásban van, szabadságvesztés büntetését tölti, kivéve, ha a fogvatartott reintegrációs őrizetben van, valamint elzárás büntetését tölti, 3. önkéntes tartalékos katonai szolgálat keretében tényleges szolgálatot teljesít,
 - l) rövid időtartamú munka: olyan, az állami foglalkoztatási szerv által felajánlott, vagy az álláskereső által megtalált munka, amelynek időtartama összefüggően a 120 napot nem haladja meg,
 - m) megváltozott munkaképességű személy:
   - ma) a rehabilitációs hatóság vagy jogelődjei által végzett hatályos minősítés alapján maa) akinek az egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 60 százalékos vagy kisebb mértékű, mab) aki legalább 40 százalékos egészségkárosodással rendelkezik, az erről szóló szakvélemény, szakhatósági állásfoglalás, hatósági bizonyítvány alapján, mac) akinek a munkaképesség-csökkenése 50–100 százalékos mértékű,
@@ -1128,7 +1128,7 @@ tekinthet be.
 - u) havi átlagjövedelem: a kérelem benyújtásának napját közvetlenül megelőző naptári évben (a továbbiakban: referencia-időszak) elért, munkaerőpiaci járulék alapját képező jövedelem napi átlagának 30-szorosa; ha a jogosult a referencia-időszakban nem rendelkezik legalább 180 naptári napi jövedelemmel, a kérelem benyújtásának napját megelőző 180 naptári napi jövedelem napi átlagának 30-szorosa. A 180 naptári napi jövedelmet legfeljebb a kérelem benyújtásának napját közvetlenül megelőző naptári év első napjáig lehet figyelembe venni.
 - v)
 - v) harmadik országból származó munkavállaló: az a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár, aki a magyar idegenrendészeti hatóságok által összevont engedélyként kiállított tartózkodási engedély birtokában jogszerűen tartózkodik Magyarország területén, és foglalkoztatásra irányuló jogviszony keretében munkát vállalhat.
-- w) kedvezményezett: az a támogatást igénylő, aki 2014–2020 közötti programozási időszakban az Európai Szociális Alapból, valamint az Európai Globalizációs Alkalmazkodási Alapból támogatásban részesül,
+- w) kedvezményezett: az a támogatást igénylő, aki az ESZA-ból, valamint az Európai Globalizációs Alkalmazkodási Alapból támogatásban részesül,
 - x) munkanélküli háztartás: az a háztartás, amelynek egyik tagja sem foglalkoztatott,
 - y) hozzátartozó: az egyeneságbeli rokon és annak házastársa, az örökbe fogadó, a mostoha- és a nevelőszülő, az örökbe fogadott, a mostoha- és a nevelt gyermek, a testvér, a házastárs, az élettárs; a házastársnak, az élettársnak egyeneságbeli rokona, testvére és a testvér házastársa,
 - z) külföldi: az a természetes személy, aki nem magyar állampolgár,
@@ -1150,8 +1150,8 @@ tekinthet be.
 - c) az EGT tagállamaiban történő munkahelykereséssel kapcsolatos költségtérítés feltételeinek és odaítélésének,
 - d)
 - e) az e törvényben meghatározott nyilvántartások vezetésének
-- f) a gyermek- és ifjúságpolitikáért felelős miniszterrel egyetértésben a kedvezményezett által az adatbázisba történő adatrögzítés eljárásának, az adatszolgáltatás technikai feltételeit, továbbá az ellenőrzés szakmai tartalmát.
-- g) a munkaadó munkaerőigénye bejelentése módjának és formájának
+- f)
+- g)
 
 szabályait.
 
@@ -1239,6 +1239,8 @@ való megfelelést szolgálja.
 - e) az Unió általános költségvetésére alkalmazandó pénzügyi szabályokról, az 1296/2013/EU, az 1301/2013/EU, az 1303/2013/EU, az 1304/2013/EU, az 1309/2013/EU, az 1316/2013/EU, a 223/2014/EU és a 283/2014/EU rendelet és az 541/2014/EU határozat módosításáról, valamint a 966/2012/EU, Euratom rendelet hatályon kívül helyezéséről szóló, 2018. július 18-i 2018/1046 európai parlamenti és tanácsi (EU, Euratom) rendelet;
 - f) a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelete (általános adatvédelmi rendelet),
 - g) az Európai Szociális Alapról és az 1081/2006/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i (EU) 1304/2013 európai parlamenti és tanácsi rendelete
+- h) az elbocsátott munkavállalók támogatását szolgáló Európai Globalizációs Alkalmazkodási Alapról (EGAA) és az 1309/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. április 28-i (EU) 2021/691 európai parlamenti és tanácsi rendelet,
+- i) az Európai Szociális Alap Plusz (ESZA+) létrehozásáról és az 1296/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. június 24-i (EU) 2021/1057 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 

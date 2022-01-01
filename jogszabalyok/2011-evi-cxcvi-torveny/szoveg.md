@@ -2,7 +2,7 @@
 
 a nemzeti vagyonról
 
-Magyarország Alaptörvénye rögzíti, hogy az állam és a helyi önkormányzat tulajdona nemzeti vagyon. Az Országgyűlés a nemzeti vagyonnak a közérdek és a közösségi szükségletek céljára történő hasznosítása, a természeti erőforrások megóvása, a nemzeti értékek megőrzése és védelme, és a jövő nemzedékek szükségleteinek biztosítása szándékával, a nemzeti vagyonnal való átlátható és felelős gazdálkodás követelményeinek hosszú távú meghatározása érdekében az Alaptörvény végrehajtására, az Alaptörvény 38. cikk (1) és (2) bekezdése alapján a következő törvényt alkotja:
+Az Országgyűlés a nemzeti vagyonnak a közérdek és a közösségi szükségletek céljára történő hasznosítása, a természeti erőforrások megóvása, a nemzeti értékek megőrzése és védelme, a jövő nemzedékek szükségleteinek biztosítása és a fenntartható vagyongazdálkodás megteremtése szándékával, a nemzeti vagyonnal való átlátható és felelős gazdálkodás követelményeinek hosszú távú meghatározása, a nemzeti vagyon átruházása szabályainak, valamint a célszerű és eredményes nemzeti vagyongazdálkodás kereteinek megállapítása érdekében az Alaptörvény végrehajtására, az Alaptörvény 38. cikk (1) és (2) bekezdése alapján a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -34,12 +34,12 @@ Magyarország Alaptörvénye rögzíti, hogy az állam és a helyi önkormányza
   - b) az olyan belföldi vagy külföldi jogi személy vagy jogi személyiséggel nem rendelkező gazdálkodó szervezet, amely megfelel a következő feltételeknek: ba) tulajdonosi szerkezete, a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerint meghatározott tényleges tulajdonosa megismerhető, bb) az Európai Unió tagállamában, az Európai Gazdasági Térségről szóló megállapodásban részes államban, a Gazdasági Együttműködési és Fejlesztési Szervezet tagállamában vagy olyan államban rendelkezik adóilletőséggel, amellyel Magyarországnak a kettős adóztatás elkerüléséről szóló egyezménye van, bc) nem minősül a társasági adóról és az osztalékadóról szóló törvény szerint meghatározott ellenőrzött külföldi társaságnak, bd) a gazdálkodó szervezetben közvetlenül vagy közvetetten több mint 25%-os tulajdonnal, befolyással vagy szavazati joggal bíró jogi személy, jogi személyiséggel nem rendelkező gazdálkodó szervezet tekintetében a ba), bb) és bc) alpont szerinti feltételek fennállnak;
   - c) az a civil szervezet és a vízitársulat, amely megfelel a következő feltételeknek: ca) vezető tisztségviselői megismerhetők, cb) a civil szervezet és a vízitársulat, valamint ezek vezető tisztségviselői nem átlátható szervezetben nem rendelkeznek 25%-ot meghaladó részesedéssel, cc) székhelye az Európai Unió tagállamában, az Európai Gazdasági Térségről szóló megállapodásban részes államban, a Gazdasági Együttműködési és Fejlesztési Szervezet tagállamában vagy olyan államban van, amellyel Magyarországnak a kettős adóztatás elkerüléséről szóló egyezménye van;
 - 2. dolog: minden birtokba vehető dolog és a dolog módjára hasznosítható természeti erők;
-- 3. forgalomképtelen nemzeti vagyon: az a nemzeti vagyon, amely az e törvényben meghatározott kivétellel nem idegeníthető el, vagyonkezelői jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára alapított használati jog, vezetékjog vagy ugyanezen okokból alapított szolgalom, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével nem terhelhető meg, biztosítékul nem adható, azon osztott tulajdon nem létesíthető;
+- 3. forgalomképtelen nemzeti vagyon: az a nemzeti vagyon, amely az e törvényben meghatározott kivétellel nem idegeníthető el –, vagyonkezelői jog, kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből jogszabályban feljogosított szervek javára alapított használati jog, vezetékjog vagy ugyanezen okokból alapított szolgalom, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével – nem terhelhető meg, biztosítékul nem adható, azon osztott tulajdon nem létesíthető;
 - 3a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 - 4. hasznosítás: a tulajdonosi joggyakorló vagy a nemzeti vagyon használója által a nemzeti vagyon birtoklásának, használatának, hasznok szedése jogának bármely – a tulajdonjog átruházását nem eredményező – jogcímen történő átengedése, ide nem értve a vagyonkezelésbe adást, valamint a haszonélvezeti jog alapítását;
 - 5. kincstári vagyon: a kizárólagos állami tulajdonba tartozó vagyon, valamint a nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonba tartozó, továbbá a korlátozottan forgalomképes állami vagyon;
 - 6. korlátozottan forgalomképes vagyon: az 1. § (2) bekezdés a) pontja hatálya alá és nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonba nem tartozó azon nemzeti vagyon, amelyről törvényben, illetve – a helyi önkormányzat tulajdonában álló vagyon esetében – törvényben vagy a helyi önkormányzat rendeletében meghatározott feltételek szerint lehet rendelkezni;
-- 7.
+- 7. kivezetésre szánt állami vagyon: az állami vagyonnak az a része, amely nem tartozik sem a kincstári vagyon, sem az üzleti vagyon körébe, és amely a vagyon jellegére, állapotára, jogi helyzetére vagy egyéb körülményekre tekintettel nem alkalmas a nemzeti vagyon – 7. § (1) bekezdésében meghatározott – alapvető rendeltetését szolgáló vagyongazdálkodási feladatok ellátására vagy e feladatok ellátására történő igénybevétele nem észszerű;
 - 8. közvetett tulajdon, illetve közvetett befolyás: a tőkepiacról szóló törvényben meghatározott fogalom;
 - 9. meghatározó befolyás: az a kapcsolat, amelynek révén természetes személy, vagy jogi személy egy jogi személynek tagja vagy részvényese, és
   - a) jogosult e jogi személy vezető tisztségviselői vagy felügyelőbizottsága tagjai többségének megválasztására és visszahívására, vagy
@@ -52,11 +52,11 @@ Magyarország Alaptörvénye rögzíti, hogy az állam és a helyi önkormányza
 - 15. rádióspektrum: a rádióhullámok frekvenciatartománya;
 - 16. többségi befolyás: az a kapcsolat, amelynek révén természetes személy vagy jogi személy egy jogi személyben a szavazatok több mint 50%-ával vagy meghatározó befolyással rendelkezik;
 - 17. tulajdonosi joggyakorló: aki a nemzeti vagyon felett az államot vagy a helyi önkormányzatot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlására jogosult;
-- 18. üzleti vagyon: a nemzeti vagyon azon része, amely nem tartozik az állami vagyon esetén a kincstári vagyonba, az önkormányzati vagyon esetén a törzsvagyonba;
+- 18. üzleti vagyon: a nemzeti vagyon azon része, amely nem tartozik az állami vagyon esetén a kincstári vagyonba vagy a kivezetésre szánt állami vagyonba, az önkormányzati vagyon esetén a törzsvagyonba;
 - 19. vagyonkezelő:
   - a) az állam tulajdonában álló nemzeti vagyon tekintetében: aa) költségvetési szerv, ab) helyi önkormányzat, nemzetiségi önkormányzat, valamint ezek társulásai, ac) az ab) alpontban felsoroltak fenntartása vagy irányítása alá tartozó intézmény, ad) köztestület, ae) az állam, az aa)–ac) alpontban meghatározott személyek együtt vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezet, af) az ae) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet, ag) országos törzshálózati vasúti pályát működtető többségi állami tulajdonú gazdasági társaság, ah) a törvény által kijelölt egyedileg meghatározott jogi személy.
   - b) a helyi önkormányzat tulajdonában álló nemzeti vagyon tekintetében: ba) állam, helyi önkormányzat, nemzetiségi önkormányzat, helyi vagy nemzetiségi önkormányzati társulás, valamint ezek fenntartása vagy irányítása alá tartozó intézmény, bb) költségvetési szerv, bc) köztestület, bd) a ba) alpontban meghatározott személyek együtt vagy külön-külön 100%-os tulajdonában álló gazdálkodó szervezet, be) a bd) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet.
-  - c) az egyházi jogi személy a tevékenysége ellátásához szükséges nemzeti vagyon tekintetében.
+  - c) az egyházi jogi személy, valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítvány és az általa fenntartott felsőoktatási intézmény a tevékenysége ellátásához szükséges nemzeti vagyon tekintetében.
 - 20. összetett vízilétesítmény: olyan vízilétesítmény, mely más létesítményeket, vizeket is magába foglal; az összetett vízilétesítmény része a létesítmények, vizek között lévő földterület is.
 
 (2) Az (1) bekezdés 1. pont b) és c) alpontjában foglalt feltételeknek való megfelelésről a szerződő félnek cégszerűen aláírt módon nyilatkoznia kell. A valótlan tartalmú nyilatkozat alapján kötött szerződés semmis.
@@ -139,7 +139,7 @@ Magyarország Alaptörvénye rögzíti, hogy az állam és a helyi önkormányza
 
 #### 3. A nemzeti vagyon megőrzése és védelme
 
-6. § (1) Az állam vagy a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon – a (2)–(3c) és (3e) bekezdésben és a 14. § (1) bekezdésében foglalt kivétellel – nem idegeníthető el, vagyonkezelői jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára alapított használati jog, vezetékjog, vagy ugyanezen okokból alapított szolgalom, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével nem terhelhető meg, biztosítékul nem adható, azon osztott tulajdon nem létesíthető. Ezen tilalom az állam vagy a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyonba tartozó javak teljes terjedelme tekintetében fennáll.
+6. § (1) Az állam vagy a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon – a (2)–(3c) és (3e) bekezdésben és a 14. § (1) bekezdésében foglalt kivétellel – nem idegeníthető el, vagyonkezelői jog, kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára alapított használati jog, vezetékjog, vagy ugyanezen okokból alapított szolgalom, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével nem terhelhető meg, biztosítékul nem adható, azon osztott tulajdon nem létesíthető. Ezen tilalom az állam vagy a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyonba tartozó javak teljes terjedelme tekintetében fennáll.
 
 (2) A természetes előfordulási helyükről kitermelt, kinyert, a 4. § (1) bekezdés c) pontjában meghatározott vagyon feletti tulajdonjog ágazati törvényben meghatározott módon szerezhető meg. A föld alatti gáztárolóban, mint természetes előfordulási helyén lévő szénhidrogén tulajdonjoga – ágazati törvényben meghatározottak szerint – a kitermelést megelőzően is megszerezhető.
 
@@ -176,6 +176,8 @@ Magyarország Alaptörvénye rögzíti, hogy az állam és a helyi önkormányza
 7. § (1) A nemzeti vagyon alapvető rendeltetése a közfeladat ellátásának biztosítása, ideértve a lakosság közszolgáltatásokkal való ellátását és e feladatok ellátásához szükséges infrastruktúra biztosítását. A nemzeti vagyonnal felelős módon, rendeltetésszerűen kell gazdálkodni.
 
 (2) A nemzeti vagyongazdálkodás feladata a nemzeti vagyon megőrzése, értékének és állagának védelme, rendeltetésének megfelelő, az állam, az önkormányzat mindenkori teherbíró képességéhez igazodó, elsődlegesen a közfeladatok ellátásához és a mindenkori társadalmi szükségletek kielégítéséhez szükséges, egységes elveken alapuló, átlátható, hatékony és költségtakarékos működtetése, értéknövelő használata, hasznosítása, gyarapítása, továbbá az állam vagy a helyi önkormányzat feladatának ellátása szempontjából feleslegessé váló vagyontárgyak elidegenítése, azzal, hogy a nemzeti vagyon megőrzése érdekében végzett bontás vagy átalakítás nem minősül az állag védelmi kötelezettség megszegésének. A kiemelt kulturális örökségvédelmi és természetvédelmi szempontok – kulturális és természeti értékek jövő nemzedékek számára való megőrzése érdekében történő – érvényesítésének nem akadálya a vagyon értékváltozása.
+
+(3) A kivezetésre szánt állami vagyon tekintetében a nemzeti vagyongazdálkodás feladata a vagyonelemek költségtakarékos, gyors és hatékony elidegenítése, kivezetése a nemzeti vagyon köréből.
 
 7/A. § (1) Az állam tulajdonában álló nemzeti vagyon tekintetében tulajdonosi joggyakorló kizárólag
 
@@ -280,7 +282,7 @@ jóváhagyó határozata szükséges.
 
 (9) A központi költségvetési szervek a vagyonkezelői jogukat – az ingatlanokra vonatkozó vagyonkezelői joguk kivételével – egymás között szerződéssel átruházhatják. Az átruházással érintett vagyonelem az átvevő központi költségvetési szerv vagyonkezelési szerződésének hatálya alá kerül azzal, hogy az átvevő központi költségvetési szerv köteles – a vagyonnyilvántartási szabályoknak megfelelő – írásbeli nyilatkozattal bejelenteni a tulajdonosi joggyakorló felé a fennálló vagyonkezelési szerződése hatálya alá került új vagyonelemet.
 
-(10) A nemzeti vagyon hasznosítására vonatkozó szerződés csak természetes személlyel vagy átlátható szervezettel köthető. A hasznosításra irányuló szerződés határozatlan vagy legfeljebb 15 éves határozott időre köthető, amely időszak egy alkalommal legfeljebb 5 évvel meghosszabbító abban az esetben, ha a hasznosításra jogosult valamennyi kötelezettségét szerződésszerűen, késedelem nélkül teljesítette. E bekezdés szerinti korlátozás nem vonatkozik az állammal, költségvetési szervvel, önkormányzattal vagy önkormányzati társulással kötött szerződésre.
+(10) A nemzeti vagyon hasznosítására vonatkozó szerződés csak természetes személlyel vagy átlátható szervezettel köthető. A hasznosításra irányuló szerződés – a 11/A. § (2) bekezdésében foglalt kivétellel – határozatlan vagy legfeljebb 15 éves határozott időre köthető, amely időszak egy alkalommal legfeljebb 5 évvel meghosszabbítható abban az esetben, ha a hasznosításra jogosult valamennyi kötelezettségét szerződésszerűen, késedelem nélkül teljesítette. E bekezdés szerinti korlátozás nem vonatkozik az állammal, költségvetési szervvel, önkormányzattal vagy önkormányzati társulással kötött szerződésre.
 
 (10a) A Kormány kiemelt nemzetgazdasági érdekből nyilvános határozatban dönthet az állami vagyon hasznosítására irányuló szerződés legfeljebb 30 éves határozott időre történő megkötéséről, amennyiben az állami vagyont érintő beruházás megtérülési ideje ezt kifejezetten indokolja.
 
@@ -316,6 +318,10 @@ javára történik.
 
 (18) A (16) bekezdésben foglalt rendelkezést nem kell alkalmazni, amennyiben természetes személy vagy 100%-ban magántulajdonban álló gazdálkodó szervezet a nemzeti vagyon használója, és a használatában álló nemzeti vagyont hasznosítja.
 
+11/A. § (1) A kivezetésre szánt állami vagyon vagyonkezelésbe nem adható, azon haszonélvezeti jog nem alapítható, továbbá e vagyon ingyenesen nem hasznosítható.
+
+(2) A 11. § (10) bekezdésétől eltérően a kivezetésre szánt állami vagyon tekintetében hasznosításra irányuló szerződés határozatlan vagy legfeljebb 1 éves határozott időre köthető, amely időszak egy alkalommal legfeljebb 1 évvel meghosszabbító abban az esetben, ha a hasznosításra jogosult valamennyi kötelezettségét szerződésszerűen, késedelem nélkül teljesítette és a hasznosítással érintett vagyonelem elidegenítése 1 éven belül nem lehetséges. A határozatlan időre kötött hasznosítási szerződésben legfeljebb 6 hónapos felmondási idő köthető ki.
+
 #### 6. Az állam és a helyi önkormányzat kizárólagos gazdasági tevékenységei
 
 12. § (1) Az állam kizárólagos gazdasági tevékenységei a következők:
@@ -347,6 +353,25 @@ javára történik.
 - g) az önkormányzat törzsvagyonának részét képező és használatában lévő vasúti pályák fejlesztése, működtetése.
 
 (3) Az állam és a helyi önkormányzat a kizárólagos gazdasági tevékenysége gyakorlásának időleges jogát, a (4)–(12) bekezdésben meghatározottak kivételével kizárólag koncesszió útján, külön törvényben szabályozott módon engedheti át. A kizárólagos gazdasági tevékenységek közül az (1) bekezdés d), és h)–k) pontja esetén az állam, a (2) bekezdés a)–b), d)–g) pontja esetén a helyi önkormányzat a nemzeti vagyon létrehozását és működtetését vagy kizárólag annak működtetését engedheti át e törvény rendelkezései szerint. A koncesszióról szóló törvény szerinti koncessziós szerződés határozott időtartamra köthető, amelynek leghosszabb ideje harmincöt év. Az ágazati törvény megengedheti külön pályázat kiírása nélkül a koncessziós törvény szerinti koncessziós szerződés egy alkalommal – eredeti időtartamának legfeljebb felével – történő meghosszabbítását abban az esetben, ha a koncesszióba vevő és a koncessziós társaság valamennyi kötelezettségét szerződésszerűen, késedelem nélkül teljesítette. A közbeszerzésekről szóló törvény szerinti építési, illetve szolgáltatási koncesszió a nemzeti vagyon tekintetében határozott időre, legfeljebb 35 évre adható.
+
+(3a) Az országos és helyi közutakkal és műtárgyaikkal kapcsolatos kizárólagos gazdasági tevékenység átengedésével összefüggő jogviszonyban, a kizárólagos gazdasági tevékenység gyakorlására jogosult személyt vagy szervezetet a tevékenység végzése céljából részére átadott, valamint a jogviszony alapján általa létrehozott, az állam vagy a helyi önkormányzat tulajdonába kerülő vagyontárgyon (e § alkalmazásában a továbbiakban: átengedett nemzeti vagyon) a törvény erejénél fogva működtetési jog illeti meg (a továbbiakban: kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog).
+
+(3b) A kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog létrejöttének időpontja a vagyontárgy kizárólagos gazdasági tevékenység gyakorlására jogosult részére történő átadásának napja. A kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog létrejöttének napjával az átengedett nemzeti vagyonon fennálló vagyonkezelői jog e törvény erejénél fogva megszűnik.
+
+(3c) Az átadásról jegyzőkönyvet kell készíteni (átadás-átvételi jegyzőkönyv), amely tartalmazza:
+
+- a) az átadó és az átvevő azonosító adatait,
+- b) az átadás jogcímeként a jogszabályhely feltüntetésével azt, hogy az átadás az e törvény alapján a jogosultat megillető kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog alapján történik,
+- c) az átengedett nemzeti vagyon azonosító adatait,
+- d) a kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog szerződés szerinti időtartamát.
+
+(3d) A kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog gyakorlása során az arra jogosult nem terjeszkedhet túl a kizárólagos gazdasági tevékenység átengedése alapjául szolgáló szerződésen. Az állami tulajdonosi joggyakorlóval szemben a kizárólagos gazdasági tevékenységet ellátó személyt vagy szervezetet az átengedett nemzeti vagyonra vonatkozóan beszámolási, nyilvántartási és adatszolgáltatási kötelezettség terheli.
+
+(3e) Ingó vagyontárgy esetén a kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jogot a vagyontárgyra vonatkozó jog fennállását tanúsító közhiteles nyilvántartásba is be kell jegyezni.
+
+(3f) A kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog megszűnik a kizárólagos gazdasági tevékenység átengedésével összefüggő jogviszony megszűnésével.
+
+(3g) A kizárólagos gazdasági tevékenység gyakorlására jogosult a csődeljárásról és a felszámolási eljárásról szóló törvény hatálya alá tartozó gazdálkodó szervezetnél a kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog és az e joggal érintett átengedett nemzeti vagyon nem része a csődeljárásról és a felszámolási eljárásról szóló törvény szerinti, a csődeljárás és felszámolási eljárás körébe tartozó vagyonnak.
 
 (4) Az állam kizárólagos tulajdonában álló Szent Korona és a hozzá tartozó jelvények használata másnak nem engedhető át. A Szent Korona és a hozzá tartozó jelvények őrzésére, szállítására, tárolására kizárólag az állam és költségvetési szerv jogosult külön jogszabályban rögzített feltételek szerint.
 
@@ -418,7 +443,10 @@ részére átengedhető és kizárólag általuk gyakorolható.
 
 - a) az állam által ingyenesen megszerzett ingatlanok,
 - b) a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvényben meghatározottak szerint ingyenesen átruházott lakóingatlanok,
-- c) az épített környezet átalakításáról és védelméről szóló törvényben meghatározott kiszolgáló út létesítése, bővítése során feleslegessé vált, ingyenesen visszaadásra kerülő közterületi ingatlanrész esetében.
+- c) az épített környezet átalakításáról és védelméről szóló törvényben meghatározott kiszolgáló út létesítése, bővítése során feleslegessé vált, ingyenesen visszaadásra kerülő közterületi ingatlanrész
+- d) a kivezetésre szánt állami vagyon tulajdonjogának ingyenes átruházása
+
+esetében.
 
 (10) Az ingyenesen átadott ingatlan tekintetében az (5) bekezdés szerint fennálló elidegenítési tilalom azon személlyel szemben nem áll fenn, aki az ingatlant az ingatlan tulajdonosára ingyenesen átruházta.
 
@@ -458,6 +486,8 @@ elővásárlási jogát követi, kivéve a kulturális örökség védelméről 
 javára ruházható át.
 
 (3) Az (1) bekezdés szerinti közfeladathoz kapcsolódóan közép- vagy hosszú távú, költségvetési éven túli év kiadási előirányzat terhére kötelezettség törvényi felhatalmazás alapján vállalható.
+
+14/B. § A kivezetésre szánt állami vagyon tulajdonjogának átruházása esetén – a 3. § (1) bekezdés 1. pontja szerinti szervezetek mellett – átlátható szervezetnek minősül az a gazdasági társaság is, amelynek közvetlen vagy közvetett tulajdonosai kizárólag természetes személyek, amennyiben e személyek megismerhetőek. Ebben az esetben a 3. § (2) bekezdése szerinti nyilatkozat mellőzhető.
 
 15. § A jelen törvény rendelkezéseibe ütköző szerződés, más jogügylet vagy rendelkezés semmis.
 
@@ -559,7 +589,7 @@ javára ruházható át.
 
 19. § E törvény
 
-- a) I. Fejezete, 4. §-a, 6–8. §-a, 10–11. §-a, 12. § (1) és (3)–(15) bekezdése, 13. §-a, 17. § (2) bekezdése, 18. §-a, 18/A. §-a és 18/C. §-a, valamint 1. és 2. melléklete az Alaptörvény 38. cikk (1) és (2) bekezdése alapján,
+- a) I. Fejezete, 4. §-a, 6–8. §-a, 10–11/A. §-a, 12. § (1) és (3)–(15) bekezdése, 13. §-a, 14/B. §-a, 17. § (2) bekezdése, 18. §-a, 18/A. §-a és 18/C. §-a, valamint 1. és 2. melléklete az Alaptörvény 38. cikk (1) és (2) bekezdése alapján,
 - b) 5. §-a, 9. §-a és 12. § (2) bekezdése az Alaptörvény 31. cikk (3) bekezdése alapján,
 - c) 14. §-a, 15. §-a és 17. § (1)–(1a) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése, valamint az Alaptörvény 31. cikk (3) bekezdése alapján
 - d) 14/A. §-a és 18/D. §-a az Alaptörvény 38. cikk (1) bekezdése alapján

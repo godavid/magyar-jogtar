@@ -393,6 +393,8 @@ lehet gyakorolni.
 
 (4) Ha a közalkalmazott jogviszonya az (1) bekezdés szerint kerül megszüntetésre, a jogviszony megszüntetésétől számított három évig közalkalmazotti jogviszonyt nem létesíthet.
 
+(5) A közalkalmazotti jogviszony vagy munkaviszony létesítésével és megszüntetésével összefüggésben a munkáltató jogszabályban meghatározott feltételekkel igénybe veheti, és foglalkoztatottjai számára nyújthatja a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
+
 13/J. § Ha a Kjt. 37. §-a alapján a közalkalmazott jogviszonya megszüntetésekor végkielégítésben részesült, a jogviszony megszűnésétől számított nyolc hónapon belül újabb közalkalmazotti jogviszonyt abban az esetben létesíthet, ha vállalja, hogy a végkielégítés összegének az új jogviszony létesítéséig a nyolc hónapból hátralévő idővel arányos mértékét korábbi munkáltatójának visszafizeti.
 
 ### A közalkalmazott képzése és továbbképzése

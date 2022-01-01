@@ -66,7 +66,7 @@ Kiadatás Magyarországról
 - a) az a bűncselekmény, illetve az a büntetés, amely miatt a kiadatást kérik, akár a megkereső államban, akár Magyarországon elévült,
 - b) a kiadni kért személy büntethetőségét a kegyelem megszüntette vagy a vele szemben kiszabott büntetés végrehajtását a kegyelem kizárja,
 - c) a megkereső államban a büntetőeljárás lefolytatásához szükséges magánindítványt, vagy más ezzel azonos hatályú indítványt nem terjesztették elő, illetve hozzájárulást nem adtak meg,
-- d) magyar bíróság a kiadatás alapjául szolgáló cselekményt jogerősen elbírálta,
+- d) a kiadatás alapjául szolgáló cselekményt Magyarországon, az Európai Unió másik tagállamában vagy az 1985. június 14-i, a közös határokon történő ellenőrzések fokozatos megszüntetéséről szóló Schengeni Megállapodás végrehajtásáról szóló 1990. június 19-i egyezményben részes állam bírósága jogerősen elbírálta, vagy a cselekmény érdeméről olyan határozatot hozott, amely – a határozatot hozó állam joga alapján – azonos cselekmény vonatkozásában újabb büntetőeljárás megindításának akadályát képezi,
 - e) a megkereső állam azzal a céllal kéri egy személy kiadatását, hogy vele szemben a távollétében meghozott határozatban kiszabott szabadságvesztés büntetést vagy szabadságelvonással járó intézkedést hajtson végre, és a határozathozatalt megelőző eljárásban nem biztosították a védelemhez fűződő jogokat.
 
 (2) Az (1) bekezdés e) pontja alapján nem tagadható meg a kiadatás, ha a megkereső állam megfelelő garanciát nyújt arra, hogy a kiadni kért személy kérelmére biztosítja részére az ügy újbóli tárgyalásához való jogot.
@@ -76,7 +76,7 @@ Kiadatás Magyarországról
 - a) a kiadni kért személy egyidejűleg más állam állampolgára is, és
 - b) Magyarország területén nem rendelkezik lakcímmel.
 
-(2) Ha a Magyarország területén lakcímmel és magyar állampolgársággal rendelkező kiadni kért személlyel szemben a külföldi állam igazságügyi hatósága előtt folyó büntetőeljárás átvétele a legfőbb ügyész döntése értelmében nem lehetséges, a kiadni kért személy kiadható olyan bűncselekmény miatt, amely büntetési tételének felső határa mind a magyar törvény, mind a megkereső állam törvénye szerint legalább egy évig terjedő szabadságvesztés, feltéve, hogy a külföldi állam hozzájárul ahhoz, hogy a terhelt kérelmére a vele szemben kiszabott jogerős végrehajtandó szabadságvesztés büntetést vagy szabadságelvonással járó intézkedést tartalmazó határozatot Magyarországon hajtsák végre.
+(2) Ha a Magyarország területén lakcímmel és magyar állampolgársággal rendelkező kiadni kért személlyel szemben a külföldi állam igazságügyi hatósága előtt folyó büntetőeljárás átvétele a legfőbb ügyész döntése értelmében nem lehetséges, a kiadni kért személy kiadható olyan bűncselekmény miatt, amely büntetési tételének felső határa mind a magyar törvény, mind a megkereső állam törvénye szerint legalább egy évig terjedő szabadságvesztés, feltéve, hogy a külföldi állam hozzájárul ahhoz, hogy a terhelt, illetve a bűncselekmény elkövetésével megalapozottan gyanúsítható személy (a továbbiakban együtt: terhelt) kérelmére a vele szemben kiszabott jogerős végrehajtandó szabadságvesztés büntetést vagy szabadságelvonással járó intézkedést tartalmazó határozatot Magyarországon hajtsák végre.
 
 (2a) Ha e törvény kivételt nem tesz, szabadságvesztés büntetés, illetve szabadságelvonással járó intézkedés végrehajtása céljából az Európai Unió tagállamának állampolgárságával és Magyarország területén lakcímmel rendelkező személy kiadatásának csak akkor van helye, ha a kiadni kért személy a kiadatáshoz hozzájárul.
 
@@ -84,15 +84,23 @@ Kiadatás Magyarországról
 
 (4) Ha az Európai Unió tagállamának állampolgárságával rendelkező személy kiadatását a büntetőeljárás lefolytatása céljából kérik, és a rendelkezésre álló adatok alapján megtagadási ok nem állapítható meg, a bíróság a kiadni kért személy állampolgársága szerinti tagállam központi hatóságát tájékoztatja a kiadatási kérelem tényéről.
 
-14. § (1) Meg kell tagadni a menekült kiadatását, kivéve, ha azt a menedékjogról szóló törvényben meghatározott biztonságos harmadik ország kéri.
+14. § (1) Meg kell tagadni a Magyarország, vagy az Európai Unió más tagállama által menekültként elismert személy kiadatását, kivéve, ha azt a menedékjogról szóló törvényben meghatározott biztonságos harmadik ország kéri.
 
-(2) A menedékes, a befogadott, valamint a menekültkénti, illetve menedékeskénti elismerését kérő külföldi annak az államnak, ahonnan elmenekült, nem adható ki.
+(2) A menedékes, a befogadott, az oltalmazott, valamint az Európai Unió tagállamában kiegészítő vagy ideiglenes védelemben részesített külföldi annak az államnak, ahonnan elmenekült, nem adható ki.
 
-(3) Abban az esetben, ha a kiadni kért személy menekültkénti vagy menedékeskénti elismerését kéri, illetve menedékjogi eljárás van folyamatban, a kiadni kért személlyel szemben alkalmazott kényszerintézkedés határideje – a menedékjogi eljárás jogerős befejezését figyelembe véve – oly módon hosszabbodik meg, hogy a menekültkénti vagy menedékeskénti elismerés megtagadását követően legalább negyven nap álljon rendelkezésre a kiadatás ügyében való döntésre és a kiadott személy átadására. A kiadatási letartóztatás és az ideiglenes kiadatási letartóztatás együttes időtartama azonban ebben az esetben sem haladhatja meg a kényszerintézkedés kezdetétől számított huszonnégy hónapot.
+(2a) A menekültként, oltalmazottként, valamint menedékesként elismerését kérő, valamint az Európai Unió tagállamában nemzetközi védelem iránti kérelmet benyújtó külföldi annak az államnak, ahonnan elmenekült, nem adható ki.
+
+(2b) Nem akadálya a kiadatásnak, ha menekültkénti, oltalmazottként, illetve menedékeskénti elismerését, vagy nemzetközi védelmet kérő személy a kérelmét ismételten benyújtotta, miután a korábbi kérelmét a menekültügyi hatóság további jogorvoslattal nem támadható döntésével elutasította, vagy menekültkénti, oltalmazottkénti, befogadottkénti, illetve menedékeskénti elismerését további jogorvoslattal nem támadható döntéssel visszavonta, feltéve, hogy más, a menedékjogról szóló törvényben meghatározott védelemben nem részesül.
+
+(3) Abban az esetben, ha a kiadni kért személy menekültkénti, oltalmazottkénti vagy menedékeskénti elismerését kéri, valamint ha a kiadni kért személy az Európai Unió tagállamában nemzetközi védelem iránti kérelmet benyújtó külföldi, a kiadni kért személlyel szemben alkalmazott kényszerintézkedés határideje – a menedékjogi eljárás jogerős befejezését figyelembe véve – oly módon hosszabbodik meg, hogy a kérelem megtagadását követően legalább negyven nap álljon rendelkezésre a kiadatás ügyében való döntésre és a kiadott személy átadására. A kiadatási letartóztatás és az ideiglenes kiadatási letartóztatás együttes időtartama azonban ebben az esetben sem haladhatja meg a kényszerintézkedés kezdetétől számított huszonnégy hónapot.
+
+(4) Ha a kiadni kért személy (2a) bekezdés szerinti kérelmét az Európai Unió más tagállama jogosult elbírálni, az eljárás lefolytatásának elősegítése érdekében a kiadatási eljárás során eljáró hatóságok a tagállam eljárás lefolytatására jogosult hatóságaival együttműködnek. Ennek érdekében a kiadatási eljárásban fogvatartott személy ideiglenes átadására az eljárást folytató tagállammal kötött eseti megállapodás alapján kerülhet sor, amelyet a tagállam arra jogosult hatóságával a miniszter köt meg. A kiadni kért személy érintett tagállamba történő átszállításáról és a Magyarország területére történő visszaszállításáról a NEBEK a rendőrség közreműködésével gondoskodik.
 
 14/A. § (1) Meg kell tagadni a kiadatást, ha annak végrehajtása nemzetközi egyezménybe ütközik.
 
 (2) Ha a kiadni kért személy nemzetközi szervezetnél emberi jogi panaszt nyújt be, és a nemzetközi szervezet a panasz befogadása mellett ideiglenes intézkedés elrendelését kéri, a kiadni kért személlyel szemben alkalmazott kényszerintézkedés határideje oly módon hosszabbodik meg, hogy a panasz elutasítását követően legalább negyven nap álljon rendelkezésre a kiadatás ügyében való döntésre, illetve a személy átadására. A kiadatási letartóztatás és az ideiglenes kiadatási letartóztatás együttes időtartama ebben az esetben sem haladhatja meg a kényszerintézkedés kezdetétől számított huszonnégy hónapot.
+
+14/B. § A kényszerintézkedés indokoltságát a 14. § (3) bekezdésében és a 14/A. § (2) bekezdésében meghatározott esetekben, a 22. § (1) bekezdésében meghatározott határidőkre figyelemmel, a bíróság az ügyiratok alapján a kényszerintézkedés elrendelésétől vagy meghosszabbításától számítva hathavonta felülvizsgálja.
 
 15. § Ha a kiadatási kérelem alapjául szolgáló bűncselekmény miatt a megkereső állam törvényei halálbüntetés kiszabását teszik lehetővé, a miniszter a kiadatást csak abban az esetben engedélyezheti, ha a megkereső állam kellő biztosítékot nyújt arra, hogy amennyiben a kiadott személlyel szemben halálbüntetést szabnak ki, azt vele szemben nem hajtják végre.
 
@@ -291,6 +299,108 @@ Külföldi állam megkeresése kiadatás iránt
 
 36. § A kiadatási kérelem teljesítése esetén a kiadatási kérelem alapján külföldön történt fogva tartás idejét a bíróság által megállapított büntetésbe be kell számítani.
 
+### 3. Cím
+
+Kiadatás Magyarországról az Egyesült Királyságba, az Izlandi Köztársaságba, vagy a Norvég Királyságba
+
+36/A. § (1) Az 1. Cím rendelkezéseit a Nagy-Britannia és Észak-Írország Egyesült Királyságának (a továbbiakban: Egyesült Királyság), az Izlandi Köztársaságnak és a Norvég Királyságnak kiadatás iránti megkeresése tekintetében az e Címben foglalt eltérésekkel kell megfelelően alkalmazni.
+
+(2) A Magyarország területén tartózkodó személy az Egyesült Királyság, az Izlandi Köztársaság vagy a Norvég Királyság igazságügyi hatósága által az Európai Unió területén tartózkodó személy vonatkozásában kibocsátott elfogatóparancs (e Cím alkalmazásában a továbbiakban: kiadatási-elfogatóparancs) alapján büntetőeljárás lefolytatása, szabadságvesztés büntetés, illetve szabadságelvonással járó intézkedés végrehajtása céljából elfogható, őrizetét kell elrendelni és kiadható. A kiadatási-elfogatóparancsot kiadatási kérelemnek kell tekinteni.
+
+36/B. § (1) A kiadatás kérdésében a Fővárosi Törvényszék dönt.
+
+(2) Ha a kiadatás feltételei fennállnak, a Fővárosi Törvényszék nem ügydöntő végzéssel elrendeli a terhelt kiadatási letartóztatását és kiadatását.
+
+(3) A Fővárosi Törvényszék megtagadja a kiadatási-elfogatóparancs végrehajtását, ha megtagadási ok áll fenn. A bíróság a kiadatási-elfogatóparancs végrehajtásának megtagadásáról az ügyiratok alapján is dönthet.
+
+(4) Ha ugyanazon terhelt ellen kibocsátott
+
+- a) európai elfogatóparancs és egy kiadatási-elfogatóparancs vagy
+- b) több kiadatási-elfogatóparancs
+
+ütközik, és a végrehajtás feltételei több állam vonatkozásában is fennállnak, a Fővárosi Törvényszék az összes körülmény mérlegelésével dönt arról, hogy melyik elfogatóparancs végrehajtására kerüljön sor. A bíróságnak a döntés meghozatalakor figyelemmel kell lennie különösen a bűncselekmény tárgyi súlyára és elkövetési helyére, az elfogatóparancsok kibocsátásának időpontjára, valamint arra, hogy az elfogatóparancsot büntetőeljárás lefolytatása vagy szabadságvesztés büntetés, illetve szabadságelvonással járó intézkedés végrehajtása céljából bocsátották-e ki.
+
+(5) Ha egy kiadatási-elfogatóparancs és egy kiadatási kérelem ütközik, az eljárásra az e Címben foglalt rendelkezések nem alkalmazhatóak.
+
+36/C. § (1) Ha a terhelt a kiadatásba beleegyezik, és a kiadatás feltételei fennállnak, a Fővárosi Törvényszék elrendeli a terhelt kiadatási letartóztatását és egyszerűsített kiadatását.
+
+(2) A Fővárosi Törvényszék a kiadatási letartóztatás és egyszerűsített kiadatás elrendeléséről a kiadatási-elfogatóparancs megérkezését megelőzően is rendelkezhet.
+
+(3) Ha a terhelt a kiadatásba beleegyezett és az (1) bekezdés szerinti döntés meghozatalához kizárólag a kibocsátó igazságügyi hatóság által nyújtott garancia beszerzése szükséges, a Fővárosi Törvényszék a garancia megérkezését követően az ideiglenes kiadatási letartóztatásban lévő terhelt kiadatási letartóztatását és egyszerűsített kiadását az ügyiratok alapján is elrendelheti. E lehetőségről a terheltet az ideiglenes kiadatási letartóztatás elrendelésekor tájékoztatni kell.
+
+(4) A kiadatási letartóztatás és egyszerűsített kiadatás elrendelése ellen fellebbezésnek nincs helye.
+
+(5) A kiadatási letartóztatás és egyszerűsített kiadatás elrendelése esetén az egyszerűsített kiadatás végrehajtására e törvénynek a kiadatás végrehajtására vonatkozó szabályait megfelelően alkalmazni kell.
+
+36/D. § (1) A bíróság haladéktalanul megküldi a kiadatás tárgyában hozott véglegessé vált nem ügydöntő végzését a miniszternek és a NEBEK-nek.
+
+(2) A miniszter a kiadatásról szóló döntésről és a terhelt kiadatási-elfogatóparancs alapján történt fogvatartásának, illetve kényszerintézkedés hatálya alatt állásának időtartamáról a bíróság véglegessé vált nem ügydöntő végzése alapján tájékoztatja a kibocsátó igazságügyi hatóságot.
+
+36/E. § (1) Ha a terhelt nem mondott le a 16. § (4) bekezdése szerint a specialitás szabályának alkalmazásáról, a Fővárosi Törvényszék hozzájárul, hogy a kibocsátó állam a terhelt kiadatásának alapjául szolgáló bűncselekménytől különböző, a kiadatás előtt elkövetett egyéb bűncselekmény miatt büntetőeljárást folytasson le, illetve szabadságvesztés büntetést vagy szabadságelvonással járó intézkedést hajtson végre, ha ennek érdekében a kibocsátó állam által megküldött újabb kiadatási-elfogatóparancs vagy hozzájárulás iránti kérelem alapjául szolgáló bűncselekmény e törvény rendelkezései szerint önmagában is kiadatási kötelezettséget von maga után.
+
+(2) A Fővárosi Törvényszék a hozzájárulásról az ügyiratok alapján dönt.
+
+(3) A (2) bekezdés szerinti határozat ellen fellebbezésnek nincs helye.
+
+(4) Az (1)–(3) bekezdés szerinti eljárást kell lefolytatni a további kiadatás esetén is, ha a terhelt nem mondott le a specialitás szabályának alkalmazásáról, és a kiadatását követően egy másik állam által a kiadatását megelőzően elkövetett bűncselekmény miatt kibocsátott európai elfogatóparancs, kiadatási-elfogatóparancs vagy ezek kibocsátására jogosult állam által kibocsátott hozzájárulás iránti kérelem tárgyában kell döntést hozni.
+
+36/F. § (1) A bíróság a kiadatásról szóló határozatában elhalaszthatja a terhelt kiadatásának végrehajtását annak érdekében, hogy ellene Magyarország területén a büntetőeljárást lefolytathassák, vagy ha már elítélték, a kiadatási-elfogatóparancs kibocsátásának alapjául szolgáló cselekménytől különböző bűncselekmény miatt kiszabott szabadságvesztés vagy elzárás büntetését, illetve szabadságelvonással járó intézkedését végrehajthassák.
+
+(2) Ha a terhelt a kiadatás elrendelésekor letartóztatásban van, előzetes kényszergyógykezelés alatt áll, szabadságvesztését vagy elzárását tölti, illetve vele szemben szabadságelvonással járó intézkedést hajtanak végre, a bíróság a terhelt kiadatásának végrehajtását elhalasztja.
+
+(3) A bíróság az (1) bekezdésben meghatározott kiadatás végrehajtását elhalasztó határozatot a kiadatásról szóló határozatot követően is meghozhatja. A bíróság a kiadatás végrehajtásának elhalasztásáról az ügyiratok alapján határoz.
+
+(4) Ha a terheltnek – a kiadatási letartóztatás elrendelését követően – a letartóztatását, az előzetes kényszergyógykezelését rendelik el, vagy a terhelt szabadságvesztés vagy elzárás letöltését kezdi meg, illetve vele szemben szabadságelvonással járó intézkedést hajtanak végre, a bíróság a (3) bekezdés alapján a terhelt kiadatásának végrehajtását elhalasztja.
+
+(5) Ha a bíróság a terhelt kiadatásának végrehajtását elhalasztotta, az elhalasztás indokoltságát
+
+- a) a (2) bekezdésben meghatározott esetben a kiadatási letartóztatás végrehajtásának foganatba vételét, a (4) bekezdésben meghatározott esetben a kiadatási letartóztatás végrehajtásának ismételt foganatba vételét követően haladéktalanul, majd ezt követően három hónap múlva,
+- b) az a) pontban meghatározottaktól eltérő esetben a kiadatási letartóztatás elrendelését követő három hónap múlva
+
+az ügyiratok alapján hivatalból felülvizsgálja.
+
+(6) Ha a kiadatás végrehajtásának elhalasztása az (5) bekezdés a) vagy b) pontja szerinti kezdő időponttól számított hat hónapot meghaladja, a bíróság az elhalasztás indokoltságát a hatodik hónaptól kezdődően háromhavonta ülésen vizsgálja felül, amelyen az ügyész részvétele kötelező.
+
+(7) Az elhalasztás indokoltságának felülvizsgálatát
+
+- a) a (2) bekezdésben meghatározott esetben a kiadatási letartóztatás végrehajtásának foganatba vételét, a (4) bekezdésben meghatározott esetben a kiadatási letartóztatás végrehajtásának ismételt foganatba vételét,
+- b) az a) pontban meghatározottaktól eltérő esetben a kiadatási letartóztatás elrendelését
+
+követően az ügyészség, a terhelt, illetve a védője is indítványozhatja. Ha a terhelt, illetve a védő az elhalasztás felülvizsgálatára irányuló ismételt indítványban új körülményre nem hivatkozik, a bíróság az indítványt érdemi indokolás nélkül elutasíthatja.
+
+(8) A bíróság az elhalasztás indokoltságának felülvizsgálata során
+
+- a) adatszolgáltatást kér az elhalasztás alapjául szolgáló büntetőeljárás állásáról vagy a tervezett eljárási cselekményekről a büntetőeljárást folytató bíróságtól, illetve ügyészségtől,
+- b) tájékozódik az elhalasztás alapjául szolgáló szabadságvesztés vagy elzárás büntetés, illetve szabadságelvonással járó intézkedés végrehajtásának állásáról.
+
+(9) A bíróság az elhalasztás indokoltságát az (5)–(8) bekezdésben meghatározottak szerint felülvizsgálja és új határozatot hoz, amelyben
+
+- a) fenntartja a kiadatás végrehajtásának elhalasztását,
+- b) a fenntartással egyidejűleg elrendeli a terhelt ideiglenes átadását, vagy
+- c) elrendeli a terhelt kiadatásának végrehajtását.
+
+36/G. § (1) A Fővárosi Törvényszék a kiadatás végrehajtásának elhalasztása esetén – a kibocsátó igazságügyi hatósággal írásban történt közös megállapodásban meghatározott feltételek szerint – elrendelheti a terhelt ideiglenes átadását a kibocsátó igazságügyi hatóság részére.
+
+(2) A Fővárosi Törvényszék az ideiglenes átadásról az ügyiratok alapján határoz. A terhelt átadásáról és átvételéről a NEBEK a rendőrség közreműködésével gondoskodik.
+
+36/H. § A kiadatási-elfogatóparancsot kibocsátó állam igazságügyi hatóságának megkeresésére a bíróság vagy az ügyészség a terheltet kihallgatja. A megkeresésre és annak teljesítésére – a 3. § figyelembevételével – az V. Fejezetben foglalt rendelkezéseket kell megfelelően alkalmazni.
+
+### 4. Cím
+
+Az Egyesült Királyság, az Izlandi Köztársaság, vagy a Norvég Királyság megkeresése kiadatás iránt
+
+36/I. § (1) A 2. Cím rendelkezéseit az Egyesült Királyság, az Izlandi Köztársaság és a Norvég Királyság kiadatás iránti megkeresése tekintetében az e Címben foglalt eltérésekkel kell megfelelően alkalmazni.
+
+(2) A bíróság a terhelttel szemben az Egyesült Királyságban, az Izlandi Köztársaságban vagy a Norvég Királyságban történő elfogása és kiadatása érdekében akkor bocsát ki elfogatóparancsot (e Cím alkalmazásában a továbbiakban: kiadatási-elfogatóparancs), ha a rendelkezésre álló adatok alapján a terhelt az Egyesült Királyságban, az Izlandi Köztársaságban vagy a Norvég Királyságban tartózkodik.
+
+(3) A kiadatási-elfogatóparancs kibocsátására a nemzetközi elfogatóparancs kibocsátására jogosult bíróság rendelkezik hatáskörrel és illetékességgel.
+
+(4) A bíróság által kibocsátott kiadatási-elfogatóparancs kiadatási kérelemnek minősül.
+
+(5) A kiadatási-elfogatóparancsot a bíróság – a végrehajtó igazságügyi hatósághoz történő továbbítás végett – a miniszternek, valamint a NEBEK-nek küldi meg.
+
+(6) Ha a végrehajtó igazságügyi hatóság a kiadatás elhalasztásáról döntött, a keresett személy ideiglenes átadásának kezdeményezésére, valamint a megállapodás megkötésére – a miniszter útján – a bíróság jogosult.
+
 ### III. Fejezet — A büntetőeljárás átadása és átvétele;feljelentés külföldi államnál
 
 ### 1. Cím
@@ -433,7 +543,7 @@ KÜLFÖLDI ÍTÉLET ELISMERÉSE
 
 47. § (1) A külföldi ítélet a magyar bíróság ítéletével azonos érvényű, ha a külföldi ítéletet magyar bíróság e törvény alapján elismerte. El nem ismert külföldi ítélet a büntetőeljárásban nem vehető figyelembe.
 
-(2) E cím rendelkezéseit az Európai Unió tagállamának bírósága és a Nagy-Britannia és Észak-Írország Egyesült Királyságának (a továbbiakban: Egyesült Királyság) bírósága által hozott ítéletre nem lehet alkalmazni.
+(2) E cím rendelkezéseit az Európai Unió tagállamának bírósága és az Egyesült Királyság bírósága által hozott ítéletre nem lehet alkalmazni.
 
 (3) A külföldi ítélet akkor ismerhető el, ha az elkövetővel szemben külföldön folyamatban volt eljárás, valamint a kiszabott büntetés, illetve az alkalmazott intézkedés nem ellentétes a magyar jogrendszer alapelveivel.
 
@@ -478,6 +588,8 @@ KÜLFÖLDI BÍRÓSÁG ÁLTAL KISZABOTT SZABADSÁGVESZTÉS VÉGREHAJTÁSÁNAK ÁT
 (6) A végrehajtás átvételét a miniszter ahhoz a feltételhez kötheti, hogy a külföldi igazságügyi hatóság előzetes hozzájárulást ad a külföldi ítélet alapjául szolgáló bűncselekménytől különböző bűncselekmény elkövetése miatti büntetőeljárás lefolytatásához.
 
 (7) Ha a miniszter a végrehajtás átvételét megtagadja, a 28. §-ban foglaltak szerint jár el.
+
+(8) A végrehajtás átvétele feltételeinek fennállása megállapításához szükséges információk beszerzése érdekében a miniszter – szükség esetén a NEBEK közreműködésével – adatszolgáltatást kérhet bármely szervtől, jogi személytől vagy jogi személyiséggel nem rendelkező szervezettől.
 
 50. § Nem vehető át a végrehajtás, ha a külföldi elítélés alapjául szolgáló cselekményt magyar bíróság már jogerősen elbírálta.
 
@@ -1192,7 +1304,7 @@ Hivatalos irat kézbesítése
 (3) Ha nemzetközi szerződés lehetővé teszi, az (1) bekezdésben meghatározott megkereséseket sürgős esetben a miniszter vagy a legfőbb ügyész
 
 - a) a megkeresett állam igazságügyi hatóságánál közvetlenül, vagy
-- b) az NEBEK útján
+- b) a NEBEK útján
 
 is előterjesztheti.
 

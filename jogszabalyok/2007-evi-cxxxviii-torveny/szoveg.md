@@ -8,26 +8,32 @@ A befektetési szolgáltatási tevékenység hazai és európai szabályainak eg
 
 ### I. Fejezet — A TÖRVÉNY HATÁLYA
 
-1. § Ha nemzetközi szerződés vagy e törvény eltérően nem rendelkezik, e törvény hatálya kiterjed
+1. § (1) Ha nemzetközi szerződés vagy e törvény eltérően nem rendelkezik, e törvény hatálya kiterjed
 
 - a) a Magyarország területén székhellyel rendelkező személy és szervezet által Magyarország területén végzett
   - aa) befektetési szolgáltatási tevékenységre,
-  - ab) befektetési szolgáltatási tevékenységet kiegészítő szolgáltatásra (a továbbiakban: kiegészítő szolgáltatás),
+  - ab) befektetési szolgáltatási tevékenységet kiegészítő szolgáltatásra (a továbbiakban: kiegészítő szolgáltatás), és
   - ac) árutőzsdei szolgáltatásra,
-  - ad) adatszolgáltatási tevékenységre,
-- b) a Magyarország területén székhellyel rendelkező vállalkozás az Európai Unió más tagállamában vagy az Európai Gazdasági Térséget létrehozó megállapodásban részes más állam területén végzett határon átnyúló vagy fióktelep formájában folytatott
+- b) a Magyarország területén székhellyel rendelkező vállalkozás az Európai Unió más tagállamában vagy más EGT-állam területén végzett határon átnyúló vagy fióktelep formájában folytatott
   - ba) befektetési szolgáltatási tevékenységére, és
-  - bb) kiegészítő szolgáltatására, és
-  - bc) adatszolgáltatási tevékenységére, és
+  - bb) kiegészítő szolgáltatására,
 - c) a Magyarország területén külföldi (EGT-államban vagy harmadik országban székhellyel rendelkező) vállalkozás által fióktelep formájában folytatott
-  - ca) befektetési szolgáltatási tevékenységre,
-  - cb) kiegészítő szolgáltatásra, és
-  - cc) adatszolgáltatási tevékenységre,
+  - ca) befektetési szolgáltatási tevékenységre, és
+  - cb) kiegészítő szolgáltatásra,
 - d) a Magyarország területén más EGT-államban székhellyel rendelkező vállalkozás által határon átnyúló szolgáltatás formájában folytatott
-  - da) befektetési szolgáltatási tevékenységre,
-  - db) kiegészítő szolgáltatásra,
-  - dc) adatszolgáltatási tevékenységre, és
+  - da) befektetési szolgáltatási tevékenységre, és
+  - db) kiegészítő szolgáltatásra, valamint
 - e) az a)–d) pontban szereplők e törvény szerinti felügyeletére.
+
+(2) Ha nemzetközi szerződés vagy e törvény eltérően nem rendelkezik, e törvény hatálya kiterjed
+
+- a) a Magyarország területén székhellyel rendelkező adatszolgáltató által Magyarország területén végzett adatszolgáltatási tevékenységre,
+- b) a Magyarország területén székhellyel rendelkező adatszolgáltató az Európai Unió más tagállamában vagy más EGT-állam területén végzett határon átnyúló vagy fióktelep formájában folytatott adatszolgáltatási tevékenységére,
+- c) a Magyarország területén külföldi (EGT-államban vagy harmadik országban székhellyel rendelkező) adatszolgáltató által fióktelep formájában folytatott adatszolgáltatási tevékenységre,
+- d) a Magyarország területén más EGT-államban székhellyel rendelkező adatszolgáltató által határon átnyúló szolgáltatás formájában folytatott adatszolgáltatási tevékenységre, és
+- e) az a)–d) pontban szereplők e törvény szerinti felügyeletére,
+
+ha a 600/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (3) bekezdésében meghatározottak szerint a belső piac szempontjából korlátozott jelentőségűek.
 
 1/A. § (1) A VI/A. Fejezetet
 
@@ -146,10 +152,10 @@ szerint kell működtetni, valamint a 600/2014/EU rendelet II. címével összha
 
 használnak,
 
-- 1a.
+- 1a. adatszolgáltató: a 600/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés 36a. pontjában meghatározott fogalom,
 - 1b. anyavállalat: az Szmt.-ben meghatározott vállalkozás,
-- 1c. APA: jóváhagyott közzétételi mechanizmus, azaz olyan szolgáltatás nyújtására engedéllyel rendelkező személy, aki vagy amely a befektetési vállalkozások nevében közzéteszi – a 600/2014/EU rendelet 20. és 21. cikke alapján – a kereskedési jelentéseket,
-- 1d. ARM: jóváhagyott jelentési mechanizmus, azaz olyan szolgáltatás nyújtására engedéllyel rendelkező személy, aki vagy amely a befektetési vállalkozások nevében bejelenti az ügyletek adatait a Felügyeletnek vagy az Európai Értékpapír-piaci Hatóságnak,
+- 1c.
+- 1d.
 - 2. ÁÉKBV: a Kbftv.-ben meghatározott fogalom,
 - 2a. állampapír: állampapír-kibocsátó által kibocsátott, hitelviszonyt megtestesítő értékpapír,
 - 2b. állampapír-kibocsátó: az alábbiakban felsorolt jogi személyek bármelyike, amely hitelviszonyt megtestesítő értékpapírt bocsát ki:
@@ -176,7 +182,7 @@ használnak,
 - 11. minősített befolyás: a Hpt.-ben befolyásoló részesedésként meghatározott fogalom,
 - 11a. certifikát: a 600/2014/EU rendelet 2. cikk (1) bekezdés 27. pontjában meghatározott fogalom,
 - 11b. C6. származtatott energiaügylet: a 6. § f) pontjában említett olyan opció, határidős ügylet, swapügylet és bármely más származtatott ügylet, amely szénre vagy olajra vonatkozik, amellyel OTF-en kereskednek, és amelyeket természetben kell kiegyenlíteni,
-- 11c. CTP: összesítettadat-szolgáltató, azaz olyan szolgáltatás nyújtására engedéllyel rendelkező személy, aki vagy amely összegyűjti a szabályozott piacokról, az MTF-ektől, az OTF-ektől és az APA-któl (jóváhagyott közzétételi mechanizmusok) a 600/2014/EU rendelet 6., 7., 10., 12., 13., 20. és 21. cikkében felsorolt pénzügyi eszközökről szóló kereskedési jelentéseket, és azokat olyan, folyamatos és élő elektronikus adatfolyamba vonja össze, amely pénzügyi eszközönként árfolyam- és volumenadatokat biztosít,
+- 11c.
 - 12. csereügylet (swap): valamely pénzügyi eszköz cseréjére vonatkozó olyan összetett megállapodás, amely általában egy azonnali és egy határidős adásvételi ügyletből, illetve több határidős ügyletből tevődik össze és általában jövőbeni pénzáramlások cseréjét vonja maga után,
 - 12a. csoportfelügyeleti hatóság: az EU-szintű befektetési vállalkozás anyavállalat, az EU-szintű befektetési holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat által ellenőrzött befektetési vállalkozás csoporttőke-tesztnek való megfelelésének felügyeletére hatáskörrel rendelkező felügyeleti hatóság,
 - 12b. csoporttőke-tesztnek való megfelelés: a befektetési vállalkozás-csoport anyavállalatának megfelelése az (EU) 2019/2033 rendelet 8. cikke szerinti követelményeknek,
@@ -284,7 +290,7 @@ használnak,
   - b) jogi személy vagy jogi személyiséggel nem rendelkező szervezet esetén ba) név, rövidített név, bb) székhely címe, bc) cégbírósági nyilvántartásban szereplő jogi személy esetén cégjegyzékszám, egyéb jogi személy esetén a létrejöttéről (nyilvántartásba vételéről, bejegyzéséről) szóló határozat száma vagy nyilvántartási száma,
 - 68.
 - 69. ügyfélszámla: a Tpt.-ben meghatározott fogalom,
-- 69a. ügyvezető: a befektetési vállalkozással és az adatszolgáltatási tevékenységet végzővel munkaviszonyban álló, a befektetési vállalkozás és az adatszolgáltatási tevékenységet végző vezetésére kinevezett első számú vezető, valamint a befektetési vállalkozás és az adatszolgáltatási tevékenységet végző irányításában részt vevő olyan további személy, akit a befektetési vállalkozás és az adatszolgáltatási tevékenységet végző létesítő okirata vagy a működésre vonatkozó bármely belső szabályzat ilyenként határoz meg,
+- 69a. ügyvezető: a befektetési vállalkozással és az adatszolgáltatóval munkaviszonyban álló, a befektetési vállalkozás, adatszolgáltató vezetésére kinevezett első számú vezető, valamint a befektetési vállalkozás, adatszolgáltató irányításában részt vevő olyan további személy, akit a befektetési vállalkozás, adatszolgáltató létesítő okirata vagy a működésre vonatkozó bármely belső szabályzat ilyenként határoz meg,
 - 70. üzleti titok: az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében meghatározott fogalom,
 - 70a. vegyes tevékenységű holding társaság: olyan anyavállalat, amely nem minősül pénzügyi holdingtársaságnak, befektetési holdingtársaságnak, hitelintézetnek, befektetési vállalkozásnak vagy vegyes pénzügyi holding társaságnak és amelynek leányvállalatai közül legalább egy befektetési vállalkozás,
 - 71. vezető állású személy:
@@ -323,7 +329,7 @@ használnak,
 - 96.
 - 97. irányítási jogkörrel rendelkező vezető testület: az alapító okiratban vagy alapszabályban meghatározott olyan vezető testület, amely a döntéshozatalra jogosult,
 - 98. felügyeleti jogkörrel rendelkező vezető testület: az alapító okiratban vagy alapszabályban meghatározott olyan vezető testület, amely az irányítási jogkörrel rendelkező vezető testület döntéshozatalát ellenőrzi,
-- 99. vezető testület: a befektetési vállalkozás és az adatszolgáltatási tevékenységet végző igazgatósága és felügyelőbizottsága, valamint annak vezetői és tagjai, ideértve a fióktelep formájában működő befektetési vállalkozás és adatszolgáltatási tevékenységet végző vezető állású személyeit is,
+- 99. vezető testület: a befektetési vállalkozás, adatszolgáltató igazgatósága és felügyelőbizottsága, valamint annak vezetői és tagjai, ideértve a fióktelep formájában működő befektetési vállalkozás, adatszolgáltató vezető állású személyeit is,
 - 100. közérdeklődésre számot tartó befektetési vállalkozás: az e törvény hatálya alá tartozó befektetési vállalkozás, ide nem értve a 3. §-ban meghatározottakat,
 - 101. rendkívüli intézkedési terv: a befektetési vállalkozás által kidolgozott, a jogszabályoknak megfelelő működés biztosítása érdekében szükséges – határidőkhöz és felelősökhöz kötött – lépéseket tartalmazó terv,
 - 102. rendszerkockázat: a pénzügyi rendszer olyan zavarának kockázata, amely a pénzügyi rendszerre és a gazdaságra nézve súlyos negatív következményt jelenthet,
@@ -374,11 +380,7 @@ használnak,
 - k) egyéb, az a)–j) pontban nem említett eszközhöz, joghoz, kötelezettséghez, indexhez, intézkedéshez kapcsolódó származtatott ügylet, amely rendelkezik a többi származtatott eszköz valamelyikének jellemzőivel, ideértve azt, hogy valamely szabályozott piacon vagy multilaterális kereskedési rendszerben kereskednek vele, valamint a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 8. cikkében meghatározott származtatott ügylet,
 - l) az üvegházhatású gáz kibocsátási egység és a légszennyező anyag kibocsátási jog, amely olyan részegységekből áll, amelyek az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény előírásainak megfelelnek.
 
-6/A. § Adatszolgáltatási tevékenység:
-
-- a) APA működtetése,
-- b) CTP működtetése,
-- c) ARM működtetése.
+6/A. §
 
 7. § (1) Befektetési szolgáltatási tevékenységet – ha e törvény eltérően nem rendelkezik – csak befektetési vállalkozás és hitelintézet végezhet.
 
@@ -771,17 +773,12 @@ ideértve a következetesség, a folyamatos figyelemmel kísérhetőség és az 
 
 - a) a szakirányú felsőfokú iskolai végzettség, vagy
 - b) a középiskolai végzettség és
-  - ba) a szakképesített bankreferensi szakképesítés,
-  - bb) a banki, befektetési termékértékesítői szakképesítés,
-  - bc) a befektetési tanácsadói szakképesítés,
-  - bd) a banki szakügyintézői szakképesítés,
-  - be) a pénzügyi szakügyintézői szakképesítés,
-  - bf) az értékpapír-piaci szakügyintézői szakképesítés,
-  - bg) a pénzügyi szervezeti mérlegképes könyvelői szakképesítés,
-  - bh) a tőzsdei szakvizsga,
-  - bi) a Magyar Bankszövetség Felsőfokú Bankszakmai Oklevél,
-  - bj) a ba)–bi) alpontban foglaltakkal egyenértékű szakképesítés, vagy
-- c) a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott, az MNB által kiadott tőkepiaci hatósági vizsga letételét igazoló tanúsítvány.
+  - ba) a banki, befektetési termékértékesítői szakképesítés,
+  - bb) a pénzügyi szervezeti mérlegképes könyvelői szakképesítés,
+  - bc) a tőzsdei szakvizsga,
+  - bd) a Magyar Bankszövetség Felsőfokú Bankszakmai Oklevél,
+  - be) a ba)–bd) alpontban foglaltakkal egyenértékű szakképesítés, vagy
+- c) a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott, az MNB által kiadott tőkepiaci hatósági vizsga letételét igazoló hatósági bizonyítvány.
 
 (2) Az (1) bekezdés a) pontja alkalmazásában szakirányú felsőfokú végzettségnek minősülnek
 
@@ -792,7 +789,7 @@ ideértve a következetesség, a folyamatos figyelemmel kísérhetőség és az 
 - e) a főiskolai vagy egyetemi szintű, illetve mesterképzésben szerzett gazdasági agrármérnök szakképzettség vagy műszaki menedzser alapképzési szakon, vagy gazdasági és vidékfejlesztési agrármérnök alapképzési szakon szerzett szakképzettség, és
 - f) a felsőfokú végzettség birtokában szakirányú továbbképzésben, szakosító továbbképzésben a közgazdasági felsőoktatásban szerezett bankszakmai szakképzettség vagy gazdasági, közgazdasági szakképzettség.
 
-(3) A Felügyelet érvényteleníti annak a vizsgázónak a hatósági vizsgáját, aki a vizsgát a Felügyelet félrevezetésével, hamis adatok közlésével, jogszabályban meghatározott feltételek hiányában vagy a vizsgáztatás szabályainak megsértésével tette le. Ha a hatósági vizsga letételét igazoló tanúsítványt a Felügyelet már kiadta, úgy intézkedik annak visszavonásáról.
+(3) A Felügyelet érvényteleníti annak a vizsgázónak a hatósági vizsgáját, aki a vizsgát a Felügyelet félrevezetésével, hamis adatok közlésével, jogszabályban meghatározott feltételek hiányában vagy a vizsgáztatás szabályainak megsértésével tette le. Ha a hatósági vizsga letételét igazoló hatósági bizonyítványt a Felügyelet már kiadta, úgy intézkedik annak visszavonásáról.
 
 23. § Az árutőzsdei szolgáltató az üzletág irányítására olyan személyt nevez ki, aki legalább két év szakirányú szakmai gyakorlattal rendelkezik és aki – a 22. § (6) bekezdésében foglaltak figyelembevételével – igazolja, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
@@ -868,6 +865,8 @@ tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakter
 - c) a befektetési vállalkozáson belüli jogsértést bejelentő személy, valamint a jogsértésért feltehetően felelős természetes személy személyes adatainak védelmét.
 
 (3) A befektetési vállalkozás a jogsértés befektetési vállalkozáson belüli jelentésére független és önálló csatornát és eljárásokat dolgoz ki és működtet.
+
+(4) A jogsértések jelentésére vonatkozó rendelkezéseket az adatszolgáltatókra is alkalmazni kell.
 
 ### Személyi összeférhetetlenség
 
@@ -2150,6 +2149,8 @@ felelős azzal, hogy egyúttal biztosítja a működéshez és a tevékenység v
 
 (4) A könyvvizsgálót – jóhiszeműsége esetén – nem terheli felelősség az (1) és (2) bekezdésben meghatározott bejelentése esetén akkor sem, ha az utóbb megalapozatlannak bizonyul.
 
+(5) Ha adatszolgáltatási tevékenységet végző részére könyvvizsgáló jogszabályi kötelezettség alapján előírt feladatot lát el, e § alkalmazandó azzal, hogy ahol a rendelkezés befektetési vállalkozást említ, ott adatszolgáltatási tevékenységet végzőt kell érteni.
+
 99. § (1) A befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató könyvvizsgálója az éves beszámoló vizsgálata mellett megvizsgálja
 
 - a) az értékelés szakmai helyességét,
@@ -3292,137 +3293,35 @@ vonatkozó rendelkezések alkalmazandók.
 
 (4) Az OTF-et működtető befektetési vállalkozás vagy piacműködtető tájékoztatja az OTF leendő résztvevőjét a végrehajtott ügyletek teljesítésével kapcsolatos felelősségi szabályokról.
 
-### XXV/C. Fejezet — AZ ADATSZOLGÁLTATÁSI TEVÉKENYSÉGET VÉGZŐK ENGEDÉLYEZÉSI ÉS MŰKÖDÉSI FELTÉTELEI
+### XXV/C. Fejezet — AZ ADATSZOLGÁLTATÁSI TEVÉKENYSÉGET VÉGZŐK ENGEDÉLYEZÉSI FELTÉTELEI
 
-154/H. § (1) A 6/A. §-ban rögzített adatszolgáltatási tevékenységek végzése a Felügyelet engedélyével végezhető.
+154/H. § (1) A 600/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (3) bekezdésében meghatározottak szerint a belső piac szempontjából korlátozott jelentőségű adatszolgáltató, befektetési vállalkozás és piacműködtető adatszolgáltatási tevékenységet a 600/2014/EU európai parlamenti és tanácsi rendeletben meghatározott engedéllyel végezhet.
 
-(2) Az (1) bekezdésben foglaltaktól eltérően, a kereskedési helyszínt működtető befektetési vállalkozásoknak és piacműködtetőknek, ha az e részben meghatározott feltételeknek megfelelnek, a Felügyelet engedélyezi APA, CTP és ARM révén történő adatszolgáltatás működtetését.
+(2) Az (1) bekezdés szerinti engedélyt a Felügyelet adja ki.
 
-(3) Az adatszolgáltatási tevékenységet végző, amennyiben üzleti tevékenységét további adatszolgáltatásokra akarja kiterjeszteni, kérelmet nyújt be a Felügyelethez engedélyének kiterjesztésére.
+(3) Az adatszolgáltatási tevékenység engedélyezésének, az engedély visszavonásának és az adatszolgáltatók működésének részletes feltételeit a 600/2014/EU európai parlamenti és tanácsi rendelet tartalmazza.
 
-(4) Az adatszolgáltatási tevékenységet végző eleget tesz a 24/G. §-ban foglalt rendelkezéseknek.
+154/I. §
 
-(5) Ha adatszolgáltatási tevékenységet végző részére könyvvizsgáló jogszabályi kötelezettség alapján előírt feladatot lát el, a 98. § alkalmazandó azzal, hogy ahol a rendelkezés befektetési vállalkozást említ, ott adatszolgáltatási tevékenységet végzőt kell érteni.
-
-154/I. § (1) Az adatszolgáltatási tevékenység végzésére jogosító engedély kiadására a 27–31. § rendelkezéseit a 154/H–154/J. §-okban foglalt eltérésekkel kell megfelelően alkalmazni.
-
-(2) Az adatszolgáltatási tevékenységet végző vezető testületének tagjai
-
-- a) mindenkor a 4. § (2) bekezdés 33a. pontja szerinti jó üzleti hírnévvel kell rendelkezzenek,
-- b) elegendő ismerettel, készséggel és tapasztalattal kell rendelkezzenek,
-- c) megfelelő időt fordítanak feladataik ellátására,
-- d) tisztességesen, befolyásolástól mentesen és önállóan kell cselekedniük, hogy az ügyvezető vagy ügyvezetők döntéseit szükség esetén ténylegesen megkérdőjelezzék, valamint hatékonyan ellenőrizzék és felügyeljék az ügyvezető vagy ügyvezetők döntéshozatalát.
-
-(3) Az adatszolgáltatási tevékenységet végző vezető testületének egésze az adatszolgáltató tevékenységeinek megértéséhez megfelelő kollektív tudással, készségekkel és tapasztalattal kell, hogy rendelkezzen.
-
-(4) Az adatszolgáltatási tevékenységet végző vezető testülete meghatározza és felügyeli azon irányítási rendszer működtetését, amely biztosítja a szervezet hatékony és körültekintő vezetését, beleértve a szervezeten belüli feladatok elkülönítését és az összeférhetetlenség megelőzését, olyan módon, amely előmozdítja a piac integritását és az ügyfelek érdekeit.
-
-(5) Az adatszolgáltatási tevékenységet végző vezető testületének tagjainak megválasztásának vagy kinevezésének engedélyezéséhez a 22/A. § rendelkezéseit kell megfelelően alkalmazni.
-
-(6) A Felügyelet nem adja meg az engedélyt mindaddig, amíg teljes mértékben meg nem győződik arról, hogy a kérelmező a jelen rész és a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendeletében foglalt valamennyi követelménynek eleget tesz.
-
-(7) A 6/A. §-ban meghatározott adatszolgáltatási tevékenység iránti kérelemhez mellékelni kell
-
-- a) a létesítő okiratot vagy a létesítő okirat módosítását,
-- b) a végezni kívánt tevékenység megjelölését és a kérelmező döntési, irányítási rendszerét is tartalmazó szervezeti és működési szabályzatot,
-- c) a tervezett műveletek típusát is meghatározó üzleti tervet,
-- d) az e törvényben és külön jogszabályokban meghatározott tárgyi és technikai feltételek teljesülésének részletes leírását,
-- e) az e törvényben és külön jogszabályban meghatározott személyi feltételek teljesülését igazoló okiratok másolatát.
-
-(8) Ha a kérelmező magyarországi székhelyű nem természetes személy, akkor a (7) bekezdés a) pontjában foglalt okiratokat a Felügyelet szerzi be.
-
-(9) A Felügyelet a hiánytalan kérelem benyújtásától számított hat hónapon belül dönt az engedély megadásáról.
-
-154/J. § A Felügyelet a 31. § (1) bekezdés a), d), e) és j) pontjában meghatározott esetek mellett visszavonja az adatszolgáltatási tevékenységet végzőnek a tevékenység végzésére jogosító engedélyét, ha a szolgáltató súlyosan és módszeresen megsértette e törvény vagy a 600/2014/EU rendelet rendelkezéseit.
+154/J. §
 
 ### Az APA-ra vonatkozó feltételek
 
-154/K. § (1) Az APA megfelelő szabályzatokkal és eljárásokkal rendelkezik a 600/2014/EU rendelet 20. és 21. cikke szerinti információk nyilvánosságra hozatalához a valós időhöz olyan közel, amennyire csak lehetséges. Az APA jogosult az információ 15 percen belüli átadásáért ellenértéket kérni olyan módon, hogy az információért kért ár mértéke ne akadályozza meg az információhoz való hozzáférést (észszerű üzleti alapon való közzététel követelménye). Az APA általi közzétételt követően 15 perc elteltével, a tájékoztatást ingyenesen elérhetővé kell tenni.
+154/K. §
 
-(2) Az APA az információkat hatékonyan és koherensen teszi közzé, úgy hogy az információ gyorsan és megkülönböztetés-mentesen hozzáférhető legyen.
-
-(3) Az APA szabályzatokat, eljárásokat dolgoz ki és működtet
-
-- a) az ügyfelekkel kapcsolatos összeférhetetlenség megelőzésére,
-- b) az információk továbbítására használt eszközök biztonságának biztosítására,
-- c) az adatsérülés és jogosulatlan hozzáférés kockázatának minimalizálására,
-- d) az információ közzététele előtti kiszivárgásának megelőzésére.
-
-(4) Az olyan APA, amely egyben piacműködtető vagy befektetési vállalkozás is, minden összegyűjtött információt megkülönböztetés-mentes módon kezel, és megfelelő eljárásokat működtet és tart fenn a különböző üzleti funkciók különválasztása érdekében.
-
-(5) Az APA az adatszolgáltatási tevékenysége végzése során a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 84–89. cikkében meghatározott rendelkezéseinek megfelelően jár el (észszerű üzleti alapon való közzététel követelménye).
-
-154/L. § (1) Az APA által közzétett információknak legalább a következő adatokat kell tartalmaznia:
-
-- a) a pénzügyi eszköz azonosítója;
-- b) a kötési ár;
-- c) az ügylet volumene;
-- d) az ügyletkötés időpontja;
-- e) az ügylet bejelentésének időpontja;
-- f) az ügyletkötés díja;
-- g) azon kereskedési helyszín kódja, ahol az ügyletet végrehajtották, vagy amennyiben az ügyletet rendszeres internalizálón keresztül hajtották végre, az „SI” kód, vagy egyéb esetben a tőzsdén kívüli (OTC) kód;
-- h) adott esetben annak jelzése, hogy az ügyletre különleges feltételek vonatkoztak.
-
-(2) Az APA megfelelő erőforrásokat tart fenn, és tartalékrendszerekkel rendelkezik az (1) bekezdésben meghatározottak biztosítása érdekében.
-
-(3) Az APA rendelkezik olyan rendszerrel, amely ellenőrzi a kereskedési jelentéseket azok teljes körűsége szempontjából, azonosítja a kihagyásokat és a nyilvánvaló hibákat, és felhív a hibás jelentések újraküldésére.
+154/L. §
 
 ### A CTP-re vonatkozó feltételek
 
-154/M. § (1) A CTP megfelelő szabályzatokkal és eljárásokkal rendelkezik a 600/2014/EU rendelet 6. és 20. cikke szerint nyilvánosságra hozott információk észszerű üzleti alapon történő gyűjtésére, azok folyamatos adatfolyammá való összevonására és ennek a tájékoztatásnak a közzétételére a valós időhöz olyan közel, amennyire csak technikailag lehetséges. A CTP jogosult a tájékoztatás 15 percen belüli átadásáért ellenértéket kérni olyan módon, hogy az információért kért ár mértéke ne akadályozza meg az információhoz való hozzáférést (észszerű üzleti alapon való közzététel követelménye). A CTP általi közzétételt követően 15 perc elteltével, a tájékoztatást ingyenesen elérhetővé kell tenni.
+154/M. §
 
-(2) A CTP az információkat hatékonyan és koherensen teszi közzé, úgy hogy az információ gyorsan és megkülönböztetés-mentesen hozzáférhető legyen, olyan formátumban, amely könnyen hozzáférhető és felhasználható a piaci szereplők számára.
+154/N. §
 
-(3) A CTP által közzétett tájékoztatásnak legalább a következő adatokat kell tartalmaznia:
-
-- a) a 154/L. § (1) bekezdésében meghatározottak;
-- b) adott esetben annak ténye, hogy a befektetési döntésért és az ügylet végrehajtásáért egy, a befektetési vállalkozáson belül működő számítógépes algoritmus felelt;
-- c) ha a 600/2014/EU rendelet 3. cikke (1) bekezdésében említett információk közzétételének kötelezettsége alól a 600/2014/EU rendelet 4. cikke (1) bekezdésének a) vagy b) pontjával összhangban mentességet adtak, annak jelzése, hogy az ügyletre melyik mentességet alkalmazták.
-
-(4) A CTP az adatszolgáltatási tevékenysége végzése során a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 84–89. cikkében meghatározott rendelkezéseinek megfelelően jár el (észszerű üzleti alapon való közzététel követelménye).
-
-154/N. § (1) A CTP megfelelő szabályzatokkal és eljárásokkal rendelkezik a 600/2014/EU rendelet 10. és 21. cikke szerint nyilvánosságra hozott információk észszerű üzleti alapon történő gyűjtésére, azok folyamatos adatfolyammá való összevonására és ennek a tájékoztatásnak a közzétételére a valós időhöz olyan közel, amennyire csak technikailag lehetséges. A CTP jogosult a tájékoztatás 15 percen belüli átadásáért ellenértéket kérni olyan módon, hogy az információért kért ár mértéke ne akadályozza meg az információhoz való hozzáférést (észszerű üzleti alapon való közzététel követelménye). A CTP általi közzétételt követően 15 perc elteltével, a tájékoztatást ingyenesen elérhetővé kell tenni.
-
-(2) A CTP az információkat hatékonyan és koherensen teszi közzé, úgy hogy az információ gyorsan és megkülönböztetés-mentesen hozzáférhető legyen, olyan általánosan elfogadott interoperábilis formátumban, amely könnyen hozzáférhető és felhasználható a piaci szereplők számára.
-
-(3) A CTP által közzétett tájékoztatásnak legalább a következő adatokat kell tartalmaznia:
-
-- a) a pénzügyi eszköz azonosítója vagy azonosító jellemzői;
-- b) a 154/L. § (1) bekezdés b)–h) pontjaiban meghatározottak.
-
-(4) A CTP az adatszolgáltatási tevékenysége végzése során a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 84–89. cikkében meghatározott rendelkezéseinek megfelelően jár el (észszerű üzleti alapon való közzététel követelménye).
-
-154/O. § (1) A CTP szabályzatokat, eljárásokat dolgoz ki és működtet
-
-- a) az összeférhetetlenség megelőzésére,
-- b) az információk továbbítására használt eszközök biztonságának biztosítására,
-- c) az adatsérülés és jogosulatlan hozzáférés kockázatának minimalizálására,
-- d) az információ közzététele előtti kiszivárgásának megelőzésére.
-
-(2) Az olyan CTP, amely piacműködtető vagy APA és összesítettadat-szolgáltatást is működtet, minden összegyűjtött információt megkülönböztetés-mentes módon kezel és megfelelő eljárásokat működtet és tart fenn a különböző üzleti funkciók különválasztása érdekében.
-
-(3) A CTP a szolgáltatott adatokat minden szabályozott piac, az MTF-ek, az OTF-ek és az APA-k esetében, valamint a pénzügyi eszköz esetében Bizottság (EU) 2017/571 felhatalmazáson alapuló rendeletében foglaltak alapján vonja össze.
-
-(4) A CTP megfelelő erőforrásokat tart fenn, és tartalékrendszerekkel rendelkezik a 154/M. § (2) bekezdésében, valamint a 154/N. § (2) bekezdésében meghatározottak biztosítása érdekében.
+154/O. §
 
 ### Az ARM-re vonatkozó feltételek
 
-154/P. § (1) Az ARM megfelelő szabályzatokkal és eljárásokkal rendelkezik a 600/2014/EU rendelet 26. cikke szerinti információknak a lehető leggyorsabb és legkésőbb az ügylet napját követő munkanap végéig történő jelentéséhez. Az ilyen információkat a 600/2014/EU rendelet 26. cikkében rögzített követelményeknek megfelelően kell biztosítani.
-
-(2) Az ARM szabályzatokat, eljárásokat dolgoz ki és működtet
-
-- a) az ügyfelekkel kapcsolatos összeférhetetlenség megelőzésére,
-- b) az információk továbbítására használt eszközök biztonságának és hitelesítésének biztosítására,
-- c) az adatsérülés és jogosulatlan hozzáférés kockázatának minimalizálására,
-- d) az információ titkosságának megőrzésére és közzététele előtti kiszivárgásának megelőzésére.
-
-(3) Az olyan ARM, amely egyben piacműködtető vagy befektetési vállalkozás is, minden összegyűjtött információt megkülönböztetés-mentes módon kezel, és megfelelő eljárásokat működtet és tart fenn a különböző üzleti funkciók különválasztása érdekében.
-
-(4) Az ARM megfelelő erőforrásokat tart fenn, és tartalékrendszerekkel rendelkezik az (1) bekezdésben meghatározottak biztosítása érdekében.
-
-(5) Az ARM rendelkezik olyan rendszerrel, amely ellenőrzi az ügyletjelentések teljes körűségét és azonosítja a befektetési vállalkozás által elkövetett kihagyásokat és nyilvánvaló hibákat, és a befektetési vállalkozást a tájékoztatásával együtt felhívja a hibás jelentések újraküldésére.
-
-(6) Az ARM rendelkezik a saját maga által elkövetett hibák és kihagyások kiszűrésére is megfelelő rendszerekkel, amelyek lehetővé teszik azok javítását és a helyes és hiánytalan ügyletjelentések továbbítását (vagy adott esetben újbóli továbbítását) is a Felügyelet részére.
+154/P. §
 
 ## NYOLCADIK RÉSZ — A FELÜGYELÉS ÉS A FOGYASZTÓKKAL SZEMBENI KERESKEDELMI GYAKORLATRA VONATKOZÓ RENDELKEZÉSEK ÉRVÉNYESÍTÉSÉNEK SZABÁLYAI
 
@@ -3525,9 +3424,11 @@ többek között a vonatkozó adatok egymással való megosztásáról, az egys�
 
 valamint az ezen adatokban bekövetkező változást.
 
-(1a) A Felügyelet az APA-ként, CTP-ként, ARM-ként adatszolgáltatási tevékenységet végzőkről naprakész nyilvántartást vezet, amely tartalmazza a tevékenység végzésére jogosító engedélyeket. A nyilvántartás a nyilvánosság számára hozzáférhető, és információkat tartalmaz azon szolgáltatásokról vagy tevékenységekről, amelyekre az adatszolgáltatási tevékenységet végző engedéllyel rendelkezik.
+(1a) A Felügyelet a 600/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (3) bekezdésében meghatározottak szerint a belső piac szempontjából korlátozott jelentőségű adatszolgáltatókról naprakész nyilvántartást vezet, amely tartalmazza a tevékenység végzésére jogosító engedélyeket és a vezető testület tagjait.
 
-(1b) Ha a Felügyelet a 154/J. § alapján visszavont egy engedélyt, úgy az arról szóló tájékoztatást a honlapján 5 éven át közzéteszi.
+(1b) Ha a Felügyelet visszavont egy (1) bekezdés szerinti engedélyt, úgy az arról szóló tájékoztatást a honlapján 5 éven át közzéteszi.
+
+(1c) A nyilvántartás a nyilvánosság számára hozzáférhető.
 
 (2) A Felügyelet – a (3) és (4) bekezdésben foglaltakra figyelemmel – nyilvántartást vezet a 114. § (3) bekezdése alapján a befektetési vállalkozás és az árutőzsdei szolgáltató által megbízott függő ügynökökről, akik lakóhelye (tartózkodási helye), vagy székhelye Magyarország területén található.
 
@@ -3537,7 +3438,7 @@ valamint az ezen adatokban bekövetkező változást.
 
 (5) A Felügyelet nyilvántartást vezet a 113. § alapján a befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás közvetítésére megbízott befektetési vállalkozásokról.
 
-159/A. § (1) A Felügyelet a 22/B. § (1) bekezdés c) pontjában meghatározott hatósági képzéssel és vizsgáztatással kapcsolatban, a hatósági képzés és vizsgáztatás hatósági ellenőrzésével, továbbá a hatósági képzésre és vizsgára történő jelentkezés lebonyolításával és a sikeres vizsgákat igazoló hatósági tanúsítvány kiadásával, pótlásával kapcsolatos feladatai ellátása érdekében nyilvántartást vezet a képzést vagy képzést és vizsgáztatást végző szervekről (a továbbiakban együtt: képző szerv), a hatósági vizsgára jelentkező személyekről, a képző szerv által aláíró személyként megjelölt, a képzési igazolás kiállítására és aláírására feljogosított személyekről (a továbbiakban: aláíró személy), az oktatókról, a hatósági vizsga jogszabályban foglalt feltételeknek megfelelő lebonyolításának felügyeletére jogosult személyekről (a továbbiakban: vizsgabiztos), valamint a hatósági vizsga letételét igazoló tanúsítványokról.
+159/A. § (1) A Felügyelet a 22/B. § (1) bekezdés c) pontjában meghatározott hatósági képzéssel és vizsgáztatással kapcsolatban, a hatósági képzés és vizsgáztatás hatósági ellenőrzésével, továbbá a hatósági képzésre és vizsgára történő jelentkezés lebonyolításával és a sikeres vizsgákat igazoló hatósági bizonyítvány kiadásával, pótlásával kapcsolatos feladatai ellátása érdekében nyilvántartást vezet a képzést vagy képzést és vizsgáztatást végző szervekről (a továbbiakban együtt: képző szerv), a hatósági vizsgára jelentkező személyekről, a képző szerv által aláíró személyként megjelölt, a képzési igazolás kiállítására és aláírására feljogosított személyekről (a továbbiakban: aláíró személy), az oktatókról, a hatósági vizsga jogszabályban foglalt feltételeknek megfelelő lebonyolításának felügyeletére jogosult személyekről (a továbbiakban: vizsgabiztos), valamint a hatósági vizsga letételét igazoló hatósági bizonyítványokról.
 
 (2) A 116/A. § (1) bekezdésében meghatározott tevékenység gyakorlását lehetővé tevő közvetítői hatósági vizsgának és az ahhoz szükséges képzésnek a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott feltételeknek megfelelő képzés és vizsga fogadható el.
 
@@ -3566,11 +3467,11 @@ valamint az ezen adatokban bekövetkező változást.
 
 (7) A Felügyelet a nyilvántartásba vételről szóló döntésben a (6) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
 
-(8) A hatósági vizsga letételét igazoló, elveszett vagy megsemmisült tanúsítvány pótlására – erre irányuló kérelem esetén – a Felügyelet a nyilvántartása alapján másodlatot állít ki, amit a kérelmező a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendelet szerinti hatósági vizsgára történő jelentkezési lapban meghatározott – vizsgaidőpontban érvényes – adatainak megadásával igényelhet.
+(8) A hatósági vizsga letételét igazoló, elveszett vagy megsemmisült hatósági bizonyítvány pótlására – erre irányuló kérelem esetén – a Felügyelet a nyilvántartása alapján másodlatot állít ki, amit a kérelmező a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendelet szerinti hatósági vizsgára történő jelentkezési lapban meghatározott – vizsgaidőpontban érvényes – adatainak megadásával igényelhet.
 
 (9) Az e §-ban meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő a Felügyelet.
 
-(10) A Felügyelet az (1) bekezdésben meghatározott nyilvántartásban szereplő személyes adatokat az adott személy hatósági képzésben vagy vizsgáztatásban történő közreműködésétől számított tizenöt év elteltével törli a nyilvántartásból, ide nem értve azokat az adatokat, amelyek hatósági vizsga letételét igazoló tanúsítvány nyilvántartásához szükségesek.
+(10) A Felügyelet az (1) bekezdésben meghatározott nyilvántartásban szereplő személyes adatokat az adott személy hatósági képzésben vagy vizsgáztatásban történő közreműködésétől számított tizenöt év elteltével törli a nyilvántartásból, ide nem értve azokat az adatokat, amelyek hatósági vizsga letételét igazoló hatósági bizonyítvány nyilvántartásához szükségesek.
 
 (11) A Felügyelet jogosult vizsgáztatási tevékenységet folytatni a – vizsgáztatási tevékenységet végző szervekre és a hatósági vizsgára vonatkozó – jogszabályi követelmények betartásával.
 
@@ -3996,7 +3897,7 @@ kezelheti.
 - a) a felfüggesztés visszavonása esetén és
 - b) az értesítési eljárás vonatkozásában a Felügyelet által alkalmazott, az (1) bekezdés u) pontja szerinti szankciókra vonatkozó határozatok esetén.
 
-(12) E § rendelkezéseit alkalmazni kell a befektetési holding társaságra, a vegyes pénzügyi holding társaságra, a vegyes tevékenységű holding társaságra, valamint ezek vezető állású személyére.
+(12) E § rendelkezéseit alkalmazni kell a befektetési holding társaságra, a vegyes pénzügyi holding társaságra, a vegyes tevékenységű holding társaságra, az adatszolgáltatókra, valamint ezek vezető állású személyére.
 
 164/A. § (1) A Felügyelet értesíti az Európai Értékpapír-piaci Hatóságot vagy más uniós tagállamok hatáskörrel rendelkező felügyeleti hatóságait
 
@@ -4297,7 +4198,7 @@ rendeletben állapítsa meg.
 (2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg
 
 - a) az ügyféllel kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás minimálisan kötelező tartalmi elemeire,
-- b) a hatósági képzés és vizsga szabályaira, a hatósági vizsga letételével szerzett, tőkepiaci üzletkötői tevékenység folytatására feljogosító tanúsítvány megszerzésének követelményeire, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére,
+- b) a hatósági képzés és vizsga szabályaira, a hatósági vizsga letételével szerzett, tőkepiaci üzletkötői tevékenység folytatására feljogosító hatósági bizonyítvány megszerzésének követelményeire, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére,
 - c) a befektetési vállalkozás által alkalmazandó termék-jóváhagyási folyamatra,
 - d) a befektetési szolgáltatási tevékenységhez illetve a kiegészítő szolgáltatáshoz kapcsolódó ösztönzőkre
 
@@ -4430,6 +4331,12 @@ foglalt követelményeknek.
 
 (25) A Felügyelet 2017. december 31-ig vissza nem állítható módon töröl minden olyan adatot, amelyet a 2017. június 30-án hatályos 116/A. §-a szerinti nyilvántartás alapján kezelt.
 
+(26) A Felügyelet jár el a 2021. szeptember 30-ig benyújtott adatszolgáltatási tevékenység engedélyezésére vonatkozó kérelem ügyében.
+
+(27) Minden olyan adatszolgáltatóra vonatkozóan, amely a 600/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (3) bekezdésében meghatározottak szerint nem minősül a belső piac szempontjából korlátozott jelentőségűnek, a Felügyelet legkésőbb 2022. január 1-jéig az Európai Értékpapír-piaci Hatóság számára átad minden rendelkezésére álló adatot és eredeti dokumentációt vagy annak hiteles másolatát.
+
+(28) Azt a befektetési vállalkozással, árutőzsdei szolgáltatóval vagy közvetítővel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személyt, aki 2021. december 31-én megfelelt a 22/B. § (1) bekezdés b) pontjában meghatározott követelményeknek, úgy kell tekinteni, hogy 2022. január 1-jét követően is megfelel a 116/A. § (2) bekezdés c) pontja tekintetében szakmai képesítésként elfogadható követelményeknek.
+
 182/A. § A 123/B. § szerinti intézmény a FATCA-törvény hatálybalépését megelőzően létrejött pénzügyi számlák tekintetében a 123/C. § (1) bekezdés szerinti tájékoztatást írásban vagy – általános jelleggel, a számlatulajdonosok azonosítására alkalmatlan módon – a honlapján történő közzététellel legkésőbb 2015. június 30-ig teljesíti.
 
 182/B. § (1) A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény és egyes pénzügyi tárgyú törvények módosításáról szóló 2016. évi XLIV. törvény (a továbbiakban: Módtv2.) 60. §-ával bevezetett 20/C. §-t a Módtv2. hatálybalépését követően induló üzleti évben kell először alkalmazni.
@@ -4471,6 +4378,7 @@ foglalt követelményeknek.
 - j) a 2014/59/EU irányelvnek a fedezetlen, hitelviszonyt megtestesítő instrumentumok kielégítési sorrendben elfoglalt helye tekintetében történő módosításáról szóló, 2017. december 12-i (EU) 2017/2399 európai parlamenti és tanácsi irányelv.
 - k) a befektetési vállalkozások prudenciális felügyeletéről, valamint a 2002/87/EK, a 2009/65/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU és a 2014/65/EU irányelv módosításáról szóló, 2019. november 27-i (EU) 2019/2034 európai parlamenti és tanácsi irányelv.
 - l) a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1504 európai parlamenti és tanácsi irányelv.
+- m) a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról szóló 2009/138/EK irányelv (Szolvencia II.), a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv és a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv módosításáról szóló, 2019. december 18-i (EU) 2019/2177 európai parlamenti és tanácsi irányelv.
 
 (2) Ez a törvény
 

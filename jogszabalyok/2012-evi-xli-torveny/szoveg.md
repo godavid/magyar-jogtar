@@ -101,13 +101,19 @@ a következő törvényt alkotja:
 - 36. közösségi kerékpáros rendszer: több állomásból álló, automatizáltan működő, bárki számára folyamatosan igénybe vehető, rövid távú és egyirányú utazásra alkalmas kerékpár-kölcsönzési rendszer;
 - 37. utasmédia: elektronikus tartalom, amely az utazási jogosultság hordozására alkalmas;
 - 38. utazási okmány: e törvény alkalmazásában utazási jogosultság, illetve kedvezmény megjelenítésére, igénybevételére és igazolására szolgáló dokumentum;
-- 39. közösségi autóbérlő rendszer: személygépkocsi-kölcsönző rendszer, amely díj ellenében, érvényes, Magyarország területén személygépkocsi közúton történő vezetésére jogosító okmánnyal rendelkező, előzetesen regisztrált felhasználók számára folyamatosan igénybe vehető, továbbá központi telematikai rendszerrel irányított módon, automatizált helyszíni kölcsönzési folyamat alkalmazásával, az üzemeltetési területen belül szabad felhasználást biztosítva működik;
+- 39. közösségi autóbérlő rendszer: gépkocsi-kölcsönző rendszer, amely a Magyarország területén B-kategóriájú vezetői engedéllyel vezethető gépkocsi közúton történő vezetésére jogosító okmánnyal rendelkező, előzetesen regisztrált felhasználók számára díj ellenében folyamatosan igénybe vehető, továbbá központi telematikai rendszerrel irányított módon, automatizált helyszíni kölcsönzési folyamat alkalmazásával, az üzemeltetési területen belül szabad felhasználást biztosítva működik;
 - 40. átszállójegy: egy vagy több vasúttársaság által működtetett, egymást követő vasúti szolgáltatásokra jogosító szállítási szerződést képviselő menetjegy vagy menetjegyek;
 - 41. nagy sebességű személyszállítási szolgáltatások: egymástól 200 km-t meghaladó távolságra lévő két helyszín között, közbenső megállók nélkül közlekedő olyan személyszállítási szolgáltatások, amelyek speciális konstrukciójú, nagy sebességű, legalább 250 km/h sebességre kialakított vonalakon működnek, és átlagosan e sebességgel közlekednek;
 - 42. autóbusz-állomás: a 181/2011/EU rendelet 3. cikk m) pontjában meghatározott autóbusz-állomás;
 - 43. autóbusz-megállóhely: a 181/2011/EU rendelet 3. cikk n) pontjában meghatározott autóbusz-megálló;
 - 44. autóbusz-állomás üzemeltető szerv: az autóbusz-állomás ingatlan-nyilvántartásban feltüntetett tulajdonosa, vagy a tulajdonos többségi befolyása alatt álló gazdasági társaság, vagy az autóbusz-állomás üzemeltetésre alapított költségvetési szerv, vagy a tulajdonossal az üzemeltetésre vonatkozóan megállapodást kötő személyszállítási közszolgáltatást nyújtó szolgáltató vagy más gazdasági társaság;
 - 45. autóbusz-megállóhely üzemeltető szerv: az út közúti közlekedésről szóló törvény szerinti kezelője, a közút területén kívül elhelyezkedő autóbusz-megállóhelyek kivételével, ahol az autóbusz-megállóhely üzemeltetője az autóbusz-megállóhely ingatlannyilvántartásban feltüntetett tulajdonosa vagy az üzemeltetésre vonatkozóan megállapodást kötő személyszállítási közszolgáltatást nyújtó szolgáltató vagy más gazdasági társaság.
+- 46. kamera: nem emberi testre felhelyezett, képfelvétel, továbbá kép- és hangfelvétel rögzítésére alkalmas elektronikus biztonságtechnikai rendszer;
+- 47. testkamera: emberi testre felhelyezhető vagy ruházatra felszerelhető képfelvétel, továbbá kép-és hangfelvétel rögzítésre alkalmas elektronikus biztonságtechnikai rendszer;
+- 48. integrált személyszállítási közszolgáltatás: az 1370/2007/EK rendelet 2. cikk m) pontja szerinti összekapcsolt szállítási szolgáltatások;
+- 49. összekapcsolt személyszállítási közszolgáltatás: integrált személyszállítási közszolgáltatásnak nem minősülő, meghatározott földrajzi területen azonos díjtermékekkel igénybe vehető azon országos, regionális, elővárosi illetve helyi személyszállítási közszolgáltatások, valamint ezekhez kapcsolódó vízi személyszállítási közszolgáltatások összessége, amelyeket – az 5. §-ban meghatározottakra tekintettel – két vagy több közlekedési szolgáltató a megrendelő vagy megrendelők által jóváhagyott együttműködési megállapodás alapján végez;
+- 50. összekapcsolt díjtermék: összekapcsolt személyszállítási közszolgáltatás igénybevételére jogosító bérlet vagy menetjegy, amely az 5. § (3) és (4) bekezdés szerinti, vagy a 32. § (2) bekezdés szerinti együttműködési megállapodás alapján kerül alkalmazásra;
+- 51. integrált díjtermék: integrált személyszállítási közszolgáltatás igénybevételére jogosító bérlet és menetjegy, amely az 5. § (3) és (4) bekezdés szerinti vagy a 32. § (2) bekezdés szerinti együttműködési megállapodás alapján kerül alkalmazásra.
 
 #### 3. Együttműködési kötelezettség
 
@@ -119,6 +125,8 @@ a következő törvényt alkotja:
 más személyszállítási szolgáltatást nyújtó szolgáltatók számára.
 
 (2) A személyszállítási szolgáltatási tevékenység végzéséhez szükséges állomások, megállóhelyek, valamint egyéb utasforgalmi létesítmények legalább többségi állami tulajdonú üzemeltetői kötelesek a Kormány egyedi döntése, vagy a közigazgatási szerv megkeresése alapján biztosítani a személyforgalom lebonyolítására és kiszolgálására szolgáló létesítményben a közigazgatási szervek számára az ügyintézést nyújtó szervezet elhelyezését, annak akadálymentes megközelítését, az állomás és a távközlési hálózat használatát és üzemeltetését. Az ügyintézés helyszínét biztosító helyiség igénybevételével és használatával kapcsolatos szabályokról, valamint a helyiség üzemeltetésével kapcsolatos közvetlen költségek (közüzemi díjak és önköltségi szinten számított épületüzemeltetési költségek) viseléséről a létesítmény üzemeltetője és az érintett közigazgatási szerv szerződésben rendelkeznek.
+
+(3) Az (1) bekezdésben foglaltak megtartását az autóbuszos hatóság ellenőrzi.
 
 3/A. § (1) A 3. §-ban meghatározott együttműködési kötelezettség alapján az autóbusz-állomás, autóbusz-megállóhely üzemeltetője köteles az általa üzemeltetett autóbusz-állomás és autóbusz-megállóhely hozzáférésére vonatkozó előírásokat honlapján hozzáférési szabályzatban közzétenni.
 
@@ -257,11 +265,28 @@ vagy ezek megbízottja jogosult a személyszállítási szolgáltatásban részt
 
 (9) Az (1) bekezdésben meghatározott szervek a személyszállítási szerződés teljesítésével összefüggésben a menetdíjat meg nem fizető, vagy az utazási feltételeket egyéb módon megszegő utas azonosítása céljából a polgárok személyi adatainak és lakcímének nyilvántartásából természetes személyazonosító adatok, lakcím és személyazonosító igazolvány okmányazonosítója adat igénylésére jogosultak a nyilvántartó szervtől az adatigénylés indokoltságának igazolása mellett.
 
-8. § (1) A személyszállítási közszolgáltatást végző szolgáltató és az e szolgáltatás nyújtásához igénybe vett közlekedésszervező, vasút-, trolibusz-, autóbusz-, hajóállomás vagy megállóhely, kikötő üzemeltetője, valamint a 22. § (4a) bekezdése szerint működtetett közösségi kerékpáros rendszer vagy közösségi autóbérlő rendszer üzemeltetője (e § alkalmazásában a továbbiakban együtt: szolgáltató) az e szolgáltatással összefüggésben a járműveinek, a területén található berendezéseknek, eszközöknek, az utasoknak, valamint a szolgáltató munkavállalói és megbízottai életének, személyének, testi épségének és a nemzeti vagyon védelme céljából elektronikus biztonságtechnikai rendszeren keresztül kizárólag a (2)–(14) bekezdésben meghatározott feltételekkel folytathat megfigyelést, készíthet rögzített képfelvételt és kezelheti a rögzített képfelvételeket.
+8. § (1) E § alkalmazásában szolgáltatónak minősül:
 
-(2) Szolgáltató az (1) bekezdés szerinti képfelvételt a tulajdonában vagy jogszerű használatában álló területen, a közforgalom számára nyitva álló helyen, a vasúti pályahálózaton, személyszállítási szolgáltatás céljára alkalmazott járművein, valamint a jegy- és bérletértékesítő berendezéseken készíthet.
+- a) a személyszállítási közszolgáltatást végző szolgáltató és az e szolgáltatás nyújtásához igénybe vett közlekedésszervező,
+- b) a vasút-, trolibusz-, autóbusz-, hajóállomás vagy megállóhely, kikötő üzemeltetője, valamint
+- c) a 22. § (4a) bekezdése szerint működtetett közösségi kerékpáros rendszer vagy közösségi autóbérlő rendszer üzemeltetője.
 
-(3) Szolgáltató az (1) bekezdés szerinti elektronikus biztonságtechnikai rendszer alkalmazásáról köteles – a vakok és gyengénlátók, valamint idegen nyelvűek számára is értelmezhető módon – figyelemfelhívó jelzést, továbbá a személyes adatok kezeléséről tájékoztatást elhelyezni
+(2) A szolgáltató – az utasok, valamint a szolgáltató munkavállalói és megbízottai élete, személye, testi épsége, vagyontárgyai védelme, valamint a járművei, berendezései, eszközei, egyéb vagyontárgyai és a nemzeti vagyon védelme érdekében – az (5) bekezdésben meghatározott helyeken, elektronikus biztonságtechnikai rendszeren keresztül, az (5)–(15) bekezdésben foglalt feltételekkel folytathat megfigyelést, készíthet rögzített képfelvételt, és kezelheti a rögzített képfelvételeket.
+
+(3) A szolgáltató – az utasok, valamint a szolgáltató munkavállalói és megbízottai élete, személye, testi épsége, vagyontárgyai ellen irányuló jogsértő cselekmény felderítése, bizonyítása, továbbá a járművei, berendezései, eszközei, egyéb vagyontárgyai és a nemzeti vagyonba tartozó vagyontárgyak védelme érdekében – elektronikus biztonságtechnikai rendszeren; így különösen testkamerán a gépjárműben elhelyezett vagy a jegyértékesítési terület megfigyelésére alkalmazott fedélzeti kamerán keresztül az (5)–(15) bekezdésben foglalt feltételekkel folytathat megfigyelést. A szolgáltató a megfigyelés során képfelvételt vagy kép- és hangfelvételt készít, valamint kezeli a rögzített képfelvételt vagy kép- és hangfelvételt. Testkamera esetében a szolgáltató biztosítja a testkamera viselője általi rögzítés indításának és befejezésének technikai lehetőségét.
+
+(4) A szolgáltató a jogszabályi felhatalmazás alapján végzett szolgáltatás minőségének és mennyiségének ellenőrzése érdekében, valamint bűnüldözési célból, az (5) bekezdésben meghatározott helyeken elektronikus biztonságtechnikai rendszeren keresztül, az (5)–(15) bekezdésben foglalt feltételekkel folytat megfigyelést, készít rögzített képfelvételt, és kezeli a rögzített képfelvételeket.
+
+(5) A szolgáltató a (2) bekezdés szerinti képfelvételt és a (3) bekezdés szerinti képfelvételt vagy kép- és hangfelvételt (a továbbiakban együttesen: felvétel) a tulajdonában vagy jogszerű használatában lévő területén készíthet, így különösen:
+
+- a) közforgalom számára nyitva álló helyen,
+- b) vasúti pályahálózaton,
+- c) jegy- és bérletértékesítő berendezésen és annak közvetlen környezetében,
+- d) személyszállítási szolgáltatás céljára alkalmazott járművein,
+- e) közösségi kerékpár gyűjtőállomásán, valamint
+- f) közösségi autóbérlő rendszer személygépkocsijának belső terében.
+
+(6) A szolgáltató a (2) és (3) bekezdés szerinti elektronikus biztonságtechnikai rendszer alkalmazásáról az (5) bekezdésben felsorolt helyeken megjelenő személyek számára észlelhető módon figyelemfelhívó jelzést helyez el, továbbá – a vakok és gyengén látók tájékoztatására alkalmas módon, valamint a magyar nyelvet nem ismerők számára legalább angol nyelven, továbbá indokolt esetben a szolgáltató által meghatározott más nyelven – a személyes adatok kezeléséről tájékoztatást nyújt
 
 - a) a vasút-, hajó-, trolibusz- és az autóbusz-állomás és megállóhely bejáratánál,
 - b) a személyszállító vasúti járműre, hajóra, trolibuszra és az autóbuszra való felszállásra szolgáló peronoknál,
@@ -270,48 +295,51 @@ vagy ezek megbízottja jogosult a személyszállítási szolgáltatásban részt
 - e) a jegy- és bérletértékesítő berendezésen, valamint
 - f) a közösségi autóbérlő rendszer személygépkocsijának belső terében.
 
-(4) Ha a (3) bekezdésben meghatározott hely a tájékoztatás elhelyezésére nem alkalmas, a tájékoztatást a vasúti pályaudvaron, autóbusz-állomáson, a szolgáltató Üzletszabályzatában és honlapján kell hozzáférhetővé tenni.
+(7) Ha a (6) bekezdésben meghatározott hely tájékoztatás nyújtására nem alkalmas, a tájékoztatást a vasúti pályaudvaron, autóbusz-állomáson, a szolgáltató Üzletszabályzatában és honlapján kell hozzáférhetővé tenni.
 
-(5) Képfelvétel nem készíthető olyan helyen, ahol az az emberi méltóságot sértheti, így különösen mosdóban, illemhelyen.
+(8) Felvétel nem készíthető olyan helyen, ahol az az emberi méltóságot sértheti, így különösen mosdóban, illemhelyen.
 
-(6) A képfelvételt a rögzítéstől számított 16. napon törölni kell, ha annak felhasználására bírósági vagy hatósági eljárásban nem kerül sor.
+(9) A szolgáltató a felvételt a rögzítéstől számított 16. napon törli, ha annak felhasználására bírósági vagy hatósági eljárásban nem kerül sor.
 
-(7) Akinek jogát vagy jogos érdekét a képfelvétel érinti, jogának vagy jogos érdekének igazolásával kérheti, hogy a felvételt annak kezelője ne törölje a (6) bekezdésben meghatározottak szerint.
+(10) Akinek jogát vagy jogos érdekét a felvétel érinti, jogának vagy jogos érdekének igazolásával, aki a felvételen maga is szerepel (a továbbiakban együtt e § alkalmazásában: érintett), jogának vagy jogos érdekének igazolása nélkül kérheti, hogy a felvételt a szolgáltató a (9) bekezdésben meghatározottak szerint ne törölje. Ez a jog nem érinti a személyes adatok védelmére vonatkozó, az Európai Unió jogi aktusa, illetve a nemzeti jog alapján az érintett által gyakorolható egyéb jogokat.
 
-(8) Megkeresés esetén a képfelvételt haladéktalanul meg kell küldeni a bíróság vagy hatóság részére.
+(11) Bíróság vagy hatóság erre irányuló megkeresése esetén a szolgáltató a felvételt haladéktalanul megküldi a megkereső részére.
 
-(9) Ha a (7) bekezdés szerinti kérelmet nyújtottak be, és az azt követő 30 napon belül a (8) bekezdés szerinti megkeresés nem érkezik a szolgáltatóhoz, a felvételt törölni kell.
+(12) A (10) bekezdés szerint benyújtott kérelmet követően a felvétel mindaddig nem törölhető, amíg a (11) bekezdés szerinti megkeresés meg nem érkezik a szolgáltatóhoz vagy az érintett által a (10) bekezdés szerint előterjesztett kérelemben megjelölt indok miatt arra szükség van, de legfeljebb a kérelem beérkezésétől számított hat hónapig.
 
-(10) A szolgáltató az (1) bekezdésben meghatározott célból készített képfelvételt felhasználhatja
+(13) A szolgáltató a felvételt felhasználhatja:
 
-- a) a szolgáltatását igénybe vevő személyeket,
-- b) a működtetésében lévő berendezések használóit,
-- c) a szolgáltató munkavállalóit, megbízottjait,
-- d) a kezelésében lévő területeken tartózkodó személyeket, illetve poggyászaikat, és
-- e) a járműveket, berendezéseket és felszereléseket
+- a) a szolgáltatását igénybe vevő személyt,
+- b) a működtetésében lévő berendezés használóját,
+- c) a szolgáltató munkavállalóját, megbízottját,
+- d) a kezelésében lévő területeken tartózkodó személyt, valamint poggyászát,
+- e) a járműveket, berendezéseket, eszközöket és egyéb vagyontárgyakat,
+- f) a jogszabályi felhatalmazás alapján az általa megrendelt szolgáltatást
 
-ért balesetek, káresetek körülményeinek, továbbá a szolgáltatónál tett panaszbejelentések kivizsgálásához.
+érintő esemény, baleset, káreset körülményeinek, továbbá a szolgáltatónál tett panaszbejelentések kivizsgálása érdekében.
 
-(11) A (10) bekezdés szerinti vizsgálat időtartamával, de legfeljebb 45 nappal a (6) bekezdésben meghatározott időtartam meghosszabbodik.
+(14) A (9) bekezdésben meghatározott időtartam a (13) bekezdés szerinti vizsgálat időtartamával, de legfeljebb 45 nappal meghosszabbodik.
 
-(12) A vizsgálat során felhasznált képfelvételt a vizsgálat és az annak eredményeként tett intézkedések, illetve bírósági vagy hatósági eljárás esetén az azt lezáró határozat jogerőre emelkedését vagy véglegessé válását követő 15. napon törölni kell.
+(15) A vizsgálat során felhasznált felvételt a vizsgálat és az annak eredményeként tett intézkedés, továbbá bírósági vagy hatósági eljárás esetén az azt lezáró határozat jogerőre emelkedését vagy véglegessé válását követő 15. napon törölni kell.
 
-(13) Szolgáltató az (1) bekezdésben meghatározott kép-, hang-, valamint kép- és hangfelvételt a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 6. § (9) bekezdése szerinti tisztántartási kötelezettség teljesítéséről való meggyőződés érdekében is felhasználhatja.
+(16) A szolgáltató az (5) bekezdésben meghatározott felvételt a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 6. § (9) bekezdése szerinti tisztántartási kötelezettség teljesítéséről való meggyőződés érdekében is felhasználhatja.
 
-(14) A szolgáltató a (13) bekezdés szerinti feladatai ellátása körében az (1)–(13) bekezdés alkalmazásával jogosult kép-, hang-, valamint kép- és hangfelvétel készítésére. Ha a szolgáltató hulladékot észlel, azt elszállítja és ezt a hulladékról szóló törvény szerint bejelenti, valamint a rendelkezésére álló adatokat továbbítja a hulladékgazdálkodási hatóságnak. A szolgáltató e körben a hulladékgazdálkodási hatósággal szorosan együttműködik és minden elvárható információt megad a hulladékgazdálkodási hatóság hatékony tevékenységének elősegítése érdekében. A szolgáltató a hulladékgazdálkodási hatóság megkeresésére a hulladékgazdálkodási hatóság rendelkezésére bocsátja a (13) bekezdés szerinti feladatai ellátása körében készült kép-, hang-, valamit kép- és hangfelvételeket.
+(17) A szolgáltató a (16) bekezdés szerinti feladat ellátása körében az (1)–(15) bekezdésekben meghatározott feltételek szerint jogosult kép-, hang-, valamint kép- és hangfelvétel készítésére.
 
-8/A. § (1) A szolgáltató jogszabályban meghatározottak szerint együttműködik a Kormány által kijelölt központi tárhelyszolgáltatóval. A szolgáltató a 8. § (1) bekezdésben meghatározott kép-, hang-, valamint kép- és hangfelvételt – amennyiben annak műszaki és technikai feltételei adottak – a Kormány által kijelölt központi tárhelyszolgáltató által biztosított tárhelyen rögzíti.
+(18) Ha a szolgáltató hulladékot észlel, azt elszállítja és ezt a hulladékról szóló törvény szerint bejelenti, valamint a rendelkezésére álló adatokat továbbítja a hulladékgazdálkodási hatóságnak. A szolgáltató e körben a hulladékgazdálkodási hatósággal szorosan együttműködik és minden elvárható információt megad a hulladékgazdálkodási hatóság hatékony tevékenységének elősegítése érdekében. A szolgáltató a hulladékgazdálkodási hatóság megkeresésére rendelkezésre bocsátja a (16) bekezdés szerinti feladatai ellátása körében készült kép-, hang-, valamit kép- és hangfelvételeket.
 
-(2) A 8. § (1) bekezdésben meghatározott kép-, hang-, valamint kép- és hangfelvétel
+8/A. § (1) A szolgáltató jogszabályban meghatározottak szerint együttműködik a Kormány által kijelölt központi tárhelyszolgáltatóval. A szolgáltató a 8. § (2) és (3) bekezdésében meghatározott felvételt – ha annak műszaki és technikai feltételei adottak – a Kormány által kijelölt központi tárhelyszolgáltató által biztosított tárhelyen rögzíti.
 
-- a) a terrorcselekmények vagy más bűncselekmények megelőzése, felderítése és megszakítása céljából,
-- b) a nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladatok ellátása céljából,
-- c) a katasztrófavédelmi, tűzvédelmi hatósági feladatok ellátása céljából,
+(2) A 8. § (5) bekezdésében meghatározott felvétel
+
+- a) terrorcselekmény vagy más bűncselekmények megelőzése, felderítése és megszakítása céljából,
+- b) nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladatok ellátása céljából,
+- c) katasztrófavédelmi, tűzvédelmi hatósági feladatok ellátása céljából, valamint
 - d) körözött személy vagy tárgy azonosítása érdekében
 
 is felhasználható.
 
-(3) Felhasználásnak minősül, ha a 8. § (1) bekezdésben meghatározott kép-, hang-, valamint kép- és hangfelvételt a szolgáltató a rendőrség, a nemzetbiztonsági szolgálat, a hivatásos katasztrófavédelmi szerv részére megkeresésük esetén továbbítja a (2) bekezdésben meghatározott célból.
+(3) Felhasználásnak minősül, ha a 8. § (5) bekezdésében meghatározott felvételt a szolgáltató a rendőrség, a nemzetbiztonsági szolgálat, a hivatásos katasztrófavédelmi szerv részére megkeresésük esetén továbbítja a (2) bekezdésben meghatározott célból.
 
 ### II. Fejezet — A SZEMÉLYSZÁLLÍTÁSI SZOLGÁLTATÁSSAL KAPCSOLATOS HATÓSÁGI TEVÉKENYSÉG
 
@@ -518,7 +546,7 @@ amely nem felel meg a Kormány rendeletében meghatározott diszpécserszolgála
 
 (7) A kötelezettségek súlyos és ismétlődő megszegése esetén – ha az (5) bekezdésben meghatározott egyéb jogkövetkezmények nem vezettek eredményre – az autóbuszos hatóság a személyszállítási szolgáltatás végzésére jogosító engedély felfüggesztését vagy visszavonását kezdeményezi.
 
-18. § (1) A vasúti személyszállítást vagy az autóbuszos személyszállítást igénybe vevő vagy igénybe venni szándékozó személy (a továbbiakban: panaszos) panasszal élhet a vasúti igazgatási szervnél, illetve az autóbuszos hatóságnál, ha álláspontja szerint a személyszállító szolgáltató vagy a közlekedésszervező megsértette a 17. § (1) vagy (3) bekezdését. A panasz – személyesen, postai vagy elektronikus úton, ideértve az elektronikus levelet (e-mail) is – abban az esetben terjeszthető elő, ha a panaszos a vasúti vagy az autóbuszos személyszállító szolgáltató vagy a közlekedésszervező panaszkezelési eljárását igénybe vette, de az nem vezetett a panaszos számára kielégítő eredményre.
+18. § (1) A vasúti vagy az autóbuszos személyszállítási szolgáltatást igénybe vevő vagy igénybe venni szándékozó személy (a továbbiakban: panaszos) panasszal élhet a vasúti igazgatási szervnél, vagy az autóbuszos hatóságnál, ha álláspontja szerint a személyszállító szolgáltató vagy a közlekedésszervező megsértette a 17. § (1) vagy (3) bekezdését. A panasz – személyesen, postai vagy elektronikus úton – abban az esetben terjeszthető elő, ha a panaszos a vasúti vagy az autóbuszos személyszállító szolgáltató vagy a közlekedésszervező panaszkezelési eljárását igénybe vette, de az nem vezetett a panaszos számára kielégítő eredményre.
 
 (2) Vasúti személyszállítás esetén panaszt benyújtani a vasúti társaság vagy közlekedésszervező panaszkezelési eljárását lezáró dokumentum panaszossal való közlésétől számított, ennek hiányában az üzletszabályzat panaszkezelésre vonatkozó részében (a továbbiakban: panaszkezelési szabályzat) az eljárásra meghatározott határidő leteltét követő 30 napon belül lehet. A vasúti társaság vagy a közlekedésszervező a panaszkezelési eljárását lezáró dokumentumban tájékoztatni köteles a panaszost arról, hogy a panaszkezelési eljárással szemben a vasúti igazgatási szervhez fordulhat. E határidőn túl a vasúti igazgatási szervhez benyújtott panaszokat a vasúti igazgatási szerv visszautasítja. A vasúti társaság vagy a közlekedésszervező panaszkezelési eljárásában hozott, az ügyet lezáró dokumentumot a vasúti igazgatási szerv részére a panasz mellékleteként be kell nyújtani. Ennek hiányában a vasúti igazgatási szerv hiánypótlási felhívást bocsát ki. A vasúti igazgatási szerv a bejelentésnek minősülő beadványok megtételének elősegítése érdekében honlapján is közzéteszi a panasz megtételére szolgáló űrlapot.
 
@@ -843,7 +871,7 @@ alapján meghatározott számviteli politikában rögzített, az átcsoportosít
 - g) az országos, elővárosi és regionális személyszállítási közszolgáltatások tekintetében az egyes utazások járathoz kötötten díjövezeti, indulási és érkezési állomási – meghatározott időponthoz vagy időszakhoz kötött utazások esetén az érvényesítés dátuma, illetve az érvényességi időszak szerinti –, kedvezménykategóriánkénti, vonali bontásban rögzüljenek mind a jeggyel, mind a bérlettel történő utazás esetén, valamint
 - h) a helyi személyszállítási közszolgáltatások tekintetében az egyes utazások járathoz kötötten – meghatározott időponthoz vagy időszakhoz kötött utazások esetén az érvényesítés dátuma, illetve az érvényességi időszak szerinti –, kedvezménykategóriánkénti, vonali bontásban rögzüljenek mind a jeggyel, mind a bérlettel történő utazás esetén.
 
-(2) Az országos személyszállítási közszolgáltatást, regionális személyszállítási közszolgáltatást vagy elővárosi személyszállítási közszolgáltatást végző közlekedési szolgáltató köteles más közlekedési szolgáltatók által vagy egyéb értékesítési helyen értékesített, a társaság járataira szóló jegyet, bérletet elfogadni és ennek elszámolásáról, illetve ellentételezéséről írásban megállapodni.
+(2) Az országos, regionális, elővárosi vagy helyi személyszállítási közszolgáltatást végző közlekedési szolgáltató köteles más közlekedési szolgáltató által vagy egyéb értékesítési helyen értékesített, a szolgáltató járataira szóló jegyet, bérletet, valamint összekapcsolt és integrált díjterméket elfogadni, továbbá más közlekedési szolgáltatóval a bevételek megosztásáról, elszámolásáról, a szociálpolitikai menetdíj támogatás igénylésével kapcsolatos feladatokról, és az ellentételezés részletes szabályairól írásban megállapodni.
 
 (3) Az országos, regionális vagy elővárosi személyszállítási közszolgáltatást végző közlekedési szolgáltatók kötelesek sztrájk és rendkívüli akadályoztatás esetén a jegyek és bérletek kölcsönös elfogadását érintő együttműködés általános kereteit előre írásban rögzíteni.
 
@@ -860,6 +888,8 @@ alapján meghatározott számviteli politikában rögzített, az átcsoportosít
 (2) A személyszállítási közszolgáltatási utazási kedvezmények ellentételezésére szociálpolitikai menetdíj-támogatás vehető igénybe – az e törvényben meghatározott feltételek szerint – személyszállítási közszolgáltatás tevékenység közszolgáltatási szerződés alapján történő nyújtása esetén.
 
 (3) Szociálpolitikai menetdíj-támogatást a közlekedési szolgáltató, más közlekedési szolgáltató által saját nevében történő továbbértékesítés esetén – a szolgáltatást nyújtó közlekedési szolgáltatóval történő elszámolási kötelezettség mellett – a szolgáltatást nyújtó közlekedési szolgáltató jogosult igényelni. A közlekedésszervező jogosult a szociálpolitikai menetdíj-támogatás igénylésére, amennyiben a közszolgáltatással összefüggő díjakból származó bevételek beszedését a 22. § (5) bekezdése alapján a közlekedésszervező végzi.
+
+(3a) Szociálpolitikai menetdíj-támogatást kedvezményes összekapcsolt és kedvezményes integrált díjtermékek vonatkozásában a személyszállítási közszolgáltatást nyújtó közlekedési szolgáltató vagy a – közszolgáltatással összefüggő díjakból származó bevételek beszedését a 22. § (5) bekezdése alapján végző – közlekedésszervező az 5. § (3) és (4) bekezdés, vagy a 32. § (2) bekezdés alapján kötött megállapodásban rögzített díjrészesedés szerinti arányban, a szociálpolitikai menetdíj-támogatás megállapításának és igénybevételének szabályairól szóló jogszabály szerint igényelhet.
 
 (4) Nem vehető igénybe szociálpolitikai menetdíj-támogatás
 

@@ -493,6 +493,13 @@ amelyek az alapponthálózati pontok adatbázisait alkotják.
 
 (4) Az űrtávérzékelési adatbázis műholdak által készített, az adott műhold érzékelőinek megfelelő felbontású űrfelvételeiből áll.
 
+(4a) Az űrtávérzékelési adatbázis nem állami alapadatként tartalmazza
+
+- a) a Sentinel Földmegfigyelési Adatbázis adatait,
+- b) az a) ponton kívüli űrtávérzékelt adatokat.
+
+(4b) Jogszabály eltérő rendelkezése hiányában a (4a) bekezdésre vonatkozó adatszolgáltatás tekintetében az állami alapadatok szolgáltatására vonatkozó szabályok az irányadóak.
+
 (5) Földi távérzékelési adatbázisnak kell tekinteni azon földi távérzékelési eljárással készült felvételek összességét, amelyekkel állami alapadatok állíthatók elő.
 
 (6) Az állami digitális távérzékelési adatbázist úgy kell elkészíteni, hogy alkalmas legyen különösen:
@@ -512,7 +519,7 @@ amelyek az alapponthálózati pontok adatbázisait alkotják.
 
 (10) A (8) bekezdésben szabályozott adatszolgáltatási kötelezettség elmulasztása esetén a mulasztó kormányrendeletben meghatározott mértékű bírságot köteles fizetni.
 
-(11) Részben vagy egészben közpénzből finanszírozott feladathoz szükséges, Magyarország területére vonatkozó űrtávérzékelt adat kizárólag a földmérési és térinformatikai államigazgatási szerven keresztül szerezhető be.
+(11)
 
 (12) Geodéziai, térképészeti, geofizikai, geológiai és navigációs célra kizárólag a 30. § (1) bekezdésében e célra kiadott engedély alapján készült távérzékelt adatok használhatók fel.
 

@@ -171,7 +171,7 @@ lakcímadataira és értesítési címére vonatkozóan térítésmentesen szolg
   - ba) nincs helye félbeszakadásnak;
   - bb) a vitatott igény elbírálására irányuló és a kifogás alapján indult eljárást kivéve nincs helye beavatkozásnak, és a beavatkozás vagy perbehívás bejelentésének legkésőbb a vitatott igény, illetve a kifogás elbírálása tárgyában hozott elsőfokú határozat meghozataláig van helye;
   - bc) az eljárás szünetelésének csak kérelemre, a 26. § (4) bekezdésben foglaltak esetén van helye azzal, hogy három hónap szünetelés elteltével az eljárás megszűnik;
-  - bd) az eljárás felfüggesztésének a fizetésképtelenséget megállapító végzés meghozataláig, továbbá a 6/A. § (1) és (2) bekezdése, a 38/A. § szerinti és a Pp. 126. § (1) bekezdés a) és b) pontja szerinti esetben van helye, azzal, hogy az eljárást felfüggesztő végzés elleni fellebbezésnek a 6/A. § (1) és (2) bekezdése, a 38/A. § szerinti és a Pp. 126. § (1) bekezdés a) és b) pontja szerinti esetben nincs helye;
+  - bd) az eljárás felfüggesztésének a fizetésképtelenséget megállapító végzés meghozataláig, továbbá a Pp. 126. § (1) bekezdés a) és b) pontja szerinti esetben van helye, azzal, hogy az eljárást felfüggesztő végzés elleni fellebbezésnek a Pp. 126. § (1) bekezdés a) és b) pontja szerinti esetben nincs helye;
 - c) bíróság által tárgyalás tartásának csak az e törvényben meghatározott esetekben van helye;
 - d) ha a fél vagy az eljárásban részt vevő egyéb személy nyilatkozatának beszerzése szükséges, a bíróság őket írásbeli nyilatkozattételre hívja fel vagy szükség esetén szóbeli meghallgatást tart;
 - e) a Pp. szerinti költségmentesség engedélyezésének nincs helye, a bíróság által engedélyezett költségfeljegyzési jog pedig nem terjed ki
@@ -222,23 +222,7 @@ közötti kapcsolattartás során a jognyilatkozatok megtétele írásban tört�
 
 (10) A Pp. 27. alcíme szerinti ideiglenes intézkedés iránti kérelmet az e törvény 33/A. §-a szerinti perekben nem lehet benyújtani.
 
-6/A. § (1) Ha büntetőügyben a jogi személlyel szemben intézkedés alkalmazásának lehet helye, és erről a büntetőügyben eljáró bíróság vagy ügyészség a bíróságot [6. §] értesítette vagy arról a bíróságnak hivatalos tudomása van, a felszámolás elrendelhető. Ebben az esetben – azt követően, hogy az adós gazdálkodó szervezet vezetője a 31. § szerinti kötelezettségeit teljesítette, és a hitelezői követeléseket bejelentették, továbbá akkor, ha az adós gazdálkodó szervezet vezetője a 31. § szerinti kötelezettségeit felhívás, illetve a 33. § szerinti jogkövetkezmények ellenére nem teljesítette – a felszámolási eljárást fel kell függeszteni.
-
-(2) A felfüggesztés a büntetőügyben eljáró bíróság határozatának jogerőre emelkedéséig, illetve a büntetőeljárás során alkalmazott intézkedés végrehajtásának befejezéséig tart. A felfüggesztés nem érinti a felszámoló kötelezettségeit és a 38. § (1) és (2) bekezdésben, valamint a 40. §-ban foglaltak alkalmazását, továbbá az 50. § (2) bekezdése szerinti esetekben a közbenső mérleg évenkénti elkészítésének kötelezettségét. A felfüggesztés időtartama alatt készített közbenső mérleg vagyonfelosztási javaslatot nem tartalmazhat. A felfüggesztés időtartama alatt a kirendelt felszámoló jogait és kötelezettségeit az e §-ban meghatározott keretek között gyakorolhatja. A felfüggesztés időtartama alatt is elbírálhatja a bíróság a felszámoló jogszabálysértő intézkedései vagy mulasztásai ellen benyújtott kifogásokat, és dönthet a közbenső mérleg jóváhagyása tárgyában. A jóváhagyott közbenső mérleg alapján a felszámoló részére kifizethető díj nettó összege nem haladhatja meg a 300 000 forintot.
-
-(3) Ha az (1) bekezdés szerinti felfüggesztés a hitelezők követelésének teljesülését késleltetné vagy veszélyeztetné, a vádemelésig az ügyész, azt követően pedig a bíróság – zár alá vétel elrendelése mellett – engedélyezheti a felszámolási eljárás folytatását.
-
-(4) A felszámolási eljárás folytatásának engedélyezése iránti kérelmet a jogi személlyel szemben folytatott büntetőügyben eljáró bírósághoz, illetve ügyészhez a felszámoló nyújthat be. A kérelemhez a 31. § (1) bekezdés a) pontja szerinti záróleltárt, valamint éves beszámolót vagy a 46. § (2) bekezdése szerinti nyitó felszámolási mérleget kell mellékelni.
-
-(5) Az engedély megadása esetén a felszámolási eljárás folytatható, azonban befejezésére csak a jogi személlyel szemben folytatott büntetőügyben eljáró bíróság határozatának jogerőre emelkedését követően kerülhet sor.
-
-(6) A zár alá vett vagyon, vagyonrész, illetve vagyontárgy nem vonható be a vagyonfelosztásba. Ha a zár alá vett vagyon, vagyonrész vagy vagyontárgy értéke meghaladja a büntetőeljárásban a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény 11. § (2) bekezdése alapján biztosítani kívánt összeget, a zár alá vétel korlátozása és a vagyon, vagyonrész vagy vagyontárgy értékesítésének engedélyezése iránt a felszámoló kérelmet nyújthat be a vádemelésig az ügyészhez, azt követően a büntetőügyben eljáró bírósághoz.
-
-(7) Az értékesítés engedélyezése esetén a zár alá vett vagyon, vagyonrész, illetve vagyontárgy nem értékesíthető olyan összeg alatt, mint amelynek biztosítására a zár alá vételt elrendelték. Az értékesítésből befolyt vételárból le kell vonni a zár alá vétellel biztosítani kívánt összeget, és azt annak a bíróságnak a letéti számlájára kell befizetni, amelynél a zár alá vételt foganatosító bírósági végrehajtó működik.
-
-(8) A büntetőeljárás befejezését, illetve ha a büntetőügyben eljáró bíróság az adós gazdálkodó szervezettel szemben vagyonelkobzást rendelt el, annak végrehajtását követően – a (2) bekezdésben foglalt kivétellel – a bíróság elrendeli a felszámolási eljárás folytatását. Amennyiben a büntetőügyben eljáró bíróság az adós gazdálkodó szervezettel szemben pénzbírságot szabott ki, illetve a bűnügyi költség megfizetésére kötelezte (a továbbiakban együtt: a büntetőeljárásban az állam javára fizetendő összeg), a felszámoló az ebből eredő követeléseket hitelezői igényként veszi nyilvántartásba, és elégíti ki a kielégítési sorrend általános szabályai (57–58. §) szerint.
-
-(9) Amennyiben a büntetőügyben eljáró bíróság jogerős ügydöntő határozatával az adós gazdálkodó szervezet teljes vagyonára vagyonelkobzást rendelt el, az adós gazdálkodó szervezetet az 57. § (1) bekezdés a) és c) pontja alapján terhelő követelések kifizetése iránt a bíróság értesítését követően az államháztartásért felelős miniszter soron kívül intézkedik. Ez a kötelezettség az elkobzott vagyon mértékéig áll fenn. A felszámoló a kifizetés és az adós iratanyagának elhelyezésének megtörténtéről a bíróságot értesíti. A bíróság a felszámoló munkadíját az eljárás időtartama, a felszámoló által elvégzett tevékenység és az eljárás munkaterhe figyelembevételével állapítja meg. A felszámoló benyújtja a felszámolási zárómérleget. A bíróság ennek alapján dönt a felszámolási eljárás befejezéséről és az adós gazdálkodó szervezet megszüntetéséről. A végzést meg kell küldeni az államot a magánjogi jogviszonyokban képviselő szervezetnek is.
+#### 6/A. §
 
 ### A 2015/848 EU rendelet hatálya alá tartozó határon átnyúló fizetésképtelenségi eljárásokra vonatkozó sajátos rendelkezések
 
@@ -626,7 +610,7 @@ szűnik meg.
 - b) a nyilvántartásba-vételi díjat megfizette, valamint
 - c) követelése elismert vagy nem vitatott követelésként került nyilvántartásba.
 
-(5) A szabályszerű meghívás ellenére személyesen vagy képviselője útján részt nem vevő hitelezőt a nemmel szavazók közé kell számítani. A szavazatok számításánál a hitelezőket minden 50 000 forint elismert vagy nem vitatott követelésként nyilvántartásba vett követelés után egy egész szavazat illeti meg, töredékszavazat érvényesítésének nincs helye. Az 50 000 forint alatti követelések hitelezői is egy szavazattal rendelkeznek. A szavazatszámítást nem befolyásolja a csődeljárás iránti kérelem benyújtását megelőzően 180 napon belül, vagy a csődeljárás iránti követelés benyújtását követően a hitelezői követelés más hitelezőre történő engedményezése. A fizetési haladék időtartama alatt keletkezett kamatkövetelést a szavazatszámításnál nem kell figyelembe venni. E bekezdés alkalmazásában a követelés nyilvántartásba vételéért fizetett díjat is hitelezői követelésként kell számításba venni. A 12. § (2) bekezdés bc)–bd) pontja szerinti hitelezők szavazatát az említett számítási módnál negyedakkora mértékben kell figyelembe venni, ide nem értve a 12. § (2) bekezdés bc) pontja szerinti azon hitelezőt, amely a csődeljárás alatt legalább az adós jegyzett tőkéjét elérő mértékű reorganizációs célú hitelnyújtással összefüggő részedés-szerzés révén válik az adós többségi befolyással rendelkező tulajdonosává, vagy olyan gazdálkodó szervezet, amely az adóssal együtt a Ptk. szerinti elismert vagy tényleges vállalatcsoport tagja, és az adósnak a csődeljárás alatt legalább az adós jegyzett tőkéjét elérő reorganizációs célú kölcsönt vagy hitelt nyújt.
+(5) A szabályszerű meghívás ellenére személyesen vagy képviselője útján részt nem vevő hitelezőt a nemmel szavazók közé kell számítani. A szavazatok számításánál a hitelezőket minden 50 000 forint elismert vagy nem vitatott követelésként nyilvántartásba vett követelés után egy egész szavazat illeti meg, töredékszavazat érvényesítésének nincs helye. Az 50 000 forint alatti követelések hitelezői egy szavazattal rendelkeznek. A szavazatszámítást nem befolyásolja a csődeljárás iránti kérelem benyújtását megelőzően 180 napon belül, vagy a csődeljárás iránti kérelem benyújtását követően a hitelezői követelés más hitelezőre történő engedményezése. A fizetési haladék időtartama alatt keletkezett kamatkövetelést a szavazatszámításnál nem kell figyelembe venni. E bekezdés alkalmazásában a követelés nyilvántartásba vételéért fizetett díjat is hitelezői követelésként kell számításba venni. A 12. § (2) bekezdés bc) és bd) pontja szerinti hitelezők szavazatát az említett számítási módnál negyedakkora mértékben kell figyelembe venni, ide nem értve a 12. § (2) bekezdés bc) pontja szerinti azon hitelezőt, amely a csődeljárás alatt legalább az adós jegyzett tőkéjét elérő mértékű, az adós pénzügyi egyensúlyának helyreállítását célzó hitelnyújtással összefüggő részedés-szerzés révén válik az adós többségi befolyással rendelkező tulajdonosává, vagy olyan gazdálkodó szervezet, amely az adóssal együtt a Ptk. szerinti elismert vagy tényleges vállalatcsoport tagja, és az adósnak a csődeljárás alatt legalább az adós jegyzett tőkéjét elérő mértékű, az adós pénzügyi egyensúlyának helyreállítását célzó kölcsönt vagy hitelt nyújt.
 
 (6) A bíróság 12. § (5) bekezdés szerinti végzése következtében nem vitatottként nyilvántartásba vett követelésnek az adós részéről történő későbbi visszakövetelhetőségére hivatkozva utóbb nem lehet a szavazati jog gyakorlásának jogszerűségét kétségbe vonni.
 
@@ -654,7 +638,7 @@ szűnik meg.
 
 ### Egyezség a csődeljárásban
 
-19. § (1) Az egyezség keretében az adós megállapodik a hitelezőkkel az adósság rendezésének feltételeiről, így különösen megállapodhatnak az adósságra vonatkozó engedményekről és a fizetési könnyítésekről, egyes követelések elengedéséről vagy átvállalásáról, a követelések fejében az adós gazdálkodó szervezetben részesedés szerzéséről, a követelések megfizetéséért való kezességvállalásról és egyéb biztosítékokról, az adós reorganizációs és veszteségcsökkentő programjának elfogadásáról, továbbá mindarról, amit az az adós fizetőképességének megőrzése vagy helyreállítása érdekében szükségesnek tartanak, ideértve az egyezség időtartamát és végrehajtása ellenőrzésének módját is.
+19. § (1) Az egyezség keretében az adós megállapodik a hitelezőkkel az adósság rendezésének feltételeiről, így különösen megállapodhatnak az adósságra vonatkozó engedményekről és a fizetési könnyítésekről, egyes követelések elengedéséről vagy átvállalásáról, a követelések fejében az adós gazdálkodó szervezetben részesedés szerzéséről, a követelések megfizetéséért való kezességvállalásról és egyéb biztosítékokról, az adós pénzügyi egyensúlyát helyreállító és veszteségcsökkentő programjának elfogadásáról, továbbá mindarról, amit az az adós fizetőképességének megőrzése vagy helyreállítása érdekében szükségesnek tartanak, ideértve az egyezség időtartamát és végrehajtása ellenőrzésének módját is.
 
 (2) Az egyezség megkötésénél való szavazati jogra a 18. § (4)–(5) bekezdésében foglalt szabályok alkalmazandóak.
 
@@ -712,7 +696,7 @@ folytatható le.
 
 (4) Az (1) bekezdés a) és c) pontja alapján indult felszámolási eljárásban a csődeljárást lefolytató bíróság, illetőleg a megszüntetésre irányuló eljárást, kényszer-végelszámolási eljárást, kényszertörlési eljárást lefolytató cégbíróság szerinti törvényszék illetékes.
 
-23. § (1) Ha a felszámolási eljárás lefolytatását az adós kéri, a kérelem benyújtására a 8. § (1)–(2) bekezdésében foglaltak az irányadók. Az adósnak a kérelemben be kell jelentenie a számláit vezető valamennyi pénzforgalmi szolgáltató nevét és az ott vezetett számlák számát, ideértve a kérelem benyújtását követően nyitott számlák számát is.
+23. § (1) Ha a felszámolási eljárás lefolytatását az adós kéri, a kérelem benyújtására a 8. § (1)–(2) bekezdésében foglaltak az irányadók. Az adósnak a kérelemben be kell jelentenie a számláit vezető valamennyi pénzforgalmi szolgáltató nevét és az ott vezetett számlák számát, ideértve a kérelem benyújtását követően nyitott számlák számát is. Amennyiben az adós gazdálkodó szervezetben a magyar állam szükségképpeni törvényes öröklés útján részesedést örökölt, ezt a kérelemben be kell jelentenie.
 
 (2) Az adós a felszámolási eljárás lefolytatását akkor kérheti, ha a csődeljárás lehetőségével a 7. § (3) bekezdése miatt nem tud, vagy pedig nem kíván élni.
 
@@ -724,7 +708,7 @@ folytatható le.
 
 (2) Ha a felszámolási eljárás lefolytatását a hitelező kérte, és a bíróság a kérelmet érdemi vizsgálat nélkül nem utasította el, a bíróság a kérelem benyújtásáról — a kérelem egy példányának megküldésével — haladéktalanul értesíti az adóst.
 
-(3) Az adós köteles az értesítés kézhezvételétől számított 8 napon belül a bíróságnak nyilatkozni arról, hogy a kérelemben foglaltakat elismeri-e. Ha az adós a kérelemben foglaltakat elismeri, egyidejűleg nyilatkoznia kell arról is, hogy kér-e a tartozás kiegyenlítésére haladékot [26. § (3) bek.], illetve be kell jelentenie a számláit vezető valamennyi pénzügyi intézmény nevét és az ott vezetett számlák számát – ideértve a kérelem kézhezvételét követően nyitott számlák számát is –, továbbá koncesszió esetén tájékoztatnia kell a koncesszióba adót a felszámolási eljárás megindításáról. Ha az adós a fenti határidőn belül a bíróságnak nem nyilatkozik, a fizetésképtelenség tényét vélelmezni kell.
+(3) Az adós köteles az értesítés kézhezvételétől számított 8 napon belül a bíróságnak nyilatkozni arról, hogy a kérelemben foglaltakat elismeri-e. Ha az adós a fenti határidőn belül a bíróságnak nem nyilatkozik, a fizetésképtelenség tényét vélelmezni kell. Ha az adós a kérelemben foglaltakat elismeri, egyidejűleg nyilatkoznia kell arról is, hogy kér-e a 26. § (3) bekezdésében meghatározott fizetési haladékot a tartozása kiegyenlítésére, továbbá az adósnak be kell jelentenie a bíróságnak a számláit vezető valamennyi pénzügyi intézmény nevét és az ott vezetett számlák számlaszámát – ideértve a kérelem kézhezvételét követően nyitott számlák számlaszámát is –, továbbá koncesszió esetén tájékoztatnia kell a koncesszióba adót a felszámolási eljárás megindításáról. Az adósnak nyilatkoznia kell arról is, ha a vagyonára büntetőeljárásban zár alá vételt, vagyonelkobzást rendeltek el, vele szemben pénzbírságot szabtak ki vagy bűnügyi költség viselésére kötelezték.
 
 24/A. § (1) A hitelező a felszámolási eljárás iránti kérelem benyújtásával egyidejűleg vagy azt követően a felszámolás kezdő időpontjáig kezdeményezheti, hogy a bíróság a 27/A. § (1) bekezdésében foglaltak alkalmazásával az adós gazdálkodásának felügyeletére a felszámolói névjegyzékből ideiglenes vagyonfelügyelőt rendeljen ki. A bíróság a kérelem elbírálása előtt az adóst meghallgathatja. Az ideiglenes vagyonfelügyelő kirendelésére a 27/A. § (1) bekezdésében foglaltakat kell alkalmazni.
 
@@ -765,7 +749,7 @@ folytatható le.
 - c) a hiánypótlásra visszaadott kérelmet a kérelmező 8 napon belül nem, vagy ismét olyan hiányosan adta be, hogy amiatt az nem bírálható el;
 - d) az adós a kérelmező és a 8. § (1) bekezdésében megjelölt szervek egyetértése hiányzik;
 - e)
-- f) a 27. § (2) bekezdés a) pontjában meghatározott esetben a kérelem bírósághoz érkezésének időpontjáig az adós írásbeli felszólítása nem történt meg, vagy az nem tartalmazza a 27. § (2c) bekezdés szerinti tartalmi elemeket.
+- f) a 27. § (2) bekezdés a) pontjában meghatározott esetben a kérelem bírósághoz érkezésének időpontjáig az adós írásbeli felszólítása nem történt meg, vagy az nem tartalmazza a 27. § (3) bekezdés szerinti tartalmi elemeket.
 - g) a jogerős bírósági határozatban megállapított teljesítési határidő a kérelem bírósághoz érkezésének időpontjában még nem telt el;
 - h) a 27. § (2b) bekezdése szerinti feltétel nem teljesül;
 - i) a 6. § (5) bekezdése értelmében elektronikus kapcsolattartásra köteles kérelmező az eljárási illeték és a közzétételi költségtérítés megfizetésére vonatkozó elektronikus igazolást nem csatolta.
@@ -774,7 +758,7 @@ folytatható le.
 
 26. § (1) A bíróság megvizsgálja az adós fizetésképtelenségét.
 
-(2)
+(2) Az adós a felszámolási eljárás iránti kérelem kézhezvételétől számított 8 napon belül köteles bejelenteni, amennyiben az adós gazdálkodó szervezetben a magyar állam szükségképpeni törvényes öröklés útján részesedést örökölt.
 
 (3) A bíróság az adós kérelmére a tartozás kiegyenlítésére legfeljebb 45 napos határidőt engedélyezhet, kivéve, ha a felszámolási eljárás megindítását a 21/B. § szerint csődeljárás előzte meg. A tartozás kiegyenlítése – az adós ilyen tartalmú nyilatkozata hiányában – nem minősül tartozáselismerésnek, a teljesítés polgári peres eljárásban történő visszakövetelését nem zárja ki.
 
@@ -837,6 +821,8 @@ folytatható le.
 27/A. § (1) A bíróság a Hatóság által működtetett elektronikus, véletlenszerű kiválasztás elvét alkalmazó informatikai rendszer segítségével – jogszabályban meghatározott eljárási szabályok szerint – haladéktalanul kirendeli a felszámoló szervezetet (a továbbiakban: felszámoló). Az eljáró felszámoló kirendelése átlátható, ellenőrizhető módszertan szerint és olyan elvek alapján történhet, amelyek biztosítják az eljárás hatékony lefolytatásához szükséges felszámolói kapacitásokat, a felszámolók arányos munkaterhelését, és – az eljárás költségeinek csökkentése érdekében – figyelembe veszik a felszámoló, valamint az adós gazdálkodó szervezet földrajzi elhelyezkedését. Felszámolóként – a IV. Fejezetben foglaltak, valamint azon felszámoló kivételével, amelyet törvény pénzügyi szervezetek felszámolására vagy végelszámolására kijelöl – az a gazdálkodó szervezet rendelhető ki, amely szerepel a felszámolók névjegyzékében.
 
 (2) A felszámolóként kirendelhetők körét a Hatóság elnöke rendelettel állapítja meg. Felszámoló csak olyan szervezet lehet, amelynek tagja (részvényese) megismerhető, továbbá amelyben közvetlen vagy közvetett részesedéssel nem rendelkezik olyan tag (részvényes), amely az adózási szempontból nem együttműködő államok listájának közzétételéről szóló rendeletben meghatározott államban rendelkezik adóügyi illetőséggel, vagy amelyben – ide nem értve az Európai Gazdasági Térségről szóló megállapodásban részes államot – jogszabály nem ír elő a társasági adónak megfelelő adókötelezettséget, vagy az előírt adómérték legfeljebb 10 százalék. A Hatóság a felszámolók névjegyzékébe való felvételre nyilvános pályázatot ír ki.
+
+(2a) Ha az adós gazdálkodó szervezetben a magyar állam szükségképpeni törvényes öröklés útján részesedést örökölt, az állam öröklését követően indult eljárásokban vagyonfelügyelőként, ideiglenes vagyonfelügyelőként és felszámolóként a 66. § (2) bekezdése szerinti állami felszámoló jár el, a 66. § (4), (7) és (8) bekezdésében foglalt rendelkezések alkalmazásával.
 
 (3) A felszámoló az adós felszámolásának lefolytatására felszámolóbiztost jelöl ki, aki büntetlen előéletű, nem áll felszámolóbiztosi vagy felszámolói tevékenységben való közreműködést kizáró foglalkozástól eltiltás hatálya alatt, nem áll fel vele szemben a (4) bekezdés szerinti összeférhetetlenségi, illetve kizáró ok, és megfelel az e törvényben meghatározott feltételeknek. Felszámolóbiztosnak csak a 27/C. § (1) bekezdésében említett felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező olyan személy jelölhető ki, aki legalább egy év időtartamú, felszámoló szervezetnél töltött szakmai gyakorlatot tud igazolni. A kijelölést megelőzően a felszámoló számára nyilatkozatot kell tenni arról, hogy nem esik kizáró ok alá, továbbá az adott eljárásban a személyével összefüggésben nem áll fenn összeférhetetlenségi ok. A kijelölt felszámolóbiztos a felszámolóval létesített munkaviszonya, tagsági viszonya vagy megbízási jogviszonya alapján, annak nevében jár el.
 
@@ -1220,13 +1206,7 @@ jogerősen elrendelte a felszámoló szervezet felmentését,
 
 (8) A vezető tisztségviselő által a 31. § (1) bekezdés j) pontja alapján átadott vagyont a felszámoló a vagyonról készített kimutatás felszámoló részére történt átadásától számított 30 napon belül adja ki a jogszabályban meghatározott jogosultnak, a jogszabályban meghatározott módon.
 
-38/A. § (1) A felszámolási eljárást a bíróság hivatalból felfüggeszti, ha azt olyan követelés miatt rendelték el, amelyet egy másik követelés biztosítására büntetőügyben elrendelt zár alá vétel foganatosítása során lefoglaltak és annak eredményeként a követelés összegét a végrehajtói letéti számlára befizették. A felfüggesztésről szóló végzést a végrehajtói letéti számlára való befizetésről szóló értesítés kézhezvételét követő öt napon belül meg kell hozni. A végzés elleni fellebbezésnek nincs halasztó hatálya.
-
-(2) A felszámolási eljárás felfüggesztése a zár alá vétel büntetőeljárásban történő feloldásáról szóló határozat vagy a büntetőügyben a zár alá vétellel biztosított követelés megfizetése tárgyában hozott jogerős ügydöntő határozat alapján kiállított végrehajtható okirat bíróság részére történő megküldéséig tart.
-
-(3) A felszámolási eljárás felfüggesztése nem érinti a felszámoló kötelezettségeit, és – a bűnügyi zárlat végrehajtását kivéve – a 38. § (1) és (2) bekezdésében, valamint a 40. §-ban foglaltak alkalmazását. A bíróság a felfüggesztés időtartama alatt is elbírálhatja a felszámoló jogsértő intézkedései vagy mulasztása elleni kifogásokat.
-
-(4) A felfüggesztés alatt a felszámoló az adós vagyonát csak a felszámolási ügyben eljáró bíróság engedélyével, a vagyonvesztés elkerülése érdekében és olyan mértékig értékesítheti, és az abból származó bevételt úgy kezelheti, hogy az nem veszélyeztetheti a zár alá vétel foganatosítása során lefoglalt követelés kifizetését.
+#### 38/A. §
 
 39. § (1) A hitelezői választmány megalakítása vagy hitelezői képviselő megválasztása céljából a felszámoló a felszámolást elrendelő végzés közzétételi időpontjától számított 75 napon belül köteles a nyilvántartásba vett hitelezőket összehívni.
 
@@ -1355,9 +1335,9 @@ volt.
 
 (6c) Ha a munkavállaló a Pp. 508. § (7) bekezdésében meghatározott határidőben munkaügyi pert nem indít vagy a per jogerős érdemi határozat nélkül fejeződik be, a felszámoló a munkavállaló hitelezői igényének nyilvántartásba vételét megtagadja és erről a munkavállalót tájékoztatja.
 
-(7) Az (5) bekezdésben meghatározott követelések – kivéve az 57. § (1) bekezdés a) és c) pontjában foglalt követeléseket – nyilvántartásba vételének feltétele, hogy a hitelező a követelése tőkeösszegének 1%-át, de legalább 5000 forintot és legfeljebb 200 000 forintot a bíróság Gazdasági Hivatala által kezelt elkülönített számlára – a bírósági ügyszámra hivatkozással – befizessen, és ezt a felszámolónak igazolja. Ha a felszámolási eljárást közvetlenül csődeljárás előzte meg, és a hitelező a követelését ott bejelentette, és kifizette a nyilvántartásba-vételi díjat is, a felszámolási eljárásban a követelést nem kell ismét bejelentenie, azonban a felszámoló felhívására meg kell fizetnie a díjkülönbözetet. A hitelezők által befizetett összeget mint hitelezői követelést, az 57. § (1) bekezdésének f) pontja szerint kell besorolni. A Gazdasági Hivatal a felszámolót félévente, – elektronikus úton benyújtott megkeresés esetén elektronikus úton – tájékoztatja a számlán lévő összeg nagyságáról.
+(7) Az (5) bekezdésben meghatározott követelések – kivéve az 57. § (1) bekezdés a) és c) pontjában foglalt követeléseket, valamint a bűnügyi hitelezői igénybejelentést – nyilvántartásba vételének feltétele, hogy a hitelező a követelése tőkeösszegének 1%-át, de legalább 5000 forintot és legfeljebb 200 000 forintot a bíróság Gazdasági Hivatala által kezelt elkülönített számlára – a bírósági ügyszámra hivatkozással – befizessen, és ezt a felszámolónak igazolja. Ha a felszámolási eljárást közvetlenül csődeljárás előzte meg, és a hitelező a követelését ott bejelentette, és kifizette a nyilvántartásba-vételi díjat is, a felszámolási eljárásban a követelést nem kell ismét bejelentenie, azonban a felszámoló felhívására meg kell fizetnie a díjkülönbözetet. A hitelezők által befizetett összeget mint hitelezői követelést, az 57. § (1) bekezdésének f) pontja szerint kell besorolni. A Gazdasági Hivatal a felszámolót félévente, – elektronikus úton benyújtott megkeresés esetén elektronikus úton – tájékoztatja a számlán lévő összeg nagyságáról.
 
-(7a) Az (5) bekezdésben meghatározott követelések – kivéve az 57. § (1) bekezdés a) és c) pontjában foglalt követeléseket – nyilvántartásba vételének feltétele, hogy a 28. § (2) bekezdés f) pontjában meghatározott 40 napos határidőben a hitelező a követelése tőkeösszegének 0,5%-át, de legalább 5000 forint és legfeljebb 40 000 forint költségátalányt a felszámoló 27/C. § (4) bekezdés a) pont ac) alpontja szerinti pénzforgalmi számlájára – a bírósági ügyszámra hivatkozással – is befizessen, és ezt a felszámolónak igazolja. A hitelezők által befizetett összeget mint hitelezői követelést, az 57. § (1) bekezdésének f) pontja szerint kell besorolni. A felszámoló a költségátalány összegét a vagyonkutatási és vagyonvisszaszerzési tevékenységével összefüggő költségek kiegyenlítésére használhatja fel.
+(7a) Az (5) bekezdésben meghatározott követelések – kivéve az 57. § (1) bekezdés a) és c) pontjában foglalt követeléseket, valamint a bűnügyi hitelezői igénybejelentést – nyilvántartásba vételének feltétele, hogy a 28. § (2) bekezdés f) pontjában meghatározott 40 napos határidőben a hitelező a követelése tőkeösszegének 0,5%-át, de legalább 5000 forint és legfeljebb 40 000 forint költségátalányt a felszámoló 27/C. § (4) bekezdés a) pont ac) alpontja szerinti pénzforgalmi számlájára – a bírósági ügyszámra hivatkozással – is befizessen, és ezt a felszámolónak igazolja. A hitelezők által befizetett összeget mint hitelezői követelést, az 57. § (1) bekezdésének f) pontja szerint kell besorolni. A felszámoló a költségátalány összegét a vagyonkutatási és vagyonvisszaszerzési tevékenységével összefüggő költségek kiegyenlítésére használhatja fel.
 
 (7b) A (7a) bekezdés szerint befizetett költségátalány felhasználását a felszámoló iratokkal, számlákkal alátámasztva igazolja a közbenső mérleghez csatolt szöveges jelentésében, illetve zárójelentésében.
 
@@ -1566,6 +1546,8 @@ vonhatja le, az a)–f) pont szerinti levonásokat követően fennmaradó össze
 
 52. § (1) A felszámoló a felszámolás befejezésekor felszámolási zárómérleget, a bevételek és költségek alakulásáról kimutatást, záró adóbevallást, zárójelentést és vagyonfelosztási javaslatot készít, és mindezeket megküldi a bíróságnak és a záró mérleg elkészítésének napját követő napon az adóhatóságnak, valamint intézkedik a gazdálkodó szervezet iratanyagának az elhelyezéséről. Az adóhatósághoz a záró adóbevallás benyújtásával egyidejűleg az adót is meg kell fizetni.
 
+(1a) A zárójelentés tartalmazza azoknak a hitelezőknek a felsorolását is, akik a felszámolási eljárás kezdő időpontjától a 49/D. § (1) és (3) bekezdése szerinti jogosultként nyilvántartásba vételre kerültek.
+
 (2) A felszámolás kezdő időpontjától számított két év elteltével a felszámolási zárómérleg elkészítése kötelező, kivéve, ha
 
 - a) az adós ellen indított folyamatban lévő per vagy hatósági eljárás jogerős befejezése a hitelezői igény megállapításához szükséges, vagy
@@ -1630,7 +1612,7 @@ vonhatja le, az a)–f) pont szerinti levonásokat követően fennmaradó össze
 - b) a felszámolás kezdő időpontja előtt zálogjoggal biztosított követeléseknek a 49/D. § (1)–(2a) bekezdés alkalmazásával ki nem elégített része a zálogtárgy általános forgalmi adó nélkül számított értékesítési árbevétele összegéig, oly módon, hogy a 49/D. § (1) bekezdés f) pontja szerint a zálogjogosultnak teljesítendő kifizetéskor levont, és a 49/D. § (2) bekezdése szerint az e § (1) bekezdésében meghatározott tartozásokra elkülönített összeget is a zálogjoggal biztosított követelések kifizetésére kell fordítani; ha pedig a zálogtárgyat több zálogjog terheli, akkor a kielégítés sorrendjére a Ptk. 5:118–5:122. §-a az irányadó,
 - c) a gazdálkodó szervezetet terhelő tartásdíj, életjáradék, kártérítési járadék, bányászati keresetkiegészítés, továbbá a mezőgazdasági szövetkezet tagja részére a háztáji föld vagy termény helyett adott pénzbeli juttatás, amely a jogosultat élete végéig megilleti,
 - d) a kötvényen alapuló követelések kivételével, magánszemély nem gazdasági tevékenységből eredő más követelése (így különösen a hibás teljesítésből, a kártérítésből, sérelemdíjból eredő követelések, a szakmában szokásos várható szavatossági vagy jótállási kötelezettségek felszámoló által számszerűsített összegét is ideértve), a kis- és mikrovállalkozás, a mezőgazdasági őstermelő követelése, valamint a Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapja azon követelései, amelyek azon alapulnak, hogy a Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapja a biztosított betéttel rendelkező betétesek jogutódjává, illetve követeléseik jogosultjává vált,
-- e) a társadalombiztosítási alapok javára fennálló tartozások, az adók – kivéve a (2) bekezdés szerinti adó- és járuléktartozásokat – és adók módjára behajtható köztartozások, az általános közigazgatási rendtartásról szóló törvényen alapuló követelések, a büntetőeljárásban a 6/A. § (8) bekezdése alapján az állam javára fizetendő összeg, továbbá a visszafizetendő államháztartási, európai uniós vagy nemzetközi szerződésen alapuló más nemzetközi forrásból származó támogatások, valamint a közműdíjak és a társasházi közös költség és a Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapjának a d) pontban nem említett követelései,
+- e) a társadalombiztosítási alapok javára fennálló tartozások, az adók – ide nem értve a (2) bekezdés szerint felszámolási költségként elszámolható adó- és járuléktartozásokat – és adók módjára behajtható köztartozások, az általános közigazgatási rendtartásról szóló törvényen alapuló követelések, a 79/A. § (2) bekezdés e) pontja szerinti bűnügyi hitelezői igénybejelentés, továbbá a visszafizetendő államháztartási, európai uniós vagy nemzetközi szerződésen alapuló más nemzetközi forrásból származó támogatások, valamint a közműdíjak, a társasházi közös költség és a Szövetkezeti Hitelintézetek Tőkefedezeti Közös Alapjának a d) pontban nem említett követelései,
 - f) egyéb követelések;
 - g) a keletkezés idejétől és jogcímétől függetlenül a késedelmi kamat és késedelmi pótlék, továbbá a pótlék és bírság jellegű tartozás;
 - h) azok a követelések (ide nem értve a kötelező legkisebb munkabér, kizárólag teljesítménybérrel díjazott munkavállaló esetén pedig az Mt. 138. § (6) bekezdése szerinti garantált bér kétszeresét el nem érő, hathavi átlagkeresetet meg nem haladó munkabér- és bérjellegű követeléseket [(2) bekezdés a) pont]), amelyek jogosultja
@@ -1666,7 +1648,15 @@ vonhatja le, az a)–f) pont szerinti levonásokat követően fennmaradó össze
 
 (5) Ha az (1) bekezdés e)—g) pontjában szereplő követelések kielégítésére nincs elegendő fedezet, az egyes csoportokba tartozó hitelezőket — először az e), az f), majd a g) pontban szereplőket — követeléseik arányában kell kielégíteni.
 
-(6) Ha az (1) bekezdés e) pontjába tartozó hitelezők teljes kielégítésére nincs elegendő fedezet, a csoporton belül először a társadalombiztosítási alapok javára fennálló tartozásokat (ideértve a szociális hozzájárulási adót is) kell kielégíteni teljes egészében, majd pedig a többi hitelezőt követeléseik arányában.
+(6) Ha az (1) bekezdés e) pontjába tartozó hitelezők teljes kielégítésére nincs elegendő fedezet, ezen a csoporton belül a következő kielégítési sorrendben előrébb álló hitelezői igény teljes egészében való kielégítését követően kell a hátrébb álló hitelezői igényeket kielégíteni:
+
+- a) pénzösszegben kifejezett vagyonelkobzás alapján fennálló bűnügyi hitelezői igény,
+- b) jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben meghatározott pénzbírság alapján fennálló bűnügyi hitelezői igény,
+- c) társadalombiztosítási alapok javára fennálló tartozások (ideértve a szociális hozzájárulási adót is) alapján fennálló hitelezői igény,
+- d) bűnügyi költség alapján fennálló bűnügyi hitelezői igény,
+- e) többi hitelezői igény.
+
+(6a) Ha a (6) bekezdésben meghatározott kielégítési sorrendben azonos helyen álló hitelezői igény teljes kielégítésére nincs lehetőség, akkor ezeket a hitelezői igényeket a követelések arányában kell kielégíteni.
 
 (7) A felszámoló által nyilvántartásba vett követelés engedményezése nem érinti a követelésnek a kielégítési sorrendben elfoglalt helyét.
 
@@ -1774,17 +1764,13 @@ kötelezi, ha az egyszerűsített felszámolási eljárásra a könyvvezetés, i
 
 65. § (1) A Kormány rendeletben stratégiailag kiemelt jelentőségű gazdálkodó szervezetnek minősítheti azokat a (3) bekezdésben meghatározott körbe tartozó gazdálkodó szervezeteket,
 
-- a) amelyek adósságainak rendezéséhez, hitelezőikkel való megegyezéséhez, reorganizációjához nemzetgazdasági érdek vagy kiemelt közérdek fűződik, vagy
+- a) amelyek adósságainak rendezéséhez, hitelezőikkel való megegyezéséhez nemzetgazdasági érdek vagy kiemelt közérdek fűződik, vagy
 - b) amelyek esetében – ha a vagyonhiány és a fizetésképtelenség előreláthatólag nem szüntethető meg – kiemelt gazdaságpolitikai érdek fűződik ahhoz, hogy a jogutód nélküli megszüntetés gyorsabb, átláthatóbb és egységesített eljárásrend szerint történjék.
 
 (2) A Kormány az (1) bekezdés szerinti rendeletet
 
-- a) csődeljárás esetén legkésőbb a csődeljárás kezdő időpontjától [10. § (1) bekezdés] számított 30 napon belül,
-- b) felszámolási eljárás esetén pedig legkésőbb a felszámolás kezdő időpontjától [27. § (1) bekezdés, 28. § (1) bekezdés] számított 365 napon belül
-- c) többségi állami befolyással működő gazdálkodó szervezet, továbbá az olyan egyesület, alapítvány esetében, ahol az alapítói jogokat, a tagokat megillető szavazati jogokat központi költségvetési szerv vagy más állami szerv gyakorolja,
-  - ca) csődeljárás esetén legkésőbb az egyezség megkötéséig,
-  - cb) felszámolási eljárás esetén ha egyezségi tárgyalásra kerül sor, az egyezség megkötéséig, egyezségkötés hiányában pedig legkésőbb a felszámolási záró mérleg bíróságnak történő benyújtásáig,
-- d) olyan gazdálkodó szervezet esetében, amelynek működése katasztrófavédelmi, természetvédelmi vagy környezetvédelmi szempontból tekinthető kiemelt jelentőségűnek, a c) pont ca) és cb) alpontjában megjelölt időpontig
+- a) csődeljárás esetén legkésőbb az egyezség megkötéséig,
+- b) felszámolási eljárás esetén, ha egyezségi tárgyalásra kerül sor, legkésőbb az egyezség megkötéséig, egyezségkötés hiányában pedig legkésőbb a felszámolási záró mérleg bírósághoz történő benyújtásáig
 
 hirdetheti ki.
 
@@ -1817,7 +1803,7 @@ hirdetheti ki.
 
 (4) A (2) bekezdés szerinti felszámolóra annak foglalkoztatottjaira és felszámolóbiztosaira az e törvényben foglalt követelményeket azzal az eltéréssel kell alkalmazni, hogy a 27/A. § (4) bekezdés a) pont aa) és ab) alpontja szerinti – az adós tulajdonosával vagy hitelezőjével összefüggő – kizáró oknak nem tekinthető, ha az adós részben vagy egészben állami tulajdonban lévő gazdálkodó szervezet, vagy ha az adós hitelezője az állam, a központi költségvetés, elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja, államháztartási szervezet, részben vagy egészben az állam tulajdonában vagy tagságával működő szervezet.
 
-(5) Az állami felszámoló az e törvényben meghatározott tevékenységen kívül más gazdasági tevékenységet nem végezhet, kivéve a kizárólagos vagy többségi állami részesedéssel működő gazdálkodó szervezeteknél végzett üzletviteli és egyéb tanácsadást, szerkezetátalakítási és adósságrendezési tervek készítését, jogszabályban meghatározott tanácsadói, szakértői tevékenységet, továbbá az említett gazdálkodó szervezetek tekintetében – a Ctv. 99. §-ában foglalt feltételek érvényesülése mellett – a Ctv. szerinti végelszámolói, vagyonrendezői tevékenységet, valamint a helyi önkormányzatok tekintetében a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény szerinti pénzügyi gondnoki tevékenységet.
+(5) Az állami felszámoló az e törvényben meghatározott tevékenységen kívül más gazdasági tevékenységet nem végezhet, kivéve a kizárólagos vagy többségi állami részesedéssel működő gazdálkodó szervezeteknél végzett üzletviteli és egyéb tanácsadást, szerkezetátalakítási és adósságrendezési tervek készítését, jogszabályban meghatározott tanácsadói, szakértői tevékenységet, az említett és a Ctv. 87. §-a szerinti, állami örökléssel érintett gazdálkodó szervezetek tekintetében a Ctv. szerinti felügyelőbiztosi, – a Ctv. 99. §-ában foglalt feltételek érvényesülése mellett – végelszámolói, továbbá vagyonrendezői tevékenységet, valamint a helyi önkormányzatok tekintetében a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény szerinti pénzügyi gondnoki tevékenységet.
 
 (6) A (2) bekezdés szerinti állami felszámolót, továbbá azt a felszámolót, amelyet külön törvények pénzügyi szervezetek felszámolására vagy végelszámolására kijelölnek, nem kell felvenni a felszámolói névjegyzékbe, de a felszámolónak, a felszámolóbiztosnak, továbbá a 27/C. §-ban meghatározott személyeknek az ott meghatározott adatait és azok változását a Hatóság nyilvántartja. A nyilvántartás közhiteles hatósági nyilvántartás. Az állami felszámolónak az e törvényben és végrehajtási rendeleteiben meghatározott tevékenységére vonatkozóan a Hatóság hatósági ellenőrzést végez, súlyos vagy ismétlődő jogszabálysértés vagy mulasztás esetén az állami felszámolónál kezdeményezi a felszámolóbiztos vagy az állami felszámoló foglalkoztatottjai, vezető tisztségviselői felelősségre vonását, felmentését, továbbá a felszámolóbiztost 400 000 forintig terjedő közigazgatási bírsággal sújthatja.
 
@@ -1845,7 +1831,7 @@ hirdetheti ki.
 
 (7) Az adós tevékenységének a felszámolás alatti továbbfolytatása tárgyában a 46. § (3)–(4) bekezdés szerinti hozzájárulást a hitelezői választmány egy év helyett másfél évi időtartamra is megadhatja.
 
-(8) A felszámolási zárómérleg elkészítésére nyitva álló határidő 270 nap, kivéve ha ezt a határidőt a bíróság indokolt esetben meghosszabbította vagy a hitelezői választmány az adós tevékenységének a felszámolási eljárás alatt történő továbbfolytatásához hozzájárult, továbbá az 52. § (2) bekezdése szerinti esetben, illetve a folyamatban lévő eljárásokra tekintettel. A bíróság a felszámolási zárómérleget és vagyonfelosztási javaslatot – az 56. § (1) bekezdésének alkalmazásával – a felszámolási zárómérleg kézhezvételétől számított 21 napon belül küldi meg a hitelezőknek.
+(8) A felszámolási zárómérleg elkészítésére nyitva álló határidőt a bíróság indokolt esetben meghosszabbíthatja.
 
 (9) Az 53. §-t azzal az eltéréssel kell alkalmazni, hogy a hatósági engedélyhez, koncesszióhoz kötött tevékenységet vagy törvényben meghatározott közszolgáltatási tevékenységet végző adósnak az e tevékenységével összefüggő iratait az adott tevékenységet folytató szervezet részére kell átadni.
 
@@ -1948,6 +1934,104 @@ hirdetheti ki.
 #### 78. §
 
 #### 79. §
+
+### IV/A. Fejezet — A BŰNÜGYI VAGYONT ÉRINTŐ FELSZÁMOLÁS
+
+79/A. § (1) E törvény rendelkezéseit az e Fejezetben meghatározott eltérésekkel kell alkalmazni, ha az adós vagyonára
+
+- a) a büntetőeljárásról szóló törvényben vagy a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben meghatározott zár alá vétel elrendelésére vagy bűnügyi költség viselésére kötelezésre,
+- b) a büntetőeljárásról szóló törvényben meghatározott lefoglalás elrendelésére,
+- c) a Büntető Törvénykönyvről szóló 2012. évi C. törvényben (a továbbiakban: Btk.) meghatározott elkobzás, vagyonelkobzás elrendelésére, vagy
+- d) a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben meghatározott pénzbírság elrendelésére
+
+került sor.
+
+(2) E törvény alkalmazásában
+
+- a) pénzösszegben kifejezett vagyonelkobzás: az adós vagyonára elrendelt, a Btk. 75. § (1) bekezdésében meghatározott jogerős, ügydöntő határozattal vagy véglegessé vált nem ügydöntő végzéssel elrendelt vagyonelkobzás,
+- b) fedezetet biztosító zár alá vétel: az adós vagyonára elrendelt, a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben meghatározott pénzbírság (e fejezet alkalmazásában a továbbiakban: pénzbírság) vagy a Btk. 75. § (1) bekezdésében meghatározott vagyonelkobzás biztosítása céljából elrendelt zár alá vétel,
+- c) előzetes bűnügyi hitelezői igénybejelentés: a felszámolónak a fedezetet biztosító zár alá vételről rendelkező véglegessé vált vagy további jogorvoslattal nem támadható határozatról való értesítése, illetve az erről szóló határozat felszámoló részére történő kézbesítése,
+- d) végleges bűnügyi hitelezői igénybejelentés: a felszámolónak a pénzösszegben kifejezett vagyonelkobzásról, az adóssal szemben elrendelt pénzbírságról, valamint a jogerős ügydöntő határozattal vagy véglegessé vált nem ügydöntő végzéssel az adóssal szemben elrendelt bűnügyi költség (e fejezet alkalmazásában a továbbiakban: bűnügyi költség) viseléséről történő értesítése, illetve az erről szóló határozat felszámoló részére történő kézbesítése,
+- e) bűnügyi hitelezői igénybejelentés: az előzetes bűnügyi hitelezői igénybejelentés és a végleges bűnügyi hitelezői igénybejelentés,
+- f) felszámolási zárómérleg alatt egyszerűsített felszámolás esetén érteni kell a 63/B. § szerinti jelentést és vagyonfelosztási javaslatot is.
+
+(3) A bűnügyi hitelezői igénybejelentés alapjául szolgáló követelés összegeként azt az összeget kell a nyilvántartásban feltüntetni,
+
+- a) amelyet a fedezetet biztosító zár alá vétel biztosít, vagy ha ez kevesebb, amely összegen a fedezetet biztosító zár alá vétellel biztosított vagyont a felszámolási eljárásban értékesítették, vagy
+- b) amely a pénzösszegben kifejezett vagyonelkobzásról, a pénzbírságról, vagy a bűnügyi költségről rendelkező határozatban szerepel.
+
+(4) A felszámoló értesíti a büntetőeljárást lefolytató szervet a bűnügyi hitelezői igénybejelentés alapjául szolgáló követelés összegének a (3) bekezdés a) pontja szerinti változásáról.
+
+(5) Ha az adós vagyonára zár alá vételt, vagyonelkobzást rendeltek el, az adóssal szemben pénzbírságot szabtak ki, vagy az adóst bűnügyi költség viselésére kötelezték, a felszámoló a büntetőeljárást lefolytató szervtől beszerzi az erről szóló határozatot.
+
+(6) E törvény alkalmazásában a bűnügyi hitelezői igénybejelentést is hitelezői igénybejelentésnek kell tekinteni.
+
+(7) Ha a felszámolás elrendelésére bűnügyi igény alapján kerül sor, vagy az adós ellen folyamatban lévő eljárásban bűnügyi hitelezői igénybejelentés történik, felszámolóként a bíróság – kivéve, ha törvény alapján a pénzügyi szervezet felszámolására létrehozott állami felszámoló szervezetet kell kirendelnie – a 66. § (2) bekezdés szerinti állami felszámolót rendeli ki. Ha a bíróság a 27/A. § (1) bekezdése szerint korábban már jelölt ki más felszámolót, annak felmentéséről, költségeinek megtérítéséről, díjazásának megállapításáról, továbbá az állami felszámoló kirendeléséről a bíróság az állami adó- és vámhatóság bűnügyi hitelezői igénybejelentésről való értesítésének kézhezvételét követő 5 munkanapon belül hoz végzést, a bíróság további eljárásra, a felmentett felszámoló és az állami felszámoló jogaira és kötelezettségeire a 66. § (3) bekezdését megfelelően alkalmazni kell. A felmentett felszámoló költségtérítési és díjazása megállapítására, a felmentett felszámoló kötelezettségeire a 27/A. § (11) bekezdésében és 66. § (3) bekezdésében, a kötelezettség elmulasztásának jogkövetkezményére pedig a 27/A. § (11a) bekezdésében foglaltakat kell alkalmazni.
+
+(8) Ha a bűnügyi hitelezői igénybejelentésre a felszámolási zárómérleg bírósághoz történő benyújtásáig sor kerül, azt a 28. § (2) bekezdés f) pontjában előírt 40 napos határidőben bejelentettnek kell tekinteni.
+
+(9) Ha az adós vagyonára büntetőügyben
+
+- a) véglegessé vált vagy további jogorvoslattal nem támadható zár alá vételt rendeltek el, amely nem minősül fedezetet biztosító zár alá vételnek,
+- b) vagyonelkobzást rendeltek el, amely nem minősül pénzösszegben kifejezett vagyonelkobzásnak,
+- c) véglegessé vált vagy további jogorvoslattal nem támadható lefoglalást rendeltek el, vagy
+- d) a jogerős ügydöntő határozattal vagy véglegessé vált nem ügydöntő végzéssel elkobzást rendeltek el,
+
+az annak tárgyát képező vagyont a gazdálkodó szervezet vagyonába nem tartozó vagyonként kell kezelni, és a zár alá vételt, a lefoglalást, a vagyonelkobzást vagy az elkobzást végrehajtó szerv rendelkezésére kell bocsátani.
+
+(10) A (9) bekezdésben meghatározott esetekben a 38. § (1) bekezdése nem alkalmazható.
+
+79/B. § (1) Ha valamely nyilvántartásba vett hitelezői követelésre vonatkozóan büntetőeljárásban zár alá vétel elrendelésére kerül sor, akkor a felszámoló a vagyonfelosztási javaslatban az erre a hitelezői igényre eső vagyont a hitelező jogszerzésével, de zár alá vétellel terhelten tünteti fel. A vagyonfelosztási javaslat jóváhagyása esetén a zár alá vett hitelezői követelés helyébe lépő vagyonra a zár alá vétel a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 332. § (5) bekezdése alapján külön határozat nélkül kiterjed, és azt a hitelező a zár alá vétellel terhelten szerzi meg. Ezt a vagyont a felszámoló a zár alá vételt végrehajtó állami adó- és vámhatóság rendelkezésére bocsátja.
+
+(2) Ha az (1) bekezdés szerint zár alá vett hitelezői igényre
+
+- a) a felszámolási zárómérleg bírósághoz történő benyújtása előtt olyan vagyonelkobzást rendelnek el, amely nem minősül pénzösszegben kifejezett vagyonelkobzásnak, akkor a vagyonfelosztási javaslatot az (1) bekezdésben meghatározott hitelezői igény figyelmen kívül hagyásával kell elkészíteni,
+- b) a felszámolási zárómérleg bírósághoz történő benyújtása után, de a felszámolás befejezése és az adós jogutód nélküli megszüntetése tárgyában hozott végzés jogerőre emelkedése előtt olyan vagyonelkobzást rendelnek el, amely nem minősül pénzösszegben kifejezett vagyonelkobzásnak, akkor a felszámoló köteles a vagyonfelosztási javaslatot az (1) bekezdésben meghatározott hitelezői igény figyelmen kívül hagyásával átdolgozni, és azt újra benyújtani a bírósághoz; ebben az esetben az átdolgozott vagyonfelosztási javaslat benyújtását követően a bíróság haladéktalanul hatályon kívül helyezi a felszámolás befejezése és az adós jogutód nélküli megszüntetése tárgyában hozott korábbi végzését.
+
+(3) Ha az (1) bekezdés szerint zár alá vett hitelezői igényre a büntetőeljárásban olyan vagyonelkobzást rendelnek el, amely nem minősül pénzösszegben kifejezett vagyonelkobzásnak, és az a felszámolás befejezése és az adós jogutód nélküli megszüntetése tárgyában hozott végzés jogerőre emelkedése után emelkedik jogerőre vagy válik véglegessé, akkor erre a hitelezői igényre eső vagyonra – mint a megszűnt adóst megillető vagyonra – a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) szerint hivatalból vagyonrendezés lefolytatására kerül sor.
+
+(4) Ha zár alá vétel elrendelésére a 49/D. §-ban meghatározott zálogjoggal biztosított hitelezői követelésre nézve került sor, akkor a zálogjoggal, valamint a 49/D. § (3) bekezdése szerinti joggal terhelt vagyontárgy értékesítéséből, vagy ezekkel a jogokkal biztosított hitelezői követelés behajtásából származó bevételből a jogosultnak járó összeg a zár alá vett hitelezői követelés helyébe lép, amelyre a zár alá vétel külön határozat nélkül kiterjed, és az összeget a felszámoló a zár alá vételt végrehajtó állami adó- és vámhatóság rendelkezésére bocsátja.
+
+(5) Ha a (4) bekezdés szerint zár alá vett vagyonra
+
+- a) a 49/D. § (1), illetve (4) bekezdése alapján a zálogjoggal biztosított hitelezői követelés kielégítése előtt olyan vagyonelkobzást rendeltek el, amely nem minősül pénzösszegben kifejezett vagyonelkobzásnak, akkor a zálogjoggal biztosított hitelezői követelést nem lehet kielégíteni és a vagyonfelosztási javaslatot a (4) bekezdésben meghatározott hitelezői igény figyelmen kívül hagyásával kell elkészíteni,
+- b) a 49/D. § (1), illetve (4) bekezdése alapján a zálogjoggal biztosított hitelezői követelés kielégítése után, azonban a felszámolási zárómérleg bírósághoz történő benyújtása előtt olyan vagyonelkobzást rendeltek el, amely nem minősül pénzösszegben kifejezett vagyonelkobzásnak, akkor a vagyonfelosztási javaslatot a (4) bekezdésben meghatározott hitelezői igény figyelmen kívül hagyásával kell elkészíteni,
+- c) a felszámolási zárómérleg bírósághoz történő benyújtása után, de a felszámolás befejezése és az adós jogutód nélküli megszüntetése tárgyában hozott végzés jogerőre emelkedése előtt olyan vagyonelkobzást rendeltek el, amely nem minősül pénzösszegben kifejezett vagyonelkobzásnak, akkor a felszámoló köteles a vagyonfelosztási javaslatot a (4) bekezdésben meghatározott hitelezői igény figyelmen kívül hagyásával átdolgozni, és újra benyújtani a bíróságnak; ebben az esetben az átdolgozott vagyonfelosztási javaslat benyújtását követően a bíróság haladéktalanul hatályon kívül helyezi a felszámolás befejezése és az adós jogutód nélküli megszüntetése tárgyában hozott korábbi végzését.
+
+(6) Ha a (4) bekezdés szerint zár alá vett vagyonra a büntetőeljárásban olyan vagyonelkobzást rendelnek el, amely nem minősül pénzösszegben kifejezett vagyonelkobzásnak és az a felszámolás befejezése és az adós jogutód nélküli megszüntetése tárgyában hozott végzés jogerőre emelkedése után emelkedik jogerőre vagy válik véglegessé, akkor a hitelezői igény megszűnése miatt az adós vagyonát képező vagyonnövekményre – mint a megszűnt adóst megillető vagyonra – a Ctv. szerint hivatalból vagyonrendezés lefolytatására kerül sor.
+
+(7) A zár alá vett hitelezői igénnyel vagy a Be. 332. § (5) bekezdése alapján helyébe lépett vagyonnal kapcsolatban beszámítási jog nem gyakorolható.
+
+(8) Ha valamely nyilvántartásba vett hitelezői követelésre vonatkozóan pénzösszegben kifejezett vagyonelkobzást rendelnek el, annak végrehajtására az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 125/C. §-ában meghatározott rendelkezéseket kell alkalmazni.
+
+79/C. § (1) Ha a Be. 332. § (3) bekezdése alapján a zár alá vett vagyon helyébe előzetes bűnügyi hitelezői igénybejelentés lép, és a zár alá vétel az eredeti vagyon tekintetében megszűnik, a felszámoló intézkedik az eredeti vagyon tekintetében a zár alá vétel közhiteles nyilvántartásból való törlése iránt.
+
+(2) Ha a zár alá vétel (1) bekezdésben meghatározottak szerinti törléséhez határozat meghozatala szükséges, a határozatot a felszámoló előterjesztése alapján a felszámolási ügyben eljáró bíróság hozza meg.
+
+79/D. § (1) A felszámoló a bűnügyi hitelezői igénybejelentés alapján hitelezőként a büntetőjogi igényt érvényesítő magyar államot veszi nyilvántartásba. A magyar állam képviselőjeként az állami adó- és vámhatóság jár el, és e követelések tekintetében gyakorolja a hitelezői jogokat. Ha a bűnügyi hitelezői igénybejelentést nem az állami adó- és vámhatóság tette, a felszámoló haladéktalanul értesíti az állami adó- és vámhatóságot annak érdekében, hogy a magyar állam képviselőjeként eljárhasson.
+
+(2) A felszámoló a felszámolás kezdő időpontjától számított hatvan napon belül a nyilvántartásba vett hitelezői követelések listáját megküldi a büntetőeljárást lefolytató szervnek. Ha a felszámoló a határidő lejártát követően szerez tudomást az előzetes bűnügyi hitelezői igénybejelentésről, a nyilvántartásba vett hitelezői követelések listáját a tudomásszerzéstől számított 15 napon belül küldi meg büntetőeljárást lefolytató szervnek. A felszámoló a 48. § (2) bekezdésében meghatározott értesítések megküldésével egyidejűleg a nyilvántartásba vett hitelezői követelések listáját ismételten megküldi a büntetőeljárást lefolytató szervnek. A 48. § (2) bekezdésben meghatározott értesítési kötelezettség hiányában a felszámoló a nyilvántartásba vett hitelezői követelések listáját az értékesítés megkezdésével egyidejűleg küldi meg a büntetőeljárást lefolytató szervek.
+
+(3) A bűnügyi hitelezői igénybejelentés nem tekinthető vitatott hitelezői követelésnek.
+
+(4) A bűnügyi hitelezői igénybejelentés tekintetében beszámítási jog nem gyakorolható.
+
+79/E. § (1) Az előzetes bűnügyi hitelezői igénybejelentés helyébe az azonos vagyonra elrendelt végleges bűnügyi hitelezői igénybejelentés lép, függetlenül attól, hogy a végleges bűnügyi hitelezői igénybejelentésre mikor került sor.
+
+(2) Ha a végleges bűnügyi hitelezői igénybejelentés alacsonyabb összegre vonatkozik, mint az előzetes bűnügyi hitelezői igénybejelentés, és azt
+
+- a) a felszámolási zárómérleg bírósághoz történő benyújtásáig jelentik be, akkor az igényt a különbözetre vonatkozóan visszavontnak kell tekinteni és azt a vagyonelkobzásból, illetve pénzbírságból származó igényre kell csökkenteni,
+- b) a felszámolási zárómérleg bírósághoz történő benyújtása után, de a felszámolás befejezése és az adós jogutód nélküli megszüntetése tárgyában hozott végzés jogerőre emelkedése előtt jelentik be, akkor a felszámoló köteles a vagyonfelosztási javaslatot ennek megfelelően átdolgozni, és azt újra benyújtani a bírósághoz; ebben az esetben az átdolgozott vagyonfelosztási javaslat benyújtását követően a bíróság haladéktalanul hatályon kívül helyezi a felszámolás befejezése és az adós jogutód nélküli megszüntetése tárgyában hozott korábbi végzését.
+
+(3) Ha a büntetőeljárásban a végleges bűnügyi hitelezői bejelentést megalapozó határozat a felszámolás befejezése és az adós jogutód nélküli megszüntetése tárgyában hozott végzés jogerőre emelkedése után emelkedik jogerőre vagy válik véglegessé, és alacsonyabb összegre vonatkozik, mint az előzetes bűnügyi hitelezői igénybejelentés, a különbözetet olyan, az adóst megillető vagyonnak kell tekinteni, amelyre vonatkozóan a Ctv. szerint hivatalból vagyonrendezési eljárás lefolytatására kerül sor.
+
+(4) Ha a végleges bűnügyi hitelezői igénybejelentés magasabb összegre vonatkozik, mint az előzetes bűnügyi hitelezői igénybejelentés, a különbözetre vonatkozóan akkor lehet a felszámolási eljárásban hitelezői igényt benyújtani, ha a végleges bűnügyi hitelezői igénybejelentésre a felszámolási zárómérleg bíróságnak történő benyújtásáig sor került.
+
+(5) Ha a büntetőeljárást végleges bűnügyi hitelezői igénybejelentés alapjául szolgáló döntés nélkül fejezik be, az előzetes bűnügyi hitelezői igénybejelentést – a büntetőeljárás befejeződésével vagy a fedezetet biztosító zár alá vétel feloldásával – visszavontnak kell tekinteni, illetve ha az előzetes hitelezői igényre vagyoni eszköz került elkülönítésre, a felszámolási eljárás befejezése és az adós jogutód nélküli megszüntetése tárgyában hozott végzés jogerőre emelkedése után hivatalból vagyonrendezési eljárást kell megindítani.
+
+79/F. § (1) A felszámoló a vagyonfelosztási javaslatot és az 52. §-ban meghatározott más iratokat csak azt követő két hónap elteltével küldi meg a bíróságnak, hogy a vagyonfelosztási javaslatot a büntetőeljárást lefolytató szervnek megküldte.
+
+(2) A vagyonfelosztási javaslatban az előzetes bűnügyi hitelezői igénybejelentésre a vagyonfelosztás során eső vagyont az adós gazdálkodó szervezet tulajdonába tartozó, zár alá vett vagyonként kell feltüntetni. A vagyonfelosztási javaslat jóváhagyása esetén a vagyont a zár alá vételt végrehajtó szerv rendelkezésére kell bocsátani, és a 79/C. § megfelelő alkalmazásával intézkedni kell a zár alá vétel közhiteles nyilvántartásba való bejegyzése iránt.
 
 ### V. Fejezet — EGYÉB RENDELKEZÉSEK
 
@@ -2111,6 +2195,14 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 
 (3) E törvénynek a 2021. évi XXXII. törvénnyel beiktatott 27/D. § (14) bekezdését az e rendelkezés hatálybalépésekor folyamatban lévő csődeljárásokban és felszámolási eljárásokban alkalmazni kell.
 
+(4) E törvénynek az egyes igazságügyi tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXII. törvénnyel megállapított 18. § (5) bekezdését, 19. § (1) bekezdését, 25. § (1) bekezdés f) pontját, 65. § (1) bekezdés a) pontját és (2) bekezdését és 67. § (8) bekezdését a 2022. január 1. napján folyamatban lévő bírósági eljárásokban is alkalmazni kell.
+
+(5) E törvénynek az egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2021. évi CXXXIV. törvénnyel (a továbbiakban: 2021. évi CXXXIV. törvény) megállapított 23. § (1) bekezdését, 24. § (3) bekezdését, 46. § (7) bekezdését, 46. § (7a) bekezdését, 52. § (1a) bekezdését, 57. § (1) bekezdés e) pontját, 57. § (6) bekezdését, 57. § (6a) bekezdését és IV/A. Fejezetét a 2021. évi CXXXIV. törvény hatálybalépésekor folyamatban lévő felszámolási eljárásokban is alkalmazni kell, valamint a 2021. évi CXXXIV. törvény hatálybalépését követően a 6/A. § és a 38/A. § a már megkezdett eljárási cselekményekre sem alkalmazható, és
+
+- a) a 2021. évi CXXXIV. törvény hatálybalépését megelőzően elrendelt, a 79/A. § (2) bekezdése alapján bűnügyi hitelezői igénybejelentésnek minősülő fedezetet biztosító zár alá vételt, pénzösszegben kifejezett vagyonelkobzást, pénzbírságot és bűnügyi költséget is a 28. § (2) bekezdés f) pontjában előírt 40 napos határidőben bejelentett bűnügyi hitelezői igénybejelentésnek kell tekinteni,
+- b) a 6/A. § vagy a 38/A. § alapján felfüggesztett felszámolási eljárást hivatalból folytatni kell, és
+- c) a felszámoló köteles beszerezni a bűnügyi hitelezői igénybejelentés alapjául szolgáló határozatot, valamint értesíteni az állami adó- és vámhatóságot, hogy a bűnügyi hitelezői igénybejelentés végrehajtására a felszámolási eljárásban kerül sor.
+
 83/Z. § E törvénynek a kényszertörlési eljárásra és a felszámolási eljárásra vonatkozó és kapcsolódó egyes törvények módosításáról szóló 2021. évi LXX. törvénnyel (a továbbiakban: 2021. évi LXX. tv.) megállapított rendelkezéseit a 2021. évi LXX. tv. hatálybalépése napját követően jogerősen elrendelt felszámolási eljárásokban kell alkalmazni.
 
 84. § (1) Ha a felszámoló vagy annak tagja nem felel meg a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény és egyéb törvények módosításáról szóló 2012. évi CIV. törvénnyel módosított 27/A. § (2) bekezdés szerinti átlátható és megismerhető tulajdonosi szerkezeti feltételeknek, a felszámolónak 2012. szeptember 1-jéig kell igazolnia a feltételek teljesítését a felszámolók névjegyzékét vezető szervnek.
@@ -2133,7 +2225,7 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 
 (1b)
 
-(1c) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a gazdálkodó szervezetek reorganizációjára, működőképességének fenntartására, illetve helyreállítására, tartozásaik rendezésére vonatkozó sajátos szabályokat.
+(1c)
 
 (2) Felhatalmazást kap a Kormány arra, hogy
 

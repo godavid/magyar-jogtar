@@ -27,7 +27,7 @@ meghatározottak közül kiválasztott egy-egy kedvezményezett javára.
 
 (6) Az adózó a rendelkező nyilatkozaton rendelkezhet úgy, hogy nevét és postai, illetve elektronikus levelezési címét a 4. § (1) bekezdése szerinti kedvezményezettel közöljék.
 
-(7) Az adóhatóság a 4/A. § (1) bekezdés a) pontja szerinti kedvezményezett részére a rendelkező nyilatkozatot az újabb kedvezményezett megjelöléséig vagy a rendelkező nyilatkozat visszavonására irányuló nyilatkozat benyújtásáig veszi figyelembe. Az újabb kedvezményezett megjelölésére vagy a nyilatkozat visszavonására a nyilatkozattétel évét követően évente egy alkalommal, az 5. § (1) bekezdésben meghatározott határidőig kerülhet sor.
+(7) Az adóhatóság a 4/A. § (1) bekezdése szerinti kedvezményezett részére a rendelkező nyilatkozatot az újabb kedvezményezett megjelöléséig vagy a rendelkező nyilatkozat visszavonására irányuló nyilatkozat benyújtásáig veszi figyelembe. Az újabb kedvezményezett megjelölésére vagy a nyilatkozat visszavonására a nyilatkozattétel évét követően évente egy alkalommal, az 5. § (1) bekezdésben meghatározott határidőig kerülhet sor.
 
 2. § (1) Ha a magánszemély a befizetett adójának legalább egyik egy százalékáról rendelkezett, és rendelkezésének teljesítése megtörtént, a teljesítés szerinti összeg kizárólag abban az esetben módosítható, ha a módosítás vagy módosítások által a teljesítés szerinti összeg kedvezményezettenként legalább ötezer forinttal növekszik, és a rendelkező nyilatkozat évét követő év július 31. napjáig
 
@@ -132,7 +132,7 @@ ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet v�
 
 (5) Ha a magánszemély a 6. § (1) bekezdésében és 6/B. § (2) bekezdésében meghatározott átutalás időpontjában rendelkezik a központi elektronikus szolgáltató rendszer használatához szükséges megfelelő elektronikus tárhellyel, az adóhatóság az átutalást követő 15 napon belül a központi elektronikus szolgáltató rendszerben, elektronikus úton ad tájékoztatást a nyilatkozatban foglalt rendelkezés címzettjéről, és a részére történő kiutalás teljesítéséről.
 
-(6) Az adóhatóság a nyilatkozattétel évét követően minden év január 31-ig elektronikus úton, megfelelő elektronikus tárhely hiányában, illetve amennyiben az adózó az elektronikus ügyintézést a rendelkezési nyilvántartásban kizárta, postai úton értesíti azon magánszemélyeket, akiknek a 4/A. § (1) bekezdés a) pontja szerinti szervezet javára tett nyilatkozata a kedvezményezett érdekköréből kifolyólag érvénytelen volt, vagy a nyilvántartás adatai alapján az értesítés évében érvénytelen lenne.
+(6) Az adóhatóság a nyilatkozattétel évét követően minden év január 31-ig elektronikus úton, megfelelő elektronikus tárhely hiányában, illetve amennyiben az adózó az elektronikus ügyintézést a rendelkezési nyilvántartásban kizárta, postai úton értesíti azon magánszemélyeket, akiknek a 4/A. § (1) bekezdése szerinti szervezet javára tett nyilatkozata a kedvezményezett érdekköréből kifolyólag érvénytelen volt, vagy a nyilvántartás adatai alapján az értesítés évében érvénytelen lenne.
 
 #### 4. A rendelkező nyilatkozat adóhatóság általi feldolgozásának szabályai
 
@@ -334,3 +334,5 @@ ha belföldi székhelyű és nyilatkozata szerint közhasznú tevékenységet v�
 (2) Az adóhatóság az érintett nyilatkozatokat az (1) bekezdés hatálybalépésének hónapját követő harmadik hónap végéig felülvizsgálja.
 
 12. § A lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény módosításához kapcsolódóan egyes törvények módosításáról szóló 2019. évi XXXVI. törvénnyel megállapított 4. § (1) bekezdés a) pont aa) alpontja, 4/A. § (1) bekezdés a) pontja és (2) bekezdése, valamint 6/B. § (2) bekezdése első alkalommal a 2020. rendelkező évi nyilatkozatok esetében alkalmazandó.
+
+13. § Az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 1. § (7) bekezdését és 5/A. § (6) bekezdését első alkalommal a 2021. rendelkező évi nyilatkozatok esetében kell alkalmazni.

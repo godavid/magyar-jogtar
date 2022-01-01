@@ -2130,7 +2130,7 @@ követelésére, valamint a felsoroltak külföldi megfelelőinek követeléseir
 - a) tőzsdei tevékenységet,
 - b) tőzsdei tevékenységet segítő kiegészítő tevékenységet,
 - c) a Bszt. 5. § (1) bekezdés h) és i) pontja szerinti kereskedési rendszer működtetése tevékenységet,
-- d) a Bszt. 6/A. §-a szerinti adatszolgáltatási tevékenységet,
+- d) a 600/2014/EU európai parlamenti és tanácsi rendelet szerinti adatszolgáltatási tevékenységet,
 - e) gazdasági társaságok tőkepiaci forrásbevonását elősegítő platformok működtetése tevékenységet,
 - f) informatikai szolgáltatást,
 - g) piac működtetésével kapcsolatos szolgáltatást
@@ -4262,5 +4262,6 @@ Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálj
 - 28. Az 596/2014/EU európai parlamenti és tanácsi rendelet tényleges vagy lehetséges megsértésének illetékes hatóságoknak történő bejelentéséről szóló, 2015. december 17-i 2015/2392 bizottsági végrehajtási irányelv.
 - 29. Az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet.
 - 30. Az Európai Parlament és a Tanács 600/2014/EU rendelete (2014. május 15.) a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról.
+- 31. A biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról szóló 2009/138/EK irányelv (Szolvencia II.), a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv és a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv módosításáról szóló, 2019. december 18-i (EU) 2019/2177 európai parlamenti és tanácsi irányelv.
 
 ### 26. számú melléklet a 2001. évi CXX. törvényhez

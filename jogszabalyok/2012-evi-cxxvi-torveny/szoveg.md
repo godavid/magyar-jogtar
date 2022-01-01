@@ -28,7 +28,7 @@ a polgári perrendtartásról szóló 2016. évi CXXX. törvény 7. § (1) bekez
 - g) szakmai kamara: meghatározott szakmát gyakorló személyek törvény által létrehozott köztestülete;
 - h) ÖVTJ: az önálló vállalkozók tevékenységi jegyzéke bevezetéséről és alkalmazásáról szóló mindenkor hatályos jogszabályban meghatározott tevékenységek jegyzéke;
 - i) TEÁOR: a mindenkor hatályos gazdasági tevékenységek egységes ágazati osztályozási rendszere, amely a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról szóló 1893/2006/EK európai parlamenti és tanácsi rendeletnek felel meg;
-- j) küldöttválasztó közgyűlés: a kamarai tagok olyan ülés tartása nélküli választói akaratnyilvánító fóruma, amelynek kizárólagos célja a megyei küldöttgyűlési küldöttek megválasztása.
+- j)
 
 2/A. § (1) E törvény alkalmazásában agrárgazdasági tevékenység folytatásának kell tekinteni, ha az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek az e törvény alapján az agrárkamara részére adatszolgáltatásra kötelezett közigazgatási nyilvántartási feladatokat ellátó szervnek, vagy a cégbíróságnak az érintett személyről vezetett nyilvántartásában szerepelnek.
 
@@ -153,7 +153,7 @@ nyilvántartást vezet.
   - aa) a nevét,
   - ab) a lakcímét,
   - ac) az értesítési címét,
-  - ad) az elektronikus levelezési címét,
+  - ad) az elektronikus levelezési címét, telefonszámát,
   - ae) a születési helyét és idejét,
   - af) az anyja nevét,
   - ag) az adóazonosító jelét, adószámát,
@@ -171,7 +171,7 @@ nyilvántartást vezet.
   - as) a kamarai igazolvány számát, érvényességének kezdetét és végét;
 - b) gazdálkodó szervezet esetében:
   - ba) a cégnevét,
-  - bb) a székhelyét, telephelyét, fióktelephelyét, elektronikus levelezési címét,
+  - bb) a székhelyét, telephelyét, fióktelephelyét, elektronikus levelezési címét, telefonszámát, cégkapu azonosítóját,
   - bc) a cégjegyzékszámát, a nem a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) hatálya alá tartozása esetében – a gazdálkodó szervezet azonosításához szükséges nyilvántartási számát, a nyilvántartás megnevezésével,
   - bd) az adószámát,
   - be) a bejelentett törvényes képviselője nevét, anyja nevét és lakcímét, elérhetőségeit, és – önkéntes adatszolgáltatás alapján, a gazdálkodó szervezet erre irányuló kérelme esetén – a kamarai kapcsolattartásra jogosult személy nevét és elérhetőségeit,
@@ -200,11 +200,11 @@ nyilvántartást vezet.
 
 (4) Az agrárkamara a tagjegyzékben, valamint a gazdaságszerkezeti nyilvántartásban szereplő, tagra vonatkozó adatokat kezeli.
 
-(5) A tag a (2) bekezdés szerinti adatokról – a (2) bekezdés a) pont an) és aq) alpontja, valamint a b) pont bh) és bk) alpontja kivételével – a tagsági viszony létrejöttét – változás esetén a változást – követő harminc napon belül köteles nyilatkozni.
+(5) A tag a (2) bekezdés szerinti adatokról – a (2) bekezdés a) pont am) és ap) alpontja, valamint a b) pont bh) és bk) alpontja kivételével – a tagsági viszony létrejöttét – változás esetén a változást – követő harminc napon belül köteles nyilatkozni.
 
 (6) Az agrárkamara a (2) bekezdés aa)–ah) pontjaiban meghatározott adatokat az élelmiszerlánc felügyeleti szerv részére annak kérelmére egyedi azonosításra alkalmas módon, statisztikai célra, térítésmentesen, évente legkésőbb április 15-ig átadja. Az agrárkamara a Központi Statisztikai Hivatal számára statisztikai célból a (2) bekezdésében foglalt tagjegy-zékéhez hozzáférést biztosít, vagy kérelmére egyedi azonosításra alkalmas módon adatot ad át.
 
-(7) A tag által a (3) bekezdésben foglaltak szerint szolgáltatandó adatok körét – a tevékenység jellegétől függően – a küldöttgyűlés által elfogadott adatszolgáltatási szabályzat határozza meg.
+(7) A tag által a (3) bekezdésben foglaltak szerint szolgáltatandó adatok körét – a tevékenység jellegétől függően – az országos küldöttgyűlés által elfogadott adatszolgáltatási szabályzat határozza meg.
 
 7/A. § (1) A tagjegyzék, valamint a gazdaságszerkezeti nyilvántartás adatállománya a kamara kizárólagos tulajdona, azon más személy részére kizárólagos rendelkezési jog nem engedhető, továbbá a kamarának az informatikai rendszerben tárolt adatokhoz való hozzáférési joga, valamint ezen adatoknak a kamara részére elektronikus úton való átadása korlátozására, feltételhez kötésére megállapodás nem köthető.
 
@@ -278,8 +278,12 @@ használhatja fel.
 - b) a bevallásában az 1. melléklet szerinti agrárgazdasági tevékenységet feltüntető egyéni vállalkozó, egyéni cég nevéről, adóazonosító jeléről, valamint a vállalkozói tevékenységből származó tárgyévi, a kapott támogatást nem tartalmazó bevételéről,
 - c) a bevallásában a 2. melléklet szerinti agrárgazdasági tevékenységet folytató gazdálkodó szervezet agrárkamarai tag esetében a tárgyévi nettó árbevételéről, ennek hiányában a tárgyévi bevétel rendelkezésre álló adatairól,
 - d) a mezőgazdasági termelőszervezetként nyilvántartásba vett jogalany tárgyévi nettó árbevételéről, ennek hiányában a tárgyévi bevétel rendelkezésre álló adatairól.
+- e) amennyiben rendelkezésre áll az a)–d) pontban foglalt személyek vonatkozásában – a 11. §-ban foglaltak céljából – az alábbi adatokról
+  - ea) a tárgyévben megfizetendő és vissza nem térített, illetve meg nem térülő, a sör, a csendes és habzóbor, az egyéb csendes és habzó erjesztett ital, a köztes alkoholtermék, az alkoholtermék és a dohánygyártmány után fizetendő jövedéki adó – lehetőség szerint összesített – összegéről,
+  - eb) a tárgyévben fizetendő népegészségügyi termékadó összegéről,
+- f) amennyiben rendelkezésre áll az a)–b) pontban foglalt személyek vonatkozásában – a 11. §-ban foglaltak céljából – a tárgyévben a támogatási szerv által folyósított támogatások összegéről.
 
-(2a) Az állami adóhatóság a tárgyévet követő év július 1. napjáig köteles adatot szolgáltatni az agrárkamara részére a tárgyévben elhunyt őstermelő, az agrárkamarai tag egyéni vállalkozó adóazonosító jeléről és adószámáról, valamint megszűnt agrárkamarai tag egyéni cég nevéről és adószámáról.
+(2a) Az állami adóhatóság a tárgyévet követő év július 1. napjáig köteles adatot szolgáltatni az agrárkamara részére a tárgyévben elhunyt őstermelő, az agrárkamarai tag egyéni vállalkozó adóazonosító jeléről és adószámáról, valamint megszűnt agrárkamarai tag egyéni cég nevéről és adószámáról. Az állami adóhatóságnak az e bekezdés szerint nyújtott adatokat úgy kell átadnia, hogy az agrárkamara számára megállapítható legyen az elhunyt őstermelő, egyéni vállalkozó, illetve egyéni cég tagja elhalálozásának időpontja.
 
 (2b) Az állami adóhatóság a Ctv. 24. § (4a) bekezdése szerinti értesülésével és a Ctv. 24. § (4b) bekezdése szerinti értesítésével egyidejűleg értesíti az agrárkamarát a cég agrárgazdasági tevékenységnek minősülő fő- és további tevékenységi köreiről és az azokat érintő változásokról. Az értesítésben az adóhatóság megjelöli a tevékenységi kör megváltozására vonatkozó bejelentés megtételének napját.
 
@@ -297,6 +301,8 @@ használhatja fel.
   - bc) székhelyéről (telephelyéről, fióktelepéről).
 
 (2e) Az agrárkamara a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 103. §-ában meghatározott feladatának ellátása érdekében az ingatlan-nyilvántartásból adatszolgáltatást vagy lekérdezést igényelhet a tulajdonos valamennyi ingatlanáról, ideértve a tulajdonosok jegyzékéből (névmutatóból) történő igénylést is.
+
+(2f) Az agrárkamara jogosult – a megjelölt kötelező adatszolgáltatási időponton kívül is – újabb adatszolgáltatást kérni az állami adóhatóságtól a (2)–(2a) bekezdésekben foglalt adatokra.
 
 (3) A mezőgazdasági és vidékfejlesztési támogatási szerv az általa kezelt adatok közül a tárgyévet követő év június 1. napjáig köteles adatot szolgáltatni a kamara részére a tárgyévben a központi költségvetésből, illetve az Európai Mezőgazdasági Vidékfejlesztési Alapból (a továbbiakban: EMVA), az Európai Mezőgazdasági Garancia Alapból (a továbbiakban: EMGA), továbbá az Európai Halászati Alapból (a továbbiakban: EHA) – ideértve ezen pénzügyi alapok helyébe lépő közösségi pénzügyi forrásokat is – finanszírozott támogatásban részesülő kamarai tagra vonatkozóan a következő adattartalommal:
 
@@ -335,7 +341,7 @@ használhatja fel.
 
 9. § (1) Az agrárkamara tagjának joga, hogy
 
-- a) részt vegyen a kamarai küldöttek megválasztásában,
+- a) részt vegyen a megyei küldöttek megválasztásában, e törvényben foglaltak és e törvény felhatalmazása alapján megalkotott szabályok szerint,
 - b) küldöttnek vagy a testületi szervek tagjának válasszák,
 - c) a küldöttgyűlésben vagy a testületi szervekben tisztséget viseljen,
 - d) az agrárkamara tisztségviselőitől a feladatkörükbe tartozó kérdésben tájékoztatást kérjen,
@@ -455,6 +461,8 @@ használhatja fel.
 
 (8) A mezőgazdasági őstermelők és őstermelők családi gazdasága, valamint családi mezőgazdasági társaságok nyilvántartásával kapcsolatos hatósági feladatokat az agrárkamara látja el. Az agrárkamara jogosult ezen feladatával összefüggésben tudomására jutott adatok kezelésére, valamint azoknak a tagjegyzékbe, illetve a gazdaságszerkezeti nyilvántartásba történő átvételére és ezen nyilvántartásokban való kezelésére, továbbá az őstermelői nyilvántartásba vétel iránti kérelem előállításához a jogszabályban meghatározott őstermelői nyilvántartásban szereplő ügyféladatok és az ügyfélhez kapcsolódó igazolványadatok lekérdezésére.
 
+(9) Az agrárkamara a kamarai meghatalmazás alapján technikai közreműködőként jogosult képviselni a meghatalmazót az agrártámogatások igénybevételével összefüggő elektronikus ügyintézésben, ezzel kapcsolatban az agrárkamara létrehozza és üzemelteti a kamarai meghatalmazások nyilvántartását.
+
 #### 14/A. §
 
 15. § A tagok széles körét érintő jogszabályok, szabályozási koncepciók tárgyában az agrárpolitikáért, valamint az agrár-, vidékfejlesztésért felelős miniszter és az agrárkamara elnöke szükség szerint, de legalább évente kétszer szakmai konzultációt tart.
@@ -504,7 +512,7 @@ használhatja fel.
 - f) jogsegélyszolgálatot működtet;
 - g) általános gazdasági és szakmai tájékoztatókat tart.
 
-(3) Az agrárkamara alapszabálya meghatározza a tagok részére térítés ellenében nyújtandó szolgáltatások körét.
+(3) Az agrárkamara alapszabálya meghatározza a tagok részére térítés ellenében nyújtandó, valamint e törvényben meghatározott szolgáltatásokat meghaladóan további térítésmentesen nyújtott szolgáltatások körét.
 
 (4) Az agrárkamara feladatainak ellátása során – azok feladatkörét érintő ügyekben – köteles együttműködni a szakmaközi szervezetekkel, a Magyar Állatorvosi Kamarával, a Magyar Növényvédő Mérnöki és Növényorvosi Kamarával, a Magyar Vadászkamarával, valamint a Hegyközségek Nemzeti Tanácsával, továbbá azok feladatkörét érintő szolgáltatási közfeladatait a bevonásukkal látja el.
 
@@ -542,7 +550,7 @@ használhatja fel.
 - f)
 - g) a kamarai tagdíj mértékét, valamint a tagdíj fizetésének módját, feltételeit,
 - h)
-- i) a küldöttgyűlésébe történő delegálás részletes szabályait;
+- i)
 - j) a kamarai osztályok számát, termékkörét, összehívásának módját és határozathozataluk rendjét;
 - k) a küldöttgyűlés küldötteinek, az elnökség, az ellenőrző és etikai bizottság tagjainak számát;
 - l) a kamara elnökének, alelnökeinek, az elnökség, valamint az ellenőrző és az etikai bizottság tagja és más választott tisztségviselő megválasztásának és visszahívásának módját;
@@ -550,7 +558,7 @@ használhatja fel.
 - n) az e törvényben meghatározottakon túl a küldöttgyűlés kizárólagos hatáskörébe utalt ügyek körét;
 - o) az elnökség összehívására, működésére, határozatának meghozatalára vonatkozó szabályokat;
 - p) az e törvényben meghatározottakon túl a kétharmados vagy ennél nagyobb arányú többséget igénylő ügyek körét;
-- q) az elnök, alelnökök jogkörét, illetve az ügyek meghatározott csoportjaira nézve a képviseleti jogkör átruházásának szabályait;
+- q) az elnök, jogkörét, illetve az ügyek meghatározott csoportjaira nézve a képviseleti jogkör átruházásának szabályait;
 - r) a kamara éves költségvetése, a beszámoló és a mérleg elfogadásának rendjét;
 - s) az e törvényben meghatározottakon túl a kamarai tisztségviselők összeférhetetlenségének eseteit;
 - t) mindazt, amiben e törvény az alapszabály rendelkezését írja elő.
@@ -559,7 +567,7 @@ használhatja fel.
 
 ### Az országos küldöttgyűlés
 
-19. § (1) Az agrárkamara legfőbb szerve a tagok által öt évre választott országos küldöttgyűlés. Az országos küldöttgyűlés választott tagjai az agrárkamarai országos küldöttek, valamint az agrárkamara megyei szervezetének elnökei.
+19. § (1) Az agrárkamara legfőbb szerve az öt évre választott országos küldöttgyűlés. Az országos küldöttgyűlés tagjai az országos küldöttek, valamint az agrárkamara megyei szervezeteinek elnökei.
 
 (2) Az országos küldöttgyűlés kizárólagos hatáskörébe tartozik
 
@@ -572,12 +580,12 @@ használhatja fel.
 - g) az éves saját bevételt meghaladó kölcsön felvételéről való döntéshozatal;
 - h) az agrárkamara éves költségvetésének meghatározásáról, az elfogadott éves költségvetés módosításának szabályairól, az éves beszámoló és mérleg elfogadásáról való döntéshozatal;
 - i) a kamarai tagdíj mértékéről és megfizetésének módjáról való döntéshozatal;
-- j) az agrárkamara elnökének, alelnökeinek, az elnökség, valamint az ellenőrző és az etikai bizottság tagjainak megválasztása és visszahívása;
-- k) az országos, valamint a megyei küldöttgyűlési küldöttek választása rendjének a megállapítása.
+- j) az agrárkamara elnökének, alelnökeinek, valamint az ellenőrző és az etikai bizottság tagjainak megválasztása és visszahívása.
+- k)
 
 (3) Az alapszabály – a (2) bekezdésben meghatározottakon túl – más ügyet is az országos küldöttgyűlés hatáskörébe utalhat.
 
-(4)
+(4) Az országos küldöttgyűlés hatáskörébe tartozik az országos, valamint a megyei küldöttgyűlési küldöttek választása rendjének a megállapítása azzal, hogy az országos küldöttgyűlés egyes döntéseket más agrárkamarai testületi szerv hatáskörébe utalhat.
 
 20. § (1) Az országos küldöttgyűlést az alapszabályban meghatározott időközönként, de legalább évente egyszer össze kell hívni. Az országos küldöttgyűlést akkor is össze kell hívni, ha azt legalább a küldöttek egyötöde – az ok és a cél megjelölésével – írásban kéri.
 
@@ -631,7 +639,7 @@ használhatja fel.
 
 ### Az elnökség
 
-22. § (1) Az elnökség feladata a küldöttgyűlések közötti időszakban, a küldöttgyűlés határozatainak megfelelően az agrárkamara működésének irányítása. Az elnökség testületi szerv.
+22. § (1) Az elnökség feladata az országos küldöttgyűlések közötti időszakban, az országos küldöttgyűlés határozatainak megfelelően az agrárkamara működésének irányítása. Az elnökség testületi szerv.
 
 (2) Az elnökség tagjai:
 
@@ -646,12 +654,7 @@ használhatja fel.
 
 23. § (1) Az agrárkamarát az elnök önállóan képviseli. Az elnök a képviseleti jogát a 23. § (2) bekezdés szerinti alelnökre, az agrárkamara megyei szervezetének elnökére, az agrárkamara alkalmazásában álló személyre írásban átruházhatja. Az elnök a főigazgató akadályoztatása esetén, valamint ha a főigazgató tisztség nincs betöltve, a főigazgatói jogkörök gyakorlását magához vonhatja, illetve e jogkör gyakorlását az elnök általános helyettesítésével kapcsolatos feladatok ellátásáért felelős alelnökre, a főigazgató helyettesítésére az agrárkamara szervezeti és működési szabályzata alapján feljogosított személyre ruházhatja át.
 
-(2) Az agrárkamara küldöttgyűlése négy alelnököt választ, akik közül 1-1 fő felelős:
-
-- a) a mezőgazdaságért,
-- b) az élelmiszeriparért,
-- c) a vidékfejlesztésért, valamint
-- d) az általános agrárgazdasági ügyekért, aki egyben az elnök általános helyettese.
+(2) Az agrárkamara országos küldöttgyűlése alelnököket választ.
 
 (2a) Az alelnökök feladatkörükben felelnek a mikro-, kis- és középvállalkozásokkal kapcsolatos ügyek intézéséért is.
 
@@ -679,7 +682,7 @@ használhatja fel.
 
 (2) Ha az elnökség nem tesz eleget a felhívásnak, az ellenőrző bizottság kezdeményezi az országos küldöttgyűlés összehívását.
 
-(3) Az ellenőrző bizottság elnöke összehívja az országos küldöttgyűlést, ha az elnök nem tesz eleget erre vonatkozó kötelességének.
+(3) Az ellenőrző bizottság elnöke összehívja az országos küldöttgyűlést, ha az elnökség nem tesz eleget erre vonatkozó kötelességének.
 
 ### Az etikai bizottság
 
@@ -697,9 +700,9 @@ használhatja fel.
 
 (4) A főigazgatót az elnök irányítja.
 
-(5) A főigazgató az agrárkamara ügyintéző szervezetében dolgozó munkavállalók felett a munkáltatói jogokat – a (6), a (7) és a (9) bekezdésben foglalt eset kivételével – önállóan gyakorolja.
+(5) A főigazgató az agrárkamara ügyintéző szervezetében dolgozó munkavállalók felett a munkáltatói jogokat – a (6), a (7) bekezdésben foglalt eset kivételével – önállóan gyakorolja.
 
-(6) A főigazgató megyei (fővárosi) ügyintéző szervezeti egységének vezetője felett a munkáltatói jogokat a főigazgató gyakorolja, azzal, hogy a munkaviszony létesítéséről, megszüntetéséről csak az agrárkamara adott megyei szervezete elnökével történt előzetes egyeztetés alapján dönthet.
+(6) A főigazgató megyei (fővárosi) ügyintéző szervezet vezetője felett a munkáltatói jogokat a főigazgató gyakorolja, azzal, hogy a munkaviszony létesítéséről, megszüntetéséről csak az agrárkamara adott megyei szervezete elnökével történt előzetes egyeztetés alapján dönthet.
 
 (7) Az elnök közvetlen irányítása alá tartozó szervezeti egység vezetője felett a munkáltatói jogokat az elnök, az érintett szervezeti egység munkavállalói felett pedig az elnök által irányított szervezeti egység vezetője gyakorolja.
 
@@ -725,7 +728,7 @@ használhatja fel.
 - d) a főigazgató;
 - e) a területi szervezet elnöke.
 
-30. § (1) Agrárkamarai tisztségre választható a pártoló és a tiszteletbeli tag kivételével minden agrárkamarai tag, ha büntetlen előéletű és vele szemben összeférhetetlenségi ok nem áll fenn.
+30. § (1) Agrárkamarai tisztségre választható a pártoló és a tiszteletbeli tag kivételével minden agrárkamarai tag, – valamint a gazdálkodó szervezet esetében a gazdálkodó szervezet nevében eljáró törvényes képviselő, – ha büntetlen előéletű és vele szemben összeférhetetlenségi ok nem áll fenn.
 
 (2) Összeférhetetlen az agrárkamarai tisztség viselésével, ha a tag politikai pártban vezető tisztséget tölt be.
 
@@ -756,32 +759,32 @@ használhatja fel.
 
 32. § (1) Az agrárkamara a választottbíráskodásról szóló törvény rendelkezéseivel összhangban állandó választottbíróságot működtet.
 
-(2) Az állandó választottbíróság tagjait a küldöttgyűlés öt évre választja meg.
+(2) Az állandó választottbíróság tagjait az országos küldöttgyűlés öt évre választja meg.
 
 (3) Az agrárkamara tagjai közötti agrárgazdasági tevékenységgel összefüggő szerződésben választottbíróságként csak az agrárkamara mellett működő választottbíróság köthető ki. Az ezzel ellentétes választottbírósági kikötés semmis.
 
 ### VI. Fejezet — VÁLASZTÁSI SZABÁLYOK
 
-33. § (1) Az agrárkamara tagjai az országos küldöttgyűlés által meghatározott időpontban az agrárkamarai küldöttek választása céljából megyénként országos küldöttválasztó közgyűlést tartanak.
+33. § (1) Az országos küldöttgyűlés által meghatározott időpontban a megyei küldöttek választása céljából megyénként választást kell tartani.
 
-(2) Az országos küldöttgyűlés a megyei (fővárosi) küldöttgyűlési küldöttek választásának időpontját, és ennek alapján a megyei alakuló küldöttgyűlés, továbbá az országos alakuló küldöttgyűlés időpontját a megyei küldöttek mandátumának lejártát legfeljebb hat hónappal megelőző időpontban is meghatározhatja.
+(2) A megyei küldöttgyűlési küldöttek választásának időpontja, és ennek alapján a megyei alakuló küldöttgyűlés, továbbá az országos alakuló küldöttgyűlés időpontja, a megyei küldöttek mandátumának lejártát legfeljebb hat hónappal megelőző időpontban is meghatározható.
 
 (3) Azt a megyei küldöttlistát kell megválasztottnak tekinteni, amelyik küldöttlista a szavazás alkalmával a legtöbb szavazatot kapta.
 
-(4) A megyei, továbbá az országos alakuló küldöttgyűlésen a megyei, illetve az országos kamarai tisztségek, továbbá a választottbíróság tagjainak megválasztására a javaslatot a jelölő bizottság jogkörében eljárva a megyei küldöttválasztás során nyertes listát állító jelölő szervezet jogosult megtenni.
+(4) A megyei alakuló küldöttgyűlésen az adott megyei tisztségekre jelölt személyekre, valamint az adott megyei küldöttgyűlés által választható országos küldötteknek jelölt személyekre javaslatot az adott megyei küldöttválasztás során nyertes listát állító jelölő szervezet jogosult megtenni, az országos alakuló küldöttgyűlésen az országos tisztségekre jelölt személyekre, valamint a választottbíróság tagjainak jelölt személyekre javaslatot az országosan legtöbb nyertes megyei küldöttlistát állító jelölő szervezet jogosult megtenni.
 
-34. § Az országos küldöttgyűlésbe a megyei (fővárosi) küldöttgyűlések az alapszabályban rögzített arányban delegálhatnak tagokat és póttagokat.
+34. § Az országos küldöttgyűlésbe a megyei (fővárosi) küldöttgyűlések az alapszabályban rögzített arányban választhatnak tagokat és póttagokat.
 
-35. § (1) Az országos, illetve a megyei alakuló küldöttgyűlés megtartására vonatkozó részletes szabályokat – a törvényben, valamint az agrárkamara alapszabályában foglaltakkal összhangban – az országos küldöttgyűlés által elfogadott eljárási szabályzat határozza meg.
+35. § (1) Az országos, illetve a megyei alakuló küldöttgyűlés megtartására, illetve az agrárkamarai választásra vonatkozó részletes szabályokat – a törvényben, valamint az agrárkamara alapszabályában foglaltakkal összhangban – az országos küldöttgyűlés által elfogadott eljárási szabályzat határozza meg a 19. § (4) bekezdésében foglaltaknak megfelelően.
 
 (1a) Az országos, illetve a megyei alakuló küldöttgyűlést
 
 - a) az alapszabályban foglaltak szerint megalakított Országos Kamarai Választási Bizottság (a továbbiakban: OKVB) hívja össze, továbbá
 - b) a nyertes megyei küldöttlistát, illetve országosan a legtöbb nyertes megyei küldöttlistát állító jelölő szervezet javaslata alapján az OKVB által felkért megyei, illetve országos küldött vezeti.
 
-(2) A küldöttválasztó közgyűlés eljárási szabályainak – az egyenlő szavazati jog kivételével – figyelemmel kell lenni a tagok és a küldöttek ágazati érdekeinek arányos és kiegyensúlyozott meghatározására.
+(2) Az agrárkamarai választás eljárási szabályainak – az egyenlő szavazati jog kivételével – figyelemmel kell lenni a tagok és a küldöttek ágazati érdekeinek arányos és kiegyensúlyozott meghatározására.
 
-(3) A kamarai osztály szükség szerint, de évente legalább egyszer tart ülést. A kamarai osztály ülését akkor is össze kell hívni, ha az osztály legalább egyötöde írásban kéri. A kamarai osztály tagjait egy-egy szavazat illeti meg.
+(3) A megyei küldöttválasztáson szavazásra jogosult kamarai tagok jegyzékét (a továbbiakban: választási tagjegyzék) a megyei küldöttgyűlési küldöttek választására vonatkozó szabályok szerint kell összeállítani. A választási tagjegyzék a kamara tagjegyzékén alapul. A választási tagjegyzék a megyei küldöttek mandátumának lejártát legfeljebb tizenkét hónappal megelőző időpontja szerinti tagjegyzék állapot alapján is meghatározható. A választási tagjegyzékre a 7/A. § rendelkezéseit kell alkalmazni.
 
 36. § (1) Az országos, illetve a megyei küldöttek, a testületi szervek tagjai, valamint a kamara elnöke, alelnökei és más választott tisztségviselői legfeljebb ötévi időtartamra választhatók meg, és – ha az alapszabály eltérően nem rendelkezik – újraválaszthatók.
 
@@ -789,15 +792,17 @@ használhatja fel.
 
 (2) Az országos, illetve a megyei küldöttet, a testületi szervek tagját, valamint az agrárkamara elnökét, alelnökeit és más választott tisztségviselőjét az őket megválasztó szerv visszahívhatja. A visszahívás feltételeit és eljárási szabályait az alapszabály határozza meg.
 
-37. § (1) Ha e törvény eltérően nem rendelkezik, országos, illetve megyei küldöttnek az választható, aki
+37. § (1) Ha e törvény eltérően nem rendelkezik, országos, illetve megyei küldöttnek
 
-- a) nagykorú, és
-- b) az agrárkamara tagja vagy gazdálkodó szervezet tag esetén annak törvényes képviselője.
+- a) az a gazda választható, aki nagykorú, és az agrárkamara tagja,
+- b) az a gazdálkodó szervezet választható, amely az agrárkamara tagja.
 
 (2) Nem választható országos, illetve megyei küldöttnek, aki
 
 - a) cselekvőképességet korlátozó vagy kizáró gondnokság alatt áll;
 - b) büntetett előéletű.
+
+(3) Gazdálkodó szervezet törvényes képviselője a gazdálkodó szervezet országos, illetve megyei küldötti jogait abban az esetben gyakorolhatja, ha vele szemben a (2) bekezdésben foglalt kizárási ok nem áll fenn.
 
 ### VII. Fejezet — AZ AGRÁRKAMARA MŰKÖDÉSE
 
@@ -896,7 +901,7 @@ használhatja fel.
 
 55. § E törvénynek a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosításáról szóló 2012. évi CXXXII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
-56. § (1) Akinek kamarai tagsági viszonya kizárólag a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosításáról szóló 2013. évi CCXLVII. törvény (a továbbiakban: Mód. tv.) 18. § b)–c) pontjával megállapított rendelkezéseken alapul, tagsági viszonya 2013. december 31. napján a törvény alapján megszűnik, az általuk befizetett 2013. évre esedékes kamarai tagdíjat kérelemre 60 napon belül vissza kell fizetni.
+56. § (1) Akinek kamarai tagsági viszonya kizárólag a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosításáról szóló 2013. évi CCXLVII. törvény (a továbbiakban: Mód. tv.) 18. § b)–c) pontjával megállapított rendelkezéseken alapul, tagsági viszonya 2013. december 31. napján a törvény alapján megszűnik.
 
 (2) E törvénynek a Mód. tv. 15–16. §-ában foglalt rendelkezések alapján az agrárgazdasági tevékenységet folytató gazda, gazdálkodó szervezet tagsági viszonya e törvény alapján 2014. január 1. napjával keletkezik.
 
@@ -920,37 +925,44 @@ használhatja fel.
 
 (2) E törvénynek a 2018. évi CXXXVII. törvénnyel megállapított 2. § j) pontját a megismételt eljárásokban is alkalmazni kell.
 
-(3) A 2018. évi CXXXVII. törvény hatályba lépését megelőzően ülés tartása nélkül lefolytatott megyei küldöttválasztó közgyűlést a 33. § (1) bekezdés rendelkezéseinek megfelelőnek kell tekinteni.
+(3)
 
 ### 1. melléklet a 2012. évi CXXVI. törvényhez
 
-Az agrárkamara tagjai az önálló vállalkozók tevékenységi jegyzéke ( ÖVTJ) alapján:
+#### Az agrárkamara tagjai az önálló vállalkozók tevékenységi jegyzéke (ÖVTJ) alapján:
 
-| 01 | Növénytermesztés, állattenyésztés, vadgazdálkodás és kapcsolódó szolgáltatások [kivéve 016302 koszorú-, és virágkötés nem saját termelésű növényből (nem művirágból)] |
-| --- | --- |
-| 02 | Erdőgazdálkodás |
-| 03 | Halászat, halgazdálkodás |
-| 10 | Élelmiszergyártás |
-| 11 | Italgyártás |
-| 12 | Dohánytermék gyártása |
-| 2015 | Műtrágya, nitrogénvegyület gyártása |
-| 2020 | Mezőgazdasági vegyi termék gyártása |
-| 2120 | Gyógyszerkészítmény gyártásból a gyógynövény feldolgozás |
-| 3821 | Nem veszélyes hulladék kezelése, ártalmatlanítása szakágazatból: komposztálás |
-| 4611 | Mezőgazdasági termék ügynöki nagykereskedelme |
-| 462 | Mezőgazdasági nyersanyag, élőállat nagykereskedelme |
-| 463 | Élelmiszer, ital, dohányáru nagykereskedelme |
-| 4661 | Mezőgazdasági gép, berendezés nagykereskedelme |
-| 467503 | Növényvédőszer nagykereskedelem |
-| 467504 | Műtrágya nagykereskedelem |
-| 749005 | Mezőgazdasági, vadgazdálkodási, erdőgazdálkodási szakmai tervezés, szakértés |
-| 749013 | Falugazdász tevékenység |
-| 749031 | Haszonállatok törzskönyvezése |
-| 749040 | Gombaszakértés |
-| 749049 | Igazságügyi szakértés mezőgazdasági, erdő- és vadgazdálkodási, élelmiszeripari területen |
-| 7731 | Mezőgazdasági gép kölcsönzése |
-| 773903 | Gazdasági haszonállatok kölcsönzése |
-| 881003 | Falugondnoki és tanyagondnoki szolgáltatás |
+|  | A | B |
+| --- | --- | --- |
+| 1. | 01 | Növénytermesztés, állattenyésztés, vadgazdálkodás és kapcsolódó szolgáltatások [kivéve 016302 koszorú-, és virágkötés nem saját termelésű növényből (nem művirágból)] |
+| 2. | 02 | Erdőgazdálkodás |
+| 3. | 03 | Halászat, halgazdálkodás |
+| 4. | 10 | Élelmiszergyártás |
+| 5. | 11 | Italgyártás |
+| 6. | 12 | Dohánytermék gyártása |
+| 7. | 2015 | Műtrágya, nitrogénvegyület gyártása |
+| 8. | 2020 | Mezőgazdasági vegyi termék gyártása |
+| 9. | 382102 | Biogáz gyártás hulladékból, komposztálás tételből: komposztálás |
+| 10. | 4611 | Mezőgazdasági termék ügynöki nagykereskedelme |
+| 11. | 462 | Mezőgazdasági nyersanyag, élőállat nagykereskedelme |
+| 12. | 463 | Élelmiszer, ital, dohányáru nagykereskedelme |
+| 13. | 4661 | Mezőgazdasági gép, berendezés nagykereskedelme |
+| 14. | 467503 | Növényvédőszer nagykereskedelem |
+| 15. | 467504 | Műtrágya nagykereskedelem |
+| 16. | 749005 | Mezőgazdasági, vadgazdálkodási, erdőgazdálkodási szakmai tervezés, szakértés |
+| 17. | 749031 | Haszonállatok törzskönyvezése |
+| 18. | 749040 | Gombaszakértés |
+| 19. | 749049 | Igazságügyi szakértés mezőgazdasági, erdő- és vadgazdálkodási, élelmiszeripari területen |
+| 20. | 749061 | Szántóföldi növénytermesztéshez kapcsolódó szaktanácsadás |
+| 21. | 749062 | Kertészethez kapcsolódó szaktanácsadás |
+| 22. | 749063 | Precíziós gazdálkodáshoz kapcsolódó szaktanácsadás |
+| 23. | 749064 | Ökológiai gazdálkodáshoz kapcsolódó szaktanácsadás |
+| 24. | 749065 | Öntözésfejlesztéshez kapcsolódó szaktanácsadás |
+| 25. | 749066 | Állattenyésztéshez kapcsolódó szaktanácsadás |
+| 26. | 749068 | Élelmiszer-előállításhoz, -feldolgozáshoz kapcsolódó szaktanácsadás |
+| 27. | 749069 | Takarmányozáshoz, takarmány-előállításhoz kapcsolódó szaktanácsadás |
+| 28. | 749070 | Földügyekhez kapcsolódó szaktanácsadás |
+| 29. | 7731 | Mezőgazdasági gép kölcsönzése |
+| 30. | 773903 | Gazdasági haszonállatok kölcsönzése |
 
 ### 2. melléklet a 2012. évi CXXVI. törvényhez
 
@@ -965,7 +977,6 @@ Az agrárkamara tagjai a tevékenységek egységes ágazati osztályozás rendj�
 | 12 | Dohánytermék gyártása |
 | 2015 | Műtrágya, nitrogénvegyület gyártása |
 | 2020 | Mezőgazdasági vegyi termék gyártása |
-| 2120 | Gyógyszerkészítmény gyártásából: a gyógynövény feldolgozása |
 | 3821 | Nem veszélyes hulladék kezelése, ártalmatlanítása szakágazatból: komposztálás |
 | 4611 | Mezőgazdasági termék ügynöki nagykereskedelme |
 | 462 | Mezőgazdasági nyersanyag, élőállat nagykereskedelme |

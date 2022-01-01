@@ -2607,6 +2607,8 @@ adatainak egyeztetésére köteles.
 
 (13) Ha a határozott időtartamú előfizetői szerződés időtartama alatt az egyéni előfizető lakcímének vagy tartózkodási helyének változása miatt a korábbi lakcíméről, vagy tartózkodási helyéről új lakcímére, vagy tartózkodási helyére kéri az előfizetői hozzáférési pont áthelyezését, és a szolgáltató az áthelyezési igényt rajta kívül álló okból teljesíteni nem tudja, az előfizető a szolgáltató erről szóló értesítését követő 15 napon belül azonnali hatállyal, további jogkövetkezmények nélkül felmondhatja a határozott időtartamú szerződést. A szolgáltató az értesítésben köteles igazolható módon tájékoztatni az előfizetőt az őt megillető felmondási jogról.
 
+(14) Az adatváltozás-kezelési szolgáltatáshoz csatlakozott szolgáltató az előfizetőnek a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény (a továbbiakban: Khtv.) 20/T. § (2) bekezdés szerinti adatai változásáról szóló bejelentés esetén a (10) bekezdés szerint jár el.
+
 133. §
 
 ### Az előfizetői szerződés megszűnése
@@ -3799,3 +3801,4 @@ való megfelelést szolgálja.
 - 133. Végfelhasználó: olyan felhasználó, aki az adott hálózati végpontot saját érdekkörében használja, és azon nem nyújt nyilvánosan elérhető elektronikus hírközlési szolgáltatást vagy nem biztosít nyilvános elektronikus hírközlő hálózatot.
 - 134. Végfelhasználói hozzáférés felett rendelkező vállalkozás: azon vállalkozás, amely a végfelhasználó valamely elektronikus hírközlő hálózathoz vagy annak részéhez történő fizikai vagy logikai csatlakoztatása felett rendelkezési jogot gyakorol.
 - 135. Virtuális helymegosztás: olyan helymegosztás, amelynek során a helymegosztásra jogosult szolgáltató megbízásából a kötelezett szolgáltató birtokolja és üzemelteti a rendezőhöz kapcsolódó azon berendezéseket, amelyek a jogosult szolgáltató igényeit elégítik ki.
+- 136. Adatváltozás-kezelési szolgáltatás: a Khtv. 1. § (1) bekezdés 2. pontja szerinti szolgáltatás.

@@ -64,7 +64,7 @@ dönthet.
 (7) Az ágazati kijelölő hatóság a (6) bekezdés szerinti kijelölő határozatban
 
 - a) meghatározza az üzemeltetői biztonsági terv kidolgozásának határidejét,
-- b) kötelezi az üzemeltetőt, hogy biztonsági összekötő személyt bízzon meg vagy foglalkoztasson, és a biztonsági összekötő személy adatait a kijelölő határozat véglegessé válásától számított 60 napon belül nyilvántartó hatóság részére küldje meg, valamint
+- b) kötelezi az üzemeltetőt, hogy biztonsági összekötő személyt bízzon meg vagy foglalkoztasson, és a biztonsági összekötő személy természetes személyazonosító adatait, elektronikus levelezési címét, telefonszámát a kijelölő határozat véglegessé válásától számított 60 napon belül a kormányrendeletben nyilvántartó hatóságként kijelölt szerv (a továbbiakban: nyilvántartó hatóság) részére – a nyilvántartó hatóság által meghatározott és a honlapján közzétett formátumban és módon – küldje meg, valamint
 - c) az üzemeltető részére előírhat a létfontosságú rendszerelem védelmével összefüggő, a rendszerelem egyedi sajátosságaihoz, környezetéhez, a rendszerelem által potenciálisan előidézhető veszély mértékéhez igazodó feltételeket.
 
 (8) Amennyiben az üzemeltető a (2) bekezdésben előírt kötelezettségének nem tesz eleget, az ágazati kijelölő hatóság – határidő megállapításával – kötelezi az üzemeltetőt az azonosítási jelentés benyújtására.
@@ -161,6 +161,14 @@ a kijelölő hatóság és a szakhatóság (a továbbiakban együtt: hatóságok
 
 (3) Az e törvényben meghatározott feladatellátása során, így különösen a kijelölési eljárásban, valamint hatósági ellenőrzés keretében, az eljárással összefüggő és ahhoz szükséges ideig, a minősített adatot, személyes adatot vagy különleges adatot, üzleti titkot, banktitkot, fizetési titkot, biztosítási titkot, értékpapírtitkot, pénztártitkot a hatóság, a szakhatóság, illetve az eljárásban részt vevő véleménynyilvánító szervek – a minősített adatokra, valamint a nemzetbiztonsági és a honvédelmi érdekű információbiztonságra vonatkozó korlátozások figyelembevételével – megismerhetik.
 
+(4) A hivatásos katasztrófavédelmi szerv központi vagy területi szerve a hatáskörébe utalt hatósági eljárások során, valamint az eljárások végleges lezárását követően a kiszabott bírságok befizetésének nyomon követése, a végleges döntésének végrehajtása, az ellenőrzés, a szemle, a rendkívüli események bejelentése és kivizsgálása, a végleges döntéssel összefüggő jogorvoslat, az ügykövetés, a kapcsolattartás, valamint a döntés-felülvizsgálat céljából – bírságfizetési kötelezettség megállapítása esetén – a bírságfizetési kötelezettség teljesítését követő 30. napig, valamint – az ágazati kijelölő hatóságnak a rendszerelem kijelölése visszavonása esetén – e határozatnak a véglegessé válását követő 30. napig az alábbi személyes adatokat kezeli:
+
+- a) a biztonsági összekötő személy természetes személyazonosító adatai, elektronikus levelezési címe, telefonszáma,
+- b) az ügyfél természetes személy képviselőjének neve, telefonszáma, e-mail címe, valamint
+- c) a rendkívüli eseményt bejelentő személy neve és telefonszáma.
+
+(5) A (4) bekezdés alapján kezelt adat – ha törvény eltérően nem rendelkezik – más szerv vagy személy részére nem továbbítható.
+
 5. § (1) A kormányrendeletben erre kijelölt szerv (a továbbiakban: nyilvántartó hatóság) nyilvántartja és kezeli
 
 - a) az üzemeltető nevét, székhelyét vagy lakcímét, levelezési címét, cégjegyzékszámát vagy az egyéni vállalkozói nyilvántartási számát, statisztikai számjelét és adóazonosító számát, képviselőjének nevét, telefonszámát, e-mail címét,
@@ -220,7 +228,7 @@ a kijelölő hatóság és a szakhatóság (a továbbiakban együtt: hatóságok
 
 (10) A (9) bekezdés szerinti esetben a biztonsági dokumentumot kell megküldeni a nyilvántartó hatóságnak az 5. § szerinti nyilvántartásba vétel céljából.
 
-(11) Az üzemeltető a bekövetkezett rendkívüli eseményekről haladéktalanul tájékoztatja a hivatásos katasztrófavédelmi szerv területi szervének ügyeleti szolgálatát a hivatásos katasztrófavédelmi szerv központi szervének honlapján közzétett formában, valamint az ágazati kijelölő hatóságot. Az üzemeltető a honvédelmi létfontosságú rendszerelem vonatkozásában a honvédelemért felelős miniszter által kijelölt ügyeleti szolgálatot is haladéktalanul értesíti.
+(11) Az üzemeltető a bekövetkezett rendkívüli eseményekről haladéktalanul tájékoztatja a hivatásos katasztrófavédelmi szerv területi szervének ügyeleti szolgálatát a hivatásos katasztrófavédelmi szerv központi szervének honlapján közzétett formában és módon, valamint az ágazati kijelölő hatóságot. Az üzemeltető a honvédelmi létfontosságú rendszerelem vonatkozásában a honvédelemért felelős miniszter által kijelölt ügyeleti szolgálatot is haladéktalanul értesíti.
 
 (12) Az üzemeltetői biztonsági terv és mellékletei, vagy az azokat helyettesítő biztonsági dokumentum nem nyilvános.
 
@@ -275,6 +283,14 @@ kezeli.
 9/A. § A kijelölt létfontosságú rendszerelemeket érintő karbantartások, javítások és rendkívüli események kezelésében, elhárításában közreműködő szervezetek, illetve további résztevők kötelesek biztosítani, hogy a rendszerelem működése a lehető legrövidebb ideig legyen korlátozott.
 
 9/B. § A honvédelmi ágazat, valamint a honvédelmi ágazatba tartozó honvédelmi létfontosságú rendszerelemek tekintetében a 4–9. § információbiztonsággal kapcsolatos rendelkezéseit nem kell alkalmazni.
+
+#### 4/A. A kijelölési és a kijelölés visszavonása iránti eljárás elektronikus ügyintézésének különös szabályai
+
+9/C. § Ezen alcím rendelkezéseit a hivatásos katasztrófavédelmi szerv előtti eljárásokban kell alkalmazni. A hivatásos katasztrófavédelmi szerv előtt indult valamennyi hatósági eljárásban, így különösen a kijelölési, kijelölés visszavonása iránti eljárásokban az ügyfél elektronikus azonosítását követően az azonosítási jelentését, nyilatkozatát, adatszolgáltatását a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény szerinti Integrált Hatósági Rendszeren (a továbbiakban: IHR) keresztül nyújtja be a hivatásos katasztrófavédelmi szerv részére.
+
+9/D. § Az üzemeltető elektronikus azonosítását követően az IHR-be tölti fel az azonosítási jelentését, az üzemeltetői biztonsági tervet, a biztonsági összekötő személy adatközlő lapját, a rendkívüli események bejelentésére szolgáló űrlapot, valamint más, a Kormány rendeletében meghatározott esetekben a hivatásos katasztrófavédelmi szerv eljárásához szükséges dokumentumokat.
+
+9/E. § Az IHR működtetése, a hatósági eljáráshoz szükséges információk beszerzése, valamint az ügyfél hatékony és gyors ügyintézésének biztosítása céljából az IHR rendszer üzemeltetője jogosult továbbítani a csatlakozott szervek felé az ügyfél által megjelölt adatokat, valamint az ügyfél részére a csatlakozott szervek által visszaküldött információkat.
 
 #### 5. Az általános javaslattevő hatóság feladatai és jogköre
 

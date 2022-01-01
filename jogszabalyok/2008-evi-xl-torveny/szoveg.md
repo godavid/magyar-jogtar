@@ -934,6 +934,12 @@ biztosítja az elosztóhálózat-használattal kapcsolatos ügyintézést is.
 
 (5) Az engedélyes az e törvényben és az e törvény végrehajtására kiadott kormányrendeletben előírt, az ügyfélszolgálatán teljesítendő közzétételi, tájékoztatási kötelezettségét elektronikus eszköz útján is teljesítheti.
 
+(6) A fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény (a továbbiakban: Khtv.) szerinti adatváltozás-kezelési szolgáltatáshoz csatlakozott földgázkereskedő, illetve egyetemes szolgáltató köteles a felhasználó vagy a fizető adatai változásának felhasználó általi bejelentését az adatváltozás-kezelési szolgáltatás keretében, biztonságos kézbesítési szolgáltatás útján is fogadni és kezelni. Ha a felhasználó elosztóhálózat-használati szerződését a földgázkereskedő, illetve egyetemes szolgáltató a 28/A. § (4) bekezdésének megfelelően megbízottként kezeli, akkor a felhasználó változott adatait továbbítja az érintett földgázelosztónak.
+
+(7) Az adatváltozás-kezelési szolgáltató a felhasználó rendelkezése alapján átadja a földgázkereskedőnek, illetve egyetemes szolgáltatónak a Khtv. 20/T. § (2) bekezdés a) pontja, b) pont bc)–be) alpontja, valamint 20/U. § (2) bekezdése szerinti adatokat.
+
+(8) A földgázkereskedő, illetve egyetemes szolgáltató a felhasználónak az adatváltozás-kezelési szolgáltatásra történő regisztrációja során a Khtv. 20/T. § (2) bekezdés a) pont aa) és ab) alpontja alapján, az adatváltozás-kezelési szolgáltatótól átvett adatait az adatok átvételét követő 60 napon belül összeveti az általa nyilvántartott, a felhasználóra, illetve a fizetőre vonatkozó adatokkal, és eltérés esetén gondoskodik azoknak az átvett adatok szerinti tartalommal történő helyesbítéséről.
+
 63/C. § (1) A Hivatal határozatban az engedélyesek tevékenységének minimális minőségi követelményeire és elvárt színvonalára vonatkozó minőségi mutatókat állapít meg.
 
 (2) A minőségi mutatók köre az alábbiakra terjed ki:

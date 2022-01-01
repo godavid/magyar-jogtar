@@ -18,7 +18,7 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 
 - 1. Engedély-nyilvántartás: a járművezető és a járművezetésre jogosító okmány adatait, továbbá a járművezető forgalomban való részvételével összefüggő egyes jogosultságok és kötelezettségek fennállását igazoló adatokat tartalmazó elektronikus nyilvántartás.
 - 2. Járműnyilvántartás: olyan elektronikus nyilvántartás, amely tartalmazza a Magyarországon forgalomba helyezett, állandó hatósági jelzéssel és forgalmi engedéllyel ellátott járművek adatait, a járműtulajdonos (üzembentartó), az állami vagyonkezelő és a lízingbevevő adatait, továbbá a járműokmány adatait, valamint a történeti állományt.
-- 3. Okmánytár: a nyilvántartás alapiratainak, a nyilvántartásban szereplő adatok változását igazoló okmányok, a cserélt, leadott és a visszavont okmányok nyilvántartása.
+- 3. Okirattár: a 2022. január 1-jét megelőzően keletkezett alapiratok, nyilvántartásban szereplő adatok változását igazoló okmányok, cserélt, leadott és visszavont okmányok papír alapú példányainak, továbbá a 2022. január 1-től a nyilvántartásban szereplő adatok bejegyzését és változását igazoló alapiratok és okmányok, cserélt, leadott és visszavont okmányok eljáró hatóság által hitelesített másolatának elektronikus, vagy az ügytől függően papír alapú példányainak, továbbá a bevont külföldi okmányoknak a nyilvántartása.
 - 4. Kerékpárszállító eszköz: minden olyan, a járműre ideiglenes jelleggel felszerelhető kerékpár vagy más dolog szállítására alkalmas tartószerkezet, amely részben vagy egészben kitakarja a jármű hatósági jelzését vagy világító, fényjelző berendezését.
 - 5. Járműazonosító adat: a jármű hatósági jelzése (rendszám) és alvázszáma.
 - 6. Járműokmány: a jármű tulajdonjogát, nyilvántartásba vételét, ideiglenes forgalomban tarthatóságát igazoló okmányok.
@@ -39,6 +39,7 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - 21. Járművezető-jelölt: az a vezetői engedéllyel vagy vezetési jogosultsággal még nem rendelkező személy, akinek a vezetői engedélye kiállításához szükséges adatok szerepelnek az engedély-nyilvántartásban.
 - 22. Állami vagyonkezelő: a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben vagyonkezelőként meghatározott azon személy, amellyel az állami vagyon vagyonkezelésére a Magyar Nemzeti Vagyonkezelő Zrt., valamint annak jogelődje, vagy az állami vagyon tulajdonosi joggyakorlója vagyonkezelési szerződést kötött, továbbá akit törvény vagyonkezelőnek kijelöl.
 - 23. Lízingbevevő: a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti lízingbevevő.
+- 24. Alapirat: a közúti közlekedési nyilvántartás működéséről és az adatszolgáltatás rendjéről szóló kormányrendelet szerinti ügyekben az okirattár részét képező, kormányrendeletben meghatározott közlekedési igazgatási hatósági eljárásban felhasznált vagy keletkezett irat.
 
 ### II. Fejezet — A KÖZÚTI KÖZLEKEDÉSI NYILVÁNTARTÁS SZERVEZETE ÉS AZ ADATSZOLGÁLTATÁSI HATÁSKÖRÖK
 
@@ -104,8 +105,8 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
   - cd) jogszabályban meghatározott esetekben gondoskodik a jármű nyilvántartásba vételét, ideiglenes forgalomban tarthatóságát igazoló okmány ügyfél részére történő kiadásáról;
 - d) ellátja az a)–c) és i) pontokban megjelölt okmányok kiadásával kapcsolatos hatáskörébe utalt adatkezelési feladatokat;
 - e) átvezeti a nyilvántartáson az a)–c), i) és j) pontokban megjelölt adatokat, illetve adatváltozásokat;
-- f) továbbítja az okmánytár részére a nyilvántartásba történő bejegyzés és az okmányok kitöltésének alapját képező, a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló jogszabály mellékletében csatolandóként meghatározott iratokat;
-- g) továbbítja az okmánytár részére az ideiglenes rendszámtáblák nyilvántartásába történő bejegyzés és az okmányok kiállításának alapját képező, a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben az ideiglenes rendszámtábla kiadásához szükséges bemutatandó és csatolandó okiratokról készült másolatot;
+- f) továbbítja az okirattár részére jogszabályban meghatározott iratokat;
+- g)
 - h) visszavonja (bevonja) az engedélyt, a parkolási igazolványt, a járművet forgalomból kivonja, és gondoskodik az ezekkel összefüggő adatok nyilvántartásba történő bevezetéséről;
 - i) ellátja a parkolási igazolvány kiadásával, meghosszabbításával, cseréjével, pótlásával összefüggő feladatokat, gondoskodik a parkolási igazolvány kiállításáról és az ügyfél részére történő átadásáról;
 - j) a vezetői engedélyt – ha a járművezető nyilvántartott pontjainak száma a nyilvántartó értesítése szerint elérte vagy meghaladta a 18-at – az értesítéstől számított nyolc napon belül határozattal visszavonja, és a határozat véglegessé válásakor nyilvántartott pontokat törli;
@@ -176,7 +177,7 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
 - a) az engedély-nyilvántartásból;
 - b) a járműnyilvántartásból;
 - c) a származás-ellenőrzési nyilvántartásból;
-- d) az okmánytárból;
+- d) az okirattárból;
 - e) a parkolási igazolvány nyilvántartásból;
 - f) az előzetes eredetiségvizsgálati nyilvántartásból;
 - g) az útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartásából;
@@ -341,7 +342,7 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 - b) az ideiglenes rendszámtábla érvényességi idejét,
 - c) az ideiglenes forgalmi engedély vagy az ideiglenes forgalomban tartási engedély számát, kiadására, érvényességére, cseréjére, visszavonására vonatkozó adatokat,
 - d) az ideiglenes forgalmi engedély vagy az ideiglenes forgalomban tartási engedély, továbbá az ideiglenes rendszámtábla eltulajdonítására, megsemmisülésére, egyéb okból történő érvénytelenségére, megtalálására, megkerülésére vonatkozó adatokat, és
-- e) a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott, az ideiglenes rendszámtábla kiadásához szükséges csatolandó és bemutatandó okiratok elektronikus másolatát.
+- e)
 
 (3) Az ideiglenes rendszámtáblák nyilvántartása a „P” betűjelű rendszámtábla kivételével tartalmazza az ideiglenes rendszámtáblával ellátott járművek:
 
@@ -362,6 +363,17 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 - e) szerződő fél megnevezését.
 
 (5) Az ideiglenes rendszámtáblák nyilvántartása az (1)–(4a) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcímazonosító adatok és a (2) bekezdés e) pontjában szereplő elektronikus okiratok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+9/E. § (1) Az okirattár a hatósági eljárások nyomonkövethetősége, ellenőrizhetősége érdekében tartalmazza a kérelemre indult és a hivatalból indított eljárások adatlapjainak adatait, valamint az alapiratokat. Az adatlapok és az alapiratok egymással összekapcsolhatók.
+
+(2) Az okirattár a kérelemre indult és a hivatalból indított eljárások adatlapjai tekintetében tartalmazza
+
+- a) a hatósági eljárásra irányuló kérelmet vagy hivatalból indított ügy adatait, valamint az ügy tárgyát és ügyszámát,
+- b) az eljáró hatóság nevét, kódját,
+- c) az eljáró ügyintéző nevét és elektronikus azonosítóját,
+- d) az eljárásban érintett ügyfél természetes személyazonosító adatait, nem természetes személy esetén megnevezését, cégjegyzék számát, nyilvántartási számát,
+- e) az eljárásban érintett lakcímét, nem természetes személy esetén székhelyét,
+- f) a kérelmező ügyfél nevében eljáró személy természetes személyazonosító adatait, lakcímét.
 
 10. § A nyilvántartó és a közlekedési igazgatási hatóság a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 32. § p) pontja és 36. § n) pontja szerint kezelt személyi azonosítót csak belső azonosítóként, valamint a személyiadat- és lakcímnyilvántartással történő kapcsolat biztosítására, az érintett beazonosítására használhatja fel.
 
@@ -446,11 +458,11 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 - f) a 9/C. §-ban megjelölt adatokat az útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre való jogosultság megszűnését követő 2 évig;
 - g) a 9/D. §-ban megjelölt adatokat az ideiglenes rendszámtáblák használatára való jogosultság megszűnését követő 2 évig.
 
-(2) A nyilvántartó az okmánytár iratait
+(2) A nyilvántartó az okirattár iratait
 
-- a) a 8. és 9. §-ban foglalt adatok tekintetében az okmánytárba történő beérkezést követő 10 évig,
-- b) a 8/A. §-ban, a 9/A. és a 9/B. §-ban foglalt adatok tekintetében az okmánytárba történő beérkezést követő 5 évig,
-- c) a 9/C. és 9/D. §-ban foglalt adatok tekintetében az okmánytárba történő beérkezést követő 2 évig
+- a) a 8. és 9. §-ban foglalt adatok tekintetében az okirattárba történő beérkezést követő 10 évig,
+- b) a 8/A. §-ban, a 9/A. és a 9/B. §-ban foglalt adatok tekintetében az okirattárba történő beérkezést követő 5 évig,
+- c) a 9/C. és 9/D. §-ban foglalt adatok tekintetében az okirattárba történő beérkezést követő 2 évig
 
 őrzi.
 
@@ -478,7 +490,7 @@ kezeli.
 - a) a nyilvántartótól csoportos adatszolgáltatás, járműéletút-adatszolgáltatás és – a Kormány által rendeletben az e törvény szerint adatigénylésre jogosult szervek közül kijelölt szervek eseti jellegű megkeresése esetén – egyedi adatszolgáltatás,
 - b) a közlekedési igazgatási hatóságtól egyedi adatszolgáltatás igényelhető.
 
-(2) Az okmánytárból, az előzetes eredetiségvizsgálati nyilvántartásból adatszolgáltatás e törvény szabályai szerint a nyilvántartótól igényelhető.
+(2) Az okirattárból, az előzetes eredetiségvizsgálati nyilvántartásból adatszolgáltatás e törvény szabályai szerint a nyilvántartótól igényelhető.
 
 (3) A 8. § (2) bekezdésében, illetve a 9. § (2) bekezdés f) pontjában meghatározott adatokról adatszolgáltatás a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény rendelkezéseivel összhangban teljesíthető.
 
@@ -916,7 +928,7 @@ bűncselekmény miatt büntetőeljárás hatálya alatt áll.
 
 41/B. § Felhatalmazást kap a Kormány, hogy kijelölje azokat az e törvény szerint adatigénylésre jogosult szerveket, amelyek eseti jellegű megkeresése esetén a nyilvántartó egyedi adatszolgáltatást végez a nyilvántartásból.
 
-41/C. § Felhatalmazást kap a Kormány, hogy a nyilvántartás, az okmánytár működése és az adatszolgáltatás részletes szabályait rendeletben állapítsa meg.
+41/C. § Felhatalmazást kap a Kormány, hogy a nyilvántartás, az okirattár működése és az adatszolgáltatás részletes szabályait rendeletben állapítsa meg.
 
 42. § Felhatalmazást kap a közlekedésért felelős miniszter, hogy rendeletben állapítsa meg
 

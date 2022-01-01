@@ -17,7 +17,7 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 
 (4) A területi szervezet elnevezésében utalni kell annak illetékességi területére.
 
-(5) Az országos szervezet székhelye: Budapest.
+(5) Az országos szervezet székhelyét a kamara alapszabálya határozza meg.
 
 (6)
 
@@ -33,7 +33,9 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 
 2/A. § (1) A kamarának a vadászjegy kiállításával és érvényesítésével, valamint a vadászati engedély kiállításával kapcsolatos eljárásában az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni azzal, hogy az eljárás igazgatási szolgáltatásidíj-mentes.
 
-(2) A kamarának a hivatásos vadászok tagfelvételével és kamarai nyilvántartásba vételével, valamint a fegyelmi és etikai ügyek kivételével a tagsági viszonyuk megszüntetésével és kamarai nyilvántartásból való törlésével kapcsolatos eljárásában az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni.
+(1a) A kamara az (1) bekezdés szerinti vadászjegy és vadászati engedély kiállítására, illetve érvényesítésére irányuló eljárása során a kérelem előterjesztését honlapján keresztül, elektronikus úton is biztosítja.
+
+(2) A kamara hivatásos vadászok tagsági viszonyának megszüntetésével és kamarai nyilvántartásból való törlésével kapcsolatos eljárásában az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni.
 
 2/B. § A 2/A. § (2) bekezdésében meghatározott közigazgatási hatósági eljárásokban fellebbezésnek van helye.
 
@@ -49,7 +51,7 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 - d) közreműködik a vadászvizsga részletes tartalmi feltételeinek kialakításában;
 - e) gondoskodik a vadászvizsga lebonyolításáról;
 - f) etikai eljárást folytat le a kamara etikai szabályait megszegő tagjával szemben;
-- g) a kamara tagjairól névjegyzéket (a továbbiakban: névjegyzék) vezet és erről statisztikai adatokat szolgáltat;
+- g) tagjairól – területi szervezetei útján egységes elektronikus tagnyilvántartó rendszerben – elektronikus nyilvántartást (a továbbiakban: nyilvántartás) vezet és erről statisztikai adatokat szolgáltat;
 - h) kiállítja és érvényesíti a vadászjegyet, valamint kiállítja a vadászati engedélyt;
 - i) eljárást kezdeményez az illetékes hatóságnál a jogosulatlanul vadászókkal szemben;
 - j) elősegíti a hivatásos vadászok szakmai tevékenységének magasabb szintű gyakorlásához szükséges ismeretek elsajátítását, és ezzel összefüggésben meghatározza a kötelező szakmai továbbképzésen való részvétel feltételeit;
@@ -57,21 +59,48 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 - l) kezdeményezi az illetékes szervnél kitüntetés adományozását;
 - m) ellátja azokat a feladatokat, amelyeket törvény a hatáskörébe utal.
 
-4. § (1) A kamara tagjairól területi szervezetei útján névjegyzéket vezet. A névjegyzékben fel kell tüntetni a kamara tagjának
+4. § (1) A kamara tagjairól vezetett nyilvántartásban fel kell tüntetni a kamara tagjának következő adatait:
 
 - a) családi és utónevét, lakóhelyét,
 - b) állampolgárságát,
 - c) születési helyét és idejét,
-- d) vadászjegyének számát,
-- e) fegyvertartási engedélyének számát,
-- f) esetleges etikai vétségeit.
+- d) anyja nevét,
+- e) vadászjegyének számát,
+- f) vadászlőfegyver tartására, használatára jogosító engedélyének számát,
+- g) etikai vétségeit,
+- h) a kamarai tagság típusát,
+- i) vadászvizsga bizonyítványának számát, valamint
+- j) solymász-, íjász-, agarász-, vagy vadhúsvizsgáló bizonyítványának számát.
 
-(2) Az (1) bekezdésben foglaltakon túlmenően a hivatásos vadász kamarai tagról vezetett nyilvántartás tartalmazza:
+(2) Az (1) bekezdésben foglaltakon túlmenően a hivatásos vadász kamarai tagról vezetett nyilvántartás tartalmazza
 
-- a) a hivatásos vadász szolgálati helyét,
-- b) a vadászati hatóság által kiállított igazolásokat.
+- a) szolgálati helyét,
+- b) szolgálati jelvényének számát,
+- c) munkáltatójának nevét és címét, a vadászterület azonosító kódszámát,
+- d) alkalmazásának kezdetét és végét, valamint
+- e) szakirányú végzettségét.
 
-(3) A kamara az (1) bekezdés a)–e) pontjában és a (2) bekezdés a) pontjában foglalt adatokról, valamint a kiállított vadászati engedélyekről évente adatokat szolgáltat az Országos Vadgazdálkodási Adattárnak.
+(3) Az (1) és (2) bekezdésekben rögzített adatokon kívül, a kamara tagjának kérésére és hozzájárulásával az alábbi adatokat tarthatja nyilván:
+
+- a) az orvosi alkalmassági csoportot,
+- b) az orvosi alkalmassági lejáratának idejét,
+- c) a vadásztársasági tagság típusát és a vadásztársaság nevét,
+- d) az e-mail címét,
+- e) a telefonszámát, valamint
+- f) a hivatásos vadász kamarai tag esetében a rendészeti vizsga dátumát és érvényességének lejárati időpontját.
+
+(4) A kamara területi szervezetei útján a vadászati engedélyek kiállításáról nyilvántartást vezet, mely tartalmazza a vadászati engedélyt kérelmező vadász:
+
+- a) családi- és utónevét,
+- b) születési helyét és idejét,
+- c) állampolgárságát,
+- d) személyazonosításra alkalmas hatósági igazolványának típusát és számát,
+- e) lakcímét,
+- f) állandó lakóhelyének joga szerint előírt vadászlőfegyver-, vagy ragadozó madár tartási engedélye azonosító számát,
+- g) a vadászati engedély számát, valamint
+- h) a meghívólevelét vagy bérvadászati szerződését.
+
+(5) A kamara a hivatásos és sportvadászok számáról, valamint a kiállított vadászati engedélyek számáról évente – legkésőbb június 30-ig – adatokat szolgáltat az Országos Vadgazdálkodási Adattárnak. A vadászati hatóság a nyilvántartásában szereplő, a hivatásos vadász (2) bekezdésben foglalt adatait a kamara részére, kezelés céljából átadja.
 
 ### III. Fejezet — A KAMARA SZERVEZETE
 
@@ -208,30 +237,32 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 
 ### A tagsági viszony keletkezése
 
-14. § (1) A kamarai tagsági viszony az 5. § (4) bekezdése szerinti tagfelvételi kérelem alapján létesíthető. Hivatásos vadász esetén a tagfelvételi kérelem a kamara nyilvántartásába való bejegyzés iránti kérelemnek is minősül. A tagfelvételi kérelemről a kérelmező lakóhelye szerint illetékes területi szervezet vezetősége dönt.
+14. § (1) A kamarai tagsági viszony az 5. § (4) bekezdése szerinti tagfelvételi kérelem alapján létesíthető. Hivatásos vadász esetén a tagfelvételi kérelem a kamara nyilvántartásába való bejegyzés iránti kérelemnek is minősül.
 
-(2) A kamara az alapszabályban meghatározott feltételekkel pártoló, illetve tiszteletbeli tagságot is létesíthet.
+(2) A kamara az alapszabályban meghatározott feltételekkel pártoló tagságot is létesíthet.
+
+(2a) A tagjelölt kamarai felvételéről sportvadász kérelmező esetén a lakóhelye szerint, hivatásos vadász esetén a szolgálati helye szerint illetékes területi szervezet a vadász kérelme esetén a vadászjegy kiállításával, pártoló tagság iránti kérelem esetén a nyilvántartásba felvételről szóló határozattal dönt.
 
 (3) Elutasítható a tagfelvételi kérelme annak a személynek, akivel szemben olyan etikai kifogás merül fel, amely a tagsági viszony felfüggesztését, illetve etikai büntetést vonna maga után, feltéve, hogy az elutasítás okaként megjelölt cselekmény vagy mulasztás elkövetésétől két év még nem telt el.
 
-(4) Nem utasítható el a tagfelvételi kérelme annak, aki rendelkezik a vadászat gyakorlásának külön jogszabályban előírt feltételeivel. A vadászat gyakorlásának feltételeivel a pártoló, illetve tiszteletbeli tagnak nem kell rendelkeznie.
+(4) Nem tagadható meg a kamarai tagfelvétel attól, aki rendelkezik a vadászat gyakorlásának jogszabályban előírt feltételeivel. A vadászat gyakorlásának feltételeivel a pártoló tagnak nem kell rendelkeznie.
 
 (5)
 
-14/A. § A vadászjegy kizárólag a kamarai tagsági jogviszonnyal rendelkező vadász számára állítható ki és érvényesíthető.
+14/A. § A vadászjegy adott vadászati évre vonatkozó érvényesítése minden év január 1-től kérelmezhető.
 
 15. § (1) A tagfelvételi kérelemben a kérelmezőnek nyilatkoznia kell arról, hogy
 
 - a) a kamarai tagsági díjat az alapszabályban meghatározott módon megfizeti,
 - b) a kamara alapszabályában foglaltakat magára nézve kötelezőnek elismeri.
 
-(2) A vadászjegy kiadására irányuló eljárásban nem vehet részt az, aki a kérelmezőnek közeli hozzátartozója [Ptk. 685. § b) pont].
+(2)
 
 (3)
 
 ### A tagsági viszony felfüggesztése
 
-16. § (1) A vezetőség írásban indokolt határozattal – a (4) bekezdésben foglaltakra is figyelemmel – felfüggeszti a tagsági viszonyát annak a tagnak,
+16. § (1) A vezetőség írásban indokolt határozattal felfüggeszti a tagsági viszonyát annak a tagnak,
 
 - a) aki azt kéri;
 - b) akit a bíróság jogerősen egy évet meg nem haladó végrehajtandó szabadságvesztésre ítélt, a szabadságvesztés időtartamára;
@@ -253,7 +284,7 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 17. § (1) Megszűnik a tagsági viszonya annak a tagnak,
 
 - a) aki meghalt,
-- b) aki a tagsági viszonyáról lemondott,
+- b) aki a tagsági viszonyáról írásban lemondott,
 - c) akit a (2) bekezdésben foglalt indokok alapján zártak ki a kamarából,
 - d) aki jogerősen ,,kizárás'' etikai büntetésben részesült,
 - e) aki tizenkét hónapot meghaladóan nem fizeti a tagdíjat, és a területi szervezet vezetőségétől fizetési kedvezményt nem kapott.
@@ -274,7 +305,7 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 
 (7) Az a személy, akinek tagsági viszonya az (1) bekezdés d) pontjában meghatározott okból szűnt meg – amennyiben az alapszabály ennél rövidebb időt nem állapít meg, vagy a területi küldöttgyűlés ettől eltérően nem rendelkezik – az etikai büntetés jogerőre emelkedésétől számított két éven belül a kamarába tagként nem vehető fel.
 
-(8) A tagsági viszonynak a megszűnése esetén a volt tag vadászjegyét, hivatásos vadász esetén a szolgálati igazolványát és jelvényét is be kell vonni, s azokat öt évig meg kell őrizni.
+(8) A tagsági viszony megszűnése esetén a volt tag vadászjegyét érvényteleníteni kell.
 
 ### A tag jogai és kötelezettségei
 
@@ -408,31 +439,31 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 
 (3) A fegyelmi büntetésként kiszabott pénzbírság felhasználásának rendjét az alapszabály állapítja meg.
 
-(4) A kamara gazdasági tevékenységet nem folytathat. A kamara a tevékenységét segítő vállalkozási tevékenységet a kizárólagos tulajdonában levő közhasznú társaság útján folytathat.
+(4) A kamara gazdasági tevékenységet – a feladatai ellátásával összefüggésben felmerült postai költség továbbhárítása kivételével – nem folytathat. A kamara a tevékenységét segítő vállalkozási tevékenységet a kizárólagos tulajdonában levő nonprofit gazdasági társaság útján folytathat.
 
 ### IX. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-28. §
+#### 28. §
 
-29. §
+#### 29. §
 
-30. §
+#### 30. §
 
-31. §
+#### 31. §
 
-32. §
+#### 32. §
 
-33. §
+#### 33. §
 
-34. §
+#### 34. §
 
-35. §
+#### 35. §
 
-36. §
+#### 36. §
 
-37. §
+#### 37. §
 
-38. §
+#### 38. §
 
 ### Záró rendelkezések
 

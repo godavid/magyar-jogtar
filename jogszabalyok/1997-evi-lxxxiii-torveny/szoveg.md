@@ -36,7 +36,7 @@ terjed ki.
 
 5. § Az egészségbiztosító tájékoztatja a biztosítottat jogairól és kötelezettségeiről, segítséget nyújt igénye érvényesítéséhez.
 
-5/A. § Az utazási költségtérítéssel, a külföldön történő gyógykezeléssel összefüggő eljárásokkal, a méltányosságból igénybe vehető pénzbeli ellátásokkal – ideértve az egyszeri segélyt is – kapcsolatos ügyekben, valamint a Tbj. 3. §-a alapján indult eljárásokban – kivéve az európai egészségbiztosítási kártyával és az alkalmazandó jogszabályok meghatározásával kapcsolatos eljárásokat – az elektronikus kapcsolattartás kizárt.
+5/A. § A külföldön történő gyógykezeléssel összefüggő eljárásokkal kapcsolatos ügyekben, valamint a Tbj. 3. §-a alapján indult eljárásokban – kivéve az európai egészségbiztosítási kártyával és az alkalmazandó jogszabályok meghatározásával kapcsolatos eljárásokat – az elektronikus kapcsolattartás kizárt.
 
 ### Fogalommeghatározások
 
@@ -51,7 +51,7 @@ terjed ki.
 - c) gyógyszertár: a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény hatálya alá tartozó gyógyszertár,
 - d) gyógyszer: az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 1. §-ának 1. pontjában meghatározott termék és a különleges táplálkozási igényt kielégítő tápszer,
 - e) gyógyászati segédeszköz: a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (továbbiakban: Gyftv.) 3. §-ának 6. pontja szerinti eszköz,
-- f) helyi utazás: a település közigazgatási határán belül történő utazás,
+- f) helyi utazás: a település közigazgatási határán belül történő utazás, ha a biztosított lakóhelye vagy tartózkodási helye, illetve szállása és az ellátást nyújtó egészségügyi szolgáltató telephelye ugyanazon településen található,
 - g) gyógyászati ellátás: az orvosi rehabilitáció céljából társadalombiztosítási támogatással igénybe vehető gyógyászati ellátásokról szóló rendeletben meghatározott ellátás,
 - h) közeli hozzátartozó: a házastárs, az élettárs, az egyeneságbeli rokon, az örökbe fogadott, a mostoha- és nevelt gyermek, az örökbefogadó, a mostoha- és a nevelőszülő, a testvér,
 - i) közös háztartás: az egy lakóingatlanban életvitelszerűen együtt lakó természetes személyek közössége,
@@ -492,32 +492,32 @@ megfelelően kell eljárni.
 
 (2) A 21. § (1) bekezdés ab) pontjában meghatározott magisztrális gyógyszerek árához nyújtott támogatás megállapítására vonatkozó szabályokat külön jogszabály állapítja meg.
 
-### Utazási költségtérítés
+### Utazási költségtérítési támogatás
 
-22. § (1) A járóbeteg-szakellátásra, a fekvőbeteg-gyógyintézetbe, továbbá gyógyászati ellátásra, rehabilitációra beutalt biztosítottat utazási költségeihez támogatás illeti meg,
+22. § (1) A járóbeteg-szakellátásra, fogászati szakellátásra, fekvőbeteg-gyógyintézetbe, gyógyászati ellátásra, továbbá rehabilitációra beutalt, illetve ezen szolgáltatásokat beutaló nélkül igénybe vevő biztosítottat utazási költségeihez támogatás illeti meg,
 
-- a) ha orvosszakértői vizsgálatra utalták vagy rendelték be; vagy
-- b) ha a beutalás olyan egészségügyi szolgáltatóhoz történik,
+- a) ha orvosszakértői vizsgálatra utalták vagy rendelték be, vagy
+- b) ha a szolgáltatás igénybevétele olyan egészségügyi szolgáltatónál történik,
   - ba) amely a biztosított területi ellátására kötelezett, vagy
-  - bb) amely a ba) pont szerinti egészségügyi szolgáltatónál a biztosított lakóhelyéhez (tartózkodási helyéhez) közelebb esik, ha az oda történő beutalásba a biztosított beleegyezett; vagy
-- c) a megfelelő feltételekkel rendelkező, bármely más – a biztosított lakóhelyéhez (tartózkodási helyéhez) legközelebb eső – egészségügyi szolgáltatóhoz történő beutalás esetén, ha az egészségügyi szolgáltató által nyújtott ellátás biztosítására a b) pont szerinti egészségügyi szolgáltatók szakmai indokok alapján nem alkalmasak.
+  - bb) amely a ba) alpont szerinti egészségügyi szolgáltatónál a biztosított lakóhelyéhez vagy tartózkodási helyéhez, illetve szállásához közelebb esik, ha az oda történő beutalásba a biztosított beleegyezett, illetve, ha az egészségügyi szolgáltatást ott vette igénybe, vagy
+- c) a megfelelő feltételekkel rendelkező, bármely más – a biztosított lakóhelyéhez vagy tartózkodási helyéhez, illetve szállásához legközelebb eső – egészségügyi szolgáltatóhoz történő beutalás, valamint a szolgáltatás ezen egészségügyi szolgáltatónál történt igénybevétele esetén, ha az egészségügyi szolgáltató által nyújtott ellátás biztosítására a b) pont szerinti egészségügyi szolgáltatók szakmai indokok alapján nem alkalmasak.
 
-(2) Amennyiben a biztosított az (1) bekezdésben említett egészségügyi ellátást azért veszi beutaló nélkül igénybe, mert egészségi állapota az azonnali ellátását indokolta, az egészségügyi szolgáltatótól otthonába (tartózkodási helyére) történő utazási költségeihez való támogatásra jogosult.
+(2) Az (1) bekezdés szerinti egészségügyi szolgáltatás igénybevételéhez – a biztosított lakóhelye vagy tartózkodási helye, illetve szállása és az egészségügyi szolgáltató telephelye közötti távolság figyelembevételével – támogatás abban az esetben vehető igénybe, ha az utazás Magyarország területén történik. Az egészségügyi szolgáltatóhoz külföldi lakóhelyről vagy tartózkodási helyről utazó biztosítottak a lakóhelyükhöz vagy tartózkodási helyükhöz legközelebb eső határátkelő és az egészségügyi szolgáltató telephelye közötti útvonalra jogosultak támogatásra. A biztosított támogatásra nem jogosult, ha a lakóhelye vagy tartózkodási helye, illetve szállása és az egészségügyi szolgáltató telephelye közötti közlekedése betegszállítás vagy mentés keretében valósult meg.
 
-(3) A biztosított a gyógyászati segédeszköz próbájával, illetve kiszolgáltatásával kapcsolatos utazási költségeinek támogatására akkor jogosult, ha a gyógyászati segédeszközt a tartózkodási helyéhez legközelebb eső, a rendelt gyógyászati segédeszköz kiszolgáltatására az egészségbiztosítóval szerződött forgalmazónál szerzi be.
+(3) A biztosított a gyógyászati segédeszköz próbájával, illetve kiszolgáltatásával kapcsolatos utazási költségeinek támogatására akkor jogosult, ha a gyógyászati segédeszközt a lakóhelyéhez vagy tartózkodási helyéhez, illetve szállásához legközelebb eső, a rendelt gyógyászati segédeszköz kiszolgáltatására az egészségbiztosítóval szerződött forgalmazónál szerzi be.
 
-(4) A korai fejlesztést és gondozást, illetve a nem önkéntes pedagógiai szakszolgálati feladatellátást nyújtó intézmény igénybevételével kapcsolatban felmerült utazási költségekhez támogatás jár.
+(4) A korai fejlesztést és gondozást, illetve a nem önkéntes pedagógiai szakszolgálati feladatellátást nyújtó intézmény igénybevételével kapcsolatban felmerült utazási költségekhez támogatás vehető igénybe.
 
-(5) A betegségek megelőzését és korai felismerését szolgáló szervezett szűrővizsgálat igénybevételével kapcsolatban felmerült utazási költséghez támogatás jár. A biztosított a támogatásra akkor jogosult, ha a jogszabályban meghatározott szűrővizsgálatot behívás alapján vette igénybe.
+(5) A betegségek megelőzését és korai felismerését szolgáló szervezett szűrővizsgálat igénybevételével kapcsolatban felmerült utazási költségekhez támogatás jár.
 
-(6) Az utazási költséghez nyújtott támogatás a külön jogszabályban foglaltak szerint illeti meg
+(6) Az utazási költségekhez nyújtott támogatás a külön jogszabályban foglaltak szerint illeti meg
 
 - a) a 16 éven aluli gyermek kísérőjét,
-- b) a 16 éven felüli biztosított kísérőjét, amennyiben egészségi állapota miatt a kíséretet a beutaló orvos szükségesnek tartja.
+- b) a 16 éven felüli biztosított kísérőjét, amennyiben egészségi állapota miatt a kíséretet az utazási költségtérítési támogatásra vonatkozó igényt rögzítő egészségügyi szolgáltató szükségesnek tartja.
 
-(7) Helyi utazás költségeihez támogatás nem jár.
+(7) Helyi utazás költségeihez támogatás nem vehető igénybe.
 
-(8) Az utazási költséghez nyújtott támogatás mértékét és módját külön jogszabály tartalmazza.
+(8) Az utazási költségekhez nyújtott támogatás összegét külön jogszabály határozza meg.
 
 ### 3. CÍM — A biztosított által részleges térítés mellett igénybe vehető egészségügyi szolgáltatások
 
@@ -703,7 +703,7 @@ költségeit, amelyek máshonnan nem térülnek meg.
 - b) az árhoz nyújtott támogatással igénybe vehető ellátásokra való jogosultságát
   - ba) a gyógyászati ellátások tekintetében a külön jogszabály szerinti orvosi rendelvény és kezelőlap bemutatásával,
   - bb) gyógyszer és gyógyászati segédeszköz tekintetében a külön jogszabály szerinti orvosi rendelvény bemutatásával,
-- c) az utazási költségeihez nyújtott támogatásra való jogosultságát a beutaló orvos által, illetve amennyiben az ellátásra – azonnali ellátás szükségessége miatt – beutaló nélkül került sor, a szolgáltató orvosa által kiállított igazolással
+- c)
 
 igazolja.
 
@@ -717,7 +717,7 @@ igazolja.
 
 (6)
 
-(7) A 22. § szerinti utazási költséghez nyújtott támogatás iránti, valamint a 27. § (1) és (2) bekezdéseiben említett ellátások költségeinek megtérítése iránti kérelem elbírálására a 61. § rendelkezéseit megfelelően alkalmazni kell. A 27. § (3) bekezdésben említett ellátások költségeinek utólagos megtérítésére vonatkozó igény az ellátás igénybevételétől számított hat hónapon belül érvényesíthető. A 27. § (6) bekezdésében említett ellátások költségeinek megtérítése iránti igény a külföldi gyógykezelés befejezésétől számított harminc napon túl nem érvényesíthető.
+(7) A 27. § (1) és (2) bekezdése szerinti ellátások költségeinek megtérítése iránti kérelem elbírálására a 61. § rendelkezéseit kell alkalmazni. A 27. § (3) bekezdése szerinti ellátások költségeinek utólagos megtérítésére vonatkozó igény az ellátás igénybevételétől számított hat hónapon belül érvényesíthető. A 27. § (6) bekezdése szerinti ellátások költségeinek megtérítése iránti igény a külföldi gyógykezelés befejezésétől számított harminc napon túl nem érvényesíthető.
 
 (8) A nemzetközi egyezmény vagy az uniós rendeletek hatálya alá tartozó személy az egyezményben vagy az uniós rendeletekben meghatározott egészségügyi szolgáltatásra vonatkozó jogosultságát az egyezményben vagy az uniós rendeletekben meghatározott módon igazolja.
 
@@ -896,8 +896,10 @@ igazolja.
 - d) fejkvótán,
 - e) a nyújtott szolgáltatások teljesítményarányain,
 - f) egyes szolgáltatások tekintetében teljesítményegységének mennyiségén,
-- g) az a)–f) pontban foglaltak kombinációján, és
-- h) alapuló rendszerben történik.
+- g) a minőségi mutatók figyelembevételén,
+- h) az a)–g) pontban foglaltak kombinációján
+
+alapuló rendszerben történik.
 
 (2) Az (1) bekezdésben foglalt elveken alapuló finanszírozás szabályait külön törvény és a végrehajtására kiadott jogszabályok tartalmazzák, azzal, hogy az egészségügyi szolgáltató legfeljebb annyi havi finanszírozásra lehet jogosult, ahány hónapig a hatályos szerződése alapján szolgáltatást nyújtott.
 
@@ -1635,7 +1637,7 @@ azzal, hogy táppénz egy napra járó összege nem haladhatja meg a jogosultsá
 
 (5b) Az igénylő a gyermekgondozási díj 42/E. § alapján történő megállapítása iránti kérelmet az egészségbiztosító által rendszeresített és az egészségbiztosító honlapján közzétett nyomtatványon nyújthatja be.
 
-(6)
+(6) Az Ákr. 40. §-ában meghatározott feltételek fennállása esetén az elektronikus úton benyújtott utazási költségtérítési támogatás iránti kérelmet az egészségbiztosító automatikus döntéshozatali eljárásban bírálja el.
 
 (7) Ha a kérelem elbírálása után megállapítást nyer, hogy a kérelmet jogszabálysértő módon elutasították, vagy alacsonyabb összegű ellátást állapítottak meg, illetőleg folyósítottak, a jogszabálysértés felfedésétől visszafelé számított öt éven belül járó összeget és az utána járó – az Art.-ban meghatározott – késedelmi pótlékot utólag ki kell fizetni.
 
@@ -1663,9 +1665,9 @@ pénzbeli ellátások iránti igény
 
 bírálja el.
 
-(2a) Az utazási költségtérítés iránti kérelmet a biztosított lakóhelye vagy tartózkodási helye szerint illetékes egészségbiztosító bírálja el.
+(2a) Az utazási költségtérítési támogatás iránti kérelmet a biztosított lakóhelye vagy tartózkodási helye szerint illetékes, magyarországi lakcím hiányában a fővárosban eljárásra jogosult egészségbiztosító bírálja el.
 
-(2b) A (2a) bekezdés szerinti esetben az utazási költségtérítést az egészségbiztosító folyósítja.
+(2b) A (2a) bekezdés szerinti esetben az utazási költségtérítési támogatást az egészségbiztosító folyósítja.
 
 (2c) A csecsemőgondozási díjat, örökbefogadói díjat, a gyermekgondozási díjat és a táppénzt
 
