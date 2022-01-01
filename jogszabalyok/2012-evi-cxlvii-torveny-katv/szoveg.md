@@ -220,13 +220,13 @@ igénybe vehető, azzal, hogy a d) pont alkalmazásában foglalkoztatott alatt k
 - a) vállalkozói személyi jövedelemadó és vállalkozói osztalékalap utáni adó vagy átalányadó megállapítása, bevallása és megfizetése;
 - b) társasági adó megállapítása, bevallása és megfizetése;
 - c) a személyi jövedelemadó és járulékok megállapítása, bevallása és megfizetése;
-- d) szociális hozzájárulási adó és a szakképzési hozzájárulás megállapítása, bevallása és megfizetése.
+- d) szociális hozzájárulási adó megállapítása, bevallása és megfizetése.
 
 (2) A kisadózó vállalkozások tételes adójának megfizetésével a kisadózó vállalkozás nem mentesül a kisadózónak nem minősülő személyek foglalkoztatására tekintettel, illetve a kisadózónak nem minősülő személyek részére juttatott jövedelmek után teljesítendő adókötelezettségek alól.
 
 #### 6. A kisadózót megillető ellátások és a kisadózó jövedelme
 
-10. § (1) A főállású kisadózó e jogállásának időtartama alatt biztosítottnak minősül, a Tbj.-ben és a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvényben meghatározott valamennyi ellátásra jogosultságot szerezhet, ezen ellátások számításának alapja havi 102 ezer forint, magasabb összegű tételes adó fizetése esetén 170 ezer forint. Az állami adóhatóság a 7. § és a 8. § (11) bekezdése szerinti bejelentések adattartalma alapján adatot szolgáltat az egészség- és nyugdíjbiztosítási szervek felé a főállású kisadózó biztosítotti jogállásának időtartamáról és az ellátások alapjáról.
+10. § (1) A főállású kisadózó e jogállásának időtartama alatt biztosítottnak minősül, a Tbj.-ben és a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvényben meghatározott valamennyi ellátásra jogosultságot szerezhet, ezen ellátások számításának alapja havi 108 ezer forint, magasabb összegű tételes adó fizetése esetén 179 ezer forint. Az állami adóhatóság a 7. § és a 8. § (11) bekezdése szerinti bejelentések adattartalma alapján adatot szolgáltat az egészség- és nyugdíjbiztosítási szervek felé a főállású kisadózó biztosítotti jogállásának időtartamáról és az ellátások alapjáról.
 
 (1a) Szünetel a főállású kisadózó biztosítása abban a hónapban, amelyben a főállású kisadózó után az adót a 8. § (9) bekezdés d) pontja alapján nem kell megfizetni, kivéve, ha a főállású kisadózó az adott hónapban a kisadózóként folytatott tevékenységébe tartozó tevékenységet végez, és erre tekintettel megfizeti a 8. § (1) vagy (4a) bekezdés szerinti tételes adót.
 
@@ -424,13 +424,13 @@ növelt összege, de legalább a b) pont szerinti összeg.
 
 #### 15. Az adó mértéke
 
-21. § (1) Az adó mértéke az adó alapjának 11 százaléka.
+21. § (1) Az adó mértéke az adó alapjának 10 százaléka.
 
 (2) A kisvállalati adó adóalanya mentesül:
 
-- a) a társasági adó,
-- b) a szociális hozzájárulási adó, és
-- c) a szakképzési hozzájárulás
+- a) a társasági adó és
+- b) a szociális hozzájárulási adó
+- c)
 
 bevallása és megfizetése alól.
 
@@ -453,7 +453,7 @@ bevallása és megfizetése alól.
 - a) az adóelőleg-megállapítási időszakban az adóalany által fizetendő, e törvény 20. § (2)–(2b) bekezdése szerint meghatározott személyi jellegű kifizetések összege, és
 - b) az adóelőleg-megállapítási időszakban jóváhagyott fizetendő osztalék (ide nem értve a kisvállalati adóalanyiságot megelőző adóévek adózott eredménye és eredménytartaléka terhére a kisvállalati adóalanyiság időszakában jóváhagyásra kerülő osztalékot), csökkentve az adóelőleg-megállapítási időszakban bevételként elszámolt, a külföldön megfizetett (fizetendő) adó összegét nem tartalmazó osztalék összegével, feltéve, hogy annak összegét az osztalékot megállapító társaság (ideértve a kezelt vagyont) nem számolja el az adózás előtti eredmény terhére ráfordításként
 
-együttes összegének a 11 százaléka.
+együttes összegének a 10 százaléka.
 
 (3) Az adóalany az adóévre e törvény szerint megállapított adót – az adóévben már megfizetett adóelőlegek beszámításával – a bevallás benyújtására előírt határidőig megfizeti. Ha az adóévre már megfizetett adóelőlegek összege meghaladja az adóévre megállapított adó összegét, a különbözetet az adóalany bevallásában, a bevallás beérkezésének napjától, de legkorábban a bevallás benyújtására előírt határidő napjától (esedékességtől) jogosult visszaigényelni.
 

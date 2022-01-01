@@ -270,9 +270,11 @@ váltja ki, feltéve, hogy a nyugdíjbiztosítási szerződés létrejöttétől
 - 99. Kiegészítő biztosítás: a nyugdíjbiztosításra vonatkozó rendelkezések alkalmazása során kiegészítő biztosítás az olyan biztosítás – függetlenül attól, hogy az milyen kockázatra nyújt fedezetet –, amelynek saját különös szerződési feltétele van és díja a nyugdíjbiztosítás díjától a számviteli jogszabályok szerint elkülönített (ideértve a szerződéses feltételek szerint rögzített módon meghatározott, levonással érvényesített díjat is).
 - 100. Pénzügyi intézmény: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitelintézet és pénzügyi vállalkozás, továbbá a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvény szerinti befektetési vállalkozás.
 
-3/A. §
+#### 3/A. §
 
-### IV. Fejezet — A JÖVEDELEMREÉS AZ ADÓKÖTELEZETTSÉGRE VONATKOZÓ ÁLTALÁNOS SZABÁLYOK
+### IV. Fejezet — A JÖVEDELEMRE
+
+ÉS AZ ADÓKÖTELEZETTSÉGRE VONATKOZÓ ÁLTALÁNOS SZABÁLYOK
 
 ### Jövedelem, bevétel, költség
 
@@ -451,7 +453,7 @@ bűncselekmény elkövetése érdekében vagy azzal összefüggésben merült fe
 
 (6) A magánszemély halálát követően juttatott olyan bevétellel összefüggésben, amely a magánszemélyt az életében még megillette (ilyennek minősül különösen a munkabér és a magánszemély által igényelt támogatás), az adókötelezettséget – ideértve a kifizető, a munkáltató adókötelezettségét is – úgy kell teljesíteni, mintha a juttatást a magánszemély a halálának időpontjában szerezte volna meg.
 
-9/A. §
+#### 9/A. §
 
 ### Nyilvántartási szabályok
 
@@ -515,11 +517,11 @@ azzal, hogy a b) pont alkalmazásában az adóbevallási tervezetben szereplő a
 
 (2) Ha a magánszemély a személyi jövedelemadó bevallás késedelmes benyújtására vonatkozó bejelentést tesz, a bevallási késedelem miatt mulasztási bírság a bevallás naptári éve november 20. napjáig nem szabható ki, kivéve, ha az adózó bevallását november 20-a előtt nyújtja be és késedelmét igazoltan nem menti ki.
 
-11/B. §
+#### 11/B. §
 
-12. §
+#### 12. §
 
-12/A. §
+#### 12/A. §
 
 ### Adóbevallási tervezettel összefüggő eljárás
 
@@ -585,7 +587,7 @@ azzal, hogy a b) pont alkalmazásában az adóbevallási tervezetben szereplő a
 
 ### Munkáltatói adómegállapítás
 
-14. §
+#### 14. §
 
 ### Adófizetés
 
@@ -841,7 +843,7 @@ kell jövedelemnek tekinteni. A kötelező várakozási időszak leteltét köve
 
 ### Az összevont adóalap megállapítása
 
-29. § Az összevont adóalap az adóévben adókötelezettség alá eső valamennyi önálló, nem önálló tevékenységből származó, valamint egyéb bevételből megállapított jövedelem, továbbá átalányadózás esetén az egyéni vállalkozói, a mezőgazdasági őstermelői bevételből az átalányban megállapított jövedelem. Ha a jövedelem után a magánszemély kötelezett a szociális hozzájárulási adó megfizetésére (kivéve, ha az költségként elszámolható, vagy azt számára megtérítették), a megállapított jövedelem 87 százalékát kell jövedelemként figyelembe venni.
+29. § Az összevont adóalap az adóévben adókötelezettség alá eső valamennyi önálló, nem önálló tevékenységből származó, valamint egyéb bevételből megállapított jövedelem, továbbá átalányadózás esetén az egyéni vállalkozói, a mezőgazdasági őstermelői bevételből az átalányban megállapított jövedelem. Ha a jövedelem után a magánszemély kötelezett a szociális hozzájárulási adó megfizetésére (kivéve, ha az költségként elszámolható, vagy azt számára megtérítették), a megállapított jövedelem 89 százalékát kell jövedelemként figyelembe venni.
 
 ### Családi kedvezmény
 
@@ -962,11 +964,16 @@ esetén az adóbevallásban – a másik jogosult vagy a megosztással érintett
 
 és az a) és b) pont szerinti gyermekek száma a négy főt eléri, azzal, hogy a b) pont szerinti gyermekkel esik egy tekintet alá az a gyermek is, aki után a családi pótlékra való jogosultság a gyermek elhunyta miatt szűnt meg.
 
+(3a) A (3) bekezdés
+
+- 1. a) pontja szerinti gyermekkel esik egy tekintet alá az a gyermek is, aki után az anya családi pótlékra nem jogosult, de a családok támogatásáról szóló 1998. évi LXXXIV. törvény 12. § (1) bekezdés b) pontja szerint e gyermeket az anyát megillető családi pótlék összegének megállapítása szempontjából figyelembe kell venni,
+- 2. b) pontja arra a gyermekre is irányadó, akire tekintettel az anya vagy a szociális intézmény vezetője családi pótlékra való jogosultsága már nem áll fenn, de legalább 12 éven keresztül e két személy valamelyike, vagy mindkettejük esetében összesen fennállt, feltéve, hogy a szociális intézmény vezetőjénél fennálló jogosultság időszaka alatt az 1. pontban foglaltak teljesültek.
+
 (4) A kedvezményre való jogosultság annak a hónapnak az első napján nyílik meg, amely hónap bármely napján a magánszemély négy vagy több gyermeket nevelő anyának minősül, és megszűnik annak a hónapnak az utolsó napján, amelynek egészében már nem minősül ilyennek.
 
 (5) Amennyiben a négy vagy több gyermeket nevelő anyának minősülő magánszemély kedvezményre való jogosultsága az adóév egészében nem áll fenn, és a jogosultság időszakában megszerzett, összevont adóalapba tartozó önálló tevékenységből származó jövedelme másként nem állapítható meg, azt az ilyen címen megszerzett adóévi jövedelmének a jogosultsági időszak hónapjaival arányos részeként kell figyelembe venni.
 
-(6) A négy vagy több gyermeket nevelő anyák kedvezménye érvényesítésének feltétele az anya adóbevalláshoz tett nyilatkozata, amelyen fel kell tüntetni a (3) bekezdés szerinti gyermekek nevét, adóazonosító jelét (ha az adóhatóság adóazonosító jelet nem állapított meg, a természetes személyazonosító adatait), valamint – ha a kedvezményre való jogosultság nem állt fenn az adóév egészében – a jogosultság megnyíltának vagy megszűntének napját és a (2) bekezdés szerinti összeget.
+(6) A négy vagy több gyermeket nevelő anyák kedvezménye érvényesítésének feltétele az anya adóbevalláshoz tett nyilatkozata, amelyen fel kell tüntetni a (3), illetve (3a) bekezdés szerinti gyermekek nevét, adóazonosító jelét (ha az adóhatóság adóazonosító jelet nem állapított meg, a természetes személyazonosító adatait), valamint – ha a kedvezményre való jogosultság nem állt fenn az adóév egészében – a jogosultság megnyíltának vagy megszűntének napját és a (2) bekezdés szerinti összeget.
 
 ### Személyi kedvezmény
 
@@ -978,9 +985,31 @@ esetén az adóbevallásban – a másik jogosult vagy a megosztással érintett
 
 (4) Jogosultsági hónapként azok a hónapok vehetők figyelembe, amelyekben a fogyatékos állapot az erről szóló igazolás, határozat alapján legalább egy napig fennáll.
 
+### A 25 év alatti fiatalok kedvezménye
+
+29/F. § (1) A 25. életévét be nem töltött magánszemély (a továbbiakban: fiatal) az összevont adóalapját [29. §] a 25 év alatti fiatalok kedvezményével csökkenti. A 25 év alatti fiatalok kedvezménye a négy vagy több gyermeket nevelő anyák kedvezményét követően, de a személyi kedvezményt, az első házasok kedvezményét és a családi kedvezményt megelőző sorrendben érvényesíthető.
+
+(2) A 25 év alatti fiatalok kedvezménye a fiatal által a jogosultsági hónapokban megszerzett (munkaviszonyból származó jövedelem esetében a jogosultsági hónapokra elszámolt), összevont adóalapba tartozó
+
+- a) e törvény szerint bérnek minősülő jövedelme [3. § 21. pont],
+- b) az a) pontban nem említett nem önálló tevékenységből származó jövedelmeinek összege, ide nem értve a munkaviszony megszüntetésére tekintettel kapott végkielégítés törvényben előírt mértéket meghaladó összegét,
+- c) önálló tevékenységből származó jövedelmei közül
+  - ca) a vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó vállalkozói kivétje, átalányadózás esetén az átalányban megállapított jövedelme;
+  - cb) a mezőgazdasági őstermelő e tevékenységéből származó jövedelme;
+  - cc) az európai parlamenti képviselő e tevékenységéből származó jövedelme;
+  - cd) a helyi önkormányzati képviselő e tevékenységéből származó jövedelme;
+  - ce) a választott könyvvizsgáló e tevékenységéből származó jövedelme;
+  - cf) a magánszemély által nem egyéni vállalkozóként kötött, díjazás ellenében történő munkavégzésre irányuló más szerződés alapján folytatott tevékenységéből származó jövedelme, de adóévenként legfeljebb a jogosultsági hónapok számának és a teljes munkaidőben alkalmazásban állók Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző év július hónapjára vonatkozó nemzetgazdasági szintű bruttó átlagkeresetének szorzata.
+
+(3) Jogosultsági hónapként azok a hónapok vehetők figyelembe, amelyekben a fiatal a 25. életévét nem töltötte be, utoljára a 25. életéve betöltésének hónapja.
+
+(4) Amennyiben a 25 év alatti fiatalok kedvezményére való jogosultság az adóév egészében nem áll fenn, és a jogosultsági hónapokban megszerzett, összevont adóalapba tartozó önálló tevékenységből származó jövedelem másként nem állapítható meg, azt az ilyen címen megszerzett adóévi jövedelemnek a jogosultsági hónapokkal arányos részeként kell figyelembe venni.
+
+(5) Ha a 29/C. § szerinti első házasok kedvezményére jogosult házaspár esetén mindkét házastárs 25 év alatti fiatal, az első házasok kedvezménye érvényesítésének első jogosultsági hónapja a 29/C. § (4) bekezdésétől eltérően az a hónap, amelyet megelőző hónapban a házastársak valamelyike a 25. életévét betölti.
+
 ### VII. Fejezet — AZ ÖSSZEVONT ADÓALAP ADÓJÁNAK MEGHATÁROZÁSA
 
-30. §
+#### 30. §
 
 ### Az összevont adóalap adója
 
@@ -992,11 +1021,11 @@ esetén az adóbevallásban – a másik jogosult vagy a megosztással érintett
 
 (2) Az (1) bekezdés rendelkezését az átalányadózást választó magánszemélynek azon bevétele alapján átalányban megállapított jövedelmére kell alkalmaznia, amelyre vonatkozóan külföldön a személyi jövedelemadónak megfelelő adót fizetett.
 
-33. §
+#### 33. §
 
-33/A. §
+#### 33/A. §
 
-34. §
+#### 34. §
 
 ### VIII. Fejezet — AZ ÖSSZEVONT ADÓALAP ADÓJÁT CSÖKKENTŐ KEDVEZMÉNYEK, RENDELKEZÉS AZ ADÓRÓL
 
@@ -1004,11 +1033,13 @@ esetén az adóbevallásban – a másik jogosult vagy a megosztással érintett
 
 (2)
 
-36. §
+#### 36. §
 
-36/A. §
+#### 36/A. §
 
-37–38. §
+#### 37. §
+
+#### 38. §
 
 ### Tevékenységi kedvezmények
 
@@ -1018,15 +1049,15 @@ esetén az adóbevallásban – a másik jogosult vagy a megosztással érintett
 
 (3)–(4)
 
-40. §
+#### 40. §
 
-41. §
+#### 41. §
 
-42. §
+#### 42. §
 
-43. §
+#### 43. §
 
-44. §
+#### 44. §
 
 ### Rendelkezés az adóról
 
@@ -1181,7 +1212,7 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 - b) a vállalkozói bevételből, ha az egyéni vállalkozó az e bevételéről kiállított bizonylatán feltünteti az egyéni vállalkozói jogállását bizonyító közokirat számát;
 - c) lakás bérbeadásából származó bevételből, ha a magánszemély nyilatkozik arról, hogy a 17. § (5) bekezdését alkalmazza.
 
-(5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett négy vagy több gyermeket nevelő anyák kedvezményét, családi kedvezményt, első házasok kedvezményét, valamint az érvényesített személyi kedvezményt.
+(5) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről igazolást ad a magánszemélynek, amelyen feltünteti az adóelőleg alapját és az abban figyelembe vett négy vagy több gyermeket nevelő anyák kedvezményét, a 25 év alatti fiatalok kedvezményét, a személyi kedvezményt, az első házasok kedvezményét, a családi kedvezményt.
 
 (6) Az adóelőleg-megállapításra kötelezett kifizető
 
@@ -1230,7 +1261,9 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 
 ha azonban a da) pont esetén az adóelőleg-alap az ott meghatározott értékhatárt meghaladta, az adóelőleget a b) pont szerint kell fizetni.
 
-(5) A (2) bekezdés alkalmazásában az adóelőleg-alap számításnál figyelembe vett jövedelemnek a bevételből a bekezdés rendelkezése szerint megállapított rész 87 százaléka minősül, ha a jövedelem után a magánszemély kötelezett a szociális hozzájárulási adó megfizetésére (kivéve, ha az költségként elszámolható, vagy azt számára megtérítették).
+(4a) Az átalányadózó egyéni vállalkozó vállalkozói bevétele alapján nem állapít meg adóelőleget addig, amíg az adóelőleg alapja az adóévben az adóév elejétől összesítve az éves minimálbér felét nem haladja meg. Ha az adóelőleg-alap az éves minimálbér felét meghaladja, adóelőleget csak az éves minimálbér felét meghaladó adóelőleg-alap után kell fizetni.
+
+(5) A (2) bekezdés alkalmazásában az adóelőleg-alap számításnál figyelembe vett jövedelemnek a bevételből a bekezdés rendelkezése szerint megállapított rész 89 százaléka minősül, ha a jövedelem után a magánszemély kötelezett a szociális hozzájárulási adó megfizetésére (kivéve, ha az költségként elszámolható, vagy azt számára megtérítették).
 
 (6)–(9)
 
@@ -1262,20 +1295,26 @@ ha azonban a da) pont esetén az adóelőleg-alap az ott meghatározott értékh
 - d) a nyilatkozó magánszemély adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát;
 - e) az első házasok kedvezményének közös érvényesítése esetén a házastárs adóelőleget megállapító munkáltatójának, rendszeres bevételt juttató kifizetőjének nevét (elnevezését) és adószámát.
 
-(3b) A magánszemély a négy vagy több gyermeket nevelő anyák kedvezménye érvényesítése érdekében az összevont adóalapba tartozó bevételt juttató kifizető, munkáltató részére nyilatkozatot adhat. Az adóelőleg-nyilatkozat tartalmazza a nyilatkozó magánszemély nevét és adóazonosító jelét, a nyilatkozó magánszemély részére bevételt juttató kifizető, munkáltató nevét (elnevezését) és adószámát, valamint a 29/D. § (3) bekezdése szerinti gyermekek nevét és adóazonosító jelét, vagy – ha az adóhatóság adóazonosító jelet nem állapított meg – természetes személyazonosító adatait.
+(3b) A magánszemély a négy vagy több gyermeket nevelő anyák kedvezménye érvényesítése érdekében az összevont adóalapba tartozó bevételt juttató kifizető, munkáltató részére nyilatkozatot adhat. Az adóelőleg-nyilatkozat tartalmazza a nyilatkozó magánszemély nevét és adóazonosító jelét, a nyilatkozó magánszemély részére bevételt juttató kifizető, munkáltató nevét (elnevezését) és adószámát, valamint a 29/D. § (3), illetve (3a) bekezdése szerinti gyermekek nevét és adóazonosító jelét, vagy – ha az adóhatóság adóazonosító jelet nem állapított meg – természetes személyazonosító adatait. Nem kell évente új nyilatkozatot tenni a munkáltató, a rendszeres jövedelmet juttató kifizető részére, ha a magánszemély korábban már tett nyilatkozott és a kedvezményre kizárólag a 29/D. § (3) bekezdés a) pontban nem említett gyermekre vagy olyan gyermekre tekintettel jogosult, aki után a családi pótlékra való jogosultsága – illetve a 29/D. § (3a) bekezdése szerint a szociális intézmény vezetőjének vagy mindkettejüknek összesen – 12 éven keresztül fennállt; ebben az esetben a munkáltató, rendszeres jövedelmet juttató kifizető a kedvezményt új nyilatkozat hiányában is érvényesíti.
 
 (3c) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély 29/D. § (2) bekezdése szerinti – kedvezményre jogosító – jövedelmének adóelőleg-alapját más kedvezménnyel a kifizető, a munkáltató nem csökkenti, azonban a magánszemély a családi kedvezményről adóelőleg-nyilatkozatot tehet a munkáltató, az összevont adóalapba tartozó rendszeres bevételt juttató kifizető részére. A családi kedvezményről tett adóelőleg-nyilatkozat szerinti családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az adó mértékével [8. §] meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
+
+(3d) A 29/F. § (2) bekezdése szerinti jövedelmet juttató, adóelőleget megállapító munkáltató, az összevont adóalapba tartozó rendszeres bevételt juttató kifizető a fiatal adóelőleg-alapját – a fiatalnak a 25 év alatti fiatalok kedvezménye részben vagy egészben történő érvényesítésének mellőzését kérő nyilatkozata hiányában – jogosultsági hónaponként csökkenti a 29/F. § (2) bekezdése szerinti összeggel.
+
+(3e) A 25 év alatti fiatalok kedvezményét érvényesítő fiatal a családi kedvezményről abban az esetben is tehet adóelőleg-nyilatkozatot a munkáltató, az összevont adóalapba tartozó rendszeres bevételt juttató kifizető részére, ha a 25 év alatti fiatalok kedvezményének érvényesítése miatt az adóelőleg-alapja nullára csökken. A családi kedvezményről tett adóelőleg-nyilatkozat szerinti családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az adó mértékével [8. §] meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
 
 (4) Ha a magánszemély az adóévben megszerzett bármely bevételét terhelő adóelőleg megállapításához tett nyilatkozatában
 
 - a) tételes igazolással elszámolható költség levonását kérte, és a nyilatkozat alapján levont költség meghaladja az összevont adóalap megállapításánál e törvény rendelkezései szerint az adóbevallásban elszámolt igazolt költséget, akkor a költség-különbözet 39 százalékát;
 - b) a nyilatkozattételkor fennálló körülmények ellenére négy vagy több gyermeket nevelő anyák kedvezménye, családi kedvezmény, első házasok kedvezménye, tevékenységi kedvezmény, személyi kedvezmény érvényesítését jogalap nélkül kérte, aminek következtében utóbb befizetési különbözet mutatkozik, valamint az a) pont szerinti esetben is, a befizetési különbözet 12 százalékát különbözeti-bírságként az adóévre vonatkozó bevallásban külön kötelezettségként kell feltüntetnie, és a személyi jövedelemadó-fizetési kötelezettség szerint kell megfizetnie. Nem kell e rendelkezést alkalmazni, ha a költség-különbözet az adóelőleg megállapításánál figyelembe vett költség összegének 5 százalékát, a befizetési különbözet a 10 ezer forintot nem haladja meg.
 
+(4a) A fiatal a (3d) bekezdés szerinti nyilatkozatot – megjelölve abban azt az összeget, amelyre nem kéri a 25 év alatti fiatalok kedvezménye érvényesítését – akkor tesz, ha a nyilatkozat hiányában az adóév egészére vonatkozóan keletkező befizetési különbözet a 10 ezer forintot meghaladná. Ha a fiatal a (3d) bekezdés szerint nem tesz nyilatkozatot, és a nyilatkozata hiányában keletkező befizetési különbözet az adóévben a 10 ezer forintot meghaladja, a befizetési különbözet után a fiatal az adóévre vonatkozó bevallásában külön feltüntetve 12 százalék különbözeti-bírságot állapít meg, amelyet a személyi jövedelemadó-fizetési kötelezettségre vonatkozó rendelkezések szerint fizet meg.
+
 (5) Az adóelőleg-levonásra kötelezett kifizető a kifizetést megelőzően tájékoztatja a magánszemélyt az adóelőleg-nyilatkozat lehetőségéről és az adott vagy nem adott nyilatkozat következményeiről.
 
 ### A fizetendő adóelőleg
 
-49. § (1) Az adóelőleg a 47. § szerint megállapított adóelőleg-alap – a négy vagy több gyermeket nevelő anyák kedvezményét, a személyi kedvezményt, az első házasok kedvezményét, a családi kedvezményt érvényesítő magánszemély esetében az adóévben az adóelőleg megállapításánál általa vagy más jogosult által korábban még nem érvényesített kedvezménnyel csökkentett adóelőleg-alap – összege után az adó mértékével [8. §] számított összeg, figyelemmel a (2)–(4) bekezdésben foglalt rendelkezésekre is.
+49. § (1) Az adóelőleg a 47. § szerint megállapított adóelőleg-alap – a négy vagy több gyermeket nevelő anyák kedvezményét, a 25 év alatti fiatalok kedvezményét, a személyi kedvezményt, az első házasok kedvezményét, a családi kedvezményt érvényesítő magánszemély esetében az adóévben az adóelőleg megállapításánál általa vagy más jogosult által korábban még nem érvényesített kedvezménnyel csökkentett adóelőleg-alap – összege után az adó mértékével [8. §] számított összeg, figyelemmel a (2)–(4) bekezdésben foglalt rendelkezésekre is.
 
 (1a) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély a 29/D. § (2) bekezdése szerinti – kedvezményre jogosító – jövedelmének adóelőleg-alapja más kedvezménnyel nem csökkenthető. A családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az adó mértékével [8. §] meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
 
@@ -1297,6 +1336,8 @@ ha azonban a da) pont esetén az adóelőleg-alap az ott meghatározott értékh
 (6) Ha az egyéni vállalkozó családi járulékkedvezményt kíván igénybe venni, akkor – saját döntése alapján, az e fejezetben előírtaktól eltérően – a vállalkozói kivét vagy az átalányban megállapított jövedelem adóelőlegét havonta állapítja meg és vallja be.
 
 (7) Amennyiben a négy vagy több gyermeket nevelő anyának minősülő magánszemély kedvezményre való jogosultsága az adott negyedév egészében nem áll fenn, és az adott negyedévi, jogosultsági időszakban megszerzett, összevont adóalapba tartozó önálló tevékenységből származó jövedelmének adóelőleg-alapja másként nem állapítható meg, azt az adott negyedévi önálló tevékenységből származó jövedelem adóelőleg-alapjának a jogosultsági időszak hónapjával (hónapjaival) arányos részeként kell figyelembe venni.
+
+(8) Amennyiben a fiatalnak a 25 év alatti fiatalok kedvezményére való jogosultsága az adott negyedév egészében nem áll fenn, és az adott negyedévi jogosultsági hónapban (hónapokban) megszerzett, összevont adóalapba tartozó önálló tevékenységből származó jövedelmének adóelőleg-alapja másként nem állapítható meg, azt az adott negyedévi önálló tevékenységből származó jövedelem adóelőleg-alapjának a negyedév jogosultsági hónapjával (hónapjaival) arányos részeként kell figyelembe venni.
 
 ## HARMADIK RÉSZ — EGYES KÜLÖN ADÓZÓ JÖVEDELMEK
 
@@ -1527,21 +1568,21 @@ az a)–b) pontban említett adókat késedelmi pótlékkal növelten a kivezet�
 
 50. § (1) Az egyéni vállalkozó a vállalkozói jövedelem szerinti adózás helyett adóévenként az adóév egészére a 8. számú melléklet rendelkezései szerint átalányadózást választhat a (4)–(7) bekezdésben foglalt rendelkezéseket is figyelembe véve akkor, ha
 
-- a) az átalányadózás megkezdését közvetlenül megelőző adóévben az egyéni vállalkozói bevétele a 15 millió forintot nem haladta meg, és
+- a) az átalányadózás megkezdését közvetlenül megelőző adóévben az egyéni vállalkozói bevétele az éves minimálbér tízszeresét nem haladta meg, és
 - b)
-- c) az egyéni vállalkozói bevétele az adóévben nem haladja meg a 15 millió forintot.
+- c) az egyéni vállalkozói bevétele az adóévben nem haladja meg az éves minimálbér tízszeresét.
 
 (2) A mezőgazdasági őstermelő az átalányadózást akkor alkalmazza, ha az e tevékenységéből származó bevétele az adóévben az éves minimálbér tízszeresét nem haladja meg. Az őstermelő az átalányadózás alkalmazása helyett – választása szerint – adóévenként az adóév egészében a Második rész rendelkezései alapján állapíthatja meg a jövedelmét.
 
 (3) Az átalányadózás kizárólag az egyéni vállalkozói, illetőleg mezőgazdasági őstermelői tevékenység egészére választható.
 
-(4) Az (1) bekezdés rendelkezésétől eltérően az az egyéni vállalkozó, akinek az egyéni vállalkozói tevékenysége az adóév egészében kizárólag a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet szerinti kiskereskedelmi tevékenység, átalányadózást választhat, ha az átalányadózást közvetlenül megelőző adóévben vállalkozói bevétele a 100 millió forintot nem haladta meg.
+(4) Az (1) bekezdés rendelkezésétől eltérően az az egyéni vállalkozó, akinek az egyéni vállalkozói tevékenysége az adóév egészében kizárólag a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet szerinti kiskereskedelmi tevékenység, átalányadózást választhat, ha az átalányadózást közvetlenül megelőző adóévben vállalkozói bevétele az éves minimálbér ötvenszeresét nem haladta meg.
 
 (5) Az a magánszemély, aki egyéni vállalkozóként is és mezőgazdasági őstermelőként is jogosult az átalányadózás választására, külön-külön és egyidejűleg is alkalmazhatja a kétféle tevékenységre elkülönülten az átalányadózást.
 
 (6) A tevékenységét az adóévben kezdő egyéni vállalkozó, illetőleg mezőgazdasági őstermelő az átalányadózást a tevékenységének megkezdésétől választhatja az (1)–(5) bekezdések rendelkezései szerint.
 
-(7) Az az egyéni vállalkozó, aki az átalányadózását megszünteti vagy arra való jogosultsága megszűnik, ismételten átalányadózást – feltéve, hogy annak egyéb feltételei fennállnak – csak akkor választhat, ha a megszűnés (megszüntetés) évét követően legalább 4 adóév eltelt. Ha a jogosultsága a bevételi értékhatár túllépése miatt szűnt meg, az előbbi rendelkezéstől eltérően az átalányadózás – ha annak egyéb feltételei fennállnak – attól az adóévtől kezdődően újra választható, amely adóévben az e törvényben előírt bevételi értékhatár növekedett.
+(7) Az az egyéni vállalkozó, aki az átalányadózását megszünteti vagy arra való jogosultsága megszűnik, ismételten átalányadózást – feltéve, hogy annak egyéb feltételei fennállnak – csak akkor választhat, ha a megszűnés (megszüntetés) évét követően legalább 4 adóév eltelt.
 
 (8) A tevékenységét év közben kezdő, megszüntető vagy szüneteltető egyéni vállalkozó az (1) bekezdésben meghatározott bevételi értékhatárt a tevékenység folytatásának napjaival időarányosan veheti figyelembe.
 
@@ -1562,64 +1603,41 @@ az a)–b) pontban említett adókat késedelmi pótlékkal növelten a kivezet�
 
 52. § (1) Az átalányadózás szabályai addig alkalmazhatók, amíg az adóévben
 
-- a) az egyéni vállalkozó egyéni vállalkozói bevétele a 15 millió forintot, az 50. § (4) bekezdésében említett egyéni vállalkozó esetében a 100 millió forintot nem haladja meg,
+- a) az egyéni vállalkozó egyéni vállalkozói bevétele az éves minimálbér tízszeresét, az 50. § (4) bekezdésében említett egyéni vállalkozó esetében az éves minimálbér ötvenszeresét nem haladja meg,
 - b)
 
 (2) Az (1) bekezdés a) pontjában említett bármelyik feltétel hiányában az átalányadózásra való jogosultság megszűnik. Ekkor, valamint ha az átalányadózás szerint adózó egyéni vállalkozó a tevékenységének megszüntetését követően az adóévben azt újrakezdi, az egyéni vállalkozónak az adóév egészére nézve át kell térnie a vállalkozói jövedelem szerinti adózás alkalmazására. Ekkor át kell térnie a pénztárkönyv teljes és az egyébként szükséges részletező nyilvántartások vezetésére, azzal, hogy a jogosultság megszűnésének időpontját megelőző időszakra vonatkozó költségadatokat elégséges a pénztárkönyvben az abban foglalt részletezettség szerint, de tételenként egyösszegben feltüntetnie.
 
 (3) Ha az átalányadózást alkalmazó mezőgazdasági őstermelő az átalányadózásra való jogosultsága megszűnik, akkor a Második rész rendelkezései szerint kell eljárnia, azzal, hogy nyilvántartásaiban a jogosultság megszűnésének időpontját megelőző időszakra vonatkozó költségadatokat elégséges egyösszegben feltüntetnie.
 
-53. § (1) A jövedelmet a bevételből a (2) bekezdésben foglalt eltérésekkel
+53. § (1) A jövedelmet a bevételből
 
 - a) az egyéni vállalkozó 40 százalék,
-- b) az adóév egészében kizárólag a (3) bekezdésben, vagy kizárólag a (3) és (4) bekezdésben felsorolt tevékenységből bevételt szerző egyéni vállalkozó 80 százalék,
-- c) az adóév egészében kizárólag a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet alapján kiskereskedelmi tevékenységből bevételt szerző egyéni vállalkozó 87 százalék,
-- d) a c) pontban említett egyéni vállalkozó – feltéve, hogy külön-külön vagy együttesen az adóév egészében kizárólag a (4) bekezdésben felsorolt üzlet(ek) működtetéséből szerez bevételt – 93 százalék,
-- e) a mezőgazdasági őstermelő 90 százalék
+- b) az adóév egészében kizárólag a (2) bekezdésben, vagy kizárólag a (2) bekezdésben meghatározott és a c) pont szerinti tevékenységből bevételt szerző egyéni vállalkozó 80 százalék,
+- c) az adóév egészében kizárólag a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet alapján kiskereskedelmi tevékenységből bevételt szerző egyéni vállalkozó 90 százalék,
+- d) a mezőgazdasági őstermelő 90 százalék
 
 költséghányad levonásával állapítja meg (átalányban megállapított jövedelem).
 
-(2) Az (1) bekezdésben említett százalékos mérték
-
-- a) az a) pontban meghatározott helyett 25,
-- b) a b) pontban meghatározott helyett 75,
-- c) a c) pontban meghatározott helyett 83,
-- d) a d) pontban meghatározott helyett 91,
-
-akkor, ha az egyéni vállalkozó a Tbj. szerint kiegészítő tevékenységet folytatónak minősül.
-
-(3) Az (1) bekezdés b) pontjában említett tevékenységek a következők:
+(2) Az (1) bekezdés b) pontja szerinti tevékenységek a következők:
 
 - a) mezőgazdasági, erdőgazdálkodási (TESZOR 01, 02), bányászati (TESZOR 05-től 09-ig) és feldolgozóipari (TESZOR 10-től 32-ig) termék-előállítás, építőipari kivitelezés (TESZOR 41, 42);
 - b) mezőgazdasági, betakarítást követő szolgáltatás (TESZOR 01.6), vadgazdálkodáshoz kapcsolódó szolgáltatás (TESZOR 01.70.10), erdészeti szolgáltatás (TESZOR 02.40.10) és zöldterület-kezelés (TESZOR 81.30.10);
 - c) halászati szolgáltatás (TESZOR 03.00.71), halgazdálkodási szolgáltatás (TESZOR 03.00.72);
-- d) feldolgozóipari szolgáltatás (TESZOR 10-től 32-ig), kivéve: – valamennyi bérmunkában végzett szolgáltatás, – egyéb sokszorosítás (TESZOR 18.20);
+- d) feldolgozóipari szolgáltatás (TESZOR 10-től 32-ig) a bérmunkában végzett szolgáltatás és az egyéb sokszorosítás (TESZOR 18.20) kivételével;
 - e) építőipari szolgáltatás (TESZOR 43);
 - f) ipari gép, berendezés, eszköz javítása (TESZOR 33.1), gépjárműjavítás (TESZOR 45.20), személyi, háztartási cikk javítása (TESZOR 95.2), épületgépészeti berendezések javítása (TESZOR 43.21, 43.22, 43.29);
 - g) a taxis személyszállítás (TESZOR 49.32.11) személygépjármű kölcsönzése vezetővel (TESZOR 49.32.12), egyéb máshová nem sorolt szárazföldi személyszállítás (TESZOR 49.39.39), közúti áruszállítás (TESZOR 49.41.1);
 - h) számítógép, kommunikációs eszköz javítása (TESZOR 95.1);
 - i) fényképészet (TESZOR 74.20);
 - j) textil, szőrme mosása, tisztítása (TESZOR 96.01), fodrászat, szépségápolás (TESZOR 96.02), hobbiállat-gondozás (TESZOR 96.09.11);
-- k) a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet alapján folytatott vendéglátó tevékenység (TESZOR 56), kiskereskedelmi tevékenység [TEÁOR 47, kivéve a (4) bekezdésben felsorolt üzleteket].
+- k) a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendelet alapján folytatott vendéglátó tevékenység (TESZOR 56).
 
-(4) Az (1) bekezdés d) pontjában említett üzletek a következők:
+(3) Abban az esetben, ha az egyéni vállalkozó tevékenysége év közben oly módon változik, hogy a korábban alkalmazott költséghányad alkalmazására már nem jogosult, a változás időpontjában az év első napjára visszamenőlegesen át kell térnie a tevékenységének megfelelő alacsonyabb költséghányad alkalmazására.
 
-- a) élelmiszer jellegű bolti vegyes kiskereskedelem (TEÁOR 47.11);
-- b) iparcikk jellegű bolti vegyes kiskereskedelem (TEÁOR 47.19);
-- c) zöldség, gyümölcs kiskereskedelme (TEÁOR 47.21);
-- d) hús, húsáru kiskereskedelme (TEÁOR 47.22);
-- e) hal kiskereskedelme (TEÁOR 47.23);
-- f) kenyér-, pékáru-kiskereskedelem (TEÁOR 47.24-ből);
-- g) egyéb élelmiszer-kiskereskedelemből a gyógytea és étrend-kiegészítő termékek kiskereskedelme (TEÁOR 47.29-ből);
-- h) vasáru-, festék-, üveg-kiskereskedelem (TEÁOR 47.52);
-- i) gyógyszer-kiskereskedelemből a vitaminok kiskereskedelme (TEÁOR 47.73-ból);
-- j) gyógyászati termékek kiskereskedelme (TEÁOR 47.74).
+(4) Ha az adóévre átalányadózást választó egyéni vállalkozó elhunyt és a tevékenységét folytató özvegye vagy örököse, vagy egyesített tevékenység esetén az özvegye vagy az örököse is az átalányadózást választotta, akkor az elhunyt esetében az elhalálozás napjáig elért bevétel alapján átalányban megállapított jövedelmet – az időarányos bevételi értékhatár figyelmen kívül hagyásával – az elhunyt által megszerzett jövedelemnek kell tekinteni azzal, hogy az elhunyt által elért bevétel beleszámít az özvegy vagy az örökös esetében az átalányadó alkalmazásának feltételéül megjelölt bevételi értékhatárba.
 
-(5) Abban az esetben, ha az egyéni vállalkozó tevékenysége év közben oly módon változik, hogy a korábban alkalmazott költséghányad már nem illeti meg, a változás időpontjában az év első napjára visszamenőlegesen át kell térnie a tevékenységének megfelelő alacsonyabb költséghányad alkalmazására. Amely adóévben az egyéni vállalkozó az adóév egy részében kiegészítő tevékenységet folytatónak is minősül, az adóévi összes bevételére az (1) bekezdés rendelkezését kell alkalmaznia.
-
-(6) Ha az adóévre átalányadózást választó egyéni vállalkozó elhunyt és a tevékenységét folytató özvegye vagy örököse, vagy egyesített tevékenység esetén az özvegye vagy az örököse ugyancsak átalányadózást választott, akkor az elhunyt esetében az elhalálozás napjáig elért bevétel alapján átalányban megállapított jövedelmet – az időarányos bevételi értékhatár figyelmen kívül hagyásával – az elhunyt által megszerzett jövedelemnek kell tekinteni azzal, hogy az elhunyt által elért bevétel beleszámít az özvegy vagy az örökös esetében az átalányadó alkalmazásának feltételéül megjelölt bevételi értékhatárba.
-
-53/A. §
+#### 53/A. §
 
 54. § (1) Az átalányadózás évében felmerült összes költséget elszámoltnak kell tekinteni, beleértve a korábban és az átalányadózás időszakában beszerzett tárgyi eszközök beszerzési és előállítási értékének az átalányadózás időszakára jutó értékcsökkenési leírását is a 11. számú melléklet II. fejezete szerint. Az átalányadózást megelőző időszakból fennmaradt összes elhatárolt veszteségből az átalányadózás időszakának minden évében 20-20 százalékot elszámoltnak kell tekinteni.
 
@@ -1675,9 +1693,9 @@ akkor, ha az egyéni vállalkozó a Tbj. szerint kiegészítő tevékenységet f
 
 (8)
 
-57/B. §
+#### 57/B. §
 
-57/C. §
+#### 57/C. §
 
 ### XI. Fejezet — A VAGYONÁTRUHÁZÁS
 
@@ -1826,7 +1844,7 @@ azzal, hogy az átruházásból származó jövedelem megállapításához a 62.
 
 (10) A (9) bekezdésben említett jövedelmet az ügyleti szerződésben foglaltak alapján a magánszemélyt a meghiúsulás miatt megillető (kifizetett, jóváírt) bevételből, valamint a magánszemélyt az engedményezésről szóló szerződés alapján megillető (kifizetett, jóváírt) bevételből a 62. § (4) bekezdésének rendelkezései szerint kell értelemszerűen megállapítani [figyelemmel a 63. § (8) bekezdésében foglaltakra is] azzal, hogy az említett rendelkezések alkalmazásában számított összegnek a bevétel, megszerzés évének az ügyleti szerződés megkötésének éve minősül.
 
-63/A. §
+#### 63/A. §
 
 64. § (1)
 
@@ -1836,7 +1854,9 @@ azzal, hogy az átruházásból származó jövedelem megállapításához a 62.
 
 (4) A (2) és a (3) bekezdésben említett tulajdonjog megszerzésének igazolására az ingatlanügyi hatósághoz benyújtott iktatott szerződés szolgál.
 
-### Tartási, életjáradéki vagy öröklésiszerződésből származó jövedelem
+### Tartási, életjáradéki vagy öröklési
+
+szerződésből származó jövedelem
 
 64/A. § (1) Ingó vagyontárgynak, ingatlannak, vagyoni értékű jognak tartási, életjáradéki vagy öröklési szerződés keretében történő átruházásából származó adóköteles jövedelem megállapítására az 58–62. § rendelkezéseit a (2)–(5) bekezdésben szabályozott eltérésekkel kell alkalmazni.
 
@@ -2067,7 +2087,7 @@ a napjára kell megállapítani.
 
 (3d) Az ügyletek eredményében figyelembe nem vett járulékos költségekként a beszerzéshez és az értékesítéshez illetve a pozíció nyitásához és zárásához közvetlenül nem kapcsolódó költségek vehetők figyelembe.
 
-(4) Az e törvény és az adózás rendjéről szóló törvény szerint kifizetőnek minősülő befektetési szolgáltató az adóévet követő év január 31-éig – a magánszemély nevének, adóazonosító számának feltüntetésével – adatot szolgáltat az állami adó- és vámhatósághoz a magánszemély adóévben megvalósult ügyleteiben megszerzett bevételek összegéről, az ügyletek – üzletszabályzat vagy a magánszeméllyel kötött hasonló, az ügyletek elszámolási rendjét (ideértve különösen a pénzügyi eszköz megszerzésére fordított összeg figyelembevételének szabályait) szabályozó szerződés szerint megállapított – összesített eredménye (nyereség, veszteség) összegéről és az adóévben felmerült, az ügyletek eredményében figyelembe nem vett járulékos költségek összegéről a (3b)–(3d) bekezdésekben foglaltaknak megfelelően. Az ellenőrzött tőkepiaci ügylettel összefüggésben a befektetési szolgáltatót adó (adóelőleg)-levonási kötelezettség nem terheli.
+(4) Az e törvény és az adózás rendjéről szóló törvény szerint kifizetőnek minősülő befektetési szolgáltató az adóévet követő év január 31-éig – a magánszemély nevének, adóazonosító számának, külföldi illetőségének és az illetősége szerinti államnak a feltüntetésével – adatot szolgáltat az állami adó- és vámhatósághoz a magánszemély adóévben megvalósult ügyleteiben megszerzett bevételek összegéről, az ügyletek – üzletszabályzat vagy a magánszeméllyel kötött hasonló, az ügyletek elszámolási rendjét (ideértve különösen a pénzügyi eszköz megszerzésére fordított összeg figyelembevételének szabályait) szabályozó szerződés szerint megállapított – összesített eredménye (nyereség, veszteség) összegéről és az adóévben felmerült, az ügyletek eredményében figyelembe nem vett járulékos költségek összegéről a (3b)–(3d) bekezdésekben foglaltaknak megfelelően. Az ellenőrzött tőkepiaci ügylettel összefüggésben a befektetési szolgáltatót adó (adóelőleg)-levonási kötelezettség nem terheli.
 
 (5) A jövedelmet és az adót a jövedelmet szerző magánszemély
 
@@ -2159,6 +2179,33 @@ kell figyelembe venni.
 - b) a bizalmi vagyonkezelő – a magánszeméllyel mint vagyonrendelővel magánszemély mint kedvezményezett javára megkötött – bizalmi vagyonkezelési szerződés teljesítése céljából,
 
 azzal, hogy a szerződés szerint keletkező hozam adókötelezettségére e § rendelkezéseit kell alkalmazni, a hozammal kapcsolatban keletkező adókötelezettséget az alapítványi vagyon, a kezelt vagyon terhére a szerződő alapítvány, vagyonkezelő teljesíti, az e § szerinti rendelkezést, bevallási kötelezettséget az alapítvány, a vagyonkezelő tesz, teljesít.
+
+### Kriptoeszközzel végrehajtott ügyletből származó jövedelem
+
+67/C. § (1) Kriptoeszközzel végrehajtott ügyletből származó jövedelemnek minősül a magánszemély által kötött kriptoeszközzel végrehajtott ügylet(ek) alapján az adóévben elért ügyleti nyereség.
+
+(2) E törvény alkalmazásában kriptoeszközzel végrehajtott ügyletnek minősül az az ügylet, amelyben a magánszemély bárki számára megköthető, elérhető ügyletben kriptoeszkök átruházása, átengedése révén (ideértve a kriptoeszköz biztosította jog gyakorlását is) nem kriptoeszköz formájában vagyoni értéket szerez. Ügyleti nyereséget kell megállapítani (a meghaladó rész tekintetében) akkor, ha a tárgyévi ügyletek révén megszerzett bevételek összege meghaladja a kriptoeszközök megszerzésére és az ügyletekhez kapcsolódó díjakra, jutalékokra (ideértve a konkrét ügylethez nem kapcsolódó, de a kriptoeszközök tartásával összefüggő tárgyévi igazolt kiadásokat is) fordított tárgyévi igazolt kiadásokat. Ügyleti veszteséget kell megállapítani (a meghaladó rész tekintetében) akkor, ha az említett tárgyévi kiadások összege meghaladja a tárgyévi bevételek összegét. Ügyleti bevételt nem kell megállapítani, ha az ügyletből származó bevétel a minimálbér 10 százalékát nem haladja meg, feltéve, hogy a bevétel megszerzésének napjára más, azonos tárgyú ügyletből a magánszemély nem szerez bevételt, továbbá az adóévben e bevételek összege a minimálbért nem haladja meg.
+
+(3) Az ügyleti eredmény megállapítása során bevételként a kriptoeszköznek a kriptoeszköz átruházása, átengedése (vagy a jog gyakorlás megkezdése) időpontjára megállapított szokásos piaci értékét kell figyelembe venni.
+
+(4) Az ügyleti eredmény megállapítása során kriptoeszköz megszerzésére fordított kiadásként vehető figyelembe – ha azt a magánszemély a tárgyévben
+
+- a) vásárolta –, a megszerzésre fordított igazolt kiadás,
+- b) a kriptoeszköz előállítására (ún. bányászatára) vagy az ahhoz kapcsolódó rendszer működtetésében való közreműködésre („validálás” és hasonló tevékenységek) tekintettel szerezte –, a megszerzés alapjául szolgáló tevékenység érdekében felmerült, igazolt kiadás,
+- c) nem kriptoeszköz formájában létező vagyoni érték átruházására, átengedésére tekintettel szerezte –, e más vagyoni érték megszerzésére fordított igazolt kiadás, de legfeljebb e más vagyoni értéknek az átruházása, átengedése időpontjára meghatározott szokásos piaci értéke,
+- d) tevékenység, szolgáltatás nyújtás ellenértékeként vagy azzal összefüggésben szerezte –, megszerzett kriptoeszköz bevételszerzés időpontjára megállapított szokásos piaci értéke
+
+azzal, hogy a b) pont szerinti esetekben a megszerzés alapjául szolgáló tevékenység tekintetében bevételt megállapítani nem kell.
+
+(5) Ha a magánszemély az adóévben, az adóévet megelőző évben, vagy az adóévet megelőző két évben kriptoeszközzel végrehajtott ügyletből származó veszteséget ért el és azt a veszteség keletkezésének évéről szóló adóbevallásában feltünteti, adókiegyenlítésre jogosult, amelyet az adóbevallásában megfizetett adóként érvényesíthet a (6) és (7) bekezdés szerint.
+
+(6) A (5) bekezdés szerinti adókiegyenlítés az adóévben, vagy az azt megelőző két évben bevallott, kriptoeszközzel végrehajtott ügyletből származó veszteségnek és a 8. § (1) bekezdése szerinti, a bevalláskor hatályos adókulcsnak a szorzata, csökkentve az adóévet megelőző két év bármelyikéről szóló adóbevallásban kriptoeszközzel végrehajtott ügyletből származó veszteség miatt már érvényesített adókiegyenlítéssel, de legfeljebb a (7) bekezdés szerint meghatározott összeg.
+
+(7) A (6) bekezdésben meghatározott összeg az adóévben, vagy az azt megelőző két évben bevallott, kriptoeszközzel végrehajtott ügyletből származó jövedelem adója, csökkentve az adóévet megelőző két év bármelyikéről szóló adóbevallásban kriptoeszközzel végrehajtott ügyletből származó veszteség miatt már érvényesített adókiegyenlítéssel.
+
+(8) A magánszemély a kriptoeszközzel végrehajtott ügyletből származó jövedelmet és annak adóját az adóhatóság közreműködése nélkül elkészített bevallásában vagy az adóbevallási tervezet adatait kiegészítve vallja be, és az adót a bevallás benyújtására nyitva álló határidőig fizeti be.
+
+(9) E § alkalmazásában kriptoeszköznek minősül az érték vagy jogok digitális megjelenítője, amely megosztott főkönyvi technológia vagy hasonló technológia alkalmazásával elektronikusan átruházható és tárolható.
 
 ### A vállalkozásból kivont jövedelem
 
@@ -2320,7 +2367,7 @@ a magánszemély által meg nem térített része.
 - d) akadálymentesítés: a mozgáskorlátozott személy fogyatékossága jellegéből fakadó, a lakáshasználattal összefüggő életvitel nehézségeit csökkentő, a rendeltetésszerű használatot biztosító műszaki akadálymentesítési munkák elvégzése új lakóépületen vagy új lakáson, meglévő lakóépületen vagy használt lakáson;
 - e) lakószoba: legalább egy 2 méter széles – ajtó és ablak nélküli – falfelülettel is rendelkező lakóhelyiség; e rendelkezés alkalmazásában nem minősül lakószobának az a lakóhelyiség, amelynek hasznos alapterülete nem haladja meg a 8 négyzetmétert; a 8 négyzetméternél nagyobb, de 12 négyzetmétert meg nem haladó lakóhelyiségek esetében két ilyen lakóhelyiség egy lakószobaként vehető figyelembe.
 
-72/A. §
+#### 72/A. §
 
 ### XIV. Fejezet — VEGYES JÖVEDELMEK
 
@@ -2340,7 +2387,7 @@ a magánszemély által meg nem térített része.
 
 (7) A kifizető a termőföld bérbeadásából származó jövedelemből levont adót a föld fekvése szerint illetékes önkormányzati adóhatósághoz utalja át a kifizetést követő hó 12. napjáig. A levont adóról a kifizető adóbevallását a föld fekvése szerint illetékes önkormányzati adóhatósághoz az adóévet követő év február 25-éig nyújtja be.
 
-74. §
+#### 74. §
 
 ### Lakás önkormányzatnak történő bérbeadásából származó jövedelem
 
@@ -2461,7 +2508,9 @@ révén szerezte;
   - ba) az Európai Unión kívüli állammal a jövedelem- és vagyonadók tárgyában kötött nemzetközi szerződés szerint nem bír belföldi illetőséggel az Európai Unión kívüli államban, valamint
   - bb) a különböző tagállamok társaságait érintő egyesülésekre, szétválásokra, eszközátruházásokra és részesedéscserékre alkalmazandó közös adózási rendszerről szóló tanácsi irányelvben felsorolt jogi formában működik, és az említett irányelvekben meghatározott adó alanya anélkül, hogy ezzel kapcsolatban választási lehetőség vagy mentesség illetné meg.
 
-### Az értékpapírra vonatkozó jog révén megszerzettvagyoni érték
+### Az értékpapírra vonatkozó jog révén megszerzett
+
+vagyoni érték
 
 77/B. § (1) Értékpapírra vonatkozó vételi, jegyzési, eladási vagy más hasonló jog (kivéve a más értékpapírban megtestesülő jogot) átruházása (átengedése), megszüntetése, gyakorlásának átengedése vagy az ilyen jogról való lemondás címén a magánszemély által megszerzett bevételből az az összeg minősül jövedelemnek, amely meghaladja a jog megszerzésére fordított (ingyenes vagy kedvezményes jogszerzés esetében ideértve a jog megszerzésekor adóköteles bevételt is), a magánszemélyt terhelő igazolt kiadást (értéket), valamint az ügylettel összefüggő igazolt járulékos költséget. A jövedelmet a bevétel megszerzésének időpontjára kell megállapítani.
 
@@ -2635,11 +2684,11 @@ e tájékoztatási kötelezettség elmulasztása vagy nem megfelelő teljesíté
 
 ### Nyilatkozatok
 
-78/A. §
+#### 78/A. §
 
 ### Üzemanyagár
 
-78/B. §
+#### 78/B. §
 
 ### Felhatalmazások
 
@@ -2674,11 +2723,11 @@ e tájékoztatási kötelezettség elmulasztása vagy nem megfelelő teljesíté
 
 (6)
 
-81/A. §
+#### 81/A. §
 
-81/B. §
+#### 81/B. §
 
-81/C. §
+#### 81/C. §
 
 82. § (1) Az MNB a Magyar Közlönyben közzéteszi a hivatalos devizaárfolyam-lapján nem szereplő külföldi pénznemek euróban megadott árfolyamát.
 
@@ -2712,7 +2761,7 @@ e tájékoztatási kötelezettség elmulasztása vagy nem megfelelő teljesíté
 
 (13) A 2007. december 31-éig megvalósított értéknövelő beruházás esetén a magánszemély az e törvény 3. §-ának 2006. december 31-én hatályos 32. pontjának előírását is alkalmazhatja.
 
-83/A. §
+#### 83/A. §
 
 84. § (1) Ez a törvény a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt, az 1994. évi I. törvénnyel kihirdetett Európai Megállapodással összhangban az Európai Közösség következő jogszabályaihoz való közelítést célozza:
 
@@ -3053,6 +3102,15 @@ veszi figyelembe a személyijövedelemadó-bevallásban.
 
 100. § A családi gazdaságokról szóló 2020. évi CXXIII. törvénnyel megállapított 3. § 42. pontja 2019. január 1-jétől alkalmazható.
 
+101. § (1) A személyi jövedelemadóról szóló 1995. évi CXVII. törvény, valamint az adózás rendjéről szóló 2017. évi CL. törvény módosításáról szóló 2021. évi XXXIV. törvénnyel megállapított 29/F. §, 46. § (5) bekezdése, 48. § (3d), (3e) és (4a) bekezdése, valamint 49. § (1) és (8) bekezdése – a (2) bekezdésben foglalt eltéréssel – a 2021. december 31-ét követően megszerzett bevétel adókötelezettségére alkalmazható első alkalommal.
+
+(2) Munkaviszonyból származó jövedelem esetében az (1) bekezdés szerinti rendelkezések
+
+- a) a 2021. december 31-ét követő időszakra elszámolt,
+- b) a 2022. évet megelőző évre vonatkozó, de 2022. január 10-ét követően kifizetett bevétel adókötelezettségére alkalmazhatóak első alkalommal.
+
+(3) A személyi jövedelemadóról szóló 1995. évi CXVII. törvény, valamint az adózás rendjéről szóló 2017. évi CL. törvény módosításáról szóló 2021. évi XXXIV. törvénnyel megállapított 29/F. § (5) bekezdése a 2021. december 31-ét követően megkötött házasságok esetében alkalmazható. A 2022. január 1-jét megelőzően megkötött házasságok esetében a 29/F. § (5) bekezdése az első házasok kedvezménye érvényesítésének időszakából még hátralévő jogosultsági hónapok tekintetében alkalmazható.
+
 102. § (1) Az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 44/F. § az adózó örökösének kérelmére a hatálybalépését megelőzően keletkezett rendelkezési jogosultság esetében az elévülési időn belül is alkalmazható.
 
 (2) Az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 48. § (3b) bekezdését első alkalommal a 2022. adóévben kell alkalmazni.
@@ -3367,6 +3425,8 @@ b) az a) pont szerinti jövedelemnek és a méhészeti termékek előállítás�
 azzal, hogy amennyiben az őstermelői bevétel az adóévben az átalányadózás választására jogosító bevételi határt meghaladja, a 4.45. alpont rendelkezését kell alkalmazni.
 
 4.47. a súlyosan hátrányos helyzetű munkavállalókat a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló kormányrendelet alapján megillető munkavállalást ösztönző juttatás a kifizetés időpontjától függetlenül.
+
+4.48. az átalányadózást alkalmazó egyéni vállalkozó e tevékenységéből származó jövedelmének az éves minimálbér felét meg nem haladó rész;
 
 4.49. a magánszemély által nem egyéni vállalkozói tevékenység keretében a villamos energiáról szóló törvény szerinti
 
@@ -3717,6 +3777,8 @@ az adóévben legfeljebb – az a) és b) pont szerinti juttatási körben kül�
 8.42. az Európai Unió valamely pénzügyi alapja vagy az államháztartás valamely alrendszerének költségvetése terhére elnyert támogatásból a Családbarát Ország projekt keretében nem pénzben biztosított juttatás, így különösen a babacsomag, a kelengyecsomag.
 
 8.43. a hallgatók, diákok, oktatók széles köre számára köznevelési intézmény, szakképző intézmény vagy felsőoktatási intézmény által működési körében meghirdetett rendezvény – ideértve a közösségépítő, hagyományőrző rendezvényeket is – keretében nyújtott szolgáltatás, továbbá a rendezvény összes költségének 10 százalékát meg nem haladó mértékben biztosított vendéglátás, a juttatás időpontjától függetlenül, akkor is, ha a rendezvényen a tanulókon, hallgatókon, tanárokon, oktatókon kívül más személy is részt vehet.
+
+8.44. kifizető által biztosított – kizárólag emberi erővel hajtott vagy legfeljebb 300 W teljesítményű elektromos motorral segített – kerékpár magáncélú használata.
 
 9. Adómentességre vonatkozó vegyes rendelkezések:
 
@@ -4202,7 +4264,9 @@ Az átalányadót vagy tételes átalányadót (a továbbiakban együtt: átalá
 - 5. Az adó megfizetésére az árfolyamnyereség utáni adózás szabályait kell alkalmazni.
 - 6. Az 1–5. pontban foglaltak alapján nem számít bevételnek (és jövedelemnek) a lízingbe vevő magánszemélynél a lízingbe vett társaság által vezetési-szervezési szolgáltatás címén rendkívüli ráfordításként elszámolt és lízingdíjként átutalt összeg, továbbá ez az összeg a magánszemélynél költségként nem érvényesíthető.
 
-### 10. számú melléklet a személyi jövedelemadóról szóló1995. évi CXVII. törvényhez
+### 10. számú melléklet a személyi jövedelemadóról szóló
+
+1995. évi CXVII. törvényhez
 
 Az egyéni vállalkozó bevételeinek elszámolásáról
 
@@ -4268,7 +4332,9 @@ III. Egyéb rendelkezések
 
 4. Ha az egységes területalapú támogatást a magánszemély köteles visszafizetni, a visszafizetés összegével annak az adóévnek a bevételét csökkenti, amely adóévben a visszafizetés megtörtént.
 
-### 11. számú melléklet a személyi jövedelemadóról szóló1995. évi CXVII. törvényhez
+### 11. számú melléklet a személyi jövedelemadóról szóló
+
+1995. évi CXVII. törvényhez
 
 A vállalkozói költségek elszámolásáról
 
@@ -4492,7 +4558,7 @@ a) Épületek
 
 A felsorolt csoportokon belül az épületek műszaki ismérvek szerinti besorolása:
 
-| A csoport megnevezése | Felmenő (függőleges teherhordó) szerkezet | Kitöltő (nem teherhordó) falazat | Vízszintes teherhordó szerkezet (közbenső és tetőfödém, illetve egyesített teherhordó, térelhatároló tetőszerkezet) |
+| A csoportmegnevezése | Felmenő(függőlegesteherhordó) szerkezet | Kitöltő(nem teherhordó)falazat | Vízszintesteherhordó szerkezet (közbenső éstetőfödém, illetve egyesítettteherhordó,térelhatárolótetőszerkezet) |
 | --- | --- | --- | --- |
 | Hosszú élettartamú szerkezet | Beton- és vasbeton, égetett tégla-, kő-, kohósalak- és acélszerkezet | Tégla, blokk, panel, öntött falazat, fémlemez, üvegbeton és profilüveg | Előregyártott és monolit vasbeton acéltartók közötti kitöltő elem, valamint boltozott födém |
 | Közepes élettartamú szerkezet | Könnyűacél és egyéb fémszerkezet, gázszilikát szerkezet, bauxitbeton szerkezet, tufa- és salakblokk szerkezet, fűrészelt faszerkezet, vályogfal szigetelt alapokon | Azbeszt, műanyag és egyéb függönyfal | Fagerendás (borított és sűrűgerendás), mátrai födém, könnyű acélfödém, illetve egyesített acél tetőszerkezet könnyű kitöltő elemekkel |
@@ -4506,7 +4572,7 @@ Az épületbe beépített technológiai gépek és berendezések, az ezeket kisz
 
 b) Építmények
 
-| Építménycsoportok | Évi leírási kulcs % |
+| Építménycsoportok | Évi leírási kulcs% |
 | --- | --- |
 | Ipari építmények | 2,0 |
 | Mezőgazdasági építmények | 3,0 |
@@ -4707,9 +4773,13 @@ IV. A jövedelem megállapításakor költségként figyelembe nem vehető kiad�
 
 15. az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint létesített munkaviszonyban foglalkoztatott részére a vállalkozó által az egy napi munkáért kifizetett munkabérből a minimálbér napi összegének kétszeresét meghaladó mértékű kifizetés.
 
-### 12. számú melléklet a személyi jövedelemadóról szóló1995. évi CXVII. törvényhez
+### 12. számú melléklet a személyi jövedelemadóról szóló
 
-### 13. számú melléklet a személyi jövedelemadóról szóló1995. évi CXVII. törvényhez
+1995. évi CXVII. törvényhez
+
+### 13. számú melléklet a személyi jövedelemadóról szóló
+
+1995. évi CXVII. törvényhez
 
 #### A vállalkozói adókedvezményekről
 

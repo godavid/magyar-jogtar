@@ -1568,6 +1568,8 @@ fegyelmi büntetés szabható ki.
 
 (8) Ahol a Munka Törvénykönyve vagy a közalkalmazottak jogállásáról szóló törvény munkáltatóról rendelkezik, azon a tankerületi központot, továbbá – az intézményvezető számára e törvény által biztosított munkáltatói jogok tekintetében – a tankerületi központ által fenntartott köznevelési intézményt kell érteni.
 
+(9) A közalkalmazotti jogviszony vagy munkaviszony létesítésével és megszüntetésével összefüggésben a munkáltató jogszabályban meghatározott feltételekkel igénybe veheti, és foglalkoztatottjai számára nyújthatja a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
+
 #### 35. A pedagógus kötelességei és jogai
 
 62. § (1) A pedagógus alapvető feladata a rábízott gyermekek, tanulók nevelése, oktatása, óvodában a gyermekek Óvodai nevelés országos alapprogramja szerinti nevelése, iskolában a kerettantervben előírt törzsanyag átadása, elsajátításának ellenőrzése, sajátos nevelési igényű tanuló esetén az egyéni fejlesztési tervben foglaltak figyelembevételével. Ezzel összefüggésben kötelessége különösen, hogy

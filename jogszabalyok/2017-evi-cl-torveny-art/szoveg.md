@@ -669,7 +669,10 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
 - 7a. a természetes személy tekintetében az Szja tv. 29/D. § szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
   - a) a kedvezményre jogosító valamennyi gyermek nevét, adóazonosító jelét (adóazonosító jel hiányában a természetes személyazonosító adatait),
   - b) az Szja tv. 29/D. § (2) bekezdés szerint a kedvezmény alapját képező jövedelmeket jogcímenként,
-- 8. a 6. és 7. pont szerinti kedvezmény esetében a változás bekövetkezésének időpontját, ha a természetes személy az adóelőleg-nyilatkozat tartalmát érintő változás miatt új nyilatkozatot ad a munkáltató, kifizető részére,
+- 7b. a természetes személy tekintetében az Szja tv. 29/F. §-a szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
+  - a) a születési idejét,
+  - b) az Szja tv. 29/F. § (2) bekezdése szerint a kedvezmény alapját képező jövedelmeket jogcímenként,
+- 8. a 6–7b. pont szerinti kedvezmény esetében a változás bekövetkezésének időpontját, ha a természetes személy az adóelőleg-nyilatkozat tartalmát érintő változás miatt új nyilatkozatot ad a munkáltató, kifizető részére,
 - 9. a társadalombiztosítási járulék alapját képező jövedelmet, a társadalombiztosítási járulék-köteles jutalom összegét, illetve a levont társadalombiztosítási járulék összegét,
 - 10. a társadalombiztosítási járulék levonása, illetve levonás elmaradásának okát,
 - 11. a tárgyhónaptól eltérő biztosítási jogviszony időtartamát, amelyre tekintettel a tárgyhónapban járulékalapot képező jövedelem kifizetésére került sor, illetve az ezen időtartamra vonatkozó levont társadalombiztosítási járulék alapját és összegét,
@@ -689,6 +692,8 @@ besorolási rendjét kell irányadónak tekinteni. A besorolási rend ezt követ
   - c) amely után az egyéni vállalkozó e minőségében adóköteles,
   - d) amelyet az ingó vagyontárgy, ingatlan, vagyoni értékű jog átruházása ellenében nem árverés és nem aukció során kap a természetes személy,
   - e) amely után az adó megfizetése a kifizetőt terheli,
+- 22a. a természetes személynek kifizetett (juttatott) az Európai Gazdasági Térség bármely tagállamában működő, a tőkepiacról szóló törvény szerint elismert (szabályozott) piacnak minősülő tőzsdére bevezetett értékpapírnak az adott tagállam joga szerint osztaléknak, osztalékelőlegnek minősülő hozamát,
+- 22b. a szociális hozzájárulási adóról szóló 2018. évi LII. törvény 1. § (5) bekezdés a)–d) pontjában nevesített külön adózó jövedelmek címén a természetes személynek kifizetett (juttatott) bevétel esetén az arra vonatkozó adatot, hogy e személy a Tbj. szerint külföldinek minősül-e,
 - 23. a természetes személlyel elszámolandó adókülönbözetet,
 - 24. a START-, START PLUSZ-, START EXTRA, START BÓNUSZ, valamint Rehabilitációs kártyával rendelkező személy után, valamint a Karrier Híd programban részt vevő személy után a kedvezmény figyelembevétele nélkül számított szociális hozzájárulási adó alapját és összegét, továbbá a jogszabály szerint meghatározott szociális hozzájárulási adóból igénybevett részkedvezmény alapját és összegét, valamint a jogszabály szerint gyermekgondozási szabadságról visszatérő munkavállaló és az ő gyermekgondozási szabadságának időtartama alatt munkakörében foglalkoztatott vagy gyermekgondozási szabadságának lejártát követően a vele azonos vagy hasonló munkakörben foglalkoztatott munkavállaló részmunkaidős foglalkoztatása után a foglalkoztató által igénybevett szociális hozzájárulási adóból igénybevett részkedvezmény összegét,
 - 25. a társas vállalkozóként biztosított, egyidejűleg több gazdasági társaság személyesen közreműködő tagja Tbj. 42. § (4) bekezdése szerinti nyilatkozatában foglalt választását,
@@ -1396,6 +1401,40 @@ Az állami adó- és vámhatóság vezetője a nemzetgazdaság aktuális állapo
 
 Az állami adó- és vámhatóság az ingatlan forgalmi értékének megállapításához szükséges, a visszterhes vagyonátruházási illeték kiszabása során felvett adatokat tartalmazó nyilvántartásából kérelemre, igazgatási szolgáltatási díj ellenében adatszolgáltatást teljesít.
 
+#### 112/A. § [Adatszolgáltatás családi pótlékról, házasságról, élettársi kapcsolatról, várandósságról]
+
+(1) A kincstár elektronikus úton adatot szolgáltat az állami adó- és vámhatóság részére havonta, a tárgyhónapot követő hónap 5. napjáig azoknak a magánszemélyeknek az adatairól, akiknek a tárgyhónapban családi pótlékot folyósított. Az adatszolgáltatás tartalmazza
+
+- a) a jogosult, az ellátásra jogosító gyermek természetes személyazonosító adatait, TAJ számát, és – ha az rendelkezésre áll – adóazonosító jelét;
+- b) a jogosult házastársának, bejegyzett élettársának vagy élettársának természetes személyazonosító adatait, TAJ számát és – ha az rendelkezésre áll – adóazonosító jelét;
+- c) a jogosult családi állapotára, élettársi kapcsolatára vonatkozó adatot;
+- d) az ellátásra jogosító gyermek tanulói, hallgatói jogviszonyának fennállására vonatkozó adatot;
+- e) a jogosult és az ellátásra jogosító gyermek lakó-, illetve tartózkodási helyére vonatkozó adatot;
+- f) a jogosult házastársa, bejegyzett élettársa, élettársa lakó-, illetve tartózkodási helyére vonatkozóan rendelkezésre álló adatot;
+- g) az ellátás kifizetésével összefüggő adatot (fizetési számlaszám vagy postai utalási cím).
+
+(2) Az (1) bekezdés szerinti adatokról a honvédelemért felelős miniszter által vezetett minisztérium mint családtámogatási kifizetőhely is adatszolgáltatást teljesít elektronikus úton az állami adó- és vámhatóság részére havonta, a tárgyhónapot követő hónap 5. napjáig.
+
+(3) Az állami adó- és vámhatóság megkeresésére 8 napon belül elektronikus úton adatot szolgáltat az alábbi adatokról:
+
+- a) a Magyar Országos Közjegyzői Kamara az Élettársi Nyilatkozatok Nyilvántartásába élettársként bejegyzett magánszemélyek
+  - aa) természetes személyazonosító adatairól,
+  - ab) élettársi kapcsolatának fennállásáról, annak kezdő időpontjáról, illetve megszűnése időpontjáról;
+- b) az Országos Kórházi Főigazgatóság az Elektronikus Egészségügyi Szolgáltatási Tér útján a magánszemély nyilatkozatában a várandósságra vonatkozóan közölt adatok megerősítése érdekében a várandósság tényéről, valamint, ha az rendelkezésre áll, a várandósság 91. napjának betöltéséről;
+- c) az elektronikus anyakönyvi nyilvántartást működtető szerv az elektronikus anyakönyvnek a házassággal összefüggésben nyilvántartott adatai közül
+  - ca) a házastársak természetes személyazonosító adatairól,
+  - cb) a házasságkötés időpontjáról,
+  - cc) a házasság megszűnésének, felbontásának vagy érvénytelenné nyilvánításának tényéről, időpontjáról.
+
+(4) Az (1)–(3) bekezdés szerinti adatszolgáltatás adatait az állami adó- és vámhatóság
+
+- a) az Szja. tv. szerinti adóbevallási tervezethez kapcsolódó eljárásban,
+- b) az Szja. tv. szerinti az összevont adóalapot csökkentő, az összevont adóalap adójából igénybe vehető kedvezmények ellenőrzéshez,
+- c) kockázatelemzési eljáráshoz,
+- d) végrehajtáshoz
+
+használhatja fel.
+
 ### XI. Fejezet — AZ ELEKTRONIKUS KÖZÚTI ÁRUFORGALOM ELLENŐRZŐ RENDSZERHEZ KAPCSOLÓDÓ KÖTELEZETTSÉGEK
 
 #### 113. § [Az Elektronikus Közúti Áruforgalom Ellenőrző Rendszerhez kapcsolódó kötelezettségek]
@@ -1736,6 +1775,8 @@ Ha az adózó adózásával összefüggésben olyan valótlan tényt, adatot vag
 (26) Ha az állami adó- és vámhatóság a személygépkocsival személyszállítási szolgáltatást végző adózó tekintetében a nyugtaadási kötelezettségek megsértését állapítja meg, akkor az erről szóló véglegessé vált döntését haladéktalanul megküldi a személyszállítási szolgáltatást folytató vállalkozás működési területén illetékes közlekedési hatóság részére, a személygépkocsival díj ellenében végzett közúti személyszállításról szóló kormányrendeletben meghatározott, a tevékenységi engedély visszavonása és a tevékenység végzéstől történő eltiltás feltételeinek vizsgálata céljából.
 
 (27) Az állami adóhatóság az Egységes Szociális Ellátások Ügyvitel-támogató Rendszer útján adatot szolgáltat a fővárosi és megyei kormányhivatal részére a szociális igazgatásról szóló törvény szerinti szociális ellátások és támogatások, a gyermektartásdíj megelőlegezésének és a hadigondozottak ellátásának megállapításával, ellenőrzésével és folyósításával összefüggésben szükséges adatokról.
+
+(28) Az állami adó- és vámhatóság ellenőrzi az elektronikus építési naplóban rögzítendő adószám érvényességét, amelynek eredményét az elektronikus építési napló részére automatikus adattovábbítással átadja.
 
 #### 132. § [Az állami adó- és vámhatóság adatszolgáltatása az állami támogatásokról]
 
@@ -3521,6 +3562,8 @@ A közúti közlekedési nyilvántartási szerv a 87. § (3) bekezdése szerinti
 
 (3) A Nemzeti Adó- és Vámhivatalnál 2021. szeptember 30-án folyamatban lévő szokásos piaci ár megállapítására irányuló eljárásokat 2021. október 1-jétől az adópolitikáért felelős miniszter folytatja le.
 
+(4) A Módtv7-tel megállapított 3. melléklet I. 4. pontját a hatálybalépést megelőzően az állami adó- és vámhatóság által megállapított, de a hatálybalépést követően esedékessé váló kötelezettségek megfizetésére, valamint a 2022. január 1-jét követően indult eljárásokban és az ugyanezen időpontot követően megkezdett megismételt eljárásokban kell alkalmazni.
+
 #### 275. § [Az Európai Unió jogának való megfelelés]
 
 (1) E törvény 106. § (5) és (10) bekezdése, 107. § (5), (7) bekezdése és (8) bekezdés d) pontja, 108. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
@@ -3801,7 +3844,7 @@ AZ ÁLLAMI ADÓ- ÉS VÁMHATÓSÁGHOZ TELJESÍTENDŐ BEFIZETÉSEK
 
 3. Az adózó az 53. § (3) bekezdésében meghatározott bevallási kötelezettség teljesítésének határidejéig az adót is köteles megfizetni.
 
-4. Az állami adó- és vámhatóságnál nyilvántartott adót, vagy egyéb fizetési kötelezettséget – a természetes személy által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, szociális hozzájárulási adót járulékot, az illetéket, a cégautóadót, az egyszerűsített foglalkoztatással összefüggésben fizetendő összeget, valamint a vámhatóság által kiszabott vámokat és a vámmal együtt kiszabott nem közösségi adókat és díjakat kivéve –, és a költségvetési támogatást ezer forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautó-adót kerekítés nélkül forintban kell megfizetnie. A Tbj. és az Efo tv. alapján fizetendő közterhek kivételével az adózónak az ezer forintot el nem érő adóját nem kell megfizetnie, és az adóhatóság az ezer forintot el nem érő adó-visszatérítést, -visszaigénylést nem utalja ki és nem tartja nyilván.
+4. Az állami adó- és vámhatóságnál nyilvántartott adót, vagy egyéb fizetési kötelezettséget – a természetes személy által fizetett jövedelemadót, különadót, egyszerűsített közteherviselési hozzájárulást, szociális hozzájárulási adót járulékot, egészségügyi szolgáltatási járulékot, az illetéket, a cégautóadót, a belföldi gépjárművek adóját, az egyszerűsített foglalkoztatással összefüggésben fizetendő összeget, valamint a vámhatóság által kiszabott vámokat és a vámmal együtt kiszabott nem közösségi adókat és díjakat kivéve –, és a költségvetési támogatást ezer forintra kerekítve kell megfizetni. Az adózónak – személyétől függetlenül – a cégautóadót és a belföldi gépjárművek adóját kerekítés nélkül forintban kell megfizetnie. A Tbj. és az Efo tv. alapján fizetendő közterhek kivételével az adózónak az ezer forintot el nem érő adóját nem kell megfizetnie, és az adóhatóság az ezer forintot el nem érő adó-visszatérítést, -visszaigénylést nem utalja ki és nem tartja nyilván.
 
 Határidők
 

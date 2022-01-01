@@ -569,7 +569,7 @@ E törvényt kell alkalmazni a hatálya alá tartozó olyan kérdésekben, amely
 
 (3) A jogi személy személyhez fűződő jogaira a személyiségi jogokra vonatkozó szabályokat kell alkalmazni, kivéve, ha a védelem jellegénél fogva csupán az embert illetheti meg.
 
-(4) A jogi személy törvényben meghatározott típusban, törvény által nem tiltott tevékenység folytatására és cél elérése érdekében alapítható és működtethető; az e rendelkezésbe ütköző létesítő okirat semmis.
+(4) A jogi személy törvényben meghatározott típusban, törvény által nem tiltott tevékenység folytatására és cél elérése érdekében alapítható és működtethető.
 
 (5) A jogi személynek saját névvel, székhellyel, tagjaitól, illetve alapítójától elkülönített vagyonnal, valamint az ügyvezetését és képviseletét ellátó szervezettel kell rendelkeznie.
 
@@ -738,7 +738,7 @@ Ha e törvény jogi személyre vonatkozó szabálya közzétételi kötelezetts�
 
 (2) Az ülés tartása nélküli döntéshozatal során e törvénynek a határozatképességre és szavazásra vonatkozó rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a határozathozatali eljárás akkor eredményes, ha legalább annyi szavazatot megküldenek az ügyvezetés részére, amennyi szavazati jogot képviselő tag vagy alapító jelenléte a határozatképességéhez szükséges lenne ülés tartása esetén.
 
-(3) Ha bármely tag vagy alapító az ülés megtartását kívánja, a legfőbb szerv ülését az ügyvezetésnek össze kell hívnia.
+(3) Ha bármely tag vagy alapító az ülés megtartását kívánja, a döntéshozó szerv ülését az ügyvezetésnek össze kell hívnia.
 
 (4) A szavazásra megszabott határidő utolsó napját követő három napon belül – ha valamennyi tag vagy alapító szavazata ezt megelőzően érkezik meg, akkor az utolsó szavazat beérkezésének napjától számított három napon belül – az ügyvezetés megállapítja a szavazás eredményét, és azt további három napon belül közli a tagokkal vagy az alapítókkal. A határozathozatal napja a szavazási határidő utolsó napja, ha valamennyi szavazat korábban beérkezik, akkor az utolsó szavazat beérkezésének napja.
 
@@ -770,7 +770,7 @@ Ha e törvény jogi személyre vonatkozó szabálya közzétételi kötelezetts�
 
 (1) A vezető tisztségviselő a jogi személy tagjai, tagság nélküli jogi személy esetén a jogi személy alapítói részére köteles a jogi személyre vonatkozóan felvilágosítást adni, és számukra a jogi személyre vonatkozó iratokba és nyilvántartásokba betekintést biztosítani. A felvilágosítást és az iratbetekintést a vezető tisztségviselő a jogosult által tett írásbeli titoktartási nyilatkozat tételéhez kötheti.
 
-(2) A vezető tisztségviselő megtagadhatja a felvilágosítást és az iratokba való betekintést, ha ez a jogi személy üzleti titkát sértené, ha a felvilágosítást kérő a jogát visszaélésszerűen gyakorolja, vagy felhívás ellenére nem tesz titoktartási nyilatkozatot. Ha a felvilágosítást kérő a felvilágosítás megtagadását indokolatlannak tartja, a nyilvántartó bíróságtól kérheti a jogi személy kötelezését a felvilágosítás megadására.
+(2) A vezető tisztségviselő megtagadhatja a felvilágosítást és az iratokba való betekintést, ha ez a jogi személy üzleti titkát sértené, ha a felvilágosítást kérő a jogát visszaélésszerűen gyakorolja, vagy felhívás ellenére nem tesz titoktartási nyilatkozatot. Ha a felvilágosítást kérő a felvilágosítás megtagadását indokolatlannak tartja, a nyilvántartó bíróságtól kérheti a jogi személy kötelezését a felvilágosítás megadására és az iratbetekintés biztosítására.
 
 #### 3:24. § [A vezető tisztségviselő felelőssége]
 
@@ -788,7 +788,7 @@ Ha e törvény jogi személyre vonatkozó szabálya közzétételi kötelezetts�
 - d) lemondással;
 - e) a vezető tisztségviselő halálával vagy jogutód nélküli megszűnésével;
 - f) a vezető tisztségviselő cselekvőképességének a tevékenysége ellátásához szükséges körben történő korlátozásával;
-- g) a vezető tisztségviselővel szembeni kizáró vagy összeférhetetlenségi ok bekövetkeztével.
+- g) a vezető tisztségviselővel szembeni kizáró ok bekövetkeztével.
 
 (2) A jogi személy tagjai, tagság nélküli jogi személy esetén a jogi személy alapítói a vezető tisztségviselőt bármikor, indokolás nélkül visszahívhatják.
 
@@ -802,7 +802,7 @@ Ha e törvény jogi személyre vonatkozó szabálya közzétételi kötelezetts�
 
 (1) A tagok vagy az alapítók a létesítő okiratban három tagból álló felügyelőbizottság létrehozását rendelhetik el azzal a feladattal, hogy az ügyvezetést a jogi személy érdekeinek megóvása céljából ellenőrizze.
 
-(2) A felügyelőbizottság tagja az a nagykorú személy lehet, akinek cselekvőképességét a tevékenysége ellátásához szükséges körben nem korlátozták. Nem lehet a felügyelőbizottság tagja, akivel szemben a vezető tisztségviselőkre vonatkozó kizáró ok áll fenn, továbbá aki vagy akinek a hozzátartozója a jogi személy vezető tisztségviselője.
+(2) A felügyelőbizottság tagja az a nagykorú személy lehet, akinek cselekvőképességét a tevékenysége ellátásához szükséges körben nem korlátozták. Ha a felügyelőbizottsági tag jogi személy, a jogi személy köteles kijelölni azt a természetes személyt, aki a felügyelőbizottsági tagi feladatokat a nevében ellátja. A felügyelőbizottsági tagokra vonatkozó szabályokat a kijelölt személyre is alkalmazni kell. Nem lehet a felügyelőbizottság tagja, akivel szemben a vezető tisztségviselőkre vonatkozó kizáró ok áll fenn, továbbá aki vagy akinek a hozzátartozója a jogi személy vezető tisztségviselője.
 
 (3) A felügyelőbizottság tagjai a felügyelőbizottság munkájában személyesen kötelesek részt venni. A felügyelőbizottság tagjai a jogi személy ügyvezetésétől függetlenek, tevékenységük során nem utasíthatóak.
 
@@ -816,7 +816,7 @@ Ha e törvény jogi személyre vonatkozó szabálya közzétételi kötelezetts�
 
 (2) A felügyelőbizottság a jogi személy irataiba, számviteli nyilvántartásaiba, könyveibe betekinthet, a vezető tisztségviselőktől és a jogi személy munkavállalóitól felvilágosítást kérhet, a jogi személy fizetési számláját, pénztárát, értékpapír- és áruállományát, valamint szerződéseit megvizsgálhatja és szakértővel megvizsgáltathatja.
 
-(3) A felügyelőbizottság határozatait a jelenlévők szótöbbségével hozza. A létesítő okirat ennél alacsonyabb határozathozatali arányt előíró rendelkezése semmis.
+(3) A felügyelőbizottság határozatait a jelenlévők szótöbbségével hozza.
 
 #### 3:28. § [A felügyelőbizottság tagjainak felelőssége]
 
@@ -938,7 +938,7 @@ Nem alakulhat át a jogi személy, ha
 
 (1) Az átalakulásról a tagok vagy alapítók az átalakulási terv elfogadásával határoznak; e határozatot a döntéshozó szerv legalább háromnegyedes szótöbbséggel hozza meg.
 
-(2) Az elfogadott átalakulási tervet az átalakulásról hozott döntéssel együtt közzé kell tenni. Az a hitelező, akinek követelése a közzététel előtt keletkezett, a közzétételtől számított harmincnapos jogvesztő határidőn belül az átalakuló jogi személytől megfelelő biztosítékot követelhet, ha az átalakulás követelésének kielégítését veszélyezteti.
+(2) Az átalakulási terv elfogadását követően a jogi személy az átalakulásról két alkalommal közleményt tesz közzé. Az a hitelező, akinek követelése az első közzététel előtt keletkezett, a második közzétételtől számított harmincnapos jogvesztő határidőn belül az átalakuló jogi személytől megfelelő biztosítékot követelhet, ha az átalakulás követelésének kielégítését veszélyezteti.
 
 (3) Az átalakulással létrejövő jogi személy nyilvántartásba vételével egyidejűleg az átalakulással megszűnő jogi személyt törölni kell a nyilvántartásból. A létrejövő jogi személy nyilvántartásba vételéig az átalakuló jogi személy a bejegyzett jogi személy típusban folytatja tevékenységét.
 
@@ -983,7 +983,7 @@ A jogi személy egyesülésére és szétválására az átalakulásra vonatkoz�
 
 - a) határozott időre jött létre és a meghatározott időtartam eltelt;
 - b) megszűnése meghatározott feltétel bekövetkezéséhez kötött és e feltétel bekövetkezett;
-- c) a tagok vagy alapítók kimondják megszűnését; vagy
+- c) a tagok vagy alapítók legalább háromnegyedes szótöbbséggel kimondják megszűnését; vagy
 - d) az arra jogosult szerv megszünteti
 
 feltéve mindegyik esetben, hogy a jogi személy vagyoni viszonyainak lezárására irányuló megfelelő eljárás lefolytatását követően a bíróság a jogi személyt a nyilvántartásból törli.
@@ -1027,11 +1027,11 @@ feltéve mindegyik esetben, hogy a jogi személy vagyoni viszonyainak lezárás�
 (4) A közleménynek tartalmaznia kell
 
 - a) az uralmi szerződést; és
-- b) az ellenőrzött tagok hitelezőinek és részvényeseinek szóló felhívást.
+- b) az ellenőrzött tagok hitelezőinek és tagjainak szóló felhívást.
 
 (5) Az uralkodó tag ügyvezetésének az utolsó jóváhagyásról való tudomásszerzésétől számított hatvan napon belül a nyilvántartó bíróságnak be kell nyújtani a vállalatcsoportként való működés tényének a bejegyzésére vonatkozó kérelmet.
 
-#### 3:52. § [Az ellenőrzött társaságok tagjainak és hitelezőinek jogosultságai]
+#### 3:52. § [Az ellenőrzött jogi személyek tagjainak és hitelezőinek jogosultságai]
 
 (1) A vállalatcsoportba ellenőrzött tagként belépő jogi személyek tagjai a vállalatcsoport megalakulásáról szóló közlemény második közzétételét követő harmincnapos jogvesztő határidőn belül kérhetik, hogy az uralkodó tag részesedésüket a közlemény közzétételekor fennálló piaci értéken vásárolja meg.
 
@@ -1119,6 +1119,8 @@ Az uralmi szerződésben foglaltak lényeges vagy ismételt megszegése esetén 
 (4) Az egyesület vagyonát céljának megfelelően használhatja, vagyonát nem oszthatja fel tagjai között, és a tagok részére nyereséget nem juttathat.
 
 (5) Az egyesület alapszabálya az egyesület valamely szervezeti egységét jogi személlyé nyilváníthatja.
+
+(6) Az alapszabályban az egyesület célja mellett meg kell határozni a célok megvalósítása érdekében végezni kívánt, alapcél szerinti tevékenységeket.
 
 #### 3:64. § [Létesítés]
 
@@ -1252,7 +1254,7 @@ Az egyesület ügyvezetését az egyesület ügyvezetője vagy az elnökség lá
 
 (2) Az elnökség tagjai kötelesek a közgyűlésen részt venni, a közgyűlésen az egyesülettel kapcsolatos kérdésekre válaszolni, az egyesület tevékenységéről és gazdasági helyzetéről beszámolni.
 
-(3) Az elnökség határozatait a jelenlévők egyszerű szótöbbségével hozza. Az alapszabály ennél alacsonyabb határozathozatali arányt előíró rendelkezése semmis.
+(3) Az elnökség határozatait a jelenlévők egyszerű szótöbbségével hozza.
 
 #### 3:79. § [A vezető tisztségviselői megbízatás]
 
@@ -1294,7 +1296,7 @@ Az ügyvezetés feladatkörébe tartozik
 
 #### 3:82. § [A felügyelőbizottság létrehozásának kötelező esetei]
 
-(1) Kötelező felügyelőbizottságot létrehozni, ha a tagok több mint fele nem természetes személy, vagy ha a tagság létszáma a száz főt meghaladja. Az alapszabály ettől eltérő rendelkezése semmis
+(1) Kötelező felügyelőbizottságot létrehozni, ha a tagok több mint fele nem természetes személy, vagy ha a tagság létszáma a száz főt meghaladja. Az alapszabály ettől eltérő rendelkezése semmis.
 
 (2) A felügyelőbizottság feladata az egyesületi szervek, valamint a jogszabályok, az alapszabály és az egyesületi határozatok végrehajtásának, betartásának ellenőrzése.
 
@@ -1421,6 +1423,24 @@ A gazdasági társaság létesítő okirata – a részvénytársaság és az eg
 
 (3) A létesítő okiratnak az (1) és a (2) bekezdésben foglalt szabályokkal ellentétes rendelkezése semmis.
 
+#### 3:99/A. § [A pótbefizetés]
+
+(1) Ha a társaság létesítő okirata feljogosítja a legfőbb szervet arra, hogy a veszteségek fedezésére pótbefizetési kötelezettséget írjon elő a tagok számára, meg kell határozni azt a legmagasabb összeget, amelynek befizetésére a tag kötelezhető, továbbá a pótbefizetés elrendelhetőségének gyakoriságát.
+
+(2) A pótbefizetés teljesítésének módját, ütemezését és teljesítésének határidejét a pótbefizetés elrendeléséről szóló legfőbb szervi határozatban kell meghatározni. A pótbefizetés összege a tag vagyoni hozzájárulását nem növeli. A pótbefizetés a nem pénzbeli vagyoni hozzájárulásokkal szemben érvényesülő követelményeknek megfelelő nem pénzbeli szolgáltatás útján is teljesíthető.
+
+(3) A pótbefizetési kötelezettséget a tag vagyoni hozzájárulása arányában kell meghatározni és teljesíteni.
+
+(4) A pótbefizetés késedelmes teljesítése vagy teljesítésének elmulasztása esetén a tag vagyoni hozzájárulásának nemteljesítésére vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+
+(5) A legfőbb szerv eltérő határozata hiányában a veszteség pótlásához nem szükséges pótbefizetéseket a visszafizetés időpontjában a társasággal tagsági jogviszonyban álló tagok részére vissza kell fizetni. A visszafizetésre a vagyoni hozzájárulások teljes befizetése után kerülhet sor.
+
+(6) Korlátolt felelősségű társaság esetén a saját üzletrészre, zártkörűen működő részvénytársaság esetén a saját részvényre jutó pótbefizetést nem kell visszafizetni.
+
+(7) Egyszemélyes korlátolt felelősségű társaság és egyszemélyes részvénytársaság esetén a pótbefizetés előírásához létesítő okiratba foglalt rendelkezésre nincs szükség. A pótbefizetés feltételeit az alapítónak vagy az egyedüli tagnak a határozatában kell megállapítania.
+
+(8) A nyilvánosan működő részvénytársaság alapszabálya pótbefizetésről nem rendelkezhet. Az alapszabály ettől eltérő rendelkezése semmis.
+
 #### 3:100. § [A társaság alapításának bírósági bejelentése]
 
 (1) Gazdasági társaság alapítását a létesítő okirat közjegyzői okiratba foglalásától vagy ügyvédi vagy kamarai jogtanácsosi ellenjegyzésétől számított harminc napon belül be kell jelenteni a nyilvántartó bíróságnak.
@@ -1455,9 +1475,9 @@ A gazdasági társaság létesítő okirata – a részvénytársaság és az eg
 
 (2) A társaság cégnevének, székhelyének, telephelyeinek, fióktelepeinek, és a társaság – főtevékenységnek nem minősülő – tevékenységi körének megváltoztatásáról a legfőbb szerv egyszerű szótöbbséggel hoz határozatot.
 
-(3) Valamennyi tag egyhangú határozatára van szükség, ha a módosítás egyes tagok jogait hátrányosan érintené, vagy helyzetét terhesebbé tenné. Az e kérdésben való szavazásnál azok a tagok is szavazhatnak, akik egyébként szavazati joggal nem rendelkeznek.
+(3) A legfőbb szerv egyhangú határozatára van szükség, ha a módosítás egyes tagok jogait hátrányosan érintené, vagy helyzetét terhesebbé tenné. Az e kérdésben való szavazásnál azok a tagok is szavazhatnak, akik egyébként szavazati joggal nem rendelkeznek.
 
-(4) A létesítő okirat módosítására egyebekben a társaság alapítására vonatkozó rendelkezéseket kell megfelelően alkalmazni, azzal, hogy a módosítást tartalmazó okiratot a tagoknak nem kell aláírniuk, és azt a társaság kamarai jogtanácsosa is ellenjegyezheti.
+(4) A létesítő okirat módosítására egyebekben a társaság alapítására vonatkozó rendelkezéseket kell megfelelően alkalmazni, azzal, hogy a módosítást tartalmazó okiratot – ha az nem szerződéssel történik – a tagoknak nem kell aláírniuk, és azt a társaság kamarai jogtanácsosa is ellenjegyezheti.
 
 ### XVIII. Fejezet — Kisebbségvédelem
 
@@ -1475,11 +1495,11 @@ A gazdasági társaság létesítő okirata – a részvénytársaság és az eg
 
 (3) A vizsgálattal a társaság könyvvizsgálója nem bízható meg.
 
-(4) A vizsgálat költségeit a társaság előlegezi és viseli. A társaság a költségeket abban az esetben háríthatja át a tagra, ha az a vizsgálatot nyilvánvalóan alaptalanul kezdeményezte.
+(4) A vizsgálat költségeit az indítványozók kötelesek előlegezni. A vizsgálat költségeit a társaság viseli, kivéve, ha az indítványozók a vizsgálatot nyilvánvalóan alaptalanul kezdeményezték.
 
 #### 3:105. § [Igényérvényesítés kezdeményezése]
 
-Ha a társaság legfőbb szerve elvetette vagy nem bocsátotta határozathozatalra azt az indítványt, hogy a társaságnak valamely tag, vezető tisztségviselő, felügyelőbizottsági tag, továbbá a könyvvizsgáló ellen támasztható követelését érvényesítsék, a követelést a szavazati jogok öt százalékával rendelkező tagok a legfőbb szerv ülésétől számított harmincnapos jogvesztő határidőn belül a gazdasági társaság képviseletében a társaság javára maguk is érvényesíthetik.
+Ha a társaság legfőbb szerve elvetette vagy nem bocsátotta határozathozatalra azt az indítványt, hogy a társaságnak valamely tag, vezető tisztségviselő, felügyelőbizottsági tag, továbbá a könyvvizsgáló ellen támasztható követelését érvényesítsék, a követelést a szavazati jogok öt százalékával rendelkező tagok a legfőbb szerv ülésétől számított harmincnapos jogvesztő határidőn belül a társaság javára maguk is érvényesíthetik.
 
 #### 3:106. § [Az eltérő szabályozás tilalma]
 
@@ -1523,7 +1543,7 @@ Semmis a létesítő okirat olyan rendelkezése, amely a jelen fejezet rendelkez
 
 #### 3:110. § [Részvétel a legfőbb szerv döntéshozatalában]
 
-(1) A gazdasági társaság minden tagja jogosult személyesen vagy képviselő útján a legfőbb szerv tevékenységében részt venni. Ha e törvény eltérően nem rendelkezik, egy tag egy képviselőt bízhat meg, egy képviselő több tagot is képviselhet. A képviseletre szóló meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni.
+(1) A gazdasági társaság minden tagja jogosult személyesen vagy képviselő útján a legfőbb szerv tevékenységében részt venni. Egy tag egy képviselőt bízhat meg, egy képviselő több tagot is képviselhet. A képviseletre szóló meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni.
 
 (2) A társaság legfőbb szervében gyakorolható szavazati jog mértéke a tag vagyoni hozzájárulásához igazodik.
 
@@ -1699,7 +1719,7 @@ Ha a létesítő okirat vagy annak felhatalmazása alapján a társaság legfőb
 
 (1) Gazdasági társaság más társasági formába tartozó gazdasági társasággá, egyesüléssé és szövetkezetté alakulhat át.
 
-(2) Ha egymást követő két üzleti évben a társaság saját tőkéje nem éri el az adott társasági formára kötelezően előírt jegyzett tőkét, és a tagok a második év beszámolójának elfogadásától számított három hónapon belül a szükséges saját tőke biztosításáról nem gondoskodnak, e határidő lejártát követő hatvan napon belül a gazdasági társaság köteles elhatározni átalakulását. Átalakulás helyett a gazdasági társaság a jogutód nélküli megszűnést vagy az egyesülést is választhatja.
+(2) Ha egymást követő két teljes – tizenkét hónapot magában foglaló – üzleti évben a társaság saját tőkéje nem éri el az adott társasági formára kötelezően előírt jegyzett tőkét, és a tagok a második év beszámolójának elfogadásától számított három hónapon belül a szükséges saját tőke biztosításáról nem gondoskodnak, e határidő lejártát követő hatvan napon belül a gazdasági társaság köteles elhatározni átalakulását. Átalakulás helyett a gazdasági társaság a jogutód nélküli megszűnést vagy az egyesülést is választhatja.
 
 #### 3:134. § [Az átalakulás befejezése]
 
@@ -1789,7 +1809,7 @@ A gazdasági társaságok közös szabályai között meghatározott eseteken t�
 - b) a tag felmondásával;
 - c) a társasági részesedés átruházásával;
 - d) a tag halálával vagy megszűnésével; vagy
-- e) a taggal szembeni kizáró vagy összeférhetetlenségi ok bekövetkeztével.
+- e) a taggal szembeni kizáró ok bekövetkeztével.
 
 #### 3:147. § [A tagsági jogviszony felmondása]
 
@@ -1809,11 +1829,11 @@ A meghalt tag örököse, illetve a megszűnt tag jogutódja a társaság többi
 
 #### 3:150. § [Elszámolás a tagsági jogviszony megszűnése esetén]
 
-(1) A tagsági jogviszony megszűnése esetén a volt taggal, örökösével vagy jogutódjával a társaság köteles elszámolni, kivéve, ha a társasági részesedés átruházására került sor, vagy ha a tag örököse, illetve jogutódja a társaságba tagként belépett.
+(1) A tagsági jogviszony megszűnése esetén a volt taggal, annak örökösével vagy jogutódjával a társaság – eltérő megállapodás hiányában – a tagsági viszony megszűnésétől számított három hónapon belül köteles elszámolni, kivéve, ha a társasági részesedés átruházására került sor, vagy ha a tag örököse, illetve jogutódja a társaságba tagként belépett.
 
-(2) Az elszámolás során meg kell állapítani, hogy a tagsági jogviszony megszűnésének időpontjában milyen forgalmi értéket képviselt a társaság vagyona, és abból a tag vagyoni hozzájárulásával arányos részt kell pénzben kifizetni a volt tagnak vagy örökösének, illetve jogutódjának a tagsági viszony megszűnésétől számított három hónapon belül.
+(2) Az elszámolás során – eltérő megállapodás hiányában – meg kell állapítani, hogy a tagsági jogviszony megszűnésének időpontjában milyen forgalmi értéket képviselt a társaság vagyona, és abból a tag vagyoni hozzájárulásával arányos részt kell pénzben kifizetni a volt tagnak vagy örökösének, illetve jogutódjának a tagsági viszony megszűnésétől számított három hónapon belül.
 
-(3) Semmis a társasági szerződés olyan rendelkezése, amely az elszámolási kötelezettséget kizárja, korlátozza vagy annak szabályait a tagra nézve az e törvényben meghatározottaknál kedvezőtlenebbül állapítja meg.
+(3) Semmis a társasági szerződés olyan rendelkezése, amely az elszámolási kötelezettséget kizárja.
 
 #### 3:151. § [A társasági tartozásokért való felelősség a tagsági jogviszony megszűnése esetén]
 
@@ -1847,7 +1867,7 @@ A betéti társaságra – az e címben foglalt eltérésekkel – a közkereset
 
 #### 3:156. § [Ügyvezetés]
 
-A kültag nem lehet a társaság vezető tisztségviselője.
+A kültag kijelöléssel vagy választással válik a társaság vezető tisztségviselőjévé.
 
 #### 3:157. § [A tagi felelősség változása]
 
@@ -1877,7 +1897,7 @@ Nem lehet a tagokat nyilvános felhívás útján gyűjteni.
 
 (1) A törzsbetét a tag vagyoni hozzájárulása. A tagok törzsbetétei különböző mértékűek lehetnek; az egyes törzsbetétek mértéke nem lehet kevesebb százezer forintnál.
 
-(2) Minden tagnak egy törzsbetéte lehet.
+(2) A tagnak több törzsbetéte is lehet.
 
 (3) Ha egy törzsbetét szolgáltatására több személy közösen vállal kötelezettséget, a kötelezettséget vállaló személyeket a törzsbetét szolgáltatásának kötelezettsége egyetemlegesen terheli.
 
@@ -1885,9 +1905,13 @@ Nem lehet a tagokat nyilvános felhívás útján gyűjteni.
 
 #### 3:162. § [A pénzbeli vagyoni hozzájárulás szolgáltatása]
 
-(1) Ha a társasági szerződés úgy rendelkezik, hogy a nyilvántartásba vételi kérelem benyújtásáig valamelyik tag a pénzbetétének felénél kisebb összeget köteles befizetni, vagy a társasági szerződés a nyilvántartásba vételi kérelem benyújtásáig be nem fizetett pénzbeli vagyoni hozzájárulás szolgáltatására a társaság nyilvántartásba vételétől számított egy évnél hosszabb határidőt állapít meg, a társaság mindaddig nem fizethet osztalékot a tagoknak, amíg a ki nem fizetett és a tagok törzsbetétére az osztalékfizetés szabályai szerint elszámolt nyereség a tagok által teljesített pénzbeli vagyoni hozzájárulással együtt el nem éri a törzstőke mértékét.
+(1) Ha a társasági szerződés rendelkezése alapján a nyilvántartásba vételig a teljes pénzbeli vagyoni hozzájárulást nem kell befizetni, a tag a pénzbeli vagyoni hozzájárulását egészben vagy részben az osztalékfizetés szabályai szerint felosztható nyereségből fizetheti meg. Ebben az esetben a társaság mindaddig nem fizetheti ki a tagnak az őt megillető osztalékot, hanem azt a tag még meg nem fizetett törzsbetétére kell elszámolnia, amíg a be nem fizetett és a tag törzsbetétére elszámolt nyereség a tag által teljesített pénzbeli vagyoni hozzájárulással együtt el nem éri a tag által vállalt teljes pénzbeli hozzájárulás mértékét.
 
-(2) Az (1) bekezdésben meghatározott esetben a tagok a még nem teljesített pénzbeli vagyoni hozzájárulásuk összegének erejéig kötelesek helytállni a társaság tartozásaiért.
+(2) Ha a társaság a nyilvántartásba vételétől számított második teljes – tizenkét hónapot magában foglaló – üzleti év végéig a teljes pénzbeli vagyoni hozzájárulás szolgáltatására – ideértve az (1) bekezdés szerinti esetet is – nem került sor, a tag a még nem teljesített pénzbeli vagyoni hozzájárulását a társaság nyilvántartásba vételétől számított második teljes – tizenkét hónapot magában foglaló – üzleti évről készült beszámoló elfogadásától számított három hónapon belül köteles rendelkezésre bocsátani.
+
+(3) Semmis a társasági szerződés olyan rendelkezése, amely az (1) és (2) bekezdésben foglaltaknál a tagra nézve kedvezőbb szabályokat állapít meg.
+
+(4) A tagok a még nem teljesített pénzbeli vagyoni hozzájárulásuk összegének erejéig kötelesek helytállni a társaság tartozásaiért.
 
 #### 3:163. § [A nem pénzbeli vagyoni hozzájárulás teljesítése]
 
@@ -1897,11 +1921,13 @@ Nem lehet a tagokat nyilvános felhívás útján gyűjteni.
 
 ### XXIV. Fejezet — Az üzletrész
 
-#### 3:164. § [Az üzletrész fogalma]
+#### 3:164. § [Az üzletrész]
 
-(1) Az üzletrész a törzsbetéthez kapcsolódó tagsági jogok és kötelezettségek összessége. Az üzletrész a társaság nyilvántartásba vételével keletkezik.
+(1) Az üzletrész a törzsbetéthez kapcsolódó tagsági jogok és kötelezettségek összessége. Az üzletrész a társaság nyilvántartásba vételével keletkezik. Az üzletrész mértéke a tagok törzsbetétjéhez igazodik.
 
-(2) Az üzletrész mértéke a tagok törzsbetétjéhez igazodik. Azonos mértékű üzletrészhez azonos tagsági jogok fűződnek.
+(2) Azonos mértékű üzletrészhez azonos tagsági jogok fűződnek.
+
+(3) Ha a tagnak több üzletrésze van, a társasággal szemben akkor is egy tagnak számít. A társasági szerződés ettől eltérő rendelkezése semmis.
 
 #### 3:165. § [Közös tulajdon az üzletrészen]
 
@@ -1931,7 +1957,7 @@ Nem lehet a tagokat nyilvános felhívás útján gyűjteni.
 
 (7) A társasági szerződésben az üzletrész pénzszolgáltatás ellenében, kívülálló személyre történő átruházása érvényesen nem zárható ki.
 
-(8) A (2)–(6) bekezdés rendelkezéseit megfelelően alkalmazni kell az üzletrész végrehajtási eljárás keretében történő értékesítése esetén.
+(8) Az üzletrész végrehajtási eljárás keretében történő értékesítése során az üzletrész másokat megelőző megszerzésére irányuló jog – (2) bekezdés szerinti – jogosultja e jogát jogszabályban meghatározott eljárás szabályai szerint gyakorolhatja.
 
 #### 3:168. § [Az üzletrész átruházásának közös szabályai]
 
@@ -1963,29 +1989,23 @@ Ha a jogi személy tag jogutód nélkül úgy szűnik meg, hogy üzletrészének
 
 #### 3:173. § [Az üzletrész felosztása]
 
-(1) Az üzletrész
-
-- a) átruházás;
-- b) a jogi személy tag szétválása folytán az üzletrésze tekintetében bekövetkezett jogutódlás;
-- c) öröklés;
-- d) a házastársi közös vagyon megosztása;
-- e) új jogosult hiányában a tag jogutód nélküli megszűnése
-
-esetén osztható fel.
+(1)
 
 (2) Az üzletrész felosztásához a taggyűlés hozzájárulása szükséges.
 
-(3) A társasági szerződésnek az (1) és a (2) bekezdésben foglalt szabályoktól eltérő rendelkezése semmis.
+(3)
 
 #### 3:174. § [A saját üzletrész megszerzésének feltételei]
 
 (1) A korlátolt felelősségű társaság saját üzletrészét átruházással a taggyűlés határozata alapján szerezheti meg.
 
-(2) A társaság a saját üzletrészét ellenérték fejében a törzstőkén felüli vagyona terhére szerezheti meg. A társaság saját üzletrészét nem szerezheti meg ellenérték fejében, ha osztalék fizetéséről sem határozhatna. A saját üzletrészért nyújtandó ellenérték fedezetének megállapításával összefüggésben a beszámolóban és a közbenső mérlegben foglaltakat a mérleg fordulónapját követő hat hónapon belül lehet figyelembe venni.
+(2) A társaság a saját üzletrészét ellenérték fejében a törzstőkén felüli vagyona terhére szerezheti meg. A társaság saját üzletrészét nem szerezheti meg ellenérték fejében, ha osztalék fizetéséről sem határozhatna.
 
 (3) A társaság azokat az üzletrészeket szerezheti meg, amelyek esetén a törzsbetétet teljes mértékben szolgáltatták.
 
 (4) A társaság saját üzletrészeinek alapjául szolgáló törzsbetétek összege nem haladhatja meg a törzstőke ötven százalékát.
+
+(5) Semmis a társasági szerződés olyan rendelkezése, amely a saját üzletrész megszerzésének feltételeire az e §-ban meghatározott szabályoknál a társaságra nézve enyhébb követelményeket ír elő.
 
 #### 3:175. § [A saját üzletrész alapján gyakorolható jogok]
 
@@ -1994,6 +2014,8 @@ esetén osztható fel.
 (2) A társaságot a saját üzletrész után osztalék nem illeti meg. A saját üzletrészre eső osztalékot az osztalékra jogosult tagok között törzsbetéteik arányában kell felosztani.
 
 (3) A társaság által ellenérték fejében megszerzett üzletrészt a vásárlástól számított egy éven belül a társaság köteles elidegeníteni, a tagoknak törzsbetéteik arányában térítés nélkül átadni vagy a törzstőke-leszállítás szabályainak alkalmazásával bevonni.
+
+(4) Semmis a társasági szerződés olyan rendelkezése, amely a saját üzletrésszel gyakorolható jogokra vonatkozóan az e §-ban meghatározott szabályoknál a társaságra nézve enyhébb követelményeket ír elő.
 
 #### 3:176. § [Az üzletrész bevonása]
 
@@ -2027,9 +2049,9 @@ esetén osztható fel.
 
 (1) Az árverést közjegyző jelenlétében kell lebonyolítani, aki az árverésről készült jegyzőkönyvet közokiratba foglalja.
 
-(2) Az árverésen a volt tagon kívül bárki tehet ajánlatot az üzletrész megvásárlására. Az ajánlat szerinti vételárnak a kikiáltási árat el kell érnie. A legmagasabb árajánlatot tevő személy ajánlati kötöttsége addig tart, amíg – az üzletrészre vonatkozó elővásárlási jogokra is tekintettel – az elfogadást rendes körülmények között várhatta.
+(2) Az árverésen a volt tagon kívül bárki tehet ajánlatot az üzletrész megvásárlására. Az ajánlat szerinti vételárnak a kikiáltási árat el kell érnie. A legmagasabb árajánlatot tevő személy ajánlati kötöttsége addig tart, amíg – az üzletrészre vonatkozó, az üzletrész másokat megelőző megszerzésére irányuló jogokra is tekintettel – az elfogadást rendes körülmények között várhatta.
 
-(3) A legmagasabb árajánlat alapján a társaság tagjai, a társaság és a társaság által kijelölt harmadik személy az üzletrész kívülálló személyre történő átruházására vonatkozó szabályok megfelelő alkalmazásával az üzletrész másokat megelőző megszerzésére vonatkozó jogot gyakorolhatnak. Ha a jogosultak nem élnek e jogukkal, az árverésen tett legmagasabb árajánlatot kell elfogadni.
+(3) A legmagasabb árajánlat alapján a társaság tagjai, a társaság és a társaság által kijelölt harmadik személy az üzletrész kívülálló személyre történő átruházására vonatkozó szabályok megfelelő alkalmazásával az üzletrész másokat megelőző megszerzésére irányuló jogot gyakorolhatnak. Ha a jogosultak nem élnek e jogukkal, az árverésen tett legmagasabb árajánlatot kell elfogadni.
 
 (4) Az üzletrész árverésen való értékesítése esetén a vevő a vételárat a társaságnak fizeti meg és a volt taggal a társaság számol el.
 
@@ -2049,7 +2071,7 @@ esetén osztható fel.
 
 (4) Ha a tag kizárásának vagy tagsági viszonya megszűnésének időpontjától számított hat hónapon belül a volt tag üzletrészét nem értékesítették, a társaság köteles bevonni az üzletrészt. Az üzletrész bevonása esetén a volt tag a társaság saját tőkéjéből ráeső részre az üzletrész értékesítéséből befolyt vételár elszámolására irányadó szabályok szerint tarthat igényt.
 
-### XXV. Fejezet — Mellékszolgáltatás és pótbefizetés
+### XXV. Fejezet — Mellékszolgáltatás
 
 #### 3:182. § [A mellékszolgáltatás]
 
@@ -2057,17 +2079,7 @@ esetén osztható fel.
 
 (2) Az üzletrész átruházása a mellékszolgáltatási kötelezettséget megszünteti, kivéve, ha azt az üzletrész megszerzője a társaság hozzájárulásával átvállalja.
 
-#### 3:183. § [A pótbefizetés]
-
-(1) Ha a társasági szerződés feljogosítja a taggyűlést arra, hogy a veszteségek fedezésére pótbefizetési kötelezettséget írjon elő a tagok számára, meg kell határozni azt a legmagasabb összeget, amelynek befizetésére a tag kötelezhető, továbbá a pótbefizetés elrendelhetőségének gyakoriságát.
-
-(2) A pótbefizetés teljesítésének módját, ütemezését és teljesítésének határidejét a pótbefizetés elrendeléséről szóló taggyűlési határozatban kell meghatározni. A pótbefizetés összege a tag törzsbetétjét nem növeli. A pótbefizetés a nem pénzbeli vagyoni hozzájárulásokkal szemben érvényesülő követelményeknek megfelelő nem pénzbeli szolgáltatás útján is teljesíthető.
-
-(3) A pótbefizetési kötelezettséget a törzsbetétek arányában kell meghatározni és teljesíteni.
-
-(4) A pótbefizetés késedelmes teljesítése vagy teljesítésének elmulasztása esetén a tag vagyoni hozzájárulásának nemteljesítésére vonatkozó rendelkezéseket kell megfelelően alkalmazni.
-
-(5) A veszteség pótlásához nem szükséges pótbefizetéseket a visszafizetés időpontjában a tagjegyzékben szereplő tagok részére vissza kell fizetni. A visszafizetésre a törzsbetétek teljes befizetése után kerülhet sor. A saját üzletrészre jutó pótbefizetést nem kell visszafizetni.
+#### 3:183. §
 
 ### XXVI. Fejezet — A társaság által teljesített kifizetések
 
@@ -2079,7 +2091,7 @@ esetén osztható fel.
 
 (3) Azokat a kifizetéseket, amelyeket az (1) bekezdés rendelkezései ellenére teljesítettek, a társaság részére vissza kell fizetni.
 
-(4) Az (1)–(3) bekezdésben foglaltakat megfelelően alkalmazni kell abban az esetben is, ha a tag nem a tagsági jogviszonyára tekintettel részesül kifizetésben.
+(4) E § rendelkezéseit megfelelően alkalmazni kell a tag javára nem tagsági viszonyon alapuló kifizetésekre is, ha azok összeegyeztethetetlenek a felelős társasági gazdálkodás követelményeivel.
 
 #### 3:185. § [Az osztalék]
 
@@ -2122,7 +2134,9 @@ Semmis a társasági szerződés olyan kikötése, amely a társaság által tel
 
 (2) Az (1) bekezdésben megjelölt esetekben a tagoknak határozniuk kell pótbefizetés előírásáról, a törzstőke mértékét elérő saját tőke más módon való biztosításáról vagy a törzstőke leszállításáról; mindezek hiányában a társaság átalakulását, egyesülését, szétválását vagy jogutód nélküli megszüntetését kell elhatározni. A taggyűlés ezzel kapcsolatos határozatait három hónapon belül végre kell hajtani.
 
-(3) Ha a taggyűlés befejezését követő három hónapon belül az összehívására okot adó, az (1) bekezdés a) pontja szerinti körülmény változatlanul fennáll, a törzstőkét le kell szállítani.
+(3) Ha a taggyűlés befejezését követő három hónapon belül az összehívására okot adó, az (1) bekezdés a) pontja szerinti körülmény változatlanul fennáll, a törzstőkét le kell szállítani. Ha a törzstőke leszállítására nincs mód, a társaságnak a törzstőke leszállításának meghiúsulására előírt rendelkezéseket kell alkalmaznia.
+
+(4) Semmis a társasági szerződés olyan rendelkezése, amely az (1)–(3) bekezdésben foglalt szabályoknál a társaságra nézve enyhébb követelményeket ír elő.
 
 #### 3:190. § [A napirend]
 
@@ -2132,7 +2146,7 @@ Semmis a társasági szerződés olyan kikötése, amely a társaság által tel
 
 #### 3:191. § [A megismételt taggyűlés]
 
-(1) Ha a taggyűlés nem volt határozatképes, a megismételt taggyűlés az eredeti napirenden szereplő ügyekben a jelenlevők által képviselt szavazati jog mértékétől függetlenül határozatképes, ha azt az eredeti időpontot legalább három és legfeljebb tizenöt nappal követő időpontra hívják össze. A társasági szerződés három napnál rövidebb összehívási határidőt előíró rendelkezése semmis.
+(1) Ha a taggyűlés nem volt határozatképes, a megismételt taggyűlés az eredeti napirenden szereplő ügyekben a jelenlevők által képviselt szavazati jog mértékétől függetlenül határozatképes, ha azt az eredeti időpontot legalább három és legfeljebb tizenöt nappal követő időpontra hívják össze.
 
 (2) A határozatképtelenség miatt megismételt taggyűlés összehívása az eredeti taggyűlés meghívójában megjelölt feltételekkel történhet.
 
@@ -2211,7 +2225,7 @@ Az ügyvezető köteles a tagok által hozott határozatokat a határozatok kön
 
 #### 3:201. § [A törzstőke felemelése törzstőkén felüli vagyonból]
 
-(1) A társaság a tagok legalább háromnegyedes szótöbbséggel meghozott határozatával a törzstőkét a törzstőkén felüli vagyonából akkor emelheti fel, ha a felemelt törzstőke nem haladja meg a társaság saját tőkéjét, és a társaság előző üzleti évre vonatkozó beszámolójának mérlege vagy a tárgyévi közbenső mérlege szerint a társaság rendelkezik olyan törzstőkén felüli vagyonnal, amely törzstőkeemelésre fordítható. A törzstőke felemelésének fedezetét a társaság hat hónapnál nem régebbi fordulónappal készült beszámolója vagy közbenső mérlege alapján kell igazolni.
+(1) A társaság a tagok legalább háromnegyedes szótöbbséggel meghozott határozatával a törzstőkét a törzstőkén felüli vagyonából akkor emelheti fel, ha a felemelt törzstőke nem haladja meg a társaság – lekötött tartalékkal, értékelési tartalékkal csökkentett – saját tőkéjét, és a társaság előző üzleti évre vonatkozó beszámolójának mérlege vagy a tárgyévi közbenső mérlege szerint a társaság rendelkezik olyan törzstőkén felüli vagyonnal, amely törzstőkeemelésre fordítható.
 
 (2) A törzstőkén felüli vagyonból történt törzstőkeemelés a tagok törzsbetéteit a korábbi törzsbetétek arányában növeli.
 
@@ -2228,6 +2242,8 @@ Az ügyvezető köteles a tagok által hozott határozatokat a határozatok kön
 (3) A törzstőke-leszállítás összege az egyes tagok törzsbetéteit törzsbetéteik arányában csökkenti.
 
 (4) A társaság akkor határozhat a törzstőkének az e törvényben meghatározott minimális összege alá történő leszállításáról, ha a törzstőke leszállításával egyidejűleg elhatározott törzstőkeemelés megtörténik, és így a törzstőke legalább a törzstőkének az e törvényben meghatározott minimális összegét eléri.
+
+(5) A törzstőke tőkekivonással történő leszállításakor, a tagokat megillető összeg megállapítása során számításba kell venni a törzstőke csökkenése arányában a törzstőkén felüli saját tőke – lekötött tartalékkal, értékelési tartalékkal csökkentett – összegét is.
 
 #### 3:203. § [A törzstőke leszállításáról hozott határozat közzététele]
 
@@ -2294,7 +2310,7 @@ Az ügyvezető köteles a tagok által hozott határozatokat a határozatok kön
 
 (2) Egyszemélyes társaság a saját üzletrészét nem szerezheti meg.
 
-(3) Ha az egyszemélyes társaság az üzletrész felosztása vagy a törzstőke felemelése folytán új tagokkal egészül ki és így többszemélyes társasággá válik, a tagok kötelesek az alapító okiratot társasági szerződésre módosítani.
+(3) Ha az egyszemélyes társaság új tagokkal egészül ki és így többszemélyes társasággá válik, a tagok kötelesek az alapító okiratot társasági szerződésre módosítani.
 
 ### XIV. CÍM — RÉSZVÉNYTÁRSASÁG
 
@@ -2388,7 +2404,7 @@ A részvénytársaság olyan gazdasági társaság, amely előre meghatározott 
 
 #### 3:219. § [A részvényátruházás korlátozása]
 
-(1) Ha a részvénytársaság a részvény átruházását az alapszabályban korlátozza vagy az átruházást a társaság beleegyezéséhez köti, e korlátozások harmadik személyekkel szemben akkor hatályosak, ha a korlátozás és annak tartalma a részvényből, dematerializált részvény esetén az értékpapírszámla adataiból kitűnik.
+(1) Ha a részvénytársaság a részvény átruházását az alapszabályban korlátozza vagy az átruházást a társaság beleegyezéséhez köti, e korlátozások harmadik személyekkel szemben akkor hatályosak, ha a korlátozás és annak tartalma a részvényből, dematerializált részvény esetén a központi értéktárnál letétbe helyezett okiratból kitűnik.
 
 (2) Ha a részvényre szerződéssel elővásárlási jogot, visszavásárlási jogot, eladási vagy vételi jogot kötöttek ki, az a részvénytársasággal, illetve harmadik személyekkel szemben akkor hatályos, ha az a részvényből, dematerializált részvény esetén az értékpapírszámla adataiból kitűnik.
 
@@ -2408,7 +2424,7 @@ A részvénytársaság olyan gazdasági társaság, amely előre meghatározott 
 
 #### 3:222. § [Saját részvény]
 
-(1) A részvénytársaság az alaptőke huszonöt százalékát meg nem haladó mértékben megszerezheti az általa kibocsátott részvényeket. A saját részvények mértékének megállapításánál a részvénytársaság tulajdonaként kell figyelembe venni a részvénytársaság többségi befolyása alatt álló jogi személy – ideértve a külföldi székhellyel rendelkező, a rá irányadó jog szerint korlátolt felelősségű társaságnak vagy részvénytársaságnak minősülő gazdasági társaság – tulajdonában álló részvényeket is. A részvénytársaság tulajdonában álló részvényként kell figyelembe venni azokat a részvényeket is, amelyeket tulajdonosuk a részvénytársaság javára szerzett meg vagy tart magánál, továbbá azokat a saját részvényeket, amelyeket a részvénytársaság követelés biztosítékául fogad el.
+(1) A részvénytársaság az alaptőke huszonöt százalékát meg nem haladó mértékben megszerezheti az általa kibocsátott részvényeket. A saját részvények mértékének megállapításánál a részvénytársaság tulajdonaként kell figyelembe venni a részvénytársaság többségi befolyása alatt álló jogi személy – ideértve a külföldi székhellyel rendelkező, a rá irányadó jog szerint korlátolt felelősségű társaságnak vagy részvénytársaságnak minősülő gazdasági társaság – tulajdonában álló részvényeket is. A részvénytársaság tulajdonában álló részvényként kell figyelembe venni azokat a részvényeket is, amelyeket tulajdonosuk a részvénytársaság javára szerzett meg vagy tart magánál, továbbá azokat a saját részvényeket, amelyeket a részvénytársaság követelés biztosítékául fogad el. E rendelkezéseket nem kell alkalmazni a bankok és más hitelintézetek üzletmenete során végrehajtott ügyleteire.
 
 (2) A részvénytársaság az alapítás vagy az alaptőke felemelése során nem szerezheti meg saját részvényeit.
 
@@ -2428,7 +2444,7 @@ A részvénytársaság olyan gazdasági társaság, amely előre meghatározott 
 
 #### 3:224. § [A jogsértéssel megszerzett saját részvény]
 
-Ha a részvénytársaság saját részvényének megszerzése során jogszabályba ütköző módon járt el, köteles az így szerzett saját részvényt, vagy ha ezek mennyisége nem állapítható meg, akkor valamennyi saját részvényét a megszerzéstől számított egy éven belül az alaptőke leszállításával bevonni.
+Ha a részvénytársaság saját részvényének megszerzése során jogszabályba ütköző módon járt el, köteles az így szerzett saját részvényt, vagy ha ezek mennyisége nem állapítható meg, akkor valamennyi saját részvényét a megszerzéstől számított egy éven belül elidegeníteni, vagy az alaptőke leszállításával bevonni.
 
 #### 3:225. § [Részvényesi jogok gyakorlása saját részvénnyel]
 
@@ -2450,6 +2466,10 @@ Semmis az alapszabály olyan rendelkezése, amely a saját részvény megszerzé
 
 (2) Az előterjesztés tartalmazza a pénzügyi segítségnyújtás indokát, a kockázatokat, a lebonyolítás feltételeit, a részvények ellenértékét és a társaság által a pénzügyi segítségnyújtással elérhető előnyöket. Az előterjesztést az igazgatóság köteles a nyilvántartó bíróságnak benyújtani.
 
+(3) Az (1) és (2) bekezdésben foglaltak nem vonatkoznak azokra az ügyletekre, amelyek közvetlenül vagy közvetve a nyilvánosan működő részvénytársaság munkavállalói – ideértve a részvénytársaság többségi befolyása alatt álló társaságok munkavállalóit – vagy a munkavállalók által e célra alapított szervezetek részvényszerzését segítik elő, továbbá a bankok és más hitelintézetek által rendes üzletmenetük során megkötött ügyletekre. Ezen bekezdés alapján sem kerülhet sor pénzügyi segítségnyújtásra, ha a részvénytársaság saját tőkéje nem éri el vagy a pénzügyi segítségnyújtás következtében nem érné el a részvénytársaság alaptőkéjét.
+
+(4) Semmis az alapszabály olyan rendelkezése, amely az (1)–(3) bekezdésben foglalt szabályoknál enyhébb követelményt ír elő.
+
 #### 4. Részvényfajták, részvényosztályok, részvénysorozatok
 
 #### 3:228. § [Részvényfajták, részvényosztályok, részvénysorozatok]
@@ -2470,7 +2490,7 @@ Semmis az alapszabály olyan rendelkezése, amely a saját részvény megszerzé
 
 (1) Törzsrészvény az olyan részvény, amely nem tartozik az elsőbbségi, a dolgozói, a kamatozó, a visszaváltható vagy az alapszabályban nevesített egyéb részvényfajtába.
 
-(2) A részvénytársaság által kibocsátott törzsrészvények össznévértékének mindenkor meg kell haladnia a részvénytársaság alaptőkéjének a felét.
+(2)
 
 #### 3:230. § [Elsőbbségi részvény]
 
@@ -2479,8 +2499,8 @@ Semmis az alapszabály olyan rendelkezése, amely a saját részvény megszerzé
 (2) Az alapszabály az elsőbbségi részvényfajtán belül
 
 - a) osztalékelsőbbséget;
-- b) a részvénytársaság jogutód nélkül történő megszűnése esetén a felosztásra kerülő vagyonból történő részesedés elsőbbségét;
-- c) a szavazati joggal összefüggő elsőbbséget;
+- b) a részvénytársaság jogutód nélkül történő megszűnése esetén a felosztásra kerülő vagyonból történő részesedés elsőbbségét (likvidációs hányadhoz fűződő elsőbbség);
+- c) a szavazati joggal összefüggő elsőbbséget (szavazatelsőbbség);
 - d) vezető tisztségviselő vagy felügyelőbizottsági tag kijelölésére vonatkozó elsőbbséget;
 - e) elővásárlási jogot; valamint
 - f) az a)–e) pontok szerinti elsőbbségi jogosultságok közül egyidejűleg többet is
@@ -2517,7 +2537,7 @@ biztosító részvényosztályokat határozhat meg.
 
 #### 3:234. § [Elővásárlási jogot biztosító részvény]
 
-(1) A zártkörűen működő részvénytársaság alapszabálya rendelkezhet olyan részvényosztály kibocsátásáról, amelynek alapján a részvényest a részvénytársaság által kibocsátott, pénzszolgáltatás ellenében átruházni kívánt részvényekre elővásárlási jog illeti meg.
+(1) A zártkörűen működő részvénytársaság alapszabálya rendelkezhet olyan részvényosztály kibocsátásáról, amelynek alapján a részvényest a részvénytársaság által kibocsátott, adásvétel útján átruházni kívánt részvényekre elővásárlási jog illeti meg.
 
 (2) Ha a részvényes az átruházási szándék és a kapott vételi ajánlat feltételeinek közlésétől számított tizenöt napon belül nem nyilatkozik, úgy kell tekinteni, hogy elővásárlási jogával nem kíván élni.
 
@@ -2531,7 +2551,7 @@ Ha a zártkörűen működő részvénytársaság nyilvánosan működő részv�
 
 (2) Ha az alapszabály a dolgozói részvényhez osztalékelsőbbségi jogot kapcsol, e jog az osztalékelsőbbséget biztosító részvényosztályba tartozó részvényekkel rendelkező részvényeseket követően gyakorolható.
 
-(3) A dolgozói részvényt a részvénytársaság alaptőkéjének felemelésével egyidejűleg, legfeljebb a felemelt alaptőke tizenöt százalékáig lehet forgalomba hozni.
+(3) A dolgozói részvényt a részvénytársaság alaptőkéjének felemelésével egyidejűleg lehet forgalomba hozni.
 
 #### 3:237. § [A dolgozói részvény átruházása és öröklése]
 
@@ -2551,13 +2571,13 @@ számított hat hónap elteltét követő első közgyűlésig ruházhatja át a
 
 #### 3:238. § [Kamatozó részvény]
 
-(1) Az alapszabály az alaptőke tíz százalékát meg nem haladó mértékben rendelkezhet előre meghatározott mértékű kamatra jogosító részvény kibocsátásáról.
+(1) Az alapszabály rendelkezhet előre meghatározott mértékű kamatra jogosító részvény kibocsátásáról.
 
 (2) A kamatozó részvény tulajdonosát a részvényhez fűződő egyéb jogokon felül a részvény névértéke után az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalékból az alapszabályban meghatározott módon számított kamat illeti meg. Nem fizethető a részvényesnek kamat, ha ennek következtében a részvénytársaság saját tőkéje nem érné el a részvénytársaság alaptőkéjét.
 
 #### 3:239. § [Visszaváltható részvény]
 
-(1) Az alapszabály az alaptőke húsz százalékát meg nem haladó mértékben rendelkezhet olyan részvény kibocsátásáról, amely alapján a részvényre vonatkozóan
+(1) Az alapszabály rendelkezhet olyan részvény kibocsátásáról, amely alapján a részvényre vonatkozóan
 
 - a) a részvénytársaságot vételi jog;
 - b) a részvényest eladási jog; vagy
@@ -2567,7 +2587,7 @@ illeti meg.
 
 (2) A részvénytársaság olyan részvény vonatkozásában élhet vételi jogával vagy teljesítheti a részvényes eladási jogából fakadó kötelezettségeit, amelyekre vonatkozóan a részvényes a teljes névértéket, illetve kibocsátási értéket megfizette, és a nem pénzbeli vagyoni hozzájárulást a részvénytársaság rendelkezésére bocsátotta.
 
-(3) A részvénytársaság nem gyakorolhatja a vételi jogból fakadó jogait és nem teljesítheti az eladási jogból fakadó kötelezettségeit, ha a részvénytársaság osztalék fizetéséről sem határozhatna. A vételi, illetve eladási jog gyakorlásához a szükséges fedezet megállapításával összefüggésben a beszámolóban, illetve a közbenső mérlegben foglaltakat a mérleg fordulónapját követő hat hónapon belül lehet figyelembe venni.
+(3) A részvénytársaság nem gyakorolhatja a vételi jogból fakadó jogait és nem teljesítheti az eladási jogból fakadó kötelezettségeit, ha a részvénytársaság osztalék fizetéséről sem határozhatna.
 
 (4) A társaság a visszaváltott részvényeket az alaptőke kötelező leszállításának szabályai szerint bevonja.
 
@@ -2649,8 +2669,8 @@ Tilos a részvénytársaság alapítása során a részvénytársaság részvén
 
 - a) az alapítók nyilatkozatát az összes részvény átvételére vonatkozó kötelezettségvállalásról és a részvényeknek az alapítók közötti megoszlásáról;
 - b) az alaptőke összegét, az alapítás során kibocsátandó részvények számát, névértékét, illetve kibocsátási értékét, valamint a részvények előállításának módját;
-- c) a közgyűlés összehívásának módját, a szavazati jog gyakorlásának feltételét és módját; és
-- d) az első könyvvizsgáló személyét.
+- c) a közgyűlés összehívásának módját, a szavazati jog gyakorlásának feltételét és módját.
+- d)
 
 (2) Az alapítók érvényesen az alapszabályban rendelkezhetnek:
 
@@ -2827,7 +2847,9 @@ A közgyűlésre szóló meghívó az általánosan kötelező tartalmi elemeken
 
 (2) Az (1) bekezdésben meghatározott esetekben a részvényesek kötelesek a közgyűlésen vagy közgyűlés tartása nélkül olyan határozatot hozni, amely alkalmas az (1) bekezdésben megjelölt okok megszüntetésére; vagy dönteniük kell a társaság átalakulásáról, egyesüléséről vagy szétválásáról; ezek hiányában a társaság megszüntetéséről. A közgyűlés ezzel kapcsolatos határozatait három hónapon belül végre kell hajtani.
 
-(3) Ha a közgyűlés befejezését követő három hónapon belül az összehívására okot adó, az (1) bekezdés a) pontja szerinti körülmény változatlanul fennáll, az alaptőkét le kell szállítani.
+(3) Ha a közgyűlés befejezését követő három hónapon belül az összehívására okot adó, az (1) bekezdés a) pontja szerinti körülmény változatlanul fennáll, az alaptőkét le kell szállítani. Ha az alaptőke leszállítására nincs mód, a részvénytársaságnak az alaptőke-leszállítás meghiúsulására előírt rendelkezéseket kell alkalmaznia.
+
+(4) Semmis az alapszabály olyan rendelkezése, amely az (1)–(3) bekezdésben foglalt szabályoknál a részvénytársaságra nézve enyhébb követelményeket ír elő.
 
 #### 3:271. § [A közgyűlés összehívásának speciális szabályai zártkörűen működő részvénytársaságnál]
 
@@ -2869,7 +2891,7 @@ A közgyűlésre szóló meghívó az általánosan kötelező tartalmi elemeken
 
 #### 3:275. § [Határozatképesség]
 
-(1) Ha a közgyűlés nem határozatképes, a megismételt közgyűlés az eredeti napirenden szereplő ügyekben a jelenlévők által képviselt szavazati jog mértékétől függetlenül határozatképes, ha azt az eredeti időpontot zártkörű részvénytársaság esetén legalább három, nyilvánosan működő részvénytársaság esetén legalább tíz nappal és legfeljebb huszonegy nappal követő időpontra hívják össze. Az alapszabály három, illetve tíz napnál rövidebb és huszonegy napnál hosszabb összehívási határidőt előíró rendelkezése semmis.
+(1) Ha a közgyűlés nem határozatképes, a megismételt közgyűlés az eredeti napirenden szereplő ügyekben a jelenlévők által képviselt szavazati jog mértékétől függetlenül határozatképes, ha azt az eredeti időpontot zártkörű részvénytársaság esetén legalább három, nyilvánosan működő részvénytársaság esetén legalább tíz nappal és legfeljebb huszonegy nappal követő időpontra hívják össze.
 
 (2) A közgyűlés egy alkalommal, legfeljebb harminc napra felfüggesztheti ülését.
 
@@ -2905,7 +2927,7 @@ A közgyűlésre szóló meghívó az általánosan kötelező tartalmi elemeken
 
 (3) A részvénytársaság igazgatósága köteles a közgyűlési jegyzőkönyvet, valamint a jelenléti ívet saját dokumentumai között elhelyezni és megőrizni.
 
-(4) A nyilvánosan működő részvénytársaság igazgatósága a közgyűlési jegyzőkönyvet és a jelenléti ívet a közgyűlés befejezését követő harminc napon belül köteles a nyilvántartó bíróságnak benyújtani.
+(4) A nyilvánosan működő részvénytársaság igazgatósága a közgyűlési jegyzőkönyvet (kivonatát) és a jelenléti ívet a közgyűlés befejezését követő harminc napon belül köteles a nyilvántartó bíróságnak benyújtani.
 
 (5) Bármely részvényes a közgyűlési jegyzőkönyv másolatának vagy a jegyzőkönyv egy részét tartalmazó kivonatának a kiadását kérheti az igazgatóságtól.
 
@@ -2941,7 +2963,7 @@ A közgyűlésre szóló meghívó az általánosan kötelező tartalmi elemeken
 
 (3) Az igazgatóság jogait és feladatait testületként gyakorolja. Az igazgatóság tagjai képviseleti jogának korlátozása, megosztása, és nyilatkozatának feltételhez vagy jóváhagyáshoz kötése harmadik személyekkel szemben nem hatályos.
 
-(4) Az igazgatóság határozatait a jelenlévők szótöbbségével hozza. Az alapszabály ennél alacsonyabb határozathozatali arányt előíró rendelkezése semmis.
+(4) Az igazgatóság határozatait a jelenlévők szótöbbségével hozza.
 
 #### 3:283. § [Igazgatóság jogait gyakorló vezérigazgató]
 
@@ -2961,7 +2983,7 @@ Zártkörűen működő részvénytársaság alapszabályának rendelkezése ese
 
 #### 3:286. § [Az igazgatótanács összetétele]
 
-(1) Az igazgatótanács öt természetes személy tagból áll. Elnökét maga választja tagjai közül. Semmis az alapszabály azon rendelkezése, amely ötnél kevesebb tagú igazgatótanács felállítását írja elő.
+(1) Az igazgatótanács legalább öt természetes személy tagból áll. Ha az igazgatótanács elnökét a közgyűlés nem jelöli ki, elnökét maga választja tagjai közül. Semmis az alapszabály azon rendelkezése, amely ötnél kevesebb tagú igazgatótanács felállítását írja elő.
 
 (2) Az igazgatótanács tagjai többségének – a (3) bekezdésben foglalt kivétellel – független személynek kell lennie. Semmis az alapszabály olyan rendelkezése, amely a független tagok arányát alacsonyabban határozza meg.
 
@@ -2994,7 +3016,7 @@ Zártkörűen működő részvénytársaság alapszabályának rendelkezése ese
 
 (1) A nyilvánosan működő részvénytársaság igazgatósága köteles az éves rendes közgyűlés elé terjeszteni a részvénytársaság társaságirányítási gyakorlatát bemutató, az adott tőzsde szereplői számára előírt módon elkészített jelentést.
 
-(2) A jelentés elfogadásáról a közgyűlés dönt. A közgyűlés határozatát és az elfogadott jelentést a részvénytársaság honlapján közzé kell tenni.
+(2) A jelentés elfogadásáról a közgyűlés dönt. Ha a részvénytársaságnál felügyelőbizottság működik, a jelentés a felügyelőbizottság jóváhagyása nélkül nem terjeszthető a közgyűlés elé. A közgyűlés határozatát és az elfogadott jelentést a részvénytársaság honlapján közzé kell tenni.
 
 (3) Semmis az alapszabály azon rendelkezése, amely e § rendelkezéseitől eltér.
 
@@ -3018,7 +3040,7 @@ Zártkörűen működő részvénytársaság alapszabályának rendelkezése ese
 
 (3) Semmis az alapszabály azon rendelkezése, amely az (1) és a (2) bekezdésben foglalt szabályoktól eltér.
 
-(4) Az auditbizottság három tagból áll. Semmis az alapszabály azon rendelkezése, amely háromnál kevesebb tagú auditbizottság felállítását írja elő.
+(4) Az auditbizottság legalább három tagból áll. Semmis az alapszabály azon rendelkezése, amely háromnál kevesebb tagú auditbizottság felállítását írja elő.
 
 #### 3:292. § [Könyvvizsgáló]
 
@@ -3096,7 +3118,7 @@ A részvénytársaság alaptőkéjét új részvények forgalomba hozatalával a
 
 #### 3:300. § [Az alaptőke-emelés előfeltételei]
 
-A részvénytársaság alaptőkéjét alaptőkén felüli vagyonával vagy annak egy részével felemelheti, ha az előző üzleti évre vonatkozó beszámolójának mérlege vagy a tárgyévi közbenső mérlege szerint a társaság rendelkezik olyan alaptőkén felüli vagyonnal, amely alaptőke-emelésre fordítható, és a részvénytársaság alaptőkéje a tőkeemelést követően sem haladja meg a helyesbített saját tőke összegét. Az alaptőkén felüli vagyon mértékét a beszámoló vagy közbenső mérleg a mérleg fordulónapját követő hat hónapon belül igazolja.
+A részvénytársaság alaptőkéjét alaptőkén felüli vagyonával vagy annak egy részével felemelheti, ha az előző üzleti évre vonatkozó beszámolójának mérlege vagy a tárgyévi közbenső mérlege szerint a társaság rendelkezik olyan alaptőkén felüli vagyonnal, amely alaptőke-emelésre fordítható, és a részvénytársaság alaptőkéje a tőkeemelést követően sem haladja meg a – lekötött tartalékkal, értékelési tartalékkal csökkentett – saját tőke összegét.
 
 #### 3:301. § [Az alaptőke-emelés végrehajtása]
 
@@ -3190,7 +3212,7 @@ Dematerializált részvények esetén az igazgatóság az alaptőke-emelés beje
 
 (5) Az alaptőke leszállítását elhatározó közgyűlési határozat érvényességéhez az is szükséges, hogy az alaptőke-leszállítással - az alapszabályban foglaltak szerint - érintettnek minősülő részvényfajta vagy részvényosztály részvényesei az alapszabályban meghatározott módon a döntéshez külön hozzájáruljanak. Ennek során a részvényhez fűződő szavazati jog esetleges korlátozására vagy kizárására vonatkozó rendelkezések - ide nem értve a saját részvényhez kapcsolódó szavazati jog gyakorlásának tilalmát - nem alkalmazhatók.
 
-(6) Az alaptőke tőkekivonással történő leszállításakor a részvényeseket megillető összeg megállapítása során számításba kell venni - az alaptőke csökkenése arányában - az alaptőkén felüli vagyon összegét is. Ha a saját tőke kevesebb, mint az alaptőke összege, az alaptőke tőkekivonással történő leszállítása előtt először a veszteség rendezése miatti alaptőke-leszállításról kell dönteni.
+(6) Az alaptőke tőkekivonással történő leszállításakor a részvényeseket megillető összeg megállapítása során számításba kell venni az alaptőke csökkenése arányában az alaptőkén felüli saját tőke – lekötött tartalékkal, értékelési tartalékkal csökkentett – összegét is. Ha a saját tőke kevesebb, mint az alaptőke összege, az alaptőke tőkekivonással történő leszállítása előtt először a veszteség rendezése miatti alaptőke-leszállításról kell dönteni.
 
 #### 3:310. § [Az alaptőke-leszállítás módja]
 
@@ -3436,6 +3458,8 @@ Ha több részvényfajta, illetve részvényosztály létezik, az egyesülést k
 
 (1) A közgyűlést évente legalább egyszer össze kell hívni. Az alapszabály ennél ritkább ülésezést előíró rendelkezése semmis.
 
+(1a) A közgyűlési meghívó elküldése és a közgyűlés napja között legalább tizenöt napnak kell eltelnie. Az alapszabály öt napnál rövidebb időtartamot előíró rendelkezése semmis.
+
 (2) A közgyűlési meghívó az általánosan kötelező tartalmi elemeken túl tartalmazza
 
 - a) küldöttgyűlés vagy részközgyűlések tartása esetén az erre a körülményre történő utalást; és
@@ -3457,7 +3481,7 @@ Ha több részvényfajta, illetve részvényosztály létezik, az egyesülést k
 
 #### 3:338. § [Határozatképesség, döntéshozatal]
 
-(1) Ha a közgyűlés határozatképtelen, a megismételt közgyűlés az eredeti napirenden szereplő ügyekben a megjelent tagok számára tekintet nélkül határozatképes, ha azt az eredeti időpontot legalább három és legfeljebb tizenöt nappal követő időpontra hívják össze. Az alapszabály három napnál rövidebb összehívási határidőt előíró rendelkezése semmis.
+(1) Ha a közgyűlés határozatképtelen, a megismételt közgyűlés az eredeti napirenden szereplő ügyekben a megjelent tagok számára tekintet nélkül határozatképes, ha azt az eredeti időpontot legalább három és legfeljebb tizenöt nappal követő időpontra hívják össze.
 
 (2) Az alapszabály módosításához a jelenlévők legalább kétharmadának és valamennyi tag felének a szavazata szükséges.
 
@@ -3513,7 +3537,7 @@ Ha több részvényfajta, illetve részvényosztály létezik, az egyesülést k
 
 (1) Az igazgatóság jogait és feladatait testületként gyakorolja.
 
-(2) Az igazgatóság határozatképes, ha legalább a tagok kétharmada jelen van. Határozatait a jelen lévő tagok egyszerű szótöbbségével hozza meg. Az alapszabály ennél alacsonyabb határozathozatali arányt előíró rendelkezése semmis. Az igazgatóság üléseit az elnök vagy az általa megbízott igazgatósági tag hívja össze. Az igazgatóság ügyrendjét maga állapítja meg.
+(2) Az igazgatóság határozatképes, ha legalább a tagok kétharmada jelen van. Határozatait a jelen lévő tagok egyszerű szótöbbségével hozza meg. Az igazgatóság üléseit az elnök vagy az általa megbízott igazgatósági tag hívja össze. Az igazgatóság ügyrendjét maga állapítja meg.
 
 (3) Az igazgatóság hatáskörébe tartozik a döntés mindazokban az ügyekben, amelyeket jogszabály vagy az alapszabály nem utal a közgyűlés vagy a felügyelőbizottság hatáskörébe.
 
@@ -3583,9 +3607,9 @@ A vezető tisztségviselői megbízatás megszűnésének a jogi személyek ált
 
 #### 3:352. § [A könyvvizsgálói megbízatás keletkezése és időtartama]
 
-(1) A szövetkezet első könyvvizsgálóját az alapszabályban kell kijelölni, ezt követően a könyvvizsgálót a közgyűlés választja. A könyvvizsgálóval a megbízási szerződést - a közgyűlés által meghatározott feltételekkel és díjazás mellett - az ügyvezetés a kijelölést vagy a választást követő kilencven napon belül köti meg. Ha a szerződés megkötésére e határidőn belül nem kerül sor, a közgyűlés köteles új könyvvizsgálót választani.
+(1) A szövetkezet első könyvvizsgálóját – ha más jogszabály előírása alapján az kötelező, vagy az alapszabály előírja – az alapszabályban kell kijelölni, ezt követően a könyvvizsgálót a közgyűlés választja. A könyvvizsgálóval a megbízási szerződést - a közgyűlés által meghatározott feltételekkel és díjazás mellett - az ügyvezetés a kijelölést vagy a választást követő kilencven napon belül köti meg. Ha a szerződés megkötésére e határidőn belül nem kerül sor, a közgyűlés köteles új könyvvizsgálót választani.
 
-(2) A könyvvizsgáló megbízatása öt évre - ha a szövetkezet ennél rövidebb időtartamra jött létre, erre az időtartamra - szól. A könyvvizsgáló megbízásának időtartama nem lehet rövidebb, mint a közgyűlés által történt megválasztásától a következő beszámolót elfogadó közgyűlési ülésig terjedő időszak; az alapszabály ettől eltérő rendelkezése semmis.
+(2) A könyvvizsgáló megbízatása legfeljebb öt évre - ha a szövetkezet ennél rövidebb időtartamra jött létre, erre az időtartamra - szól. A könyvvizsgáló megbízásának időtartama nem lehet rövidebb, mint a közgyűlés által történt megválasztásától a következő beszámolót elfogadó közgyűlési ülésig terjedő időszak; az alapszabály ettől eltérő rendelkezése semmis.
 
 #### 3:353. § [A könyvvizsgálói feladatok teljesítése]
 
@@ -3609,6 +3633,8 @@ A vezető tisztségviselői megbízatás megszűnésének a jogi személyek ált
 
 (4) A szövetkezetbe tagként belépni kívánó személy nem köteles vagyoni hozzájárulás teljesítésére annyiban, amennyiben más tag a szövetkezeti részesedését vagy annak egy hányadát rá átruházza.
 
+(5) Ha a szövetkezet tagjainak száma hét fő alá csökken, hat hónapos határidőn belül a szövetkezet köteles megfelelő számú új tagot felvenni, vagy a szövetkezet átalakulását, egyesülését, jogutód nélküli megszüntetését elhatározni.
+
 #### 3:355. § [Tagnyilvántartás]
 
 A szövetkezet a tagokról nyilvántartást vezet, amely tartalmazza a tag nevét és lakcímét vagy - nem természetes személy tag esetén - székhelyét, a tag által teljesített vagyoni hozzájárulás összegét, valamint a tagsági jogviszony keletkezésének és megszűnésének időpontját. A tagnyilvántartást bárki megtekintheti, ha érdekeltségét igazolja.
@@ -3629,13 +3655,15 @@ A szövetkezet a tagokról nyilvántartást vezet, amely tartalmazza a tag nevé
 
 #### 3:358. § [A tagsági jogviszony megszűnése]
 
-A tagsági jogviszony megszűnik, ha
+(1) A tagsági jogviszony megszűnik, ha
 
 - a) a tag a szövetkezetből kilép;
-- b) a tag a vagyoni hozzájárulását vagy pótbefizetési kötelezettségét - az alapszabályban, illetve közgyűlési határozatban meghatározott időpontig - nem teljesítette;
+- b) a tag a vagyoni hozzájárulását vagy pótbefizetési kötelezettségét – az alapszabályban, illetve közgyűlési határozatban meghatározott időpontig – nem teljesítette;
 - c) a tag meghal vagy megszűnik;
 - d) a bíróság a tagot kizárja;
 - e) a szövetkezet átalakulással, egyesüléssel, szétválással vagy jogutód nélkül megszűnik.
+
+(2) Az alapszabály a tagsági jogviszony megszűnésének egyéb eseteit is meghatározhatja.
 
 #### 3:359. § [A tag kilépése]
 
@@ -3655,9 +3683,9 @@ A kilépési szándékot az igazgatóságnak írásban kell bejelenteni. A kilé
 
 #### 3:361. § [Elszámolás a tagsági jogviszony megszűnésekor]
 
-(1) A tagsági jogviszony megszűnése esetén a tagot vagy jogutódját a vagyoni hozzájárulásának értéke, valamint a tagsági jogviszony időtartama alatt keletkezett, a vagyoni hozzájárulásra jutó saját tőke – lekötött tartalékkal csökkentett – összege illeti meg, abban az esetben, ha az a veszteség fedezésére nem került felhasználásra. Az összeget a tagsági jogviszony megszűnését követő három hónapon belül kell kiadni; a három hónapnál hosszabb időtartamot előíró alapszabályi rendelkezés a nyolc évet meghaladó részében semmis.
+(1) A tagsági jogviszony megszűnése esetén a tagot vagy jogutódját a vagyoni hozzájárulásának értéke, valamint a tagsági jogviszony időtartama alatt keletkezett, a vagyoni hozzájárulásra jutó saját tőke – lekötött tartalékkal csökkentett – összege illeti meg, abban az esetben, ha az a veszteség fedezésére nem került felhasználásra. A vagyoni hozzájárulás összegét a tagsági jogviszony megszűnését követő három hónapon belül, a tőkerészesedést a tagsági jogviszony megszűnését követő nyolc éven belül kell kiadni. Az alapszabály ennél hosszabb időtartamot előíró rendelkezése semmis.
 
-(2) A tagsági jogviszony megszűnése esetén a volt tag által a szövetkezet használatába adott vagyontárgyat kérelemre a volt tag részére vagy tagsági viszonyt nem létesítő jogutódja részére ki kell adni, ha a használatba adott vagyontárgy még a szövetkezet rendelkezésére áll. A kiadásra az (1) bekezdés szerinti elszámolással egyidejűleg kerül sor. Ha a használatba adott vagyontárgy elhasználódás folytán már nincs a szövetkezet birtokában, a szövetkezet ellenérték fizetésére nem köteles. A vagyontárgynak a tagsági jogviszony megszűnése utáni használata esetén a kiadásig terjedő időre a volt tag, illetve tagsági jogviszonyt nem létesítő jogutódja részére díjat kell fizetni.
+(2) A tagsági jogviszony megszűnése esetén a volt tag által a szövetkezet használatába adott vagyontárgyat kérelemre a volt tag részére vagy tagsági viszonyt nem létesítő jogutódja részére ki kell adni, ha a használatba adott vagyontárgy még a szövetkezet rendelkezésére áll. A vagyontárgyat a tagsági jogviszony megszűnését követő három hónapon belül kell kiadni; az alapszabály nyolc évnél hosszabb időtartamot előíró rendelkezése semmis. Ha a használatba adott vagyontárgy elhasználódás folytán már nincs a szövetkezet birtokában, a szövetkezet ellenérték fizetésére nem köteles. A vagyontárgynak a tagsági jogviszony megszűnése utáni használata esetén a kiadásig terjedő időre a volt tag, illetve tagsági jogviszonyt nem létesítő jogutódja részére díjat kell fizetni.
 
 ### XIX. CÍM — KISEBBSÉGVÉDELEM
 
@@ -3675,7 +3703,7 @@ A kilépési szándékot az igazgatóságnak írásban kell bejelenteni. A kilé
 
 (3) A vizsgálattal a szövetkezet könyvvizsgálója nem bízható meg.
 
-(4) A vizsgálat költségeit a szövetkezet előlegezi és viseli. A szövetkezet a költségeket abban az esetben háríthatja át a tagra, ha az a vizsgálatot nyilvánvalóan alaptalanul kezdeményezte.
+(4) A vizsgálat költségeit az indítványozók kötelesek előlegezni. A vizsgálat költségeit a szövetkezet viseli, kivéve, ha az indítványozók a vizsgálatot nyilvánvalóan alaptalanul kezdeményezték.
 
 #### 3:364. § [Igényérvényesítés kezdeményezése]
 
@@ -3697,11 +3725,9 @@ Semmis az alapszabály olyan rendelkezése, amely e cím rendelkezéseitől a ki
 
 (4) A szövetkezet átalakulásával létrejövő részvénytársaság zártkörűen alapítható azzal, hogy a részvények felajánlása kizárólag az átalakuló szövetkezet tagjai, illetve üzletrész tulajdonosai részére lehetséges. A részvények átalakulás során történő, nyilvános ajánlattételnek minősülő felajánlása nem jelenti a zártkörűen működő részvénytársaság részvényeinek forgalomba hozatalára vonatkozó e törvény szerinti korlátozás sérelmét.
 
-### XXI. CÍM — A SZÖVETKEZET MEGSZŰNÉSE
+### XXI. CÍM
 
-#### 3:367. § [A szövetkezet megszűnése]
-
-A jogi személy jogutód nélküli megszűnésének általános esetein túl a szövetkezet jogutód nélkül megszűnik abban az esetben is, ha tagjainak száma hét fő alá csökken, és az ettől számított hathónapos jogvesztő határidőn belül nem jelentenek be megfelelő számú új tagot a nyilvántartó bíróságnál.
+#### 3:367. §
 
 ## ÖTÖDIK RÉSZ — EGYESÜLÉS
 
@@ -4278,8 +4304,8 @@ A házastársak a lakóhelyüket egymással egyetértésben választják meg.
 (1) A feleség a házasságkötés után, választása szerint viseli
 
 - a) a születési nevét vagy a házasságkötés előtt közvetlenül viselt nevét;
-- b) a férje teljes nevét a házasságra utaló toldással, amelyhez hozzákapcsolhatja a házasságkötés előtt közvetlenül viselt nevét;
-- c) a férje családi nevét a házasságra utaló toldással és ehhez a házasságkötés előtt közvetlenül viselt nevét hozzákapcsolja; vagy
+- b) a férje teljes nevét a házasságra utaló toldással, amelyhez hozzákapcsolhatja a születési nevét vagy a házasságkötés előtt közvetlenül viselt nevét;
+- c) a férje családi nevét a házasságra utaló toldással és ehhez a születési nevét vagy a házasságkötés előtt közvetlenül viselt nevét hozzákapcsolja; vagy
 - d) a férje családi nevét, hozzákapcsolva saját utónevét.
 
 (2) A férj a házasságkötés után, választása szerint viseli
@@ -5446,7 +5472,7 @@ A szülő képviseleti joga nem terjed ki a gyermeknek azokra a jognyilatkozatai
 
 #### 4:164. § [A szülői felügyelet közös gyakorlása]
 
-(1) A szülői felügyeletet a szülők - megállapodásuk vagy a gyámhatóság vagy a bíróság eltérő rendelkezése hiányában - közösen gyakorolják akkor is, ha már nem élnek együtt.
+(1) A szülői felügyeletet a szülők – megállapodásuk vagy a gyámhatóság vagy a bíróság eltérő rendelkezése hiányában – közösen gyakorolják akkor is, ha már nem élnek együtt. A közös szülői felügyelet úgy is gyakorolható, hogy a szülők felváltva, azonos időtartamban jogosultak és kötelesek a gyermek nevelésére és gondozására.
 
 (2) A különélő szülőknek a közös szülői felügyelet gyakorlása során biztosítaniuk kell gyermekük kiegyensúlyozott életvitelét.
 
@@ -5466,9 +5492,17 @@ Ha a közös szülői felügyelet gyakorlása során a szülők valamely kérdé
 
 #### 4:167. § [A szülői felügyelet gyakorlásának bírósági rendezése]
 
-(1) A különélő szülők megállapodásának hiányában - kérelemre vagy a gyermek érdekében hivatalból - a bíróság dönt arról, hogy a szülői felügyeletet melyik szülő gyakorolja.
+(1) A különélő szülők megállapodásának hiányában – kérelemre vagy a gyermek érdekében hivatalból – a bíróság dönt arról, hogy a szülői felügyeletet melyik szülő gyakorolja. A bíróság az egyik szülő kérelmére is dönthet a szülői felügyelet közös gyakorlásáról, ha az a kiskorú gyermek érdekében áll.
 
 (2) A bíróság a döntés során azt mérlegeli, hogy a gyermek testi, szellemi és erkölcsi fejlődése miként biztosítható a legkedvezőbben.
+
+#### 4:167/A. § [A közös szülői felügyelet gyakorlásának bírósági rendezése]
+
+(1) A közös szülői felügyeletről való döntés esetén a bíróság a kiskorú gyermek érdekére figyelemmel elrendelheti, hogy a szülők a gyermekről felváltva, azonos időtartamban gondoskodjanak, vagy ennek hiányában szabályozza a gyermekkel való kapcsolattartást és dönt a gyermek tartásáról. A közös szülői felügyelet elrendelése esetén a bíróság kijelöli a gyermek lakóhelyét.
+
+(2) Ha a bíróság a szülőket felváltva, azonos időtartamban jogosítja fel a gyermek gondozására, dönt a szülő által önállóan gyakorolt gondoskodás időtartamának mértékéről – a szünetek és az ünnepek időszakára is kiterjedően –, a gyermek átadása, átvétele módjáról, továbbá szükség esetén a gyermek tartásáról is.
+
+(3) Ha a bíróság a szülőket felváltva, azonos időtartamban jogosítja fel a gyermek gondozására, akkor a (2) bekezdés szerinti döntések megváltoztatását is a bíróságtól lehet kérni.
 
 #### 4:168. § [A különélő szülő feljogosítása egyes szülői felügyeleti jogok gyakorlására]
 
@@ -7720,6 +7754,8 @@ A kötelem megszűnik
 
 (3) Írásba foglaltnak kell tekinteni a jognyilatkozatot akkor is, ha annak közlésére a jognyilatkozatban foglalt tartalom változatlan visszaidézésére, a nyilatkozattevő személyének és a nyilatkozat megtétele időpontjának azonosítására alkalmas formában kerül sor.
 
+(3a) Ha jogszabály eltérően nem rendelkezik, az ingatlannal kapcsolatos, valamint az öröklési jogi, családjogi, társasági jogi, illetve pénzügyi szolgáltatási jogviszonnyal összefüggésben elektronikus úton tett jognyilatkozat kizárólag akkor minősül írásba foglaltnak, ha annak tartalma írásjegyekkel rögzített és eleget tesz az elektronikus okirat létrehozására irányadó jogszabályi követelményeknek.
+
 (4) Írni nem tudó vagy nem képes személy írásbeli jognyilatkozata abban az esetben érvényes, ha azt közokirat vagy olyan teljes bizonyító erejű magánokirat tartalmazza, amelyen a nyilatkozó fél aláírását vagy kézjegyét bíróság vagy közjegyző hitelesíti, vagy amelyen ügyvéd ellenjegyzéssel vagy két tanú aláírással igazolja, hogy a nyilatkozó fél a nem általa írt okiratot előttük írta alá vagy látta el kézjegyével, vagy az okiraton lévő aláírást vagy kézjegyet előttük saját aláírásának vagy kézjegyének ismerte el. Az olvasni nem tudó, továbbá az olyan személy esetén, aki nem érti azt a nyelvet, amelyen az írásbeli nyilatkozatát tartalmazó okirat készült, az írásbeli jognyilatkozat érvényességének további feltétele, hogy magából az okiratból kitűnjön, hogy annak tartalmát a tanúk egyike vagy a hitelesítő személy a nyilatkozó félnek megmagyarázta.
 
 (5) A (4) bekezdésen alapuló érvénytelenségre csak a nyilatkozattevő személy érdekében lehet hivatkozni.
@@ -8933,7 +8969,9 @@ Fogyasztó és vállalkozás közötti szerződés esetén az ellenkező bizony�
 (2) Kellékszavatossági igénye alapján a jogosult választása szerint
 
 - a) kijavítást vagy kicserélést igényelhet, kivéve, ha a választott kellékszavatossági jog teljesítése lehetetlen, vagy ha az a kötelezettnek - másik kellékszavatossági igény teljesítésével összehasonlítva - aránytalan többletköltséget eredményezne, figyelembe véve a szolgáltatás hibátlan állapotban képviselt értékét, a szerződésszegés súlyát és a kellékszavatossági jog teljesítésével a jogosultnak okozott érdeksérelmet; vagy
-- b) az ellenszolgáltatás arányos leszállítását igényelheti, a hibát a kötelezett költségére maga kijavíthatja vagy mással kijavíttathatja, vagy a szerződéstől elállhat, ha a kötelezett a kijavítást vagy a kicserélést nem vállalta, e kötelezettségének a (4) bekezdés szerinti feltételekkel nem tud eleget tenni, vagy ha a jogosultnak a kijavításhoz vagy kicseréléshez fűződő érdeke megszűnt.
+- b) az ellenszolgáltatás arányos leszállítását igényelheti, – a (2a) bekezdés szerinti kivétellel – a hibát a kötelezett költségére maga kijavíthatja vagy mással kijavíttathatja, vagy a szerződéstől elállhat, ha a kötelezett a kijavítást vagy a kicserélést nem vállalta, e kötelezettségének a (4) bekezdés szerinti feltételekkel nem tud eleget tenni, vagy ha a jogosultnak a kijavításhoz vagy kicseréléshez fűződő érdeke megszűnt.
+
+(2a) Fogyasztó és vállalkozás közötti – ingó dolognak minősülő áru adásvételére, digitális tartalom szolgáltatására vagy digitális szolgáltatások nyújtására irányuló – szerződés esetén a fogyasztó kellékszavatossági jogai gyakorlása keretében a hibát a kötelezett költségére maga nem javíthatja ki, illetve mással sem javíttathatja ki azt.
 
 (3) Jelentéktelen hiba miatt elállásnak nincs helye.
 
@@ -13015,7 +13053,8 @@ Az átmeneti rendelkezéseket törvény állapítja meg.
 - l) a fogyasztók jogairól, a 93/13/EGK tanácsi irányelv és az 1999/44/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 85/577/EGK tanácsi irányelv és a 97/7/EK európai parlamenti és tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. október 25-i 2011/83/EU európai parlamenti és tanácsi irányelvnek;
 - m) a társasági jog egyes vonatkozásairól szóló, 2017. június 14-i (EU) 2017/1132 európai parlamenti és tanácsi irányelvnek;
 - n) a 2007/36/EK irányelvnek a hosszú távú részvényesi szerepvállalás ösztönzése tekintetében történő módosításáról szóló, 2017. május 17-i (EU) 2017/828 európai parlamenti és tanácsi irányelvnek;
-- o) a fogyasztási cikkek adásvételének és a kapcsolódó jótállásnak egyes vonatkozásairól szóló, 1999. május 25-i 1999/44/EK európai parlamenti és tanácsi irányelvnek
+- o) az áruk adásvételére irányuló szerződések egyes vonatkozásairól, az (EU) 2017/2394 rendelet és a 2009/22/EK irányelv módosításáról, valamint az 1999/44/EK irányelv hatályon kívül helyezéséről szóló, 2019. május 20-i (EU) 2019/771 európai parlamenti és tanácsi irányelvnek;
+- p) a digitális tartalom szolgáltatására és digitális szolgáltatások nyújtására irányuló szerződések egyes vonatkozásairól szóló, 2019. május 20-i (EU) 2019/770 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

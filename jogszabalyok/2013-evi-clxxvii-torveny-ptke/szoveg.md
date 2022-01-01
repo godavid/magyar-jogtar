@@ -247,6 +247,10 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 
 36. § A Csjt. 82. § (2) bekezdése alapján a gyermek gyámhatósághoz beszolgáltatott vagyonát a Ptk. hatálybalépését követő hat hónapon belül a szülőnek ki kell adni.
 
+### [A Ptk. 4:167. § (1) bekezdéséhez és 4:167/A. §-ához]
+
+36/A. § A Ptk.-nak az egyes igazságügyi tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXII. törvénnyel megállapított 4:167. § (1) bekezdését és 4:167/A. §-át a 2022. január 1. napján és azt követően indult bírósági eljárásokban kell alkalmazni.
+
 ### (A Ptk. 4:172. és 4:177. §-ához)
 
 37. § A Ptk. 4:172. §-a szerinti, illetve 4:177. §-a szerinti szabályokat a közvetítői eljárás kötelező igénybevételének elrendelésére vonatkozóan a Ptk. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
@@ -475,6 +479,7 @@ kell alkalmaznia [az a) és a b) pontban megjelölt időpont ezen alcím alkalma
 - f) az utazási szolgáltatásokra, valamint az utazási csomagra vonatkozó szerződések kötelező tartalmi elemeit, a szerződés teljesítésére, ideértve a díj megfizetésére vonatkozó szabályokat, az egyoldalú szerződésmódosításra, a szerződés egyoldalú jognyilatkozattal történő megszüntetésére, a szerződésátruházásra, valamint – az utazási szolgáltatásegyüttesre vonatkozó szerződések tekintetében is – a szerződésben vállalt kötelezettségek teljesítéséért való felelősségre, illetve az utazási vállalkozók fizetésképtelenséggel szembeni védelmét szolgáló vagyoni biztosítékokra vonatkozó különös rendelkezéseket, továbbá az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződések tekintetében a szerződéskötést megelőző tájékoztatás kötelező tartalmi elemeit és formáját.
 - g) a részvénytársaságok részvénykönyvének vezetésével megbízható személyek körét, a részvénykönyvbe történő bejelentés módját, határidejét, a bejelentő személyét és a részvényesi minőség igazolásának eljárására és határidejére vonatkozó szabályokat;
 - h) a közvetítőnek járó díjazás körében a jutalék számításának módját, a jutalékköteles ügyleteket, a külön jutalékra jogosító szolgáltatásokat, a jutalék megfizetésének (visszafizetésének) feltételeit és a jutalékkal való elszámolás módját (az elszámolással kapcsolatos jogokat és kötelezettségeket).
+- i) a fogyasztó és vállalkozás közötti, digitális tartalom szolgáltatására vagy digitális szolgáltatás nyújtására irányuló szerződések szabályait, ideértve a digitális tartalom vagy a digitális szolgáltatás szerződésszerű teljesítésére, a hibás teljesítésre és az azzal kapcsolatos jogorvoslati lehetőségekre, valamint azok gyakorlásának módjára, illetve a digitális tartalom vagy szolgáltatás módosítására vonatkozó részletes szabályokat, továbbá a fogyasztó és vállalkozás közötti, áruk adásvételére vonatkozó szerződések szabályait, ideértve a szerződésszerű teljesítésre, a hibás teljesítésre és az azzal kapcsolatos jogorvoslati lehetőségekre, valamint azok érvényesítésének feltételeire, illetve a jótállásra vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap az állami vagyon felügyeletéért felelős miniszter, hogy rendeletben meghatározza az állam öröklése és az államot megillető egyéb jogok gyakorlása esetén a magyar állam képviseletéről szóló részletes szabályokat.
 

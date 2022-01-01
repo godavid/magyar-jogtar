@@ -14,14 +14,16 @@ Az Országgyűlés az információs önrendelkezési jog és az információszab
 
 2. § (1) E törvény hatálya – személyes adatok tekintetében a (2)–(6) bekezdésben meghatározottak szerint – minden olyan adatkezelésre kiterjed, amely személyes adatra, valamint közérdekű adatra vagy közérdekből nyilvános adatra vonatkozik.
 
-(2) Személyes adatoknak az (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: általános adatvédelmi rendelet) hatálya alá tartozó kezelésére az általános adatvédelmi rendeletet a III-V. és a VI/A. Fejezetben, valamint a 3. § 3., 4., 6., 11., 12., 13., 16., 17., 21., 23–24. pontjában, a 4. § (5) bekezdésében, az 5. § (3)–(5), (7) és (8) bekezdésében, a 13. § (2) bekezdésében, a 23. §-ban, a 25. §-ban, a 25/G. § (3), (4) és (6) bekezdésében, a 25/H. § (2) bekezdésében, a 25/M. § (2) bekezdésében, a 25/N. §-ban, az 51/A. § (1) bekezdésében, az 52–54. §-ban, az 55. § (1)–(2) bekezdésében, az 56–60. §-ban, a 60/A. § (1)–(3) és (6) bekezdésében, a 61. § (1) bekezdés a) és c) pontjában, a 61. § (2) és (3) bekezdésében, (4) bekezdés b) pontjában és (6)–(10) bekezdésében, a 62–71. §-ban, a 72. §-ban, a 75. § (1)–(5) bekezdésében, a 75/A. §-ban és az 1. mellékletben meghatározott kiegészítésekkel kell alkalmazni.
+(2) Személyes adatoknak az (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: általános adatvédelmi rendelet) hatálya alá tartozó kezelésére az általános adatvédelmi rendeletet a III-V. és a VI/A. Fejezetben, valamint a 3. § 3., 4., 6., 11., 12., 13., 16., 17., 21., 23–24. pontjában, a 4. § (5) bekezdésében, az 5. § (3)–(5), (7) és (8) bekezdésében, a 13. § (2) bekezdésében, a 23. §-ban, a 25. §-ban, a 25/G. § (3), (4) és (6) bekezdésében, a 25/H. § (2) bekezdésében, a 25/M. § (2) bekezdésében, a 25/N. §-ban, az 51/A. § (1) bekezdésében, az 52–54. §-ban, az 55. § (1)–(2) bekezdésében, az 56–60. §-ban, a 60/A. § (1)–(3) és (6) bekezdésében, a 61. § (1) bekezdés a) és c) pontjában, a 61. § (2) és (3) bekezdésében, (4) bekezdés b) pontjában és (6)–(10) bekezdésében, továbbá a 61/A–61/D. §-ban,, a 62–71. §-ban, a 72. §-ban, a 75. § (1)–(5) bekezdésében, a 75/A. §-ban és az 1. mellékletben meghatározott kiegészítésekkel kell alkalmazni.
 
 (3) Személyes adatok bűnüldözési, nemzetbiztonsági és honvédelmi célú kezelésére e törvényt kell alkalmazni.
 
 (4) Személyes adatoknak a (2) és (3) bekezdés hatálya alá nem tartozó kezelésére
 
 - a) az általános adatvédelmi rendelet 4. cikkében, II–VI., és VIII–IX. fejezetében, valamint
-- b) az e törvény III–V. és VI/A. Fejezetében, továbbá a 3. § 3., 4., 6., 11., 12., 13., 16., 17., 21., 23–24. pontjában, a 4. § (5) bekezdésében, az 5. § (3)–(5), (7) és (8) bekezdésében, a 13. § (2) bekezdésében, a 23. §-ban, a 25. §-ban, a 25/G. § (3), (4) és (6) bekezdésében, a 25/H. § (2) bekezdésében, a 25/M. § (2) bekezdésében, a 25/N. §-ban, az 51/A. § (1) bekezdésében, az 52–54. §-ban, az 55. § (1) és (2) bekezdésében, az 56–60. §-ban, a 60/A. § (1)–(3) és (6) bekezdésében, a 61. § (1) bekezdés a) és c) pontjában, a 61. § (2) és (3) bekezdésében, (4) bekezdés b) pontjában és (6)–(10) bekezdésében, a 62–71. §-ban, a 72. §-ban, a 75. § (1)–(5) bekezdésében és az 1. mellékletben meghatározott rendelkezéseket kell alkalmazni.
+- b) az e törvény III–V. és VI/A. Fejezetében, továbbá a 3. § 3., 4., 6., 11., 12., 13., 16., 17., 21., 23–24. pontjában, a 4. § (5) bekezdésében, az 5. § (3)–(5), (7) és (8) bekezdésében, a 13. § (2) bekezdésében, a 23. §-ban, a 25. §-ban, a 25/G. § (3), (4) és (6) bekezdésében, a 25/H. § (2) bekezdésében, a 25/M. § (2) bekezdésében, a 25/N. §-ban, az 51/A. § (1) bekezdésében, az 52–54. §-ban, az 55. § (1) és (2) bekezdésében, az 56–60. §-ban, a 60/A. § (1)–(3) és (6) bekezdésében, a 61. § (1) bekezdés a) és c) pontjában, a 61. § (2) és (3) bekezdésében, (4) bekezdés b) pontjában és (6)–(10) bekezdésében, továbbá a 61/A–61/D. §-ban,, a 62–71. §-ban, a 72. §-ban, a 75. § (1)–(5) bekezdésében és a 75/A. §-ban és az 1. mellékletben
+
+meghatározott rendelkezéseket kell alkalmazni.
 
 (5) Személyes adatoknak az általános adatvédelmi rendelet hatálya alá tartozó kezelésére e törvény a (2) bekezdésben meghatározott rendelkezéseit, valamint más, törvényben meghatározott, a személyes adatok védelmére és a személyes adatok kezelésének feltételeire vonatkozó előírásokat – ha törvény vagy az Európai Unió kötelező jogi aktusa másként nem rendelkezik – akkor kell alkalmazni, ha
 
@@ -1099,7 +1101,7 @@ dönt.
 
 (6) Az adatvédelmi hatósági eljárásban a kérelmezőt költségmentesség illeti meg, a Hatóság előlegezi az olyan eljárási költséget, amelynek előlegezése a kérelmezőt terhelné.
 
-60/A. § (1) Az adatvédelmi hatósági eljárásban az ügyintézési határidő százötven nap.
+60/A. § (1) Az adatvédelmi hatósági eljárásban az ügyintézési határidő százötven nap, amely határidőbe nem számít bele a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő.
 
 (2) A Hatóság az adatvédelmi hatósági eljárást az általános adatvédelmi rendelet
 
@@ -1107,6 +1109,15 @@ dönt.
 - b) 63–66. cikkében meghatározott egységességi mechanizmus
 
 alkalmazásának időtartamára felfüggeszti, azzal, hogy a Hatóság a felfüggesztés időtartama alatt is elvégzi az együttműködési eljárásban és az egységességi mechanizmusban szükséges eljárási cselekményeket.
+
+(2a) Az általános közigazgatási rendtartásról szóló törvényben meghatározott eseteken kívül a Hatóság felfüggesztheti az általa folytatott hatósági eljárást, ha
+
+- a) annak során olyan kérdés merül fel, amelynek eldöntése más szerv vagy személy hatáskörébe tartozik, vagy
+- b) a Hatóságnak az adott üggyel szorosan összefüggő más döntése, illetve eljárása nélkül az adott ügy megalapozottan nem dönthető el.
+
+(2b) A Hatóság az eljárás felfüggesztéséről szóló végzését a (2a) bekezdésében meghatározott más szervvel, illetve személlyel is közli azzal, hogy az eljárás befejezéséről tájékoztassa.
+
+(2c) Az eljárás felfüggesztésekor minden határidő megszakad és az eljárás felfüggesztésének megszüntetésekor – az ügyintézési határidő kivételével – újrakezdődik.
 
 (3) Ha a Hatóság a kérelemre indult eljárás bármely szakaszában megállapítja joghatóságának hiányát, a kérelmet visszautasítja vagy az eljárást megszünteti.
 
@@ -1118,14 +1129,14 @@ alkalmazásának időtartamára felfüggeszti, azzal, hogy a Hatóság a felfüg
 
 61. § (1) Az adatvédelmi hatósági eljárásban hozott határozatában a Hatóság
 
-- a) a 2. § (2) és (4) bekezdésében meghatározott adatkezelési műveletekkel összefüggésben az általános adatvédelmi rendeletben meghatározott jogkövetkezményeket alkalmazhatja,
+- a) a 2. § (2) és (4) bekezdésében meghatározott adatkezelési műveletekkel összefüggésben az általános adatvédelmi rendeletben meghatározott jogkövetkezményeket alkalmazhatja, így különösen kérelemre vagy hivatalból elrendelheti a jogellenesen kezelt személyes adatok általa meghatározott módon végrehajtandó törlését, illetve átmenetileg vagy véglegesen egyéb módon korlátozhatja az adatkezelést,
 - b) a 2. § (3) bekezdésében meghatározott adatkezelési műveletekkel összefüggésben
   - ba) megállapíthatja a személyes adatok jogellenes kezelésének tényét,
   - bb) elrendelheti a valóságnak nem megfelelő személyes adat helyesbítését,
   - bc) elrendelheti a jogellenesen kezelt személyes adatok zárolását, törlését vagy megsemmisítését,
   - bd) megtilthatja a személyes adatok jogellenes kezelését,
   - be) megtilthatja a személyes adatok külföldre történő továbbítását vagy átadását,
-  - bf) elrendelheti az érintett tájékoztatását, ha azt az adatkezelő jogellenesen tagadta meg, valamint
+  - bf) elrendelheti az érintett tájékoztatását, ha azt az adatkezelő jogellenesen mellőzte vagy tagadta meg, valamint
   - bg) bírságot szabhat ki,
 - c) az általános adatvédelmi rendelet 41. cikk (1) bekezdésében meghatározott ellenőrzési tevékenységet végző szervezettel szemben az általános adatvédelmi rendelet 41. cikk (5) bekezdésében meghatározott jogkövetkezményeket alkalmazhatja.
 
@@ -1135,7 +1146,7 @@ alkalmazásának időtartamára felfüggeszti, azzal, hogy a Hatóság a felfüg
 - b) azt közfeladatot ellátó szerv tevékenységével összefüggésben hozta, vagy
 - c) a bekövetkezett jogsérelem súlya a nyilvánosságra hozatalt indokolja.
 
-(3) A Hatóság eljárásában figyelmeztetés és óvadék alkalmazása kizárt, ha a Hatóság a mérlegelésére vonatkozó előírások alapján bírság kiszabásának szükségességét állapítja meg.
+(3) A Hatóság eljárásában figyelmeztetés alkalmazása kizárt, ha a Hatóság a mérlegelésére vonatkozó előírások alapján bírság kiszabásának szükségességét állapítja meg.
 
 (4) A bírság mértéke százezertől húszmillió forintig terjedhet
 
@@ -1156,6 +1167,73 @@ szerint kiszabott bírság esetén.
 
 (10) A Hatóság döntésében megállapított fizetési kötelezettség tekintetében benyújtott mérséklés, továbbá teljesítési kedvezmény iránti kérelem elbírálása során az állami adó- és vámhatóság az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 110. §-ának alkalmazásával jár el.
 
+61/A. § (1) A Hatóság ideiglenes intézkedésként a személyes adat jogellenes kezelésének megakadályozása érdekében azon elektronikus hírközlő hálózat útján közzétett adat (e törvény alkalmazásában a továbbiakban: elektronikus adat) ideiglenes eltávolítására, amelynek közzététele miatt a Hatóság adatvédelmi hatósági eljárást vagy hatósági ellenőrzést folytat, az elektronikus adatot kezelő, az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló törvényben meghatározott tárhelyszolgáltatót, illetve tárhelyszolgáltatást is végző közvetítő szolgáltatót (a továbbiakban együtt: eltávolításra kötelezett) is kötelezheti, ha annak hiányában a késedelem a személyes adatok védelméhez fűződő jog elháríthatatlan és súlyos sérelmével járna és a közzétett adat
+
+- a) érintettje gyermek, vagy
+- b) különleges adat vagy bűnügyi személyes adat.
+
+(2) Az elektronikus adat ideiglenes eltávolításáról szóló végzést az eltávolításra kötelezettel haladéktalanul közölni kell. Az eltávolításra kötelezett a Hatóság ideiglenes intézkedéséről szóló végzésének vele történő közlését követő egy munkanapon belül köteles az elektronikus adat ideiglenes eltávolítására.
+
+(3) Az elektronikus adat ideiglenes eltávolítását a Hatóság megszünteti és az elektronikus adat visszaállítását rendeli el, ha az elrendelésének oka megszűnt.
+
+(4) Az elektronikus adat ideiglenes eltávolítása a Hatóság adatvédelmi hatósági eljárásának végleges befejezésével, illetve a hatósági ellenőrzés lezárásával megszűnik.
+
+(5) A Hatóság a (3) és (4) bekezdésben meghatározott esetben az elektronikus adat visszaállítására kötelezi az eltávolításra kötelezettet.
+
+(6) Az elektronikus adat visszaállításáról szóló végzést az eltávolításra kötelezettel haladéktalanul közölni kell. A visszaállításra kötelezett a végzés vele történő közlésétől számított egy munkanapon belül köteles az elektronikus adat visszaállítására.
+
+(7) A (6) bekezdésben meghatározott végzést az elektronikus adat felett rendelkezésre jogosultnak akkor kell kézbesíteni, ha az eljárás addigi adatai alapján személye és elérhetősége ismert.
+
+(8) Az elektronikus adat ideiglenes eltávolítása tárgyában hozott döntés ellen önálló jogorvoslatnak van helye.
+
+(9) A Hatóság százezertől húszmillió forintig terjedő eljárási bírsággal sújthatja azt az eltávolításra kötelezettet, amely az e § szerinti kötelezettségének nem tesz eleget.
+
+61/B. § (1) A Hatóság ideiglenes intézkedésként személyes adat jogellenes kezelésének megakadályozása érdekében elrendelheti az ideiglenes hozzáférhetetlenné tételét annak az elektronikus adatnak, amelynek közzététele miatt a Hatóság adatvédelmi hatósági eljárást vagy hatósági ellenőrzést folytat.
+
+(2) Az elektronikus adat ideiglenes hozzáférhetetlenné tételére akkor kerülhet sor, ha annak hiányában a késedelem a személyes adatok védelméhez fűződő jog elháríthatatlan és súlyos sérelmével járna, továbbá a Hatóság egyéb intézkedése, ideértve a 61/A. § (1) bekezdésében foglalt ideiglenes eltávolítást is, nem vezetett eredményre és a közzétett adat
+
+- a) érintettje gyermek, vagy
+- b) különleges adat vagy bűnügyi személyes adat.
+
+(3) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő végzést a Hatóság hirdetményi úton közli. A hirdetményt öt napig kell a Hatóság hirdetőtábláján kifüggeszteni, valamint a honlapján közzétenni. A végzés közlésének napja a hirdetmény kifüggesztését követő harmadik nap.
+
+(4) A Hatóság (1) bekezdés szerinti végzésének kötelezettje – annak a végzésben történő megjelölése nélkül – valamennyi elektronikus hírközlési szolgáltató.
+
+(5) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének végrehajtását a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) az elektronikus hírközlésről szóló törvény alapján szervezi és ellenőrzi.
+
+(6) A Hatóság százezertől húszmillió forintig terjedő eljárási bírsággal sújthatja azt az elektronikus hírközlési szolgáltatót, amely az e § szerinti kötelezettségének nem tesz eleget.
+
+61/C. § (1) Az elektronikus adat ideiglenes hozzáférhetetlenné tételére vonatkozó kötelezettség megszűnik,
+
+- a) ha az adatvédelmi hatósági eljárás megszűnik, az adatvédelmi hatósági eljárást a Hatóság megszünteti vagy a hatósági ellenőrzést a Hatóság lezárja és az ügyben adatvédelmi hatósági eljárást nem indít, a (2) bekezdésben meghatározott értesítés közzétételének napján, vagy
+- b) ha a Hatóság az adatkezelőt vagy az adatfeldolgozót határozatában az elektronikus adat törlésére kötelezi, a Hatóság határozata véglegessé válásának napján.
+
+(2) Az (1) bekezdés a) és b) pontjában meghatározott időpontot a Hatóság hirdetményi úton teszi közzé.
+
+(3) Az ideiglenes hozzáférhetetlenné tételt a Hatóság végzéssel megszünteti, ha
+
+- a) az elrendelés oka megszűnt, vagy
+- b) a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedést, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedést elrendelték vagy végrehajtása van folyamatban.
+
+(4) Az e § szerinti végzésre a 61/B. § (3) bekezdésében foglaltakat megfelelően alkalmazni kell.
+
+(5) Az elektronikus adat ideiglenes hozzáférhetetlenné tételéről szóló döntés ellen önálló jogorvoslatnak van helye.
+
+61/D. § (1) A Hatóság – a 61. § (7) bekezdése szerinti végrehajtás keretében – az elektronikus adat ideiglenes eltávolítását, illetve ideiglenes hozzáférhetetlenné tételét rendelheti el akkor is, ha
+
+- a) az elektronikus adat közzététele a Hatóság véglegessé vált döntésében foglaltak alapján jogellenes,
+- b) az a) pont szerinti elektronikus adatra vonatkozóan a Hatóság az adat törlését rendelte el, és
+- c) az elektronikus adat törlésére kötelezett adatkezelő vagy adatfeldolgozó a törlési kötelezettségének a Hatóság ismételt felhívására sem tesz eleget.
+
+(2) Az elektronikus adat (1) bekezdés szerinti ideiglenes eltávolítását, illetve ideiglenes hozzáférhetetlenné tételét a Hatóság az elektronikus adat törlésének időpontjáig rendeli el, amely időpontról a Hatóság
+
+- a) értesíti azokat, akikkel az elektronikus adat ideiglenes eltávolítását elrendelő végzését közölte, valamint
+- b) hirdetményi úton értesíti azokat, akikkel az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő végzését közölte.
+
+(3) Az elektronikus adat (1) bekezdés szerinti ideiglenes eltávolítására a 61/A. § (2), (8) és (9) bekezdésében, valamint az (1) bekezdés szerinti ideiglenes hozzáférhetetlenné tételére a 61/B. § (3)–(6) bekezdésében és a 61/C. § (5) bekezdésében meghatározottakat megfelelően alkalmazni kell.
+
+(4) Az (1) bekezdés alapján elrendelt elektronikus adat ideiglenes eltávolítására, illetve az elektronikus adat ideiglenes hozzáférhetetlenné tételére a bírósági végrehajtásról szóló törvény szabályait kell megfelelően alkalmazni.
+
 #### 33. Titokfelügyeleti hatósági eljárás
 
 62. § (1) Ha a Hatóság vizsgálata alapján vagy egyébként valószínűsíthető, hogy a nemzeti minősített adat minősítése jogellenes, a Hatóság titokfelügyeleti hatósági eljárást indíthat.
@@ -1174,7 +1252,7 @@ szerint kiszabott bírság esetén.
 
 (5) A titokfelügyeleti hatósági eljárásban a tényállás tisztázása során a tanú, a szakértő és a szemletárgy birtokosa meghallgatható akkor is, ha nem kapott felmentést a vizsgált nemzeti minősített adatra vonatkozó titoktartási kötelezettség alól.
 
-(6) A titokfelügyeleti hatósági eljárásban az ügyintézési határidő kilencven nap.
+(6) A titokfelügyeleti hatósági eljárásban az ügyintézési határidő kilencven nap, amely határidőbe nem számít bele a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő.
 
 63. § (1) A titokfelügyeleti hatósági eljárásban hozott határozatában a Hatóság
 

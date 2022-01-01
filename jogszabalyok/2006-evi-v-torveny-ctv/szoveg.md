@@ -1447,9 +1447,15 @@ elbírálásával egyidejűleg
 
 86. § A cégbíróság más hatóság eljárásának lefolytatását kezdeményezi, ha azt a cég jogszabálysértő működése vagy a vezető tisztségviselők jogellenes tevékenysége miatt a tagok érdekeinek, illetve a hitelezők jogainak védelme céljából szükségesnek látja. A kezdeményezett eljárást lefolytató hatóság harminc napon belül köteles tájékoztatni a cégbíróságot arról, hogy az eljárást megindította-e, a későbbiekben pedig a megindított eljárás befejezéséről, illetve a megtett intézkedésekről is.
 
-### 3. CÍM
+### 3. CÍM — Az állam szükségképpeni örökléséhez kapcsolódó intézkedések
 
-#### 87. §
+87. § (1) Ha az állam gazdasági társaságban társasági részesedést örökölt, az államot megillető társasági részesedés helyzetének rendezése érdekében – nyilvánosan működő részvénytársaság kivételével – az állam nevében eljáró tulajdonosi joggyakorló kérheti a cégbíróságot, hogy 60 napon belüli időpontra hívja össze a gazdasági társaság legfőbb szervének ülését, ha az állam nevében eljáró tulajdonosi joggyakorló kérelmében igazolja, hogy a legfőbb szerv összehívását eredménytelenül kezdeményezte a gazdasági társaság ügyvezetésénél. A kérelemben a legfőbb szerv ülése napirendjét is meg kell jelölni. Eredménytelen kezdeményezésnek minősül, ha írásbeli kezdeményezésre a gazdasági társaság legfőbb szerve 30 napon belül nem kerül összehívásra.
+
+(2) A cégbíróság által összehívott legfőbb szervi ülésen az állam nevében eljáró tulajdonosi joggyakorló képviselője is részt vesz.
+
+(3) A cégbíróság az (1) bekezdés szerinti kérelmet annak érkezésétől számított tizenöt munkanapon belül érdemben elbírálja. A kérelmet elutasító cégbírósági végzés ellen fellebbezésnek van helye.
+
+(4) Ha az állam gazdasági társaságban társasági részesedést örökölt, és az állam öröklését követően – ide nem értve az (1)–(3) bekezdés szerinti eljárást – a társasággal szemben törvényességi felügyeleti eljárás indult, felügyelőbiztosként kizárólag a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 66. §-a szerinti állami felszámoló rendelhető ki.
 
 ### 4. CÍM — A cégjegyzékbe bejegyzett személynek
 
@@ -1521,7 +1527,7 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 
 96. § A végelszámolással kapcsolatos cégbírósági eljárásokra az e törvény által nem szabályozott kérdésekben a Pp. szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit – ha e törvény eltérően nem rendelkezik – kell alkalmazni. A végelszámolással összefüggő nemperes eljárásokban a cég székhelye szerinti cégbíróság, az e fejezetbe foglalt peres eljárásokban pedig a cég székhelye szerint illetékes törvényszék jár el.
 
-97. § (1) A végelszámolás tárgya a cégnek az a vagyona, amellyel a cég a végelszámolás kezdő időpontjában rendelkezik, továbbá az a vagyon, amelyet ezt követően a végelszámolás folyamata alatt szerez, ide nem értve a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 4. §-ának (3) bekezdésében meghatározott vagyont.
+97. § (1) A végelszámolás tárgya a cégnek az a vagyona, amellyel a cég a végelszámolás kezdő időpontjában rendelkezik, továbbá az a vagyon, amelyet ezt követően a végelszámolás folyamata alatt szerez, ide nem értve a Cstv. 4. §-ának (3) bekezdésében meghatározott vagyont.
 
 (2) A végelszámolás kezdő időpontja a jogutód nélküli megszűnésről rendelkező határozatban megállapított időpont, ami nem lehet korábbi, mint a határozat kelte.
 
@@ -1556,6 +1562,8 @@ a céggel kapcsolatos jogviszony törlésére irányuló kérelme
 (4) A végelszámoló az ilyen tisztséget betöltő személytől elvárható fokozott gondossággal, a végelszámolás alatt álló cég, valamint a hitelezők érdekeinek szem előtt tartásával köteles eljárni. A kötelezettségeinek megszegésével okozott kárért a polgári jogi felelősség általános szabályai szerint felel.
 
 (4a) Ha jogszabály rendelkezése alapján a végelszámolást a Magyar Nemzeti Bankról szóló törvényben (a továbbiakban: MNBtv.) meghatározott szervezetek felszámolását végző nonprofit gazdasági társaság végzi, a végelszámolási feladatok ellátására kijelölt személy nem lehet az, aki a végelszámolás alatt álló cégnél az MNBtv. szerinti felügyeleti biztosi tevékenységet látott, illetve lát el.
+
+(4b) Annak a gazdasági társaságnak a végelszámolásában, amelyben az állam társasági részesedést örökölt, a végelszámolói feladatok ellátásával a Cstv. 66. §-a szerinti állami felszámoló is megbízható.
 
 (5) Ha a végelszámolás alatt álló cég felszámolás alá kerül, és megállapítható, hogy a végelszámoló alapos ok nélkül késlekedett a felszámolási eljárás kezdeményezésével, vagy nem tett meg mindent a hitelezők veszteségeinek csökkentése, illetve a környezeti károk mérséklése a kármentesítés érdekében vagy egyes hitelezőket mások rovására előnyben részesített, a felszámoló vagy a hitelezők keresetére a bíróság arra kötelezi a végelszámolót, hogy a cég vagyonához a károkozás összege mértékéhez igazodó tőke-hozzájárulást teljesítsen. A bíróság ebben az esetben a végelszámoló díját részben vagy egészben megvonhatja.
 
@@ -1928,9 +1936,11 @@ azt a közzétételt követő negyven napon belül jelentse be a cégbíróságn
 
 ### 1. CÍM — A vagyonrendezési eljárás kezdeményezése
 
-119. § (1) Vagyonrendezési eljárást kell – kérelemre vagy hivatalból – lefolytatni, ha megszüntetési eljárás lefolytatása után, a cég jogutód nélküli törlését követően olyan vagyontárgy kerül elő, amelynek a törölt cég volt a tulajdonosa. Ha a törölt cég ellen végrehajtási eljárás van folyamatban (Vht. 46. §) a végrehajtási eljárás alatt nem kezdeményezhető vagyonrendezési eljárás a lefoglalt vagyontárgy vonatkozásában.
+119. § (1) Vagyonrendezési eljárást kell – kérelemre vagy hivatalból – lefolytatni, ha a cég jogutód nélküli törlését követően olyan vagyontárgy kerül elő, amelynek a törölt cég volt a tulajdonosa. Ha a törölt cég ellen végrehajtási eljárás van folyamatban (Vht. 46. §) a végrehajtási eljárás alatt nem kezdeményezhető vagyonrendezési eljárás a lefoglalt vagyontárgy vonatkozásában.
 
 (1a) Vagyonrendezési eljárásnak van helye abban az esetben is, ha a korlátolt felelősségű társaságban üzletrésszel rendelkező tag jogutód nélkül úgy szűnt meg, hogy üzletrészéről nem rendelkeztek.
+
+(1b) Vagyonrendezési eljárást kell lefolytatni – kérelemre vagy hivatalból – akkor is, ha jogszabály így rendelkezik.
 
 (2) A vagyonrendezési eljárás polgári nemperes eljárás, amelyre a Pp. szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit – ha e törvény eltérően nem rendelkezik – kell alkalmazni, szünetelésnek azonban nincs helye.
 
@@ -1954,9 +1964,17 @@ azt a közzétételt követő negyven napon belül jelentse be a cégbíróságn
 
 (2) A bíróság a végzésben felhívja a törölt cég volt hitelezőit, illetve tagjait, hogy a vagyontárgyra vonatkozó igényeiket a közzétételtől számított harminc napon belül a vagyonrendezőnek jelentsék be, illetve csatolják az igényt megalapozó okiratokat.
 
+(2a) Ha az igényt bejelentő személy elbirtoklásra hivatkozik, vagy más jogcímen állítja azt, hogy a vagyontárgy tulajdonjogát megszerezte, és a vagyonrendező ezt nem fogadja el, a bejelentő harminc napon belül keresetet indíthat tulajdonjogának megállapítása iránt.
+
+(2b) Ha az ingatlan-nyilvántartásban az ingatlan tulajdonosaként bejegyzett jogi személyt a típusának megfelelő nyilvántartásból törölték, a tulajdonjog elbirtoklás vagy más címen történt megszerzésének megállapítására irányuló pert az ingatlan fekvése szerint illetékes bíróságon, a bíróság által kirendelt ügygondnok ellen kell megindítani. Az ügygondnok költségeit a felperes előlegezi és viseli.
+
+(2c) Ingóság esetében a (2b) bekezdés megfelelően alkalmazandó azzal, hogy az ingóság fekvése helyének az a hely minősül, ahol az a perindításkor található.
+
+(2d) Ha az igénybejelentő a (2a)–(2c) bekezdés szerinti perindítás tényét a keresetindításra nyitva álló határidő alatt a vagyonrendezési eljárást lefolytató bíróság és a vagyonrendező részére igazolja, a vagyonrendezési eljárást lefolytató bíróság a vagyonrendezési eljárást a per jogerős befejezéséig felfüggeszti.
+
 (3) Ha a vagyonrendezési eljárás tárgya zálogjoggal terhelt, a zálogjog jogosultját a bíróság külön felhívja hitelezői igénye bejelentésére. A bejelentés elmaradása esetén a zálogjog megszűnik.
 
-(4) Ha a vagyonrendező a bejelentett igényt nem fogadja el, a kérelmező nyolc napon belül az eljárást lefolytató bírósághoz fordulhat. A bíróság döntése ellen külön fellebbezésnek van helye.
+(4) Ha a (2a)–(2c) bekezdés hatálya alá nem tartozó esetben a vagyonrendező a bejelentett igényt nem fogadja el, a kérelmező nyolc napon belül a vagyonrendezési eljárást lefolytató bírósághoz fordulhat. A bíróság döntése ellen külön fellebbezésnek van helye.
 
 (5) A vagyonrendező jogszabálysértő intézkedése vagy mulasztása ellen a vagyonrendező kirendelésének időtartama alatt, a tudomásszerzéstől számított nyolc napon belül az eljárásban résztvevő sérelmet szenvedett fél a bíróságnál kifogással élhet. A bíróság a kifogásról soron kívül határoz, ennek során a kifogásolt intézkedést megsemmisíti, vagy a kifogást elutasítja. A bíróság döntése ellen külön fellebbezésnek van helye.
 
@@ -1988,7 +2006,24 @@ azt a közzétételt követő negyven napon belül jelentse be a cégbíróságn
 
 (6) A vagyonfelosztásról döntő végzés ellen fellebbezésnek van helye. Az eljárás jogerős befejezésének tényét a bíróság a Cégközlönyben közzéteszi.
 
-124. § A 120–123. §-ban foglaltak megfelelően irányadók abban az esetben is, ha a cég törlésére végelszámolási eljárás vagy felszámolási eljárás lefolytatása után került sor, de a cég törlését követően olyan vagyontárgy kerül elő, amelynek a törölt cég volt a tulajdonosa, és arról a végelszámolási, illetve a felszámolási eljárásban rendelkezés nem történt.
+124. § (1) Ha a cég törlésére felszámolási eljárásban került sor, a 120–123. §-ban foglalt rendelkezéseket az e §-ban foglalt eltérésekkel kell alkalmazni.
+
+(2) A vagyonrendezési eljárásban csak a felszámolási eljárásban nyilvántartásba vett hitelező jelentheti be hitelezői igényét, a felszámolási eljárásban ki nem elégített követelése erejéig. A bejelentéshez a hitelező köteles csatolni az arra vonatkozó nyilatkozatát, hogy a bejelentett hitelezői igény a felszámolási eljárásban vagy azt követően a nyilatkozat megtételének időpontjáig nem térült meg.
+
+(3) A vagyonrendező a hitelezői igényeket a Cstv. 57. §-a szerinti kielégítési sorrend megfelelő alkalmazásával besorolja azzal az eltéréssel, hogy a Cstv. 49/D. § alkalmazásának nincs helye. A vagyonrendezési eljárásban a hitelezői követelést a felszámolási eljárásban nyilvántartott besorolásával azonosan kell besorolni. A zálogjogosult bejelentett igényét a Cstv. 57. § (1) bekezdés b) pontja szerinti követelésként kell nyilvántartásba venni. A (2) bekezdésben és e bekezdésben foglaltak ellenőrzése érdekében a vagyonrendező jogosult a felszámolási eljárás iratait megismerni.
+
+(4) A 121. § (4) és (5) bekezdésétől eltérően kifogást nem terjeszthet elő a felszámolási eljárásban nyilvántartásba vett korábbi hitelező a saját követelésének besorolása miatt, kivéve, ha a besorolás vagy a követelés nyilvántartásba vétele nem az e §-ban meghatározott módon történt.
+
+(5) A vagyontárgy értékesítéséből befolyt vételárból az eljárás költségein túl levonásra kerül
+
+- a) a vagyontárgy élet- és vagyonbiztonságot veszélyeztető állapotának elhárításával közvetlenül összefüggő, hatósági határozattal elrendelt munkálatok igazolt költsége,
+- b) a vagyontárgy őrzésének, állagmegóvásának, értékesítésének költsége,
+- c) a vagyontárggyal összefüggésben a vagyonrendezési eljárás kezdő időpontját követően esedékessé váló és befizetendő adók, igazgatási szolgáltatási díjak, valamint
+- d) a vagyonrendező munkadíja.
+
+(6) A 123. §-tól eltérően a vagyonrendező munkadíja a vagyontárgy értékesítéséből befolyt nettó vételár 3%-ának és az azt terhelő általános forgalmi adónak megfelelő összeg.
+
+(7) A hitelezői igényeket a (3) bekezdés szerinti kielégítési sorrendben kell kielégíteni.
 
 ### 5. CÍM — MEGSZŰNT KÜLFÖLDI TAG ÜZLETRÉSZÉRE VONATKOZÓ ELJÁRÁS
 
@@ -2169,6 +2204,8 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 - b) a cégbíróság a 118. § szerinti, illetve a 117/F. § (2) bekezdése szerinti végzés meghozatala előtt 2022. június 30-áig felfüggeszti azokat a kényszertörlési eljárásokat, amelyekben a 118. § (2) bekezdése szerinti végzés meghozatalának lenne helye és nem tartoznak az a) pont hatálya alá. Ha a cég 2022. június 30-ig cégbíróság felé igazolja, hogy 117/C. § (2) bekezdés a) és d) pontjában foglalt feltételeknek megfelel, a cégbíróság kényszertörlési eljárást a céggel szemben megszünteti.
 
 (4) E törvénynek a 2021. évi LXX. tv.-nyel megállapított 80. § (6) bekezdését a folyamatban lévő törvényességi felügyeleti eljárásokban is alkalmazni kell azzal, hogy a cég vezető tisztségviselője köteles a tagokat a 2021. évi LXX. tv. hatálybalépését követő 30 napon belül tájékoztatni a céggel szemben folyamatban lévő törvényességi felügyeleti eljárásról.
+
+131/S. § E törvénynek az egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2021. évi CXXXIV. törvénnyel megállapított 119. § (1b) bekezdését, 121. § (2a)–(2d) és (4) bekezdését, valamint 124. §-át a folyamatban lévő ügyekben is alkalmazni kell.
 
 132. § (1) E törvény – végrehajtási rendeleteivel, valamint a Ptk.-val és az egyes jogi személyek átalakulásáról, egyesüléséről, szétválásáról szóló törvénnyel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

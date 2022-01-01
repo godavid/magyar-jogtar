@@ -1565,7 +1565,7 @@ miatt.
 - e) a tartós munkanélküliek, a fiatal munkanélküliek, az adósságterhekkel és lakhatási problémákkal küzdők, a fogyatékossággal élők, a krónikus betegek, a szenvedélybetegek, a pszichiátriai betegek, a kábítószer-problémával küzdők, illetve egyéb szociálisan rászorult személyek és családtagjaik részére tanácsadás nyújtását,
 - f) a kríziskezelést, valamint a nehéz élethelyzetben élő családokat segítő szolgáltatásokat,
 - g) a Gyvt. 40/A. § (2) bekezdés a) pont ad) alpontja szerinti készenléti szolgálatot az (1) bekezdés szerinti személyek számára,
-- i) a nagy létszámú intézmények átalakítását követően támogatott lakhatást igénybe vevők utánkövetését biztosító esetmenedzseri feladatokat.
+- i)
 
 (5)
 
@@ -1574,6 +1574,8 @@ miatt.
 (7) A család- és gyermekjóléti szolgálat az ellátási területén – felkérésre – közreműködik a kormányrendeletben meghatározott európai uniós forrásból megvalósuló program keretében természetben biztosítható eseti vagy rendszeres juttatás célzott és ellenőrzött elosztásában.
 
 (8) A Gyvt. szerinti család- és gyermekjóléti központ a család szociális helyzetének átfogó vizsgálata alapján elkészíti az igénybe venni javasolt szociális szolgáltatásokat meghatározó szociális diagnózist. A család- és gyermekjóléti központ a szociális diagnózis elkészítésébe bevonhatja a nem járásszékhely településen működő család- és gyermekjóléti szolgálatokat. A jogosultsági feltételek fennállása esetén a szociális diagnózis kötelezi a szociális szolgáltatókat és a szociális intézményeket.
+
+(9) A Gyvt. 40/A. § (7) bekezdése alapján kijelölt család- és gyermekjóléti központ fogyatékosságügyi tanácsadást biztosít. A fogyatékosságügyi tanácsadás keretében a gyermekjóléti központ elősegíti a fogyatékossággal élő emberek és családtagjaik információkhoz, szolgáltatásokhoz való akadálymentes hozzáférését, valamint az egyenlő esélyű hozzáférés megvalósulását.
 
 64/A. § (1) A Gyvt. szerinti család- és gyermekjóléti központ szociális diagnózist készít
 
@@ -3467,7 +3469,7 @@ járul hozzá.
 
 (3) A 2017. március 31-én hatályos 99/C. § (1) bekezdése szerinti nyilvántartás adatait 2019. január 2-án kell törölni.
 
-(4) Átmeneti elhelyezést nyújtó intézmény – az éjjeli menedékhely és a hajléktalan személyek átmeneti szállása kivételével – 2022. december 31-éig működhet. Az e szabály alapján, az egyes szociális és gyermekvédelmi tárgyú törvények módosításáról szóló 2016. évi CLXVI. törvény hatálybalépését követően átalakuló átmeneti elhelyezést nyújtó intézmények az átalakulást megelőzően befogadott férőhelyszámuk erejéig a finanszírozási rendszerbe az átalakulást követően is befogadottnak minősülnek a törvény erejénél fogva.
+(4)
 
 (5) A 2016. február 1-jén házi segítségnyújtásra befogadott ellátotti számmal rendelkező, 63. § (9) bekezdése alá nem tartozó intézmény, szolgáltató (székhely, telephely) esetében a 2016. február 1-jén az adott intézményben, szolgáltatónál (székhelyen, telephelyen) személyi gondozásra megállapodással rendelkező ellátottak száma törvény erejénél fogva befogadottnak minősül az egyes szociális és gyermekvédelmi tárgyú törvények módosításáról szóló 2016. évi CLXVI. törvény hatálybalépésének időpontjában. A személyi gondozásra megállapodással rendelkező ellátottak számának meghatározásakor az igénybevevői nyilvántartás adatai az irányadóak.
 
@@ -3485,7 +3487,7 @@ járul hozzá.
 
 (2) Ha a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvénynek a gyermekvédelem rendszerének megerősítése érdekében történő, valamint egyéb törvények módosításáról szóló 2017. évi XCV. törvénnyel megállapított 58/A. § (2k) bekezdése alapján az emelt szintű férőhelyet az adott intézménytípusra a központi költségvetésről szóló törvényben meghatározott, általános szabályok szerinti támogatásra jogosító férőhelyként fogadják be, az ilyen férőhelyen ellátott személy gondozási szükségletét nem kell megvizsgálni és azt fennállónak kell tekinteni az ellátás teljes időtartama alatt, valamint számára továbbra is az átlagot jóval meghaladó minőségű elhelyezési körülmények és szolgáltatások nyújtására kötött megállapodás szerinti elhelyezést és ellátást kell biztosítani.
 
-140. §
+140. § Azon átmeneti elhelyezést nyújtó intézmény – az éjjeli menedékhely és a hajléktalan személyek átmeneti szállása kivételével –, amelynek átalakulása a 2021. december 31-én hatályos 138. § (4) bekezdése alapján az egyes egészségügyi, egészségbiztosítási és gyógyszerészeti tárgyú, valamint kapcsolódó törvények jogharmonizációs és egyéb célú módosításáról szóló 2021. évi CXXIX. törvény hatálybalépésekor folyamatban van, az átalakulást megelőzően befogadott férőhelyszáma erejéig a finanszírozási rendszerbe az átalakulást követően is befogadottnak minősül.
 
 140/A. § (1) E törvénynek az egyes szociális, gyermekvédelmi, családtámogatási, fogyatékosságügyi és foglalkoztatási tárgyú törvények módosításáról szóló 2010. évi CLXXI. törvénnyel megállapított 33–37/C. §-ában foglaltakat a 2011. január 1-jén folyamatban lévő ügyekben is alkalmazni kell, azzal, hogy amennyiben az aktív korúak ellátására való jogosultság a 2011. január 1-jét megelőzően benyújtott kérelem alapján fennáll és a jogosult a 2010. december 31-én hatályos rendelkezések szerint a rendelkezésre állási támogatásra való jogosultság feltételeinek felel meg, részére a kérelem benyújtásának időpontjától a 2010. december 31-éig terjedő időszakra rendelkezésre állási támogatásra való jogosultságot kell megállapítani.
 

@@ -342,14 +342,21 @@ rendelkezik.
 
 folytathat tevékenységet.
 
-(3) A felsőoktatási intézmény nem oktatási szervezeti egységei intézményi központtá szervezhetők. Az állami felsőoktatási intézmény és a Magyarországon nyilvántartásba vett vagyonkezelő alapítvány fenntartásában működő felsőoktatási intézmény által fenntartott köznevelési intézmény vagy szakképző intézmény a felsőoktatási intézmény jogi személyiséggel rendelkező szervezeti egysége. Az állami felsőoktatási intézmény által fenntartott köznevelési intézmény és szakképző intézmény a Kormány által a miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátásra kijelölt szervnél – a köznevelési intézmény alapító okiratának a fenntartó általi benyújtásával – az oktatási hivatal, a Kormány által a miniszter szakképzési feladatkörébe tartozó egyes feladatainak ellátásra kijelölt szervnél – a szakképző intézmény alapító okiratának a fenntartó általi benyújtásával – a szakképzési államigazgatási szerv nyilvántartásába való bejegyzéssel jön létre és a nyilvántartásból való törléssel szűnik meg. Az állami felsőoktatási intézmény által fenntartott köznevelési intézmény és szakképző intézmény vezetőjének a munkáltatója a rektor, további alkalmazottjai tekintetében – a bérgazdálkodást érintő, a kancellár egyetértésével hozott döntések kivételével – a köznevelési intézmény és szakképző intézmény vezetője gyakorolja a munkáltatói jogokat.
+(3) A felsőoktatási intézmény nem oktatási szervezeti egységei intézményi központtá szervezhetők.
 
-(3a) A 4. § (4) bekezdése szerinti jogosult az állami felsőoktatási intézmény által fenntartott
+(3a) A felsőoktatási intézmény által fenntartott köznevelési intézmény vagy szakképző intézmény – a felsőoktatási intézmény alapító okiratának ilyen rendelkezése esetén – a felsőoktatási intézmény jogi személyiséggel rendelkező szervezeti egységeként működhet.
 
-- a) köznevelési intézmény tekintetében a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) szerint dönt a köznevelési intézmény,
-- b) szakképző intézmény tekintetében a szakképzésről szóló törvény szerint dönt a szakképző intézmény létesítéséről, nevének megállapításáról, átszervezéséről, átalakításáról, fenntartói jogának átadásáról, megszüntetéséről.
+(3b) A (3) bekezdés szerinti intézményi központra és a (3a) bekezdés szerinti köznevelési intézményre és szakképző intézményre a következő szabályokat kell alkalmazni:
 
-(4) A felsőoktatási intézményben – szervezeti és működési szabályzatában meghatározottak szerint – gazdasági tanács működtethető.
+- a) a fenntartói jogok gyakorlására a 4. § (2) és (4) bekezdése alapján jogosult személy a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) szerint dönt a köznevelési intézmény tekintetében, a szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: Szkt.) szerint dönt a szakképző intézmény tekintetében annak létesítéséről, nevének megállapításáról, átszervezéséről, átalakításáról, fenntartói jogának átadásáról, megszüntetéséről,
+- b) a köznevelési intézmény az oktatási hivatal, a szakképző intézmény a szakképzési államigazgatási szerv általi nyilvántartásba vétellel jön létre és a nyilvántartásból való törléssel szűnik meg,
+- c) a köznevelési intézmény és a szakképző intézmény vezetőjének a munkáltatója a rektor, további alkalmazottjai tekintetében – a bérgazdálkodást érintő, a kancellár egyetértésével hozott döntések kivételével – a köznevelési intézmény és a szakképző intézmény vezetője gyakorolja a munkáltatói jogokat,
+- d) a felsőoktatási intézmény és a köznevelési intézmény, illetve a szakképző intézmény között nem keletkezhet magánjogi kötelem, és egymással szemben bármilyen igény, szankció sem bírói, sem más úton nem érvényesíthető,
+- e) a köznevelési intézmény és a szakképző intézmény a felsőoktatási intézményen kívüli harmadik személyek irányában jogszabályban meghatározott korlátozásokkal szerezhet jogokat és vállalhat kötelezettségeket,
+- f) a köznevelési intézmény és a szakképző intézmény kötelezettségeiért a felsőoktatási intézmény áll helyt,
+- g) a köznevelési intézmény és a szakképző intézmény az általa vállalt kötelezettségek tekintetében csak a felsőoktatási intézménnyel együtt perelhető, a köznevelési intézmény, illetve a szakképző intézmény által indított perbe a felsőoktatási intézmény beavatkozhat.
+
+(4)
 
 14/A. § (1) A felsőoktatási intézmény által ellátott, a 2. § (1) bekezdés szerinti alaptevékenysége körébe nem tartozó, ahhoz közvetlenül nem kapcsolódó, törvényben vagy kormányrendeletben meghatározott, valamint a felsőoktatási intézmény alapító okiratában megjelenített közfeladat tekintetében – ha e törvény eltérően nem rendelkezik – a (2)–(5) bekezdés szerinti sajátos döntéshozatali, működési szabályokat kell alkalmazni.
 
@@ -427,7 +434,7 @@ nélkülözhetetlenül szükséges személyes és különleges adatokat tartja n
 
 (3) A felsőoktatási intézmény a tanulmányi rendszerében kezelt és rögzítésre kerülő adatok ellenőrzését, továbbá a tanulmányi rendszeren keresztül benyújtott dokumentumok és elektronikus űrlapok adatainak előzetes ellenőrzését és a benyújtó általi hitelesítését elsősorban a Szabályozott Elektronikus Ügyintézési Szolgáltatások (a továbbiakban: SZEÜSZ) és a Központi Elektronikus Ügyintézési Szolgáltatások (a továbbiakban: KEÜSZ) díjmentes felhasználásával köteles elvégezni.
 
-(4) A felsőoktatási intézmény a tanulmányi rendszerében tárolt adatok alapján, szakonként – a hallgatói lemorzsolódás csökkentése és a sikeres felvételi eljárások elősegítésének érdekében –, jogszabályban előírt módon és tartalommal középiskolai rangsort köteles vezetni, és ezen adatokat a tanulmányi rendszer minden felhasználója számára, továbbá a szakképzésről szóló törvényben meghatározott regisztrációs és tanulmányi alaprendszerek és a Köznevelési Regisztrációs és Tanulmányi Alaprendszerek számára a kapcsolódó statisztikai adatokkal együtt a tanulmányi rendszerén keresztül elektronikus úton hozzáférhetővé kell tennie.
+(4) A felsőoktatási intézmény a tanulmányi rendszerében tárolt adatok alapján, szakonként – a hallgatói lemorzsolódás csökkentése és a sikeres felvételi eljárások elősegítésének érdekében –, jogszabályban előírt módon és tartalommal középiskolai rangsort köteles vezetni, és ezen adatokat a tanulmányi rendszer minden felhasználója számára, továbbá az Szkt.-ban meghatározott regisztrációs és tanulmányi alaprendszerek és a Köznevelési Regisztrációs és Tanulmányi Alaprendszerek számára a kapcsolódó statisztikai adatokkal együtt a tanulmányi rendszerén keresztül elektronikus úton hozzáférhetővé kell tennie.
 
 #### 10. A felsőoktatási információs rendszer
 
@@ -526,6 +533,8 @@ nélkülözhetetlenül szükséges személyes és különleges adatokat tartja n
 (2) Azt a tényt, hogy a felsőoktatásban alkalmazni kívánt személy vagy a felsőoktatásban alkalmazott az (1) bekezdésben meghatározott feltételnek megfelel, a felsőoktatásban alkalmazni kívánt személy vagy a felsőoktatásban alkalmazott hatósági bizonyítvánnyal igazolja.
 
 (3) A felsőoktatási intézmény az (1) bekezdés szerinti feltétel ellenőrzése céljából kezeli a felsőoktatásban a (2) bekezdés szerinti személy azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz. A megismert személyes adatokat a felsőoktatási intézmény az alkalmazás létesítésével összefüggésben meghozott döntés időpontjáig vagy – alkalmazás esetén – annak megszűnését vagy megszüntetését követő hatodik hónap végéig kezeli.
+
+24/B. § A közalkalmazotti jogviszony vagy munkaviszony létesítésével és megszüntetésével összefüggésben a munkáltató jogszabályban meghatározott feltételekkel igénybe veheti, és foglalkoztatottjai számára nyújthatja a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
 
 ### VIII. Fejezet — AZ OKTATÓKRA, TUDOMÁNYOS KUTATÓKRA, TANÁRI MUNKAKÖRBEN FOGLALKOZTATOTTAKRA VONATKOZÓ KÜLÖN SZABÁLYOK
 
@@ -947,6 +956,8 @@ esélyegyenlőségét az a)–d) pontban meghatározott hallgatói csoportok tek
 - c) a doktorandusz munkaidő-beosztását oly módon kell meghatározni, hogy vizsgázási és a vizsgára történő felkészülési kötelezettségeinek eleget tudjon tenni,
 - d) a munkadíj havi összege, a teljes munkaidő ötven százalékának megfelelő idejű foglalkoztatás esetén nem lehet kevesebb, mint a legkisebb kötelező munkabér (minimálbér), eltérő idejű foglalkoztatás esetén ennek időarányos része.
 
+(6) A hallgatóval e törvény alapján hallgatói munkaszerződést, gyakorlatigényes alapképzési szak esetében a felsőoktatási intézménnyel együttműködési megállapodást kötött kifizető a szociális hozzájárulási adóról szóló törvényben meghatározottak szerint jogosult a központi költségvetésről szóló törvényben meghatározott alapnormatíva képzési területenként alkalmazandó súlyszorzója alapján igénybe vehető adókedvezmény érvényesítésére.
+
 44/A. § Szűrővizsgálat elvégzésében – egészségügyi tevékenység végzésére való jogosultság nélkül – az orvos-, egészségtudományi képzésben részt vevő hallgató önkéntesen közreműködhet. Az igazolt önkéntes munkavégzésre a hallgató és a felsőoktatási intézmény között a 44. § (1) bekezdés b) pontja szerinti hallgatói munkaszerződés jön létre. A hallgatói munkaszerződés során szerzett munkatapasztalat kreditértékét a 49. § (6) bekezdése szerint a kreditátviteli bizottság állapítja meg. Az önkéntes munkát végző hallgató tanulmányi kötelezettségeinek teljesítését a felsőoktatási intézmény a hallgatói munkaszerződésre tekintettel szervezi meg. A hallgatói munkaszerződésből származó jövedelem a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 4.13. pontja szerinti jövedelemnek minősül.
 
 #### 26. A hallgatói jogviszony szünetelése
@@ -1259,6 +1270,8 @@ esetében.
 
 (7) Az orvos, a fogorvos, a gyógyszerész, az állatorvos, a jogász és az államtudományi szakon oklevelet szerzett személyek a doktori cím használatára jogosultak. Ezek rövidített jelölése: dr. med., dr. med. dent., dr. pharm., dr. vet., dr. jur., dr. rer. pol.
 
+(7a) Az a nem magyar állampolgár, aki általános orvos szakon oklevelet szerzett és a doktori képzés képzési és kutatási szakaszát az általános orvos szakon fennálló hallgatói jogviszonyával párhuzamosan egyéni felkészülőként teljesítette, valamint a komplex vizsga mellett az egészségtudományi képzést folytató felsőoktatási intézmény által meghatározott külön feltételnek, a komplex vizsgához társuló dolgozatkészítési és -védési kötelezettségnek is eleget tett, külföldön a képzési területre utaló doktori cím használatára jogosult. A cím rövidített jelölése: Dr. med.
+
 (8) A felsőoktatási intézmény rektora – a köztársasági elnök előzetes hozzájárulásával – „Promotio sub auspiciis praesidentis Rei Publicae” kitüntetéssel avatja doktorrá azt, akinek a középiskolában és a felsőoktatási intézményben, valamint a doktori képzésben folytatott tanulmányai során a teljesítményét mindig a legmagasabbra értékelték, feltéve továbbá, hogy a doktori fokozatszerzési eljárás során is kiemelkedő teljesítményt nyújtott. A kitüntetéses doktorrá avatás részletes feltételeit a Kormány állapítja meg.
 
 52/A. § (1) A felsőoktatási intézmény az általa vagy jogelődje által kiállított oklevelet az oklevél kiállításától számított öt éven belül visszavonja, ha az oklevelet jogellenesen szerezték meg. A visszavonásra egyebekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
@@ -1287,7 +1300,7 @@ esetében.
 
 (2) A doktori képzés során a komplex vizsgát követően a fokozatszerzési eljárásban a hallgató a kutatási és disszertációs szakasz teljesítésével vesz részt, amelynek célja a doktori fokozat megszerzése.
 
-(3) A doktori képzésbe bekapcsolódhat az is, aki a fokozatszerzésre egyénileg készült fel, feltéve, hogy teljesítette a felvétel és a doktori képzés követelményeit. A hallgatói jogviszony ebben az esetben a komplex vizsga teljesítésével jön létre.
+(3) A doktori képzésbe bekapcsolódhat az is, aki a fokozatszerzésre egyénileg készült fel, feltéve, hogy teljesítette a felvétel és a doktori képzés követelményeit. A hallgatói jogviszony ebben az esetben a komplex vizsga teljesítésével jön létre. A doktori képzésben komplex vizsga teljesítésével hallgatói jogviszonyt létesíthet az is, aki az általános orvos, állatorvosi, fogorvos vagy gyógyszerész szakon a hallgatói jogviszonyával párhuzamosan egyénileg készült fel a fokozatszerzésre és a komplex vizsga során – a felsőoktatási intézmény doktori szabályzata alapján – a mesterképzésben felvett kreditek elismerésre kerültek.
 
 (3a) A doktori képzésbe olyan módon is bekapcsolódhat a hallgató, hogy mesterképzési szakon folytatott tanulmányai utolsó tanévének tanulmányaival párhuzamosan doktori képzés részét képező felkészülésben is részt vesz, feltéve, hogy a hallgató a mesterszakos oklevele megszerzését követően teljesíti a felvétel követelményeit is. A felvételi döntéssel egyidejűleg – a felsőoktatási intézmény doktori szabályzata alapján – a mesterképzésben felvett kreditek elismerésre kerülnek.
 
@@ -2006,7 +2019,7 @@ nyújtott támogatás.
 
 (2)
 
-(3) Az állami fenntartású felsőoktatási intézmény által fenntartott köznevelési intézmény támogatását a felsőoktatási intézmény költségvetésében elkülönítve kell megtervezni. A köznevelési feladatok ellátására az egyedi feladatok támogatása körében további támogatás biztosítható.
+(3) A közfeladatot ellátó közérdekű vagyonkezelő alapítvány fenntartásában működő felsőoktatási intézmény az állami felsőoktatási intézménnyel azonos elv szerint jogosult támogatásra az általa fenntartott köznevelési intézményben ellátott köznevelési alapfeladatra és szakképző intézményben ellátott szakképzési alapfeladatra tekintettel. Az állami felsőoktatási intézmény ilyen támogatását a felsőoktatási intézmény költségvetésében elkülönítve kell megtervezni, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány fenntartásában működő felsőoktatási intézmény esetében pedig közfeladat-finanszírozási szerződéssel kell azt biztosítani. A köznevelési, illetve a szakképzési tevékenységhez az egyedi feladatok támogatása körében további támogatás biztosítható.
 
 (3a) A közfeladatot ellátó közérdekű vagyonkezelő alapítvány fenntartásában működő felsőoktatási intézmény által a 14. § (3a) bekezdése szerint fenntartott szakképző intézményre az Szkt. 21/B. § (2) bekezdését kell alkalmazni azzal, hogy a szakképzési centrum alatt a közfeladatot ellátó közérdekű vagyonkezelő alapítvány fenntartásában működő felsőoktatási intézményt kell érteni.
 
@@ -2749,6 +2762,7 @@ esélyegyenlőségét biztosítja.
 - 26. felsőoktatási intézmény volt oktatójának, óraadó oktatójának adományozható címeket, az adományozás feltételeit.
 - 27. a hallgatói hitel igénybevételének feltételeit és eljárási szabályait, a hitelszerződés megkötésének, a hallgatói hitel kamata meghatározásának, igénylésének, folyósításának, törlesztésének, előtörlesztésének, támogatásának, záró elszámolásának, megszűnésének, továbbá felmondásának részletes szabályait, a Diákhitel szervezet éves beszámoló készítésének és könyvvezetésének sajátosságait, valamint a hallgatói hitelrendszer működtetésének részletes szabályait.
 - 28. az átalakulással érintett felsőoktatási intézmény által fenntartott jogi személyiségű szervezeti egységként működtetett köznevelési intézmény jogutódlásával kapcsolatos egyedi kérdéseket.
+- 29. az alapnormatíva képzési területenként alkalmazandó súlyszorzóját.
 
 (2) Felhatalmazást kap a Kormány, hogy
 
@@ -3089,6 +3103,10 @@ kell érteni.
 
 (4e) Az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény a hallgatók számára kifizetett pénzbeli juttatásokat a számvitelről szóló törvény szerinti egyéb ráfordítások terhére köteles elszámolni.
 
+(4f) Az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény a fenntartóváltást követő első üzleti évi számviteli beszámolójának mérlegében, a (4a)–(4c) bekezdésekben foglaltak végrehajtását követően kimutatott negatív tőketartalékot köteles az eredménytartalék terhére megszüntetni, továbbá az ezt követően kimutatott eredménytartalék negatív összegét a fenntartó ez irányú döntése alapján a jegyzett tőke terhére részben vagy egészen megszüntetheti. A 2021. január 1-je előtti (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény a saját tőke ezen bekezdésben meghatározott átrendezését a 2021. december 31-ei fordulónappal elkészített beszámolójának mérlegében hajtja végre a fenntartóváltást követő első üzleti évi beszámolója mérlegében kimutatott negatív tőketartalék, illetve negatív eredménytartalék figyelembevételével.
+
+(4g) Az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézményt fenntartó alapítvány a számviteli jogszabályok szerinti beszámolójának mérlegében tartós részesedésként mutatja ki a fenntartott felsőoktatási intézmény azonos mérlegfordulónapra készített számviteli beszámolója mérlegében kimutatott saját tőke könyv szerinti értékét a tőkeváltozással szemben.
+
 (5) A fenntartóváltás következtében a felsőoktatási intézmény mint munkáltató által foglalkoztatott közalkalmazottak közalkalmazotti jogviszonya a fenntartói jog átszállásának napján munkaviszonnyá alakul. A munkáltató és foglalkoztatott közötti jogállásváltozásra a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 25/A. § (7) bekezdésében foglaltakat, valamint a 37. § (2) bekezdés c) pont rendelkezéseit kell alkalmazni.
 
 (6) Az (5) bekezdés szerinti jogállásváltozás folytán létesített munkaviszony első
@@ -3171,77 +3189,77 @@ vonatkozó szabályait kell alkalmazni.
 
 |  | A | B | C |
 | --- | --- | --- | --- |
-| 1. | I. EGYETEMEK |  |  |
-| 2. |  | I/A. Állami egyetemek |  |
-| 3. |  |  | Budapesti Műszaki és Gazdaságtudományi Egyetem, Budapest |
-| 4. |  |  | Eötvös Loránd Tudományegyetem, Budapest |
-| 5. |  |  | Liszt Ferenc Zeneművészeti Egyetem, Budapest |
-| 6. |  |  | Magyar Képzőművészeti Egyetem, Budapest |
-| 7. |  |  | Nemzeti Közszolgálati Egyetem, Budapest |
-| 8. |  | I/B. Nem állami egyetemek |  |
-| 9. |  |  | Andrássy Gyula Budapesti Német Nyelvű Egyetem, Budapest |
-| 10. |  |  | Állatorvostudományi Egyetem, Budapest |
-| 11. |  |  | Budapesti Corvinus Egyetem, Budapest |
-| 12. |  |  | Debreceni Egyetem, Debrecen |
-| 13. |  |  | Debreceni Református Hittudományi Egyetem, Debrecen |
-| 14. |  |  | Eszterházy Károly Katolikus Egyetem, Eger |
-| 15. |  |  | Evangélikus Hittudományi Egyetem, Budapest |
-| 16. |  |  | Károli Gáspár Református Egyetem, Budapest |
-| 17. |  |  | Közép-európai Egyetem, Budapest |
-| 18. |  |  | Magyar Agrár- és Élettudományi Egyetem, Gödöllő |
-| 19. |  |  | Magyar Táncművészeti Egyetem, Budapest |
-| 20. |  |  | Miskolci Egyetem, Miskolc |
-| 21. |  |  | Moholy-Nagy Művészeti Egyetem, Budapest |
-| 22. |  |  | Óbudai Egyetem, Budapest |
-| 23. |  |  | Országos Rabbiképző – Zsidó Egyetem, Budapest |
-| 24. |  |  | Pannon Egyetem, Veszprém |
-| 25. |  |  | Pázmány Péter Katolikus Egyetem, Budapest |
-| 26. |  |  | Pécsi Tudományegyetem, Pécs |
-| 27. |  |  | Semmelweis Egyetem, Budapest |
-| 28. |  |  | Soproni Egyetem, Sopron |
-| 29. |  |  | Széchenyi István Egyetem, Győr |
-| 30. |  |  | Szegedi Tudományegyetem, Szeged |
-| 31. |  |  | Színház- és Filmművészeti Egyetem, Budapest |
-| 32. |  |  | Testnevelési Egyetem, Budapest |
-| 33. | II. NEM ÁLLAMI ALKALMAZOTT TUDOMÁNYOK EGYETEMEI |  |  |
-| 34. |  |  | Budapesti Gazdasági Egyetem, Budapest |
-| 35. |  |  | Budapesti Metropolitan Egyetem, Budapest |
-| 36. |  |  | Dunaújvárosi Egyetem, Dunaújváros |
-| 37. |  |  | Edutus Egyetem, Tatabánya |
-| 38. |  |  | Gál Ferenc Egyetem, Szeged |
-| 39. |  |  | Kodolányi János Egyetem, Székesfehérvár |
-| 40. |  |  | Milton Friedman Egyetem, Budapest |
-| 41. |  |  | Neumann János Egyetem, Kecskemét |
-| 42. |  |  | Nyíregyházi Egyetem, Nyíregyháza |
-| 43. |  |  | Tokaj-Hegyalja Egyetem, Sárospatak |
-| 44. | III. FŐISKOLÁK |  |  |
-| 45. |  | III/A. Állami főiskolák |  |
-| 46. |  |  | Eötvös József Főiskola, Baja |
-| 47. |  | III/B. Nem állami főiskolák |  |
-| 48. |  |  | A Tan Kapuja Buddhista Főiskola, Budapest |
-| 49. |  |  | Adventista Teológiai Főiskola, Pécel |
-| 50. |  |  | Apor Vilmos Katolikus Főiskola, Vác |
-| 51. |  |  | Baptista Teológiai Akadémia, Budapest |
-| 52. |  |  | Bhaktivedanta Hittudományi Főiskola, Budapest |
-| 53. |  |  | Brenner János Hittudományi Főiskola, Győr |
-| 54. |  |  | Budapest Kortárstánc Főiskola, Budapest |
-| 55. |  |  | Egri Hittudományi Főiskola, Eger |
-| 56. |  |  | Esztergomi Hittudományi Főiskola, Esztergom |
-| 57. |  |  | Gábor Dénes Főiskola, Budapest |
-| 58. |  |  | IBS Nemzetközi Üzleti Főiskola, Budapest |
-| 59. |  |  | Pápai Református Teológiai Akadémia, Pápa |
-| 60. |  |  | Pécsi Püspöki Hittudományi Főiskola, Pécs |
-| 61. |  |  | Pünkösdi Teológiai Főiskola, Budapest |
-| 62. |  |  | Sapientia Szerzetesi Hittudományi Főiskola, Budapest |
-| 63. |  |  | Sárospataki Református Teológiai Akadémia, Sárospatak |
-| 64. |  |  | Sola Scriptura Teológiai Főiskola, Biatorbágy |
-| 65. |  |  | Szent Atanáz Görögkatolikus Hittudományi Főiskola, Nyíregyháza |
-| 66. |  |  | Szent Bernát Hittudományi Főiskola, Zirc |
-| 67. |  |  | Szent Pál Akadémia, Budapest |
-| 68. |  |  | Tomori Pál Főiskola, Budapest |
-| 69. |  |  | Veszprémi Érseki Főiskola, Veszprém |
-| 70. |  |  | Wekerle Sándor Üzleti Főiskola, Budapest |
-| 71. |  |  | Wesley János Lelkészképző Főiskola, Budapest |
+| 1 | I. Egyetemek |  |  |
+| 2 |  | I/A. Állami egyetemek |  |
+| 3 |  |  | Budapesti Műszaki és Gazdaságtudományi Egyetem, Budapest |
+| 4 |  |  | Eötvös Loránd Tudományegyetem, Budapest |
+| 5 |  |  | Liszt Ferenc Zeneművészeti Egyetem, Budapest |
+| 6 |  |  | Magyar Képzőművészeti Egyetem, Budapest |
+| 7 |  |  | Nemzeti Közszolgálati Egyetem, Budapest |
+| 8 |  | I/B. Nem állami egyetemek |  |
+| 9 |  |  | Andrássy Gyula Budapesti Német Nyelvű Egyetem, Budapest |
+| 10 |  |  | Állatorvostudományi Egyetem, Budapest |
+| 11 |  |  | Budapesti Corvinus Egyetem, Budapest |
+| 12 |  |  | Debreceni Egyetem, Debrecen |
+| 13 |  |  | Debreceni Református Hittudományi Egyetem, Debrecen |
+| 14 |  |  | Eszterházy Károly Katolikus Egyetem, Eger |
+| 15 |  |  | Evangélikus Hittudományi Egyetem, Budapest |
+| 16 |  |  | Károli Gáspár Református Egyetem, Budapest |
+| 17 |  |  | Közép-európai Egyetem, Budapest |
+| 18 |  |  | Magyar Agrár- és Élettudományi Egyetem, Gödöllő |
+| 19 |  |  | Magyar Táncművészeti Egyetem, Budapest |
+| 20 |  |  | Magyar Testnevelési és Sporttudományi Egyetem, Budapest |
+| 21 |  |  | Miskolci Egyetem, Miskolc |
+| 22 |  |  | Moholy-Nagy Művészeti Egyetem, Budapest |
+| 23 |  |  | Óbudai Egyetem, Budapest |
+| 24 |  |  | Országos Rabbiképző – Zsidó Egyetem, Budapest |
+| 25 |  |  | Pannon Egyetem, Veszprém |
+| 26 |  |  | Pázmány Péter Katolikus Egyetem, Budapest |
+| 27 |  |  | Pécsi Tudományegyetem, Pécs |
+| 28 |  |  | Semmelweis Egyetem, Budapest |
+| 29 |  |  | Soproni Egyetem, Sopron |
+| 30 |  |  | Széchenyi István Egyetem, Győr |
+| 31 |  |  | Szegedi Tudományegyetem, Szeged |
+| 32 |  |  | Színház- és Filmművészeti Egyetem, Budapest |
+| 33 | II. NEM ÁLLAMI ALKALMAZOTT TUDOMÁNYOK EGYETEMEI |  |  |
+| 34 |  |  | Budapesti Gazdasági Egyetem, Budapest |
+| 35 |  |  | Budapesti Metropolitan Egyetem, Budapest |
+| 36 |  |  | Dunaújvárosi Egyetem, Dunaújváros |
+| 37 |  |  | Edutus Egyetem, Tatabánya |
+| 38 |  |  | Gál Ferenc Egyetem, Szeged |
+| 39 |  |  | Kodolányi János Egyetem, Székesfehérvár |
+| 40 |  |  | Milton Friedman Egyetem, Budapest |
+| 41 |  |  | Neumann János Egyetem, Kecskemét |
+| 42 |  |  | Nyíregyházi Egyetem, Nyíregyháza |
+| 43 |  |  | Tokaj-Hegyalja Egyetem, Sárospatak |
+| 44 | III. FŐISKOLÁK |  |  |
+| 45 |  | III/A. Állami főiskolák |  |
+| 46 |  |  | Eötvös József Főiskola, Baja |
+| 47 |  | III/B. Nem állami főiskolák |  |
+| 48 |  |  | A Tan Kapuja Buddhista Főiskola, Budapest |
+| 49 |  |  | Adventista Teológiai Főiskola, Pécel |
+| 50 |  |  | Apor Vilmos Katolikus Főiskola, Vác |
+| 51 |  |  | Baptista Teológiai Akadémia, Budapest |
+| 52 |  |  | Bhaktivedanta Hittudományi Főiskola, Budapest |
+| 53 |  |  | Brenner János Hittudományi Főiskola, Győr |
+| 54 |  |  | Budapest Kortárstánc Főiskola, Budapest |
+| 55 |  |  | Egri Hittudományi Főiskola, Eger |
+| 56 |  |  | Esztergomi Hittudományi Főiskola, Esztergom |
+| 57 |  |  | Gábor Dénes Főiskola, Budapest |
+| 58 |  |  | IBS Nemzetközi Üzleti Főiskola, Budapest |
+| 59 |  |  | Pápai Református Teológiai Akadémia, Pápa |
+| 60 |  |  | Pécsi Püspöki Hittudományi Főiskola, Pécs |
+| 61 |  |  | Pünkösdi Teológiai Főiskola, Budapest |
+| 62 |  |  | Sapientia Szerzetesi Hittudományi Főiskola, Budapest |
+| 63 |  |  | Sárospataki Református Teológiai Akadémia, Sárospatak |
+| 64 |  |  | Sola Scriptura Teológiai Főiskola, Biatorbágy |
+| 65 |  |  | Szent Atanáz Görögkatolikus Hittudományi Főiskola, Nyíregyháza |
+| 66 |  |  | Szent Bernát Hittudományi Főiskola, Zirc |
+| 67 |  |  | Szent Pál Akadémia, Budapest |
+| 68 |  |  | Tomori Pál Főiskola, Budapest |
+| 69 |  |  | Veszprémi Érseki Főiskola, Veszprém |
+| 70 |  |  | Wekerle Sándor Üzleti Főiskola, Budapest |
+| 71 |  |  | Wesley János Lelkészképző Főiskola, Budapest |
 
 ### 2. melléklet a 2011. évi CCIV. törvényhez
 

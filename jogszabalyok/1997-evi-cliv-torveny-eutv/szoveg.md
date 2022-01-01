@@ -2605,7 +2605,7 @@ költségének fedezetét.
 
 (4) Az egészségügyi szolgáltatás irányításáért felelős szervet irányító minisztert a Kormány rendeletben jelöli ki.
 
-(5) Az egészségügyi szolgáltatás irányításáért felelős szerv vezetője és annak helyettesei részére a miniszter, az igazgatók részére az egészségügyi szolgáltatás irányításáért felelős szerv vezetője személyi illetményt állapíthat meg. Az egészségügyi szolgáltatás irányításáért felelős szerv vezetője, annak helyettesei, valamint az igazgatók személyi illetménye legkisebb és legnagyobb összegét a Kormány rendeletben állapítja meg.
+(5) Az egészségügyi szolgáltatás irányításáért felelős szerv vezetője és annak helyettesei részére a miniszter, az igazgatók részére az egészségügyi szolgáltatás irányításáért felelős szerv vezetője személyi illetményt állapíthat meg. Az egészségügyi szolgáltatás irányításáért felelős szerv vezetője, annak helyettesei, valamint az igazgatók személyi illetménye legkisebb összegét a Kormány rendeletben állapítja meg.
 
 ### Egészségügyi intézmények fenntartása és irányítása
 
@@ -2638,7 +2638,7 @@ költségének fedezetét.
 
 (2a)
 
-(3) A 151/B. § (1) bekezdése szerinti egészségügyi intézmények esetében – a 156/A. §-ban foglalt kivétellel –
+(3) A 151/B. § (1) bekezdése szerinti egészségügyi intézmények esetében
 
 - a) a miniszter jogkörébe tartozik az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének javaslatára az alapítói jogok – létesítés, átalakítás, megszüntetés – gyakorlása,
 - b) a Kormány által kijelölt miniszter jogkörébe tartozik az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének javaslatára a megyeszékhelyen, illetve megyei jogú városban székhellyel rendelkező, fekvőbeteg- szakellátást nyújtó egészségügyi intézmény (a továbbiakban: megyei intézmény) vezetője tekintetében vezetői megbízás adása és a vezetői megbízás visszavonása.
@@ -2667,7 +2667,7 @@ költségének fedezetét.
 
 gyakorolja.
 
-(10) Az állami fenntartású, megyei intézménynek nem minősülő és a (15), (17) és (18) bekezdés, valamint a 151/B. § (2) bekezdése hatálya alá nem tartozó egészségügyi intézmény (a továbbiakban: városi intézmény) irányítási szempontból ahhoz a megyei intézményhez (ide nem értve a megyei jogú városban székhellyel rendelkező megyei intézményt) tartozik, amelyik megyei intézmény székhelye szerinti megyében a városi intézmény székhelye található azzal, hogy azokban a megyékben, ahol irányítási joggal rendelkező megyei intézmény nem működik, a megyében működő egészségügyi felsőoktatási intézmény klinikai központját kell megyei intézmény alatt érteni (a továbbiakban: irányító megyei intézmény).
+(10) Az állami fenntartású, megyei intézménynek nem minősülő és a (15), (17) és (18) bekezdés, valamint a 151/B. § (2) bekezdése hatálya alá nem tartozó egészségügyi intézmény (a továbbiakban: városi intézmény) irányítási szempontból ahhoz a megyei intézményhez (ide nem értve a megyeszékhelynek nem minősülő megyei jogú városban székhellyel rendelkező megyei intézményt) tartozik, amelyik megyei intézmény székhelye szerinti megyében a városi intézmény székhelye található azzal, hogy azokban a megyékben, ahol irányítási joggal rendelkező megyei intézmény nem működik, a megyében működő egészségügyi felsőoktatási intézmény klinikai központját, ennek hiányában a megyeszékhelyen legalább egy telephellyel rendelkező állami fenntartású fekvőbeteg-szakellátást nyújtó intézményt kell megyei intézmény alatt érteni (a továbbiakban: irányító megyei intézmény).
 
 (11) A városi intézmény tekintetében a (10) bekezdés szerinti irányító megyei intézmény vezetője gyakorolja a (6) bekezdés szerinti jogköröket azzal, hogy a (7) bekezdést kell alkalmazni az irányító megyei kórház vezetője által tett kezdeményezésekre is.
 
@@ -3988,7 +3988,7 @@ dönt.
 
 232/G. § (1) Járványügyi készültség keretében egészségügyi válsághelyzetben a Kormány elrendelheti, hogy a távmunkavégzésre vonatkozó rendelkezéseket az e § szerinti eltérésekkel kell alkalmazni.
 
-(2) A munkavédelemről szóló 1993. évi XCIII. törvény 86/A. §-át nem kell alkalmazni. Távmunkavégzés esetén a munkáltató tájékoztatja a munkavállalót a munkavégzéshez szükséges, egészséget nem veszélyeztető és biztonságos munkakörülmények szabályairól, és a munkavállaló a munkavégzés helyét ezen munkakörülmények teljesülésére figyelemmel választja meg.
+(2) A munkavédelemről szóló 1993. évi XCIII. törvény 86/A–86/C. §-át nem kell alkalmazni. Távmunkavégzés esetén a munkáltató tájékoztatja a munkavállalót a munkavégzéshez szükséges, egészséget nem veszélyeztető és biztonságos munkakörülmények szabályairól, és a munkavállaló a munkavégzés helyét ezen munkakörülmények teljesülésére figyelemmel választja meg.
 
 (3) Igazolás nélkül, költségként elszámolható tételnek minősül a munka törvénykönyvéről szóló törvény távmunkavégzésre vonatkozó rendelkezéseinek megfelelően, a munkaszerződésében foglaltak szerint távmunkavégzés keretében munkát végző munkavállalónak, a távmunkavégzéssel összefüggésben költségtérítés címén fizetett összegből a felek által előzetesen meghatározott, de legfeljebb havonta az adóév első napján érvényes havi minimálbér 10 százalékának megfelelő összeg (ha a távmunkavégzés nem érinti az egész hónapot, a havi összegnek a távmunkavégzéssel érintett napokkal arányos része), feltéve, hogy a magánszemély a távmunkavégzéssel összefüggésben a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. számú melléklet I. Jellemzően előforduló költségek cím 24. pont c) és d) alpontja szerint más költséget nem számol el.
 
@@ -4180,6 +4180,8 @@ amelyről az átadó és az átvevő szolgáltatót valamint az egészségügyi 
 
 (19) Az az egészségügyi szolgáltató, amelynek reprodukciós eljárás végzésére jogosító működési engedélye a (9) bekezdés alapján hatályát veszti, állami kártalanításra jogosult. A kártalanítás mértéke megegyezik az egészségügyi szolgáltató működési engedélyének hatályvesztését megelőző öt üzleti év – amennyiben működését később kezdte meg az adott évek – állami átvétellel érintett gazdasági tevékenységéből származó, mérleg szerinti eredménye átlagának összegével. A kártalanítás mértékét a nemzeti vagyon kezeléséért felelős miniszter állapítja meg.
 
+(20) Ha a tulajdonos azon egészségügyi szolgáltatót, amely esetében a reprodukciós eljárás végzésére jogosító működési engedély a (9) bekezdés alapján hatályát veszti, az állam javára 2022. január 31. napjáig felajánlja megvásárlásra, legfeljebb az egészségügyi szolgáltató 2020. december 31. fordulónapi, független szakértő által megállapított piaci értéke szerinti vételárra jogosult, amennyiben a felajánlás elfogadásáról a magyar állam nevében a Kormány dönt.
+
 244/B. § (1) E törvénynek a Módtv2.-vel megállapított, és módosított 158. § (3a) bekezdését, 159. § (1) és (7) bekezdését, 160/A. §-át, 164/A. § (1) és (5) bekezdését és 164/B. §-át, valamint az e törvény felhatalmazása alapján az orvostudományi kutatásokra és orvostechnikai eszközökkel végzett klinikai vizsgálatokra vonatkozó jogszabályoknak az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet ésaz 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet alkalmazásának megkezdésére figyelemmel megállapított, illetve módosított rendelkezéseit – az (EU) 2017/745 rendelet 120. cikk (11) bekezdésére figyelemmel – azon
 
 - a) orvostechnikai eszközzel végzett klinikai vizsgálatokra kell alkalmazni, amelyek engedélyezése iránt a kérelmet a Módtv2. hatálybalépését követően nyújtották be,
@@ -4323,7 +4325,7 @@ rendeletben megállapítsa.
 - d) meghatározza a 244/D. § (2) bekezdésben foglalt járóbeteg-szakellátási feladatot 2013. április 30-át követően is ellátó helyi önkormányzattal kötendő – a Mötv. 10. § (3) bekezdése szerinti – megállapodással kapcsolatos eljárási szabályokat, a megállapodással szembeni tartalmai és formai követelményeket, a megállapodás időtartamára, felmondására és egyéb okból történő megszűnésére vonatkozó szabályokat és a megállapodással kapcsolatban az állam nevében eljárásra és a megállapodás aláírására jogosult szervet,
 - e) meghatározza a kórházlelkészi, illetve kórházi lelki gondozói tevékenységre vonatkozó részletes szabályokat.
 - f) kijelölje az egészségügyi szolgáltatás irányításáért felelős szervet és az azt irányító minisztert,
-- g) határozza meg az egészségügyi szolgáltatás irányításáért felelős szerv vezetője és annak helyettesei, valamint az igazgatók részére megállapítható személyi illetmény legkisebb és legnagyobb összegét,
+- g) határozza meg az egészségügyi szolgáltatás irányításáért felelős szerv vezetője és annak helyettesei, valamint az igazgatók részére megállapítható személyi illetmény legkisebb összegét,
 - h) kijelölje a 151/B. § (1) bekezdése szerinti egészségügyi intézményeket irányító minisztert,
 - i) határozza meg az állami fenntartású – 151/B. § (1) bekezdése szerinti – egészségügyi intézmények irányításával kapcsolatosan az egészségügyi szolgáltatás irányításáért felelős szerv általi joggyakorlás szabályait,
 - j) határozza meg a Budapesten és Pest megyében működő egészségügyi szakellátást nyújtó egészségügyi intézmények tekintetében az irányító jogkört gyakorló egészségügyi intézményeket és az általuk irányított egészségügyi intézményeket,
@@ -4363,7 +4365,7 @@ rendeletben megállapítsa.
   - ge) az egészségügyi szolgáltatók szervezetének és működésének egyes kérdéseit, továbbá a gyógyintézetekben a szakmai vezető testület létrehozásának és működésének részletes szabályait,
   - gf) gyógyintézet vezetőjének és vezetőhelyetteseinek képesítési követelményrendszerét, illetőleg állami vagy önkormányzati egészségügyi szolgáltató esetén a vezetői (vezetőhelyettesi) megbízatás betöltésére kiírandó pályázat részletes eljárási szabályait,
   - gg) az egészségügyi szakértői szakterületeket, a szakértői tevékenység folytatásának részletes feltételeit, a szakértői tevékenység bejelentésének megtételével összefüggő eljárás részletes szabályait, a bejelentési eljárás részletes szabályait, a bejelentés és nyilvántartás személyes adatot nem tartalmazó adattartalmát és a vezetésére vonatkozó részletes eljárási szabályokat, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket,
-  - gh) az egyes egészségügyi szakképesítésekhez tartozó tevékenységi kompetenciákat,
+  - gh) az egyes egészségügyi szakképesítésekhez tartozó, valamint az egészségügyi felsőfokú szakirányú szakképzés során megszerezhető tevékenységi kompetenciákat,
   - gi) az egészségügyi rendszer teljesítményértékelésére vonatkozó részletes szabályokat, a teljesítményértékelés intézményrendszerét, az egyes indikátorok meghatározásának és gyűjtésének, valamint az egészségpolitikai döntéshozatal során az értékelések felhasználásának szabályait,
   - gj) az egészségügyi szolgáltatók akkreditációs felülvizsgálatát végző szervet kijelölje, valamint az egészségügyi szolgáltatók hatósági szakfelügyeletére, illetve a szakmai munka minőségügyi értékelésére vonatkozó szakmai szabályokat, továbbá az egészségügyi szolgáltatók akkreditációjának és tanúsításának követelményeit, feltételeit, az akkreditációs dokumentum és a tanúsító okirat tartalmi és formai követelményeit,
 - h) az egészségügyi szakképesítést szerzett személyek alapnyilvántartására, valamint az egészségügyi dolgozók működési nyilvántartására vonatkozó részletes szabályokat, továbbá a működési nyilvántartásba vételt igazoló hatósági igazolvány kiállítására vonatkozó részletes szabályokat és az alapnyilvántartásba felvehető szakképesítések körét,
@@ -4398,7 +4400,7 @@ rendeletben megállapítsa.
 - q) a szervekkel, szövetekkel és sejtekkel kapcsolatos tevékenységre vonatkozó részletes szabályokat,
 - r) a véradások szervezésével kapcsolatos részletes szabályokat, a térítéses véradások eseteit, a véradókat megillető költségtérítés, illetőleg a célzott (saját vagy meghatározott személy részére történő) véradás szabályait, továbbá a vérellátás biztonságának biztosítása érdekében szükséges önkéntes véradásra történő felhívás anyagi támogatásának ösztönzésével kapcsolatos szabályokat,
 - s) a terápiás készítmény előállítása céljából történő vérvétel, a vérkészítmények előállításának, tárolásának, nyilvántartásának, készletezésének, megsemmisítésének, ellenőrzésének, elosztásának és kiadásának szabályait, és az ipari célú vérmintavételére és felhasználására vonatkozó részletes szabályokat,
-- sz) a rendszeres étkezést biztosító, szervezett élelmezési ellátás keretében szolgáltatott élelmiszerekre vonatkozó táplálkozás-egészségügyi előírásokat, az étkeztetés, étrendtervezés és a diétás ételkészítés személyi feltételeit, valamint a hatósági ellenőrzés szabályait,
+- sz) a rendszeres étkezést biztosító, szervezett élelmezési ellátás keretében szolgáltatott élelmiszerekre vonatkozó táplálkozás-egészségügyi előírásokat, az étkeztetés, étrendtervezés és a diétás ételkészítés személyi feltételeit, a fekvőbeteg-ellátást nyújtó intézmények, személyes gondoskodást nyújtó gyermekjóléti alapellátást, gyermekvédelmi szakellátást, illetve szociális szakosított ellátást nyújtó intézmények, valamint a nevelési-oktatási intézmények diétás étkeztetéssel kapcsolatos kötelezettségeit, valamint a hatósági ellenőrzés és a közétkeztetést végző gazdasági szereplők táplálkozás-egészségügyi minősítésének szabályait,
 - t) a vérkészítmények terápiás felhasználásának részletes szabályait,
 - u) az egységes ágazati humánerőforrás-monitoringrendszer működésének, valamint a humánerőforrás-monitoringrendszer részére átadásra kerülő egyes adatok körét, illetve a humánerőforrás-monitoringrendszerből történő adatszolgáltatás részletes szabályait,
 - v) az orvosi bélyegzők adattartalmára, kérelmezésére, kiállítására, cseréjére, pótlására, visszavonására és használatára, valamint – az adópolitikáért felelős miniszterrel egyetértésben – az ezzel kapcsolatos igazgatási szolgáltatási díjakra vonatkozó szabályokat,

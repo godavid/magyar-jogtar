@@ -22,7 +22,7 @@ Az állami feladatok ellátásához szükséges bevételek biztosítása, a vál
 
 ### A társasági adó alanya
 
-2. § (1) A társasági adó alanya a (2)–(4) és (6) bekezdésben meghatározott személy.
+2. § (1) A társasági adó alanya a (2)–(4), (6) és (7) bekezdésben meghatározott személy, továbbá a 2/A. §-ban meghatározott csoportos társasági adóalany.
 
 (2) Belföldi illetőségű adózó a belföldi személyek közül
 
@@ -51,7 +51,15 @@ Az állami feladatok ellátásához szükséges bevételek biztosítása, a vál
 
 (6) Belföldi illetőségű adózónak minősül a bizalmi vagyonkezelési szerződés alapján kezelt vagyon.
 
-(7)
+(7) A (8) bekezdésben foglalt kivétellel belföldi illetőségű adózónak minősül a Magyarországon bejegyzési hellyel vagy székhellyel rendelkező hibrid gazdálkodó szervezet, amely nem tartozik a (2)–(4) és (6) bekezdés hatálya alá, ha e törvény szerinti belföldi illetőséggel nem rendelkező szervezet (önmagában vagy e törvény szerinti belföldi illetőséggel nem rendelkező kapcsolt vállalkozásával együttesen)
+
+- a) a szavazati jogai 50 százalékát meghaladó közvetlen vagy közvetett részesedéssel rendelkezik,
+- b) a jegyzett tőkéjéből 50 százalékot meghaladó közvetlen vagy közvetett részesedéssel rendelkezik, vagy
+- c) adózott nyereségéből 50 százalékot meghaladó részre jogosult,
+
+és az a)–c) pont szerinti személy olyan adójogrendszer hatálya alá tartozik, amely a Magyarországon bejegyzési hellyel vagy székhellyel rendelkező hibrid gazdálkodó szervezetet a társasági adó vagy annak megfelelő adó alanyának tekinti.
+
+(8) Nem minősül a (7) bekezdés szerinti belföldi illetőségű adózónak az a befektetési alap és az a más kollektív befektetési forma, amelynek tulajdonosi köre széles, diverzifikált értékpapír-portfólióval rendelkezik, és Magyarországon befektetővédelmi szabályozás alá tartozik.
 
 ### Csoportos társasági adóalany
 
@@ -86,7 +94,7 @@ Az állami feladatok ellátásához szükséges bevételek biztosítása, a vál
 
 - 1. azonos vagy hasonló tevékenység: a fejlesztési adókedvezmény iránti kérelem, illetve bejelentés benyújtásának időpontjában hatályos TEÁOR szerint ugyanazon szakágazatba sorolt tevékenység;
 - 1/a. adomány: a közhasznú szervezet részére törvényben meghatározott közhasznú tevékenysége támogatására, valamint az egyházi jogi személy részére törvényben meghatározott tevékenysége támogatására, továbbá a közérdekű kötelezettségvállalás céljára az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, feltéve hogy az nem jelent az e törvényben meghatározottakon túl vagyoni előnyt az adományozónak, az adományozó tagjának vagy részvényesének, vezető tisztségviselőjének, felügyelőbizottsága vagy igazgatósága tagjának, könyvvizsgálójának, illetve ezen személyek vagy a természetes személy tag vagy részvényes közeli hozzátartozójának azzal, hogy nem minősül vagyoni előnynek az adományozó nevére, tevékenységére történő utalás;
-- 2. adózó: a 2. § (2)–(4), valamint (6) bekezdésében megnevezett belföldi és külföldi személy, a 2. § (5) bekezdésében meghatározottak kivételével;
+- 2. adózó: a 2. § (2)–(4), (6) és (7) bekezdése szerinti belföldi és külföldi személy, a 2. § (5) és (8) bekezdésében meghatározottak kivételével, továbbá a 2/A. §-ban meghatározott csoportos társasági adóalany;
 - 3. azonos munkakör: a 7/2010. (IV. 23.) KSH közleménnyel kiadott, 2011. január 1-jétől hatályos Foglalkozások Egységes Osztályozási Rendszere (a továbbiakban: FEOR-08) szerint azonosnak minősülő munkakör;
 - 3a. állami támogatás: az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatás;
 - 4. árbevétel:
@@ -156,7 +164,7 @@ Az állami feladatok ellátásához szükséges bevételek biztosítása, a vál
   - d) a külföldi vállalkozó és belföldi telephelye, valamint a külföldi vállalkozó telephelyei, továbbá a külföldi vállalkozó belföldi telephelye és az a személy, amely a külföldi vállalkozóval az a)–c) alpontban meghatározott viszonyban áll;
   - e) az adózó és külföldi telephelye, továbbá az adózó külföldi telephelye és az a személy, amely az adózóval az a)–c) alpontban meghatározott viszonyban áll;
   - f) az adózó és más személy, ha köztük az ügyvezetés egyezőségére tekintettel az üzleti és pénzügyi politikára vonatkozó döntő befolyásgyakorlás valósul meg,
-  - g) az a)–c) alpontban foglaltaktól függetlenül akkor is létrejön a kapcsolt vállalkozási viszony ga) a 11. pont, az 53. pont, a 8. § (1) bekezdés f) pontja és a 16/A. § alkalmazásában, ha az adózó és más személy viszonylatában legalább 25 százalékos közvetlen vagy közvetett szavazatijog-részesedés, vagy legalább 25 százalékos közvetlen vagy közvetett tőkerészesedés, vagy legalább 25 százalékos nyereségrészesedés áll fenn, azzal, hogy ezen rendelkezések alkalmazásában az f) alpontban foglaltak teljesülését nem kell vizsgálni, gb) a 16/B. § alkalmazásában, ha az adózó és más személy viszonylatában legalább 50 százalékos közvetlen vagy közvetett szavazatijog-részesedés, vagy legalább 50 százalékos közvetlen vagy közvetett tőkerészesedés, vagy legalább 50 százalékos nyereségrészesedés áll fenn, azzal, hogy a szavazatijog-részesedések és a tőkerészesedések tekintetében az összehangoltan eljáró személyek befolyását egybe kell számítani, továbbá az összevont (konszolidált) pénzügyi beszámolót készítő vállalatcsoporthoz tartozó adózók esetében az f) alpontban foglaltakat is vizsgálni kell;
+  - g) az a)–c) alpontban foglaltaktól függetlenül akkor is létrejön a kapcsolt vállalkozási viszony ga) a 11. pont, az 53. pont, a 8. § (1) bekezdés f) pontja és a 16/A. § alkalmazásában, ha az adózó és más személy viszonylatában legalább 25 százalékos közvetlen vagy közvetett szavazatijog-részesedés, vagy legalább 25 százalékos közvetlen vagy közvetett tőkerészesedés, vagy legalább 25 százalékos nyereségrészesedés áll fenn, azzal, hogy ezen rendelkezések alkalmazásában az f) alpontban foglaltak teljesülését nem kell vizsgálni, gb) a 2. § (7) bekezdés és a 16/B. § alkalmazásában, ha az adózó és más személy viszonylatában legalább 50 százalékos közvetlen vagy közvetett szavazatijog-részesedés, vagy legalább 50 százalékos közvetlen vagy közvetett tőkerészesedés, vagy legalább 50 százalékos nyereségrészesedés áll fenn, azzal, hogy a szavazatijog-részesedések és a tőkerészesedések tekintetében az összehangoltan eljáró személyek befolyását egybe kell számítani, továbbá az összevont (konszolidált) pénzügyi beszámolót készítő vállalatcsoporthoz tartozó adózók esetében az f) alpontban foglaltakat is vizsgálni kell;
 - 23a. kedvezményezett átalakulás: az olyan átalakulás (a továbbiakban ideértve az egyesülést, a szétválást is), amelyben jogelődként és jogutódként is csak a 32/a. pont szerinti társaság vesz részt, ha
   - a) a jogügylet révén a jogelőd tagja, részvényese az átalakulás, egyesülés, szétválás keretében a jogutódban részesedést és legfeljebb a megszerzett részesedés együttes névértéke (névérték hiányában a jegyzett tőke arányában meghatározott értéke) 10 százalékának megfelelő pénzeszközt szerez,
   - b) szétválás esetén a jogelőd tagjai, részvényesei – egymáshoz viszonyítva – arányos részesedést szereznek a jogutódokban,
@@ -920,6 +928,8 @@ azzal, hogy a b)–c) pont nem alkalmazandó azon EGT-tagállamokba történő �
 
 (6) Amennyiben külföldi illetőséggel is rendelkező belföldi illetőségű adózó kifizetése, ráfordítása vagy vesztesége belföldön és külföldön is levonható a társasági adóalapból vagy az annak megfeleltethető adóalapból, akkor az e törvény szerinti belföldi illetőségű adózó a levonás összegével az e törvény szerint adóalapját növeli olyan mértékben, amilyen mértékben nincs olyan kapcsolódó bevétele, amely mindkét állam adójoga szerint adóztatható. Amennyiben a másik állam az Európai Unió tagállama, akkor az e törvény szerinti belföldi illetőségű adózó nem érvényesítheti az e törvény szerinti levonást, ha a másik állammal kötött törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés alapján Magyarországon nem minősül belföldi illetőségűnek.
 
+(7) A 2. § (7) bekezdésében meghatározott belföldi illetőségű adózó az adóalapját úgy határozza meg, hogy az ne tartalmazza azt az összeget, amelyre e törvény szerint társasági adókötelezettsége merül fel, továbbá azt az összeget, amelyre más adójogrendszer adójogszabályai alapján vagy társasági adó, vagy annak megfelelő adókötelezettsége merül fel, amelyet a külföldi adóbevallásával igazol.
+
 ### Veszteségelhatárolás
 
 17. § (1) Amennyiben a 6. § (1)–(4) bekezdése szerinti adóalap bármely adóévben negatív, ezzel az összeggel az adózó a következő öt adóévben – a (2)–(9a) és a (15)–(18) bekezdésekben foglaltakat figyelembe véve – döntése szerinti megosztásban csökkentheti az adózás előtti eredményét, feltéve, hogy a negatív adóalap a rendeltetésszerű joggyakorlás elvének betartásával keletkezett (a továbbiakban: elhatárolt veszteség).
@@ -1319,8 +1329,8 @@ kapcsolatban az adóévi adózás előtti eredmény terhére elszámolt ráford�
 - g) munkahelyteremtést szolgáló beruházás,
 - h) a jegyzett tőkéjének felemelése keretében kibocsátott részvényeknek (vagy egy részének) a tőkepiacról szóló törvényben meghatározott szabályozott piacra (a továbbiakban: szabályozott piac) történő bevezetésének a napját (az első kereskedési napot) követően, de legkésőbb az e napot követő harmadik év utolsó napjáig megkezdett, jelenértéken legalább 100 millió forint értékű beruházás,
 - i) jelenértéken legalább
-  - ia) 200 millió forint értékű, kisvállalkozás által,
-  - ib) 300 millió forint értékű, középvállalkozás által
+  - ia) 50 millió forint értékű, kisvállalkozás által,
+  - ib) 100 millió forint értékű, középvállalkozás által
 
 megvalósított beruházás,
 
@@ -1871,7 +1881,7 @@ akkor a növekedési adóhitel összegének vonatkozásában adóbevallási és 
 
 (6b) A (6a) bekezdés szerinti csökkentés nem haladhatja meg a külföldi telephely jövedelmének megállapításakor alkalmazott 18. § (1) bekezdés b) pontja szerinti növelő tétel 90 százaléka és a külföldi telephelyhez a (4) bekezdés szerint hozzárendelhető költségek, ráfordítások összegéből a külföldi telephely bevételét meghaladó összeg közül a kisebbet.
 
-(6c) A (6a) bekezdés szerinti csökkentés a 7., 8. és 16/B. §-ban foglalt rendelkezésekre figyelemmel alkalmazandó.
+(6c) A (6a) bekezdés szerinti csökkentés a 7. §-ban, 8. §-ban és 16/B. § (1)–(6) bekezdésében foglalt rendelkezésekre figyelemmel alkalmazandó.
 
 (7) A csoportos társasági adóalany által fizetendő adó megállapításakor a (2)–(6) bekezdésben foglaltak a csoporttag által az adóévben megszerzett külföldön adóztatható jövedelemre, illetve a csoporttag által külföldön fizetett (fizetendő) adóra irányadóak. A csoporttag az általa külföldön fizetett (fizetendő) adó összegét feltünteti az adóbevallással egyenértékű nyilatkozatában.
 
@@ -2761,7 +2771,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 8. a biztosítás díja, ha a biztosított az adózóval munkaviszonyban vagy önkéntes jogviszonyban álló magánszemély, az adózó vezető tisztségviselője, tevékenységében személyesen közreműködő tagja, vagy a szakképzési munkaszerződés alapján duális képzőhelyen folytatott szakirányú oktatásban részt vevő tanuló, képzésben részt vevő személy;
 
-9.
+9. az adózó által a vele munkaviszonyban álló magánszemély, illetve vezető tisztségviselője, tevékenységében személyesen közreműködő tagja, valamint az adózóval korábban munkaviszonyban álló, a Tbj. 4. § 17. pontja szerinti saját jogú nyugdíjas, valamint az említett magánszemélyek közeli hozzátartozója részére bármely módon biztosított – kizárólag emberi erővel hajtott vagy legfeljebb 300 W teljesítményű elektromos motorral segített – kerékpár vásárlása, átadása, használata, fenntartása és üzemeltetése révén felmerült költség, ráfordítás (ideértve az azzal összefüggő, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetést is);
 
 11. a tulajdonostárs által a társasházi közös tulajdonnal, a lakásszövetkezeti tulajdonnal kapcsolatos karbantartási és egyéb közös kiadásra (üzemeltetésre) elszámolt, tulajdoni hányaddal arányos költség; továbbá a lakásszövetkezetnél a cégbejegyzés előtt vállalt kötelezettség miatt felmerült költség, ráfordítás, feltéve, hogy az alapul szolgáló szerződést a közgyűlés utólag jóváhagyta;
 
@@ -2806,7 +2816,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 - 3. a kizárólag a fogvatartottak foglalkoztatása céljából létesített közhasznú társaság, illetve a tevékenységét folytató közhasznú nonprofit gazdasági társaság,
 - 4. a Tartalék Gazdálkodási Közhasznú Társaság, illetve a tevékenységét folytató nonprofit gazdasági társaság,
 - 5. a Közlekedési, Hírközlési és Vízügyi Tartalékgazdálkodási Közhasznú Társaság, illetve a tevékenységét folytató nonprofit gazdasági társaság,
-- 6. a Magyar Nemzeti Vagyonkezelő Zrt.,
+- 6. a Magyar Nemzeti Vagyonkezelő Zrt., a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság,
 - 7. a jogszabályban meghatározott közszolgálati médiaszolgáltatók,
 - 8. a felszámolás kezdő napjától a felszámolási eljárás alatt állók, a kényszertörlési eljárás kezdő napjától a kényszertörlési eljárás alatt állók;
 - 9. a pártok,

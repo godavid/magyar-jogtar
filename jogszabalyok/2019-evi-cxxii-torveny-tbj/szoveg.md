@@ -433,7 +433,7 @@ ténylegesen érvényesített családi kedvezménnyel csökkentett összeg 15 sz
 
 (5) A családi járulékkedvezmény (3) bekezdés szerinti összegét a biztosított az éves bevallásában feltünteti.
 
-(6) A családi járulékkedvezmény nem csökkenti azt a járulékkötelezettséget, amelyet az Szja tv. szerint adómentes vagy bevételnek nem minősülő járulékalap után kell megfizetni (ide nem értve a munkavállalói érdekképviseletet ellátó szervezet részére az adóévben levont, befizetett tagdíj összegét). Egyéni és társas vállalkozó esetén a családi járulékkedvezményt a kivétet, az átalányban megállapított jövedelmet vagy a személyes közreműködői díjat terhelő társadalombiztosítási járulék erejéig lehet érvényesíteni.
+(6) A családi járulékkedvezmény nem csökkenti azt a járulékkötelezettséget, amelyet az Szja tv. szerint adómentes vagy bevételnek nem minősülő járulékalap után kell megfizetni (ide nem értve a munkavállalói érdekképviseletet ellátó szervezet részére az adóévben levont, befizetett tagdíj összegét). Egyéni és társas vállalkozó esetén a családi járulékkedvezményt a kivétet, az átalányban megállapított jövedelmet vagy a személyes közreműködői díjat terhelő társadalombiztosítási járulék erejéig lehet érvényesíteni, azzal, hogy járulékkedvezmény az átalányadózást alkalmazó, a 42. § (2) bekezdés a)–b) pontjában nem említett egyéni vállalkozó e tevékenységéből származó jövedelme adómentes részével egyező nagyságú járulékalap után fizetendő járulék terhére is érvényesíthető. Ha az átalányadózást alkalmazó, a 42. § (2) bekezdés a)–b) pontjában nem említett egyéni vállalkozó járulékalapjaként a minimálbért köteles figyelembe venni, a járulékkedvezmény az e járulékalapnak az átalányban megállapított adómentes jövedelmet meg nem haladó nagyságú része után fizetendő járulék terhére is érvényesíthető.
 
 35. § A családi járulékkedvezmény érvényesítése nem érinti a biztosított társadalombiztosítási és munkaerő-piaci ellátásokra való jogosultságát és az ellátások összegét.
 
@@ -477,7 +477,7 @@ ténylegesen érvényesített családi kedvezménnyel csökkentett összeg 15 sz
 40. § (1) A biztosított egyéni vállalkozó a társadalombiztosítási járulékot
 
 - a) vállalkozói jövedelem szerinti adózás esetén a vállalkozói kivét,
-- b) átalányadózás esetén az átalányban megállapított jövedelem
+- b) átalányadózás esetén az átalányban megállapított jövedelem (ide nem értve az átalányadózást alkalmazó egyéni vállalkozó e tevékenységéből származó jövedelmének adómentes részét)
 
 után fizeti meg. A társadalombiztosítási járulék alapja havonta legalább a minimálbér.
 
@@ -510,7 +510,7 @@ után fizeti meg. A társadalombiztosítási járulék alapja havonta legalább 
 
 42. § (1) Több biztosítási kötelezettséggel járó jogviszony egyidejű fennállása esetén a járulékalap után mindegyik jogviszonyban meg kell fizetni a társadalombiztosítási járulékot.
 
-(2) A társadalombiztosítási járulék alapja a ténylegesen elért járulékalapot képező jövedelem, átalányadózó egyéni vállalkozó esetében az átalányban megállapított jövedelem, ha
+(2) A társadalombiztosítási járulék alapja a ténylegesen elért járulékalapot képező jövedelem, átalányadózó egyéni vállalkozó esetében az átalányban megállapított jövedelem (ide nem értve az átalányadózást alkalmazó egyéni vállalkozó e tevékenységéből származó jövedelmének adómentes részét), ha
 
 - a) az egyéni vállalkozó, a társas vállalkozó legalább heti 36 órás foglalkoztatással járó munkaviszonyban is áll, vagy
 - b) az egyéni vállalkozó, a társas vállalkozó a nemzeti köznevelésről szóló törvény hatálya alá tartozó köznevelési intézményben nappali rendszerű iskolai oktatás keretében vagy nappali oktatás munkarendje szerint folyó oktatásban, a szakképzésről szóló törvény szerint nappali rendszerű szakmai oktatásban, továbbá a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytat, vagy EGT-államban vagy Svájcban közép- vagy felsőoktatási intézményben nappali rendszerű oktatás keretében folytat tanulmányokat.
@@ -630,11 +630,15 @@ kívánja szolgálati időként elismertetni.
 
 (3) A Magyarország területén oktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató külföldi állampolgár egészségügyi szolgáltatására a megállapodás megkötése napján érvényes minimálbér 30 százalékának megfelelő havi összegű járulék megfizetésének vállalása esetén köthet megállapodást.
 
-50. § A 48. § és a 49. § szerinti megállapodást a kedvezményezett személy javára a járulékfizetés átvállalásával más személy vagy szerv is megkötheti. Az előzőekben említett megállapodások alapján fizetendő járulékokat Magyarország hivatalos pénznemében és a megállapodás megkötése utáni mértékváltozások figyelembevételével kell megállapítani és megfizetni.
+49/A. § (1) A csecsemőgondozási díjra, gyermekgondozási díjra, örökbefogadói díjra jogosultsághoz szükséges, az Ebtv. által meghatározott előzetes 365 napi biztosítási idő szerzése céljából az Európai Közösségek tisztviselőinek személyzeti szabályzatáról és egyéb alkalmazottainak alkalmazási feltételeiről szóló, 1968. február 29-i 259/68/EGK, Euratom, ESZAK tanácsi rendelet (a továbbiakban: SR.) hatálya alá tartozó szolgálati jogviszonyban állt személy megállapodást (a továbbiakban: anyasági pénzbeli ellátás biztosítására irányuló megállapodás) köthet.
 
-51. § A 48. és 49. § szerinti megállapodások hatósági szerződésnek minősülnek.
+(2) Az anyasági pénzbeli ellátás biztosítására irányuló megállapodás alapján fizetendő járulék összege a csecsemőgondozási díj, a gyermekgondozási díj, illetve az örökbefogadói díj számításának alapjául szolgáló naptári napi alap, illetve naptári napi jövedelem 5 százalékának és az Ebtv. által meghatározott előzetes 365 napi biztosítási időhöz hiányzó napok számának szorzata ezer forintra kerekítve. Az anyasági pénzbeli ellátás biztosítására irányuló megállapodás legfeljebb annyi napra köthető meg, ahány napig a biztosított az előzetes 365 napi biztosítási idő megszerzésére előírt két éves időtartamon belül az SR. szerinti közös betegségbiztosítási rendszer tagja volt.
 
-52. § (1) A 48. § és 49. § szerinti megállapodásnak tartalmaznia kell a szerződő felek megnevezését, címét, valamint a megállapodást kötő személynek, illetve a kedvezményezettnek a nyilvántartásra, adatszolgáltatásra vonatkozó rendelkezések szerinti adatait, a fizetendő járulék alapját vagy összegét, a szerződés keltét, és ha a járulékfizetési kötelezettség (a szerződés hatálya) ettől eltér, ennek időpontját.
+50. § A 48. §, a 49. § és a 49/A. § szerinti megállapodást a kedvezményezett személy javára a járulékfizetés átvállalásával más személy vagy szerv is megkötheti. Az előzőekben említett megállapodások alapján fizetendő járulékokat Magyarország hivatalos pénznemében és a megállapodás megkötése utáni mértékváltozások figyelembevételével kell megállapítani és megfizetni.
+
+51. § A 48. §, a 49. § és a 49/A. § szerinti megállapodások hatósági szerződésnek minősülnek.
+
+52. § (1) A 48. §, a 49. § és a 49/A. § szerinti megállapodásnak tartalmaznia kell a szerződő felek megnevezését, címét, valamint a megállapodást kötő személynek, illetve a kedvezményezettnek a nyilvántartásra, adatszolgáltatásra vonatkozó rendelkezések szerinti adatait, a fizetendő járulék alapját vagy összegét, a szerződés keltét, és ha a járulékfizetési kötelezettség (a szerződés hatálya) ettől eltér, ennek időpontját.
 
 (2) Az egészségügyi szolgáltatásra megállapodás csak a megállapodás megkötését követő hónap első napjától kezdődő hatállyal, az első hónapra esedékes járulék egyidejű befizetése mellett köthető. Ezt követően a járulékot havonta előre, a tárgyhónapot közvetlenül megelőző hónap 12. napjáig kell megfizetni. A befizetési határidő elmulasztása esetén a megállapodás megszűnik a járulék esedékességének napját magában foglaló naptári hónap utolsó napján, kivéve, ha addig a tartozást megfizetik. Az egészségügyi szolgáltatásra való jogosultság a megállapodás megszűnéséig áll fenn.
 
@@ -648,13 +652,19 @@ kívánja szolgálati időként elismertetni.
 
 (7) Megállapodás alapján egészségügyi szolgáltatásra jogosult külföldi részére az igazolást a vele megállapodást kötő igazgatási szerv adja ki.
 
-53. § A 48. § szerinti megállapodást a megállapodást kötő személy – kedvezményezett javára kötött megállapodás esetén a kedvezményezett – lakóhelye szerint illetékes, nyugdíjbiztosítási igazgatási szervként eljáró fővárosi és megyei kormányhivatallal kell megkötni.
+(8) Az anyasági pénzbeli ellátás biztosítására irányuló megállapodás a csecsemőgondozási díj, a gyermekgondozási díj, illetve az örökbefogadói díj elbírálása tárgyában hozott határozat elleni jogorvoslatra meghatározott idő lejártáig kezdeményezhető, és a járulékot a megállapodás megkötését követő öt napon belül egy összegben kell megfizetni.
+
+53. § (1) A 48. § szerinti megállapodást a megállapodást kötő személy lakóhelye szerint illetékes, nyugdíjbiztosítási igazgatási szervként eljáró fővárosi és megyei kormányhivatallal, magyarországi lakóhely hiányában a nyugdíjbiztosítási igazgatási szervként eljáró fővárosi kormányhivatallal kell megkötni.
+
+(2) Az anyasági pénzbeli ellátás biztosítására irányuló megállapodást a megállapodást kötő személy lakóhelye szerint illetékes egészségbiztosítási szervként eljáró fővárosi és megyei kormányhivatallal, magyarországi lakóhely hiányában az egészségbiztosítási szervként eljáró fővárosi kormányhivatallal kell megkötni.
 
 54. § (1) A 48. § (4) bekezdés b) pontja szerinti megállapodás megkötésére a megállapodást kötő személyre – ha a megállapodást más javára kötik, a kedvezményezettre – irányadó öregségi nyugdíjkorhatár betöltése után kerülhet sor.
 
 (2) Az egészségügyi szolgáltatás biztosítására kötött megállapodás megkötésére az egészségbiztosítási szerv jogosult.
 
 (3) Az egészségügyi szolgáltatás biztosítására irányuló megállapodás megkötéséhez bemutatandó a kedvezményezett személyazonosságát igazoló okmány, a lakó-, tartózkodási, illetve szálláshelyet igazoló dokumentum, külföldi állampolgár esetében az idegenrendészeti hatóság által kiadott, tartózkodásra jogosító okmány, ide nem értve a gyógykezelési célú tartózkodási engedélyt és a kishatárforgalmi engedélyt.
+
+(3a) Az anyasági pénzbeli ellátás biztosítására irányuló megállapodás megkötéséhez bemutatandó a szerződő természetes személy személyazonosságát igazoló okmány, a lakó-, tartózkodási helyet igazoló dokumentum és a 49/A. § (1) bekezdése szerinti jogviszonyt és a 49/A. § (2) bekezdése szerinti betegbiztosításban töltött időt igazoló dokumentum.
 
 (4) A szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából kötött és a szolgálati idő szerzése céljából kötött megállapodás alapján megfizetett járulékot a megállapodást kötő személy, vagy elhalálozása esetén az örököse részére – az Art. szerinti elévülési idő figyelmen kívül hagyásával – vissza kell fizetni
 
@@ -1049,7 +1059,7 @@ Az állami adó- és vámhatóság a visszamenőleges hatályú törlésről, an
 
 80. § (1) A biztosított egyéni vállalkozó és mezőgazdasági őstermelő a családi járulékkedvezmény havi, illetve negyedéves összegét saját maga állapítja meg.
 
-(2) A biztosított egyéni vállalkozó által érvényesíthető családi járulékkedvezmény havi összege a családi kedvezmény havi összege (közös igénybevétel esetén a biztosított egyéni vállalkozóra jutó összege) és a vállalkozói kivét vagy az átalányban megállapított jövedelem havi összege után megállapított személyi jövedelemadó adóelőleg-alap különbözetének – ha az pozitív – 15 százaléka, de legfeljebb a biztosítottat a tárgyhónapban terhelő társadalombiztosítási járulék összege.
+(2) A biztosított egyéni vállalkozó által érvényesíthető családi járulékkedvezmény havi összege a családi kedvezmény havi összege (közös igénybevétel esetén a biztosított egyéni vállalkozóra jutó összege) és a vállalkozói kivét vagy az átalányban megállapított jövedelem havi összege után megállapított személyi jövedelemadó adóelőleg-alap különbözetének – ha az pozitív – 15 százaléka, de legfeljebb a kivétre vagy az átalányban megállapított havi jövedelemre [ideértve a 42. § (2) bekezdés a)–b) pontjában nem említett biztosított egyéni vállalkozó átalányban megállapított havi jövedelmének adómentes részét is] jutó járulékalap után fizetendő járulék. Ha az átalányadózást alkalmazó, a 42. § (2) bekezdés a)–b) pontjában nem említett egyéni vállalkozó az adott havi járulékalapjaként a minimálbért köteles figyelembe venni, a járulékkedvezmény az e járulékalapnak az átalányban megállapított adómentes havi jövedelmet meg nem haladó nagyságú része után fizetendő járulék terhére érvényesíthető.
 
 (3) A biztosított őstermelő által érvényesíthető családi járulékkedvezmény negyedéves összege a családi kedvezmény negyedévre eső összege (közös igénybevétel esetén a biztosított mezőgazdasági őstermelőre jutó összege) és a mezőgazdasági őstermelésből származó jövedelem vagy az átalányban megállapított jövedelem negyedéves összege után megállapított személyi jövedelemadó adóelőleg-alap különbözetének – ha az pozitív – 15 százaléka, de legfeljebb a biztosítottat a tárgyhónapban terhelő társadalombiztosítási járulék összege.
 
@@ -1292,6 +1302,12 @@ a 25 százalékot.
 105/A. § A 41. § (2) bekezdésétől eltérően a 2021. adóévben a 2020. december 31-én hatályos Szja tv. szerinti mezőgazdasági kistermelő a tárgyévet megelőző évi – támogatások nélküli – bevételének 15 százaléka után fizeti meg a társadalombiztosítási járulékot.
 
 105/B. § Ha a magánszemély az egészségügyi szolgáltatások veszélyhelyzeti igénybevételével kapcsolatos egyes szabályokról és a koronavírus elleni védettség igazolásáról szóló 60/2021. (II. 12.) Korm. rendelet módosításáról szóló 222/2021. (V. 3.) Korm. rendelet (e § alkalmazásában a továbbiakban: kormányrendelet) 1. § (1) bekezdése alapján minősült belföldinek és a kormányrendelet hatálybalépését megelőzően az egészségügyi szolgáltatásra való jogosultsága vagy az egészségügyi szolgáltatási járulékfizetési kötelezettsége a belföldiség hiányában nem volt megállapítható, az egészségügyi szolgáltatásra való jogosultság és az egészségügyi szolgáltatási járulékfizetési kötelezettség kezdő időpontjára a kormányrendelet 1. § (3) bekezdése rendelkezését kell alkalmazni.
+
+105/C. § (1) Az egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2021. évi CXXXIV. törvénnyel megállapított anyasági pénzbeli ellátás biztosítására irányuló megállapodás a 2022. január 1-jét megelőző időszakra is megköthető.
+
+(2) Az egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2021. évi CXXXIV. törvénnyel megállapított 49/A. §-t a 2022. január 1-jén véglegessé vált határozattal le nem zárt ügyekben is alkalmazni kell azzal, hogy ha a kérelmező az anyasági pénzbeli ellátás biztosítására irányuló megállapodás megkötésének igényét a határozat véglegessé válását megelőzően bejelenti, az eljárást az anyasági pénzbeli ellátás biztosítására irányuló megállapodás megkötéséig, de legkésőbb 2022. március 31-éig fel kell függeszteni.
+
+(3) Ha a csecsemőgondozási díj, a gyermekgondozási díj vagy az örökbefogadói díj iránt 2021. évben benyújtott kérelmet jogosultság hiányára tekintettel utasították el, az igénylő 2022. március 31-éig kezdeményezheti az egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2021. évi CXXXIV. törvénnyel megállapított anyasági pénzbeli ellátás biztosítására irányuló megállapodás megkötését a 2022. január 1-jét megelőző időszakra. A csecsemőgondozási díj, a gyermekgondozási díj, illetve az örökbefogadói díj igénylése iránt az anyasági pénzbeli ellátás biztosítására irányuló megállapodás megkötését követően ismételten benyújtott kérelmet úgy kell tekinteni, mintha az eredeti igénybejelentés időpontjában nyújtották volna be.
 
 #### 34. Az Európai Unió jogának való megfelelés
 

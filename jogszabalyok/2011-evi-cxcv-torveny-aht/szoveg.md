@@ -680,7 +680,7 @@ a költségvetési évet követő három évre várható összegét.
 
 31. § (1) A központi kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai költségvetési bevételi előirányzatait – és szükség szerint ezzel összhangban a költségvetési kiadási előirányzatait – módosítani kell, ha az adott költségvetési bevételre vonatkozó jogszabályi előírások év közben változnak.
 
-(2) Az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai költségvetési bevételi előirányzatait és költségvetési kiadási előirányzatait az (1) bekezdésben meghatározott eseten kívül – a 86. § (3) bekezdése szerinti esetben az Országgyűlés döntése alapján, (4) bekezdése szerinti esetben az államháztartásért felelős miniszter hozzájárulásával – a fejezetet irányító szerv módosíthatja, ha a költségvetési bevételi előirányzatok túlteljesítése vagy a felülvizsgált és jóváhagyott előző évi költségvetési maradvány erre fedezetet biztosít.
+(2) Az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai költségvetési bevételi előirányzatait és költségvetési kiadási előirányzatait az (1) bekezdésben meghatározott eseten kívül – a 86. § (4) bekezdése szerinti esetben az államháztartásért felelős miniszter hozzájárulásával – a fejezetet irányító szerv módosíthatja, ha a költségvetési bevételi előirányzatok túlteljesítése vagy – a társadalombiztosítás pénzügyi alapjai kivételével – a felülvizsgált és jóváhagyott előző évi költségvetési maradvány erre fedezetet biztosít.
 
 (2a)
 
@@ -700,13 +700,20 @@ a költségvetési évet követő három évre várható összegét.
 
 (4) A fejezetet irányító szerv a törvényben meghatározott kibocsátási egységek értékesítéséből származó, a központi költségvetésről szóló törvényben megtervezetten felül pénzforgalmilag teljesült bevételeknek a központi költségvetésről szóló törvényben meghatározott mértékével megnövelheti a bevétel felhasználására szolgáló kiadási előirányzatot.
 
-(5) A központi költségvetési szervnek nem minősülő, vonalas közlekedési infrastruktúrát működtető, vagy központosított infokommunikációs közszolgáltatást nyújtó, vagy törvényben meghatározott építtetői feladatokat ellátó vagyonkezelő az állami tulajdonú
+(5) A központi költségvetési szervnek nem minősülő, vonalas közlekedési infrastruktúrát működtető vagy központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló jogszabály szerinti központi szolgáltató, vagy törvényben vagy kormányrendeletben meghatározott építtetői feladatokat ellátó vagyonkezelő vagyonkezelésében álló, állami tulajdonú,
 
-- a) feladatellátásához nem szükséges – a Vtv. 33. § (2) bekezdése alapján az éves költségvetési törvényben meghatározott értékhatárt meg nem haladó egyedi, könyv szerinti bruttó értékű – immateriális jószágok, tárgyi eszközök, készletek,
-- b) a hulladéknak nem minősülő vissznyereményi anyagok,
-- c) a bányászatról szóló törvény szerint ásványi nyersanyagnak minősülő anyagok
+- a) a vagyonkezelő feladatellátásához nem szükséges – a Vtv. 33. § (2) bekezdése alapján az éves költségvetési törvényben meghatározott értékhatárt meg nem haladó egyedi, könyv szerinti bruttó értékű – immateriális jószágoknak, tárgyi eszközöknek, készleteknek,
+- b) hulladéknak nem minősülő vissznyereményi anyagoknak,
+- c) a bányászatról szóló törvény szerint ásványi nyersanyagnak minősülő anyagoknak
 
-az állam nevében, a tulajdonosi joggyakorlóval kötött megbízási szerződés vagy törvény alapján történő értékesítéséből származó bevétel kizárólag az államot illeti meg, amelyet a 14. § (4) bekezdés b) pontja szerinti fejezetben kell elszámolni. Az értékesítési bevétel a vagyonkezelő vagyonkezelésében lévő állami vagyon értéke megőrzésének vagy gyarapításának céljára használható fel olyan módon, hogy az államháztartásért felelős miniszter a költségvetési évben elszámolt bevétel mértékéig új kiadási előirányzat létrehozatalát vagy meglévő kiadási előirányzat növelését engedélyezheti abban a költségvetési fejezetben, amely e cél finanszírozására szolgál.
+az állam nevében, a tulajdonosi joggyakorlóval kötött megbízási szerződés vagy törvény alapján történő értékesítéséből származó bevétel kizárólag az államot illeti meg, amelyet a 14. § (4) bekezdés b) pontja szerinti fejezetben kell elszámolni.
+
+(5a) Az (5) bekezdés szerinti értékesítési bevétel
+
+- a) a vagyonkezelő vagyonkezelésében lévő állami vagyon értéke megőrzésének vagy gyarapításának, vagy
+- b) közszolgáltatási szerződés szerinti feladat teljesítése, vagy közszolgáltatási eszközállomány technológiai korszerűsítését célzó beszerzés
+
+céljára használható fel olyan módon, hogy az államháztartásért felelős miniszter a költségvetési évben az elszámolt bevétel mértékéig új kiadási előirányzat létrehozatalát vagy meglévő kiadási előirányzat növelését engedélyezheti abban a költségvetési fejezetben, amely a cél finanszírozására szolgál.
 
 (6) Az (5) bekezdés szerinti értékesítési eljárás során felmerült, igazolt költségeket az MNV Zrt. a 14. § (4) bekezdés b) pontja szerinti fejezet terhére megtéríti. A megtérítési kötelezettség összegével a fejezet költségvetési kiadási előirányzatát a fejezetet irányító szerv módosíthatja.
 
@@ -823,7 +830,7 @@ kerülhet sor.
 
 (7) A kötelezettségvállalásra jogosult személyek körét a Kormány rendeletben határozza meg.
 
-36/A. § Az egészségügyről szóló törvény szerinti városi intézmények egyes tárgyévi vagy költségvetési éven túli kötelezettségvállalásainak megtételéhez az irányító megyei intézmény előzetes jóváhagyása szükséges. Az előzetes jóváhagyás alá tartozó kötelezettségvállalások körét és a jóváhagyás feltételeit a Kormány rendeletben határozza meg.
+36/A. § Kormányrendelet az állami fenntartású egészségügyi intézmény egyes tárgyévi vagy költségvetési éven túli kötelezettségvállalásait feltételhez kötheti vagy korlátozhatja.
 
 37. § (1) Kötelezettséget vállalni a Kormány rendeletében foglalt kivételekkel csak pénzügyi ellenjegyzés után, a pénzügyi teljesítés esedékességét megelőzően, írásban lehet. A pénzügyi ellenjegyzőnek a Kormány rendeletében foglalt kivételekkel meg kell győződnie arról, hogy a tervezett kifizetési időpontokban a pénzügyi fedezet biztosított, a kötelezettségvállalás nem sérti a gazdálkodásra vonatkozó szabályokat, és
 
@@ -1490,7 +1497,7 @@ nem végezhet a (7) bekezdés szerinti tevékenységet.
 - e) az MNV Zrt.,
 - f) a Diákhitel Központ Zrt.,
 - g) a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság,
-- h) a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény szerinti Lebonyolító,
+- h) a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság (a továbbiakban: MVH),
 - i) az Országgyűlés által, a Kormány által és a megyei önkormányzat által alapított közalapítványok,
 - j) az olyan nonprofit gazdasági társaságok, amelyekben az állam legalább az Nvt. szerinti többségi befolyással rendelkezik,
 - k) a Nemzeti Üdülési Szolgálat és
@@ -1544,7 +1551,12 @@ nem végezhet a (7) bekezdés szerinti tevékenységet.
 
 #### 54. Az államháztartás központi alrendszerébe tartozó költségvetési szervek és a fejezeti kezelésű előirányzatok finanszírozása
 
-81. § (1) Az államháztartás központi alrendszerébe tartozó költségvetési szerv részére a kincstár havonta a működési bevételi előirányzatok és a működési kiadási előirányzatok különbségére jutó központi támogatás időarányos, a felhalmozási bevételi előirányzatok és felhalmozási kiadási előirányzatok különbségére eső központi támogatás teljesítésarányos részének megfelelő összegű előirányzat-felhasználási keretet nyit.
+81. § (1) Az államháztartás központi alrendszerébe tartozó költségvetési szerv részére a kincstár havonta
+
+- a) a működési kiadási előirányzatokra jutó központi támogatást időarányosan, és
+- b) a felhalmozási kiadási előirányzatokra eső központi támogatást teljesítésarányosan
+
+előirányzat-felhasználási keretként nyitja meg.
 
 (2) Az előirányzat-felhasználási keret előrehozása a Kormány rendeletében meghatározott esetben és módon történhet.
 
@@ -1616,7 +1628,7 @@ nem végezhet a (7) bekezdés szerinti tevékenységet.
 
 (2) A központi kezelésű előirányzatok év végéig fel nem használt összege a költségvetési év utolsó napján törlésre kerül, ezen előirányzatok így költségvetési maradvánnyal nem rendelkeznek.
 
-(3) A társadalombiztosítás pénzügyi alapjai költségvetési maradványának felhasználhatóságáról az Országgyűlés a zárszámadásról szóló törvényben dönt.
+(3) A társadalombiztosítás pénzügyi alapjai előirányzatainak év végéig fel nem használt összege a költségvetési év utolsó napján törlésre kerül, ezen előirányzatok így költségvetési maradvánnyal nem rendelkeznek.
 
 (4) Az elkülönített állami pénzalap költségvetési maradványa felhasználásának engedélyezésére az államháztartásért felelős miniszter hozzájárulása esetén a fejezetet irányító szerv jogosult.
 
@@ -1767,11 +1779,11 @@ eredményeképpen keletkeztek.
 
 99. § Ha az Európai Bizottság tiltott állami támogatás visszafizettetését rendeli el, a visszafizetendő összeg adók módjára behajtandó követelésnek minősül.
 
-100. § (1) A fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében gazdasági társaságban való érdekeltséget megtestesítő részvényt vagy üzletrészt, továbbá egyéb vagyont elfogadni csak abban az esetben és mértékben lehet, ha a pénzbeli teljesítés nem vagy csak részben lehetséges.
+100. § (1) A fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében gazdasági társaságban való érdekeltséget megtestesítő részvényt vagy üzletrészt, továbbá egyéb vagyont elfogadni csak abban az esetben és mértékben lehet, ha a pénzbeli teljesítés nem, vagy csak részben lehetséges és annak elfogadásával az MVH a vagyon értékesítési, bevételszerzési lehetőségeit mérlegelve egyetért.
 
-(2) Az (1) bekezdés szerinti vagyont az MNV Zrt. részére készpénzes értékesítésre vagy az értékesítésig további hasznosításra át kell adni. A vagyon átadója és az MNV Zrt. az átadáskor megállapodásban rendelkezik a vagyon értékesítése, hasznosítása során felmerülő költségekről.
+(2) Az (1) bekezdés szerinti vagyont az MVH részére készpénzes értékesítésre vagy az értékesítésig további hasznosításra, illetve a vagyonelemként átvett követelést kezelésre és érvényesítésre át kell adni. Az átadó és az MVH az átadáskor megállapodásban rendelkezik a vagyon értékesítése, hasznosítása, követelés kezelése és érvényesítése során felmerülő költségekről.
 
-(3) Az MNV. Zrt. az átadott vagyon értékesítéséből, hasznosításából származó költségvetési bevételnek a (2) bekezdés szerinti megállapodásban rögzített költségekkel csökkentett részét – az elkülönített állami pénzalap esetén a központi támogatás arányában a központi költségvetést megillető hányad kivételével – a fejezeti kezelésű előirányzat, az elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja fizetési számlájára köteles átutalni.
+(3) Az MVH az átadott vagyon értékesítéséből, hasznosításából, a követelés érvényesítéséből származó költségvetési bevételnek a (2) bekezdés szerinti megállapodásban rögzített költségekkel csökkentett részét – az elkülönített állami pénzalap esetén a központi támogatás arányában a központi költségvetést megillető hányad kivételével – a fejezeti kezelésű előirányzat, az elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja fizetési számlájára köteles átutalni.
 
 101. § (1) Az állam külföldi követeléseivel (e § alkalmazásában a továbbiakban: külföldi követelés) való gazdálkodás feladatait az államháztartásért felelős miniszter a kincstár közreműködésével látja el.
 
@@ -1802,6 +1814,42 @@ gyűjtő, nyilvántartó, feldolgozó és szolgáltató információs rendszer.
 (3)
 
 (4) A kincstár a (2) bekezdés szerinti adatok kormányrendeletben meghatározott körét, valamint az adatoknak a nemzeti és regionális számlák európai rendszere szerinti adatokra történő átszámítására vonatkozó útmutatót közzéteszi a honlapján.
+
+(5) A Központi Költségvetés Végrehajtását Támogató Rendszer (a továbbiakban: KKVTR rendszer) a kincstár által fejlesztett és működtetett, az államháztartás információs rendszere részeként működő, integrált informatikai rendszer, amely a központi költségvetés végrehajtásához és ellenőrzéséhez szükséges adatokat tartalmazó nem közhiteles nyilvántartás. A KKVTR rendszer személyes adatokat nem tartalmaz.
+
+(6) A KKVTR rendszer nyilvántartja a központi költségvetés végrehajtása szempontjából az előirányzat-módosítást, az előirányzat-módosítási kötelezettség nélkül túlteljesíthető előirányzatokhoz kapcsolódó keretnövelés, a 36. § (2) bekezdése szerinti kormányhatározatokban meghatározott kötelezettségvállalások, valamint a kiadások és bevételek teljesítésének adatait.
+
+(7) Az államháztartás központi alrendszerébe tartozó költségvetési szerv – a polgári nemzetbiztonsági szolgálatokra és a Katonai Nemzetbiztonsági Szolgálatra vonatkozó adatok kivételével – a Kormány rendeletében meghatározottak szerint a KKVTR rendszerbe adatot szolgáltat a követelések, kötelezettségvállalások és más fizetési kötelezettségek adatairól.
+
+(8) A KKVTR rendszer – a polgári nemzetbiztonsági szolgálatokra és a Katonai Nemzetbiztonsági Szolgálatra vonatkozó adatok kivételével – a követelések, kötelezettségvállalások és más fizetési kötelezettségek tekintetében legalább az alábbi adatokat tartalmazza:
+
+- a) a kötelezettségvállalás, más fizetési kötelezettség összege,
+- b) a követelések összege,
+- c) a pénzügyi teljesítés várható határideje,
+- d) az a)–c) pontban foglaltakhoz kapcsolódó egységes rovatazonosító kód, és
+- e) az érintett költségvetési szerv államháztartási azonosítója.
+
+(9) A polgári nemzetbiztonsági szolgálatok az (5)–(8) bekezdésben meghatározott adatszolgáltatási kötelezettségüket a polgári nemzetbiztonsági szolgálatok költségvetésének és gazdálkodásának egyes speciális szabályairól szóló kormányrendeletben meghatározottak alapján eltérő adattartalommal és módon teljesítik.
+
+(10) A Katonai Nemzetbiztonsági Szolgálat az (5)–(8) bekezdésben meghatározott adatszolgáltatási kötelezettségét a honvédelmi szervezetek működésének az államháztartás működési rendjétől eltérő szabályairól szóló kormányrendeletben meghatározottak alapján eltérő adattartalommal és módon teljesíti.
+
+103/A. § (1) A kincstár a KKVTR rendszerben szereplő adatok tekintetében az adatkezelés jogszerűsége, az adatok kezelésére vonatkozó elveknek való megfelelés ellenőrzése és biztosítása, valamint ezen megfelelés igazolása érdekében egységes azonosítási, jogosultságkezelési és adatszolgáltatási nyilvántartást vezet.
+
+(2) A kincstár a KKVTR rendszerben tárolt követelések, kötelezettségvállalások, illetve fizetési kötelezettségek beazonosításához, nyomon követéséhez, elszámolásához, valamint végrehajtásához kapcsolódóan személyes adatokat nem kezel.
+
+(3) A KKVTR rendszer működtetése során a kincstár által vezetett nyilvántartások összekapcsolhatóak, amelynek során biztosítani kell, hogy az adatok összekapcsolása kizárólag emberi beavatkozás nélkül, gépi úton valósuljon meg, és sem üzemszerű működés, sem rendkívüli esemény során ne jöhessen létre olyan összekapcsolt, ember számára értelmezhető adatokat tartalmazó nyilvántartás, amely a kincstár egyes feladatainak ellátásához meghatározott célokon túlmenően többlet-hozzáférést biztosítana bárkinek, aki arra nem jogosult.
+
+(4) A KKVTR rendszerben szereplő adathoz való hozzáférés kizárólag azon szerv vagy személy részére biztosítható, amely az érintett adat megismerésére, kezelésére jogszabály alapján jogosult.
+
+(5) A kincstár a minősített adatokat tartalmazó dokumentumok KKVTR rendszerben való kezelésére vonatkozóan külön eljárásrendet határoz meg.
+
+(6) A kincstár a KKVTR rendszerben kezelt adatokra vonatkozóan a polgári nemzetbiztonsági szolgálatok tekintetében egyedi, speciális eljárásrendet határoz meg a polgári nemzetbiztonsági szolgálatok költségvetésének és gazdálkodásának egyes speciális szabályairól szóló kormányrendeletben meghatározott rendelkezések figyelembevételével.
+
+(7) A kincstár a KKVTR rendszerben kezelt adatokra vonatkozóan a Katonai Nemzetbiztonsági Szolgálat tekintetében egyedi, speciális eljárásrendet határoz meg a honvédelmi szervezetek működésének az államháztartás működési rendjétől eltérő szabályairól szóló kormányrendeletben meghatározott rendelkezések figyelembevételével.
+
+103/B. § (1) A kincstár az államháztartás információs rendszere részeként a központi költségvetés tervezését és végrehajtását elősegítő, személyes adatokat nem tartalmazó integrált pénzügyi elemző rendszert (a továbbiakban: államháztartási adattárház) fejleszt és működtet.
+
+(2) A kincstár az államháztartási adattárház útján történő adatkezelés jogszerűsége, valamint az adatok kezelésére vonatkozó elveknek való megfelelés ellenőrzése és biztosítása, továbbá ezen megfelelés igazolása érdekében egységes azonosítási, jogosultságkezelési és adatszolgáltatási nyilvántartást vezet.
 
 #### 68. A törzskönyvi nyilvántartás
 
@@ -1910,6 +1958,8 @@ kezelésére.
 
 (1a) Az államháztartásért felelős miniszter a Kormány rendeletében meghatározott adatszolgáltatásra hívhatja fel a kincstárnál vezetett fizetési számlával rendelkező helyi önkormányzatot, helyi nemzetiségi önkormányzatot, társulást, térségi fejlesztési tanácsot a számlaállományára vonatkozó adatszolgáltatás teljesítése érdekében.
 
+(1b) A különleges gazdasági övezet fekvése szerinti megye megyei önkormányzata a kincstár közreműködésével a Kormány rendeletében meghatározott határidő lejártáig az ott meghatározott teljes adatkörre vonatkozóan adatot szolgáltat a tárgyévet megelőző évben realizált helyi adók összegéről a helyi önkormányzatokért felelős miniszter által vezetett minisztérium és az államháztartásért felelős miniszter által vezetett minisztérium részére, valamint a helyi adóbevételből – a megyei önkormányzat támogatásával – részesült települési önkormányzatok számára az adott önkormányzatot érintő adatkörre vonatkozóan.
+
 (1c) A tárgyévet megelőző év július 1-jén hatályos helyi iparűzési adórendelettel rendelkező települési önkormányzat a Kormány rendeletében meghatározott határidő lejártáig a kincstár közreműködésével adatot szolgáltat az iparűzési adóerő-képességet meghatározó iparűzési adóalap összegéről az államháztartásért felelős miniszter által vezetett minisztérium részére.
 
 (2) Az e §-ban meghatározottak teljesítése érdekében a kincstár okirati mintát, nyomtatványt, elektronikus űrlapot alkalmazhat, illetve a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter jóváhagyásával rendszeresíthet az e törvény végrehajtására kiadott jogszabályokban meghatározott bejelentések, kérelmek előterjesztésére. A kincstár a nyomtatványokról, elektronikus űrlapokról, elektronikus nyomtatványkitöltő programokról, azok formájáról, tartalmáról, használatának, kitöltésének és benyújtásának módjáról tájékoztatót tesz közzé.
@@ -1952,7 +2002,7 @@ kell kiszabni.
 
 (8)
 
-108/A. § (1) A Kormány rendeletben előírhatja, hogy az államháztartás központi alrendszerébe tartozó költségvetési szerv, a központi kezelésű előirányzat, a fejezeti kezelésű előirányzat, az elkülönített állami pénzalap és a társadalombiztosítás pénzügyi alapja kezelő szerve rendszeres adatszolgáltatást teljesítsen a költségvetési évben várhatóan felmerülő kiadásairól és bevételeiről, valamint kötelezettségvállalásairól, más fizetési kötelezettségeiről és követeléseiről a Kormány rendeletében meghatározott módon és gyakorisággal.
+108/A. § (1) A Kormány rendeletben előírhatja, hogy az államháztartás központi alrendszerébe tartozó költségvetési szerv, a központi kezelésű előirányzat, a fejezeti kezelésű előirányzat, az elkülönített állami pénzalap és a társadalombiztosítás pénzügyi alapja kezelő szerve felhasználási terv keretében – személyes adatot nem tartalmazó – rendszeres adatszolgáltatást teljesítsen a költségvetési évben várhatóan felmerülő kiadásairól és bevételeiről, valamint a költségvetési év és a költségvetési évet követő kötelezettségvállalásairól, más fizetési kötelezettségeiről és követeléseiről a Kormány rendeletében meghatározott módon és gyakorisággal. A felhasználási terv tartalmazhat a kincstári nyilvántartás szerinti, valamint a várható adatokra vonatkozó információkat.
 
 (2) A Kormány rendeletben előírhatja az előre jelzett és a tényértékek eltérése esetére a szabad előirányzatoknak az előrejelzések javításának ösztönzését szolgáló átmeneti vagy tartós csökkentését vagy befizetési kötelezettség teljesítését.
 
@@ -2201,6 +2251,8 @@ vállalható kötelezettség azzal, hogy az előző években vállalt kötelezet
 111/H. § A 41. § (6) bekezdésétől eltérően a központi költségvetés terhére az egészségügyi válsághelyzettel összefüggésben történő eszközbeszerzések és kapcsolódó szolgáltatások beszerzése tekintetében felmerülő szerződések esetében a szerződéses fél a megkötött szerződés vonatkozásában átlátható szervezetnek minősül.
 
 111/I. § E törvénynek az egyes eljárások korszerűsítését és a polgárok biztonságának további megerősítését célzó intézkedésekről szóló 2021. évi CXX. törvénnyel (a továbbiakban: Módtv2.) módosított 48/B. § (1) bekezdés b) pontját a Módtv2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+111/J. § Az államháztartás központi alrendszerébe tartozó költségvetési szerv – a polgári nemzetbiztonsági szolgálatok és Katonai Nemzetbiztonsági Szolgálat kivételével – a tárgyévre és tárgyévet követő költségvetési évre vagy költségvetési évekre vállalt kötelezettségeire, más fizetési kötelezettségeire és követeléseire vonatkozó adataira, a Kormány rendeletében meghatározott tételes adatszolgáltatást első alkalommal 2023. január 1-jétől köteles teljesíteni, a 2022. évben az adatszolgáltatást együttes összegmeghatározással, nem tételes (aggregált) módon is teljesítheti.
 
 #### 74. Az Európai Unió jogának való megfelelés
 

@@ -4434,6 +4434,15 @@ szükséges.
 
 (7) Ha a későbbi bizonyítás érdekében szükséges, a lefoglalt dolog értékesítése esetén a dologból olyan mintát kell biztosítani, illetve a dologról olyan kép- vagy kép- és hangfelvételt kell készíteni, amely az eljárás későbbi szakaszában kétséget kizáróan bizonyítja a dolog lényeges tulajdonságait.
 
+(8) Ha az élőlény lefoglalása az érintett őrizetében hagyásával nem hajtható végre, akkor
+
+- a) a legrövidebb időn belül intézkedni kell, hogy az élőlényre a bizonyítás érdekében ne legyen szükség, és
+- b) a (2) bekezdésben meghatározott feltételek fennállása esetén
+  - ba) a bíróság – a vádemelés előtt az ügyészség indítványára – az élőlény értékesítését rendeli el, vagy
+  - bb) ha a lefoglalt élőlénnyel kapcsolatban megalapozott igényt jelentettek be és a megalapozott igényt bejelentő személy az értékesítéshez hozzájárult, a vádemelés előtt az ügyészség vagy a nyomozó hatóság az élőlény értékesítését rendeli el.
+
+(9) A (2) bekezdésben meghatározott feltételek fennállása esetén a bíróság, valamint a vádemelés előtt az ügyészség vagy a nyomozó hatóság az élőlény értékesítése helyett elrendelheti a tulajdonának ingyenes átruházását, ha ahhoz az élőlény tulajdonosa, valamint – ha a lefoglalt élőlénnyel kapcsolatban megalapozott igényt jelentettek be – a megalapozott igényt bejelentő személy hozzájárult.
+
 ### A lefoglalás megszüntetése és a lefoglalt dolog elkobzása
 
 320. § (1) A lefoglalást meg kell szüntetni, ha
@@ -4443,7 +4452,7 @@ szükséges.
 - c) az eljárást megszüntették, vagy
 - d) a nyomozás határideje lejárt.
 
-(2) Ha a lefoglalt dolog értéktelen, és arra senki sem tart igényt, azt a lefoglalás megszüntetése után meg kell semmisíteni.
+(2) Ha a lefoglalt dolog értéktelen, és arra senki sem tart igényt, azt – a gerinces élő állat kivételével – a lefoglalás megszüntetése után meg kell semmisíteni.
 
 (3) A bíróság által elrendelt lefoglalást a vádemelés előtt az ügyészség is megszüntetheti.
 
@@ -4529,7 +4538,14 @@ szükséges.
 
 (5) Ha a zár alá vétel elrendelésére a bíróság jogosult és az elrendeléshez szükséges bírósági határozat meghozatala olyan késedelemmel járna, amely a zár alá vétellel elérni kívánt célt jelentősen veszélyeztetné, az ügyészség, illetve a nyomozó hatóság a bíróság döntéséig elrendelheti a zár alá vételt. Ilyen esetben a bíróság határozatát utólag haladéktalanul be kell szerezni. Ha a zár alá vételt a bíróság nem rendeli el, a zár alá vétel feloldásáról rendelkezik és késedelem nélkül intézkedik annak végrehajtása iránt.
 
-(6) Ha az ingatlan zár alá vételére a Btk. 75. § (1) bekezdésében meghatározott vagyonelkobzás biztosítása vagy kártérítésre, illetve pénz fizetésére irányuló polgári jogi igény biztosítása érdekében került sor, a határozat rendelkező részében fel kell tüntetni a zár alá vétellel biztosítandó pénzkövetelés összegét is.
+(6) Ha a zár alá vételre a Btk. 75. § (1) bekezdésében meghatározott vagyonelkobzás biztosítása vagy kártérítésre, illetve pénz fizetésére irányuló polgári jogi igény biztosítása érdekében került sor, a határozat rendelkező részében ennek tényét, valamint a zár alá vétellel biztosított összeget is fel kell tüntetni. Ha a vagyon részeinek zár alá vételére több eltérő okból került sor, ezeket az adatokat a zár alá vett vagyon valamennyi része tekintetében fel kell tüntetni a határozatban.
+
+(7) Ha a zár alá vételre a Btk. 75. § (1) bekezdésében meghatározott vagyonelkobzás biztosítása vagy kártérítésre, illetve pénz fizetésére irányuló polgári jogi igény biztosítása érdekében került sor, de a (6) bekezdésben foglaltakat a zár alá vételről rendelkező határozat nem tartalmazza, a zár alá vétel elrendelésére jogosult
+
+- a) ügyészség vagy nyomozó hatóság a 366. § megfelelő alkalmazásával, vagy
+- b) a bíróság a vádemelés előtt az ügyészség, a terhelt, továbbá ha a sértett zár alá vételt indítványozott, a sértett, valamint a vagyoni érdekelt indítványára, a vádemelés után hivatalból
+
+a (6) bekezdésnek megfelelően határoz a zár alá vételről rendelkező határozat kiegészítéséről.
 
 ### A zár alá vétel végrehajtása
 
@@ -4598,6 +4614,12 @@ szükséges.
 332. § (1) A zár alá vételt a vádemelés előtt az elrendelő, azt követően a bíróság oldhatja fel. A nyomozó hatóság által elrendelt zár alá vételt a vádemelés előtt az ügyészség vagy a bíróság is feloldhatja. A bíróság által elrendelt zár alá vételt a vádemelés előtt az ügyészség is feloldhatja.
 
 (2) Ha a zár alá vétel tárgyát képező ingatlant az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény vagy a bírósági végrehajtásról szóló törvény alapján értékesítették, az értékesítésből befolyt összegnek az ott meghatározottak szerinti része az értékesített ingatlan helyébe lép, amelyre a zár alá vétel külön határozat nélkül kiterjed. Az ingatlan tekintetében a zár alá vétel az értékesítéssel megszűnik.
+
+(3) Ha a zár alá vett vagyon felszámolás alatt álló gazdálkodó szervezet vagyona, és a zár alá vételt a csődeljárásról és a felszámolási eljárásról szóló törvény alapján a felszámolási eljárásban hitelezői igénynek kell tekinteni, akkor e hitelezői igény a felszámoló által történő nyilvántartásba vételével a zár alá vett vagyon helyébe lép, amelyre a zár alá vétel külön határozat nélkül kiterjed, és a zár alá vétel az eredeti vagyon tekintetében megszűnik.
+
+(4) Ha a felszámolási eljárásban az adós gazdálkodó szervezet vagyona felosztásra került, a (3) bekezdésben meghatározott hitelezői igény helyébe az erre eső felosztott vagyon lép, amelyre a zár alá vétel külön határozat nélkül kiterjed, és a zár alá vétel a hitelezői igény tekintetében megszűnik. Ha a vagyon felosztása során a hitelezői igény helyébe nem léphet felosztott vagyon, a zár alá vétel megszűnik.
+
+(5) Ha a csődeljárásról és a felszámolási eljárásról szóló törvény alapján az adós gazdálkodó szervezettel szemben bejelentett hitelezői követelés zár alá vételére került sor, a vagyon felosztása során zár alá vett hitelezői követelésre eső vagyonra a (4) bekezdés rendelkezéseit megfelelően alkalmazni kell.
 
 ### LII. Fejezet — VAGYONKEZELÉS A LEFOGLALÁS ÉS A ZÁR ALÁ VÉTEL SORÁN
 

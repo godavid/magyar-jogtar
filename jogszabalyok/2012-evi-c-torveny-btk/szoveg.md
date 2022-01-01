@@ -3118,7 +3118,11 @@ jogellenesen megszerzi, tartja, forgalomba hozza, az ország területére behozz
 - a) hogy az (1) bekezdés a) vagy b) pontja esetében az elpusztított élő szervezet egyedeinek külön jogszabályban meghatározott, pénzben kifejezett értékének együttes összege eléri a fokozottan védett élő szervezet egyedei esetében megállapított, pénzben kifejezett legmagasabb érték kétszeresét,
 - b) amely az (1) bekezdés c) pontja esetében az élő szervezet állományának fennmaradását veszélyezteti.
 
+(2a) A (2) bekezdés szerint büntetendő, aki a természetkárosítást méreg alkalmazásával vagy az állat elpusztítására alkalmas csalétek kihelyezésével, több állat életét veszélyeztetve követi el.
+
 (3) Aki a (2) bekezdésben meghatározott bűncselekményt gondatlanságból követi el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+
+(3a) Aki a (2) vagy a (2a) bekezdésben meghatározott bűncselekményre irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (4) E § alkalmazásában élő szervezet egyede:
 
@@ -3143,10 +3147,28 @@ jogellenesen megszerzi, tartja, forgalomba hozza, az ország területére behozz
 
 vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-(2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha az állatkínzás
+(2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha az állatkínzást
 
-- a) az állatnak különös szenvedést okoz, vagy
-- b) több állat maradandó egészségkárosodását vagy pusztulását okozza.
+- a) az állat különös szenvedését okozva,
+- b) több állat maradandó egészségkárosodását vagy pusztulását okozva,
+- c) nagy nyilvánosság előtt,
+- d) az állatok védelméről és kíméletéről szóló törvényben meghatározott, az állat kedvtelésből való tartásától, illetve az érintett állatfaj tartásától eltiltással érintett állattal szemben az eltiltás tartama alatt, vagy
+- e) állatkínzás vagy tiltott állatviadal szervezése bűncselekmény miatti elítélést követő két éven belül
+
+követik el.
+
+(3) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha az állatkínzást
+
+- a) méreg alkalmazásával vagy az állat elpusztítására alkalmas csalétek kihelyezésével több állat pusztulását okozva, vagy
+- b) különös visszaesőként
+
+követik el.
+
+(4) A (3) bekezdés szerint büntetendő, aki az (1) bekezdés a) pontjában foglalt bűncselekményt szaporítással összefüggő haszonszerzési cél érdekében, tíznél nagyobb számú kedvtelésből tartott állatra, a jó gazda gondosságának elmulasztásával követi el.
+
+(5) Aki a (3) bekezdés a) pontjában meghatározott bűncselekményre irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+
+(6) A (3) bekezdés b) pontja alkalmazásában a különös visszaesés szempontjából hasonló jellegű bűncselekmény az állat pusztulását okozva elkövetett természetkárosítás, az állatkínzás, a tiltott állatviadal szervezése.
 
 ### Orvvadászat
 
@@ -3171,7 +3193,16 @@ vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 247. § (1) Aki gerinces állat részvételével állatviadalt szervez, tart, ilyen állatviadalra fogadást szervez vagy fogadást köt, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
+(1a) Aki állatviadalon részt vesz, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+
 (2) Aki állatviadal céljára gerinces állatot megszerez, tart, tenyészt, kiképez, idomít, vagy forgalmaz, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+
+(3) Ha a tiltott állatviadal szervezését különös visszaesőként követik el, a büntetés
+
+- a) az (1) bekezdésben meghatározott esetben egy évtől öt évig terjedő szabadságvesztés,
+- b) az (1a) és a (2) bekezdésben meghatározott esetben három évig terjedő szabadságvesztés.
+
+(4) A (3) bekezdés alkalmazásában a különös visszaesés szempontjából hasonló jellegű bűncselekmény az állat pusztulását okozva elkövetett természetkárosítás, az állatkínzás, a tiltott állatviadal szervezése, a veszélyes állat, illetve veszélyes eb tartásával kapcsolatos kötelezettség megszegése.
 
 ### A hulladékgazdálkodás rendjének megsértése
 
@@ -3254,6 +3285,10 @@ bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő
 ### Kitiltás
 
 253. § A környezetkárosítás, a természetkárosítás, az orvvadászat, az orvhalászat, a hulladékgazdálkodás rendjének megsértése és a tiltott állatviadal szervezése elkövetőjével szemben kitiltásnak is helye van.
+
+### Értelmező rendelkezés
+
+253/A. § E fejezet alkalmazásában a méreg olyan veszélyes anyag vagy keverék, amely toxikológiai tulajdonságai alapján a belégzése, lenyelése vagy a bőrön át történő felszívódása esetén az állat életét veszélyezteti, illetve az állat különös szenvedését vagy maradandó egészségkárosodását idézheti elő.
 
 ### XXIV. Fejezet — AZ ÁLLAM ELLENI BŰNCSELEKMÉNYEK
 
@@ -4359,6 +4394,8 @@ követik el.
 - c) közreműködik abban, hogy jog vagy kötelezettség létezésére, megváltozására vagy megszűnésére vonatkozó valótlan adatot, tényt vagy nyilatkozatot foglaljanak közokiratba,
 
 bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
+(1a) Nem valósul meg az (1) bekezdés c) pontja szerinti bűncselekmény a polgárok személyi- és lakcímadatait tartalmazó nyilvántartásba történő lakcímbejelentés vonatkozásában, amennyiben arra a szállásadó hozzájárulásával, vagy saját tulajdonú ingatlanba történő bejelentkezéssel kerül sor.
 
 (2) Aki az (1) bekezdés a) vagy b) pontjában meghatározott közokirat-hamisításra irányuló előkészületet követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 

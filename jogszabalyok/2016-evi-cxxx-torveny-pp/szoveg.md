@@ -63,7 +63,7 @@ A bíróság a perkoncentráció érvényesülése érdekében az e törvényben
   - a) jogállításához képest eltérő vagy további anyagi jogi kifogásra hivatkozik, vagy
   - b) jogállítást, kérelmet részben vagy egészben elismerő, illetve azokat nem vitató nyilatkozatát visszavonja, ideértve azt is, ha a nem vitatottnak, illetve nem ellenzettnek tekintendő jogállítást vagy kérelmet utóbb vitatja;
 - 5. fogyasztó: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti fogyasztó;
-- 6. gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi társulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, a külföldi székhelyű vállalat magyarországi fióktelepe, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a közös vállalat, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, továbbá az egyéni vállalkozó, emellett gazdálkodó tevékenységével összefüggő polgári jogi kapcsolataiban az állam, a helyi önkormányzat, a költségvetési szerv, jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó egyéb jogi személy, az egyesület, a köztestület, valamint az alapítvány;
+- 6. gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi társulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, a külföldi székhelyű vállalat magyarországi fióktelepe, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a közös vállalat, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, továbbá az egyéni vállalkozó, emellett gazdálkodó tevékenységével összefüggő polgári jogi kapcsolataiban az állam, a helyi önkormányzat, a költségvetési szerv, jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó egyéb jogi személy, a felsőoktatási intézmény, az egyesület, a köztestület, valamint az alapítvány;
 - 7. hozzátartozó: a Ptk. szerinti hozzátartozó;
 - 8. jogalap: az az anyagi jogi jogszabályi rendelkezés, amely az alanyi jogot közvetlenül keletkeztető tényeket meghatározza és annak alapján az igény támasztására feljogosít;
 - 9. jogi személyek alapításával és törvényes működésével kapcsolatos perek:
@@ -5393,19 +5393,25 @@ Kiskorú gyermek tartása iránt indított peren a kiskorú gyermekkel szemben f
 
 A pert a kiskorú gyermek lakóhelye vagy tartózkodási helye szerint illetékes bíróság előtt is meg lehet indítani.
 
-#### 491. § [Perindítás]
+#### 491. § [Perindítás és perfelvétel]
 
-(1)
+(1) A perben válaszirat és viszontválasz benyújtásának helye nincs.
 
 (2) A kiskorú gyermek tartására irányuló kereset összekapcsolható a gyermek feletti szülői felügyelet gyakorlásának rendezése iránti keresettel.
 
 (3) Ha a felek között házassági per van folyamatban, kizárólag annak bírósága előtt indítható a szülők közös kiskorú gyermekének tartása iránti per.
 
+(4) Az írásbeli ellenkérelem előterjesztésére vonatkozó határidő harminc nap, amelyet az alperes indokolt kérelmére a bíróság legfeljebb tizenöt nappal meghosszabbíthat. Az írásbeli ellenkérelemben a fél köteles feltüntetni havi nettó jövedelmét, a munkáltatójának vagy más, a fél számára jövedelmet folyósító szervnek a nevét, székhelyét és a kézbesítési címét, ha az a székhelytől eltér.
+
 #### 492. § [Ideiglenes intézkedés és bizonyítás hivatalból]
 
 (1) A bíróság – szükség esetén – bármely fél erre irányuló kérelme hiányában is határozhat ideiglenes intézkedéssel tartás megállapításáról.
 
-(2) A bíróság az általa szükségesnek talált bizonyítást hivatalból is elrendelheti.
+(2) A bíróság az általa szükségesnek talált bizonyítást hivatalból is elrendelheti. A bíróság a tartásra kötelezett fél jövedelmi, vagyoni helyzetének feltárása, a munkáltatójának vagy más, a fél számára jövedelmet folyósító szervnek a felkutatása érdekében hivatalból megkeresi az illetékes hatóságokat, különösen, ha az ellenérdekű fél valószínűsíti, hogy a tartásra kötelezett fél teljesítőképessége ellenére nem tesz eleget tartási kötelezettségének.
+
+(3) Előzetes bizonyításnak a 334. §-ban meghatározott előfeltételek hiányában is helye van.
+
+(4) Ha a bíróság munkabérben vagy más jövedelemben részesülő személyt tartásdíj fizetésére kötelez – ideértve az ideiglenes intézkedéssel elrendelt tartást is –, köteles tájékoztatni a felet a közvetlen bírósági felhívás lehetőségéről.
 
 ### XXXVIII. Fejezet — EGYES SZEMÉLYISÉGI JOGOK ÉRVÉNYESÍTÉSE IRÁNT INDÍTOTT PEREK
 

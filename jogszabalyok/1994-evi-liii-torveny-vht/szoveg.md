@@ -271,7 +271,7 @@ a bírósági végrehajtásról
 
 ### Közvetlen bírósági felhívás
 
-28. § (1) A bíróság az olyan határozatában, amellyel a munkabérben részesülő személyt tartásdíj fizetésére kötelezte, a munkáltatót egyúttal közvetlenül felhívja arra, hogy a határozatban megállapított összeget vonja le, és fizesse ki a jogosultnak.
+28. § (1) A bíróság az olyan határozatában – ideértve az ideiglenes intézkedés tárgyában hozott végzést is –, amellyel a munkabérben részesülő személyt tartásdíj fizetésére kötelezte, a munkáltatót egyúttal közvetlenül felhívja arra, hogy a határozatban megállapított összeget vonja le, és fizesse ki a jogosultnak.
 
 (2) A bíróság a tartásdíj fizetésére kötelező határozat rendelkező részét a határozat meghozatalától számított 3 napon belül megküldi a munkáltatónak.
 
@@ -829,15 +829,15 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 (2) Ha a halasztást vagy a részletekben való teljesítést a bíróság engedélyezte, ezt — az (1) bekezdés alkalmazása helyett — fel kell jegyezni a végrehajtási ügyiraton.
 
-54. § (1) A végrehajtást akkor lehet folytatni, ha az 52. §
+54. § (1) A végrehajtást akkor lehet folytatni, ha
 
-- a) pontja esetén a személyazonosság megállapításához szükséges adatok pótlására került sor,
-- b) pontja esetén a végrehajtást kérő a jogutódlás megállapítása iránti kérelmet terjesztett elő,
-- c) pontja esetén a végrehajtást kérő a közreműködési kötelezettségének eleget tesz,
-- d) pontja esetén valószínűsítették, hogy az adósnak van olyan vagyontárgya, amely lefoglalható, illetőleg értékesíthető,
-- e) pontja esetén a végrehajtást kérő a költséget előlegezte,
-- f) pontja esetén a halasztás időtartama eltelt, illetőleg az adós a részlet teljesítését elmulasztotta,
-- g) pontja esetén a szünetelés törvényben megállapított oka megszűnt.
+- a) az 52. § a) pontja esetén a személyazonosság megállapításához szükséges adatok pótlására sor került,
+- b) az 52. § b) pontja esetén a jogutód vagy az ellenérdekű fél a jogutódlás megállapítása iránti kérelmet terjesztett elő,
+- c) az 52. § c) pontja esetén a végrehajtást kérő a közreműködési kötelezettségének eleget tesz,
+- d) az 52. § d) pontja esetén valószínűsítették, hogy az adósnak van olyan vagyontárgya, amely lefoglalható, illetve értékesíthető, vagy gyermektartásdíj-követelés esetén – ide nem értve a 165. § (2) bekezdés szerinti, közjegyzői okiraton és a fizetési meghagyáson alapuló tartásdíj-követelést – a végrehajtást kérő a végrehajtás folytatását kéri,
+- e) az 52. § e) pontja esetén a végrehajtást kérő a költséget előlegezte,
+- f) az 52. § f) pontja esetén a halasztás időtartama eltelt, illetve az adós a részlet teljesítését elmulasztotta,
+- g) az 52. § g) pontja esetén a szünetelés törvényben megállapított oka megszűnt.
 
 (2) A végrehajtó által adott részletfizetés esetében a végrehajtást folytatni kell, ha
 
@@ -1184,7 +1184,12 @@ eredő követelések fejében vonható végrehajtás alá.
 
 (4) Ha a megbízás teljesítése a 79/D. §-ban foglaltakba ütközne, a pénzforgalmi szolgáltató ezt haladéktalanul köteles közölni a végrehajtóval.
 
-(5) Ha a hatósági átutalási megbízás fedezet hiánya miatt nem, vagy csak részben vezetett eredményre, a végrehajtó a végrehajtást kérő erre irányuló kérelmére azt ismételten benyújtja.
+(5) Ha a hatósági átutalási megbízás fedezet hiánya miatt nem, vagy csak részben vezetett eredményre, azt a végrehajtó egy alkalommal hivatalból ismét benyújtja. Ezt követően a végrehajtó a hatósági átutalási megbízást
+
+- a) a végrehajtást kérő erre irányuló kérelmére további egy alkalommal, vagy
+- b) gyermektartásdíj-követelés esetén – ide nem értve a 165. § (2) bekezdése szerinti, közjegyzői okiraton és a fizetési meghagyáson alapuló tartásdíj-követelést – indokolt esetben hivatalból, akár több alkalommal is
+
+ismételten benyújtja.
 
 (6) Ha az adós elévülésre hivatkozik, a végrehajtó beterjeszti az iratokat a végrehajtást foganatosító bírósághoz, amely elévülés esetén a végrehajtást végzéssel megszünteti. Az elévülés bejelentése nem mentesíti a pénzforgalmi szolgáltatót a megbízás teljesítésének kötelezettsége alól.
 
@@ -2188,9 +2193,9 @@ megfelelő összeggel tehető érvényes vételi ajánlat, ha az adósnak ez az 
 
 ### A végrehajtási költség elsőbbsége
 
-164. § (1) A végrehajtás során befolyt összegből mindenekelőtt a végrehajtási költséget – az eljárás kezdeményezésével, elrendelésével és foganatosításával felmerült költséget –, és abból elsősorban a meg nem fizetett végrehajtási illetéket és az előlegezésre kötelezett szerv által előlegezett költséget kell kielégíteni.
+164. § (1) A végrehajtás során befolyt összegből mindenekelőtt az adott végrehajtási eljárásban érvényesített – az eljárás kezdeményezésével, elrendelésével és foganatosításával felmerült – végrehajtási költséget, és abból elsősorban a meg nem fizetett végrehajtási illetéket és az előlegezésre kötelezett szerv által előlegezett költséget kell kielégíteni.
 
-(2) A 4/2009/EK tanácsi rendelet szerinti tartási igény végrehajtására indult ügyben az ezen végrehajtási ügyre jutó végrehajtási költségeket a tartásdíj-követeléssel azonos sorrendben, de a 166. § szerinti egyéb költségeket megelőzően kell kielégíteni azzal, hogy a befolyt összegnek legfeljebb az 50%-a számolható el a végrehajtási költségekre.
+(2) A gyermektartásdíj-követelés, valamint a 4/2009/EK tanácsi rendelet szerinti tartási igény végrehajtására indult ügyben a tartásdíj-követelést – ide nem értve a 165. § (2) bekezdés szerinti, közjegyzői okiraton és a fizetési meghagyáson alapuló tartásdíj-követelést – az e végrehajtási ügyre jutó végrehajtási költségeket megelőzően kell kielégíteni.
 
 (3) A végrehajtás során befolyt összegből az ügygazda végrehajtót illeti meg a tevékenységéért járó 254. § szerinti díj, költségtérítés és behajtási jutalék.
 
@@ -2207,7 +2212,7 @@ megfelelő összeggel tehető érvényes vételi ajánlat, ha az adósnak ez az 
 - g) egyéb követelés,
 - h) a végrehajtási eljárásban kiszabott rendbírság.
 
-(2) Egy összegben előre vállalt tartásdíj behajtása esetén – ide nem értve a közjegyzői okiraton és a fizetési meghagyáson alapuló tartásdíj-követelést – a tartásdíjnak a felosztási terv elkészítéséig tartó időszakra eső, időarányosan kiszámított hányada elégítendő ki az (1) bekezdés a) vagy b) pontja szerint; a tartásdíj ezt meghaladó része, valamint a közjegyzői okiraton és a fizetési meghagyáson alapuló tartásdíj-követelés az egyéb követelések között elégíthető ki.
+(2) Egy összegben előre vállalt tartásdíj behajtása esetén – ide nem értve a közjegyzői okiraton és a fizetési meghagyáson alapuló tartásdíj-követelést – a tartásdíjnak a felosztási terv elkészítéséig tartó időszakra eső, időarányosan kiszámított hányada elégítendő ki az (1) bekezdés a) vagy b) pontja szerint; a tartásdíj ezt meghaladó része, valamint a közjegyzői okiraton és a fizetési meghagyáson alapuló, egy összegben előre vállalt tartásdíj-követelés az egyéb követelések között elégíthető ki.
 
 166. § A követelés érvényesítésével és behajtásával felmerült, a bíróság (hatóság) által megállapított költséget és a követelés egyéb járulékait a követeléssel azonos sorrendben kell kielégíteni.
 
@@ -4380,6 +4385,8 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 (6) A Módtv.12-vel megállapított 251. § (2) bekezdését és a 252. § (6) bekezdését a 2021. július 1-jét követően kinevezésre kerülő elnök tekintetében kell alkalmazni.
 
 (7) A Módtv.12-vel hatályon kívül helyezett 232. § (6) bekezdéséből következően az illetékesség kiterjesztésével ellátott álláshelyek vonatkozásában a Karnak a 2021. július 1. napját követő hatodik hónap végéig intézkednie kell az álláshelyek betöltésére irányuló pályázat kiírása iránt.
+
+304/I. § Az egyes törvényeknek az egyszülős családok életkörülményeinek javítása érdekében történő módosításáról szóló 2021. évi LXXIV. törvénnyel megállapított rendelkezéseket a 2022. január 1-jét megelőzően indult végrehajtási ügyekben is alkalmazni kell azzal, hogy a 164. § (2) bekezdését a 2021. december 31-ét követően befolyt összegek elszámolása során kell alkalmazni.
 
 305. § (1) E törvénynek a bírósági végrehajtással kapcsolatos és egyéb, igazságügyi tárgyú törvények módosításáról szóló 2011. évi CLXXX. törvénnyel (a továbbiakban e §-ban: módosító törvény) megállapított rendelkezéseit – a (2)–(5) bekezdésben foglalt eltérésekkel – a módosító törvény hatályba lépésének időpontjában folyamatban lévő végrehajtási eljárásokban és fegyelmi eljárásokban is alkalmazni kell. A 31/E. §-nak a módosító törvénnyel megállapított rendelkezéseit a 2011. december 31-ét követően előterjesztett végrehajtási kérelmek alapján indult eljárásokban kell alkalmazni.
 

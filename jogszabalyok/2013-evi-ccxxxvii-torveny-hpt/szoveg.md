@@ -34,7 +34,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 (2) E törvény hatálya nem terjed ki:
 
 - a) az elkülönített állami pénzalapokra,
-- b) a Magyar Nemzeti Vagyonkezelő Zrt.-re, valamint
+- b) a kincstári vagyonnal való gazdálkodása tekintetében a Magyar Nemzeti Vagyonkezelő Zrt.-re, valamint
 - c) a hallgatói hitelrendszerről szóló kormányrendeletben meghatározott Diákhitel szervezetre.
 
 (3) E törvény hatálya a Magyar Nemzeti Bankra (a továbbiakban: MNB) kizárólag az engedélyezési, felügyeleti és makroprudenciális tevékenysége, az üzleti titok és banktitok kezelésének szabályai, továbbá azon rendelkezések tekintetében terjed ki, ahol e törvény az MNB-t kifejezetten nevesíti.
@@ -1126,7 +1126,7 @@ induló tőkével alapítható.
 
 (2) A Felügyelet végelszámolást elrendelő határozatot hoz, ha
 
-- a) a pénzügyi intézmény tevékenységi engedélyét – ide nem értve a hitelintézet pénzügyi vállalkozássá vagy befektetési vállalkozássá történő átalakítását – visszavonja, kivéve ha az engedély visszavonása a 33. § (1) bekezdés b) pontja, 33. § (2) bekezdés c) pontja vagy 35. § (3) bekezdése alapján történik, vagy
+- a) a pénzügyi intézmény tevékenységi engedélyét – ide nem értve a hitelintézet pénzügyi vállalkozássá vagy befektetési vállalkozássá történő átalakítását – visszavonja, kivéve ha az engedély visszavonása a 33. § (1) bekezdés b) pontja, 33. § (2) bekezdés c) pontja, 35. § (2) és (3) bekezdése alapján történik, vagy
 - b) tudomására jut, hogy a külföldi pénzügyi intézmény alapítási, tevékenységi (működési) vagy a fióktelep formájában működő pénzügyi intézmény alapításra vonatkozó, a külföldi pénzügyi intézmény székhelye szerinti illetékes felügyeleti hatóság által kiadott engedélye visszavonásra kerül.
 
 (3) A Felügyelet végelszámolással történő megszüntetést elrendelő határozata meghozatalához nem szükséges beszerezni a Ctv. 94. § (3) bekezdésében meghatározott előzetes egyetértést.
@@ -1408,18 +1408,13 @@ pusztán e jellemzőik miatt nem tekintendők beágyazott származtatott ügylet
 
 - a) szakirányú felsőfokú iskolai végzettséggel, vagy
 - b) középiskolai végzettséggel és
-  - ba) szakképesített bankreferensi szakképesítéssel,
-  - bb) banki, befektetési termékértékesítői szakképesítéssel,
-  - bc) befektetési tanácsadói szakképesítéssel,
-  - bd) banki szakügyintézői szakképesítéssel,
-  - be) pénzügyi szakügyintézői szakképesítéssel,
-  - bf) értékpapír-piaci szakügyintézői szakképesítéssel,
-  - bg) pénzügyi szervezeti mérlegképes könyvelői szakképesítéssel,
-  - bh) tőzsdei szakvizsgával,
-  - bi) becsüsi bizonyítvánnyal (kizárólag kézizálog fedezete mellett nyújtott pénzkölcsön közvetítése esetén),
-  - bj) valutapénztárosi bizonyítvánnyal (kizárólag pénzváltás közvetítése esetén),
-  - bk) a Magyar Bankszövetség Felsőfokú Bankszakmai Oklevelével,
-  - bl) a ba)–bk) alpontban foglaltakkal egyenértékű szakképesítéssel, vagy
+  - ba) banki, befektetési termékértékesítői szakképesítéssel,
+  - bb) pénzügyi szervezeti mérlegképes könyvelői szakképesítéssel,
+  - bc) tőzsdei szakvizsgával,
+  - bd) becsüsi bizonyítvánnyal (kizárólag kézizálog fedezete mellett nyújtott pénzkölcsön közvetítése esetén),
+  - be) pénztárkezelő és valutapénztáros-szakképesítéssel (kizárólag pénzváltás közvetítése esetén),
+  - bf) a Magyar Bankszövetség Felsőfokú Bankszakmai Oklevelével,
+  - bg) a ba)–bf) alpontban foglaltakkal egyenértékű szakképesítéssel, vagy
 - c) a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott pénzügyi szolgáltatás közvetítői hatósági vizsgával
 
 rendelkezik.
@@ -1430,7 +1425,7 @@ rendelkezik.
 - b) a főiskolai vagy egyetemi szintű, illetve mesterképzésben szerezhető gazdasági agrármérnök szakképzettség vagy műszaki menedzser alapképzési szakon, vagy gazdasági és vidékfejlesztési agrármérnök alapképzési szakon szerezhető szakképzettség, és
 - c) a felsőfokú végzettség birtokában szakirányú továbbképzésben, szakosító továbbképzésben a közgazdasági felsőoktatásban szerzett bankszakmai szakképzettség vagy gazdasági, közgazdasági szakképzettség.
 
-(2a) A Felügyelet érvényteleníti annak a vizsgázónak a hatósági vizsgáját, aki a vizsgát a Felügyelet félrevezetésével, hamis adatok közlésével, jogszabályban meghatározott feltételek hiányában vagy a vizsgáztatás szabályainak megsértésével tette le. Ha a hatósági vizsga letételét igazoló tanúsítványt a Felügyelet már kiadta, úgy intézkedik annak visszavonásáról.
+(2a) A Felügyelet érvényteleníti annak a vizsgázónak a hatósági vizsgáját, aki a vizsgát a Felügyelet félrevezetésével, hamis adatok közlésével, jogszabályban meghatározott feltételek hiányában vagy a vizsgáztatás szabályainak megsértésével tette le. Ha a hatósági vizsga letételét igazoló bizonyítványt a Felügyelet már kiadta, úgy intézkedik annak visszavonásáról.
 
 (3) Közvetítői tevékenységet végző hitelintézettel, biztosítóval, Posta Elszámoló Központot működtető intézménnyel munkaviszonyban álló természetes személy kizárólag abban az esetben végezhet közvetítői tevékenységet, ha az általa közvetített pénzügyi szolgáltatással kapcsolatban megfelelő képzést kapott. A szakmai követelmények ellenőrzéséért a munkáltató felelős.
 
@@ -3972,7 +3967,7 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 (4) A Felügyelet engedélye egyúttal a nyilvántartásba vételt is igazolja.
 
-204/A. § (1) A Felügyelet a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott hatósági képzéssel és vizsgáztatással kapcsolatban, a hatósági képzés és vizsgáztatás hatósági ellenőrzésével, továbbá a hatósági képzésre és vizsgára történő jelentkezés lebonyolításával és a sikeres vizsgákat igazoló hatósági tanúsítvány kiadásával, pótlásával kapcsolatos feladatai ellátása érdekében nyilvántartást vezet a képzést vagy képzést és vizsgáztatást végző szervekről (a továbbiakban együtt: képző szerv), a hatósági vizsgára jelentkező személyekről, a képző szerv által aláíró személyként megjelölt, a képzési igazolás kiállítására és aláírására feljogosított személyekről (a továbbiakban: aláíró személy), az oktatókról, a hatósági vizsga jogszabályban foglalt feltételeknek megfelelő lebonyolításának felügyeletére jogosult személyekről (a továbbiakban: vizsgabiztos), valamint a hatósági vizsga letételét igazoló tanúsítványokról.
+204/A. § (1) A Felügyelet a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott hatósági képzéssel és vizsgáztatással kapcsolatban, a hatósági képzés és vizsgáztatás hatósági ellenőrzésével, továbbá a hatósági képzésre és vizsgára történő jelentkezés lebonyolításával és a sikeres vizsgákat igazoló hatósági bizonyítvány kiadásával, pótlásával kapcsolatos feladatai ellátása érdekében nyilvántartást vezet a képzést vagy képzést és vizsgáztatást végző szervekről (a továbbiakban együtt: képző szerv), a hatósági vizsgára jelentkező személyekről, a képző szerv által aláíró személyként megjelölt, a képzési igazolás kiállítására és aláírására feljogosított személyekről (a továbbiakban: aláíró személy), az oktatókról, a hatósági vizsga jogszabályban foglalt feltételeknek megfelelő lebonyolításának felügyeletére jogosult személyekről (a továbbiakban: vizsgabiztos), valamint a hatósági vizsga letételét igazoló hatósági bizonyítványokról.
 
 (2) A közvetítői tevékenység gyakorlását lehetővé tevő közvetítői hatósági vizsgának és az ahhoz szükséges képzésnek a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott feltételeknek megfelelő képzés és vizsga fogadható el.
 
@@ -4001,11 +3996,11 @@ rendelkező tulajdonosát, alapítványi formában működő pénzügyi vállalk
 
 (7) A Felügyelet a nyilvántartásba vételről szóló döntésben a (6) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
 
-(8) A hatósági vizsga letételét igazoló, elveszett vagy megsemmisült tanúsítvány pótlására – erre irányuló kérelem esetén – a Felügyelet a nyilvántartása alapján másodlatot állít ki, amit a kérelmező a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendelet szerinti hatósági vizsgára történő jelentkezési lapban meghatározott – vizsgaidőpontban érvényes – adatainak megadásával igényelhet.
+(8) A hatósági vizsga letételét igazoló, elveszett vagy megsemmisült hatósági bizonyítvány pótlására – erre irányuló kérelem esetén – a Felügyelet a nyilvántartása alapján másodlatot állít ki, amit a kérelmező a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendelet szerinti hatósági vizsgára történő jelentkezési lapban meghatározott – vizsgaidőpontban érvényes – adatainak megadásával igényelhet.
 
 (9) Az e §-ban meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő a Felügyelet.
 
-(10) A Felügyelet az (1) bekezdésben meghatározott nyilvántartásban szereplő személyes adatokat az adott személy hatósági képzésben vagy vizsgáztatásban történő közreműködésétől számított tizenöt év elteltével törli a nyilvántartásból, ide nem értve azokat az adatokat, amelyek hatósági vizsga letételét igazoló tanúsítvány nyilvántartásához szükségesek.
+(10) A Felügyelet az (1) bekezdésben meghatározott nyilvántartásban szereplő személyes adatokat az adott személy hatósági képzésben vagy vizsgáztatásban történő közreműködésétől számított tizenöt év elteltével törli a nyilvántartásból, ide nem értve azokat az adatokat, amelyek hatósági vizsga letételét igazoló hatósági bizonyítvány nyilvántartásához szükségesek.
 
 (11) A Felügyelet jogosult vizsgáztatási tevékenységet folytatni a – vizsgáztatási tevékenységet végző szervekre és a hatósági vizsgára vonatkozó – jogszabályi követelmények betartásával.
 
@@ -5117,7 +5112,7 @@ vonatkozó részletes szabályokat.
 - b) a kintlevőségek, a mérlegen kívüli tételek és a fedezetek minősítésének, illetőleg értékelésének szempontjaira,
 - c) a fogyasztóval kötött szerződés megkötését megelőzően, a szerződéses jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás minimálisan kötelező tartalmi elemeire,
 - d) a belső ellenőrzési rendszerekre, eljárásokra,
-- e) a közvetítői hatósági képzés és vizsga szabályaira, a hatósági vizsga letételével szerzett, pénzügyi szolgáltatás közvetítői tevékenység folytatására feljogosító tanúsítvány megszerzésének követelményeire, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére,
+- e) a közvetítői hatósági képzés és vizsga szabályaira, a hatósági vizsga letételével szerzett, pénzügyi szolgáltatás közvetítői tevékenység folytatására feljogosító hatósági bizonyítvány megszerzésének követelményeire, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére,
 - f) a deviza nyitott pozícióra,
 - g) a banki értékesítői, az értékpapír értékesítői, a szakképesített banktisztviselői és a befektetési tanácsadói képesítés szakmai és vizsgakövetelményeire
 - h) a pénzügyi szolgáltatásokhoz történő egyenlő esélyű hozzáférést elősegítő hitelintézeti stratégiára
@@ -5180,6 +5175,8 @@ vonatkozó részletes szabályokat.
 (6) A jelölő bizottság tagjaira vonatkozó, a pénzügyi közvetítőrendszert, valamint az államháztartást és a gazdasági stabilitást érintő egyes jogszabályok módosításáról szóló 2019. évi CXVIII. törvénnyel megállapított rendelkezéseket a hitelintézetnek legkésőbb 2020. május 31-től kell alkalmazni.
 
 (7) A 275. § (6) bekezdése szerinti kivonaton az OBA tagintézet felhívja a betétes figyelmét a 6. § (2) bekezdés 6. pontjának 2021. január 1-jén hatályba lépő módosítására.
+
+(8) Az a közvetítővel, közvetítői alvállalkozóval munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személy, aki 2021. december 31-én megfelelt a 74. § (1) bekezdés b) pontjában meghatározott követelményeknek, 2022. január 1-jét követően is munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban állhat közvetítővel, közvetítői alvállalkozóval.
 
 293. § (1) A 279. § (4)–(6) és (8)–(16) bekezdését a 2009. augusztus 1-je előtt fogyasztóval kötött kölcsönszerződés vagy pénzügyi lízingszerződés módosítása esetén is alkalmazni kell a (2) bekezdésben meghatározott eltéréssel.
 

@@ -153,9 +153,9 @@ az eljáró hatóság gondoskodik ügygondnok kirendeléséről.
 - b) a tevékenységet gyakorolják vagy gyakorolni kívánják, ennek hiányában
 - c) a jogellenes magatartást elkövették.
 
-(2) Ha az (1) bekezdés alapján nem állapítható meg az illetékes hatóság, a kérelmező ügyfél választása szerint lakóhelye vagy tartózkodási helye (a továbbiakban együtt: lakóhely), illetve székhelye, telephelye vagy fióktelepe (a továbbiakban együtt: székhely) szerint illetékes hatóság jár el.
+(2) Ha az (1) bekezdés alapján nem állapítható meg az illetékes hatóság, a kérelmező ügyfél választása szerint lakóhelye vagy tartózkodási helye (a továbbiakban együtt: lakcím), illetve székhelye, telephelye vagy fióktelepe (a továbbiakban együtt: székhely) szerint illetékes hatóság jár el.
 
-(3) Ha az ügyfél lakóhelye ismeretlen vagy nem rendelkezik magyarországi lakóhellyel vagy értesítési címmel (a továbbiakban együtt: lakcím), a (2) bekezdésre alapított illetékességet az ügyfél utolsó ismert hazai lakcíme alapján kell megállapítani.
+(3) Ha az ügyfél lakcíme ismeretlen vagy az ügyfél nem rendelkezik magyarországi lakcímmel, a (2) bekezdésre alapított illetékességet az ügyfél utolsó ismert hazai lakcíme alapján kell megállapítani.
 
 (4) Ha az (1)–(3) bekezdésben foglaltakra figyelemmel nem állapítható meg az illetékes hatóság – ha jogszabály másként nem rendelkezik –, az adott ügyfajtában a fővárosban eljárásra jogosult hatóság jár el, több azonos hatáskörű fővárosi hatóság esetén pedig az illetékességi vita szabályait kell megfelelően alkalmazni.
 
@@ -312,7 +312,7 @@ az a hatóság jár el, amelyikkel szemben kizárási ok áll fenn.
 (1) A kiskorút, a cselekvőképtelen és a cselekvőképességében részlegesen korlátozott nagykorút, valamint a fogyatékossággal élő személyt a közigazgatási hatósági eljárásban fokozott védelem illeti meg, ezért
 
 - a) tárgyaláson történő meghallgatására csak abban az esetben kerülhet sor, ha az eljárásban részt vevő más személyek jelenlétében történő meghallgatása az érdekeit nem sérti,
-- b) lehetőség szerint lakóhelyén kell meghallgatni,
+- b) lehetőség szerint lakcímén kell meghallgatni,
 - c) akkor hívható fel személyes nyilatkozattételre és akkor hallgatható meg tanúként, ha ezt állapota megengedi és személyes nyilatkozata vagy tanúvallomása más módon nem pótolható, valamint
 - d) az egyenlő esélyű hozzáférést számára biztosítani kell.
 
@@ -402,7 +402,7 @@ A kérelem automatikus döntéshozatali eljárásban, sommás vagy teljes eljár
 Automatikus döntéshozatalnak van helye, ha
 
 - a) azt törvény vagy kormányrendelet megengedi,
-- b) a hatóság részére a kérelem benyújtásakor minden adat rendelkezésére áll,
+- b) a hatóság részére a kérelem benyújtásakor minden adat rendelkezésére áll, vagy azokat automatikus információátvétel útján meg tudja szerezni,
 - c) a döntés meghozatala mérlegelést nem igényel, és
 - d) nincs ellenérdekű ügyfél.
 
@@ -628,12 +628,12 @@ Ha törvény vagy kormányrendelet nem zárja ki, az ügyfélnek az eljárás me
 
 #### 59. § [Az idézés helye]
 
-(1) A hatóság az illetékességi területén lakóhellyel nem rendelkező személyt vagy székhellyel nem rendelkező szervezet törvényes képviselőjét akkor idézheti a székhelyére, ha
+(1) A hatóság az illetékességi területén lakcímmel nem rendelkező személyt vagy székhellyel nem rendelkező szervezet törvényes képviselőjét akkor idézheti a székhelyére, ha
 
 - a) ezt jogszabály írja elő,
 - b) az idézés célja a tárgyaláson, egyeztetésen való részvétel,
 - c) a megkeresés útján történő meghallgatás csorbítaná bármely ügyfél eljárási jogait,
-- d) az idézni kívánt személy lakóhelyén nem működik olyan hatóság, amely megfelelő szakismeretek birtokában tudná elvégezni a szükséges eljárási cselekményt, vagy
+- d) az idézni kívánt személy lakcímén nem működik olyan hatóság, amely megfelelő szakismeretek birtokában tudná elvégezni a szükséges eljárási cselekményt, vagy
 - e) azt az idézett személy kéri.
 
 (2) A fővárosban működő hatóság a főváros egész területéről idézhet.

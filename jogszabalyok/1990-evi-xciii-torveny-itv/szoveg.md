@@ -64,7 +64,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 
 - a) a Magyar Állam,
 - b) a helyi önkormányzatok és azok társulásai,
-- c) a költségvetési szerv, a Magyar Nemzeti Vagyonkezelő Zrt., valamint a Tartalékgazdálkodási Kht., illetve annak tevékenységét folytató nonprofit gazdasági társaság,
+- c) a költségvetési szerv, a Magyar Nemzeti Vagyonkezelő Zrt., a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság, valamint a Tartalékgazdálkodási Kht., illetve annak tevékenységét folytató nonprofit gazdasági társaság,
 - d) az egyesület, a köztestület,
 - e) az egyházi jogi személy,
 - f) az alapítvány (ideértve a közalapítványt is), továbbá a közfeladatot ellátó közérdekű vagyonkezelő alapítvány és az általa fenntartott felsőoktatási intézmény,
@@ -1108,7 +1108,7 @@ esetében.
 - j) a találmány és a használati minta feltalálója, az újító, az ipari minta, a topográfia szerzője, valamint a közreműködő által a találmánnyal, a használati mintával, az újítással, az ipari mintával, a topográfiával, a know-how-val, illetve a közreműködői díjjal kapcsolatban indított polgári peres és nemperes (végrehajtási) eljárásban;
 - k) a lakásszövetkezetet a tagjával és a nem tag tulajdonosával, valamint a társasház közösséget a tulajdonossal szemben üzemeltetési és felújítási, illetve közös költség megtérítése iránt indított eljárásban;
 - l) a büntetőeljárással összefüggésben az alaptalanul alkalmazott szabadságkorlátozásért járó kártalanítás iránti perben;
-- m) az olyan kártérítési perben, amelyet a fél a per tisztességes lefolytatásához, illetve ésszerű időn belül történő befejezéséhez fűződő alapvető jogai megsértése miatt indít;
+- m) a polgári peres eljárás elhúzódásával kapcsolatos vagyoni elégtétel érvényesítése iránt indított bírósági nemperes eljárásban;
 - n) magánszemély lakástulajdonát elidegenítő szerződés érvénytelenségének megállapítása iránt indított perben;
 - o) külön törvényben meghatározott referenciaadat-szolgáltató és központi hitelinformációs rendszert kezelő pénzügyi vállalkozás ellen, a központi hitelinformációs rendszerbe történő adatátadás és kezelés miatt, illetőleg a referenciaadatok helyesbítése vagy törlése iránt indított perben;
 - p) a hivatalbóli bejegyzéssel nyilvántartásba vett, hibás adatokon alapuló vagy más okból hibás bejegyzések kijavítása iránti eljárásban, valamint abban az eljárásban, mely annak megállapítására irányul, hogy valamely hatóság vagy bíróság nem tett eleget a cégjegyzékbe hivatalbóli bejegyzéssel nyilvántartásba kerülő adat megküldésére vonatkozó kötelezettségének;
