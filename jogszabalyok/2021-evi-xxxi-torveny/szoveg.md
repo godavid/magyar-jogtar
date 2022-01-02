@@ -120,21 +120,7 @@ a közbiztonság erősítése érdekében egyes rendészeti igazgatási törvén
 
 48. §
 
-49. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 96. § (1a) bekezdése helyébe a következő rendelkezés lép:
-
-„(1a) Felhatalmazást kap a rendészetért felelős miniszter, hogy
-
-a) az arcképmás, az ujj- és tenyérnyomat, valamint a DNS-profil meghatározásra alkalmas anyagmaradvány rögzítésének részletes technikai szabályait,
-
-b) az ujj- és tenyérnyomat és a szájnyálkahártya-törlet levételének részletes technikai szabályait,
-
-c) a DNS-profil meghatározásának szakmai-módszertani követelményeit,
-
-d) a bűnügyi és rendészeti biometrikus adatok nyilvántartása és az eliminációs nyilvántartás technikai vezetésének részletes szabályait, valamint
-
-e) az eliminációs nyilvántartás részére teljesítendő adatszolgáltatás rendjét
-
-rendeletben állapítsa meg.”
+49. §
 
 50. §
 
@@ -262,9 +248,7 @@ rendeletben állapítsa meg.”
 
 93. §
 
-94. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 61. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az ideiglenes átrendelésre egy naptári éven belül összesen harminc nap időtartamban kerülhet sor, amely időtartam egy alkalommal harminc nappal meghosszabbítható.”
+94. §
 
 95. §
 
@@ -274,9 +258,7 @@ rendeletben állapítsa meg.”
 
 98. §
 
-99. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 158. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Az előző évi egyéni teljesítményértékelés során kivételes teljesítményfokozattal értékelt a (2) bekezdés szerint a tárgyévre vonatkozó, miniszteri rendeletben meghatározott mértékű teljesítményjuttatásra akkor is jogosult, ha szolgálati viszonya a kifizetési évben, de a (3) bekezdésben foglaltaktól eltérően a tárgyévre vonatkozó teljesítményjuttatás megállapítását megelőzően szűnik meg, míg ilyen esetben az előző évi egyéni teljesítményértékelés során jó teljesítményfokozattal értékelt teljesítményjuttatásban részesíthető. Ezekben az esetekben a szervezeti teljesítményértékelést – ha az még nem áll rendelkezésre – a teljesítményértékelés eredményének megállapításakor nem kell figyelembe venni. A teljesítményjuttatás kifizetésére a 99. § (1) bekezdése szerinti elszámolás keretében kell intézkedni.”
+99. §
 
 100. §
 

@@ -114,7 +114,7 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 42. §
 
-43. § Nem lép hatályba a 2020. évi XXXIV. törvény 8. §-a és 9. §-a.
+43. §
 
 #### 14. A Moholy-Nagy Művészeti Egyetemért Alapítványról, a Moholy-Nagy Művészeti Egyetemért Alapítvány és a Moholy-Nagy Művészeti Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXV. törvény módosítása
 
@@ -126,7 +126,7 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 47. §
 
-48. § Nem lép hatályba a 2020. évi XXXV. törvény 8. §-a és 9. §-a.
+48. §
 
 #### 15. A Neumann János Egyetemért Alapítványról, a Neumann János Egyetemért Alapítvány és a Neumann János Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVI. törvény módosítása
 
@@ -164,7 +164,7 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 63. §
 
-64. § Nem lép hatályba a 2020. évi XXXVIII. törvény 8. §-a és 9. §-a.
+64. §
 
 #### 18. Az Universitas Miskolcinensis Alapítványról, az Universitas Miskolcinensis Alapítvány és a Miskolci Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXIX. törvény módosítása
 
@@ -180,7 +180,7 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 70. §
 
-71. § Nem lép hatályba a 2020. évi XXXIX. törvény 8. §-a és 9. §-a.
+71. §
 
 #### 19. A Színház- és Filmművészetért Alapítványról, a Színház- és Filmművészetért Alapítvány és a Színház- és Filmművészeti Egyetem részére történő vagyonjuttatásról szóló 2020. évi LXXII. törvény módosítása
 
@@ -196,7 +196,7 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 77. §
 
-78. § Nem lép hatályba az SZFE tv. 8. §-a és 9. §-a.
+78. §
 
 #### 20. A Közép-európai Épített Örökség Megőrző Alapítványról és a Közép-európai Épített Örökség Megőrző Alapítvány részére történő vagyonjuttatásról szóló 2020. évi XCIII. törvény módosítása
 
@@ -236,7 +236,7 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 94. §
 
-95. § Nem lép hatályba a 2020. évi CXLII. törvény 1. § (4) bekezdése és 11. §-a.
+95. §
 
 #### 23. A Közép-európai Oktatási Alapítványról és a Közép-európai Oktatási Alapítvány részére történő vagyonjuttatásról szóló 2020. évi CXLIII. törvény módosítása
 
@@ -264,14 +264,7 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 105. §
 
-106. § Nem lép hatályba a 2020. évi CLVIII. törvény
-
-- a)
-- b)
-- c)
-- d) 5. § (3) bekezdése,
-- e)
-- f)
+106. §
 
 #### 26. Záró rendelkezések
 

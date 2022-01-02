@@ -1726,18 +1726,27 @@ bármely építmény tekintetében a 2020. november 4-ét követően hatályba l
 
 #### 310. §
 
-311. § Hatályát veszti a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény
+#### 311. §
 
-- a)
-- b)
-- c)
-- d)
-- e)
-- f)
-- g) 146. §-a, 147. §-a és 150. §-a,
-- h)
-- i)
-- j)
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+i)
+
+j)
 
 #### 131. Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény módosítása
 

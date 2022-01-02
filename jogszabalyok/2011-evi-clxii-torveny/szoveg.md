@@ -2215,7 +2215,7 @@ való megfelelést szolgálja.
 
 (4)
 
-237. § (1) E törvény 1–4. alcíme, III. Fejezete, 19–22. alcíme, 25–30. alcíme, V–X. Fejezete, XII. Fejezete, XIII. Fejezete, 223. §-a, 224. §-a, 232/L–232/T. §-a, 236. §-a, valamint 2–4. melléklete az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+237. § (1) E törvény 1–4. alcíme, III. Fejezete, 19–22. alcíme, 25–30. alcíme, V–X. Fejezete, XII. Fejezete, XIII. Fejezete, 223. §-a, 224. §-a, 232/L–232/U. §-a, 236. §-a, valamint 2–4. melléklete az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Bjt.
 

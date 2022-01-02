@@ -14,9 +14,7 @@ egyes gyermekvédelmi és szociális tárgyú törvények módosításáról
 
 5. §
 
-6. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 64. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) A Gyvt. 40/A. § (7) bekezdése alapján kijelölt család- és gyermekjóléti központ fogyatékosságügyi tanácsadást biztosít. A fogyatékosságügyi tanácsadás keretében a gyermekjóléti központ elősegíti a fogyatékossággal élő emberek és családtagjaik információkhoz, szolgáltatásokhoz való akadálymentes hozzáférését, valamint az egyenlő esélyű hozzáférés megvalósulását.”
+6. §
 
 7. §
 
@@ -24,7 +22,7 @@ egyes gyermekvédelmi és szociális tárgyú törvények módosításáról
 
 9. §
 
-10. § Hatályát veszti a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 64. § (4) bekezdés i) pontja.
+10. §
 
 #### 2. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
@@ -40,9 +38,7 @@ egyes gyermekvédelmi és szociális tárgyú törvények módosításáról
 
 15. §
 
-16. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 40/A. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) A szociál- és nyugdíjpolitikáért felelős miniszter által kijelölt család- és gyermekjóléti központ az Szt. 64. § (9) bekezdése szerinti fogyatékosságügyi tanácsadást is biztosít. A szociál- és nyugdíjpolitikáért felelős miniszter a kijelölésről szóló közleményt az általa irányított minisztérium honlapján és a Szociális Ágazati Portálon teszi közzé.”
+16. §
 
 17. §
 

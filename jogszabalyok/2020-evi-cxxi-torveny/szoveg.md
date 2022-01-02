@@ -10,11 +10,7 @@ egyes törvényeknek nyilvántartásokkal és elektronikus ügyintézéssel öss
 
 3. §
 
-4. § Az Nytv. 17. § (2) bekezdése a következő h) ponttal egészül ki:
-
-(A nyilvántartásból adatok az alábbi csoportosítás szerint szolgáltathatók:)
-
-„h) a 24/I. § szerinti adatok.”
+4. §
 
 5. §
 
@@ -26,9 +22,7 @@ egyes törvényeknek nyilvántartásokkal és elektronikus ügyintézéssel öss
 
 9. §
 
-10. § Az Nytv. IV. fejezete a következő 24/I. §-sal egészül ki:
-
-„24/I. § A nyilvántartást kezelő szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 42/B. §-a szerinti ügyfél-átvilágítás során a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény szerinti szolgáltató automatikus információátadásra vonatkozó jelzésére a polgár 11. § (1) bekezdés h) pontja szerinti adatát, állampolgárságát, a személyazonosító igazolványának okmányazonosítóját, aláírását, valamint arcképmását átadja.”
+10. §
 
 11. §
 
@@ -98,17 +92,7 @@ egyes törvényeknek nyilvántartásokkal és elektronikus ügyintézéssel öss
 
 #### 4. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-29. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény (a továbbiakban: Szaz.tv.) „Összerendelési nyilvántartás” alcíme a következő 10/F. §-sal egészül ki:
-
-„10/F. § Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti központi azonosítási ügynök használata esetén az összerendelési nyilvántartás szolgáltatást igénybevevő szerv a polgárnak az összerendelési nyilvántartás hatálya alá tartozó más azonosítója igazolásával is kérhet adatszolgáltatást a 10/C. § megfelelő alkalmazásával
-
-a) a személyiadat- és lakcímnyilvántartásból,
-
-b) a központi idegenrendészeti nyilvántartásból, vagy
-
-c) az elektronikus ügyintézést igénybe vevő, külföldön élő természetes személyek személyi nyilvántartásából,
-
-ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása alapján jogosult. E művelet idejére az adatkezelő jogosult az adott azonosító vonatkozásában az összerendelési bejegyzés felvételét kezdeményező szerv által képzett, a 10/A. § (4) bekezdése szerinti titkosított összerendelési kapcsolati kód kezelésére.”
+29. §
 
 30. § (1)
 
@@ -142,7 +126,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 
 39. §
 
-40. § Az Utv. 28. § (1) bekezdés d) pontjában az „érintett arcképmásáról” szövegrész helyébe az „érintett állampolgárságáról, számára kiadott úti okmány típusáról, számáról, arcképmásáról” szöveg lép.
+40. §
 
 #### 7. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
@@ -307,11 +291,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 
 86. § (1)
 
-(2) Az E-ügyintézési tv. 1. §-a a következő 39a. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„39a. piaci szereplők részére nyújtható központi állami szolgáltatás: olyan, az állam által nyújtott informatikai, hálózati és infrastrukturális szolgáltatás, amelyet a Kormány rendeletében informatikai, hálózati és infrastrukturális közszolgáltatásra kijelölt szolgáltató nem közfeladat ellátása céljából, piaci alapon, az eredeti közszolgáltatással – a Kormány rendeletében meghatározott eltérésekkel technikai tartalomban – azonos módon nyújt;”
+(2)
 
 87. §
 
@@ -321,67 +301,25 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 
 90. §
 
-91. § (1) Az E-ügyintézési tv. 42/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+91. §
 
-„(1) Törvényben vagy kormányrendeletben meghatározott, a Kormány által biztosított
+92. §
 
-a) szabályozott elektronikus ügyintézési szolgáltatás, központi elektronikus ügyintézési szolgáltatás a Kormány rendeletében meghatározott feltételek mellett az elektronikus ügyintézést biztosító szervnek nem minősülő, ellátó szerv által közérdek teljesítése céljából igényelhető,
+93. §
 
-b) szabályozott elektronikus ügyintézési szolgáltatás, központi elektronikus ügyintézési szolgáltatás, valamint egyéb, informatikai, hálózati és infrastrukturális közszolgáltatás elektronikus ügyintézést biztosító szervnek nem minősülő szerv által a Kormány rendeletében meghatározott feltételekkel és az eredeti közszolgáltatáshoz képest a Kormány rendeletében meghatározott eltérésekkel és korlátozásaival piaci szereplők részére nyújtható központi állami szolgáltatásként igényelhető.”
-
-(2) Az E-ügyintézési tv. 42/A. §-a a következő (3)–(5) bekezdéssel egészül ki:
-
-„(3) Az (1) bekezdés b) pontja szerinti esetben szabályozott elektronikus ügyintézési szolgáltatással vagy központi elektronikus ügyintézési szolgáltatással – a Kormány rendeletében meghatározott eltérésekkel – azonos technikai tartalmú piaci szereplők részére nyújtható központi állami szolgáltatás esetében a személyes adatok kezelése tekintetében a központi állami szolgáltatásra a 22. alcím rendelkezéseit kell alkalmazni azzal, hogy a 22. alcím alkalmazása során szabályozott elektronikus ügyintézési szolgáltatás vagy központi elektronikus ügyintézési szolgáltatás helyett központi állami szolgáltatást kell érteni.
-
-(4) A Kormány által biztosított elektronikus azonosítási szolgáltatás vagy – a Kormány rendeletében meghatározott eltérésekkel – azzal azonos tartalmú piaci szereplők részére nyújtható központi állami szolgáltatás igénybevétele során, az azonosítás folyamata és eredményessége biztosítása érdekében kezeli azon személyes adatokat, amelyek a szolgáltatás igénybevételéhez elengedhetetlenül szükségesek.
-
-(5) A szabályozott elektronikus ügyintézési szolgáltatás, központi elektronikus ügyintézési szolgáltatás, valamint a piaci szereplők részére nyújtható központi állami szolgáltatás (e § alkalmazásában a továbbiakban együtt: Szolgáltatás) e fejezet szerinti igénybevétele feltételeinek, a Szolgáltatásra vonatkozó jogszabályokban előírt jogok és kötelezettségek teljesítését a Felügyelet a IX. Fejezet szerint ellenőrzi azzal, hogy a felügyeleti vizsgálat tekintetében a Szolgáltatást szabályozott elektronikus ügyintézési szolgáltatásnak, a Szolgáltatás igénybevevőjét elektronikus ügyintézést biztosító szervnek, a Szolgáltatás igénybevevőjével elektronikusan kapcsolatot tartó személyt vagy szervet ügyfélnek kell tekintetni.”
-
-92. § Az E-ügyintézési tv. VII/A. Fejezete a következő 42/B. §-sal egészül ki:
-
-„42/B. § (1) A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) 1. § (1) és (1a) bekezdése szerinti szolgáltató (a továbbiakban e § alkalmazásában: szolgáltató) részére, a szolgáltató kérelme esetén a Kormány által biztosított elektronikus ügyintézési szolgáltatások közül a központi azonosítási ügynök szolgáltatást, a Kormány által biztosított elektronikus azonosítási szolgáltatásokat, az összerendelési nyilvántartást és a központi kormányzati szolgáltatási buszt a Kormány által kijelölt szolgáltató a Pmt. szerinti ügyfél-átvilágítás (a továbbiakban: ügyfél-átvilágítás) céljára, közérdekből díjmentesen biztosítja.
-
-(2) A szolgáltató az ügyfél-átvilágítás során, az elektronikus azonosítás keretében az ügyfél nevét, születési nevét, anyja nevét, születési helyét és idejét a központi azonosítási ügynök szolgáltatáson és az összerendelési nyilvántartáson keresztül, a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény (a továbbiakban: Szaz. tv.) 10/E. §-a szerint gépi kapcsolat útján veszi át.
-
-(3) A (2) bekezdés szerinti adatszolgáltatást az állam az ügyfél-átvilágítás esetében díjmentesen biztosítja a szolgáltató számára.
-
-(4) A sikeres azonosítást követően a szolgáltató az ügyfél a Pmt. 7. § (2) bekezdés a) pont ac), af), ag) alpontja szerinti adatát, aláírását, valamint arcképmását a közhiteles hatósági nyilvántartásokból automatikus információátadással, díjmentesen veszi át.
-
-(5) A szolgáltató a Pmt. 7. § (2) bekezdés a) pont ag) alpontja szerinti adatot elsősorban a 31. § (2) bekezdése szerinti nyilvántartásból, ha az ügyfél ezen nyilvántartásban nem rögzített személyazonosításra alkalmas hatósági igazolvánnyal rendelkezik, az útiokmány-nyilvántartásból, ha az ügyfél útlevéllel sem rendelkezik, akkor a közúti közlekedési engedély-nyilvántartásából veszi át. A pénz- és hitelintézet az ügyfél személyazonosításra alkalmas hatósági igazolványához tartozó aláírás- és arcképmás-adatot veszi át.”
-
-93. § Az E-ügyintézési tv. 45. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A külföldi személyek nyilvántartásából az összerendelési nyilvántartáson keresztül a Szaz. tv. 10/E. és 10/F. §-ában meghatározott célból adat szolgáltatható, ha az adatok kezelésére az adatkezelő törvény felhatalmazása alapján jogosult.”
-
-94. § Az E-ügyintézési tv. 27. alcíme a következő 45/A. §-sal egészül ki:
-
-„45/A. § (1) A 45. § (3)–(4) bekezdése szerinti szervek a külföldi személyek nyilvántartásából díjmentesen igényelhetnek adatot.
-
-(2) Az ügyfél hozzájárulása esetén, valamint a 42/B. § (4) bekezdésében foglalt esetben az (1) bekezdésben meg nem jelölt szerv számára igazgatási szolgáltatási díj megfizetése ellenében szolgáltatható adat.”
+94. §
 
 95. §
 
-96. § (1) Az E-ügyintézési tv. 105. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
-
-„b) a szabályozott elektronikus ügyintézési szolgáltatásnak és a központi elektronikus ügyintézési szolgáltatásnak, valamint piaci szereplők részére nyújtható központi állami szolgáltatásnak az elektronikus ügyintézést nem biztosító szerv által történő felhasználása feltételeit, az ilyen felhasználás során a Felügyelet feladatát és eljárását, az ebben az esetben a szolgáltatás használatáért számítható díj megállapításának módját, a piaci szereplők részére nyújtható központi állami szolgáltatások technikai tartalmú eltéréseit, továbbá a piaci szereplők részére nyújtható központi állami szolgáltatások nyújtása korlátozásának feltételeit.”
+96. § (1)
 
 (2)
 
-(3) Az E-ügyintézési tv. 105. § (1) bekezdése a következő u) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
-
-„u) a 108. § (8) bekezdése szerinti időpontot.”
+(3)
 
 (4)
 
-97. § Az E-ügyintézési tv. 108. §-a a következő (8) és (9) bekezdéssel egészül ki:
-
-„(8) A 42/B. §-ban foglaltakat a Kormány rendeletében meghatározott időpontig a Pmt. 1. § (1) bekezdés a) és b) pontja szerinti szolgáltatókra lehet csak alkalmazni.
-
-(9) A 31. § (2) bekezdés b) pontja szerinti nyilvántartás a 42/B. § (4) bekezdése szerinti adatokat automatikus információátadással 2023. január 1-jétől szolgáltatja.”
+97. §
 
 98. §
 

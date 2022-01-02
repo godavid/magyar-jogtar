@@ -16,14 +16,12 @@ egyes közlekedési tárgyú törvények módosításáról
 
 6. §
 
-7. § A Kkt.
+7. §
 
 - a)
 - b)
 - c)
-- d) a 44. § (8) bekezdésében a „jogosult díjmentesen átvenni” szövegrész helyébe a „közvetlen adathozzáféréssel, díjmentesen jogosult átvenni” szöveg
-
-lép.
+- d)
 
 8. §
 

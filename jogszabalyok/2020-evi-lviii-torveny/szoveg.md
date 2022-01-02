@@ -2695,7 +2695,7 @@ vonatkozó szabályait.
 
 (7) E törvény hatálybalépésének naptári napját a miniszterelnök annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
-409. § (1) Hatályát veszti a 30. §.
+409. § (1)
 
 (2)
 

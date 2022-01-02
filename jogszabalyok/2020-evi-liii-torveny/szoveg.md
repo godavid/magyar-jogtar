@@ -44,9 +44,7 @@ az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI
 
 20. §
 
-21. § Az Éltv. a következő 57/A. §-sal egészül ki:
-
-„57/A. § Az 57. § v) és w) pontjában meghatározott intézkedés alkalmazásakor figyelmeztetés, illetve közigazgatási óvadék alkalmazásának nincs helye.”
+21. §
 
 22. §
 
@@ -90,35 +88,9 @@ az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI
 
 41. §
 
-42. § A Máoktv. 36. § (3) bekezdése a következő szöveggel lép hatályba:
+42. §
 
-„(3) A (2) bekezdés szerinti feltételen túlmenően állatorvosi tevékenység önálló tevékenység formájában történő végzésére az az állatorvos jogosult, aki rendelkezik
-
-a) az Állatorvostudományi Egyetemen (vagy annak jogelődjén) megszerzett szakállatorvosi végzettséggel,
-
-b) a Kamara specialistája (kamarai specialista vagy praxisvezetői) végzettséggel,
-
-c) legalább PhD tudományos fokozattal,
-
-d) európai állatorvosi szakkollégiumi tagsággal, vagy
-
-e) a Kamara által igazolt húsz év időtartamú magánállatorvosi vagy szolgáltató állatorvosi szakmai gyakorlattal.”
-
-43. § A Máoktv. 38. § (2) bekezdése a következő szöveggel lép hatályba:
-
-„(2) Gazdasági társaság vagy szövetkezet formájában működő állategészségügyi szolgáltató akkor jogosult praxisengedélyre, ha működése során a 34. § (2) bekezdésének a), b), d) vagy e) pontja alapján foglalkoztat legalább egy olyan
-
-a) legalább 5 éves szakmai gyakorlattal rendelkező állatorvost, aki rendelkezik
-
-aa) az Állatorvostudományi Egyetemen (vagy annak jogelődjén) megszerzett szakállatorvosi végzettséggel,
-
-ab) a Kamara specialistája végzettséggel,
-
-ac) legalább PhD tudományos fokozattal, vagy
-
-ad) európai állatorvosi szakkollégiumi tagsággal, vagy
-
-b) állatorvossal, aki rendelkezik a Kamara által igazolt húsz év időtartamú magánállatorvosi vagy szolgáltató állatorvosi szakmai gyakorlattal.”
+43. §
 
 44. §
 
@@ -154,7 +126,7 @@ b) állatorvossal, aki rendelkezik a Kamara által igazolt húsz év időtartam�
 - c)
 - d)
 
-52. § Nem lép hatályba a Máoktv. 37. § (4) és (5) bekezdése.
+52. §
 
 #### 3. Záró rendelkezések
 

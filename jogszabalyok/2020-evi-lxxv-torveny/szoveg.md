@@ -53,7 +53,7 @@ a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosításár�
 
 17. §
 
-18. § Nem lép hatályba a 2020. évi XXXVI. törvény 9–10. §-a.
+18. §
 
 #### 8. A Soproni Egyetemért Alapítványról, a Soproni Egyetemért Alapítvány és a Soproni Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVII. törvény módosítása
 

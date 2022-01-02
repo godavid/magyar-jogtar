@@ -110,14 +110,6 @@ részletes szabályait.
 
 10. § Ez a törvény az uniós űrprogram és az Európai Unió Űrprogramügynökségének a létrehozásáról, valamint a 912/2010/EU, az 1285/2013/EU és a 377/2014/EU rendelet és az 541/2014/EU határozat hatályon kívül helyezéséről szóló, 2021. április 28-i (EU) 2021/696 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-11. § A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 19. §-a a következő (4a) és (4b) bekezdéssel egészül ki:
+#### 11. §
 
-„(4a) Az űrtávérzékelési adatbázis nem állami alapadatként tartalmazza
-
-a) a Sentinel Földmegfigyelési Adatbázis adatait,
-
-b) az a) ponton kívüli űrtávérzékelt adatokat.
-
-(4b) Jogszabály eltérő rendelkezése hiányában a (4a) bekezdésre vonatkozó adatszolgáltatás tekintetében az állami alapadatok szolgáltatására vonatkozó szabályok az irányadóak.”
-
-12. § Hatályát veszti a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 19. § (11) bekezdése.
+#### 12. §

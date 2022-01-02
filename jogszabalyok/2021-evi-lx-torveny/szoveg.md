@@ -14,10 +14,10 @@ egyes agrártárgyú törvények módosításáról
 
 #### 3. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
 
-4. § Hatályát veszti a légiközlekedésről szóló 1995. évi XCVII. törvény
+4. §
 
 - a)
-- b) 61/A. § (3) bekezdés n) pontja.
+- b)
 
 #### 4. A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény módosítása
 
@@ -277,7 +277,7 @@ egyes agrártárgyú törvények módosításáról
 
 #### 19. Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény és a Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló 2012. évi CXXVII. törvény módosításáról szóló 2020. évi LIII. törvény módosítása
 
-112. § Nem lép hatályba az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény és a Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló 2012. évi CXXVII. törvény módosításáról szóló 2020. évi LIII. törvény 48. §-a.
+112. §
 
 #### 20. A földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény módosítása
 

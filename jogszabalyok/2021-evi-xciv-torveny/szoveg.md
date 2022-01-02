@@ -194,8 +194,4 @@ nem haladja meg.
 
 (3) E törvény hatálybalépését követő négy hónapos jogvesztő határidőn belül a bírósági polgári peres eljárás elhúzódásával kapcsolatos vagyoni elégtétel iránti igény e törvény szerinti érvényesítésére az a fél is jogosult, akinek a bírósági eljárás elhúzódása miatt az EJEB-hez benyújtott kérelmét az EJEB e törvény hatálybalépésének napjáig nyilvántartásba vette, de még nem bírálta el, kivéve, ha a kérelem EJEB-hez történő benyújtásakor az 1993. évi XXXI. törvénnyel kihirdetett, az emberi jogok és az alapvető szabadságok védelméről szóló, Rómában, 1950. november 4-én kelt Egyezmény 35. cikkének 1. bekezdésében meghatározott, az adott ügyre vonatkozó határidő már eltelt.
 
-22. § Az illetékekről szóló 1990. évi XCIII. törvény 62. § (1) bekezdés m) pontja helyébe a következő rendelkezés lép:
-
-(A felet – ideértve a beavatkozót és az érdekeltet is – illetékfeljegyzési jog illeti meg, a jogegységi panasz eljárás kivételével:)
-
-„m) a polgári peres eljárás elhúzódásával kapcsolatos vagyoni elégtétel érvényesítése iránt indított bírósági nemperes eljárásban;”
+22. §

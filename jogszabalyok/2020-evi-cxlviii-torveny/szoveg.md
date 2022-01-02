@@ -12,19 +12,13 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 3. §
 
-4. § Az Nytv. IV. Fejezete a következő 24/J. §-sal egészül ki:
+4. §
 
-„24/J. § Az oktatási nyilvántartás működéséért felelős szerv a nyilvántartott személyek azonosítása, ellenőrzése és adatainak pontosítása céljából – a családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye és a nyilvántartásból kikerülés helye adatok kivételével – a 17. § (2) bekezdés b) pontja szerinti, valamint a nyilvántartás jogcíme adatokat jogosult igényelni a személyiadat- és lakcímnyilvántartást kezelő szervtől.”
-
-5. § Hatályát veszti az Nytv. 21. § zs) pontja.
+5. §
 
 #### 3. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-6. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 37. § (1) bekezdés j) pontja helyébe a következő rendelkezés lép:
-
-(A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – köteles rendszeres adatszolgáltatást teljesíteni:)
-
-„j) az oktatási nyilvántartás működéséért felelős szervnek az oktatási nyilvántartásban szereplő polgár családi és utónevének, születési nevének, anyja születési nevének, születési helyének és időpontjának, nemének, állampolgárságának, nyilvántartás jogcíme adatainak, lakcímének változásáról, továbbá az érintettnek a személyiadat- és lakcímnyilvántartásból való kikerülése okáról és időpontjáról;”
+6. §
 
 #### 4. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
@@ -110,11 +104,11 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 39. §
 
-40. § Hatályát veszti az MMA tv.
+40. §
 
 - a)
 - b)
-- c) 7. § (1b) bekezdésében a „ , legkorábban a levelező taggá választása napját követő két év elteltével” szövegrész,
+- c)
 - d)
 - e)
 - f)
@@ -160,9 +154,7 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 55. §
 
-56. § Az Nftv. 53. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A doktori képzésbe bekapcsolódhat az is, aki a fokozatszerzésre egyénileg készült fel, feltéve, hogy teljesítette a felvétel és a doktori képzés követelményeit. A hallgatói jogviszony ebben az esetben a komplex vizsga teljesítésével jön létre. A doktori képzésben komplex vizsga teljesítésével hallgatói jogviszonyt létesíthet az is, aki az általános orvos, állatorvosi, fogorvos vagy gyógyszerész szakon a hallgatói jogviszonyával párhuzamosan egyénileg készült fel a fokozatszerzésre és a komplex vizsga során – a felsőoktatási intézmény doktori szabályzata alapján – a mesterképzésben felvett kreditek elismerésre kerültek.”
+56. §
 
 57. §
 
@@ -332,9 +324,9 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 #### 23. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény, valamint egyes kapcsolódó törvények módosításáról szóló 2020. évi XXXIII. törvény módosítása
 
-106. § Nem lép hatályba a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény, valamint egyes kapcsolódó törvények módosításáról szóló 2020. évi XXXIII. törvény
+106. §
 
-- a) 10. §-a, 13. §-a, 14. §-a, 15. § (2) bekezdése, 20. § (2) bekezdése, 25. § 13., 16. és 17. pontja, valamint 26. § 12. pontja,
+- a)
 - b)
 
 #### 24. Egyes törvényeknek a felnőttképzési tevékenység ösztönzésével összefüggő módosításáról szóló 2020. évi L. törvény módosítása

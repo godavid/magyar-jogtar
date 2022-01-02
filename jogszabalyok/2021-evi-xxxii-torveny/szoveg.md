@@ -83,6 +83,8 @@ kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogsz
 
 (5) A Hatóság hatáskörébe tartozó ügyre vonatkozó kérelem kormányablaknál nem terjeszthető elő.
 
+(6) A Hatóság elnökének rendelete közérdeken alapuló kényszerítő indok alapján, meghatározott ügyekben kötelezővé teheti valamely okirat vagy más irat bizonyítási eszközként történő alkalmazását.
+
 5/A. § A Hatóság a 3. § (6) bekezdése szerinti feladatkörében az ellenőrzés eredményeként a feltárt jogsértés súlyával arányosan, a jogsértésben rejlő kockázat mértékének és jellegének figyelembevételével – a termékek piacfelügyeletéről szóló törvényben és az Ibtv.-ben foglaltakon túl – a következő jogkövetkezményeket is alkalmazhatja:
 
 - a) kötelezheti a gyártót az uniós megfelelőségi nyilatkozat módosítására, vagy visszavonására,
@@ -621,7 +623,7 @@ alakul át.
 
 #### 15. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-35. § Az 1–4. §, a 7–29. § és a 31–34/B. § az Alaptörvény 23. cikke, a 37. § (2) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése, a 41. § az Alaptörvény 46. cikk (6) bekezdése, a 45. § és a 46. § az Alaptörvény IX. cikk (6) bekezdése, valamint a 47. § az Alaptörvény 40. cikke alapján sarkalatosnak minősül.
+35. § Az 1–4. §, az 5. § (6) bekezdése, a 7–29. § és a 31–34/C. § az Alaptörvény 23. cikke alapján sarkalatosnak minősül.
 
 #### 16. Az Európai Unió jogának való megfelelés
 

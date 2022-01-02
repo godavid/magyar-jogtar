@@ -433,16 +433,7 @@ megtartását.
 
 #### 65. §
 
-66. § Az egészségügyről szóló 1997. évi CLIV. törvény
-
-- a) 154/A. § (5) bekezdésében az „és legnagyobb összegét a Kormány rendeletben” szövegrész helyébe az „összegét a Kormány rendeletben” szöveg,
-- b) 155. § (3) bekezdésében az „esetében – a 156/A. §-ban foglalt kivétellel –” szövegrész helyébe az „esetében” szöveg,
-- c) 155. § (10) bekezdésében az „(ide nem értve a megyei jogú városban székhellyel rendelkező megyei intézményt)” szövegrész helyébe az „(ide nem értve a megyeszékhelynek nem minősülő megyei jogú városban székhellyel rendelkező megyei intézményt)” szöveg,
-- d) 155. § (10) bekezdésében a „klinikai központját kell” szövegrész helyébe a „klinikai központját, ennek hiányában a megyeszékhelyen legalább egy telephellyel rendelkező állami fenntartású fekvőbeteg-szakellátást nyújtó intézményt kell” szöveg,
-- e) 232/G. § (2) bekezdésében az „1993. évi XCIII. törvény 86/A. §-át” szövegrész helyébe az „1993. évi XCIII. törvény 86/A–86/C. §-át” szöveg,
-- f) 247. § (1a) bekezdés g) pontjában a „legkisebb és legnagyobb” szövegrész helyébe a „legkisebb” szöveg
-
-lép.
+#### 66. §
 
 #### 36.
 
@@ -462,9 +453,7 @@ lép.
 
 #### 38. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-73. § Az államháztartásról szóló 2011. évi CXCV. törvény 36/A. §-a helyébe a következő rendelkezés lép:
-
-„36/A. § Kormányrendelet az állami fenntartású egészségügyi intézmény egyes tárgyévi vagy költségvetési éven túli kötelezettségvállalásait feltételhez kötheti vagy korlátozhatja.”
+#### 73. §
 
 #### 39.
 
@@ -482,57 +471,7 @@ lép.
 
 #### 42. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
 
-78. § Az adózás rendjéről szóló 2017. évi CL. törvény X. Fejezete a következő 112/A. §-sal egészül ki:
-
-„112/A. § [Adatszolgáltatás családi pótlékról, házasságról, élettársi kapcsolatról, várandósságról]
-
-(1) A kincstár elektronikus úton adatot szolgáltat az állami adó- és vámhatóság részére havonta, a tárgyhónapot követő hónap 5. napjáig azoknak a magánszemélyeknek az adatairól, akiknek a tárgyhónapban családi pótlékot folyósított. Az adatszolgáltatás tartalmazza
-
-a) a jogosult, az ellátásra jogosító gyermek természetes személyazonosító adatait, TAJ számát, és – ha az rendelkezésre áll – adóazonosító jelét;
-
-b) a jogosult házastársának, bejegyzett élettársának vagy élettársának természetes személyazonosító adatait, TAJ számát és – ha az rendelkezésre áll – adóazonosító jelét;
-
-c) a jogosult családi állapotára, élettársi kapcsolatára vonatkozó adatot;
-
-d) az ellátásra jogosító gyermek tanulói, hallgatói jogviszonyának fennállására vonatkozó adatot;
-
-e) a jogosult és az ellátásra jogosító gyermek lakó-, illetve tartózkodási helyére vonatkozó adatot;
-
-f) a jogosult házastársa, bejegyzett élettársa, élettársa lakó-, illetve tartózkodási helyére vonatkozóan rendelkezésre álló adatot;
-
-g) az ellátás kifizetésével összefüggő adatot (fizetési számlaszám vagy postai utalási cím).
-
-(2) Az (1) bekezdés szerinti adatokról a honvédelemért felelős miniszter által vezetett minisztérium mint családtámogatási kifizetőhely is adatszolgáltatást teljesít elektronikus úton az állami adó- és vámhatóság részére havonta, a tárgyhónapot követő hónap 5. napjáig.
-
-(3) Az állami adó- és vámhatóság megkeresésére 8 napon belül elektronikus úton adatot szolgáltat az alábbi adatokról:
-
-a) a Magyar Országos Közjegyzői Kamara az Élettársi Nyilatkozatok Nyilvántartásába élettársként bejegyzett magánszemélyek
-
-aa) természetes személyazonosító adatairól,
-
-ab) élettársi kapcsolatának fennállásáról, annak kezdő időpontjáról, illetve megszűnése időpontjáról;
-
-b) az Országos Kórházi Főigazgatóság az Elektronikus Egészségügyi Szolgáltatási Tér útján a magánszemély nyilatkozatában a várandósságra vonatkozóan közölt adatok megerősítése érdekében a várandósság tényéről, valamint, ha az rendelkezésre áll, a várandósság 91. napjának betöltéséről;
-
-c) az elektronikus anyakönyvi nyilvántartást működtető szerv az elektronikus anyakönyvnek a házassággal összefüggésben nyilvántartott adatai közül
-
-ca) a házastársak természetes személyazonosító adatairól,
-
-cb) a házasságkötés időpontjáról,
-
-cc) a házasság megszűnésének, felbontásának vagy érvénytelenné nyilvánításának tényéről, időpontjáról.
-
-(4) Az (1)–(3) bekezdés szerinti adatszolgáltatás adatait az állami adó- és vámhatóság
-
-a) az Szja. tv. szerinti adóbevallási tervezethez kapcsolódó eljárásban,
-
-b) az Szja. tv. szerinti az összevont adóalapot csökkentő, az összevont adóalap adójából igénybe vehető kedvezmények ellenőrzéshez,
-
-c) kockázatelemzési eljáráshoz,
-
-d) végrehajtáshoz
-
-használhatja fel.”
+#### 78. §
 
 #### 79. §
 
@@ -544,28 +483,17 @@ használhatja fel.”
 
 #### 44. A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény módosítása
 
-82. § A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény
-
-- a) 188. §-ában, 220. § (1) bekezdésében, 225. § (1) bekezdésében, 235. § (1) bekezdésében, 236. § (1) bekezdésében, 246. § (1) bekezdésében, valamint 257. § (1) bekezdésében a „2021. június 30. napjáig” szövegrész helyébe az „a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnéséig” szöveg,
-- b) 237. § (1) bekezdésében az „a tizennégy” szövegrész helyébe az „a legalább tíz, de legfeljebb tizennégy” szöveg,
-- c) 238. §-ában, 243. §-ában és 244. §-ában a „követő tizennégy napos elkülönítés” szövegrész helyébe a „követő elkülönítés” szöveg
-
-lép.
+#### 82. §
 
 #### 83. §
 
 #### 45. A koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény módosítása
 
-84. § A koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény 5/A. §-a helyébe a következő rendelkezés lép:
+#### 84. §
 
-„5/A. § Ez a törvény 2022. június 1-jén hatályát veszti.”
+#### 85. §
 
-85. § A koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény 4. § (6) bekezdésében a „II–III. Fejezetében” szövegrész helyébe a „III. Fejezetében” szöveg lép.
-
-86. § Hatályát veszti a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény
-
-- a) 4. § (5) bekezdésében az „országos és” szövegrészek,
-- b) 4. § (6) bekezdésében az „országos és” szövegrész.
+#### 86. §
 
 #### 46. A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény módosítása
 
@@ -585,9 +513,7 @@ lép.
 
 #### 94. §
 
-95. § A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 90. §-a helyébe a következő rendelkezés lép:
-
-„90. § Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény szerinti Család, Esélyteremtő és Önkéntes Házakat működtető civil szervezetek kijelölésének hatálya visszavonásig, de legfeljebb 2022. december 31-éig – nyilvános pályázat kiírása nélkül – meghosszabbodik.”
+#### 95. §
 
 #### 96. §
 

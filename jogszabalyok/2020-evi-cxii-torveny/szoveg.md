@@ -10,7 +10,7 @@ a szociális igazgatásról és szociális ellátásokról szóló 1993. évi II
 
 #### 2. Magyarország 2020. évi központi költségvetésének megalapozásáról szóló 2019. évi LXVI. törvény módosítása
 
-3. § Nem lép hatályba a Magyarország 2020. évi központi költségvetésének megalapozásáról szóló 2019. évi LXVI. törvény 16. § (2) bekezdése.
+3. §
 
 #### 3. Záró rendelkezések
 
