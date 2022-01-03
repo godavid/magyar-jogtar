@@ -190,13 +190,7 @@ az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvény
 
 73. §
 
-74. § A megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvény 3. § (3)–(5) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(3) A mezőgazdasági igazgatási szerv és az erdészeti hatóság egyszázezer forinttól egymillió forintig terjedő bírságot szabhat ki azzal szemben, aki a bioüzemanyagok, folyékony bio-energiahordozók, biomasszából előállított tüzelőanyagok vagy ezek alapanyagául szolgáló termékek – ideértve a köztes termékeket is – vonatkozásában nem tesz eleget az e törvényben és az e törvény végrehajtására kiadott rendeletekben meghatározott nyomon követhetőségi, és az ehhez kapcsolódó adatszolgáltatási kötelezettségeknek. Ha a kötelezett kötelezettségének a bírság kiszabását követően sem tesz eleget, a bírság ismételten kiszabható.
-
-(4) A mezőgazdasági igazgatási szerv, az erdészeti hatóság és az állami adó- és vámhatóság egyszázezer forinttól egymillió forintig terjedő bírságot szabhat ki azzal szemben, aki a bioüzemanyagok, folyékony bio-energiahordozók, biomasszából előállított tüzelőanyagok vagy ezek alapanyagául szolgáló termékek – ideértve a köztes termékeket is – fenntarthatósága igazolása során az e törvényben és az e törvény végrehajtására kiadott rendeletekben meghatározott kötelezettségét nem teljesíti, az ügy eldöntése szempontjából valótlan tényt állít, valótlan adatot szolgáltat, vagy valótlan nyilatkozatot tesz. Ha a kötelezett kötelezettségének a bírság kiszabását követően sem tesz eleget, a bírság ismételten kiszabható.
-
-(5) A bírság kiszabása során figyelembe kell venni annak a biomasszának, köztes terméknek, bioüzemanyagnak, folyékony bio-energiahordozónak vagy biomasszából előállított tüzelőanyagnak a mennyiségét, amelyre vonatkozóan a (3) és (4) bekezdés szerinti kötelezettségnek nem tettek eleget.”
+74. §
 
 75. § (1)
 
@@ -296,9 +290,7 @@ az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvény
 
 114. §
 
-115. § A közúti közlekedésről szóló 1988. évi I. törvény 36. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Közcélú hálózat építése céljából a közterület (1) bekezdés szerinti felbontása a november 15. és március 15. közötti időszakban is engedélyezhető, amennyiben a közművezeték üzemeltetője vállalja, hogy olyan műszaki-technológiai megoldás szerint jár el, amellyel az érintett közterület végleges helyreállítása a közúti közlekedés biztonságát nem veszélyeztetve, az időjárási körülményekhez igazodva szakszerűen, a vonatkozó útügyi műszaki előírásokban foglaltaknak megfelelve elvégezhető, és a közművezeték üzemeltető az egyes nyomvonal jellegű építményszerkezetek kötelező alkalmassági idejéről szóló miniszteri rendelet szerinti alkalmassági időtartamra jótállást vállal az elvégzett munkákra.”
+115. §
 
 116. §
 
@@ -569,9 +561,7 @@ lép.
 
 217. § (1)
 
-(2) A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 5. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A Hatóság elnökének rendelete közérdeken alapuló kényszerítő indok alapján, meghatározott ügyekben kötelezővé teheti valamely okirat vagy más irat bizonyítási eszközként történő alkalmazását.”
+(2)
 
 218. §
 
@@ -597,9 +587,7 @@ lép.
 
 222. §
 
-223. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 35. §-a helyébe a következő rendelkezés lép:
-
-„35. § Az 1–4. §, az 5. § (6) bekezdése, a 7–29. § és a 31–34/C. § az Alaptörvény 23. cikke alapján sarkalatosnak minősül.”
+223. §
 
 224. §
 
