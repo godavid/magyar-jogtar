@@ -202,7 +202,19 @@ a fedezett kötvények szabályozásával összefüggő, valamint egyéb, a pén
 
 76. §
 
-77. §
+77. § Az MNBtv. 49/D. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(4) Biztosítási intézkedésként, ideiglenes biztosítási intézkedésként az MNB
+
+a) pénz vagy pénzügyi eszközök zárolását,
+
+b) egyéb ingó vagy ingatlan eszközök tekintetében elidegenítési vagy terhelési tilalmat, vagy
+
+c) piacfelügyeleti eljárásban elektronikus adat ideiglenes hozzáférhetetlenné tételét
+
+rendelhet el.
+
+(5) A biztosítási intézkedést, illetve ideiglenes biztosítási intézkedést az MNB visszavonja, ha az elrendelésének oka megszűnt.”
 
 78. §
 
@@ -218,11 +230,37 @@ a fedezett kötvények szabályozásával összefüggő, valamint egyéb, a pén
 
 81. §
 
-82. §
+82. § Az MNBtv. a következő 91/A. §-sal egészül ki:
+
+„91/A. § (1) Az MNB piacfelügyeleti eljárásában az érdemi döntés meghozataláig terjedő időtartamra ideiglenes biztosítási intézkedésként elrendelheti az ideiglenes hozzáférhetetlenné tételét annak az elektronikus hírközlő hálózat útján közzétett adatnak (a továbbiakban: elektronikus adat), amelynek hozzáférhetővé tétele engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közvetítői (ügynöki) tevékenység kifejtését készíti, illetve segíti elő, ha a piacfelügyeleti eljárásban vizsgált személy vagy szervezet ügyfelei (ezen alcím alkalmazásában a továbbiakban: befektetők) érdekeit a közzétett adat veszélyezteti.
+
+(2) Az elektronikus adat ideiglenes hozzáférhetetlenné tétele az elektronikus adat feletti rendelkezési jog ideiglenes korlátozása és az adathoz való hozzáférés ideiglenes megakadályozása.
+
+(3) Az MNB elektronikus adat ideiglenes hozzáférhetetlenné tételről szóló döntésének kötelezettje – annak megjelölése nélkül – valamennyi elektronikus hírközlési szolgáltató.
+
+(4) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének végrehajtását a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) az elektronikus hírközlésről szóló 2003. évi C. törvény (a továbbiakban: Eht.) alapján szervezi és ellenőrzi. Az MNB az elektronikus adat ideiglenes hozzáférhetetlenné tételének elrendelését, illetve annak megszüntetését haladéktalanul közli az NMHH-val.
+
+(5) Az MNB az elektronikus hírközlési szolgáltatót 1 millió forinttól 5 millió forintig terjedő eljárási bírsággal sújtja, ha megsérti az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő döntéssel kapcsolatos kötelezettségeit.
+
+(6) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét az MNB – a 49/D. § (5) bekezdésében foglaltakon kívül – abban az esetben is megszünteti, ha
+
+a) elektronikus adat ideiglenes hozzáférhetetlenné tétele büntetőjogi kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele büntetőjogi intézkedés került elrendelésre vagy annak végrehajtása van folyamatban a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság, a külön törvényben meghatározott hatóság, illetve az NMHH tájékoztatása alapján; vagy
+
+b) az NMHH az Eht. 159/B. § (5) bekezdése alapján jelzi, hogy a rendelkezés elektronikus hírközlési szolgáltatók általi végrehajtása a megadott tartalommal kétséges lehet.
+
+(7) Az MNB a befektetők érdekeinek hatékony védelme érdekében a honlapján közzéteszi az elektronikus adat ideiglenes hozzáférhetetlenné tételének elrendelésével érintett honlapok elnevezését.”
 
 83. §
 
-84. §
+84. § Az MNBtv. a következő 93/A. §-sal egészül ki:
+
+„93/A. § (1) Ha a befektetők érdekeinek megóvása érdekében szükséges, az MNB biztosítási intézkedésként 365 napra elrendelheti az ideiglenes hozzáférhetetlenné tételét annak az elektronikus adatnak, amelynek hozzáférhetővé tétele engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közvetítői (ügynöki) tevékenység kifejtését készítette, illetve segítette elő, és az MNB jogsértést megállapító döntésében a 93. § (1) bekezdés a) pontja vagy (2) bekezdés a) pontja szerinti intézkedést alkalmazott.
+
+(2) Az MNB az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő biztosítási intézkedés fenntartásának indokoltságát a véglegessé válásától számított 365 nap múlva felülvizsgálja és dönt annak megszüntetéséről vagy – ha a befektetők érdekeinek megóvása szükségessé teszi – egy ízben annak további 365 napra történő hatályban tartásáról.
+
+(3) Ha az MNB által folytatott piacfelügyeleti eljárásban vizsgált tevékenység kapcsán büntetőeljárás van folyamatban, az MNB az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő biztosítási intézkedés meghozatalával, valamint megszüntetésével egyidejűleg értesíti a büntetőügyben eljáró bíróságot, ügyészséget vagy nyomozó hatóságot, ha megítélése szerint a befektetők érdekeinek megóvása megalapozza az elektronikus adat ideiglenes hozzáférhetetlenné tétele büntetőjogi kényszerintézkedés, illetve az elektronikus adat végleges hozzáférhetetlenné tétele büntetőjogi intézkedés alkalmazhatóságát.
+
+(4) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének biztosítási intézkedésként történő alkalmazására egyebekben a 91/A. § (2)–(7) bekezdésében foglaltak az irányadók.”
 
 85. §
 
