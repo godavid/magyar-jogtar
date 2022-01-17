@@ -1161,6 +1161,10 @@ meghatározott piacfelügyeleti feladatokat.
 
 (4) A közlekedési hatóság a típusbizonyítvány alapján forgalmazott új jármű forgalomba helyezés előtti vizsgálatától a gyártó vagy a forgalmazó kérelmére jogszabályban foglalt feltételek fennállása esetén eltekinthet. E járművek forgalomba helyezéséhez szükséges adatszolgáltatást a belföldi gyártó, valamint a forgalmazó a közlekedési hatóság által rendelkezésükre bocsátott elektronikus csatornán keresztül teljesíti. A közlekedési hatóság a belföldi gyártó, valamint a forgalmazó ezen tevékenységét ellenőrzi.
 
+(4a) A (4) bekezdés szerinti eljárásokban a járműforgalmazó a közlekedési hatóság által kiadott engedély alapján a közúti közlekedésre vonatkozó közigazgatási hatósági ügyekben alkalmazandó kiegészítő eljárási szabályokról szóló kormányrendeletben meghatározottak szerint, tanúsítóként a tényállás tisztázásában közreműködik.
+
+(4b) A közlekedési hatóság a (4a) bekezdésben meghatározott engedélyköteles tevékenységet engedély nélkül vagy az engedélyben foglaltaktól eltérő módon végzőt 100 000 forinttól 1 000 000 forintig terjedő bírság fizetésére kötelezheti. A bírság ismételten kiszabható. A bírság kiszabása mellett a közlekedési hatóság a járműforgalmazó tevékenységét – törvényben vagy kormányrendeletben meghatározott esetekben – felfüggesztheti, az engedélyt visszavonhatja, valamint törvényben vagy kormányrendeletben meghatározott esetben a járműforgalmazót a tevékenység végzésétől eltilthatja.
+
 (5) Egyedileg előállított (összeépített) vagy átalakított jármű esetén a közlekedési hatóság azt vizsgálja, hogy a jármű megfelel-e az előzetes engedélyben foglaltaknak. Előzetes engedély nélkül előállított vagy átalakított járműre hatósági engedély és jelzés nem adható.
 
 (6) A belföldön üzemeltetni kívánt, külföldi rendszámmal ellátott jármű forgalomba helyezését a jármű belföldi üzembentartója a tulajdonszerzést, illetőleg a jármű behozatalát követő legfeljebb 60 napon belül köteles kezdeményezni.
