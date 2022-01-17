@@ -85,7 +85,7 @@ látja el.
 
 (5)
 
-(6) A kikötő létesítésével, fennmaradásával, továbbá az úszólétesítmény építési (átépítési) terveinek felülvizsgálatával és jóváhagyásával, valamint a komp- és révátkelőhely létesítésével és fennmaradásával, üzemben tartásával kapcsolatos ügyekben az ügyintézési határidő 30 nap.
+(6)
 
 (7)
 
@@ -339,7 +339,7 @@ lajstromban tartja nyilván.
 
 ### IV. Fejezet — AZ ÚSZÓLÉTESÍTMÉNY SZEMÉLYZETÉRE VONATKOZÓ ÁLTALÁNOS ELŐÍRÁSOK
 
-26. § (1) Úszólétesítményt csak hajózási képesítésekről szóló miniszteri rendeletben meghatározott képesítéssel rendelkező, egészségileg és a biztonságos munkavégzésre is alkalmas állapotban lévő személyzet működtethet.
+26. § (1) Úszólétesítményt a hajózási képesítésekről szóló miniszteri rendeletben és a hivatásos hajós képesítésekről szóló miniszteri rendeletben meghatározott képesítéssel rendelkező, egészségileg és a biztonságos munkavégzésre – kedvtelési célú hajó esetében vezetésre – alkalmas állapotban lévő személyzet működtethet.
 
 (1a) Az úszólétesítményen fedélzeti és gépüzemi szolgálatot ellátó személyek, a hajózási üzemeltetési vezetők, valamint a kedvtelési céllal közlekedő úszólétesítmény vezetőjének képesítő okmányait a vizsgaközpont állítja ki.
 
@@ -380,13 +380,19 @@ lajstromban tartja nyilván.
   - kb) az eredeti képesítő okmány száma,
   - kc) az elismerést igazoló érvényesítés száma.
 
-26/A. § (1)–(2)
+(8) A vizsgaközpont, valamint a hajózási hatóság a jogszabály által meghatározott feladat- és hatáskörét érintően biztosítja, hogy a hivatásos hajós képesítésekkel kapcsolatos kompetenciák megszerzésével és értékelésével kapcsolatos tevékenységet, valamint az uniós képesítő bizonyítvánnyal, a szolgálati könyvvel és a hajónaplóval kapcsolatos adminisztrációt 2037. január 17-ig, azt követően pedig legalább tízévente független szerv értékelje. A vizsgaközpont, valamint a hajózási hatóság az értékelések eredményeit dokumentálja és az érintett hatóságok tudomására hozza.
+
+26/A. § (1)
+
+(2)
 
 (3) A hajózási hatóság hatósági ellenőrzés keretében ellenőrzi azt is, hogy a képesítő okmánnyal rendelkező személy büntetlen előéletű-e, és nem áll-e foglalkozástól vagy vízi jármű vezetésétől eltiltás hatálya alatt.
 
-(4)–(5)
+(4)
 
-26/B. § (1) A hajózási képesítésekről szóló miniszteri rendeletben meghatározott vizsgát a vizsgaközpont által meghatározottak szerint kell lefolytatni. A vizsgáztatás során vizsgabiztosként csak olyan személy vehet részt, akinek a tevékenységét a hajózási hatóság engedélyezte, büntetlen előéletű, és nem áll vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
+(5)
+
+26/B. § (1) A hajózási képesítésekről szóló miniszteri rendeletben és a hivatásos hajós képesítésekről szóló miniszteri rendeletben meghatározott vizsgát – jogszabály eltérő rendelkezése hiányában – a vizsgaközpont vizsgaszabályzata szerint kell lefolytatni. A vizsgáztatás során vizsgabiztosként csak olyan személy vehet részt, akinek a tevékenységét a hajózási hatóság engedélyezte, büntetlen előéletű, és nem áll vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
 
 (2) A hajózási hatóság a vizsgabiztosokról Vizsgabiztosi Névjegyzéket (a továbbiakban e § alkalmazásában: névjegyzék) vezet. A névjegyzék – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza az alábbi adatokat:
 
@@ -462,7 +468,7 @@ lajstromban tartja nyilván.
 
 (2) Személyhajón és kompon a fedélzeti szolgálatot ellátó személyzet – ha az úszólétesítményen utasok tartózkodnak – a munkáltató által biztosított egyenruhát köteles viselni.
 
-31/A. § Úszólétesítményen – amennyiben jogszabály eltérően nem rendelkezik – az úszómű kivételével tizenhatodik életévét be nem töltött személy munkát nem végezhet. Tizennyolcadik életévét be nem töltött személy úszólétesítményen éjszakai munkát csak kivételesen – kiképzési célból, havária vagy más úszólétesítmény mentése esetén – végezhet. Úszóművön a tizennyolcadik életévüket be nem töltött személyek éjszakai munkavégzésére az általános szabályok irányadóak.
+31/A. § Úszólétesítményen – amennyiben jogszabály eltérően nem rendelkezik – az úszómű kivételével tizenhatodik életévét be nem töltött személy – a felügyelet melletti hajózási gyakorlat megszerzése kivételével – munkát nem végezhet. Tizennyolcadik életévét be nem töltött személy úszólétesítményen éjszakai munkát kivételesen – kiképzési célból, havária vagy más úszólétesítmény mentése esetén – végezhet.
 
 32. § A magyar lobogó alatt közlekedő tengeri nagyhajón, továbbá Magyarország területét elhagyó belvízi nagyhajón alkalmazott munkavállaló javára a munkáltató élet- és balesetbiztosítást köteles kötni.
 
@@ -654,7 +660,7 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 
 - a) a hajó indulási és érkezési helyét és időpontját;
 - b) az egyes hajóműveletek helyét és időpontját;
-- c) a parancsnoki hídon és a kormánynál szolgálatot teljesítő személyek nevét és a szolgálatváltások időpontját;
+- c) a hajón szolgálatot teljesítő személyek nevét és a szolgálatváltások időpontját;
 - d) révkalauz igénybevétele esetén a révkalauz nevét, az általa végzett tevékenység kezdő és záró időpontját;
 - e) az utasok számát;
 - f) a be- és kirakott áruk megnevezését és mennyiségét;
@@ -664,13 +670,13 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 - j) a hajó személyzetére, a személyzet be- és kihajózására vonatkozó adatokat;
 - k) a hajó útja során történt fontosabb eseményeket (pl. hajózási baleset, folyamszabályozási műben és a kitűzőjelben okozott rongálás, hajózási akadály, hajózási korlátozásokra vonatkozó felhívás), a hajón történt születés, baleset, eltűnés és elhalálozás tényét és időpontját.
 
-(2) Belvízi hajón az (1) bekezdés f)–i) pontjaiban meghatározott adatokat a hajónaplóba nem kell bejegyezni. A menetrend szerint közlekedő személyhajón az (1) bekezdés a) pontjában meghatározott adatok hajónaplóba való bejegyzésénél elegendő a menetrendre utalni.
+(2) Hajónapló vezetésére kötelezett belvízi úszólétesítményen az (EU) 2020/182 bizottsági végrehajtási rendelet V. melléklete szerint kiállított hajónaplóba az (1) bekezdés f)–i) pontjaiban meghatározott adatokat nem kell bejegyezni. A menetrend szerint közlekedő személyhajón az (1) bekezdés a) pontjában meghatározott adatok hajónaplóba való bejegyzésénél elegendő a menetrendre utalni.
 
 (3) A hajónaplóba bejegyzést a hajó vezetője, a személyzetnek a hajó vezetője által a hajónapló vezetésével megbízott tagja, a hajózási hatóság ellenőrzést végző szerve, illetve a rendőrhatóság ellenőrzést végző vízirendészeti szerve tehet.
 
 (4) A hajó vezetője felelős azoknak az adatoknak a valódiságáért, amelyeket ő vagy a személyzet általa megbízott tagja vezetett a hajónaplóba. A bejegyzéseket a hajó vezetőjének a napló minden oldalán aláírásával hitelesítenie kell.
 
-(5) Hajónaplóként csak a hajózási hatóság által kiadott és hitelesített hajónapló használható.
+(5) Hajónaplóként a hajózási hatóság által kiadott és hitelesített hajónapló használható. Az úszólétesítmény egy aktív hajónaplót alkalmazhat.
 
 ### Személyzeti jegyzék
 
@@ -708,7 +714,9 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 
 ### Szolgálati könyv
 
-48. § (1) Azt a személyt, aki úszólétesítményen teljesít szolgálatot, vagy szolgálatot kíván teljesíteni – kérelmére – a hajózási hatóság szolgálati könyvvel látja el.
+48. § (1) Azt az egészségileg alkalmas személyt, aki az alap biztonsági kompetenciákat megszerezte és belvízi úszólétesítményen teljesít szolgálatot vagy szolgálatot kíván teljesíteni – kérelmére – a vizsgaközpont az EU 2020/182 bizottsági végrehajtási rendelet II. vagy IV. melléklete szerinti szolgálati könyvvel látja el. A hajós szolgálati könyv papír alapú vagy elektronikus formátumú. A vizsgaközpont az általa kiadott szolgálati könyvek adatait bejegyzi a hajózási hatóság nyilvántartásába.
+
+(1a) Azt az egészségileg alkalmas személyt, aki az alap biztonsági kompetenciákat megszerezte és tengeren közlekedő úszólétesítményen teljesít szolgálatot, vagy szolgálatot kíván teljesíteni – kérelmére – a vizsgaközpont tengerész szolgálati könyvvel látja el.
 
 (2) Magyar lobogó alatt közlekedő úszólétesítményen szolgálat csak szolgálati könyv birtokában látható el.
 
@@ -725,7 +733,7 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 (4) A hajózási hatóság az e törvényben és más jogszabályban meghatározott feladatkörében
 
 - a) a Vizsgabiztosok Névjegyzékében szereplő vizsgabiztos természetes személyazonosító adatait, képesítéssel kapcsolatos adatait, büntetett előéletre vonatkozó adatait,
-- b) a hajózási képesítő vizsgára jelentkező és a vizsgát tett személy természetes személyazonosító adatait, egészségi alkalmasságra vonatkozó adatait, képesítéssel kapcsolatos adatait, valamint arra vonatkozó adatokat, hogy büntetlen előéletű, továbbá hajózási képesítéshez kötött foglalkozásától vagy járművezetéstől eltiltás hatálya alatt nem áll,
+- b) a hajózási képesítésekről szóló miniszteri rendelet és a hivatásos hajós képesítésekről szóló miniszteri rendelet szerinti hajózásiképesítő vizsgára jelentkező és a vizsgát tett személy természetes személyazonosító adatait, egészségi alkalmasságra vonatkozó adatait, képesítéssel kapcsolatos adatait, valamint arra vonatkozó adatokat, hogy büntetlen előéletű, továbbá hajózási képesítéshez kötött foglalkozásától vagy járművezetéstől eltiltás hatálya alatt nem áll,
 - c) a hajózási engedélyes, vezető természetes személyazonosító és lakcím adatait, képesítéssel kapcsolatos adatait, valamint arra vonatkozó adatokat, hogy büntetlen előéletű, továbbá hajózási képesítéshez kötött foglalkozásától vagy járművezetéstől eltiltás hatálya alatt nem áll,
 - d) a hajó- és úszómunkagép bizonyítványok jegyzékében szereplő tulajdonos természetes személyazonosító és lakcím adatait,
 - e) az úszólétesítmények lajstromába bejegyzett személy természetes személyazonosító és lakcím adatait,
@@ -735,7 +743,7 @@ nyújtani, valamint – szükség esetén – gondoskodni arról, hogy a beteg a
 
 kezeli.
 
-(4a) A Vizsgaközpont az e törvényben, valamint a hajózási képesítésekről szóló miniszteri rendeletben meghatározott vizsgáztatási tevékenységével összefüggésben jogosult a (4) bekezdés a) pontjában foglalt, valamint a hajózási képesítő vizsgára jelentkező és a vizsgát tett személy egészségi alkalmasságra vonatkozó adatait a vizsgára jelentkezéstől számítottan két évig, a vizsgára jelentkező és a vizsgát tett személy természetes személyazonosító adatait, képesítéssel kapcsolatos adatait kezelni és – ezek hitelességének utólagos igazolása céljából – nyilvántartani a vizsga letételét követő 40 évig.
+(4a) A Vizsgaközpont az e törvényben, valamint a hajózási képesítésekről szóló miniszteri rendeletben és a hivatásos hajós képesítésekről szóló miniszteri rendeletben meghatározott vizsgáztatási tevékenységével összefüggésben jogosult a (4) bekezdés a) pontjában foglalt, valamint a hajózási képesítő vizsgára jelentkező és a vizsgát tett személy egészségi alkalmasságra vonatkozó adatait a vizsgára jelentkezéstől számítottan két évig, a vizsgára jelentkező és a vizsgát tett személy természetes személyazonosító adatait, képesítéssel kapcsolatos adatait kezelni és – ezek hitelességének utólagos igazolása céljából – nyilvántartani a vizsga letételét követő 40 évig.
 
 (4b) A személyiadat- és lakcímnyilvántartást kezelő szerv a vizsgaközpont adatkérése alapján az úszólétesítményen fedélzeti és gépüzemi szolgálatot ellátó személyek, továbbá a hajózási üzemeltetési vezetők, valamint a kedvtelési céllal közlekedő úszólétesítmény vezetői képzésén részt vevők, illetve ehhez kapcsolódóan vizsgára jelentkezők adatainak ellenőrzése céljából díjmentesen átadja a résztvevők, valamint jelentkezők természetes személyazonosító adatait.
 
@@ -758,6 +766,12 @@ kezeli.
 (6b) A hajózási hatóság a nyilvántartásában lévő természetes személyazonosító adatokat a tengerész munkaközvetítő vagy a tengerész kölcsönbeadó nyilvántartásból való törlését követő két évig kezeli.
 
 (7) A hajó felelős vezetője vagy az úszólétesítmény üzemben tartója a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet VI. melléklet 3.1.2. pontja szerinti, a 4.3. pont alapján a belvízi hajózásra is alkalmazni rendelt előzetes tájékoztatási kötelezettségét a folyami információs szolgáltatások központ által üzemeltetett elektronikus felület használatával is teljesítheti. A folyami információs szolgáltatások központ az előzetes tájékoztatási kötelezettség keretében szolgáltatott adatokkal – a hatósági feladatok végrehajtásának biztosítása céljából – adatfeldolgozási tevékenységet végez. A Terrorelhárítási Információs és Bűnügyi Elemző Központ a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény szerint terrorista és súlyos bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. § (4) bekezdésében meghatározott feladatai ellátása érdekében az előzetes tájékoztatási kötelezettség keretében szolgáltatott személyes adatokat a folyami információs szolgáltatások központ által üzemeltetett elektronikus felülethez történő hozzáféréssel közvetlen elektronikus adatkapcsolat útján átveheti.
+
+(8) A hajózási hatóság nyilvántartásából a Bizottság elektronikus adatbázisába a következő adatokat továbbítja:
+
+- a) a kiadott uniós hajónaplók esetében a vízi jármű nevét, az európai azonosító számot vagy az európai hajóazonosító számot (ENI), a hajónapló azonosító számát, a kiállítás dátumát és a kiállító hatóság elnevezését,
+- b) a kiadott uniós hajós szolgálati könyv esetében a tulajdonos nevét és azonosító számát, a szolgálati könyv azonosító számát, a kiállítás keltét és a kiállító hatóság elnevezését, vagy
+- c) a kiadott uniós képesítő bizonyítvány esetében a bizonyítványon feltüntetett adatokat, a kiállító hatóság elnevezését, valamint a bizonyítvány státuszát.
 
 ### VII/A. Fejezet — Hajózásbiztonsági vagy közbiztonsági érdeket érintő adat kezelése
 
@@ -799,6 +813,10 @@ kezeli.
 (3)
 
 (4)
+
+48/D. § (1) A víziútban létesített vagy azt keresztező nyomvonalas létesítmények tulajdonosa, kezelője, valamint engedélyese az elektronikus hajózási térképen történő megjelenítéshez a hajózási hatóság részére megadja a hajózási szabad űrszelvény méreteit és a létesítmény elhelyezkedését leíró adatokat, amelyeket a hajózási hatóság átad az illetékes vízügyi igazgatási szerv részére.
+
+(2) Az (1) bekezdésben megjelölt adatokban bekövetkező változást, a hajózási hatóság részére legkésőbb 15 napon belül be kell jelenteni.
 
 ### VIII. Fejezet — AZ ÚSZÓLÉTESÍTMÉNY IDEIGLENES IGÉNYBEVÉTELE
 
@@ -999,6 +1017,21 @@ vonatkozó rendelkezések megsértésekor.
 (6) A jogsértés nagyon súlyos fokúnak minősül, ha az személyi sérülés vagy környezetkárosodás okozásának kockázatával jár; az ilyen mulasztásoknál általában a veszély elhárítására megfelelő intézkedések történnek, így többek között a hiba elhárítására való kötelezés – ha lehetséges és célszerű – az ellenőrzés helyén, de legkésőbb a folyamatban lévő szállítási művelet befejezésekor.
 
 60/B. § Nincs helye a hivatásos katasztrófavédelmi szerv általi bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt.
+
+60/C. § (1) A magyar vízi utakon tartózkodó kereskedelmi hajót, a lobogójától függetlenül az eljáró hatóság a 60/A. § (1) bekezdése szerint kiszabott bírság esetén – a veszélyes áru szállítmány feltartóztatására vonatkozó előírások megtartásával – a bírság, illetőleg a pénzkövetelés biztosítás megfizetéséig az általános közigazgatási rendtartásról szóló törvénynek a biztosítási intézkedésekre vonatkozó feltételei szerint feltartóztathatja.
+
+(2) A hajó nem tartóztatható fel különösen abban az esetben, ha
+
+- a) a bírságfizetésre kötelezett (kötelezettek) székhelye, illetve lakóhelye vagy szokásos tartózkodási helye Magyarország területén van és a kötelezett rendelkezik az állami adóhatóság által kiadott adószámmal, illetve adóazonosító jellel, vagy
+- b) a bírságfizetési kötelezettség teljesítéséért pénzügyi intézmény kezességet, garanciát vállal vagy a kötelezettséget belföldön bejegyzett, adószámmal rendelkező gazdálkodó szervezet átvállalja és ezt a tényt a bírságfizetésre kötelezett az eljárás során hitelt érdemlően igazolja.
+
+(3) A hajó részére a feltartóztatás idejére veszteglő helyet kell kijelölni, és a hajó okmányait – az átvételét igazoló elismervény egyidejű kiállítása és annak az úszólétesítmény vezetője részére történő átadása mellett – a feltartóztatás időtartamára el kell venni. A külföldi hatóság által kiadott okmányokat – ha azt a jogosult a feltartóztatás időtartamának lejáratát követő három napon belül nem veszi át – a kiállító hatósághoz kell megküldeni.
+
+(4) Az úszólétesítmény vezetőjét angol, német vagy orosz nyelven írásban tájékoztatni kell a kiszabott bírságról, illetve a (3) bekezdés szerint kijelölt veszteglő helyről, továbbá a bírságolási eljárás lefolytatására, illetve a hatósági ellenőrzés során foganatosítható intézkedésekre vonatkozó jogszabályi rendelkezésekről.
+
+(5) A hajó feltartóztatásából eredő kárért az eljáró hatóság felelősséggel nem tartozik.
+
+(6) Ha az eljáró hatóság az ellenőrzés során megállapítja, hogy a hajózási tevékenységre engedéllyel rendelkezőnek 60/A. § szerinti közigazgatási bírság tartozása áll fenn, az (1)–(4) bekezdésekben foglaltak szerint kell eljárni.
 
 ### XII. Fejezet — VÍZIKÖZLEKEDÉSI BALESET SZAKMAI VIZSGÁLATA
 
@@ -1206,7 +1239,7 @@ vonatkozó rendelkezések megsértésekor.
 
 (2) A kikötők használatának részletes szabályait a kikötő üzemben tartója kikötőrendben állapítja meg. A kikötőrendet – határkikötő esetén a vámhatóság és a határőrizeti szerv egyetértésével – a hajózási hatóság hagyja jóvá.
 
-(3) A közforgalmú kikötő kikötőrendjét a kikötő üzemben tartójának a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben kell hirdetnie. A kikötőrend hajóforgalmat érintő részét hajósoknak szóló hirdetményben is közzé kell tenni.
+(3) A közforgalmú kikötő kikötőrendjét – annak jóváhagyását követően – a kikötő üzemben tartója a honlapján, míg a kikötőrend hajóforgalmat érintő részét a hajózási hatóság hajósoknak szóló hirdetményben teszi közzé.
 
 86. § (1) A szükségkikötőt a hajózási hatóság jelöli ki.
 
@@ -1220,7 +1253,7 @@ vonatkozó rendelkezések megsértésekor.
 - 2. belvízi, illetőleg tengeri hajó: rendeltetésének megfelelő, nyilvántartásba vett, és építése, berendezése és felszerelése alapján belvízi, illetőleg tengeri közlekedésre alkalmas vízijármű;
 - 3. csónak: a hajónak, kompnak, vízi sporteszköznek nem minősülő
   - a) emberi erővel hajtott, felépítménnyel nem rendelkező vízijármű, amelynek testhossza nem haladja meg a kishajóra megállapított mértéket,
-  - b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza a 7 métert, névleges vitorlafelülete a 10 m2-t nem éri el, vagy motorteljesítménye legfeljebb 7,5 kW, ide nem értve az építése, berendezése és felszerelése alapján vízen való közlekedésre nem szolgáló úszóeszközt;
+  - b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza a 7 métert, névleges vitorlafelülete a 10 m2-t nem éri el, vagy motorteljesítménye legfeljebb 14,7 kW, ide nem értve az építése, berendezése és felszerelése alapján vízen való közlekedésre nem szolgáló úszóeszközt;
 - 4. egyéb úszólétesítmény: vízijárműnek, úszómunkagépnek vagy úszóműnek nem minősülő úszólétesítmény;
 - 4a. fejlesztési közreműködő: központi költségvetési és európai uniós támogatásból az állam tulajdonában lévő víziút, meder, parton lévő létesítmény és kapcsolódó ingatlanok, továbbá az országos közforgalmú kikötők létesítését, felújítását és fejlesztését, valamint ezekkel összefüggő úszólétesítmény- és egyéb eszközbeszerzéseket és -felújításokat célzó projektjavaslatok megvalósítójaként jogszabályban vagy kormányhatározatban kijelölt szervezet;
 - 5. fordítóhely: az úszólétesítmény megfordulására alkalmas hely;
@@ -1373,26 +1406,29 @@ rendeletben történő megállapítására.
 90. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) a kedvtelési célú vízi járművekről és a motoros vízi sporteszközökről, valamint a 94/25/EK irányelv hatályon kívül helyezéséről szóló 2013. november 20-i 2013/53/EU európai parlamenti és tanácsi irányelv;
-- b) a Tanács 98/41/EK irányelve (1998. június 18.) a Közösség tagállamainak kikötőibe érkező vagy onnan induló személyhajókon utazó személyek nyilvántartásáról, 8. és 9. cikk;
-- c) a Tanács 1999/63/EK irányelve (1999. június 21.) az Európai Közösség Hajótulajdonosainak Szövetsége (ECSA) és a Közlekedési Dolgozók Szakszervezeteinek Szövetsége az Európai Unióban (FST) között a tengerészek munkaidejének szervezésére vonatkozóan kötött megállapodásról, az egyes foglalkoztatáspolitikai és egészségügyi tárgyú jogszabályokkal együtt;
-- d) a Tanács 93/104/EK irányelve (1993. november 23.) a munkaidő-szervezés egyes szempontjairól, a Mt.-vel együtt;
-- e) az Európai Parlament és a Tanács 2000/34/EK irányelve (2000. június 22.) a munkaidő-szervezés egyes szempontjairól szóló 93/104/EK tanácsi irányelvnek az abból kizárt ágazatok és tevékenységek szabályozása céljából történő módosításáról, a Mt.-vel együtt;
-- f) az Európai Parlament és a Tanács 2005/44/EK irányelve (2005. szeptember 7.) a közösségi belvízi közlekedésre vonatkozó harmonizált folyami információs szolgáltatásokról, 3. cikk f) pontja, 9. cikk;
-- g) az Európai Parlament és a Tanács 2006/87/EK irányelve (2006. december 12.) a belvízi hajókra vonatkozó műszaki követelmények megállapításáról és a 82/714/EGK tanácsi irányelv hatályon kívül helyezéséről, 24. cikk.
+- b) a Közösség tagállamainak kikötőibe érkező vagy onnan induló személyhajókon utazó személyek nyilvántartásáról szóló 1998. június 18-i 98/41/EK tanácsi irányelve, 8. és 9. cikk;
+- c) az Európai Közösség Hajótulajdonosainak Szövetsége (ECSA) és a Közlekedési Dolgozók Szakszervezeteinek Szövetsége az Európai Unióban (FST) között a tengerészek munkaidejének szervezésére vonatkozóan kötött megállapodásról szóló 1999. június 21-i 1999/63/EK tanácsi irányelv, az egyes foglalkoztatáspolitikai és egészségügyi tárgyú jogszabályokkal együtt;
+- d) a munkaidő-szervezés egyes szempontjairól szóló 1993. november 23-i 93/104/EK tanácsi irányelv, az Mt.-vel együtt;
+- e) a munkaidő-szervezés egyes szempontjairól szóló 93/104/EK tanácsi irányelvnek az abból kizárt ágazatok és tevékenységek szabályozása céljából történő módosításáról szóló 2000. június 22-i 2000/34/EK európai parlamenti és tanácsi irányelv, az Mt.-vel együtt;
+- f) a közösségi belvízi közlekedésre vonatkozó harmonizált folyami információs szolgáltatásokról szóló 2005. szeptember 7-i 2005/44/EK európai parlamenti és tanácsi irányelv 3. cikk f) pontja, 9. cikk;
+- g) a belvízi hajókra vonatkozó műszaki követelmények megállapításáról és a 82/714/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2006. december 12-i 2006/87/EK európai parlamenti és tanácsi irányelv, 24. cikk;
 - h) a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvénnyel együtt, a tengeri szállítási ágazatban bekövetkező balesetek kivizsgálására irányadó alapelvek megállapításáról, valamint az 1999/35/EK tanácsi és a 2002/59/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2009. április 23-i 2009/18/EK európai parlamenti és tanácsi irányelv, az I. és II. melléklet kivételével;
-- i) az Európai Parlament és a Tanács 2003/88/EK irányelve (2003. november 4.) a munkaidő-szervezés egyes szempontjairól a munka törvénykönyvéről szóló 2012. évi I. törvénnyel együtt;
-- i)
-- j) az Európai Parlament és a Tanács (2009. április 23.) a hajótulajdonosok tengeri biztosítási kárigényre vonatkozó biztosításáról szóló 2009/20/EK irányelve a tengeri hajók kötelező biztosításáról szóló kormányrendelettel együtt,
-- k) az Európai Parlament és a Tanács (2012. november 21.) a tengerészek képzésének minimumszintjéről szóló 2008/106/EK irányelv módosításáról szóló 2012/35/EU irányelve a hajózási képesítésekről és a hajózási egészségi alkalmasság feltételeiről és vizsgálati rendjéről szóló miniszteri rendeletekkel együtt,
-- l) a Bizottság (2013. október 11.) a belvízi hajókra vonatkozó műszaki követelmények megállapításáról szóló 2006/87/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló 2013/49/EU irányelve,
-- m) a tengerészeti felszerelésekről és a 96/98/EK tanácsi irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 2014/90/EU európai parlamenti és tanácsi irányelv,
-- n) az Európai Hajózási Szövetség (EBU), az Európai Hajósok Szervezete (ESO) és az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) által kötött, a munkaidő-szervezés egyes szempontjainak a belvízi hajózási ágazaton belüli szabályozásáról szóló európai megállapodás végrehajtásáról szóló, 2014. december 19-i 2014/112/EU tanácsi irányelv, az egyes foglalkoztatáspolitikai és egészségügyi tárgyú jogszabályokkal együtt.
-- o) a tengerészek képzésének minimumszintjéről szóló 2008/106/EK irányelv módosításáról és a tagállamok által kiállított tengerészképesítési bizonyítványok kölcsönös elismeréséről szóló 2005/45/EK irányelv hatályon kívül helyezéséről szóló 2019. június 20-i (EU) 2019/1159 európai parlamenti és tanácsi irányelv.
+- i) a munkaidő-szervezés egyes szempontjairól szóló 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelv a munka törvénykönyvéről szóló 2012. évi I. törvénnyel együtt;
+- j) a hajótulajdonosok tengeri biztosítási kárigényre vonatkozó biztosításáról szóló 2009. április 23-i 2009/20/EK európai parlamenti és tanácsi irányelv a tengeri hajók kötelező biztosításáról szóló kormányrendelettel együtt;
+- k) a tengerészek képzésének minimumszintjéről szóló 2008/106/EK irányelv módosításáról szóló 2012. november 21-i 2012/35/EU európai parlamenti és tanácsi irányelv a hajózási képesítésekről és a hajózási egészségi alkalmasság feltételeiről és vizsgálati rendjéről szóló miniszteri rendeletekkel együtt;
+- l) a belvízi hajókra vonatkozó műszaki követelmények megállapításáról szóló 2006/87/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló 2013. október 11-i 2013/49/EU bizottsági irányelv;
+- m) a tengerészeti felszerelésekről és a 96/98/EK tanácsi irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 2014/90/EU európai parlamenti és tanácsi irányelv;
+- n) az Európai Hajózási Szövetség (EBU), az Európai Hajósok Szervezete (ESO) és az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) által kötött, a munkaidő-szervezés egyes szempontjainak a belvízi hajózási ágazaton belüli szabályozásáról szóló európai megállapodás végrehajtásáról szóló, 2014. december 19-i 2014/112/EU tanácsi irányelv, az egyes foglalkoztatáspolitikai és egészségügyi tárgyú jogszabályokkal együtt;
+- o) a tengerészek képzésének minimumszintjéről szóló 2008/106/EK irányelv módosításáról és a tagállamok által kiállított tengerészképesítési bizonyítványok kölcsönös elismeréséről szóló 2005/45/EK irányelv hatályon kívül helyezéséről szóló 2019. június 20-i (EU) 2019/1159 európai parlamenti és tanácsi irányelv;
+- p) a belvízi hajózásban szükséges szakmai képesítések elismeréséről, valamint a 91/672/EGK és a 96/50/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2397 európai parlamenti és tanácsi irányelv;
+- q) az (EU) 2017/2397 európai parlamenti és tanácsi irányelvnek a kompetenciákra és a kapcsolódó ismeretekre és készségekre, a gyakorlati vizsgákra, a szimulátorok jóváhagyására és az egészségi alkalmasságra vonatkozó szabványok tekintetében történő kiegészítéséről szóló, 2019. augusztus 2-i (EU) 2020/12 bizottsági felhatalmazáson alapuló irányelv.
 
 91. § Ez a törvény
 
 - a) az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet és
 - b) az európai hajóadatbázisról szóló, 2020. január 20-i (EU) 2020/474 felhatalmazáson alapuló bizottsági rendelet
+- c) az (EU) 2017/2397 európai parlamenti és tanácsi irányelvnek az uniós képesítő bizonyítványok, szolgálati könyvek és hajónaplók adatbázisaira vonatkozó előírások tekintetében történő kiegészítéséről szóló, 2020. január 20-i (EU) 2020/473 bizottsági felhatalmazáson alapuló rendelet és
+- d) a belvízi hajózási szakmai képesítések tekintetében alkalmazott mintákról szóló, 2020. január 14-i (EU) 2020/182 bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 

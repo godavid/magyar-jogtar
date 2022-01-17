@@ -2108,9 +2108,11 @@ adatokat továbbítja.
 
 (1a) Az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (5) bekezdése alapján a Budapest IV. kerület 76561/221 helyrajzi számú ingatlan (a továbbiakban: Ingatlan) üzemeltetéséhez, valamint az Ingatlanon végzett sporttevékenység ellátásához kapcsolódó állami tulajdonú ingó vagyonelemek vagyonkezelőjeként a Vasas Sport Clubot (székhely: Budapest 1139, Fáy utca 58.) jelöli ki.
 
-(2) Az (1) és (1a) bekezdésben meghatározott vagyonkezelői jog létesítése ingyenesen történik.
+(2) Az (1) és (1a) bekezdésben meghatározott vagyonkezelői jog létesítése ingyenesen történik. A vagyonkezelő a vagyonkezelői jog gyakorlásának ellenértékeként a (3) bekezdés szerint meghatározott vagyonkezelési díjat köteles fizetni.
 
-76/C. § A 76/B. § alapján keletkező vagyonkezelői jogviszonyra egyebekben a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársasággal kötött vagyonkezelési szerződésre vonatkozó jogszabályi rendelkezéseket kell alkalmazni azzal, hogy a vagyonkezelési szerződés felmondása csak jogszabályban meghatározott rendkívüli felmondási okok bekövetkezte esetén lehetséges bármelyik fél részéről.
+(3) A vagyonkezelési díj mértéke a vagyonkezelt ingatlan tárgyévet megelőző év november 1. napján érvényes ingatlanforgalmi értékbecslés alapján megállapított értékének 0,5 százaléka. A Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) a vagyonkezelési díj összegét évente állapítja meg. Az MNV Zrt. a tárgyévet megelőző év november 30. napjáig tájékoztatja a vagyonkezelőt a tárgyévben fizetendő vagyonkezelési díj összegéről és jogosult a vagyonkezelési szerződés vagyonkezelési díj tekintetében történő egyoldalú módosítására.
+
+76/C. § A 76/B. § alapján keletkező vagyonkezelői jogviszonyra egyebekben az MNV Zrt.-vel kötött vagyonkezelési szerződésre vonatkozó jogszabályi rendelkezéseket kell alkalmazni azzal, hogy a vagyonkezelési szerződés felmondása csak jogszabályban meghatározott rendkívüli felmondási okok bekövetkezte esetén lehetséges bármelyik fél részéről.
 
 ### X/B. Fejezet — NEMZETI SPORTINFORMÁCIÓS RENDSZER
 
@@ -2293,6 +2295,8 @@ televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal (p
 78/O. § E törvénynek a sportról szóló 2004. évi I. törvény módosításáról szóló 2020. évi XCV. törvénnyel megállapított 33. § (2) bekezdés e) pontját és (2b) bekezdését a 2020–2021-es versenyrendszerbe (bajnokságba) való nevezés során is alkalmazni kell.
 
 78/P. § A játékosügynöki tevékenység szabályozásával összefüggésben a sportról szóló 2004. évi I. törvény módosításáról szóló 2021. évi LXXXVII. törvénnyel megállapított 37/D. § (2) bekezdése és 37/D. § (4) bekezdés b) pontja a 2021. december 31-ét követő igazolások, átigazolások esetében alkalmazandó.
+
+78/Q. § Az egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongazdálkodást és nemzeti pénzügyi szolgáltatásokat érintő törvények módosításáról szóló 2021. évi CXXXIII. törvénnyel (a továbbiakban: Módtv10.) megállapított 76/B. § (3) bekezdését a Módtv10. hatálybalépését megelőzően megkötött vagyonkezelési szerződések tekintetében 2023. január 1-től kell alkalmazni.
 
 ### Felhatalmazó rendelkezések
 
