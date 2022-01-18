@@ -194,13 +194,7 @@ az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvény
 
 75. § (1)
 
-(2) A megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvény 4. § (3)–(5) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(3) Fenntarthatósági bizonyítvány és a mezőgazdasági igazgatási szerv, valamint az erdészeti hatóság nyilvántartásában szereplő adatokra vonatkozó hatósági bizonyítvány kiadására irányuló eljárásban kizárt a sommás eljárás alkalmazása.
-
-(4) A mezőgazdasági igazgatási szerv, valamint az erdészeti hatóság részére a bioüzemanyagok, folyékony bio-energiahordozók, biomasszából előállított tüzelőanyagok vagy ezek alapanyagául szolgáló termékek előállításához kapcsolódó fenntartható minősítés ellenőrzéséért, a nyilvántartásba vételéért, továbbá a fenntarthatósági bizonyítvány kiállításáért az e törvény végrehajtására kiadott rendeletben meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
-
-(5) A mezőgazdasági igazgatási szerv által vezetett, a 8/A. § (1) bekezdése szerinti, valamint az e törvény végrehajtására kiadott rendelet szerinti nyilvántartásba vétel hatályának további egy évvel történő meghosszabbítására irányuló eljárást a mezőgazdasági igazgatási szerv – az eljárás végleges vagy jogerős lezárásáig – felfüggeszti, ha a nyilvántartottal szemben az e törvény végrehajtására kiadott rendelet szerinti adatszolgáltatási kötelezettség megszegése miatt hatósági nyilvántartásból való törlési eljárás van folyamatban.”
+(2)
 
 (3)
 
@@ -276,11 +270,7 @@ az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvény
 
 104. §
 
-105. § A közúti közlekedésről szóló 1988. évi I. törvény 23. §-a a következő (4a) és (4b) bekezdéssel egészül ki:
-
-„(4a) A (4) bekezdés szerinti eljárásokban a járműforgalmazó a közlekedési hatóság által kiadott engedély alapján a közúti közlekedésre vonatkozó közigazgatási hatósági ügyekben alkalmazandó kiegészítő eljárási szabályokról szóló kormányrendeletben meghatározottak szerint, tanúsítóként a tényállás tisztázásában közreműködik.
-
-(4b) A közlekedési hatóság a (4a) bekezdésben meghatározott engedélyköteles tevékenységet engedély nélkül vagy az engedélyben foglaltaktól eltérő módon végzőt 100 000 forinttól 1 000 000 forintig terjedő bírság fizetésére kötelezheti. A bírság ismételten kiszabható. A bírság kiszabása mellett a közlekedési hatóság a járműforgalmazó tevékenységét – törvényben vagy kormányrendeletben meghatározott esetekben – felfüggesztheti, az engedélyt visszavonhatja, valamint törvényben vagy kormányrendeletben meghatározott esetben a járműforgalmazót a tevékenység végzésétől eltilthatja.”
+105. §
 
 106. §
 
@@ -367,146 +357,33 @@ lép.
 
 #### 19. A víziközlekedésről szóló 2000. évi XLII. törvény módosítása
 
-137. § (1) A víziközlekedésről szóló 2000. évi XLII. törvény 26. § (1) bekezdése helyébe a következő rendelkezés lép:
+137. §
 
-„(1) Úszólétesítményt a hajózási képesítésekről szóló miniszteri rendeletben és a hivatásos hajós képesítésekről szóló miniszteri rendeletben meghatározott képesítéssel rendelkező, egészségileg és a biztonságos munkavégzésre – kedvtelési célú hajó esetében vezetésre – alkalmas állapotban lévő személyzet működtethet.”
+138. §
 
-(2) A víziközlekedésről szóló 2000. évi XLII. törvény 26. §-a a következő (8) bekezdéssel egészül ki:
+139. §
 
-„(8) A vizsgaközpont, valamint a hajózási hatóság a jogszabály által meghatározott feladat- és hatáskörét érintően biztosítja, hogy a hivatásos hajós képesítésekkel kapcsolatos kompetenciák megszerzésével és értékelésével kapcsolatos tevékenységet, valamint az uniós képesítő bizonyítvánnyal, a szolgálati könyvvel és a hajónaplóval kapcsolatos adminisztrációt 2037. január 17-ig, azt követően pedig legalább tízévente független szerv értékelje. A vizsgaközpont, valamint a hajózási hatóság az értékelések eredményeit dokumentálja és az érintett hatóságok tudomására hozza.”
+140. §
 
-138. § A víziközlekedésről szóló 2000. évi XLII. törvény 26/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+141. §
 
-„(1) A hajózási képesítésekről szóló miniszteri rendeletben és a hivatásos hajós képesítésekről szóló miniszteri rendeletben meghatározott vizsgát – jogszabály eltérő rendelkezése hiányában – a vizsgaközpont vizsgaszabályzata szerint kell lefolytatni. A vizsgáztatás során vizsgabiztosként csak olyan személy vehet részt, akinek a tevékenységét a hajózási hatóság engedélyezte, büntetlen előéletű, és nem áll vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.”
+142. §
 
-139. § A víziközlekedésről szóló 2000. évi XLII. törvény 31/A. §-a helyébe a következő rendelkezés lép:
+143. §
 
-„31/A. § Úszólétesítményen – amennyiben jogszabály eltérően nem rendelkezik – az úszómű kivételével tizenhatodik életévét be nem töltött személy – a felügyelet melletti hajózási gyakorlat megszerzése kivételével – munkát nem végezhet. Tizennyolcadik életévét be nem töltött személy úszólétesítményen éjszakai munkát kivételesen – kiképzési célból, havária vagy más úszólétesítmény mentése esetén – végezhet.”
+144. §
 
-140. § (1) A víziközlekedésről szóló 2000. évi XLII. törvény 46. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+145. §
 
-(A hajónaplóba folyamatosan be kell jegyezni:)
+146. §
 
-„c) a hajón szolgálatot teljesítő személyek nevét és a szolgálatváltások időpontját;”
+147. §
 
-(2) A víziközlekedésről szóló 2000. évi XLII. törvény 46. § (2) bekezdése helyébe a következő rendelkezés lép:
+148. §
 
-„(2) Hajónapló vezetésére kötelezett belvízi úszólétesítményen az (EU) 2020/182 bizottsági végrehajtási rendelet V. melléklete szerint kiállított hajónaplóba az (1) bekezdés f)–i) pontjaiban meghatározott adatokat nem kell bejegyezni. A menetrend szerint közlekedő személyhajón az (1) bekezdés a) pontjában meghatározott adatok hajónaplóba való bejegyzésénél elegendő a menetrendre utalni.”
+149. §
 
-(3) A víziközlekedésről szóló 2000. évi XLII. törvény 46. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Hajónaplóként a hajózási hatóság által kiadott és hitelesített hajónapló használható. Az úszólétesítmény egy aktív hajónaplót alkalmazhat.”
-
-141. § (1) A víziközlekedésről szóló 2000. évi XLII. törvény 48. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Azt az egészségileg alkalmas személyt, aki az alap biztonsági kompetenciákat megszerezte és belvízi úszólétesítményen teljesít szolgálatot vagy szolgálatot kíván teljesíteni – kérelmére – a vizsgaközpont az EU 2020/182 bizottsági végrehajtási rendelet II. vagy IV. melléklete szerinti szolgálati könyvvel látja el. A hajós szolgálati könyv papír alapú vagy elektronikus formátumú. A vizsgaközpont az általa kiadott szolgálati könyvek adatait bejegyzi a hajózási hatóság nyilvántartásába.”
-
-(2) A víziközlekedésről szóló 2000. évi XLII. törvény 48. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Azt az egészségileg alkalmas személyt, aki az alap biztonsági kompetenciákat megszerezte és tengeren közlekedő úszólétesítményen teljesít szolgálatot, vagy szolgálatot kíván teljesíteni – kérelmére – a vizsgaközpont tengerész szolgálati könyvvel látja el.”
-
-142. § A víziközlekedésről szóló 2000. évi XLII. törvény 48/A. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) A hajózási hatóság nyilvántartásából a Bizottság elektronikus adatbázisába a következő adatokat továbbítja:
-
-a) a kiadott uniós hajónaplók esetében a vízi jármű nevét, az európai azonosító számot vagy az európai hajóazonosító számot (ENI), a hajónapló azonosító számát, a kiállítás dátumát és a kiállító hatóság elnevezését,
-
-b) a kiadott uniós hajós szolgálati könyv esetében a tulajdonos nevét és azonosító számát, a szolgálati könyv azonosító számát, a kiállítás keltét és a kiállító hatóság elnevezését, vagy
-
-c) a kiadott uniós képesítő bizonyítvány esetében a bizonyítványon feltüntetett adatokat, a kiállító hatóság elnevezését, valamint a bizonyítvány státuszát.”
-
-143. § A víziközlekedésről szóló 2000. évi XLII. törvény VII/A. Fejezete a következő 48/D. §-sal egészül ki:
-
-„48/D. § (1) A víziútban létesített vagy azt keresztező nyomvonalas létesítmények tulajdonosa, kezelője, valamint engedélyese az elektronikus hajózási térképen történő megjelenítéshez a hajózási hatóság részére megadja a hajózási szabad űrszelvény méreteit és a létesítmény elhelyezkedését leíró adatokat, amelyeket a hajózási hatóság átad az illetékes vízügyi igazgatási szerv részére.
-
-(2) Az (1) bekezdésben megjelölt adatokban bekövetkező változást, a hajózási hatóság részére legkésőbb 15 napon belül be kell jelenteni.”
-
-144. § A víziközlekedésről szóló 2000. évi XLII. törvény XI. Fejezete a következő 60/C. §-sal egészül ki:
-
-„60/C. § (1) A magyar vízi utakon tartózkodó kereskedelmi hajót, a lobogójától függetlenül az eljáró hatóság a 60/A. § (1) bekezdése szerint kiszabott bírság esetén – a veszélyes áru szállítmány feltartóztatására vonatkozó előírások megtartásával – a bírság, illetőleg a pénzkövetelés biztosítás megfizetéséig az általános közigazgatási rendtartásról szóló törvénynek a biztosítási intézkedésekre vonatkozó feltételei szerint feltartóztathatja.
-
-(2) A hajó nem tartóztatható fel különösen abban az esetben, ha
-
-a) a bírságfizetésre kötelezett (kötelezettek) székhelye, illetve lakóhelye vagy szokásos tartózkodási helye Magyarország területén van és a kötelezett rendelkezik az állami adóhatóság által kiadott adószámmal, illetve adóazonosító jellel, vagy
-
-b) a bírságfizetési kötelezettség teljesítéséért pénzügyi intézmény kezességet, garanciát vállal vagy a kötelezettséget belföldön bejegyzett, adószámmal rendelkező gazdálkodó szervezet átvállalja és ezt a tényt a bírságfizetésre kötelezett az eljárás során hitelt érdemlően igazolja.
-
-(3) A hajó részére a feltartóztatás idejére veszteglő helyet kell kijelölni, és a hajó okmányait – az átvételét igazoló elismervény egyidejű kiállítása és annak az úszólétesítmény vezetője részére történő átadása mellett – a feltartóztatás időtartamára el kell venni. A külföldi hatóság által kiadott okmányokat – ha azt a jogosult a feltartóztatás időtartamának lejáratát követő három napon belül nem veszi át – a kiállító hatósághoz kell megküldeni.
-
-(4) Az úszólétesítmény vezetőjét angol, német vagy orosz nyelven írásban tájékoztatni kell a kiszabott bírságról, illetve a (3) bekezdés szerint kijelölt veszteglő helyről, továbbá a bírságolási eljárás lefolytatására, illetve a hatósági ellenőrzés során foganatosítható intézkedésekre vonatkozó jogszabályi rendelkezésekről.
-
-(5) A hajó feltartóztatásából eredő kárért az eljáró hatóság felelősséggel nem tartozik.
-
-(6) Ha az eljáró hatóság az ellenőrzés során megállapítja, hogy a hajózási tevékenységre engedéllyel rendelkezőnek 60/A. § szerinti közigazgatási bírság tartozása áll fenn, az (1)–(4) bekezdésekben foglaltak szerint kell eljárni.”
-
-145. § A víziközlekedésről szóló 2000. évi XLII. törvény 85. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A közforgalmú kikötő kikötőrendjét – annak jóváhagyását követően – a kikötő üzemben tartója a honlapján, míg a kikötőrend hajóforgalmat érintő részét a hajózási hatóság hajósoknak szóló hirdetményben teszi közzé.”
-
-146. § A víziközlekedésről szóló 2000. évi XLII. törvény 87. § 3. pont b) alpontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában
-
-csónak: a hajónak, kompnak, vízi sporteszköznek nem minősülő)
-
-„b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza a 7 métert, névleges vitorlafelülete a 10 m2-t nem éri el, vagy motorteljesítménye legfeljebb 14,7 kW, ide nem értve az építése, berendezése és felszerelése alapján vízen való közlekedésre nem szolgáló úszóeszközt;”
-
-147. § A víziközlekedésről szóló 2000. évi XLII. törvény 90. §-a helyébe a következő rendelkezés lép:
-
-„90. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
-
-a) a kedvtelési célú vízi járművekről és a motoros vízi sporteszközökről, valamint a 94/25/EK irányelv hatályon kívül helyezéséről szóló 2013. november 20-i 2013/53/EU európai parlamenti és tanácsi irányelv;
-
-b) a Közösség tagállamainak kikötőibe érkező vagy onnan induló személyhajókon utazó személyek nyilvántartásáról szóló 1998. június 18-i 98/41/EK tanácsi irányelve, 8. és 9. cikk;
-
-c) az Európai Közösség Hajótulajdonosainak Szövetsége (ECSA) és a Közlekedési Dolgozók Szakszervezeteinek Szövetsége az Európai Unióban (FST) között a tengerészek munkaidejének szervezésére vonatkozóan kötött megállapodásról szóló 1999. június 21-i 1999/63/EK tanácsi irányelv, az egyes foglalkoztatáspolitikai és egészségügyi tárgyú jogszabályokkal együtt;
-
-d) a munkaidő-szervezés egyes szempontjairól szóló 1993. november 23-i 93/104/EK tanácsi irányelv, az Mt.-vel együtt;
-
-e) a munkaidő-szervezés egyes szempontjairól szóló 93/104/EK tanácsi irányelvnek az abból kizárt ágazatok és tevékenységek szabályozása céljából történő módosításáról szóló 2000. június 22-i 2000/34/EK európai parlamenti és tanácsi irányelv, az Mt.-vel együtt;
-
-f) a közösségi belvízi közlekedésre vonatkozó harmonizált folyami információs szolgáltatásokról szóló 2005. szeptember 7-i 2005/44/EK európai parlamenti és tanácsi irányelv 3. cikk f) pontja, 9. cikk;
-
-g) a belvízi hajókra vonatkozó műszaki követelmények megállapításáról és a 82/714/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 2006. december 12-i 2006/87/EK európai parlamenti és tanácsi irányelv, 24. cikk;
-
-h) a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvénnyel együtt, a tengeri szállítási ágazatban bekövetkező balesetek kivizsgálására irányadó alapelvek megállapításáról, valamint az 1999/35/EK tanácsi és a 2002/59/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2009. április 23-i 2009/18/EK európai parlamenti és tanácsi irányelv, az I. és II. melléklet kivételével;
-
-i) a munkaidő-szervezés egyes szempontjairól szóló 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelv a munka törvénykönyvéről szóló 2012. évi I. törvénnyel együtt;
-
-j) a hajótulajdonosok tengeri biztosítási kárigényre vonatkozó biztosításáról szóló 2009. április 23-i 2009/20/EK európai parlamenti és tanácsi irányelv a tengeri hajók kötelező biztosításáról szóló kormányrendelettel együtt;
-
-k) a tengerészek képzésének minimumszintjéről szóló 2008/106/EK irányelv módosításáról szóló 2012. november 21-i 2012/35/EU európai parlamenti és tanácsi irányelv a hajózási képesítésekről és a hajózási egészségi alkalmasság feltételeiről és vizsgálati rendjéről szóló miniszteri rendeletekkel együtt;
-
-l) a belvízi hajókra vonatkozó műszaki követelmények megállapításáról szóló 2006/87/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló 2013. október 11-i 2013/49/EU bizottsági irányelv;
-
-m) a tengerészeti felszerelésekről és a 96/98/EK tanácsi irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 2014/90/EU európai parlamenti és tanácsi irányelv;
-
-n) az Európai Hajózási Szövetség (EBU), az Európai Hajósok Szervezete (ESO) és az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) által kötött, a munkaidő-szervezés egyes szempontjainak a belvízi hajózási ágazaton belüli szabályozásáról szóló európai megállapodás végrehajtásáról szóló, 2014. december 19-i 2014/112/EU tanácsi irányelv, az egyes foglalkoztatáspolitikai és egészségügyi tárgyú jogszabályokkal együtt;
-
-o) a tengerészek képzésének minimumszintjéről szóló 2008/106/EK irányelv módosításáról és a tagállamok által kiállított tengerészképesítési bizonyítványok kölcsönös elismeréséről szóló 2005/45/EK irányelv hatályon kívül helyezéséről szóló 2019. június 20-i (EU) 2019/1159 európai parlamenti és tanácsi irányelv;
-
-p) a belvízi hajózásban szükséges szakmai képesítések elismeréséről, valamint a 91/672/EGK és a 96/50/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2397 európai parlamenti és tanácsi irányelv;
-
-q) az (EU) 2017/2397 európai parlamenti és tanácsi irányelvnek a kompetenciákra és a kapcsolódó ismeretekre és készségekre, a gyakorlati vizsgákra, a szimulátorok jóváhagyására és az egészségi alkalmasságra vonatkozó szabványok tekintetében történő kiegészítéséről szóló, 2019. augusztus 2-i (EU) 2020/12 bizottsági felhatalmazáson alapuló irányelv.”
-
-148. § A víziközlekedésről szóló 2000. évi XLII. törvény 91. §-a a következő c) és d) ponttal egészül ki:
-
-(Ez a törvény)
-
-„c) az (EU) 2017/2397 európai parlamenti és tanácsi irányelvnek az uniós képesítő bizonyítványok, szolgálati könyvek és hajónaplók adatbázisaira vonatkozó előírások tekintetében történő kiegészítéséről szóló, 2020. január 20-i (EU) 2020/473 bizottsági felhatalmazáson alapuló rendelet és
-
-d) a belvízi hajózási szakmai képesítések tekintetében alkalmazott mintákról szóló, 2020. január 14-i (EU) 2020/182 bizottsági végrehajtási rendelet”
-
-(végrehajtásához szükséges rendelkezéseket állapít meg.)
-
-149. § A víziközlekedésről szóló 2000. évi XLII. törvény
-
-- a) 48/A. § (4) bekezdés b) pontjában a „képesítő” szövegrész helyébe a „képesítésekről szóló miniszteri rendelet és a hivatásos hajós képesítésekről szóló miniszteri rendelet szerinti hajózásiképesítő” szöveg,
-- b) 48/A. § (4a) bekezdésében a „rendeletben meghatározott” szövegrész helyébe a „rendeletben és a hivatásos hajós képesítésekről szóló miniszteri rendeletben meghatározott” szöveg
-
-lép.
-
-150. § Hatályát veszti a víziközlekedésről szóló 2000. évi XLII. törvény 4. § (6) bekezdése.
+150. §
 
 #### 20. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása
 
@@ -618,15 +495,7 @@ lép.
 
 #### 27. A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény módosítása
 
-195. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 29. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Törvény felhatalmazása alapján
-
-a) a Magyar Nemzeti Bank elnöke, a Nemzeti Média- és Hírközlési Hatóság elnöke, a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke, a Szabályozott Tevékenységek Felügyeleti Hatósága elnöke és az Országos Atomenergia Hivatal elnöke rendeletben igazgatási szolgáltatási díjat, pótdíjat,
-
-b) a Szabályozott Tevékenységek Felügyeleti Hatósága elnöke rendeletben felügyeleti díjat
-
-állapíthat meg.”
+195. §
 
 #### 28. A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény módosítása
 

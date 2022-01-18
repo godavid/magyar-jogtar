@@ -106,21 +106,15 @@ egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongaz
 
 11. §
 
-12. § A sportról szóló 2004. évi I. törvény 76/B. § (2) bekezdése helyébe a következő rendelkezés lép és a § a következő (3) bekezdéssel egészül ki:
-
-„(2) Az (1) és (1a) bekezdésben meghatározott vagyonkezelői jog létesítése ingyenesen történik. A vagyonkezelő a vagyonkezelői jog gyakorlásának ellenértékeként a (3) bekezdés szerint meghatározott vagyonkezelési díjat köteles fizetni.
-
-(3) A vagyonkezelési díj mértéke a vagyonkezelt ingatlan tárgyévet megelőző év november 1. napján érvényes ingatlanforgalmi értékbecslés alapján megállapított értékének 0,5 százaléka. A Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) a vagyonkezelési díj összegét évente állapítja meg. Az MNV Zrt. a tárgyévet megelőző év november 30. napjáig tájékoztatja a vagyonkezelőt a tárgyévben fizetendő vagyonkezelési díj összegéről és jogosult a vagyonkezelési szerződés vagyonkezelési díj tekintetében történő egyoldalú módosítására.”
+12. §
 
 13. §
 
-14. § A sportról szóló 2004. évi I. törvény „Hatályba léptető és átmeneti rendelkezések” alcíme a következő 78/Q. §-sal egészül ki:
-
-„78/Q. § Az egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongazdálkodást és nemzeti pénzügyi szolgáltatásokat érintő törvények módosításáról szóló 2021. évi CXXXIII. törvénnyel (a továbbiakban: Módtv10.) megállapított 76/B. § (3) bekezdését a Módtv10. hatálybalépését megelőzően megkötött vagyonkezelési szerződések tekintetében 2023. január 1-től kell alkalmazni.”
+14. §
 
 15. §
 
-16. § A sportról szóló 2004. évi I. törvény 76/C. §-ában az „a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársasággal” szövegrész helyébe az „az MNV Zrt.-vel” szöveg lép.
+16. §
 
 #### 11. Az állami vagyonról szóló 2007. évi CVI. törvény módosítása
 
