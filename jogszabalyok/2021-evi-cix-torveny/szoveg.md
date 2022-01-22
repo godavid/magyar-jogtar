@@ -16,7 +16,7 @@ a Magyarország Kormánya és Ukrajna Miniszteri Kabinetje között a végzetts�
 
 5. § Az e törvény végrehajtásához szükséges intézkedésekről a felsőoktatással összefüggő feladat- és hatáskörök tekintetében oktatásért felelős miniszter gondoskodik.
 
-6. § Hatályát veszti a Magyar Köztársaság Kormánya és Ukrajna Kormánya között a Magyar Köztársaságban és Ukrajnában folytatott tanulmányokat és végzettséget tanúsító okiratok, valamint tudományos fokozatok egyenértékűségének kölcsönös elismeréséről szóló Egyezmény kihirdetéséről szóló 14/1999. (II. 5.) Korm. rendelet.
+6. §
 
 ### 1. melléklet a 2021. évi CIX. törvényhez
 
