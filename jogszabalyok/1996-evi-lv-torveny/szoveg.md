@@ -1011,7 +1011,7 @@ a vadászat alkalmával köteles magánál tartani, és azt a vadászatra jogosu
 
 (4) A vizsgának megfelelő szakirányú képesítés és képzettség jegyzékét a miniszter az e törvény felhatalmazása alapján kiadott rendeletben állapítja meg.
 
-(5) A vizsga letételekor a miniszter által az e törvény felhatalmazása alapján kiadott rendeletben megállapított összegű díjat kell fizetni.
+(5) A vizsga, valamint a (2a) bekezdés a)–c) pontja szerinti kiegészítő vizsga letételekor a miniszter által az e törvény felhatalmazása alapján kiadott rendeletben megállapított összegű díjat kell fizetni.
 
 (6) Mentesül a vizsgára felkészítő és azt megelőző tanfolyam elvégzésének kötelezettsége alól, aki az e törvény végrehajtására kiadott rendeletben meghatározott középfokú vagy felsőfokú vadgazdálkodási-vadászati képzettséggel vagy képesítéssel rendelkezik.
 
@@ -1155,32 +1155,26 @@ az e törvény végrehajtására kiadott rendeletben meghatározott vadfajok ál
 
 (3) A zárttéri vadtartó létesítményben tartott és elejtett trófeás vad esetében a trófeabírálat adatainak nyilvántartása a szabad területen elejtett trófeás vad adatainak nyilvántartásától elkülönítetten történik. Az adott vadfaj vadászatára létesült vadaskertben elejtett trófeás vad elejtése nem minősíthető szakszerűtlennek.
 
-74/B. § (1) A trófeabírálat rendjének és sajátos szabályainak egységesítését az Országos Trófeabíráló Testület látja el.
+74/B. § (1) Az Országos Trófeabíráló Testület olyan, legalább 5 főből álló testület, amely a trófeabírálat terén kiemelkedő elméleti és gyakorlati ismeretekkel rendelkező személyekből áll. Elnökét és tagjait a miniszter nevezi ki és hívja vissza. Az Országos Trófeabíráló Testület egy tagjának személyére a Vadászkamara tesz javaslatot.
 
-(2) Az Országos Trófeabíráló Testület olyan 5 főből álló testület, amelynek elnökét és tagjait – a (4) bekezdés szerinti kivétellel – a miniszter nevezi ki.
-
-(3) Az Országos Trófeabíráló Testület tagjai
-
-- a) a minisztérium 1 képviselője;
-- b) a másodfokú vadászati hatóság 1 képviselője;
-- c) az Országos Magyar Vadászkamara 1 képviselője;
-- d) a miniszter által kijelölt további 1 személy.
-
-(4) Az Országos Trófeabíráló Testület tagja továbbá azon területi vadászati hatóság elsőfokú trófeabírálati eljárásában részt nem vevő delegáltja, amelynél a felülbírálatra bemutatott trófea elsőfokú bírálatát elvégezték.
-
-(5) Az Országos Trófeabíráló Testület működési feltételeit a miniszter biztosítja.
-
-(6) Az Országos Trófeabíráló Testület
+(2) Az Országos Trófeabíráló Testület
 
 - a) elvégzi az e törvény végrehajtására kiadott rendeletben meghatározott nemzetközi ponthatárt elérő trófeák felülbírálatát,
-- b) gondoskodik a hazai szabadterületi és zárttéri trófearanglista elkülönített vezetéséről.
+- b) gondoskodik a hazai szabadterületi és zárttéri trófearanglista elkülönített vezetéséről,
+- c) ellátja a trófeabírálat rendjének és sajátos szabályainak egységesítését.
 
-(7) A miniszter az Országos Trófeabíráló Testület szakmai javaslata alapján
+(3) Az Országos Trófeabíráló Testület működési feltételeit a miniszter biztosítja.
+
+(4) A miniszter az Országos Trófeabíráló Testület szakmai javaslata alapján
 
 - a) hatósági bizonyítványt állít ki az e törvény végrehajtására kiadott rendeletben meghatározott nemzetközi ponthatárt elérő trófeák felülbírálati eredményéről,
-- b) a vadászati hatóság trófeabírálati határozata tekintetében másodfokon eljár,
-- c) határozatot hoz a rendkívüli értékű trófea nemzeti értékké nyilvánításáról,
-- d) határozatban engedélyezi a nemzeti értékké nyilvánított trófea Magyarország területéről való kivitelét.
+- b) a vadászati hatóság trófeabírálati döntése tekintetében másodfokon eljár,
+- c) dönt az e törvény végrehajtására kiadott rendelet szerinti rendkívüli értékű trófea nemzeti értékké nyilvánításáról, valamint
+- d) engedélyezheti a nemzeti értékké nyilvánított trófea Magyarország területéről való kivitelét.
+
+(5) A vadászati hatóság a trófeabírálat során a rendkívüli értékű trófea nemzeti értékké nyilvánítását kezdeményezheti a miniszternél. A nemzeti értékké nyilvánított trófeát megsemmisíteni, feldolgozni, átalakítani tilos.
+
+(6) A trófeabírálati eljárásban hozott döntés ellen a vadászati hatóság útján a miniszterhez benyújtandó fellebbezésnek van helye. A fellebbezés benyújtásakor az e törvény végrehajtására kiadott rendeletben megállapított összegű igazgatási szolgáltatási díjat kell fizetni.
 
 ### V. Fejezet — FELELŐSSÉG A VADKÁRÉRT, A VADÁSZHATÓ ÁLLAT ÁLTAL OKOZOTT KÁRÉRT, A VADÁSZATI KÁRÉRT, VALAMINT A VAD ELPUSZTÍTÁSÁVAL OKOZOTT KÁRÉRT
 
