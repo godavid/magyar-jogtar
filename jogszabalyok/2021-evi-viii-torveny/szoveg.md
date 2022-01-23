@@ -150,7 +150,7 @@ a felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények
 
 57. §
 
-58. § Nem lép hatályba a 2020. évi XXXVII. törvény 8. §-a és 9. §-a.
+58. §
 
 #### 17. A Széchenyi István Egyetemért Alapítványról, a Széchenyi István Egyetemért Alapítvány és a Széchenyi István Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVIII. törvény módosítása
 
