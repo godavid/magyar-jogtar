@@ -335,11 +335,7 @@ lép.
 
 127. §
 
-128. § A légiközlekedésről szóló 1995. évi XCVII. törvény 61/A. §-a a következő (10) és (11) bekezdéssel egészül ki:
-
-„(10) A 923/2012/EU rendeletnek, a 139/2014/EU rendeletnek és az (EU) 2017/373 rendeletnek a légiforgalmi szolgáltatásra/a léginavigációs szolgálatokra, a légtérszerkezet kialakítására, az adatminőségre és a futópálya biztonságára vonatkozó követelmények tekintetében történő módosításáról, valamint a 73/2010/EU rendelet hatályon kívül helyezéséről szóló, 2020. február 14-i (EU) 2020/469 bizottsági végrehajtási rendelet [a továbbiakban: (EU) 2020/469 bizottsági végrehajtási rendelet] III. Melléklet ATS.OR.400–ATS.OR.450 pontja alapján rögzített adatok az (EU) 2020/469 bizottsági végrehajtási rendeletben meghatározott célok mellett kutatás-fejlesztési és a légiközlekedési hatóság tevékenységével összefüggő célból, valamint a Társaság működésével összefüggő érdekből használhatók fel.
-
-(11) Az (EU) 2020/469 bizottsági végrehajtási rendelet III. Melléklet ATS.OR.400–ATS.OR.450 pontja szerinti rendszerekben tárolt adat az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 27. § (2) bekezdés h) pontjára figyelemmel a keletkezésétől számított tíz évig nem nyilvános. Ezen adatok megismerését – a légiközlekedési hatóság általi adatszolgáltatásra vonatkozó megkeresést ide nem értve – az adat megismeréséhez és a megismerhetőség kizárásához fűződő közérdek súlyának mérlegelésével a légiforgalmi szolgáltató vezetője engedélyezheti.”
+128. §
 
 129. §
 
