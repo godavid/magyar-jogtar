@@ -274,9 +274,9 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 18. §
 
-#### 14.
+#### 14. A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény módosítása
 
-19. §
+19. § A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 33/B. § (1) bekezdés a) pontjában a „vizsgálati készítmény” szövegrész helyébe a „vizsgálati gyógyszer” szöveg lép.
 
 #### 15. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
 
@@ -393,8 +393,8 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 66. § Az Eütv.
 
 - a)
-- b)
-- c)
+- b) 164. § (2) bekezdésében a „készítménnyel” szövegrész helyébe a „gyógyszerrel” szöveg,
+- c) 164/A. § (3) és (4) bekezdésében az „Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvény szerinti beavatkozással nem járó vizsgálatok” szövegrész helyébe az „Az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 4. pontja szerinti beavatkozással nem járó kutatásnak minősülő beavatkozással nem járó vizsgálat” szöveg,
 - d)
 - e)
 
@@ -466,13 +466,45 @@ lép.
 
 #### 28. Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény módosítása
 
-96. §
+96. § Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény (a továbbiakban: Gytv.) 1. § 6–8. pontja helyébe a következő rendelkezések lépnek:
 
-97. §
+(E törvény alkalmazásában:)
 
-98. §
+„6. vizsgálati gyógyszer: az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 536/2014/EU európai parlamenti és tanácsi rendelet) 2. cikk (2) bekezdés 5. pontjában meghatározott fogalom;
 
-99. §
+7. klinikai vizsgálat: az 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 2. pontjában meghatározott fogalom;
+
+8. nem kereskedelmi vizsgálat: olyan klinikai vizsgálat,
+
+a) amelynek megbízója a gyógyszeripartól független jogi személy, így különösen felsőoktatási intézmény, fekvőbeteg-szakellátást nyújtó egészségügyi intézmény, nonprofit gazdasági társaság, azzal, hogy a gyógyszeripartól való függetlenséget nem zárja ki a vizsgálati készítmény megbízó részére történő, térítésmentes rendelkezésre bocsátása, illetve a vizsgálat igazolt költségeinek a vizsgáló részére történő megtérítése,
+
+b) amelynek eredményéből keletkező adatok tulajdonosa a megbízó, és
+
+c) amelynek eredményeit illetően nem áll fenn a megbízó és harmadik személy között olyan jogviszony, amely az eredmények forgalombahozatali engedélyezés, illetve forgalomba hozatal érdekében történő felhasználásának lehetővé tételére irányul;”
+
+97. § A Gytv. „A törvény hatálya” alcímet megelőzően a következő 1/A. §-sal egészül ki:
+
+„1/A. § E törvény alkalmazásában az 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikkében meghatározott fogalmak irányadók.”
+
+98. § A Gytv. 3. §-a helyébe a következő rendelkezés lép:
+
+„3. § (1) A klinikai vizsgálat engedélyezése, illetve folytatása során az egészségügyről szóló törvény emberen végzett orvostudományi kutatásokra vonatkozó rendelkezéseit az 536/2014/EU európai parlamenti és tanácsi rendeletben és az e törvényben foglalt eltérésekkel kell alkalmazni.
+
+(2) A klinikai vizsgálatokkal kapcsolatos, az 536/2014/EU európai parlamenti és tanácsi rendelet hatálya alá tartozó hatósági ügyekben az általános közigazgatási rendtartásról szóló törvényt az 536/2014/EU európai parlamenti és tanácsi rendeletben, az e törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályokban foglalt eltérésekkel kell alkalmazni.
+
+(3) A vizsgálati gyógyszer Magyarország területén végzendő klinikai vizsgálatához, valamint az 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 13. pontja szerinti lényeges módosításhoz a gyógyszerészeti államigazgatási szerv engedélye szükséges. Az engedélyezési eljárás során az 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 11. pontja szerinti etikai bizottságként az Egészségügyi Tudományos Tanács bizottsága jár el, melynek működésére az általános közigazgatási rendtartásról szóló törvény szakhatóságokra vonatkozó rendelkezéseit nem kell alkalmazni.
+
+(4) A megbízó a klinikai vizsgálattal összefüggésben keletkezett károk megtérítésére, illetve a klinikai vizsgálattal összefüggésben megsértett személyiségi jogokért követelhető sérelemdíj megfizetésére – a kockázatoknak megfelelő – felelősségbiztosítási szerződést köt az Európai Gazdasági Térségben (a továbbiakban: EGT), illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező államban (a továbbiakban: EGT-megállapodásban részes állam) székhellyel, illetve telephellyel rendelkező biztosítóval. A felelősségbiztosításnak megfelelő fedezetet kell nyújtania a klinikai vizsgálattal kapcsolatosan esetlegesen érvényesítendő kártérítési és sérelemdíj követelésekre.
+
+(5) A klinikai vizsgálatokkal, valamint a gyógyszerekkel, kábítószerekkel, pszichotróp anyagokkal, vizsgálati gyógyszerekkel kapcsolatos hatósági ügyekben hozott döntést a közigazgatási ügyben eljáró bíróság nem változtathatja meg.
+
+(6) A megbízó a vizsgálóhellyel, illetve a vizsgálatvezetővel a klinikai vizsgálat végzésére írásban szerződést köt. A szerződés az engedélyezési eljárás előtt is megköthető, azonban érvényességének feltétele a klinikai vizsgálat hatósági engedélyezése.
+
+(7) A klinikai vizsgálat megbízója illetve az általa erre írásban feljogosított személy jogosult – gyógyszer-nagykereskedelmi engedély nélkül – beszerezni, majd a vizsgálóhelyre kiszállítani a vizsgálati tervben előírt vizsgálati illetve kiegészítő gyógyszereket.”
+
+99. § A Gytv. 4/A. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Nem szükséges gyógyszergyártási vagy nagykereskedelmi engedély az 536/2014/EU parlamenti és tanácsi rendelet 59. cikk (2) bekezdése szerinti esetben a klinikai vizsgálat megbízója, illetve az általa erre írásban feljogosított személy által a vizsgálati tervben előírt kiegészítő gyógyszerek harmadik országból történő importjához.”
 
 100. §
 
@@ -480,50 +512,66 @@ lép.
 
 102. §
 
-103. §
+103. § A Gytv. 25/B. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A díjat a kérelem benyújtásakor, az évenkénti fenntartási díjat a tárgyév január hó 31-ig kell az egészségügyért felelős miniszter rendeletében meghatározott módon a gyógyszerészeti államigazgatási szerv részére megfizetni. Az 536/2014/EU európai parlamenti és tanácsi rendelet hatálya alá tartozó eljárásokra vonatkozó igazgatási szolgáltatási díjak megfizetésének határidejére és módjára az egészségügyért felelő miniszter rendeletében további részletes szabályokat állapíthat meg.”
 
 104. §
 
-105. §
+105. § A Gytv. a következő 27/A. §-sal egészül ki:
 
-106. §
+„27/A. § Az 536/2014/EU európai parlamenti és tanácsi rendeletben meghatározott esetekben az elektronikus kapcsolattartás az 536/2014/EU európai parlamenti és tanácsi rendelet 80. cikke szerinti portál használatával valósul meg.”
 
-107. §
+106. § A Gytv. a következő 32/C. §-sal egészül ki:
 
-108. §
+„32/C. § (1) E törvénynek az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvénnyel (a továbbiakban: Módtv.) módosított 3. §-át és 1. számú mellékletét – a (2) bekezdésen meghatározottak figyelembevételével – azon klinikai vizsgálatok esetében kell alkalmazni, amelyek engedélyezése iránt a kérelmet a Módtv. 10. § (18) bekezdése szerinti naptári napon, vagy azt követően nyújtották be.
+
+(2) A Módtv. 10. § (18) bekezdése szerinti naptári naptól számított egy évig benyújtott, klinikai vizsgálat engedélyezés iránti kérelmek az 536/2014/EU rendelet 98. cikk (2) bekezdésére figyelemmel e törvénynek a Módtv. 10. § (18) bekezdése szerinti naptári napot megelőző napon hatályos 3. §-a és 1. számú melléklete szerinti is benyújthatók és elbírálhatók azzal, hogy Módtv. 10. § (18) bekezdése szerinti naptári naptól számított három év leteltével az e bekezdés szerint engedélyezett és megkezdett vizsgálatokra is a 3. § és a 1. számú melléklet Módtv.-vel módosított szövegét kell alkalmazni.
+
+(3) E törvénynek a Módtv. 10. § (18) bekezdése szerinti naptári napot megelőző napon hatályos 3. §-át és 1. számú mellékletét kell alkalmazni azon klinikai vizsgálatok esetében, amelyek engedélyezése iránt a kérelmet a Módtv. 10. § (18) bekezdése szerinti naptári napot megelőzően nyújtották be, azzal, hogy Módtv. 10. § (18) bekezdése szerinti naptári naptól számított három év leteltével ezen vizsgálatokra is a 3. § és a 1. számú melléklet Módtv.-vel módosított szövegét kell alkalmazni.”
+
+107. § A Gytv. 34. §-a a következő m) ponttal egészül ki:
+
+(Ez a törvény)
+
+„m) az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet”
+
+(végrehajtásához szükséges rendelkezéseket állapít meg.)
+
+108. § A Gytv. 1. számú melléklete a 7. melléklet szerint módosul.
 
 109. § A Gytv.
 
 - 1.
-- 2.
-- 3.
+- 2. 2. § (1) bekezdésében a „készítmények” szövegrész helyébe a „gyógyszerek” szöveg,
+- 3. 4. § (2) bekezdésében az „a külön jogszabályban meghatározott” szövegrész helyébe az „európai uniós jogi aktusban vagy jogszabályban meghatározott” szöveg,
 - 4.
 - 5.
 - 6.
 - 7.
-- 8.
+- 8. 20. § (1) bekezdésében a „készítmények” szövegrész helyébe a „gyógyszerek” szöveg,
 - 9.
-- 10.
-- 11.
+- 10. 21. §-t megelőző alcím címében a „készítmény” szövegrész helyébe a „gyógyszer” szöveg,
+- 11. 21. § (1) bekezdésében a „készítmény” szövegrész helyébe a „gyógyszer” szöveg,
 - 12.
-- 13.
+- 13. 21. § (1) bekezdés d) pontjában a „klinikai vizsgálatot végző intézmény” szövegrész helyébe a „vizsgálóhely” szöveg,
 - 14.
-- 15.
+- 15. 25/B. § (1) bekezdésében a „készítmények” szövegrész helyébe a „gyógyszerek” szöveg,
 - 16.
 - 17.
-- 18.
+- 18. 25/C. § (1) bekezdésében a „készítményt” szövegrész helyébe a „gyógyszert” szöveg,
 - 19.
 - 20.
 - 21.
-- 22.
+- 22. 1. melléklet III. J. sorában a „készítmények” szövegrész helyébe a „gyógyszerek” szöveg
 
 lép.
 
 110. § Hatályát veszti a Gytv.
 
 - a)
-- b)
-- c)
+- b) 27. §-ában a „vizsgálati készítményekkel” szövegrész
+- c) 33. § a) és f) pontja.
 
 #### 29. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény módosítása
 
@@ -549,7 +597,11 @@ lép.
 
 121. §
 
-122. §
+122. § A Gyftv. 36. § (11) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(Az engedmény összegének meghatározásakor figyelembe vett kutatási és fejlesztési ráfordításokat csökkenteni kell)
+
+„a) a IV. fázisú klinikai vizsgálatok költségével, valamint az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 4. pontja szerinti beavatkozással nem járó kutatás költségével,”
 
 123. §
 
@@ -573,7 +625,7 @@ lép.
 - d)
 - e)
 - f)
-- g)
+- g) 17. § (6) bekezdés c) pontjában a „készítményt” szövegrész helyébe a „gyógyszert” szöveg,
 - h)
 - i)
 - j)
@@ -632,7 +684,7 @@ lép.
 
 #### 38. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
-144. §
+144. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény 186. § (5) bekezdés a) pontjában a „vizsgálati készítmény” szövegrész helyébe a „vizsgálati gyógyszer” szöveg lép.
 
 #### 39. A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény módosításáról
 
@@ -922,6 +974,25 @@ lép.
 ### 6. melléklet a 2021. évi CI. törvényhez
 
 ### 7. melléklet a 2021. évi CI. törvényhez
+
+A Gytv. 1. számú mellékletében foglalt táblázat III. G. sora helyébe a következő rendelkezés lép:
+
+| „III.G. | Vizsgálati gyógyszerrel végzendő klinikai vizsgálat az emberi felhasználásra kerülő vizsgálati gyógyszerek a nem kereskedelmi vizsgálat kivételével |  |  |  |
+| --- | --- | --- | --- | --- |
+| III.G.1. |  | Klinikai vizsgálat engedélyezése, ha a vizsgálatot csak Magyarországon tervezik folytatni |  | 580 000 |
+| III.G.2. |  | Kismértékű beavatkozással járó klinikai vizsgálat engedélyezése |  | 580 000 |
+| III.G.3. |  | Klinikai vizsgálat engedélyezése, ha a vizsgálatot több tagállamban tervezik folytatni |  | 750 000 |
+| III.G.4. |  | A III.G.1. és a III.G.2. sor szerinti engedélyezési eljárás, ha a kérelmező csak az értékelő jelentés I. részére nézve kér értékelést |  | 435 000 |
+| III.G.5. |  | A III.G.1. és a III.G.2. sor szerinti engedélyezési eljárás, ha a kérelmező csak az értékelő jelentés II. részére nézve kér értékelést |  | 145 000 |
+| III.G.6. |  | A III.G.3. sor szerinti engedélyezési eljárás, ha a kérelmező csak az értékelő jelentés I. részére nézve kér értékelést |  | 562 500 |
+| III.G.7. |  | A III.G.3. sor szerinti engedélyezési eljárás, ha a kérelmező csak az értékelő jelentés II. részére nézve kér értékelést |  | 187 500 |
+| III.G.8. |  | A III.G.2., III.G.3., a III.G.4. és a III.G.6. sor szerinti engedélyezési eljárás díja mellett fizetendő kiegészítő díj, ha Magyarország a jelentéskészítő tagállam |  | 500 000 |
+| III.G.9. |  | A klinikai vizsgálat lényeges módosítása az értékelő jelentés I. részében szereplő szempont tekintetében |  | 110 000 |
+| III.G.10. |  | A klinikai vizsgálat lényeges módosítása az értékelő jelentés II. részében szereplő szempont tekintetében |  | 110 000 |
+| III.G.11. |  | A klinikai vizsgálat lényeges módosítása az értékelő jelentés I. és II. részében szereplő szempont tekintetében |  | 220 000 |
+| III.G.12. |  | A III.G.9. és a III.G.11. sor szerinti engedélyezési eljárás díja mellett fizetendő kiegészítő díj, ha Magyarország a jelentéskészítő tagállam |  | 90 000 |
+| III.G.13. |  | Érintett tagállam utólagos bevonására irányuló eljárás, ha Magyarország a jelentéskészítő tagállam |  | 200 000 |
+| III.G.14. |  | Az 536/2014/EU parlamenti és tanácsi rendelet 44. cikke szerinti tagállami együttműködésben végzett értékelési eljárás díja, ha Magyarország a biztonsági értékelést végző tagállam |  | 500 000” |
 
 ### 8. melléklet a 2021. évi CI. törvényhez
 

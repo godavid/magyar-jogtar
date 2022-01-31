@@ -15,20 +15,12 @@ a következő törvényt alkotja:
 - 4/a. kábítószerként minősített gyógyszer: a New-Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény kihirdetéséről szóló 1965. évi 4. törvényerejű rendelet mellékletének I. és II. jegyzékén szereplő kábítószernek minősített hatóanyagot tartalmazó gyógyszer;
 - 5. pszichotróp anyag: a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–IV. jegyzékén, valamint a 2. számú melléklet jegyzékein szereplő anyag;
 - 5/a. pszichotróp anyagként minősített gyógyszer: a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet II–IV. jegyzékén, valamint a 2. számú melléklet B) jegyzékén szereplő pszichotrópnak minősített hatóanyagot tartalmazó gyógyszer;
-- 6. vizsgálati készítmény: hatóanyag vagy placebo, gyógyszerformában elkészítve, amelyet klinikai vizsgálatban vizsgálnak vagy referencia-(összehasonlító) készítményként használnak, ideértve azokat a készítményeket is, amelyek már rendelkeznek forgalomba hozatali engedéllyel, de klinikai vizsgálat során az elfogadott alkalmazási előírástól eltérően, illetve más kiszerelésben vagy csomagolásban használnak, vagy az elfogadott alkalmazási előírásban foglalt indikációtól eltérő indikációban használják, vagy ha a már forgalomba hozatali engedéllyel rendelkező gyógyszerrel kapcsolatos további adatok gyűjtésére használják;
-- 7. klinikai vizsgálat: bármely, olyan emberen végzett orvostudományi kutatásnak minősülő egy vagy több vizsgálati helyen végzett vizsgálat, amelynek célja egy vagy több vizsgálati készítmény
-  - a) klinikai, gyógyszertani, illetve farmakodinámiás hatásainak feltárása, illetve
-  - b) által kiváltott nemkívánatos gyógyszerhatás azonosítása, illetve
-  - c) felszívódásának, eloszlásának, metabolizmusának és kiválasztódásának tanulmányozása, a készítmény ártalmatlanságának, hatékonyságának, előny/kockázat arányának igazolása céljából
-
-ide nem értve a beavatkozással nem járó vizsgálatokat;
-
-- 8. beavatkozással nem járó vizsgálat: amelyben
-  - a) a forgalomba hozatalra engedélyezett gyógyszer rendelése nem a vizsgálat céljából történik,
-  - b) a gyógyszert a klinikai gyakorlatban szokásos módon, a forgalomba hozatali engedély feltételeinek megfelelően rendelik,
-  - c) a betegnek egy adott kezelési stratégiába való bevonását nem határozzák meg előzetesen egy vizsgálati tervben, hanem a gyógyszert az aktuális klinikai gyakorlatnak megfelelő módon rendelik és annak rendelése világosan elválik a betegnek a vizsgálatba való bevonására vonatkozó döntéstől,
-  - d) a betegen a szokásos klinikai gyakorlaton túlmenően kiegészítő diagnosztikai vagy monitoring eljárást nem alkalmaznak, és
-  - e) az összegyűjtött adatok elemzésére kizárólag epidemiológiai módszereket alkalmaznak;
+- 6. vizsgálati gyógyszer: az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 536/2014/EU európai parlamenti és tanácsi rendelet) 2. cikk (2) bekezdés 5. pontjában meghatározott fogalom;
+- 7. klinikai vizsgálat: az 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 2. pontjában meghatározott fogalom;
+- 8. nem kereskedelmi vizsgálat: olyan klinikai vizsgálat,
+  - a) amelynek megbízója a gyógyszeripartól független jogi személy, így különösen felsőoktatási intézmény, fekvőbeteg-szakellátást nyújtó egészségügyi intézmény, nonprofit gazdasági társaság, azzal, hogy a gyógyszeripartól való függetlenséget nem zárja ki a vizsgálati készítmény megbízó részére történő, térítésmentes rendelkezésre bocsátása, illetve a vizsgálat igazolt költségeinek a vizsgáló részére történő megtérítése,
+  - b) amelynek eredményéből keletkező adatok tulajdonosa a megbízó, és
+  - c) amelynek eredményeit illetően nem áll fenn a megbízó és harmadik személy között olyan jogviszony, amely az eredmények forgalombahozatali engedélyezés, illetve forgalomba hozatal érdekében történő felhasználásának lehetővé tételére irányul;
 - 9. forgalomba hozatali engedély jogosultja: az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet, amely részére az arra jogosult hatóság a gyógyszer forgalomba hozatalát engedélyezte;
 - 10. a forgalomba hozatali engedély jogosultjának képviselője: a forgalomba hozatali engedély jogosultja által kijelölt természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet, aki forgalomba hozatali engedély jogosultját Magyarország területén az általa megjelölt ügycsoportokban képviseli;
 - 11. gyógyszergyártás: olyan engedélyhez kötött termelőtevékenység, ahol ellenőrzött ipari körülmények között gyógyszert állítanak elő;
@@ -81,9 +73,11 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 - 52. folyamatos ellátás: a forgalomba hozatali engedély jogosultjával vagy abban az esetben, ha az belföldön forgalmazási tevékenységet nem végez, a forgalmazóval szerződött gyógyszer-nagykereskedők megrendeléseinek szokásos üzletmenet szerinti kielégítése,
 - 53. ex tempore előállított radioaktív gyógyszer: Magyarországon forgalomba hozatali engedéllyel nem rendelkező, a kezelőorvos által megállapított egyedi betegellátási igény kielégítésére szolgáló, radioaktív gyógyszerkészítményt alkalmazó egészségügyi szolgáltató vagy radioaktív gyógyszer előállítására engedéllyel rendelkező gyógyszergyártó által a Gyógyszerkönyv 5.19 Radioaktív gyógyszerek ex tempore előállítása fejezetével összhangban előállított gyógyszer.
 
+1/A. § E törvény alkalmazásában az 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikkében meghatározott fogalmak irányadók.
+
 ### A törvény hatálya
 
-2. § (1) E törvény hatálya az emberi felhasználásra kerülő gyógyszer gyártására, előállítására, forgalomba hozatalára, forgalmazására és alkalmazására, valamint a vizsgálati készítmények klinikai vizsgálatára és alkalmazására terjed ki.
+2. § (1) E törvény hatálya az emberi felhasználásra kerülő gyógyszer gyártására, előállítására, forgalomba hozatalára, forgalmazására és alkalmazására, valamint a vizsgálati gyógyszerek klinikai vizsgálatára és alkalmazására terjed ki.
 
 (2) Kétséges esetben, amikor valamely termék – (1) bekezdésben meghatározottak figyelembevételével – az e törvény 1. §-ának 1. pontjában meghatározott fogalommeghatározás és más jogszabály által szabályozott valamely termék fogalommeghatározása alá is tartozhat, e törvény rendelkezéseit kell alkalmazni.
 
@@ -91,29 +85,25 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 ### A klinikai vizsgálat
 
-3. § (1) A klinikai vizsgálat engedélyezése, illetve folytatása során az egészségügyről szóló törvény emberen végzett orvostudományi kutatásokra vonatkozó rendelkezéseit, az e törvényben foglalt eltérésekkel kell alkalmazni.
+3. § (1) A klinikai vizsgálat engedélyezése, illetve folytatása során az egészségügyről szóló törvény emberen végzett orvostudományi kutatásokra vonatkozó rendelkezéseit az 536/2014/EU európai parlamenti és tanácsi rendeletben és az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(2) A vizsgálati készítmény Magyarország területén végzendő klinikai vizsgálatához a gyógyszerészeti államigazgatási szerv – az Egészségügyi Tudományos Tanács bizottságának kutatásetikai szakkérdésben kiadott szakhatósági állásfoglalása alapján kiadott – engedélye szükséges.
+(2) A klinikai vizsgálatokkal kapcsolatos, az 536/2014/EU európai parlamenti és tanácsi rendelet hatálya alá tartozó hatósági ügyekben az általános közigazgatási rendtartásról szóló törvényt az 536/2014/EU európai parlamenti és tanácsi rendeletben, az e törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályokban foglalt eltérésekkel kell alkalmazni.
 
-(3) A vizsgálati készítmény Magyarország területén végzendő klinikai vizsgálatok esetében nincs helye előzetes szakhatósági állásfoglalásnak.
+(3) A vizsgálati gyógyszer Magyarország területén végzendő klinikai vizsgálatához, valamint az 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 13. pontja szerinti lényeges módosításhoz a gyógyszerészeti államigazgatási szerv engedélye szükséges. Az engedélyezési eljárás során az 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 11. pontja szerinti etikai bizottságként az Egészségügyi Tudományos Tanács bizottsága jár el, melynek működésére az általános közigazgatási rendtartásról szóló törvény szakhatóságokra vonatkozó rendelkezéseit nem kell alkalmazni.
 
-(4) A klinikai vizsgálat engedélyezési eljárásának ügyintézési határideje hetvenöt nap, ezen belül az etikai vélemény elkészítésének határideje hatvan nap. Génterápiára és szomatikus sejtterápiára szolgáló, valamint genetikailag módosított szervezeteket tartalmazó vizsgálati készítmények esetén a klinikai vizsgálat engedélyezési eljárásának ügyintézési határideje kilencven nap, ezen belül az etikai vélemény elkészítésének határideje legfeljebb hetvenkét nap. Xenogén sejtterápiára szolgáló vizsgálati készítmények esetén a klinikai vizsgálat engedélyezési eljárásának ügyintézési határideje tizenkét hónap, ezen belül az etikai jóváhagyás elkészítésének határideje legfeljebb tizenegy hónap.
+(4) A megbízó a klinikai vizsgálattal összefüggésben keletkezett károk megtérítésére, illetve a klinikai vizsgálattal összefüggésben megsértett személyiségi jogokért követelhető sérelemdíj megfizetésére – a kockázatoknak megfelelő – felelősségbiztosítási szerződést köt az Európai Gazdasági Térségben (a továbbiakban: EGT), illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező államban (a továbbiakban: EGT-megállapodásban részes állam) székhellyel, illetve telephellyel rendelkező biztosítóval. A felelősségbiztosításnak megfelelő fedezetet kell nyújtania a klinikai vizsgálattal kapcsolatosan esetlegesen érvényesítendő kártérítési és sérelemdíj követelésekre.
 
-(5) A klinikai vizsgálat kezdeményezőjének, a klinikai vizsgálattal összefüggésben keletkezett károk megtérítésére, illetve a klinikai vizsgálattal összefüggésben megsértett személyiségi jogokért követelhető sérelemdíj megfizetésére – a kockázatoknak megfelelő – felelősségbiztosítási szerződést kell kötnie az Európai Gazdasági Térségben (a továbbiakban: EGT), illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az EGT tagállamával azonos jogállást élvező államban (a továbbiakban: EGT-megállapodásban részes állam) székhellyel, illetve telephellyel rendelkező biztosítóval. A felelősségbiztosításnak megfelelő fedezetet kell nyújtania a klinikai vizsgálattal kapcsolatosan esetlegesen érvényesítendő kártérítési és sérelemdíj követelésekre.
+(5) A klinikai vizsgálatokkal, valamint a gyógyszerekkel, kábítószerekkel, pszichotróp anyagokkal, vizsgálati gyógyszerekkel kapcsolatos hatósági ügyekben hozott döntést a közigazgatási ügyben eljáró bíróság nem változtathatja meg.
 
-(6) Az engedélyezett klinikai vizsgálatok megkezdését a gyógyszerészeti államigazgatási szervnek be kell jelenteni.
+(6) A megbízó a vizsgálóhellyel, illetve a vizsgálatvezetővel a klinikai vizsgálat végzésére írásban szerződést köt. A szerződés az engedélyezési eljárás előtt is megköthető, azonban érvényességének feltétele a klinikai vizsgálat hatósági engedélyezése.
 
-(7) A klinikai vizsgálatokkal valamint a gyógyszerekkel, kábítószerekkel, pszichotróp anyagokkal, vizsgálati készítményekkel kapcsolatos engedélyezési, módosítási, ellenőrzési eljárásban hozott döntést a közigazgatási ügyben eljáró bíróság nem változtathatja meg.
-
-(8) A klinikai vizsgálat kezdeményezője az azt végző egészségügyi szolgáltatóval, illetve a klinikai vizsgálat vezetőjével a klinikai vizsgálat végzésére írásban szerződést köt. A szerződés érvényességéhez a gyógyszerészeti államigazgatási szervnek az Egészségügyi Tudományos Tanács bizottságának kutatásetikai szakkérdésben kiadott szakhatósági állásfoglalása alapján kialakított egyetértése szükséges.
-
-(9) A klinikai vizsgálat engedélyének véglegessé válását követően módosított vizsgálati terv tekintetében az Egészségügyi Tudományos Tanács bizottsága a módosítási kérelemről annak kézhezvételétől számított harminc napon belül állást foglal. Ha a lényeges módosítás a szakhatóság állásfoglalás nélkül eldönthető vagy gyógyszerminőségi jellegű, annak engedélyezéséről az engedélyező a szakhatósági állásfoglalás kikérése nélkül, saját hatáskörében dönt.
+(7) A klinikai vizsgálat megbízója illetve az általa erre írásban feljogosított személy jogosult – gyógyszer-nagykereskedelmi engedély nélkül – beszerezni, majd a vizsgálóhelyre kiszállítani a vizsgálati tervben előírt vizsgálati illetve kiegészítő gyógyszereket.
 
 ### A gyógyszergyártás feltételei
 
 4. § (1) Magyarország területén gyógyszert gyártani – a magisztrális gyógyszerek gyógyszertári előállítását kivéve – a gyógyszerészeti államigazgatási szerv által kiadott, e tevékenység végzésére jogosító engedélye birtokában lehet. A gyógyszer gyártója az a gazdálkodó szervezet, amely rendelkezik a gyógyszer gyártására jogosító hatósági engedéllyel.
 
-(2) A gyógyszer gyártására jogosító engedélyt a gyógyszerészeti államigazgatási szerv akkor adja meg, ha a kérelmező rendelkezik olyan – a külön jogszabályban meghatározott – személyi és tárgyi feltételekkel, amelyek biztosítják, hogy az általa gyártott gyógyszer minősége a gyártást követően megfelel a forgalomba hozatali engedélyben meghatározott követelményeknek. A gyógyszer gyártására jogosító engedély magában foglalja a saját előállítású termékkel történő nagykereskedelmi jogosultságot is, azzal a feltétellel, hogy a gyógyszer-nagykereskedelmi tevékenység folytatása során egyebekben meg kell felelni a gyógyszer-nagykereskedelemre vonatkozó külön jogszabályban meghatározott személyi, tárgyi feltételeknek.
+(2) A gyógyszer gyártására jogosító engedélyt a gyógyszerészeti államigazgatási szerv akkor adja meg, ha a kérelmező rendelkezik olyan – európai uniós jogi aktusban vagy jogszabályban meghatározott – személyi és tárgyi feltételekkel, amelyek biztosítják, hogy az általa gyártott gyógyszer minősége a gyártást követően megfelel a forgalomba hozatali engedélyben meghatározott követelményeknek. A gyógyszer gyártására jogosító engedély magában foglalja a saját előállítású termékkel történő nagykereskedelmi jogosultságot is, azzal a feltétellel, hogy a gyógyszer-nagykereskedelmi tevékenység folytatása során egyebekben meg kell felelni a gyógyszer-nagykereskedelemre vonatkozó külön jogszabályban meghatározott személyi, tárgyi feltételeknek.
 
 (3) Az (1) bekezdésben meghatározott engedély kiadásának további feltétele, hogy a kérelmező rendelkezzék a gyógyszergyártási tevékenység technológiai folyamatai során okozott kár megtérítésére vonatkozó felelősségbiztosítási szerződéssel.
 
@@ -163,6 +153,8 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 (2) Gyógyszer beszerzéséhez nem szükséges engedély, ha arra kutatási célból – ide nem értve az emberen végzett kutatási célt – kerül sor, és ezt a beszerző az egészségügyért felelős miniszter rendelete szerint a gyógyszerészeti államigazgatási szerv részére bejelentette. Az e bekezdés alapján beszerzett gyógyszer a kutatási céltól eltérő célra nem használható fel. A kutatási célra fel nem használt gyógyszert meg kell semmisíteni. A kutatási tevékenység befejezéséről a gyógyszerészeti államigazgatási szervet haladéktalanul tájékoztatni kell.
 
 (3) Nem szükséges gyógyszergyártási engedély beszerzése, ha a gyógyszert külön engedély alapján gyógyszer-nagykereskedelmi engedéllyel rendelkező gyógyszer-nagykereskedő importálja.
+
+(4) Nem szükséges gyógyszergyártási vagy nagykereskedelmi engedély az 536/2014/EU parlamenti és tanácsi rendelet 59. cikk (2) bekezdése szerinti esetben a klinikai vizsgálat megbízója, illetve az általa erre írásban feljogosított személy által a vizsgálati tervben előírt kiegészítő gyógyszerek harmadik országból történő importjához.
 
 ### A gyógyszer forgalomba hozatalának engedélyezése
 
@@ -591,7 +583,7 @@ ide nem értve a beavatkozással nem járó vizsgálatokat;
 
 19. § A gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratóriumokat és a klinikai vizsgálatokat végző egészségügyi szolgáltatókat a gyógyszerészeti államigazgatási szerv a külön jogszabályban megállapított szakmai szabályok betartása szempontjából rendszeresen ellenőrzi.
 
-20. § (1) A gyógyszerek, a hatóanyagok, a segédanyagok gyártásával, forgalomba hozatalával, forgalmazásával, farmakovigilanciájával, a gyógyszerközvetítéssel és a gyógyszerellátási felelősséggel, valamint a vizsgálati készítmények klinikai vizsgálatával, továbbá a gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratórium tevékenységével kapcsolatos, valamint az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott kötelezettségek betartásának hatósági ellenőrzése a gyógyszerészeti államigazgatási szerv feladata. A gyógyszerek ismertetésére, valamint a gyógyszerrel kapcsolatos, fogyasztókkal szembeni egyes kereskedelmi gyakorlatokra vonatkozó előírások ellenőrzésére, és az ezek megsértése esetén irányadó eljárásra vonatkozó szabályokat a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló törvény állapítja meg.
+20. § (1) A gyógyszerek, a hatóanyagok, a segédanyagok gyártásával, forgalomba hozatalával, forgalmazásával, farmakovigilanciájával, a gyógyszerközvetítéssel és a gyógyszerellátási felelősséggel, valamint a vizsgálati gyógyszerek klinikai vizsgálatával, továbbá a gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratórium tevékenységével kapcsolatos, valamint az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott kötelezettségek betartásának hatósági ellenőrzése a gyógyszerészeti államigazgatási szerv feladata. A gyógyszerek ismertetésére, valamint a gyógyszerrel kapcsolatos, fogyasztókkal szembeni egyes kereskedelmi gyakorlatokra vonatkozó előírások ellenőrzésére, és az ezek megsértése esetén irányadó eljárásra vonatkozó szabályokat a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló törvény állapítja meg.
 
 (1a) A gyógyszerészeti államigazgatási szerv a Magyarországon vagy a harmadik országok területén végzett ellenőrzések során figyelembe veszi az Európai Bizottság iránymutatásait és együttműködik az Európai Gyógyszerügynökséggel, amelynek keretében az Európai Gyógyszerügynökséggel megosztja a tervezett és lefolytatott vizsgálatokkal kapcsolatos információkat.
 
@@ -667,14 +659,14 @@ véglegessé vált határozatát a (10) bekezdésben meghatározott tartalommal 
 
 (8) A gyógyszerészeti államigazgatási szerv a jogkövető magatartás elősegítése és a betegek tájékoztatása érdekében honlapján, az ezen alcím szerinti intézkedés végrehajtásának időtartama alatt közzéteszi a annak a honlapnak az elnevezését és megjelölését, amelynek tekintetében a véglegessé vált döntésével ideiglenes hozzáférhetetlenné tételt rendelt el.
 
-### A vizsgálati készítmény, illetve a gyógyszer alkalmazásával összefüggésben keletkezett károkért való felelősség és személyiségi jogsértésért való helytállási kötelezettség
+### A vizsgálati gyógyszer, illetve a gyógyszer alkalmazásával összefüggésben keletkezett károkért való felelősség és személyiségi jogsértésért való helytállási kötelezettség
 
-21. § (1) Ha a vizsgálati készítmény klinikai vizsgálata során, illetve annak következményeként bármely természetes személy egészségkárosodást szenved, a sérelmet szenvedett személy, illetve halála esetén a Polgári Törvénykönyv szerinti hozzátartozója részére
+21. § (1) Ha a vizsgálati gyógyszer klinikai vizsgálata során, illetve annak következményeként bármely természetes személy egészségkárosodást szenved, a sérelmet szenvedett személy, illetve halála esetén a Polgári Törvénykönyv szerinti hozzátartozója részére
 
 - a) a klinikai vizsgálatot engedélyező hatóság által jóváhagyott vizsgálati terv szerint végzett vizsgálat esetén a megbízó,
 - b) amennyiben a halál, megrokkanás vagy súlyos egészségkárosodás a vizsgálatot kezdeményező által ismert, de a klinikai vizsgálatot engedélyező hatóságnak be nem nyújtott adat eltitkolásának következménye, a megbízó,
 - c) amennyiben a halál, megrokkanás vagy súlyos egészségkárosodás a klinikai vizsgálatot engedélyező hatóság előírásának következménye, az engedélyező hatóság,
-- d) a klinikai vizsgálatot engedélyező hatóság által jóváhagyott vizsgálati tervtől való eltérés esetén – ha az egészségkárosodás ennek következményeként következik be – a klinikai vizsgálatot végző intézmény sérelemdíjat, valamint – a halállal, megrokkanással, illetve egészségkárosodással összefüggésben bekövetkezett vagyoni károk esetén – kártérítést fizet.
+- d) a klinikai vizsgálatot engedélyező hatóság által jóváhagyott vizsgálati tervtől való eltérés esetén – ha az egészségkárosodás ennek következményeként következik be – a vizsgálóhely sérelemdíjat, valamint – a halállal, megrokkanással, illetve egészségkárosodással összefüggésben bekövetkezett vagyoni károk esetén – kártérítést fizet.
 
 (2) A gyógyszer alkalmazásával összefüggésben bekövetkezett
 
@@ -816,7 +808,7 @@ a betegek számára hozzáférhetővé tett, illetve alkalmazásra engedélyezet
 
 ### A gyógyszerekkel kapcsolatos egyes engedélyezési eljárások eljárási díjai
 
-25/B. § (1) Az emberi felhasználásra kerülő gyógyszerek gyártásával, forgalomba hozatalával, forgalmazásával, a forgalomba hozatali engedély fenntartásával, a gyógyszer-nagykereskedelmi tevékenység folytatásával, a gyógyszernek nem minősülő gyógyhatású termékek gyógyszerré történő átminősítésével, a párhuzamos importtal, a vizsgálati készítmények klinikai vizsgálatával, a Helyes Laboratóriumi Gyakorlat alkalmazásával kapcsolatos – az 1. számú melléklet szerinti – engedélyezési, módosítási és egyéb eljárásokért – a (2) bekezdésben foglalt kivétellel – az eljárás lefolytatását, illetve az engedély kiadását kérelmező az 1. számú mellékletben meghatározott igazgatási szolgáltatási díjat (a továbbiakban: díj), a forgalomba hozatali engedély fenntartásáért pedig évente az 1. számú mellékletben meghatározott fenntartási díjat köteles fizetni.
+25/B. § (1) Az emberi felhasználásra kerülő gyógyszerek gyártásával, forgalomba hozatalával, forgalmazásával, a forgalomba hozatali engedély fenntartásával, a gyógyszer-nagykereskedelmi tevékenység folytatásával, a gyógyszernek nem minősülő gyógyhatású termékek gyógyszerré történő átminősítésével, a párhuzamos importtal, a vizsgálati gyógyszerek klinikai vizsgálatával, a Helyes Laboratóriumi Gyakorlat alkalmazásával kapcsolatos – az 1. számú melléklet szerinti – engedélyezési, módosítási és egyéb eljárásokért – a (2) bekezdésben foglalt kivétellel – az eljárás lefolytatását, illetve az engedély kiadását kérelmező az 1. számú mellékletben meghatározott igazgatási szolgáltatási díjat (a továbbiakban: díj), a forgalomba hozatali engedély fenntartásáért pedig évente az 1. számú mellékletben meghatározott fenntartási díjat köteles fizetni.
 
 (2) A nem kereskedelmi célú klinikai vizsgálat engedélyezése iránti eljárások díjmentesek.
 
@@ -837,7 +829,7 @@ a betegek számára hozzáférhetővé tett, illetve alkalmazásra engedélyezet
 
 (5) Az (1) bekezdés szerint kiadott engedély adataiban, továbbá az egyes gyógyszerek forgalomba hozatali engedélyének adataiban bekövetkezett változás miatti minden egyes önálló, más módosítással össze nem függő módosítási kérelem – gyógyszerformánként vagy hatáserősségenként – külön eljárásidíj-köteles, függetlenül attól, hogy a kérelmet egyedileg vagy több gyógyszerre vonatkozóan csoportosítva egyidejűleg nyújtják be. A klinikai vizsgálat engedélyének módosítása során minden egyes önálló, jogszabály szerinti, egymással össze nem függő tartalmi módosítás iránti kérelem külön eljárási díj köteles, függetlenül attól, hogy a kérelmet egyedileg vagy több klinikai vizsgálatra vonatkozóan csoportosítva egyidejűleg nyújtják be.
 
-(6) A díjat a kérelem benyújtásakor, az évenkénti fenntartási díjat a tárgyév január hó 31-ig kell az egészségügyért felelős miniszter rendeletében meghatározott módon a gyógyszerészeti államigazgatási szerv részére megfizetni.
+(6) A díjat a kérelem benyújtásakor, az évenkénti fenntartási díjat a tárgyév január hó 31-ig kell az egészségügyért felelős miniszter rendeletében meghatározott módon a gyógyszerészeti államigazgatási szerv részére megfizetni. Az 536/2014/EU európai parlamenti és tanácsi rendelet hatálya alá tartozó eljárásokra vonatkozó igazgatási szolgáltatási díjak megfizetésének határidejére és módjára az egészségügyért felelő miniszter rendeletében további részletes szabályokat állapíthat meg.
 
 (6a) A gyógyszerészeti államigazgatási szerv a gyógyszer forgalmazását felfüggeszti, ha a forgalomba hozatali engedély jogosultja az (1) bekezdés alapján fennálló fenntartási díj megfizetésére vonatkozó kötelezettségének a (6) bekezdésben foglalt határidőben nem tesz eleget. A fenntartási díj határidőben történő meg nem fizetése miatti felfüggesztés a gyógyszer-nagykereskedőkhöz és az egészségügyi szolgáltatókhoz a felfüggesztés előtt már kiszállított gyógyszereket nem érinti.
 
@@ -854,7 +846,7 @@ a betegek számára hozzáférhetővé tett, illetve alkalmazásra engedélyezet
 
 ### Engedélyezés, illetve kereskedelmi forgalomba hozatal előtti gyógyszeralkalmazás
 
-25/C. § (1) Engedélyezés előtti gyógyszeralkalmazás keretében vizsgálati készítményt, vagy forgalomba hozatali engedéllyel nem rendelkező gyógyszert – ideértve a kérelmezett javallatban forgalombahozatali engedéllyel nem rendelkező gyógyszert is – (a továbbiakban e § tekintetében együttesen: gyógyszer) különös méltánylást érdemlő betegellátási érdekből a gyógyszerészeti államigazgatási szerv engedélye alapján akkor lehet alkalmazni, ha
+25/C. § (1) Engedélyezés előtti gyógyszeralkalmazás keretében vizsgálati gyógyszert, vagy forgalomba hozatali engedéllyel nem rendelkező gyógyszert – ideértve a kérelmezett javallatban forgalombahozatali engedéllyel nem rendelkező gyógyszert is – (a továbbiakban e § tekintetében együttesen: gyógyszer) különös méltánylást érdemlő betegellátási érdekből a gyógyszerészeti államigazgatási szerv engedélye alapján akkor lehet alkalmazni, ha
 
 - a) az érintett gyógyszer
   - aa) tekintetében a Magyarországon hatályos klinikai vizsgálatokra vonatkozó szabályozással egyenértékű szabályozást alkalmazó országban legalább II. fázisú klinikai vizsgálatot már lefolytattak vagy ilyen vizsgálat folyamatban van, vagy
@@ -925,7 +917,9 @@ a betegek számára hozzáférhetővé tett, illetve alkalmazásra engedélyezet
 
 (14) Az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott engedélyezési eljárásokban a gyógyszerészeti államigazgatási szerv az eljárást felfüggesztheti, ha az előkérdés más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el.
 
-27. § Az elektronikus kapcsolattartás az e törvény 25. § (1)–(6a) bekezdésében, valamint a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenységről szóló külön jogszabály 3. § (2)–(3) bekezdéseiben foglalt eljárások kivételével, a gyógyszerészeti és egészségügyi államigazgatási szervnek a gyógyszerekkel, vizsgálati készítményekkel és a gyógyszereknek nem minősülő gyógyhatású anyagokkal és készítményekkel, valamint a helyes laboratóriumi gyakorlat követelményeinek megfelelő vizsgálóhelyekkel és egyedi vizsgálóhelyekkel kapcsolatos hatósági eljárása során a gyógyszerészeti és egészségügyi államigazgatási szerv által működtetett informatikai rendszeren keresztül valósul meg.
+27. § Az elektronikus kapcsolattartás az e törvény 25. § (1)–(6a) bekezdésében, valamint a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékenységről szóló külön jogszabály 3. § (2)–(3) bekezdéseiben foglalt eljárások kivételével, a gyógyszerészeti és egészségügyi államigazgatási szervnek a gyógyszerekkel, és a gyógyszereknek nem minősülő gyógyhatású anyagokkal és készítményekkel, valamint a helyes laboratóriumi gyakorlat követelményeinek megfelelő vizsgálóhelyekkel és egyedi vizsgálóhelyekkel kapcsolatos hatósági eljárása során a gyógyszerészeti és egészségügyi államigazgatási szerv által működtetett informatikai rendszeren keresztül valósul meg.
+
+27/A. § Az 536/2014/EU európai parlamenti és tanácsi rendeletben meghatározott esetekben az elektronikus kapcsolattartás az 536/2014/EU európai parlamenti és tanácsi rendelet 80. cikke szerinti portál használatával valósul meg.
 
 28. § Azoknak az anyagoknak a listáját, amelyek nem az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzéke alapján minősülnek kábítószerrel egy tekintet alá eső veszélyes pszichotróp anyagnak, a 2. számú melléklet határozza meg.
 
@@ -1016,14 +1010,20 @@ fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint 
 
 32/B. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
+32/C. § (1) E törvénynek az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvénnyel (a továbbiakban: Módtv.) módosított 3. §-át és 1. számú mellékletét – a (2) bekezdésen meghatározottak figyelembevételével – azon klinikai vizsgálatok esetében kell alkalmazni, amelyek engedélyezése iránt a kérelmet a Módtv. 10. § (18) bekezdése szerinti naptári napon, vagy azt követően nyújtották be.
+
+(2) A Módtv. 10. § (18) bekezdése szerinti naptári naptól számított egy évig benyújtott, klinikai vizsgálat engedélyezés iránti kérelmek az 536/2014/EU rendelet 98. cikk (2) bekezdésére figyelemmel e törvénynek a Módtv. 10. § (18) bekezdése szerinti naptári napot megelőző napon hatályos 3. §-a és 1. számú melléklete szerinti is benyújthatók és elbírálhatók azzal, hogy Módtv. 10. § (18) bekezdése szerinti naptári naptól számított három év leteltével az e bekezdés szerint engedélyezett és megkezdett vizsgálatokra is a 3. § és a 1. számú melléklet Módtv.-vel módosított szövegét kell alkalmazni.
+
+(3) E törvénynek a Módtv. 10. § (18) bekezdése szerinti naptári napot megelőző napon hatályos 3. §-át és 1. számú mellékletét kell alkalmazni azon klinikai vizsgálatok esetében, amelyek engedélyezése iránt a kérelmet a Módtv. 10. § (18) bekezdése szerinti naptári napot megelőzően nyújtották be, azzal, hogy Módtv. 10. § (18) bekezdése szerinti naptári naptól számított három év leteltével ezen vizsgálatokra is a 3. § és a 1. számú melléklet Módtv.-vel módosított szövegét kell alkalmazni.
+
 33. § Ez a törvény
 
-- a) az emberi felhasználásra szánt gyógyszerekkel végzett klinikai vizsgálatok során alkalmazandó helyes klinikai gyakorlat bevezetésére vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről szóló, 2001. április 4-i 2001/20/EK európai parlamenti és tanácsi irányelvnek,
+- a)
 - b) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló, 2001. november 6-i 2001/83/EK európai parlamenti és tanácsi irányelvnek,
 - c) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelv módosításáról szóló, 2004. március 31-i 2004/27/EK európai parlamenti és tanácsi irányelvnek,
 - d) a helyes laboratóriumi gyakorlat alapelveinek alkalmazására és annak a vegyi anyagokkal végzett kísérleteknél történő alkalmazásának ellenőrzésére vonatkozó törvényi, rendeleti és közigazgatási rendelkezések közelítéséről szóló, 2004. február 11-i 2004/10/EK európai parlamenti és tanácsi irányelvnek,
 - e) a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek helyes gyártási gyakorlatára vonatkozó alapelvek és iránymutatások tekintetében történő kiegészítéséről szóló, 2017. szeptember 15-i (EU) 2017/1572 bizottsági irányelvnek,
-- f) a helyes klinikai gyakorlat elveinek és részletes iránymutatásainak megállapításáról az emberi felhasználásra szánt vizsgálati gyógyszerkészítmények, valamint az ilyen termékek gyártási vagy behozatali engedélyezésének tekintetében című, 2005. április 8-i 2005/28/EK bizottsági irányelvnek,
+- f)
 - g) a 2001/82/EK és a 2001/83/EK irányelvnek a gyógyszerek forgalombahozatali engedélye feltételeinek módosítása tekintetében történő módosításáról szóló 2009. június 18-i 2009/53/EK európai parlamenti és tanácsi irányelvnek,
 - h) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelvnek,
 - i) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK irányelvnek a hamisított gyógyszerek jogszerű ellátási láncba való bekerülésének megakadályozása tekintetében történő módosításáról szóló 2011. június 8-i 2011/62/EU európai parlamenti és tanácsi irányelvnek,
@@ -1048,6 +1048,7 @@ való megfelelést szolgálja.
 - j) a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló, 2015. október 2-i (EU) 2016/161 felhatalmazáson alapuló bizottsági rendelet,
 - k) az 536/2014/EU európai parlamenti és tanácsi rendeletnek az emberi felhasználásra szánt vizsgálati gyógyszerek helyes gyártási gyakorlatára vonatkozó alapelveknek és iránymutatásoknak, valamint az inspekció szabályainak meghatározása révén történő kiegészítéséről szóló, 2017. május 23-i (EU) 2017/1569 felhatalmazáson alapuló bizottsági rendelet,
 - l) az N-fenil-N-[1-(2-fenil-etil)piperidin-4-il]ciklopropán-karboxamid (ciklopropil-fentanil) és a 2-me-toxi-N-fenil-N-[1-(2-feniletil)piperidin-4-yl]acetamid (metoxiacetil-fentanil) új pszichoaktív anyagok ellenőrzési intézkedéseknek való alávetéséről szóló, 2018. szeptember 28-i (EU) 2018/1463 tanácsi végrehajtási határozat
+- m) az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -1071,235 +1072,247 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 1. számú melléklet a 2005. évi XCV. törvényhez
 
-|  |  |  |  |  |  |  |  |  | Összeg |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| I. | Nem hasonszenvi (allopátiás) készítmények |  |  |  |  |  |  |  |  |
-| I.A. |  | Minden allopátiás készítmény kivéve az allergéneket |  |  |  |  |  |  |  |
-| I.A.1. |  |  | Új forgalombahozatali engedély |  |  |  |  |  |  |
-| I.A.1.1. |  |  |  | Nemzeti eljárásban |  |  |  |  |  |
-| I.A.1.1.a. |  |  |  |  |  | Originális, vagy originális családbővítés |  |  | 1 350 000 |
-| I.A.1.1.b. |  |  |  |  |  | Generikus, vagy generikus családbővítése |  |  | 675 000 |
-| I.A.1.1.c. |  |  |  |  |  | Egyéb, vagy egyéb családbővítés |  |  | 675 000 |
-| I.A.1.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |  |
-| I.A.1.2.a. |  |  |  |  |  | Originális, vagy originális családbővítés |  |  |  |
-| I.A.1.2.a.1. |  |  |  |  |  |  | RMS |  | 3 150 000 |
-| I.A.1.2.a.2. |  |  |  |  |  |  | CMS |  | 2 250 000 |
-| I.A.1.2.b. |  |  |  |  |  | Generikus, vagy generikus családbővítése |  |  |  |
-| I.A.1.2.b.1. |  |  |  |  |  |  | RMS |  | 1 575 000 |
-| I.A.1.2.b.2. |  |  |  |  |  |  | CMS |  | 1 175 000 |
-| I.A.1.2.c. |  |  |  |  |  | Egyéb, vagy egyéb családbővítés |  |  |  |
-| I.A.1.2.c.1. |  |  |  |  |  |  | RMS |  | 1 575 000 |
-| I.A.1.2.c.2. |  |  |  |  |  |  | CMS |  | 1 175 000 |
-| I.A.2. |  |  | Forgalombahozatali engedély módosítása |  |  |  |  |  |  |
-| I.A.2.1. |  |  |  | Nemzeti |  |  |  |  |  |
-| I.A.2.1.a. |  |  |  |  |  | Type IA-IB |  |  | 234 000 |
-| I.A.2.1.b. |  |  |  |  |  | Type II |  |  | 351 000 |
-| I.A.2.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |  |
-| I.A.2.2.a. |  |  |  |  |  | Type IA-IB |  |  |  |
-| I.A.2.2.a.1. |  |  |  |  |  |  | RMS |  | 325 000 |
-| I.A.2.2.a.2. |  |  |  |  |  |  | CMS |  | 234 000 |
-| I.A.2.2.b. |  |  |  |  |  | Type II |  |  |  |
-| I.A.2.2.b.1. |  |  |  |  |  |  | RMS |  | 455 000 |
-| I.A.2.2.b.2. |  |  |  |  |  |  | CMS |  | 351 000 |
-| I.A.2.3. |  |  |  | Az alkalmazási előírást nem érintő, kizárólag a címke és betegtájékoztató szövegére vonatkozó módosítások [2005. évi XCV. törvény, 10. § (2) bek.] |  |  |  |  | 26 000 |
-| I.A.2.3.a. |  |  |  |  |  | Az emberi alkalmazásra kerülő gyógyszerek címkéjéről és betegtájékoztatójáról szóló 30/2005. (VIII. 2.) EüM rendelet 3. § (4) bekezdésnek megfelelő beadványok |  |  | 130 000 |
-| I.A.2.3.b. |  |  |  |  |  | Egyéb beadványok |  |  | 26 000 |
-| I.A.2.4. |  |  |  | A forgalombahozatali engedély jogosultság átruházása (jogutódlás) |  |  |  |  | 234 000 |
-| I.A.2.5. |  |  |  | A magyar forgalombahozatali engedélyben olyan kiszerelési egységek hozzáadása /törlése, melyek kölcsönös elismerésen alapuló eljárásban engedélyezésre kerültek |  |  |  |  | 130 000 |
-| I.A.2.6. |  |  |  | Globál számozásra történő változtatás |  |  |  |  | 130 000 |
-| I.A.2.7. |  |  |  | A készítmény osztályozási besorolásának változása |  |  |  |  | 351 000 |
-| I.A.3. |  |  | Forgalombahozatali engedély megújítása |  |  |  |  |  |  |
-| I.A.3.1. |  |  |  | Nemzeti |  |  |  |  |  |
-| I.A.3.1.a. |  |  |  |  |  | Originális |  |  | 675 000 |
-| I.A.3.1.b. |  |  |  |  |  | Generikus |  |  | 325 000 |
-| I.A.3.1.c. |  |  |  |  |  | Egyéb |  |  | 325 000 |
-| I.A.3.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |  |
-| I.A.3.2.a. |  |  |  |  |  | Originális |  |  |  |
-| I.A.3.2.a.1. |  |  |  |  |  |  | RMS |  | 1 575 000 |
-| I.A.3.2.a.2. |  |  |  |  |  |  | CMS |  | 1 125 000 |
-| I.A.3.2.b. |  |  |  |  |  | Generikus |  |  |  |
-| I.A.3.2.b.1. |  |  |  |  |  |  | RMS |  | 775 000 |
-| I.A.3.2.b.2. |  |  |  |  |  |  | CMS |  | 550 000 |
-| I.A.3.2.c. |  |  |  |  |  | Egyéb |  |  |  |
-| I.A.3.2.c.1. |  |  |  |  |  |  | RMS |  | 775 000 |
-| I.A.3.2.c.2. |  |  |  |  |  |  | CMS |  | 550 000 |
-| I.A.4. |  |  | Forgalombahozatali engedély visszavonása |  |  |  |  |  | 67 500 |
-| I.A.5. |  |  | Forgalombahozatali engedély éves fenntartása |  |  |  |  |  | 270 000 |
-| I.B |  | Allergének |  |  |  |  |  |  |  |
-| I.B.1. |  |  | Új forgalombahozatali engedély |  |  |  |  |  |  |
-| I.B.1.1. |  |  |  | Nemzeti |  |  |  |  |  |
-| I.B.1.1.a. |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  |  | 45 000 |
-| I.B.1.1.b. |  |  |  |  |  | Kevert allergének (több komponens) |  |  | 315 000 |
-| I.B.1.1.c. |  |  |  |  |  | Egyéb |  |  | 315 000 |
-| I.B.1.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |  |
-| I.B.1.2.a. |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  |  |  |
-| I.B.1.2.a.1. |  |  |  |  |  |  | RMS |  | 245 000 |
-| I.B.1.2.a.2. |  |  |  |  |  |  | CMS |  | 90 000 |
-| I.B.1.2.b. |  |  |  |  |  | Kevert allergének (több komponens) |  |  |  |
-| I.B.1.2.b.1. |  |  |  |  |  |  | RMS |  | 1 215 000 |
-| I.B.1.2.b.2. |  |  |  |  |  |  | CMS |  | 565 000 |
-| I.B.1.2.c. |  |  |  |  |  | Egyéb |  |  |  |
-| I.B.1.2.c.1. |  |  |  |  |  |  | RMS |  | 1 215 000 |
-| I.B.1.2.c.2. |  |  |  |  |  |  | CMS |  | 565 000 |
-| I.B.2. |  |  | Forgalombahozatali engedély módosítása |  |  |  |  |  |  |
-| I.B.2.1. |  |  |  | Nemzeti |  |  |  |  |  |
-| I.B.2.1.a. |  |  |  |  |  | Type IA-IB |  |  |  |
-| I.B.2.1.a.1. |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  | 11 700 |
-| I.B.2.1.a.2. |  |  |  |  |  |  | Kevert allergének (több komponens) |  | 58 500 |
-| I.B.2.1.a.3. |  |  |  |  |  |  | Egyéb |  | 58 500 |
-| I.B.2.1.b. |  |  |  |  |  | Type II |  |  |  |
-| I.B.2.1.b.1. |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  | 26 000 |
-| I.B.2.1.b.2. |  |  |  |  |  |  | Kevert allergének (több komponens) |  | 130 000 |
-| I.B.2.1.b.3. |  |  |  |  |  |  | Egyéb |  | 130 000 |
-| I.B.2.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |  |
-| I.B.2.2.a. |  |  |  |  |  | Type IA-IB |  |  |  |
-| I.B.2.2.a.1. |  |  |  |  |  |  | RMS |  |  |
-| I.B.2.2.a.1.1. |  |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) | 11 700 |
-| I.B.2.2.a.1.2. |  |  |  |  |  |  |  | Kevert allergének (több komponens) | 58 500 |
-| I.B.2.2.a.1.3. |  |  |  |  |  |  |  | Egyéb | 58 500 |
-| I.B.2.2.a.2. |  |  |  |  |  |  | CMS |  |  |
-| I.B.2.2.a.2.1. |  |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) | 11 700 |
-| I.B.2.2.a.2.2. |  |  |  |  |  |  |  | Kevert allergének (több komponens) | 58 500 |
-| I.B.2.2.a.2.3. |  |  |  |  |  |  |  | Egyéb | 58 500 |
-| I.B.2.2.b. |  |  |  |  |  | Type II |  |  |  |
-| I.B.2.2.b.1. |  |  |  |  |  |  | RMS |  |  |
-| I.B.2.2.b.1.1. |  |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) | 39 000 |
-| I.B.2.2.b.1.2. |  |  |  |  |  |  |  | Kevert allergének (több komponens) | 260 000 |
-| I.B.2.2.b.1.3. |  |  |  |  |  |  |  | Egyéb | 260 000 |
-| I.B.2.2.b.2. |  |  |  |  |  |  | CMS |  |  |
-| I.B.2.2.b.2.1. |  |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) | 26 000 |
-| I.B.2.2.b.2.2. |  |  |  |  |  |  |  | Kevert allergének (több komponens) | 130 000 |
-| I.B.2.2.b.2.3. |  |  |  |  |  |  |  | Egyéb | 130 000 |
-| I.B.2.3. |  |  |  | Az alkalmazási előírást nem érintő, kizárólag a címke és betegtájékoztató szövegére vonatkozó módosítások [2005. évi XCV. törvény, 10. § (2) bek.] |  |  |  |  | 26 000 |
-| I.B.2.3.a. |  |  |  |  |  | Az emberi alkalmazásra kerülő gyógyszerek címkéjéről és betegtájékoztatójáról szóló 30/2005. (VIII. 2.) EüM rendelet 3. § (4) bekezdésnek megfelelő beadványok |  |  | 130 000 |
-| I.B.2.3.b. |  |  |  |  |  | Egyéb beadványok |  |  | 26 000 |
-| I.B.2.4. |  |  |  | A forgalombahozatali engedély jogosultság átruházása (jogutódlás) |  |  |  |  | 234 000 |
-| I.B.2.5. |  |  |  | A magyar forgalombahozatali engedélyben olyan kiszerelési egységek hozzáadása /törlése, melyek kölcsönös elismerésen alapuló eljárásban engedélyezésre kerültek |  |  |  |  | 130 000 |
-| I.B.2.6. |  |  |  | Globál számozásra történő változtatás |  |  |  |  | 130 000 |
-| I.B.2.7. |  |  |  | A készítmény osztályozási besorolásának változása |  |  |  |  | 351 000 |
-| I.B.3. |  |  | Forgalombahozatali engedély megújítása |  |  |  |  |  |  |
-| I.B.3.1. |  |  |  | Nemzeti |  |  |  |  |  |
-| I.B.3.1.a. |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  |  | 45 000 |
-| I.B.3.1.b. |  |  |  |  |  | Kevert allergének (több komponens) |  |  | 180 000 |
-| I.B.3.1.c. |  |  |  |  |  | Egyéb |  |  | 180 000 |
-| I.B.3.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |  |
-| I.B.3.2.a. |  |  |  |  |  |  | RMS |  |  |
-| I.B.3.2.a.1. |  |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) | 145 000 |
-| I.B.3.2.a.2. |  |  |  |  |  |  |  | Kevert allergének (több komponens) | 765 000 |
-| I.B.3.2.a.3. |  |  |  |  |  |  |  | Egyéb | 765 000 |
-| I.B.3.2.b. |  |  |  |  |  |  | CMS |  |  |
-| I.B.3.2.b.1. |  |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) | 90 000 |
-| I.B.3.2.b.2. |  |  |  |  |  |  |  | Kevert allergének (több komponens) | 615 000 |
-| I.B.3.2.b.3. |  |  |  |  |  |  |  | Egyéb | 615 000 |
-| I.B.4. |  |  | Forgalombahozatali engedély visszavonása |  |  |  |  |  | 9 000 |
-| I.B.5. |  |  | Forgalombahozatali engedély éves fenntartása |  |  |  |  |  |  |
-| I.B.5.1. |  |  |  | Kiindulási csoportonként (egy komponens) |  |  |  |  | 90 000 |
-| I.B.5.2. |  |  |  | Kevert allergének (több komponens) |  |  |  |  | 135 000 |
-| I.B.5.3. |  |  |  | Egyéb |  |  |  |  | 135 000 |
-| II. | Hasonszenvi (homeopátiás) készítmények |  |  |  |  |  |  |  |  |
-| II.A. |  |  | Új engedélyezések |  |  |  |  |  |  |
-| II.A.1. |  |  |  |  |  | Egykomponensű gyógyszer |  |  |  |
-| II.A.1.1. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szerepel |  | 67 500 |
-| II.A.1.2. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szerepel |  | 270 000 |
-| II.A.2. |  |  |  |  |  | Többkomponensű gyógyszer |  |  |  |
-| II.A.2.1. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szereplő hatóanyagok kombinációja |  | 135 000 |
-| II.A.2.2. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szereplő hatóanyagot (is) tartalmaz |  | 540 000 |
-| II.A.3. |  |  |  |  |  | Egyéb |  |  | 540 000 |
-| II.B. |  |  | Forgalombahozatali engedély módosítása |  |  |  |  |  |  |
-| II.B.1. |  |  |  | Type IA-IB |  |  |  |  |  |
-| II.B.1.1. |  |  |  |  |  | Egykomponensű gyógyszer |  |  |  |
-| II.B.1.1.a. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szerepel |  | 11 700 |
-| II.B.1.1.b. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szerepel |  | 11 700 |
-| II.B.1.2. |  |  |  |  |  | Többkomponensű gyógyszer |  |  |  |
-| II.B.1.2.a. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szereplő hatóanyagok kombinációja |  | 117 000 |
-| II.B.1.2.b. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szereplő hatóanyagot (is) tartalmaz |  | 117 000 |
-| II.B.1.3. |  |  |  |  |  | Egyéb |  |  | 117 000 |
-| II.B.2. |  |  |  | Type II |  |  |  |  |  |
-| II.B.2.1. |  |  |  |  |  | Egykomponensű gyógyszer |  |  |  |
-| II.B.2.1.a. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szerepel |  | 23 400 |
-| II.B.2.1.b. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szerepel |  | 23 400 |
-| II.B.2.2. |  |  |  |  |  | Többkomponensű gyógyszer |  |  |  |
-| II.B.2.2.a. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szereplő hatóanyagok kombinációja |  | 234 000 |
-| II.B.2.2.b. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szereplő hatóanyagot (is) tartalmaz |  | 234 000 |
-| II.B.2.3. |  |  |  |  |  | Egyéb |  |  | 234 000 |
-| II.B.2.3.a. |  |  |  |  |  | 30/2005. (VIII. 2.) EüM rendelet 3. § (4) bekezdésnek megfelelő beadványok |  |  | 130 000 |
-| II.B.2.3.b. |  |  |  |  |  | Egyéb beadványok |  |  | 26 000 |
-| II.B.3. |  |  |  | Az alkalmazási előírást nem érintő, kizárólag a címke és betegtájékoztató szövegére vonatkozó módosítások [2005. évi XCV. törvény, 10. § (2) bek.] |  |  |  |  | 26 000 |
-| II.B.4. |  |  |  | A forgalombahozatali engedély jogosultság átruházása (jogutódlás) |  |  |  |  | 234 000 |
-| II.B.5. |  |  |  | A magyar forgalombahozatali engedélyben olyan kiszerelési egységek hozzáadása /törlése, melyek kölcsönös elismerésen alapuló eljárásban engedélyezésre kerültek |  |  |  |  | 130 000 |
-| II.B.6. |  |  |  | Globál számozásra történő változtatás |  |  |  |  | 130 000 |
-| II.B.7. |  |  |  | A készítmény osztályozási besorolásának változása |  |  |  |  | 351 000 |
-| II.C. |  |  | Forgalombahozatali engedély megújítása |  |  |  |  |  |  |
-| II.C.1. |  |  |  |  |  | Egykomponensű gyógyszer |  |  |  |
-| II.C.1.1. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szerepel |  | 45 000 |
-| II.C.1.2. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szerepel |  | 180 000 |
-| II.C.2. |  |  |  |  |  | Többkomponensű gyógyszer |  |  |  |
-| II.C.2.1. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szereplő hatóanyagok kombinációja |  | 90 000 |
-| II.C.2.2. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szereplő hatóanyagot (is) tartalmaz |  | 350 000 |
-| II.C.3. |  |  |  |  |  | Egyéb |  |  | 350 000 |
-| II.D. |  |  | Forgalombahozatali engedély éves fenntartása |  |  |  |  |  |  |
-| II.D.1. |  |  |  | Egykomponensű gyógyszer |  |  |  |  | 90 000 |
-| II.D.2. |  |  |  | Többkomponensű gyógyszer |  |  |  |  | 135 000 |
-| II.E. |  |  | Forgalombahozatali engedély visszavonása |  |  |  |  |  | 27 000 |
-| III. | Egyéb eljárások |  |  |  |  |  |  |  |  |
-| III.A. | Párhuzamos Importengedély kiadása |  |  |  |  |  |  |  | 500 000 |
-| III.B. | Párhuzamos Importengedély módosítása |  |  |  |  |  |  |  |  |
-| III.B.1. |  | Type IA-IB |  |  |  |  |  |  | 234 000 |
-| III.B.2. |  | Type II |  |  |  |  |  |  | 234 000 |
-| III.C. | Párhuzamos Importengedély megújítása újabb öt évre |  |  |  |  |  |  |  | 250 000 |
-| III.D. | Párhuzamos Importengedély fenntartása |  |  |  |  |  |  |  | 234 000 |
-| III.E. | Egyes gyártási tételek felhasználhatóságának meghosszabbítása |  |  |  |  |  |  |  | 27 000 |
-| III.F. | A forgalombahozatali engedélytől való eltérés engedélyezése egyes gyártási tételek esetén |  |  |  |  |  |  |  | 27 000 |
-| III.G. | Vizsgálati készítménnyel végzendő klinikai vizsgálat az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálatáról és a helyes klinikai gyakorlat alkalmazásáról szóló 35/2005. (VIII. 26.) EüM rendelet 2. §-a (1) bekezdésének q) pontja szerinti nem kereskedelmi vizsgálat kivételével |  |  |  |  |  |  |  |  |
-| III.G.1. |  | Engedélyezése |  |  |  |  |  |  | 580 000 |
-| III.G.2. |  | Klinikai vizsgálat engedélyének módosítása |  |  |  |  |  |  | 110 000 |
-| III.H. | Gyógyszergyártási engedély |  |  |  |  |  |  |  |  |
-| III.H.1. |  | Helyszíni ellenőrzése (telephelyenként) |  |  |  |  |  |  | 450 000 |
-| III.H.2. |  | Gyógyszergyártási engedély kiadása |  |  |  |  |  |  | 225 000 |
-| III.H.3. |  | Gyógyszergyártási engedély módosítása |  |  |  |  |  |  | 90 000 |
-| III.I. | Gyógyszer-nagykereskedelmi engedély |  |  |  |  |  |  |  |  |
-| III.I.1. |  | Helyszíni ellenőrzése (telephelyenként) |  |  |  |  |  |  | 360 000 |
-| III.I.2 |  | Gyógyszer-nagykereskedelmi engedély kiadása |  |  |  |  |  |  | 90 000 |
-| III.I.3. |  | Gyógyszer-nagykereskedelmi engedély módosítása |  |  |  |  |  |  | 90 000 |
-| III.I.4. | Gyógyszer-közvetítői tevékenység regisztrációja |  |  |  |  |  |  |  | 90 000 |
-| III.I.5. | Gyógyszer-közvetítői tevékenység regisztrációjának módosítása |  |  |  |  |  |  |  | 9 000 |
-| III.J. | Vizsgálati készítmények biztonsági vizsgálatait ellátó laboratóriumok helyszíni ellenőrzése a Helyes Laboratóriumi Gyakorlat szempontjából és az erre vonatkozó bizonylatkiadás |  |  |  |  |  |  |  | 382 500 |
-| III.K. | Magyarországon forgalombahozatali engedéllyel rendelkező gyógyszerkészítmény forgalmazásának, gyártásának rendszeres helyszíni ellenőrzését és annak megfelelőségét igazoló bizonylatkiadása, készítményenként és bizonylatonként |  |  |  |  |  |  |  | 22 500 |
-| III.L. |  |  |  |  |  |  |  |  |  |
-| III.M. | Gyógyszerkészítménnyé történő átminősítés |  |  |  |  |  |  |  | 405 000 |
-| III.N. | Géntechnológiai engedély |  |  |  |  |  |  |  |  |
-| III.N.1. | Természetes szervezetek géntechnológiával való módosításának engedélyezése: géntechnológiai módosításonként |  |  |  |  |  |  |  | 70 000 |
-| III.N.2. | Géntechnológiai módosításokat végző létesítmény létesítése: létesítményenként |  |  |  |  |  |  |  | 260 000 |
-| III.N.3. | A géntechnológiával módosított szervezetek és az azokból előállított termékek zárt rendszerben történő felhasználása: géntechnológiai módosításonként |  |  |  |  |  |  |  | 135 000 |
-| III.N.4. | A géntechnológiával módosított szervezetek és az azokból előállított termékeknek a környezetbe való kibocsátása: géntechnológiai módosításonként és kibocsátási helyenként |  |  |  |  |  |  |  | 300 000 |
-| III.N.5. | A géntechnológiával módosított szervezetek és az azokból előállított termékek forgalombahozatala: géntechnológiai módosításonként |  |  |  |  |  |  |  | 250 000 |
-| III.N.6. | A géntechnológiával módosított szervezetek és az azokból előállított termékek kivitele és behozatala: kérelmenként |  |  |  |  |  |  |  | 180 000 |
-| III.N.7. | A géntechnológiával módosított szervezetek és az azokból előállított termékek szállítása: kérelmenként |  |  |  |  |  |  |  | 70 000 |
-| III.O. | Vizsgálóhely I. fázisú klinikai farmakológiai vizsgálóhellyé történő minősítése |  |  |  |  |  |  |  | 450 000 |
-| III.P. | Gyógyszernek nem minősülő gyógyhatású készítmény |  |  |  |  |  |  |  |  |
-| III.P.1. | A forgalombahozatali engedély módosítása |  |  |  |  |  |  |  | 90 000 |
-| III.P.2. | A forgalombahozatali engedély meghosszabbítása |  |  |  |  |  |  |  | 90 000 |
-| III.Q. | Gyógyszerhatóanyag-gyártási, import- és forgalmazási tevékenység regisztrációja |  |  |  |  |  |  |  |  |
-| III.Q.1. | Gyógyszerhatóanyag-gyártási, import- és forgalmazási tevékenység regisztrációja, korábban ilyen tartalmú gyártási engedéllyel rendelkezők számára |  |  |  |  |  |  |  | 90 000 |
-| III.Q.2. | Gyógyszerhatóanyag-gyártási tevékenység nyilvántartásba vétele 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |  |  |  |  |  |  |  |
-| III.Q.2.1. | Nyilvántartásba vétel alapdíja és az első hatóanyag engedélyezése |  |  |  |  |  |  |  | 225 000 |
-| III.Q.2.2. | Gyártott hatóanyagonként és telephelyenként |  |  |  |  |  |  |  | 90 000 |
-| III.Q.3. | Gyógyszerhatóanyag-importtevékenység regisztrációja 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |  |  |  |  |  |  |  |
-| III.Q.3.1. | Nyilvántartásba vétel alapdíja és az első hatóanyag engedélyezése |  |  |  |  |  |  |  | 225 000 |
-| III.Q.3.2. | Importált hatóanyagonként és telephelyenként |  |  |  |  |  |  |  | 90 000 |
-| III.Q.4. | Gyógyszerhatóanyag-forgalmazási tevékenység regisztrációja 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |  |  |  |  |  |  |  |
-| III.Q.4.1. | Nyilvántartásba vétel alapdíja és az első hatóanyag engedélyezése |  |  |  |  |  |  |  | 225 000 |
-| III.Q.4.2. | Forgalmazott hatóanyagonként és telephelyenként |  |  |  |  |  |  |  | 90 000 |
-| III.Q.5 | Gyógyszerhatóanyag-gyártási, import- és forgalmazási tevékenység regisztráció új hatóanyaggal, hatóanyagonként és telephelyenként |  |  |  |  |  |  |  | 90 000 |
-| III.Q.6. | Gyógyszerhatóanyag-gyártási, import- és forgalmazási tevékenység regisztráció módosítása minden egyéb esetben bejelentésenként |  |  |  |  |  |  |  | 15 000 |
-| III.R. | Gyógyszerhatóanyag-gyártási tevékenység helyszíni ellenőrzése kérelemre, GMP- megfelelőség igazolása céljából (telephelyenként) |  |  |  |  |  |  |  | 450 000 |
-| III.S. | Hatósági bizonyítvány kiállítása a vámhatóság részére gyógyszer-nagykereskedelmi és gyógyszergyártási engedélyről, illetve a belföldi forgalombahozatal céljára behozni kívánt gyógyszer engedélyéről |  |  |  |  |  |  |  | 22 500 |
-| III.T. | Ex tempore előállított radioaktív gyógyszer előállításának engedélyezése, első készítmény (első hatáserősség, első gyógyszerforma) |  |  |  |  |  |  |  | 750 000 |
-| III. U | Ex tempore előállított radioaktív gyógyszer előállításának engedélyezése további készítményenként (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  |  | 600 000 |
-| III.V. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének módosítása (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  |  | 200 000 |
-| III.W. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének megújítása (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  |  | 200 000 |
-| III. X. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének éves fenntartása (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  |  | 200 000 |
-| III.Y. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének visszavonása (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  |  | 30 000 |
+|  |  |  |  |  |  |  |  |  |  | Összeg |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| I. | Nem hasonszenvi (allopátiás) készítmények |  |  |  |  |  |  |  |  |  |
+| I.A. |  | Minden allopátiás készítmény kivéve az allergéneket |  |  |  |  |  |  |  |  |
+| I.A.1. |  |  | Új forgalombahozatali engedély |  |  |  |  |  |  |  |
+| I.A.1.1. |  |  |  | Nemzeti eljárásban |  |  |  |  |  |  |
+| I.A.1.1.a. |  |  |  |  |  | Originális, vagy originális családbővítés |  |  |  | 1 350 000 |
+| I.A.1.1.b. |  |  |  |  |  | Generikus, vagy generikus családbővítése |  |  |  | 675 000 |
+| I.A.1.1.c. |  |  |  |  |  | Egyéb, vagy egyéb családbővítés |  |  |  | 675 000 |
+| I.A.1.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |  |  |
+| I.A.1.2.a. |  |  |  |  |  | Originális, vagy originális családbővítés |  |  |  |  |
+| I.A.1.2.a.1. |  |  |  |  |  |  | RMS |  |  | 3 150 000 |
+| I.A.1.2.a.2. |  |  |  |  |  |  | CMS |  |  | 2 250 000 |
+| I.A.1.2.b. |  |  |  |  |  | Generikus, vagy generikus családbővítése |  |  |  |  |
+| I.A.1.2.b.1. |  |  |  |  |  |  | RMS |  |  | 1 575 000 |
+| I.A.1.2.b.2. |  |  |  |  |  |  | CMS |  |  | 1 175 000 |
+| I.A.1.2.c. |  |  |  |  |  | Egyéb, vagy egyéb családbővítés |  |  |  |  |
+| I.A.1.2.c.1. |  |  |  |  |  |  | RMS |  |  | 1 575 000 |
+| I.A.1.2.c.2. |  |  |  |  |  |  | CMS |  |  | 1 175 000 |
+| I.A.2. |  |  | Forgalombahozatali engedély módosítása |  |  |  |  |  |  |  |
+| I.A.2.1. |  |  |  | Nemzeti |  |  |  |  |  |  |
+| I.A.2.1.a. |  |  |  |  |  | Type IA-IB |  |  |  | 234 000 |
+| I.A.2.1.b. |  |  |  |  |  | Type II |  |  |  | 351 000 |
+| I.A.2.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |  |  |
+| I.A.2.2.a. |  |  |  |  |  | Type IA-IB |  |  |  |  |
+| I.A.2.2.a.1. |  |  |  |  |  |  | RMS |  |  | 325 000 |
+| I.A.2.2.a.2. |  |  |  |  |  |  | CMS |  |  | 234 000 |
+| I.A.2.2.b. |  |  |  |  |  | Type II |  |  |  |  |
+| I.A.2.2.b.1. |  |  |  |  |  |  | RMS |  |  | 455 000 |
+| I.A.2.2.b.2. |  |  |  |  |  |  | CMS |  |  | 351 000 |
+| I.A.2.3. |  |  |  | Az alkalmazási előírást nem érintő, kizárólag a címke és betegtájékoztató szövegére vonatkozó módosítások [2005. évi XCV. törvény, 10. § (2) bek.] |  |  |  |  |  | 26 000 |
+| I.A.2.3.a. |  |  |  |  |  | Az emberi alkalmazásra kerülő gyógyszerek címkéjéről és betegtájékoztatójáról szóló 30/2005. (VIII. 2.) EüM rendelet 3. § (4) bekezdésnek megfelelő beadványok |  |  |  | 130 000 |
+| I.A.2.3.b. |  |  |  |  |  | Egyéb beadványok |  |  |  | 26 000 |
+| I.A.2.4. |  |  |  | A forgalombahozatali engedély jogosultság átruházása (jogutódlás) |  |  |  |  |  | 234 000 |
+| I.A.2.5. |  |  |  | A magyar forgalombahozatali engedélyben olyan kiszerelési egységek hozzáadása /törlése, melyek kölcsönös elismerésen alapuló eljárásban engedélyezésre kerültek |  |  |  |  |  | 130 000 |
+| I.A.2.6. |  |  |  | Globál számozásra történő változtatás |  |  |  |  |  | 130 000 |
+| I.A.2.7. |  |  |  | A készítmény osztályozási besorolásának változása |  |  |  |  |  | 351 000 |
+| I.A.3. |  |  | Forgalombahozatali engedély megújítása |  |  |  |  |  |  |  |
+| I.A.3.1. |  |  |  | Nemzeti |  |  |  |  |  |  |
+| I.A.3.1.a. |  |  |  |  |  | Originális |  |  |  | 675 000 |
+| I.A.3.1.b. |  |  |  |  |  | Generikus |  |  |  | 325 000 |
+| I.A.3.1.c. |  |  |  |  |  | Egyéb |  |  |  | 325 000 |
+| I.A.3.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |  |  |
+| I.A.3.2.a. |  |  |  |  |  | Originális |  |  |  |  |
+| I.A.3.2.a.1. |  |  |  |  |  |  | RMS |  |  | 1 575 000 |
+| I.A.3.2.a.2. |  |  |  |  |  |  | CMS |  |  | 1 125 000 |
+| I.A.3.2.b. |  |  |  |  |  | Generikus |  |  |  |  |
+| I.A.3.2.b.1. |  |  |  |  |  |  | RMS |  |  | 775 000 |
+| I.A.3.2.b.2. |  |  |  |  |  |  | CMS |  |  | 550 000 |
+| I.A.3.2.c. |  |  |  |  |  | Egyéb |  |  |  |  |
+| I.A.3.2.c.1. |  |  |  |  |  |  | RMS |  |  | 775 000 |
+| I.A.3.2.c.2. |  |  |  |  |  |  | CMS |  |  | 550 000 |
+| I.A.4. |  |  | Forgalombahozatali engedély visszavonása |  |  |  |  |  |  | 67 500 |
+| I.A.5. |  |  | Forgalombahozatali engedély éves fenntartása |  |  |  |  |  |  | 270 000 |
+| I.B |  | Allergének |  |  |  |  |  |  |  |  |
+| I.B.1. |  |  | Új forgalombahozatali engedély |  |  |  |  |  |  |  |
+| I.B.1.1. |  |  |  | Nemzeti |  |  |  |  |  |  |
+| I.B.1.1.a. |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  |  |  | 45 000 |
+| I.B.1.1.b. |  |  |  |  |  | Kevert allergének (több komponens) |  |  |  | 315 000 |
+| I.B.1.1.c. |  |  |  |  |  | Egyéb |  |  |  | 315 000 |
+| I.B.1.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |  |  |
+| I.B.1.2.a. |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  |  |  |  |
+| I.B.1.2.a.1. |  |  |  |  |  |  | RMS |  |  | 245 000 |
+| I.B.1.2.a.2. |  |  |  |  |  |  | CMS |  |  | 90 000 |
+| I.B.1.2.b. |  |  |  |  |  | Kevert allergének (több komponens) |  |  |  |  |
+| I.B.1.2.b.1. |  |  |  |  |  |  | RMS |  |  | 1 215 000 |
+| I.B.1.2.b.2. |  |  |  |  |  |  | CMS |  |  | 565 000 |
+| I.B.1.2.c. |  |  |  |  |  | Egyéb |  |  |  |  |
+| I.B.1.2.c.1. |  |  |  |  |  |  | RMS |  |  | 1 215 000 |
+| I.B.1.2.c.2. |  |  |  |  |  |  | CMS |  |  | 565 000 |
+| I.B.2. |  |  | Forgalombahozatali engedély módosítása |  |  |  |  |  |  |  |
+| I.B.2.1. |  |  |  | Nemzeti |  |  |  |  |  |  |
+| I.B.2.1.a. |  |  |  |  |  | Type IA-IB |  |  |  |  |
+| I.B.2.1.a.1. |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  |  | 11 700 |
+| I.B.2.1.a.2. |  |  |  |  |  |  | Kevert allergének (több komponens) |  |  | 58 500 |
+| I.B.2.1.a.3. |  |  |  |  |  |  | Egyéb |  |  | 58 500 |
+| I.B.2.1.b. |  |  |  |  |  | Type II |  |  |  |  |
+| I.B.2.1.b.1. |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  |  | 26 000 |
+| I.B.2.1.b.2. |  |  |  |  |  |  | Kevert allergének (több komponens) |  |  | 130 000 |
+| I.B.2.1.b.3. |  |  |  |  |  |  | Egyéb |  |  | 130 000 |
+| I.B.2.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |  |  |
+| I.B.2.2.a. |  |  |  |  |  | Type IA-IB |  |  |  |  |
+| I.B.2.2.a.1. |  |  |  |  |  |  | RMS |  |  |  |
+| I.B.2.2.a.1.1. |  |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  | 11 700 |
+| I.B.2.2.a.1.2. |  |  |  |  |  |  |  | Kevert allergének (több komponens) |  | 58 500 |
+| I.B.2.2.a.1.3. |  |  |  |  |  |  |  | Egyéb |  | 58 500 |
+| I.B.2.2.a.2. |  |  |  |  |  |  | CMS |  |  |  |
+| I.B.2.2.a.2.1. |  |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  | 11 700 |
+| I.B.2.2.a.2.2. |  |  |  |  |  |  |  | Kevert allergének (több komponens) |  | 58 500 |
+| I.B.2.2.a.2.3. |  |  |  |  |  |  |  | Egyéb |  | 58 500 |
+| I.B.2.2.b. |  |  |  |  |  | Type II |  |  |  |  |
+| I.B.2.2.b.1. |  |  |  |  |  |  | RMS |  |  |  |
+| I.B.2.2.b.1.1. |  |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  | 39 000 |
+| I.B.2.2.b.1.2. |  |  |  |  |  |  |  | Kevert allergének (több komponens) |  | 260 000 |
+| I.B.2.2.b.1.3. |  |  |  |  |  |  |  | Egyéb |  | 260 000 |
+| I.B.2.2.b.2. |  |  |  |  |  |  | CMS |  |  |  |
+| I.B.2.2.b.2.1. |  |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  | 26 000 |
+| I.B.2.2.b.2.2. |  |  |  |  |  |  |  | Kevert allergének (több komponens) |  | 130 000 |
+| I.B.2.2.b.2.3. |  |  |  |  |  |  |  | Egyéb |  | 130 000 |
+| I.B.2.3. |  |  |  | Az alkalmazási előírást nem érintő, kizárólag a címke és betegtájékoztató szövegére vonatkozó módosítások [2005. évi XCV. törvény, 10. § (2) bek.] |  |  |  |  |  | 26 000 |
+| I.B.2.3.a. |  |  |  |  |  | Az emberi alkalmazásra kerülő gyógyszerek címkéjéről és betegtájékoztatójáról szóló 30/2005. (VIII. 2.) EüM rendelet 3. § (4) bekezdésnek megfelelő beadványok |  |  |  | 130 000 |
+| I.B.2.3.b. |  |  |  |  |  | Egyéb beadványok |  |  |  | 26 000 |
+| I.B.2.4. |  |  |  | A forgalombahozatali engedély jogosultság átruházása (jogutódlás) |  |  |  |  |  | 234 000 |
+| I.B.2.5. |  |  |  | A magyar forgalombahozatali engedélyben olyan kiszerelési egységek hozzáadása /törlése, melyek kölcsönös elismerésen alapuló eljárásban engedélyezésre kerültek |  |  |  |  |  | 130 000 |
+| I.B.2.6. |  |  |  | Globál számozásra történő változtatás |  |  |  |  |  | 130 000 |
+| I.B.2.7. |  |  |  | A készítmény osztályozási besorolásának változása |  |  |  |  |  | 351 000 |
+| I.B.3. |  |  | Forgalombahozatali engedély megújítása |  |  |  |  |  |  |  |
+| I.B.3.1. |  |  |  | Nemzeti |  |  |  |  |  |  |
+| I.B.3.1.a. |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  |  |  | 45 000 |
+| I.B.3.1.b. |  |  |  |  |  | Kevert allergének (több komponens) |  |  |  | 180 000 |
+| I.B.3.1.c. |  |  |  |  |  | Egyéb |  |  |  | 180 000 |
+| I.B.3.2. |  |  |  | Kölcsönös elismerésen alapuló eljárásban |  |  |  |  |  |  |
+| I.B.3.2.a. |  |  |  |  |  |  | RMS |  |  |  |
+| I.B.3.2.a.1. |  |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  | 145 000 |
+| I.B.3.2.a.2. |  |  |  |  |  |  |  | Kevert allergének (több komponens) |  | 765 000 |
+| I.B.3.2.a.3. |  |  |  |  |  |  |  | Egyéb |  | 765 000 |
+| I.B.3.2.b. |  |  |  |  |  |  | CMS |  |  |  |
+| I.B.3.2.b.1. |  |  |  |  |  |  |  | Kiindulási csoportonként (egy komponens) |  | 90 000 |
+| I.B.3.2.b.2. |  |  |  |  |  |  |  | Kevert allergének (több komponens) |  | 615 000 |
+| I.B.3.2.b.3. |  |  |  |  |  |  |  | Egyéb |  | 615 000 |
+| I.B.4. |  |  | Forgalombahozatali engedély visszavonása |  |  |  |  |  |  | 9 000 |
+| I.B.5. |  |  | Forgalombahozatali engedély éves fenntartása |  |  |  |  |  |  |  |
+| I.B.5.1. |  |  |  | Kiindulási csoportonként (egy komponens) |  |  |  |  |  | 90 000 |
+| I.B.5.2. |  |  |  | Kevert allergének (több komponens) |  |  |  |  |  | 135 000 |
+| I.B.5.3. |  |  |  | Egyéb |  |  |  |  |  | 135 000 |
+| II. | Hasonszenvi (homeopátiás) készítmények |  |  |  |  |  |  |  |  |  |
+| II.A. |  |  | Új engedélyezések |  |  |  |  |  |  |  |
+| II.A.1. |  |  |  |  |  | Egykomponensű gyógyszer |  |  |  |  |
+| II.A.1.1. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szerepel |  |  | 67 500 |
+| II.A.1.2. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szerepel |  |  | 270 000 |
+| II.A.2. |  |  |  |  |  | Többkomponensű gyógyszer |  |  |  |  |
+| II.A.2.1. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szereplő hatóanyagok kombinációja |  |  | 135 000 |
+| II.A.2.2. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szereplő hatóanyagot (is) tartalmaz |  |  | 540 000 |
+| II.A.3. |  |  |  |  |  | Egyéb |  |  |  | 540 000 |
+| II.B. |  |  | Forgalombahozatali engedély módosítása |  |  |  |  |  |  |  |
+| II.B.1. |  |  |  | Type IA-IB |  |  |  |  |  |  |
+| II.B.1.1. |  |  |  |  |  | Egykomponensű gyógyszer |  |  |  |  |
+| II.B.1.1.a. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szerepel |  |  | 11 700 |
+| II.B.1.1.b. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szerepel |  |  | 11 700 |
+| II.B.1.2. |  |  |  |  |  | Többkomponensű gyógyszer |  |  |  |  |
+| II.B.1.2.a. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szereplő hatóanyagok kombinációja |  |  | 117 000 |
+| II.B.1.2.b. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szereplő hatóanyagot (is) tartalmaz |  |  | 117 000 |
+| II.B.1.3. |  |  |  |  |  | Egyéb |  |  |  | 117 000 |
+| II.B.2. |  |  |  | Type II |  |  |  |  |  |  |
+| II.B.2.1. |  |  |  |  |  | Egykomponensű gyógyszer |  |  |  |  |
+| II.B.2.1.a. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szerepel |  |  | 23 400 |
+| II.B.2.1.b. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szerepel |  |  | 23 400 |
+| II.B.2.2. |  |  |  |  |  | Többkomponensű gyógyszer |  |  |  |  |
+| II.B.2.2.a. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szereplő hatóanyagok kombinációja |  |  | 234 000 |
+| II.B.2.2.b. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szereplő hatóanyagot (is) tartalmaz |  |  | 234 000 |
+| II.B.2.3. |  |  |  |  |  | Egyéb |  |  |  | 234 000 |
+| II.B.2.3.a. |  |  |  |  |  | 30/2005. (VIII. 2.) EüM rendelet 3. § (4) bekezdésnek megfelelő beadványok |  |  |  | 130 000 |
+| II.B.2.3.b. |  |  |  |  |  | Egyéb beadványok |  |  |  | 26 000 |
+| II.B.3. |  |  |  | Az alkalmazási előírást nem érintő, kizárólag a címke és betegtájékoztató szövegére vonatkozó módosítások [2005. évi XCV. törvény, 10. § (2) bek.] |  |  |  |  |  | 26 000 |
+| II.B.4. |  |  |  | A forgalombahozatali engedély jogosultság átruházása (jogutódlás) |  |  |  |  |  | 234 000 |
+| II.B.5. |  |  |  | A magyar forgalombahozatali engedélyben olyan kiszerelési egységek hozzáadása /törlése, melyek kölcsönös elismerésen alapuló eljárásban engedélyezésre kerültek |  |  |  |  |  | 130 000 |
+| II.B.6. |  |  |  | Globál számozásra történő változtatás |  |  |  |  |  | 130 000 |
+| II.B.7. |  |  |  | A készítmény osztályozási besorolásának változása |  |  |  |  |  | 351 000 |
+| II.C. |  |  | Forgalombahozatali engedély megújítása |  |  |  |  |  |  |  |
+| II.C.1. |  |  |  |  |  | Egykomponensű gyógyszer |  |  |  |  |
+| II.C.1.1. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szerepel |  |  | 45 000 |
+| II.C.1.2. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szerepel |  |  | 180 000 |
+| II.C.2. |  |  |  |  |  | Többkomponensű gyógyszer |  |  |  |  |
+| II.C.2.1. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében szereplő hatóanyagok kombinációja |  |  | 90 000 |
+| II.C.2.2. |  |  |  |  |  |  | Ha a megnevezett hatékony alkotórész az Európai Gyógyszerkönyvben vagy az Európai Unió tagállamai által használt gyógyszerkönyvek egyikében sem szereplő hatóanyagot (is) tartalmaz |  |  | 350 000 |
+| II.C.3. |  |  |  |  |  | Egyéb |  |  |  | 350 000 |
+| II.D. |  |  | Forgalombahozatali engedély éves fenntartása |  |  |  |  |  |  |  |
+| II.D.1. |  |  |  | Egykomponensű gyógyszer |  |  |  |  |  | 90 000 |
+| II.D.2. |  |  |  | Többkomponensű gyógyszer |  |  |  |  |  | 135 000 |
+| II.E. |  |  | Forgalombahozatali engedély visszavonása |  |  |  |  |  |  | 27 000 |
+| III. | Egyéb eljárások |  |  |  |  |  |  |  |  |  |
+| III.A. | Párhuzamos Importengedély kiadása |  |  |  |  |  |  |  |  | 500 000 |
+| III.B. | Párhuzamos Importengedély módosítása |  |  |  |  |  |  |  |  |  |
+| III.B.1. |  | Type IA-IB |  |  |  |  |  |  |  | 234 000 |
+| III.B.2. |  | Type II |  |  |  |  |  |  |  | 234 000 |
+| III.C. | Párhuzamos Importengedély megújítása újabb öt évre |  |  |  |  |  |  |  |  | 250 000 |
+| III.D. | Párhuzamos Importengedély fenntartása |  |  |  |  |  |  |  |  | 234 000 |
+| III.E. | Egyes gyártási tételek felhasználhatóságának meghosszabbítása |  |  |  |  |  |  |  |  | 27 000 |
+| III.F. | A forgalombahozatali engedélytől való eltérés engedélyezése egyes gyártási tételek esetén |  |  |  |  |  |  |  |  | 27 000 |
+| III.G. | Vizsgálati gyógyszerrel végzendő klinikai vizsgálat az emberi felhasználásra kerülő vizsgálati gyógyszerek a nem kereskedelmi vizsgálat kivételével |  |  |  |  |  |  |  |  |  |
+| III.G.1. |  | Klinikai vizsgálat engedélyezése, ha a vizsgálatot csak Magyarországon tervezik folytatni |  |  |  |  |  |  |  | 580 000 |
+| III.G.2. |  | Kismértékű beavatkozással járó klinikai vizsgálat engedélyezése |  |  |  |  |  |  |  | 580 000 |
+| III.G.3. |  | Klinikai vizsgálat engedélyezése, ha a vizsgálatot több tagállamban tervezik folytatni |  |  |  |  |  |  |  | 750 000 |
+| III.G.4. |  | A III.G.1. és a III.G.2. sor szerinti engedélyezési eljárás, ha a kérelmező csak az értékelő jelentés I. részére nézve kér értékelést |  |  |  |  |  |  |  | 435 000 |
+| III.G.5. |  | A III.G.1. és a III.G.2. sor szerinti engedélyezési eljárás, ha a kérelmező csak az értékelő jelentés II. részére nézve kér értékelést |  |  |  |  |  |  |  | 145 000 |
+| III.G.6. |  | A III.G.3. sor szerinti engedélyezési eljárás, ha a kérelmező csak az értékelő jelentés I. részére nézve kér értékelést |  |  |  |  |  |  |  | 562 500 |
+| III.G.7. |  | A III.G.3. sor szerinti engedélyezési eljárás, ha a kérelmező csak az értékelő jelentés II. részére nézve kér értékelést |  |  |  |  |  |  |  | 187 500 |
+| III.G.8. |  | A III.G.2., III.G.3., a III.G.4. és a III.G.6. sor szerinti engedélyezési eljárás díja mellett fizetendő kiegészítő díj, ha Magyarország a jelentéskészítő tagállam |  |  |  |  |  |  |  | 500 000 |
+| III.G.9. |  | A klinikai vizsgálat lényeges módosítása az értékelő jelentés I. részében szereplő szempont tekintetében |  |  |  |  |  |  |  | 110 000 |
+| III.G.10. |  | A klinikai vizsgálat lényeges módosítása az értékelő jelentés II. részében szereplő szempont tekintetében |  |  |  |  |  |  |  | 110 000 |
+| III.G.11. |  | A klinikai vizsgálat lényeges módosítása az értékelő jelentés I. és II. részében szereplő szempont tekintetében |  |  |  |  |  |  |  | 220 000 |
+| III.G.12. |  | A III.G.9. és a III.G.11. sor szerinti engedélyezési eljárás díja mellett fizetendő kiegészítő díj, ha Magyarország a jelentéskészítő tagállam |  |  |  |  |  |  |  | 90 000 |
+| III.G.13. |  | Érintett tagállam utólagos bevonására irányuló eljárás, ha Magyarország a jelentéskészítő tagállam |  |  |  |  |  |  |  | 200 000 |
+| III.G.14. |  | Az 536/2014/EU parlamenti és tanácsi rendelet 44. cikke szerinti tagállami együttműködésben végzett értékelési eljárás díja, ha Magyarország a biztonsági értékelést végző tagállam |  |  |  |  |  |  |  | 500 000 |
+| III.H. | Gyógyszergyártási engedély |  |  |  |  |  |  |  |  |  |
+| III.H.1. |  | Helyszíni ellenőrzése (telephelyenként) |  |  |  |  |  |  |  | 450 000 |
+| III.H.2. |  | Gyógyszergyártási engedély kiadása |  |  |  |  |  |  |  | 225 000 |
+| III.H.3. |  | Gyógyszergyártási engedély módosítása |  |  |  |  |  |  |  | 90 000 |
+| III.I. | Gyógyszer-nagykereskedelmi engedély |  |  |  |  |  |  |  |  |  |
+| III.I.1. |  | Helyszíni ellenőrzése (telephelyenként) |  |  |  |  |  |  |  | 360 000 |
+| III.I.2 |  | Gyógyszer-nagykereskedelmi engedély kiadása |  |  |  |  |  |  |  | 90 000 |
+| III.I.3. |  | Gyógyszer-nagykereskedelmi engedély módosítása |  |  |  |  |  |  |  | 90 000 |
+| III.I.4. | Gyógyszer-közvetítői tevékenység regisztrációja |  |  |  |  |  |  |  |  | 90 000 |
+| III.I.5. | Gyógyszer-közvetítői tevékenység regisztrációjának módosítása |  |  |  |  |  |  |  |  | 9 000 |
+| III.J. | Vizsgálati gyógyszerek biztonsági vizsgálatait ellátó laboratóriumok helyszíni ellenőrzése a Helyes Laboratóriumi Gyakorlat szempontjából és az erre vonatkozó bizonylatkiadás |  |  |  |  |  |  |  |  | 382 500 |
+| III.K. | Magyarországon forgalombahozatali engedéllyel rendelkező gyógyszerkészítmény forgalmazásának, gyártásának rendszeres helyszíni ellenőrzését és annak megfelelőségét igazoló bizonylatkiadása, készítményenként és bizonylatonként |  |  |  |  |  |  |  |  | 22 500 |
+| III.L. |  |  |  |  |  |  |  |  |  |  |
+| III.M. | Gyógyszerkészítménnyé történő átminősítés |  |  |  |  |  |  |  |  | 405 000 |
+| III.N. | Géntechnológiai engedély |  |  |  |  |  |  |  |  |  |
+| III.N.1. | Természetes szervezetek géntechnológiával való módosításának engedélyezése: géntechnológiai módosításonként |  |  |  |  |  |  |  |  | 70 000 |
+| III.N.2. | Géntechnológiai módosításokat végző létesítmény létesítése: létesítményenként |  |  |  |  |  |  |  |  | 260 000 |
+| III.N.3. | A géntechnológiával módosított szervezetek és az azokból előállított termékek zárt rendszerben történő felhasználása: géntechnológiai módosításonként |  |  |  |  |  |  |  |  | 135 000 |
+| III.N.4. | A géntechnológiával módosított szervezetek és az azokból előállított termékeknek a környezetbe való kibocsátása: géntechnológiai módosításonként és kibocsátási helyenként |  |  |  |  |  |  |  |  | 300 000 |
+| III.N.5. | A géntechnológiával módosított szervezetek és az azokból előállított termékek forgalombahozatala: géntechnológiai módosításonként |  |  |  |  |  |  |  |  | 250 000 |
+| III.N.6. | A géntechnológiával módosított szervezetek és az azokból előállított termékek kivitele és behozatala: kérelmenként |  |  |  |  |  |  |  |  | 180 000 |
+| III.N.7. | A géntechnológiával módosított szervezetek és az azokból előállított termékek szállítása: kérelmenként |  |  |  |  |  |  |  |  | 70 000 |
+| III.O. | Vizsgálóhely I. fázisú klinikai farmakológiai vizsgálóhellyé történő minősítése |  |  |  |  |  |  |  |  | 450 000 |
+| III.P. | Gyógyszernek nem minősülő gyógyhatású készítmény |  |  |  |  |  |  |  |  |  |
+| III.P.1. | A forgalombahozatali engedély módosítása |  |  |  |  |  |  |  |  | 90 000 |
+| III.P.2. | A forgalombahozatali engedély meghosszabbítása |  |  |  |  |  |  |  |  | 90 000 |
+| III.Q. | Gyógyszerhatóanyag-gyártási, import- és forgalmazási tevékenység regisztrációja |  |  |  |  |  |  |  |  |  |
+| III.Q.1. | Gyógyszerhatóanyag-gyártási, import- és forgalmazási tevékenység regisztrációja, korábban ilyen tartalmú gyártási engedéllyel rendelkezők számára |  |  |  |  |  |  |  |  | 90 000 |
+| III.Q.2. | Gyógyszerhatóanyag-gyártási tevékenység nyilvántartásba vétele 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |  |  |  |  |  |  |  |  |
+| III.Q.2.1. | Nyilvántartásba vétel alapdíja és az első hatóanyag engedélyezése |  |  |  |  |  |  |  |  | 225 000 |
+| III.Q.2.2. | Gyártott hatóanyagonként és telephelyenként |  |  |  |  |  |  |  |  | 90 000 |
+| III.Q.3. | Gyógyszerhatóanyag-importtevékenység regisztrációja 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |  |  |  |  |  |  |  |  |
+| III.Q.3.1. | Nyilvántartásba vétel alapdíja és az első hatóanyag engedélyezése |  |  |  |  |  |  |  |  | 225 000 |
+| III.Q.3.2. | Importált hatóanyagonként és telephelyenként |  |  |  |  |  |  |  |  | 90 000 |
+| III.Q.4. | Gyógyszerhatóanyag-forgalmazási tevékenység regisztrációja 2013. július 1-jét megelőzően ilyen tevékenységet végzőként nem regisztráltak számára |  |  |  |  |  |  |  |  |  |
+| III.Q.4.1. | Nyilvántartásba vétel alapdíja és az első hatóanyag engedélyezése |  |  |  |  |  |  |  |  | 225 000 |
+| III.Q.4.2. | Forgalmazott hatóanyagonként és telephelyenként |  |  |  |  |  |  |  |  | 90 000 |
+| III.Q.5 | Gyógyszerhatóanyag-gyártási, import- és forgalmazási tevékenység regisztráció új hatóanyaggal, hatóanyagonként és telephelyenként |  |  |  |  |  |  |  |  | 90 000 |
+| III.Q.6. | Gyógyszerhatóanyag-gyártási, import- és forgalmazási tevékenység regisztráció módosítása minden egyéb esetben bejelentésenként |  |  |  |  |  |  |  |  | 15 000 |
+| III.R. | Gyógyszerhatóanyag-gyártási tevékenység helyszíni ellenőrzése kérelemre, GMP- megfelelőség igazolása céljából (telephelyenként) |  |  |  |  |  |  |  |  | 450 000 |
+| III.S. | Hatósági bizonyítvány kiállítása a vámhatóság részére gyógyszer-nagykereskedelmi és gyógyszergyártási engedélyről, illetve a belföldi forgalombahozatal céljára behozni kívánt gyógyszer engedélyéről |  |  |  |  |  |  |  |  | 22 500 |
+| III.T. | Ex tempore előállított radioaktív gyógyszer előállításának engedélyezése, első készítmény (első hatáserősség, első gyógyszerforma) |  |  |  |  |  |  |  |  | 750 000 |
+| III. U | Ex tempore előállított radioaktív gyógyszer előállításának engedélyezése további készítményenként (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  |  |  | 600 000 |
+| III.V. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének módosítása (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  |  |  | 200 000 |
+| III.W. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének megújítása (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  |  |  | 200 000 |
+| III. X. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének éves fenntartása (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  |  |  | 200 000 |
+| III.Y. | Ex tempore előállított radioaktív gyógyszer előállítási engedélyének visszavonása (hatáserősségenként, gyógyszerformánként) |  |  |  |  |  |  |  |  | 30 000 |
 
 ### 2. számú melléklet a 2005. évi XCV. törvényhez
 
