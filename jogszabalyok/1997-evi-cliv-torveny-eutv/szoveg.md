@@ -2914,12 +2914,12 @@ sérelemdíjat, valamint – a halállal, megrokkanással, illetve egészségká
 
 (2) A (3) és (5) bekezdésben nem említett beavatkozással nem járó vizsgálat esetében a szakmai-etikai engedélyről az emberen végzett orvostudományi kutatásokról szóló kormányrendelet szerinti kutatás-etikai bizottság a kérelem megérkezését követő naptól számított negyvenöt napon belül dönt. A döntés ellen fellebbezésnek van helye, a másodfokú eljárást az ETT elnöksége folytatja le.
 
-(3) Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvény szerinti beavatkozással nem járó vizsgálatok esetében
+(3) Az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 4. pontja szerinti beavatkozással nem járó kutatásnak minősülő beavatkozással nem járó vizsgálat esetében
 
 - a) a más EGT-tagállamot nem érintő vagy nem hatósági határozat végrehajtása érdekében végzett vizsgálatok megkezdéséhez hatósági engedély szükséges, amelynek kiadásáról a kérelem benyújtásától számított 60 napon belül kell dönteni,
 - b) a más EGT-tagállamot is érintő és hatósági határozat végrehajtása érdekében végzett beavatkozással nem járó gyógyszerbiztonsági vizsgálatok elvégzéséhez az emberen végzett orvostudományi kutatásokról szóló kormányrendeletben szabályozott etikai engedély, valamint a vizsgálat megkezdéséig történő bejelentés szükséges. Az engedély kiadásáról az emberen végzett orvostudományi kutatásokról szóló kormányrendelet szerinti farmakovigilanciai kockázatértékelő bizottság által jóváhagyott vizsgálati terv és a kérelem benyújtásától számított ötvenöt napon belül kell dönteni.
 
-(4) Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvény szerinti beavatkozással nem járó vizsgálatok engedélyezése során született határozattal szemben fellebbezésnek helye nincs.
+(4) Az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 4. pontja szerinti beavatkozással nem járó kutatásnak minősülő beavatkozással nem járó vizsgálat engedélyezése során született határozattal szemben fellebbezésnek helye nincs.
 
 (5) Az orvostechnikai eszközökkel végzett beavatkozással nem járó vizsgálat megkezdéséhez az (1) bekezdés szerinti bejelentés szükséges, amelynek megtörténtéről a bejelentés benyújtásától számított hatvan napon belül az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv igazolást állít ki.
 

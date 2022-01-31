@@ -2263,7 +2263,7 @@ követi el, egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
 (5) E § alkalmazásában
 
-- a) egészségügyi termék: az orvostechnikai eszköz, az in vitro diagnosztikai orvostechnikai eszköz és a vizsgálati készítmény;
+- a) egészségügyi termék: az orvostechnikai eszköz, az in vitro diagnosztikai orvostechnikai eszköz és a vizsgálati gyógyszer;
 - b) indokolatlan mennyiség alatt olyan mennyiséget kell érteni, amelyről megállapítható, hogy nem valamely meghatározott személy személyes szükségleteinek kielégítését célozza;
 - c) Magyarországon nem engedélyezett egészségügyi termék alatt érteni kell a megfelelőség értékelési eljárás lefolytatása nélkül forgalomba hozott orvostechnikai eszközt is.
 
