@@ -281,7 +281,7 @@ az alábbi törvényt alkotja:
 
 - a) a Magyarországon nem forgalmazható, illetve nem alkalmazható gyógyszerekről, illetve gyógyászati segédeszközökről készített reklámot,
 - b) külön jogszabályban meghatározott kábítószert vagy pszichotrop anyagot tartalmazó gyógyszerre vonatkozó reklámot,
-- c) vizsgálati készítményt bemutató reklámot,
+- c) vizsgálati gyógyszert bemutató reklámot,
 - d) gyermekkorúaknak szóló reklámot, ideértve a gyermekeknek szóló műsorban, kiadványban közzétett reklámot,
 - e) olyan vény nélkül is beszerezhető gyógyszer reklámját, amely gyógyszer nevével azonos elnevezésű, kizárólag orvosi vényre kiadható gyógyszer is forgalomban van,
 - f) olyan vény nélkül is beszerezhető gyógyszer reklámját, amelynek árához külön jogszabály alapján a központi költségvetés, illetve az E. Alap az arra jogosultaknak támogatást nyújt,
@@ -1016,7 +1016,7 @@ esetén,
 
 (11) Az engedmény összegének meghatározásakor figyelembe vett kutatási és fejlesztési ráfordításokat csökkenteni kell
 
-- a) a IV. fázisú klinikai vizsgálatok költségével, valamint az emberi felhasználásra kerülő gyógyszerekről és egyéb gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 1. § 8. pontja szerinti beavatkozással nem járó vizsgálat költségével,
+- a) a IV. fázisú klinikai vizsgálatok költségével, valamint az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 4. pontja szerinti beavatkozással nem járó kutatás költségével,
 - b) a kutatás és fejlesztés céljára a mérlegkészítés napjáig az adóhatóságtól, illetve az államháztartás alrendszereinek más szervétől, vagy az Európai Unió különböző pénzügyi alapjaiból igényelt, vagy az adóévben – visszafizetési kötelezettség nélkül – kapott támogatás, juttatás bevételként elszámolt összegével,
 - c) a Tao. tv. 22. §-ának (9) bekezdése 2011. december 31-én hatályos szövege szerint az adóévben az alapkutatás, az alkalmazott kutatás vagy a kísérleti fejlesztés közvetlen költségei között elszámolt bérköltség alapján igénybevett adókedvezmény összegével,
 - d) a Tao. tv. szerinti külföldi telephelynél felmerült (elszámolt) kutatási és fejlesztési költségekkel, amennyiben
