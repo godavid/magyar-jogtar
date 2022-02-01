@@ -121,11 +121,14 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 #### 5. Hozzáférés a tényleges tulajdonosi nyilvántartásban tárolt adatokhoz
 
-8. § (1)
+8. § (1) Jogszabályban meghatározott feladatainak ellátása érdekében a hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv az érintett adatszolgáltatók értesítése nélkül, haladéktalanul és ingyenesen, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) 1. § 3. és 4. pontjában meghatározottak szerint és a nyilvántartó szerv által meghatározott módon betekinthet a tényleges tulajdonosi nyilvántartásban tárolt valamennyi adatba, ideértve a 10–11. § szerinti jelzések alapján rögzített adatokat, a módosított korábbi adatokat, az adatbenyújtás és az adatváltoztatás időpontjára vonatkozó adatokat, valamint az adatbenyújtó és adatot változtató intézményre vonatkozó adatokat.
 
-(2)
+(2) Jogszabályban meghatározott feladatainak ellátása érdekében a hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv az (1) bekezdés alapján megismert adatokat kiadhatja
 
-(3)
+- a) más európai uniós tagállam hatóságának, ügyészségének, bíróságának, felügyeletet ellátó szervének, valamint
+- b) harmadik ország hatóságának, ügyészségének, bíróságának, felügyeletet ellátó szervének, ha az adatkezelés megfelel a harmadik országok részére történő adatátadásra vonatkozó szabályokban foglalt feltételeknek.
+
+(3) A szolgáltató a számára a Pmt. 7–10. §-ában előírt ügyfél-átvilágítási intézkedések vagy a Pmt. 12. § (1) és (2) bekezdésében előírt adatellenőrzési kötelezettségek teljesítése érdekében ingyenesen, a nyilvántartó szerv által meghatározott módon hozzáférhet az adatszolgáltatók tényleges tulajdonosi nyilvántartásban tárolt 4. § (1) bekezdés a)–g) pontja szerinti adataihoz, valamint a 10. § (2) bekezdés és 11. § (2) bekezdés szerint közölt adatokhoz és azok rögzítésének időpontjához.
 
 (4) Az adatszolgáltató és a tényleges tulajdonos jogosult egyedi adatszolgáltatás keretében ingyenesen, a nyilvántartó szerv által meghatározott módon megismerni a tényleges tulajdonosi nyilvántartásban tárolt 4. § (1) bekezdés szerinti saját tényleges tulajdonosi adatait, valamint a 10. § (2) bekezdés és 11. § (2) bekezdés szerint közölt adatokat és azok rögzítésének időpontját. A tényleges tulajdonos egyedi adatszolgáltatási kérelmét – a tényleges tulajdonos meghatalmazása alapján – azon adatszolgáltató nyújtja be, amelynek tényleges tulajdonosa.
 
@@ -139,11 +142,28 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 #### 6. Eltérések jelzése
 
-#### 10. §
+10. § (1) A hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv jelezheti a nyilvántartó szervnek, ha a tényleges tulajdonosi viszonyokat érintő érdemi eltérést észlel az általuk ismert és a tényleges tulajdonosi nyilvántartásban rögzített tényleges tulajdonosi adatok között.
 
-#### 11. §
+(2) A hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv az (1) bekezdésben meghatározott jelzésben közli az általa ismert tényleges tulajdonosi adatokat.
 
-#### 12. §
+11. § (1) Ha a szolgáltató – a számlavezető kivételével – a Pmt. 7–10. §-ában foglalt ügyfél-átvilágítás keretében vagy azt követően, a Pmt. 9. § szerinti intézkedések elvégzése vagy a Pmt. 12. § (1) és (2) bekezdésében előírt adatellenőrzési kötelezettségek teljesítése során a tényleges tulajdonosi nyilvántartásban tárolt adatoktól a tényleges tulajdonosi viszonyokat érintő érdemben eltérő adatot rögzít, ezt 5 munkanapon belül jelzi a nyilvántartó szervnek.
+
+(2) A szolgáltató az (1) bekezdésben meghatározott jelzésben közli az általa rögzített tényleges tulajdonosi adatokat és az adatrögzítés időpontját.
+
+(3) A szolgáltató az (1) bekezdésben meghatározott jelzést követően ugyanarra a tényleges tulajdonosi adatra vonatkozó eltérésről 30 napon belül nem küldhet jelzést.
+
+12. § (1) A 10. § (1) bekezdése alapján jelzett eltérés 2 ponttal, a 11. § (1) bekezdése alapján jelzett eltérés 1 ponttal csökkenti a TT index értékét. A nyilvántartó szerv a hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv által a 10. § (1) bekezdése és a szolgáltató által a 11. § (1) bekezdése alapján jelzett eltérést, a jelzett tényleges tulajdonosi adatot – a nyilvántartott adatok változatlan fenntartása mellett –, valamint a TT index módosított értékét rögzíti.
+
+(2) Ha a TT index értéke az (1) bekezdésben meghatározott eltérések jelzése következtében
+
+- a) 8 pont alá csökken, úgy az adatszolgáltató tényleges tulajdonosi adatai „bizonytalan” minősítést kapnak;
+- b) 6 pont alá csökken, úgy az adatszolgáltató tényleges tulajdonosi adatai – a (4) bekezdés szerinti tájékoztató adatszolgáltató általi átvételét követő 60 nap eredménytelen elteltét követően – „megbízhatatlan” minősítést kapnak.
+
+(3) Ha az adatszolgáltató tényleges tulajdonosi adatai a (2) bekezdés a) pontja alapján „bizonytalan” minősítést kapnak, a nyilvántartó szerv 5 munkanapon belül tájékoztatóban értesíti erről az adatszolgáltatót, és az e törvény szerinti jogkövetkezmények ismertetésével felhívja az adatszolgáltató figyelmét a tényleges tulajdonosi nyilvántartásban tárolt tényleges tulajdonosi adatok módosításának vagy megerősítésének lehetőségére a 7. §-ban meghatározottak szerint. A nyilvántartó szerv tájékoztatójában az adatszolgáltatóval nem közli a jelzést küldő személyét, valamint a 10. § (2) bekezdésében és a 11. § (2) bekezdésében meghatározott adatokat.
+
+(4) Ha az adatszolgáltató tényleges tulajdonosi adatainak TT indexének értéke 6 pont alá csökken, a nyilvántartó szerv 5 munkanapon belül tájékoztatóban értesíti erről az adatszolgáltatót, és az e törvény szerinti jogkövetkezmények ismertetésével felszólítja, hogy a tényleges tulajdonosi nyilvántartásban tárolt tényleges tulajdonosi adatok megerősítését vagy azok módosítását az értesítés átvételét követő 5 munkanapon belül végezze el számlavezetőjénél, a Pmt. 12. § (3) bekezdésében meghatározottak szerint.
+
+(5) Ha az adatszolgáltató megerősíti vagy módosítja a tényleges tulajdonosi adatait, a nyilvántartást vezető szerv a TT index értékét 10 pontra módosítja.
 
 #### 7. Jogkövetkezmények, jogorvoslat
 
@@ -202,7 +222,12 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 #### 11. Adathozzáférés
 
-#### 20. §
+20. § (1) Jogszabályban meghatározott feladatainak ellátása érdekében a hatóság, az önkormányzati adóhatóság, a gazdasági kamarák, az ügyészség, a bíróság és a felügyeletet ellátó szerv a központi bankszámla- és széfnyilvántartásban tárolt valamennyi adatba korlátozás nélkül, az érintett adatszolgáltatók értesítése nélkül, az Eüsztv. 1. § 3. és 4. pontjában meghatározottak szerint és a nyilvántartó szerv által meghatározott módon, ingyenesen betekinthet.
+
+(2) Jogszabályban meghatározott feladatainak ellátása érdekében a hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv az (1) bekezdés alapján megismert adatokat kiadhatja
+
+- a) más európai uniós tagállam hatóságának, ügyészségének, bíróságának, felügyeletet ellátó szervének, valamint
+- b) harmadik ország hatóságának, ügyészségének, bíróságának, felügyeletet ellátó szervének, ha az adatkezelés megfelel a harmadik országok részére történő adatátadásra vonatkozó szabályokban foglalt feltételeknek.
 
 ### IV. Fejezet — FELÜGYELET, INTÉZKEDÉSEK
 

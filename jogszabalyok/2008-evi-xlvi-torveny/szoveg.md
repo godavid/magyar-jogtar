@@ -18,6 +18,7 @@ Az Országgyűlés felismerve, hogy az emberek biztonságos élelmiszerrel tört
 - f) az állatok, közvetve az ember egészségét nem veszélyeztető, biztonságos és megfelelő minőségű takarmány felhasználása révén a takarmányfelhasználók érdekeinek, a végső fogyasztók biztonságának védelme, a környezetvédelmi szempontok érvényre jutásának elősegítése;
 - g) haszonállatok tenyésztése során egészséges utódállomány létrehozásának biztosítása;
 - h) az élelmiszerláncban a lehetséges antimikrobiális rezisztencia-előfordulás csökkentésének elősegítése.
+- i) az élelmiszer-pazarlás megelőzése, csökkentése.
 
 ### A törvény hatálya és alkalmazási köre
 
@@ -165,13 +166,13 @@ valamint intézkedni annak megsemmisítéséről.
 
 14. § (1) A takarmány biztonságosságáért és minőségéért a takarmány előállítója, nem hazai előállítású takarmány esetében pedig az első magyarországi forgalomba hozó – az etethetőségi, illetve a minőségmegőrzési időtartam lejártáig – felelős.
 
-(2) Az élelmiszer biztonságosságáért és minőségéért az élelmiszer előállítója, nem hazai előállítású élelmiszer esetében pedig az első magyarországi forgalomba hozó – a fogyaszthatósági, illetve a minőségmegőrzési időtartam lejártáig – felelős.
+(2) Az élelmiszer biztonságosságáért és minőségéért az élelmiszer előállítója, nem hazai előállítású élelmiszer esetében pedig az első magyarországi forgalomba hozó – a fogyaszthatósági, illetve a minőségmegőrzési időtartam lejártáig, a 15. § (2a) bekezdése szerinti esetben az élelmiszer átadásáig – felelős.
 
 (2a) Az (1) és (2) bekezdés alá nem tartozó termék biztonságosságáért és minőségéért a termék előállítója, nem hazai előállítású termék esetében pedig az első magyarországi forgalomba hozó a felelős.
 
 (3) Az (1)–(2a) bekezdés nem alkalmazható, ha a hibát az előállító által javasolt tárolási és raktározási feltételek be nem tartásával más okozta.
 
-(4) Az élelmiszer-, illetve a takarmány-vállalkozás felelős a takarmány, illetve az élelmiszer biztonságosságáért és minőségéért, valamint jelöléséért, amennyiben a forgalomba hozatalt kizáró vagy jelölési hibát ő okozta, vagy az általa is felismerhető lett volna. A hibáért a magyarországi első forgalomba hozó akkor is felelős, ha azt nem ő okozta, amennyiben a forgalomba hozatalt kizáró vagy jelölési hiba a magyarországi első forgalomba hozatalt megelőzően keletkezett.
+(4) Az élelmiszerlánc-szereplő felelős a takarmány, illetve az élelmiszer biztonságosságáért és minőségéért, valamint jelöléséért, amennyiben a forgalomba hozatalt kizáró vagy jelölési hibát ő okozta, vagy az általa is felismerhető lett volna. A hibáért a magyarországi első forgalomba hozó akkor is felelős, ha azt nem ő okozta, amennyiben a forgalomba hozatalt kizáró vagy jelölési hiba a magyarországi első forgalomba hozatalt megelőzően keletkezett.
 
 (5) Az élelmiszer, illetve a takarmány e törvényben, az e törvény végrehajtására kiadott jogszabályban, vagy az Európai Unió közvetlenül alkalmazandó vonatkozó jogi aktusában előírt, az élelmiszerbiztonsági, élelmiszerminőségi, takarmánybiztonsági, illetve takarmányminőségi előírásoknak való megfelelését igazoló okiratok hiánya esetén vélelmezni kell, hogy a forgalmazó a forgalomba hozatalt kizáró hibát felismerhette.
 
@@ -217,7 +218,11 @@ gazdasági előny vagy haszonszerzés céljából.
 
 15. § (1) Az élelmiszer fogyaszthatósági vagy minőségmegőrzési időtartamának megállapítása az előállító felelőssége.
 
-(2) Lejárt fogyaszthatósági vagy minőségmegőrzési idejű élelmiszer nem hozható forgalomba élelmiszerként.
+(2) Lejárt fogyaszthatósági vagy minőségmegőrzési idejű élelmiszer – a (2a) bekezdésben meghatározott kivétellel – nem hozható forgalomba élelmiszerként.
+
+(2a) Lejárt minőségmegőrzési idejű élelmiszer a 852/2004/EK európai parlamenti és tanácsi rendelet II. melléklet Va. fejezetében foglalt követelmények betartása mellett ingyenesen forgalomba hozható.
+
+(2b) A (2a) bekezdésben meghatározott ingyenes forgalomba hozatalhoz FELIR azonosítóval kell rendelkezni.
 
 (3) A takarmányt külső behatásoktól védetten, olyan módon (csomagolóeszközben, tartályban vagy ömlesztve) lehet forgalomba hozni, hogy az biztosítsa a takarmány állat-egészségügyi szempontból biztonságos felhasználhatóságát és a takarmány minőségének megóvását.
 
@@ -901,6 +906,10 @@ engedélyezési, nyilvántartási, nyomonkövetési adatait, beleértve azok fog
 
 (14) A Földmegfigyelési Operatív Központ folyamatos és térítésmentes, elektronikus hozzáférést biztosít a Földmegfigyelési Információs Rendszer adatbázisához az élelmiszerlánc-felügyeleti szerv számára a FELIR működtetésével összefüggő feladatainak ellátása érdekében.
 
+(15) Az élelmiszerlánc-felügyeleti szerv az (1) bekezdésben meghatározott feladatának ellátása céljából a hegyközségekről szóló törvény szerinti, a Hegyközségek Nemzeti Tanácsa (a továbbiakban: HNT) által működtetett informatikai rendszerből elektronikus úton adatigénylésre jogosult, valamint a HNT részére adatot szolgáltat a FELIR-ből. Az átvett és átadott adatok körét és az adatátvétel részletszabályait együttműködési megállapodásban kell rögzíteni.
+
+(16) Az élelmiszerlánc-felügyeleti szerv az (1) bekezdésben meghatározott feladatának ellátása céljából a szőlészetről és borászatról szóló törvény szerinti ePincekönyv rendszerből elektronikus úton adatigénylésre jogosult, valamint adatot szolgáltat a FELIR-ből az ePincekönyv rendszer számára. Az átvett és átadott adatok körét és az adatátvétel részletszabályait együttműködési megállapodásban kell rögzíteni.
+
 38/B. § (1) A 47/B. § (2) bekezdése szerinti tevékenységet végző, a szőlészetről és borászatról szóló törvény szerinti adatszolgáltató, valamint az ökológiai gazdálkodási tevékenységet végző természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet köteles
 
 - a) a 38. § (2) bekezdés c) vagy d) pontja szerinti adatait,
@@ -937,6 +946,8 @@ az élelmiszerlánc-felügyeleti szervhez nyilvántartásba vétel céljából b
 - b) természetes személy nevét és születési dátumát, egyéni vállalkozó adószámát,
 - c) a jogi személy nevét és adóazonosító számát,
 - d) a nyilvántartásba vett személy által bejelentett tevékenységek és tevékenységi helyek listáját.
+
+(8a) Az élelmiszerlánc-felügyeleti szerv a honlapján jogosult közzétenni a FELIR azonosítóhoz kapcsolódó, a 38. § (2) bekezdés c)–d) pontja szerinti elérhetőségi adatokat, ha azok közzététele a jogszabályban előírt információs rendszer működtetése, a gazdaság fejlesztésének és az érintett élelmiszerlánc-szereplők kapcsolatfelvételének előmozdítása, valamint az élelmiszerlánc-eseményekkel összefüggő tájékoztatáshoz kapcsolódó feladatok ellátása érdekében szükséges.
 
 (9) A FELIR azonosító visszavonása esetén az élelmiszerlánc-szereplő adatait az élelmiszerlánc-felügyeleti szerv élelmiszerlánc-biztonsági célból 10 évig megőrzi, ezt követően az adatokat a nyilvántartásból törli.
 
@@ -1006,6 +1017,45 @@ az élelmiszerlánc-felügyeleti szervhez nyilvántartásba vétel céljából b
 (3) Az élelmiszer-rendész számára a rendőrség szolgálati igazolványt és szolgálati jelvényt állít ki a munkáltató kezdeményezésére.
 
 (4) Az élelmiszer-rendészek vonatkozásában alkalmazni kell az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény (a továbbiakban: Rendészeti tv.) 5. §-ában, 6. § (1) bekezdésében, 7–14. §-ában, 21. § (1) bekezdésének a) és b) pontjában, valamint 22. §-ában és 23. §-ában foglaltakat.
+
+### Az élelmiszermentéssel kapcsolatos feladatok
+
+38/H. § (1) Az élelmiszerhulladék-képződés megelőzése és a rászorulók részére történő élelmiszer-elosztás fokozása érdekében a megelőző naptári évben a 47/B. § (2) bekezdése szerinti tevékenységből származó, jövedéki adó és népegészségügyi termékadó nélkül számított 100 milliárd forintot meghaladó nettó árbevétellel rendelkező, a kereskedelemről szóló törvény szerinti napi fogyasztási cikkeket értékesítő élelmiszer-kiskereskedő a kereskedelmi forgalmazás céljából a birtokában lévő élelmiszert jogosult karitatív szervezet javára felajánlani, valamint köteles az általa meghatározott élelmiszerhulladék-csökkentési tervében foglaltak szerint eljárva – a 48 óránál hosszabb minőségmegőrzési időtartammal forgalomba hozott élelmiszert – a minőségmegőrzési időtartam lejárta előtt legalább 48 órával az Élelmiszermentő Központ Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: ÉMK) részére felajánlani, és az ÉMK-val megkötött szerződés szerint eljárni.
+
+(2) Az (1) bekezdésben meghatározott élelmiszer-kiskereskedőn kívüli más élelmiszer-vállalkozó a minőségmegőrzési időtartam lejárta előtt legalább 48 órával a kereskedelmi forgalmazás céljából a birtokában lévő élelmiszert jogosult karitatív szervezet javára felajánlani, valamint az ÉMK részére önkéntesen felajánlhatja az ÉMK-val történt megegyezés alapján.
+
+(3) Az ÉMK az állam 100%-os tulajdonában álló társaság. Az ÉMK üzletrésze forgalomképtelen. Az ÉMK felett a tulajdonosi jogokat a magyar állam nevében az élelmiszerlánc-felügyeleti szerv gyakorolja.
+
+(4) Az ÉMK az élelmiszermentéssel kapcsolatban közhatalmi feladatként:
+
+- a) ellátja az élelmiszermentési folyamat országos szintű koordinálását,
+- b) nyilvántartja az élelmiszermentésben közreműködő szervezeteket, koordinációs szerződést köt velük az élelmiszer-elosztásra,
+- c) élelmiszer-elosztást és élelmiszer-újraelosztást végez,
+- d) figyelemmel kíséri a megelőző naptári évben a 47/B. § (2) bekezdése szerinti tevékenységből származó, jövedéki adó és népegészségügyi termékadó nélkül számított 100 milliárd forintot meghaladó nettó árbevétellel rendelkező, a kereskedelemről szóló törvény szerinti napi fogyasztási cikkeket értékesítő élelmiszer-kiskereskedő élelmiszerhulladék-csökkentési tervét, javaslatot tesz annak módosítására,
+- e) az élelmiszerhulladék-csökkentési terv ellenőrzése érdekében hatósági ellenőrzést kezdeményez,
+- f) kidolgozza a megelőző naptári évben a 47/B. § (2) bekezdése szerinti tevékenységből származó, jövedéki adó és népegészségügyi termékadó nélkül számított 100 milliárd forintot meg nem haladó nettó árbevétellel rendelkező, a kereskedelemről szóló törvény szerinti napi fogyasztási cikkeket értékesítő élelmiszer-kiskereskedők élelmiszer-felajánlásával kapcsolatos részletes szabályokat,
+- g) közreműködik az Országos Hulladékgazdálkodási Terv részét képező Országos Megelőzési Program kidolgozásában és felülvizsgálatában,
+- h) biztosítja a hulladékgazdálkodásért felelős miniszter részére az Európai Bizottság részére készülő jelentés elkészítéséhez szükséges adatokat és információkat.
+
+(5) Az élelmiszermentési adatbázis tartalmazza az élelmiszermentésben közreműködő szervezetek
+
+- a) (cég)nevét,
+- b) adóazonosító számát,
+- c) székhelyét, telephelyét,
+- d) elérhetőségét.
+
+38/I. § (1) A megelőző naptári évben a 47/B. § (2) bekezdése szerinti tevékenységből származó, jövedéki adó és népegészségügyi termékadó nélkül számított 100 milliárd forintot meghaladó nettó árbevétellel rendelkező, a kereskedelemről szóló törvény szerinti napi fogyasztási cikkeket értékesítő élelmiszer-kiskereskedő
+
+- a) élelmiszerhulladék-csökkentési tervet készít, és azt az ÉMK részére benyújtja,
+- b) élelmiszermentési tevékenységét az élelmiszerhulladék-csökkentési terv szerint végzi, és
+- c) élelmiszermentéssel összefüggő tevékenység koordinálására élelmiszermentési felelőst nevez ki.
+
+(2) Az élelmiszerhulladék-csökkentési terv tartalmazza
+
+- a) az élelmiszer-kiskereskedőnél keletkező élelmiszer-hulladék mennyiségét,
+- b) az elérni kívánt élelmiszerhulladék-csökkentés mértékét,
+- c) az ÉMK részére kötelezően felajánlott élelmiszer-adomány típusát és mennyiségét, és
+- d) az élelmiszer-kiskereskedő által önkéntesen felajánlott élelmiszer-adomány típusát és mennyiségét, amelyet az ÉMK részére vagy az ÉMK közreműködése nélkül ad át.
 
 ### IV. Fejezet — HATÓSÁGI ELJÁRÁS
 
@@ -1536,7 +1586,7 @@ takarmány-ellenőrzési bírságot szab ki.
 - a) az élelmiszer-biztonságra vonatkozó követelmények megsértése;
 - b) élelmiszer-minőségi előírásoknak való meg nem felelés;
 - c) fogyaszthatósági határidő lejárta utáni forgalomba hozatal;
-- d) minőségmegőrzési határidő lejárta utáni forgalomba hozatal;
+- d) – a 15. § (2a) bekezdésében meghatározott eset kivételével – minőségmegőrzési határidő lejárta utáni forgalomba hozatal esetén;
 - e) a Magyar Élelmiszerkönyvi megnevezéseket jogellenesen használó élelmiszer forgalomba hozatala, vagy egyéb élelmiszer-jelölési előírásoknak való meg nem felelés;
 - f) a 14/B. §-ban foglalt rendelkezés megsértése esetén;
 - g) a 22. § (2) bekezdése szerinti írásos dokumentáció hiánya esetén.
@@ -1590,6 +1640,15 @@ vonatkozó, a 60–62. §-okban meghatározottaktól eltérő egyéb előíráso
 (3) A mulasztási bírság kiszabásánál mérlegelni kell az eset összes körülményét, az ügyfél jogellenes magatartásának (tevékenységének vagy mulasztásának) súlyát, gyakoriságát, továbbá azt, hogy az ügyfél, illetve intézkedő képviselője, alkalmazottja, tagja vagy megbízottja az adott helyzetben a tőle elvárható körültekintéssel járt-e el. A körülmények mérlegelése alapján a mulasztás súlyához igazodó bírságot kell kiszabni, vagy a bírság kiszabását mellőzni.
 
 (4) A mulasztási bírság megállapításával egyidejűleg az élelmiszerlánc-felügyeleti szerv az ügyfelet – határidő tűzésével – teljesítésre hívja fel. A kiszabott bírság kétszeresét kell újabb határidő tűzésével megállapítani, ha a teljesítésre kötelező újabb végzésben előírt határidőt az ügyfél szintén elmulasztja. A kötelezettség teljesítése esetén az e bekezdés alapján kiszabott bírság korlátlanul mérsékelhető.
+
+### Élelmiszermentési bírság
+
+63/B. § (1) Az élelmiszerlánc-felügyeleti szerv élelmiszermentési bírságot szab ki, ha az élelmiszerhulladék-csökkentési terv benyújtására kötelezett
+
+- a) 2%-ot meghaladó mértékben átlépte az éves élelmiszerhulladék tervezett mértékét, vagy
+- b) nem nyújtott be élelmiszerhulladék-csökkentési tervet.
+
+(2) Az élelmiszermentési bírság legkisebb összege tizenötezer forint, legmagasabb összege a megelőző üzleti évre vonatkozó felügyeleti díj 0,6%-a.
 
 ### A bírságok megfizetésének szabályai
 
@@ -1900,7 +1959,7 @@ való megfelelést szolgálja.
 
 81. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 38/B. § (6) bekezdés c) pontját 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-#### 82. §
+82. § Az élelmiszerhulladék-csökkentési tervet az annak készítésére kötelezett élelmiszer-kiskereskedő első alkalommal 2022. május 31-ig köteles elkészíteni és az ÉMK részére benyújtani.
 
 #### 83. §
 
@@ -1942,6 +2001,7 @@ E törvény alkalmazásában:
 - 14. élelmiszer-csomagolóanyag: olyan anyag, amelyet az élelmiszerek burkolására, megóvására, kezelésére, szállítására használnak az élelmiszerlánc bármely szakaszában;
 - 14/A. élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő anyagok és tárgyak: az 1935/2004/EK rendelet 1. cikkének 2. pontja szerinti fogalom;
 - 15. élelmiszer-előállítás: feldolgozatlan és feldolgozott termék – kivéve az alaptermék – előállítása érdekében történő alapanyag-tárolási, tisztítási, osztályozási, előkészítési, gyártástechnológiai, csomagolási, jelölési, tárolási és szállítási műveletek bármelyike;
+- 15a. élelmiszermentés: a várhatóan élelmiszer-hulladékká váló, de még emberi fogyasztásra szánt biztonságos élelmiszer a lehető legnagyobb mértékben történő hasznosítása és újraelosztása;
 - 16. élelmiszer-vállalkozás: a 178/2002/EK rendelet 3. cikkének 2. pontjában meghatározott fogalom;
 - 17. élelmiszer-vállalkozási létesítmény: a 852/2004/EK rendelet 2. cikkének c) pontja szerinti fogalom;
 - 18. élelmiszer-vállalkozó: a 178/2002/EK rendelet 3. cikkének 3. pontjában meghatározott fogalom;

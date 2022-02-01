@@ -58,7 +58,7 @@ sorolt azon tevékenységek, melyek folytatása esetén a vevő magánszemély i
 - a) az adóalap 500 millió forintot meg nem haladó része után 0%,
 - b) az adóalap 500 millió forintot meghaladó, de 30 milliárd forintot meg nem haladó része után 0,1%,
 - c) az adóalap 30 milliárd forintot meghaladó, de 100 milliárd forintot meg nem haladó része után 0,4%,
-- d) az adóalap 100 milliárd forintot meghaladó része után 2,5%.
+- d) az adóalap 100 milliárd forintot meghaladó része után 2,7%.
 
 #### 7. Eljárási rendelkezések
 
@@ -112,3 +112,17 @@ sorolt azon tevékenységek, melyek folytatása esetén a vevő magánszemély i
 - b) a Korm. rendelet szerinti adóelőleget megfizetni az e törvény hatálybalépése napját magában foglaló hónapot követő hónapra és az azt követő időszakra.
 
 (3) Ha az adó alanyának a Korm. rendelet hatályba lépése napján tartó adóéve e törvény hatálybalépése előtt ért véget, akkor – eltérően a 9. § (9) bekezdésben és a (2) bekezdésben foglaltaktól – a véget ért adóévre a Korm. rendelet szerint kell teljesíteni az adókötelezettséget azzal, hogy a Korm. rendelet szerint megállapított adó és a Korm. rendelet szerint megfizetett adóelőleg különbözetét a bevallással egyidejűleg kell megfizetni.
+
+11. § (1) Ha az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény és a kiskereskedelmi adóról szóló 2020. évi XLV. törvény módosításáról szóló 2021. évi CLI. törvény (a továbbiakban: Mód. tv.) hatálybalépése napját magában foglaló adóév (a továbbiakban e § alkalmazásában: adóév) egészében az adó alapja több mint 100 milliárd forint, akkor az adóév adóját – az adóalany döntése szerint – a (2) bekezdésben vagy a (3)–(4) bekezdésben foglaltak szerint kell megállapítani.
+
+(2) Az adóév adója az adóévben keletkezett adóalap alapulvételével
+
+- a) a Mód. tv. hatálybalépése napját megelőző napon hatályos 6. § szerinti adómértékkel számított adóösszegnek, az adóév első napjától a Mód. tv. hatálybalépése napját megelőző napig tartó időszak naptári napjai számának és az adóév összes naptári napjai számának hányadosával szorzott (arányosított) összege, növelve,
+- b) a Mód. tv. hatálybalépése napján hatályos 6. § szerinti adómértékkel számított adóösszegnek, a Mód. tv. hatálybalépése napjától az adóév utolsó napjáig tartó időszak naptári napjai számának és az adóév összes naptári napjai számának hányadosával szorzott (arányosított) összegével.
+
+(3) A Mód. tv.-vel módosított 6. § szerinti adómértéket az adóévben keletkezett adóalap és a Mód. tv. hatálybalépése napját megelőző napig keletkezett adóalaprész különbözetére kell alkalmazni, feltéve, hogy a Mód tv. hatálybalépése napját megelőző napig keletkezett adóalaprészt az adóalany könyvviteli zárlattal alátámasztja.
+
+(4) A (3) bekezdés szerinti esetben az adó
+
+- a) a (3) bekezdés szerinti különbözet teljes adóévre számított (évesített) összegének alapulvételével a Mód. tv. hatálybalépése napján hatályos 6. § szerint meghatározott adóösszegnek az adóév Mód. tv. hatálybalépése napját követő naptári napjaival arányos része, növelve
+- b) az adóévben a Mód. tv. hatálybalépése napját megelőző napig keletkezett adóalaprész teljes adóévre számított (évesített) összegének alapulvételével a Mód. tv. hatálybalépése napját megelőző napon hatályos 6. § szerint meghatározott adóösszegnek az adóév Mód. tv. hatálybalépése napjáig terjedő időszak naptári napjaival arányos részével.

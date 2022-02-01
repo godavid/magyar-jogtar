@@ -140,7 +140,7 @@ szerint folyik. Az egyházi jogi személy, illetve a vallási egyesület által 
 
 (3) A programkövetelményekről a szakképzésért felelős miniszter elektronikus nyilvántartást vezet. A programkövetelmény és a programkövetelményekről vezetett nyilvántartás nyilvános, azt a szakképzésért felelős miniszter a honlapon közzéteszi.
 
-(3a) Programkövetelményre, annak módosítására és törlésére a szakképzésért felelős miniszternek bárki javaslatot tehet. Az eljárásban az ügyintézési határidő három hónap, és a Kormány e törvény végrehajtására kiadott rendeletében meghatározottak szerinti szakértő kirendelése kötelező.
+(3a) Programkövetelményre, annak módosítására és törlésére a szakképzésért felelős miniszternek bárki javaslatot tehet. Az eljárásban az ügyintézési határidő három hónap, és a Kormány e törvény végrehajtására kiadott rendeletében meghatározottak szerinti szakértő kirendelése kötelező. A kérelmező ügyfél a programkövetelmény nyilvántartásba vétele, annak módosítása és törlése iránti eljárásért – a kérelem benyújtásával egyidejűleg – igazgatási szolgáltatási díjat fizet. Az igazgatási szolgáltatási díj a szakképzésért felelős miniszter által vezetett minisztérium bevétele.
 
 (4) A programkövetelményekről vezetett nyilvántartásból való törlés vagy módosítás a törölt vagy módosított programkövetelmény alapján – legkésőbb a törlés vagy módosítás időpontját megelőző naptári napon – indított szakmai képzést nem érinti. A programkövetelmény a honlapról nem távolítható el, archiválására a digitális archiválás szabályait kell alkalmazni.
 
@@ -1553,7 +1553,7 @@ A szakképzési közokirat külföldön történő felhasználásához – ha ne
 - 47. a korai iskolaelhagyás megelőzését támogató rendszer működtetésének szabályait és az abba történő adatszolgáltatás rendjét,
 - 48. a külföldi szakképző intézmény Magyarországon történő és a magyar szakképző intézmény külföldön történő működésének és nyilvántartásának részletes szabályait.
 
-(3) Felhatalmazást kap a szakképzésért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a 96. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait.
+(3) Felhatalmazást kap a szakképzésért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a 13. § (3a) bekezdése és a 96. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait.
 
 ### XXII. Fejezet — HATÁLYBA LÉPTETŐ RENDELKEZÉSEK
 
