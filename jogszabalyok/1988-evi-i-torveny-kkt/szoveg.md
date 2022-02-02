@@ -607,6 +607,70 @@ oktatása, szakképzése és utánképzése
 
 (4) A (2) és (3) bekezdésben foglaltaktól az (1) bekezdésben meghatározott munkavállalók esetében a felek írásbeli megállapodása vagy kollektív szerződés csak a munkavállalók biztonságának és egészségének védelme szempontjából kedvezőbb eltérést engedhet.
 
+### A járművezetők kiküldetésére vonatkozó rendelkezések
+
+18/N. § Ezen alcím alkalmazásában:
+
+- 1. kétoldalú áruszállítási művelet: az áruknak fuvarozási szerződés alapján történő mozgatása, ahol a felrakodás vagy a lerakodás a fuvarozást végző gazdálkodó szervezet székhelye szerinti tagállamban, vagy harmadik országban van;
+- 2. kétoldalú személyszállítási művelet: személyek autóbusszal végzett szállítása különjárat vagy menetrend szerinti járat keretében, ahol
+  - a) az utas felvétele vagy az utas letétele a szállítást végző gazdálkodó szervezet székhelye szerinti vagy harmadik országban történik, vagy
+  - b) az utas felvétele és letétele a székhely szerinti tagállamban történik, miután az autóbusszal végzett személyszállítás nemzetközi piacához való hozzáférés közös szabályairól és az 561/2006/EK rendelet módosításáról szóló, 2009. október 21-i 1073/2009/EK európai parlamenti és tanácsi rendelet szerinti helyi kirándulást tettek a szállítást végző gazdálkodó szervezet székhelyén kívüli tagállamban vagy harmadik országban;
+- 3. tranzit áru- és személyszállítási művelet: a jármű másik tagállam területén áru be- vagy kirakodása, utasok felvétele vagy letétele nélkül halad át;
+- 4. gazdálkodó szervezet: más tagállam gazdálkodó szervezete.
+
+18/O. § (1) Magyarország területén díj ellenében végzett közúti árutovábbítást és autóbusszal díj ellenében végzett személyszállítást végző gazdálkodó szervezet által foglalkoztatott külföldi járművezető – a (2)–(6) bekezdésben foglalt kivétellel – kiküldött munkavállalónak minősül, ha a gazdálkodó szervezet a járművezetőt Magyarország területére saját nevében és irányítása alatt küldi ki, a gazdálkodó szervezet és a szolgáltatás Magyarországon működő címzettje között létrejött szerződés alapján, feltéve, hogy a gazdálkodó szervezet és a járművezető a kiküldetés idején munkaviszonyban áll egymással.
+
+(2) A tranzit áru- és személyszállítási műveletet és a kétoldalú áru- és személyszállítási műveletet, valamint az üresjáratot végrehajtó külföldi járművezető nem tekinthető kiküldött munkavállalónak.
+
+(3) Nem tekinthető kiküldött munkavállalónak a kétoldalú áruszállítási műveletet végrehajtó külföldi járművezető, ha
+
+- a) egy berakodási és kirakodási
+- b) egy berakodási vagy
+- c) egy kirakodási
+
+tevékenységet is elvégez azokban a tagállamokban vagy EGT-n kívüli országban, amelyeken áthalad, feltéve, hogy a járművezető nem ugyanabban a tagállamban rakodja be és ki az árukat.
+
+(4) Ha a fuvarozást végző gazdálkodó szervezet székhelye szerinti államból kiinduló olyan kétoldalú áruszállítási műveletet – amely során nem került sor a (3) bekezdés szerinti további tevékenységre – a gazdálkodó szervezet székhelye szerinti állam területére irányuló kétoldalú áruszállítási művelet követ, a (3) bekezdésben a további tevékenységek tekintetében meghatározott mentességet a (3) bekezdésben említett feltételek mellett legfeljebb két további berakodási és kirakodási vagy két berakodási vagy két kirakodási műveletre kell alkalmazni.
+
+(5) Nem tekinthető kiküldött munkavállalónak a kétoldalú személyszállítási műveletet végrehajtó külföldi járművezető, ha egy alkalommal utasokat vesz fel és tesz le, vagy vesz fel vagy tesz le azon tagállamokban vagy EGT-n kívüli országban, amelyeken áthalad, amennyiben a járművezető nem kínál személyszállítási szolgáltatásokat az útja során érintett tagállamban található két helyszín között. Ez a rendelkezés a visszaútra is megfelelően alkalmazandó.
+
+(6) Nem tekinthető kiküldött munkavállalónak a külföldi járművezető, ha kombinált szállítási műveletek részét képező kezdeti vagy végső közúti szállítást végez, ha a szóban forgó közúti szakasz maga is kétoldalú szállítási műveletekből áll.
+
+(7) A nemzetközi közúti árufuvarozási piachoz való hozzáférés közös szabályairól szóló, 2009. október 21-ei 1072/2009/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: 1072/2009/EK rendelet), az 1073/2009/EK rendeletben és kettő vagy többoldalú nemzetközi egyezmény alapján meghatározott kabotázsműveleteket végző külföldi járművezető kiküldött munkavállalónak minősül.
+
+18/P. § (1) Magyarország területén díj ellenében végzett közúti árutovábbítást és autóbusszal díj ellenében végzett személyszállítást végző gazdálkodó szervezet legkésőbb a járművezető kiküldetésének kezdetekor a belső piaci információs rendszer hazai működéséről és az abban való részvételnek a szabályairól, valamint a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv szerinti bejelentési kötelezettség teljesítéséről szóló kormányrendeletben meghatározott belső piaci információs rendszerhez (a továbbiakban: IMI-rendszer) kapcsolódó nyilvános felületen elérhető többnyelvű formanyomtatvány útján kiküldetési nyilatkozatot nyújt be, és gondoskodik annak naprakészen tartásáról.
+
+(2) A kiküldetési nyilatkozat tartalmazza:
+
+- a) a közúti fuvarozó nevét, közösségi engedélyének számát,
+- b) a díj ellenében végzett közúti árutovábbítást és autóbusszal díj ellenében végzett személyszállítást végző gazdálkodó szervezet székhelye szerinti tagállamban lévő szakmai irányító vagy más kapcsolattartó(k) elérhetőségeit,
+- c) a járművezető nevét, anyja nevét, születési helyét és idejét, tartózkodási helyének címét és vezetői engedélyének számát,
+- d) a járművezető munkaszerződésének kezdőnapját és a munkaszerződésre alkalmazandó jogot,
+- e) a kiküldetés tervezett kezdő és végdátumát,
+- f) a gépjármű rendszámát, valamint
+- g) azt, hogy a végzett szállítási szolgáltatás árufuvarozásnak, személyszállításnak, nemzetközi fuvarozásnak vagy kabotázsműveletnek minősül.
+
+(3) Magyarország területén díj ellenében végzett közúti árutovábbítást és autóbusszal díj ellenében végzett személyszállítást végző gazdálkodó szervezet nyomtatott vagy elektronikus formában a járművezető rendelkezésére bocsátja, valamint a járművezető magánál tartja és az ellenőrzés során kérésre bemutatja az IMI-rendszeren keresztül benyújtott kiküldetési nyilatkozat egy példányát.
+
+(4) Magyarország területén díj ellenében végzett közúti árutovábbítást és autóbusszal díj ellenében végzett személyszállítást végző gazdálkodó szervezet a kiküldetés időtartamának végét követően az ellenőrzést végző hatóság közvetlen megkeresésére, a megkeresést követő 56 napon belül az IMI-rendszerhez kapcsolódó nyilvános felületen benyújtja
+
+- a) a fuvarlevél másodpéldányát,
+- b) a menetíró készülékben rögzített adatokat és azon tagállamok betűjelét, amelyekben a járművezető a nemzetközi közúti szállítási műveletek vagy kabotázsműveletek végzésekor tartózkodott,
+- c) a kiküldött járművezetőnek a kiküldetés időtartamára vonatkozó díjazásával kapcsolatos dokumentumokat,
+- d) a munkaszerződést vagy az azzal egyenértékű okiratot,
+- e) a járművezető munkájára vonatkozó munkaidő-nyilvántartó lapokat és
+- f) a kifizetést igazoló dokumentumokat.
+
+(5) Ha a díj ellenében végzett közúti árutovábbítást és autóbusszal díj ellenében végzett személyszállítást végző gazdálkodó szervezet a kért dokumentumokat nem nyújtja be a meghatározott határidőn belül, az ellenőrzést végző hatóság az IMI-rendszeren keresztül megkeresi a gazdálkodó szervezet székhelye szerinti tagállam illetékes hatóságát. Megkeresés esetén a gazdálkodó szervezet székhelye szerinti tagállam illetékes hatósága hozzáférhet a kiküldetési nyilatkozathoz és a gazdálkodó szervezet által az IMI-rendszer nyilvános felületén benyújtott más információkhoz.
+
+(6) A díj ellenében végzett közúti árutovábbítást és autóbusszal díj ellenében végzett személyszállítást végző gazdálkodó szervezet székhelye szerinti tagállam illetékes hatóságának megkeresésére a kért dokumentumot és információt a megkeresés napjától számított 25 munkanapon belül az IMI-rendszeren keresztül kell rendelkezésre bocsátani.
+
+(7) A közúti ellenőrzés során a járművezető annak megállapítása érdekében, hogy a járművezető kiküldött munkavállalónak minősül-e, a (4) bekezdés a) és b) pontja szerinti dokumentum bemutatására kötelezhető.
+
+18/Q. § Magyarország területén díj ellenében végzett közúti árutovábbítást és autóbusszal díj ellenében végzett személyszállítást végző gazdálkodó szervezet biztosítja, hogy az általa foglalkoztatott járművezetők a kiküldetéssel összefüggő jogaikat és kötelességeiket illetően ismeretekkel rendelkezzenek.
+
+18/R. § A kiküldetés véget ér, amikor a járművezető egy nemzetközi áru- vagy személyszállítás végrehajtása során elhagyja a fogadó tagállamot. Az Mt. 295. § (8) bekezdésétől eltérően Magyarország területén nemzetközi áru- vagy személyszállítást végrehajtó külföldi járművezetőnek a kiküldetési időtartama nem vonható össze az ugyanazon járművezetőnek vagy az általa helyettesített más külföldi járművezetőnek az ilyen nemzetközi műveletek keretében eltöltött korábbi kiküldetési időtartamaival. Ez a rendelkezés megfelelően irányadó a tizenkét hónapot meghaladó kiküldetés esetén is az ugyanazon járművezető kiküldetési időtartama vonatkozásában.
+
 ### A járművek használata
 
 19. § (1) A közúti árutovábbítási és az autóbusszal végzett személyszállítási tevékenységekre
@@ -676,7 +740,7 @@ vonatkozóan a megismert személyes adatokat a közlekedési hatóság az enged�
 
 vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
-(1a) Nem alkalmazható közigazgatási szankcióként figyelmeztetés – az (1c) bekezdésben meghatározott kivételre is figyelemmel – az (1) bekezdés a)–d), f)–j), l), és n) pontjában foglalt rendelkezések megsértése miatt indult közigazgatási hatósági eljárásban, ha a jogsértés az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint rendkívül súlyos vagy nagyon súlyos fokúnak minősül.
+(1a) Nem alkalmazható közigazgatási szankcióként figyelmeztetés – az (1c) bekezdésben meghatározott kivételre is figyelemmel – az (1) bekezdés a)–d), f)–j), l), n) és q) pontjában foglalt rendelkezések megsértése miatt indult közigazgatási hatósági eljárásban, ha a jogsértés az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint rendkívül súlyos vagy nagyon súlyos fokúnak minősül.
 
 (1b) Nem alkalmazható közigazgatási szankcióként figyelmeztetés az (1) bekezdés e) pontjában foglalt rendelkezések megsértése miatt indult közigazgatási hatósági eljárásban, ha a jogsértés az e törvény végrehajtására kiadott kormányrendeletben meghatározott I., II. vagy III. kockázati kategóriába tartozó cselekmény vagy mulasztás.
 
@@ -690,9 +754,9 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (3) A (2) bekezdés szerinti bírságolási eljárásra az eljáró hatóság ellenőrző tevékenységét szabályozó külön jogszabályban foglalt rendelkezéseket az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(4) Az (1) bekezdés a)–j), l), n)–p) pontjában foglalt valamely rendelkezés megsértőjével szemben – ide nem értve a regisztrációs adóról szóló törvény szerinti gépjárműflotta-üzemeltetőtől bérbe vett személygépkocsi bérlőjét, vezetőjét, ha a személygépkocsi után a regisztrációs adót megfizették, és ezt a személygépkocsi vezetője a vámhatóság által kiállított igazolás bemutatásával bizonyítja – 10 000 forinttól 800 000 forintig, a k) és m) pontokban foglalt esetben 10 000 forinttól 300 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
+(4) Az (1) bekezdés a)–j), l), n)–q) pontjában foglalt valamely rendelkezés megsértőjével szemben – ide nem értve a regisztrációs adóról szóló törvény szerinti gépjárműflotta-üzemeltetőtől bérbe vett személygépkocsi bérlőjét, vezetőjét, ha a személygépkocsi után a regisztrációs adót megfizették, és ezt a személygépkocsi vezetője a vámhatóság által kiállított igazolás bemutatásával bizonyítja – 10 000 forinttól 800 000 forintig, a k) és m) pontokban foglalt esetben 10 000 forinttól 300 000 forintig terjedő bírság szabható ki. Az egyes rendelkezések megsértése esetén kiszabandó bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén az ugyanabban az eljárásban kiszabható bírság maximális összegét külön jogszabály állapítja meg. Nincs helye bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
 
-(4a) A közúti forgalomban történő ellenőrzés során, ha az (1) bekezdés a), b), k), m) vagy p) pontjában, illetve a (11) bekezdés c) pontja szerinti ellenőrzés során az (1) bekezdés a)–b) pontjában meghatározott szabályszegést elkövető személye a helyszínen megállapítást nyer, a hatóság eljáró tagja határozathozatal nélkül szabja ki a bírságot és döntését közli az elkövetővel. Ha az elkövető a jogsértés tényét nem vitatja, a döntéssel szemben fellebbezésnek nincs helye, amelyről az ügyfelet a helyszínen tájékoztatni kell.
+(4a) A közúti forgalomban történő ellenőrzés során, ha az (1) bekezdés a), b), k), m) , p) vagy q) pontjában, illetve a (11) bekezdés c) pontja szerinti ellenőrzés során az (1) bekezdés a)–b) és q) pontjában meghatározott szabályszegést elkövető személye a helyszínen megállapítást nyer, a hatóság eljáró tagja határozathozatal nélkül szabja ki a bírságot és döntését közli az elkövetővel. Ha az elkövető a jogsértés tényét nem vitatja, a döntéssel szemben fellebbezésnek nincs helye, amelyről az ügyfelet a helyszínen tájékoztatni kell.
 
 (4b) A közúti forgalomban történő ellenőrzés során, ha az (1) bekezdés kg) pontjában meghatározott szabályszegést elkövető személye a helyszínen nem válik ismertté és a szabályszegést a külön jogszabályban meghatározott technikai eszközzel nem rögzítették, a (4) bekezdésben meghatározott bírságot a gépjármű forgalmi rendszáma alapján megállapított üzemben tartóval szemben kell kiszabni. Ilyenkor az üzemben tartó címére kell a kiszabott összeget tartalmazó csekkszelvényt megküldeni.
 
