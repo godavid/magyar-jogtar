@@ -2389,4 +2389,12 @@ kapcsolatos részletes szabályokat a sportpolitikáért felelős miniszter egye
 | 24. | Budapest, 27999 (48065/57386 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
 | 25. | Budapest, 27950/6 (12884/16684 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
 | 26. | Budapest, 23796/29 | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
-| 27. | Budapest, 38826 | Magyar Lovassport Szövetség” |
+| 27. | Budapest, 38826 | Magyar Lovassport Szövetség |
+| 28. | Budapest, 38295/1, valamint ebből az ingatlanból a telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanok | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
+| 29. | Budapest, 38295/2, valamint ebből az ingatlanból a telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanok | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
+| 30. | Budapest, 38295/3, valamint ebből az ingatlanból a telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanok | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
+| 31. | Budapest, 38295/4, valamint ebből az ingatlanból a telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanok | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
+| 32. | Budapest, 38295/5, valamint ebből az ingatlanból a telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanok | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
+| 33. | Budapest, 38295/6, valamint ebből az ingatlanból a telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanok | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
+| 34. | Budapest, 38295/10, valamint ebből az ingatlanból a telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanok | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
+| 35. | Budapest, 38295/11, valamint ebből az ingatlanból a telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanok | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
