@@ -737,6 +737,7 @@ vonatkozóan a megismert személyes adatokat a közlekedési hatóság az enged�
 - n) a (7)–(7a) bekezdésben meghatározott, valamint a 44. § (4) bekezdés szerinti, a jármű továbbközlekedésének megtiltására irányuló, hatósági intézkedésre,
 - o) a Nemzeti Tengelysúlymérő Rendszer keretében végzett mérés eredménye befolyásolásának tilalmára
 - p) a közúti közlekedési ellenőrzés lefolytatására, annak során hozott hatósági intézkedésekre
+- q) a külföldi járművezető által végzett közúti szállítás kiküldetési előírásaira
 
 vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
@@ -791,6 +792,7 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
   - ba) a közlekedési hatóság, a rendőrség és a vámhatóság,
   - bb) az (1) bekezdés e) pontja tekintetében a katasztrófavédelmi hatóság is,
   - bc) az (1) bekezdés a) pontja szerinti, a meghatározott engedélyhez és meghatározott okmány meglétéhez kötött nemzetközi közúti közlekedési szolgáltatás tekintetében és az (1) bekezdés h) pontja szerinti, a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedésének tekintetében közlekedési hatósági jogkörben a Kormány rendeletében meghatározott közút kezelője is,
+  - bd) az (1) bekezdés q) pontja tekintetében a közlekedési hatóság, a rendőrség, a vámhatóság,
 - c) az üzemben tartó telephelyén, a fel-, át- és lerakóhelyeken, illetve más, az árukezelés céljából üzemeltetett területen
   - ca) a közlekedési hatóság, a rendőrség, és a vámhatóság,
   - cb) az (1) bekezdés c) és d) pontja tekintetében külön jogszabály alapján a foglalkoztatás-felügyeleti hatóság is,
@@ -800,7 +802,7 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 - g) az (1) bekezdés m) pontja tekintetében a rendőrség, a közlekedési hatóság és a Kormány rendeletében kijelölt, útdíjszolgáltatási tevékenységet ellátó állami tulajdonú gazdasági társaság (a továbbiakban: útdíjszolgáltatási gazdasági társaság),
 - h) az (1) bekezdés n) pontja tekintetében a közlekedési hatóság, a rendőrség, a vámhatóság és a katasztrófavédelmi hatóság, az (1) bekezdés o) pontja tekintetében a közlekedési hatóság
 
-jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közlekedő járműnek az (1) bekezdés c) és d) pontjában meghatározott ellenőrzésébe a foglalkoztatás-felügyeleti hatóság is bevonható.
+jogosult együtt vagy önállóan ellenőrizni. A közúti forgalomban közlekedő járműnek az (1) bekezdés c), d) és q) pontjában meghatározott ellenőrzésébe a foglalkoztatás-felügyeleti hatóság is bevonható.
 
 (11a) Az (1) bekezdés k) pontja tekintetében ellenőrzésre jogosult a katonai rendészeti szolgálat is a Magyar Honvédség személyi állománya, valamint a honvédségi gépjárművek vonatkozásában. A katonai rendészeti szolgálat az általa feltárt szabályszegések esetén az ügy iratait megküldi a rendőrség részére.
 
