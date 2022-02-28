@@ -76,13 +76,15 @@ végez befektetési szolgáltatási tevékenységet,
 
 - e) arra a személyre vagy szervezetre, aki az e törvényben nem szabályozott tevékenysége során végez befektetési tanácsadási tevékenységet és ezért nem részesül díjazásban,
 - f) arra a személyre vagy szervezetre, aki vagy amely árualapú származtatott termékkel, kibocsátási egységgel vagy arra vonatkozó származtatott termékkel – ideértve az árjegyzőket is – sajátszámlás kereskedést folytat, annak kivételével, aki vagy amely ügyfélmegbízás végrehajtása során végez sajátszámlás kereskedést feltéve, hogy:
-  - fa) egyedi és összesített alapon az e pont szerinti tevékenysége – csoportszinten figyelembe véve – a főtevékenységéhez képest kiegészítő jellegű tevékenység, és főtevékenysége nem az e törvény szerinti befektetési szolgáltatási tevékenység vagy a Hpt. szerinti pénzügyi szolgáltatási tevékenység nyújtása, vagy árualapú származtatott ügyletek vonatkozásában végzett árjegyzői tevékenység,
-  - fb) nem alkalmaz nagysebességű algoritmikus kereskedési technikát, és
-  - fc) évente beszámol a Felügyeletnek arról, hogy alkalmazza-e a mentesítést és kérésre tájékoztatja a Felügyeletet arról, hogy milyen alapon ítéli meg úgy, hogy az e pont szerinti tevékenysége főtevékenységéhez képest kiegészítő jellegű tevékenység,
+  - fa) egyedi és összesített alapon az e pont szerinti tevékenysége – csoportszinten figyelembe véve – a főtevékenységéhez képest kiegészítő jellegű tevékenység,
+  - fb) nem tartozik olyan csoporthoz, amelynek főtevékenysége az e törvény szerinti befektetési szolgáltatási tevékenység vagy a Hpt. szerinti pénzügyi szolgáltatási tevékenység nyújtása, vagy árualapú származtatott ügyletek vonatkozásában végzett árjegyzői tevékenység,
+  - fc) nem alkalmaz nagy sebességű algoritmikus kereskedési technikát, és
+  - fd) kérésre tájékoztatja a Felügyeletet arról, hogy milyen alapon értékeli úgy, hogy az e pont szerinti tevékenysége főtevékenységéhez képest kiegészítő jellegű tevékenység,
 - g) arra a személyre vagy szervezetre, aki vagy amely árualapú származtatott termékkel, kibocsátási egységgel vagy arra vonatkozó származtatott termékkel – sajátszámlás kereskedés kivételével – nyújt befektetési szolgáltatási tevékenységet főtevékenysége szerinti ügyfelei vagy partnerei számára, feltéve, hogy
-  - ga) egyedi és összesített alapon az e pont szerinti tevékenysége – csoportszinten figyelembe véve – a főtevékenységéhez képest kiegészítő jellegű tevékenység, és főtevékenysége nem az e törvény szerinti befektetési szolgáltatási tevékenység vagy a Hpt. szerinti pénzügyi szolgáltatási tevékenység nyújtása, vagy árualapú származtatott ügyletek vonatkozásában végzett árjegyzői tevékenység,
-  - gb) nem alkalmaz nagysebességű algoritmikus kereskedési technikát, és
-  - gc) évente beszámol a Felügyeletnek arról, hogy alkalmazza-e a mentesítést és kérésre tájékoztatja a Felügyeletet arról, hogy milyen alapon ítéli meg úgy, hogy az e pont szerinti tevékenysége főtevékenységéhez képest kiegészítő jellegű tevékenység,
+  - ga) egyedi és összesített alapon az e pont szerinti tevékenysége – csoportszinten figyelembe véve – a főtevékenységéhez képest kiegészítő jellegű tevékenység,
+  - gb) nem tartozik olyan csoporthoz, amelynek főtevékenysége az e törvény szerinti befektetési szolgáltatási tevékenység vagy a Hpt. szerinti pénzügyi szolgáltatási tevékenység nyújtása, vagy árualapú származtatott ügyletek vonatkozásában végzett árjegyzői tevékenység,
+  - gc) nem alkalmaz nagy sebességű algoritmikus kereskedési technikát, és
+  - gd) kérésre tájékoztatja a Felügyeletet arról, hogy milyen alapon értékeli úgy, hogy az e pont szerinti tevékenysége főtevékenységéhez képest kiegészítő jellegű tevékenység,
 - h) arra a befektetési szolgáltatási tevékenységet végző vállalkozásra, amely a befektetési szolgáltatási tevékenységet – a 2014/65/EU európai parlamenti és tanácsi irányelvnek a befektetési vállalkozások szervezeti követelményei és működési feltételei, valamint az irányelv alkalmazásában meghatározott kifejezések tekintetében történő kiegészítéséről szóló, a Bizottság (EU) 2016. április 25-i 2017/565 felhatalmazáson alapuló rendelete [a továbbiakban: a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete] 4. cikkében meghatározott feltételek mellett – eseti jelleggel, szakmai tevékenysége keretében végzi, és az e szakmai tevékenységet szabályozó jogszabályok, rendelkezések vagy szakmai etikai kódex nem zárják ki befektetési szolgáltatási tevékenység végzését,
 - i) arra az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény szerinti üzemeltetőre, aki vagy amely a kibocsátási egységekkel való kereskedés során nem hajt végre ügyfélmegbízást, és sajátszámlás kereskedésen kívül nem végez befektetési szolgáltatási tevékenységet vagy kiegészítő szolgáltatást, kivéve, ha nagysebességű algoritmikus kereskedési technikát alkalmaz,
 - j) a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) szerinti átviteli rendszerirányítóra a Vet.-ben meghatározott, a villamos energia határokon keresztül történő kereskedelme esetén alkalmazandó hálózati hozzáférési feltételekről és az 1228/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. július 13-i, 714/2009/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: 714/2009/EK rendelet) meghatározott és a 714/2009/EK rendelet alapján elfogadott üzemi és kereskedelmi szabályzatok vagy iránymutatások szerinti feladata végrehajtása során, a nevében az ezen feladatok ellátása során szolgáltatóként eljáró személyre, valamint a kiegyenlítő mechanizmus és a villamosenergia-hálózat működtetőire vagy kezelőire, amennyiben a villamos energia ellátásának és felhasználásának a kiegyensúlyozása céljából ilyen feladatokat végeznek,
@@ -191,6 +193,7 @@ használnak,
 - 15. EGT-állambeli befektetési vállalkozás anyavállalat: olyan befektetési vállalkozás, amely befektetési vállalkozásban, hitelintézetben vagy pénzügyi vállalkozásban ellenőrző befolyással vagy részesedési viszonnyal rendelkezik, és a székhelye szerinti EGT-államban székhellyel rendelkező hitelintézet, befektetési vállalkozás vagy pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal nem rendelkezik benne,
 - 16. EGT-állambeli pénzügyi holding társaság anyavállalat: olyan pénzügyi holding társaság, amelyben a székhelye szerinti tagállamban székhellyel rendelkező hitelintézet, befektetési vállalkozás vagy pénzügyi holding társaság ellenőrző befolyással vagy részesedési viszonnyal nem rendelkezik,
 - 16a. egymásnak megfelelő ügyfélmegbízásokat párosító kereskedés (matched principal trading): olyan ügylet, ahol a befektetési vállalkozás vagy a piacműködtető a vevő és az eladó közé helyezi magát oly módon, hogy a tranzakció végrehajtása során nincs kitéve piaci kockázatnak, mivel mindkét oldalt egyszerre hajtják végre, valamint a tranzakciót olyan áron hajtja végre, hogy nincs nyeresége vagy vesztesége az előre meghirdetett jutalékon vagy díjon kívül,
+- 16b. elektronikus formátum: a papírtól eltérő bármely tartós adathordozó,
 - 17. elismert elszámolóház: EGT-államban vagy az OECD tagállamában működő, a székhely szerinti ország jogszabálya vagy felügyeleti hatósága által elismertnek minősített, az elszámolásforgalom lebonyolítását végző pénzügyi intézmény, illetve központi szerződő fél tevékenységet végző szervezet,
 - 18.
 - 19. ellenőrző befolyás: a Hpt.-ben meghatározott fogalom,
@@ -219,6 +222,7 @@ használnak,
 - 34b. keresztértékesítés gyakorlata (cross-selling): egy befektetési szolgáltatás felajánlása egy másik szolgáltatással vagy termékkel együtt, egy csomag részeként vagy ugyanazon megállapodás vagy csomag feltételeként,
 - 34c. kis- és középvállalkozás: olyan vállalkozás, amelynek az előző három naptári évben az év végi jegyzések alapján az átlagos piaci tőkeértéke 200 000 000 eurónál kevesebb volt,
 - 34d. kkv-tőkefinanszírozási piac: olyan multilaterális kereskedési rendszer, amelyet kkv-tőkefinanszírozási piacként vettek nyilvántartásba, a 154/A. §-nak megfelelően,
+- 34e. kiegészítési záradék: olyan záradék, amely a befektető védelmére irányul annak biztosítása révén, hogy a kötvény lejárat előtti visszaváltása esetén a kibocsátó köteles a kötvényt birtokló befektetőnek kifizetni – a visszaváltott kötvény tőkeösszege mellett – azon kamatszelvények nettó jelenértékét, amelyekre akkor lett volna jogosult, ha a kötvény lejárat előtti beváltására nem kerül sor,
 - 35. kis méretű és össze nem kapcsolt befektetési vállalkozás: az (EU) 2019/2033 rendelet 12. cikk (1) bekezdésében meghatározott fogalom,
 - 36. kollektív befektetési forma: a Kbftv.-ben meghatározott fogalom,
 - 37. központi hitelinformációs rendszer: a központi hitelinformációs rendszerről szóló törvényben meghatározott rendszer (a továbbiakban: KHR),
@@ -237,7 +241,7 @@ használnak,
 - 45. limitáras megbízás: valamely pénzügyi eszköz meghatározott limitáron vagy annál jobb áron, meghatározott mennyiségben történő vételére vagy eladására irányuló megbízás,
 - 45a. másodlagos értékpapír: a Tpt.-ben meghatározott fogalom,
 - 46. megbízás végrehajtása az ügyfél javára: pénzügyi eszköz vételére vagy eladására vonatkozó megállapodás megkötésére irányuló tevékenység végzése az ügyfél javára, amely magában foglalja a befektetési vállalkozás vagy hitelintézet által kibocsátott pénzügyi eszköz értékesítésére vonatkozó megállapodás megkötését a kibocsátás pillanatában,
-- 47. mezőgazdasági áru alapú származtatott ügyletek: az 1308/2013/EU európai parlamenti és tanácsi rendelet 1. cikkében, I. mellékletének I–XX. részében és XXIV/1. részében felsorolt termékekhez kapcsolódó származtatott ügyletek,
+- 47. mezőgazdasági áru alapú származtatott ügyletek: a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1308/2013/EU európai parlamenti és tanácsi rendelet) 1. cikkében, I. mellékletének I–XX. részében és XXIV. rész 1. szakaszában felsorolt termékekhez, valamint a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendelet I. mellékletében felsorolt termékekhez kapcsolódó származtatott ügyletek,
 - 48. miniszter: a pénz-, tőke és biztosítási piac szabályozásáért felelős miniszter,
 - 49. minisztérium: a miniszter által vezetett minisztérium,
 - 49a. multilaterális rendszer: valamely rendszer, amelyben több harmadik fél pénzügyi eszközökre irányuló vételi és eladási szándéka hozható össze a rendszeren belül,
@@ -250,6 +254,7 @@ használnak,
 - 49e. összevont helyzet: az (EU) 2019/2033 rendelet 4. cikk (1) bekezdés 11. pontjában meghatározott fogalom,
 - 50. pénzügyi elemző: a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendeletében meghatározott személy,
 - 51. pénzpiaci eszköz: a fizetőeszköz kivételével sorozatban kibocsátott pénzkövetelésre szóló eszköz, amellyel pénzpiacon kereskednek
+- 51a. pénzügyi eszközök közötti váltás: egy pénzügyi eszköz eladása és egy másik pénzügyi eszköz vétele vagy egy meglévő pénzügyi eszközt érintő módosításra vonatkozó jog gyakorlása,
 - 51b. pénzügyi vállalkozás: az (EU) 2019/2033 rendelet 4. cikk (1) bekezdés 14. pontjában meghatározott fogalom,
 - 52. pénzügyi eszköz elhelyezése (placement): a pénzügyi eszköz Tpt. szerinti forgalombahozatala és nyilvános értékesítésre történő felajánlása,
 - 52a. piacműködtető: olyan személy, amely irányítja, illetve működteti a szabályozott piac üzletvitelét, és amely maga a szabályozott piac,
@@ -284,6 +289,7 @@ használnak,
 - 64. szponzor: az 575/2013/EU rendeletben ekként meghatározott fogalom,
 - 65. tartós adathordozó: olyan eszköz, amely az ügyfél számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését,
 - 65a. tőzsdén kereskedett alap: olyan befektetési alap, amelynek legalább egy kollektív befektetési értékpapírjával kereskednek az egész nap folyamán legalább egy kereskedési helyszínen és van legalább egy olyan árjegyző, amely fellép annak biztosítására, hogy a kereskedési helyszínen kereskedett kollektív befektetési értékpapír ára jelentős mértékben ne térjen el annak nettó eszközértékétől, illetve adott esetben annak indikatív nettó eszközértékétől,
+- 65b. túlnyomórészt üzleti jellegű vállalkozáscsoport: olyan csoport, amelynek főtevékenysége nem az e törvény szerinti befektetési szolgáltatási tevékenység vagy a Hpt. szerinti pénzügyi szolgáltatási tevékenység nyújtása, vagy árualapú származtatott ügyletek vonatkozásában végzett árjegyzői tevékenység,
 - 66. ügyfél: az, aki az e törvény hatálya alá tartozó szolgáltatást vesz igénybe,
 - 67. ügyfél azonosításra szolgáló adatok:
   - a) természetes személy esetén aa) természetes személyazonosító adatok, ab)–ad) ae) állampolgárság, af) azonosító okmány típusa és száma,
@@ -607,6 +613,8 @@ induló tőkével kell rendelkeznie.
 (5) Abban az esetben, ha a befektetési vállalkozás nem saját maga által kialakított pénzügyi eszközöket kínál vagy ajánl, kielégítő megoldásokat kell alkalmaznia a (4) bekezdésben említett információk beszerzésére és minden egyes pénzügyi eszköz jellemzőinek és azonosított célpiacainak megértésére.
 
 (6) Az e § szerinti szabályok, folyamatok és megoldások e törvénynek és a 600/2014/EU rendelet előírásainak – ideértve a közzétételre, az alkalmasságra vagy megfelelőségre, az összeférhetetlenségek azonosítására és kezelésére, valamint az ösztönzőkre vonatkozóakat is – sérelme nélkül alkalmazandók.
+
+(7) A befektetési vállalkozás mentesül az (1)–(4) bekezdésben, valamint a 40. § (2) és (3) bekezdésében meghatározott követelmények alól, ha az általa nyújtott befektetési szolgáltatási tevékenység olyan kötvényekhez kapcsolódik, amelyek a kiegészítési záradékon kívül nem tartalmaznak más beágyazott származtatott terméket, vagy ha a pénzügyi eszközöket kizárólag elfogadható partnerek részére értékesítik vagy forgalmazzák.
 
 18. § (1) A befektetési vállalkozás és az árutőzsdei szolgáltató által alkalmazott eljárás, rendszer és megoldás, valamint az általa vezetett nyilvántartás
 
@@ -1377,7 +1385,18 @@ akkor a Felügyelet a 171. §-ban foglaltak szerinti konzultációt folytat a be
 
 (6) Az (5) bekezdés szerinti összes költségről és díjról szóló tájékoztatást – a befektetési szolgáltatási tevékenységhez vagy kiegészítő szolgáltatáshoz és a pénzügyi eszközhöz kapcsolódó azon költségeket és díjakat is beleértve, amelyeket nem az alapul szolgáló eszközök piacának kockázata hoz létre – összesített formában kell nyújtani annak érdekében, hogy az ügyfél megérthesse a teljes költséget és annak a befektetés hozamára gyakorolt kumulatív hatását. Amennyiben az ügyfél azt kéri, a tájékoztatást tételes lebontásban is biztosítani kell. Adott esetben ezt a tájékoztatást a befektetés élettartama alatt rendszeresen, legalább évente biztosítani kell az ügyfél számára. A tájékoztatást a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 50. cikkében foglaltaknak megfelelően kell nyújtani.
 
+(6a) Ha a pénzügyi eszköz vételére vagy eladására vonatkozó megállapodást olyan távközlési eszköz igénybevételével kötik meg, amely nem teszi lehetővé a költségekkel és díjakkal kapcsolatos előzetes tájékoztatást, a befektetési vállalkozás a költségekkel és díjakkal kapcsolatos tájékoztatást az ügyletkötést követően indokolatlan késedelem nélkül elektronikus formában vagy – lakossági ügyfél kérésére – papíron is megadhatja, feltéve, hogy a következő feltételek teljesülnek:
+
+- a) az ügyfél beleegyezett, hogy az ügylet megkötését követően indokolatlan késedelem nélkül kapja meg a tájékoztatást; és
+- b) a befektetési vállalkozás megadta azt a választási lehetőséget az ügyfél számára, hogy a tájékoztatás átvételéig elhalassza az ügylet megkötését.
+
+(6b) A (6) bekezdésben foglalt követelményeken túlmenően a befektetési vállalkozás köteles lehetőséget biztosítani az ügyfélnek arra, hogy a költségekkel és díjakkal kapcsolatos tájékoztatást telefonon kapja meg az ügylet megkötését megelőzően.
+
 (7) Az (5) és (6) bekezdésben, valamint a 41. § (4)–(6) bekezdésében foglalt információkat érthető formában kell közölni, úgy, hogy észszerűen feltételezhető legyen, hogy azok alapján az ügyfél vagy a leendő szerződő fél képes átlátni a felkínált befektetési szolgáltatási tevékenységet vagy kiegészítő szolgáltatást, illetve az adott pénzügyi eszköz természetét és kockázatait, és ennek következtében tájékozottan tudja meghozni befektetési döntéseit. Ez a tájékoztatás egységesített formátumban is biztosítható.
+
+(7a) A befektetési vállalkozás az e törvényben előírt valamennyi, az ügyfeleknek vagy potenciális ügyfeleknek nyújtandó információt elektronikus formátumban adja át, kivéve akkor, ha lakossági ügyfél vagy potenciális lakossági ügyfél papíralapú tájékoztatást kért, amely esetben ezeket az információkat papíron, díjmentesen kell megadni. A befektetési vállalkozás tájékoztatja a lakossági ügyfeleket vagy potenciális lakossági ügyfeleket, hogy lehetőségük van papíron megkapni az információkat.
+
+(7b) Azokat a meglévő lakossági ügyfeleket, akik papíron kapják meg az e törvény szerint nyújtandó információkat, a befektetési vállalkozás az elektronikus formátumban történő elküldés előtt legalább nyolc héttel tájékoztatja arról, hogy a továbbiakban elektronikus formátumban kapják meg az információkat. A befektetési vállalkozás tájékoztatja e lakossági ügyfeleket, hogy választásuk szerint továbbra is kaphatnak papíralapú tájékoztatást, vagy áttérhetnek az elektronikus formátumú tájékoztatásra. A befektetési vállalkozás tájékoztatja továbbá a meglévő lakossági ügyfeleket, hogy ha a nyolchetes időszak során nem kérik a papíralapú tájékoztatás folytatását, akkor automatikusan elektronikus formátumban fogják megkapni az információkat. Azokat a meglévő ügyfeleket, akik már elektronikus formátumban kapják meg az e törvény szerint nyújtandó információkat, nem szükséges tájékoztatni.
 
 (8) Azon esetekben, ha a befektetési szolgáltatási tevékenység végzését vagy a kiegészítő szolgáltatás nyújtását olyan pénzügyi termék részeként kínálják, amelyre a tájékoztatási kötelezettségek tekintetében már a Hpt. illetve az Fhtv. egyéb rendelkezései vonatkoznak, az ilyen szolgáltatásra ezeken túlmenően nem vonatkoznak a (4)–(7) bekezdésben megállapított kötelezettségek.
 
@@ -1403,18 +1422,30 @@ akkor a Felügyelet a 171. §-ban foglaltak szerinti konzultációt folytat a be
 
 (7) Nem tartoznak az (5) bekezdésben meghatározott követelmények hatálya alá azok a kifizetések vagy díjak, amelyek a befektetési szolgáltatási tevékenységek vagy kiegészítő szolgáltatások nyújtását lehetővé teszik, vagy ahhoz szükségesek – pl. őrzési díjak, elszámolási és átváltási díjak, igazgatási illetékek vagy jogi költségek –, és amelyek természetüknél fogva nem eredményezhetnek konfliktusokat a befektetési vállalkozásnak ügyfele érdekében végzett becsületes, tisztességes és szakszerű tevékenységére vonatkozó kötelezettségével kapcsolatban.
 
+(7a) Az ügyfeleknek portfóliókezelési vagy egyéb befektetési szolgáltatási tevékenységet vagy kiegészítő szolgáltatást nyújtó befektetési vállalkozás részére harmadik fél által végzett elemzés akkor tekintendő a 40. § (1) bekezdés szerinti kötelezettségek teljesítésének, ha:
+
+- a) a végrehajtási vagy elemzési szolgáltatások nyújtását megelőzően a befektetési vállalkozás és az elemzés szolgáltatója megállapodást kötött, amely azonosítja, hogy a végrehajtási szolgáltatásokhoz és elemzéshez kapcsolódó bármely összevont költség vagy közös kifizetés mely része tulajdonítható az elemzésnek;
+- b) a befektetési vállalkozás tájékoztatja ügyfeleit az elemzés szolgáltatója részére teljesített, végrehajtási szolgáltatásokhoz és elemzéshez kapcsolódó közös kifizetésekről; valamint
+- c) az összevont költségek vagy a közös kifizetés tárgyát képező elemzést olyan kibocsátókat érintően végzik, amelyek piaci kapitalizációja az elemzést megelőző 36 hónapos időszakban – az év végi jegyzésekben kifejezettek alapján, azokban az években, amikor tőzsdén vannak vagy voltak jegyezve vagy a saját tőkéjük alapján, azokban a pénzügyi években, amikor nincsenek vagy nem voltak tőzsdén jegyezve – nem haladta meg az 1 milliárd eurót.
+
+(7b) A (7a) bekezdés alkalmazásában elemzés alatt olyan elemzési anyagok vagy szolgáltatások értendők, amelyek egy vagy több pénzügyi eszközre vagy egyéb eszközökre, illetve pénzügyi eszközök kibocsátóira vagy potenciális kibocsátóira vonatkoznak, vagy amelyek szorosan kapcsolódnak egy konkrét iparághoz vagy piachoz oly módon, hogy az ezen iparághoz vagy piachoz tartozó pénzügyi eszközökkel, egyéb eszközökkel vagy kibocsátókkal kapcsolatos nézetekről nyújtanak tájékoztatást. Az elemzés magában foglalja az olyan anyagokat vagy szolgáltatásokat is, amelyek
+
+- a) kifejezetten vagy implicit módon egy befektetési stratégiát ajánlanak vagy javasolnak, és megalapozott véleményt adnak pénzügyi eszközök vagy egyéb eszközök jelenlegi vagy jövőbeni értékéről vagy áráról, vagy
+- b) egyéb jellegű elemzést, eredeti megállapításokat tartalmaznak, és új vagy meglévő információk alapján olyan következtetéseket vonnak le, amelyek használhatók a befektetési stratégiához, valamint relevánsak és hozzáadott értéket tudnak biztosítani a befektetési vállalkozás azon döntéseihez, amelyeket az adott elemzésért fizető ügyfelek nevében hoz.
+
 (8) Az olyan befektetési vállalkozásnak, amely befektetési szolgáltatási tevékenységet vagy kiegészítő szolgáltatást végez ügyfelek számára, biztosítania kell, hogy alkalmazottait ne díjazza, illetve teljesítményüket ne értékelje oly módon, amely ütközik azzal a kötelezettségével, hogy az ügyfelei érdekeinek leginkább megfelelő módon járjon el. A befektetési vállalkozás mindenekelőtt nem alakíthat ki díjazás, értékesítési célok révén vagy más módon olyan mechanizmust, amely arra ösztönözhetné alkalmazottait, hogy egy bizonyos pénzügyi eszközt ajánljanak lakossági ügyfelüknek, amikor a befektetési vállalkozás más, az ügyfél igényeinek jobban megfelelő pénzügyi eszközt is ajánlhatna.
 
 (9) Amikor egy befektetési szolgáltatást csomag részeként vagy ugyanazon megállapodás vagy csomag feltételeként egy másik szolgáltatással vagy termékkel együtt kínálnak, a befektetési vállalkozásnak tájékoztatnia kell az ügyfelet, hogy az egyes komponenseket meg lehet-e külön vásárolni, és mindegyik komponensről külön költségigazolást és díjkiszabást kell kiállítania. Amennyiben a lakossági ügyfelek számára kínált ilyen megállapodáshoz vagy csomaghoz kapcsolódó kockázat várhatóan eltér az egyes komponensekhez külön-külön kapcsolódó kockázatoktól, a befektetési vállalkozásnak megfelelő leírást kell nyújtania a megállapodás vagy csomag különböző komponenseiről, valamint arról, hogy egymásra hatásuk hogyan módosítja a kockázatot.
 
 (10) Ha e törvény eltérően nem rendelkezik, a 40. § és az e § szerinti tájékoztatást olyan időben kell megadni, hogy az ügyfélnek – a szerződés tárgyát képező ügylet összetettségére tekintettel – kellő idő álljon rendelkezésre a tájékoztatásban foglalt információk megértéséhez és a megalapozott döntéshez.
 
-42. § Ha e törvény a befektetési vállalkozás számára tartós adathordozón teljesítendő tájékoztatási kötelezettséget ír elő, e kötelezettségét
+41/A. § (1) A 40. § (5) bekezdés c) pontjában megállapított követelmények a befektetési tanácsadás és portfóliókezelési szolgáltatás kivételével nem alkalmazandók a szakmai ügyfelek részére nyújtott szolgáltatásokra.
 
-- a) írásban, vagy
-- b) egyéb tartós adathordozón
+(2) A 44. § (1b) és (3)–(5) bekezdésében, valamint a 67. §-ban és 69. §-ban megállapított követelmények nem alkalmazandók a szakmai ügyfelek részére nyújtott szolgáltatásokra, kivéve, ha a szakmai ügyfél elektronikus formátumban vagy papíron arról tájékoztatja a befektetési vállalkozást, hogy élni kíván a 44. § (1b) és (3)–(5) bekezdésében, valamint a 67. §-ban és 69. §-ban biztosított jogokkal.
 
-a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 3. cikkében meghatározottaknak megfelelően teljesíti.
+(3) A befektetési vállalkozás nyilvántartást vezet az ügyfelek (2) bekezdés szerint tett nyilatkozatairól.
+
+42. § Ha e törvény a befektetési vállalkozás számára tartós adathordozón teljesítendő tájékoztatási kötelezettséget ír elő, e kötelezettségét a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 3. cikkében meghatározottaknak megfelelően teljesíti.
 
 ### XI. Fejezet — A SZERZŐDÉSKÖTÉS SZABÁLYAI
 
@@ -1434,6 +1465,8 @@ a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 3. cikkében megh
 annak érdekében, hogy a körülményeihez igazodó, veszteségviselési képességével összhangban álló, valamint a befektetési elvárásai megvalósítására alkalmas ügyletet vagy pénzügyi eszközt ajánljon.
 
 (1a) Ha egy befektetési vállalkozás olyan befektetési tanácsot ad, amelyben a 41. § (9) bekezdése szerinti szolgáltatáscsomagot vagy termékcsomagot ajánl, biztosítja, hogy a csomag összességében alkalmas legyen az ügyfél vagy a leendő szerződő fél számára.
+
+(1b) Pénzügyi eszközök közötti váltást érintő befektetési tanácsadás vagy portfóliókezelés nyújtása esetén, a befektetési vállalkozás beszerzi az ügyfél befektetésével kapcsolatos szükséges információkat, és elemzi a pénzügyi eszközök közötti váltás költségeit és előnyeit. Befektetési tanácsadás nyújtása esetén a befektetési vállalkozás tájékoztatja az ügyfelet, hogy a pénzügyi eszközök közötti váltás hasznai meghaladják-e az ilyen váltás költségeit.
 
 (2) Az (1) bekezdésben meghatározott tájékozódás (a továbbiakban: alkalmassági teszt) keretében a befektetési vállalkozás értékeli a befektetési tanácsadási tevékenysége vagy portfóliókezelési tevékenysége keretében kínált szolgáltatásának a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 54. és 55. cikkében meghatározottaknak történő megfelelését.
 
@@ -1584,7 +1617,7 @@ amely a befektetési vállalkozás és az ügyfél között létrejövő szerző
 - c) a 48. § (3) bekezdésében meghatározott intézmény, és
 - d) az a vállalkozás, amelyet a székhelye szerinti állam ilyenként ismer el.
 
-(2) A befektetési vállalkozásnak az 5. § (1) bekezdésének a)–c) pontjában meghatározott befektetési szolgáltatási tevékenysége és ehhez kapcsolódó kiegészítő szolgáltatása esetében – ha azt az (1) bekezdésben meghatározott elfogadható partner számára nyújtja – a 40. § (1)–(4) és (8) bekezdésében, a 41. §-ban, a 43–46. §-ban, az 55. §-ban, a 62. §-ban, a 63. §-ban, valamint a 64. § (1) bekezdésében foglaltakat – a (3) és (4) bekezdésben foglalt kivétellel – nem kell alkalmaznia.
+(2) A befektetési vállalkozásnak az 5. § (1) bekezdés a)–c) pontjában meghatározott befektetési szolgáltatási tevékenysége és ehhez kapcsolódó kiegészítő szolgáltatása esetében – ha azt az (1) bekezdésben meghatározott elfogadható partner számára nyújtja – a 40. § (1)–(7) és (8) bekezdésében, a 41. §-ban, a 43–46. §-ban, az 55. §-ban, a 62. §-ban, a 63. §-ban, a 64. § (1) bekezdésében, a 67. §-ban, valamint a 69. §-ban foglaltakat nem kell alkalmaznia.
 
 (3) Az (1) bekezdés b), illetve c) pontjában meghatározott elfogadható partnernek minősülő ügyfél – akár egyes ügyletek vonatkozásában, akár általános jelleggel – kérheti, hogy a befektetési vállalkozás rá vonatkozóan ne a (2) bekezdésben említettek szerint járjon el. Ebben az esetben – ha az elfogadható partner kifejezetten eltérően nem nyilatkozik –, rá a szakmai ügyfél tekintetében alkalmazandó rendelkezések szerint kell eljárni.
 
@@ -2782,12 +2815,12 @@ kell eleget tenni.
 
 (9) Ha a Felügyelet azt állapítja meg, hogy a befektetési vállalkozás által a tőkekövetelmény számításra alkalmazott belső módszer indokolatlanul jelentősen alulbecsüli a tőkekövetelmény mértékét, akkor a Felügyelet kötelezheti a befektetési vállalkozást a belső módszer módszertanának vagy az egyes paramétereknek a megváltoztatására.
 
-(10) Az a befektetési vállalkozás, amely árualapú származtatott termékekkel vagy kibocsátási egységekkel, illetve ezek származtatott eszközeivel kereskedési helyszínen kívül kereskedik
+(10) Az a befektetési vállalkozás, amely árualapú származtatott termékekkel vagy kibocsátási egységekkel, illetve ezek származtatott eszközeivel kereskedési helyszínen kívül kereskedik,
 
-- a) annak a kereskedési helyszínnek a hatáskörrel rendelkező felügyeleti hatóságának a részére, amelyen az árualapú származtatott termékekkel vagy kibocsátási egységekkel, illetve ezek származtatott eszközeivel kereskednek vagy
-- b) amennyiben az árualapú származtatott termékekkel, a kibocsátási egységekkel, illetve ezek származtatott eszközeivel több – különböző EGT-államban lévő – kereskedési helyszínen kereskednek jelentős nagyságrendben, annak a kereskedési helyszínnek a hatáskörrel rendelkező felügyeleti hatóságának (központi illetékes hatóság) a részére, ahol a legnagyobb mértékű forgalom bonyolódik
+- a) annak a kereskedési helyszínnek a hatáskörrel rendelkező felügyeleti hatóságának (e bekezdés alkalmazásában: központi illetékes hatóság) a részére, ahol a legnagyobb mértékű forgalom bonyolódik, amennyiben az árualapú származtatott termékekkel, a kibocsátási egységekkel, illetve ezek származtatott eszközeivel több – különböző EGT-államban lévő – kereskedési helyszínen kereskednek, vagy
+- b) – központi illetékes hatóság hiányában – annak a kereskedési helyszínnek a hatáskörrel rendelkező felügyeleti hatóságának a részére, amelyen az árualapú származtatott termékekkel vagy kibocsátási egységekkel, illetve ezek származtatott eszközeivel kereskednek
 
-legalább naponta rendelkezésre bocsátja az általa, ügyfelei által, valamint – a végső ügyfél eléréséig – azok ügyfelei által a kereskedési helyszínen kereskedett árualapú származtatott termékekben, kibocsátási egységekben, illetve ezek származtatott eszközeiben és a gazdaságilag egyenértékű, tőzsdén kívüli származtatott ügyletekben tartott pozíciók teljes bontását, összhangban a 600/2014/EU rendelet 26. cikkével és adott esetben az 1227/2011/EU rendelet 8. cikkével.
+legalább naponta rendelkezésre bocsátja az általa, ügyfelei által, valamint – a végső ügyfél eléréséig – azok ügyfelei által a kereskedési helyszínen kereskedett árualapú származtatott termékekben, kibocsátási egységekben, illetve ezek származtatott eszközeiben és a gazdaságilag egyenértékű, tőzsdén kívüli származtatott ügyletekben tartott pozíciók teljes bontását, összhangban a 600/2014/EU rendelet 26. cikkével és adott esetben az 1227/2011/EU európai parlamenti és tanácsi rendelet 8. cikkével.
 
 (11) A 600/2014/EU rendelet 23. és 28. cikkében előírt kereskedési kötelezettség tárgyát képező pénzügyi eszközök tekintetében minden kereskedési helyszín és rendszeres internalizáló, egyéb pénzügyi eszközök tekintetében pedig minden kereskedési helyszín legalább évente egyszer díjazás nélkül nyilvánosságra hozza az ügyletek – adott helyszínen történt – végrehajtásának minőségével kapcsolatos adatokat.
 
@@ -3048,8 +3081,8 @@ nyilatkozatát az átadó befektetési vállalkozásnak, illetőleg árutőzsdei
 (2) A pozíciókezelési kontrollmechanizmus legalább az alábbi hatásköröket foglalja magában:
 
 - a) a tagok és ügyfelek nyitott pozícióinak nyomon követése;
-- b) hozzáférés a tagoktól és ügyfelektől származó mindazon információkhoz – így többek között minden dokumentumhoz is –, amelyek a vállalt pozíció vagy kitettség nagyságára és rendeltetésére vonatkoznak, továbbá a tényleges tulajdonosokra, bármely együttes fellépéssel kapcsolatos megegyezésre, valamint az alapul szolgáló eszközök piacán meglévő bármely kapcsolódó eszközre vagy kötelezettségre vonatkozó információkhoz;
-- c) egy adott tag, illetve ügyfél kötelezése arra, hogy – a konkrét esettől függően ideiglenesen vagy tartósan – lezárja vagy csökkentse pozícióját, és a megfelelő intézkedés egyoldalú megtétele a lezárás vagy a csökkentés biztosítása érdekében, amennyiben az adott tag, illetve ügyfél nem tesz eleget a felszólításnak; valamint
+- b) a tagoktól és ügyfelektől származó mindazon információ – így többek között minden dokumentum – beszerzése, amely a vállalt pozíció vagy kitettség nagyságára és rendeltetésére, továbbá a tényleges tulajdonosokra, bármely együttes fellépéssel kapcsolatos megegyezésre, valamint az alapul szolgáló eszközök piacán meglévő bármely kapcsolódó eszközre vagy kötelezettségre vonatkozik, beleértve adott esetben azokat a pozíciókat amelyeket az ugyanazon alaptermékhez kapcsolódó és ugyanazon jellemzőkkel rendelkező árualapú származtatott termékekben, más kereskedési helyszíneken vagy gazdaságilag egyenértékű tőzsdén kívüli ügyletekben, tagokon és résztvevőkön keresztül tartanak;
+- c) egy adott tag, illetve ügyfél kötelezése arra, hogy – ideiglenesen vagy tartósan – lezárja vagy csökkentse pozícióját, és a megfelelő intézkedés egyoldalú megtétele a lezárás vagy a csökkentés biztosítása érdekében, amennyiben az adott tag, illetve ügyfél nem tesz eleget a felszólításnak; valamint
 - d) adott esetben az érintett tag, illetve ügyfél kötelezése arra, hogy megállapodás szerinti áron és mértékben ideiglenesen, a jelentős vagy domináns pozíciójából fakadó hatások mérséklésének kifejezett szándékával irányítson vissza likviditást a piacra.
 
 (3) A pozíciókezelési kontrollmechanizmusnak átláthatónak és megkülönböztetés-mentesnek kell lennie, meghatározva, hogy hogyan alkalmazandó az érintett tagokra és ügyfelekre, valamint figyelembe véve a piaci szereplők jellegét és összetételét és azt, hogy hogyan használják a kereskedésbe bevont ügyleteket.
@@ -3061,6 +3094,8 @@ nyilatkozatát az átadó befektetési vállalkozásnak, illetőleg árutőzsdei
 (2) Az (1) bekezdés szerinti heti jelentésre vonatkozó kötelezettséget csak abban az esetben kell teljesíteni, ha a személyek száma, és a nyitott pozícióik mértéke is meghaladja a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 83. cikkében meghatározott minimális küszöbértékeket. Ez esetben a heti jelentést a Felügyeletnek és az Európai Értékpapír-piaci Hatóságnak is meg kell küldeni.
 
 (3) Ha a befektetési vállalkozás vagy piacműködtető olyan MTF-et, illetve OTF-et működtet, amelyen árualapú származtatott termékekkel vagy kibocsátási egységekkel vagy azok származtatott eszközeivel kereskednek, legalább naponta egyszer átadja a Felügyeletnek az MTF-en, illetve OTF-en jelen lévő összes személy – többek között a tagok vagy résztvevők és azok ügyfelei – pozícióinak teljes körű bontását.
+
+(3a) A pozíciók jelentése nem vonatkozik az olyan részvényen és kötvényen kívüli átruházható értékpapírra, amely feljogosít bármely ilyen átruházható értékpapír megszerzésére vagy eladására, vagy átruházható értékpapírokra, devizákra, kamatlábakra vagy hozamokra, árucikkekre vagy más indexekre vagy mértékekre történő hivatkozással meghatározott készpénzzel történő teljesítésre ad lehetőséget, amely áruhoz vagy a 6. § j) és k) pontjában felsorolt alaptermékhez kapcsolódik.
 
 (4) A valamely árualapú származtatott termékben vagy kibocsátási egységben vagy annak származtatott eszközében pozícióval rendelkező személyeket az MTF-et, illetve OTF-et működtető befektetési vállalkozásnak vagy piacműködtetőnek a főtevékenységük jellegének megfelelően és az esetleges vonatkozó engedélyeket figyelembe véve, az alábbiak szerint kell csoportosítania:
 
@@ -3358,14 +3393,19 @@ vonatkozó rendelkezések alkalmazandók.
 
 ### XXVI/A. Fejezet — ÁRUALAPÚ SZÁRMAZTATOTT TERMÉKEKRE VONATKOZÓ POZÍCIÓLIMITEK
 
-157/A. § (1) A Felügyelet az Európai Értékpapír-piaci Hatóság által meghatározott számítási módszertannal összhangban világos mennyiségi küszöbértékeket megtestesítő pozíciólimiteket állapít meg és alkalmaz a kereskedési helyszíneken kereskedett árualapú származtatott termékekre és a gazdaságilag egyenértékű, tőzsdén kívüli (OTC) ügyletekre vonatkozóan egy adott személy által bármely időpontban tartható pozíció nagysága tekintetében.
+157/A. § (1) A Felügyelet az Európai Értékpapír-piaci Hatóság által meghatározott számítási módszertannal összhangban világos mennyiségi küszöbértékeket megtestesítő pozíciólimiteket állapít meg és alkalmaz a kereskedési helyszíneken kereskedett mezőgazdasági árualapú származtatott termékekre és a kritikus vagy jelentős árualapú származtatott termékekre, valamint a gazdaságilag egyenértékű, tőzsdén kívüli (OTC) ügyletekre vonatkozóan egy adott személy által bármely időpontban tartható nettó pozíció nagysága tekintetében. Az árualapú származtatott termékek akkor tekinthetők kritikusnak vagy jelentősnek, ha a záró pozícióval rendelkezők összes nettó pozíciójának összege megegyezik nyitott pozíciójuk nagyságával, és egy egyéves időszakra vetítve, átlagosan legalább 300 000 tételt tesz ki.
 
 (2) A pozíciólimiteket az egy személy által tartott és a nevében összesített csoportszinten tartott valamennyi pozíció alapján kell meghatározni a következők érdekében:
 
 - a) piaci visszaélés megelőzése,
 - b) a szabályszerű árazási és teljesítési feltételek támogatása, ideértve a piactorzító pozíciók megelőzését is, és a leszállítási hónapban a származtatott termékek árai és az alapul szolgáló áruk azonnali árai közötti konvergencia biztosítását, nem sértve az alapul szolgáló áru piacán az árfeltárást.
 
-(3) A pozíciólimitek nem alkalmazandók az olyan – a 648/2012/EU európai parlamenti és tanácsi rendelet 2. cikk 9. pontjában meghatározott – nem pénzügyi szerződő fél által vagy annak nevében tartott pozíciókra, amelyekről objektíven mérhető adatok alapján megállapítható, hogy csökkentik e nem pénzügyi szerződő fél kereskedelmi tevékenységéhez közvetlenül kapcsolódó kockázatokat.
+(3) A pozíciólimitek nem alkalmazandók
+
+- a) az olyan – a 648/2012/EU európai parlamenti és tanácsi rendelet 2. cikk 9. pontjában meghatározott – nem pénzügyi szerződő fél által vagy annak nevében tartott pozíciókra, amelyekről objektíven mérhető adatok alapján megállapítható, hogy csökkentik e nem pénzügyi szerződő fél kereskedelmi tevékenységéhez közvetlenül kapcsolódó kockázatokat,
+- b) egy túlnyomórészt üzleti jellegű vállalkozáscsoport részét képező és a túlnyomórészt üzleti jellegű vállalkozáscsoport nem pénzügyi szervezete nevében eljáró pénzügyi szervezet által vagy annak nevében tartott pozíciókra, ha e pozíciók objektíven mérhető módon csökkentik az említett nem pénzügyi szervezet kereskedelmi tevékenységéhez közvetlenül kapcsolódó kockázatokat,
+- c) a pénzügyi és nem pénzügyi szerződő felek által tartott olyan pozíciókra, amelyek objektíven mérhető módon olyan ügyletekből erednek, amelyek egy kereskedési helyszínre vonatkozó likviditás biztosításával kapcsolatos kötelezettségek teljesítésére szolgálnak, illetve
+- d) olyan részvényen és kötvényen kívüli átruházható értékpapírra, amely feljogosít bármely ilyen átruházható értékpapír megszerzésére vagy eladására, vagy átruházható értékpapírokra, devizákra, kamatlábakra vagy hozamokra, árucikkekre vagy más indexekre vagy mértékekre történő hivatkozással meghatározott készpénzzel történő teljesítésre ad lehetőséget, amely áruhoz vagy a 6. § j) és k) pontjában felsorolt alaptermékhez kapcsolódik.
 
 (4) A Felügyelet felülvizsgálja a pozíciólimiteket, amennyiben az alapul szolgáló áruból leszállítható mennyiségben vagy a nyitott pozícióban jelentős változás áll be, vagy a piacon egyéb jelentős változás következik be. A leszállítható mennyiségnek és a nyitott pozíciónak a meghatározása alapján – az Európai Értékpapír-piaci Hatóság által meghatározott számítási módszertannal összhangban – a Felügyelet a pozíciólimiteket újraszámolja.
 
@@ -3375,16 +3415,18 @@ vonatkozó rendelkezések alkalmazandók.
 
 (7) Ha a Felügyelet a (6) bekezdés szerinti bejelentését követő két hónapon belül az Európai Értékpapír-piaci Hatóságtól a pozíciólimitek módosítását igénylő véleményt kap, módosítania kell a pozíciólimiteket, vagy indokolással kell szolgálnia az Európai Értékpapír-piaci Hatóság számára arról, hogy a módosítást miért nem tartja szükségesnek. Ha a Felügyelet olyan limiteket állapít meg, amelyek ellentétesek az Európai Értékpapír-piaci Hatóság véleményével, honlapján haladéktalanul közzétesz egy közleményt, amelyben részletesen kifejti annak indokait, hogy miért így járt el.
 
-(8) Amennyiben ugyanazon árualapú származtatott terméket több EGT-állam kereskedési helyszínein jelentős nagyságrendben forgalmaznak, és a legnagyobb mértékű forgalom magyarországi székhelyű kereskedési helyszínen bonyolódik, a Felügyelet (ez esetben mint központi illetékes hatóság) egységes pozíciólimitet állapít meg, amelyet az adott termék esetében minden kereskedésre alkalmazni kell. A Felügyelet az alkalmazandó egységes pozíciólimitről és ezen egységes pozíciólimit esetleges felülvizsgálatáról konzultációt folytat a többi olyan kereskedési helyszín felügyeleti hatóságával (e bekezdésben a továbbiakban: érintett felügyeleti hatóság), ahol e származtatott terméket jelentős nagyságrendben forgalmazzák. Amennyiben a Felügyelet és az érintett felügyeleti hatóságok nem jutnak megegyezésre, az érintett felügyeleti hatóságok írásban teljes körűen és részletesen kifejtik azon indokokat, amelyek alapján úgy ítélik meg, hogy az (1) és (2) bekezdésben meghatározott előírások nem teljesülnek. A Felügyelet és az érintett felügyeleti hatóságok közötti nézeteltérés esetén az Európai Értékpapír-piaci Hatóság az 1095/2010/EU rendelet 19. cikke szerinti hatáskörében jár el a vitarendezés érdekében.
+(8) Amennyiben ugyanazon alaptermékhez kapcsolódó és ugyanazon jellemzőkkel rendelkező mezőgazdasági árualapú származtatott termékkel több EGT-állam kereskedési helyszínein jelentős nagyságrendben kereskednek, vagy amennyiben ugyanazon alaptermékhez kapcsolódó és ugyanazon jellemzőkkel rendelkező kritikus vagy jelentős árualapú származtatott termékkel több EGT-állam kereskedési helyszínein kereskednek, és a legnagyobb mértékű forgalom magyarországi székhelyű kereskedési helyszínen bonyolódik, a Felügyelet (ez esetben mint központi illetékes hatóság) egységes pozíciólimitet állapít meg, amelyet az adott termék esetében minden kereskedésre alkalmazni kell. A Felügyelet az alkalmazandó egységes pozíciólimitről és ezen egységes pozíciólimit esetleges felülvizsgálatáról konzultációt folytat a többi olyan kereskedési helyszín felügyeleti hatóságával (e bekezdés alkalmazásában a továbbiakban: érintett felügyeleti hatóság), ahol e mezőgazdasági árualapú származtatott termékkel jelentős nagyságrendben kereskednek vagy ahol ezen kritikus vagy jelentős árualapú származtatott termékkel kereskednek. Amennyiben a Felügyelet és az érintett felügyeleti hatóságok nem jutnak megegyezésre, az érintett felügyeleti hatóságok írásban teljeskörűen és részletesen kifejtik azon indokokat, amelyek alapján úgy ítélik meg, hogy az (1) és (2) bekezdésben meghatározott előírások nem teljesülnek. A Felügyelet és az érintett felügyeleti hatóságok közötti nézeteltérés esetén az Európai Értékpapír-piaci Hatóság az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/77/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2010. november 24-i 1095/2010/EU európai parlamenti és tanácsi rendelet 19. cikke szerinti hatáskörében jár el a vitarendezés érdekében.
 
 (9) A Felügyelet bejelenti az Európai Értékpapír-piaci Hatóságnak a kereskedési helyszínt működtető befektetési vállalkozás vagy piacműködtető pozíciókezelési kontrollmechanizmusra vonatkozó tájékoztatását, valamint az általa megállapított pozíciólimitek adatait.
 
 (10) A Felügyelet együttműködik más EGT-állam hatáskörrel rendelkező felügyeleti hatóságaival
 
-- a) magyarországi székhelyű kereskedési helyszínen forgalmazott olyan árualapú származtatott termékek tekintetében, amelyeket más EGT-állam kereskedési helyszínén is forgalmaznak, illetve
-- b) olyan – a Felügyelet hatásköre alatt álló – személyek tekintetében, akik vagy amelyek az a) pont szerinti árualapú származtatott termékek pozícióbirtokosai,
+- a) magyarországi székhelyű kereskedési helyszínen kereskedett
+  - aa) olyan – ugyanazon alaptermékhez kapcsolódó és ugyanazon jellemzőkkel rendelkező – mezőgazdasági árualapú származtatott termékek tekintetében, amelyekkel több EGT-állam kereskedési helyszínein jelentős nagyságrendben kereskednek, vagy
+  - ab) olyan – ugyanazon alaptermékhez kapcsolódó és ugyanazon jellemzőkkel rendelkező – kritikus vagy jelentős árualapú származtatott termékek tekintetében, amelyekkel több EGT-állam kereskedési helyszínein kereskednek, illetve
+- b) olyan – a Felügyelet hatásköre alatt álló – személyek tekintetében, akik vagy amelyek az a) pont szerinti származtatott termékek pozícióbirtokosai,
 
-többek között a vonatkozó adatok egymással való megosztásáról, az egységes pozíciólimit nyomon követésének és érvényesítésének lehetővé tétele érdekében.
+többek között a vonatkozó adatok egymással való megosztásával, az egységes pozíciólimit nyomon követésének és érvényesítésének lehetővé tétele érdekében.
 
 (11) A Felügyelet nem állapíthat meg az (1) és (2) bekezdés alapján meghatározottnál korlátozóbb limiteket, kivéve azokat a kivételes eseteket, amikor azok – figyelembe véve a konkrét piac likviditását és az adott piac szabályszerű működését – objektív módon indokoltak és arányosak.
 
@@ -3396,8 +3438,8 @@ többek között a vonatkozó adatok egymással való megosztásáról, az egys�
 
 (15) A Felügyelet az e §-nak megfelelően megállapított pozíciólimitek túllépése esetén az alábbiak tekintetében élhet szankcionálási hatáskörével:
 
-- a) a területén vagy külföldön található vagy működő személyek által tartott azon pozíciók, amelyek túllépik azokat az árualapú származtatott termékekre vonatkozó limiteket, amelyeket a Felügyelet állapított meg a területén található vagy működő kereskedési helyszíneken kereskedett termékek vagy az azokkal gazdaságilag egyenértékű, tőzsdén kívüli (OTC) árualapú származtatott ügyletek tekintetében;
-- b) a területén található vagy működő személyek által tartott azon pozíciók, amelyek túllépik az árualapú származtatott termékekre vonatkozóan más EGT-állam hatáskörrel rendelkező felügyeleti hatósága által megállapított limiteket.
+- a) a területén vagy külföldön található vagy működő személyek által tartott azon pozíciók, amelyek túllépik azokat a mezőgazdasági árualapú származtatott termékekre és a kritikus vagy jelentős árualapú származtatott termékekre vonatkozó limiteket, amelyeket a Felügyelet állapított meg a területén található vagy működő kereskedési helyszíneken kereskedett termékek vagy az azokkal gazdaságilag egyenértékű, tőzsdén kívüli (OTC) árualapú származtatott ügyletek tekintetében;
+- b) a területén található vagy működő személyek által tartott azon pozíciók, amelyek túllépik a mezőgazdasági árualapú származtatott termékekre és a kritikus vagy jelentős árualapú származtatott termékekre vonatkozóan más EGT-állam hatáskörrel rendelkező felügyeleti hatósága által megállapított limiteket.
 
 158. §
 
@@ -4337,6 +4379,8 @@ foglalt követelményeknek.
 
 (28) Azt a befektetési vállalkozással, árutőzsdei szolgáltatóval vagy közvetítővel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személyt, aki 2021. december 31-én megfelelt a 22/B. § (1) bekezdés b) pontjában meghatározott követelményeknek, úgy kell tekinteni, hogy 2022. január 1-jét követően is megfelel a 116/A. § (2) bekezdés c) pontja tekintetében szakmai képesítésként elfogadható követelményeknek.
 
+(29) A 123. § (11) bekezdése 2022. február 28. és 2023. február 28. között nem alkalmazandó.
+
 182/A. § A 123/B. § szerinti intézmény a FATCA-törvény hatálybalépését megelőzően létrejött pénzügyi számlák tekintetében a 123/C. § (1) bekezdés szerinti tájékoztatást írásban vagy – általános jelleggel, a számlatulajdonosok azonosítására alkalmatlan módon – a honlapján történő közzététellel legkésőbb 2015. június 30-ig teljesíti.
 
 182/B. § (1) A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény és egyes pénzügyi tárgyú törvények módosításáról szóló 2016. évi XLIV. törvény (a továbbiakban: Módtv2.) 60. §-ával bevezetett 20/C. §-t a Módtv2. hatálybalépését követően induló üzleti évben kell először alkalmazni.
@@ -4379,6 +4423,7 @@ foglalt követelményeknek.
 - k) a befektetési vállalkozások prudenciális felügyeletéről, valamint a 2002/87/EK, a 2009/65/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU és a 2014/65/EU irányelv módosításáról szóló, 2019. november 27-i (EU) 2019/2034 európai parlamenti és tanácsi irányelv.
 - l) a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1504 európai parlamenti és tanácsi irányelv.
 - m) a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról szóló 2009/138/EK irányelv (Szolvencia II.), a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv és a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv módosításáról szóló, 2019. december 18-i (EU) 2019/2177 európai parlamenti és tanácsi irányelv.
+- n) a 2014/65/EU irányelv tájékoztatási követelmények, termékirányítás és pozíciólimitek tekintetében, valamint a 2013/36/EU és az (EU) 2019/878 irányelv befektetési vállalkozásokra való alkalmazása tekintetében, a Covid19-válság utáni helyreállítás elősegítése érdekében történő módosításáról szóló, 2021. február 16-i (EU) 2021/338 európai parlamenti és tanácsi irányelv.
 
 (2) Ez a törvény
 
