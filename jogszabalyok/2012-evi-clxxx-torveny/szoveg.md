@@ -43,7 +43,7 @@ kell érteni.
 
 3. § (1) A Magyarország területén tartózkodó személy a tagállam igazságügyi hatósága (a továbbiakban: tagállami igazságügyi hatóság) által kibocsátott európai elfogatóparancs alapján büntetőeljárás lefolytatása, szabadságvesztés büntetés, illetve szabadságelvonással járó intézkedés végrehajtása céljából elfogható és átadható olyan bűncselekmények esetén, amelyeknél a kibocsátó tagállam joga szerint a büntetési tétel felső határa legalább tizenkét havi szabadságvesztés vagy szabadságelvonással járó intézkedés, vagy ha jogerősen legalább négy hónapi szabadságvesztésre, illetve szabadságelvonással járó intézkedésre ítélték.
 
-(2) Az európai elfogatóparancs alapján a terheltet az 1. számú mellékletben meghatározott bűncselekményfajták esetében a (3) bekezdés első fordulatában meghatározott esetet kivéve, a cselekmény – (3) bekezdésében meghatározott – kettős büntethetőségének mérlegelése nélkül át kell adni.
+(2) Az európai elfogatóparancs alapján a terheltet, illetve a bűncselekmény elkövetésével megalapozottan gyanúsítható személyt (a továbbiakban együtt: terhelt) az 1. számú mellékletben meghatározott bűncselekményfajták esetében a (3) bekezdés első fordulatában meghatározott esetet kivéve, a cselekmény – (3) bekezdésében meghatározott – kettős büntethetőségének mérlegelése nélkül át kell adni.
 
 (3) Az 1. számú mellékletben meghatározott bűncselekményfajták esetében, ha az európai elfogatóparancsot kibocsátó igazságügyi hatóság államának joga szerint a büntetési tétel felső határa nem éri el a háromévi szabadságvesztést, illetve szabadságelvonással járó intézkedést, valamint az 1. számú mellékletben fel nem sorolt bűncselekményfajták esetében az átadás akkor engedélyezhető, ha azok a cselekmények, amelyek miatt az európai elfogatóparancsot kibocsátották, a magyar törvény szerint is bűncselekménynek minősülnek (a továbbiakban: kettős büntethetőség).
 
@@ -63,7 +63,7 @@ kell érteni.
 - b) egy tagállamban a terhelt ellen az európai elfogatóparancs kibocsátásának alapjául szolgáló cselekmény miatt már olyan határozatot hoztak, amely a büntetőeljárás megindításának akadályát képezi, vagy amely alapján a büntetést már végrehajtották, annak végrehajtása folyamatban van, vagy a jogerős ítéletet hozó tagállam joga szerint az nem hajtható végre,
 - c) a terhelt gyermekkor miatt nem büntethető,
 - d) a 3. § (3) és (4) bekezdése alapján a kettős büntethetőséget vizsgálni kell, és az európai elfogatóparancs alapjául szolgáló cselekmény a magyar törvény szerint nem bűncselekmény,
-- e) a terhelt olyan magyar állampolgár, aki Magyarország területén lakcímmel rendelkezik, és a kibocsátó tagállami igazságügyi hatóság nem nyújt megfelelő jogi garanciát arra, hogy szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés jogerős kiszabása esetén a terhelt kérelmére a büntetés vagy az intézkedés végrehajtására visszaszállítják Magyarország területére, vagy
+- e) a terhelt olyan magyar állampolgár vagy olyan, az Európai Unió más tagállamának állampolgára, aki Magyarország területén lakcímmel rendelkezik, és a kibocsátó tagállami igazságügyi hatóság nem nyújt megfelelő jogi garanciát arra, hogy szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés jogerős kiszabása esetén a terhelt kérelmére a büntetés vagy az intézkedés végrehajtására visszaszállítják Magyarország területére, vagy
 - f) az európai elfogatóparancs végrehajtása súlyosan sértené a terheltet megillető, nemzetközi szerződésben vagy európai uniós jogi aktusban rögzített alapvető jogokat.
 
 (2) A bíróság az európai elfogatóparancs végrehajtását megtagadhatja, ha
@@ -96,8 +96,9 @@ kell érteni.
 
 és a meghatalmazott vagy a kirendelt védő a terhelt érdekében a tárgyaláson eljárt,
 
-- c) a határozat kézbesítése megtörtént, a terhelt tájékoztatást kapott a rendes, illetve a rendkívüli jogorvoslati lehetőségekről, de a rendelkezésre álló határidőn belül erre irányuló indítványt nem tett, vagy jelezte, hogy nem vitatja a távollétében hozott határozatot, vagy
-- d) a határozatot nem kézbesítették a terheltnek, de az átadását követően haladéktalanul kézbesítik számára, tájékoztatják a jogorvoslati lehetőségekről, és az erre rendelkezésre álló határidőről.
+- c) a határozat kézbesítése megtörtént, a terhelt tájékoztatást kapott a rendes, illetve a rendkívüli jogorvoslati lehetőségekről, de a rendelkezésre álló határidőn belül erre irányuló indítványt nem tett, vagy jelezte, hogy nem vitatja a távollétében hozott határozatot,
+- d) a határozatot nem kézbesítették a terheltnek, de az átadását követően haladéktalanul kézbesítik számára, tájékoztatják a jogorvoslati lehetőségekről, és az erre rendelkezésre álló határidőről vagy
+- e) a felmerült körülmények alapján a bíróság egyértelműen megállapítja, hogy az átadás nem jár a terhelt nemzetközi vagy európai uniós jogi aktusban rögzített alapvető jogainak sérelmével.
 
 (7) Ha az európai elfogatóparancsot a (6) bekezdés d) pontjában meghatározottak szerint bocsátották ki, az európai elfogatóparancs tartalmáról való tájékoztatás alkalmával a terhelt indítványozhatja, hogy az átadásának végrehajtását megelőzően bocsássák rendelkezésére a kibocsátó tagállami határozatot. Ezt a bíróság a kézhezvételt követően haladéktalanul továbbítja – kizárólag tájékoztatás céljából – a terheltnek. A terhelt indítványának nincs halasztó hatálya az európai elfogatóparancs végrehajtására.
 
@@ -378,6 +379,10 @@ követően egy év eltelt.
 
 (10) A bíróság szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából kibocsátott európai elfogatóparancs esetében a (9) bekezdésben meghatározott határidőt megelőzően olyan időpontban rendeli el a terhelt átadásának végrehajtását, hogy a terhelt által Magyarországon ideiglenes vagy átadási letartóztatásban töltött időt figyelembe véve, a terhelt átszállítására a végrehajtásból még hátralévő idő letelte előtt sor kerüljön.
 
+22/A. § (1) Ha a bíróság a 6. § (2) bekezdése szerinti előzetes hozzájárulást vagy a 21. § (1) bekezdése szerinti hozzájárulást követően a terhelt átadásának alapjául szolgáló eljárásban a terhelt átadásának végrehajtását megelőzően a 15. § (1) bekezdése alapján az átadási eljárást megszünteti, a bíróság az átadás alapjául szolgáló eljárás megszüntetésével egyidejűleg a hozzájárulásról szóló döntést – a NEBEK egyidejű értesítésével – hatályon kívül helyezi.
+
+(2) Az (1) bekezdés szerinti hozzájárulásról szóló döntés hatályon kívül helyezésével egyidejűleg a hozzájárulás alapját képező európai elfogatóparancs végrehajtása érdekében a terhelt őrizete rendelhető el, ha annak feltételei fennállnak.
+
 23. § (1) A Fővárosi Törvényszék az átadás végrehajtásának elhalasztása esetén– a kibocsátó tagállami igazságügyi hatósággal írásban történt közös megállapodásban meghatározott feltételek szerint – elrendelheti a terhelt ideiglenes átadását a kibocsátó tagállami igazságügyi hatóság részére.
 
 (2) A Fővárosi Törvényszék az ideiglenes átadásról az ügyiratok alapján határoz.
@@ -493,7 +498,7 @@ haladéktalanul védőt rendel ki, ha a terheltnek nincs védője, és ezzel egy
 - f) a személy az átadása után, az átadását megelőzően elkövetett meghatározott cselekmények vonatkozásában kifejezetten lemondott a specialitás szabályának alkalmazásához fűződő jogáról, vagy
 - g) a személyt átadó tagállami igazságügyi hatóság a (4) bekezdéssel összhangban hozzájárulását adja.
 
-(3) A (2) bekezdés f) pontja szerinti lemondás során a lemondó nyilatkozatot bíróság előtt kell megtenni, és azt jegyzőkönyvbe kell venni, amelyet mind az igazságügyi hatóság képviselőjének, mind a nyilatkozattevőnek alá kell írnia. A lemondó nyilatkozatot úgy kell megfogalmazni, hogy abból egyértelműen kitűnjön, hogy azt az érintett személy önként és az abból adódó következmények teljes tudatában tette. A személy védőt vehet igénybe.
+(3) A (2) bekezdés f) pontja szerinti lemondás során a lemondó nyilatkozatot az európai elfogatóparancs kibocsátására jogosult bíróság előtt kell megtenni, és azt jegyzőkönyvbe kell venni, amelyet mind az igazságügyi hatóság képviselőjének, mind a nyilatkozattevőnek alá kell írnia. A lemondó nyilatkozatot úgy kell megfogalmazni, hogy abból egyértelműen kitűnjön, hogy azt az érintett személy önként és az abból adódó következmények teljes tudatában tette. A személy védőt vehet igénybe.
 
 (4) A hozzájárulás iránti kérelmet a 25. § (5) bekezdésében hivatkozott adatok és a 25. § (6) bekezdése szerinti fordítás kíséretében kell a 26. §-ban meghatározott úton előterjeszteni a tagállami igazságügyi hatóságnak.
 
@@ -1048,7 +1053,7 @@ köt megállapodást a tagállami hatósággal.
 
 (6) Az eseti megállapodás tartalmára a 64/B. § (3) bekezdésének, a magyar hatóság tagjának vagy a fedett nyomozónak a közreműködésére a 64/B. § (6) bekezdésének rendelkezései irányadók.
 
-64/D. § Ellenőrzött szállítás végrehajtása vagy kezdeményezése esetén az ügyész az Eurojust magyar nemzeti tagját a következő adatok közlésével tájékoztatja a legalább három államot és ebből legalább két tagállamot érintő ellenőrzött szállításról:
+64/D. § Ellenőrzött szállítás végrehajtása vagy kezdeményezése esetén az ügyészség az Eurojust magyar nemzeti tagját a következő adatok közlésével tájékoztatja a legalább három államot és ebből legalább két tagállamot érintő ellenőrzött szállításról:
 
 - a) az érintett tagállamok és hatáskörrel rendelkező hatóságok,
 - b) olyan személy, csoport vagy szervezet azonosító adatai, aki vagy amely ellen büntetőeljárás van folyamatban,
@@ -1440,7 +1445,7 @@ terjesztette elő, az eljárási jogsegély iránti megkeresést a számlát vez
 
 (5) Az eseti megállapodás tartalmára a 69. § (3) bekezdésének, a nyomozó hatóság tagjának vagy fedett nyomozónak a közreműködésére a 69. § (6) bekezdésének rendelkezései irányadók.
 
-69/B. § Ellenőrzött szállítás végrehajtása vagy kezdeményezése esetén az ügyész az Eurojust magyar nemzeti tagját a következő adatok közlésével tájékoztatja a legalább három államot és ebből legalább két tagállamot érintő ellenőrzött szállításról:
+69/B. § Ellenőrzött szállítás végrehajtása vagy kezdeményezése esetén az ügyészség az Eurojust magyar nemzeti tagját a következő adatok közlésével tájékoztatja a legalább három államot és ebből legalább két tagállamot érintő ellenőrzött szállításról:
 
 - a) az érintett tagállamok és hatáskörrel rendelkező hatóságok,
 - b) olyan személy, csoport vagy szervezet azonosító adatai, aki vagy amely ellen büntetőeljárás van folyamatban,
@@ -2602,6 +2607,8 @@ vonatkozó szabályokat is.
 
 (2) A miniszter – különösen a beilleszkedési feltétel, a végrehajtás átvételének feltételei és indokoltsága tárgyában – a kibocsátó tagállami igazságügyi hatósággal egyeztethet.
 
+(2a) A beilleszkedési feltétel megállapításához szükséges információk beszerzése érdekében a miniszter – szükség esetén a NEBEK közreműködésével – adatszolgáltatást kérhet bármely szervtől, jogi személytől vagy jogi személyiséggel nem rendelkező szervezettől.
+
 (3) A miniszter részletes indokolással ellátott írásbeli véleményben tájékoztatja a kibocsátó tagállami igazságügyi hatóságot, ha a beilleszkedési feltétel nem áll fenn. A 120/A. § (4) bekezdés kivételével a vélemény – indokolt esetben – tartalmazza azt is, hogy a miniszter nem járul hozzá a tanúsítvány megküldéséhez. A miniszter a tagállami hatóság kérésére tájékoztatást ad a feltételes szabadságra bocsátás várható legkorábbi időpontjáról.
 
 (4) Ha a kibocsátó tagállami igazságügyi hatóság a (3) bekezdésre figyelemmel a tanúsítványt visszavonja, a miniszter az eljárást megszünteti.
@@ -2642,7 +2649,7 @@ vonatkozó szabályokat is.
 123. § (1) A végrehajtás érdekében Magyarországra átszállított elítélttel szemben az átszállítása előtt elkövetett, a jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat alapjául szolgáló bűncselekménytől különböző egyéb bűncselekmény tekintetében a 30. §-ban meghatározott specialitás szabályával kapcsolatos rendelkezéseket megfelelően alkalmazni kell azzal, hogy
 
 - a) az egyéb bűncselekményt érintő büntetőeljárás lefolytatásához, valamint az egyéb bűncselekmény miatt kiszabott szabadságvesztés végrehajtásához akkor sem szükséges az elítélt hozzájárulása, ha az elítélt az átszállításhoz hozzájárult,
-- b) az elítélt specialitás szabályáról történő lemondásával kapcsolatban a fogvatartás helye szerint illetékes büntetés-végrehajtási bíró előtt tehet nyilatkozatot.
+- b) az elítélt specialitás szabályáról történő lemondásával kapcsolatban az európai elfogatóparancs kibocsátására jogosult büntetés-végrehajtási bíró előtt tehet nyilatkozatot.
 
 (2) A végrehajtás átvételét a bíróság ahhoz a feltételhez kötheti, hogy a tagállami igazságügyi hatóság a 30. § (4) bekezdés alapján a büntetőeljárás lefolytatásához a hozzájárulást megadja.
 
@@ -2977,7 +2984,7 @@ irányuló végrehajtási jogsegéllyel együtt, vagy azt követően érkezett, 
 
 (2) Ha a megkeresés a sértett vagy a köz javára rendelt jóvátétel megfizetésére vonatkozik, a bíróság a végrehajtás átvételét elrendelő határozatában jogszabályban meghatározott módon rendelkezik ennek végrehajtása iránt.
 
-(3) A büntetőeljárásban megállapított eljárási költség végrehajtásának átvétele esetén a bíróság a végrehajtásról a bűnügyi költség végrehajtására vonatkozó szabályok szerint rendelkezik.
+(3) A sértett vagy a köz javára rendelt jóvátétel, illetve a büntetőeljárásban megállapított eljárási költség végrehajtásának átvétele esetén a bíróság a végrehajtásról a bűnügyi költség végrehajtására vonatkozó szabályok szerint rendelkezik.
 
 (4) A végrehajtás alá eső vagyonon fennálló büntetőeljárási kényszerintézkedésekkel összefüggésben a 98. § rendelkezéseit értelemszerűen alkalmazni kell.
 
@@ -2988,7 +2995,7 @@ irányuló végrehajtási jogsegéllyel együtt, vagy azt követően érkezett, 
 - a) a tagállami hatóság az átváltoztatáshoz nem járult hozzá,
 - b) a végrehajtás átvételére a 140/A. § (3) bekezdése alapján, vagy a 137. § (1) bekezdés 1. pont b)–d) pontban meghatározottak vonatkozásában került sor.
 
-(2a) A (2) bekezdésben meghatározott esetben, ha a pénzbüntetést nem fizették meg – a sértett javára fizetendő jóvátétel kivételével – a végrehajtást az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény alapján az állami adó- és vámhatóság folytatja le.
+(2a) A (2) bekezdésben meghatározott esetben, ha a pénzbüntetést nem fizették meg, a végrehajtást az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény alapján az állami adó- és vámhatóság folytatja le.
 
 (2b) Ha a pénzbüntetés átváltoztatására nincs lehetőség, és a terhelt a pénzbüntetést önként nem fizette meg, a végrehajtás nem vezetett eredményre vagy a tartozás más módon nem hajtható be, a bíróság – az akadály indokának megjelölésével – tájékoztatja a tagállami hatóságot, hogy a tagállami határozat végrehajtása Magyarországon nem lehetséges, és a végrehajtást megszünteti.
 
@@ -2996,7 +3003,7 @@ irányuló végrehajtási jogsegéllyel együtt, vagy azt követően érkezett, 
 
 #### 52/D. A végrehajtás átadása
 
-141. § (1) A pénzbüntetés, a jogi személlyel szemben alkalmazott pénzbírság, a jogerős vagy véglegessé vált elítélés alapján bűnügyi költség megfizetésére kötelezés, valamint a sértett vagy a köz javára fizetendő jóvátétel végrehajtása átadható a terhelt tényleges tartózkodási helye, a jogi személy székhelye vagy telephelye szerinti tagállamnak, vagy annak a tagállamnak ahol a terhelt vagy a jogi személy vagyonnal vagy jövedelemmel rendelkezik, ha annak összege a határozat jogerőre emelkedésének vagy véglegessé válásának napján érvényes, a Magyar Nemzeti Bank által közzétett átváltási árfolyamon átszámítva meghaladja a hetven eurót.
+141. § (1) A pénzbüntetés, a jogi személlyel szemben alkalmazott pénzbírság, a jogerős vagy véglegessé vált elítélés vagy az ügyészség határozata alapján bűnügyi költség megfizetésére kötelezés, valamint a sértett vagy a köz javára fizetendő jóvátétel végrehajtása átadható a terhelt tényleges tartózkodási helye, a jogi személy székhelye vagy telephelye szerinti tagállamnak, vagy annak a tagállamnak ahol a terhelt vagy a jogi személy vagyonnal vagy jövedelemmel rendelkezik, ha annak összege a határozat jogerőre emelkedésének vagy véglegessé válásának napján érvényes, a Magyar Nemzeti Bank által közzétett átváltási árfolyamon átszámítva meghaladja a hetven eurót.
 
 (2) A bíróság a végrehajtás átadását a 138. § (1) bekezdésében meghatározott ügyiratok végrehajtó tagállam részére történő megküldésével kezdeményezi.
 
@@ -3643,7 +3650,7 @@ való megfelelést szolgálja.
 
 E törvény 3. § (2)–(3) bekezdése, 25. § (5) bekezdése, 41. § (2) bekezdés a) pontja, 71/A. § (3) bekezdése, 71/B. § (4) bekezdése és 145/A. § (2) bekezdés a) pontja értelmében a bűncselekményfajtákhoz a Btk. következő bűncselekményei tartoznak:
 
-0X03158M_0
+1X10661M_0
 
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
@@ -3662,13 +3669,13 @@ E törvény 3. § (2)–(3) bekezdése, 25. § (5) bekezdése, 41. § (2) bekezd
 | 12. |  | kerítés bűntette | 200. § | tizennyolcadik életévét be nem töltött személy sérelmére elkövetett kerítés bűntette | 207. § (3) bekezdés a) pont |
 | 13. | prostitúció elősegítésének bűntette | 201. § | kiskorút foglalkoztató bordélyház fenntartásával elkövetett üzletszerű kéjelgés elősegítésének bűntette | 205. § (3) bekezdés a) pont |
 | 14. | gyermekprostitúció kihasználásának bűntette | 203. § |  |  |
-| 15 | gyermekpornográfia bűntette | 204. § a (6) bekezdés kivételével | tiltott pornográf felvétellel visszaélés bűntette | 204. § |
+| 15 | gyermekpornográfia bűntette | 204–204/A. § | tiltott pornográf felvétellel visszaélés bűntette | 204. § |
 | 16. | kábítószerek és pszichotróp anyagok tiltott kereskedelme | kábítószer-kereskedelem bűntette | 176. § (1)–(4) bekezdés, (5) bekezdés b) pont, (6) bekezdés 177. § | kábítószerrel visszaélés bűntette (kínál, átad, forgalomba hoz, kereskedik) kiskorú felhasználásával elkövetett kábítószerrel visszaélés bűntette (országba behoz, onnan kivisz vagy az ország területén átvisz, kínál, átad, forgalomba hoz, kereskedik) | 282/A. § 282/B. § (1)–(4) bekezdés, (6) bekezdés, (7) bekezdés b) pont |
 | 17. |  | kábítószer birtoklás bűntette egyes esetei (ország területére behoz, onnan kivisz, vagy azon átszállít) | 178. § (1)–(4) bekezdés, (5) bekezdés b) pont, 179. § (1)–(5) bekezdés, (6) bekezdés b) pont | kábítószerrel visszaélés egyes esetei: üzletszerűen vagy jelentős mennyiségű kábítószerre elkövetett kábítószerrel visszaélés bűntette (országba behoz, onnan kivisz, vagy az ország területén átvisz); | 282. § (2) bekezdés, (5) bekezdés b) pont; |
 | 18. |  | kábítószer készítésének elősegítése bűntette | 182. § (1)–(3) bekezdés | kábítószer előállításához szükséges anyagra elkövetett kábítószerrel visszaélés bűntette; anyagi eszközök szolgáltatásával elkövetett kábítószerrel visszaélés bűntette | 282. § (3) bekezdés b) pont; 282. § (4) bekezdés |
 | 19. |  | kábítószer-prekurzorral visszaélés bűntette | 183. § (1) bekezdés | kábítószer előállításához használt anyaggal visszaélés bűntette (forgalomba hoz, kereskedik, országba behoz, onnan kivisz vagy az ország területén átvisz, átad) | 283/A. § (1) bekezdés |
 | 20. |  |  |  | kábítószerfüggő személy által elkövetett kábítószerrel visszaélés bűntette | 282/C. § (2)–(4) bekezdés |
-| 21. |  | új pszichoaktív anyaggal visszaélés bűntette | 184. § a (4) bekezdés a) pont kivételével és a 184/A. § az (5) bekezdés kivételével | új pszichoaktív anyaggal visszaélés bűntette | 283/B. § |
+| 21. |  | új pszichoaktív anyaggal visszaélés bűntette | a 184. § a (4) bekezdés a) pont és (5) bekezdés kivételével, 184/A. § az (5) bekezdés kivételével, 184/B. § a (4) és (5) bekezdés kivételével, és a 184/C. § a (4) bekezdés és az (5) bekezdés a) pont kivételével | új pszichoaktív anyaggal visszaélés bűntette | 283/B. § |
 | 22. | fegyverek, lőszerek és robbanóanyagok tiltott kereskedelme | robbanóanyaggal vagy robbantószerrel visszaélés bűntette | 324. § | robbanóanyaggal vagy robbantószerrel visszaélés bűntette | 263. § |
 | 23. |  | lőfegyverrel vagy lőszerrel visszaélés bűntette | 325. § a (4) bekezdés kivételével | lőfegyverrel vagy lőszerrel visszaélés bűntette | 263/A. § |
 | 24. | nemzetközi szerződés által tiltott fegyverrel visszaélés bűntette | 326. § a (7) bekezdés kivételével | nemzetközi szerződés által tiltott fegyverrel visszaélés bűntette | 264/C. § a (4) bekezdés kivételével |
@@ -3702,7 +3709,7 @@ E törvény 3. § (2)–(3) bekezdése, 25. § (5) bekezdése, 41. § (2) bekezd
 | 52. |  | tiltott állatviadal szervezésének bűntette | 247. § (1) bekezdés | állatkínzás | 266/B. § (2) bekezdés |
 | 53. |  | a hulladékgazdálkodás rendjének megsértése bűntette | 248. § (1)–(2) bekezdés | hulladékgazdálkodás rendjének megsértése bűntette | 281/A. § (1)–(2) bekezdés |
 | 54. |  | ózonréteget lebontó anyaggal visszaélés bűntette | 249. § (1) bekezdés | környezetkárosítás | 280. § (2) bekezdés |
-| 55. | segítségnyújtás jogellenes beutazáshoz és tartózkodáshoz | embercsempészés bűntette | 353. § | embercsempészés bűntette | 218. § (1)–(3) bekezdés |
+| 55. | segítségnyújtás jogellenes beutazáshoz és tartózkodáshoz | embercsempészés bűntette | 353. § a (2) bekezdés a) pont és (3) bekezdés d) pont kivételével | embercsempészés bűntette | 218. § a (2) bekezdés a) pont és a (3) bekezdés c) pont kivételével |
 | 56. | szándékos emberölés, súlyos testi sértés | emberölés bűntette | 160. § a (4) bekezdés kivételével | emberölés bűntette | 166. § a (4) bekezdés kivételével |
 | 57. |  | erős felindulásban elkövetett emberölés bűntette | 161. § | erős felindulásban elkövetett emberölés bűntette | 167. § |
 | 58. | testi sértés bűntette | 164. § a (2), (4), (7) és (9) bekezdés kivételével | testi sértés bűntette | 170. § az (1), (5) és (7) bekezdés kivételével |
@@ -4450,7 +4457,7 @@ E törvény 135/D. § (2) bekezdése értelmében a jelentés az alábbi adatoka
 
 E törvény 140/A. § (3) bekezdése értelmében a bűncselekményfajtákhoz a Btk. következő bűncselekményei tartoznak:
 
-0X03158N_0
+1X10661N_0
 
 |  |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -4469,13 +4476,13 @@ E törvény 140/A. § (3) bekezdése értelmében a bűncselekményfajtákhoz a 
 | 12. |  |  | kerítés bűntette | 200. § | tizennyolcadik életévét be nem töltött személy sérelmére elkövetett kerítés bűntette | 207. § (3) bekezdés a) pont |
 | 13. |  |  | prostitúció elősegítésének bűntette | 201. § | kiskorút foglalkoztató bordélyház fenntartásával elkövetett üzletszerű kéjelgés elősegítésének bűntette | 205. § (3) bekezdés a) pont |
 | 14. |  |  | gyermekprostitúció kihasználásának bűntette | 203. § |  |  |
-| 15. |  | gyermekpornográfia vétsége és bűntette | 204. § | tiltott pornográf felvétellel visszaélés bűntette | 204. § |
+| 15. |  | gyermekpornográfia bűntette | 204–204/A. § | tiltott pornográf felvétellel visszaélés bűntette | 204. § |
 | 16. |  | kábítószerek és pszichotróp anyagok tiltott kereskedelme | kábítószer-kereskedelem vétsége és bűntette |  | 176–177. § | kábítószerrel visszaélés bűntette (kínál, átad, forgalomba hoz, kereskedik) kiskorú felhasználásával elkövetett kábítószerrel visszaélés bűntette (országba behoz, onnan kivisz vagy az ország területén átvisz, kínál, átad, forgalomba hoz, kereskedik) | 282/A. § 282/B. § (1)–(4) bekezdés, (6) bekezdés, (7) bekezdés b) pont |
 | 17. |  |  | kábítószer birtoklás vétsége és bűntette egyes esetei (ország területére behoz, onnan kivisz, vagy azon átszállít) | 178–179. § | kábítószerrel visszaélés egyes esetei: üzletszerűen vagy jelentős mennyiségű kábítószerre elkövetett kábítószerrel visszaélés bűntette (országba behoz, onnan kivisz, vagy az ország területén átvisz); | 282. § (2) bekezdés, (5) bekezdés b) pont; |
 | 18. |  |  | kábítószer készítésének elősegítése vétsége és bűntette | 182. § (1)–(4) bekezdés | kábítószer előállításához szükséges anyagra elkövetett kábítószerrel visszaélés bűntette; anyagi eszközök szolgáltatásával elkövetett kábítószerrel visszaélés bűntette | 282. § (3) bekezdés b) pont; 282. § (4) bekezdés |
 | 19. |  |  | kábítószer-prekurzorral visszaélés vétsége és bűntette | 183. § | kábítószer előállításához használt anyaggal visszaélés bűntette (forgalomba hoz, kereskedik, országba behoz, onnan kivisz vagy az ország területén átvisz, átad) | 283/A. § (1) bekezdés |
 | 20. |  |  |  |  | kábítószerfüggő személy által elkövetett kábítószerrel visszaélés bűntette | 282/C. § |
-| 21. |  |  | új pszichoaktív anyaggal visszaélés bűntette | 184. § | új pszichoaktív anyaggal visszaélés bűntette | 283/B. § |
+| 21. |  |  | új pszichoaktív anyaggal visszaélés bűntette | 184–184/C. § | új pszichoaktív anyaggal visszaélés bűntette | 283/B. § |
 | 22. |  | fegyverek, lőszerek és robbanóanyagok tiltott kereskedelme | robbanóanyaggal vagy robbantószerrel visszaélés bűntette | 324. § | robbanóanyaggal vagy robbantószerrel visszaélés bűntette | 263. § |
 | 23. |  |  | lőfegyverrel vagy lőszerrel visszaélés vétsége és bűntette | 325. § | lőfegyverrel vagy lőszerrel visszaélés bűntette | 263/A. § |
 | 24. |  |  | nemzetközi szerződés által tiltott fegyverrel visszaélés bűntette | 326. § a (7) bekezdés kivételével | nemzetközi szerződés által tiltott fegyverrel visszaélés bűntette | 264/C. § |
@@ -4510,7 +4517,7 @@ E törvény 140/A. § (3) bekezdése értelmében a bűncselekményfajtákhoz a 
 | 53. |  | tiltott állatviadal szervezése vétsége és bűntette | 247. § | tiltott állatviadal szervezése vétsége és bűntette | 266/A. § |
 | 54. |  | a hulladékgazdálkodás rendjének megsértése vétsége és bűntette | 248. § | hulladékgazdálkodás rendje megsértésének vétsége és bűntette | 281/A. § |
 | 55. |  | ózonréteget lebontó anyaggal visszaélés vétsége és bűntette | 249. § | környezetkárosítás | 280. § (2) bekezdés |
-| 56. |  | jogellenes beutazás és tartózkodás elősegítése | embercsempészés vétsége és bűntette | 353. § | embercsempészés vétsége és bűntette | 218. § |
+| 56. |  | jogellenes beutazás és tartózkodás elősegítése | embercsempészés vétsége és bűntette | 353. § a (2) bekezdés a) pont és (3) bekezdés d) pont kivételével | embercsempészés vétsége és bűntette | 218. § a (2) bekezdés a) pont és a (3) bekezdés c) pont kivételével |
 | 57. |  | szándékos emberölés, súlyos testi sértés | emberölés bűntette | 160. § a (4) bekezdés kivételével | emberölés bűntette | 166. § a (4) bekezdés kivételével |
 | 58. |  |  | erős felindulásban elkövetett emberölés bűntette | 161. § | erős felindulásban elkövetett emberölés bűntette | 167. § |
 | 59. |  |  | testi sértés bűntette | 164. § az (2), (4) és (7) bekezdés kivételével | testi sértés bűntette | 170. § az (1), (5) és (7) bekezdés kivételével |
@@ -5146,7 +5153,7 @@ A Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (Europol)
 | kábítószer birtoklás bűntette egyes esetei (ország területére behoz, onnan kivisz, vagy azon átszállít) | 178. § (1)–(3) bekezdés, (5) bekezdés b) pont 179. § (2)–(4) bekezdés, (5) bekezdés b) pont | kábítószerrel visszaélés egyes esetei: üzletszerűen vagy jelentős mennyiségű kábítószerre elkövetett kábítószerrel visszaélés bűntette (országba behoz, onnan kivisz, vagy az ország területén átvisz); | 282. § (2) bekezdés, (5) bekezdés b) pont; |
 | kábítószer készítésének elősegítése bűntette | 182. § (1)–(3) bekezdés | kábítószer előállításához szükséges anyagra elkövetett kábítószerrel visszaélés bűntette; anyagi eszközök szolgáltatásával elkövetett kábítószerrel visszaélés bűntette | 282. § (3) bekezdés b) pont; 282. § (4) bekezdés |
 | kábítószer-prekurzorral visszaélés | 183. § (1) bekezdés a) pont | kábítószer előállításához használt anyaggal visszaélés bűntette (forgalomba hoz, kereskedik, országba behoz, onnan kivisz vagy az ország területén átvisz, átad) | 283/A. § (1) bekezdés |
-| új pszichoaktív anyaggal visszaélés bűntette | 184. § | új pszichoaktív anyaggal visszaélés bűntette | 283/B. § |
+| új pszichoaktív anyaggal visszaélés bűntette | 184. § a (4) bekezdés a) pont és (5) bekezdés kivételével, 184/A. § az (5) bekezdés kivételével, 184/B. § a (4)–(5) bekezdés kivételével, és a 184/C. § a (4) bekezdés és az (5) bekezdés a) pont kivételév | új pszichoaktív anyaggal visszaélés bűntette | 283/B. § |
 | 23 | nukleáris és radioaktív anyagokkal kapcsolatos bűncselekmények | radioaktív anyaggal visszaélés vétsége és bűntett | 250. § | visszaélés radioaktív anyaggal vétsége és bűntette | 264. § |
 | nukleáris létesítmény üzemeltetésével visszaélés bűntette | 251. § | visszaélés nukleáris létesítmény üzemeltetésével bűntette | 264/A. § |
 | atomenergia alkalmazásával visszaélés bűntette | 252. § | visszaélés atomenergia alkalmazásával bűntette | 264/B. § |
@@ -5167,7 +5174,7 @@ A Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (Europol)
 | kerítés bűntette | 200. § | kerítés bűntette | 207. § |
 | prostitúció elősegítésének bűntette | 201. § | üzletszerű kéjelgés elősegítésének bűntette | 205. § |
 | gyermekprostitúció kihasználásának bűntette | 203. § |  |  |
-| gyermekpornográfia vétsége és bűntette | 204. § | tiltott pornográf felvétellel visszaélés bűntette | 204. § |
+| gyermekpornográfia bűntette | 204–204/A. § | tiltott pornográf felvétellel visszaélés bűntette | 204. § |
 | 28 | népirtás, emberiesség elleni bűncselekmények és háborús bűncselekmények | a Btk. XIII. és XIV. Fejezetében felsorolt bűncselekmények | a 152. § és a 158. § kivételével | a Btk. XI. fejezetében felsorolt bűncselekmények | a 154. § és a 165. § kivételével |
 | 29 | az Unió pénzügyi érdekei elleni bűncselekmény | költségvetési csalás bűntette | 396. § | költségvetési csalás bűntette | 310. § |
 | a költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztása bűntette, ideértve a 2011. december 31-ig hatályban Európai Közösségek pénzügyi érdekeinek megsértése bűntettét | 397. § | költségvetési csaláshoz kapcsolódó felügyeleti vagy ellenőrzési kötelezettség elmulasztásának bűntette, ideértve a 2011. december 31-ig hatályban volt Európai Közösségek pénzügyi érdekeinek megsértése bűntettét | 310/A. § |

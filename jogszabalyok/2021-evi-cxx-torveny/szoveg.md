@@ -37,9 +37,15 @@ egyes eljárások korszerűsítését és a polgárok biztonságának további m
 
 14. § (1)
 
-(2)
+(2) A bányászatról szóló 1993. évi XLVIII. törvény 43. § (9a) és (9b) bekezdése helyébe a következő rendelkezések lépnek:
 
-(3)
+„(9a) A felügyeleti díj mértékét a Hatóság elnöke rendeletben állapítja meg.
+
+(9b) A bányafelügyelet eljárásáért a Hatóság elnökének rendeletében megállapított mértékű igazgatási szolgáltatási díjat kell fizetni.”
+
+(3) A bányászatról szóló 1993. évi XLVIII. törvény 43. § (9d) bekezdése helyébe a következő rendelkezés lép:
+
+„(9d) A bányatelekből, a kutatási területből a tárgyévet megelőző évben kitermelt kőolaj, földgáz esetében fizetendő felügyeleti díj éves összegét a megállapítást követő minden 5. év december 31-ig felül kell vizsgálni.”
 
 15. §
 
@@ -49,7 +55,13 @@ egyes eljárások korszerűsítését és a polgárok biztonságának további m
 
 (3)
 
-(4)
+(4) A bányászatról szóló 1993. évi XLVIII. törvény 50/A. § (1b) bekezdése a következő 35. ponttal egészül ki:
+
+(Felhatalmazást kap a Hatóság elnöke)
+
+„35. a felügyeleti díj mértékére, fizetésére, beszedésére, kezelésére és nyilvántartására”
+
+(vonatkozó részletes szabályok rendeletben történő megállapítására.)
 
 17. §
 
@@ -58,7 +70,7 @@ egyes eljárások korszerűsítését és a polgárok biztonságának további m
 - a)
 - b)
 - c)
-- d)
+- d) 43. § (9c) és (9e) bekezdése,
 - e)
 - f)
 - g)
@@ -78,7 +90,7 @@ egyes eljárások korszerűsítését és a polgárok biztonságának további m
 - u)
 - v)
 - w)
-- x)
+- x) 50/A. § (3) bekezdés a) pontja.
 
 #### 3. A magyar állampolgárságról szóló 1993. évi LV. törvény módosítása
 
@@ -293,7 +305,11 @@ egyes eljárások korszerűsítését és a polgárok biztonságának további m
 
 88. § (1)
 
-(2)
+(2) A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. §-a a következő p) ponttal egészül ki:
+
+(A Hatóság elnöke)
+
+„p) megállapítja a bányafelügyelet felügyeleti tevékenységéért a bányafelügyelet részére fizetendő felügyeleti díj fizetésére, beszedésére, kezelésére és nyilvántartására vonatkozó részletes szabályokat.”
 
 89. §
 

@@ -347,6 +347,8 @@ Az Országgyűlés – figyelemmel az ország általános és egyes térségeine
 
 (5) Az ökológiai hálózat ökológiai folyosójának övezetében bányászati tevékenység folytatása a bányászati szempontból kivett helyekre vonatkozó előírások alkalmazásával engedélyezhető. Az övezetben új célkitermelőhely és külfejtéses művelésű bányatelek nem létesíthető, meglévő külfejtéses művelésű bányatelek horizontálisan nem bővíthető.
 
+(6) Az ökológiai hálózat ökológiai folyosójának övezetében az erőművek közül csak háztartási méretű kiserőmű létesíthető, épületen elhelyezve.
+
 #### 15. Ökológiai hálózat pufferterületének övezete
 
 27. § (1) Az ökológiai hálózat pufferterületének övezetében csak olyan megyei területfelhasználási kategória és megyei övezet, valamint a településrendezési tervben olyan övezet és építési övezet jelölhető ki, amely az ökológiai hálózat magterülete, ökológiai folyosója és pufferterülete övezetek természetes és természetközeli élőhelyeit és azok kapcsolatait nem károsítja.
@@ -363,11 +365,15 @@ Az Országgyűlés – figyelemmel az ország általános és egyes térségeine
 
 (2) A kiváló termőhelyi adottságú szántók övezetében új külfejtéses művelésű bányatelek megállapítása és bányászati tevékenység folytatása a bányászati szempontból kivett helyekre vonatkozó előírások alkalmazásával engedélyezhető.
 
+(3) A kiváló termőhelyi adottságú szántók övezetében az erőművek közül csak háztartási méretű kiserőmű létesíthető, épületen elhelyezve.
+
 #### 17. Erdők övezete
 
 29. § Az erdők övezetébe tartozó területeket az adott településnek a településrendezési tervében legalább 95%-ban erdőterület övezetbe kell sorolnia. Az e törvény hatálybalépését megelőzően kijelölt beépítésre szánt területek, valamint az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 4. § (2) bekezdésében meghatározott területek, továbbá az Ország Szerkezeti Terve, a Budapesti Agglomeráció Szerkezeti Terve, valamint a Balaton Kiemelt Üdülőkörzet Szerkezeti Terve által kijelölt települési térség területein lévő erdők övezetének területét a számításnál figyelmen kívül kell hagyni.
 
 30. § Az erdők övezetében külfejtéses művelésű bányatelket megállapítani és bányászati tevékenységet engedélyezni a bányászati szempontból kivett helyekre vonatkozó szabályok szerint lehet.
+
+30/A. § Az erdők övezetében az erőművek közül csak háztartási méretű kiserőmű létesíthető, épületen elhelyezve.
 
 #### 18. Világörökségi és világörökségi várományos területek övezete
 
@@ -1028,6 +1034,7 @@ valósítható meg.
 - f) a 100 m2-nél nagyobb bruttó alapterületű épület tájba illesztését igazolni kell;
 - g) legfeljebb 30 m2 bruttó alapterületű szakrális építmény telekmérettől függetlenül elhelyezhető;
 - h) birtokközpont nem alakítható ki.
+- i) az erőművek közül csak háztartási méretű kiserőmű létesíthető, épületen elhelyezve.
 
 #### 56. Kiváló termőhelyi adottságú szántók övezete
 
@@ -1057,6 +1064,7 @@ valósítható meg.
 - d) szakrális építmény, amely a szőlőhegyek tájképéhez hagyományosan hozzátartozó tájképformáló elem – szőlőműveléssel nem hasznosított területen is – a telek méretétől függetlenül elhelyezhető, legfeljebb 30 m2 bruttó alapterülettel, legfeljebb 3%-os beépítettséggel;
 - e) a szőlőművelés tényét a terület pontosan meghatározott százalékában az illetékes hegybíró nyilatkozatával kell igazolni;
 - f) a borszőlő termőhelyi kataszteri területből való kivonás és átminősítés nem indítványozható, kivéve, ha nem áll rendelkezésre egyéb fejlesztési célú terület a település közigazgatási területén, a földvédelmi eljárás feltételei teljesülnek és a kivonást, átminősítést a települési önkormányzat kezdeményezi.
+- g) az erőművek közül csak háztartási méretű kiserőmű létesíthető, épületen elhelyezve.
 
 (2) Az (1) bekezdés szerinti előírásokat a már kijelölt beépítésre szánt területeken nem kell alkalmazni.
 

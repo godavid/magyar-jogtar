@@ -1472,16 +1472,9 @@ kerülhet sor.
 
 (6) A felülbírálati indítvány Be. 374. § (2) bekezdésében meghatározott határideje tizenöt nap.
 
-194. § (1) Papíralapú kapcsolattartás esetén az idézés és az értesítés elsősorban az idézett vagy értesített személy által megjelölt vagy a bíróság, az ügyészség, illetve a nyomozó hatóság hivatalos tudomására jutott
+#### 194. §
 
-- a) elektronikus levelezési címre vagy más elektronikus elérhetőségre, vagy
-- b) hangkapcsolatot biztosító elektronikus úton
-
-történik.
-
-(2) A bíróság, az ügyészség és a nyomozó hatóság az (1) bekezdés a) pontjában meghatározott esetben az idézésen és értesítésen feltünteti azt az elektronikus vagy hangkapcsolatot biztosító elérhetőségét, amelyen a megidézett és értesített személy annak hitelességét ellenőrizni tudja.
-
-195. § Az idézéssel és az értesítéssel szembeni mulasztás következményei nem alkalmazhatók, ha az a 194. §-ban meghatározott módon történt idézés vagy értesítés átvétele nem igazolható.
+#### 195. §
 
 196. § (1) Telekommunikációs eszköz használata esetén az eljárási cselekmény kitűzött, illetve az ügyészség, nyomozó hatóság által megjelölt helyszíne, és a jelenléttel érintett személy közötti kapcsolatot folyamatos hangfelvétel továbbítása is biztosíthatja.
 
@@ -1759,7 +1752,7 @@ történik.
 
 (8) Ha a közvetítői megbeszélés során észszerű kétely mutatkozik az érintett személy személyazonosságával, a közvetítői megbeszélésen való részvételének önkéntességével vagy befolyásmentességével kapcsolatban, akkor a közvetítői megbeszélés az érintett személlyel nem folytatható.
 
-230. § Ha a közvetítői megbeszélés a sértett és a gyanúsított egyidejű jelenlétében a 229. § alkalmazásával sem tartható meg, a közvetítői megbeszélés – ideértve a megállapodás megkötését is – a sértett és a gyanúsított hozzájárulásával úgy is lefolytatható, hogy azon – személyesen vagy telekommunikációs eszköz útján – nem egyidejűleg vannak jelen.
+#### 230. §
 
 231. § (1) A közvetítői megbeszélésről készült feljegyzésben rögzíteni kell
 
@@ -1808,7 +1801,7 @@ történik.
 
 meghosszabbodik.
 
-(6) A büntetés-végrehajtási bírói eljárásokban, ha ez a járványügyi intézkedésre vagy az egészségügyi válsághelyzettel összefüggő más okra figyelemmel, illetve a törvényszék elnökének ezzel kapcsolatos rendelkezése alapján indokolt, a meghallgatás és a tárgyalás megtartásakor az eljárás résztvevői jelenlétének biztosítása elektronikus hírközlő hálózat vagy más elektronikus kép- és hang továbbítására alkalmas eszköz útján is megengedett azzal, hogy ha az elítélt vagy az egyéb jogcímen fogvatartott fogva van, a jelenlétét elsősorban telekommunikációs eszköz használata útján kell biztosítani.
+(6)
 
 (7) Az elítélt és az egyéb jogcímen fogvatartott büntetés-végrehajtási ügyében, illetve a fogvatartással kapcsolatos egyéb ügyében a Bv. tv. 20. § (3) bekezdésében maghatározott elintézési határidő harminc nappal meghosszabbodik, kivéve, ha az ügy jellege soron kívüli elintézést kíván.
 

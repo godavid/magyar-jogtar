@@ -102,7 +102,10 @@ A közigazgatási perben vagy az egyéb közigazgatási bírósági eljárásban
 - a) a közigazgatási kollégiummal működő törvényszék (a továbbiakban: törvényszék),
 - b) törvényben meghatározott esetben a Kúria.
 
-(2) Másodfokon a Kúria ítélkezik.
+(2) Másodfokon ítélkezik:
+
+- a) a törvényszékhez tartozó ügyekben a közigazgatási kollégiummal rendelkező ítélőtábla (a továbbiakban: ítélőtábla),
+- b) az ítélőtáblához tartozó ügyekben a Kúria.
 
 (3) Felülvizsgálati ügyekben a Kúria jár el.
 
@@ -127,9 +130,9 @@ A közigazgatási perben vagy az egyéb közigazgatási bírósági eljárásban
 
 (4) Ha az ügy különös bonyolultsága indokolja, az egyesbíró a (3) bekezdés szerinti perben a tárgyalás megkezdése előtt elrendelheti, hogy az ügyben három hivatásos bíróból álló tanács járjon el. A tanács elé utalt ügyben utóbb egyesbíró nem járhat el.
 
-(5) A végzés elleni fellebbezést – a keresetlevelet visszautasító és az eljárást megszüntető végzés elleni fellebbezés kivételével – egyesbíró bírálja el. Ha az ügy különös bonyolultsága indokolja, az egyesbíró elrendelheti, hogy az ügyben három hivatásos bíróból álló tanács járjon el. A tanács elé utalt ügyben utóbb egyesbíró nem járhat el.
+(5) A másodfokon eljáró bírósági tanács három hivatásos bíróból áll.
 
-(6) A Kúria – az (5) bekezdésben meghatározott kivétellel – három hivatásos bíróból álló tanácsban jár el. Ha az ügy különös bonyolultsága vagy kiemelt társadalmi jelentősége indokolja, a Kúria elrendelheti, hogy az ügyben öt hivatásos bíróból álló tanács járjon el. Ha az ügy jellege ezt indokolja, az öt hivatásos bíróból álló tanács legfeljebb két tagja olyan hivatásos bíró lehet, aki közigazgatási ügyben eljáró bírónak nincs kijelölve.
+(6) A Kúria öt hivatásos bíróból álló tanácsban jár el. Ha az ügy jellege ezt indokolja, az öt hivatásos bíróból álló tanács legfeljebb két tagja olyan hivatásos bíró lehet, aki közigazgatási ügyben eljáró bírónak nincs kijelölve. A tanács elnöke kivételesen az ügy elbírálását három hivatásos bíróból álló tanács elé utalhatja.
 
 #### 9. § [A bíróság tagjainak jogai és kötelezettségei]
 
@@ -157,7 +160,7 @@ A közigazgatási perben vagy az egyéb közigazgatási bírósági eljárásban
 - a) amelynek vezetőjével szemben az (1) bekezdés a)–e) pont szerinti kizárási ok áll fenn, vagy
 - b) amely a perben félként vagy érdekeltként vehet részt.
 
-(4) A kizárás kérdésében a Kúria dönt, ha a törvényszéknek nincs olyan bírája vagy tanácsa, amelyre a kizárási ok nem vonatkozik, vagy ha a kizárási ok az egész bíróságra kiterjed.
+(4) A kizárás kérdésében az ítélőtábla dönt, ha a törvényszéknek nincs olyan bírája vagy tanácsa, amelyre a kizárási ok nem vonatkozik, vagy ha a kizárási ok az egész bíróságra kiterjed.
 
 (5) A kizárási kérelem bejelentésére és elintézésére egyebekben a polgári perrendtartás szabályait kell megfelelően alkalmazni.
 
@@ -177,16 +180,20 @@ A közigazgatási perben vagy az egyéb közigazgatási bírósági eljárásban
 
 #### 12. § [Hatáskör]
 
-(1) A törvényszék hatáskörébe tartoznak azok a közigazgatási perek és egyéb közigazgatási bírósági eljárások, amelyek elbírálását törvény nem utalja a Kúria hatáskörébe.
+(1) A törvényszék hatáskörébe tartoznak azok a közigazgatási perek és egyéb közigazgatási bírósági eljárások, amelyek elbírálását törvény nem utalja a Kúria vagy az ítélőtábla hatáskörébe.
 
-(2) A Kúria első és végső fokon jár el
+(2) Az ítélőtábla jár el elsőfokon
+
+- a) az eljáró közigazgatási szerv kijelölésére irányuló eljárásban, valamint
+- b) a törvény által hatáskörébe utalt ügyben.
+
+(3) A Kúria első és végső fokon jár el
 
 - a) az alkotmányjogi panasz orvoslása eljárási eszközének megállapítására irányuló eljárásban,
 - b) a helyi önkormányzati rendelet más jogszabályba ütközésének vizsgálatára irányuló eljárásban,
 - c) a helyi önkormányzat jogalkotási kötelezettségének elmulasztása miatti eljárásban,
-- d) a feloszlatás kivételével a gyülekezési joggal kapcsolatos eljárásban,
-- e) az eljáró közigazgatási szerv kijelölésére irányuló eljárásban és
-- f) a törvény által hatáskörébe utalt ügyben.
+- d) a feloszlatás kivételével a gyülekezési joggal kapcsolatos eljárásban, valamint
+- e) a törvény által hatáskörébe utalt ügyben.
 
 #### 13. § [Illetékesség]
 
@@ -213,6 +220,8 @@ közigazgatási tevékenységével kapcsolatos,
 - b) a minősített adatok megismerésével kapcsolatos jogvitára, valamint
 - c) a köztestület, annak szerve, illetve tisztségviselője közigazgatási tevékenységével kapcsolatos jogvita, a köztestület szervei, illetve tisztségviselői közötti jogvita, továbbá a köztestület, szervei, illetve tisztségviselői és a köztestület felett törvényességi felügyeletet vagy ellenőrzést gyakorló szerv közötti jogvita elbírálására.
 
+(3a) Az ítélőtábla hatáskörébe tartozó ügyekben a Fővárosi Ítélőtábla kizárólagosan illetékes.
+
 (4) Ha a közigazgatási tevékenység külföldön valósult meg, a jogvitára a Fővárosi Törvényszék kizárólagosan illetékes.
 
 (5) A közigazgatási szerződéssel kapcsolatos perre az a törvényszék illetékes, amelynek illetékességi területén a per tárgyává tett szerződést megkötötték. A főkötelezett elleni perre bármilyen címen illetékes bíróság a mellékkötelezettel szembeni igény elbírálására is illetékes.
@@ -229,7 +238,7 @@ közigazgatási tevékenységével kapcsolatos,
 
 (1) A bíróság hatáskörének és illetékességének hiányát hivatalból veszi figyelembe.
 
-(2) Ha a közigazgatási ügyben eljáró bíróság hatáskörét megállapítja, e döntése más bíróságra – ide nem értve a Kúriát – kötelező.
+(2) Ha a közigazgatási ügyben eljáró bíróság hatáskörét megállapítja, e döntése más bíróságra – ide nem értve a másodfokon eljáró bíróságot és a Kúriát – kötelező.
 
 (3) A bíróság illetékességének megállapításánál a keresetlevél benyújtásának időpontja irányadó. Ha a per a keresetlevél benyújtása után bekövetkezett valamely változás folytán tartozna a bíróság illetékessége alá, a bíróság illetékességét akkor is meg kell állapítani.
 
@@ -241,7 +250,12 @@ közigazgatási tevékenységével kapcsolatos,
 
 (2) Ha az illetékes bíróság nem állapítható meg, a fél a kijelölés iránti kérelmet bármelyik törvényszéknél előterjesztheti, egyébként a kijelölés iránt a perben eljárt bíróság hivatalból köteles előterjesztést tenni.
 
-(3) A hatáskörrel és illetékességgel rendelkező bíróságot a Kúria jelöli ki, és utasítja az eljárás lefolytatására.
+(3) A hatáskörrel és illetékességgel rendelkező bíróságot
+
+- a) illetékességi összeütközés esetén, valamint akkor, ha az illetékes bíróság nem állapítható meg, vagy kizárás miatt nem járhat el, az ítélőtábla,
+- b) hatásköri összeütközés esetén a Kúria
+
+jelöli ki és utasítja az eljárás lefolytatására.
 
 (4) Ha a hatásköri összeütközés a közigazgatási ügyben eljáró bíróság és más bíróság között merül fel, a kijelölés tárgyában a Kúria öttagú tanácsban dönt. A tanács elnöke és két tagja közigazgatási bíró, további két tagja a vitával érintett szakágba tartozó bíró. A tanács összetételét és a helyettesítés rendjét az ügyelosztási rendben évente előre kell meghatározni.
 
@@ -370,7 +384,7 @@ Az a perindításra jogosult, akivel a vitatott közigazgatási cselekményt nem
 
 (1) A képviseletre a polgári perrendtartás szabályait az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
-(2) Ügyvédjelölt és ügyvédi kamarai nyilvántartásba vett jogi előadó a törvényszék végzése elleni fellebbezés kivételével, a Kúria előtt – az iratok megtekintése, azokról másolat kérése vagy készítése kivételével – nem járhat el.
+(2) Ügyvédjelölt és ügyvédi kamarai nyilvántartásba vett jogi előadó a jogi képviseletre kötelezett fél nevében kizárólag az iratok megtekintése, azokról másolat kérése vagy készítése érdekében járhat el.
 
 (3) A közigazgatási szerv vezetője, tisztségviselője vagy alkalmazottja a közigazgatási szerv szervezetét és működését meghatározó szabály szerinti képviseleti jogosultságát munkáltatói igazolványával is igazolhatja.
 
@@ -482,8 +496,9 @@ A bíróság hivatalból vagy kérelemre, a polgári perrendtartás szabályaina
 
 (2) Az eljárás szabálytalansága ellen vagy az eljárás elhúzódása miatt benyújtott kifogás elbírálására a polgári perrendtartás szabályait azzal az eltéréssel kell alkalmazni, hogy
 
-- a) a törvényszék mulasztásával szemben benyújtott kifogást a Kúria,
-- b) a Kúria mulasztásával szemben benyújtott kifogást a Kúria erre kijelölt másik tanácsa
+- a) a törvényszék mulasztásával szemben benyújtott kifogást az ítélőtábla,
+- b) az ítélőtábla mulasztásával szemben benyújtott kifogást a Kúria,
+- c) a Kúria mulasztásával szemben benyújtott kifogást a Kúria erre kijelölt másik tanácsa
 
 bírálja el.
 
@@ -1361,9 +1376,9 @@ Ha az elsőfokú bíróság előtt az ítélet kijavítása, illetve kiegészít
 
 (6) Ha a másodfokú eljárásban a jóhiszemű eljárás követelményének megsértése miatt pénzbírság kiszabásának lenne helye, a másodfokú bíróság pénzbírság kiszabása helyett a jóhiszemű eljárás követelményét sértő cselekményt figyelmen kívül hagyhatja.
 
-(7) Ha a fellebbezés elbírálása során az ügyet érintő jogegységi eljárás indul, az eljárást a bíróság a jogegységi eljárás befejezéséig felfüggeszti. A felfüggesztés tárgyában hozott végzést a bíróság módosíthatja.
+(7)
 
-(8) Ha jogkérdésben szükséges a Kúria közzétett határozatától eltérni, a bíróság indítványozza a jogegységi eljárást, amely a jogkérdés mikénti eldöntésére irányuló javaslatot is tartalmazza.
+(8)
 
 #### 108. § [A másodfokú vizsgálat korlátai]
 
@@ -1446,7 +1461,7 @@ Ha az elsőfokú bíróság előtt az ítélet kijavítása, illetve kiegészít
 
 #### 115. § [A felülvizsgálat alapja és eljárási szabályai]
 
-(1) A jogerős ítélet ellen jogszabálysértésre, illetve a Kúria közzétett határozatától jogkérdésben való eltérésre hivatkozással felülvizsgálati kérelmet terjeszthet elő a fél, az érdekelt, valamint a rendelkezés rá vonatkozó része ellen az, akire a határozat rendelkezést tartalmaz.
+(1) A jogerős ítélet, valamint a keresetlevelet visszautasító és az eljárást megszüntető jogerős végzés ellen jogszabálysértésre, illetve a Kúria közzétett határozatától jogkérdésben való eltérésre hivatkozással felülvizsgálati kérelmet terjeszthet elő a fél, az érdekelt, valamint a rendelkezés rá vonatkozó része ellen az, akire a határozat rendelkezést tartalmaz.
 
 (2) A felülvizsgálatra a fellebbezésre vonatkozó szabályokat az e fejezetben foglalt eltérésekkel kell megfelelően alkalmazni.
 
@@ -1457,7 +1472,7 @@ Ha az elsőfokú bíróság előtt az ítélet kijavítása, illetve kiegészít
 Nincs helye felülvizsgálatnak
 
 - a) az elsőfokon jogerőre emelkedett határozat ellen, kivéve, ha a fellebbezést törvény nem teszi lehetővé, vagy kizárja,
-- b)
+- b) ha a fél a fellebbezési jogával nem élt és a másik fél fellebbezése alapján a másodfokú bíróság az elsőfokú határozatot helybenhagyta,
 - c) a jogerős határozatnak csupán a kamatfizetésre, a perköltségre, a teljesítési határidőre vagy a részletfizetésre vonatkozó rendelkezései ellen,
 - d) a Kúria határozata ellen,
 - e) ha azt törvény különösen indokolt esetben kizárja.
@@ -1487,7 +1502,7 @@ Nincs helye felülvizsgálatnak
 
 miatt indokolt.
 
-(2) A felülvizsgálati kérelem befogadásáról vagy a befogadás megtagadásáról a Kúria háromtagú tanácsban, tárgyaláson kívül, a felterjesztéstől számított harminc napon belül határoz. A felülvizsgálati kérelem befogadását megtagadó végzést indokolni kell.
+(2) A felülvizsgálati kérelem befogadásáról vagy a befogadás megtagadásáról a Kúria tanácsban, tárgyaláson kívül, a felterjesztéstől számított harminc napon belül határoz. A felülvizsgálati kérelem befogadását megtagadó végzést indokolni kell.
 
 (3) A befogadhatóság tárgyában hozott végzést a Kúria közli a felülvizsgálati kérelmet előterjesztő féllel.
 
@@ -1542,7 +1557,7 @@ miatt indokolt.
 
 (1) Az alkotmányjogi panasz esetén követendő eljárásra a polgári perrendtartás szabályait az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
-(2) Ha az Alkotmánybíróság a bíróság határozatát megsemmisítette, a Kúria – a (3) bekezdésben foglalt kivétellel – az elsőfokon eljárt bíróságot új eljárásra utasítja vagy a felülvizsgálati kérelem tárgyában új határozat hozatalát rendeli el. A Kúria az új eljárásra utasítást mellőzi, ha a jogsérelem utólagos orvoslására nincs lehetőség.
+(2) Ha az Alkotmánybíróság a bíróság határozatát megsemmisítette, a Kúria – a (3) bekezdésben foglalt kivétellel – az első vagy másodfokon eljárt bíróságot új eljárásra utasítja vagy a felülvizsgálati kérelem tárgyában új határozat hozatalát rendeli el. A Kúria az új eljárásra utasítást mellőzi, ha a jogsérelem utólagos orvoslására nincs lehetőség.
 
 (3) Ha az Alkotmánybíróság a bírósági határozattal együtt az azzal elbírált közigazgatási cselekményt is megsemmisítette, a Kúria az Alkotmánybíróság határozatának egyidejű megküldése mellett a megsemmisített döntést hozó közigazgatási szervet értesíti a szükséges intézkedések megtétele érdekében, és erről a panasz indítványozóját is tájékoztatja.
 
@@ -1991,6 +2006,8 @@ megküldi.
 - c) közigazgatási és munkaügyi bíróságot mint közigazgatási ügyben eljáró bíróságot említ, azon a törvényszéket mint közigazgatási ügyben eljáró bíróságot
 
 kell érteni.
+
+(14) E törvénynek az egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2021. évi CXXXIV. törvénnyel módosított rendelkezéseit a 2022. március 1-jén vagy azt követően előterjesztett fellebbezés vagy felülvizsgálati kérelem, illetve az eljáró közigazgatási szerv kijelölésére irányuló kérelem alapján indult eljárásokban, valamint a 2022. március 1-jén vagy azt követően előterjesztett kizárási indítványra, az eljáró bíróság kijelölése iránt kérelemre, továbbá az eljárás szabálytalansága ellen vagy az eljárás elhúzódása miatt benyújtott kifogásra kell alkalmazni.
 
 #### 158. § [Rövid megjelölés]
 

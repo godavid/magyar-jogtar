@@ -15,7 +15,7 @@ E törvény célja az ásványi nyersanyagok bányászatának, a geotermikus ene
 - c) meddőhányók létesítése, hasznosítása és megszüntetése;
 - d) a megszűnt föld alatti bányák nyitvamaradó térségeinek fenntartása, hasznosítása és felhagyása;
 - e) más törvény hatálya alá nem tartozó, nem bányászati célt szolgáló, bányászati módszerekkel végzett föld alatti tevékenységek (aknamélyítés, mélyfúrás, alagút- és vágathajtás),
-- f) a szénhidrogén-bányászatban használt technológiai létesítmény, a csővezeték, a szénhidrogén szállító-, a földgázelosztó- és célvezeték, valamint az egyéb gázok és gáztermékek vezetékeinek létesítése, használatba vétele, műszaki üzemeltetése, felhagyása, elbontása;
+- f) a szénhidrogén-bányászatban használt technológiai létesítmény, a csővezeték, a szénhidrogén- és széndioxid-szállító vezeték, a földgázelosztó- és célvezeték, valamint az egyéb gázok és gáztermékek vezetékeinek és bányaüzem területén az egyéb gáztechnológiák létesítése, használatba vétele, műszaki üzemeltetése, felhagyása, elbontása;
 - g) szénhidrogének tárolására alkalmas földtani szerkezetek kiképezése és tárolásra történő hasznosítása;
 - h) a geotermikus energia kutatása, kinyerése és hasznosítása;
 - i) az állam más törvény hatálya alá nem tartozó földtani feladatai;
@@ -1519,21 +1519,15 @@ eltelt.
 
 (9) A bányafelügyelet részére felügyeleti tevékenységéért a bányatelek vagy kutatási terület jogosítottja, a földgáztárolói, -szállítói és -elosztói, PB-gáz forgalmazói engedélyes, a határon átnyúló szolgáltatásként PB-gáz forgalmazást végző, valamint a bányászati hulladék kezelője, a szén-dioxid-tárolóhely üzemeltetője és a szén-dioxid-szállítóhálózat üzemeltetője felügyeleti díjat köteles fizetni.
 
-(9a) A felügyeleti díj éves mértéke
+(9a) A felügyeleti díj mértékét a Hatóság elnöke rendeletben állapítja meg.
 
-- a) – a (9d) bekezdésben foglaltak kivételével – a bányatelekből, a kutatási területből a tárgyévet megelőző évben kitermelt ásványi nyersanyag bányajáradék-köteles része értékének 0,4%-a,
-- b) az engedélyes tevékenység esetében a tárgyévet megelőző évi árbevétel 0,4%-a,
-- c) a határon átnyúló szolgáltatásként PB-gáz forgalmazást végző esetében a magyarországi, tárgyévet megelőző évi árbevétel 0,4%-a,
-- d) a bányászati hulladék kezelőjének esetében – ha tevékenysége tekintetében nem minősül bányavállalkozónak – a tevékenysége tárgyévet megelőző évi árbevételének 0,04%-a, valamint
-- e) a szén-dioxid-tárolóhely üzemeltetőjének, valamint a szén-dioxid-szállítóhálózat üzemeltetőjének tevékenységéből származó, a tárgyévet megelőző évi árbevétel 0,4 %-a.
+(9b) A bányafelügyelet eljárásáért a Hatóság elnökének rendeletében megállapított mértékű igazgatási szolgáltatási díjat kell fizetni.
 
-(9b) A bányafelügyelet eljárásáért igazgatási szolgáltatási díjat kell fizetni.
+(9c)
 
-(9c) A (9) bekezdés szerint felügyeleti díjat fizető bányavállalkozónak, illetve engedélyesnek a tárgyévben befizetendő felügyeleti díjból – a tárgyévre megállapított felügyeleti díj fizetési kötelezettség mértékéig – visszajár a tárgyévet megelőző évben az általa a bányafelügyelet eljárásaiért megfizetett igazgatási szolgáltatási díjak összege.
+(9d) A bányatelekből, a kutatási területből a tárgyévet megelőző évben kitermelt kőolaj, földgáz esetében fizetendő felügyeleti díj éves összegét a megállapítást követő minden 5. év december 31-ig felül kell vizsgálni.
 
-(9d) A felügyeleti díj éves összege a bányatelekből, a kutatási területből a tárgyévet megelőző évben kitermelt kőolaj esetében 550 Ft/t, földgáz esetében 33,2 Ft/MWh.
-
-(9e) A (9d) bekezdésben meghatározott díjtételt a megállapítást követő minden 5. év december 31-ig felül kell vizsgálni.
+(9e)
 
 (10) A bányászati igazgatási feladatokat ellátó személyek részére igazolványt, a hatósági feladatokat ellátó személyek részére az igazolvánnyal azonos sorszámú szolgálati jelvényt kell biztosítani.
 
@@ -1620,7 +1614,7 @@ a bányászati joggal érintett ingatlan tulajdonosa.
 - b) a bányászati és földtani kutatási célt szolgáló föld alatti létesítmények, valamint az e cél érdekében végzett mélyfúrás,
 - c) a megszűnt föld alatti bányák nyitva maradó térségeinek fenntartása és felhagyása,
 - d) a geotermikus energia kutatása, energetikai célra történő kinyerése és hasznosítása, az ehhez szükséges létesítmények és berendezések építése, használatbavétele és üzemeltetése,
-- e) szénhidrogén-bányászatban használt technológiai létesítmény, csővezeték, a szénhidrogén-, a szén-dioxid-szállító, a földgázelosztó- és célvezeték, valamint az egyéb gáz- és gáztermékvezeték építése, használatba vétele, üzemeltetése, elbontása és felhagyása,
+- e) szénhidrogén-bányászatban használt technológiai létesítmény, csővezeték, a szénhidrogén- és a széndioxid-szállító vezeték, a földgázelosztó- és célvezeték, valamint az egyéb gáz és gáztermékvezeték és bányaüzem területén az egyéb gáztechnológia építése, használatba vétele, üzemeltetése, elbontása és felhagyása,
 - f) a szénhidrogén, valamint energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek kutatása, tárolásra történő kialakítása és hasznosítása, az ehhez szükséges létesítmények és berendezések építése, használatbavétele, üzemeltetése, bezárása,
 - g) a cseppfolyós propán-bután gázok és ezek elegyei tartályban vagy palackban történő forgalmazása, a cseppfolyós propán-bután gázok és ezek elegyeinek töltő és tároló létesítményei, a töltőüzemben lévő nyomáspróbázó és javító létesítményei, azok berendezései, valamint elosztóvezetékei építése, használatbavétele, üzemeltetése, elbontása és felhagyása,
 - h) a polgári célú robbantóanyag raktárainak építése, használatbavétele és üzemeltetése,
@@ -1844,7 +1838,9 @@ bányahatósági felügyelete
 - 54. „Együttes művelési terv”: az a műszaki dokumentáció, amelyet akkor kell készíteni, ha a szénhidrogén-lelőhely feltárására és kitermelésére több, a kitermeléshez szükséges feltételekkel rendelkező bányavállalkozó jogosult.
 - 55. Állami elővásárlási jog szempontjából védettnek minősülő ingatlanokat érintő bányatelkek vonatkozásában bányászható ásványi nyersanyagok: az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben meghatározott gránit murva (kód 1013), riolit (kód 1110), pados andezit (kód 1141), andezit (kód 1142), bazalt (kód 1150), riolittufa (-tufit) (kód 1211), kálitufa (kód 1212), bazalttufa (-tufit) (kód 1240), agyag (kód 1411-1419), kőzetliszt, kőzetiszap (kód 1422), homok (kód 1451-1453), kavics (kód 1460), átmeneti törmelékes nyersanyagok (kód 1471-1473), homokkő-konglomerátum (kód 1481-1485), durva mészkő/puha mészkő (kód 1520), tömött, kristályos mészkő (kód 1531-1533), dolomit (kód 1541-1543), márga (kód 1561-1563), alginit (kód 1620).
 - 56. Építőipari nyers- és alapanyagok: az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben meghatározott képlékeny agyag-II. (kód 1419), kőzetliszt, kőzetiszap (kód 1422), homok (kód 1453), homokos kavics (kód 1471), kavicsos homok (kód 1472), agyagos törmelék (kód 1473), agyagmárga (kód 1564), kevert ásványi nyersanyag I. (kód 2311), kevert ásványi nyersanyag II. (kód 2312) ásványi nyersanyag alcsoportba tartozó nyersanyagok, valamint a kavics (kód 1460) ásványi nyersanyag csoportba tartozó nyersanyagok.
-- 57. Hasznosító: a magyar állam tulajdonát képező bányászati jog hasznosítására a magyar állam tulajdonosi jogait gyakorló szervvel szerződéses jogviszonyban álló személy. 59. Piacfelügyeleti intézkedésre okot adó állapot: az építőipari nyers- és alapanyagok kínálatának és keresletének – az építőipari nyers- és alapanyagok statisztikai adattal alátámasztott árát figyelembe vevő – változása következtében kialakult olyan piaci helyzet, amely a stratégiai felhasználónak minősülő gazdasági ágazatok, illetve a nemzetgazdaság ásványi nyersanyag-ellátásának a biztonságát veszélyezteti.
+- 57. Hasznosító: a magyar állam tulajdonát képező bányászati jog hasznosítására a magyar állam tulajdonosi jogait gyakorló szervvel szerződéses jogviszonyban álló személy.
+- 58. „Bányaüzemi egyéb gáztechnológiák”: tartozékaival és alkotórészeivel együtt azon berendezések összessége, amely a földgázon kívüli egyéb gázt, fluidumot vagy gázterméket állít elő bányaüzem területén
+- 59. Piacfelügyeleti intézkedésre okot adó állapot: az építőipari nyers- és alapanyagok kínálatának és keresletének – az építőipari nyers- és alapanyagok statisztikai adattal alátámasztott árát figyelembe vevő – változása következtében kialakult olyan piaci helyzet, amely a stratégiai felhasználónak minősülő gazdasági ágazatok, illetve a nemzetgazdaság ásványi nyersanyag-ellátásának a biztonságát veszélyezteti.
 
 ## VI. RÉSZ — A BÁNYÁSZOK ERKÖLCSI ÉS ANYAGI MEGBECSÜLÉSE
 
@@ -2054,6 +2050,8 @@ vonatkozó részletes szabályok rendeletben történő megállapítására.
 - 32. a szén-dioxid-szállítóvezetékek biztonsági követelményeire és a szén-dioxid-szállítóvezetékek biztonsági szabályzatára,
 - 33. a bányaüzemi felelős műszaki vezetői tevékenység folytatásának részletes feltételeire, az e tevékenységre jogosító eljárás rendjére, a nyilvántartás személyes adatot nem tartalmazó adattartalmára, valamint a nyilvántartás vezetésére,
 - 34. a bányafelügyelet hatáskörébe tartozó tevékenység során bekövetkezett súlyos üzemzavarok és súlyos balesetek körére, az arról szóló jelentéstételi kötelezettségre és vizsgálati rendjére
+- 35. a felügyeleti díj mértékére, fizetésére, beszedésére, kezelésére és nyilvántartására
+- 36. a bányaüzem területén az egyéb gáztechnológia építésére, használatba vételére, üzemeltetésére, elbontására és felhagyására
 
 vonatkozó részletes szabályok rendeletben történő megállapítására.
 
@@ -2096,7 +2094,7 @@ rendeletben történő megállapítására.
 
 (3) Felhatalmazást kap
 
-- a) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a felügyeleti díj fizetésének, beszedésének, kezelésének és nyilvántartásának szabályait, az igazgatási szolgáltatási díjak körét, mértékét és beszedésének, kezelésének, megosztásának, nyilvántartásának szabályait rendeletben állapítsa meg,
+- a)
 - b) a miniszter, hogy a nyomvonalas létesítmény, folyó, vízfolyás, tó, csatorna és építmény az engedélyes, illetőleg az elosztóvezeték tulajdonosa által, a vezetékjog alapján történő megközelítését, keresztezését a vízgazdálkodásért felelős miniszter és az elektronikus hírközlésért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
 (4)
