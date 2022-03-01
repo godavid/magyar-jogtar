@@ -571,7 +571,7 @@ közvetlenül kötődő személyi és tárgyi vonatkozású kiadások.
 
 #### 9. A szabálysértési ügyekkel kapcsolatos ügyészi feladatok
 
-30. § (1) Ha a szabálysértési hatóság bűncselekményt bírált el szabálysértésként, az ügyész a határozat ellen a bűncselekmény elévülési idején belül élhet felhívással.
+30. § (1) Ha a szabálysértési hatóság bűncselekményt bírált el szabálysértésként, az ügyész a határozat ellen a döntés közlésétől számított egy éven belül élhet felhívással.
 
 (2) A jogerős döntés ellen az elkövető javára az elkövetett szabálysértésről a nyilvántartásban kezelt adatok törlési határidejéig van helye felhívásnak.
 
@@ -581,7 +581,7 @@ közvetlenül kötődő személyi és tárgyi vonatkozású kiadások.
 
 (5) A szabálysértési hatóság eljárást megszüntető határozatát az ügyész számára megismerhetővé teszi.
 
-(6) Törvényben meghatározott okból és esetekben a bíróság jogerős határozata ellen az ügyész külön törvény szerint jogorvoslattal élhet.
+(6) Törvényben meghatározott okból és esetekben a bíróság jogerős határozata vagy a helyszíni bírságot megállapító döntés ellen az ügyész külön törvény szerint jogorvoslattal élhet.
 
 ### IV/A. Fejezet — ELEKTRONIKUS ÜGYINTÉZÉS
 

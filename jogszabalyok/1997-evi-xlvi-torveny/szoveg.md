@@ -269,7 +269,7 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 - c) akit a bíróság a hivatásos vadászként történő foglalkozástól jogerős ítélettel határozott időre eltiltott, az eltiltás időtartamára;
 - d) aki az alapszabályban meghatározott időközönként, valamint az ott meghatározott módon szervezett szakmai továbbképzésen való eredményes részvételt nem tudja igazolni, legfeljebb a továbbképzésen való eredményes részvételig.
 
-(2) A felfüggesztés időtartama alatt a tagsági viszonyból eredő valamennyi jog és kötelezettség szünetel, és erre az időtartamra a vadászjegyet, valamint a hivatásos vadász szolgálati naplóját és jelvényét be kell vonni.
+(2) A felfüggesztés időtartama alatt a tagsági viszonyból eredő valamennyi jog és kötelezettség szünetel, valamint erre az időtartamra a vadász vadászjegyét érvényteleníteni kell.
 
 (3) Az (1) bekezdés a) pontja alapján felfüggesztett tagsági viszonyt a vezetőség a tag kérelmére állítja helyre, a b)–d) pontok alapján felfüggesztett tagsági viszony pedig az ott megállapított időtartam lejártát követő napon áll helyre, amelyet a tagnak írásban be kell jelentenie.
 
@@ -289,10 +289,10 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 - d) aki jogerősen ,,kizárás'' etikai büntetésben részesült,
 - e) aki tizenkét hónapot meghaladóan nem fizeti a tagdíjat, és a területi szervezet vezetőségétől fizetési kedvezményt nem kapott.
 
-(2) A vezetőség indokolt írásbeli határozatával ki kell zárni a kamarából, és törölni kell a névjegyzékből, illetve a nyilvántartásból azt a tagot, akit
+(2) A vezetőség indokolt írásbeli határozatával ki kell zárni a kamarából, és törölni kell a nyilvántartásból azt a tagot, akit
 
 - a) jogerősen egy évet meghaladó végrehajtandó szabadságvesztésre ítéltek,
-- b) bíróság jogerősen a hivatásos vadász foglalkozástól végleges hatállyal eltiltott, továbbá
+- b) bíróság jogerősen a hivatásos vadász foglalkozástól végleges hatállyal eltiltott, vagy
 - c) aki már nem felel meg a tagsági viszony létesítése feltételeinek.
 
 (3) Az (1) bekezdés d) pontjában meghatározott esetben a határozathozatalra és a jogorvoslatra az etikai eljárásra vonatkozó szabályok irányadók.
@@ -400,7 +400,7 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 
 - a) megrovás;
 - b) pénzbírság, amely a mindenkori minimálbér egyszeresétől tízszereséig terjedhet;
-- c) a vadászjegy, a hivatásos vadász szolgálati naplójának, valamint jelvényének legfeljebb hat hónapra történő bevonása;
+- c) a vadászjegy érvénytelenítése;
 - d) a tagsági viszony legfeljebb hat hónapra terjedő felfüggesztése;
 - e) kizárás.
 
@@ -426,7 +426,7 @@ Az Országgyűlés abból a célból, hogy a hivatásos és a sportvadászok ön
 
 (6)
 
-(7) Amennyiben a vezetőség a 16. § (1) bekezdés b) és c) pontjai, valamint a 17. § (2) bekezdés a) és b) pontjai szerinti esetekben, a bíróság jogerős ítéletének tudomásra jutásától számított harminc napon belül nem határoz a tagsági viszony felfüggesztéséről, illetve megszüntetéséről, a vadászati hatóság határozatban jogosult a vadászjegy visszavonására.
+(7) Ha a vezetőség a 16. § (1) bekezdés b) és c) pontja, valamint a 17. § (2) bekezdés a) és b) pontja szerinti esetekben, a bíróság jogerős ítéletének tudomásra jutásától számított harminc napon belül nem határoz a tagsági viszony felfüggesztéséről, illetve megszüntetéséről, a vadászati hatóság a vadászjegyet visszavonja, az erről szóló döntését a kamarának megküldi, amely a vadászjegyet érvényteleníti.
 
 ### VIII. Fejezet — A KAMARA GAZDÁLKODÁSA
 

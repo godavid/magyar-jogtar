@@ -1004,35 +1004,9 @@ szerencsejáték szervező tevékenységet konvertibilis pénznemben végez, kö
 
 ### 3. CÍM — AZ IGAZGATÁSI SZOLGÁLTATÁSI DÍJ
 
-35/A. § (1) A szerencsejáték-szervező tevékenység engedélyezéséért és a szerencsejáték-felügyeleti hatóság által végzett egyes igazgatási szolgáltatások igénybevételéért igazgatási-szolgáltatási díjat kell fizetni. Az engedély iránti kérelemre indult eljárásokban az eljárás megszüntetése vagy a kérelem elutasítása esetén az igazgatási-szolgáltatási díjat nem kell visszatéríteni.
+35/A. § (1) A szerencsejáték-szervező tevékenység engedélyezéséért és a szerencsejáték-felügyeleti hatóság által végzett egyes igazgatási szolgáltatások igénybevételéért a Hatóság elnökének rendeletében meghatározott mértékű igazgatási-szolgáltatási díjat kell fizetni. Az engedély iránti kérelemre indult eljárásokban az eljárás megszüntetése vagy a kérelem elutasítása esetén az igazgatási-szolgáltatási díjat nem kell visszatéríteni.
 
-(2) A szerencsejáték-szervező tevékenységre jogosító engedély iránti, továbbá a játékterv módosítására irányuló kérelem benyújtásával egyidejűleg – külön felhívás nélkül – kell az igazgatási-szolgáltatási díjat készpénzátutalási megbízással vagy átutalással megfizetni. Az engedély akkor adható ki, ha a kérelmező az igazgatási szolgáltatási díjat megfizette.
-
-(3) A szervező
-
-- a) sorsolásos játék engedélyezési eljárása esetén a játéktervben megjelölt nyereményalap 0,5 ezreléke, de legfeljebb 10 millió forint,
-- b) totalizatőri rendszerű fogadás engedélyezési eljárása esetén a költségvetésben meghatározott nyereményalap 0,5 ezreléke, de legfeljebb 10 millió forint,
-- c) bukmékeri rendszerű fogadás engedélyezési eljárása esetén a költségvetésben meghatározott tiszta játékbevétel 2 ezreléke, de legfeljebb 1 millió forint,
-- d) játékkaszinó engedélyezési eljárása esetén játékasztalonként 20 ezer forint és pénznyerő automatánként 2 ezer forint, teremjátékonként 500 ezer forint, e játékeszközöket közvetlenül nem érintő engedélyezési jóváhagyási eljárás esetén 200 ezer forint, a 27/E. § szerinti jóváhagyási eljárás esetén 10 ezer forint, I. kategóriás játékkaszinó esetén legfeljebb 40 millió forint, II. kategóriás játékkaszinó esetén pedig legfeljebb 1 millió forint,
-- e) kártyaterem engedélyezési eljárása esetén kártyaasztalonként 18 ezer forint,
-- f) a távszerencsejáték-szervezés engedélyezéséért 10 millió forint,
-- g) az online kaszinójáték engedélyezéséért a játékkaszinó engedélyezéséért előterjesztett kérelemmel egyidejűleg benyújtott kérelem esetén 2,5 millió forint, egyéb esetben 5 millió forint,
-- h) a távszerencsejáték játéktervétől való, a 29/F. § (8) bekezdése szerinti ideiglenes eltérésre vonatkozó kérelem esetén 200 ezer forint,
-- i) a szerencsejáték-szervezői tevékenységi engedélynek kizárólag az 1. § (5a)–(6d) bekezdésével, 29/I. § (2) és (2a) bekezdésével, 37. § 32. pontjával, és a Hatóság elnökének a felelős játékszervezés részletes szabályairól szóló rendeletével összefüggő módosítása iránti eljárásért kérelmenként 5000 forint,
-- j) a kizárólag a távszerencsejáték és online kaszinójáték játékterve 29/F. § (5) bekezdése szerinti módosításának jóváhagyására vonatkozó eljárás esetén kérelmenként 21 000 forint,
-- k) a kizárólag a Vhr. szerinti közös játékosi egyenleg kialakításához szükséges játékterv módosítása iránti eljárás esetén kérelmenként 6500 forint,
-- l) a 13. § (5) bekezdés szerinti játékminősítési kérelem benyújtása esetén 42 000 forint igazgatási szolgáltatási díjat fizet.
-
-(4) Az illetékekről szóló 1990. évi XCIII. törvény
-
-- a) 86. §-át az elévülés tekintetében,
-- b) 32. § (1) bekezdését az igazgatási szolgáltatási díj visszatérítése vonatkozásában
-
-alkalmazni kell azzal az eltéréssel, hogy ahol a törvény adóhatóságot említ, azon a szerencsejáték-felügyeleti hatóságot, ahol illetéket említ, azon igazgatási szolgáltatási díjat kell érteni.
-
-(5) Az igazgatási-szolgáltatási díjat készpénzbefizetés vagy átutalás útján kell megfizetni kérelmenként a Magyar Államkincstárnál vezetett 10032000-01076129-00000000 Szerencsejátékok szervezésével kapcsolatos díj és bírság bevételi számla javára.
-
-(6) A szerencsejáték-felügyeleti hatóság az igazgatási-szolgáltatási díjat kérelmenként tartja nyilván.
+(2) A szerencsejáték-szervező tevékenységre jogosító engedély akkor adható ki, ha a kérelmező az igazgatási szolgáltatási díjat megfizette.
 
 ### IV. Fejezet — A szerencsejáték-szervezés ellenőrzése
 
@@ -1111,39 +1085,15 @@ is köteles hatáskörében eljárni, vagy jogszabálysértés bizonyítékait �
 
 ### A szerencsejáték felügyeleti díj
 
-36/C. § (1) A szerencsejáték-felügyeleti hatóság felügyeleti tevékenységéért a szerencsejáték szervező, az ajándéksorsolást szervező és a játékautomata üzemeltető (a továbbiakban együtt: kötelezett) szerencsejáték felügyeleti díj (a továbbiakban: felügyeleti díj) fizetésére köteles.
+36/C. § (1) A szerencsejáték-felügyeleti hatóság felügyeleti tevékenységéért a szerencsejáték szervező, az ajándéksorsolást szervező és a játékautomata üzemeltető (a továbbiakban együtt: kötelezett) a Hatóság elnökének rendeletében meghatározott mértékű szerencsejáték felügyeleti díj (a továbbiakban: felügyeleti díj) fizetésére köteles.
 
-(2) A kötelezett
+(2) A felügyeleti díjat a kötelezett a Hatóság elnökének rendeletében meghatározott időpontban fizeti meg a szerencsejáték-felügyeleti hatósághoz a felügyeleti díj megfizetéséről szóló nyilatkozat (a továbbiakban: nyilatkozat) egyidejű benyújtása mellett. A felügyeleti díj megfizetése a nyilatkozattételi kötelezettség teljesítését nem pótolja.
 
-- a) a folyamatosan szervezett sorsolásos játék és a totalizatőri rendszerű fogadás esetén a negyedévi nyereményalap 2 ezreléke, de legalább 5 ezer forint, legfeljebb 10 millió forint,
-- b) a nem folyamatosan szervezett sorsolásos játék és a totalizatőri rendszerű fogadás esetén a nyereményalap 1 ezreléke, de legalább 5 ezer forint, legfeljebb 500 ezer forint,
-- c) ajándéksorsolás esetén a kisorsolásra kerülő nyeremények forgalmi értékének 1 ezreléke, de legalább 5 ezer forint, legfeljebb 500 ezer forint,
-- d) a bukmékeri rendszerű fogadás esetén a negyedévi tiszta játékbevétel 4 ezreléke, de legalább 5 ezer forint, legfeljebb 10 millió forint,
-- e) a játékkaszinó, online kaszinó üzemeltetése esetén a negyedévi tiszta játékbevétel 2,5%-a, de legalább 5 ezer forint és legfeljebb I. kategóriájú játékkaszinó esetén 20 millió forint, illetve II. kategóriájú játékkaszinó esetén 5 millió forint, online kaszinó üzemeltetése esetén 5 millió forint,
-- f) kártyaterem üzemeltetése esetén a negyedévi tiszta játékbevétel 5 ezreléke, de legalább 5 ezer forint, legfeljebb 1 millió forint,
-- g) játékautomata üzemeltetés esetén félévente játékautomatánként 10 ezer forint,
-- h) távszerencsejáték-szervezés esetén a negyedévi tiszta játékbevétel 2,5 százaléka, de legalább 100 ezer forint és legfeljebb 10 millió forint
-
-felügyeleti díjat fizet.
-
-(3) Ha a játékautomata nyilvántartásba vétele a féléves időtartamot nem éri el, a kötelezett az (1) bekezdés g) pontja szerinti felügyeleti díj arányos részét köteles megfizetni.
-
-36/D. § (1) A felügyeleti díjat a kötelezett
-
-- a) a 36/C. § (2) bekezdés a) és d)–f) pontjaiban foglalt esetekben negyedévente, a kötelezettet terhelő időszaki, időközi, folyamatos elszámolással egyidejűleg, de legkésőbb a tárgynegyedévet követő hónap utolsó napjáig,
-- b) a 36/C. § (2) bekezdés b) és c) pontjaiban foglalt esetekben a sorsolást, illetve a fogadás alapjául szolgáló eseményt megelőző 10 napon belül,
-- c) a 36/C. § (2) bekezdés g) pontja esetén félévente, a 33/A. § (1) bekezdésben meghatározott játékadó bevallási és fizetési kötelezettség teljesítésével egyidejűleg,
-- d) a 36/C. § (2) bekezdés h) pontja esetén negyedévente, a tárgynegyedévet követő hónap utolsó napjáig
-
-fizeti meg a szerencsejáték-felügyeleti hatósághoz a felügyeleti díj megfizetéséről szóló nyilatkozat (a továbbiakban: nyilatkozat) egyidejű benyújtása mellett.
-
-(2) A felügyeleti díj megfizetése a nyilatkozattételi kötelezettség teljesítését nem pótolja.
-
-(3) A díjfizetési kötelezettséget átutalással vagy fizetési számlára történő készpénzbefizetéssel, a nyilatkozattételi kötelezettséget a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon kell teljesíteni.
+(3) A nyilatkozattételi kötelezettséget a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon kell teljesíteni.
 
 (4) A nyilatkozatban feltüntetett adatok, jognyilatkozatok módosítását a kötelezett a szerencsejáték-felügyeleti hatósághoz előterjesztett kérelemben kezdeményezheti.
 
-(5) A felügyeleti díj számítása, megfizetése, nyilvántartása és elszámolása 1000 forintban történik. A felügyeleti díj 1000 forintra kerekített összegét az általános kerekítési szabályok alkalmazásával kell meghatározni.
+36/D. §
 
 36/E. § (1) A szerencsejáték-felügyeleti hatóság a nyilatkozattételi vagy díjfizetési kötelezettség elmulasztása esetén a felügyeleti díjat határozattal állapítja meg és annak megfizetésére kötelez.
 
@@ -1329,7 +1279,7 @@ kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 (3) Felhatalmazást kap az agrárpolitikáért felelős miniszter a lóversenyek és az agárversenyek szabályainak rendeletben történő megállapítására.
 
-(4)
+(4) Felhatalmazást kap a Hatóság elnöke, hogy a szerencsejáték felügyeleti díj mértékére, megfizetésére, beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó részletes szabályokat rendeletben megállapítsa.
 
 39. § (1) E törvénynek az államháztartás stabilitását elősegítő egyes adótörvények módosításáról szóló 2011. évi CXXV. törvénnyel megállapított 33. § (1), (4)–(5), (7)–(8) bekezdéseit első alkalommal 2011. november tárgyhónapra kell alkalmazni.
 

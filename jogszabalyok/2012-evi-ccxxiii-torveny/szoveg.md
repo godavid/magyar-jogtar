@@ -29,6 +29,10 @@ a Büntető Törvénykönyvről szóló 2012. évi C. törvény hatálybalépés
 
 2/A. § Ha a közérdekű munka büntetés tartama az 1978. évi IV. törvény alapján napokban került meghatározásra, a Btk. 92/B. § (2) bekezdése szerinti beszámításnál négy óra közérdekű munka alatt egynapi közérdekű munkát kell érteni.
 
+2/B. § (1) Ha az 1999. február 28. napjáig hatályban volt Büntető Törvénykönyv alkalmazásával kiutasítás mellékbüntetés kiszabásának van helye, vagy a kiszabott kiutasítás mellékbüntetés tartamának meghatározására a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) szerinti különleges eljárásban kerül sor, a bíróság a kiutasítás tartamát egy év és tíz év között, években határozza meg.
+
+(2) A bíróság a kiutasítás tartamának meghatározásakor vizsgálja a Btk. 59. § (2)–(4) bekezdésében foglalt feltételeket, és ha ennek alapján a kiutasítás elrendelésének nem lenne helye, az ítéletben a kiutasítás mellékbüntetés kiszabását mellőzi.
+
 #### 3. §
 
 4. § (1) A Btk. 459. § (1) bekezdés 31. pont a) alpontja alkalmazásában, ha az elkövető a korábbi bűncselekményt a Btk. hatálybalépését megelőzően követte el, figyelembe kell venni az 1978. évi IV. törvény szerinti ugyanolyan vagy hasonló jellegű bűncselekményeket is.
@@ -37,7 +41,7 @@ a Büntető Törvénykönyvről szóló 2012. évi C. törvény hatálybalépés
 
 (3) A Btk. 459. § (1) bekezdés 31. pont c) alpontja alkalmazásában, ha az elkövető legalább egy bűncselekményt a Btk. hatálybalépését megelőzően követett el, figyelembe kell venni az 1978. évi IV. törvény 137. § 17. pontja szerinti bűncselekményeket is.
 
-5. § Ahol a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) a Btk.-ra vagy a Btk. Különös Részére hivatkozik, ott az 1978. évi IV. törvényt, illetve az 1978. évi IV. törvény Különös Részét is érteni kell.
+5. § Ahol a Be. a Btk.-ra vagy a Btk. Különös Részére hivatkozik, ott az 1978. évi IV. törvényt, illetve az 1978. évi IV. törvény Különös Részét is érteni kell.
 
 6. § A Be. 10. § (1) bekezdés 3. pontja alkalmazásában gazdálkodással összefüggő kiemelt bűncselekmények az 1978. évi IV. törvény szerinti következő bűncselekmények is:
 
@@ -529,6 +533,8 @@ vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.”
 (8) A (6) bekezdésben meghatározott naptári napot a rendészetért felelős miniszter határozatával közzéteszi a Magyar Közlönyben.
 
 320/A. § E törvénynek a büntetőeljárások időszerűségének javítása érdekében szükséges egyes törvények módosításáról szóló 2013. évi CXII. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit a Módtv. hatálybalépését követően a bírósághoz érkezett ügyekben kell alkalmazni.
+
+320/B. § E törvénynek az egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2021. évi CXXXIV. törvénnyel (a továbbiakban: Módtv2.) beiktatott 2/B. §-át a Módtv2. hatálybalépését követően a bírósághoz érkezett ügyekben kell alkalmazni.
 
 321. § E törvény
 

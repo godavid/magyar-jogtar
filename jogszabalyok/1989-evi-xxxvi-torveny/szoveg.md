@@ -6,9 +6,9 @@ Az Országgyűlés kegyelettel megemlékezve mindazokról, akik az 1956-os nemze
 
 1. § Az 1956. október 23. és 1963. április 4. között, a népfelkeléssel összefüggésben elkövetett politikai bűncselekmény, valamint az ezzel bűnhalmazatban — harci cselekmények során — elkövetett emberölés, rablás, közveszélyokozás vagy személy elleni erőszak miatti elítélések semmisnek tekintendők.
 
-2. § A Kúria — a legfőbb ügyész indítványára, illetve az elítélt vagy hozzátartozója kérelmére — semmisnek nyilváníthatja az 1. §-ban meghatározott időhatáron belül, a népfelkeléssel összefüggésben méltányolható körülmények között elkövetett köztörvényes bűncselekmény miatti elítélést.
+2. § A Kúria — a legfőbb ügyész indítványára, illetve az elítélt, a védő, az elítélt hozzátartozója, illetve az elítélt halála után oldalági rokona kérelmére — semmisnek nyilváníthatja az 1. §-ban meghatározott időhatáron belül, a népfelkeléssel összefüggésben méltányolható körülmények között elkövetett köztörvényes bűncselekmény miatti elítélést.
 
-3. § Az elítélt vagy hozzátartozója kérheti a Kúriától az 1. §-ban meghatározott időhatáron kívüli, de az említett időszak eseményeivel kapcsolatos politikai vagy méltányolható körülmények között elkövetett más bűncselekmény miatti elítélésnek a semmissé nyilvánítását.
+3. § Az elítélt, a védő, az elítélt hozzátartozója, illetve az elítélt halála után oldalági rokona kérheti a Kúriától az 1. §-ban meghatározott időhatáron kívüli, de az említett időszak eseményeivel kapcsolatos politikai vagy méltányolható körülmények között elkövetett más bűncselekmény miatti elítélésnek a semmissé nyilvánítását.
 
 4. § Az Országgyűlés felhívja a Kormányt, hogy gondoskodjék a semmisnek tekintendő elítéléssel érintett, valamint a közbiztonsági őrizetben fogva tartott (1956. évi 31. tvr.) személyek munkaviszonyának és társadalombiztosítási helyzetének rendezéséről.
 
