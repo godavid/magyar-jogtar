@@ -1531,6 +1531,8 @@ téríti meg.
 
 (4) A helyszíni bírság módosítására a (3) bekezdés b) pontjában és a 99. § (7)–(9) bekezdésében foglalt esetben és kizárólag a meghatározott összegnek megfelelő bírságösszeg megállapítására van lehetőség.
 
+(4a) Ha a helyszíni bírsággal érintett cselekmény bűncselekmény, a helyszíni bírságot megállapító döntés közlésétől számított hat hónapon belüli ügyészségi kezdeményezésre a helyszíni bírságot megállapító döntést vissza kell vonni.
+
 (5) A helyszíni bírság módosításáról vagy visszavonásáról hozott döntés ellen, illetve a (2) bekezdés szerinti tájékoztatás ellen nincs helye jogorvoslatnak.
 
 #### 84. Gépjárművezető távollétében kiszabható helyszíni bírság
@@ -1920,7 +1922,7 @@ téríti meg.
 - a) a perújítási okként megjelölt bűncselekmény elkövetését jogerős ítélet megállapította vagy ilyen ítélet meghozatalát nem bizonyítottság hiánya zárja ki és
 - b) e bűncselekmény a szabálysértési hatóság, illetve a bíróság határozatát befolyásolta.
 
-(3) Az (1) bekezdés e) pontjában meghatározott eset kivételével nincs helye perújításnak, ha a bírósági határozat jogerőre emelkedését követően egy év eltelt.
+(3) Nincs helye perújításnak, ha a bírósági határozat jogerőre emelkedését követően egy év eltelt.
 
 #### 98. A perújítási kérelem
 

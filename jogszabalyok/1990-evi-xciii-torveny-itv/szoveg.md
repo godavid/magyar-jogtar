@@ -766,7 +766,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 (3) Ha az eljárást nem a jogosult, hanem ennek nevében és érdekében az arra feljogosított indítja, a kötelezettség azt terheli, akinek érdekében az eljárás indul.
 
-(4) Nem köteles az illeték előzetes megfizetésére a büntetőügyeken kívül az ügygondnok, a gyámhatóság által kirendelt eseti gondnok és eseti gyám, valamint az a fél, akinek érdekében az őt megillető igény érvényesítése céljából az ügyész, vagy az erre jogosult személy vagy szervezet pert indított.
+(4) Nem köteles az illeték előzetes megfizetésére az ügygondnok, a gyámhatóság által kirendelt eseti gondnok és eseti gyám, valamint az a fél, akinek érdekében az őt megillető igény érvényesítése céljából az ügyész, vagy az erre jogosult személy vagy szervezet pert indított.
 
 ### A polgári eljárás illetékének alapja
 
@@ -957,34 +957,25 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 ### A büntető eljárás illetéke
 
-52. § (1) A magánvádas eljárásban a feljelentés illetéke 10 000 forint, a fellebbezés illetéke 10 000 forint, a perújítási indítvány és a felülvizsgálati indítvány és a jogegységi panasz illetéke 15 000 forint.
+52. § (1) A magánvádas eljárásban a feljelentés illetéke 10 000 forint, a magánvádló és a magánfél fellebbezésének illetéke 10 000 forint, a magánvádló perújítási indítványának illetéke 15 000 forint.
 
-(2) Ha magánvádas eljárásban több feljelentő egy beadványban tesz feljelentést, továbbá, ha több feljelentő különálló ügyeit egyesítik, mindegyik feljelentő köteles az illetéket megfizetni. Ha ugyanannak a feljelentőnek több ügyét egyesítik, az egyesítést követően csak egyszer kell az illetéket megfizetni. Viszonvád esetén az illetéket mindkét vádra vonatkozóan külön kell megfizetni.
+(2) Ha magánvádas eljárásban több feljelentő egy beadványban tesz feljelentést, továbbá, ha több feljelentő különálló ügyeit egyesítik, mindegyik feljelentő köteles az illetéket megfizetni. Ha ugyanannak a feljelentőnek több ügyét egyesítik, csak egyszer kell az illetéket megfizetni. Viszonvád esetén az illetéket mindkét vádra vonatkozóan külön kell megfizetni.
 
 (3)
 
 (4) Nem kell illetéket fizetni az eljárásnak abban a szakaszában, amelyben az ügyészség a vád képviseletét átvette.
 
+(5) Ha az illetéket az indítvány előterjesztésekor nem vagy hiányosan fizetik meg, az illetékfizetésre kötelezett személyt fel kell hívni, hogy azt 8 napon belül pótolja és figyelmeztetni kell az illeték meg nem fizetésének a büntetőeljárásról szóló törvényben meghatározott következményeire.
+
 ### A polgári jogi igény és az állammal szembeni kártalanítási igény érvényesítésének illetéke
 
-53. § (1) Ha a büntetőeljárás során polgári jogi igényt érvényesítenek, csupán az igény bejelentésére és a fellebbezésre kell ezen a címen illetéket fizetni. Ezt az illetéket — a polgári peres eljárásra vonatkozó illetékszabályok szerint — a büntető eljárás illetékén felül kell megfizetni.
+53. § (1) Illetékköteles a büntetőeljárás során a sértett által előterjesztett polgári jogi igény, valamint a sértett, a terhelt vagy a védő által előterjesztett, kizárólag a büntetőeljárás során elbírált polgári jogi igény kérdésében hozott döntés elleni fellebbezés. Ezt az illetéket – a polgári peres eljárásra vonatkozó illetékszabályok szerint – a büntetőeljárás illetékén felül kell megfizetni.
+
+(1a) Nem kell megfizetni az (1) bekezdés szerinti illetéket, ha a bíróság a polgári jogi igény érvényesítését egyéb törvényes útra utasítja.
 
 (2) A büntetőeljárással összefüggésben az alaptalanul alkalmazott szabadságkorlátozásért járó kártalanítás iránti per illetékére a polgári peres eljárás illetékére vonatkozó szabályok az irányadók.
 
-### A büntető eljárással kapcsolatos egyes kérelmek illetéke
-
-54. § (1) Ha a kérelmet nem nyomban a tárgyalás befejeztével szóban, vagy nem a szabadságvesztés büntetés végrehajtása alatt terjesztették elő, 2000 forint illetéket kell fizetni:
-
-- a) a szabadságvesztés, a közérdekű munka végrehajtásának megkezdésére irányuló halasztás, illetve a közérdekű munka félbeszakítása iránti kérelem,
-- b) a pénzbüntetés, az államot illető bűnügyi költség vagy rendbírság megfizetésére irányuló halasztás, illetve részletfizetés iránti kérelem
-
-esetében.
-
-(2) A kegyelmi kérelem, valamint a bírósági mentesítés iránti kérelem illetéke 5000 forint.
-
-(3) A bűnügyi költség és a rendbírság elengedése iránt az igazságügyért felelős miniszterhez előterjesztett kérelem illetéke az elengedni kért tartozás 1%-a, de legalább 5000 forint, legfeljebb 20 000 forint.
-
-(4) Ha az e §-ban és az 52. §-ban említett illetéket a kérelmező, illetve a magánvádló felhívás ellenére nem fizeti meg, a bíróság leletet készít.
+54. §
 
 ### Választottbírósági eljárásban az illeték mértéke
 
@@ -996,7 +987,7 @@ esetében.
 
 (2) Az illetékmentesség szabályai a beavatkozóra és az érdekeltre is irányadóak.
 
-(3) Illetékmentes a büntetőügyeken kívül az eseti gondnok és az ügygondnok részére a bíróság által készített jegyzőkönyv- vagy egyéb iratmásolat.
+(3) Illetékmentes az eseti gondnok és az ügygondnok részére a bíróság által készített jegyzőkönyv- vagy egyéb iratmásolat.
 
 (4) A bírósági közvetítés illetékmentes.
 
@@ -1032,27 +1023,11 @@ esetében.
   - zsa) a cég cégkivonatának, cégbizonyítványának és cégmásolatának kiállítása,
   - zsb) a cég cégnyilvántartásban szereplő elektronikus okiratainak elektronikus úton történő megküldése.
 
-(2) Illetékmentes a büntetőügyekben:
+(2)
 
-- a) az 52. § (1) bekezdésében megjelölt eljárásban a terhelt és a védő fellebbezése, perújítási indítványa és felülvizsgálati indítványa;
-- b) az 52. § (1) bekezdésében megjelölt eljárás, ha az eljárást a személyes meghallgatás megkezdése előtt vagy a személyes meghallgatás alapján a bíróság megszünteti;
-- c) az 54. § (2) bekezdésében említett kérelem, ha azt a terhelt, a törvényes képviselője vagy a védő nyújtotta be;
-- d) a költségkedvezmény engedélyezése iránti eljárás;
-- e) a terhelt, a védő, a fiatalkorú terhelt törvényes képviselője és az ügygondnok részére az általuk a büntetőeljárásról szóló törvény alapján megismerhető ügyiratokról készült másolat egyszeri kiadása;
-- f) a sértett részére másolat egyszeri kiadása az olyan eljárási cselekményről készült ügyiratról, amelyen jelen volt vagy jelen lehetett;
-- g) a feljelentő részére a szóban tett feljelentésről készített jegyzőkönyv másolatának, illetve az írásban tett feljelentés megtételét igazoló irat másolatának egyszeri kiadása;
-- h) az elektronikus formában, elektronikus okiratként vagy papíralapú okirat elektronikus másolataként (a továbbiakban együtt: elektronikus formában) rendelkezésre álló ügyirat másolatának elektronikus kapcsolattartás útján vagy elektronikus levelezési címre történő továbbítása;
-- i) az eredményes jogegységi panasz alapján indult eljárás.
+(3)
 
-(3) Illetékmentes:
-
-- a) a büntetés-végrehajtási bíró hatáskörébe utalt ügyekben az elítélt, az egyéb jogcímen fogvatartott, a védő, a jogi képviselő, a fiatalkorú és a kényszergyógykezelt törvényes képviselője részére az általuk megismerhető iratokról készült másolat egyszeri kiadása,
-- b) a büntetés-végrehajtási ügyben, büntetés vagy az intézkedés végrehajtása, illetve a kényszerintézkedés foganatosítása során keletkezett, elektronikus formában rendelkezésre álló irat másolatának elektronikus kapcsolattartás útján vagy elektronikus levelezési címre történő továbbítása.
-
-(4) Illetékmentes a szabálysértési ügyekben:
-
-- a) a feljelentő részére a szóban tett feljelentésről készített jegyzőkönyv másolatának, illetve az írásban tett feljelentés megtételét igazoló irat másolatának egyszeri kiadása,
-- b) a sértett részére a kihallgatásáról, valamint a sértett lakcímén, tényleges tartózkodási helyén, továbbá a szabálysértés helyszínén folytatott helyszíni szemléről készült jegyzőkönyv másolatának egyszeri kiadása.
+(4)
 
 ### Mérsékelt illeték
 
@@ -1078,11 +1053,23 @@ esetében.
 
 (7) Az (1) bekezdés a) pont aa) alpontjának rendelkezését a nemperes eljárásban, továbbá az egyéb közigazgatási bírósági eljárásban megfelelően alkalmazni kell, ha a fél a bíróság érdemi határozatának meghozatala előtt áll el a kérelmétől. A fizetési meghagyásos eljárást követően indult peres eljárásban [42. § (2) bekezdés] – amennyiben ennek feltételei egyébként fennállnak – a mérsékelt illeték kedvezménye csak a 42. § (2) bekezdése szerint kiegészített illetékre terjed ki.
 
-(8) A büntetőeljárásban érvényesített polgári jogi igény illetékére az (1)–(5) bekezdés rendelkezéseit megfelelően alkalmazni kell.
+(8)
 
 (9) A fellebbezési eljárás, illetve felülvizsgálati eljárás illetékének a 10%-át kell megfizetni, ha a fellebbezést vagy a felülvizsgálati kérelmet az annak elbírálására jogosult bíróság tárgyalásának megkezdése előtt visszavonják, vagy a kérelem visszavonására a tárgyaláson kívüli elbírálás időpontjáig kerül sor.
 
 (10) A csatlakozó fellebbezés illetékére a (3), (4) és (9) bekezdés rendelkezéseit kell megfelelően alkalmazni. Ha a fellebbező fél a fellebbezést a tárgyalás megkezdése után vonja vissza, a csatlakozó fellebbezést előterjesztő az eljárási illetéknek csak a 10%-át köteles megfizetni.
+
+58/A. § (1) A büntetőeljárásban érvényesített polgári jogi igény illetéke az eljárás illetékének 10%-a, ha az elsőfokú ügydöntő határozat meghozataláig
+
+- a) a magánfél visszavonja az előterjesztett polgári jogi igényt,
+- b) a terhelt úgy nyilatkozik, hogy ellenkérelmet nem kíván előterjeszteni és a követelést a magánfél által előterjesztetteknek megfelelően teljesíteni kívánja, vagy
+- c) a terhelt a váddal egyezően beismeri a bűncselekmény elkövetését.
+
+(2) Ha a vádlottal szemben több bűncselekmény miatt emeltek vádat, az (1) bekezdés c) pontja alkalmazásának akkor van helye, ha a vádlott azon bűncselekmény elkövetését ismeri be, amely vonatkozásában a polgári jogi igényt előterjesztették.
+
+(3) Több vádlott esetén, ha az (1) bekezdés b) vagy c) pontja bármelyik vádlott esetén fennáll, a mérsékelt illeték valamennyi vádlottra vonatkozik és őket egyetemlegesen terheli.
+
+(4) A büntetőeljárásban érvényesített polgári jogi igény illetékére az 58. § (5) és (9)–(10) bekezdését megfelelően alkalmazni kell.
 
 ### Tárgyi illetékfeljegyzési jog
 
@@ -1098,7 +1085,7 @@ esetében.
 
 - a) a munkaügyi vagy közszolgálati jogviszonnyal kapcsolatos perben, ha az a munkavállaló vagy az állam nevében foglalkoztatott személy szándékos vagy súlyos gondatlan károkozásával, valamint a vezető állású munkavállaló kártérítési felelősségével kapcsolatban indult; továbbá a végkielégítés iránti per a törvény alapján járó összegen felüli részében, ha az a minimálbér hússzorosát meghaladja;
 - b) a személy életében, testi épségében vagy egészségében okozott, illetve a vagyonában bekövetkezett olyan kár megtérítése vagy sérelemdíj megfizetése iránti igény esetén, amikor a személy élete, testi épsége vagy egészsége is veszélyeztetve volt;
-- c) a bűncselekményből – ide nem értve a személy életében, testi épségében vagy egészségében okozott kárt vagy ezekkel összefüggésben felmerült sérelemdíj megfizetését –, valamint a szabálysértésből származó kár megtérítése, illetve az azzal összefüggésben felmerült sérelemdíj megfizetése iránti igény esetén;
+- c) a bűncselekményből – ide nem értve a személy életében, testi épségében vagy egészségében okozott kárt vagy ezekkel összefüggésben felmerült sérelemdíj megfizetését –, valamint a szabálysértésből származó kár megtérítése, az azzal összefüggésben felmerült sérelemdíj megfizetése iránti igény esetén, valamint polgári jogi igényként érvényesíthető dolog kiadása és pénzfizetésre irányuló követelés esetén;
 - d) a házassági perben, kivéve a házassági bontópert, valamint a házassági perben érvényesített vagyonjogi igényt;
 - e) a névviselési jog megszüntetése iránti perben;
 - f) a személyek polgári jogi védelmével kapcsolatos perben;
@@ -1393,7 +1380,12 @@ közölni. Az ilyen illetékhiány után mulasztási bírság nem szabható ki.
   - ka) a kérelem visszautasításának lett volna helye, vagy
   - kb) az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el, és törvény nem biztosít lehetőséget az eljárás felfüggesztésére;
 - l) ha a hatóság arról rendelkezik, hogy a kérelmező ügyfél mentesül az eljárási költségek megfizetése alól;
-- m) ha a magánvádas eljárásban a vád képviseletét az ügyészség átveszi, továbbá ha a bíróság a vádlott bűnösségét megállapítja vagy az eljárást büntethetőséget megszüntető okból megszünteti, illetve, ha a magánvádló a vádat legkésőbb az elsőfokú bíróság ügydöntő határozatának meghozataláig ejti.
+- m) ha magánvádas eljárásban
+  - ma) a jogerős ügydöntő határozat meghozatalának időpontjában az ügyészség képviselte a vádat,
+  - mb) a bíróság az eljárást a személyes meghallgatás megkezdése előtt vagy a személyes meghallgatás alapján megszünteti,
+  - mc) a magánvádló a vádat legkésőbb az elsőfokú bíróság ügydöntő határozatának meghozataláig ejti,
+  - md) a bíróság a vádlott bűnösségét megállapítja vagy az eljárást büntethetőséget megszüntető okból vagy vádelejtés miatt megszünteti, vagy
+  - me) a magánvádló fellebbezése eredményes.
 
 (2) Az (1) bekezdés d)—e) pontjában meghatározott esetekben a vagyoni értékű jog tényleges ideje után számított illetéket meghaladó részt kell törölni, illetve visszatéríteni.
 
@@ -1892,7 +1884,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 | 22. | az egyes közokiratoknak az Európai Unión belüli bemutatására vonatkozó előírások egyszerűsítése révén a polgárok szabad mozgásának előmozdításáról és az 1024/2012/EU rendelet módosításáról szóló, 2016. július 6-i 2016/1191/EU európai parlamenti és tanácsi rendelet szerinti többnyelvű formanyomtatvány kiállítása |
 | X. A másolat, fordítás, hitelesítés közül |  |
 | 1. | az adóbevallás másolatának kiállítása |
-| 2. | a) a feljelentő részére a szóban tett feljelentésről készített jegyzőkönyv másolatának, valamint az írásban tett feljelentés megtételét igazoló irat másolatának, b) a sértett részére a kihallgatásáról, valamint a sértett lakóhelyén, tartózkodási helyén, továbbá a bűncselekmény, szabálysértés helyszínén folytatott helyszíni szemléről készült jegyzőkönyv másolatának egyszeri kiállítása |
+| 2. |  |
 | 3. | a hitelesített vagy nem hitelesített másolat kiállítása, amely az 1. mellékletben és az e mellékletben említett eljáráshoz szükséges |
 | 4. | az 1. mellékletben és az e mellékletben említett eljáráshoz szükséges irat fordítása |
 | 5. | a vagyonszerzési illeték tárgyát képező vagyonszerzés bejelentéséhez szükséges irat hitelesítése |

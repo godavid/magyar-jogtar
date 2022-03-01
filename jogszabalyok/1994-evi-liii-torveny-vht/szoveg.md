@@ -434,7 +434,7 @@ KÖZÖS SZABÁLYAI
 
 (2) Az önálló bírósági végrehajtó az adóstól a behajtott követelésen felül, a végrehajtási költségekkel együtt hajtja be az általános költségátalányt, és azt befizeti, vagy átutalja a Kar hivatali szervének. Az általános költségátalányból a Hatóságot törvény alapján megillető összeget a Kar hivatali szerve utalja át a Hatóságnak. A költségátalány összegének elszámolása és kielégítése a 164. § szerint történik.
 
-(3) Az általános költségátalány mértéke 500 000 forintot meg nem haladó végrehajtási ügyérték esetén ügyenként 5 000 forint, 500 000 forint feletti végrehajtási ügyérték esetén az ügyérték 1%-a.
+(3) Az általános költségátalány mértékét a Hatóság elnöke rendeletben állapítja meg.
 
 ### Jegyzőkönyv
 
@@ -4578,7 +4578,7 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 - i) a 253/I. § szerinti IVR bevezetésének időpontját és ütemezését, a létrehozására, működésére és felhasználására vonatkozó részletszabályokat, a működtetéséhez szükséges, a Kar által megalkotandó szabályzatok körét, továbbá a végrehajtók által a hatálybalépést megelőzően alkalmazott informatikai rendszer adatállományának az IVR-ben történő rögzítésének részletes szabályait azon, még érdemben befejezetlen végrehajtási ügyek tekintetében, amelyek az IVR bevezetését megelőzően kerültek kiosztásra, illetőleg érkeztek a végrehajtóhoz foganatosítás céljából,
 - j) a végrehajtói díjszabást és a végrehajtás során befolyt összegeknek a végrehajtási költségekre történő elszámolásának részletes szabályait,
 - k) az árverezők elektronikus nyilvántartásába történő bejegyzés díját, a közös tulajdonban lévő ingatlan árverése esetén a tulajdonostárs tulajdoni hányadának értékesítéséért felszámítható díjat, az önálló bírósági végrehajtó által a felvilágosításra jogosult részére kiadott másolatért felszámítható költségtérítést, valamint ezek megfizetésének módját,
-- l) az általános költségátalány megfizetéséről szóló szabályokat,
+- l) az általános költségátalány mértékét, az általános költségátalány megfizetéséről szóló szabályokat,
 - m) az elektronikus árverési rendszer és a kézbesítési rendszer informatikai alkalmazásának működtetésére, biztonsági követelményeire és felhasználói szabályzatának kötelező tartalmi elemeire vonatkozó részletes szabályokat,
 - n) a panaszügyek intézésére irányuló eljárások lefolytatására, és a fegyelmi eljárások nyilvántartására vonatkozó részletes szabályokat.
 

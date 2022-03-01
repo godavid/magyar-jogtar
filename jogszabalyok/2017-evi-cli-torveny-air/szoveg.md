@@ -1362,7 +1362,8 @@ Az adóhatóság határozata ellen önálló jogorvoslatnak van helye. Az adóha
 
 - a) a bíróság a büntetőügyben hozott jogerős ügydöntő határozatával megállapította, hogy az adózó adókötelezettsége teljesítésével összefüggésben csalást, költségvetési csalást, adócsalást, illetve munkáltatással összefüggésben elkövetett adócsalást követett el,
 - b) a döntést hozó adóhatóság dolgozója a kötelességét a büntetőtörvénybe ütköző módon szegte meg úgy, hogy ez a döntés meghozatalát befolyásolta, és ezt a bíróság büntetőügyben hozott jogerős ügydöntő határozata megállapította vagy
-- c) az adózó rosszhiszemű volt.
+- c) az adózó rosszhiszemű volt,
+- d) az adóhatóság az adózót a büntetőeljárásban hozott ügydöntő határozatban megállapított vagyonelkobzásra tekintettel nem vagy alacsonyabb összegben kötelezte a megállapított adókülönbözet megfizetésére, de a határozat véglegessé válását követően a büntetőeljárásban a vagyonelkobzást mellőzték vagy alacsonyabb összegre rendelték el.
 
 (5) A rosszhiszeműséget az adóhatóságnak kell bizonyítania.
 

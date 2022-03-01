@@ -66,6 +66,8 @@ a következő törvényt alkotja:
 
 (2) Nem bűnhalmazat, hanem folytatólagosan elkövetett bűncselekmény az, ha az elkövető ugyanolyan bűncselekményt, egységes elhatározással, azonos sértett sérelmére, rövid időközönként többször követ el.
 
+(3) Ha az elkövető több vagy tartós cselekménye egy bűncselekményt valósít meg, vagy több bűncselekménye e törvény rendelkezése alapján egy bűncselekményt valósít meg, és e bűncselekmény miatt az elkövetővel szemben vádemelésre került sor, az elkövető által a vádemelést követően elkövetett újabb ugyanolyan bűncselekmény önálló bűncselekményként bírálandó el.
+
 ### A szándékosság
 
 7. § Szándékosan követi el a bűncselekményt, aki cselekményének következményeit kívánja, vagy e következményekbe belenyugszik.
@@ -608,7 +610,7 @@ csak tízévi vagy azt meghaladó tartamú szabadságvesztés kiszabása esetén
 
 (3) Végleges hatállyal az utasítható ki, akit tízévi vagy azt meghaladó tartamú szabadságvesztésre ítélnek, és – figyelemmel a bűncselekmény kiemelkedő súlyára, az elkövetés jellegére, és az elkövető kapcsolataira – az országban tartózkodása a közbiztonságot jelentősen veszélyeztetné. A szabad mozgás és tartózkodás jogával rendelkező személy végleges hatállyal nem utasítható ki.
 
-(4) A kiutasítás tartama az ügydöntő határozat jogerőre emelkedésével kezdődik. A kiutasítás tartamába nem számít bele az az idő, amely alatt az elítélt szabadságvesztés büntetést tölt.
+(4) A kiutasítás tartama azzal a nappal kezdődik, amikor az elítélt Magyarország – más európai uniós tagállamban tartózkodási joggal nem rendelkező harmadik országbeli állampolgárságú elítélt az Európai Unió – területét az idegenrendészeti jogszabályok alapján a kiutasítás végrehajtásáról hozott végzésben meghatározottak szerint elhagyja, vagy ha ennek időpontja nem ismert, a végzésben erre kijelölt határnap. Ha a bíróság külföldön tartózkodó vagy távollévő terheltet ítél kiutasításra, a kiutasítás tartama az ügydöntő határozat jogerőre emelkedése napján kezdődik.
 
 (5) A végleges hatályú kiutasítás alól a bíróság a kiutasítottat kérelmére mentesítheti, ha a kiutasítás óta tíz év eltelt, és a kiutasított arra érdemes.
 
@@ -799,7 +801,8 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 74. § (1) Vagyonelkobzást kell elrendelni arra
 
 - a) a bűncselekmény elkövetéséből eredő vagyonra, amelyet az elkövető a bűncselekmény elkövetése során vagy azzal összefüggésben szerzett,
-- b)–c)
+- b)
+- c)
 - d) a vagyonra, amely a bűncselekmény elkövetéséből eredő, a bűncselekmény elkövetése során vagy azzal összefüggésben szerzett vagyon helyébe lépett,
 - e) a vagyonra, amelyet a bűncselekmény elkövetése céljából az ehhez szükséges vagy ezt könnyítő feltételek biztosítása végett szolgáltattak vagy arra szántak,
 - f) a vagyonra, amely az adott vagy ígért vagyoni előny tárgya volt.
@@ -814,7 +817,7 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 
 - a) arra a vagyonra, amely a büntetőeljárás során érvényesített polgári jogi igény fedezetéül szolgál,
 - b) arra a vagyonra, amelyet jóhiszeműen, ellenérték fejében szereztek,
-- c)
+- c) az (1) bekezdés a) és d) pontja vagy a (2) bekezdés szerinti vagyonra, ha azzal kapcsolatban a büntetőeljárás tárgyát képező bűncselekménnyel azonos tényállás miatt közigazgatási hatóság, állami adó- és vámhatóság végleges határozatában vagy közigazgatási perben a bíróság jogerős határozatában fizetési kötelezettséget állapított meg, a fizetési kötelezettség erejéig.
 
 74/A. § (1) Az ellenkező bizonyításáig vagyonelkobzás alá eső vagyonnak kell tekinteni, és vagyonelkobzást kell elrendelni arra a vagyonra, amelyet az elkövető
 
@@ -829,7 +832,7 @@ ideje alatt szerzett.
 - a) a kábítószer forgalomba hozatala, illetve az azzal való kereskedés [176. § (1)–(4) és (6) bekezdés, 177. § (1) bekezdés b) pont, c) pont cb) alpont és (2)–(3) és (5) bekezdés], kábítószer termesztése, előállítása, az ország területére behozatala, kivitele, átszállítása [178. § (1)–(5) bekezdés és 179. §], a kábítószer készítésének elősegítése [182. § (1)–(4) bekezdés], a kábítószer-prekurzor forgalomba hozatala, szállítása, azzal közvetítői tevékenység végzése [183. § (1) bekezdés a) pont],
 - b) az új pszichoaktív anyag előállítása, az ország területére behozatala, kivitele, átszállítása, forgalomba hozatala, illetve az azzal való kereskedés [184. § (1)–(3) és (5) bekezdés, 184/A. § (1) bekezdés b) pont és c) pont cb) alpont, (2)–(3) és (5) bekezdés, 184/B. § (1) bekezdés a) pont, (2)–(5) bekezdés, 184/C. § (1) bekezdés a) pont aa) alpont, b) pont ba) alpont, (2)–(5) bekezdés],
 - c) az emberkereskedelem és kényszermunka [192. § (1)–(7) bekezdés],
-- d) a kerítés (200. §), a prostitúció elősegítése (201. §), a kitartottság (202. §), a gyermekprostitúció kihasználása [203. § (1) és (3)–(4) bekezdés], a gyermekpornográfia [204. § (1) bekezdés b)–c) pont, (2)–(4) bekezdés, (5) bekezdés a) és c) pont és (6) bekezdés],
+- d) a kerítés (200. §), a prostitúció elősegítése (201. §), a kitartottság (202. §), a gyermekprostitúció kihasználása [203. § (1) és (3)–(4) bekezdés], a tizennyolcadik életévét be nem töltött személyt ábrázoló pornográf felvétel kínálása, átadása, hozzáférhetővé tétele, készítése, forgalomba hozatala, azzal való kereskedelem, illetve nagy nyilvánosság számára hozzáférhetővé tétele [204. § (1) bekezdés b)–c) pont, (2)–(4) bekezdés, (5) bekezdés b) pont és (6) bekezdés], tizennyolcadik életévét be nem töltött személynek vagy személyeknek pornográf műsorban való szerepeltetése vagy ilyen pornográf műsor szervezése [204/A. § (1) bekezdés b) pont és (2)–(5) bekezdés],
 - e) a gyermekmunka (209. §), a harmadik országbeli állampolgár jogellenes foglalkoztatása [356. § (1)–(2) bekezdés],
 - f) a haszonszerzési célból elkövetett személyes adattal visszaélés [219. § (1) és (3)–(4) bekezdés],
 - g) a vesztegetés, a vesztegetés elfogadása, a hivatali vesztegetés, a hivatali vesztegetés elfogadása (290–294. §),
@@ -1014,11 +1017,11 @@ az (1) bekezdésben meghatározott bűnügyi felügyeletben töltött idő felel
 
 (4) A (2) és (3) bekezdés szerinti beszámítás után fennmaradó tartamot egynapi szabadságvesztésként kell beszámítani.
 
-92/A. § (1) A szabálysértési eljárásban kiszabott és végrehajtott elzárás és közérdekű munka teljes időtartamát, valamint a pénzbírságot be kell számítani – a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 127. § (1) bekezdés e) pontja szerint lefolytatott perújítási eljárást követően, a perújítással érintett cselekmény miatt – a büntetőeljárásban kiszabott szabadságvesztésbe, elzárásba, közérdekű munkába, pénzbüntetésbe és javítóintézeti nevelésbe.
+92/A. § (1) A szabálysértési eljárásban kiszabott és végrehajtott elzárás és közérdekű munka teljes időtartamát, valamint a helyszíni bírságot és a pénzbírságot be kell számítani – a szabálysértésekről szóló törvény szerint tett ügyészi felhívást, a lefolytatott felülvizsgálatot vagy perújítási eljárást követően a felhívással, a felülvizsgálattal vagy a perújítással érintett cselekmény miatt – a büntetőeljárásban kiszabott szabadságvesztésbe, elzárásba, közérdekű munkába, pénzbüntetésbe és javítóintézeti nevelésbe.
 
 (2) A beszámításnál egynapi szabálysértési elzárás egynapi szabadságvesztésnek, illetve elzárásnak, négy óra közérdekű munkának, egynapi tétel pénzbüntetésnek, valamint egynapi javítóintézeti nevelésnek felel meg.
 
-(3) A szabálysértési pénzbírság ötezer forintonként egynapi szabadságvesztésnek, illetve elzárásnak, négy óra közérdekű munkának, a pénzbüntetés azonos értékének, illetve egynapi javítóintézeti nevelésnek felel meg.
+(3) A helyszíni bírság és a szabálysértési pénzbírság ötezer forintonként egynapi szabadságvesztésnek, illetve elzárásnak, négy óra közérdekű munkának, a pénzbüntetés azonos értékének, illetve egynapi javítóintézeti nevelésnek felel meg.
 
 (4) A szabálysértési eljárásban kiszabott közérdekű munka a közérdekű munka azonos mértékének, továbbá a szabálysértési eljárásban kiszabott közérdekű munka hat óránként egynapi szabadságvesztésnek, illetve elzárásnak, egynapi tétel pénzbüntetésnek, valamint egynapi javítóintézeti nevelésnek felel meg.
 
@@ -1678,8 +1681,9 @@ ha súlyosabb bűncselekmény nem valósul meg, bűntett miatt egy évtől öt �
 - g) több ember életét veszélyeztetve,
 - h) különös visszaesőként,
 - i) tizennegyedik életévét be nem töltött személy sérelmére,
-- j) védekezésre képtelen személy sérelmére vagy
-- k) a bűncselekmény elhárítására idős koránál vagy fogyatékosságánál fogva korlátozottan képes személy sérelmére
+- j) védekezésre képtelen személy sérelmére,
+- k) a bűncselekmény elhárítására idős koránál vagy fogyatékosságánál fogva korlátozottan képes személy sérelmére, vagy
+- l) az elkövetővel szemben emberölés miatt történt vádemelés után
 
 követik el.
 
@@ -1694,6 +1698,11 @@ követik el.
 - a) a népirtás [142. § (1) bekezdés a) pont], az erős felindulásban elkövetett emberölés (161. §),
 - b) az emberrablás és az elöljáró vagy szolgálati közeg elleni erőszak súlyosabban minősülő esetei [190. § (4) bekezdés, 445. § (5) bekezdés a) pont],
 - c) a terrorcselekmény, a jármű hatalomba kerítése, és a zendülés súlyosabban minősülő esetei, ha a halált szándékosan okozva követik el [314. § (1) bekezdés, 320. § (2) bekezdés, 442. § (4) bekezdés].
+
+(7) A (2) bekezdés l) pontja akkor alkalmazható, ha az elkövetőt
+
+- a) a vádemelés után elkövetett emberöléssel egy eljárásban a korábban elkövetett emberölés miatt is elítélik, vagy
+- b) a korábban elkövetett emberölés miatt jogerősen elítélték.
 
 ### Erős felindulásban elkövetett emberölés
 
@@ -1991,7 +2000,7 @@ terjedő szabadságvesztés.
 - a) az elkövetővel szemben az eljárást az (1) bekezdésben meghatározott büntethetőséget megszüntető okra figyelemmel függesztették fel, vagy
 - b) az elkövető büntetőjogi felelősségét kábítószer-kereskedelem vagy kábítószer birtoklása miatt megállapították.
 
-(3) A 178. § (1) és (5)–(6) bekezdés, illetve a 179. § (1)–(2) és (6) bekezdés esetén – ha az (1) bekezdés nem alkalmazható – a büntetés korlátlanul enyhíthető, ha az elkövető a vádemelésig lehetővé teszi a kábítószert értékesítő személy kilétének megállapítását.
+(3) A 178. § (1) és (5)–(6) bekezdés, illetve a 179. § (1)–(2) és (6) bekezdés esetén – ha az (1) bekezdés nem alkalmazható – a büntetés korlátlanul enyhíthető, ha az elkövető a vádemelésig lehetővé teszi a kábítószert értékesítő személy kilétének megállapítását. Ez a rendelkezés nem alkalmazható, ha a bűncselekményt bűnszervezetben követik el.
 
 ### Kóros szenvedélykeltés
 
@@ -3314,8 +3323,9 @@ bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő
 
 - a) az Országgyűlést,
 - b) a köztársasági elnököt,
-- c) a Kúriát vagy
-- d) a Kormányt
+- c) a Kúriát,
+- d) a Kormányt vagy
+- e) az Alkotmánybíróságot
 
 az Alaptörvényben meghatározott jogköre gyakorlásában erőszakkal vagy ezzel fenyegetve akadályozza, vagy intézkedésre kényszerítse, bűntett miatt két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
 
@@ -3588,7 +3598,7 @@ vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (2) Aki abból a célból, hogy az ellene folytatott büntetőeljárás alól kivonja magát, a bűnügyi felügyelet tartama alatt a számára meghatározott területet, lakást, egyéb helyiséget, intézményt, vagy ahhoz tartozó bekerített helyet a kényszerintézkedés szabályainak megszegésével elhagyja, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-(2a) A (2) bekezdés szerint büntetendő, aki abból a célból, hogy az ellene folytatott kiadatási vagy átadási eljárás alól kivonja magát, az ideiglenes kiadatási, illetve az ideiglenes átadási bűnügyi felügyelet tartama alatt a számára meghatározott területet, lakást, egyéb helyiséget, intézményt, vagy ahhoz tartozó bekerített helyet a kényszerintézkedés szabályainak megszegésével elhagyja.
+(2a) A (2) bekezdés szerint büntetendő, aki abból a célból, hogy az ellene folytatott kiadatási vagy átadási eljárás alól kivonja magát, a kiadatási, az ideiglenes kiadatási, az ideiglenes átadási, vagy az ideiglenes végrehajtási bűnügyi felügyelet tartama alatt a számára meghatározott területet, lakást, egyéb helyiséget, intézményt, vagy ahhoz tartozó bekerített helyet a kényszerintézkedés szabályainak megszegésével elhagyja.
 
 (3) A büntetés egy évig terjedő szabadságvesztés, ha az elítélt a szabadságvesztés végrehajtása során a részére engedélyezett büntetés félbeszakítás, eltávozás, rövid tartamú eltávozás vagy kimaradás tartamának elteltével abból a célból nem tér vissza, hogy a büntetés végrehajtása alól kivonja magát.
 
@@ -3671,7 +3681,7 @@ terjedő szabadságvesztés, ha a vesztegetést bűnszövetségben vagy üzletsz
 
 (4) Az (1)–(3) bekezdés szerint büntetendő, aki a vesztegetést külföldi gazdálkodó szervezet részére vagy érdekében tevékenységet végző személlyel kapcsolatban követi el.
 
-(5) A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – az (1) bekezdésben meghatározott bűncselekmény elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti, és az elkövetés körülményeit feltárja.
+(5) A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – az (1) bekezdésben meghatározott bűncselekmény elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti, és az elkövetés körülményeit feltárja. Ez a rendelkezés nem alkalmazható, ha a bűncselekményt bűnszervezetben követik el.
 
 (6) Aki egészségügyi szolgáltatás nyújtásával összefüggésben egészségügyi dolgozónak, egészségügyben dolgozónak vagy ezekre tekintettel másnak az egészségügyről szóló törvényben meghatározottak szerint jogtalan előnyt ad vagy ígér, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
@@ -3696,7 +3706,7 @@ terjedő szabadságvesztés.
 
 (4) Az (1)–(3) bekezdés szerint büntetendő az a külföldi gazdálkodó szervezet részére vagy érdekében tevékenységet végző személy, aki az ott meghatározott bűncselekményt követi el.
 
-(5) A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – az (1) bekezdésben és a (3) bekezdés a) pontjában meghatározott bűncselekmény elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti, a kapott jogtalan vagyoni előnyt vagy annak ellenértékét a hatóságnak átadja, és az elkövetés körülményeit feltárja.
+(5) A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – az (1) bekezdésben és a (3) bekezdés a) pontjában meghatározott bűncselekmény elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti, a kapott jogtalan vagyoni előnyt vagy annak ellenértékét a hatóságnak átadja, és az elkövetés körülményeit feltárja. Ez a rendelkezés nem alkalmazható, ha a bűncselekményt bűnszervezetben követik el.
 
 (6) E § alkalmazásában az egészségügyi szolgáltatással összefüggésben jogtalan előnynek minősül az egészségügyről szóló törvényben meghatározottak szerinti jogtalan előny.
 
@@ -3732,7 +3742,7 @@ terjedő szabadságvesztés.
 
 (4) Az (1)–(3) bekezdés szerint büntetendő az a külföldi hivatalos személy, aki az ott meghatározott bűncselekményt követi el.
 
-(5) A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – az (1) és (2) bekezdésben meghatározott bűncselekmény elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti, a kapott jogtalan vagyoni előnyt vagy annak ellenértékét a hatóságnak átadja, és az elkövetés körülményeit feltárja.
+(5) A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – az (1) és (2) bekezdésben meghatározott bűncselekmény elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti, a kapott jogtalan vagyoni előnyt vagy annak ellenértékét a hatóságnak átadja, és az elkövetés körülményeit feltárja. Ez a rendelkezés nem alkalmazható, ha a bűncselekményt bűnszervezetben követik el.
 
 ### Vesztegetés bírósági vagy hatósági eljárásban
 
@@ -5406,7 +5416,7 @@ vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (7) Aki költségvetésből származó pénzeszközökkel kapcsolatban előírt elszámolási, számadási, vagy az előírt tájékoztatási kötelezettségének nem vagy hiányosan tesz eleget, valótlan tartalmú nyilatkozatot tesz, vagy valótlan tartalmú, hamis vagy hamisított okiratot használ fel, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(8) Korlátlanul enyhíthető annak a büntetése, aki az (1)–(6) bekezdésében meghatározott költségvetési csalással okozott vagyoni hátrányt a vádemelés előtt megtéríti. Ez a rendelkezés nem alkalmazható, ha a bűncselekményt bűnszövetségben vagy különös visszaesőként követik el.
+(8) Korlátlanul enyhíthető annak a büntetése, aki az (1)–(6) bekezdésben meghatározott költségvetési csalással okozott vagyoni hátrányt a vádemelés előtt megtéríti. Ez a rendelkezés nem alkalmazható, ha a bűncselekményt bűnszövetségben, bűnszervezetben vagy különös visszaesőként követik el.
 
 (9) E § alkalmazásában
 
@@ -6251,7 +6261,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - h) az önálló bírósági végrehajtó, az önálló bírósági végrehajtó-helyettes és a végrehajtói kézbesítésre felhatalmazott önálló bírósági végrehajtó jelölt,
   - i) a helyi önkormányzati és a nemzetiségi önkormányzati képviselő-testület tagja,
   - j) a Magyar Honvédség állományilletékes parancsnoka, és az úszólétesítmény vagy a légi jármű parancsnoka, ha a nyomozó hatóságra vonatkozó rendelkezések alkalmazására jogosult,
-  - k) az Alkotmánybíróságnál, a Köztársasági Elnök Hivatalánál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, a Magyar Nemzeti Banknál, az Állami Számvevőszéknél, bíróságnál, ügyészségnél, központi államigazgatási szervnél, az Országgyűlési Őrségnél, fővárosi vagy megyei kormányhivatalnál, önkormányzati igazgatási szervnél, megyei intézményfenntartó központnál vagy köztestületnél közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,
+  - k) az Alkotmánybíróságnál, a Köztársasági Elnök Hivatalánál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, a Magyar Nemzeti Banknál, az Állami Számvevőszéknél, bíróságnál, ügyészségnél, központi államigazgatási szervnél, az Országgyűlési Őrségnél, fővárosi vagy megyei kormányhivatalnál, önkormányzati igazgatási szervnél vagy köztestületnél közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,
   - l) a választási bizottság tagja;
 - 12. közfeladatot ellátó személy:
   - a) a Magyar Honvédség szolgálati feladatot teljesítő katonája,
