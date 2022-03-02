@@ -98,33 +98,17 @@ egyes agrártárgyú törvények módosításáról
 
 42. § (1)
 
-(2) Az Országos Magyar Vadászkamaráról szóló 1997. évi XLVI. törvény 16. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A felfüggesztés időtartama alatt a tagsági viszonyból eredő valamennyi jog és kötelezettség szünetel, valamint erre az időtartamra a vadász vadászjegyét érvényteleníteni kell.”
+(2)
 
 43. § (1)
 
-(2) Az Országos Magyar Vadászkamaráról szóló 1997. évi XLVI. törvény 17. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A vezetőség indokolt írásbeli határozatával ki kell zárni a kamarából, és törölni kell a nyilvántartásból azt a tagot, akit
-
-a) jogerősen egy évet meghaladó végrehajtandó szabadságvesztésre ítéltek,
-
-b) bíróság jogerősen a hivatásos vadász foglalkozástól végleges hatállyal eltiltott, vagy
-
-c) aki már nem felel meg a tagsági viszony létesítése feltételeinek.”
+(2)
 
 (3)
 
-44. § Az Országos Magyar Vadászkamaráról szóló 1997. évi XLVI. törvény 25. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+44. §
 
-(Az etikai eljárás lefolytatását követően a taggal szemben az alábbi etikai büntetések szabhatók ki:)
-
-„c) a vadászjegy érvénytelenítése;”
-
-45. § Az Országos Magyar Vadászkamaráról szóló 1997. évi XLVI. törvény 26. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Ha a vezetőség a 16. § (1) bekezdés b) és c) pontja, valamint a 17. § (2) bekezdés a) és b) pontja szerinti esetekben, a bíróság jogerős ítéletének tudomásra jutásától számított harminc napon belül nem határoz a tagsági viszony felfüggesztéséről, illetve megszüntetéséről, a vadászati hatóság a vadászjegyet visszavonja, az erről szóló döntését a kamarának megküldi, amely a vadászjegyet érvényteleníti.”
+45. §
 
 46. §
 

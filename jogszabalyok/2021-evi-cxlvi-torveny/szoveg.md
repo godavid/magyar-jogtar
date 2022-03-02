@@ -416,17 +416,11 @@ lép.
 
 111. §
 
-112. § A Trtv. 26. §-a a következő (6) bekezdéssel egészül ki:
+112. §
 
-„(6) Az ökológiai hálózat ökológiai folyosójának övezetében az erőművek közül csak háztartási méretű kiserőmű létesíthető, épületen elhelyezve.”
+113. §
 
-113. § A Trtv. 28. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A kiváló termőhelyi adottságú szántók övezetében az erőművek közül csak háztartási méretű kiserőmű létesíthető, épületen elhelyezve.”
-
-114. § A Trtv. 17. alcíme a következő 30/A. §-sal egészül ki:
-
-„30/A. § Az erdők övezetében az erőművek közül csak háztartási méretű kiserőmű létesíthető, épületen elhelyezve.”
+114. §
 
 115. §
 
@@ -434,17 +428,9 @@ lép.
 
 117. § (1)
 
-(2) A Trtv. 84. § (2) bekezdése a következő i) ponttal egészül ki:
+(2)
 
-(Kertes mezőgazdasági terület övezetén:)
-
-„i) az erőművek közül csak háztartási méretű kiserőmű létesíthető, épületen elhelyezve.”
-
-118. § A Trtv. 87. § (1) bekezdése a következő g) ponttal egészül ki:
-
-(A borszőlő termőhelyi kataszteri terület övezetén:)
-
-„g) az erőművek közül csak háztartási méretű kiserőmű létesíthető, épületen elhelyezve.”
+118. §
 
 119. §
 

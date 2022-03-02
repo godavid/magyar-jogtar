@@ -6,11 +6,7 @@ az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvény
 
 #### 1. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
 
-1. § A bányászatról szóló 1993. évi XLVIII. törvény 1. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
-
-(E törvény hatálya alá tartozik:)
-
-„f) a szénhidrogén-bányászatban használt technológiai létesítmény, a csővezeték, a szénhidrogén- és széndioxid-szállító vezeték, a földgázelosztó- és célvezeték, valamint az egyéb gázok és gáztermékek vezetékeinek és bányaüzem területén az egyéb gáztechnológiák létesítése, használatba vétele, műszaki üzemeltetése, felhagyása, elbontása;”
+1. §
 
 2. §
 
@@ -52,21 +48,13 @@ az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvény
 
 19. §
 
-20. § (1) A bányászatról szóló 1993. évi XLVIII. törvény 44. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
-
-[A bányafelügyelet hatáskörébe tartozik – figyelemmel a 43. § (3) bekezdésében foglaltakra –:]
-
-„e) szénhidrogén-bányászatban használt technológiai létesítmény, csővezeték, a szénhidrogén- és a széndioxid-szállító vezeték, a földgázelosztó- és célvezeték, valamint az egyéb gáz és gáztermékvezeték és bányaüzem területén az egyéb gáztechnológia építése, használatba vétele, üzemeltetése, elbontása és felhagyása,”
+20. § (1)
 
 (2)
 
 21. §
 
-22. § (1) A bányászatról szóló 1993. évi XLVIII. törvény 49. §-a a következő 58. ponttal egészül ki:
-
-(E törvény alkalmazásában:)
-
-„58. „Bányaüzemi egyéb gáztechnológiák”: tartozékaival és alkotórészeivel együtt azon berendezések összessége, amely a földgázon kívüli egyéb gázt, fluidumot vagy gázterméket állít elő bányaüzem területén.”
+22. § (1)
 
 (2)
 
@@ -76,13 +64,7 @@ az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvény
 
 24. § (1)
 
-(2) A bányászatról szóló 1993. évi XLVIII. törvény 50/A. § (1b) bekezdése a következő 36. ponttal egészül ki:
-
-(Felhatalmazást kap a Hatóság elnöke)
-
-„36. a bányaüzem területén az egyéb gáztechnológia építésére, használatba vételére, üzemeltetésére, elbontására és felhagyására”
-
-(vonatkozó részletes szabályok rendeletben történő megállapítására.)
+(2)
 
 (3)
 
@@ -474,45 +456,21 @@ az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvény
 
 #### 25. A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosítása
 
-188. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 35/A. §-a helyébe a következő rendelkezés lép:
+188. §
 
-„35/A. § (1) A szerencsejáték-szervező tevékenység engedélyezéséért és a szerencsejáték-felügyeleti hatóság által végzett egyes igazgatási szolgáltatások igénybevételéért a Hatóság elnökének rendeletében meghatározott mértékű igazgatási-szolgáltatási díjat kell fizetni. Az engedély iránti kérelemre indult eljárásokban az eljárás megszüntetése vagy a kérelem elutasítása esetén az igazgatási-szolgáltatási díjat nem kell visszatéríteni.
+189. §
 
-(2) A szerencsejáték-szervező tevékenységre jogosító engedély akkor adható ki, ha a kérelmező az igazgatási szolgáltatási díjat megfizette.”
-
-189. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 36/C. §-a helyébe a következő rendelkezés lép:
-
-„36/C. § (1) A szerencsejáték-felügyeleti hatóság felügyeleti tevékenységéért a szerencsejáték szervező, az ajándéksorsolást szervező és a játékautomata üzemeltető (a továbbiakban együtt: kötelezett) a Hatóság elnökének rendeletében meghatározott mértékű szerencsejáték felügyeleti díj (a továbbiakban: felügyeleti díj) fizetésére köteles.
-
-(2) A felügyeleti díjat a kötelezett a Hatóság elnökének rendeletében meghatározott időpontban fizeti meg a szerencsejáték-felügyeleti hatósághoz a felügyeleti díj megfizetéséről szóló nyilatkozat (a továbbiakban: nyilatkozat) egyidejű benyújtása mellett. A felügyeleti díj megfizetése a nyilatkozattételi kötelezettség teljesítését nem pótolja.
-
-(3) A nyilatkozattételi kötelezettséget a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon kell teljesíteni.
-
-(4) A nyilatkozatban feltüntetett adatok, jognyilatkozatok módosítását a kötelezett a szerencsejáték-felügyeleti hatósághoz előterjesztett kérelemben kezdeményezheti.”
-
-190. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 38. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Felhatalmazást kap a Hatóság elnöke, hogy a szerencsejáték felügyeleti díj mértékére, megfizetésére, beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó részletes szabályokat rendeletben megállapítsa.”
+190. §
 
 191. §
 
-192. § Hatályát veszti a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény
-
-- a)
-- b)
-- c) 36/D. §-a.
+192. §
 
 #### 26. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
 
-193. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 34/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+193. §
 
-„(3) Az általános költségátalány mértékét a Hatóság elnöke rendeletben állapítja meg.”
-
-194. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény 307. § (1a) bekezdés l) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Hatóság elnöke, hogy rendeletben állapítsa meg)
-
-„l) az általános költségátalány mértékét, az általános költségátalány megfizetéséről szóló szabályokat,”
+194. §
 
 #### 27. A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény módosítása
 
@@ -586,31 +544,19 @@ az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvény
 
 218. §
 
-219. § (1) A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. § i) pontja helyébe a következő rendelkezés lép:
-
-(A Hatóság elnöke)
-
-„i) megállapítja a felelős játékszervezés elvének megfelelő szervezői tevékenységgel kapcsolatban a túlzásba vitt szerencsejáték ártalmairól és a szenvedélybetegség kialakulásának veszélyeiről szóló tájékoztatás, a sérülékeny személyek szerencsejátékhoz való hozzáférésének korlátozása, a kitiltás és a kitiltáshoz kapcsolódó panaszkezelési eljárás, a figyelmeztető és önkorlátozó játékfunkciók, a szerencsejáték káros mentális, pszichikai és szociális hatásainak megelőzésére és csökkentésére szolgáló intézkedések, a játékosvédelmi nyilvántartás, és további önkorlátozó intézkedések bevezetésének, valamint a szervező által a játékos részére biztosítandó önkorlátozó intézkedések igénybevételének részletes szabályait, a személyi megfelelőség megállapítására és meghosszabbítására vonatkozó részletes eljárási szabályokat, a szerencsejátékok személyi, tárgyi és gazdasági feltételeivel, az egyes szerencsejátékok lebonyolításával, ellenőrzésével, a játéktervvel, a sorsolásos játékokkal és a fogadásokkal, a pénznyerő automaták, a játékautomaták, a kártyatermek és a játékkaszinók üzemeltetésével, a gazdátlan, szerencsejáték keretében használt játékeszköznek a Polgári Törvénykönyvben foglaltaktól eltérő tulajdonszerzésével, a távszerencsejáték és az online kaszinójáték szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, távszerencsejátékban és az online kaszinójátékban való részvétel feltételeivel, az engedély nélküli szerencsejátékok szolgáltatásában való közreműködők kötelezettségeivel és a szerencsejáték-felügyeleti hatóság feladataival, a pénzforgalmi szolgáltató tiltott szerencsejáték szervezést megvalósító tevékenységhez kapcsolódó tét befizetésének és nyeremény kifizetésének teljesítésében való közreműködését kizáró eljárásával és ezen eljárás ellenőrzésével kapcsolatos részletes szabályokat, a szerencsejáték felügyeleti díj mértékére, megfizetésére, beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó részletes szabályokat,”
+219. § (1)
 
 (2)
 
 (3)
 
-(4) A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. §-a a következő s) ponttal egészül ki:
-
-(A Hatóság elnöke)
-
-„s) megállapítja az általános költségátalány mértékét, az általános költségátalány megfizetéséről szóló szabályokat,”
+(4)
 
 (5)
 
 (6)
 
-(7) A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. §-a a következő v) ponttal egészül ki:
-
-(A Hatóság elnöke)
-
-„v) megállapítja a bányaüzem területén az egyéb gáztechnológia építésére, használatba vételére, üzemeltetésére, elbontására és felhagyására vonatkozó részletes szabályokat,”
+(7)
 
 (8)
 
