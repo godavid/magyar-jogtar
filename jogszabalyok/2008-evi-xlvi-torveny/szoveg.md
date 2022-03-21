@@ -1800,6 +1800,7 @@ vonatkozó előírásokat;
 - l) állapítsa meg az e törvény hatálya alá tartozó közigazgatási hatósági eljárások szabályait;
 - m) állapítsa meg az állatok jelölésére, nyilvántartására, a marhalevél kiállítására és kezelésére vonatkozó részletes szabályokat.
 - n) állapítsa meg a hullatott agancs gyűjtésének, jelölésének, forgalomba hozatalának és nyilvántartásának részletes szabályait.
+- o) állapítsa meg az élelmiszermentéssel kapcsolatos részletes szabályokat.
 
 (2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg
 

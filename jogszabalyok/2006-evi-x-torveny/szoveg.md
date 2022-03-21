@@ -457,7 +457,7 @@ számára lehetőséget biztosít a munkavégzési feltételek megteremtésére,
 
 (2) A törvény 104. §-a a kihirdetését követő 3. napon, 109. §-a és 113. § (2) bekezdése a kihirdetést követő hónap első napján lép hatályba.
 
-(3) Felhatalmazást kap a Kormány, hogy az iskolaszövetkezet és a nyugdíjas szövetkezet által nyújtott szolgáltatásokért fizetendő minimális szolgáltatási díjat rendeletben állapítsa meg.
+(3) Felhatalmazást kap a Kormány, hogy az iskolaszövetkezet, a nyugdíjas szövetkezet és a kisgyermekkel otthon lévők szövetkezete által nyújtott szolgáltatásokért fizetendő minimális szolgáltatási díjat rendeletben állapítsa meg.
 
 (4)
 

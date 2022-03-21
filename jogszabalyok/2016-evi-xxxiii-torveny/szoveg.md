@@ -8,7 +8,7 @@ Az Országgyűlés az Európai Unió által megfogalmazott társadalmi és gazda
 
 #### 1. A törvény alkalmazási köre
 
-1. § (1) Az Európai Unió pénzügyi alapjaihoz kapcsolódó támogatási kérelmek tartalmi értékelése és az ezen alapok által támogatott projektek megvalósításához kapcsolódó közbeszerzések ellenőrzése közfeladat. E támogatási kérelmek tartalmi értékelését (a továbbiakban: tartalmi értékelés) és az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendeletben, valamint a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló kormányrendeletben meghatározott közbeszerzések műszaki szempontú ellenőrzését (a továbbiakban: közbeszerzési értékelés) az állami projektértékelői jogviszonyban állók látják el.
+1. § (1) Az Európai Unió pénzügyi alapjaihoz, valamint a Magyarország Helyreállítási és Ellenállóképességi Tervéhez kapcsolódó támogatási kérelmek tartalmi értékelése (a továbbiakban: tartalmi értékelés), valamint az Európai Unió pénzügyi alapjai és a Magyarország Helyreállítási és Ellenállóképességi Terve által támogatott projektek megvalósításához kapcsolódó közbeszerzések ellenőrzése közfeladat. A támogatási kérelmek tartalmi értékelését és az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendeletben, valamint a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló kormányrendeletben meghatározott közbeszerzések műszaki szempontú ellenőrzését (a továbbiakban: közbeszerzési értékelés) az állami projektértékelői jogviszonyban állók látják el.
 
 (2) Állami projektértékelői jogviszony létesíthető azzal, aki
 
@@ -290,6 +290,7 @@ céljából kezeli az értékelőként jogviszonyt létesíteni szándékozó sz
 - c) az értékelő eseti feladatellátásával kapcsolatos részletes szabályokat,
 - d) a mikro-, kis- és középvállalkozások, valamint a helyi és területi önkormányzatok számára nyitva álló felhívások esetén a kiválasztási eljárásrendek körét,
 - e) e törvény kötelező alkalmazásának további esetköreit és a kötelező alkalmazás további feltételeit és azok részletes szabályait, valamint a kötelező alkalmazás alóli mentesítésre vonatkozó részletszabályokat.
+- f) a Magyarország Helyreállítási és Ellenállóképességi Terv vonatkozásában azon tartalmi értékelések körét, amelyek tekintetében az állami projektértékelő tartalmi értékelést végez.
 
 12. § Ez a törvény a kihirdetését követő napon lép hatályba.
 

@@ -30,7 +30,7 @@ A művészeti képzési terület, ezen keresztül az innovációt támogatni ké
 
 3/B. § A 3/A. § (1) bekezdése szerinti üzletrész tulajdonba adásáról az Alapítvány alapító okiratának módosításával a miniszter rendelkezik. A tulajdonba adás végrehajtása során az állam képviseletében a miniszter jár el, aki jogosult az üzletrész felett az államot megillető tulajdonosi jogok gyakorlására és a kötelezettségek teljesítésére.
 
-3/C. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján – az Alapítvány KEKVA tv. 1. mellékletében meghatározott közfeladatai ellátása érdekében – az állam tulajdonában álló, 3. melléklet szerinti ingatlanok (ezen § alkalmazásában a továbbiakban együtt: ingatlanok) ingyenesen az Alapítvány tulajdonába kerülnek.
+3/C. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján – az Alapítvány KEKVA tv. 1. mellékletében meghatározott közfeladatai ellátása érdekében – az állam tulajdonában álló, 3. mellékletben foglalt táblázat 1–3. sora szerinti ingatlanok (ezen § alkalmazásában a továbbiakban együtt: ingatlanok) ingyenesen az Alapítvány tulajdonába kerülnek.
 
 (2) Az Alapítvány a Budapest XII. kerület 8398/2 helyrajzi számú ingatlan tulajdonjogát per-, teher- és igénymentesen, a Budapest I. kerület 7599/2 helyrajzi számú, valamint a Budapest XII. kerület 8398/3 helyrajzi számú ingatlanok tulajdonjogát – a (3) bekezdésben foglalt kivétellel – a fennálló terhekkel együtt szerzi meg. Az (1) bekezdés szerinti tulajdonátruházás feltétele, hogy az Alapítvány a 7599/2 helyrajzi számú, valamint a 8398/3 helyrajzi számú ingatlanokat terhelő kötelezettségeket a 3/D. § (2) bekezdés szerinti szerződésben teljeskörűen átvállalja.
 
@@ -51,6 +51,18 @@ A művészeti képzési terület, ezen keresztül az innovációt támogatni ké
 (2) Az Alapítvány az (1) bekezdés alapján tulajdonába adott üzletrész elidegenítéséből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány közfeladata ellátására és közérdekű céljai megvalósítására köteles fordítani. Az Alapítvány az értékesítésből származó bevételt az Alapítvány működési költségeinek finanszírozására nem használhatja fel.
 
 (3) Az (1) bekezdése szerinti üzletrész tulajdonba adásáról az Alapítvány alapító okiratának módosításával a miniszter rendelkezik. A tulajdonba adás végrehajtása során az állam képviseletében a miniszter jár el, aki jogosult az üzletrész felett az államot megillető tulajdonosi jogok gyakorlására és a kötelezettségek teljesítésére.
+
+3/F. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján – az Alapítvány KEKVA tv. 1. mellékletében meghatározott közfeladatai ellátása érdekében – az állam tulajdonában álló, a 3. mellékletben foglalt táblázat 4. sora szerinti ingatlan (e § alkalmazásában a továbbiakban: ingatlan) ingyenesen az Alapítvány tulajdonába kerül.
+
+(2) Az Alapítvány az ingatlant a fennálló terhekkel együtt szerzi meg. Az (1) bekezdés szerinti tulajdonátruházás feltétele, hogy az Alapítvány az ingatlant terhelő kötelezettségeket a 3/G. § (1) bekezdése szerinti szerződésben teljeskörűen átvállalja.
+
+(3) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az ingatlanban található, állami tulajdonú ingó vagyontárgyak és az ingatlanon található „Kronos” című szobor (a továbbiakban együtt: ingóságok) e törvény erejénél fogva az Alapítvány tulajdonába kerülnek.
+
+(4) Az Alapítvány a tulajdonába adott ingatlant a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Alapítvány a tulajdonába adott ingatlant értékesíti, akkor az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladata ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Alapítvány az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
+
+3/G. § (1) A 3/F. § (1) bekezdése szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti el és köti meg.
+
+(2) A 3/F. § (3) bekezdése alapján átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
@@ -84,7 +96,7 @@ A művészeti képzési terület, ezen keresztül az innovációt támogatni ké
 
 (3) A 8. § és a 9. § 2022. január 1-jén lép hatályba.
 
-7. § (1) Az 1. § (3) bekezdése, a 3/A. §, a 3/C. §, a 3/E. §, az 5. § (1) és (3) bekezdése és a 2. és a 3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+7. § (1) Az 1. § (3) bekezdése, a 3/A. §, a 3/C. §, a 3/E. §, a 3/F. §, az 5. § (1) és (3) bekezdése és a 2. és a 3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 3. § (1) és (2) bekezdése és az 5. § (1) és (2) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
@@ -123,3 +135,4 @@ A művészeti képzési terület, ezen keresztül az innovációt támogatni ké
 | 1 | Budapest | 7599/2 | 2/2 | kivett irodaház |
 | 2 | Budapest | 8398/3 | 1/1 | kivett múzeum |
 | 3 | Budapest | 8398/2 | 1/1 | kivett beépítetlen terület |
+| 4 | Budapest | 7488 | 1/1 | kivett épület |
