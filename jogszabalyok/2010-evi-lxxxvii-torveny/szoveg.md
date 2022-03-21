@@ -358,6 +358,8 @@ a hagyatékátadó végzés (öröklési bizonyítvány) jogerőre emelkedését
 
 (8) Ha a haszonbérleti szerződés alapján a használati jogosultság megszerzéséért a haszonbérlő ellenértéket fizetett, annak a haszonbérleti jogviszony – haszonbérleti szerződés szerinti – teljes időtartamából egy évre arányosan számított részét az évente fizetendő haszonbér összegébe bele kell számítani.
 
+(8a) Ha az állam tulajdonában álló és haszonbérbe adással hasznosított ingatlan nemzetgazdasági szempontból kiemelt jelentőségű beruházással érintett területen helyezkedik el, vagy nemzetgazdasági szempontból kiemelt jelentőségű beruházással érintett terület cserével történő megszerzéséhez szükséges, az NFK a haszonbérleti szerződés lejárati idő előtti megszüntetése érdekében a haszonbérlővel kompenzációs megállapodást köthet. A kompenzáció összegét az e törvény végrehajtására kiadott kormányrendeletben foglaltak szerint kell megállapítani.
+
 (9) Az egykori Rozmaring Mezőgazdasági Termelőszövetkezet működési területén kárpótlásra váró személyek helyzetének rendezéséről szóló 2021. évi CXLV. törvény alapján az NFK kompenzációs tulajdonszerzési szerződést köt.
 
 19. § (1) A Nemzeti Földalapba tartozó földrészlet hasznosítására irányuló szerződés nem köthető azzal, aki
@@ -609,6 +611,7 @@ adható.
 - d) a rábízott földvagyon és az ahhoz kapcsolódó bevételek és kiadások elszámolásának a szabályait, továbbá a rábízott földvagyon könyvvezetése és a beszámoló készítésének sajátosságait.
 - e) a 3. § (3) bekezdés hatálya alá tartozó ingatlanok hasznosításával kapcsolatos tulajdonosi joggyakorlás eljárásrendjének részletes szabályait.
 - f) a Nemzeti Földalapba tartozó földrészletek közfoglalkoztatási program megvalósítása céljából az önkormányzatok számára történő vagyonkezelésbe adásának szabályait;
+- g) a 18. § (8a) bekezdése szerinti kompenzáció meghatározásának szabályait.
 
 (2)
 

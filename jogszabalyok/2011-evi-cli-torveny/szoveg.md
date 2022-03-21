@@ -416,11 +416,11 @@ indítványa alapján elvi véleményt nyilvánít.
 
 (4) Az Alkotmánybíróság a bírói döntés megsemmisítése esetén megsemmisítheti a döntéssel felülvizsgált más bírósági vagy hatósági döntéseket is.
 
-44. § (1) Az Alkotmánybíróságnak az Alaptörvény, az Alaptörvény módosítása és a jogszabály megsemmisítéséről, a jogszabály hatálybalépésének ideiglenes felfüggesztéséről, az Országgyűlés népszavazás elrendelésével összefüggő határozatának vizsgálatáról, a köztársasági elnök tisztségtől való megfosztásáról, valamint az Alaptörvény értelmezéséről szóló határozatát a Magyar Közlönyben közzé kell tenni. Az Alkotmánybíróság elrendelheti más határozatának vagy végzésének a Magyar Közlönyben való közzétételét is.
+44. § (1) Az Alkotmánybíróságnak az Alaptörvény, az Alaptörvény módosítása és a jogszabály megsemmisítéséről, a jogszabály hatálybalépésének ideiglenes felfüggesztéséről, az Országgyűlés népszavazás elrendelésével összefüggő határozatának vizsgálatáról, a köztársasági elnök tisztségtől való megfosztásáról, valamint az Alaptörvény értelmezéséről szóló határozatát a Magyar Közlönyben közzé kell tenni. Az Alkotmánybíróság elrendelheti más határozatának vagy végzésének a Magyar Közlönyben való közzétételét is. Az Alkotmánybíróság határozatait és végzéseit az Alkotmánybíróság Határozatai hivatalos lapban is közzé kell tenni.
 
 (2) Az Alkotmánybíróság határozatai az Alkotmánybíróság Hivatalának honlapján digitális formában, bárki számára, személyazonosítás nélkül, korlátozástól mentesen, díjmentesen hozzáférhetőek. A határozatok közzétételére a bíróságok szervezetéről és igazgatásáról szóló törvény bírósági határozatok nyilvánosságára vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
-45. § (1) A megsemmisített jogszabály vagy jogszabályi rendelkezés az Alkotmánybíróság megsemmisítésről szóló határozatának a hivatalos lapban való közzétételét követő napon hatályát veszti, és e naptól nem alkalmazható, a kihirdetett, de hatályba nem lépett jogszabály pedig nem lép hatályba.
+45. § (1) A megsemmisített jogszabály vagy jogszabályi rendelkezés az Alkotmánybíróság megsemmisítésről szóló határozatának a Magyar Közlönyben vagy az Alkotmánybíróság Határozatai hivatalos lapban – amennyiben ez utóbbi esetben történő közzétételre a Magyar Közlönyt megelőzően kerül sor – való közzétételét követő napon hatályát veszti, és e naptól nem alkalmazható, a kihirdetett, de hatályba nem lépett jogszabály pedig nem lép hatályba.
 
 (1a) Az Alkotmánybíróság az Alaptörvény 24. cikk (6) bekezdés b) pontja szerinti esetben az Alaptörvényt vagy az Alaptörvény módosítását a kihirdetésére visszamenőleges hatállyal semmisíti meg.
 

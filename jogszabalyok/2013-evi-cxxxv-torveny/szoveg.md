@@ -138,7 +138,7 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 
 (2) Az egyetemlegességre alapozott követelésekkel kapcsolatban a kötelezettek egymással való együttműködésének részletes szabályait az Integrációs Szervezet szabályzatban határozza meg.
 
-(3) Az Integrációs Szervezetben fennálló tagság megszűnése esetén a volt tag vonatkozásában az Integrációs Szervezet és annak tagjai helytállási kötelezettsége a volt tag által a tagság megszűnése időpontjától vállalt kötelezettségekre nem terjed ki. Az a szervezet, amelynek Integrációs Szervezetben fennálló tagsága bármely okból megszűnik, az Integrációs Szervezettel és annak tagjaival szemben az Integrációs Szervezetben fennálló tagság megszűnésének időpontjáig keletkezett és az Integrációs Szervezeti tagsága megszűnése időpontjától számított 730 napon belül benyújtott igényekért felel. Az Integrációs Szervezet és annak tagjai a volt tag Integrációs Szervezetben fennálló tagságának megszűnése időpontjáig keletkezett és a volt tag Integrációs Szervezeti tagsága megszűnése időpontjától számított 730 napon belül benyújtott igényekért felelnek a volt tag tartozásaiért. A volt tag tekintetében az illetékes hatóság, illetve bíróság a tőkekövetelmények fennállásának teljesítése körében az Integrációs Szervezetben fennálló tagsága megszűnése időpontjától számított 730 napig nem veheti figyelembe a volt tagnak a tagsági jogviszonya megszűnésekor – kilépés esetén a kilépési szándéknyilatkozat Integrációs Szervezethez történő benyújtásakor – fennállt saját tőke értékét.
+(3) Az Integrációs Szervezet tagjának egyetemleges felelőssége az Integrációs Szervezetből történő kilépésével a kilépést megelőzően keletkezett kötelezettségek tekintetében megszűnik, továbbá a kilépést követően a volt tag vonatkozásában az Integrációs Szervezet és annak tagjai helytállási kötelezettsége a volt tag által vállalt kötelezettségekre nem terjed ki.
 
 #### 5. Az Integrációs Szervezet szervezete
 
@@ -431,7 +431,7 @@ a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgy�
 (5) A kilépési szándékát bejelentett tag az alábbi feltételek együttes teljesülése esetén léphet ki az Integrációs Szervezetből:
 
 - a)
-- b) a kilépni kívánó tag az Integrációs Szervezettel és annak tagjaival elszámolt, azok felé tartozással nem rendelkezik, ide nem értve azt az esetet, ha nála az Integrációs Szervezet valamely tagja betétet helyezett el, vagy az 5/A. §-ban meghatározott egyetemleges felelősség körében fennálló függő kötelezettséget,
+- b) a kilépni kívánó tag az Integrációs Szervezettel és annak tagjaival elszámolt, azok felé tartozással nem rendelkezik, ide nem értve azt az esetet, ha nála az Integrációs Szervezet valamely tagja betétet helyezett el,
 - c) teljesültek a kilépés vonatkozásában az Integrációs Szervezet kilépéskor hatályos alapszabályában meghatározott feltételek,
 - d)
 

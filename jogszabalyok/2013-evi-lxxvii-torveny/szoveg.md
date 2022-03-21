@@ -165,7 +165,7 @@ tartalmazza.
 
 (3)
 
-(3a) Ha a felnőttképzési államigazgatási szerv a szakértői tevékenység folytatását megtiltja és a felnőttképzési szakértőt ezzel egyidejűleg törli a felnőttképzési szakértők nyilvántartásából, a felnőttképzési szakértő a felnőttképzési szakértői tevékenység megtiltásáról rendelkező határozat véglegessé válásától számított három évig felnőttképzési szakértői tevékenység folytatására irányuló bejelentés alapján nem vehető nyilvántartásba.
+(3a) Ha a felnőttképzési államigazgatási szerv a szakértői tevékenység folytatását megtiltja és a felnőttképzési szakértőt ezzel egyidejűleg törli a felnőttképzési szakértők nyilvántartásából, a felnőttképzési szakértő a felnőttképzési szakértői tevékenység megtiltásáról rendelkező határozat véglegessé válásától számított három évig felnőttképzési szakértői tevékenység folytatására irányuló bejelentés alapján nem vehető nyilvántartásba, ide nem értve azt az esetet, ha a szakértő törlésére a továbbképzési kötelezettség nem teljesítése miatt került sor.
 
 (4) A felnőttképzési államigazgatási szervnek a felnőttképzési szakértők nyilvántartása vezetésével összefüggő, továbbá az (1) bekezdésben meghatározott eljárásával, illetve döntésével összefüggésben a felügyeleti szerv számára az általános közigazgatási rendtartásról szóló törvényben meghatározott jogköröket a felnőttképzésért felelős miniszter gyakorolja.
 

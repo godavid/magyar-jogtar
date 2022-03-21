@@ -182,8 +182,9 @@ tartozása van, vagy
 (4) Az (1) bekezdés szerinti hatósági hozzájárulásra vonatkozó rendelkezést
 
 - a) a bányászati joggal rendelkező gazdálkodó szervezetek jogutódlása,
-- b) a bányászati joggal rendelkező gazdasági társaságok tulajdonrészének visszterhes és ingyenes átruházása, valamint
-- c) a bányászati jog eredeti szerzésmód keretében történő megszerzése
+- b) a nyilvánosan működő részvénytársaság kivételével a bányászati joggal rendelkező gazdasági társaságok tulajdonrészének visszterhes és ingyenes átruházása,
+- c) a bányászati joggal rendelkező nyilvánosan működő részvénytársaság részvényeinek 25%-át meghaladó mértékű visszterhes és ingyenes átruházása, valamint
+- d) a bányászati jog eredeti szerzésmód keretében történő megszerzése
 
 esetében is alkalmazni kell.
 
@@ -2138,6 +2139,10 @@ rendeletben történő megállapítására.
 50/F. § A bányászatról szóló 1993. évi XLVIII. törvény módosításáról szóló 2010. évi IV. törvény hatálybalépésekor vízjogi vagy bányafelügyelet által kiadott engedély alapján geotermikus energiát kutatók, kinyerők és hasznosítók az engedély alapján, az abban meghatározott ideig és feltételek szerint a tevékenységüket tovább folytathatják, illetve kutatási engedély esetén a kutatási zárójelentés elfogadását követően kezdeményezhetik a bányafelügyeletnél a geotermikus védőidom megállapítását.
 
 50/G. § A 26/A. §-nak az energetikai tárgyú törvények módosításáról szóló 2017. évi LXXV. törvénnyel megállapított módosításait a folyamatban lévő ügyekben is alkalmazni kell.
+
+50/H. § (1) A 6. § (4) bekezdése szerinti hatósági hozzájárulást a 2021. július 9-ét követően a bányászati joggal rendelkező nyilvánosan működő részvénytársaság részvényeinek visszterhes és ingyenes átruházásával történő szerződéskötése esetén megadottnak kell tekinteni, ha az átruházási folyamat az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény és egyéb törvények módosításáról szóló 2022. évi I. törvénnyel (a továbbiakban: Módtv8.) megállapított 6. § (4) bekezdése hatálybalépésének napjáig lezárult.
+
+(2) E törvénynek a Módtv8.-cal megállapított 6. § (4) bekezdését a Módtv8. hatálybalépésekor folyamatban lévő bányászati joggal rendelkező nyilvánosan működő részvénytársaság részvényeinek visszterhes és ingyenes átruházási folyamataira is alkalmazni kell.
 
 51. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
