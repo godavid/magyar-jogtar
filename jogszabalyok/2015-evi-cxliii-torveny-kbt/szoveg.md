@@ -2104,7 +2104,7 @@ ajánlattevőt kell ajánlattételre felhívnia.
 
 - a) tankönyv beszerzésére, amennyiben arra a nemzeti köznevelésről szóló törvényben meghatározottak szerint, az iskolai tankönyvellátás keretében kerül sor és a tankönyv szerepel a tankönyvjegyzékben;
 - b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény alapján gyermekotthonban, illetve lakásotthonban elhelyezett gyermekek teljes ellátására, illetve utógondozói ellátásban részesülők, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 59–85/A. §-ában szabályozott szociális szolgáltatások körében ellátottak teljes ellátására szolgáló árubeszerzés és szolgáltatás megrendelése esetén;
-- c) a 3. melléklet szerinti szállodai és éttermi szolgáltatásokra, a 79995000-5-től 79995200-7-ig tartó CPV kódok által meghatározott könyvtárkezelési szolgáltatásokra, a 92000000-1-től 92700000-8-ig tartó CPV kódok által meghatározott, a pihenés, kultúra és sport területén nyújtott szolgáltatásokra, valamint a jogi szolgáltatásokra;
+- c) a 3. melléklet szerinti egészségügyi szolgáltatásra akkor, ha az ellátási kötelezettség körébe tartozó, részben vagy egészben közfinanszírozott közszolgáltatás teljesítését szolgálja, a 3. melléklet szerinti szállodai és éttermi szolgáltatásokra, a 79995000-5-től 79995200-7-ig tartó CPV kódok által meghatározott könyvtárkezelési szolgáltatásokra, a 92000000-1-től 92700000-8-ig tartó CPV kódok által meghatározott, a pihenés, kultúra és sport területén nyújtott szolgáltatásokra, valamint a jogi szolgáltatásokra;
 - d) a 3. melléklet szerinti bármely szolgáltatásra, ha annak becsült értéke a tizennyolcmillió forintot nem éri el;
 - e) nemzetközi fejlesztési együttműködési és nemzetközi humanitárius segítségnyújtási tevékenység keretében történő beszerzésre;
 - f) a hideg élelmiszer és főzési alapanyag, friss, illetve feldolgozott zöldség és gyümölcs, tej és tejtermék, gabonafélék, kenyér és pékáru, méz, tojás, kertészeti növény beszerzésére;
@@ -2124,6 +2124,7 @@ ajánlattevőt kell ajánlattételre felhívnia.
 - t) a védett munkahelyen, megváltozott munkaképességű személyek által előállított áruk, vagy teljesített szolgáltatások beszerzésére;
 - u) mezőgazdasági termelő, kutató tevékenység során felhasználásra kerülő 24400000-8-tól 24457000-2-ig tartó CPV kódok által meghatározott termésnövelő anyagok és engedélyezett növényvédő szerek beszerzésére;
 - v) kutatás-fejlesztési vagy innovációs tevékenység végzéséhez közvetlenül kapcsolódó, speciálisan az ilyen tevékenység megvalósítását szolgáló áruk és szolgáltatások beszerzésére;
+- w) az ideiglenes védelemre jogosultként elismert személyek ellátásával összefüggő egyes beszerzésekre vonatkozó sajátos szabályokról szóló kormányrendelet szerint megvalósított árubeszerzésre, szolgáltatás megrendelésre és háromszázmillió forint becsült értéket el nem érő építési beruházásra;
 - x) olyan beszerzés esetén, ahol a szerződésben foglalt feladatot az 5. § (1) bekezdése vagy a 7. § (1)–(2) bekezdése szerinti ajánlatkérő vagy az említett ajánlatkérők társulása vagy a 6. § (1)–(2) bekezdésében meghatározott tevékenységet végző más jogi személy jogszabályban vagy hatósági határozatban – az EUMSZ-szel összhangban – meghatározott kizárólagos jog alapján teljesíti;
 - y) az éves nettó 10 millió forintot meg nem haladó árbevételű start szövetkezet által előállított áruk, teljesített szolgáltatások, illetve építési beruházások beszerzésére;
 - z) a Kossuth-díjról és a Széchenyi-díjról szóló 1990. évi XII. törvény, valamint Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény alapján a Köztársasági Elnöki Hivatal által ellátott feladatok megvalósítása érdekében történő beszerzés esetén.
@@ -2429,7 +2430,7 @@ rövidebb időtartamban. A több szakaszból álló eljárások részvételi sza
 
 (6) Az ajánlatkérő a szerződést az ajánlati kötöttség (5) bekezdés szerinti időtartama alatt köteles megkötni. Ha e törvény másként nem rendelkezik, nem köthető meg azonban a szerződés az írásbeli összegezés – ha az összegezés javítására kerül sor és az eljárás eredményességére, az ajánlat érvényességére vagy az értékelés eredményére vonatkozó adat módosul, a módosított összegezés – megküldése napját követő tíz napos időtartam lejártáig, a 115. § szerinti eljárás esetén az írásbeli összegezés megküldése napját követő öt napos időtartam lejártáig.
 
-(7) Ha jogorvoslati kérelmet [148. § (2) bekezdés] vagy kezdeményezést [152. §] nyújtanak be, a szerződést – a (3) bekezdés szerinti esetben a jogorvoslati eljárással érintett részre vonatkozó szerződést – az ügy érdemében hozott vagy a közbeszerzési ügy befejezését eredményező határozat meghozataláig nem lehet megkötni, kivéve, ha a Közbeszerzési Döntőbizottság a szerződés megkötését engedélyezi [156. § (4) bekezdés]. Ha időközben a nyertes ajánlattevő ajánlati kötöttsége lejárt, az ajánlatkérő akkor köthet vele szerződést, ha a nyertes ajánlattevő nyilatkozik, hogy ajánlatát fenntartja.
+(7) Ha jogorvoslati kérelmet [148. § (2) bekezdés] vagy kezdeményezést [152. §] nyújtanak be, a szerződést – a (3) bekezdés szerinti esetben a jogorvoslati eljárással érintett részre vonatkozó szerződést – az ügy érdemében hozott vagy a közbeszerzési ügy befejezését eredményező határozat meghozataláig nem lehet megkötni, kivéve, ha a Közbeszerzési Döntőbizottság – vagy a Közbeszerzési Döntőbizottság végzésével szemben indított közigazgatási perben a bíróság – a szerződés megkötését engedélyezi [156. § (4) bekezdés]. Ha időközben a nyertes ajánlattevő ajánlati kötöttsége lejárt, az ajánlatkérő akkor köthet vele szerződést, ha a nyertes ajánlattevő nyilatkozik, hogy ajánlatát fenntartja.
 
 (8) A (6) bekezdéstől eltérően az ott rögzített tíz-, illetve ötnapos időtartam letelte előtt is megköthető a szerződés,
 
@@ -2875,9 +2876,9 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 
 (3) A közbeszerzési eljárás felfüggesztése a felhívásban előírt és folyamatban lévő határidőket a felfüggesztés időtartamával meghosszabbítja.
 
-(4) Ha halasztást nem tűrő kiemelkedően fontos érdek vagy közérdek (ideértve a nemzetgazdasági okot) védelme indokolja, a Közbeszerzési Döntőbizottság az ajánlatkérő kérelmére végzéssel engedélyezheti a szerződés megkötését, ha annak előnyei meghaladják a szerződéskötéssel járó hátrányokat. A kérelemben a halasztást nem tűrő kiemelkedően fontos érdeket vagy közérdeket (nemzetgazdasági okot) meg kell jelölni, valamint a kérelem benyújtásával egyidejűleg a Közbeszerzési Döntőbizottság rendelkezésére kell bocsátani a kérelem benyújtását megalapozó indok igazolására szolgáló dokumentumokat. E bekezdés alkalmazásában közérdek különösen a közszolgáltatási tevékenység ellátásbiztonsága folyamatosságának fenntartása. A Közbeszerzési Döntőbizottság a kérelemről annak beérkezésétől számított öt napon belül dönt, a végzés ellen jogorvoslatnak nincs helye.
+(4) Ha halasztást nem tűrő kiemelkedően fontos érdek vagy közérdek (ideértve a nemzetgazdasági okot) védelme indokolja, a Közbeszerzési Döntőbizottság az ajánlatkérő kérelmére végzéssel engedélyezheti a szerződés megkötését, ha annak előnyei meghaladják a szerződéskötéssel járó hátrányokat. A kérelemben a halasztást nem tűrő kiemelkedően fontos érdeket vagy közérdeket (nemzetgazdasági okot) meg kell jelölni, valamint a kérelem benyújtásával egyidejűleg a Közbeszerzési Döntőbizottság rendelkezésére kell bocsátani a kérelem benyújtását megalapozó indok igazolására szolgáló dokumentumokat. E bekezdés alkalmazásában közérdek különösen a közszolgáltatási tevékenység ellátásbiztonsága folyamatosságának fenntartása. A Közbeszerzési Döntőbizottság a kérelemről annak beérkezésétől számított öt napon belül dönt, a végzés ellen önálló jogorvoslatnak van helye.
 
-(5) A Közbeszerzési Döntőbizottság haladéktalanul gondoskodik a szerződés megkötését engedélyező végzésének a Közbeszerzési Hatóság honlapján történő közzétételéről.
+(5) A Közbeszerzési Döntőbizottság haladéktalanul gondoskodik a szerződés megkötését engedélyező végzésének, vagy annak megtámadása esetén a közigazgatási perben hozott bírósági határozatnak a Közbeszerzési Hatóság honlapján történő közzétételéről.
 
 ### Az Európai Bíróság előzetes döntéshozatali eljárásának kezdeményezése
 
@@ -3083,9 +3084,19 @@ figyelembe veszi. A bírság összegének megállapításakor figyelembe kell ve
 
 ### Jogorvoslat a Közbeszerzési Döntőbizottság döntése ellen
 
-169. § (1) Ha az Ákr. alapján a végzés ellen önálló jogorvoslatnak van helye, a kereseti kérelmet a végzés kézbesítésétől számított nyolc napon belül a Közbeszerzési Döntőbizottsághoz kell benyújtani. A Közbeszerzési Döntőbizottság a kérelmet az ügy irataival együtt beérkezését követően haladéktalanul továbbítja a bíróságnak.
+169. § (1) Ha az Ákr., illetve e törvény alapján a végzés ellen önálló jogorvoslatnak van helye, a kereseti kérelmet – ha e törvény eltérően nem rendelkezik – a végzés kézbesítésétől számított nyolc napon belül a Közbeszerzési Döntőbizottsághoz kell benyújtani. A Közbeszerzési Döntőbizottság a kérelmet az ügy irataival együtt beérkezését követően haladéktalanul továbbítja a bíróságnak.
 
 (2) A Közbeszerzési Döntőbizottság önálló jogorvoslattal megtámadható végzése ellen indított közigazgatási perben hozott bírósági ítélet ellen felülvizsgálatnak nincs helye.
+
+(3) A 156. § (4) bekezdése szerinti végzés elleni kereseti kérelmet a végzés kézbesítésétől számított öt napon belül kell a Közbeszerzési Döntőbizottsághoz benyújtani. A keresetindítási határidő elmulasztásának kimentésére igazolási kérelem előterjesztésének nincs helye. A perben azonnali jogvédelem iránti kérelem előterjesztésének nincs helye. A 156. § (4) bekezdése szerinti végzés ellen benyújtott kereseti kérelemnek a végzés hatályosulására halasztó hatálya van.
+
+(4) A Közbeszerzési Döntőbizottság haladéktalanul gondoskodik a szerződés megkötését engedélyező végzés ellen benyújtott kereseti kérelemmel érintett eljárás ügyszámának, tárgyának, a keresetlevelet benyújtó megnevezésének és a kereseti kérelem megérkezése időpontjának a Közbeszerzési Hatóság honlapján történő közzétételéről.
+
+(5) A 156. § (4) bekezdése szerinti végzéssel szembeni keresetről a bíróság tíz napon belül határoz.
+
+(6) A 156. § (4) bekezdése szerinti végzéssel szemben indult közigazgatási perben a végzést a bíróság megváltoztathatja.
+
+(7) A 156. § (4) bekezdése szerinti végzés alapján akkor köthető meg a szerződés, ha a végzés megtámadására nyitva álló jogorvoslati határidő valamennyi jogorvoslatra jogosult tekintetében eredménytelenül telt el. A Közbeszerzési Döntőbizottság haladéktalanul gondoskodik az eredménytelenül eltelt jogorvoslati határidő napjának a Közbeszerzési Hatóság honlapján történő közzétételéről.
 
 170. § (1) A Közbeszerzési Döntőbizottság érdemi határozata ellen közigazgatási pert indíthat a 152. §-ban meghatározott szervezet vagy személy is. A közigazgatási per megindításának indoka nemcsak a Közbeszerzési Döntőbizottság jogszabálysértése lehet, hanem az a körülmény is, ha a felperes szerint a Közbeszerzési Döntőbizottság nem megfelelően értékelte, minősítette a kérelmezett korábbi eljárását, döntését e törvény szabályaira tekintettel.
 
@@ -3654,6 +3665,7 @@ indult eljárásban kell alkalmazni.
 - 21. a tömeges bevándorlás okozta válsághelyzettel összefüggő intézkedésekhez kapcsolódó beszerzésekre vonatkozó sajátos szabályokat;
 - 22. a felelős akkreditált közbeszerzési szaktanácsadók tevékenységére, a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező közbeszerzési gyakorlatra és annak igazolására, a felelős akkreditált közbeszerzési szaktanácsadók nyilvántartásba vételére, a nyilvántartásba vétel folyamatára, a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékére, annak vezetésére, a névjegyzékbe vétel feltételeire, a felelős akkreditált közbeszerzési szaktanácsadók szakmai testületére, valamint a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat;
 - 23. a közétkeztetés tárgyú közbeszerzések – e törvénytől az ilyen eljárások sajátosságai miatt szükséges eltérő – sajátos szabályait.
+- 24. az ideiglenes védelemre jogosultként elismert személyek ellátásával összefüggő egyes beszerzések sajátos, szükség esetén e beszerzések sajátosságai miatt e törvénytől eltérő szabályait.
 
 (2) Felhatalmazást kap a közbeszerzésekért felelős miniszter, hogy rendeletben szabályozza
 

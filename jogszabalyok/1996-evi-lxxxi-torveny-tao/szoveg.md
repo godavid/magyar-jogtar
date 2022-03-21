@@ -212,15 +212,15 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
   - h) a külföldi személyt telephellyel rendelkezőnek kell tekinteni, ha fióktelep útján végez vállalkozási tevékenységet;
   - i) a külföldi személynél munkavállalóként foglalkoztatott vagy ugyanezen tevékenységet más jogviszonyban ellátó természetes személyen keresztül történő szolgáltatásnyújtás, feltéve, hogy a szolgáltatás nyújtása egybefüggően vagy megszakításokkal bármely tizenkét hónapos időszakban meghaladja a 183 napot, azzal, hogy az összefüggő és a kapcsolódó szolgáltatásokat együttesen kell figyelembe venni,
   - j) a külföldi személyt minden esetben telephellyel rendelkezőnek kell tekinteni, ha a tevékenysége megfelel az adóügyi illetősége szerinti állam és Magyarország által a jövedelem- és vagyonadók tárgyában kötött, nemzetközi szerződés telephely fogalmának;
-- 33a. termék-diverzifikációt eredményező induló beruházás: olyan induló beruházás, amely létesítmény termékkínálatának a létesítményben addig nem gyártott termékkel történő bővítését eredményezi, de nem minősül új gazdasági tevékenység végzésére irányuló induló beruházásnak;
+- 33a.
 - 34. természeti erőforrás: a környezet védelmének általános szabályairól szóló törvényben meghatározott fogalom;
 - 34/a. üzemkörön kívüli ingatlan: az az ingatlan, amely nincs az adózó vállalkozási tevékenységével közvetlen összefüggésben; ilyennek minősül különösen az üzemen belüli lakóépület, valamint az elsődlegesen jóléti célt szolgáló épület, építmény;
 - 34b. uniós szabvány:
   - a) olyan kötelező uniós szabvány, amely az egyes vállalkozások által elérendő szinteket ír elő a környezeti mutatókra nézve; vagy
   - b) az ipari kibocsátásokról (a környezetszennyezés integrált megelőzése és csökkentése) szóló 2010. november 24-i 2010/75/EU európai parlamenti és tanácsi irányelvben rögzített, az elérhető legjobb technikák használatára és annak biztosítására vonatkozó kötelezettség, hogy a szennyező anyagok kibocsátási szintje ne haladja meg az elérhető legjobb technikák alkalmazásával elérhető szintet; azokban az esetekben, amelyeknél az elérhető legjobb technikák szerinti kibocsátási szinteket az ipari kibocsátásokról (a környezetszennyezés integrált megelőzése és csökkentése) szóló 2010. november 24-i 2010/75/EU európai parlamenti és tanácsi irányelv értelmében elfogadott végrehajtási jogi aktusokban határozták meg, akkor azok a szintek alkalmazandók; amennyiben az említett szinteket tartományban állapítják meg, az a korlát alkalmazandó, amelynél az elérhető legjobb technikákat elérték;
 - 35. üzletvezetés helye: az a hely, ahol az ügyvezetés az irányításra berendezkedett;
-- 35a. új eljárási innovációt eredményező induló beruházás: a regionális állami támogatásokról (2014–2020) szóló 2013/C 209/01 számú európai bizottsági iránymutatás 15. pontja szerinti olyan induló beruházás, amelynek célja a meglévő létesítmények új eljárási innovációkkal történő diverzifikációja, de nem minősül új gazdasági tevékenység végzésére irányuló induló beruházásnak;
-- 36. új gazdasági tevékenység végzésére irányuló induló beruházás: az az induló beruházás, amely új létesítmény létrehozatalát vagy meglévő létesítmény tevékenységének olyan új tevékenységgel történő bővítését eredményezi, amely nem minősül a korábban végzett tevékenységgel azonos vagy hasonló tevékenységnek, valamint az olyan létesítmény eszközeinek eladótól független, harmadik fél beruházó általi felvásárlása, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos vagy ahhoz hasonló tevékenységnek;
+- 35a.
+- 36.
 - 37. vagyonkezelő alapítvány: a vagyonkezelő alapítványokról szóló törvény alapján vagyonkezelő alapítványként vagy közérdekű vagyonkezelő alapítványként nyilvántartásba vett jogi személy;
 - 38.
 - 39.
@@ -1335,27 +1335,24 @@ kapcsolatban az adóévi adózás előtti eredmény terhére elszámolt ráford�
 megvalósított beruházás,
 
 - j) jelenértéken legalább 100 millió forint értékű, szabad vállalkozási zóna területén megvalósított beruházás,
-- k) jelenértéken legalább 6 milliárd forint értékű beruházás,
-- l) jelenértéken legalább 3 milliárd forint értékű munkahelyteremtést szolgáló beruházás
+- k)
+- l)
 
 üzembe helyezése és a kormányrendeletben foglaltak szerinti üzemeltetése esetén.
 
-(1a) Az (1) bekezdés a)–j) pontja esetén az adókedvezmény igénybevételének feltétele, hogy a beruházás
+(1a) Az adókedvezmény igénybevételének feltétele, hogy a beruházás olyan induló beruházásnak minősüljön, amelyet
 
-- a) olyan induló beruházásnak minősüljön, amelyet
-  - aa) kis- és középvállalkozás valósít meg, vagy
-  - ab) Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl, Közép-Dunántúl vagy Nyugat-Dunántúl régióban nagyvállalkozás valósít meg; vagy
-- b) olyan új gazdasági tevékenység végzésére irányuló induló beruházásnak minősüljön, amelyet a Közép-Magyarország régió kormányrendeletben meghatározott támogatható településein nagyvállalkozás valósít meg.
+- a) kis- és középvállalkozás valósít meg, vagy
+- b) Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl, Közép-Dunántúl, Nyugat-Dunántúl vagy Pest tervezési-statisztikai régióban nagyvállalkozás valósít meg.
 
-(1b) Az (1) bekezdés k) és l) pontja esetén az adókedvezmény igénybevételének feltétele, hogy a beruházás olyan termék-diverzifikációt eredményező induló beruházásnak vagy új eljárási innovációt eredményező induló beruházásnak minősüljön, amelyet a Közép-Magyarország régió kormányrendeletben meghatározott támogatható településein nagyvállalkozás valósít meg.
+(1b)
 
 (2) Az adókedvezményt az adózó e törvény és a kormányrendelet előírásai alapján maga állapítja meg. A (2a) bekezdésben meghatározott beruházás esetén az adózó az adókedvezményt a Kormány – Európai Bizottság engedélyén alapuló – határozata alapján, a határozatban meghatározott feltételek szerint veheti igénybe. A Kormány a határozatot az adózó kérelmére, a kérelemben bemutatott fejlesztési program és az Európai Bizottság engedélye alapján hozza meg, ha a fejlesztési program és a kérelem megfelel az e törvényben és a kormányrendeletben meghatározott valamennyi feltételnek.
 
 (2a) Az adókedvezmény igénybevételének feltétele a Kormány – Európai Bizottság engedélyén alapuló – határozata, ha
 
-- a) a beruházáshoz igényelt összes állami támogatás meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszegű elszámolható költségű beruházás kaphat;
-- b) kis- és középvállalkozás által a Közép-Magyarország régióban (ide nem értve a Közép-Magyarország régió kormányrendeletben meghatározott támogatható településeit) megvalósított beruházáshoz igényelt összes állami támogatás jelenértéken, adózónként meghaladja a 7,5 millió eurónak megfelelő forintösszeget;
-- c) az adózó az (1) bekezdés k) vagy l) pontja szerinti beruházást valósít meg.
+- a) a beruházáshoz igényelt összes állami támogatás meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszegű elszámolható költségű beruházás kaphat,
+- b) kis- és középvállalkozás által Budapesten megvalósított beruházáshoz igényelt összes állami támogatás jelenértéken, adózónként meghaladja a 7,5 millió eurónak megfelelő forintösszeget.
 
 (2b) Az adózó a (2a) bekezdésben meghatározott esetekben az adókedvezmény iránti kérelmet a kormányrendeletben előírt formában és tartalommal az adópolitikáért felelős miniszterhez nyújtja be. A kérelmet a benyújtást, hiánypótlás esetén a hiánypótlás benyújtását követő 90 napon belül kell a Kormány elé terjeszteni; a határidő egy alkalommal, legfeljebb 90 nappal meghosszabbítható. A (2a) bekezdésben felsorolt esetekben, a kérelem Kormány elé terjesztését megelőzően az adópolitikáért felelős miniszter – az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet szabályaival összhangban – megkéri az Európai Bizottság engedélyét, azzal, hogy az ügyintézési határidőbe nem számít bele az Európai Bizottság megkeresésének napjától az Európai Bizottság válaszának megérkezéséig terjedő időtartam. Ha a kérelem nem felel meg a kormányrendeletben előírt formának vagy tartalomnak, és az adózó a hiányt felszólítás ellenére nem pótolja, az adópolitikáért felelős miniszter határozatban elutasítja a kérelmet.
 
@@ -1374,7 +1371,7 @@ megvalósított beruházás,
 
 (8) Az (1) bekezdés d) pontja szerinti önálló környezetvédelmi beruházás esetén az adókedvezmény igénybevételének feltétele, hogy az adózó adókötelezettsége a kérelem, a bejelentés benyújtása évét megelőző ötödik évben vagy korábban kezdődött.
 
-(9) Az (1) bekezdés a), b), i), k) és l) pontja szerinti beruházás esetén az adókedvezmény igénybevételének további feltétele, hogy az adókedvezmény első igénybevételének adóévét követő négy adóévben az adózó által foglalkoztatottak átlagos állományi létszáma (a külföldi telephelyen foglalkoztatott létszám figyelmen kívül hagyásával) ne csökkenjen a beruházás megkezdését megelőző három adóév adataiból számított számtani átlagnak megfelelő foglalkoztatottak átlagos állományi létszáma alá.
+(9) Az (1) bekezdés a), b) és i) pontja szerinti beruházás esetén az adókedvezmény igénybevételének további feltétele, hogy az adókedvezmény első igénybevételének adóévét követő négy adóévben az adózó által foglalkoztatottak átlagos állományi létszáma (a külföldi telephelyen foglalkoztatott létszám figyelmen kívül hagyásával) ne csökkenjen a beruházás megkezdését megelőző három adóév adataiból számított számtani átlagnak megfelelő foglalkoztatottak átlagos állományi létszáma alá.
 
 (10) Kizárólag film- és videogyártást szolgáló beruházás esetén az adókedvezmény igénybevételének további feltétele, hogy az adózó a beruházás üzembe helyezését követő öt évben az üzembe helyezett tárgyi eszköz igénybevételével nem állít elő olyan filmet, amelyet a médiaszolgáltatásokról és tömegkommunikációról szóló 2010. évi CLXXXV. törvény 9. §-a alapján a VI. kategóriába kellene sorolni.
 
@@ -1566,9 +1563,10 @@ a támogatás adóévében megfizetni.
 
 (2) Az adózó által igénybe vehető adókedvezmény mértéke nem haladhatja meg adózónként, továbbá beruházásonként, felújításonként, a beruházáshoz, felújításhoz igényelt összes állami támogatással együttesen, jelenértéken a beruházás, felújítás elszámolható költsége
 
-- a) Közép-Magyarország régió kormányrendelet szerint nem támogatható településein 30 százalékának,
-- b) Közép-Magyarország régió kormányrendeletben meghatározott támogatható településein 35 százalékának,
-- c) Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl, Közép-Dunántúl vagy Nyugat-Dunántúl régióban 45 százalékának megfelelő mértéket, de legfeljebb a 15 millió eurónak megfelelő forintösszeget.
+- a) Budapesten 30 százalékának,
+- b) Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl, Közép-Dunántúl, Nyugat-Dunántúl vagy Pest tervezési-statisztikai régióban 45 százalékának
+
+megfelelő mértéket, de legfeljebb a 15 millió eurónak megfelelő forintösszeget.
 
 (3) Az adókedvezmény (2) bekezdés szerinti mértéke kisvállalkozásoknak nyújtott támogatás esetén 20 százalékponttal, középvállalkozásoknak nyújtott támogatás esetében 10 százalékponttal növelhető.
 
@@ -1587,7 +1585,7 @@ a támogatás adóévében megfizetni.
 
 - a) ha az adózó a fejlesztést azért hajtja végre, hogy a beruházás, felújítás megkezdésének időpontjában már elfogadott uniós szabványoknak feleljen meg, még akkor sem, ha az uniós szabványok még nem léptek hatályba;
 - b) ha az adózó nem teljesíti az e törvényben és az energiahatékonysági célokat szolgáló beruházás adókedvezményének végrehajtási szabályairól szóló kormányrendeletben foglalt feltételeket;
-- c) ha az adózó nehéz helyzetben lévő társaság, bíróság által jogerősen elrendelt felszámolás vagy kényszertörlési eljárás alatt áll, vagy végelszámolását bejelentette a bírósághoz;
+- c) ha az adózó nehéz helyzetben lévő társaság – kivéve, ha 2019. december 31-én nem volt nehéz helyzetben, de 2020. január 1-je és 2021. december 31-e között nehéz helyzetbe került, azzal, hogy e kivételt az adózó akkor is figyelembe veheti, ha beruházásának, felújításának megkezdésekor e kivétel nem volt hatályos –, bíróság által jogerősen elrendelt felszámolás vagy kényszertörlési eljárás alatt áll, vagy végelszámolását bejelentette a bírósághoz;
 - d) a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben meghatározott akvakultúra-termékek termelését, feldolgozását és értékesítését szolgáló beruházáshoz, felújításhoz;
 - e) ha az adózóval szemben teljesítetlen visszafizetési felszólítás van érvényben olyan európai bizottsági határozat eredményeként, amely valamely támogatást jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánított.
 - f) ha a beruházás, a felújítás tárgya a 4. § 31/c. pontja szerinti személygépkocsi, kivéve a vegyes használatú, 2500 kg-ot meg nem haladó megengedett együttes tömegű olyan gépjárművet, amelynek rakodótere gyárilag kialakítva kettőnél több utas szállítására alkalmas, de kézzel egyszerűen oldható ülésrögzítése révén teherszállításra bármikor átalakítható a válaszfal mögötti rakodótér, ideértve azt az esetet is, ha az ülés eltávolítására visszafordíthatatlan műszaki átalakítással került sor.
@@ -2064,7 +2062,7 @@ e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pon
 
 (60) A sportvállalkozásokat érintő egyes adózási tárgyú törvények módosításáról szóló 2017. évi CLXIII. törvénnyel megállapított 24/A. § (13a) bekezdése alapján kérelmet a sportvállalkozásokat érintő egyes adózási tárgyú törvények módosításáról szóló 2017. évi CLXIII. törvénnyel megállapított 24/A. § (13a) bekezdésének hatálybalépését követően felajánlott adóval, adóelőleggel kapcsolatos eljárások vonatkozásában lehet benyújtani.
 
-(61) A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosításáról szóló 2017. évi CLV. törvénnyel megállapított 4. § 33a. pontját, 4. § 35a. pontját, 22/B. § (1) bekezdés k) és l) pontját, (1b) bekezdését, (2a) bekezdés c) pontját és (9) bekezdését első alkalommal a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosításáról szóló 2017. évi CLV. törvény hatálybalépését követően megkezdett beruházások tekintetében lehet alkalmazni.
+(61)
 
 (62) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvénnyel megállapított 4. § 11a. pontját és 22/E. §-át első alkalommal ezen rendelkezések hatálybalépését követően megkezdett, energiahatékonysági célokat szolgáló beruházások, felújítások tekintetében lehet alkalmazni.
 
@@ -2149,6 +2147,10 @@ e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pon
 
 (100) E törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 2/A. § (2) bekezdése hatálybalépését megelőző napon csoportos társasági adóalanyiságban tagsággal rendelkező nonprofit gazdasági társaság, szociális szövetkezet, közérdekű nyugdíjas szövetkezet és iskolaszövetkezet e minőségétől függetlenül tagságát e törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 2/A. § (2) bekezdése hatálybalépését megelőző napon folyamatban lévő adóéve végéig tarthatja fenn.
 
+(101) A 22/B. § (19) bekezdésétől eltérően a fejlesztési adókedvezmény a kérelem, bejelentés benyújtásakor hatályos rendelkezéseknek megfelelően vehető igénybe azzal, hogy a 2021. december 31-ét követően benyújtott, de az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény és egyéb törvények módosításáról szóló 2022. évi I. törvénnyel (a továbbiakban: 2022. évi Módtv.) megállapított 22/B. § (1a), (2a) és (9) bekezdése, 30/A. § és 31. § (3) bekezdése hatálybalépéséig nyilvántartásba nem vett bejelentések, még nem engedélyezett kérelmek esetében e törvénynek a 2022. évi Módtv.-vel megállapított rendelkezéseit is alkalmazni kell.
+
+(102) A 2022. évi Módtv.-vel megállapított 22/E. § (2) bekezdését első alkalommal a 2021. december 31-ét követően megkezdett, energiahatékonysági célokat szolgáló beruházások, felújítások tekintetében lehet alkalmazni.
+
 29/B. § (1) A tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény (a továbbiakban: Kárrendezési Törvény) alapján a Kárrendezési Alap részére a Kárrendezési Törvény 11. § (1) bekezdése alapján befizetést teljesítő adózó által az adóévben, a Kárrendezési Törvény 11. § (2) bekezdésére figyelemmel megállapított, befizetett összeg (továbbiakban e §-ban: befizetés) csökkenti az adózó által fizetendő társasági adót, a fizetendő pénzügyi szervezetek különadóját a fizetendő pénzügyi tranzakciós illetéket.
 
 (2) A befizetést teljesítő adózó a visszajáró összeget első alkalommal a 2017. évi adókötelezettsége megállapítása során – az adókötelezettséget csökkentő tételként – veszi figyelembe az (1) bekezdés szerinti adónemekben. Az adózó a csökkentést elsőként a 2017. első negyedévére vonatkozó pénzügyi szervezetek különadója kötelezettség vonatkozásában, majd pedig az (1) bekezdés szerinti adónemekre vonatkozó adófizetési kötelezettség felmerülésének sorrendjében veszi figyelembe.
@@ -2215,7 +2217,7 @@ e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pon
 
 (8)
 
-(9) Az adózó az adóalap megállapításánál alkalmazhatja a 4. § 36. pontjának és a 7. § (1) bekezdése e) pontjának 2002. december 31-én hatályos rendelkezéseit, ha az épületet, építményt 2002. december 31-ig üzembe helyezte.
+(9)
 
 (10) Az adózó a 2002. december 31. napján hatályos 8. § (1) bekezdés i) és t) pontjában, 16. § (1) bekezdés d) és e) pontjában, 16. § (2) bekezdés d) pontjában foglalt rendelkezést alkalmazza, ha az átalakulásra vonatkozó döntést, megállapodást 2002. december 31-ig közokiratba foglalták, vagy az azt tartalmazó okiratot (így különösen a társasági szerződést, az alapszabályt, az egyesülési vagy szétválási szerződést) ezen időpontig ügyvéd (jogtanácsos) ellenjegyezte.
 
@@ -2479,7 +2481,7 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 
 ### Jogharmonizációs záradék
 
-30/A. § E törvény 4. § 23/d. pontja, 7. § (12) bekezdés b) pontja, 22/A. § (4) bekezdés b) pontja, 22/B. §-a, 1. számú melléklet 14. pontja a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014.6.26., 1. o.) 1–14. és 17. cikkei, és a cikkeket módosító, a 651/2014/EU rendeletnek a kikötői és repülőtéri infrastruktúrákra irányuló támogatás, a kultúrát és a kulturális örökség megőrzését előmozdító támogatásra és a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatásra vonatkozó bejelentési határértékek, továbbá a legkülső régiókban biztosított regionális működési támogatási programok tekintetében, valamint a 702/2014/EU rendeletnek a támogatható költségek összegének meghatározása tekintetében történő módosításáról szóló, 2017. június 14-i 2017/1084/EU bizottsági rendelet (HL L 156., 2017.6.20., 1. o.) hatálya alá tartozó támogatást tartalmaz.
+30/A. § E törvény 4. § 23/d. pontja, 7. § (12) bekezdés b) pontja, 22/A. § (4) bekezdés b) pontja, 22/B. §-a, 1. számú melléklet 14. pontja a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet 1–14. és 17. cikke, és a cikkeket módosító, a 651/2014/EU rendeletnek a kikötői és repülőtéri infrastruktúrákra irányuló támogatás, a kultúrát és a kulturális örökség megőrzését előmozdító támogatásra és a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatásra vonatkozó bejelentési határértékek, továbbá a legkülső régiókban biztosított regionális működési támogatási programok tekintetében, valamint a 702/2014/EU rendeletnek a támogatható költségek összegének meghatározása tekintetében történő módosításáról szóló, 2017. június 14-i 2017/1084/EU bizottsági rendelet, továbbá a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 651/2014/EU rendelet módosításáról szóló, 2021. július 23-i (EU) 2021/1237 bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
 
 30/B. § (1) E törvény 29/A. § (3) és (4) bekezdése
 
@@ -2531,7 +2533,7 @@ az ilyen jogcímen nyújtott támogatás a 651/2014/EU bizottsági rendelet 55. 
 - b) a nemzetközi vállalkozások és az adóhatóságok részére készült, a kapcsolt vállalkozások közötti árak módosítására vonatkozó iránymutatás;
 - c)
 
-(3) E törvény a következő uniós jogi aktus végrehajtásához szükséges rendelkezéseket állapítja meg: Iránymutatás a regionális állami támogatásokról (2014–2020).
+(3) Ez a törvény az Iránymutatás a regionális állami támogatásokról (2021/C 153/01) című bizottsági közlemény hatálya alá tartozó támogatást tartalmaz.
 
 (4) E törvény 7. § (12) bekezdése, 22/A. § (4) bekezdése és 1. számú melléklet 14. pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet 1–14. és 17. cikkei hatálya alá tartozó támogatási programot tartalmaz.
 
