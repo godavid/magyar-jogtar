@@ -132,6 +132,8 @@ A Millenáris Park mint a nemzeti és a nemzetközi együttműködést jelképez
 
 (2) Az állam képviseletében ezen alcím alkalmazása során a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter jár el.
 
+9/B. § Az Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására az Alapítvány kuratóriuma kerüljön kijelölésre.
+
 #### 8. Záró rendelkezések
 
 10. § Ez a törvény a kihirdetését követő napon lép hatályba.
