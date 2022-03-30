@@ -2384,12 +2384,12 @@ kapcsolatos részletes szabályokat a sportpolitikáért felelős miniszter egye
 | 19. | Budapest, 76561/221 | Vasas Sport Club (székhely: Budapest 1139, Fáy utca 58.) |
 | 20. | Budapest, 29834/8 (7953/10944 tulajdoni hányad arányában) | Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
 | 21. | Budapest, 29834/12 | Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
-| 22. | Budapest, 29834/15 (2000/83751 tulajdoni hányad arányában) | Budapesti Vasutas Sport Club – Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
+| 22. | Budapest, 29834/15 | BVSC – Zugló Közhasznú Egyesület (székhely: Budapest 1142, Szőnyi út 2.) |
 | 23. | Budapest, 27913/1 | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
 | 24. | Budapest, 27999 (48065/57386 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
 | 25. | Budapest, 27950/6 (12884/16684 tulajdoni hányad arányában) | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
 | 26. | Budapest, 23796/29 | Budapesti Honvéd Sportegyesület (székhely: Budapest 1134, Dózsa György út 53.) |
-| 27. | Budapest, 38826 | Magyar Lovassport Szövetség |
+| 27. | Budapest, 38826 | Magyar Lovassport Szövetség (székhely: Budapest 1087, Kerepesi út 7. Nemzeti Lovarda) |
 | 28. | Budapest, 38295/1, valamint ebből az ingatlanból a telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanok | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
 | 29. | Budapest, 38295/2, valamint ebből az ingatlanból a telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanok | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
 | 30. | Budapest, 38295/3, valamint ebből az ingatlanból a telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanok | Ferencvárosi Torna Club (székhely: Budapest 1091, Üllői út 129.) |
