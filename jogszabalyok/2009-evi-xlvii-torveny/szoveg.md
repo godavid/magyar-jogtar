@@ -66,16 +66,23 @@ azonosítása.
   - ag) előző családi és utónevét,
   - ah) állampolgárságát, előző állampolgárságát, valamint
   - ai) lakcímét, továbbá annak megváltozása esetén előző lakcímét (a továbbiakban együtt: személyazonosító adatok),
-- b) az érintett arcképmását, ha a nyilvántartásba vétel e törvényben meghatározott feltételei fennállnak,
+- b) az érintett
+  - ba) arcképmását, ha a nyilvántartásba vétel e törvényben meghatározott feltételei fennállnak, valamint
+  - bb) szemből készített arcképmásához rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot (a továbbiakban: technikai kapcsoló szám),
 - c) a kapcsolati kódot,
 - d) a halál tényét és időpontját,
 - e) a belső azonosító kódot,
 - f) a szakrendszeri azonosító kódot, valamint
 - g) azt a tényt, hogy a DNS-profil-nyilvántartásban szerepel-e az érintetthez tartozó kettő darab, a jogszabályban meghatározott feltételeknek megfelelő DNS-profil.
 
-(3) A bűnügyi nyilvántartó szerv a (2) bekezdés a) és b) pontjában meghatározott adatok nyilvántartásba vételével egyidejűleg kapcsolati kódot képez.
+(3) A bűnügyi nyilvántartó szerv
 
-(4)–(5)
+- a) a (2) bekezdés a) pontjában és b) pont ba) alpontjában meghatározott adatok nyilvántartásba vételével egyidejűleg kapcsolati kódot képez,
+- b) a (2) bekezdés b) pont ba) alpontjában meghatározott adatok közül a szemből készített arcképmáshoz a nyilvántartásba vétellel egyidejűleg technikai kapcsoló számot rendel.
+
+(4)
+
+(5)
 
 4/A. § (1) Ha a bűnügyi nyilvántartási rendszer részére történő adatközlés alapján megállapítható, hogy olyan bűncselekmény miatt indult vagy folyik az érintettel szemben eljárás, illetve olyan jogerős ügydöntő határozatot hoztak vele szemben, amely miatt ujj- és tenyérnyomat, illetve DNS-profil nyilvántartásba vétele érdekében mintavételnek van helye, a bűnügyi nyilvántartó szerv
 
@@ -105,6 +112,14 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 (2) A bűnügyi nyilvántartó szerv az ujj- és tenyérnyomathoz tartozó belső azonosító kódot, illetve szakrendszeri azonosító kódot – függetlenül attól, hogy mely büntetőügyben vették le az ezekhez tartozó mintát – addig kezeli, amíg az érintettről a bűnügyi nyilvántartásokban olyan bűncselekménnyel kapcsolatban kezel adatot, amely esetében fennállnak az ujj- és tenyérnyomat nyilvántartásba vételének és a daktiloszkópiai nyilvántartásban történő nyilvántartásának a feltételei.
 
 (3) A bűnügyi nyilvántartó szerv a DNS-profilhoz tartozó belső azonosító kódot, illetve szakrendszeri azonosító kódot – függetlenül attól, hogy mely büntetőügyben vették le az ezekhez tartozó mintát – addig kezeli, amíg az érintettről a bűnügyi nyilvántartásokban olyan bűncselekménnyel kapcsolatban kezel adatot, amely esetében fennállnak a DNS-profil nyilvántartásba vételének és a DNS-profil-nyilvántartásban történő nyilvántartásának a feltételei.
+
+4/C. § (1) Ha a bűnügyi nyilvántartási rendszer részére a 6. § (3) és (4) bekezdése szerinti adatközlés érkezik, a bűnügyi nyilvántartó szerv az adatok nyilvántartásba vételével egyidejűleg az érintett arcképmásai közül a szemből készített arcképmáshoz technikai kapcsoló számot rendel.
+
+(2) A bűnügyi nyilvántartó szerv az érintett szemből készített arcképmását, az (1) bekezdés szerint képzett technikai kapcsoló számot, valamint az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott metaadatokat (a továbbiakban: metaadat), azok nyilvántartásba vétele és arckép profil képzése céljából, elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladéktalanul megküldi az arcképelemzési nyilvántartás vezetéséért felelős központi államigazgatási szervnek.
+
+(3) A bűnügyi nyilvántartó szerv az érintett arcképmásának a 4/B. § (1) bekezdés szerinti törlésével egyidejűleg elektronikus úton, egyedi informatikai alkalmazás igénybevételével megküldi az (1) bekezdés szerint képzett technikai kapcsoló számot az arcképelemzési nyilvántartás vezetéséért felelős központi államigazgatási szervnek az érintett szemből készített arcképmásának és az ahhoz rendelt technikai kapcsoló számnak, valamint a metaadatnak az arcképelemzési nyilvántartásból való törlése céljából.
+
+(4) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott igénybevételre jogosult szervek – az e törvényben meghatározott feltételekkel – a 4. § (2) bekezdés b) pont bb) alpontjában meghatározott adat közlésével is igényelhetnek adatot a nyilvántartásból.
 
 5. § (1) A bűnügyi nyilvántartó szerv az érintett személyazonosító adatait bejegyzéskor, a nyilvántartások adatainak módosításakor vagy javításakor, valamint az adatigénylés alapján vagy a kérelmező saját adatairól történő adattovábbítást megelőzően – a változások nyomon követése céljából – elektronikus úton egyedileg összehasonlítja
 
@@ -422,7 +437,15 @@ számított három évig kell nyilvántartani.
 
 kell nyilvántartani.
 
-#### 26–30. §
+#### 26. §
+
+#### 27. §
+
+#### 28. §
+
+#### 29. §
+
+#### 30. §
 
 ### A külföldre utazási korlátozás hatálya alatt állók nyilvántartása
 
@@ -954,7 +977,7 @@ részére tett nyilatkozatával tiltakozzon.
   - ja) a 11. § (1) bekezdés c) pont ca), cb) alpontjában, e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
   - jb) a 16. § (1) bekezdés c) pont ca), cb) alpontjában, f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
   - jc) a 23. § c), f) és g) pontjában meghatározott adatok;
-- k) befogadás során a terhelt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés b) pontjában foglalt adatok;
+- k) befogadás során a terhelt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés b) pont ba) alpontjában foglalt adatok;
 - l) határ-ellenőrzési feladatai ellátása során a külföldre utazás jogát korlátozó feltételek fennállásának helyszínen történő ellenőrzése céljából a 30/C. § b), c), d), e), f), g), h) és i) pontjában meghatározott adatokat;
 - m) az iskolaőr tevékenységének ellátását kizáró közbiztonsági feltételek ellenőrzése céljából
   - ma) a 11. § (1) bekezdés c) pont ca) és cb) alpontjában, e), h), i) pontjában meghatározott adatok,
@@ -978,28 +1001,28 @@ részére tett nyilatkozatával tiltakozzon.
 
 (6) A menekültügyi hatóság a menekültkénti, menedékeskénti vagy befogadottkénti elismerés vagy az elismerés visszavonása feltételei fennállásának megállapítása, továbbá az ellátási és integrációs feladatai ellátása céljából közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
-- a) a 4. § (2) bekezdés b) pontjában meghatározott adatok,
+- a) a 4. § (2) bekezdés b) pont ba) alpontjában meghatározott adatok,
 - b) a 11. § (1) bekezdés ca), cb), d), e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 - c) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
 - d) a 23. § c), f)–h) és k) pontjában meghatározott adatok.
 
 (7) Az idegenrendészeti hatóság a harmadik ország állampolgára tartózkodásának engedélyezésére, a tartózkodás feltételeinek ellenőrzésére és az engedély visszavonására irányuló eljárásában közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
-- a) a 4. § (2) bekezdés b) pontjában meghatározott adatok,
+- a) a 4. § (2) bekezdés b) pont ba) alpontjában meghatározott adatok,
 - b) a 11. § (1) bekezdés ca), cb), d), e), f), h), i), a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 - c) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok,
 - d) a 23. § c), f)–h) és k) pontjában meghatározott adatok.
 
 (7a) Az idegenrendészeti hatóság az EGT-állampolgár vagy harmadik országbeli állampolgár családtagja tartózkodási jogát igazoló okmány kiállítására, valamint a tartózkodási jog és az állandó tartózkodási jog megszűnésének megállapítására irányuló eljárásban közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
 
-- a) a 4. § (2) bekezdés b) pontjában meghatározott adatok,
+- a) a 4. § (2) bekezdés b) pont ba) alpontjában meghatározott adatok,
 - b) a 11. § (1) bekezdés ca), cb), d), e), f), h), i), a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 - c) a 16. § (1) bekezdés ca), cb), f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok,
 - d) a 23. § c), f)–h) és k) pontjában meghatározott adatok.
 
 (8) A büntetés-végrehajtási intézet közvetlen hozzáféréssel jogosult
 
-- a) az elítélt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés a) és b) pontjában foglalt adatot átvenni,
+- a) az elítélt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés a) pontjában és b) pont ba) alpontjában foglalt adatot átvenni,
 - b) a DNS-profil nyilvántartásba vételével kapcsolatos mintavételi kötelezettség fennállásának ellenőrzése céljából a 4. § (2) bekezdés e)–g) pontjában foglalt adatot átvenni, valamint
 - c) a büntetés-végrehajtási pártfogó felügyelő által a pártfogó felügyelet végrehajtása céljából közvetlen hozzáféréssel átvenni a pártfogó felügyelet hatálya alatt álló személy következő adatait:
   - ca) a 11. § (1) bekezdés c)–l) pontjában és (2) bekezdésében meghatározott adatok,
@@ -1357,7 +1380,7 @@ vonatkozóan kezelt adatot, akivel szemben külföldi bíróság tagállami ít�
 
 (2) Ha az Európai Unió más tagállamának kijelölt központi hatósága olyan magyar állampolgárról igényel adatot, akire vonatkozóan a tagállami ítéletek nyilvántartásában is szerepel adat, a bűnügyi nyilvántartó szerv adattovábbítása e nyilvántartásban kezelt adatokra is kiterjed.
 
-(2a) A megkereső tagállam kijelölt központi hatósága részére – meghatározott kérelem teljesítésének kivételével – adat csak büntetőeljárás céljából adható át.
+(2a) A megkereső tagállam kijelölt központi hatósága részére – a 80/C. §-ban meghatározott kérelem teljesítésének kivételével – adat csak büntetőeljárás céljából adható át.
 
 (3) Az adattovábbítást megelőzően – ha az lehetséges – az adatok ellenőrzésével biztosítani kell, hogy azok naprakészek és pontosak legyenek. Amennyiben utóbb megállapításra került, hogy hibás vagy hiányos adatok kerültek továbbításra, erről az adatátvevőt haladéktalanul értesíteni kell.
 
@@ -1711,9 +1734,19 @@ való megfelelést szolgálja.
 
 ### Módosuló jogszabályok
 
-#### 101–105. §
+#### 101. §
 
-106. § (1)–(2)
+#### 102. §
+
+#### 103. §
+
+#### 104. §
+
+#### 105. §
+
+106. § (1)
+
+(2)
 
 (3)
 

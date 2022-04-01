@@ -82,7 +82,11 @@ egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módos�
 
 #### 11. A kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosítása
 
-#### 30. §
+30. § A kulturális örökség védelméről szóló 2001. évi LXIV. törvény az 57. §-át követően a következő alcímmel egészül ki:
+
+„A kulturális javak behozatalára vonatkozó korlátozás
+
+58. § Tilos azon kulturális javaknak az országba történő behozatala, bejuttatása, amelyeket származási országukból a szükséges kiviteli engedélyek nélkül, vagy a kiviteli engedély kereteit túllépve juttattak külföldre.”
 
 #### 12. A jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény módosítása
 
@@ -260,21 +264,31 @@ lép.
 
 #### 99. §
 
-#### 100. §
+100. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény 357. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Az (1)–(2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekményt a tulajdonában álló külföldi védelemben részesített kulturális örökségi elemmel kapcsolatban követi el.”
 
 #### 101. §
 
-#### 102. §
+102. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény 459. § (1) bekezdése a következő 34. ponttal egészül ki:
+
+(E törvény alkalmazásában)
+
+„34. külföldi védelemben részesített kulturális örökségi elem: a 2021. évi CXXV. törvénnyel kihirdetett, az Európa Tanács kulturális örökséggel kapcsolatos bűncselekményekről szóló, Nikóziában, 2017. május 19-én kelt egyezménye
+
+a) 2. Cikk 2. bekezdés a. pontjának megfelelően minősített, meghatározott vagy megjelölt ingó kulturális örökségi elem, és
+
+b) 2. Cikk 2. bekezdés b. pontjának megfelelően meghatározott vagy megjelölt ingatlan kulturális örökségi elem.”
 
 103. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény
 
 - a)
 - b)
-- c)
-- d)
-- e)
-- f)
-- g)
+- c) 370. § (3) bekezdés b) pont bb) alpontjában a „tárgyra vagy régészeti leletre,” szövegrész helyébe a „tárgyra, régészeti leletre vagy külföldi védelemben részesített ingó kulturális örökségi elemre,” szöveg,
+- d) 371. § (3) bekezdés b) pont ba) alpontjában a „lelőhelyet vagy régészeti leletet,” szövegrész helyébe a „lelőhelyet, régészeti leletet vagy külföldi védelemben részesített kulturális örökségi elemet,” szöveg,
+- e) 372. § (3) bekezdés c) pontjában a „tárgyra vagy régészeti leletre” szövegrész helyébe a „tárgyra, régészeti leletre vagy külföldi védelemben részesített ingó kulturális örökségi elemre” szöveg,
+- f) 378. § (2) bekezdésében a „tárgyra vagy régészeti leletre követik” szövegrész helyébe a „tárgyra, régészeti leletre vagy külföldi védelemben részesített ingó kulturális örökségi elemre követik” szöveg,
+- g) 459. § (1) bekezdés 33. pontjában az „anyag.” szövegrész helyébe az „anyag,” szöveg,
 
 lép.
 

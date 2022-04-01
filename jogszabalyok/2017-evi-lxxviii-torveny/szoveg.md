@@ -2019,7 +2019,7 @@ az új tisztségviselők megbízatásának a kezdő napjáig, illetve a b) pont 
 - c) véleményt nyilvánít az ügyvédi tevékenységgel kapcsolatos kérdésekben,
 - d) vezeti az ügyvédi kamarai nyilvántartást, továbbá biztosítja az ehhez kapcsolódó műszaki- informatikai feltételeket,
 - e) gondoskodik a képzési helyek akkreditációjáról,
-- f) összeállítja a szakmai képzések és továbbképzések tematikáját,
+- f) összeállítja a szakmai képzések és továbbképzések tematikáját, dönt az ügyvédi tevékenységet folytatók továbbképzési kötelezettsége körében elfogadható képzésekről, szakmai és tudományos tevékenységekről, továbbá az ingatlan-nyilvántartási ügyben való eljárási jogosultság megszerzéséhez előírt számonkérésről,
 - g) önállóan vagy más szakmai kamarával együtt országos levéltárat (a továbbiakban: ügyvédi levéltár) működtet és tart fenn, valamint
 - h) ellátja a jogszabályban és a szabályzataiban meghatározott feladatokat.
 
@@ -2099,7 +2099,7 @@ az új tisztségviselők megbízatásának a kezdő napjáig, illetve a b) pont 
 - 18. az ügyvédi tevékenység gyakorlásához szükséges elektronikus ügyintézési feltételekről,
 - 19. az ügyvédi és ügyvédasszisztensi tevékenység kamarai hatósági ellenőrzésének részletes szabályairól,
 - 20. a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben és az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott kötelezettségek körébe tartozó feladatok teljesítéséről, felügyeleti eljárásrendről, kockázatértékelésről és útmutatóról, valamint az auditált elektronikus hírközlő eszköz és működtetésének minimum követelményeiről, auditálásának módjáról és az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtásáról,
-- 21. az ügyvédi tevékenységet folytatók továbbképzési kötelezettségéről, annak a nyilvántartásáról, a továbbképzés keretében elfogadható képzések, szakmai és tudományos tevékenységek követelményrendszeréről, valamint engedélyezésük, illetve elfogadásuk rendjéről,
+- 21. az ügyvédi tevékenységet folytatók továbbképzési kötelezettségéről, annak a nyilvántartásáról, a továbbképzés keretében elfogadható képzések, szakmai és tudományos tevékenységek követelményrendszeréről, valamint engedélyezésük, illetve elfogadásuk rendjéről, továbbá az ingatlan-nyilvántartási ügyben való jogosultság megszerzéséhez előírt továbbképzésről és számonkérésről,
 - 22. az ügyvédjelöltek és jogi előadók képzésének szabályairól, az ügyvédi tevékenység gyakorlására jogosultak, az ügyvédjelöltek és jogi előadók ezzel kapcsolatos feladatairól, valamint az ügyvédi kamaráknak az ügyvédjelöltek és jogi előadók képzésének megszervezésével kapcsolatos feladatairól,
 - 23. a külföldi ügyvédi joggyakorlat elfogadásának a feltételeiről,
 - 24. az ügyvédi tevékenység folytatására alkalmas irodahelyiségre vonatkozó követelményekről, a fiókiroda nyilvántartásával és hatósági ellenőrzésével kapcsolatos feladatok ellátásáért kérhető felügyeleti díj legmagasabb összegéről, valamint az egy címre bejelentett irodával, fiókirodával vagy alirodával rendelkező ügyvédekre, illetve ügyvédi irodákra vonatkozó eltérő szabályokról,
@@ -2127,7 +2127,7 @@ az új tisztségviselők megbízatásának a kezdő napjáig, illetve a b) pont 
 
 (6) Az alkalmazott ügyvéd vagy a kamarai jogtanácsos által fizetendő kamarai tagdíj összege az ügyvéd által fizetendő kamarai tagdíj összegének nyolcvan százaléka.
 
-(7) Az ügyvédi tevékenységet gyakorlók továbbképzéséről szóló szabályzatban legalább öt éves továbbképzési ciklust kell meghatározni. amely továbbképzési kötelezettség teljesítéséhez számonkérés nem írható elő.
+(7) Az ügyvédi tevékenységet gyakorlók továbbképzéséről szóló szabályzatban legalább öt éves továbbképzési ciklust kell meghatározni. amely továbbképzési kötelezettség teljesítéséhez – az ingatlan-nyilvántartási ügyben való jogosultság megszerzéséhez előírt továbbképzés kivételével – számonkérés nem írható elő.
 
 #### 70. Az elnökség
 
@@ -2144,7 +2144,7 @@ az új tisztségviselők megbízatásának a kezdő napjáig, illetve a b) pont 
 - c) eljár kamarai hatósági ügyekben,
 - d) kezdeményezheti az összeférhetetlenség megállapítását,
 - e)
-- f) dönt az ügyvédi tevékenységet folytatók továbbképzési kötelezettsége körében elfogadható képzésekről, szakmai és tudományos tevékenységekről,
+- f)
 - g) dönt a tisztségviselők díjazásáról,
 - h) a területi kamara elnökségének nem hatósági ügyben hozott, jogszabályt, alapszabályt vagy szabályzatot sértő határozatát hatályon kívül helyezi,
 - i) elbírálja a Magyar Ügyvédi Kamara elnökének határozata elleni fellebbezést,
@@ -2181,7 +2181,7 @@ az új tisztségviselők megbízatásának a kezdő napjáig, illetve a b) pont 
 
 (2) A területi kamara működési területén
 
-- a) megszervezi, lebonyolítja, engedélyezi és ellenőrzi az ügyvédjelöltek és a jogi előadók képzését, továbbá az ügyvédi tevékenység gyakorlására jogosultak kötelező szakmai továbbképzését,
+- a) megszervezi, lebonyolítja, engedélyezi és ellenőrzi az ügyvédjelöltek és a jogi előadók képzését, továbbá megszervezi és ellenőrzi az ügyvédi tevékenység gyakorlására jogosultak kötelező szakmai továbbképzését,
 - b) gondoskodik a kamarai tisztségviselők megválasztásának lebonyolításáról,
 - c) beszedi a kamarai tagdíjat,
 - d) ellátja a jogszabályban és az alapszabályában a hatáskörébe utalt feladatokat.
@@ -2893,6 +2893,8 @@ rendeletben szabályozza.
 208/A. § (1) Az ügyvédi tevékenység gyakorlója 2019. március 31-ig bejelenti az 1. mellékletben foglalt táblázat 46. sora szerinti adatot, ha azt az ügyvédi kamarai nyilvántartás nem tartalmazza.
 
 (2) Az egyes igazságügyi tárgyú törvények módosításáról szóló 2018. évi XCI. törvénnyel módosított 167. § (2) bekezdését a módosítás hatálybalépését követően kitűzött általános választás esetében kell alkalmazni.
+
+208/C. § Az ingatlan-nyilvántartási ügyben való eljárási jogosultság nyilvántartásba vétele iránti kérelem 2022. szeptember 1-jétől terjeszthető elő. A kérelemről az ügyvédi kamara elnöke a 2023. február 1-jétől hatályos 183/A. §-ban meghatározott feltételek alapján dönt. Ha a területi kamara elnöke a kérelemnek helyt ad, az ingatlan-nyilvántartási ügyben való eljárási jogosultságot legkorábban 2023. február 1-jei hatállyal veszi nyilvántartásba.
 
 #### 92. Az Európai Unió jogának való megfelelés
 
