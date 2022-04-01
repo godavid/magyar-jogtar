@@ -4689,6 +4689,8 @@ foglalkoztat, vétség miatt két évig terjedő szabadságvesztéssel bünteten
 
 egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
+(3) Az (1)–(2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekményt a tulajdonában álló külföldi védelemben részesített kulturális örökségi elemmel kapcsolatban követi el.
+
 ### Védett kulturális javakkal visszaélés
 
 358. § (1) Aki
@@ -4884,7 +4886,7 @@ követik el.
 - a) a lopást nagyobb értékre,
 - b) a kisebb értékre elkövetett lopást
   - ba) a (2) bekezdés ba)–be) pontjában meghatározott valamely módon,
-  - bb) védett kulturális javak körébe tartozó tárgyra vagy régészeti leletre,
+  - bb) védett kulturális javak körébe tartozó tárgyra, régészeti leletre vagy külföldi védelemben részesített ingó kulturális örökségi elemre,
   - bc) vallási tisztelet tárgyára,
   - bd) holttesten lévő tárgyra, illetve temetőben vagy temetkezési emlékhelyen a halott emlékére rendelt tárgyra,
   - be) nemesfémre vagy
@@ -4930,7 +4932,7 @@ követik el.
 
 - a) a rongálás nagyobb kárt okoz,
 - b) az elkövető
-  - ba) védett kulturális javak körébe tartozó tárgyat, műemléket, régészeti lelőhelyet vagy régészeti leletet,
+  - ba) védett kulturális javak körébe tartozó tárgyat, műemléket, régészeti lelőhelyet, régészeti leletet vagy külföldi védelemben részesített kulturális örökségi elemet,
   - bb) vallási tisztelet tárgyát vagy templomot, vallásgyakorlásra rendelt más helyet,
   - bc) temetési helyet, temetkezési emlékhelyet, illetve temetőben vagy temetkezési emlékhelyen a halott emlékére rendelt tárgyat
 
@@ -4966,7 +4968,7 @@ követik el.
 
 - a) a sikkasztást nagyobb értékre,
 - b) a kisebb értékre elkövetett sikkasztást a (2) bekezdés ba)–bc) pontjában meghatározott valamely módon, vagy
-- c) a sikkasztást védett kulturális javak körébe tartozó tárgyra vagy régészeti leletre
+- c) a sikkasztást védett kulturális javak körébe tartozó tárgyra, régészeti leletre vagy külföldi védelemben részesített ingó kulturális örökségi elemre
 
 követik el.
 
@@ -5127,7 +5129,7 @@ követik el.
 
 vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
-(2) A büntetés két évig terjedő szabadságvesztés, ha a jogtalan elsajátítást védett kulturális javak körébe tartozó tárgyra vagy régészeti leletre követik el.
+(2) A büntetés két évig terjedő szabadságvesztés, ha a jogtalan elsajátítást védett kulturális javak körébe tartozó tárgyra, régészeti leletre vagy külföldi védelemben részesített ingó kulturális örökségi elemre követik követik el.
 
 #### 379. §
 
@@ -6342,7 +6344,10 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - b) többszörös visszaeső az, akit a szándékos bűncselekmény elkövetését megelőzően visszaesőként végrehajtandó szabadságvesztésre ítéltek, és az utolsó büntetés kitöltésétől vagy végrehajthatósága megszűnésétől a szabadságvesztéssel fenyegetett újabb bűncselekmény elkövetéséig három év még nem telt el;
   - c) erőszakos többszörös visszaeső az a többszörös visszaeső, aki mindhárom alkalommal személy elleni erőszakos bűncselekményt követ el;
 - 32. nemzetközileg védett személy: az a külföldi hivatalos személy, aki a rá vonatkozó nemzetközi szerződés alapján nemzetközi jogon alapuló mentességet élvez.
-- 33. új pszichoaktív anyag: az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvényben meghatározott anyag.
+- 33. új pszichoaktív anyag: az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvényben meghatározott anyag,
+- 34. külföldi védelemben részesített kulturális örökségi elem: a 2021. évi CXXV. törvénnyel kihirdetett, az Európa Tanács kulturális örökséggel kapcsolatos bűncselekményekről szóló, Nikóziában, 2017. május 19-én kelt egyezménye
+  - a) 2. Cikk 2. bekezdés a. pontjának megfelelően minősített, meghatározott vagy megjelölt ingó kulturális örökségi elem, és
+  - b) 2. Cikk 2. bekezdés b. pontjának megfelelően meghatározott vagy megjelölt ingatlan kulturális örökségi elem.
 
 (2) Ahol e törvény élettársat említ, azon a bejegyzett élettársat is érteni kell.
 
