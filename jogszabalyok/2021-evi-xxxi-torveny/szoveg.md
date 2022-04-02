@@ -114,55 +114,15 @@ a közbiztonság erősítése érdekében egyes rendészeti igazgatási törvén
 
 #### 11. A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény módosítása
 
-46. § (1) A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 4. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+46. §
 
-(A személyazonosító adatok és fényképek nyilvántartása tartalmazza)
+47. §
 
-„b) az érintett
-
-ba) arcképmását, ha a nyilvántartásba vétel e törvényben meghatározott feltételei fennállnak, valamint
-
-bb) szemből készített arcképmásához rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot (a továbbiakban: technikai kapcsoló szám),”
-
-(2) A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 4. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A bűnügyi nyilvántartó szerv
-
-a) a (2) bekezdés a) pontjában és b) pont ba) alpontjában meghatározott adatok nyilvántartásba vételével egyidejűleg kapcsolati kódot képez,
-
-b) a (2) bekezdés b) pont ba) alpontjában meghatározott adatok közül a szemből készített arcképmáshoz a nyilvántartásba vétellel egyidejűleg technikai kapcsoló számot rendel.”
-
-47. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény a következő 4/C. §-sal egészül ki:
-
-„4/C. § (1) Ha a bűnügyi nyilvántartási rendszer részére a 6. § (3) és (4) bekezdése szerinti adatközlés érkezik, a bűnügyi nyilvántartó szerv az adatok nyilvántartásba vételével egyidejűleg az érintett arcképmásai közül a szemből készített arcképmáshoz technikai kapcsoló számot rendel.
-
-(2) A bűnügyi nyilvántartó szerv az érintett szemből készített arcképmását, az (1) bekezdés szerint képzett technikai kapcsoló számot, valamint az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott metaadatokat (a továbbiakban: metaadat), azok nyilvántartásba vétele és arckép profil képzése céljából, elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladéktalanul megküldi az arcképelemzési nyilvántartás vezetéséért felelős központi államigazgatási szervnek.
-
-(3) A bűnügyi nyilvántartó szerv az érintett arcképmásának a 4/B. § (1) bekezdés szerinti törlésével egyidejűleg elektronikus úton, egyedi informatikai alkalmazás igénybevételével megküldi az (1) bekezdés szerint képzett technikai kapcsoló számot az arcképelemzési nyilvántartás vezetéséért felelős központi államigazgatási szervnek az érintett szemből készített arcképmásának és az ahhoz rendelt technikai kapcsoló számnak, valamint a metaadatnak az arcképelemzési nyilvántartásból való törlése céljából.
-
-(4) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott igénybevételre jogosult szervek – az e törvényben meghatározott feltételekkel – a 4. § (2) bekezdés b) pont bb) alpontjában meghatározott adat közlésével is igényelhetnek adatot a nyilvántartásból.”
-
-48. § (1) A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 68. § (2) bekezdés k) pontja helyébe a következő rendelkezés lép:
-
-(A rendőrség jogosult közvetlen hozzáféréssel átvenni a következő adatokat:)
-
-„k) befogadás során a terhelt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés b) pont ba) alpontjában foglalt adatok;”
-
-(2) A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 68. § (8) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(A büntetés-végrehajtási intézet közvetlen hozzáféréssel jogosult)
-
-„a) az elítélt személyazonosságának ellenőrzése céljából a 4. § (2) bekezdés a) pontjában és b) pont ba) alpontjában foglalt adatot átvenni,”
+48. §
 
 49. §
 
-50. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény
-
-- a) 68. § (6) bekezdés a) pontjában a „pontjában” szövegrész helyébe a „pont ba) alpontjában” szöveg,
-- b) 68. § (7) bekezdés a) pontjában a „pontjában” szövegrész helyébe a „pont ba) alpontjában” szöveg,
-- c) 68. § (7a) bekezdés a) pontjában a „pontjában” szövegrész helyébe a „pont ba) alpontjában” szöveg
-
-lép.
+50. §
 
 #### 12. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
 
@@ -326,75 +286,15 @@ lép.
 
 #### 19. Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény módosítása
 
-112. § Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 1. § h) pontja helyébe a következő rendelkezés lép:
+112. §
 
-(E törvény alkalmazásában)
+113. §
 
-„h) adatközlésre kötelezett szerv: a személyiadat- és lakcímnyilvántartást, a központi idegenrendészeti nyilvántartásnak a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harmtv.) 95. §-a, 96. §-a, 98. §-a és 99. §-a szerinti résznyilvántartásait, a menekültügyi nyilvántartást és a központi útiokmány-nyilvántartást vezető szerv, valamint a bűnügyi nyilvántartó szerv,”
+114. §
 
-113. § (1) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 4. § (1) bekezdés h) pontja helyébe a következő rendelkezés lép:
+115. §
 
-(Az arckép profil nyilvántartás tartalmazza)
-
-„h) a bűnügyi nyilvántartási rendszer részét képező személyazonosító adatok és fényképek nyilvántartásában tárolt fényképek közül a szemből készített arcképmásból képzett arckép profilokat,”
-
-(2) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 4. § (1) bekezdése a következő i) ponttal egészül ki:
-
-(Az arckép profil nyilvántartás tartalmazza)
-
-„i) az a)–h) pontban meghatározott adathoz rendelt technikai kapcsoló számot, valamint a metaadatokat.”
-
-(3) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 4. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Az adatközlésre kötelezett szerv értesíti a központi szervet azon arckép profil technikai kapcsoló számáról, amelyhez tartozóan az általa kezelt arcképmás a nyilvántartásból törlésre került.”
-
-(4) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 4. §-a a következő (6a) bekezdéssel egészül ki:
-
-„(6a) A bűnügyi nyilvántartó szerv kivételével az adatközlésre kötelezett szerv értesíti a központi szervet azon arckép profil technikai kapcsoló számáról, amelyhez tartozóan az általa kezelt arcképmás nyilvántartásba vételétől számított
-
-a) az (1) bekezdés a) pontjában meghatározott esetben 15 év,
-
-b) az (1) bekezdés b) pontjában meghatározott esetben 8 év,
-
-c) az (1) bekezdés c) pontjában meghatározott esetben 8 év,
-
-d) az (1) bekezdés d) pontjában meghatározott esetben 6 év,
-
-e) az (1) bekezdés e) pontjában meghatározott esetben 20 év,
-
-f) az (1) bekezdés f) pontjában meghatározott esetben 10 év,
-
-g) az (1) bekezdés g) pontjában meghatározott esetben 15 év
-
-eltelt és az adott személyhez tartozó újabb arcképmáshoz rendelten technikai kapcsoló számot képzett.”
-
-114. § Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 12/A. § (2)–(4) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) Az (1) bekezdés szerint képzett arckép profilt a központi szerv az arcképelemző rendszer igénybevételével az arckép profil nyilvántartásban kezelt, a 4. § (1) bekezdés a) és g) pontja szerinti arckép profilokkal összehasonlítja.
-
-(3) A (2) bekezdés szerinti összehasonlító tevékenység eredményessége esetén a központi szerv az általános rendőrségi feladatok ellátására létrehozott szerv részére haladéktalanul továbbítja a kiértékelés eredményeként kapott, sorrendben az első öt legnagyobb egyezőséget mutató arckép profilhoz tartozó, az arckép profil nyilvántartásban kezelt technikai kapcsoló számokat.
-
-(4) Az általános rendőrségi feladatok ellátására létrehozott szerv hozzáférésre felhatalmazott személye az erre a célra rendszeresített eszköz segítségével jogosult átvenni a személyiadat- és lakcímnyilvántartásból, valamint a 4. § (1) bekezdés g) pontja esetén az útiokmány-nyilvántartásból a (3) bekezdés szerint továbbított technikai kapcsoló számhoz tartozó természetes személyazonosító adatokat és az arcképmást.”
-
-115. § (1) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 15. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(2) A polgár személyes adataihoz való hozzáférési jogának gyakorlása iránti kérelmet a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást vagy a Harmtv. 95. §-a, 96. §-a, 98. §-a és 99. §-a szerinti idegenrendészeti résznyilvántartásokat vezető szervhez, illetve a bűnügyi nyilvántartó szervhez kell benyújtani. A kérelemben kifejezetten meg kell jelölni, hogy az a központi szerv általi adatkezelésre és adattovábbításra vonatkozik.
-
-(3) A benyújtást követő öt napon belül a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást, a Harmtv. 95. §-a, 96. §-a, 98. §-a és 99. §-a szerinti idegenrendészeti résznyilvántartásokat vezető szerv, valamint a bűnügyi nyilvántartó szerv megvizsgálja a kérelmet, és ha a kérelmezővel összefüggésben technikai kapcsoló számot kezel, a kérelem benyújtásának tényéről a központi szervet értesíti. Ezzel egyidejűleg megküldi a központi szerv részére a kérelmező általa kezelt technikai kapcsoló számát.”
-
-(2) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 15. § (8)–(10) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(8) A központi szerv a kérelem benyújtásának tényéről szóló értesítés kézhezvételét követő 15 napon belül, a vizsgálat eredményének megfelelően, a polgár részére történő továbbítás céljából, a technikai kapcsoló számmal összefüggő adattovábbításra vonatkozó adatokat, illetve a tájékoztatási jog korlátozásának fennállása esetén a (6) bekezdésben foglaltakat – a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást, valamint a Harmtv. 95. §-a, 96. §-a, 98. §-a és 99. §-a szerinti idegenrendészeti résznyilvántartásokat vezető szerv, illetve a bűnügyi nyilvántartó szerv által meg nem ismerhető módon – az értesítésnek megfelelően megküldi a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást, a Harmtv. 95. §-a, 96. §-a, 98. §-a és 99. §-a szerinti idegenrendészeti résznyilvántartásokat vezető szerv, valamint a bűnügyi nyilvántartó szerv részére.
-
-(9) A (8) bekezdés szerinti tájékoztatást a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást, a Harmtv. 95. §-a, 96. §-a, 98. §-a és 99. §-a szerinti idegenrendészeti résznyilvántartásokat vezető szerv, valamint a bűnügyi nyilvántartó szerv továbbítja a polgárnak az annak kézhezvételét követő 10 napon belül.
-
-(10) Ha a személyiadat- és lakcímnyilvántartást, a menekültügyi nyilvántartást, a központi útiokmány-nyilvántartást, a Harmtv. 95. §-a, 96. §-a, 98. §-a és 99. §-a szerinti idegenrendészeti résznyilvántartásokat vezető szerv, valamint a bűnügyi nyilvántartó szerv a (3) bekezdés szerinti vizsgálata eredményeképpen azt állapítja meg, hogy a kérelmezővel összefüggésben technikai kapcsoló számot nem kezel, úgy erről, valamint a polgár tájékoztatásának e § szerinti szabályairól tájékoztatja a kérelmezőt.”
-
-116. § Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 14. alcíme a következő 21/A. §-sal egészül ki:
-
-„21/A. § (1) A bűnügyi nyilvántartó szerv 2022. április 15-ig az e törvényben meghatározottak szerint a bűnügyi nyilvántartási rendszerben kezelt, szemből készített arcképmáshoz rendelten technikai kapcsoló számot képez.
-
-(2) A bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszerben kezelt, szemből készített arcképmást és az ahhoz rendelt technikai kapcsoló számot az arckép profil létrehozása és annak e törvény szerinti nyilvántartásba vétele céljából a központi szervnek az (1) bekezdés szerinti eljárást követő 30 napon belül továbbítja.”
+116. §
 
 #### 20. A Kormányzati Személyügyi Döntéstámogató Rendszerről szóló 2020. évi CLXII. törvény módosítása
 

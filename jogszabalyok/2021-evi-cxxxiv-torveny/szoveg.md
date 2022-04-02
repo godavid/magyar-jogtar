@@ -82,11 +82,7 @@ egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módos�
 
 #### 11. A kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosítása
 
-30. § A kulturális örökség védelméről szóló 2001. évi LXIV. törvény az 57. §-át követően a következő alcímmel egészül ki:
-
-„A kulturális javak behozatalára vonatkozó korlátozás
-
-58. § Tilos azon kulturális javaknak az országba történő behozatala, bejuttatása, amelyeket származási országukból a szükséges kiviteli engedélyek nélkül, vagy a kiviteli engedély kereteit túllépve juttattak külföldre.”
+#### 30. §
 
 #### 12. A jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény módosítása
 
@@ -138,9 +134,33 @@ egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módos�
 
 #### 49. §
 
-#### 50. §
+50. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 4/C. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-#### 51. §
+„(2) A bűnügyi nyilvántartó szerv az érintett szemből készített arcképmását, az (1) bekezdés szerint képzett technikai kapcsoló számot, valamint az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott metaadatokat (a továbbiakban: metaadat) arckép profil képzése, valamint az arckép profil, a technikai kapcsoló szám és a metaadatok nyilvántartásba vétele céljából, elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladéktalanul megküldi az arcképelemzési nyilvántartás vezetéséért felelős központi államigazgatási szervnek.”
+
+51. § (1) A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 67. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+
+(A bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszerből az e törvényben meghatározottak szerint)
+
+„d) az arra jogosultnak elektronikus úton megismerhetővé teszi a gyermekeket sértő nemi élet szabadsága vagy nemi erkölcs elleni bűncselekményt elkövető személyek nyilvántartott adatait, ”
+
+(2) A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 67. § (1) bekezdés e) pont eb) alpontja helyébe a következő rendelkezés lép:
+
+(A bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszerből az e törvényben meghatározottak szerint
+
+automatikus adattovábbítás útján adatot továbbít)
+
+„eb) a választójoggal nem rendelkező polgárok nyilvántartását vezető szerv részére a nyilvántartásba történő felvétel, az abban történő módosítás, valamint az onnan való törlés céljából, vagy”
+
+(3) A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 67. § (1) bekezdése a következő f) ponttal egészül ki:
+
+(A bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszerből az e törvényben meghatározottak szerint)
+
+„f) az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott
+
+fa) ismeretlen személy azonosítása, valamint személyazonosság ellenőrzése céljából, az arcképelemző tevékenység működtetéséért felelős, a Kormány által rendeletben kijelölt szerv részére, az arckép profil nyilvántartásban kezelt, a bűnügyi nyilvántartási rendszerből továbbított arcképmásból képzett arckép profilhoz rendelt technikai kapcsoló szám felhasználásával a szerv által előterjesztett adatigénylésre válaszul, az arckép profil alapjául szolgáló arcképmást közvetlen adatkapcsolat útján továbbítja;
+
+fb) ismeretlen személy azonosítása céljából, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott, az arcképelemző tevékenységet végző szerv arcképelemző tevékenységének igénybevételére jogosult szerv részére, a szerv által az arcképelemző tevékenységet végző szervtől kapott, az arckép profil nyilvántartásban kezelt technikai kapcsoló szám felhasználásával előterjesztett adatigénylésére, a technikai kapcsoló szám bűnügyi nyilvántartási rendszerben való kezelése esetén, a technikai kapcsoló számhoz tartozó arcképmást közvetlen adatkapcsolat útján továbbítja.”
 
 #### 52. §
 
@@ -188,7 +208,7 @@ egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módos�
 
 lép.
 
-#### 68. §
+68. § Hatályát veszti a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 4/C. § (4) bekezdése.
 
 #### 18. A bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény módosítása
 
@@ -264,33 +284,13 @@ lép.
 
 #### 99. §
 
-100. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény 357. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az (1)–(2) bekezdés szerint büntetendő, aki az ott meghatározott bűncselekményt a tulajdonában álló külföldi védelemben részesített kulturális örökségi elemmel kapcsolatban követi el.”
+#### 100. §
 
 #### 101. §
 
-102. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény 459. § (1) bekezdése a következő 34. ponttal egészül ki:
+#### 102. §
 
-(E törvény alkalmazásában)
-
-„34. külföldi védelemben részesített kulturális örökségi elem: a 2021. évi CXXV. törvénnyel kihirdetett, az Európa Tanács kulturális örökséggel kapcsolatos bűncselekményekről szóló, Nikóziában, 2017. május 19-én kelt egyezménye
-
-a) 2. Cikk 2. bekezdés a. pontjának megfelelően minősített, meghatározott vagy megjelölt ingó kulturális örökségi elem, és
-
-b) 2. Cikk 2. bekezdés b. pontjának megfelelően meghatározott vagy megjelölt ingatlan kulturális örökségi elem.”
-
-103. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény
-
-- a)
-- b)
-- c) 370. § (3) bekezdés b) pont bb) alpontjában a „tárgyra vagy régészeti leletre,” szövegrész helyébe a „tárgyra, régészeti leletre vagy külföldi védelemben részesített ingó kulturális örökségi elemre,” szöveg,
-- d) 371. § (3) bekezdés b) pont ba) alpontjában a „lelőhelyet vagy régészeti leletet,” szövegrész helyébe a „lelőhelyet, régészeti leletet vagy külföldi védelemben részesített kulturális örökségi elemet,” szöveg,
-- e) 372. § (3) bekezdés c) pontjában a „tárgyra vagy régészeti leletre” szövegrész helyébe a „tárgyra, régészeti leletre vagy külföldi védelemben részesített ingó kulturális örökségi elemre” szöveg,
-- f) 378. § (2) bekezdésében a „tárgyra vagy régészeti leletre követik” szövegrész helyébe a „tárgyra, régészeti leletre vagy külföldi védelemben részesített ingó kulturális örökségi elemre követik” szöveg,
-- g) 459. § (1) bekezdés 33. pontjában az „anyag.” szövegrész helyébe az „anyag,” szöveg,
-
-lép.
+#### 103. §
 
 #### 104. §
 

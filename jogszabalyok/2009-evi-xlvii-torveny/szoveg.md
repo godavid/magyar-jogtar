@@ -115,11 +115,11 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 
 4/C. § (1) Ha a bűnügyi nyilvántartási rendszer részére a 6. § (3) és (4) bekezdése szerinti adatközlés érkezik, a bűnügyi nyilvántartó szerv az adatok nyilvántartásba vételével egyidejűleg az érintett arcképmásai közül a szemből készített arcképmáshoz technikai kapcsoló számot rendel.
 
-(2) A bűnügyi nyilvántartó szerv az érintett szemből készített arcképmását, az (1) bekezdés szerint képzett technikai kapcsoló számot, valamint az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott metaadatokat (a továbbiakban: metaadat), azok nyilvántartásba vétele és arckép profil képzése céljából, elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladéktalanul megküldi az arcképelemzési nyilvántartás vezetéséért felelős központi államigazgatási szervnek.
+(2) A bűnügyi nyilvántartó szerv az érintett szemből készített arcképmását, az (1) bekezdés szerint képzett technikai kapcsoló számot, valamint az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott metaadatokat (a továbbiakban: metaadat) arckép profil képzése, valamint az arckép profil, a technikai kapcsoló szám és a metaadatok nyilvántartásba vétele céljából, elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladéktalanul megküldi az arcképelemzési nyilvántartás vezetéséért felelős központi államigazgatási szervnek.
 
 (3) A bűnügyi nyilvántartó szerv az érintett arcképmásának a 4/B. § (1) bekezdés szerinti törlésével egyidejűleg elektronikus úton, egyedi informatikai alkalmazás igénybevételével megküldi az (1) bekezdés szerint képzett technikai kapcsoló számot az arcképelemzési nyilvántartás vezetéséért felelős központi államigazgatási szervnek az érintett szemből készített arcképmásának és az ahhoz rendelt technikai kapcsoló számnak, valamint a metaadatnak az arcképelemzési nyilvántartásból való törlése céljából.
 
-(4) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott igénybevételre jogosult szervek – az e törvényben meghatározott feltételekkel – a 4. § (2) bekezdés b) pont bb) alpontjában meghatározott adat közlésével is igényelhetnek adatot a nyilvántartásból.
+(4)
 
 5. § (1) A bűnügyi nyilvántartó szerv az érintett személyazonosító adatait bejegyzéskor, a nyilvántartások adatainak módosításakor vagy javításakor, valamint az adatigénylés alapján vagy a kérelmező saját adatairól történő adattovábbítást megelőzően – a változások nyomon követése céljából – elektronikus úton egyedileg összehasonlítja
 
@@ -918,10 +918,13 @@ részére tett nyilatkozatával tiltakozzon.
 - a) az arra jogosultnak közvetlen hozzáférést biztosít a nyilvántartott adatokhoz,
 - b) az arra jogosult részére adatigénylés alapján adattovábbítást végez,
 - c) az arra jogosult kérelmére adatot igazol,
-- d) az arra jogosultnak elektronikus úton megismerhetővé teszi a gyermekeket sértő nemi élet szabadsága vagy nemi erkölcs elleni bűncselekményt elkövető személyek nyilvántartott adatait, vagy
+- d) az arra jogosultnak elektronikus úton megismerhetővé teszi a gyermekeket sértő nemi élet szabadsága vagy nemi erkölcs elleni bűncselekményt elkövető személyek nyilvántartott adatait,
 - e) automatikus adattovábbítás útján adatot továbbít
   - ea) az útlevélhatóság részére a külföldre utazási korlátozás törlése céljából,
-  - eb) a választójoggal nem rendelkező polgárok nyilvántartását vezető szerv részére a nyilvántartásba történő felvétel, az abban történő módosítás, valamint az onnan való törlés céljából.
+  - eb) a választójoggal nem rendelkező polgárok nyilvántartását vezető szerv részére a nyilvántartásba történő felvétel, az abban történő módosítás, valamint az onnan való törlés céljából, vagy
+- f) az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott
+  - fa) ismeretlen személy azonosítása, valamint személyazonosság ellenőrzése céljából, az arcképelemző tevékenység működtetéséért felelős, a Kormány által rendeletben kijelölt szerv részére, az arckép profil nyilvántartásban kezelt, a bűnügyi nyilvántartási rendszerből továbbított arcképmásból képzett arckép profilhoz rendelt technikai kapcsoló szám felhasználásával a szerv által előterjesztett adatigénylésre válaszul, az arckép profil alapjául szolgáló arcképmást közvetlen adatkapcsolat útján továbbítja;
+  - fb) ismeretlen személy azonosítása céljából, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott, az arcképelemző tevékenységet végző szerv arcképelemző tevékenységének igénybevételére jogosult szerv részére, a szerv által az arcképelemző tevékenységet végző szervtől kapott, az arckép profil nyilvántartásban kezelt technikai kapcsoló szám felhasználásával előterjesztett adatigénylésére, a technikai kapcsoló szám bűnügyi nyilvántartási rendszerben való kezelése esetén, a technikai kapcsoló számhoz tartozó arcképmást közvetlen adatkapcsolat útján továbbítja.
 
 (2) A bűnügyi nyilvántartási rendszerben kezelt adatok statisztikai, valamint tudományos kutatási célra – személyazonosításra alkalmatlan módon – átadhatók és felhasználhatók.
 

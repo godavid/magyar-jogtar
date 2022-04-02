@@ -400,22 +400,13 @@ lép.
 
 105. §
 
-106. § Az Üttv. 91. alcíme a következő 208/C. §-sal egészül ki:
-
-„208/C. § Az ingatlan-nyilvántartási ügyben való eljárási jogosultság nyilvántartásba vétele iránti kérelem 2022. szeptember 1-jétől terjeszthető elő. A kérelemről az ügyvédi kamara elnöke a 2023. február 1-jétől hatályos 183/A. §-ban meghatározott feltételek alapján dönt. Ha a területi kamara elnöke a kérelemnek helyt ad, az ingatlan-nyilvántartási ügyben való eljárási jogosultságot legkorábban 2023. február 1-jei hatállyal veszi nyilvántartásba.”
+106. §
 
 107. §
 
-108. § Az Üttv.
+108. §
 
-- a) 155. § (2) bekezdés f) pontjában a „tematikáját,” szövegrész helyébe a „tematikáját, dönt az ügyvédi tevékenységet folytatók továbbképzési kötelezettsége körében elfogadható képzésekről, szakmai és tudományos tevékenységekről, továbbá az ingatlan-nyilvántartási ügyben való eljárási jogosultság megszerzéséhez előírt számonkérésről,” szöveg,
-- b) 158. § (1) bekezdés 21. pontjában a „rendjéről,” szövegrész helyébe a „rendjéről, továbbá az ingatlan-nyilvántartási ügyben való jogosultság megszerzéséhez előírt továbbképzésről és számonkérésről,” szöveg,
-- c) 158. § (7) bekezdésében a „teljesítéséhez számonkérés” szövegrész helyébe a „teljesítéséhez – az ingatlan-nyilvántartási ügyben való jogosultság megszerzéséhez előírt továbbképzés kivételével – számonkérés” szöveg,
-- d) 161. § (2) bekezdés a) pontjában a „továbbá az” szövegrész helyébe a „továbbá megszervezi és ellenőrzi az” szöveg
-
-lép.
-
-109. § Hatályát veszti az Üttv. 159. § (4) bekezdés f) pontja.
+109. §
 
 #### 47.
 
