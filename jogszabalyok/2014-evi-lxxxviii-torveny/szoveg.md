@@ -549,7 +549,7 @@ is kiállítható.
 - c) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben (a továbbiakban: Bszt.) meghatározott pénzügyi eszközre vonatkozóan végzett megbízás felvétele és továbbítása,
 - d) az értékpapír-kölcsönzés,
 - e) a biztosító által a biztosító anyavállalata, leányvállalata vagy részesedési viszonya alatt álló vállalkozása részére a biztosítási üzem működése és fenntartása körébe eső szolgáltatások nyújtása,
-- f)
+- f) az (EU) 2019/1238 európai parlamenti és tanácsi rendelet szerinti páneurópai egyéni nyugdíjtermék szolgáltatása, illetve forgalmazása,
 - g) az önkéntes kölcsönös biztosító pénztárakról szóló törvényben meghatározott tagszervezési tevékenység.
 
 (4) Viszontbiztosítási tevékenységgel közvetlenül összefüggő tevékenységnek minősül:
@@ -2374,6 +2374,10 @@ szemben.
 (7) Amennyiben a biztosító tájékoztatta az ügyfelet arról, hogy rendszeres értékelést végez majd az alkalmasság tekintetében, úgy a (4) bekezdés szerinti rendszeres tájékoztatásnak tartalmaznia kell egy frissített nyilatkozatot arról, hogy a biztosítási alapú befektetési termék milyen módon felel meg az ügyfél igényeinek és szükségleteinek.
 
 166/F. § A 166/B., 166/D. és 166/E. §-okban foglaltak nem kell alkalmazni, amennyiben az ügyfél a Bszt. szerinti szakmai ügyfélnek minősül.
+
+### XII/B. Fejezet — A PÁNEURÓPAI EGYÉNI NYUGDÍJTERMÉK (PEPP) SZOLGÁLTATÁSÁVAL ÉS FORGALMAZÁSÁVAL KAPCSOLATOS KÜLÖNÖS RENDELKEZÉSEK
+
+166/G. § A páneurópai egyéni nyugdíjtermék (PEPP) szolgáltatására és forgalmazására e törvény rendelkezéseit az (EU) 2019/1238 európai parlamenti és tanácsi rendeletben és a foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény VI. Fejezetében foglalt eltérésekkel kell alkalmazni.
 
 ## NEGYEDIK RÉSZ — A BIZTOSÍTÓK REORGANIZÁCIÓJA ÉS FELSZÁMOLÁSA
 
@@ -5011,6 +5015,10 @@ rendelkezni.
 
 (12) Az alkuszi megbízási szerződésállomány átruházására a Ptk. 6:208–6:211. §-ának szerződésátruházásra vonatkozó szabályai nem alkalmazandók.
 
+### XXIX/A. Fejezet — A PÁNEURÓPAI EGYÉNI NYUGDÍJTERMÉK (PEPP) FORGALMAZÁSÁVAL KAPCSOLATOS KÜLÖNÖS RENDELKEZÉSEK
+
+406/B. § A páneurópai egyéni nyugdíjtermék (PEPP) forgalmazására e törvény rendelkezéseit az (EU) 2019/1238 európai parlamenti és tanácsi rendeletben és a foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény VI. Fejezetében foglalt eltérésekkel kell alkalmazni.
+
 ## KILENCEDIK RÉSZ — A BIZTOSÍTÁSKÖZVETÍTŐK ÉS A KIEGÉSZÍTŐ BIZTOSÍTÁSKÖZVETÍTŐI TEVÉKENYSÉGET VÉGZŐ SZEMÉLYEK FELÜGYELETE
 
 ### XXX. Fejezet — A BIZTOSÍTÁSKÖZVETÍTŐK ÉS A KIEGÉSZÍTŐ BIZTOSÍTÁSKÖZVETÍTŐI TEVÉKENYSÉGET VÉGZŐ SZEMÉLYEK NYILVÁNTARTÁSA
@@ -5878,6 +5886,7 @@ feltéve, ha a szakmai gyakorlat befejezésére vonatkozó egyéb feltételek fe
 
 - 1. az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet,
 - 2. az (EU) 2016/97 európai parlamenti és tanácsi irányelvnek a biztosítási és viszontbiztosítási közvetítők szakmai felelősségbiztosítására és pénzügyi teljesítőképességére vonatkozó, euróban megállapított alapösszegeket kiigazító szabályozástechnikai standardok tekintetében történő módosításáról szóló, 2019. május 13-i (EU) 2019/1935 felhatalmazáson alapuló bizottsági rendelet
+- 3. a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 

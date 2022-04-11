@@ -233,6 +233,10 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 
 (5) A (2) bekezdésben szereplő tevékenységek végzése esetén a Bszt. adott tevékenységre vonatkozó rendelkezéseit az adott tevékenységre megfelelően alkalmazni kell.
 
+(6) Az ÁÉKBV-alapkezelő a kollektív portfóliókezelési tevékenység és a (2) bekezdésben meghatározott tevékenységek folytatása mellett az (EU) 2019/1238 európai parlamenti és tanácsi rendelet szerinti páneurópai egyéni nyugdíjtermék szolgáltatást, illetve forgalmazást is végezheti.
+
+(7) A páneurópai egyéni nyugdíjtermék (PEPP) szolgáltatására és forgalmazására e törvény rendelkezéseit az (EU) 2019/1238 európai parlamenti és tanácsi rendeletben és az Fnyt. VI. Fejezetében foglalt eltérésekkel kell alkalmazni.
+
 7. § (1) Az ABAK-nak az 5. § szerinti hatósági engedély birtokában legalább az alábbi tevékenységeket kell végeznie:
 
 - a) befektetéskezelés (a befektetési politika végrehajtásával kapcsolatos befektetési, stratégiai és eszközallokációs döntések meghozatala és végrehajtása);
@@ -265,6 +269,10 @@ a kollektív befektetési formákról és kezelőikről, valamint egyes pénzüg
 (5) Az ABAK az 5. §-ban meghatározott kollektív portfóliókezelési tevékenységet – részére történő kiszervezés útján vagy határon átnyúló szolgáltatás keretén belül – belföldi és külföldi befektetési alapkezelő részére is végezheti, azzal, hogy a 2. § (2) bekezdés szerinti ABAK határon átnyúló szolgáltatást nem végezhet. A határon átnyúló szolgáltatás végzését a Felügyeletnek be kell jelenteni.
 
 (6) A (3) bekezdésben szereplő tevékenységek végzése esetén a Bszt. adott tevékenységre vonatkozó rendelkezéseit az adott tevékenységre megfelelően alkalmazni kell.
+
+(7) Az ABAK az (1)–(3) bekezdésben meghatározott tevékenységek folytatása mellett az (EU) 2019/1238 európai parlamenti és tanácsi rendelet szerinti páneurópai egyéni nyugdíjtermék szolgáltatást, illetve forgalmazást is végezheti.
+
+(8) A páneurópai egyéni nyugdíjtermék (PEPP) szolgáltatására és forgalmazására e törvény rendelkezéseit az (EU) 2019/1238 európai parlamenti és tanácsi rendeletben és az Fnyt. VI. Fejezetében foglalt eltérésekkel kell alkalmazni.
 
 #### 2. ÁÉKBV-alapkezelőre vonatkozó engedélyezési feltételek
 
@@ -3132,7 +3140,8 @@ van összefüggésben.
 - i) az Európai Parlament és Tanács 2015. november 25-i, az értékpapír-finanszírozási ügyletek és az újrafelhasználás átláthatóságáról, valamint a 648/2012/EU rendelet módosításáról szóló (EU) 2015/2365 rendeletének
 - j) a pénzpiaci alapokról szóló, 2017. június 14-i (EU) 2017/1131 európai parlamenti és tanácsi rendelet,
 - k) az európai kockázatitőke-alapokról szóló 345/2013/EU rendelet és az európai szociális vállalkozási alapokról szóló 346/2013/EU rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1991 európai parlamenti és tanácsi rendelet
-- l) az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+- l) az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendelet
+- m) a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Módosító rendelkezések
 

@@ -69,7 +69,7 @@ Az Országgyűlés a foglalkoztatók nyugdíjcélú megtakarítások terén tör
 - 32. tag: az az ellátottól és leendő tagtól eltérő személy, aki munkaviszonya vagy más EGT-állam jogszabálya szerinti munkaviszonya alapján a foglalkoztatói nyugellátás feltételeit meghatározó alapszabályban, csatlakozásra vonatkozó szerződésben, munkaszerződésben, kollektív szerződésben meghatározott foglalkoztatói nyugdíjszolgáltatásra vonatkozó jogosultságokat szerez vagy feltételes jogszerzés alapján várhatóan jogosultságot szerez;
 - 33. tagi számla: az a nyilvántartás, amelyen a befizetéssel meghatározott nyugdíjkonstrukció esetén a felhalmozási időszakban a tag követelése, illetve nyugdíjba vonuláskor a részére járó nyugdíjszolgáltatás megállapítása alapul;
 - 34. valorizáció: a szolgáltatással meghatározott nyugdíjkonstrukció esetén a jogosultság megszerzése és a szolgáltatás megkezdése közötti időszakban a jogosultság összegének értékállóságát biztosító mechanizmus, amely a jogosultság értékének a közbenső időszak ár-, bérnövekedéséhez vagy más egyéb tényezők alakulásához való hozzáigazítását jelenti;
-- 35. várakozási idő: a tagsági jogviszonynak a belépéstől számított, a nyugdíjkonstrukció által előírt azon időszaka, amelynek elteltével a tag a foglalkoztatói nyugdíjszolgáltatáshoz – az egyéb feltételek teljesülése esetén – legkorábban hozzájuthat;
+- 35. várakozási idő: a tagsági jogviszonynak a belépéstől számított, a nyugdíjkonstrukció által előírt időszaka, amelynek elteltével a tag a foglalkoztatói nyugdíjszolgáltatáshoz vagy az egyéni nyugdíjszolgáltatáshoz – egyéb feltételek teljesülése esetén – legkorábban hozzájuthat;
 - 36. minősített befolyás: egy vállalkozással létrejött olyan közvetett és közvetlen kapcsolat, amely alapján a befolyással rendelkező
   - a) vállalkozásban fennálló tulajdoni hányadának (részesedésének) mértéke vagy az általa gyakorolható szavazati jog aránya legalább tíz százalék,
   - b) a vállalkozás döntéshozó, ügyvezető vagy felügyelő szervei testületi tagjainak legalább húsz százalékát kinevezheti vagy felmentheti, vagy
@@ -90,6 +90,8 @@ Az Országgyűlés a foglalkoztatók nyugdíjcélú megtakarítások terén tör
 - 50. központi ügyvezetés helye: az a hely, ahonnan a foglalkoztatói nyugdíjszolgáltató intézmény tevékenységének irányítása és a fő stratégiai döntéseinek meghozatala történik;
 - 51. kiemelten fontos feladatkör: az irányítási rendszeren belül a gyakorlati feladatok elvégzésére szolgáló belső kapacitás, amely gyakorlati feladatok magukban foglalják a kockázatkezelési feladatkört, a belső ellenőrzési feladatkört és az aktuáriusi feladatkört is;
 - 52. vezető állású személy: az igazgatóság tagja, a felügyelőbizottság tagja, az igazgatóság jogait gyakorló vezérigazgató, valamint cégvezető.
+- 53. egyéni nyugdíjszolgáltatás: a nyugdíjkorhatár elérése után a tag részére, a tagi számláján nyilvántartott összeg terhére, a nyugdíjkonstrukcióban rögzített módozatoknak megfelelően választása szerint egy összegben vagy járadék formájában, illetve e kettő kombinációjaként történő pénzbeli kifizetés;
+- 54. egyéni nyugdíjszolgáltatásra jogosult tag: az a természetes személy, aki a foglalkoztatói nyugdíjszolgáltató intézménnyel egyéni nyugdíjszolgáltatásra szóló szerződés alapján egyéni nyugdíjszolgáltatásra jogosultságot szerez.
 
 ### Működési alapelvek
 
@@ -133,13 +135,48 @@ Az Országgyűlés a foglalkoztatók nyugdíjcélú megtakarítások terén tör
 
 (4) A foglalkoztatói nyugdíjszolgáltató intézmény részére nyugdíjkonstrukcióhoz kapcsolódó nyilvántartási feladatokat a foglalkoztatói nyugdíjszolgáltató intézmény végezheti, illetve az, aki eleget tesz a kiszervezésre vonatkozó előírásoknak.
 
+### Egyéni nyugdíjszolgáltatási tevékenység
+
+5/A. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény a foglalkoztató nyugdíjszolgáltatási tevékenysége mellett egyéni nyugdíjszolgáltatást is nyújthat.
+
+(2) A foglalkoztatói nyugdíjszolgáltató intézmény az egyéni nyugdíjszolgáltatási tevékenységét a Felügyelet által kiadott végleges határozat birtokában kezdheti meg.
+
+(3) Az egyéni nyugdíjszolgáltatási tevékenységre vonatkozó engedély iránti kérelemhez mellékelni kell:
+
+- a) az egyéni nyugdíjszolgáltatási tevékenységre vonatkozó üzleti tervet,
+- b) az egyéni nyugdíjszolgáltatási tevékenység elkülönített működéséhez szükséges személyi és tárgyi feltételek meglétének igazolását,
+- c) az egyéni nyugdíjszolgáltatási tevékenységhez kapcsolódó működési szabályzatot,
+- d) az egyéni nyugdíjszolgáltatási tevékenység elkülönített nyilvántartását biztosító számviteli politikát, a számviteli rendszer tervezetét, és
+- e) a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtására vonatkozó szabályzatok és eljárásrendek tervezetét.
+
+(4) Az egyéni nyugdíjszolgáltatási tevékenységét a foglalkoztatói nyugdíjszolgáltató intézmény a foglalkoztatói nyugdíjszolgáltatástól elkülönülten végzi.
+
+(5) Az egyéni nyugdíjszolgáltatási tevékenységekhez kapcsolódó eszközöket és kötelezettségeket elkülönítetten kell nyilvántartani, azokat a foglalkoztatói nyugdíjszolgáltatási tevékenységhez kapcsolódó eszközökhöz és kötelezettségekhez áthelyezni nem lehet.
+
+5/B. § (1) Egyéni nyugdíjszolgáltatásra jogosult tag az lehet, aki betöltötte 16. életévét és egyéni nyugdíjszolgáltatásra szóló szerződésben egyéni tagi hozzájárulásra vállal kötelezettséget. A tagsági jogviszony a szerződés megkötésével jön létre.
+
+(2) Az egyéni nyugdíjszolgáltatásra szóló szerződés nem tartalmazhat feltételes jogszerzési időtartamot.
+
+5/C. § (1) Az egyéni nyugdíjszolgáltatási tevékenység az alábbi tevékenységeket foglalja magában:
+
+- a) az egyéni nyugdíjkonstrukcióhoz kapcsolódó tartalékok képzése, a vagyon befektetése és kezelése,
+- b) az egyéni tagi hozzájárulások, a foglalkoztatói kiegészítések, egyéb bevételek beszedése,
+- c) az egyéni nyugdíjkonstrukcióhoz kapcsolódó nyilvántartási, könyvvezetési, számviteli feladatok elvégzése, és
+- d) az egyéni nyugdíjszolgáltatás teljesítése.
+
+(2) Egyéni nyugdíjszolgáltatási tevékenységet teljeskörűen kizárólag a foglalkoztatói nyugdíjszolgáltató intézmény végezheti.
+
+(3) Az egyéni nyugdíjszolgáltatási tevékenységre, illetve az egyéni nyugdíjszolgáltatásra jogosult tag jogaira, kötelezettségeire a foglalkoztatói nyugdíjszolgáltatásra, illetve a tag jogaira, kötelezettségeire vonatkozó rendelkezéseket megfelelően alkalmazni kell.
+
+(4) Egyéni nyugdíjszolgáltatási tevékenységnek minősül az (EU) 2019/1238 európai parlamenti és tanácsi rendelet szerinti páneurópai egyéni nyugdíjtermék szolgáltatása, illetve forgalmazása.
+
 ### A foglalkoztatói nyugdíjszolgáltató intézmény
 
 6. § (1) Magyarország területén foglalkoztatói nyugdíjszolgáltató intézmény zártkörűen működő részvénytársaság vagy más EGT-államban bejegyzett foglalkoztatói nyugellátást szolgáltató intézmény magyarországi fióktelepe formájában létesíthető.
 
 (2) A foglalkoztatói nyugdíjszolgáltató intézmény részvénytársaságra a Ptk. előírásait, a fióktelepre pedig a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvény (a továbbiakban: Fkt.) fióktelepre vonatkozó előírásait az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(3) A foglalkoztatói nyugdíjszolgáltató intézmény kizárólag foglalkoztatói nyugdíjszolgáltatási tevékenységet végezhet.
+(3) A foglalkoztatói nyugdíjszolgáltató intézmény kizárólag foglalkoztatói nyugdíjszolgáltatási tevékenységet és egyéni nyugdíjszolgáltatási tevékenységet végezhet.
 
 (4) E törvény 3–81. §-ainak rendelkezéseit az e törvény alapján alapított, Magyarország területén székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézményekre kell alkalmazni.
 
@@ -1447,6 +1484,7 @@ a Felügyelet részére megküldeni.
 - e) a foglalkoztatói nyugdíjszolgáltató intézmény által más EGT-államban történő foglalkoztatói nyugdíjszolgáltató intézmény alapításához, vagy más EGT-államban székhellyel rendelkező foglalkoztatói nyugdíjszolgáltató intézményben részesedés megszerzéséhez;
 - f) a foglalkoztatói nyugdíjszolgáltató intézményben történő minősített befolyás megszerzéséhez;
 - g) a nyugdíjkonstrukció határon átnyúló átvétel keretében történő átvételéhez.
+- h) az egyéni nyugdíjszolgáltatási tevékenység elkezdéséhez.
 
 (2) A foglalkoztatói nyugdíjszolgáltató intézmény a tevékenységi engedély iránti kérelemhez a vezető állású személyek, egyéb vezetők, kötelező alkalmazottak és megbízottak, a könyvvizsgáló, illetve a kiszervezett tevékenységet végző szolgáltatók adatainak bejelentését a Felügyelet által meghatározott formában köteles elkészíteni.
 
@@ -1770,15 +1808,65 @@ a Felügyelet a felszámolás elkerülése, valamint a tagok és a járadékosok
 
 (8) Ha a jogszabálysértést elkövető más EGT-államban bejegyzett foglalkoztatói nyugdíjszolgáltató intézménynek a Magyarország területén bejegyzett vállalkozása van, amelynek székhelye vagy telephelye a Magyarország területén fellelhető, a Felügyelet által alkalmazott intézkedés alapján – a hatályos jogi szabályozással összhangban – végrehajtás e vállalkozásra vagy vagyoni értékű jogra vezethető.
 
-85. §
+### VI. Fejezet — A PÁNEURÓPAI EGYÉNI NYUGDÍJTERMÉK (PEPP) SZOLGÁLTATÁSÁVAL ÉS FORGALMAZÁSÁVAL KAPCSOLATOS KÜLÖNÖS RENDELKEZÉSEK
+
+85. § A páneurópai egyéni nyugdíjtermék (a továbbiakban: PEPP) szolgáltatására és forgalmazására e törvény rendelkezéseit az (EU) 2019/1238 európai parlamenti és tanácsi rendeletben foglalt eltérésekkel kell alkalmazni.
+
+85/A. § (1) PEPP-megtakarító lehet az a természetes személy, aki a 16. életévét betöltötte.
+
+(2) A PEPP-szolgáltató meghatározhatja a hozzájárulás minimális összegét. A PEPP-szerződésben rendelkezni kell a hozzájárulás megfizetésének időpontjáról. Amennyiben a PEPP-megtakarító folyamatos hozzájárulásra vállal kötelezettséget, a PEPP-szerződésnek tartalmaznia kell a díjfizetés szüneteltetésére vonatkozó rendelkezéseket és a hozzájárulás megfizetése elmulasztásának következményeit.
+
+(3) A PEPP-szerződés legalább tízéves várakozási idő előírását tartalmazza.
+
+85/B. § A szolgáltatóváltásra irányuló igényét a PEPP-megtakarító írásban jelzi a PEPP-szolgáltató felé. A PEPP-szolgáltató az elfogadott kérelemből egy példányt írásban visszaad a PEPP-megtakarítónak.
+
+85/C. § A PEPP-nyugellátásra való jogosultság a PEPP-szerződés szerinti várakozási idő eltelte és
+
+- a) a 2. § 25. pontjában meghatározott nyugdíjkorhatár betöltése, vagy
+- b) 50 százalékos munkaképesség csökkenés mértékét meghaladó megrokkanás esetén az orvos szakértő által kiállított igazolásának bemutatása
+
+után nyílik meg.
+
+85/D. § (1) A Felügyelet a PEPP szolgáltatására, illetve forgalmazására vonatkozó előírások megsértése vagy hiányosságok megállapítása esetén a következő intézkedéseket alkalmazhatja, akár együttesen is:
+
+- a) felszólíthat a jogsértő magatartással való felhagyásra és a jogsértő magatartás megismétlésétől való tartózkodásra;
+- b) átmenetileg eltilthatja a PEPP szolgáltatást nyújtó, illetve forgalmazó személy felelősségre vont vezető állású személyét vagy más felelősségre vont természetes személyt a PEPP szolgáltatást nyújtó, illetve forgalmazó személynél a vezetői feladatok gyakorlásától;
+- c) bírságot szabhat ki.
+
+(2) A bírság összege legfeljebb
+
+- a) – ha a jogsértésből származó haszon összege meghatározható – a jogsértésből származó haszon összegének kétszerese; vagy
+- b) – ha a jogsértésből származó haszon összege nem határozható meg –
+  - ba) nem természetes személy esetében 1 617 250 000 forint, vagy ha a nem természetes személy döntéshozó szerve által legutoljára jóváhagyott éves beszámoló szerinti árbevétel 10 százaléka ennél az összegnél magasabb, akkor ez utóbbi összeg – azzal, hogy ha a jogi személy anyavállalat vagy anyavállalat olyan leányvállalata, amelyik a számviteli jogszabályok alapján konszolidált beszámoló készítésére kötelezett, akkor a figyelembe veendő éves árbevétel a legutolsó, az anyavállalat döntéshozó szerve által jóváhagyott konszolidált beszámoló szerinti éves árbevétel vagy a számviteli jogszabályok szerinti, annak megfelelő bevétel –, és
+  - bb) természetes személy esetében 226 415 000 forint. 85/E. § (1) A PEPP-re vonatkozó tanácsadást nyújtó természetes személy köteles – az általa végzett tanácsadáshoz és értékesített PEPP-hez igazodó – szakmai ismeretekkel rendelkezni, a már megszerzett ismereteket naprakészen tartani, fejleszteni és a változásokból eredő követelményekkel összhangba hozni.
+
+(2) Az (1) bekezdésben meghatározott követelmény teljesítése érdekében az ott meghatározott személy köteles az általa nyújtott vagy a jövőben nyújtani kívánt tanácsadással érintett PEPP-ek vonatkozásában évente összesen legalább 15 órányi szakmai képzésen, illetve továbbképzésen részt venni, amely az 1. melléklet szerinti ismeretanyagra épül.
+
+(3) Azon személyeknek, akik az adott év második félévében lettek az (1) bekezdés szerinti PEPP-re vonatkozó tanácsadást nyújtó személyek, és az adott évben még nem teljesítették a (2) bekezdés szerinti követelményt, az adott évben összesen legalább 10 órányi szakmai képzésen, illetve továbbképzésen kell részt venniük.
+
+(4) A szakmai képzés, illetve továbbképzés elvégzése legalább két különböző képzési forma együttes elvégzésével (helyszíni jelenléttel megvalósuló továbbképzéssel, e-learning képzéssel, mentorálással vagy egész napos szakmai konferencián történő részvétellel) valósítható meg, azzal, hogy egy egész napos szakmai konferencián történő részvétel 5 órányi képzésnek, illetve továbbképzésnek számítható be.
+
+(5) A PEPP-szolgáltató és PEPP-forgalmazó köteles az (1) bekezdés szerinti – szakmai képzési, illetve továbbképzési kötelezettség alá eső – személyek továbbképzését oly módon megszervezni, hogy az adott személy vonatkozásában az új vagy módosult termék értékesítését szakmai képzés, illetve továbbképzés előzze meg.
+
+(6) Amennyiben a PEPP-re vonatkozó tanácsadást nyújtó természetes személy által nyújtott tanácsadással érintett PEPP feltétel- és teljesítési rendszerében, illetve a tanácsadással érintett PEPP-ek körében változás következett be, akkor a (2) bekezdés szerinti szakmai képzés, illetve továbbképzés elvégzését követően, a PEPP-szolgáltató és PEPP-forgalmazó köteles meggyőződni arról, hogy a PEPP-re vonatkozó tanácsadást nyújtó személy a szükséges termékismerettel rendelkezik, és ennek tényét a (9) bekezdésben szereplő nyilvántartásba bejegyezni.
+
+(7) Ha a PEPP-re vonatkozó tanácsadást nyújtó természetes személy a tanácsadás által érintett PEPP-et illetően a (2) bekezdés szerinti szakmai képzésen, illetve továbbképzésen korábban nem vett részt, akkor a foglalkoztató vagy megbízó PEPP-szolgáltató, illetve PEPP-forgalmazó – a megbízás teljesítését megelőzően – köteles meggyőződni arról, hogy a PEPP-re vonatkozó tanácsadást nyújtó természetes személy a tanácsadás nyújtásához szükséges termékismerettel rendelkezik, és ennek tényét a (9) bekezdésben szereplő nyilvántartásba bejegyezni.
+
+(8) A (2) bekezdésben meghatározott szakmai képzést, illetve továbbképzést az (1) bekezdés szerinti személyt foglalkoztató vagy megbízó PEPP-szolgáltató, illetve PEPP-forgalmazó saját maga is végezheti, valamint a szakmai továbbképzés lebonyolítására az 1. mellékletben meghatározott szakképesítés megszerzésére irányuló képzést nyújtó szakképző intézményt, vagy a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott, a hatósági vizsgára felkészítő hatósági képzést nyújtó képző szervet is megbízhat.
+
+(9) A (2) bekezdésben meghatározott szakmai képzésen, illetve továbbképzésen történő részvételt az (1) bekezdés szerinti személyt foglalkoztató vagy megbízó PEPP-szolgáltató, illetve PEPP-forgalmazó köteles nyilvántartani, és az ellenőrzés során a Felügyelet részére – a nyilvántartásban szereplő dokumentumokkal – igazolni.
 
 86. §
+
+### VII. Fejezet — ZÁRÓ RENDELKEZÉSEK
+
+### Felhatalmazó rendelkezések
 
 86/A. § Felhatalmazást kap a Kormány, hogy a foglalkoztatói nyugdíjszolgáltató intézmények szavatoló tőke szükségletének kiszámítására vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 86/B. § Felhatalmazást kap a Kormány, hogy a foglalkoztatói nyugdíjszolgáltató intézmények által nyújtott várható nyugdíjszolgáltatás előrejelzésére vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
-### Záró és átmeneti rendelkezések
+### Hatályba léptető, átmeneti és hatályon kívül helyező rendelkezések
 
 87. § (1) Ez a törvény a kihirdetését követő 15. napon lép hatályba.
 
@@ -1803,3 +1891,22 @@ a Felügyelet a felszámolás elkerülése, valamint a tagok és a járadékosok
 - g) az Európai Parlament és a Tanács 2009/138/EK irányelve (2009. november 25.) a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról (Szolvencia II.),
 - h) a munkavállalók mobilitásának a kiegészítő nyugdíjjogosultságok megszerzésének és megtartásának javításával történő növelésére vonatkozó minimumkövetelményekről szóló, 2014. április 16-i 2014/50/EK európai parlamenti és tanácsi irányelv,
 - i) a foglalkoztatói nyugellátást szolgáltató intézmények tevékenységéről és felügyeletéről szóló, 2016. december 14-i (EU) 2016/2341 európai parlamenti és tanácsi irányelv.
+
+91. § Ez a törvény a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+### 1. melléklet a 2007. évi CXVII. törvényhez
+
+#### A páneurópai nyugdíjtermék témájú általános szakmai képzés, illetve továbbképzés ismeretanyagának minimumkövetelményei
+
+- 1. a kínált páneurópai nyugdíjtermékek minimálisan szükséges ismerete;
+- 2. a páneurópai nyugdíjtermékek értékesítését szabályozó alkalmazandó jogszabályok, így például a fogyasztóvédelmi jog, a vonatkozó adóügyi jogszabályok, a vonatkozó szociális és munkaügyi jogszabályok minimálisan szükséges ismerete;
+- 3. a páneurópai nyugdíjtermékek szolgáltatóira vonatkozó minimálisan szükséges ismeretek;
+- 4. a hordozhatósági szolgáltatásra vonatkozó minimálisan szükséges ismeretek;
+- 5. a páneurópai nyugdíjtermékek befektetésére, a kockázatcsökkentési technikákra vonatkozó minimálisan szükséges ismeretek;
+- 6. a panaszok kezelésével kapcsolatos minimálisan szükséges ismeretek;
+- 7. az ügyfelek igényeinek felmérésével kapcsolatos minimálisan szükséges ismeretek;
+- 8. Magyarország nyugdíjrendszerének felépítésével és az általa garantált szolgáltatásokkal kapcsolatos minimálisan szükséges ismeretek;
+- 9. a kiegészítő nyugdíjpiac minimálisan szükséges ismerete;
+- 10. a nyugdíjprognózisokra vonatkozó minimálisan szükséges ismeretek;
+- 11. az üzleti etikai normák minimálisan szükséges ismerete; és
+- 12. minimálisan szükséges pénzügyi szakértelem.

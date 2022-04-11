@@ -671,6 +671,8 @@ hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeleté
 
 (37) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatkörében ellátja az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1503 európai parlamenti és tanácsi rendelet végrehajtásával járó feladatokat.
 
+(38) Az MNB a 39. § (1) bekezdés c), i), k)–m) pontjában meghatározott feladatai során ellátja a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendelet végrehajtását.
+
 41. § (1) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] végrehajtását
 
 - a) a fogyasztói hitelmegállapodásokról és a 87/102/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2008 április 23-i 2008/48/EK európai parlamenti és tanácsi irányelvet,
@@ -1075,7 +1077,7 @@ kézbesítettnek kell tekinteni. Ha a kifogásnak az MNB helyt ad, az igazolási
 - d) a határozata ellen indított jogorvoslati eljárás tényét,
 - e) a határozata elleni jogorvoslati eljárás során hozott jogerős ítélet rendelkező részét.
 
-(1a) Az (1) bekezdésben meghatározottakat meghaladóan az MNB a Hpt. 185. §-a és 189–192. §-a, a Tpt. 400. § (1) bekezdés o) pont 2. alpontja, a Tpt. 400. § (1) bekezdés w) pontja, a Tpt. 400. § (2) bekezdése, a Bszt. 164. §-a, a Kbftv. 174/A. §-a, a Bit. 291. § és 431. §-a, az Fnytv. 64. § (1) bekezdése, az Mpt. 110. § (1) bekezdése, valamint az Öpt. 65. § (3) bekezdése alapján hozott, (1) bekezdés szerint közzétett, véglegessé vált határozatában megjelöli a jogsértő természetes személy nevét is.
+(1a) Az (1) bekezdésben meghatározottakat meghaladóan az MNB a Hpt. 185. §-a és 189–192. §-a, a Tpt. 400. § (1) bekezdés o) pont 2. alpontja, a Tpt. 400. § (1) bekezdés w) pontja, a Tpt. 400. § (2) bekezdése, a Bszt. 164. §-a, a Kbftv. 174/A. §-a, a Bit. 291. § és 431. §-a, az Fnytv. 64. § (1) bekezdése és 85/D. §-a, az Mpt. 110. § (1) bekezdése, valamint az Öpt. 65. § (3) bekezdése alapján hozott, (1) bekezdés szerint közzétett, véglegessé vált határozatában megjelöli a jogsértő természetes személy nevét is.
 
 (2) Az MNB az (1) bekezdés szerinti közzététel során tisztség betöltését engedélyező határozat esetén az (1) bekezdésben meghatározottakon túl a tisztségviselő családi- és utónevét is közzéteszi honlapján.
 
@@ -1769,8 +1771,9 @@ tarthat.
 - c) az 596/2014/EU rendelet szerinti vezetői feladatokat ellátó személyekre és adott esetben az 596/2014/EU rendelet szerinti velük szoros kapcsolatban álló személyekre vonatkozó bejelentési kötelezettségre vonatkozó szabályok ellenőrzése céljából,
 - d) a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése céljából,
 - e) a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettségre és 12–14. cikkében előírt fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzése céljából [az a)–e) pont a továbbiakban együtt: piacfelügyeleti eljárás].
+- f) az (EU) 2019/1238 európai parlamenti és tanácsi rendelet szerinti „páneurópai egyéni nyugdíjtermék” vagy „PEPP” megjelölést viselő termékek nyilvántartásba vétel nélkül történő kínálásának, illetve forgalmazásának gyanúja esetén.
 
-(2) Az (1) bekezdés a)–d) pontjában meghatározott piacfelügyeleti eljárásban az ügyintézési határidő az ellenőrzés hivatalból történő megindításának napjától számított
+(2) Az (1) bekezdés a)–d) és f) pontjában meghatározott piacfelügyeleti eljárásban az ügyintézési határidő az ellenőrzés hivatalból történő megindításának napjától számított
 
 - a) hat hónap a hatósági ellenőrzési eljárás lefolytatására, továbbá
 - b) jogszabálysértés megállapítása esetén további három hónap a hatósági eljárás lefolytatására.
@@ -3317,6 +3320,7 @@ való megfelelést szolgálja.
 - 20. az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztatóról és a 2003/71/EK irányelv hatályon kívül helyezéséről szóló, 2017. június 14-i (EU) 2017/1129 európai parlamenti és tanácsi rendelet
 - 21. az (EU) 2016/1011 rendeletnek az egyes harmadik országbeli azonnali referencia-árfolyamok mentessége és egyes megszűnő referenciamutatók helyettesítőinek kijelölése tekintetében történő módosításáról, valamint a 648/2012/EU rendelet módosításáról szóló, 2021. február 10-i (EU) 2021/168 európai parlamenti és tanácsi rendelet
 - 22. a tőkepiacról szóló 2001. évi CXX. törvénnyel és a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvénnyel együtt az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1503 európai parlamenti és tanácsi rendelet
+- 23. a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
