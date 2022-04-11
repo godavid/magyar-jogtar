@@ -379,6 +379,7 @@ feltéve, hogy az egyszeri fizetési művelet összege nem haladja meg a tizenö
 - o) elektronikuspénz-értékesítői tevékenységet,
 - p) hitelintézet esetén a vele szoros kapcsolatban álló vállalkozások számára szolgáltatások nyújtását
 - q) az általa üzletszerűen végezhető szolgáltatás igénybevételét elősegítő elektronikus eljárás, eszköz ügyfele részére történő rendelkezésre bocsátására irányuló szolgáltatást
+- r) hitelintézet esetén az (EU) 2019/1238 európai parlamenti és tanácsi rendelet szerinti, pénzügyi szolgáltatásnak, befektetési szolgáltatási tevékenységnek nem minősülő egyéni nyugdíjtermék szolgáltatást, illetve forgalmazást is
 
 végezhet.
 
@@ -5007,6 +5008,8 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 282/B. § Fogyasztó részére fizetési számlát vezető hitelintézet jogszabályban meghatározott szociális feltételek teljesülése esetén köteles a fogyasztó részére a jogszabályban meghatározott díj és költség mellett fizetési számlaként szociális számlát vezetni.
 
+282/C. § A páneurópai egyéni nyugdíjtermék (PEPP) szolgáltatására és forgalmazására e törvény rendelkezéseit az (EU) 2019/1238 európai parlamenti és tanácsi rendeletben és a foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény VI. Fejezetében foglalt eltérésekkel kell alkalmazni.
+
 #### 122. Pénzügyi szolgáltatásokhoz történő egyenlő esélyű hozzáférés előmozdítása
 
 283. § A hitelintézet mérete, tevékenységének jellege, nagysága és összetettsége arányában az irányítási jogkörrel rendelkező vezető testület által elfogadott stratégiával rendelkezik az általa nyújtott pénzügyi szolgáltatási szerződések fogyatékos személyek általi egyenlő esélyű hozzáférés lehetőségének elősegítéséhez. Az irányítási jogkörrel rendelkező vezető testület az elfogadott stratégiát legalább kétévente felülvizsgálja.
@@ -5436,7 +5439,8 @@ Qn= az érintett kvartilis sorszáma
 - 3. Ez a törvény
   - a) a hitelintézetekre vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendeletnek,
   - b) az értékpapírosítás általános keretrendszerének meghatározásáról, az egyszerű, átlátható és egységesített értékpapírosítás egyedi keretrendszerének létrehozásáról, valamint a 2009/65/EK, a 2009/138/EK és a 2011/61/EU irányelv és az 1060/2009/EK és a 648/2012/EU rendelet módosításáról szóló, 2017. december 12-i (EU) 2017/2402 európai parlamenti és tanácsi rendeletnek,
-  - c) a tőkepiacról szóló 2001. évi CXX. törvénnyel és a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvénnyel együtt az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1503 európai parlamenti és tanácsi rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
+  - c) a tőkepiacról szóló 2001. évi CXX. törvénnyel és a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvénnyel együtt az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1503 európai parlamenti és tanácsi rendeletnek
+  - d) a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 6. melléklet a 2013. évi CCXXXVII. törvényhez
 
