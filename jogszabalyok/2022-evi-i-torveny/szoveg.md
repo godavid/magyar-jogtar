@@ -22,17 +22,42 @@ az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről 
 
 8. §
 
-#### 3.
+#### 3. Az atomenergiáról szóló 1996. évi CXVI. törvény módosítása
 
-9. §
+9. § Az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atomtörvény) 11/A. §-a a következő (3a) bekezdéssel egészül ki:
 
-10. §
+„(3a) A nukleáris létesítmények nukleáris biztonsági követelményei és az ezzel összefüggő hatósági tevékenységek esetén egyes, az atomenergia-felügyeleti szerv által lefolytatott eljárásban, az elnök rendeletében meghatározottak szerint a benyújtandó műszaki dokumentáció nyelve magyar vagy angol nyelvű.”
 
-11. §
+10. § Az Atomtörvény 17/A. §-a a következő (3a) bekezdéssel egészül ki:
 
-12. §
+„(3a) A 20. §-ban, a 22–26. §-ban és a 28. §-ban meghatározott miniszterek információt és adatokat szolgáltatnak az atomenergia-felügyeleti szerv hatáskörébe utalt, az (1) bekezdés 5. és 15. pontja szerinti nemzetközi kötelezettség alapján teljesítendő nemzeti jelentések előkészítéséhez, valamint a 8. § (3) bekezdése szerint az atomenergia hazai alkalmazásának biztonságáról szóló, az Országgyűlésnek benyújtandó éves jelentéshez.”
 
-13. §
+11. § Az Atomtörvény 68. § (12) bekezdése a következő 11–18. ponttal egészül ki:
+
+(Felhatalmazást kap az elnök, hogy rendeletben állapítsa meg:)
+
+„11. az atomenergia alkalmazása körében a munkavállalók speciális szakmai képzését, továbbképzését és az atomenergia alkalmazásával összefüggő tevékenységek folytatására jogosultak körét;
+
+12. a nukleáris anyagok nyilvántartásának és ellenőrzésének szabályait, a kapcsolódó adatszolgáltatás szabályait, a nyilvántartás adatait érintő változásokkal kapcsolatos bejelentési és értesítési kötelezettségeket, az előírt adatszolgáltatás elmaradásának következményeit, a nukleáris anyagokkal kapcsolatos telephely kijelölés és az ezzel kapcsolatos hatósági feladatok szabályait;
+
+13. a radioaktív anyagok nyilvántartása és ellenőrzése, valamint a kapcsolódó adatszolgáltatás szabályait;
+
+14. az atomenergia-felügyeleti szerv által a 11/A. § (3a) bekezdése szerint lefolytatott eljárásban az angol nyelven benyújtandó műszaki dokumentációk körét;
+
+15. az atomenergia-felügyeleti szerv által lefolytatott, a 17. § (8) bekezdése szerinti előzetes biztonsági tájékoztatóval és az előzetes típusengedélyezési eljárással kapcsolatos részletes szabályokat;
+
+16. az atomenergia-felügyeleti szerv elnökének rendelet kiadásában helyettesítését ellátó elnökhelyettesét;
+
+17. az atomenergia alkalmazási körében eljáró független műszaki szakértői tevékenységgel kapcsolatos eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos szabályokat;
+
+18. a radioaktívhulladék-tároló és a felszín alatti vizsgálat céljára szolgáló laboratórium telephelyének műszaki megtervezésénél figyelembe veendő földtani követelményrendszert, a földtani alkalmasság megállapítását célzó kutatás engedélyezésére és a kutatás eredményének jóváhagyására vonatkozó eljárási szabályokat, valamint a létesítéssel és az üzemeltetéssel kapcsolatos bányaműszaki és bányabiztonsági követelményeket.”
+
+12. § Az Atomtörvény 19/C. § (2) bekezdésében a „főigazgatója” szövegrész helyébe az „elnöke” szöveg lép.
+
+13. § Hatályát veszti az Atomtörvény
+
+- a) 8. § (3) bekezdésében „a Kormánynak és” szövegrész és
+- b) 67. § t) és v) pontja.
 
 #### 4. Az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény módosítása
 
@@ -90,15 +115,21 @@ az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről 
 
 35. §
 
-#### 10.
+#### 10. A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
-36. §
+36. § A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 21. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-37. §
+„(3) Megyei jogú város a megyeszékhely város, az Országgyűlés által e törvény hatálybalépése előtt megyei jogúvá nyilvánított város, valamint az a város, amelyet a 3. melléklet megyei jogú városként határoz meg.”
 
-38. §
+37. § Az Mötv. Átmeneti rendelkezések alcíme a következő 146/I. §-sal egészül ki:
 
-39. §
+„146/I. § (1) Az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény és egyéb törvények módosításáról szóló 2022. évi I. törvénnyel (a továbbiakban: Módtv2.) megyei jogú várossá nyilvánított település törvényben meghatározott megyei jogú városi jogállásából származó feladatait a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választását követően, a megyei jogú város közgyűlésének alakuló ülésétől látja el.
+
+(2) A Módtv2.-vel megyei jogú várossá nyilvánítás – a törvény szerinti feladatok ellátásának a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választásáig való változatlansága miatt – nem érinti az érintett település képviselő-testületét és a megye közgyűlését, arra tekintettel időközi önkormányzati választás kitűzése nem szükséges.”
+
+38. § Az Mötv. a 2. melléklet szerinti 3. melléklettel egészül ki.
+
+39. § Az Mötv. 145. § (1) bekezdésében a „146/H. §” szövegrész helyébe a „146/H. §, a 146/I. §” szöveg, a „2. melléklet” szövegrész helyébe a „2. és a 3. melléklet” szöveg lép.
 
 #### 11. A nemzeti vagyonról szóló 2011. évi CXCVI. törvény módosítása
 
@@ -187,6 +218,14 @@ az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről 
 ### 1. melléklet a 2022. évi I. törvényhez
 
 ### 2. melléklet a 2022. évi I. törvényhez
+
+„3. melléklet a 2011. évi CLXXXIX. törvényhez
+
+Törvény erejénél fogva megyei jogú város
+
+1. Baja
+
+2. Esztergom”
 
 ### 3. melléklet a 2022. évi I. törvényhez
 
