@@ -976,13 +976,9 @@ esetén,
 
 (7) A közgyógyellátásban ki nem szolgáltatható funkcionális csoportokat külön jogszabály tartalmazza.
 
-(8) Közgyógyellátás jogcímen
+(8) Közgyógyellátás jogcímen támogatásba befogadott olyan gyógyszer rendelhető, melyet az Országos Gyógyszerterápiás Tanács (a továbbiakban: OGYTT) által – az egészségügyért felelős miniszter rendeletében meghatározott támogatási szempontok szerint – kiadott gyógyszerlista tartalmaz. Az OGYTT a gyógyszerlista kialakításánál figyelembe veszi a közgyógyellátás tekintetében a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvényben, valamint a végrehajtására kiadott, a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló kormányrendeletben meghatározott szempontokat is.
 
-- a) a hatóanyag alapú fix támogatású csoportból a preferált referencia ársávba tartozó,
-- b) azokból a hatóanyag alapú fix támogatású csoportokból, ahol nem képződött preferált referencia ársáv, a referencia vagy annál alacsonyabb közfinanszírozás alapjául elfogadott árú, vagy napi terápiás költségű és
-- c) a hatóanyag alapú fix támogatású csoportba nem tartozó gyógyszer rendelhető.
-
-(9) Amennyiben egy gyógyszer több támogatási kategóriában is rendelhető és a (8) bekezdésben foglalt valamely feltételnek megfelel, akkor közgyógyellátás keretében is a gyógyszerre megállapított minden támogatási kategóriában rendelhető.
+(9) Ha egy gyógyszer több támogatási kategóriában is rendelhető, akkor közgyógyellátás keretében is a gyógyszerre megállapított valamennyi támogatási kategóriában rendelhető.
 
 ### V. Fejezet — A FOLYAMATOS GYÓGYSZERELLÁTÁS BIZTOSÍTÁSÁT, A GYÓGYSZERTÁMOGATÁSI ELŐIRÁNYZAT BETARTÁSÁT CÉLZÓ RENDELKEZÉSEK
 
@@ -1803,7 +1799,7 @@ rendeletben állapítsa meg.
 - l) a 24. § (4) bekezdésében, valamint a 33. § (6) bekezdésében foglalt, a társadalombiztosítási támogatásba befogadott gyógyszerek, tápszerek és gyógyászati segédeszközök körét tartalmazó közlemény adattartalmát és a közzététel eljárási rendjét,
 - m)
 - n) az egészségbiztosítási szerv által működtetett internetes gyógyászati segédeszköz katalógusra vonatkozó részletes szabályokat,
-- o)
+- o) a közgyógyellátás jogcímen rendelhető gyógyszerekre vonatkozó támogatási szempontokat,
 - p) a gyógyszer- és gyógyászatisegédeszköz-rendeléshez felhasználható számítógépes program minősítésének feltételeit,
 - q) a gyógyszer-nagykereskedelmi engedéllyel rendelkező gazdálkodó szervezet által vezetendő, a gyógyszertárak gyógyszer-nagykereskedelmi engedéllyel rendelkező gazdálkodó szervezet felé fennálló pénzügyi kötelezettségét tartalmazó nyilvántartás tartalmára és a tájékoztatásra vonatkozó részletes szabályokat,
 - r) a közvetlen lakossági gyógyszerellátás keretében végzett gyógyszer kiszolgáltatásához és beteg-együttműködéshez kapcsolódó szakmai eljárásrendeket,
