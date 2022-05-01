@@ -209,7 +209,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (2) A megyei jogú város települési önkormányzat, amely – törvényben meghatározottak szerint, az abban foglalt kivételekkel – azokat a közszolgáltatásokat is biztosítja, melyek saját területén túl a megye egészére vagy nagy részére kiterjednek.
 
-(3) Megyei jogú város a megyeszékhely város és az Országgyűlés által e törvény hatálybalépése előtt megyei jogúvá nyilvánított város.
+(3) Megyei jogú város a megyeszékhely város, az Országgyűlés által e törvény hatálybalépése előtt megyei jogúvá nyilvánított város, valamint az a város, amelyet a 3. melléklet megyei jogú városként határoz meg.
 
 (4) A megyei jogú város képviselő-testülete a közgyűlés.
 
@@ -1537,7 +1537,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-145. § (1) Az 1–83. §, a 84. § (1)–(4) bekezdése, a 85–109. §, a 125–142. §, a 143. § (1) bekezdés a)–g) pontja, a 143. § (2)–(4) bekezdése, a 144. §, a 146. §, a 146/C. §, a 146/F. §, a 146/G. §, a 146/H. §, valamint a 2. melléklet az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
+145. § (1) Az 1–83. §, a 84. § (1)–(4) bekezdése, a 85–109. §, a 125–142. §, a 143. § (1) bekezdés a)–g) pontja, a 143. § (2)–(4) bekezdése, a 144. §, a 146. §, a 146/C. §, a 146/F. §, a 146/G. §, a 146/H. §, a 146/I. §, valamint a 2. és a 3. melléklet az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvény 42. § 16. és 17. pontja, 108. §-a, valamint 143. § (1) bekezdésének f) pontja az Alaptörvény 38. cikk (1) bekezdése alapján is sarkalatosnak minősül.
 
@@ -1577,6 +1577,10 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 146/G. § E törvénynek az egyes közjogi tárgyú törvények módosításáról szóló 2021. évi CXIII. törvénnyel módosított 28. § (2) bekezdését a helyi önkormányzati képviselők és polgármesterek 2019. október 13-i választásán listáról mandátumot szerzett önkormányzati képviselők esetén is alkalmazni kell.
 
 146/H. § E törvénynek a Módtv.-vel megállapított 72. § (2) bekezdés c) pontját a Módtv. hatálybalépését megelőzően megválasztott polgármesterre is alkalmazni kell.
+
+146/I. § (1) Az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény és egyéb törvények módosításáról szóló 2022. évi I. törvénnyel (a továbbiakban: Módtv2.) megyei jogú várossá nyilvánított település törvényben meghatározott megyei jogú városi jogállásából származó feladatait a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választását követően, a megyei jogú város közgyűlésének alakuló ülésétől látja el.
+
+(2) A Módtv2.-vel megyei jogú várossá nyilvánítás – a törvény szerinti feladatok ellátásának a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választásáig való változatlansága miatt – nem érinti az érintett település képviselő-testületét és a megye közgyűlését, arra tekintettel időközi önkormányzati választás kitűzése nem szükséges.
 
 ### Módosító rendelkezések
 
@@ -1756,3 +1760,10 @@ JÖVEDELEMNYILATKOZAT
 - 4. A tulajdoni érdekeltség keletkezésekori aránya: %
 - 5. A tulajdoni érdekeltség jelenlegi aránya: %
 - 6. A gazdasági társaságban viselt tisztsége:
+
+### 3. melléklet a 2011. évi CLXXXIX. törvényhez
+
+#### Törvény erejénél fogva megyei jogú város
+
+- 1. Baja
+- 2. Esztergom
