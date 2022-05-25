@@ -44,13 +44,15 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 - o) a vízrajzi tevékenység ellátása;
 - p) a vízkészletek mennyiségi és minőségi számbavétele.
 - q) a közjóléti feladatellátás körében a vízitúrázás és a kerékpáros turisztikai igénybevétel alapfeltételeinek biztosítása az állami tulajdonban lévő vizek és vízilétesítmények üzemeltetése során.
+- r) a vízimunkák és vízilétesítmények műszaki tervezésével, előkészítésével és megvalósításával összefüggő feladatok ellátása.
 
 (2) Az (1) bekezdésben felsorolt feladatok közül
 
 - a) a Kormány az a), f), i) és az m) pontban;
 - b) a vízgazdálkodásért felelős miniszter a c), d), e), g), j) és a k) pontban;
 - c) a vízügyi igazgatási szervek irányításáért felelős miniszter az l), n) és o) pontban;
-- d) a vízügyi igazgatási szervek irányításáért felelős miniszter és a vízgazdálkodásért felelős miniszter együttesen a b), h) és p) pontban meghatározott feladatokat látja el.
+- d) a vízügyi igazgatási szervek irányításáért felelős miniszter és a vízgazdálkodásért felelős miniszter együttesen a b), h) és p) pontban
+- e) az állami beruházásokért felelős miniszter, a vízügyi igazgatási szervek irányításáért felelős miniszter és a vízgazdálkodásért felelős miniszter bevonásával az r) pontban meghatározott feladatokat látja el.
 
 (3) Az (1) bekezdésben felsorolt feladatok közül a c) és a d) pontban említetteket a vízgazdálkodásért felelős miniszter a Kormány által meghatározott munkamegosztás szerinti rendben az érdekelt miniszterek közreműködésével látja el.
 
@@ -62,6 +64,8 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 
 - a) az állami tulajdonban lévő vizek és vízilétesítmények, a felszín alatti vizek víztartó képződményeinek és a felszíni vizek medreinek vagyonkezelését,
 - b) az állami tulajdonban lévő vízilétesítmények üzemeltetését, fenntartását és fejlesztését.
+
+(2a) A (2) bekezdéstől eltérően az állami beruházásokért felelős miniszter látja el a vízimunkák és vízilétesítmények műszaki tervezésével, előkészítésével és megvalósításával összefüggő feladatokat.
 
 (3) A (2) bekezdésben foglaltakra tekintettel, azon állami tulajdonban lévő vizek és vízilétesítmények, amelyek
 
@@ -1385,6 +1389,8 @@ vonatkozó szabályokat, továbbá kijelölje a továbbképzési rendszer műkö
 (7d) Felhatalmazást kap a Kormány, hogy a mezőgazdasági öntözési célú kutak létesítésével, valamint az engedély nélkül, vagy az engedélytől eltérően létesített mezőgazdasági öntözési célú kutak fennmaradásával, továbbá a mezőgazdasági öntözési célú kutak üzemeltetésével kapcsolatos sajátos feltételeket és eljárási szabályokat rendeletben határozza meg.
 
 (7e) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a vízitúrázás és a kerékpáros turisztikai igénybevétel alapfeltételeit az állami tulajdonban lévő vizek és vízilétesítmények üzemeltetése során.
+
+(7f) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a 3. § (2a) bekezdése szerinti feladatok ellátásának részletes szabályait.
 
 (8) Felhatalmazást kap a vízgazdálkodásért felelős miniszter
 

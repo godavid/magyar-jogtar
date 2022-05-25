@@ -518,7 +518,7 @@ vonatkozó adatokat kezelheti.
 
 (5) E § alkalmazása során megváltozott munkaképességű személynek kell tekinteni a fogyatékossági támogatásban vagy a vakok személyi járadékában részesülő személyt is.
 
-21/C. § (1) A szociál- és nyugdíjpolitikáért felelős miniszter a megváltozott munkaképességű személyek ellátásai iránti eljárással, valamint az akkreditált munkáltató részére nyújtott támogatással összefüggő feladatai ellátásának céljából, az ahhoz szükséges mértékben és ideig – a 21. § (7) bekezdésben és a 21/B. § (3) bekezdésében meghatározottak figyelembevételével – kezelheti a 21. § (1) bekezdésében és a 21/B. § (1) és (2) bekezdésében meghatározott adatokat.
+21/C. § (1) A szociálpolitikáért felelős miniszter a megváltozott munkaképességű személyek ellátásai iránti eljárással, valamint az akkreditált munkáltató részére nyújtott támogatással összefüggő feladatai ellátásának céljából, az ahhoz szükséges mértékben és ideig – a 21. § (7) bekezdésben és a 21/B. § (3) bekezdésében meghatározottak figyelembevételével – kezelheti a 21. § (1) bekezdésében és a 21/B. § (1) és (2) bekezdésében meghatározott adatokat.
 
 (2) A foglalkozási rehabilitációs szolgáltatáshoz, képzéshez nyújtott, valamint a foglalkozási rehabilitációt elősegítő egyéb támogatások ügyében jogszabály alapján eljáró szerv a támogatással összefüggő feladatai ellátásának céljából, az ahhoz szükséges mértékben és ideig kezelheti a 21. § (1) bekezdésében és a 21/B. § (1) és (2) bekezdésében meghatározott adatokat.
 
@@ -614,7 +614,7 @@ kell figyelembe venni.
 
 (3) A rehabilitációs hozzájárulás e törvény által nem szabályozott kérdéseiben az adóigazgatási rendtartásról szóló törvény és az Art. rendelkezéseit kell alkalmazni. A rehabilitációs hozzájárulás a központi költségvetés bevételét képezi.
 
-25. § (1) A szociál- és nyugdíjpolitikáért felelős miniszter az akkreditált munkáltató részére a Kormány rendeletében meghatározottak szerint pályázati úton
+25. § (1) A szociálpolitikáért felelős miniszter az akkreditált munkáltató részére a Kormány rendeletében meghatározottak szerint pályázati úton
 
 - a) támogatást nyújthat a munkahely rehabilitációs célú átalakításához,
 - b) bér- és költségtámogatást nyújthat,
@@ -703,15 +703,15 @@ rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a Kormány, hogy a rehabilitációs hatóságot, a megváltozott munkaképességű személyek ellátásait folyósító szervet, a rehabilitációs szakértői szervet, az orvosszakértői szervet, a foglalkozási rehabilitációs szakértői névjegyzéket és a rehabilitációs orvosszakértői névjegyzéket vezető szervet, valamint a foglalkozási rehabilitációs szakértők, rehabilitációs orvosszakértők továbbképzésével kapcsolatos feladatokat ellátó szervet rendeletben jelölje ki.
 
-(3) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy a komplex minősítésre, továbbá a 33/B. § szerinti fizikai állapotjavulás visszamenőleges vizsgálatára (a továbbiakban: állapotvizsgálat) vonatkozó részletes szakmai szabályokat rendeletben állapítsa meg.
+(3) Felhatalmazást kap a szociálpolitikáért felelős miniszter, hogy a komplex minősítésre, továbbá a 33/B. § szerinti fizikai állapotjavulás visszamenőleges vizsgálatára (a továbbiakban: állapotvizsgálat) vonatkozó részletes szakmai szabályokat rendeletben állapítsa meg.
 
 (4)
 
 (4a)
 
-(5) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltató akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj szabályait rendeletben határozza meg.
+(5) Felhatalmazást kap a szociálpolitikáért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltató akkreditációs eljárásáért fizetendő igazgatási szolgáltatási díj szabályait rendeletben határozza meg.
 
-(6) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a foglalkozási rehabilitációs szakértői névjegyzékbe és a rehabilitációs orvosszakértői névjegyzékbe történő felvételért fizetendő igazgatási szolgáltatási díjra vonatkozó szabályokat rendeletben határozza meg.
+(6) Felhatalmazást kap a szociálpolitikáért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a foglalkozási rehabilitációs szakértői névjegyzékbe és a rehabilitációs orvosszakértői névjegyzékbe történő felvételért fizetendő igazgatási szolgáltatási díjra vonatkozó szabályokat rendeletben határozza meg.
 
 29. § (1) Ez a törvény – a (2)–(6) bekezdésben foglaltak kivételével – 2011. december 31-én lép hatályba.
 

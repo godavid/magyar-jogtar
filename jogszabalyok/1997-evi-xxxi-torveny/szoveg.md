@@ -178,7 +178,7 @@ kerülhet sor.
 
 ### Foglalkoztatási tilalom a gyermeki jogok védelme érdekében
 
-10/A. § (1) A gyermekvédelmi rendszerben a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben, a javítóintézetek rendtartásáról szóló miniszteri rendeletben, a gyermekek esélynövelő szolgáltatásainak szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben meghatározott munkakörben, nevelőszülői foglalkoztatási jogviszonyban, valamint önkéntes jogviszonyban (a továbbiakban együtt: a gyermekvédelmi rendszerben szakmai munkakörben) nem foglalkoztatható az a személy,
+10/A. § (1) A gyermekvédelmi rendszerben a miniszteri rendeletben meghatározott munkakörben, nevelőszülői foglalkoztatási jogviszonyban, valamint önkéntes jogviszonyban (a továbbiakban együtt: a gyermekvédelmi rendszerben szakmai munkakörben) nem foglalkoztatható az a személy,
 
 - a) aki büntetett előéletű,
 - b) aki büntetlen előéletű, de a bíróság büntetőjogi felelősségét jogerős ítéletben megállapította a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény XII. fejezet I. címében meghatározott élet, testi épség és egészség elleni bűncselekmény, II. címében meghatározott egészségügyi beavatkozás, orvostudományi kutatás rendje és az egészségügyi önrendelkezés elleni bűncselekmény, kényszerítés, a lelkiismereti és vallásszabadság megsértése, közösség tagja elleni erőszak, személyi szabadság megsértése, emberrablás, emberkereskedelem, zaklatás, magántitok megsértése, visszaélés személyes adattal, visszaélés közérdekű adattal, XIV. fejezetében meghatározott házasság, család, ifjúság és nemi erkölcs elleni bűncselekmény, embercsempészés, XV. fejezet V. címében meghatározott hivatalos személy elleni bűncselekmény és VI. címében meghatározott igazságszolgáltatás elleni bűncselekmény, XVI. fejezet II–IV. címében meghatározott köznyugalom, közbizalom és közegészség elleni bűncselekmény, pénzmosás, lopás, sikkasztás, csalás, hűtlen kezelés, hanyag kezelés, rablás, kifosztás, zsarolás, orgazdaság, illetve a Büntető Törvénykönyvről szóló 2012. évi C. törvény XV. Fejezetében meghatározott élet, testi épség és egészség elleni bűncselekmény, XVI. Fejezetében meghatározott egészségügyi beavatkozás és kutatás rendje elleni bűncselekmény, XVII. Fejezetében meghatározott egészséget veszélyeztető bűncselekmény, emberrablás, emberrablás feljelentésének elmulasztása, emberkereskedelem és kényszermunka, személyi szabadság megsértése, kényszerítés, XIX. Fejezetében meghatározott nemi élet szabadsága és nemi erkölcs elleni bűncselekmény, XX. Fejezetében meghatározott gyermekek érdekét sértő és család elleni bűncselekmény, a lelkiismereti és vallásszabadság megsértése, közösség tagja elleni erőszak, az egészségügyi önrendelkezési jog megsértése, személyes adattal visszaélés, közérdekű adattal visszaélés, zaklatás, magántitok megsértése, környezetkárosítás, természetkárosítás, a hulladékgazdálkodás rendjének megsértése, ózonréteget lebontó anyaggal visszaélés, XXVI. Fejezetében meghatározott igazságszolgáltatás elleni bűncselekmény, bántalmazás közfeladatot ellátó személy eljárásában, XXIX. Fejezetében meghatározott hivatalos személy elleni bűncselekmény, XXXII. Fejezetében meghatározott köznyugalom elleni bűncselekmény, XXXIII. Fejezetében meghatározott közbizalom elleni bűncselekmény, embercsempészés, járványügyi szabályszegés, rablás, kifosztás, zsarolás, lopás, sikkasztás, csalás, hűtlen kezelés, hanyag kezelés, pénzmosás vagy olyan bűntett miatt, amelyet bűnszervezet keretében követett el, vagy a 2020. december 31-éig hatályban volt orgazdaság miatt
@@ -1259,7 +1259,7 @@ vezeti.
 
 (6) A 139. § (1) bekezdés szerinti adattartalmú nyilvántartás a változások nyomon követhetőségét biztosító elektronikus úton is vezethető.
 
-(7) A szociál- és nyugdíjpolitikáért felelős miniszter által kijelölt család- és gyermekjóléti központ az Szt. 64. § (9) bekezdése szerinti fogyatékosságügyi tanácsadást is biztosít. A szociál- és nyugdíjpolitikáért felelős miniszter a kijelölésről szóló közleményt az általa irányított minisztérium honlapján és a Szociális Ágazati Portálon teszi közzé.
+(7) A szociálpolitikáért felelős miniszter által kijelölt család- és gyermekjóléti központ az Szt. 64. § (9) bekezdése szerinti fogyatékosságügyi tanácsadást is biztosít. A szociálpolitikáért felelős miniszter a kijelölésről szóló közleményt az általa irányított minisztérium honlapján és a Szociális Ágazati Portálon teszi közzé.
 
 ### VI/C. Fejezet — Gyermekek napközbeni ellátása
 
@@ -1331,7 +1331,7 @@ vezeti.
 
 (4) A bölcsőde nyári nyitvatartási rendjét a fenntartó hagyja jóvá. A fenntartó a bölcsődei szünet idejére a szülő, törvényes képviselő kérésére gondoskodik a gyermek intézményi gondozásának, nevelésének megszervezéséről.
 
-(5) A miniszter rendeletben a bölcsődék számára – a bölcsődei dolgozók szakmai fejlesztése, szakmai ünnepségek megtartása és a bölcsődei ellátáshoz kapcsolódó szakmai célok megvalósítása érdekében – nevelés-gondozás nélküli munkanapot határoz meg. A nevelés-gondozás nélküli munkanapon a bölcsődei nevelés és gondozás szünetel, a fenntartónak azonban erre irányuló szülői, törvényes képviselői kérésre gondoskodnia kell a gyermekek felügyeletének megszervezéséről.
+(5) A gyermek- és ifjúságpolitikáért felelős miniszter rendeletben a bölcsődék számára – a bölcsődei dolgozók szakmai fejlesztése, szakmai ünnepségek megtartása és a bölcsődei ellátáshoz kapcsolódó szakmai célok megvalósítása érdekében – nevelés-gondozás nélküli munkanapot határoz meg. A nevelés-gondozás nélküli munkanapon a bölcsődei nevelés és gondozás szünetel, a fenntartónak azonban erre irányuló szülői, törvényes képviselői kérésre gondoskodnia kell a gyermekek felügyeletének megszervezéséről.
 
 ### Mini bölcsőde
 
@@ -1357,7 +1357,7 @@ vezeti.
 
 (3) Munkahelyi bölcsődében szolgáltatást az a nagykorú, cselekvőképességet érintő gondnokság, illetve támogatott döntéshozatal hatálya alatt nem álló, büntetlen előéletű személy biztosíthat, aki
 
-- a) a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben meghatározott feltételek teljesítése alapján alkalmas a gyermek napközbeni ellátására, és
+- a) a miniszteri rendeletben meghatározott feltételek teljesítése alapján alkalmas a gyermek napközbeni ellátására, és
 - b) a bölcsődei szolgáltatást nyújtó személyek képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyamon eredményesen részt vett,
 
 feltéve, hogy nem áll fenn vele szemben a 10/A. § (1) bekezdésében meghatározott kizáró ok.
@@ -1370,7 +1370,7 @@ feltéve, hogy nem áll fenn vele szemben a 10/A. § (1) bekezdésében meghatá
 
 (2) Családi bölcsődében szolgáltatást az a nagykorú, cselekvőképességet érintő gondnokság, illetve támogatott döntéshozatal hatálya alatt nem álló, büntetlen előéletű személy biztosíthat, aki
 
-- a) a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben meghatározott feltételek teljesítése alapján alkalmas a gyermek napközbeni ellátására, és
+- a) a miniszteri rendeletben meghatározott feltételek teljesítése alapján alkalmas a gyermek napközbeni ellátására, és
 - b) a bölcsődei szolgáltatást nyújtó személyek képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyamon eredményesen részt vett,
 
 feltéve, hogy nem áll fenn vele szemben a 10/A. § (1) bekezdésében meghatározott kizáró ok.
@@ -1403,7 +1403,7 @@ feltéve, hogy nem áll fenn vele szemben a 10/A. § (1) bekezdésében meghatá
 
 (5) Napközbeni gyermekfelügyelet keretében szolgáltatást az a nagykorú, cselekvőképességet érintő gondnokság, illetve támogatott döntéshozatal hatálya alatt nem álló, büntetlen előéletű személy biztosíthat, aki
 
-- a) a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben meghatározott feltételek teljesítése alapján alkalmas a gyermek napközbeni ellátására, és
+- a) a miniszteri rendeletben meghatározott feltételek teljesítése alapján alkalmas a gyermek napközbeni ellátására, és
 - b) a napközbeni gyermekfelügyelet szolgáltatást nyújtó személyek képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyamon eredményesen részt vett,
 
 feltéve, hogy nem áll fenn vele szemben a 10/A. § (1) bekezdésében meghatározott kizáró ok.
@@ -2430,9 +2430,9 @@ felülvizsgálja a családi pótlék szüneteltetésének szükségességét.
 - a) olyan szolgáltatásról szerez tudomást, amely engedély nélkül működik, a szolgáltatót eltiltja a szolgáltatás végzésétől,
 - b) az örökbe fogadható gyermekek vagy a szolgáltatást igénybe vevő személyek súlyos jog- vagy érdeksérelmét észleli, a szolgáltatás végzését legfeljebb 60 napra felfüggeszti vagy a működési engedélyt visszavonja.
 
-(5) A szolgáltatást engedélyező szerv intézkedik a működési engedélyek kiadásának, visszavonásának, a szolgáltatás nyújtásától történő eltiltásnak, valamint a szolgáltatás végzése felfüggesztésének a minisztérium hivatalos lapjában és a minisztérium honlapján történő közhírré tételéről.
+(5) A szolgáltatást engedélyező szerv intézkedik a működési engedélyek kiadásának, visszavonásának, a szolgáltatás nyújtásától történő eltiltásnak, valamint a szolgáltatás végzése felfüggesztésének a gyermek- és ifjúságpolitikáért felelős miniszter által vezetett minisztérium hivatalos lapjában és a gyermek- és ifjúságpolitikáért felelős miniszter által vezetett minisztérium honlapján történő közhírré tételéről.
 
-(6) A miniszter az (1) bekezdés szerinti működési engedéllyel rendelkező szervezet feladatainak ellátásához egyedi támogatást nyújt.
+(6) A gyermek- és ifjúságpolitikáért felelős miniszter az (1) bekezdés szerinti működési engedéllyel rendelkező szervezet feladatainak ellátásához egyedi támogatást nyújt.
 
 ### A szolgáltatást igénybe vevővel kötött megállapodás
 
@@ -2495,9 +2495,9 @@ felülvizsgálja a családi pótlék szüneteltetésének szükségességét.
 
 (4) Ha a működést engedélyező szerv a közhasznú szervezet által nyújtott utánkövetés során az örökbe fogadott gyermek vagy az örökbe fogadó szülő súlyos jog- vagy érdeksérelmét észleli, az örökbefogadás utánkövetésére irányuló szolgáltatás végzését legfeljebb 60 napra felfüggeszti vagy a működési engedélyt visszavonja.
 
-(5) A működést engedélyező szerv intézkedik a működési engedélyek kiadásának, visszavonásának, az örökbefogadás utánkövetésére irányuló szolgáltatás nyújtásától történő eltiltásnak, valamint a szolgáltatás végzése felfüggesztésének a minisztérium hivatalos lapjában és a minisztérium honlapján történő közhírré tételéről.
+(5) A működést engedélyező szerv intézkedik a működési engedélyek kiadásának, visszavonásának, az örökbefogadás utánkövetésére irányuló szolgáltatás nyújtásától történő eltiltásnak, valamint a szolgáltatás végzése felfüggesztésének a gyermek- és ifjúságpolitikáért felelős miniszter által vezetett minisztérium hivatalos lapjában és a gyermek- és ifjúságpolitikáért felelős miniszter által vezetett minisztérium honlapján történő közhírré tételéről.
 
-(6) A miniszter az (1) bekezdés szerinti működési engedéllyel rendelkező szervezet feladatainak ellátásához egyedi támogatást nyújt.
+(6) A gyermek- és ifjúságpolitikáért felelős miniszter az (1) bekezdés szerinti működési engedéllyel rendelkező szervezet feladatainak ellátásához egyedi támogatást nyújt.
 
 ### IX. Fejezet
 
@@ -3130,7 +3130,7 @@ az ellátási területén kívül lakóhellyel, ennek hiányában tartózkodási
 
 (6) A települési önkormányzat és az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv a gyermekjóléti és gyermekvédelmi feladatainak ellátásáról minden év május 31-éig – a külön jogszabályban meghatározott tartalommal – átfogó értékelést készít. Az értékelést – települési önkormányzat esetén a képviselő-testület általi megtárgyalást követően – meg kell küldeni a gyámhatóságnak. A gyámhatóság az értékelés kézhezvételétől számított harminc napon belül javaslattal élhet a települési önkormányzat, illetve az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv felé, amely hatvan napon belül érdemben megvizsgálja a gyámhatóság javaslatait és állásfoglalásáról, intézkedéséről tájékoztatja.
 
-(7) Gyermekek napközbeni ellátása esetén a jogszabályban meghatározott szakmai, módszertani feladatokat a miniszter által kijelölt szervezet, egyéb esetben a szociálpolitikai feladatok ellátására a Kormány rendeletében kijelölt szerv (a továbbiakban együtt: módszertani feladatokat ellátó szerv) látja el.
+(7) Gyermekek napközbeni ellátása esetén a jogszabályban meghatározott szakmai, módszertani feladatokat a gyermek- és ifjúságpolitikáért felelős miniszter által kijelölt szervezet, egyéb esetben a szociálpolitikai feladatok ellátására a Kormány rendeletében kijelölt szerv (a továbbiakban együtt: módszertani feladatokat ellátó szerv) látja el.
 
 (8) Az egyházi fenntartó kérelmére
 
@@ -3207,7 +3207,7 @@ az ellátási területén kívül lakóhellyel, ennek hiányában tartózkodási
 - d) a szolgáltató, intézmény, hálózat szolgáltatói nyilvántartásba vétele vagy ellenőrzése során hatóságként, szakhatóságként, ellenőrző hatóságként vagy szakértőként eljáró szerv a jogszabályban meghatározott eljárásának lefolytatása céljából,
 - e) az ellátásra köteles helyi önkormányzat és az állam fenntartói feladatait ellátó szerv ellátásszervezési feladataik ellátása céljából,
 - f) a kincstár és az állami támogatást megállapító, folyósító vagy ellenőrző más szerv az állami támogatás megállapítása és ellenőrzése céljából,
-- g) a minisztérium a gyermekvédelmi ágazati irányítási tevékenység ellátása céljából,
+- g) a minisztérium és a gyermek- és ifjúságpolitikáért felelős miniszter által vezetett minisztérium az ágazati irányítási tevékenység ellátása céljából,
 - h) a rendőrség, a nyomozó hatóság, az ügyészség, a bíróság és az igazságügyi szakértő bűnüldözés és bűnmegelőzés, illetve bírósági eljárás lefolytatása céljából.
 
 (8)
@@ -3340,7 +3340,7 @@ az ellátási területén kívül lakóhellyel, ennek hiányában tartózkodási
 - g) összehangolja és szervezi a gyermekek védelmét biztosító rendszer irányításához és egységes működéséhez szükséges nyilvántartási és információs rendszert,
 - h) a Kormány rendeletében kijelölt szerv központi szerve útján gondoskodik az országos gyermekvédelmi szakértői bizottság működéséről,
 - i) az egyházi fenntartású nevelőszülői, gyermekotthoni ellátás területén az országos módszertani feladatok ellátására egyházi fenntartású intézményeket jelölhet ki.
-- j) gondoskodik az országos örökbefogadás elősegítéséről,
+- j)
 - k) jóváhagyja és a minisztérium honlapján közzéteszi a gyermekbántalmazás elleni módszertant, a gyermekbántalmazás kivizsgálásának módszertanát, valamint a gyermekvédelmi jelzőrendszer működésének és működtetésének szakmai módszereit,
 - l) kijelöli az emberkereskedelem feltételezett áldozatává vált gyermekeket befogadó speciális gyermekotthonokat.
 
@@ -3362,7 +3362,9 @@ gyermeket a gyermek biztonsága és azonnali terápiában való részesítése �
 
 (5) A miniszter gondoskodik a bíróság által javítóintézeti nevelésre utalt vagy oda letartóztatásba helyezett fiatalkorú terhelt nevelésének feltételeiről, a javítóintézeteknek a Kormány rendeletében kijelölt szerv központi szerve útján történő fenntartásáról. A miniszter – a büntetés-végrehajtásért felelős miniszterrel együttesen – ellátja a javítóintézetek felügyeletével kapcsolatos feladatokat.
 
-(6) A családpolitikáért felelős miniszter különös méltánylást érdemlő esetben hozzájárulhat az egyedül örökbe fogadni szándékozó személy örökbefogadásra való alkalmasságának gyámhatósági megállapításához. A miniszteri hozzájárulás megadásánál különösen figyelemmel kell lenni Magyarország Alaptörvénye XVI. cikk (1) bekezdésében foglaltakra.
+(6) A gyermek- és ifjúságpolitikáért felelős miniszter különös méltánylást érdemlő esetben hozzájárulhat az egyedül örökbe fogadni szándékozó személy örökbefogadásra való alkalmasságának gyámhatósági megállapításához. A miniszteri hozzájárulás megadásánál különösen figyelemmel kell lenni Magyarország Alaptörvénye XVI. cikk (1) bekezdésében foglaltakra.
+
+(7) A gyermek- és ifjúságpolitikáért felelős miniszter gondoskodik az országos örökbefogadás elősegítéséről.
 
 ### A hivatásos gondnok
 
@@ -3828,7 +3830,7 @@ nyilatkozatban kérheti, hogy az anyakönyv a továbbiakban a vér szerinti szü
 - a) a gyermekvédelmi és gyámügyi igazgatási eljárás során az eljárása alá vont ügyfélre ismert természetes személyazonosító adatainak közlésével, az ügyfélre vonatkozó a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 11. §-a (1) bekezdésének a)–e), g)–h), k) és m) pontja szerinti adatai tekintetében egyedi adatszolgáltatást kérhet a jogosultság megállapításához, illetve a hatósági intézkedések megtételéhez a polgárok személyi adatait és lakcímét nyilvántartó szervtől, amely adatokat a hatáskört gyakorló szerv az eljárása befejezéséig kezelhet azzal, hogy az átvett adatokat a hatáskört gyakorló szerv nem továbbíthatja,
 - b) a gyámsággal és a gondnoksággal kapcsolatos ügyekben, valamint a kiskorúak vagyoni ügyeiben – vagyoni érdekei védelmében – a gyámság, gondnokság alatt álló, illetve a kiskorú személy valamennyi ingatlanára vonatkozóan a tulajdoni lapon szereplő adatokról adatszolgáltatást kérhet az ingatlanügyi hatóságtól.
 
-(6) A személyes adatok felhasználására a miniszter, a helyi önkormányzat, a gyermekvédelmi és gyámügyi igazgatási hatáskört, illetve szociális hatáskört gyakorló szerv, a személyes gondoskodást nyújtó személy és intézmény, köznevelési intézmény, szakképző intézmény és felsőoktatási intézmény, az ügyészség, a nyomozó hatóság, az ingatlan-nyilvántartási szerv, valamint pénzintézet, külföldi hatóság és bíróság jogosult e törvényben meghatározott módon és mértékben.
+(6) A személyes adatok felhasználására a miniszter, a gyermek- és ifjúságpolitikáért felelős miniszter, a helyi önkormányzat, a gyermekvédelmi és gyámügyi igazgatási hatáskört, illetve szociális hatáskört gyakorló szerv, a személyes gondoskodást nyújtó személy és intézmény, köznevelési intézmény, szakképző intézmény és felsőoktatási intézmény, az ügyészség, a nyomozó hatóság, az ingatlan-nyilvántartási szerv, valamint pénzintézet, külföldi hatóság és bíróság jogosult e törvényben meghatározott módon és mértékben.
 
 (7)
 
@@ -4082,7 +4084,7 @@ vonatkozó adatokat kezelhet.
 - a) a tanfolyamra jelentkező örökbe fogadni szándékozó személy személyazonosító adatait és elérhetőségére vonatkozó adatait, és
 - b) a tanfolyam oktatóinak személyazonosító adatait, elérhetőségére és végzettségére vonatkozó adatait.
 
-(2) A miniszter az örökbefogadásra felkészítő tanfolyam lebonyolításának ellenőrzése és a tanfolyam finanszírozásának biztosítása céljából a tanfolyam meghirdetésétől számított tíz évig kezeli
+(2) A gyermek- és ifjúságpolitikáért felelős miniszter az örökbefogadásra felkészítő tanfolyam lebonyolításának ellenőrzése és a tanfolyam finanszírozásának biztosítása céljából a tanfolyam meghirdetésétől számított tíz évig kezeli
 
 - a) a tanfolyamra jelentkező örökbe fogadni szándékozó személy személyazonosító adatait, és
 - b) a tanfolyam oktatóinak személyazonosító adatait és végzettségére vonatkozó adatait.
@@ -4097,7 +4099,7 @@ vonatkozó adatokat kezelhet.
 - a) a szociális hatáskört gyakorló szervnek a szociális ellátás megállapítása,
 - b) a rendőrségnek, a nyomozó hatóságnak, az ügyészségnek, a bíróságnak, az igazságügyi szakértőnek a bűnüldözés és bűnmegelőzés, valamint bírósági eljárás lefolytatása, továbbá a pártfogó felügyelőnek a büntetőeljárásról szóló törvény szerinti környezettanulmány, pártfogó felügyelői vélemény és összefoglaló pártfogó felügyelői vélemény elkészítése,
 - c) a külföldi hatóságnak, illetve bíróságnak családi jogállás, gyermektartás, kapcsolattartás, gyámság, örökbefogadás, a gyermek érdekében tett ideiglenes intézkedés, valamint a gyermek jogellenes külföldre vitelének megszüntetése céljából,
-- d) a minisztériumnak, a gyermekvédelmi ágazati irányítási tevékenység és a külön jogszabályban meghatározott központi hatósági feladatok ellátása
+- d) a minisztériumnak és a gyermek- és ifjúságpolitikáért felelős miniszter által vezetett minisztériumnak, a gyermekvédelmi ágazati irányítási tevékenység és a külön jogszabályban meghatározott központi hatósági feladatok ellátása
 
 (3) A gyermek személyazonosító adatai és
 
@@ -4441,11 +4443,11 @@ a gyermekjóléti szolgáltatások területi lefedettségét figyelembe vevő, k
 
 teszi szükségessé.
 
-(2d) A (2c) bekezdés szerinti feltételek fennállását a miniszter vizsgálja. Ha a (2c) bekezdés szerinti feltételek nem állnak fenn, a miniszter a befogadásról az általa meghatározott és közleményben közzétett kapacitások alapján dönt.
+(2d) A (2c) bekezdés szerinti feltételek fennállását a miniszter, a gyermekek napközbeni ellátása tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter vizsgálja. Ha a (2c) bekezdés szerinti feltételek nem állnak fenn, a miniszter, a gyermekek napközbeni ellátása tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter a befogadásról az általa meghatározott és közleményben közzétett kapacitások alapján dönt.
 
 (2e) A (2c) bekezdés c) pontja szerinti esetben szétváláson, egyesítésen, átcsoportosításon, illetve átadáson az egyik intézményben, telephelyen történő férőhelyszám-csökkenéssel egyidejű, másik intézményben, telephelyen, újonnan létesített intézményben, telephelyen történő azonos mértékű férőhelyszám-növelést kell érteni.
 
-(2f) A miniszter az államháztartásért felelős miniszter egyetértésével indokolt esetben dönthet a szolgáltató, intézmény, hálózat, férőhelyszám befogadásának szükségességéről a (2c) és a (2d) bekezdésben foglaltakra tekintet nélkül, a költségvetési források, a területi lefedettség, a szükségletek és a szolgáltatói nyilvántartásból törölt kapacitások figyelembevételével. Indokolt eset különösen a megszűnt intézmény ellátottairól való gondoskodás, a területileg hiányzó szolgáltatás pótlása, valamint a máshol nem ellátható személyek ellátásának biztosítása. A miniszter döntését – az államháztartásért felelős miniszter 30 napon belül közölt álláspontja alapján – 60 napon belül hozza meg.
+(2f) A miniszter, a gyermekek napközbeni ellátása tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértésével indokolt esetben dönthet a szolgáltató, intézmény, hálózat, férőhelyszám befogadásának szükségességéről a (2c) és a (2d) bekezdésben foglaltakra tekintet nélkül, a költségvetési források, a területi lefedettség, a szükségletek és a szolgáltatói nyilvántartásból törölt kapacitások figyelembevételével. Indokolt eset különösen a megszűnt intézmény ellátottairól való gondoskodás, a területileg hiányzó szolgáltatás pótlása, valamint a máshol nem ellátható személyek ellátásának biztosítása. A miniszter, a gyermekek napközbeni ellátása tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter a döntését – az államháztartásért felelős miniszter 30 napon belül közölt álláspontja alapján – 60 napon belül hozza meg.
 
 (2g) A gyermekek átmeneti otthonára és a családok átmeneti otthonára a (2a)–(2f) bekezdés szabályai helyett az Szt. 58/A. § (2a)–(2f) bekezdését kell alkalmazni, azzal, hogy a családok átmeneti otthona keretében létrehozott külső férőhelyek esetében a központi költségvetésről szóló törvényben biztosított támogatás befogadás nélkül is jár.
 
@@ -4874,24 +4876,32 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
-- a) a gyermekjóléti és gyermekvédelmi személyes gondoskodást nyújtó intézmények és személyek szakmai feladatait, működésük feltételeit, valamint a szolgáltatás igénybevételére való jogosultság feltételeinek részletes szabályait,
-- b) a gyermekjóléti és gyermekvédelmi személyes gondoskodás körébe tartozó egyes feladatokat ellátó személyek képesítési előírásait,
-- c) az egyes gyermekjóléti és gyermekvédelmi személyes gondoskodást nyújtó intézmények vezetőinek képesítési előírásait, megbízását és az intézményvezetői állás betöltésével kapcsolatos pályázati eljárást,
+- a) a gyermekjóléti és gyermekvédelmi személyes gondoskodást nyújtó intézmények és személyek szakmai feladatait, működésük feltételeit, valamint a szolgáltatás igénybevételére való jogosultság feltételeinek részletes szabályait, a (3) bekezdés a) pontjában meghatározottak kivételével,
+- b) a gyermekjóléti és gyermekvédelmi személyes gondoskodás körébe tartozó egyes feladatokat ellátó személyek képesítési előírásait, a (3) bekezdés b) pontjában meghatározottak kivételével,
+- c) az egyes gyermekjóléti és gyermekvédelmi személyes gondoskodást nyújtó intézmények vezetőinek képesítési előírásait, megbízását és az intézményvezetői állás betöltésével kapcsolatos pályázati eljárást, a (3) bekezdés b) pontjában meghatározottak kivételével,
 - d) a 102. §-ban és a 137. § (2) bekezdésében meghatározott eljárás részletes szabályait,
-- e) a családi napközi, helyettes szülői és nevelőszülői képzés szakmai és vizsgakövetelményeit, valamint a nevelőszülők számára szervezett központi oktatási program szervezésére, szakmai és vizsgakövetelményeire vonatkozó részletes szabályokat,
+- e) a helyettes szülői és nevelőszülői képzés szakmai és vizsgakövetelményeit, valamint a nevelőszülők számára szervezett központi oktatási program szervezésére, szakmai és vizsgakövetelményeire vonatkozó részletes szabályokat,
 - f) – az adópolitikáért felelős miniszter egyetértésével – az országos szakértői névjegyzékkel összefüggő eljárásokban fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének részletes szabályait,
 - g) a külföldi alap-, közép- és felsőfokú szakképzés, valamint szakirányú szakképzés során szerzett szakképzettség megszerzését tanúsító oklevelek elismerésére, továbbá az eljáró hatóságra, annak feladat- és hatáskörére vonatkozó részletes szabályokat,
 - h) a módszertani feladatokat ellátó szerv feladataira vonatkozó részletes szabályokat,
-- i) az örökbefogadás előtti tanácsadás és felkészítő tanfolyam részletes szabályait és az azokért fizetendő díjat,
+- i) a hivatásos gondnoki feladatot ellátók képesítési előírásait,
 - j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályait,
-- k) a bölcsődében, mini bölcsődében a nevelés-gondozás nélküli munkanapok számát, célját, időpontját, valamint az e napokon nyújtott ellátás tartalmát,
-- l) a bölcsődei ellátást biztosító intézményben, szolgáltatónál foglalkoztatottak jubileumi jutalma alapjául szolgáló illetmény összegébe beszámítandó pótlékokat,
-- m) a Bölcsődei nevelés-gondozás országos alapprogramjának bevezetését és kiadását,
-- n) a bölcsődei dajka, a bölcsődei szolgáltatást nyújtó személy és a napközbeni gyermekfelügyelet szolgáltatást nyújtó személy képzésének szakmai és vizsgakövetelményeit,
+- k)
+- l)
+- m)
+- n)
 - o) a tömeges bevándorlás okozta válsághelyzet miatt létesített, illetve fenntartott ideiglenes befogadó férőhely szakmai feladatait, működésük feltételeit és az ott nyújtott ellátás tartalmát,
 - p)
 
-(3) Felhatalmazást kap a családpolitikáért felelős miniszter, hogy a hivatásos gondnoki feladatot ellátók képesítési előírásait rendeletben szabályozza.
+(3) Felhatalmazást kap a gyermek- és ifjúságpolitikáért felelős miniszter, hogy rendeletben szabályozza
+
+- a) a gyermekek napközbeni ellátását biztosító intézmények, szolgáltatók és személyek szakmai feladatait, működésük feltételeit, valamint az ellátás igénybevételére való jogosultság feltételeinek részletes szabályait,
+- b) a gyermekek napközbeni ellátása körébe tartozó egyes feladatokat ellátó személyek és vezetők képesítési előírásait,
+- c) a bölcsődében, mini bölcsődében a nevelés-gondozás nélküli munkanapok számát, célját, időpontját, valamint az e napokon nyújtott ellátás tartalmát,
+- d) a gyermekek napközbeni ellátását biztosító intézményben, szolgáltatónál foglalkoztatottak jubileumi jutalma alapjául szolgáló illetmény összegébe beszámítandó pótlékokat,
+- e) a Bölcsődei nevelés-gondozás országos alapprogramjának bevezetését és kiadását,
+- f) a bölcsődei dajka, a bölcsődei szolgáltatást nyújtó személy és a napközbeni gyermekfelügyelet szolgáltatást nyújtó személy képzésének szakmai és vizsgakövetelményeit,
+- g) az örökbefogadás előtti tanácsadás és felkészítő tanfolyam részletes szabályait és az azokért fizetendő díjat.
 
 (4) Felhatalmazást kap a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a szolgáltatói nyilvántartásra vonatkozó hatósági eljárásokban a szakmai program véleményezéséért a módszertani feladatokat ellátó szervnek fizetendő szakértői díj mértékét.
 

@@ -596,7 +596,7 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 
 55. § (1) A Nemzeti Választási Irodát elnök vezeti. A Nemzeti Választási Iroda elnökét a miniszterelnök javaslatára a köztársasági elnök nevezi ki a felsőfokú végzettségű, az országgyűlési képviselők választásán választható, magyar állampolgárok közül.
 
-(2) A Nemzeti Választási Iroda elnökének nem nevezhető ki az, aki a kinevezésre irányuló javaslat megtételének időpontját megelőző négy évben köztársasági elnök, a Kormány tagja, államtitkár, képviselő, alpolgármester, főpolgármester-helyettes, illetve párt tisztségviselője vagy alkalmazottja volt.
+(2) A Nemzeti Választási Iroda elnökének nem nevezhető ki az, aki a kinevezésre irányuló javaslat megtételének időpontját megelőző négy évben köztársasági elnök, a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, képviselő, alpolgármester, főpolgármester-helyettes, illetve párt tisztségviselője vagy alkalmazottja volt.
 
 (3) A köztársasági elnök a Nemzeti Választási Iroda elnökét kilenc évre nevezi ki.
 

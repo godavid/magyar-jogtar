@@ -762,7 +762,7 @@ az időpontja.
 
 (4) A Korhatár Bizottság tagjai a 18. § (2) bekezdésben meghatározott, a Kormány által rendeletben kijelölt miniszter által megállapított díjazásban részesülnek.
 
-(5) A kultúráért felelős miniszter (a továbbiakban: miniszter), az oktatásért felelős miniszter, a gyermekek és az ifjúság védelméért felelős miniszter, a Médiatanács és az NFI egy-egy, a gyermek- és ifjúságvédelem területén tapasztalattal rendelkező delegáltja a Korhatár Bizottság ülésein szakértőként részt vehet.
+(5) A kultúráért felelős miniszter (a továbbiakban: miniszter), a köznevelésért felelős miniszter, a gyermekek és az ifjúság védelméért felelős miniszter, a Médiatanács és az NFI egy-egy, a gyermek- és ifjúságvédelem területén tapasztalattal rendelkező delegáltja a Korhatár Bizottság ülésein szakértőként részt vehet.
 
 ### A filmalkotások besorolásának közzététele
 

@@ -140,7 +140,7 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 - c) ha megszűnik az a képviselőcsoport, amelynek tagja,
 - d) felmentésével,
 - e) a tisztségről való lemondásával,
-- f) miniszterelnökké történő megválasztásával, miniszterré vagy államtitkárrá történő kinevezésével, vagy
+- f) miniszterelnökké történő megválasztásával, miniszterré, a miniszterelnök politikai igazgatójává vagy államtitkárrá történő kinevezésével, vagy
 - g) ha adott országgyűlési cikluson belül az ülésnapról vagy ülésről kizárás fegyelmi intézkedést két alkalommal vagy a kitiltás fegyelmi intézkedést egy alkalommal jogerősen alkalmazták vele szemben.
 
 (1a) A törvényalkotásért felelős alelnök megbízatása megszűnik akkor is, ha az Országgyűlés nem választja meg a törvényalkotási bizottság elnökévé, illetve ha a törvényalkotási bizottság elnökségére vonatkozó megbízatása a 19. § (1) bekezdés b), e) vagy h) pontja alapján megszűnik.
@@ -152,7 +152,7 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 - c) felmentésével,
 - d) a tisztségről való lemondásával,
 - e) összeférhetetlenségének kimondásával,
-- f) miniszterelnökké történő megválasztásával, miniszterré vagy államtitkárrá történő kinevezésével, vagy
+- f) miniszterelnökké történő megválasztásával, miniszterré, a miniszterelnök politikai igazgatójává vagy államtitkárrá történő kinevezésével, vagy
 - g) ha adott országgyűlési cikluson belül az ülésnapról vagy ülésről kizárás fegyelmi intézkedést két alkalommal vagy a kitiltás fegyelmi intézkedést egy alkalommal jogerősen alkalmazták vele szemben.
 
 (3) Az alelnök, jegyző felmentéséről a Házbizottság javaslata, a háznagy felmentéséről a házelnök javaslata alapján az Országgyűlés vita nélkül határoz. Az alelnök, a jegyző és a háznagy felmentésére egyebekben a megválasztásra vonatkozó szabályokat kell alkalmazni.
@@ -243,7 +243,7 @@ létre.
 
 17. § (1) Az állandó bizottság munkájában bizottsági tagként lehetőség szerint minden képviselőcsoportból annyi képviselő vehet részt, amennyi a képviselőcsoportok közötti létszámaránynak megfelel.
 
-(2) A Kormány tagja és az államtitkár kivételével minden képviselő számára lehetővé kell tenni, hogy legalább egy, a 14. § (1) bekezdés a) pontja szerinti bizottság munkájában részt vegyen.
+(2) A Kormány tagja, a miniszterelnök politikai igazgatója és az államtitkár kivételével minden képviselő számára lehetővé kell tenni, hogy legalább egy, a 14. § (1) bekezdés a) pontja szerinti bizottság munkájában részt vegyen.
 
 (3)
 
@@ -271,7 +271,7 @@ létre.
 - f) ha megszűnik az a képviselőcsoport, amelynek a tagja,
 - g) ha független képviselőként képviselőcsoporthoz csatlakozik,
 - h) független képviselő esetén a Házbizottság általi visszahívásával, vagy
-- i) miniszterelnökké történő megválasztásával, miniszterré vagy államtitkárrá történő kinevezésével.
+- i) miniszterelnökké történő megválasztásával, miniszterré, a miniszterelnök politikai igazgatójává vagy államtitkárrá történő kinevezésével.
 
 (2) Az állandó bizottság elnöke, alelnöke és tagja a házelnökhöz benyújtott írásbeli nyilatkozatával lemondhat megbízatásáról. A lemondást nem kell indokolni, érvényességéhez elfogadó nyilatkozat nem szükséges, a megbízatás a lemondás benyújtása napján szűnik meg.
 
@@ -629,13 +629,24 @@ utasíthat.
 
 41. § A minisztert a miniszter feladatköre szerint hatáskörrel rendelkező bizottság évente meghallgatja.
 
+41/A. § (1) Ha a miniszterelnök politikai igazgatója képviselői megbízatással rendelkezik,
+
+- a) a 39. § (1) bekezdése szerinti tanácskozási joggal rendelkező személyként részt vehet és felszólalhat az Országgyűlés ülésén, valamint
+- b) – ha a tárgyalt napirendi pont a Kormány vagy a Kormány tagja feladatkörét érinti – meghívottként tanácskozási joggal részt vehet a 14. § (1) bekezdés a) pontja szerinti bizottság ülésén.
+
+(2) A miniszterelnök politikai igazgatója nem kötelezhető a 39. § (4) bekezdése szerint az Országgyűlés ülésén való megjelenésre.
+
+(3) A miniszterelnök politikai igazgatója az (1) bekezdés szerinti esetekben az ülések lefolytatásával kapcsolatos házszabályi rendelkezések tekintetében a Kormány képviselőjének minősül.
+
 #### 16. Interpelláció és kérdés
 
 42. § (1) Az Országgyűlés ülésének napirendjében feltüntetett időpontban interpelláció és kérdés, illetve interpelláció vagy kérdés tárgyalására minden olyan héten, amikor az Országgyűlés ülést tart, legalább a határozati házszabályi rendelkezésekben meghatározott időtartamot kell biztosítani. Valamennyi képviselőcsoport számára lehetővé kell tenni, hogy az ülésen legalább egy általa benyújtott interpelláció és kérdés tárgyalására sor kerüljön. A Házbizottság a független képviselők létszámát figyelembe véve biztosítja számukra az interpellációk és kérdések feltételének lehetőségét. A nemzetiségi képviselő – a Házbizottság által a független képviselők számára biztosított lehetőségen felül – rendes ülésszakonként további egy, a nemzetiségek érdekeit, jogait érintő interpelláció elmondására is jogosult, amelynek tárgyalására olyan ülésen van lehetőség, amelyen független képviselő által benyújtott interpelláció elhangzására nem kerül sor.
 
 (2) Akihez az Alaptörvény szerint interpelláció vagy kérdés intézhető, köteles az interpellációt vagy kérdést személyesen, kivételesen helyettese útján megválaszolni.
 
-(3) Ha az interpelláció vagy kérdés az egész Kormány működését érinti, a miniszterelnök válaszol, ha több minisztert érint vagy az érintett miniszter személye kérdéses, a miniszterelnök jelöli ki a válaszadó minisztert.
+(3) Ha az interpelláció vagy kérdés az egész Kormány működését érinti, a miniszterelnök személyesen vagy – a (3a) bekezdésben meghatározott esetben – a miniszterelnök politikai igazgatója útján válaszol. Ha az interpelláció vagy kérdés több minisztert érint vagy az érintett miniszter személye kérdéses, a miniszterelnök jelöli ki a válaszadó minisztert vagy – a (3a) bekezdésben meghatározott esetben – a miniszterelnök politikai igazgatóját.
+
+(3a) A miniszterelnök az egész Kormány működését érintő, továbbá azon interpelláció vagy kérdés megválaszolására, amely több minisztert érint, vagy amely esetében az érintett miniszter személye kérdéses, a miniszterelnök politikai igazgatóját is kijelölheti, ha a miniszterelnök politikai igazgatója képviselői megbízatással rendelkezik.
 
 (4) Minden interpellációra az Országgyűlés ülésén kell választ adni. Az interpellált megindokolt kérésére az Országgyűlés – vita nélküli szavazással – engedélyezheti, hogy harminc napon belül írásban válaszoljon.
 
@@ -1195,11 +1206,11 @@ megegyező mértékben csökkenti.
 
 80. § (1) A képviselői megbízatás – a (2) és (2a) bekezdésben meghatározott kivétellel – összeegyeztethetetlen minden más állami, önkormányzati és gazdasági tisztséggel vagy megbízatással. A képviselő a tudományos, egyetemi oktatói, főiskolai oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve más keresőfoglalkozást nem folytathat és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenységet és a nevelőszülői foglalkoztatási jogviszony keretében végzett tevékenységet kivéve – díjazást nem fogadhat el. A képviselőnek a mezőgazdasági őstermelőként folytatott tevékenysége nem minősül kereső foglalkozásnak vagy díjazás ellenében folytatott egyéb tevékenységnek.
 
-(2) A képviselő miniszterelnöki, miniszteri, államtitkári, kormánybiztosi, miniszterelnöki biztosi, miniszterelnöki megbízotti vagy miniszteri biztosi tisztséget láthat el, illetve az Országgyűlés tisztségviselője lehet.
+(2) A képviselő miniszterelnöki, miniszteri, a miniszterelnök politikai igazgatója, államtitkári, kormánybiztosi, miniszterelnöki biztosi, miniszterelnöki megbízotti vagy miniszteri biztosi tisztséget láthat el, illetve az Országgyűlés tisztségviselője lehet.
 
 (2a) A képviselő közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumában és felügyelőbizottságában tag lehet, valamint közfeladatot ellátó közérdekű vagyonkezelő alapítványban vagyonellenőri tisztséget betölthet.
 
-(3) A miniszterelnök, miniszter, államtitkár képviselő nem lehet az Országgyűlés tisztségviselője és országgyűlési bizottság tagja.
+(3) A miniszterelnök, a miniszter, a miniszterelnök politikai igazgatója, az államtitkár képviselő nem lehet az Országgyűlés tisztségviselője és országgyűlési bizottság tagja.
 
 (4)
 
@@ -1316,7 +1327,7 @@ megegyező mértékben csökkenti.
 
 (2) A képviselői, illetve a háznagyi tevékenység az eskütétel napjától – az összeférhetetlenség időtartama, illetve a 91. § (1a) bekezdés szerinti esetben az összeférhetetlenségnek a bejelentés napjáig terjedő időtartama kivételével – a megbízatás megszűnésének napjáig vezetői gyakorlatnak számít. A vezetői gyakorlat megállapításánál a felsorolt tisztségek betöltésének időtartamát kell figyelembe venni.
 
-(3) Ha a képviselő házelnöki, miniszterelnöki, miniszteri, államtitkári, kormánybiztosi, miniszterelnöki biztosi, miniszterelnöki megbízotti vagy miniszteri biztosi megbízatással rendelkezik, a társadalombiztosítás ellátásaira való jogosultság szempontjából e megbízatását kell figyelembe venni.
+(3) Ha a képviselő házelnöki, miniszterelnöki, miniszteri, a miniszterelnök politikai igazgatója, államtitkári, kormánybiztosi, miniszterelnöki biztosi, miniszterelnöki megbízotti vagy miniszteri biztosi megbízatással rendelkezik, a társadalombiztosítás ellátásaira való jogosultság szempontjából e megbízatását kell figyelembe venni.
 
 ### X. Fejezet — A KÉPVISELŐI TISZTSÉG ELLÁTÁSÁNAK TÁMOGATÁSA
 
@@ -1401,7 +1412,7 @@ felhasználói engedély és titoktartási nyilatkozat nélkül jogosult.
 
 106. § (1) A képviselő – az e törvényben meghatározottak kivételével – állami szervtől egyéb jogcímen díjazásban nem részesülhet.
 
-(2) A miniszterelnök, a miniszter, az államtitkár, a kormánybiztos, a miniszterelnöki biztos, a miniszterelnöki megbízott vagy a miniszteri biztos képviselő a 104. § (1) vagy (2) bekezdésében meghatározott tiszteletdíjra is jogosult.
+(2) A miniszterelnök, a miniszter, a miniszterelnök politikai igazgatója, az államtitkár, a kormánybiztos, a miniszterelnöki biztos, a miniszterelnöki megbízott vagy a miniszteri biztos képviselő a 104. § (1) vagy (2) bekezdésében meghatározott tiszteletdíjra is jogosult.
 
 107. § (1) Ha az Országgyűlés a napirendi javaslatban feltüntetett szavazások – napirendi javaslatban jelzett – időpontjában nem határozatképes, és a határozatképességet az ülést vezető elnöknek nem sikerül helyreállítania, akkor az előzetes bejelentés nélkül távol maradó képviselő adott havi – levonásoktól mentes – teljes tiszteletdíját a Házbizottság csökkentheti. A tiszteletdíj csökkentésének mértéke nem haladhatja meg a 104. § (1) bekezdés szerinti tiszteletdíj harmadát.
 

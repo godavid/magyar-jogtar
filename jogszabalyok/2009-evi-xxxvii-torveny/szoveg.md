@@ -607,7 +607,7 @@ a b)–d) pont esetében a hatáskörrel rendelkező hatóság, illetve miniszte
 - a) a miniszter,
 - b) a környezetvédelemért felelős miniszter,
 - c) a természetvédelemért felelős miniszter,
-- d) az oktatásért felelős miniszter,
+- d) a felsőoktatásért felelős miniszter és a köznevelésért felelős miniszter,
 - e) az egészségügyért felelős miniszter,
 - f) a honvédelemért felelős miniszter,
 - g) a határrendészetért felelős miniszter,

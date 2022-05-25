@@ -246,7 +246,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 
 (2) Az államnak az (1) bekezdés a) pontja szerinti gazdálkodó szervezet alapításával kapcsolatos jogait, valamint az államot megillető tulajdonosi jogok és kötelezettségek összességét – ide nem értve a (3) bekezdésben foglaltakat – a külgazdasági ügyekért felelős miniszter gyakorolja.
 
-(3) A Kárpát Régió Üzleti Hálózat Zártkörűen Működő Részvénytársaság alapítással kapcsolatos jogait, valamint az államot megillető tulajdonosi jogok és kötelezettségek összességét a gazdaságpolitikáért felelős miniszter gyakorolja azzal, hogy a tulajdonosi döntéseket az agrár-vidékfejlesztésért felelős miniszterrel való egyeztetést követően hozza meg.
+(3) A Kárpát Régió Üzleti Hálózat Zártkörűen Működő Részvénytársaság alapítással kapcsolatos jogait, valamint az államot megillető tulajdonosi jogok és kötelezettségek összességét a gazdaságfejlesztésért felelős miniszter gyakorolja azzal, hogy a tulajdonosi döntéseket az agrárpolitikáért felelős miniszterrel való egyeztetést követően hozza meg.
 
 13/B. § (1) A 12. § (1) bekezdés j) pontjában meghatározott közfeladatokat az országos gazdasági kamara az állam és az országos gazdasági kamara által – 50 százalékot meghaladó állami tulajdonrésszel – alapított zártkörűen működő részvénytársaság közreműködésével látja el.
 
@@ -485,7 +485,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 - e) egyéb bevételekből, ideértve az önkéntesen felajánlott hozzájárulásokat is;
 - f) a költségvetési törvényben megállapított támogatásból.
 
-(2) Az (1) bekezdés f) pontjában megállapított, a gazdasági kamarák közfeladatainak ellátásához kapcsolódó költségvetési támogatás felhasználásáról a Magyar Kereskedelmi és Iparkamara Küldöttgyűlése dönt, amelynek célját, módját és ellenőrzését a gazdaságpolitikáért felelős miniszter és a Magyar Kereskedelmi és Iparkamara által kötött szerződés határozza meg.
+(2) Az (1) bekezdés f) pontjában megállapított, a gazdasági kamarák közfeladatainak ellátásához kapcsolódó költségvetési támogatás felhasználásáról a Magyar Kereskedelmi és Iparkamara Küldöttgyűlése dönt, amelynek célját, módját és ellenőrzését a Kormány és a Magyar Kereskedelmi és Iparkamara által kötött szerződés határozza meg.
 
 (3) A költségvetési támogatás felhasználásáról a gazdásági kamarák évente beszámolnak a fejezetet irányító szervnek, amely a költségvetési támogatás felhasználását és hatékonyságát évente köteles ellenőrizni.
 
@@ -592,7 +592,7 @@ kamarai feladatokkal összefüggő tevékenység folytatására. A névhasznála
 
 (4) A Módtv.2. alapján az országos gazdasági kamara és az érintett szervek legkésőbb 2014. június 30-ig megkötik a 11. § (4) bekezdése szerinti megállapodásokat.
 
-(5) Az országos gazdasági kamara a Módtv.2.-vel megállapított 8/B. § alapján létrehozandó nyilvántartást 2015. december 31. napját követően köteles működtetni, amelyhez a gazdaságpolitikáért felelős miniszter az általa vezetett minisztérium költségvetési fejezete terhére költségvetési támogatást nyújt.
+(5) Az országos gazdasági kamara a Módtv.2.-vel megállapított 8/B. § alapján létrehozandó nyilvántartást 2015. december 31. napját követően köteles működtetni, amelyhez a gazdaságfejlesztésért felelős miniszter a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 20. § (2) bekezdés b) pontja szerinti kijelölt minisztérium költségvetési fejezete terhére költségvetési támogatást nyújt.
 
 46. § Ahol jogszabály területi kereskedelmi és iparkamarát, vagy területi kézműves kamarát, illetve Magyar Kereskedelmi és Iparkamarát, vagy Magyar Kézműves Kamarát említ, azon 2000. március 31. napjától a kereskedelmi és iparkamarát, illetve Magyar Kereskedelmi és Iparkamarát kell érteni.
 

@@ -1819,7 +1819,7 @@ tudósítói hálózatot működtet.
 
 (2) Szakmai gyakorlatnak tekintendő a műsorkészítési, műsorszolgáltatási, tájékoztatási, továbbá az ezzel összefüggő műszaki, jogi, vezetői, igazgatási, gazdasági, kulturális, tudományos és közvéleménykutatási tevékenység.
 
-(3) Nem nevezhető ki a közszolgálati médiaszolgáltató vezérigazgatójává, aki a választást megelőző két évben köztársasági elnök, miniszterelnök, a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, országgyűlési képviselő, nemzetiségi szószóló, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, politikai párt országos vagy területi szervezetének tisztségviselője volt.
+(3) Nem nevezhető ki a közszolgálati médiaszolgáltató vezérigazgatójává, aki a választást megelőző két évben köztársasági elnök, miniszterelnök, a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár, helyettes államtitkár, országgyűlési képviselő, nemzetiségi szószóló, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, politikai párt országos vagy területi szervezetének tisztségviselője volt.
 
 (4) A közszolgálati médiaszolgáltató vezérigazgatója büntetlen előélete igazolásának rendjére és az alkalmazandó jogkövetkezményekre a munka törvénykönyvében meghatározottakat kell alkalmazni.
 
@@ -2180,7 +2180,7 @@ amelynek jogát vagy jogos érdekét főigazgatóként hozott döntése érintet
 
 118. § (1) Az Elnök, az elnökhelyettes, a főigazgató, a főigazgató-helyettes nem lehet
 
-- a) köztársasági elnök, miniszterelnök, a kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, nemzetiségi szószóló, az Európai Parlament tagja,
+- a) köztársasági elnök, miniszterelnök, a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, nemzetiségi szószóló, az Európai Parlament tagja,
 - b) a Közszolgálati Közalapítvány Kuratóriumának és a Közszolgálati Testületnek az elnöke, tagja, az Alap vezérigazgatója, vezérigazgató-helyettese, közszolgálati médiaszolgáltató vezérigazgatója, felügyelő bizottságának elnöke, tagja, a Médiatanács tagja, a Hatóság Elnökének kivételével a Médiatanács elnöke, valamint bármelyik szervezettel munkavégzésre irányuló jogviszonyban álló személy,
 - c) helyi vagy megyei önkormányzati képviselő, kormánytisztviselő, párt országos vagy területi szervezetének tisztségviselője vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
 - d) hírközlési vagy médiaszolgáltató, műsorterjesztő, reklámügynökség, sajtóterméket kiadó, lapterjesztő vállalkozás vezető tisztségviselője, vezető testületének tagja, felügyelő bizottsági tagja,

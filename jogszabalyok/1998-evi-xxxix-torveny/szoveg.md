@@ -16,7 +16,7 @@ a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás sz
 
 (3) A Nyugdíjbiztosítási Alap kezelésével kapcsolatos költségeket a központi nyugdíjbiztosítási szerv költségvetésében kell meghatározni.
 
-3. § Az alapokhoz tartozó vagyon állami tulajdon, a vagyonnal kapcsolatos tulajdonosi jogokat az egészségbiztosítási ágazat tekintetében az egészségbiztosításért felelős miniszter, a nyugdíjbiztosítási ágazat tekintetében a szociál- és nyugdíjpolitikáért felelős miniszter gyakorolja azzal, hogy a Nyugdíjbiztosítási Alaphoz tartozó működési vagyonnal kapcsolatos tulajdonosi joggyakorló a központi nyugdíjbiztosítási szerv vezetője.
+3. § Az alapokhoz tartozó vagyon állami tulajdon, a vagyonnal kapcsolatos tulajdonosi jogokat az egészségbiztosítási ágazat tekintetében az egészségbiztosításért felelős miniszter, a nyugdíjbiztosítási ágazat tekintetében a nyugdíjpolitikáért felelős miniszter gyakorolja azzal, hogy a Nyugdíjbiztosítási Alaphoz tartozó működési vagyonnal kapcsolatos tulajdonosi joggyakorló a központi nyugdíjbiztosítási szerv vezetője.
 
 4. §
 

@@ -465,7 +465,7 @@ kell igazolnia.
 
 (5) A honvédelemért felelős miniszter együttműködik a Nemzeti Emlékhely és Kegyeleti Bizottsággal, valamint a NÖRI-vel, különös tekintettel a nemzeti sírkert részévé nyilvánított hősi temető, hősi temetési hely vonatkozásában. A NÖRI a nemzeti sírkert részévé nyilvánított hősi temető, hősi temetési hely tekintetében a rendelkezési jogot a honvédelemért felelős miniszter hozzájárulásával gyakorolja.
 
-(6) A honvédelemért felelős miniszter az oktatásért felelős miniszterrel együttműködve gondoskodik a hősi temetőhöz, hősi temetési helyhez fűződő nemzeti értéket hordozó örökség megismerését és bemutatását elősegítő oktatási, képzési, ismeretterjesztő programok kidolgozásáról és végrehajtásáról.
+(6) A honvédelemért felelős miniszter a köznevelésért felelős miniszterrel együttműködve gondoskodik a hősi temetőhöz, hősi temetési helyhez fűződő nemzeti értéket hordozó örökség megismerését és bemutatását elősegítő oktatási, képzési, ismeretterjesztő programok kidolgozásáról és végrehajtásáról.
 
 40/C. § (1) A honvédelemért felelős miniszter által a hősi temető, hősi temetési hely kezelésének ellenőrzésére kijelölt szerv (a továbbiakban: ellenőrző szerv) felméri és folyamatosan figyelemmel kíséri a hősi temető, hősi temetési hely állapotát, továbbá megteszi azok fenntartásához és védelméhez szükséges intézkedéseket.
 

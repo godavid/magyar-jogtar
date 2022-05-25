@@ -2,7 +2,15 @@
 
 az atomenergiáról
 
-Az Országgyűléstekintettel arra, hogy az atomenergia békés célú alkalmazása az ipar, a mezőgazdaság, az egészségügy és a tudományos kutatások számos területén elősegíti az emberiség életfeltételeinek javítását,figyelembe véve azonban, hogy rendeltetéstől eltérő alkalmazása károsíthatja az ember és az élővilág egészségét, illetve a természeti környezetet,annak érdekében, hogy az atomenergia alkalmazása által okozott kockázat ne legyen nagyobb, mint más tevékenységek társadalmilag elfogadott kockázata, és a biztonsági követelmények betartását a nemzetközi előírásokkal is összhangban álló hazai szabályozás biztosítsa,a lakosságnak és a környezetnek az ionizáló sugárzás káros hatásai elleni védelméről, valamint az atomenergia alkalmazásának szabályozásáról, az ezekkel összefüggő engedélyezési eljárásról, e téren a hatóságok és az atomenergiát alkalmazók alapvető feladatairól, kötelezettségeiről
+Az Országgyűlés
+
+tekintettel arra, hogy az atomenergia békés célú alkalmazása az ipar, a mezőgazdaság, az egészségügy és a tudományos kutatások számos területén elősegíti az emberiség életfeltételeinek javítását,
+
+figyelembe véve azonban, hogy rendeltetéstől eltérő alkalmazása károsíthatja az ember és az élővilág egészségét, illetve a természeti környezetet,
+
+annak érdekében, hogy az atomenergia alkalmazása által okozott kockázat ne legyen nagyobb, mint más tevékenységek társadalmilag elfogadott kockázata, és a biztonsági követelmények betartását a nemzetközi előírásokkal is összhangban álló hazai szabályozás biztosítsa,
+
+a lakosságnak és a környezetnek az ionizáló sugárzás káros hatásai elleni védelméről, valamint az atomenergia alkalmazásának szabályozásáról, az ezekkel összefüggő engedélyezési eljárásról, e téren a hatóságok és az atomenergiát alkalmazók alapvető feladatairól, kötelezettségeiről
 
 a következő törvényt alkotja:
 
@@ -304,7 +312,7 @@ amelynek jogát vagy jogos érdekét az atomenergia-felügyeleti szerv döntése
 
 6/G. § (1) Az elnök és az elnökhelyettes nem lehet
 
-- a) köztársasági elnök, a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, az Európai Parlament tagja,
+- a) köztársasági elnök, a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, az Európai Parlament tagja,
 - b) helyi vagy megyei önkormányzati képviselő, kormánytisztviselő, párt országos vagy területi szervezetének tisztségviselője vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
 - c) az atomenergia-felügyeleti szerv felügyeleti jogkörébe tartozó vállalkozás vezető tisztségviselője, vezető testületének tagja, felügyelőbizottsági tagja,
 - d) olyan személy, aki az atomenergia-felügyeleti szerv felügyeleti jogkörébe tartozó gazdasági társasággal munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll,
@@ -1053,11 +1061,11 @@ szükséges nukleáris biztonsági engedélyezés;
 
 18. § A radioaktív anyagok, valamint az ionizáló sugárzást létrehozó berendezések, továbbá az üzemeltetésnek helyt adó létesítmény tulajdonjogának átruházására, a használat bármilyen jogcímen való átengedésére irányuló szerződést írásban kell megkötni.
 
-18/A. §
+#### 18/A. §
 
 18/B. § Nukleáris létesítmény, valamint radioaktív-hulladék tároló nukleáris biztonságát érintő hatósági ügyben, amennyiben hatásköri összeütközés merül fel az atomenergia-felügyeleti szerv és más engedélyezésre vagy ellenőrzésre jogosult hatóság között, a kijelölési eljárás befejezéséig az atomenergia-felügyeleti szerv jogosult és köteles eljárni.
 
-18/C. §
+#### 18/C. §
 
 ### Az atomenergia-felügyeleti szerv mérnöki, építészeti és építészeti-műszaki szakértői szakmagyakorlással kapcsolatos feladata
 
@@ -1174,7 +1182,7 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (3) E § alkalmazása szempontjából külföldi az a személy, aki nem EGT-állam állampolgára és az a szakértő szervezet, amely nem tartozik a Szolgtv. hatálya alá.
 
-19/E. §
+#### 19/E. §
 
 ### Az egészségügyért felelős miniszter hatásköre az egészségügyért felelős miniszter által szabályozott engedélyezési eljárásban
 
@@ -1189,13 +1197,15 @@ szükséges nukleáris biztonsági engedélyezés;
 - g) a nukleáris veszélyhelyzetben való közreműködést a döntések sugáregészségügyi megalapozásában;
 - h) az egészségügyi szolgáltatások nyújtása során ionizáló sugárzásnak nem munkaköri kötelezettségük keretében kitett személyek egészsége védelmének felügyeletét.
 
-21. §
+#### 21. §
 
-21/A. §
+#### 21/A. §
 
-21/B. §
+#### 21/B. §
 
-### Más közigazgatási szervek hatósági jogköreés feladata az atomenergia alkalmazása körében
+### Más közigazgatási szervek hatósági jogköre
+
+és feladata az atomenergia alkalmazása körében
 
 22. § Az atomenergia alkalmazásával összefüggő, a közbiztonság és belső rend biztosítását szolgáló rendészeti és fizikai védelmi feladatokat a rendészetért felelős miniszter, a tűzvédelmi, polgári védelmi és nukleárisbaleset-elhárítási feladatokat a katasztrófák elleni védekezésért felelős miniszter látja el.
 
@@ -1213,12 +1223,11 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (3) A 12. és a 15. §-ban meghatározott eljárási szabályokat a (2) bekezdés szerint kijelölt szervezet is alkalmazza.
 
-27. §
+#### 27. §
 
-28. § Az oktatásért felelős miniszter
+28. § (1) A köznevelésért felelős miniszter gondoskodik arról, hogy a jogszabályban meghatározott Nemzeti Alaptantervbe beépítésre kerüljön az atomenergia alkalmazásával összefüggő alapvető tudományos, technikai és sugárvédelmi ismeretek oktatási kötelezettsége.
 
-- a) gondoskodik arról, hogy a jogszabályban meghatározott Nemzeti Alaptantervbe beépítésre kerüljön az atomenergia alkalmazásával összefüggő alapvető tudományos, technikai és sugárvédelmi ismeretek oktatási kötelezettsége;
-- b) a szakmailag illetékes felsőoktatási intézményekkel együttműködve, az érintett miniszterek bevonásával – a felsőoktatásra vonatkozó jogszabályok keretein belül – gondoskodik az atomenergia alkalmazása terén a felsőfokú képzés, valamint továbbképzés szabályozásáról és feltételeinek megteremtéséről.
+(2) A felsőoktatásért felelős miniszter a szakmailag illetékes felsőoktatási intézményekkel együttműködve, az érintett miniszterek bevonásával – a felsőoktatásra vonatkozó jogszabályok keretein belül – gondoskodik az atomenergia alkalmazása terén a felsőfokú képzés, valamint továbbképzés szabályozásáról és feltételeinek megteremtéséről.
 
 29. § (1) A törvény 17–27. §-aiban írt szervek ellenőrző vizsgálat elvégzésével megbízhatnak olyan intézményt, amely a szükséges személyi és tárgyi feltételekkel, vagy olyan személyt, aki megfelelő, speciális szakképzettséggel rendelkezik.
 
@@ -1285,7 +1294,9 @@ szükséges nukleáris biztonsági engedélyezés;
 
 37. § A biztonsági övezetben elrendelt tilalmak és korlátozások fenntartása, valamint nukleáris létesítmény, illetve a radioaktívhulladék-tároló létesítése, továbbá a biztonsági övezetben ezen létesítményekkel összefüggésben végzett munkálatok folytán keletkezett kárt meg kell téríteni.
 
-### Radioaktív hulladék, kiégett üzemanyag tárolásaés elhelyezése
+### Radioaktív hulladék, kiégett üzemanyag tárolása
+
+és elhelyezése
 
 38. § (1) Az atomenergia alkalmazására engedély csak akkor adható, ha biztosított a keletkező radioaktív hulladék és a kiégett üzemanyag biztonságos elhelyezése, összhangban a tudomány legújabb igazolt eredményeivel, a nemzetközi elvárásokkal, valamint tapasztalatokkal.
 
@@ -1306,7 +1317,9 @@ szükséges nukleáris biztonsági engedélyezés;
 
 41. § A radioaktív hulladék végleges elhelyezésének, valamint a kiégett üzemanyag átmeneti tárolásának és a nukleárisüzemanyag-ciklus lezárásának, továbbá a nukleáris létesítmény leszerelésének költsége az engedélyest, a Magyar Tudományos Akadémia által alapított költségvetési szerv, valamint felsőoktatási intézmény, vagy a központi költségvetésből finanszírozott más szerv által működtetett nukleáris létesítmény esetén a központi költségvetést terheli.
 
-### IV. Fejezet — Intézkedések rendkívüli események megelőzéséreés következményeik elhárítására
+### IV. Fejezet — Intézkedések rendkívüli események megelőzésére
+
+és következményeik elhárítására
 
 42. § (1) Az atomenergia alkalmazója köteles azonnal hatékony intézkedéseket tenni abban az esetben, ha tevékenysége során rendkívüli esemény következett be, és a munkavállalókra vagy a lakosságra ható ionizáló sugárzás szintje vagy a radioaktív szennyeződés mértéke, illetve a környezetbe kibocsátott radioaktív anyagok mennyisége meghaladja vagy meghaladhatja a hatóságilag engedélyezett értéket.
 
@@ -1522,7 +1535,9 @@ járó költségeket.
 
 (3) Az Európai Bizottságot a nemzeti program tartalmáról első alkalommal 2015. augusztus 23-ig kell értesíteni.
 
-66/D. § Az atomenergiával, valamint az energetikával kapcsolatos egyes törvények, továbbá a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény módosításáról szóló 2013. évi CI. törvény 7. §-ával megállapított 10. § (4) bekezdése szerinti alkohol- és drogpolitikát első alkalommal 2013. december 31-ig kell megalkotni.
+66/D. § Az atomenergiával, valamint az energetikával kapcsolatos egyes törvények, továbbá a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény módosításáról szóló
+
+2013. évi CI. törvény 7. §-ával megállapított 10. § (4) bekezdése szerinti alkohol- és drogpolitikát első alkalommal 2013. december 31-ig kell megalkotni.
 
 66/E. § E törvénynek az energetikai tárgyú törvények módosításáról 2017. évi LXXV. törvény 12. § (2) bekezdésével megállapított 17. § (8a) bekezdését a folyamatban lévő hatósági eljárásokban és a megismételt eljárásokban is alkalmazni kell.
 

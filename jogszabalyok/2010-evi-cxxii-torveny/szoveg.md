@@ -305,7 +305,9 @@ kapcsolatos feladatokat.
 
 #### 23. §
 
-#### 24–25. §
+#### 24. §
+
+#### 25. §
 
 #### 26. §
 
@@ -1423,7 +1425,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 - f) a honvédelmi igazgatás illetékes szerve,
 - g) a NAV feladat- és hatáskörrel rendelkező szerve az Air., az Art., a Vtv. és az egyéb adó- és vám jogszabályok alapján a NAV hatáskörébe tartozó adókötelezettséggel, vámkötelezettséggel, adóigazgatási és vámigazgatási eljárással kapcsolatos feladatokkal összefüggésben,
 - h) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv,
-- i) a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából.
+- i) a Nemzeti Információs Központ elemzés-értékelés, hírigény teljesítése, valamint az utasadatok kockázatelemzése céljából.
 
 (3) Az adatszolgáltatást kérő szervek felelősek a (2) bekezdés alapján átvett adatoknak e törvény szerinti kezeléséért. Az ilyen adatfelhasználást kötelesek kimutatni, illetve nyilvántartani.
 
@@ -1588,7 +1590,11 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 (7) Ahol jogszabály vámhatóságot a bűnmegelőzési, bűnüldözési, bűnfelderítési, nyomozó hatósági feladatokkal összefüggésben említ, azon 2011. január 1-jétől a Nemzeti Adó- és Vámhivatal bűnügyi főigazgatóságát és a bűnügyi főigazgatóság középfokú szerveit valamint a Nemzeti Adó- és Vámhivatal vámszerveinek az Európai Unió külső vámhatárán működő, nyomozó hatósági hatáskörrel felruházott, e jogkörükben eljáró kirendeltségeit kell érteni.
 
-#### 91–93. §
+#### 91. §
+
+#### 92. §
+
+#### 93. §
 
 #### 94. §
 
@@ -1618,11 +1624,15 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 (2) A 19/B. § (2) bekezdését a NAV Mód. II. tv. hatálybalépését követő vezetői kinevezésekre kell alkalmazni.
 
-#### 98/F–98/G. §
+#### 98/F. §
+
+#### 98/G. §
 
 98/H. § A 2013. december 31-én a NAV állományába tartozó, tiszti vagy főtiszti állománycsoportba tartozó pénzügyőr a középfokú szaktanfolyamot 2015. december 31-éig köteles elvégezni. Amennyiben a pénzügyőr a középfokú szaktanfolyamot a munkáltató kötelezése ellenére önhibájából a meghatározott idő alatt nem kezdte meg, vagy önhibájából nem fejezte be, illetve a vizsgát nem tette le, a hivatásos szolgálati jogviszonya megszűnik.
 
-#### 98/I–98/J. §
+#### 98/I. §
+
+#### 98/J. §
 
 98/K. § (1) A NAV Mód. III. tv. hatálybalépésekor folyamatban lévő fegyelmi eljárásra a 2012. december 31-én alkalmazandó rendelkezések az irányadók.
 
@@ -1703,15 +1713,117 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 - c) a büntető ügyekben folytatott rendőrségi és igazságügyi együttműködés keretében feldolgozott személyes adatok védelméről szóló, 2008. november 27-i, 2008/977/IB tanácsi kerethatározat 3. cikke, 5. cikke, 9. cikke, 13. cikke [72. § (1)–(2) bekezdés, 74. § (2) bekezdés, 77. §, 78. § (1) bekezdés a)–c) pontok],
 - d) az információs technológia vámügyi alkalmazásáról szóló, 2009. november 30-i 2009/917/IB Tanácsi határozat [80. §].
 
-#### 106–155. §
+#### 106. §
+
+#### 122. §
+
+#### 123. §
+
+#### 124. §
+
+#### 125. §
+
+#### 126. §
+
+#### 127. §
+
+#### 128. §
+
+#### 129. §
+
+#### 130. §
+
+#### 131. §
+
+#### 132. §
+
+#### 133. §
+
+#### 134. §
+
+#### 135. §
+
+#### 136. §
+
+#### 137. §
+
+#### 138. §
+
+#### 139. §
+
+#### 140. §
+
+#### 141. §
+
+#### 142. §
+
+#### 143. §
+
+#### 144. §
+
+#### 145. §
+
+#### 146. §
+
+#### 147. §
+
+#### 148. §
+
+#### 149. §
+
+#### 150. §
+
+#### 151. §
+
+#### 152. §
+
+#### 153. §
+
+#### 154. §
+
+#### 155. §
 
 ### A Nemzeti Adó- és Vámhivatalról szóló törvényhez, illetve az adózás rendjéről szóló törvény módosításához kapcsolódó egyéb jogszabály módosítások
 
-#### 156–170. §
+#### 156. §
+
+#### 157. §
+
+#### 158. §
+
+#### 159. §
+
+#### 160. §
+
+#### 161. §
+
+#### 162. §
+
+#### 163. §
+
+#### 164. §
+
+#### 165. §
+
+#### 166. §
+
+#### 167. §
+
+#### 168. §
+
+#### 169. §
+
+#### 170. §
 
 ### Hatályon kívül helyező rendelkezések
 
-#### 171–174. §
+#### 171. §
+
+#### 172. §
+
+#### 173. §
+
+#### 174. §
 
 #### 175. §
 
@@ -1735,6 +1847,10 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 ### 7/A. számú melléklet a 2010. évi CXXII. törvényhez
 
-### 8–10. számú melléklet a 2010. évi CXXII. törvényhez
+### 8. számú melléklet a 2010. évi CXXII. törvényhez
+
+### 9. számú melléklet a 2010. évi CXXII. törvényhez
+
+### 10. számú melléklet a 2010. évi CXXII. törvényhez
 
 ### 11. számú melléklet a 2010. évi CXXII. törvényhez

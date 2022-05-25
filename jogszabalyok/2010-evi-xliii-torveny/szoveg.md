@@ -8,7 +8,7 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 
 ### A törvény hatálya
 
-1. § (1) E törvény hatálya a központi államigazgatási szervekre, a Kormány tagjaira, az államtitkárokra, valamint a biztosi jogviszonyban álló személyekre terjed ki.
+1. § (1) E törvény hatálya a központi államigazgatási szervekre, a Kormány tagjaira, a miniszterelnök politikai igazgatójára, az államtitkárokra, valamint a biztosi jogviszonyban álló személyekre terjed ki.
 
 (2) Központi államigazgatási szerv
 
@@ -73,7 +73,7 @@ meghatározott hatáskörök együttesét kell érteni.
 
 (2) Ha jogszabály a központi államigazgatási szervnek címez hatáskört, azt a szerv vezetője gyakorolja.
 
-(3) A központi államigazgatási szerv szervezeti és működési szabályzata a szerv vezetőjének hatáskörébe tartozó egyes ügyekben a kiadmányozási jogot
+(3) A központi államigazgatási szerv szervezeti és működési szabályzata – ha törvény eltérően nem rendelkezik – a szerv vezetőjének hatáskörébe tartozó egyes ügyekben a kiadmányozási jogot
 
 - a) a szervnél politikai felsővezetőként politikai szolgálati jogviszonyban vagy szakmai felsővezetőként kormányzati szolgálati jogviszonyban álló személyre,
 - b) a szervnél szakmai vezetőként kormányzati szolgálati jogviszonyban álló személyre,
@@ -108,7 +108,7 @@ meghatározott hatáskörök együttesét kell érteni.
 
 (6) A politikai felsővezető, a kormánybiztos, a miniszterelnöki biztos, a miniszteri biztos, valamint a kormányzati főhivatal és a központi hivatal vezetője és helyettese a tárgyév március 1-jétől a következő év február utolsó napjáig terjedő időszakra vonatkozó havi illetménye, valamint a miniszterelnöki megbízott havi vagy egyszeri díjazása nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
-(7) A (6) bekezdés nem alkalmazható, ha a miniszterelnök a miniszternek személyi illetményt állapít meg a 39/A. § szerint.
+(7) A (6) bekezdés nem alkalmazható, ha a miniszterelnök a miniszternek vagy a miniszterelnök politikai igazgatójának személyi illetményt állapít meg a 39/A. § vagy a 41. § szerint.
 
 (8) A politikai felsővezető illetménye, jutalma és célprémiuma nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
 
@@ -135,18 +135,18 @@ meghatározott hatáskörök együttesét kell érteni.
 (2) Ha
 
 - a) a miniszterelnök e tisztségét legalább két évig betöltötte, és megbízatása az Alaptörvény 20. cikk (2) bekezdés a)–c) pontjában meghatározott okból szűnik meg,
-- b) a miniszter és az államtitkár e tisztségét legalább három évig betöltötte, és megbízatása a miniszterelnök megbízatásának megszűnésével, a felmentésével vagy a halálával szűnik meg,
+- b) a miniszter, a miniszterelnök politikai igazgatója és az államtitkár e tisztségét legalább három évig betöltötte, és megbízatása a miniszterelnök megbízatásának megszűnésével, a felmentésével vagy a halálával szűnik meg,
 
 a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy összegben hathavi – lemondás esetén pedig háromhavi – illetményével megegyező összegű juttatásra jogosult.
 
-(3) A miniszterelnök halála esetén házastársát, ennek hiányában élettársát (a továbbiakban együtt: özvegy) – özvegy hiányában örökösét, több örökös esetén örököseit – egy összegben a miniszterelnök hathavi illetményének megfelelő összegű juttatás illeti meg. A miniszter és az államtitkár halála esetén a (2) és (4) bekezdés szerinti juttatás a miniszter és az államtitkár özvegyét – özvegy hiányában a miniszter és az államtitkár örökösét, több örökös esetén örököseit – illeti meg.
+(3) A miniszterelnök halála esetén házastársát, ennek hiányában élettársát (a továbbiakban együtt: özvegy) – özvegy hiányában örökösét, több örökös esetén örököseit – egy összegben a miniszterelnök hathavi illetményének megfelelő összegű juttatás illeti meg. A miniszter, a miniszterelnök politikai igazgatója és az államtitkár halála esetén a (2) és (4) bekezdés szerinti juttatás a miniszter, a miniszterelnök politikai igazgatója és az államtitkár özvegyét – özvegy hiányában a miniszter, a miniszterelnök politikai igazgatója és az államtitkár örökösét, több örökös esetén örököseit – illeti meg.
 
 (3a) A miniszterelnök halála esetén a rá tekintettel járó hozzátartozói nyugellátás megállapítása szempontjából a mindenkori miniszterelnöki illetmény havi összegét kell a miniszterelnök öregségi nyugdíjaként figyelembe venni.
 
 (4) Ha a politikai felsővezető megbízatása a (2) bekezdésben meghatározott okokból
 
 - a) miniszterelnök esetében két évnél,
-- b) miniszter, államtitkár esetén három évnél hamarabb szűnt meg, de legalább egy évig a tisztségét betöltötte, a (2) bekezdésben megjelölt juttatás felére jogosult.
+- b) miniszter, a miniszterelnök politikai igazgatója, államtitkár esetén három évnél hamarabb szűnt meg, de legalább egy évig a tisztségét betöltötte, a (2) bekezdésben megjelölt juttatás felére jogosult.
 
 (5) Ha a politikai felsővezető a megbízatásának megszűnését követően újabb politikai felsővezetői megbízatást vagy szakmai felsővezetői kinevezést kap, a (2) és (4) bekezdésben meghatározott juttatás összege megegyezik a hatásköre gyakorlásának megszűnésétől az új megbízatással vagy kinevezéssel összefüggő hivatalba lépéséig terjedő időre járó illetménnyel.
 
@@ -156,7 +156,7 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 (8) A (2), (3) és (4) bekezdésben meghatározott juttatás nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
 
-14. § (1) A miniszter és az államtitkár a miniszterelnök által meghatározott összegű jutalomban részesülhet. Az államtitkár jutalmára a tevékenységét irányító miniszter – a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján – tesz javaslatot. Az államtitkár számára célprémiumot a miniszterelnök állapíthat meg. A célprémiumra az államtitkár tevékenységét irányító miniszter tesz javaslatot.
+14. § (1) A miniszter, a miniszterelnök politikai igazgatója és az államtitkár a miniszterelnök által meghatározott összegű jutalomban részesülhet. Az államtitkár jutalmára a tevékenységét irányító miniszter – a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján – tesz javaslatot. Az államtitkár számára célprémiumot a miniszterelnök állapíthat meg. A célprémiumra az államtitkár tevékenységét irányító miniszter tesz javaslatot.
 
 (2)
 
@@ -292,13 +292,19 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 (2) A személyi illetmény a tárgyév március 1-jétől a következő év február végéig terjedő időszakra állapítható meg.
 
-(3) A személyi illetmény havi összege nem haladhatja meg a miniszter által irányított vagy felügyelt központi államigazgatási szerv, központi államigazgatási szervnek nem minősülő költségvetési szerv, illetve a miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaság által ugyanazon személynek a tárgyévet megelőző évben kifizetett, a személyi jövedelemadóról szóló törvény szerint munkaviszonyból származó jövedelemnek minősülő, legnagyobb éves jövedelem egytizenkettedét.
+(3) A személyi illetmény havi összege nem haladhatja meg a bármely miniszter által irányított vagy felügyelt központi államigazgatási szerv, központi államigazgatási szervnek nem minősülő költségvetési szerv, illetve a bármely miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaság által ugyanazon személynek a tárgyévet megelőző évben kifizetett, a személyi jövedelemadóról szóló törvény szerint munkaviszonyból származó jövedelemnek minősülő, legnagyobb éves jövedelem egytizenkettedét.
 
 (4) A miniszter részére személyi illetmény alkalmazása esetén illetménykiegészítés, pótlék nem fizethető.
 
-40. §
+40. § (1) A miniszterelnök politikai igazgatójának alapilletménye a köztisztviselői illetményalap 15,6-szorosa.
 
-41. §
+(2) A miniszterelnök politikai igazgatója illetménykiegészítésre jogosult, amelynek összege az alapilletmény 50%-a.
+
+(3) A miniszterelnök politikai igazgatójának vezetői illetménypótléka az alapilletmény 65%-a.
+
+(4) A miniszterelnök politikai igazgatójának alapilletményét a miniszterelnök át nem ruházható hatáskörében legfeljebb 20%-kal csökkentheti.
+
+41. § A miniszterelnök a miniszterelnök politikai igazgatója részére az e törvényben meghatározott javadalmazásra vonatkozó szabályoktól eltérő személyi illetményt állapíthat meg a 39/A. §-ban foglaltak alapján azzal, hogy a személyi illetmény havi összege nem haladhatja meg a bármely miniszter részére a 39/A. § (3) bekezdése alapján megállapítható személyi illetmény havi legnagyobb összegét.
 
 42. §
 
@@ -318,15 +324,15 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 50. §
 
-51. § (1) Annak az államtitkárnak az alapilletménye, aki egyidejűleg országgyűlési képviselői mandátumot is betölt, a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 132. §-a szerinti illetményalap 12-szerese.
+51. § (1)
 
-(2) Az (1) bekezdés szerinti államtitkár illetménykiegészítésre jogosult, amelynek összege az alapilletmény 50%-a.
+(2)
 
-(3) Az (1) bekezdés szerinti államtitkár vezetői illetménypótléka az alapilletmény 65%-a.
+(3)
 
-(4) Az (1) bekezdés szerinti államtitkár alapilletményét a miniszter át nem ruházható hatáskörében legfeljebb 30%-kal megemelheti, vagy legfeljebb 20%-kal csökkentett mértékben állapíthatja meg.
+(4)
 
-(5) Az (1) bekezdés hatálya alá nem tartozó államtitkár a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 1. melléklet I. pontjában foglalt Illetménytábla szerinti közigazgatási államtitkári illetményre jogosult, amelynek összegét a miniszter állapítja meg.
+(5) Az államtitkár a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 1. melléklet I. pontjában foglalt Illetménytábla szerinti közigazgatási államtitkári illetményre jogosult, amelynek összegét a miniszter állapítja meg.
 
 (6) Az (1)–(5) bekezdés alkalmazásában a miniszter alatt a miniszterelnököt kell érteni, ha az államtitkár tevékenységét a miniszterelnök irányítja.
 

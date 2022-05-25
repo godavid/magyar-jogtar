@@ -1191,11 +1191,11 @@ az általa vezetett minisztériumnak a kormányzati igazgatásról szóló 2018.
 
 46. § (1) A honvédelemért felelős miniszter által vezetett minisztérium az ország katonai védelemre való felkészítésének tervezéséért, szervezéséért, valamint a – honvédelemért felelős miniszter által vezetett minisztérium kivételével – a honvédelmi szervezet irányításáért felelős központi államigazgatási szerv.
 
-(1a) A honvédelemért felelős miniszter által vezetett minisztériumban honvédelmi államtitkár működik. A honvédelmi államtitkárnak katonai szolgálati viszonyban töltött legalább 20 év tényleges szolgálati idővel rendelkező – az egyéb törvényi feltételeknek megfelelő – személy nevezhető ki.
+(1a)
 
 (2)
 
-(3) A honvédelmi államtitkár és a közigazgatási államtitkár – a honvédelemért felelős miniszter által vezetett minisztérium szervezeti és működési szabályzatában meghatározottak szerint irányítják a honvédelemért felelős miniszter hatáskörébe tartozó döntések előkészítését, végrehajtásuk tervezését, szervezését. A honvédelmi államtitkár és a közigazgatási államtitkár feladataik ellátása során együttműködnek.
+(3)
 
 (4) A Magyar Honvédség Parancsnoksága a Honvédség felső szintű tervező-szervező és katonai tevékenységének vezető szerve.
 
@@ -1267,7 +1267,7 @@ az általa vezetett minisztériumnak a kormányzati igazgatásról szóló 2018.
 
 52. § (1) Intézkedésben állapíthatók meg a honvédelmi szervezet vezetéséhez kapcsolódó feladatok, valamint egyes rendszeresen ismétlődő tevékenységek végrehajtásának eljárási szabályai, ideértve a honvédelmi szervezetek működési rendjének és a személyi állomány mindennapi tevékenységének általános rendezést igénylő kérdéseit is. Intézkedés kiadására – vezetési jogkörének és hatáskörének megfelelően – a szolgálati elöljáró és a hivatali felettes jogosult.
 
-(2) Szakutasításban állapíthatók meg a honvédelmi szervezetek szakmai feladatai ellátásának alapvető végrehajtási szabályai. Szakutasítás kiadására – a KNBSZ kivételével – valamennyi honvédelmi szervezetre kiterjedő hatállyal a honvédelemért felelős miniszter által vezetett minisztérium közigazgatási államtitkára, honvédelmi államtitkára, helyettes államtitkára, kizárólag a honvédségi szervezetekre kiterjedő hatállyal a Magyar Honvédség parancsnoka és helyettese, szemlélője, csoportfőnöke, főnökei, továbbá a Magyar Honvédség egészségügyi főnöke és transzformációs főnöke jogosult.
+(2) Szakutasításban állapíthatók meg a honvédelmi szervezetek szakmai feladatai ellátásának alapvető végrehajtási szabályai. Szakutasítás kiadására – a KNBSZ kivételével – valamennyi honvédelmi szervezetre kiterjedő hatállyal a honvédelemért felelős miniszter által vezetett minisztérium közigazgatási államtitkára kizárólag a honvédségi szervezetekre kiterjedő hatállyal a Magyar Honvédség parancsnoka és helyettese, szemlélője, csoportfőnöke, főnökei, továbbá a Magyar Honvédség egészségügyi főnöke és transzformációs főnöke jogosult.
 
 (3) Belső rendelkezés kiadására a jogosult távolléte vagy akadályoztatása esetén – ha a jogosult eltérően nem rendelkezik – a helyettese adhat ki belső rendelkezést. A belső rendelkezés nem lehet jogszabállyal vagy közjogi szervezetszabályozó eszközzel ellentétes.
 
@@ -1668,10 +1668,10 @@ a kibervédelmi ügyeletes parancsnok döntése alapján van lehetőség.
 
 66/A. § Egyedi határozatban határozhatja meg
 
-- a) az oktatásért felelős miniszter a köznevelési intézmények működésével, működtetésével, a nevelési év, tanítási év megszervezésével,
+- a) a köznevelésért felelős miniszter a köznevelési intézmények működésével, működtetésével, a nevelési év, tanítási év megszervezésével,
 - b) a szakképzésért felelős miniszter a szakképző intézmények működésével, működtetésével, a tanítási év megszervezésével
 
-kapcsolatos feladatokat. Az oktatásért felelős miniszter, illetve a szakképzésért felelős miniszter elrendelheti a határozat azonnali végrehajtását. A határozat közlése távközlési eszköz útján is történhet.
+kapcsolatos feladatokat. A köznevelésért felelős miniszter, illetve a szakképzésért felelős miniszter elrendelheti a határozat azonnali végrehajtását. A határozat közlése távközlési eszköz útján is történhet.
 
 67. § (1) A közigazgatási hatósági eljárásra vonatkozó törvény rendelkezései közül rendelettel állapítható meg:
 

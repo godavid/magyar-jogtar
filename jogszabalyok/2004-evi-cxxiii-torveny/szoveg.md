@@ -37,23 +37,23 @@ A munkaerő-piaci szempontból kedvezőtlen helyzetű egyes társadalmi csoporto
 
 ### I. Fejezet — A PÁLYAKEZDŐ FIATALOK, VALAMINT A GYERMEK GONDOZÁSÁT, ILLETVE CSALÁDTAG ÁPOLÁSÁT KÖVETŐEN, TOVÁBBÁ A GYERMEK GONDOZÁSA MELLETT MUNKÁT KERESŐK ÉS A TARTÓSAN ÁLLÁSKERESŐK FOGLALKOZTATÁSÁNAK KEDVEZMÉNYE
 
-2. §
+#### 2. §
 
-3. §
+#### 3. §
 
-4. §
+#### 4. §
 
 ### I/A. Fejezet — A KEDVEZMÉNYRE VONATKOZÓ RÉSZLETES SZABÁLYOK
 
-4/A. §
+#### 4/A. §
 
-5. §
+#### 5. §
 
 ### II. Fejezet — A MUNKAERŐPIACON HALMOZOTTAN HÁTRÁNYOS HELYZETBEN LÉVŐ ÁLLÁSKERESŐK FOGLALKOZTATÁSÁNAK KEDVEZMÉNYE
 
-6. §
+#### 6. §
 
-7. §
+#### 7. §
 
 7/A. § (1) 2012. december 31-éig az Art. szerinti START BÓNUSZ kártya kiváltására jogosult
 
@@ -86,7 +86,7 @@ A részmunkaidős foglalkoztatáshoz kapcsolódó kedvezmény
 
 III/A. fejezet
 
-AZ ÖSZTÖNDÍJAS FOGLALKOZTATÁS
+AZ ÖSZTÖNDÍJAS FOGLALKOZTATÁS”
 
 9. § (1) Ösztöndíjas foglalkoztatási jogviszony az 1. § (2) bekezdés 7. pontjában meghatározott foglalkoztatónál ösztöndíjas foglalkoztatottal létesíthető.
 
@@ -182,9 +182,9 @@ ad ki.
 
 ### III/B. Fejezet — A megváltozott munkaképességű személyek foglalkoztatása
 
-16/A. §
+#### 16/A. §
 
-16/B. §
+#### 16/B. §
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -199,7 +199,7 @@ ad ki.
 
 (4) Felhatalmazást kap az adópolitikáért felelős miniszter, valamint a foglalkoztatáspolitikáért felelős miniszter, hogy a 8/A. §-ban meghatározott adókedvezmény érvényesítésének és ellenőrzésének részletes feltételeit és szabályait, valamint az érvényesítés során elkövetett szabálytalanság jogkövetkezményeit rendeletben megállapítsa.
 
-(5) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a társadalmi felzárkózásért felelős miniszterrel, a szociál- és nyugdíjpolitikáért felelős miniszterrel és az egészségbiztosítási járulék-fizetés szabályozásáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a Rehabilitációs kártya igénylésének, kibocsátásának, felhasználásának, kicserélésének, visszavonásának és a hozzá kapcsolódó kedvezmény érvényesítésének részletes szabályait.
+(5) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a társadalmi felzárkózásért felelős miniszterrel, a szociálpolitikáért felelős miniszterrel és az egészségbiztosítási járulék-fizetés szabályozásáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a Rehabilitációs kártya igénylésének, kibocsátásának, felhasználásának, kicserélésének, visszavonásának és a hozzá kapcsolódó kedvezmény érvényesítésének részletes szabályait.
 
 (6)
 

@@ -92,7 +92,7 @@ A 2009. évtől kezdődő két európai parlamenti ciklus időtartama alatti ké
 - a) az Európai Unió más tagállama kormányának, parlamentjének tagja,
 - b) köztársasági elnök,
 - c) országgyűlési képviselő, nemzetiségi szószóló,
-- d) a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár,
+- d) a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár, helyettes államtitkár,
 - e) az Alkotmánybíróság tagja,
 - f) az alapvető jogok biztosa, az alapvető jogok biztosának helyettese,
 - g) az Állami Számvevőszék elnöke, alelnöke és számvevője,

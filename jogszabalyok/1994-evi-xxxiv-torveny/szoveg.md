@@ -180,17 +180,18 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 
 ### A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv
 
-7. § (1) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv kizárólagos hatáskörrel ellátja az 1. § (2) bekezdés 14. pontjában meghatározott feladatokat. Ennek keretében:
+7. § (1) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv ellátja az 1. § (2) bekezdés 14. pontjában meghatározott feladatokat. Ennek keretében:
 
-- a) a vonatkozó jogszabályok alapján ellátja a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben, valamint a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését,
+- a) a vonatkozó jogszabályok alapján ellátja a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését,
 - b) elvégzi
-  - ba) az (1c) bekezdésben foglalt kivétellel a Kormány vagy a Kormány tagjának irányítása vagy felügyelete alá tartozó költségvetési szerv, valamint a Nemzeti Közszolgálati Egyetem valamennyi foglalkoztatottjának,
+  - ba) az (1c) bekezdésben foglalt kivétellel a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet irányító miniszter által vezetett minisztérium vagy munkaszervezet, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet irányító miniszter által irányított vagy felügyelt költségvetési szervek, valamint a Nemzeti Közszolgálati Egyetem valamennyi foglalkoztatottjának,
   - bb) az egészségügyi tevékenység végzésében tanulói jogviszony alapján közreműködő személyek, valamint az egyházi jogi személy fenntartásában vagy tulajdonában álló egészségügyi szolgáltatónál foglalkoztatottak kivételével az egészségügyi szolgálati jogviszonyban állók, valamint a honvédelemért felelős miniszter irányítása alá tartozó honvédelmi egészségügyi szolgáltató személyi állományának,
-  - bc) az Országgyűlési Őrség hivatásos állománya, köztisztviselői és munkavállalói
+  - bc) az Országgyűlési Őrség hivatásos állománya, köztisztviselői és munkavállalói,
+  - bd) a területi kormányzati igazgatási szervek foglalkoztatottjának
 
-[a ba)–bc) alpontban foglaltak a továbbiakban együtt: védett állomány] megbízhatósági vizsgálatát.
+[a ba)–bd) alpontban foglaltak a továbbiakban együtt: védett állomány] megbízhatósági vizsgálatát,
 
-- c) végzi a védett állománnyal összefüggő, jogszabályban meghatározott bűncselekmények megelőzését, továbbá a büntetőeljárásról szóló törvényben meghatározottak szerint végzi ezen bűncselekmények felderítését.
+- c) végzi a védett állománnyal összefüggő, jogszabályban meghatározott bűncselekmények megelőzését, továbbá a büntetőeljárásról szóló törvényben meghatározottak szerint végzi e bűncselekmények felderítését.
 
 (1a) Az (1) bekezdés b) pont ba) alpontja alkalmazásában foglalkoztatott
 
@@ -199,10 +200,9 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - c) az igazságügyi szolgálati jogviszonyban,
 - d) a rendvédelmi feladatokat ellátó szervnél fennálló hivatásos szolgálati jogviszonyban,
 - e) a rendvédelmi igazgatási szolgálati jogviszonyban,
-- f) az adó- és vámhatósági szolgálati jogviszonyban,
-- g) a rendvédelmi feladatokat ellátó szervnél fennálló tisztjelölti szolgálati jogviszonyban, illetve a Nemzet Adó- és Vámhivatalnál fennálló tisztjelölti jogviszonyban,
-- h) az egészségügyi szolgálati jogviszonyban, és
-- i) a munkaviszonyban
+- f) a rendvédelmi feladatokat ellátó szervnél fennálló tisztjelölti szolgálati jogviszonyban,
+- g) az egészségügyi szolgálati jogviszonyban, és
+- h) a munkaviszonyban
 
 foglalkoztatott.
 
@@ -210,9 +210,10 @@ foglalkoztatott.
 
 (1c) Az (1) bekezdés b) pont ba) alpontjától eltérően nem tartozik a védett állomány körébe
 
-- a) az Információs Hivatal foglalkoztatottja,
-- b) a honvédelmi szervezetek foglalkoztatottja, ez a kivétel azonban nem terjed ki az (1) bekezdés b) pont bb) alpontja szerint megbízhatósági vizsgálat alá vonható, a honvédelemért felelős miniszter irányítása alá tartozó honvédelmi egészségügyi szolgáltató személyi állományára, továbbá
-- c) a Kormány rendeletében a feladat- és tevekénységi kör mérlegelése alapján a megbízhatósági vizsgálat elvégzésének lehetősége alól mentesített szerv foglalkoztatottja.
+- a) – a kormányzati szolgálati jogviszonyban állók kivételével – a nemzeti köznevelésről szóló törvényben meghatározott intézménnyel munkavégzésre irányuló jogviszonyban álló személy,
+- b) a szociális intézménnyel munkavégzésre irányuló jogviszonyban álló személy,
+- c) a honvédelmi szervezetek foglalkoztatottja, ez a kivétel azonban nem terjed ki az (1) bekezdés b) pont bb) alpontja szerint megbízhatósági vizsgálat alá vonható, a honvédelemért felelős miniszter irányítása alá tartozó honvédelmi egészségügyi szolgáltató személyi állományára, továbbá
+- d) a Kormány rendeletében a feladat- és tevekénységi kör mérlegelése alapján a megbízhatósági vizsgálat elvégzésének lehetősége alól mentesített szerv foglalkoztatottja.
 
 (2) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv nyomozóhatósági jogkört nem gyakorol.
 
@@ -1955,7 +1956,7 @@ részére.
 - b) az a) pontban foglaltaktól eltérő célra is, ha a továbbítás a közbiztonságot súlyosan vagy közvetlenül fenyegető veszély elhárításához szükséges, továbbá,
 - c) ha az adattovábbításra minden kétséget kizáróan az érintett érdekében kerül sor, és ahhoz hozzájárult.
 
-(5) A bűnüldözési adatállományból a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából – a cél megjelölésével és az utasadatok kockázatelemzésére vonatkozó törvényi feltételek teljesülése esetén – a rendőrségtől adatszolgáltatást kérhet.
+(5) A bűnüldözési adatállományból a Nemzeti Információs Központ az utasadatok kockázatelemzése, elemzés-értékelés, valamint hírigény teljesítése céljából – a cél megjelölésével és az utasadatok kockázatelemzésére, az elemzés-értékelés vagy a hírigény teljesítésére vonatkozó törvényi feltételek teljesülése esetén – a rendőrségtől adatszolgáltatást kérhet.
 
 91/F. § (1) A rendőrség bűnüldözési adatot az Európai Unió tagállamának bűnüldöző és igazságszolgáltatási szervei részére bűnüldözési, bűnmegelőzési és büntetés-végrehajtási célból, valamint továbbfelhasználás céljából a 91/E. § (4) bekezdésében foglaltak szerint továbbíthat.
 
@@ -2039,7 +2040,7 @@ részére.
 
 (3) A rendőrség a (2) bekezdésben felsorolt adatokat a határforgalom-ellenőrzés végrehajtásának céljából nyilvántartja. A nyilvántartott adatot az utas beléptetését vagy beléptetésének megtagadását követően, de legkésőbb az adatok átvételétől számított huszonnégy órán belül törli, kivéve, ha arra határrendészeti feladatainak végrehajtásához, illetve büntető- vagy szabálysértési eljárás lefolytatásához szüksége van. A határrendészeti feladat végrehajtását követően, illetve a szabálysértési eljárás jogerős befejezésekor, valamint a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésekor, illetve az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalakor a nyilvántartott adatot haladéktalanul törölni kell.
 
-(3a) A rendőrség (3) bekezdésben meghatározott nyilvántartásából a (2) bekezdésben meghatározott adatokat a Terrorelhárítási Információs és Bűnügyi Elemző Központ – nemzetbiztonsági szolgálatokról szóló törvény szerint terrorista és súlyos bűncselekménynek minősülő bűncselekményre vonatkozó információ feltárása esetén és az utasadatok kockázatelemzésére vonatkozó törvényi feltételek teljesülése esetén – a konkrét cél megjelölésével átveheti.
+(3a) A rendőrség (3) bekezdésben meghatározott nyilvántartásából a (2) bekezdésben meghatározott adatokat a Nemzeti Információs Központ – a nemzetbiztonsági szolgálatokról szóló törvény szerint terrorista és súlyos bűncselekménynek minősülő bűncselekményre vonatkozó információ feltárása esetén, elemzés-értékelés céljából, hírigény teljesítése céljából, továbbá az utasadatok kockázatelemzésére vonatkozó törvényi feltételek teljesülése esetén – a konkrét cél megjelölésével átveheti.
 
 (3b) A rendőrség a 35/A. § (4) bekezdésében meghatározott határellenőrzési tevékenysége során az utasadat-információs egység részére történő továbbítás céljából a következő adatokat kezelheti:
 
@@ -2067,7 +2068,7 @@ részére.
 
 (7) A (4)–(6) bekezdés szerint a rendőrség részére átadott adatok nyilvántartására a (3) bekezdést kell alkalmazni.
 
-(8) A (4) bekezdés szerint a rendőrség által kezelt adatok (7) bekezdés szerinti nyilvántartásában kezelt adatokat a Terrorelhárítási Információs és Bűnügyi Elemző Központ – a nemzetbiztonsági szolgálatokról szóló törvény szerint terrorista és súlyos bűncselekménynek minősülő bűncselekményre vonatkozó információ feltárása esetén és az utasadatok kockázatelemzésére vonatkozó törvényi feltételek teljesülése esetén – a konkrét cél megjelölésével átveheti.
+(8) A (4) bekezdés szerint a rendőrség által kezelt adatok (7) bekezdés szerinti nyilvántartásában kezelt adatokat a Nemzeti Információs Központ – a nemzetbiztonsági szolgálatokról szóló törvény szerint terrorista és súlyos bűncselekménynek minősülő bűncselekményre vonatkozó információ feltárása esetén, elemzés-értékelés céljából, hírigény teljesítése céljából, továbbá az utasadatok kockázatelemzésére vonatkozó törvényi feltételek teljesülése esetén – a konkrét cél megjelölésével átveheti.
 
 91/N. § A rendőrség a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet II. melléklete szerinti adatokat egy évig kezeli.
 

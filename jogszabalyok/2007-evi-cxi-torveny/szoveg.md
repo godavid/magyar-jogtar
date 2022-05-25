@@ -542,4 +542,4 @@ Kelt Firenzében, 2000. október 20. napján, egyaránt hiteles angol és franci
 
 (3) Az Egyezmény, illetve e törvény 2–3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
-(4) Az e törvény végrehajtásához szükséges intézkedésekről a természetvédelemért felelős miniszter gondoskodik a kulturális örökség védelméért felelős miniszterrel egyetértésben, a területfejlesztésért felelős miniszterrel, a területrendezésért felelős miniszterrel és az oktatásért felelős miniszterrel együttműködve.
+(4) Az e törvény végrehajtásához szükséges intézkedésekről a természetvédelemért felelős miniszter gondoskodik a kulturális örökség védelméért felelős miniszterrel egyetértésben, a területfejlesztésért felelős miniszterrel, a területrendezésért felelős miniszterrel a felsőoktatásért felelős miniszterrel és a köznevelésért felelős miniszterrel együttműködve.

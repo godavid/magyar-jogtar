@@ -31,7 +31,7 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 
 ### II. Fejezet — A FENNTARTÓ
 
-4. § Az Egyetem fenntartói jogait a közigazgatás-fejlesztésért felelős miniszter (a továbbiakban: Fenntartó) gyakorolja.
+4. § Az Egyetem fenntartói jogait a közigazgatás-fejlesztésért felelős miniszter vagy – ha a Kormány eredeti jogalkotói hatáskörben kiadott rendelete így rendelkezik – a közigazgatás-fejlesztésért felelős miniszter a miniszterelnök politikai igazgatója útján (a továbbiakban: Fenntartó) gyakorolja.
 
 5. § A Fenntartó
 
@@ -71,7 +71,7 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 
 ### II/A. Fejezet — A TANÁCSADÓ TESTÜLET
 
-9/B. § (1) Az Egyetem mellett a Fenntartó vezetésével, az igazságügyért felelős miniszter, a honvédelemért felelős miniszter, az oktatásért felelős miniszter, az innovációért és technológiáért felelős miniszter, a külpolitikáért felelős miniszter, valamint a rendészetért felelős miniszter részvételével a Fenntartó egyes döntéseinek megalapozását és szakmai támogatását elősegítő Tanácsadó Testület működik.
+9/B. § (1) Az Egyetem mellett a Fenntartó vezetésével, az igazságügyért felelős miniszter, a honvédelemért felelős miniszter, a felsőoktatásért felelős miniszter, az innovációért és technológiáért felelős miniszter, a külpolitikáért felelős miniszter, valamint a rendészetért felelős miniszter részvételével a Fenntartó egyes döntéseinek megalapozását és szakmai támogatását elősegítő Tanácsadó Testület működik.
 
 (2) Az (1) bekezdésben felsorolt miniszterek képviseletét a Tanácsadó Testületben az általuk megbízott más személy is elláthatja.
 
@@ -384,7 +384,7 @@ kezeli.
 
 35. § (1) Az Egyetem központi költségvetési szerv.
 
-(2) Az Egyetem költségvetését a közigazgatás-fejlesztésért felelős miniszter által vezetett minisztérium költségvetési fejezetében önálló címen kell biztosítani. Az igazságügyért felelős miniszter, a rendészetért felelős miniszter, az innovációért és technológiáért felelős miniszter, a honvédelemért felelős miniszter, az oktatásért felelős miniszter, valamint a külpolitikáért felelős miniszter az Egyetemmel kötött megállapodás alapján kiegészítő jelleggel költségvetési támogatást biztosíthat az általa vezetett minisztérium költségvetési fejezetében.
+(2) Az Egyetem költségvetését a közigazgatás-fejlesztésért felelős miniszter által vezetett minisztérium költségvetési fejezetében önálló címen kell biztosítani. Az igazságügyért felelős miniszter, a rendészetért felelős miniszter, az innovációért és technológiáért felelős miniszter, a honvédelemért felelős miniszter, a felsőoktatásért felelős miniszter, valamint a külpolitikáért felelős miniszter az Egyetemmel kötött megállapodás alapján kiegészítő jelleggel költségvetési támogatást biztosíthat az általa vezetett minisztérium költségvetési fejezetében.
 
 36. § (1) A rendészeti ösztöndíjas hallgató, valamint a 21/A. § (1) bekezdés b) pontja szerinti hallgató pénzbeli juttatásának fedezetét – a (4) bekezdés a) pontjában meghatározott eltéréssel – az ösztöndíjszerződést kötő, illetve beiskolázó szerv éves költségvetésében kell biztosítani.
 
@@ -403,7 +403,7 @@ kezeli.
 
 (5) A hallgatói juttatások és a doktori képzésben résztvevők támogatása tekintetében a költségvetés tervezése során az Nftv.-ben meghatározott normatívákat kell alkalmazni.
 
-(6) Az Egyetemre nem alkalmazandók az oktatásért felelős miniszter által biztosított támogatások szabályai.
+(6) Az Egyetemre nem alkalmazandók a felsőoktatásért felelős miniszter által biztosított támogatások szabályai.
 
 (7) Az Egyetem költségvetési forrásai terhére az Egyetem alapító okiratban meghatározott feladataival és alaptevékenységével összefüggésben támogatás, adomány és más ellenérték nélküli kötelezettség vállalható, valamint kifizetés teljesíthető.
 
@@ -437,7 +437,7 @@ kezeli.
 
 (4) Az adott szakra történő éves felvétel feltételeként teljesítendő minimális felvételi követelményt (pontszámot) a felügyeletet gyakorló miniszter határozata állapítja meg.
 
-42. § Az oktatásért felelős miniszter a felsőoktatási intézmények működésével kapcsolatos eljárásaiban az államtudományi és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vonatkozásában a felügyeletet gyakorló miniszter egyetértésével dönt.
+42. § A felsőoktatásért felelős miniszter a felsőoktatási intézmények működésével kapcsolatos eljárásaiban az államtudományi és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vonatkozásában a felügyeletet gyakorló miniszter egyetértésével dönt.
 
 43. § Az államtudományi és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vonatkozásában az alap- és mesterképzés szakjait és a szakok, valamint az államtudományi doktori cím használatára jogosító osztatlan szak képzési és kimeneti követelményeit, továbbá az oklevéllel tanúsított szakképzettséget, és annak a Magyar Képesítési Keretrendszer és az Európai Képesítési Keretrendszer szerinti besorolását a Kormány rendeletben szabályozza.
 

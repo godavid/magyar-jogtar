@@ -1853,7 +1853,7 @@ számított huszonöt évig kezeli.
 
 igényelhetnek adatot.
 
-(1a) Az e fejezetben meghatározott nyilvántartásokból a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából igényelhet adatot.
+(1a) Az e fejezetben meghatározott nyilvántartásokból a Nemzeti Információs Központ az utasadatok kockázatelemzése, elemzés-értékelés készítése, valamint hírigény teljesítése céljából igényelhet adatot.
 
 (1b) A menekültügyi hatóság a menekültügyi nyilvántartáshoz a Magyar igazolvány, illetve a Magyar hozzátartozói igazolvány kiadása iránti kérelmet elbíráló hatóság részére a kérelem elbírálására irányuló eljárás során a jogosultsági feltételek vizsgálatához, továbbá az igazolvány visszavonására irányuló eljárás során a visszavonási ok fennállásának vizsgálatához a menekült vagy menedékes jogállás fennállására vonatkozó adatok tekintetében az eljáró hatóság részére közvetlen hozzáférést biztosít.
 
