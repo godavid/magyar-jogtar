@@ -2338,7 +2338,7 @@ televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal (p
 
 (4) Felhatalmazást kap
 
-- a) az oktatásért felelős miniszter, hogy az iskolai sportkörök, a sportiskolák létrehozásával és működésével és a tornateremmel nem rendelkező iskolák által kötelezően biztosítandó sportolási lehetőségekkel,
+- a) a köznevelésért felelős miniszter, hogy az iskolai sportkörök, a sportiskolák létrehozásával és működésével és a tornateremmel nem rendelkező iskolák által kötelezően biztosítandó sportolási lehetőségekkel,
 - b) a szakképzésért felelős miniszter, hogy a szakképző intézményi sportkörök szervezésével és a tornateremmel nem rendelkező szakképző intézmények által kötelezően biztosítandó sportolási lehetőségekkel
 
 kapcsolatos részletes szabályokat a sportpolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg.

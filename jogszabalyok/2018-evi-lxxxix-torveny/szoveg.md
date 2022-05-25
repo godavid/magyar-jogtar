@@ -252,7 +252,7 @@ a pályakövetési rendszerbe – a Kormány rendeletében meghatározottak szer
 
 (5) A pályakövetési rendszerben nyilvántartott adatok személyazonosításra alkalmatlan módon dolgozhatók fel és hozhatók nyilvánosságra.
 
-6/B. § (1) A DPR célja a felsőoktatásban tanuló és végzett hallgatók munkaerőpiaci nyomonkövetése, a munkaerőpiacra lépésük korai szakaszának elemzése. A DPR Frissdiplomás Kutatás és Hallgatói Kutatás online kérdőíves kutatási moduljai az oktatásért felelős miniszter által meghatározott személyes adatnak nem minősülő adatokat tartalmazzák.
+6/B. § (1) A DPR célja a felsőoktatásban tanuló és végzett hallgatók munkaerőpiaci nyomonkövetése, a munkaerőpiacra lépésük korai szakaszának elemzése. A DPR Frissdiplomás Kutatás és Hallgatói Kutatás online kérdőíves kutatási moduljai a felsőoktatásért felelős miniszter által meghatározott személyes adatnak nem minősülő adatokat tartalmazzák.
 
 (2) A DPR Hallgatói Kutatás modulja esetében a kötelező intézményi adatszolgáltatás a jogviszonyban álló hallgatók, a Frissdiplomás Kutatás modulja esetében a vizsgált időszakot megelőző első és ötödik év között abszolutóriumot szerzettek körében egységes módszertannal és kérdőívvel végrehajtott önkéntes online kérdőíves vizsgálat alapján történik.
 
@@ -375,7 +375,7 @@ továbbíthatóak a Diákhitel Központnak.
 - b) a Felsőoktatási felvételi alrendszerből a 3. melléklet III. rész 7. pontja szerinti adatok közül a Klebelsberg Képzési Ösztöndíjjal érintett szakon elért felvételi pontszám,
 - c) a Hallgatói személyi törzsből a 3. melléklet IV. rész 5. pontja, – a képzés költségviselési formája és munkarendje adatának kivételével – 6. pontja szerinti adatok, 18. pont 18.1. és 18.2. alpontja szerinti adatok.
 
-(23) A Hallgatói személyi törzsből és az alkalmazotti személyi törzsből továbbíthatók továbbá az oktatásért felelős miniszter részére az ágazati irányítással összefüggő feladatok ellátása, a miniszteri hatósági jogkör gyakorlása céljából egyedileg vagy informatikai rendszer útján továbbított, illetve a közvetlenül hozzáférhetővé tett adatok. Ezen adatokat az oktatásért felelős miniszter az adattovábbítástól számított öt évig kezeli.
+(23) A Hallgatói személyi törzsből és az alkalmazotti személyi törzsből továbbíthatók továbbá a felsőoktatásért felelős miniszter részére az ágazati irányítással összefüggő feladatok ellátása, a miniszteri hatósági jogkör gyakorlása céljából egyedileg vagy informatikai rendszer útján továbbított, illetve a közvetlenül hozzáférhetővé tett adatok. Ezen adatokat a felsőoktatásért felelős miniszter az adattovábbítástól számított öt évig kezeli.
 
 (24) A Hallgatói személyi törzsből továbbítható továbbá az idegenrendészeti hatóság részére a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvényben, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvényben meghatározott eljárása során az ügyfél által előadottak, illetve a jogszabályban foglalt feltételek fennállásának ellenőrzése céljából a 3. melléklet IV. rész 5., 6., 15. pontja szerinti adat, valamint a 19. pontja szerinti adatok közül az önköltségre vonatkozó adat, azzal, hogy az idegenrendészeti hatóságnak a megkeresésben minden esetben pontosan meg kell határozni azt az adatkört amire a megkeresés vonatkozik.
 

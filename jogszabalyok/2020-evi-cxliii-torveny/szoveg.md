@@ -28,11 +28,11 @@ A magyar köznevelési intézményrendszer megerősítése és környezetének s
 
 (8) Az Intézmény Magyarországon akkor működhet, ha a (2) bekezdésben meghatározott akkreditációjú középfokú nevelési-oktatási intézmény és kollégium elismerésére jogosult nemzetközi szervezet az Intézményt nevelési-oktatási intézménynek, az általa kiadott bizonyítványt pedig az ilyen nevelési-oktatási intézménynek megfelelő bizonyítványnak jogszerűen elismeri és az elismerést az Intézmény hitelt érdemlően bizonyítja, feltéve, hogy az Intézmény működése nem ellentétes az Alaptörvényben foglaltakkal.
 
-(9) Az Intézményt az oktatásért felelős miniszter – az Intézmény fenntartójának kérelme alapján – nyilvántartásba veszi és engedélyezi a működését. Az Intézmény nyilvántartásba vételére és működésének engedélyezésére a köznevelési törvénynek a nemzetközi köznevelési intézményekre vonatkozó rendelkezését kell alkalmazni.
+(9) Az Intézményt a köznevelésért felelős miniszter – az Intézmény fenntartójának kérelme alapján – nyilvántartásba veszi és engedélyezi a működését. Az Intézmény nyilvántartásba vételére és működésének engedélyezésére a köznevelési törvénynek a nemzetközi köznevelési intézményekre vonatkozó rendelkezését kell alkalmazni.
 
-(10) Az Intézményt akkreditáló nemzetközi szervezetnél történő akkreditáció érdekében az Intézmény számára az oktatásért felelős miniszter a köznevelésre vonatkozó jogszabályok szerint gondoskodik az ideiglenes működési engedély kiadásáról.
+(10) Az Intézményt akkreditáló nemzetközi szervezetnél történő akkreditáció érdekében az Intézmény számára a köznevelésért felelős miniszter a köznevelésre vonatkozó jogszabályok szerint gondoskodik az ideiglenes működési engedély kiadásáról.
 
-(11) Az Intézmény fenntartójával az oktatásért felelős miniszter köthet köznevelési szerződést.
+(11) Az Intézmény fenntartójával a köznevelésért felelős miniszter köthet köznevelési szerződést.
 
 (12) Az Intézmény köteles bejelentkezni a köznevelés információs rendszerébe és adatot szolgáltatni számára.
 

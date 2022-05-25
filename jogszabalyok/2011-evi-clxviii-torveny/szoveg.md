@@ -262,7 +262,7 @@ a rendelkezésre álló mezőgazdasági kockázatkezelési pénzeszköz terhére
 
 16. § (1) A mezőgazdasági termelő az uniós jogi aktusban foglaltak szerint az időjárási kockázatokra kötött és az e törvényben, valamint a Vidékfejlesztési Program keretében meghirdetett pályázati felhívásban (a továbbiakban: pályázati felhívás) foglaltaknak megfelelő mezőgazdasági biztosítási szerződés (a továbbiakban: mezőgazdasági biztosítási szerződés) díjához támogatást vehet igénybe.
 
-(2) A miniszter szakmai javaslata alapján az agrár-vidékfejlesztésért felelős miniszter a biztosító tárgyév január 31-ig benyújtott kérelmére – az uniós jogi aktusban foglalt előírások teljesítésének vizsgálatát követően – a tárgyév március 31-ig előzetesen jóváhagyja a biztosító által alkalmazott mezőgazdasági biztosításra vonatkozó, az (1) bekezdés szerinti szerződés különös szerződési feltételeit.
+(2) A miniszter a biztosító tárgyév január 31-ig benyújtott kérelmére – az uniós jogi aktusban foglalt előírások teljesítésének vizsgálatát követően – a tárgyév március 31-ig előzetesen jóváhagyja a biztosító által alkalmazott mezőgazdasági biztosításra vonatkozó, az (1) bekezdés szerinti szerződés különös szerződési feltételeit.
 
 #### 4. A mezőgazdasági időjárási kockázatok kezelése során keletkezett adatok szolgáltatása,
 
@@ -332,7 +332,7 @@ adatokat.
 - b) a mezőgazdasági igazgatási szerv az agrárkár-megállapító szerv feletti szakmai irányítási feladatainak ellátása,
 - c) az agrárkár-megállapító szerv az illetékességi területére vonatkozó adatok tekintetében az agrárkár-megállapítással összefüggő feladatainak ellátása,
 - d) az agrárgazdasági elemzésekkel foglalkozó intézmény statisztikai és gazdaságelemzési feladatai ellátása, valamint a Központi Statisztikai Hivatal a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben, és
-- e) a mezőgazdasági biztosítási díjtámogatás tekintetében a (2) bekezdés e) pontja szerinti adatok vonatkozásában az agrár-vidékfejlesztésért felelős miniszter a Vidékfejlesztési Program végrehajtásához kapcsolódó ellenőrzési és monitoring feladatainak ellátása
+- e) a mezőgazdasági biztosítási díjtámogatás tekintetében a (2) bekezdés e) pontja szerinti adatok vonatkozásában a miniszter a Vidékfejlesztési Program végrehajtásához kapcsolódó ellenőrzési és monitoring feladatainak ellátása
 
 céljából.
 

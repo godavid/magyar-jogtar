@@ -124,4 +124,4 @@ Az Oroszországi FöderációKormánya részéről”
 
 (3) Az Egyezmény, illetve a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
 
-5. § Az e törvény végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter gondoskodik.
+5. § Az e törvény végrehajtásához szükséges intézkedésekről a köznevelésért felelős miniszter és a felsőoktatásért felelős miniszter gondoskodik.

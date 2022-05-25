@@ -169,13 +169,13 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 - f) gondoskodik a területfejlesztéssel kapcsolatos információs rendszerről, az adatszolgáltatás rendjéről;
 - g) kezeli a területfejlesztési célok megvalósítását közvetlenül szolgáló fejezeti kezelésű előirányzatot és koordinálja a területfejlesztési célok megvalósítását közvetetten szolgáló fejezeti kezelésű előirányzatok felhasználását;
 - h) a megyei önkormányzatok, a fővárosi önkormányzat és a megyei jogú városok önkormányzatainak bevonásával kidolgozza a területi szempontú fejlesztéseket tartalmazó operatív programokat, gondoskodik megvalósításukról, érvényesülésük érdekében nyomon követi és értékeli azok végrehajtását;
-- i) javaslatot tesz a kedvezményezett járások besorolásának feltételrendszerére és besorolására, a településfejlesztésért felelős miniszter közreműködésével;
+- i) javaslatot tesz a kedvezményezett járások besorolásának feltételrendszerére és besorolására, a településfejlesztésért és településrendezésért felelős miniszter közreműködésével;
 - j) összehangolja a közigazgatási szervek területfejlesztéssel kapcsolatos tevékenységét, szakmai irányítást gyakorol a területfejlesztés intézményrendszere felett;
 - k) javaslatot tesz a szabad vállalkozási zónák kijelölésére, működésük szabályozására;
 - l) kidolgozza a regionális támogatási térkép koncepcióját.
 - m) javaslatot tesz a térségi fejlesztési tanács létrehozásával, működésével, sajátos gazdálkodásával kapcsolatos feladatokra és szabályokra, a térségi fejlesztési tanács szervezeti és működési rendjének általános szabályaira, valamint a területfejlesztés érdekegyeztetési és konzultációs fórumainak működésére.
 
-9/C. § A településfejlesztésért felelős miniszter feladatkörében javaslatot tesz a kedvezményezett települések besorolásának feltételrendszerére és besorolására a területfejlesztés stratégiai tervezéséért felelős miniszter közreműködésével.
+9/C. § A településfejlesztésért és településrendezésért felelős miniszter feladatkörében javaslatot tesz a kedvezményezett települések besorolásának feltételrendszerére és besorolására a területfejlesztés stratégiai tervezéséért felelős miniszter közreműködésével.
 
 ### III. Fejezet — TERÜLETFEJLESZTÉST ÉS TERÜLETRENDEZÉST ELLÁTÓ TERÜLETI SZERVEK ÉS FELADATAIK
 
@@ -371,7 +371,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 - a) a 15. § (3) bekezdése szerinti tagok,
 - b) a területfejlesztés stratégiai tervezéséért felelős miniszter képviselője,
 - c) a gazdaságfejlesztésért felelős miniszter képviselője,
-- d) a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter képviselője,
+- d) a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős miniszter képviselője,
 - e) a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter képviselője, valamint
 - f) a területrendezésért felelős miniszter képviselője.
 
@@ -414,7 +414,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 (4) Az OTÉF tagjai:
 
-- a) a területrendezésért felelős miniszter, a területfejlesztésért felelős miniszter, a vidékfejlesztésért felelős miniszter, a helyi önkormányzatokért felelős miniszter, az energiapolitikáért felelős miniszter, a közlekedésért felelős miniszter, a településfejlesztésért és településrendezésért felelős miniszter, a szociál- és nyugdíjpolitikáért felelős miniszter és a társadalmi felzárkózásért felelős miniszter,
+- a) a területrendezésért felelős miniszter, a területfejlesztésért felelős miniszter, a vidékfejlesztésért felelős miniszter, a helyi önkormányzatokért felelős miniszter, az energiapolitikáért felelős miniszter, a közlekedésért felelős miniszter, a településfejlesztésért és településrendezésért felelős miniszter, a szociálpolitikáért felelős miniszter, nyugdíjpolitikáért felelős miniszter és a társadalmi felzárkózásért felelős miniszter,
 - b) Megyei Önkormányzatok Országos Szövetségének elnöke és négy delegáltja, a Megyei Jogú Városok Szövetségének elnöke és négy delegáltja, a Budapesti Önkormányzatok Szövetségének elnöke és négy delegáltja, a főpolgármester, valamint a Balaton Fejlesztési Tanács, és a Tokaj Borvidék Fejlesztési Tanács elnöke.
 
 (5) Az OTÉF ülésén egy szavazattal rendelkeznek a kormányzati és egy szavazattal rendelkeznek az önkormányzati tagok. Az OTÉF konszenzussal hozza meg döntéseit.

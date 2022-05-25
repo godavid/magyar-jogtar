@@ -371,7 +371,7 @@ kell figyelembe venni.
 
 35. § (1) A Gazdasági Versenyhivatal élén az elnök áll.
 
-(2) A Gazdasági Versenyhivatal elnökét a miniszterelnök javaslatára a köztársasági elnök nevezi ki. A Gazdasági Versenyhivatal két elnökhelyettese személyére javaslatot a Gazdasági Versenyhivatal elnöke tesz a miniszterelnöknek, aki azt – egyetértése esetén – előterjeszti a köztársasági elnöknek. Az elnökhelyetteseket a köztársasági elnök nevezi ki, és egyben megbízza az egyik elnökhelyettest a Versenytanács elnöki teendőinek az ellátásával. Az elnök és az elnökhelyettesek kinevezése hat évre szól. A kinevezett személyek a hat év lejártát követően újból kinevezhetők, azzal, hogy a Versenytanács elnöke esetében újbóli kinevezésnek legfeljebb egy alkalommal lehet helye.
+(2) A Gazdasági Versenyhivatal elnökét a miniszterelnök javaslatára a köztársasági elnök nevezi ki. A Gazdasági Versenyhivatal két elnökhelyettese személyére javaslatot a Gazdasági Versenyhivatal elnöke tesz a miniszterelnöknek, aki azt – egyetértése esetén – előterjeszti a köztársasági elnöknek. Az elnökhelyetteseket a köztársasági elnök nevezi ki, és egyben megbízza az egyik elnökhelyettest a Versenytanács elnöki teendőinek az ellátásával. Az elnök és az elnökhelyettesek kinevezése hat évre szól. A kinevezett személyek a hat év lejártát követően újból kinevezhetők.
 
 (3) A miniszterelnök javaslatának megtétele előtt a jelölteket a miniszterelnök kezdeményezésére az Országgyűlés illetékes bizottsága nyilvánosan meghallgatja.
 
@@ -426,7 +426,7 @@ kell figyelembe venni.
 - d) gondoskodik a Versenytanács döntéseinek nyilvánosságra hozataláról (80. §),
 - e) az eljáró Versenytanács tagjaként eljárhat.
 
-(3) A Versenytanács tagját a Gazdasági Versenyhivatal elnökének javaslatára a köztársasági elnök nevezi ki és menti fel. A köztársasági elnök e döntéséhez ellenjegyzésre nincs szükség. A kinevezés hat évre szól. A kinevezett személy megbízatásának lejártát követően egy alkalommal újból kinevezhető.
+(3) A Versenytanács tagját a Gazdasági Versenyhivatal elnökének javaslatára a köztársasági elnök nevezi ki és menti fel. A köztársasági elnök e döntéséhez ellenjegyzésre nincs szükség. A kinevezés hat évre szól. A kinevezett személy megbízatásának lejártát követően újból kinevezhető.
 
 (4) A Gazdasági Versenyhivatal köztisztviselőjének közszolgálati jogviszonya a Versenytanács tagjává való kinevezésekor a köztársasági elnöki kinevezésnek (megbízatás) megfelelő tartalmú közszolgálati jogviszonnyá alakul át. Ha a Versenytanács tagjának megbízatása a megbízatás időtartamának letelte miatt szűnik meg, a köztisztviselőt vissza kell helyezni a megbízatása előtt ellátott feladatkörbe vagy a végzettségének és szakképzettségének, szakképesítésének megfelelő más feladatkörben kell továbbfoglalkoztatni. Ha a megváltozott feladatkörben való továbbfoglalkoztatása miatt a köztisztviselő a Küt. 29. § (7) bekezdése alapján felmentését kéri, a Küt. 29. § (8) bekezdése alkalmazásában a kinevezés-módosítást megelőző illetményként a versenytanácstagként járó illetményét kell figyelembe venni.
 

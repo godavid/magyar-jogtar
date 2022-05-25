@@ -1854,7 +1854,7 @@ a megtérítés időpontjáig eltelt időre számított mindenkori jegybanki ala
 
 104. § (1) Az e Fejezetben meghatározott jogkövetkezmények együttesen is megállapíthatók. E jogkövetkezmények nem érintik az adó megfizetésének kötelezettségét, továbbá a vámjogszabályok és az Art. szerint megállapítható pótlékokat.
 
-(2) Jövedéki jogsértés miatt nem alkalmazhatóak az e Fejezetben meghatározott jogkövetkezmények a Rendőrségről szóló törvényben meghatározott megbízhatósági vizsgálatot lefolytató személlyel szemben, ha a jogsértést meghatározott feladata ellátása során, ügyész előzetes jóváhagyásával követi el.
+(2) Jövedéki jogsértés miatt nem alkalmazhatóak az e Fejezetben meghatározott jogkövetkezmények törvényben meghatározott megbízhatósági vizsgálatot lefolytató személlyel szemben, ha a jogsértést meghatározott feladata ellátása során, ügyész előzetes jóváhagyásával követi el.
 
 105. § (1) A magánfőzés szabályainak betartását ellenőrző önkormányzati adóhatóság eljárása során a tényállás tisztázása, továbbá az e törvény szerinti elkobzás érvényesítése érdekében lefoglalást rendelhet el, továbbá a desztillálóberendezés és az azon előállított termék jogszabályi követelményeknek való megfelelősége tárgyában díjmentesen szakvéleményt kérhet az állami adó- és vámhatóságtól.
 

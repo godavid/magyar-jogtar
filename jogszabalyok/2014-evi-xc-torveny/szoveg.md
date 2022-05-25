@@ -34,7 +34,7 @@ Az Országgyűlés, Magyarország globális kihívások iránti elkötelezettsé
 
 6. § A nemzetközi fejlesztési együttműködési tevékenység tervezése és a szakpolitikák fejlesztési célú összhangja érdekében a külpolitikáért felelős miniszter – az érintett minisztériumokkal együttműködve és a civil társadalommal konzultálva – legalább négyéves időtávra szakpolitikai stratégiát készít, amely meghatározza a földrajzi és ágazati prioritásokat.
 
-7. §
+#### 7. §
 
 #### 3. Végrehajtás és koordináció
 
@@ -74,7 +74,7 @@ Az Országgyűlés, Magyarország globális kihívások iránti elkötelezettsé
 
 #### 4. Nemzetközi fejlesztési tudatosság növelése
 
-12. § A külpolitikáért felelős miniszter a nemzetközi fejlesztési együttműködés, az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter a nemzetközi humanitárius segítségnyújtás vonatkozásában az oktatásért felelős miniszterrel együttműködnek e tevékenységek hazai társadalmi támogatottságának növelése érdekében, és ennek részeként a fiatal generáció szemléletformálásában, az önkéntesség szerepének erősítésében és a globális felelősségvállalásra nevelés előmozdításában.
+12. § A külpolitikáért felelős miniszter a nemzetközi fejlesztési együttműködés, az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter a nemzetközi humanitárius segítségnyújtás vonatkozásában a köznevelésért felelős miniszterrel és a felsőoktatásért felelős miniszterrel együttműködnek e tevékenységek hazai társadalmi támogatottságának növelése érdekében, és ennek részeként a fiatal generáció szemléletformálásában, az önkéntesség szerepének erősítésében és a globális felelősségvállalásra nevelés előmozdításában.
 
 #### 5. Finanszírozás
 
@@ -150,4 +150,4 @@ nem kell alkalmazni.
 
 18. § Ez a törvény 2015. július 1-jén lép hatályba.
 
-19. §
+#### 19. §

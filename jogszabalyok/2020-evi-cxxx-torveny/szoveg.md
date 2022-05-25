@@ -455,7 +455,7 @@ magyar állampolgárral létesíthető és tartható fenn.
 
 (4) Nem létesíthető szolgálati jogviszony azzal, aki a tervezett munkakörének megfelelő vagy a tervezett munkakörének részét képező foglalkozástól eltiltás hatálya alatt áll.
 
-(5) A szolgálati jogviszony létesítésének és fenntartásának feltétele, hogy a NAV állományába jelentkező tudomásul veszi, hogy szolgálati jogviszonyának fennállása alatt szolgálata törvényes ellátását tudta és beleegyezése nélkül – a törvényben meghatározott esetekben és módon – a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló törvény szerinti megbízhatósági vizsgálattal ellenőrizheti.
+(5) A szolgálati jogviszony létesítésének és fenntartásának feltétele, hogy a NAV állományába jelentkező tudomásul veszi, hogy szolgálati jogviszonyának fennállása alatt szolgálata törvényes ellátását tudta és beleegyezése nélkül – a törvényben meghatározott esetekben és módon – az Alkotmányvédelmi Hivatal a nemzetbiztonsági szolgálatokról szóló törvény szerinti megbízhatósági vizsgálattal ellenőrizheti.
 
 (6) Jogszabály vagy jogszabály által meghatározott esetben a munkáltatói jogkör gyakorlója a szolgálati jogviszony létesítését az (1) bekezdésben foglaltakon túlmenően meghatározott iskolai végzettséghez és szakképzettséghez, szakképesítéshez, munkaköri követelményhez, illetve gyakorlati idő letöltéséhez, képességhez, valamint egészségi, pszichológiai, fizikai alkalmassághoz kötheti.
 
@@ -524,11 +524,11 @@ a munkáltatói jogkör gyakorlója – mérlegelése alapján – a foglalkozta
 
 (8) A NAV-nak átadott 2. melléklet szerinti adatlapot a NAV zárt borítékban továbbítja a kifogástalan életvitel ellenőrzését lefolytató szervnek.
 
-(9) Az (5) bekezdésben írt feltételek ellenőrzését – ha törvény másként nem rendelkezik – a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv végzi.
+(9) Az (5) bekezdésben írt feltételek ellenőrzését – ha törvény másként nem rendelkezik – az Alkotmányvédelmi Hivatal végzi.
 
 (10) Az (5) bekezdés b) pontjában meghatározott büntetésről vagy kényszergyógykezelés elrendeléséről a jogerős ügydöntő határozatot hozó bíróság haladéktalanul értesíti a munkáltatói jogkör gyakorlóját, aki – a kifogástalan életvitel-ellenőrzés lefolytatása nélkül – a bíróság ügydöntő határozatának jogerőre emelkedését követő nappal megállapítja, hogy a pénzügyőr életvitele kifogásolható.
 
-(11) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv annak ellenőrzése érdekében, hogy az (5) bekezdésben foglalt, az életvitel kifogásolhatóságát megalapozó körülmények fennállnak-e, a kifogástalan életvitel ellenőrzése során
+(11) Az Alkotmányvédelmi Hivatal annak ellenőrzése érdekében, hogy az (5) bekezdésben foglalt, az életvitel kifogásolhatóságát megalapozó körülmények fennállnak-e, a kifogástalan életvitel ellenőrzése során
 
 - a) adatot igényelhet a jelentkezőről, a tisztjelöltről, valamint a pénzügyőrről, továbbá a vele közös háztartásban élő közeli hozzátartozóról a bűnügyi nyilvántartó szerv valamennyi bűnügyi nyilvántartásából, továbbá a NAV nyilvántartásaiból, és betekinthet a NAV-nál folyamatban lévő vagy befejezett fegyelmi eljárás irataiba,
 - b) lakóhelyén, tartózkodási helyén, munkahelyén nyíltan vagy a rendőri jelleg leplezésével környezettanulmányt készíthet a jelentkezőről, a tisztjelöltről vagy a pénzügyőrről.
@@ -543,7 +543,7 @@ a munkáltatói jogkör gyakorlója – mérlegelése alapján – a foglalkozta
 
 - a) a pénzügyőr esetében a munkáltatói jogkör gyakorlója,
 - b) a tisztjelölt esetében a NAV vezetője,
-- c) a jelentkező esetében a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv
+- c) a jelentkező esetében az Alkotmányvédelmi Hivatal
 
 állapítja meg.
 
@@ -555,7 +555,7 @@ a munkáltatói jogkör gyakorlója – mérlegelése alapján – a foglalkozta
 
 (6) A (3)–(5) bekezdésben foglaltakat a tisztjelöltekre is alkalmazni kell azzal, hogy esetükben az ellenőrzés megállapításai alapján a NAV vezetője dönt a jogkövetkezményekről.
 
-(7) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a NAV az erről szóló döntés meghozatalától számított nyolc napon belül tájékoztatja arról, hogy a jelentkezővel létesült-e szolgálati jogviszony. A keletkezett iratokat, adatokat – a kifogástalan életvitel ellenőrzését elrendelő és befejező határozatot kivéve – meg kell semmisíteni, ha
+(7) Az Alkotmányvédelmi Hivatalt a NAV az erről szóló döntés meghozatalától számított nyolc napon belül tájékoztatja arról, hogy a jelentkezővel létesült-e szolgálati jogviszony. A keletkezett iratokat, adatokat – a kifogástalan életvitel ellenőrzését elrendelő és befejező határozatot kivéve – meg kell semmisíteni, ha
 
 - a) nem létesül szolgálati jogviszony az erről szóló tájékoztatás kézhezvételétől számított nyolc napon belül, vagy
 - b) a szolgálati jogviszony, tisztjelölti jogviszony fennállása alatti ellenőrzés kifogásolható életvitelt nem állapít meg, az ellenőrzés befejezésétől számított nyolc napon belül.
@@ -3447,7 +3447,7 @@ kapcsolatos ügyekben.
 - k) a személyzeti, munkaügyi és illetményszámfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül, a 10. melléklet I/A., I/B., II., IV., V., VII., VIII. és X. pontjában foglalt adatkörökből a foglalkoztatott illetményének számfejtése, illetve annak ellenőrzése céljából,
 - l) a Kormányzati Személyügyi Döntéstámogatási Rendszer működtetésével összefüggésben a közszolgálati életpálya kidolgozásáért felelős miniszter,
 - m) az európai támogatásokat auditáló szerv,
-- n) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a vezetői munkakörbe kinevezés és a rendfokozatban történő soron kívüli előléptetést megelőző előzetes véleményalkotási eljárás keretében.
+- n)
 
 (2) A személyügyi központ – az adatfelhasználás dokumentálásával – jogszabályban meghatározott feladatai ellátása érdekében statisztikai adatfeldolgozást végezhet.
 

@@ -8,7 +8,7 @@ Az Óbudai Egyetem stratégiai céljainak, a nemzetközileg is meghatározó mű
 
 1. § (1) Az Országgyűlés felhívja – a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) alapján – a Kormányt, hogy tegye meg a szükséges intézkedéseket a Rudolf Kalman Óbudai Egyetemért Alapítvány (a továbbiakban: Alapítvány) létrehozására.
 
-(2) Az Alapítvány alapítása során az állam képviseletében a felsőoktatással összefüggő feladat- és hatáskörök tekintetében oktatásért felelős miniszter (a továbbiakban: miniszter) jár el.
+(2) Az Alapítvány alapítása során az állam képviseletében a felsőoktatásért felelős miniszter (a továbbiakban: miniszter) jár el.
 
 (3)
 
@@ -28,7 +28,7 @@ Az Óbudai Egyetem stratégiai céljainak, a nemzetközileg is meghatározó mű
 
 (4) Az ingatlan tulajdonjogát az Alapítvány a terhekkel együtt szerzi meg.
 
-3/A. § Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. alapján az Alapítvány vagyonkezelési tevékenységének, továbbá közfeladata ellátásának érdekében az 1/A. mellékletben meghatározott állami tulajdonban álló részesedések (a továbbiakban: részvények), az 1/B. mellékletben meghatározott állami tulajdonban álló befektetési jegyek (a továbbiakban: befektetési jegyek) az Alapítvány tulajdonába kerülnek, továbbá az 1/C. mellékletben meghatározott programvégrehajtási és -finanszírozási, valamint támogatási szerződések alapján fennálló jogok és kötelezettségek (a továbbiakban: jogok és kötelezettségek) az Alapítványra szállnak át. Az 1/C. mellékletben szereplő szerződések szerinti jogviszonyba a gazdaságpolitikáért felelős miniszter által vezetett minisztérium helyébe az Alapítvány lép.
+3/A. § Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. alapján az Alapítvány vagyonkezelési tevékenységének, továbbá közfeladata ellátásának érdekében az 1/A. mellékletben meghatározott állami tulajdonban álló részesedések (a továbbiakban: részvények), az 1/B. mellékletben meghatározott állami tulajdonban álló befektetési jegyek (a továbbiakban: befektetési jegyek) az Alapítvány tulajdonába kerülnek, továbbá az 1/C. mellékletben meghatározott programvégrehajtási és -finanszírozási, valamint támogatási szerződések alapján fennálló jogok és kötelezettségek (a továbbiakban: jogok és kötelezettségek) az Alapítványra szállnak át. Az 1/C. mellékletben szereplő szerződések szerinti jogviszonyba a költségvetés makrogazdasági megalapozásáért felelős miniszter által vezetett minisztérium helyébe az Alapítvány lép.
 
 3/B. § A részvényeknek és befektetési jegyeknek az Alapítvány tulajdonába kerülése, továbbá a jogok és kötelezettségek átszállása tekintetében az Alapítvány alapító okiratának módosításáról az alapítói jogok gyakorlója rendelkezik. A tulajdonba kerülés és a jogok és kötelezettségek átszállása vonatkozásában az állam képviseletében a miniszter jár el, aki jogosult az államot megillető tulajdonosi jogok gyakorlására és a kötelezettségek teljesítésére.
 

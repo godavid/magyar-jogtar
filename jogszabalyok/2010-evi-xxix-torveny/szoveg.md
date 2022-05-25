@@ -774,4 +774,4 @@ In case of any divergence of interpretation, the English text shall prevail.
 
 (3) Az Egyezmény, illetve e törvény 2–3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
-(4) E törvény végrehajtásához szükséges intézkedésekről az egészségügyért felelős miniszter, valamint a szociál- és nyugdíjpolitikáért felelős miniszter gondoskodik.
+(4) E törvény végrehajtásához szükséges intézkedésekről az egészségügyért felelős miniszter, valamint a szociálpolitikáért felelős miniszter, valamint a nyugdíjpolitikáért felelős miniszter gondoskodik.

@@ -6,7 +6,7 @@ A gazdaság-, társadalom-, természet- és orvostudományi képzési területek
 
 1. § (1) Az Országgyűlés felhívja a Kormányt, hogy az állam nevében tegye meg a szükséges intézkedéseket a Fudan Hungary Egyetemért Alapítvány (a továbbiakban: Alapítvány) közérdekű vagyonkezelő alapítvány formájában történő létrehozására.
 
-(2) Az Alapítvány létesítése során az állam képviseletében a felsőoktatással összefüggő feladat- és hatáskörök tekintetében oktatásért felelős miniszter (a továbbiakban: miniszter) jár el.
+(2) Az Alapítvány létesítése során az állam képviseletében felsőoktatásért felelős miniszter (a továbbiakban: miniszter) jár el.
 
 (3) Az Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására az Alapítvány kuratóriuma kerüljön kijelölésre, azzal, hogy
 

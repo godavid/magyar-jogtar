@@ -14,7 +14,7 @@ a Magyarország Kormánya és Ukrajna Miniszteri Kabinetje között a végzetts�
 
 (3) Az Egyezmény, a 2. §, a 3. §, a 6. §, valamint az 1. melléklet hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
 
-5. § Az e törvény végrehajtásához szükséges intézkedésekről a felsőoktatással összefüggő feladat- és hatáskörök tekintetében oktatásért felelős miniszter gondoskodik.
+5. § Az e törvény végrehajtásához szükséges intézkedésekről a felsőoktatásért felelős miniszter gondoskodik.
 
 6. §
 

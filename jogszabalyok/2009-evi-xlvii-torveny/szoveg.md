@@ -934,11 +934,11 @@ részére tett nyilatkozatával tiltakozzon.
 
 - a) a bíróság büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint bűnügyi jogsegélykérelem teljesítése céljából,
 - b) az előkészítő eljárást folytató szerv, a nyomozó hatóság és az ügyészség bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint bűnügyi jogsegélykérelem teljesítése céljából,
-- c) a nemzetbiztonsági szolgálatok a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
+- c) a nemzetbiztonsági szolgálatok a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból, megbízhatósági vizsgálat, illetve kifogástalan életvitele ellenőrzés céljából,
 - d) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a rendőrségről szóló törvény alapján hatáskörébe tartozó bűncselekmények megelőzése, illetve megszakítása, továbbá személyvédelmi feladatai ellátása céljából,
 - e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése, a kifogástalan életvitel ellenőrzése, valamint a megbízhatósági vizsgálat lefolytatása céljából,
 - f) a Nemzetközi Bűnügyi Együttműködési Központ a 84. § b) pontjában meghatározott feladatai ellátása céljából,
-- g) a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából,
+- g) a Nemzeti Információs Központ elemzés-értékelés, hírigény teljesítése, valamint az utasadatok kockázatelemzése céljából,
 - h) az általános rendőri feladatok ellátására létrehozott szerv – jogszabályban meghatározott – személy- és létesítményvédelmi feladatainak ellátása céljából.
 
 (2) A rendőrség jogosult közvetlen hozzáféréssel átvenni a következő adatokat:
@@ -1051,7 +1051,7 @@ részére tett nyilatkozatával tiltakozzon.
 
 68/A. § Ha
 
-- a) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve a kifogástalan életvitel ellenőrzése céljából,
+- a) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, vagy az arra törvényben kijelölt nemzetbiztonsági szolgálat a kifogástalan életvitel ellenőrzése céljából,
 - b) a rendőrség a 68. § (2) bekezdés a), b), d)–h) és j) pontjában meghatározott célból,
 - c) a köztársasági elnök a 68. § (4) bekezdés a) pontjában meghatározott célból, illetve
 - d) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai igazgatás területi szerve a 68. § (5) bekezdésében meghatározott célból
@@ -1303,7 +1303,7 @@ előírja.
 
 76/A. § (1) Ha
 
-- a) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve a kifogástalan életvitel ellenőrzése céljából,
+- a) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, vagy az arra törvényben kijelölt nemzetbiztonsági szolgálat a kifogástalan életvitel ellenőrzése céljából,
 - b) a rendőrség a 68. § (2) bekezdés a), b), d)–h) és j) pontjában meghatározott célból,
 - c) a köztársasági elnök a 68. § (4) bekezdés a) pontjában meghatározott célból, illetve
 - d) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai igazgatás területi szerve a 68. § (5) bekezdésében meghatározott célból

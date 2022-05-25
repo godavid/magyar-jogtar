@@ -18,9 +18,7 @@ a Budapest Diákváros megvalósításáról
 
 (2) Az 1. mellékletben felsorolt ingatlanok tekintetében a tulajdonosi jogok gyakorlására jogosult társaságot az ingatlanügyi hatóság a Társaság kérelmére e törvény alapján jegyzi be az ingatlan-nyilvántartásba.
 
-3. § (1) A Társaságban az államot megillető társasági részesedés felett a tulajdonosi jogok és kötelezettségek összességét a felsőoktatással összefüggő feladat- és hatáskörök tekintetében oktatásért felelős miniszter gyakorolja.
-
-(2) A Társaság felügyelőbizottsága legalább három, legfeljebb hat természetes személy tagból áll.
+3. §
 
 4. § (1) A Társaság mint építtető (a továbbiakban: építtető) a Beruházás tekintetében a feladatait az állam nevében és javára eljárva látja el. A beruházás során létrehozott épületek, építmények – a földterület tulajdonjogi sorsát osztva –, illetve egyéb vagyonelemek az állam tulajdonába kerülnek.
 

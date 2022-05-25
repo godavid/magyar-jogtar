@@ -101,7 +101,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 (3) A fogyatékos személy egészségügyi ellátása során törekedni kell arra, hogy az ellátás segítse elő a rehabilitációját, társadalmi beilleszkedését, továbbá, hogy ne erősítse a betegségtudatát.
 
-(4) Az orvos – vagy az általa megbízott egyéb egészségügyi dolgozó – a kiskorú személy fogyatékosságának megállapításakor a szülőt (gyámot) haladéktalanul tájékoztatja az igénybe vehető ellátásokról és fejlesztési lehetőségekről. Az ezzel kapcsolatos tájékoztató kiadásáról a szociál- és nyugdíjpolitikáért felelős miniszter gondoskodik.
+(4) Az orvos – vagy az általa megbízott egyéb egészségügyi dolgozó – a kiskorú személy fogyatékosságának megállapításakor a szülőt (gyámot) haladéktalanul tájékoztatja az igénybe vehető ellátásokról és fejlesztési lehetőségekről. Az ezzel kapcsolatos tájékoztató kiadásáról a szociálpolitikáért felelős miniszter gondoskodik.
 
 ### Oktatás, képzés
 
@@ -155,7 +155,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 19. § A fogyatékos személynek joga van a rehabilitációra. E jog érvényesítését rehabilitációs szolgáltatások, ellátások biztosítják.
 
-20. § A 21. §-ban megjelölt állami feladatot a fogyatékos személyek esélyegyenlőségének biztosítására létrehozott, a szociál- és nyugdíjpolitikáért felelős miniszter szakmai felügyelete alatt álló szervezet látja el. A szervezet számára törvény vagy kormányrendelet további feladatokat állapíthat meg.
+20. § A 21. §-ban megjelölt állami feladatot a fogyatékos személyek esélyegyenlőségének biztosítására létrehozott, a szociálpolitikáért felelős miniszter szakmai felügyelete alatt álló szervezet látja el. A szervezet számára törvény vagy kormányrendelet további feladatokat állapíthat meg.
 
 ### A rehabilitációs szolgáltatás, ellátás
 
@@ -349,7 +349,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 26. § (1) Az Országgyűlés által a fogyatékos személyek esélyegyenlőségének megteremtéséhez szükséges intézkedések megalapozása érdekében elfogadott Országos Fogyatékosságügyi Programban (a továbbiakban: Program) foglaltakat az egészségügyi, foglalkoztatási, szociálpolitikai, oktatási, közlekedési tervezésben, továbbá a településfejlesztésben, valamint az egyéb állami tervezés körébe tartozó döntés meghozatala során érvényre kell juttatni.
 
-(2) A Program előkészítéséről és annak Országgyűlési határozat tervezet formájában az Országgyűlés elé történő terjesztéséről – a szociál- és nyugdíjpolitikáért felelős miniszter útján – a Kormány gondoskodik.
+(2) A Program előkészítéséről és annak Országgyűlési határozat tervezet formájában az Országgyűlés elé történő terjesztéséről – a szociálpolitikáért felelős miniszter útján – a Kormány gondoskodik.
 
 (2a) Az Országos Fogyatékosságügyi Tanács részt vesz a Program előkészítésében, és figyelemmel kíséri annak végrehajtását.
 
@@ -370,7 +370,7 @@ A fogyatékos emberek a társadalom egyenlő méltóságú, egyenrangú tagjai, 
 
 27. § Amennyiben valakit fogyatékossága miatt jogellenesen hátrány ér, megilletik mindazok a jogok, amelyek a személyiségi jogok sérelme esetén irányadók.
 
-27/A. § A fogyatékos személyek jogainak előmozdítása, életminőségük javítása, önálló életvitelük támogatása és az e törvényben megfogalmazott egyéb célok, feladatok megvalósítása érdekében nyújtott, európai uniós forrásból finanszírozott, illetve hazai költségvetési támogatás esetén a szociál- és nyugdíjpolitikáért felelős miniszter döntése alapján a képviseletében eljáró közreműködő szervezetként a szakmai felügyelete alatt álló, a fogyatékos személyek esélyegyenlőségének biztosítására létrehozott szervezet jár el.
+27/A. § A fogyatékos személyek jogainak előmozdítása, életminőségük javítása, önálló életvitelük támogatása és az e törvényben megfogalmazott egyéb célok, feladatok megvalósítása érdekében nyújtott, európai uniós forrásból finanszírozott, illetve hazai költségvetési támogatás esetén a szociálpolitikáért felelős miniszter döntése alapján a képviseletében eljáró közreműködő szervezetként a szakmai felügyelete alatt álló, a fogyatékos személyek esélyegyenlőségének biztosítására létrehozott szervezet jár el.
 
 ### Záró rendelkezések
 
@@ -401,7 +401,7 @@ vonatkozó szabályokat rendeletben állapítsa meg.
 - d)
 - e) az e törvény alapján nyújtott ellátás igénylésével, megállapításával, folyósításával és ellenőrzésével, valamint az igényelbíráló szervek adatkezelésével kapcsolatos részletes szabályokat.
 
-(2) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy a közszolgáltatások igénybevételének és a személyi segítés feltételeinek biztosítása érdekében rendeletben állapítsa meg a fogyatékos személyt az egyenlő esélyű hozzáféréshez fűződő joga gyakorlásában és önálló életvitelében segítő kutya kiképzésének, vizsgáztatásának és alkalmazhatóságának szabályait, valamint segítő kutya kiképzését végző személyek képzésének szakmai és vizsgakövetelményeire vonatkozó szabályokat.
+(2) Felhatalmazást kap a szociálpolitikáért felelős miniszter, hogy a közszolgáltatások igénybevételének és a személyi segítés feltételeinek biztosítása érdekében rendeletben állapítsa meg a fogyatékos személyt az egyenlő esélyű hozzáféréshez fűződő joga gyakorlásában és önálló életvitelében segítő kutya kiképzésének, vizsgáztatásának és alkalmazhatóságának szabályait, valamint segítő kutya kiképzését végző személyek képzésének szakmai és vizsgakövetelményeire vonatkozó szabályokat.
 
 ### Az Európai Unió jogának való megfelelés
 

@@ -93,7 +93,7 @@ rendelkezéseit kell alkalmazni.
 
 (3) Az elnökség tagja büntetlen előéletű, cselekvőképes magyar állampolgár lehet. Az elnökségi tagságnak nem feltétele, hogy a jelölt a Honvédelmi Sportszövetség 4. § (1) bekezdése szerinti tagjának a tagságába tartozzon. Az elnökség tagjának jelölt személy igazolja a megválasztásához szükséges feltételek fennállását, amely adatok nyilvánosak.
 
-(4) Az elnökség ülésén állandó meghívottként tanácskozási joggal részt vehet a honvédelemért felelős miniszter, az oktatásért felelős miniszter, a sportpolitikáért felelős miniszter, az államháztartásért felelős miniszter és a rendészetért felelős miniszter képviselője. Az elnökség ülésén állandó meghívottként részt vehet a felügyelőbizottság tagja.
+(4) Az elnökség ülésén állandó meghívottként tanácskozási joggal részt vehet a honvédelemért felelős miniszter, a felsőoktatásért felelős miniszter, a köznevelésért felelős miniszter, a sportpolitikáért felelős miniszter, az államháztartásért felelős miniszter és a rendészetért felelős miniszter képviselője. Az elnökség ülésén állandó meghívottként részt vehet a felügyelőbizottság tagja.
 
 (5) Az elnökség feladata a közgyűlések közötti időszakban a közgyűlés határozatainak megfelelően a Honvédelmi Sportszövetség működésének irányítása.
 
@@ -115,7 +115,7 @@ rendelkezéseit kell alkalmazni.
 
 9. § (1) A Honvédelmi Sportszövetség működését és gazdálkodását felügyelőbizottság ellenőrzi.
 
-(2) A felügyelőbizottság elnökét és tagjainak legalább felét a Honvédelmi Sportszövetség 4. § (1) bekezdése tagságából a közgyűlés választja meg és hívja vissza, további egy-egy tagját a honvédelemért felelős miniszter, az oktatásért felelős miniszter, a sportpolitikáért felelős miniszter, valamint a nemzetgazdaságért felelős miniszter nevezi ki és hívja vissza.
+(2) A felügyelőbizottság elnökét és tagjainak legalább felét a Honvédelmi Sportszövetség 4. § (1) bekezdése tagságából a közgyűlés választja meg és hívja vissza, további egy-egy tagját a honvédelemért felelős miniszter, a felsőoktatásért felelős miniszter, a köznevelésért felelős miniszter, a sportpolitikáért felelős miniszter, valamint a nemzetgazdaságért felelős miniszter nevezi ki és hívja vissza.
 
 (3) A felügyelőbizottság választott tagjainak megbízatása három évre szól. A felügyelőbizottság választott tagja legfeljebb két egymást követő alkalommal választható meg.
 

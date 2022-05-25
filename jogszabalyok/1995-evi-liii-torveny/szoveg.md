@@ -747,7 +747,7 @@ véleményezésre megküldi.
 
 (2) A környezeti ismeretek terjesztése és fejlesztése (óvodai nevelés, iskolai nevelés, képzés, művelődés, iskolarendszeren kívüli oktatás és továbbképzés, ismeretterjesztés, könyvkiadás) elsősorban állami és önkormányzati feladat.
 
-(3) Az állami feladat ellátása során a miniszter a környezeti ismeretek szakszerű oktatásának biztosítása és azok folyamatos fejlesztése érdekében együttműködik az oktatásért felelős miniszterrel és más érdekelt miniszterekkel.
+(3) Az állami feladat ellátása során a miniszter a környezeti ismeretek szakszerű oktatásának biztosítása és azok folyamatos fejlesztése érdekében együttműködik a köznevelésért felelős miniszterrel és más érdekelt miniszterekkel.
 
 (4) A Nemzeti Alaptanterv elvei és követelményei szerint a miniszter közreműködik a köznevelési intézmények számára készülő tantervi követelmények és taneszközök szakmai előkészítésében.
 
@@ -761,7 +761,7 @@ véleményezésre megküldi.
 
 55. § (1) Az 54. §-ban megjelölt feladatokat az állam az oktatási és a közművelődési intézményeken keresztül, a környezetvédelmi egyesületekkel és a környezet védelmével foglalkozó lakossági szakmai szervezetekkel együttműködve látja el. Az állam az egyes nevelési, képzési feladatokat ellátó szervezeteket, az egyházi jogi személyeket, a tudományos intézményeket, szakmai szervezeteket, egyesületeket környezeti nevelési, képzési tevékenységük eredményesebb ellátása érdekében — szükség esetén megfelelő pénzeszközök rendelkezésre bocsátásával — támogatja.
 
-(2) A környezeti ismeretek oktatásának megszervezése és az ismeretekkel kapcsolatos tananyagok, oktatási programok előkészítésének szellemi és anyagi támogatása az oktatásért felelős miniszter, valamint a miniszter közös feladata, a szakképzés tekintetében a miniszter gyakorolja a szakképesítésért felelős miniszter jogait, ellátja a felsőoktatás szakirányába tartozó állami feladatokat, és segíti a szakirányába tartozó felsőoktatási intézmények oktató munkáját.
+(2) A környezeti ismeretek oktatásának megszervezése és az ismeretekkel kapcsolatos tananyagok, oktatási programok előkészítésének szellemi és anyagi támogatása a köznevelésért felelős miniszter, valamint a miniszter közös feladata, a szakképzés tekintetében a miniszter gyakorolja a szakképesítésért felelős miniszter jogait, ellátja a felsőoktatás szakirányába tartozó állami feladatokat, és segíti a szakirányába tartozó felsőoktatási intézmények oktató munkáját.
 
 ### VI. Fejezet — A KÖRNYEZETVÉDELEM GAZDASÁGI ALAPJAI
 

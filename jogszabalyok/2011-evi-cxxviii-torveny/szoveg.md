@@ -740,16 +740,20 @@ rendelheti el.
 
 (4) Veszélyhelyzetben egyedi határozatban határozhatja meg
 
-- a) az oktatásért felelős miniszter a köznevelési intézmények működésével, működtetésével, a nevelési év, tanítási év megszervezésével,
+- a) a köznevelésért felelős miniszter a köznevelési intézmények működésével, működtetésével, a nevelési év, tanítási év megszervezésével,
 - b) a szakképzésért felelős miniszter a szakképző intézmények működésével, működtetésével, a tanítási év megszervezésével
 
-kapcsolatos feladatokat. Az oktatásért felelős miniszter, illetve a szakképzésért felelős miniszter elrendelheti a határozat azonnali végrehajtását. A határozat közlése távközlési eszköz útján is történhet.
+kapcsolatos feladatokat. A köznevelésért felelős miniszter, illetve a szakképzésért felelős miniszter elrendelheti a határozat azonnali végrehajtását. A határozat közlése távközlési eszköz útján is történhet.
 
-#### 24/A. A Kormány rendkívüli intézkedései tömeges megbetegedést okozó humánjárvánnyal összefüggő veszélyhelyzetben
+#### 24/A. A Kormány rendkívüli intézkedései tömeges megbetegedést okozó humánjárvánnyal összefüggő veszélyhelyzetben, továbbá a szomszédos országban fennálló fegyveres konfliktus, háborús helyzet vagy humanitárius katasztrófa magyarországi következményeinek elhárítása érdekében kihirdetett veszélyhelyzetben
 
 51/A. § (1) A Kormány az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó humánjárvány megelőzése, illetve következményeinek elhárítása, a magyar állampolgárok egészségének és életének megóvása érdekében kihirdetett veszélyhelyzetben – a 21–24. alcímben meghatározott rendkívüli intézkedéseken és szabályokon túl – az állampolgárok élet-, egészség-, személyi-, vagyon- és jogbiztonságának, valamint a nemzetgazdaság stabilitásának garantálása érdekében rendeletével egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, és egyéb rendkívüli intézkedéseket hozhat.
 
 (2) A Kormány az (1) bekezdés szerinti jogkörét – a szükséges mértékben, az elérni kívánt céllal arányosan – a humánjárvány megelőzése, kezelése, felszámolása, továbbá káros hatásainak megelőzése, illetve elhárítása céljából gyakorolhatja.
+
+(3) A Kormány szomszédos országban fennálló fegyveres konfliktus, háborús helyzet vagy humanitárius katasztrófa magyarországi következményeinek elhárítása érdekében kihirdetett veszélyhelyzetben – a 21–24. alcímben meghatározott rendkívüli intézkedéseken és szabályokon túl – az élet-, egészség-, személyi-, vagyon- és jogbiztonság, valamint a nemzetgazdaság stabilitásának garantálása érdekében rendeletével egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, és egyéb rendkívüli intézkedéseket hozhat.
+
+(4) A Kormány a (3) bekezdés szerinti jogkörét – a szükséges mértékben, az elérni kívánt céllal arányosan – a szomszédos országban fennálló fegyveres konfliktus, háborús helyzet vagy humanitárius katasztrófa magyarországi következményeinek megelőzése, kezelése, felszámolása céljából gyakorolhatja.
 
 ### VI. Fejezet — A POLGÁRI VÉDELMI SZERVEZETEK MŰKÖDÉSE, A GAZDASÁGI ÉS ANYAGI SZOLGÁLTATÁS
 

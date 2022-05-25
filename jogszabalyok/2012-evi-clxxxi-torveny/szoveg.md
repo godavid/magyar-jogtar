@@ -284,7 +284,7 @@ Az Országgyűlés a Schengeni Információs Rendszer második generációja ker
   - db) a 750 kg-ot meghaladó saját tömegű pótkocsi, illetve lakókocsi,
   - dc) a gépjármű forgalmi engedélye, valamint
   - dd) a gépjármű hatósági jelzése,
-- e) a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából a személyekre vonatkozó figyelmeztető jelzéseket érintően,
+- e) a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. §-ában meghatározott feladatkörök végrehajtására kijelölt nemzetbiztonsági szolgálat, alaptevékenységi feladatai ellátásához a figyelmeztető jelzések teljes körét érintően,
 - f) a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 5. §-ában meghatározott feladatkörök végrehajtására kijelölt nemzetbiztonsági szolgálat, alaptevékenységi feladatai ellátásához a figyelmeztető jelzések teljes körét érintően.
 
 (2) Az (1) bekezdésben meghatározott hatóságok a SIS II rendszerben tárolt adatokat kizárólag a jogszabályban meghatározott feladataik ellátása érdekében használhatják fel, a SIS II Rendelet, valamint a 1986/2006/EK európai parlamenti és tanácsi rendelet szabályaival összhangban.

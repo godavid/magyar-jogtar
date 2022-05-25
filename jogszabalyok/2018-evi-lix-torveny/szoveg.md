@@ -170,7 +170,7 @@ Kelt Strasbourgban 2016. június 15. napján angol és francia nyelven, megerős
 
 (3) A Jegyzőkönyv, illetve a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
 
-5. § (1) Az e törvény végrehajtásához szükséges intézkedésekről a természetvédelemért felelős miniszter gondoskodik a kulturális örökség védelméért felelős miniszterrel egyetértésben, a területfejlesztésért felelős miniszterrel, a területrendezésért felelős miniszterrel és az oktatásért felelős miniszterrel együttműködve.
+5. § (1) Az e törvény végrehajtásához szükséges intézkedésekről a természetvédelemért felelős miniszter gondoskodik a kulturális örökség védelméért felelős miniszterrel egyetértésben, a területfejlesztésért felelős miniszterrel, a területrendezésért felelős miniszterrel a köznevelésért felelős miniszterrel és a felsőoktatásért felelős miniszterrel együttműködve.
 
 (2) A 2007. évi CXI. törvénnyel kihirdetett, a Firenzében, 2000. október 20-án kelt, az Európai Táj Egyezménynek a Jegyzőkönyvben foglalt módosításokkal egységes szerkezetbe foglalt hiteles szövegének és annak hivatalos magyar nyelvű fordításának a hatálybalépését követően történő haladéktalan közzétételéről – a külpolitikárt felelős miniszter és az igazságügyért felelős miniszter egyetértésével – a természetvédelemért felelős miniszter gondoskodik.
 

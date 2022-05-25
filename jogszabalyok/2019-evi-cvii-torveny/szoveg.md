@@ -406,7 +406,7 @@ a munkáltató – mérlegelése alapján – a köztisztviselő részére más 
 
 (8) A közszolgálati jogviszonynak a (7) bekezdés szerinti megszüntetése esetén a köztisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a köztisztviselővel.
 
-(9) Ha a Rendőrségről szóló törvény lehetővé teszi, hogy a köztisztviselő szolgálati feladatainak törvényes ellátását a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv – törvényben meghatározott esetekben és módon – megbízhatósági vizsgálattal ellenőrizze, közszolgálati jogviszony azzal létesíthető, aki tudomásul veszi, hogy közszolgálati jogviszonyának fennállása alatt feladatai törvényes ellátását a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló törvény szerinti megbízhatósági vizsgálattal ellenőrizheti.
+(9) Ha törvény lehetővé teszi, hogy a köztisztviselő szolgálati feladatainak törvényes ellátását az arra törvényben kijelölt szerv – törvényben meghatározott esetekben és módon – megbízhatósági vizsgálattal ellenőrizze, közszolgálati jogviszony azzal létesíthető, aki tudomásul veszi, hogy közszolgálati jogviszonyának fennállása alatt feladatai törvényes ellátását az arra törvényben kijelölt szerv megbízhatósági vizsgálattal ellenőrizheti.
 
 (10) Csak különösen indokolt esetben nevezhető ki köztisztviselőnek az e törvényben meghatározott öregségi nyugdíjra való jogosultsággal rendelkező személy, erről a munkáltató a közszolgálati jogviszonyt létesíteni szándékozó személy kérelmére dönt.
 
@@ -2177,7 +2177,7 @@ kezdődik.
 - h) törvényességi ellenőrzési feladatkörében eljárva az ügyész;
 - i) a személyes adatok kezelésével összefüggésben a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke;
 - j) a személyzeti, munkaügyi és illetményszámfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül, a 3. melléklet I/A., I/B., II., IV., V., VII., VIII. és X. pontjában foglalt adatkörökből a köztisztviselő illetményének számfejtése, illetve annak ellenőrzése céljából;
-- k) a közszolgálati statisztikai adatgyűjtéssel összefüggésben a közszolgálati életpálya kidolgozásáért felelős miniszter;
+- k) a közszolgálati statisztikai adatgyűjtéssel összefüggésben a kormányzati személyügyi igazgatásra kijelölt szerv vezetője;
 - l) adategyezés, adatösszevetés, adatkorrigálás érdekében a különleges jogállású szervekre vonatkozó adatok tekintetében, valamint a különleges jogállású szervek köztisztviselőinek képzésével, továbbképzésével, vizsgáztatásával kapcsolatban a személyügyi központ vezetője, és az általa feljogosított, személyügyi központnál alkalmazásban álló személy;
 - m) az európai támogatásokat auditáló szerv;
 - n) a különleges jogállású szerv részére informatikai üzemeltetési feladatokat, illetve logisztikai-eszközellátási feladatokat végző szerv – tevékenységéhez szükséges mértékig – a 3. melléklet I/A. pont 1–3. alpontjában foglalt adatkörök tekintetében.
@@ -2186,9 +2186,9 @@ kezdődik.
 
 #### 90. § [Adatszolgáltatás]
 
-(1) A köztisztviselők, valamint a különleges jogállású szervnél foglalkoztatott munkavállalók létszám- és illetményadatait, kereseti adatait a központi létszám- és bérgazdálkodási statisztikai információs rendszer a Kormány által meghatározott rendben átadja a közszolgálati életpálya kidolgozásáért felelős miniszter részére a különleges jogállású szerveknél foglalkoztatott munkavállalók adatainak elemzése céljából.
+(1) A köztisztviselők, valamint a különleges jogállású szervnél foglalkoztatott munkavállalók létszám- és illetményadatait, kereseti adatait a központi létszám- és bérgazdálkodási statisztikai információs rendszer a Kormány által meghatározott rendben átadja a kormányzati személyügyi igazgatásra kijelölt szerv vezetője részére a különleges jogállású szerveknél foglalkoztatott munkavállalók adatainak elemzése céljából.
 
-(2) A közigazgatási minőségpolitikáért és személyzetpolitikáért és a közszolgálati életpálya kidolgozásáért felelős miniszter – a Kormány által meghatározott módon és adatkörben – jogszabályban meghatározott feladatainak ellátása érdekében statisztikai lekérdezéseket végezhet a (1) bekezdésben meghatározott adatokból.
+(2) A kormányzati személyügyi igazgatásra kijelölt szerv vezetője – a Kormány által meghatározott módon és adatkörben – jogszabályban meghatározott feladatainak ellátása érdekében statisztikai lekérdezéseket végezhet a (1) bekezdésben meghatározott adatokból.
 
 (3) A kormányzati személyügyi igazgatásra kijelölt szerv statisztikai lekérdezéseket végezhet a különleges jogállású szerv álláshelyei vonatkozásában az alábbi adatokról:
 

@@ -8,7 +8,7 @@ A Szegedi Tudományegyetem régiós szerepének erősítése és stratégiai cé
 
 1. § (1) Az Országgyűlés felhívja – a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) alapján – a Kormányt, hogy tegye meg a szükséges intézkedéseket a Szegedi Tudományegyetemért Alapítvány (a továbbiakban: Alapítvány) létrehozására.
 
-(2) Az Alapítvány alapítása során az állam képviseletében a felsőoktatással összefüggő feladat- és hatáskörök tekintetében oktatásért felelős miniszter (a továbbiakban: miniszter) jár el.
+(2) Az Alapítvány alapítása során az állam képviseletében a felsőoktatásért felelős miniszter (a továbbiakban: miniszter) jár el.
 
 (3)
 

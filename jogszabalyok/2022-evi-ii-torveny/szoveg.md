@@ -26,4 +26,4 @@ Az Országgyűlés az Alaptörvény 17. cikk (1) bekezdése alapján a miniszté
 
 (2) Az 1. § szerinti minisztériumok és a Magyarország minisztériumainak felsorolásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2018. évi V. törvény szerinti minisztériumok közötti jogutódlást a Kormány eredeti jogalkotói hatáskörben kiadott rendelete állapítja meg.
 
-5. § Hatályát veszti a Magyarország minisztériumainak felsorolásáról, valamint egyes kapcsolódó törvények módosításáról szóló 2018. évi V. törvény.
+#### 5. §

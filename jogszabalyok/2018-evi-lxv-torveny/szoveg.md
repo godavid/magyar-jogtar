@@ -64,4 +64,4 @@ Done in duplicate at Bangkok on the 14th day of June of 2018, in the Hungarian, 
 
 (3) A Megállapodás, illetve a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
 
-5. § Az e törvény végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter gondoskodik.
+5. § Az e törvény végrehajtásához szükséges intézkedésekről a felsőoktatásért felelős miniszter gondoskodik.

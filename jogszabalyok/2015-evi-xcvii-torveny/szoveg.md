@@ -348,7 +348,7 @@ elismeréséről.
 
 rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a miniszter, hogy – az agrár-vidékfejlesztésért felelős miniszterrel egyetértésben – rendeletben állapítsa meg a mezőgazdasági, vidékfejlesztési szaktanácsadók szakterületeinek körét, a szaktanácsadói tevékenység folytatásának részletes feltételeit, a szaktanácsadói bejelentés részletes szabályait, a szaktanácsadók nyilvántartásának adattartalmát, a nyilvántartás vezetésére vonatkozó részletes szabályokat, a szaktanácsadók képzésére, értékelésére vonatkozó szabályokat, továbbá a szaktanácsadói tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket.
+(2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a mezőgazdasági, vidékfejlesztési szaktanácsadók szakterületeinek körét, a szaktanácsadói tevékenység folytatásának részletes feltételeit, a szaktanácsadói bejelentés részletes szabályait, a szaktanácsadók nyilvántartásának adattartalmát, a nyilvántartás vezetésére vonatkozó részletes szabályokat, a szaktanácsadók képzésére, értékelésére vonatkozó szabályokat, továbbá a szaktanácsadói tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket.
 
 29. § Ez a törvény a kihirdetését követő második hónap első napján lép hatályba.
 

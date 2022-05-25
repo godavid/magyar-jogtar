@@ -238,7 +238,7 @@ láthatja el.
 
 24. § (1) A nemzetiségi önkormányzat köznevelési intézményt, illetve szakképző intézményt alapíthat és tarthat fenn. A nemzetiségi önkormányzat által fenntartott
 
-- a) köznevelési intézmény vezetőjét az oktatásért felelős miniszter,
+- a) köznevelési intézmény vezetőjét a köznevelésért felelős miniszter,
 - b) szakképző intézmény vezetőjét a szakképzésért felelős miniszter
 
 egyetértésével a fenntartó bízza meg. Az egyetértés csak jogszabálysértés esetén tagadható meg.
@@ -253,7 +253,7 @@ egyetértésével a fenntartó bízza meg. Az egyetértés csak jogszabálysért
 
 (4) Különösen indokolt esetben az országos nemzetiségi önkormányzat átveheti a nemzetiségi anyanyelvű, illetve nemzetiségi két tanítási nyelvű
 
-- a) köznevelési intézmény fenntartását az oktatásért felelős miniszter,
+- a) köznevelési intézmény fenntartását a köznevelésért felelős miniszter,
 - b) szakképző intézmény fenntartását a szakképzésért felelős miniszter
 
 engedélyével. A kezdeményezéshez csatolni kell a köznevelési intézmény iskolaszékének, ennek hiányában szülői szervezetének (közösségének) és diákönkormányzatának, a szakképző intézmény képzési tanácsának és diákönkormányzatának, továbbá mindkét esetben az adott nemzetiség érintett települési, illetve területi nemzetiségi önkormányzatának a véleményét. Az engedély nem tagadható meg, ha a tanulók legalább hetvenöt százaléka részt vesz a nemzetiségi oktatásban és az átvétel az adott nemzetiség köznevelése szempontjából kiemelt jelentőséggel bír.

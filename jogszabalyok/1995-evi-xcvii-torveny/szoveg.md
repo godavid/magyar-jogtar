@@ -419,7 +419,7 @@ jogosult hatósági eljárás esetén, a döntés véglegessé válásának idő
 
 (2) A lajstromba vételért, a lajstromból való törlésért és a lajstrom kivonatáért igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj fizetésének feltételeit, módját és a díj összegét a miniszter az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítja meg.
 
-15/A. § A légiközlekedési hatóság által vezetett lajstromból a Terrorelhárítási Információs és Bűnügyi Elemző Központ törvényben meghatározott, a szervezett bűnözés elleni fellépés céljából gyűjtött adatok gyűjtésének, felhasználásának és ellenőrzésének koordinációjával összefüggő feladatai ellátása érdekében az adatkezelés céljának megjelölésével, egyedi adatigényléssel adatot kérhet.
+15/A. § A légiközlekedési hatóság által vezetett lajstromból a Nemzeti Információs Központ törvényben meghatározott, a szervezett bűnözés elleni fellépés, elemzés-értékelés, valamint hírigény teljesítése céljából gyűjtött adatok gyűjtésének, felhasználásának és ellenőrzésének koordinációjával összefüggő feladatai ellátása érdekében az adatkezelés céljának megjelölésével, egyedi adatigényléssel adatot kérhet.
 
 ### A légijármű felségjele és lajstromjele
 
@@ -504,7 +504,7 @@ jogosult hatósági eljárás esetén, a döntés véglegessé válásának idő
 
 (19) A nyilvántartásba vett pilóta nélküli légijárművön az üzembentartó nyilvántartási száma mellett jól látható módon fel kell tüntetni az eszköz nyilvántartási jelét is.
 
-17/A. § A repülőeszközökről és a pilóta nélküli légijárművekről vezetett nyilvántartásból a Terrorelhárítási Információs és Bűnügyi Elemző Központ törvényben meghatározott, a szervezett bűnözés elleni fellépés céljából gyűjtött adatok gyűjtésének, felhasználásának és ellenőrzésének koordinációjával összefüggő feladatai ellátása érdekében az adatkezelés céljának megjelölésével, egyedi adatigényléssel adatot kérhet.
+17/A. § A repülőeszközökről és a pilóta nélküli légijárművekről vezetett nyilvántartásból a Nemzeti Információs Központ törvényben meghatározott, a szervezett bűnözés elleni fellépés, elemzés-értékelés, valamint hírigény teljesítése céljából gyűjtött adatok gyűjtésének, felhasználásának és ellenőrzésének koordinációjával összefüggő feladatai ellátása érdekében az adatkezelés céljának megjelölésével, egyedi adatigényléssel adatot kérhet.
 
 ### Az állami légijármű nyilvántartása és jelzései
 
@@ -800,7 +800,7 @@ kezelheti, továbbíthatja, ha az adattovábbítás törvényi feltételei az ad
 
 (2a) A személyszállítást végző légifuvarozó – az utas hozzájárulásával – kezelheti 2016/681/EU parlamenti és tanács irányelv szerinti előzetes utasinformációs adatokat (a továbbiakban: előzetes utasinformációs adat), különösen az utas személyi azonosító okmánya típusát, számát, kiállító országát és lejárati idejét, az utas állampolgárságát, családi nevét, utónevét, nemét, születési idejét, a járatszámot, az indulás dátumát, az érkezés dátumát, az indulási repülőteret, az érkezési repülőteret, az indulási időt és az érkezési időt.
 
-(2b) Ha a személyszállítást végző légifuvarozó előzetes utasinformációs adatot gyűjt, a személyszállítást végző légifuvarozó az előzetes utasinformációs adatokat az (1) bekezdésben meghatározottak adatokra vonatkozó szabályok szerint és módszerrel köteles kezelni és továbbítani a Terrorelhárítási Információs és Bűnügyi Elemző Központ felé.
+(2b) Ha a személyszállítást végző légifuvarozó előzetes utasinformációs adatot gyűjt, a személyszállítást végző légifuvarozó az előzetes utasinformációs adatokat az (1) bekezdésben meghatározottak adatokra vonatkozó szabályok szerint és módszerrel köteles kezelni és továbbítani a Nemzeti Információs Központ felé.
 
 (3) A személyszállítást végző légifuvarozó a légi jármű indulását megelőző 345. naptól
 
@@ -813,8 +813,8 @@ kezelheti.
 
 (5) A személyszállítást végző légifuvarozó köteles az (1) és (2a) bekezdésben meghatározott adatok közül a rendelkezésére álló adatokat
 
-- a) a járat tervezett indulási ideje előtt 24 órával, valamint közvetlenül a beszállás lezárását követően haladéktalanul továbbítani a Terrorelhárítási Információs és Bűnügyi Elemző Központnak az utasadat-információs tevékenységéhez kapcsolódó feladatellátáshoz,
-- b) – ha az adatokhoz való hozzáférés az Nbtv. 3. számú melléklete szerinti bűncselekménnyel kapcsolatos konkrét és tényleges fenyegetésre adandó válaszhoz szükséges – a Terrorelhárítási Információs és Bűnügyi Elemző Központ egyedi megkeresése alapján a Terrorelhárítási Információs és Bűnügyi Elemző Központ elemző-értékelő tevékenysége végzéséhez továbbítani.
+- a) a járat tervezett indulási ideje előtt 24 órával, valamint közvetlenül a beszállás lezárását követően haladéktalanul továbbítani a Nemzeti Információs Központnak az utasadat-információs tevékenységéhez kapcsolódó feladatellátáshoz,
+- b) – ha az adatokhoz való hozzáférés az Nbtv. 3. számú melléklete szerinti bűncselekménnyel kapcsolatos konkrét és tényleges fenyegetésre adandó válaszhoz szükséges – a Nemzeti Információs Központ egyedi megkeresése alapján a Nemzeti Információs Központ elemző-értékelő tevékenysége végzéséhez, illetve hírigény teljesítése céljából továbbítani.
 
 (5a) Az (5) bekezdés a) pontja szerinti esetben a személyszállítást végző légifuvarozó a második adattovábbítást az első adattovábbításhoz képesti változások megjelölésével is teljesítheti.
 

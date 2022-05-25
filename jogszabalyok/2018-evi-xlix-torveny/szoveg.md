@@ -27,7 +27,12 @@ Annak érdekében, hogy a központi költségvetési forrásból és európai un
 
 (3) Az (1) bekezdésben meghatározott feladatok ellátása kiemelkedően fontos közérdekű tevékenység. Az (1) bekezdésben meghatározott feladatok ellátása, valamint a kiemelt budapesti fejlesztések keretében megvalósuló beruházási, felújítási, létesítmény-fejlesztési tevékenység ellátása közfeladatnak minősül.
 
-3. § (1) A Kormány a 2. § (1) bekezdésében meghatározott feladatokat az e feladatok ellátására létrehozott, a magyar állam 100%-os tulajdonában álló nonprofit gazdasági társaság vagy annak 100%-os tulajdonában álló nonprofit gazdasági társaság (a továbbiakban együtt: Társaság) útján látja el, azzal, hogy magasépítési beruházás előkészítését kizárólag a magyar állam 100%-os tulajdonában álló nonprofit gazdasági társaság útján látja el. A Társaság e feladatai elvégzéséhez közreműködőt vehet igénybe. A Társaság által ellátandó feladatokat és az abban közreműködő szerveket, valamint az érintett szervezetek közötti együttműködés rendjét a Kormány rendeletben határozza meg.
+3. § (1) A Kormány a 2. § (1) bekezdésében meghatározott feladatokat – a III. és a III/A. Fejezetben meghatározott kivétellel –
+
+- a) az e feladatok ellátására létrehozott, a magyar állam 100%-os tulajdonában álló nonprofit gazdasági társaság vagy annak 100%-os tulajdonában álló nonprofit gazdasági társaság (a továbbiakban együtt: Társaság), vagy
+- b) az állami beruházásokért felelős miniszter
+
+útján látja el, azzal, hogy magasépítési beruházás előkészítését kizárólag a magyar állam 100%-os tulajdonában álló nonprofit gazdasági társaság útján látja el. A Társaság e feladatai elvégzéséhez közreműködőt vehet igénybe. A Társaság által ellátandó feladatokat és az abban közreműködő szerveket, valamint az érintett szervezetek közötti együttműködés rendjét a Kormány rendeletben határozza meg.
 
 (2) A Társaság, illetve a kiemelt budapesti fejlesztések tekintetében építtetőként eljáró személy teljes személyes költség-, illeték- és igazgatási szolgáltatási díjmentességben részesül.
 
@@ -234,7 +239,7 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 20. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - a) a kiemelt budapesti fejlesztésnek minősülő beruházások körét és a kiemelt budapesti fejlesztések előkészítése során ellátandó egyes feladatokat,
-- b) a Budapest és a fővárosi agglomeráció fejlesztéséért felelős miniszter, illetve a Társaság kiemelt budapesti fejlesztések előkészítésével és megvalósításuk felügyeletével kapcsolatos feladatait, a Társaság feladataiban közreműködő szerveket, valamint az érintett szervezetek közötti együttműködés rendjét,
+- b) az állami beruházásokért felelős miniszter, illetve a Társaság kiemelt budapesti fejlesztések előkészítésével és megvalósításuk felügyeletével kapcsolatos feladatait, a Társaság feladataiban közreműködő szerveket, valamint az érintett szervezetek közötti együttműködés rendjét,
 - c) a Déli Városkapu Fejlesztési Program megvalósításának helyszíneként, illetve szükség szerint közvetlen környezeteként kijelölt ingatlanok körét,
 - d)
 - e) a 3. § (1) bekezdése szerinti Társaságot,

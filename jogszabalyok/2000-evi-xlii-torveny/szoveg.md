@@ -43,13 +43,13 @@ terjed ki.
 
 - a) az a) és az e) pontjaiban rögzített feladatokat a Kormány,
 - b) az f) és a h) pontjaiban rögzített feladatokat a közlekedésért felelős miniszter (a továbbiakban: a miniszter),
-- c) a b) pontjában rögzített feladatot a miniszter az államháztartásért felelős miniszterrel és a gazdaságpolitikáért felelős miniszterrel együttesen,
+- c) a b) pontjában rögzített feladatot a miniszter az államháztartásért felelős miniszterrel és a költségvetés makrogazdasági megalapozásáért felelős miniszterrel együttesen,
 - d) a c) pontjában megállapított feladatot – feladatkörében – a miniszter, a külpolitikáért felelős miniszter és az egészségügyért felelős miniszter,
 - e) a d) pontjában rögzített feladatot a miniszter a külpolitikáért felelős miniszterrel, valamint a külgazdasági ügyekért felelős miniszterrel egyetértésben,
 - f)
-- g) az i) pontjában rögzített feladatot a miniszter a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel, a határkikötők tekintetében a határrendészetért felelős miniszterrel is együttesen,
-- h) a j) pontjában rögzített feladatot a miniszter a Kormány európai uniós források felhasználásáért felelős tagjával, a gazdaságpolitikáért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen,
-- i) a k) pontjában rögzített feladatot a honvédelemért felelős miniszter a katasztrófák elleni védekezésért felelős miniszterrel együttesen, a miniszterrel és a gazdaságpolitikáért felelős miniszterrel egyetértésben,
+- g) az i) pontjában rögzített feladatot a miniszter a költségvetés makrogazdasági megalapozásáért felelős miniszterrel és az államháztartásért felelős miniszterrel, a határkikötők tekintetében a határrendészetért felelős miniszterrel is együttesen,
+- h) a j) pontjában rögzített feladatot a miniszter a Kormány európai uniós források felhasználásáért felelős tagjával, a költségvetés makrogazdasági megalapozásáért felelős miniszterrel és az államháztartásért felelős miniszterrel együttesen,
+- i) a k) pontjában rögzített feladatot a honvédelemért felelős miniszter a katasztrófák elleni védekezésért felelős miniszterrel együttesen, a miniszterrel és a költségvetés makrogazdasági megalapozásáért felelős miniszterrel egyetértésben,
 - j)
 - k) az m) pontjában rögzített feladatot a miniszter az egészségügyért felelős miniszterrel egyetértésben,
 - l) az n) pontjában rögzített feladatot a foglalkoztatáspolitikáért felelős miniszter a miniszterrel és az egészségügyért felelős miniszterrel egyetértésben,
@@ -765,7 +765,7 @@ kezeli.
 
 (6b) A hajózási hatóság a nyilvántartásában lévő természetes személyazonosító adatokat a tengerész munkaközvetítő vagy a tengerész kölcsönbeadó nyilvántartásból való törlését követő két évig kezeli.
 
-(7) A hajó felelős vezetője vagy az úszólétesítmény üzemben tartója a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet VI. melléklet 3.1.2. pontja szerinti, a 4.3. pont alapján a belvízi hajózásra is alkalmazni rendelt előzetes tájékoztatási kötelezettségét a folyami információs szolgáltatások központ által üzemeltetett elektronikus felület használatával is teljesítheti. A folyami információs szolgáltatások központ az előzetes tájékoztatási kötelezettség keretében szolgáltatott adatokkal – a hatósági feladatok végrehajtásának biztosítása céljából – adatfeldolgozási tevékenységet végez. A Terrorelhárítási Információs és Bűnügyi Elemző Központ a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény szerint terrorista és súlyos bűncselekmények megelőzése, felderítése, nyomozása és üldözése céljából a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. § (4) bekezdésében meghatározott feladatai ellátása érdekében az előzetes tájékoztatási kötelezettség keretében szolgáltatott személyes adatokat a folyami információs szolgáltatások központ által üzemeltetett elektronikus felülethez történő hozzáféréssel közvetlen elektronikus adatkapcsolat útján átveheti.
+(7) A hajó felelős vezetője vagy az úszólétesítmény üzemben tartója a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet VI. melléklet 3.1.2. pontja szerinti, a 4.3. pont alapján a belvízi hajózásra is alkalmazni rendelt előzetes tájékoztatási kötelezettségét a folyami információs szolgáltatások központ által üzemeltetett elektronikus felület használatával is teljesítheti. A folyami információs szolgáltatások központ az előzetes tájékoztatási kötelezettség keretében szolgáltatott adatokkal – a hatósági feladatok végrehajtásának biztosítása céljából – adatfeldolgozási tevékenységet végez. A Nemzeti Információs Központ a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény szerint terrorista és súlyos bűncselekmények megelőzése, felderítése, nyomozása és üldözése, elemző-értékelő tevékenység, valamint hírigény teljesítése céljából a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. § (3) és (4) bekezdésében meghatározott feladatai ellátása érdekében az előzetes tájékoztatási kötelezettség keretében szolgáltatott személyes adatokat a folyami információs szolgáltatások központ által üzemeltetett elektronikus felülethez történő hozzáféréssel közvetlen elektronikus adatkapcsolat útján átveheti.
 
 (8) A hajózási hatóság nyilvántartásából a Bizottság elektronikus adatbázisába a következő adatokat továbbítja:
 
@@ -1215,7 +1215,7 @@ vonatkozó rendelkezések megsértésekor.
 
 80. § (1) Azt a közforgalmú kikötőt, amelynek földterülete állami tulajdonban vagy az állam meghatározó többségével létrehozott vagyonkezelő társaság kezelésében van, és amely alapvető közlekedési infrastukturális ellátottsága lehetővé teszi átrakodási, elosztási központként a vízi, vasúti és a közúti személy-, illetőleg áruforgalom összekapcsolását, országos közforgalmú kikötővé lehet nyilvánítani.
 
-(2) Közforgalmú kikötőt – a miniszter és a gazdaságpolitikáért felelős miniszter együttes javaslatára – a Kormány határozatával nyilvánítja országos közforgalmú kikötővé.
+(2) Közforgalmú kikötőt – a miniszter és a költségvetés makrogazdasági megalapozásáért felelős miniszter együttes javaslatára – a Kormány határozatával nyilvánítja országos közforgalmú kikötővé.
 
 (3) Az országos közforgalmú kikötőt az állam az általa vagy részvételével e célra alapított gazdasági társaság útján működteti, illetve az országos közforgalmú kikötő földterületét bérbeadás útján hasznosítja.
 

@@ -794,4 +794,4 @@ A szezonális gázigény hatása a rövid távú szállítási szerződésekre: 
 
 (3) A Megállapodás, illetve e törvény 2–3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
-(4) E törvény végrehajtásához szükséges intézkedésekről a gazdaságpolitikáért felelős miniszter, az energiapolitikáért felelős miniszter, a külpolitikáért felelős miniszter, az igazságügyért felelős miniszter, valamint az adópolitikáért felelős miniszter gondoskodik.
+(4) E törvény végrehajtásához szükséges intézkedésekről a költségvetés makrogazdasági megalapozásáért felelős miniszter, az energiapolitikáért felelős miniszter, a külpolitikáért felelős miniszter, az igazságügyért felelős miniszter, valamint az adópolitikáért felelős miniszter gondoskodik.

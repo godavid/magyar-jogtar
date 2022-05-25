@@ -454,7 +454,7 @@ kézbesítettnek kell tekinteni.
 - c) aki a hivatásos szolgálatra és a tervezett szolgálati beosztására egészségi, pszichológiai és fizikai szempontból alkalmas,
 - d) akinek életvitele nem kifogásolható, és aki írásban tudomásul veszi, hogy azt a szolgálati viszony létesítését megelőzően, valamint a szolgálati viszony fennállása alatt ellenőrizhetik,
 - e) aki elfogadja egyes alapvető jogainak e törvény szerinti korlátozását,
-- f) aki tudomásul veszi, hogy szolgálati viszonyának fennállása alatt szolgálata törvényes ellátását tudta és beleegyezése nélkül – a törvényben meghatározott esetekben és módon – a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló törvény szerinti megbízhatósági vizsgálattal ellenőrizheti,
+- f) – olyan szerv esetében, ahol törvény lehetővé teszi, hogy az ott foglalkoztatott szolgálati feladatainak törvényes ellátását megbízhatósági vizsgálattal ellenőrizzék – aki tudomásul veszi, hogy szolgálati viszonyának fennállása alatt szolgálata törvényes ellátását tudta és beleegyezése nélkül – a törvényben meghatározott esetekben és módon – az arra törvényben kijelölt szerv törvényben meghatározott megbízhatósági vizsgálattal ellenőrizheti,
 - g) aki tudomásul veszi és elfogadja a hivatásos szolgálattal járó, szolgálati viszonyra vonatkozó szabályokban meghatározott kötelezettségeket és elvárásokat, valamint
 - h) akinél nem állnak fenn a szolgálati viszony létesítését kizáró körülmények.
 
@@ -588,11 +588,17 @@ is alkalmazni kell azzal, hogy esetükben a szolgálati viszonyon a hallgatói, 
 
 (6a) A rendvédelmi szervnek átadott 3. melléklet szerinti adatlapot a rendvédelmi szerv zárt borítékban továbbítja a kifogástalan életvitel ellenőrzését lefolytató szervnek.
 
-(7) A (4) bekezdésben írt feltételek ellenőrzését – ha törvény másként nem rendelkezik – a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv végzi. A polgári nemzetbiztonsági szolgálatok a saját munkatársaikra vonatkozóan végzett, a nemzetbiztonsági szolgálatokról szóló törvény szerinti biztonsági ellenőrzés alkalmával adatszolgáltatás végett e szervet megkeresik. A megkeresett szerv a biztonsági ellenőrzéssel érintett körben adatszolgáltatásra köteles.
+(7) A (4) bekezdésben írt feltételek ellenőrzését
+
+- a) a saját állománya tekintetében a polgári nemzetbiztonsági szolgálat,
+- b) a Nemzeti Adó- és Vámhivatal esetében az Alkotmányvédelmi Hivatal,
+- c) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv irányításáért felelős miniszter irányítása alá tartozó rendvédelmi szerv esetében a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv
+
+[az a)–c) pont ezen alcím alkalmazásában a továbbiakban együtt: kifogástalan életvitelt ellenőrző szerv] végzi.
 
 (8) A (4) bekezdés b) pontjában meghatározott büntetésről vagy kényszergyógykezelés elrendeléséről a jogerős ügydöntő határozatot hozó bíróság haladéktalanul értesíti az állományilletékes parancsnokot, aki – a kifogástalan életvitel-ellenőrzés lefolytatása nélkül – a bíróság ügydöntő határozatának jogerőre emelkedését követő nappal megállapítja, hogy a hivatásos állomány tagjának életvitele kifogásolható, és e törvény szerint intézkedik a szolgálati viszony megszüntetése érdekében.
 
-(9) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv annak ellenőrzése érdekében, hogy a (4) bekezdésben foglalt, az életvitel kifogásolhatóságát megalapozó körülmények fennállnak-e, a kifogástalan életvitel ellenőrzése során
+(9) A kifogástalan életvitelt ellenőrző szerv annak ellenőrzése érdekében, hogy a (4) bekezdésben foglalt, az életvitel kifogásolhatóságát megalapozó körülmények fennállnak-e, a kifogástalan életvitel ellenőrzése során
 
 - a) adatot igényelhet a hivatásos állományba jelentkezőről, a rendvédelmi oktatási intézménybe jelentkezőről, az ösztöndíjas hallgatóról, a tanulóról, valamint a hivatásos állomány tagjáról, továbbá a vele közös háztartásban élő közeli hozzátartozóról a bűnügyi nyilvántartó szerv valamennyi bűnügyi nyilvántartásából, továbbá a rendvédelmi szervek nyilvántartásaiból, és betekinthet az e szerveknél folyamatban lévő vagy befejezett fegyelmi eljárás irataiba,
 - b) lakóhelyén, tartózkodási helyén, munkahelyén nyíltan vagy a rendőri jelleg leplezésével környezettanulmányt készíthet a hivatásos állományba jelentkezőről, a rendvédelmi oktatási intézménybe jelentkezőről, az ösztöndíjas hallgatóról, tanulóról vagy a hivatásos állomány tagjáról.
@@ -603,7 +609,7 @@ is alkalmazni kell azzal, hogy esetükben a szolgálati viszonyon a hallgatói, 
 
 - a) a hivatásos állomány tagja esetében az állományilletékes parancsnok,
 - b) az ösztöndíjas hallgató, valamint a tanuló esetében az ösztöndíjas hallgatói vagy tanulói szerződést kötő rendvédelmi szerv országos parancsnoka,
-- c) a hivatásos állományba vagy rendvédelmi oktatási intézménybe jelentkező esetében a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv
+- c) a hivatásos állományba vagy rendvédelmi oktatási intézménybe jelentkező esetében a kifogástalan életvitelt ellenőrző szerv
 
 állapítja meg.
 
@@ -613,7 +619,7 @@ is alkalmazni kell azzal, hogy esetükben a szolgálati viszonyon a hallgatói, 
 
 (5) Ha az ellenőrzés megállapításai alapján az ösztöndíjas hallgató vagy a tanuló életvitele kifogásolható, az országos parancsnok az ösztöndíjszerződéstől – az érintett meghallgatását követően – egyoldalú nyilatkozattal elállhat. Az ösztöndíjszerződés megszűnésével a hallgatói vagy a tanulói jogviszony is megszűnik.
 
-(6) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a kifogástalan életvitel ellenőrzését kezdeményező rendvédelmi szerv az erről szóló döntés meghozatalától számított nyolc napon belül tájékoztatja arról, hogy a jelentkezővel létesült-e szolgálati viszony, ösztöndíjas jogviszony vagy tanulói jogviszony. A keletkezett iratokat, adatokat – a kifogástalan életvitel ellenőrzését elrendelő és befejező határozatot kivéve – meg kell semmisíteni, ha
+(6) A kifogástalan életvitelt ellenőrző szervet a kifogástalan életvitel ellenőrzését kezdeményező rendvédelmi szerv az erről szóló döntés meghozatalától számított nyolc napon belül tájékoztatja arról, hogy a jelentkezővel létesült-e szolgálati viszony, ösztöndíjas jogviszony vagy tanulói jogviszony. A keletkezett iratokat, adatokat – a kifogástalan életvitel ellenőrzését elrendelő és befejező határozatot kivéve – meg kell semmisíteni, ha
 
 - a) nem létesül szolgálati viszony, ösztöndíjas jogviszony vagy tanulói jogviszony, az erről szóló tájékoztatás kézhezvételétől számított nyolc napon belül, vagy
 - b) a szolgálati viszony, ösztöndíjas jogviszony vagy tanulói jogviszony fennállása alatti ellenőrzés kifogásolható életvitelt nem állapít meg, az ellenőrzés befejezésétől számított nyolc napon belül.
@@ -3739,7 +3745,7 @@ a rögzítéskor meghatározott szolgálati időre figyelemmel kell megállapít
 
 (8) A munkaviszony 82/B. § (4) bekezdés b) pontja alapján történő létesítése esetén a szolgálati viszony fennállása alatt elismert és beszámított szolgálati időt is figyelembe kell venni a munkaviszony időtartamaként.
 
-(9) Ha a Rendőrségről szóló törvény lehetővé teszi, hogy a rendvédelmi szerv munkavállalója esetében a feladatainak törvényes ellátását a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló törvényben meghatározott megbízhatósági vizsgálattal ellenőrizze, munkaviszony azzal létesíthető, aki tudomásul veszi, hogy munkaviszonyának fennállása alatt feladatai törvényes ellátását a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló törvény szerinti megbízhatósági vizsgálattal ellenőrizheti.
+(9) Ha törvény lehetővé teszi, hogy a rendvédelmi szerv munkavállalója esetében a feladatainak törvényes ellátását az arra törvényben kijelölt szerv törvényben meghatározott megbízhatósági vizsgálattal ellenőrizze, munkaviszony azzal létesíthető, aki tudomásul veszi, hogy munkaviszonyának fennállása alatt feladatai törvényes ellátását az arra törvényben kijelölt szerv megbízhatósági vizsgálattal ellenőrizheti.
 
 (10) A felek megállapodása vagy kollektív szerződés a (9) bekezdésben foglalt rendelkezésektől nem térhet el.
 
@@ -5477,6 +5483,16 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 (8) A (6) és (7) bekezdésben meghatározott esetben a kifizetett jövedelem járulékalapot képező jövedelemnek minősül, amely után a hivatásos állomány tagja által fizetendő egyéni járulékokat a levont adó tartalmazza. A hivatásos állomány tagjának ezt a jövedelmet nem kell az összevont adóalapjába beszámítania, azt nem kell bevallania, a kifizetőnek nem kell erről a jövedelemről a hivatásos állomány tagja részére igazolást kiadnia. A kifizetőnek ezen adót, valamint a munkáltatót terhelő közterheket az adóhatóság felé nem kell személyre szólóan bevallania. A nemzetbiztonsági érdek és a személyi biztonsági feltételek érvényesítése érdekében a nemzetbiztonsági szolgálatok a hatóságok részére a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 28. § (5) bekezdése szerinti külön megállapodás alapján teljesítik a nyugdíjjárulék fizetésével összefüggő adatszolgáltatási kötelezettségeiket.
 
+336/A. § (1) A polgári nemzetbiztonsági szolgálatot irányító miniszter előzetes jóváhagyásával a polgári nemzetbiztonsági szolgálat főigazgatója át nem ruházható hatáskörében, illetve a polgári nemzetbiztonsági szolgálat főigazgatója és helyettese esetében a miniszter a polgári nemzetbiztonsági szolgálat hivatásos állománya tagjának az e törvényben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő, személyi illetményt állapíthat meg.
+
+(2) A személyi illetményt egy összegben kell megállapítani és visszavonásig érvényes. A visszavonást követően a polgári nemzetbiztonsági szolgálat hivatásos állományának tagját az e törvényben meghatározott illetményrendszerre vonatkozó szabályok szerint, az általa betöltött beosztás alapján kell besorolni és illetményét megállapítani.
+
+(3) A személyi illetményben részesülők illetményét évente – január 31-ig – felül kell vizsgálni.
+
+(4) A személyi illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
+
+(5) Visszavonás nélkül is megszűnik a személyi illetmény, ha a polgári nemzetbiztonsági szolgálat hivatásos állománya tagjának besorolása szerinti illetményének összege eléri a személyi illetmény összegét. Ebben az esetben a polgári nemzetbiztonsági szolgálat hivatásos állományának tagját az általa betöltött beosztás alapján kell besorolni, és illetményét megállapítani.
+
 337. § (1) A polgári nemzetbiztonsági szolgálatok esetében az elöljáró parancsa teljesítésének módjára a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott eltérő rendelkezéseket kell alkalmazni.
 
 (2) A titoktartási kötelezettség alól a miniszter, valamint a munkáltatói jogkört gyakorló elöljáró adhat felmentést. E jogkör nem ruházható át.
@@ -5666,7 +5682,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 342/B. § Felhatalmazást kap a miniszter, hogy az iskolaőrök tekintetében rendeletben határozza meg
 
 - a) a ruházati ellátásra, valamint szolgálati igazolvánnyal és szolgálati jelvénnyel való ellátásra vonatkozó részletes szabályokat,
-- b) az oktatásért felelős miniszter egyetértésével a képzés, kiegészítő képzés és vizsga részletes tartalmi elemeit, a vizsgaszabályzatot, a képzés és vizsga helyett elfogadható szakirányú képesítések és képzettségek jegyzékét,
+- b) a köznevelésért felelős miniszter egyetértésével a képzés, kiegészítő képzés és vizsga részletes tartalmi elemeit, a vizsgaszabályzatot, a képzés és vizsga helyett elfogadható szakirányú képesítések és képzettségek jegyzékét,
 - c) a pszichológiai alkalmasság és a fizikai állóképesség követelményeit, a pszichológiai és fizikai alkalmassági követelmények felmérésének szabályait, a felmérést végző szervezetek kijelölését, az alkalmassági vizsgálatok eljárási rendjét, valamint
 - d) a munkaviszony létesítésének e törvényben nem szabályozott feltételeit.
 
@@ -6811,7 +6827,7 @@ Vezetői munkaköri osztály
 
 – igazolásai (bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány száma, kelte)
 
-II. Képzettség, szakképzettség
+#### II. Képzettség, szakképzettség
 
 – legmagasabb iskolai végzettsége (több végzettség esetén valamennyi)
 

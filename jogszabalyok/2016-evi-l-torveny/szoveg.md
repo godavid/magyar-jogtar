@@ -1586,4 +1586,4 @@ A FENTIEK HITELÉÜL alulírott szabályszerűen felhatalmazott személyek alá�
 
 (3) A Megállapodás, a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
 
-(4) E törvény végrehajtásához szükséges intézkedésekről az energiapolitikáért felelős miniszter, az erdőgazdálkodásért felelős miniszter, a gazdaságpolitikáért felelős miniszter, a környezetvédelemért felelős miniszter és a külpolitikáért felelős miniszter gondoskodik.
+(4) E törvény végrehajtásához szükséges intézkedésekről az energiapolitikáért felelős miniszter, az erdőgazdálkodásért felelős miniszter, a költségvetés makrogazdasági megalapozásáért felelős miniszter, a környezetvédelemért felelős miniszter és a külpolitikáért felelős miniszter gondoskodik.

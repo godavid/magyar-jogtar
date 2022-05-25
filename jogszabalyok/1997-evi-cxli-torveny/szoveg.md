@@ -1071,7 +1071,7 @@ igényli.
 
 (3) A miniszter a szakmai irányításával összefüggő feladatai ellátása érdekében térítésmentesen és korlátlanul hozzáférhet a földmérési és térinformatikai államigazgatási szerv által kezelt és üzemeltetett adatbázisokhoz.
 
-(4) Az agrárpolitikáért, a földügyért, a földügyi és agrár-vidékfejlesztési szakigazgatáshoz kapcsolódó térképészetért, az agrár-vidékfejlesztésért, az erdőgazdálkodásért, a környezetvédelemért, a természetvédelemért, az élelmiszerlánc-felügyeletért, az élelmiszeriparért, a vadgazdálkodásért és a halgazdálkodásért felelős miniszter – a szakmai irányításával összefüggő feladatai ellátása érdekében – térítésmentesen és korlátlanul hozzáférhet a földmérési és térinformatikai szerv által kezelt és üzemeltett adatbázisokhoz.
+(4) Az agrárpolitikáért, a földügyért, a földügyi és agrártámogatási szakigazgatáshoz kapcsolódó térképészetért, az erdőgazdálkodásért, a környezetvédelemért, a természetvédelemért, az élelmiszerlánc-felügyeletért, az élelmiszeriparért, a vadgazdálkodásért és a halgazdálkodásért felelős miniszter – a szakmai irányításával összefüggő feladatai ellátása érdekében – térítésmentesen és korlátlanul hozzáférhet a földmérési és térinformatikai szerv által kezelt és üzemeltett adatbázisokhoz.
 
 (5)
 

@@ -14,7 +14,7 @@ a Magyarország Kormánya és a Szerb Köztársaság Kormánya között a Magyar
 
 (3) Az Egyezmény, valamint a 2. §, a 3. § és az 1. melléklet hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
 
-5. § E törvény végrehajtásához szükséges intézkedésekről az oktatásért felelős miniszter gondoskodik.
+5. § E törvény végrehajtásához szükséges intézkedésekről a köznevelésért felelős miniszter és a felsőoktatásért felelős miniszter gondoskodik.
 
 ### 1. melléklet a 2019. évi LXXVII. törvényhez
 

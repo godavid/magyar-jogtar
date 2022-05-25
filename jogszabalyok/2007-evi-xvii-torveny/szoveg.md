@@ -707,16 +707,16 @@ eljárhat.
 
 (3) A MePAR Vízvédelmi Sávok, Vásárhelyi Terv Területei, Árvíz Járta Területek, Aszály Érzékeny Területek, Belvízzel Veszélyeztetett Területek, Nitrátérzékeny Területek, VP vízvédelmi célú nem termelő beruházások programhoz kapcsolódó fedvényekhez, továbbá a MePAR programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet a vízügyi és a vízvédelmi hatóság a vízgazdálkodási és vízvédelmi hatósági eljárással összefüggő feladatai, valamint a hivatásos katasztrófavédelmi szerv az integrált hatósági ügyviteli rendszerhez kapcsolódó feladatai ellátása érdekében.
 
-(4) A területrendezésért, a településfejlesztésért és településrendezésért, valamint a kulturális örökség védelméért felelős miniszter a területrendezési, a településfejlesztési és településrendezési, valamint a kulturális örökségvédelmi és világörökségi feladataival összefüggő feladatai ellátása érdekében térítésmentesen és korlátlanul hozzáférhet a Mezőgazdasági Parcella Azonosító Rendszernek a területrendezési és településrendezési, valamint a kulturális örökségvédelmi és világörökségi feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz.
+(4) A területrendezésért, a településfejlesztésért és településrendezésért, valamint a kulturális örökség védelméért felelős miniszter a területrendezési, a településfejlesztési és településrendezési, valamint a kulturális örökségvédelmi és világörökségi feladataival összefüggő feladatai ellátása érdekében térítésmentesen és korlátlanul hozzáférhet a MePAR-nak a területrendezési és településrendezési, valamint a kulturális örökségvédelmi és világörökségi feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, az érintett területre a MePAR programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz.
 
-(5) A megyei önkormányzat a megyei területrendezési terv készítése érdekében a Mezőgazdasági Parcella Azonosító Rendszernek a területrendezési feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet.
+(5) A megyei önkormányzat a megyei területrendezési terv készítése érdekében a MePAR-nak a területrendezési feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, az érintett területre a MePAR programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet.
 
-(6) A települési önkormányzat, Budapest Főváros Önkormányzata és a kerületi önkormányzat a településrendezési terv és településfejlesztési terv készítése és a településképi követelmények meghatározása érdekében az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet.
+(6) A települési önkormányzat, Budapest Főváros Önkormányzata és a kerületi önkormányzat a településrendezési terv és településfejlesztési terv készítése és a településképi követelmények meghatározása érdekében az érintett területre a MePAR programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet.
 
 (7) A Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság
 
-- a) az épített környezet alakításáról és védelméről szóló törvény szerinti Országos Építésügyi Nyilvántartás, a területfejlesztésről és a területrendezésről szóló törvény szerinti területfejlesztéssel és területrendezéssel kapcsolatos információs rendszer, valamint a kulturális örökség védelméről szóló törvény szerinti központi, közhiteles nyilvántartás működtetéséhez szükséges Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt, az adott területre elérhető legfrissebb évjárat szerinti ortofotóihoz, és
-- b) a területfejlesztési és területrendezési feladatainak ellátása érdekében a Mezőgazdasági Parcella Azonosító Rendszernek a területfejlesztési és területrendezési feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, valamint a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt, az adott területre elérhető legfrissebb évjárat szerinti ortofotóihoz
+- a) az épített környezet alakításáról és védelméről szóló törvény szerinti Országos Építésügyi Nyilvántartás, a területfejlesztésről és a területrendezésről szóló törvény szerinti területfejlesztéssel és területrendezéssel kapcsolatos információs rendszer, valamint a kulturális örökség védelméről szóló törvény szerinti központi, közhiteles nyilvántartás működtetéséhez szükséges MePAR programszerű felújításához használt, az adott területre elérhető legfrissebb évjárat szerinti ortofotóihoz, és
+- b) a területfejlesztési és területrendezési feladatainak ellátása érdekében a MePAR-nak a területfejlesztési és területrendezési feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, valamint a MePAR programszerű felújításához használt, az adott területre elérhető legfrissebb évjárat szerinti ortofotóihoz
 
 térítésmentesen hozzáférhet.
 
@@ -1978,7 +1978,9 @@ rendeletben állapítsa meg.
 
 rendeletben állapítsa meg.
 
-(5) Felhatalmazást kap a miniszter, hogy a nemzeti hatáskörbe tartozó mezőgazdasági, halászati, erdészeti és agrár-vidékfejlesztési állami támogatás igénybevételére vonatkozó, törvényben vagy kormányrendeletben nem szabályozott feltételeket rendeletben állapítsa meg.
+(5) Felhatalmazást kap a miniszter, hogy a nemzeti hatáskörbe tartozó mezőgazdasági, halászati, erdészeti és agrár- és vidékfejlesztési állami támogatás igénybevételére vonatkozó, törvényben vagy kormányrendeletben nem szabályozott feltételeket rendeletben állapítsa meg.
+
+(6) Felhatalmazást kap a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter, hogy a társadalompolitika összehangolásáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a közösségi bormarketing támogatások igénybevételének szabályait.
 
 #### 82. §
 

@@ -119,7 +119,7 @@ a 72. § alapján kerül sor.
 
 (4) A 60. § (1) bekezdés j) pontja és 63. § (1) bekezdés d) pontja alkalmazása szempontjából a köztisztviselő öregségi nyugdíjra az (1) bekezdés a)–c) pontokban szabályozott esetben jogosult.
 
-8. § (1) A közigazgatási szerv közhatalmi, irányítási, ellenőrzési és felügyeleti hatáskörének gyakorlásával közvetlenül összefüggő, valamint ügyviteli feladat ellátására kizárólag kormányzati szolgálati, illetve közszolgálati jogviszony létesíthető. A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter a közbeszerzések felügyeletével kapcsolatos feladatok ellátásáért felelős és az azt támogató foglalkoztatottak munkaszerződés keretében történő alkalmazását engedélyezheti.
+8. § (1) A közigazgatási szerv közhatalmi, irányítási, ellenőrzési és felügyeleti hatáskörének gyakorlásával közvetlenül összefüggő, valamint ügyviteli feladat ellátására kizárólag kormányzati szolgálati, illetve közszolgálati jogviszony létesíthető.
 
 (2) Megbízási, vállalkozási, illetve munkaszerződés nem köthető olyan feladat elvégzésére, amelyre csak kormánytisztviselői, köztisztviselői kinevezés adható.
 
@@ -130,7 +130,7 @@ a 72. § alapján kerül sor.
 - c) a feladat a megbízott, vállalkozó saját anyagainak, illetve eszközeinek felhasználásával teljesíthető, és
 - d) a feladat teljesítésének helye nem szükséges, hogy a közigazgatási szerv székhelyén, telephelyén legyen, azt a megbízott, illetve a vállalkozó maga választhatja meg, illetve az a feladat ellátásához igazítható.
 
-(4) A közigazgatási szervnél a tárgyévben munkaszerződéssel foglalkoztatott személyek aránya – ide nem értve a fizikai alkalmazottakat – együttesen nem haladhatja meg az éves átlagos statisztikai állományi létszám tíz százalékát. E korlát nem vonatkozik az általános politikai koordinációért felelős miniszter által vezetett minisztériumban, valamint a Miniszterelnöki Kormányirodán foglalkoztatott személyekre. A tíz százalékos mérték alól egyéb esetben a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter indokolt esetben mentesítést adhat.
+(4)
 
 (5) A közszolgálati tisztviselő besorolásánál (116. §) a munkavégzésre irányuló jogviszonyban, különösen a munkaviszonyban, állami vezetői szolgálati jogviszonyban, kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, illetve munkaviszonyban, ügyészségi, hivatásos (szerződéses) szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, a 47. §-ban meghatározott ösztöndíjas jogviszonyban, bedolgozói munkaviszonyban, a munkavégzési kötelezettséget magában foglaló szövetkezeti tagsági viszonyban, a szakcsoporti tagsági viszonyban, a vállalkozási és megbízási szerződésen alapuló, valamint a személyes közreműködéssel járó gazdasági és polgári jogi társasági vagy egyéni cég tagjaként végzett tevékenységre irányuló jogviszonyban, továbbá az ügyvédi és az egyéni vállalkozói tevékenységre irányuló jogviszonyban töltött időt, valamint a 62/A. § szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamot kell alapul venni azzal, hogy a munkavégzési kötelezettséggel nem járó, megszakítás nélkül hat hónapot meghaladó időtartamból hat hónapot kell beszámítani. A sor- és tartalékos katonai, valamint a polgári szolgálat, a tizennégy éven aluli gyermek ápolására, gondozására, illetve a tartós külszolgálatot teljesítő dolgozó házastársa által igénybe vett fizetés nélküli szabadság teljes időtartamát figyelembe kell venni.
 
@@ -140,7 +140,7 @@ a 72. § alapján kerül sor.
 
 (8) A közszolgálati tisztviselő besorolásánál (116. §) az önkéntes tartalékos tényleges katonai szolgálatteljesítés idejét kétszeres időtartammal kell figyelembe venni.
 
-(9) Az (1)–(4) bekezdésben foglalt szabályokat az Országgyűlési Őrség esetében nem kell alkalmazni.
+(9) Az (1)–(3) bekezdésben foglalt szabályokat az Országgyűlési Őrség esetében nem kell alkalmazni.
 
 (10) Az (1) bekezdésben foglaltaktól eltérően, Magyarország diplomáciai és konzuli képviseletein, a nemzetközi szervezetek mellett működő állandó képviseleteken, valamint más állami képviseleteken ügyviteli feladat ellátására nem kizárólag kormányzati szolgálati, illetve közszolgálati jogviszony létesíthető.
 
@@ -356,32 +356,28 @@ kézbesítettnek kell tekinteni.
 
 ### III. Fejezet — KÖZSZOLGÁLATI SZEMÉLYZETI IGAZGATÁS
 
-### A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter és a közszolgálati életpálya kidolgozásáért felelős miniszter
+### A kormányzati személyügyi igazgatásra kijelölt szerv és a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter
 
-26. § (1) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter felel a Kormány közigazgatási személyzeti politikájának érvényesítésért. E feladatkörében
+26. § (1) A kormányzati személyügyi igazgatásra kijelölt szerv vezetője
 
 - a) összehangolja, koordinálja a közigazgatás szervek személyzeti tevékenységét,
 - b) kidolgozza a közigazgatási személyzetpolitika irányait és elveit és gondoskodik azok megvalósításáról.
 
-(2) A közszolgálati életpálya kidolgozásáért felelős miniszter módszertani koordinációs feladatkörében támogatást nyújt a közszolgálatra vonatkozó szabályozás egységes alkalmazásának elősegítésére, a feladatok végrehajtásának összehangolására.
+(2) A kormányzati személyügyi igazgatásra kijelölt szerv vezetője módszertani koordinációs feladatkörében támogatást nyújt a közszolgálatra vonatkozó szabályozás egységes alkalmazásának elősegítésére, a feladatok végrehajtásának összehangolására.
 
-(3) A közszolgálati életpálya kidolgozásáért felelős miniszter statisztikai célú adatgyűjtést végezhet, adatszolgáltatást kérhet a közigazgatási szervtől a kormányzati személyzetpolitika összehangolásának biztosítása érdekében.
+(3) A kormányzati személyügyi igazgatásra kijelölt szerv vezetője statisztikai célú adatgyűjtést végezhet, adatszolgáltatást kérhet a közigazgatási szervtől a kormányzati személyzetpolitika összehangolásának biztosítása érdekében.
 
 (4) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter ellenőrzi – a fővárosi és megyei kormányhivatalok közreműködésével – a kormányzati szolgálati és a közszolgálati jogviszonyra vonatkozó jogszabályok végrehajtását.
 
-(5) A közszolgálati életpálya kidolgozásáért felelős miniszter felel az egységes alapokon megvalósuló személyügyi nyilvántartás és integrált emberi erőforrás-gazdálkodási rendszer működéséért a minisztériumokban.
+(5) A közszolgálati életpálya kidolgozásáért felelős miniszter felel az egységes alapokon megvalósuló személyügyi nyilvántartás és integrált emberierőforrás-gazdálkodási rendszer működéséért a minisztériumokban.
 
 (6) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter képviseli a Kormányt a Közszolgálati Érdekegyeztető Fórumban.
 
 (7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter nevezi ki a Közszolgálati Döntőbizottság elnökét és helyettesét, valamint tagjait.
 
-(8)
+(8) A személyügyi központ vezetője irányítja a kormányzati szolgálati, illetve közszolgálati jogviszonyban állók képzését, továbbképzését, átképzését, ellátja a közigazgatási vezetőképzéssel kapcsolatos feladatokat.
 
-(9) A közszolgálati életpálya kidolgozásáért felelős miniszter irányítja a kormányzati szolgálati, illetve közszolgálati jogviszonyban állók képzését, továbbképzését, átképzését, ellátja a közigazgatási vezetőképzéssel kapcsolatos feladatokat.
-
-(10) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter látja el az e törvényben a közszolgálati ellenőrzéssel kapcsolatos feladatokat.
-
-### A kormányzati személyügyi igazgatási feladatokat ellátó szerv
+(9) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter látja el az e törvényben a közszolgálati ellenőrzéssel kapcsolatos feladatokat.
 
 27. § A személyügyi központ ellátja a 45. §-ban meghatározott pályázati eljárással kapcsolatos feladatokat, valamint kezeli a toborzási adatbázist.
 
@@ -508,7 +504,7 @@ a munkáltató – mérlegelése alapján – a kormánytisztviselő részére m
 
 (4b) A kormányzati szolgálati jogviszonynak a (4a) bekezdés szerinti megszüntetése esetén a kormánytisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a kormánytisztviselővel.
 
-(5) Ha a Rendőrségről szóló törvény az e törvényben meghatározott munkavégzési szabályra külön ellenőrzési lehetőséget teremt az államigazgatási szerv kormánytisztviselői tekintetében, kormányzati szolgálati jogviszony azzal létesíthető, aki tudomásul veszi, hogy kormányzati szolgálati jogviszonyának fennállása alatt feladatai törvényes ellátását a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló törvény szerinti megbízhatósági vizsgálattal ellenőrizheti.
+(5) Ha törvény az e törvényben meghatározott munkavégzési szabályra külön ellenőrzési lehetőséget teremt az államigazgatási szerv kormánytisztviselői tekintetében, kormányzati szolgálati jogviszony azzal létesíthető, aki tudomásul veszi, hogy kormányzati szolgálati jogviszonyának fennállása alatt feladatai törvényes ellátását az arra törvényben kijelölt szerv megbízhatósági vizsgálattal ellenőrizheti.
 
 (6) Jogszabály vagy jogszabály által meghatározott esetben a munkáltatói jogkör gyakorlója
 
@@ -2048,9 +2044,9 @@ kell megállapítani.
 
 (6) A teljesítményértékelés, minősítés tartalma hibás vagy valótlan ténymegállapításának, személyiségi jogát sértő megállapításának megsemmisítése iránt a kormánytisztviselő közszolgálati jogvitát kezdeményezhet.
 
-(7) A közszolgálati életpálya kidolgozásáért felelős miniszter a teljesítményértékelés lefolytatásának elősegítése érdekében módszertani ajánlást ad ki.
+(7) A személyügyi központ vezetője a teljesítményértékelés lefolytatásának elősegítése érdekében módszertani ajánlást ad ki.
 
-(8) A közszolgálati életpálya kidolgozásáért felelős miniszter – a helyi önkormányzatok tekintetében a megyei, fővárosi kormányhivatalok útján – ellenőrzi a teljesítményértékelésre, minősítésre vonatkozó szabályok és módszertan betartását.
+(8) A személyügyi központ vezetője – a helyi önkormányzatok tekintetében a megyei, fővárosi kormányhivatalok útján – ellenőrzi a teljesítményértékelésre, minősítésre vonatkozó szabályok és módszertan betartását.
 
 ### Díjazás, illetmény
 
@@ -2682,7 +2678,7 @@ Ha a sérelemmel összefüggésben több és egymástól eltérő időpontban es
 
 181. § (1) A tartalékállományba helyezett kormánytisztviselőknek a 3. melléklet szerinti adatairól az államigazgatási szerv folyamatos adatszolgáltatást végez a Kormány által meghatározott rendben a személyügyi központ részére.
 
-(2) A közszolgálati életpálya kidolgozásáért felelős miniszter betekinthet a tartalékállományba helyezett kormánytisztviselőknek a személyügyi központ által kezelt, 3. melléklet szerinti adataiba.
+(2) A személyügyi központ vezetője betekinthet a tartalékállományba helyezett kormánytisztviselőknek a személyügyi központ által kezelt, 3. melléklet szerinti adataiba.
 
 182. § (1) A személyügyi központ nyilvántartja és kezeli az általa lefolytatott pályázati eljárással, a kompetencia vizsgálattal, és a toborzási adatbázissal kapcsolatos adatokat. A pályázati eljárás lefolytatását követően – függetlenül annak eredményességétől – a személyügyi központ a pályázati eljárásokkal kapcsolatos adatokat egyéni azonosításra alkalmatlan módon statisztikai adatgyűjtés céljából tárolhatja. A pályázati eljárással kapcsolatos adatokat a személyügyi központ a pályázati eljárás lezárását követően törli a nyilvántartásából, kivéve, ha a pályázó adatai további kezeléséhez hozzájárul, abból a célból, hogy a későbbi pályázati lehetőségekről tájékoztatást kapjon, valamint bekerüljön a toborzási adatbázisba. A személyügyi központ a versenyvizsgára vonatkozó adatokat, annak érvényessége lejártát követően törli a nyilvántartásából.
 
@@ -2705,7 +2701,7 @@ terjed ki.
 
 - a) a személyügyi központ vezetője,
 - b) meghatározott körben a személyügyi központ vezetője által feljogosított, személyügyi központnál alkalmazásban álló személy,
-- c) a személyügyi központ felügyeletét ellátó közszolgálati életpálya kidolgozásáért felelős miniszter és az általa meghatározott körben, az általa feljogosított kormánytisztviselő,
+- c) a személyügyi központ vezetője által meghatározott körben, az általa feljogosított kormánytisztviselő,
 - d) saját adatai tekintetében az adatbázisban szereplő személy,
 - e) a fegyelmi eljárást lefolytató testület vagy személy,
 - f) közszolgálati jogvita kapcsán az eljáró bíróság,

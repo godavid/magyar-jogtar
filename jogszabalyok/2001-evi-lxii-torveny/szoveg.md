@@ -91,7 +91,7 @@ Az Országgyűlés– Magyarországnak a határon kívül élő magyarokért vis
 
 ### Pedagógusok és oktatók támogatása
 
-11. § (1) Az 1. § (1) és (2) bekezdésének hatálya alá tartozó, óvodai, alap- és középfokú oktatási intézményben tanító pedagógus az oktatásért felelős miniszter által meghatározott éves keretszám terhére jogosult magyarországi rendszeres továbbképzésben részt venni, és a (2) bekezdésben meghatározott kedvezményeket igénybe venni. Ha nemzetközi szerződés másként nem rendelkezik, részt vehet továbbá magyarországi intézmények által a szomszédos államban tartott, akkreditált és elismert rendszeres továbbképzésben, és igénybe veheti a (2) bekezdésben meghatározott támogatásokat.
+11. § (1) Az 1. § (1) és (2) bekezdésének hatálya alá tartozó, óvodai, alap- és középfokú oktatási intézményben tanító pedagógus a köznevelésért felelős miniszter által meghatározott éves keretszám terhére jogosult magyarországi rendszeres továbbképzésben részt venni, és a (2) bekezdésben meghatározott kedvezményeket igénybe venni. Ha nemzetközi szerződés másként nem rendelkezik, részt vehet továbbá magyarországi intézmények által a szomszédos államban tartott, akkreditált és elismert rendszeres továbbképzésben, és igénybe veheti a (2) bekezdésben meghatározott támogatásokat.
 
 (2) Az (1) bekezdésben meghatározott személy a továbbképzést végző magyar oktatási intézménytől a továbbképzésben való részvétele tartamára a külön jogszabályban meghatározott mértékben
 
@@ -109,7 +109,7 @@ igényelheti.
 
 13. § (1) Magyarország a határon túli magyarság anyanyelvének, kultúrájának, nemzeti azonosságtudatának megőrzését azzal is elősegíti, hogy támogatja az akkreditált magyar felsőoktatási intézmények tagozatának a szomszédos államokba történő kihelyezését, szervezését és működését.
 
-Az ezek megvalósításához biztosítható pénzügyi támogatás összegét a központi költségvetésről szóló törvény célelőirányzatként határozza meg. A támogatásra rendelkezésre álló keret felhasználásáról az oktatásért felelős miniszter dönt a külön jogszabályban foglaltak szerint.
+Az ezek megvalósításához biztosítható pénzügyi támogatás összegét a központi költségvetésről szóló törvény célelőirányzatként határozza meg. A támogatásra rendelkezésre álló keret felhasználásáról a felsőoktatásért felelős miniszter dönt a külön jogszabályban foglaltak szerint.
 
 (2) Magyarország támogatja a szomszédos államban magyar nyelvű képzést folytató, az adott államban akkreditációt vállaló felsőoktatási intézmény (tagozat, szak) létesítését, működését, fejlesztését. A megvalósításhoz szükséges pénzügyi fedezet a külföldi szervezettől [25. § (1) bekezdés] pályázat útján igényelhető.
 
@@ -319,7 +319,7 @@ Ezek az információk szolgálják
 
 (3) A Kormány gondoskodik az e törvényben foglalt támogatások elbírálását és folyósítását végző magyar közhasznú szervezetek létrehozásáról, illetőleg az ilyen céllal már működő közhasznú szervezetek tevékenységének összehangolásáról, azok létesítő okiratának megfelelő módosításáról, továbbá ennek keretében a támogatások átcsoportosításáról, valamint a szomszédos államokban élő magyar nemzeti közösségek által létrehozott társadalmi szervezetekkel való együttműködés fenntartásáról.
 
-29. § (1) Az állampolgársági ügyekért felelős miniszter a nemzetpolitikáért felelős miniszter egyetértésével kiadott rendeletben – az oktatási kedvezményekre vonatkozóan az oktatásért felelős miniszterrel egyetértésével is – határozza meg a ,,Magyar igazolvány'' és a ,,Magyar hozzátartozói igazolvány'' tartalmi és formai követelményeire vonatkozó részletes szabályokat.
+29. § (1) Az állampolgársági ügyekért felelős miniszter a nemzetpolitikáért felelős miniszter egyetértésével kiadott rendeletben – az oktatási kedvezményekre vonatkozóan a köznevelésért felelős miniszterrel és a felsőoktatásért felelős miniszterrel egyetértésével is – határozza meg a ,,Magyar igazolvány'' és a ,,Magyar hozzátartozói igazolvány'' tartalmi és formai követelményeire vonatkozó részletes szabályokat.
 
 (2) A kultúráért felelős miniszter – a nemzetpolitikáért felelős miniszterrel egyetértésben – rendeletben határozza az állami fenntartású könyvtári, muzeális és közművelődési intézmények szolgáltatásainak igénybevételével kapcsolatos, az 1. § (1) és (2) bekezdésének hatálya alá tartozó személyeket, a 4. § (1)–(3) bekezdése alapján megillető kedvezmények igénybevételének, valamint a (3) bekezdés szerinti további kedvezmények részletes szabályait.
 

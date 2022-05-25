@@ -190,7 +190,7 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 - b) felsőfokú végzettséggel rendelkezik,
 - c) a közigazgatásban vagy a statisztikai tudomány területén legalább öt év vezetői gyakorlatot szerzett.
 
-(3) Nem nevezhető ki a KSH elnökének, illetve elnökhelyettesének büntetett előéletű, valamint olyan személy, aki a kinevezést megelőző négy évben országgyűlési vagy európai parlamenti képviselő, a Kormány tagja, államtitkár, köztársasági elnök, fővárosi és megyei kormányhivatalt vezető kormánymegbízott, helyi önkormányzati képviselő, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes, megyei közgyűlés elnöke vagy alelnök, illetve nemzetiségi önkormányzat tagja vagy párt tisztségviselője volt.
+(3) Nem nevezhető ki a KSH elnökének, illetve elnökhelyettesének büntetett előéletű, valamint olyan személy, aki a kinevezést megelőző négy évben országgyűlési vagy európai parlamenti képviselő, a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, köztársasági elnök, fővárosi és megyei kormányhivatalt vezető kormánymegbízott, helyi önkormányzati képviselő, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes, megyei közgyűlés elnöke vagy alelnök, illetve nemzetiségi önkormányzat tagja vagy párt tisztségviselője volt.
 
 (4) A KSH elnökének jelölt személy – a kinevezését megelőzően – a miniszterelnök részére, a KSH elnökhelyettesének jelölt személy – kinevezését megelőzően – a KSH elnöke részére hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű.
 

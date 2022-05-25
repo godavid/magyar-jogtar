@@ -180,7 +180,7 @@ amelynek jogát vagy jogos érdekét a Hatóság döntése a megbízatás megsz�
 
 12. § (1) A Hatóság elnöke és elnökhelyettese nem lehet
 
-- a) köztársasági elnök, miniszterelnök, a Kormány tagja, kormánybiztos, miniszterelnöki biztos, miniszterelnöki megbízott, miniszteri biztos, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, az Európai Parlament tagja,
+- a) köztársasági elnök, miniszterelnök, a Kormány tagja, a miniszterelnök politikai igazgatója, kormánybiztos, miniszterelnöki biztos, miniszterelnöki megbízott, miniszteri biztos, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, az Európai Parlament tagja,
 - b) helyi vagy megyei önkormányzati képviselő, kormánytisztviselő, állami tisztviselő, más különleges jogállású szerv foglalkoztatottja, párt országos vagy területi szervezetének tisztségviselője vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
 - c) a Hatóság engedélyesi, felügyeleti körébe tartozó vállalkozás vezető tisztségviselője, vezető testületének tagja, felügyelőbizottsági tagja,
 - d) olyan személy, aki a Hatóság engedélyesi, felügyeleti körébe tartozó gazdasági társasággal munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll,

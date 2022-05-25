@@ -1480,7 +1480,7 @@ sorolja be.
 (6) A Felügyelet – az üzleti titokra vonatkozó szabályok betartásával – a pénztárak egyedi azonosítására alkalmas adatokat szolgáltat:
 
 - a) statisztikai célokra a Központi Statisztikai Hivatal,
-- b) a gazdaságpolitikai és költségvetés-politikai feladatok ellátása céljából az államháztartásért felelős miniszter és a gazdaságpolitika makrogazdasági szabályozásáért felelős miniszter,
+- b) a gazdaságpolitikai és költségvetés-politikai feladatok ellátása céljából az államháztartásért felelős miniszter, a költségvetés makrogazdasági megalapozásáért felelős miniszter és a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter,
 - c) a gazdasági, pénzpiaci folyamatok elemzése, a pénztárak befektetési tevékenységének eredményesebbé tétele, valamint a pénztárak szolgáltatási kötelezettsége teljesíthetőségének értékelése céljából az Alap,
 - d) az államháztartásról szóló 2011. évi CXCV. törvény 63. § (1) bekezdés g) pontjában és azzal összefüggésben i) pontjában meghatározott feladatkörében eljáró kormányzati ellenőrzési szerv
 

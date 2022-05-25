@@ -141,7 +141,7 @@ a tudományos kutató igazolja, hogy korábban elkezdett kutatásához ezen adat
 
 (8) Tisztségére méltatlannak kell tekinteni a főigazgatót (főigazgató-helyettest), ha a bíróság jogerős ügydöntő határozatával szándékos bűncselekmény elkövetésében bűnösségét megállapította, illetőleg feladatainak neki felróható okból nem tesz eleget.
 
-9. § (1) Nem lehet a Levéltár főigazgatója (főigazgató-helyettese) az, aki a kinevezés időpontját megelőző tíz évben a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, párt országos szervének tisztségviselője vagy alkalmazottja volt. Nem lehet a Levéltár főigazgatója (főigazgató-helyettese) az sem, aki a volt BM III. Főcsoportfőnökség és elődei alkalmazásában állt, vagy azok jelentéseit megkapta, illetve e szervekkel kapcsolatban álló hálózati személy vagy operatív kapcsolat volt.
+9. § (1) Nem lehet a Levéltár főigazgatója (főigazgató-helyettese) az, aki a kinevezés időpontját megelőző tíz évben a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár, helyettes államtitkár, párt országos szervének tisztségviselője vagy alkalmazottja volt. Nem lehet a Levéltár főigazgatója (főigazgató-helyettese) az sem, aki a volt BM III. Főcsoportfőnökség és elődei alkalmazásában állt, vagy azok jelentéseit megkapta, illetve e szervekkel kapcsolatban álló hálózati személy vagy operatív kapcsolat volt.
 
 (2) A Levéltár főigazgatója (főigazgató-helyettese) a tudományos, az oktatói, a művészeti, a szerzői és szabadalmi jogi védelem alá eső, továbbá lektori, szerkesztői tevékenységre irányuló megbízási jogviszony kivételével más megbízást nem fogadhat el, kereső foglalkozást nem folytathat, nem lehet gazdasági társaság vezető tisztségviselője, felügyelő bizottság tagja.
 

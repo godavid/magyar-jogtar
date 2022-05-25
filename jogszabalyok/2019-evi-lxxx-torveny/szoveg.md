@@ -405,7 +405,7 @@ A szakképző intézmény helyiségeiben, területén párt, politikai célú mo
 
 tart. A szakképző intézmény azon évfolyamain, amelyeken közismereti oktatás nem folyik, a szakképzés a tanév és a tanítási év rendjére tekintet nélkül is megkezdhető.
 
-(2) A szakképző intézményben a tanév rendje megegyezik az oktatásért felelős miniszter által a köznevelési intézmények tekintetében rendeletben megállapítottakkal. A szakképző intézmény ez alapján éves munkatervet készít.
+(2) A szakképző intézményben a tanév rendje megegyezik a köznevelésért felelős miniszter által a köznevelési intézmények tekintetében rendeletben megállapítottakkal. A szakképző intézmény ez alapján éves munkatervet készít.
 
 (3) A tanítási év – azokon az évfolyamokon, amelyeken közismereti oktatás is folyik – ötnapos tanítási hetekből áll, a szombat, a vasárnap és a munkaszüneti nap pedig tanítás nélküli pihenőnap. Ha e törvény eltérően nem rendelkezik, a tanulónak – a tanév rendjében meghatározottak szerint – a tanítási évben legalább három alkalommal, legkevesebb hat egybefüggő napból álló tanítási szünetet és a Kormány rendeletében meghatározott esetben rendkívüli szünetet, a tanítási év utolsó napját követően a tanév végéig terjedő időszakban pedig legalább harminc egybefüggő napból álló nyári szünetet kell biztosítani.
 
@@ -1479,7 +1479,7 @@ A szakképző intézmény adatkezelési szabályzatában kell meghatározni az a
 
 #### 121. § [A nem magyar állampolgár tankötelezettségének szakképző intézményben történő teljesítése]
 
-A nem magyar állampolgár kiskorú tankötelezettségére és annak szakképző intézményben történő teljesítésére az Nkt.-t kell alkalmazni azzal, hogy köznevelési intézmény alatt szakképző intézményt, oktatásért felelős miniszter alatt szakképzésért felelős minisztert kell érteni. A tankötelezettség teljesítésének feltételeit a szakképző intézménybe történő felvételnél igazolni kell.
+A nem magyar állampolgár kiskorú tankötelezettségére és annak szakképző intézményben történő teljesítésére az Nkt.-t kell alkalmazni azzal, hogy köznevelési intézmény alatt szakképző intézményt, köznevelésért felelős miniszter alatt szakképzésért felelős minisztert kell érteni. A tankötelezettség teljesítésének feltételeit a szakképző intézménybe történő felvételnél igazolni kell.
 
 #### 122. § [Szakképzési közokirat külföldön történő felhasználása]
 

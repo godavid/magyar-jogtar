@@ -18,7 +18,7 @@ a Magyarország Kormánya és az Oroszországi Föderáció Kormánya között a
 
 (4) A 2014. évi XXIV. törvénnyel kihirdetett, az Oroszországi Föderáció Kormánya és Magyarország Kormánya között a Magyarország Kormányának a magyarországi atomerőmű építésének finanszírozásához nyújtandó állami hitel folyósításáról szóló megállapodás és a Jegyzőkönyv egységes szerkezetbe foglalt szövegének közzétételéről a nemzetközi pénzügyi kapcsolatokért felelős miniszter gondoskodik.
 
-5. § Az e törvény végrehajtásához szükséges intézkedésekről a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter gondoskodik.
+5. § Az e törvény végrehajtásához szükséges intézkedésekről a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős miniszter gondoskodik.
 
 ### 1. melléklet a 2021. évi LXXI. törvényhez
 
