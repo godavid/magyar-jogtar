@@ -4178,7 +4178,7 @@ amelyről az átadó és az átvevő szolgáltatót valamint az egészségügyi 
 - c) az átvevő szolgáltató kijelöléséről,
 - d) a szolgáltatóváltással kapcsolatos egyéb jogairól és kötelezettségeiről, ennek keretében arról, hogy átadó, az átvételre kijelölt és a választott egészségügyi szolgáltatóhoz címzett egybehangzó nyilatkozattal a kijelölt szolgáltató helyett más, a 169. § (2) bekezdése szerinti feltételeknek megfelelő egészségügyi szolgáltatót is választhat továbbá az átadott és átvett embrió egészséges fejlődését biztosító, a (14) bekezdés szerinti intézkedések módjáról.
 
-(19) Az az egészségügyi szolgáltató, amelynek reprodukciós eljárás végzésére jogosító működési engedélye a (9) bekezdés alapján hatályát veszti, állami kártalanításra jogosult. A kártalanítás mértéke megegyezik az egészségügyi szolgáltató működési engedélyének hatályvesztését megelőző öt üzleti év – amennyiben működését később kezdte meg az adott évek – állami átvétellel érintett gazdasági tevékenységéből származó, mérleg szerinti eredménye átlagának összegével. A kártalanítás mértékét a nemzeti vagyon kezeléséért felelős miniszter állapítja meg.
+(19) Az az egészségügyi szolgáltató, amelynek reprodukciós eljárás végzésére jogosító működési engedélye a (9) bekezdés alapján hatályát veszti, állami kártalanításra jogosult. A kártalanítás mértéke megegyezik az egészségügyi szolgáltató működési engedélyének hatályvesztését megelőző öt üzleti év – amennyiben működését később kezdte meg az adott évek – állami átvétellel érintett gazdasági tevékenységéből származó, mérleg szerinti eredménye átlagának összegével. A kártalanítás mértékét az állami vagyon felügyeletéért felelős miniszter állapítja meg.
 
 (20) Ha a tulajdonos azon egészségügyi szolgáltatót, amely esetében a reprodukciós eljárás végzésére jogosító működési engedély a (9) bekezdés alapján hatályát veszti, az állam javára 2022. január 31. napjáig felajánlja megvásárlásra, legfeljebb az egészségügyi szolgáltató 2020. december 31. fordulónapi, független szakértő által megállapított piaci értéke szerinti vételárra jogosult, amennyiben a felajánlás elfogadásáról a magyar állam nevében a Kormány dönt.
 
@@ -4191,7 +4191,9 @@ amelyről az átadó és az átvevő szolgáltatót valamint az egészségügyi 
 
 (3) A 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló 2015. október 2-i (EU) 2016/161 felhatalmazáson alapuló bizottsági rendelet előírásait – Európai Unió kötelező jogi aktusa vagy jogszabály eltérő rendelkezése hiányában – valamennyi, e törvény szerinti egészségügyi szolgáltatónak be kell tartania.
 
-244/C. §
+244/C. § (1) A honvédelemért felelős miniszter irányítása alá tartozó, egészségügyi szolgáltatónak minősülő Magyar Honvédség Egészségügyi Központ honvédelmi szervezetből, 2023. január 1. napjával kiválással jön létre a miniszter irányítása alatt egy új egészségügyi szolgáltató, amely jogutódként ellátja a Magyar Honvédség Egészségügyi Központ egészségügyi szolgáltatóként végzett feladatait. Az új egészségügyi szolgáltató létrehozásáról a miniszter és a honvédelemért felelős miniszter együttesen gondoskodik.
+
+(2) Ha az egészségügyi szolgáltatási feladatokkal összefüggő jogutódlás során az érintett foglalkoztatott vonatkozásában jogviszonyváltásra kerül sor, úgy az átvevő munkáltatónál létesülő jogviszony alapján a foglalkoztatott illetménye, nem lehet alacsonyabb mértékű, mint az átadást megelőzően irányadó illetményének és a jogszabály alapján járó illetménypótlékainak együttes összege, kivéve, ha valamely speciális foglalkoztatásra vonatkozó jogszabály szerint járó illetménypótlék megállapításának alapjául szolgáló körülmény az új jogviszony megkötését követően már nem áll fenn.
 
 244/C. §
 

@@ -36,7 +36,7 @@ Az Országgyűlés a nemzet iránt érzett felelőssége tudatában, az Alaptör
 - b) a mesterképzés,
 - c) a doktori képzés.
 
-(2) Az alap- és mesterképzést egymásra épülő ciklusokban, osztott képzésként, vagy jogszabályban meghatározott esetben osztatlan képzésként lehet megszervezni. A ciklusokra bontott, osztott és az osztatlan képzések szerkezetét az oktatásért felelős miniszter (a továbbiakban: miniszter) határozza meg.
+(2) Az alap- és mesterképzést egymásra épülő ciklusokban, osztott képzésként, vagy jogszabályban meghatározott esetben osztatlan képzésként lehet megszervezni. A ciklusokra bontott, osztott és az osztatlan képzések szerkezetét a felsőoktatásért felelős miniszter (a továbbiakban: miniszter) határozza meg.
 
 (3) A felsőoktatás keretében – az (1) bekezdésben foglaltak mellett – felsőfokú végzettségi szintet nem biztosító képzésként
 
@@ -2476,7 +2476,7 @@ klinikai központ lehet, amelyekre ezen alcím rendelkezései szerint eltérő s
 
 103. § (1) Azokban a felsőoktatási intézményekben, ahol tanárképzés folyik, a tanárképzés szakmai, tartalmi, szervezeti és tudományos feladatainak összehangolását, valamint az elméleti és gyakorlati képzés szervezését a tanárképző központ biztosítja, amelynek vezetője a főigazgató. Intézményenként egy tanárképző központ létesíthető.
 
-(1a) Az (1) bekezdésben meghatározott főigazgató – kivéve az egyházi felsőoktatási intézményeket – az iskolai rendszerű köznevelési oktatás irányítási felelőssége körében eljáró oktatásért felelős miniszter egyetértésével bízható meg.
+(1a) Az (1) bekezdésben meghatározott főigazgató – kivéve az egyházi felsőoktatási intézményeket – a köznevelésért felelős miniszter egyetértésével bízható meg.
 
 (1b) A tanárképző központ főigazgatójának az a személy bízható meg, aki
 
@@ -3016,7 +3016,7 @@ megnevezéssel működik.
 
 116. § (1) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 9. § (3) bekezdésében foglalt feltételeket az 1. mellékletben meghatározott egyetemeknek 2017. szeptember 1-jéig kell teljesíteniük.
 
-(2) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 9. § (3a) bekezdésére tekintettel az oktatási hivatal 2017. szeptember 1-jéig jelentést készít az oktatásért felelős miniszter számára, hogy az 1. melléklet szerinti főiskolák közül melyek felelnek meg az alkalmazott tudományok egyetemére előírt feltételeknek.
+(2)
 
 (3)
 

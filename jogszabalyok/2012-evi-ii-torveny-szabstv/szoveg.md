@@ -30,7 +30,7 @@ A társadalmi együttélés általánosan elfogadott szabályait sértő vagy ve
 
 (7) Szabálysértés miatt nem vonható felelősségre, akivel szemben büntethetőséget kizáró ok áll fenn.
 
-(8) A Rendőrségről szóló törvényben felsorolt szabálysértés miatt nem vonható felelősségre a megbízhatósági vizsgálatot folytató személy, ha jogszabályban meghatározott feladata ellátása során követi el a szabálysértést.
+(8) A Rendőrségről szóló törvényben, valamint a nemzetbiztonsági szolgálatokról szóló törvényben felsorolt szabálysértés miatt nem vonható felelősségre a megbízhatósági vizsgálatot folytató személy, ha jogszabályban meghatározott feladata ellátása során követi el a szabálysértést.
 
 (9) Ugyanazon szabálysértés miatt nem büntethető, akinek szabálysértési ügyét a szabálysértési hatóság vagy a bíróság közvetítői eljárásra utalta és a közvetítői eljárás eredményes volt.
 
@@ -2653,7 +2653,7 @@ eredményeként a jogerős határozat megváltoztatására, vagy hatályon kív�
 - c) a rendőrség, az e törvényben foglalt feladatai ellátása, valamint törvényben meghatározott engedélyezési eljárás során az engedély kiadása feltételeinek a megállapítása, továbbá a megbízhatósági vizsgálat lefolytatása céljából,
 - d) a szabálysértési hatóság, illetve a helyszíni bírság kiszabására jogosult szerv vagy személy, az állami foglalkoztatási szerv, a büntetés-végrehajtási szerv, valamint a szabálysértési szabályozásért felelős miniszter a szabálysértési méltányossági eljárás során az e törvényben foglalt feladataik ellátása céljából,
 - e) a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárás lefolytatása céljából,
-- f) a nemzetbiztonsági szolgálatok, nemzetbiztonsági ellenőrzés céljából, valamint
+- f) a nemzetbiztonsági szolgálatok, nemzetbiztonsági ellenőrzés, belső biztonsági és bűnmegelőzési célú ellenőrzés, kifogástalan életvitel ellenőrzés, illetve megbízhatósági vizsgálat lefolytatása céljából, valamint
 - g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás lefolytatása céljából.
 
 (1a) A bíróság, a szabálysértési hatóság a közvetítői eljárással összefüggésben a 82/A. § (5) bekezdésében foglalt feltétel megállapítása céljából közvetlen hozzáféréssel jogosult átvenni a szabálysértési nyilvántartásokból a 155. § (2b) bekezdése szerint kezelt adatokat.

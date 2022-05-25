@@ -740,7 +740,7 @@ használható fel.
 
 (6) Ha a nyilvántartás adataiban történő változás alapján indokolt a szolgáltatási tevékenységet végző természetes személy, illetve a szolgáltató gazdálkodó szervezet szolgáltatási tevékenység végzésére való jogosultságának felülvizsgálata, akkor az ingatlanvállalkozás-felügyeleti hatóság hivatalból eljárást indít, és szükség esetén intézkedik a változás nyilvántartáson történő átvezetéséről.
 
-(7) A pénzügyi információs egységként működő hatóság, valamint a lakásgazdálkodásért és lakáspolitikáért felelős miniszter törvényben meghatározott feladatai ellátása céljából jogosult az (1) bekezdés szerinti nyilvántartásba közvetlenül betekinteni.
+(7) A pénzügyi információs egységként működő hatóság, valamint a lakáscélú állami támogatásokért felelős miniszter törvényben meghatározott feladatai ellátása céljából jogosult az (1) bekezdés szerinti nyilvántartásba közvetlenül betekinteni.
 
 ## ÖTÖDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -932,7 +932,7 @@ használható fel.
 - a) ha az önkormányzat a tulajdonában lévő lakást ad bérbe, a bérbe adott lakás után a fővárosi kerületekben 2,5 millió forint, más városokban 2 millió forint, egyéb településeken pedig 1,5 millió forint,
 - b) ha az önkormányzat pénzbeli térítés fizetésével vagy a lakás megvásárlásával gondoskodik a kényszerbérlet megszűnéséről, az önkormányzati ráfordítás összegének a fele, de legfeljebb 2,5 millió forint a fővárosi kerületekben, 2 millió forint más városokban, egyéb településeken pedig 1,5 millió forint.
 
-(3) A teljesített feladatok után járó támogatásra az önkormányzat jogosult benyújtani az igényét a lakásgazdálkodásért és lakáspolitikáért felelős miniszterhez, aki a benyújtást követő 30 napon belül rendelkezésre bocsátja az igényelt támogatást.
+(3) A teljesített feladatok után járó támogatásra az önkormányzat jogosult benyújtani az igényét a lakáscélú állami támogatásokért felelős miniszterhez, aki a benyújtást követő 30 napon belül rendelkezésre bocsátja az igényelt támogatást.
 
 90/A. § Ha az állami lakás tulajdonjogát ingyenesen közhasznú szervezet vagy köztestület részére ruházták át, vagy azt törvény ingyenesen ilyen szervezet tulajdonába adta, a lakásban határozatlan idejű lakásbérleti joggal rendelkező bérlő bérleti jogviszonyára az e törvény szerinti, állami lakások bérletére vonatkozó rendelkezéseket kell alkalmazni.
 

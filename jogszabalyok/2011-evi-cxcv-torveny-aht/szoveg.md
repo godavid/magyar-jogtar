@@ -968,9 +968,9 @@ teljesíthet.
 - b) ezt a bank középtávú üzleti terve alátámasztja, és
 - c) sor kerül jogi és pénzügyi megfelelőségi vizsgálat lefolytatására.
 
-(2) Az alaptőke felemelésére vonatkozó, valamint az állam tulajdonszerzésének bejegyzésére irányuló jogügylet tekintetében, továbbá a hatósági és bírósági eljárásokban az államot a gazdaságpolitikáért felelős miniszter képviseli.
+(2) Az alaptőke felemelésére vonatkozó, valamint az állam tulajdonszerzésének bejegyzésére irányuló jogügylet tekintetében, továbbá a hatósági és bírósági eljárásokban az államot a nemzeti pénzügyi szolgáltatásokért felelős miniszter képviseli.
 
-(3) Az (1) bekezdésben meghatározott alaptőke-felemeléssel megszerzett állami tulajdonosi részesedéssel működő bank (a továbbiakban: Bank) állami tulajdonú részesedése tekintetében a tulajdonosi jogok gyakorlására a gazdaságpolitikáért felelős miniszter jogosult.
+(3) Az (1) bekezdésben meghatározott alaptőke-felemeléssel megszerzett állami tulajdonosi részesedéssel működő bank (a továbbiakban: Bank) állami tulajdonú részesedése tekintetében a tulajdonosi jogok gyakorlására a nemzeti pénzügyi szolgáltatásokért felelős miniszter jogosult.
 
 (4) A (2) és (3) bekezdés esetében a 41. § (1) bekezdése nem alkalmazandó.
 
@@ -992,7 +992,7 @@ teljesíthet.
 
 (7) Az igazgatóság és a felügyelő bizottság tagja, a vezérigazgató pártban tisztséget nem viselhet, párt nevében vagy érdekében nyilvános közszerepléssel járó tevékenységet nem folytathat.
 
-(8) Ha a felügyelő bizottság megítélése szerint az igazgatóság, a vezérigazgató vagy annak helyettese tevékenysége jogszabályba, a Bank létesítő okiratába vagy közgyűlése határozatába ütközik, vagy egyébként sérti az állam érdekeit, ezt köteles jelezni a gazdaságpolitikáért felelős miniszternek is.
+(8) Ha a felügyelő bizottság megítélése szerint az igazgatóság, a vezérigazgató vagy annak helyettese tevékenysége jogszabályba, a Bank létesítő okiratába vagy közgyűlése határozatába ütközik, vagy egyébként sérti az állam érdekeit, ezt köteles jelezni a költségvetés makrogazdasági megalapozásáért felelős miniszternek is.
 
 (9) A felügyelő bizottság tagja feladatát az ilyen tisztséget betöltő személytől elvárható fokozott gondossággal, és az állam érdekeit képviselő tag esetében az állam érdekeinek elsődlegessége alapján látja el. A tagok – a Polgári Törvénykönyv többek közös károkozására vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek az állammal szemben az ellenőrzési kötelezettségük felróható megszegésével okozott károkért. Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
 
@@ -1036,10 +1036,10 @@ jogszabály vagy egyedi döntés (a továbbiakban: támogatási döntés) alapj�
 48/B. § (1) Nem lehet a támogatási jogviszonyban kedvezményezett
 
 - a) az, aki a támogatási döntést meghozta vagy aki a támogatási döntés meghozatalában döntés-előkészítőként részt vett,
-- b) az, aki a támogatási döntés időpontjában a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, kormánymegbízott, kormánybiztos, miniszterelnöki megbízott, miniszterelnöki biztos, megyei közgyűlés elnöke, főpolgármester, polgármester – az 5000 fő vagy ez alatti lakosságszámú település polgármestere kivételével – , regionális fejlesztési ügynökség vezető tisztségviselője,
+- b) az, aki a támogatási döntés időpontjában a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár, helyettes államtitkár, kormánymegbízott, kormánybiztos, miniszterelnöki megbízott, miniszterelnöki biztos, megyei közgyűlés elnöke, főpolgármester, polgármester – az 5000 fő vagy ez alatti lakosságszámú település polgármestere kivételével – , regionális fejlesztési ügynökség vezető tisztségviselője,
 - c) az a) és b) pont szerinti személlyel közös háztartásban élő hozzátartozó,
 - d) – a nyilvánosan működő részvénytársaság kivételével – az a) és b) pont szerinti személy tulajdonában álló gazdasági társaság,
-- e) – az állam, a helyi önkormányzat, illetve a köztestület legalább 50%-os közvetlen vagy közvetett tulajdonában lévő gazdasági társaság, valamint a sportegyesület, a sportszövetség, a polgárőr szervezet és az állam által alapított vagyonkezelő alapítvány, valamint azon vagyonkezelő alapítvány, amelyhez az állam csatlakozott kivételével – az olyan gazdasági társaság, alapítvány, egyesület, egyházi jogi személy vagy szakszervezet, illetve ezek önálló jogi személyiséggel rendelkező olyan szervezeti egysége, amelyben az a)–c) pont szerinti személy vezető tisztségviselő, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, az egyesület, az egyházi jogi személy vagy a szakszervezet ügyintéző vagy képviseleti szervének tagja.
+- e) – az állam, a helyi önkormányzat, illetve a köztestület legalább 50%-os közvetlen vagy közvetett tulajdonában lévő gazdasági társaság, valamint a sportegyesület, a sportszövetség, a polgárőr szervezet és az állam által alapított vagyonkezelő alapítvány és közfeladatot ellátó közérdekű vagyonkezelő alapítvány, valamint azon vagyonkezelő alapítvány és közfeladatot ellátó közérdekű vagyonkezelő alapítvány, amelyhez az állam csatlakozott kivételével – az olyan gazdasági társaság, alapítvány, egyesület, egyházi jogi személy vagy szakszervezet, illetve ezek önálló jogi személyiséggel rendelkező olyan szervezeti egysége, amelyben az a)–c) pont szerinti személy vezető tisztségviselő, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, az egyesület, az egyházi jogi személy vagy a szakszervezet ügyintéző vagy képviseleti szervének tagja.
 
 (2) Az (1) bekezdést nem kell alkalmazni
 
@@ -1048,7 +1048,7 @@ jogszabály vagy egyedi döntés (a továbbiakban: támogatási döntés) alapj�
 - c) a családtámogatásokra, és
 - d) a természetes személyeknek a méltánylást igénylő élethelyzetükre figyelemmel, továbbá jövedelmük pótlása, illetve kiegészítése érdekében rászorultsági alapon nyújtott egyéb szociális pénzbeli, természetbeni és személyes jellegű ellátásokra.
 
-(3) Az (1) bekezdés e) pontja alkalmazásában nem minősül tisztségviselőnek a vagyonkezelő alapítvány vagyonellenőre.
+(3) Az (1) bekezdés e) pontja alkalmazásában nem minősül tisztségviselőnek a vagyonkezelő alapítvány és a közfeladatot ellátó közérdekű vagyonkezelő alapítvány vagyonellenőre.
 
 (4)
 
@@ -2168,7 +2168,7 @@ rendeletben szabályozza.
 
 (15)
 
-(16) A 45/A. § (2) és (3) bekezdésében meghatározott képviselet, illetve tulajdonosi joggyakorlás tekintetében a 2015. január 1-je és az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvény hatálybalépése közötti időszakban a gazdaságpolitikáért felelős miniszter eljárási cselekményeit, illetve jognyilatkozatait a képviseletre, illetve tulajdonosi joggyakorlásra jogosult által megtett eljárási cselekménynek, illetve jognyilatkozatnak kell tekintetni.
+(16) A 45/A. § (2) és (3) bekezdésében meghatározott képviselet, illetve tulajdonosi joggyakorlás tekintetében a 2015. január 1-je és az egyes törvényeknek a pénzügyi közvetítőrendszer fejlesztésének előmozdítása érdekében történő módosításáról szóló 2015. évi LXXXV. törvény hatálybalépése közötti időszakban a költségvetés makrogazdasági megalapozásáért felelős miniszter eljárási cselekményeit, illetve jognyilatkozatait a képviseletre, illetve tulajdonosi joggyakorlásra jogosult által megtett eljárási cselekménynek, illetve jognyilatkozatnak kell tekintetni.
 
 (16a)
 

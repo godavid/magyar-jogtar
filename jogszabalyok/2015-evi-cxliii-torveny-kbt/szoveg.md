@@ -3247,7 +3247,7 @@ figyelembe veszi. A bírság összegének megállapításakor figyelembe kell ve
 
 (2) A törvény alapelveinek, az egyes közérdekű céloknak, az ajánlatkérők, valamint az ajánlattevők érdekeinek az érvényesítése a Tanácsban a következő személyek feladata:
 
-- a) a gazdaságpolitikáért felelős miniszter által kijelölt személy;
+- a) a költségvetés makrogazdasági megalapozásáért felelős miniszter által kijelölt személy;
 - b) a közbeszerzésekért felelős miniszter által kijelölt személy;
 - c) az építésügyi szabályozásért és építés-hatósági ügyekért felelős miniszter, valamint az építésgazdaságért felelős miniszter által együttesen kijelölt személy;
 - d) az állami vagyon felügyeletéért felelős miniszter által kijelölt személy;

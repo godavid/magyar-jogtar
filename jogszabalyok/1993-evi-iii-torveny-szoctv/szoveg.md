@@ -160,7 +160,7 @@ ha az e törvényben és más jogszabályokban meghatározott feltételek szerin
 - b) a települési önkormányzat jegyzője (a továbbiakban: jegyző),
 - c) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal),
 - d) a szociális hatóság, vagy
-- e) a szociál- és nyugdíjpolitikáért felelős miniszter
+- e) a szociálpolitikáért felelős miniszter
 
 gyakorolja [az a)–e) pontokban foglaltak a továbbiakban együtt: szociális hatáskört gyakorló szerv].
 
@@ -1304,22 +1304,22 @@ nyújtja.
 
 (3) A (2) bekezdés a), b) és d) pontjában meghatározott intézmény – a hajléktalan személyek szakosított ellátása kivételével – legalább tíz fő, legfeljebb százötven fő ellátását biztosítja. Telephellyel rendelkező szociális intézmény esetén a férőhelyszámot az ellátást nyújtó székhelyen és az egyes telephelyeken külön-külön kell vizsgálni.
 
-(4) A szociál- és nyugdíjpolitikáért felelős miniszter a százötven férőhelyesnél nagyobb, megszűnt bentlakásos intézmény ingatlanában – a szolgáltatói nyilvántartásból való törléstől számított három hónapon belül – létrehozott bentlakásos intézmény, illetve székhely, telephely esetén mentesítheti a fenntartót a (3) bekezdés szerinti, százötven fős férőhelyszám-korlát alól. A mentesítésre az új fenntartó kérelmére, az ellátottak folyamatos ellátása érdekében, különösen indokolt esetben kerülhet sor. Nem adható mentesítés a fogyatékos személyek számára ápolást-gondozást nyújtó szociális intézményi férőhelyek kiváltásáról szóló, 2011–2041. évre kidolgozott stratégiai program keretében kiváltott ápolást-gondozást nyújtó szociális intézmény, illetve székhely, telephely esetén.
+(4) A szociálpolitikáért felelős miniszter a százötven férőhelyesnél nagyobb, megszűnt bentlakásos intézmény ingatlanában – a szolgáltatói nyilvántartásból való törléstől számított három hónapon belül – létrehozott bentlakásos intézmény, illetve székhely, telephely esetén mentesítheti a fenntartót a (3) bekezdés szerinti, százötven fős férőhelyszám-korlát alól. A mentesítésre az új fenntartó kérelmére, az ellátottak folyamatos ellátása érdekében, különösen indokolt esetben kerülhet sor. Nem adható mentesítés a fogyatékos személyek számára ápolást-gondozást nyújtó szociális intézményi férőhelyek kiváltásáról szóló, 2011–2041. évre kidolgozott stratégiai program keretében kiváltott ápolást-gondozást nyújtó szociális intézmény, illetve székhely, telephely esetén.
 
 57/A. §
 
 58. § (1) A jogszabályban meghatározott szakmai, módszertani feladatokat – a (2)–(7) bekezdésben foglalt kivétellel – a szociálpolitikai feladatok ellátására a Kormány rendeletében kijelölt szerv látja el.
 
-(2) Az egyházi, valamint a nemzetközi szerződés alapján egyházi kiegészítő támogatásban részesülő nem állami fenntartó által fenntartott intézmények vonatkozásában a szociál- és nyugdíjpolitikáért felelős miniszter az egyház legfőbb szerve vagy a nem állami fenntartó képviselőjének javaslatára egyházi módszertani intézményt jelöl ki (a továbbiakban: kijelölt egyházi módszertani intézmény) ötéves időtartamra, amelynek elteltét követően az intézmény ismételten kijelölhető.
+(2) Az egyházi, valamint a nemzetközi szerződés alapján egyházi kiegészítő támogatásban részesülő nem állami fenntartó által fenntartott intézmények vonatkozásában a szociálpolitikáért felelős miniszter az egyház legfőbb szerve vagy a nem állami fenntartó képviselőjének javaslatára egyházi módszertani intézményt jelöl ki (a továbbiakban: kijelölt egyházi módszertani intézmény) ötéves időtartamra, amelynek elteltét követően az intézmény ismételten kijelölhető.
 
 (3) A kijelölés megszűnik, ha
 
 - a) a (2) bekezdés szerinti határidő lejárt,
 - b) a módszertani intézmény megszűnik,
-- c) a szociál- és nyugdíjpolitikáért felelős miniszter a kijelölést visszavonja,
+- c) a szociálpolitikáért felelős miniszter a kijelölést visszavonja,
 - d) a módszertani intézmény a kijelölésről lemond.
 
-(4) A kijelölést a szociál- és nyugdíjpolitikáért felelős miniszter azonnali hatállyal írásban visszavonja, ha
+(4) A kijelölést a szociálpolitikáért felelős miniszter azonnali hatállyal írásban visszavonja, ha
 
 - a) a kijelölést kérő szándékosan valótlan adatot közölt, vagy valamely jelentős tényt, körülményt elhallgatott, feltéve, hogy a valós adatok, tények, körülmények ismeretében a kijelölésre nem került volna sor,
 - b) a módszertani intézmény a jogszabályból vagy a támogatási szerződésből eredő kötelezettségeit súlyosan megszegi,
@@ -1337,7 +1337,7 @@ nyújtja.
 - f) figyelemmel kíséri az ellátórendszert érintő tudományos kutatómunka eredményeit, elősegíti azok elterjesztését és gyakorlati alkalmazását,
 - g) kutatásokat folytat, illetve szervez.
 
-(7) A módszertani feladatok ellátására a szociál- és nyugdíjpolitikáért felelős miniszter egyedi támogatást nyújt.
+(7) A módszertani feladatok ellátására a szociálpolitikáért felelős miniszter egyedi támogatást nyújt.
 
 (8) A szociálpolitikai feladatok ellátására a Kormány rendeletében kijelölt központi költségvetési szerv alkalmazottainak jogviszonyára a munka törvénykönyvéről szóló törvény rendelkezéseit kell alkalmazni.
 
@@ -1360,7 +1360,7 @@ a szociális szolgáltatások területi lefedettségét figyelembe vevő, jogsza
 
 (2b) A központi költségvetésről szóló törvényben biztosított támogatásra való jogosultságnak nem feltétele a befogadás
 
-- a) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv által fenntartott vagy általa a szociál- és nyugdíjpolitikáért felelős miniszter előzetes hozzájárulásával más fenntartónak átadott szociális szolgáltatók és szociális intézmények esetén,
+- a) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv által fenntartott vagy általa a szociálpolitikáért felelős miniszter előzetes hozzájárulásával más fenntartónak átadott szociális szolgáltatók és szociális intézmények esetén,
 - b) családsegítés és gyermekjóléti szolgáltatás esetén,
 - c) a 131/A. § alapján támogatott szociális szolgáltatások esetén,
 - d)
@@ -1370,7 +1370,7 @@ a szociális szolgáltatások területi lefedettségét figyelembe vevő, jogsza
 (2c) A rendelkezésre álló kapacitástól függetlenül be kell fogadni
 
 - a) a népkonyha kivételével azt a szociális szolgáltatást, ellátotti létszámot, férőhelyszámot, feladatmutatót, amelynek ellátására az egyházi fenntartó a települési önkormányzattal vagy társulással ellátási szerződést kötött, az ellátási szerződésben szereplő szolgáltatás, ellátotti létszám, férőhelyszám, feladatmutató erejéig,
-- b) azt a szociális szolgáltatót, intézményt (székhelyt, telephelyet), szociális szolgáltatást, ellátotti létszámot, férőhelyszámot, amelynek létrehozására vagy fejlesztésére a fenntartó, vagy a szociális szolgáltató, intézmény az Európai Uniótól, a Svájci Alapból, az EGT Alapból, a Norvég Alapból vagy a központi költségvetésből – a szociál- és nyugdíjpolitikáért felelős miniszter által közzétett közleményben meghatározott – pályázaton elnyert támogatásban részesül,
+- b) azt a szociális szolgáltatót, intézményt (székhelyt, telephelyet), szociális szolgáltatást, ellátotti létszámot, férőhelyszámot, amelynek létrehozására vagy fejlesztésére a fenntartó, vagy a szociális szolgáltató, intézmény az Európai Uniótól, a Svájci Alapból, az EGT Alapból, a Norvég Alapból vagy a központi költségvetésből – a szociálpolitikáért felelős miniszter által közzétett közleményben meghatározott – pályázaton elnyert támogatásban részesül,
 - c) azt a szolgáltatói nyilvántartásba a kérelem benyújtását megelőzően is bejegyzett szociális szolgáltatót, intézményt, szociális szolgáltatást, ellátotti létszámot, férőhelyszámot, amely esetében szolgáltatói nyilvántartásba bejegyzett adatok módosítása költségvetési többletkiadást nem eredményez, és a módosítást kizárólag
   - ca) a fenntartó szociális szolgáltatói, intézményei közötti szétválás vagy egyesítés teszi szükségessé,
   - cb) ellátotti létszámnak vagy férőhelyszámnak a fenntartó szociális szolgáltatói, intézményei (székhelyei, telephelyei) közötti, illetve újonnan létesített szociális szolgáltatója, intézménye (székhelye, telephelye) javára történő átcsoportosítása teszi szükségessé, vagy
@@ -1378,32 +1378,32 @@ a szociális szolgáltatások területi lefedettségét figyelembe vevő, jogsza
   - cd) hajléktalan személyek átmeneti szállása esetében a befogadott férőhelyek egy részének külső férőhellyé történő átminősítése és legfeljebb ezzel azonos számú új külső férőhely létesítése teszi szükségessé,
   - ce) egyházi fenntartók közötti fenntartóváltozásra, egyházi fenntartók közötti szolgáltatás, ellátotti létszám, férőhelyszám vagy feladatmutató átadásra tekintettel kérik.
 
-(2d) A (2c) bekezdés szerinti feltételek fennállását a szociál- és nyugdíjpolitikáért felelős miniszter vizsgálja. Ha a (2c) bekezdés szerinti feltételek nem állnak fenn, a szociál- és nyugdíjpolitikáért felelős miniszter a befogadásról az általa meghatározott és közleményben közzétett kapacitások alapján dönt.
+(2d) A (2c) bekezdés szerinti feltételek fennállását a szociálpolitikáért felelős miniszter vizsgálja. Ha a (2c) bekezdés szerinti feltételek nem állnak fenn, a szociálpolitikáért felelős miniszter a befogadásról az általa meghatározott és közleményben közzétett kapacitások alapján dönt.
 
 (2e) A (2c) bekezdés c) pontja szerinti esetben szétváláson, egyesítésen és átcsoportosításon az egyik intézményben, telephelyen történő ellátotti létszám-, férőhelyszám-csökkenéssel egyidejű, másik intézményben, telephelyen, újonnan létesített intézményben, telephelyen történő azonos mértékű ellátotti létszám-, férőhelyszám-növelést kell érteni.
 
-(2f) A szociál- és nyugdíjpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértésével indokolt esetben – évente két alkalommal – dönthet a szolgáltató, intézmény, ellátotti létszám, férőhelyszám, illetve feladatmutató befogadásának szükségességéről a (2c) és a (2d) bekezdésben foglaltakra tekintet nélkül, a költségvetési források, a területi lefedettség, a szükségletek és a szolgáltatói nyilvántartásból törölt kapacitások figyelembevételével. Indokolt eset különösen a megszűnt intézmény ellátottairól való gondoskodás, a területileg hiányzó szolgáltatás pótlása, valamint a máshol nem ellátható személyek ellátásának biztosítása. A kérelem benyújtásának naptári napként meghatározott határidejét a szociál- és nyugdíjpolitikáért felelős miniszter közleményben teszi közzé, és döntését – az államháztartásért felelős miniszter attól számított 30 napon belül közölt álláspontja alapján – attól számított 60 napon belül hozza meg. A szociál- és nyugdíjpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértése és a közzétett évi két időpontra tekintet nélkül 30 napon belül dönt, ha a befogadást költségvetési többletkiadással nem járó fenntartóváltozásra, fenntartók közötti szolgáltatás, ellátotti létszám, férőhelyszám vagy feladatmutató átadásra – ide nem értve a (2c) bekezdés c) pont ce) alpontját – tekintettel kérik.
+(2f) A szociálpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértésével indokolt esetben – évente két alkalommal – dönthet a szolgáltató, intézmény, ellátotti létszám, férőhelyszám, illetve feladatmutató befogadásának szükségességéről a (2c) és a (2d) bekezdésben foglaltakra tekintet nélkül, a költségvetési források, a területi lefedettség, a szükségletek és a szolgáltatói nyilvántartásból törölt kapacitások figyelembevételével. Indokolt eset különösen a megszűnt intézmény ellátottairól való gondoskodás, a területileg hiányzó szolgáltatás pótlása, valamint a máshol nem ellátható személyek ellátásának biztosítása. A kérelem benyújtásának naptári napként meghatározott határidejét a szociálpolitikáért felelős miniszter közleményben teszi közzé, és döntését – az államháztartásért felelős miniszter attól számított 30 napon belül közölt álláspontja alapján – attól számított 60 napon belül hozza meg. A szociálpolitikáért felelős miniszter az államháztartásért felelős miniszter egyetértése és a közzétett évi két időpontra tekintet nélkül 30 napon belül dönt, ha a befogadást költségvetési többletkiadással nem járó fenntartóváltozásra, fenntartók közötti szolgáltatás, ellátotti létszám, férőhelyszám vagy feladatmutató átadásra – ide nem értve a (2c) bekezdés c) pont ce) alpontját – tekintettel kérik.
 
 (2g) Támogató szolgáltatás és közösségi alapellátás esetén a (2c) bekezdés – ide nem értve az ellátási területet nem érintő szétválás, egyesítés vagy átcsoportosítás esetében a (2c) bekezdés c) pont ca), cb) és ce) alpontját – nem alkalmazható, a befogadásra a (2d) vagy a (2f) bekezdésben foglaltak alapján kerülhet sor.
 
-(2h) A szociál- és nyugdíjpolitikáért felelős miniszter szociális alapszolgáltatás esetén a befogadást kormányrendeletben foglaltak szerint visszavonhatja, ha
+(2h) A szociálpolitikáért felelős miniszter szociális alapszolgáltatás esetén a befogadást kormányrendeletben foglaltak szerint visszavonhatja, ha
 
 - a) szociális konyha, népkonyha és házi segítségnyújtás esetén az ellátott személyek száma, támogató szolgáltatás és közösségi alapellátások esetén a teljesített feladatmutató, vagy nappali ellátás esetén a betöltött férőhelyek száma hat naptári hónap átlagában és a feltételek vizsgálatakor sem éri el a befogadott ellátotti létszám, feladatmutató, illetve férőhelyszám 90 százalékát,
 - b) a fenntartó a 20/C. § szerinti nyilvántartásban valótlanul tüntetett fel valakit igénybevevőként, vagy
 - c) a szociális szolgáltatásra, a szociális szolgáltató, intézmény működésére vagy a központi költségvetésről szóló törvényben biztosított támogatásra vonatkozó, a b) pontban nem említett szabályokat megszegik.
 
-(2i) A (2h) bekezdés a) pontja szerinti esetben a szociál- és nyugdíjpolitikáért felelős miniszter a befogadás visszavonásáról és a visszavonás mértékéről a szolgáltatás kihasználtságára, a várakozók számára és a szolgáltatás területi lefedettségére tekintettel dönt azzal, hogy a befogadott ellátotti létszám, feladatmutató, illetve férőhelyszám nem csökkenhet
+(2i) A (2h) bekezdés a) pontja szerinti esetben a szociálpolitikáért felelős miniszter a befogadás visszavonásáról és a visszavonás mértékéről a szolgáltatás kihasználtságára, a várakozók számára és a szolgáltatás területi lefedettségére tekintettel dönt azzal, hogy a befogadott ellátotti létszám, feladatmutató, illetve férőhelyszám nem csökkenhet
 
 - a) a hat naptári hónap átlagában és
 - b) a feltételek vizsgálatakor
 
 ellátott személyek száma, teljesített feladatmutató, illetve betöltött férőhelyek száma közül a magasabbnak a 110%-a alá.
 
-(2j) A (2h) bekezdés b) és c) pontja szerinti esetben a szociál- és nyugdíjpolitikáért felelős miniszter a befogadás visszavonásáról és a visszavonás mértékéről az eset összes körülményeire, így különösen a jogsértés súlyára, a jogsértéssel okozott érdeksérelem nagyságára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására tekintettel dönt.
+(2j) A (2h) bekezdés b) és c) pontja szerinti esetben a szociálpolitikáért felelős miniszter a befogadás visszavonásáról és a visszavonás mértékéről az eset összes körülményeire, így különösen a jogsértés súlyára, a jogsértéssel okozott érdeksérelem nagyságára, a jogsértő állapot időtartamára és a jogsértő magatartás ismételt tanúsítására tekintettel dönt.
 
 (2k) A (2f) bekezdésben foglaltak alapján kérhető az átlagot jóval meghaladó minőségű elhelyezési körülményeket és szolgáltatásokat biztosító tartós bentlakásos intézményre vonatkozó, 2008. január 1-jét megelőzően hatályos szabályok alapján a szolgáltatói nyilvántartásban emelt szintű férőhelyként befogadott férőhelyeknek az adott intézménytípusra a központi költségvetésről szóló törvényben meghatározott, általános szabályok szerinti támogatásra jogosító befogadása.
 
-(2l) A szociál- és nyugdíjpolitikáért felelős miniszter a befogadást a (2h) bekezdés a) és b) pontjában meghatározott esetben, valamint a központi költségvetésről szóló törvényben biztosított támogatásra vonatkozó szabályok megszegése esetén a (2h) bekezdés c) pontjában meghatározott esetben figyelmeztetés alkalmazása nélkül vonja vissza.
+(2l) A szociálpolitikáért felelős miniszter a befogadást a (2h) bekezdés a) és b) pontjában meghatározott esetben, valamint a központi költségvetésről szóló törvényben biztosított támogatásra vonatkozó szabályok megszegése esetén a (2h) bekezdés c) pontjában meghatározott esetben figyelmeztetés alkalmazása nélkül vonja vissza.
 
 (3) Szociális szövetkezet nem nyújthat az 57. § (2) bekezdése szerinti személyes gondoskodást.
 
@@ -1483,7 +1483,7 @@ esetében kell vizsgálni.
 
 (7) A társulás keretében megszervezett falugondnoki szolgáltatás csak azon települések tekintetében működtethető, amelyek megfelelnek a (2) bekezdésben meghatározott feltételeknek. A társulás keretében megszervezett tanyagondnoki szolgáltatás csak azon ellátási területen működtethető, amely megfelel a (3) bekezdésben meghatározott feltételeknek.
 
-(8) A falugondnoki, illetve tanyagondnoki képzés szervezését a szolgáltatás helye szerint illetékes megyei önkormányzat látja el a szociál- és nyugdíjpolitikáért felelős miniszter által jóváhagyott képzési program alapján.
+(8) A falugondnoki, illetve tanyagondnoki képzés szervezését a szolgáltatás helye szerint illetékes megyei önkormányzat látja el a szociálpolitikáért felelős miniszter által jóváhagyott képzési program alapján.
 
 61. §
 
@@ -1670,9 +1670,9 @@ együttműködik.
 
 65/E. § (1) Az utcai szociális munka keretében biztosítani kell az utcán tartózkodó hajléktalan személy helyzetének, életkörülményeinek figyelemmel kísérését, szükség esetén ellátásának kezdeményezését, illetve az ellátás biztosításához kapcsolódó intézkedés megtételét.
 
-(2) A szociál- és nyugdíjpolitikáért felelős miniszter regionális illetékességgel diszpécserközpontokat jelöl ki az utcai szociális munkát végző, jogszabályban meghatározott feltételeknek megfelelő szervezetek közül. A kijelölés visszavonásig szól.
+(2) A szociálpolitikáért felelős miniszter regionális illetékességgel diszpécserközpontokat jelöl ki az utcai szociális munkát végző, jogszabályban meghatározott feltételeknek megfelelő szervezetek közül. A kijelölés visszavonásig szól.
 
-(3) A szociál- és nyugdíjpolitikáért felelős miniszter a –10 °C vagy annál alacsonyabb hőmérséklet, tartósan 27 °C feletti napi középhőmérséklet vagy egyéb időjárási körülmények esetén a meteorológiai szolgálat második szintű veszélyjelzése esetén a regionális diszpécserközpontokon keresztül vörös kód figyelmeztetést ad ki, amelynek ideje alatt a bentlakásos intézmények – a diszpécserközpont előzetes jelzése alapján – a szolgáltatói nyilvántartásba bejegyzett ellátási formájuktól, ellátási területüktől és férőhelyszámuktól függetlenül kötelesek az intézménybe érkező hajléktalan személynek élete és testi épsége megóvásához szükséges mértékben a pihenés, télen a melegedés lehetőségét biztosítani. Az ellátás ideje alatt intézményi jogviszony nem jön létre. A szociál- és nyugdíjpolitikáért felelős miniszter a Szociális Ágazati Portálon a vörös kód ideje alatt alkalmazandó eljárásrendet tesz közzé.
+(3) A szociálpolitikáért felelős miniszter a –10 °C vagy annál alacsonyabb hőmérséklet, tartósan 27 °C feletti napi középhőmérséklet vagy egyéb időjárási körülmények esetén a meteorológiai szolgálat második szintű veszélyjelzése esetén a regionális diszpécserközpontokon keresztül vörös kód figyelmeztetést ad ki, amelynek ideje alatt a bentlakásos intézmények – a diszpécserközpont előzetes jelzése alapján – a szolgáltatói nyilvántartásba bejegyzett ellátási formájuktól, ellátási területüktől és férőhelyszámuktól függetlenül kötelesek az intézménybe érkező hajléktalan személynek élete és testi épsége megóvásához szükséges mértékben a pihenés, télen a melegedés lehetőségét biztosítani. Az ellátás ideje alatt intézményi jogviszony nem jön létre. A szociálpolitikáért felelős miniszter a Szociális Ágazati Portálon a vörös kód ideje alatt alkalmazandó eljárásrendet tesz közzé.
 
 ### Nappali ellátás
 
@@ -2052,11 +2052,11 @@ tehet eleget.
 - a) szolgáltató, intézmény fenntartásával, vagy
 - b) szolgáltatót, intézményt működtető fenntartóval létrejött – a szociális szolgáltatás nyújtásának átvállalásáról szóló – 90. § (4) bekezdése szerinti megállapodás, illetve ellátási szerződés megkötésével tehet eleget.
 
-(3) A (2) bekezdés a) pontja szerinti szolgáltató, intézmény létrehozásához, átszervezéséhez és megszüntetéséhez a szociál- és nyugdíjpolitikáért felelős miniszter előzetes jóváhagyása szükséges.
+(3) A (2) bekezdés a) pontja szerinti szolgáltató, intézmény létrehozásához, átszervezéséhez és megszüntetéséhez a szociálpolitikáért felelős miniszter előzetes jóváhagyása szükséges.
 
 (4)
 
-(5) A (3) bekezdés szerinti jogkörében a szociál- és nyugdíjpolitikáért felelős miniszter az adott megye, város szolgáltatástervezési koncepciójában foglaltak figyelembevételével, az elérhető szolgáltatások és az adott szolgáltatás iránti társadalmi szükséglet alapján dönt.
+(5) A (3) bekezdés szerinti jogkörében a szociálpolitikáért felelős miniszter az adott megye, város szolgáltatástervezési koncepciójában foglaltak figyelembevételével, az elérhető szolgáltatások és az adott szolgáltatás iránti társadalmi szükséglet alapján dönt.
 
 (6) Ha a (2) bekezdés a) pontja szerinti szolgáltató, intézmény fenntartója megváltozik, és az intézményben foglalkoztatott közalkalmazott
 
@@ -2158,7 +2158,7 @@ rendeletet alkot.
 
 (2) A személyes gondoskodást nyújtó szociális, gyermekjóléti és gyermekvédelmi tevékenységet végző, vezetői megbízással rendelkező személyek jogszabályban meghatározottak szerint vezetőképzésen vesznek részt.
 
-(3) A vezetőképzést végző szervezetet a szociál- és nyugdíjpolitikáért felelős miniszter jelöli ki.
+(3) A vezetőképzést végző szervezetet a szociálpolitikáért felelős miniszter jelöli ki.
 
 (4) Megszüntethető – az Mt. 66. § (2) bekezdése, illetve a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 30. §-a (1) bekezdésének c) pontjára hivatkozással – annak a személyes gondoskodást végző személynek a munkaviszonya, illetve közalkalmazotti jogviszonya, aki a továbbképzési kötelezettséget a külön jogszabályban meghatározott időtartam alatt nem teljesíti.
 
@@ -2166,7 +2166,7 @@ rendeletet alkot.
 
 (2) A működési nyilvántartás célja a személyes gondoskodást végző személy továbbképzésének és a vezetői megbízással rendelkező személyek képzésének megszervezése, valamint a képzési követelmények teljesítésének ellenőrzése.
 
-(3) A szociális személyes gondoskodást, valamint a gyermekjóléti, gyermekvédelmi személyes gondoskodást végző személy esetében a működési nyilvántartást a szociál- és nyugdíjpolitikáért felelős miniszter által kijelölt szerv vezeti.
+(3) A szociális személyes gondoskodást, valamint a gyermekjóléti, gyermekvédelmi személyes gondoskodást végző személy esetében a működési nyilvántartást a szociálpolitikáért felelős miniszter által kijelölt szerv vezeti.
 
 92/F. § (1) A működési nyilvántartás az alábbi adatokat tartalmazza:
 
@@ -2512,7 +2512,7 @@ való jogra.
 - h) amennyiben az ellátottak meghatározott körét érintő jogsértés fennállását észleli, intézkedés megtételét kezdeményezheti a hatáskörrel és illetékességgel rendelkező hatóságok felé,
 - i) a korlátozó intézkedésekre, eljárásokra vonatkozó dokumentációt megvizsgálhatja.
 
-(3) Az ellátottjogi képviselőt a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztérium foglalkoztatja.
+(3) Az ellátottjogi képviselőt a szociálpolitikáért felelős miniszter által vezetett minisztérium foglalkoztatja.
 
 (4) A személyes gondoskodást nyújtó szociális intézmény vezetője az ellátottakat tájékoztatja az ellátottjogi képviselő által nyújtható segítségadás lehetőségéről, az ellátottjogi képviselő elérhetőségéről.
 
@@ -3288,7 +3288,7 @@ járul hozzá.
 - y) a 32/D. § (1) bekezdése és 37/C. § (1) bekezdése szerinti fővárosi kerületi hivatal kijelölését;
 - z) a 18/B. § szerinti országos nyilvántartás vezetésének, a nyilvántartásba való adatrögzítésnek és a nyilvántartásból történő adattörlésnek a részletes szabályait.
 
-(2) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy rendeletben szabályozza
+(2) Felhatalmazást kap a szociálpolitikáért felelős miniszter, hogy rendeletben szabályozza
 
 - a)
 - b) a szociális szolgáltatások működési feltételére vonatkozó szabályait,
@@ -3304,14 +3304,14 @@ járul hozzá.
 - n) az államháztartásért felelős miniszterrel egyetértésben a szociálisan rászorult személyek földgáz- és távhőszolgáltatáshoz kapcsolódó kiegészítő támogatásának, valamint egyéb fűtési támogatásának szabályait;
 - o) az Egyházi Fenntartók Tanácsának összetételére, megalakítására és működésére vonatkozó részletes szabályokat.
 
-(2a) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a szolgáltatói nyilvántartásra vonatkozó hatósági eljárásokban a szakmai program véleményezéséért a módszertani feladatokat ellátó szervnek fizetendő szakértői díj mértékét.
+(2a) Felhatalmazást kap a szociálpolitikáért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a szolgáltatói nyilvántartásra vonatkozó hatósági eljárásokban a szakmai program véleményezéséért a módszertani feladatokat ellátó szervnek fizetendő szakértői díj mértékét.
 
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza
 
 - a) a szakmai szabályok szerint elsőként választandó, legalacsonyabb napi terápiás költséggel alkalmazott készítmények kiválasztásának szabályait,
 - b)
 
-(3a) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy annak a személynek, aki olyan hozzátartozójának a gondozását, ápolását végzi, aki után magasabb összegű családi pótlékot folyósítanak, a kiemelt ápolási díjra való jogosultságát megalapozó betegségek és fogyatékosságok körét és súlyossági fokát az egészségügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg.
+(3a) Felhatalmazást kap a szociálpolitikáért felelős miniszter, hogy annak a személynek, aki olyan hozzátartozójának a gondozását, ápolását végzi, aki után magasabb összegű családi pótlékot folyósítanak, a kiemelt ápolási díjra való jogosultságát megalapozó betegségek és fogyatékosságok körét és súlyossági fokát az egészségügyért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a települési önkormányzat, hogy rendeletben szabályozza
 
@@ -3379,7 +3379,7 @@ járul hozzá.
 
 - a) 2018. július 1-jén a szolgáltatói nyilvántartásba bejegyzett népkonyha-szolgáltatás 2018. július 1-jén hatályos, támogatást megállapító kincstári határozatában szereplő és a támogatás alapjául szolgáló ellátotti szám;
 - b) 2018. július 2-a és 2018. december 31-e között a szolgáltatói nyilvántartásba bejegyzésre kerülő új népkonyha-szolgáltatás, vagy a már bejegyzett szolgáltató, intézmény esetén új népkonyha-szolgáltatásra vonatkozó adatmódosítás esetében az ezen időszakra vonatkozó első támogatást megállapító kincstári határozatban szereplő és a támogatás alapjául szolgáló ellátotti szám;
-- c) a 2018. július 2-a és 2018. december 31-e között a szociál- és nyugdíjpolitikáért felelős miniszter által a befogadási eljárásban elbírált azon kérelmek esetében, amelyek 2018. december 31-e után kerülnek a szolgáltatói nyilvántartásba bejegyzésre, a benyújtott kérelemben szereplő ellátotti szám.
+- c) a 2018. július 2-a és 2018. december 31-e között a szociálpolitikáért felelős miniszter által a befogadási eljárásban elbírált azon kérelmek esetében, amelyek 2018. december 31-e után kerülnek a szolgáltatói nyilvántartásba bejegyzésre, a benyújtott kérelemben szereplő ellátotti szám.
 
 (2) Az egyes szociális, gyermekvédelmi tárgyú, valamint egyéb kapcsolódó törvények módosításáról szóló 2018. évi CXVII. törvénnyel megállapított 58/A. § (2) bekezdés c) pontja alkalmazásában szociális konyha esetén nem minősül új ellátotti létszámnak az igénybevevői nyilvántartásban rögzített megállapodások 2018. évi legmagasabb napi számának megfelelő ellátotti szám.
 
@@ -3473,7 +3473,7 @@ járul hozzá.
 
 (5) A 2016. február 1-jén házi segítségnyújtásra befogadott ellátotti számmal rendelkező, 63. § (9) bekezdése alá nem tartozó intézmény, szolgáltató (székhely, telephely) esetében a 2016. február 1-jén az adott intézményben, szolgáltatónál (székhelyen, telephelyen) személyi gondozásra megállapodással rendelkező ellátottak száma törvény erejénél fogva befogadottnak minősül az egyes szociális és gyermekvédelmi tárgyú törvények módosításáról szóló 2016. évi CLXVI. törvény hatálybalépésének időpontjában. A személyi gondozásra megállapodással rendelkező ellátottak számának meghatározásakor az igénybevevői nyilvántartás adatai az irányadóak.
 
-(6) A személyi gondozás (5) bekezdés szerint meghatározott létszámához képest a személyi gondozásra vonatkozó megállapodások számának növekedése esetén a személyi gondozásra történő további befogadás a szociál- és nyugdíjpolitikáért felelős miniszter által közzétett közleményben meghatározott kapacitás szerint történik, amelynek mértéke – a 2016. február 1-jei állapotnak megfelelően személyi gondozásra irányuló megállapodásokkal egybeszámítva – nem haladhatja meg országosan a 35 000 fős ellátotti számot.
+(6) A személyi gondozás (5) bekezdés szerint meghatározott létszámához képest a személyi gondozásra vonatkozó megállapodások számának növekedése esetén a személyi gondozásra történő további befogadás a szociálpolitikáért felelős miniszter által közzétett közleményben meghatározott kapacitás szerint történik, amelynek mértéke – a 2016. február 1-jei állapotnak megfelelően személyi gondozásra irányuló megállapodásokkal egybeszámítva – nem haladhatja meg országosan a 35 000 fős ellátotti számot.
 
 (7) A 2008. január 1-jét megelőzően hatályos jogszabályok szerinti, a szolgáltatói nyilvántartásba jogerősen bejegyzett emelt szintű férőhelyekre – ha a fenntartó nem dönt a 140/W. § alkalmazásáról – a 2007. december 31-én hatályos 92/C. §-a (5) bekezdés b) pontját és 117/B. §-t alkalmazni kell.
 
