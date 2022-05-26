@@ -80,11 +80,7 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 - a) sejt: különálló emberi sejt vagy kötőszövet által össze nem kapcsolt emberi sejtek egy csoportja;
 - b) szövet: az emberi test sejtekből álló valamennyi alkotórésze, ide nem értve a vért és a véralkotórészt;
 - c) szerv: az emberi test olyan része, amely szövetek meghatározott szerkezetű egysége, és amely megtartja szerkezetét, erezettségét és azt a képességét, hogy jelentős önállósággal élettani funkciókat tartson fenn, valamint a szerv egy része, ha működése az emberi szervezetben ugyanazt a célt szolgálja, mint az egész szerv, ideértve a szerkezet és erezettség követelményét is;
-- d) in vitro diagnosztikai orvostechnikai eszköz: minden olyan orvostechnikai eszköz, amely mint reagens, reagensszármazék, kalibráló, kontrollanyag, reagenskészlet, készülék, berendezés, gép vagy rendszer, önmagában vagy más eszközzel együttesen alkalmazva, a gyártó meghatározása szerint emberi szervezetből származó minták – ideértve a vér- vagy szövetadományozást is – in vitro vizsgálatára szolgál kizárólag vagy elsősorban azzal a céllal, hogy információt nyújtson
-  - da) valamely fiziológiai vagy patológiai állapotról,
-  - db) veleszületett rendellenességről,
-  - dc) potenciális recipiens biztonságának és kompatibilitásának megítéléséről, vagy
-  - dd) terápiás beavatkozás monitorozásáról.
+- d) in vitro diagnosztikai orvostechnikai eszköz: az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/746 rendelet] 2. cikk 2. pontjában meghatározott fogalom.
 - e) alapvető munkáltatói jog: a foglalkoztatási jogviszony létrehozása és megszüntetése, a vezetői megbízatás adása és visszavonása, az illetmény megállapítása és módosítása, valamint a fegyelmi jogkör gyakorlása;
 - f) egyéb munkáltatói jog: mindazon munkáltatói jogkörök, amelyek nem minősülnek alapvető munkáltatói jognak.
 
@@ -100,7 +96,7 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 
 (3) Ha jogszabály másként nem rendelkezik, e törvény rendelkezéseit a személyes gondoskodást nyújtó szociális intézmények által nyújtott egészségügyi szolgáltatások vonatkozásában is megfelelően alkalmazni kell.
 
-4/A. § E törvény orvostechnikai eszközökre előírt rendelkezéseit az in vitro diagnosztikai orvostechnikai eszközökre is alkalmazni kell.
+4/A. § E törvény orvostechnikai eszközökre előírt rendelkezéseit – az e törvényben meghatározott eltérésekkel – az in vitro diagnosztikai orvostechnikai eszközökre is alkalmazni kell.
 
 ### II. Fejezet — A BETEGEK JOGAI ÉS KÖTELEZETTSÉGEI
 
@@ -1419,26 +1415,25 @@ beutalása alapján vehető igénybe.
 
 101/A. § Az orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapcsolatos egyes eljárásokért – ideértve a szakhatósági eljárásokat is – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
-101/B. § (1) Az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv (e § tekintetében a továbbiakban: hatóság) közigazgatási szankciót alkalmazhat, ha a vonatkozó uniós jogi aktus, e törvény vagy az egészségügyért felelős miniszter rendelete szerinti kötelezett megszegi
+101/B. § (1) Az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv (e § alkalmazásában a továbbiakban: hatóság) közigazgatási szankciót alkalmazhat, ha a vonatkozó uniós jogi aktus, illetve jogszabály szerinti kötelezett megszegi
 
-- a) az orvostechnikai eszközök klinikai vizsgálatával,
+- a) az orvostechnikai eszközök klinikai vizsgálatával, az in vitro diagnosztikai orvostechnikai eszközök klinikai teljesítőképesség-vizsgálatával,
 - b) az orvostechnikai eszközök és gazdasági szereplők nyilvántartásba vételével,
 - c) az orvostechnikai eszközök időszakos felülvizsgálatával,
 - d) az orvostechnikai eszközökkel kapcsolatos baleset, váratlan esemény bejelentésével,
 - e) az orvostechnikai eszközökkel kapcsolatos váratlan esemény kivizsgálásával,
-- f) a balesetfelelős bejelentésével,
-- g) az implantátum beültetése, kivétele és cseréje során előírt nyilvántartással és a Központi Implantátumregiszterbe történő adattovábbítással, a vonatkozó uniós jogi aktusokban meghatározott beültethető eszközökre kiosztott egyedi eszközazonosító (a továbbiakban: UDI) tárolásával és megőrzésével, valamint a beültethető eszközzel kapcsolatos tájékoztatással és az implantátumkísérő kártya átadásával,
-- h) az orvostechnikai eszközök forgalmazásával és kereskedelmi gyakorlatával,
-- i) az orvostechnikai eszközök vonatkozásában megfelelőségértékelést végző szervezetek tevékenységével,
-- j) az (EU) 2017/745 rendelet 27. cikk (9) bekezdésében meghatározott orvostechnikai eszközök UDI tárolásával,
-- k) a forgalmazói hálózaton belüli azonosítással,
-- l) az orvostechnikai eszközök UDI kiosztással és feltöltéssel,
-- m) a szabályoknak való megfelelés biztosításáért felelős személy rendelkezésre állásával,
-- n) a meghatalmazott képviselői szerződésekkel,
-- o) a minőségirányítási rendszer fenntartásával,
-- p) a termékkel kapcsolatos ellenőrzéssel és nyilvántartással, valamint címkézéssel
+- f) az implantátum beültetése, kivétele és cseréje során előírt nyilvántartással és a Központi Implantátumregiszterbe történő adattovábbítással, a vonatkozó uniós jogi aktusokban meghatározott beültethető eszközökre kiosztott egyedi eszközazonosító (a továbbiakban: UDI) tárolásával és megőrzésével, valamint a beültethető eszközzel kapcsolatos tájékoztatással és az implantátumkísérő kártya átadásával,
+- g) az orvostechnikai eszközök forgalmazásával és kereskedelmi gyakorlatával,
+- h) az orvostechnikai eszközök vonatkozásában megfelelőségértékelést végző szervezetek tevékenységével,
+- i) az (EU) 2017/745 rendelet 27. cikk (8) és (9) bekezdésében meghatározott orvostechnikai eszközök vagy az (EU) 2017/746 rendelet 24. cikk (8) és (9) bekezdésében meghatározott in vitro orvostechnikai eszközök UDI tárolásával,
+- j) a forgalmazói hálózaton belüli azonosítással,
+- k) az orvostechnikai eszközök UDI kiosztással és feltöltéssel,
+- l) a szabályoknak való megfelelés biztosításáért felelős személy rendelkezésre állásával,
+- m) a meghatalmazott képviselői szerződésekkel,
+- n) a minőségirányítási rendszer fenntartásával,
+- o) a termékkel kapcsolatos ellenőrzéssel és nyilvántartással, valamint címkézéssel
 
-kapcsolatos, a vonatkozó uniós jogi aktusban, e törvényben vagy az egészségügyért felelős miniszter rendeletében meghatározott kötelezettségét, vagy valótlan adat közlésével a hatóságot megtéveszti.
+kapcsolatos, a vonatkozó uniós jogi aktusban, illetve jogszabályban meghatározott kötelezettségét, vagy valótlan adat közlésével a hatóságot megtéveszti.
 
 (1a) A hatóság az (1) bekezdésben meghatározott esetekben
 
@@ -1465,7 +1460,7 @@ terjedhet.
 - b) a beültetés, eltávolítás vagy csere időpontját,
 - c) a beültetés, eltávolítás vagy csere okát,
 - d) a beültetett vagy eltávolított implantátummal kapcsolatban
-  - da) az implantátum nevét, típusát, gyártási tételszámát – ha rendelkezésre áll – a sorozatszám megjelölésével,
+  - da) az implantátum nevét, típusát, UDI-ját,
   - db) a gyártó nevét,
   - dc) a forgalmazó nevét, székhelyét, akitől az implantátumot az egészségügyi szolgáltató beszerezte,
 - e) a beültetést végző orvos nevét, pecsétszámát,
@@ -2829,19 +2824,21 @@ ruházhatók át.
 
 (3) A kutatásengedélyezési eljárás ügyintézési határideje ötvenöt nap, az ETT és az ETT bizottsága szakhatósági eljárásának az ügyintézési határideje ötven nap.
 
-(3a) A (3) bekezdésben foglaltak az orvostechnikai eszközökkel végzett klinikai vizsgálatok engedélyezésére nem alkalmazandók.
+(3a) A (3) bekezdésben foglaltak az orvostechnikai eszközökkel végzett klinikai vizsgálatok és az in vitro diagnosztikai orvostechnikai eszközökkel végzett teljesítőképesség-vizsgálatok engedélyezésére nem alkalmazandók.
 
 (4) A közigazgatási ügyben eljáró bíróság a kutatásengedélyezési ügyben hozott döntést nem változtathatja meg.
 
 (5) A kutatásengedélyezési ügyben hozott döntés ellen indított közigazgatási perre a Fővárosi Törvényszék kizárólagosan illetékes.
 
-159. § (1) Kutatás cselekvőképes személyen kizárólag diagnosztikus, terápiás, megelőzési és rehabilitációs eljárások tökéletesítése, új eljárások kidolgozása, valamint a betegségek kóroktanának és patogenezisének jobb megértése, valamint – ha az (EU) 2017/745 rendelet eltérően nem rendelkezik – az orvostechnikai eszközök hatékonyságával, teljesítőképességével kapcsolatos klinikai adat gyűjtése céljából, a kutatás jellegének, kockázatainak megfelelő szakmai feltételekkel rendelkező egészségügyi szolgáltatónál, a következő feltételek együttes fennállása esetén végezhető:
+159. § (1) Kutatás cselekvőképes személyen kizárólag diagnosztikus, terápiás, megelőzési és rehabilitációs eljárások tökéletesítése, új eljárások kidolgozása, valamint a betegségek kóroktanának és patogenezisének jobb megértése, valamint – ha az (EU) 2017/745 rendelet vagy az (EU) 2017/746 rendelet eltérően nem rendelkezik – orvostechnikai eszközök, in vitro diagnosztikai orvostechnikai eszközök hatékonyságával, teljesítőképességével kapcsolatos klinikai adat gyűjtése céljából, a kutatás jellegének, kockázatainak megfelelő szakmai feltételekkel rendelkező egészségügyi szolgáltatónál, a következő feltételek együttes fennállása esetén végezhető:
 
 - a) a kutatási tervet engedélyezték,
 - b) a kutatást megelőző vizsgálatok igazolják az alkalmazott tényezők hatásosságát és biztonságosságát,
-- c) nem létezik más, az emberen végzett kutatáshoz hasonló hatékonyságú eljárás;
-- d) a kutatás során a személyt fenyegető kockázatok arányosak a kutatástól várható haszonnal, illetve a kutatás céljának jelentőségével;
-- e) a kutatás alanya – a (3) bekezdés szerinti tájékoztatást követően – írásos beleegyezését adta a kutatáshoz. Ha a kutatás alanya írásbeli beleegyezés adására írásképtelensége, illetve írástudatlansága okán nem képes, két, a kutatásban nem érdekelt, abban részt nem vevő tanú együttes jelenlétében tett szóbeli beleegyezése szükséges a kutatáshoz. Szóbeli beleegyezés esetén a nyilatkozatot írásba kell foglalni, amelyen a két tanú aláírásával igazolja a szóbeli beleegyezés megtörténtét. A kutatás alanya írásképességének visszanyerése esetén a beleegyező nyilatkozatot a kutatás folytatását megelőzően írásban megerősíti, ennek hiányában a beleegyező nyilatkozatot visszavontnak kell tekinteni, és a kutatás az érintett személyen nem folytatható tovább.
+- c) nem létezik más, az emberen végzett kutatáshoz hasonló hatékonyságú eljárás,
+- d) a kutatás során a személyt fenyegető kockázatok arányosak a kutatástól várható haszonnal, illetve a kutatás céljának jelentőségével,
+- e) a kutatás alanya – a (3) bekezdés szerinti tájékoztatást követően, az (1a) bekezdésben foglaltak figyelembevételével – írásos beleegyezését adta a kutatáshoz.
+
+(1a) Ha az (1) bekezdés e) pontja szerinti kutatás alanya írásbeli beleegyezés adására írásképtelensége, illetve írástudatlansága okán nem képes, két, a kutatásban nem érdekelt, abban részt nem vevő tanú együttes jelenlétében tett szóbeli beleegyezése szükséges a kutatáshoz. Szóbeli beleegyezés esetén a nyilatkozatot írásba kell foglalni, amelyen a két tanú aláírásával igazolja a szóbeli beleegyezés megtörténtét. A kutatás alanya írásképességének visszanyerése esetén a beleegyező nyilatkozatot a kutatás folytatását megelőzően írásban megerősíti, ennek hiányában a beleegyező nyilatkozatot visszavontnak kell tekinteni, és a kutatás az érintett személyen nem folytatható tovább.
 
 (2) Kutatás nem végezhető, ha az aránytalanul nagy kockázatot jelent a kutatás alanyának életére vagy testi, lelki épségére.
 
@@ -2873,11 +2870,15 @@ ruházhatók át.
 - a) az elsőfokú eljárásban az ETT – orvosokból, az orvostudományi kutatás területén jártas, más tudományágak elismert képviselőiből, egészségügyi szakdolgozókból, és laikus tagokból álló – bizottságának, részbizottságának a szakmai-etikai szakkérdésekben kiadott szakhatósági állásfoglalása alapján, vagy
 - b) a jogszabályban meghatározott esetekben és az ott meghatározottak szerint, az erre a célra létrehozott – orvosokból, az orvostudományi kutatás területén jártas, más tudományágak elismert képviselőiből, egészségügyi szakdolgozókból, és laikus tagokból álló – független bizottság szakértői véleményének kikérésével az egészségügyi államigazgatási szerv engedélyezi.
 
-(7) Orvostechnikai eszközök klinikai vizsgálatának minősülő orvostudományi kutatás – az (1)–(6) bekezdésben foglaltaktól eltérően – az (EU) 2017/745 rendeletben meghatározott feltételek fennállása esetén végezhető. Az orvostechnikai eszközök klinikai vizsgálatának engedélyezését – az ETT bizottságának a szakmai-etikai szakkérdésekben kiadott, az (EU) 2017/745 rendelet 62. cikk (4) bekezdés b) pontja szerinti szakvéleménye alapján – az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv végzi.
+(7) Orvostechnikai eszközök klinikai vizsgálatának minősülő orvostudományi kutatás – az (1)–(6) bekezdésben foglaltaktól eltérően – az (EU) 2017/745 rendeletben meghatározott feltételek fennállása esetén végezhető. Az orvostechnikai eszközök klinikai vizsgálatának engedélyezését – az ETT bizottságának az (EU) 2017/745 rendelet 62. cikk (4) bekezdés b) pontja szerinti véleményét figyelembe véve – az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv végzi.
+
+(8) In vitro diagnosztikai orvostechnikai eszközök teljesítőképesség-vizsgálatának minősülő, az (EU) 2017/746 rendelet 58. cikk (1) bekezdése szerinti orvostudományi kutatás – az (1)–(7) bekezdésben foglaltaktól eltérően – az (EU) 2017/746 rendeletben meghatározott feltételek fennállása esetén végezhető. Az in vitro diagnosztikai orvostechnikai eszközök klinikai teljesítőképesség-vizsgálatának engedélyezését – az ETT bizottságának az (EU) 2017/746 rendelet 58. cikk (5) bekezdés b) pontja szerinti véleményét figyelembe véve – az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv végzi.
 
 160. § Sürgős szükség esetén, ha a kutatás alanyának, vagy a 16. § (1)–(2) bekezdések szerinti személynek a beleegyezése nem szerezhető meg, kizárólag a sürgős szükségben nyújtott ellátásra vonatkozó, a kutatás alanyának egészségét várhatóan közvetlenül szolgáló és előzetesen engedélyezett kutatási terven alapuló kutatás végezhető, feltéve, hogy a kutatás hasonló eredményességgel a sürgős szükségben lévő személy kutatásba történő bevonása nélkül nem végezhető el.
 
-160/A. § Orvostechnikai eszközzel végzett klinikai vizsgálat sürgős szükség esetén – a 160. §-ban foglaltaktól eltérően – az (EU) 2017/745 rendelet 68. cikkében meghatározott feltételek fennállása esetén végezhető.
+160/A. § (1) Orvostechnikai eszközzel végzett klinikai vizsgálat sürgős szükség esetén – a 160. §-ban foglaltaktól eltérően – az (EU) 2017/745 rendelet 68. cikkében meghatározott feltételek fennállása esetén végezhető.
+
+(2) In vitro diagnosztikai orvostechnikai eszközzel végzett teljesítőképesség-vizsgálat sürgős szükség esetén – a 160. §-ban foglaltaktól eltérően – az (EU) 2017/746 rendelet 64. cikkében meghatározott feltételek fennállása esetén végezhető.
 
 161. § (1) Állapotos vagy szoptató nő kizárólag akkor lehet kutatás alanya, ha az saját vagy gyermeke, illetőleg a hasonló életszakaszban lévő nők és gyermekek egészségét közvetlenül szolgálja, és nem áll rendelkezésre olyan eljárás, amelynek révén nem állapotos vagy szoptatós nőn is hasonlóan eredményes kutatás folytatható.
 
@@ -2897,7 +2898,7 @@ ruházhatók át.
 
 (3) A vizsgálati készítménnyel végzett klinikai vizsgálatok esetén a törvényben előírt felelősségbiztosítással kell rendelkezni. A vizsgálati készítmény klinikai vizsgálata során, illetve annak következményeként természetes személy által szenvedett egészségkárosodás esetén a sérelmet szenvedett személy, illetve halála esetén a Ptk. szerinti hozzátartozója részére fizetendő kártérítésre és sérelemdíjra vonatkozó rendelkezéseket törvény határozza meg.
 
-(4) Az orvostechnikai eszközökkel végzett klinikai vizsgálatok során a vizsgálati alany által elszenvedett kár vonatkozásában az (EU) 2017/745 rendelet 2. cikk 49. pontja szerinti megbízó (e § alkalmazásában a továbbiakban: megbízó) és a klinikai vizsgálatot végző egészségügyi szolgáltató a kártérítés és sérelemdíj fedezetére kötendő felelősségbiztosításra vonatkozó rendelkezéseket az e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg.
+(4) Az orvostechnikai eszközökkel végzett klinikai vizsgálatok, valamint az in vitro diagnosztikai orvostechnikai eszközökkel végzett teljesítőképesség-vizsgálatok során a vizsgálati alany által elszenvedett kár vonatkozásában az (EU) 2017/745 rendelet 2. cikk 49. pontja, illetve az (EU) 2017/746 rendelet 2. cikk 57. pontja szerinti megbízónak (e § alkalmazásában a továbbiakban: megbízó) és a vizsgálatot végző egészségügyi szolgáltatónak a kártérítés és sérelemdíj fedezetére kötendő felelősségbiztosítására vonatkozó rendelkezéseket az e törvény felhatalmazása alapján kiadott kormányrendelet állapítja meg.
 
 (5) Ha az orvostechnikai eszköz klinikai vizsgálata során, illetve annak következményeként bármely természetes személy egészségkárosodást szenved, a sérelmet szenvedett személy, illetve halála esetén a Ptk. szerinti hozzátartozója részére
 
@@ -2912,7 +2913,7 @@ sérelemdíjat, valamint – a halállal, megrokkanással, illetve egészségká
 
 164/A. § (1) A jogszabály szerinti beavatkozással nem járó vizsgálat a 157. § és a 158. §, a 159. § (2) bekezdése, a 161. § (1) és (2) bekezdése, a 162. és 163. §, továbbá a 164. § (1) bekezdése alapján végezhető, azzal az eltéréssel, hogy az orvostechnikai eszközzel végzett, jogszabályban meghatározott beavatkozással nem járó vizsgálat az(EU) 2017/745 rendelet szerinti illetékes hatóságként kijelölt szerv részére – az ETT bizottságának a szakmai-etikai szakkérdésekben kiadott, az (EU) 2017/745 rendelet 62. cikk (4) bekezdés b) pontja szerinti szakvéleményének birtokában – megtett bejelentés alapján végezhető. Utólagos, beavatkozással nem járó vizsgálat esetén a kutatási alany tájékoztatására és a vizsgálatba való beleegyezésére vonatkozóan az egészségügyért felelős miniszter eltérő szabályokat határozhat meg.
 
-(2) A (3) és (5) bekezdésben nem említett beavatkozással nem járó vizsgálat esetében a szakmai-etikai engedélyről az emberen végzett orvostudományi kutatásokról szóló kormányrendelet szerinti kutatás-etikai bizottság a kérelem megérkezését követő naptól számított negyvenöt napon belül dönt. A döntés ellen fellebbezésnek van helye, a másodfokú eljárást az ETT elnöksége folytatja le.
+(2) A (3), (5) és (10) bekezdésben nem említett beavatkozással nem járó vizsgálat esetében a szakmai-etikai engedélyről, vélemény kiadásáról az emberen végzett orvostudományi kutatásokról szóló kormányrendelet szerinti kutatás-etikai bizottság a kérelem megérkezését követő naptól számított negyvenöt napon belül dönt. A döntés ellen fellebbezésnek van helye, a másodfokú eljárást az ETT elnöksége folytatja le.
 
 (3) Az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (2) bekezdés 4. pontja szerinti beavatkozással nem járó kutatásnak minősülő beavatkozással nem járó vizsgálat esetében
 
@@ -2931,9 +2932,11 @@ sérelemdíjat, valamint – a halállal, megrokkanással, illetve egészségká
 
 (9) A (6)–(8) bekezdés alkalmazásában telekommunikációs eszköz minden olyan eszköz, amely alkalmas a tájékoztatás, illetve a nyilatkozat utólag ellenőrizhető módon történő megtételére, így különösen a hangfelvétel rögzítésére alkalmas eszköz.
 
-164/B. § Az orvostudományi kutatás, valamint a 164/A. § szerinti beavatkozással nem járó vizsgálat engedélyezési, illetve bejelentési eljárásáért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
+(10) Az (1) és a (6)–(9) bekezdést az (EU) 2017/746 rendelet 58. cikk (1) bekezdése alá nem tartozó, in vitro diagnosztikai orvostechnikai eszközökkel végzett teljesítőképesség-vizsgálatokra, az (EU) 2017/746 rendelet 58. cikk (2) bekezdése szerinti, a kapcsolt diagnosztikumoknak a kizárólag maradványminták felhasználásával végzett teljesítőképesség-vizsgálatára és az (EU) 2017/746 rendelet 70. cikk (1) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközökkel végzett teljesítőképesség-vizsgálatokra is alkalmazni kell azzal, hogy a vizsgálat a 101. § (2) bekezdése szerinti illetékes hatóságként kijelölt szerv részére – az ETT bizottságának az (EU) 2017/746 rendelet 58. cikk (5) bekezdés b) pontja szerint kiadott véleményének birtokában – megtett bejelentést követően kezdhető meg. A bejelentés megtörténtéről a bejelentés benyújtásától számított hatvan napon belül a 101. § (2) bekezdése szerinti illetékes hatóságként kijelölt szerv igazolást állít ki.
 
-164/C. § (1) A jogszabály szerinti beavatkozással nem járó vizsgálat és engedélyezés utáni gyógyszerbiztonsági vizsgálat esetében az engedélyt nem lehet megadni abban az esetben sem, ha a vizsgálatról megállapítható, hogy a vizsgálat végzése a a gyógyszer vagy orvostechnikai eszköz alkalmazására ösztönöz.
+164/B. § Az orvostudományi kutatás, valamint a 164/A. § szerinti beavatkozással nem járó vizsgálat, valamint in vitro diagnosztikai orvostechnikai eszközökkel végzett teljesítőképesség-vizsgálat engedélyezési, illetve bejelentési eljárásáért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
+
+164/C. § (1) A jogszabály szerinti beavatkozással nem járó vizsgálat, a 164/A. § (10) bekezdése szerinti teljesítőképesség-vizsgálat és engedélyezés utáni gyógyszerbiztonsági vizsgálat esetében az engedélyt nem lehet megadni abban az esetben sem, ha a vizsgálatról megállapítható, hogy a vizsgálat végzése az orvostechnikai eszköz, az in vitro diagnosztikai orvostechnikai eszköz vagy a gyógyszer alkalmazására ösztönöz.
 
 (2) Az egészségügyi szakembereknek a beavatkozással nem járó engedélyezés utáni gyógyszerbiztonsági vizsgálatokban való részvételükért nyújtott kifizetéseket az idejük ellentételezésére és a gyógyszerbiztonsági vizsgálatokkal kapcsolatosan felmerült, indokolt és igazolt költségeik megtérítésére kell korlátozni.
 
@@ -4178,7 +4181,7 @@ amelyről az átadó és az átvevő szolgáltatót valamint az egészségügyi 
 - c) az átvevő szolgáltató kijelöléséről,
 - d) a szolgáltatóváltással kapcsolatos egyéb jogairól és kötelezettségeiről, ennek keretében arról, hogy átadó, az átvételre kijelölt és a választott egészségügyi szolgáltatóhoz címzett egybehangzó nyilatkozattal a kijelölt szolgáltató helyett más, a 169. § (2) bekezdése szerinti feltételeknek megfelelő egészségügyi szolgáltatót is választhat továbbá az átadott és átvett embrió egészséges fejlődését biztosító, a (14) bekezdés szerinti intézkedések módjáról.
 
-(19) Az az egészségügyi szolgáltató, amelynek reprodukciós eljárás végzésére jogosító működési engedélye a (9) bekezdés alapján hatályát veszti, állami kártalanításra jogosult. A kártalanítás mértéke megegyezik az egészségügyi szolgáltató működési engedélyének hatályvesztését megelőző öt üzleti év – amennyiben működését később kezdte meg az adott évek – állami átvétellel érintett gazdasági tevékenységéből származó, mérleg szerinti eredménye átlagának összegével. A kártalanítás mértékét az állami vagyon felügyeletéért felelős miniszter állapítja meg.
+(19) Az az egészségügyi szolgáltató, amelynek reprodukciós eljárás végzésére jogosító működési engedélye a (9) bekezdés alapján hatályát veszti, állami kártalanításra jogosult. A kártalanítás mértéke megegyezik az egészségügyi szolgáltató működési engedélyének hatályvesztését megelőző öt üzleti év – amennyiben működését később kezdte meg az adott évek – állami átvétellel érintett gazdasági tevékenységéből származó, mérleg szerinti eredménye átlagának összegével. A kártalanítás mértékét a az állami vagyon felügyeletéért felelős miniszter állapítja meg.
 
 (20) Ha a tulajdonos azon egészségügyi szolgáltatót, amely esetében a reprodukciós eljárás végzésére jogosító működési engedély a (9) bekezdés alapján hatályát veszti, az állam javára 2022. január 31. napjáig felajánlja megvásárlásra, legfeljebb az egészségügyi szolgáltató 2020. december 31. fordulónapi, független szakértő által megállapított piaci értéke szerinti vételárra jogosult, amennyiben a felajánlás elfogadásáról a magyar állam nevében a Kormány dönt.
 
@@ -4309,7 +4312,7 @@ rendeletben kijelölje.
 - r) a sürgős szükség esetén külön jogszabályban meghatározott ellátások költségeinek behajtására és finanszírozására irányuló eljárási szabályokat,
 - s) a holttest szállításának (beleértve a szállítójármű telephelyről ki- és visszaállását, a holttest szállítójárműbe történő behelyezését és kivételét, valamint szállítás alatti hűtését is) legmagasabb árát,
 - t) a természetes fürdővizek minőségellenőrzéséhez szükséges mintavételi és laboratóriumi vizsgálati tevékenységre vonatkozó követelményeket, az engedély kiadásával, illetve bejelentés megtételével összefüggő eljárás részletes szabályait,
-- u) az emberen végzett orvostudományi kutatások engedélyezési eljárásának részletes szabályait,
+- u) az emberen végzett orvostudományi kutatások engedélyezési, valamint bejelentési eljárásának részletes szabályait,
 - v) az intézeten kívüli szülés szakmai szabályait, feltételeit és kizáró okait,
 - w) a holttest hűtésének naponkénti legmagasabb árát,
 - x) az egészségségre ártalmas szintet elérő hő- és hideghullámok, napsugárzás idején szükséges tájékoztatási és riasztási szintet, az egészségre ártalmas szintet elérő hő- és hideghullámok esetén bevezetendő intézkedések körét és tartalmát, továbbá az országos szintű hőségriasztásra vonatkozó részletes szabályokat,
@@ -4380,20 +4383,13 @@ rendeletben megállapítsa.
   - if) az egészségügyi szakirányú szakmai továbbképzés részletes szabályait
 - j) az egészségügyi szolgáltató által végezhető rehabilitációs ellátási programokat
 - k) az orvostechnikai eszközökkel és az in vitro diagnosztikai orvostechnikai eszközökkel összefüggésben
-  - ka) az orvostechnikai eszközök alapvető követelményeire,
-  - kb) az orvostechnikai eszközökkel kapcsolatos minőségi rendszer szakmai tartalmára,
-  - kc) a megfelelőségértékelési eljárásokra,
-  - kd) a megfelelőségi jelölésre,
-  - ke) az osztályba sorolásra,
-  - kf) a forgalomba hozatalra,
-  - kg) a kijelölt szervezetekre és azok eljárására,
-  - kh) a klinikai vizsgálatra, valamint az in vitro diagnosztika orvostechnikai eszközök esetén a teljesítőképesség értékelésére,
-  - ki) a nyilvántartásba vételre,
-  - kj) az eszközkészletekre és a több eszközből álló rendszerekre vonatkozó eljárásra és sterilizálási eljárásra,
-  - kk) a forgalomba hozatalt követő váratlan események, balesetek bejelentésére, balesetfelelős kijelölésére,
-  - kl) a piacfelügyeleti eljárásokra, a közegészségügyi előírások betartása érdekében szükséges intézkedésekre,
-  - km) a gyártási, forgalomba hozatali, alkalmazási, klinikai vizsgálati, nyilvántartásba vételi, időszakos felülvizsgálati eljárásokkal kapcsolatos kötelezettségek megszegésének jogkövetkezményeire,
-  - kn) az EU-társhatóságokkal és a Bizottsággal való együttműködésre, időszakos felülvizsgálatra, a személyazonosításra alkalmatlan módon történő adatkezelésre, valamint az egészségügyi szolgáltatók ellenőrzésére vonatkozó részletes szabályokat,
+  - ka) az osztályba sorolásra vonatkozó részletes szabályokat,
+  - kb) a forgalomba hozatalra vonatkozó részletes szabályokat,
+  - kc) a bejelentett szervezetekre és azok eljárására vonatkozó részletes szabályokat,
+  - kd) a klinikai vizsgálatra, valamint az in vitro diagnosztikai orvostechnikai eszközök teljesítőképesség-vizsgálatára vonatkozó részletes szabályokat,
+  - ke) a nyilvántartásba vételre vonatkozó részletes szabályokat,
+  - kf) a forgalomba hozatalt követő váratlan események, balesetek bejelentésére vonatkozó részletes szabályokat,
+  - kg) az időszakos felülvizsgálatra, a személyazonosításra alkalmatlan módon történő adatkezelésre, valamint az egészségügyi szolgáltatók ellenőrzésére vonatkozó részletes szabályokat,
 - l) a Nemzeti Betegfórum jogállásának, feladatkörének, valamint működésének részletes szabályait
 - m) az Egészségügyi Tudományos Tanács, annak bizottságai, a szakmai kollégium és tagozatai feladatára, összetételére, szervezetére és működésére vonatkozó részletes szabályokat,
 - n) a kórházi felügyelő tanács és a kórházi etikai bizottság szervezetére és működésére vonatkozó részletes szabályokat,
@@ -4452,10 +4448,10 @@ rendeletben állapítsa meg.
 - a) a büntetés-végrehajtásért felelős miniszter, valamint a rendészetért felelős miniszter, hogy – a miniszterrel egyetértésben – a fogvatartottak egészségügyi ellátására vonatkozó szabályokat,
 - b) a miniszter és a rendészetért felelős miniszter, hogy az ittas személyek kijózanítás céljából az illetékes egészségügyi szolgáltatóhoz történő szállításának szabályait,
 - c) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint
-  - ca) az orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapcsolatos eljárásokkal – ideértve a szakhatósági eljárást is –, továbbá az egyszer használatos orvostechnikai eszközök újrafelhasználásának jóváhagyási eljárásával összefüggő igazgatási szolgáltatásokért,
+  - ca) az orvostechnikai eszközökkel, in vitro diagnosztikai orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapcsolatos eljárásokért, összefüggő igazgatási szolgáltatásokért,
   - cb) az egészségügyi szolgáltatók működési engedélyezésével és hatósági nyilvántartásba vételével kapcsolatosan,
   - cc) az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásával összefüggésben,
-  - cd) az orvostudományi kutatás, valamint a beavatkozással nem járó vizsgálat engedélyezési eljárásáért,
+  - cd) az orvostudományi kutatás, valamint a beavatkozással nem járó vizsgálat engedélyezési – ennek keretében etikai véleményezési –, illetve bejelentési eljárásáért,
   - ce) az egységes ágazati humánerőforrás-monitoringrendszert működtető szerv részére az igazgatási szolgáltatásainak igénybevételéért,
   - cf) az egészségügyi szakértői tevékenység folytatására irányuló szándék bejelentéséért,
   - cg) az egészségfejlesztési programok akkreditációjáért,
