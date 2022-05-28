@@ -33,13 +33,15 @@ Az Országgyűlés a fogyasztók érdekeinek védelme, a tisztességes piaci mag
 
 - a) fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy,
 - b) vállalkozás: aki a kereskedelmi gyakorlat tekintetében önálló foglalkozásával vagy gazdasági tevékenységével összefüggő célok érdekében jár el,
-- c) áru: minden birtokba vehető forgalomképes ingó dolog – ideértve a pénzt, az értékpapírt és a pénzügyi eszközt, valamint a dolog módjára hasznosítható természeti erőket – (a továbbiakban együtt: termék), az ingatlan, a szolgáltatás, továbbá a vagyoni értékű jog,
+- c) termék: áru vagy szolgáltatás, ideértve az ingatlantulajdont, a digitális szolgáltatást és digitális tartalmat, valamint a jogokat és kötelezettségeket is,
 - d) kereskedelmi gyakorlat: a vállalkozásnak, illetve a vállalkozás érdekében vagy javára eljáró személynek az áru fogyasztók részére történő értékesítésével, szolgáltatásával vagy eladásösztönzésével közvetlen kapcsolatban álló magatartása, tevékenysége, mulasztása, reklámja, marketingtevékenysége vagy egyéb kereskedelmi kommunikációja,
 - e) kereskedelmi kommunikáció: a vállalkozás önálló foglalkozásával vagy gazdasági tevékenységével közvetlenül összefüggésben történő információközlés, függetlenül annak megjelenési módjától, eszközétől,
 - f) reklám: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben ekként meghatározott fogalom,
 - g) vásárlásra felhívás: kereskedelmi kommunikációban az áru jellemzőinek és árának, illetve díjának feltüntetése az alkalmazott kommunikációs eszköznek megfelelően olyan módon, hogy ezáltal lehetővé válik a fogyasztó számára az áru megvétele, illetve igénybevétele,
 - h) ügyleti döntés: a fogyasztó arra vonatkozó döntése, hogy kössön-e, illetve hogyan és milyen feltételek mellett kössön szerződést, továbbá hogy gyakorolja-e valamely jogát az áruval kapcsolatban,
 - i) magatartási kódex: olyan – piaci önszabályozás keretében létrehozott – megállapodás vagy szabályegyüttes, amely valamely kereskedelmi gyakorlat vagy tevékenységi ágazat vonatkozásában követendő magatartási szabályokat határoz meg azon vállalkozások számára, amelyek a kódexet magukra nézve kötelezőnek ismerik el (a továbbiakban: magatartási kódexnek való alávetés).
+- j) rangsorolás: a termékek relatív kiemelése a kereskedők által bemutatott, megszervezett vagy közölt módon, tekintet nélkül az ilyen bemutatáshoz, szervezéshez vagy közléshez használt technológiai eszközökre,
+- k) online piac: olyan szolgáltatás, amely a kereskedő által vagy a kereskedő nevében működtetett szoftvert, többek között weboldalt, valamely weboldal egy részét vagy valamely alkalmazást alkalmaz, és amelynek révén a fogyasztók távollevők közötti szerződést köthetnek más kereskedőkkel vagy fogyasztókkal.
 
 ### A tisztességtelen kereskedelmi gyakorlat tilalma
 
@@ -93,6 +95,7 @@ Az Országgyűlés a fogyasztók érdekeinek védelme, a tisztességes piaci mag
 - b) az olyan magatartási kódexben foglalt követelmény be nem tartása, amelynek a vállalkozás alávetette magát, amennyiben a vállalkozás
   - ba) a követelmény betartására nem csupán szándéknyilatkozat formájában, hanem igazolható módon kötelezettséget vállalt, és
   - bb) a kereskedelmi gyakorlat keretében utal a kódexnek való alávetettségére,
+- c) az a gyakorlat, melynek keretében egy árut az egyik tagállamban akként forgalmaznak, hogy az megegyezik egy más tagállamban forgalmazott áruval, miközben az utóbbi áru összetételében vagy jellemzőiben jelentős eltérések vannak, kivéve, ha ezt jogszerű és objektív tényezők indokolják,
 
 ha ez valamennyi tényszerű körülmény figyelembevételével a fogyasztót olyan ügyleti döntés meghozatalára készteti, amelyet egyébként nem hozott volna meg, vagy erre alkalmas.
 
@@ -120,10 +123,15 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 - a) az áru lényeges jellemzői, az alkalmazott kommunikációs eszköznek megfelelő mértékben,
 - b) a vállalkozás neve és címe azonosításra alkalmas módon, illetve annak a vállalkozásnak az azonosításra alkalmas neve és címe, amelynek a javára a kereskedelmi gyakorlat megvalósítója eljár,
 - c) az általános forgalmi adót és egyéb kötelező terheket is magában foglaló ár, illetve díj vagy – amennyiben az áru jellegéből adódóan az árat, illetve díjat nem lehet ésszerűen előre megállapítani – az ár, illetve díj megállapításának módja, valamint az összes járulékos költség, így különösen fuvardíj, szállítási vagy postaköltség, illetve amennyiben e költségeket nem lehet ésszerűen előre megállapítani, annak feltüntetése, hogy ilyen további költségek merülhetnek fel,
-- d) a fizetés, szállítás és teljesítés feltételei, valamint a panaszok kezelésének módja, amennyiben ezek eltérnek a szakmai gondosság követelményeitől,
+- d) a fizetés, a szállítás és a teljesítés feltételei, ha azok eltérnek a szakmai gondosság által támasztott követelményektől,
 - e) olyan szerződések esetében, amelyek tekintetében jogszabály elállási jogot biztosít a fogyasztónak, az erre való utalás.
+- f) az online piacokon kínált termékek esetében az, hogy a terméket kínáló harmadik fél kereskedő-e vagy sem, a harmadik fél által az online piac szolgáltatója számára adott nyilatkozat alapján.
 
 (6) Az (5) bekezdés szerinti esetben nem megtévesztő mulasztás, ha az információ egyébként a körülményekből közvetlenül kitűnik.
+
+(7) Amikor a fogyasztók lehetőséget kapnak arra, hogy különböző vállalkozások vagy fogyasztók által kínált termékek esetében kulcsszó, kifejezés vagy más lekérdezés alapján végezzenek keresést, függetlenül attól, hogy az ügyletet végül hol kötik meg, jelentősnek minősülnek a keresés eredményeit bemutató oldalról közvetlenül és könnyen elérhető online felület egy külön részén rendelkezésre bocsátott, azokra a fő paraméterekre vonatkozó általános információk, amelyek meghatározzák a fogyasztónak a keresés eredményeként megjelenített termékek rangsorát, valamint jelentősnek minősül e paraméterek más paraméterekkel szembeni relatív fontossága. Ez a bekezdés nem vonatkozik az (EU) 2019/1150 európai parlamenti és tanácsi rendelet 2. cikkének 6. pontjában meghatározott onlinekeresőprogram-szolgáltatókra.
+
+(8) Ha a vállalkozás hozzáférést biztosít a termékek fogyasztói értékeléseihez, az arra vonatkozó információt, hogy a vállalkozás biztosítja-e és hogyan, hogy a közzétett értékelések olyan fogyasztóktól származnak, akik a terméket ténylegesen használták vagy megvásárolták, jelentősnek kell tekinteni.
 
 8. § (1) Agresszív az a kereskedelmi gyakorlat, amely – figyelembe véve valamennyi tényszerű körülményt – pszichés vagy fizikai nyomásgyakorlással – akár a fogyasztóval szembeni hatalmi helyzet kihasználása, akár a fogyasztó zavarása révén – az adott helyzetben jelentősen korlátozza vagy alkalmas arra, hogy jelentősen korlátozza a fogyasztónak az áruval kapcsolatos választási vagy magatartási szabadságát, illetve lehetőségét a tájékozott döntés meghozatalára, és ezáltal a fogyasztót olyan ügyleti döntés meghozatalára készteti, amelyet egyébként nem hozott volna meg, vagy erre alkalmas.
 
@@ -147,7 +155,7 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 
 ### Eljáró hatóságok
 
-10. § (1) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt – a (2) és a (3) bekezdésben foglalt kivétellel – a fogyasztóvédelmi hatóság jár el.
+10. § (1) A tisztességtelen kereskedelemi gyakorlat tilalmának megsértése miatt – a (2), a (3) és az (5) bekezdésben foglalt kivétellel – a fogyasztóvédelmi hatóság jár el.
 
 (2) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt – a (3) bekezdésben foglalt kivétellel – a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) jár el, ha az érintett kereskedelmi gyakorlat a vállalkozás olyan tevékenységével függ össze, amelyet a Felügyelet felügyel.
 
@@ -158,7 +166,7 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 - a) a termék címkéjén (a terméken, annak csomagolásán vagy a termékhez egyéb módon rögzítve), a termékhez adott használati és kezelési útmutatóban vagy jótállási jegyben jelenik meg, vagy
 - b) a 7. § (3) bekezdésében említett tájékoztatási követelmény megsértésével valósul meg.
 
-(5)
+(5) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt az élelmiszerlánc-felügyeleti hatóság jár el a 6. § (2) bekezdés c) pontja szerinti, az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény hatálya alá tartozó élelmiszerlánc termékekkel kapcsolatban megvalósított megtévesztő kereskedelmi gyakorlat esetén.
 
 (6) A (3) bekezdés nem alkalmazható, ha a tisztességtelen kereskedelmi gyakorlat tilalma megsértésének részét képezi az olyan magatartási kódexben foglalt követelmény be nem tartása, amely magatartási kódex a (2) bekezdés szerinti vállalkozások (2) bekezdés szerinti tevékenységével összefüggő kereskedelmi gyakorlatok vonatkozásában követendő magatartási szabályokat állapít meg.
 
@@ -414,7 +422,7 @@ az e rendelkezések hatálybalépését követően indított eljárásokban kell
 
 56. § (1) Ez a törvény a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott tisztességtelen kereskedelmi gyakorlatairól, valamint a 84/450/EGK tanácsi irányelv, a 97/7/EK, a 98/27/EK és a 2002/65/EK európai parlamenti és tanácsi irányelvek, valamint a 2006/2004/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2005. május 11-i 2005/29/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-(2)
+(2) Ez a törvény a 93/13/EGK tanácsi irányelvnek, valamint a 98/6/EK, a 2005/29/EK és a 2011/83/EU európai parlamenti és tanácsi irányelvnek az uniós fogyasztóvédelmi szabályok hatékonyabb végrehajtása és korszerűsítése tekintetében történő módosításáról szóló, 2019. november 27-i (EU) 2019/2161 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 (3) A 28. §
 
@@ -461,3 +469,7 @@ a végrehajtásához szükséges rendelkezéseket állapít meg a fogyasztóvéd
 - 29. Azonnali vagy halasztott fizetés követelése a vállalkozás által szállított vagy nyújtott áruért, illetve az áru visszaszolgáltatásának vagy megőrzésének követelése, ha azt a fogyasztó nem rendelte meg (nem kért értékesítés), kivéve, ha a szerződésnek megfelelő helyettesítő áruról van szó.
 - 30. A fogyasztó kifejezetten arról való tájékoztatása, hogy ha nem vásárolja meg az adott árut, veszélybe kerül a vállalkozás vagy alkalmazottja munkája vagy megélhetése.
 - 31. Olyan hamis benyomás keltése, hogy a fogyasztó már megnyert, meg fog nyerni, vagy meghatározott cselekmény megtétele révén fog megnyerni egy nyereményt (díjat, jutalmat vagy azzal egyenértékű egyéb előnyt), miközben valójában nincs ilyen nyeremény, vagy a nyeremény érvényesítése, illetve igénybevétele a fogyasztó számára meghatározott pénzösszeg megfizetéséhez vagy költségek viseléséhez kötött.
+- 32. A keresési eredmények megadása a fogyasztó online keresési lekérdezése alapján, anélkül, hogy egyértelműen felfednék a fizetett hirdetéseket vagy a kifejezetten a termékeknek a keresési eredmények közötti magasabb rangsorolását célzó fizetést.
+- 33. Rendezvényekre szóló jegyek viszonteladása fogyasztók részére, ha a kereskedő azokat automatizált eszközökkel vásárolta meg, hogy megkerülje az egy személy által megvásárolható jegyek számára vonatkozó korlátozásokat vagy a jegyvásárlásra alkalmazandó bármely más szabályt.
+- 34. Annak állítása, hogy a termék értékelését olyan fogyasztók nyújtották be, akik ténylegesen használták vagy megvásárolták a terméket, anélkül, hogy észszerű és arányos lépésekre kerülne sor annak ellenőrzésére, hogy az értékelések ilyen fogyasztóktól származnak.
+- 35. A termékek népszerűsítése érdekében valótlan fogyasztói értékelések vagy ajánlások benyújtása, illetve más jogi vagy természetes személy megbízása ezzel, vagy fogyasztói értékelések vagy közösségi médiában történő ajánlások valótlan bemutatása.
