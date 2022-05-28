@@ -908,7 +908,15 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 (4) Az (1) és (3) bekezdés szerinti jogkövetkezmények együttesen is megállapíthatók.
 
-(5) Az (1) bekezdés alkalmazásában a jogsértés súlyát különösen a jogsértéssel érintett fogyasztók száma, érdekeik sérelmének köre, a jogsértő magatartás kiterjedtsége, valamint a jogsértéssel érintett áruk értéke alapozhatja meg.
+(5) Az (1) bekezdés alkalmazásában a jogkövetkezmények meghatározásakor a következő szempontokat kell figyelembe venni:
+
+- a) a jogsértés jellege, súlya, mértéke és időtartama, a jogsértéssel érintett fogyasztók száma, érdekeik sérelmének köre, a jogsértő magatartás kiterjedtsége;
+- b) a vállalkozás által tett intézkedések, amelyek a fogyasztók által elszenvedett kár csökkentésére vagy megtérítésére irányulnak;
+- c) a vállalkozás által korábban elkövetett bármely jogsértés;
+- d) a vállalkozás által a jogsértés révén elért pénzügyi előnyök vagy elkerült veszteségek, ha az arra vonatkozó adatok rendelkezésre állnak;
+- e) a jogsértéssel érintett áruk értéke;
+- f) a vállalkozással szemben ugyanazon jogsértésért más tagállamokban kiszabott szankciók a határokon átnyúló esetekben, ha az ilyen szankciókra vonatkozó információk az (EU) 2017/2394 európai parlamenti és tanácsi rendelet által létrehozott mechanizmuson keresztül elérhetők; valamint
+- g) az eset egyéb enyhítő vagy súlyosító körülményei.
 
 (6) A fogyasztóvédelmi hatóság a jogsértés megszüntetése érdekében határozathozatal helyett hatósági szerződést köthet azzal az ügyféllel, aki vállalja, hogy felhagy a jogsértő magatartással, és magatartását a hatósági szerződésben meghatározott módon hozza összhangba a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezésekkel.
 
@@ -973,6 +981,11 @@ terjedhet.
 - b) az (1) bekezdés a) pont hatálya alá nem tartozó vállalkozás esetében 2 millió forintig, illetve a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető, továbbá a fogyasztók széles körének jelentős vagyoni hátrányt okozó jogsértés esetén a vállalkozás éves nettó árbevételének 5%-áig, az Szt. hatálya alá nem tartozó vállalkozás esetén 5 millió forintig
 
 terjedhet.
+
+(1b) Az (1) bekezdéstől eltérően az (EU) 2017/2394 rendelet 21. cikkével összefüggésben megállapított jogsértés esetén a bírság összege
+
+- a) a vállalkozás nettó árbevételének legalább 4%-a,
+- b) ha a vállalkozás árbevétele nem állapítható meg, akkor legalább 2 millió euró.
 
 (2) Az (1) bekezdés szerinti nettó árbevételt a jogsértést megállapító határozat meghozatalát megelőző üzleti évre vonatkozó éves beszámoló vagy az egyszerűsített éves beszámoló (a továbbiakban együtt: beszámoló) szerinti nettó árbevétel alapján kell meghatározni. Ha a vállalkozás működési ideje egy évnél rövidebb, az adatokat éves szintre kell vetíteni. Ha a vállalkozásnak a jogsértést megállapító határozat meghozatalát megelőző üzleti évben elért nettó árbevételéről nem áll rendelkezésre hitelesnek tekinthető információ, a bírság minimális és maximális összegének meghatározásakor az utolsó hitelesen lezárt üzleti év nettó árbevétele az irányadó. Beszámolóval még nem rendelkező, újonnan alapított vállalkozás esetében az eljárás megindításának évére vonatkozó üzleti tervet, ennek hiányában a vállalkozás által a hatóság felhívására közölt, az Szt.-nek a közbenső mérleg készítésére vonatkozó szabályai szerint az eljárás megindításának napjával mint fordulónappal kiszámított nettó árbevételt kell figyelembe venni.
 
