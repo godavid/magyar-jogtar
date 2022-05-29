@@ -138,13 +138,7 @@ egyes törvényeknek a kézbesítéssel és az igazságügyi ágazati szabályoz
 
 (2)
 
-(3) A Ptk. 8:6. § (1) bekezdése a következő q) ponttal egészül ki:
-
-(E törvény:)
-
-„q) a 93/13/EGK tanácsi irányelvnek, valamint a 98/6/EK, a 2005/29/EK és a 2011/83/EU európai parlamenti és tanácsi irányelvnek az uniós fogyasztóvédelmi szabályok hatékonyabb végrehajtása és korszerűsítése tekintetében történő módosításáról szóló, 2019. november 27-i (EU) 2019/2161 európai parlamenti és tanácsi irányelvnek”
-
-(való megfelelést szolgálja.)
+(3)
 
 54. §
 
@@ -227,7 +221,7 @@ egyes törvényeknek a kézbesítéssel és az igazságügyi ágazati szabályoz
 
 #### 22. A fogyasztóvédelemmel összefüggő egyes törvények módosításáról szóló 2020. évi CXXXVI. törvény módosítása
 
-82. § Nem lép hatályba a fogyasztóvédelemmel összefüggő egyes törvények módosításáról szóló 2020. évi CXXXVI. törvény 14. §-a.
+82. §
 
 #### 23. Záró rendelkezések
 
