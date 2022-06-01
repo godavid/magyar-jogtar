@@ -3229,7 +3229,7 @@ Az állami adó- és vámhatóság
 - 14. honlapján adónem szerinti csoportosításban az adózással összefüggő általános és összefoglaló, valamint egyedi jellegű tájékoztatókat tesz közzé,
 - 15. honlapján az adózó az ügyfélszolgálat és az ügyintézés honlapon meghatározott típusa megjelölésével előzetesen időpontot foglalhat, az időpontot lemondhatja, a foglalás adatairól elektronikus visszajelzést kérhet,
 - 16. honlapján az adókötelezettségek jogszerű teljesítésének, valamint az adózói jogosultságok érvényesítésének elősegítése, illetve az adózó gazdasági érdekeinek védelme érdekében teljesíti e törvényben és egyéb jogszabályokban meghatározott közzétételi kötelezettségét.
-- 17. törvényben meghatározott módon közreműködik – az Áfa tv. szerinti bevallási kötelezettség alól mentesült személyek kivételével – az általános fogalmi adó bevallási kötelezettség teljesítésében.
+- 17.
 
 #### 257. § [Kezdő vállalkozások támogatása]
 

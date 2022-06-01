@@ -2114,29 +2114,22 @@ megszűnik.
 
 #### 87. A távmunkavégzés
 
-196. § (1) Távmunkavégzés a munkáltató telephelyétől elkülönült helyen rendszeresen folytatott olyan tevékenység, amelyet számítástechnikai eszközzel végeznek és eredményét elektronikusan továbbítják.
+196. § (1) Távmunkavégzés esetén a munkavállaló a munkát a munkaidő egy részében vagy egészében a munkáltató telephelyétől elkülönült helyen végzi.
 
 (2) A munkaszerződésben meg kell állapodni a munkavállaló távmunkavégzés keretében történő foglalkoztatásában.
 
-(3) A munkáltató – a 46. §-ban foglaltakon túlmenően – tájékoztatja a munkavállalót
+(3) Eltérő megállapodás hiányában a távmunkavégzés során
 
-- a) a munkáltató általi ellenőrzés,
-- b) a számítástechnikai vagy elektronikus eszköz használata korlátozásának szabályairól, továbbá
-- c) arról a szervezeti egységről, amelyhez a munkavállaló munkája kapcsolódik.
+- a) a munkáltató utasítási joga a munkavállaló által ellátandó feladatok meghatározására terjed ki,
+- b) a munkáltató az ellenőrzési jogát távolról számítástechnikai eszköz alkalmazásával gyakorolja,
+- c) a munkavállaló a munkáltató telephelyén a tárgyévben legfeljebb a munkanapok egyharmada esetén végez munkát, és
+- d) a munkáltató biztosítja, hogy a munkavállaló a területére beléphessen és más munkavállalóval kapcsolatot tartson.
 
-(4) A munkáltató a távmunkát végző munkavállalónak minden olyan tájékoztatást köteles megadni, amelyet más munkavállalónak biztosít.
+(4) Ha a munkáltató az ellenőrzés jogát a távmunkavégzés helyén gyakorolja, akkor az ellenőrzés nem jelenthet a munkavállaló, valamint a távmunkavégzés helyeként szolgáló ingatlant használó más személy számára aránytalan terhet.
 
-(5) A munkáltató biztosítja, hogy a munkavállaló a területére beléphessen és más munkavállalóval kapcsolatot tartson.
+(5) A munkáltató a távmunkát végző munkavállalónak minden olyan tájékoztatást köteles megadni, amelyet más munkavállalónak biztosít.
 
-197. § (1) A munkáltató utasítási joga – eltérő megállapodás hiányában – kizárólag a munkavállaló által ellátandó feladatok meghatározására terjed ki.
-
-(2)
-
-(3)
-
-(4) Eltérő megállapodás hiányában a munkáltató állapítja meg az ellenőrzés módját és a munkavégzés helyeként szolgáló ingatlan területén történő ellenőrzés esetén annak bejelentése és megkezdése közötti legrövidebb tartamot. Az ellenőrzés nem jelenthet a munkavállaló, valamint a munkavégzés helyeként szolgáló ingatlant használó más személy számára aránytalan terhet.
-
-(5) Eltérő megállapodás hiányában a munkavállaló munkarendje kötetlen.
+#### 197. §
 
 #### 88. A bedolgozói munkaviszony
 
@@ -2303,6 +2296,7 @@ foglaltaktól nem térhet el.
 - c) kölcsönvevő: az a munkáltató, amelynek irányítása alatt a munkavállaló ideiglenesen munkát végez,
 - d) kölcsönzött munkavállaló: a kölcsönbeadóval kölcsönzés céljából munkaviszonyban álló munkavállaló, akivel szemben a kikölcsönzés alatt a munkáltatói jogokat a kölcsönbeadó és a kölcsönvevő megosztva gyakorolja (munkavállaló),
 - e) kikölcsönzés: a munkavállaló által a kölcsönvevő részére történő munkavégzés.
+- f) minősített kölcsönbeadó: az a b) pont és a 215. § szerinti kölcsönbeadó, aki harmadik országbeli állampolgárok magyarországi foglalkoztatására jogszabályban foglalt feltételek alapján jogosult.
 
 (2) A kikölcsönzés tartama nem haladhatja meg az öt évet, ideértve a meghosszabbított vagy az előző kikölcsönzés megszűnésétől számított hat hónapon belül történő ismételt kikölcsönzést, függetlenül attól, hogy a kikölcsönzés ugyanazzal vagy más kölcsönbeadóval kötött megállapodás alapján valósult meg.
 
@@ -3206,7 +3200,7 @@ a kiküldetés teljes időtartama alatt a munkavégzés helyén, valamint annak 
 
 (4) Törvény – ágazati, szakmai sajátosságokra tekintettel – e törvény rendelkezéseitől eltérhet.
 
-(5) Felhatalmazást kap a Kormány, hogy a munkaerő-kölcsönzési tevékenység folytatásának, a munkaerő-kölcsönzésért a kölcsönbeadónak fizetendő minimális kölcsönzési díjat, a kölcsönbeadó nyilvántartásba vételének feltételeit és részletes szabályait, valamint a közhasznú kölcsönzőkkel szemben támasztott feltételekre, a kölcsönzöttek részére nyújtandó szolgáltatásaikra, valamint az általuk létesített, munkavégzésre irányuló jogviszony egyes feltételeire vonatkozó szabályokat rendeletben állapítsa meg, és ennek során vagyoni biztosíték meglétét írja elő.
+(5) Felhatalmazást kap a Kormány, hogy a munkaerő-kölcsönzési tevékenység folytatásának, a munkaerő-kölcsönzésért a kölcsönbeadónak és minősített kölcsönbeadónak fizetendő minimális kölcsönzési díjat, a kölcsönbeadó és a minősített kölcsönbeadó nyilvántartásba vételének feltételeit és részletes szabályait, a kölcsönzöttek részére nyújtandó szolgáltatásaikra, valamint az általuk létesített, munkavégzésre irányuló jogviszony egyes feltételeire vonatkozó szabályokat rendeletben állapítsa meg, és ennek során vagyoni biztosíték meglétét írja elő.
 
 (6) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy a törvény alapján rendeletben részletesen szabályozza a központi közigazgatási szerveknél foglalkoztatott tartós külszolgálatot teljesítő munkavállalók külföldi munkavégzésének sajátos szabályait, valamint alapellátmányának, illetve a központi közigazgatási szerveknél foglalkoztatott ideiglenes külföldi kiküldetésen lévő munkavállalók napidíjának összegét és azok kifizetésének szabályait.
 

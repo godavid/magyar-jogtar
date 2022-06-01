@@ -1297,8 +1297,8 @@ szolgálati viszonya az öregségi nyugdíj megállapítását követően helyre
 102/K. § A tizenharmadik havi nyugdíj összege a 6/A. § (3) bekezdésében foglaltaktól eltérően
 
 - a) a 2021. évben a 6/A. § (3) bekezdése szerinti összeg 25%-a,
-- b) a 2022. évben a 6/A. § (3) bekezdése szerinti összeg 50%-a,
-- c) a 2023. évben a 6/A. § (3) bekezdése szerinti összeg 75%-a.
+- b)
+- c)
 
 102/L. § (1) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 38. § (1) bekezdés k) pontját a 2015. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
 

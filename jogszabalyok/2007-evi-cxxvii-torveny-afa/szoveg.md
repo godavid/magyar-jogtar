@@ -610,7 +610,9 @@ napot meg nem haladó használatát jelenti.
 - f) munkaerő kölcsönzése, kirendelése, illetőleg személyzet rendelkezésre bocsátása;
 - g) termék – ide nem értve az ingatlant és a közlekedési eszközök bármely fajtáját – bérbeadása;
 - h) a Közösség területén levő földgázrendszerhez vagy bármely más, ilyen rendszerhez kapcsolt hálózathoz, hő- vagy hűtési hálózathoz, villamosenergia-rendszerhez való csatlakozás, egyéb hozzáférés biztosítása, valamint ilyen rendszeren, hálózaton keresztül földgáz, hő- vagy hűtési energia, valamint villamos energia szállítása (átvitele), elosztása, továbbá más, ezekhez közvetlenül kapcsolódó szolgáltatások;
-- i)–k)
+- i)
+- j)
+- k)
 
 (3) E § alkalmazandó abban az esetben is, ha kötelezettségvállalás történik valamely üzleti vagy hivatásszerűen folytatott tevékenység egészbeni vagy részbeni abbahagyására, illetőleg valamely (2) bekezdés alá tartozó jog gyakorlásától való időleges vagy végleges tartózkodásra.
 
@@ -1263,6 +1265,7 @@ beszerzése esetében
 - g) a termék importja
   - ga) az Európai Közösség, az Európai Atomenergia-közösség, az EKB, az Európai Beruházási Bank, valamint olyan szervezet által, amelyet az Európai Közösségek hozott létre, és amelyre vonatkozik az Európai Közösségek kiváltságairól és mentességeiről szóló, 1965. április 8. napján kelt jegyzőkönyv, az e jegyzőkönyvben és a végrehajtásáról vagy a szervezet székhelyegyezményéről szóló – jogszabályban kihirdetett – nemzetközi szerződésben meghatározottak szerint;
   - gb) egyéb, a ga) alpont alá nem tartozó, Magyarország által nemzetközi szervezetként elismert szervezet vagy annak képviselete, illetve annak tisztviselője által a nemzetközi szervezetet létrehozó vagy a nemzetközi szervezet székhelyegyezményéről szóló – jogszabályban kihirdetett – nemzetközi szerződésben meghatározottak szerint, feltéve, hogy az előzőekben említett nemzetközi szerződés a vám és/vagy a termékek, szolgáltatások árába (díjába) rendszerint belefoglalt közvetett adók elengedéséről vagy visszatérítéséről rendelkezik;
+  - gd) az Európai Bizottság (a továbbiakban: Bizottság) vagy az uniós jog alapján létrehozott ügynökség vagy szerv által, ha a Bizottság vagy ezen ügynökség, illetve szerv az uniós jog által ráruházott feladatok ellátása keretében, a Covid19-világjárványra való reagálás érdekében importálja a terméket, feltéve, hogy a Bizottság vagy ezen ügynökség, illetve szerv nem értékesíti tovább ellenérték fejében az importált terméket.
 - h) a termék importja az Észak-atlanti Szerződés tagállamának fegyveres ereje által – ide nem értve a Magyar Honvédséget –, feltéve, hogy az a közös védelmi erőfeszítés keretében a fegyveres erő, illetőleg az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátására szolgál;
 - i) a termék importja a Nagy-Britannia és Észak-Írország Egyesült Királysága (a továbbiakban: Egyesült Királyság) fegyveres ereje által, feltéve, hogy az a Ciprusi Köztársaság megalakulásáról, 1960. augusztus 16. napján kelt nemzetközi szerződés értelmében az Egyesült Királyság Ciprus szigetén állomásozó fegyveres erejének, illetőleg az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátásra szolgál;
 - j) a tengerből kifogott hal, egyéb halászati termék kikötőbe irányuló importja tengeri halászati vállalkozás által, abban az esetben, ha az nyers állapotban van, illetőleg olyan feldolgozáson ment keresztül, amelynek egyedüli célja az értékesítés előtti tartósítás;
@@ -1273,6 +1276,8 @@ beszerzése esetében
 - m) a villamos energia importja;
 - n) a hő- vagy hűtési energia hő- vagy hűtési hálózaton keresztüli importja.
 - o) a termék importja, amennyiben az adóalany a harmadik államból importált termék távértékesítése utáni adófizetési kötelezettségét a XIX/B. Fejezetben vagy azon tagállami szabályozás alapján teljesíti, amely tartalmában megfelel a Héa-irányelv XII. cím 6. fejezet 4. szakaszában foglalt különös szabályozásnak, és amennyiben legkésőbb a vám-árunyilatkozat benyújtásakor ezen adóalany vagy a megbízásából eljáró közvetítő az állami adó- és vámhatósággal közölte az ezen különös szabályozás alkalmazásához az adóalany részére megállapított érvényes import azonosítószámot.
+
+(1a) Ha az (1) bekezdés g) pont gd) alpontja szerinti adómentességre vonatkozó feltételek a továbbiakban nem állnak fenn, akkor a fizetendő adót abban az időpontban alkalmazandó szabályoknak megfelelően kell megállapítani, amikor a mentesség feltételei már nem állnak fenn.
 
 (2) Mentes az adó alól a szolgáltatás nyújtása abban az esetben, ha annak ellenértéke az importált termék adóalapjába a 74. §, illetőleg a 75. § (1) bekezdésének b) pontja és (2) bekezdése szerint beépül.
 
@@ -1490,6 +1495,7 @@ történik.
 - c) az Észak-atlanti Szerződés tagállamának belföldön állomásozó fegyveres ereje – ide nem értve a Magyar Honvédséget – részére történik, feltéve, hogy az a közös védelmi erőfeszítés keretében a fegyveres erő, illetőleg az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátására szolgál;
 - d) belföldön kívül az Észak-atlanti Szerződés valamely más tagállamában állomásozó fegyveres erő részére történik, ideértve az ott állomásozó összes fegyveres erőt, de ide nem értve e tagállam saját fegyveres erejét, feltéve, hogy az a közös védelmi erőfeszítés keretében a fegyveres erő, illetőleg az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátására szolgál;
 - e) az Egyesült Királyság fegyveres ereje részére történik, feltéve, hogy az a Ciprusi Köztársaság megalakulásáról, 1960. augusztus 16. napján kelt nemzetközi szerződés értelmében az Egyesült Királyság Ciprus szigetén állomásozó fegyveres erejének, illetőleg az azt kísérő polgári állomány használatára vagy éttermük, kantinjuk ellátására szolgál.
+- f) a Bizottság vagy az uniós jog alapján létrehozott ügynökség vagy szerv részére történik, ha a Bizottság vagy ezen ügynökség, illetve szerv az uniós jog által ráruházott feladatok ellátása keretében, a Covid19-világjárványra való reagálás érdekében szerzi be a terméket vagy veszi igénybe a szolgáltatást, feltéve, hogy a Bizottság vagy ezen ügynökség, illetve szerv nem értékesíti, illetve nem nyújtja tovább ellenérték fejében a beszerzett terméket, igénybe vett szolgáltatást.
 
 (2) Az (1) bekezdés szerinti adómentes termékértékesítés alkalmazásának további feltétele, hogy az értékesített terméket – az (1) bekezdésben említett beszerző nevére szóló rendeltetéssel – küldeményként belföldön feladják vagy belföldről elfuvarozzák, és a termék belföldről való elhagyásának tényét, amelynek a termékértékesítés teljesítésekor, de legfeljebb a teljesítés napját követő 90 napon belül kell megtörténnie, anélkül, hogy ezen határidőn belül az értékesített terméket rendeltetésszerűen használnák, egyéb módon hasznosítanák, ide nem értve a kipróbálást és a próbagyártást, fuvarlevél vagy az értékesített terméket kísérő egyéb okirat igazolja, kivéve:
 
@@ -1504,6 +1510,8 @@ történik.
 - b) abban az esetben, ha a termék a (2) bekezdés értelmében nem hagyja el belföldet.
 
 (4) Az (1) bekezdés a) pontjában említett viszonosság kérdésében a külpolitikáért felelős miniszter állásfoglalása az irányadó.
+
+(4a) Ha az (1) bekezdés f) pontja szerinti adómentességre vonatkozó feltételek a továbbiakban nem állnak fenn, akkor a fizetendő adót abban az időpontban alkalmazandó szabályoknak megfelelően kell megállapítani, amikor a mentesség feltételei már nem állnak fenn.
 
 (5) Abban az esetben, ha a 2003. évi uniós csatlakozási szerződést kihirdető törvény hatálybalépésének napját megelőzően kötött és törvényben vagy kormányrendeletben kihirdetett nemzetközi szerződés kifejezetten a termékek, szolgáltatások árába (díjába) rendszerint belefoglalt közvetett adók alóli mentességéről vagy azok elengedéséről, visszatérítéséről rendelkezik, az előzőekben említett nemzetközi szerződésben meghatározott jogosultat megilleti az (1) bekezdés szerinti adómentesség úgy, hogy annak alkalmazásában a jogosultat
 
@@ -2360,26 +2368,23 @@ számlakibocsátási kötelezettséget jelent.
 
 184. § (1) Az adót önadózással megállapító adófizetésre kötelezett a megállapított adóról az Art. szerint bevallást tesz az állami adó- és vámhatóságnak.
 
-(2) Az állami adó- és vámhatóság az erre a célra biztosított elektronikus felületen – a 257. § (2) bekezdése alá tartozó adóalany kivételével – az adóalany rendelkezésére bocsátja az adóalany adott adómegállapítási időszakára vonatkozó, nyilvántartásában szereplő alábbi adatokat:
+(2)
 
-- a) fizetendő adót és az adó alapját, és
-- b) az adóalanyra áthárított előzetesen felszámított adót és az adó alapját (e § alkalmazásában a továbbiakban: bevallástervezet).
+(3)
 
-(3) Az adóalany az (1) bekezdés szerinti bevallási kötelezettségét úgy is teljesítheti, hogy az állami adó- és vámhatóság által a (2) bekezdésben foglaltak szerint rendelkezésére bocsátott bevallástervezetet a bevallás benyújtására előírt határidőig a (2) bekezdés szerinti elektronikus felület alkalmazásával módosítja, kiegészíti, elfogadja és a bevallást benyújtja.
+(4)
 
-(4) A (2) bekezdés szerinti bevallástervezetet az állami adó- és vámhatóság az adóalanyra vonatkozó adómegállapítási időszak végétől számított 12. naptól teszi elérhetővé az adóalany részére.
+(5)
 
-(5) Az adóalany a bevallástervezet módosítása, kiegészítése, elfogadása és a bevallás benyújtása által nyilatkozik az adólevonási jogról és annak érvényesítéséről is. A 10. számú melléklet 9–14. pontja szerinti, befogadott számlákra vonatkozó összesítő jelentéstételi kötelezettség teljesítésének kell tekinteni a bevallástervezet levonható előzetesen felszámított adóra vonatkozóan történő módosítását, kiegészítését, elfogadását követően a bevallás benyújtását.
+(6)
 
-(6) Ha az adóalany a bevallástervezet (3) bekezdés szerinti módosítását, kiegészítését, elfogadását követő benyújtása mellett az erre a célra rendszeresített nyomtatványon is teljesíti bevallási kötelezettségét, az elsőként benyújtott bevallás minősül az adóalany bevallásának.
+(7)
 
-(7) Az adóalany a (2) bekezdés szerinti elektronikus felületen benyújtott bevallásában szereplő adóalapot, adót ezen elektronikus felületen vagy az erre a célra rendszeresített nyomtatványon helyesbítheti önellenőrzéssel.
+(8)
 
-(8) Az adóalany, illetve annak Air. szerinti állandó meghatalmazottja a (2) bekezdés szerinti elektronikus felületet elektronikus azonosítási szolgáltatás útján éri el.
+(9)
 
-(9) Az adóalany, illetve annak Air. szerinti állandó meghatalmazottja a (2) bekezdés szerinti elektronikus felületen megjelölhet más természetes személyt is (a továbbiakban: másodlagos felhasználó), akinek jogot ad a bevallástervezetben szereplő adatok módosítására, kiegészítésére, elfogadására. A másodlagos felhasználó jogosultsága nem terjed ki a bevallás benyújtására.
-
-(10) A másodlagos felhasználó (9) bekezdés szerinti jogosultsága addig az időpontig áll fenn, amíg azt az adóalany, illetve annak Air. szerinti állandó meghatalmazottja a (2) bekezdés szerinti elektronikus felületen vissza nem vonja.
+(10)
 
 185. § (1) Abban az esetben, ha a 184. § szerint bevallott adó megfizetési kötelezettséget eredményez, az adófizetésre kötelezett az adót legkésőbb az Art.-ban meghatározott esedékességig fizeti meg az állami adóhatóságnak.
 
@@ -2393,7 +2398,11 @@ számlakibocsátási kötelezettséget jelent.
   - bb) negyedéves bevallásra kötelezett esetében a 250 000 forintot,
   - bc) éves bevallásra kötelezett esetében az 50 000 forintot.
 
-(2)–(4)
+(2)
+
+(3)
+
+(4)
 
 (5) Abban az esetben, ha az (1) bekezdés b) pontja csak több, egymást követő bevallási időszakban bevallott különbözet előjelhelyes göngyölítésével teljesül, a belföldön nyilvántartásba vett adóalany legkorábban akkor kérelmezheti az (1) bekezdés a) pontja szerint az érintett bevallási időszakok között előjelhelyesen göngyölített különbözet visszaigénylését, amikor annak abszolút értékben kifejezett összege az adott bevallási időszakban eléri vagy meghaladja az (1) bekezdés b) pontjában meghatározott összeget.
 
@@ -3718,7 +3727,7 @@ közösségi adószám birtokában végezhet.
 
 257/G. § (1) Az adóalany – a 178. § (1a) bekezdésben meghatározott eltéréssel – a 4/A. számú mellékletben, valamint a 10. számú mellékletben meghatározottak szerint adatot szolgáltat az állami adó- és vámhatóság részére.
 
-(2) A 10. számú melléklet és a 178. § (1a) bekezdés szerinti adatokat az állami adó- és vámhatóság az Air. szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához, a 184. § (2) bekezdésében és jogszabályban meghatározott egyéb feladata ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül.
+(2) A 10. számú melléklet és a 178. § (1a) bekezdés szerinti adatokat az állami adó- és vámhatóság az Air. szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához és jogszabályban meghatározott egyéb feladata ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül.
 
 ### Ingatlan értékesítésére vonatkozó bejelentési szabály
 
@@ -3976,6 +3985,7 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
   - gp) a Tanács (EU) 2018/1910 irányelve (2018. december 4.) a 2006/112/EK irányelvnek a hozzáadottértékadó-rendszer egyes, a tagállamok közötti kereskedelem adóztatására vonatkozó szabályainak harmonizálása és egyszerűsítése tekintetében történő módosításáról;
   - gq) a Tanács (EU) 2019/1995 irányelve (2019. november 21.) a 2006/112/EK irányelvnek a termékek távértékesítésére és bizonyos belföldi termékértékesítésekre vonatkozó rendelkezések tekintetében történő módosításáról;
   - gr) A Tanács (EU) 2020/1756 irányelve (2020. november 20.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek az észak-írországi adóalanyok azonosítása tekintetében történő módosításáról.
+  - gt) a Tanács (EU) 2021/1159 irányelve (2021. július 13.) a 2006/112/EK irányelvnek az importra, valamint bizonyos termékértékesítésekre és szolgáltatásnyújtásokra vonatkozó, a Covid19-világjárványra válaszul bevezetett ideiglenes mentességek tekintetében történő módosításáról;
 - h) a Tanács 2008/9/EK irányelve (2008. február 12.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról, valamint annak a következő irányelvvel történt módosítása:
   - ha) a Tanács 2010/66/EU irányelve (2010. október 14.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról szóló 2008/9/EK irányelv módosításáról;
 - i) a Tanács 2013/61/EU irányelve (2013. december 17.) a 2006/112/EK és a 2008/118/EK irányelvnek a francia legkülső régiók és különösen Mayotte vonatkozásában történő módosításáról;
@@ -4305,15 +4315,7 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 
 345. § E törvénynek a Mód11 törvénnyel megállapított 12/B. §, 12/C. §, 253/E. § (4)–(5) bekezdését, 253/F–253/G. §-át, 253/J. § (5)–(7) bekezdését, 253/K–253/O. §-át, 253/S. §-át, 253/T. § (9)–(13) bekezdését, 253/U–253/Z. §-át és az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 253/ZA. §-át 2021. július 1-jétől kell alkalmazni azzal, hogy az adóalany a 253/X. § szerinti döntéséről ezen rendelkezés hatálybalépésének időpontjától kezdődően tehet az állami adó- és vámhatóság felé bejelentést.
 
-346. § (1) E törvénynek a Mód11 törvénnyel módosított 184. §-át a 2021. július 1-jét magában foglaló adómegállapítási időszakról teljesítendő bevallási kötelezettségre kell először alkalmazni.
-
-(2) Jogutódlás esetén az állami adó- és vámhatóság először a jogelődnek a 2022. július 1-jét magában foglaló adómegállapítási időszakára vonatkozó, nyilvántartásában szereplő adatok tekintetében bocsátja a jogutód rendelkezésére e törvénynek a Mód11 törvénnyel megállapított 184. § (2) bekezdése szerinti bevallástervezetét, valamint 2022. július 1-jét követően teszi lehetővé a jogelőd által az erre a célra biztosított elektronikus felületen a 2022. július 1-jét megelőző nappal végződő adómegállapítási időszakra vonatkozóan benyújtott bevallásának ezen elektronikus felületen a jogutód általi önellenőrzéssel való helyesbítését.
-
-(3) Amennyiben az adóalany adóbevallás benyújtási gyakorisága a 2021. július 1-jei állapothoz képest 2021-ben módosul, az állami adó- és vámhatóság először a 2022. január 1-jét magában foglaló adómegállapítási időszakra vonatkozóan bocsátja az adóalany rendelkezésére a 184. § (2) bekezdése szerinti bevallástervezetet.
-
-(4) A felszámolás, végelszámolás vagy kényszertörlés alatt álló adóalany az Art. 53. §-a szerinti bevallási kötelezettségét először a 2022. július 1-jét magában foglaló adómegállapítási időszakát követően teljesítheti a 184. § (3) bekezdése szerint.
-
-(5) Az adóalany az Art. 52. §-a szerinti bevallási kötelezettségét először a 2022. július 1-jét magában foglaló adómegállapítási időszakát követően teljesítheti a 184. § (3) bekezdése szerint.
+#### 346. §
 
 347. § A 3. számú melléklet I. részében foglalt táblázatnak az egyes törvényeknek az otthonteremtési akcióterv bevezetése érdekében szükséges módosításáról szóló 2020. évi CXXXIII. törvénnyel megállapított 50. és 51. sorát azokban az esetekben kell alkalmazni először, amelyekben a 84. § szerint megállapított időpont 2021. január 1-jére vagy azt követő időpontra esik.
 
@@ -4331,6 +4333,8 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 (2) Az adóalany az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 257/L. § hatálybalépésének időpontjában folyamatban levő adóhatósági ellenőrzés során is jogosult a kérelem benyújtására az (1) bekezdéssel összhangban.
 
 352. § A 8/A. számú melléklet 6. pontja szerinti államban letelepedett adóalanyok tekintetében a XVIII. Fejezet szerinti adó-visszatérítést azon ügyletek esetén kell először alkalmazni, amelyek teljesítési időpontja 2021. január 1-jére vagy azt követő időpontra esik.
+
+354. § E törvénynek a veszélyhelyzettel összefüggő egyes szabályozási kérdésekről szóló 2021. évi CXXX. törvénnyel megállapított 93. § (1) bekezdés g) pont gd) alpontját és (1a) bekezdését, 107. § (1) bekezdés f) pontját és 107. § (4a) bekezdését a 2020. december 31-ét követően teljesített ügyletekre kell alkalmazni.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 
@@ -4382,7 +4386,7 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 
 #### I. rész: termékek
 
-|  | Megnevezés | vtsz. |
+| Sorszám | Megnevezés | vtsz. |
 | --- | --- | --- |
 | 1. | Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló törvény hatálya alá tartozó olyan humán gyógyszerek, amelyeket külön jogszabályban meghatározott hatóság forgalomba hozatalra engedélyezett, valamint a nem kereskedelmi jellegű áruforgalomban az erre jogosult hatóság engedélyével importált gyógyszerek; Humán gyógyászati célú magisztrális készítmények. |  |
 | 2. | Hagyományos gyógynövény drogok közvetlen lakossági fogyasztásra, kiskereskedelemben szokásos kiszerelésben | 1211 90 86; 1211 50 00-ból 1302-ből |
@@ -4446,7 +4450,7 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 
 #### I/A. rész: termékek a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet 2012. január 1. napján hatályos 10. számú mellékletében meghatározott gyógyászati segédeszközök közül
 
-|  | Megnevezés | ISO-kód |
+| Sorszám | Megnevezés | ISO-kód |
 | --- | --- | --- |
 | 1. | Lábortézisek dongalábra | 06 12 03 03 |
 | 2. | Lábortézisek a láb izomzatának bénulására | 06 12 03 15 |
@@ -4470,7 +4474,7 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 
 #### II. rész: szolgálatások
 
-|  | Megnevezés |
+| Sorszám | Megnevezés |
 | --- | --- |
 | 1. | Távhőszolgáltatás, ideértve a villamos energiáról szóló törvény alapján megújuló energiaforrásnak minősülő energiaforráson alapuló hőszolgáltatást |
 | 2. | Előadóművész személyes közreműködésévela) vendéglátás keretében, üzletben,b) nem nyilvánosan meghirdetett családi esemény, baráti rendezvény keretében, zárt körben, vagyc) belépődíj nélkül tartott, a zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló kormányrendelet hatálya alá nem tartozó, közösségi rendezvényeken nyújtott hangszeres élőzenei szolgáltatás. |
@@ -4484,7 +4488,7 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 
 #### I. rész: termékek
 
-|  | Megnevezés | vtsz. |
+| Sorszám | Megnevezés | vtsz. |
 | --- | --- | --- |
 | 1. | Tej és tejtermékek (kivéve az anyatejet, továbbá a 3. számú melléklet I. rész 54. pontja szerinti termékeket) | 0401-ből 0402 0403 0404 10 0405-től 0406-ig |
 | 2. | Tejtermékek (kivéve az italként közvetlen fogyasztásra alkalmas, tej pótlására szolgáló olyan imitátumokat, amelyek általában tej és permeátum - esetenként savó és/vagy tejszín - különböző arányú keverékéből állnak, és amelyek minősége, mennyiségi összetétele különbözik a természetes tejétől, tejfehérje tartalma lényegesen alacsonyabb a természetes tejénél) | 0404 90-ből |
@@ -4493,7 +4497,7 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 
 #### II. rész: szolgáltatások
 
-|  | Megnevezés |
+| Sorszám | Megnevezés |
 | --- | --- |
 | 1. |  |
 | 2. | A zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló 23/2011. (III. 8.) Korm. rendelet 2012. január 1. napján hatályos állapota szerint meghatározott alkalmi szabadtéri rendezvényre történő, kizárólag belépést biztosító szolgáltatás. |
@@ -4691,7 +4695,7 @@ c) a számla kiállításának időpontja, illetve az első forgalomba helyezés
 
 #### A 142. § (1) bekezdése d) pontjának alkalmazása alá tartozó termékek
 
-|  | Megnevezés | vtsz. |
+| Sorszám | Megnevezés | vtsz. |
 | --- | --- | --- |
 | 1. | Vas- és acélhulladék és -törmelék | 7204 kivéve: 7204 50 |
 | 2. | Rézhulladék és -törmelék | 7404 |
@@ -4729,7 +4733,7 @@ c) a számla kiállításának időpontja, illetve az első forgalomba helyezés
 
 #### A 142. § (1) bekezdés i) pontjának alkalmazása alá tartozó termékek
 
-|  | Megnevezés | vtsz. |
+| Sorszám | Megnevezés | vtsz. |
 | --- | --- | --- |
 | 1. | Kukorica | 1005 |
 | 2. | Búza és kétszeres | 1001 |
@@ -4745,7 +4749,7 @@ c) a számla kiállításának időpontja, illetve az első forgalomba helyezés
 
 #### A 142. § (1) bekezdés j) pontjának alkalmazása alá tartozó termékek
 
-|  | Megnevezés | vtsz. |
+| Sorszám | Megnevezés | vtsz. |
 | --- | --- | --- |
 | 1. | Síkhengerelt, legalább 600 mm szélességű termék vasból vagy ötvözetlen acélból, melegen hengerelve, plattírozás, lemezelés vagy bevonás nélkül | 7208 |
 | 2. | Síkhengerelt, legalább 600 mm szélességű termék vasból vagy ötvözetlen acélból, hidegen hengerelve (hidegen tömörítve), plattírozás, lemezelés vagy bevonás nélkül | 7209 |
@@ -4777,7 +4781,7 @@ c) a számla kiállításának időpontja, illetve az első forgalomba helyezés
 
 A. pont
 
-|  | Megnevezés | vtsz. |
+| Sorszám | Megnevezés | vtsz. |
 | --- | --- | --- |
 | 1. | Élő növény (beleértve azok gyökereit is), dugvány, oltvány stb. Zöldségpalánta | 0602 10 0602 20, 0602 90 30-ból |
 | 2. | Burgonya frissen vagy hűtve | 0701 |
@@ -4796,7 +4800,7 @@ A. pont
 
 B. pont
 
-|  | Megnevezés | vtsz. |
+| Sorszám | Megnevezés | vtsz. |
 | --- | --- | --- |
 | 1. | Ló, szarvasmarha, sertés, juh, kecske, baromfi és más élő állat (a sportló, versenyló, kutya, macska, díszállat, laboratóriumi és állatkerti állat kivételével) | 0101-től 0105-ig, 0106-ból |
 | 2. | Halak (csak az édesvízi halak, halikra), rákok, puhatestű és más gerinctelen víziállatok | 0301-ből, 0302-ből, 0306 19 10, 0307-ből, 0307 60, 0307 91-ből |
@@ -4814,7 +4818,7 @@ B. pont
 
 #### II. RÉSZ: SZOLGÁLTATÁSOK
 
-|  | Megnevezés |
+| Sor- szám | Megnevezés |
 | --- | --- |
 | 1. | Talajművelés, aratás, cséplés, préselés, szüretelés, betakarítás, vetés és ültetés |
 | 2. | Mezőgazdasági termékek csomagolása és piacra történő előkészítése, mint például mezőgazdasági termékek szárítása, tisztítása, aprítása, fertőtlenítése és silózása |

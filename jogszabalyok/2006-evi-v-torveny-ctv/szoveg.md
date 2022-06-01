@@ -164,7 +164,7 @@ feltéve hogy a vele szembeni végrehajtás eredménytelen volt.
 
 9/C. § (1) A cégbíróság e törvényben megállapított esetben eltiltja a cégnek a kényszertörlési eljárás megindításának időpontjában vagy az azt megelőző két évben bejegyzett vezető tisztségviselőjét, korlátlan tagi felelősséggel működő cég esetén a cég tagjait (tagját), korlátolt tagi felelősséggel működő gazdasági társaság esetén a társaság többségi befolyással rendelkező tagját. E § szerinti szabályt kell alkalmazni akkor is, ha a cég törlésére felszámolási eljárásban történő megszüntetést követően kerül sor, azonban a felszámolási eljárást kényszertörlési eljárás előzte meg.
 
-(2)
+(2) A cégbíróság a felszámolási eljárást követően, folytatva a kényszertörlési eljárást, az eltiltásról a kényszertörlési eljárás iratai, különösen a törvénysértő működésben való közrehatás vizsgálata során keletkezett bizonyítási eszközök alapján dönt, azonban szükség esetén további bizonyítást is lefolytathat.
 
 (3) Ha e törvény az eltiltás mellőzéséről nem rendelkezik, a cégbíróság az érintett személyt
 
@@ -2202,6 +2202,8 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 
 - a) a cégbíróság a 117/F. § (2) bekezdése szerinti jogkövetkezményt 2022. június 30-áig nem alkalmazza azokban a kényszertörlési eljárásokban, amelyekben kizárólag az állami adó- és vámhatóság az adószámtörléssel érintett cégek megszűntnek nyilvánítására irányuló eljárás miatti törvényességi felügyeleti illeték összegét jelenti be követelésként és más követelés nincs,
 - b) a cégbíróság a 118. § szerinti, illetve a 117/F. § (2) bekezdése szerinti végzés meghozatala előtt 2022. június 30-áig felfüggeszti azokat a kényszertörlési eljárásokat, amelyekben a 118. § (2) bekezdése szerinti végzés meghozatalának lenne helye és nem tartoznak az a) pont hatálya alá. Ha a cég 2022. június 30-ig cégbíróság felé igazolja, hogy 117/C. § (2) bekezdés a) és d) pontjában foglalt feltételeknek megfelel, a cégbíróság kényszertörlési eljárást a céggel szemben megszünteti.
+
+(3a) Azon kényszertörlési eljárásokban, amelyek e törvénynek a 2021. évi LXX. tv.-nyel megállapított rendelkezései alkalmazásával folynak – ideértve a (3) bekezdés a) pontjának hatálya alá tartozó eljárásokat is –, ha a cég 2022. június 30-ig a cégbíróság felé igazolja, hogy a 117/C. § (2) bekezdés a) és d) pontjában foglalt feltételeknek megfelel, a cégbíróság a kényszertörlési eljárást a céggel szemben megszünteti. E rendelkezés nem érinti a (3) bekezdés b) pontjában foglaltakat.
 
 (4) E törvénynek a 2021. évi LXX. tv.-nyel megállapított 80. § (6) bekezdését a folyamatban lévő törvényességi felügyeleti eljárásokban is alkalmazni kell azzal, hogy a cég vezető tisztségviselője köteles a tagokat a 2021. évi LXX. tv. hatálybalépését követő 30 napon belül tájékoztatni a céggel szemben folyamatban lévő törvényességi felügyeleti eljárásról.
 

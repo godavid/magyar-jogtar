@@ -1079,10 +1079,12 @@ látja el.
 
 (7) Az (1)–(6) bekezdésben foglaltakat nem kell alkalmazni a Magyarország területére más hatósági vagy bírósági eljárásban való kötelező megjelenés céljából történő belépés esetén.
 
-74/B. § (1) A járványügyi hatóság elrendeli a hatósági házi karantén szabályai betartásának az érintett nagykorú cselekvőképes személy mozgását nyomon követő, valamint az arcképmásának és általa megadott egészségügyi adatainak továbbítására alkalmas elektronikus szoftver (a továbbiakban: karantén szoftver) alkalmazásával történő ellenőrzését, ha nyilatkozik, hogy
+74/B. § (1) A járványügyi hatóság elrendelheti a hatósági házi karantén szabályai betartásának az érintett nagykorú cselekvőképes személy mozgását nyomon követő, valamint az arcképmásának és az általa megadott egészségügyi adatainak a továbbítására alkalmas elektronikus szoftver (a továbbiakban: karantén szoftver) alkalmazásával történő ellenőrzését, ha
 
-- a) a karantén szoftver telepítésének feltételei rendelkezésre állnak, ahhoz megfelelő eszközzel rendelkezik, és
-- b) a karantén szoftver telepítését és használatát önként vállalja.
+- a) a járványügyi hatóság mérlegelése szerint a hatósági házi karantén célja ezen eszköz alkalmazásával is biztosítható, és
+- b) az érintett nagykorú cselekvőképes személy nyilatkozik, hogy
+  - ba) a karantén szoftver telepítésének feltételei rendelkezésre állnak, ahhoz megfelelő eszközzel rendelkezik, valamint
+  - bb) a karantén szoftver telepítését és használatát önként vállalja.
 
 (2) A járványügyi hatóság az (1) bekezdés szerinti nyilatkozat beszerzése érdekében a rendőrség közreműködését kérheti.
 
@@ -1091,11 +1093,152 @@ látja el.
 - a) tájékoztatja a karantén szoftver telepítésének és használatának önkéntességéről, továbbá a karantén szoftver telepítésének feltételeiről, a karantén szoftver használatával járó előnyökről és kötelezettségekről, és
 - b) figyelmezteti, hogy az (1) bekezdés szerinti önkéntes nyilatkozat megtétele hiányában fokozott ellenőrzésnek van helye.
 
-(4) A karantén szoftver telepítésére és használatára vonatkozó kötelezettség teljesítését a rendőrség – elsősorban elektronikus úton – ellenőrzi, amely során az (1) bekezdés szerinti nyilatkozatot tevő személy (a továbbiakban: érintett személy) köteles együttműködni, és a karantén szoftverrel a rendőrség által előírt műveletet elvégezni. A rendőrség a karantén szoftver útján megadott mozgási adatokat elektronikus úton is összevetheti a hatósági házi karanténra kijelölt hely adataival. Az ellenőrzés nem járhat az érintett személy magánéletének szükségtelen zavarásával, 22.00 és 6.00 óra között az érintett személy pihenése indokolatlanul nem zavarható meg. A személyes ellenőrzésre akkor kerülhet sor, ha a karantén szoftver által biztosított ellenőrzés kijátszásának gyanúja merül fel, vagy ha az érintett személy a karantén szoftver használatát elmulasztja.
+(4) A karantén szoftver telepítésére és használatára vonatkozó kötelezettség teljesítését a rendőrség – elsősorban elektronikus úton – ellenőrzi, amelynek során az (1) bekezdés szerint elrendelt, a karantén szoftver alkalmazásával történő ellenőrzéssel érintett személy (a továbbiakban: érintett személy) köteles együttműködni, és a karantén szoftverrel a rendőrség által előírt műveletet elvégezni. A rendőrség a karantén szoftver útján megadott mozgási adatokat elektronikus úton is összevetheti a hatósági házi karanténra kijelölt hely adataival. Az ellenőrzés nem járhat az érintett személy magánéletének szükségtelen zavarásával, 22.00 és 6.00 óra között az érintett személy pihenése indokolatlanul nem zavarható meg. A személyes ellenőrzésre akkor kerülhet sor, ha a karantén szoftver által biztosított ellenőrzés kijátszásának gyanúja merül fel, vagy ha az érintett személy a karantén szoftver használatát elmulasztja.
 
 (5) A hatósági házi karantén megszűnésével az érintett személy a karantén szoftvert törli, a rendőrség az érintett személy szerinti ellenőrzését megszünteti.
 
-(6) Ha a hatósági házi karanténra kötelezett személy nem tesz az (1) bekezdés szerinti nyilatkozatot, a hatósági házi karantén szabályainak megtartását a rendőrség személyes jelenlét útján ellenőrzi.
+(6) Ha a hatósági házi karantén szabályai betartásának a karantén szoftver alkalmazásával történő ellenőrzését a járványügyi hatóság az (1) bekezdés szerint nem rendeli el, a hatósági házi karantén szabályainak megtartását a rendőrség személyes jelenlét útján ellenőrzi.
+
+### Fertőző betegség elleni védettség igazolása
+
+74/C. § (1) Az emberi egészségre kiemelten veszélyes vagy az emberi életre veszélyes, járványos megbetegedés okozására alkalmas fertőzés esetében a Kormány rendeletben elrendelheti, hogy a rendeletben meghatározott fertőző betegség elleni védettség igazolása hatósági igazolvány, illetve applikáció útján
+
+- a) a fertőző betegségből a Kormány rendeletében meghatározott esetekben a Kormány rendeletében meghatározott időn belül történő felgyógyulás,
+- b) az Európai Unióban, illetve a Magyarországon engedélyezett és a lakosság immunizálására felhasznált, a fertőző betegség elleni oltóanyaggal történt védőoltás (ezen alcím alkalmazásában a továbbiakban: oltottság), illetve
+- c) a fertőző betegség mikrobiológiai laboratóriumi diagnózisát igazoló vizsgálat hiteles negatív eredménye
+
+tényének az igazolásával történhet.
+
+(2) Az (1) bekezdés szerinti esetben a Kormány rendeletben határozza meg, hogy a hatósági igazolvány, illetve az applikáció mely (1) bekezdés szerinti tényt igazolja.
+
+74/D. § (1) A 74/C. § (1) bekezdése szerinti tényt igazoló hatósági igazolvány (a továbbiakban: védettségi igazolvány) – a Kormány rendeletében meghatározottak szerint – legfeljebb a következő adatokat tartalmazhatja:
+
+- a) az érintett nevét,
+- b) az érintettnek a személyazonosság igazolására alkalmas hatósági igazolványa megnevezését és okmányazonosítóját,
+- c) a védettségi igazolvány sorszámát,
+- d) védőoltás esetében az oltóanyag típusát, az oltás dátumát,
+- e) a védettség érvényességét,
+- f) az a)–e) pont szerinti adatokból képzett, informatikai eszközzel optikailag olvasható adattároló kódot,
+- g) szöveges jelzésként a Kormány rendeletében meghatározott feliratokat,
+- h) a fertőző betegség megnevezését.
+
+(2) Az (1) bekezdés e) pontja szerinti adatot a Kormány rendeletében meghatározottak szerint kell számítani. A védettség érvényességének ténye kizárólag az (1) bekezdés f) pontja szerinti adat segítségével is feltüntethető.
+
+(3) Ha az (1) bekezdés e) pontja szerinti adat az érintett felgyógyultságából származtatható, az EESZT működtetője jogosult automatikus információátadás útján átvenni a járványügyi szakrendszerből az érintett felgyógyultságának idejét.
+
+(4) Ha a védettségi igazolvány tartalmazza az oltóanyag típusát, az oltás dátumát, a Kormány rendeletében előírhatja, hogy az oltóanyag típusára és az egyes oltások dátumára vonatkozó adatot csak az (1) bekezdés f) pontja szerinti adat tartalmazza.
+
+(5) Ezen alcím felgyógyultságra vonatkozó szabályait akkor kell alkalmazni, ha a Kormány rendeletében meghatározottak szerint a felgyógyultság a 74/C. § (1) bekezdése szerinti védettséget igazol.
+
+74/E. § (1) A védettségi igazolványt a Kormány rendeletében meghatározott hatóság (ezen alcím alkalmazásában a továbbiakban: kiállító hatóság) állítja ki.
+
+(2) A kiállító hatóság adatfeldolgozóként a Kormány rendeletében megjelölt szerveket köteles bevonni.
+
+(3) A védettségi igazolványt a kiállító hatóság a Kormány rendeletében meghatározott esetekben hivatalból, a Kormány rendeletében meghatározott esetekben kérelemre állítja ki.
+
+(4) A hivatalbóli kiállítás díjmentes, a védettségi igazolvány kérelemre történő kiállításáért – az (5) bekezdésben meghatározott kivétellel – igazgatási szolgáltatási díjat kell fizetni.
+
+(5) Az érintett a hatósághoz benyújtott kérelmében díjmentesen kérheti a védettségi igazolvány kiállítását, ha a kérelmező a védettségi igazolványt a hivatalbóli kiállításra rendelkezésre álló határidőt követő 30 napon belül nem kapta kézhez. A kérelmező részére ebben az esetben akkor is új igazolványt kell kiállítani, ha a részére korábban került kiállításra védettségi igazolvány, de az érintett jelzésére vélelmezhető, hogy az nem került kézbesítésre.
+
+(6) Ha a védettségi igazolvány tartalmazza az érintett magyar hatóság által kiállított személyazonosság igazolására alkalmas hatósági igazolványának okmányazonosítóját vagy nevét, és a Kormány rendeletében előírja, hogy ezen adatok megváltozása esetén az érintett számára hivatalból kell kiállítani új védettségi igazolványt, a személyazonosító igazolvány esetében a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) szerinti nyilvántartást kezelő szerv, útlevél esetében az útiokmány-nyilvántartást vezető szerv, vezetői engedély esetén a vezetői engedély nyilvántartást vezető szerv (ezen alcím alkalmazásában a továbbiakban együtt: nyilvántartó szerv) – annak érdekében, hogy a kiállító hatóság számára jelezze, hogy új védettségi igazolványt kell kiállítani – jogosult megismerni, hogy az érintett személy rendelkezik-e védettségi igazolvánnyal.
+
+74/F. § (1) Oltottság esetén az egészségügyi szolgáltató
+
+- a) a védőoltás beadását, az oltás dátumát, a védőoltás típusát,
+- b) – ha az érintett jelzése szerint a levelezési címe a személyiadat- és lakcímnyilvántartásban szereplő lakcímétől eltér – az érintett levelezési címét,
+- c) – ha az érintett magyar hatóság által kiállított személyazonosság igazolására alkalmas hatósági igazolvánnyal nem rendelkezik – az érintett nevét, a külföldi hatóság által kiállított személyazonosság igazolására alkalmas hatósági igazolványának okmányazonosítóját,
+- d) ha az érintett a védettségi igazolvány kiküldését hivatalos iratként kéri, ennek tényét
+
+az EESZT-ben rögzíti, és az EESZT útján haladéktalanul továbbítja a kiállító hatóság részére.
+
+(2) A kiállító hatóság
+
+- a) az EESZT működtetőjétől
+  - aa) – ha a védettségi igazolvány érvényessége a Kormány rendelete szerint az érintettnek a fertőző betegségből történő felgyógyulásától, vagy a fertőzés igazolásától számítandó – a felgyógyult személy Társadalombiztosítási Azonosító Jelét (ezen alcím alkalmazásában a továbbiakban: TAJ szám), a 74/D. § (1) bekezdés f) pontja szerinti adatot, valamint a Kormány rendeletében meghatározottak szerint az érintettnek a fertőzés igazolásának, vagy a fertőző betegségből történt felgyógyulásának időpontját,
+  - ab) az oltott személy TAJ számát, a 74/D. § (1) bekezdés d) és f) pontja szerinti adatot, valamint az (1) bekezdés szerinti adatokat,
+- b) a személyiadat- és lakcímnyilvántartást kezelő szervtől az érintett személy természetes személyazonosító adatait, nemét, állampolgárságát, személyi azonosítóját, lakcímét, a személyiadat- és lakcímnyilvántartásból kikerülésének oka és időpontja adatait, továbbá az állandó személyazonosító igazolványának az Nytv. 11. § (1) bekezdés n) pontja és 29. § (2) bekezdése szerinti adatait,
+- c) az útiokmány-nyilvántartást vezető szervtől az érintett személy természetes személyazonosító adatait, személyi azonosítóját, nemét, állampolgárságát, az útlevél típusát, fajtáját és okmányazonosítóját, valamint érvényességére vonatkozó adatokat,
+- d) a vezetői engedély nyilvántartást vezető szervtől az érintett személy természetes személyazonosító adatait, állampolgárságát, a vezetői engedélye típusát és okmányazonosítóját, valamint érvényességére vonatkozó adatokat
+
+automatikus információátadással – szükség esetén az összerendelési nyilvántartás szolgáltatás útján – átveszi.
+
+(3) A kiállító hatóság az (1) és (2) bekezdés szerinti adatokat – a TAJ szám kivételével – a védettségi igazolvány megszemélyesítése és az érintett részére történő továbbítása érdekében az állandó személyazonosító igazolvány megszemélyesítéséért felelős szervezetnek továbbítja.
+
+(4) A kiállító hatóság csak abban az esetben veszi át az érintett személyazonosság igazolására alkalmas hatósági igazolványának adatait a nyilvántartó szervtől, ha a Kormány rendelete értelmében a védettségi igazolvány azt tartalmazza.
+
+(5) A védettségi igazolványt csak akkor kell személyes átadással kézbesíteni, ha azt az érintett kérte, egyebekben a védettségi igazolványt a levélszekrénybe kell kézbesíteni.
+
+(6) Az érintett (címzett) kérése alapján személyes átadással kézbesítendő – hivatalos iratként feladott – védettségi igazolványokat tartalmazó könyvelt küldeményeken – a küldemény esetleges visszakézbesítése során – mellőzhető a postai szolgáltató által figyelembe veendő feladói adatok feltüntetése, amennyiben azokat a feladást igazoló elektronikus okirat tartalmazza.
+
+(7) Ha a Kormány rendelete alapján a fertőző betegségből történő felgyógyulás után, a szervezetben a fertőző betegség ellen jelen lévő ellenanyag esetén is van helye védettségi igazolvány kiállításának, a Kormány rendeletében meghatározottak szerint az ellenanyag jelenlétének igazolására a kiállító hatóság – megfelelő szintű ellenanyag kimutatása esetén – a vizsgálati eredményből az orvosszakmai szempontokat is figyelembe véve a vizsgálat értékelését, valamint az érintett TAJ számát az EESZT-ben rögzíti.
+
+(8) Ha a Kormány rendelete alapján a fertőző betegség mikrobiológiai laboratóriumi diagnózisát igazoló vizsgálat hiteles negatív eredménye esetén is van helye védettségi igazolvány kiállításának, a kiállító hatóság – a vizsgálati módszer megfelelősége esetén – a vizsgálati leletből az orvosszakmai szempontokat is figyelembe véve a vizsgálat értékelését, valamint az érintett TAJ számát az EESZT-ben rögzíti.
+
+74/G. § (1) Az EESZT működtetője a Kormány rendeletében meghatározottak szerint a 74/C. § (1) bekezdése szerinti tényt igazoló applikációt (a továbbiakban: applikáció) biztosít az érintettek számára.
+
+(2) Az applikáció az érintett azonosítását követően – az EESZT-ből szerzett adatok alapján – a Kormány rendeletében meghatározottak szerint igazolja a 74/C. § (1) bekezdése szerinti tényt.
+
+(3) Az applikáció a Kormány rendeletében meghatározottak szerint legfeljebb a 74/D. § (1) bekezdése szerinti adatokat, valamint az érintett TAJ számát tartalmazhatja.
+
+(4) Ha a Kormány rendeletében megjelölt fertőző betegség a SARS-CoV-2 koronavírus által okozott COVID–19 betegség, a Kormány rendeletében kijelölheti az (1) bekezdés szerinti applikációt a Covid19-világjárvány idején a szabad mozgás megkönnyítése érdekében az interoperábilis, Covid19-oltásra, tesztre és gyógyultságra vonatkozó igazolványok (uniós digitális Covid-igazolvány) kiállításának, ellenőrzésének és elfogadásának keretéről szóló, 2021. június 14-i (EU) 2021/953 európai parlamenti és tanácsi rendelet (a továbbiakban: EUr.) szerinti uniós digitális Covid-igazolványnak. Ebben az esetben az applikáció az EUr.-ben meghatározott, az uniós digitális Covid-igazolványon feltüntetendő adatokat jeleníti meg.
+
+74/H. § (1) A 74/C–74/G. § rendelkezéseit a TAJ számmal nem rendelkező személyek esetében az e §-ban foglalt eltérésekkel kell alkalmazni.
+
+(2) Ha a Kormány rendelete előírja a védettségi igazolványon a 74/D. § (1) bekezdés b) pontja szerinti adat szerepeltetését, és ha a nem magyar állampolgár érintett nem rendelkezik személyazonosító igazolvánnyal vagy útlevéllel vagy a magyar hatóság által kiállított vezetői engedéllyel, a védettségi igazolvány útlevél száma rovata az érintett tartózkodási engedélyének számát tartalmazza.
+
+(3) A (2) bekezdésben foglalt esetben az egészségügyi szolgáltató az EESZT-ben az érintett neve mellett a (2) bekezdés szerinti számot is rögzíti.
+
+(4) A felgyógyultság igazolására vonatkozó kérelemben a kérelmező
+
+- a) a nevét,
+- b) az útlevelének okmányazonosítóját,
+- c) személyazonosító igazolványának okmányazonosítóját,
+- d) a (2) bekezdés szerinti esetben a tartózkodási engedélyének számát,
+- e) a levelezési címét, valamint
+- f) a felgyógyultság igazolását a Kormány rendeletében meghatározott módon
+
+adja meg.
+
+(5) A (4) bekezdés szerinti kérelmet csak személyesen lehet benyújtani.
+
+(6) A TAJ számmal nem rendelkező érintett számára az EESZT működtetője nem biztosít applikációt.
+
+(7) A TAJ számmal nem rendelkező, oltottság vagy a fertőző betegség mikrobiológiai laboratóriumi vizsgálattal történt igazolása miatt védettségi igazolványra jogosult személy esetében – ha az érintett azzal még nem rendelkezik – az EESZT működtetője az EESZT-ben technikai azonosítót képez és az érintett nevét, valamint az EESZT-ben rögzítendő adatait ezen azonosítóhoz rendeli.
+
+(8) Az EESZT működtetője a TAJ szám helyett az érintett technikai azonosítóját, valamint – a (2) bekezdésben foglalt esetben – a tartózkodási engedélyének számát adja át a kiállító hatóságnak.
+
+(9) Ha az érintett kéri, a védettségi igazolványt a külképviselet útján kell kézbesíteni.
+
+(10) A (9) bekezdés szerinti feladatok ellátása érdekében a külpolitikáért felelős miniszter, valamint a külképviselet az érintett nevét és értesítési adatát a kézbesítés megtörténtéig kezeli.
+
+74/I. § (1) Az EESZT-csatlakozásra kötelezett egészségügyi szolgáltató a védőoltást igazoló védettségi igazolvány kiállítása érdekében a védőoltás beadását követő egy évig kezeli az érintett 74/D. § (1) bekezdés b)–f) pontja, valamint 74/F. § (2) bekezdése szerinti adatait.
+
+(2) A kiállító hatóság a védettségi igazolvány kibocsátása érdekében az adatok beérkezésétől számított három évig kezeli az érintett 74/F. § (1) és (2) bekezdése szerinti adatait.
+
+(3) Az EESZT működtetője az applikáció működtetése érdekében – ha törvény az adatkezelésre hosszabb időt nem állapít meg – az érintett 74/G. § (3) bekezdése szerinti adatait az adatok beérkezésétől számított három évig kezeli.
+
+74/J. § (1) A Kormány rendeletében meghatározott, a fertőző betegség ellen Magyarország területén kívül kapott védőoltások esetében a 74/C–74/I. §-t az e §-ban foglalt eltérésekkel kell alkalmazni.
+
+(2) A külpolitikáért felelős miniszternek az egészségügyért felelős miniszterrel és a közbiztonságért felelős miniszterrel egyetértésben kiadott rendeletében megjelölt országban kapott, a Kormány rendeletében meghatározott védőoltás esetén a magyar állampolgár és a Magyarország területén 180 napon belül 90 napot meghaladóan jogszerűen tartózkodó nem magyar állampolgár részére a kiállító hatóság a védettségi igazolványt 15 napon belül díjmentesen állítja ki.
+
+(3) A kérelemhez csatolni kell a Kormány rendeletében meghatározott iratokat.
+
+(4) A (3) bekezdés szerinti kérelemhez a kérelmező megadja
+
+- a) a természetes személyazonosító adatait,
+- b) a személyazonosság igazolására alkalmas hatósági igazolványának okmányazonosítóját,
+- c) a postai címét (a védettségi igazolvány kézbesítési címe) és
+- d) ha azzal rendelkezik, a TAJ számát.
+
+(5) A kiállító hatóság a (4) bekezdés szerinti adatokat – a védettségi igazolvány kiállítása és annak ellenőrzése érdekében – három évig kezeli.
+
+74/K. § (1) A 74/C. § (1) bekezdése szerinti körülmény fennállásakor, a fertőző betegség terjedésének megakadályozása érdekében a Kormány rendeletében meghatározhatja azon szolgáltatásokat, üzlethelyiségeket, egyéb helyeket, amelyek kizárólag érvényes védettség igazolásával vehetőek igénybe, illetve amelyekbe az érintett kizárólag érvényes védettség igazolásával léphet be. A Kormány rendeletében meghatározott esetekben az érvényes védettség igazolása mentesítést adhat jogszabályban előírt járványügyi korlátozó intézkedések betartása alól.
+
+(2) A Kormány rendeletében meghatározhatja azon személyek körét, akiknek nem kell védettséget igazolnia.
+
+(3) A Kormány rendeletében előírhatja, hogy az érvényes védettség igazolása során az érintett a védettség igazolásához előírt vagy más, a személyazonosság igazolására alkalmas igazolványát felhívásra köteles bemutatni. Az érvényes védettséget ellenőrző szerv vagy személy jogosult a védettségi igazolványban, illetve az applikációban foglalt adatok, valamint az érintett személyazonosság igazolására alkalmas igazolványán szereplő adatok megismerésére.
+
+(4) Az ellenőrző szerv vagy személy a (3) bekezdésben szereplő igazolványok és applikáció adatait – ha törvény eltérően nem rendelkezik – semmilyen módon nem rögzítheti.
 
 ### IV. Fejezet — AZ EGÉSZSÉGÜGYI ELLÁTÁSOK RENDSZERE
 
@@ -3122,7 +3265,7 @@ aki megfelel a 171. § (1) bekezdésben foglaltaknak;
 
 (4) A házastárs (élettárs) halála miatt egyedülállóvá vált, rendelkezésre jogosult nő testébe történő beültetés céljából a letett embrió a 167. § (2) bekezdése szerinti kizáró nyilatkozat hiányában adható ki. Kizáró nyilatkozat esetén a letett embrió felhasználására a rendelkezésre jogosult nyilatkozata irányadó, ennek hiányában az embrió adományozására vonatkozó rendelkezéseket kell megfelelően alkalmazni azzal, hogy a felajánlás szerinti egészségügyi szolgáltatónak a letétbe helyezés helye szerinti egészségügyi szolgáltatót kell tekinteni.
 
-(5) Az adományozás céljából felajánlott embrió legfeljebb 5 évig tárolható, de ez az időtartam egy alkalommal, további 5 évvel meghosszabbítható. A letétbe helyezett embrió tárolásának leghosszabb időtartama 10 év. A fel nem használt embrió a fagyasztva tárolás határidejének letelte előtt – az embrió valószínű károsodásának esetét kivéve – nem semmisíthető meg. A határidő leteltét követően az egészségügyi szolgáltató az embriót megsemmisíti vagy tudományos kutatás céljára – a reprodukciós eljárásban történő felhasználás lehetőségének kizárásával – felhasználhatja, illetve ilyen célból arra jogosult kutató intézetnek átadhatja.
+(5) Az adományozás céljából felajánlott, valamint a saját reprodukciós eljárás céljából letett embrió legfeljebb 15 évig tárolható, de ez az időtartam egy alkalommal, további 15 évvel meghosszabbítható. A letétbe helyezett embrió tárolásának leghosszabb időtartama 30 év. Ezen időtartamon belül a tárolás idejéről a rendelkezésre jogosult dönt. A fel nem használt embrió a fagyasztva tárolás határidejének letelte előtt – az embrió valószínű károsodásának esetét kivéve – nem semmisíthető meg. A határidő leteltét követően az egészségügyi szolgáltató az embriót megsemmisíti vagy tudományos kutatás céljára – a reprodukciós eljárásban történő felhasználás lehetőségének kizárásával – felhasználhatja, illetve ilyen célból arra jogosult kutató intézetnek átadhatja.
 
 179. § (1) Ivarsejt-, illetőleg embrióadományozás eredményeként fogant, illetve született gyermeknek joga, hogy a nagykorúságának elérését követően fogamzásának, születésének körülményeit a rendelkezésre bocsátható adatok [172. § (2)–(3) bekezdés] körére kiterjedő módon megismerje.
 
@@ -3849,6 +3992,17 @@ megítéléséhez szükséges.
 
 (4) Ha az egészségügyi válsághelyzet felszámolásában vagy a védekezésben részt vevő, közfeladatot ellátó szerv vagy személy a védekezést elősegítő orvostechnikai eszközt, egyéni védőeszközt vagy más eszközt saját hatáskörben igazoltan nem vagy csak aránytalanul költségesen tud beszerezni, kezdeményezheti az érintett eszköz az Állami Egészségügyi Tartalék kezelője általi beszerzését. A kezdeményezés Operatív Törzs vezetőjének jóváhagyása esetén az Állami Egészségügyi Tartalék kezelője a kezdeményező szerv vagy személy képviselőjeként jár el a kezdeményezéssel érintett eszköz beszerzése során.
 
+231/A. § (1) Egészségügyi válsághelyzetben a megbetegedések megelőzéséhez és kezeléséhez szükséges,
+
+- a) az Állami Egészségügyi Tartalék kezelője által határozatban meghatározott mértékű és fajtájú gyógyászatisegédeszköz- és orvostechnikaieszköz-igényt és
+- b) a gyógyszerészeti államigazgatási szerv által határozatban meghatározott mértékű és fajtájú gyógyszerigényt
+
+a miniszter döntése alapján a kötelezett gyártó egyéb vállalásait megelőzően – gyártókapacitása erejéig – köteles teljesíteni.
+
+(2) Az (1) bekezdés szerinti határozatból következő elsőbbségi szolgáltatás teljesítése miatt a kötelezett gyártó más szerződéses kötelezettségei teljesítését megtagadhatja, és ezzel összefüggésben vele szemben szerződésszegésre alapított jog nem gyakorolható, és szerződésszegésen alapuló igény nem érvényesíthető.
+
+(3) Ha a kötelezett gyártó a (2) bekezdés alapján más szerződéses kötelezettségei teljesítését megtagadja, e döntéssel összefüggésben harmadik fél tekintetében felmerült kártalanítási igény a kötelezett gyártóval szemben nem érvényesíthető.
+
 232. § (1) A miniszter köteles gondoskodni arról, hogy a kizárólag az egészségügyi válsághelyzet idején hatályba léptethető egészségügyi jogszabályok kihirdetésre alkalmas állapotban rendelkezésre álljanak.
 
 (2) A miniszter által kijelölt egészségügyi szolgáltatók a felkészülés keretében egészségügyi válsághelyzeti tervet kötelesek készíteni.
@@ -3873,10 +4027,10 @@ az adatkezelési céllal közvetlenül összefüggő személyes adatait.
 
 (6) Az Egészségügyi Elektronikus Szolgáltatási Tér működtetője biztosítja, hogy az Operatív Törzs a 228. § (2) bekezdése szerinti körülménnyel összefüggő – ha az szükséges, személyes adatokat is tartalmazó – információkat közvetlenül megkapja.
 
-(7) A (2)–(4) bekezdés alapján az Operatív Törzs az érintett azonosítását lehetővé tevő egészségügyi adatot – a 228. § (2) bekezdése szerinti körülménnyel való érintettség tényét ide nem értve – kizárólag a (8) bekezdésben meghatározott módon akkor ismerheti meg és akkor kezeli, ha az a 228. § (2) bekezdése szerinti körülmény megelőzése, megismerése, felderítése és továbbterjedésének megakadályozása céljából valamely halaszthatatlan intézkedés megtételéhez elengedhetetlenül szükséges, és egyúttal megalapozottan feltehető, hogy
+(7) A (2)–(4) bekezdés alapján az Operatív Törzs az érintett azonosítását lehetővé tevő egészségügyi adatot – a 228. § (2) bekezdése szerinti körülménnyel való érintettség tényét ide nem értve – kizárólag a (8) bekezdésben meghatározott módon akkor ismerheti meg és akkor kezeli, ha az a 228. § (2) bekezdése szerinti körülmény megelőzése, megismerése, felderítése és továbbterjedésének megakadályozása céljából valamely halaszthatatlan intézkedés vagy a 228. § (2) bekezdése szerinti körülménynek az emberi egészségre gyakorolt hosszú távú hatásai kutatásához szükséges intézkedés megtételéhez elengedhetetlenül szükséges, és egyúttal megalapozottan feltehető, hogy
 
 - a) az intézkedés az érintett azonosítását lehetővé tevő egészségügyi adat személyazonosításra alkalmatlanná tétele, álnevesítése vagy más – az érintett azonosítását nem igénylő – adat megismerése útján nem volna megtehető, vagy
-- b) az intézkedés az a) pont szerinti módon való megtétele az intézkedés sikeressége szempontjából aránytalan nehézséggel vagy sérelemmel járna.
+- b) az intézkedés a) pont szerinti módon való megtétele az intézkedés sikeressége szempontjából aránytalan nehézséggel vagy sérelemmel járna.
 
 (8) A (7) bekezdés szerint megismert, az érintett azonosítását lehetővé tevő egészségügyi adatot – ha jogszabály vagy az Európai Unió kötelező jogi aktusa másként nem rendelkezik – kizárólag az Operatív Törzs, annak munkaszervezete vagy akciócsoportja tevékenységében az intézkedés megtétele érdekében közvetlenül részt vevő orvos ismerheti meg, egyebekben az ilyen adatot más, az intézkedésben közvetlenül részt vevő személy számára csak az adat személyazonosításra alkalmatlanná tételét vagy álnevesítését követően lehet megismerhetővé tenni.
 
@@ -3897,6 +4051,27 @@ az adatkezelési céllal közvetlenül összefüggő személyes adatait.
 (12) Naplóbejegyzést a személyes adatokkal végzett valamennyi műveletről, az adatkezelési esemény megtörténtével egyidejűleg kell képezni. A naplóbejegyzést pontos és megmásíthatatlan időadattal kell ellátni.
 
 (13) A naplóban rögzített adatok kizárólag az adatkezelés jogszerűségének ellenőrzése, az adatbiztonsági követelmények érvényesítése, büntetőeljárás lefolytatása céljából, törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági és bűnmegelőzési ellenőrzési célból ismerhetőek meg és használhatóak fel, e tevékenységet folytató adatkezelő részére továbbíthatóak.
+
+(14) Működésének befejezése esetén az Operatív Törzs a (4)–(8) bekezdés alapján kezelt adatokat – az egészségügyi válsághelyzetre okot adó körülmény vizsgálata, ezen körülménynek az emberi egészségre gyakorolt hosszú távú hatásai elemzése és kutathatósága céljából – a Kormány rendeletében kijelölt egészségügyi államigazgatási szervnek átadja.
+
+(15) A (14) bekezdés szerint átadott személyes adatok kezelését a Kormány rendeletében kijelölt egészségügyi államigazgatási szerv korlátozza. A korlátozás alá eső személyes adatokat kizárólag az érintett, a személyes adatainak védelméhez fűződő jogainak gyakorlása során ismerheti meg, azok kizárólag a törvényben, az adatok megismerésére feljogosított szervnek továbbíthatóak. A korlátozás alá eső adatokkal azok tárolásán kívül – a (17) és (18) bekezdésben foglalt kivételekkel – más művelet nem végezhető.
+
+(16) A (14) bekezdés szerint átadott személyes adatok tekintetében az adatkezelés szükségességét az egészségügyi államigazgatási szerv az adatok átvételétől kezdve legalább ötévente felülvizsgálja.
+
+(17) A (14) bekezdés szerinti, az érintett azonosítását lehetővé tevő egészségügyi adathoz – a 228. § (2) bekezdése szerinti körülménnyel való érintettség tényét ide nem értve – a (14) bekezdés szerinti egészségügyi államigazgatási szerv kutatási célból hozzáférést biztosít az általa a kutatás elvégzésére megbízott, a Kormány rendeletében meghatározott feltételeknek megfelelő adatfeldolgozónak, ha a kutatás célja a 228. § (2) bekezdése szerinti körülmény megelőzése, megismerése, felderítése vagy a járványnak a társadalmat érintő egészségügyi hatásainak vizsgálata és a kutatáshoz az adat elengedhetetlenül szükséges, és egyúttal megalapozottan feltehető, hogy
+
+- a) a kutatás az érintett azonosítását lehetővé tevő egészségügyi adat személyazonosításra alkalmatlanná tétele, álnevesítése vagy más – az érintett azonosítását nem igénylő – adat megismerése útján nem volna végezhető vagy
+- b) a kutatás az a) pont szerinti módon való megtétele a kutatás sikeressége szempontjából aránytalan nehézséggel vagy sérelemmel járna.
+
+(18) A közegészségügyi-járványügyi veszélynek kitett személy, az ilyen személlyel kapcsolatban álló vagy kapcsolatba került és ezért közegészségügyi-járványügyi szempontból veszélyeztetett személy (14) bekezdés szerinti adataihoz a (14) bekezdés szerinti egészségügyi államigazgatási szerv
+
+- a) az érintett kezelését végző orvos,
+- b) az egészségügyi államigazgatási szerv keretében dolgozó tisztiorvos,
+- c) a közegészségügyi-járványügyi felügyelő,
+- d) a közegészségügyi-járványügyi célból adatkezelésre jogosult más személy vagy szerv, valamint
+- e) a NER végrehajtása körében a NER végrehajtásában közreműködő szerv feladatkörrel rendelkező alkalmazottja
+
+részére – kérésükre – hozzáférést biztosít, ha a megkereső igazolja, hogy az adatot más szervtől beszerezni nem tudja és az adat az érintett kezeléséhez vagy a megkereső szerv járványügyi feladatai ellátásához elengedhetetlenül szükséges.
 
 232/C. § (1) A katasztrófavédelemről szóló törvény szerinti katasztrófaveszély esetén az egészségügyi feladatatok biztosítása érdekében a fővárosi és megyei kormányhivatal egészségügyi veszélyhelyzetet hirdethet és
 
@@ -3996,6 +4171,50 @@ dönt.
 (3) Igazolás nélkül, költségként elszámolható tételnek minősül a munka törvénykönyvéről szóló törvény távmunkavégzésre vonatkozó rendelkezéseinek megfelelően, a munkaszerződésében foglaltak szerint távmunkavégzés keretében munkát végző munkavállalónak, a távmunkavégzéssel összefüggésben költségtérítés címén fizetett összegből a felek által előzetesen meghatározott, de legfeljebb havonta az adóév első napján érvényes havi minimálbér 10 százalékának megfelelő összeg (ha a távmunkavégzés nem érinti az egész hónapot, a havi összegnek a távmunkavégzéssel érintett napokkal arányos része), feltéve, hogy a magánszemély a távmunkavégzéssel összefüggésben a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. számú melléklet I. Jellemzően előforduló költségek cím 24. pont c) és d) alpontja szerint más költséget nem számol el.
 
 (4) A munkavállaló és a munkáltató a munka törvénykönyvéről szóló 2012. évi I. törvény 196. §-ától megállapodásban eltérhetnek.
+
+232/H. § (1) Járványügyi készültség esetén az állami, önkormányzati, közfeladatot ellátó közérdekű vagyonkezelő alapítványi, illetve nem állami felsőoktatási intézményi fenntartásban vagy tulajdonban működő szervnél, intézménynél vagy gazdasági társaságnál foglalkoztatottak tekintetében – a (16) és (17) bekezdés szerinti kivétellel – az alapvető munkáltatói jogokat gyakorló személy (e § alkalmazásában a továbbiakban: munkáltató) a fenntartó, illetve a tulajdonos jóváhagyásával – az egészség megóvása érdekében, a munkahely és a munkakör sajátosságaira is figyelemmel – a járványügyi készültség bevezetésének alapjául szolgáló járványt okozó kórokozó elleni – Magyarországon alkalmazott – védőoltást (e § alkalmazásában a továbbiakban: védőoltás) a munkavégzés feltételeként állapíthatja meg, kivéve, ha a foglalkoztatott a védőoltás alól az (5) bekezdés szerint mentesül.
+
+(2) Az állami, önkormányzati, közfeladatot ellátó közérdekű vagyonkezelő alapítványi, illetve nem állami felsőoktatási intézményi fenntartásban vagy tulajdonban működő szerv, intézmény vagy gazdasági társaság fenntartója, illetve tulajdonosa határidő tűzésével kötelezheti a munkáltatót az (1) bekezdés szerinti intézkedés megtételére, ha azt az egészség megóvása érdekében, a munkahely és a munkakör sajátosságaira is figyelemmel indokoltnak tartja.
+
+(3) A munkáltató az (1) bekezdés szerinti intézkedésben meghatározza a védőoltás felvételének határidejét, ami egydózisú oltóanyag esetén a védőoltás, többdózisú oltóanyag esetén a védőoltás első dózisa tekintetében legalább 45 nap kell, hogy legyen. Többdózisú oltóanyag esetén a védőoltás következő dózisait az oltóorvos által meghatározott időpontban kell megkapni.
+
+(4) A munkáltató elektronikus úton (ideértve az e-mail használatát) vagy papír alapon tájékoztatja a foglalkoztatottat az (1) bekezdés szerinti intézkedésről, a (3) bekezdés szerinti határidőről és a védőoltás felvétele elmaradásának lehetséges jogkövetkezményeiről.
+
+(5) Nem kötelezhető a védőoltásra az a foglalkoztatott, aki részére egészségügyi indokból a védőoltás ellenjavallt, és ezt a (6) bekezdés szerinti orvosi szakvélemény is alátámasztja.
+
+(6) A védőoltás egészségügyi indokból történő ellenjavallatáról szóló orvosi szakvéleményt a foglalkoztatott kezdeményezésére a munkáltatója szerint illetékes foglalkozás-egészségügyi szolgálat szakorvosa, ennek hiányában a foglalkoztatott jogviszonyának keretében végzett tevékenységre való egészségi alkalmasságának elbírálására jogosult más orvos, ennek hiányában a foglalkoztatott háziorvosa adja ki.
+
+(7) A védőoltást a foglalkoztatott – az (5) bekezdésben meghatározott kivétellel – a munkáltató felhívására, a munkáltató által meghatározott módon köteles igazolni.
+
+(8) Ha a foglalkoztatott a védőoltást a munkáltató által meghatározott határidőn belül nem kapta meg, a foglalkoztatott részére a munkáltató fizetés nélküli vagy illetmény nélküli szabadságot (e § alkalmazásában a továbbiakban együtt: fizetés nélküli szabadság) rendelhet el, kivéve, ha a foglalkoztatott a védőoltás felvétele alól az (5) bekezdés szerint mentesül.
+
+(9) A munkáltató – a foglalkoztatásra irányadó jogszabálytól eltérően – a foglalkoztatott jogviszonyát – a foglalkoztatott végkielégítésre való jogosultsága nélkül – felmentéssel, illetve felmondással azonnali hatállyal megszüntetheti a járványügyi készültség megszűnésének napjával, de legkorábban a fizetés nélküli szabadság elrendelésétől számított hat hónap elteltével, vagy a járványügyi készültség ideje alatt a fizetés nélküli szabadság (8) bekezdés szerinti elrendelésétől számított egy év leteltével, ha
+
+- a) a foglalkoztatott a védőoltást nem igazolta a munkáltató felé a munkáltató által meghatározott módon, vagy
+- b) a foglalkoztatott a (6) bekezdés szerinti orvosi szakvéleményt nem mutatja be.
+
+(10) A foglalkoztatásra irányuló jogviszony (9) bekezdés szerint meghatározott okból történő megszüntetése esetén a megszüntetés okát és jogkövetkezményeit haladéktalanul közölni kell a foglalkoztatottal. A foglalkoztatásra irányuló jogviszony (9) bekezdés szerint meghatározott okból történő megszüntetése a foglalkoztatottnak felróható okból történő megszüntetésnek minősül.
+
+(11) Amennyiben a jogviszony megszűnésére, megszüntetésére nem kerül sor a (9) bekezdés alapján, vagy törvény eltérő rendelkezése szerint, úgy a járványügyi készültség utolsó napjával a fizetés nélküli szabadság megszűnik.
+
+(12) Ha a foglalkoztatott a fizetés nélküli szabadság elrendelését követően felveszi a védőoltást, a munkáltató a fizetés nélküli szabadságot az igazolás benyújtását követően haladéktalanul megszünteti.
+
+(13) Azt a foglalkoztatottat, aki az (1) bekezdés szerinti oltási kötelezettség teljesítésének határidejét megelőzően mentesül a rendelkezésre állási és munkavégzési kötelezettségének teljesítése alól, a rendelkezésre állási és munkavégzési kötelezettség teljesítés alóli mentesülés megszűnését követően – (3) bekezdés szerint határidő tűzésével – kötelezheti a munkáltató a védőoltás felvételére.
+
+(14) A védőoltás felvételének ellenőrzése céljából a munkáltató kezeli
+
+- a) a foglalkoztatott nevét, születési helyét és idejét,
+- b) a foglalkoztatott Társadalombiztosítási Azonosító Jelét,
+- c) a védőoltás típusát és a dózisainak számát,
+- d) a védőoltás felvételének időpontját,
+- e) a védőoltás ellenjavallatára vonatkozó – (6) bekezdés szerinti orvosi szakvéleményben szereplő – adatokat,
+- f) a rendelkezésre állási és a munkavégzési kötelezettség alóli mentesülés tényét és a mentesülés megszűnésének várható időpontját, ha a (13) bekezdés alkalmazására kerül sor.
+
+(15) A munkáltató a (14) bekezdés szerinti adatokat csak az adatkezelés céljának megvalósításához szükséges mértékben, de legfeljebb az oltási kötelezettség teljesítését követő 6. hónap végéig kezelheti. Ha a foglalkoztatott foglalkoztatásra irányuló jogviszonya az oltási kötelezettség nem teljesítése miatt megszűnik vagy megszüntetésre kerül, akkor a munkáltató a (14) bekezdés szerinti adatokat az érintett foglalkoztatására irányuló jogviszony megszűnését vagy megszüntetését követő egy évig kezeli.
+
+(16) A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény hatálya alá tartozó rendvédelmi feladatokat ellátó szervnél foglalkoztatottak esetében a munkavégzés feltételeként védőoltás felvételét az (1) bekezdéstől eltérően a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 2. § 18. pontja szerinti országos főigazgató, illetve 19. pontja szerinti országos parancsnok állapíthatja meg a rendvédelmi szervet irányító miniszter jóváhagyásával.
+
+(17) E § rendelkezései nem alkalmazhatóak a bíróságok szervezetében és az ügyészség szervezetében foglalkoztatottak esetében.
 
 ### XV. Fejezet — EGÉSZSÉGÜGYI SZAKÉRTŐI TEVÉKENYSÉG
 
@@ -4181,6 +4400,8 @@ amelyről az átadó és az átvevő szolgáltatót valamint az egészségügyi 
 - c) az átvevő szolgáltató kijelöléséről,
 - d) a szolgáltatóváltással kapcsolatos egyéb jogairól és kötelezettségeiről, ennek keretében arról, hogy átadó, az átvételre kijelölt és a választott egészségügyi szolgáltatóhoz címzett egybehangzó nyilatkozattal a kijelölt szolgáltató helyett más, a 169. § (2) bekezdése szerinti feltételeknek megfelelő egészségügyi szolgáltatót is választhat továbbá az átadott és átvett embrió egészséges fejlődését biztosító, a (14) bekezdés szerinti intézkedések módjáról.
 
+(18a) A (18) bekezdés szerinti tájékoztatással kapcsolatos feladatokat az átvevő szolgáltató helyett az egészségügy irányításáért felelős szerv is végezheti. Az in vitro fertilizációs eljárások egyes veszélyhelyzeti szabályairól szóló 155/2022. (IV. 14.) Korm. rendelet alapján átadott adatokat a (18) bekezdés szerinti tájékoztatás megtörténtét követően legkésőbb 8 napon belül törli.
+
 (19) Az az egészségügyi szolgáltató, amelynek reprodukciós eljárás végzésére jogosító működési engedélye a (9) bekezdés alapján hatályát veszti, állami kártalanításra jogosult. A kártalanítás mértéke megegyezik az egészségügyi szolgáltató működési engedélyének hatályvesztését megelőző öt üzleti év – amennyiben működését később kezdte meg az adott évek – állami átvétellel érintett gazdasági tevékenységéből származó, mérleg szerinti eredménye átlagának összegével. A kártalanítás mértékét a az állami vagyon felügyeletéért felelős miniszter állapítja meg.
 
 (20) Ha a tulajdonos azon egészségügyi szolgáltatót, amely esetében a reprodukciós eljárás végzésére jogosító működési engedély a (9) bekezdés alapján hatályát veszti, az állam javára 2022. január 31. napjáig felajánlja megvásárlásra, legfeljebb az egészségügyi szolgáltató 2020. december 31. fordulónapi, független szakértő által megállapított piaci értéke szerinti vételárra jogosult, amennyiben a felajánlás elfogadásáról a magyar állam nevében a Kormány dönt.
@@ -4277,6 +4498,8 @@ személyek Társadalombiztosítási Azonosító Jelét, akik a munkakörükbe ta
 
 - a) a minőségellenőrzésért felelős egészségügyi államigazgatási szervet,
 - b) a 159. § (7) bekezdés szerinti szervet vagy szerveket
+- c) 232/B. § (14) bekezdése szerinti egészségügyi államigazgatási szervet,
+- d) 232/B. § (17) bekezdése szerinti feltételeket
 
 rendeletben kijelölje.
 
@@ -4344,6 +4567,21 @@ rendeletben megállapítsa.
 - a) egészségügyi válsághelyzet elrendelésével járványügyi készültséget vezessen be,
 - b) rendelkezzen Operatív Törzs létrehozásáról, valamint az Operatív Törzs összetételére, szervezetére és működésére vonatkozó szabályokat meghatározza,
 - c) egészségügyi válsághelyzetben a 232/D. § (1) bekezdése szerinti intézkedéseket meghozza, illetve rendelkezéseket megállapítsa.
+
+(1c) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg:
+
+- a) a 74/C. § (1) bekezdése szerinti esetben a fertőzés típusát,
+- b) a 74/C. § (1) bekezdése szerinti körülmény fennállására tekintettel a védettség igazolása milyen módon – védettségi igazolvány, illetve applikáció útján – történik,
+- c) a 74/C. § (1) bekezdése szerinti fertőzés elleni védettség igazolása melyik, a 74/C. § (1) bekezdése szerinti tény igazolásával történhet,
+- d) – ha a 74/C. § (1) bekezdés a) pontja szerinti tény igazolása is a védettség igazolásának módja – a felgyógyultság igazolásának részletes szabályait,
+- e) a védettségi igazolvány adattartalmát, annak megjelenítésének módját,
+- f) az applikáció adattartalmát,
+- g) a védettségi igazolvány kiállításával, illetve az applikáció működésével kapcsolatos részletes szabályokat,
+- h) a védettség érvényességének számítását,
+- i) a 74/E. § (1) bekezdése szerinti kiállító hatóságot,
+- j) a 74/E. § szerinti eljárásban közreműködő adatfeldolgozókat,
+- k) a 74/K. § (1) bekezdése szerinti szolgáltatásokat, üzlethelyiségeket, egyéb helyeket, eseteket, a védettség igazolásához szükséges okmányokat,
+- l) a 74/K. § (2) bekezdése szerinti személyeket.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
@@ -4469,6 +4707,13 @@ fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a d
 - h) a miniszter, hogy a terrorizmus elleni küzdelemért felelős miniszterrel egyetértésben az egészségügyi intézmények terrorveszély idején ellátandó feladatait, működési és jelentési rendjét, a terrorizmus elleni védelmével kapcsolatos intézkedések körét és az erre való felkészülés részletes szabályait
 - i) a büntetés-végrehajtásért felelős miniszter, hogy – a miniszterrel és az igazságügyért felelős miniszterrel egyetértésben – a büntetés-végrehajtási intézetekben fogvatartottak élelmezési szakmai és táplálkozás-egészségügyi követelményeire vonatkozó szabályokat,
 - j) az állami vagyon felügyeletéért felelős miniszter, hogy a 244/A. § (19) bekezdés szerinti kártalanítás mértékét
+
+rendeletben állapítsa meg.
+
+(5a) Felhatalmazást kap
+
+- a) a közigazgatás-szervezésért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – a védettségi igazolvány kiállításáért fizetendő igazgatási szolgáltatási díjat, a díj megfizetésével, beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
+- b) a külpolitikáért felelős miniszter, hogy – az egészségügyért felelős miniszterrel és a közbiztonságért felelős miniszterrel egyetértésben – a 74/J. § (2) bekezdése szerinti országokat
 
 rendeletben állapítsa meg.
 
