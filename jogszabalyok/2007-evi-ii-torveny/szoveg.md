@@ -2010,7 +2010,7 @@ szerinti állam vonatkozásában.
 
 ### A kapcsolattartás általános szabályai
 
-86/H. § (1) A 86/J. § (4) bekezdésében meghatározott esetben az eljáró idegenrendészeti hatóság az eljárás során a foglalkoztatóval is kapcsolatot tarthat, de a foglalkoztatónak küldött irat tartalmáról az ügyfelet értesíteni kell.
+86/H. § (1) A 86/J. § (4) bekezdésében meghatározott esetben az eljáró idegenrendészeti hatóság az eljárás során a foglalkoztatóval is kapcsolatot tarthat, de a foglalkoztatónak küldött irat tartalmáról az ügyfelet értesíteni kell. Ha az eljáró idegenrendészeti hatóság nem a foglalkoztatóval tart kapcsolatot, az ügyfélnek küldött irat tartalmáról a foglalkoztatót értesíteni kell.
 
 (2) E törvény eltérő rendelkezése hiányában az idegenrendészeti hatóság az ügyféllel postai úton csak belföldi postai cím esetén tarthatja a kapcsolatot.
 

@@ -53,6 +53,8 @@ A munka és a foglalkozás szabad megválasztásához való jog gyakorlásának 
 - a) az idegenrendészeti hatóság által a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott összevont kérelmezési eljárás alapján kiadott tartózkodási engedély, vagy
 - b) a nem összevont kérelmezési eljárás alapján kiadott tartózkodásra jogosító engedélyt kérelmező harmadik országbeli állampolgár magyarországi foglalkoztatásához kiadott munkavállalási engedély alapján létesíthet foglalkoztatásra irányuló jogviszonyt.
 
+(1a) Az (1) bekezdésben meghatározott személy magyarországi foglalkoztatása tekintetében a Kormány rendeletben az Mt. 214. § (1) bekezdés f) pontja szerinti minősített kölcsönbeadónál történő foglalkoztatás esetére is megállapíthat munkavállalási engedély alóli mentességet.
+
 (2) Az engedélyezési kötelezettség alá tartozó foglalkoztatásra irányuló jogviszony létesítéséhez szükséges szerződés – a (10) bekezdésben foglalt kivétellel – csak az (1) bekezdésben meghatározott engedély beszerzését követően köthető meg.
 
 (3) A Kormány a 2. § (2) bekezdésében foglaltakon túlmenően, rendeletben mentességi eseteket határozhat meg.
@@ -69,9 +71,9 @@ rendeletben állapítsa meg.
 
 (5) Felhatalmazást kap a Kormány, hogy a szabad mozgás és tartózkodás jogával rendelkező személy foglalkoztatása tekintetében nemzetközi szerződésben vagy európai közösségi jogi aktusban foglaltak szerint a 2. § (2) bekezdésében meghatározott egyenlő bánásmód követelményétől eltérő szabályokat állapítson meg.
 
-(6) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter), hogy – a szabályozással érintett foglalkozás szerint feladatkörrel rendelkező miniszterekkel egyetértésben – rendeletben határozza meg
+(6) Felhatalmazást kap a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter, hogy – a szabályozással érintett foglalkozás szerint feladatkörrel rendelkező miniszterekkel egyetértésben – rendeletben határozza meg
 
-- a) a Magyarországon egyidejűleg összesen, valamint az egyes állami foglalkoztatási szervek illetékességi területén, továbbá az egyes foglalkozásokban foglalkoztatható harmadik országbeli állampolgárok – ideértve az (1) bekezdésben meghatározott engedély alapján foglalkoztatásra irányuló jogviszonyt létesítő harmadik országbeli állampolgárokat is – legmagasabb számát,
+- a) a foglalkoztatáspolitikáért felelős miniszterrel (a továbbiakban: miniszter) egyetértésben a Magyarországon egyidejűleg összesen, valamint az egyes állami foglalkoztatási szervek illetékességi területén, továbbá az egyes foglalkozásokban foglalkoztatható harmadik országbeli állampolgárok – ideértve az (1) bekezdésben meghatározott engedély alapján foglalkoztatásra irányuló jogviszonyt létesítő harmadik országbeli állampolgárokat is – legmagasabb számát,
 - b) azokat a foglalkozásokat, amelyekben a magyarországi munkanélküliség alakulására és összetételére tekintettel harmadik országbeli állampolgár – ideértve az (1) bekezdés a) pontjában meghatározott engedély alapján foglalkoztatásra irányuló jogviszonyt létesítő harmadik országbeli állampolgárokat is – nem foglalkoztatható, valamint
 - c) az EU Kék Kártya alapján, Magyarországon foglalkoztatásra irányuló jogviszonyt létesítő harmadik országbeli állampolgár részére fizetendő minimális díjazás mértékének kiszámítási módját.
 

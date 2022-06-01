@@ -883,7 +883,7 @@ azt a hagyatékból ki kell hagyni, egyben – az a) és b) pontban foglalt eset
 
 ### Az eljárás befejezését követő intézkedések
 
-91. § (1) A fellebbezéssel megtámadható végzés jogerőre emelkedését a közjegyző állapítja meg. A jogerőre emelkedésről az érdekelteket külön értesíteni nem kell, de az érdekelt kérelmére a végzés bemutatott kiadmányaira rá kell vezetni a jogerőre emelkedést tanúsító záradékot.
+91. § (1) A fellebbezéssel megtámadható végzés jogerőre emelkedését a közjegyző állapítja meg. A jogerőre emelkedésről az érdekelteket – kivéve a vagyontárgyat törvényes öröklés útján megszerző államot – külön értesíteni nem kell, de az érdekelt kérelmére a végzés bemutatott kiadmányaira rá kell vezetni a jogerőre emelkedést tanúsító záradékot.
 
 (2) Ha a hagyatékot teljes hatállyal átadó végzés vagy a teljes hatályúvá vált ideiglenes hatályú hagyatékátadó végzés jogkövetkezményeinek foganatosításához közhiteles nyilvántartásba való bejegyzés szükséges, annak foganatosítása iránt a közjegyző a nyilvántartást vezető belföldi hatóságot a végzés egy példányának megküldésével megkeresi.
 

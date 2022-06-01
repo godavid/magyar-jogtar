@@ -103,6 +103,8 @@ rendeletben határozza meg.
 
 13/A. § A 13. §-ban foglaltaktól eltérően a Közbeszerzési és Ellátási Főigazgatóság gyakorolja az államot megillető tulajdonosi jogok és kötelezettségek összességét az Egészségügyi Szolgáltató Zártkörűen Működő Részvénytársaság felett.
 
+13/B. § A 13. §-ban foglaltaktól eltérően a Közbeszerzési és Ellátási Főigazgatóság gyakorolja az államot megillető tulajdonosi jogok és kötelezettségek összességét a Központi Humánfejlesztési Nonprofit Korlátolt Felelősségű Társaság (székhely: 1054 Budapest, Hold utca 1., cégjegyzékszám: 01-09-073183) felett.
+
 14. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
 (2) A 17–19. §, a 23. § a) és b) pontja, a 28. §, a 30. §, a 31. § (2) bekezdése, 33. § b) és d) pontja 2012. július 1-jén lép hatályba.

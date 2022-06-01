@@ -657,13 +657,13 @@ kötheti.
 - e) ellátja a hulladékgazdálkodás ágazati, szakmapolitikai felügyeletét,
 - f) ellátja az elhagyott hulladék felszámolására vonatkozó jogszabályokban meghatározott feladatok koordinációját.
 
-(2) A Hivatal megállapítja, hogy a közszolgáltató, valamint a közszolgáltatói alvállalkozó tevékenysége megfelel-e az Országos Hulladékgazdálkodási Közszolgáltatási Tervben foglaltaknak, és arról – a (4e) bekezdésben foglalt feladatok ellátására az állam által létrehozott koordináló szerv (a továbbiakban: Koordináló szerv) véleményének kikérését követően – véleményt állít ki (a továbbiakban: megfelelőségi vélemény).
+(2) A Hivatal – a közszolgáltató és a közszolgáltatói alvállalkozó kérelmére – megállapítja, hogy a közszolgáltató, valamint a közszolgáltatói alvállalkozó tevékenysége megfelel-e az Országos Hulladékgazdálkodási Közszolgáltatási Tervben foglaltaknak, és arról – a (4e) bekezdésben foglalt feladatok ellátására az állam által létrehozott koordináló szerv (a továbbiakban: Koordináló szerv) véleményének kikérését követően – véleményt állít ki (a továbbiakban: megfelelőségi vélemény).
 
 (3) A Hivatal a (2) bekezdésben meghatározott feladatainak ellátása érdekében jogszabályban meghatározott tartalommal a feladatköréhez tartozó nyilvántartást vezet, amelyhez minden, a Hivatal feladatkörével érintett szervezet adatot szolgáltat. A Hivatal jogosult az OKIR Országos Környezetvédelmi Információs Rendszer hulladékgazdálkodási közszolgáltatással összefüggő adataihoz való hozzáférésre.
 
 (4) A Koordináló szerv, a hulladékgazdálkodási közszolgáltató és a közszolgáltatói alvállalkozó megad minden adatot és információt, amely a Hivatal megfelelőségi vélemény kiadásával kapcsolatos feladatának ellátásához szükséges.
 
-(4a) A megfelelőségi vélemény kiállítása iránti kérelmet a hulladékgazdálkodási közszolgáltató minden naptári év május 31. napjáig, a közszolgáltatói alvállalkozó minden naptári év június 30. napjáig az e törvény végrehajtására kiadott kormányrendeletben meghatározott formában és tartalommal nyújtja be.
+(4a) A közszolgáltató és a közszolgáltatói alvállalkozó a megfelelőségi véleményt minden naptári év június 30. napjáig köteles beszerezni.
 
 (4b) Annak a gazdálkodó szervezetnek, amely megfelelőségi véleménnyel nem rendelkezik, a közszolgáltatói, illetve a közszolgáltatói alvállalkozói tevékenység megkezdése előtt be kell szereznie a Hivatal által kiállított megfelelőségi véleményt.
 
@@ -2331,9 +2331,9 @@ kezdeményezheti az Európai Bizottságnál.
 - a) ha a települési önkormányzat hulladékgazdálkodási feladatai ellátása érdekében létrehozott társulásból való kiválása a Mód. tv. hatálybalépése előtt megtörtént, de a vagyon kiadása a Mötv. 90. § (5) bekezdése szerint elhalasztásra került és a vagyon kiadására vonatkozó megállapodás még nem került megkötésre, vagy
 - b) ha a települési önkormányzat hulladékgazdálkodási feladatai ellátása érdekében létrehozott társulásból való kiválása után a vagyon kiadására vonatkozó megállapodás a Mód. tv. hatálybalépése előtt már megkötésre került és az abban foglaltak szerint a vagyon tulajdonosként való rendelkezésre jogosító átengedése a Mód. tv. hatálybalépését követően valósul meg.
 
-92/F. § (1) A közszolgáltató részére a 2020. évben kiállított és 2021. július 31. napját megelőzően lejáró megfelelőségi vélemény hatálya 2021. július 31-ig meghosszabbodik.
+92/F. § (1) A közszolgáltató részére a 2020. évben kiállított és 2021. december 31. napját megelőzően lejáró megfelelőségi vélemény hatálya 2022. június 30-ig meghosszabbodik.
 
-(2) Az a gazdálkodó szervezet, amely közszolgáltatói vagy közszolgáltatói alvállalkozói tevékenységét 2021. január 1-jét követően kezdi meg, a megfelelőségi véleményt első alkalommal 2021. július 31. napjáig köteles beszerezni.
+(2) Az a gazdálkodó szervezet, amely közszolgáltatói tevékenységét 2021. január 1-jét követően kezdte meg, továbbá a közszolgáltatói alvállalkozó a megfelelőségi véleményt első alkalommal 2022. június 30. napjáig köteles beszerezni.
 
 (3) E törvény Mód. tv.-nyel megállapított 16/A. alcíme szerinti követelményeinek a 2018. július 4. előtt létrehozott kiterjesztett gyártói felelősségi rendszereknek 2023. január 5-től kell megfelelni.
 

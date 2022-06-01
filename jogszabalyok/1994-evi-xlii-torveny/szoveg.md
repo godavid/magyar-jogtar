@@ -16,7 +16,7 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 (4) Az Eximbankra és a Mehib Rt.-re a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) jogi személyekre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(5) Az Eximbank a 2. § (1) bekezdésében meghatározott tevékenységeket export- és importügyletekre, beszállítói ügyletekre, exportcélú befektetésekre, belföldi székhelyű gazdálkodó szervezet nemzetközi versenyképességet javító befektetéseire, beruházásaira, forgóeszközigényeire, nemzetközi segélyügyletekre, a magyar befektetők külföldi befektetéseire, továbbá külföldiek magyarországi beruházásaira vonatkozóan jogosult végezni.
+(5) Az Eximbank a 2. § (1) bekezdésében meghatározott tevékenységeket export- és importügyletekre, beszállítói ügyletekre, exportcélú befektetésekre, belföldi székhelyű gazdálkodó szervezet nemzetközi versenyképességet javító befektetéseire, beruházásaira, forgóeszközigényeire, nemzetközi segélyügyletekre, a magyar befektetők külföldi befektetéseire, külföldiek magyarországi beruházásaira vonatkozóan, továbbá a Kormány egyedi döntése alapján egyéb célokból jogosult végezni.
 
 (5a) E törvény alkalmazásában:
 
@@ -34,7 +34,7 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 (8) Az Eximbank a prudenciális követelmények tekintetében a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 575/2013/EU rendelet) szerint jár el az e törvényben foglalt eltérésekkel.
 
-2. § (1) Az Eximbank a magyar áruk és szolgáltatások exportjához, a beszállítói ügyletekhez, az exportcélú befektetésekhez, a belföldi székhelyű gazdálkodó szervezet nemzetközi versenyképességet javító befektetéseihez, beruházásaihoz, forgóeszközigényeihez, a nemzetközi segélyügyletekhez, a magyar befektetők külföldi befektetéseihez, valamint az importhoz, továbbá Magyarországon megvalósuló külföldi beruházásokhoz és azok érdekében létrejött jogviszonyokhoz kapcsolódó alábbi pénzügyi szolgáltatási tevékenységet, kiegészítő pénzügyi szolgáltatási tevékenységet és befektetési szolgáltatási tevékenységet végzi:
+2. § (1) Az Eximbank a magyar áruk és szolgáltatások exportjához, a beszállítói ügyletekhez, az exportcélú befektetésekhez, a belföldi székhelyű gazdálkodó szervezet nemzetközi versenyképességet javító befektetéseihez, beruházásaihoz, forgóeszközigényeihez, a nemzetközi segélyügyletekhez, a magyar befektetők külföldi befektetéseihez, valamint az importhoz, a Magyarországon megvalósuló külföldi beruházásokhoz és azok érdekében létrejött jogviszonyokhoz kapcsolódóan, továbbá a Kormány egyedi döntése alapján egyéb célokból az alábbi pénzügyi szolgáltatási tevékenységet, kiegészítő pénzügyi szolgáltatási tevékenységet és befektetési szolgáltatási tevékenységet végzi:
 
 - a) hitel és pénzkölcsön nyújtása;
 - b) kezesség és garancia vállalása, valamint egyéb bankári kötelezettség vállalása;
@@ -126,6 +126,10 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 4/A. § A Hpt.-ben foglaltakon túl a Gazdasági Együttműködési és Fejlesztési Szervezet tagországán kívüli országban székhellyel rendelkező pénzügyi intézmény, amelyben az állam, területi közigazgatási szervezet vagy helyi hatóság – külön-külön vagy együttesen, közvetlenül vagy közvetve – többségi részesedéssel rendelkezik, az Eximbank részére a Magyar Nemzeti Bank engedélye és magyarországi fióktelep létesítése nélkül is nyújthat hitelt és pénzkölcsönt.
 
+4/B. § A közbeszerzésekről szóló 2015. évi CXLIII. törvényt (a továbbiakban: Kbt.) nem kell alkalmazni az Eximbank által kötött olyan biztosítási, garancia- és kezességi szerződésekre, amelyeket az Eximbank az e törvény alapján nyújtott pénzügyi szolgáltatási tevékenységből, kiegészítő pénzügyi szolgáltatási tevékenységből és befektetési szolgáltatási tevékenységből eredő kockázatainak biztosítására köt.
+
+4/C. § A Kbt.-t nem kell alkalmazni a Mehib Rt. által a Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem piacképes kockázatú biztosítások feltételeiről szóló kormányrendelet alapján nyújtott nem piacképes kockázatú biztosításokra vonatkozó viszontbiztosítási, viszontgarancia- és viszontkezességi szerződések megkötésére.
+
 ### II. Fejezet — AZ EXIMBANK ÉS A MEHIB RT. KÖLTSÉGVETÉSI ÉS KORMÁNYZATI KAPCSOLATAI
 
 5. § A Kormánynak biztosítania kell az Eximbank és a Mehib. Rt. hosszú távú és stabil működőképességét.
@@ -136,7 +140,8 @@ Az Országgyűlés a Magyar Export-Import Bank Részvénytársaságról és a Ma
 
 - a) forrásszerzés céljából a 2. § (1) bekezdés g) pont ga) alpontja alapján elfogadott betétekből és igénybe vett hitelekből, felvett kölcsönökből, forrásszerzés céljából a 2. § (1) bekezdés g) pont gb) alpontja alapján kibocsátott kötvényekből,
 - b) kormányrendeletben előírt feltételekkel vállalt garanciaügyletek esetleges beváltásából,
-- c) a deviza- és kamatcsere ügyletek pótlási költségéből
+- c) a deviza- és kamatcsere ügyletek pótlási költségéből, valamint
+- d) a Kormány határozata alapján nyújtott hitel- és pénzkölcsönből
 
 eredő fizetési kötelezettségek teljesítéséért.
 
@@ -168,6 +173,7 @@ eredő fizetési kötelezettségek teljesítéséért.
 - c) a Mehib Rt. által az állam készfizető kezessége mellett vállalható biztosítási kötelezettségek és viszontbiztosításból eredő kötelezettségek állományának felső határát,
 - d) a kamatkiegyenlítési rendszer keretében az Eximbank által a központi költségvetéssel elszámolható kiegyenlítés forrásául szolgáló összeg előirányzatát,
 - e) az Eximbank által folyósított kötött segélyhitelekhez kapcsolódó, a központi költségvetés terhére nyújtott támogatások előirányzatát.
+- f) a Kormány határozata alapján nyújtott hitel- és kölcsönállomány felső határát.
 
 (2) Az (1) bekezdés a)–c) pontjában meghatározott fizetési kötelezettségek költségvetési fedezetét a Magyarország központi költségvetéséről szóló törvényben elkülönített előirányzatokban kell jóváhagyni.
 
@@ -179,7 +185,7 @@ eredő fizetési kötelezettségek teljesítéséért.
 
 8. § Az e törvény alapján vállalt jogszabályi állami kezességgel kapcsolatosan az Állam kezességvállalási díjat nem számol fel.
 
-8/A. § (1) Az Eximbank a költségvetés terhére vállalható garanciaügyletek beváltásából eredő követeléseket, valamint a követelések után járó kamatot és késedelmi kamatot, a Mehib Rt. a kormányrendeletben előírt feltételekkel biztosított követelések és a jogelődöktől átvett biztosítási szerződések alapján keletkező kárkintlévőségeket az állam megbízásából a központi költségvetés javára köteles behajtani, vagy harmadik személy útján behajtatni. Az Eximbank és a Mehib Rt. a követelés behajtása, vagy harmadik személy útján történő behajtatása során az államháztartásról szóló 2011. évi CXCV. törvény és a végrehajtására kiadott rendelet rendelkezéseinek figyelembevételével köteles eljárni.
+8/A. § (1) Az Eximbank a költségvetés terhére vállalható garanciaügyletek beváltásából, valamint a Kormány határozata alapján nyújtott, az Eximbank javára jogszabályi állami készfizető kezességgel fedezett hitel- és pénzkölcsönből eredő követeléseket, valamint a követelések után járó kamatot és késedelmi kamatot, a Mehib Rt. a kormányrendeletben előírt feltételekkel biztosított követelések és a jogelődöktől átvett biztosítási szerződések alapján keletkező kárkintlévőségeket az állam megbízásából a központi költségvetés javára köteles behajtani, vagy harmadik személy útján behajtatni. Az Eximbank és a Mehib Rt. a követelés behajtása, vagy harmadik személy útján történő behajtatása során az államháztartásról szóló 2011. évi CXCV. törvény és a végrehajtására kiadott rendelet rendelkezéseinek figyelembevételével köteles eljárni.
 
 (2) A befolyt követelések után az Eximbankot és a Mehib Rt.-t az államháztartásért felelős miniszter rendeletében meghatározott mértékű jutalék illeti meg. A jutalék alapja a behajtott tőke, a kamat és a késedelmi kamat. Amennyiben a követelés behajtása részben vagy egészben eredmény nélkül zárul, továbbá, ha a költségvetés terhére vállalt 6. § (1) és (2) bekezdése szerinti ügyletek beváltására a behajtás eredményessége miatt részben vagy egészben nem kerül sor, az Eximbankot és a Mehib Rt.-t – az államháztartásért felelős miniszter rendeletében meghatározott mértékű – az igazolt ráfordításaival arányos költségátalány illeti meg.
 
@@ -336,7 +342,7 @@ szerzett.
 - a) az Eximbank és a Mehib Rt. éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságait a pénzintézetek, valamint a biztosítóintézetek éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet külön rendelkezései között,
 - b) a Mehib Rt. által az állam készfizető kezessége mellett vállalható biztosítások, viszontbiztosítások tárgyát, a biztosítási eseményeket, valamint e biztosítások és viszontbiztosítások feltételeit és részletes szabályait, valamint az országok piacképesség szempontjából történő besorolását,
 - c) az Eximbank kamatkiegyenlítési rendszere részletes szabályait,
-- d) az Eximbank által az állam készfizető kezessége mellett vállalható garanciák és az állam készfizető kezességével végzett deviza- és kamatcsere ügyletei pótlási- és kamatköltségei részletes szabályait,
+- d) az Eximbank által az állam készfizető kezessége mellett vállalható garanciák és az állam készfizető kezességével végzett deviza- és kamatcsere ügyletei pótlási- és kamatköltségei, valamint a Kormány határozata alapján nyújtott hitel- és pénzkölcsönhöz kapcsolódó, az Eximbank javára fennálló állami készfizető kezesség részletes szabályait,
 - e) az Eximbank által folyósítható kötött segélyhitelek feltételeit és a segélyhitelnyújtás, segélyhitel ügyletek költségvetéssel történő elszámolásának és az ehhez kapcsolódó adatszolgáltatás részletes szabályait,
 - f) az Eximbank által a nemzetközi fejlesztési célú együttműködés keretében végezhető tevékenységek és azok költségvetéssel történő elszámolásának, az ehhez kapcsolódó adatszolgáltatás részletes szabályait.
 

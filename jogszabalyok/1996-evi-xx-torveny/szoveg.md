@@ -336,6 +336,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - r) az atomenergia-felügyeleti szerv az atomenergiáról szóló 1996. évi CXVI. törvény 16/A. §-ában meghatározott, Országos Személyi Dozimetriai Nyilvántartás vezetése során a sugárterhelésnek kitett munkavállalók egészségügyi nyomon követéséhez.
 - s) az önkormányzati adóhatóság a gépjárműadóról szóló 1991. évi LXXXII. törvény 5. § f) pontjában meghatározott adómentesség megállapítása, valamint a helyi adókról szóló 1990. évi C. törvény 14/A. §-a és 26/A. §-a szerinti adófelfüggesztés iránt benyújtott kérelem elbírálása és az adózással kapcsolatos nyilvántartás vezetése során.
 - t) a Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvény 2. §-a szerinti szervezet, valamint a Kormányzati Személyügyi Döntéstámogató Rendszer a Kormányzati Személyügyi Döntéstámogató Rendszerbe történő adatszolgáltatás érdekében.
+- u) az egészségügyről szóló törvény szerinti védettségi igazolványt kiállító hatóság, a védettségi igazolvány kiállítása érdekében.
 
 24. § A TAJ szám továbbítására jogosultak:
 
@@ -411,6 +412,8 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - y) az intézetben történt születést bejelentő egészségügyi szolgáltató a születés bejelentéséhez,
 - z) a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló kormányrendeletben megjelölt személy vagy szerv a haláleset bejelentéséhez.
 
+32/A. § Az adattovábbítás kivételével a személyi azonosító kezelésére a 32. §-ban foglaltakon kívül jogosult az egészségügyről szóló törvény szerinti védettségi igazolványt kiállító hatóság a védettségi igazolvány kiállítása érdekében.
+
 33. § (1) A polgár a személyi azonosítóját – személyazonosságának hitelt érdemlő igazolása mellett – a 32. §-ban felsorolt szerveknek az ott megjelölt feladataik ellátásához köteles megismerhetővé tenni.
 
 (2) A polgár az (1) bekezdés szerinti megismerhetővé tételt az összerendelési nyilvántartásra irányadó rendelkezések szerint is biztosíthatja, amennyiben ennek műszaki feltételei adottak.
@@ -477,6 +480,8 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 
 változásáról, valamint az érintett elhalálozása tényéről, idejéről.
 
+- n) a Szociálpolitikai Innovációs Közhasznú Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: SZIN Nonprofit Kft.) részére az Nytv. 24/L. §-ában meghatározott polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és idejének, lakóhelyének és tartózkodási helyének változásáról, továbbá az érintett külföldön történő letelepedéséről, valamint elhalálozása, holttá nyilvánítása tényéről és idejéről.
+
 (1a) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – a hallgatói hitelrendszert működtető szervezet erre irányuló igénye esetén adatszolgáltatási engedély alapján rendszeres adatátadást teljesít a hallgatói hitelrendszert működtető szervezet részére a hallgatói hitelt felvett polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, a külföldön történő letelepedésről, valamint az érintett elhalálozásáról.
 
 (1b) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – az élelmiszerlánc-felügyeleti szerv erre irányuló igénye esetén rendszeres adatátadást teljesít az élelmiszerlánc-felügyeleti szerv részére az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, a külföldön történő letelepedésről, valamint az érintett elhalálozásáról.
@@ -521,7 +526,7 @@ változásáról, valamint az érintett elhalálozása tényéről, idejéről.
 - h) a (2) bekezdés d) pontja szerinti közúti közlekedési nyilvántartás járműnyilvántartását vezető szerv, valamint kizárólag az érintett elhalálozása, vagy a nyilvántartásból történő kikerülésének egyéb oka, és időpontja adatok vonatkozásában a közúti közlekedési nyilvántartásról szóló törvény szerinti engedély-nyilvántartást vezető szerv,
 - i) az (1) bekezdés c) pontja szerinti nyugdíjbiztosítási nyilvántartást vezető társadalombiztosítási szerv,
 - j) az (1) bekezdés k) pontja szerinti kincstár,
-- k) az (1) bekezdés m) pontja szerinti adatváltozás-kezelési szolgáltató,
+- k) az (1) bekezdés m) pontja szerinti adatváltozás-kezelési szolgáltató, valamint az (1) bekezdés n) pontja szerinti SZIN Nonprofit Kft.,
 
 kivételével – az adatátadást kizárólag akkor kezdeményezhetik, ha jogszabályban előírt feladataik ellátása érdekében az általuk kezelt adatok időszerűségét biztosítani kell, és csak azokra az érintettekre vonatkozóan, akiknek az adataira nézve az időszerűséget biztosítani kell.
 

@@ -328,6 +328,8 @@ jogosult hatósági eljárás esetén, a döntés véglegessé válásának idő
 
 (3) A magyar légtér – a pilóta nélküli játék légijármű kivételével – pilóta nélküli légijárművel végrehajtott UAS-művelethez lakott terület felett eseti légtér kijelölése esetén vehető igénybe.
 
+(4) A (3) bekezdéstől eltérően a magyar légtérben a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 136. §-a szerinti jogi személy közszolgálati médiaszolgáltatási feladatai ellátása érdekében működtetett pilóta nélküli légijármű lakott terület felett eseti légtér kijelölése nélkül jogosult UAS-műveletet végrehajtani, továbbá a környezetvédelmi érdekből korlátozott légtérben is UAS-műveletet végrehajtani, a kormányhivatal előzetes tájékoztatása mellett.
+
 ### A magyar légtér igénybevétele
 
 6. § (1) A magyar légteret az a légijármű veheti igénybe,

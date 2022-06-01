@@ -66,7 +66,9 @@ A szénhidrogén tulajdonjoga az a) pontban meghatározott összeg megfizetésé
 (1a) Az ásványi nyersanyag a kitermeléssel
 
 - a) az (1b) bekezdés szerinti eset kivételével a bányafelügyelet engedélyétől eltérő, más hatósági engedéllyel rendelkező,
-- b) katasztrófaveszély vagy az Alaptörvény 53. cikke szerinti veszélyhelyzet megszűnését követően más célra történő felhasználás, hasznosítás vagy értékesítés esetén a megyei, fővárosi védelmi bizottság határozata szerint kitermelésre jogosult személy tulajdonába kerül.
+- b) katasztrófaveszély vagy az Alaptörvény 53. cikke szerinti veszélyhelyzet megszűnését követően más célra történő felhasználás, hasznosítás vagy értékesítés esetén a megyei, fővárosi védelmi bizottság határozata szerint kitermelésre jogosult
+
+személy tulajdonába kerül.
 
 (1b) Nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra beruházás esetén a törvény alapján a magyar állam nevében és javára eljáró építtető részére kiadott, a bányafelügyelet engedélyétől eltérő, más hatósági engedély alapján kitermelt és
 
@@ -787,6 +789,25 @@ a piacfelügyeleti intézkedésre okot adó állapot időtartama alatt.
 - b) hivatalból felülvizsgálja a piacfelügyeleti intézkedésre okot adó állapottal érintett ásványi nyersanyagvagyonnal rendelkező bányatelekre vonatkozó érvényes kitermelési műszaki üzemi tervet, és amennyiben az nem felel meg az (1) bekezdés szerinti rendeletben meghatározottaknak, határidő tűzésével kötelezi a bányavállalkozót a kitermelési műszaki üzemi terv módosítására és bányafelügyelet részére történő benyújtására.
 
 (4) A bányafelügyelet a (3) bekezdés szerinti eljárásban, illetve külön kérelemre új eljárásban az (1) bekezdés szerinti rendeletben meghatározott kitermelendő mennyiségtől és kitermelési ütemtervtől – ide nem értve azt az esetet, ha a bányavállalkozó a kitermelést önhibáján kívüli okból nem tudja teljesíteni – kizárólag az (1) bekezdés szerinti rendeletben meghatározott esetekben és módon térhet el.
+
+27/C. § (1) Piacfelügyeleti intézkedésre okot adó állapot esetén a (2) bekezdés szerinti vállalkozás az e § szerinti kiegészítő bányajáradék fizetésére köteles.
+
+(2) Kiegészítő bányajáradék fizetésére köteles az a vállalkozás, amely
+
+- a) a 20. § (2) bekezdés a) és b) pontja szerint bányajáradék fizetésére köteles, és
+- b) főtevékenységként
+  - ba) építőipari nyers- és alapanyag bányászata, valamint
+  - bb) építési alapanyagként szolgáló termék gyártása
+
+tevékenységi körön belül a Hatóság elnöke által rendeletben meghatározott gazdasági tevékenységet végez, és
+
+- c) a Hatóság elnöke által rendeletben megállapított piacfelügyeleti intézkedésre okot adó állapotot megelőző második adóévben az árbevétele – ide nem értve a társasági adóról és az osztalékadóról szóló törvény szerinti kapcsolt vállalkozást – elérte vagy meghaladta a 3 000 000 000 forintot.
+
+(3) A (2) bekezdés b) pontja alkalmazásában főtevékenység az a TEÁOR nómenklatúra szerinti gazdasági tevékenység, amelyet a vállalkozás a piacfelügyeleti intézkedésre okot adó állapot hatálybalépését megelőző második adóév során, bármely időpontban főtevékenységként végzett.
+
+(4) A (2) bekezdés szerinti fizetésre kötelezett az általa kitermelt vagy feldolgozott, építési alapanyagként szolgáló termékeknek a Hatóság elnöke rendeletében – a 27/A. § (3) bekezdésében foglalt szempontokat figyelembe véve – megállapított, általános forgalmi adó nélkül számított viszonyítási egységáron felüli értékesítése esetén a tényleges árbevétel, az értékesített mennyiség és a viszonyítási egységár alapján megállapított árbevétel különbségének 90 százalékát kiegészítő bányajáradékként fizeti meg.
+
+(5) A kiegészítő bányajáradékot forintban, havonta kell teljesíteni, a tárgyhót követő hónap 15. napjáig. A befizetett kiegészítő bányajáradék költségként számolható el.
 
 ### Üzemeltetési szabályok
 
@@ -1947,7 +1968,7 @@ bányahatósági felügyelete
 - 1.
 - 2.
 - 3. a koncessziós pályázatok értékelését végző, a koncesszióról szóló 1991. évi XVI. törvény 30/A. § c) pontja szerinti bizottság létrehozására és összetételére,
-- 4. a bányajáradékra, annak befizetésére, továbbá a szabálytalanul végzett bányászati tevékenység miatt kiesett bányajáradék pótlására szolgáló térítésre, illetve díjfizetésre,
+- 4. a bányajáradékra, annak és a 27/C. § szerinti kiegészítő bányajáradék befizetésére, továbbá a szabálytalanul végzett bányászati tevékenység miatt kiesett bányajáradék pótlására szolgáló térítésre, illetve díjfizetésre,
 - 5.
 - 6.
 - 7.
@@ -2070,6 +2091,7 @@ vonatkozó részletes szabályok rendeletben történő megállapítására.
 - h) a piacfelügyeleti intézkedésre okot adó állapot fennállását,
 - i) a 27/B. § (1) bekezdése szerinti szabályokat és követelményeket,
 - j) a bányafelügyelet piacfelügyeleti intézkedésre okot adó állapot alapján lefolytatandó eljárásainak részletes szabályait.
+- k) a 27/C. § szerinti kiegészítő bányajáradékkal érintett termékek piacfelügyeleti intézkedésre okot adó állapot időtartama alatt figyelembevételre kerülő viszonyítási egységárát, valamint a kiegészítő bányajáradék fizetési kötelezettséget megalapozó – a 27/C. § (2) bekezdés b) pontjában meghatározott tevékenységi körökön belüli – gazdasági tevékenységet,
 
 (2) Felhatalmazást kap a miniszter
 

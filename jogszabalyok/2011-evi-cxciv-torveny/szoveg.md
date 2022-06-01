@@ -285,6 +285,8 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 
 (2) Az államadósság-kezeléssel kapcsolatos polgári jogi jogviszonyban az államot az államháztartásért felelős miniszter képviseli, ezt a képviseleti jogát az államháztartásért felelős miniszter az ÁKK Zrt. útján is gyakorolhatja vagy írásban az ÁKK Zrt.-re átruházhatja.
 
+(2a) A (2) bekezdést azzal az eltéréssel kell alkalmazni, hogy a magyar állam által belföldön nyomdai úton előállított értékpapírként kibocsátásra kerülő állampapírok okiratán a kibocsátó magyar állam képviseletében eljárva az államháztartásért felelős miniszter vagy a miniszterelnök aláírása szerepel.
+
 (3) Az ÁKK Zrt. által az államadósság-kezelés körében megkötött ügylet az állam javára, illetve terhére megkötött ügyletnek minősül.
 
 14/A. § (1) Az államháztartás központi alrendszerének finanszírozásával és adósságának kezelésével kapcsolatos, a 13. § (1) bekezdés b) pontjában meghatározott adat megismerése iránti igényt központi pénzügyi érdekből az adat keletkezésétől számított 2 évig el kell utasítani, ha az adat megismerése Magyarország pénzügyi érdekeit vagy az államháztartás finanszírozásának, illetve adóssága kezelésének külső befolyástól mentes ellátását veszélyezteti. Az e bekezdés szerinti igény teljesíthetőségéről Magyarország pénzügyi érdekeit és az államháztartás finanszírozásának, illetve adóssága kezelésének külső befolyástól mentes ellátásához fűződő érdeket mérlegelve az államháztartásért felelős miniszter dönt.

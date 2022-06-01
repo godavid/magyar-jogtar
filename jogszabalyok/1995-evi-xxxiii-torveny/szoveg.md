@@ -286,7 +286,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 ### A szabadalmi oltalom fenntartása
 
-23. § (1) A szabadalmi oltalom tartamára évenként, az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott fenntartási díjat kell fizetni. A díj az első évre a bejelentés napján, a további évekre a bejelentés napjának megfelelő naptári napon előre esedékes.
+23. § (1) A szabadalmi oltalom tartamára, a negyedik évtől évenként, az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott fenntartási díjat kell fizetni. A negyedik évre szóló díj a bejelentés napjától számított három év lejártával, a további évekre a bejelentés napjának megfelelő naptári napon előre esedékes.
 
 (2) A szabadalmi bejelentés közzétételét megelőzően esedékessé vált fenntartási díjat a közzétételtől, a minősített adatként kezelt bejelentés alapján megadott szabadalom megadását megelőzően esedékessé vált fenntartási díjat a megadó határozat jogerőre emelkedésétől, a többi fenntartási díjat pedig az esedékességtől számított hat hónapos türelmi idő alatt is meg lehet fizetni.
 
@@ -2539,6 +2539,8 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 (5) A törvény hatálybalépésekor hatályos szabadalmak nyilvántartására, fenntartására, megszűnésére és újra érvénybe helyezésére a továbbiakban e törvény rendelkezéseit kell alkalmazni azzal, hogy a szabadalom megsemmisítésének feltételeire az elsőbbség időpontjában hatályos szabályok az irányadók.
 
 (6) E törvénynek az egyes igazságügyi tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXII. törvény által megállapított 44. § (2) bekezdés c) pontját, 80. § (6) és (7) bekezdését, 104. § (1a)–(2a), (12a) és (14) bekezdését a 2022. január 1. napján vagy azt követően indult eljárásokban kell alkalmazni.
+
+(7) E törvénynek a veszélyhelyzettel összefüggő egyes szabályozási kérdésekről szóló 2021. évi CXXX. törvény által megállapított 23. § (1) bekezdését a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően esedékessé váló díjak esetében kell alkalmazni.
 
 116. § E törvénynek a Magyar Köztársaság minisztériumainak felsorolásáról szóló 2010. évi XLII. törvénnyel összefüggésben szükséges törvénymódosításokról és egyes iparjogvédelmi tárgyú törvények módosításáról szóló 2010. évi CXLVIII. törvénnyel megállapított 84/G. §-át és 84/H. §-át azokra az európai szabadalmakra kell alkalmazni, amelyek esetében a megadásról szóló értesítést 2011. január 1-jét követően hirdették meg az Európai Szabadalmi Közlönyben.
 
