@@ -324,7 +324,9 @@ amennyiben Magyarországon egészségügyi szolgáltatást nem az uniós rendele
 
 (12)
 
-(13)–(14)
+(13)
+
+(14)
 
 18/A. § (1) Az egészségügyi és hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény (a továbbiakban: Eüak.) szerinti, Elektronikus Egészségügyi Szolgáltatási Tér (a továbbiakban: EESZT) működtetője (a továbbiakban: működtető) biztosítja, hogy a beutaló elektronikus úton is kiállítható, valamint az EESZT útján továbbítható legyen.
 
@@ -526,7 +528,8 @@ megfelelően kell eljárni.
 - a) 18 éves életkor alatt fogszabályozó készülékre;
 - b)
 - c) a rágóképesség helyreállítása érdekében miniszteri rendeletben meghatározott típusú fogpótlásra;
-- d)–e)
+- d)
+- e)
 - f)
 - g)
 - h)
@@ -1371,7 +1374,7 @@ de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
   - ha) aki 12 éves, vagy annál idősebb, de 18 évesnél fiatalabb beteg gyermekét otthon ápolja, vagy
   - hb) a 12 éves, vagy annál idősebb, de 18 évesnél fiatalabb gyermeke kórházi kezelése időtartamára abban az esetben, ha a szülő a gyermeke mellett tartózkodik a fekvőbeteg ellátást nyújtó intézményben.
 
-44/A. § Az a biztosított, aki részére magánútlevéllel, valamint egyéb úti okmánnyal végrehajtott, nem hivatalos célú külföldről Magyarország területére történő beutazáskor az egészségügyről szóló 1997. évi CLIV. törvény 67/A. § (1) bekezdés a) pontja alapján hatósági házi karantént rendeltek el, nem minősül keresőképtelennek.
+#### 44/A. §
 
 45. § (1) A betegség okozta keresőképtelenség elbírálásánál az a foglalkozás, illetőleg az a munkakör az irányadó, amelyben a biztosított a keresőképtelenségét közvetlenül megelőzően dolgozott.
 
@@ -2019,6 +2022,19 @@ kell érteni.
 82/Q. § Az egyes szociális, gyermekvédelmi tárgyú, valamint egyéb kapcsolódó törvények módosításáról szóló 2018. évi CXVII. törvénnyel megállapított 42/H. § szerinti örökbefogadói díjra való jogosultságra vonatkozó rendelkezéseket – ha az egyéb jogosultsági feltételek fennállnak – a 2019. december 31-ét követően örökbefogadási szándékkal nevelésbe vett gyermekek esetén kell alkalmazni.
 
 82/R. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvénynek a csecsemőgondozási díj emelésével összefüggő módosításáról szóló 2020. évi CXXXIV. törvény által megállapított 42. § (1) bekezdés a) és b) pontját a 2021. július 1-jén fennálló jogosultságra is alkalmazni kell.
+
+82/S. § (1) A Magyarország 2022. évi központi költségvetésének megalapozásáról szóló 2021. évi LXXXIX. törvénnyel megállapított
+
+- a) 5/B. § f) pontjában,
+- b) „Utazási költségtérítési támogatás” alcímben,
+- c) 29. § (7) bekezdésében, valamint
+- d) 62. § (2a) és (2b) bekezdésében
+
+foglalt rendelkezések helyett a 2021. december 31-én hatályos 5/B. § f) pontjában, „Utazási költségtérítés” alcímben, 29. § (7) bekezdésében, valamint 62. § (2a) és (2b) bekezdésében foglalt rendelkezéseket kell alkalmazni 2022. július 1-jéig.
+
+(2) A biztosított az utazási költségeihez nyújtott támogatásra való jogosultságát 2022. július 1-jéig a beutaló orvos által, vagy ha az ellátásra – azonnali ellátás szükségessége miatt – beutaló nélkül került sor, az ellátást nyújtó egészségügyi szolgáltató orvosa által kiállított igazolással igazolja.
+
+(3) E törvénynek a Magyarország 2022. évi központi költségvetésének megalapozásáról szóló 2021. évi LXXXIX. törvénnyel megállapított 61. § (6) bekezdését 2022. július 1-jéig nem kell alkalmazni.
 
 ### Záró rendelkezések
 

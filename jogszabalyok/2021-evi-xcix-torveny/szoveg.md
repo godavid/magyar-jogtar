@@ -35,13 +35,15 @@ Az Országgyűlés annak érdekében, hogy a Kormány a SARS-CoV-2 koronavírus 
 
 (3) A (2) bekezdés szerinti bértámogatás tekintetében a munkaadó a visszafizetési kötelezettség megállapításától számított harmincadik napig fizetési moratórium iránti kérelmet nyújthat be, amely alapján az illetékes fővárosi és megyei kormányhivatal 2022. május 31. napjával állapítja meg a visszakövetelés napját és ettől az időponttól számítva három hónap időtartamra járó részletfizetési kedvezményt biztosít.
 
-(4) Az önfoglalkoztatók kompenzációs támogatásáról szóló 310/2021. (VI. 7.) Korm. rendelet szerinti támogatási szabályok 2022. június 30-ig alkalmazandóak, azzal, hogy a támogatás iránti kérelem e törvény hatálybalépését követően nem nyújtható be.
+(4) Az önfoglalkoztatók kompenzációs támogatásáról szóló 310/2021. (VI. 7.) Korm. rendelet szerinti támogatási szabályok 2022. augusztus 31-ig alkalmazandóak, azzal, hogy a támogatás iránti kérelem e törvény hatálybalépését követően nem nyújtható be.
+
+(5) A (4) bekezdés alkalmazásában az önfoglalkoztatók egyszeri kompenzációs támogatásában részesült személy a vállalkozását nem szüntetheti meg 2022. június 30-ig.
 
 #### 6. Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény rendelkezéseinek eltérő alkalmazása
 
 6. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény rendelkezéseit az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
 
-7. § (1) Ha az igazságügyi alkalmazotti álláspályázatok kiírásához kapcsolódó eljárási cselekményekre vonatkozó határidő a veszélyhelyzet ideje alatt járt le, a határidő újrakezdődik a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő első napon.
+7. § (1) Az igazságügyi alkalmazotti álláspályázatok kiírásához kapcsolódó eljárási cselekmények tekintetében a 2021. október 3. napján újrakezdődött határidő figyelembevételével kell eljárni.
 
 (2) Ha a veszélyhelyzet ideje alatt a folyamatban lévő igazságügyi alkalmazotti álláspályázati eljárások lefolytatása nem volt lehetséges, a soron következő eljárási cselekményt a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően kell megtenni. Az eljárási cselekmény elvégzésére meghatározott határidő kezdőnapja a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő nap.
 
@@ -57,11 +59,11 @@ Az Országgyűlés annak érdekében, hogy a Kormány a SARS-CoV-2 koronavírus 
 
 8. § A bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény rendelkezéseit az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
 
-9. § (1) Ha az ítélőtábla, a törvényszék és járásbíróság elnöke, valamint a Kúria, az ítélőtábla, a törvényszék és a járásbíróság elnökhelyettese, továbbá a kollégiumvezető, a kollégiumvezető-helyettes, a csoportvezető és a csoportvezető-helyettes (a továbbiakban e bekezdésben együtt: bírósági vezető) határozott idejű bírósági vezetői kinevezése a veszélyhelyzet idején járt le, a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően a bírósági vezetői pályázatot haladéktalanul ki kell írni. A vezetői pályázat elbírálásáig a kinevezésre jogosult a bírósági vezetői állást megbízás útján töltheti be.
+9. § (1) Ha az ítélőtábla, a törvényszék és járásbíróság elnöke, valamint a Kúria, az ítélőtábla, a törvényszék és a járásbíróság elnökhelyettese, továbbá a kollégiumvezető, a kollégiumvezető-helyettes, a csoportvezető és a csoportvezető-helyettes [e bekezdés alkalmazásában a továbbiakban együtt: bírósági vezető] kinevezése a veszélyhelyzetre tekintettel 2021. október 31. napjáig meghosszabbodott, és az érintett bírósági vezetői állásra 2021. október 2. napját követően kiírt bírósági vezetői álláspályázat elbírálása 2021. október 31. napjáig nem történt meg, a bírósági vezetői pályázat elbírálásáig a kinevezésre jogosult a bírósági vezetői állást megbízás útján töltheti be.
 
 (2) Ha a veszélyhelyzet ideje alatt a folyamatban lévő vezetői álláspályázati eljárások lefolytatása nem volt lehetséges, a soron következő eljárási cselekményt a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően kell megtenni. Az eljárási cselekmény elvégzésére meghatározott határidő kezdőnapja a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő nap.
 
-(3) Ha a bírói testület határozott időre megválasztott tagja megbízatásának időtartama a veszélyhelyzet idején járt le, vagy a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 60 napon belül jár le, a határozott idő meghosszabbodik mindaddig, amíg a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően haladéktalanul megtartott választáson a testület új tagját meg nem választják.
+(3) Ha a veszélyhelyzet ideje alatt meghosszabbodott határozott idejű bírói testületi tagi megbízatás tekintetében az új tag megválasztása nem volt lefolytatható a veszélyhelyzet ideje alatt, a határozott idő meghosszabbodik mindaddig, amíg a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően haladéktalanul megtartott választáson a testület új tagját meg nem választják.
 
 (4) Ha a vezetői vizsgálat a veszélyhelyzet miatt nem volt megindítható, az eljárás megindítására nyitva álló határidő a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő napon folytatódik.
 
@@ -73,7 +75,7 @@ Az Országgyűlés annak érdekében, hogy a Kormány a SARS-CoV-2 koronavírus 
 
 10. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény rendelkezéseit az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
 
-11. § (1) Ha a bírói álláspályázatok kiírásához kapcsolódó eljárási cselekményekre vonatkozó határidő a veszélyhelyzet ideje alatt járt le, a határidő újrakezdődik a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő első napon.
+11. § (1) A bírói álláspályázatok kiírásához kapcsolódó eljárási cselekmények tekintetében a 2021. október 3. napján újrakezdődött határidő figyelembevételével kell eljárni.
 
 (2) Ha a veszélyhelyzet ideje alatt a folyamatban lévő bírói álláspályázati eljárások lefolytatása nem volt lehetséges, a soron következő eljárási cselekményt a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően kell megtenni. Az eljárási cselekmény elvégzésére meghatározott határidő kezdőnapja a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő nap.
 
@@ -85,13 +87,13 @@ Az Országgyűlés annak érdekében, hogy a Kormány a SARS-CoV-2 koronavírus 
 
 (6) Ha a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény az eljárásra véghatáridőt határoz meg és a veszélyhelyzet miatt az eljárás soron következő eljárási cselekménye nem volt megtehető, az eljárás lefolytatására nyitva álló határidő a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő napon folytatódik.
 
-(7) Ha a határozott idejű bírói kinevezés a veszélyhelyzet idején járt le, vagy a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 90 napon belül jár le, a határozott idő meghosszabbodik mindaddig, amíg a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően haladéktalanul le nem folytatják a határozatlan idejű kinevezéshez vagy a határozott idejű kinevezés meghosszabbításához szükséges intézkedéseket, eljárásokat, kivéve, ha a bíró a nyilatkozata szerint nem kéri a határozatlan időre történő bírói kinevezését, illetve a határozott idejű kinevezés meghosszabbítását.
+(7) Ha a veszélyhelyzet ideje alatt meghosszabbodott határozott idejű bírói kinevezés tekintetében a határozatlan idejű kinevezéshez vagy a határozott idejű kinevezés meghosszabbításához szükséges intézkedések, eljárások nem voltak lefolytathatóak a veszélyhelyzet ideje alatt, a határozott idő meghosszabbodik mindaddig, amíg a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően haladéktalanul le nem folytatják a határozatlan idejű kinevezéshez vagy a határozott idejű kinevezés meghosszabbításához szükséges intézkedéseket, eljárásokat, kivéve, ha a bíró a nyilatkozata szerint nem kéri a határozatlan időre történő bírói kinevezését, illetve a határozott idejű kinevezés meghosszabbítását.
 
 #### 9. A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény rendelkezéseinek eltérő alkalmazása
 
 12. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény rendelkezéseit az ebben az alcímben foglalt eltérésekkel kell alkalmazni.
 
-13. § (1) Ha az ügyészségi alkalmazotti álláspályázatok elbírálásához kapcsolódó eljárási cselekményekre vonatkozó határidő a veszélyhelyzet ideje alatt járt le, a határidő újrakezdődik a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő első napon.
+13. § (1) Ha az ügyészségi alkalmazotti álláspályázatok elbírálásához kapcsolódó eljárási cselekményekre vonatkozó határidő a veszélyhelyzet ideje alatt járt le, és a veszélyhelyzet ideje alatt az eljárási cselekményt nem lehetett foganatosítani, a határidő újrakezdődik a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő első napon.
 
 (2) A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvényben szabályozott eljárások tekintetében, ha az eljárás a veszélyhelyzet miatt nem volt megindítható, az eljárás megindítására rendelkezésre álló határidő – a (3) és (4) bekezdésben foglalt kivétellel – a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő napon újrakezdődik. Ha a soron következő eljárási cselekmény a veszélyhelyzet miatt nem volt megtehető, azt a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően kell megtenni. Az eljárási cselekmény elvégzésére meghatározott határidő kezdőnapja a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő nap.
 
@@ -99,13 +101,13 @@ Az Országgyűlés annak érdekében, hogy a Kormány a SARS-CoV-2 koronavírus 
 
 (4) Ha az egyéb eljárás, aminek a megindítására a határidő években került meghatározásra, a veszélyhelyzet miatt nem volt megindítható, az eljárás elrendelésére nyitva álló határidő a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő napon folytatódik.
 
-(5) Ha a határozott idejű ügyészségi alkalmazotti kinevezés a veszélyhelyzet idején járt le, vagy a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 60 napon belül jár le, a határozott idő meghosszabbodik mindaddig, amíg a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően haladéktalanul le nem folytatják a határozatlan idejű vagy az újabb határozott idejű kinevezéshez szükséges intézkedéseket, eljárásokat.
+(5) Ha a veszélyhelyzet ideje alatt meghosszabbodott határozott idejű ügyészségi alkalmazotti kinevezés tekintetében a határozatlan idejű vagy az újabb határozott idejű kinevezéshez szükséges intézkedések, eljárások nem voltak lefolytathatóak a veszélyhelyzet ideje alatt, a határozott idő meghosszabbodik mindaddig, amíg a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően haladéktalanul le nem folytatják a határozatlan idejű vagy az újabb határozott idejű kinevezéshez szükséges intézkedéseket, eljárásokat.
 
-(6) Ha a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 27. § (1) bekezdése szerinti kirendelés a veszélyhelyzet idején járt le, a határozott idejű kirendelés meghosszabbodik a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 60. napig.
+(6)
 
 (7) A veszélyhelyzet idején elvégzendő minősítést, teljesítményértékelést, illetve iratvizsgálatot a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 60 napon belül kell elvégezni, illetve megkezdeni.
 
-(8) Ha az ügyészségi testület határozott időre megválasztott tagja megbízatásának időtartama a veszélyhelyzet idején járt le, vagy a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 60 napon belül jár le, a határozott idő meghosszabbodik mindaddig, amíg a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően haladéktalanul megtartott választáson a testület új tagját meg nem választják.
+(8) Ha a veszélyhelyzet ideje alatt meghosszabbodott határozott idejű ügyészségi testületi tagi megbízatás tekintetében az új tag megválasztása nem volt lefolytatható a veszélyhelyzet ideje alatt, a határozott idő meghosszabbodik mindaddig, amíg a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően haladéktalanul megtartott választáson a testület új tagját meg nem választják.
 
 #### 10. A jogi személyekre vonatkozó átmeneti szabályok
 
@@ -157,7 +159,7 @@ Az Országgyűlés annak érdekében, hogy a Kormány a SARS-CoV-2 koronavírus 
 
 (2) Ezen alcím alkalmazásában köztestületnek minősül az a jogi személy is, amelynek működésére a köztestületekre vonatkozó szabályokat alkalmazni kell.
 
-(3) Ezen alcím rendelkezéseit az e törvény hatálybalépésének napján folyamatban lévő eljárásokban is alkalmazni kell.
+(3) Ezen alcím rendelkezéseit a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnésének napján folyamatban lévő eljárásokban is alkalmazni kell.
 
 25. § Az ülésezésre és a döntéshozatalra a köztestület országos elnöke által meghatározott és a köztestület országos honlapján az érintettek számára hozzáférhetővé tett szabályokat a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 60 napig lehet alkalmazni.
 
@@ -181,7 +183,7 @@ Az Országgyűlés annak érdekében, hogy a Kormány a SARS-CoV-2 koronavírus 
 
 31. § A Magyar Országos Közjegyzői Kamara (a továbbiakban: MOKK) országos elnöke által a veszélyhelyzet ideje alatt a MOKK honlapján közzétett határozatában az alapszabálytól és a szabályzatoktól a veszélyhelyzet elhárításához, következményeinek megelőzéséhez, illetve enyhítéséhez kapcsolódó intézkedések végrehajtása és a kamarai névjegyzékbe vagy nyilvántartásba vett személyekre háruló terhek csökkentése érdekében hozott e személyekre kötelező eltérő döntését a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő legfeljebb 90. napra összehívandó rendkívüli választmányi, illetve országos elnökségi ülés napirendjére kell tűzni a testület tájékoztatása érdekében. A MOKK elnökének döntései a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő második hónap utolsó napján hatályukat vesztik.
 
-32. § A közjegyzőkről szóló 1991. évi XLI. törvény 18. §-ában foglaltaktól eltérően a megüresedő közjegyzői állásra a pályázatot a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő három hónapon belül kell meghirdetni.
+#### 32. §
 
 33. § A közjegyzőkről szóló 1991. évi XLI. törvénynek a közjegyzői működés formájára vonatkozó rendelkezéseit akként kell alkalmazni, hogy a tevékenységét egyénileg folytató közjegyző 2022. december 31-éig a tevékenységét a közjegyzőkről szóló 1991. évi XLI. törvény 2021. december 31-én hatályos rendelkezései szerint tovább folytathatja egyénileg.
 
@@ -239,7 +241,7 @@ Az Országgyűlés annak érdekében, hogy a Kormány a SARS-CoV-2 koronavírus 
 
 #### 19. Az elektronikus úton megkötött pénzügyi szolgáltatási szerződésekről
 
-46. § (1) 2022. december 31-ig a felek által a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény végrehajtásának az MNB által felügyelt szolgáltatókra vonatkozó, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti szűrőrendszer kidolgozásának és működtetése minimumkövetelményeinek részletes szabályairól szóló 26/2020. (VIII. 25.) MNB rendelet szerinti auditált elektronikus hírközlő eszköz vagy elektronikus ügyfélazonosító és nyilatkozattételi rendszer (a továbbiakban együtt: elektronikus rendszer) útján megkötött pénzügyi szolgáltatási szerződés, továbbá a hitelintézet által a hitelintézetekről és pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 7. § (3) bekezdésének l) pontja alapján nyújtható szolgáltatásra irányuló szerződés és ezen szerződésekhez – ideértve a biztosítéki szerződéseket is – kapcsolódó jognyilatkozat (a továbbiakban együtt: jognyilatkozat) teljes bizonyító erejű magánokiratnak minősül.
+46. § (1) A felek által a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény végrehajtásának az MNB által felügyelt szolgáltatókra vonatkozó, valamint az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény szerinti szűrőrendszer kidolgozásának és működtetése minimumkövetelményeinek részletes szabályairól szóló 26/2020. (VIII. 25.) MNB rendelet szerinti auditált elektronikus hírközlő eszköz vagy elektronikus ügyfélazonosító és nyilatkozattételi rendszer (a továbbiakban együtt: elektronikus rendszer) útján megkötött pénzügyi szolgáltatási szerződés, továbbá a hitelintézet által a hitelintézetekről és pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 7. § (3) bekezdésének l) pontja alapján nyújtható szolgáltatásra irányuló szerződés és ezen szerződésekhez – ideértve a biztosítéki szerződéseket is – kapcsolódó jognyilatkozat (a továbbiakban együtt: jognyilatkozat) teljes bizonyító erejű magánokiratnak minősül.
 
 (2) Bírósági vagy hatósági eljárás esetén elektronikus rendszer útján megtett jognyilatkozatot a pénzügyi intézmény köteles a bíróság és a peres felek rendelkezésére bocsátani.
 
@@ -287,7 +289,7 @@ megindítása tárgyában,
 - d) szerkezetátalakítás alatt áll vagy a szerkezetátalakítás egy éven belül meghiúsult, a szerkezetátalakítási eljárásban kérelmet visszautasító vagy a szerkezetátalakítási eljárást megszüntető határozatot hoztak és ennek jogerőssé válásától egy év még nem telt el,
 - e) a reorganizáció elhatározásának időpontjában vele szemben végrehajtás van folyamatban,
 - f) a vagyonára vagy annak egy részére büntetőeljárásban zár alá vételt vagy vagyonelkobzás alá eső vagyon biztosítása érdekében lefoglalást rendeltek el, vagy a vagyonára elrendelt vagyonelkobzás végrehajtása van folyamatban,
-- g) a vállalkozásnak a reorganizáció kezdő napját megelőzően a számvitelről szóló 2000. évi C. törvény szerinti bármelyik beszámolója a jogszabályban meghatározott határidőn belül nem került közzétételre és letétbe helyezésre, vagy
+- g) a reorganizáció kezdő napját megelőző 3 üzleti évre vonatkozó, a számvitelről szóló 2000. évi C. törvény szerinti bármelyik beszámolója nem került közzétételre és letétbe helyezésre, vagy
 - h) olyan hitelezői követelés bevonásával kezdeményezi a reorganizációs eljárás lefolytatását, amely követelés megfizetésére a Cstv. szerint csődegyezséget vagy felszámolási egyezséget kötött, és az egyezségben vállalt kötelezettségét még nem hajtotta végre.
 
 (2) A vállalkozás azon szerződéses partnere, akivel a vállalkozásnak olyan tartós polgári jogi jogviszonya áll fenn, amely alapján a szerződéses partner a vállalkozás működéséhez folyamatos termékértékesítést végez vagy szolgáltatást nyújt – ide nem értve a reorganizáció elhatározását megelőzően kötött szerződés alapján nyitott hitelkeret alapján további kölcsönök folyósítását – nem függesztheti fel a még nem teljesített szerződése teljesítését, a szerződést nem mondhatja fel, és semmilyen módon nem módosíthatja egyoldalúan a vállalkozás számára kedvezőtlenebb feltételekkel, kizárólag azzal az indokkal, hogy
@@ -592,25 +594,27 @@ kell meghozni.
 
 74. § (1) A Cstv. rendelkezéseit az ezen alcímben foglalt eltérésekkel a 2022. december 31-ig benyújtott kérelmek alapján megindított csődeljárásokban és felszámolási eljárásokban kell alkalmazni.
 
-(2) A Cstv. 6. § (1) bekezdésétől eltérően a Fővárosi Törvényszék kizárólagosan illetékes a Kormány Cstv. 65. §-a alapján kihirdetett rendeletében stratégiailag kiemelt jelentőségű gazdálkodó szervezetnek minősített szervezet csődeljárására és felszámolási eljárására (Cstv. IV. Fejezet), valamint arra a csődeljárásra és felszámolási eljárásra, amelyben az (5) bekezdés alapján kell a Cstv. IV. Fejezetének szabályait alkalmazni.
+(2) A Cstv. 6. § (1) bekezdésétől eltérően a Fővárosi Törvényszék kizárólagosan illetékes a Cstv. IV. Fejezetének hatálya alá tartozó, valamint arra a csődeljárásra és felszámolási eljárásra, amelyben az (5) bekezdés alapján kell a Cstv. IV. Fejezetének szabályait alkalmazni.
 
 (3) A Cstv. 27. § (2b) bekezdését azzal az eltéréssel kell alkalmazni, hogy a Cstv. 27. § (2) bekezdés a) és b) pontja esetében csak akkor nyújtható be az adós felszámolása iránti kérelem, ha a követelés összege (kamatok és járulékok nélkül számítva) meghaladja a 400 000 Ft-ot.
 
 (4) A Cstv. IV. Fejezetében foglalt szabályokat kell alkalmazni arra a gazdasági társaságra is, amelyben az államnak részesedése van. Ebben az esetben a Kormánynak nem kell a Cstv. 65. §-a szerinti rendeletet meghoznia. A bíróság az állami részesedésre vonatkozó adatokat a cégjegyzékből állapítja meg, szükség esetén az adós gazdálkodó szervezetet kiegészítő nyilatkozattételre hívja fel.
 
+(4a) Azon gazdasági társaság esetében, amelyben az állam közvetlen vagy közvetett befolyása az 1%-os mértéket nem haladja meg, az állami vagyon felügyeletéért felelős miniszter kérelmet nyújthat be a bírósághoz, a Cstv. IV. Fejezetének mellőzése iránt. A kérelmet a bíróság 8 napon belül bírálja el. A bíróság a végzésében felmenti a Cstv. 66. § (2) bekezdése alapján kirendelt állami felszámolót, és egyidejűleg a felszámolók névjegyzékéből kirendeli az ideiglenes vagyonfelügyelőt, vagyonfelügyelőt, illetve a felszámolót. A felmentett állami felszámoló költségtérítésére a Cstv. 27/A. § (9) bekezdését kell alkalmazni. A felmentett állami felszámoló az új kirendelt felszámoló részére a kirendelésétől számított 8 napon belül teljesíti a Cstv. 27/A. § (11) bekezdésében meghatározott kötelezettségeket.
+
 (5) Ha a gazdálkodó szervezet végelszámolójaként – a 80. § (1) bekezdése alapján – a Cstv. 66. § (2) bekezdésében meghatározott állami felszámoló szervezet jár el, és a gazdálkodó szervezet felszámolását kezdeményezi a Ctv. 108. § (1) bekezdése és a Cstv. 22. § (1) bekezdés b) pontja alapján, a Cstv. 27/A. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a bíróság a Cstv. 66. § (2) bekezdése szerinti állami felszámolót rendeli ki felszámolóként, és a Cstv. IV. Fejezetében foglalt szabályokat alkalmazza, kivéve, ha a gazdálkodó szervezet olyan pénzügyi szervezet, amelynek végelszámolója – külön törvényben foglaltak szerint – a Magyar Nemzeti Bank által kijelölt állami pénzügyi felszámoló szervezet volt.
 
 (6) A Cstv. 65. § (3) bekezdés b) pontja szerint nemzetgazdasági szempontból jelentős projekt megvalósításában vesz részt az a gazdálkodó szervezet is, amely a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvény hatálya alá eső beruházás megvalósításában vesz részt megrendelőként, fővállalkozóként vagy a beruházás megvalósítására irányuló közbeszerzési eljárásban, illetve védelmi, biztonsági beszerzési eljárásban bejelentett alvállalkozóként.
 
-(7) A Cstv. 65. § (3) bekezdés c) pontja alkalmazásában a Kormány stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősítheti azt a szervezetet is, amely jogszabály alapján lát el közfeladatot.
+(7) A Cstv. 65. § (3) bekezdés c) pontja szerinti kormánydöntés hozható arra a gazdálkodó szervezetre is, amely jogszabály alapján lát el közfeladatot.
 
-(8) A Cstv. 65. § (3) bekezdés d) pontja alkalmazásában a Kormány stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősítheti azt a gazdálkodó szervezetet is, amely 500 millió Ft-ot meghaladó európai uniós vagy más nemzetközi forrásból valósít meg beruházást vagy más fejlesztést.
+(8) A Cstv. 65. § (3) bekezdés d) pontja szerinti kormánydöntés hozható arra a gazdálkodó szervezetre is, amely 500 millió Ft-ot meghaladó európai uniós vagy más nemzetközi forrásból valósít meg beruházást vagy más fejlesztést.
 
-(9) A Cstv. 68. § (1) bekezdésében foglaltak alapján nyilváníthatja a Kormány stratégiailag kiemelt jelentőségű gazdálkodó szervezetté azt a szervezetet is, amely vagyona vagy gazdasági tevékenysége a nemzetgazdaság stabilitása szempontjából kiemelt jelentőséggel bír.
+(9) A Cstv. 68. § (1) bekezdésében foglaltak szerinti kormánydöntés hozható arra a gazdálkodó szervezetre is, amelynek vagyona vagy gazdasági tevékenysége a nemzetgazdaság stabilitása szempontjából kiemelt jelentőséggel bír.
 
-75. § A stratégiailag kiemelt jelentőségű gazdálkodó szervezet felszámolási eljárásában a felszámoló az élet- és vagyonbiztonságot fenyegető helyzetek elhárításához és a hatósági határozattal elrendelt intézkedés végrehajtásához, továbbá a felszámolás alatti továbbműködéshez szükséges költségek kifizetése érdekében a Cstv. 58. § (1) bekezdésében foglaltakat akként alkalmazza, hogy az indokolt esetekben a Cstv. 57. § (1) bekezdés a) pontjában meghatározott felszámolási költségként kifizetendő követelések esetében az esedékesség sorrendjét figyelmen kívül hagyhatja. Ezeket a kifizetéseket a közbenső mérleg, valamint a zárómérleg szöveges jelentésében be kell mutatni.
+75. § A stratégiailag kiemelt jelentőségű felszámolási eljárásban a felszámoló az élet- és vagyonbiztonságot fenyegető helyzetek elhárításához és a hatósági határozattal elrendelt intézkedés végrehajtásához, továbbá a felszámolás alatti továbbműködéshez szükséges költségek kifizetése érdekében a Cstv. 58. § (1) bekezdésében foglaltakat akként alkalmazza, hogy az indokolt esetekben a Cstv. 57. § (1) bekezdés a) pontjában meghatározott felszámolási költségként kifizetendő követelések esetében az esedékesség sorrendjét figyelmen kívül hagyhatja. Ezeket a kifizetéseket a közbenső mérleg, valamint a zárómérleg szöveges jelentésében be kell mutatni.
 
-76. § (1) A stratégiailag kiemelt jelentőségű gazdálkodó szervezet felszámolása során az adós vagyonának a felszámolási eljárás alatti gazdasági tevékenység folytatására és egyben, önállóan működőképes egységként történő értékesítésére alkalmas részét a felszámoló e § szerinti leválasztással – az adós szétválása útján kiválással létrejövő gazdasági társaságként – működteti, feltéve, hogy az adósra vonatkozó anyagi jogi szabály lehetővé teszi, hogy az adós szétválásával gazdasági társaság jöjjön létre. A leválasztás a kiválás e § szerint szabályozott módja. A leválasztás során e törvény felszámolási eljárásra vonatkozó rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
+76. § (1) A stratégiailag kiemelt jelentőségű felszámolási eljárásban az adós vagyonának a felszámolási eljárás alatti gazdasági tevékenység folytatására és egyben, önállóan működőképes egységként történő értékesítésére alkalmas részét a felszámoló e § szerinti leválasztással – az adós szétválása útján kiválással létrejövő gazdasági társaságként – működteti, feltéve, hogy az adósra vonatkozó anyagi jogi szabály lehetővé teszi, hogy az adós szétválásával gazdasági társaság jöjjön létre. A leválasztás a kiválás e § szerint szabályozott módja. A leválasztás során e törvény felszámolási eljárásra vonatkozó rendelkezéseit az e §-ban foglalt eltérésekkel kell alkalmazni.
 
 (2) A leválasztáshoz a hitelezői választmány jóváhagyására nincs szükség. A felszámoló a Cstv. 28. § (2) bekezdés f) pontjában meghatározott határidő lejárta előtt a közhiteles nyilvántartásba bejegyzett, jelzálogjoggal, önálló zálogjoggal, alzálogjoggal, végrehajtási joggal vagy a Cstv. 38. § (5a) bekezdésében meghatározott biztosítéki célú vételi joggal rendelkező hitelező követelések jogosultjait, a határidő lejárta után a Cstv. 49/D. § (1) bekezdés szerint kielégítésre jogosultként nyilvántartásba vett hitelezőket köteles a leválasztási szándékról írásban értesíteni. A Cstv. 28. § (2) bekezdés f) pontjában meghatározott határidő lejárta előtt a felszámoló akkor dönthet a leválasztásról, ha a közhiteles nyilvántartásba bejegyzett jelzálogjoggal, önálló zálogjoggal, alzálogjoggal, végrehajtási joggal vagy a Cstv. 38. § (5a) bekezdésében felsorolt biztosítéki célú vételi joggal rendelkező hitelezői követelések legalább 75%-át képviselő hitelezői követelések jogosultjai az értesítés kézhezvételétől számított 15 napon belül azt írásban jóváhagyják. A Cstv. 28. § (2) bekezdés f) pontjában meghatározott határidő lejártát követően a felszámoló akkor dönthet a leválasztásról, ha a Cstv. 49/D. § (1) bekezdése szerint kielégítésre jogosultként nyilvántartásba vett követelések legalább 75%-át kitevő hitelező(k) az értesítés kézhezvételétől számított 15 napon belül azt írásban jóváhagyják.
 
@@ -714,20 +718,20 @@ vonhatja le, majd e levonásokat követően fennmaradó összegből akkora hány
 
 #### 23. A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény hiteltörlesztési moratóriummal összefüggő eltérő alkalmazásáról
 
-82. § (1) Ha a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény (a továbbiakban: Are. tv.) hatálya alá tartozó adósságrendezési eljárásban résztvevő adós és egyéb kötelezett a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény 5. alcíme és az egyes kiemelt társadalmi csoportok, valamint pénzügyi nehézséggel küzdő vállalkozások helyzetének stabilizálását szolgáló átmeneti intézkedésekről szóló 2020. évi CVII. törvény (a továbbiakban: 2020. évi CVII. törvény) III. Fejezete szerinti hiteltörlesztési moratóriumot igénybe vette, a bíróságon kívüli adósságrendezési megállapodás, a bírósági adósságrendezési egyezség, a bírósági adósságrendezési egyezség módosítása, valamint a bírósági adósságtörlesztési terv elkészítésénél a teljesítési határidőt úgy kell megállapítani, hogy az figyelembe vegye a futamidőnek a fizetési moratóriumra tekintettel történő meghosszabbodását is.
+82. § (1) Ha a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény (a továbbiakban: Are. tv.) hatálya alá tartozó adósságrendezési eljárásban részt vevő adós és egyéb kötelezett a veszélyhelyzet ideje alatt kihirdetett jogszabályok alapján igénybe vette a hiteltörlesztési moratóriumot, a bíróságon kívüli adósságrendezési megállapodás, a bírósági adósságrendezési egyezség, a bírósági adósságrendezési egyezség módosítása, valamint a bírósági adósságtörlesztési terv elkészítésénél a teljesítési határidőt úgy kell megállapítani, hogy az figyelembe vegye a futamidőnek a fizetési moratóriumra tekintettel történő meghosszabbodását is.
 
-(2) Az e törvény hatálybalépése előtt megkötött bíróságon kívüli adósságrendezési megállapodásban, bírósági adósságrendezési egyezségben, illetve bírósági adósságtörlesztési végzésben a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény 5. alcíme, valamint a 2020. évi CVII. törvény III. Fejezete szerinti hiteltörlesztési moratóriumot igénybe vevő adós számára a pénzügyi intézmény kimutatást küld – a fizetési moratórium alatt meg nem fizetett tartozásokra tekintettel – a törlesztések teljesítési határidejének meghosszabbításáról. A bírósági adósságrendezési eljárásban az adós kérelmére a bíróság 15 napon belül végzést hoz az adósságrendezési egyezség, illetve az adósságtörlesztési végzés ennek megfelelő kiegészítéséről. A végzés ellen csak az adós és az érintett hitelező élhet fellebbezéssel. A kérelem és a fellebbezés benyújtása illetékmentes.
+(2) Az e törvény hatálybalépése előtt megkötött bíróságon kívüli adósságrendezési megállapodásban, bírósági adósságrendezési egyezségben, illetve bírósági adósságtörlesztési végzésben az (1) bekezdés szerinti hiteltörlesztési moratóriumot igénybe vevő adós számára a pénzügyi intézmény kimutatást küld – a fizetési moratórium alatt meg nem fizetett tartozásokra tekintettel – a törlesztések teljesítési határidejének meghosszabbításáról. A bírósági adósságrendezési eljárásban az adós kérelmére a bíróság 15 napon belül végzést hoz az adósságrendezési egyezség, illetve az adósságtörlesztési végzés ennek megfelelő kiegészítéséről. A végzés ellen csak az adós és az érintett hitelező élhet fellebbezéssel. A kérelem és a fellebbezés benyújtása illetékmentes.
 
 (3) Az Are. tv. 85. §-a szerinti törlesztési időszak a (2) bekezdés szerinti teljesítési határidőnek megfelelően meghosszabbodik.
 
-#### 24. A 2020. évi CVII. törvénytől való eltérés
+#### 24. Az egyes kiemelt társadalmi csoportok, valamint pénzügyi nehézséggel küzdő vállalkozások helyzetének stabilizálását szolgáló átmeneti intézkedésekről szóló 2020. évi CVII. törvénytől való eltérés
 
-83. § A 2020. évi CVII. törvény
+83. § Az egyes kiemelt társadalmi csoportok, valamint pénzügyi nehézséggel küzdő vállalkozások helyzetének stabilizálását szolgáló átmeneti intézkedésekről szóló 2020. évi CVII. törvény
 
 - a)
 - b)
 - c)
-- d) 12. § (1) bekezdésétől eltérően a 2020. évi CVII. törvény 12. §-a szerinti fizetési haladék 2022. június 30. napjáig tart.
+- d) 12. § (1) bekezdésétől eltérően az egyes kiemelt társadalmi csoportok, valamint pénzügyi nehézséggel küzdő vállalkozások helyzetének stabilizálását szolgáló átmeneti intézkedésekről szóló 2020. évi CVII. törvény 12. §-a szerinti fizetési haladék 2022. június 30. napjáig tart.
 
 #### 84. §
 
@@ -755,13 +759,13 @@ díjazásra és költségtérítésre jogosult.
 
 (4) Az ezen alcímben foglaltakat megfelelően alkalmazni kell a közgyűlés elnöke és a főpolgármester feladat- és hatásköreinek gyakorlására is.
 
-#### 26. Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény eltérő alkalmazása
+#### 26.
 
-87. § Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 44. §-át azzal az eltéréssel kell alkalmazni, hogy a képviselőtestület 2021. évben szükség szerint, de legalább egy alkalommal ülésezik.
+#### 87. §
 
-#### 27. A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény eltérő alkalmazása
+#### 27.
 
-88. § A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 89. §-át azzal az eltéréssel kell alkalmazni, hogy a nemzetiségi önkormányzat képviselő-testülete, közgyűlése a 2021. évben szükség szerint, de legalább egy alkalommal ülésezik.
+#### 88. §
 
 #### 28. Családügyi tárgyú átmeneti szabályok
 
@@ -773,17 +777,21 @@ díjazásra és költségtérítésre jogosult.
 
 #### 29. A koronavírus-világjárvány által okozott megbetegedésben elhunytak hozzátartozóinak megsegítésére létrehozott, közhasznú tevékenységet végző alapítványra vonatkozó szabályok
 
-91. § (1) A koronavírus-világjárvány által okozott megbetegedésben elhunytak hozzátartozóinak megsegítésére létrehozott, közhasznú tevékenységet végző alapítvány (ezen alcím alkalmazásában a továbbiakban: Alapítvány) a koronavírus-járvány miatt elhunyt személy Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozójának (ezen alcím alkalmazásában a továbbiakban: kedvezményezett) az Alapítványhoz benyújtott támogatásra irányuló kérelme esetén, a Magyar Államkincstár által vezetett, a (2) bekezdés szerinti nyilvántartásokból adatigénylés útján ellenőrzi a kedvezményezett támogatásra való jogosultságát.
+91. § (1) A koronavírus-világjárvány által okozott megbetegedésben elhunytak hozzátartozóinak megsegítésére létrehozott, közhasznú tevékenységet végző alapítvány (ezen alcím alkalmazásában a továbbiakban: Alapítvány) az elhunyt személy Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozójának (ezen alcím alkalmazásában a továbbiakban: kedvezményezett) az Alapítványhoz benyújtott támogatásra irányuló kérelme esetén – a kérelem megalapozottságának az Alapítvány által történő vizsgálata érdekében – a járványügyi feladatkörben eljáró egészségügyi államigazgatási szervtől, valamint a kincstár által vezetett (3) bekezdés szerinti nyilvántartásokból adatigényléssel élhet.
 
-(2) A Magyar Államkincstár az Alapítvány részére a kedvezményezett vonatkozásában az Alapítvány írásos megkeresése alapján 15 napon belül adatot szolgáltat
+(2) A járványügyi feladatkörben eljáró egészségügyi államigazgatási szerv az Alapítvány írásos megkeresése alapján 15 napon belül tájékoztatja az Alapítványt arról, hogy az Alapítvány által a kedvezményezett kérelme alapján megjelölt elhunyt személyt a halál időpontjában igazolt, aktív SARS-CoV-2 koronavírussal fertőzöttként rögzítette-e.
+
+(3) A kincstár az Alapítvány részére a kedvezményezett vonatkozásában az Alapítvány írásos megkeresése alapján 15 napon belül adatot szolgáltat
 
 - a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: 1993. évi III. törvény) 18/B. §-a szerinti nyilvántartásból a nyilvántartásban szereplő ellátásra való jogosultság fennállása esetén az ellátás összegéről,
 - b) a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 96. §-a szerinti nyilvántartásból a nyilvántartásban szereplő ellátásra való jogosultság fennállása esetén a megállapított, illetve folyósított ellátás összegéről,
 - c) a családok támogatásáról szóló 1998. évi LXXXIV. törvény 45. §-a szerinti nyilvántartásból a nyilvántartásban szereplő ellátásra való jogosultság fennállása esetén az ellátás összegéről.
 
-(3) Az Alapítvány a (2) bekezdés szerinti megkeresésében megjelöli a kedvezményezett természetes személyazonosító adatait, valamint Társadalombiztosítási Azonosító Jelét.
+(4) Az Alapítvány a (2) bekezdés szerinti megkeresésében megjelöli az elhunyt személy természetes személyazonosító adatait, valamint Társadalombiztosítási Azonosító Jelét.
 
-(4) Az Alapítvány a (2) bekezdés szerinti, a Magyar Államkincstárhoz első alkalommal benyújtott kérelemmel egyidejűleg az Alapítvány alapító okiratát is megküldi a Magyar Államkincstár részére a közhasznú jogállás, valamint a koronavírus-világjárvány miatt hozzátartozójukat elveszítő személyek megsegítésére irányuló cél ellenőrzése érdekében. Az Alapítvány az alapító okirat módosítása esetén – a módosítást követően benyújtott első kérelemmel egyidejűleg – az alapító okiratot ismételten megküldi a Magyar Államkincstárnak.
+(5) Az Alapítvány a (3) bekezdés szerinti megkeresésében megjelöli a kedvezményezett természetes személyazonosító adatait, valamint Társadalombiztosítási Azonosító Jelét.
+
+(6) Az Alapítvány a (2) bekezdés, valamint a (3) bekezdés szerint első alkalommal benyújtott kérelemmel egyidejűleg az Alapítvány alapító okiratát is megküldi a közhasznú jogállás, valamint a koronavírus-világjárvány miatt hozzátartozójukat elveszítő személyek megsegítésére irányuló cél ellenőrzése érdekében a járványügyi feladatkörben eljáró egészségügyi államigazgatási szervnek, illetve a kincstárnak. Az Alapítvány az alapító okirat módosítása esetén – a módosítást követően benyújtott első kérelemmel egyidejűleg – az alapító okiratot ismételten megküldi a járványügyi feladatkörben eljáró egészségügyi államigazgatási szervnek, valamint a kincstárnak.
 
 #### 30. Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény eltérő alkalmazása
 
@@ -801,9 +809,9 @@ díjazásra és költségtérítésre jogosult.
 
 #### 32. Egyéb közigazgatási hatósági döntésekkel kapcsolatos rendelkezések
 
-94. § (1) Az építésügyi hatósági eljárásokról és az építésügyi hatósági ellenőrzésről szóló 193/2009. (IX. 15.) Korm. rendelet, valamint az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet alapján engedélyezett építési tevékenységre vonatkozó végleges építési engedély, elvi építési keretengedély, telepítési engedély vagy bontási engedély, amelynek hatálya 2020. december 15-e és 2021. november 23-a közötti időben járt le, meghosszabbodik az engedély hatályának lejártától számított további egy évvel.
+94. § (1) Az építésügyi hatósági eljárásokról és az építésügyi hatósági ellenőrzésről szóló 193/2009. (IX. 15.) Korm. rendelet, valamint az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet alapján engedélyezett építési tevékenységre vonatkozó végleges építési engedély, elvi építési keretengedély, telepítési engedély vagy bontási engedély, amelynek hatálya 2020. december 15-e és a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnése közötti időben járt le, meghosszabbodik az engedély hatályának lejártától számított további egy évvel.
 
-(2) Ha az (1) bekezdés szerinti engedélyek vonatkozásában 2020. december 15-e és 2021. június 9-e közti időszakban az engedély hatályának lejártával összefüggésben a hatóság kötelezettséget állapított meg, a kötelezettségnek nem kell eleget tenni. A már kifizetett bírság visszatérítése iránt a hatóság intézkedik.
+(2) Ha az (1) bekezdés szerinti engedélyek vonatkozásában 2020. december 15-e és a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnése közti időszakban az engedély hatályának lejártával összefüggésben a hatóság kötelezettséget állapított meg, a kötelezettségnek nem kell eleget tenni. A már kifizetett bírság visszatérítése iránt a hatóság intézkedik.
 
 (3)
 
@@ -822,36 +830,42 @@ díjazásra és költségtérítésre jogosult.
 - a) az 1993. évi III. törvény szerinti pénzbeli ellátásnak az 1993. évi III. törvény 25. § (4) bekezdése szerinti rendszeres felülvizsgálata, vagy az ellátás 1993. évi III. törvény 25. § (6) bekezdése szerinti felülvizsgálata iránti eljárás megindítása, vagy
 - b) a gyermekek otthongondozási díjának az 1993. évi III. törvény 134/H. § (5) bekezdése szerinti felülvizsgálata
 
-a veszélyhelyzet ideje alatt vált esedékessé, a felülvizsgálatot e törvény hatálybalépésének hónapját követő második hónap utolsó napjáig meg kell indítani.
+a veszélyhelyzet ideje alatt vált esedékessé, a felülvizsgálatot 2022. október 31-éig meg kell indítani.
+
+(1a) A veszélyhelyzet ideje alatt esedékes felülvizsgálatra hivatkozva pénzbeli szociális ellátásra való jogosultság legkorábban 2022. augusztus 31-ével szüntethető meg.
 
 (2) Az (1) bekezdés a) pontja alapján elhalasztott, az 1993. évi III. törvény 25. § (4) bekezdés b) pontja szerinti ellátásra való jogosultság fennállására irányuló felülvizsgálat során az 1993. évi III. törvény 36. § (2) bekezdés e) pontjában meghatározott kötelezettség teljesítését az előző felülvizsgálatot lezáró döntés meghozatalának napjáig, a jogosultság megállapítását követő első felülvizsgálat esetén a jogosultságot megállapító döntés meghozatalának napjáig visszamenőleg kell vizsgálni.
 
-(3) A 2020. november 4-e és e törvény hatálybalépését követő 30. nap között lejáró
+(3) A 2020. november 4-e és 2022. június 30-a között lejáró
 
 - a) rendszeres gyermekvédelmi kedvezményre való jogosultság,
 - b) a hátrányos, halmozottan hátrányos helyzet fennállását megállapító határozat hatálya, és
 - c) az 1993. évi III. törvény 54. §-a alapján az egészségügyi szolgáltatás igénybevétele céljából megállapított jogosultság
 
-az e törvény hatálybalépésének hónapját követő második hónap utolsó napjáig meghosszabbodik.
+2022. augusztus 31-éig meghosszabbodik.
 
-(4) A 2020. november 4-e és e törvény hatálybalépését követő 30. nap között lejáró közgyógyellátásra való jogosultság, valamint a 2020. november 4-e és e törvény hatálybalépését követő 30. nap között lejáró közgyógyellátási igazolvány érvényessége e törvény hatálybalépését követő 90. napig meghosszabbodik, feltéve, hogy a közgyógyellátásra jogosult e törvény hatálybalépését követő 30. napon jogképes.
+(4) A 2020. november 4-e és 2022. június 30-a között lejáró közgyógyellátásra való jogosultság, valamint az ezen időszakban lejáró közgyógyellátási igazolvány érvényessége 2022. szeptember 30-áig meghosszabbodik, feltéve, hogy a közgyógyellátásra jogosult 2022. június 30-án jogképes.
 
-(5) Ha a gyermekek otthongondozási díja és az ápolási díj megállapítása iránti eljárásban az ellátásra való jogosultságot úgy állapították meg, hogy a szakértő a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet 21. § (1) bekezdése, illetve 25/B. § (1) bekezdése szerinti szakértői vizsgálatot az ápolás helyszínén végzett vizsgálat mellőzésével, kizárólag az ápolt személy önkiszolgálási képességére, illetve ápolási-gondozási szükségletére vonatkozó hivatalos iratra alapozva végezte el, a jogosultságot az e törvény hatálybalépésének hónapját követő harmadik hónap utolsó napjáig felül kell vizsgálni.
+(5) Ha a gyermekek otthongondozási díja és az ápolási díj megállapítása iránti eljárásban az ellátásra való jogosultságot úgy állapították meg, hogy a szakértő a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet 21. § (1) bekezdése, illetve 25/B. § (1) bekezdése szerinti szakértői vizsgálatot az ápolás helyszínén végzett vizsgálat mellőzésével, kizárólag az ápolt személy önkiszolgálási képességére, illetve ápolási-gondozási szükségletére vonatkozó hivatalos iratra alapozva végezte el, a jogosultságot 2022. október 31-éig felül kell vizsgálni.
 
-97. § (1) A veszélyhelyzet ideje alatt lejáró rehabilitációs ellátás a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 10. § (1) bekezdés a) pontjában foglaltaktól eltérően az e törvény hatálybalépésének hónapját követő második hónap utolsó napján szűnik meg.
+97. § (1) A veszélyhelyzet ideje alatt lejáró rehabilitációs ellátás a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 10. § (1) bekezdés a) pontjában foglaltaktól eltérően 2022. augusztus 31-én szűnik meg.
 
-(2) A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény
+(2)
 
-- a) 33/B. § (1) bekezdése szerinti nyilatkozat alapján indult hatósági eljárás ügyintézési határideje 2022. március 1-jén,
-- b) 33/B. § (2) bekezdése alapján benyújtott kérelem alapján indult hatósági eljárás ügyintézési határideje 2022. július 1-jén
+98. § A 96. §-ban meghatározottak és a megváltozott munkaképességű személyek ellátásainak felülvizsgálata kivételével az egészségi állapottól, személyiségállapottól vagy fogyatékosságtól függő ellátások – ideértve a nyugdíjbiztosítási igazgatási szervek hatáskörébe tartozó ellátásokat is – felülvizsgálatára hivatkozva az ellátás, kedvezmény, mentesség, foglalkoztatás 2022. augusztus 31-éig nem szüntethető meg.
 
-kezdődik.
+98/A. § A megváltozott munkaképességű személyek ellátásainak a veszélyhelyzet fennállása miatt elmaradt, 2020. december 5-e és 2021. november 9-e között esedékes felülvizsgálatát a rehabilitációs hatóság 2022. október 31-ig folytatja le.
 
-98. § A 96. §-ban meghatározottak kivételével az egészségi állapottól, személyiségállapottól vagy fogyatékosságtól függő ellátások – ideértve a nyugdíjbiztosítási igazgatási szervek hatáskörébe tartozó ellátásokat is – felülvizsgálatára hivatkozva az ellátás, kedvezmény, mentesség, foglalkoztatás az e törvény hatálybalépésének hónapját követő második hónap utolsó napjáig nem szüntethető meg.
+98/B. § Az 1993. évi III. törvény 130. §-a szerinti támogatás a fejlesztő foglalkoztatásban részt vevő személy napi munkavégzésétől függetlenül érvényesíthető azon személyek után, akik
 
-99. § (1) Ha a nevelésbe vett gyermek a veszélyhelyzet időtartama alatt vált nagykorúvá és kérte az utógondozói ellátás biztosítását, számára az utógondozói ellátást a jogosultsági feltételek vizsgálata nélkül a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnésének hónapját követő első hónap végéig biztosítani kell. Az utógondozói ellátás iránti kérelem a gyámhatósághoz ezen időtartam alatt is benyújtható.
+- a) a veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendelet szerinti veszélyhelyzet kihirdetése napján, vagy
+- b) a támogatási rendszerbe 2021. január 1-jétől bevont fenntartók esetén a 2021. január 15-ig megkötött egyéni munka-, illetve fejlesztési szerződés alapján
 
-(2) A 2020. november 4-e és a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 30. nap között lejáró utógondozói ellátásra való jogosultság időtartama meghosszabbodik a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnésének hónapját követő második hónap végéig.
+a fejlesztő foglalkoztatónál fejlesztési jogviszonyban vagy munkaviszonyban álltak, és jogviszonyuk a veszélyhelyzet ideje alatti elszámolási időszakban, valamint 2022. június 30-ig fennállt.
+
+99. § (1) Ha a nevelésbe vett gyermek a veszélyhelyzet időtartama alatt vált nagykorúvá és kérte az utógondozói ellátás biztosítását, számára az utógondozói ellátást a jogosultsági feltételek vizsgálata nélkül 2022. július 31-éig biztosítani kell. Az utógondozói ellátás iránti kérelem a gyámhatósághoz ezen időtartam alatt is benyújtható.
+
+(2) A 2020. november 4-e és 2022. július 1-je között lejáró utógondozói ellátásra való jogosultság időtartama meghosszabbodik 2022. augusztus 31-éig.
 
 #### 100. §
 
@@ -875,9 +889,9 @@ kezdődik.
 
 #### 35. Egyes kulturális finanszírozási szabályok eltérő alkalmazása
 
-103. § Az államháztartásról szóló 2011. évi CXCV. törvény és a Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény (a továbbiakban: NKA tv.) rendelkezéseit az ezen alcímben foglalt eltérésekkel 2023. december 31-ig kell alkalmazni.
+103. § Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) és a Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény (a továbbiakban: NKA tv.) rendelkezéseit az ezen alcímben foglalt eltérésekkel 2022. december 31-ig kell alkalmazni.
 
-104. § (1) A Nemzeti Kulturális Alap (a továbbiakban: Alap) maradványa felhasználása tekintetében az államháztartásról szóló 2011. évi CXCV. törvény 86. § (4) bekezdésétől eltérően az Alap költségvetési maradványa felhasználásának a fejezetet irányító szerv általi engedélyezéséhez az államháztartásért felelős miniszter hozzájárulása nem szükséges, a maradvány teljes összege felhasználható a veszélyhelyzetből eredő, a kulturális ágazatot érintő hátrányos következmények enyhítése érdekében kulturális támogatási célokra, a (2) bekezdés szerinti módon.
+104. § (1) A Nemzeti Kulturális Alap (a továbbiakban: Alap) 2006. és 2020. között felhalmozódott maradványa felhasználása tekintetében az Áht. 86. § (4) bekezdésétől eltérően az Alap költségvetési maradványa felhasználásának a fejezetet irányító szerv általi engedélyezéséhez az államháztartásért felelős miniszter hozzájárulása nem szükséges, a veszélyhelyzet ideje alatt a maradvány teljes összege felhasználható a veszélyhelyzetből eredő, a kulturális ágazatot érintő hátrányos következmények enyhítése érdekében kulturális támogatási célokra, a (2) bekezdés szerinti módon.
 
 (2) Az NKA tv.-ben foglalt döntéshozatali rendtől eltérően a Kormány egyedi döntésével meghatározhatja azokat a támogatási célokat és kedvezményezetteket, amelyek támogatása céljából az (1) bekezdés szerinti maradvány felhasználható azzal, hogy a támogatási jogviszony létesítéséről az Alap kezelő szerve gondoskodik.
 
@@ -889,6 +903,20 @@ kezdődik.
 
 - a) terhére az NKA tv. 7/B. § (1) bekezdésében foglaltaktól eltérően az Alapból kulturális örökségvédelem alá nem eső, kulturális célú építési beruházás, felújítás is támogatható,
 - b) az NKA tv. 7/C. § (2) bekezdésében foglalt működési támogatás nem csak az ágazati minisztérium irányítása, valamint felügyelete alá tartozó állami fenntartású intézmények számára nyújtható, hanem fenntartótól és működési formától függetlenül bármelyik kulturális szervezet, illetve annak fenntartója részére nyújtható személyi jellegű és dologi kiadásokra is, továbbá a 10%-os limitet meghaladóan is.
+
+104/A. § (1) A Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvénynek (a továbbiakban: 2021. évi Kvtv.) és a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvénynek (a továbbiakban: 2022. évi Kvtv.) az Alap tekintetében történő végrehajtása során – az NKA tv. 7/A. § (3) bekezdésétől eltérően – az Alap tárgyévi bevétele terhére vállalható kötelezettségvállalás, valamint éven túli kötelezettségvállalás mértéke – a várható teljesülés figyelembevételével – a 2021. évi Kvtv. 1. melléklet LXVII. Nemzeti Kulturális Alap fejezet és a 2022. évi Kvtv. 1. melléklet LXVII. Nemzeti Kulturális Alap fejezet bevételi előirányzata (a továbbiakban együtt: bevételi előirányzat) 100%-áig terjedhet. Az Alap 2021. évi és 2022. évi bevétele, valamint kezelő szervének az Alap kezelésével összefüggő 2021. évi és 2022. évi bevétele nem vonható el, azt befizetési kötelezettség nem terheli.
+
+(2) A bevételi előirányzathoz képest történő többletbevétel keletkezése esetén az Alap Bizottsága döntésével a kötelezettségvállalással nem terhelt bevételi többletforrás mértékéig a 2021. évi Kvtv. 1. melléklet LXVII. Nemzeti Kulturális Alap fejezet kiadási előirányzata és a 2022. évi Kvtv. 1. melléklet LXVII. Nemzeti Kulturális Alap fejezet kiadási előirányzata (a továbbiakban együtt: kiadási előirányzat) túlléphető.
+
+(3) Az Alap Bizottsága (2) bekezdés szerinti döntése esetén a kiadási előirányzat a bevételi előirányzat erejéig megemelésre kerül.
+
+(4) Ha a (2) bekezdés szerinti esetben az Alap Bizottsága úgy dönt, hogy nem szükséges a kiadási előirányzat túllépése és a többletbevétel erejéig történő megemelése, az így keletkezett maradvány felhasználása tekintetében az (5)–(7) bekezdés alapján kell eljárni.
+
+(5) Az Alap költségvetési maradványa összegével – az Áht. 86. § (4) bekezdésétől eltérően – az éves költségvetési beszámoló elkészítését megelőzően a tárgyévi kiadási előirányzat megemelhető. Az év végi maradvány a tárgyévi bevételi terv teljesülése előtt a kiadási és bevételi előirányzat egyidejű módosításával igénybe vehető.
+
+(6) Az Alap e § szerinti maradványa felhasználása tekintetében a fejezetet irányító szerv általi engedélyezéséhez az Áht. 86. § (4) bekezdésétől eltérően az államháztartásért felelős miniszter hozzájárulása nem szükséges, a maradvány teljes összege felhasználható a veszélyhelyzetből eredő, a kulturális ágazatot érintő hátrányos következmények enyhítése érdekében kulturális támogatási célokra.
+
+(7) Az Alapnak az e § szerinti bevétele és maradványa az NKA tv.-ben foglalt döntéshozatali eljárás alapján kerül felhasználásra.
 
 #### 36.
 
@@ -941,9 +969,9 @@ a veszélyhelyzet ideje alatt alkalmazandó egyes belügyi és közigazgatási t
 
 115. § A közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény 2. § (2) bekezdésében foglaltaktól eltérően a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet ideje alatt fennálló közfoglalkoztatási jogviszony, továbbá a legkésőbb 2022. június 30-ig létesített közfoglalkoztatási jogviszony a munka törvénykönyvéről szóló 2012. évi I. törvény 192. § (2) bekezdése szerint számított időtartama meghaladhatja a tíz évet.
 
-#### 45. A Biztos Kezdet Gyerekház és a Tanoda szolgáltatás finanszírozásával összefüggő átmeneti rendelkezés
+#### 45.
 
-116. § A Biztos Kezdet Gyerekház és a Tanoda szolgáltatás keretében a támogató szolgáltatás és a közösségi ellátások finanszírozásának rendjéről szóló 191/2008. (VII. 30.) Korm. rendelet rendelkezéseitől eltérően a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően is biztosítható 2021. december 31-ig többletforrás az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó SARS-CoV-2 koronavírus-világjárvány következményeinek elhárítása érdekében. Ebben az esetben a meglévő finanszírozási szerződésekben meghatározott források megemelhetőek, a támogatás felhasználásának feladat- és költségterve a támogató, illetve a lebonyolító hozzájárulásával módosítható.
+#### 116. §
 
 #### 46. Vízjogi eljárásokkal összefüggő átmeneti rendelkezések
 
@@ -958,9 +986,9 @@ a veszélyhelyzet ideje alatt alkalmazandó egyes belügyi és közigazgatási t
 
 #### 118. §
 
-#### 48. Egyes államháztartási szabályok alkalmazásával összefüggő átmeneti szabályok
+#### 48.
 
-119. § Ha az államháztartás önkormányzati alrendszerébe tartozó adatszolgáltatásra kötelezett az államháztartásról szóló 2011. évi CXCV. törvény 108. § (1) bekezdés b) pontja szerinti adatszolgáltatási kötelezettségét a veszélyhelyzet ideje alatt el nem hárítható ok vagy körülmény (a továbbiakban: veszélyhelyzeti ok) miatt nem vagy késedelmesen teljesítette, az adatszolgáltatásra kötelezett az adatszolgáltatási kötelezettségét a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő hónap utolsó napjáig teljesítheti azzal, hogy a Magyar Államkincstár az államháztartásról szóló 2011. évi CXCV. törvény 108. § (3) bekezdés b) pontja szerinti bírság kiszabásától eltekinthet. A bírság mellőzése során a Magyar Államkincstár azt mérlegeli, hogy a veszélyhelyzeti ok a koronavírus-világjárvánnyal összefüggésben merült-e fel.
+#### 119. §
 
 #### 120. §
 
@@ -1103,6 +1131,14 @@ meghosszabbodik.
 
 (5) A (2) bekezdést a helyi önkormányzati tulajdonban, illetve vagyonkezelésben álló, 2020. november 4. napján vagy ezt követően létesített parkolókra vonatkozó parkolási díj tekintetében nem kell alkalmazni.
 
+(6) A (2) bekezdést a helyi önkormányzati tulajdonban vagy vagyonkezelésben álló temetőben költségvetési támogatásból létesített, 2020. december 18. napján vagy ezt követően első alkalommal megváltásra kínált új urnafülke megváltása után fizetett díj tekintetében nem kell alkalmazni.
+
+(7) A (2) bekezdést nem kell alkalmazni az (1) bekezdés szerinti szervezet által fenntartott, a szolgáltatói nyilvántartásba 2020. december 17-ét követően bejegyzett, bölcsődei ellátást nyújtó intézmény vagy szolgáltató által biztosított ellátásért – ideértve a gondozásért, étkezésért, intézményi gyermekétkeztetésért – fizetett térítési díj tekintetében.
+
+(8) A (2) bekezdést nem kell alkalmazni az (1) bekezdés szerinti szervezet által fenntartott, 2020. december 17-ét követően nyilvántartásba vett óvodában a gyermekétkeztetésért fizetendő térítési díj tekintetében.
+
+(9) Az (1) és (2) bekezdést a közfürdők létesítéséről és működéséről szóló 121/1996. (VII. 24.) Korm. rendelet szerinti, az (1) bekezdés szerinti szervezet tulajdonában vagy üzemeltetésében álló közfürdő által felszámított térítési díj tekintetében nem kell alkalmazni.
+
 #### 63. Ingyenes közterület-használattal kapcsolatos átmeneti szabályok
 
 148. § Ezen alcím alkalmazásában
@@ -1226,7 +1262,7 @@ foglalkoztatott esetében, ha a foglalkoztatott a SARS-CoV-2 koronavírus-világ
 - c) a honvédek jogállásáról szóló 2012. évi CCV. törvény szerinti hivatásos vagy szerződéses jogviszonyban,
 - d) a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény szerinti honvédelmi alkalmazotti jogviszonyban,
 - e) a szociális, gyermekjóléti vagy gyermekvédelmi szolgáltatónál, intézményben, hálózatnál, illetve javítóintézetnél,
-- f) a fővárosi és megyei kormányhivataloknál, valamint a járási (fővárosi kerületi) hivataloknál
+- f) a Nemzeti Népegészségügyi Központnál, a fővárosi és megyei kormányhivataloknál, valamint a járási (fővárosi kerületi) hivataloknál
 
 foglalkoztatott személy.
 

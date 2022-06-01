@@ -20,24 +20,17 @@ Az Országgyűlés annak érdekében, hogy a Kormány a COVID-19 fertőzés okoz
 
 3. § 2020. március 11-től e törvény hatálybalépéséig a Koronavírus-járvány Elleni Védekezésért Felelős Operatív Törzs felállításáról szóló 1012/2020. (I. 31.) Korm. határozattal felállított Koronavírus-járvány Elleni Védekezésért Felelős Operatív Törzs javaslata alapján a miniszterelnök vagy az általa kijelölt személy által indokoltnak ítélt és írásban meghatározott költségek finanszírozása tekintetében, a veszélyelhárítás érdekében szükséges nélkülözhetetlen kötelezettségvállalások pénzügyi ellenjegyzését, valamint a szóban vagy távollévők között tett jognyilatkozattal történő megállapodás, illetve szerződés írásba foglalását legkésőbb e törvény hatálybalépését követő 30 napon belül kell teljesíteni.
 
-#### 4. Egyes államháztartási szabályok alkalmazásával összefüggő átmeneti szabályok
+#### 4.
 
-4. § Az államháztartás önkormányzati alrendszerébe tartozó adatszolgáltatásra kötelezett az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 70. alcíme szerinti, havi adatszolgáltatási kötelezettségének negyedévente, a tárgynegyedévet követő 20. napig köteles eleget tenni. E rendelkezést a 2020. második és harmadik negyedévet érintő havi adatszolgáltatások tekintetében kell alkalmazni.
+#### 4. §
 
-5. § Az államháztartás központi alrendszerébe tartozó adatszolgáltatásra kötelezett az Áht. 70. alcíme szerinti, havi adatszolgáltatási kötelezettségének – az Áht. 108/A. §-a szerinti adatszolgáltatás kivételével – negyedévente, a tárgynegyedévet követő 20. napig köteles eleget tenni. E rendelkezést a 2020. második és harmadik negyedévet érintő havi adatszolgáltatások tekintetében kell alkalmazni.
+#### 5. §
 
-6. § Ha a helyi önkormányzat, az önkormányzatok társulása, illetve a nemzetiségi önkormányzat (e § alkalmazásában a továbbiakban együtt: önkormányzat) e törvény hatálybalépéséig nem rendelkezik a 2019. költségvetési évre vonatkozó elfogadott és hatályos zárszámadási rendelettel, akkor a zárszámadási rendeletet úgy kell az önkormányzatnak elfogadnia, hogy az legkésőbb az e törvény hatálybalépését követő 30. napon hatályba lépjen.
+#### 6. §
 
-7. § Az e törvény hatálybalépéséig létrejött, a központi költségvetés terhére nyújtott költségvetési támogatásból megvalósuló programokkal, projektekkel összefüggő támogatási jogviszonyokban meghatározott támogatott tevékenység időtartama az eredeti felhasználási határidőtől számított 180 nappal, de legalább e törvény hatálybalépését követő 180. napig meghosszabbodik.
+#### 7. §
 
-8. § (1) 2020. március 11-től e törvény hatálybalépéséig létrejött támogatási jogviszonyok esetében
-
-- a) a támogató által kikötött biztosíték rendelkezésre állását legkésőbb e törvény hatálybalépését követő 30 napon belül kell biztosítani azzal, hogy ha azt nem a támogató által, az Áht. és az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben előírtaknak megfelelően biztosítja a kedvezményezett, a támogató a támogatást jogosult azonnali hatállyal visszavonni,
-- b) az Áht. 53/A. §-ától eltérően nem számít jogosulatlan igénybevételnek az az eset, amelynél a kedvezményezett az eredeti támogatási cél megvalósítását azért nem kezdte meg, mert a veszélyhelyzetre tekintettel a támogatási szerződés szerint a támogatási cél nem megvalósítható, vagy megkezdte, de e körülményre tekintettel a támogatási szerződés szerint a támogatási cél nem megvalósítható,
-- c) a veszélyhelyzet miatt meghiúsult támogatott tevékenységből származó jogosulatlanul igénybe vett és visszafizetett költségvetési támogatás összegét az Áht. 53/A. § (2) bekezdésétől eltérően ügyleti és késedelmi kamat nem terheli,
-- d) nem kell alkalmazni az Áht 51. § (2) bekezdését, ha a támogatási jogviszony a központi költségvetés terhére nyújtott, a veszélyhelyzet elhárítása és következményeinek enyhítése érdekében nélkülözhetetlenül szükséges és egyéb támogatásoknak a veszélyhelyzethez igazodó különleges szabályairól szóló 173/2020. (IV. 30.) Korm. rendelet 2. § (1) bekezdése alapján jött létre.
-
-(2) Az (1) bekezdésben meghatározottakat a határon túli kedvezményezettnek nyújtott támogatásra is alkalmazni kell.
+#### 8. §
 
 #### 5. A fizetési moratórium
 
@@ -588,47 +581,11 @@ terjedő időszakra nem kell a közterület-használati díjat megfizetnie a ven
 
 #### 33. Szociális és családügyi tárgyú átmeneti szabályok
 
-70. § (1) Ha
+#### 70. §
 
-- a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: 1993. évi III. törvény) szerinti havi rendszeres szociális ellátásnak az 1993. évi III. törvény 25. § (4)–(6) bekezdése szerinti rendszeres felülvizsgálata, vagy
-- b) a gyermekek otthongondozási díjának az 1993. évi III. törvény 134/H. § (5) bekezdése szerinti felülvizsgálata
+#### 71. §
 
-a veszélyhelyzet ideje alatt vált esedékessé, a felülvizsgálatot 2020. június 30-áig meg kell indítani.
-
-(2) A 2020. március 11-e után és 2020. június 30-a előtt lejáró
-
-- a) rendszeres gyermekvédelmi kedvezményre való jogosultság,
-- b) a hátrányos, halmozottan hátrányos helyzet fennállását megállapító határozat hatálya, és
-- c) az 1993. évi III. törvény 54. §-a alapján az egészségügyi szolgáltatás igénybevétele céljából megállapított jogosultság
-
-meghosszabbodik 2020. augusztus 31-éig.
-
-(3) A 2020. március 11-e után és 2020. június 30-a előtt lejáró közgyógyellátásra való jogosultság 2020. augusztus 31-éig meghosszabbodik.
-
-(4) Ha a gyermekek otthongondozási díja és az ápolási díj megállapítása iránti eljárásban az ellátásra való jogosultságot úgy állapították meg, hogy a szakértő a pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet 21. § (1) bekezdése, illetve 25/B. § (1) bekezdése szerinti szakértői vizsgálatot az ápolás helyszínén végzett vizsgálat mellőzésével, kizárólag az ápolt személy önkiszolgálási képességére, illetve ápolási-gondozási szükségletére vonatkozó hivatalos iratra alapozva végezte el, a jogosultságot 2020. augusztus 31-éig felül kell vizsgálni.
-
-71. § (1) A veszélyhelyzet ideje alatt lejárt,
-
-- a) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 42/A. §-a, 42/E. §-a, 42/F. §-a, 42/G. §-a vagy 50. §-a alapján járó gyermekgondozási díjra, és
-- b) a családok támogatásáról szóló 1998. évi LXXXIV. törvény (a továbbiakban: Cst.) 20. §-a, 20/A. §-a, 20/B. §-a vagy 22. §-a alapján járó gyermekgondozást segítő ellátásra, és a Cst. 23. §-a alapján járó gyermeknevelési támogatásra
-
-való jogosultság 2020. június 30-áig meghosszabbodik.
-
-(2) Az (1) bekezdés alapján meghosszabbított jogosultság ideje alatt más, az (1) bekezdés a) és b) pontjában felsorolt további ellátás vagy támogatás nem vehető igénybe.
-
-(3) Az (1) bekezdésben foglaltaktól eltérően
-
-- a) a gyermekgondozási díjra az Ebtv. 42/G. §-a alapján fennálló jogosultság megszűnik az Ebtv. 42/G. § (3) bekezdés f) pontja szerinti esetben,
-- b) a gyermekgondozást segítő ellátásra a Cst. 20/A. §-a alapján fennálló jogosultság megszűnik a Cst. 20/A. § (1) bekezdés c) pontja szerinti nyilatkozat visszavonásával.
-
-(4) Ha a magasabb összegű családi pótlékra való jogosultsághoz szükséges felülvizsgálatra 2020. március 11-e után és 2020. június 30-a előtt került volna sor,
-
-- a) a felülvizsgálatot 2020. június 30-áig el kell végezni, és
-- b) a magasabb összegű családi pótlékra való jogosultság 2020. június 30-áig meghosszabbodik.
-
-72. § (1) A veszélyhelyzet ideje alatt esedékes felülvizsgálatok esetén az egészségi állapottól, személyiség állapottól vagy fogyatékosságtól függő ellátások – a 70. §-ban és 71. §-ban meghatározott ellátások kivételével – e körülmények felülvizsgálatára tekintettel legkorábban 2020. július 1-jétől szüntethetők meg.
-
-(2) A 2020. március 11-e és 2020. június 30-a között lejáró rehabilitációs ellátás a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 10. § (1) bekezdés a) pontjában foglaltaktól eltérően 2020. szeptember 1-jén szűnik meg.
+#### 72. §
 
 #### 73. §
 
@@ -638,17 +595,13 @@ való jogosultság 2020. június 30-áig meghosszabbodik.
 
 (2) 2020. július 15-éig a házastársak egyike a házastársát teljes bizonyító erejű magánokiratban meghatalmazhatja a babaváró támogatásról szóló kormányrendelet szerinti babaváró támogatás iránti együttes igénylés mindkettejük nevében történő benyújtására, valamint minden, a kölcsönkérelem benyújtásához szükséges jognyilatkozat mindkét házasfél nevében való megtételére, továbbá a kölcsönszerződés megkötésére.
 
-#### 34. Köznevelési tárgyú átmeneti szabályok
+#### 34.
 
-76. § (1) 2020. június 26-ig minden általános és középfokú iskola megszervezi a tanulók felügyeletét. A felügyelet keretében napközi, szakkör, sportfoglalkozás, egyéni vagy csoportos felzárkóztató foglalkozás, fejlesztőfoglalkozás, egyéni vagy csoportos tehetségfejlesztő foglalkozás tartható.
+#### 76. §
 
-(2) Ha a tanuló a lakóhelyétől eltérő településen jár iskolába, és a saját intézményében nem tud tanulófelügyeletben részt venni, felügyeletének ellátását a lakóhelye szerinti településen működő iskola nem tagadhatja meg.
+#### 77. §
 
-77. § (1) 2020. június 26-ig az iskolai napközbeni felügyeletet igénybe vevő tanulók részére intézményi gyermekétkeztetést kell biztosítani a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 21/A. és 21/B. §-ában foglaltaknak megfelelően.
-
-(2) 2020. június 26-ig az iskolai napközbeni felügyeletben részt nem vevő gyermekek részére szünidei gyermekétkeztetést kell biztosítani a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 21/C. §-ában foglaltaknak megfelelően.
-
-78. § Az iskolai tanulófelügyeletben részt vevő gyermekek, tanulók számáról az iskolák naponta szolgáltatnak adatot a KIR rendszer használatával, a KIR rendszerben meghatározott adattartalommal.
+#### 78. §
 
 #### 35. Felsőoktatásra vonatkozó átmeneti szabályok
 
@@ -704,7 +657,7 @@ való jogosultság 2020. június 30-áig meghosszabbodik.
 
 #### 37. Egészségügyi tárgyú átmeneti szabályok
 
-83. § Ha az egészségügyi dolgozó működési nyilvántartásának az egészségügyről szóló 1997. évi CLIV. törvény 113. § (1) bekezdése szerinti érvényességi ideje a veszélyhelyzet időtartama alatt járt le, a nyilvántartás érvényességi ideje a veszélyhelyzet megszűnését követő 90 nappal meghosszabbodik.
+#### 83. §
 
 84. § A koronavírus járvány terjedésének csökkentése érdekében a gyógyszer kiadója a gyógyszer kiadását felírási igazolás nélkül is teljesíti azon személy részére, aki a beteg társadalombiztosítási azonosító jelét közli, és saját természetes személyazonosító adatait törvényben meghatározottak szerint hitelt érdemlően igazolja.
 
@@ -842,19 +795,15 @@ távmonitoring eszközökkel és egyéb infokommunikációs technológiák rév�
 
 #### 41. Okmányokkal kapcsolatos átmeneti szabályok
 
-89. § (1) A magyar hatóság által kiállított, a veszélyhelyzet ideje alatt lejárt, valamint a veszélyhelyzet megszüntetését követő 15 napon belül lejáró hivatalos okmányok – ideértve a forgalmi engedélybe bejegyzett műszaki érvényességi idejét is – a 90. és 91. §-ban meghatározott kivétellel, a veszélyhelyzet megszűnését követő 180 napig érvényesek.
+#### 89. §
 
-(2) Az (1) bekezdés szerint lejáró okmány pótlásának nincs helye.
-
-(3) Az (1) bekezdés szerinti új érvényességi időt a nyilvántartásba nem kell bejegyezni és az okmányon nem kell feltüntetni.
-
-90. § A veszélyhelyzet során alkalmazandó egyes belügyi és közigazgatási tárgyú szabályokról szóló 85/2020. (IV. 5.) Korm. rendelet hatályba lépését követően a veszélyhelyzet ideje alatt lejáró, a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény és a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény alapján kiadott tartózkodásra jogosító okmányok, valamint a letelepedési engedély és bevándorlási engedély okmányok érvényességi ideje – a rövid időtartamú beutazásra jogosító vízum, valamint a tartózkodási engedély átvételére jogosító vízum okmányok kivételével – a veszélyhelyzet megszűnését követő 45. nap.
+#### 90. §
 
 91. § A katonai légügyi hatóság által kiadott – a veszélyhelyzet ideje alatt lejárt – légialkalmassági bizonyítványok a veszélyhelyzet megszűnését követő 30 napig alkalmazhatóak.
 
-#### 42. Bizalmi szolgáltatási tanúsítványokra vonatkozó átmeneti szabályok
+#### 42.
 
-92. § A veszélyhelyzet során az elektronikus azonosítási feltételekkel, a végrehajtással és a médiaszolgáltatási díjjal kapcsolatos egyes jogszabályok eltérő alkalmazásáról szóló 132/2020. (IV. 17.) Korm. rendelet [a továbbiakban: 132/2020. (IV. 17.) Korm. rendelet] szerinti videotechnológiás azonosítás útján vagy a kormányzati hitelesítésszolgáltató által a 132/2020. (IV. 17.) Korm. rendelet szerinti azonosítás útján és a 132/2020. (IV. 17.) Korm. rendelet szerint átadott bizalmi szolgáltatási tanúsítványok a kiállításuktól számított hat hónapig érvényesek.
+#### 92. §
 
 #### 43. A kézbesítési kifogás és az igazolási kérelem előterjesztésére vonatkozó rendelkezések eltérő alkalmazása
 
@@ -1021,21 +970,15 @@ akkor is, ha a jogi személy létesítő okirata e lehetőségekről és annak f
 
 (2) Az (1) bekezdés szerint meghozott határozat tekintetében a 113. §-ban szereplő jogvesztő határidőket a határozat nyilvánosságra hozatalának napjától kell számítani.
 
-#### 52. A társasházakra vonatkozó átmeneti szabályok
+#### 52.
 
-115. § A társasházak – a társasházakról szóló jogszabályoktól eltérően – az ebben az alcímben foglaltak szerint működhetnek.
+#### 115. §
 
-116. § (1) Ha az éves elszámolásról és a következő évi költségvetésről való döntés, vagy más kötelező döntés határideje a veszélyhelyzet ideje alatt járt le, és ezekben az ügyekben a veszélyhelyzet ideje alatt irányadó szabályok alkalmazásával nem született döntés, akkor e tárgykörökben a veszélyhelyzet megszűnését követő 90 napon belül kell a közgyűlésnek döntenie.
+#### 116. §
 
-(2) Ha a közgyűlési döntés írásbeli szavazással történő meghozatalát a tulajdoni hányad 1/10-ével rendelkező tulajdonostársak a veszélyhelyzet ideje alatt irányadó szabályok szerint a veszélyhelyzet megszűnéséig kérték, az írásbeli szavazást és eredményének közlését a kérelem benyújtásakor hatályos rendelkezések szerint kell lefolytatni.
+#### 117. §
 
-117. § (1) Ha a közös képviselő (intézőbizottság) megbízatása a veszélyhelyzet ideje alatt járt le, a közös képviselő (intézőbizottság) az új közös képviselő (intézőbizottság) megválasztásáig, de legkésőbb a veszélyhelyzet megszűnését követő 90. napig köteles a feladatait – változatlan díjazás mellett – ellátni.
-
-(2) Ha a közös képviselő (intézőbizottság) megbízatása a veszélyhelyzet ideje alatt az (1) bekezdésben foglaltakon kívüli okból szűnt meg, vagy a közös képviselő (intézőbizottság) a veszélyhelyzet folytán nem volt képes ellátni a feladatait, az új közös képviselő (intézőbizottság) megválasztásáig a feladatokat a számvizsgáló bizottság látja el. Számvizsgáló bizottság hiányában, vagy ha a veszélyhelyzet folytán a számvizsgáló bizottság sem volt képes eljárni, az új közös képviselő (intézőbizottság) megválasztásáig a feladatokat bármely tulajdonostárs elláthatja.
-
-(3) Az (1) és (2) bekezdés szerinti esetben az új közös képviselőt (intézőbizottságot) a veszélyhelyzet megszűnését követő 90 napon belül kell megválasztani, feltéve, hogy erről a veszélyhelyzet ideje alatt irányadó szabályok alkalmazásával nem született döntés.
-
-118. § Ha a társasház szerveinek törvényességi felügyeleti eljárása a veszélyhelyzet ideje alatt irányadó szabályok szerint félbeszakadt, az eljárás a félbeszakadás oka elhárulásának napján vagy a veszélyhelyzet megszűnését követő napon folytatódik, és e naptól a határidők újra kezdődnek.
+#### 118. §
 
 #### 53. A köztestületekre vonatkozó eltérő rendelkezések
 
@@ -1281,11 +1224,9 @@ akkor is, ha a jogi személy létesítő okirata e lehetőségekről és annak f
 
 (3) A (2) bekezdés a)–c) pontja értelmében elektronikus útnak minősül az önkormányzat honlapján közzétett részletes szakmai tájékoztató, video-konferencia keretében az érintettek részére tájékoztatás tartása és kérdések megválaszolása, valamint a helyi műsorszolgáltató felületén megjelenő részletes szakmai tájékoztató.
 
-#### 70. Vízhasználatra vonatkozó átmeneti szabályok
+#### 70.
 
-166. § (1) A vízhasználó a vízkészletjárulékot a vízgazdálkodásról szóló 1995. évi LVII. törvény 15/B. § (3) bekezdésétől eltérően 2020. december 31. napjáig az általa ténylegesen felhasznált vízmennyiség után fizeti meg, ha az általa igénybe vett vízmennyiség a vízjogi engedélyben megjelölt vízmennyiség 80%-át nem éri el.
-
-(2) A vízhasználó az (1) bekezdés szerinti kedvezményt a tárgyévre vonatkozó éves bevallás során, külön nyilatkozattal érvényesítheti.
+#### 166. §
 
 #### 71. Agrár tárgyú átmeneti szabályok
 

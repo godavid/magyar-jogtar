@@ -847,11 +847,15 @@ kell figyelembe venni.
 
 (3) Az érintett személyt a megváltozott munkaképességű személyek ellátásait folyósító szerv a hirdetményi értesítésen felül 2021. december 31-éig hivatalból megküldött felhívásban értesíti az (1) bekezdés szerinti nyilatkozat, illetve a (2) bekezdés szerinti kérelem benyújtásának lehetőségéről. Az (1) bekezdés szerinti nyilatkozat, illetve a (2) bekezdés szerinti kérelem benyújtásának lehetőségéről a megváltozott munkaképességű személyek ellátásait folyósító szerv 2021. november 15-étől 2021. december 31-éig a hatósági eljárás szabályai szerint hirdetményt tesz közzé.
 
+(3a) Az (1) bekezdés szerinti nyilatkozat alapján indult hatósági eljárás ügyintézési határideje 2022. március 1-jén, a (2) bekezdés szerinti kérelem alapján indult hatósági eljárás ügyintézési határideje 2022. július 1-jén kezdődik.
+
 (4) A (2) bekezdés szerinti kérelem alapján a rehabilitációs hatóság az állapotvizsgálatot legkésőbb 2023. június 30-áig végzi el.
 
 (5) Ha az állapotvizsgálat alapján a rokkantsági ellátásban részesülő személy fizikai állapotában tényleges javulás nem következett be vagy a fizikai állapotjavulás ténye nem bizonyítható, a rehabilitációs hatóság a rokkantsági ellátás összegét – ha az az ellátott számára kedvezőbb – újra megállapítja úgy, hogy az nem lehet kevesebb a 2011. december hónapra járó ellátás időközi emelésekkel növelt összegénél.
 
 (6) Ha az állapotvizsgálat alapján az érintett személy fizikai állapotában tényleges javulás nem következett be vagy a fizikai állapotjavulás ténye nem bizonyítható, részére a 2011. december hónapra járó ellátás időközi emelésekkel növelt összege és a ténylegesen folyósított rokkantsági ellátás összegének különbözete legfeljebb 2012. január 1-jéig visszamenőleg is jár. A rehabilitációs hatóság a visszamenőlegesen járó különbözet egyösszegű megfizetéséről dönt.
+
+(7) Az (1) bekezdés szerinti kompenzáció és a (6) bekezdés alapján visszamenőlegesen járó különbözet más törvény alkalmazása során rokkantsági ellátásnak minősül.
 
 34. § (1) A nyugdíjbiztosítási igazgatási szerv a 2011. december 31-én rehabilitációs járadékban részesülő személynek – felülvizsgálat elvégzése nélkül – az ellátás hatósági döntésben megállapított időtartamáig a rehabilitációs járadékot továbbfolyósítja.
 

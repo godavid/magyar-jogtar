@@ -974,7 +974,7 @@ követő hónap 15. napjáig kell megállapítani, bevallani és ezzel egyidejű
 
 (10)
 
-(11) A 96. § 1–8. pontja 2022. július 1-jén lép hatályba.
+(11)
 
 (12) A 81. § és a 96. § 9. pontja hatálybalépésének napja az adópolitikáért felelős miniszter azon egyedi határozatának a Magyar Közlönyben történő közzétételét követő 31. nap, amely megállapítja Magyarország és a Szerbia Köztársaság közötti viszonosság megszűnésének időpontját.
 

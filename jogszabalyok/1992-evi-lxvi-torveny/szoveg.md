@@ -668,6 +668,8 @@ van lehetőség.
 
 (2) A nyilvántartást kezelő szerv az (1) bekezdés szerinti esetben a Khtv. 20/R. § (2) bekezdése szerinti törzsadat-nyilvántartásban szereplő és a Khtv. 20/T. §-a szerinti adatváltozás-bejelentési szolgáltatást igénybe vevő polgár személyazonosító igazolványának okmányazonosítóját, valamint a személyi azonosítóról és lakcímről szóló hatósági igazolványának okmányazonosítóját átadja az adatváltozás-kezelési szolgáltató részére.
 
+24/L. § A nyilvántartást kezelő szerv a Magyarország Helyreállítási és Ellenállóképességi Tervében megvalósuló, az önellátásra korlátozottan képes emberek biztonságát és életvédelmét szolgáló digitalizációs program (a továbbiakban: Program) megvalósítása céljából a Nemzeti Szociálpolitikai Intézetről szóló 610/2020. (XII. 18.) Korm. rendelet 6. § e) pontjában foglalt szakmatámogatási feladatának elősegítése és a Program igénybevételére jogosult célcsoport tagjainak bevonása, a kapcsolattartás elősegítése és a Programban biztosított szolgáltatás nyújtásának érdekében átadja a Szociálpolitikai Innovációs Közhasznú Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: SZIN Nonprofit Kft.) részére a Program időtartama alatt minden év december 15. napjáig azon Magyarországon élő magyar állampolgárságú személyek természetes személyazonosító adatait, érvényes lakcímadatait, akik a tárgyévet követő év december 31-éig betöltik a 65. életévüket.
+
 ### V. Fejezet — A nyilvántartási eljárás
 
 25. § (1) Az e törvényben előírt adatszolgáltatási és nyilvántartási feladataik teljesítéséhez az eljárásban érintett polgár személyazonosító jelét az alábbi szerveknek köteles átadni:
@@ -1302,7 +1304,7 @@ adatvédelmi tisztviselőt nevez ki.
 
 (4) Az adatszolgáltatásért, valamint a 18. § (4) bekezdése szerinti kapcsolatfelvétel céljából való megkeresésért, értesítésért, a 27/B. § (1) bekezdése szerinti értesítésért, valamint a személyazonosság igazolására alkalmas hatósági igazolvány kiadási eljáráshoz nem kapcsolódó egységes arcképmás- és aláírás-felvételezésért – ha jogszabály másként nem rendelkezik – igazgatási szolgáltatási díjat kell fizetni.
 
-(5) Az adatszolgáltatásért, valamint a 18. § (4) bekezdése szerinti kapcsolatfelvétel céljából való megkeresésért, értesítésért fizetendő igazgatási díj megfizetése alól – ide nem értve a hatóságnak az eljárás során felmerült igazolt költségét – mentesség illeti meg a helyi önkormányzatot, a költségvetési szervet, a közjegyzőt, valamint az önálló bírósági végrehajtót, továbbá törvényben, kormányrendeletben vagy önkormányzati rendeletben meghatározott ügyfajtákban az ügyfelet.
+(5) Az adatszolgáltatásért, valamint a 18. § (4) bekezdése szerinti kapcsolatfelvétel céljából való megkeresésért, értesítésért fizetendő igazgatási díj megfizetése alól – ide nem értve a hatóságnak az eljárás során felmerült igazolt költségét – mentesség illeti meg a helyi önkormányzatot, a költségvetési szervet, a közjegyzőt, az önálló bírósági végrehajtót, valamint a SZIN Nonprofit Kft.-t, továbbá törvényben, kormányrendeletben vagy önkormányzati rendeletben meghatározott ügyfajtákban az ügyfelet.
 
 (6) Az állandó személyazonosító igazolvány kiállításáról, valamint a 7. § (3) bekezdésében meghatározott újszülött és a születési vagy a házasságkötés előtt közvetlenül viselt nevétől eltérő házassági nevet felvevő, Magyarországon házasságot kötő magyar állampolgárok részére hivatalból kiadásra kerülő személyi azonosítóról és lakcímről szóló hatósági igazolvány kiállításáról a nyilvántartást kezelő szerv a megszemélyesítést végző szervezet útján gondoskodik.
 

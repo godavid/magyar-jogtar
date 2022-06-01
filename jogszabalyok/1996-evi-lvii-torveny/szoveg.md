@@ -457,7 +457,7 @@ kell figyelembe venni.
 
 (7) Az összeférhetetlenség megállapítására vagy a felmentésre vonatkozó előterjesztés a bírósághoz fordulásra nyitva álló határidő lejártát vagy – bírósághoz fordulás esetén – a bíróság döntésének jogerőre emelkedését követően küldhető meg a köztársasági elnöknek. A köztársasági elnök határozatával szemben jogorvoslatnak vagy közszolgálati jogvita kezdeményezésének nincs helye.
 
-39. § A vizsgáló a Gazdasági Versenyhivatal feladat- és hatáskörében eljáró, ágazati vizsgálatban, bejelentéssel (az összefonódás-bejelentést is ideértve), illetve panasszal összefüggő eljárásban, továbbá versenyfelügyeleti eljárásban vizsgálatot végző, illetve az eljárás eredményessége érdekében abban közreműködő köztisztviselő. A vizsgálói álláshelyeket a Gazdasági Versenyhivatal szervezeti és működési szabályzata, az álláshelyen ellátandó feladatokat a szabályzata határozza meg.
+39. § A vizsgáló a Gazdasági Versenyhivatal feladat- és hatáskörében eljáró, ágazati vizsgálatban, gyorsított ágazati vizsgálatban, bejelentéssel (az összefonódás-bejelentést is ideértve), illetve panasszal összefüggő eljárásban, továbbá versenyfelügyeleti eljárásban vizsgálatot végző, illetve az eljárás eredményessége érdekében abban közreműködő köztisztviselő. A vizsgálói álláshelyeket a Gazdasági Versenyhivatal szervezeti és működési szabályzata, az álláshelyen ellátandó feladatokat a szabályzata határozza meg.
 
 40. § (1) A Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja, a főtitkár és a vizsgáló további jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységre irányuló jogviszony, a közérdekű önkéntes tevékenység és a nevelőszülői foglalkoztatási jogviszony kivételével – nem létesíthet (összeférhetetlenség).
 
@@ -537,38 +537,46 @@ juttatásra jogosult.
 
 43/D. § (1) A Gazdasági Versenyhivatal, amennyiben az ármozgások vagy más piaci körülmények arra utalnak, hogy az adott ágazathoz tartozó valamely piacon a verseny torzul vagy korlátozódik, a piaci folyamatok feltárása és értékelése céljából végzéssel ágazati vizsgálatot indít. Az ágazati vizsgálatot elrendelő végzés indokolásában meg kell jelölni, hogy mely piaci körülményekre tekintettel szükséges az ágazati vizsgálat megindítása. A vizsgálatindító végzést hirdetményi úton kell közölni.
 
-(2) Az ágazati vizsgálatra megfelelően alkalmazni kell
+(1a) A Gazdasági Versenyhivatal, ha valamely ágazat sajátosságai, egyedi jellemzőinek összessége vagy szerkezeti struktúrája alapján megalapozottan feltehető, hogy az ágazathoz tartozó valamely piacon a verseny torzul vagy korlátozódik, és ezen piaci problémák feltárása és kezelése érdekében sürgős beavatkozás indokolt, a piaci folyamatok feltárása és értékelése céljából végzéssel gyorsított ágazati vizsgálatot indít. A gyorsított ágazati vizsgálatot elrendelő végzés indokolásában meg kell jelölni, hogy mely piaci jellemzőkre tekintettel szükséges a gyorsított ágazati vizsgálat megindítása. A gyorsított ágazati vizsgálatot elrendelő végzést hirdetményi úton kell közölni. A gyorsított ágazati vizsgálatot elrendelő végzés közlésének napja a hirdetmény kifüggesztését követő nap.
 
-- a) az 53/A. §-t, az 53/B. §-t, az 54. § (1)–(3) bekezdését, az 54/A. § (4) bekezdését, az 55. § (1), (3) és (4) bekezdését, az 55/A. §-t, az 55/B. § (1), (2) és (7) bekezdését, az 55/C. §-t, az 55/D. §-t, az 56. §-t, a 62/B. § (6) és (8)–(10) bekezdését, a 64. §-t, a 64/A. §-t, a 64/B. § (1)–(3) és (5)–(7) bekezdését, a 64/C. §-t, a 64/E. §-t, valamint a 78. § (2) bekezdését, továbbá
+(2) Az ágazati vizsgálatra és a gyorsított ágazati vizsgálatra megfelelően alkalmazni kell
+
+- a) az 53/A. §-t, az 53/B. §-t, az 54. § (1)–(3) bekezdését, az 54/A. § (4) bekezdését, az 55. § (1), (3) és (4) bekezdését, az 55/A. §-t, az 55/B. § (1), (2) és (7) bekezdését, az 55/C. §-t, az 55/D. §-t, az 56. §-t, a 61. § (1), (1a), (5) és (6) bekezdését, a 62/B. § (6) és (8)–(10) bekezdését, a 64. §-t, a 64/A. §-t, a 64/B. § (1)–(3) és (5)–(7) bekezdését, a 64/C. §-t, a 64/E. §-t, a 64/F. §-t, a 65. §-t, a 78. § (2) bekezdését, valamint a 84/C. §-t, továbbá
 - b) – ha e fejezet eltérően nem rendelkezik – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvénynek (a továbbiakban: Ákr.)
   - ba) a jogszerűség elvére, a hatékonyság elvére, az ügyfélre vonatkozó alapelvekre, valamint a jóhiszeműség elvére és a bizalmi elvre,
   - bb) a képviselet általános szabályaira és a meghatalmazásra,
   - bc) a megkeresésre,
-  - bd) – az eljárás résztvevőinek az eljárással összefüggő kérelmei vonatkozásában – a kérelemre, annak tartalmára, előterjesztésére és elbírálására, a hiánypótlásra, a kérelem visszautasítására, a kérelem nyomán indult eljárás megszüntetésére,
+  - bd) – az eljárás résztvevőinek az eljárással összefüggő kérelmei vonatkozásában – a kérelemre, annak tartalmára, előterjesztésére és elbírálására, a hiánypótlásra, a kérelem visszautasítására, a kérelemre indult eljárás megszüntetésére,
   - be) az igazolási kérelemre,
   - bf) az eljárási cselekményről való értesítésre,
   - bg) az eljárási cselekmények rögzítésére,
   - bh) a végzésre, a döntés tartalmára és formájára, véglegességére, közlésére, kijavítására, kiegészítésére, módosítására vagy visszavonására,
-  - bi) a fellebbezésre jogosultakra, az önálló fellebbezéssel támadható végzésekre, a fellebbezés halasztó hatályára, a fellebbezés előterjesztésére, valamint
+  - bi) a fellebbezésre jogosultakra, az önálló jogorvoslattal támadható végzésekre, a fellebbezés halasztó hatályára, a fellebbezés előterjesztésére, és
   - bj) a végrehajtásra
 
-vonatkozó rendelkezéseit azzal, hogy az említett rendelkezések alkalmazásában ügyfél alatt az ágazati vizsgálat tárgyát képező piacon gazdasági tevékenységet folytató vállalkozást (a továbbiakban: az ágazatban működő vállalkozás), fellebbezés alatt pedig a (4) bekezdés szerinti jogorvoslatot kell érteni.
+vonatkozó rendelkezéseit azzal, hogy az ügyfélre vonatkozó szabályokat az ágazati vizsgálat, illetve a gyorsított ágazati vizsgálat tárgyát képező piacon gazdasági tevékenységet folytató vállalkozásra (a továbbiakban: az ágazatban működő vállalkozás), a fellebbezésre vonatkozó szabályokat a (4) bekezdés szerinti jogorvoslatra is alkalmazni kell.
+
+(2a) Ágazati vizsgálat és gyorsított ágazati vizsgálat esetén az 55. § (1) és (3) bekezdése szerinti iratbetekintésre jogosult az ágazati vizsgálat vagy a gyorsított ágazati vizsgálat irataiba csak a vizsgálat befejezését követően tekinthet be.
+
+(2b) Gyorsított ágazati vizsgálatra a 65/A. és 65/B. §-t is alkalmazni kell azzal, hogy a gyorsított ágazati vizsgálat során a bíróság a kérelmezett helyszíni kutatást akkor engedélyezi, ha a Gazdasági Versenyhivatal a kérelmében valószínűsíti, hogy a gyorsított ágazati vizsgálat céljával és tárgykörével kapcsolatos bizonyítási eszköz az indítvány szerinti helyen észszerű megalapozottsággal fellelhető. A helyszíni kutatás megkezdésével egyidőben a gyorsított ágazati vizsgálatot elrendelő végzést a helyszíni kutatással érintettel közölni kell.
 
 (3) Aki a felvilágosítás adására, adat, irat szolgáltatására vonatkozó megkeresésnek nem vagy késedelmesen tesz eleget, valótlan adatot szolgáltat vagy adatszolgáltatási kötelezettségét egyéb módon felróhatóan megszegi, eljárási bírsággal sújtható. Az eljárási bírság legkisebb összege esetenként ötvenezer forint, legmagasabb összege az eljárási bírságot kiszabó végzés meghozatalát megelőző üzleti évben elért nettó árbevétel egy százaléka. A teljesítésre meghatározott határidő túllépése esetén napi összegben meghatározott eljárási bírság szabható ki, amelynek legmagasabb összege az eljárási bírságot kiszabó végzés meghozatalát megelőző üzleti évben elért nettó árbevétel egy napra jutó összegének egy százaléka.
 
-(4) Az ágazati vizsgálat során hozott, az Ákr. alapján önállóan fellebbezhető vagy e törvény szerint önálló jogorvoslattal megtámadható végzés a közlésétől számított tizenöt napon belül, közigazgatási perben támadható meg.
+(4) Az ágazati vizsgálat vagy a gyorsított ágazati vizsgálat során hozott, az Ákr. alapján vagy e törvény szerint önálló jogorvoslattal megtámadható végzés a közlésétől számított tizenöt napon belül, közigazgatási perben támadható meg.
 
-(5)
+(5) (5) A (3) bekezdés szerinti eljárási bírság végrehajtására irányuló eljárásban hozott döntéssel szemben indított közigazgatási perben a bíróság tizenöt napon belül határoz.
 
-43/E. § (1) Az ágazati vizsgálat eredményéről a Gazdasági Versenyhivatal – ésszerű időn belül – jelentést készít.
+43/E. § (1) Az ágazati vizsgálat és a gyorsított ágazati vizsgálat eredményéről a Gazdasági Versenyhivatal – észszerű időn belül – jelentést készít.
 
-(2) A jelentés elfogadását megelőzően biztosítani kell, hogy az ágazatban működő vállalkozások a jelentés tartalmára írásban észrevételeket tehessenek. Ennek érdekében a jelentés tervezetének korlátozottan megismerhető adatot nem tartalmazó változatát észrevételezésre meg kell küldeni az ágazatban működő vállalkozásoknak olyan időpontban, hogy észrevételeik megtételére legalább harminc nap álljon rendelkezésükre.
+(2) A Gazdasági Versenyhivatal a gyorsított ágazati vizsgálat eredményéről a gyorsított ágazati vizsgálat elrendelését követő egy hónapon belül jelentéstervezetet készít, amely határidőt a Gazdasági Versenyhivatal elnöke két alkalommal, egyenként legfeljebb egy hónappal meghosszabbíthatja. A jelentéstervezet elkészítésének határidejét meghosszabbító végzést hirdetményi úton kell közölni. A jelentéstervezet elkészítésének határidejét meghosszabbító végzés közlésének napja a hirdetmény kifüggesztését követő nap.
 
-(3) A Gazdasági Versenyhivatal – ha az ágazatban működő vállalkozások pontos köre nem állapítható meg, vagy az ilyen vállalkozások nagy száma miatt a vállalkozások egyenkénti megkeresése aránytalan nehézséggel járna, továbbá ha az egyéb érdekelteknek a jelentés tervezetével kapcsolatos véleményének megismerése érdekében ezt szükségesnek tartja – nyilvános meghallgatást tart. A nyilvános meghallgatás helyéről és idejéről, valamint annak tárgyáról szóló információkat legalább negyvenöt nappal a meghallgatást megelőzően a Gazdasági Versenyhivatal honlapján közzé kell tenni és arról az ágazatban működő vállalkozásokat hirdetményi úton értesíteni kell. A Gazdasági Versenyhivatal legalább tíz nappal a meghallgatást megelőzően honlapján közzéteszi a jelentés tervezetének és – ha az észrevételt tevő azt kéri – a jelentés tervezetére tett észrevételeknek a korlátozottan megismerhető adatot nem tartalmazó változatát. A meghallgatásról a Gazdasági Versenyhivatal összefoglalót vagy jegyzőkönyvet készít.
+(3) A jelentés elfogadását megelőzően biztosítani kell, hogy az ágazatban működő vállalkozások a jelentés tartalmára írásban észrevételeket tehessenek. Ennek érdekében a jelentés tervezetének korlátozottan megismerhető adatot nem tartalmazó változatát észrevételezésre meg kell küldeni az ágazatban működő vállalkozásoknak olyan időpontban, hogy észrevételeik megtételére ágazati vizsgálat esetén legalább harminc nap, gyorsított ágazati vizsgálat esetén legalább nyolc nap álljon rendelkezésükre.
 
-(4) A Gazdasági Versenyhivatal az ágazati vizsgálat eredményéről készített jelentést, valamint az írásbeli észrevételekről, illetve a meghallgatásról készült összefoglalót vagy jegyzőkönyvet, továbbá – ha kérik – az ágazatban működő vállalkozásoknak a jelentés tartalmára vonatkozó érdemi észrevételeit tartalmazó dokumentumok korlátozottan megismerhető adatot nem tartalmazó változatát honlapján közzéteszi.
+(4) A Gazdasági Versenyhivatal – ha az ágazatban működő vállalkozások pontos köre nem állapítható meg, vagy az ilyen vállalkozások nagy száma miatt a vállalkozások egyenkénti megkeresése aránytalan nehézséggel járna, továbbá ha az egyéb érdekelteknek a jelentés tervezetével kapcsolatos véleményének megismerése érdekében ezt szükségesnek tartja – nyilvános meghallgatást tart. A nyilvános meghallgatás helyéről és idejéről, valamint annak tárgyáról szóló információkat ágazati vizsgálat esetén legalább negyvenöt nappal, gyorsított ágazati vizsgálat esetén legalább tizenöt nappal a meghallgatást megelőzően a Gazdasági Versenyhivatal honlapján közzé kell tenni és arról az ágazatban működő vállalkozásokat hirdetményi úton értesíteni kell. A Gazdasági Versenyhivatal legalább tíz nappal a meghallgatást megelőzően honlapján közzéteszi a jelentés tervezetének és – ha az észrevételt tevő azt kéri – a jelentés tervezetére tett észrevételeknek a korlátozottan megismerhető adatot nem tartalmazó változatát. A meghallgatásról a Gazdasági Versenyhivatal összefoglalót vagy jegyzőkönyvet készít.
 
-43/F. § Ha a piacelemzés, illetve az ágazati vizsgálat eredménye alapján olyan piaci zavar áll fenn, amely versenyfelügyeleti eljárás révén nem vagy nem teljes körűen orvosolható, a Gazdasági Versenyhivatal
+(5) A Gazdasági Versenyhivatal az ágazati vizsgálat vagy gyorsított ágazati vizsgálat eredményéről készített jelentést, valamint az írásbeli észrevételekről, illetve a meghallgatásról készült összefoglalót vagy jegyzőkönyvet, továbbá – ha kérik – az ágazatban működő vállalkozásoknak a jelentés tartalmára vonatkozó érdemi észrevételeit tartalmazó dokumentumok korlátozottan megismerhető adatot nem tartalmazó változatát honlapján közzéteszi.
+
+43/F. § Ha a piacelemzés, az ágazati vizsgálat vagy a gyorsított ágazati vizsgálat eredménye alapján olyan piaci zavar áll fenn, amely versenyfelügyeleti eljárás révén nem vagy nem teljeskörűen orvosolható, a Gazdasági Versenyhivatal
 
 - a) erről tájékoztatja az Országgyűlés feladatkörrel rendelkező bizottságát, illetve a feladat- és hatáskörrel rendelkező minisztert vagy hatóságot,
 - b) kötelező erővel nem rendelkező nyilvános ajánlást adhat ki a piaci szereplők számára a tisztességes és hatékony verseny fenntartását és előmozdítását, az üzletfelek megfelelő tájékoztatását elősegítő legjobb gyakorlatokra, követendőként ajánlott piaci magatartásra vonatkozóan, vagy
@@ -833,7 +841,7 @@ tart kapcsolatot az ügyféllel és az eljárásban résztvevőkkel.
 
 (3) Ha a bizonyítási eszköz a tényállás tisztázásához elengedhetetlenül szükséges személyes adaton, illetve az eljárás eredményes lefolytatásához szükséges védett adaton túli személyes, illetve védett adatot is tartalmaz, és az ilyen adat elkülönítése a bizonyítási eszköz bizonyító erejének sérelme nélkül nem lehetséges, – ha az érintett adat védelmét szabályozó törvény azt nem zárja ki – a Gazdasági Versenyhivatal a bizonyítási eszközzel érintett minden személyes adat és védett adat megismerésére és kezelésére jogosult. A tényállás tisztázásához nem elengedhetetlenül szükséges személyes adat, illetve az eljárás eredményes lefolytatásához nem szükséges védett adat megvizsgálására a Gazdasági Versenyhivatal csak addig jogosult, ameddig meggyőződik arról, hogy az adat szükséges-e a tényállás tisztázásához, illetve az eljárás eredményes lefolytatásához. E vizsgálat lefolytatását követően a tényállás tisztázásához nem elengedhetetlenül szükséges személyes adatot, illetve az eljárás eredményes lefolytatásához nem szükséges védett adatot az 55/C. § (3) bekezdésének megfelelően kell kezelni.
 
-(4) A Gazdasági Versenyhivatal az ágazati vizsgálata, panasszal, bejelentéssel, összefonódás-bejelentés elintézésével kapcsolatos eljárása vagy versenyfelügyeleti eljárása során jogszerűen megszerzett iratot, adatot vagy egyéb bizonyítási eszközt más versenyfelügyeleti eljárásában felhasználhatja.
+(4) A Gazdasági Versenyhivatal az ágazati vizsgálata, a gyorsított ágazati vizsgálata, panasszal, bejelentéssel, összefonódás-bejelentés elintézésével kapcsolatos eljárása vagy versenyfelügyeleti eljárása során jogszerűen megszerzett iratot, adatot vagy egyéb bizonyítási eszközt más versenyfelügyeleti eljárásában felhasználhatja.
 
 ### Adatok zárt kezelése
 
@@ -1170,10 +1178,11 @@ meghosszabbíthatja.
 65/A. § (1) A vizsgáló
 
 - a) a 11. §-ban vagy a 21. §-ban, illetve az EUMSz. 101. vagy 102. cikkében tilalmazott magatartások miatt indított versenyfelügyeleti eljárásban,
-- b) a 67. § (3) és (6)–(8) bekezdése alapján indított versenyfelügyeleti eljárásban, vagy
-- c) a 67. § (4) bekezdése alapján indított versenyfelügyeleti eljárásban a 29. § szerinti tilalom megsértésének, illetve az összefonódás-bejelentésben lényeges tény félrevezető közlésének valószínűsíthetősége esetén
+- b) a 67. § (3) és (6)–(8) bekezdése alapján indított versenyfelügyeleti eljárásban,
+- c) a 67. § (4) bekezdése alapján indított versenyfelügyeleti eljárásban a 29. § szerinti tilalom megsértésének, illetve az összefonódás-bejelentésben lényeges tény félrevezető közlésének valószínűsíthetősége esetén vagy
+- d) a 43/D. § (1a) bekezdése szerinti gyorsított ágazati vizsgálat esetén,
 
-a vizsgálat tárgyát képező jogsértéssel, illetve a vizsgált összefonódással kapcsolatos bizonyítási eszközök felkutatása céljából bármely ingatlant, járművet, adathordozót – a (2) bekezdésben foglaltakat is beleértve – átkutathat, oda önhatalmúlag, a tulajdonos (birtokos), illetve az ott tartózkodó személyek akarata ellenére beléphet, e célból lezárt területet, épületet, helyiséget felnyithat (a továbbiakban: helyszíni kutatás).
+a vizsgálat tárgyát képező jogsértéssel, a vizsgált összefonódással, illetve a gyorsított ágazati vizsgálattal kapcsolatos bizonyítási eszközök felkutatása céljából bármely ingatlant, járművet, adathordozót – a (2) bekezdésben foglaltakat is beleértve – átkutathat, oda önhatalmúlag, a tulajdonos (birtokos), illetve az ott tartózkodó személyek akarata ellenére beléphet, e célból lezárt területet, épületet, helyiséget felnyithat (a továbbiakban: helyszíni kutatás).
 
 (1a) A helyszíni kutatás eredményes és biztonságos lefolytatása érdekében a Gazdasági Versenyhivatal a rendőrség közreműködését igényelheti.
 

@@ -36,7 +36,7 @@ a jogszabályban meghatározott esetekben.
 
 (9) Az egészségügyi szolgálati jogviszonyban álló személy, továbbá a (6) és (8) bekezdés szerinti foglalkoztatott jogviszonyára, valamint a munkáltatóra a munka törvénykönyvéről szóló 2012. évi I. törvényt (a továbbiakban: Mt.) az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-(10) A (9) bekezdés szerinti körre nem kell alkalmazni az Mt. 36–40. §-át, 198–211. §-át és 228. §-át.
+(10) A (9) bekezdés szerinti körre nem kell alkalmazni az Mt. 198–211. §-át és 228. §-át.
 
 (11) Az Mt. XIII. és XIV. fejezetét az Eütev.-ben meghatározott eltérésekkel kell alkalmazni.
 
@@ -201,6 +201,8 @@ megfelelő összeget.
 
 (4) Az Eütv. szerinti egészségügyi felsőfokú szakirányú szakmai képzést lezáró szakvizsga megszerzését megelőzően – az ilyen szakvizsga megszerzése feltételeként előírt felsőfokú szakképesítéssel rendelkező és ezen szakképesítéshez kötött munkakörben foglalkoztatott – egészségügyi szolgálati jogviszonyban álló személy illetménye az 1. melléklet szerinti 4. fizetési fokozatot akkor sem érheti el, ha a számára előirt várakozási idő eltelt.
 
+(4a) A (3) bekezdés szerinti egészségügyi szolgálati jogviszonyban álló személy esetében nem alkalmazható az Eütev. 13/B. §-a és 14–14/C. §-a.
+
 (5) A Kormány a (3) bekezdés alá nem tartozó vezetői kategóriát és ahhoz kapcsolódó – az 1. melléklet szerinti illetménytáblában foglaltnál magasabb – illetményt állapíthat meg.
 
 (6) Az egészségügyi szakdolgozó az egészségügyi ágazati előmeneteli szabályok szerinti – törvényben és a Kormány rendeletében meghatározott – illetményre, illetménypótlékra, valamint alapilletményen felül járó munkáltatói döntésen alapuló juttatásra jogosult.
@@ -262,6 +264,27 @@ ha ezen időtartamok korábban nem kerültek beszámításra a közalkalmazotti 
 - c) negyven év jogviszony esetén öthavi
 
 illetményének megfelelő összeg.
+
+(3) A szolgálati elismerés a (2) bekezdés szerinti egészségügyi szolgálati jogviszonyban töltött idő betöltésének a napján esedékes.
+
+(4) A szolgálati elismerésre való jogosultság szempontjából egészségügyi szolgálati jogviszonyban töltött időnek kell tekinteni a 8. § (9) bekezdés a)–l) pontja, valamint a 8. § (9a) bekezdés c) és e) pontja szerinti jogviszonyban töltött időtartamot, függetlenül attól, hogy az adott jogviszony 2020. november 18. napja előtt vagy azt követően jött létre.
+
+(5) A (4) bekezdés alkalmazása során nem vehető figyelembe az az időtartam, ami az egészségügyi szolgálati jogviszonyban álló személy fizetési fokozatának megállapításakor nem került figyelembevételre.
+
+(6) A (4) bekezdés alkalmazásában az e törvény hatálya alá tartozó egészségügyi szolgáltatónak minősülnek az alábbi szolgáltatók is:
+
+- a) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény szerinti felsőoktatási intézmény részeként működő klinikai központ,
+- b) az egyházi jogi személy fenntartásában vagy tulajdonában álló egészségügyi szolgáltató az ezen egészségügyi szolgáltatónál foglalkoztatott egészségügyi dolgozó vonatkozásában,
+- c) a többségi vagy kizárólagos állami vagy önkormányzati tulajdonban lévő gazdasági társaság.
+
+(7) A szolgálati elismerést az egészségügyi szolgálati jogviszonyban álló személy részére
+
+- a) a szolgálati elismerésre való jogosultság beálltát követő hónap utolsó napjáig kell kifizetni,
+- b) amennyiben az egészségügyi szolgálati jogviszonya a nyugdíjazásra tekintettel szűnik meg, a megszűnés évében esedékessé váló szolgálati elismerést az utolsó munkában töltött napon kell kifizetni.
+
+(8) A szolgálati elismerés több egészségügyi szolgáltatónál fennálló egészségügyi szolgálati jogviszony esetén is csak egy alkalommal illeti meg az egészségügyi szolgálati jogviszonyban álló személyt.
+
+(9) A szolgálati elismerést az az egészségügyi szolgáltató köteles kifizetni, amelyik szolgáltatóval az érintett személy egészségügyi szolgálati jogviszonya a szolgálati elismerésre való jogosultság beálltának időpontjában fennáll, vagy a (8) bekezdés szerinti esetben hamarabb létrejött.
 
 #### 10. § [Illetményen kívüli juttatások]
 
@@ -380,7 +403,7 @@ E törvény alkalmazásában
 
 - a) egészségügyi tevékenység: az Eütv. 3. § y) pontjában meghatározott tevékenység;
 - b) magasabb vezető: az egészségügyi szolgáltató vezetője és helyettese, valamint az egészségügyi szolgáltató működése szempontjából meghatározó jelentőségű feladatot ellátó vezető;
-- c) munkáltató: az állami fenntartású egészségügyi szolgáltató esetén a Kormány rendeletében kijelölt szerv, a nem állami fenntartású egészségügyi szolgáltató esetén az egészségügyi szolgáltató vezetője.
+- c) munkáltató: az állami fenntartású egészségügyi szolgáltató esetén a törvényben vagy a Kormány rendeletében kijelölt szerv, a nem állami fenntartású egészségügyi szolgáltató esetén az egészségügyi szolgáltató vezetője.
 
 #### 17. § [Felhatalmazó rendelkezések]
 
@@ -422,11 +445,11 @@ E törvény alkalmazásában
 
 #### 19. § [Átmeneti rendelkezések]
 
-(1) Az e törvény hatálya alá tartozó egészségügyi szolgáltatónál foglalkoztatott közalkalmazott (a továbbiakban: érintett) közalkalmazotti jogviszonyára 2020. december 31. napjáig a Kjt. rendelkezéseit kell alkalmazni.
+(1) Az e törvény hatálya alá tartozó egészségügyi szolgáltatónál foglalkoztatott közalkalmazott (a továbbiakban: érintett) közalkalmazotti jogviszonyára 2021. február 28. napjáig a Kjt. rendelkezéseit kell alkalmazni.
 
-(2) 2021. január 1. napján az érintett jogviszonya az egészségügyi szolgálati munkaszerződésben foglaltak szerint az e törvény szerinti egészségügyi szolgálati jogviszonnyá alakul át.
+(2) 2021. március 1. napján az érintett jogviszonya az egészségügyi szolgálati munkaszerződésben foglaltak szerint az e törvény szerinti egészségügyi szolgálati jogviszonnyá alakul át.
 
-(3) A jogviszony átalakulásáról és az egészségügyi szolgálati munkaszerződés tervezett tartalmáról az érintettet 2020. november 30. napjáig írásban tájékoztatni kell. Az egészségügyi szolgálati munkaszerződést 2020. december 31-ig kell megkötni azzal, hogy azt 2021. január 1. napjától kell alkalmazni.
+(3) A jogviszony átalakulásáról és az egészségügyi szolgálati munkaszerződés tervezett tartalmáról az érintettet az országos kórház-főigazgató által előírtak szerint írásban tájékoztatni kell. Az egészségügyi szolgálati munkaszerződést 2021. február 28-ig kell megkötni azzal, hogy azt 2021. március 1. napjától kell alkalmazni.
 
 (4) Ha az egészségügyi szolgálati munkaszerződés a (3) bekezdés szerinti határidőben nem kerül megkötésre, az egészségügyi szolgáltatónál foglalkoztatott közalkalmazott közalkalmazotti jogviszonya 2021. március 1-jével megszűnik. Ebben az esetben
 
@@ -442,35 +465,27 @@ a jogviszony megszűnésekor érvényes illetményének megfelelő összegű vé
 
 (7) A 2021. március 1. napján fennálló és e törvény alapján engedélykötelessé váló tevékenység, illetve jogviszony engedélyeztetése iránti kérelmet az egészségügyi szolgálati jogviszony létrejöttét követő 60 napon belül kell az egészségügyi szolgálati jogviszonyban álló személynek a Kormány rendeletében meghatározottak szerint előterjesztenie.
 
-(8) Az e törvény hatálya alá tartozó egészségügyi szolgáltató vezetője dönthet arról, hogy az általa vezetett egészségügyi szolgáltatónál e törvény egy, a 2021. január 1. napjától későbbi naptól alkalmazandó azzal, hogy e törvény alkalmazásának kezdőnapja nem lehet 2021. április 1. napjától későbbi időpont. A döntésről és annak tartalmáról az egészségügyi szolgáltató vezetője haladéktalanul tájékoztatja az egészségügyért felelős minisztert, a munkáltatót (ha az nem a szolgáltató vezetője) és az érintetteket, valamint a Magyar Államkincstárt.
+(8)
 
-(9) A (8) bekezdés szerinti esetben az egészségügyi szolgáltatónál foglalkoztatott közalkalmazott közalkalmazotti jogviszonya az e törvény alkalmazásának a (8) bekezdés alapján meghatározott kezdőnapján alakul át egészségügyi szolgálati jogviszonnyá.
+(9)
 
-(10) A (8) bekezdés szerinti esetben 2021. január 1. napjától e törvény alkalmazásának kezdőnapjáig az érintett egészségügyi szolgáltatónál foglalkoztatott közalkalmazott
+(10)
 
-- a) közalkalmazotti jogviszonyára a Kjt. rendelkezéseit kell alkalmazni,
-- b) a Kjt. szerint megállapított 2021. évi szabadságának időarányos részére jogosult,
-- c) a 2021. január 1. napján őt megillető illetményére (ideértve a pótlékokat, kereset kiegészítést, illetmény kiegészítést is), illetve díjazására jogosult.
+(11)
 
-(11) A (10) bekezdés c) pontja szerinti illetmény megállapítása során figyelembe kell venni
+(12)
 
-- a) a közalkalmazotti jogviszonyban töltött idő alapján az illetmény összegében 2021. január 1. után bekövetkező változást,
-- b) a 2021. január 1. után megállapított idegennyelv-tudási pótlékot,
-- c) a 2021. január 1. utáni vezetői munkakörbe vagy vezetői munkakörből nem vezetői munkakörbe helyezés miatt az illetményben bekövetkező változást.
+(13)
 
-(12) A (8) bekezdés szerinti esetben, ha az érintett jogviszonya 2021. január 1. után jött létre, a (10) bekezdés szerinti illetmény helyett a kinevezési okirat szerinti illetményét kell figyelembe venni.
+(14)
 
-(13) A (8) bekezdés szerinti esetben az érintett jogosult az egészségügyi szolgálati munkaszerződésben megállapított illetménye és az érintettnek a 2021. január 1. napjától az e törvény alkalmazásának kezdőnapjáig – a (8)–(11) bekezdésben foglaltak szerint – járó, e törvény hatálya alá tartozó ugyanazon munkáltatótól származó illetménye közötti különbözetre, amit az érintett részére az egészségügyi szolgálati munkaszerződés alapján járó első illetményével egyidejűleg, de legkésőbb 2021. április 5-én kell kifizetni.
-
-(14) A (8) bekezdés szerinti esetben az egészségügyi szolgálati jogviszonyban álló személy e törvény alkalmazásának kezdőnapjától 2021. december 31-ig az e törvény szerinti alapszabadságának és pótszabadságának időarányos részére jogosult.
-
-(15) A (8) bekezdés szerinti esetben az e törvény alkalmazásának kezdőnapján fennálló, e törvény alapján engedélykötelessé váló tevékenység, illetve jogviszony engedélyeztetése iránti kérelmet az e törvény alkalmazásának kezdőnapját követő 60 napon belül kell az egészségügyi szolgálati jogviszonyban álló személynek a Kormány rendeletében meghatározottak szerint előterjesztenie.
+(15)
 
 (16) E törvény hatálybalépése nem érinti az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi szakdolgozók illetményét (ideértve az illetménypótlékokat is).
 
-(17) E törvény hatálybalépése nem érinti az e törvény hatálybalépése előtt megkötött kollektív szerződés hatályát.
+(17)
 
-(18) A 4. § (5) bekezdését nem kell alkalmazni abban az esetben, ha az egészségügyi szolgálati jogviszonyban álló személy e törvény hatálybalépését megelőzően már megkezdte a beteg ugyanazon betegségének kezelését, amivel a beteget az e törvény hatálya alá tartozó egészségügyi szolgáltatónál e törvény hatálybalépését követően kezeli.
+(18) A 4. § (5) bekezdését nem kell alkalmazni abban az esetben, ha az egészségügyi szolgálati jogviszonyban álló személy 2021. március 1. napját megelőzően már megkezdte a beteg ugyanazon betegségének kezelését, amivel a beteget az e törvény hatálya alá tartozó egészségügyi szolgáltatónál 2021. március 1. napját követően kezeli.
 
 (19) A 4. § (10) bekezdésétől eltérően
 
@@ -479,7 +494,17 @@ a jogviszony megszűnésekor érvényes illetményének megfelelő összegű vé
 
 gyógyító-megelőző tevékenységet végezhet.
 
-20. §
+20. § (1) Azon személy esetében, aki 2021. december 31-én egészségügyi szolgálati jogviszonyban állt, a szolgálati elismerés 9. § (2) bekezdése szerinti soron következő fokozatainak megállapításához szükséges szolgálati idő számítása során az egészségügyi szolgálati jogviszonyban álló személyek szolgálati elismerésével kapcsolatos egyes intézkedésekről szóló 664/2021. (XII. 1.) Korm. rendelet [a továbbiakban: 664/2021. (XII. 1.) Korm. rendelet] 2021. december 31-én hatályos 1. §-a alapján megállapított szolgálati idejét szolgálati elismerésre jogosító szolgálati időként 2022. január 1-jét követően is figyelembe kell venni.
+
+(2) Ha az egészségügyi szolgálati jogviszonyban álló személy a 664/2021. (XII. 1.) Korm. rendelet alapján 2021. december 31-éig szolgálati elismerésre jogosulttá vált, de az részére még nem került kifizetésre, a szolgálati elismerést 2022. június 30-áig kell kifizetni.
+
+(3) Az egészségügyi szolgáltató a (2) bekezdés szerinti kötelezettség teljesítéséhez felhasználhatja az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 6. § (4) bekezdése alapján részére kifizetett összeget.
+
+(4) A 664/2021. (XII. 1.) Korm. rendelet 2021. december 31-én hatályos 2/A. § (1) bekezdése, valamint a (3) bekezdés szerinti összeg jogszerű felhasználását a kormányzati ellenőrzési szerv 2022. szeptember 30-ig ellenőrzi. Az ellenőrzés eredményéről a kormányzati ellenőrzési szerv tájékoztatja az egészségügyért felelős minisztert. A kormányzati ellenőrzési szerv ellenőrzése eredményeképpen feltárt, a (3) bekezdés szerinti összeg felhasználásával kapcsolatos szabálytalanságok esetén visszatérítendő összeg mértékét és a visszatérítés határidejét az egészségügyért felelős miniszter állapítja meg.
+
+(5) A visszatérítendő összegről és a visszatérítés határidejéről az egészségügyi szolgáltatót és a Nemzeti Egészségbiztosítási Alapkezelőt (a továbbiakban: finanszírozó) az egészségügyért felelős miniszter értesíti. A finanszírozó jogosult a támogatás kiutalása napján érvényes jegybanki alapkamat kétszeresével terhelt visszatérítendő összeget három egyenlő részletben levonni az egészségügyi szolgáltató részére esedékes havi finanszírozási összegből.
+
+(6) A 664/2021. (XII. 1.) Korm. rendelet 2021. december 31-én hatályos 1. § c) pontja alkalmazásában az egyes, az egészségügyi szolgálati jogviszonnyal összefüggő veszélyhelyzeti szabályokról szóló 69/2021. (II. 19.) Korm. rendelet 16. § (5) bekezdése alatt az e törvény 8. § (9a) bekezdését kell érteni.
 
 21. §
 

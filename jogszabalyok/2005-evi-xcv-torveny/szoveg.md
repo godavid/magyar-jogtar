@@ -729,7 +729,7 @@ kérdésében a Polgári Törvénykönyv sérelemdíjra és termékfelelősségr
 
 (2e) A (2a) bekezdés szerinti feltételek fennállása esetén, a (2f)–(2h) bekezdésben foglaltak szerint, a megbetegedés feltételezett vagy igazolt terjedésének megakadályozása érdekében az állami egészségügyi tartalék kezeléséért felelős szerv kérelmére a gyógyszerészeti államigazgatási szerv engedélyezheti
 
-- a) EGT-megállapodásban részes államban, vagy EGT-megállapodásban nem részes, de a klinikai vizsgálatok, illetve a gyógyszergyártás tekintetében a Magyarországon hatályos szabályozással egyenértékű szabályozást alkalmazó államban,
+- a) EGT-megállapodásban részes államban, az EGT-megállapodásban nem részes, de a klinikai vizsgálatok, illetve a gyógyszergyártás tekintetében a Magyarországon hatályos szabályozással egyenértékű szabályozást alkalmazó államban, vagy az Egészségügyi Világszervezet veszélyhelyzeti alkalmazási ajánlással rendelkező gyógyszereket tartalmazó listáján szereplő gyógyszer forgalomba hozatali, illetve alkalmazási engedélye szerinti államban,
 - b) Nagy-Britannia és Észak-Írország Egyesült Királyságában, vagy
 - c) legalább három – köztük legalább egy európai uniós vagy európai uniós tagjelölt – államban
 

@@ -1129,26 +1129,9 @@ vonatkozó szabályok szerint kell figyelembe venni.
 
 (4)
 
-82/A. § A honvédelmi alkalmazottakra vonatkozó kegyeleti gondoskodás szabályait, a kegyeleti gondoskodás keretében nyújtott költségtérítéseket, igénybevételük módját és feltételeit, valamint az árvák kiegészítő támogatása megállapításának és folyósításának részletes szabályait a miniszter rendeletben határozza meg.
+82/A. § A honvédelmi alkalmazottakra vonatkozó kegyeleti gondoskodás szabályait, a kegyeleti gondoskodás keretében nyújtott költségtérítéseket, igénybevételük módját és feltételeit a miniszter rendeletben határozza meg.
 
-82/B. § (1) Árvák kiegészítő támogatására jogosult a 2018. december 31-ét követően, a honvédelmi alkalmazotti jogviszonyának fennállása alatt elhunyt honvédelmi alkalmazottnak azon gyermeke, aki árvaellátásra jogosult.
-
-(2) Az árvák kiegészítő támogatásának a mértéke
-
-- a) a munkahelyi kötelmekkel összefüggő balesetben vagy munkahelyi eredetű foglalkozási megbetegedésben elhunyt honvédelmi alkalmazott árvája esetében a megállapított árvaellátás 25%-a, vagy
-- b) az elhunyt honvédelmi alkalmazottnak a) pont alá nem tartozó árvája esetében a megállapított árvaellátás 10%-a.
-
-(3) Az árvák kiegészítő támogatására való jogosultságról a miniszter által kijelölt honvédelmi szervezet hivatalból eljárva határozatban dönt, és a megállapított kiegészítő támogatást a nyugdíjfolyósító szerv folyósítja.
-
-(4) Az árvák kiegészítő támogatásának és az azzal kapcsolatos végrehajtási költségek forrását a központi költségvetés biztosítja.
-
-(5) Az árvák kiegészítő támogatásának összegét az öregségi nyugdíjnak, a korhatár előtti ellátásnak vagy a szolgálati járandóságnak az emelésére vonatkozó, a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny. tv.) 62. §-ában foglalt szabályok szerint kell emelni.
-
-(6) Az árvák kiegészítő támogatásának jogalap nélküli felvétele esetén a Tny. tv. visszafizetési és megtérítési kötelezettségre vonatkozó szabályai alapján kell eljárni. A jogalap nélkül felvett árvák kiegészítő támogatásából eredő követelést a nyugdíjbiztosítási igazgatási szerv a Tny. tv. szabályai alapján érvényesíti.
-
-(7) Az árvák kiegészítő támogatására jogosult az árvák kiegészítő támogatása tárgyában hozott elsőfokú határozat ellen a közléstől számított 15 napon belül írásban fellebbezést nyújthat be. A fellebbezést az elbírálására jogosultnak címezve a központi pénzügyi szervezethez kell benyújtani. A fellebbezés elbírálására a miniszter jogosult, aki a fellebbezést 30 napon belül bírálja el.
-
-(8) Az árvák kiegészítő támogatása tárgyában hozott határozat fellebbezésre tekintet nélkül végrehajtható.
+#### 82/B. §
 
 #### 10/A. A honvédelmi alkalmazott fegyelmi felelőssége
 
@@ -1525,7 +1508,7 @@ kivéve, ha hozzájárul a kirendeléséhez.
 - 25. azokat az eseteket, ahol a jubileumi jutalom alapjául szolgáló illetmény összegébe a 70–74. § szerinti pótlékot és a 75. § szerinti honvédelmi illetménykiegészítést is be kell számítani,
 - 26. a honvédelmi alkalmazott önként vállalt többletkötelezettségeit, különösen a hadkötelezettség bevezetése esetére vállalt katonai szolgálatvállalással és az ehhez kapcsolódó kiképzéssel, felkészítéssel kapcsolatos kötelezettségeket,
 - 27. a honvédelmi alkalmazott feladatellátási helyére történő visszarendelésére, a visszarendelés ellentételezésére, a honvédelmi alkalmazott külföldre utazásának bejelentésére vonatkozó részletes szabályokat,
-- 28. a honvédelmi alkalmazottak kegyeleti gondoskodásának szabályait, a kegyeleti gondoskodás keretében nyújtott költségtérítéseket, igénybevételük módját és feltételeit, valamint az árvák kiegészítő támogatása megállapításának és folyósításának szabályait,
+- 28. a honvédelmi alkalmazottak kegyeleti gondoskodásának szabályait, a kegyeleti gondoskodás keretében nyújtott költségtérítéseket, igénybevételük módját és feltételeit,
 - 29. a kártérítési és a fegyelmi eljárás részletes eljárási szabályait, illetve – ha szükséges – ezekkel összefüggésben azt az időtartamot, amely az e törvény szerinti elévülési időbe nem számít bele,
 - 30. a honvédelmi szervezet meg nem térülő kárának leírási és törlési szabályait,
 - 31. azokat a honvédelmi szervezeteket, amelyek rendeltetésük folytán vasárnap és munkaszüneti napon is működő munkáltatónak minősülnek,
@@ -1533,6 +1516,7 @@ kivéve, ha hozzájárul a kirendeléséhez.
 - 33. a lakhatási támogatási formákat, az egyes lakhatási támogatásokra való jogosultság feltételeit, az igényjogosultság elbírálásának és teljesítésének módját,
 - 34. a helyettesítési díjra való jogosultság eseteit, annak mértékét.
 - 35. a 89/D. § (1) bekezdés b) pontja szerinti munkaköröket.
+- 36. a 99/E. § szerinti árvák kiegészítő támogatása megállapításának és folyósításának szabályait.
 
 93/A. § A miniszter a Katonai Nemzetbiztonsági Szolgálat honvédelmi alkalmazottai pszichikai alkalmasságának vizsgálatára vonatkozó szabályokat közjogi szervezetszabályozó eszközben határozza meg.
 
@@ -1620,9 +1604,11 @@ jogviszony-megszűnésnek.
 
 99/B. § Ha egy szakképző intézmény a honvédelemért felelős miniszter fenntartói irányítása alá kerül, az átvétel időpontjában az ott foglalkoztatottak jogviszonya honvédelmi alkalmazotti jogviszonnyá alakul át, és a munkáltatói jogkört gyakorló az átvétel időpontjától számított 15 napon belül kinevezést ad az érintettek részére. Az átvétel során a 97. § (1), (3), (4) és (10) bekezdését, valamint a 98. §-t, a 99. § (1) bekezdését megfelelően alkalmazni kell azzal, hogy a 2018. december 31-ei határidő helyett a jogviszony átalakulása előtti napot kell érteni.
 
-99/C. § Az elhunyt honvédelmi alkalmazottnak árvaellátásban részesülő árvája vonatkozásában az árvák kiegészítő támogatásának megállapításáról szóló határozatokat a kincstár adatszolgáltatását követő 30 napon belül kell meghozni.
+#### 99/C. §
 
 99/D. § Az egyes törvények honvédelemmel és rendvédelemmel összefüggő módosításáról szóló 2021. évi CXLI. törvény hatálybalépésének napján hatályát veszti az orvos, szakorvos, fogorvos, szakfogorvos, gyógyszerész, szakgyógyszerész, továbbá a Kormány rendeletében meghatározott munkakörben foglalkoztatott egyéb, nem egészségügyi egyetemi végzettséggel, valamint nem egészségügyi egyetemi végzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkező egészségügyi honvédelmi alkalmazott, továbbá az Eütv. szerinti egészségügyi felsőfokú szakirányú szakmai képzést lezáró szakvizsga megszerzését megelőzően az ilyen szakvizsga megszerzése feltételeként előírt felsőfokú szakképesítéssel rendelkező és ezen szakképesítéshez kötött munkakörben foglalkoztatott egészségügyi honvédelmi alkalmazott által tett, többletkötelezettség vállalására vonatkozó nyilatkozat.
+
+99/E. § E törvénynek a veszélyhelyzet megszűnésével összefüggő szabályozási kérdésekről szóló 2022. évi V. törvény hatálybalépését megelőző napon hatályos 82/A. §-a és 82/B. §-a alapján a 2020. július 1-je és a veszélyhelyzet megszűnésével összefüggő szabályozási kérdésekről szóló 2022. évi V. törvény hatálybalépése közötti időszakra járó árvák kiegészítő támogatását utólag, egy összegben, miniszteri rendeletben meghatározottak szerint kell megállapítani és folyósítani, és 2022. december 31-ig, de legkésőbb a jogosultság jogerős megállapítását követő 60. napig kell kifizetni.
 
 #### 18.
 

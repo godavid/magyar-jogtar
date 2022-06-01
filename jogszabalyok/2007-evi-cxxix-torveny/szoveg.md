@@ -252,6 +252,8 @@ szerinti építményeket kell érteni.
 
 (3) A termőföld más célú hasznosításával járó engedélyezési, jóváhagyási vagy tudomásulvételi (a továbbiakban együtt: engedélyezési) eljárásban érdemi döntés a termőföld más célú hasznosításának engedélyezéséről szóló véglegessé vált ingatlanügyi hatósági határozat figyelembevételével hozható. Az ingatlanügyi hatóság határozatának hiánya esetén az eljáró hatóság az engedélyezési eljárását felfüggeszti.
 
+(3a) A (3) bekezdésében foglaltakat nem kell alkalmazni a vasúti építmények azon építésügyi hatósági engedélyezési eljárása vonatkozásában, ahol a nyomvonal által érintett ingatlanokat kormányrendelet állapítja meg.
+
 (4) A termőföld más célú hasznosítása kizárólag a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi tv.) 13. § (3) bekezdésében meghatározott célú igénybevételekre engedélyezhető, feltéve, hogy
 
 - a) az igénybevevő a tulajdonos vagy az ő érdekében eljáró más személy vagy szervezet,

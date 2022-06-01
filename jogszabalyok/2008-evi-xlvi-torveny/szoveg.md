@@ -1024,6 +1024,8 @@ az élelmiszerlánc-felügyeleti szervhez nyilvántartásba vétel céljából b
 
 (2) Az (1) bekezdésben meghatározott élelmiszer-kiskereskedőn kívüli más élelmiszer-vállalkozó a minőségmegőrzési időtartam lejárta előtt legalább 48 órával a kereskedelmi forgalmazás céljából a birtokában lévő élelmiszert jogosult karitatív szervezet javára felajánlani, valamint az ÉMK részére önkéntesen felajánlhatja az ÉMK-val történt megegyezés alapján.
 
+(2a) Az ÉMK logisztikai indokok alapján megjelölheti a felajánlott élelmiszer átadásának helyszínét és időpontját, ahova a felajánló az élelmiszert elszállítja. Az ÉMK az átadás helyszínét úgy határozza meg, hogy a felajánlott élelmiszer szállítása a lehető legkisebb káros környezeti hatással járjon, és a felajánlónak a lehető legkisebb hátrányt okozzon, figyelembe véve a felajánló és az élelmiszert lejegyző karitatív szervezet telephelyeinek földrajzi elhelyezkedését, és biztosítja, hogy a karitatív szervezet az ÉMK élelmiszermentési adatbázisán keresztül lejegyzett élelmiszert a lejegyzés időpontjától számított 24 órán belül átvehesse.
+
 (3) Az ÉMK az állam 100%-os tulajdonában álló társaság. Az ÉMK üzletrésze forgalomképtelen. Az ÉMK felett a tulajdonosi jogokat a magyar állam nevében az élelmiszerlánc-felügyeleti szerv gyakorolja.
 
 (4) Az ÉMK az élelmiszermentéssel kapcsolatban közhatalmi feladatként:
@@ -1105,6 +1107,7 @@ rendelkezéseit is alkalmazza.
 - c) állatjárványügyi intézkedést tartalmazó,
 - d) növény-egészségügyi zárlati intézkedést tartalmazó, valamint
 - e) az 52. § (3) bekezdése szerinti
+- f) a lakosság élelmiszerrel való ellátásának zavartalan biztosítása érdekében élelmiszer- vagy takarmány összetevő, -termék vagy -termékcsoport átmeneti helyettesítését lehetővé tevő
 
 határozatát a miniszter által vezetett minisztérium hivatalos lapjában, honlapján, valamint a nemzeti hírügynökségen keresztül kell közzétenni. A határozat közlése időpontjának az első közzététel időpontja minősül.
 
