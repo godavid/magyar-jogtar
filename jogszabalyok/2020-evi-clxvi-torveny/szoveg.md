@@ -21,15 +21,9 @@ az anyakönyvi eljárások egyszerűsítéséről és elektronizálásáról, va
 
 4. § (1)
 
-(2) Az At. 4. § (6) bekezdése a következő h) ponttal egészül ki:
+(2)
 
-(Az anyakönyvi szerv)
-
-„h) elektronikus úton benyújtott kérelem esetén dönt a házassági névviselési forma módosításáról.”
-
-(3) Az At. 4. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Anyakönyvi kivonat kiállítására az anyakönyvvezető és az anyakönyvi szerv jogosult. Az anyakönyvi szerv az adatoknak az általa történt bejegyzését követően, valamint elektronikus úton benyújtott kérelem esetén jogosult anyakönyvi kivonat kiállítására.”
+(3)
 
 (4)
 
@@ -37,15 +31,7 @@ az anyakönyvi eljárások egyszerűsítéséről és elektronizálásáról, va
 
 (2)
 
-(3) Az At. 9. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép, valamint a következő c) ponttal egészül ki:
-
-(A házassági névviselési forma módosítására)
-
-„b) az elektronikus anyakönyvben még nem szereplő anyakönyvi bejegyzés esetén a nyilvántartó anyakönyvezető,
-
-c) az elektronikus anyakönyvben szereplő anyakönyvi bejegyzés vonatkozásában elektronikusan benyújtott kérelem esetén az anyakönyvi szerv”
-
-(illetékes.)
+(3)
 
 (4)
 
@@ -55,25 +41,7 @@ c) az elektronikus anyakönyvben szereplő anyakönyvi bejegyzés vonatkozásáb
 
 (7)
 
-(8) Az At. 12. §-a helyébe a következő rendelkezés lép:
-
-„12. § (1) Az anyakönyvbe bejegyzett vagy bejegyezhető adatról kért anyakönyvi kivonat és anyakönyvi hatósági bizonyítvány kiállítására az az anyakönyvvezető illetékes, akinél az anyakönyvi okirat kiállítását kérték.
-
-(2) A nyilvántartó anyakönyvvezető illetékes
-
-a) az anyakönyvi kivonat hivatalból történő,
-
-b) az elektronikus anyakönyvbe még be nem jegyzett anyakönyvi bejegyzésről elektronikus úton igényelt anyakönyvi kivonat,
-
-c) a papír alapú anyakönyvbe bejegyzett, de az elektronikus anyakönyvbe be nem jegyezhető adatról kért anyakönyvi hatósági bizonyítvány
-
-kiállítására.
-
-(3) Ha a kérelmező az elektronikus anyakönyvben szereplő bejegyzésről elektronikus úton igényelt anyakönyvi kivonatot személyesen kívánja átvenni, az anyakönyvi okirat kiállítására az anyakönyvi okirat kiállítása iránti kérelemben az átvétel helyeként megjelölt anyakönyvvezető illetékes.
-
-(4) Az elektronikus anyakönyvben szereplő bejegyzésről elektronikus úton igényelt anyakönyvi okirat kiállítására az anyakönyvi esemény helye szerint illetékes anyakönyvi szerv vagy külföldön történt anyakönyvi esemény esetén a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv illetékes.
-
-(5) Névváltozási hatósági bizonyítvány kiállítására az e törvényben meghatározott esetekben a születést nyilvántartó anyakönyvvezető vagy a névváltoztatási eljárás lefolytatására kijelölt anyakönyvi szerv illetékes.”
+(8)
 
 (9)
 
@@ -83,23 +51,7 @@ kiállítására.
 
 7. § (1)
 
-(2) Az At. 15. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek és a § a következő (4) bekezdéssel egészül ki:
-
-„(2) Az anyakönyvi eljárásokban – a (3) és (4) bekezdésben foglaltak kivételével – nincs helye elektronikus ügyintézésnek és a hatóság – a (3) bekezdés b)–e) pontjában foglalt eljárások, valamint a tájékoztatás kivételével – nem tart elektronikusan kapcsolatot.
-
-(3) Az ügyfél elektronikus azonosítást követően elektronikus kapcsolattartás keretében kérelmezheti
-
-a) a saját anyakönyvi okiratát,
-
-b) házassági névviselési formájának a Polgári Törvénykönyvről szóló törvénynek megfelelő módosítását,
-
-c) 46. § (1) bekezdés b) és c) pontja szerinti nemzetiségi név viselését,
-
-d) utónevének módosítását,
-
-e) – a kiskorú gyermekre kiterjedő névváltoztatás esetei kivételével – névváltoztatásának engedélyezését.
-
-(4) Az anyakönyvi okiratot a törvényes képviselő és a meghatalmazott elektronikus azonosítást követően elektronikus kapcsolattartás keretében is kérelmezheti.”
+(2)
 
 8. §
 
@@ -151,19 +103,11 @@ e) – a kiskorú gyermekre kiterjedő névváltoztatás esetei kivételével �
 
 18. § (1)
 
-(2) Az At. 62/A. §-a a következő d) ponttal egészül ki:
-
-[Az anyakönyvvezető elektronikus úton, egyedi informatikai alkalmazás igénybevételével közvetlen adathozzáféréssel (a továbbiakban: közvetlen hozzáférés) jogosult]
-
-„d) a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló törvényben meghatározott célból a gondnokoltak nyilvántartásában kezelt, a törvényben meghatározott adatokat”
-
-(megismerni.)
+(2)
 
 19. § (1)
 
-(2) Az At. 63. §-a a következő (11) bekezdéssel egészül ki:
-
-„(11) Az anyakönyvi szerv az elektronikus úton előterjesztett házassági névviselési forma módosítására irányuló kérelem esetén az automatikus döntéshozatali eljárás szabályai szerint folytatja le az eljárást.”
+(2)
 
 (3)
 
@@ -203,15 +147,13 @@ e) – a kiskorú gyermekre kiterjedő névváltoztatás esetei kivételével �
 
 27. § (1)
 
-(2) Az At. 91/B. §-a helyébe a következő rendelkezés lép:
-
-„91/B. § Ha az anyakönyvvezető vagy az anyakönyvi szerv a házassággal vagy a bejegyzett élettársi kapcsolattal összefüggésben menekült, oltalmazott, menedékes vagy befogadott jogállású személy külföldön történt halálesete, továbbá magyar vagy külföldi bíróság vagy más hatóság Magyarországon elismerhető határozata alapján holtnak nyilvánítás vagy halál tényének bírósági megállapítása miatt adatváltozást vezet át az elektronikus anyakönyvben, a nyilvántartó szerv e tényről haladéktalanul értesíti a menekültügyi hatóságot.”
+(2)
 
 (3)
 
 28. §
 
-29. § Az At.
+29. §
 
 - 1.
 - 2.
@@ -241,9 +183,7 @@ e) – a kiskorú gyermekre kiterjedő névváltoztatás esetei kivételével �
 - 26.
 - 27.
 - 28.
-- 29. 91/C. §-ában és a 91/D. §-ában az „Az anyakönyvvezető vagy az anyakönyvi szerv” szövegrész helyébe az „A nyilvántartó szerv”, valamint a „követő 5 munkanapon belül” szövegrész helyébe a „követően haladéktalanul” szöveg
-
-lép.
+- 29.
 
 30. §
 

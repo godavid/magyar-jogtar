@@ -540,173 +540,37 @@ megtartását.
 
 #### 30. A munkavédelemről szóló 1993. évi XCIII. törvény módosítása
 
-52. § A munkavédelemről szóló 1993. évi XCIII. törvény VII/A. Fejezete helyébe a következő rendelkezés lép:
-
-„VII/A. FEJEZET
-
-A TÁVMUNKAVÉGZÉS ELTÉRŐ MUNKAVÉDELMI SZABÁLYAI
-
-86/A. § (1) A távmunkavégzésre e törvény szabályait a jelen fejezetben foglalt eltérésekkel kell alkalmazni.
-
-(2) A távmunkavégzés – a munkáltatóval kötött megállapodás alapján – a munkavállaló által biztosított munkaeszközzel is történhet. Az ilyen munkaeszköz esetén a munkáltató a kockázatértékelés elvégzése során győződik meg a munkaeszköz egészséget nem veszélyeztető és biztonságos állapotáról. A munkaeszköz egészséget nem veszélyeztető és biztonságos állapotának fenntartásáról ebben az esetben a munkavállaló gondoskodik.
-
-(3) A munkáltató a munkavállalót tájékoztatja a VI. Fejezetben meghatározott munkahelyi munkavédelmi tanácskozási és érdekképviseleti lehetőségekről és gyakorlatról, továbbá az ezzel összefüggő feladatot ellátó felelős személyekről, elérhetőségük adatairól.
-
-86/B. § Az információtechnológiai vagy számítástechnikai eszközzel, rendszerrel (a továbbiakban együtt: számítástechnikai eszköz) végzett távmunka esetén
-
-a) a munkáltató írásban tájékoztatja a munkavállalót a munkavégzéshez szükséges, egészséget nem veszélyeztető és biztonságos munkakörülmények szabályairól,
-
-b) a munkavállaló a munkavégzés helyét az a) pont szerinti munkakörülmények teljesülésére figyelemmel választja meg,
-
-c) a munkáltató a munkavédelmi szabályok megtartását – eltérő megállapodás hiányában – számítástechnikai eszköz alkalmazásával távolról ellenőrizheti.
-
-86/C. § (1) A nem számítástechnikai eszközzel végzett távmunka esetén a felek írásban megállapodnak a munkavégzés helyéről (a továbbiakban: távmunkavégzési hely).
-
-(2) Az (1) bekezdés szerinti távmunkavégzés csak a munkáltató által munkavédelmi szempontból előzetesen megfelelőnek minősített távmunkavégzési helyen folytatható.
-
-(3) A távmunkavégzési helyen a munkavállaló a munkáltató hozzájárulása nélkül nem változtathatja meg a munkakörülményeket.
-
-(4) A munkáltató vagy megbízottja rendszeresen köteles meggyőződni arról, hogy a távmunkavégzési helyen a munkakörülmények megfelelnek-e a követelményeknek, a munkavállalók ismerik, illetve megtartják-e a rájuk vonatkozó rendelkezéseket.
-
-(5) A (4) bekezdésben meghatározott ellenőrzésen túl a munkáltató vagy megbízottja – így különösen a 8. §-ban, valamint az 57. és 58. §-ban megjelölt személy – a kockázatértékelés elvégzése, balesetvizsgálat lefolytatása, valamint a munkakörülmények ellenőrzése céljából léphet be és tartózkodhat a távmunkavégzési helyként szolgáló ingatlan területén.
-
-(6) A távmunkavégzési helyként szolgáló ingatlan területére a munkavédelmi képviselő a munkavállaló beleegyezésével léphet be és tartózkodhat.
-
-(7) A 81. § (4) bekezdésében meghatározott hatósági ellenőrzés a távmunkavégzés helyeként szolgáló ingatlant használó más személy számára aránytalan terhet nem jelenthet. A munkavédelmi hatóság a munkáltatót és a munkavállalót az ellenőrzés megkezdése előtt legalább 3 munkanappal tájékoztatja. A munkáltató az ilyen céllal a távmunkavégzés helyeként szolgáló ingatlan területére történő belépéshez szükséges hozzájárulást a munkavállalótól legkésőbb az ellenőrzés megkezdéséig beszerzi.”
+#### 52. §
 
 #### 31. A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény módosítása
 
-53. § A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény I. Fejezete a következő 4/B. és 4/C. §-sal egészül ki:
+#### 53. §
 
-„4/B. § A közbeszerzésekről szóló 2015. évi CXLIII. törvényt (a továbbiakban: Kbt.) nem kell alkalmazni az Eximbank által kötött olyan biztosítási, garancia- és kezességi szerződésekre, amelyeket az Eximbank az e törvény alapján nyújtott pénzügyi szolgáltatási tevékenységből, kiegészítő pénzügyi szolgáltatási tevékenységből és befektetési szolgáltatási tevékenységből eredő kockázatainak biztosítására köt.
+#### 54. §
 
-4/C. § A Kbt.-t nem kell alkalmazni a Mehib Rt. által a Magyar Exporthitel Biztosító Részvénytársaság által a központi költségvetés terhére, a Kormány készfizető kezessége mellett vállalható nem piacképes kockázatú biztosítások feltételeiről szóló kormányrendelet alapján nyújtott nem piacképes kockázatú biztosításokra vonatkozó viszontbiztosítási, viszontgarancia- és viszontkezességi szerződések megkötésére.”
+#### 55. §
 
-54. § A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 6. § (1) bekezdése a következő d) ponttal egészül ki:
-
-(Az állam a központi költségvetés terhére visszavonhatatlanul készfizető kezesként felel az Eximbank által)
-
-„d) a Kormány határozata alapján nyújtott hitel- és pénzkölcsönből”
-
-(eredő fizetési kötelezettségek teljesítéséért.)
-
-55. § A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 7. § (1) bekezdése a következő f) ponttal egészül ki:
-
-(A Magyarország központi költségvetéséről szóló törvényben meg kell határozni:)
-
-„f) a Kormány határozata alapján nyújtott hitel- és kölcsönállomány felső határát.”
-
-56. § A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény
-
-- a) 1. § (5) bekezdésében a „továbbá külföldiek magyarországi beruházásaira vonatkozóan jogosult” szövegrész helyébe a „külföldiek magyarországi beruházásaira vonatkozóan, továbbá a Kormány egyedi döntése alapján egyéb célokból jogosult” szöveg,
-- b) 2. § (1) bekezdés nyitó szövegrészében a „továbbá Magyarországon megvalósuló külföldi beruházásokhoz és azok érdekében létrejött jogviszonyokhoz kapcsolódó” szövegrész helyébe az „a Magyarországon megvalósuló külföldi beruházásokhoz és azok érdekében létrejött jogviszonyokhoz kapcsolódóan, továbbá a Kormány egyedi döntése alapján egyéb célokból az” szöveg,
-- c) 6. § (1) bekezdés c) pontjában a „költségéből” szövegrész helyébe a „költségéből, valamint” szöveg,
-- d) 8/A. § (1) bekezdésében a „beváltásából eredő” szövegrész helyébe a „beváltásából, valamint a Kormány határozata alapján nyújtott, az Eximbank javára jogszabályi állami készfizető kezességgel fedezett hitel- és pénzkölcsönből eredő” szöveg,
-- e) 26. § (1) bekezdés d) pontjában a „kamatköltségei részletes” szövegrész helyébe a „kamatköltségei, valamint a Kormány határozata alapján nyújtott hitel- és pénzkölcsönhöz kapcsolódó, az Eximbank javára fennálló állami készfizető kezesség részletes” szöveg
-
-lép.
+#### 56. §
 
 #### 32. A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény módosítása
 
-57. § A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 23. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 57. §
 
-„(1) A szabadalmi oltalom tartamára, a negyedik évtől évenként, az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott fenntartási díjat kell fizetni. A negyedik évre szóló díj a bejelentés napjától számított három év lejártával, a további évekre a bejelentés napjának megfelelő naptári napon előre esedékes.”
-
-58. § A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 115/U. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) E törvénynek a veszélyhelyzettel összefüggő egyes szabályozási kérdésekről szóló 2021. évi CXXX. törvény által megállapított 23. § (1) bekezdését a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően esedékessé váló díjak esetében kell alkalmazni.”
+#### 58. §
 
 #### 33. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-59. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. számú melléklete az 1. melléklet szerint módosul.
+#### 59. §
 
 #### 34. A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény módosítása
 
-60. § (1) A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 43/D. §-a a következő (1a) bekezdéssel egészül ki:
+#### 60. §
 
-„(1a) A Gazdasági Versenyhivatal, ha valamely ágazat sajátosságai, egyedi jellemzőinek összessége vagy szerkezeti struktúrája alapján megalapozottan feltehető, hogy az ágazathoz tartozó valamely piacon a verseny torzul vagy korlátozódik, és ezen piaci problémák feltárása és kezelése érdekében sürgős beavatkozás indokolt, a piaci folyamatok feltárása és értékelése céljából végzéssel gyorsított ágazati vizsgálatot indít. A gyorsított ágazati vizsgálatot elrendelő végzés indokolásában meg kell jelölni, hogy mely piaci jellemzőkre tekintettel szükséges a gyorsított ágazati vizsgálat megindítása. A gyorsított ágazati vizsgálatot elrendelő végzést hirdetményi úton kell közölni. A gyorsított ágazati vizsgálatot elrendelő végzés közlésének napja a hirdetmény kifüggesztését követő nap.”
+#### 61. §
 
-(2) A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 43/D. § (2) bekezdése helyébe a következő rendelkezés lép:
+#### 62. §
 
-„(2) Az ágazati vizsgálatra és a gyorsított ágazati vizsgálatra megfelelően alkalmazni kell
-
-a) az 53/A. §-t, az 53/B. §-t, az 54. § (1)–(3) bekezdését, az 54/A. § (4) bekezdését, az 55. § (1), (3) és (4) bekezdését, az 55/A. §-t, az 55/B. § (1), (2) és (7) bekezdését, az 55/C. §-t, az 55/D. §-t, az 56. §-t, a 61. § (1), (1a), (5) és (6) bekezdését, a 62/B. § (6) és (8)–(10) bekezdését, a 64. §-t, a 64/A. §-t, a 64/B. § (1)–(3) és (5)–(7) bekezdését, a 64/C. §-t, a 64/E. §-t, a 64/F. §-t, a 65. §-t, a 78. § (2) bekezdését, valamint a 84/C. §-t, továbbá
-
-b) – ha e fejezet eltérően nem rendelkezik – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvénynek (a továbbiakban: Ákr.)
-
-ba) a jogszerűség elvére, a hatékonyság elvére, az ügyfélre vonatkozó alapelvekre, valamint a jóhiszeműség elvére és a bizalmi elvre,
-
-bb) a képviselet általános szabályaira és a meghatalmazásra,
-
-bc) a megkeresésre,
-
-bd) – az eljárás résztvevőinek az eljárással összefüggő kérelmei vonatkozásában – a kérelemre, annak tartalmára, előterjesztésére és elbírálására, a hiánypótlásra, a kérelem visszautasítására, a kérelemre indult eljárás megszüntetésére,
-
-be) az igazolási kérelemre,
-
-bf) az eljárási cselekményről való értesítésre,
-
-bg) az eljárási cselekmények rögzítésére,
-
-bh) a végzésre, a döntés tartalmára és formájára, véglegességére, közlésére, kijavítására, kiegészítésére, módosítására vagy visszavonására,
-
-bi) a fellebbezésre jogosultakra, az önálló jogorvoslattal támadható végzésekre, a fellebbezés halasztó hatályára, a fellebbezés előterjesztésére, és
-
-bj) a végrehajtásra
-
-vonatkozó rendelkezéseit azzal, hogy az ügyfélre vonatkozó szabályokat az ágazati vizsgálat, illetve a gyorsított ágazati vizsgálat tárgyát képező piacon gazdasági tevékenységet folytató vállalkozásra (a továbbiakban: az ágazatban működő vállalkozás), a fellebbezésre vonatkozó szabályokat a (4) bekezdés szerinti jogorvoslatra is alkalmazni kell.”
-
-(3) A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 43/D. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
-
-„(2a) Ágazati vizsgálat és gyorsított ágazati vizsgálat esetén az 55. § (1) és (3) bekezdése szerinti iratbetekintésre jogosult az ágazati vizsgálat vagy a gyorsított ágazati vizsgálat irataiba csak a vizsgálat befejezését követően tekinthet be.
-
-(2b) Gyorsított ágazati vizsgálatra a 65/A. és 65/B. §-t is alkalmazni kell azzal, hogy a gyorsított ágazati vizsgálat során a bíróság a kérelmezett helyszíni kutatást akkor engedélyezi, ha a Gazdasági Versenyhivatal a kérelmében valószínűsíti, hogy a gyorsított ágazati vizsgálat céljával és tárgykörével kapcsolatos bizonyítási eszköz az indítvány szerinti helyen észszerű megalapozottsággal fellelhető. A helyszíni kutatás megkezdésével egyidőben a gyorsított ágazati vizsgálatot elrendelő végzést a helyszíni kutatással érintettel közölni kell.”
-
-(4) A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 43/D. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A (3) bekezdés szerinti eljárási bírság végrehajtására irányuló eljárásban hozott döntéssel szemben indított közigazgatási perben a bíróság tizenöt napon belül határoz.”
-
-61. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 43/E. és 43/F. §-a helyébe a következő rendelkezések lépnek:
-
-„43/E. § (1) Az ágazati vizsgálat és a gyorsított ágazati vizsgálat eredményéről a Gazdasági Versenyhivatal – észszerű időn belül – jelentést készít.
-
-(2) A Gazdasági Versenyhivatal a gyorsított ágazati vizsgálat eredményéről a gyorsított ágazati vizsgálat elrendelését követő egy hónapon belül jelentéstervezetet készít, amely határidőt a Gazdasági Versenyhivatal elnöke két alkalommal, egyenként legfeljebb egy hónappal meghosszabbíthatja. A jelentéstervezet elkészítésének határidejét meghosszabbító végzést hirdetményi úton kell közölni. A jelentéstervezet elkészítésének határidejét meghosszabbító végzés közlésének napja a hirdetmény kifüggesztését követő nap.
-
-(3) A jelentés elfogadását megelőzően biztosítani kell, hogy az ágazatban működő vállalkozások a jelentés tartalmára írásban észrevételeket tehessenek. Ennek érdekében a jelentés tervezetének korlátozottan megismerhető adatot nem tartalmazó változatát észrevételezésre meg kell küldeni az ágazatban működő vállalkozásoknak olyan időpontban, hogy észrevételeik megtételére ágazati vizsgálat esetén legalább harminc nap, gyorsított ágazati vizsgálat esetén legalább nyolc nap álljon rendelkezésükre.
-
-(4) A Gazdasági Versenyhivatal – ha az ágazatban működő vállalkozások pontos köre nem állapítható meg, vagy az ilyen vállalkozások nagy száma miatt a vállalkozások egyenkénti megkeresése aránytalan nehézséggel járna, továbbá ha az egyéb érdekelteknek a jelentés tervezetével kapcsolatos véleményének megismerése érdekében ezt szükségesnek tartja – nyilvános meghallgatást tart. A nyilvános meghallgatás helyéről és idejéről, valamint annak tárgyáról szóló információkat ágazati vizsgálat esetén legalább negyvenöt nappal, gyorsított ágazati vizsgálat esetén legalább tizenöt nappal a meghallgatást megelőzően a Gazdasági Versenyhivatal honlapján közzé kell tenni és arról az ágazatban működő vállalkozásokat hirdetményi úton értesíteni kell. A Gazdasági Versenyhivatal legalább tíz nappal a meghallgatást megelőzően honlapján közzéteszi a jelentés tervezetének és – ha az észrevételt tevő azt kéri – a jelentés tervezetére tett észrevételeknek a korlátozottan megismerhető adatot nem tartalmazó változatát. A meghallgatásról a Gazdasági Versenyhivatal összefoglalót vagy jegyzőkönyvet készít.
-
-(5) A Gazdasági Versenyhivatal az ágazati vizsgálat vagy gyorsított ágazati vizsgálat eredményéről készített jelentést, valamint az írásbeli észrevételekről, illetve a meghallgatásról készült összefoglalót vagy jegyzőkönyvet, továbbá – ha kérik – az ágazatban működő vállalkozásoknak a jelentés tartalmára vonatkozó érdemi észrevételeit tartalmazó dokumentumok korlátozottan megismerhető adatot nem tartalmazó változatát honlapján közzéteszi.
-
-43/F. § Ha a piacelemzés, az ágazati vizsgálat vagy a gyorsított ágazati vizsgálat eredménye alapján olyan piaci zavar áll fenn, amely versenyfelügyeleti eljárás révén nem vagy nem teljeskörűen orvosolható, a Gazdasági Versenyhivatal
-
-a) erről tájékoztatja az Országgyűlés feladatkörrel rendelkező bizottságát, illetve a feladat- és hatáskörrel rendelkező minisztert vagy hatóságot,
-
-b) kötelező erővel nem rendelkező nyilvános ajánlást adhat ki a piaci szereplők számára a tisztességes és hatékony verseny fenntartását és előmozdítását, az üzletfelek megfelelő tájékoztatását elősegítő legjobb gyakorlatokra, követendőként ajánlott piaci magatartásra vonatkozóan, vagy
-
-c) szükség esetén jogszabály megalkotását vagy módosítását kezdeményezheti az arra jogosult szervnél.”
-
-62. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 65/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A vizsgáló
-
-a) a 11. §-ban vagy a 21. §-ban, illetve az EUMSz. 101. vagy 102. cikkében tilalmazott magatartások miatt indított versenyfelügyeleti eljárásban,
-
-b) a 67. § (3) és (6)–(8) bekezdése alapján indított versenyfelügyeleti eljárásban,
-
-c) a 67. § (4) bekezdése alapján indított versenyfelügyeleti eljárásban a 29. § szerinti tilalom megsértésének, illetve az összefonódás-bejelentésben lényeges tény félrevezető közlésének valószínűsíthetősége esetén vagy
-
-d) a 43/D. § (1a) bekezdése szerinti gyorsított ágazati vizsgálat esetén,
-
-a vizsgálat tárgyát képező jogsértéssel, a vizsgált összefonódással, illetve a gyorsított ágazati vizsgálattal kapcsolatos bizonyítási eszközök felkutatása céljából bármely ingatlant, járművet, adathordozót – a (2) bekezdésben foglaltakat is beleértve – átkutathat, oda önhatalmúlag, a tulajdonos (birtokos), illetve az ott tartózkodó személyek akarata ellenére beléphet, e célból lezárt területet, épületet, helyiséget felnyithat (a továbbiakban: helyszíni kutatás).”
-
-63. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény
-
-- a) 39. §-ában a „vizsgálatban, bejelentéssel” szövegrész helyébe a „vizsgálatban, gyorsított ágazati vizsgálatban, bejelentéssel” szöveg,
-- b) 43/D. § (4) bekezdésében a „vizsgálat során hozott, az Ákr. alapján önállóan fellebbezhető” szövegrész helyébe a „vizsgálat vagy a gyorsított ágazati vizsgálat során hozott, az Ákr. alapján” szöveg,
-- c) 54. § (4) bekezdésében a „vizsgálata, panasszal” szövegrész helyébe a „vizsgálata, a gyorsított ágazati vizsgálata, panasszal” szöveg
-
-lép.
+#### 63. §
 
 #### 35. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
@@ -718,55 +582,19 @@ lép.
 
 #### 36. Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosítása
 
-67. § (1) Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 93. § (1) bekezdés g) pontja a következő gd) alponttal egészül ki:
+#### 67. §
 
-(Mentes az adó alól:
+#### 68. §
 
-a termék importja)
+#### 69. §
 
-„gd) az Európai Bizottság (a továbbiakban: Bizottság) vagy az uniós jog alapján létrehozott ügynökség vagy szerv által, ha a Bizottság vagy ezen ügynökség, illetve szerv az uniós jog által ráruházott feladatok ellátása keretében, a Covid19-világjárványra való reagálás érdekében importálja a terméket, feltéve, hogy a Bizottság vagy ezen ügynökség, illetve szerv nem értékesíti tovább ellenérték fejében az importált terméket.”
+#### 70. §
 
-(2) Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 93. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Ha az (1) bekezdés g) pont gd) alpontja szerinti adómentességre vonatkozó feltételek a továbbiakban nem állnak fenn, akkor a fizetendő adót abban az időpontban alkalmazandó szabályoknak megfelelően kell megállapítani, amikor a mentesség feltételei már nem állnak fenn.”
-
-68. § (1) Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 107. § (1) bekezdése a következő f) ponttal egészül ki:
-
-(Mentes az adó alól a termék értékesítése, szolgáltatás nyújtása abban az esetben, ha az)
-
-„f) a Bizottság vagy az uniós jog alapján létrehozott ügynökség vagy szerv részére történik, ha a Bizottság vagy ezen ügynökség, illetve szerv az uniós jog által ráruházott feladatok ellátása keretében, a Covid19-világjárványra való reagálás érdekében szerzi be a terméket vagy veszi igénybe a szolgáltatást, feltéve, hogy a Bizottság vagy ezen ügynökség, illetve szerv nem értékesíti, illetve nem nyújtja tovább ellenérték fejében a beszerzett terméket, igénybe vett szolgáltatást.”
-
-(2) Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 107. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Ha az (1) bekezdés f) pontja szerinti adómentességre vonatkozó feltételek a továbbiakban nem állnak fenn, akkor a fizetendő adót abban az időpontban alkalmazandó szabályoknak megfelelően kell megállapítani, amikor a mentesség feltételei már nem állnak fenn.”
-
-69. § Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 268. § g) pontja a következő gt) alponttal egészül ki:
-
-[Ez a törvény – az Art.-vel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:
-
-a Tanács 2006/112/EK irányelve (2006. november 28.) a közös hozzáadottértékadó-rendszerről, valamint annak a következő irányelvekkel történt módosításai:]
-
-„gt) a Tanács (EU) 2021/1159 irányelve (2021. július 13.) a 2006/112/EK irányelvnek az importra, valamint bizonyos termékértékesítésekre és szolgáltatásnyújtásokra vonatkozó, a Covid19-világjárványra válaszul bevezetett ideiglenes mentességek tekintetében történő módosításáról;”
-
-70. § Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény „Átmeneti rendelkezések” alcíme a következő 354. §-sal egészül ki:
-
-„354. § E törvénynek a veszélyhelyzettel összefüggő egyes szabályozási kérdésekről szóló 2021. évi CXXX. törvénnyel megállapított 93. § (1) bekezdés g) pont gd) alpontját és (1a) bekezdését, 107. § (1) bekezdés f) pontját és 107. § (4a) bekezdését a 2020. december 31-ét követően teljesített ügyletekre kell alkalmazni.”
-
-71. § Hatályát veszti az általános forgalmi adóról szóló 2007. évi CXXVII. törvény
-
-- a) 184. § (2)–(10) bekezdése,
-- b) 257/G. § (2) bekezdésében az „ , a 184. § (2) bekezdésében” szövegrész,
-- c) 346. §-a.
+#### 71. §
 
 #### 37. A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény módosítása
 
-72. § (1) A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 33/B. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) Az (1) bekezdés szerinti nyilatkozat alapján indult hatósági eljárás ügyintézési határideje 2022. március 1-jén, a (2) bekezdés szerinti kérelem alapján indult hatósági eljárás ügyintézési határideje 2022. július 1-jén kezdődik.”
-
-(2) A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 33/B. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Az (1) bekezdés szerinti kompenzáció és a (6) bekezdés alapján visszamenőlegesen járó különbözet más törvény alkalmazása során rokkantsági ellátásnak minősül.”
+#### 72. §
 
 #### 38. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
@@ -774,57 +602,27 @@ a Tanács 2006/112/EK irányelve (2006. november 28.) a közös hozzáadottért�
 
 #### 39. A munka törvénykönyvéről szóló 2012. évi I. törvény módosítása
 
-74. § A munka törvénykönyvéről szóló 2012. évi I. törvény 87. alcíme helyébe a következő rendelkezés lép:
-
-„87. A távmunkavégzés
-
-196. § (1) Távmunkavégzés esetén a munkavállaló a munkát a munkaidő egy részében vagy egészében a munkáltató telephelyétől elkülönült helyen végzi.
-
-(2) A munkaszerződésben meg kell állapodni a munkavállaló távmunkavégzés keretében történő foglalkoztatásában.
-
-(3) Eltérő megállapodás hiányában a távmunkavégzés során
-
-a) a munkáltató utasítási joga a munkavállaló által ellátandó feladatok meghatározására terjed ki,
-
-b) a munkáltató az ellenőrzési jogát távolról számítástechnikai eszköz alkalmazásával gyakorolja,
-
-c) a munkavállaló a munkáltató telephelyén a tárgyévben legfeljebb a munkanapok egyharmada esetén végez munkát, és
-
-d) a munkáltató biztosítja, hogy a munkavállaló a területére beléphessen és más munkavállalóval kapcsolatot tartson.
-
-(4) Ha a munkáltató az ellenőrzés jogát a távmunkavégzés helyén gyakorolja, akkor az ellenőrzés nem jelenthet a munkavállaló, valamint a távmunkavégzés helyeként szolgáló ingatlant használó más személy számára aránytalan terhet.
-
-(5) A munkáltató a távmunkát végző munkavállalónak minden olyan tájékoztatást köteles megadni, amelyet más munkavállalónak biztosít.”
+#### 74. §
 
 #### 40. A települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény módosítása
 
-75. § A települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvételéről és az átvételhez kapcsolódó egyes törvények módosításáról szóló 2012. évi XXXVIII. törvény a következő 13/B. §-sal egészül ki:
-
-„13/B. § A 13. §-ban foglaltaktól eltérően a Közbeszerzési és Ellátási Főigazgatóság gyakorolja az államot megillető tulajdonosi jogok és kötelezettségek összességét a Központi Humánfejlesztési Nonprofit Korlátolt Felelősségű Társaság (székhely: 1054 Budapest, Hold utca 1., cégjegyzékszám: 01-09-073183) felett.”
+#### 75. §
 
 #### 41. A hulladékról szóló 2012. évi CLXXXV. törvény módosítása
 
-76. § A hulladékról szóló 2012. évi CLXXXV. törvény 32/A. § (4a) bekezdése helyébe a következő rendelkezés lép:
+#### 76. §
 
-„(4a) A közszolgáltató és a közszolgáltatói alvállalkozó a megfelelőségi véleményt minden naptári év június 30. napjáig köteles beszerezni.”
-
-77. § A hulladékról szóló 2012. évi CLXXXV. törvény
-
-- a) 32/A. § (2) bekezdésében a „Hivatal megállapítja” szövegrész helyébe a „Hivatal – a közszolgáltató és a közszolgáltatói alvállalkozó kérelmére – megállapítja” szöveg,
-- b) 92/F. § (1) bekezdésében a „2021. július 31.” szövegrész helyébe a „2021. december 31.” szöveg és a „2021. július 31-ig” szövegrész helyébe a „2022. június 30-ig” szöveg,
-- c) 92/F. § (2) bekezdésében a „vagy közszolgáltatói alvállalkozói tevékenységét 2021. január 1-jét követően kezdi meg, a megfelelőségi véleményt első alkalommal 2021. július 31. napjáig” szövegrész helyébe a „tevékenységét 2021. január 1-jét követően kezdte meg, továbbá a közszolgáltatói alvállalkozó a megfelelőségi véleményt első alkalommal 2022. június 30. napjáig” szöveg
-
-lép.
+#### 77. §
 
 #### 42. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
 
 #### 78. §
 
-79. § Hatályát veszti az adózás rendjéről szóló 2017. évi CL. törvény 256. § 17. pontja.
+#### 79. §
 
 #### 43. Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvény módosítása
 
-80. § Hatályát veszti az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvény 255. § (11) bekezdése.
+#### 80. §
 
 #### 81. §
 
@@ -844,101 +642,39 @@ lép.
 
 #### 46. A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény módosítása
 
-87. § A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 7. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 87. §
 
-„(1) Az igazságügyi alkalmazotti álláspályázatok kiírásához kapcsolódó eljárási cselekmények tekintetében a 2021. október 3. napján újrakezdődött határidő figyelembevételével kell eljárni.”
+#### 88. §
 
-88. § (1) A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 89. §
 
-„(1) Ha az ítélőtábla, a törvényszék és járásbíróság elnöke, valamint a Kúria, az ítélőtábla, a törvényszék és a járásbíróság elnökhelyettese, továbbá a kollégiumvezető, a kollégiumvezető-helyettes, a csoportvezető és a csoportvezető-helyettes [e bekezdés alkalmazásában a továbbiakban együtt: bírósági vezető] kinevezése a veszélyhelyzetre tekintettel 2021. október 31. napjáig meghosszabbodott, és az érintett bírósági vezetői állásra 2021. október 2. napját követően kiírt bírósági vezetői álláspályázat elbírálása 2021. október 31. napjáig nem történt meg, a bírósági vezetői pályázat elbírálásáig a kinevezésre jogosult a bírósági vezetői állást megbízás útján töltheti be.”
+#### 90. §
 
-(2) A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 9. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 91. §
 
-„(3) Ha a veszélyhelyzet ideje alatt meghosszabbodott határozott idejű bírói testületi tagi megbízatás tekintetében az új tag megválasztása nem volt lefolytatható a veszélyhelyzet ideje alatt, a határozott idő meghosszabbodik mindaddig, amíg a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően haladéktalanul megtartott választáson a testület új tagját meg nem választják.”
+#### 92. §
 
-89. § (1) A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 93. §
 
-„(1) A bírói álláspályázatok kiírásához kapcsolódó eljárási cselekmények tekintetében a 2021. október 3. napján újrakezdődött határidő figyelembevételével kell eljárni.”
-
-(2) A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 11. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) Ha a veszélyhelyzet ideje alatt meghosszabbodott határozott idejű bírói kinevezés tekintetében a határozatlan idejű kinevezéshez vagy a határozott idejű kinevezés meghosszabbításához szükséges intézkedések, eljárások nem voltak lefolytathatóak a veszélyhelyzet ideje alatt, a határozott idő meghosszabbodik mindaddig, amíg a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően haladéktalanul le nem folytatják a határozatlan idejű kinevezéshez vagy a határozott idejű kinevezés meghosszabbításához szükséges intézkedéseket, eljárásokat, kivéve, ha a bíró a nyilatkozata szerint nem kéri a határozatlan időre történő bírói kinevezését, illetve a határozott idejű kinevezés meghosszabbítását.”
-
-90. § (1) A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 13. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha az ügyészségi alkalmazotti álláspályázatok elbírálásához kapcsolódó eljárási cselekményekre vonatkozó határidő a veszélyhelyzet ideje alatt járt le, és a veszélyhelyzet ideje alatt az eljárási cselekményt nem lehetett foganatosítani, a határidő újrakezdődik a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő első napon.”
-
-(2) A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 13. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Ha a veszélyhelyzet ideje alatt meghosszabbodott határozott idejű ügyészségi alkalmazotti kinevezés tekintetében a határozatlan idejű vagy az újabb határozott idejű kinevezéshez szükséges intézkedések, eljárások nem voltak lefolytathatóak a veszélyhelyzet ideje alatt, a határozott idő meghosszabbodik mindaddig, amíg a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően haladéktalanul le nem folytatják a határozatlan idejű vagy az újabb határozott idejű kinevezéshez szükséges intézkedéseket, eljárásokat.”
-
-(3) A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 13. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) Ha a veszélyhelyzet ideje alatt meghosszabbodott határozott idejű ügyészségi testületi tagi megbízatás tekintetében az új tag megválasztása nem volt lefolytatható a veszélyhelyzet ideje alatt, a határozott idő meghosszabbodik mindaddig, amíg a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően haladéktalanul megtartott választáson a testület új tagját meg nem választják.”
-
-91. § A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 24. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Ezen alcím rendelkezéseit a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnésének napján folyamatban lévő eljárásokban is alkalmazni kell.”
-
-92. § A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 50. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
-
-(Reorganizációt a fenyegető fizetésképtelenségben lévő vállalkozás kezdeményezhet, kivéve, ha)
-
-„g) a reorganizáció kezdő napját megelőző 3 üzleti évre vonatkozó, a számvitelről szóló 2000. évi C. törvény szerinti bármelyik beszámolója nem került közzétételre és letétbe helyezésre, vagy”
-
-93. § A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 74. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Azon gazdasági társaság esetében, amelyben az állam közvetlen vagy közvetett befolyása az 1%-os mértéket nem haladja meg, az állami vagyon felügyeletéért felelős miniszter kérelmet nyújthat be a bírósághoz, a Cstv. IV. Fejezetének mellőzése iránt. A kérelmet a bíróság 8 napon belül bírálja el. A bíróság a végzésében felmenti a Cstv. 66. § (2) bekezdése alapján kirendelt állami felszámolót, és egyidejűleg a felszámolók névjegyzékéből kirendeli az ideiglenes vagyonfelügyelőt, vagyonfelügyelőt, illetve a felszámolót. A felmentett állami felszámoló költségtérítésére a Cstv. 27/A. § (9) bekezdését kell alkalmazni. A felmentett állami felszámoló az új kirendelt felszámoló részére a kirendelésétől számított 8 napon belül teljesíti a Cstv. 27/A. § (11) bekezdésében meghatározott kötelezettségeket.”
-
-94. § A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 82. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) Ha a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény (a továbbiakban: Are. tv.) hatálya alá tartozó adósságrendezési eljárásban részt vevő adós és egyéb kötelezett a veszélyhelyzet ideje alatt kihirdetett jogszabályok alapján igénybe vette a hiteltörlesztési moratóriumot, a bíróságon kívüli adósságrendezési megállapodás, a bírósági adósságrendezési egyezség, a bírósági adósságrendezési egyezség módosítása, valamint a bírósági adósságtörlesztési terv elkészítésénél a teljesítési határidőt úgy kell megállapítani, hogy az figyelembe vegye a futamidőnek a fizetési moratóriumra tekintettel történő meghosszabbodását is.
-
-(2) Az e törvény hatálybalépése előtt megkötött bíróságon kívüli adósságrendezési megállapodásban, bírósági adósságrendezési egyezségben, illetve bírósági adósságtörlesztési végzésben az (1) bekezdés szerinti hiteltörlesztési moratóriumot igénybe vevő adós számára a pénzügyi intézmény kimutatást küld – a fizetési moratórium alatt meg nem fizetett tartozásokra tekintettel – a törlesztések teljesítési határidejének meghosszabbításáról. A bírósági adósságrendezési eljárásban az adós kérelmére a bíróság 15 napon belül végzést hoz az adósságrendezési egyezség, illetve az adósságtörlesztési végzés ennek megfelelő kiegészítéséről. A végzés ellen csak az adós és az érintett hitelező élhet fellebbezéssel. A kérelem és a fellebbezés benyújtása illetékmentes.”
+#### 94. §
 
 #### 95. §
 
-96. § A veszélyhelyzettel összefüggő átmeneti szabályokról 2021. évi XCIX. törvény 103. §-a helyébe a következő rendelkezés lép:
+#### 96. §
 
-„103. § Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) és a Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény (a továbbiakban: NKA tv.) rendelkezéseit az ezen alcímben foglalt eltérésekkel 2022. december 31-ig kell alkalmazni.”
+#### 97. §
 
-97. § A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 104. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 98. §
 
-„(1) A Nemzeti Kulturális Alap (a továbbiakban: Alap) 2006. és 2020. között felhalmozódott maradványa felhasználása tekintetében az Áht. 86. § (4) bekezdésétől eltérően az Alap költségvetési maradványa felhasználásának a fejezetet irányító szerv általi engedélyezéséhez az államháztartásért felelős miniszter hozzájárulása nem szükséges, a veszélyhelyzet ideje alatt a maradvány teljes összege felhasználható a veszélyhelyzetből eredő, a kulturális ágazatot érintő hátrányos következmények enyhítése érdekében kulturális támogatási célokra, a (2) bekezdés szerinti módon.”
+#### 99. §
 
-98. § A veszélyhelyzettel összefüggő átmeneti szabályokról 2021. évi XCIX. törvény 35. alcíme a következő 104/A. §-sal egészül ki:
+#### 100. §
 
-„104/A. § (1) A Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvénynek (a továbbiakban: 2021. évi Kvtv.) és a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvénynek (a továbbiakban: 2022. évi Kvtv.) az Alap tekintetében történő végrehajtása során – az NKA tv. 7/A. § (3) bekezdésétől eltérően – az Alap tárgyévi bevétele terhére vállalható kötelezettségvállalás, valamint éven túli kötelezettségvállalás mértéke – a várható teljesülés figyelembevételével – a 2021. évi Kvtv. 1. melléklet LXVII. Nemzeti Kulturális Alap fejezet és a 2022. évi Kvtv. 1. melléklet LXVII. Nemzeti Kulturális Alap fejezet bevételi előirányzata (a továbbiakban együtt: bevételi előirányzat) 100%-áig terjedhet. Az Alap 2021. évi és 2022. évi bevétele, valamint kezelő szervének az Alap kezelésével összefüggő 2021. évi és 2022. évi bevétele nem vonható el, azt befizetési kötelezettség nem terheli.
+#### 101. §
 
-(2) A bevételi előirányzathoz képest történő többletbevétel keletkezése esetén az Alap Bizottsága döntésével a kötelezettségvállalással nem terhelt bevételi többletforrás mértékéig a 2021. évi Kvtv. 1. melléklet LXVII. Nemzeti Kulturális Alap fejezet kiadási előirányzata és a 2022. évi Kvtv. 1. melléklet LXVII. Nemzeti Kulturális Alap fejezet kiadási előirányzata (a továbbiakban együtt: kiadási előirányzat) túlléphető.
+#### 102. §
 
-(3) Az Alap Bizottsága (2) bekezdés szerinti döntése esetén a kiadási előirányzat a bevételi előirányzat erejéig megemelésre kerül.
-
-(4) Ha a (2) bekezdés szerinti esetben az Alap Bizottsága úgy dönt, hogy nem szükséges a kiadási előirányzat túllépése és a többletbevétel erejéig történő megemelése, az így keletkezett maradvány felhasználása tekintetében az (5)–(7) bekezdés alapján kell eljárni.
-
-(5) Az Alap költségvetési maradványa összegével – az Áht. 86. § (4) bekezdésétől eltérően – az éves költségvetési beszámoló elkészítését megelőzően a tárgyévi kiadási előirányzat megemelhető. Az év végi maradvány a tárgyévi bevételi terv teljesülése előtt a kiadási és bevételi előirányzat egyidejű módosításával igénybe vehető.
-
-(6) Az Alap e § szerinti maradványa felhasználása tekintetében a fejezetet irányító szerv általi engedélyezéséhez az Áht. 86. § (4) bekezdésétől eltérően az államháztartásért felelős miniszter hozzájárulása nem szükséges, a maradvány teljes összege felhasználható a veszélyhelyzetből eredő, a kulturális ágazatot érintő hátrányos következmények enyhítése érdekében kulturális támogatási célokra.
-
-(7) Az Alapnak az e § szerinti bevétele és maradványa az NKA tv.-ben foglalt döntéshozatali eljárás alapján kerül felhasználásra.”
-
-99. § A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 147. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A (2) bekezdést a helyi önkormányzati tulajdonban vagy vagyonkezelésben álló temetőben költségvetési támogatásból létesített, 2020. december 18. napján vagy ezt követően első alkalommal megváltásra kínált új urnafülke megváltása után fizetett díj tekintetében nem kell alkalmazni.”
-
-100. § A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény
-
-- a) 24. alcím címében és 83. § nyitó szövegrészében az „A 2020. évi CVII.” szövegrész helyébe az „Az egyes kiemelt társadalmi csoportok, valamint pénzügyi nehézséggel küzdő vállalkozások helyzetének stabilizálását szolgáló átmeneti intézkedésekről szóló 2020. évi CVII.” szöveg,
-- b) 83. § d) pontjában az „a 2020. évi CVII.” szövegrész helyébe az „az egyes kiemelt társadalmi csoportok, valamint pénzügyi nehézséggel küzdő vállalkozások helyzetének stabilizálását szolgáló átmeneti intézkedésekről szóló 2020. évi CVII.” szöveg,
-- c) 94. § (1) bekezdésében az „amelynek hatálya 2020. december 15-e és 2021. november 23-a közötti időben járt le” szövegrész helyébe az „amelynek hatálya 2020. december 15-e és a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnése közötti időben járt le” szöveg
-
-lép.
-
-101. § Hatályát veszti a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 13. § (6) bekezdése.
-
-102. § Hatályát veszti a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 32. §-a.
-
-103. § Hatályát veszti a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 97. § (2) bekezdése.
+#### 103. §
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -975,7 +711,3 @@ sarkalatosnak minősül.
 (2) A 13. alcím a Covid19-világjárvány idején a szabad mozgás megkönnyítése érdekében az interoperábilis, Covid19-oltásra, tesztre és gyógyultságra vonatkozó igazolványok (uniós digitális Covid-igazolvány) kiállításának, ellenőrzésének és elfogadásának keretéről szóló, 2021. június 14-i (EU) 2021/953 európai parlamenti és tanácsi rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 1. melléklet a 2021. évi CXXX. törvényhez
-
-- 1. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. számú melléklet „II. Igazolás nélkül, költségként elszámolható tételek alcíme” a következő 11. ponttal egészül ki:
-
-„11. a munka törvénykönyvéről szóló törvény távmunkavégzésre vonatkozó rendelkezéseinek megfelelően a munkaszerződésében foglaltak szerint távmunkavégzés keretében munkát végző munkavállalónak a távmunkavégzéssel összefüggésben költségtérítés címén fizetett összegből a felek által előzetesen meghatározott, de legfeljebb havonta az adóév első napján érvényes havi minimálbér 10 százalékának megfelelő összeg – ha a távmunkavégzés nem érinti az egész hónapot, a havi összegnek a távmunkavégzéssel érintett napokkal arányos része –, feltéve, hogy a magánszemély a távmunkavégzéssel összefüggésben az I. Jellemzően előforduló költségek alcím 24. pont c) és d) alpontja alapján költséget nem számol el.”
