@@ -25,6 +25,8 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 - a) ha a vállalatcsoportnak több leányvállalata van és ezek mindegyike más tagállamban telepedett le, a videómegosztóplatform-szolgáltatót akkor kell Magyarországon letelepedettnek tekinteni, ha leányvállalatainak egyike legelőször Magyarországon kezdte meg tevékenységét, feltéve, hogy folyamatos és tényleges kapcsolatot tart fenn Magyarország gazdaságával;
 - b) ha a vállalatcsoporthoz tartozó vállalatok mindegyike más tagállamban telepedett le, a videómegosztóplatform-szolgáltatót akkor kell Magyarországon letelepedettnek tekinteni, ha az ilyen vállalatok egyike legelőször Magyarországon kezdte meg tevékenységét, feltéve, hogy folyamatos és tényleges kapcsolatot tart fenn Magyarország gazdaságával.
 
+(1e) Az online terrorista tartalom terjesztésével szembeni eljárás során – a 12/B. §-ban nem szabályozott kérdésekben – az (EU) 2021/784 európai parlamenti és tanácsi rendeletben foglaltak szerint kell eljárni.
+
 (2) Az Európai Gazdasági Térségről szóló megállapodás más részes állama területén letelepedett, Magyarország területére irányuló szolgáltatást nyújtó szolgáltatókra a szabályozott területtel kapcsolatos követelmények nem terjednek ki.
 
 (3) E törvény hatálya nem terjed ki a bírósági, illetőleg egyéb hatósági eljárásban nyújtott és felhasznált információs társadalommal összefüggő szolgáltatásra és nem érinti a személyes adatok védelmére vonatkozó jogszabályok alkalmazását.
@@ -269,6 +271,27 @@ Az Országgyűlés az elektronikus kereskedelem fejlődése és ez által a gazd
 
 (5) A 2. § lc) alpontjában meghatározott szolgáltatóval szemben a bíróság az (1), (2) és (4) bekezdésben meghatározott kötelezettség elmulasztása miatt a büntetőeljárásról szóló törvényben meghatározott mértékű rendbírságot, illetve a büntetések és az intézkedések végrehajtásáról szóló törvényben meghatározott mértékű pénzbírságot szabhat ki.
 
+### Az online terrorista tartalom terjesztésével szembeni eljárás szabályai
+
+12/B. § (1) Az (EU) 2021/784 európai parlamenti és tanácsi rendeletben a tagállam illetékes hatósága, valamint az illetékes hatóságon belüli kapcsolattartó pont számára meghatározott feladatokat a Hatóság Hivatala (a továbbiakban: Hivatal) látja el.
+
+(2) Az (EU) 2021/784 európai parlamenti és tanácsi rendelet 3–5. cikke szerinti eljárást a Hatóság – e törvény eltérő rendelkezésének a hiányában – az általános közigazgatási rendtartásról szóló törvény alapján, a hivatalbóli eljárás szabályai szerint folytatja le.
+
+(3) A Hivatal (2) bekezdés szerinti eljárásban hozott döntését az (EU) 2021/784 európai parlamenti és tanácsi rendelet 2. cikk 1. pontja szerinti tárhelyszolgáltató, illetve 2. cikk 2. pontja szerinti tartalomszolgáltató támadhatja meg közigazgatási perben, a döntésről való tudomásszerzéstől számított három napon belül. A perben azonnali jogvédelemnek nincs helye. A Hivatal a keresetlevelet a benyújtástól számított három napon belül továbbítja a bírósághoz.
+
+(4) A (3) bekezdés szerinti jogorvoslati kérelmet a bíróság a keresetlevél bírósághoz érkezésétől számított nyolc napon belül egyszerűsített perben bírálja el. A bíróság ítélete ellen perújításnak nincs helye.
+
+(5) Az (EU) 2021/784 európai parlamenti és tanácsi rendelet 18. cikk (1) bekezdésében meghatározott jogsértések tárhelyszolgáltató általi elkövetése esetén a Hivatal – a (6) bekezdésben meghatározott kivétellel – az Eht. szerinti általános hatósági felügyeleti eljárás szabályai szerint jár el, és a következő jogkövetkezmények alkalmazására jogosult:
+
+- a) a jogsértő magatartás tanúsítását megtilthatja, valamint az (EU) 2021/784 európai parlamenti és tanácsi rendelet követelményeinek érvényre juttatása érdekében kötelezettséget állapíthat meg, továbbá
+- b) az (EU) 2021/784 európai parlamenti és tanácsi rendelet 18. cikk (2) bekezdésében meghatározottak szerint
+  - ba) az előző pénzügyi év teljes világpiaci forgalmának legfeljebb 4%-áig, vagy
+  - bb) – ha a ba) alpont alkalmazása a szükséges adatok hiányában nem lehetséges, – legfeljebb százmillió forintig
+
+terjedő összegű bírságot szab ki.
+
+(6) Az (EU) 2021/784 európai parlamenti és tanácsi rendelet 18. cikk (1) bekezdésében meghatározott jogsértések kapcsán figyelmeztetés alkalmazásának nincs helye.
+
 ### Értesítés a jogsértő információs társadalommal összefüggő szolgáltatásról
 
 13. § (1) Az a jogosult, akinek a szerzői jogi törvény által védett szerzői művén, előadásán, hangfelvételén, műsorán, audiovizuális művén, adatbázisán fennálló jogát, továbbá a védjegyek és a földrajzi árujelzők oltalmáról szóló törvényben meghatározott, a védjegyoltalomból eredő kizárólagos jogát a szolgáltató által hozzáférhetővé tett információ – ide nem értve a hozzáférhetővé tett információ szabványosított címét – sérti (a továbbiakban: jogosult), teljes bizonyító erejű magánokiratba vagy közokiratba foglalt értesítésével felhívhatja a 9–11. §-okban meghatározott szolgáltatót a jogát sértő tartalmú információ eltávolítására.
@@ -422,7 +445,7 @@ köteles átadni.
 
 ### A videómegosztóplatform-szolgáltatásokra vonatkozó különös szabályok
 
-15/C. § (1) A videómegosztóplatform-szolgáltatás nyújtásának megkezdésére irányuló szándékot a videómegosztóplatform-szolgáltatónak nyilvántartásba vétel céljából be kell jelentenie a Hatóság Hivatalához (a továbbiakban: Hivatal), amely a videómegosztóplatform-szolgáltatásokról közhiteles nyilvántartást vezet. A nyilvántartás a (2) bekezdés f)–h) pontja szerinti adatok vonatkozásában minősül közhiteles hatósági nyilvántartásnak. A nyilvántartásba vétel nem feltétele a szolgáltatásnyújtás megkezdésének.
+15/C. § (1) A videómegosztóplatform-szolgáltatás nyújtásának megkezdésére irányuló szándékot a videómegosztóplatform-szolgáltatónak nyilvántartásba vétel céljából be kell jelentenie a Hivatalhoz, amely a videómegosztóplatform-szolgáltatásokról közhiteles nyilvántartást vezet. A nyilvántartás a (2) bekezdés f)–h) pontja szerinti adatok vonatkozásában minősül közhiteles hatósági nyilvántartásnak. A nyilvántartásba vétel nem feltétele a szolgáltatásnyújtás megkezdésének.
 
 (2) A videómegosztóplatform-szolgáltatás Hivatalhoz történő bejelentésében meg kell jelölni
 
@@ -760,5 +783,6 @@ látja el.
 - a) az (EU) 2017/2394 rendelet 5. cikk (1) bekezdés;
 - b) a Bizottság 2007/76/EK határozata (2006. december 22.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról [a 16/F. § (2) bek.];
 - c) a Bizottság 2008/282/EK határozata (2008. március 17.) a fogyasztóvédelmi jogszabályok alkalmazásáért felelős nemzeti hatóságok közötti együttműködésről szóló 2006/2004/EK európai parlamenti és tanácsi rendeletnek a kölcsönös jogsegély vonatkozásában való végrehajtásáról szóló 2007/76/EK határozat módosításáról [a 16/F. § (2) bek.].
+- d) az online terrorista tartalom terjesztésével szembeni fellépésről szóló, 2021. április 29-i (EU) 2021/784 európai parlamenti és tanácsi rendelet.
 
 (3) E törvény 2. és 3/B. §-ainak a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 2015/1535/EU európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
