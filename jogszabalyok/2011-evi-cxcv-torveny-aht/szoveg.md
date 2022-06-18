@@ -2118,7 +2118,7 @@ rendeletben szabályozza.
 
 (8) A kormányzati szektorba sorolt egyéb szervezetek és a besorolás szempontjából statisztikai módszertani vizsgálat alá vett jogi személyek megnevezését az államháztartásért felelős miniszter a Magyar Közlöny mellékletét képező Hivatalos Értesítőben és a Kormány honlapján közzéteszi, valamint a besorolás tényéről értesíti a kormányrendelet szerint adatszolgáltatásra kötelezett érintett szervezetet és a felette tulajdonosi jogokat gyakorló szervezetet.
 
-(9) A nemzetközi pénzügyi intézményekkel létrejövő szerződéses jogviszonyokban – ideértve a magánszektor beruházásaihoz kapcsolódó szerződésekkel összefüggő egyetértő nyilatkozat kiadását – az államot az államháztartásért felelős miniszter képviseli, amelynek során felel a szerződések előkészítéséért, megkötéséért, módosításáért, megszüntetéséért és a szerződésből eredő kötelezettségek teljesítéséért.
+(9) A nemzetközi pénzügyi intézményekkel létrejövő szerződéses jogviszonyokban – ideértve a magánszektor beruházásaihoz kapcsolódó szerződésekkel összefüggő egyetértő nyilatkozat kiadását – az államot a nemzetközi pénzügyi kapcsolatokért felelős miniszter képviseli, amelynek során felel a szerződések előkészítéséért, megkötéséért, módosításáért, megszüntetéséért és a szerződésből eredő kötelezettségek teljesítéséért.
 
 (10) Az Emberi Jogok Európai Bírósága által hozott ítéletek és határozatok alapján az – az Emberi Jogok Európai Bírósága előtti eljárásban az igazságügyért felelős miniszter által képviselt – államot terhelő fizetési kötelezettségek teljesítése során létrejövő polgári jogviszonyokban az államot a kincstár képviseli.
 

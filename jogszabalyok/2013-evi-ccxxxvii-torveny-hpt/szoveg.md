@@ -3091,6 +3091,7 @@ van összefüggésben.
 - g) az MNB által – a banktitokra vonatkozó szabályok betartásával – a hitelintézetekről egyedi azonosításra alkalmas adatok szolgáltatása
   - ga) statisztikai célra a Központi Statisztikai Hivatal
   - gb) a nemzetgazdasági folyamatok elemzése, illetve a központi költségvetés tervezése céljából az államháztartásért felelős miniszter
+  - gc) gazdasági folyamatok és azok fejlesztésének elemzése, értékelése és tervezése céljából a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter
 
 részére,
 
