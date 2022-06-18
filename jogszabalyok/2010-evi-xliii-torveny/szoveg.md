@@ -106,9 +106,9 @@ meghatározott hatáskörök együttesét kell érteni.
 
 (5)
 
-(6) A politikai felsővezető, a kormánybiztos, a miniszterelnöki biztos, a miniszteri biztos, valamint a kormányzati főhivatal és a központi hivatal vezetője és helyettese a tárgyév március 1-jétől a következő év február utolsó napjáig terjedő időszakra vonatkozó havi illetménye, valamint a miniszterelnöki megbízott havi vagy egyszeri díjazása nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
+(6) A miniszteri biztosnak, a kormányzati főhivatal és a központi hivatal vezetőjének és annak helyettesének a tárgyév március 1-jétől a következő év február utolsó napjáig terjedő időszakra vonatkozó havi díjazása, illetve illetménye nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
-(7) A (6) bekezdés nem alkalmazható, ha a miniszterelnök a miniszternek vagy a miniszterelnök politikai igazgatójának személyi illetményt állapít meg a 39/A. § vagy a 41. § szerint.
+(7)
 
 (8) A politikai felsővezető illetménye, jutalma és célprémiuma nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
 
@@ -196,7 +196,7 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 25. §
 
-25/A. § A miniszterelnök havi illetményének az összege megegyezik a köztisztviselői illetményalap harminckilencszeresével.
+25/A. § A miniszterelnök havi illetményének összege megegyezik az Országgyűlés elnöke – az Országgyűlésről szóló 2012. évi XXXVI. törvény szerinti – tiszteletdíjának összegével.
 
 25/B. §
 
@@ -216,27 +216,17 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 30/A. §
 
-31. § (1) Az egyidejűleg politikai vagy szakmai felsővezetői megbízatást is betöltő kormánybiztos kormánybiztosi tevékenységére tekintettel a kormánybiztosi kinevezésről szóló normatív kormányhatározatban meghatározott, legfeljebb a (2) bekezdés szerinti illetménynek megfelelő összegű díjazást kaphat, ha tevékenysége eredeti feladatkörével nem függ össze. A díjazás nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
+31. § (1) Az egyidejűleg politikai felsővezetői vagy szakmai felsővezetői megbízatást is betöltő kormánybiztos, illetve miniszterelnöki biztos ezen tevékenységére tekintettel a miniszterelnök által meghatározott mértékű díjazást kaphat, ha tevékenysége eredeti feladatkörével nem függ össze. A díjazás nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
 
-(2) A politikai vagy szakmai felsővezetői megbízatást be nem töltő kormánybiztos államtitkári illetménynek megfelelő összegű díjazásra és kormányrendeletben meghatározott juttatásokra jogosult. A Kormány a kormánybiztos kinevezéséről szóló normatív határozatában a kormánybiztos díjazását és juttatásait ennél alacsonyabb mértékben is megállapíthatja. A díjazás nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
+(2) A politikai felsővezetői vagy szakmai felsővezetői megbízatást be nem töltő kormánybiztos, illetve miniszterelnöki biztos a miniszterelnök által meghatározott mértékű díjazásra és kormányrendeletben meghatározott juttatásokra jogosult. A Kormány a kormánybiztos kinevezéséről szóló normatív határozatában, a miniszterelnök a miniszterelnöki biztos kinevezéséről szóló normatív utasításában a kormánybiztos, illetve a miniszterelnöki biztos díjazását és juttatásait ennél alacsonyabb mértékben is megállapíthatja. A díjazás nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
 
-32. § (1)
-
-(2) A miniszterelnöki biztosra a 31. §-t alkalmazni kell azzal, hogy kormánybiztos alatt miniszterelnöki biztost, a Kormány normatív határozata alatt a miniszterelnök normatív utasítását, a Kormány alatt a miniszterelnököt kell érteni.
-
-(3)
-
-(4)
-
-(5)
-
-(6)
+32. §
 
 33. § (1) Ha a kormánybiztost vagy a miniszterelnöki biztost megbízatási ideje alatt politikai felsővezetőnek, közigazgatási államtitkárnak vagy helyettes államtitkárnak is kinevezik, juttatásaira az e tisztségviselőre vonatkozó szabályok alkalmazandók azzal, hogy kormánybiztosi vagy miniszterelnöki biztosi megbízatására tekintettel akkor kaphat díjazást, ha e tevékenysége e tisztségviselői feladatkörével nem függ össze.
 
 (2)
 
-(3) A megbízás díjazásaként a miniszterelnöki megbízott részére legfeljebb az államtitkári illetménynek megfelelő összegű díjazás, valamint kormányrendeletben meghatározott juttatás köthető ki.
+(3) A megbízás díjazásaként a miniszterelnöki megbízott részére a miniszterelnök által meghatározott mértékű díjazás, valamint kormányrendeletben meghatározott juttatás köthető ki.
 
 ### II/A. Fejezet
 
@@ -280,31 +270,13 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 (9) A miniszteri biztos kinevezéséről szóló normatív utasítás a miniszteri biztos díjazását és juttatásait a (6) bekezdésben meghatározottnál alacsonyabb mértékben is megállapíthatja.
 
-39. § (1) A miniszter alapilletménye a köztisztviselői illetményalap 15,6-szorosa.
+39. § A miniszter a miniszterelnök által meghatározott mértékű illetményre jogosult.
 
-(2) A miniszter illetménykiegészítésre jogosult, amelynek összege az alapilletmény 50%-a.
+39/A. §
 
-(3) A miniszter vezetői illetménypótléka az alapilletmény 65%-a.
+40. § A miniszterelnök politikai igazgatója a miniszterelnök által meghatározott mértékű illetményre jogosult.
 
-(4) A miniszter alapilletményét a miniszterelnök át nem ruházható hatáskörében legfeljebb 20%-kal csökkentheti.
-
-39/A. § (1) A miniszterelnök a miniszter részére az e törvényben meghatározott javadalmazásra vonatkozó szabályoktól eltérő személyi illetményt állapíthat meg.
-
-(2) A személyi illetmény a tárgyév március 1-jétől a következő év február végéig terjedő időszakra állapítható meg.
-
-(3) A személyi illetmény havi összege nem haladhatja meg a bármely miniszter által irányított vagy felügyelt központi államigazgatási szerv, központi államigazgatási szervnek nem minősülő költségvetési szerv, illetve a bármely miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaság által ugyanazon személynek a tárgyévet megelőző évben kifizetett, a személyi jövedelemadóról szóló törvény szerint munkaviszonyból származó jövedelemnek minősülő, legnagyobb éves jövedelem egytizenkettedét.
-
-(4) A miniszter részére személyi illetmény alkalmazása esetén illetménykiegészítés, pótlék nem fizethető.
-
-40. § (1) A miniszterelnök politikai igazgatójának alapilletménye a köztisztviselői illetményalap 15,6-szorosa.
-
-(2) A miniszterelnök politikai igazgatója illetménykiegészítésre jogosult, amelynek összege az alapilletmény 50%-a.
-
-(3) A miniszterelnök politikai igazgatójának vezetői illetménypótléka az alapilletmény 65%-a.
-
-(4) A miniszterelnök politikai igazgatójának alapilletményét a miniszterelnök át nem ruházható hatáskörében legfeljebb 20%-kal csökkentheti.
-
-41. § A miniszterelnök a miniszterelnök politikai igazgatója részére az e törvényben meghatározott javadalmazásra vonatkozó szabályoktól eltérő személyi illetményt állapíthat meg a 39/A. §-ban foglaltak alapján azzal, hogy a személyi illetmény havi összege nem haladhatja meg a bármely miniszter részére a 39/A. § (3) bekezdése alapján megállapítható személyi illetmény havi legnagyobb összegét.
+41. §
 
 42. §
 
@@ -324,17 +296,7 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 50. §
 
-51. § (1)
-
-(2)
-
-(3)
-
-(4)
-
-(5) Az államtitkár a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 1. melléklet I. pontjában foglalt Illetménytábla szerinti közigazgatási államtitkári illetményre jogosult, amelynek összegét a miniszter állapítja meg.
-
-(6) Az (1)–(5) bekezdés alkalmazásában a miniszter alatt a miniszterelnököt kell érteni, ha az államtitkár tevékenységét a miniszterelnök irányítja.
+51. § Az államtitkár a miniszterelnök által meghatározott mértékű illetményre jogosult.
 
 52. §
 
@@ -448,16 +410,12 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 ### Átmeneti rendelkezések
 
-91. § (1)
+91. § (1) E törvénynek az egyes törvényeknek a honvédelemmel, a gazdaságfejlesztéssel, valamint a kormányzati igazgatással összefüggő módosításáról szóló 2022. évi VII. törvénnyel (a továbbiakban: Módtv.) megállapított 25/A. §-t 2022. június 1-jétől kell alkalmazni.
 
-(2) Azokra az állami vezetőkre, akiknek megbízatása e törvény hatálybalépését megelőzően szűnt meg, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2006. évi LVII. törvény rendelkezéseit kell alkalmazni a 12/A. § kivételével.
+(2) A Módtv. hatálybalépésekor a tisztséget betöltő miniszter, miniszterelnök politikai igazgatója, kormánybiztos, miniszterelnöki biztos és államtitkár, valamint a Módtv. hatálybalépésekor érvényes megbízással rendelkező miniszterelnöki megbízott e törvénynek a Módtv.-vel megállapított 31. §-a, 33. § (3) bekezdése, 39. §-a, 40. §-a és 51. §-a szerinti díjazásra, illetményre attól az időponttól jogosult, amikortól azt részére a miniszterelnök megállapítja.
 
-(3) A 13. § (3a) bekezdését a hatálybalépése előtt megállapított hozzátartozói nyugellátásra is alkalmazni kell az 1990. május 23-át követően miniszterelnöki tisztséget betöltött személy hozzátartozója esetében.
+(3) Az érintett személy díjazásának, illetményének a (2) bekezdés szerinti megállapításáig a Módtv. hatálybalépése előtt számára megállapított illetményre, díjazásra jogosult.
 
-(4) Az e törvény hatálybalépését megelőzően a központi államigazgatási szervek, valamint területi és helyi szerveik, továbbá a minisztérium főosztályának vezetésére adott vezetői megbízásokra a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény 31. § (10)–(17) bekezdésének e törvény hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
+(4) Ahol jogszabály miniszteri vagy államtitkári illetményt, illetve annak hányadát vagy szorzatát állapítja meg illetményként vagy díjazásként valamely tisztségviselő számára, jogszabály eltérő rendelkezése hiányában e törvénynek a Módtv. hatálybalépését megelőző napon hatályos szabályait kell alkalmazni az illetmény vagy a díjazás összegének megállapítása során.
 
-(5) Az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény e törvénnyel megállapított 5. § (1) bekezdés b) pontját és ezzel összefüggésben 8. § (4) bekezdését, 12. § (1) és (3) bekezdését, valamint 14. § (1)–(6) bekezdését azokra a vagyonnyilatkozat-tételre kötelezettekre kell alkalmazni, akiknek a kötelezettséget megalapozó jogviszonya, beosztása, munka- vagy feladatköre e törvény hatálybalépését követően szűnt meg.
-
-(6) Ha törvény úgy rendelkezik, hogy valamely tisztséget meghatározott időszakban helyettes államtitkárként szakmai vezetői jogviszonyban állt személy nem tölthet be, akkor az ugyanebben az időszakban szakállamtitkárként állami vezetői jogviszonyban állt személy sem töltheti be ezt a tisztséget.
-
-92. § A Magyarország 2019. évi központi költségvetésének megalapozásáról szóló 2018. évi XL. törvénnyel megállapított 39/A. § (2) bekezdését a 2018. évben azzal az eltéréssel kell alkalmazni, hogy a személyi illetmény 2018. augusztus 1-jétől 2019. február végéig terjedő időszakra állapítható meg.
+92. §

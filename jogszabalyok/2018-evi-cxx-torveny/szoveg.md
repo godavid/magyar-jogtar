@@ -2,7 +2,15 @@
 
 a Hungary Helps Programról
 
-Magyarország a magyar emberek munkájának köszönhetően erősödik, amely megmutatkozik többek között gazdasági teljesítőképességének növekedésében, a munkából élő emberek növekvő számában, önvédelmi és érdekérvényesítési hatékonyságának erősödésében.Magyarország képessé vált arra, hogy az eddigieknél nagyobb mértékben vegye ki a részét a válságterületek, a migrációs kibocsájtó országok és fejlődő országok stabilizálását szolgáló humanitárius segítségnyújtásból és nemzetközi fejlesztéspolitikából. A Magyarország által foganatosított nemzetközi humanitárius politikának összhangban kell lennie a magyar Kormány általános prioritásaival és elveivel, ezért a magyar Kormány nemzetközi tevékenységének az emberi méltóság és emberi jogok egyetemes védelme mellett szolgálnia kell a keresztény kultúra, azaz a magyarság értékalapjainak védelmét, valamint a keresztény kultúrkörhöz tartozó veszélyeztetett közösségek megsegítését.Magyarországnak a magyar emberek biztonságának védelmében hozzá kell járulnia az Európára nehezedő migrációs nyomás csökkentéséhez, a helyben történő segítségnyújtással való megelőzéshez. Ezen a humanitárius segítségnyújtás terén tanúsított jószolgálati elvek összességét foglalja magába a magyar emberek szolidaritásának kifejezéseképpen Magyarország legjelentősebb humanitárius segítségnyújtási programja, a Hungary Helps Program.A Hungary Helps Program kiszélesített alapelveinek gyakorlati megvalósítását jelen törvény hivatott biztosítani a következők szerint: a humanitárius válságok létének, kiváltó okainak és természetének feltárása és megnevezése, a közvetlen és helyben történő segítségnyújtás modellje, valamint a humanitárius válsággal fenyegetett közösségek helyben való maradása támogatásának az elve a prevenció révén. A törvény biztosítja, hogy gyorsan és hatékonyan jusson el a segítség az üldözöttekhez és a humanitárius katasztrófák áldozataihoz, valamint Magyarország a nemzetközi szintéren meghatározóan hozzájáruljon a migrációt is előidéző folyamatok megszüntetésében a helyben történő azonnali segítségnyújtással.Az Országgyűlés annak érdekében, hogy Magyarországnak mint a nemzetközi közösség szolidáris tagjának a nemzetközi humanitárius segítségnyújtási erőfeszítései hatékonyan érvényesülhessenek a következő a nemzetközi fejlesztési együttműködésről és a nemzetközi humanitárius segítségnyújtásról szóló 2014. évi XC. törvény célkitűzéseit kiegészítő törvényt alkotja:
+Magyarország a magyar emberek munkájának köszönhetően erősödik, amely megmutatkozik többek között gazdasági teljesítőképességének növekedésében, a munkából élő emberek növekvő számában, önvédelmi és érdekérvényesítési hatékonyságának erősödésében.
+
+Magyarország képessé vált arra, hogy az eddigieknél nagyobb mértékben vegye ki a részét a válságterületek, a migrációs kibocsájtó országok és fejlődő országok stabilizálását szolgáló humanitárius segítségnyújtásból és nemzetközi fejlesztéspolitikából. A Magyarország által foganatosított nemzetközi humanitárius politikának összhangban kell lennie a magyar Kormány általános prioritásaival és elveivel, ezért a magyar Kormány nemzetközi tevékenységének az emberi méltóság és emberi jogok egyetemes védelme mellett szolgálnia kell a keresztény kultúra, azaz a magyarság értékalapjainak védelmét, valamint a keresztény kultúrkörhöz tartozó veszélyeztetett közösségek megsegítését.
+
+Magyarországnak a magyar emberek biztonságának védelmében hozzá kell járulnia az Európára nehezedő migrációs nyomás csökkentéséhez, a helyben történő segítségnyújtással való megelőzéshez. Ezen a humanitárius segítségnyújtás terén tanúsított jószolgálati elvek összességét foglalja magába a magyar emberek szolidaritásának kifejezéseképpen Magyarország legjelentősebb humanitárius segítségnyújtási programja, a Hungary Helps Program.
+
+A Hungary Helps Program kiszélesített alapelveinek gyakorlati megvalósítását jelen törvény hivatott biztosítani a következők szerint: a humanitárius válságok létének, kiváltó okainak és természetének feltárása és megnevezése, a közvetlen és helyben történő segítségnyújtás modellje, valamint a humanitárius válsággal fenyegetett közösségek helyben való maradása támogatásának az elve a prevenció révén. A törvény biztosítja, hogy gyorsan és hatékonyan jusson el a segítség az üldözöttekhez és a humanitárius katasztrófák áldozataihoz, valamint Magyarország a nemzetközi szintéren meghatározóan hozzájáruljon a migrációt is előidéző folyamatok megszüntetésében a helyben történő azonnali segítségnyújtással.
+
+Az Országgyűlés annak érdekében, hogy Magyarországnak mint a nemzetközi közösség szolidáris tagjának a nemzetközi humanitárius segítségnyújtási erőfeszítései hatékonyan érvényesülhessenek a következő a nemzetközi fejlesztési együttműködésről és a nemzetközi humanitárius segítségnyújtásról szóló 2014. évi XC. törvény célkitűzéseit kiegészítő törvényt alkotja:
 
 #### 1. Általános rendelkezések
 
@@ -71,7 +79,7 @@ Magyarország a magyar emberek munkájának köszönhetően erősödik, amely me
 
 (2) Minden kedvezményezett írásbeli beszámolási kötelezettséggel tartozik az Ügynökség felé az adomány felhasználását követő hatvan napon belül. Amennyiben e kötelezettségének a kedvezményezett nem tesz eleget, köteles az adomány teljes összegének a visszafizetésére.
 
-(3) Az Ügynökség felett a tulajdonosi jogokat a Miniszterelnökség (a továbbiakban: tulajdonosi joggyakorló) gyakorolja.
+(3) Az Ügynökség felett a tulajdonosi jogokat az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: tulajdonosi joggyakorló) gyakorolja.
 
 5. § Az Ügynökség vezérigazgatója, illetve az Ügynökséggel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy nem lehet
 
@@ -134,7 +142,7 @@ illeti meg az Ügynökséget.
 
 (4) Az (3) bekezdésben meghatározott személyes adatokat az Ügynökség 5 évig kezeli.
 
-(5) A Kormánynak az üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért felelős tagja (a továbbiakban: miniszter) szükség szerint, de legalább évente egyszer, május 31-ig tájékoztatja a Kormányt az Ügynökség tevékenységéről és működéséről.
+(5) A miniszter szükség szerint, de legalább évente egyszer, május 31-ig tájékoztatja a Kormányt az Ügynökség tevékenységéről és működéséről.
 
 (6) A Kormány évente egyszer beszámol az Országgyűlésnek az Ügynökség előző évi tevékenységéről és működéséről, valamint e törvény alkalmazásának tapasztalatairól. A beszámolót a honlapon nyilvánosságra kell hozni.
 
@@ -146,20 +154,20 @@ illeti meg az Ügynökséget.
 
 11. § Ez a törvény 2019. január 1-jén lép hatályba.
 
-12. §
+#### 12. §
 
-13. §
+#### 13. §
 
-14. §
+#### 14. §
 
-15. §
+#### 15. §
 
-16. §
+#### 16. §
 
-17. §
+#### 17. §
 
-18. §
+#### 18. §
 
-19. §
+#### 19. §
 
-20. §
+#### 20. §

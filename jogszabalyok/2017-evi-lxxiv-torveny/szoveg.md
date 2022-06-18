@@ -19,6 +19,8 @@ egyes állami tulajdonú ingatlanok ingyenes egyházi tulajdonba adásáról
 
 5. § A 2. § alapján ingyenesen tulajdonba adott ingatlanon e törvény erejénél fogva határozatlan időre elidegenítési és terhelési tilalom áll fenn. Az elidegenítési és terhelési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg a tulajdonosi joggyakorló kérelmezi.
 
+5/A. § Az állam, vagy az állam javára eljáró építtető a 2. § alapján ingyenesen tulajdonba adott ingatlanokon központi költségvetési forrásból finanszírozott beruházási és felújítási tevékenységet (e § vonatkozásában a továbbiakban együtt: Beruházás) végezhet. A Beruházás során létrejött ingó és ingatlan vagyonelemek e törvény erejénél fogva ingyenesen a Konstantinápolyi Egyetemes Patriarchátus – Magyarországi Ortodox Exarchátus tulajdonába kerülnek. A Beruházás műszaki átadás-átvételének lebonyolítását követően, a munkaterület kivitelező által az állam, vagy az állam javára eljáró építtető részére történő visszaadását követő napon a Beruházás során létrejött ingó és ingatlan vagyonelemeket az állam, vagy az állam javára eljáró építtető az általa nyilvántartott könyv szerinti értéken, befejezetlen beruházásként átadja a Konstantinápolyi Egyetemes Patriarchátus – Magyarországi Ortodox Exarchátusnak.
+
 6. § (1) Az Nvtv. 13. § (3) bekezdése, valamint a Vtv. 36. § (1) bekezdése és (2) bekezdés g) pontja alapján a Magyarországi Református Egyház szociális, oktatási, kulturális és hitéleti feladatainak elősegítése érdekében a Nagykőrös, Hősök tere 6. szám alatt található, az ingatlan-nyilvántartás szerint Nagykőrös, belterület 5260 helyrajzi szám alatt nyilvántartott állami tulajdonban lévő ingatlan ingyenesen, a számvitelről szóló 2000. évi C. törvény 50. § (4) bekezdése szerinti értéken a Magyarországi Református Egyház tulajdonába kerül. Az ingatlan tulajdonjogát a Magyarországi Református Egyház jogokkal és kötelezettségekkel együtt szerzi meg.
 
 (2) Az (1) bekezdés szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság köti meg a Magyarországi Református Egyházzal.
@@ -32,6 +34,8 @@ egyes állami tulajdonú ingatlanok ingyenes egyházi tulajdonba adásáról
 7. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő ötödik napon lép hatályba.
 
 (2) A 2. §, a 4. §, az 5. §, valamint az 1. melléklet 2017. szeptember 1-jén lép hatályba.
+
+7/A. § E törvénynek az egyes törvényeknek a honvédelemmel, a gazdaságfejlesztéssel, valamint a kormányzati igazgatással összefüggő módosításáról szóló 2022. évi VII. törvénnyel (a továbbiakban: Módtv.) megállapított 5/A. §-át a Módtv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 8. § E törvény 2. §-a, 4. §-a, 5. §-a, 6. § (3) bekezdése, valamint 1. melléklete az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 

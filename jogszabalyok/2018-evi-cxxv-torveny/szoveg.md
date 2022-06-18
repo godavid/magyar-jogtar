@@ -280,7 +280,7 @@ segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
 
 (5) A politikai felsővezetők, a közigazgatási államtitkárok és a helyettes államtitkárok személyi anyagának nyilvántartását a Miniszterelnöki Kormányiroda vezeti.
 
-(6) A (2) bekezdés szerinti minisztérium közigazgatási államtitkára és a Miniszterelnöki Kormányiroda közigazgatási államtitkára megállapodást köthet a (2) bekezdés szerinti minisztériumnak a Miniszterelnöki Kormányiroda (5) bekezdés szerinti, 7. § (3) bekezdése szerinti, valamint 183. § (2), (3) és (7) bekezdése szerinti feladatai ellátásában való közreműködéséről.
+(6) A (2) bekezdés szerinti minisztérium közigazgatási államtitkára és a Miniszterelnöki Kormányiroda közigazgatási államtitkára megállapodást köthet a (2) bekezdés szerinti minisztériumnak a Miniszterelnöki Kormányiroda (5) bekezdés szerinti, 7. § (3) bekezdése szerinti, valamint 183. § (2), (3) és (7) bekezdése, továbbá a 186. § szerinti feladatai ellátásában való közreműködéséről.
 
 #### 17. § [A Miniszterelnöki Kormányiroda vezetője]
 
@@ -3847,6 +3847,8 @@ Ha a miniszter megbízatása az Alaptörvény 20. cikk (3) bekezdés d) pontjáb
 
 (3) A miniszterelnök politikai igazgatója a kinevezésében megjelölt időpontban, ennek hiányában a kinevezésével hivatalba lép.
 
+(3a) A miniszterelnök politikai igazgatója – a kinevezését követően – a miniszterelnök előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt tesz.
+
 (4) A miniszterelnök a miniszterelnök politikai igazgatója részére a politikai felsővezetői tisztség betöltésének igazolása céljából igazolványt állít ki. Az igazolvány a miniszterelnök politikai igazgatója nevét, arcképmását és a betöltött tisztség megnevezését tartalmazza.
 
 (5) A miniszterelnök politikai igazgatója tekintetében a munkáltatói jogokat a miniszterelnök gyakorolja.
@@ -4227,13 +4229,13 @@ A fegyelmi vétséget elkövető közigazgatási államtitkárral, valamint hely
 
 (2) A közigazgatási államtitkár a kinevezésében megjelölt időpontban, ennek hiányában a kinevezésével hivatalba lép.
 
-(3) A közigazgatási államtitkár kormányzati szolgálati jogviszonyával kapcsolatosan a munkáltatói jogkört – az e tisztségbe való kinevezés és az abból való felmentés kivételével – a miniszter gyakorolja. A kormányzati szolgálati jogviszonyból származó igények érvényesítése érdekében indított eljárásban munkáltatóként a miniszter jár el.
+(3) A közigazgatási államtitkár kormányzati szolgálati jogviszonyával kapcsolatosan a munkáltatói jogkört – az e tisztségbe való kinevezés és az abból való felmentés, valamint az illetmény megállapítása kivételével – a miniszter gyakorolja. A kormányzati szolgálati jogviszonyból származó igények érvényesítése érdekében indított eljárásban munkáltatóként a miniszter jár el.
 
 (4) A kinevezett közigazgatási államtitkár a köztársasági elnök előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt tesz.
 
 #### 230. § [A közigazgatási államtitkár illetménye]
 
-A közigazgatási államtitkár az 1. mellékletben meghatározott közigazgatási államtitkári álláshely szerinti illetményre jogosult, amelynek összegét a munkáltatói jogkör gyakorlója teljesítményértékelés nélkül, mérlegelés alapján állapítja meg.
+A közigazgatási államtitkár a miniszterelnök által megállapított mértékű illetményre jogosult. A közigazgatási államtitkár illetménye eltérhet az 1. mellékletben meghatározott illetménysáv felső határától.
 
 #### 231. § [A közigazgatási államtitkár jogviszonyának megszűnése és megszüntetése]
 
@@ -5026,7 +5028,11 @@ figyelembe kell venni.
 
 E törvénynek a Magyarország 2021. évi központi költségvetésének megalapozásáról szóló 2020. évi LXXVI. törvénnyel (a továbbiakban: Módtv2.) megállapított 221. § (1a) bekezdését és 222. § (3) bekezdését a Módtv2. hatálybalépését követő kinevezések esetén kell alkalmazni.
 
-#### 299. §
+#### 299. § [Átmeneti rendelkezés az egyes törvényeknek a honvédelemmel, a gazdaságfejlesztéssel, valamint a kormányzati igazgatással összefüggő módosításáról szóló 2022. évi VII. törvényhez]
+
+(1) Az egyes törvényeknek a honvédelemmel, a gazdaságfejlesztéssel, valamint a kormányzati igazgatással összefüggő módosításáról szóló 2022. évi VII. törvény (a továbbiakban: Módtv3.) hatálybalépésekor jogviszonyban álló közigazgatási államtitkár e törvénynek a Módtv3.-mal megállapított 230. §-a szerinti illetményre attól az időponttól jogosult, amikortól azt részére a miniszterelnök megállapítja.
+
+(2) Az érintett személy illetményének az (1) bekezdés szerinti megállapításáig a Módtv3. hatálybalépése előtt számára megállapított illetményre jogosult.
 
 #### 300. §
 

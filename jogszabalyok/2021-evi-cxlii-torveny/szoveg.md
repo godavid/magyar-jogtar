@@ -110,7 +110,7 @@ a határok, a vízumügy, a rendőrségi és igazságügyi együttműködés, va
 
 (3) Az 1. alcím, a 2. alcím, az 5. alcím, a 21–24. §, a 7. alcím, a 8. alcím és a 11. alcím 2023. január 1-jén lép hatályba.
 
-(4) A 9. alcím és a 10. alcím 2023. július 1-jén lép hatályba.
+(4) A 9. alcím és a 10. alcím 2022. november 1-jén lép hatályba.
 
 41. § Az uniós információs rendszerek közötti interoperabilitás megteremtéséhez szükséges informatikai fejlesztéseket
 
