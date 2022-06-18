@@ -125,7 +125,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 - c) elrendeli a Kormány egyidejű tájékoztatása mellett a polgári védelmi szervezetek részleges alkalmazását,
 - d) dönt az Országgyűlés által az éves költségvetésben a nemzetközi segítségnyújtásra hatáskörébe utalt előirányzat felhasználásáról,
 - e) háromévente jelentést készít az Országgyűlésnek és a Kormánynak a főbb természeti csapásokra és az ember okozta katasztrófákra kiterjedő kockázatelemzésekről, a katasztrófák elleni védekezésre történő felkészülés helyzetéről, illetve a védekezésről,
-- f) gondoskodik a polgári veszélyhelyzeti tervezés (a továbbiakban: NATO CEP) katasztrófavédelmi feladatainak hazai koordinálásáról és végrehajtásáról, melynek érdekében biztosítja a képviseletet a NATO Polgári Veszélyhelyzeti Tervezési Bizottságban (a továbbiakban: NATO CEPC), ellátja a NATO CEPC katasztrófavédelmi szerveivel való kapcsolattartást,
+- f) gondoskodik a polgári veszélyhelyzeti tervezés katasztrófavédelmi feladatainak hazai koordinálásáról és végrehajtásáról, amelynek érdekében biztosítja a képviseletet a NATO Reziliencia Bizottságban (a továbbiakban: NATO RC), ellátja a NATO RC katasztrófavédelmi szerveivel való kapcsolattartást,
 - g) gondoskodik az EU polgári védelmi tevékenységének hazai koordinálásáról és végrehajtásáról, ennek keretében biztosítja a kapcsolattartást és a képviseletet az EU intézményeiben,
 - h) a külpolitikáért felelős miniszterrel együttműködve részt vesz a nemzetközi segítségnyújtásban,
 - i) felelős a kritikus infrastruktúrák védelméért a katasztrófák elleni védekezés területén,
@@ -366,8 +366,8 @@ felé kell teljesíteni.
 (5) A hivatásos katasztrófavédelmi szerv központi szerve vezetője a nemzetközi együttműködéssel kapcsolatos jogkörében:
 
 - a) közreműködik a katasztrófavédelemmel kapcsolatos nemzetközi szerződések szakmai előkészítésében, részt vesz a nemzetközi együttműködésben, ennek keretében folyamatos kapcsolatot tart fenn a nemzetközi katasztrófavédelmi szervezetekkel,
-- b) jelöli a NATO CEPC munkájában az állandó képviseletet ellátó összekötő személyét,
-- c) jelöli a NATO CEPC alá tartozó polgári védelmi bizottság (CPG) munkájában a nemzeti szakmai képviseletet ellátó személyt,
+- b) jelöli a NATO RC munkájában az állandó képviseletet ellátó összekötő személyét,
+- c) jelöli a NATO RC alá tartozó polgári védelmi bizottság (CPG) munkájában a nemzeti szakmai képviseletet ellátó személyt,
 - d) biztosítja a nemzetközi szervezetekkel, így különösen az EU és a NATO polgári védelmi gyorsriasztó és információs rendszereivel való kapcsolattartást, előkészíti, koordinálja és biztosítja a nemzetközi szervezetekben és azok szakmai testületeiben való érdekképviseletet,
 - e) ellátja az EU Lisszaboni Szerződésből eredő polgári védelmi tevékenységek koordinálásával kapcsolatos feladatokat, és szoros kapcsolatot tart fenn a külpolitikáért felelős miniszterrel a humanitárius segítségnyújtással való összhang megteremtése érdekében,
 - f) biztosítja a hazai és nemzetközi katasztrófavédelmi gyakorlatok tervezését, szervezését és az azokon való részvételt,
