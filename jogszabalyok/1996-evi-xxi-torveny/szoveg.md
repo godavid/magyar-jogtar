@@ -388,7 +388,7 @@ Az ország kiegyensúlyozott területi fejlődése és a térségei társadalmi-
 
 (8) A kiemelt térségi fejlesztési tanácsok működtetésére – a (9) bekezdésben meghatározott kivétellel – a 15. § (4) bekezdés a) pontját, a 15. § (5) és (6) bekezdését és a 16. §-t kell alkalmazni azzal az eltéréssel, hogy a kiemelt térségi fejlesztési tanácsok működtetéséhez a központi költségvetés támogatást nyújt.
 
-(9) A Balaton Fejlesztési Tanácsban a 15. § (6) bekezdésétől eltérően az elnöki feladatokat a két elnök mint társelnök látja el, azzal, hogy az egyik elnököt a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter jelöli ki, a másik elnököt a tanács a tagjai közül választja. A társelnökök a Balaton Fejlesztési Tanács üléseit együttesen hívják össze. Elnöki teendőiket azonos jogkörrel – a társelnök tevékenységére is figyelemmel – egymással együttműködve látják el.
+(9) Az (1) bekezdés szerinti kiemelt térségi fejlesztési tanácsokban – a 15. § (6) bekezdésétől eltérően – az elnöki feladatokat két elnök mint társelnök látja el, azzal, hogy az egyik elnök a területfejlesztés stratégiai tervezéséért felelős miniszter vagy az általa kijelölt személy, a másik elnököt a tanácsok a tagjaik közül választják. A társelnökök a tanács üléseit együttesen hívják össze, és az elnöki teendőiket azonos jogkörrel, – a társelnök tevékenységére is figyelemmel – egymással együttműködve látják el.
 
 ### A területi államigazgatási szervek feladatai
 
