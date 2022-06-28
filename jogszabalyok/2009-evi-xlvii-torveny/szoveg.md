@@ -32,6 +32,10 @@ a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bír
 - n) szájnyálkahártya-törlet: a szájüreg belső felületéről, annak sérelme nélkül, steril gézzel vagy más, az egészségügyben használatos hordozóval letörölt anyag;
 - o) testi kényszer: megfogás, lefogás, valamint testi erővel valamely cselekvés, magatartás abbahagyására vagy a mintavétel tűrésére kényszerítés.
 
+2/A. § (1) E törvény alkalmazásában harmadik országbeli állampolgár az a személy, aki nem az Európai Unió tagállamának állampolgára, a hontalan személy és az a személy, akinek az állampolgársága nem ismert.
+
+(2) A harmadik országbeli állampolgárra vonatkozó rendelkezéseket alkalmazni kell a magyar állampolgár és az Európai Unió valamely más tagállamának állampolgára esetében is, ha többes állampolgárként egyben harmadik országbeli állampolgár is.
+
 ### II. Fejezet — A BŰNÜGYI NYILVÁNTARTÁSI RENDSZER
 
 ### A bűnügyi nyilvántartási rendszer tagozódása
@@ -64,7 +68,7 @@ azonosítása.
   - ae) anyja születési családi és utónevét, továbbá annak megváltoztatása esetén anyja előző születési családi és utónevét,
   - af) személyi azonosítóját,
   - ag) előző családi és utónevét,
-  - ah) állampolgárságát, előző állampolgárságát, valamint
+  - ah) állampolgárságait, előző állampolgárságait, illetve ha állampolgársága nem ismert, vagy hontalan, ezt a tényt, valamint
   - ai) lakcímét, továbbá annak megváltozása esetén előző lakcímét (a továbbiakban együtt: személyazonosító adatok),
 - b) az érintett
   - ba) arcképmását, ha a nyilvántartásba vétel e törvényben meghatározott feltételei fennállnak, valamint
@@ -1153,7 +1157,7 @@ előírja.
 
 (5) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványt a kérelmező erre irányuló kérelme esetén a kérelmező által megjelölt belföldi címzett részére kézbesíti.
 
-(6)
+(6) Ha a kérelmező harmadik országbeli állampolgár vagy az Európai Unió tagállamának állampolgára és a (3) bekezdés a), d) vagy e) pontjában meghatározott tény igazolására irányuló kérelméből egyértelműen megállapítható, hogy az gyermekekkel való közvetlen és rendszeres kapcsolattartással járó szakmai vagy szervezett önkéntes foglalkozás, illetve tevékenység végzése érdekében került benyújtásra, amelynek keretében tizennyolcadik életévét be nem töltött személy nevelését, felügyeletét, gondozását, gyógykezelését végezné, illetve ilyen személlyel egyéb hatalmi vagy befolyási viszonyban állna, a bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszeren kívül az Európai Unió más tagállamában vagy az Egyesült Királyságban történő elítélést is figyelembe veszi a 79. § (3) bekezdésében meghatározottak szerint.
 
 72. § (1) A hatósági erkölcsi bizonyítvány kiállítása iránti kérelmet az erre a célra rendszeresített űrlapon papír alapon, a bűnügyi nyilvántartó szerv által működtetett ügyfélszolgálaton, valamint a kormányablakban személyesen szóban vagy elektronikus azonosítását követően, elektronikus úton kell előterjeszteni.
 
@@ -1175,7 +1179,12 @@ előírja.
 
 (2) Ha a kérelmező magyar állampolgár, a bűnügyi nyilvántartó szerv elvégzi a 76/A. §-ban és a 76/B. §-ban meghatározottak szerinti ellenőrzést, megfeleltetési eljárás kezdeményezése esetén a hatósági erkölcsi bizonyítvány kiállítása iránti eljárást felfüggeszti.
 
-(3)
+(3) Ha a kérelmező harmadik országbeli állampolgár vagy az Európai Unió tagállamának állampolgára és a 71. § (6) bekezdése szerinti kérelmet terjeszt elő, a bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránti eljárást
+
+- a) a 79. § (3) bekezdése szerinti adatigénylés esetén az Európai Unió más tagállama, illetve az Egyesült Királyság válasza megérkezéséig,
+- b) ha a válasz alapján megfeleltetési eljárást kell kezdeményezni, akkor legfeljebb a megfeleltetési eljárás jogerős befejezéséig, illetve a bűnügyi nyilvántartási rendszerbe való bejegyzést eredményező módon történő megfeleltetés esetén az adatoknak a bűnügyi nyilvántartási rendszerbe történő bejegyzéséig
+
+felfüggeszti.
 
 (4)
 
@@ -1331,7 +1340,15 @@ közvetlen hozzáféréssel adatokat kíván átvenni a bűnügyi nyilvántartá
 - a) a megfeleltetett tagállami ítélettel kapcsolatos adatokat továbbítja a közvetlen hozzáféréssel történő adatátvételre vagy az adatigénylésre jogosult szervnek, illetve
 - b) a megfeleltetett tagállami ítélettel kapcsolatos adatok figyelembevételével állítja ki a hatósági erkölcsi bizonyítványt.
 
-76/C. § A bűnügyi nyilvántartó szerv jogszabályban meghatározottak szerint tájékoztatja a közvetlen hozzáféréssel történő adatátvételre vagy az adatigénylésre jogosult szervet a 76/A. §, illetve a 76/B. § alapján tett intézkedésekről, illetve arról, ha ilyen intézkedésre nem került sor.
+(6) A bűnügyi nyilvántartó szerv jogszabályban meghatározottak szerint tájékoztatja a közvetlen hozzáféréssel történő adatátvételre vagy az adatigénylésre jogosult szervet a 76/A. §, illetve a 76/B. § alapján tett intézkedésekről, illetve arról, ha ilyen intézkedésre nem került sor.
+
+### A bűnügyi nyilvántartási rendszerből való adattovábbítás és az Európai Unió más tagállamának bűnügyi nyilvántartásából történő adatigénylés közötti kapcsolat
+
+76/C. § (1) Ha az adatigénylés olyan, gyermekekkel való közvetlen és rendszeres kapcsolattartással járó szakmai vagy szervezett önkéntes foglalkozás, illetve tevékenység engedélyezése, vagy azok ellenőrzése céljából kerül benyújtásra, amelynek keretében az adatigényléssel érintett személy tizennyolcadik életévét be nem töltött személy nevelését, felügyeletét, gondozását, gyógykezelését végezné, végzi, illetve ilyen személlyel egyéb hatalmi vagy befolyási viszonyba kerülne vagy ilyen viszonyban áll, és aki harmadik országbeli állampolgár vagy az Európai Unió tagállamának állampolgára, az adatigénylő az adatigénylés keretében, azzal egyidejűleg kérheti, hogy a bűnügyi nyilvántartó szerv ellenőrizze, hogy szerepel-e az érintettre vonatkozó adat az Európai Unió más tagállamának vagy az Egyesült Királyság bűnügyi nyilvántartásában.
+
+(2) A 71. § (6) bekezdése szerinti esetben a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásban a bűnügyi nyilvántartó szerv a 79. § (3) bekezdésében meghatározottak szerint ellenőrzi, hogy szerepel-e a kérelmezőre vonatkozó adat az Európai Unió más tagállamának vagy az Egyesült Királyság bűnügyi nyilvántartásában.
+
+(3) Ha az (1) és (2) bekezdés szerinti esetben a bűnügyi nyilvántartó szerv megállapítja, hogy az Európai Unió más tagállamának vagy az Egyesült Királyság bűnügyi nyilvántartásában az adatigényléssel érintett személyre, illetve a kérelmezőre vonatkozó, magyar bíróság által még nem elismert vagy nem megfeleltetett ítélet szerepel, a bíróságnál kezdeményezi, hogy a magyar bíróság a megfeleltetést végezze el. A megfeleltetéssel kapcsolatos eljárásra a 76/B. §-ban meghatározott rendelkezéseket megfelelően alkalmazni kell.
 
 ### V/A. Fejezet — ADATTOVÁBBÍTÁS A TAGÁLLAMI ÍTÉLETEK NYILVÁNTARTÁSÁBÓL
 
@@ -1361,9 +1378,26 @@ vonatkozóan kezelt adatot, akivel szemben külföldi bíróság tagállami ít�
 (2) Az átvevő tagállamot tájékoztatni kell
 
 - a) az adatok átadásával egyidejűleg az adatok törlésének várható időpontjáról, továbbá
-- b) arról, ha az adatok a bűntettesek nyilvántartásából vagy – a 15. § a) és e) pontja szerinti adatok kivételével – a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából törlésre kerültek.
+- b) arról, ha az adatok a bűntettesek nyilvántartásából vagy – a 15. § a) és e) pontja szerinti adatok kivételével – a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából törlésre kerültek,
+- c) arról, ha az adatok a bűntettesek nyilvántartásában vagy – a 15. § a) és e) pontja szerinti adatok kivételével – a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában módosításra kerültek.
 
 (3) Ha az érintett személy két vagy több, az Európai Unió más tagállamának állampolgára, az (1) és (2) bekezdés szerinti adatokat valamennyi érintett tagállamnak továbbítani kell.
+
+### A 2019/816 európai parlamenti és tanácsi rendelet 5. cikkében meghatározott adattovábbítás, valamint a 2019/818 európai parlamenti és tanácsi rendelet szerinti többszörös személyazonosság ellenőrzése
+
+78/A. § (1) A bűnügyi nyilvántartó szerv központi hatóságként végzi a 2019/816 európai parlamenti és tanácsi rendelet 5. cikk (1) bekezdésében meghatározott személyazonosító adatoknak a 2019/816 európai parlamenti és tanácsi rendeletben meghatározott, a harmadik országbeli állampolgárokkal és hontalan személyekkel szemben hozott ítéletekre vonatkozó információval rendelkező tagállamok azonosítására szolgáló központi rendszerbe (a továbbiakban: ECRIS-TCN) történő továbbítását.
+
+(2) Az ECRIS-TCN-be történő adattovábbítás érdekében a bűnügyi nyilvántartó szerv a szakrendszeri azonosító kód megadásával igénylés alapján történő adattovábbítással átveszi a szakértői nyilvántartó szervtől az érintettnek az adattovábbítás tárgyát képező bűncselekménnyel összefüggésben rögzített ujjnyomatának azonos másolatát.
+
+(3) A bűnügyi nyilvántartó szerv jelzéssel látja el az ECRIS-TCN-be továbbítandó adatokat, ha az érintett harmadik országbeli állampolgárt az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 1. számú mellékletében meghatározott terrorista bűncselekmény vagy más súlyos bűncselekmény elkövetéséért ítélték el.
+
+78/B. § (1) A bűnügyi nyilvántartó szerv központi hatóságként végzi az általa az ECRIS-TCN-be feltöltött adatok tekintetében a 2019/818 európai parlamenti és tanácsi rendeletben meghatározott esetekben a többszörös személyazonosság manuális ellenőrzését.
+
+(2) Amennyiben az ECRIS-TCN-be feltöltött adatok tekintetében a 2019/818 európai parlamenti és tanácsi rendelet 27. cikk (1) bekezdés b) pontja szerinti lekérdezés sárga kapcsolatot eredményez, és a rendelkezésre álló személyazonosító adatok alapján kétséget kizáró módon nem állapítható meg, hogy azok azonos vagy különböző személyeket jelölnek, a bűnügyi nyilvántartó szerv a személyiadat- és lakcímnyilvántartás, az idegenrendészeti nyilvántartás, vagy a központi útiokmány-nyilvántartás adataival való összehasonlítás útján értékeli az adatok egyezőségét.
+
+(3) Ha az adatok egyezősége a (2) bekezdésben meghatározott módon kétséget kizáróan nem állapítható meg, és az uniós információs rendszerek valamelyike ujjnyomatadatot tartalmaz, a bűnügyi nyilvántartó szerv az ujjnyomatadatokat továbbíthatja a szakértői nyilvántartó szerv részére a daktiloszkópiai nyilvántartásban kezelt ujj- és tenyérnyomatokkal való összehasonlítás céljából.
+
+(4) Ha az adatok egyezősége a (3) bekezdésben meghatározott módon sem állapítható meg kétséget kizáróan, a bűnügyi nyilvántartó szerv az ECRIS-TCN-be feltöltött adatok vonatkozásában adategyeztetést kezdeményez a bűnügyi nyilvántartási rendszer részére adatot közlő bírósággal.
 
 ### Adatigénylés az Európai Unió más tagállamának bűnügyi nyilvántartásából
 
@@ -1371,13 +1405,30 @@ vonatkozóan kezelt adatot, akivel szemben külföldi bíróság tagállami ít�
 
 (2) Az adatok átvételére az (1) bekezdés szerint jogosult szerv az átvett adatokat csak a kérelemben meghatározott büntetőeljárás céljára használhatja fel.
 
-79/A. § (1) Ha a kérelmező a bűnügyi nyilvántartási rendszerben kezelt, rá vonatkozó adatok kiadására irányuló kérelmet nyújt be, a bűnügyi nyilvántartó szerv a kérelmezőre vonatkozó adatok kiadása céljából megkeresheti azon tagállam központi hatóságát, amelyben a kérelmező lakóhellyel rendelkezik vagy korábban azzal rendelkezett, illetve amelynek állampolgára vagy volt állampolgára.
+(3) A bűnügyi nyilvántartó szerv adatokat igényelhet
 
-(2) Ha a nem magyar állampolgár kérelmező az állampolgársága szerinti állam bűnügyi nyilvántartási rendszerében kezelt, rá vonatkozó adatok kiadására irányuló kérelmet nyújt be, a bűnügyi nyilvántartó szerv az adatok kiadása céljából megkeresi a kérelmező állampolgársága szerinti tagállam központi hatóságát.
+- a) az Európai Unió más tagállamának bűnügyi nyilvántartásából, illetve
+- b) ha az érintett harmadik országbeli állampolgár, akkor az ECRIS-TCN-ből
+
+annak megállapítása érdekében, hogy mely tagállam központi hatóságától kell a 2011/93/EU európai parlamenti és tanácsi irányelv 10. cikke alapján, illetve az egyrészről az Európai Unió és az Európai Atomenergia-közösség, és másrészről Nagy-Britannia és Észak-Írország Egyesült Királysága közötti kereskedelmi és együttműködési megállapodás (a továbbiakban: Kereskedelmi és Együttműködési Megállapodás) 649. cikke alapján adatot igényelnie az érintett személy által elkövetett, a 80/C. § (2) bekezdésében meghatározott bűncselekményekre vonatkozóan, ha az érintett személy gyermekekkel való közvetlen és rendszeres kapcsolattartással járó szakmai vagy szervezett önkéntes tevékenység végzésére való alkalmazása érdekében jogviszony létesítése, fenntartása vagy egyéb, törvényben meghatározott feltételnek való megfelelése igazolását kéri, amelynek keretében tizennyolcadik életévét be nem töltött személy nevelését, felügyeletét, gondozását, gyógykezelését végezné, illetve ilyen személlyel egyéb hatalmi vagy befolyási viszonyban állna.
+
+(4) Ha az (1) bekezdés szerinti adatigénylés érdekében az adatok átvételére jogosult szerv az ECRIS-TCN-ben ujjnyomattal történő adatigénylést is kezdeményez, ennek feltétele, hogy
+
+- a) az a személy, akire az adatigénylés vonatkozik, harmadik országbeli állampolgár,
+- b) az érintettnek az adatigénylés tárgyát képező bűncselekménnyel összefüggésben rögzített ujj- és tenyérnyomatát a szakértői nyilvántartó szerv a daktiloszkópiai nyilvántartásban már nyilvántartásba vette, és
+- c) az adatok átvételére jogosult szerv az (1) bekezdés szerinti adatigénylésében a b) pont szerinti ujj- és tenyérnyomathoz tartozó belső azonosító kódot a bűnügyi nyilvántartó szervvel közli.
+
+(5) A (4) bekezdés szerinti, az ECRIS-TCN-ben ujjnyomattal történő adatigénylés elvégzése érdekében a bűnügyi nyilvántartó szerv a belső azonosító kód segítségével a szakértői nyilvántartó szervtől átveszi az ujjnyomat azonos másolatát és ezzel végzi el az ECRIS-TCN-ben az adatigénylést.
+
+79/A. § (1) Ha a kérelmező a bűnügyi nyilvántartási rendszerben kezelt, rá vonatkozó adatok kiadására irányuló kérelmet nyújt be, a bűnügyi nyilvántartó szerv a kérelmezőre vonatkozó adatok kiadása céljából megkeresi azon tagállam központi hatóságát, amelyben a kérelmező lakóhellyel rendelkezik vagy korábban azzal rendelkezett, illetve amelynek állampolgára vagy volt állampolgára.
+
+(2) Ha a kérelmező az Európai Unió más tagállamának vagy az Egyesült Királyság állampolgára és az állampolgársága szerinti állam bűnügyi nyilvántartási rendszerében kezelt, rá vonatkozó adatok kiadására irányuló kérelmet nyújt be, a bűnügyi nyilvántartó szerv az adatok kiadása céljából megkeresi a kérelmező állampolgársága szerinti tagállam központi hatóságát.
+
+(3) Ha a kérelmező harmadik országbeli állampolgár és a bűnügyi nyilvántartási rendszerben kezelt, rá vonatkozó adatok kiadására irányuló kérelmet nyújt be, a bűnügyi nyilvántartó szerv az ECRIS-TCN-ben ellenőrzi, hogy az Európai Unió más tagállamának bűnügyi nyilvántartásában a kérelmezőre vonatkozó adat szerepel-e. Ha az ECRIS-TCN-ben a kérelmezőre vonatkozó információ szerepel arról, hogy valamely tagállamban kezelnek a kérelmezőről bűnügyi adatot, a bűnügyi nyilvántartó szerv a bűnügyi adatok kiadása céljából kizárólag ennek a tagállamnak a központi hatóságát keresi meg.
 
 ### Kérelemre történő adattovábbítás az Európai Unió más tagállamának, valamint harmadik országnak
 
-80. § (1) A bűnügyi nyilvántartó szerv az Európai Unió más tagállama kijelölt központi hatóságának kérelmére, a kérelem vagy az (1a) bekezdés szerinti tájékoztatás kézhezvételétől számított tíz munkanapon belül a mellékletben meghatározott formanyomtatványon vagy elektronikus úton adatokat továbbít – a büntetőeljárás hatálya alatt állók nyilvántartásának, a külföldre utazási korlátozás hatálya alatt állók nyilvántartásának, valamint a 15. § e) pontja szerinti adatok kivételével – a bűnügyi nyilvántartási rendszerben kezelt adatokból.
+80. § (1) A bűnügyi nyilvántartó szerv az Európai Unió más tagállama kijelölt központi hatóságának kérelmére, a kérelem vagy az (1a) bekezdés szerinti tájékoztatás kézhezvételétől számított tíz munkanapon belül, az Egyesült Királyság kérelmére, a kérelem vagy az (1a) bekezdés szerinti tájékoztatás kézhezvételétől számított húsz munkanapon belül a mellékletben meghatározott formanyomtatványon vagy elektronikus úton adatokat továbbít – a büntetőeljárás hatálya alatt állók nyilvántartásának, a külföldre utazási korlátozás hatálya alatt állók nyilvántartásának, valamint a 15. § e) pontja szerinti adatok kivételével – a bűnügyi nyilvántartási rendszerben kezelt adatokból.
 
 (1a) Ha az (1) bekezdés szerinti adattovábbítási kérelem teljesítéséhez a kérelemben foglaltakon túl további adat szükséges, a bűnügyi nyilvántartó szerv a kérelem kézhezvételét követően haladéktalanul további tájékoztatást kér az adattovábbítási kérelmet benyújtó, az Európai Unió más tagállama kijelölt központi hatóságától.
 
@@ -1395,7 +1446,7 @@ vonatkozóan kezelt adatot, akivel szemben külföldi bíróság tagállami ít�
 
 80/B. § A 77–80/A. §-nak az Európai Unió tagállamára vonatkozó rendelkezéseit az Egyesült Királyság tekintetében is alkalmazni kell.
 
-80/C. § (1) Ha valamely személynek gyermekekkel való közvetlen és rendszeres kapcsolattartással járó szakmai vagy szervezett önkéntes tevékenység végzésére való alkalmazása céljából, az érintett személy hozzájárulásával benyújtott kérelmet követően, az Európai Unió más tagállamának kijelölt központi hatósága a 2011/93/EU európai parlamenti és tanácsi irányelv 10. cikke alapján, illetve az Egyesült Királyság kijelölt központi hatósága az egyrészről az Európai Unió és az Európai Atomenergia-közösség, és másrészről Nagy-Britannia és Észak-Írország Egyesült Királysága közötti kereskedelmi és együttműködési megállapodás (a továbbiakban: Kereskedelmi és Együttműködési Megállapodás) 649. cikke alapján az érintett személyre vonatkozóan a bűnügyi nyilvántartási rendszerben, valamint a tagállami ítéletek nyilvántartásában kezelt adatoknak az Európai Bűnügyi Nyilvántartási Információs Rendszeren keresztül történő kiadására irányuló kérelmet nyújt be a bűnügyi nyilvántartó szervhez, a bűnügyi nyilvántartó szerv a kérelem vagy a 80. § (1a) bekezdésének alkalmazásával kért tájékoztatás kézhezvételétől számított tíz munkanapon belül továbbítja
+80/C. § (1) Ha valamely személynek gyermekekkel való közvetlen és rendszeres kapcsolattartással járó szakmai vagy szervezett önkéntes tevékenység végzésére való alkalmazása céljából, az érintett személy hozzájárulásával benyújtott kérelmet követően, az Európai Unió más tagállamának kijelölt központi hatósága a 2011/93/EU európai parlamenti és tanácsi irányelv 10. cikke alapján, illetve az Egyesült Királyság kijelölt központi hatósága a Kereskedelmi és Együttműködési Megállapodás 649. cikke alapján az érintett személyre vonatkozóan a bűnügyi nyilvántartási rendszerben, valamint a tagállami ítéletek nyilvántartásában kezelt adatoknak az Európai Bűnügyi Nyilvántartási Információs Rendszeren keresztül történő kiadására irányuló kérelmet nyújt be a bűnügyi nyilvántartó szervhez, a bűnügyi nyilvántartó szerv a kérelem vagy a 80. § (1a) bekezdésének alkalmazásával kért tájékoztatás kézhezvételétől számított tíz munkanapon belül továbbítja
 
 - a) a 4. § (2) bekezdés a) pontjában,
 - b) a 11. § (1) bekezdés c)–e) és j)–l) pontjában,
@@ -1462,6 +1513,8 @@ céljából jogosult.
 - d) az 56. § a)–c) pontjában meghatározott adatokat
 
 továbbítja.
+
+(1b) A szakértői nyilvántartó szerv erre irányuló adatigénylése alapján a 2019/816 európai parlamenti és tanácsi rendelet 5. cikkében meghatározott, az ECRIS-TCN számára történő adattovábbítás, illetve az ECRIS-TCN-ben ujjnyomattal történő adatigénylés céljából a bűnügyi nyilvántartó szerv részére a daktiloszkópiai nyilvántartásban kezelt ujjnyomat azonos másolatát továbbítja.
 
 (2) Az adatigénylésnek tartalmaznia kell az adatigénylő megnevezését, az adatigénylés célját és jogalapját.
 
@@ -1677,7 +1730,8 @@ erre feljogosított tagja jogosult.
 - b) kijelölje a szakértői nyilvántartó szervet, valamint a büntetőeljárás alá vont és az elítélt személy DNS-profiljának meghatározásában közreműködő szervet,
 - c) állapítsa meg a 86/A–86/D. §-ban meghatározott adattovábbítási eljárások során alkalmazott formanyomtatványokat,
 - d) állapítsa meg a hatósági erkölcsi bizonyítvány kiállítására irányuló eljárás részletes szabályait,
-- e) kijelölje az eliminációs nyilvántartást kezelő szakértői nyilvántartó szervet, valamint az érintett személy DNS-profiljának meghatározásában közreműködő szervet.
+- e) kijelölje az eliminációs nyilvántartást kezelő szakértői nyilvántartó szervet, valamint az érintett személy DNS-profiljának meghatározásában közreműködő szervet,
+- f) állapítsa meg az ECRIS-TCN, illetve az uniós információs rendszerek interoperabilitását biztosító kereteket, beleértve az interoperabilitás során eljáró hatóságok bűnügyi nyilvántartáshoz kapcsolódó, interoperabilitással érintett egyes feladatait.
 
 (1a) Felhatalmazást kap a rendészetért felelős miniszter, hogy
 
@@ -1717,11 +1771,20 @@ rendeletben állapítsa meg.
 - c) a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB határozat végrehajtásáról szóló 2008. június 23-i 2008/616/IB tanácsi határozat 2–14. cikkének,
 - d) az egyrészről az Európai Unió, másrészről Izland és Norvégia között a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB tanácsi határozat, valamint a különösen a terrorizmus és a határokon átnyúló bűnözés elleni küzdelemre irányuló, határokon átnyúló együttműködés megerősítéséről szóló 2008/615/IB határozat végrehajtásáról szóló 2008/616/IB tanácsi határozat és melléklete egyes rendelkezéseinek alkalmazásáról szóló megállapodásnak az Európai Unió nevében történő aláírásáról és e megállapodás egyes rendelkezéseinek ideiglenes alkalmazásáról szóló 2009. szeptember 21-i 2009/1023/IB tanácsi határozatnak,
 - e) az Európai Unió más tagállamaiban hozott ítéleteknek egy új büntetőeljárásban való figyelembevételéről szóló 2008. július 24-i 2008/675/IB tanácsi kerethatározatnak,
-- f) a gyermekek szexuális bántalmazása, szexuális kizsákmányolása és a gyermekpornográfia elleni küzdelemről, valamint a 2004/68/IB tanácsi kerethatározat felváltásáról szóló 2011. december 13-i 2011/93/EU európai parlamenti és tanácsi irányelv 10. cikk (3) bekezdésének
+- f) a gyermekek szexuális bántalmazása, szexuális kizsákmányolása és a gyermekpornográfia elleni küzdelemről, valamint a 2004/68/IB tanácsi kerethatározat felváltásáról szóló 2011. december 13-i 2011/93/EU európai parlamenti és tanácsi irányelv 10. cikk (3) bekezdésének,
+- g) a 2009/315/IB tanácsi kerethatározatnak a harmadik országbeli állampolgárokra vonatkozó információcsere és az Európai Bűnügyi Nyilvántartási Információs Rendszer (ECRIS) tekintetében történő módosításáról, valamint a 2009/316/IB tanácsi határozat felváltásáról szóló, 2019. április 17-i (EU) 2019/884 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
 (2) Ez a törvény az egyrészről az Európai Unió és az Európai Atomenergia-közösség, és másrészről Nagy-Britannia és Észak-Írország Egyesült Királysága közötti kereskedelmi és együttműködési megállapodás Harmadik Része végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(4) Ez a törvény
+
+- a) az Európai Bűnügyi Nyilvántartási Információs Rendszer kiegészítése érdekében a harmadik országbeli állampolgárokkal és a hontalan személyekkel szemben hozott ítéletekre vonatkozó információval rendelkező tagállamok azonosítására szolgáló központosított rendszer (ECRIS-TCN) létrehozásáról, valamint az (EU) 2018/1726 rendelet módosításáról szóló, 2018. november 14-i (EU) 2019/816 európai parlamenti és tanácsi rendelet,
+- b) az uniós információs rendszerek közötti interoperabilitás kereteinek megállapításáról a határok és a vízumügy területén, továbbá a 767/2008/EK, az (EU) 2016/399, az (EU) 2017/2226, az (EU) 2018/1240, az (EU) 2018/1726 és az (EU) 2018/1861 európai parlamenti és tanácsi rendelet, valamint a 2004/512/EK és a 2008/633/IB tanácsi határozat módosításáról szóló, 2019. május 20-i (EU) 2019/817 európai parlamenti és tanácsi rendelet,
+- c) az uniós információs rendszerek közötti interoperabilitás kereteinek megállapításáról a rendőrségi és igazságügyi együttműködés, a menekültügy és a migráció területén, valamint az (EU) 2018/1726, az (EU) 2018/1862 és az (EU) 2019/816 rendelet módosításáról szóló, 2019. május 20-i (EU) 2019/818 európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Átmeneti rendelkezések
 
