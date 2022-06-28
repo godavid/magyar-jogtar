@@ -130,43 +130,151 @@ egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módos�
 
 #### 17. A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény módosítása
 
-#### 48. §
+48. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény „Értelmező rendelkezések” alcíme a következő 2/A. §-sal egészül ki:
 
-#### 49. §
+„2/A. § (1) E törvény alkalmazásában harmadik országbeli állampolgár az a személy, aki nem az Európai Unió tagállamának állampolgára, a hontalan személy és az a személy, akinek az állampolgársága nem ismert.
+
+(2) A harmadik országbeli állampolgárra vonatkozó rendelkezéseket alkalmazni kell a magyar állampolgár és az Európai Unió valamely más tagállamának állampolgára esetében is, ha többes állampolgárként egyben harmadik országbeli állampolgár is.”
+
+49. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 4. § (2) bekezdés a) pont ah) alpontja helyébe a következő rendelkezés lép:
+
+(A személyazonosító adatok és fényképek nyilvántartása tartalmazza
+
+az érintett)
+
+„ah) állampolgárságait, előző állampolgárságait, illetve ha állampolgársága nem ismert, vagy hontalan, ezt a tényt, valamint”
 
 #### 50. §
 
 #### 51. §
 
-#### 52. §
+52. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 71. §-a a következő (6) bekezdéssel egészül ki:
 
-#### 53. §
+„(6) Ha a kérelmező harmadik országbeli állampolgár vagy az Európai Unió tagállamának állampolgára és a (3) bekezdés a), d) vagy e) pontjában meghatározott tény igazolására irányuló kérelméből egyértelműen megállapítható, hogy az gyermekekkel való közvetlen és rendszeres kapcsolattartással járó szakmai vagy szervezett önkéntes foglalkozás, illetve tevékenység végzése érdekében került benyújtásra, amelynek keretében tizennyolcadik életévét be nem töltött személy nevelését, felügyeletét, gondozását, gyógykezelését végezné, illetve ilyen személlyel egyéb hatalmi vagy befolyási viszonyban állna, a bűnügyi nyilvántartó szerv a bűnügyi nyilvántartási rendszeren kívül az Európai Unió más tagállamában vagy az Egyesült Királyságban történő elítélést is figyelembe veszi a 79. § (3) bekezdésében meghatározottak szerint.”
 
-#### 54. §
+53. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 73. §-a a következő (3) bekezdéssel egészül ki:
 
-#### 55. §
+„(3) Ha a kérelmező harmadik országbeli állampolgár vagy az Európai Unió tagállamának állampolgára és a 71. § (6) bekezdése szerinti kérelmet terjeszt elő, a bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránti eljárást
 
-#### 56. §
+a) a 79. § (3) bekezdése szerinti adatigénylés esetén az Európai Unió más tagállama, illetve az Egyesült Királyság válasza megérkezéséig,
+
+b) ha a válasz alapján megfeleltetési eljárást kell kezdeményezni, akkor legfeljebb a megfeleltetési eljárás jogerős befejezéséig, illetve a bűnügyi nyilvántartási rendszerbe való bejegyzést eredményező módon történő megfeleltetés esetén az adatoknak a bűnügyi nyilvántartási rendszerbe történő bejegyzéséig
+
+felfüggeszti.”
+
+54. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 76/B. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) A bűnügyi nyilvántartó szerv jogszabályban meghatározottak szerint tájékoztatja a közvetlen hozzáféréssel történő adatátvételre vagy az adatigénylésre jogosult szervet a 76/A. §, illetve a 76/B. § alapján tett intézkedésekről, illetve arról, ha ilyen intézkedésre nem került sor.”
+
+55. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény V. Fejezete a 76/C. §-át megelőzően a következő alcím címmel egészül ki:
+
+„A bűnügyi nyilvántartási rendszerből való adattovábbítás és az Európai Unió más tagállamának bűnügyi nyilvántartásából történő adatigénylés közötti kapcsolat”
+
+56. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 76/C. §-a helyébe a következő rendelkezés lép:
+
+„76/C. § (1) Ha az adatigénylés olyan, gyermekekkel való közvetlen és rendszeres kapcsolattartással járó szakmai vagy szervezett önkéntes foglalkozás, illetve tevékenység engedélyezése, vagy azok ellenőrzése céljából kerül benyújtásra, amelynek keretében az adatigényléssel érintett személy tizennyolcadik életévét be nem töltött személy nevelését, felügyeletét, gondozását, gyógykezelését végezné, végzi, illetve ilyen személlyel egyéb hatalmi vagy befolyási viszonyba kerülne vagy ilyen viszonyban áll, és aki harmadik országbeli állampolgár vagy az Európai Unió tagállamának állampolgára, az adatigénylő az adatigénylés keretében, azzal egyidejűleg kérheti, hogy a bűnügyi nyilvántartó szerv ellenőrizze, hogy szerepel-e az érintettre vonatkozó adat az Európai Unió más tagállamának vagy az Egyesült Királyság bűnügyi nyilvántartásában.
+
+(2) A 71. § (6) bekezdése szerinti esetben a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásban a bűnügyi nyilvántartó szerv a 79. § (3) bekezdésében meghatározottak szerint ellenőrzi, hogy szerepel-e a kérelmezőre vonatkozó adat az Európai Unió más tagállamának vagy az Egyesült Királyság bűnügyi nyilvántartásában.
+
+(3) Ha az (1) és (2) bekezdés szerinti esetben a bűnügyi nyilvántartó szerv megállapítja, hogy az Európai Unió más tagállamának vagy az Egyesült Királyság bűnügyi nyilvántartásában az adatigényléssel érintett személyre, illetve a kérelmezőre vonatkozó, magyar bíróság által még nem elismert vagy nem megfeleltetett ítélet szerepel, a bíróságnál kezdeményezi, hogy a magyar bíróság a megfeleltetést végezze el. A megfeleltetéssel kapcsolatos eljárásra a 76/B. §-ban meghatározott rendelkezéseket megfelelően alkalmazni kell.”
 
 #### 57. §
 
-#### 58. §
+58. § (1) A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 78. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
 
-#### 59. §
+(Az átvevő tagállamot tájékoztatni kell)
 
-#### 60. §
+„b) arról, ha az adatok a bűntettesek nyilvántartásából vagy – a 15. § a) és e) pontja szerinti adatok kivételével – a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásából törlésre kerültek,”
 
-#### 61. §
+(2) A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 78. § (2) bekezdése a következő c) ponttal egészül ki:
+
+(Az átvevő tagállamot tájékoztatni kell)
+
+„c) arról, ha az adatok a bűntettesek nyilvántartásában vagy – a 15. § a) és e) pontja szerinti adatok kivételével – a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában módosításra kerültek.”
+
+(3) A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény a következő alcímmel egészül ki:
+
+„A 2019/816 európai parlamenti és tanácsi rendelet 5. cikkében meghatározott adattovábbítás, valamint a 2019/818 európai parlamenti és tanácsi rendelet szerinti többszörös személyazonosság ellenőrzése
+
+78/A. § (1) A bűnügyi nyilvántartó szerv központi hatóságként végzi a 2019/816 európai parlamenti és tanácsi rendelet 5. cikk (1) bekezdésében meghatározott személyazonosító adatoknak a 2019/816 európai parlamenti és tanácsi rendeletben meghatározott, a harmadik országbeli állampolgárokkal és hontalan személyekkel szemben hozott ítéletekre vonatkozó információval rendelkező tagállamok azonosítására szolgáló központi rendszerbe (a továbbiakban: ECRIS-TCN) történő továbbítását.
+
+(2) Az ECRIS-TCN-be történő adattovábbítás érdekében a bűnügyi nyilvántartó szerv a szakrendszeri azonosító kód megadásával igénylés alapján történő adattovábbítással átveszi a szakértői nyilvántartó szervtől az érintettnek az adattovábbítás tárgyát képező bűncselekménnyel összefüggésben rögzített ujjnyomatának azonos másolatát.
+
+(3) A bűnügyi nyilvántartó szerv jelzéssel látja el az ECRIS-TCN-be továbbítandó adatokat, ha az érintett harmadik országbeli állampolgárt az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 1. számú mellékletében meghatározott terrorista bűncselekmény vagy más súlyos bűncselekmény elkövetéséért ítélték el.
+
+78/B. § (1) A bűnügyi nyilvántartó szerv központi hatóságként végzi az általa az ECRIS-TCN-be feltöltött adatok tekintetében a 2019/818 európai parlamenti és tanácsi rendeletben meghatározott esetekben a többszörös személyazonosság manuális ellenőrzését.
+
+(2) Amennyiben az ECRIS-TCN-be feltöltött adatok tekintetében a 2019/818 európai parlamenti és tanácsi rendelet 27. cikk (1) bekezdés b) pontja szerinti lekérdezés sárga kapcsolatot eredményez, és a rendelkezésre álló személyazonosító adatok alapján kétséget kizáró módon nem állapítható meg, hogy azok azonos vagy különböző személyeket jelölnek, a bűnügyi nyilvántartó szerv a személyiadat- és lakcímnyilvántartás, az idegenrendészeti nyilvántartás, vagy a központi útiokmány-nyilvántartás adataival való összehasonlítás útján értékeli az adatok egyezőségét.
+
+(3) Ha az adatok egyezősége a (2) bekezdésben meghatározott módon kétséget kizáróan nem állapítható meg, és az uniós információs rendszerek valamelyike ujjnyomatadatot tartalmaz, a bűnügyi nyilvántartó szerv az ujjnyomatadatokat továbbíthatja a szakértői nyilvántartó szerv részére a daktiloszkópiai nyilvántartásban kezelt ujj- és tenyérnyomatokkal való összehasonlítás céljából.
+
+(4) Ha az adatok egyezősége a (3) bekezdésben meghatározott módon sem állapítható meg kétséget kizáróan, a bűnügyi nyilvántartó szerv az ECRIS-TCN-be feltöltött adatok vonatkozásában adategyeztetést kezdeményez a bűnügyi nyilvántartási rendszer részére adatot közlő bírósággal.”
+
+59. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 79. §-a a következő (3)–(5) bekezdéssel egészül ki:
+
+„(3) A bűnügyi nyilvántartó szerv adatokat igényelhet
+
+a) az Európai Unió más tagállamának bűnügyi nyilvántartásából, illetve
+
+b) ha az érintett harmadik országbeli állampolgár, akkor az ECRIS-TCN-ből
+
+annak megállapítása érdekében, hogy mely tagállam központi hatóságától kell a 2011/93/EU európai parlamenti és tanácsi irányelv 10. cikke alapján, illetve az egyrészről az Európai Unió és az Európai Atomenergia-közösség, és másrészről Nagy-Britannia és Észak-Írország Egyesült Királysága közötti kereskedelmi és együttműködési megállapodás (a továbbiakban: Kereskedelmi és Együttműködési Megállapodás) 649. cikke alapján adatot igényelnie az érintett személy által elkövetett, a 80/C. § (2) bekezdésében meghatározott bűncselekményekre vonatkozóan, ha az érintett személy gyermekekkel való közvetlen és rendszeres kapcsolattartással járó szakmai vagy szervezett önkéntes tevékenység végzésére való alkalmazása érdekében jogviszony létesítése, fenntartása vagy egyéb, törvényben meghatározott feltételnek való megfelelése igazolását kéri, amelynek keretében tizennyolcadik életévét be nem töltött személy nevelését, felügyeletét, gondozását, gyógykezelését végezné, illetve ilyen személlyel egyéb hatalmi vagy befolyási viszonyban állna.
+
+(4) Ha az (1) bekezdés szerinti adatigénylés érdekében az adatok átvételére jogosult szerv az ECRIS-TCN-ben ujjnyomattal történő adatigénylést is kezdeményez, ennek feltétele, hogy
+
+a) az a személy, akire az adatigénylés vonatkozik, harmadik országbeli állampolgár,
+
+b) az érintettnek az adatigénylés tárgyát képező bűncselekménnyel összefüggésben rögzített ujj- és tenyérnyomatát a szakértői nyilvántartó szerv a daktiloszkópiai nyilvántartásban már nyilvántartásba vette, és
+
+c) az adatok átvételére jogosult szerv az (1) bekezdés szerinti adatigénylésében a b) pont szerinti ujj- és tenyérnyomathoz tartozó belső azonosító kódot a bűnügyi nyilvántartó szervvel közli.
+
+(5) A (4) bekezdés szerinti, az ECRIS-TCN-ben ujjnyomattal történő adatigénylés elvégzése érdekében a bűnügyi nyilvántartó szerv a belső azonosító kód segítségével a szakértői nyilvántartó szervtől átveszi az ujjnyomat azonos másolatát és ezzel végzi el az ECRIS-TCN-ben az adatigénylést.”
+
+60. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 79/A. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Ha a kérelmező harmadik országbeli állampolgár és a bűnügyi nyilvántartási rendszerben kezelt, rá vonatkozó adatok kiadására irányuló kérelmet nyújt be, a bűnügyi nyilvántartó szerv az ECRIS-TCN-ben ellenőrzi, hogy az Európai Unió más tagállamának bűnügyi nyilvántartásában a kérelmezőre vonatkozó adat szerepel-e. Ha az ECRIS-TCN-ben a kérelmezőre vonatkozó információ szerepel arról, hogy valamely tagállamban kezelnek a kérelmezőről bűnügyi adatot, a bűnügyi nyilvántartó szerv a bűnügyi adatok kiadása céljából kizárólag ennek a tagállamnak a központi hatóságát keresi meg.”
+
+61. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 80. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A bűnügyi nyilvántartó szerv az Európai Unió más tagállama kijelölt központi hatóságának kérelmére, a kérelem vagy az (1a) bekezdés szerinti tájékoztatás kézhezvételétől számított tíz munkanapon belül, az Egyesült Királyság kérelmére, a kérelem vagy az (1a) bekezdés szerinti tájékoztatás kézhezvételétől számított húsz munkanapon belül a mellékletben meghatározott formanyomtatványon vagy elektronikus úton adatokat továbbít – a büntetőeljárás hatálya alatt állók nyilvántartásának, a külföldre utazási korlátozás hatálya alatt állók nyilvántartásának, valamint a 15. § e) pontja szerinti adatok kivételével – a bűnügyi nyilvántartási rendszerben kezelt adatokból.”
 
 #### 62. §
 
-#### 63. §
+63. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 83. §-a a következő (1b) bekezdéssel egészül ki:
 
-#### 64. §
+„(1b) A szakértői nyilvántartó szerv erre irányuló adatigénylése alapján a 2019/816 európai parlamenti és tanácsi rendelet 5. cikkében meghatározott, az ECRIS-TCN számára történő adattovábbítás, illetve az ECRIS-TCN-ben ujjnyomattal történő adatigénylés céljából a bűnügyi nyilvántartó szerv részére a daktiloszkópiai nyilvántartásban kezelt ujjnyomat azonos másolatát továbbítja.”
 
-#### 65. §
+64. § (1) A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 96. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
 
-#### 66. §
+(Felhatalmazást kap a Kormány, hogy rendeletben)
+
+„e) kijelölje az eliminációs nyilvántartást kezelő szakértői nyilvántartó szervet, valamint az érintett személy DNS-profiljának meghatározásában közreműködő szervet,”
+
+(2) A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 96. § (1) bekezdése a következő f) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben)
+
+„f) állapítsa meg az ECRIS-TCN, illetve az uniós információs rendszerek interoperabilitását biztosító kereteket, beleértve az interoperabilitás során eljáró hatóságok bűnügyi nyilvántartáshoz kapcsolódó, interoperabilitással érintett egyes feladatait.”
+
+65. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 98. § (1) bekezdése a következő g) ponttal egészül ki:
+
+(Ez a törvény)
+
+„g) a 2009/315/IB tanácsi kerethatározatnak a harmadik országbeli állampolgárokra vonatkozó információcsere és az Európai Bűnügyi Nyilvántartási Információs Rendszer (ECRIS) tekintetében történő módosításáról, valamint a 2009/316/IB tanácsi határozat felváltásáról szóló, 2019. április 17-i (EU) 2019/884 európai parlamenti és tanácsi irányelvnek”
+
+(való megfelelést szolgálja.)
+
+66. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 98. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Ez a törvény
+
+a) az Európai Bűnügyi Nyilvántartási Információs Rendszer kiegészítése érdekében a harmadik országbeli állampolgárokkal és a hontalan személyekkel szemben hozott ítéletekre vonatkozó információval rendelkező tagállamok azonosítására szolgáló központosított rendszer (ECRIS-TCN) létrehozásáról, valamint az (EU) 2018/1726 rendelet módosításáról szóló, 2018. november 14-i (EU) 2019/816 európai parlamenti és tanácsi rendelet,
+
+b) az uniós információs rendszerek közötti interoperabilitás kereteinek megállapításáról a határok és a vízumügy területén, továbbá a 767/2008/EK, az (EU) 2016/399, az (EU) 2017/2226, az (EU) 2018/1240, az (EU) 2018/1726 és az (EU) 2018/1861 európai parlamenti és tanácsi rendelet, valamint a 2004/512/EK és a 2008/633/IB tanácsi határozat módosításáról szóló, 2019. május 20-i (EU) 2019/817 európai parlamenti és tanácsi rendelet,
+
+c) az uniós információs rendszerek közötti interoperabilitás kereteinek megállapításáról a rendőrségi és igazságügyi együttműködés, a menekültügy és a migráció területén, valamint az (EU) 2018/1726, az (EU) 2018/1862 és az (EU) 2019/816 rendelet módosításáról szóló, 2019. május 20-i (EU) 2019/818 európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.”
 
 67. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény
 
@@ -177,10 +285,10 @@ egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módos�
 - e)
 - f)
 - g)
-- h)
-- i)
-- j)
-- k)
+- h) 79/A. § (1) bekezdésében a „megkeresheti” szövegrész helyébe a „megkeresi” szöveg,
+- i) 79/A. § (2) bekezdésében a „nem magyar állampolgár kérelmező az” szövegrész helyébe a „kérelmező az Európai Unió más tagállamának vagy az Egyesült Királyság állampolgára és az” szöveg,
+- j) 80/C. § (1) bekezdés nyitó szövegrészében az „az egyrészről az Európai Unió és az Európai Atomenergia-közösség, és másrészről Nagy-Britannia és Észak-Írország Egyesült Királysága közötti kereskedelmi és együttműködési megállapodás (a továbbiakban: Kereskedelmi és Együttműködési Megállapodás)” szövegrész helyébe az „a Kereskedelmi és Együttműködési Megállapodás” szöveg,
+- k) 98. § (1) bekezdés f) pontjában a „bekezdésének” szövegrész helyébe a „bekezdésének,” szöveg
 
 lép.
 
