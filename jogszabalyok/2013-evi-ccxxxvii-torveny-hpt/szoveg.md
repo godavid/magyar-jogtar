@@ -5025,15 +5025,17 @@ egyértelmű, közérthető és teljes körű írásbeli kimutatást (kivonatot)
 
 #### 124. Bankszünnap
 
-286. § (1) A hitelintézet évenként legfeljebb két bankszünnapot tarthat. A pénzügyi, kiegészítő pénzügyi szolgáltatás meghatározott munkanapon történő ilyen szüneteltetése kiterjedhet
+286. § (1) A hitelintézet a pénzügyi, kiegészítő pénzügyi szolgáltatása vagy annak körébe tartozó bármely résztevékenység vonatkozásában munkanapokon történő előzetesen tervezett szüneteltetésére bankszünnapot tarthat, amennyiben annak feltételeit üzletszabályzatában vagy az ügyféllel kötött szerződésében előzetesen meghatározta.
 
-- a) a könyvelésre (könyvelési szünnap),
-- b) a pénztári szolgálatra (pénztári szünnap), vagy
-- c) a könyvelésre és a pénztári szolgálatra (könyvelési és pénztári szünnap).
+(2) A hitelintézet a bankszünnap tényét és a bankszünnappal érintett szolgáltatások körét legalább harminc nappal megelőzően köteles
 
-(2) A hitelintézet a bankszünnapot – tizenöt nappal megelőzően – legalább két országos napilapban köteles meghirdetni, valamint a Felügyeletnek bejelenteni.
+- a) az ügyfélfogadásra nyitva álló helyiségében és – ha internetes honlappal is rendelkezik – az internetes honlapján meghirdetni,
+- b) az ügyféllel kötött szerződésben meghatározott közvetlen módon a szolgáltatással érintett ügyfelét tájékoztatni, valamint
+- c) a Felügyeletnek bejelenteni.
 
-(3) Az (1) bekezdésben meghatározottakon túl a Felügyelet a hitelintézet kérelmére bankszünnap tartását rendeli el. Az elrendelt bankszünnapok száma évenként három napnál nem lehet több.
+(3) Amennyiben a hitelintézet négy napot meghaladó hosszúságú, egybefüggő bankszünnap tartásáról dönt, úgy ezen szándékát köteles a Felügyeletnek – a (2) bekezdéstől eltérően – hatvan nappal a bankszünnap tartását megelőzően bejelenteni.
+
+(4) Az (1) bekezdésben meghatározottakon túl a Felügyelet a hitelintézettel szemben alkalmazott kivételes intézkedés alkalmazása mellett bankszünnap tartását rendelheti el. A hitelintézet a határozat véglegessé válását követő munkanapon köteles az elrendelt bankszünnap vonatkozásában a (2) bekezdés a) és b) pontja szerinti tájékoztatások teljesítésére.
 
 #### 125. Eljárás a fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozó rendelkezések megsértése esetén
 

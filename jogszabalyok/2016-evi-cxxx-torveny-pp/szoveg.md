@@ -2184,7 +2184,7 @@ az írásbeli jegyzőkönyv kijavítását, kiegészítését kérhetik.
 
 (5) Ha olyan féllel szemben került sor bírósági meghagyás kibocsátására, akinek a keresetlevelet
 
-- a) a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről („iratkézbesítés”), és az 1348/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. november 13-i 1393/2007/EK európai parlamenti és tanácsi rendelet alapján, vagy
+- a) a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) szóló, 2020. november 25-i (EU) 2020/1784 európai parlamenti és tanácsi rendelet alapján, vagy
 - b) a 2005. évi XXXVI. törvénnyel kihirdetett, a polgári és kereskedelmi ügyekben keletkezett bírósági és bíróságon kívüli iratok külföldön történő kézbesítéséről szóló, Hágában, 1965. november 15. napján kelt Egyezmény alapján
 
 kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határidő elmulasztása esetén igazolásnak a bírósági meghagyás kibocsátásától számított egy évig van helye; az igazolási kérelem előterjesztésével egyidejűleg az írásbeli ellenkérelmet vagy beszámítást tartalmazó iratot is elő kell terjeszteni.
@@ -2709,7 +2709,7 @@ vonatkozó szabályokat kell alkalmazni.
 
 (6) A mulasztás esetére megállapított következmények alkalmazásának helye van akkor is, ha
 
-- a) az idézést az alperesnek a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés), és az 1348/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. november 13-i 1393/2007/EK európai parlamenti és tanácsi rendelet alapján kellett kézbesíteni, de a kézbesítés megtörténtéről kézbesítési igazolás nem érkezett vissza, feltéve, hogy a rendelet 19. cikk (2) bekezdésében foglalt feltételek fennállnak, vagy
+- a) az idézést az alperesnek a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) szóló, 2020. november 25-i (EU) 2020/1784 európai parlamenti és tanácsi rendelet alapján kellett kézbesíteni, de a kézbesítés megtörténtéről kézbesítési igazolás nem érkezett vissza, feltéve, hogy a rendelet 22. cikk (2) bekezdésében foglalt feltételek fennállnak, vagy
 - b) az idézést a 2005. évi XXXVI. törvénnyel kihirdetett, a polgári és kereskedelmi ügyekben keletkezett bírósági és bíróságon kívüli iratok külföldön történő kézbesítéséről szóló, Hágában, 1965. november 15. napján kelt Egyezmény alapján kellett kézbesíteni, de a kézbesítés megtörténtéről kézbesítési igazolás nem érkezett vissza, feltéve, hogy az Egyezmény 15. cikk második bekezdésében foglalt feltételek fennállnak.
 
 #### 228. § [Az idézés szabályszerűségének utólagos megállapítása és jogkövetkezményei]
@@ -6649,11 +6649,11 @@ való megfelelést szolgálja.
 - 1. az Európai Igazságügyi Hálózat létrehozásáról polgári és kereskedelmi ügyekben szóló, 2001. május 28-i 2001/470/EK tanácsi határozat,
 - 2. a polgári és kereskedelmi ügyekben az Európai Igazságügyi Hálózat létrehozásáról szóló, 2001/470/EK tanácsi határozat módosításáról szóló, 2009. június 18-i 568/2009/EK európai parlamenti és tanácsi határozat,
 - 3. a fizetésképtelenségi eljárásról szóló, 2000. május 29-i 1346/2000/EK tanácsi rendelet,
-- 4. a polgári és kereskedelmi ügyekben a bizonyítás-felvétel tekintetében történő, a tagállamok bíróságai között együttműködéséről szóló, 2001. május 28-i 1206/2001/EK tanácsi rendelet,
+- 4. a tagállamok bíróságai között a polgári és kereskedelmi ügyekben a bizonyításfelvétel tekintetében történő együttműködésről (bizonyításfelvétel) szóló, 2020. november 25-i (EU) 2020/1783 európai parlamenti és tanácsi rendelet
 - 5. a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló, 2003. november 27-i 2201/2003/EK tanácsi rendelet,
 - 6. a nem vitatott követelésekre vonatkozó európai végrehajtó okirat létrehozásáról szóló, 2004. április 21-i 805/2004/EK európai parlamenti és tanácsi rendelet,
 - 7. az európai fizetési meghagyásos eljárás létrehozásáról szóló, 2006. december 12-i 1896/2006/EK európai parlamenti és tanácsi rendelet,
-- 8. a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről és az 1348/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. november 13-i 1393/2007/EK európai parlamenti és tanácsi rendelet,
+- 8. a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) szóló, 2020. november 25-i (EU) 2020/1784 európai parlamenti és tanácsi rendelet
 - 9. a kis értékű követelések európai eljárásának bevezetéséről szóló, 2007. július 11-i 861/2007/EK európai parlamenti és tanácsi rendelet,
 - 10. a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-i 4/2009/EK tanácsi rendelet,
 - 11. az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet,

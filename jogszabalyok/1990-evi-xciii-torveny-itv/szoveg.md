@@ -243,7 +243,7 @@ Az Országgyűlés az állami és társadalmi feladatokhoz való arányos hozzá
 - r) a Magyar Állam által a hiteladós lakása megvásárlásával összefüggésben, a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény rendelkezése alapján elengedett követelés,
 - s) lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsönszerződésből, illetve deviza alapú, lakóingatlanra vonatkozó pénzügyi lízingszerződésből származó követelés, ha az a törvényben rögzített árfolyamon végtörlesztő magánszeméllyel szemben végérvényesen megszűnik;
 - t) az osztalékra vonatkozó követelés elengedése;
-- u) a csődegyezség keretében, valamint a felszámolási eljárásban a követelés elengedése, feltéve, ha a követelés jogosultja nem a csődeljárás, felszámolási eljárás alá vont gazdálkodó szervezet tagja,
+- u) szerkezetátalakítás során a bíróság által jóváhagyott szerkezetátalakítási tervben – ideértve annak hitelezői osztályokon átívelő kényszeregyezségi hatállyal történő jóváhagyását is –, csődeljárásban a bíróság által jóváhagyott csődegyezség keretében, valamint a felszámolási eljárás során a hitelezői követelés elengedése, feltéve, ha a követelés jogosultja nem a szerkezetátalakítás, csődeljárás vagy felszámolási eljárás alá vont gazdálkodó szervezet tagja, vezető tisztségviselője vagy ezek Polgári Törvénykönyv szerinti hozzátartozója;
 - v) a házastársi vagyonközösség megszüntetéséből származó vagyonszerzés,
 - w) az ajándékozó testvére által megszerzett ajándék;
 - z) összeghatárra tekintet nélkül a természetes személyek bíróságon kívüli vagy bírósági adósságrendezési eljárásában a hitelezők által adós javára elengedett követelés, továbbá az adósságtörlesztési határozatban és a mentesítési határozatban az az összeg, amit nem kell az adósnak a hitelezők számára megfizetnie;
@@ -860,6 +860,12 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 (6) A bíróságon kívüli adósságrendezési megállapodás hatálya megszűnésének megállapítására irányuló kérelem, valamint a bírósági adósságrendezési egyezség hatálya megszűnésének megállapítására irányuló kérelem illetéke 30 000 forint.
 
+### A szerkezetátalakításhoz kapcsolódó bírósági eljárások illetéke
+
+44/B. § (1) A szerkezetátalakítási eljárás illetéke 80 000 forint.
+
+(2) Az ellenirat illetéke 15 000 forint.
+
 ### A cégbírósági eljárás illetéke
 
 45. § (1) A cégbejegyzésre irányuló eljárás illetéke:
@@ -922,7 +928,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 (2) A közjegyzőnek a hagyatéki és egyéb közjegyzői eljárásban hozott határozata elleni fellebbezés illetéke 10 000 forint.
 
-(3) A cégbírósági, valamint a csőd- és felszámolási eljárásban – ideértve a 2015/848 EU rendeletben meghatározott, magyar bíróság előtt kezdeményezett nemperes eljárásokat is – az ügy érdemében hozott végzés elleni fellebbezés illetéke 30 000 forint, minden más esetben 7000 forint.
+(3) A cégbírósági eljárásban, a szerkezetátalakítási eljárásban, a csődeljárásban, valamint a felszámolási eljárásban – ideértve a 2015/848 EU rendeletben meghatározott, magyar bíróság előtt kezdeményezett nemperes eljárásokat is – az ügy érdemében hozott végzés elleni fellebbezés illetéke 30 000 forint, minden más esetben 7000 forint.
 
 (4) A természetes személyek bírósági adósságrendezési eljárásában az ügy érdemében hozott végzés elleni fellebbezés illetéke 30 000 forint, minden más esetben 10 000 forint.
 

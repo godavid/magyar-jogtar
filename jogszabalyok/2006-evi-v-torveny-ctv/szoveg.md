@@ -96,7 +96,8 @@ valamint a céginformációs szolgálat feladatai
 - c) felszámolási eljárás esetén „felszámolás alatt” („f. a.”),
 - d) végelszámolási eljárás esetén „végelszámolás alatt” („v. a.”),
 - e) kényszertörlési eljárás esetén „kényszertörlés alatt” („kt. a.”),
-- f) határokon átnyúló egyesülés céljára létrejövő cég esetén „egyesülés céljára alapított” („e.a.”) toldattal kell használni.
+- f) határokon átnyúló egyesülés céljára létrejövő cég esetén „egyesülés céljára alapított” („e.a.”)
+- g) nyilvános szerkezetátalakítási eljárás esetén „szerkezetátalakítás alatt („sz. a.”) toldattal kell használni.
 
 6. § (1) Két vagy több azonos nevű cég közül a választott név (rövidített név) viselésének joga azt illeti meg, amelyik a cégbejegyzési kérelmét elsőként nyújtotta be, illetve amelyik a (3) bekezdés alapján névfoglalással élt.
 
@@ -521,8 +522,11 @@ megismerhetők.
 - l) a 85. § (1) bekezdésében meghatározott intézkedés tényét, illetve a kirendelt zárgondnok nevét (cégnevét), lakóhelyét (székhelyét),
 - m) azt a tényt, ha a cég képviseletére jogosult személynek, továbbá, ha a cég minősített többséggel rendelkező tagjának vagy uralkodó tagjának korlátlan felelősségét állapították meg a cég tartozásaiért; a képviselő, a tag nevét és lakóhelyét, a jogerős bírósági döntés számát és keltét,
 - n) a kényszertörlési eljárás kezdő időpontját és befejezését.
+- o) a nyilvános szerkezetátalakítási eljárás kezdő napját és befejezését.
 
 (2) Az (1) bekezdés a) és b) pontjában meghatározott adatokat, valamint a cég neve (rövidített neve) mellett a „felszámolás alatt” („f. a.”) toldat bejegyzését, (amennyiben a felszámolási eljárást végelszámolási eljárás előzte meg, az arra utaló toldat törlését), a képviselet módja változásának bejegyzését, a korábbi képviseletre jogosultak törlésének mellőzése mellett a felszámolóra, illetve a felszámolóbiztosra vonatkozó adatokat – külföldi székhelyű vállalkozás fizetőképtelenségére, illetve felszámolására vonatkozó eljárás bejegyzésének kivételével – a csődeljárást, illetve a felszámolási eljárást lefolytató bíróság végzése alapján elektronikus úton kell rögzíteni a cégjegyzékben, a csődeljárást, illetve a felszámolást elrendelő jogerős végzés Cégközlönyben történő közzétételével egyidejűleg. Ha a felszámolási eljárás a cég jogutód nélküli megszűnésével befejeződik, e végzés jogerőre emelkedésének napjával a céget elektronikus úton, automatikusan kell törölni a cégjegyzékből.
+
+(2a) Az (1) bekezdés o) pontjában meghatározott adatokat, valamint a cég neve (rövidített neve) mellett a „szerkezetátalakítás alatt” („sz. a.”) toldat bejegyzését a szerkezetátalakítási eljárást lefolytató bíróság végzése alapján elektronikus úton kell rögzíteni a cégjegyzékben, a nyilvános szerkezetátalakítást közzé tevő végzés Cégközlönyben történő közzétételével egyidejűleg. Ha a nyilvános szerkezetátalakítási eljárás befejeződik vagy megszűnik, a szerkezetátalakítási eljárást lefolytató bíróság végzése alapján e végzés jogerőre emelkedésének napjával a nyilvános szerkezetátalakítással összefüggésben bejegyzett adatokat, ideértve a cég nevéhez (rövidített nevéhez) kapcsolódó toldatot is, automatikusan kell törölni a cégjegyzékből.
 
 (3) A cégbíróság a perben eljáró bíróság elektronikus értesítése alapján automatikus bejegyzéssel jegyzi be az (1) bekezdés f)–h) pontjában meghatározott adatokat. A cég cégjegyzékadatait tartalmazó céginformációban a perre vonatkozó adat kizárólag abban az esetben tüntethető fel, ha a per jogerősen még nem fejeződött be. A cégbíróság a perben eljáró bíróság elektronikus értesítése alapján automatikus bejegyzéssel jegyzi be az (1) bekezdés m) pontjában meghatározott adatokat. E törvény 27. § (1) bekezdésének c) pontjában, a 27. § (2) bekezdésének d) pontjában, a 27. § (3) bekezdésének d) pontjában, a 27. § (4) bekezdésének ad) pontjában, továbbá a 27. § (5) bekezdésének c) pontjában meghatározott adatot a cégbíróság az eljáró bíróság elektronikus értesítése alapján szintén automatikus bejegyzéssel jegyzi be.
 

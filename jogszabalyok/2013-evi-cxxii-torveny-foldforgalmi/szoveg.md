@@ -301,7 +301,7 @@ föld területnagyságával a 10. § (2) bekezdésében, valamint a 16. § (1) b
 20. § Elővásárlási jog nem áll fenn
 
 - a) a közeli hozzátartozók közötti adás-vétel,
-- b) a tulajdonostársak közötti, a közös tulajdon megszüntetését eredményező adás-vétel,
+- b) az adott földben legalább három éve tulajdonrésszel rendelkező vevő által kötött, a közös tulajdon megszüntetését eredményező adás-vétel,
 - c) a földnek jogszabályban foglalt módon, támogatás feltételeként más földműves részére való átadásával megvalósuló adás-vétel,
 - d) a 11. § (2) bekezdés c) pontjában meghatározott célból történő adás-vétel,
 - e) rekreációs célú földszerzés,
@@ -521,7 +521,7 @@ belül döntést hoz.
 - b) az állam, illetve az önkormányzat tulajdonában álló föld elidegenítéséhez;
 - c) a föld tulajdonjogának ajándékozás jogcímén történő átruházásához;
 - d) a közeli hozzátartozók közötti tulajdonjog átruházásához;
-- e) a tulajdonostársak közötti tulajdonjog átruházáshoz, ha ezzel a közös tulajdon megszűntetésére kerül sor;
+- e)
 - f) a földnek jogszabályban foglalt módon, támogatás feltételeként más földműves részére való átadásával megvalósuló adás-vételhez;
 - g) a telekalakítás keretében történő tulajdonszerzéshez, ha egy vagy több, önálló helyrajzi számú földet érintő telekalakítás következtében a tulajdonosok tulajdoni hányadát képező földterület nagysága az ingatlan-nyilvántartásban a kiinduló állapot szerinti tulajdoni hányadból számítható területnagyságot nem haladja meg;
 - h) a 11. § (2) bekezdésében meghatározott tulajdonszerzéshez.
@@ -774,6 +774,8 @@ javára engedi át,
 - b) a jegyzék szerinti rangsor alapján az első helyen álló előhaszonbérletre jogosult(ak), illetve a soron következő előhaszonbérletre jogosult(ak), vagy a haszonbérleti szerződés szerinti haszonbérlő – a haszonbérleti szerződés közlését megelőző 5 éven belül – a birtokában álló föld 25 százalékának megfelelő földterületen a földhasznosítási kötelezettségének termelés folytatása nélkül tett eleget.
 
 (2a) Az (1) bekezdés g) pontjának alkalmazása során a haszonbér értékét aránytalannak kell tekinteni, ha az érintett föld nem rendelkezik olyan előnyös tulajdonságokkal, amelyek a helyben szokásos haszonbér mértékétől való eltérést indokolják. Előnyös tulajdonságként lehet figyelembe venni a föld fekvését, a föld minőségét (aranykorona értékét), öntözhetőségét, művelhetőségét, közútról való megközelíthetőségét, azonban nem lehet figyelembe venni bizonytalan, jövőbeni eseményeket, és legalább részben a haszonbérlő elhatározásától, kockázatvállalásától függő körülményeket. Az átlagos haszonbértől való eltérés esetén annak okát a szerződésben igazolni kell. A haszonbérleti szerződés jóváhagyása iránti eljárás során a mezőgazdasági igazgatási szerv felhívására a haszonbérbe adó köteles bizonyítani a haszonbér értékének arányosságát.
+
+(2b) A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara nyilatkozatot tehet a mezőgazdasági igazgatási szerv felé annak eljárása során a (2a) bekezdés szerinti feltételek fennállásával kapcsolatban. Nyilatkozattétel esetében a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarát az eljárásában az ügyfél jogállása, a mezőgazdasági igazgatási szerv haszonbérleti szerződést jóváhagyó vagy megtagadó határozata elleni közigazgatási per vonatkozásában pedig keresetindítási jog illeti meg.
 
 (3) A (2) bekezdés b) pontjában foglalt területi mérték megállapításánál – a 4. §-ban foglaltaktól eltérően – az előhaszonbérletre jogosult(ak), vagy a haszonbérleti szerződés szerinti haszonbérlő birtokában föld(ek)nek csak az 5. § 17. pontjában meghatározott művelési ágban nyilvántartott területét lehet figyelembe venni.
 
