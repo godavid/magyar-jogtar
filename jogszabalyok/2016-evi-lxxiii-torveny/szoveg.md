@@ -34,7 +34,7 @@ terjed ki.
 - 1. adminisztratív és technikai személyzet tagja: az a kihelyezett, aki a külképviselet funkcionális feladatainak ellátásában vesz részt;
 - 2. állomáshely: az a külföldi település, amelyen a külképviselet földrajzilag található;
 - 3. biztonsági szolgálat: – a Magyarország Európai Unió melletti Állandó Képviseletére (a továbbiakban: EU ÁK) kihelyezettek kivételével – a kihelyezett munkaköri leírásában meghatározott olyan szolgálat, amely a külképviselet személyzete és a személyzet családtagjai életének, testi épségének és egészségének védelmét, a külképviselet működőképességének fenntartását, valamint a külképviselet vagyonának megóvását, biztonságának védelmét biztosítja;
-- 4. diplomata: az a diplomáciai rangot viselő kormánytisztviselő, aki a külpolitikáért felelős miniszter vagy az európai uniós ügyek koordinációjáért felelős miniszter feladat- és hatáskörébe tartozó feladatokat belföldön a kihelyező szervnél vagy Magyarország külképviseletén végzi;
+- 4. diplomata: az a diplomáciai rangot viselő kormánytisztviselő, aki a külpolitikáért felelős miniszter, a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter vagy az európai uniós ügyek koordinációjáért felelős miniszter feladat- és hatáskörébe tartozó feladatokat belföldön a kihelyező szervnél vagy Magyarország külképviseletén végzi;
 - 5. ENSZ-szorzó: az Egyesült Nemzetek Szervezete Nemzetközi Közszolgálat Bizottsága által közzétett arányszám, amely – a helyi fizetőeszköz és az USD közötti átváltási arányok változását és az infláció mértékét is alapul véve – a megélhetés költségeit hasonlítja össze egy adott állomáshely és New York tekintetében;
 - 5a. életvitelszerű tartózkodás: a kihelyezett és hozzátartozója megszakítás nélkül, életvitelszerűen tartózkodik az állomáshelyen, ha a tartós külszolgálat megkezdését követően az állomáshelyen lakóhelyéül szolgáló ingatlanban szervezi az életét továbbá, ha az életvitelhez szükséges tevékenységeket jellemzően az állomáshelyen folytatja, és a közüzemi szolgáltatásokat személyesen az állomáshelyen veszi igénybe;
 - 6. élhetőség: az állomáshelyre vonatkozó, különösen éghajlati, biztonsági, légszennyezettségi, egészségügyi, terrorfenyegetettségi, infrastrukturális szempontok összessége;
@@ -43,15 +43,15 @@ terjed ki.
 - 8a. jövedelemszerző tevékenység: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 16. § (1) bekezdésében és 24. § (1) bekezdésében meghatározott és a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény szerinti biztosítotti jogviszonyt keletkeztető tevékenység – kivéve, ha a kihelyezett házastársa csecsemőgondozási díjban vagy gyermekgondozási díjban részesül, továbbá ide nem értve a kormányzati igazgatásról szóló törvény 95. § (5) bekezdése szerinti gyakorolható tevékenységet, valamint az ingatlan- vagy termőföld-bérbeadást – függetlenül a tevékenység végzésének a helyétől, ideértve a fogadó államban végzett biztosítotti jogviszonyt keletkeztető tevékenységet is;
 - 9. kihelyezett: kihelyező okirat alapján tartós külszolgálatot ellátó kormánytisztviselő;
 - 10. kihelyezés: munkáltatói intézkedés, amellyel a kihelyező vezető a kormánytisztviselőt határozott időre tartós külszolgálat ellátására rendeli;
-- 11. kihelyező szerv: a külpolitikáért, illetve az EU ÁK esetében az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium, amely az általa foglalkoztatott kormánytisztviselőt tartós külszolgálat ellátására, kihelyező okirattal kihelyezi;
-- 12. kihelyező vezető: a külpolitikáért felelős miniszter által vezetett minisztérium hivatali szervezetének vezetője, az EU ÁK tekintetében az európai uniós ügyek koordinációjáért felelős miniszter;
+- 11. kihelyező szerv: a külpolitikáért, illetve az EU ÁK esetében az európai uniós ügyek koordinációjáért – a külföldi magyar kulturális intézet (a továbbiakban: kulturális intézet) esetében a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért – felelős miniszter által vezetett minisztérium, amely az általa foglalkoztatott kormánytisztviselőt tartós külszolgálat ellátására, kihelyező okirattal kihelyezi;
+- 12. kihelyező vezető: a külpolitikáért felelős miniszter és – a kulturális intézet tekintetében – a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által vezetett minisztérium hivatali szervezetének vezetője, az EU ÁK tekintetében az európai uniós ügyek koordinációjáért felelős miniszter;
 - 13. konzuli személyzet: ágazati jogszabályok alapján, külképviseleten konzuli tevékenységet végző – adott esetben hivatásos konzuli ranggal is bíró – diplomata, kormánytisztviselő külképviselet által foglalkoztatott munkavállaló, valamint külképviselet által foglalkoztatott házastárs;
-- 14. külképviselet: a külpolitikáért – az EU ÁK esetében az európai uniós ügyek koordinációjáért – felelős miniszter által vezetett minisztérium hivatali szervezetének – a Kormány döntése alapján létrehozott – külföldön, a 3. § (1) bekezdésében meghatározott formákban működő önálló szervezeti egysége, amelynek jogállását, feladat- és hatáskörét általános jelleggel a nemzetközi jog és a magyar jog normái határozzák meg.
+- 14. külképviselet: a külpolitikáért – az EU ÁK esetében az európai uniós ügyek koordinációjáért, a kulturális intézet esetében a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter – felelős miniszter által vezetett minisztérium hivatali szervezetének – a Kormány döntése alapján létrehozott – külföldön, a 3. § (1) bekezdésében meghatározott formákban működő önálló szervezeti egysége, amelynek jogállását, feladat- és hatáskörét általános jelleggel a nemzetközi jog és a magyar jog normái határozzák meg.
 - 15. külképviselet által foglalkoztatott munkavállaló: a fogadó államban állandó lakóhellyel rendelkező és a fogadó államban munkavállalásra jogosult, a külképviselet által munkaszerződéssel foglalkoztatott természetes személy, akinek elsődleges feladata a külképviselet funkcionális működésében való közreműködés;
 - 16. külképviselet által foglalkoztatott házastárs: a kihelyezett házastársa, akit a külképviselet munkaszerződéssel, magyar jog alapján foglalkoztat, és akinek elsődleges feladata a külképviselet adminisztratív-technikai feladatainak ellátásában való közreműködés;
 - 17. szakdiplomata: az a diplomata, akit kormányzati igazgatási szerv egy ágazati szakmai feladat külképviseleten történő ellátására a kihelyező szervnél tartós külszolgálati kihelyezésre jelöl és határozott időre helyez át, vagy a hivatásos szolgálati jogviszonyra vonatkozó szabályok szerint – kormányzati szolgálati jogviszonyban történő foglalkoztatásra – vezényel a kihelyező szervhez, vagy a 36. § (4) bekezdés b) pontjában foglaltak szerint közvetlenül a kihelyező szerv nevezi ki a külszolgálata, illetve az azt megelőző felkészülés idejére szóló határozott időre;
 - 17a. szakkonzul: konzuli feladatokat ellátó szakdiplomata;
-- 18. tartós külszolgálat: a külpolitikáért felelős miniszter, illetve az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium kormánytisztviselője – ideértve az ágazati szakmai feladat, illetve e feladat támogatásának ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselőt – által a kihelyező vezető döntése alapján külképviseleten teljesített, határozott időre szóló speciális közszolgálat, amely a közigazgatás általános munkafeltételeitől eltérő, a diplomáciai tevékenység nemzetközi gyakorlatának és normáinak megfelelő körülmények és feltételek közt végzett tevékenységre irányul, és amelynek időtartama 90 napnál hosszabb;
+- 18. tartós külszolgálat: a külpolitikáért felelős miniszter, a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter, illetve az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium kormánytisztviselője – ideértve az ágazati szakmai feladat, illetve e feladat támogatásának ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselőt – által a kihelyező vezető döntése alapján külképviseleten teljesített, határozott időre szóló speciális közszolgálat, amely a közigazgatás általános munkafeltételeitől eltérő, a diplomáciai tevékenység nemzetközi gyakorlatának és normáinak megfelelő körülmények és feltételek közt végzett tevékenységre irányul, és amelynek időtartama 90 napnál hosszabb;
 - 19. válsághelyzet: az állomáshelyet is magában foglaló földrajzi térségben bekövetkező közvetlen életveszélyt okozó természeti vagy ipari katasztrófa, súlyos járvány, terrorfenyegetettség, fegyveres zavargás, polgárháború vagy háború, illetve ezek közvetlen veszélye.
 
 ### II. Fejezet — A KÜLKÉPVISELET, VALAMINT A KORMÁNYTISZTVISELŐK TARTÓS KÜLSZOLGÁLATA
@@ -64,12 +64,13 @@ terjed ki.
 - b) Magyarország konzuli képviseleteként,
 - c) Magyarország nemzetközi szervezet mellett működő állandó képviseleteként, valamint
 - d) Magyarország kereskedelmi képviseleteként
+- e) Magyarország kulturális intézeteként
 
 működhet.
 
 (2) A külképviselet részeként – a Kormány erre irányuló külön döntése esetén, a fogadó állam egyetértésével – alkonzulátus, valamint konzuli iroda működhet. Az alkonzulátus és a konzuli iroda önálló költségvetéssel és vezetéssel nem rendelkezik.
 
-(3) A külképviselet részeként – a Kormány erre irányuló külön döntése esetén a (2) bekezdésben meghatározottakon túl – külföldi magyar kulturális intézet vagy kulturális szolgálat működhet. A kulturális intézet és a kulturális szolgálat szakmai vezetője tanácsosi rangot viselő diplomata (a továbbiakban: kulturális tanácsos). A kulturális tanácsos munkáját kulturális attasék segíthetik.
+(3)
 
 (4) A külképviseletek működtetésének pénzügyi fedezetét a mindenkori költségvetési törvényben a külpolitikáért felelős miniszter által vezetett minisztérium „külképviseletek igazgatása” elnevezésű címe tartalmazza.
 
@@ -82,12 +83,13 @@ működhet.
 - e) a külképviselet által foglalkoztatott munkavállaló, valamint
 - f) a külképviselet által foglalkoztatott házastárs.
 
-5. § A külképviselet irányítását a külpolitikáért felelős miniszter, vezetését
+5. § A külképviselet irányítását a külpolitikáért felelős miniszter vagy az e törvényben meghatározott esetben más miniszter, vezetését
 
 - a) a rendkívüli és meghatalmazott nagykövet,
 - b) a főkonzul,
 - c) az állandó ügyvivő, valamint
 - d) a kereskedelmi képviselet-vezető
+- e) a kulturális intézet igazgatója
 
 (a továbbiakban együtt: külképviselet-vezető) látja el.
 
@@ -148,7 +150,11 @@ működhet.
 
 (3) A pályáztatással összefüggő részletes szabályokat a külpolitikáért felelős miniszter rendeletben határozza meg.
 
-11. § (1) A kihelyezésre kerülő személy – alapvető európai uniós elemeket is tartalmazó – külügyi felkészítését a külpolitikáért felelős miniszter, a részben vagy egészben európai uniós feladatokat magában foglaló munkakörök betöltéséhez szükséges átfogó európai uniós felkészítését az európai uniós ügyek koordinációjáért felelős miniszter irányítja. Külföldi magyar kulturális intézetet és kulturális szolgálatot vezető kulturális tanácsos, az intézetekben tartós külszolgálatot teljesítő diplomata, valamint az oktatási és kulturális feladatot ellátó diplomaták, valamint a tudományos és technológiai feladatot ellátó diplomaták szakmai felkészítése és szakmai irányítása a feladat- és hatáskörében érintett miniszter bevonásával történik.
+11. § (1) A kihelyezésre kerülő személy – alapvető európai uniós elemeket is tartalmazó – külügyi felkészítését a külpolitikáért felelős miniszter, a részben vagy egészben európai uniós feladatokat magában foglaló munkakörök betöltéséhez szükséges átfogó európai uniós felkészítését az európai uniós ügyek koordinációjáért felelős miniszter irányítja.
+
+(1a) A kulturális intézet igazgatója és a kulturális intézetben tartós külszolgálatot teljesítő diplomata szakmai felkészítése a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter bevonásával történik.
+
+(1b) Az oktatási és kulturális feladatot ellátó diplomaták, valamint a tudományos és technológiai feladatot ellátó diplomaták szakmai felkészítése és szakmai irányítása a feladat- és hatáskörében érintett miniszter bevonásával történik.
 
 (2) A tartós külszolgálati kihelyezés előtt álló és kihelyezésre kerülő kormánytisztviselő (a továbbiakban: felkészülő) tartós külszolgálati felkészítésének időtartama – a kihelyező vezető döntése alapján, ide nem értve a 10. § (2) bekezdése szerinti kijelölés esetét – legalább egy, legfeljebb hat hónapig tarthat.
 
@@ -248,7 +254,7 @@ hivatásos konzuli rangot adományozhat a tartós külszolgálat időtartamára.
 
 15. § (1) A külpolitikáért felelős miniszter által vezetett minisztérium kormánytisztviselője – ideértve az ágazati szakmai feladat ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselőt is – a kihelyező vezető döntése szerint kihelyezhető tartós külszolgálatra.
 
-(2) A munkakörébe tartozó feladatai alapján kizárólag vagy elsődlegesen európai uniós kérdésekért felelős diplomata az európai uniós ügyek koordinációjáért felelős miniszter egyetértésével helyezhető ki tartós külszolgálatra. Külföldi magyar kulturális intézetet és kulturális szolgálatot vezető kulturális tanácsos és az intézetekben tartós külszolgálatot teljesítő diplomata a kultúráért felelős miniszter egyetértésével helyezhető ki tartós külszolgálatra.
+(2) A munkakörébe tartozó feladatai alapján kizárólag vagy elsődlegesen európai uniós kérdésekért felelős diplomata az európai uniós ügyek koordinációjáért felelős miniszter egyetértésével helyezhető ki tartós külszolgálatra.
 
 (3) A szakdiplomata felett a munkáltatói jogokat felkészítése és tartós külszolgálatának ideje alatt a kihelyező vezető gyakorolja, ide nem értve a kormányzati szolgálati jogviszony megszüntetését.
 
@@ -426,7 +432,7 @@ szorzata alapján kerül meghatározásra.
 
 (9) A kihelyező szerv – a kihelyezett kérelmére – a külpolitikáért felelős miniszter által megállapított rendelet szerinti mértékben és feltételekkel, kamatmentes devizailletmény- és költségtérítés-előleget nyújt.
 
-(10) Külföldi magyar kulturális intézetet és kulturális szolgálatot vezető kulturális tanácsos és az intézetekben tartós külszolgálatot teljesítő diplomata rangjának megfelelő illetmény megállapításához a kultúráért felelős miniszter egyetértése szükséges.
+(10)
 
 24. § (1) A kihelyezett devizailletményében megjelenő deviza-illetménypótlékok mértéke
 
@@ -664,7 +670,7 @@ illeti meg.
 
 (7) A kihelyezett, valamint külképviselet által foglalkoztatott házastárs üzemi balesete vagy foglalkozási megbetegedés esetén a kihelyezettet devizailletménye, a külképviselet által foglalkoztatott házastársat a munkabére 100%-a, útibaleset esetén 90%-a illeti meg a keresőképtelenség időtartamára, de legfeljebb 90 napig. Az Ebtv. szerinti baleseti táppénzre a kihelyezett a tartós külszolgálat ideje alatt nem jogosult. Amennyiben a folyósítás ideje alatt megszűnik a kihelyezett tartós külszolgálata vagy kormányzati szolgálati jogviszonya, akkor a baleseti táppénz az Ebtv. 55. § (3) bekezdése szerinti fennmaradó jogosultsági időre folyósítható.
 
-34. § Az a külképviselet, amelynek keretében a 3.§ (3) bekezdése szerinti kulturális intézet vagy kulturális szolgálat működik, kulturális, oktatási és tudományos tevékenysége körében a fogadó ország előzetes hozzájárulása – amennyiben arra szükség van –, és a külpolitikáért felelős miniszter előzetes engedélye alapján, a hozzájárulásban, illetve az engedélyben meghatározott keretek között vállalkozási tevékenységet folytathat. A vállalkozási tevékenységhez kapcsolódó bevételekkel és kiadásokkal a külképviselet-vezető az előirányzatok felhasználásának általános szabályai alapján számol el a külpolitikáért felelős miniszter által vezetett minisztérium hivatali szervezetének vezetője felé.
+#### 34. §
 
 35. § A külképviselet-vezető indokolt esetben, az állami vagyonnal és a költségvetési előirányzatokkal való felelős gazdálkodás elvének tiszteletben tartásával, a külképviselet kiadási előirányzatai terhére, a külpolitikáért felelős miniszter által vezetett minisztérium hivatali szervezetének vezetője előzetes engedélyével, az engedélyben foglalt feltételek szerint támogatást, adományt, segélyt, felajánlást és más ellenérték nélküli kötelezettséget vállalhat és kifizetést teljesíthet.
 
@@ -672,9 +678,11 @@ illeti meg.
 
 35/B. § A 35. § alapján nyújtott támogatás, adomány és más ellenérték nélküli kötelezettségvállalás esetében az államháztartásról szóló 2011. évi CXCV. törvény 55. §-át nem kell alkalmazni.
 
-35/C. § (1) A külpolitikáért felelős miniszter, valamint az európai uniós ügyek koordinációjáért felelős miniszter kezeli a 3. mellékletben meghatározott adatokat.
+35/C. § (1) A külpolitikáért felelős miniszter, az európai uniós ügyek koordinációjáért felelős miniszter, valamint a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter kezeli a 3. mellékletben meghatározott adatokat.
 
 (2) A 3. mellékletben meghatározott adatokat, valamint az adatokban bekövetkező változásokat – a változás bekövetkeztétől számított 15 napon belül – a tartós külszolgálatra kihelyezett kormánytisztviselő, valamint a külpolitikáért felelős miniszter által vezetett minisztérium központi igazgatásának állományában lévő kormánytisztviselő köteles a külpolitikáért felelős miniszternek bejelenteni.
+
+(2a) A (2) bekezdéstől eltérően a 3. mellékletben meghatározott adatokat, valamint az adatokban bekövetkező változásokat – a változás bekövetkeztétől számított 15 napon belül – a kulturális intézethez tartós külszolgálatra kihelyezett kormánytisztviselő, valamint a 10. § (1) bekezdése szerinti pályázó köteles a kulturális intézet irányítását a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszternek bejelenteni.
 
 (3) A 3. mellékletben meghatározott adatokat, valamint az adatokban bekövetkező változásokat – a változás bekövetkeztétől számított 15 napon belül – az EU ÁK-ra tartós külszolgálatra kihelyezett kormánytisztviselő, valamint a 10. § (1) bekezdése szerinti pályázó köteles az európai uniós ügyek koordinációjáért felelős miniszternek bejelenteni.
 
@@ -860,11 +868,81 @@ diplomáciai rangot adományozhat.
 
 (2) A 36. § (8) bekezdését azzal az eltéréssel kell alkalmazni, hogy az EU ÁK-n foglalkoztatott szakdiplomata tartós külszolgálata a kihelyező vezető kezdeményezésére megszüntethető. A szakdiplomata tartós külszolgálatának megszüntetésére vonatkozó szakminiszteri kezdeményezés a javaslatról a szakminiszter és a kihelyező vezető együttesen dönt.
 
-### IV. Fejezet — A DIPLOMÁCIAI, A KONZULI ÉS A KERESKEDELMI KÉPVISELETEK EGYÜTTMŰKÖDÉSE
+### III/A. Fejezet — A KULTURÁLIS INTÉZETRE VONATKOZÓ ELTÉRŐ RENDELKEZÉSEK
 
-57. § (1) A diplomáciai képviselet vezetője összehangolja a fogadó államban működő konzuli és kereskedelmi képviseleteknek a fogadó állammal fennálló politikai kapcsolatokra kiható tevékenységét.
+### 19a. A kulturális intézet jogállása, irányítása, működtetése
 
-(2) Az (1) bekezdés szerinti hatáskör megfelelő gyakorlása érdekében, ha a konzuli, vagy kereskedelmi képviseletnél a fogadó állammal fennálló politikai kapcsolatokat lényegesen érintő ügyben jár el, a konzuli vagy kereskedelmi képviselet vezetője egyeztet a diplomáciai képviselet vezetőjével.
+56/A. § (1) A kulturális intézet különleges külképviselet, amelynek elsődleges feladata
+
+- a) a magyar kultúra – ideértve a határon túli magyar kultúrát is – eredményeinek népszerűsítése,
+- b) a külföldi Magyarország- és magyarságkép pozitív formálásában való közreműködés,
+- c) a magyarság kulturális értékei, hagyományai és kapcsolatai ápolásának előmozdítása,
+- d) a határon túli magyarok és az anyaország közötti kulturális kapcsolatok ápolásában való közreműködés, a magyar nemzeti identitás megőrzésének elősegítése, és
+- e) a magyar nyelv és a magyarság megismertetésének elősegítése a külföldi állampolgárok körében.
+
+(2) A kulturális intézetek költségvetése a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által vezetett minisztérium költségvetési fejezetében önálló címet képez. A kulturális intézetek költségvetésének tervezésével, az előirányzatok átcsoportosításával és a beszámoló jóváhagyásával kapcsolatos feladatokat a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter látja el.
+
+(3) Az 5. §-tól eltérően a kulturális intézet irányítását a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter látja el.
+
+(4) A kulturális intézet funkcionális működtetéséről a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter gondoskodik azzal, hogy az informatikai rendszer üzemeltetésével, a biztonsági, biztonságtechnikai és titkos ügykezelési tevékenységgel, valamint az ingatlanok üzemeltetésével kapcsolatos feladatok ellátását a külpolitikáért felelős miniszter útján biztosítja.
+
+(5) A kulturális intézet szervezetére és működésére vonatkozó szabályokat a külképviselet-vezető javaslatára a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter normatív utasításban adja ki.
+
+(6) A kulturális intézet kulturális, oktatási és tudományos tevékenysége körében a fogadó ország előzetes hozzájárulása – amennyiben arra szükség van –, és a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter előzetes engedélye alapján, a hozzájárulásban, illetve az engedélyben meghatározott keretek között vállalkozási tevékenységet folytathat. A vállalkozási tevékenységhez kapcsolódó bevételekkel és kiadásokkal a külképviselet-vezető az előirányzatok felhasználásának általános szabályai alapján számol el a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által vezetett minisztérium hivatali szervezetének vezetője felé.
+
+### 19b. A kulturális intézetnél teljesített tartós külszolgálattal kapcsolatos egyes rendelkezések
+
+56/B. § (1) A kulturális intézethez kihelyezett tisztségviselő esetében a 19. §-ban foglalt, áthelyezéssel kapcsolatos rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a más külképviseletre való áthelyezés alatt a más kulturális intézethez történő áthelyezést kell érteni.
+
+(2) A kulturális intézet tekintetében a 28. § (1) bekezdése nem alkalmazható.
+
+(3) A 6. §-tól, a 9. § (2) bekezdésétől és a 9/A § (2) bekezdésétől eltérően a kulturális intézet vezetője
+
+- a) a külképviselet tagjai tekintetében gondoskodik a nemzetközi jogi normák, valamint a fogadó állam és Magyarország jogszabályai és egyéb normái betartásáról és az azoknak megfelelő külképviseleti működésről, továbbá azok megsértése esetén gondoskodik a jogsértés kivizsgálásáról és megteszi a jogkörébe tartozó egyéb szükséges intézkedéseket,
+- b) írásban – a kormányzati igazgatásról szóló törvénnyel, valamint a munka törvénykönyvéről szóló törvénnyel és a fogadó állam munkajogi szabályozásával összhangban – meghatározza a külképviselet munkarendjét és a munkavégzés különleges szabályait,
+- c) gyakorolja a diplomaták, valamint az adminisztratív és technikai személyzet tekintetében a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által átruházott munkáltatói jogokat,
+- d) a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által átruházott hatáskörben munkaszerződést köt a külképviselet által foglalkoztatott munkavállalóval, valamint a külképviselet által foglalkoztatott házastárssal, és gyakorolja felette a munkáltatói jogokat,
+- e) a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által meghatározott körben dönt a külképviselet feladatkörébe tartozó ügyekben,
+- f) a kihelyező vezető által meghatározott keretek között irányítja, ellenőrzi a külképviselet működését, felelősséggel tartozik, különösen a külképviselet eszközeivel és pénzügyi forrásaival való jogszerű gazdálkodásért a rendelkezésre álló költségvetési kereteken belül, valamint a folyamatba épített, illetve időszakonkénti ellenőrzésért,
+- g) folyamatosan ellenőrzi a külképviselet tagjainak munkavégzését,
+- h) a külképviselet tevékenységéről és működéséről folyamatosan beszámol a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszternek,
+- i) ellátja a jogszabályban és a kihelyezési okiratban, valamint a munkaköri leírásban meghatározott további feladatokat.
+
+(4) A 15. § (1) bekezdésétől eltérően kulturális intézetbe a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által vezetett minisztérium kormánytisztviselője helyezhető ki tartós külszolgálatra a kihelyező vezető döntése szerint. A kihelyezett felett a munkáltatói jogokat a kihelyező vezető gyakorolja.
+
+(5) A 17. § (2) bekezdésétől eltérően, a kulturális intézetbe kihelyezettek esetében, a tartós külszolgálat megállapított időtartama hivatali érdekből, valamint különös méltánylást érdemlő ok miatt, a kihelyezett egyetértésével meghosszabbítható.
+
+(6) A 19. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a kulturális intézetbe kihelyezettek ideiglenes kiküldetésére vonatkozó szabályokat a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter állapítja meg rendeletben.
+
+(7) A 20. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a kulturális intézetbe kihelyezettek esetében a 20. § (3) bekezdés d) pontjában foglalt nemzetközi jogi ok fennállása tekintetében a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter dönt.
+
+(8) A 12. § (1) bekezdésétől eltérően a kulturális intézetben diplomáciai feladatokat ellátó kormánytisztviselőnek a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter adományozza a diplomáciai rangot, a külpolitikáért felelős miniszterrel történő egyeztetést követően.
+
+### 19c. A kihelyezendő személyek felkészítése és irányítása, a kihelyező okirat
+
+56/C. § (1) A 10. § (1) bekezdésétől eltérően a kulturális intézet tekintetében az adminisztratív és technikai, valamint a diplomata-álláshelyet pályázat útján a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter hirdeti meg.
+
+(2) A miniszter hivatali érdekéből kivételesen az (1) bekezdés szerinti pályázat mellőzésével, kijelölés útján is dönthet a diplomata, valamint az adminisztratív és technikai álláshely betöltéséről.
+
+(3) A 10. § (3) bekezdésétől eltérően a pályáztatással összefüggő részletes szabályokat a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter határozza meg.
+
+(4) A 22. § (2) bekezdésétől eltérően a kihelyezésre vonatkozó okiratnak nem kell tartalmaznia a biztonsági szolgálat ellátására vonatkozó kötelezettséget.
+
+### 19d. Járandóságok
+
+56/D. § (1) A kulturális intézet igazgatója, valamint a kulturális intézetben tartós külszolgálatot teljesítő diplomata rangjának megfelelő illetményt a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter állapítja meg.
+
+(2) A kulturális intézetek tekintetében a 23. § (8) bekezdése szerinti deviza-alapilletmény meghatározásával, valamint a 24. § (2) bekezdésében meghatározott kategóriába sorolással kapcsolatos rendeletalkotási feladatokat a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter látja el azzal, hogy a külpolitikai viszonyrendszerben elfoglalt hely alatt a kulturális diplomáciai viszonyrendszerben elfoglalt helyet kell érteni.
+
+(3) A kulturális intézetek tekintetében – a 25. § (12) bekezdésétől eltérően – a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által vezetett minisztérium a kulturális intézet igazgatója részére lakhatási költségtérítést biztosít.
+
+(4) A 26. § (2) bekezdés b) pontjától eltérően az életminőség szerinti besorolást a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter végzi el.
+
+### IV. Fejezet — A DIPLOMÁCIAI, A KONZULI, A KERESKEDELMI ÉS A KULTURÁLIS KÉPVISELETEK EGYÜTTMŰKÖDÉSE
+
+57. § (1) A diplomáciai képviselet vezetője összehangolja a fogadó államban működő konzuli, kereskedelmi és kulturális képviseleteknek a fogadó állammal fennálló politikai kapcsolatokra kiható tevékenységét.
+
+(2) Az (1) bekezdés szerinti hatáskör megfelelő gyakorlása érdekében, ha a konzuli, kereskedelmi vagy kulturális képviseletnél a fogadó állammal fennálló politikai kapcsolatokat lényegesen érintő ügyben jár el, a konzuli vagy kereskedelmi képviselet vezetője egyeztet a diplomáciai képviselet vezetőjével.
 
 (3) Az (1) és (2) bekezdésben foglaltak figyelembevételével, a konzuli képviselet vezetője a konzuli kerületen belül önállóan jár el a kereskedelmi, gazdasági, kulturális, tudományos és baráti kapcsolatok fejlesztésével összefüggő, valamint a kihelyező szerv által közvetlenül rá bízott egyéb feladatok teljesítése és az ezekkel kapcsolatos jelentőmunka során.
 
@@ -1013,6 +1091,7 @@ annak időtartamára a kihelyező vezető a kormányzati igazgatásról szóló 
 - c) a külképviselet költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának, igazgatásának és nyilvántartásának, valamint a költségvetési támogatásoknak, valamint a külképviseletek tekintetében az érvényesítésnek, a pénzügyi ellenjegyzésnek, továbbá az utalványozásnak az államháztartásról szóló törvény végrehajtására kiadott rendeletben meghatározott rendjétől, illetve az államháztartási számvitel általános előírásaitól eltérő,
 - d) az egységes külképviseleti rendszer adminisztratív-technikai működésével és fenntartásával kapcsolatos feladatok ellátásának
 - e) a vendégoktatói ösztöndíjprogram részletes szabályait, az ösztöndíj és költségtérítés megállapításának módját, az ösztöndíjban részesíthető személyek körét, az ösztöndíj nyújtásának módját és feltételeit, továbbá a jogosulatlanul kifizetett ösztöndíj visszafizetésének
+- f) a kulturális intézet irányításának
 
 részletes szabályait rendeletben állapítsa meg.
 
@@ -1065,6 +1144,20 @@ részletes szabályait rendeletben állapítsa meg.
 
 (6) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy – az egészségügyért felelős miniszterrel egyetértésben – az 57/B. § (4) bekezdése szerinti egészségügyi ellátás igénybevételének részletes szabályait rendeletben állapítsa meg.
 
+(7) Felhatalmazást kap a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter, hogy a külföldi magyar kulturális intézetek tekintetében
+
+- a) a kihelyezés szakmai követelményeinek és azok teljesítésének,
+- b) a tartós külszolgálatát teljesítő kihelyezett, valamint a külképviselet által foglalkoztatott házastárs harmadik országban történő ideiglenes kiküldetése teljesítésének,
+- c) a kulturális intézet kulturális diplomáciai viszonyrendszerben elfoglalt helye, az élhetőség szempontjából való besorolását tartalmazó, összesített, külképviseleti besorolási szorzót, valamint a devizailletmény és a költségtérítés számításának e törvényben nem rendezett,
+- d) a költségtérítés-szorzók,
+- e) a pályáztatás,
+- f) a költségvetésről szóló törvény kihirdetésétől számított 45 napon belül az ENSZ-szorzóval korrigált, a következő költségvetési évre vonatkozó, az ENSZ által a költségvetés tervezésének évében először közzétett szorzószámok figyelembevételével megállapított deviza-alapilletmények,
+- g) a kihelyezett munkarendjének, valamint a rendkívüli munkavégzés, az ügyelet és a készenlét elrendelésének, nyilvántartásának és elszámolásának, továbbá a szabadság kiadásának,
+- h) a kizárólag gépkocsivásárlás céljára nyújtható kölcsön,
+- i) a külképviselet által foglalkoztatott házastárs foglalkoztatásának
+
+részletes szabályait rendeletben állapítsa meg.
+
 60. § (1) E törvény alapján az EU ÁK funkcionális működtetésével kapcsolatos, az európai uniós ügyek koordinációjáért felelős miniszterhez kerülő feladat- és hatáskörök tekintetében 2016. augusztus 1-jével a Miniszterelnökség a Külgazdasági és Külügyminisztérium jogutódja.
 
 (2) A feladat ellátásához kapcsolódó jogviszonyok tekintetében a költségvetési megállapodás hatálybalépésének napjával a Miniszterelnökség a Külgazdasági és Külügyminisztérium jogutódja azzal, hogy amennyiben ezen időpont e törvény hatálybalépésének napjánál későbbi, úgy az átmeneti időszakban a feladatot a Külgazdasági és Külügyminisztérium látja el.
@@ -1103,8 +1196,8 @@ b) a tartós külszolgálatról és az ideiglenes külföldi kiküldetésről sz
 | --- | --- | --- | --- |
 | Vezetői munkakörök | Külképviselet-vezető a 3. § (1) bekezdés a) és c) pont szerinti külképviseleten |  | 5,0 |
 | Külképviselet-vezető a 3. § (1) bekezdés b) és d) pont szerinti külképviseleten |  | 4,6 |
-| Első beosztott diplomata, első beosztott konzul |  | 4,2 |
-| Külföldi magyar kulturális intézetet vezető kulturális tanácsos, vezető konzul |  | 4,0 |
+| Első beosztott diplomata, első beosztott konzul, kulturális intézet igazgatója |  | 4,2 |
+| Vezető konzul |  | 4,0 |
 | Regionális gazdasági igazgató |  | 3,8 |
 | Diplomata munkakörök | Beosztott diplomata | rendkívüli követ és meghatalmazott miniszter | 4,0 |
 | I. osztályú tanácsos | 3,9 |
@@ -1153,7 +1246,7 @@ b) a tartós külszolgálatról és az ideiglenes külföldi kiküldetésről sz
 
 ### 3. melléklet a 2016. évi LXXIII. törvényhez
 
-#### A külpolitikáért felelős miniszter, valamint az európai uniós ügyek koordinációjáért felelős miniszter által kezelt adatok köre
+#### A külpolitikáért felelős miniszter, az európai uniós ügyek koordinációjáért felelős miniszter, valamint a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által kezelt adatok köre
 
 - 1. A tartós külszolgálatra kihelyezett kormánytisztviselő, valamint házas- és élettársának
   - a) családi és utóneve (születési családi és utóneve), neme;

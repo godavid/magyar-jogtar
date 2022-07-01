@@ -220,7 +220,9 @@ rendelkezésre állása biztosítandó.
 
 18. §
 
-19. §
+19. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 66. §-a a következő (5a) bekezdéssel egészül ki:
+
+„(5a) A 27/A. § (4) bekezdés a) pont ad) alpontja és 27/A. § (4) bekezdés b) pont bl) alpontja nem alkalmazható a stratégiailag kiemelt csődeljárásokban és felszámolási eljárásokban.”
 
 #### 14. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
@@ -426,9 +428,9 @@ rendelkezésre állása biztosítandó.
 
 94. §
 
-#### 41.
+#### 41. A szerkezetátalakításról és egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi LXIV. törvény módosítása
 
-95. §
+95. § Nem lép hatályba a szerkezetátalakításról és egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi LXIV. törvény 71. § (12) bekezdése.
 
 #### 42. A veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény módosítása
 

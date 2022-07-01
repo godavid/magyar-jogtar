@@ -60,6 +60,7 @@ Az Országgyűlés a fizetésképtelenséggel fenyegető helyzetben lévő vagy 
   - ta) a 2015/848 EU rendelet 3. cikk (4) bekezdése szerinti területi fizetésképtelenségi eljárás, és
   - tb) a 2015/848 EU rendelet 3. cikk (3) bekezdése szerinti területi másodlagos fizetésképtelenségi eljárás;
 - u) leányvállalat: ha e törvény másképpen nem rendelkezik, a Polgári Törvénykönyvről szóló 1959. évi IV. törvény 74. §-a alapján létrehozott jogi személy.
+- v) szerkezetátalakítási eljárás: a szerkezetátalakításról és egyes törvények jogharmonizációs célú módosításáról szóló törvényben (a továbbiakban: Szát.) szabályozott polgári nemperes eljárás.
 
 (2) Ahol e törvény valamely intézkedés haladéktalan megtételét vagy végzés haladéktalan meghozatalát írja elő, annak 3 munkanapon belül kell eleget tenni.
 
@@ -367,13 +368,20 @@ kapcsolatosak.
 
 7. § (1) Az adós gazdálkodó szervezet vezetője a bírósághoz csődeljárás lefolytatása iránti kérelmet nyújthat be; a kérelem benyújtása tekintetében az adós részéről a jogi képviselet kötelező.
 
-(2) Az adós gazdálkodó szervezet (a továbbiakban: adós) nem nyújthat be csődeljárás iránti kérelmet, ha ellene csődeljárás van folyamatban, vagy felszámolás iránti kérelmet nyújtottak be ellene, és a felszámolás elrendeléséről már meghozták az elsőfokú végzést.
+(2) Az adós gazdálkodó szervezet (a továbbiakban: adós) nem nyújthat be csődeljárás iránti kérelmet, ha
+
+- a) szerkezetátalakítási eljárása van folyamatban,
+- b) a szerkezetátalakítási eljárás során a bíróság által jóváhagyott – hitelezői osztályokon átívelő kényszeregyezségi hatállyal jóváhagyott – szerkezetátalakítási terv végrehajtásának időtartama még nem zárult le,
+- c) a csődeljárási kérelem benyújtását megelőzően olyan szerkezetátalakítási eljárás volt folyamatban, amelyben az adós moratóriumot kapott, és a szerkezetátalakítás meghiúsulásától számított egy év még nem telt el,
+- d) ellene csődeljárás van folyamatban, vagy
+- e) felszámolás iránti kérelmet nyújtottak be ellene, és a felszámolás elrendeléséről már meghozták az elsőfokú végzést.
 
 (3) Az adós csődeljárás iránti újabb kérelmet mindaddig nem nyújthat be,
 
 - a) amíg a korábbi csődeljárás elrendelésének időpontjában fennállt, illetve annak során keletkezett hitelezői igény kielégítésre nem került, és
 - b) a korábbi csődeljárás jogerős befejezésének közzétételétől számítva két év még nem telt el, vagy
 - c) a korábbi csődeljárás iránti kérelmét a bíróság a 9. § (4) bekezdésében foglaltak szerint hivatalból elutasította, és az erről szóló jogerős végzés közzétételétől számítva egy év még nem telt el.
+- d) amíg a szerkezetátalakítási tervben a terv végrehajtására meghatározott időtartam le nem telt.
 
 (4)
 
@@ -399,6 +407,12 @@ kapcsolatosak.
 - a) ha volt ellene korábban elrendelt csődeljárás, akkor az esetleges korábbi csődeljárás elrendelésének időpontjában fennállt, illetve annak során keletkezett hitelezői igények kielégítésre kerültek-e, a korábbi csődeljárás jogerős befejezésének közzétételétől számítva két év eltelt-e,
 - b) van-e tudomása ellene felszámolási eljárás megindítása iránti kérelem benyújtásáról, vagy fizetésképtelenségét megállapító végzés meghozataláról, és ha igen, ezt az eljárást melyik bíróság előtt kezdeményezték,
 - c) volt-e olyan korábbi csődeljárás iránti kérelme, amelyet a bíróság a 9. § (4) bekezdésében foglaltak szerint hivatalból elutasított, ha az erről szóló jogerős végzés közzétételétől számítva egy év még nem telt el, és ha igen, ezt melyik bíróság előtt kezdeményezte.
+- d) kezdeményezett-e vagy kezdeményeztek-e ellene külföldön a 2015/848 EU rendelet hatálya alá eső fizetésképtelenségi eljárást,
+- e) kezdeményezett-e belföldön csődeljárást, reorganizációs eljárást,
+- f) kezdeményezett-e vagy kezdeményeztek-e ellene belföldön felszámolási eljárást,
+- g) van-e ellene folyamatban belföldön vagy külföldön hatósági vagy bírósági végrehajtási eljárás, zálogjoggal terhelt vagyontárgyára vezetett bíróságon kívüli értékesítés,
+- h) döntött-e szerkezetátalakítási eljárás vagy reorganizációs eljárás megindításáról, és ha igen, az eljárás folyamatban van-e, valamint
+- i) ha korábban indított szerkezetátalakítási eljárást vagy reorganizációs eljárást, és a bíróság a szerkezetátalakítási tervet, illetve a reorganizációs tervet jóváhagyta, annak végrehajtására meghatározott időtartam letelt-e.
 
 (4) Az adós köteles tájékoztatást adni a csődeljárás iránti kérelme benyújtásáról mindazon bíróságnak, amely előtt tudomása szerint felszámolási eljárás iránti kérelmet adtak be ellene.
 
@@ -421,6 +435,8 @@ kapcsolatosak.
 - e) az adós ellen belföldön más bíróság előtt csődeljárás van folyamatban,
 - f) az adós ellen felszámolási eljárás indult, és a felszámolás elrendeléséről már végzést hoztak, vagy
 - g) a csődeljárás iránti kérelmet megelőző egy éven belül az adós már adott be ilyen kérelmet, amelyet e bekezdés alapján a bíróság visszautasított, és az erről szóló jogerős végzés közzétételétől számítva egy év még nem telt el.
+- h) az adós szerkezetátalakítási eljárást vagy reorganizációs eljárást indított, vagy
+- i) az adós korábban olyan szerkezetátalakítási eljárást vagy reorganizációs eljárást indított, amellyel összefüggésben a szerkezetátalakítási tervet, illetve a reorganizációs tervet a bíróság jogerősen jóváhagyta, de az annak végrehajtására meghatározott időtartam még nem telt el.
 
 (4a) A (4) bekezdés a) pontja szerinti esetben a csődeljárás lefolytatása iránti kérelem joghatásai fennmaradnak, ha az adós a (4) bekezdés szerinti végzés közlésétől számított 15 napon belül a csődeljárás elrendelése iránti kérelmet szabályszerűen újra előterjeszti. A határidő elmulasztása esetén igazolásnak nincs helye. A kérelem újbóli előterjesztését a végzés elleni fellebbezés visszavonásának vagy a végzés elleni fellebbezési jogról való lemondásnak kell tekinteni; az ezzel ellentétes nyilatkozat hatálytalan.
 
@@ -748,7 +764,7 @@ folytatható le.
 - b) azt a moratórium időszakában, terjesztették elő;
 - c) a hiánypótlásra visszaadott kérelmet a kérelmező 8 napon belül nem, vagy ismét olyan hiányosan adta be, hogy amiatt az nem bírálható el;
 - d) az adós a kérelmező és a 8. § (1) bekezdésében megjelölt szervek egyetértése hiányzik;
-- e)
+- e) a felszámolás elrendelését a 27. § (2) bekezdés a) vagy b) pontjára hivatkozással kérte a hitelező, de az adós a Szát. alapján egyedi végrehajtási intézkedéseket felfüggesztő moratórium (a továbbiakban: Szát. moratórium), vagy a reorganizációs eljárás szabályai szerinti moratórium (a továbbiakban: reorganizációs moratórium) hatálya alatt áll, és a kérelmet olyan hitelező nyújtotta be, akire a Szát. moratórium, illetve a reorganizációs moratórium hatálya kiterjed;
 - f) a 27. § (2) bekezdés a) pontjában meghatározott esetben a kérelem bírósághoz érkezésének időpontjáig az adós írásbeli felszólítása nem történt meg, vagy az nem tartalmazza a 27. § (3) bekezdés szerinti tartalmi elemeket.
 - g) a jogerős bírósági határozatban megállapított teljesítési határidő a kérelem bírósághoz érkezésének időpontjában még nem telt el;
 - h) a 27. § (2b) bekezdése szerinti feltétel nem teljesül;
@@ -759,6 +775,14 @@ folytatható le.
 26. § (1) A bíróság megvizsgálja az adós fizetésképtelenségét.
 
 (2) Az adós a felszámolási eljárás iránti kérelem kézhezvételétől számított 8 napon belül köteles bejelenteni, amennyiben az adós gazdálkodó szervezetben a magyar állam szükségképpeni törvényes öröklés útján részesedést örökölt.
+
+(2a) Ha a felszámolás elrendelését a 27. § (2) bekezdés a) vagy b) pontjára hivatkozással kérték, de az adós igazolja, hogy szerkezetátalakítást indított, és a bíróság ennek során Szát. moratóriumot rendelt el vagy a Szát. moratórium elrendelése iránt a kérelmet még a felszámolási eljárás iránti kérelem benyújtását megelőzően nyújtották be, de arról a bíróság még nem hozott határozatot, továbbá az adós nyilatkozik arról, hogy a Szát. alapján a szerkezetátalakítás meghiúsulására vezető ok még nem következett be, a bíróság a felszámolási eljárás iránti kérelem elbírálását – az adós szerkezetátalakításban érintett hitelező kérelmére – felfüggeszti.
+
+(2b) A bíróság a felszámolási eljárás iránti kérelem elbírálását hivatalból folytatja, ha a Szát. moratóriumot a bíróság jogerős határozattal nem rendelte el vagy a Szát. moratórium időtartama lejárt, kivéve, ha az adós igazolja, hogy a szerkezetátalakítási terv jóváhagyása iránti kérelmet a bírósághoz benyújtotta, és ha a felszámolási eljárás iránti kérelmet olyan hitelező nyújtotta be, aki a szerkezetátalakítással nem érintett hitelezőnek minősül, az adós kötelezettséget vállal arra, hogy ezzel a hitelezővel 45 napon belül megállapodik a lejárt esedékességű tartozása megfizetéséről.
+
+(2c) A (2b) bekezdés szerinti esetben a bíróság a felszámolási eljárás iránti kérelem elbírálására irányuló eljárást hivatalból folytatja akkor is, ha a szerkezetátalakítási terv jóváhagyását a bíróság jogerősen elutasította vagy az adós nem igazolja, hogy a szerkezetátalakítással nem érintett hitelezővel megállapodott a lejárt esedékességű tartozása megfizetéséről.
+
+(2d) A (2b) vagy (2c) bekezdés szerinti esetben sem kell folytatni a felszámolási eljárás iránti kérelem elbírálását, ha a Szát. moratórium lejáratát követően az eljárás szünetelésére vonatkozó kérelmet adtak be, vagy ha a felszámolási eljárás iránti kérelmet visszavonták.
 
 (3) A bíróság az adós kérelmére a tartozás kiegyenlítésére legfeljebb 45 napos határidőt engedélyezhet, kivéve, ha a felszámolási eljárás megindítását a 21/B. § szerint csődeljárás előzte meg. A tartozás kiegyenlítése – az adós ilyen tartalmú nyilatkozata hiányában – nem minősül tartozáselismerésnek, a teljesítés polgári peres eljárásban történő visszakövetelését nem zárja ki.
 
@@ -786,7 +810,7 @@ folytatható le.
 - a) az adós szerződésen alapuló nem vitatott vagy elismert tartozását a teljesítési idő lejártát követő 20 napon belül sem egyenlítette ki vagy nem vitatta, és az ezt követő hitelezői írásbeli fizetési felszólításra sem teljesítette, vagy
 - b) az adós a jogerős bírósági határozatban, fizetési meghagyásban megállapított teljesítési határidőn belül tartozását nem egyenlítette ki, vagy
 - c) az adóssal szemben lefolytatott végrehajtás eredménytelen volt, vagy
-- d) az adós a fizetési kötelezettségét csődeljárásban vagy felszámolási eljárásban kötött egyezség ellenére nem teljesítette, vagy
+- d) az adós a fizetési kötelezettségét csődeljárásban vagy felszámolási eljárásban kötött egyezségben, reorganizációs eljárásban a bíróság által jóváhagyott reorganizációs tervben, szerkezetátalakításban a bíróság által jóváhagyott szerkezetátalakítási tervben foglaltak ellenére nem teljesítette, vagy
 - e) a korábbi csődeljárást megszüntette [18. § (3), (3a) és (3c) bekezdés, 18. § (10) bekezdés vagy 21/B. §], vagy
 - f) az adós, illetve a végelszámoló által indított eljárásban az adós tartozásai meghaladják a vagyonát, illetőleg az adós a tartozását (tartozásait) az esedékességkor nem tudta vagy előreláthatóan nem tudja kielégíteni, és a végelszámoló által indított eljárásban az adós gazdálkodó szervezet tagjai (tulajdonosai) felhívás ellenére sem nyilatkoznak arról, hogy kötelezettséget vállalnak a tartozások esedékességkor történő kifizetéséhez szükséges források biztosítására.
 
@@ -832,6 +856,7 @@ folytatható le.
   - aa) amely az adós tulajdonosa, hitelezője vagy az adós vagyonának nem üzletszerűen eljáró bizalmi vagyonkezelője,
   - ab) amelynek tulajdonosa az adósnak is tulajdonosa, hitelezője vagy az adós vagyonának nem üzletszerűen eljáró bizalmi vagyonkezelője,
   - ac) amelynek vezető tisztségviselője vagy annak közeli hozzátartozója többségi befolyással rendelkezik az adós szervezetben vagy összeférhetetlen tevékenységet [27/C. § (3) bekezdés a) pont] folytató más szervezetben.
+  - ad) amely a felszámolás elrendelése előtt az adós által indított szerkezetátalakításban szerkezetátalakítási szakértőként közreműködött (ide nem értve a 66. § (2) bekezdése szerinti állami felszámoló szervezetet), és a szerkezetátalakítási szakértőként történő kijelölése, megbízása megszűnésétől két év még nem telt el,
 - b) Nem jelölhető ki felszámolóbiztosnak az a személy,
   - ba) aki az adós vagy az adós kizárólagos vagy többségi részesedésével rendelkező gazdasági társaság tulajdonosa vagy hitelezője (ide nem értve, ha a hitelezői követelés a végelszámolót vagy felszámolót, vagyonfelügyelőt, ideiglenes vagyonfelügyelőt megillető díj, költségtérítés),
   - bb) aki a ba) pontban jelölt személynek közeli hozzátartozója,
@@ -844,6 +869,7 @@ folytatható le.
   - bi) aki a felszámolás elrendelésének – felmentett felszámolóbiztos helyett kijelölt új felszámolóbiztos esetén pedig a kijelölésnek – az időpontjában a felszámoló szervezet által foglalkoztatott felszámolóbiztosként nincs bejegyezve a felszámolók névjegyzékébe vagy a (6a) bekezdés szerinti hatósági nyilvántartásba vagy a 66. § (6) bekezdése alapján vezetett hatósági nyilvántartásba,
   - bj) aki többségi részesedéssel rendelkezik olyan gazdasági társaságban vagy más vállalkozásban, amely vállalkozás olyan államban van bejegyezve vagy van adóügyi illetékessége, amely állam az adózási szempontból nem együttműködő államok listájának közzétételéről szóló rendeletben meghatározott állam, vagy amelyben – ide nem értve az Európai Gazdasági Térségről szóló megállapodásban részes államot – jogszabály nem ír elő a társasági adónak megfelelő adókötelezettséget, vagy az előírt adómérték legfeljebb 10 százalék,
   - bk) akit a Hatóság – a bíróság (7) bekezdés szerinti adatszolgáltatása alapján, a jogszabálysértésre tekintettel – nyilvántartásba vett, a nyilvántartásba vételtől számított 3 évig.
+  - bl) aki a felszámolás elrendelése előtt két éven belül az adós által indított szerkezetátalakításban szerkezetátalakítási szakértőként közreműködött.
 
 (5) A felszámoló a kirendelését tartalmazó végzés kézhezvételétől – vagy ha a kizárási ok később következik be, annak bekövetkeztétől – számított öt munkanapon belül köteles bejelenteni a bíróságnak, ha vele szemben kizárási ok áll fenn. A felszámoló a kirendelést kizárási ok esetén, továbbá akkor utasíthatja vissza, ha az adós székhelye kívül esik a felszámolónak a felszámolók névjegyzékébe bejegyzett működési területén. A felszámolót kirendelő végzés ellen külön fellebbezésnek nincs helye. Ha a felszámoló a kizárási ok bejelentését elmulasztja, a bíróság kezdeményezi a felszámolók névjegyzékéből való törlését.
 
@@ -970,6 +996,7 @@ folytatható le.
   - fc) a szakirányú szakképzettséggel rendelkezők szakmai gyakorlatát, valamint az (1a) bekezdés szerinti kötelező továbbképzési kötelezettség teljesítéséről szóló tanúsítvány számát,
   - fd) nyilvántartási számát,
 - g) a felszámoló gazdasági társaságnál foglalkoztatott felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyek – kizárólag az adott felszámolónál használt – elektronikus levelezési címét.
+- h) azt a tényt, ha a felszámoló gazdasági társaság szerkezetátalakítási szakértői tevékenység végzésére is jogosult, továbbá a szerkezetátalakítási szakértői tevékenységet végző természetes személyeknek az f) és g) pontban felsorolt adatait.
 
 (4a) A felszámolói névjegyzék adatai, valamint a felszámoló szervezetekről a 27/A. § (6a) bekezdése és a 66. § (6) bekezdése alapján vezetett hatósági nyilvántartások adatai – a (4) bekezdés b) pontjában megjelölt lakóhely és a (4) bekezdés f) pontjában megjelölt adatok kivételével – közérdekből nyilvános adatok.
 
@@ -1241,6 +1268,8 @@ jogerősen elrendelte a felszámoló szervezet felmentését,
 
 - a) a pozíciólezáró nettósításra irányuló szerződés alapján történt nettósítás esetében,
 - b) zálogtárgy (óvadék tárgya) egyenértékű fedezettel való helyettesítése és kiegészítő biztosíték nyújtása esetében.
+
+(4a) Az (1) bekezdés szerinti megtámadási jog a Szát. szerkezetátalakításhoz kapcsolódó ügyletek, finanszírozások védelme érdekében előírt rendelkezések figyelembevételével gyakorolható.
 
 (5) Ha az (1) bekezdés szerinti jogvesztő határidőn belül a felszámoló tudomására jut az (1) vagy a (2) bekezdés szerinti jogügylet, erről haladéktalanul köteles a hitelezői választmányt, hitelezői képviselőt vagy a hitelezőket tájékoztatni, és a bizonyítékokat egyidejűleg megküldeni. Az értesítés kézhezvételétől számított 15 napon belül a hitelező akkor is jogosult a jogügylet megtámadására, ha az (1) bekezdés szerinti jogvesztő határidő már eltelt vagy abból 15 napnál kevesebb van hátra.
 
@@ -1641,6 +1670,7 @@ vonhatja le, az a)–f) pont szerinti levonásokat követően fennmaradó össze
 - j) a katasztrófavédelmi, természetvédelmi vagy környezetvédelmi indokból az adós vagyonában a környezeti kárelhárítás, illetve a további környezetveszélyeztetés megelőzésére fordított, állam által megelőlegezett költségek, valamint az építmények élet- és vagyonbiztonságot veszélyeztető állapotának elhárításával közvetlenül összefüggő, hatósági határozattal elrendelt munkálatok államháztartási forrásból megelőlegezett, igazolt költségei;
 - k) a felszámoló számára e törvény alapján kifizethető díjelőleg, valamint
 - l) az a költség, amelynek felszámolási költségként történő kifizetését és elszámolását a bíróság az 51. § (3a) bekezdésében meghatározott esetekben engedélyezte.
+- m) a szerkezetátalakítási szakértő bíróság jogerős határozatával megállapított, ki nem fizetett és meg nem térült díja, ha az adós felszámolását a bíróság a szerkezetátalakítás meghiúsulását (Szát. 8. §) követő 180 napon belül megindított kérelem alapján vagy a szerkezetátalakítás meghiúsulásától számított 180 napon belül bekövetkezett körülmény miatt hivatalból rendelte el.
 
 (3) A munkáltató rendes felmondása esetén felszámolási költségként – ha a felszámolás kezdő időpontját megelőzően legalább egy évvel korábban megkötött kollektív szerződés, illetve munkaszerződés magasabb összeget nem állapít meg – a munkavégzés alóli felmentés időtartamára jutó távolléti díj és a végkielégítés azon összege vehető figyelembe, amely a munkavállalót az Mt. 69. § (1)–(3) bekezdése, 70. § (3) bekezdése és 77. § (3) és (4) bekezdése alapján megilleti. E rendelkezés alkalmazásában az adós – (1) bekezdés hc) pontjában nem említett – vezető állású munkavállalói tekintetében kizárólag az Mt. 210. § (3) bekezdésében megállapított, a felszámolás kezdő időpontjában esedékes összeg vehető figyelembe.
 
@@ -1803,7 +1833,9 @@ hirdetheti ki.
 
 (4) A (2) bekezdés szerinti felszámolóra annak foglalkoztatottjaira és felszámolóbiztosaira az e törvényben foglalt követelményeket azzal az eltéréssel kell alkalmazni, hogy a 27/A. § (4) bekezdés a) pont aa) és ab) alpontja szerinti – az adós tulajdonosával vagy hitelezőjével összefüggő – kizáró oknak nem tekinthető, ha az adós részben vagy egészben állami tulajdonban lévő gazdálkodó szervezet, vagy ha az adós hitelezője az állam, a központi költségvetés, elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja, államháztartási szervezet, részben vagy egészben az állam tulajdonában vagy tagságával működő szervezet.
 
-(5) Az állami felszámoló az e törvényben meghatározott tevékenységen kívül más gazdasági tevékenységet nem végezhet, kivéve a kizárólagos vagy többségi állami részesedéssel működő gazdálkodó szervezeteknél végzett üzletviteli és egyéb tanácsadást, szerkezetátalakítási és adósságrendezési tervek készítését, jogszabályban meghatározott tanácsadói, szakértői tevékenységet, az említett és a Ctv. 87. §-a szerinti, állami örökléssel érintett gazdálkodó szervezetek tekintetében a Ctv. szerinti felügyelőbiztosi, – a Ctv. 99. §-ában foglalt feltételek érvényesülése mellett – végelszámolói, továbbá vagyonrendezői tevékenységet, valamint a helyi önkormányzatok tekintetében a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény szerinti pénzügyi gondnoki tevékenységet.
+(5) Az állami felszámoló az e törvényben meghatározott tevékenységen kívül más gazdasági tevékenységet nem végezhet, kivéve a kizárólagos vagy többségi állami részesedéssel működő gazdálkodó szervezeteknél végzett üzletviteli és egyéb tanácsadást, szerkezetátalakítási és adósságrendezési tervek készítését, jogszabályban meghatározott tanácsadói, szakértői tevékenységet, az említett és a Ctv. 87. §-a szerinti, állami örökléssel érintett gazdálkodó szervezetek tekintetében a Ctv. szerinti felügyelőbiztosi, – a Ctv. 99. §-ában foglalt feltételek érvényesülése mellett – végelszámolói, továbbá vagyonrendezői tevékenységet, valamint a helyi önkormányzatok tekintetében a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény szerinti pénzügyi gondnoki tevékenységet és a Szát. szerinti szerkezetátalakítási szakértői tevékenységet.
+
+(5a) A 27/A. § (4) bekezdés a) pont ad) alpontja és 27/A. § (4) bekezdés b) pont bl) alpontja nem alkalmazható a stratégiailag kiemelt csődeljárásokban és felszámolási eljárásokban.
 
 (6) A (2) bekezdés szerinti állami felszámolót, továbbá azt a felszámolót, amelyet külön törvények pénzügyi szervezetek felszámolására vagy végelszámolására kijelölnek, nem kell felvenni a felszámolói névjegyzékbe, de a felszámolónak, a felszámolóbiztosnak, továbbá a 27/C. §-ban meghatározott személyeknek az ott meghatározott adatait és azok változását a Hatóság nyilvántartja. A nyilvántartás közhiteles hatósági nyilvántartás. Az állami felszámolónak az e törvényben és végrehajtási rendeleteiben meghatározott tevékenységére vonatkozóan a Hatóság hatósági ellenőrzést végez, súlyos vagy ismétlődő jogszabálysértés vagy mulasztás esetén az állami felszámolónál kezdeményezi a felszámolóbiztos vagy az állami felszámoló foglalkoztatottjai, vezető tisztségviselői felelősségre vonását, felmentését, továbbá a felszámolóbiztost 400 000 forintig terjedő közigazgatási bírsággal sújthatja.
 
@@ -2279,3 +2311,5 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 
 - a) a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet, valamint
 - b) a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendeletben hivatkozott formanyomtatványok kiállításáról szóló 2017. június 12-i (EU) 2017/1105 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+
+(4) Ez a törvény a megelőző szerkezetátalakítási keretekről, az adósság alóli mentesítésről és az eltiltásokról, valamint a szerkezetátalakítási, fizetésképtelenségi és adósság alóli mentesítési eljárások hatékonyságának növelését célzó intézkedésekről, és az (EU) 2017/1132 irányelv módosításáról szóló (Szerkezetátalakítási és fizetésképtelenségi irányelv), 2019. június 20-i (EU) 2019/1023 európai parlamenti és tanácsi irányelv 17. és 18. cikkének való megfelelést szolgálja.

@@ -29,6 +29,7 @@ Az Országgyűlés annak érdekében, hogy meghatározza azokat a feltételeket,
   - db) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 185. § (2) bekezdés c) pont cf) alpontja, a Hpt. 48. § (5) bekezdése, a Hpt. 55. § (2) bekezdése szerinti felügyeleti intézkedés,
   - dc) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 128. § (1) bekezdése, a Bszt. 164. § (1) bekezdés h) és n) pontjai szerinti felügyeleti intézkedés, a Bszt. 135. § (1) bekezdése szerinti kifizetési tilalom,
   - dd) a tőkepiacról szóló 2001. évi CXX. törvény 400. § (1) bekezdés h) és j) pontjai, valamint a (4) bekezdése szerinti felügyeleti intézkedés,
+  - de) a szerkezetátalakításról szóló törvényben (a továbbiakban: Szát.) szabályozott eljárásokban a bíróság által elrendelt, egyedi végrehajtási intézkedéseket felfüggesztő moratórium,
 
 amennyiben az intézkedésre jogosult hatóság az eljárását az 5. § (1) bekezdése szerint fizetést korlátozó eljárásként jelöli meg;
 
@@ -97,7 +98,13 @@ amennyiben az intézkedésre jogosult hatóság az eljárását az 5. § (1) bek
 
 bíróság vagy az intézkedésre jogosult hatóság általi közlésének időpontjával egyezik meg.
 
-(3) E törvény alkalmazásában a bíróság által hozott határozat alatt csődeljárás esetében a fizetési haladékról, valamint az ennek meghosszabbításáról rendelkező végzést, felszámolási eljárás esetében az ideiglenes vagyonfelügyelő kirendeléséről és a felszámolás elrendeléséről szóló végzést kell érteni.
+(3) E törvény alkalmazásában a bíróság által hozott határozat alatt
+
+- a) szerkezetátalakítás során az egyedi végrehajtási intézkedéseket felfüggesztő moratóriumot elrendelő bírósági végzést,
+- b) csődeljárás esetében a fizetési haladékról, valamint az ennek meghosszabbításáról rendelkező bírósági végzést,
+- c) felszámolási eljárás esetében az ideiglenes vagyonfelügyelő kirendeléséről és a felszámolás elrendeléséről szóló bírósági végzést
+
+kell érteni.
 
 (4) E törvény alkalmazásában a jogerőre emelkedés megállapítása tekintetében a bíróság soron kívül jár el.
 

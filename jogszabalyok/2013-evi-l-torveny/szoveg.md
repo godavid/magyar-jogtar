@@ -76,6 +76,11 @@ A nemzet érdekében kiemelten fontos – napjaink információs társadalmát �
 - 46. védelmi feladatok: megelőzés és korai figyelmeztetés, észlelés, reagálás, eseménykezelés;
 - 47. zárt célú elektronikus információs rendszer: a nemzetbiztonsági, honvédelmi, rendészeti, diplomáciai információs feladatok ellátását biztosító, rendeltetése szerint elkülönült elektronikus információs rendszer, amely kizárólagosan a speciális igények kielégítését, az e célra létrehozott szervezet és technika működését szolgálja;
 - 48. zárt védelem: az összes számításba vehető fenyegetést figyelembe vevő védelem.
+- 49. poszt-kvantumtitkosítás: a matematikailag valószínűsíthetően igazolható, kvantumszámítógép által megvalósított támadás ellen a hagyományos kriptográfiai alkalmazáson felüli poszt-kvantum alkalmazást, illetve megoldást nyújtó titkosítás, amely során a két végpont közötti kommunikáció felhasználásával, az adatátvitellel megosztott kulcsot hoz létre a két végfelhasználó között, anélkül, hogy a kulcsot jogosulatlan harmadik fél megismerné;
+- 50. poszt-kvantumtitkosítás alkalmazásra kötelezett szervezet: a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH) elnökének rendeletében meghatározott,
+  - a) a kormányzati célú hálózatokról szóló kormányrendelet szerinti igénybevételre kötelezett szervezet,
+  - b) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti bank, valamint
+  - c) az 1. mellékletben meghatározott törvények hatálya alá tartozó közműszolgáltató és az 1. mellékletben meghatározott törvények felhatalmazása alapján kiadott jogszabályok hatálya alá tartozó közszolgáltatást nyújtó szervezet.
 
 (2)
 
@@ -125,6 +130,8 @@ meghatározott eltérésekkel kell alkalmazni.
 
 (8) Az e törvényben szabályozott kiberbiztonsági tanúsításra, valamint a tanúsító szervezet tevékenységére nem kell alkalmazni a megfelelőségértékelő szervezetek tevékenységéről szóló törvény rendelkezéseit.
 
+(9) E törvény rendelkezéseit a poszt-kvantumtitkosítás vonatkozásában kizárólag a poszt-kvantumtitkosítás alkalmazásra kötelezett szervezetre kell alkalmazni.
+
 3. § (1) A 2. § (1) bekezdés a)–h) és j)–l) pontjában megjelölt szervek, valamint – a monetáris politika végrehajtásával és a devizatartalék kezelésével kapcsolatos kockázatértékelési és portfóliókezelési tevékenység keretében kezelt adatok kivételével – a 2. § (1) bekezdés i) pontjában megjelölt szerv által kezelt adatok és a 2. § (2) bekezdés a), b) és e) pontjában megjelölt szervezetek által kezelt, a nemzeti adatvagyon részét képező adatok Magyarország területén üzemeltetett és tárolt elektronikus információs rendszerekben, valamint honvédelmi, diplomáciai információs célokra használt zárt célú elektronikus információs rendszerben kezelhetőek.
 
 (2) A 2. § (2) bekezdés c) és d) pontjában megjelölt elektronikus információs rendszerek – az (1) bekezdésben meghatározott kivétellel – az Európai Unió tagállamai területén üzemeltethetőek.
@@ -142,7 +149,7 @@ meghatározott eltérésekkel kell alkalmazni.
 5. § Az e törvény hatálya alá tartozó elektronikus információs rendszerek teljes életciklusában meg kell valósítani és biztosítani kell
 
 - a) az elektronikus információs rendszerben kezelt adatok és információk bizalmassága, sértetlensége és rendelkezésre állása, valamint
-- b) az elektronikus információs rendszer és elemeinek sértetlensége és rendelkezésre állása
+- b) az elektronikus információs rendszer és elemeinek sértetlensége és rendelkezésre állása, a poszt-kvantumtitkosítás alkalmazásra kötelezett szervezetek esetén a fizikailag elkülönített helyszíneik közötti kormányzati célú hálózaton, továbbá a publikus internet felületen zajló, az elektronikus hírközlési törvény szerinti szolgáltató igénybevételével vagy egyéb információs társadalommal összefüggő szolgáltatásaik igénybevétele során a hagyományos kriptográfiai alkalmazáson felüli biztonságot nyújtó poszt-kvantum titkosítási alkalmazással történő
 
 zárt, teljes körű, folytonos és kockázatokkal arányos védelmét.
 
@@ -602,6 +609,40 @@ látja el.
 
 (3) A tanúsító hatóság munkatársait az (1) bekezdés szerint megismert adatok tekintetében – a jogszabályban meghatározott kivételekkel – írásba foglalt titoktartási kötelezettség terheli, amely a foglalkoztatásra irányuló jogviszony megszűnését követő 5 évig, minősített adatok tekintetében azok érvényességi idejének végéig, személyes adatok tekintetében pedig időkorlát nélkül fennmarad.
 
+### III/B. Fejezet — A POSZT-KVANTUMTITKOSÍTÁS ALKALMAZÁSÁNAK SZABÁLYAI
+
+#### 12/F. A poszt-kvantumtitkosítás alkalmazásra kötelezett szervezet védelme
+
+22/F. § A poszt-kvantumtitkosítás alkalmazásra kötelezett szervezet a jogszabályban meghatározott feladatainak ellátása körében köteles a fizikailag elkülönített helyszínei közötti kormányzati célú hálózaton, továbbá a publikus internet felületen zajló, az elektronikus hírközlési törvény szerinti szolgáltató igénybevételével vagy egyéb információs társadalommal összefüggő szolgáltatás igénybevétele esetén poszt-kvantumtitkosítás alkalmazást annak kiépítéséhez az alkalmazás nyújtására jogosult, nyilvántartásba vett szervezettől beszerezni, és a kezelésében álló hálózatain a védelmet kialakítani, annak érdekében, hogy az elektronikus úton történő információáramlás a kvantumszámítógép okozta kibertámadás ellen biztosított legyen.
+
+#### 12/G. A poszt-kvantumtitkosítás alkalmazást nyújtó szervezetre vonatkozó feltételek
+
+22/G. § (1) Kizárólag olyan szervezet nyújthat poszt-kvantumtitkosítás alkalmazást a poszt-kvantumtitkosításra kötelezett szervezet számára (a továbbiakban: poszt-kvantumtitkosítás alkalmazást nyújtó szervezet), amely
+
+- a) nemzetbiztonsági kockázatot nem jelent és
+- b) a 22/H. § szerinti követelményeknek megfelel.
+
+(2) Az (1) bekezdésben foglaltak alapján a tanúsítási eljárásban történő részvételre kizárólag olyan gazdasági szereplő jelentkezhet, amely
+
+- a) a minősített adat védelméről szóló törvényben meghatározott telephely biztonsági tanúsítvánnyal rendelkezik, valamint
+- b) a munkavállalója, alvállalkozója a minősített adat védelméről szóló törvényben meghatározott személyi biztonsági tanúsítvánnyal rendelkezik.
+
+(3) Az SZTFH nyilvántartást vezet arról az (1) bekezdés szerinti szervezetről (a továbbiakban: tanúsított szervezet), amely poszt-kvantumtitkosítás alkalmazásra vonatkozó tevékenységet a poszt-kvantumtitkosításra kötelezett felhasználó számára jogosult nyújtani.
+
+22/H. § (1) A poszt-kvantumtitkosítás alkalmazás nyújtására vonatkozó tevékenységet csak olyan szervezet végezhet, amely által használt informatikai rendszer biztosítja a rendszerelemek zártságát, és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint észrevétlen módosítását. A poszt-kvantumtitkosítás alkalmazást nyújtó szervezet informatikai rendszerének a magas információbiztonsági követelményein túl meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a poszt-kvantumtitkosítás alkalmazást nyújtó szervezetnek adminisztratív, fizikai és logikai intézkedésekkel biztosítania kell az általános információbiztonsági zártsági követelmények teljesülését.
+
+(2) Az (1) bekezdésben meghatározott követelményeknek való megfelelést a poszt-kvantumtitkosítás alkalmazást nyújtani kívánó szervezetnek a tanúsító szervezet (a továbbiakban: tanúsító szervezet) által kiadott, az informatikai rendszerre vonatkozó zártsági tanúsítással kell igazolnia, az SZTFH a tanúsító szervezetet nyilvántartásba veszi.
+
+(3) A nyilvántartásba vett tanúsító szervezet szakvéleményt bocsát ki a poszt-kvantumtitkosítás alkalmazást nyújtani kívánó szervezetnek, hogy a végpontok közötti alkalmazása kriptográfiai alkalmazáson felüli biztonságot nyújtó poszt-kvantumtitkosításra alkalmas.
+
+(4) Ha a tanúsító szervezet a tanúsított szervezet informatikai rendszerével kapcsolatosan olyan tényt állapít meg, amely a szervezet folyamatos működését kedvezőtlenül érinti vagy bűncselekmény elkövetésére, jogszabály megsértésére vagy ezek veszélyére utaló körülményeket észlel, haladéktalanul értesíti az SZTFH-t.
+
+#### 12/H. A tanúsító szervezetre vonatkozó rendelkezések
+
+22/I. § (1) A tanúsító szervezet a poszt-kvantumtitkosítás alkalmazást nyújtani kívánó szervezet, vagy a tanúsított szervezet kezelésében lévő, a tanúsítás lefolytatásához szükséges adatokat – ideértve a megismert minősített adatot, személyes adatot vagy különleges adatot, üzleti titkot, banktitkot, fizetési titkot, biztosítási titkot, értékpapírtitkot, pénztártitkot, más hivatás gyakorlásához kötött titkot – kizárólag a 22/H. § szerinti tanúsítással igazolandó követelmények teljesülésének vizsgálata céljából, a tanúsítási eljárás lefolytatásához szükséges mértékben, a tanúsítási eljárás befejezéséig jogosult kezelni, azokat harmadik személy részére nem továbbíthatja.
+
+(2) A tanúsító szervezet köteles szabályzatban rögzíteni azon munkaköröket, amelyeket betöltő személyek a tanúsítási eljárás során az üzleti titokhoz hozzáférhetnek, annak tartalmát megismerhetik. Az eljárásban részt vevő munkatársakat a tanúsítási eljárás során tudomásukra jutott üzleti titok tekintetében titoktartási kötelezettség terheli a tanúsító szervezetnél fennálló jogviszonyuk megszűnését követően is.
+
 ### IV. Fejezet — OKTATÁS-KÉPZÉS, KUTATÁS-FEJLESZTÉS
 
 23. § A Nemzeti Közszolgálati Egyetem a képzési tevékenység ellátásával összefüggésben
@@ -655,6 +696,13 @@ rendeletben határozza meg.
 - b) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a megfelelőségi önértékelésre, a tanúsítási eljárásra, valamint a megfelelőségértékelő szervezetek kötelezettségeire és azok tevékenységére vonatkozó részletes szabályokat,
 - c) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a megfelelőségértékelő szervezetek által teljesítendő követelményeket.
 
+(4) Felhatalmazást kap az SZTFH elnöke, hogy rendeletben meghatározza
+
+- a) a poszt-kvantumtitkosítás alkalmazásra kötelezett szervezeteket,
+- b) a poszt-kvantumtitkosítás alkalmazást nyújtó szervezet nyilvántartásba vételére vonatkozó részletes szabályokat,
+- c) a poszt-kvantumtitkosítás alkalmazást nyújtó szervezet informatikai rendszerelemei zártsága tanúsítására vonatkozó részletes szabályokat,
+- d) a 22/H. § szerinti tanúsítást végző szervezet nyilvántartásba vételére vonatkozó részletes szabályokat.
+
 #### 14. Hatálybalépés
 
 25. § Ez a törvény 2013. július 1-jén lép hatályba.
@@ -691,6 +739,8 @@ rendeletben határozza meg.
 
 kell számítani.
 
+26/A. § E törvénynek az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXXVI. törvénnyel megállapított 1. § (1) bekezdés 49–50. pontját, 2. § (9) bekezdését, 5. § b) pontját, valamint 22/F–22/I. §-át e rendelkezések hatálybalépését követően az SZTFH elnökének a poszt-kvantumtitkosítás alkalmazást nyújtó szervezet nyilvántartásba vételére vonatkozó részletes szabályokat tartalmazó, az 1. § (1) bekezdés 50. pontjában meghatározott szervezetekre vonatkozó rendeletei hatálybalépését követő 60. naptól kötelesek alkalmazni a rendeletekben meghatározott poszt-kvantumtitkosítás alkalmazásra kötelezett szervezetek.
+
 #### 16. Módosító rendelkezések
 
 #### 16. Az Európai Unió jogának való megfelelés
@@ -704,3 +754,14 @@ kell számítani.
 29. § Ez a törvény a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-i, (EU) 2016/1148 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 30. § Ez a törvény az ENISA-ról (az Európai Uniós Kiberbiztonsági Ügynökségről) és az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról, valamint az 526/2013/EU rendelet hatályon kívül helyezéséről (kiberbiztonsági jogszabály) című, 2019. április 17-i (EU) 2019/881 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+### 1. melléklet a 2013. évi L. törvényhez
+
+A következő törvények hatálya alá tartozó közműszolgáltató és a következő törvények felhatalmazása alapján kiadott jogszabályok hatálya alá tartozó, közszolgáltatást nyújtó szervezet minősül poszt-kvantumtitkosítás alkalmazására kötelezett szervezetnek:
+
+- 1. a földgázellátásról szóló törvény,
+- 2. a földgáz biztonsági készletezéséről szóló törvény,
+- 3. a villamos energiáról szóló törvény,
+- 4. a távhőszolgáltatásról szóló törvény,
+- 5. a víziközmű-szolgáltatásról szóló törvény, valamint
+- 6. a hulladékról szóló törvény.

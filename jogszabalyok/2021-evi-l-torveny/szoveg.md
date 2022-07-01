@@ -114,7 +114,21 @@ az egyes hatósági eljárásokat érintő egyszerűsítések érdekében szüks
 
 (5)
 
-(6)
+(6) A Kknyt. 9/D. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(3) Az ideiglenes rendszámtáblák nyilvántartása – a 2022. július 1-jét megelőzően kiadott „P” betűjelű, valamint a 2022. július 1-jétől az azonos jogosultságnak megfelelő „I” betűjelű ideiglenes rendszámtáblák kivételével – tartalmazza az ideiglenes rendszámtáblával ellátott járművek:
+
+a) alvázszámát,
+
+b) gyártmányát,
+
+c) típusát,
+
+d) színét, és
+
+e) fajtáját.
+
+(4) Az ideiglenes rendszámtáblák nyilvántartása tartalmazza a 2022. július 1-jét megelőzően kiadott „E” és „P” betűjelű, valamint a 2022. július 1-jétől kiadott azonos jogosultságnak megfelelő „I” betűjelű ideiglenes rendszámtáblák használatának korlátozására vonatkozó adatokat.”
 
 (7)
 
@@ -286,7 +300,7 @@ az egyes hatósági eljárásokat érintő egyszerűsítések érdekében szüks
 
 44. § Nem lép hatályba az ügyfelek számára adminisztratív terheket tartalmazó egyes törvények módosításáról szóló 2020. évi CLXIV. törvény
 
-- a)
+- a) 21. § (4) bekezdése,
 - b)
 
 #### 35. Záró rendelkezések

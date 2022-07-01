@@ -135,13 +135,24 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 (4) Az adatszolgáltató és a tényleges tulajdonos jogosult egyedi adatszolgáltatás keretében ingyenesen, a nyilvántartó szerv által meghatározott módon megismerni a tényleges tulajdonosi nyilvántartásban tárolt 4. § (1) bekezdés szerinti saját tényleges tulajdonosi adatait, valamint a 10. § (2) bekezdés és 11. § (2) bekezdés szerint közölt adatokat és azok rögzítésének időpontját. A tényleges tulajdonos egyedi adatszolgáltatási kérelmét – a tényleges tulajdonos meghatalmazása alapján – azon adatszolgáltató nyújtja be, amelynek tényleges tulajdonosa.
 
-(5)
+(5) Harmadik személy díj fizetése ellenében, a nyilvántartó szerv által meghatározott módon egyedi adatszolgáltatás keretében megismerheti az általa a 4. § (1) bekezdés b) pontja szerinti adatokkal meghatározott, az 1. § (1) bekezdése szerinti adatszolgáltató tényleges tulajdonosának 4. § (1) bekezdés g) pontja szerinti adatait, ide nem értve a 10. § (2) bekezdés és 11. § (2) bekezdés szerint közölt adatokat és azok rögzítésének időpontját.
 
-(6)
+(6) Harmadik személy díj fizetése ellenében egyedi adatszolgáltatás keretében, a nyilvántartó szerv által meghatározott módon adatot igényelhet a bizalmi vagyonkezelési jogviszony 4. § (1) bekezdés g) pontja szerinti tényleges tulajdonosi adataira vonatkozóan, ha az adat felhasználásának célját és az adat megismeréséhez fűződő vagy a pénzmosás és terrorizmus finanszírozása elleni küzdelemhez kapcsolódó jogos érdekét okirattal igazolja. A jogos érdek különösen igazoltnak tekintendő, ha az adatot igénylő harmadik személy és az adatigénylésben érintett bizalmi vagyonkezelési jogviszony Pmt. szerinti valamely tényleges tulajdonosa
 
-(7)
+- a) a Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozói kapcsolatban áll,
+- b) ugyanazon jogi személy vagy jogi személyiséggel nem rendelkező szervezet tényleges tulajdonosa,
+- c) szoros üzleti kapcsolatban áll, vagy
+- d) vagyonjogi perben áll.
 
-#### 9. §
+(7) A (6) bekezdésben foglalt eseteken túl, ha a bizalmi vagyonkezelési jogviszony keretében kezelt vagyon az Európai Unión kívül bejegyzett jogi személyben vagy jogi személyiség nélküli szervezetben közvetlen vagy közvetett módon – többek között bemutatóra szóló részvényeken keresztül vagy más módon – többségi befolyásra feljogosító vagyonelemet tartalmaz, harmadik személy írásbeli kérelem benyújtásával adatot igényelhet a bizalmi vagyonkezelési jogviszony 4. § (1) bekezdés g) pontja szerinti tényleges tulajdonosi adataira vonatkozóan.
+
+9. § (1) A 8. § (6) és (7) bekezdésében meghatározott esetben a harmadik személy az adatigénylés teljesítése előzetes engedélyezése iránti kérelmet nyújt be a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszterhez (a továbbiakban: miniszter).
+
+(2) A harmadik személy kérelmének tartalmaznia kell a 8. § (6) bekezdésében meghatározott felhasználási célra és a jogos érdek fennállására, valamint a 8. § (7) bekezdésében meghatározott többségi befolyásra feljogosító vagyonelemre vonatkozó összes adatot, tényt, körülményt, valamint mellékelni kell az ezeket igazoló okiratokat.
+
+(3) A miniszter a kérelem elbírálása során az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) rendelkezései szerint jár el. A miniszter a kérelem átvételét követő 30 napon belül megvizsgálja a kérelmet, és dönt a felhasználási cél és a jogos érdek, vagy a többségi befolyásra feljogosító vagyonelem fennállásáról.
+
+(4) A 8. § (6) és (7) bekezdésében meghatározott adatigénylés esetén a harmadik személy az általa benyújtott kérelemhez köteles mellékelni a miniszter által kiadott előzetes engedélyt.
 
 #### 6. Eltérések jelzése
 
@@ -170,13 +181,31 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 #### 7. Jogkövetkezmények, jogorvoslat
 
-#### 13. §
+13. § (1) A nyilvántartó szerv 14. § (1) bekezdés szerinti közzététele alapján „megbízhatatlan” minősítésű tényleges tulajdonosi adatokkal rendelkező adatszolgáltatót a szolgáltató a Pmt. 10. § (1) bekezdés b) pontja alapján magas kockázatúnak tekinti, és végrehajtja a Pmt. 16. §-a szerinti magas kockázati szintnek megfelelő ügyfél-átvilágítási intézkedéseket.
 
-#### 14. §
+(2) A nyilvántartó szerv 14. § (1) bekezdés szerinti közzététele alapján a szolgáltató megtagadja a „megbízhatatlan” minősítésű tényleges tulajdonosi adatokkal rendelkező adatszolgáltató által kezdeményezett, négymillió-ötszázezer forintot elérő összegű ügylet teljesítését.
 
-#### 15. §
+14. § (1) Ha az adatszolgáltató „megbízhatatlan” minősítésű tényleges tulajdonosi adatokkal rendelkezik, a nyilvántartó szerv az adatszolgáltató 4. § (1) bekezdés b) és d) pontjában meghatározott adatait és a „megbízhatatlan” minősítést honlapján közzéteszi.
 
-#### 16. §
+(2) Ha az adatszolgáltató 180 napot meghaladó ideig „bizonytalan” minősítésű tényleges tulajdonosi adatokkal rendelkezik, a nyilvántartó szerv az adatszolgáltató 4. § (1) bekezdés b) és d) pontjában meghatározott adatait és a „bizonytalan” minősítést honlapján közzéteszi.
+
+15. § (1) A 13. és 14. § alapján beállt jogkövetkezmények esetén az adatszolgáltató panasszal fordulhat a miniszterhez.
+
+(2) A panasz benyújtásának feltétele az adatszolgáltató számlavezetőjénél végrehajtott, a 7. § (1) bekezdés szerinti adatszolgáltatásának vagy adatmegerősítésének eredménytelensége.
+
+(3) A panasz tartalmazza
+
+- a) az adatszolgáltató 4. § (1) bekezdés a)–f) pontja szerinti azonosító adatait;
+- b) az (1) és (2) bekezdés szerinti feltételek fennállását alátámasztó tényeket és bizonyítékokat;
+- c) a tényleges tulajdonosi nyilvántartásban az adatszolgáltatóról rögzített, a 4. § (1) bekezdés g) pontja szerinti azon tényleges tulajdonosi adatát, amelynek módosítására a panasz vonatkozik;
+- d) a döntésre irányuló kérelmet, megjelölve ebben a rögzítendő tényleges tulajdonosi adatokat;
+- e) a rögzítendő tényleges tulajdonosi adatokat alátámasztó tényeket és bizonyítékokat.
+
+16. § (1) A panaszt a miniszter az Ákr. rendelkezései szerint hatósági eljárásban, annak beérkezésétől számított 30 napon belül bírálja el.
+
+(2) Ha a panasz hiányos, a miniszter – a panasz beérkezésétől számított 15 napon belül – 15 napos határidő tűzésével az adatszolgáltatót hiánypótlásra szólítja fel.
+
+(3) Ha a miniszter a panasznak helyt ad, utasítja a nyilvántartó szervet az adatszolgáltató által a panaszban kérelmezett adatmódosítás elvégzésére és az adatokhoz tartozó TT index 10 pontra módosítására.
 
 #### 8. Kapcsolat az Európai Unió tagállamainak központi nyilvántartásaival
 
@@ -410,7 +439,9 @@ a végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 30. §
 
-#### 31. §
+31. § A Pmt. 10. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) Az ügyfél kockázati szintjének megállapítása érdekében a szolgáltató figyelembe veszi az Afad-törvény 14. § (1) bekezdése alapján az ügyfélről közzétett adatokat és azok minősítését.”
 
 #### 32. §
 

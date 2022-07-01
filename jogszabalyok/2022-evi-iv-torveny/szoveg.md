@@ -170,19 +170,29 @@ egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szól�
 
 #### 24. Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosítása
 
-56. §
+56. § Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 62. §-a a következő (1h) bekezdéssel egészül ki:
+
+„(1h) Felhatalmazást kap a Kormány, hogy
+
+a) az 59/A. §-ban,
+
+b) az 59/B. § (4) bekezdésében és
+
+c) az 59/C. § (1) bekezdésében
+
+meghatározott szervezetet rendeletben jelölje ki.”
 
 57. § Az Étv.
 
 - a)
-- b)
-- c)
-- d)
-- e)
-- g)
-- h)
-- i)
-- j)
+- b) 59/A. §-ában az „az állam 100%-os tulajdonában álló Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság” szövegrész helyébe az „a Kormány által rendeletben kijelölt szervezet”,
+- c) 59/B. § (4) bekezdésében az „az állam 100%-os tulajdonában álló Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság” szövegrész helyébe az „a Kormány által rendeletben kijelölt szervezet”,
+- d) 59/C. § (1) bekezdésében az „a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság” szövegrész helyébe az „a Kormány által rendeletben kijelölt szervezet”,
+- e) 59/C. § (3) bekezdésében a „Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság részére, amelyet a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság továbbszolgáltathat” szövegrész helyébe az „az (1) bekezdés szerinti, a Kormány által rendeletben kijelölt szervezet részére, amelyet e szervezet továbbszolgáltathat”,
+- g) 59/C. § (4) bekezdésében az „a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság” szövegrész helyébe az „az (1) bekezdés szerinti, a Kormány által rendeletben kijelölt szervezet”,
+- h) 59/C. § (6) bekezdésében az „A Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság” szövegrész helyébe az „Az (1) bekezdés szerinti, a Kormány által rendeletben kijelölt szervezet”,
+- i) 59/C. § (8) bekezdésében az „a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság” szövegrész helyébe az „az (1) bekezdés szerinti, a Kormány által rendeletben kijelölt szervezet”,
+- j) 62. § (1) bekezdés 37. pontjában a „Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság” szövegrész helyébe az „az 59/C. § (1) bekezdése szerinti, a Kormány által rendeletben kijelölt szervezet”
 
 szöveg lép.
 
@@ -294,7 +304,13 @@ szöveg lép.
 
 #### 49. A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosítása
 
-87. § (1)
+87. § (1) A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. § (2) bekezdése a következő d) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy)
+
+„d) a 31. § (7) bekezdése szerinti szervezetet”
+
+(rendeletben kijelölje.)
 
 (2)
 
@@ -302,9 +318,9 @@ szöveg lép.
 
 - a)
 - b)
-- c)
-- d)
-- e)
+- c) 31. § (7) bekezdés nyitó szövegrészében az „A Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság” szövegrész helyébe az „a Kormány által rendeletben kijelölt szervezet”,
+- d) 81. § (2) bekezdés b) pontjában az „intézményt, valamint” szövegrész helyébe az „intézményt,”,
+- e) 81. § (2) bekezdés c) pontjában a „szervet” szövegrész helyébe a „szervet, valamint”,
 - f)
 
 szöveg lép.
@@ -563,27 +579,181 @@ szöveg lép.
 
 162. §
 
-#### 101.
+#### 101. A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény módosítása
 
-163. §
+163. § A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény (a továbbiakban: Külszolgtv.) 3. § (1) bekezdése a következő e) ponttal egészül ki:
 
-164. §
+(Külképviselet)
 
-165. §
+„e) Magyarország kulturális intézeteként”
 
-166. §
+(működhet)
 
-167. §
+164. § A Külszolgtv. 5. §-a a következő e) ponttal egészül ki:
 
-168. §
+[A külképviselet irányítását a külpolitikáért felelős miniszter, vezetését]
 
-169. §
+„e) a kulturális intézet igazgatója”
 
-170. §
+[(a továbbiakban együtt: külképviselet-vezető) látja el.]
 
-171. §
+165. § A Külszolgtv. 11. § (1) bekezdése helyébe a következő rendelkezés lép, és a Külszolgtv. 11. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
 
-172. §
+„(1) A kihelyezésre kerülő személy – alapvető európai uniós elemeket is tartalmazó – külügyi felkészítését a külpolitikáért felelős miniszter, a részben vagy egészben európai uniós feladatokat magában foglaló munkakörök betöltéséhez szükséges átfogó európai uniós felkészítését az európai uniós ügyek koordinációjáért felelős miniszter irányítja.
+
+(1a) A kulturális intézet igazgatója és a kulturális intézetben tartós külszolgálatot teljesítő diplomata szakmai felkészítése a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter bevonásával történik.
+
+(1b) Az oktatási és kulturális feladatot ellátó diplomaták, valamint a tudományos és technológiai feladatot ellátó diplomaták szakmai felkészítése és szakmai irányítása a feladat- és hatáskörében érintett miniszter bevonásával történik.”
+
+166. § A Külszolgtv. 15. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A munkakörébe tartozó feladatai alapján kizárólag vagy elsődlegesen európai uniós kérdésekért felelős diplomata az európai uniós ügyek koordinációjáért felelős miniszter egyetértésével helyezhető ki tartós külszolgálatra.”
+
+167. § A Külszolgtv. 35/C. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) A (2) bekezdéstől eltérően a 3. mellékletben meghatározott adatokat, valamint az adatokban bekövetkező változásokat – a változás bekövetkeztétől számított 15 napon belül – a kulturális intézethez tartós külszolgálatra kihelyezett kormánytisztviselő, valamint a 10. § (1) bekezdése szerinti pályázó köteles a kulturális intézet irányítását a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszternek bejelenteni.”
+
+168. § A Külszolgtv. az 56. §-t követően a következő III/A. Fejezettel egészül ki:
+
+„III/A. FEJEZET
+
+A KULTURÁLIS INTÉZETRE VONATKOZÓ ELTÉRŐ RENDELKEZÉSEK
+
+19a. A kulturális intézet jogállása, irányítása, működtetése
+
+56/A. § (1) A kulturális intézet különleges külképviselet, amelynek elsődleges feladata
+
+a) a magyar kultúra – ideértve a határon túli magyar kultúrát is – eredményeinek népszerűsítése,
+
+b) a külföldi Magyarország- és magyarságkép pozitív formálásában való közreműködés,
+
+c) a magyarság kulturális értékei, hagyományai és kapcsolatai ápolásának előmozdítása,
+
+d) a határon túli magyarok és az anyaország közötti kulturális kapcsolatok ápolásában való közreműködés, a magyar nemzeti identitás megőrzésének elősegítése, és
+
+e) a magyar nyelv és a magyarság megismertetésének elősegítése a külföldi állampolgárok körében.
+
+(2) A kulturális intézetek költségvetése a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által vezetett minisztérium költségvetési fejezetében önálló címet képez. A kulturális intézetek költségvetésének tervezésével, az előirányzatok átcsoportosításával és a beszámoló jóváhagyásával kapcsolatos feladatokat a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter látja el.
+
+(3) Az 5. §-tól eltérően a kulturális intézet irányítását a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter látja el.
+
+(4) A kulturális intézet funkcionális működtetéséről a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter gondoskodik azzal, hogy az informatikai rendszer üzemeltetésével, a biztonsági, biztonságtechnikai és titkos ügykezelési tevékenységgel, valamint az ingatlanok üzemeltetésével kapcsolatos feladatok ellátását a külpolitikáért felelős miniszter útján biztosítja.
+
+(5) A kulturális intézet szervezetére és működésére vonatkozó szabályokat a külképviselet-vezető javaslatára a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter normatív utasításban adja ki.
+
+(6) A kulturális intézet kulturális, oktatási és tudományos tevékenysége körében a fogadó ország előzetes hozzájárulása – amennyiben arra szükség van –, és a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter előzetes engedélye alapján, a hozzájárulásban, illetve az engedélyben meghatározott keretek között vállalkozási tevékenységet folytathat. A vállalkozási tevékenységhez kapcsolódó bevételekkel és kiadásokkal a külképviselet-vezető az előirányzatok felhasználásának általános szabályai alapján számol el a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által vezetett minisztérium hivatali szervezetének vezetője felé.
+
+19b. A kulturális intézetnél teljesített tartós külszolgálattal kapcsolatos egyes rendelkezések
+
+56/B. § (1) A kulturális intézethez kihelyezett tisztségviselő esetében a 19. §-ban foglalt, áthelyezéssel kapcsolatos rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a más külképviseletre való áthelyezés alatt a más kulturális intézethez történő áthelyezést kell érteni.
+
+(2) A kulturális intézet tekintetében a 28. § (1) bekezdése nem alkalmazható.
+
+(3) A 6. §-tól, a 9. § (2) bekezdésétől és a 9/A § (2) bekezdésétől eltérően a kulturális intézet vezetője
+
+a) a külképviselet tagjai tekintetében gondoskodik a nemzetközi jogi normák, valamint a fogadó állam és Magyarország jogszabályai és egyéb normái betartásáról és az azoknak megfelelő külképviseleti működésről, továbbá azok megsértése esetén gondoskodik a jogsértés kivizsgálásáról és megteszi a jogkörébe tartozó egyéb szükséges intézkedéseket,
+
+b) írásban – a kormányzati igazgatásról szóló törvénnyel, valamint a munka törvénykönyvéről szóló törvénnyel és a fogadó állam munkajogi szabályozásával összhangban – meghatározza a külképviselet munkarendjét és a munkavégzés különleges szabályait,
+
+c) gyakorolja a diplomaták, valamint az adminisztratív és technikai személyzet tekintetében a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által átruházott munkáltatói jogokat,
+
+d) a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által átruházott hatáskörben munkaszerződést köt a külképviselet által foglalkoztatott munkavállalóval, valamint a külképviselet által foglalkoztatott házastárssal, és gyakorolja felette a munkáltatói jogokat,
+
+e) a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által meghatározott körben dönt a külképviselet feladatkörébe tartozó ügyekben,
+
+f) a kihelyező vezető által meghatározott keretek között irányítja, ellenőrzi a külképviselet működését, felelősséggel tartozik, különösen a külképviselet eszközeivel és pénzügyi forrásaival való jogszerű gazdálkodásért a rendelkezésre álló költségvetési kereteken belül, valamint a folyamatba épített, illetve időszakonkénti ellenőrzésért,
+
+g) folyamatosan ellenőrzi a külképviselet tagjainak munkavégzését,
+
+h) a külképviselet tevékenységéről és működéséről folyamatosan beszámol a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszternek,
+
+i) ellátja a jogszabályban és a kihelyezési okiratban, valamint a munkaköri leírásban meghatározott további feladatokat.
+
+(4) A 15. § (1) bekezdésétől eltérően kulturális intézetbe a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által vezetett minisztérium kormánytisztviselője helyezhető ki tartós külszolgálatra a kihelyező vezető döntése szerint. A kihelyezett felett a munkáltatói jogokat a kihelyező vezető gyakorolja.
+
+(5) A 17. § (2) bekezdésétől eltérően, a kulturális intézetbe kihelyezettek esetében, a tartós külszolgálat megállapított időtartama hivatali érdekből, valamint különös méltánylást érdemlő ok miatt, a kihelyezett egyetértésével meghosszabbítható.
+
+(6) A 19. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a kulturális intézetbe kihelyezettek ideiglenes kiküldetésére vonatkozó szabályokat a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter állapítja meg rendeletben.
+
+(7) A 20. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a kulturális intézetbe kihelyezettek esetében a 20. § (3) bekezdés d) pontjában foglalt nemzetközi jogi ok fennállása tekintetében a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter dönt.
+
+(8) A 12. § (1) bekezdésétől eltérően a kulturális intézetben diplomáciai feladatokat ellátó kormánytisztviselőnek a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter adományozza a diplomáciai rangot, a külpolitikáért felelős miniszterrel történő egyeztetést követően.
+
+19c. A kihelyezendő személyek felkészítése és irányítása, a kihelyező okirat
+
+56/C. § (1) A 10. § (1) bekezdésétől eltérően a kulturális intézet tekintetében az adminisztratív és technikai, valamint a diplomata-álláshelyet pályázat útján a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter hirdeti meg.
+
+(2) A miniszter hivatali érdekéből kivételesen az (1) bekezdés szerinti pályázat mellőzésével, kijelölés útján is dönthet a diplomata, valamint az adminisztratív és technikai álláshely betöltéséről.
+
+(3) A 10. § (3) bekezdésétől eltérően a pályáztatással összefüggő részletes szabályokat a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter határozza meg.
+
+(4) A 22. § (2) bekezdésétől eltérően a kihelyezésre vonatkozó okiratnak nem kell tartalmaznia a biztonsági szolgálat ellátására vonatkozó kötelezettséget.
+
+19d. Járandóságok
+
+56/D. § (1) A kulturális intézet igazgatója, valamint a kulturális intézetben tartós külszolgálatot teljesítő diplomata rangjának megfelelő illetményt a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter állapítja meg.
+
+(2) A kulturális intézetek tekintetében a 23. § (8) bekezdése szerinti deviza-alapilletmény meghatározásával, valamint a 24. § (2) bekezdésében meghatározott kategóriába sorolással kapcsolatos rendeletalkotási feladatokat a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter látja el azzal, hogy a külpolitikai viszonyrendszerben elfoglalt hely alatt a kulturális diplomáciai viszonyrendszerben elfoglalt helyet kell érteni.
+
+(3) A kulturális intézetek tekintetében – a 25. § (12) bekezdésétől eltérően – a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által vezetett minisztérium a kulturális intézet igazgatója részére lakhatási költségtérítést biztosít.
+
+(4) A 26. § (2) bekezdés b) pontjától eltérően az életminőség szerinti besorolást a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter végzi el.”
+
+169. § (1) A Külszolgtv. 59. § (1) bekezdése a következő f) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy)
+
+„f) a kulturális intézet irányításának”
+
+(részletes szabályait rendeletben állapítsa meg.)
+
+(2) A Külszolgtv. 59. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) Felhatalmazást kap a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter, hogy a külföldi magyar kulturális intézetek tekintetében
+
+a) a kihelyezés szakmai követelményeinek és azok teljesítésének,
+
+b) a tartós külszolgálatát teljesítő kihelyezett, valamint a külképviselet által foglalkoztatott házastárs harmadik országban történő ideiglenes kiküldetése teljesítésének,
+
+c) a kulturális intézet kulturális diplomáciai viszonyrendszerben elfoglalt helye, az élhetőség szempontjából való besorolását tartalmazó, összesített, külképviseleti besorolási szorzót, valamint a devizailletmény és a költségtérítés számításának e törvényben nem rendezett,
+
+d) a költségtérítés-szorzók,
+
+e) a pályáztatás,
+
+f) a költségvetésről szóló törvény kihirdetésétől számított 45 napon belül az ENSZ-szorzóval korrigált, a következő költségvetési évre vonatkozó, az ENSZ által a költségvetés tervezésének évében először közzétett szorzószámok figyelembevételével megállapított deviza-alapilletmények,
+
+g) a kihelyezett munkarendjének, valamint a rendkívüli munkavégzés, az ügyelet és a készenlét elrendelésének, nyilvántartásának és elszámolásának, továbbá a szabadság kiadásának,
+
+h) a kizárólag gépkocsivásárlás céljára nyújtható kölcsön,
+
+i) a külképviselet által foglalkoztatott házastárs foglalkoztatásának
+
+részletes szabályait rendeletben állapítsa meg.”
+
+170. § A Külszolgtv. 1. melléklete az 1. melléklet szerint módosul.
+
+171. § A Külszolgtv.
+
+- a) 1. § (1) bekezdésében a „kereskedelmi képviseleteire” szövegrész helyébe a „kereskedelmi képviseleteire és – a III/A. Fejezetben foglalt eltérésekkel – külföldi magyar kulturális intézeteire (a továbbiakban: kulturális intézet)”,
+- b) 2. § (4) pontjában és 2. § 18. pontjában az „a külpolitikáért felelős miniszter” szövegrész helyébe az „a külpolitikáért felelős miniszter, a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter”,
+- c) 2. § 11. pontjában az „a külpolitikáért, illetve az EU ÁK esetében az európai uniós ügyek koordinációjáért felelős miniszter” szövegrész helyébe az „a külpolitikáért, illetve az EU ÁK esetében az európai uniós ügyek koordinációjáért – a külföldi magyar kulturális intézet (a továbbiakban: kulturális intézet) esetében a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért – felelős miniszter”,
+- d) 2. § 12. pontjában az „a külpolitikáért felelős miniszter” szövegrész helyébe az „a külpolitikáért felelős miniszter és – a kulturális intézet tekintetében – a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter”,
+- e) 2. § 14. pontjában az „– az EU ÁK esetében az európai uniós ügyek koordinációjáért –” szövegrész helyébe az „– az EU ÁK esetében az európai uniós ügyek koordinációjáért, a kulturális intézet esetében a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter –”,
+- f) 5. § nyitó szövegrészében a „külpolitikáért felelős miniszter” szövegrész helyébe a „külpolitikáért felelős miniszter vagy az e törvényben meghatározott esetben más miniszter”,
+- g) 35/C. § (1) bekezdésében és 3. mellékletének címében a „valamint az európai uniós ügyek koordinációjáért felelős miniszter” szövegrész helyébe az „az európai uniós ügyek koordinációjáért felelős miniszter, valamint a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter”,
+- h) IV. Fejezet címében az „a konzuli és a kereskedelmi” szövegrész helyébe az „a konzuli, a kereskedelmi és a kulturális”,
+- i) 57. § (1) bekezdésében a „konzuli és kereskedelmi” szövegrész helyébe a „konzuli, kereskedelmi és kulturális”,
+- j) 57. § (2) bekezdésében az „a konzuli, vagy kereskedelmi” szövegrész helyébe az „a konzuli, kereskedelmi vagy kulturális,
+- k) 57. § (4) bekezdésében az „a konzuli vagy kereskedelmi” szövegrész helyébe „az a konzuli, kereskedelmi vagy kulturális”
+
+szöveg lép.
+
+172. § Hatályát veszíti a Külszolgtv.
+
+- a) 3. § (3) bekezdése,
+- b) 23. § (10) bekezdése,
+- c) 34. §-a.
 
 #### 102. Az ENSZ Éghajlatváltozási Keretegyezményben Részes Feleinek 21. Konferenciáján elfogadott Párizsi Megállapodás kihirdetéséről szóló 2016. évi L. törvény módosítása
 

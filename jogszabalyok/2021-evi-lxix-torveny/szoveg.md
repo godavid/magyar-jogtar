@@ -93,13 +93,43 @@ egyes adótörvények módosításáról
 
 #### 3. Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény módosítása
 
-25. §
+25. § Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) 23. §-a helyébe a következő rendelkezés lép:
 
-26. §
+„23. § Szintén termék Közösségen belüli ellenérték fejében teljesített beszerzése, ha
+
+a) Magyarország Észak-atlanti Szerződés-beli tagságával összefüggésben terméket továbbítanak belföldre, amelyet a honvédelemért felelős miniszter által vezetett minisztérium, a Magyar Honvédség, és ezek polgári állománya részére a Közösség más tagállamában – nem az ott érvényes általános adózási szabályok szerint – szereznek be, feltéve, hogy a termékre – annak importja esetében – nem vonatkozna a 93. § (1) bekezdésének h) pontja szerinti adómentesség, vagy
+
+b) Magyarországnak a közös biztonság- és védelempolitika keretében folytatott uniós tevékenység végrehajtása céljából végzett védelmi feladat ellátásával összefüggésben terméket továbbítanak belföldre, amelyet a Magyar Honvédség, és ezek polgári állománya részére a Közösség más tagállamában – nem az ott érvényes általános adózási szabályok szerint – szereznek be, feltéve, hogy a termékre – annak importja esetében – nem vonatkozna a 93. § (1) bekezdésének g) pont gc) alpontja szerinti adómentesség.”
+
+26. § Az Áfa tv. 93. § (1) bekezdés g) pontja a következő gc) alponttal egészül ki:
+
+[Mentes az adó alól:
+
+g) a termék importja]
+
+„gc) a Közösség Magyarországtól eltérő tagállamának fegyveres ereje által, ha az a fegyveres erő, illetve az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátására szolgál, és e fegyveres erő a közös biztonság- és védelempolitika keretében folytatott uniós tevékenység végrehajtása céljából végzett védelmi feladat ellátásában vesz részt.”
 
 27. §
 
-28. §
+28. § (1) Az Áfa tv. 107. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+(Mentes az adó alól a termék értékesítése, szolgáltatás nyújtása abban az esetben, ha az)
+
+„c) az alábbiaknak megfelelően:
+
+ca) az Észak-atlanti Szerződés tagállamának belföldön állomásozó fegyveres ereje – ide nem értve a Magyar Honvédséget – részére történik, feltéve, hogy az a közös védelmi erőfeszítés keretében a fegyveres erő, illetve az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátására szolgál;
+
+cb) a Közösség Magyarországtól eltérő tagállamának belföldön állomásozó fegyveres ereje részére történik, és az a fegyveres erő vagy az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátására szolgál, valamint e fegyveres erők a közös biztonság- és védelempolitika keretében folytatott uniós tevékenység végrehajtása céljából végzett védelmi feladat ellátásában vesznek részt;”
+
+(2) Az Áfa tv. 107. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+
+(Mentes az adó alól a termék értékesítése, szolgáltatás nyújtása abban az esetben, ha az)
+
+„d) az alábbiaknak megfelelően:
+
+da) belföldön kívül az Észak-atlanti Szerződés valamely más tagállamában állomásozó fegyveres erő részére történik, ideértve az ott állomásozó összes fegyveres erőt, de ide nem értve e tagállam saját fegyveres erejét, feltéve, hogy az a közös védelmi erőfeszítés keretében a fegyveres erő, illetve az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátására szolgál;
+
+db) a Közösség másik tagállamába irányul, a rendeltetési hely szerinti tagállamtól eltérő tagállam fegyveres ereje részére történik, és az a fegyveres erő vagy az azt kísérő polgári állomány használatára, vagy éttermük, kantinjuk ellátására szolgál, valamint e fegyveres erők a közös biztonság- és védelempolitika keretében folytatott uniós tevékenység végrehajtása céljából végzett védelmi feladat ellátásában vesznek részt.”
 
 29. §
 
@@ -113,7 +143,11 @@ egyes adótörvények módosításáról
 
 34. § (1)
 
-(2)
+(2) Az Áfa tv. 268. § a következő l) ponttal egészül ki:
+
+(Ez a törvény – az Art.-vel együtt – a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+
+„l) a Tanács (EU) 2019/2235 irányelve (2019. december 16.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek és a jövedéki adóra vonatkozó általános rendelkezésekről szóló 2008/118/EK irányelvnek az uniós keretben végzett védelmi feladatok tekintetében történő módosításáról.”
 
 (3)
 
@@ -183,7 +217,11 @@ egyes adótörvények módosításáról
 
 45. § (1)
 
-(2)
+(2) A Jöt. 9. § (1) bekezdése a következő o) ponttal egészül ki:
+
+(Mentesül az adófizetési kötelezettség alól)
+
+„o) az adóraktár engedélyese és a jövedéki terméket átvevő adómentességre jogosult a tagállam közös biztonság- és védelempolitika keretében folytatott uniós tevékenység végrehajtása céljából végzett védelmi feladat ellátásában részt vevő fegyveres erői – kivéve az adóraktár helye szerinti tagállam fegyveres erejét –, polgári állománya és étterme, kantinja részére átadott jövedéki termékre.”
 
 (3)
 
@@ -211,7 +249,15 @@ egyes adótörvények módosításáról
 
 57. §
 
-58. §
+58. § A Jöt. 53. § (1) bekezdés d) pontja a következő dd) alponttal egészül ki:
+
+(Jövedéki terméket az Európai Unió területén adófelfüggesztési eljárás keretében szállíthat – ideértve azt az esetet is, ha a terméket harmadik országon keresztül szállítják – az adóraktár engedélyese adóraktárból vagy bejegyzett feladó az importálás helyéről
+
+másik tagállambeli)
+
+„dd) a tagállam közös biztonság- és védelempolitika keretében folytatott uniós tevékenység végrehajtása céljából végzett védelmi feladat ellátásában részt vevő fegyveres erői – kivéve az adóraktár helye szerinti tagállam fegyveres erejét –, polgári állománya és étterme, kantinja”
+
+(számára.)
 
 59. § (1)
 
@@ -239,18 +285,18 @@ egyes adótörvények módosításáról
 
 64. § A Jöt.
 
-- a)
+- a) 3. § (1) bekezdés 38. pontjában a „da)–dc)” szövegrész helyébe a „da)–dd)” szöveg,
 - b)
 - c)
 - d)
-- e)
+- e) 13. § (6) bekezdésében a „kantinját,” szövegrész helyébe a „kantinját, a tagállam közös biztonság- és védelempolitika keretében folytatott uniós tevékenység végrehajtása céljából végzett védelmi feladat ellátásában részt vevő fegyveres erejét, polgári állományát és éttermét, kantinját,” szöveg,
 - f)
 - g)
 - h)
 - i)
 - j)
 - k)
-- l)
+- l) 112. § (2) bekezdés nyitó szövegrészében az „n) pontja” szövegrész helyébe az „n) és o) pontja” szöveg
 
 lép.
 
@@ -318,7 +364,9 @@ lép.
 
 81. §
 
-82. §
+82. § A Szocho tv. 17. alcíme címe helyébe a következő alcím cím lép:
+
+„17. A 10–16. § szerinti adókedvezmények közös szabályai”
 
 83. §
 

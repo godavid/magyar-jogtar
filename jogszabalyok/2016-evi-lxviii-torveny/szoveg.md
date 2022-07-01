@@ -85,7 +85,7 @@ jogosult személy;
   - b) magánszemély által adózott vagy az adófizetési kötelezettség alól mentesült sörből, csendes és habzóborból, egyéb csendes és habzó erjesztett italból, köztes alkoholtermékből és alkoholtermékből az előállító, családtagjai vagy vendégei fogyasztása céljából előállított jövedéki termék;
 - 36. légiutas-ellátási tevékenység: a nem magáncélú légiközlekedési tevékenységet végző, a nemzetközi légiforgalomban részt vevő légijárművek fedélzetéről, az utasok részére felszolgálásra vagy értékesítésre szánt jövedéki termékek utántöltési célú levétele, ideiglenes tárolása, és 15 napon belül nem magáncélú légiközlekedési tevékenységet végző, a nemzetközi légiforgalomban részt vevő légijármű fedélzetére történő felvitele, amennyiben a levételt, a tárolást és a felvitelt a gazdálkodó a végrehajtási rendeletben előírt módon igazolja;
 - 37. magánszemély: a jövedéki termékkel gazdasági tevékenységet nem folytató természetes személy;
-- 38. mentesített szervezet: az 53. § (1) bekezdés d) pont da)–dc) alpontja szerinti szervezet;
+- 38. mentesített szervezet: az 53. § (1) bekezdés d) pont da)–dd) alpontja szerinti szervezet;
 - 39. nem magáncélú légiközlekedési tevékenység: a légiközlekedésről szóló törvény szerinti légiközlekedési tevékenység a légijármű sport-, valamint magáncélú alkalmazása és a vállalati célú légiközlekedés kivételével;
 - 40. nemzetközi szervezet tagja: a magyar állampolgárt vagy az állandó belföldi tartózkodásra jogosult személyt kivéve
   - a) az a természetes személy, akit a nemzetközi szervezetet létrehozó vagy a nemzetközi szervezet székhelyegyezményéről szóló és jogszabályban kihirdetett nemzetközi szerződésben meghatározottak szerint az adók alóli mentesség személyében megilleti, feltéve, hogy az illetőt a fogadó állam arra jogosított hatósága ilyen minőségében elismeri, továbbá
@@ -395,6 +395,7 @@ terheli.
 - l) az adóraktár engedélyese az adóraktárban adófelfüggesztési eljárás keretében tárolt, ETBE-előállítás céljára felhasznált jövedéki termékre.
 - m) az adóraktár engedélyese a belföldön előállított és külföldre kiszállított dohányzást helyettesítő nikotintartalmú termékre.
 - n) az adóraktár engedélyese és a jövedéki terméket átvevő adómentességre jogosult az Észak-atlanti Szerződésben részes állam fegyveres erői – kivéve az adóraktár helye szerinti tagállam fegyveres erejét –, polgári állománya és étterme, kantinja részére, valamint a törvényben kihirdetett nemzetközi szerződés alapján a szerződésben részes, az adó alól mentesített állam fegyveres erői – kivéve az adóraktár helye szerinti tagállam fegyveres erejét –, polgári állománya részére átadott jövedéki termékre.
+- o) az adóraktár engedélyese és a jövedéki terméket átvevő adómentességre jogosult a tagállam közös biztonság- és védelempolitika keretében folytatott uniós tevékenység végrehajtása céljából végzett védelmi feladat ellátásában részt vevő fegyveres erői – kivéve az adóraktár helye szerinti tagállam fegyveres erejét –, polgári állománya és étterme, kantinja részére átadott jövedéki termékre.
 
 (2) A jövedéki termék teljes megsemmisülését vagy helyrehozhatatlan károsodását az állami adó- és vámhatóság igazolja, ha az (1) bekezdés f)–g) pontja szerinti személy kérésére az általa bemutatott bizonyítékok alapján megállapítható, hogy a teljes megsemmisülés vagy a helyrehozhatatlan károsodás belföldön következett be, vagy ha ez nem állapítható meg, de a teljes megsemmisülést vagy a helyrehozhatatlan károsodást belföldön fedezték fel.
 
@@ -478,7 +479,7 @@ után jogosult a megfizetett adó visszaigénylésére.
 
 (5) A diplomáciai és konzuli képviselet tagja és a nemzetközi szervezet tagja üzemanyag – kivéve az üzemanyag célra beszerzett és felhasznált földgázt és villamos energiát – tekintetében – törvényben kihirdetett nemzetközi szerződés eltérő rendelkezése hiányában – legfeljebb 2000 liter/év vagy kg/év mennyiség után jogosult a megfizetett adó visszaigénylésére.
 
-(6) Az Észak-atlanti Szerződésben részes állam fegyveres erejét, polgári állományát és éttermét, kantinját, vagy a törvényben kihirdetett nemzetközi szerződés alapján a szerződésben részes más állam fegyveres erejét, polgári állományát megillető adó-visszaigénylési jogosultságot a Magyar Honvédség képviselőjeként a Magyar Honvédség pénzügyi és számviteli feladatokat ellátó szerve gyakorolja, ha a termékbeszerzés a Magyar Honvédség adózott termékkészletéből történt.
+(6) Az Észak-atlanti Szerződésben részes állam fegyveres erejét, polgári állományát és éttermét, kantinját, a tagállam közös biztonság- és védelempolitika keretében folytatott uniós tevékenység végrehajtása céljából végzett védelmi feladat ellátásában részt vevő fegyveres erejét, polgári állományát és éttermét, kantinját, vagy a törvényben kihirdetett nemzetközi szerződés alapján a szerződésben részes más állam fegyveres erejét, polgári állományát megillető adó-visszaigénylési jogosultságot a Magyar Honvédség képviselőjeként a Magyar Honvédség pénzügyi és számviteli feladatokat ellátó szerve gyakorolja, ha a termékbeszerzés a Magyar Honvédség adózott termékkészletéből történt.
 
 ### III. Fejezet — ENGEDÉLYEK
 
@@ -1068,6 +1069,7 @@ jelenti be az állami adó- és vámhatóságnak.
   - da) diplomáciai és konzuli képviselet és annak tagjai,
   - db) nemzetközi szervezet és annak tagjai – a nemzetközi egyezményekben vagy székhely egyezményekben foglaltak szerint adómentesként meghatározott fogyasztás erejéig –,
   - dc) az Észak-atlanti Szerződésben részes állam fegyveres erői – kivéve az adóraktár helye szerinti tagállam fegyveres erejét –, polgári állománya és étterme, kantinja
+  - dd) a tagállam közös biztonság- és védelempolitika keretében folytatott uniós tevékenység végrehajtása céljából végzett védelmi feladat ellátásában részt vevő fegyveres erői – kivéve az adóraktár helye szerinti tagállam fegyveres erejét –, polgári állománya és étterme, kantinja
 
 számára.
 
@@ -1983,7 +1985,7 @@ használ fel.
 
 - d)
 
-(2) A repülőgép-üzemanyagot az (1) bekezdés a) pontja, valamint a 9. § (1) bekezdés n) pontja szerint kiszolgáló adóraktár részének tekintendő
+(2) A repülőgép-üzemanyagot az (1) bekezdés a) pontja, valamint a 9. § (1) bekezdés n) és o) pontja szerint kiszolgáló adóraktár részének tekintendő
 
 - a) a kiszolgálást végző tartályautó,
 - b) – ha az adóraktár engedélyese a Magyar Honvédség vagy a rendőrség – az adóraktár területén kívül található üzemanyagtöltő pont és az azt ellátó tartályautó.

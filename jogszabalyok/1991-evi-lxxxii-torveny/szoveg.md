@@ -10,7 +10,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 1. § (1) A magyar hatósági rendszámtáblával ellátott gépjármű, pótkocsi, valamint Magyarország területén közlekedő, külföldön nyilvántartott tehergépjármű (a továbbiakban együtt: gépjármű) után gépjárműadót, míg a nem kizárólag magánhasználatú személygépkocsi után – a gépjárműadó fizetési kötelezettségtől függetlenül – a IV. fejezet szerinti adót (cégautóadó) kell fizetni.
 
-(2) E törvény hatálya nem terjed ki a magyar hatósági rendszámtáblával ellátott mezőgazdasági vontatóra, a lassú járműre és a lassú jármű pótkocsijára, a négykerekű segédmotoros kerékpárra, a külön jogszabály szerinti „méhesházas” gépjárműre, a munkagépre, a CD, a CK, a DT, az OT és a Z betűjelű rendszámtáblával ellátott gépjárműre, valamint a külföldön nyilvántartott tehergépjárművek közül azokra, amelyek az Európai Unió valamely tagállamában vannak nyilvántartva.
+(2) E törvény hatálya nem terjed ki a magyar hatósági rendszámtáblával ellátott mezőgazdasági vontatóra, a lassú járműre és a lassú jármű pótkocsijára, a négykerekű segédmotoros kerékpárra, a külön jogszabály szerinti „méhesházas” gépjárműre, a munkagépre, a CD, az OT és Z betűjelű rendszámtáblával ellátott gépjárműre, a kiviteli célú gépjárműre, valamint a külföldön nyilvántartott tehergépjárművek közül azokra, amelyek az Európai Unió valamely tagállamában vannak nyilvántartva.
 
 #### II.
 
@@ -32,15 +32,15 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 (5) Gépjármű tulajdonátruházása esetén, ha a tulajdonátszállással érintett felek egyike sem tesz eleget a külön jogszabály által meghatározott bejelentési kötelezettségének, akkor a tulajdonátszállás bejelentése évének utolsó napjáig az (1) bekezdés szerinti tulajdonos az adó alanya.
 
-(6) Az adó alanya az ,,E'' és ,,P'' betűjelű ideiglenes rendszámtáblával ellátott gépjármű esetén az, akinek/amelynek a nevére a rendszámtáblát az eljáró hatóság kiadta.
+(6) Az adó alanya az ideiglenesen forgalomban tartott gépjármű és a próbajármű esetén az, akinek/amelynek a nevére a rendszámtáblát az eljáró hatóság kiadta.
 
 (7) Az adóévre járó adót az adóalany köteles megfizetni.
 
 ### Az adókötelezettség keletkezése
 
-3. § (1) Az adókötelezettség a gépjármű forgalomba helyezését követő hónap 1. napján kezdődik. Ha az állandó rendszámtáblával, valamint a ,,V'' betűjelű ideiglenes rendszámtáblával ellátott gépjármű utáni adókötelezettség nem áll fenn a teljes adóévben, akkor az évi adótételnek az adókötelezettség fennállásának hónapjaira eső időarányos részét kell megfizetni.
+3. § (1) Az adókötelezettség a gépjármű forgalomba helyezését követő hónap 1. napján kezdődik. Ha az állandó rendszámtáblával ellátott gépjármű utáni adókötelezettség nem áll fenn a teljes adóévben, akkor az évi adótételnek az adókötelezettség fennállásának hónapjaira eső időarányos részét kell megfizetni.
 
-(2) Az adókötelezettség az ,,E'' és ,,P'' betűjelű ideiglenes rendszámtáblával ellátott gépjármű esetén a rendszámtábla kiadásakor keletkezik.
+(2) Az adókötelezettség az ideiglenesen forgalomban tartott gépjármű és a próbajármű esetén a rendszámtábla kiadásakor keletkezik.
 
 ### Az adókötelezettség változása, megszűnése, az adófizetési kötelezettség szünetelése
 
@@ -96,7 +96,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 - a) a légrugós vagy azzal egyenértékű rugózási rendszerű tehergépjármű, nyergesvontató, autóbusz esetén 850 Ft,
 - b) az a) pont alá nem tartozó tehergépjármű, nyergesvontató, autóbusz esetén 1380 Ft.
 
-(3) Az „E” betűjelű ideiglenes rendszámtáblával ellátott személyszállító gépjármű után 10 000 Ft, míg a tehergépjármű után 46 000 Ft adót kell fizetni. A „P” betűjelű ideiglenes rendszámtábla kiadása esetén 23 000 Ft adót kell fizetni. A gépjármű állandó rendszámtáblával való ellátását követő hónap 1. napjától az adófizetési kötelezettségre az általános szabályok az irányadók. Amennyiben a hatósági nyilvántartás szerint állandó rendszámmal ellátott gépjárműre „E” betűjelű ideiglenes rendszámtáblát adnak ki, ez után nem kell az e bekezdés szerinti adót megfizetni.
+(3) Az ideiglenesen forgalomban tartott gépjármű után személyszállító gépjármű esetében 10 000 forint, tehergépjármű esetében pedig 46 000 forint adót kell fizetni. A rendszámtábla próbajárműre való kiadása esetén 23 000 forint adót kell fizetni. A gépjármű állandó rendszámtáblával való ellátását követő hónap első napjától az adófizetési kötelezettségre az általános szabályok az irányadók.
 
 ### Adókedvezmény
 
@@ -302,12 +302,15 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 - 23. segélyszállítmány: az a szállítmány, amely a 13. § (5) bekezdésében meghatározott célra szolgál, és ezt a körülményt az alábbi szervek valamelyike igazolja: Magyar Vöröskereszt, a katasztrófák elleni védekezésért felelős miniszter, Magyar Máltai Szeretetszolgálat, illetve ezek külföldi megfelelője, a szállítmányt küldő vagy fogadó államában működő magyar külképviselet, a segélyszállítmányt küldő vagy azt szervező egyházi jogi személy képviselője, a segélyszállítmányt küldő természetes vagy jogi személy lakóhelye, illetve székhelye szerint illetékes külföldi önkormányzat,
 - 24. munkagép: minden szállító vagy vontató eszköznek – függetlenül a rendszámtábla jellegétől – nem minősülő jármű; amely önerejéből 15 km/óra sebességnél gyorsabban haladni nem képes,
 - 25. gyártási év: a hatósági nyilvántartásban ilyen elnevezéssel szereplő naptári év,
-- 26. lassú jármű és a lassú jármű pótkocsija: a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendelet alapján speciális rendszámtáblával – fehér alapon (3–3) piros betű- és számjellel, Y kezdő betűjellel – és igazolólappal ellátott jármű, amely a sík úton önerejéből (vagy vontatója által) 25 km/óra sebességnél gyorsabban haladni nem képes,
+- 26. lassú jármű és a lassú jármű pótkocsija: a 2022. július 1-jén hatályos, a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendelet rendelkezései alapján igazolólappal vagy a fehér alapon 3-3 piros betű- és számjellel, Y kezdőbetűjellel és igazolólappal ellátott jármű, amely a sík úton önerejéből vagy vontatója által 25 km/óra sebességnél gyorsabban haladni nem képes,
 - 27. nyergesvontató: olyan vontató, amely a rajta levő nyeregszerkezet útján a vontatott félpótkocsi tömegének jelentős részét átveszi,
 - 28. hybrid meghajtású az a jármű, amely elektromos és hagyományos belső égésű motorral van ellátva.
 - 29. környezetvédelmi osztályjelzés: a KöHÉM rendelet 2014. augusztus 15-én hatályos 5. számú melléklet II. alpontja szerinti környezetvédelmi osztályjelzés. Ha a KöHÉM rendelet szerinti osztályjelzés nem ismert, akkor azt a személygépkocsi, tehergépjármű, autóbusz légszennyezési, zajkibocsátási adatait, környezetvédelmi osztályát meghatározó jellemzőjét (hajtómotorjának környezetvédelmi besorolása, a személygépkocsi meghajtása) hitelt érdemlően bizonyító iratai (pl.: forgalmi engedély, típusbizonyítvány, hatósági okirat, szakértői szakvélemény) alapján – a KöHÉM rendelet 5. számú melléklete II. alpontjára figyelemmel – kell megállapítani. Ha ez nem lehetséges, akkor a személygépkocsi osztályjelzése: „6”. Ha a személygépkocsi, tehergépjármű, autóbusz osztályjelzése a KöHÉM rendelet 2014. augusztus 15-ét követő módosítása miatt „16”-nál nagyobb szám, akkor azt úgy kell tekinteni, hogy a környezetvédelmi osztályjelzés „16” ,
 - 30. környezetkímélő motorkerékpár: az a tisztán elektromos motorkerékpár, amelynek a hajtáslánca legalább egy elektromos energiatároló eszközt, elektromos áram átalakító egységet, és olyan elektromos gépet tartalmaz, amely a motorkerékpár meghajtására szolgáló tárolt elektromos energiát mechanikai energiává alakítja és a motorkerékpár meghajtásához más erőforrással nem rendelkezik,
-- 31. pénzügyi lízing: a hitelintézetekről és pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény szerinti pénzügyi lízing.
+- 31. pénzügyi lízing: a hitelintézetekről és pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény szerinti pénzügyi lízing,
+- 32. ideiglenesen forgalomban tartott gépjármű: A Korm. rendelet 63/A. § (2) bekezdés 1–2., 4–5. pontja szerint „I” betűjelű ideiglenes rendszámtáblával ellátott gépjármű,
+- 33. próbajármű: A Korm. rendelet 63/A. § (2) bekezdés 7–11. pontja szerint „I” betűjelű ideiglenes rendszámtáblával ellátott gépjármű,
+- 34. kiviteli célú gépjármű: A Korm. rendelet 63/A. § (2) bekezdés 13–18. pontja szerint „I” betűjelű ideiglenes rendszámtáblával ellátott gépjármű.
 
 ### Átmeneti és vegyes rendelkezések
 

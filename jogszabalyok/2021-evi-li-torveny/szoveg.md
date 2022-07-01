@@ -38,7 +38,13 @@ egyes törvényeknek a kézbesítéssel és az igazságügyi ágazati szabályoz
 
 15. §
 
-16. §
+16. § A Vht. 317. § (2) bekezdés j) pontja helyébe a következő rendelkezés lép:
+
+(E törvény)
+
+„j) 37/B. § (4) bekezdése a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) szóló, 2020. november 25-i (EU) 2020/1784 európai parlamenti és tanácsi rendelet”
+
+(végrehajtásához szükséges rendelkezéseket állapít meg.)
 
 17. §
 
@@ -169,11 +175,35 @@ egyes törvényeknek a kézbesítéssel és az igazságügyi ágazati szabályoz
 
 #### 15. A polgári perrendtartásról szóló 2016. évi CXXX. törvény módosítása
 
-63. §
+63. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) 182. § (5) bekezdés a) pontja helyébe a következő rendelkezés lép:
 
-64. §
+(Ha olyan féllel szemben került sor bírósági meghagyás kibocsátására, akinek a keresetlevelet)
 
-65. §
+„a) a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) szóló, 2020. november 25-i (EU) 2020/1784 európai parlamenti és tanácsi rendelet alapján, vagy”
+
+(kellett kézbesíteni, a bírósági meghagyás megtámadására előírt határidő elmulasztása esetén igazolásnak a bírósági meghagyás kibocsátásától számított egy évig van helye; az igazolási kérelem előterjesztésével egyidejűleg az írásbeli ellenkérelmet vagy beszámítást tartalmazó iratot is elő kell terjeszteni.)
+
+64. § A Pp. 227. § (6) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+(A mulasztás esetére megállapított következmények alkalmazásának helye van akkor is, ha)
+
+„a) az idézést az alperesnek a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) szóló, 2020. november 25-i (EU) 2020/1784 európai parlamenti és tanácsi rendelet alapján kellett kézbesíteni, de a kézbesítés megtörténtéről kézbesítési igazolás nem érkezett vissza, feltéve, hogy a rendelet 22. cikk (2) bekezdésében foglalt feltételek fennállnak, vagy”
+
+65. § (1) A Pp. 631. § (2) bekezdés 4. pontja helyébe a következő rendelkezés lép:
+
+(E törvény)
+
+„4. a tagállamok bíróságai között a polgári és kereskedelmi ügyekben a bizonyításfelvétel tekintetében történő együttműködésről (bizonyításfelvétel) szóló, 2020. november 25-i (EU) 2020/1783 európai parlamenti és tanácsi rendelet”
+
+(végrehajtását szolgálja.)
+
+(2) A Pp. 631. § (2) bekezdés 8. pontja helyébe a következő rendelkezés lép:
+
+(E törvény)
+
+„8. a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) szóló, 2020. november 25-i (EU) 2020/1784 európai parlamenti és tanácsi rendelet”
+
+(végrehajtását szolgálja.)
 
 66. §
 
@@ -195,15 +225,102 @@ egyes törvényeknek a kézbesítéssel és az igazságügyi ágazati szabályoz
 
 #### 18. A nemzetközi magánjogról szóló 2017. évi XXVIII. törvény módosítása
 
-73. §
+73. § A nemzetközi magánjogról szóló 2017. évi XXVIII. törvény (a továbbiakban: Nmjtv.) 77. §-a helyébe a következő rendelkezés lép:
 
-74. §
+„77. § (1) A tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) szóló, 2020. november 25-i (EU) 2020/1784 európai parlamenti és tanácsi rendelet (e §-ban a továbbiakban: a rendelet) 3. cikk (1) bekezdése szerinti áttevő intézmény feladatait
 
-75. §
+a) bírósági iratok esetében az a bíróság, amelynek eljárásában a kézbesítendő irat keletkezett,
 
-76. §
+b) közjegyző eljárásában keletkezett iratok esetén az a közjegyző, akinek eljárásában az irat keletkezett,
 
-77. §
+c) egyéb bíróságon kívüli iratok esetében a miniszter
+
+látja el.
+
+(2) A rendelet 3. cikk (2) bekezdése szerinti átvevő intézmény feladatait
+
+a) a címzettnek a jogsegélykérelemben megjelölt címe szerint illetékes járásbíróság (Budapesten a Pesti Központi Kerületi Bíróság) és
+
+b) a Magyar Bírósági Végrehajtói Kar
+
+látja el, azzal, hogy a b) pont szerinti esetben a kézbesítést a címzett címe szerint illetékes végrehajtó teljesíti.
+
+(3) A rendelet alapján előterjesztett jogsegélykérelem teljesítése során a 74. § (3) bekezdése alkalmazandó.
+
+(4) A rendelet 4. cikke szerinti központi szerv feladatait a miniszter látja el.
+
+(5) A rendelet 7. cikk (1) bekezdés a) pontja szerinti feladatot a miniszter látja el, aki gondoskodik továbbá a 7. cikk (1) bekezdés c) pontja szerinti tájékoztatás nyújtásáról.
+
+(6) A tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) és az 1348/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. november 13-i 1393/2007/EK európai parlamenti és tanácsi rendelet (e §-ban a továbbiakban: 1393/2007/EK európai parlamenti és tanácsi rendelet) 4. cikk (2) bekezdése alapján az átvevő intézmény a kézbesítendő iratokat postai úton, telefaxon és elektronikusan fogadja. Az 1393/2007/EK európai parlamenti és tanácsi rendelet és a rendelet által rendszeresített formanyomtatványokat az áttevő vagy átvevő intézmény magyar, angol, német vagy francia nyelven fogadja.
+
+(7) Ha a Pp. 137. § (2) bekezdésében meghatározott kézbesítési fikció alkalmazásával került sor a kézbesítés eredményének megállapítására, az átvevő intézmény az áttevő intézményt arról értesíti, hogy a kézbesítés beálltát és annak időpontját e kézbesítési fikció alapján állapította meg, és azzal szemben a címzettet a Pp. 138. §-a szerinti kifogás illeti meg. Ha a bíróság a címzett kifogásának utóbb helyt ad, a külföldi áttevő intézményt egyidejűleg értesíti arról, hogy a kézbesítéshez fűződő jogkövetkezmények a magyar jog szerint hatálytalanok.
+
+(8) Az átvevő intézmény a kézbesítés megtörténtéről és annak időpontjáról, illetve akadályáról és ennek okáról nyolc napon belül tájékoztatja az áttevő intézményt.
+
+(9) A rendelet 17. cikke szerinti kézbesítési mód belföldön csak akkor alkalmazható, ha a címzett az áttevő tagállam állampolgára.
+
+(10) A rendelet 17. cikke szerinti kézbesítési mód alkalmazása esetén a külföldön kézbesítendő iratot a 73. § (3) bekezdésének megfelelően kell továbbítani.
+
+(11) A rendelet 20. cikke szerinti kézbesítési mód alkalmazására belföldön a végrehajtói kézbesítésre vonatkozó jogszabályok szerint kerülhet sor.”
+
+74. § Az Nmjtv. 81. §-a helyébe a következő rendelkezés lép:
+
+„81. § (1) A tagállamok bíróságai között a polgári és kereskedelmi ügyekben a bizonyításfelvétel tekintetében történő együttműködésről (bizonyításfelvétel) szóló, 2020. november 25-i (EU) 2020/1783 európai parlamenti és tanácsi rendelet (e §-ban a továbbiakban: rendelet) 4. cikk (1) és (3) bekezdése szerinti központi szerv feladatait a miniszter látja el.
+
+(2) A rendelet 2. cikk 1. pontja szerinti egyéb hatóság Magyarországon a közjegyző és a gyámhatóság.
+
+(3) A rendelet 1. cikk (1) bekezdés a) pontja szerinti jogsegélykérelem teljesítése a 79. § (3) bekezdése szerinti bíróság hatáskörébe és illetékességébe tartozik. Ha a jogsegélykérelmet fogadó bíróság azt állapítja meg, hogy annak teljesítése más bíróság hatáskörébe vagy illetékességébe tartozik, azt – a kérelem beérkezését követő – nyolc napon belül hivatalból megküldi ehhez a bírósághoz.
+
+(4) A rendelet 19. cikk (1) bekezdése és 20. cikk (2) bekezdése szerinti, más tagállam bíróságától érkező kérelmet a miniszter fogadja és bírálja el, ennek során a 80. § (5)–(9) bekezdésében foglaltakat alkalmazni kell.
+
+(5) A rendelet által rendszeresített formanyomtatványokat a bíróság postai úton, telefaxon vagy elektronikusan, magyar, angol vagy német nyelven fogadja.
+
+(6) Magyar bíróság az előtte folyamatban lévő eljárás céljára az Európai Unió tagállamában, Dánia kivételével, a rendelet 19. cikkében szabályozott módon kívül is foganatosíthat közvetlenül bizonyítási cselekményt. Ilyen esetben a bizonyításfelvétel általános szabályai irányadóak azzal, hogy kényszerítő intézkedések alkalmazásának nincs helye.”
+
+75. § Az Nmjtv. 33. alcíme a következő 81/A. §-sal egészül ki:
+
+„81/A. § (1) A konzuli tisztviselő az Európai Unió kötelező jogi aktusában, nemzetközi szerződésben vagy a fogadó állam jogában meghatározott feltételek szerint belföldi eljárás céljaira, az eljáró bíróság megkeresésére külföldön tartózkodó magyar állampolgárt meghallgathat, kényszerítő intézkedés alkalmazása nélkül. A megkeresésre a Pp. 282. § (2) és (3) bekezdését kell alkalmazni.
+
+(2) A konzuli tisztviselő nem járhat el abban az ügyben, amelyben – a Pp.-nek a bíró kizárására vonatkozó szabálya szerint – mint bíró sem járhatna el. A kizárásról és az eljáró konzuli tisztviselő kijelöléséről a külképviselet vezetője határoz. Ha a kizárási ok a külképviselet vezetőjét érinti, vagy nincs másik kijelölhető konzuli tisztviselő, akkor az a külképviselet vagy konzuli tisztviselő jár el, amellyel (akivel) szemben kizárási ok áll fenn, és erről a perben eljáró bíróságot értesíteni kell.
+
+(3) A meghallgatásról a konzuli tisztviselő jegyzőkönyvet vesz fel, amelyben rögzíteni kell:
+
+a) a meghallgatást végző külképviselet megnevezését, ügyszámát,
+
+b) a megkereső bíróságot és a bírósági ügyszámot,
+
+c) a meghallgatás helyét, továbbá a meghallgatás kitűzött és tényleges kezdő és befejező időpontját,
+
+d) a meghallgatást végző konzuli tisztviselő, továbbá a külképviselet részéről jelen lévő más személy nevét, beosztását,
+
+e) a meghallgatott személy nevét, születési helyét, idejét, anyja nevét, lakóhelyét, perbeli állását,
+
+f) a meghallgatott személy közreműködésének önkéntességére való felhívását, továbbá a meghallgatott személynek a felhívásra adott válaszát,
+
+g) a meghallgatott személy vallomását; ha valamely kifejezés vagy kijelentés pontos szövege jelentős, azt szó szerint kell a jegyzőkönyvben rögzíteni.
+
+(4) A meghallgatás után a meghallgatott személy jelenlétében a jegyzőkönyvbe vett vallomását fel kell olvasni, kivéve, ha azt nem kívánja. A felolvasás megtörténtét vagy annak mellőzését a jegyzőkönyvben fel kell tüntetni. Ha a meghallgatott személy a vallomás felolvasásakor a korábban előadott vallomását kiigazítja vagy kiegészíti, a kiigazítást vagy kiegészítést indokolt esetben jegyzőkönyvbe kell foglalni.
+
+(5) Tanú meghallgatása során a konzuli tisztviselő az (1)–(4) bekezdésben foglaltak mellett a Pp.-nek a tanúzási képtelenségre, a tanúvallomás megtagadására, valamint a tanú meghallgatása lefolytatására vonatkozó szabályai alkalmazásával jár el.
+
+(6) A konzuli tisztviselő a meghallgatással felmerült készkiadásait a jegyzőkönyvben vagy külön okiratban megállapítja. A konzuli tisztviselő meghallgatással kapcsolatban felmerült készkiadásainak előlegezésére a Pp. 78. §-ában és 79. § (1) bekezdésében foglaltakat kell alkalmazni.”
+
+76. § Az Nmjtv. 127. § (2) bekezdése a következő g) és h) ponttal egészül ki:
+
+(E törvény)
+
+„g) 81. §-a a tagállamok bíróságai között a polgári és kereskedelmi ügyekben a bizonyításfelvétel tekintetében történő együttműködésről (bizonyításfelvétel) szóló, 2020. november 25-i (EU) 2020/1783 európai parlamenti és tanácsi rendeletnek,
+
+h) 77. §-a a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) szóló, 2020. november 25-i (EU) 2020/1784 európai parlamenti és tanácsi rendeletnek”
+
+(a végrehajtásához szükséges rendelkezéseket állapít meg.)
+
+77. § Az Nmjtv.
+
+- a) 127. § (2) bekezdés a) pontjában a „81. §-a” szövegrész helyébe a „81. § (5) bekezdése” szöveg,
+- b) 127. § (2) bekezdés d) pontjában a „77. §-a” szövegrész helyébe a „77. § (6) bekezdése” szöveg
+
+lép.
 
 #### 19. Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény módosítása
 

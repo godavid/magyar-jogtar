@@ -1662,7 +1662,7 @@ tartalmazza.
 
 (10) Az 58. § szerinti nyilvántartásban kezelt adatok a Központi Statisztikai Hivatal részére statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen átadhatók és felhasználhatók.
 
-59/A. § A nemzeti tervvagyonnak a nemzeti vagyonról szóló törvény szerint az állam tulajdonába tartozó része és az annak kezeléséhez szükséges eszközök vonatkozásában a tulajdonosi jogokat az állam 100%-os tulajdonában álló Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság gyakorolja. A nemzeti tervvagyonba tartozó építészeti-műszaki dokumentációk összessége közgyűjteménynek minősül.
+59/A. § A nemzeti tervvagyonnak a nemzeti vagyonról szóló törvény szerint az állam tulajdonába tartozó része és az annak kezeléséhez szükséges eszközök vonatkozásában a tulajdonosi jogokat a Kormány által rendeletben kijelölt szervezet gyakorolja. A nemzeti tervvagyonba tartozó építészeti-műszaki dokumentációk összessége közgyűjteménynek minősül.
 
 59/B. § (1) Az építtető és a tervező közös nyilatkozatban az építészeti szerzői jogi nyilvántartás részére átadja az építészeti-műszaki dokumentációhoz, valamint az az alapján megépült építményhez fűződő szerzői vagyoni jogok tulajdonosának vagy tulajdonosainak a következő adatait:
 
@@ -1690,23 +1690,23 @@ tartalmazza.
 - a) szerzői vagyoni jogosultak adatainak hozzáférhetővé tétele az érdekeltek számára,
 - b) egyéb, a szerzőt a védelmi idő lejárta után megillető jogok biztosítása.
 
-(4) Az (1) bekezdés szerinti adatok kezelője az állam 100%-os tulajdonában álló Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság.
+(4) Az (1) bekezdés szerinti adatok kezelője a Kormány által rendeletben kijelölt szervezet.
 
 (5) Az (1) bekezdés szerinti adatok vonatkozásában az adatkezelést végző háromévente felülvizsgálja az adatkezelés szükségességét.
 
 (6) Az építészeti szerzői jogi nyilvántartás elektronikus ügyintézés keretében működik.
 
-59/C. § (1) A településfejlesztésért és településrendezésért felelős miniszter – kormányrendeletben meghatározott módon – a településfejlesztési és településrendezési feladatok ellátását és a településtervek elkészítését, módosítását, alkalmazását, nyilvántartását és monitorozását segítő – a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság által üzemeltetett – digitális egyeztetési felületet működtet (a továbbiakban: E-TÉR). Az E-TÉR az 5. § (1a) bekezdés szerinti Nyilvántartás része.
+59/C. § (1) A településfejlesztésért és településrendezésért felelős miniszter – kormányrendeletben meghatározott módon – a településfejlesztési és településrendezési feladatok ellátását és a településtervek elkészítését, módosítását, alkalmazását, nyilvántartását és monitorozását segítő – a Kormány által rendeletben kijelölt szervezet által üzemeltetett – digitális egyeztetési felületet működtet (a továbbiakban: E-TÉR). Az E-TÉR az 5. § (1a) bekezdés szerinti Nyilvántartás része.
 
 (2) Az E-TÉR működését elősegítő elektronikus alkalmazás a Nemzeti Térinformatikai Alaptérkép, a Helyi Művi Értékvédelmi Kataszter és az e törvény felhatalmazása alapján kiadott kormányrendelet szerinti egyéb elektronikus alkalmazás.
 
-(3) A településtervek elkészítéséhez – a 8. § (2) bekezdése szerinti adatszolgáltatás teljesítéséhez – szükséges mezőgazdasággal és erdőgazdálkodással, természetvédelemmel és tájvédelemmel, örökségvédelemmel, talajvédelemmel, vízgazdálkodással és vízvédelemmel, éghajlatváltozással, közlekedéssel, energetikával, bányászattal, hulladékgazdálkodással és honvédelemmel összefüggő adatokat, a feladatkörrel rendelkező államigazgatási szervek és költségvetési szervek díjmentesen, kormányrendeletben meghatározott formátumban szolgáltatják Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság részére, amelyet a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság továbbszolgáltathat a településtervek elkészítéséhez.
+(3) A településtervek elkészítéséhez – a 8. § (2) bekezdése szerinti adatszolgáltatás teljesítéséhez – szükséges mezőgazdasággal és erdőgazdálkodással, természetvédelemmel és tájvédelemmel, örökségvédelemmel, talajvédelemmel, vízgazdálkodással és vízvédelemmel, éghajlatváltozással, közlekedéssel, energetikával, bányászattal, hulladékgazdálkodással és honvédelemmel összefüggő adatokat, a feladatkörrel rendelkező államigazgatási szervek és költségvetési szervek díjmentesen, kormányrendeletben meghatározott formátumban szolgáltatják az (1) bekezdés szerinti, a Kormány által rendeletben kijelölt szervezet részére, amelyet e szervezet továbbszolgáltathat a településtervek elkészítéséhez.
 
-(4) A földmérési és térképészeti tevékenységről szóló törvény szerint térítésmentesen rendelkezésre álló, állami ingatlan-nyilvántartási térképi adatbázis és a légi távérzékelési adatbázis adatait a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság az E-TÉR-ben, szerkeszthető formátumban felhasználhatja és szolgáltathatja a településtervek elkészítéséhez.
+(4) A földmérési és térképészeti tevékenységről szóló törvény szerint térítésmentesen rendelkezésre álló, állami ingatlan-nyilvántartási térképi adatbázis és a légi távérzékelési adatbázis adatait az (1) bekezdés szerinti, a Kormány által rendeletben kijelölt szervezet az E-TÉR-ben, szerkeszthető formátumban felhasználhatja és szolgáltathatja a településtervek elkészítéséhez.
 
 (5) A (3) és (4) bekezdés szerinti adatok téradatnak minősülnek, és személyes adatot nem tartalmaznak.
 
-(6) A Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság vezeti az E-TÉR felhasználói elektronikus regisztrációjának nyilvántartását, amely kezeli a következő adatokat:
+(6) Az (1) bekezdés szerinti, a Kormány által rendeletben kijelölt szervezet vezeti az E-TÉR felhasználói elektronikus regisztrációjának nyilvántartását, amely kezeli a következő adatokat:
 
 - a) a rendszer felhasználójának neve, anyja neve, születési helye és ideje,
 - b) a rendszer felhasználójának elektronikus levélcíme, telefonszáma,
@@ -1714,7 +1714,7 @@ tartalmazza.
 
 (7) A (6) bekezdés szerinti nyilvántartást elektronikus úton kell vezetni, az adatokat elektronikusan kell tárolni és feldolgozni. A nyilvántartást rendszeresen felül kell vizsgálni, a bekövetkezett változásokat át kell vezetni.
 
-(8) A (6) bekezdés szerinti adatkezelés célja a rendszer felhasználójának beazonosítása és a vele történő kapcsolattartás. A (6) bekezdés szerinti adatok a felhasználó (6) bekezdéssel összefüggő munkavégzésre irányuló jogviszonyának megszűnéséig vagy megváltozásáig kezelhetőek, ezt követően a felhasználó személyes adatait véglegesen törölni kell. A jogviszonya megszűnését vagy megváltozását – az időpont megjelölésével – a (6) bekezdés szerinti felhasználónak kell bejelentenie a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság részére.
+(8) A (6) bekezdés szerinti adatkezelés célja a rendszer felhasználójának beazonosítása és a vele történő kapcsolattartás. A (6) bekezdés szerinti adatok a felhasználó (6) bekezdéssel összefüggő munkavégzésre irányuló jogviszonyának megszűnéséig vagy megváltozásáig kezelhetőek, ezt követően a felhasználó személyes adatait véglegesen törölni kell. A jogviszonya megszűnését vagy megváltozását – az időpont megjelölésével – a (6) bekezdés szerinti felhasználónak kell bejelentenie az (1) bekezdés szerinti, a Kormány által rendeletben kijelölt szervezet részére.
 
 ### A törvény hatálybalépése és átmeneti rendelkezések
 
@@ -1860,7 +1860,7 @@ is alkalmazni kell.
 - 34. a telekalakítás és építési tilalom elrendelése, továbbá a telekalakítás és cseretelek-adás részletes szabályait
 - 35. az útépítési és közművesítési hozzájárulás alkalmazására vonatkozó részletes szabályokat,
 - 36. a településrendezési illeszkedés követelménye alkalmazásának részletes szabályait, az illeszkedés egyedi tartalmát,
-- 37. az E-TÉR létrehozásáról és működtetéséről, az E-TÉR működését elősegítő elektronikus alkalmazásokról, az államigazgatási szervek és költségvetési szervek Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság részére történő személyes adatokat nem érintő adatszolgáltatásáról, az adatok továbbításáról és a véleményezésről, az E-TÉR-be történő regisztrációról, az E-TÉR adatok előállításáról és karbantartásáról, az adatforgalom rendjéről, valamint az E-TÉR működése finanszírozásának pénzügyi rendjéről szóló szabályokat
+- 37. az E-TÉR létrehozásáról és működtetéséről, az E-TÉR működését elősegítő elektronikus alkalmazásokról, az államigazgatási szervek és költségvetési szervek az 59/C. § (1) bekezdése szerinti, a Kormány által rendeletben kijelölt szervezet részére történő személyes adatokat nem érintő adatszolgáltatásáról, az adatok továbbításáról és a véleményezésről, az E-TÉR-be történő regisztrációról, az E-TÉR adatok előállításáról és karbantartásáról, az adatforgalom rendjéről, valamint az E-TÉR működése finanszírozásának pénzügyi rendjéről szóló szabályokat
 - 38. a településfejlesztési terv előkészítése során bevonásra kerülő személyekre irányadó szakirányú végzettséget
 
 rendelettel állapítsa meg.
@@ -1889,6 +1889,14 @@ rendeletben állapítsa meg.
 - c) az 54. § (5g) bekezdése szerinti eljárási szabályokat és az eljáró hatóságot.
 
 (1g) Felhatalmazást kap a Kormány, hogy a rozsdaövezeti akcióterület és azon belül az azonnali rozsdaövezeti akcióterület, illetve a közép- és hosszú távú rozsdaövezeti akcióterület lehatárolását rendeletben állapítsa meg.
+
+(1h) Felhatalmazást kap a Kormány, hogy
+
+- a) az 59/A. §-ban,
+- b) az 59/B. § (4) bekezdésében és
+- c) az 59/C. § (1) bekezdésében
+
+meghatározott szervezetet rendeletben jelölje ki.
 
 (2) Felhatalmazást kap az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter arra, hogy
 

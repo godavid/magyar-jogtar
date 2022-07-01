@@ -225,6 +225,8 @@ vonatkozóan kért nyilvántartott adatokat átadja a magyar állami ösztöndí
 
 (7) A Diákhitel Központ – a képzési hitelt felvevő tanuló, illetve képzésben részt vevő személy oktatási azonosító száma alapján – a képzési hitel igénybevételéről, típusáról, az igényelt hitelösszegről, a képzési hitel folyósításának felfüggesztéséről folyamatosan adatot szolgáltat a szakképzési információs rendszerbe, illetve a felnőttképzés adatszolgáltatási rendszerébe.
 
+(8) Természetes személy a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás útján történő azonosítását követően elektronikusan megtekintheti az oktatási nyilvántartás működéséért felelős szerv által nyilvántartott személyes adatait.
+
 6/A. § (1) Az oktatási nyilvántartás működéséért felelős szerv az oktatási nyilvántartás 4. § (1) bekezdés a)–d) és h) pontja szerinti szakrendszerében szereplő adatok közül elektronikus adatkapcsolaton keresztül – az érintett oktatási azonosító számának összevetése útján – veszi át az érintett 2. § a)–h) pontjában meghatározott adatait, továbbá az érintett
 
 - a) érettségi vizsgájára vonatkozóan az 1. melléklet IV. rész 2. pontjában meghatározott adatait,
