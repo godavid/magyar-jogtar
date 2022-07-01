@@ -34,7 +34,7 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 - 16. Útdíj köteles elemi útszakaszok, úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartása: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény, az autópályák, autóutak és főutak használati díjáról szóló miniszteri rendelet, valamint a meghatározott össztömeget, tengelyterhelést és méretet meghaladó járművek közlekedéséről szóló miniszteri rendelet alapján mentességet élvező szervezetekről és járművekről vezetett elektronikus nyilvántartás.
 - 17. Informatikai platform: számítástechnikai hálózaton keresztül távoli alkalmazásszolgáltatást nyújtó olyan informatikai rendszer, amely alkalmas a közúti közlekedési nyilvántartásból közvetlen hozzáféréssel, továbbá más törvényben megjelölt nyilvántartásokból egységes, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti személyre szabott ügyintézési felületen történő, forgalmirendszám-alapú adatszolgáltatások lebonyolítására.
 - 18. Járműéletút-adatszolgáltatás: a nyilvántartó által az e célra szolgáló informatikai platformon keresztül, több nyilvántartás adatainak felhasználásával elektronikus úton nyújtott szolgáltatás.
-- 19. Ideiglenes rendszámtáblák inyilvántartása: a Magyarországon ideiglenesen forgalomba helyezett vagy ideiglenesen forgalomban tartott járművekhez kiadott, a „CD”, az „E”, az „M”, a „P”, a „V” a „Z” és az „SP” betűjelű ideiglenes rendszámtáblának és az ideiglenes rendszámtábla jogosultjának, továbbá az e nyilvántartásba történő bejegyzés vagy törlés alapjául szolgáló és a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott, az ideiglenes rendszámtábla kiadásához szükséges csatolandó és bemutatandó okiratok elektronikus másolatának az elektronikus nyilvántartása.
+- 19. Ideiglenes rendszámtáblák nyilvántartása: a Magyarországon ideiglenesen forgalomba helyezett vagy ideiglenesen forgalomban tartott járművekhez kiadott, a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott ideiglenes rendszámtáblának és az ideiglenes rendszámtábla jogosultjának, továbbá a 3 napos érvényességi idővel kiadott ideiglenes forgalomban tartási engedélyek elektronikus nyilvántartása.
 - 20. Járművezető: az a személy, akinek a vezetési jogosultságára, a vezetői engedélyére vagy a vezetési jogosultsága szünetelésére vonatkozóan szerepel adat az engedély-nyilvántartásban.
 - 21. Járművezető-jelölt: az a vezetői engedéllyel vagy vezetési jogosultsággal még nem rendelkező személy, akinek a vezetői engedélye kiállításához szükséges adatok szerepelnek az engedély-nyilvántartásban.
 - 22. Állami vagyonkezelő: a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben vagyonkezelőként meghatározott azon személy, amellyel az állami vagyon vagyonkezelésére a Magyar Nemzeti Vagyonkezelő Zrt., valamint annak jogelődje, vagy az állami vagyon tulajdonosi joggyakorlója vagyonkezelési szerződést kötött, továbbá akit törvény vagyonkezelőnek kijelöl.
@@ -344,15 +344,15 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 - d) az ideiglenes forgalmi engedély vagy az ideiglenes forgalomban tartási engedély, továbbá az ideiglenes rendszámtábla eltulajdonítására, megsemmisülésére, egyéb okból történő érvénytelenségére, megtalálására, megkerülésére vonatkozó adatokat, és
 - e)
 
-(3) Az ideiglenes rendszámtáblák nyilvántartása a „P” betűjelű rendszámtábla kivételével tartalmazza az ideiglenes rendszámtáblával ellátott járművek:
+(3) Az ideiglenes rendszámtáblák nyilvántartása – a 2022. július 1-jét megelőzően kiadott „P” betűjelű, valamint a 2022. július 1-jétől az azonos jogosultságnak megfelelő „I” betűjelű ideiglenes rendszámtáblák kivételével – tartalmazza az ideiglenes rendszámtáblával ellátott járművek:
 
 - a) alvázszámát,
 - b) gyártmányát,
 - c) típusát,
-- d) színét.
+- d) színét, és
 - e) fajtáját.
 
-(4) Az ideiglenes rendszámtáblák nyilvántartása tartalmazza az „E” és a „P” betűjelű rendszámtáblák használatának korlátozására vonatkozó adatokat.
+(4) Az ideiglenes rendszámtáblák nyilvántartása tartalmazza a 2022. július 1-jét megelőzően kiadott „E” és „P” betűjelű, valamint a 2022. július 1-jétől kiadott azonos jogosultságnak megfelelő „I” betűjelű ideiglenes rendszámtáblák használatának korlátozására vonatkozó adatokat.
 
 (4a) Az ideiglenes rendszámtáblák nyilvántartása tartalmazza az ideiglenes rendszámtáblához kapcsolt kötvénynyilvántartásban rögzített
 

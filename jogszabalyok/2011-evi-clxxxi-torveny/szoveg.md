@@ -1244,8 +1244,11 @@ is.
   - he) az eljárás befejezését, továbbá, ha a bíróság a jogi személlyel szemben büntetőjogi intézkedésként tevékenységének korlátozását rendelte el, a korlátozás időtartamát és azt, hogy a korlátozás a jogi személy mely tevékenységére vagy jogosítványára terjed ki, valamint
   - hf) a ha)–he) alpontban megjelölt döntést hozó bíróság, ügyészség vagy nyomozó hatóság megnevezését, az ügy számát vagy a határozat számát, keltét és a jogerőre emelkedésének vagy véglegessé válásának napját,
 - i) ha a szervezetet a bíróság megszünteti, vagy megállapítja, hogy a szervezet megszűnt, a határozat számát, jogerőre emelkedésének napját.
+- j) a nyilvános szerkezetátalakítási eljárás kezdő időpontját és befejezését.
 
 (2) Az (1) bekezdés a) és b) pontjában meghatározott adatokat, valamint a szervezet neve (rövidített neve) mellett a „felszámolás alatt” („f. a.”) toldat bejegyzését (amennyiben a felszámolási eljárást végelszámolás előzte meg, az arra utaló toldat törlését), a képviselet módja változásának bejegyzését, a korábbi képviseletre jogosultak törlését, a felszámolóra, illetve a felszámolóbiztosra vonatkozó adatokat (név, székhely, lakóhely) a csődeljárást, illetve a felszámolási eljárást lefolytató bíróság végzése alapján hivatalból kell rögzíteni a nyilvántartásban, a csődeljárást, illetve a felszámolást elrendelő jogerős végzés közzétételével egyidejűleg. Ha a felszámolási eljárás a szervezet megszűnésével befejeződik, e végzés jogerőre emelkedésének megállapítását követő öt munkanapon belül a szervezetet törölni kell a nyilvántartásból.
+
+(2a) Az (1) bekezdés j) pontjában meghatározott adatokat, valamint a szervezet neve (rövidített neve) mellett a „szerkezetátalakítás alatt” („sz. a.”) toldat bejegyzését a szerkezetátalakítási eljárást lefolytató bíróság végzése alapján hivatalból kell rögzíteni a nyilvántartásban, a nyilvános szerkezetátalakítást megállapító jogerős végzés közzétételével egyidejűleg. Ha a nyilvános szerkezetátalakítási eljárás befejeződik vagy megszüntetésre kerül, e végzés alapján, a jogerőre emelkedésének megállapítását követő öt munkanapon belül a szervezetet törölni kell a nyilvántartásból.
 
 (3) Az (1) bekezdés i) pontjában meghatározott adatokat, valamint a szervezet neve (rövidített neve) mellett a „megszűnt” vagy a „megszüntetve” toldatot, az eljárást lefolytató bíróság határozata alapján, hivatalból kell rögzíteni a nyilvántartásban.
 
@@ -1380,11 +1383,23 @@ rendeletben állapítsa meg.
 
 #### 47. Módosuló jogszabályok
 
-#### 112–116. §
+#### 112. §
+
+#### 113. §
+
+#### 114. §
+
+#### 115. §
+
+#### 116. §
 
 #### 117. §
 
-#### 118–120. §
+#### 118. §
+
+#### 119. §
+
+#### 120. §
 
 121. § (1) Az egyes adótörvények és az azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 29. § 10. pontja a következő szöveggel lép hatályba:
 
@@ -1398,7 +1413,7 @@ rendeletben állapítsa meg.
 
 „304. § Az Art. 47. §-a az alábbi (8) bekezdéssel egészül ki:
 
-„(8) Az e § (1)–(6) bekezdéseiben foglalt kötelezettség az iratok eredeti példányára, vagy – ha azt jogszabály nem zárja ki – eredeti példány hiányában a külön jogszabályban előírt módon, elektronikus úton előállított hiteles másolatára vonatkozik. Az adóigazgatási eljárásban az irat eredeti példánya – ha annak megőrzését jogszabály nem írja elő, és adózó azzal nem rendelkezik – nem kérhető.””
+„(8) Az e § (1)–(6) bekezdéseiben foglalt kötelezettség az iratok eredeti példányára, vagy – ha azt jogszabály nem zárja ki – eredeti példány hiányában a külön jogszabályban előírt módon, elektronikus úton előállított hiteles másolatára vonatkozik. Az adóigazgatási eljárásban az irat eredeti példánya – ha annak megőrzését jogszabály nem írja elő, és adózó azzal nem rendelkezik – nem kérhető.
 
 (4) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 359. §-ával megállapított Art. 189. § (13) bekezdése a következő szöveggel és ezzel egyidejűleg az Art. 189. §-a a következő (14) bekezdéssel kiegészülve lép hatályba:
 
@@ -1476,7 +1491,9 @@ d) a kedvezmény igénybevevője legkésőbb az ellenőrzés megállapításair�
 
 (17) Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló CLVI. törvény 11. számú melléklet 2. pontjával megállapított Art. 2. számú melléklet I/Határidők/2. pont b) alpontjában a „ha az adózó a kérelem benyújtását megelőző két évben” szövegrész helyett a „ha az adózó esetében az alábbi feltételek bármelyike érvényesül” szövegrésszel, illetve az „az adószám felfüggesztés hatálya alatt állt vagy adószámát a felfüggesztést követően törölték, vagy” szövegrész helyett az „az adószám felfüggesztés hatálya alatt állt vagy adószámát törölték,” szövegrésszel lép hatályba.”
 
-#### 122–123. §
+#### 122. §
+
+#### 123. §
 
 124. § (1)
 
@@ -1486,7 +1503,15 @@ d) a kedvezmény igénybevevője legkésőbb az ellenőrzés megállapításair�
 
 (4)
 
-(5)–(9)
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
 
 #### 48. Hatályukat vesztő rendelkezések
 
