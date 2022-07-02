@@ -156,7 +156,7 @@ egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongaz
 
 34. §
 
-35. §
+35. § A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklete a 4. melléklet szerint módosul.
 
 36. §
 
@@ -216,6 +216,14 @@ egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongaz
 ### 3. melléklet a 2021. évi CXXXIII. törvényhez
 
 ### 4. melléklet a 2021. évi CXXXIII. törvényhez
+
+A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklet I. pontja a következő sorral egészül ki:
+
+(I. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó állami tulajdonban álló társasági részesedés)
+
+| (Társaság neve | állami részesedés legalacsonyabb mértéke) |
+| --- | --- |
+| „N7 Holding Nemzeti Védelmi Ipari Innovációs Zrt. | 100%” |
 
 ### 5. melléklet a 2021. évi CXXXIII. törvényhez
 

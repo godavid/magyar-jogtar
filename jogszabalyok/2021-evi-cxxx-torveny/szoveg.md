@@ -624,7 +624,7 @@ megtartását.
 
 #### 80. §
 
-81. § Nem lép hatályba az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvény 96. § 1–8. pontja.
+#### 81. §
 
 #### 44. A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény módosítása
 

@@ -30,11 +30,7 @@ egyes igazságügyi tárgyú, valamint kapcsolódó törvények módosításár�
 
 12. §
 
-13. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 27/C. § (4) bekezdése a következő h) ponttal egészül ki:
-
-(A felszámolói névjegyzék közhiteles hatósági nyilvántartás. A névjegyzékben fel kell tüntetni:)
-
-„h) azt a tényt, ha a felszámoló gazdasági társaság szerkezetátalakítási szakértői tevékenység végzésére is jogosult, továbbá a szerkezetátalakítási szakértői tevékenységet végző természetes személyeknek az f) és g) pontban felsorolt adatait.”
+13. §
 
 14. §
 
@@ -226,27 +222,15 @@ egyes igazságügyi tárgyú, valamint kapcsolódó törvények módosításár�
 
 93. §
 
-#### 18. A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény módosítása
+#### 18.
 
-94. § A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 73. § (1) bekezdése helyébe a következő rendelkezés lép:
+94. §
 
-„(1) Az adós írásbeli kérelmére a családi vagyonfelügyelő az adósságtörlesztési tervet úgy készíti el, hogy az adós számára a foglalkozása, illetve egyéni vállalkozása gyakorlásához szükséges ingóságokat, eszközöket, járműveket, legfeljebb az e törvény végrehajtási rendeletében meghatározott szempontok figyelembevételével az értékesítés alól mentesíti, azzal a feltétellel, hogy az adós ezekre a vagyontárgyakra vonatkozóan a bevételeiből elkülöníti és megfizeti a vagyonbiztosítási díjat és felelősségbiztosítási díjat, és az eszközök állagmegóvásához, kijavításához szükséges összegeket.”
+95. §
 
-95. § (1) A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 85. § (1) bekezdése helyébe a következő rendelkezés lép:
+96. §
 
-„(1) A bíróság által jóváhagyott adósságrendezési egyezségben meghatározott törlesztési időszak, a 74. § szerinti ötéves és a 74/A. § szerinti hároméves adósságtörlesztési időszak leteltét követően – ha az adósságtörlesztés időszakát a bíróság meghosszabbította, annak lejártát követően – az adósságtörlesztési végzés végrehajtásáról a családi vagyonfelügyelő az adós, adóstárs bevonásával záró elszámolást készít, és ebben minden hitelező tekintetében számot ad a törlesztések teljesítéséről, a vagyonértékesítésről, az eljárásba bevont bevételekről és azok hitelezők közötti felosztásáról. A záró elszámolást a családi vagyonfelügyelő kézbesíti az adósnak, adóstársnak és a hitelezőknek, az egyéb kötelezetteknek pedig megküldi.”
-
-(2) A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 85. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Bíróságon kívüli adósságrendezési eljárásban a záró elszámolást az adós készíti el a hitelezők – továbbá ha az eljárásban adóstárs vagy egyéb kötelezett is részt vett, az adóstárs, illetve az egyéb kötelezett bevonásával. Az adós a mentesítési határozat meghozatala iránti kérelméhez csatolja az adósságrendezési megállapodást – ha a felek a megállapodást módosították a módosított megállapodást –, a záró elszámolást, valamint az adóstárs, az egyéb kötelezett és a hitelezők záró elszámolással egyetértő nyilatkozatát.”
-
-96. § A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 106. § (1) bekezdése a következő k) ponttal egészül ki:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben határozza meg)
-
-„k) az adósságtörlesztési terv elkészítésekor az adós foglalkozása, illetve egyéni vállalkozása gyakorlásához szükséges ingóságok, eszközök, járművek értékesítése alóli mentesítésre vonatkozó szabályokat.”
-
-97. § A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 26. § (6) bekezdésében az „életviteléhez szükséges” szövegrész helyébe az „életviteléhez, illetve az egyéni vállalkozása folytatásához szükséges” szöveg lép.
+97. §
 
 #### 19.
 
@@ -326,25 +310,13 @@ lép.
 
 125. §
 
-#### 26. A szerkezetátalakításról és egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi LXIV. törvény módosítása
+#### 26.
 
-126. § A szerkezetátalakításról és egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi LXIV. törvény 27. § (3) bekezdés b) pontja a következő szöveggel lép hatályba:
+126. §
 
-(A kérelemhez a szerkezetátalakítási eljárásban benyújtható kérelemhez általánosan csatolandó mellékleteken túl csatolni kell)
+127. §
 
-„b) a szerkezetátalakítási szakértőnek a kijelölést elfogadó, és az összeférhetetlenségi és kizáró ok hiányára is kiterjedő nyilatkozatát, ideértve a szerkezetátalakítási szakértői feladatot ellátó természetes személy nyilatkozatát is, valamint”
-
-127. § A szerkezetátalakításról és egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi LXIV. törvény 29. § (5) bekezdése a következő szöveggel lép hatályba:
-
-„(5) Ha az adós legalább 25%-os közvetlen vagy közvetett állami részesedéssel működő gazdasági társaság, a bíróság a Cstv. 66. § (2) bekezdése szerinti állami felszámolót jelöli ki szerkezetátalakítási szakértőként, kivéve ha a 60. § (1) bekezdése szerinti esetekben másik szakértő kirendelésére kerül sor.”
-
-128. § Nem lép hatályba a szerkezetátalakításról és egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi LXIV. törvény
-
-- a) 23. § (7) bekezdésében a „fegyelmi jogkört, illetve a” szövegrész,
-- b) 66. § (2) bekezdés b) pontja,
-- c) 76. § (9) bekezdése,
-- d) 76. § (15) bekezdése,
-- e) 76. § (17) bekezdés 1. pontja.
+128. §
 
 #### 27. Záró rendelkezések
 

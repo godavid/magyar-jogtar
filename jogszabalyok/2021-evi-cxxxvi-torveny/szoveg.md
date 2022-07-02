@@ -234,45 +234,13 @@ az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvény
 
 #### 13. A Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény módosítása
 
-91. § A Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 5/H. § (1a) bekezdése helyébe a következő rendelkezés lép:
+91. §
 
-„(1a) A figyelmeztetés közigazgatási szankció nem alkalmazható a következő esetekben:
+92. §
 
-a) engedélyköteles tevékenység engedély nélküli végzése, vagy engedély nélkül történő megszüntetése,
+93. §
 
-b) ha a jogsértés az energetikai ellátásbiztonságot sérti vagy veszélyezteti,
-
-c) a jogszabálysértés vagy annak következményei helyreállítására nincs lehetőség,
-
-d) az energiahatékonyságról szóló 2015. évi LVII. törvény (a továbbiakban: Ehat. Tv.) 15. § (1) bekezdése szerinti energiamegtakarítási és 15/E. § (1) bekezdése szerinti járulékfizetési kötelezettség teljesítésének elmulasztása esetén,
-
-e) az energiamegtakarításnak az Ehat. Tv. 15/D. § (7) bekezdése szerinti nem megfelelő megállapítása esetén.”
-
-92. § A Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény I. Fejezete a következő alcímmel egészül ki:
-
-„3/C. A hitelesített energiamegtakarítások nyilvántartása
-
-5/J. § Ezen alcím és a 21/A. § alkalmazásában:
-
-a) energiamegtakarítás: az az energiamennyiség, amellyel az Ehat. Tv. 15. § (1) bekezdése szerinti energiamegtakarítási kötelezettség teljesítését szolgáló energiahatékonyság-javító intézkedés vagy beruházás végrehajtása után a mért vagy becsült fogyasztás az intézkedést vagy beruházást megelőző fogyasztáshoz képest csökkent,
-
-b) energiamegtakarítás jogosultja: az energiahatékonyságról szóló törvény végrehajtásáról szóló kormányrendelet szerint addicionálisnak minősülő hozzájárulás nyújtását megállapító írásbeli megállapodásban az energiamegtakarítás jogosultjaként megjelölt személy, ilyen megállapodás hiányában pedig az a személy, aki az energiahatékonyság-javító intézkedés vagy beruházás végrehajtásához az addicionálisnak minősülő hozzájárulást kifejtette.”
-
-93. § A Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 3/C. alcíme a következő 5/K. és 5/L. §-sal egészül ki:
-
-„5/K. § (1) A Hivatal online felületen – a hitelesített energiamegtakarítások nyilvántartásában – tartja nyilván az energiamegtakarításnak, valamint az energiamegtakarítás jogosultjának a Hivatal elnökének rendeletében meghatározott – személyes adatnak nem minősülő – adatait. Ezen adatokat az energiamegtakarítás Ehat. Tv. 15/A. § (4) bekezdés szerinti hitelesítését ellátó energetikai auditáló szervezet az energiamegtakarítás hitelesítését követően haladéktalanul felvezeti a Hivatal online felületén.
-
-(2) A hitelesített energiamegtakarítás jogosultjának személyében bekövetkező változást az átruházó köteles haladéktalanul bejelenteni az (1) bekezdés szerinti online felületen. A hitelesített energiamegtakarítás átruházásához a jogosult személyében bekövetkezett változásnak a nyilvántartásba való bejegyzése szükséges, az átruházás az (1) bekezdés szerinti online felületen történő bejelentéssel válik hatályossá.
-
-(3) A hitelesítést ellátó energetikai auditáló szervezet az energiamegtakarítás természetes személy jogosultjának – a személyes adatai közül – kizárólag a nevét és lakcím adatát rögzíti a hitelesített energiamegtakarítások nyilvántartásában.
-
-(4) A (3) bekezdés szerinti személyes adatot a Hivatal az Ehat. Tv. 15. § (1) bekezdése szerinti energiamegtakarítási kötelezettség teljesítése, a hitelesített energiamegtakarítással mint vagyoni értékű joggal való kereskedelem biztonsága, valamint ellenőrzési feladatainak ellátása céljából az Ehat. Tv. 12. §-ában meghatározott kötelezettségi időszak lejártát követő 5. év végéig kezeli.
-
-5/L. § A hitelesített energiamegtakarítások nyilvántartásában szereplő, egy adott évre elszámolható energiamegtakarítás adatait, ideértve a hitelesített energiamegtakarítás természetes személy jogosultjának nevét és címét a Hivatal a következő év március 31-ig az energiahatékonysági tájékoztató honlapján elérhetővé teszi.”
-
-94. § A Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 8. alcíme a következő 21/A. §-sal egészül ki:
-
-„21/A. § Felhatalmazást kap a Hivatal elnöke, hogy a hitelesített energiamegtakarításról, valamint az energiamegtakarítás jogosultjáról vezetett nyilvántartás – személyes adatnak nem minősülő – adattartalmát rendeletben állapítsa meg.”
+94. §
 
 #### 14. A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény módosítása
 
@@ -530,73 +498,15 @@ b) energiamegtakarítás jogosultja: az energiahatékonyságról szóló törvé
 
 #### 29. Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény módosítása
 
-204. § Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 1. § (1) bekezdése a következő 49. és 50. ponttal egészül ki:
+204. §
 
-(E törvény alkalmazásában)
+205. §
 
-„49. poszt-kvantumtitkosítás: a matematikailag valószínűsíthetően igazolható, kvantumszámítógép által megvalósított támadás ellen a hagyományos kriptográfiai alkalmazáson felüli poszt-kvantum alkalmazást, illetve megoldást nyújtó titkosítás, amely során a két végpont közötti kommunikáció felhasználásával, az adatátvitellel megosztott kulcsot hoz létre a két végfelhasználó között, anélkül, hogy a kulcsot jogosulatlan harmadik fél megismerné;
-
-50. poszt-kvantumtitkosítás alkalmazásra kötelezett szervezet: a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH) elnökének rendeletében meghatározott,
-
-a) a kormányzati célú hálózatokról szóló kormányrendelet szerinti igénybevételre kötelezett szervezet,
-
-b) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti bank, valamint
-
-c) az 1. mellékletben meghatározott törvények hatálya alá tartozó közműszolgáltató és az 1. mellékletben meghatározott törvények felhatalmazása alapján kiadott jogszabályok hatálya alá tartozó közszolgáltatást nyújtó szervezet.”
-
-205. § Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 2. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) E törvény rendelkezéseit a poszt-kvantumtitkosítás vonatkozásában kizárólag a poszt-kvantumtitkosítás alkalmazásra kötelezett szervezetre kell alkalmazni.”
-
-206. § Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 5. § b) pontja helyébe a következő rendelkezés lép:
-
-(Az e törvény hatálya alá tartozó elektronikus információs rendszerek teljes életciklusában meg kell valósítani és biztosítani kell)
-
-„b) az elektronikus információs rendszer és elemeinek sértetlensége és rendelkezésre állása, a poszt-kvantumtitkosítás alkalmazásra kötelezett szervezetek esetén a fizikailag elkülönített helyszíneik közötti kormányzati célú hálózaton, továbbá a publikus internet felületen zajló, az elektronikus hírközlési törvény szerinti szolgáltató igénybevételével vagy egyéb információs társadalommal összefüggő szolgáltatásaik igénybevétele során a hagyományos kriptográfiai alkalmazáson felüli biztonságot nyújtó poszt-kvantum titkosítási alkalmazással történő”
-
-(zárt, teljes körű, folytonos és kockázatokkal arányos védelmét.)
+206. §
 
 207. §
 
-208. § Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény a következő fejezettel egészül ki:
-
-„III/B. FEJEZET
-
-A POSZT-KVANTUMTITKOSÍTÁS ALKALMAZÁSÁNAK SZABÁLYAI
-
-12/F. A poszt-kvantumtitkosítás alkalmazásra kötelezett szervezet védelme
-
-22/F. § A poszt-kvantumtitkosítás alkalmazásra kötelezett szervezet a jogszabályban meghatározott feladatainak ellátása körében köteles a fizikailag elkülönített helyszínei közötti kormányzati célú hálózaton, továbbá a publikus internet felületen zajló, az elektronikus hírközlési törvény szerinti szolgáltató igénybevételével vagy egyéb információs társadalommal összefüggő szolgáltatás igénybevétele esetén poszt-kvantumtitkosítás alkalmazást annak kiépítéséhez az alkalmazás nyújtására jogosult, nyilvántartásba vett szervezettől beszerezni, és a kezelésében álló hálózatain a védelmet kialakítani, annak érdekében, hogy az elektronikus úton történő információáramlás a kvantumszámítógép okozta kibertámadás ellen biztosított legyen.
-
-12/G. A poszt-kvantumtitkosítás alkalmazást nyújtó szervezetre vonatkozó feltételek
-
-22/G. § (1) Kizárólag olyan szervezet nyújthat poszt-kvantumtitkosítás alkalmazást a poszt-kvantumtitkosításra kötelezett szervezet számára (a továbbiakban: poszt-kvantumtitkosítás alkalmazást nyújtó szervezet), amely
-
-a) nemzetbiztonsági kockázatot nem jelent és
-
-b) a 22/H. § szerinti követelményeknek megfelel.
-
-(2) Az (1) bekezdésben foglaltak alapján a tanúsítási eljárásban történő részvételre kizárólag olyan gazdasági szereplő jelentkezhet, amely
-
-a) a minősített adat védelméről szóló törvényben meghatározott telephely biztonsági tanúsítvánnyal rendelkezik, valamint
-
-b) a munkavállalója, alvállalkozója a minősített adat védelméről szóló törvényben meghatározott személyi biztonsági tanúsítvánnyal rendelkezik.
-
-(3) Az SZTFH nyilvántartást vezet arról az (1) bekezdés szerinti szervezetről (a továbbiakban: tanúsított szervezet), amely poszt-kvantumtitkosítás alkalmazásra vonatkozó tevékenységet a poszt-kvantumtitkosításra kötelezett felhasználó számára jogosult nyújtani.
-
-22/H. § (1) A poszt-kvantumtitkosítás alkalmazás nyújtására vonatkozó tevékenységet csak olyan szervezet végezhet, amely által használt informatikai rendszer biztosítja a rendszerelemek zártságát, és megakadályozza az informatikai rendszerhez történő jogosulatlan hozzáférést, valamint észrevétlen módosítását. A poszt-kvantumtitkosítás alkalmazást nyújtó szervezet informatikai rendszerének a magas információbiztonsági követelményein túl meg kell felelnie az általános információbiztonsági zártsági követelményeknek is. Ennek érdekében a poszt-kvantumtitkosítás alkalmazást nyújtó szervezetnek adminisztratív, fizikai és logikai intézkedésekkel biztosítania kell az általános információbiztonsági zártsági követelmények teljesülését.
-
-(2) Az (1) bekezdésben meghatározott követelményeknek való megfelelést a poszt-kvantumtitkosítás alkalmazást nyújtani kívánó szervezetnek a tanúsító szervezet (a továbbiakban: tanúsító szervezet) által kiadott, az informatikai rendszerre vonatkozó zártsági tanúsítással kell igazolnia, az SZTFH a tanúsító szervezetet nyilvántartásba veszi.
-
-(3) A nyilvántartásba vett tanúsító szervezet szakvéleményt bocsát ki a poszt-kvantumtitkosítás alkalmazást nyújtani kívánó szervezetnek, hogy a végpontok közötti alkalmazása kriptográfiai alkalmazáson felüli biztonságot nyújtó poszt-kvantumtitkosításra alkalmas.
-
-(4) Ha a tanúsító szervezet a tanúsított szervezet informatikai rendszerével kapcsolatosan olyan tényt állapít meg, amely a szervezet folyamatos működését kedvezőtlenül érinti vagy bűncselekmény elkövetésére, jogszabály megsértésére vagy ezek veszélyére utaló körülményeket észlel, haladéktalanul értesíti az SZTFH-t.
-
-12/H. A tanúsító szervezetre vonatkozó rendelkezések
-
-22/I. § (1) A tanúsító szervezet a poszt-kvantumtitkosítás alkalmazást nyújtani kívánó szervezet, vagy a tanúsított szervezet kezelésében lévő, a tanúsítás lefolytatásához szükséges adatokat – ideértve a megismert minősített adatot, személyes adatot vagy különleges adatot, üzleti titkot, banktitkot, fizetési titkot, biztosítási titkot, értékpapírtitkot, pénztártitkot, más hivatás gyakorlásához kötött titkot – kizárólag a 22/H. § szerinti tanúsítással igazolandó követelmények teljesülésének vizsgálata céljából, a tanúsítási eljárás lefolytatásához szükséges mértékben, a tanúsítási eljárás befejezéséig jogosult kezelni, azokat harmadik személy részére nem továbbíthatja.
-
-(2) A tanúsító szervezet köteles szabályzatban rögzíteni azon munkaköröket, amelyeket betöltő személyek a tanúsítási eljárás során az üzleti titokhoz hozzáférhetnek, annak tartalmát megismerhetik. Az eljárásban részt vevő munkatársakat a tanúsítási eljárás során tudomásukra jutott üzleti titok tekintetében titoktartási kötelezettség terheli a tanúsító szervezetnél fennálló jogviszonyuk megszűnését követően is.”
+208. §
 
 209. § (1)
 
@@ -608,25 +518,13 @@ b) a munkavállalója, alvállalkozója a minősített adat védelméről szól�
 
 (5)
 
-(6) Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 24. §-a a következő (4) bekezdéssel egészül ki:
+(6)
 
-„(4) Felhatalmazást kap az SZTFH elnöke, hogy rendeletben meghatározza
-
-a) a poszt-kvantumtitkosítás alkalmazásra kötelezett szervezeteket,
-
-b) a poszt-kvantumtitkosítás alkalmazást nyújtó szervezet nyilvántartásba vételére vonatkozó részletes szabályokat,
-
-c) a poszt-kvantumtitkosítás alkalmazást nyújtó szervezet informatikai rendszerelemei zártsága tanúsítására vonatkozó részletes szabályokat,
-
-d) a 22/H. § szerinti tanúsítást végző szervezet nyilvántartásba vételére vonatkozó részletes szabályokat.”
-
-210. § Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény 15. alcíme a következő 26/A. §-sal egészül ki:
-
-„26/A. § E törvénynek az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXXVI. törvénnyel megállapított 1. § (1) bekezdés 49–50. pontját, 2. § (9) bekezdését, 5. § b) pontját, valamint 22/F–22/I. §-át e rendelkezések hatálybalépését követően az SZTFH elnökének a poszt-kvantumtitkosítás alkalmazást nyújtó szervezet nyilvántartásba vételére vonatkozó részletes szabályokat tartalmazó, az 1. § (1) bekezdés 50. pontjában meghatározott szervezetekre vonatkozó rendeletei hatálybalépését követő 60. naptól kötelesek alkalmazni a rendeletekben meghatározott poszt-kvantumtitkosítás alkalmazásra kötelezett szervezetek.”
+210. §
 
 211. §
 
-212. § Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény az 1. melléklet szerinti 1. melléklettel egészül ki.
+212. §
 
 #### 30. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
 
@@ -636,15 +534,7 @@ d) a 22/H. § szerinti tanúsítást végző szervezet nyilvántartásba vétel�
 
 #### 31. A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény módosítása
 
-215. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 1. § (1) bekezdése a következő e) és f) ponttal egészül ki:
-
-[A Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság)]
-
-„e) az elektronikus információs rendszerek védelméhez szükséges poszt-kvantumtitkosítás alkalmazást nyújtó szervezetek nyilvántartásba vételével, valamint
-
-f) az elektronikus információs rendszerek védelméhez szükséges poszt-kvantumtitkosítás alkalmazást nyújtó szervezetek információbiztonsági tanúsítását végző szervezetek (a továbbiakban: tanúsító szervezet) nyilvántartásba vételével”
-
-(kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogszabálynak van alárendelve.)
+215. §
 
 216. §
 
@@ -662,11 +552,7 @@ f) az elektronikus információs rendszerek védelméhez szükséges poszt-kvant
 
 (4)
 
-(5) A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. §-a a következő t) ponttal egészül ki:
-
-(A Hatóság elnöke)
-
-„t) megállapítja az elektronikus információs rendszerek védelméhez szükséges poszt-kvantumtitkosítás alkalmazást nyújtó szervezet nyilvántartásba vételére vonatkozó, valamint poszt-kvantumtitkosítás alkalmazást nyújtó szervezet informatikai rendszerelemei zártsága tanúsítására vonatkozó és ezt tanúsító szervezet nyilvántartásba vételére vonatkozó részletes szabályokat, valamint meghatározza a poszt-kvantumtitkosítás alkalmazásra kötelezettek körét,”
+(5)
 
 (6)
 
@@ -678,9 +564,7 @@ f) az elektronikus információs rendszerek védelméhez szükséges poszt-kvant
 
 221. §
 
-222. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 14. alcíme a következő 34/C. §-sal egészül ki:
-
-„34/C. § E törvénynek az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXXVI. törvénnyel megállapított 1. § (1) bekezdés e) és f) pontját, és 13. § t) pontját e rendelkezések hatálybalépését követően a Hatóság elnökének a poszt-kvantumtitkosítás alkalmazást nyújtó szervezet nyilvántartásba vételére vonatkozó részletes szabályokat tartalmazó rendelete hatálybalépését követő 60. naptól kötelesek alkalmazni a poszt-kvantumtitkosítás alkalmazásra kötelezett szervek.”
+222. §
 
 223. §
 
@@ -774,19 +658,3 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 (5) E törvény 207. §-a, 209. §-a, 216–218. §-a és a 219. § (3) bekezdése az ENISA-ról (az Európai Uniós Kiberbiztonsági Ügynökségről) és az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról, valamint az 526/2013/EU rendelet hatályon kívül helyezéséről (kiberbiztonsági jogszabály) című, 2019. április 17-i (EU) 2019/881 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 1. melléklet a 2021. évi CXXXVI. törvényhez
-
-„1. melléklet a 2013. évi L. törvényhez
-
-A következő törvények hatálya alá tartozó közműszolgáltató és a következő törvények felhatalmazása alapján kiadott jogszabályok hatálya alá tartozó, közszolgáltatást nyújtó szervezet minősül poszt-kvantumtitkosítás alkalmazására kötelezett szervezetnek:
-
-1. a földgázellátásról szóló törvény,
-
-2. a földgáz biztonsági készletezéséről szóló törvény,
-
-3. a villamos energiáról szóló törvény,
-
-4. a távhőszolgáltatásról szóló törvény,
-
-5. a víziközmű-szolgáltatásról szóló törvény, valamint
-
-6. a hulladékról szóló törvény.”

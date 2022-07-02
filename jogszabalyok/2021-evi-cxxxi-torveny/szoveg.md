@@ -44,12 +44,7 @@ a minimálbér és a garantált bérminimum 2022. évi emelésével összefügg�
 
 13. §
 
-14. § Nem lép hatályba az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvény
-
-- a) 83. §-a,
-- b) 86. §-a
-- c) 87. §-a
-- d) 88. § a) pontja.
+14. §
 
 #### 9. Az egyes törvényeknek a szakképzéssel és a felnőttképzéssel összefüggő módosításáról szóló 2021. évi LXXXIII. törvény módosítása
 

@@ -439,9 +439,7 @@ a végrehajtásához szükséges rendelkezéseket állapít meg.
 
 #### 30. §
 
-31. § A Pmt. 10. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Az ügyfél kockázati szintjének megállapítása érdekében a szolgáltató figyelembe veszi az Afad-törvény 14. § (1) bekezdése alapján az ügyfélről közzétett adatokat és azok minősítését.”
+#### 31. §
 
 #### 32. §
 

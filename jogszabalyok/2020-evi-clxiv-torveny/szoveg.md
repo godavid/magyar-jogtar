@@ -12,11 +12,7 @@ az ügyfelek számára adminisztratív terheket tartalmazó egyes törvények m�
 
 #### 3. A gépjárműadóról szóló 1991. évi LXXXII. törvény módosítása
 
-3. § A gépjárműadóról szóló 1991. évi LXXXII. törvény 18. § 26. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„26. lassú jármű és a lassú jármű pótkocsija: a 2022. július 1-jén hatályos, a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendelet rendelkezései alapján igazolólappal vagy a fehér alapon 3-3 piros betű- és számjellel, Y kezdőbetűjellel és igazolólappal ellátott jármű, amely a sík úton önerejéből vagy vontatója által 25 km/óra sebességnél gyorsabban haladni nem képes,”
+3. §
 
 #### 4. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
@@ -114,11 +110,7 @@ az ügyfelek számára adminisztratív terheket tartalmazó egyes törvények m�
 
 #### 21. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
-21. § (1) A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény (a továbbiakban: Kknyt.) 2. § 19. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazása során)
-
-„19. Ideiglenes rendszámtáblák nyilvántartása: a Magyarországon ideiglenesen forgalomba helyezett vagy ideiglenesen forgalomban tartott járművekhez kiadott, a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott ideiglenes rendszámtáblának és az ideiglenes rendszámtábla jogosultjának, továbbá a 3 napos érvényességi idővel kiadott ideiglenes forgalomban tartási engedélyek elektronikus nyilvántartása.”
+21. § (1)
 
 (2)
 
@@ -220,7 +212,7 @@ az ügyfelek számára adminisztratív terheket tartalmazó egyes törvények m�
 
 41. § (1)
 
-(2) Nem lép hatályba a 2019. évi CXV. törvény 9. § (1) bekezdése, továbbá a 15. és 16. §-a.
+(2)
 
 #### 42. Az egyes eljárások egyszerűsítése és elektronizálása érdekében szükséges törvénymódosításokról szóló 2019. évi CXVI. törvény módosítása
 
