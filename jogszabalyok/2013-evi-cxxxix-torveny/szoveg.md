@@ -967,6 +967,8 @@ folytat le.
 
 (2) A döntés tartalmazza az eljáró hatóság, az ügyfelek és az ügy azonosításához szükséges minden adatot, a rendelkező részt – az MNB döntésével, a szakhatóság állásfoglalásával, a jogorvoslat igénybevételével kapcsolatos tájékoztatással és a felmerült eljárási költséggel –, továbbá a megállapított tényállásra, a bizonyítékokra, a szakhatósági állásfoglalás indokolására, a mérlegelés és a döntés indokaira, valamint az azt megalapozó jogszabályhelyek megjelölésére is kiterjedő indokolást.
 
+(2a) A jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvény (a továbbiakban: Jht.) 23. §-a alapján hozott határozat a (2) bekezdésben foglaltakon kívül tartalmazza az arról szóló tájékoztatást is, hogy a határozatot az MNB a honlapján közzéteszi.
+
 (3) Jogorvoslatról való tájékoztatást mellőző, az indokolásban pedig csak az azt megalapozó jogszabályhelyek megjelölését tartalmazó egyszerűsített döntés hozható
 
 - a) ha az MNB a kérelemnek teljes egészében helyt ad, és az ügyben nincs ellenérdekű ügyfél, vagy a döntés az ellenérdekű ügyfél jogát vagy jogos érdekét nem érinti,
@@ -1077,15 +1079,19 @@ kézbesítettnek kell tekinteni. Ha a kifogásnak az MNB helyt ad, az igazolási
 - d) a határozata ellen indított jogorvoslati eljárás tényét,
 - e) a határozata elleni jogorvoslati eljárás során hozott jogerős ítélet rendelkező részét.
 
-(1a) Az (1) bekezdésben meghatározottakat meghaladóan az MNB a Hpt. 185. §-a és 189–192. §-a, a Tpt. 400. § (1) bekezdés o) pont 2. alpontja, a Tpt. 400. § (1) bekezdés w) pontja, a Tpt. 400. § (2) bekezdése, a Bszt. 164. §-a, a Kbftv. 174/A. §-a, a Bit. 291. § és 431. §-a, az Fnytv. 64. § (1) bekezdése és 85/D. §-a, az Mpt. 110. § (1) bekezdése, valamint az Öpt. 65. § (3) bekezdése alapján hozott, (1) bekezdés szerint közzétett, véglegessé vált határozatában megjelöli a jogsértő természetes személy nevét is.
+(1a) Az (1) bekezdésben meghatározottakat meghaladóan az MNB a Hpt. 185. §-a és 189–192. §-a, a Jht. 23. §-a, a Tpt. 400. § (1) bekezdés o) pont 2. alpontja, a Tpt. 400. § (1) bekezdés w) pontja, a Tpt. 400. § (2) bekezdése, a Bszt. 164. §-a, a Kbftv. 174/A. §-a, a Bit. 291. § és 431. §-a, az Fnytv. 64. § (1) bekezdése és 85/D. §-a, az Mpt. 110. § (1) bekezdése, valamint az Öpt. 65. § (3) bekezdése alapján hozott, (1) bekezdés szerint közzétett, véglegessé vált határozatában megjelöli a jogsértő természetes személy nevét is.
+
+(1b) Az MNB Jht. 23. §-a alapján hozott határozata elleni jogorvoslati eljárás során hozott, az (1) bekezdés e) pontja szerinti jogerős ítélet rendelkező részét az MNB indokolatlan késedelem nélkül teszi közzé honlapján.
 
 (2) Az MNB az (1) bekezdés szerinti közzététel során tisztség betöltését engedélyező határozat esetén az (1) bekezdésben meghatározottakon túl a tisztségviselő családi- és utónevét is közzéteszi honlapján.
+
+(2a) Az MNB az intézkedést, illetve kivételes intézkedést tartalmazó határozatát az ügyfél részére történő kézbesítést követően indokolatlan késedelem nélkül teszi közzé.
 
 (3) Az MNB az e törvény vagy a Kbftv. alapján – az ÁÉKBV-alapkezelőre vagy az ÁÉKBV letétkezelőjére vonatkozóan – hozott intézkedésről, pénzbírságról szóló határozatát nem teszi közzé, ha a közzététel a pénzügyi közvetítőrendszer stabil, zavartalan működését veszélyeztetné.
 
 (3a) Az (1) bekezdésében meghatározott közzétételi kötelezettség a fogyasztóvédelmi ellenőrzési eljárásban hozott döntések közül kizárólag a hivatalból indított fogyasztóvédelmi eljárásokban hozott, intézkedést tartalmazó határozatokra, a piacfelügyeleti eljárásban hozott döntések közül kizárólag az intézkedést tartalmazó határozatokra terjed ki.
 
-(4) Az MNB anonim módon teszi közzé a Hpt.-ben, a Tpt.-ben, a Bszt.-ben, a Kbftv.-ben, az Mpt.-ben és az Öpt.-ben meghatározott intézkedésről vagy kivételes intézkedésről, valamint a pénzbírságról hozott határozatát, ha a nyilvánosságra hozatal
+(4) Az MNB anonim módon teszi közzé a Hpt.-ben, a Jht.-ban, a Tpt.-ben, a Bszt.-ben, a Kbftv.-ben, az Mpt.-ben és az Öpt.-ben meghatározott intézkedésről vagy kivételes intézkedésről, valamint a pénzbírságról hozott határozatát, ha a nyilvánosságra hozatal
 
 - a) aránytalan a természetes személy által elkövetett jogsértéshez képest,
 - b) aránytalan hátrányt okoz a természetes és jogi személyekre nézve,
@@ -1109,7 +1115,9 @@ kézbesítettnek kell tekinteni. Ha a kifogásnak az MNB helyt ad, az igazolási
 
 akkor határozhat úgy, hogy a közzétételt – az (5) bekezdéssel összhangban – elhalasztja, nem teszi közzé a határozatát, vagy az anonimitás megőrzésével teszi közzé azt.
 
-(6) Az MNB a Hpt.-ben, a Tpt.-ben, a Bszt.-ben, a Kbftv.-ben, a Bit.-ben, az Fnytv.-ben, az Mpt.-ben és az Öpt.-ben meghatározott intézkedésekről és kivételes intézkedésekről, pénzbírságról hozott határozatát legalább 5 évig és legfeljebb 10 évig elérhetővé teszi a honlapján.
+(5d) Ha az MNB a Jht. 23. §-ának megsértése miatt alkalmazott intézkedésről, illetve kivételes intézkedésről szóló határozatát az anonimitás megőrzésével teszi közzé, a releváns adatok közzétételét elhalaszthatja, amíg a közzététel ellen szóló okok meg nem szűnnek.
+
+(6) Az MNB a Hpt.-ben, a Jht.-ban, a Tpt.-ben, a Bszt.-ben, a Kbftv.-ben, a Bit.-ben, az Fnytv.-ben, az Mpt.-ben és az Öpt.-ben meghatározott intézkedésekről és kivételes intézkedésekről, pénzbírságról hozott határozatát legalább 5 évig és legfeljebb 10 évig elérhetővé teszi a honlapján.
 
 #### 53/A. §
 
@@ -2537,6 +2545,7 @@ terjedhet.
   - 2.26. szanálási feladatkörben a szavatoló tőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó azon minimumkövetelményről, amelyet a Szantv. 68/A. §-ával vagy 68/B. §-ával összhangban a Szantv. hatálya alá tartozó minden egyes szervezet tekintetében megállapítottak;
   - 2.27. a Bszt. 164. §-a szerinti szankciók szintjéről,
   - 2.28. a Bszt. 107. § (1) és (4) bekezdése szerinti döntéséről;
+  - 2.29. a Jht. 23. §-a szerint előírt valamennyi intézkedéséről – beleértve a kapcsolódó jogorvoslati kérelmeket és azok kimenetelét –, valamint valamennyi elrendelt büntetőjogi szankcióval kapcsolatos jogerős ítéletről;
 - 3. az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot
   - 3.1.
   - 3.2. a biztosító, a viszontbiztosító és a foglalkoztatói nyugdíjintézmény tevékenységi engedélyének kiadásáról és visszavonásáról,
@@ -3293,6 +3302,7 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 - 19. a lakóingatlanokhoz kapcsolódó fogyasztói hitelmegállapodásokról, valamint a 2008/48/EK és a 2013/36/EU irányelv és az 1093/2010/EU rendelet módosításáról szóló, 2014. február 4-i 2014/17/EU európai parlamenti és tanácsi irányelvnek
 - 20. a befektetési vállalkozások prudenciális felügyeletéről, valamint a 2002/87/EK, a 2009/65/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU és a 2014/65/EU irányelv módosításáról szóló, 2019. november 27-i (EU) 2019/2034 európai parlamenti és tanácsi irányelvnek
 - 21. a biztosítási és viszontbiztosítási üzleti tevékenység megkezdéséről és gyakorlásáról szóló 2009/138/EK irányelv (Szolvencia II.), a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv és a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv módosításáról szóló, 2019. december 18-i (EU) 2019/2177 európai parlamenti és tanácsi irányelvnek
+- 22. a fedezett kötvények kibocsátásáról és a fedezett kötvények közfelügyeletéről, továbbá a 2009/65/EK és a 2014/59/EU irányelv módosításáról szóló, 2019. november 27-i (EU) 2019/2162 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
