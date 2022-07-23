@@ -1172,7 +1172,7 @@ l) törvényben meghatározott további feladat- és hatásköröket gyakorol.
 
 (1) A helyi önkormányzati képviselőket és polgármestereket a választópolgárok általános és egyenlő választójog alapján, közvetlen és titkos szavazással, a választók akaratának szabad kifejezését biztosító választáson, sarkalatos törvényben meghatározott módon választják.
 
-(2) A helyi önkormányzati képviselők és polgármesterek általános választását a helyi önkormányzati képviselők és polgármesterek előző általános választását követő ötödik év október hónapjában kell megtartani.
+(2) A helyi önkormányzati képviselők és polgármesterek általános választását a helyi önkormányzati képviselők és polgármesterek előző általános választását követő ötödik év április, május, június vagy július hónapjában, az európai parlamenti képviselők választásával egyidejűleg kell megtartani.
 
 (3) A képviselő-testület megbízatása a helyi önkormányzati képviselők és polgármesterek általános választásának napjáig tart. Jelöltek hiányában elmaradt választás esetén a képviselő-testület megbízatása meghosszabbodik az időközi választás napjáig. A polgármester megbízatása az új polgármester megválasztásáig tart.
 
@@ -1643,6 +1643,8 @@ o) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény mó
 p) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény módosításáról szóló 2011. évi CLIX. törvény.
 
 #### 27.
+
+A Magyarország Alaptörvényének tizenegyedik módosításával megállapított 35. cikk (2) bekezdését a helyi önkormányzati képviselők és polgármesterek 2019. évi általános választását követő helyi önkormányzati képviselők és polgármesterek általános választására is alkalmazni kell azzal, hogy a 35. cikk (3) bekezdésétől eltérően a hivatalban lévő képviselő-testület és polgármester megbízatása 2024. október 1-jéig tart.
 
 #### 28.
 
