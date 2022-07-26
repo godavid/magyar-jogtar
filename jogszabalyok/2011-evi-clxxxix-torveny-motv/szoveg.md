@@ -1537,7 +1537,7 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-145. § (1) Az 1–83. §, a 84. § (1)–(4) bekezdése, a 85–109. §, a 125–142. §, a 143. § (1) bekezdés a)–g) pontja, a 143. § (2)–(4) bekezdése, a 144. §, a 146. §, a 146/C. §, a 146/F. §, a 146/G. §, a 146/H. §, a 146/I. §, valamint a 2. és a 3. melléklet az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
+145. § (1) Az 1–83. §, a 84. § (1)–(4) bekezdése, a 85–109. §, a 125–142. §, a 143. § (1) bekezdés a)–g) pontja, a 143. § (2)–(4) bekezdése, a 144. §, a 146. §, a 146/C. §, a 146/F. §, a 146/G. §, a 146/H. §, a 146/I. §, a 146/J. §, valamint a 2. és a 3. melléklet az Alaptörvény 31. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvény 42. § 16. és 17. pontja, 108. §-a, valamint 143. § (1) bekezdésének f) pontja az Alaptörvény 38. cikk (1) bekezdése alapján is sarkalatosnak minősül.
 
@@ -1581,6 +1581,14 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 146/I. § (1) Az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény és egyéb törvények módosításáról szóló 2022. évi I. törvénnyel (a továbbiakban: Módtv2.) megyei jogú várossá nyilvánított település törvényben meghatározott megyei jogú városi jogállásából származó feladatait a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választását követően, a megyei jogú város közgyűlésének alakuló ülésétől látja el.
 
 (2) A Módtv2.-vel megyei jogú várossá nyilvánítás – a törvény szerinti feladatok ellátásának a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választásáig való változatlansága miatt – nem érinti az érintett település képviselő-testületét és a megye közgyűlését, arra tekintettel időközi önkormányzati választás kitűzése nem szükséges.
+
+146/J. § (1) E §-t a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választására kell alkalmazni.
+
+(2) Ahol e törvény a választáshoz, a választás eredményének jogerős megállapításához, illetve a választás napjához jogkövetkezményt fűz, ott a jogkövetkezmény alkalmazásának kezdő időpontjaként 2024. október 1. napját kell érteni.
+
+(3) Az Alaptörvény ZÁRÓ ÉS VEGYES RENDELKEZÉSEK rész 27. cikke alapján a helyi önkormányzati képviselők és polgármesterek 2019. évi általános választását követő helyi önkormányzati képviselők és polgármesterek általános választásán hivatalban lévő képviselő-testület és polgármester megbízatása 2024. október 1-jéig tart.
+
+(4) A képviselő-testület a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választását követően 2024. október 1-jéig nem dönthet a képviselő-testület feloszlásáról.
 
 ### Módosító rendelkezések
 

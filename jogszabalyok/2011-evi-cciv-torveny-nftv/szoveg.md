@@ -1039,7 +1039,7 @@ feltéve, hogy a hallgató a hallgatói jogviszonyból eredő kötelezettségein
 
 48. § (1) A hallgatót magyar állami (rész)ösztöndíjas vagy önköltséges képzési formára kell besorolni.
 
-(2) A felsőoktatási intézmény tanévenként köteles önköltséges képzésre átsorolni azt a magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgatót, aki az utolsó két olyan félév átlagában, amelyben hallgatói jogviszonya nem szünetelt, illetve nem a 81. § (3) és (4) bekezdésében meghatározott külföldi képzésben vett részt, nem szerzett legalább tizennyolc kreditet, vagy nem érte el az intézmény szervezeti és működési szabályzatában – a Kormány rendeletében meghatározottak szerint – megállapított tanulmányi átlagot, továbbá azt, aki a 48/D. § (2) bekezdése szerinti nyilatkozatát visszavonja.
+(2) A felsőoktatási intézmény – a Kormány által rendeletben meghatározott rend szerint – tanévenként köteles önköltséges képzésre átsorolni azt a magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgatót, aki az utolsó két olyan félév átlagában, amelyben hallgatói jogviszonya nem szünetelt, illetve nem a 81. § (3) és (4) bekezdésében meghatározott külföldi képzésben vett részt, nem szerzett vagy nem érte el legalább – a felsőoktatási intézmény szervezeti és működési szabályzatában a tanévet megelőző legalább 15 nappal meghatározott – kreditet vagy tanulmányi átlagot, továbbá azt, aki a 48/D. § (2) bekezdése szerinti nyilatkozatát visszavonja.
 
 (2a) A (2) bekezdés rendelkezéseit a doktori képzésben nem kell alkalmazni.
 
@@ -1745,6 +1745,7 @@ irányuló eljárásban.
 - h) hozzájárulása szükséges a felsőoktatási intézmény
   - ha) hatáskörében történő rendszeres pénzjuttatással járó cím, elismerés alapításához; elismerés, cím alapján rendszeres pénzjuttatás folyósításához,
   - hb) éves képzési tevékenységének – különösen az indított szakok, a képzés megszervezésének módozatai, a tervezett szakos hallgatói kapacitás – kialakításához;
+  - hc) szervezeti és működési szabályzatának 48. § (2) bekezdését meghatározó rendelkezéséhez.
 - i) a felsőoktatási intézmény működése, gazdálkodása ellenőrzése céljából jogosult az intézmény tanulmányi, gazdálkodási, illetve egyéb nyilvántartási adataihoz való hozzáférésre;
 - j) jóváhagyásával határozza meg a felsőoktatási intézmény az intézményben folytatott képzés költségét;
 - k) gyakorolja az állami felsőoktatási intézményben a konzisztórium tagjainak delegálásával, megbízásával, visszahívásával, a megbízás megszüntetésével kapcsolatos döntési hatásköröket.
@@ -3163,6 +3164,14 @@ vonatkozó szabályait kell alkalmazni.
 
 (2) Az (1) bekezdésben meghatározott doktorandusz fokozatszerzési eljárásában a hallgatói jogviszony szünetelése legfeljebb négy félév lehet.
 
+117/H. § (1) E törvénynek a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvénnyel (a továbbiakban: Módtv4.) megállapított 48. § (2) bekezdését és 73. § (3) bekezdés h) pontját első alkalommal a 2022/2023. tanév tekintetében kell alkalmazni.
+
+(2) A 48. § (2) bekezdésétől eltérően a 2021/2022. tanévben megszerzendő kreditek számát és elérendő súlyozott tanulmányi átlagot a szenátus véleményének kikérése után a fenntartó állapítja meg 2022. augusztus 10-éig azzal, hogy a megszerzendő kredit 18 kredit/félévnél több, az elérendő átlag pedig a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló kormányrendeletben (a továbbiakban: R.) meghatározott súlyozott tanulmányi átlagnál magasabb nem lehet.
+
+(3) Ha a fenntartó nem dönt a (2) bekezdésben meghatározott határidőn belül, akkor az átsorolást a 18 kredit/félév és az R.-ben a 2021/2022. tanév tekintetében meghatározott súlyozott tanulmányi átlag figyelembe vételével kell elvégezni.
+
+(4) E törvénynek a Módtv4.-gyel megállapított 48. § (2) bekezdését és 73. § (3) bekezdés h) pontját, valamint az (1)–(3) bekezdést a közfeladatot ellátó közérdekű vagyonkezelő alapítványok tekintetében is alkalmazni kell.
+
 #### 71. Az Európai Unió jogának való megfelelés
 
 118. § Ez a törvény a következő uniós jogi aktusoknak való részleges megfelelést szolgálja:
@@ -3176,6 +3185,12 @@ vonatkozó szabályait kell alkalmazni.
 - g) a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelv.
 
 119. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+### XXXII/A. Fejezet — SARKALATOS RENDELKEZÉSEK
+
+#### 71/A. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
+
+119/A. § A 117/H. § (4) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### XXXIII. Fejezet — MÓDOSÍTÓ RENDELKEZÉSEK
 

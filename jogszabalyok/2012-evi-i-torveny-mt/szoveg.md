@@ -528,6 +528,8 @@ foglaltaktól nem térhet el.
 
 (6) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a munkavállaló munkaviszonnyal összefüggő költségeinek megtérítésére vonatkozó szabályokat.
 
+(7) A munkavállaló számára lehetővé kell tenni, hogy az országgyűlési képviselők, az Európai Parlament tagjainak, a helyi önkormányzati képviselők és polgármesterek, valamint a nemzetiségi önkormányzati képviselők választásán, továbbá népszavazáson szavazhasson.
+
 52. § (1) A munkavállaló köteles
 
 - a) a munkáltató által előírt helyen és időben munkára képes állapotban megjelenni,
@@ -606,10 +608,11 @@ foglaltaktól nem térhet el.
 
 57. § (1) A felek megállapodása vagy kollektív szerződés
 
-- a) az 52. § (3) bekezdésében,
-- b) az 53. § (3)–(4) bekezdésében,
-- c) az 54. § (1) bekezdésében,
-- d) az 56. § (2)–(5) bekezdésében
+- a) az 51. § (7) bekezdésében,
+- b) az 52. § (3) bekezdésében,
+- c) az 53. § (3)–(4) bekezdésében,
+- d) az 54. § (1) bekezdésében,
+- e) az 56. § (2)–(5) bekezdésében
 
 foglaltaktól nem térhet el.
 

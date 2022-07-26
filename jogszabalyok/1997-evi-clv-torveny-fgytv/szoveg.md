@@ -1168,6 +1168,8 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 
 56/C. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
+56/D. § A 21. § (6) bekezdésétől, illetve a 23. §-tól eltérően, a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény hatálybalépésekor működő békéltető testület tagjainak és elnökének megbízatási ideje 2023. december 31-éig meghosszabbodik.
+
 ### Az Európai Unió jogának való megfelelés
 
 57. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
