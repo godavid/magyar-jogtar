@@ -3485,31 +3485,7 @@ munkanapra emelkedik.
 
 ### Címek
 
-253. § (1) A miniszterelnök – a megyei, illetve a fővárosi kormányhivatal javaslatára – határozatlan időre címzetes főjegyzői címet adományozhat az illetékességi területén tartósan kiemelkedő szakmai munkát végző jegyzőnek – ide nem értve az aljegyzőt –, aki
-
-- a) a cím adományozását megelőző tíz évben folyamatosan jegyzői tisztséget tölt be,
-- b) legmagasabb fokozatú minősítést kap. A cím adományozására minden évben július 1-je alkalmából kerül sor.
-
-(2) A címzetes főjegyzői cím adományozását a képviselő-testület a megyei, illetve a fővárosi kormányhivatal útján kezdeményezheti, amely a javaslatot köteles a saját és a jegyzői szakmai érdek-képviseleti szerv véleményével ellátva a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszterhez felterjeszteni. Ha a cím adományozását a megyei, illetve a fővárosi kormányhivatal kezdeményezi, ki kell kérnie a képviselő-testület, illetve a jegyzői szakmai érdek-képviseleti szerv véleményét. A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter a beérkezett javaslatokról kikéri a helyi önkormányzatokért felelős miniszter véleményét. Ezt követően a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter terjeszti fel a miniszterelnöknek a javaslatokat a címzetes főjegyzői cím adományozására.
-
-(3) Nem jogosult a jegyző a címzetes főjegyzői címre, ha a jegyzői közszolgálati jogviszonya – a (4) bekezdésben foglalt eseteket kivéve – megszűnt.
-
-(4) A címzetes főjegyzői címet továbbra is használhatja az,
-
-- a) akinek közszolgálati jogviszonya nyugállományba helyezése miatt szűnt meg;
-- b) aki a cím adományozását követően jegyzői közszolgálati jogviszonyát megszünteti és az azt követő munkanapon másik jegyzői közszolgálati jogviszonyt létesít.
-
-(5) A címzetes főjegyzői címet vissza kell vonni attól, aki az (1) bekezdés b) pontjában meghatározott feltétellel már nem rendelkezik, vagy akivel szemben jogerős fegyelmi büntetést szabtak ki. Az (1) bekezdés b) pontjában meghatározott feltétel hiánya esetén a polgármester köteles haladéktalanul kezdeményezni a megyei, illetve a fővárosi kormányhivatal útján a cím visszavonását. A polgármester kezdeményezheti a cím visszavonását attól is, aki etikai vétséget követett el.
-
-(6) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter javaslatára a címet a miniszterelnök vonja vissza.
-
-(7) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter javaslatára a miniszterelnök eltilthatja a cím viselésétől azt a nyugdíjas jegyzőt, aki a cím viselésére érdemtelenné vált.
-
-(8) A címre való jogosultság megszűnése, a cím visszavonása a már kifizetett címadományozási juttatást nem érinti.
-
-(9) A címzetes főjegyző számára a költségvetési törvény címadományozási juttatást állapíthat meg, amelynek fedezetét a központi költségvetés fejezeti kezelésű előirányzatként biztosítja. Abban az esetben, ha a költségvetési törvény címadományozási juttatást nem állapít meg, akkor a helyi önkormányzat rendeletében saját költségvetése terhére megállapíthat ilyen juttatást, azonban ennek összege nem haladhatja meg az illetményalap huszonnégyszeresét.
-
-(10) E § alkalmazásában a jegyzőn a főjegyzőt is érteni kell.
+#### 253. §
 
 ### Díjazás
 
@@ -3717,7 +3693,7 @@ részletes szabályokat.
 
 kell alkalmazni.
 
-260/E. § A köztisztviselő az egyes törvényeknek a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény hatálybalépésével összefüggő, valamint jogharmonizációs célú módosításáról szóló 2020. évi XIX. törvény hatálybalépését követően 2020. január és február hónapokra visszamenőleg jogosult az e törvény 2019. december 31-éig hatályos 133. §-a alapján hozott munkáltatói intézkedés szerint számított, 2018. évi minősítése, ennek hiányában teljesítményértékelése alapján eltérített 2019. évi december havi illetménye és a 2020. január havi illetménye közötti különbözetre. A különbözetet az egyes törvényeknek a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény hatálybalépésével összefüggő, valamint jogharmonizációs célú módosításáról szóló 2020. évi XIX. törvény hatálybalépését követő hónapra járó illetménnyel együtt kell részére egy összegben kifizetni.
+260/E. § A területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény (a továbbiakban: Módtv.) hatálybalépését megelőzően – a 253. § (1) bekezdése alapján – adományozott cím használatára a címzetes főjegyző a Módtv. hatálybalépését követően is jogosult azzal, hogy a cím használatára, a címre való jogosultság megszűnésére és a cím visszavonására a Módtv. hatálybalépését megelőző napon hatályos 253. § (3)–(10) bekezdését kell alkalmazni.
 
 ### Sarkalatossági záradék
 

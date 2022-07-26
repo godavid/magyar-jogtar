@@ -12,6 +12,8 @@ Ezekre az elvi alapokra figyelemmel, az Alaptörvény 8. cikkének és 31. cikk 
 
 (2) A Nemzeti Választási Bizottság az e törvényben szabályozott eljárásokkal kapcsolatos jogszabályok egységes értelmezése érdekében a választási szervek számára iránymutatást adhat ki.
 
+(3) A Ve. 2. § (4) bekezdését az aláírásgyűjtő ívre is alkalmazni kell.
+
 ### II. Fejezet — ORSZÁGOS NÉPSZAVAZÁS KEZDEMÉNYEZÉSE
 
 #### 1. A választópolgári kezdeményezés szervezője
@@ -125,7 +127,13 @@ határozatának a 30. § (3) bekezdésében foglaltak szerint a Magyar Közlöny
 
 (3) A Nemzeti Választási Bizottság a kérdés hitelesítéséről vagy annak megtagadásáról – beleértve a kezdeményezés visszautasításáról – szóló határozatát annak meghozatala napján közzéteszi a választások hivatalos honlapján.
 
-14. § (1) Ha a kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelenül eltelt vagy jogorvoslat esetén a Kúria a hitelesítő határozatot helybenhagyó, a hitelesítő határozat elleni felülvizsgálati kérelmet érdemi vizsgálat nélkül elutasító vagy a kérdést hitelesítő döntését a Magyar Közlönyben közzétette, a Nemzeti Választási Iroda az igénylését követően haladéktalanul, de legkésőbb öt napon belül átadja a szervező részére az általa igényelt mennyiségű, a hitelesített kérdést tartalmazó aláírásgyűjtő ívet. A Nemzeti Választási Iroda valamennyi aláírásgyűjtő ívet egyedi azonosítóval lát el.
+14. § (1) Ha
+
+- a) a kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelenül eltelt,
+- b) jogorvoslat esetén a Kúria döntésével szembeni alkotmányjogi panasz benyújtására rendelkezésre álló határidő eredménytelenül eltelt, illetve
+- c) az Alkotmánybíróság alkotmányjogi panaszt visszautasító vagy elutasító döntése az Alkotmánybíróság Határozatai hivatalos lapban megjelent,
+
+a Nemzeti Választási Iroda haladéktalanul, de legkésőbb öt napon belül átadja a szervező részére a hitelesített kérdést tartalmazó – az általa az a)–c) pontban megjelölt esemény bekövetkezését követően igényelt mennyiségű – aláírásgyűjtő ívet. A Nemzeti Választási Iroda valamennyi aláírásgyűjtő ívet egyedi azonosítóval lát el.
 
 (2) A szervező az aláírásgyűjtésre rendelkezésre álló időszakban bármikor igényelhet további aláírásgyűjtő íveket.
 
@@ -166,13 +174,13 @@ továbbá az aláírásgyűjtő ívet az aláírásával látja el.
 
 17/A. § Ha a Nemzeti Választási Bizottság 22. § (3) bekezdése szerinti jogerős határozata megállapítja, hogy az érvényes aláírások száma legalább kétszázezer, vagy az Országgyűlés az Alaptörvény 8. cikk (1) bekezdés második mondata alapján a népszavazást jogerősen elrendelte, az azonos tárgyú népszavazási kezdeményezésben a szervező részére aláírásgyűjtő ív nem adható ki.
 
-18. § (1) Az országgyűlési képviselők, az Európai Parlament tagjai, a helyi önkormányzati képviselők és polgármesterek, valamint a nemzetiségi önkormányzati képviselők általános választásának napját megelőző és követő negyvenedik nap között szünetel az aláírásgyűjtés.
+18. § (1) Az országgyűlési képviselők, az Európai Parlament tagjai, a helyi önkormányzati képviselők és polgármesterek, valamint a nemzetiségi önkormányzati képviselők általános választásának napját megelőző ötvenedik nap és a szavazást követő harmincadik nap között szünetel az aláírásgyűjtés.
 
-(2) Ha a szervező az aláírásgyűjtést az országgyűlési képviselők, az Európai Parlament tagjai, a helyi önkormányzati képviselők és polgármesterek vagy a nemzetiségi önkormányzati képviselők általános választásának napját megelőző negyvenedik napig nem fejezi be, az addig összegyűjtött aláírásokat tartalmazó és az aláírásokat nem tartalmazó aláírásgyűjtő íveket legkésőbb a szavazás napját megelőző harminckilencedik napon át kell adnia a Nemzeti Választási Irodának. E kötelezettség elmulasztása esetén a Nemzeti Választási Bizottság hivatalból eljárva bírságot szab ki. A bírság összege minden be nem nyújtott aláírásgyűjtő ív után nyolcszáz forint, de összesen nem haladhatja meg választópolgár esetében a kötelező legkisebb munkabér havi összegének ötszörösét, szervezet esetében tízszeresét.
+(2) Ha a szervező az aláírásgyűjtést az országgyűlési képviselők, az Európai Parlament tagjai, a helyi önkormányzati képviselők és polgármesterek vagy a nemzetiségi önkormányzati képviselők általános választásának napját megelőző ötvenedik napig nem fejezi be, az addig összegyűjtött aláírásokat tartalmazó és az aláírásokat nem tartalmazó aláírásgyűjtő íveket legkésőbb a szavazás napját megelőző negyvenkilencedik napon át kell adnia a Nemzeti Választási Irodának. E kötelezettség elmulasztása esetén a Nemzeti Választási Bizottság hivatalból eljárva bírságot szab ki. A bírság összege minden be nem nyújtott aláírásgyűjtő ív után nyolcszáz forint, de összesen nem haladhatja meg választópolgár esetében a kötelező legkisebb munkabér havi összegének ötszörösét, szervezet esetében tízszeresét.
 
 (3) A (2) bekezdésben meghatározott határidőben át nem adott aláírásgyűjtő íveken gyűjtött aláírás érvénytelen.
 
-(4) A szavazás napját követő negyvenedik napon a Nemzeti Választási Iroda átadja a szervező részére az általa igényelt mennyiségű, a hitelesített kérdést tartalmazó aláírásgyűjtő ívet.
+(4) A szavazás napját követő harmincegyedik napon a Nemzeti Választási Iroda átadja a szervező részére az általa igényelt mennyiségű, a hitelesített kérdést tartalmazó aláírásgyűjtő ívet.
 
 #### 5. Az aláírások ellenőrzése
 
@@ -315,6 +323,8 @@ továbbá az aláírásgyűjtő ívet az aláírásával látja el.
 - b) a Nemzeti Választási Bizottság határozata számát és helybenhagyásának tényét, valamint
 - c) tájékoztatást arról, hogy a Kúria határozata megtekinthető a Kúria honlapján.
 
+(5) A Kúria (1) bekezdés szerinti döntése elleni alkotmányjogi panaszt a Kúria döntésének Magyar Közlönyben történt közzétételétől számított nyolc napon belül lehet benyújtani. Az Alkotmánybíróság az alkotmányjogi panaszról harminc napon belül dönt.
+
 #### 9. A népszavazás kötőereje
 
 31. § (1) Az Országgyűlés – ha a népszavazás törvényalkotási kötelezettséget keletkeztet – köteles a népszavazás napjától számított száznyolcvan napon belül az érvényes és eredményes népszavazás döntésének megfelelő törvényt megalkotni.
@@ -408,7 +418,7 @@ szervezhet.
 
 42. § A helyi választási bizottság a kérdés hitelesítésével kapcsolatos határozatát nyolc napon belül az önkormányzat hivatalos lapjában vagy a helyben szokásos módon közzéteszi.
 
-43. § (1) A kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelen elteltét – jogorvoslat esetén a törvényszék hitelesítő határozatot helybenhagyó vagy a kérdést hitelesítő döntésének a helyi választási bizottsággal való közlését – követő öt napon belül a helyi választási iroda vezetője hitelesítési záradékkal látja el az aláírásgyűjtő ív mintapéldányát, és azt átadja a szervezőnek.
+43. § (1) A kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelen elteltét – jogorvoslat esetén a törvényszék döntésével szembeni alkotmányjogi panasz benyújtására rendelkezésre álló határidő eredménytelen elteltét, illetve az Alkotmánybíróság alkotmányjogi panaszt visszautasító vagy elutasító döntésének az Alkotmánybíróság Határozatai hivatalos lapban történő megjelenését – követő öt napon belül a helyi választási iroda vezetője hitelesítési záradékkal látja el az aláírásgyűjtő ív mintapéldányát, és azt átadja a szervezőnek.
 
 (2) A helyi választási bizottság elnöke a képviselő-testület tagjai vagy bizottsága által benyújtott kérdés hitelesítéséről a kérdést hitelesítő döntés elleni jogorvoslati határidő eredménytelen elteltét – jogorvoslat esetén a törvényszék hitelesítő határozatot helybenhagyó vagy a kérdést hitelesítő döntésének közlését – követő öt napon belül tájékoztatja a polgármestert.
 
@@ -501,6 +511,8 @@ szervezhet.
 
 (3) A törvényszék a felülvizsgálati kérelmet harminc napon belül bírálja el. A törvényszék a helyi választási bizottság határozatát helybenhagyja, vagy azt megváltoztatja; döntése ellen további jogorvoslatnak helye nincs.
 
+(4) A törvényszék a döntését haladéktalanul megküldi a helyi választási irodának, amely azt legkésőbb a megérkezést követő munkanapon közzéteszi a honlapján, megjelölve a közzététel napját. A törvényszék döntése elleni alkotmányjogi panaszt a törvényszék döntésének a helyi választási iroda honlapján való közzétételét követő nyolc napon belül lehet benyújtani. Az Alkotmánybíróság az alkotmányjogi panaszról harminc napon belül dönt.
+
 58. § (1) A képviselő-testület helyi népszavazást elrendelő, valamint kötelezően elrendelendő helyi népszavazás elrendelését elutasító határozata elleni felülvizsgálati kérelmet – a törvényszékhez címezve – úgy kell benyújtani, hogy az a határozat közzétételét követő tizenöt napon belül megérkezzen a helyi választási bizottsághoz.
 
 (2) A helyi választási bizottság a felülvizsgálati kérelmet a beérkezését követő öt napon belül megküldi a törvényszéknek. A helyi választási bizottság elnöke a felülvizsgálati kérelem benyújtásáról haladéktalanul tájékoztatja a polgármestert.
@@ -581,7 +593,7 @@ szervezhet.
 
 69. § (1) Országos népszavazási kampányidőszakban politikai reklámot a kezdeményezés szervezői, továbbá a kezdeményezés szervezésében részt nem vevő, de országgyűlési képviselőcsoporttal rendelkező pártok tehetnek közzé.
 
-(2) A Nemzeti Választási Bizottság az országos népszavazás kitűzését követő öt munkanapon belül határozza meg, hogy a közszolgálati médiaszolgáltató lineáris médiaszolgáltatásaiban milyen időtartamban köteles közzétenni az (1) bekezdés szerinti jogosultak politikai reklámjait. A politikai reklámok közzétételére rendelkezésre álló időtartam összesen háromszáz perc, amelyet a jogosultak között egyenlő arányban kell felosztani.
+(2) A Nemzeti Választási Bizottság az országos népszavazás kitűzését követő öt munkanapon belül határozza meg, hogy a közszolgálati médiaszolgáltató lineáris médiaszolgáltatásaiban milyen időtartamban köteles közzétenni az (1) bekezdés szerinti jogosultak politikai reklámjait. A politikai reklámok közzétételére rendelkezésre álló időtartam népszavazásonként háromszáz perc, amelyet a jogosultak között egyenlő arányban kell felosztani. Ugyanazon kezdeményező – választópolgári kezdeményezés esetén ugyanazon szervező – által kezdeményezett több, azonos napra kitűzött népszavazás esetén a politikai reklámok közzétételére álló időtartam összesen háromszáz perc.
 
 (3) A politikai reklámot a közszolgálati médiaszolgáltató a legnagyobb éves átlagos közönségaránnyal bíró lineáris audiovizuális és rádiós médiaszolgáltatásában, egyenlő arányban megosztva teszi közzé.
 
@@ -797,7 +809,7 @@ alapján megállapítja a választás eredményét.
 95. § E törvény
 
 - a) 69. §-a az Alaptörvény IX. cikk (3) bekezdése alapján,
-- b) 79. § (5) bekezdése, 98. §-a és 101. § (3) bekezdése az Alaptörvény 24. cikk (9) bekezdése alapján,
+- b) 30. § (5) bekezdése, 57. § (4) bekezdése, 79. § (5) bekezdése, 98. §-a és 101. § (3) bekezdése az Alaptörvény 24. cikk (9) bekezdése alapján,
 - c) 99. §-a az Alaptörvény XXIX. cikk (3) bekezdése alapján,
 - d) 102. § f) pontja az Alaptörvény 2. cikk (1) bekezdése és 35. cikk (1) bekezdése alapján
 
