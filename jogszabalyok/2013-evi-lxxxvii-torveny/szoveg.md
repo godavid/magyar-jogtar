@@ -56,7 +56,7 @@ egyéni választókerületben jelöltet állított.
 
 (2) Az (1) bekezdés szerinti támogatásból az egyes, az országgyűlési képviselők általános választásán nemzetiségi listát állító országos nemzetiségi önkormányzatnak járó összeget a Nemzeti Választási Bizottság a választási eljárásról szóló törvényben az országos lista bejelentésére meghatározott határidő letelte után, valamennyi bejelentett nemzetiségi lista nyilvántartásba-vétele tárgyában hozott határozat jogerőre emelkedését követően haladéktalanul, az 1. mellékletben meghatározott eljárás szerint határozza meg, és erről a Nemzeti Választási Iroda útján értesíti a kincstárt.
 
-(3) Az összes, a központi névjegyzékben nemzetiségi választópolgárként szereplő választópolgár számát a választási eljárásról szóló törvényben az országos lista bejelentésére meghatározott határidő leteltét követő napon állapítja meg a Nemzeti Választási Bizottság.
+(3)
 
 5. § (1) A 3. § és a 4. § szerinti támogatás alapja az országgyűlési képviselők általános választásán megszerezhető összes mandátum és ötmillió forintnak a szorzata.
 
@@ -258,7 +258,7 @@ A 4. § (1) bekezdése szerinti támogatás felosztása
 
 Az országgyűlési képviselők általános választásán nemzetiségi listát állító országos nemzetiségi önkormányzatok támogatása összegét a következő eljárás szerint kell kiosztani:
 
-a) A nemzetiségi választópolgárként a központi névjegyzékben névjegyzékbe vett választópolgárok számát össze kell adni (a továbbiakban: összes nemzetiségi választópolgár).
+a) A nemzetiségi választópolgárként a központi névjegyzékben szereplő választópolgárok számát – azon választópolgárok kivételével, akik nemzetisége nem rendelkezik jogerősen nyilvántartásba vett nemzetiségi listával – össze kell adni (a továbbiakban: összes nemzetiségi választópolgár).
 
 b) A 4. § (1) bekezdése szerinti összeg kétharmadát el kell osztani az összes nemzetiségi választópolgár számával. Az így kapott hányados egész része az egy nemzetiségi választópolgárra jutó támogatás összege (a továbbiakban: kvóta).
 

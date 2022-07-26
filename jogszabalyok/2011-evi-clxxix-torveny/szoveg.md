@@ -64,7 +64,7 @@ a következő törvényt alkotja:
 - 11. az intézmény alapításának joga magában foglalja az intézmény átvételének, átszervezésének és megszüntetésének jogát;
 - 12. hozzátartozó: a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti hozzátartozó;
 - 13. nemzetiségi köznevelésben alkalmazottak köre: a nemzetiségi köznevelési intézmény azon alkalmazottai, akik foglalkoztatása a nemzetiségi köznevelési intézményben pedagógus, pedagógiai szakértő munkakörben és pedagógiai előadó munkakörben, továbbá a nevelő és oktató munkát, a pedagógiai szakszolgálatokat és a pedagógiai-szakmai szolgáltatások ellátását közvetlenül segítő munkakörben történik;
-- 14. az 50–72. § alkalmazásában nemzetiségi szervezet: a párt és a szakszervezet kivételével a civil szervezetek bírósági nyilvántartásában szereplő olyan egyesület, amelynek alapszabályában – a nemzetiségi önkormányzati választás évét megelőzően legalább 3 éve – rögzített célja az e törvény szerinti, konkrétan megjelölt nemzetiség képviselete;
+- 14. az 50–72. § alkalmazásában nemzetiségi szervezet: a párt és a szakszervezet kivételével a civil szervezetek bírósági nyilvántartásában – a nemzetiségi önkormányzati választás évét megelőzően legalább 3 éve – nemzetiségi egyesületként szereplő egyesület;
 - 15. nemzetiségi egyesület: alapszabálya szerint adott nemzetiség érdekvédelmét, érdekképviseletét, a nemzetiségi kulturális autonómiával közvetlenül összefüggő tevékenységet ellátó egyesület;
 - 16. nemzetiségi alapítvány: az alapító okirata szerint adott nemzetiség érdekvédelmét, érdekképviseletét, a nemzetiségi kulturális autonómiával közvetlenül összefüggő tevékenységet ellátó alapítvány.
 
@@ -452,7 +452,7 @@ szerepelhet a nemzetiségi névjegyzékben.
 
 (2) Az országos nemzetiségi önkormányzat a nemzetiség adott településen való honosságának vizsgálata során köteles kikérni a Magyar Tudományos Akadémia elnökének állásfoglalását.
 
-(3) Az országos nemzetiségi önkormányzat azokról a településekről, ahol az (1) bekezdés szerinti vizsgálat alapján a nemzetiségi közösség önigazgatása szükséges, a választás évében május 31-ig tájékoztatja – a Nemzeti Választási Bizottság által meghatározott módon – a Nemzeti Választási Bizottságot.
+(3) Az országos nemzetiségi önkormányzat azokról a településekről, ahol az (1) bekezdés szerinti vizsgálat alapján a nemzetiségi közösség önigazgatása szükséges, a választás évében a választást megelőző év november 30-áig tájékoztatja – a Nemzeti Választási Bizottság által meghatározott módon – a Nemzeti Választási Bizottságot.
 
 (4) A területi nemzetiségi önkormányzati képviselők választását ki kell tűzni, ha a fővárosban, megyében kitűzött települési választások száma legalább tíz.
 
@@ -541,8 +541,10 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 - a) ha az általános választás eredménytelen,
 - b) ha az általános választást követően az önkormányzat nem alakult meg,
-- c) ha a képviselő-testületet, közgyűlést feloszlatták, vagy
-- d) a képviselő-testület, közgyűlés kimondta feloszlását.
+- c)
+- d)
+
+(4) Időközi választást kell kitűzni, ha a képviselő-testületet, közgyűlést feloszlatják vagy kimondja feloszlását, és a nemzetiségi önkormányzat az időközi választás költségeit megelőlegezi.
 
 70. § A fővárosi, megyei és az országos nemzetiségi önkormányzati képviselők időközi választásán azok a nemzetiségi szervezetek állíthatnak listát és közös listát, amelyek a megelőző általános választáson arra jogosultak voltak.
 
@@ -578,6 +580,7 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 - c) az általános vagy az időközi választáson nincs elég jelölt, a szavazás napjaként kitűzött napon,
 - d) az időközi választás eredménytelen, a választási bizottság határozatának jogerőre emelkedése napján,
 - e) az időközi választáson megválasztott képviselő-testület, közgyűlés határidőben nem tartja meg alakuló ülését, a határidő lejártát követő napon.
+- f) a képviselő-testületet, közgyűlést feloszlatták vagy kimondta feloszlását, és a nemzetiségi önkormányzat az időközi választás költségeit nem előlegezi meg, a feloszlatás vagy feloszlása kimondásának napján.
 
 (2) Ha a nemzetiségi önkormányzat megszűnik, a nemzetiségi önkormányzati képviselők választására csak a következő általános választáson kerülhet sor.
 
@@ -587,7 +590,8 @@ ha így a kiosztható mandátumok számánál kevesebb mandátum osztható ki, a
 
 - a) ha a testület megbízatása lejárt,
 - b) a nemzetiségi önkormányzat megszűnése napján,
-- c) a képviselők számának a testület működéséhez szükséges létszám alá csökkenése napján, a testület feloszlatása, feloszlásának kimondása miatti időközi választás napján.
+- c) a képviselők számának a testület működéséhez szükséges létszám alá csökkenése napján,
+- d) – a 69. § (4) bekezdésében foglaltak alapján – a testület feloszlatása, feloszlásának kimondása miatti időközi választás napján.
 
 ### A nemzetiségi önkormányzat jogállása, jogai és kötelezettségei
 
@@ -1451,7 +1455,7 @@ Isten engem úgy segéljen!”
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményeknek való megfelelés
 
-158. § Az 1–157. §, a 159–166. §, valamint az 1. és 2. melléklet az Alaptörvény XXIX. cikk (3) bekezdése alapján sarkalatosnak minősül.
+158. § Az 1–157. §, a 159–167. §, valamint az 1. és 2. melléklet az Alaptörvény XXIX. cikk (3) bekezdése alapján sarkalatosnak minősül.
 
 ### Átmeneti rendelkezések
 
@@ -1487,7 +1491,11 @@ Isten engem úgy segéljen!”
 
 166. § A 106. § (1) és (3) bekezdésében az „és a (10) bekezdésben foglalt kivétellel más nemzetiségi önkormányzat elnöke” szövegrészt és a 106. § (10) bekezdését első alkalommal a hatálybalépését követő általános nemzetiségi önkormányzati választások időpontjától kell alkalmazni.
 
-#### 167. §
+167. § (1) E §-t a nemzetiségi önkormányzatok 2024. évi általános választására kell alkalmazni.
+
+(2) Ahol e törvény a választáshoz, a választás eredményének jogerős megállapításához, illetve a választás napjához jogkövetkezményt fűz, ott a jogkövetkezmény alkalmazásának kezdő időpontjaként 2024. október 1. napját kell érteni.
+
+(3) A nemzetiségi önkormányzatok 2019. évi általános választását követő általános nemzetiségi önkormányzati választáson hivatalban lévő képviselő-testület, közgyűlés és elnök megbízatása 2024. október 1-jéig tart.
 
 #### 168. §
 

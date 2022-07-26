@@ -1727,6 +1727,9 @@ A védelem alá eső tisztségek:
 - 13. a Magyar Nemzeti Bank elnöke és alelnökei,
 - 14. a Gazdasági Versenyhivatal elnöke és elnökhelyettesei
 - 15. a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese
+- 16. a Magyar Honvédség parancsnoka,
+- 17. a nemzetbiztonsági szolgálatok felügyeletével, illetve tevékenységük összehangolásával kapcsolatos feladatokat ellátó politikai és szakmai felsővezetők,
+- 18. a miniszteri kabinetet vezető kabinetfőnökök.
 
 ### 2. számú melléklet az 1995. évi CXXV. törvényhez
 
