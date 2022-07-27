@@ -224,7 +224,7 @@ lép.
 
 #### 37. A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosítása
 
-49. § A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 1. számú melléklete az 1. melléklet szerint módosul.
+49. §
 
 50. §
 
@@ -286,15 +286,7 @@ lép.
 
 #### 52. Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény módosítása
 
-65. § (1) Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 96. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az OBH elnökhelyettesének illetményére – a (3) bekezdésben foglalt kivétellel – a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 1. melléklet I. pontjában foglalt illetménytábla szerinti közigazgatási államtitkári illetményre vonatkozó szabályokat kell alkalmazni azzal, hogy az illetmény összegét az OBH elnöke állapítja meg.”
-
-(2) Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény 96. §-a a következő (3) és (4) bekezdéssel egészül ki:
-
-„(3) Az OBH elnöke az OBH elnökhelyettesét kiemelt munkakörbe sorolhatja. Az OBH kiemelt munkakörbe sorolt elnökhelyettesének havi illetményét a 98. § (3) bekezdés szerint kell megállapítani azzal az eltéréssel, hogy az nem haladhatja meg az OBH elnöke havi illetményének 90 százalékát.
-
-(4) Az OBH elnökhelyettesének juttatásaira az állami vezetői juttatásokról szóló kormányrendeletnek az államtitkár részére biztosított juttatásokra vonatkozó szabályait kell megfelelően alkalmazni.”
+65. §
 
 #### 53.
 
@@ -326,9 +318,7 @@ lép.
 
 #### 60. A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosítása
 
-73. § A fogyasztóvédelemről szóló 1997. évi CLV. törvény „Felhatalmazás” alcíme a következő 56/D. §-sal egészül ki:
-
-„56/D. § A 21. § (6) bekezdésétől, illetve a 23. §-tól eltérően, a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény hatálybalépésekor működő békéltető testület tagjainak és elnökének megbízatási ideje 2023. december 31-éig meghosszabbodik.”
+73. §
 
 74. §
 
@@ -580,13 +570,7 @@ lép.
 
 #### 120. A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény módosítása
 
-139. § A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény „Átmeneti rendelkezések” alcíme a következő 167. §-sal egészül ki:
-
-„167. § (1) E §-t a nemzetiségi önkormányzatok 2024. évi általános választására kell alkalmazni.
-
-(2) Ahol e törvény a választáshoz, a választás eredményének jogerős megállapításához, illetve a választás napjához jogkövetkezményt fűz, ott a jogkövetkezmény alkalmazásának kezdő időpontjaként 2024. október 1. napját kell érteni.
-
-(3) A nemzetiségi önkormányzatok 2019. évi általános választását követő általános nemzetiségi önkormányzati választáson hivatalban lévő képviselő-testület, közgyűlés és elnök megbízatása 2024. október 1-jéig tart.”
+139. §
 
 140. § (1) A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény
 
@@ -594,24 +578,16 @@ lép.
 - 2.
 - 3.
 - 4.
-- 5. 56. § (3) bekezdésében a „május 31-ig” szövegrész helyébe az „a választást megelőző év november 30-áig” szöveg,
+- 5.
 - 6.
 
 lép.
 
-(2) A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény 158. §-ában az „a 159–166. §” szövegrész helyébe az „a 159–167. §” szöveg lép.
+(2)
 
 #### 121. A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
-141. § A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény „Átmeneti rendelkezések” alcíme a következő 146/J. §-sal egészül ki:
-
-„146/J. § (1) E §-t a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választására kell alkalmazni.
-
-(2) Ahol e törvény a választáshoz, a választás eredményének jogerős megállapításához, illetve a választás napjához jogkövetkezményt fűz, ott a jogkövetkezmény alkalmazásának kezdő időpontjaként 2024. október 1. napját kell érteni.
-
-(3) Az Alaptörvény ZÁRÓ ÉS VEGYES RENDELKEZÉSEK rész 27. cikke alapján a helyi önkormányzati képviselők és polgármesterek 2019. évi általános választását követő helyi önkormányzati képviselők és polgármesterek általános választásán hivatalban lévő képviselő-testület és polgármester megbízatása 2024. október 1-jéig tart.
-
-(4) A képviselő-testület a helyi önkormányzati képviselők és polgármesterek 2024. évi általános választását követően 2024. október 1-jéig nem dönthet a képviselő-testület feloszlásáról.”
+141. §
 
 142. § (1)
 
@@ -622,7 +598,7 @@ lép.
 - 1.
 - 2.
 - 3.
-- 4. 145. § (1) bekezdésében a „valamint” szövegrész helyébe az „a 146/J. §, valamint” szöveg
+- 4.
 
 lép.
 
@@ -640,13 +616,11 @@ lép.
 
 #### 125. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 
-146. § A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 260/E. §-a helyébe a következő rendelkezés lép:
-
-„260/E. § A területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény (a továbbiakban: Módtv.) hatálybalépését megelőzően – a 253. § (1) bekezdése alapján – adományozott cím használatára a címzetes főjegyző a Módtv. hatálybalépését követően is jogosult azzal, hogy a cím használatára, a címre való jogosultság megszűnésére és a cím visszavonására a Módtv. hatálybalépését megelőző napon hatályos 253. § (3)–(10) bekezdését kell alkalmazni.”
+146. §
 
 147. §
 
-148. § Hatályát veszti a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 253. §-a.
+148. §
 
 #### 126.
 
@@ -654,37 +628,15 @@ lép.
 
 #### 127. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
 
-150. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 73. § (3) bekezdése h) pontja a következő hc) alponttal egészül ki:
+150. §
 
-(A fenntartó hozzájárulása szükséges a felsőoktatási intézmény)
+151. §
 
-„hc) szervezeti és működési szabályzatának 48. § (2) bekezdését meghatározó rendelkezéséhez.”
-
-151. § (1) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 70. alcíme a következő 117/H. §-sal egészül ki:
-
-„117/H. § (1) E törvénynek a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvénnyel (a továbbiakban: Módtv4.) megállapított 48. § (2) bekezdését és 73. § (3) bekezdés h) pontját első alkalommal a 2022/2023. tanév tekintetében kell alkalmazni.
-
-(2) A 48. § (2) bekezdésétől eltérően a 2021/2022. tanévben megszerzendő kreditek számát és elérendő súlyozott tanulmányi átlagot a szenátus véleményének kikérése után a fenntartó állapítja meg 2022. augusztus 10-éig azzal, hogy a megszerzendő kredit 18 kredit/félévnél több, az elérendő átlag pedig a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló kormányrendeletben (a továbbiakban: R.) meghatározott súlyozott tanulmányi átlagnál magasabb nem lehet.
-
-(3) Ha a fenntartó nem dönt a (2) bekezdésben meghatározott határidőn belül, akkor az átsorolást a 18 kredit/félév és az R.-ben a 2021/2022. tanév tekintetében meghatározott súlyozott tanulmányi átlag figyelembe vételével kell elvégezni.”
-
-(2) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 117/H. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) E törvénynek a Módtv4.-gyel megállapított 48. § (2) bekezdését és 73. § (3) bekezdés h) pontját, valamint az (1)–(3) bekezdést a közfeladatot ellátó közérdekű vagyonkezelő alapítványok tekintetében is alkalmazni kell.”
-
-152. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény KILENCEDIK RÉSZE a következő XXXII/A. Fejezettel egészül ki:
-
-„XXXII/A. FEJEZET
-
-SARKALATOS RENDELKEZÉSEK
-
-71/A. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
-
-119/A. § A 117/H. § (4) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.”
+152. §
 
 153. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény
 
-- a) 48. § (2) bekezdésében az „A felsőoktatási intézmény” szövegrész helyébe az „A felsőoktatási intézmény – a Kormány által rendeletben meghatározott rend szerint –” szöveg, a „legalább tizennyolc kreditet, vagy nem érte el az intézmény szervezeti és működési szabályzatában – a Kormány rendeletében meghatározottak szerint – megállapított” szövegrész helyébe a „vagy nem érte el legalább – a felsőoktatási intézmény szervezeti és működési szabályzatában a tanévet megelőző legalább 15 nappal meghatározott – kreditet vagy” szöveg,
+- a)
 - b)
 
 lép.
@@ -697,21 +649,7 @@ lép.
 
 #### 129. A munka törvénykönyvéről szóló 2012. évi I. törvény módosítása
 
-156. § A munka törvénykönyvéről szóló 2012. évi I. törvény 57. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A felek megállapodása vagy kollektív szerződés
-
-a) az 51. § (7) bekezdésében,
-
-b) az 52. § (3) bekezdésében,
-
-c) az 53. § (3)–(4) bekezdésében,
-
-d) az 54. § (1) bekezdésében,
-
-e) az 56. § (2)–(5) bekezdésében
-
-foglaltaktól nem térhet el.”
+156. §
 
 157. §
 
@@ -793,121 +731,50 @@ foglaltaktól nem térhet el.”
 
 #### 149. A választási eljárásról szóló 2013. évi XXXVI. törvény módosítása
 
-177. § A választási eljárásról szóló 2013. évi XXXVI. törvény 19. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A választási bizottság megbízott tagja a választási bizottság hatáskörébe tartozó valamennyi ügyben gyakorolja jogait és kötelezettségeit, a megbízás jogalapjától függetlenül.”
+177. §
 
 178. §
 
-179. § A választási eljárásról szóló 2013. évi XXXVI. törvény 213. §-a a következő (5) bekezdéssel egészül ki:
+179. §
 
-„(5) Ha a Nemzeti Választási Bizottság a hozzá áttett kifogás tekintetében hatáskörének hiányát állapítja meg, legkésőbb az áttételt követő napon intézkedhet a kifogás illetékes választási bizottság részére történő áttételéről.”
+180. §
 
-180. § A választási eljárásról szóló 2013. évi XXXVI. törvény 307/D. §-a helyébe a következő rendelkezés lép:
+181. §
 
-„307/D. § (1) A jelölő szervezetet a területi választási bizottság vagy a Nemzeti Választási Bizottság – amelynél a jelölő szervezetet bejelentették – veszi nyilvántartásba.
+182. §
 
-(2) Időközi választáson a jelölt, illetve lista nyilvántartásba vételére illetékes választási bizottság veszi nyilvántartásba a jelölő szervezetet.
+183. §
 
-(3) A nemzetiségi szervezet bejelentésekor a szervezetnek nyilatkoznia kell arról, hogy a szervezet megfelel a nemzetiségi szervezettel szemben a nemzetiségek jogairól szóló törvényben támasztott követelményeknek.”
+184. §
 
-181. § A választási eljárásról szóló 2013. évi XXXVI. törvény 331. §-a helyébe a következő rendelkezés lép:
-
-„331. § (1) A közös eljárásban az Európai Parlament tagjainak választására az I–XII. Fejezetet, a XIV. Fejezetet, a XV. Fejezetet, továbbá a 244. § (2) bekezdését, a 245. § (2)–(5) bekezdését, a 247. § (1) és (3) bekezdését, a 250. §-t, a 251. §-t, a 257. § (3) bekezdését, a 257/A. §-t, a 257/B. §-t, a 258. § (1) bekezdését, a 259–263. §-t, a 266–270. §-t, a 271. § (2) bekezdését, a 272–281. §-t, a 283–285. §-t, a 288–291. §-t, a 293. §-t, a 295. §-t, valamint a 298. §-t az e fejezetben foglalt eltérésekkel kell alkalmazni.
-
-(2) A közös eljárásban nem kell alkalmazni a 302. §-t, a 303. §-t, a 304. §-t, a 307/C. §-t, a 307/D. § (2) bekezdését; továbbá a 307/P. §-t, a 309. § (2) bekezdését, a 310. §-t, a 311. § (1) bekezdését, a 330. §-t és a 330/A. §-t.
-
-(3) Ha az Európai Parlament tagjainak választására és az országgyűlési képviselők általános választására ugyanazon napon kerül sor, a 247. § (2) bekezdését, a 257. § (2) bekezdését, a 271. § (1) bekezdését, a 282. §-t, a 286. §-t, a 287. §-t, a 292. §-t, a 294. §-t, a 296. §-t és a 297. §-t az Európai Parlament tagjainak választására is alkalmazni kell. Ebben az esetben a 333. §-t, a 341/A. §-t, a 342. §-t, a 343. § (2) bekezdését és a 345. §-t nem kell alkalmazni.”
-
-182. § A választási eljárásról szóló 2013. évi XXXVI. törvény 333. §-a helyébe a következő rendelkezés lép:
-
-„333. § (1) A közös eljárásban a következő választási bizottságok működnek:
-
-a) Nemzeti Választási Bizottság,
-
-b) területi választási bizottság,
-
-c) helyi választási bizottság,
-
-d) szavazatszámláló bizottság.
-
-(2) A helyi választási bizottságba a 28. § (3) bekezdésében megnevezetteken túl az Európai Parlament tagjainak választásán listát állító jelölő szervezetek további egy-egy tagot bízhatnak meg. E megbízásra is a 29. § (2)–(3) bekezdését kell alkalmazni.”
-
-183. § A választási eljárásról szóló 2013. évi XXXVI. törvény a következő 162/A. alcímmel egészül ki:
-
-„162/A. Az átjelentkezés
-
-337/A. § Ha az átjelentkező választópolgár a 250. § és a 307/A. § szerinti átjelentkezés feltételeinek is megfelel, akkor
-
-a) ha a tartózkodási helye szerinti településre jelentkezik át, mindhárom választáson a 307/B. § (1) bekezdése szerinti szavazókör névjegyzékébe kell felvenni,
-
-b) ha a tartózkodási helye szerinti településtől eltérő településre jelentkezik át, az Európai Parlament tagjainak választására a 250. § (4) bekezdése szerinti szavazókör névjegyzékébe kell felvenni, a helyi önkormányzati képviselők és polgármesterek választásán és a nemzetiségi önkormányzati képviselők választásán azonban a lakóhelye vagy a 102. § (3) bekezdése szerinti szavazókör névjegyzékében szerepel.”
-
-184. § A választási eljárásról szóló 2013. évi XXXVI. törvény a következő 162/B. alcímmel egészül ki:
-
-„162/B. A jelölő szervezet bejelentése
-
-337/B. § A jelölő szervezetet a területi választási bizottság vagy a Nemzeti Választási Bizottság – amelynél a jelölő szervezetet bejelentették – veszi nyilvántartásba.”
-
-185. § A választási eljárásról szóló 2013. évi XXXVI. törvény 345. §-a helyébe a következő rendelkezés lép:
-
-„345. § (1) A helyi választási bizottság dönt
-
-a) a szavazatszámláló bizottság tevékenysége, döntése elleni kifogásról, valamint a szavazóhelyiségben elkövetett egyéb cselekménnyel kapcsolatos kifogásról,
-
-b) minden olyan kifogásról, amely kizárólag az egyéni listás, az egyéni választókerületi, a kompenzációs listás, a települési nemzetiségi vagy a polgármester-választáshoz kapcsolódik,
-
-c) az Európai Parlament tagjainak választásához kapcsolódó, kizárólag a helyi választási bizottság illetékességi területét érintő kifogásról.
-
-(2) A területi választási bizottság dönt
-
-a) minden olyan kifogásról, amely kifejezetten a megyei vagy fővárosi önkormányzati választáshoz, a főpolgármester-választáshoz vagy a területi nemzetiségi választáshoz kapcsolódik,
-
-b) minden olyan kifogásról, amely nem tartozik az (1) bekezdés alá, és kizárólag a területi választási bizottság illetékességi területét érinti,
-
-c) a helyi választási bizottság döntése elleni fellebbezésről, valamint a helyi választási iroda vezetőjének a 32. § (3) bekezdés alapján hozott határozata elleni kifogás tárgyában hozott döntése elleni fellebbezésről.
-
-(3) A Nemzeti Választási Bizottság dönt
-
-a) minden olyan kifogásról, amely nem tartozik az (1) vagy a (2) bekezdés alá, és az elkövetés helye nem határozható meg,
-
-b) a területi választási bizottság döntése elleni fellebbezésről.”
+185. §
 
 186. § (1) A választási eljárásról szóló 2013. évi XXXVI. törvény
 
-- 1. 1/A. §-ában a „több választást” szövegrész helyébe a „több általános választást” szöveg,
+- 1.
 - 2.
-- 3. 21. és 23. §-ában az „évében, április 1. és május 31. között” szövegrész helyébe az „évét megelőző évben, október 1. és november 30. között” szöveg,
+- 3.
 - 4.
 - 5.
 
 lép.
 
-(2) A választási eljárásról szóló 2013. évi XXXVI. törvény 8. § (2) bekezdés b) és c) pontjában az „évének április 1. napja” szövegrész helyébe az „évét megelőző év december 1. napja” szöveg lép.
+(2)
 
 (3) A választási eljárásról szóló 2013. évi XXXVI. törvény
 
 - 1.
-- 2. 3.306. § (1) bekezdésében a „választás évében január 31-ig átadja” szövegrész helyébe a „választást megelőző évben október 15-ig átadja” szöveg, valamint a „január 1-jei adatait” szövegrész helyébe a „szeptember 1-jei adatait” szöveg, 4. 306. § (2) bekezdésében a „választás évében február 15-ig” szövegrész helyébe a „választást megelőző évben október 31-ig” szöveg, 5. 306/C. §-ában a „választás évében március 31-ig” szövegrész helyébe a „választást megelőző évben november 30-ig” szöveg, 6. 306/D. § (1) bekezdésében a „választás éve január 1-jei adatai” szövegrész helyébe a „választást megelőző év szeptember 1-jei adatai” szöveg
+- 2.
+- 3.
+- 4.
+- 5.
+- 6.
 
 lép.
 
-(4) A választási eljárásról szóló 2013. évi XXXVI. törvény
+(4)
 
-- 1. 158/A. alcím címében az „A levélben szavazók névjegyzéke” szövegrész helyébe az „A levélben szavazók névjegyzéke az Európai Parlament tagjainak választásán” szöveg,
-- 2. 335. § (1) bekezdésében az „akik a szavazóköri névjegyzékében szerepelnek” szövegrész helyébe az „akik az Európai Parlament tagjai választásának szavazóköri névjegyzékében szerepelnek” szöveg,
-- 3. 336. §-ában az „a szavazóköri névjegyzékből” szövegrész helyébe az „az Európai Parlament tagjai választásának szavazóköri névjegyzékből” szöveg,
-- 4. 163. alcím címében az „A lista bejelentése” szövegrész helyébe az „Az Európai Parlament tagjainak választásán állított lista bejelentése” szöveg,
-- 5. 341/A. § nyitó szövegrészében az „a szavazóköri névjegyzékbe” szövegrész helyébe az „az Európai Parlament tagjai választásának szavazóköri névjegyzékébe” szöveg, a „szavazhat személyesen” szövegrész helyébe a „szavazhat az Európai Parlament tagjai választásán személyesen” szöveg,
-- 6. 343. § (2) bekezdés záró szövegrészében a „megállapítja a választás eredményét” szövegrész helyébe a „megállapítja az Európai Parlament tagjai választásának eredményét” szöveg,
-- 7. 344. §-ában az „a választás nem hiteles eredményét” szövegrész helyébe az „az Európai Parlament tagjai választásának nem hiteles eredményét” szöveg,
-- 8. XVI. Fejezet címében az „AZ EURÓPAI PARLAMENT TAGJAINAK VÁLASZTÁSA” szövegrész helyébe az „AZ EURÓPAI PARLAMENT TAGJAINAK, VALAMINT A HELYI ÖNKORMÁNYZATI KÉPVISELŐK ÉS POLGÁRMESTEREK, TOVÁBBÁ A NEMZETISÉGI ÖNKORMÁNYZATI KÉPVISELŐK KÖZÖS ELJÁRÁSBAN TARTOTT VÁLASZTÁSA” szöveg,
-- 9. 354. § (4) bekezdésében a „XIII. Fejezet, a 7. és a 8. melléklet” szövegrész helyébe a „XIII. Fejezet, a 331. § (3) bekezdése, a 7. és a 8. melléklet” szöveg,
-- 10. 354. § (5) bekezdésében a „XIV. Fejezet” szövegrész helyébe a „XIV. Fejezet, a 331. § (1)–(2) bekezdése, a 333. §, a 162/A. alcím, a 162/B. alcím és a 345. §” szöveg
-
-lép.
-
-187. § Hatályát veszti a választási eljárásról szóló 2013. évi XXXVI. törvény 307/A. § (2) bekezdésében az „a választás kitűzését követően,” szövegrész.
+187. §
 
 #### 150.
 
@@ -1069,24 +936,11 @@ lép.
 
 #### 189. A Budapest Diákváros megvalósításáról szóló 2021. évi LXXX. törvény módosítása
 
-228. § A Budapest Diákváros megvalósításáról szóló 2021. évi LXXX. törvény 5. § (1) bekezdése helyébe az alábbi rendelkezés lép:
+228. §
 
-„(1) Az építtető a Beruházás tekintetében a korábbi előkészítő építtető BFK Budapest Fejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaságnak és az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaságnak (a továbbiakban együtt: korábbi építtető) az előkészítő építtetői feladatkörében jogutódja.”
+229. §
 
-229. § A Budapest Diákváros megvalósításáról szóló 2021. évi LXXX. törvény 3. alcíme a következő 9/A. §-sal egészül ki:
-
-„9/A. § Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a 4. § (1) bekezdése szerinti építtetői feladatokat ellátó gazdasági társaságot.”
-
-230. § A Budapest Diákváros megvalósításáról szóló 2021. évi LXXX. törvény
-
-- 1. 2. § (1) bekezdésében az „az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Társaság)” szövegrész helyébe az „a felsőoktatásért felelős miniszter által vezetett minisztérium (a továbbiakban: Minisztérium)” szöveg,
-- 2. 2. § (2) bekezdésében a „társaságot” szövegrész helyébe a „Minisztériumot”, a „Társaság” szövegrész helyébe a „Minisztérium” szöveg,
-- 3. 4. § (1) bekezdésben az „A Társaság mint építtető (a továbbiakban: építtető)” szövegrész helyébe az „A Kormány által rendeletben kijelölt építtetői feladatokat ellátó gazdasági társaság (a továbbiakban: építtető)” szöveg,
-- 4. 4. § (2) bekezdésében a „Társaság” szövegrész helyébe a „Minisztérium” szöveg,
-- 5. 8. § (1) bekezdésében a „Társaság” szövegrészek helyébe a „Minisztérium” szöveg, és a „társaságot” szövegrész helyébe a „Minisztériumot” szöveg,
-- 6. 1. mellékletének címében a „Társaság” szövegrész helyébe a „Minisztérium” szöveg
-
-lép.
+230. §
 
 #### 190.
 
@@ -1133,16 +987,6 @@ lép.
 241. §
 
 ### 1. melléklet a 2022. évi XXII. törvényhez
-
-- 1. A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 1. számú melléklete a következő 16–18. ponttal egészül ki:
-
-(A védelem alá eső tisztségek:)
-
-„16. a Magyar Honvédség parancsnoka,
-
-17. a nemzetbiztonsági szolgálatok felügyeletével, illetve tevékenységük összehangolásával kapcsolatos feladatokat ellátó politikai és szakmai felsővezetők,
-
-18. a miniszteri kabinetet vezető kabinetfőnökök.”
 
 ### 2. melléklet a 2022. évi XXII. törvényhez
 
