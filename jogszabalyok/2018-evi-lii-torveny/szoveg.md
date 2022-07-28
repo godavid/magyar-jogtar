@@ -163,6 +163,8 @@ nem terheli adófizetési kötelezettség.
 - a) az éves minimálbér felét az adóévben meg nem haladó őstermelői tevékenységből származó – támogatások nélküli – bevétellel rendelkező mezőgazdasági őstermelő,
 - b) az éves minimálbér ötszörösét az adóévben meg nem haladó őstermelői tevékenységből származó – támogatások nélküli – bevétellel rendelkező, átalányadózást választó mezőgazdasági őstermelő.
 
+(3a) Amennyiben a mezőgazdasági őstermelő biztosítotti jogállása nem áll fenn az egész évben, akkor a (3) bekezdés alapján tárgyévre megállapított adóalapot csökkenti a biztosítotti jogállás időszakára fennálló szociális hozzájárulási adó kötelezettség alapja.
+
 (4) Amennyiben az adóalapot az (1) és (2) bekezdés szerint megállapító mezőgazdasági őstermelő e jogállással nem rendelkezik az adóév minden napján, vagy más okból nem minősül az adó alanyának az adóév minden napján, akkor az adó alapja
 
 - a) az (1) bekezdés szerint adófizetésre kötelezett őstermelő esetében az összevont adóalapba tartozó őstermelői tevékenységből származó jövedelme, de legalább az adóalanyiság időtartamának minden napjára számítva a minimálbér vagy a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében havonta vállalt összeg harmincad része,
@@ -182,6 +184,8 @@ nem terheli adófizetési kötelezettség.
 - b) az adóalapot a (2) bekezdés szerint megállapító mezőgazdasági őstermelő esetében a minimálbér vagy a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében vállalt összeg
 
 harmincad része azokra a napokra, amelyekre az adófizetési kötelezettség fennáll.
+
+(7) Az adóévben a Tbj. szerint saját jogú nyugdíjassá váló mezőgazdasági őstermelő az adó alapjának megállapítása során nem veszi figyelembe az e § rendelkezései szerint a tárgyévre megállapított adóalapjának a nyugdíjfolyósítás kezdő napját követő időszakra arányosan jutó részét.
 
 #### 8. Az adóalap megállapításának különös szabályai
 
@@ -492,7 +496,7 @@ tanúsítja, az a)–d) pont szerinti esetben az igazolás vagy a diákigazolvá
 - 5. kiegészítő tevékenységet folytató egyéni, társas vállalkozó: aki vállalkozói tevékenységet saját jogú nyugdíjasként folytat és a Tbj. szerint kiegészítő tevékenységet folytató személynek minősül.
 - 6. kifizető: az Art. szerinti kifizető
 - 7. külföldi kifizető: a belföldön állandó lakóhellyel, szokásos tartózkodási hellyel, székhellyel nem rendelkező személy;
-- 8. Külföldi kiküldetés esetén alapbér: az adott munkakörben foglalkoztatott kiküldetését megelőző egy évben a munkavállaló teljesítményétől, ledolgozott munkaidejétől közvetlenül függő, a munkavállaló alapbérén vagy az alkalmazott bérformán alapuló, a munkaszerződés alapján ténylegesen számfejtett és kifizetett munkabér (a statisztikai elszámolások szerinti törzsbér) havi átlagos összege, ennek hiányában a tárgyhavi alapbér;
+- 8.
 - 9. mezőgazdasági őstermelő: az Szja tv. szerint mezőgazdasági őstermelőnek minősülő természetes személy;
 - 10.
 - 11. minimálbér: az év első napján érvényes kötelező legkisebb munkabér havi összege, kivéve az e törvény egyéni és társas vállalkozókra vonatkozó rendelkezéseiben említett minimálbért, amely a tárgyhónap első napján, a teljes munkaidőre érvényes garantált bérminimum havi összege, ha az egyéni vállalkozó személyesen végzett főtevékenysége vagy a társas vállalkozó főtevékenysége legalább középfokú iskolai végzettséget vagy középfokú szakképzettséget igényel, ennek hiányában a tárgyhónap első napján érvényes kötelező legkisebb munkabér havi összege;

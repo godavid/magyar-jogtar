@@ -25,7 +25,7 @@ terjed ki.
 - a) hozzátartozó: a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. § (1) bekezdés 2. pontjában meghatározott hozzátartozó;
 - b) hozzátartozói láncolat: a Ptk. 8:1. § (1) bekezdés 1. pontjának megfelelő közeli hozzátartozói kapcsolatban lévő természetes személyek, valamint e személyek hozzátartozói és egyenesági rokonai által alkotott csoport;
 - c) kiegészítő őstermelői tevékenység: falusi és agroturizmus, kézművesipari tevékenység, fűrészáru-feldolgozás, takarmány-előállítás, mezőgazdasági termékből élelmiszer előállítása mező-, erdőgazdasági tevékenységből származó termékfeldolgozás kivételével, ha az a saját gazdaságban előállított alapanyag felhasználásával történik és nem haladja meg az e törvény végrehajtására kiadott rendeletben meghatározott mennyiséget, dohányfeldolgozás, bioüzemanyag-előállítás a mező-, erdőgazdasági tevékenység során keletkezett melléktermékek, növényi és állati eredetű hulladék hasznosítása, nem élelmiszercélú feldolgozása, valamint az ezekből a termékekből keletkezett termékek közvetlen termelői értékesítése, továbbá mező- és erdőgazdasági szolgáltatás;
-- d) mező-, erdőgazdasági hasznosítású föld: a Földforgalmi törvény 5. § 17. pontjában meghatározott mező-, erdőgazdasági hasznosítású föld;
+- d) mező-, erdőgazdasági hasznosítású föld: a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi törvény) 5. § 17. pontjában meghatározott mező-, erdőgazdasági hasznosítású föld;
 - e) mező-, erdőgazdasági tevékenység: a Földforgalmi törvény 5. § 18. pontjában meghatározott mező-, erdőgazdasági tevékenység, valamint továbbá e tevékenységből származó termékfeldolgozás, ha az a saját gazdaságban előállított alapanyag felhasználásával történik és nem haladja meg az e törvény végrehajtására kiadott rendeletben meghatározott mennyiséget;
 - f) mezőgazdasági termelőeszköz: azoknak a javaknak – az őstermelői tevékenységhez szükséges művelés alól kivett ingatlanoknak, épületeknek és építményeknek, valamint ingóságoknak – az összessége, amelyek az őstermelői tevékenység végzését szolgálják;
 - g) őstermelői tevékenység: az őstermelői nyilvántartásba felvett mező-, erdőgazdasági tevékenység, valamint kiegészítő őstermelői tevékenység;
@@ -249,7 +249,7 @@ tárolja.
 - a) statisztikai célból egyedi azonosításra nem alkalmas módon az agrárpolitikáért felelős miniszternek, továbbá
 - b) egyedi azonosításra alkalmas módon az állami adó- és vámhatóságnak, a mezőgazdasági és vidékfejlesztési támogatási szervnek, a kormányhivatalnak, valamint a mezőgazdasági igazgatási szervnek a tevékenységükre vonatkozó jogszabályban foglalt ellenőrzési feladataik ellátása érdekében.
 
-(10) A családi mezőgazdasági társaságok nyilvántartásában kezelt adatok a Központi Statisztikai Hivatal részére statisztikai célra és az agrárminiszter irányítása alatt álló agrárgazdasági elemzésekkel foglalkozó intézmény részére statisztikai és gazdaságelemzési célra egyedi azonosításra alkalmas módon, egyéb statisztikai, illetve tudományos kutatási célra személyazonosításra nem alkalmas módon átadhatók.
+(10) A családi mezőgazdasági társaságok nyilvántartásában kezelt adatok a Központi Statisztikai Hivatal részére statisztikai célra és az agrárpolitikáért felelős miniszter irányítása alatt álló agrárgazdasági elemzésekkel foglalkozó intézmény részére statisztikai és gazdaságelemzési célra egyedi azonosításra alkalmas módon, egyéb statisztikai, illetve tudományos kutatási célra személyazonosításra nem alkalmas módon átadhatók.
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -261,6 +261,11 @@ tárolja.
 - b) az őstermelői jogviszonyhoz, az őstermelők családi gazdaságához és a családi mezőgazdasági társaságokhoz kapcsolódó adatok valódiságának, a működésük jogszerűségének ellenőrzésével, és a jogkövetkezmények alkalmazásával összefüggő részletes szabályokat.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a mezőgazdasági igazgatási szervet.
+
+(3) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy rendeletben határozza meg
+
+- a) azon, őstermelői tevékenység keretében előállított élelmiszerek körét, amelyek mezőgazdasági őstermelő által történő forgalomba hozatala tekintetében mennyiségi korlátozás alkalmazandó, valamint
+- b) az a) pont szerinti élelmiszerek esetében a forgalomba hozható mennyiségeket.
 
 17. § Ez a törvény 2021. január 1-jén lép hatályba.
 

@@ -718,6 +718,8 @@ kell értékesíteni.
 
 69. § Az üzletrész árverés vagy elektronikus árverés keretében értékesíthető. Árverésen kívül az üzletrész akkor értékesíthető, ha ahhoz az előárverezésre jogosultak is hozzájárultak.
 
+69/A. § Az 59. § (6)–(8) bekezdését ingóság végrehajtása esetén is alkalmazni kell.
+
 70. § (1) Nem lehet lefoglalni azokat a romlandó dolgokat, amelyeknek a fogyaszthatósági, minőség-megőrzési vagy felhasználhatósági ideje lejárt.
 
 (2) A romlandó dolog foglalásával, annak jogalapjával, illetve értékesítésével szemben előterjesztett végrehajtási kifogásnak – a dolog jellegére tekintettel – a dolog értékesítésére vonatkozóan halasztó hatálya nincs.
@@ -1049,7 +1051,7 @@ az adóhatóság a megkeresést végzéssel visszautasítja.
 
 107. § Az állami adó- és vámhatóság 200 ezer forintot nem meghaladó adók módjára behajtandó köztartozás esetén – a 30. § (1) bekezdése és a 32. § szerinti intézkedéseken túl – kizárólag hatósági átutalási megbízást, illetve jövedelemletiltást foganatosít az adók módjára behajtandó köztartozás behajtása érdekében, ezek eredménytelensége esetén pedig a 113. § (3) bekezdése szerint jár el. Ha a 200 ezer forintot nem meghaladó adók módjára behajtandó köztartozás mellett az adóst adótartozás is terheli, az állami adó- és vámhatóság egyéb végrehajtási cselekményeket is foganatosíthat. Ha az eljárás során a jelzálogjog bejegyzését követően egyéb végrehajtási cselekmény foganatosításától eredmény nem várható, az adóhatóság a jelzálogjog fenntartása mellett a 113. § (3) bekezdésében írtak szerint jár el.
 
-108. § Az adók módjára behajtandó köztartozásra az adóhatóság késedelmi pótlékot nem számít fel, azzal összefüggésben felszámolási eljárást nem kezdeményez, a folyamatban lévő csőd-, felszámolási, végelszámolási, kényszertörlési, adósságrendezési eljárásban e kötelezettségeket hitelezői igényként nem jelenti be, a követeléseket ideiglenesen eredménytelen végrehajtással érintett tartozásként nem tartja nyilván, illetve a kötelezettséggel összefüggésben mögöttes felelősséget nem érvényesít.
+108. § Az adók módjára behajtandó köztartozásra az adóhatóság késedelmi pótlékot nem számít fel, azzal összefüggésben felszámolási eljárást nem kezdeményez, a folyamatban lévő csőd-, felszámolási, végelszámolási, kényszertörlési, adósságrendezési, a szerkezetátalakítási és a reorganizációs eljárásban e kötelezettségeket hitelezői igényként nem jelenti be, a követeléseket ideiglenesen eredménytelen végrehajtással érintett tartozásként nem tartja nyilván, illetve a kötelezettséggel összefüggésben mögöttes felelősséget nem érvényesít.
 
 109. § (1) Ha az adók módjára behajtandó köztartozásra irányuló fizetési kedvezmény iránti kérelmet az adóhatósághoz terjesztik elő, akkor az adóhatóság a végrehajtási eljárás során érkezett kérelmet az Art. fizetési kedvezményekről szóló fejezetében foglaltak szerint bírálja el azzal, hogy a tartozást kizárólag a behajtást kérő előzetes hozzájárulása alapján mérsékelheti.
 
@@ -1129,7 +1131,7 @@ az adóhatóság a megkeresést végzéssel visszautasítja.
 
 (2) Az általános közigazgatási rendtartás alapján megküldött megkereséshez csatolni kell azon döntést, amelynek végrehajtását elrendelte a hatóság.
 
-(3) E kötelezettségek végrehajtása során – a behajtást kérő hatóság részben vagy egészben saját bevételét képező kötelezettségek kivételével – az adóhatóság a 108. §-ban foglaltaktól eltérően késedelmi pótlékot számít fel, azokkal összefüggésben felszámolási eljárást kezdeményez, a behajtást kérő hatóság által megküldött megkeresést követően elrendelt csőd-, felszámolási, végelszámolási, kényszertörlési, adósságrendezési eljárásban e kötelezettségeket hitelezői igényként bejelenti, gyakorolja a hitelezőket megillető jogokat, megfizeti a nyilvántartásba-vételi díjat, a követeléseket ideiglenesen eredménytelen végrehajtással érintett tartozásként nyilvántarthatja, a végrehajtásukhoz való jog elévülését megállapítja.
+(3) E kötelezettségek végrehajtása során – a behajtást kérő hatóság részben vagy egészben saját bevételét képező kötelezettségek kivételével – az adóhatóság a 108. §-ban foglaltaktól eltérően késedelmi pótlékot számít fel, azokkal összefüggésben felszámolási eljárást kezdeményez, a behajtást kérő hatóság által megküldött megkeresést követően elrendelt csőd-, felszámolási, végelszámolási, kényszertörlési, adósságrendezési, a szerkezetátalakítási és a reorganizációs eljárásban e kötelezettségeket hitelezői igényként bejelenti, gyakorolja a hitelezőket megillető jogokat, megfizeti a nyilvántartásba-vételi díjat, a követeléseket ideiglenesen eredménytelen végrehajtással érintett tartozásként nyilvántarthatja, a végrehajtásukhoz való jog elévülését megállapítja.
 
 (4) A (3) bekezdésben foglalt fizetési kötelezettség után – a visszakövetelt álláskeresési, szociális és gyermekvédelmi ellátások, valamint a közfoglalkoztatott részére megállapított költségtérítés kivételével – az állami adó- és vámhatóság a megkeresés napjától a behajtás napjáig késedelmi pótlékot számít fel, amelyet az adóstól történő behajtását követően a megkereső hatóság által a megkeresésben megjelölt számlára utal át és a pótlék felszámításáról a behajtást kérő hatóságot a felszámítástól számított 8 napon belül értesíti. A késedelmi pótlék után késedelmi pótlékot felszámítani nem lehet.
 
@@ -1147,7 +1149,7 @@ az adóhatóság a megkeresést végzéssel visszautasítja.
 
 #### 57. Az általános közigazgatási rendtartás alapján hozott döntésen alapuló meghatározott cselekmény végrehajtásának szabályai
 
-122. § (1) Ha a döntés meghatározott cselekmény elvégzésére vagy meghatározott magatartásra, tűrésre, abbahagyásra (a továbbiakban: meghatározott cselekményre) irányul, és az adós a meghatározott cselekményt önként nem teljesítette, a behajtást kérő hatóság a végrehajtás érdekében megkeresi az állami adó- és vámhatóságot. Ha a behajtást kérő hatóság döntése több vagylagos kötelezést is tartalmaz, az állami adó- és vámhatóság a várhatóan a legkisebb költséggel járó meghatározott cselekményt hajtja végre.
+122. § (1) Ha a döntés meghatározott cselekmény elvégzésére vagy meghatározott magatartásra, tűrésre, abbahagyásra (a továbbiakban: meghatározott cselekményre) irányul, és az adós a meghatározott cselekményt önként nem teljesítette, a behajtást kérő hatóság a végrehajtás érdekében megkeresi az állami adó- és vámhatóságot. Ha a behajtást kérő hatóság döntése több vagylagos kötelezést is tartalmaz, az állami adó- és vámhatóság a várhatóan a legkisebb költséggel járó meghatározott cselekményt hajtja végre. A megkeresés vonatkozásában ezen alcím rendelkezésein túl a 106. § (6) és (7) bekezdését is alkalmazni kell.
 
 (1a) Az általános közigazgatási rendtartás alapján hozott döntésen alapuló meghatározott cselekmény végrehajtása során az I–V. Fejezet rendelkezéseit a jelen alcímben foglalt eltérésekkel kell alkalmazni.
 
@@ -1258,7 +1260,7 @@ a (3)–(8) bekezdésben foglaltak szerint.
 
 125/B. § (1) A 29. § (1) bekezdés 6. és 9–21. pontja szerinti megkeresésen alapuló meghatározott cselekmény végrehajtását az állami adó- és vámhatóság az I–XI. Fejezet rendelkezései szerint, a jelen alcímben meghatározott eltérésekkel foganatosítja.
 
-(2) A 29. § (1) bekezdés 6. és 9–21. pontja szerinti megkereséshez a behajtást kérő csatolja a végrehajtható határozatot vagy jogszabályban meghatározottak szerint a határozat záradékkal ellátott rendelkező részét, határozat hiányában a kötelezettséget megalapozó közokiratot.
+(2) A 29. § (1) bekezdés 6. és 9–21. pontja szerinti megkereséshez a behajtást kérő csatolja a végrehajtható határozatot vagy jogszabályban meghatározottak szerint a határozat záradékkal ellátott rendelkező részét, határozat hiányában a kötelezettséget megalapozó közokiratot. A megkeresés vonatkozásában ezen alcím rendelkezésein túl a 106. § (6) és (7) bekezdését is alkalmazni kell.
 
 (3) A 29. § (1) bekezdés 6. és 9–21. pontja szerinti megkeresésen alapuló meghatározott cselekmények végrehajtására a 125/A. § (6)–(7) bekezdése alkalmazandó.
 
@@ -1361,7 +1363,7 @@ az állami adó- és vámhatóság felhívja az MNV Zrt.-t a végrehajtási köl
 
 125/H. § (1) A 29. § (1) bekezdés 4. pontja szerinti pénzkövetelés végrehajtását az állami adó- és vámhatóság az I–XI. Fejezet rendelkezései szerint, a jelen alcímben meghatározott eltérésekkel foganatosítja.
 
-(2) E kötelezettségek végrehajtása során az adóhatóság késedelmi pótlékot számít fel, azokkal összefüggésben felszámolási eljárást kezdeményez, a folyamatban lévő csőd-, felszámolási, végelszámolási, kényszertörlési, adósságrendezési eljárásban e kötelezettségeket hitelezői igényként bejelenti, gyakorolja a hitelezőket megillető jogokat, megfizeti a nyilvántartásba-vételi díjat, a követeléseket ideiglenesen eredménytelen végrehajtással érintett tartozásként nyilvántarthatja, a végrehajtásukhoz való jog elévülését megállapítja, a végrehajtási eljárás megindítását követően benyújtott fizetési kedvezményi kérelmeket elbírálja azzal, hogy ennek során kérelemre a tartozást is mérsékelheti.
+(2) E kötelezettségek végrehajtása során az adóhatóság késedelmi pótlékot számít fel, azokkal összefüggésben felszámolási eljárást kezdeményez, a folyamatban lévő csőd-, felszámolási, végelszámolási, kényszertörlési, adósságrendezési, a szerkezetátalakítási és a reorganizációs eljárásban e kötelezettségeket hitelezői igényként bejelenti, gyakorolja a hitelezőket megillető jogokat, megfizeti a nyilvántartásba-vételi díjat, a követeléseket ideiglenesen eredménytelen végrehajtással érintett tartozásként nyilvántarthatja, a végrehajtásukhoz való jog elévülését megállapítja, a végrehajtási eljárás megindítását követően benyújtott fizetési kedvezményi kérelmeket elbírálja azzal, hogy ennek során kérelemre a tartozást is mérsékelheti.
 
 (3) A (2) bekezdésben foglalt késedelmi pótlékot az állami adó- és vámhatóság a végrehajtás megindításának napjától a behajtás napjáig számítja fel. A késedelmi pótlék után késedelmi pótlékot felszámítani nem lehet.
 
@@ -1431,15 +1433,17 @@ az állami adó- és vámhatóság felhívja az MNV Zrt.-t a végrehajtási köl
 
 131/D. § E törvénynek a törvényszéki végrehajtással összefüggő egyes törvények módosításáról szóló 2019. évi LXXXI. törvénnyel (a továbbiakban: Módtv.3.) megállapított 82. § (8) bekezdését a Módtv.3. hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell a még ki nem tűzött árverésekre.
 
+131/E. § A Magyarország 2021. évi központi költségvetésének a megalapozásáról szóló 2020. évi LXXVI. törvénnyel (a továbbiakban: Módtv.4.) megállapított 125/C. § (2a)–(2c) bekezdését a Módtv.4. hatálybalépésekor folyamatban lévő azon eljárásokban is alkalmazni kell, amelyekben az állami adó- és vámhatóság az értékesítés iránt még nem intézkedett.
+
 131/F. § (1) Az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvény (a továbbiakban: Módtv.5.) által megállapított 24. § (1) és (1a) bekezdését, 38. § (5) bekezdését, 101. §-át, 113. § (1) és (3) bekezdését, 122. § (1b) bekezdését a 2021. január 1-jén folyamatban lévő végrehajtási eljárásokban is alkalmazni kell.
 
 (2) A Módtv.5. által hatályon kívül helyezett 121. §-t a 2021. január 1-jén folyamatban lévő végrehajtási eljárásokban sem lehet alkalmazni.
 
 (3) Az állami adó- és vámhatóság az 54. alcím szabályai szerint hajtja végre a 2021. január 1-jét megelőző időszak vonatkozásában, gépjárműadóval összefüggésben keletkezett tartozásokat.
 
-#### 61. A törvény hivatalos rövid megjelölése
+131/G. § E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény által megállapított 69/A. §-át, a 122. § (1) bekezdését és a 125/B. § (2) bekezdését a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
-131/E. § A Magyarország 2021. évi központi költségvetésének a megalapozásáról szóló 2020. évi LXXVI. törvénnyel (a továbbiakban: Módtv.4.) megállapított 125/C. § (2a)–(2c) bekezdését a Módtv.4. hatálybalépésekor folyamatban lévő azon eljárásokban is alkalmazni kell, amelyekben az állami adó- és vámhatóság az értékesítés iránt még nem intézkedett.
+#### 61. A törvény hivatalos rövid megjelölése
 
 132. § E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Avt.
 

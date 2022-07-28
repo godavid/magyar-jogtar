@@ -40,7 +40,7 @@ E törvény alkalmazásában
 - 3. jövedéki termék: a jövedéki adóról szóló törvényben ekként meghatározott termék,
 - 4. tartozás: a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) által az adós részére közölt és az adós által – engedély nélkül – határidőre meg nem fizetett összeg,
 - 5. ügyfél: az a személy, akit a vámjogszabályok alapján jogok illetnek meg, illetve kötelezettségek terhelnek, ügyfélnek kell tekinteni továbbá e feladata ellátása során a vámjogi képviselőt, a vagyonfelügyelőt, a felszámolót és a végelszámolót is,
-- 6. vámhiány: a keletkezett vámok és egyéb terhek és az annál kisebb összegben közölt vámok és egyéb terhek különbözete, továbbá a keletkezett, de nem közölt vámok és egyéb terhek összege, ha az nem abból eredt, hogy a vámhatóság jogszabályt sértett, vagy a rendelkezésre álló adatokat helytelenül értékelte, ide nem értve az ellenőrzés nélküli elfogadás esetét; a vámigazgatási bírság kiszabása szempontjából vámhiánynak minősül továbbá a szabályok be nem tartása miatt lefoglalt és elkobzott termékek esetében a keletkezett behozatali vámok és egyéb terhek összege, továbbá a 179. § (7) bekezdése alapján megállapított egyéb teher különbözete,
+- 6. vámhiány: a keletkezett vámok és egyéb terhek és az annál kisebb összegben közölt vámok és egyéb terhek különbözete, továbbá a keletkezett, de nem közölt vámok és egyéb terhek összege, ha az nem abból eredt, hogy a vámhatóság jogszabályt sértett vagy a rendelkezésre álló adatokat helytelenül értékelte, ide nem értve az ellenőrzés nélküli elfogadás esetét azzal, hogy a vámigazgatási bírság kiszabása szempontjából vámhiánynak minősül továbbá a szabályok be nem tartása miatt lefoglalt és elkobzott termékek esetében a keletkezett behozatali vámok és egyéb terhek összege, továbbá a 179. § (7) bekezdése alapján megállapított egyéb teher különbözete, nem minősül azonban vámhiánynak a Vámkódex 124. cikk (1) bekezdés h) vagy k) pontja alapján megszűnt vámtartozás, és a vámfelügyelettel, vámigazgatási üggyel összefüggő jogsértés miatt keletkezett 10 euró alatti vámtartozás,
 - 7. vámhivatal: a NAV megyei (fővárosi) adó- és vámigazgatóságai és azok kirendeltségei, valamint a Kormány rendeletében meghatározott igazgatóságok,
 - 8. vámigazgatási eljárás: a vámhatóság által a vámjogszabályok, illetve a vámjogszabályok alkalmazásával összefüggésben az ügyfél kérelmére vagy hivatalból indult eljárás,
 - 9. vámigazgatási ügy: a vámjogszabályok rendelkezéseinek biztosítása érdekében a vámhatóság által a vámjogszabályok alapján hozandó döntés meghozatalára irányuló vámhatósági intézkedés, a vámellenőrzés, a jogsértés megállapítása, valamint tény, adat, állapot igazolása vagy nyilvántartás vezetése, illetve mindezeket érintő döntés érvényesítése,
@@ -2549,6 +2549,10 @@ Ha valamely szóban bejelentett árura vámtartozás vagy egyéb teherfizetési 
 
 (3) Az (1) vagy (2) bekezdésben foglaltak szerint adatfeldolgozó rendszerek segítségével kinyomtatott EV-n az engedély számát fel kell tüntetni.
 
+#### 176/A. § [Közös adatszolgáltatási követelményeken alapuló nemzeti kiegészítő kódok]
+
+Az árunyilatkozatokra, az értesítésekre és az áruk uniós vámjogi státusának igazolására vonatkozó közös adatszolgáltatási követelményeken alapuló nemzeti kódokat a NAV felhívásban teszi közzé.
+
 #### 60. A Vámkódex 159. cikkéhez
 
 #### 177. § [Vámhivatalok székhelye, illetékessége]
@@ -3119,7 +3123,7 @@ rendeletben állapítsa meg.
 - 18. az átmeneti megőrzési létesítmény üzemeltetője által küldendő garanciajelentésben szereplő adatok körét,
 - 19. a vámmentes vámeljárás végrehajtásának részletes szabályait,
 - 20. a vámtanácsadói, illetve vámügynöki nyilvántartásba való felvételért, a vámtanácsadói, illetve vámügynöki igazolvány pótlásáért, a nyilvántartásban szereplő adatok módosításáért és a kérelemre történő nyilvántartásból való törlésért, valamint a kreditpont-minősítési eljárásért fizetendő igazgatási szolgáltatási díj mértékét,
-- 21.
+- 21. az árunyilatkozatokra, az értesítésekre és az áruk uniós vámjogi státusának igazolására vonatkozó közös adatszolgáltatási követelmények szerint, a tagállami döntés alapján kötelező adatelemeket
 
 rendeletben állapítsa meg.
 
@@ -3188,6 +3192,8 @@ rendeletben állapítsa meg.
 (14) Az egyes adótörvények és más kapcsolódó törvények módosításáról, valamint a bevándorlási különadóról szóló 2018. évi XLI. törvény hatálybalépése előtt indult vámigazgatási ügyekben kiszabott eljárási bírságok, valamint a származás utólagos megerősítése iránti megkeresések tekintetében az eljárás megindításakor hatályos rendelkezéseket kell alkalmazni.
 
 (15) Az egyes adótörvények uniós kötelezettségekhez kapcsolódó, valamint egyes törvények adóigazgatási tárgyú módosításáról szóló 2018. évi LXXXII. törvénnyel (a továbbiakban: Mód1. tv.) megállapított 155/A. §-t a Mód1. tv. hatálybalépését megelőzően nyújtott, a Mód1. tv. hatálybalépésekor még fel nem szabadított vámbiztosíték tekintetében is alkalmazni kell.
+
+(16) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 2. § 6. pontját a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény hatálybalépésekor folyamatban levő ügyekben is alkalmazni kell.
 
 ### XXXVIII. Fejezet
 

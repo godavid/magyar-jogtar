@@ -220,7 +220,7 @@ A közfeladatot ellátó közérdekű vagyonkezelő alapítványok kiemelkedő t
 
 (2) Az alapítványi vagyonellenőr nem minősül az alapítvány törvény szerinti, illetve annak alapján megbízott tisztségviselőjének és – a 8. § (3) bekezdésében meghatározott kivételekkel – az alapítványi vagyonellenőri tisztség nem összeférhetetlen további munkaviszonnyal, illetve munkavégzésre irányuló más jogviszonnyal, valamint külön törvény szerinti egyéb megbízatással és tisztséggel.
 
-(3) A támogatási jogviszonyban kedvezményezett lehet az olyan alapítvány is, amelyben a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár, helyettes államtitkár, kormánymegbízott, kormánybiztos, miniszterelnöki megbízott, miniszterelnöki biztos, miniszteri biztos, megyei közgyűlés elnöke, megyei közgyűlés tagja, főpolgármester, polgármester, helyi önkormányzati képviselő, illetve országgyűlési képviselő az alapítvány kuratóriumának vagy felügyelőbizottságának tagja, vagyonellenőre.
+(3) A támogatási jogviszonyban kedvezményezett lehet az olyan alapítvány is, amelyben a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főispán, kormánybiztos, miniszterelnöki megbízott, miniszterelnöki biztos, miniszteri biztos, megyei közgyűlés elnöke, megyei közgyűlés tagja, főpolgármester, polgármester, helyi önkormányzati képviselő, illetve országgyűlési képviselő az alapítvány kuratóriumának vagy felügyelőbizottságának tagja, vagyonellenőre.
 
 ### III. Fejezet — AZ ALAPÍTVÁNY ÁLTAL ELLÁTOTT KÖZFELADAT
 

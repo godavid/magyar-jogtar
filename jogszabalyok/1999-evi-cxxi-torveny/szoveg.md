@@ -607,7 +607,7 @@ kamarai feladatokkal összefüggő tevékenység folytatására. A névhasznála
 
 (3) A gazdasági kamarák 2000. október 31. napjáig kötelesek ellátni mindazokat a közfeladatokat és közigazgatási feladatokat, amelyeket jogszabály a feladat- és hatáskörükbe utal.
 
-49. § E törvény végrehajtását – a soron kívüli kamarai választások lebonyolításáig – kormánymegbízott felügyeli. Felhatalmazást kap a Kormány, hogy a kormánymegbízott feladat- és hatáskörét rendeletben szabályozza.
+49. § E törvény végrehajtását – a soron kívüli kamarai választások lebonyolításáig – főispán felügyeli. Felhatalmazást kap a Kormány, hogy a főispán feladat- és hatáskörét rendeletben szabályozza.
 
 50. § Felhatalmazást kap a Kormány, hogy azokban a közigazgatási ügyekben, amelyekben a gazdasági kamarák nem törvény rendelkezése alapján járnak el, rendelkezzen e feladatok további ellátásáról.
 

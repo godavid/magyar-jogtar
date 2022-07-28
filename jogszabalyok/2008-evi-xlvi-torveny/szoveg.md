@@ -997,7 +997,7 @@ az élelmiszerlánc-felügyeleti szervhez nyilvántartásba vétel céljából b
 
 ### A Helyi Járványvédelmi Központ hatásköre és feladatai
 
-38/F. § (1) Állatjárvány kitörése vagy annak gyanúja esetén az országos főállatorvos a kitörés helye szerint illetékes élelmiszerlánc-felügyeleti szerven belül – a járvány elfojtásának idejére – elrendelheti Helyi Járványvédelmi Központ létrehozását. A Helyi Járványvédelmi Központ illetékessége az érintett megye teljes területére kiterjed. A Helyi Járványvédelmi Központ vezetőjét a kormánymegbízott nevezi ki.
+38/F. § (1) Állatjárvány kitörése vagy annak gyanúja esetén az országos főállatorvos a kitörés helye szerint illetékes élelmiszerlánc-felügyeleti szerven belül – a járvány elfojtásának idejére – elrendelheti Helyi Járványvédelmi Központ létrehozását. A Helyi Járványvédelmi Központ illetékessége az érintett megye teljes területére kiterjed. A Helyi Járványvédelmi Központ vezetőjét a főispán nevezi ki.
 
 (2) A Helyi Járványvédelmi Központ
 
@@ -1082,6 +1082,10 @@ az élelmiszerlánc-felügyeleti szervhez nyilvántartásba vétel céljából b
 (5) Az állatgyógyászati termék laboratóriumon kívüli gyakorlati kipróbálásának, gyártásának, ideiglenes jellegű felhasználásának, valamint az állatgyógyászati készítmények hatóanyaga gyártásának engedélyezéséről és az engedély módosításáról, a rendszeres gyógyszerbiztonsági jelentések értékeléséről szóló döntést hetvenöt napon belül, az állatgyógyászati termék és az állatgyógyászati készítmény forgalomba hozatalának engedélyezéséről és megújításáról szóló döntést kétszáztíz napon belül kell meghozni.
 
 (6)
+
+40/A. § (1) Állatgyógyászati termék forgalomba hozatalának, valamint növényvédő szer hatóanyag és növényvédő szer engedélyezésére, továbbá a meglévő engedély meghosszabbítására vagy módosítására irányuló eljárásban (e § alkalmazásában a továbbiakban: eljárás) a benyújtott kérelmezési dokumentáció szakmai értékelésére a feladat elvégzésére akkreditált, az élelmiszerlánc-felügyeleti szervvel együttműködési megállapodást kötött szervezet (a továbbiakban: értékelő szervezet) vonható be. Az értékelő szervezetnek meg kell felelnie az (EU) 2017/625 európai parlamenti és tanácsi rendelet 3. cikk 5. pontja szerinti átruházott feladatot ellátó szervezettel szemben támasztott követelményeknek.
+
+(2) A kérelmezőnek az eljárás iránti kérelem benyújtásakor nyilatkoznia kell arról, ha az eljárásba értékelő szervezet bevonását kezdeményezi.
 
 41. § (1) Az élelmiszerlánc-felügyeleti szerv a növényvédő szer forgalomba hozatali és felhasználási engedélyezési eljárása során ha az e törvény végrehajtására kiadott jogszabályban meghatározott védelmi célok érdekében szükséges, elrendelheti, hogy az engedélyezési eljárás ideje alatt a növényvédő szerek alkalmazásáról meghatározott ismereteket kell nyerni, gyűjteni és értékelni. Az eredményeket az engedélyező hatóságnak meghatározott időn belül meg kell küldeni, felhívásra a megfelelő dokumentumokat és mintákat be kell mutatni.
 
@@ -1210,7 +1214,7 @@ határozatát a miniszter által vezetett minisztérium hivatalos lapjában, hon
 - c) a 35. § szerint nyilvántartott vagy engedélyezett élelmiszer-vállalkozás,
 - d) a 35. és 36. § szerint nyilvántartott vagy engedélyezett takarmány-vállalkozás,
 - e) állatgyógyászati készítményt, állatgyógyászati terméket állít elő vagy forgalomba hozza,
-- f) engedélyköteles terméket, illetve EK-műtrágyát állít elő vagy forgalomba hoz,
+- f) engedélyköteles terméket, uniós termésnövelő anyagot, illetve EK-műtrágyát állít elő vagy forgalomba hoz,
 - g) állati eredetű melléktermék kezelését, felhasználását, további feldolgozását, szállítását végzi vagy az ezekből származó terméket forgalomba hozza,
 - h) élő állat szállítást végző vállalkozást, továbbá élőállat-szállító járművek mosását és fertőtlenítését végző helyet, az idegen állományból származó állatok fogadására kiválasztott elkülönítőt (karantént), állatrakodót, gyűjtőállomást, kereskedői telepet, etető-itató állomást, pihentető állomást, állatvásárt üzemeltet,
 - i) szaporítóanyag előállítást és tárolást végez,
@@ -1788,6 +1792,7 @@ végrehajtására kiadott és e törvény hatálya alá tartozó rendelkezéseke
   - bb) a közétkeztetési szolgáltatás hatósági ellenőrzésére,
   - bc) az élelmiszer eredetű megbetegedések esetén követendő hatósági eljárásra,
   - bd) az élelmiszerekkel kapcsolatos tápanyag-összetétel és egészségre vonatkozó állítások bejelentésére, módosítására, továbbá a tápértékjelölés esetén követendő hatósági eljárásra
+  - be) a mezőgazdasági termékek és élelmiszerek hagyományos különleges termék elnevezésének bejegyzési, törlési, termékleírás módosítási eljárására, valamint az ilyen elnevezéssel ellátott termékek ellenőrzésére és az ellenőrzés alapján hozható intézkedésekre;
 
 vonatkozó előírásokat;
 
@@ -1831,7 +1836,7 @@ vonatkozó előírásokat;
 - 23. az állati eredetű melléktermék előállításának, feldolgozásának, ártalmatlanításának, gyűjtésének, tárolásának, szállításának, forgalomba hozatalának, felhasználásának állat-egészségügyi szabályait;
 - 24. az állatgyógyászati készítmények és egyes állatgyógyászati termékek előállítására, törzskönyvezésére, gyakorlati kipróbálására, forgalomba hozatalára, rendelésére, felhasználására, az állatgyógyászatban használt elektroorvosi eszközök használatára vonatkozó részletes szabályokat, a gyógyszeres takarmányok előállításának, forgalomba hozatalának, felhasználásának, az állatgyógyászatban használatos gyógyhatású készítmények, ápolószerek, segédanyagok forgalomba hozatalának feltételeit;
 - 25. a nem állami laboratóriumok engedélyezésének, nyilvántartásba vételének és működésének részletes szabályait;
-- 26. az élelmiszer-előállítás, -tárolás, továbbá -szállítás szabályait;
+- 26. az élelmiszer-előállítás, -jelölés, -tárolás, továbbá -szállítás szabályait;
 - 27. az élelmiszer-adalékanyagok, enzimek, aromák felhasználásának egyes szabályait;
 - 28. az élelmiszer-előállítás és forgalomba hozatal élelmiszer-higiéniai feltételeit;
 - 29. a kistermelői élelmiszer-előállítás és forgalmazás élelmiszer-higiéniai feltételeit;
@@ -1863,7 +1868,7 @@ vonatkozó előírásokat;
 - 55. a szolgáltató állatorvosok által ellátandó állategészségügyi állami feladatok végzésének szakmai szabályait;
 - 56. a diagnosztikai kilövés során használható eszközök körét.
 
-(3) Felhatalmazást kap a miniszter, hogy – a (2) és (6) bekezdésben nem említett kérdésekben – az általános élelmiszer-jelölési előírásokat a fogyasztóvédelemért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
+(3)
 
 (4) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza
 
@@ -1877,7 +1882,7 @@ vonatkozó előírásokat;
 - b) a kereskedelemért felelős miniszterrel egyetértésben a vásári, a piaci és a vásárcsarnoki árusítás állat-egészségügyi és élelmiszer-biztonsági szabályait;
 - c) a kereskedelemért felelős miniszterrel egyetértésben az élelmiszerek forgalomba hozatalának szabályait;
 - d) a vendéglátásért, valamint a kereskedelemért felelős miniszterrel egyetértésben a vendéglátó-ipari termékek forgalomba hozatalának szabályait;
-- e) a fogyasztóvédelemért felelős miniszterrel egyetértésben a hagyományos különleges terméknek minősülő mezőgazdasági termékek és élelmiszerek elismerésének és ellenőrzésének rendjét;
+- e)
 - f) a hulladékgazdálkodásért felelős miniszterrel egyetértésben a növényvédő szerrel érintkezésbe került csomagolóeszközök kezelésére vonatkozó részletes szabályokat;
 - g) a környezetvédelemért felelős miniszterrel egyetértésben a növényvédő szerek, biocid termékek, valamint termésnövelő anyagok légi kijuttatásának részletes szabályait;
 - h) a környezetvédelemért felelős miniszterrel egyetértésben az állati melléktermékből készített komposztok mezőgazdasági területen történő felhasználásának feltételeit;

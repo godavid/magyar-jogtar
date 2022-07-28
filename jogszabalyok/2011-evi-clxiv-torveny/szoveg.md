@@ -1949,11 +1949,11 @@ kell érteni.
 
 158/A. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
 
-159. § (1) E törvény I. Fejezete, III–XIII/A. Fejezete, 151. és 152. §-a, 154–157. §-a, 158. § (2) bekezdése, 161–165/K. §-a, valamint 1–3. és 7. melléklete az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
+159. § (1) E törvény I. Fejezete, III–XIII/A. Fejezete, 151. és 152. §-a, 154–157. §-a, 158. § (2) bekezdése, 160–165/K. §-a, valamint 1–3. és 7. melléklete az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Üjt.
 
-#### 160. §
+160. § A köztársasági elnöknek az e törvényben meghatározott tevékenysége során hozott döntéséhez és intézkedéséhez ellenjegyzés nem szükséges.
 
 161. § (1) Az Üsztv. hatályon kívül helyezése az abban szabályozott választott testületek működését a megbízatásuk lejártáig nem érinti.
 

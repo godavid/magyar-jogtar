@@ -46,7 +46,7 @@ Annak érdekében, hogy a részben vagy egészben központi költségvetési for
 
 5. § (1) A Beruházási Ügynökség a kormányzati magasépítési beruházások előkészítése és megvalósítása során az állam javára és nevében jár el.
 
-(2) A Kormány egyedi határozatában kormányzati magasépítési beruházások megvalósítójának a Beruházási Ügynökség helyett más szervet is kijelölhet.
+(2) A Kormány egyedi határozatában kormányzati magasépítési beruházások megvalósítójának – a 4. § (7) és (8) bekezdésében meghatározottak kivételével – a Beruházási Ügynökség helyett más szervet is kijelölhet.
 
 (3) A Beruházási Ügynökség – mint a kormányzati magasépítési beruházások megvalósítója – az alábbi feladatokat látja el:
 
@@ -126,7 +126,7 @@ Annak érdekében, hogy a részben vagy egészben központi költségvetési for
 
 (8) Az (5) bekezdés szerinti fejezetet irányító szerv a Kormány egyedi határozatával jóváhagyott kormányzati magasépítési beruházás előkészítéséhez vagy megvalósításához kapcsolódó kötelezettségvállalás teljesítéséhez a költségvetési évben a fejezeten belül új alcímet, jogcímcsoportot, jogcímet hozhat létre az államháztartásért felelős miniszter egyidejű tájékoztatása mellett.
 
-(9) Az (5) bekezdés szerinti fejezetet irányító szerv a fejezet beruházási tartaléka és kiadási előirányzattal rendelkező beruházások költségvetési éven belül keletkező megtakarítása terhére a fejezeten belül átcsoportosíthat az államháztartásért felelős miniszter egyidejű tájékoztatása mellett.
+(9) Az (5) bekezdés szerinti fejezetet irányító szerv – a központi költségvetésről szóló törvény eltérő rendelkezése hiányában – a fejezet beruházási tartaléka és kiadási előirányzattal rendelkező beruházások költségvetési éven belül keletkező megtakarítása terhére a fejezeten belül átcsoportosíthat az államháztartásért felelős miniszter egyidejű tájékoztatása mellett.
 
 (10) Az (5) bekezdés szerinti fejezetbe sorolt beruházások kiadási előirányzatait az egyes beruházásokhoz kapcsolódó kötelezettségvállalások teljesítése érdekében – a (9) bekezdés szerinti átcsoportosítási lehetőség hiányában – a fejezetet irányító szerv javaslata alapján az államháztartásért felelős miniszter módosíthatja.
 

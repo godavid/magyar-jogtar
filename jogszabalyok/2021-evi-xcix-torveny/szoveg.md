@@ -1225,7 +1225,7 @@ gyakorolhatják.
 
 152. § (1) A veszélyhelyzet ideje alatt lejáró, az állam vagy helyi önkormányzat tulajdonában lévő lakásra kötött lakásbérleti szerződés, valamint az állami vagy önkormányzati tulajdonú helyiségre vonatkozó bérleti szerződés új pályázat kiírása nélkül a bérlő egyoldalú, a veszélyhelyzet ideje alatt – de legkésőbb a szerződés lejártának utolsó napján – megtett írásbeli nyilatkozata alapján 2022. december 31. napjáig meghosszabbodik.
 
-(2) A 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 90. napig az állam vagy helyi önkormányzat tulajdonában lévő lakás tekintetében fennálló lakásbérleti szerződés, illetve az állami vagy önkormányzati tulajdonú helyiség tekintetében fennálló bérleti szerződés tartalma nem módosítható úgy, hogy az a bérleti díj megemelését eredményezze.
+(2) A 2022. december 31. napjáig az állam vagy helyi önkormányzat tulajdonában lévő lakás tekintetében fennálló lakásbérleti szerződés, illetve az állami vagy önkormányzati tulajdonú helyiség tekintetében fennálló bérleti szerződés tartalma nem módosítható úgy, hogy az a bérleti díj megemelését eredményezze.
 
 (3) A 2022. december 31. napjáig esedékes bérleti díj a nemzeti vagyonról szóló törvény rendelkezéseitől eltérően korlátlanul csökkenthető.
 

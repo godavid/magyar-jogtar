@@ -1270,7 +1270,7 @@ határozza meg.
 - e) ij) és it) alpontjában megjelölt személy esetén az állam nevében tulajdonosi jogokat gyakorló miniszter vagy a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 7/A. § (1) bekezdése alapján a tulajdonosi jogok gyakorlására kijelölt személy,
 - f) ik) alpontjában foglalt esetben az állomány szerint illetékes főigazgató,
 - g) iu) alpontjában megjelölt személyek esetén az Országgyűlési Őrség parancsnoka
-- h) id) alpontjában megjelölt személyek közül a nem országos illetékességű központi hivatal vezetője és vezetőhelyettese esetén a tevékenység szerinti irányító miniszter
+- h) id) alpontjában megjelölt személyek közül a nem országos illetékességű központi hivatal vezetője és vezetőhelyettese, valamint a nemzeti köznevelési törvényben meghatározott oktatási központ feladatainak ellátására kijelölt központi hivatal vezetőhelyettese esetén a tevékenység szerinti irányító miniszter
 
 jogosult.
 

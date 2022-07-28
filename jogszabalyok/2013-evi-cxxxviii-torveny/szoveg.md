@@ -6,7 +6,9 @@ a temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény módos�
 
 2–3. §
 
-4–5. §
+4. §
+
+5. §
 
 6–9. §
 
@@ -33,7 +35,7 @@ szöveg lép.
 
 26. § (1) Ez a törvény – a (2) és (3) bekezdésben foglalt kivétellel – 2013. november 1-jén lép hatályba.
 
-(2) Az 1. §, a 4. §, az 5. §, a 10. §, a 11. § (3) bekezdése és a 24. § i) pontja 2024. január 1-jén lép hatályba.
+(2) Az 1. §, a 4. §, az 5. §, a 10. §, a 11. § (3) bekezdése és a 24. § i) pontja 2025. január 1-jén lép hatályba.
 
 (3) A 17. § 2015. január 1-jén lép hatályba.
 

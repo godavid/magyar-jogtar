@@ -503,7 +503,7 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 
 (3) Az ösztöndíjas jogviszony beszámít
 
-- a) az álláshelyi elismeréshez és a szolgálati elismeréshez szükséges időtartamba,
+- a) a szolgálati elismeréshez szükséges időtartamba,
 - b) a közigazgatási szakvizsgához szükséges gyakorlati időbe, valamint
 - c) a közigazgatási gyakorlatba.
 
@@ -1718,7 +1718,7 @@ A köztisztviselő és a köztisztviselőt foglalkoztató különleges jogállá
 - a) írásbeli dicséret,
 - b) teljesítményelismerés,
 - c) motivációs elismerés,
-- d) álláshelyi elismerés,
+- d)
 - e) szolgálati elismerés.
 
 (2) Az elismerésben részesítés feltételeit és az elismeréssel járó juttatás mértékét a különleges jogállású szerv vezetője állapítja meg.
@@ -1733,21 +1733,7 @@ A köztisztviselő hosszabb időn át tartó kimagasló teljesítményéért és
 
 A köztisztviselő valamely kompetenciájára, speciális képességére, ismeretére, tudására figyelemmel motivációs elismerésben részesíthető, ha az adott álláshelyen történő munkavégzése a munkáltatónak kiemelt érdeke.
 
-#### 79. § [Az álláshelyi elismerés]
-
-(1) A köztisztviselő szolgálati ideje alapján elismerésre jogosult, amelynek mértéke
-
-- a) öt év álláshelyen töltött idő esetén háromhavi,
-- b) tíz év álláshelyen töltött idő esetén háromhavi,
-- c) tizenöt év álláshelyen töltött idő esetén hathavi,
-- d) húsz év álláshelyen töltött idő esetén hathavi,
-- e) huszonöt év álláshelyen töltött idő esetén kilenchavi,
-- f) harminc év álláshelyen töltött idő esetén kilenchavi,
-- g) harmincöt év álláshelyen töltött idő esetén huszonnégyhavi, és ezt követő minden öt év álláshelyen töltött idő esetén további öthavi
-
-illetménynek megfelelő összeg.
-
-(2) Az álláshelyi elismerésre jogosító idő megállapításánál az egy adott álláshelyen eltöltött időt kell figyelembe venni.
+#### 79. §
 
 #### 80. § [A szolgálati elismerés]
 
@@ -2763,7 +2749,7 @@ IV.
 
 15. célprémiumra vonatkozó információk
 
-16. érdemek elismerésére vonatkozó információk (írásbeli dicséret, teljesítményelismerés, motivációs elismerés, álláshelyi elismerés, szolgálati elismerés)
+16. érdemek elismerésére vonatkozó információk (írásbeli dicséret, teljesítményelismerés, motivációs elismerés, szolgálati elismerés)
 
 17. egyéb juttatásra vonatkozó adatok (cafetéria, lakhatási jellegű támogatás, szociális, képzés és tanulmányi támogatás)
 

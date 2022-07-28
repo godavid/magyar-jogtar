@@ -1254,7 +1254,7 @@ nyújthatja be.
 
 (8) A kérelmezőnek a kérelem benyújtásakor igazolnia kell, hogy törölt haszonélvezőnek vagy a törölt haszonélvező jogutódjának minősül.
 
-108/E. § (1) Az NFK 2022. július 31-ig értesítést küld a törölt haszonélvező, illetve jogutódja részére.
+108/E. § (1) Az NFK 2022. július 31-ig értesítést küld a törölt haszonélvező részére.
 
 (2) Az értesítés részletes tájékoztatást tartalmaz
 
@@ -1265,7 +1265,7 @@ nyújthatja be.
 
 (3) Az értesítés mellékletét képezi a kérelmek formanyomtatványa.
 
-(4) Az értesítést a hatósági döntések közlésére irányadó szabályok szerint elektronikus úton kell megküldeni a címzett ismert elérhetőségére. Ha ennek feltételei hiányoznak, az értesítést a címzett ismert címére postai úton, ajánlott küldeményként kell megküldeni.
+(4) Az értesítést jogi személynek minősülő törölt haszonélvező részére a hatósági döntések közlésére irányadó szabályok szerint elektronikus úton kell megküldeni a címzett ismert elérhetőségére. Ha ennek feltételei hiányoznak, valamint természetes személynek minősülő törölt haszonélvező részére az értesítést a címzett ingatlan-nyilvántartásban szereplő címére postai úton kell megküldeni.
 
 (5) Az értesítést – személyes adatok feltüntetése nélkül – az NFK honlapján is közzé kell tenni 2023. február 28-ig.
 
@@ -1287,7 +1287,7 @@ nyújthatja be.
 (6) A törölt haszonélvezeti jog visszajegyezhetőségéről kell döntést hozni, ha
 
 - a) nem minősül jóhiszeműnek a (7) bekezdés szerinti valamelyik személy, és
-- b) a (7) bekezdés szerinti jogi akadály nem áll fenn.
+- b) a (8) bekezdés szerinti jogi akadály nem áll fenn.
 
 (7) Az ügyfelek közül nem minősül jóhiszeműnek az érintett ingatlan
 
@@ -1426,6 +1426,8 @@ nyújthatja be.
 (4) A haszonélvezeti jogoknak a 108. § (1) bekezdésének 2014. április 30-án hatályos rendelkezése alapján történő törlése ellen kezdeményezett olyan bírósági eljárásban, amelyben a bíróság a Módtv.3. hatálybalépéséig meghozta a bírósági eljárást befejező jogerős érdemi határozatot, a bírósági eljárásban részt vevő törölt haszonélvező, illetve jogutódja az ezen alcím szerinti igényeit jogosult ezen alcím szerint érvényesíteni.
 
 (5) Az ezen alcím szerinti eljárásokban eljáró hatóságokat és bíróságokat a (4) bekezdés szerinti bírósági eljárásban hozott döntés és az azokban megállapított tényállás nem köti.
+
+(6) A (3) bekezdés a) pontja szerinti esetben a magyar államot a Nemzeti Földügyi Központ képviseli.
 
 109. § A közös tulajdonban álló földre a 2013. december 31-ig megkötött haszonbérleti szerződés esetében a 60. § (1) bekezdésében foglalt felmondási jog akkor illeti meg a haszonbérbeadót, illetve annak jogutódját, ha a haszonbérleti szerződés létrejöttekor a haszonbérlet tárgyát képező föld közös tulajdonban állt és a szerződés fennállása alatt a közös tulajdon megszüntetésére került sor, és a tulajdoni hányadának megfelelő területet a közös tulajdon megszüntetésére irányuló eljárás eredményeként önálló ingatlanként kapta meg, feltéve, hogy
 
