@@ -485,7 +485,7 @@ honvédelemmel foglalkozó szervezeti egységet jelöl ki, és ott biztosítja a
 
 (3) A honvédelmi feladatok végrehajtásakor a rendkívüli állapot, megelőző védelmi helyzet, szükségállapot, terrorveszélyhelyzet és váratlan támadás idején bevezetett intézkedések végrehajtása során a megyei védelmi bizottság teljes jogkörét annak elnöke a Honvédség állományába tartozó elnökhelyettessel egyetértésben gyakorolja.
 
-(4) A megyei védelmi bizottság elnöke a kormánymegbízott. A megyei védelmi bizottság általános elnökhelyettese a fővárosi, megyei kormányhivatal főigazgatója. A megyei védelmi bizottság szakmai elnökhelyettesei a honvédelmi feladatok tekintetében a honvédelemért felelős miniszter által kijelölt tényleges állományú katona, a katasztrófák elleni védekezés tekintetében a hivatásos katasztrófavédelmi szerv területi szervének vezetője. A megyei védelmi bizottság tagja az elnökön és az elnökhelyetteseken kívül
+(4) A megyei védelmi bizottság elnöke a főispán. A megyei védelmi bizottság általános elnökhelyettese a fővárosi, megyei kormányhivatal főigazgatója. A megyei védelmi bizottság szakmai elnökhelyettesei a honvédelmi feladatok tekintetében a honvédelemért felelős miniszter által kijelölt tényleges állományú katona, a katasztrófák elleni védekezés tekintetében a hivatásos katasztrófavédelmi szerv területi szervének vezetője. A megyei védelmi bizottság tagja az elnökön és az elnökhelyetteseken kívül
 
 - a) a megyei közgyűlés elnöke, a fővárosban a főpolgármester vagy az általa kijelölt főpolgármester-helyettes,
 - b) a megyei jogú város polgármestere,

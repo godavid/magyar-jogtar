@@ -15,6 +15,7 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 - c) az állam tulajdonában lévő tagsági jogviszonyt megtestesítő értékpapír, illetve az államot megillető egyéb társasági részesedés,
 - d) az államot megillető olyan immateriális, vagyoni értékkel rendelkező jogosultság, amelyet jogszabály vagyoni értékű jogként nevesít,
 - e) az állam tulajdonában álló a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény szerinti pénzügyi eszköz.
+- f) azon országgyűlési képviselőről, aki más, Alaptörvényben nevesített közjogi tisztséget is betöltve közfeladatot lát el, e közfeladata ellátása körében vagy ezzel összefüggésben, költségvetési forrásból készített, szerzői vagy szomszédos jogi védelmet élvező műhöz vagy teljesítményhez, különösen kép-, illetve hangfelvételhez kapcsolódó, felhasználási szerződés útján vagy a szerzői jogról szóló törvény alapján megszerzett felhasználási engedély, illetve vagyoni jog.
 
 (2a) A (2) bekezdés e) pontja szerinti pénzügyi eszközökre e törvény hatálya kizárólag a (6a) bekezdés, a 3. § (2a) bekezdése, a 35. § (2a) bekezdése és a 71. § (2) bekezdés b) pontja tekintetében terjed ki.
 
@@ -449,6 +450,8 @@ szükséges a tulajdonosi joggyakorló nevében a tulajdonosi joggyakorlói adat
 
 (4) Az (1) bekezdés szerinti igazolási kötelezettség nem vonatkozik azon jogi személyekre, amelyekre a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény hatálya nem terjed ki.
 
+25/B. § Az országgyűlési képviselőről, aki más, Alaptörvényben nevesített közjogi tisztséget is betöltve közfeladatot lát el, a nem állami forrásból készített szerzői mű vagy szomszédos jogi teljesítmény, különösen kép-, illetve hangfelvétel vonatkozásában felhasználási szerződés keretében ingyenes felhasználási engedély adható az állam részére.
+
 26. § (1) Az országos törzshálózati, valamint az e körbe nem tartozó vasúti pályát és tartozékait magába foglaló, állami tulajdonban álló pályahálózat ingatlanainak, ingóságainak az Nvtv. 3. § (1) bekezdés 10. pontjában meghatározott működtetése érdekében kötött szerződés alapján létrejövő jogviszonyokban e törvény és végrehajtási rendelete vagyonkezelési szerződésekre irányadó elszámolási és nyilvántartási szabályait kell alkalmazni.
 
 (2) Az (1) bekezdés szerinti szerződés alapján létrejövő, ingatlanra vonatkozó működtetési jogot az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 17. § (1) bekezdés 10. pontjában meghatározott ingatlan jogi jellegeként kell bejegyezni az ingatlan-nyilvántartásba.
@@ -561,7 +564,9 @@ vonhat be.
 
 (2) Az állam nevében tulajdonosi jogokat gyakorló szervezet közérdekből, kivételesen indokolt esetben a lakosság alapvető közszolgáltatásokkal való ellátása érdekében olyan – követelésvásárlással összefüggő – jogügyletet is köthet, amelyben a jogügylet ellenértékének meghatározásakor a lakosság ellátásbiztonsághoz fűződő érdekét is figyelembe veszi.
 
-(3)–(4)
+(3)
+
+(4)
 
 (5) A többségi állami tulajdonú gazdálkodó szervezet és tagja (részvényese) között létrejövő szerződést a szerződés aláírásától számított harminc napon belül a cégbíróságon a cégiratok közé letétbe kell helyezni. Ezt a rendelkezést nem kell alkalmazni, ha a társaság és a tag (részvényes) a társaság tevékenységi körébe tartozó, a létesítő okirat által meghatározott szokásos nagyságrendű szerződést köt, továbbá ha az banktitok sérelmével járna.
 
@@ -667,6 +672,7 @@ lehet végezni.
 - e) külön törvény szerinti közhasznú szervezet javára, az általa átvállalt állami vagy önkormányzati közfeladat ellátásának elősegítése érdekében, valamint a Magyar Tudományos Akadémia és a Magyar Művészeti Akadémia javára törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése vagy az általa átvállalt állami közfeladat ellátásának elősegítése érdekében,
 - f) az MNV Zrt. által peres eljárásban kötött, bíróság által jóváhagyott egyezség keretében állami vagyonba tartozó dolog tulajdonjogáról való lemondás esetén,
 - g) egyház, egyházi jogi személy hitéleti feladatai elősegítése vagy az általa végzett állami – így különösen oktatási, szociális, család-, gyermek- és ifjúságvédelmi, kulturális – feladatok ellátásának elősegítése érdekében.
+- h) az e törvény 1. § (2) bekezdés f) pontja szerinti állami vagyon tekintetében.
 
 (2a) Az ingatlan-nyilvántartásban sporttelepként nyilvántartott állami tulajdonban álló ingatlanok kizárólag sportcélokra adhatóak ingyenesen tulajdonba.
 
@@ -681,6 +687,8 @@ lehet végezni.
 (7) Az MNV Zrt. Igazgatósága jogosult dönteni helyi önkormányzat javára, a (2) bekezdés c) pontjában meghatározott célokra, legfeljebb bruttó 25 millió forint forgalmi értékű ingatlan ingyenes tulajdonba adásáról. Az MNV Zrt. Igazgatósága köteles az ingyenes tulajdonba adásról szóló döntését az MNV Zrt. honlapján nyilvánosságra hozni.
 
 (8) Az Nvtv. 13. § (3) bekezdése szerinti, az állami feladat ellátásához nem szükséges és leselejtezett tárgyi eszközt az MNV Zrt. a legalább két éve folyamatosan, igazoltan közhasznú, karitatív tevékenységet folytató civil szervezet kezdeményezésére ingyenesen a civil szervezet tulajdonába adhatja. Az MNV Zrt. Igazgatósága köteles az ingyenes tulajdonba adásról szóló döntését az MNV Zrt. honlapján nyilvánosságra hozni.
+
+(9) A (2) bekezdés h) pontja szerinti mű vagy teljesítmény, különösen kép-, illetve hangfelvétel vonatkozásában az 1. § (2) bekezdés f) pontja szerinti képviselő részére vagy a választási eljárásról szóló 2013. évi XXXVI. törvény szerinti jelölő szervezete vagy pártja részére felhasználási szerződés útján ingyenes, korlátozás nélküli felhasználási engedély adható.
 
 36/A. § A 36. § (2) és (5)–(8) bekezdése szerinti vagyonátadás kizárólag olyan kedvezményezett részére történhet, amely
 
@@ -1220,7 +1228,9 @@ lép.
 
 (7) Amennyiben a párt a (6) bekezdésben megállapított határidőben él vételi jogával, az MNV Zrt. köteles a bejelentéstől számított harminc napon belül megkötni a párttal az adásvételi szerződést.
 
-69. § (1)–(2)
+69. § (1)
+
+(2)
 
 (3)
 

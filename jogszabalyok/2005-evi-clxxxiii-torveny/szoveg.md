@@ -856,13 +856,14 @@ a vagyonkezelési szerződést – a miniszter és az állami vagyon felügyelet
 
 ### A vasúti pályahálózat működtetésére kötött szerződés
 
-28. § (1) Az állam nevében a miniszter – az államháztartásért felelős miniszter egyetértésével – legalább ötéves szerződésben kötelezettséget vállal az országos jelentőségű vasútvonalakat tartalmazó vasúti pályahálózat működtetését végző pályahálózat-működtetőnek a pályahálózat működtetésével kapcsolatban felmerült, és a hálózat-hozzáférési díjból, valamint a vasúti társaság egyéb üzleti tevékenységéből nem fedezett, indokoltnak elismert költségei megtérítésére (a továbbiakban: pályaműködtetési szerződés).
+28. § (1) Az állam képviseletében eljáró miniszter nevében a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 21. § (1a) bekezdésében meghatározott országos közlekedésszervező – a miniszter jóváhagyásával és az államháztartásért felelős miniszter egyetértésével – legalább ötéves szerződésben kötelezettséget vállal az országos jelentőségű vasútvonalakat tartalmazó vasúti pályahálózat működtetését végző pályahálózat-működtetőnek a pályahálózat működtetésével kapcsolatban felmerült, és a hálózat-hozzáférési díjból, valamint a vasúti társaság egyéb üzleti tevékenységéből nem fedezett, indokoltnak elismert költségei megtérítésére (a továbbiakban: pályaműködtetési szerződés).
 
 (2) A pályaműködtetési szerződés feltételeit úgy kell meghatározni, hogy
 
 - a) a szokásos üzleti feltételek mellett, ötéves időszakon belül a nyílt hozzáférésű vasúti pályahálózat működtetését végző pályahálózat-működtető eredménykimutatásában a hálózat-hozzáférési díjakból származó bevétel, az egyéb üzleti tevékenységekből származó eredmény, a magánforrásokból származó vissza nem térítendő támogatás és az állami finanszírozás – ideértve az állami előlegfizetéseket is – legalább egyensúlyban legyen a nyílt hozzáférésű pályahálózathoz kapcsolódó kiadásokkal, beleértve a pályahálózat működtetéséhez szükséges felújítások kiadásait is,
 - b) a pályahálózat-működtetőt – a vasúti közlekedés biztonságának és a szolgáltatások minőségének fenntartása és javítása mellett – a működtetés költségeinek, illetve a hálózat-hozzáférési díjak csökkentésére ösztönözze,
 - c) azok a 3. mellékletben meghatározott feltételeknek megfeleljenek.
+- d) a pályaműködtető számára minőségi szint előírásokat, valamint az azok teljesítéséhez kapcsolódó ösztönző rendszert tartalmazzon.
 
 (3) A pályaműködtetési szerződést naptári évenként – a benne foglaltak teljesítésének értékelésével – felül kell vizsgálni, és szükség szerint módosítani kell.
 
@@ -895,6 +896,8 @@ a vagyonkezelési szerződést – a miniszter és az állami vagyon felügyelet
 (4) Az (1) bekezdésben meghatározott szerződést a megkötését követő harminc napon belül a pályahálózat-működtető a honlapján közzéteszi.
 
 (5) A pályahálózat-működtető a tulajdonában és üzemeltetésében lévő eszközökről nyilvántartást készít, amely alapján felmérhető az ezen eszközök javításához vagy cseréjéhez szükséges finanszírozás nagysága. A nyilvántartásban rögzíteni kell a pályahálózat felújítására és korszerűsítésére fordított kiadások részleteit is.
+
+(6) A vasúti pályaműködtető által üzemeltetett, az utazóközönség számára nyitva álló helyiségben vagy épületben talált dolog értékesítése helyett – ha az értékesítés annak várható költségei és bevételei miatt nem észszerű – a vasúti pályaműködtető a talált dolgot felhasználhatja, vagy közérdekű célra felajánlhatja, illetve ilyen célra fordíthatja.
 
 29/A. § A magyar állam a pályahálózat-működtetőnek – az EUMSZ 93., 107. és 108. cikkének tiszteletben tartásával – a pályahálózat-működtetői feladatokkal, a pályahálózat méretével és a pénzügyi szükségletekkel összhangban lévő finanszírozást biztosíthat elsősorban új beruházások fedezése céljából. E beruházásokat a közvetlen állami finanszírozástól eltérő eszközök révén is finanszírozzák. Az ilyen finanszírozás esetén a pályahálózat-működtető pénzügyi egyensúlyára vonatkozó rendelkezéseket be kell tartani.
 

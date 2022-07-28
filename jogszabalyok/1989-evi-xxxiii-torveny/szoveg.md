@@ -168,6 +168,10 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 (8) Pártonként csak egy alapítvány részesíthető az e § szerinti támogatásban.
 
+### IV/B. Fejezet — Tiltott állami támogatásnak nem minősülő juttatás
+
+9/B. § Az állami vagyonról szóló 2007. évi CVI. törvény 1. § (2) bekezdés f) pontjában meghatározott állami vagyon átruházása nem minősül tiltott állami támogatásnak.
+
 ### V. Fejezet — A párt gazdálkodásának ellenőrzése
 
 10. § (1) A párt gazdálkodása törvényességének ellenőrzésére az Állami Számvevőszék jogosult.
@@ -184,11 +188,11 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 (2) E törvény hatálybalépésével egyidejűleg — a párt vagy annak tagja vonatkozásában — hatályát veszti minden olyan jogszabályi rendelkezés, amely valamely párt vagy annak tagjával kapcsolatban rendelkezést tartalmaz.
 
-12. § Az I-IV. Fejezet, az V. Fejezet, a 15. §, a 16. §, 17. § és az 1–3. számú melléklet az Alaptörvény VIII. cikk (4) bekezdése alapján sarkalatosnak minősül.
+12. § Az I–IV. Fejezet, a IV/B. Fejezet, az V. Fejezet, a 15. §, a 16. §, 17. § és az 1–3. számú melléklet az Alaptörvény VIII. cikk (4) bekezdése alapján sarkalatosnak minősül.
 
-13. §
+#### 13. §
 
-14. §
+#### 14. §
 
 15. § Ha már bejegyzett egyesület pártként kíván működni, köteles bejelenteni a bíróságnak, hogy a pártok működéséről és gazdálkodásáról szóló törvényt magára nézve kötelezőnek ismeri el, és alapszabályát egyidejűleg a bíróságnak benyújtani.
 
@@ -196,11 +200,13 @@ A pártok társadalmi rendeltetése, hogy a népakarat kialakításához és kin
 
 17. § E törvénynek az országgyűlési képviselők választása kampányköltségeinek átláthatóvá tételéről szóló 2013. évi LXXXVII. törvénnyel megállapított rendelkezéseit 2014. január 1-jétől kell alkalmazni.
 
-18. §
+#### 18. §
 
-19. §
+#### 19. §
 
-### 1. számú melléklet a pártok működéséről és gazdálkodásáról szólótörvényhez
+### 1. számú melléklet a pártok működéséről és gazdálkodásáról szóló
+
+törvényhez
 
 Pénzügyi kimutatás
 

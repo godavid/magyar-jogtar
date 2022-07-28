@@ -61,7 +61,7 @@ a polgári perrendtartásról szóló 2016. évi CXXX. törvény 7. § (1) bekez
 5. § (1) Kamarai tagság e törvény alapján:
 
 - a) mezőgazdasági őstermelőként történő nyilvántartásba vétellel
-- b) egyéni vállalkozó esetén bármely agrárgazdasági tevékenység végzésére jogosító nyilvántartásba vételről szóló igazolás kiadásával;
+- b) egyéni vállalkozó esetén bármely agrárgazdasági tevékenység folytatásának kezdő napjával;
 - c) a 2. § b) pont ba) alpont szerint újonnan alapított gazdálkodó szervezet esetén a szervezet bírósági bejegyzésével, működő jogalany főtevékenységének agrárgazdasági tevékenységre történő kiterjesztése esetén az agrárgazdasági tevékenység folytatásának kezdőnapjával;
 - d) a 2. § b) pont bb) alpont szerinti gazdálkodó szervezet esetén az agrárgazdasági tevékenység folytatása és az élelmiszerlánc-felügyeleti információs rendszerben történő nyilvántartásba vétel együttes fennállásának napján;
 - e) az a)–d) pontban foglaltak szerinti feltételek hiányában földművesként vagy mezőgazdasági termelőszervezetként történő nyilvántartásba vétellel; valamint
@@ -69,7 +69,7 @@ a polgári perrendtartásról szóló 2016. évi CXXX. törvény 7. § (1) bekez
 
 keletkezik.
 
-(2) Őstermelők családi gazdaságában tag – az (1) bekezdés a) pontjától eltérően – csak akkor válik a kamara tagjává, ha az őstermelők családi gazdaságának képviselőjeként van bejegyezve.
+(2) Az (1) bekezdés a) pontja az őstermelők családi gazdaságában tag mezőgazdasági őstermelő esetében akkor keletkeztet kamarai tagságot, ha a mezőgazdasági őstermelő az őstermelők családi gazdaságának képviselőjeként van bejegyezve.
 
 (3)
 
@@ -378,7 +378,7 @@ használhatja fel.
 
 (4) A döntés meghozatalánál és a jogkövetkezmény alkalmazásánál figyelemmel kell lenni a kötelességszegés súlyára, a tag gazdasági helyzetére és az ügy összes körülményére. Az agrárkamara elnöke a tag kérelme alapján, a tag gazdasági helyzetére figyelemmel a határozat végrehajtása alól egy alkalommal felmentést adhat.
 
-11. § (1) Az éves tagdíj mértékét, fizetésének módját és feltételeit az alapszabály határozza meg. A tagdíj mértékét a tagok gazdasági súlyára figyelemmel, sávosan kell meghatározni oly módon, hogy annak összege az egymillió forintot nem haladhatja meg. Az alapszabály a tagdíjfizetés alapját vagy mértékét csökkentő kedvezményeket állapíthat meg.
+11. § (1) Az éves tagdíj mértékét, fizetésének módját és feltételeit az alapszabály határozza meg. Az alapszabály a tagdíjfizetés alapját vagy mértékét csökkentő kedvezményeket állapíthat meg.
 
 (2) A meg nem fizetett kamarai tagdíj, pótlék, valamint a nyilvántartásba-vételi díj köztartozás, amelyet meg nem fizetésük esetén az állami adóhatóság adók módjára hajt be.
 
@@ -420,7 +420,8 @@ használhatja fel.
 - b) az agrárkamara tagjairól egységes nyilvántartási rendszert alakít ki és működtet;
 - c) előmozdítja az agrárkamarai tagok gazdasági tevékenysége infrastruktúrájának fejlődését;
 - d) részt vesz az agrár- és élelmiszergazdasági, a környezet- és tájgazdálkodási, valamint a területi gazdaságfejlesztési programok kialakításában, végrehajtásában;
-- e) elemzéseket végez, javaslatokat fogalmaz meg a vidéki életminőség javításának, a vidéki népesség foglalkoztatásának és a helyi termékek piacra jutásának elősegítése érdekében.
+- e) elemzéseket végez, javaslatokat fogalmaz meg a vidéki életminőség javításának, a vidéki népesség foglalkoztatásának és a helyi termékek piacra jutásának elősegítése érdekében, illetve támogatja és előmozdítja azokat a programokat, törekvéseket, amelyek a vidéki életminőség javítását, a vidéki népesség foglalkoztatását és a helyi termékek piacra jutását elősegítik;
+- f) támogatja és előmozdítja az agrárágazat technológiai fejlődésével összefüggő törekvéseket és az ezzel összefüggő innovációs, illetve kutatási és fejlesztési tevékenységeket, továbbá részt vesz a tevékenységek megvalósításában.
 
 (2) Az agrárkamara az üzleti forgalom biztonsága és a tisztességes piaci magatartás megteremtése, megőrzése, illetve fokozása érdekében
 
@@ -448,7 +449,7 @@ használhatja fel.
 - f) a közös agrárpolitikával összefüggő kérdésekben érdekképviseleti és érdekegyeztetési feladatokat lát el;
 - g) kezdeményezi a tagok általános gazdasági érdekeit elősegítő jogszabály meghozatalát, illetve a tagok általános gazdasági érdekeivel összhangban nem levő jogszabály és egyéb intézkedés módosítását, hatályon kívül helyezését.
 
-(4) Az agrárkamara közreműködik az agrár- és élelmiszergazdaság egyes ágazataival kapcsolatos stratégiák és programok kidolgozásában.
+(4) Az agrárkamara közreműködik az agrár- és élelmiszergazdaság egyes ágazataival kapcsolatos stratégiák és programok kidolgozásában, illetve részt vesz azok megvalósításában.
 
 (5) A taggal szemben az elismert szakmaközi szervezet írásbeli kezdeményezésére az etikai eljárást le kell folytatni. Az így kezdeményezett etikai eljárásban
 

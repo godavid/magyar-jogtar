@@ -49,19 +49,19 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósít�
 
 ### A kiemelt jelentőségű ügy koordinációja
 
-2/A. § (1) A Kormány a kiemelt jelentőségű ügyben rendeletével jelölheti ki a koordinációs feladatokat ellátó kormánymegbízottat.
+2/A. § (1) A Kormány a kiemelt jelentőségű ügyben rendeletével jelölheti ki a koordinációs feladatokat ellátó főispánt.
 
-(2) A kiemelt jelentőségű ügyben a Kormány rendeletében határozza meg azokat a feladat- és hatásköröket, amelyeket az (1) bekezdés szerint kijelölt kormánymegbízott gyakorolhat.
+(2) A kiemelt jelentőségű ügyben a Kormány rendeletében határozza meg azokat a feladat- és hatásköröket, amelyeket az (1) bekezdés szerint kijelölt főispán gyakorolhat.
 
-(3) Az (1) bekezdés szerint kijelölt kormánymegbízott a (2) bekezdés szerinti feladatat- és hatásköreit a kiemelt jelentőségű ügyben eljáró valamennyi hatóság, illetve szakhatóság tekintetében – az általa vezetett kormányhivatalnak a fővárosi és megyei kormányhivatalokról szóló kormányrendeletben meghatározott illetékességi területén kívül is – gyakorolhatja.
+(3) Az (1) bekezdés szerint kijelölt főispán a (2) bekezdés szerinti feladatat- és hatásköreit a kiemelt jelentőségű ügyben eljáró valamennyi hatóság, illetve szakhatóság tekintetében – az általa vezetett kormányhivatalnak a fővárosi és megyei kormányhivatalokról szóló kormányrendeletben meghatározott illetékességi területén kívül is – gyakorolhatja.
 
-(4) Az (1) bekezdés szerint kijelölt kormánymegbízott a (2) bekezdésben meghatározott feladat- és hatásköröket nem gyakorolhatja az önálló szabályozó szervek, a Magyar Nemzeti Bank, az autonóm államigazgatási szervek, a Nemzeti Adó- és Vámhivatal, valamint a rendvédelmi szervek tekintetében.
+(4) Az (1) bekezdés szerint kijelölt főispán a (2) bekezdésben meghatározott feladat- és hatásköröket nem gyakorolhatja az önálló szabályozó szervek, a Magyar Nemzeti Bank, az autonóm államigazgatási szervek, a Nemzeti Adó- és Vámhivatal, valamint a rendvédelmi szervek tekintetében.
 
-2/B. § (1) A 2/A. § (1) bekezdése szerint kijelölt kormánymegbízott jogosult a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok vezetőjét – a Kormány tagjai, az önálló szabályozó szervek, az autonóm államigazgatási szervek, a Nemzeti Adó- és Vámhivatal, valamint a rendvédelmi szervek kivételével – írásban soron kívüli feladat elvégzésére, vagy mulasztás pótlására utasítani a kiemelt jelentőségű üggyel összefüggő feladatokkal kapcsolatban.
+2/B. § (1) A 2/A. § (1) bekezdése szerint kijelölt főispán jogosult a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok vezetőjét – a Kormány tagjai, az önálló szabályozó szervek, az autonóm államigazgatási szervek, a Nemzeti Adó- és Vámhivatal, valamint a rendvédelmi szervek kivételével – írásban soron kívüli feladat elvégzésére, vagy mulasztás pótlására utasítani a kiemelt jelentőségű üggyel összefüggő feladatokkal kapcsolatban.
 
-(2) A kormánymegbízott az (1) bekezdés szerinti írásbeli utasítást – annak kiadásával egyidejűleg – megküldi a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok irányító, szakmai irányító és felügyeleti szervének.
+(2) A főispán az (1) bekezdés szerinti írásbeli utasítást – annak kiadásával egyidejűleg – megküldi a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok irányító, szakmai irányító és felügyeleti szervének.
 
-(3) A kormánymegbízott a kiemelt jelentőségű üggyel összefüggésben a kiemelt jelentőségű ügyben hatóságként vagy szakhatóságként kijelölt kormánytag felé írásban jelzéssel élhet, mellyel összefüggésben az érintett kormánytag öt munkanapon belül tájékoztatást ad a kormánymegbízottnak.
+(3) A főispán a kiemelt jelentőségű üggyel összefüggésben a kiemelt jelentőségű ügyben hatóságként vagy szakhatóságként kijelölt kormánytag felé írásban jelzéssel élhet, mellyel összefüggésben az érintett kormánytag öt munkanapon belül tájékoztatást ad a főispánnak.
 
 ### Ügyintézési határidő a kiemelt jelentőségű ügyben
 
@@ -499,8 +499,8 @@ vagy mellőzésére vonatkozó szabályokat.
 
 - a) a nemzetgazdasági szempontból kiemelt jelentőségű ügyek körét;
 - b) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben eljáró hatóság vagy hatóságok kijelölését;
-- c) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben a kormánymegbízott feladat- és hatáskörét, a koordináció részletes eljárási szabályait,
-- d) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben feladatkörrel rendelkező kormánymegbízott kijelölését,
+- c) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben a főispán feladat- és hatáskörét, a koordináció részletes eljárási szabályait,
+- d) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben feladatkörrel rendelkező főispán kijelölését,
 - e) a nemzetgazdasági szempontból kiemelt jelentőségű ügyek vonatkozásában a beruházó tájékoztatási kötelezettségének részletes szabályait,
 - f) az intermodális csomópontok tekintetében fejlesztési közreműködőként eljárni jogosult szervezetet, a fejlesztési közreműködő feladatait és jogosultságait, valamint a fejlesztési közreműködő mint építtető által megvalósítandó intermodális csomópontok körét;
 - g) a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházáshoz kapcsolódó kiemelt jelentőségű ügyek körét, valamint szabályozza ezen ügyekben a b)–f) pontban meghatározottakat.
@@ -509,7 +509,7 @@ vagy mellőzésére vonatkozó szabályokat.
 - j) a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság, mint építtető által megvalósítandó intermodális csomópontok körét.
 - k) a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások kapcsán kiváltásra vagy kiépítésre kerülő közművek elhelyezése érdekében a felszíni ingatlan korlátozására vonatkozó jogok tartalmával, engedélyezésével, megszűnésével és a kártalanítással kapcsolatos részletes szabályokat.
 
-(6) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy rendeletben állapítsa meg a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok által a koordinációs feladatokat ellátó kormánymegbízottak felé, továbbá a koordinációs feladatokat ellátó kormánymegbízottak által a közigazgatás-szervezésért felelős miniszter és a Kormány tagjai felé teljesítendő, törvényben vagy kormányrendeletben előírt rendszeres és eseti jellegű jelentések, valamint tájékoztatások részletszabályait.
+(6) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy rendeletben állapítsa meg a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok által a koordinációs feladatokat ellátó főispánok felé, továbbá a koordinációs feladatokat ellátó főispánok által a közigazgatás-szervezésért felelős miniszter és a Kormány tagjai felé teljesítendő, törvényben vagy kormányrendeletben előírt rendszeres és eseti jellegű jelentések, valamint tájékoztatások részletszabályait.
 
 (7) E törvény alkalmazásában közterületnek minősül a közhasználatra szolgáló minden olyan állami vagy önkormányzati tulajdonban álló terület, amelyet rendeltetésének megfelelően bárki használhat, ideértve a közúti és gyalogos közlekedést szolgáló létesítményeket, a kikapcsolódás, a szórakozás, a sporttevékenység, a szabadidő-eltöltés biztosítását szolgáló területeket, a tereket és közparkokat, valamint a közművek elhelyezését szolgáló területet.
 

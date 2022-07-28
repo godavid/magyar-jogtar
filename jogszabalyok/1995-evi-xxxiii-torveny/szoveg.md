@@ -2441,7 +2441,7 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 - b) a szellemi alkotó és az innovációs tevékenységet támogató és népszerűsítő programokat kezdeményez, alakít ki és hajt végre, illetve részt vesz ilyen programokban;
 - c) közreműködik a szellemi alkotások és az innovációs eredmények társadalmi elismerését szolgáló rendszer fejlesztésében, a szellemi alkotó tevékenységgel és a szellemi tulajdon védelmével kapcsolatos pályázatokat, kiállításokat és más rendezvényeket kezdeményez, szervez vagy támogat;
 - d) terjeszti a szellemi tulajdon védelmével kapcsolatos ismereteket, fejleszti az iparjogvédelmi és a szerzői jogi kultúrát; tájékoztatással, ügyfélszolgálattal, szaktanácsadással és más eszközökkel gyarapítja a vállalkozások – különösen a kis- és középvállalkozások – iparjogvédelmi és szerzői jogi ismereteit, előmozdítja körükben a szellemi tulajdonjogok tiszteletben tartását;
-- e) külön jogszabály alapján működteti a Hamisítás Elleni Nemzeti Testületet, emellett egyéb módon is közreműködik a szellemi tulajdonjogok hatékony érvényesítéséhez szükséges feltételrendszer kialakításában és továbbfejlesztésében;
+- e)
 - f) szakmailag felügyeli a szellemi tulajdonnal kapcsolatos – iskolarendszeren kívüli – képzést, működteti annak rendszerét, továbbá gondoskodik az iparjogvédelmi szakvizsgák és a szabadalmi ügyvivői vizsgák megszervezéséről;
 - g) működteti a Magyar Formatervezési Tanácsot, továbbá közreműködik a nemzeti formatervezési díjak és ösztöndíjak adományozásának lebonyolításában;
 - h) elősegíti, hogy a szellemi tulajdon védelmének eszközeit megfelelően használják fel az országkép formálásához, az egységes országmárka kialakításához, valamint a jellegzetes magyar termékek ismertségének javításához és hírnevének megóvásához.
@@ -2589,7 +2589,7 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (4) Felhatalmazást kap a Kormány, hogy rendelettel megállapítsa az egyes iparjogvédelmi beadványok elektronikus úton való benyújtására vonatkozó részletes szabályokat.
 
-(4a) Felhatalmazást kap a Kormány, hogy rendelettel megállapítsa a Hamisítás Elleni Nemzeti Testület szervezetének és működésének szabályait.
+(4a)
 
 (4b) Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a 115/E. § (7) bekezdése szerinti gazdasági társaságot és megállapítsa a feladatellátás és a szolgáltatások igénybevételének szabályait.
 

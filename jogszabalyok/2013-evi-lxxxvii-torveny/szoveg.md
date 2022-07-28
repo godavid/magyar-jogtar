@@ -101,6 +101,8 @@ a kincstár folyósítja a párt részére.
 
 (3) Nem bocsátható a 2/A. § szerinti támogatás olyan párt rendelkezésére, amely a (2) bekezdés alapján nem jogosult támogatásra.
 
+6/B. § A 7. § (1) bekezdésében meghatározott összegbe nem számít bele az állami vagyonról szóló 2007. évi CVI. törvény 1. § (2) bekezdés f) pontja szerinti állami vagyon.
+
 #### 2. A választási kampány költségeinek korlátozása
 
 7. § (1) A választási kampányidőszak alatt, a választási kampánytevékenységgel összefüggő kiadások finanszírozására

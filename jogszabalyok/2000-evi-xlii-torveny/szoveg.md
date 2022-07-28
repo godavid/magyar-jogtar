@@ -64,6 +64,8 @@ látja el.
 
 (5) A hajózási képesítések megszerzéséhez szükséges vizsgáztatást a Kormány által rendeletben kijelölt, kizárólagos állami tulajdonban álló vagy az általa alapított nonprofit szervezet (a továbbiakban: vizsgaközpont) végzi.
 
+(6) A miniszter feladata a Kormány rendeletében meghatározott regionális vagy elővárosi személyszállítási közszolgáltatási feladatot ellátó komp- és révközlekedésnek minősített, a helyi személyszállítási közszolgáltatás körébe nem sorolható komp- és révközlekedés működtetése.
+
 ### Az önkormányzatok feladatai
 
 3. § (1) A települési, a fővárosban a fővárosi önkormányzat feladata
@@ -1336,6 +1338,7 @@ vonatkozó rendelkezések megsértésekor.
 - r) a vizsgaközpont kijelölésének,
 - s) a vizsgaközpont tevékenysége tekintetében a felügyeleti szervének, a felügyeleti szerv feladat- és hatáskörének, illetékességének, továbbá működési rendjének és eljárásának,
 - t) a vizsgaközpont felügyeleti szerve által kiszabható bírság mértékének, megállapítása szempontrendszerének és a bírság megfizetése részletszabályainak
+- u) a helyi személyszállítási közszolgáltatás körébe nem sorolható komp- és révközlekedést biztosító szolgáltatásoknak regionális vagy elővárosi személyszállítási közszolgáltatási feladatot ellátó szolgáltatássá történő minősítésének
 
 rendeletben történő megállapítására.
 
