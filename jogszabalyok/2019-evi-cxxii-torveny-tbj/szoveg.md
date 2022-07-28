@@ -1554,7 +1554,7 @@ a 25 százalékot.
 - 3. A 18. § (2) bekezdésének alkalmazásában
   - a) a harmadik államban fennálló biztosítás igazolása a harmadik állam illetékes hatósága által kiállított, magyar nyelvre lefordított és magyar közjegyző által hitelesített igazolás birtokában lehetséges, amely bizonyítja, hogy a harmadik államból kiküldött személy e harmadik államban egészségbiztosítási és nyugdíjbiztosítási rendszerben egyaránt biztosított, és
   - b) annak bizonyítása, hogy a harmadik államból kiküldött személy nem tartozik a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá, az erről szóló írásbeli nyilatkozat megtételével lehetséges.
-- 4. A 43. § (11) bekezdés szerinti tanulmányok folytatásának igazolására
+- 4. A 42. § (11) bekezdés szerinti tanulmányok folytatásának igazolására
   - a) külföldi köznevelési intézmény esetében olyan munkanapokon végzett iskolarendszerű köznevelési tevékenység igazolása szükséges, ahol a tanulmányi követelmények teljesítéséhez pedagógus, szakképzés esetén pedagógus és gyakorlati oktató személyes közreműködését igénylő foglalkozások (tanítási óra, szakmai gyakorlat) szükségesek,
   - b) külföldi szakképző intézmény esetében munkanapokon végzett iskolarendszerű tevékenység igazolása szükséges, ahol a tanulmányi követelmények teljesítéséhez pedagógus, szakképzés esetén pedagógus és gyakorlati oktató személyes közreműködését igénylő foglalkozások (tanítási óra, szakmai gyakorlat) szükségesek,
   - c) külföldi felsőoktatási intézmény esetében olyan munkanapokon végzett felsőoktatási tevékenység igazolása szükséges, ahol a tanulmányi követelmények teljesítéséhez oktatói személyes közreműködést igénylő foglalkozások (előadás, szeminárium, gyakorlat, konzultáció) szükségesek.

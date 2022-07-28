@@ -26,7 +26,7 @@ Az Országgyűlés az államháztartás egyensúlyának és a közpénzekkel val
 - 14. költségvetési támogatás: a társadalombiztosítás pénzügyi alapjai kivételével az államháztartás központi alrendszeréből ellenérték nélkül, pénzben nyújtott támogatások, ide nem értve
   - a) az adományokat, segélyeket, felajánlásokat,
   - b) a pártok és pártalapítványok támogatását, az országgyűlési képviselők választása kampányköltségeinek támogatásait,
-  - c) a tanulóknak, hallgatóknak biztosított ösztöndíjakat,
+  - c) a tanulóknak, hallgatóknak biztosított, valamint a Magyar Tudományos Akadémia által tudományos kutatás folytatása céljából pályázati úton nyújtott ösztöndíjakat,
   - d) kitüntetéshez kapcsolódóan nyújtott pénzjutalmakat,
   - e) a fogyatékos és a súlyos mozgáskorlátozott személyeknek ezen élethelyzetére tekintettel nyújtott pénzbeli ellátásokat,
   - f) a szociális igazgatásról és szociális ellátásokról szóló törvény, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti pénzbeli és természetbeni szociális és gyermekvédelmi ellátásokat,
@@ -38,6 +38,7 @@ Az Országgyűlés az államháztartás egyensúlyának és a közpénzekkel val
   - l) a vis maior támogatásokat,
   - m) a határon túli, magát magyar nemzetiségűnek valló természetes személy részére jogszabály alapján nyújtható támogatásokat,
   - n) az állam hitelfelvételét is tartalmazó nemzetközi szerződésben meghatározott, kizárólagos állami tulajdonú vagyon fejlesztését szolgáló beruházás megvalósítása érdekében 100%-os állami tulajdonú gazdasági társaság részére nyújtott támogatásokat,
+  - o) a jogszabály alapján, az abban meghatározott feltételek szerint nyújtott kamat- és díjtámogatást,
 - 15. kötelezettségvállalás: a kiadási előirányzatok, és – ha jogszabály azt lehetővé teszi – a 49. § szerinti lebonyolító szerv számára a Kormány rendeletében meghatározottak szerinti rendelkezésre bocsátott összeg terhére fizetési kötelezettség vállalásáról szóló – így különösen a foglalkoztatásra irányuló jogviszony létesítésére, szerződés megkötésére, költségvetési támogatás biztosítására irányuló – szabályszerűen megtett jognyilatkozat,
 - 16.
 - 17. maradvány: a költségvetési év során a bevételek és kiadások különbözete, amely az alaptevékenység bevételei és kiadásai tekintetében a költségvetési maradvány, a vállalkozási tevékenység bevételei és kiadásai tekintetében a vállalkozási maradvány,
@@ -237,7 +238,7 @@ látja el.
 
 8/A. § (1) Az Országgyűlés vagy a Kormány által alapított költségvetési szerv alapításáról jogszabályban, más alapító szerv által alapított költségvetési szerv esetén alapító okiratban kell rendelkezni. Jogszabállyal alapított költségvetési szerv esetén – a jogszabályban megjelölt alapítási időpontot megelőzően – a költségvetési szerv alapításáról alapító okiratot is ki kell adni.
 
-(2) Az alapító okiratot és annak módosítását az alapító szerv – az Országgyűlés vagy a Kormány által alapított költségvetési szerv alapító okiratát és annak módosítását az irányító szerv, minisztérium, a Miniszterelnöki Kormányiroda és a kormányzati főhivatal alapító okiratát és annak módosítását a miniszterelnök – adja ki a kincstár által rendszeresített formanyomtatvány alkalmazásával. Az alapító okirat kiadására jogosult személy e tevékenységében nem helyettesíthető.
+(2) Az alapító okiratot és annak módosítását az alapító szerv – az Országgyűlés vagy a Kormány által alapított költségvetési szerv alapító okiratát és annak módosítását az irányító szerv, minisztérium és a kormányzati főhivatal alapító okiratát és annak módosítását a miniszterelnök – adja ki a kincstár által rendszeresített formanyomtatvány alkalmazásával. Az alapító okirat kiadására jogosult személy e tevékenységében nem helyettesíthető.
 
 (3) A Kormány irányítása vagy felügyelete alá tartozó, a miniszter által alapított költségvetési szerv – a miniszterelnök által kiadott alapító okirattal rendelkező költségvetési szerv és a honvédelemért felelős miniszter által alapított költségvetési szerv kivételével – alapító- és megszüntető okiratának kiadásához minden esetben, az alapító okirat módosításához a Kormány rendeletében meghatározott esetekben szükséges az államháztartásért felelős miniszter előzetes egyetértése.
 
@@ -299,6 +300,8 @@ látja el. E rendelkezést nem kell alkalmazni – kormányrendeletben meghatár
 (4b) Az irányító szerv döntése alapján a (4a) bekezdést a 100 fő éves átlagos statisztikai állományi létszámot elérő költségvetési szervre is alkalmazni kell.
 
 (4c) Törvény vagy kormányrendelet a Kormány vagy a miniszterelnök irányítása alá tartozó költségvetési szerv gazdasági szervezete feladatainak ellátására más, a Kormány vagy a miniszterelnök irányítása alá tartozó költségvetési szervet is kijelölhet.
+
+(4d) Ha a Kormány irányítása alá tartozó költségvetési szerv éves átlagos statisztikai állományi létszáma a 100 főt nem éri el, a gazdasági szervezeti feladatait, a Kormány irányítása alatt álló, más irányító szerv irányítása alatt álló önálló gazdasági szervezettel rendelkező költségvetési szerv is elláthatja, az irányító szervek ilyen irányú megállapodása alapján.
 
 (5) A költségvetési szerv szervezetét, feladatai ellátásának részletes belső rendjét és módját szervezeti és működési szabályzat állapítja meg. A szervezeti egységekre vonatkozó szabályokat a költségvetési szerv szervezeti és működési szabályzatában vagy a szervezeti egységek ügyrendjében, a gazdálkodás részletes rendjét belső szabályzatban kell meghatározni.
 
@@ -495,6 +498,8 @@ költségvetési bevételeit és költségvetési kiadásait.
 (2a) A Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv – ha törvény eltérően nem rendelkezik – az irányító szerve vagy a felügyeletét ellátó szerve költségvetési fejezetében alkot önálló címet. A honvédelemért felelős miniszter által alapított költségvetési szervek – ha az nemzetbiztonsági szempontból indokolt –, valamint a területileg széttagoltan működő, de azonos alaptevékenységet végző költségvetési szervek közül több is képezhet egy címet.
 
 (3) A fejezeti kezelésű előirányzatok fejezetenként egy címet alkotnak. A fejezeti általános tartalékot fejezeti kezelésű előirányzatként kell megtervezni.
+
+(3a) A honvédelmi miniszter által vezetett minisztérium fejezetében a költségvetési szervek több alcímet, a fejezeti kezelésű előirányzatok több címet is alkothatnak.
 
 (4) A (2) és (3) bekezdésben nem szereplő költségvetési kiadásokat – az elkülönített állami pénzalapok, társadalombiztosítás pénzügyi alapjai költségvetési kiadásai kivételével – a központi kezelésű előirányzatok között kell megtervezni.
 
@@ -759,7 +764,7 @@ kerülhet sor.
 
 (4b) Az államháztartásért felelős miniszter előzetes hozzájárulására van szükség a Kormány irányítása alá tartozó fejezeten belüli, (3) bekezdés szerinti előirányzat-átcsoportosításhoz, ha az a központi költségvetés előirányzat-módosítási kötelezettség nélkül túlteljesíthető előirányzatai terhére történik.
 
-(5) A (3) bekezdés b) pont ba) és bb) alpontja szerinti, a Kormány irányítása alá tartozó fejezeten belüli előirányzat-átcsoportosítás, és a fejezetek közötti, (3) bekezdés a) pontja, valamint a (3) bekezdés b) pont ba) és bb) alpontja szerinti előirányzat-átcsoportosítás az államháztartásért felelős miniszter egyidejű tájékoztatása mellett történik.
+(5) Az államháztartásért felelős miniszter előzetes hozzájárulására van szükség a (3) bekezdés b) pont ba) és bb) alpontja szerinti, a Kormány irányítása alá tartozó fejezeten belüli előirányzat-átcsoportosításhoz. A Kormány irányítása alá tartozó fejezetek közötti, a (3) bekezdés a) pontja, valamint a (3) bekezdés b) pont ba) és bb) alpontja szerinti előirányzat-átcsoportosítás az államháztartásért felelős miniszter egyidejű tájékoztatása mellett történik.
 
 (6) A kincstár a központi költségvetésről szóló törvény szerinti szerkezetben és bontásban havonta közzéteszi a honlapján az államháztartás központi alrendszerébe tartozó költségvetési szervek, továbbá a központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok, elkülönített állami pénzalapok és társadalombiztosítás pénzügyi alapjai eredeti előirányzatait, módosított előirányzatait, valamint teljesítési adatait.
 
@@ -864,6 +869,8 @@ kerülhet sor.
 - c) a többségi állami tulajdonban álló gazdasági társaság 100%-os tulajdonában álló gazdasági társaságához történő kirendelés esetén a többségi állami tulajdonban álló gazdasági társaságot és annak a tulajdonosi joggyakorlóját
 
 előzetesen tájékoztatja.
+
+(1a) Az államháztartásért felelős miniszter a költségvetés végrehajtásának és a gazdálkodást érintő egyéb feladat ellátásának ellenőrzésére a feladattal érintett, a Kormány irányítása vagy felügyelete alá tartozó központi költségvetési szerv vagy testület, valamint a helyi önkormányzat, a helyi nemzetiségi önkormányzat, az országos nemzetiségi önkormányzat, a társulás, a területfejlesztési önkormányzati társulás, a térségi fejlesztési tanács és az általuk irányított költségvetési szerv vezetőjével folytatott előzetes egyeztetést követően költségvetési felügyelőt bízhat meg.
 
 (2) A költségvetési felügyelő a gazdálkodás költségvetés-politikával való összhangja és a takarékos, szabályszerű, eredményes működés érdekében a Kormány rendeletében meghatározott intézkedéseket tehet.
 
@@ -996,6 +1003,8 @@ teljesíthet.
 
 (9) A felügyelő bizottság tagja feladatát az ilyen tisztséget betöltő személytől elvárható fokozott gondossággal, és az állam érdekeit képviselő tag esetében az állam érdekeinek elsődlegessége alapján látja el. A tagok – a Polgári Törvénykönyv többek közös károkozására vonatkozó szabályai szerint – korlátlanul és egyetemlegesen felelnek az állammal szemben az ellenőrzési kötelezettségük felróható megszegésével okozott károkért. Ha a kárt testületi határozat okozta, mentesül a felelősség alól az a tag, aki a döntésben nem vett részt, vagy a határozat ellen szavazott.
 
+45/C. § Az állami vagyonról szóló 2007. évi CVI. törvény szerinti, a felhasználásra jogosultat megillető, szerzői vagy szomszédos jogi védelmet élvező műre, vagy teljesítményre, különösen kép-, illetve hangfelvételre vonatkozó felhasználási szerződéssel ingyenes felhasználási engedély adható.
+
 #### 32. A vállalkozási tevékenység
 
 46. § (1) A központi kezelésű előirányzatok, a fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kiadási előirányzatai terhére a 7. § (2) bekezdés b) pontja szerinti vállalkozási tevékenység nem folytatható.
@@ -1036,7 +1045,7 @@ jogszabály vagy egyedi döntés (a továbbiakban: támogatási döntés) alapj�
 48/B. § (1) Nem lehet a támogatási jogviszonyban kedvezményezett
 
 - a) az, aki a támogatási döntést meghozta vagy aki a támogatási döntés meghozatalában döntés-előkészítőként részt vett,
-- b) az, aki a támogatási döntés időpontjában a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár, helyettes államtitkár, kormánymegbízott, kormánybiztos, miniszterelnöki megbízott, miniszterelnöki biztos, megyei közgyűlés elnöke, főpolgármester, polgármester – az 5000 fő vagy ez alatti lakosságszámú település polgármestere kivételével – , regionális fejlesztési ügynökség vezető tisztségviselője,
+- b) az, aki a támogatási döntés időpontjában a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főispán, kormánybiztos, miniszterelnöki megbízott, miniszterelnöki biztos, megyei közgyűlés elnöke, főpolgármester, polgármester – az 5000 fő vagy ez alatti lakosságszámú település polgármestere kivételével – , regionális fejlesztési ügynökség vezető tisztségviselője,
 - c) az a) és b) pont szerinti személlyel közös háztartásban élő hozzátartozó,
 - d) – a nyilvánosan működő részvénytársaság kivételével – az a) és b) pont szerinti személy tulajdonában álló gazdasági társaság,
 - e) – az állam, a helyi önkormányzat, illetve a köztestület legalább 50%-os közvetlen vagy közvetett tulajdonában lévő gazdasági társaság, valamint a sportegyesület, a sportszövetség, a polgárőr szervezet és az állam által alapított vagyonkezelő alapítvány és közfeladatot ellátó közérdekű vagyonkezelő alapítvány, valamint azon vagyonkezelő alapítvány és közfeladatot ellátó közérdekű vagyonkezelő alapítvány, amelyhez az állam csatlakozott kivételével – az olyan gazdasági társaság, alapítvány, egyesület, egyházi jogi személy vagy szakszervezet, illetve ezek önálló jogi személyiséggel rendelkező olyan szervezeti egysége, amelyben az a)–c) pont szerinti személy vezető tisztségviselő, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, az egyesület, az egyházi jogi személy vagy a szakszervezet ügyintéző vagy képviseleti szervének tagja.
@@ -1653,7 +1662,7 @@ kell készíteni.
 
 #### 62. Zárszámadás az államháztartás központi alrendszerében
 
-90. § (1) A Kormány a zárszámadásról szóló törvényjavaslatot a költségvetési évet követő év szeptember 30-áig az Országgyűlés elé terjeszti. A Kormány a zárszámadásról szóló törvényjavaslatot, a társadalombiztosítás pénzügyi alapjairól és az elkülönített állami pénzalapokról készített éves költségvetési beszámolókat a zárszámadásról szóló törvényjavaslat Országgyűlés elé történő beterjesztését két hónappal megelőzően megküldi az Állami Számvevőszéknek. A zárszámadásról szóló törvényjavaslatot az Országgyűlés az Állami Számvevőszék jelentésével együtt tárgyalja meg.
+90. § (1) A Kormány a zárszámadásról szóló törvényjavaslatot a költségvetési évet követő év szeptember 30-áig – az országgyűlési képviselők általános választásának évében november 10-éig – az Országgyűlés elé terjeszti. A Kormány a zárszámadásról szóló törvényjavaslatot, a társadalombiztosítás pénzügyi alapjairól és az elkülönített állami pénzalapokról készített éves költségvetési beszámolókat a zárszámadásról szóló törvényjavaslat Országgyűlés elé történő beterjesztését két hónappal megelőzően megküldi az Állami Számvevőszéknek. A zárszámadásról szóló törvényjavaslatot az Országgyűlés az Állami Számvevőszék jelentésével együtt tárgyalja meg.
 
 (2) A zárszámadásról szóló törvényben jóvá kell hagyni a költségvetési hiány finanszírozásának vagy a költségvetési többlet felhasználásának módját.
 
@@ -1754,6 +1763,12 @@ eredményeképpen keletkeztek.
 (6) A kár megtérítésére tekintettel a biztosító társaságot megillető jogok a kiállítási viszontgarancia alapján a központi költségvetés által kifizetett összeg erejéig az államra szállnak át.
 
 (7) Kiállítási garancia és kiállítási viszontgarancia állami tulajdonban álló kiállítási tárgyra nem vállalható.
+
+94/A. § (1) A 92–94. § szerinti eljárásokban – az e törvényben meghatározott kivételekkel – az államot az államháztartásért felelős miniszter képviseli.
+
+(2) A 92–94. § szerinti fizetési kötelezettségekből eredő, az államot terhelő kifizetés során – jogszabály eltérő rendelkezése hiányában – az állami adóhatóság jár el.
+
+(3) Az Országgyűlés a költségvetési év során vállalható egyedi állami kezesség, kiállítási garancia és kiállítási viszontgarancia, valamint állami viszontgarancia mértékét, annak felső határát a központi költségvetésről szóló törvényben állapítja meg.
 
 95. § (1) Az Európai Bizottság által az Európai Unió nevében vállalt, hitelviszonyon alapuló fizetési kötelezettségének teljesítéséhez és az Európai Unió tagállamainak közös tulajdonában álló pénzügyi intézmény általi hitel vagy garancia nyújtásához szükséges tagállami fizetési kötelezettség a Kormány egyedi határozata alapján vállalható. A Kormány által meghatározott kötelezettségvállalási cél, mérték, időtartam és egyéb lényeges feltételek figyelembevételével ilyen kötelezettség az Európai Bizottsággal, illetve az Európai Unió tagállamainak közös tulajdonában álló pénzügyi intézménnyel kölcsönösen elfogadott tartalommal és formában vállalható.
 
@@ -1971,7 +1986,7 @@ kezelésére.
 
 a kincstár számára.
 
-(2) A helyi önkormányzat, a nemzetiségi önkormányzat és a társulás (1) bekezdés szerinti adatszolgáltatása akkor tekinthető teljesítettnek, ha azt az általa irányított költségvetési szervek is teljesítették.
+(2) A helyi önkormányzat (1) bekezdés szerinti adatszolgáltatása akkor tekinthető teljesítettnek, ha azt az általa irányított valamennyi költségvetési szerv és – társult feladatellátás esetén – az a társulás is teljesítette, aminek a társulási megállapodás szerint a helyi önkormányzat a székhelye. A nemzetiségi önkormányzat és a társulás (1) bekezdés szerinti adatszolgáltatása akkor tekinthető teljesítettnek, ha azt az általa irányított költségvetési szervek is teljesítették.
 
 (3) Ha az adatszolgáltatás kötelezettje
 
@@ -2050,7 +2065,7 @@ részletes szabályait,
 - 25. az állami kezesség, állami garancia, állami viszontgarancia, kiállítási garancia és kiállítási viszontgarancia vállalásának, módosításának, beváltásának, nyilvántartásának eljárási és részletszabályait,
 - 26. a külföldi követelések értékesítésének szabályait,
 - 27. az államháztartás információs rendszerében vezetett nyilvántartások körét, tartalmát, az államháztartás információs rendszerébe teljesített adatszolgáltatások kötelezettjeit, az adatszolgáltatások gyakoriságát, módját, a szolgáltatandó adatok körét, az egyes adatszolgáltatási kötelezettségek teljesítésének elmulasztása esetén kiróható bírság mértékét és a kiszabás módját, a 103. § (4) bekezdése szerint közzétett adatok körét és a közzétételre vonatkozó szabályokat, valamint a 108/A. § szerinti intézkedések körét és végrehajtásának szabályait,
-- 28. a honvédelemért felelős miniszter által vezetett minisztérium, az irányítása alá tartozó költségvetési szervek és a nemzetbiztonsági szolgálatok költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának, adatszolgáltatásainak, könyvvezetési és beszámoló készítési kötelezettségének a kincstári rendszer, illetve az államháztartási számvitel általános előírásaitól eltérő sajátos szabályait,
+- 28. a honvédelemért felelős miniszter által vezetett minisztérium fejezetébe tartozó, a honvédelemmel összefüggő feladatokat ellátó költségvetési szervek és a nemzetbiztonsági szolgálatok költségvetése tervezésének, pénzellátásának, gazdálkodásának, adatszolgáltatási-, könyvvezetési és beszámolási feladatainak a kincstári rendszer, az e törvény felhatalmazása és végrehajtására kiadott kormányrendelettől, valamint az államháztartás számviteléről szóló kormányrendelettől eltérő sajátos szabályait,
 - 29. a Kormány irányítása vagy felügyelete alatt álló rendvédelmi szervekről, a honvédelemért felelős miniszter által vezetett minisztériumról, az irányítása alá tartozó költségvetési szervekről és a nemzetbiztonsági szolgálatokról a kincstárnál nyilvántartásba vehető adatok körét, a kincstári nyilvántartásba nem vehető adatokat nyilvántartó szerv kijelölését, továbbá az ezen adatokra vonatkozó nyilvántartás sajátos eljárási szabályait,
 - 30. a Magyar Honvédség szervei, valamint a rendvédelmi szervek tekintetében az irányítói jogok középirányító szervre történő átruházásának részletszabályait,
 - 31. a határon túli költségvetési támogatásoknak, az egyházi célú költségvetési támogatásoknak, a központi költségvetésből nyújtott és a megyei önkormányzat és a megyei jogú város önkormányzat kedvezményezettnek, a megyei jogú város fejlődése és megújulása érdekében létrejött együttműködési megállapodásokban foglaltak végrehajtását szolgáló, hazai forrásból nyújtott költségvetési támogatásoknak a költségvetési támogatások nyújtásának e törvény végrehajtására kiadott rendeletben meghatározott rendjétől eltérő sajátos szabályait,
@@ -2198,9 +2213,9 @@ rendeletben szabályozza.
 
 (29) A Magyarország 2015. évi központi költségvetésének megalapozásáról szóló 2014. évi XCIX. törvénnyel megállapított 105. § (4) bekezdésének a költségvetési szerv által megkötött szerződés érvénytelenségére vonatkozó rendelkezését a 2015. február 28-át követően megkötött szerződések tekintetében kell alkalmazni. Az irányító szerv e határidőt megelőzően köteles gondoskodni a költségvetési szerv alapító okiratának a törzskönyvi nyilvántartásba elmulasztott bejegyzésének pótlásáról.
 
-(30)
+(30) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 90. § (1) bekezdését első alkalommal a Magyarország 2021. évi központi költségvetéséről szóló zárszámadás összeállítása során kell alkalmazni.
 
-(31)
+(31) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 15. § (3a) bekezdését első alkalommal a Magyarország 2023. évi központi költségvetéséről szóló törvény szerkezete tekintetében kell alkalmazni.
 
 (32)
 

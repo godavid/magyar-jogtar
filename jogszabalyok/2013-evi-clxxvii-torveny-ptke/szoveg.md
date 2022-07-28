@@ -49,6 +49,10 @@ kell alkalmazni.
 
 (2) A Ptk. hatálybalépése előtt megsértett személyhez fűződő jogok alapján érvényesíthető polgári jogi igényekre a jogsértés idején hatályos jogszabályi rendelkezéseket kell alkalmazni. A Ptk. hatálybalépése előtt megkezdődött, folyamatosan tanúsított jogsértő magatartásra – ideértve a mulasztást is – akkor is a Ptk. hatálybalépése előtt hatályos jogszabályok rendelkezéseit kell alkalmazni, ha a jogsértő magatartás befejezése a Ptk. hatálybalépése utáni időpontra esik.
 
+8/A. § (1) A Ptk. 2:48. § alkalmazásában nyilvános közéleti szereplésnek kell tekinteni – ide nem értve a Ptk. 2:44. § (3) bekezdésében meghatározott eseteket – a miniszterelnök vagy a köztársasági elnök részvételével, személyvédelemmel megvalósuló rendezvényt és egyéb eseményt – ideértve a közönség számára nyitva álló helyen való megjelenést – is.
+
+(2) Amennyiben az (1) bekezdés szerinti nyilvános közéleti szereplésről olyan képmás és hangfelvétel, illetve képmás vagy hangfelvétel készül, amelyen más, közéleti szerepléssel nem érintett, személy is látható, illetve hallható, akkor e személy kérheti, hogy a képmáson és hangfelvételen, illetve képmáson vagy hangfelvételen őt tegyék felismerhetetlenné.
+
 ### III. Fejezet — A PTK. HARMADIK KÖNYVÉHEZ KAPCSOLÓDÓ ÁTMENETI RENDELKEZÉSEK
 
 #### 3. A jogi személyek általános szabályai

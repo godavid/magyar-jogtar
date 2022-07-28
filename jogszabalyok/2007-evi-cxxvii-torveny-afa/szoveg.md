@@ -115,7 +115,7 @@ csoportos adóalanyiságot hozhatnak létre.
 
 (3a) A csoportos adóalanyiság létrehozására irányuló kérelemben megjelölhető, hogy mely időponttal kérik a csoportos adóalanyiság létrehozását. A csoportos adóalanyiság a kérelemben megjelölt időpontban, de legkorábban az állami adó- és vámhatóság (3) bekezdés szerinti engedélye véglegessé válásának napjával jön létre.
 
-(4) A csoportos adóalanyiságban részt vevő valamennyi tag a csoportos adóalanyiság időszakában együttesen minősül – ha törvény másként nem rendelkezik – egy adóalanynak. Az adóalanyisághoz fűződő jogok és kötelezettségek gyakorlásával összefüggő bírósági és más hatósági eljárásjogi cselekmények alanya a csoportos adóalanyiságban részt vevő tagok által kijelölt képviselő.
+(4) A csoportos adóalanyiságban részt vevő valamennyi tag a csoportos adóalanyiság időszakában együttesen minősül – ha törvény másként nem rendelkezik – egy adóalanynak. Az adóalanyisághoz fűződő jogok és kötelezettségek gyakorlásával összefüggő bírósági és más hatósági eljárásjogi cselekmények alanya a csoportos adóalanyiság időszakában és a csoportos adóalanyiság megszűnését követően a csoportos adóalanyiságban részt vevő tagok által kijelölt képviselő.
 
 (5) Az a tag, aki (amely) a csoportos adóalanyiságot megelőzően belföldön nyilvántartásba vett adóalanyként működött, a csoportos adóalanyiság létrejöttét megelőző nappal, mint fordulónappal köteles úgy eleget tenni az e törvény szerinti kötelezettségének, mintha jogutódlással szűnne meg.
 
@@ -902,9 +902,16 @@ esetében
 - a) az a termékértékesítés, szolgáltatásnyújtás, amelyet közvetlenül a pénzvisszatérítésre jogosult részére teljesítettek (pénzvisszatérítésre jogosító ügylet), belföldön teljesített adóköteles ügylet, és
 - b) a visszatérítendő összeg kisebb, mint a pénzvisszatérítésre jogosító ügylet mennyiségi adatának és az adott vásárlásösztönzési program keretében, bármely adóalap csökkentésre jogosító ügylet vonatkozásában az értékesített termék, nyújtott szolgáltatás legalacsonyabb, adóval növelt egységárának szorzataként adódó összeg.
 
-(5) A (4) bekezdés alkalmazásában a visszatérített összeget úgy kell tekinteni, mint amely az adó összegét is tartalmazza.
+(4a) A (4) bekezdés szerinti adóalap-csökkentési jog akkor is megilleti az adóalanyt, ha a pénzvisszatérítést úgy biztosítja, hogy azt nem közvetlenül azon adóalany vagy nem adóalany részére teljesíti, aki (amely) részére a pénzvisszatérítésre jogosító termékértékesítést, szolgáltatásnyújtást teljesítették (ezen bekezdés alkalmazásában: végső fogyasztó), feltéve, hogy:
 
-(6) A (4) bekezdés nem alkalmazható, ha az adóalap-csökkentésre jogosító ügylet és a pénzvisszatérítésre jogosító ügylet esetében az adót a 142. § alapján a termék beszerzője, szolgáltatás igénybevevője fizeti.
+- a) a végső fogyasztó a pénzvisszatérítésre jogosító ügylet tekintetében előzetesen felszámított adó levonására sem részben, sem egészben nem jogosult, és
+- b) a pénzvisszatérítés adó nélküli összege a pénzvisszatérítésre jogosító termékértékesítés, szolgáltatásnyújtás adóalapjába beletartozik.
+
+(4b) A (4a) bekezdés alkalmazásának nem feltétele, hogy a pénzvisszatérítés adó nélküli összege azon pénzvisszatérítésre jogosító termékértékesítés, szolgáltatásnyújtás adóalapjába tartozzon, amelyre tekintettel az adóalany azt biztosítja, feltéve, hogy a pénzvisszatérítésre jogosító termékértékesítések, szolgáltatásnyújtások tekintetében alkalmazandó adómérték azonos.
+
+(5) A (4), (4a) és (4b) bekezdés alkalmazásában a visszatérített összeget úgy kell tekinteni, mint amely az adó összegét is tartalmazza.
+
+(6) A (4), (4a) és (4b) bekezdés nem alkalmazható, ha az adóalap-csökkentésre jogosító ügylet és a pénzvisszatérítésre jogosító ügylet esetében az adót a 142. § alapján a termék beszerzője, szolgáltatás igénybevevője fizeti.
 
 (7) Különös tekintettel a rendeltetésszerű joggyakorlás elvére, az adó alapja utólag csökkenthető a behajthatatlan követelésként elszámolt ellenérték egészének vagy részének adót nem tartalmazó összegével a következő feltételek együttes teljesülése esetén:
 
@@ -947,6 +954,12 @@ esetében
 
 - a) a pénzvisszatérítésre jogosult neve, lakcíme és – adóalany esetén – adószáma,
 - b) a pénzvisszatérítésre jogosult nyilatkozata alapján az adólevonási jogára vonatkozó tájékoztatás az adott ügylet vonatkozásában.
+
+(5) A (3) bekezdéstől eltérően a 77. § (4a) bekezdése alkalmazásának feltétele, hogy a pénzt visszatérítő adóalany rendelkezzen:
+
+- a) bármely olyan, a pénzt visszatérítő adóalanytól független, harmadik féltől származó okirattal vagy független, harmadik fél által nyilvánosan közzétett adatokkal, amelyek egyértelműen igazolják, hogy a pénzvisszatérítésre jogosító, belföldön teljesített adóköteles ügylet megvalósult,
+- b) a pénzvisszatérítés teljesítését igazoló okirattal, amely egyértelműen igazolja, hogy az adóalany a pénzvisszatérítés összegét megfizette, és
+- c) olyan okirattal, amely egyértelműen alátámasztja, hogy a b) pont szerinti pénzvisszatérítés teljesítése azon adóalanyra vagy nem adóalanyra tekintettel valósult meg, aki (amely) részére a pénzvisszatérítésre jogosító termékértékesítést, szolgáltatásnyújtást teljesítették.
 
 79. § (1) Termék Közösségen belüli beszerzése esetében, ha a beszerző a Közösség más tagállamában, ahol a termék a küldeménykénti feladásakor vagy a fuvarozás megkezdésekor volt, jövedékiadó-visszatérítésben részesült, az adó alapját csökkentheti a visszatérített jövedéki adó igazolt összegével, feltéve, hogy a termék belföldön is jövedéki termék.
 
@@ -1999,6 +2012,7 @@ legyenek.
 - b) a jogosultnak az ellenértéket, az előleget vagy a betétdíjat visszatérítik az a) pont alá nem tartozó esetekben;
 - c) a jogosultnak a pénzt visszatérítik a 77. § (4) bekezdése szerinti esetben;
 - d) a termék Közösség területéről történő kiléptetésének hatóság általi igazolása az adóalany, az eredeti számlát módosító számla a jogosult személyes rendelkezésére áll a 98. § (5) bekezdés szerinti esetben.
+- e) a pénzvisszatérítést teljesíti a 77. § (4a) bekezdése szerinti esetben.
 
 (2) E § nem alkalmazható az 55. § (2) bekezdése szerinti számla érvénytelenítésre.
 
@@ -4344,6 +4358,10 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 352. § A 8/A. számú melléklet 6. pontja szerinti államban letelepedett adóalanyok tekintetében a XVIII. Fejezet szerinti adó-visszatérítést azon ügyletek esetén kell először alkalmazni, amelyek teljesítési időpontja 2021. január 1-jére vagy azt követő időpontra esik.
 
 354. § E törvénynek a veszélyhelyzettel összefüggő egyes szabályozási kérdésekről szóló 2021. évi CXXX. törvénnyel megállapított 93. § (1) bekezdés g) pont gd) alpontját és (1a) bekezdését, 107. § (1) bekezdés f) pontját és 107. § (4a) bekezdését a 2020. december 31-ét követően teljesített ügyletekre kell alkalmazni.
+
+355. § (1) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított, illetve módosított 77. § (4a), (4b), (5) és (6) bekezdése, 78. § (5) bekezdése, 153/B. § (1) bekezdés e) pontja azokban az esetekben alkalmazható, amikor a pénzvisszatérítést az adóalany ezen rendelkezések hatálybalépésének napján vagy azt követő időpontban teljesíti.
+
+(2) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított, illetve módosított 77. § (4a), (4b), (5) és (6) bekezdése, 78. § (5) bekezdése, 153/B. § (1) bekezdés e) pontja ezen rendelkezések hatálybalépésének időpontját megelőzően, de 2021. december 31-ét követően teljesített pénzvisszatérítések esetében is alkalmazható feltéve, hogy az adóalany a pénzvisszatérítésből fakadó adóalap-csökkentési igényét más módon nem érvényesítette.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 

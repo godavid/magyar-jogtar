@@ -6256,7 +6256,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - a) a köztársasági elnök,
   - b) az országgyűlési képviselő, a nemzetiségi szószóló és a Magyarországon megválasztott európai parlamenti képviselő,
   - c) az alkotmánybíró,
-  - d) a miniszterelnök, a miniszter, az államtitkár, a közigazgatási államtitkár, a helyettes államtitkár és a kormánymegbízott,
+  - d) a miniszterelnök, a miniszter, az államtitkár, a közigazgatási államtitkár, a helyettes államtitkár és a főispán,
   - e) a bíró, az ügyész és a választottbíró,
   - f) az alapvető jogok biztosa és helyettese,
   - g) a közjegyző és a közjegyzőhelyettes,

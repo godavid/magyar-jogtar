@@ -386,7 +386,7 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 - i) a szakképzésről szóló törvény alapján
   - ia) szakképzési munkaszerződés keretében duális képzőhelyen folytatott szakirányú oktatásban részt vevő tanulónként, képzésben részt vevő személyenként megkezdett hónap után havonta az adóév első napján érvényes minimálbér 24%-a,
   - ib) folytatott szakmai oktatáshoz kapcsolódó szakmai vizsga megszerzését követően az ia) alpont szerinti tanuló, illetve a képzésben részt vevő személy, a (3) bekezdésben meghatározott, korábban munkanélküli személy, a szabadulást követő 6 hónapon belül alkalmazott szabadságvesztésből szabaduló személy, továbbá a pártfogó felügyelet hatálya alatt álló személy után a foglalkoztatásának ideje alatt, de legfeljebb 12 hónapon át befizetett szociális hozzájárulási adó, annak költségenkénti elszámolásán túl, azzal, hogy az adózó akkor járhat el e rendelkezés szerint, ha a korábban munkanélküli magánszemély alkalmazása óta, illetve azt megelőző hat hónapon belül azonos munkakörben foglalkoztatott más munkavállaló munkaviszonyát rendes felmondással nem szüntette meg, és a korábban munkanélküli magánszemély az alkalmazását megelőző hat hónapon belül nála nem állt munkaviszonyban,
-- j)
+- j) a tulajdoni részesedésnek a könyvekből történő kivezetésekor a megelőző adóévekben a 8. § (1) bekezdés w) pontja alapján az adózás előtti eredmény növeléseként elszámolt – az adóbevallásokkal és az azt alátámasztó kimutatásokkal igazolt – összegből az a rész, amellyel az adózó még nem csökkentette az adózás előtti eredményét,
 - k) legfeljebb az adózás előtti nyereség összegéig
   - ka)
   - kb) a személyi jövedelemadóról szóló törvény szerinti munkásszállás bekerülési értékeként, a bekerülési értékének növekményeként kimutatott összeg a beruházás, felújítás befejezésének adóévében, továbbá a munkásszállás céljára bérelt ingatlan bérleti díjaként, valamint a munkásszállás fenntartására, üzemeltetésére tekintettel az adóévben elszámolt összeg,
@@ -578,6 +578,7 @@ arányára figyelemmel meghatározott összeget veheti figyelembe az (1) bekezd�
 azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére visszaadott tárgyi eszköz, szellemi termék után elszámolt összegre nem kell alkalmazni, de a jótállási időn belül cserébe kapott eszköz esetén az ua)–ud) alpont szerinti határidőt a cserére visszaadott eszköz üzembe helyezésétől, használatbavételétől kell számítani,
 
 - v) a (6) bekezdésben, valamint a 7. § (19) bekezdésében foglaltakra is figyelemmel az átlagos állományi létszám előző adóévhez viszonyított csökkenése és a megelőző adóév első napján érvényes havi minimálbér adóévre számított összege szorzatának 20 százalékkal növelt összege, de legfeljebb a 7. § (1) bekezdés y) pontja alapján igénybevett kedvezmény 20 százalékkal növelt összege, azzal, hogy nem kell az igénybevett kedvezmény összegébe beszámítani a foglalkoztatottak átlagos állományi létszámának csökkenését megelőző negyedik adóévben vagy azt megelőzően az adózás előtti eredmény csökkentéseként figyelembe vett összeget.
+- w) az adózó döntése szerint az adóévben a tulajdoni részesedésre az adóévi adózás előtti eredmény terhére elszámolt értékvesztés összege.
 
 (2) Az (1) bekezdés k) és l) pontjának alkalmazásában szokásos eredménynek
 
@@ -690,12 +691,12 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 - a) a 7. § (1) bekezdésének a), b), cs), d), g), gy), j), n), ny), o), r) és u) pontjai, valamint a 7. § (3) és (10) bekezdése szerinti összeg,
 - b) a saját erő címén a résztvevők által befizetett összeg, a résztvevőket foglalkoztató társaság által átutalt összeg (a javadalmazási politika keretében megszerezhető pénzügyi eszközök kezelését szolgáló MRP szervezetnél ide nem értve az MRP indításával, valamint az MRP szervezet megalakulásával, működésével és megszűnésével összefüggő költségei, ráfordításai fedezetére az alapító által az adóévben átutalt összeget), a résztvevők egyéb befizetései, valamint a más természetes és jogi személyek befizetései,
-- c) a javadalmazási politika keretében megszerezhető pénzügyi eszközök kezelését szolgáló MRP szervezetnél a javadalmazási politika keretében átvett értékpapír vagy értékpapírhoz kapcsolódó jog értékeléséből, pénzre történő átváltásából eredő adóévi bevétel, továbbá a tagi részesedés bevonásához kapcsolódó elszámolásokból eredő adóévi bevétel.
+- c) a javadalmazási politika keretében megszerezhető pénzügyi eszközök kezelését szolgáló MRP szervezetnél a javadalmazási politika keretében átvett, KMRP szervezetnél a KMRP által szerzett értékpapír vagy értékpapírhoz kapcsolódó jog értékeléséből, pénzre történő átváltásából eredő adóévi bevétel, továbbá a tagi részesedés bevonásához kapcsolódó elszámolásokból eredő adóévi bevétel.
 
 (3) Az adózás előtti eredményt növeli:
 
 - a) a 8. § (1) bekezdésének a), b), d), e), gy), h), j), m), p) és r) pontjai, valamint a 8. § (5)–(5e) bekezdése szerinti összeg;
-- b) a javadalmazási politika keretében megszerezhető pénzügyi eszközök kezelését szolgáló MRP szervezetnél a javadalmazási politika keretében átvett értékpapír vagy értékpapírhoz kapcsolódó jog értékeléséből, pénzre történő átváltásából eredő adóévi ráfordítás, továbbá a tagi részesedés bevonásához kapcsolódó elszámolásokból eredő adóévi ráfordítás.
+- b) a javadalmazási politika keretében megszerezhető pénzügyi eszközök kezelését szolgáló MRP szervezetnél a javadalmazási politika keretében átvett, KMRP szervezetnél a KMRP által szerzett értékpapír vagy értékpapírhoz kapcsolódó jog értékeléséből, pénzre történő átváltásából eredő adóévi ráfordítás, továbbá a tagi részesedés bevonásához kapcsolódó elszámolásokból eredő adóévi ráfordítás.
 
 (4) Az MRP a (2) és (3) bekezdésben foglaltakat figyelembe véve alkalmazza a 16., 18. és a 28. §-ok, valamint a VII. fejezet rendelkezéseit .
 
@@ -2150,6 +2151,8 @@ e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pon
 (101) A 22/B. § (19) bekezdésétől eltérően a fejlesztési adókedvezmény a kérelem, bejelentés benyújtásakor hatályos rendelkezéseknek megfelelően vehető igénybe azzal, hogy a 2021. december 31-ét követően benyújtott, de az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény és egyéb törvények módosításáról szóló 2022. évi I. törvénnyel (a továbbiakban: 2022. évi Módtv.) megállapított 22/B. § (1a), (2a) és (9) bekezdése, 30/A. § és 31. § (3) bekezdése hatálybalépéséig nyilvántartásba nem vett bejelentések, még nem engedélyezett kérelmek esetében e törvénynek a 2022. évi Módtv.-vel megállapított rendelkezéseit is alkalmazni kell.
 
 (102) A 2022. évi Módtv.-vel megállapított 22/E. § (2) bekezdését első alkalommal a 2021. december 31-ét követően megkezdett, energiahatékonysági célokat szolgáló beruházások, felújítások tekintetében lehet alkalmazni.
+
+(103) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 7. § (1) bekezdés j) pontját és 8. § (1) bekezdés w) pontját az adózó első alkalommal a 2022. adóévi adókötelezettség megállapítása során a 2022. adóévben elszámolt értékvesztésre alkalmazza.
 
 29/B. § (1) A tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény (a továbbiakban: Kárrendezési Törvény) alapján a Kárrendezési Alap részére a Kárrendezési Törvény 11. § (1) bekezdése alapján befizetést teljesítő adózó által az adóévben, a Kárrendezési Törvény 11. § (2) bekezdésére figyelemmel megállapított, befizetett összeg (továbbiakban e §-ban: befizetés) csökkenti az adózó által fizetendő társasági adót, a fizetendő pénzügyi szervezetek különadóját a fizetendő pénzügyi tranzakciós illetéket.
 
