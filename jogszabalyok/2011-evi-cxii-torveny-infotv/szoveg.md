@@ -847,15 +847,17 @@ az adatkezelő vagy tevékenysége keretei között az adatfeldolgozó – a (2)
 
 (3) A Hatóság elnöke nem lehet gazdasági társaság vezető tisztségviselője, felügyelőbizottságának tagja, továbbá gazdasági társaság személyes közreműködésre kötelezett tagja.
 
-42. § (1) A Hatóság elnöke a kinevezését követő harminc napon belül, majd ezt követően minden évben január 31-ig, valamint a megbízatásának megszűnését követő harminc napon belül az országgyűlési képviselők vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatot tesz.
+42. § (1) A Hatóság elnöke a kinevezését követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
 
 (2) A vagyonnyilatkozat-tétel elmulasztása esetén – a vagyonnyilatkozat benyújtásáig – a Hatóság elnöke tisztségét nem gyakorolhatja, javadalmazásban nem részesül.
 
-(3) A vagyonnyilatkozat nyilvános, oldalhű másolatát a Hatóság honlapján haladéktalanul közzé kell tenni. A vagyonnyilatkozat a honlapról a Hatóság elnöke megbízatásának megszűnését követő egy év elteltéig nem távolítható el.
+(3) A Hatóság elnöke vagyonnyilatkozatának nyilvános, oldalhű másolatát a Hatóság honlapján haladéktalanul közzé kell tenni. A vagyonnyilatkozat a honlapról a Hatóság elnöke megbízatásának megszűnését követő egy év elteltéig nem távolítható el.
+
+(3a) A Hatóság elnöke a vagyonnyilatkozatban feltüntetett adatok tekintetében bekövetkezett változást a miniszterelnöknek bejelenti.
 
 (4) A Hatóság elnökének vagyonnyilatkozatával kapcsolatos eljárást a miniszterelnöknél bárki kezdeményezheti a vagyonnyilatkozat konkrét tartalmára vonatkozó olyan tényállítással, amely konkrétan megjelöli a vagyonnyilatkozat kifogásolt részét és tartalmát. Ha a kezdeményezés nem felel meg az e bekezdésben foglalt követelményeknek, nyilvánvalóan alaptalan, vagy az ismételten benyújtott kezdeményezés új tényállítást vagy adatot nem tartalmaz, a miniszterelnök az eljárás lefolytatása nélkül elutasítja a kezdeményezést. A vagyonnyilatkozatban foglaltak valóságtartalmát a miniszterelnök ellenőrzi.
 
-(5) A vagyonnyilatkozattal kapcsolatos eljárás során a miniszterelnök felhívására a Hatóság elnöke köteles a vagyonnyilatkozatában feltüntetett vagyoni, jövedelmi és érdekeltségi viszonyokat igazoló adatokat haladéktalanul, írásban bejelenteni a miniszterelnök részére. Az ellenőrzés eredményéről az adatok megküldésével a miniszterelnök tájékoztatja a köztársasági elnököt. Az adatokba csak a miniszterelnök és a köztársasági elnök tekinthet be.
+(5) A vagyonnyilatkozattal kapcsolatos eljárás során a miniszterelnök felhívására a Hatóság elnöke köteles a vagyonnyilatkozatában feltüntetett jövedelem- és gazdasági érdekeltségi viszonyokat igazoló adatokat haladéktalanul, írásban bejelenteni a miniszterelnök részére. Az ellenőrzés eredményéről az adatok megküldésével a miniszterelnök tájékoztatja a köztársasági elnököt. Az adatokba csak a miniszterelnök és a köztársasági elnök tekinthet be.
 
 (6) A Hatóság elnöke által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell.
 
@@ -1555,7 +1557,13 @@ az e fejezetben meghatározott eltérésekkel kell alkalmazni.
 
 75/A. § A Hatóság az általános adatvédelmi rendelet 83. cikk (2)–(6) bekezdésében foglalt hatásköreit az arányosság elvének figyelembevételével gyakorolja, különösen azzal, hogy a személyes adatok kezelésére vonatkozó – jogszabályban vagy az Európai Unió kötelező jogi aktusában meghatározott – előírások első alkalommal történő megsértése esetén a jogsértés orvoslása iránt – az általános adatvédelmi rendelet 58. cikkével összhangban – elsősorban az adatkezelő vagy adatfeldolgozó figyelmeztetésével intézkedik.
 
-76. § E törvény V. Fejezete az Alaptörvény VI. cikk (4) bekezdése alapján sarkalatosnak minősül.
+75/B. § (1) A Hatóság elnöke és elnökhelyettese az e törvénynek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvénnyel megállapított 42. § (1) bekezdése alkalmazásával – a vagyonnyilatkozat-tétel napján fennálló állapot szerint – 2022. augusztus 5-ig tesz vagyonnyilatkozatot.
+
+(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a vagyonnyilatkozat kezelőjénél lévő, a Hatóság elnökével, illetve elnökhelyettesével közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát a vagyonnyilatkozat kezelője 2023. augusztus 1. napjáig őrzi.
+
+(3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.
+
+76. § E törvény V. Fejezete és 75/B. §-a az Alaptörvény VI. cikk (4) bekezdése alapján sarkalatosnak minősül.
 
 77. § Ez a törvény
 

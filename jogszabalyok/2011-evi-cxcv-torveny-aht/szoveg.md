@@ -232,7 +232,13 @@ látja el.
 
 (3) Költségvetési szerv alapítása történhet oly módon is, hogy a költségvetési szervből kiválás történik, amely alapján a költségvetési szerv az alapító okirat módosítását követően tovább működik, ezzel egyidejűleg pedig az alapításra vonatkozó szabályok szerint egy új költségvetési szerv jön létre.
 
-(4)–(7)
+(4)
+
+(5)
+
+(6)
+
+(7)
 
 (8)
 
@@ -934,7 +940,7 @@ előzetesen tájékoztatja.
 
 (2) A költségvetési szervnél foglalkoztatásra irányuló jogviszony létesítéséhez kapcsolódóan legfeljebb az (1) bekezdés szerint számított személyi juttatások kiemelt előirányzat törvény alapján járó munkabérek, illetmények fedezetére szolgáló részének megfelelő mértékéig, a munkavégzésre irányuló más jogviszony létesítéséhez kapcsolódóan legfeljebb az (1) bekezdés szerint számított személyi juttatások kiemelt előirányzat munkavégzésre irányuló egyéb jogviszonyban nem saját foglalkoztatottnak fizetett juttatások fedezetére szolgáló részének megfelelő mértékéig vállalható kötelezettség.
 
-44. § (1) Az államháztartásban, valamint a Nemzeti Média- és Hírközlési Hatóságnál a személyi juttatások kiemelt előirányzaton elszámolandó kiadásokkal kapcsolatos számfejtési és az ehhez kapcsolódó kifizetőhelyi feladatok ellátása, az ezekkel kapcsolatos, az állami adóhatóság felé teljesítendő bevallási kötelezettségek teljesítése – ideértve a szakképzési hozzájárulás bevallási kötelezettségét is –, továbbá – a nemzetiségi önkormányzatok és az általuk irányított költségvetési szervek kivételével – a bevallásokon alapuló befizetési kötelezettségek teljesítése központosítottan, kizárólag a kincstár által működtetett központosított illetményszámfejtés útján, illetve az abból történő adatszolgáltatás alapján történik. Az állami adóhatóság felé teljesítendő bevallási és befizetési kötelezettségek központosított teljesítésére a tárgyhónapot követő hónap 20. napjáig kerül sor.
+44. § (1) Az államháztartásban, valamint a Nemzeti Média- és Hírközlési Hatóságnál a személyi juttatások kiemelt előirányzaton elszámolandó kiadásokkal kapcsolatos számfejtési és az ehhez kapcsolódó kifizetőhelyi feladatok ellátása, az ezekkel kapcsolatos, az állami adóhatóság felé teljesítendő bevallási kötelezettségek teljesítése, továbbá – a nemzetiségi önkormányzatok és az általuk irányított költségvetési szervek kivételével – a bevallásokon alapuló befizetési kötelezettségek teljesítése központosítottan, kizárólag a kincstár által működtetett központosított illetményszámfejtés útján, illetve az abból történő adatszolgáltatás alapján történik. Az állami adóhatóság felé teljesítendő bevallási és befizetési kötelezettségek központosított teljesítésére a tárgyhónapot követő hónap 20. napjáig kerül sor.
 
 (2) A kincstárral kötött megállapodás alapján a központosított illetményszámfejtéshez az államháztartásba nem tartozó szerv, szervezet is csatlakozhat. A megállapodás alapján végzett központosított illetményszámfejtés nem terjed ki az állami adóhatóság felé teljesítendő bevallási és befizetési kötelezettségek központosított teljesítésére.
 
@@ -1399,7 +1405,9 @@ vizsgálatára terjed ki.
 
 (4a) Az ellenőrzés során a büntetlen előéletet igazoltnak kell tekinteni akkor is, ha a kérelmező munkáltatója igazolja, hogy a kérelmező jogszabály alapján büntetlen előélethez vagy nemzetbiztonsági ellenőrzéshez kötött álláshelyen vagy munkakörben dolgozik.
 
-(4b)–(4c)
+(4b)
+
+(4c)
 
 (5) Az államháztartásért felelős miniszter által a belső ellenőrzési tevékenység folytatására jogosult személyekről vezetett nyilvántartás tartalmazza az érintett
 
@@ -2239,7 +2247,13 @@ rendeletben szabályozza.
 
 #### 111/D. §
 
-111/E. § (1)–(4)
+111/E. § (1)
+
+(2)
+
+(3)
+
+(4)
 
 (5) A Nemzeti Kutatási, Fejlesztési és Innovációs Alap terhére kutatási, fejlesztési célra nyújtott költségvetési támogatásra a Nemzeti Kutatási, Fejlesztési és Innovációs Alap költségvetési évben jóváhagyott eredeti kiadási előirányzatának
 

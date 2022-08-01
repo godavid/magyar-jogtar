@@ -3267,7 +3267,7 @@ figyelembe veszi. A bírság összegének megállapításakor figyelembe kell ve
 
 (5) A Tanács tagja évenként köteles beszámolni az őt kijelölőnek az általa érvényesítendő célok, képviselendő általános érdekek, és e törvény céljainak megvalósulása érdekében a Tanácsban folytatott tevékenységéről, valamint ezeknek a közbeszerzések terén való érvényesüléséről.
 
-(6) A Tanács elnöke, alelnöke és tagja az országgyűlési képviselőkre vonatkozó szabályok szerint köteles vagyonnyilatkozatot tenni, első ízben a kijelölését követő harminc napon belül. A vagyonnyilatkozat nyilvántartására, ellenőrzésére, kezelésére az országgyűlési képviselők vagyonnyilatkozatának nyilvántartására, ellenőrzésére, kezelésére vonatkozó szabályokat kell alkalmazni.
+(6) A Tanács elnöke, alelnöke és tagja a kijelölését követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
 
 (7) Összeférhetetlenség miatt meg kell szüntetni a Tanács elnökének, alelnökének és a Tanács tagjának a megbízatását, ha vagyonnyilatkozat-tételi kötelezettségének teljesítését megtagadja, a teljesítést elmulasztja, vagy vagyonnyilatkozatában lényeges adatot, tényt valótlanul közöl.
 
@@ -3636,6 +3636,12 @@ rendelkezik.
 - b) 25. § (4) bekezdését – az a) pontban meghatározott kivétellel – az egyes törvényeknek a Nemzeti Adó- és Vámhivatal átalakításával, valamint a költségvetési tervezéssel és gazdálkodással kapcsolatos módosításáról szóló 2015. évi CXCI. törvény hatálybalépését követően
 
 indult eljárásban kell alkalmazni.
+
+197/B. § (1) A Tanács elnöke, alelnöke és tagja az e törvénynek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvénnyel megállapított 182. § (6) bekezdése alkalmazásával – a vagyonnyilatkozat-tétel napján fennálló állapot szerint – 2022. augusztus 5-ig tesz vagyonnyilatkozatot.
+
+(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a vagyonnyilatkozat kezelőjénél lévő, a Tanács elnökével, alelnökével, illetve tagjával közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát a vagyonnyilatkozat kezelője 2023. augusztus 1. napjáig őrzi.
+
+(3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.
 
 ### Felhatalmazás
 

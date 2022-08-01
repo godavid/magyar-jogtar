@@ -5530,7 +5530,7 @@ Ha a közös szülői felügyelet gyakorlása során a szülők valamely kérdé
 
 (3) A harmadik személynél történt elhelyezés megváltoztatása iránti pert az ellen a személy ellen kell megindítani, akinél a gyermeket elhelyezték.
 
-(4) A bíróságnak az eljárása során - elháríthatatlan akadály esetét kivéve - mindkét szülőt meg kell hallgatnia. Indokolt esetben, vagy ha azt a gyermek maga kéri, közvetlenül vagy szakértő útján meg kell hallgatnia a gyermeket is. Ha a gyermek a tizennegyedik életévét betöltötte, szülői felügyeletére és elhelyezésére vonatkozó döntés egyetértésével hozható, kivéve, ha a gyermek választása a fejlődését veszélyezteti.
+(4) A bíróságnak az eljárása során – elháríthatatlan akadály esetét kivéve – mindkét szülőt meg kell hallgatnia és értesítenie kell az ítélőképessége birtokában lévő gyermeket a nyilatkozattétel lehetőségéről. Ha a gyermek a meghallgatását maga kéri, vagy ha azt a bíróság kérelem hiányában is indokoltnak tartja, a bíróság a gyermeket közvetlenül vagy szakértő útján meghallgatja. Ha a gyermek a tizennegyedik életévét betöltötte, szülői felügyeletére és elhelyezésére vonatkozó döntés egyetértésével hozható, kivéve, ha a gyermek választása a fejlődését veszélyezteti.
 
 #### 4:172. § [Közvetítés a szülői felügyelet gyakorlásának rendezése iránti perben]
 
@@ -13059,4 +13059,9 @@ Az átmeneti rendelkezéseket törvény állapítja meg.
 
 való megfelelést szolgálja.
 
-(2) E törvény a központi szerződő felek helyreállítására és szanálására irányuló keretrendszerről, továbbá az 1095/2010/EU, a 648/2012/EU, a 600/2014/EU, a 806/2014/EU és az (EU) 2015/2365 rendelet, valamint a 2002/47/EK, a 2004/25/EK, a 2007/36/EK, a 2014/59/EU és az (EU) 2017/1132 irányelv módosításáról szóló, 2020. december 16-i (EU) 2021/23 európai parlamenti és a tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(2) E törvény
+
+- a) a központi szerződő felek helyreállítására és szanálására irányuló keretrendszerről, továbbá az 1095/2010/EU, a 648/2012/EU, a 600/2014/EU, a 806/2014/EU és az (EU) 2015/2365 rendelet, valamint a 2002/47/EK, a 2004/25/EK, a 2007/36/EK, a 2014/59/EU és az (EU) 2017/1132 irányelv módosításáról szóló, 2020. december 16-i (EU) 2021/23 európai parlamenti és a tanácsi rendelet;
+- b) a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló, 2019. június 25-i (EU) 2019/1111 tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.

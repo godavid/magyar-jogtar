@@ -138,7 +138,7 @@ a bírósági végrehajtásról
 
 - a) a közjegyző által hozott, marasztalást tartalmazó határozat és a közjegyző által jóváhagyott – a bírósági egyezséggel azonos hatályú – egyezség alapján bármelyik közjegyző, a közjegyzőnek a közjegyzői nemperes eljárás lefolytatásáért felszámított díjról és költségről kiállított költségjegyzéke alapján a költségjegyzéket kiállító közjegyzőn kívüli bármelyik közjegyző, a közjegyző hagyatékot átadó végzése alapján, valamint a póthagyatéki eljárásban hozott végzése alapján a 210/C. § (1) bekezdése szerinti közjegyző,
 - b) a bíróság szolgálati bíróságának kártérítésre kötelező határozata, a közjegyzői fegyelmi bíróságnak pénzbírság és eljárási költség megfizetésére kötelező határozata, valamint a bírósági végrehajtói fegyelmi bíróságnak eljárási költség megfizetésére kötelező határozata alapján az adós lakóhelye szerinti járásbíróság (kerületi bíróság; a továbbiakban együtt: járásbíróság),
-- c) külföldi bírósági határozat alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
+- c) külföldi bírósági határozat alapján az adós lakóhelye, székhelye, – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye –, a szülői felügyelet tárgyában hozott külföldi határozat alapján a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - d) belföldi és külföldi választottbírósági határozat és egyezség alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi vállalkozások magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén pedig a fióktelep, illetőleg a képviselet helye – szerinti törvényszék,
 - e) az Európai Unió Tanácsának, az Európai Bíróságnak és az Európai Bizottságnak a határozata alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - f) az Európai Unió Szellemi Tulajdoni Hivatala által az európai uniós védjegyről szóló, 2017. június 14-i 2017/1001/EU európai parlamenti és tanácsi rendelet és a közösségi formatervezési mintáról szóló, 2001. december 12-i 6/2002/EK tanácsi rendelet, a Közösségi Növényfajta-hivatal által a közösségi növényfajta-oltalomi jogokról szóló, 1994. július 27-i 2100/94/EK tanácsi rendelet, valamint az Európai Szabadalmi Hivatal által az Európai Szabadalmi Egyezmény szerint a költségek viselése tárgyában hozott határozat alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi vállalkozások magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén pedig a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
@@ -151,6 +151,7 @@ a bírósági végrehajtásról
 - m) a szabálysértési hatóság, illetve a bíróság szabálysértéssel okozott kár értékének megfizetésére kötelező határozata alapján a sértett lakóhelye vagy tartózkodási helye szerint illetékes járásbíróság,
 - n) az 1215/2012/EU rendelet 53. cikke alapján kiállított tanúsítvánnyal ellátott külföldi határozat alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, közvetlen kereskedelmi képviselete esetén a fióktelep, illetve a képviselet belföldi cégnyilvántartásba bejegyzett székhelye, az európai gazdasági egyesülés belföldi telephelye – szerinti törvényszék székhelyén működő járásbíróság, Pest megyében a Budakörnyéki Járásbíróság, Budapesten a Budai Központi Kerületi Bíróság.
 - o) a végrehajtó által kiállított – a kifogással megtámadott, jogerősen elbírált vagy a 34. § (8) bekezdésében foglalt feltételek szerinti –, a nem adóst fizetésre kötelező díjjegyzék alapján a végrehajtást foganatosító bíróság.
+- p) a kapcsolattartás tárgyában hozott határozat kivételével a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló (EU) 2019/1111 2019. június 25-i tanácsi rendelet [a továbbiakban: (EU) 2019/1111 tanácsi rendelet] 36. vagy 47. cikke alapján kiállított tanúsítvánnyal ellátott külföldi határozat alapján a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság.
 
 17. § (1) Tartásdíj behajtása érdekében a végrehajtási lapot a jövőben lejáró tartásdíjrészletekre nézve is ki lehet állítani. Ilyenkor csak a végrehajtási eljárás befejezéséig lejárt tartásdíjrészleteknek megfelelő összeget lehet behajtani és a végrehajtást kérőnek kifizetni.
 
@@ -217,6 +218,8 @@ a bírósági végrehajtásról
 - c) a 4/2009/EK tanácsi rendelet szerinti tartási ügyben a hágai jegyzőkönyv hatálya alá nem tartozó tagállamokban kiállított közokiratot az adós lakóhelye – ennek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - d) az 1215/2012/EU rendelet 58. cikke szerinti közokiratot és 59. cikke szerinti perbeli egyezséget az adós lakóhelye, székhelye – ezek hiányában végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, közvetlen kereskedelmi képviselete esetén a fióktelep, illetve a képviselet belföldi cégnyilvántartásba bejegyzett székhelye, az európai gazdasági egyesülés belföldi telephelye – szerinti törvényszék székhelyén működő járásbíróság, Pest megyében a Budakörnyéki Járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - e) a 650/2012/EU európai parlamenti és tanácsi rendelet szerint végrehajtható külföldi közokiratot az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság.
+- f) a kapcsolattartás tárgyában kiállított közokirat vagy létrejött megállapodás kivételével az (EU) 2019/1111 tanácsi rendelet 66. cikke alapján kiállított tanúsítvánnyal ellátott közokirat vagy megállapodás alapján a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
+- g) a szülői felügyelet tárgyában külföldön létrejött egyezség alapján a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság.
 
 (2) Végrehajtási záradékkal látja el
 
@@ -311,6 +314,7 @@ a bírósági végrehajtásról
 - g) az 1215/2012/EU rendelet 53. cikke szerinti tanúsítványt az 1215/2012/EU rendelet I. mellékletében közzétett formanyomtatvány felhasználásával,
 - h) a 650/2012/EU európai parlamenti és tanácsi rendelet 46. cikke (3) bekezdésének b) pontja szerinti tanúsítványt az 1329/2014/EU bizottsági végrehajtási rendelet 1. mellékletében közzétett formanyomtatvány felhasználásával,
 - i) a 650/2012/EU európai parlamenti és tanácsi rendelet 61. cikkének (2) bekezdése szerinti tanúsítványt az 1329/2014/EU bizottsági végrehajtási rendelet 3. mellékletében közzétett formanyomtatvány felhasználásával.
+- j) az (EU) 2019/1111 tanácsi rendelet 36. cikke (1) bekezdésének a) pontja szerinti tanúsítványt az (EU) 2019/1111 tanácsi rendelet II. mellékletében, az (EU) 2019/1111 tanácsi rendelet 36. cikke (1) bekezdésének b) pontja szerinti tanúsítványt az (EU) 2019/1111 tanácsi rendelet III. mellékletében, az (EU) 2019/1111 tanácsi rendelet 47. cikke (1) bekezdésének a) pontja szerinti tanúsítványt az (EU) 2019/1111 tanácsi rendelet V. mellékletében, az (EU) 2019/1111 tanácsi rendelet 47. cikke (1) bekezdésének b) pontja szerinti tanúsítványt az (EU) 2019/1111 tanácsi rendelet VI. mellékletében, és az (EU) 2019/1111 tanácsi rendelet 49. cikkének (1) bekezdése szerinti tanúsítványt az (EU) 2019/1111 tanácsi rendelet VII. mellékletében közzétett formanyomtatvány felhasználásával.
 
 (2) A közokiratot kiállító hatóság székhelye szerint illetékes járásbíróság, ha pedig a közokiratot közjegyző állította ki, továbbá a közjegyző által hozott, marasztalást tartalmazó végzés és a közjegyző által jóváhagyott – a bírósági egyezséggel azonos hatályú – egyezség esetén a közjegyző kérelemre kiállítja
 
@@ -332,6 +336,10 @@ a bírósági végrehajtásról
 (5) Az (1) bekezdés a), b), e), g) és h) pontja szerinti, valamint a (2) bekezdés a), c), e) és f) pontja szerinti tanúsítvány, igazolás és kivonat több alkalommal is kiállítható.
 
 (6) A bíróság a (3) bekezdés szerinti igazolást kérelemre kijavítja; a kijavításról szóló végzést kézbesíti a feleknek, akik a végzés ellen fellebbezhetnek.
+
+(6a) A bíróság az (1) bekezdés j) pontja szerinti, az (EU) 2019/1111 tanácsi rendelet II., III., V. és VI. mellékletében közzétett formanyomtatvány felhasználásával kiállított tanúsítványt kérelemre kijavítja; a kijavításról szóló végzést kézbesíti a feleknek. A végzés ellen fellebbezésnek nincs helye.
+
+(6b) A bíróság az (1) bekezdés j) pontja szerinti, az (EU) 2019/1111 tanácsi rendelet V. és VI. mellékletében közzétett formanyomtatvány felhasználásával kiállított tanúsítványt kérelemre vagy hivatalból visszavonja. A visszavonásról szóló végzést kézbesíti a feleknek, akik a végzés ellen fellebbezhetnek.
 
 (7) A bíróság az európai végrehajtható okiratra vonatkozó tanúsítványt a 805/2004/EK rendelet 10. cikkében foglaltak alapján kérelemre kijavítja, vagy visszavonja; a kijavításról és a visszavonásról szóló végzést kézbesíti a feleknek, akik a végzés ellen fellebbezhetnek.
 
@@ -756,6 +764,10 @@ szereplő adatok alapján ellenőrizheti.
 (7) Önkényesen elfoglalt lakás kiürítése során, vagy ha a kötelezett a Pp. 344. § (6) bekezdése szerinti kedvezményben részesült, a kötelezett kérelmére felfüggesztésnek helye nincs.
 
 (8) A végrehajtást foganatosító bíróság dönt az adósnak a 805/2004/EK rendelet 23. cikke, az 1896/2006/EK rendelet 23. cikke, a 861/2007/EK rendelet 23. cikke, a 4/2009/EK tanácsi rendelet 21. cikk (3) bekezdése, valamint az 1215/2012/EU rendelet 44. cikke szerinti kérelméről. A bíróság a 805/2004/EK rendelet 23. cikk a) pontja, az 1896/2006/EK rendelet 23. cikk a) pontja, a 861/2007/EK rendelet 23. cikk a) pontja, valamint az 1215/2012/EU rendelet 44. cikke szerinti kérelemnek a végrehajtás felfüggesztésével ad helyt.
+
+(9) A végrehajtást foganatosító bíróság dönt a szülői felügyelet tárgyában hozott határozat, kiállított közokirat vagy létrejött megállapodás végrehajtásának az (EU) 2019/1111 tanácsi rendelet 56. cikk (1)–(2) és (4) bekezdése szerinti felfüggesztéséről. A végrehajtást foganatosító bíróság a kötelezett kérelmére kivételesen felfüggesztheti a szülői felügyelet tárgyában hozott, az (EU) 2019/1111 tanácsi rendelet hatálya alá nem tartozó külföldi határozat, illetve külföldön létrejött egyezség végrehajtását, ha a végrehajtás a gyermek számára testi vagy lelki károsodás súlyos kockázatával járna a határozat meghozatala után felmerült ideiglenes akadályokból kifolyólag vagy a körülmények jelentős megváltozása folytán. A bíróság a felfüggesztés indokoltságával kapcsolatban kikéri a gyámhatóság véleményét. A bíróság a végrehajtás felfüggesztését elrendelő határozatban határidőt szab annak igazolására, hogy a felfüggesztés oka továbbra is fennáll. A határidő elmulasztása esetén, továbbá, ha a felfüggesztés oka megszűnt, a végrehajtást soron kívül folytatni kell.
+
+(10) A kapcsolattartás tárgyában hozott külföldi határozat, külföldön kiállított közokirat, létrejött egyezség vagy megállapodás végrehajtásának felfüggesztésére a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló 2017. évi CXVIII. törvény (a továbbiakban: Bpnt.) 22/L. §-át kell alkalmazni.
 
 49. § (1) Ha a végrehajtható okirat vagy a végrehajtó intézkedése ellen jogorvoslattal éltek, a jogorvoslatot elbíráló bíróság a végrehajtást felfüggesztheti.
 
@@ -2713,7 +2725,7 @@ VÉGREHAJTÁSI ÉRTÉKESÍTÉSE
 
 207. § A végrehajtást kérő a végrehajtási kérelemhez köteles csatolni a végrehajtandó külföldi határozatot és — szükség esetén, a bíróság felhívására — ennek magyar fordítását.
 
-208. § Ha a külföldi határozat a 205. § szerint végrehajtható, a 16. § c), illetőleg d) pontjában említett bíróság a végzésével a külföldi határozatra végrehajtási tanúsítványt vezet, amelyben azt tanúsítja, hogy a határozat a magyar jog szerint a belföldi bíróság (választottbíróság) határozatával azonos módon végrehajtható.
+208. § Ha a külföldi határozat a 205. § szerint végrehajtható, a 16. § c), illetve d) pontjában említett bíróság, valamint kapcsolattartás tárgyában hozott külföldi határozat tekintetében a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság a végzésével a külföldi határozatra végrehajtási tanúsítványt vezet, amelyben azt tanúsítja, hogy a határozat a magyar jog szerint a belföldi bíróság (választottbíróság) határozatával azonos módon végrehajtható.
 
 209. § A 208. § szerint hozott végzés ellen, a kérelmet visszautasító és a kérelmet elutasító végzés ellen fellebbezésnek van helye. A 208. § szerint hozott végzés jogerőre emelkedése után a bíróság a végrehajtási tanúsítvánnyal ellátott külföldi határozat alapján végrehajtási lapot, illetve vele egy tekintet alá eső végrehajtható okiratot állít ki.
 
@@ -2859,13 +2871,22 @@ közötti felosztása.
 
 (2) Ha a bíróság az okiratot a törvény megsértésével látta el végrehajtási záradékkal, a végrehajtási záradékot törölni kell.
 
-(3) A bíróság akkor is visszavonja a végrehajtási lapot vagy törli a végrehajtási záradékot, ha az adós kérelmére megállapítja, hogy
+(3) A bíróság akkor is visszavonja a végrehajtási lapot vagy törli a végrehajtási záradékot, ha az adós vagy a kötelezett kérelmére megállapítja, hogy
 
 - a) a 805/2004/EK rendelet 21. cikke alapján a végrehajtás visszautasításának,
 - b) az 1896/2006/EK rendelet 22. cikkének (1) bekezdése vagy a 861/2007/EK rendelet 22. cikkének (1) bekezdése alapján a végrehajtás elutasításának vagy
-- c) a 4/2009/EK tanácsi rendelet 21. cikk (2) bekezdésének második albekezdése, vagy az 1215/2012/EU rendelet 46. cikke alapján a végrehajtás megtagadásának
+- c) a 4/2009/EK tanácsi rendelet 21. cikk (2) bekezdésének második albekezdése, az 1215/2012/EU rendelet 46. cikke vagy az (EU) 2019/1111 tanácsi rendelet 41. cikke alapján a végrehajtás megtagadásának
 
 feltételei fennállnak.
+
+(4) A bíróság – az (1) és (3) bekezdésben foglalt eseteken túl – akkor is visszavonja a szülői felügyelet tárgyában hozott külföldi határozat, külföldön kiállított közokirat, külföldön létrejött egyezség vagy megállapodás (a továbbiakban e bekezdésben együtt: határozat) alapján kiállított végrehajtási lapot, ha
+
+- a) a kötelezett kérelmére megállapítja, hogy az (EU) 2019/1111 tanácsi rendelet 56. cikk (6) bekezdése alapján a végrehajtás megtagadásának feltételei fennállnak vagy
+- b) a kötelezett kérelmére megállapítja, hogy az (EU) 2019/1111 tanácsi rendelet hatálya alá nem tartozó határozat végrehajtása a gyermek számára tartósan a testi vagy lelki károsodás súlyos kockázatával járna a határozat meghozatala után felmerült akadályokból kifolyólag vagy a körülmények jelentős megváltozása folytán.
+
+(5) A (4) bekezdésben meghatározott jogorvoslatok tekintetében bírósági titkár nem járhat el. A bíróság a végrehajtási lap visszavonásának indokoltságával kapcsolatban kikéri a gyámhatóság véleményét.
+
+(6) A kapcsolattartás tárgyában hozott külföldi határozat, külföldön kiállított közokirat, külföldön létrejött egyezség vagy megállapodás végrehajtása iránti eljárás megszüntetésére a Bpnt. 22/L. §-át kell alkalmazni.
 
 212. § (1) A végrehajtást elrendelő bíróság a végrehajtási lap visszavonását, illetőleg a végrehajtási záradék törlését bármelyik fél kérelmére, a végrehajtó jelentése alapján vagy saját kezdeményezéséből végzéssel bármikor elrendelheti.
 
@@ -3079,7 +3100,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 (3) Az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának rendszeres ellenőrzése a Kar hivatali szervének feladata.
 
-(4) A Kar hivatali szerve a végrehajtó működésének ellenőrzését a Kormány rendeletében meghatározott eljárás lefolytatásával végzi, ennek keretében a Kormány rendeletében meghatározott időszakonként minden végrehajtó tevékenységének vizsgálatát el kell végezni.
+(4) A Kar hivatali szerve a végrehajtó működésének ellenőrzését a Hatóság elnökének rendeletében meghatározott eljárás lefolytatásával végzi, ennek keretében a Hatóság elnökének rendeletében meghatározott időszakonként minden végrehajtó tevékenységének vizsgálatát el kell végezni.
 
 (5)
 
@@ -3173,14 +3194,17 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 234. § A végrehajtói állást pályázat útján kell betölteni, kivéve, ha a határozott idő lejárta előtt a Hatóság elnöke megállapítja a végrehajtó szolgálata folyamatosságát.
 
-234/A. § (1) A Hatóság elnöke a végrehajtó által előterjesztett kérelem alapján határozatlan időre megállapítja a szolgálat folyamatosságát,
+234/A. § (1) A Hatóság elnöke a végrehajtó által előterjesztett kérelem alapján – a (2) bekezdésben foglalt kivétellel – további hét évre megállapítja a szolgálat folyamatosságát, ha a kinevezését követően a végrehajtót legfeljebb kettő alkalommal sújtották jogerősen fegyelmi büntetéssel, amelyek közül legfeljebb egy volt súlyosabb figyelmeztetésnél, de egyik sem volt súlyosabb írásbeli megrovásnál.
 
-- a) ha a kinevezését követően a végrehajtót nem sújtották jogerősen fegyelmi büntetéssel, vagy
-- b) ha a kinevezését követően a végrehajtót legfeljebb kettő alkalommal sújtották jogerősen fegyelmi büntetéssel, amelyek közül legfeljebb egy volt súlyosabb figyelmeztetésnél, de egyik sem volt súlyosabb írásbeli megrovásnál és a kérelem előterjesztését követően a Kar hivatali szerve által – a Kormány rendeletében meghatározott, a végrehajtó működésének ellenőrzésére vonatkozó szabályok szerint – lefolytatott átfogó ellenőrzés során fegyelmi eljárás kezdeményezésére okot adó körülmény nem került megállapításra.
+(2) Ha a kérelem elbírálása idején a végrehajtóval szemben a kérelem elbírálására kihatással bíró fegyelmi eljárás van folyamatban, a végrehajtó szolgálati viszonya a fegyelmi eljárás jogerős befejeződését követő, a végrehajtó szolgálati jogviszonya folyamatosságának megállapítására irányuló kérelme elbírálása napjáig meghosszabbodik.
 
-(2) A végrehajtó az (1) bekezdés szerinti kérelmet legkorábban a kinevezés lejártát megelőző 180. napon, de legkésőbb a kinevezés lejártát megelőző 90. napon terjesztheti elő. A határidő elmulasztása esetén igazolásnak nincs helye.
+(3) A végrehajtói szolgálat folyamatosságának megállapítása iránti kérelem benyújtási határidejének elmulasztása esetén igazolásnak nincs helye. A kérelmet elbíráló eljárásban az ügyintézési határidő harminc nap.
 
-(3) A Kar hivatali szerve a végrehajtó kinevezésének lejártát megelőző egy éven belül tájékoztatja a végrehajtót a kinevezése lejártának időpontjáról és a (2) bekezdésben foglaltakról.
+(4) A Kar hivatali szerve a végrehajtó kinevezésének lejártát megelőző egy éven belül tájékoztatja a végrehajtót a kinevezése lejártának időpontjáról és a (3) bekezdésben foglaltakról.
+
+(5) Ha a szolgálat folyamatosságának megállapítása a kérelmező végrehajtóval szemben folyamatban lévő fegyelmi eljárás eredményétől függ, a Hatóság elnöke a szolgálat folyamatosságának megállapítása iránti eljárását a kérelmező végrehajtóval szemben folyamatban lévő fegyelmi eljárás jogerős befejezéséig felfüggeszti.
+
+(6) Ha a kérelmező végrehajtó az (5) bekezdés szerinti fegyelmi eljárás során az írásbeli megrovásnál súlyosabb fegyelmi büntetést kapott, a fegyelmi eljárás jogerős befejezését követően a Hatóság elnöke a kérelmező végrehajtót a kérelme elbírálása napjáig szolgálatából felfüggeszti.
 
 234/B. § (1) A végrehajtói állásra pályázó a pályázat benyújtásával egyidejűleg
 
@@ -3191,7 +3215,7 @@ a kizárásról a Pp. szabályainak megfelelő alkalmazásával a végrehajtást
 
 235. § (1) A végrehajtó más székhelyre történő áthelyezésére csak
 
-- a) végrehajtói állás betöltése, vagy
+- a) végrehajtói állás (2) bekezdésben foglaltak szerint történő betöltése, vagy
 - b) végrehajtók kölcsönös áthelyezése
 
 esetén van lehetőség.
@@ -3200,7 +3224,7 @@ esetén van lehetőség.
 
 (3) A Hatóság elnöke a végrehajtókat – közös, indokolással ellátott, írásban előterjesztett kérelmükre és a Kar hivatali szerve vezetőjének egyetértésével – egymás székhelyére pályázat nélkül kölcsönösen áthelyezheti.
 
-(4) Az áthelyezéssel a végrehajtó szolgálata folyamatos marad, de megváltozik az álláshelye, székhelye és illetékességi területe, továbbá – a kölcsönös áthelyezés esetét kivéve – eredeti álláshelye megüresedik. A végrehajtó áthelyezése nem érinti a korábbi székhelyén lefolytatott eljárásokkal kapcsolatos felelősségét. Az áthelyezésre megfelelően alkalmazni kell a kinevezésre vonatkozó szabályokat.
+(4) Az áthelyezéssel a végrehajtó szolgálata folyamatos marad, de megváltozik az álláshelye, székhelye és illetékességi területe, továbbá – a kölcsönös áthelyezés esetét, valamint azt az esetet kivéve, amikor a végrehajtó áthelyezést megelőző álláshelye megszűnik – eredeti álláshelye megüresedik. A végrehajtó áthelyezése nem érinti a korábbi székhelyén lefolytatott eljárásokkal kapcsolatos felelősségét. Az áthelyezésre megfelelően alkalmazni kell a kinevezésre vonatkozó szabályokat.
 
 236. § (1) A végrehajtó a végrehajtói működése körében, illetve az eljárása során okozott kárért kártérítésre és személyiségi jogsértésért sérelemdíj megfizetésére a Polgári Törvénykönyv szabályai szerint köteles.
 
@@ -3232,6 +3256,8 @@ esetén van lehetőség.
 - d) a végrehajtó 65. életéve betöltésének,
 - e) a végrehajtó halálának,
 - f) a szolgálat folyamatosságának megállapítása hiányában a határozott idő utolsó napján.
+
+(1a) Ha a végrehajtó szolgálati ideje alatt másik szolgálati helyre is végrehajtói kinevezést kap, a pályázat benyújtásának időpontja szerinti szolgálati helyén fennálló szolgálata az új szolgálati helyre történő kinevezését megelőző napon megszűnik.
 
 (2) A Hatóság elnöke a végrehajtót felmenti, ha a végrehajtó a szolgálatáról a Hatóság elnökéhez intézett írásbeli nyilatkozatában lemondott.
 
@@ -4205,7 +4231,7 @@ kérhetnek adatszolgáltatást.
 
 (2) Ha a fegyelmi tanács az eljárás alá vont személy vétkességét állapította meg, a határozatnak a fegyelmi büntetést is tartalmaznia kell.
 
-(2a) Meg kell szüntetni a fegyelmi eljárást, ha annak tartama alatt az eljárás alá vont személy végrehajtói szolgálata megszűnt, a végrehajtójelöltek, végrehajtó-helyettesek névjegyzékéből törölték, a 269. §-ban meghatározott idő eltelt vagy a felelősségre vonást kizáró egyéb ok áll fenn. Ha a fegyelmi eljárást azért kell megszüntetni, mert az eljárás alá vont személy végrehajtójelölti, végrehajtó-helyettesi munkaviszonyát megszüntette vagy végrehajtói szolgálatáról lemondott, a fegyelmi bíróság a vétkesség kérdésében határozhat, de fegyelmi büntetést nem szab ki.
+(2a) Meg kell szüntetni a fegyelmi eljárást, ha annak tartama alatt az eljárás alá vont személy végrehajtói szolgálata – a 239. § (1a) bekezdés szerinti okból történő megszűnés kivételével – megszűnt, a végrehajtójelöltek, végrehajtó-helyettesek névjegyzékéből törölték, a 269. §-ban meghatározott idő eltelt vagy a felelősségre vonást kizáró egyéb ok áll fenn. Ha a fegyelmi eljárást azért kell megszüntetni, mert az eljárás alá vont személy végrehajtójelölti, végrehajtó-helyettesi munkaviszonyát megszüntette vagy végrehajtói szolgálatáról lemondott, a fegyelmi bíróság a vétkesség kérdésében határozhat, de fegyelmi büntetést nem szab ki.
 
 (2b) Az elsőfokú fegyelmi tanács a fegyelmi határozat azonnali végrehajtását rendeli el, ha a határozat végrehajtásának elmaradása a felek és egyéb érdekeltek jogai, jogos érdekei vagy a végrehajtókba vetett közbizalom olyan mértékű sérelmével vagy veszélyeztetésével járna, amely meghaladja a határozat végrehajtásából fakadó egyéni érdeksérelmet.
 
@@ -4312,9 +4338,16 @@ kérhetnek adatszolgáltatást.
 
 ### A fegyelmi büntetés jogkövetkezményének megszűnése
 
-297. § (1) A fegyelmi büntetéshez fűződő hátrányos jogkövetkezmények megszűnnek, ha a fegyelmi határozat jogerőre emelkedésétől számítva figyelmeztetés esetén egy év, más fegyelmi büntetés esetén 3 év eltelt. Pénzbírság kiszabása esetén a fegyelmi büntetés hatálya — a 3 év eltelte után is — mindaddig fennáll, amíg az eljárás alá vont személy a pénzbírságot nem fizette ki. A fegyelmi büntetés felfüggesztése esetén – ha annak végrehajtására nem kerül sor – a fegyelmi büntetés hatálya a fegyelmi határozat jogerőre emelkedésétől számított 5 évig áll fenn.
+297. § (1) A fegyelmi büntetéshez fűződő hátrányos jogkövetkezmények – a 234/A. §-ban foglalt kivétellel – megszűnnek, ha a fegyelmi határozat jogerőre emelkedésétől számítva figyelmeztetés esetén egy év, más fegyelmi büntetés esetén 3 év eltelt. Pénzbírság kiszabása esetén a fegyelmi büntetés hatálya – a 3 év eltelte után is – mindaddig fennáll, amíg az eljárás alá vont személy a pénzbírságot nem fizette ki. A fegyelmi büntetés felfüggesztése esetén – ha annak végrehajtására nem kerül sor – a fegyelmi büntetés hatálya a fegyelmi határozat jogerőre emelkedésétől számított 5 évig áll fenn.
 
-(2) Az (1) bekezdésben említett idő eltelte után a Kar hivatali szerve a fegyelmi büntetést törli a végrehajtók, a végrehajtó-helyettesek és a végrehajtójelöltek névjegyzékéből.
+(2) A Kar hivatali szerve a fegyelmi büntetést
+
+- a) a végrehajtó végrehajtói szolgálata folyamatosságának a fegyelmi büntetés kiszabását követő első alkalommal történő megállapítását követően, vagy
+- b) ha a végrehajtó szolgálata folyamatosságának megállapítására az (1) bekezdésben említett idő eltelte előtt kerül sor, az (1) bekezdésben említett idő eltelte után
+
+törli a végrehajtók névjegyzékéből.
+
+(3) Az (1) bekezdésben említett idő eltelte után a Kar hivatali szerve a fegyelmi büntetést törli a végrehajtó-helyettesek és a végrehajtójelöltek névjegyzékéből.
 
 ### Alkalmatlanság
 
@@ -4557,7 +4590,7 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 
 (10) A Kar elnökségének megválasztásakor az újraválaszthatóságot korlátozó rendelkezés alkalmazása során a kamarai elnökségi tisztségviselést is figyelembe kell venni, mint az újraválaszthatóságot korlátozó körülményt, a Módtv.3. hatálybalépése után keletkezett kamarai tisztségviselés kivételével.
 
-306/I. § A 2015. szeptember 1. napján határozatlan idejű kinevezéssel rendelkező önálló bírósági végrehajtók szolgálata az e naptól számított 7 év elteltével megszűnik, kivéve, ha a 234/A. § alapján előterjesztett kérelemre a Hatóság elnöke megállapítja a szolgálat folyamatosságát. A szolgálat folyamatosságának megállapításakor a 2015. szeptember 1. napját követő cselekményekkel összefüggésben megállapított fegyelmi büntetéseket kell értékelni.
+306/I. § A 2015. szeptember 1. napján határozatlan idejű kinevezéssel rendelkező önálló bírósági végrehajtók szolgálata az e naptól számított 7 év elteltével megszűnik, kivéve, ha a 234/A. § alapján előterjesztett kérelemre a Hatóság elnöke megállapítja a szolgálat folyamatosságát. A szolgálat folyamatosságának megállapításakor a 2015. szeptember 1. napját követően megállapított fegyelmi büntetéseket kell értékelni.
 
 306/J. § (1) A 2015. szeptember 1. napján végrehajtói szakvizsgával nem rendelkező önálló bírósági végrehajtónak 2017. március 31. napjáig végrehajtói szakvizsgát kell tennie.
 
@@ -4653,6 +4686,8 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 
 (3) E törvénynek a Módtv.7.-vel megállapított 115. § (1) bekezdését, 139. § (4) bekezdését a Módtv.7. hatálybalépését követően indult végrehajtási eljárásokban kell alkalmazni.
 
+(4) E törvénynek az egyes gazdaságszabályozási törvények módosításáról szóló 2022. évi XIX. törvény 63. §-ával megállapított 234/A. §-át és 69. § d) pontjával megállapított 306/I. §-át a veszélyhelyzet megszűnésével összefüggő szabályozási kérdésekről szóló 2022. évi V. törvény 8. § (1) bekezdése alapján benyújtott, az önálló bírósági végrehajtó szolgálati jogviszonya folyamatosságának megállapítására irányuló kérelmek elbírálására is alkalmazni kell.
+
 ### Felhatalmazás
 
 307. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
@@ -4744,5 +4779,6 @@ való megfelelést szolgálja.
 - h) 14/A. §-a, 16. § n) pontja, 23/B. § (1) bekezdés d) pontja, 31/C. § (1) bekezdés g) pontja, 31/C. § (2) bekezdés e) pontja, 31/C. § (5) bekezdése, 37/B. § (4) bekezdése, 48. § (8) bekezdése, 186. § (3) bekezdése, 187. § (3) bekezdése, és 211. § (3) bekezdés c) pontja a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló, 2012. december 12-i 1215/2012/EU európai parlamenti és tanácsi rendelet,
 - i) 23/B. § (1) bekezdés e) pontja, 31/C. § (1) bekezdés h) és i) pontja, 31/C. § (2) bekezdés f) és g) pontja, 210/A. § (1) bekezdés c) pontja az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet,
 - j) 37/B. § (4) bekezdése a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) szóló, 2020. november 25-i (EU) 2020/1784 európai parlamenti és tanácsi rendelet
+- k) 16. § p) pontja, 23/B. § (1) bekezdés f) pontja, 31/C. § (1) bekezdés j) pontja, 31/C. § (6a)–(6b) bekezdése, 48. § (9) bekezdése, 211. § (3) bekezdés c) pontja, 211. § (4) bekezdés a) pontja és 211. § (5) bekezdése a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló, 2019. június 25-i (EU) 2019/1111 tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
