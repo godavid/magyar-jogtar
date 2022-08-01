@@ -1509,21 +1509,17 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 (10) A Kuratórium tagjait az Országgyűlés kilencévi időtartamra választja. A választott és a delegált tagok mandátuma azonos időpontban, előbbiek Országgyűlés általi megválasztásának napjától számított kilenc év eltelte után jár le.
 
-87. § (1) Ha a 86. § (10) bekezdés szerinti időtartam lejárta előtt valamelyik választott tag megbízatása megszűnik, akkor az új tag jelölése és megválasztása a (2)–(7) bekezdésben foglaltak szerint történik.
+87. § (1) Ha a 86. § (10) bekezdése szerinti időtartam lejárta előtt valamelyik választott tag megbízatása megszűnik, akkor az új tag jelölése és megválasztása a (2)–(5) bekezdésben foglaltak szerint történik.
 
-(2) Ha az új tag jelölése azonos országgyűlési ciklus idején történik, mint a Kuratórium tagjainak megválasztása, vagy ha ezen országgyűlési ciklust követő országgyűlési választások után a kormányoldali és az ellenzéki oldali képviselőcsoportok tekintetében változás nem történt, akkor a jelölésre a 86. § (2)–(4) bekezdés rendelkezéseit kell alkalmazni úgy, hogy annak a – kormány-, illetve ellenzéki – oldalnak van jelölési joga, amelyik oldal jelölése alapján megválasztott, majd megszűnt megbízatású tag pótlására történik a jelölés.
+(2) Ha az új tag jelölése azonos országgyűlési ciklus idején történik, mint a Kuratórium tagjainak megválasztása, vagy ha ezen országgyűlési ciklust követő országgyűlési választások után a kormányoldali és az ellenzéki oldali képviselőcsoportok tekintetében változás nem történt, akkor a jelölésre a 86. § (2)–(4) bekezdése rendelkezéseit kell alkalmazni úgy, hogy annak a – kormány-, illetve ellenzéki – oldalnak van jelölési joga, amelyik oldal jelölése alapján megválasztott, majd megszűnt megbízatású tag pótlására történik a jelölés.
 
-(3) Ha az új tag jelölése azon országgyűlési ciklus után történik, amelynek ideje alatt a Kuratórium tagjait megválasztották, akkor – feltéve, hogy a Kuratórium megválasztásának országgyűlési ciklusát követő országgyűlési választások után a kormány- és az ellenzéki oldali képviselőcsoportok tekintetében változás következett be – az országgyűlési képviselőcsoportok egy-egy tagjából álló jelölőbizottság a jelölőbizottság felállítását követő tizenöt napon belül egyhangú szavazással tesz javaslatot a jelöltre.
+(3) Ha az új tag jelölése azon országgyűlési ciklus után történik, amelynek ideje alatt a Kuratórium tagjait megválasztották, akkor – feltéve, hogy a Kuratórium megválasztásának országgyűlési ciklusát követő országgyűlési választások után a kormány- és az ellenzéki oldali képviselőcsoportok tekintetében változás következett be – az új tag személyére a megbízatás megszűnéséről való tudomásszerzéstől számított harminc napon belül az Országgyűlés kulturális kérdésekkel foglalkozó állandó bizottsága tesz javaslatot.
 
-(4) Ha a jelölőbizottság a (3) bekezdésben meghatározott határidőn belül nem tud jelöltet állítani, a jelölőbizottság újabb nyolc napon belül a szavazati mérték legalább kétharmadával javasolhat jelöltet. A jelölőbizottság tagjai ennek során a szavazásuk időpontjában az őket jelölő országgyűlési képviselőcsoport létszámának megfelelő mértékű szavazattal rendelkeznek.
+(4) A (3) bekezdés szerinti jelöltállítás során a kormány- és az ellenzéki oldalon bekövetkezett változásokra – a parlamenti képviselőcsoportok valamely oldalhoz tartozásának megváltozására, új képviselőcsoport alakulására, megszűnésére – az Országgyűlés kulturális kérdésekkel foglalkozó állandó bizottságának tekintettel kell lennie.
 
-(5) A (3)–(4) bekezdés szerinti jelöltállítás során a kormány- és az ellenzéki oldalon bekövetkezett változásokra – a parlamenti képviselőcsoportok valamely oldalhoz tartozásának megváltozására, új képviselőcsoport alakulására, megszűnésére – a jelölőbizottságnak tekintettel kell lennie.
+(5) A jelölést követően az új tagot az Országgyűlés választja meg a már működő megválasztott Kuratórium tagjai mandátumának lejártáig terjedő időszakra. A Kuratórium új tagja az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerint esküt tesz.
 
-(6) Ha a jelölőbizottság a (4) bekezdés szerinti esetben sem tud kellő számú jelöltet állítani, új jelölőbizottságot kell felállítani.
-
-(7) Az eredményes jelölést követően az új tagot az Országgyűlés választja meg a már működő megválasztott Kuratórium tagjai mandátumának lejártáig terjedő időszakra. A Kuratórium új tagja az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerint esküt tesz.
-
-(8) Amennyiben a Kuratórium elnökének vagy a Médiatanács által delegált tagjának szűnik meg a mandátuma annak lejárta előtt, a Médiatanács tizenöt napon belül új elnököt, illetve tagot delegál a Kuratórium tagjai mandátumának lejártáig terjedő időszakra.
+(6) Ha a Kuratórium elnökének vagy a Médiatanács által delegált tagjának szűnik meg a mandátuma annak lejárta előtt, a Médiatanács tizenöt napon belül új elnököt, illetve tagot delegál a Kuratórium tagjai mandátumának lejártáig terjedő időszakra.
 
 88. § (1) A Kuratórium elnökére és tagjaira a Hatóság elnökére, elnökhelyettesére, főigazgatójára és főigazgató-helyettesére vonatkozó, a 118. § (1)–(2) bekezdésben foglalt összeférhetetlenségi, illetve a 118. § (3) bekezdésben foglalt szabályokat megfelelően alkalmazni kell.
 
@@ -2246,19 +2242,21 @@ amelynek jogát vagy jogos érdekét főigazgatóként hozott döntése érintet
 (3) A Médiatanács tagjaira
 
 - a) legfeljebb hatvan, de legkésőbb harminc nappal a tagok megbízatása időtartamának letelte előtt,
-- b) az a) ponton kívüli esetekben a megbízatás megszűnéséről való tudomásszerzéstől számított harminc napon belül, az országgyűlési képviselőcsoportok egy-egy tagjából álló eseti bizottság (a továbbiakban: jelölőbizottság) egyhangú szavazással tesz javaslatot.
+- b) az a) ponton kívüli esetekben a megbízatás megszűnéséről való tudomásszerzéstől számított harminc napon belül,
 
-(4) A jelölőbizottság tagjai minden szavazás során az őket jelölő országgyűlési képviselőcsoport létszámának megfelelő mértékű szavazattal rendelkeznek.
+az Országgyűlés kulturális kérdésekkel foglalkozó állandó bizottsága tesz javaslatot.
 
-(5) A jelölőbizottság felállításáról szóló országgyűlési határozat rendelkezik arról, hogy mennyi idő áll az országgyűlési képviselőcsoportok rendelkezésére a jelölőbizottsági tagok jelölésére. A jelölési folyamat megkezdhető abban az esetben is, ha valamely képviselőcsoport nem jelöl tagot a jelölőbizottságba az országgyűlési határozatban meghatározott határidőn belül.
+(4)
 
-(6) Ha a jelölőbizottság a (3) bekezdés a) pont szerinti esetben a meghatározott határidőn belül nem tud négy tagjelöltet javasolni, a jelölőbizottság a második jelölési körben a szavazati mérték legalább kétharmadával javasolhat jelöltet.
+(5)
 
-(7) Ha a jelölőbizottság a (3) bekezdés a) pont szerinti esetben a második jelölési körben sem tud nyolc napon belül négy jelöltet állítani, akkor a mandátuma megszűnik, és új jelölőbizottságot kell felállítani.
+(6)
 
-(8) Ha a jelölőbizottság a (3) bekezdés b) pont szerinti esetben az ott meghatározott határidőn belül nem tud tagjelöltet javasolni, a jelölőbizottság a szavazati mérték legalább kétharmadával javasolhat jelöltet.
+(7)
 
-(9) Ha a jelölőbizottság a (3) bekezdés b) pont szerinti esetben a második jelölési körben sem tud nyolc napon belül jelöltet állítani, akkor megszűnik a mandátuma, és új jelölőbizottságot kell felállítani.
+(8)
+
+(9)
 
 125. § (1) A Hatóság köztársasági elnök által kinevezett Elnöke a kinevezés tényével és időpontjában a Médiatanács elnökjelöltjévé válik.
 
@@ -2292,7 +2290,7 @@ amelynek jogát vagy jogos érdekét főigazgatóként hozott döntése érintet
 
 (2) A Médiatanács elnöke és tagja az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerint esküt tesz.
 
-(3) A Médiatanács tagja az országgyűlési képviselőkre vonatkozó szabályok szerint köteles vagyonnyilatkozatot tenni, első ízben a megválasztását követő harminc napon belül. A vagyonnyilatkozat kezelésére, nyilvántartására, ellenőrzésére az országgyűlési képviselők vagyonnyilatkozatának kezelésére, nyilvántartására, ellenőrzésére vonatkozó szabályokat kell alkalmazni.
+(3) A Médiatanács tagja a megválasztását követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
 
 ### A Médiatanács tagjai megbízatásának megszűnése
 
@@ -3867,6 +3865,12 @@ rendeletben megállapítsa.
 
 (4) A 39. § (2) és (2a) bekezdésében meghatározott kötelezettség teljesítésének elérése folyamatosan és fokozatosan terheli a kötelezetteket. E kötelezettségeket teljes körűen legkésőbb 2022. szeptember 19. napjától kell teljesíteni.
 
+218/D. § (1) A Médiatanács tagja az e törvénynek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvénnyel megállapított 128. § (3) bekezdése alkalmazásával – a vagyonnyilatkozat-tétel napján fennálló állapot szerint – 2022. augusztus 5-ig tesz vagyonnyilatkozatot.
+
+(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a vagyonnyilatkozat kezelőjénél lévő, a Médiatanács tagjával közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát a vagyonnyilatkozat kezelője 2023. augusztus 1. napjáig őrzi.
+
+(3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.
+
 ### V. Fejezet
 
 #### 219. §
@@ -3893,7 +3897,7 @@ rendeletben megállapítsa.
 
 ### VI/A. Fejezet — Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-229. § E törvény 1–203. §-a, 206–218/C. §-a, 1. számú melléklete és 4. számú melléklete az Alaptörvény IX. cikk (6) bekezdése és 23. cikke alapján sarkalatosnak minősül.
+229. § E törvény 1–203. §-a, 206–209. § és 211–218/D. §-a, 1. számú melléklete és 4. számú melléklete az Alaptörvény IX. cikk (6) bekezdése és 23. cikke alapján sarkalatosnak minősül.
 
 ### VII. Fejezet — AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 

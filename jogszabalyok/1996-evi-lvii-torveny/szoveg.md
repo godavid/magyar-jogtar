@@ -375,7 +375,13 @@ kell figyelembe venni.
 
 (3) A miniszterelnök javaslatának megtétele előtt a jelölteket a miniszterelnök kezdeményezésére az Országgyűlés illetékes bizottsága nyilvánosan meghallgatja.
 
-(4)–(7)
+(4)
+
+(5)
+
+(6)
+
+(7)
 
 (8) A Gazdasági Versenyhivatal elnökét, elnökhelyettesét az elődje megbízatásának lejártát megelőző három hónapon belül meg kell nevezni, valamint a kinevezéséhez szükséges folyamatot az előző kinevezés lejárta előtt egy hónappal be kell fejezni.
 
@@ -461,9 +467,11 @@ kell figyelembe venni.
 
 40. § (1) A Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja, a főtitkár és a vizsgáló további jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységre irányuló jogviszony, a közérdekű önkéntes tevékenység és a nevelőszülői foglalkoztatási jogviszony kivételével – nem létesíthet (összeférhetetlenség).
 
-(2)–(3)
+(2)
 
-(4) A Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja az országgyűlési képviselőkre vonatkozó szabályok szerint köteles vagyonnyilatkozatot tenni, első ízben a kinevezését követő harminc napon belül. A vagyonnyilatkozat nyilvántartására, ellenőrzésére, kezelésére az országgyűlési képviselők vagyonnyilatkozatának nyilvántartására, ellenőrzésére, kezelésére vonatkozó szabályokat kell alkalmazni.
+(3)
+
+(4) A Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja a kinevezését követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
 
 (5)
 
@@ -2293,7 +2301,35 @@ jogszerűsége tárgyában.
 
 ### XV–XVII. Fejezet
 
-#### 89–91/K. §
+#### 89. §
+
+#### 90. §
+
+#### 90/A. §
+
+#### 91. §
+
+#### 91/A. §
+
+#### 91/B. §
+
+#### 91/C. §
+
+#### 91/D. §
+
+#### 91/E. §
+
+#### 91/F. §
+
+#### 91/G. §
+
+#### 91/H. §
+
+#### 91/I. §
+
+#### 91/J. §
+
+#### 91/K. §
 
 ## HETEDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -2327,7 +2363,9 @@ jogszerűsége tárgyában.
 
 (2) E törvény más jogszabályban alkalmazandó rövid megjelölése: Tpvt.
 
-(3)–(4)
+(3)
+
+(4)
 
 ### Átmeneti rendelkezések
 
@@ -2418,6 +2456,12 @@ végrehajtási eljárásokra is alkalmazni kell.
 95/I. § E törvénynek a felsőoktatási intézmények versenyképes működését elősegítő szabályokról, valamint egyes vagyongazdálkodási, kormányzati igazgatási és büntetőjogi tárgyú törvények módosításáról szóló 2021. évi CIII. törvénnyel (a továbbiakban: Módtv5.) megállapított 25/B. §-át a Módtv5. hatálybalépését megelőzően létrejött, de még végre nem hajtott összefonódásokra is alkalmazni kell.
 
 95/J. § E törvénynek az egyes igazságügyi tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXII. törvénnyel megállapított 43/N. § (1) bekezdés c) pontját és (4) bekezdését, 43/O. §-át, 60/A. § (1) bekezdését, 62/A. § (4a) bekezdését, 63. § (2) bekezdés d) pontját, 67. § (5a) bekezdését, 68. § (1) bekezdés c) pont ca) alpontját az e rendelkezések hatálybalépését megelőzően létrejött, de még végre nem hajtott összefonódásokra is alkalmazni kell.
+
+95/K. § (1) A Gazdasági Versenyhivatal elnöke, elnökhelyettese, a Versenytanács tagja az e törvénynek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvénnyel megállapított 40. § (4) bekezdése alkalmazásával – a vagyonnyilatkozat-tétel napján fennálló állapot szerint – 2022. augusztus 5-ig tesz vagyonnyilatkozatot.
+
+(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a vagyonnyilatkozat kezelőjénél lévő, a Gazdasági Versenyhivatal elnökével, elnökhelyettesével, illetve a Versenytanács tagjával közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát a vagyonnyilatkozat kezelője 2023. augusztus 1. napjáig őrzi.
+
+(3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.
 
 ### Felhatalmazó rendelkezések
 

@@ -623,17 +623,19 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 - c) az országgyűlési képviselők választásán vagy az Európai Parlament tagjainak választásán induló jelölt hozzátartozója,
 - d) jelölő szervezet tagja.
 
-57. § (1) A Nemzeti Választási Iroda elnöke a kinevezését követő harminc napon belül, majd ezt követően minden évben január 31-ig, valamint a megbízatásának megszűnését követő harminc napon belül az országgyűlési képviselők vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatot tesz.
+57. § (1) A Nemzeti Választási Iroda elnöke a kinevezését követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
 
 (2) A vagyonnyilatkozat-tétel elmulasztása esetén – a vagyonnyilatkozat benyújtásáig – a Nemzeti Választási Iroda elnöke tisztségét nem gyakorolhatja, javadalmazásban nem részesül.
 
-(3) A vagyonnyilatkozat nyilvános, oldalhű másolatát a választások hivatalos honlapján haladéktalanul közzé kell tenni. A vagyonnyilatkozat a honlapról a Nemzeti Választási Iroda elnöke megbízatásának megszűnését követő egy év elteltéig nem távolítható el.
+(3) A Nemzeti Választási Iroda elnöke vagyonnyilatkozatának nyilvános, oldalhű másolatát a választások hivatalos honlapján haladéktalanul közzé kell tenni. A vagyonnyilatkozat a honlapról a Nemzeti Választási Iroda elnöke megbízatásának megszűnését követő egy év elteltéig nem távolítható el.
+
+(3a) A Nemzeti Választási Iroda elnöke a vagyonnyilatkozatban feltüntetett adatok tekintetében bekövetkezett változást a miniszterelnöknek jelenti be.
 
 (4) A Nemzeti Választási Iroda elnökének vagyonnyilatkozatával kapcsolatos eljárást a miniszterelnöknél bárki kezdeményezheti a vagyonnyilatkozat konkrét tartalmára vonatkozó olyan tényállítással, amely konkrétan megjelöli a vagyonnyilatkozat kifogásolt részét és tartalmát. Ha a kezdeményezés nem felel meg az e bekezdésben foglalt követelményeknek, nyilvánvalóan alaptalan, vagy az ismételten benyújtott kezdeményezés új tényállítást vagy adatot nem tartalmaz, a miniszterelnök az eljárás lefolytatása nélkül elutasítja a kezdeményezést. A vagyonnyilatkozatban foglaltak valóságtartalmát a miniszterelnök ellenőrzi.
 
-(5) A vagyonnyilatkozattal kapcsolatos eljárás során a miniszterelnök felhívására a Nemzeti Választási Iroda elnöke köteles a vagyonnyilatkozatában feltüntetett vagyoni, jövedelmi és érdekeltségi viszonyokat igazoló adatokat haladéktalanul, írásban a miniszterelnök rendelkezésére bocsátani. Az ellenőrzés eredményéről az adatok megküldésével a miniszterelnök tájékoztatja a köztársasági elnököt. Az adatokba csak a miniszterelnök és a köztársasági elnök tekinthet be.
+(5) A vagyonnyilatkozattal kapcsolatos eljárás során a miniszterelnök felhívására a Nemzeti Választási Iroda elnöke köteles a vagyonnyilatkozatában feltüntetett jövedelem- és gazdasági érdekeltségi viszonyokat igazoló adatokat haladéktalanul, írásban a miniszterelnök rendelkezésére bocsátani. Az ellenőrzés eredményéről az adatok megküldésével a miniszterelnök tájékoztatja a köztársasági elnököt. Az adatokba csak a miniszterelnök és a köztársasági elnök tekinthet be.
 
-(6) A Nemzeti Választási Iroda elnöke által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell.
+(6)
 
 58. § (1) A Nemzeti Választási Iroda elnöke az Országgyűlésről szóló 2012. évi XXXVI. törvény szerinti képviselői tiszteletdíj 2,5-szeresének megfelelő illetményre jogosult.
 
@@ -3218,9 +3220,15 @@ alapján legkésőbb a szavazást követő tizenkilencedik napon megállapítja 
 
 353/C. § E törvénynek az egyes választási tárgyú törvények módosításáról szóló 2020. évi CLXVII. törvénnyel megállapított rendelkezéseit a hatálybalépésüket követően kitűzött választásokon kell alkalmazni.
 
+353/D. § (1) A Nemzeti Választási Iroda elnöke és elnökhelyettese az e törvénynek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvénnyel megállapított 57. § (1) bekezdése alkalmazásával – a vagyonnyilatkozat-tétel napján fennálló állapot szerint – 2022. augusztus 5-ig tesz vagyonnyilatkozatot.
+
+(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a vagyonnyilatkozat kezelőjénél lévő, a Nemzeti Választási Iroda elnökével, illetve elnökhelyettesével közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát a vagyonnyilatkozat kezelője 2023. augusztus 1. napjáig őrzi.
+
+(3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.
+
 #### 172. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-354. § (1) Az Általános rész – a 3. § 10. pontja, a 146. § a) pontja, a 147–147/F. §, a 74. alcím és a 233. § kivételével –, a 346. §, a 347. §, valamint az 1–6. és 9. melléklet az Alaptörvény XXIX. cikk (3) bekezdése, 2. cikk (1) bekezdése és 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
+354. § (1) Az Általános rész – a 3. § 10. pontja, a 146. § a) pontja, a 147–147/F. §, a 74. alcím és a 233. § kivételével –, a 346. §, a 347. §, a 353/D. §, valamint az 1–6. és 9. melléklet az Alaptörvény XXIX. cikk (3) bekezdése, 2. cikk (1) bekezdése és 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 3. § 10. pontja, a 146. § a) pontja, a 147–147/F. § és a 74. alcím az Alaptörvény IX. cikk (3) bekezdése, XXIX. cikk (3) bekezdése, 2. cikk (1) bekezdése és 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
 

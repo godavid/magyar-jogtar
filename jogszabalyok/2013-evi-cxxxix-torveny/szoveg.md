@@ -2795,9 +2795,9 @@ pénzügyi intézményben, kiegészítő pénzügyi szolgáltatást végző jogi
 
 #### 45. Vagyonnyilatkozat
 
-157. § (1) Az MNB elnöke, alelnökei és a Monetáris Tanács 9. § (4) bekezdés c) pontjában meghatározott tagjai, valamint a felügyelőbizottság tagjai az országgyűlési képviselőkkel azonos módon, azonos tartalommal és gyakorisággal tesznek vagyonnyilatkozatot. Az évenkénti vagyonnyilatkozatot a kötelezettség esedékessé válásának évében az azt megelőző év december 31-ei állapotára vonatkozóan, a kinevezéskor, illetve a felmentéskor esedékes vagyonnyilatkozatot a kinevezés, illetve a felmentés napjának állapotára vonatkozóan kell megtenni. A nyilatkozattételre kötelezett saját vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, valamint gyermekeinek az országgyűlési képviselők vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
+157. § (1) Az MNB elnöke, alelnökei és a Monetáris Tanács 9. § (4) bekezdés c) pontjában meghatározott tagjai, valamint a felügyelőbizottság tagjai a kinevezésüket, illetve megválasztásukat követő harminc napon belül vagyonnyilatkozatot tesznek. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(2) A vagyonnyilatkozatot az Országgyűlés mentelmi és összeférhetetlenségi ügyekkel foglalkozó állandó bizottsága tartja nyilván. A Monetáris Tanács tagjai, valamint a felügyelőbizottság tagjai vagyonnyilatkozatára, illetve az azzal kapcsolatos eljárásra az e §-ban meghatározott eltérésekkel az országgyűlési képviselők vagyonnyilatkozatára, illetve vagyonnyilatkozatával kapcsolatos eljárásra vonatkozó szabályokat kell alkalmazni. A vagyonnyilatkozattal kapcsolatos eljárást bárki kezdeményezheti az Országgyűlés elnökénél.
+(2) A vagyonnyilatkozatot az Országgyűlés mentelmi és összeférhetetlenségi ügyekkel foglalkozó állandó bizottsága tartja nyilván. A vagyonnyilatkozattal kapcsolatos eljárást bárki kezdeményezheti az Országgyűlés elnökénél.
 
 ## HATODIK RÉSZ — VEGYES RENDELKEZÉSEK
 
@@ -3272,6 +3272,12 @@ azzal, hogy 2019. január 1-jétől az anticiklikus tőkepufferrátát a 33. §-
 183/J. § A pénzügyi közvetítőrendszert érintő egyes törvények jogharmonizációs célú módosításáról szóló 2018. évi CXXVI. törvény (a továbbiakban: Módtv.3.) 85. § (1) bekezdésével megállapított 14. § (8) bekezdést a hatálybalépésekor megbízatásukat töltő felügyelőbizottsági tagok megbízatásának időtartama tekintetében is alkalmazni kell.
 
 183/K. § A Módtv.3.-mal megállapított 13. § rendelkezéseit mindazon hatósági ügyekben kell alkalmazni, amelyekben a Módtv.3. hatálybalépésekor az MNB végleges döntést nem hozott.
+
+183/L. § (1) Az MNB elnöke, alelnökei és a Monetáris Tanács 9. § (4) bekezdés c) pontjában meghatározott tagjai, valamint a felügyelőbizottság tagjai az e törvénynek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvénnyel megállapított 157. § (1) bekezdése alkalmazásával – a vagyonnyilatkozat-tétel napján fennálló állapot szerint – 2022. augusztus 5-ig tesznek vagyonnyilatkozatot.
+
+(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a vagyonnyilatkozat kezelőjénél lévő, az MNB elnökével, alelnökével, a Monetáris Tanács 9. § (4) bekezdés c) pontjában meghatározott tagjával, illetve a felügyelőbizottság tagjával közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát a vagyonnyilatkozat kezelője 2023. augusztus 1. napjáig őrzi.
+
+(3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.
 
 #### 55. Az Alaptörvény sarkalatosságra vonatkozó követelményének megfelelés
 

@@ -329,11 +329,11 @@ a Kormány hozzájárulásához kötött. A hozzájárulás iránti kérelmet az
 
 19. § A Tanács elnökének nem nevezhető ki olyan személy, aki tagja az Országgyűlésnek, a Kormánynak, illetve állami vezető, bíró, ügyész, kormánytisztviselő, állami tisztviselő vagy köztisztviselő, továbbá aki szolgálati jogviszonyban áll.
 
-19/A. § (1) A Tanács elnöke az országgyűlési képviselőkkel azonos módon, azonos tartalommal és gyakorisággal tesz vagyonnyilatkozatot. Az évenkénti vagyonnyilatkozatot a kötelezettség esedékessé válásának évében az azt megelőző év december 31-ei állapotára vonatkozóan, a kinevezéskor, illetve megbízatása megszűnésekor esedékes vagyonnyilatkozatot a kinevezés, illetve a megbízatás megszűnése napjának állapotára vonatkozóan kell megtennie. Saját vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, valamint gyermekeinek (hozzátartozó) az országgyűlési képviselők vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
+19/A. § (1) A Tanács elnöke a kinevezését követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
 
 (2) A vagyonnyilatkozat-tétel elmulasztása esetén – a vagyonnyilatkozat benyújtásáig – a Tanács elnöke tisztségét nem gyakorolhatja, javadalmazásban nem részesül.
 
-(3) A vagyonnyilatkozatot az Országgyűlés mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló ügyekkel foglalkozó állandó bizottsága (a továbbiakban: mentelmi bizottság) tartja nyilván. A vagyonnyilatkozattal kapcsolatos eljárást bárki kezdeményezheti a mentelmi bizottság elnökénél. Az eljárásra az országgyűlési képviselők vagyonnyilatkozatával kapcsolatos eljárásra vonatkozó szabályokat kell alkalmazni.
+(3) A vagyonnyilatkozatot az Országgyűlés mentelmi, összeférhetetlenségi, fegyelmi és mandátumvizsgáló ügyekkel foglalkozó állandó bizottsága (a továbbiakban: mentelmi bizottság) tartja nyilván. A vagyonnyilatkozattal kapcsolatos eljárást bárki kezdeményezheti a mentelmi bizottság elnökénél.
 
 20. § (1) A Tanács elnöke az Alaptörvényben és e törvényben meghatározott, a Tanács tevékenységére vonatkozó hatáskörök gyakorlása során kifejtett tevékenysége, az általa e tevékenysége során közölt tény vagy vélemény miatt bíróság vagy más hatóság előtt – megbízatásának ideje alatt és azt követően – nem vonható felelősségre, e tény vagy vélemény miatt a Tanács elnöke ellen bíróság, vagy más hatóság előtt eljárás nem indítható. Ez a mentesség nem vonatkozik a szigorúan titkos és titkos minősítésű adattal való visszaélésre, a rágalmazásra és a becsületsértésre, valamint a Tanács elnökének polgári jogi felelősségére.
 
@@ -700,7 +700,11 @@ a fizetési kötelezettségről szóló jogszabály alkalmazásában olyan tevé
 
 49. § E törvény 10/F. §-át a 2020. január 1-jét követően megkötendő adósságot keletkeztető ügyletekre kell alkalmazni.
 
-#### 50. §
+50. § (1) A Tanács elnöke az e törvénynek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvénnyel megállapított 19/A. § (1) bekezdése alkalmazásával – a vagyonnyilatkozat-tétel napján fennálló állapot szerint – 2022. augusztus 5-ig tesz vagyonnyilatkozatot.
+
+(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a vagyonnyilatkozat kezelőjénél lévő, a Tanács elnökével közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát a vagyonnyilatkozat kezelője 2023. augusztus 1. napjáig őrzi.
+
+(3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.
 
 #### 51. §
 

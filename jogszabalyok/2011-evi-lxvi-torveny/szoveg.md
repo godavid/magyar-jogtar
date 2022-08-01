@@ -109,11 +109,11 @@ jogszabályok előkészítésében.
 
 ### Az Állami Számvevőszék elnöke
 
-9. § (1) Az Országgyűlés a képviselők köréből nyolctagú jelölőbizottságot hoz létre, amely javaslatot tesz azokra a személyekre, akik az Állami Számvevőszék elnökévé választhatók.
+9. § (1) Az Állami Számvevőszék elnökének személyére az Országgyűlés számvevőszéki ügyekkel foglalkozó állandó bizottsága tesz javaslatot.
 
 (2) Nem jelölhető az Állami Számvevőszék elnökévé olyan személy, aki a megelőző négy évben tagja volt a Kormánynak, vagy bármely párt országos (központi) szervezetében választott vezető tisztséget töltött be.
 
-(3) Az Állami Számvevőszék elnökének javasolt személyt az Országgyűlés számvevőszéki ügyekért felelős bizottsága meghallgatja.
+(3)
 
 (4) Az Állami Számvevőszék elnöke megválasztása után, hivatalba lépése alkalmával az Országgyűlés előtt esküt tesz.
 
@@ -143,7 +143,7 @@ jogszabályok előkészítésében.
 
 (2) A lemondást írásban kell közölni az Országgyűlés elnökével. Az Állami Számvevőszék elnökének megbízatása a lemondásban megjelölt napon szűnik meg.
 
-(3) Az Állami Számvevőszék elnökével szemben a 18. § (1)–(4) bekezdésében és a 19. § (2) bekezdésében meghatározott összeférhetetlenséget az Országgyűlés az összeférhetetlenségi ügyekkel foglalkozó bizottsága javaslatára állapítja meg.
+(3) Az Állami Számvevőszék elnökével szemben a 18. § (1)–(4) bekezdésében meghatározott összeférhetetlenséget az Országgyűlés az összeférhetetlenségi ügyekkel foglalkozó bizottsága javaslatára állapítja meg.
 
 (4) Felmentéssel szüntethető meg a megbízatás, ha az Állami Számvevőszék elnöke neki fel nem róható okból nem képes eleget tenni megbízatásából adódó feladatainak. A felmentést az Országgyűlés mentelmi ügyekkel foglalkozó bizottsága kezdeményezheti, a felmentésről az Országgyűlés dönt.
 
@@ -294,9 +294,11 @@ kategóriák valamelyikébe kell besorolni.
 
 ### Vagyonnyilatkozat
 
-19. § (1) Az Állami Számvevőszék elnöke és alelnökei az országgyűlési képviselőkre vonatkozó szabályok szerint a megválasztásakor, majd azt követően évente; az Állami Számvevőszék vezetői és számvevői a köztisztviselőkre vonatkozó szabályok szerint a kinevezésükkor, majd azt követően a vezetők évente, a számvevők kétévente vagyonnyilatkozatot tesznek. A vezetők és a számvevők vagyonnyilatkozata nem nyilvános.
+19. § (1) Az Állami Számvevőszék elnöke a megválasztását, az Állami Számvevőszék alelnöke a kinevezését követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(2) A vagyonnyilatkozatok őrzésére, ellenőrzésére, a vagyonnyilatkozat-tételi kötelezettség elmulasztására és a szándékosan téves tartalmú vagyonnyilatkozat közlésére az Állami Számvevőszék elnökének és alelnökeinek esetében az országgyűlési képviselőkre, az Állami Számvevőszék vezetői és számvevői esetében – eltérő szabály hiányában – a köztisztviselőkre vonatkozó szabályokat kell alkalmazni.
+(2) Az Állami Számvevőszék vezetői és számvevői a köztisztviselőkre vonatkozó szabályok szerint a kinevezésükkor, majd azt követően a vezetők évente, a számvevők kétévente vagyonnyilatkozatot tesznek. A vezetők és a számvevők vagyonnyilatkozata nem nyilvános.
+
+(3) A vagyonnyilatkozatok őrzésére, ellenőrzésére, a vagyonnyilatkozat-tételi kötelezettség elmulasztására és a szándékosan téves tartalmú vagyonnyilatkozat közlésére az Állami Számvevőszék vezetői és számvevői esetében – eltérő szabály hiányában – a köztisztviselőkre vonatkozó szabályokat kell alkalmazni.
 
 ### Az Állami Számvevőszék elnökét, alelnökeit, vezetőit és számvevőit megillető díjazás és juttatások
 
@@ -553,6 +555,12 @@ kell megfelelően alkalmazni.
 (11) A számvevő a jogviszonyát érintő, a Módtv. rendelkezéseivel összefüggésben, a Módtv. hatálybalépését követő négy munkanapon belül írásban kérheti a felmentését a felmentés okának megjelölésével. A felmentési kérelemnek a munkáltatói jogkör gyakorlója általi elfogadása esetén a Módtv.-vel megállapított 15. § (2c) bekezdése megfelelően alkalmazandó.
 
 (12) E törvénynek az állami vagyonnal való fenntartható gazdálkodás megteremtése érdekében egyes vagyongazdálkodást érintő törvények módosításáról, valamint egyéb vagyongazdálkodási rendelkezésekről szóló 2021. évi LXXXIV. törvénnyel (a továbbiakban: Módtv2.) megállapított 8. § (1) bekezdése, 14. § (1), (14) és (15) bekezdése, 19. § (1) és (2) bekezdése, valamint 20. § (2) bekezdése nem érinti a Módtv2. hatálybalépésekor hivatalban lévő alelnök kinevezését.
+
+35/A. § (1) Az Állami Számvevőszék elnöke és alelnöke az e törvénynek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvénnyel megállapított 19. § (1) bekezdése alkalmazásával – a vagyonnyilatkozat-tétel napján fennálló állapot szerint – 2022. augusztus 5-ig tesz vagyonnyilatkozatot.
+
+(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a vagyonnyilatkozat kezelőjénél lévő, az Állami Számvevőszék elnökével, illetve alelnökével közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát a vagyonnyilatkozat kezelője 2023. augusztus 1. napjáig őrzi.
+
+(3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.
 
 ### Módosító rendelkezések
 

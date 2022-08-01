@@ -159,7 +159,7 @@ Az Európai Unió egészére kiterjedő közös közlekedési stratégia megval�
 
 ### III/A. Fejezet — Cél-kitermelőhelyek létesítésének, üzemeltetésének, megszüntetésének és hatósági felügyeletének különös szabályai
 
-17/A. § (1) Az e törvény hatálya alá tartozó gyorsforgalmi utak földművei (töltései) megépítéséhez szükséges homok, kavics és agyag ásványi nyersanyag – ideértve mindezek változatait és keverékeit is – (a továbbiakban együtt: töltésanyag) kitermelésére a 18. § (6) bekezdés b)–c) pontja alapján kiadott rendeletben vagy a végleges építési engedélyben megállapított nyomvonal 10-10 km szélességű környezetében célkitermelő hely létesíthető.
+17/A. § (1) Az e törvény hatálya alá tartozó gyorsforgalmi utak földművei (töltései) megépítéséhez szükséges ásványi nyersanyag (a továbbiakban: töltésanyag) kitermelésére a 18. § (6) bekezdés b)–c) pontja alapján kiadott rendeletben vagy a végleges építési engedélyben megállapított nyomvonal 10-10 km szélességű környezetében célkitermelő hely létesíthető.
 
 (2) Az (1) bekezdésben meghatározott töltésanyag kivételével más ásványi nyersanyag kitermelésére cél-kitermelőhely nem létesíthető.
 

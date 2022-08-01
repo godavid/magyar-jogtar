@@ -10,13 +10,13 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 (2)
 
-2. §
+#### 2. §
 
 3. § (1)
 
 (2) A devizajogszabályok szerint külföldinek minősülő természetes és jogi személyek, valamint ezek jogi személyiséggel nem rendelkező társaságai a belföldiekkel azonos feltételekkel és eséllyel köthetnek koncessziós szerződést.
 
-3/A. § Ha a koncessziós szerződés egyúttal a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) hatálya alá is tartozik, e törvényt a Kbt.-ben foglalt eltérésekkel kell alkalmazni. Koncessziós pályázat kiírása helyett – a Kbt.-ben meghatározottak szerint – közbeszerzési vagy koncessziós beszerzési eljárást kell lefolytatni. Ebben az esetben a koncessziós szerződés megkötésére nem alkalmazandó a 4. §, a 8. § (1) bekezdése, és a 9. §. A koncessziós pályázatra e törvényben előírt további rendelkezések a közbeszerzési vagy koncessziós beszerzési eljárásban megfelelően alkalmazandóak azzal, hogy az 5. § (1) bekezdésében és a 6. §-ban a pályázatok elbírálása alatt az eljárás eredményéről szóló döntés meghozatalát kell érteni. A 9/A. §-ban foglaltakat a Kbt. szerint az ajánlatokról készített összegezésnek kell tartalmaznia, amelyhez az ajánlatkérő utólag csatolja a nyertes ajánlattevő részéről a 9/A. § (1) bekezdés f) pontja szerinti nyilatkozatot.
+3/A. § Ha a koncessziós szerződés egyúttal a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) hatálya alá is tartozik, e törvényt a Kbt.-ben foglalt eltérésekkel kell alkalmazni. Koncessziós pályázat kiírása helyett – a Kbt.-ben meghatározottak szerint – közbeszerzési vagy koncessziós beszerzési eljárást kell lefolytatni. Ebben az esetben a koncessziós szerződés megkötésére nem alkalmazandó a 4. § (1) és (2) bekezdése, a 8. § (1) bekezdése, és a 9. §. A koncessziós pályázatra e törvényben előírt további rendelkezések a közbeszerzési vagy koncessziós beszerzési eljárásban megfelelően alkalmazandóak azzal, hogy az 5. § (1) bekezdésében és a 6. §-ban a pályázatok elbírálása alatt az eljárás eredményéről szóló döntés meghozatalát kell érteni. A 9/A. §-ban foglaltakat a Kbt. szerint az ajánlatokról készített összegezésnek kell tartalmaznia, amelyhez az ajánlatkérő utólag csatolja a nyertes ajánlattevő részéről a 9/A. § (1) bekezdés f) pontja szerinti nyilatkozatot.
 
 ### A koncessziós pályázat
 
@@ -24,15 +24,17 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 (2) Ha a honvédelmi vagy nemzetbiztonsági érdek a pályázat zárkörű kiírását teszi szükségessé, a zártkörű pályázat kiírását szükségessé tevő honvédelmi, illetve nemzetbiztonsági érdekekről az illetékes miniszter az Országgyűlés illetékes bizottságai véleményének meghallgatása után dönt.
 
-(3) Ha a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 18. § (5) bekezdésében foglalt feltételeknek megfelelő szerződés alapján a tulajdonszerzésre még nem került sor, az önkormányzat a törzsvagyon részét képező tereken, parkokon és egyéb közterületeken létesített építmény tekintetében köteles zártkörű pályázatot kiírni. Zártkörű pályázat esetén érdekeltnek kell tekinteni a hatályos építésügyi hatósági engedély engedélyesét.
+(3) Ha a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 18. § (5) bekezdésében foglalt feltételeknek megfelelő szerződés alapján a tulajdonszerzésre még nem került sor, az önkormányzat a törzsvagyon részét képező tereken, parkokon és egyéb közterületeken létesített építmény tekintetében köteles zártkörű pályázatot vagy a Kbt. szerint közbeszerzési vagy koncessziós beszerzési eljárást kiírni. Zártkörű pályázat vagy a Kbt. szerinti közbeszerzési vagy koncessziós beszerzési eljárás esetén érdekeltnek kell tekinteni a hatályos építésügyi hatósági engedély engedélyesét.
 
-5. § (1) Az állam nevében pályázat kiírására, elbírálására, ajánlattételi felhívásra, ajánlattételi eljárás, valamint a 10/A. § szerinti eljárás lefolytatására és a koncessziós szerződés megkötésére – a Szabályozott Tevékenységek Felügyeleti Hatóságának (a továbbiakban: Hatóság) előzetes egyetértésével – a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv jogosult.
+5. § (1) Az állam nevében pályázat kiírására, elbírálására, ajánlattételi felhívásra, ajánlattételi eljárás, valamint a 10/A. § szerinti eljárás lefolytatására és a koncessziós szerződés megkötésére a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv jogosult.
+
+(1a) Az állam nevében pályázat kiírására, ajánlattételi felhívásra, ajánlattételi eljárás, valamint a 10/A. § szerinti eljárás lefolytatására és a koncessziós szerződés megkötésére a Szabályozott Tevékenységek Felügyeleti Hatóságának (a továbbiakban: Hatóság) előzetes egyetértésével kerülhet sor.
 
 (2) Az e törvény szerinti koncessziós pályázatok, ajánlattételi eljárások és a 10/A. § szerinti eljárások elbírálására bíráló bizottság kerül létrehozásra. A bíráló bizottság javaslatot készít a koncessziós pályázat odaítéléséről, az ajánlat elfogadásáról szóló döntésről, az értékesítésre vonatkozó döntésről, valamint a koncessziós szerződés megkötéséről.
 
 (3) A koncessziós tevékenység, illetve a 10/A. § szerinti eljárás tárgya szerint illetékes ágazati miniszter a kormányrendeletben kijelölt miniszternek vagy központi kormányzati igazgatási szervnek a koncessziós pályázati és ajánlattételi eljárás előkészítése, a pályázat kiírása és az ajánlattételi felhívás kiadása, a pályázati és az ajánlattételi eljárás lefolytatása, a 10/A. § szerinti eljárás előkészítése és lefolytatása, valamint a koncessziós szerződés megkötése érdekében kiadott megkeresésére a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv részére adatszolgáltatást teljesít.
 
-(4) A koncessziós szerződés megkötését követően a koncessziós tevékenység tárgya szerint illetékes ágazati miniszter gyakorolja a koncessziós szerződés alapján az államot megillető valamennyi jogot és kötelezettséget, így különösen a szerződés teljesítésével, végrehajtásával és ellenőrzésével kapcsolatos jogokat és kötelezettségeket. A koncessziós tevékenység tárgya szerint illetékes ágazati miniszter állam nevében szerződő félként való eljárásához, így a koncessziós szerződés alapján az államot megillető valamennyi jog és kötelezettség gyakorlásához a koncesszió jogosultjának hozzájárulása nem szükséges.
+(4) A koncessziós szerződés megkötését követően – az (1) bekezdés szerinti kijelölő és az e kijelölés alapján eljáró központi kormányzati igazgatási szerv vagy miniszter által a koncessziós szerződés végrehajtása körében ellátandó feladatait meghatározó kormányrendeletben foglaltak figyelembe vételével – a koncessziós tevékenység tárgya szerint illetékes ágazati miniszter gyakorolja a koncessziós szerződés alapján az államot megillető valamennyi jogot és kötelezettséget, így különösen a szerződés teljesítésével, végrehajtásával és ellenőrzésével kapcsolatos jogokat és kötelezettségeket. A koncessziós tevékenység tárgya szerint illetékes ágazati miniszter állam nevében szerződő félként való eljárásához, így a koncessziós szerződés alapján az államot megillető valamennyi jog és kötelezettség gyakorlásához a koncesszió jogosultjának hozzájárulása nem szükséges.
 
 (5) Ha a pályázati kiírás olyan tevékenység gyakorlására vonatkozó jogosultság átengedésére irányul, amely az önkormányzat törvényben előírt kötelezettségének teljesítésére közvetlenül hatással van vagy a pályázat kiírása az önkormányzatot egyébként megillető jogok gyakorlását, illetve egyéb feladat teljesítését érinti, a pályázati kiírás közzététele előtt az érdekelt önkormányzat véleményét ki kell kérni. Az érdekelt önkormányzat a véleményének kiadására a felkéréstől számított 15 munkanapon belül van lehetősége.
 
@@ -181,7 +183,7 @@ az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy k�
 
 11. § Ha a koncessziós szerződés megkötésére nem a 10/C. § (1) bekezdés b) pontjában vagy a 10/D. §-ban foglaltak szerint kerül sor, az állam, illetőleg az önkormányzat nevében eljáró személy, illetve szerv csak azzal a pályázóval köthet szerződést, aki a pályázatot megnyerte. A pályázat nyertese az, aki összességében az állam, illetőleg az önkormányzat számára a kiírásnak megfelelő legkedvezőbb ajánlatot tette.
 
-11/A. § Ha e törvény 4. § (3) bekezdése alapján lefolytatott pályázat eredményes, a koncessziós szerződés megkötésével egyidejűleg a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 18. § (5) bekezdésében foglalt feltételeknek megfelelő szerződés megszűnik.
+11/A. § Ha e törvény 4. § (3) bekezdése alapján lefolytatott pályázat vagy a Kbt. szerint közbeszerzési vagy koncessziós beszerzési eljárás eredményes, az annak eredményeként létrejövő szerződés megkötésével egyidejűleg a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 18. § (5) bekezdésében foglalt feltételeknek megfelelő szerződés megszűnik.
 
 12. § (1)
 
@@ -271,7 +273,7 @@ az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy k�
 
 (3) E törvénynek az egyes vagyongazdálkodást érintő rendelkezésekről, valamint egyes vagyongazdálkodási tárgyú törvények módosításáról szóló 2020. évi CLXXII. törvénnyel (a továbbiakban: Módtv-2.) módosított 10/B. §-át, 12. § (3) bekezdését, valamint a Módtv-2.-el megállapított 13. § (1a) bekezdését, 14/A. §-át, 16. §-át az e rendelkezések hatálybalépésekor folyamatban lévő koncessziós pályázati és ajánlattételi eljárásokra is alkalmazni kell.
 
-(4)
+(4) E törvénynek az egyes gazdaságszabályozási tárgyú törvények módosításáról szóló 2022. évi XIX. törvénnyel megállapított 3/A. §-át, 4. § (3) bekezdését és 11/A. §-át azon eljárásokra is alkalmazni kell, amelyeknek alapjául szolgáló – a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 18. § (5) bekezdése szerinti – szerződés a kihirdetés napján már hatályos volt.
 
 (5)
 
@@ -281,7 +283,7 @@ az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy k�
 
 30/A. § Felhatalmazást kap a Kormány, hogy
 
-- a) központi kormányzati igazgatási szerv vagy miniszter kijelölésére vonatkozó részletes szabályokat,
+- a) központi kormányzati igazgatási szerv vagy miniszter kijelölésére vonatkozó és az e kijelölés alapján eljáró központi kormányzati igazgatási szerv vagy miniszter által a koncessziós szerződés végrehajtása körében ellátandó feladatait meghatározó részletes szabályokat,
 - b) az 5. § (3) bekezdése szerinti adatszolgáltatásra vonatkozó megkeresés és a megkeresés teljesítésének részletes szabályait,
 - c) az e törvény szerinti koncessziós eljárások és a 10/A. § szerinti eljárások értékelését végző bíráló bizottság létrehozására és összetételére, valamint jogállására és működésére vonatkozó részletes szabályokat,
 - d) a koncessziós szerződés megkötését követően a koncessziós szerződés alapján az államot megillető jogok és kötelezettségek koncesszió tárgya szerint illetékes ágazati miniszter általi gyakorlása – így különösen a koncessziós szerződés végrehajtása, teljesítése és ellenőrzése – szabályait és

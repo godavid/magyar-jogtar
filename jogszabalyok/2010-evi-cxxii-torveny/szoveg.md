@@ -37,35 +37,31 @@ SZERVEN BELÜLI VEZETŐI IRÁNYÍTÁSA ÉS FELADATAI
 
 ### A Nemzeti Adó- és Vámhivatal vezetői
 
-6. § (1) A NAV vezetőjének feladat- és hatáskörét a kijelölt miniszter irányítása alá tartozó, a Kormány eredeti jogalkotói hatáskörben kiadott rendeletében kijelölt államtitkár (a továbbiakban: állami adó- és vámhatóság vezetője) gyakorolja. Az állami adó- és vámhatóság vezetője képviseli a NAV-ot, közvetlenül vezeti a Központi Irányítást, továbbá ellátja mindazokat a feladatokat, amelyeket jogszabály a NAV vezetőjének feladat- és hatáskörébe utal.
+6. § (1) A NAV-ot az elnök vezeti. A NAV elnökének feladat- és hatáskörét a kijelölt miniszter irányítása alá tartozó, a Kormány eredeti jogalkotói hatáskörben kiadott rendeletében kijelölt államtitkár gyakorolja. A NAV elnöke képviseli a NAV-ot, közvetlenül vezeti a Központi Irányítást, továbbá ellátja mindazokat a feladatokat, amelyeket jogszabály a NAV vezetőjének feladat- és hatáskörébe utal.
 
-(1a) Az állami adó- és vámhatóság vezetője feladat- és hatáskörében minősítésre jogosult.
+(2) A NAV elnöke feladat- és hatáskörében minősítésre jogosult.
 
-(2) Az állami adó- és vámhatóság vezetőjének szakmai helyettesei a kijelölt miniszter által irányított minisztérium szervezeti és működési szabályzatában meghatározott, az állami adó- és vámhatóság vezetője által irányított helyettes államtitkárok.
+(3) A NAV elnöke a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti felettese a NAV foglalkoztatottjainak.
 
-(3) Az állami adó- és vámhatóság vezetője és szakmai helyettesei a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti felettese a NAV foglalkoztatottjainak.
+7. § (1) A NAV elnökének helyettesei az elnökhelyettesek. A NAV elnökhelyetteseit határozatlan időtartamra az elnök javaslatára a kijelölt miniszter nevezi ki és menti fel.
 
-7. § (1) A NAV gazdasági vezetője a Központi Irányítás főigazgatója, akinek a munkáját főigazgató-helyettes segíti.
+(2) A NAV gazdasági vezetője a NAV egyik elnökhelyettese.
 
-(2) Az állami adó- és vámhatóság vezetője és szakmai helyettesei szakmai tevékenységének támogatására szakfőigazgatók nevezhetők ki. Az állami adó- és vámhatóság vezetőjének szakmai helyettesét akadályoztatása esetén, vagy ha a helyettes államtitkári tisztség nincs betöltve, a NAV szervezeti és működési szabályzatában meghatározott vezetői munkakört betöltő személy is helyettesítheti.
+8. § A Bűnügyi Főigazgatóságot főigazgató vezeti, akinek a munkáját főigazgató-helyettes segíti.
 
-8. § (1) A Bűnügyi Főigazgatóságot az állami adó- és vámhatóság vezetője által kinevezett főigazgató vezeti. A Bűnügyi Főigazgatóság vezetésében az állami adó- és vámhatóság vezetője által kinevezett főigazgató-helyettes vesz részt.
-
-(2) A Bűnügyi Főigazgatóság főigazgatója, valamint főigazgató-helyettese felett a munkáltatói jogokat az állami adó- és vámhatóság vezetője gyakorolja.
-
-9. § (1) A NAV területi szervét az állami adó- és vámhatóság vezetője által kinevezett igazgató vezeti. A NAV területi szervének vezetésében az állami adó- és vámhatóság vezetője által kinevezett igazgatóhelyettes (igazgatóhelyettesek) vehet (vehetnek) részt.
+9. § (1) A NAV területi szervét a NAV elnöke által kinevezett igazgató vezeti. A NAV területi szervének vezetésében a NAV elnöke által kinevezett igazgatóhelyettes (igazgatóhelyettesek) vehet (vehetnek) részt.
 
 (2) A megyei igazgatóságok kirendeltségének operatív vezetését főosztályvezető látja el, aki a kirendeltséghez telepített feladat- és hatáskör gyakorlója.
 
-10. § (1) A Központi Irányítás főigazgatója felett a kinevezési és felmentési jogkör kivételével a munkáltatói jogkört az állami adó- és vámhatóság vezetője gyakorolja.
+10. § (1) A NAV elnökhelyettesei felett a kinevezési és felmentési jogkör kivételével a munkáltatói jogkört a NAV elnöke gyakorolja.
 
-(2) A Központi Irányítás főigazgató-helyettesei felett a munkáltatói jogkört az állami adó- és vámhatóság vezetője gyakorolja.
+(2) A Bűnügyi Főigazgatóság főigazgatója, valamint főigazgató-helyettese felett a munkáltatói jogkört a NAV elnöke gyakorolja.
 
-(3) Az állami adó- és vámhatóság vezetőjének szakmai tevékenységét támogató szakfőigazgató felett a munkáltatói jogkört az állami adó- és vámhatóság vezetője gyakorolja. Az állami adó- és vámhatóság vezetője szakmai helyettesének szakmai tevékenységét támogató szakfőigazgatót – a szakmai helyettes javaslatára – az állami adó- és vámhatóság vezetője nevezi ki és menti fel, az egyéb munkáltatói jogokat az állami adó- és vámhatóság vezetőjének szakmai helyettese gyakorolja.
+(3)
 
-(4) Az igazgató felett a munkáltatói jogkört az állami adó- és vámhatóság vezetője gyakorolja.
+(4) Az igazgató felett a munkáltatói jogkört a NAV elnöke gyakorolja.
 
-(5) Az igazgatóhelyettes felett a kinevezési és felmentési jogkört az állami adó- és vámhatóság vezetője, az egyéb munkáltatói jogokat az igazgató gyakorolja.
+(5) Az igazgatóhelyettes felett a kinevezési és felmentési jogkört a NAV elnöke, az egyéb munkáltatói jogokat az igazgató gyakorolja.
 
 (6)
 
@@ -83,7 +79,7 @@ SZERVEN BELÜLI VEZETŐI IRÁNYÍTÁSA ÉS FELADATAI
 
 (5) A Bűnügyi Főigazgatóság felettes szerve – a (6) bekezdésben meghatározott kivétellel – a Központi Irányítás.
 
-(6) A Bűnügyi Főigazgatóság – a büntetőeljárásról szóló törvény szerinti – felettes szerve az állami adó- és vámhatóság vezetőjének a NAV bűnügyi, vámszakmai és rendészeti feladatai ellátásáért felelős szakmai helyettese.
+(6) A Bűnügyi Főigazgatóság – a büntetőeljárásról szóló törvény szerinti – felettes szerve NAV elnöke.
 
 (7)
 
@@ -114,7 +110,7 @@ megállapítása, beszedése, nyilvántartása, végrehajtása, visszatérítés
 - f) lefolytatja az adóigazgatási eljárás részletszabályairól szóló kormányrendelet szerinti központosított ellenőrzést,
 - g) az állományába tartozók részére egészségmegőrzési, egészségügyi, szociális és kulturális feladatokat lát el,
 - h) a foglalkoztatottai részére ellátja a munkavégzésükhöz szükséges képzés, továbbképzés megszervezését és lebonyolítását,
-- i) az informatikai rendszerek és az elektronikus ügyintézés fejlesztése érdekében gazdasági társaságot működtet, amelynél a tulajdonosi jogokat az állami adó- és vámhatóság vezetője gyakorolja,
+- i) az informatikai rendszerek és az elektronikus ügyintézés fejlesztése érdekében gazdasági társaságot működtet, amelynél a tulajdonosi jogokat a NAV elnöke gyakorolja,
 - j) végzi a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény rendelkezései betartásával kapcsolatos, feladatkörébe utalt ellenőrzési, hatósági felügyeleti feladatokat,
 - k) együttműködik a Magyar Szénhidrogén Készletező Szövetséggel a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény 46. § (1) bekezdésben meghatározott, a kiskereskedelmi és végfelhasználói töltőállomásokon a forgalmazott üzemanyagok ellenőrző jelölésének meglétével kapcsolatos feladat végrehajtásában,
 - l) végzi az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott feladatokat.
@@ -1361,7 +1357,7 @@ kezelheti.
 
 (2) A NAV által kezelt adatokat személyazonosításra alkalmatlan módon, történelmi kutatási, statisztikai vagy tudományos célra lehet felhasználni.
 
-(3) A kijelölt miniszter, az állami adó- és vámhatóság vezetője, az állami adó- és vámhatóság vezetőjének a NAV bűnügyi, vámszakmai és rendészeti feladatai ellátásáért felelős szakmai helyettese, továbbá a Bűnügyi Főigazgatóság vezetője a NAV által kezelt közérdekű adatok nyilvánosságra hozatalát bűnüldözési érdekből megtagadhatja.
+(3) A kijelölt miniszter, a NAV elnöke, a NAV bűnügyi tevékenységét felügyelő elnökhelyettes, továbbá a Bűnügyi Főigazgatóság vezetője a NAV által kezelt közérdekű adatok nyilvánosságra hozatalát bűnüldözési érdekből megtagadhatja.
 
 75. § (1) A NAV a Vízuminformációs Rendszerhez a törvény szerint hatáskörébe tartozó, az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 1. számú melléklete által meghatározott bűncselekmények megelőzése, felderítése, és nyomozása céljából, meghatározott egyedi ügyben betekintés céljából történő hozzáférést kezdeményezhet. A kezdeményezést a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az EUROPOL számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat (a továbbiakban: 2008/633/IB tanácsi határozat) szerinti kijelölt nemzeti központi hozzáférési ponthoz kell megtenni.
 
@@ -1401,8 +1397,8 @@ kezelheti.
 
 76. § (1) A NAV bűnüldözési célú adatkezelési rendszereibe csak
 
-- a) az állami adó- és vámhatóság vezetőjének a NAV bűnügyi, vámszakmai és rendészeti feladatai ellátásáért felelős szakmai helyettese,
-- b) a Központi Irányítás állományába tartozó, az állami adó- és vámhatóság vezetőjének a NAV bűnügyi, vámszakmai és rendészeti feladatai ellátásáért felelős szakmai helyettese által erre eseti jelleggel vagy tartósan felhatalmazott személy,
+- a) a NAV elnöke vagy a NAV bűnügyi tevékenységét felügyelő elnökhelyettes,
+- b) a Központi Irányítás állományába tartozó, a NAV elnöke vagy a NAV bűnügyi tevékenységét felügyelő elnökhelyettes által erre eseti jelleggel vagy tartósan felhatalmazott személy,
 - c) a Bűnügyi Főigazgatóság és a NAV nyomozó hatósági feladatait ellátó területi szerveinek bűnüldözési feladatokat irányító vezetői,
 - d) a pénzügyi nyomozók,
 - e) a Bűnügyi Főigazgatóság és a NAV nyomozó hatósági feladatait ellátó területi szerveinek bűnüldözési feladatokat irányító vezetői által kijelölt, e szervek állományába tartozó más személy,
@@ -1455,7 +1451,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 (4) A NAV a dohánytermékek nyomonkövethetőségi rendszerének létrehozására és működtetésére vonatkozó műszaki előírásokról szóló 2017. december 15-i 2018/574 bizottsági végrehajtási rendelet 25. cikk k) pontja szerinti nemzeti rendszergazda feladatkörében ellátja a dohánytermékek nyomonkövethetőségi rendszerével kapcsolatos személyes és egyéb adatokra vonatkozó adatkezelői és adatfeldolgozói feladatokat.
 
-78/A. § A NAV biztonsági feladatokat ellátó szervezeti egységének munkatársa célhozkötötten, az állami adó- és vámhatóság vezetője által meghatározottak szerint a NAV által kezelt adatokba – figyelemmel a 76. § (1) bekezdés b) pontjára is – betekinthet, egyedi adatkezelést végezhet.
+78/A. § A NAV biztonsági feladatokat ellátó szervezeti egységének munkatársa célhozkötötten, a NAV elnöke által meghatározottak szerint a NAV által kezelt adatokba – figyelemmel a 76. § (1) bekezdés b) pontjára is – betekinthet, egyedi adatkezelést végezhet.
 
 78/B. § Ha a NAV a kezelésében lévő létesítmény rendjének és jogszerű működésének védelme és az abban tartózkodók biztonsága érdekében képfelvevőt helyez el és felvételt készít, a képfelvevőt kizárólag a létesítmény területét határoló külső falakon, kapuknál és kerítésen, valamint a létesítmény folyosóin, ügyfélterében – az emberi méltóság védelme érdekében megfigyelés elől elzárt területeket kivéve – helyezhet el és képfelvételt kizárólag e területekről készíthet. A NAV köteles figyelmeztető jelzést elhelyezni arról a tényről, hogy az adott területen képfelvételt készít, továbbá köteles a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendeletben (általános adatvédelmi rendelet) meghatározott tartalommal összeállított tájékoztatót a felvétel készítésének helyszínén, továbbá a honlapján bárki számára hozzáférhető módon közzétenni. Az e § alapján készített, rögzített felvételre, illetve az abban szereplő személyes adatra a 36/O. § (3) és (4) bekezdését valamint a 36/P. § rendelkezéseit kell alkalmazni.
 
@@ -1698,7 +1694,15 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 (2) A titkos információgyűjtés szabályainak az új büntetőeljárási törvénnyel összefüggő, továbbá a bírósági végrehajtás során a sértettnek megítélt polgári jogi követelések kielégítési sorrendjére vonatkozó rendelkezések módosításáról szóló 2017. évi XCIII. törvény hatálybalépésekor folyamatban lévő, az e törvény 2018. június 30-ig hatályban volt rendelkezései alapján végzett titkos információgyűjtés esetén a NAV titkos információgyűjtést folytató szerve 2019. január 1-ig döntést hoz arról, hogy a büntetőeljárásról szóló törvény szerinti előkészítő eljárást kezdeményez-e vagy feljelentést tesz-e.
 
-#### 103/B. §
+103/B. § (1) Az állami adó- és vámhatóság vezetőjének szakmai helyettesi tisztségét 2022. július 31-én betöltő helyettes államtitkár (e § alkalmazásában a továbbiakban: szakmai helyettes) helyettes államtitkári megbízatása 2022. augusztus 1-jén a törvény erejénél fogva megszűnik.
+
+(2) A szakmai helyettes kormányzati szolgálati jogviszonya 2022. augusztus 1-jén adó- és vámhatósági szolgálati jogviszonnyá alakul át.
+
+(3) Az állami adó- és vámhatóság vezetője szakmai helyetteseinek helyettes államtitkári megbízatásának az (1) bekezdés alapján történő megszűnésének tényét a kijelölt miniszter előterjesztésére a miniszterelnök állapítja meg.
+
+(4) 2022. augusztus 1-jétől a szakmai helyettes a NAV elnökhelyettese. Az elnökhelyettes jogviszonyát folyamatosnak kell tekinteni.
+
+(5) A szakmai helyettes a jogviszonyának e törvény alapján történő megszűnésére tekintettel a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 239. §-a és 240. §-a szerinti juttatásra nem jogosult.
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 

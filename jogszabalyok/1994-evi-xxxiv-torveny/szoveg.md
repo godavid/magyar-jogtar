@@ -2221,7 +2221,7 @@ bírálja el.
 - a) kijelölje az általános rendőrségi feladatok ellátására létrehozott szerv központi szervét,
 - b) rendőr-főkapitányságokat, rendőrkapitányságokat, kirendeltségeket, valamint szükség szerint más rendőri szerveket hozzon létre vagy szüntessen meg,
 - c) meghatározza a rendőrség szerveinek feladatát és hatáskörét,
-- d) meghatározza a közbiztonságra veszélyt jelentő egyes eszközök és anyagok, valamint a polgári felhasználású robbanóanyagok gyártására, forgalmazására, szállítására, tárolására, birtoklására és használatára vonatkozó szabályokat,
+- d) meghatározza a közbiztonságra veszélyt jelentő egyes eszközök és anyagok gyártására, forgalmazására, szállítására, tárolására, birtoklására és használatára, valamint a polgári felhasználású robbanóanyagok szállítására és belföldi átadására vonatkozó szabályokat,
 - e) meghatározza a személyes javak rendőri intézkedés keretében történő igénybevételével és a kártalanítással kapcsolatos eljárás szabályait,
 - f) meghatározza a rendőrség ellenérték fejében végezhető szolgáltató tevékenységének körét,
 - g) meghatározza a megelőző-védelemmel, személybiztosítással és objektumvédelemmel kapcsolatos szabályokat,

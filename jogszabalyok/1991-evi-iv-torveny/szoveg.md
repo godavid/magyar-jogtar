@@ -62,7 +62,7 @@ A munka és a foglalkozás szabad megválasztásához való jog gyakorlásának 
 (4) Felhatalmazást kap a Kormány, hogy
 
 - a) rendeletben a szabad mozgás és tartózkodás jogával rendelkező, valamint az (1) bekezdésben meghatározott engedély alól mentes személy magyarországi foglalkoztatása tekintetében bejelentési kötelezettséget írjon elő, továbbá
-- b) az (1) bekezdés b) pontjában meghatározott engedély tekintetében
+- b) az (1) bekezdésben meghatározott engedélyek tekintetében
   - ba) Magyarország nemzetközi kötelezettségeire, a harmadik országbeli állampolgár személyi, családi és egyéb körülményeire figyelemmel, valamint munkaerő-piaci szempontok alapján egyes tevékenységeket érintően, az engedélyezési kötelezettség alóli mentesség eseteit, valamint
   - bb) az engedély kiadásának részletes eljárási szabályait,
 - c) azokat a foglalkoztatási ágazatokat, amelyekben végzett tevékenységet szezonális munkának kell tekinteni – a Nemzeti Gazdasági és Társadalmi Tanácsban folytatott konzultációt követően –
@@ -532,7 +532,7 @@ időtartamával.
 - b) a szociális hozzájárulási adónak a központi költségvetésről szóló törvényben meghatározott százaléka.
 - c)
 - d)
-- e) a szakképzési hozzájárulás;
+- e)
 - f) a központi költségvetési támogatás;
 - g) az állami foglalkoztatási szervek közreműködésével, uniós források bevonásával megvalósuló programok, támogatások, valamint járulékátvállalás végrehajtása érdekében befolyó bevételek;
 - h)
@@ -591,7 +591,7 @@ időtartamával.
 
 (5)
 
-41. § (1) Az Alap képzési alaprészének forrása a szakképzési hozzájárulás, valamint az alaprész javára teljesített visszafizetések, önkéntes befizetések, támogatások, továbbá működésével összefüggő bevételek.
+41. § (1)
 
 (2) Az állami foglalkoztatási szervek közreműködésével, az Európai Globalizációs Alkalmazkodási Alap bevonásával megvalósuló programok tekintetében az Alap a támogatásokat elő- és társfinanszírozza. Az előfinanszírozott összeget terheli az Európai Globalizációs Alap által meg nem térített kiadás.
 
