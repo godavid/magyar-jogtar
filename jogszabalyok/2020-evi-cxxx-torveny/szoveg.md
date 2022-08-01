@@ -72,7 +72,7 @@ is alkalmazni kell.
 - 27. pénzügyőri munkakör: a miniszteri rendeletben meghatározott azon munkakör, amelyre az ellátandó feladatok szolgálati jellegére tekintettel kizárólag pénzügyőri státuszú szolgálati jogviszony létesíthető;
 - 28. szervezeti egység: a szerv azon szervezeti eleme, amelyet osztályvezető (ideértve az osztályt vezető főosztályvezető-helyettest is), illetve főosztályvezető vezet, valamint a kirendeltség;
 - 29. szolgálati érdek: a NAV vagy annak valamely szervének, szervezeti egységének jogszerű, rendeltetésszerű és eredményes működéséhez, jogszabályban vagy közjogi szervezetszabályozó eszközben meghatározott feladatainak teljesítéséhez szükséges vagy azt meghatározó módon befolyásoló személyi feltétel vagy körülmény;
-- 30. szolgálati jogviszonyra vonatkozó szabály: az e törvényben, valamint e törvény végrehajtására kiadott rendeletben, továbbá az e törvényben meghatározott tárgykörökben a NAV vezetője által szabályzatban meghatározott rendelkezés;
+- 30. szolgálati jogviszonyra vonatkozó szabály: az e törvényben, valamint e törvény végrehajtására kiadott rendeletben, továbbá az e törvényben meghatározott tárgykörökben a NAV elnöke által szabályzatban meghatározott rendelkezés;
 - 31. szolgálati nyugdíjas: a NAV vagy jogelődje pénzügyőri állományából nyugállományba került, a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny.) szerinti öregségi nyugdíjban részesülő vagy a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény (a továbbiakban: Knytv.) szerinti szolgálati járandóságban részesülő személy, valamint a hivatásos vagy pénzügyőri állomány azon korábbi tagja, akinek a szolgálati viszonya 2012. január 1-je előtt rokkantsági nyugállományba helyezés miatt szűnt meg;
 - 32. szülő:
   - a) a vér szerinti és az örökbefogadó szülő, továbbá a szülővel együttélő házastárs,
@@ -155,7 +155,7 @@ vonatkozó rendelkezések alkalmazásában.
 
 (3) A hivatali rendet és a fegyelmet veszélyeztető sajtóterméket a foglalkoztatott nem állíthat elő és nem terjeszthet, ilyen tartalmú plakátot, hirdetményt vagy emblémát nem függeszthet ki.
 
-(4) A NAV vezetője közjogi szervezetszabályozó eszközben megtilthatja, hogy a foglalkoztatott az internetes felületen magánszemélyként való megnyilvánulásakor, magánvélemény nyilvánításakor a NAV személyi állományába tartozására vonatkozó adatot hozzon nyilvánosságra.
+(4) A NAV elnöke közjogi szervezetszabályozó eszközben megtilthatja, hogy a foglalkoztatott az internetes felületen magánszemélyként való megnyilvánulásakor, magánvélemény nyilvánításakor a NAV személyi állományába tartozására vonatkozó adatot hozzon nyilvánosságra.
 
 (5) Az érdekképviseleti szervek – tevékenységi körükbe tartozó – hirdetményei a helyben szokásos módon nyilvánosságra hozhatók.
 
@@ -195,13 +195,13 @@ A foglalkoztatott köteles megtartani a feladatai ellátásával összefüggésb
 
 #### 13. § [Feladatellátás során birtokban tartható vagyontárgyak korlátozása]
 
-A NAV vezetője, vagy a munkáltatói jogkör gyakorlója munkabiztonsági okból vagy a munkavégzés rendjének fenntartása és ellenőrizhetősége érdekében, valamint integritási érdekből megtilthatja, hogy a foglalkoztatott a munkavégzés során a miniszteri rendeletben meghatározott egyes vagyontárgyakat, magáncélú telekommunikációs eszközöket, valamint meghatározott összeget meghaladó készpénzt vagy – a bankkártya kivételével – a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti készpénz-helyettesítő fizetési eszközt magánál tartson, továbbá korlátozhatja a magáncélú telekommunikációs eszközöknek a munkavégzés során történő használatát.
+A NAV elnöke, vagy a munkáltatói jogkör gyakorlója munkabiztonsági okból vagy a munkavégzés rendjének fenntartása és ellenőrizhetősége érdekében, valamint integritási érdekből megtilthatja, hogy a foglalkoztatott a munkavégzés során a miniszteri rendeletben meghatározott egyes vagyontárgyakat, magáncélú telekommunikációs eszközöket, valamint meghatározott összeget meghaladó készpénzt vagy – a bankkártya kivételével – a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti készpénz-helyettesítő fizetési eszközt magánál tartson, továbbá korlátozhatja a magáncélú telekommunikációs eszközöknek a munkavégzés során történő használatát.
 
 ### III. Fejezet — JOGNYILATKOZATOK
 
 #### 14. § [Egyoldalú jognyilatkozatok]
 
-(1) Egyoldalú jognyilatkozatból csak az e törvényben, e törvény felhatalmazása alapján más jogszabályban, illetve a NAV vezetője által kiadott szabályzatban meghatározott esetben származhatnak jogok vagy kötelezettségek.
+(1) Egyoldalú jognyilatkozatból csak az e törvényben, e törvény felhatalmazása alapján más jogszabályban, illetve a NAV elnöke által kiadott szabályzatban meghatározott esetben származhatnak jogok vagy kötelezettségek.
 
 (2) Az egyoldalú jognyilatkozat a címzettel való közléssel válik hatályossá, és – e törvény eltérő rendelkezésének hiányában – csak a címzett hozzájárulásával módosítható, vagy vonható vissza.
 
@@ -370,19 +370,19 @@ A NAV vezetője, vagy a munkáltatói jogkör gyakorlója munkabiztonsági okbó
 
 #### 25. § [A munkáltatói jogkör gyakorlása]
 
-(1) A foglalkoztatott felett a munkáltatói jogokat a Kormány nevében – e törvény vagy a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény eltérő rendelkezése hiányában – annak a NAV szervnek a vezetője gyakorolja, amelynek állományába a foglalkoztatott tartozik. A NAV Központi Irányítása állományába tartozó foglalkoztatott tekintetében a munkáltatói jogokat a NAV vezetője gyakorolja. Törvény eltérő rendelkezése hiányában a munkáltatói jogkör gyakorlása vezetői munkakört betöltő foglalkoztatottra a NAV szervezeti és működési szabályzatában, illetve a foglalkoztató NAV szerv ügyrendjében, vagy egyedi ügyben írásban átruházható. Az átruházott munkáltatói jogkör nem ruházható tovább.
+(1) A foglalkoztatott felett a munkáltatói jogokat a Kormány nevében – e törvény vagy a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény eltérő rendelkezése hiányában – annak a NAV szervnek a vezetője gyakorolja, amelynek állományába a foglalkoztatott tartozik. A NAV Központi Irányítása állományába tartozó foglalkoztatott tekintetében a munkáltatói jogokat a NAV elnöke gyakorolja. Törvény eltérő rendelkezése hiányában a munkáltatói jogkör gyakorlása vezetői munkakört betöltő foglalkoztatottra a NAV szervezeti és működési szabályzatában, illetve a foglalkoztató NAV szerv ügyrendjében, vagy egyedi ügyben írásban átruházható. Az átruházott munkáltatói jogkör nem ruházható tovább.
 
-(2) A NAV vezetője bármely foglalkoztatott esetében magához vonhatja a munkáltatói jogkört, vagy annak egy részét. A munkáltatói jogkör elvonásáról az eredeti munkáltatói jogkör gyakorlóját és a foglalkoztatottat értesíteni kell.
+(2) A NAV elnöke bármely foglalkoztatott esetében magához vonhatja a munkáltatói jogkört, vagy annak egy részét. A munkáltatói jogkör elvonásáról az eredeti munkáltatói jogkör gyakorlóját és a foglalkoztatottat értesíteni kell.
 
 (3) Ha a munkáltatói jogkört nem az arra jogosított személy gyakorolta, eljárása érvénytelen, kivéve, ha a munkáltatói jogkör gyakorlója a jognyilatkozatot annak kiadása után hat hónapon belül, vagy az érvénytelenségre irányuló észrevétel munkáltatói jogkör gyakorlója általi tudomásul vételétől számított harminc napon belül írásban jóváhagyta.
 
 #### 26. § [Kiemelt munkáltatói jogkörök]
 
-A pénzügyőrök tekintetében a NAV irányítására kijelölt miniszter (a továbbiakban: miniszter) vagy a NAV vezetője hatáskörébe utalt kiemelt munkáltatói jogköröket az 1. melléklet tartalmazza. A NAV vezetője a hatáskörébe tartozó kiemelt munkáltatói jogkörének gyakorlását írásban átruházhatja az általa kijelölt vezetőre. Az átruházott kiemelt munkáltatói jogkör nem ruházható tovább.
+A pénzügyőrök tekintetében a NAV irányítására kijelölt miniszter (a továbbiakban: miniszter) vagy a NAV elnöke hatáskörébe utalt kiemelt munkáltatói jogköröket az 1. melléklet tartalmazza. A NAV elnöke a hatáskörébe tartozó kiemelt munkáltatói jogkörének gyakorlását írásban átruházhatja az általa kijelölt vezetőre. Az átruházott kiemelt munkáltatói jogkör nem ruházható tovább.
 
 #### 27. § [Tábornok szolgálati jogviszonyával kapcsolatos döntések]
 
-(1) A tábornoki rendfokozati állománycsoportba tartozó pénzügyőri státuszú foglalkoztatott (a továbbiakban: tábornok) szolgálati jogviszonyának létesítéséről, megszüntetéséről, a tábornoki rendfokozati állománycsoportba tartozó rendfokozatba történő kinevezésről vagy előléptetésről, a tábornoki rendfokozat visszavonásáról, továbbá a tábornokra vonatkozó rendfokozatot vagy szolgálati jogviszonyt érintő fegyelmi büntetés kiszabásáról – a NAV vezetője által lefolytatott fegyelmi eljárást követően – a miniszter javaslatára a köztársasági elnök dönt.
+(1) A tábornoki rendfokozati állománycsoportba tartozó pénzügyőri státuszú foglalkoztatott (a továbbiakban: tábornok) szolgálati jogviszonyának létesítéséről, megszüntetéséről, a tábornoki rendfokozati állománycsoportba tartozó rendfokozatba történő kinevezésről vagy előléptetésről, a tábornoki rendfokozat visszavonásáról, továbbá a tábornokra vonatkozó rendfokozatot vagy szolgálati jogviszonyt érintő fegyelmi büntetés kiszabásáról – a NAV elnöke által lefolytatott fegyelmi eljárást követően – a miniszter javaslatára a köztársasági elnök dönt.
 
 (2) A miniszternek a tábornok szolgálati jogviszonyának megszüntetésére, valamint rendfokozatát vagy szolgálati jogviszonyát érintő fegyelmi büntetés kiszabására vonatkozó előterjesztését haladéktalanul közölni kell a tábornokkal.
 
@@ -459,7 +459,7 @@ magyar állampolgárral létesíthető és tartható fenn.
 
 (6) Jogszabály vagy jogszabály által meghatározott esetben a munkáltatói jogkör gyakorlója a szolgálati jogviszony létesítését az (1) bekezdésben foglaltakon túlmenően meghatározott iskolai végzettséghez és szakképzettséghez, szakképesítéshez, munkaköri követelményhez, illetve gyakorlati idő letöltéséhez, képességhez, valamint egészségi, pszichológiai, fizikai alkalmassághoz kötheti.
 
-(7) Nem nevezhető ki foglalkoztatottnak az öregségi nyugdíjra való jogosultsággal rendelkező személy, kivéve, ha a Kormány a NAV vezetőjének kérelmére hozzájárul a foglalkoztatott kinevezéséhez.
+(7) Nem nevezhető ki foglalkoztatottnak az öregségi nyugdíjra való jogosultsággal rendelkező személy, kivéve, ha a Kormány a NAV elnökének kérelmére hozzájárul a foglalkoztatott kinevezéséhez.
 
 (8) Az e törvényben meghatározott alkalmazási feltételek alól felmentés nem adható. A foglalkoztatottnak a szolgálati jogviszony teljes időtartama alatt meg kell felelnie az e törvényben meghatározott alkalmazási feltételeknek. Ha a foglalkoztatott a (2) bekezdés szerinti büntetőeljárás hatálya alá kerül, a munkáltatói jogkör gyakorlója köteles méltatlansági eljárást indítani. Ha a foglalkoztatottal szemben távoltartás, bűnügyi felügyelet vagy letartóztatás kényszerintézkedést is elrendeltek, a munkáltatói jogkör gyakorlója a méltatlanságot külön eljárás nélkül hozott határozatban is megállapíthatja.
 
@@ -542,7 +542,7 @@ a munkáltatói jogkör gyakorlója – mérlegelése alapján – a foglalkozta
 (2) Az elvégzett vizsgálat eredménye alapján azt, hogy a kifogásolható életvitelt megalapozó, a 34. § (5) bekezdésében meghatározott feltételek fennállnak-e,
 
 - a) a pénzügyőr esetében a munkáltatói jogkör gyakorlója,
-- b) a tisztjelölt esetében a NAV vezetője,
+- b) a tisztjelölt esetében a NAV elnöke,
 - c) a jelentkező esetében az Alkotmányvédelmi Hivatal
 
 állapítja meg.
@@ -553,7 +553,7 @@ a munkáltatói jogkör gyakorlója – mérlegelése alapján – a foglalkozta
 
 (5) Ha a munkáltatói jogkör gyakorlója megállapítja, hogy a pénzügyőr életvitele nem kifogástalan, e törvény szerint intézkedik a szolgálati jogviszony megszüntetése érdekében.
 
-(6) A (3)–(5) bekezdésben foglaltakat a tisztjelöltekre is alkalmazni kell azzal, hogy esetükben az ellenőrzés megállapításai alapján a NAV vezetője dönt a jogkövetkezményekről.
+(6) A (3)–(5) bekezdésben foglaltakat a tisztjelöltekre is alkalmazni kell azzal, hogy esetükben az ellenőrzés megállapításai alapján a NAV elnöke dönt a jogkövetkezményekről.
 
 (7) Az Alkotmányvédelmi Hivatalt a NAV az erről szóló döntés meghozatalától számított nyolc napon belül tájékoztatja arról, hogy a jelentkezővel létesült-e szolgálati jogviszony. A keletkezett iratokat, adatokat – a kifogástalan életvitel ellenőrzését elrendelő és befejező határozatot kivéve – meg kell semmisíteni, ha
 
@@ -665,7 +665,7 @@ azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiál
 
 #### 42. § [Speciális kinevezési szabályok]
 
-(1) Ha a kinevezés a miniszter vagy a NAV vezetője hatáskörébe tartozik, a pénzügyőri állományba vételt és rendfokozatba kinevezést a miniszter vagy a NAV vezetője, egyéb, a munkakörbe helyezéssel kapcsolatos rendelkezést a munkáltatói jogkör gyakorlójának munkáltatói intézkedése tartalmazza.
+(1) Ha a kinevezés a miniszter vagy a NAV elnöke hatáskörébe tartozik, a pénzügyőri állományba vételt és rendfokozatba kinevezést a miniszter vagy a NAV elnöke, egyéb, a munkakörbe helyezéssel kapcsolatos rendelkezést a munkáltatói jogkör gyakorlójának munkáltatói intézkedése tartalmazza.
 
 (2) Szolgálati jogviszony a kinevezési okmányban felsorolt, változó munkavégzési helyen történő munkavégzésre is létesíthető.
 
@@ -711,7 +711,7 @@ Isten engem úgy segéljen!”
 
 #### 45. § [Toborzási adatbázis adataihoz való hozzáférés]
 
-(1) A NAV vezetője a betöltetlen munkakör betöltése céljából a Kit.-ben foglaltak szerint működtetett toborzási adatbázisban nyilvántartott személyek egyéni azonosításra alkalmas módon nyilvántartott adataihoz közvetlenül hozzáférhet.
+(1) A NAV elnöke a betöltetlen munkakör betöltése céljából a Kit.-ben foglaltak szerint működtetett toborzási adatbázisban nyilvántartott személyek egyéni azonosításra alkalmas módon nyilvántartott adataihoz közvetlenül hozzáférhet.
 
 (2) Az (1) bekezdés alapján megismert személyes adatokat a NAV a szolgálati jogviszony létesítéséről meghozott döntés időpontjáig vagy – szolgálati jogviszony létesítése és fennállása esetén – a szolgálati jogviszony megszűnéséig (megszüntetéséig) kezeli.
 
@@ -860,7 +860,7 @@ köteles foglalkoztatni. Ezt követően a foglalkoztatott munkaidejét a kérele
 
 #### 54. § [Kirendelés, vezénylés más szervhez]
 
-(1) A foglalkoztatott kormányzati, rendvédelmi vagy egyéb biztonsági érdekből a miniszter, a más szervet irányító vagy vezető miniszter, a más szerv és a NAV vezetőjének megállapodása alapján – beleegyezésével – munkakör vagy meghatározott feladat ellátására más szervhez kirendelhető, illetve vezényelhető.
+(1) A foglalkoztatott kormányzati, rendvédelmi vagy egyéb biztonsági érdekből a miniszter, a más szervet irányító vagy vezető miniszter, a más szerv és a NAV elnökének megállapodása alapján – beleegyezésével – munkakör vagy meghatározott feladat ellátására más szervhez kirendelhető, illetve vezényelhető.
 
 (2) A más szervhez kirendelés, vezénylés legfeljebb öt évre szól. A más szervhez kirendelés, vezénylés leteltét követően újabb más szervhez kirendelésre, vezénylésre akkor kerülhet sor, ha a foglalkoztatott a más szervhez kirendelés, vezénylés megszűnése után legalább a kirendeléssel, vezénylésével megegyező időtartamban a NAV-nál került foglalkoztatásra.
 
@@ -888,7 +888,7 @@ köteles foglalkoztatni. Ezt követően a foglalkoztatott munkaidejét a kérele
 
 (7) Ha a munkáltatói vagy foglalkoztatotti károkozás, illetve a személyiségi jogi jogsértés a más szervnél történt, a kártérítéssel, illetve a sérelemdíjjal kapcsolatos munkáltatói jogkört a kirendelés, vezénylés helye szerinti más szerv munkáltatói jogkört gyakorló vezetője, parancsnoka gyakorolja a más szervnek az ellátott munkakör szerinti foglalkoztatottaira vonatkozó szabályok szerint.
 
-(8) A kirendelés, vezénylés időtartama alatt a szolgálati jogviszony megszüntetésére, a kinevezés tartalmának módosítására vonatkozó munkáltatói jogokat – a (9) bekezdés szerinti eltéréssel – az e törvényben meghatározottak szerint a miniszter, illetve a NAV vezetője gyakorolja.
+(8) A kirendelés, vezénylés időtartama alatt a szolgálati jogviszony megszüntetésére, a kinevezés tartalmának módosítására vonatkozó munkáltatói jogokat – a (9) bekezdés szerinti eltéréssel – az e törvényben meghatározottak szerint a miniszter, illetve a NAV elnöke gyakorolja.
 
 (9) A más szervhez kirendelt, vezényelt foglalkoztatott fegyelmi felelősségre vonására, illetve a vele szembeni méltatlansági eljárásra e törvénynek a fegyelmi, illetve a méltatlansági eljárásra vonatkozó szabályai és az ezen eljárásokra vonatkozó kormányrendelet szabályai az irányadók.
 
@@ -896,7 +896,7 @@ köteles foglalkoztatni. Ezt követően a foglalkoztatott munkaidejét a kérele
 
 #### 56. § [Más szervhez kirendelés, vezénylés megszüntetése]
 
-(1) A más szervhez kirendelés, vezénylés megszüntetésére a más szerv vezetőjének kezdeményezésére érdekmúlás miatt vagy a más szervhez kirendelt, vezényelt magatartására visszavezethető okból, valamint a foglalkoztatott kérelme alapján kerülhet sor. A szolgálat érdekére hivatkozva a más szervhez kirendelés, vezénylés megszüntetését a NAV vezetője is kezdeményezheti. A más szervhez kirendelésnek, vezénylésnek a más szerv működése érdekkörében felmerülő okból történő megszüntetése a más szerv vezetőjének kérésére legfeljebb két hónapra elhalasztható.
+(1) A más szervhez kirendelés, vezénylés megszüntetésére a más szerv vezetőjének kezdeményezésére érdekmúlás miatt vagy a más szervhez kirendelt, vezényelt magatartására visszavezethető okból, valamint a foglalkoztatott kérelme alapján kerülhet sor. A szolgálat érdekére hivatkozva a más szervhez kirendelés, vezénylés megszüntetését a NAV elnöke is kezdeményezheti. A más szervhez kirendelésnek, vezénylésnek a más szerv működése érdekkörében felmerülő okból történő megszüntetése a más szerv vezetőjének kérésére legfeljebb két hónapra elhalasztható.
 
 (2) A más szervhez kirendelés, vezénylés megszüntetése esetén a foglalkoztatott részére a NAV valamely szervénél – lehetőség szerint a más szervhez kirendelést, vezénylést megelőző munkavégzési helyen – a végzettségének, képzettségének megfelelő, de legalább a más szervhez kirendelést, vezénylést megelőző munkakörével azonos besorolású munkakört kell biztosítani.
 
@@ -924,7 +924,7 @@ kirendelheti, vezényelheti.
 
 #### 58. § [Kirendelés, vezénylés ügyészi szervezethez]
 
-(1) A foglalkoztatott – a munkaköre meghagyása mellett – a legfőbb ügyész kezdeményezésére, a NAV vezetőjének egyetértésével, meghatározott feladat ellátására, határozott időtartamra az ügyészi szervezethez kirendelhető, vezényelhető.
+(1) A foglalkoztatott – a munkaköre meghagyása mellett – a legfőbb ügyész kezdeményezésére, a NAV elnökének egyetértésével, meghatározott feladat ellátására, határozott időtartamra az ügyészi szervezethez kirendelhető, vezényelhető.
 
 (2) A foglalkoztatott ügyészi szervezethez kirendelésére, vezénylésére a más szervhez kirendelésre, vezénylésre vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
@@ -946,11 +946,11 @@ kirendelheti, vezényelheti.
 - b) nemzetközi kötelezettségvállalás alapján külföldi béketámogató, fegyveres vagy egyéb rendészeti misszióban való részvételre önkéntes jelentkezés alapján,
 - c) egyéb, Magyarország nemzetközi kötelezettségeinek ellátásához kapcsolódó feladatok ellátására,
 
-a NAV vezetője, tábornok esetén a miniszter külföldre vezényli a külföldi szolgálati tevékenység időtartamára, de legfeljebb három évre. A külföldre vezénylés egy alkalommal egy évvel meghosszabbítható.
+a NAV elnöke, tábornok esetén a miniszter külföldre vezényli a külföldi szolgálati tevékenység időtartamára, de legfeljebb három évre. A külföldre vezénylés egy alkalommal egy évvel meghosszabbítható.
 
 (2) Magyarországi munkavégzési hely esetén is a külföldre vezénylés szabályai szerint kell eljárni, ha a vezénylés az (1) bekezdés szerinti nemzetközi szervezethez, az ott meghatározott célból történik, és a nemzetközi szerv székhelye vagy telephelye Magyarországon van.
 
-(3) A pénzügyőrt nemzetközi kötelezettség teljesítése érdekében vagy megállapodás alapján három hónapot meg nem haladó időtartamra – a munkaköre meghagyásával – a NAV vezetője vezényli a külföldi szolgálatra.
+(3) A pénzügyőrt nemzetközi kötelezettség teljesítése érdekében vagy megállapodás alapján három hónapot meg nem haladó időtartamra – a munkaköre meghagyásával – a NAV elnöke vezényli a külföldi szolgálatra.
 
 (4) A pénzügyőrt a külföldi szolgálatra vezénylés előtt az ezzel járó sajátos szolgálati kötelezettségekről, ezek teljesítése feltételeiről és körülményeiről, a részére járó juttatásokról és egyéb jogosultságairól tájékoztatni kell.
 
@@ -968,7 +968,7 @@ a NAV vezetője, tábornok esetén a miniszter külföldre vezényli a külföld
 
 #### 61. § [A tartós külszolgálat]
 
-(1) Ágazati szakmai feladat, illetve e feladat támogatásának ellátása céljából a foglalkoztatott a külpolitikáért felelős miniszter, illetve az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztériumba, a Magyarország Állandó NATO Képviseletére, Magyarország Állandó EBESZ Képviseletére (a továbbiakban együtt: kihelyező szerv) a NAV vezetőjének döntése alapján – a kihelyező szervvel egyeztetve – a feladatellátáshoz szükséges határozott időre kirendelhető, illetve vezényelhető (a továbbiakban együtt: külszolgálati kirendelés).
+(1) Ágazati szakmai feladat, illetve e feladat támogatásának ellátása céljából a foglalkoztatott a külpolitikáért felelős miniszter, illetve az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztériumba, a Magyarország Állandó NATO Képviseletére, Magyarország Állandó EBESZ Képviseletére (a továbbiakban együtt: kihelyező szerv) a NAV elnökének döntése alapján – a kihelyező szervvel egyeztetve – a feladatellátáshoz szükséges határozott időre kirendelhető, illetve vezényelhető (a továbbiakban együtt: külszolgálati kirendelés).
 
 (2) A külszolgálati kirendelés idejére a foglalkoztatott a kihelyező szerv állományába kerül, kinevezési okiratát módosítani kell, a feladatellátás idejének leteltét követően a NAV állományába visszakerül.
 
@@ -990,9 +990,9 @@ a NAV vezetője, tábornok esetén a miniszter külföldre vezényli a külföld
 
 (5) Az (1) bekezdés szerinti programban egyes részfeladatok végrehajtásáért felelős szakértőként részt vevő, a megvalósítás időtartama alatt esetileg a kedvezményezett országban tartózkodó foglalkoztatottra a (3) bekezdést nem kell alkalmazni.
 
-#### 63. § [Szolgálati jogviszony szünetelése NAV vezetőjévé vagy szakmai helyettesévé történő kinevezés esetén]
+#### 63. § [Szolgálati jogviszony szünetelése NAV elnökévé történő kinevezés esetén]
 
-(1) Ha a foglalkoztatottat a NAV vezetőjévé vagy szakmai helyettesévé nevezik ki, a kinevezéstől e megbízatás megszűnéséig szünetel a szolgálati jogviszonya.
+(1) Ha a foglalkoztatottat a NAV elnökévé nevezik ki, a kinevezéstől e megbízatás megszűnéséig szünetel a szolgálati jogviszonya.
 
 (2) A szünetelés megszűnését követően a foglalkoztatott részére végzettségének megfelelő munkakört kell felajánlani. Az érintett a felajánlott munkakör elfogadásáról vagy elutasításáról a felajánlástól számított öt munkanapon belül írásban nyilatkozik.
 
@@ -1035,7 +1035,7 @@ a NAV vezetője, tábornok esetén a miniszter külföldre vezényli a külföld
 
 (3) A foglalkoztatott az (1) bekezdés e) pontjában meghatározott kérelmét a rá irányadó öregségi nyugdíjkorhatár betöltésének napját megelőző harmadik hónap utolsó napjáig írásban nyújthatja be a munkáltatói jogkör gyakorlójához. A határidő elmulasztása miatt igazolás benyújtásának nincs helye, ebben az esetben a foglalkoztatott jogviszonya annak a hónapnak az utolsó napján szűnik meg, amikor a foglalkoztatott a rá irányadó öregségi nyugdíjkorhatárt betöltötte és az öregségi teljes nyugdíjhoz szükséges szolgálati időt megszerezte.
 
-(4) Ha a NAV vezetője egyetért a foglalkoztatott jogviszonyának fenntartásával, kikéri a Kormány véleményét a foglalkoztatott jogviszonyának (1) bekezdés e) pontja szerinti fenntartásáról.
+(4) Ha a NAV elnöke egyetért a foglalkoztatott jogviszonyának fenntartásával, kikéri a Kormány véleményét a foglalkoztatott jogviszonyának (1) bekezdés e) pontja szerinti fenntartásáról.
 
 (5) Az (1) bekezdés e) pontjában meghatározottak szerint a munkáltatói jogkör gyakorlója akkor tarthatja fenn a jogviszonyt, ha a Kormány egyetért a jogviszony fenntartásával. A Kormány véleménye köti a munkáltatói jogkör gyakorlóját a döntésének meghozatalában.
 
@@ -1254,7 +1254,7 @@ időtartama alatt.
 
 (1) A foglalkoztatott, a munkáltatói jogkör gyakorlója, valamint a Kttv. szerinti kormányzati szolgálati, hivatásos szolgálati, rendvédelmi igazgatási szolgálati, közszolgálati, közalkalmazotti, honvédelmi alkalmazotti jogviszony létrehozására feljogosított munkáltatói szerv vezetője megállapodhatnak a foglalkoztatott kormányzati szolgálati, hivatásos szolgálati, rendvédelmi igazgatási szolgálati, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti szolgálati, honvédelmi alkalmazotti jogviszonyba történő áthelyezésében.
 
-(2) A foglalkoztatott beleegyezése esetén – a miniszter és a honvédelemért felelős miniszter, vagy a NAV vezetője és a Magyar Honvédség parancsnokának döntése alapján – a Magyar Honvédség állományába áthelyezhető.
+(2) A foglalkoztatott beleegyezése esetén – a miniszter és a honvédelemért felelős miniszter, vagy a NAV elnöke és a Magyar Honvédség parancsnokának döntése alapján – a Magyar Honvédség állományába áthelyezhető.
 
 (3) Az áthelyezéshez történő hozzájárulást a NAV nem tagadhatja meg, ha a megkeresés kézhezvétele és az áthelyezés kért időpontja közötti időtartam a két hónapot meghaladja.
 
@@ -1299,7 +1299,7 @@ időtartama alatt.
 
 (4) A fogyatékossággal élő, illetve a megváltozott munkaképességű foglalkoztatott foglalkoztatása során a foglalkoztató NAV szervnek gondoskodnia kell az észszerű alkalmazkodás feltételeinek biztosításáról.
 
-(5) A NAV vezetője köteles az e törvényben meghatározott kérdésekben, valamint az általános munkáltatói szabályozási hatáskörébe tartozó kérdésekben foglalkoztatási szabályzatot kiadni.
+(5) A NAV elnöke köteles az e törvényben meghatározott kérdésekben, valamint az általános munkáltatói szabályozási hatáskörébe tartozó kérdésekben foglalkoztatási szabályzatot kiadni.
 
 #### 79. § [Szavazati jog gyakorlásának biztosítása]
 
@@ -1331,7 +1331,7 @@ időtartama alatt.
 
 (3) Az (1) bekezdés c) pontja, illetve a (2) bekezdés b) pontja szerinti vizsgálat során keletkezett adatok kizárólag fegyelmi, büntető-, méltatlansági vagy kártérítési eljárás során használhatóak fel. Abban az esetben, ha a vizsgálat befejezését követő három hónapon belül fegyelmi, büntető-, méltatlansági vagy kártérítési eljárás nem indul, a vizsgálat során keletkezett adatokat törölni kell.
 
-(4) A miniszter rendeletben határozza meg azokat a fertőző betegségeket, amelyek esetében a munkakörhöz vagy egyes munkaköri feladatokhoz kapcsolódóan – így különösen a külföldi szolgálat végrehajtása során – a pénzügyőr vagy pénzügyőrök egyes csoportjainak egészségét és biztonságát veszélyeztető biológiai kóroki tényező kockázatának elkerülése érdekében kötelező védőoltás elrendelésének van helye. A kötelező védőoltást a NAV egészségügyi szakfeladatainak ellátásáért felelős vezető javaslatára a NAV vezetője rendeli el. A NAV vezetője által elrendelt kötelező védőoltás alól az Eütv. 58. § (3) bekezdése szerinti mentesítést a védőoltásra kötelezett pénzügyőr, törvényes képviselője vagy kezelőorvosa a NAV egészségügyi szakfeladatainak ellátásáért felelős vezetőnél kezdeményezheti.
+(4) A miniszter rendeletben határozza meg azokat a fertőző betegségeket, amelyek esetében a munkakörhöz vagy egyes munkaköri feladatokhoz kapcsolódóan – így különösen a külföldi szolgálat végrehajtása során – a pénzügyőr vagy pénzügyőrök egyes csoportjainak egészségét és biztonságát veszélyeztető biológiai kóroki tényező kockázatának elkerülése érdekében kötelező védőoltás elrendelésének van helye. A kötelező védőoltást a NAV egészségügyi szakfeladatainak ellátásáért felelős vezető javaslatára a NAV elnöke rendeli el. A NAV elnöke által elrendelt kötelező védőoltás alól az Eütv. 58. § (3) bekezdése szerinti mentesítést a védőoltásra kötelezett pénzügyőr, törvényes képviselője vagy kezelőorvosa a NAV egészségügyi szakfeladatainak ellátásáért felelős vezetőnél kezdeményezheti.
 
 (5) A védőoltásra kötelezett pénzügyőr a védőoltásra kötelezéssel kapcsolatban a védőoltás beadására halasztó hatályú kifogást terjeszthet elő a miniszteri rendeletben meghatározott szabályok szerint. A kifogás elbírálásáig az egészséget veszélyeztető biológiai kóroki tényező kockázatának elkerülése érdekében a pénzügyőr nem kötelezhető olyan feladat ellátására, amelyre tekintettel a védőoltás beadását elrendelték.
 
@@ -1538,7 +1538,7 @@ időtartama alatt.
 - g) lehet felsőoktatási intézmény oktatási feladatokat is ellátó belső szervezeti egységének vezetője,
 - h) folytathat mezőgazdasági őstermelői tevékenységet.
 
-(5) A foglalkoztatott – ideértve a vezetői munkakört betöltő foglalkoztatottat is – a NAV vezetőjének előzetes engedélyével gazdasági társaságnál vezető tisztségviselő, illetve felügyelőbizottsági tag lehet, feltéve, ha
+(5) A foglalkoztatott – ideértve a vezetői munkakört betöltő foglalkoztatottat is – a NAV elnökének előzetes engedélyével gazdasági társaságnál vezető tisztségviselő, illetve felügyelőbizottsági tag lehet, feltéve, ha
 
 - a) a gazdasági társaság önkormányzati, köztestületi többségi tulajdonban van,
 - b) a gazdasági társaság állami alapító vagy az általa létrehozott szervezet által önállóan, vagy más állami alapítóval, állami alapító által létrehozott szervezettel vagy államháztartáson kívüli szervezettel közösen alapított (köz)alapítvány közvetlen vagy közvetett tulajdonában van,
@@ -1652,7 +1652,7 @@ időtartama alatt.
 - a) ha a szolgálati jogviszonya a továbbképzés befejezésétől számított két éven belül szűnik meg, vagy
 - b) ha a szolgálati jogviszonya a létesítéstől számított hat éven belül szűnik meg, azzal, hogy a négy évet meghaladóan fennálló szolgálati jogviszony esetén a költségeknek a le nem töltött évekre eső hányadát kell megfizetni.
 
-(4) A (2) bekezdés alapján a foglalkoztatott köteles megtéríteni a munkáltatói jogkör gyakorlója által előírt, nem a NAV humánerőforrás-fejlesztési feladatokat ellátó intézete által biztosított képzés költségeit, ha a képzés költségei meghaladják a NAV vezetője által a foglalkoztatási szabályzatban meghatározott összeget.
+(4) A (2) bekezdés alapján a foglalkoztatott köteles megtéríteni a munkáltatói jogkör gyakorlója által előírt, nem a NAV humánerőforrás-fejlesztési feladatokat ellátó intézete által biztosított képzés költségeit, ha a képzés költségei meghaladják a NAV elnöke által a foglalkoztatási szabályzatban meghatározott összeget.
 
 (5) A (2) bekezdés szerinti megtérítési kötelezettség alapja az az összeg, amelyet a NAV a továbbképzésért megfizetett.
 
@@ -1726,7 +1726,7 @@ időtartama alatt.
 
 (12) A munkáltatói jogkör gyakorlója meghatározhatja a teljes munkaidőből kötelezően a munkahelyen töltendő idő tartamát, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait.
 
-(13) Az alkalmazható munkarendeket és azok kereteit a NAV vezetője a foglalkoztatási szabályzatban határozza meg.
+(13) Az alkalmazható munkarendeket és azok kereteit a NAV elnöke a foglalkoztatási szabályzatban határozza meg.
 
 #### 100. § [A munkaidő-beosztás szabályai]
 
@@ -1804,9 +1804,9 @@ meghatározott rendkívüli munkaidő időtartamát is be kell számítani.
 
 (3) Nem minősül túlmunkának, ha a foglalkoztatott az engedélyezett távollét idejét a munkáltatói jogkör gyakorlójával történt megállapodás alapján ledolgozza.
 
-(4) A túlmunkát a munkáltatói jogkör gyakorlójának írásban kell elrendelnie. A túlmunka elrendelésének, nyilvántartásának és elszámolásának rendjét a NAV vezetője határozza meg.
+(4) A túlmunkát a munkáltatói jogkör gyakorlójának írásban kell elrendelnie. A túlmunka elrendelésének, nyilvántartásának és elszámolásának rendjét a NAV elnöke határozza meg.
 
-(5) Teljes napi munkaidő esetén naptári évenként háromszáz óra túlmunka rendelhető el. Az elrendelhető túlmunka mértékét a NAV vezetője a NAV alaptevékenysége zavartalanságának biztosítása érdekében
+(5) Teljes napi munkaidő esetén naptári évenként háromszáz óra túlmunka rendelhető el. Az elrendelhető túlmunka mértékét a NAV elnöke a NAV alaptevékenysége zavartalanságának biztosítása érdekében
 
 - a) a tisztviselők tekintetében legfeljebb 20%-kal növelheti,
 - b) a pénzügyőrök tekintetében a munkaidő-szervezés egyes szempontjairól szóló 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelv 6. cikk b) pontjában meghatározott heti időtartamig növelheti azzal, hogy időkeret alkalmazása esetén a heti munkaidő és a túlmunka együttesen négyhavi átlagban nem haladhatja meg az irányelvben meghatározott heti időtartamot.
@@ -1830,7 +1830,7 @@ meghatározott rendkívüli munkaidő időtartamát is be kell számítani.
 - a) évi 150 óráig terjedő túlmunka teljesítéséért szabadidő,
 - b) évi 150 órát meghaladó túlmunkáért – az érintettnek a túlmunka teljesítésekori illetményének a teljesített túlmunka idejére járó arányos összegének megfelelő – díjazás
 
-illeti meg. A NAV vezetője a 150 órát meg nem haladó túlmunka teljesítésének díjazását is engedélyezheti, ha a szabadidő kiadása a NAV alaptevékenységének ellátását veszélyeztetné.
+illeti meg. A NAV elnöke a 150 órát meg nem haladó túlmunka teljesítésének díjazását is engedélyezheti, ha a szabadidő kiadása a NAV alaptevékenységének ellátását veszélyeztetné.
 
 (2) A foglalkoztatottat túlmunka teljesítése esetén annak időtartamával azonos mértékű, heti pihenőnapon és munkaszüneti napon teljesített túlmunka esetén a munkaidő időtartama kétszeresének megfelelő mértékű szabadidő, illetve díjazás illeti meg.
 
@@ -1849,7 +1849,7 @@ illeti meg. A NAV vezetője a 150 órát meg nem haladó túlmunka teljesítés�
 
 (2) A foglalkoztatott a készenlét tartama alatt köteles munkára képes állapotát megőrizni.
 
-(3) A készenlétet a munkáltatói jogkör gyakorlójának írásban kell elrendelnie. A készenlét elrendelésének, nyilvántartásának és elszámolásának rendjét a NAV vezetője határozza meg.
+(3) A készenlétet a munkáltatói jogkör gyakorlójának írásban kell elrendelnie. A készenlét elrendelésének, nyilvántartásának és elszámolásának rendjét a NAV elnöke határozza meg.
 
 (4) A készenlét időtartamát legalább egy héttel korábban, egy hónapra előre közölni kell. Ettől a munkáltatói jogkör gyakorlója – különösen indokolt esetben – eltérhet. Az eltérés során az egészséges és biztonságos munkavégzés követelményeire figyelemmel kell lenni.
 
@@ -1911,8 +1911,8 @@ A foglalkoztatott alap-, pót-, szülési és illetmény nélküli szabadságra,
 - a) az osztályvezető és a területi szerv főosztályvezető-helyettese esetében tizenkét munkanap,
 - b) az igazgatóhelyettes, a központi szerv főosztályvezető-helyettese és a területi szerv főosztályvezetője esetében tizenhárom munkanap,
 - c) az igazgató, a központi szerv főosztályvezetője és a Bűnügyi Főigazgatóság főigazgató-helyettese esetében tizennégy munkanap,
-- d) a szakfőigazgató, a Központi Irányítás főigazgató-helyettese és a Bűnügyi Főigazgatóság főigazgatója esetében tizenöt munkanap,
-- e) a Központi Irányítás főigazgatója esetében tizenhat munkanap.
+- d) a Bűnügyi Főigazgatóság főigazgatója esetében tizenöt munkanap,
+- e) az elnökhelyettes esetében tizenhat munkanap.
 
 #### 111. § [Gyermekek után járó pótszabadság]
 
@@ -2157,7 +2157,7 @@ időtartamát.
 
 (3) Eltérő megállapodás hiányában a munkavégzéshez, valamint a kapcsolattartáshoz szükséges eszközöket a munkáltatói jogkör gyakorlója biztosítja.
 
-(4) A távmunkavégzésre vonatkozó részletszabályokat a NAV vezetője határozza meg.
+(4) A távmunkavégzésre vonatkozó részletszabályokat a NAV elnöke határozza meg.
 
 (5) A munkáltatói jogkör gyakorlója előírhatja, hogy az általa biztosított számítástechnikai vagy elektronikus eszközt a foglalkoztatott kizárólag a munkavégzéshez használhatja.
 
@@ -2178,7 +2178,7 @@ időtartamát.
 
 (3) Az otthoni munkavégzésre irányuló megállapodásban rögzíteni kell az otthoni munkavégzés idejét, az egyedileg elvégzendő feladatokat, továbbá a kapcsolattartás és az elvégzett munka leadásának módját és időpontját.
 
-(4) Az otthoni munkavégzés részletes szabályait a NAV vezetője állapítja meg.
+(4) Az otthoni munkavégzés részletes szabályait a NAV elnöke állapítja meg.
 
 ### XIV. Fejezet — BESOROLÁS, ELŐMENETEL
 
@@ -2194,7 +2194,7 @@ időtartamát.
 
 (3) Az I. besorolási osztályba tartozó munkaköröket három, A, B és C jelölésű, a II. besorolási osztályba tartozó munkaköröket kettő, A és B jelölésű besorolási kategóriába lehet besorolni.
 
-(4) Az egyes munkakörök besorolását a NAV vezetője – a munkakör tartalmának meghatározott módszertanon és eljárási rendben végrehajtott értékelése alapján – a foglalkoztatási szabályzatban állapítja meg.
+(4) Az egyes munkakörök besorolását a NAV elnöke – a munkakör tartalmának meghatározott módszertanon és eljárási rendben végrehajtott értékelése alapján – a foglalkoztatási szabályzatban állapítja meg.
 
 (5) Az (1) bekezdés b) és c) pontja szerinti munkakörök besorolási kategóriáihoz rendelt fizetési fokozatokat az 5. melléklet tartalmazza.
 
@@ -2296,7 +2296,7 @@ A magasabb besorolású munkakörbe – a munkáltatói jogkör gyakorlójának 
 
 (1) A pénzügyőri státuszú foglalkoztatott a 166. § e) pontja szerinti elismerés adományozásával soron kívül eggyel magasabb rendfokozatba előléptethető, ha az utolsó teljesítményértékelés eredménye kivételes. Ha az érintett viselt rendfokozatához rendfokozati várakozási idő tartozik, így soron kívül akkor léptethető elő, ha a meglévő rendfokozatában eltöltendő várakozási időnek legalább a fele eltelt.
 
-(2) A miniszter, valamint a NAV vezetője az (1) bekezdésében meghatározott feltételek nélkül is soron kívül eggyel magasabb rendfokozatba előléptetheti a pénzügyőri státuszú foglalkoztatottat, ha a szolgálat teljesítésében kimagasló helytállást tanúsított.
+(2) A miniszter, valamint a NAV elnöke az (1) bekezdésében meghatározott feltételek nélkül is soron kívül eggyel magasabb rendfokozatba előléptetheti a pénzügyőri státuszú foglalkoztatottat, ha a szolgálat teljesítésében kimagasló helytállást tanúsított.
 
 (3) A pénzügyőri státuszú foglalkoztatottat a soron következő rendfokozatba elő lehet léptetni vezetői munkakörbe kinevezésekor.
 
@@ -2319,18 +2319,19 @@ A magasabb besorolású munkakörbe – a munkáltatói jogkör gyakorlójának 
 
 (1) A NAV vezetői munkakörei:
 
-- a) főigazgató,
-- b) főigazgató-helyettes,
-- c) szakfőigazgató,
-- d) igazgató,
-- e) igazgatóhelyettes,
-- f) főosztályvezető,
-- g) főosztályvezető-helyettes és
-- h) osztályvezető.
+- a) elnök,
+- b) elnökhelyettes,
+- c) főigazgató,
+- d) főigazgató-helyettes,
+- e) igazgató,
+- f) igazgatóhelyettes,
+- g) főosztályvezető,
+- h) főosztályvezető-helyettes, és
+- i) osztályvezető.
 
 (2) A vezetői munkakört betöltő személy felettese az általa vezetett szervezet, szerv, szervezeti egység állományába tartozó foglalkoztatottnak.
 
-(3) A főosztályvezető helyettesítésére szervezeti egység vezetése nélkül a NAV vezetőjének engedélyével tölthető be főosztályvezető-helyettesi munkakör a főosztály által ellátott feladatok összetettségére, nagyságrendjére tekintettel.
+(3) A főosztályvezető helyettesítésére szervezeti egység vezetése nélkül a NAV elnökének engedélyével tölthető be főosztályvezető-helyettesi munkakör a főosztály által ellátott feladatok összetettségére, nagyságrendjére tekintettel.
 
 #### 140. § [Vezetői kinevezés képzettségi követelményei]
 
@@ -2427,15 +2428,15 @@ kell figyelembe venni.
 
 #### 148. § [Illetményeltérítés]
 
-(1) A NAV vezetőjének előzetes jóváhagyásával a munkáltatói jogkör gyakorlója át nem ruházható hatáskörében, illetve a Központi Irányításban a NAV vezetője által átruházott hatáskörben a munkáltatói jogkört gyakorló vezető a tárgyévet megelőző év teljesítményértékelése figyelembevételével a tárgyévre vonatkozóan a foglalkoztatott besorolása szerinti alapilletményét december 31-éig terjedő időszakra legfeljebb 30%-kal megemelheti, vagy legfeljebb 30%-kal csökkentett mértékben állapíthatja meg. Az eltérítésről a munkáltatói jogkör gyakorlója minden év január 31-éig dönt.
+(1) A NAV elnökének előzetes jóváhagyásával a munkáltatói jogkör gyakorlója át nem ruházható hatáskörében, illetve a Központi Irányításban a NAV elnöke által átruházott hatáskörben a munkáltatói jogkört gyakorló vezető a tárgyévet megelőző év teljesítményértékelése figyelembevételével a tárgyévre vonatkozóan a foglalkoztatott besorolása szerinti alapilletményét december 31-éig terjedő időszakra legfeljebb 30%-kal megemelheti, vagy legfeljebb 30%-kal csökkentett mértékben állapíthatja meg. Az eltérítésről a munkáltatói jogkör gyakorlója minden év január 31-éig dönt.
 
 (2) Az (1) bekezdés szerint megállapított eltérítés a tárgyévben akkor módosítható, ha a tárgyévben a foglalkoztatottat magasabb vagy alacsonyabb besorolású munkakörbe helyezik, illetve címadományozásra vagy annak visszavonására, vagy a foglalkoztatott II. besorolási osztályból I. besorolási osztályba történő átsorolására, illetve áthelyezésére vagy tartós külszolgálatra történő kirendelésére kerül sor. A módosítás eredményeként az alapilletmény nem lehet alacsonyabb, mint az e törvény alapján az eltérítés nélkül meghatározott összeg.
 
 #### 149. § [A személyi illetmény]
 
-(1) A NAV vezetőjének előzetes jóváhagyásával a munkáltatói jogkör gyakorlója át nem ruházható hatáskörében, illetve a Központi Irányításban a NAV vezetője által átruházott hatáskörben munkáltatói jogkört gyakorló vezető a kimagasló teljesítményt nyújtó, és a szervezet működése szempontjából kiemelten fontos munkakört betöltő foglalkoztatottnak az e törvényben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő, személyi illetményt állapíthat meg.
+(1) A NAV elnökének előzetes jóváhagyásával a munkáltatói jogkör gyakorlója át nem ruházható hatáskörében, illetve a Központi Irányításban a NAV elnöke által átruházott hatáskörben munkáltatói jogkört gyakorló vezető a kimagasló teljesítményt nyújtó, és a szervezet működése szempontjából kiemelten fontos munkakört betöltő foglalkoztatottnak az e törvényben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő, személyi illetményt állapíthat meg.
 
-(2) A személyi illetményt egy összegben kell megállapítani és visszavonásig érvényes. A visszavonáshoz – ide nem értve a 187. § (4) bekezdés e) pontja szerinti esetet – a NAV vezetőjének előzetes jóváhagyása szükséges. A visszavonást követően a foglalkoztatottat az e törvényben meghatározott illetményrendszerre vonatkozó szabályok szerint, az általa betöltött munkakör alapján kell besorolni és illetményét megállapítani.
+(2) A személyi illetményt egy összegben kell megállapítani és visszavonásig érvényes. A visszavonáshoz – ide nem értve a 187. § (4) bekezdés e) pontja szerinti esetet – a NAV elnökének előzetes jóváhagyása szükséges. A visszavonást követően a foglalkoztatottat az e törvényben meghatározott illetményrendszerre vonatkozó szabályok szerint, az általa betöltött munkakör alapján kell besorolni és illetményét megállapítani.
 
 (3) A személyi illetményben részesülők illetményét évente – január 31-ig – felül kell vizsgálni.
 
@@ -2453,7 +2454,7 @@ kell figyelembe venni.
 
 (1) A foglalkoztatott egészségügyi pótlékra jogosult, ha a munkavégzésre munkaideje nagyobb részében egészségkárosító kockázatok között kerül sor, vagy egészségének védelme csak olyan egyéni védőeszköz állandó vagy tartós használatával valósítható meg, amely az érintett számára fokozott megterhelést jelent. A pótlék mértékét a 8. melléklet tartalmazza.
 
-(2) Az (1) bekezdés szerinti pótlékra jogosító munkaköröket a NAV vezetője határozza meg.
+(2) Az (1) bekezdés szerinti pótlékra jogosító munkaköröket a NAV elnöke határozza meg.
 
 #### 152. § [A készenléti pótlék]
 
@@ -2600,7 +2601,7 @@ töltött időt kell figyelembe venni.
 
 #### 165. § [Szakmai címek]
 
-(1) A NAV vezetője szakmai tanácsadói, illetve szakmai főtanácsadói címet adományozhat a (2) bekezdésben foglalt feltételekkel rendelkező foglalkoztatottnak. Az adományozható szakmai tanácsadói, illetve szakmai főtanácsadói címek számát a foglalkoztatási szabályzatban kell meghatározni. Az adományozható kétféle cím együttesen nem haladhatja meg a NAV felsőfokú iskolai végzettségű foglalkoztatotti létszámának 10%-át.
+(1) A NAV elnöke szakmai tanácsadói, illetve szakmai főtanácsadói címet adományozhat a (2) bekezdésben foglalt feltételekkel rendelkező foglalkoztatottnak. Az adományozható szakmai tanácsadói, illetve szakmai főtanácsadói címek számát a foglalkoztatási szabályzatban kell meghatározni. Az adományozható kétféle cím együttesen nem haladhatja meg a NAV felsőfokú iskolai végzettségű foglalkoztatotti létszámának 10%-át.
 
 (2) Szakmai tanácsadói cím annak az I. besorolási osztályba tartozó, legalább ötéves szakmai gyakorlattal rendelkező foglalkoztatottnak, szakmai főtanácsadói cím pedig annak az I. besorolási osztályba tartozó, legalább tízéves szakmai gyakorlattal rendelkező foglalkoztatottnak adományozható, akinek a teljesítménye a címadományozást megelőző két évben kivételes fokozatú volt.
 
@@ -2630,7 +2631,7 @@ A foglalkoztatott az adott feladat kiemelkedő teljesítéséért, illetve felad
 
 (1) A munkáltatói jogkör gyakorlója – ide nem értve a helyettesítést – rendkívüli, célhoz köthető feladatot állapíthat meg a foglalkoztatott részére, amelynek teljesítése a munkakör ellátásából adódó általános munkaterhet jelentősen meghaladja (a továbbiakban: célfeladat). A munkáltatói jogkör gyakorlója a célfeladat eredményes végrehajtásáért – a foglalkoztatott illetményén felül, írásban, a célfeladat megállapításakor vagy teljesítésének igazolásakor – céljuttatást határoz meg a megállapított személyi juttatások előirányzatán belül.
 
-(2) A NAV vezetője az (1) bekezdésben foglaltakon túl célfeladatot állapíthat meg – az érintett hivatali szervezet vezetőjének egyetértésével – más államigazgatási szervnél foglalkoztatott részére. A céljuttatást ebben az esetben a NAV vezetője állapítja meg.
+(2) A NAV elnöke az (1) bekezdésben foglaltakon túl célfeladatot állapíthat meg – az érintett hivatali szervezet vezetőjének egyetértésével – más államigazgatási szervnél foglalkoztatott részére. A céljuttatást ebben az esetben a NAV elnöke állapítja meg.
 
 (3) A nemzetközi közigazgatási szakértői tevékenység célfeladat teljesítésével is ellátható. A célfeladat ellátásának időtartama a tárgyévben a hat hónapot nem haladhatja meg. A célfeladat eredményes végrehajtásáért a céljuttatást a NAV előlegezi meg.
 
@@ -2654,7 +2655,7 @@ A foglalkoztatott az adott feladat kiemelkedő teljesítéséért, illetve felad
 
 (4) A (2) bekezdésben meghatározott esetben, illetve ha a jogosult szolgálati jogviszonya, illetve munkaviszonya a tárgyév közben szűnik meg, az időarányos részt meghaladó mértékben igénybe vett cafetériajuttatás értékét a (2) bekezdés szerinti távollét vége utáni első munkanapon, illetve a jogviszony megszűnésekor vissza kell fizetni, illetve – az érintett választása szerint, ha a juttatás természete ezt lehetővé teszi – vissza kell adni. Nem kell visszafizetni (visszaadni) a cafetériajuttatás értékét, ha a jogviszony a jogosult halála miatt szűnik meg.
 
-(5) A NAV vezetője foglalkoztatási szabályzatban rendelkezik a cafetériajuttatás igénybevételének részletes szabályairól, elszámolásának rendjéről és visszatérítésének szabályairól.
+(5) A NAV elnöke foglalkoztatási szabályzatban rendelkezik a cafetériajuttatás igénybevételének részletes szabályairól, elszámolásának rendjéről és visszatérítésének szabályairól.
 
 #### 169. § [Költségtérítés]
 
@@ -2680,7 +2681,11 @@ indokoltan merültek fel.
 - d) illetményelőleg,
 - e) tanulmányi ösztöndíj, képzési, továbbképzési, nyelvtanulási támogatás.
 
-(2) Az (1) bekezdésben foglalt juttatás mértékét, feltételeit, az elbírálás és elszámolás rendjét, valamint a visszatérítés szabályait a NAV vezetője foglalkoztatási szabályzatban állapítja meg.
+(2) Az (1) bekezdésben foglalt juttatás mértékét, feltételeit, az elbírálás és elszámolás rendjét, valamint a visszatérítés szabályait a NAV elnöke foglalkoztatási szabályzatban állapítja meg.
+
+#### 170/A. § [Az elnökhelyettes juttatásai]
+
+Az elnökhelyettes az e törvény szerinti illetményén felül a helyettes államtitkári juttatásokkal azonos juttatásokra jogosult.
 
 #### 171. § [Támogatás magántulajdonú lakás megszerzéséhez]
 
@@ -2705,7 +2710,7 @@ indokoltan merültek fel.
 
 #### 173. § [Kegyeleti juttatások]
 
-(1) A NAV vezetője az elhunyt foglalkoztatottat – a közszolgálat teljesítése során szerzett érdemeire figyelemmel – a NAV saját halottjává nyilváníthatja.
+(1) A NAV elnöke az elhunyt foglalkoztatottat – a közszolgálat teljesítése során szerzett érdemeire figyelemmel – a NAV saját halottjává nyilváníthatja.
 
 (2) Ha a pénzügyőr a szolgálati kötelezettség teljesítése során az életét feláldozta, őt a miniszter hősi halottá nyilváníthatja.
 
@@ -2795,7 +2800,7 @@ indokoltan merültek fel.
 
 #### 178. § [Egészségkárosodási járadék]
 
-(1) A 177. § szerinti továbbfoglalkoztatási kötelezettség alól a foglalkoztatott kérelme alapján a NAV vezetőjének előterjesztésére a miniszter adhat mentesítést, ha a foglalkoztatott egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 50%-os vagy kisebb mértékű. Egészségkárosodási járadékra jogosultság abban az esetben állapítható meg, ha a miniszter a továbbfoglalkoztatási kötelezettség alól mentesítést ad.
+(1) A 177. § szerinti továbbfoglalkoztatási kötelezettség alól a foglalkoztatott kérelme alapján a NAV elnökének előterjesztésére a miniszter adhat mentesítést, ha a foglalkoztatott egészségi állapota a rehabilitációs hatóság komplex minősítése alapján 50%-os vagy kisebb mértékű. Egészségkárosodási járadékra jogosultság abban az esetben állapítható meg, ha a miniszter a továbbfoglalkoztatási kötelezettség alól mentesítést ad.
 
 (2) A miniszter a továbbfoglalkoztatási kötelezettség alóli mentesítés tárgyában harminc napon belül indokolt határozatban dönt. A miniszter a döntés során mérlegeli, hogy a NAV-nál meghatározható-e olyan munkakör, amelyet a foglalkoztatott egészségi állapota alapján elláthat, valamint azt, ha a foglalkoztatottól az egészségi állapota alapján már nem várható el a mindennapos rendelkezésre állási és munkavégzési kötelezettség. A döntéssel szemben önálló jogorvoslatnak nincs helye, az az egészségkárosodási ellátásra jogosultság tárgyában hozott NAV vezetői döntés felülvizsgálata iránti keresettel vitatható.
 
@@ -2803,9 +2808,9 @@ indokoltan merültek fel.
 
 #### 179. § [Az egészségkárosodási ellátás megállapítása]
 
-(1) Az egészségkárosodási ellátásra való jogosultságot és annak mértékét a NAV vezetője hivatalból állapítja meg.
+(1) Az egészségkárosodási ellátásra való jogosultságot és annak mértékét a NAV elnöke hivatalból állapítja meg.
 
-(2) A NAV vezetője dönt
+(2) A NAV elnöke dönt
 
 - a) az egészségkárosodási járadékra jogosultság tárgyában a továbbfoglalkoztatás alóli mentesítés esetén,
 - b) az egészségkárosodási keresetkiegészítésre jogosultság tárgyában, ha – kérelem hiányában vagy a kérelem elutasítása miatt – a továbbfoglalkoztatás alóli mentesítésre nem került sor.
@@ -2817,15 +2822,15 @@ indokoltan merültek fel.
 
 (4) Az egészségkárosodási járadékra jogosultság kezdőnapja a foglalkoztatott jogviszonyának a 178. § (3) bekezdése alapján történő megszűnését követő nap.
 
-(5) Az egészségkárosodási ellátás mértékének megállapításához szükséges, az érintettet esetlegesen megillető baleseti járadék vagy baleseti táppénz (a továbbiakban együtt: baleseti ellátás), rokkantsági ellátás és rehabilitációs ellátás összegéről kérelmére a NAV vezetőjét az ellátást folyósító szerv tájékoztatja.
+(5) Az egészségkárosodási ellátás mértékének megállapításához szükséges, az érintettet esetlegesen megillető baleseti járadék vagy baleseti táppénz (a továbbiakban együtt: baleseti ellátás), rokkantsági ellátás és rehabilitációs ellátás összegéről kérelmére a NAV elnökét az ellátást folyósító szerv tájékoztatja.
 
 #### 180. § [Az egészségkárosodási ellátásra való jogosultság időtartama]
 
-(1) Az egészségkárosodási ellátásra való jogosultság az egészségkárosodás következő – az egészségi alkalmatlanság megállapítására irányuló eljárásban beszerzett, a rehabilitációs hatóság által megállapított – felülvizsgálati időpontjáig terjedő határozott időtartamra kerül megállapításra. A rehabilitációs hatóság felülvizsgálatának eredményétől függően a NAV vezetője az egészségkárosodási ellátásra való jogosultságot ezt követően minden esetben a rehabilitációs hatóság által meghatározott, az egészségkárosodás következő felülvizsgálatának időpontjáig terjedő időtartamra hosszabbítja meg.
+(1) Az egészségkárosodási ellátásra való jogosultság az egészségkárosodás következő – az egészségi alkalmatlanság megállapítására irányuló eljárásban beszerzett, a rehabilitációs hatóság által megállapított – felülvizsgálati időpontjáig terjedő határozott időtartamra kerül megállapításra. A rehabilitációs hatóság felülvizsgálatának eredményétől függően a NAV elnöke az egészségkárosodási ellátásra való jogosultságot ezt követően minden esetben a rehabilitációs hatóság által meghatározott, az egészségkárosodás következő felülvizsgálatának időpontjáig terjedő időtartamra hosszabbítja meg.
 
 (2) Ha az (1) bekezdésben foglaltaktól eltérően a rehabilitációs hatóság a baleseti ellátással, rehabilitációs ellátással vagy rokkantsági ellátással összefüggésben nem ír elő újabb kötelezettséget az egészségkárosodás felülvizsgálatára, abban az esetben az egészségkárosodási ellátásra való jogosultság öt év határozott időtartamra kerül megállapításra vagy meghosszabbításra.
 
-(3) Az egészségkárosodási ellátásra való jogosultság meghosszabbításakor a NAV vezetője figyelembe veszi
+(3) Az egészségkárosodási ellátásra való jogosultság meghosszabbításakor a NAV elnöke figyelembe veszi
 
 - a) a rehabilitációs hatóságnak a megtartott egészségi állapotra vonatkozó megállapítását, kivéve, ha a (2) bekezdésben foglaltak szerint újabb felülvizsgálati kötelezettséget a rehabilitációs hatóság már nem írt elő,
 - b) a munkavégzésre való alkalmasságot, valamint
@@ -2837,7 +2842,7 @@ indokoltan merültek fel.
 
 #### 181. § [Felülvizsgálat kihatása az egészségkárosodási ellátásra]
 
-(1) Ha a felülvizsgálat eredménye szerint a 177. § (4) bekezdése alapján egészségkárosodási keresetkiegészítésre jogosult komplex minősítése a 178. § (1) bekezdésében meghatározott értékre változott vagy az alá csökkent, a NAV vezetőjének előterjesztésére a miniszter felmentést adhat a továbbfoglalkoztatási kötelezettség alól. A NAV vezetője az érintett kérelmére vagy – az egészségkárosodási keresetkiegészítésre jogosult beleegyezésével – hivatalból tehet előterjesztést a miniszternél, a mentesítésre és jogkövetkezményeire egyebekben a 178. § (2)–(3) bekezdését kell alkalmazni.
+(1) Ha a felülvizsgálat eredménye szerint a 177. § (4) bekezdése alapján egészségkárosodási keresetkiegészítésre jogosult komplex minősítése a 178. § (1) bekezdésében meghatározott értékre változott vagy az alá csökkent, a NAV elnökének előterjesztésére a miniszter felmentést adhat a továbbfoglalkoztatási kötelezettség alól. A NAV elnöke az érintett kérelmére vagy – az egészségkárosodási keresetkiegészítésre jogosult beleegyezésével – hivatalból tehet előterjesztést a miniszternél, a mentesítésre és jogkövetkezményeire egyebekben a 178. § (2)–(3) bekezdését kell alkalmazni.
 
 (2) Ha a felülvizsgálat eredménye szerint az egészségkárosodási járadékra jogosult komplex minősítése a 178. § (1) bekezdésében meghatározott érték fölé emelkedett, a NAV köteles a jogosult továbbfoglalkoztatása érdekében a 177. §-ban foglalt eljárást lefolytatni és továbbfoglalkoztatása esetén az egészségkárosodási járadék helyett részére egészségkárosodási keresetkiegészítést megállapítani.
 
@@ -2861,7 +2866,7 @@ indokoltan merültek fel.
 
 (1) Az egészségkárosodási ellátásban részesülő személy tizenöt napon belül köteles bejelenteni a NAV-nak minden olyan tényt, adatot, körülményt, amely az egészségkárosodási ellátásra jogosultságát vagy annak folyósítását érinti. Az egészségkárosodási ellátásban részesülő személy közeli hozzátartozója a jogosult halálának tényét és annak időpontját tizenöt napon belül köteles bejelenteni a NAV-nak.
 
-(2) A NAV vezetője az egészségkárosodási ellátás összegének módosításáról, valamint a jogalap nélkül felvett egészségkárosodási ellátás visszafizettetéséről hivatalból dönt.
+(2) A NAV elnöke az egészségkárosodási ellátás összegének módosításáról, valamint a jogalap nélkül felvett egészségkárosodási ellátás visszafizettetéséről hivatalból dönt.
 
 (3) A jogalap nélkül kifizetett egészségkárosodási ellátás hatvan napon belül az előlegnyújtásból eredő követelésre vonatkozó szabályok szerint visszakövetelhető az egészségkárosodási ellátásban részesülő személytől. Az általános elévülési időn belül visszakövetelhető a jogalap nélkül felvett egészségkárosodási ellátás, ha annak alaptalanságáról az egészségkárosodási ellátásban részesülő személy tudott vagy tudnia kellett volna.
 
@@ -2890,7 +2895,7 @@ indokoltan merültek fel.
 
 (5) Az (1) bekezdés d) pontjában foglaltaktól eltérően nem szűnik meg az egészségkárosodási ellátásra való jogosultság, ha az érintett ismételten szolgálati jogviszonyt létesít, azonban a megállapított illetménye kevesebb a 182. § (5) bekezdésére tekintettel az átlagos illetményemelkedés százalékos mértékével megemelt, 182. § (1) bekezdése szerinti távolléti díjnál. Ebben az esetben az egészségkárosodási járadékra való jogosultság a 182. §-ban foglalt számítási szabályok alkalmazásával megállapított mértékben továbbra is fennáll.
 
-(6) Az (1) bekezdés i) pontjában foglaltaktól eltérően nem szűnik meg az egészségkárosodási ellátásra való jogosultsága annak az egészségkárosodási járadékra jogosultnak, aki a Kttv. 1. §-ában vagy 2. §-ában, a Kit. 2. §-ában felsorolt, vagy a Hszt. hatálya alá tartozó szervnél létesít foglalkoztatási jogviszonyt. Ebben az esetben az egészségkárosodási járadék helyett részére a 182. § (2) bekezdésében meghatározott mértékű egészségkárosodási keresetkiegészítést kell megállapítani. Az egészségkárosodási keresetkiegészítést a NAV folyósítja ezt követően is. Az egészségkárosodási ellátás mértékének megállapításához szükséges, az érintett illetményére vagy munkabérére vonatkozó adatokról a NAV vezetőjét kérelmére a foglalkoztató szerv vezetője tájékoztatja. Az illetmény vagy munkabér mértékének megváltozásáról az egészségkárosodási ellátásra jogosult köteles tájékoztatni a NAV vezetőjét.
+(6) Az (1) bekezdés i) pontjában foglaltaktól eltérően nem szűnik meg az egészségkárosodási ellátásra való jogosultsága annak az egészségkárosodási járadékra jogosultnak, aki a Kttv. 1. §-ában vagy 2. §-ában, a Kit. 2. §-ában felsorolt, vagy a Hszt. hatálya alá tartozó szervnél létesít foglalkoztatási jogviszonyt. Ebben az esetben az egészségkárosodási járadék helyett részére a 182. § (2) bekezdésében meghatározott mértékű egészségkárosodási keresetkiegészítést kell megállapítani. Az egészségkárosodási keresetkiegészítést a NAV folyósítja ezt követően is. Az egészségkárosodási ellátás mértékének megállapításához szükséges, az érintett illetményére vagy munkabérére vonatkozó adatokról a NAV elnökét kérelmére a foglalkoztató szerv vezetője tájékoztatja. Az illetmény vagy munkabér mértékének megváltozásáról az egészségkárosodási ellátásra jogosult köteles tájékoztatni a NAV elnökét.
 
 #### 185. § [Egészségkárosodási ellátással kapcsolatos adatkezelési szabályok]
 
@@ -3097,7 +3102,7 @@ Ha a foglalkoztatott a 31. § (2) bekezdésében meghatározott bűncselekmény,
 
 #### 199. § [A tábornokkal szembeni méltatlansági eljárás eltérő szabályai]
 
-(1) Tábornokkal szemben a méltatlansági eljárás megindítására és lefolytatására – a NAV vezetőjének javaslatára – a miniszter jogosult.
+(1) Tábornokkal szemben a méltatlansági eljárás megindítására és lefolytatására – a NAV elnökének javaslatára – a miniszter jogosult.
 
 (2) A tábornok elleni méltatlansági eljárás megindításával, illetve a 197. § alkalmazása esetén a méltatlanság eljárás nélkül történt megállapításával egyidejűleg a miniszter értesíti a köztársasági elnököt.
 
@@ -3152,7 +3157,7 @@ Ha a foglalkoztatott a 31. § (2) bekezdésében meghatározott bűncselekmény,
 
 #### 202. § [Leltárhiány utáni kártérítési felelősség]
 
-(1) Leltárhiány a raktárkezelésre szabályszerűen átadott és átvett vagyontárgyban (tárgyi eszköz és készlet, a továbbiakban: raktári leltárkészlet) ismeretlen okból keletkezett, a természetes mennyiségi csökkenéssel és a kezeléssel járó veszteség mértékét meghaladó hiány. A raktári leltárkészletek azon körét, amelyek után természetes mennyiségi csökkenés, kezeléssel járó veszteség nem számolható el, valamint a csökkenés és a veszteség alsó és felső határát a NAV vezetője határozza meg. Egy leltári időszakra a természetes mennyiségi csökkenés, illetve a kezeléssel járó veszteség változó mértékben is megállapítható.
+(1) Leltárhiány a raktárkezelésre szabályszerűen átadott és átvett vagyontárgyban (tárgyi eszköz és készlet, a továbbiakban: raktári leltárkészlet) ismeretlen okból keletkezett, a természetes mennyiségi csökkenéssel és a kezeléssel járó veszteség mértékét meghaladó hiány. A raktári leltárkészletek azon körét, amelyek után természetes mennyiségi csökkenés, kezeléssel járó veszteség nem számolható el, valamint a csökkenés és a veszteség alsó és felső határát a NAV elnöke határozza meg. Egy leltári időszakra a természetes mennyiségi csökkenés, illetve a kezeléssel járó veszteség változó mértékben is megállapítható.
 
 (2) Az a foglalkoztatott, akinek a munkaköri leírásában rögzített munkaköri feladatai közé tartozik a részére szabályszerűen átadott és átvett raktári leltárkészlet raktárkezelése, a keletkezett leltárhiányért vétkességére való tekintet nélkül felel.
 
@@ -3412,7 +3417,7 @@ kapcsolatos ügyekben.
 - b) a szolgálati jogviszonnyal összefüggő jogok gyakorlásának és kötelezettségek teljesítésének biztosítása, továbbá
 - c) a közeli hozzátartozót megillető társadalombiztosítási, szociális és kegyeleti gondoskodás megállapításának és folyósításának biztosítása.
 
-(3) A személyügyi alapnyilvántartásban szereplő személyes adatok védelméért, az adatkezelés jogszerűségéért, valamint a Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben előírt adatszolgáltatásokért – eltérő jogszabályi rendelkezés hiányában – a NAV vezetője felelős.
+(3) A személyügyi alapnyilvántartásban szereplő személyes adatok védelméért, az adatkezelés jogszerűségéért, valamint a Kormányzati Személyügyi Döntéstámogató Rendszerről szóló törvényben előírt adatszolgáltatásokért – eltérő jogszabályi rendelkezés hiányában – a NAV elnöke felelős.
 
 (4) Adatvédelmi szabályzatban (a továbbiakban: szabályzat) kell meghatározni az iratok, az adatok kezelésének adatvédelmi, adatbiztonsági szabályait, így különösen a foglalkoztatott saját adataival történő rendelkezési joga biztosításának, a harmadik személy részére történő adattovábbításnak, a betekintési jog gyakorlásának, valamint az adatkezelésben részt vevő foglalkoztatott felelősségének és az adatokhoz történő hozzáférése terjedelmének szabályait.
 
@@ -3484,10 +3489,10 @@ kapcsolatos ügyekben.
 (2) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter jogosult – a cél- és témavizsgálatok keretében – a NAV-nál:
 
 - a) a munkáltatói intézkedést tartalmazó iratokba betekinteni,
-- b) jogszabálysértés vagy célszerűtlen intézkedés esetén intézkedést kezdeményezni a NAV vezetőjénél vagy – vita esetén – annak felettes szervénél,
+- b) jogszabálysértés vagy célszerűtlen intézkedés esetén intézkedést kezdeményezni a NAV elnökénél vagy – vita esetén – annak felettes szervénél,
 - c) fegyelmi vagy kártérítési eljárást kezdeményezni.
 
-(3) A (2) bekezdés b) és c) pontjában meghatározott esetekben a NAV vezetője köteles a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter megkeresését érdemben megvizsgálni, és saját intézkedéséről vagy annak mellőzése okáról a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős minisztert – a megkereséstől számított harminc napon belül – tájékoztatni.
+(3) A (2) bekezdés b) és c) pontjában meghatározott esetekben a NAV elnöke köteles a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter megkeresését érdemben megvizsgálni, és saját intézkedéséről vagy annak mellőzése okáról a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős minisztert – a megkereséstől számított harminc napon belül – tájékoztatni.
 
 ### XXIV. Fejezet — ÉRDEKEGYEZTETÉS
 
@@ -3540,9 +3545,9 @@ A Kit.-ben szabályozott Közszolgálati Érdekegyeztető Fórum és a Kjt.-ben 
 
 #### 228. § [A munkahelyi foglalkoztatotti érdekegyeztetés]
 
-(1) A munkahelyi szolgálati kérdések rendezésére a munkahelyi foglalkoztatotti érdekegyeztetés szolgál. A munkahelyi foglalkoztatotti érdekegyeztetésben a NAV vezetője és a szakszervezet választott tisztségviselője vesz részt. A tárgyalópartnerek a vitás kérdések egyeztetésébe szakértőket is bevonhatnak.
+(1) A munkahelyi szolgálati kérdések rendezésére a munkahelyi foglalkoztatotti érdekegyeztetés szolgál. A munkahelyi foglalkoztatotti érdekegyeztetésben a NAV elnöke és a szakszervezet választott tisztségviselője vesz részt. A tárgyalópartnerek a vitás kérdések egyeztetésébe szakértőket is bevonhatnak.
 
-(2) A NAV vezetője köteles kikérni a szakszervezet véleményét a foglalkoztatottak munkavégzésére, munka- és pihenőidejére, jutalmazására, valamint juttatásaira vonatkozó, a NAV hatáskörébe utalt szabályozásról.
+(2) A NAV elnöke köteles kikérni a szakszervezet véleményét a foglalkoztatottak munkavégzésére, munka- és pihenőidejére, jutalmazására, valamint juttatásaira vonatkozó, a NAV hatáskörébe utalt szabályozásról.
 
 (3) A (2) bekezdésben foglaltakon kívül a szakszervezet jogosult a foglalkoztatottak csoportját érintő munkáltatói intézkedéssel, illetve döntéssel vagy annak tervezetével kapcsolatos véleményét a NAV-val közölni, ezzel összefüggésben konzultációt kezdeményezni.
 
@@ -3773,7 +3778,7 @@ szemben.
 
 #### 241. § [A tisztjelölti jogviszony létesítése]
 
-(1) A rendészeti alapképzésre, nappali tagozatra felvételt nyert személyt a NAV vezetője a NAV szerv tisztjelölti állományába kinevezi. A tisztjelölt személyügyi nyilvántartását, tisztjelölti jogviszonyával kapcsolatos ügyei intézését a NAV végzi. A munkáltatói jogkör gyakorlója a NAV vezetője.
+(1) A rendészeti alapképzésre, nappali tagozatra felvételt nyert személyt a NAV elnöke a NAV szerv tisztjelölti állományába kinevezi. A tisztjelölt személyügyi nyilvántartását, tisztjelölti jogviszonyával kapcsolatos ügyei intézését a NAV végzi. A munkáltatói jogkör gyakorlója a NAV elnöke.
 
 (2) A tisztjelölti jogviszony létesítésének feltétele, hogy a tisztjelölttel szemben hallgatói jogviszonyt kizáró körülmény nem áll fenn. Nem nevezhető ki tisztjelölti jogviszonyba, akinek ösztöndíjas hallgatói jogviszonya vagy tisztjelölti jogviszonya kizárás fegyelmi büntetés jogerős kiszabásával, lemondással, tanulmányi kötelezettség önhibából történő elmulasztása miatt vagy méltatlanság jogerős megállapításával szűnt meg.
 
@@ -3810,9 +3815,9 @@ szemben.
 - a) a tanulmányi és vizsgaszabályzatban, illetve a tantervben rögzített, a tanulmányokban való előrehaladással kapcsolatos kötelezettségeit nem teljesíti vagy
 - b) a hallgatói jogviszonyát megszünteti,
 
-annak a tisztjelölti jogviszonya a törvény erejénél fogva megszűnik, az addig megszerzett rendfokozatát a törvény erejénél fogva elveszti, és őt a NAV vezetője adó- és vámhatósági szolgálati jogviszonyba történő kinevezéssel egyidejűleg a NAV bármely szervénél II. besorolási osztályba tartozó pénzügyőri munkakörbe helyezi.
+annak a tisztjelölti jogviszonya a törvény erejénél fogva megszűnik, az addig megszerzett rendfokozatát a törvény erejénél fogva elveszti, és őt a NAV elnöke adó- és vámhatósági szolgálati jogviszonyba történő kinevezéssel egyidejűleg a NAV bármely szervénél II. besorolási osztályba tartozó pénzügyőri munkakörbe helyezi.
 
-(2) Az (1) bekezdés szerinti esetben a NAV vezetője a tisztjelölt kérelmére és a tisztjelölt különös méltánylást érdemlő egyéni érdekére tekintettel – a pénzügyőri munkakörben való továbbfoglalkoztatás helyett – engedélyezheti a tisztviselői státuszban, tisztviselői munkakörben történő továbbfoglalkoztatást. A tisztviselői munkakörben történő továbbfoglalkoztatás nem érinti a (4) bekezdés szerint megállapítandó időtartamot.
+(2) Az (1) bekezdés szerinti esetben a NAV elnöke a tisztjelölt kérelmére és a tisztjelölt különös méltánylást érdemlő egyéni érdekére tekintettel – a pénzügyőri munkakörben való továbbfoglalkoztatás helyett – engedélyezheti a tisztviselői státuszban, tisztviselői munkakörben történő továbbfoglalkoztatást. A tisztviselői munkakörben történő továbbfoglalkoztatás nem érinti a (4) bekezdés szerint megállapítandó időtartamot.
 
 (3) Nem kell biztosítani a tisztjelölt számára az (1) és (2) bekezdés szerinti foglalkoztatást, ha a hallgatói jogviszonya a 241. § (7) bekezdése szerinti próbaidő alatt szűnik meg, valamint ha a hallgatói jogviszonya a rendészeti alapfelkészítés teljesítésének hiányában szűnik meg.
 
@@ -3822,7 +3827,7 @@ annak a tisztjelölti jogviszonya a törvény erejénél fogva megszűnik, az ad
 
 (1) Ha a tisztjelölt tisztjelölti jogviszonya próbaidő alatt, a 242. § (1) bekezdés b) és c) pontja, vagy 242. § (2) bekezdése alapján szűnik meg, a tisztjelölt a képzés költségeit miniszteri rendeletben meghatározottaknak megfelelően köteles megtéríteni. A megtérítési kötelezettség a tisztjelölti jogviszony megszűnését követő naptól esedékes.
 
-(2) A megtérítési kötelezettség részbeni vagy teljes megfizetése alól a NAV vezetője – miniszteri rendeletben meghatározott rendben – a tisztjelöltet kérelmére, különös méltánylást érdemlő körülményeire figyelemmel mentesítheti.
+(2) A megtérítési kötelezettség részbeni vagy teljes megfizetése alól a NAV elnöke – miniszteri rendeletben meghatározott rendben – a tisztjelöltet kérelmére, különös méltánylást érdemlő körülményeire figyelemmel mentesítheti.
 
 (3) Ha a szolgálati jogviszony a 241. § (3) bekezdésében meghatározott időtartam előtt, a 22. § (1) bekezdésében, 67. § a), b), e) vagy f) pontjában, 70. § (2) bekezdés a) vagy f) pontjában meghatározottak szerint kerül megszüntetésre vagy a 66. § (1) bekezdés f) pontjában, a 92. § (1) bekezdésében vagy a 95. § (4) bekezdésében meghatározottak szerint szűnik meg, a foglalkoztatott a tisztjelölti jogviszonya alapján részére kifizetett juttatás összegét miniszteri rendeletben meghatározottak szerint, időarányos mértékben köteles megtéríteni.
 
@@ -3841,7 +3846,7 @@ A tisztjelölt hallgatói jogviszonyának szünetelése a tisztjelölti jogviszo
 - c) a harmadik évfolyamon a tanév első napjától hallgató főtörzsőrmester,
 - d) a negyedik évfolyamon a tanév első napjától hallgató zászlós.
 
-(3) A tisztjelölt szolgálatteljesítési helye a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar Rendvédelmi Tagozata (a továbbiakban: Rendvédelmi Tagozat). A tisztjelölt szolgálati feladatait a Rendvédelmi Tagozat szolgálati szabályzata tartalmazza. A Rendvédelmi Tagozaton megalakított egységek a képzési szakok és szakirányok szerint kerülnek megalakításra, amelyek egyben az állományilletékes NAV tartalékát is képezik. Kötelékben és különleges jogrendben történő alkalmazásuk és gyakoroltatásuk rendjét a NAV vezetője és a Nemzeti Közszolgálati Egyetem rektora által megkötött együttműködési megállapodás tartalmazza.
+(3) A tisztjelölt szolgálatteljesítési helye a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar Rendvédelmi Tagozata (a továbbiakban: Rendvédelmi Tagozat). A tisztjelölt szolgálati feladatait a Rendvédelmi Tagozat szolgálati szabályzata tartalmazza. A Rendvédelmi Tagozaton megalakított egységek a képzési szakok és szakirányok szerint kerülnek megalakításra, amelyek egyben az állományilletékes NAV tartalékát is képezik. Kötelékben és különleges jogrendben történő alkalmazásuk és gyakoroltatásuk rendjét a NAV elnöke és a Nemzeti Közszolgálati Egyetem rektora által megkötött együttműködési megállapodás tartalmazza.
 
 (4) A tisztjelölt esetében a szolgálati érintkezés során szóban „hallgató” megszólítást kell alkalmazni, amelyet írásban a „pénzügyőr” jelzővel kell kiegészíteni.
 
@@ -4207,7 +4212,7 @@ E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Sor- szám | A hatáskör területe | Munkáltatói jogkör megnevezése | A jogkör gyakorlója |  |
-| 2 | a miniszter | a NAV vezetője |
+| 2 | a miniszter | a NAV elnöke |
 | 3 | 1. | Szolgálati jogviszonnyal kapcsolatos intézkedések | Állományba vétel |  |  |
 | 4 |  | tábornokra vonatkozó javaslat előterjesztése a köztársasági elnökhöz | X |  |
 | 5 |  | főtiszt, tiszt esetében |  | X |
@@ -4230,7 +4235,7 @@ E törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 | 22 | 4. | Fegyelmi hatáskörök | Tábornok esetében rendfokozatban visszavetés, illetve hivatalvesztés fegyelmi büntetés kiszabására vonatkozó javaslat előterjesztése a köztársasági elnökhöz | X |  |
 | 23 |  |  | Rendfokozatban visszavetés, illetve hivatalvesztés fegyelmi büntetés kiszabása főtiszt, tiszt esetében |  | X |
 | 24 |  |  | Fegyelmi eljárás lefolytatása, egyéb fegyelmi büntetések kiszabása |  |  |
-| 25 |  |  | tábornok esetében |  | a NAV vezetője, illetve az általa vezetett fegyelmi tanács |
+| 25 |  |  | tábornok esetében |  | a NAV elnöke, illetve az általa vezetett fegyelmi tanács |
 | 26 | 5. | Vezényléssel | Külszolgálatra történő vezénylés |  |  |
 | 27 |  | kapcsolatos | tábornok esetében | X |  |
 | 28 |  | intézkedések | főtiszt, tiszt, zászlós, tiszthelyettes esetében |  | X |
@@ -4396,16 +4401,18 @@ aláírás, lakcím
 
 | 1. | Besorolási kategória | NAV központi szerve | NAV területi szerve |
 | --- | --- | --- | --- |
-| 2. | 1 | főigazgató |  |
-| 3. | 2 | szakfőigazgató, főigazgató-helyettes |  |
-| 4. | 3 | főosztályvezető |  |
-| 5. | 4 |  | igazgató |
-| 6. | 5 | főosztályvezető-helyettes |  |
-| 7. | 6 |  | igazgató-helyettes |
-| 8. | 7 | osztályvezető |  |
-| 9. | 8 |  | főosztályvezető |
-| 10. | 9 |  | főosztályvezető-helyettes |
-| 11. | 10 |  | osztályvezető |
+| 2. | 1 | elnök |  |
+| 3. | 2 | elnökhelyettes |  |
+| 4. | 3 | főigazgató |  |
+| 5. | 4 | főigazgató-helyettes |  |
+| 6. | 5 | főosztályvezető |  |
+| 7. | 6 |  | igazgató |
+| 8. | 7 | főosztályvezető-helyettes |  |
+| 9. | 8 |  | igazgató-helyettes |
+| 10. | 9 | osztályvezető |  |
+| 11. | 10 |  | főosztályvezető |
+| 12. | 11 |  | főosztályvezető-helyettes |
+| 13. | 12. |  | osztályvezető |
 
 ### 5. melléklet a 2020. évi CXXX. törvényhez
 
@@ -4468,10 +4475,10 @@ aláírás, lakcím
 | A | B | C | D | E | F |
 | --- | --- | --- | --- | --- | --- |
 | 1. | vezetői munkakör | területi szerv |  | központi szerv |  |
-| 2. |
-| 3. | alapilletmény alsó határa | alapilletmény felső határa | alapilletmény alsó határa | Maximum alap-illetmény |
-| 4. | főigazgató |  |  | 1 330 000 Ft | 1 450 000 Ft |
-| 5. | szakfőigazgató |  |  | 1 100 000 Ft | 1 220 000 Ft |
+| 2. |  |  |  |  |  |
+| 3. |  | alapilletmény alsó határa | alapilletmény felső határa | alapilletmény alsó határa | Maximum alapilletmény |
+| 4. | elnökhelyettes |  |  | 1 450 000 Ft | 1 650 000 Ft |
+| 5. | főigazgató |  |  | 1 250 000 Ft | 1 450 000 Ft |
 | 6. | főigazgató-helyettes |  |  | 1 100 000 Ft | 1 220 000 Ft |
 | 7. | igazgató | 880 000 Ft | 1 000 000 Ft | 890 000 Ft | 1 010 000 Ft |
 | 8. | igazgatóhelyettes | 790 000 Ft | 910 000 Ft | 820 000 Ft | 940 000 Ft |

@@ -31,7 +31,7 @@ Magyarország a rendvédelmi feladatokat ellátó szervektől alkotmányos köte
 - a) a hivatásos szolgálatra jelentkezőkre,
 - b) a rendvédelmi oktatási intézménybe, hivatásos szolgálat ellátására jogosító képzésre jelentkezőkre,
 - c) a rendvédelmi oktatási intézmény nem hivatásos állományának ösztöndíjas hallgatóira, tanulóira,
-- d) a rendvédelmi oktatási intézmény tisztjelöltjeire (a továbbiakban: tisztjelölt),
+- d) a rendvédelmi tisztjelöltre,
 - e) a szolgálati nyugdíjasokra, valamint
 - f) a hivatásos állomány tagja és a szolgálati nyugdíjas közeli hozzátartozóira
 
@@ -77,6 +77,7 @@ is alkalmazni kell.
 - 20. pályakezdő: az a személy, aki a besorolása alapjául szolgáló iskolai végzettségének megszerzése után első foglalkoztatási jogviszonyként szolgálati viszonyt létesít, a véglegesítéséig;
 - 21. preferált település: olyan település vagy településrész, amelynek sajátosságai miatt – figyelemmel a rendvédelmi szerv vagy annak szervezeti egysége által ellátott feladatok jellegére – az adott településen vagy településrészen való szolgálatteljesítés ösztönzése indokolt;
 - 22. rendvédelmi oktatási intézmény: rendvédelmi szakképző intézmény, valamint a rendészeti és nemzetbiztonsági felsőoktatást folytató felsőoktatási intézmény;
+- 22a. rendvédelmi tisztjelölt: a rendvédelmi alapképzésre felvételt nyert személy, aki a képzés időtartama alatt hallgatói jogviszonyban és a XXVII. Fejezetben meghatározottak szerinti tisztjelölti szolgálati jogviszonyban áll;
 - 23. szervezeti állománytáblázat: a rendvédelmi szerv önálló jogi személynek minősülő egységeihez tartozó szervezeti egységek állománytáblázatát összesítő állománytáblázat, valamint a rendvédelmi szerv egészére vonatkozó, valamennyi, a rendvédelmi szervhez tartozó szervezeti egység állománytáblázatát összesítő állománytáblázat;
 - 24. szervezeti egység: a rendvédelmi szervnek a rendvédelmi szerv szervezeti rendszerében elhelyezkedő, különböző szervezeti elemekből álló, önálló feladatra és működésre létrehozott, meghatározott székhellyel vagy telephellyel rendelkező, az állományilletékes parancsnok által vezetett szervezete;
 - 25. szolgálati beosztás: az állománytáblázatban rendszeresített, a hivatásos állomány tagjával betölthető munkakör;
@@ -645,6 +646,8 @@ is alkalmazni kell azzal, hogy esetükben a szolgálati viszonyon a hallgatói, 
 (2) Ha a hivatásos állományba kinevezés a miniszter vagy az országos parancsnok hatáskörébe tartozik, az állományba vételt és rendfokozatba kinevezést a miniszter vagy az országos parancsok, egyéb, a szolgálati beosztásba helyezéssel kapcsolatos rendelkezést az állományilletékes parancsnok munkáltatói intézkedése tartalmazza.
 
 (3) A hivatásos állomány tagja részére legkésőbb az első szolgálat megkezdésekor a munkaköri leírását át kell adni, és tájékoztatni kell őt a szolgálat teljesítéséhez szükséges munkavédelmi szabályokról, valamint a szolgálatteljesítés rendjéről.
+
+(4) A hivatásos állomány tagját a szolgálatteljesítés alapvető feltételeiről és szempontjairól a személyügyi igazgatásra vonatkozó rendelkezések között a miniszter által meghatározott rendben és tartalommal tájékoztatni kell.
 
 46. § (1) A hivatásos állomány pályakezdő tagja az „A” besorolási kategóriába tartozó szolgálati beosztásba, annak első fizetési fokozatába és rendfokozatába nevezhető ki. A tanulmányait kiváló vagy annak megfelelő minősítésű eredménnyel végző pályakezdőt a kinevezésre jogosult az „A” besorolási kategória második fizetési fokozatába is kinevezheti.
 
@@ -3474,7 +3477,7 @@ hivatalból eljárva határozatban dönt. A határozat alapján a támogatás m�
 - a) a rendvédelmi szervnek azzal a szervezeti egységével, vagy ha a szolgálatát máshol látja el, a vezénylés helye szerinti szervvel szemben indíthatja meg, amelynek elöljárója az (1) bekezdés a) pontja esetében a sérelmezett, jogvitára okot adó intézkedést hozta,
 - b) az (1) bekezdés b) pontja esetében a szolgálatteljesítési hely szerinti szervezeti egységgel szemben indíthatja meg.
 
-(4)
+(4) Ha a hivatásos állomány tagja a bíróság előtt – indokolással alátámasztva – arra hivatkozik, hogy a szolgálati viszonyát ténylegesen a 45. § (4) bekezdésében foglalt tájékoztatási kötelezettséggel kapcsolatos igénye miatt szüntették meg, a rendvédelmi szerv köteles bizonyítani, hogy a szolgálati viszony megszüntetésére nem ezen okból került sor.
 
 271. § (1) A bíróság a szolgálati viszony megszüntetéséről hozott határozatot hatályon kívül helyezi, ha az felmentési tilalomba ütközik vagy egyébként jogellenes.
 
@@ -3639,89 +3642,118 @@ a rögzítéskor meghatározott szolgálati időre figyelemmel kell megállapít
 
 283. § Akinek a szolgálati viszonyát megszüntették, annak a 280. § (1) bekezdése szerint számított hivatásos szolgálati idejét – ha jogszabály eltérően nem rendelkezik – kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati, igazságügyi alkalmazotti szolgálati jogviszony, bírói vagy ügyészségi szolgálati viszony, rendvédelmi igazgatási szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony vagy közigazgatási szervnél munkaviszony létesítése esetén a létesítendővel azonos jellegű jogviszonyban eltöltött időnek kell elismerni.
 
-### XXVII. Fejezet — A TISZTJELÖLT
+### XXVII. Fejezet — A RENDVÉDELMI TISZTJELÖLT
 
-284. § (1) A tisztjelölt tisztjelölti szolgálati jogviszonyban (a továbbiakban: tisztjelölti jogviszony) teljesít szolgálatot, amelyben őt és a vele ösztöndíjszerződést kötő rendvédelmi szervet a jogszabályban és az ösztöndíjszerződésben meghatározott kötelezettségek terhelik, és jogosultságok illetik meg. A tisztjelölt elsődleges szolgálati kötelezettsége a rendvédelmi szervnél a tiszti besorolási osztályba tartozó szolgálati beosztásban történő szolgálatteljesítésre való felkészülés.
+284. § (1) A rendvédelmi tisztjelölt rendvédelmi tisztjelölti szolgálati jogviszonyban (a továbbiakban: rendvédelmi tisztjelölti jogviszony) teljesít szolgálatot, amelyben őt és a vele rendvédelmi tisztjelölti jogviszonyt létesítő rendvédelmi szervet jogszabályban meghatározott kötelezettségek terhelik, és jogosultságok illetik meg. A rendvédelmi tisztjelölt elsődleges szolgálati kötelezettsége a rendvédelmi szervnél a tiszti besorolási osztályba tartozó szolgálati beosztásban történő szolgálatteljesítésre való felkészülés.
 
-(2) A tisztjelöltre e törvénynek a hivatásos állomány tagjára vonatkozó rendelkezéseit az e Fejezetben foglalt eltérésekkel megfelelően kell alkalmazni.
+(2) A rendvédelmi tisztjelöltre e törvénynek a hivatásos állomány tagjára vonatkozó rendelkezéseit az e Fejezetben foglalt eltérésekkel kell alkalmazni.
 
-(3) A tisztjelölti jogviszonyra nem alkalmazható a 15. §, az 52–72. §, a 78. és 79. §, a 86–95. §, a 96–98. §, a 114–133. §, valamint a 154–178. §.
+(3) A rendvédelmi tisztjelölti jogviszonyra nem alkalmazható a 15. §, az 52–72. §, a 78. és 79. §, a 86–95. §, a 96–98. §, a 114–133. §, valamint a 154–178. §.
 
-#### 112. A tisztjelölti jogviszony létesítése és megszüntetése
+#### 112. A rendvédelmi tisztjelölti jogviszony létesítése és megszüntetése
 
-285. § (1) A rendészeti alapképzésre, nappali tagozatra felvételt nyert személy az ösztöndíjszerződés megkötésével a rendvédelmi szerv tisztjelölti állományába kerül. Személyügyi nyilvántartását, tisztjelölti jogviszonyával kapcsolatos ügyei intézését a rendvédelmi szerv végzi. A munkáltatói jogkör gyakorlója az ösztöndíjszerződést kötő rendvédelmi szerv vezetője. Rendészeti alapképzésben ösztöndíjszerződés megkötése nélkül hallgatói jogviszony nem létesíthető, és nem tartható fenn.
+285. § (1) A rendészeti alapképzésre, nappali tagozatra felvételt nyert személyt az országos parancsnok vagy az országos főigazgató a rendvédelmi szerv rendvédelmi tisztjelölti állományába kinevezi. Személyügyi nyilvántartását, rendvédelmi tisztjelölti jogviszonyával kapcsolatos ügyei intézését a rendvédelmi szerv végzi. A munkáltatói jogkör gyakorlója a rendvédelmi tisztjelölti jogviszonyt létesítő rendvédelmi szerv országos parancsnoka, illetve országos főigazgatója.
 
-(2) A tisztjelölti jogviszony létesítésének további feltétele, hogy a tisztjelölttel szemben hallgatói jogviszonyt kizáró körülmény nem áll fenn. Nem köthető ösztöndíjszerződés azzal, akinek ösztöndíjas hallgatói jogviszonya vagy tisztjelölti jogviszonya kizárás fenyítés jogerős kiszabásával, lemondással, tanulmányi kötelezettség önhibából történő elmulasztása miatt vagy méltatlanság jogerős megállapításával szűnt meg.
+(2) A rendvédelmi tisztjelölti jogviszony létesítésének feltétele, hogy a rendvédelmi tisztjelölttel szemben hallgatói jogviszonyt kizáró körülmény nem áll fenn. Nem nevezhető ki rendvédelmi tisztjelölti jogviszonyba, akinek ösztöndíjas hallgatói jogviszonya vagy rendvédelmi tisztjelölti jogviszonya kizárás fenyítés jogerős kiszabásával, lemondással, tanulmányi kötelezettség önhibából történő elmulasztása miatt vagy méltatlanság jogerős megállapításával szűnt meg.
 
-(3) Az ösztöndíjszerződést és annak módosítását írásba kell foglalni. A tisztjelölt az ösztöndíjszerződés megkötésével vállalja, hogy rendészeti tanulmányait legjobb képességei szerint folytatja, és hivatásos állományba vételét követően, legalább a rendészeti alapképzés kétszeresének megfelelő időtartamban a vele ösztöndíjszerződést kötő rendvédelmi szervnél szolgálatot teljesít. A munkáltatói jogkört gyakorló elöljáró hozzájárulásával ezt a kötelezettségét másik rendvédelmi szervnél is teljesítheti. A rendvédelmi szerv azt vállalja, hogy a tisztjelölt rendészeti tanulmányait támogatja, ezek befejezését követően hivatásos állományba veszi, és a végzettségének megfelelő szolgálati beosztásban foglalkoztatja.
+(3) A rendvédelmi tisztjelölti jogviszonyba történő kinevezést és annak módosítását írásba kell foglalni. A rendvédelmi tisztjelölt köteles a rendészeti tanulmányait legjobb képességei szerint folytatni, és hivatásos állományba vételét követően legalább 10 év időtartamban az őt kinevező rendvédelmi szervnél szolgálatot teljesíteni. A rendvédelmi szerv köteles a rendvédelmi tisztjelölt rendészeti tanulmányait támogatni, ezek befejezését követően hivatásos állományba venni, és a végzettségének megfelelő szolgálati beosztásban foglalkoztatni.
 
-(4) A tisztjelölt a beiratkozást követő hat hónapig rendészeti alapfelkészítésen vesz részt. A tisztjelölt a rendészeti alapfelkészítés befejezésekor „Tisztjelölt” vizsgát, ezt követően a hivatásos állomány tagja számára előírt esküt tesz.
+(4) A rendvédelmi tisztjelölt a képzési követelményt az adott szakra vonatkozó, jogszabályban közzétett Képzési és Kimeneti Követelményben meghatározott képzési idő alatt köteles teljesíteni. A hallgatói jogviszony szünetelésének időtartama a képzési időbe nem számít bele.
 
-(5) Az ösztöndíjszerződésben a rendészeti alapfelkészítést tartalmazó hat hónap idejére próbaidőt kell kikötni. A próbaidő alatt a tisztjelölti jogviszonyt bármelyik fél indokolás nélkül, azonnali hatállyal megszüntetheti. A próbaidő alatt meg kell szüntetni a tisztjelölti jogviszonyát annak, aki a rendészeti alapfelkészítést önhibájából nem teljesíti vagy a kifogástalan életvitel követelményeinek nem felel meg. A korábban folytatott rendészeti tanulmányok elismerésével megkötött ösztöndíjszerződésben – amennyiben a tisztjelölt ismételt rendészeti alapfelkészítésére nem kerül sor – hat hónap próbaidőt kell kikötni.
+(5) A rendvédelmi tisztjelölt részére a kinevezést legkésőbb a rendészeti alapfelkészítést megelőző 15 nappal át kell adni.
 
-286. § (1) A tisztjelölti jogviszony közös megegyezéssel történő megszüntetésének minősül, ha a tisztjelölt kérelmére a munkáltatói jogkört gyakorló a szolgálati érdekre vagy a tisztjelölt különös méltánylást érdemlő egyéni érdekére tekintettel engedélyezi a hivatásos állományba vételt.
+(6) A rendvédelmi tisztjelölt a beiratkozást követő hat hónapig rendészeti alapfelkészítésen vesz részt. A rendvédelmi tisztjelölt a rendészeti alapfelkészítés befejezésekor „Tisztjelölt” vizsgát, ezt követően a hivatásos állomány tagja számára előírt esküt tesz.
 
-(2) Ha az engedélyt a munkáltatói jogkört gyakorló megadja, vagy ha az érintett a tisztjelölti jogviszonyát nem kívánja fenntartani, a tisztjelölti jogviszony a neki felróható okból kerül megszüntetésre. A tisztjelölt tisztjelölti jogviszonyát egyoldalú jognyilatkozattal megszüntetheti. Ha a tisztjelölt kérelmére a felek rövidebb határidőben nem állapodnak meg, a tisztjelölti jogviszony a jognyilatkozat közléstől számított harminc nap elteltével – a munkáltatói jogkört gyakorló külön intézkedése nélkül – megszűnik.
+(7) A rendvédelmi tisztjelölt részére a rendészeti alapfelkészítést tartalmazó hat hónap idejére próbaidőt kell kikötni. A próbaidő alatt a rendvédelmi tisztjelölti jogviszonyt bármelyik fél indokolás nélkül, azonnali hatállyal megszüntetheti. A próbaidő alatt meg kell szüntetni a rendvédelmi tisztjelölti jogviszonyát annak, aki a rendészeti alapfelkészítést önhibájából nem teljesíti vagy a kifogástalan életvitel követelményeinek nem felel meg.
 
-(3) A munkáltatói jogkört gyakorló a tisztjelölti jogviszonyt egyoldalú jognyilatkozattal megszüntetheti, ha a tisztjelölt határidőn belül önhibájából nem tesz eleget az ösztöndíjszerződésben előírt kötelezettségeinek, vagy ha nemzetbiztonsági szempontból a szolgálatra alkalmatlanná vált. Ha e törvény eltérően nem rendelkezik, a tisztjelölti jogviszony a jognyilatkozat közlésétől számított harmincadik nap elteltével megszűnik.
+285/A. § (1) A rendvédelmi tisztjelölti jogviszony megszűnik
 
-(4) A tisztjelölti jogviszony e törvény erejénél fogva szűnik meg
+- a) a rendvédelmi tisztjelölt halálával,
+- b) ha a rendvédelmi tisztjelölti jogviszony érvénytelen jognyilatkozat alapján jött létre,
+- c) a kizárás fenyítés jogerőre emelkedésével,
+- d) a hallgatói jogviszony megszűnésének napján,
+- e) a tiszti rendfokozati állománycsoportba tartozó rendfokozatba történő kinevezéssel.
 
-- a) a kizárás fenyítés jogerőre emelkedésével,
-- b) a hallgatói jogviszony megszűnésének napján, kivéve, ha a hallgatói jogviszony a felsőfokú végzettséget tanúsító oklevél kiállításának napján szűnik meg, vagy
-- c) a tiszti rendfokozati állománycsoportba tartozó rendfokozatba történő kinevezéssel.
+(2) A rendvédelmi tisztjelölt rendvédelmi tisztjelölti jogviszonyát felmentéssel meg kell szüntetni, ha
 
-(5) A tisztjelölti jogviszony megszűnésének napján – a munkáltatói jogkört gyakorló külön intézkedése nélkül – az ösztöndíjszerződés hatályát veszti. A tisztjelölti jogviszony megszűnésekor, megszüntetésekor a tisztjelölt köteles a vele ösztöndíjszerződést kötő rendvédelmi szervnél elszámolni.
+- a) nemzetbiztonsági szempontból a rendvédelmi tisztjelölti szolgálatra alkalmatlanná vált,
+- b) a képzési idő alatt a jogszabályban előírt, egészségi, pszichológia vagy fizikai alkalmassági követelményeknek nem felel meg.
 
-(6) Ha a tisztjelölti jogviszony neki felróható okból szűnik meg, a tisztjelölt a képzés költségeit miniszteri rendeletben meghatározottaknak megfelelően köteles megtéríteni. A megtérítési kötelezettség a tisztjelölti szolgálati viszony megszűnését követő naptól esedékes.
+(3) Felmentés esetén a felmentési idő egy hónap. A rendvédelmi tisztjelölt írásbeli kérelme alapján a felek ennél rövidebb felmentési időben is megállapodhatnak.
 
-(7) A tisztjelölt hallgatói jogviszonyának szünetelése a tisztjelölti jogviszonyának fennállását nem érinti. A tisztjelölt a munkáltatói jogkört gyakorlótól kérheti, hogy a hallgatói jogviszonya szüneteltetésével egyidejűleg különös méltánylást érdemlő egyéni érdekére tekintettel a tisztjelölti jogviszony szünetelését engedélyezze.
+285/B. § (1) Az a rendvédelmi tisztjelölt, aki rendelkezik a 285. § (6) bekezdés szerinti „Tisztjelölt” vizsgával és
 
-(8) Szabadságra kizárólag a hallgatói jogviszony szünetelésének időtartama alatt szolgálati feladatokat ellátó tisztjelölt jogosult. A tisztjelöltet ezen időtartamra a 143-146. §-ban foglaltak alkalmazása helyett a heti szolgálatteljesítési idejének alapulvételével megállapított, évi öt heti szolgálatteljesítésnek megfelelő mértékű alapszabadság időarányos része illeti meg.
+- a) a tanulmányi és vizsgaszabályzatban, illetve a tantervben rögzített, a tanulmányokban való előrehaladással kapcsolatos kötelezettségeit nem teljesíti vagy
+- b) a hallgatói jogviszonyát megszünteti,
 
-#### 113. A tisztjelölti szolgálat
+annak rendvédelmi tisztjelölti jogviszonya a törvény erejénél fogva megszűnik, az addig megszerzett rendfokozatát a törvény erejénél fogva elveszti és őt a munkáltatói jogkör gyakorlója szolgálati viszonyba történő kinevezéssel egyidejűleg a rendvédelmi szervnél tiszthelyettesi besorolási kategóriába tartozó beosztásba helyezi.
 
-287. § (1) A tisztjelölt a vele ösztöndíjszerződést kötő rendvédelmi szerv tisztjelölti állományában, az előmenetelének megfelelő tisztjelölti rendfokozati jelzéssel teljesít szolgálatot. Szolgálatteljesítési helye a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar Rendvédelmi Tagozata (a továbbiakban: Rendvédelmi Tagozat). A tisztjelöltek szolgálati feladatait a Rendvédelmi Tagozat szolgálati szabályzata tartalmazza. A Rendvédelmi Tagozaton megalakított egységek a képzési szakok és szakirányok szerint kerülnek megalakításra, amelyek egyben az állományilletékes rendvédelmi szerv tartalékát is képezik. Kötelékben és különleges jogrendi helyzetekben történő alkalmazásuk és gyakoroltatásuk rendjét az országos parancsnok és a Nemzeti Közszolgálati Egyetem rektora által megkötött együttműködési megállapodás tartalmazza.
+(2) Az (1) bekezdés szerinti esetben a munkáltatói jogkör gyakorlója a rendvédelmi tisztjelölt kérelmére és a rendvédelmi tisztjelölt különös méltánylást érdemlő egyéni érdekére tekintettel – a hivatásos jogviszonyban továbbfoglalkoztatás helyett – engedélyezheti a rendvédelmi igazgatási szolgálati jogviszonyban történő továbbfoglalkoztatást. A rendvédelmi igazgatási szolgálati jogviszonyban történő továbbfoglalkoztatás nem érinti a (4) bekezdés szerint megállapítandó időtartamot.
 
-(2) A tisztjelölt esetében a szolgálati érintkezés során szóban „hallgató” megszólítást kell alkalmazni, amelyet írásban a jövendő hivatásának megfelelő rendvédelmi szervnél alkalmazott jelzővel kell kiegészíteni.
+(3) Nem kell biztosítani a rendvédelmi tisztjelölt számára az (1) és (2) bekezdés szerinti foglalkoztatást, ha a hallgatói jogviszonya a 285. § (7) bekezdés szerinti próbaidő alatt szűnik meg, valamint ha a hallgatói jogviszonya a rendészeti alapfelkészítés teljesítésének hiányában szűnik meg.
 
-(3) A tisztjelölt szolgálatteljesítése során – a 285. § (4) bekezdésében meghatározott képzettségi szintet meghaladó – intézkedésre önállóan nem jogosult. Az alapképzést követően – az eskütétel után – szakmai gyakorlaton vagy elrendelt szolgálati tevékenység során szolgálati fegyvert, felszerelést a rendvédelmi szerv számára meghatározott szabályok szerint viselhet és a jogszabályok előírásainak megfelelően használhat.
+(4) Az (1) bekezdés szerinti rendvédelmi tisztjelölt esetében a 285. § (3) bekezdése szerint vállalt időtartamot a hallgatói jogviszony megszűnésétől kell számítani.
 
-(3a) A (3) bekezdésben foglaltaktól eltérően a rendőrség tisztjelöltje az őt ösztöndíj szerződéssel foglalkoztató rendvédelmi szerven kívül más rendőrségi szervnél is teljesítheti a szakmai gyakorlatát. Ebben az esetben a szakmai gyakorlat során a tisztjelölt szolgálati fegyvert, felszerelést a szakmai gyakorlatot biztosító rendvédelmi szerv számára meghatározott szabályok szerint viselhet és a jogszabályok előírásainak megfelelően használhat.
+285/C. § (1) Ha a rendvédelmi tisztjelölt rendvédelmi tisztjelölti jogviszonya próbaidő alatt, a 285/A. § (1) bekezdés b)–d) pontja, vagy 285/A. § (2) bekezdése alapján szűnik meg, a rendvédelmi tisztjelölt a képzés költségeit miniszteri rendeletben meghatározottaknak megfelelően köteles megtéríteni. A megtérítési kötelezettség a rendvédelmi tisztjelölti jogviszony megszűnését követő naptól esedékes.
 
-(4) A tisztjelölt szolgálatteljesítése képzési időnek minősül, amelyet úgy kell megállapítani, hogy az a tanulmányi kötelezettségeinek teljesítését ne veszélyeztesse.
+(2) A megtérítési kötelezettség részbeni vagy teljes megfizetése alól a miniszter – miniszteri rendeletben meghatározott szabályok alapján – a rendvédelmi tisztjelöltet kérelmére, különös méltánylást érdemlő körülményeire figyelemmel mentesítheti.
 
-(5) A tisztjelölt kizárólag a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló törvényben meghatározott szolgálati feladat ellátására vezényelhető, továbbá a Rendvédelmi Tagozat állományában rajparancsnoki vagy szakaszparancsnoki gyakorló feladatok ellátására jelölhető ki.
+(3) Ha a szolgálati jogviszony a 285. § (3) bekezdésében meghatározott időtartam előtt, a 80. § (1) bekezdés d), f) vagy g) pontja, a 80. § (2) bekezdés a), b) vagy f) pontja, a 82. § (1) bekezdés a) vagy c) pontja, vagy a 86. § (2) bekezdés b)–d) pontja alapján szűnt meg, a hivatásos állomány tagja a rendvédelmi tisztjelölti jogviszonya alapján részére kifizetett juttatás összegét miniszteri rendeletben meghatározottak szerint, időarányos mértékben köteles megtéríteni.
 
-#### 114. A tisztjelölt járandóságai
+285/D. § A rendvédelmi tisztjelölt hallgatói jogviszonyának szünetelése a rendvédelmi tisztjelölti jogviszonyának fennállását nem érinti. A hallgatói jogviszony szünetelése alatt a rendvédelmi tisztjelölt részére a munkáltatói jogkör gyakorlója a rendvédelmi szervnél szolgálati feladatot határozhat meg. A rendvédelmi tisztjelölt a munkáltatói jogkör gyakorlójától kérheti, hogy a hallgatói jogviszonya szüneteltetésével egyidejűleg különös méltánylást érdemlő egyéni érdekére tekintettel a rendvédelmi tisztjelölti jogviszony szünetelését engedélyezze.
 
-287/A. § (1) A tisztjelöltet az e törvényben a hivatásos állomány tagját megillető járandóságok – a (2) bekezdésben megállapított korlátozások figyelembevételével – illetik meg.
+#### 113. A rendvédelmi tisztjelölti szolgálat
 
-(2) Ha törvény eltérően nem rendelkezik, a tisztjelölt havonta ösztöndíjra jogosult. Az ösztöndíj a miniszteri rendeletben meghatározottak szerint alapösztöndíjból, alapösztöndíj-kiegészítésből, tanulmányi pótlékból, valamint egyéb pótlékokból áll.
+286. § (1) A rendvédelmi tisztjelölt a vele rendvédelmi tisztjelölti jogviszonyt létesítő rendvédelmi szerv tisztjelölti állományában, a hallgatói előmenetelének megfelelő tisztjelölti rendfokozati jelzéssel teljesít szolgálatot.
 
-(3) Az ösztöndíj összegét az egyes ösztöndíjelemekre megállapított szorzószámok és a rendvédelmi illetményalap szorzataként kell kiszámolni. Tört időszak esetén az alapösztöndíj, az alapösztöndíj-kiegészítés, a tanulmányi pótlék összegét időarányosan, az adott hónap naptári napjainak figyelembevételével kell meghatározni. Az ösztöndíjra az illetményfolyósítás és a visszatartás szabályait kell megfelelően alkalmazni.
+(2) A rendvédelmi tisztjelölt rendfokozata
 
-(4) Az egyes ösztöndíjelemek megállapítása a Nemzeti Közszolgálati Egyetem által kialakított rendben történik, amelyről a Nemzeti Közszolgálati Egyetem illetékes szerve havonta tájékoztatja az állományilletékes rendvédelmi szervet. A tájékoztatás és adatszolgáltatás rendjét együttműködési megállapodásban kell rögzíteni.
+- a) az állományba vétel napjától hallgató őrmester,
+- b) a második évfolyamon a tanév első napjától hallgató törzsőrmester,
+- c) a harmadik évfolyamon a tanév első napjától hallgató főtörzsőrmester,
+- d) a negyedik évfolyamon a tanév első napjától hallgató zászlós.
 
-(5) Nem jogosult ösztöndíjra a tisztjelölt, ha a tisztjelölti jogviszonya szünetel, valamint ha jogellenesen távol van.
+(3) A rendvédelmi tisztjelölt szolgálatteljesítési helye a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar Rendvédelmi Tagozata (a továbbiakban: Rendvédelmi Tagozat). A rendvédelmi tisztjelölt szolgálati feladatait a Rendvédelmi Tagozat szolgálati szabályzata tartalmazza. A Rendvédelmi Tagozaton megalakított egységek a képzési szakok és szakirányok szerint kerülnek megalakításra, amelyek egyben az állományilletékes rendvédelmi szerv tartalékát is képezik. Kötelékben és különleges jogrendben történő alkalmazásuk és gyakoroltatásuk rendjét az országos parancsnok és a Nemzeti Közszolgálati Egyetem rektora által megkötött együttműködési megállapodás tartalmazza.
 
-(6) A tisztjelölt miniszteri rendeletben meghatározottak szerint kollégiumi elhelyezésre, térítésmentes élelmezési, ruházati ellátásra, tanszertámogatásra, ezen túlmenően egyes költségtérítésre és szociális juttatásokra jogosult.
+(4) A rendvédelmi tisztjelölt esetében a szolgálati érintkezés során szóban „hallgató” megszólítást kell alkalmazni, amelyet írásban a jövendő hivatásának megfelelő rendvédelmi szervnél alkalmazott jelzővel kell kiegészíteni.
 
-(7) A tisztjelölt pénzbeli járandóságait a rendvédelmi szerv havonta egy összegben a tisztjelölt által megnevezett fizetési számlára átutalja.
+(5) A rendvédelmi tisztjelölt szolgálatteljesítése során – a 285. § (6) bekezdésében meghatározott képzettségi szintet meghaladó – intézkedésre önállóan nem jogosult. A sikeres „Tisztjelölt” vizsgát követően – az eskütétel után – szakmai gyakorlaton vagy elrendelt szolgálati tevékenység során szolgálati fegyvert, felszerelést a rendvédelmi szerv számára meghatározott szabályok szerint viselhet és a jogszabályok előírásainak megfelelően használhat.
 
-#### 115. A tisztjelölt fegyelmi és kártérítési felelőssége
+(6) Az (5) bekezdésben foglaltaktól eltérően a rendőrség rendvédelmi tisztjelöltje a vele rendvédelmi tisztjelölti jogviszonyt létesítő rendvédelmi szerven kívül, más rendőrségi szervnél is teljesítheti a szakmai gyakorlatát. Ebben az esetben a szakmai gyakorlat során a rendvédelmi tisztjelölt szolgálati fegyvert, felszerelést a szakmai gyakorlatot biztosító rendvédelmi szerv számára meghatározott szabályok szerint viselhet és a jogszabályok előírásainak megfelelően használhat.
 
-287/B. § (1) Ha a tisztjelölt a tisztjelölti jogviszonyából vagy a hallgatói jogviszonyából eredő kötelezettségét vétkesen megszegi, fegyelemsértést követ el. A tisztjelölttel szemben fenyítésként a 185. § (1) bekezdés a) és b) pontja, valamint a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 55. § (2) bekezdés c) és e) pontja szerinti fegyelmi büntetés szabható ki azzal, hogy az Nftv. 55. § (2) bekezdés c) pontja szerint az ösztöndíj legfeljebb öt hónapra 10–50%-kal csökkenthető. Az elévülésre az Nftv. 55. § (4) bekezdését kell alkalmazni.
+(7) A rendvédelmi tisztjelölt szolgálatteljesítése képzési időnek minősül, amelyet úgy kell megállapítani, hogy az a tanulmányi kötelezettségeinek teljesítését ne veszélyeztesse.
 
-(2) A tisztjelölt beosztásából – tanulmányok folytatásától való eltiltás nélkül – legfeljebb a büntető-, a fegyelmi és a méltatlansági eljárás jogerős befejezéséig akkor függeszthető fel, ha a szolgálati helytől távoltartása az általa elkövetett cselekmény súlya vagy jellege miatt indokolt.
+(8) A rendvédelmi tisztjelölt kizárólag a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló törvényben meghatározott szolgálati feladat ellátására vezényelhető, továbbá a Rendvédelmi Tagozat állományában rajparancsnoki vagy szakaszparancsnoki gyakorló feladatok ellátására jelölhető ki.
 
-(3) A tisztjelölt vonatkozásában a 192. § nem alkalmazandó, a fegyelmi jogkör gyakorlójának személyét miniszteri rendelet határozza meg. A fegyelmi jogkör gyakorlásába a Rendvédelmi Tagozat, valamint a Nemzeti Közszolgálati Egyetem bevonható.
+(9) A rendvédelmi tisztjelölt az oktatási szünet időtartamára – a kötelező gyakorlat kivételével – mentesül a szolgálatteljesítési és rendelkezésre állási kötelezettség alól.
 
-(4) A tisztjelölt kártérítési felelőssége kiterjed a tisztjelölti jogviszonyából és a hallgatói jogviszonyából eredő kötelezettségének vétkes megszegésével okozott kár megtérítésére is.
+(10) Szabadságra kizárólag a hallgatói jogviszony szünetelésének időtartama alatt szolgálati feladatokat ellátó rendvédelmi tisztjelölt jogosult. A rendvédelmi tisztjelöltet ezen időtartamra a 143–146. §-ban foglaltaktól eltérően a heti szolgálatteljesítési idejének alapulvételével megállapított, évi öt heti szolgálatteljesítésnek megfelelő mértékű alapszabadság időarányos része illeti meg.
+
+#### 114. A rendvédelmi tisztjelölt járandóságai
+
+287. § (1) A rendvédelmi tisztjelölt havonta a miniszter rendeletében meghatározottak szerinti illetményre jogosult. Az illetmény alapilletményből, tanulmányi díjból, valamint illetménypótlékból áll. Az alapilletmény legalább a garantált bérminimumnak megfelelő összeg. Az alapilletmény évfolyamonkénti eltérő mértékét, valamint a tanulmányi díj mértékét és az illetménypótlék összegét a miniszter rendeletben állapítja meg.
+
+(2) A rendvédelmi tisztjelölt miniszteri rendeletben meghatározottak szerint kollégiumi elhelyezésre, térítésmentes élelmezési, ruházati ellátásra, tanszertámogatásra, ezen túlmenően egyes költségtérítésre és szociális juttatásokra jogosult.
+
+(3) A rendvédelmi tisztjelölt pénzbeli járandóságait a rendvédelmi szerv havonta egy összegben a tisztjelölt által megnevezett fizetési számlára átutalja.
+
+(4) Nem jogosult illetményre a rendvédelmi tisztjelölt, ha a rendvédelmi tisztjelölti jogviszonya szünetel, valamint ha jogellenesen távol van.
+
+#### 115. A rendvédelmi tisztjelölt fegyelmi és kártérítési felelőssége
+
+287/A. § (1) Ha a rendvédelmi tisztjelölt a rendvédelmi tisztjelölti jogviszonyából vagy a hallgatói jogviszonyából eredő kötelezettségét vétkesen megszegi, fegyelemsértést követ el. A tisztjelölttel szemben fenyítésként a 185. § (1) bekezdés a), b) és h) pontja, valamint az alapilletmény csökkentése fegyelmi fenyítés szabható ki azzal, hogy az alapilletmény legfeljebb 5 hónapra, legfeljebb 20%-kal csökkenthető.
+
+(2) A rendvédelmi tisztjelölt beosztásából – tanulmányok folytatásától való eltiltás nélkül – legfeljebb a büntető-, a fegyelmi és a méltatlansági eljárás jogerős befejezéséig akkor függeszthető fel, ha a szolgálati helytől távoltartása az általa elkövetett cselekmény súlya vagy jellege miatt indokolt.
+
+(3) A rendvédelmi tisztjelölt vonatkozásában a 192. § nem alkalmazandó, a fegyelmi jogkör gyakorlójának személyét miniszteri rendelet határozza meg. A fegyelmi jogkör gyakorlásába a Rendvédelmi Tagozat, valamint a Nemzeti Közszolgálati Egyetem bevonható.
+
+(4) A rendvédelmi tisztjelölt kártérítési felelőssége kiterjed a rendvédelmi tisztjelölti jogviszonyából és a hallgatói jogviszonyából eredő kötelezettségének vétkes megszegésével okozott kár megtérítésére is.
 
 (5) A fegyelmi és a kártérítési eljárás jogszabályban nem szabályozott kérdéseiben a Nemzeti Közszolgálati Egyetem fegyelmi és kártérítési szabályzatának rendelkezéseit kell alkalmazni.
 
-(6) A tisztjelölt képviseletében a kari hallgatói önkormányzat is eljárhat.
+(6) A rendvédelmi tisztjelölt képviseletében a kari hallgatói önkormányzat is eljárhat.
+
+#### 287/B. §
 
 ### XXVIII. Fejezet — A RENDVÉDELMI SZERVNÉL FOGLALKOZTATOTT MUNKAVÁLLALÓ
 
@@ -3993,6 +4025,8 @@ létesíthető. A határozott idejű igazgatási jogviszony időtartamát naptá
 (3) A kinevezési okmány az igazgatási jogviszonyt érintő egyéb kérdésekről is rendelkezhet.
 
 (4) A kinevezési okmányhoz csatolni kell a rendvédelmi alkalmazott munkaköri leírását, tájékoztatni kell őt a munkavégzéshez szükséges munkavédelmi szabályokról, valamint a munkavégzés rendjéről.
+
+(4a) A rendvédelmi alkalmazottat a munkavégzés alapvető feltételeiről és szempontjairól a miniszter által meghatározott rendben és tartalommal tájékoztatni kell.
 
 (5) A kinevezési okmány egy példányát a rendvédelmi alkalmazottnak át kell adni.
 
@@ -4884,6 +4918,8 @@ időtartamát.
 
 289/V. § (1) A rendvédelmi alkalmazott az igazgatási jogviszonyból származó jogvita esetén keresettel fordulhat a bírósághoz.
 
+(1a) Ha a rendvédelmi alkalmazott a bíróság előtt – indokolással alátámasztva – arra hivatkozik, hogy az igazgatási jogviszonyát ténylegesen a 287/P. § (4a) bekezdésében foglalt tájékoztatási kötelezettséggel kapcsolatos igénye miatt szüntették meg, a rendvédelmi szerv köteles bizonyítani, hogy a szolgálati viszony megszüntetésére nem ezen okból került sor.
+
 (2) A bíróság az igazgatási jogviszony megszüntetéséről hozott határozatot hatályon kívül helyezi, ha az felmentési tilalomba ütközik vagy egyébként jogellenes.
 
 (3) Ha az igazgatási jogviszonyt jogellenesen szüntették meg, a rendvédelmi alkalmazottat olyan helyzetbe kell hozni, mintha az igazgatási jogviszony meg sem szűnt volna.
@@ -5623,7 +5659,10 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 - 24. meghatározza a rendvédelmi szervek és a hivatásos állomány tagjainak kártérítési felelősségével kapcsolatos eljárások részletes szabályait, a kártérítési felelősség megállapításának módját, mérséklésének és mellőzésének részletes szabályait,
 - 25. meghatározza a szociális és kegyeleti gondoskodás, támogatás formáit, nyújtásának eljárási rendjét és feltételeit, mértékét, a személyi állomány elhunyt tagja kegyeleti minősítésének rendjét, valamint az ellátások pénzügyi feltételei biztosításának módját, továbbá a szolgálati nyugdíjasokkal kapcsolatos személyügyi feladatok ellátásának rendjét,
 - 26. megállapítsa a szolgálati panasz elbírálásának rendjét,
-- 27. megállapítsa a tisztjelölti jogviszony létesítésére és megszüntetésére vonatkozó részletes eljárási szabályokat, a tisztjelölti szolgálatra vonatkozó rendelkezéseket, valamint a tisztjelölti ösztöndíjra és a tisztjelölt járandóságra jogosultság feltételeit, fajtáit és mértékét, megállapításának rendjét, folyósításának szabályait,
+- 27. megállapítsa
+  - a) a rendvédelmi tisztjelölti jogviszony létesítésére és megszüntetésére vonatkozó részletes eljárási szabályokat, a rendvédelmi tisztjelölti szolgálatra vonatkozó rendelkezéseket,
+  - b) a rendvédelmi tisztjelöltet megillető alapilletmény évfolyamonkénti eltérő mértékét, a tanulmányi díj mértékét, az illetménypótlék összegét, és az egyéb juttatások körét, jogosultsági feltételeit, mértékét, megállapításának és folyósításának rendjét,
+  - c) a rendvédelmi tisztjelölteknek a rendvédelmi alapképzés időtartama alatt, illetve az állomány tagjának a 10 éves határozott idejű szolgálata alatt fennálló visszafizetési kötelezettsége eseteire, módjára, összegére vonatkozó szabályokat, a visszafizetési kötelezettség érvényesítésének, ideértve a halasztás engedélyezésének rendjét, a fizetési könnyítés és a mentesítési eljárás szabályait,
 - 28. meghatározza a szenior állományba vétel fizikai, pszichológiai és egészségi feltételeit, a szenior állomány tagját megillető ruházati ellátási normát és a felszerelést.
 
 (2) Felhatalmazást kap a rendészetért felelős miniszter, hogy rendeletben az Országgyűlés elnöke véleményének kikérésével az (1) bekezdés szerinti tárgykörökben az Országgyűlési Őrség vonatkozásában szabályokat állapítson meg.
@@ -5669,6 +5708,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 - k) a fegyelmi eljárás részletszabályait,
 - l) a rendvédelmi szervek és a rendvédelmi igazgatási alkalmazottak kártérítési felelősségével kapcsolatos eljárás részletes szabályait,
 - m) az egészségügyi és pszichológiai alapellátás igénybevételének módját.
+- n) a munkavégzés alapvető feltételeiről és szempontjairól szóló tájékoztatás tartalmát és rendjét.
 
 (2) A miniszter a polgári nemzetbiztonsági szolgálatok rendvédelmi igazgatási alkalmazottai tekintetében közjogi szervezetszabályozó eszközben határozza meg:
 
@@ -5678,6 +5718,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 - d) a továbbképzés részletes szabályait,
 - e) a munkavégzés helyétől, idejétől és körülményeitől függő egyéb pótlékok folyósításának feltételeit,
 - f) a rendvédelmi szervek és a rendvédelmi igazgatási alkalmazottak kártérítési felelősségével kapcsolatos eljárás részletes szabályait.
+- g) a munkavégzés alapvető feltételeiről és szempontjairól szóló tájékoztatás tartalmát és rendjét.
 
 342/B. § Felhatalmazást kap a miniszter, hogy az iskolaőrök tekintetében rendeletben határozza meg
 
@@ -5877,6 +5918,8 @@ kell sorolni.
 
 361. § A 142. § (3) bekezdésében foglaltakat a folyamatban lévő szülési szabadságok tekintetében is alkalmazni kell.
 
+361/A. § A 45. § (4) bekezdése, valamint a 287/P. § (4a) bekezdése szerinti tájékoztatási kötelezettség a rendvédelmi szervet a 2022. július 31-én szolgálati viszonyban vagy rendvédelmi igazgatási szolgálati jogviszonyban állók vonatkozásában csak a hivatásos állomány tagja vagy a rendvédelmi igazgatási alkalmazott erre irányuló kérelme esetén terheli. A kérelem előterjesztése esetén a rendvédelmi szerv az írásbeli tájékoztatási kötelezettségét hatvan napon belül teljesíti.
+
 362. § (1) A rendvédelmi szerv munkavállalója köteles a rendvédelmi szervnek e törvény hatálybalépését követő harminc napon belül bejelenteni, ha vele szemben a törvényben meghatározott összeférhetetlenségi ok merült fel, vagy, ha a munkaviszonya fennállása alatt összeférhetetlen helyzetbe került.
 
 (2) A 305. § (3) bekezdés d) pontjában meghatározott összeférhetetlenségi okot az MRK e törvény hatálybalépésekor tisztségviselőnek, ügyintéző testület nem tisztségviselő tagjának minősülő személy vonatkozásában – mandátumának leteltéig – nem kell alkalmazni.
@@ -5999,7 +6042,7 @@ alakul át.
 
 364. § (1) Ez a törvény a felhatalmazása alapján kiadott rendeletekkel együtt
 
-- 1. a munkaadónak a munkavállalóval szembeni, a szerződés, illetve a munkaviszony feltételeire vonatkozó tájékoztatási kötelezettségéről szóló 1991. október 14-i 91/533/EGK tanácsi irányelvnek,
+- 1. az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló 2019. június 20-i (EU) 2019/1152 európai parlamenti és tanácsi irányelvnek,
 - 2. a várandós, a gyermekágyas vagy szoptató munkavállalók munkahelyi biztonságának és egészségvédelmének javítását ösztönző intézkedések bevezetéséről (tizedik egyedi irányelv a 89/391/EGK irányelv 16. cikke (1) bekezdésének értelmében) szóló 1992. október 19-i 92/85/EGK tanácsi irányelvnek,
 - 3. az UNICE, a CEEP és az ESZSZ által a részmunkaidős foglalkoztatásról kötött keretmegállapodásról szóló 1997. december 15-i 97/81/EK tanácsi irányelvnek,
 - 4. az ESZSZ, az UNICE és a CEEP által a határozott ideig tartó munkaviszonyról kötött keretmegállapodásról szóló 1999. június 28-i 1997/70/EK tanácsi irányelvnek,

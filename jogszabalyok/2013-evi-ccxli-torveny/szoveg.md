@@ -78,13 +78,15 @@ az országgyűlési képviselők legalább egyötöde írásbeli ajánlással te
 
 (4) Ha a Bizottság tagjával kapcsolatban tevékenysége során az (1) vagy (2) bekezdésben meghatározott összeférhetetlenségi ok merül fel, azt haladéktalanul, de legkésőbb az összeférhetetlenség kezdetétől számított harminc napon belül meg kell szüntetnie.
 
-12. § (1) A Bizottság tagja a megválasztását, megbízatását követő harminc napon belül, majd ezt követően minden évben január 31-ig, az országgyűlési képviselők vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatot tesz.
+12. § (1) A Bizottság tagja a megválasztását, megbízatását követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
 
-(2) A Bizottság tagja a vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek (a továbbiakban együtt: családtag) a Bizottság tagja vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
+(2)
 
-(3) A családtag vagyonnyilatkozata kivételével a vagyonnyilatkozat nyilvános, oldalhű másolatát – a családtag személyes adatai kivételével – a főigazgató a Bizottság munkaszervezeteként működő Nemzeti Emlékezet Bizottságának Hivatala (a továbbiakban: Hivatal) honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a honlapról a Bizottság tagja megbízatásának megszűnését követő egy év elteltével távolítható el.
+(3) A Bizottság tagja vagyonnyilatkozatának nyilvános, oldalhű másolatát a főigazgató a Bizottság munkaszervezeteként működő Nemzeti Emlékezet Bizottságának Hivatala (a továbbiakban: Hivatal) honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a honlapról a Bizottság tagja megbízatásának megszűnését követő egy év elteltével távolítható el.
 
-(4) A vagyonnyilatkozatokat a Hivatalt vezető főigazgató kezeli. A főigazgató a Bizottság volt tagjának, valamint családtagjának vagyonnyilatkozatát a Bizottság tagja megbízatásának a megszűnését követő egy évig őrzi.
+(4) A vagyonnyilatkozatokat a Hivatalt vezető főigazgató kezeli.
+
+(5) A vagyonnyilatkozatban feltüntetett adatok tekintetében bekövetkezett változást a Hivatalt vezető főigazgatónak kell bejelenteni.
 
 13. § A vagyonnyilatkozat-tétel elmulasztása esetén annak teljesítéséig a Bizottság tagja a tisztségéből eredő jogkörét nem gyakorolhatja, és díjazásban, valamint juttatásban nem részesülhet.
 
@@ -269,5 +271,11 @@ volt.
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 40. § Ez a törvény 2014. január 1-jén lép hatályba.
+
+40/A. § (1) A Bizottság tagja az e törvénynek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvénnyel megállapított 12. § (1) bekezdése alkalmazásával – a vagyonnyilatkozat-tétel napján fennálló állapot szerint – 2022. augusztus 5-ig tesz vagyonnyilatkozatot.
+
+(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a vagyonnyilatkozat kezelőjénél lévő, a Bizottság tagjával közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát a vagyonnyilatkozat kezelője 2023. augusztus 1. napjáig őrzi.
+
+(3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.
 
 41. § A 31. § az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.

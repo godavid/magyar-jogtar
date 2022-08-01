@@ -238,7 +238,12 @@ használnak fel;
 - 22. sör: a 2203 00 01-2203 00 10 KN-kód szerinti termék, továbbá a 2206 00 31-2206 00 89 KN-kód szerinti termékek közül a 2203 00 01-2203 00 10 KN-kód szerinti és az alkoholmentes italok elegye, feltéve, hogy a termék tényleges alkoholtartalma mindkét esetben meghaladja a 0,5 térfogatszázalékot;
 - 23. szőlőtermelő: az a személy, aki bármilyen jogcímen használatában lévő szőlőültetvényt művel;
 - 24. tényleges alkoholtartalom: a termékben jelen lévő etil-alkohol térfogatának aránya a termék teljes térfogatához viszonyítva 20 °C hőmérsékleten;
-- 25. termelői borkimérés: az egyszerűsített adóraktár engedélyese vagy a kisüzemi bortermelő saját termelésű csendes borának az előállítás helyén vagy az előállító használatában lévő, kereskedelmi törvény szerinti üzletben elvitelre vagy borkóstolás céljából helyben fogyasztásra történő, nem a kereskedelmi törvény szerinti vendéglátás tevékenységnek minősülő értékesítése;
+- 25. termelői borkimérés: az egyszerűsített adóraktár engedélyes vagy a kisüzemi bortermelő
+  - a) saját előállítású csendes borának és
+  - b) saját előállítású csendes borból előállított palackos erjesztésű habzóborának
+
+az egyszerűsített adóraktárban, a kisüzemi bortermelő telephelyén vagy a kisüzemi bortermelő, egyszerűsített adóraktár engedélyese használatában lévő, kereskedelemről szóló törvény szerinti üzletben elvitelre vagy kóstolás céljából helyben fogyasztásra történő, a kereskedelemről szóló törvény szerinti vendéglátás tevékenységnek nem minősülő értékesítése;
+
 - 26. tiszta szesz: 100 térfogatszázalékos etil-alkohol;
 - 27. tudományos és oktatási cél: az alkoholtermékek kutatásához kapcsolódó tudományos cél és köznevelési vagy felsőoktatási intézmény által vagy megbízásából ellátott oktatási cél.
 

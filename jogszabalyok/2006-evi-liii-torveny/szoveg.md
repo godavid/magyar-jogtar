@@ -31,7 +31,9 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósít�
 - a) a Kormány által rendeletben kijelölt hatóság, ennek hiányában az a hatóság jár el, amely az adott ügyfajtára vonatkozó jogszabály szerint hatóságként jár el,
 - b)
 
-(2)–(3)
+(2)
+
+(3)
 
 ### A hatósági eljárás szabályai
 
@@ -83,11 +85,11 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósít�
 
 (6)
 
-4. §
+#### 4. §
 
-4/A. §
+#### 4/A. §
 
-4/B. §
+#### 4/B. §
 
 5. § (1) Kiemelt jelentőségű ügyben a szakhatóság eljárására irányadó ügyintézési határidő tizenöt nap.
 
@@ -99,7 +101,7 @@ nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósít�
 
 (3)
 
-6/A. §
+#### 6/A. §
 
 6/B. § (1) A kiemelt jelentőségű ügyben indult eljárást – az ügyfajtára irányadó különös eljárási szabályok szerint fizetendő illeték vagy díj helyett – a Kormány kormányrendeletben meghatározott mértékű, az eljáró hatóság és – szakhatóság közreműködése esetén – a szakhatóság bevételét képező igazgatási szolgáltatási díj megfizetéséhez kötheti.
 
@@ -343,7 +345,7 @@ az ingatlanügyi hatóság, illetve az erdészeti hatóság a közlekedési infr
 
 (6) Az engedély alapján végzett engedélyes haditechnikai termék felkutatása esetén az engedélyes, ha a kutatás nem jelent az ingatlanban maradandó változást, a haditechnikai kutatás eredményessége érdekében bármely ingatlanra – a lakás és a nem lakás céljára szolgáló helyiségek kivételével – beléphet. Az engedélyesnek az ingatlan tulajdonosát (használóját, vagyonkezelőjét) a kutatási munkálatokról igazolható módon előzetesen értesítenie kell.
 
-6/S. § (1) A nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított közlekedésfejlesztési projektek megvalósításához szükséges homok, kavics és agyag ásványi nyersanyag – ideértve mindezek változatait és keverékeit is – (a továbbiakban együtt: töltésanyag) kitermelésére a 12. § (5) bekezdés h) pontjában kapott felhatalmazás alapján vagy a végleges építési engedélyben megállapított nyomvonal 10-10 km szélességű környezetében célkitermelőhely létesíthető.
+6/S. § (1) A nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított közlekedésfejlesztési projektek megvalósításához szükséges ásványi nyersanyag (a továbbiakban: töltésanyag) kitermelésére a 12. § (5) bekezdés h) pontjában kapott felhatalmazás alapján vagy a végleges építési engedélyben megállapított nyomvonal 10-10 km szélességű környezetében célkitermelőhely létesíthető.
 
 (2) A célkitermelőhely létesítésére, üzemeltetésére, megszüntetésére és hatósági felügyeletére vonatkozóan a Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény 17/A. § (2)–(3) bekezdésében és a 17/B–17/E. §-ában foglalt rendelkezések az irányadóak.
 

@@ -280,7 +280,7 @@ segíti, amelyre az államtitkár titkárságának szabályai az irányadóak.
 
 (5) A politikai felsővezetők, a közigazgatási államtitkárok és a helyettes államtitkárok személyi anyagának nyilvántartását a Miniszterelnöki Kormányiroda vezeti.
 
-(6) A (2) bekezdés szerinti minisztérium közigazgatási államtitkára és a Miniszterelnöki Kormányiroda közigazgatási államtitkára megállapodást köthet a (2) bekezdés szerinti minisztériumnak a Miniszterelnöki Kormányiroda (5) bekezdés szerinti, 7. § (3) bekezdése szerinti, valamint 183. § (2), (3) és (7) bekezdése, továbbá a 186. § szerinti feladatai ellátásában való közreműködéséről.
+(6) A (2) bekezdés szerinti minisztérium közigazgatási államtitkára és a Miniszterelnöki Kormányiroda közigazgatási államtitkára megállapodást köthet a (2) bekezdés szerinti minisztériumnak a Miniszterelnöki Kormányiroda (5) bekezdés szerinti, 7. § (3) bekezdése szerinti, valamint 183. § (2), (4) és (7) bekezdése, továbbá a 186. § szerinti feladatai ellátásában való közreműködéséről.
 
 #### 17. § [A Miniszterelnöki Kormányiroda vezetője]
 
@@ -539,33 +539,24 @@ helyettesíti.
 
 (3) A központi hivatalt létrehozó törvény erre irányuló rendelkezése alapján a központi hivatal vezetőjének feladat- és hatáskörét a központi hivatalt irányító miniszter irányítása alá tartozó, a Kormány eredeti jogalkotói hatáskörben kiadott rendeletében kijelölt államtitkár gyakorolja.
 
-(4) A (3) bekezdés szerinti esetben a központi hivatal vezetője helyettesének feladat- és hatáskörét a központi hivatalt irányító miniszter által vezetett minisztérium szervezeti és működési szabályzatában meghatározott helyettes államtitkár gyakorolja.
+(4) A (3) bekezdés szerinti esetben az államtitkárt – a 24. § (2) bekezdésétől eltérően – a központi hivatalt létrehozó törvényben meghatározott vezető helyettesíti.
 
 (5) A (3) bekezdés szerinti államtitkár
 
 - a) a (3) bekezdés szerinti tevékenysége tekintetében a központi hivatalt irányító miniszter által – a központi hivatal irányításával összefüggő hatáskörök gyakorlásán túlmenően – nem utasítható,
-- b) nem gyakorolhat olyan, a központi hivatalt irányító minisztert megillető hatáskört, amely a központi hivatal irányításával összefüggő döntés meghozatalára irányul,
-- c) nem helyettesítheti a központi hivatalt irányító minisztert és a központi hivatalt irányító miniszter által átruházott hatáskörben nem járhat el a miniszter nevében azon központi hivatalt érintő irányító hatáskörök gyakorlásával összefüggésben, amely vezetőjének feladat- és hatáskörét gyakorolja,
-- d) a központi hivatalt irányító miniszternek a központi hivatal irányításával, valamint a központi hivatal által hozott hatósági döntés felettes szervként történő felülvizsgálatával összefüggő hatáskörét átruházott hatáskörben gyakorló személyt, szervezeti egység vezetőjét – e tevékenységével összefüggésben – nem irányíthatja.
+- b) e tisztsége keretében kizárólag a központi hivatal vezetőjét megillető feladat- és hatáskört gyakorolhat,
+- c) nem gyakorolhat a központi hivatalt irányító minisztert megillető hatáskört, nem helyettesítheti a központi hivatalt irányító minisztert, a központi hivatalt irányító miniszter által átruházott hatáskörben nem járhat el a miniszter nevében, a központi hivatalt irányító miniszter hatáskörébe tartozó ügyekben kiadmányozási joggal nem ruházható fel, és nem gyakorolhat irányítási hatáskört a központi hivatalt irányító miniszter által vezetett minisztérium szervezeti egysége, foglalkoztatottja tekintetében.
 
-(6) A (4) bekezdés szerinti helyettes államtitkár
+(6)
 
-- a) tevékenységét a (3) bekezdés szerinti államtitkár irányítja,
-- b) hatáskörébe a vezető-helyettesi tevékenységen kívül más minisztériumi szakmai feladat nem utalható,
-- c) a központi hivatalt irányító miniszter által – a központi hivatal irányításával összefüggő hatáskörök gyakorlásán túlmenően – nem utasítható,
-- d) nem gyakorolhat olyan, a központi hivatalt irányító minisztert megillető hatáskört, amely a központi hivatal irányításával összefüggő döntés meghozatalára irányul,
-- e) a központi hivatalt irányító miniszter által átruházott hatáskörben nem járhat el a miniszter nevében azon központi hivatalt érintő irányítási, valamint a központi hivatal által hozott hatósági döntés felettes szervként történő felülvizsgálatára vonatkozó hatáskörök gyakorlásával összefüggésben, amely vezetője helyettesének feladat- és hatáskörét gyakorolja,
-- f) a központi hivatalt irányító miniszternek a központi hivatal irányításával, valamint a központi hivatal által hozott hatósági döntés felettes szervként történő felülvizsgálatával összefüggő hatáskörét átruházott hatáskörben gyakorló szervezeti egység vezetőjét – e tevékenységével összefüggésben – nem irányíthatja,
-- g) tevékenységének az ellátását a központi hivatalt irányító miniszter által vezetett minisztériumban titkárság nem segíti.
-
-(7) A (4) bekezdés szerinti esetben, ha a központi hivatal irányításával összefüggő hatásköröket a központi hivatalt irányító miniszter által átruházott hatáskörben olyan helyettes államtitkár gyakorolja, akinek a tevékenységét a (3) bekezdés szerinti államtitkár irányítja, a központi hivatalt érintő irányítási hatáskörök gyakorlásával, valamint a központi hivatal által hozott hatósági döntés felettes szervként történő felülvizsgálatával összefüggésben a helyettes államtitkár tevékenységét a központi hivatalt irányító miniszter irányítja.
+(7)
 
 (8) A (3) bekezdés szerinti esetben
 
 - a) a (3) bekezdés szerinti államtitkár a központi hivatal vezetőjének feladat- és hatásköre gyakorlásával összefüggésben nem jogosult illetményre és kormányrendeletben meghatározott juttatásokra,
-- b) a (4) bekezdés szerinti helyettes államtitkár a központi hivatal vezetője helyettesének feladat- és hatásköre gyakorlásával összefüggésben nem jogosult illetményre és kormányrendeletben meghatározott juttatásokra,
-- c) a központi hivatal vezetője és helyettesének a kinevezésével, kormányzati szolgálati jogviszonyával összefüggő szabályokat nem kell alkalmazni és
-- d) nem létesíthető vagy tartható fenn kormányzati szolgálati jogviszony a központi hivatal vezetője és vezetőjének helyettese feladatainak az ellátására.
+- b)
+- c) a központi hivatal vezetője a kinevezésével, kormányzati szolgálati jogviszonyával összefüggő szabályokat nem kell alkalmazni és
+- d) nem létesíthető vagy tartható fenn kormányzati szolgálati jogviszony a központi hivatal vezetője feladatainak az ellátására.
 
 #### 38. § [A központi hivatal típusai]
 
@@ -3586,25 +3577,25 @@ együttesen kell tárolni (a továbbiakban együtt: személyi anyag).
 
 #### 183. § [Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető vagyonnyilatkozata]
 
-(1) Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető megbízatása keletkezését követő harminc napon belül, majd azt követően minden évben január 31-ig, valamint a megbízatásának megszűnését követő harminc napon belül az országgyűlési képviselők vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatot tesz, amelyhez csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek (a továbbiakban együtt: családtag) az országgyűlési képviselők vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
+(1) Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető a megbízatása keletkezését követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
 
 (2) A vagyonnyilatkozatokat a Miniszterelnöki Kormányiroda kezeli.
 
-(3) A családtag vagyonnyilatkozata kivételével az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető vagyonnyilatkozata nyilvános, oldalhű másolatát – a családtag személyes adatai kivételével – a Miniszterelnöki Kormányiroda a honlapján közzéteszi. A vagyonnyilatkozat a honlapról az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető megbízatásának megszűnését követő egy év elteltével távolítható el.
+(3) A vagyonnyilatkozatban feltüntetett adatok tekintetében bekövetkezett változást a Miniszterelnöki Kormányirodának kell bejelenteni.
 
-(4) A családtag vagyonnyilatkozatába az Országgyűlés összeférhetetlenségi ügyekkel foglalkozó bizottságának (a továbbiakban: összeférhetetlenségi bizottság) tagjai tekinthetnek be az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető vagyonnyilatkozatával kapcsolatos eljárás során.
+(4) Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető vagyonnyilatkozatának nyilvános, oldalhű másolatát a Miniszterelnöki Kormányiroda a honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a honlapról az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető megbízatásának megszűnését követő egy év elteltével távolítható el.
 
-(5) Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető vagyonnyilatkozatával kapcsolatos eljárást az összeférhetetlenségi bizottság elnökénél bárki kezdeményezheti a vagyonnyilatkozat konkrét tartalmára vonatkozó olyan tényállítással, amely pontosan megjelöli a vagyonnyilatkozat kifogásolt részét és tartalmát. Ha a kezdeményezés nem felel meg az e bekezdésben foglalt követelményeknek, nyilvánvalóan alaptalan, vagy az ismételten benyújtott kezdeményezés új tényállítást vagy adatot nem tartalmaz, az összeférhetetlenségi bizottság elnöke az eljárás lefolytatása nélkül elutasítja a kezdeményezést. A vagyonnyilatkozatban foglaltak valóságtartalmát az összeférhetetlenségi bizottság ellenőrzi.
+(5) Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető vagyonnyilatkozatával kapcsolatos eljárást az Országgyűlés összeférhetetlenségi ügyekkel foglalkozó állandó bizottságának (a továbbiakban: összeférhetetlenségi bizottság) elnökénél bárki kezdeményezheti a vagyonnyilatkozat konkrét tartalmára vonatkozó olyan tényállítással, amely pontosan megjelöli a vagyonnyilatkozat kifogásolt részét és tartalmát. Ha a kezdeményezés nem felel meg az e bekezdésben foglalt követelményeknek, nyilvánvalóan alaptalan, vagy az ismételten benyújtott kezdeményezés új tényállítást vagy adatot nem tartalmaz, az összeférhetetlenségi bizottság elnöke az eljárás lefolytatása nélkül elutasítja a kezdeményezést. A vagyonnyilatkozatban foglaltak valóságtartalmát az összeférhetetlenségi bizottság ellenőrzi.
 
-(6) A vagyonnyilatkozattal kapcsolatos eljárás során az összeférhetetlenségi bizottság felhívására az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető köteles a saját, illetve családtagja vagyonnyilatkozatában feltüntetett vagyoni, jövedelmi és érdekeltségi viszonyokat igazoló adatokat haladéktalanul, írásban bejelenteni. Az igazoló adatokba az összeférhetetlenségi bizottság tagjai tekinthetnek be. Az ellenőrzés eredményéről az összeférhetetlenségi bizottság elnöke tájékoztatja az Országgyűlés elnökét, aki az összeférhetetlenségi bizottság által megállapított tényekről a soron következő ülésen tájékoztatja az Országgyűlést.
+(6) A vagyonnyilatkozattal kapcsolatos eljárás során az összeférhetetlenségi bizottság felhívására az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető köteles a vagyonnyilatkozatában feltüntetett jövedelem- és gazdasági érdekeltségi viszonyokat igazoló adatokat haladéktalanul, írásban bejelenteni. Az igazoló adatokba az összeférhetetlenségi bizottság tagjai tekinthetnek be. Az ellenőrzés eredményéről az összeférhetetlenségi bizottság elnöke tájékoztatja az Országgyűlés elnökét, aki az összeférhetetlenségi bizottság által megállapított tényekről a soron következő ülésen tájékoztatja az Országgyűlést.
 
-(7) Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell. A Miniszterelnöki Kormányiroda az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető, valamint családtagja vagyonnyilatkozatát az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető megbízatásának a megszűnését követő egy évig őrzi, azt követően megsemmisíti.
+(7) Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell. A Miniszterelnöki Kormányiroda az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető vagyonnyilatkozatát az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető megbízatásának a megszűnését követő egy évig őrzi, azt követően megsemmisíti.
 
 #### 184. § [Az országgyűlési képviselői megbízatással rendelkező politikai felsővezető vagyonnyilatkozata]
 
 (1) Az országgyűlési képviselői megbízatással rendelkező politikai felsővezető az országgyűlési képviselőkre vonatkozó szabályok szerint tesz vagyonnyilatkozatot, a vagyonnyilatkozatával kapcsolatos eljárásra az országgyűlési képviselőkre vonatkozó szabályok az irányadók.
 
-(2) Az országgyűlési képviselői megbízatással rendelkező politikai felsővezető a politikai felsővezetői megbízatása megszűnését követő harminc napon belül az (1) bekezdés szerint vagyonnyilatkozatot tesz.
+(2)
 
 #### 185. § [A vagyonnyilatkozat-tételi kötelezettség nem megfelelő teljesítése]
 
@@ -3619,7 +3610,7 @@ kezdeményezi.
 
 (2a) Az (1) bekezdés szerinti esetben a miniszterelnök a miniszterelnök politikai igazgatóját e megbízatása alól felmenti.
 
-(3) A politikai felsővezető hatáskörgyakorlásának megszűnésekor a Ksztv. 13. §-ában meghatározott juttatásra mindaddig nem jogosult, amíg a hatáskörgyakorlásának megszűnését követően e törvény szerint esedékes vagyonnyilatkozat-tételi kötelezettségének eleget nem tesz.
+(3)
 
 #### 186. § [Az adatnyilvánosság]
 
@@ -3756,7 +3747,7 @@ jogosult.
 (4) A volt miniszterelnök e §-ban meghatározott juttatásaira
 
 - a) a politikai felsővezető jogalap nélkül felvett juttatására,
-- b) a juttatás feltételeként a megbízatás megszűnését követően a vagyonnyilatkozat-tételi kötelezettség teljesítésére, és
+- b)
 - c) a juttatások igénybevételéhez szükséges adatok közlési kötelezettségére
 
 vonatkozó előírásokat alkalmazni kell.
@@ -5024,7 +5015,13 @@ E törvénynek a Magyarország 2021. évi központi költségvetésének megalap
 
 (2) Az érintett személy illetményének az (1) bekezdés szerinti megállapításáig a Módtv3. hatálybalépése előtt számára megállapított illetményre jogosult.
 
-#### 300. §
+#### 300. § [Átmeneti rendelkezés az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvényhez]
+
+(1) A politikai felsővezető az e törvénynek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvénnyel megállapított 183. § (1) bekezdése alkalmazásával – a vagyonnyilatkozat-tétel napján fennálló állapot szerint – 2022. augusztus 5-ig tesz vagyonnyilatkozatot.
+
+(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a Miniszterelnöki Kormányirodánál lévő, a politikai felsővezetővel közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát a Miniszterelnöki Kormányiroda 2023. augusztus 1. napjáig őrzi, azt követően megsemmisíti.
+
+(3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.
 
 #### 301. §
 

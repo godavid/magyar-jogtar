@@ -262,7 +262,7 @@ hívja össze.
 
 (5) A legfőbb ügyész helyettes a köztársasági elnök előtt, a többi ügyész pedig a munkáltatói jogkör gyakorlója előtt tesz esküt.
 
-(6) A legfőbb ügyészt, a legfőbb ügyész helyettest az országgyűlési képviselőkre vonatkozó szabályok szerint terheli a vagyonnyilatkozat-tételi kötelezettség, első ízben a megválasztását, kinevezését követő harminc napon belül. A vagyonnyilatkozat nyilvántartására, ellenőrzésére, kezelésére az országgyűlési képviselők vagyonnyilatkozatának nyilvántartására, ellenőrzésére, kezelésére vonatkozó szabályokat kell alkalmazni.
+(6) A legfőbb ügyész a megválasztását, a legfőbb ügyész helyettese a kinevezését követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat kell megfelelően alkalmazni.
 
 17. § (1) A munkáltatói jogkör gyakorlója legkésőbb az első ügyészi kinevezés időtartamának [14. § (2) bekezdés] lejártát megelőző kilencven nappal korábban beszerzi a határozott időre kinevezett ügyész nyilatkozatát arról, hogy kéri-e a határozatlan időre történő kinevezését. Ha az ügyész kéri a határozatlan időre történő kinevezését és a tényleges ügyészi működésének időtartama a 18 hónapot az előbbiekben említett időpontig meghaladta, az ügyészt a munkáltatói jogkör gyakorlója minősíti. Ennek során értékeli – az ügyész működésének teljes időtartamára kiterjedően – az ügyész munkáját, különös tekintettel az anyagi jogi, az eljárásjogi és az ügyviteli szabályok betartására.
 
@@ -1949,7 +1949,7 @@ kell érteni.
 
 158/A. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
 
-159. § (1) E törvény I. Fejezete, III–XIII/A. Fejezete, 151. és 152. §-a, 154–157. §-a, 158. § (2) bekezdése, 160–165/K. §-a, valamint 1–3. és 7. melléklete az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
+159. § (1) E törvény I. Fejezete, III–XIII/A. Fejezete, 151. és 152. §-a, 154–157. §-a, 158. § (2) bekezdése, 160–165/K. §-a, 165/T. §-a, valamint 1–3. és 7. melléklete az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Üjt.
 
@@ -2114,6 +2114,12 @@ kerülhet sor.
 165/R. § Az ügyészek szolgálati idejének kezdő időpontját az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvénnyel módosított 62. § (2) bekezdés alapján, a 2020. január 1-jén ügyészségi szolgálati viszonyban álló ügyész 2020. március 1-jéig a munkáltatói jogkör gyakorlójához benyújtott – megfelelően igazolt – kérelmére 2020. június 30-ig újból meg kell állapítani. A szolgálati idő kezdő időpontjának új megállapítása alapján járó illetményre az ügyész 2020. január 1-jétől kezdődően, visszamenőleg jogosult.
 
 165/S. § Az ügyész számára az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvény alapján megállapított illetmény változatlan beosztás esetén nem lehet kevesebb, mint az egyes törvényeknek az egyfokú járási hivatali eljárások megteremtésével összefüggő módosításáról szóló 2019. évi CXXVII. törvény hatálybalépését megelőzően őt megillető illetményelemek együttes összege.
+
+165/T. § (1) A legfőbb ügyész és a legfőbb ügyész helyettese az e törvénynek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvénnyel megállapított 16. § (6) bekezdése alkalmazásával – a vagyonnyilatkozat-tétel napján fennálló állapot szerint – 2022. augusztus 5-ig tesz vagyonnyilatkozatot.
+
+(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a vagyonnyilatkozat kezelőjénél lévő, a legfőbb ügyésszel, illetve a legfőbb ügyész helyettessel közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát a vagyonnyilatkozat kezelője 2023. augusztus 1. napjáig őrzi.
+
+(3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.
 
 166. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

@@ -3622,7 +3622,7 @@ a végkielégítés és a jogviszony megszűnésétől az új jogviszony létes�
 
 127/A. § A gyámhatóság akkor is félként jár el azokban a közigazgatási perekben, polgári perekben, valamint egyéb bírósági eljárásokban, amelyekben jogszabály alapján perindításra jogosult, ha egyébként nincs perbeli jogképessége.
 
-128. § (1) A gyámügyi eljárásban meg kell hallgatni a szülőt és más törvényes képviselőt, a gondozót, a korlátozottan cselekvőképes gyermeket, a cselekvőképességében a gyámügyi eljárásban felmerülő jognyilatkozat tekintetében részlegesen korlátozott személyt és az ítélőképessége birtokában levő cselekvőképtelen gyermeket, továbbá minden esetben azt, akivel szemben kötelezettséget kívánnak megállapítani, valamint – szükség szerint – a gyermek más közeli hozzátartozóit. A meghallgatást mellőzni lehet, ha a meghallgatás miatti késedelem elháríthatatlan kárral vagy veszéllyel járna.
+128. § (1) A gyámügyi eljárásban meg kell hallgatni a szülőt és más törvényes képviselőt, a gondozót, a korlátozottan cselekvőképes gyermeket, a cselekvőképességében a gyámügyi eljárásban felmerülő jognyilatkozat tekintetében részlegesen korlátozott személyt és az ítélőképessége birtokában levő cselekvőképtelen gyermeket, továbbá minden esetben azt, akivel szemben kötelezettséget kívánnak megállapítani, valamint – szükség szerint – a gyermek más közeli hozzátartozóit. A gyámügyi eljárásban a nyilatkozattétel lehetőségéről az ítélőképessége birtokában lévő gyermeket – a törvényes képviselő egyidejű tájékoztatása mellett – értesíteni kell. A meghallgatást mellőzni lehet, ha a meghallgatás miatti késedelem elháríthatatlan kárral vagy veszéllyel járna.
 
 (1a) A terhességét eltitkoló válsághelyzetben lévő, korlátozottan cselekvőképes kiskorú anya kérelmére a gyámhatóság mellőzheti a törvényes képviselő meghallgatását, ha az a terhességét eltitkoló válsághelyzetben lévő várandós anya vagy a születendő gyermek érdekét veszélyeztetné.
 
@@ -4443,7 +4443,7 @@ a gyermekjóléti szolgáltatások területi lefedettségét figyelembe vevő, k
 
 teszi szükségessé.
 
-(2d) A (2c) bekezdés szerinti feltételek fennállását a miniszter, a gyermekek napközbeni ellátása tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter vizsgálja. Ha a (2c) bekezdés szerinti feltételek nem állnak fenn, a miniszter, a gyermekek napközbeni ellátása tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter a befogadásról az általa meghatározott és közleményben közzétett kapacitások alapján dönt.
+(2d) A (2c) bekezdés szerinti feltételek fennállását a miniszter, a gyermekek napközbeni ellátása tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter vizsgálja. Ha a (2c) bekezdés szerinti feltételek nem állnak fenn, a miniszter a befogadásról az általa meghatározott és közleményben közzétett kapacitások alapján dönt.
 
 (2e) A (2c) bekezdés c) pontja szerinti esetben szétváláson, egyesítésen, átcsoportosításon, illetve átadáson az egyik intézményben, telephelyen történő férőhelyszám-csökkenéssel egyidejű, másik intézményben, telephelyen, újonnan létesített intézményben, telephelyen történő azonos mértékű férőhelyszám-növelést kell érteni.
 
@@ -5104,11 +5104,13 @@ esetén nyújtott ellátással és szolgáltatással kapcsolatos adatokat.
 
 (2) A 2022. január 1-jén gyermektartásdíj megelőlegezésére jogosultak közül azok esetén, akik gyermekenként az öregségi nyugdíj legkisebb összege ötven százalékának megfelelő összegű megelőlegezésben részesülnek, a megelőlegezett gyermektartásdíj összegét – az egyéb jogosultsági feltételek vizsgálata nélkül – a Módtv2.-vel megállapított 23. § (1) bekezdésére tekintettel 2022. január 31-éig felül kell vizsgálni. A 2022. január hónapra tekintettel már a felülvizsgálat eredményeként megállapított összegben kell az ellátást továbbfolyósítani.
 
-189. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+189. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 - a) a Tanács 94/33/EK irányelve (1994. június 22.) a fiatalok munkahelyi védelméről, az Mt. irányadó rendelkezéseivel együtt;
 - b) a Tanács 2003/109/EK tanácsi irányelve (2003. november 25.) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról, 11. cikk (1) bekezdés d) pont és 21. cikk;
 - c) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk.
 - d) a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelv 6. cikk (5) és (6) bekezdése.
+
+(2) E törvény a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló, 2019. június 25-i (EU) 2019/1111 tanácsi rendelet 21. cikkének végrehajtását szolgálja.
 
 190. § Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

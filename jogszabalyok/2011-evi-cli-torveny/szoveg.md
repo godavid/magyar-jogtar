@@ -37,15 +37,11 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 (4) Az Alkotmánybíróságnak nem lehet tagja az, aki a megválasztása napját megelőző négy éven belül a Kormány tagja, valamely párt vezető tisztségviselője volt, vagy politikai és szakmai felsővezetői tisztséget töltött be.
 
-7. § (1) Az Alkotmánybíróság tagjaira az Országgyűlésben képviselettel rendelkező pártok képviselőcsoportjai által jelölt legalább kilenc és legfeljebb tizenöt képviselőből álló jelölő bizottság tesz javaslatot. A bizottságban a képviselőcsoportok legalább egy-egy képviselőjének helyet kell kapnia.
+7. § Az Alkotmánybíróság tagjaira az Országgyűlés alkotmányügyi kérdésekkel foglalkozó állandó bizottsága tesz javaslatot.
 
-(2) A javasolt személyeket az Országgyűlés alkotmányügyi kérdésekkel foglalkozó állandó bizottsága meghallgatja.
+8. § (1) Ha az Országgyűlés a jelöltet nem választja meg, az Országgyűlés alkotmányügyi kérdésekkel foglalkozó állandó bizottsága még ugyanazon az ülésszakon, de legkésőbb tizenöt napon belül új javaslatot tesz.
 
-8. § (1) Az Alkotmánybíróság tagjait az Országgyűlés az alkotmányügyi kérdésekkel foglalkozó állandó bizottsága véleményének ismeretében választja meg.
-
-(2) Ha az Országgyűlés a jelölteket nem választja meg, a jelölő bizottság még azon az ülésszakon, de legkésőbb tizenöt napon belül új javaslatot tesz.
-
-(3) Ha e törvény eltérően nem rendelkezik, az Alkotmánybíróság új tagját az Országgyűlés az elődje megbízatási idejének lejártát megelőző kilencven napon belül választja meg. Az Alkotmánybíróság tagja az elődje megbízatásának megszűnését követő napon, ha pedig elődje megbízatásának megszűnését követően választották meg, vagy elődje megbízatása meghosszabbodott, a megválasztásáról szóló határozatban megjelölt napon lép hivatalba.
+(2) Ha e törvény eltérően nem rendelkezik, az Alkotmánybíróság új tagját az Országgyűlés az elődje megbízatási idejének lejártát megelőző kilencven napon belül választja meg. Az Alkotmánybíróság tagja az elődje megbízatásának megszűnését követő napon, ha pedig elődje megbízatásának megszűnését követően választották meg, vagy elődje megbízatása meghosszabbodott, a megválasztásáról szóló határozatban megjelölt napon lép hivatalba.
 
 9. § Az Alkotmánybíróság tagja hivatalba lépését megelőzően az Országgyűlés előtt esküt tesz.
 
@@ -59,13 +55,15 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 10/A. § Az Alkotmánybíróság tagja kérelmezheti – az Alkotmánybíróság elnöke útján – a köztársasági elnöknél a bíróvá történő kinevezését. A kérelemről az Alkotmánybíróság elnöke – annak a köztársasági elnökhöz történő továbbításával egyidejűleg – tájékoztatja az Országos Bírósági Hivatal elnökét.
 
-11. § (1) Az Alkotmánybíróság tagja a megválasztását követő harminc napon belül, majd ezt követően minden évben január 31-ig, valamint a megbízatásának megszűnését követő harminc napon belül az országgyűlési képviselők vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatot tesz.
+11. § (1) Az Alkotmánybíróság tagja a megválasztását követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
 
-(2) Az Alkotmánybíróság tagja a vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek (a továbbiakban együtt: családtag) az Alkotmánybíróság tagja vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
+(2)
 
-(3) A családtag vagyonnyilatkozata kivételével a vagyonnyilatkozat nyilvános, oldalhű másolatát – a családtag személyes adatai kivételével – a főtitkár az Alkotmánybíróság Hivatalának honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a honlapról az Alkotmánybíróság tagja megbízatásának megszűnését követő egy év elteltével távolítható el.
+(3) Az Alkotmánybíróság tagja vagyonnyilatkozatának nyilvános, oldalhű másolatát a főtitkár az Alkotmánybíróság Hivatalának honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a honlapról az Alkotmánybíróság tagja megbízatásának megszűnését követő egy év elteltével távolítható el.
 
-(4) A vagyonnyilatkozatokat a főtitkár kezeli. A főtitkár az Alkotmánybíróság volt tagjának, valamint családtagjának vagyonnyilatkozatát az Alkotmánybíróság tagja megbízatásának a megszűnését követő egy évig őrzi.
+(4) A vagyonnyilatkozatokat a főtitkár kezeli.
+
+(5) A vagyonnyilatkozatban feltüntetett adatok tekintetében bekövetkezett változást a főtitkárnak kell bejelenteni.
 
 12. § A 10. §-ban meghatározott összeférhetetlenségi ok esetén az összeférhetetlenséget megállapító alkotmánybírósági határozat meghozatalának időpontjától az összeférhetetlenség megszüntetéséig, valamint a 11. §-ban meghatározott vagyonnyilatkozat-tétel elmulasztása esetén annak teljesítéséig az Alkotmánybíróság tagja a tisztségéből eredő jogkörét nem gyakorolhatja, és díjazásban, valamint juttatásban nem részesülhet.
 
@@ -190,7 +188,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 (5) Az Alkotmánybíróság volt elnökét – ha egyúttal az Alkotmánybíróságban betöltött tagsága is megszűnt – a megbízatása megszűnését követően további két évig kétfős titkárság alkalmazása illeti meg.
 
-(6) Az Alkotmánybíróság volt elnöke az ebben a §-ban meghatározott juttatásokra mindaddig nem jogosult, amíg a megbízatásának megszűnését követően vagyonnyilatkozat-tételi kötelezettségének nem tesz eleget.
+(6)
 
 (7) Az Alkotmánybíróság volt elnökét nem illetik meg az ebben a §-ban meghatározott jogosultságok és juttatások, ha megbízatása a 15. § (2) bekezdés c) vagy f) pontja alapján szűnt meg.
 
@@ -758,5 +756,11 @@ indokolt, és a bíróság az 53. § (4) bekezdése alapján a döntés végreha
 74. § A 26–27. §-ban meghatározott alkotmányjogi panasz eljárás e törvény hatálybalépésekor folyamatban lévő eljárások tekintetében is kezdeményezhető.
 
 74/A. § A 15. § (1) bekezdésének, valamint a 16. § (6) bekezdésének az egyes törvényeknek az Alaptörvény ötödik módosításával összefüggő módosításáról szóló 2013. évi CCVII. törvénnyel megállapított szövegét az Alkotmánybíróság az egyes törvényeknek az Alaptörvény ötödik módosításával összefüggő módosításáról szóló 2013. évi CCVII. törvény hatálybalépésekor megbízatásukat töltő tagjai tekintetében is alkalmazni kell.
+
+74/B. § (1) Az Alkotmánybíróság tagja az e törvénynek az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvénnyel megállapított 11. § (1) bekezdése alkalmazásával – a vagyonnyilatkozat-tétel napján fennálló állapot szerint – 2022. augusztus 5-ig tesz vagyonnyilatkozatot.
+
+(2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a főtitkárnál lévő, az Alkotmánybíróság tagjával közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát a főtitkár 2023. augusztus 1. napjáig őrzi.
+
+(3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.
 
 75. § Ahol e törvény közjogi szervezetszabályozó eszközt említ, azon az állami irányítás egyéb jogi eszközét, ahol törvényt említ, azon a törvényerejű rendeletet is érteni kell.

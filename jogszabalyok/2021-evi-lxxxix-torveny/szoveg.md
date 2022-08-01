@@ -6,7 +6,10 @@ Magyarország 2022. évi központi költségvetésének megalapozásáról
 
 1. §
 
-2. §
+2. § Hatályát veszti a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény
+
+- 1. 39/C. § (1) bekezdés e) pontja, és
+- 2. 41. § (1) bekezdése.
 
 #### 2. A helyi önkormányzatok és szerveik, a köztársasági megbízottak, valamint egyes centrális alárendeltségű szervek feladat- és hatásköreiről szóló 1991. évi XX. törvény módosítása
 
@@ -105,7 +108,7 @@ Magyarország 2022. évi központi költségvetésének megalapozásáról
 - 5.
 - 6.
 - 7.
-- 8.
+- 8. 44. § (1) bekezdésében a „teljesítése – ideértve a szakképzési hozzájárulás bevallási kötelezettségét is –, továbbá” szövegrész helyébe a „teljesítése, továbbá” szöveg,
 - 9.
 - 10.
 - 11.

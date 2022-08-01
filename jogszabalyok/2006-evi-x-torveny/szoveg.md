@@ -309,6 +309,8 @@ számára lehetőséget biztosít a munkavégzési feltételek megteremtésére,
 
 (2) A nyugdíjas szövetkezet által nyújtott szolgáltatásokért szolgáltatási díjat kell fizetni.
 
+(3) A nyugdíjas szövetkezet az éves nettó árbevételének legalább 85%-át a tagok között személyes közreműködésük arányában osztja fel.
+
 34. § A nyugdíjas szövetkezetnek a nevében viselnie kell a „közérdekű nyugdíjas szövetkezet” megnevezést.
 
 #### 6. Kisgyermekkel otthon lévők szövetkezete

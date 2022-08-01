@@ -789,7 +789,7 @@ látja el, azzal, hogy a b) pont szerinti esetben a kézbesítést a címzett c�
 
 #### 37. Családjogi és személyállapoti ügyek
 
-101. § (1) A 2201/2003/EK tanácsi rendelet 7. cikkében meghatározott esetben magyar bíróság akkor rendelkezik joghatósággal házassági ügyekben, ha a házastársak egyike magyar állampolgár.
+101. § (1) Az (EU) 2019/1111 tanácsi rendelet 6. cikkében meghatározott esetben magyar bíróság akkor rendelkezik joghatósággal házassági ügyekben, ha a házastársak egyike magyar állampolgár.
 
 (2) A házasság létezésének vagy nemlétezésének megállapítása iránti eljárásra magyar bíróság joghatósággal rendelkezik, ha az egyik fél magyar állampolgár vagy az alperes szokásos tartózkodási helye belföldön van.
 
@@ -825,7 +825,7 @@ látja el, azzal, hogy a b) pont szerinti esetben a kézbesítést a címzett c�
 
 (2) Örökbefogadási ügyekben a 91. § nem alkalmazható.
 
-106. § (1) A 2201/2003/EK tanácsi rendelet 14. cikkében meghatározott esetben magyar bíróság akkor rendelkezik joghatósággal a szülői felügyeletet, a kapcsolattartást és a gyámságot érintő eljárásra, ha a gyermek magyar állampolgár.
+106. § (1) Az (EU) 2019/1111 tanácsi rendelet 14. cikkében meghatározott esetben magyar bíróság akkor rendelkezik joghatósággal a szülői felügyeletet, a kapcsolattartást és a gyámságot érintő eljárásra, ha a gyermek magyar állampolgár.
 
 (2) A szülői felügyeletet, kapcsolattartást és gyámságot érintő ügyekben a 91. § nem alkalmazható.
 
@@ -1000,7 +1000,7 @@ alkalmazandó jogot megállapító rendelkezéseit e törvény hatálybalépés�
 (2) E törvény
 
 - a) 81. § (5) bekezdése a polgári és kereskedelmi ügyekben a bizonyításfelvétel tekintetében történő, a tagállamok bíróságai között együttműködéséről szóló, 2001. május 28-i 1206/2001/EK tanácsi rendeletnek,
-- b) 101. § (1) bekezdése és 106. §-a a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló, 2003. november 27-i 2201/2003/EK tanácsi rendeletnek,
+- b) 101. § (1) bekezdése és 106. §-a a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló 2019. június 25-i (EU) 2019/1111 tanácsi rendeletnek,
 - c) a 59. §-a a szerződésen kívüli kötelmi viszonyokra alkalmazandó jogról szóló („Róma II.”), 2007. július 11-i 864/2007/EK európai parlamenti és tanácsi rendeletnek,
 - d) 77. § (6) bekezdése a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről („iratkézbesítés”) és az 1348/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. november 13-i 1393/2007/EK európai parlamenti és tanácsi rendeletnek,
 - e) 30. §-a a házasság felbontására és a különválásra alkalmazandó jog területén létrehozandó megerősített együttműködés végrehajtásáról szóló, 2010. december 20-i 1259/2010/EU tanácsi rendeletnek,

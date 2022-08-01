@@ -42,6 +42,8 @@ E törvény célja az ásványi nyersanyagok bányászatának, a geotermikus ene
 
 (7) A Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság) engedélyétől eltérő, más hatósági engedély alapján végzett, valamint katasztrófaveszély vagy az Alaptörvény 53. cikke szerinti veszélyhelyzet elhárításához szükséges ásványi nyersanyag kitermelésre a 3. §, 20. §, 25. §, 41. §, 41/A. § és 44. § rendelkezéseit kell alkalmazni.
 
+(7a) A (7) bekezdésben foglaltakat a bejelentés alapján vagy hatósági engedélyhez és bejelentéshez nem kötött, ásványinyersanyag-kitermeléssel járó tevékenységekre is alkalmazni kell.
+
 (8) A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény (a továbbiakban: Aptv.) 1. számú mellékletében meghatározott gyorsforgalmi utak, valamint a nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított közlekedésfejlesztési projektek földművei megépítéséhez szükséges célkitermelőhelyeken folytatott kitermelő tevékenységre e törvény rendelkezései csak annyiban alkalmazhatók, amennyiben azt az Aptv., illetve a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény elrendeli.
 
 ### A tevékenység gyakorlása
@@ -149,7 +151,7 @@ megtiltja az adott tevékenység folytatását.
 
 (4) A bányafelügyelet az engedély kiadását nem tagadhatja meg, ha az engedély iránti kérelemben foglaltak a jogszabályokban meghatározott követelményeknek megfelelnek.
 
-(4a) A bányafelügyelet kutatási engedélyt nem ad, bányatelket nem állapít meg, és az (1) bekezdés szerinti engedély iránti kérelmet – a bányabezárási és tájrendezési műszaki üzemi terv jóváhagyási kérelem kivételével – elutasítja, ha
+(4a) A bányafelügyelet kutatási engedély, bányatelek megállapítása, feltárási és kitermelési műszaki üzemi terv jóváhagyása, valamint meddőhányóhasznosítás-engedélyezés iránti kérelmet elutasítja, ha
 
 - a) a kérelmezőnek
   - aa) koncessziós díj, bányajáradék, felügyeleti díj,
@@ -160,9 +162,9 @@ tartozása van, vagy
 
 - b) a kérelmező a bányajáradék bevallására vonatkozó kötelezettségét nem teljesítette.
 
-(4b) A kérelmező (4a) bekezdés szerinti kötelezettségének teljesítését a bányafelügyelet ellenőrzi.
+(4b) A kérelmező nyilatkozik, hogy vele szemben a (4a) bekezdésben foglaltak nem állnak fenn. Ha a kérelmező valótlan nyilatkozatot tesz, a bányafelügyelet a kiadott engedélyt visszavonja.
 
-(5) Az e törvény alapján engedélyköteles bányászati tevékenységre vonatkozó jogvesztő határidőbe, illetve a bányászati tevékenység végzésére engedélyezett időtartamba nem számít bele az a kieső időtartam, amely – a hatóságnak az eljárás lefolytatásával összefüggő, az arra jogszabály alapján nyitva álló határidőn belül folytatott tevékenysége szerinti időtartamot ide nem értve – a bányavállalkozó önhibáján kívül a hatóság döntése, intézkedése vagy mulasztása miatt következett be. A kiesés okát a bányavállalkozónak kell igazolnia.
+(5) Az e törvény alapján engedélyköteles bányászati tevékenységre vonatkozó jogvesztő határidőbe, illetve a bányászati tevékenység végzésére engedélyezett időtartamba nem számít bele az a kieső időtartam, amely – a hatóságnak az eljárás lefolytatásával összefüggő, az arra jogszabály alapján nyitva álló határidőn belül folytatott tevékenysége szerinti időtartamot ide nem értve – a bányavállalkozó önhibáján kívül a hatóság döntése, intézkedése vagy mulasztása miatt következett be. Az önhiba hiányát a bányavállalkozónak kell igazolnia.
 
 (6) A kulturális örökség védelméről szóló törvény által nemzeti emlékhellyé nyilvánított kegyhelyen, valamint annak 5 km sugarú környezetében – a kegyhely méltóságának megőrzése érdekében – külfejtéses művelésű bányatelket csak akkor lehet megállapítani, horizontálisan bővíteni vagy a megállapított bányatelken feltárási, kitermelési tevékenységet folytatni, ha azzal a bányatelek fekvése szerinti fővárosi és megyei kormányhivatal kulturális örökségvédelmi szempontból egyetért. Egyetértés hiányában a bányafelügyelet az engedély, műszaki üzemi terv jóváhagyása iránti kérelmet elutasítja.
 
@@ -181,27 +183,34 @@ tartozása van, vagy
 
 - b) a bányászati jog átadója vagy átvevője a bányajáradék bevallására vonatkozó kötelezettségét nem teljesítette.
 
-(4) Az (1) bekezdés szerinti hatósági hozzájárulásra vonatkozó rendelkezést
-
-- a) a bányászati joggal rendelkező gazdálkodó szervezetek jogutódlása,
-- b) a nyilvánosan működő részvénytársaság kivételével a bányászati joggal rendelkező gazdasági társaságok tulajdonrészének visszterhes és ingyenes átruházása,
-- c) a bányászati joggal rendelkező nyilvánosan működő részvénytársaság részvényeinek 25%-át meghaladó mértékű visszterhes és ingyenes átruházása, valamint
-- d) a bányászati jog eredeti szerzésmód keretében történő megszerzése
-
-esetében is alkalmazni kell.
+(4)
 
 (5) A hatósági hozzájárulás körében a (3) bekezdésben foglalt követelményeken túl a bányafelügyelet vizsgálja a jogszerző műszaki és pénzügyi alkalmasságát, valamint – amennyiben a jogszerző rendelkezik vagy korábban rendelkezett bányászati tevékenység végzésére jogosító engedéllyel – azt, hogy a korábbi bányafelügyeleti engedélyei alapján tevékenységét milyen hatékonysággal és felelősséggel végezte.
 
-(6) Az építőipari nyers- és alapanyagra vonatkozó hatósági engedély alapján gyakorolt bányászati jog átruházása iránti kérelem esetében a bányafelügyelet a bányászati jogra vonatkozó adatokat megküldi a magyar állam tulajdonosi jogait gyakorló szervnek, amely a megkeresés közlésétől számított 35 napon belül nyilatkozhat arról, hogy
+(6)
 
-- a) a bányászati jog átruházásáról a bányászati jog jogosultjával – az erre vonatkozó megállapodás csatolásával igazoltan – megegyezett, vagy
-- b) a magyar állam az átvevőt megillető jogokat és őt terhelő kötelezettségeket átvállalja.
+(7)
 
-(7) A bányafelügyelet a (6) bekezdés szerinti megkeresés megküldésével egyidejűleg a bányászati jog átruházására irányuló eljárást a magyar állam tulajdonosi jogait gyakorló szerv nyilatkozatának megtételéig felfüggeszti.
+(8)
 
-(8) Ha a magyar állam jognyilatkozatot tesz az átvevőt megillető jogok és őt terhelő kötelezettségek átvállalásáról, azonban az átadó és a magyar állam tulajdonosi jogait gyakorló szerv között 35 napon belül nem jön létre megállapodás arról, hogy az átruházásra vonatkozó szerződés tekintetében a magyar állam lép az átvevő helyébe, a magyar állam tulajdonosi jogait gyakorló szerv jogosult a határidő leteltétől számított 30 napon belül bírósághoz fordulni az átadó jognyilatkozatának pótlása céljából.
+(9)
 
-(9) A (6) bekezdés a) és b) pontja szerinti esetben az (5) bekezdésben foglaltakat nem kell vizsgálni.
+6/A. § (1) A hatósági engedély alapján gyakorolt bányászati jog átruházása esetén a magyar államot elővásárlási jog illeti meg.
+
+(2) A bányászati jogot átadó a hatósági engedély alapján gyakorolt bányászati jog átruházásához történő hozzájárulás iránti kérelem benyújtását megelőzően a bányászati jog átruházásáról szóló szerződést igazolt módon köteles – 60 napos válaszadási határidővel – megküldeni a magyar állam tulajdonosi jogait gyakorló szerv részére.
+
+(3) Ha a magyar állam tulajdonosi jogait gyakorló szerv az elővásárlási jogot nem gyakorolja, vagy 30 napon belül nem nyilatkozik, a bányászati jogot átvevő a bányászati jog átruházásához történő hozzájárulás iránti kérelmet benyújthatja a bányafelügyelethez.
+
+6/B. § (1) A bányafelügyelet előzetes hozzájárulása szükséges
+
+- a) a bányavállalkozó polgári törvénykönyvről szóló törvény rendelkezései szerinti szétválásához, más vállalkozással történő egyesüléséhez, átalakulásához,
+- b) a nyilvánosan működő részvénytársaság kivételével a bányászati joggal rendelkező gazdasági társaság tulajdonrészének visszterhes és ingyenes átruházásához,
+- c) a bányászati joggal rendelkező nyilvánosan működő részvénytársaság részvényeinek 25%-át meghaladó mértékű visszterhes és ingyenes átruházásához és
+- d) a bányászati jog mint vagyoni értékű jog nem pénzbeli vagyoni hozzájárulásként jogi személy részére történő átruházásához.
+
+(2) Az (1) bekezdés a)–b) és d) pontja szerinti esetben a cégjegyzékbe való bejegyzésre vagy változásbejegyzésre irányuló kérelmet a cégbírósághoz a bányafelügyelet határozatával együtt kell benyújtani.
+
+(3) A bányafelügyelet az (1) bekezdésben meghatározott jogügyletekhez történő előzetes hozzájárulást megtagadja, ha ezen jogügyletek végrehajtása a nemzetgazdaság nyersanyagellátási szükségleteinek kielégítését, a közbiztonságot, a bányavállalkozó bányászati tevékenységének ellátását veszélyezteti, továbbá ha a jogügylet eredményeképpen a bányavállalkozó nem tud megfelelni a 6. § (5) bekezdése szerinti követelményeknek.
 
 7. § (1) A bányavállalkozó tevékenységét a 2. §-ban előírt követelmények teljesítésével és a III. Részben meghatározott általános szabályok szerint köteles végezni.
 
@@ -219,13 +228,35 @@ esetében is alkalmazni kell.
 
 ### A koncessziós területek kijelölése
 
-9. § (1) Koncessziós pályázatra kijelölhető területként azt a Hatóság elnökének rendeletében zárt területté nyilvánított területet lehet figyelembe venni, amelyen az adott ásványi nyersanyag előfordulása vagy a geotermikus energia kinyerése valószínűsíthető.
+9. § (1) Koncessziós pályázatra kijelölhető területként a Hatóság elnökének rendeletében zárt területté nyilvánított területet lehet figyelembe venni.
 
 (2) A koncesszióról szóló 1991. évi XVI. törvény 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv az érzékenységi és terhelhetőségi vizsgálat eredményének figyelembevételével, a koncessziós pályázati kiírásban azt a zárt területet hirdeti meg, amelyen az ásványi nyersanyag bányászata vagy a geotermikus energia kinyerése energetikai célra kedvezőnek ígérkezik.
 
+(2a) A (2) bekezdés szerinti érzékenységi és terhelhetőségi vizsgálatot a bányafelügyelet folytatja le. A vizsgálatban a Hatóság elnökének rendelete szerinti adatszolgáltatási és véleményezési körben közreműködik
+
+- a) a környezetvédelmi és természetvédelmi hatáskörben eljáró megyei kormányhivatal,
+- b) a kulturális örökségvédelmi hatáskörben eljáró fővárosi és megyei kormányhivatal,
+- c) az erdészeti hatáskörben eljáró megyei kormányhivatal,
+- d) a hajózási hatósági hatáskörben eljáró fővárosi kormányhivatal,
+- e) az ingatlanügyi és földügyi hatáskörben eljáró fővárosi és megyei kormányhivatal,
+- f) a népegészségügyi hatáskörben eljáró fővárosi és megyei kormányhivatal,
+- g) a légiközlekedési hatóság,
+- h) a katonai légügyi hatóság,
+- i) a közlekedésért felelős miniszter,
+- j) a vízügyi és vízvédelmi hatóság,
+- k) a honvédelemért felelős miniszter,
+- l) a települési önkormányzat jegyzője, fővárosban a főjegyző,
+- m) a közút kezelője,
+- n) a vízvédelemért felelős miniszter által kijelölt szerv és
+- o) a természetvédelemért felelős miniszter által kijelölt szerv.
+
+(2b) Az érzékenységi és terhelhetőségi vizsgálatban a (2a) bekezdés szerint közreműködő szervezet arról nyilatkozik, hogy a zárt területen fennáll-e a bányászati tevékenység végzését vagy a geotermikus energia kutatását és kinyerését kizáró vagy korlátozó ok. A kizáró vagy korlátozó ok fennállását a közreműködő szervezetnek indokolnia kell.
+
+(2c) A közreműködő szervezet a nyilatkozatában foglaltakhoz a koncessziós tevékenység teljesítéséhez szükséges hatósági eljárások tekintetében kötve van, kivéve, ha a nyilatkozat megadásakor fennálló állapotokhoz képest olyan változások történtek, amelyek alapján a nyilatkozatban foglaltak nem tarthatók fenn. A megváltozott körülményeket a közreműködő szervezetnek kell igazolni.
+
 (3) Ivóvíz-, ásvány-, gyógy- és hévízcélú hasznosításra már igénybevett vízadók, víztestek zárt területként nem jelölhetők ki.
 
-(4) A koncessziós pályázatra kijelölni tervezett zárt területeket a bányafelügyelet közzéteszi. Koncessziós pályázatra kijelölni tervezett területre belföldi vagy külföldi jogi és természetes személy tehet javaslatot. A bányafelügyelet a közzététel során a javaslatot csak akkor veszi figyelembe, ha az (1) bekezdés szerinti feltétel teljesül, és a kijelölés nem ütközik a (3) bekezdés rendelkezésébe.
+(4) A koncessziós pályázatra kijelölni tervezett zárt területeket a bányafelügyelet közzéteszi. Koncessziós pályázatra kijelölni tervezett területre belföldi vagy külföldi jogi és természetes személy is tehet javaslatot. A bányafelügyelet a közzététel során a javaslatot csak akkor veszi figyelembe, ha az (1) bekezdés szerinti feltétel teljesül, és a kijelölés nem ütközik a (3) bekezdés rendelkezésébe.
 
 ### A koncessziós pályázat
 
@@ -316,7 +347,7 @@ esetében is alkalmazni kell.
 (2) Bányajáradékot fizet:
 
 - a) a bányavállalkozó,
-- b) az 1. § (2) bekezdése szerinti tevékenységre engedéllyel rendelkező, az 1. § (7) bekezdése szerinti engedélyes, valamint a 3. § (1a) bekezdés b) pontja, illetve (1d) bekezdése szerint kitermelésre jogosult, és
+- b) az 1. § (2) bekezdése szerinti tevékenységre engedéllyel rendelkező, az 1. § (7) bekezdése szerinti engedélyes, az 1. § (7a) bekezdése szerinti tevékenységet végző, valamint a 3. § (1a) bekezdés b) pontja, illetve (1d) bekezdése szerint kitermelésre jogosult, és
 - c) a geotermikus energiát kitermelő jogalany
 
 az általa kitermelt ásványi nyersanyag és geotermikus energia, illetve föld alatti szénelgázosítással történő kitermelés esetében az általa igénybevett ásványi nyersanyag után.
@@ -459,7 +490,7 @@ különbözőségének figyelembevételével kitermelési helyenként állapítj
 
 (13) A bányavállalkozó a kutatási tevékenység befejezésétől, de legkésőbb az engedélyezett kutatási időszak utolsó napjától számított öt hónapon belül köteles kutatási zárójelentést benyújtani a bányafelügyelethez. A határidő elmulasztása esetén, vagy ha a bányafelügyelet a kutatási zárójelentést véglegessé vált határozatában elutasította, a bányavállalkozó kutatási joga megszűnik.
 
-(14) A kutatásra engedélyezett időszakon belül a bányavállalkozó a kutatási területet vagy annak egy részét visszaadhatja. A bányafelügyelet a terület-visszaadást akkor fogadhatja el, amennyiben a visszaadásra bejelentett területen a bányakárokat megtérítették, továbbá a tájrendezési, a környezetvédelmi, a földvédelmi és talajvédelmi kötelezettségeket teljesítették. A visszaadott területen a határozat véglegessé válásának napján az adományozott kutatási joga megszűnik vagy a jogosult kutatási engedélye hatályát veszti.
+(14) A bányavállalkozó a kutatási területet vagy annak egy részét a bányatelek-megállapítási kérelem benyújtásáig visszaadhatja. A bányafelügyelet a terület-visszaadást akkor fogadja el, ha a visszaadásra bejelentett területen a bányakárokat megtérítették, továbbá a tájrendezési, a környezetvédelmi, a földvédelmi és talajvédelmi kötelezettségeket teljesítették. A visszaadott területen a határozat véglegessé válásának napján az adományozott kutatási joga megszűnik vagy a jogosult kutatási engedélye hatályát veszti.
 
 ### A szénhidrogén-kutatás, -feltárás és -kitermelés engedélyezésének sajátos szabályai
 
@@ -601,17 +632,19 @@ különbözőségének figyelembevételével kitermelési helyenként állapítj
 (2) A bányavállalkozó köteles
 
 - a) az ásványi nyersanyag mennyiségére, minőségére és elhelyezkedésére, a geotermikus energia földkéregbeli viszonyaira vonatkozó kezdeti adatokat a kutatási zárójelentésben,
-- b) a termelés megkezdését követően az ásványvagyonban bekövetkezett változást, illetve a kinyert és a hasznosított geotermikus energia mennyiségére vonatkozó jelentést évente, továbbá
-- c) a bánya bezárásakor, illetve a mező felhagyásakor a visszahagyott ásványvagyonról készített kimutatást
+- b) a kitermelés megkezdését követően a bányatelekben található ásványi nyersanyag elhelyezkedésére vonatkozó információt, a földtani és kitermelhető vagyon mennyiségében és minőségében bekövetkezett változásra vonatkozó adatokat, illetve a kinyert és a hasznosított geotermikus energia mennyiségére vonatkozó jelentést évente, továbbá
+- c) a bánya bezárásakor, illetve a mező felhagyásakor a visszahagyott ásványvagyon mennyiségéről, minőségéről és elhelyezkedéséről készített kimutatást
 
 az állami földtani feladatokat ellátó szervnek megküldeni.
 
 (2a) A 3. § (1a) bekezdésében meghatározott személy az adott évben kitermelt ásványi nyersanyagonkénti mennyiséget köteles a tárgyévet követő év február 28-ig a bányafelügyeletnek bejelenteni.
 
+(2b) A (2) bekezdés b) pontja és a (2a) bekezdés szerinti jelentést a jelentés benyújtására kötelezett a jelentés benyújtását követő egy éven belül helyesbítheti, a teljes, javított jelentés ismételt benyújtásával. Helyesbítés esetén a jelentés benyújtására kötelezettel szemben szankció nem alkalmazható.
+
 (3) Üzleti titokként kell kezelni
 
 - a) a bányavállalkozó által a kutatás során szolgáltatott adatokat a kutatási jog megszűnéséig, de legkésőbb a bányatelek megállapítására irányuló kérelem tárgyában meghozott döntés véglegessé válásáig,
-- b) a bányatelken belül a bányavállalkozó által szolgáltatott földtani adatokat a bányászati jog megszűnéséig, de legkésőbb az adatszolgáltatási kötelezettség időpontjától számított három évig,
+- b) a bányatelek megállapítását követően a bányavállalkozó által a feltárás és a kitermelés során szolgáltatott földtani adatokat a bányászati jog megszűnéséig, de legkésőbb az adatszolgáltatási kötelezettség időpontjától számított három évig,
 - c) a földtani kutatás engedélyese által szolgáltatott adatokat az összefoglaló földtani jelentést elfogadó határozat véglegessé válásától számított egy évig,
 - d) az együttes művelési tervhez szolgáltatott földtani adatokat, a 29. § (2) bekezdése szerinti műszaki üzemi terv teljesítési idejét követő három évig.
 
@@ -621,7 +654,7 @@ az állami földtani feladatokat ellátó szervnek megküldeni.
 - b) a kutatási, illetve földtani kutatási adatok birtokosára,
 - c) a bányatelket megállapító vagy módosító határozatban szereplő vagy ahhoz csatolt, az ásványi nyersanyag elhelyezkedésére, a földtani és kitermelhető vagyon mennyiségére és minőségére,
 - d) az éves kitermelt ásványi nyersanyag mennyiségére, minőségére, a tárgyév végén a bányatelekben található ásványi nyersanyag elhelyezkedésére, a földtani és kitermelhető vagyon mennyiségére és minőségére, a kinyert geotermikus energia mennyiségére,
-- e) a kitermelés, kinyerés helyére, és
+- e) a kitermeléssel, kinyeréssel érintett bányatelek védnevére, szénhidrogén-kitermelés esetén a mező megnevezésére, és
 - f) a bevallott bányajáradék összegére
 
 vonatkozó információ.
@@ -642,9 +675,9 @@ vonatkozó információ.
 
 (5) A bányatelek megállapítása és az ingatlan-nyilvántartásba történt bejegyzése nem változtatja meg a bányatelekkel lefedett felszíni ingatlanok tulajdonjogát, rendeltetését és használatát. A bányatelek megállapítása nem minősül a terület-igénybevétel megkezdésének.
 
-26/A. § (1) A bányavállalkozó a kutatási zárójelentést elfogadó határozat véglegessé válásától számított 5 hónapon belül kezdeményezheti a bányatelek megállapítását, illetve a geotermikus védőidom kijelölését. Az 5 hónapos időtartamba nem számít bele a környezetvédelmi engedélyezési eljárás és a 23. § (1a) és (1b) bekezdése szerinti tevékenység, valamint a (3a) bekezdés szerinti eljárás időtartama. A határidő elmulasztása esetén a bányavállalkozó bányatelek megállapításának, illetve geotermikus védőidom kijelölésének kezdeményezésére vonatkozó joga megszűnik.
+26/A. § (1) A bányavállalkozó a kutatási zárójelentést elfogadó határozat véglegessé válásától számított 5 hónapon belül kezdeményezheti a bányatelek megállapítását, illetve a geotermikus védőidom kijelölését. Az 5 hónapos időtartamba nem számít bele a környezetvédelmi engedélyezési eljárás és a 23. § (1a) és (1b) bekezdése szerinti tevékenység, valamint a (3a) bekezdés szerinti eljárás időtartama. A határidő elmulasztása esetén a bányavállalkozó bányatelek megállapításának, illetve geotermikus védőidom kijelölésének kezdeményezésére vonatkozó kizárólagos joga megszűnik.
 
-(2) Bányatelek megállapítását jogszerűen megszerzett adattári adatok, új elméleti földtani értelmezés eredményei vagy bejelentés alapján végzett előkutatás adatai felhasználásával készített készletszámítási jelentés alapján is lehet kérelmezni. A készletszámítási jelentés alapján benyújtott kérelem esetén a bányafelügyelet felhívja a kérelmezőt – a kőolaj, földgáz, ideértve a szén-dioxid gáz ásványi nyersanyagra irányuló bányatelek-megállapítás kivételével – a környezetvédelmi engedélyezési eljárás megindítására és a környezetvédelmi engedélyezési eljárás véglegessé vált döntéssel való lezárásáig a bányatelek-megállapítási eljárást felfüggeszti.
+(2) Bányatelek megállapítását jogszerűen megszerzett adattári adatok, új elméleti földtani értelmezés eredményei vagy bejelentés alapján végzett előkutatás adatai felhasználásával készített készletszámítási jelentés alapján is lehet kérelmezni. A készletszámítási jelentés alapján benyújtott kérelem esetén – ha a (3a) bekezdés szerinti feltételek teljesülése a kérelemben igazolt – a bányafelügyelet felhívja a kérelmezőt – a kőolaj, földgáz, ideértve a szén-dioxid gáz ásványi nyersanyagra irányuló bányatelek-megállapítás kivételével – a környezetvédelmi engedélyezési eljárás megindítására és a környezetvédelmi engedélyezési eljárás véglegessé vált döntéssel való lezárásáig a bányatelek-megállapítási eljárást felfüggeszti.
 
 (3) Meghatározott ásványi nyersanyag feltárására és kitermelésére a bányafelügyelet a bányatelket akkor állapítja meg, ha a kérelmező
 
@@ -655,7 +688,7 @@ vonatkozó információ.
 
 (3a) A külfejtéses művelésű bányatelket akkor lehet megállapítani vagy horizontálisan bővíteni, ha a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény bányatelek-megállapításra vonatkozó előírásai teljesülnek, és a bányászati tevékenység befejezését követő, a bányászattal igénybe vett területekre vonatkozó újrahasznosítási cél a településrendezési tervben foglaltaknak megfelel.
 
-(4) A bányavállalkozó a bányatelek megállapításától számított 5 éven, az építőipari nyers- és alapanyagokra megállapított bányatelkek esetében 2 éven, közös államhatár mentén lévő szénhidrogén-előfordulás esetében 10 éven belül köteles az üzemszerű kitermelést megkezdeni. A bányavállalkozó egy bányatelekre vonatkozóan legfeljebb egy alkalommal kérheti a bányafelügyelettől az üzemszerű kitermelés megkezdésére megállapított határidő legfeljebb 5 évvel, az építőipari nyers- és alapanyagokra megállapított bányatelkek esetében 2 évvel történő meghosszabbítását. Meghosszabbítás esetén a bányavállalkozó térítést köteles fizetni.
+(4) A bányavállalkozó a bányatelek megállapításától számított 5 éven, az építőipari nyers- és alapanyagokra megállapított bányatelkek esetében 1 éven, közös államhatár mentén lévő szénhidrogén-előfordulás esetében 10 éven belül köteles az üzemszerű kitermelést megkezdeni. A bányavállalkozó egy bányatelekre vonatkozóan legfeljebb egy alkalommal kérheti a bányafelügyelettől az üzemszerű kitermelés megkezdésére megállapított határidő legfeljebb 5 évvel, az építőipari nyers- és alapanyagokra megállapított bányatelkek esetében 1 évvel történő meghosszabbítását. Meghosszabbítás esetén a bányavállalkozó térítést köteles fizetni.
 
 (5) A bányafelügyelet a bányavállalkozó bányászati jogát törli, ha a bányavállalkozó
 
@@ -669,13 +702,13 @@ vonatkozó információ.
 
 (6a) A pályázat meghirdetése előtt a bányafelügyelet megkeresi a magyar állam tulajdonosi jogait gyakorló szervet azzal, hogy a megkeresés kézhezvételétől számított 35 napon belül igényt jelenthet be a bányatelek bányászati jogára. A magyar állam tulajdonosi jogait gyakorló szerv igénybejelentése esetén a bányafelügyelet a bányászati jog új jogosítottjaként a magyar állam tulajdonosi jogait gyakorló szervet jelöli ki.
 
-(6b) Ha az új jogosult kijelölése olyan bányatelek tekintetében történik, amelyen a bányatelek megállapítását követően még kitermelési tevékenységet nem végeztek, az új jogosult a kijelöléstől számított öt éven, építőipari nyers- és alapanyagra megállapított bányatelek esetében két éven belül köteles az üzemszerű kitermelést megkezdeni. Az ötéves határidő a (4) bekezdésben foglaltak szerint meghosszabbítható. Az (5) bekezdésben foglalt jogkövetkezményeket az új jogosult tekintetében is alkalmazni kell.
+(6b) Ha az új jogosult kijelölése olyan bányatelek tekintetében történik, amelyen a bányatelek megállapítását követően még kitermelési tevékenységet nem végeztek, az új jogosult a kijelöléstől számított öt éven, építőipari nyers- és alapanyagra megállapított bányatelek esetében 1 éven belül köteles az üzemszerű kitermelést megkezdeni. Az ötéves, illetve egyéves határidő a (4) bekezdésben foglaltak szerint meghosszabbítható. Az (5) bekezdésben foglalt jogkövetkezményeket az új jogosult tekintetében is alkalmazni kell.
 
-(6c) Ha az új jogosult kijelölése olyan bányatelek tekintetében történik, amelyen a bányatelek megállapítását követően már megkezdték a kitermelést, akkor az új jogosult a kijelöléstől számított egy éven belül köteles az üzemszerű kitermelést megkezdeni. Az egyéves határidő nem hosszabbítható meg. Az egyéves határidőbe a kitermelés megkezdéséhez szükséges hatósági engedélyek megszerzéséhez szükséges hatósági eljárások időtartama nem számít bele. A magyar állam tulajdonosi jogait gyakorló szerv igénybejelentése esetén az egyéves határidőbe nem számít bele a 28/B. § (1) bekezdése szerinti nyilvános pályázati eljárás, valamint a 28/B. § (2) bekezdése szerinti zártkörű pályázati eljárás lefolytatásának időtartama, továbbá a 28/B. § (4) bekezdésében meghatározott előzetes egyetértés megadásáig terjedő időtartam.
+(6c) Ha az új jogosult kijelölése olyan bányatelek tekintetében történik, amelyen a bányatelek megállapítását követően már megkezdték a kitermelést, akkor az új jogosult a kijelöléstől számított egy éven belül köteles az üzemszerű kitermelést megkezdeni. Az egyéves határidő nem hosszabbítható meg. Az egyéves határidőbe a kitermelés megkezdéséhez szükséges hatósági engedélyek megszerzéséhez szükséges hatósági eljárások időtartama nem számít bele. A magyar állam tulajdonosi jogait gyakorló szerv igénybejelentése esetén az egyéves határidőbe nem számít bele a 28/B. § (1) bekezdése szerinti nyilvános pályázati eljárás, valamint a 28/B. § (2) bekezdése szerinti zártkörű pályázati eljárás lefolytatásának időtartama, továbbá a 28/B. § (4) bekezdésében meghatározott előzetes egyetértés megadásáig terjedő időtartam. Az (5) bekezdésben foglalt jogkövetkezményeket az új jogosult tekintetében is alkalmazni kell.
 
 (7) A pályázatot a bányafelügyelet a honlapján és a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben – szénhidrogének esetében az Európai Unió hivatalos lapjában is – meghirdeti.
 
-(8) Nem lehet a (6) bekezdés szerinti pályázaton meghirdetni az olyan bányatelket, amely a benne található ásványi nyersanyag tekintetében zárt területnek minősül. A bányatelket a bányászati jogot törlő határozat véglegessé válását követően a bányafelügyelet hivatalból törli a nyilvántartásból.
+(8) Nem lehet a (6) bekezdés szerinti pályázaton meghirdetni az olyan bányatelket, amely a benne található ásványi nyersanyag tekintetében zárt területnek minősül. A bányatelket a bányászati jogot törlő határozat véglegessé válását követően – a szénhidrogénre megállapított bányatelek kivételével – a bányafelügyelet hivatalból törli a nyilvántartásból.
 
 26/B. § (1) Külfejtéses bányaművelésre szolgáló bányatelek megállapítását követően, de legkésőbb a 26/A. § (3) bekezdésének c) pontjában említett ütemtervben megjelölt időpont előtt 5 évvel a bányavállalkozó jogosult a bányatelekkel fedett ingatlanokra a vonatkozó építésügyi jogszabályok rendelkezései szerint építési és telekalakítási tilalom elrendelésének kezdeményezését kérni a bányafelügyelettől. A határidő elmulasztása esetén a bányavállalkozónak az építési és telekalakítási tilalom kezdeményezésére vonatkozó jogai megszűnnek.
 
@@ -701,19 +734,19 @@ vonatkozó információ.
 
 (3b) A (3a) bekezdés szerinti nyilvántartás – a jogosítottjának neve és lakóhelye, illetve megnevezése és székhelye kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(4) A bányafelügyelet a bányatelket kérelemre módosíthatja. Ha a módosítás az ingatlan-nyilvántartásba bejegyzett bányatelket érint, a módosításról rendelkező véglegessé vált határozattal megkeresi az ingatlanügyi hatóságot a bányatelekben bekövetkezett módosulás ingatlan-nyilvántartási bejegyzése végett.
+(4) A bányafelügyelet a bányatelket kérelemre vagy hivatalból módosíthatja. Ha a módosítás az ingatlan-nyilvántartásba bejegyzett bányatelket érint, a módosításról rendelkező véglegessé vált határozattal megkeresi az ingatlanügyi hatóságot a bányatelekben bekövetkezett módosulás ingatlan-nyilvántartási bejegyzése végett.
 
 (4a) A bányatelek módosítására a bányatelek megállapítására vonatkozó szabályokat kell megfelelően alkalmazni. Nem kell alkalmazni a 26/A. § (3) bekezdés b) pontjában és (3a) bekezdésében foglaltakat abban az esetben, ha a módosítás a bányatelek megosztására vagy bányatelkek egyesítésére irányul, és a módosítással megállapított bányatelek nem érint új térrészt a megosztott, illetve egyesített bányatelkek EOV rendszer szerinti koordinátái, alap- és fedőlapja által körülhatárolt térrészhez képest.
 
-(5) Ha – az építőipari nyers- és alapanyag esetén a magyar állam tulajdonosi jogköreit gyakorló szerv a bányászati jogra nem tart igényt – a bányavállalkozó kérelmére vagy hivatalból a bányafelügyelet törli a bányatelket, a törlés tényét a nyilvántartásában átvezeti és erről az érintetteket értesíti. A véglegessé vált törlő határozattal megkeresi az ingatlanügyi hatóságot a bányatelek-bejegyzés ingatlan-nyilvántartásból történő törlése végett. A bányatelek volt jogosultjának kötelezettségei a bányakárok megtérítése, a tájrendezés és a biztonság, valamint a környezet- és természetvédelem tekintetében a bányatelek törlését követően is fennállnak.
+(5) Ha a bányafelügyelet törli a bányatelket, a törlés tényét a nyilvántartásában átvezeti és a véglegessé vált törlő határozattal megkeresi az ingatlanügyi hatóságot a bányatelek-bejegyzés ingatlan-nyilvántartásból történő törlése végett. A bányatelek volt jogosultjának kötelezettségei a bányakárok megtérítése, a tájrendezés és a biztonság, valamint a környezet- és természetvédelem tekintetében a bányatelek törlését követően is fennállnak.
 
-(6) Az építőipari nyers- és alapanyag esetén, ha a bányavállalkozó kérelmére vagy hivatalból a bányafelügyelet törli a bányatelket, az eljárás során a bányászati joggal kapcsolatban rendelkezésére álló információkról szóló tájékoztató és azt megalapozó, rendelkezésére álló hatósági határozatok megküldésével egyidejűleg megkeresi a magyar állam tulajdonosi jogait gyakorló szervet azzal, hogy a megkeresés közlésétől számított 35 napon belül nyilatkozhat arról, hogy igényt tart-e a bányászati jogra. A magyar állam tulajdonosi jogait gyakorló szerv nyilatkozata alapján a bányafelügyelet – szükség szerint – a bányatelek törlési kérelmet elutasítja, a bányavállalkozó bányászati jogát törli, a hivatalból indított eljárását megszünteti és a magyar állam tulajdonosi jogait gyakorló szervet új bányászati jogosítottnak kijelöli.
+(6)
 
 26/C. § (1) Ha a bányászati munkák végzése során a művelésre engedélyezett bányatelek területén a bányabezárási műszaki üzemi terv benyújtása előtt olyan természeti, környezeti, műemléki vagy régészeti érték válik ismertté, amely más módon nem védhető meg, az érintett hatóság határozata alapján – amelyben rendelkezni kell a bányavállalkozó kártalanításáról is – a bányafelügyelet a bányatelket hivatalból csökkentheti.
 
 (2) A bányatelek területének az (1) bekezdés alapján hivatalból történt csökkentése miatt a bányavállalkozót megillető kártalanításra a Polgári Törvénykönyv rendelkezéseit kell alkalmazni. A kártalanítási összeget az (1) bekezdés szerinti érintett hatóság köteles megfizetni – kivéve ha az érzékenységi és terhelhetőségi vizsgálat alkalmával vagy a bányafelügyelet hatósági eljárásában a természeti, környezeti, műemléki vagy régészeti érték meglétét, vagy annak korábbi tényadatokra, geológiai adottságokra alapozott valószínűsíthetőségét a szakkérdés vizsgálata során jelezte – az általa hozott határozat véglegessé válásától számított 30 napon belül.
 
-(3) Ha a már megállapított bányatelek területét a bányabezárási műszaki üzemi terv benyújtása előtt kivett hellyé nyilvánítják, az ebből eredő károkért a bányavállalkozót kártalanítás illeti meg. A kivett hellyé nyilvánításról szóló határozatban a kártalanításról is rendelkezni kell. A kártalanítási összeget a kivett hellyé nyilvánító határozat véglegessé válásától számított 30 napon belül kell megfizetni.
+(3) Ha a már megállapított bányatelek területét a bányabezárási műszaki üzemi terv benyújtása előtt kivett hellyé nyilvánítják, az ebből eredő károkért a bányavállalkozót kártalanítás illeti meg. A kivett hellyé nyilvánításról szóló határozatban a kártalanításról is rendelkezni kell. A kártalanítási összeget a kivett hellyé nyilvánító határozat véglegessé válásától számított 30 napon belül kell megfizetni. A bányafelügyelet a határozatot hozó hatóság megkeresésére – szükség szerint – hivatalból módosítja a bányatelket.
 
 ### Műszaki üzemi terv
 
@@ -726,7 +759,7 @@ vonatkozó információ.
 (2b) A (2a) bekezdés alkalmazásában egy bányateleknek minősülnek az egymással határos, azonos ásványi nyersanyagra megállapított olyan bányatelkek,
 
 - a) amelyekre vonatkozóan a bányászati jog jogosultja azonos bányavállalkozó,
-- b) amelyek közül legalább egy esetében a bányászati jog jogosultja a bányavállalkozó, a további bányatelkek tekintetében pedig a bányavállalkozónak a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 23. pontja szerinti kapcsolt vállalkozása, vagy
+- b) amelyek közül legalább egy esetében a bányászati jog jogosultja a bányavállalkozó, a további bányatelkek tekintetében pedig a bányavállalkozónak a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 23. pontja szerinti kapcsolt vállalkozása (a továbbiakban: kapcsolt vállalkozás), vagy
 - c) amelyek tekintetében a bányászati joggal olyan bányavállalkozók rendelkeznek, amelyekben ugyanazon természetes személy bír többségi befolyással.
 
 (2c) Az építőipari nyers- és alapanyagokra megállapított bányatelekre vonatkozó kitermelési műszaki üzemi tervet – az e törvény végrehajtására a Hatóság elnöke által kiadott rendeletben meghatározottak szerint – rendszeresen felül kell vizsgálni.
@@ -773,14 +806,14 @@ vonatkozó információ.
 - a) a kitermelendő ásványi nyersanyag minimális mennyiségére és az ehhez kapcsolódó kitermelési ütemtervre vonatkozó részletes követelményeket,
 - b) az üzemszerű kitermelés 49. § 49. pontja szerinti mértékétől és időszakától eltérő szabályokat,
 - c) az üzemszerű kitermelés megkezdésének határidejére, a határidő meghosszabbítására vonatkozó, a 26/A. § (4), (6b), (6c) bekezdésétől eltérő szabályokat,
-- d) a kitermelés szüneteltetésére, illetve szünetelésére vonatkozó, a 30. § (1) és (7) bekezdésétől eltérő szabályokat
+- d) a kitermelés szüneteltetésére, illetve szünetelésére vonatkozó, a 30. § (4) bekezdésétől eltérő szabályokat
 
 a piacfelügyeleti intézkedésre okot adó állapot időtartama alatt.
 
 (2) Az (1) bekezdés alkalmazásában egy bányateleknek minősülnek az egymással határos, azonos ásványi nyersanyagra megállapított olyan bányatelkek,
 
 - a) amelyekre vonatkozóan a bányászati jog jogosultja azonos bányavállalkozó,
-- b) amelyek közül legalább egy esetében a bányászati jog jogosultja a bányavállalkozó, a további bányatelkek tekintetében pedig a bányavállalkozónak a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 23. pontja szerinti kapcsolt vállalkozása, vagy
+- b) amelyek közül legalább egy esetében a bányászati jog jogosultja a bányavállalkozó, a további bányatelkek tekintetében pedig a bányavállalkozó kapcsolt vállalkozása, vagy
 - c) amelyek tekintetében a bányászati joggal olyan bányavállalkozók rendelkeznek, amelyekben ugyanazon természetes személy bír többségi befolyással.
 
 (3) Az (1) bekezdés szerinti esetben a bányafelügyelet – a Hatóság elnöke által e törvény végrehajtására kiadott rendeletben meghatározottak szerint –
@@ -789,6 +822,8 @@ a piacfelügyeleti intézkedésre okot adó állapot időtartama alatt.
 - b) hivatalból felülvizsgálja a piacfelügyeleti intézkedésre okot adó állapottal érintett ásványi nyersanyagvagyonnal rendelkező bányatelekre vonatkozó érvényes kitermelési műszaki üzemi tervet, és amennyiben az nem felel meg az (1) bekezdés szerinti rendeletben meghatározottaknak, határidő tűzésével kötelezi a bányavállalkozót a kitermelési műszaki üzemi terv módosítására és bányafelügyelet részére történő benyújtására.
 
 (4) A bányafelügyelet a (3) bekezdés szerinti eljárásban, illetve külön kérelemre új eljárásban az (1) bekezdés szerinti rendeletben meghatározott kitermelendő mennyiségtől és kitermelési ütemtervtől – ide nem értve azt az esetet, ha a bányavállalkozó a kitermelést önhibáján kívüli okból nem tudja teljesíteni – kizárólag az (1) bekezdés szerinti rendeletben meghatározott esetekben és módon térhet el.
+
+(5) A bányafelügyelet az (1) bekezdés szerinti rendeletben az (1) bekezdés b) és c) pontja kapcsán meghatározott előírások teljesítésének elmulasztása esetén törli a bányavállalkozó bányászati jogát.
 
 27/C. § (1) Piacfelügyeleti intézkedésre okot adó állapot esetén a (2) bekezdés szerinti vállalkozás az e § szerinti kiegészítő bányajáradék fizetésére köteles.
 
@@ -809,6 +844,18 @@ tevékenységi körön belül a Hatóság elnöke által rendeletben meghatároz
 
 (5) A kiegészítő bányajáradékot forintban, havonta kell teljesíteni, a tárgyhót követő hónap 15. napjáig. A befizetett kiegészítő bányajáradék költségként számolható el.
 
+27/D. § (1) Ha a világörökségi helyszín által hordozott kiemelkedő egyetemes érték megőrzése érdekében szükséges, a Hatóság elnöke – a világörökségről szóló törvénnyel összhangban – rendeletben meghatározza a világörökségi területre vonatkozóan az ásványi nyersanyag kitermelésének a feltételeit, valamint ha a kitermelés már megkezdődött, az ezeknek a feltételeknek való megfelelés határidejét.
+
+(2) A bányafelügyelet a világörökségi területen található bányatelek esetében
+
+- a) az (1) bekezdés szerinti rendeletnek való megfelelést a kitermelési műszaki üzemi terv jóváhagyása vagy módosítása során vizsgálja,
+- b) az érvényes kitermelési műszaki üzemi tervet hivatalból felülvizsgálja, és amennyiben nem felel meg az (1) bekezdés szerinti rendeletnek, kötelezi a bányavállalkozót a kitermelési műszaki üzemi terv módosítására és a módosítás kidolgozásához szükséges észszerű határidő tűzésével annak bányafelügyelet részére történő benyújtására.
+
+(3) A bányafelügyelet a kitermelést megtiltja, ha
+
+- a) a (2) bekezdés szerinti határidőt a bányavállalkozó elmulasztja, vagy
+- b) a kitermelési műszaki üzemi terv módosítása iránti kérelmet végleges döntésében elutasítja vagy az eljárást megszünteti.
+
 ### Üzemeltetési szabályok
 
 28. § (1) A bányavállalkozó köteles e törvény és a végrehajtására kiadott rendeletekben meghatározott műszaki-, technológiai biztonsági rendelkezések előírásait megtartani, végrehajtásukról gondoskodni.
@@ -817,11 +864,13 @@ tevékenységi körön belül a Hatóság elnöke által rendeletben meghatároz
 
 (3) Aki bányaüzemi felelős műszaki vezetői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a bányafelügyelet részére a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni. Bányaüzemi felelős műszaki vezetői tevékenységet az folytathat, aki büntetlen előéletű, és megfelel a bányaüzem felelős műszaki vezetőjének kijelöléséről szóló rendeletben meghatározott feltételeknek.
 
-(4) A bányafelügyelet által a bányaüzemi felelős műszaki vezetői tevékenység végzésére jogosult személyekről vezetett nyilvántartás tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait, iskolai végzettségének megnevezését és oklevelének számát.
+(4) A bányafelügyelet által a bányaüzemi felelős műszaki vezetői tevékenység végzésére jogosult személyekről vezetett nyilvántartás tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait, kapcsolattartásra megjelölt elérhetőségét, iskolai végzettségének megnevezését és oklevelének számát.
 
 (4a) A (4) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(5) A bányaüzemi felelős műszaki vezető felel a 27. § (2) bekezdésében foglalt rendelkezések, a műszaki előírások és bányabiztonsági szabályok bányaüzemben történő végrehajtásáért, valamint megtartásuk ellenőrzéséért, e körben a bányavállalkozó képviselőjének minősül. Felelőssége nem zárja ki a bányavállalkozó vagy beosztása, munkaköre alapján más személy felelősségét. Ha a bányaüzemi felelős műszaki vezetői megbízás egyes bányászati tevékenységek tekintetében áll fenn, a bányaüzemi felelős műszaki vezető felelőssége e körben kizárólagos.
+(4b) A (4) bekezdés szerinti nyilvántartás alapján a bányafelügyelet a honlapján naprakészen közzéteszi a bányaüzemi felelős műszaki vezetők jegyzékét, amely tartalmazza a tevékenységet folytató személy nevét és kapcsolattartásra megjelölt elérhetőségét, valamint a bányaüzem típusát, amelyre a bányaüzemi felelős műszaki vezető bejelentése vonatkozik.
+
+(5) A bányaüzemi felelős műszaki vezető felel az (1) bekezdésben foglalt rendelkezések, a műszaki előírások és bányabiztonsági szabályok bányaüzemben történő végrehajtásáért, valamint megtartásuk ellenőrzéséért, e körben a bányavállalkozó képviselőjének minősül. Felelőssége nem zárja ki a bányavállalkozó vagy beosztása, munkaköre alapján más személy felelősségét. Ha a bányaüzemi felelős műszaki vezetői megbízás egyes bányászati tevékenységek tekintetében áll fenn, a bányaüzemi felelős műszaki vezető felelőssége e körben kizárólagos.
 
 ### Bányászati jog hasznosításba adása
 
@@ -861,35 +910,35 @@ tevékenységi körön belül a Hatóság elnöke által rendeletben meghatároz
 
 ### A kitermelés szüneteltetése
 
-30. § (1) A bányavállalkozó a kitermelésre jóváhagyott műszaki üzemi terv időtartama alatt legfeljebb 12 hónapig állhat le a kitermeléssel. A bányavállalkozó a kitermelést 12 hónapot meghaladóan – az építőipari nyers- és alapanyagra megállapított bányatelkek kivételével – a bányafelügyelet engedélyével, jóváhagyott szüneteltetési műszaki üzemi terv alapján szüneteltetheti.
+30. § (1) A bányavállalkozó a kitermelést 12 hónapot meghaladóan – az építőipari nyers- és alapanyagra megállapított bányatelkek kivételével – a bányafelügyelet engedélyével, jóváhagyott szüneteltetési műszaki üzemi terv alapján szüneteltetheti.
 
 (2) A szüneteltetés időtartamára a miniszter a koncessziós szerződésben, más bányavállalkozó esetében a bányafelügyelet a szüneteltetésre készült műszaki üzemi tervet jóváhagyó határozatban a kieső bányajáradék pótlására díjfizetési kötelezettséget állapít meg. A bányajáradék pótlására díj nem állapítható meg, ha a kitermelés szüneteltetését elemi csapás vagy bányaveszély tette szükségessé.
 
 (3) A kiesett bányajáradék pótlására a bányavállalkozó által fizetendő díj mértékének meghatározásánál a jóváhagyott műszaki üzemi tervet vagy az alapjául szolgáló művelési tervet kell figyelembe venni. A bányavállalkozó által fizetendő éves díj mértéke a szünetelést megelőző kitermelési műszaki üzemi tervben az utolsó évre jóváhagyott kitermelési mennyiség értéke után a 20. § szerint meghatározott bányajáradék mértékének 30%-a.
 
-(4) A bányafelügyelet – a mélyműveléses ércbánya kivételével – hivatalból elrendeli a bánya bezárását és a tájrendezés elvégzését, ha
+(4) Ha az építőipari nyers- és alapanyagot kitermelő bányavállalkozó hat hónapot meghaladóan nem végez kitermelést (a továbbiakban: szünetelés), az első félévben a kieső bányajáradék pótlására a bányatelek kitermelhető ásványvagyon értéke 0,5‰-nek megfelelő összeget kell fizetnie, amely hat hónapot meghaladó szünetelés esetén a második félévtől, félévenként további 0,5‰-kel növekszik. A bányatelek kitermelhető ásványvagyonának értékét úgy kell meghatározni, hogy a bányatelek szünetelést megelőző év december 31-én kitermelhető ásványvagyon mennyiségét meg kell szorozni az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben szereplő ásványi nyersanyag fajlagos értékével.
+
+(5) A bányafelügyelet – a mélyműveléses ércbánya kivételével – hivatalból elrendeli a bánya bezárását és a tájrendezés elvégzését, ha
 
 - a) a kitermelés szüneteltetésének időtartama eléri a 6 évet,
-- b) építőipari nyers- és alapanyagra megállapított bányatelek esetében a (7) bekezdés szerinti szünetelés időtartama eléri a 48 hónapot,
+- b) a szünetelés időtartama eléri a 48 hónapot,
 - c) a bányavállalkozó a kiesett bányajáradék pótlására megállapított díjfizetési kötelezettségének felhívás ellenére határidőre nem tesz eleget vagy
 - d) a bányavállalkozónak a szüneteltetést követő időszakra vonatkozó műszaki üzemi terv jóváhagyása iránti kérelmét – a bányabezárási és tájrendezési műszaki üzemi terv kivételével – a bányafelügyelet véglegessé vált döntésben elutasította vagy az eljárást megszüntette.
 
-(4a) A bányavállalkozó a bánya bezárását és a tájrendezés elvégzését elrendelő bányafelügyeleti határozat véglegessé válásától számított 30 napon belül köteles a 42. § szerinti műszaki üzemi terv jóváhagyása iránti kérelmet benyújtani.
+(6) A bányavállalkozó a bánya bezárását és a tájrendezés elvégzését elrendelő bányafelügyeleti határozat véglegessé válásától számított 30 napon belül köteles a 42. § szerinti műszaki üzemi terv jóváhagyása iránti kérelmet benyújtani.
 
-(5) Ha a bányavállalkozó a (4a) bekezdésben előírt kötelezettségét nem teljesíti vagy az általa benyújtott bányabezárási műszaki üzemi tervet a bányafelügyelet véglegessé vált határozatával elutasította, vagy az eljárást véglegessé vált döntéssel megszüntette, a koncessziós szerződés alapján folytatott bányászati tevékenység esetén a koncessziós szerződés megszűnik, a bányafelügyeleti engedély alapján folytatott bányászati tevékenység esetén a bányafelügyelet törli a bányavállalkozó bányászati jogát.
+(7) Ha a bányavállalkozó a (6) bekezdésben előírt kötelezettségét nem teljesíti vagy az általa benyújtott bányabezárási műszaki üzemi tervet a bányafelügyelet véglegessé vált határozatával elutasította, vagy az eljárást véglegessé vált döntéssel megszüntette, a koncessziós szerződés alapján folytatott bányászati tevékenység esetén a koncessziós szerződés megszűnik, a bányafelügyeleti engedély alapján folytatott bányászati tevékenység esetén a bányafelügyelet törli a bányavállalkozó bányászati jogát.
 
-(6) Ha az (5) bekezdés alapján
+(8) Ha a (7) bekezdés alapján
 
 - a) a koncessziós szerződés megszűnik, a 12. § (3) bekezdésében, vagy
-- b) a bányafelügyelet a bányászati jogot törli, a 26/A. § (6c) és (7) bekezdésében
+- b) a bányafelügyelet a bányászati jogot törli, a 26/A. § (6b) és (7) bekezdésében
 
 foglaltakat kell alkalmazni.
 
-(7) Ha az építőipari nyers- és alapanyagot kitermelő bányavállalkozó 12 hónapot meghaladóan nem végez kitermelést (a továbbiakban: szünetelés), az első félévben az elmaradt bányajáradék pótlására a 20. § alapján, valamint az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben meghatározott fajlagos érték alapján a bányatelek kitermelhető ásványvagyon értéke 0,5‰-ének megfelelő összeget fizet, amely összeg 6 havonta további 0,5‰-kel növekszik.
-
 ### Létesítési előírások
 
-31. § (1) A bányafelügyelet engedélye szükséges
+31. § (1) A bányafelügyelet engedélye vagy bejelentés szükséges
 
 - a) az 1. § (1) bekezdés a)–m) pontjában meghatározott tevékenységek gyakorlásához szükséges építmények, létesítmények és berendezések, továbbá a cseppfolyós propán-, butángázok és ezek elegyei töltő és tároló létesítményeinek és elosztóvezetékeinek építéséhez, használatbavételéhez, javításához, átalakításához, bontásához és felhagyásához, valamint
 - b) egyes nyomástartó berendezések építéséhez, használatbavételéhez, javításához, átalakításához
@@ -942,7 +991,11 @@ foglaltakat kell alkalmazni.
 
 (6) A bányafelügyelet a bányavállalkozót, valamint a gázipari engedélyest, mint munkáltatót, arra kötelezheti, hogy írásban adjon tájékoztatást a megjelölt munkavédelmi követelmények teljesítéséről.
 
-34/A. § A gázelosztó vezetékek és a cseppfolyós propán-, butángáz tartályok létesítési és üzemeltetési tapasztalatainak figyelemmel kísérése, valamint a műszaki haladás eredményeinek a gázelosztás és forgalmazás biztonságát növelő széles körű alkalmazásának elősegítése a szakági műszaki bizottságok feladata.
+34/A. § (1) A szállítóvezetékek, a gázelosztó vezetékek és a cseppfolyós propán-, butángáztartályok létesítési és üzemeltetési tapasztalatainak figyelemmel kísérése, valamint a műszaki haladás eredményeinek a gázelosztás és forgalmazás biztonságát növelő széles körű alkalmazásának elősegítése a szakági műszaki bizottságok feladata.
+
+(2) A szakági műszaki bizottság a működési rendjét maga határozza meg, és évente legalább két bizottsági ülést tart.
+
+(3) A szakági műszaki bizottság a tárgyévet követő év március 15-ig beszámol a Hatóság elnökének a tárgyévben elvégzett tevékenységéről.
 
 ### Súlyos balesetek és súlyos üzemzavarok
 
@@ -954,18 +1007,15 @@ foglaltakat kell alkalmazni.
 
 36. § (1) A bányavállalkozó vagy a földtani kutatásra jogosult köteles azt a külszíni területet, amelynek használhatósága a bányászati vagy földtani kutatási tevékenység következtében megszűnt vagy lényegesen korlátozódott, fokozatosan helyreállítani, és ezzel a területet újrahasznosításra alkalmas állapotba hozni vagy a természeti környezetbe illően kialakítani (a továbbiakban együtt: tájrendezés).
 
-(2) A bányafelügyelet a tájrendezéshez szükséges feladatokról a műszaki üzemi terv és az (5) bekezdés szerinti használaton kívüli bányászati célú mélyfúrás tájrendezési tervének jóváhagyási eljárása során dönt.
+(2) A bányafelügyelet a tájrendezéshez szükséges feladatokról a 27. § és 42. § szerinti műszaki üzemi terv és az (5) bekezdés szerinti használaton kívüli bányászati célú mélyfúrás tájrendezési tervének jóváhagyási eljárása során dönt. A tájrendezéssel kapcsolatos ingatlanhasználat esetén az ingatlan igénybevételi jogosultságot nem kell igazolni.
 
 (3) A használaton kívüli bányászati célú mélyfúrások adataira vonatkozóan a bányafelügyelet nyilvántartást vezet, amelyhez az adatokat a mélyfúrás tulajdonosa vagy vagyonkezelője köteles a bányafelügyelet rendelkezésére bocsátani. A használaton kívüli bányászati célú mélyfúrások nyilvántartásában a bányafelügyelet a bányászati célú mélyfúrás tulajdonosának nevét, tulajdonjogának igazolását, valamint az e törvény végrehajtására a Hatóság elnöke által kiadott rendelet szerinti adatokat tartja nyilván.
 
-(4) A bányafelügyelet a (3) bekezdés szerinti nyilvántartásban szereplő használaton kívüli bányászati célú mélyfúrások állapotáról, a tulajdonos vagy vagyonkezelő által készített és háromévente felülvizsgált, majd 30 napon belül a bányafelügyelethez benyújtott kockázatelemzés besorolása alapján 25 napon belül, ha a kockázatelemzés az e törvény végrehajtására a Hatóság elnöke által kiadott rendelet szerint
+(4) A (3) bekezdés szerinti nyilvántartásban szereplő használaton kívüli bányászati célú mélyfúrások állapotáról a tulajdonos vagy vagyonkezelő a Hatóság elnökének az e törvény végrehajtásának egyes szabályairól szóló rendelete szerinti kockázatelemzést készít és nyújt be a bányafelügyelethez. A tulajdonos vagy vagyonkezelő a kockázatelemzést háromévente felülvizsgálja.
 
-- a) magas vagy nagyon magas kockázatot állapított meg, kötelezi a tulajdonost vagy vagyonkezelőt a tájrendezési kötelezettség teljesítésére vonatkozó ütemterv elkészítésére; vagy
-- b) alacsony vagy közepes kockázatot állapított meg, a tulajdonos vagy vagyonkezelő kezdeményezése esetén a tájrendezési tervet elbírálja.
+(5) A benyújtott kockázatelemzés alapján a bányafelügyelet dönt a kockázatelemzés megfelelőségéről és a kockázat mértékéről. Ha a kockázatelemzés nem megfelelő, a bányafelügyelet határidő tűzésével új kockázatelemzés benyújtására kötelezi a tulajdonost vagy vagyonkezelőt. Ismételt elutasítás esetén a bányafelügyelet a kockázatelemzést a tulajdonos vagy vagyonkezelő költségére elkészítteti.
 
-(5) A tulajdonos vagy vagyonkezelő a bányafelügyelet (4) bekezdés szerinti kötelezésének közlését követően
-
-90 napon belül – a műszaki megvalósíthatósági szempontok figyelembevételével – összeállítja az érintett mélyfúrások tájrendezésére vonatkozó ütemtervet és jóváhagyásra benyújtja a bányafelügyelethez. A bányafelügyelet az ütemterv jóváhagyását megelőzően egyeztetést tart a tulajdonossal vagy vagyonkezelővel. A tulajdonos vagy vagyonkezelő a jóváhagyott ütemtervben foglaltak szerint köteles jóváhagyás céljából benyújtani a végrehajtandó használaton kívüli bányászati célú mélyfúrás tájrendezési tervét.
+(5a) Ha a bányafelügyelet magas vagy nagyon magas kockázatot állapít meg, kötelezi a tulajdonost vagy vagyonkezelőt a tájrendezési terv 60 napon belül történő benyújtására. Egy tájrendezési tervben kell valamennyi érintett használaton kívüli bányászati célú mélyfúrás tájrendezését megtervezni. A bányafelügyelet a tájrendezés határidejét a tulajdonos vagy üzemeltető által a tervhez mellékelt ütemtervre figyelemmel határozza meg.
 
 (6) Az e törvény hatálybalépése előtt keletkezett, használaton kívüli bányászati célú mélyfúrásokkal kapcsolatos tájrendezési feladatok elvégzésére az köteles, aki 2004. december 31-én a bányászati célú mélyfúrások tulajdonosa vagy vagyonkezelője volt, vagy aki ezen időpont után a mélyfúrás tulajdonjogát megszerezte vagy bányászati célú mélyfúrást létesített.
 
@@ -973,7 +1023,15 @@ foglaltakat kell alkalmazni.
 
 (8) A bányafelügyelet a használaton kívüli bányászati célú mélyfúrás tulajdonosa vagy vagyonkezelője kérelmére megállapítja, hogy a használaton kívüli bányászati célú mélyfúrás bányászati célra már nem alkalmas. A bányafelügyelet döntése nem jogosít a nem bányászati célú hasznosítás megkezdésére, ahhoz meg kell szerezni az arra hatáskörrel rendelkező hatóság engedélyét.
 
-(9) Ha a (8) bekezdés szerinti bányafelügyeleti határozat véglegessé válásától számított egy éven belül a tulajdonos vagy vagyonkezelő nem kezdeményezi a nem bányászati célú hasznosítás engedélyezését az arra hatáskörrel rendelkező hatóságnál, vagy ha az engedélyben meghatározott időtartamon belül a hasznosítást nem kezdi meg, köteles ezt a bányafelügyelet felé jelezni és az érintett használaton kívüli bányászati célú mélyfúrás adataira vonatkozóan a (3) bekezdésben foglaltak szerinti nyilvántartáshoz adatot szolgáltatni, valamint a (4) bekezdés szerinti kockázatelemzést elvégezni. A bejelentés alapján a bányafelügyelet a bányászati célra már nem alkalmas mélyfúrás minősítést visszavonja.
+(9) Ha a (8) bekezdés szerinti bányafelügyeleti határozat véglegessé válásától számított egy éven belül
+
+- a) a tulajdonos vagy vagyonkezelő nem kezdeményezi a nem bányászati célú hasznosítás engedélyezését az arra hatáskörrel rendelkező hatóságnál,
+- b) az a) pont szerinti engedély iránti kérelmet a hatóság végleges döntésével elutasította vagy az eljárást megszüntette, vagy
+- c) a tulajdonos vagy vagyonkezelő az a) pont szerinti engedélyben meghatározott hasznosítást nem kezdi meg
+
+köteles ezt a tényt a bányafelügyeletnek jelezni.
+
+(9a) A tulajdonos vagy vagyonkezelő a (9) bekezdés szerinti esetekben az ott meghatározott határidőtől számított 60 napon belül az érintett használaton kívüli bányászati célú mélyfúrás adataira vonatkozóan a (3) bekezdésben foglaltak szerinti nyilvántartáshoz adatot szolgáltat, valamint a (4) bekezdés szerinti kockázatelemzést elvégezi.
 
 (10) A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvény alapján nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított beruházás megvalósítása érdekében a beruházó kezdeményezheti a bányavállalkozónál, tulajdonosnál vagy a vagyonkezelőnél a használaton kívüli bányászati célú mélyfúrás felszámolását és a tájrendezés elvégzését. A beruházóval kötött megállapodás alapján a bányavállalkozó, a tulajdonos vagy a vagyonkezelő kezdeményezheti a használaton kívüli bányászati célú mélyfúrás felszámolását követően a tájrendezés elvégzésére vonatkozó tájrendezési terv jóváhagyását.
 
@@ -1070,7 +1128,7 @@ okozott kárt az engedélyes az ingatlan tulajdonosának, használójának (a to
   - aa) személye bizonytalan, vagy
   - ab) lakcíme, tartózkodási helye, székhelye, telephelye, fióktelepe ismeretlen, vagy
 - b) meghiúsul, mert a postai küldemény
-  - ba) azzal a jelzéssel érkezik vissza, hogy „nem kereste” vagy „elköltözött”, vagy
+  - ba) azzal a jelzéssel érkezik vissza, hogy „nem kereste”, „elköltözött”, „ismeretlen” vagy „kézbesítés akadályozott”, vagy
   - bb) átvételét megtagadta, vagy
 - c) eredményes, de a nyilatkozattételre megszabott határidőn belül nem nyilatkozott.
 
@@ -1112,7 +1170,7 @@ okozott kárt az engedélyes az ingatlan tulajdonosának, használójának (a to
 
 ### Használati jog
 
-38/D. § (1) Az elosztóvezetékhez tartozó gázfogadó állomás, mérőállomás, körzeti vagy egyedi nyomásszabályozó állomás, vezetékes propán-, butángáz-szolgáltatás esetén a propán-, butángázok és ezek elegyeinek tárolására szolgáló tartály, konténer idegen ingatlanon történő elhelyezésére, valamint üzemeltetésére, kártalanítás ellenében, az engedélyes vagy az elosztóvezeték tulajdonosa javára a bányafelügyelet a biztonsági övezet mértékének megfelelően használati jogot állapíthat meg, ha az ingatlan használatát az lényegesen nem akadályozza.
+38/D. § (1) Az elosztóvezetékhez tartozó gázfogadó állomás, mérőállomás, körzeti vagy egyedi nyomásszabályozó állomás, vezetékes propán-, butángáz-szolgáltatás esetén a propán-, butángázok és ezek elegyeinek tárolására szolgáló tartály, konténer idegen ingatlanon történő elhelyezésére, illetve üzemeltetésére, kártalanítás ellenében, az engedélyes vagy az elosztóvezeték tulajdonosa javára a bányafelügyelet a biztonsági övezet mértékének megfelelően használati jogot állapíthat meg, ha az ingatlan használatát az lényegesen nem akadályozza.
 
 (2) A használati jogra a 38/C. § rendelkezéseit kell alkalmazni azzal, hogy az engedélyes vagy az elosztóvezeték tulajdonosa a használati jog alapján az idegen ingatlanon elhelyezett létesítményeket – legfeljebb a biztonsági övezet mértékéig – bekerítheti.
 
@@ -1159,6 +1217,7 @@ okozott kárt az engedélyes az ingatlan tulajdonosának, használójának (a to
 - c) a felügyeleti díj vagy a bányajáradék megállapításával összefüggő, jogszabályban előírt bejelentési, önbevallási vagy befizetési kötelezettség hibás, késedelmes teljesítésével vagy annak elmulasztásával,
 - d) a bányászati tevékenység során keletkező hulladék kezelésére vonatkozó szabályok megsértésével,
 - e) a geotermikus energia kutatására, kinyerésére, hasznosítására vonatkozó szabályoktól eltérően
+- f) az ásványvagyonban bekövetkezett változásra vonatkozó éves adatszolgáltatási kötelezettség hibás, hiányos vagy késedelmes teljesítésével, illetve annak elmulasztásával
 
 gyakorolja.
 
@@ -1166,7 +1225,9 @@ gyakorolja.
 
 (3b) A bányafelügyelet a (2) bekezdés szerinti jogkövetkezmények közül azt alkalmazza, amely a leghatékonyabban szolgálja a jogsértő állapot megszüntetését. A bányafelügyelet a jogkövetkezményeket együttesen is alkalmazhatja.
 
-(3c) Ha a bányavállalkozó a kitermelést engedély nélkül szüneteltette, a bányafelügyelet a bányavállalkozót az engedély nélküli szüneteltetés időtartamára a 30. § (3) bekezdése alapján számított díj megfizetésére kötelezi. Ha a bányavállalkozó a 30. § (7) bekezdése szerinti szünetelés időtartamára az elmaradt bányajáradék pótlására vonatkozó díj megfizetését nem teljesítette, a bányafelügyelet a bányavállalkozót a szünetelés időtartamára vonatkozó, elmaradt bányajáradék pótlására vonatkozó díj megfizetésére kötelezi.
+(3c) Ha a bányavállalkozó a kitermelést engedély nélkül szüneteltette, a bányafelügyelet a bányavállalkozót az engedély nélküli szüneteltetés időtartamára a 30. § (3) bekezdése alapján számított díj megfizetésére kötelezi. Ha a bányavállalkozó a 30. § (4) bekezdése szerinti szünetelés időtartamára az elmaradt bányajáradék pótlására vonatkozó díj megfizetését nem teljesítette, a bányafelügyelet a bányavállalkozót a szünetelés időtartamára vonatkozó, elmaradt bányajáradék pótlására vonatkozó díj megfizetésére kötelezi.
+
+(3d) Ha a bányafelügyelet a 43. § (3) bekezdése szerinti hatásköreiben lefolytatott eljárásai alapján az első szankcionált jogsértést követő két éven belül újabb három jogsértést állapít meg, a negyedik jogsértés esetén a bányavállalkozó bányászati jogát törli.
 
 (4) A bányafelügyelet azt a természetes vagy jogi személyt, aki, illetőleg amely külön jogszabály hatálya alá tartozó, a bányafelügyelet által kiadott hatósági engedélyhez kötött gázipari tevékenységet (földgáz tárolása, vezetéken történő elosztása, szállítása, egyéb gázok vezetéken történő szállítása, cseppfolyós propán-, butángázok és ezek elegyei vezetéken történő elosztása, tartályban vagy palackban történő forgalmazása) engedély nélkül végez, bírsággal sújtja és eltilthatja a tevékenység folytatásától.
 
@@ -1178,7 +1239,7 @@ gyakorolja.
 
 (7a) A bányászati tevékenységből származó államot terhelő tájrendezési kötelezettség esetén biztosítékadási kötelezettség nem írható elő.
 
-(7b) Ha a bányavállalkozó a megadott határidőre biztosítékadási kötelezettségének nem tesz eleget, a bányafelügyelet – a kötelezettség teljesítéséig – a bányászati tevékenység megkezdését vagy folytatását megtiltja. Ha a bányavállalkozó nem tett eleget a biztosítékadási kötelezettségének a bányafelügyelet bányászati tevékenység megkezdését vagy folytatását megtiltó határozatának véglegessé válását követő kilencven napon belül, a bányafelügyelet törli a bányavállalkozó bányászati jogát, amely esetben a 26/A. § (6)–(7) bekezdését kell alkalmazni.
+(7b) Ha a bányavállalkozó a megadott határidőre biztosítékadási kötelezettségének nem tesz eleget, a bányafelügyelet – a kötelezettség teljesítéséig – a bányászati tevékenység megkezdését vagy folytatását megtiltja. Ha a bányavállalkozó nem tett eleget a biztosítékadási kötelezettségének a bányafelügyelet bányászati tevékenység megkezdését vagy folytatását megtiltó határozatának véglegessé válását követő kilencven napon belül, a bányafelügyelet törli a bányavállalkozó bányászati jogát, amely esetben a 26/A. § (6)–(7) bekezdését kell alkalmazni. A kilencvennapos határidő jogvesztő határidőnek minősül.
 
 (8)
 
@@ -1210,7 +1271,7 @@ gyakorolja.
 
 (4) A bányafelügyelet bírsággal sújtja azt az általa nyilvántartásba vett személyt, aki adatváltozás-bejelentési kötelezettségének nem tesz eleget.
 
-(5) A bányafelügyelet bírsággal sújtja azt a bányaüzemi felelős műszaki vezetőt, aki a műszaki üzemi tervben foglalt rendelkezések végrehajtását, továbbá a műszaki előírások, a bányabiztonsági szabályok, a munkabiztonsági, a környezetvédelmi vagy az ásványvagyon-gazdálkodási szabályok bányaüzemben történő betartását, valamint annak ellenőrzését elmulasztja.
+(5) A bányafelügyelet bírsággal sújtja azt a bányaüzemi felelős műszaki vezetőt, aki a 28. § (5) bekezdésében foglaltakat, a műszaki üzemi tervben foglalt rendelkezések végrehajtását, továbbá a műszaki előírások, a bányabiztonsági szabályok, a munkabiztonsági, a környezetvédelmi vagy az ásványvagyon-gazdálkodási szabályok bányaüzemben történő betartását, valamint annak ellenőrzését elmulasztja.
 
 (6) A bányafelügyelet bírsággal sújtja azt a bányászati hulladékok kezeléséről szóló rendelet szerinti illetékes személyt, aki a rendeletből eredő feladatait elmulasztja.
 
@@ -1226,9 +1287,9 @@ gyakorolja.
 
 aki a tevékenységére, továbbá a hites bányamérő tekintetében a bányatérképre is vonatkozó, az e törvény végrehajtására szolgáló jogszabályokban meghatározott követelményeket megsértette.
 
-(10) Ha a hites bányamérő, a nyomástartó berendezést vizsgáló szakember vagy felügyeleti személy, valamint a földtani szakértő a (9) bekezdés szerinti követelményeket, továbbá a bányaüzemi felelős műszaki vezető az (5) bekezdés szerinti követelményeket úgy sértette meg, hogy ezzel a bányafelügyelet hatáskörébe tartozó tevékenység során bekövetkezett súlyos üzemzavar és súlyos baleset bejelentésének és vizsgálatának rendjéről szóló jogszabályban meghatározott súlyos üzemzavart, súlyos balesetet vagy harmadik személynek igazoltan ötvenmillió forint értéket meghaladó kárt okozott, a bányafelügyelet – bírság kiszabása mellett – legfeljebb két évre eltilthatja a tevékenység folytatásától.
+(10) Ha a hites bányamérő, a nyomástartó berendezést vizsgáló szakember vagy felügyeleti személy, valamint a földtani szakértő a (9) bekezdés szerinti követelményeket, továbbá a bányaüzemi felelős műszaki vezető az (5) bekezdés szerinti követelményeket úgy sértette meg, hogy ezzel a bányafelügyelet hatáskörébe tartozó tevékenység során bekövetkezett súlyos üzemzavar és súlyos baleset bejelentésének és vizsgálatának rendjéről szóló jogszabályban meghatározott súlyos üzemzavart, súlyos balesetet vagy harmadik személynek igazoltan egymillió forint értéket meghaladó kárt okozott, a bányafelügyelet – bírság kiszabása mellett – legfeljebb két évre eltilthatja a tevékenység folytatásától.
 
-41/B. § (1) A 41. § (1) és (4) bekezdésében, továbbá a 41/A. § (10) bekezdésében meghatározott jogsértések esetén közigazgatási szankcióként figyelmeztetés nem alkalmazható.
+41/B. § (1) A 41. § (1), (3) és (4) bekezdésében, továbbá a 41/A. § (5) és (10) bekezdésében meghatározott jogsértések esetén közigazgatási szankcióként figyelmeztetés nem alkalmazható.
 
 (2) A bányafelügyelet nem alkalmazhat közigazgatási szankciót, ha
 
@@ -1529,7 +1590,7 @@ eltelt.
 
 (2) A bányafelügyelet feladata, hogy a felügyelete alá tartozó tevékenységek (44–46. §) végzése során védje a dolgozók életét, testi épségét és egészségét, ellenőrizze az ásvány- és geotermikusenergia-vagyonnal való gazdálkodásra, a környezet-, a táj- és a természetvédelemre, valamint a műszaki biztonságra és a tűzvédelemre vonatkozó szabályok megtartását.
 
-(3) A bányafelügyelet a hatósági felügyelete keretében – az e törvényben és a külön jogszabályokban meghatározott – műszaki-biztonsági, munkavédelmi, építésügyi hatósági, építésfelügyeleti, ásványvagyon-gazdálkodási, piacfelügyeleti és földtani hatásköröket gyakorol. A bányafelügyelet tűzvédelmi hatósági jogköre a bányák föld alatti, valamint ezzel egy tekintet alá eső külszíni részére terjed ki.
+(3) A bányafelügyelet a hatósági felügyelete keretében – az e törvényben és a külön jogszabályokban meghatározott – műszaki-biztonsági, munkavédelmi, foglalkoztatásfelügyeleti hatósági, építésügyi hatósági, építésfelügyeleti, ásványvagyon-gazdálkodási, piacfelügyeleti és földtani hatásköröket gyakorol. A bányafelügyelet tűzvédelmi hatósági jogköre a bányák föld alatti, valamint ezzel egy tekintet alá eső külszíni részére terjed ki.
 
 (4)
 
@@ -1551,7 +1612,7 @@ eltelt.
 
 (9e)
 
-(10) A bányászati igazgatási feladatokat ellátó személyek részére igazolványt, a hatósági feladatokat ellátó személyek részére az igazolvánnyal azonos sorszámú szolgálati jelvényt kell biztosítani.
+(10) A Hatóság a bányászati hatósági feladatokat ellátó személy részére igazolványt állít ki. Az igazolványra vonatkozó részletes szabályokat, valamint az igazolvány személyes adatot nem tartalmazó adattartalmát a Hatóság elnöke rendeletben állapítja meg. Az igazolvány személyes adatként tartalmazza a bányászati igazgatási feladatokat ellátó személy nevét és arcképét, valamint az igazolvány okmányazonosítóját.
 
 (11) A bányafelügyelet a piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, valamint külön jogszabály alapján gyakorolja.
 
@@ -1562,7 +1623,7 @@ eltelt.
 - a) a bányatelek megállapítására indított eljárásban,
 - b) a kutatási, kitermelési, szüneteltetési vagy bányabezárási, valamint mezőfelhagyási műszaki üzemi tervek jóváhagyására indult eljárásban,
 - c) a bányafelügyelet építésügyi hatósági hatáskörébe tartozó – a műszaki üzemi tervben tervezett bányászati tevékenységgel ténylegesen igénybe vett területekkel, a létesítmény és biztonsági övezete területével kapcsolatos – engedélyezési eljárásokban,
-- d) az építőipari nyers- és alapanyag esetében a hatósági engedély alapján gyakorolt bányászati jog átruházásához való hozzájárulás iránti eljárásban
+- d)
 
 a bányászati joggal érintett ingatlan tulajdonosa.
 
@@ -1572,7 +1633,7 @@ a bányászati joggal érintett ingatlan tulajdonosa.
 
 (3) Az e törvényben vagy az e törvény végrehajtására kiadott jogszabályban meghatározott hatásterületen lévő ingatlan tulajdonosa, és az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték, ügyfélnek minősül.
 
-(4)
+(4) A bányafelügyelet az általa kiadott engedélyek módosítását, a módosításokat külön jelölve, egységes döntésbe foglalva kiadmányozza.
 
 (5) A bányafelügyelet hatósági eljárásaiban
 
@@ -1601,7 +1662,7 @@ a bányászati joggal érintett ingatlan tulajdonosa.
 - c) a kutatás engedélyezésére vonatkozó eljárás során 25 nap.
 - d) a magyar állam tulajdonosi jogait gyakorló szerv igénybejelentése esetén 55 nap.
 
-(2)
+(2) A bányafelügyelet együttes eldöntés céljából elrendelheti az előtte folyamatban lévő olyan eljárások egyesítését, amelyek tárgya egymással összefügg. Az eljárások egyesítése esetén a bányafelügyelet a legkorábban indult ügy ügyintézési határidején belül jár el.
 
 (3) A bányafelügyelet
 
@@ -1610,7 +1671,9 @@ a bányászati joggal érintett ingatlan tulajdonosa.
 - c) a bányafelügyelet hatáskörébe tartozó tevékenység során bekövetkezett súlyos üzemzavar és súlyos munkabaleset bejelentésének és vizsgálatának rendjéről szóló biztonsági szabályzat szerinti súlyos baleset és súlyos üzemzavar kivizsgálásáról szóló kötelezést tartalmazó határozatát,
 - d) a biztonsági övezet megsértésével kapcsolatban hozott, kötelezést tartalmazó határozatát azonnal végrehajthatónak nyilváníthatja.
 
-(4)
+(4) A bányafelügyelet az ellenőrzés során, az ellenőrzéssel összefüggésben a hatásköre gyakorlásának keretei között az ügyfél vagy képviselője mellett az ellenőrzés helyszínén tartózkodó bármely más személytől is adatot és tájékoztatást kérhet, az ügyfelet nyilatkozat tételére hívhatja fel, a helyszínről, a megszemlélt tárgyakról, folyamatokról kép- és hangfelvételt készíthet, mintavételt eszközölhet, továbbá egyéb bizonyítást folytathat le.
+
+(4a) A bányafelügyelet az ellenőrzés során a tényállás tisztázása szempontjából fontos iratot és más tárgyi bizonyítékot lefoglalhat.
 
 (5) Adók módjára kell behajtani a meg nem fizetett
 
@@ -1622,9 +1685,9 @@ a bányászati joggal érintett ingatlan tulajdonosa.
 
 (6) A bírság, bányajáradék és a jogosulatlanul kitermelt ásványinyersanyag-érték esetében a bányafelügyelet kérelemre részletekben történő teljesítést vagy halasztott fizetést is engedélyezhet.
 
-(7) A kötelezett a teljesítési határidő lejárta előtt előterjesztett kérelmében annak igazolásával kérheti a hatóságtól a pénzfizetési kötelezettség teljesítésére halasztás vagy a részletekben történő teljesítés engedélyezését, hogy rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést, vagy az számára aránytalan nehézséget jelentene.
+(7) A kötelezett a teljesítési határidő lejárta előtt előterjesztett kérelmében annak igazolásával kérheti a hatóságtól a pénzfizetési kötelezettség teljesítésére halasztás vagy a részletekben történő teljesítés engedélyezését (a továbbiakban: fizetési kedvezmény), hogy rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést, vagy az számára aránytalan nehézséget jelentene.
 
-(8) Késedelmes fizetés esetén a bányafelügyelet a késedelemmel érintett naptári félév első napján érvényes jegybanki alapkamattal megegyező mértékű késedelmi kamatot számít fel.
+(8) Ha a kötelezett a fizetési kedvezményben foglaltak szerinti fizetési kötelezettségét nem teljesíti, a tartozás járulékaival együtt egy összegben esedékessé válik.
 
 (9)
 
@@ -1680,13 +1743,21 @@ a bányászati joggal érintett ingatlan tulajdonosa.
 
 (2) Az (1) bekezdés szerinti szakértői tevékenységet az a személy folytathat, aki büntetlen előéletű, rendelkezik az e törvény felhatalmazása alapján a miniszter rendeletében meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
-(3) A bányafelügyelet által a szakértői tevékenység folytatására jogosult személyekről vezetett nyilvántartás tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(3) A bányafelügyelet által a szakértői tevékenység folytatására jogosult személyekről vezetett nyilvántartás tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait, kapcsolattartásra megjelölt elérhetőségét, valamint a Hatóság elnökének rendeletében előírt további, személyes adatokat nem tartalmazó adatokat. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+
+(4) A (3) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+(5) A (3) bekezdés szerinti nyilvántartás alapján a bányafelügyelet a honlapján naprakészen közzéteszi a földtani szakértők jegyzékét, amely tartalmazza a tevékenységet folytató személy nevét és kapcsolattartásra megjelölt elérhetőségét, valamint a földtani szakértő szakterületének megnevezését.
 
 44/B. § (1) Aki hites bányamérői tevékenységet kíván folytatni, köteles az erre irányuló szándékát a bányafelügyeletnek a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait.
 
 (2) Hites bányamérői tevékenységet az folytathat, aki büntetlen előéletű, és megfelel az e törvény felhatalmazása alapján kiadott rendeletben meghatározott egyéb feltételeknek.
 
-(3) A hites bányamérői tevékenységet folytató személyekről a bányafelügyelet által vezetett nyilvántartás tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a hites bányamérői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(3) A hites bányamérői tevékenységet folytató személyekről a bányafelügyelet által vezetett nyilvántartás tartalmazza a tevékenység végzésére jogosult személy természetes személyazonosító adatait, kapcsolattartásra megjelölt elérhetőségét, valamint a Hatóság elnökének rendeletében előírt további, személyes adatokat nem tartalmazó adatokat. A nyilvántartásból kizárólag a hites bányamérői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+
+(4) A (3) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+
+(5) A (3) bekezdés szerinti nyilvántartás alapján a bányafelügyelet a honlapján naprakészen közzéteszi a hites bányamérői tevékenységet folytató személyek jegyzékét, amely tartalmazza a tevékenységet folytató személy nevét, kapcsolattartásra megjelölt elérhetőségét és a hites bányamérő szakterületének megnevezését.
 
 #### 44/C. §
 
@@ -1852,12 +1923,12 @@ bányahatósági felügyelete
 - 46.
 - 47. „Bányászati hulladékkezelés”: az ásványi nyersanyagok bányászata, tárolása és feldolgozása során keletkező hulladék – kivéve a nem közvetlenül e tevékenységekből származó hulladék – hulladékkezelő létesítményben történő gyűjtése és tárolása, valamint a hulladék keletkezési helyétől a hulladékkezelő létesítményig történő szállítása.
 - 48.
-- 49. „Üzemszerű kitermelés”: az ásványi nyersanyag olyan kitermelése, ahol a tényleges kitermelési mennyiség a bányatelek megállapításától számított 5 éven, közös államhatár mentén lévő szénhidrogén-előfordulás esetében 10 éven belül, a tevékenységre vonatkozó, első, módosítás nélküli műszaki üzemi tervben jóváhagyott legnagyobb kitermelési mennyiségnek legalább a negyedét eléri.
+- 49. „Üzemszerű kitermelés”: az ásványi nyersanyag olyan kitermelése, ahol a tényleges kitermelési mennyiség a tevékenységre vonatkozó, első, módosítás nélküli műszaki üzemi tervben jóváhagyott legnagyobb kitermelési mennyiségnek legalább a felét eléri az üzemszerű kitermelésre meghatározott időtartamon belül.
 - 50. Használaton kívüli bányászati célú mélyfúrás, kút: a meddő szénhidrogén kutatófúrás, kút, illetve a termelésből kivont, a mező termeltetéséhez már nem szükséges vagy műszakilag alkalmatlanná vált szénhidrogénkút.
 - 51. Meddő szénhidrogén kutatófúrás, kút: olyan kutatófúrás (kút), amely szénhidrogén-indikációt nem eredményezett vagy olyan mértékben eredményezett, amely alapján a szénhidrogén nem termelhető ki gazdaságosan.
 - 52. „Föld alatti szénelgázosítás”: olyan bányaművelési technológia, amely a felszín alatt feltárt széntelep fúrólyukon keresztül végzett részleges oxidációja során képződő szintézisgáz fúrólyukon való, szabályozott kitermelésével történik.
 - 53. „Kitermelés szüneteltetése”: amikor a bányában 12 hónapot meghaladóan nem folytatnak kitermelést.
-- 54. „Együttes művelési terv”: az a műszaki dokumentáció, amelyet akkor kell készíteni, ha a szénhidrogén-lelőhely feltárására és kitermelésére több, a kitermeléshez szükséges feltételekkel rendelkező bányavállalkozó jogosult.
+- 54. „Együttes művelési terv”: az a műszaki dokumentáció, amelyet akkor kell készíteni, ha a szénhidrogén-lelőhely kutatási fázisú próbatermelésére, feltárására és kitermelésére több, a kitermeléshez szükséges feltételekkel rendelkező bányavállalkozó jogosult.
 - 55. Állami elővásárlási jog szempontjából védettnek minősülő ingatlanokat érintő bányatelkek vonatkozásában bányászható ásványi nyersanyagok: az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben meghatározott gránit murva (kód 1013), riolit (kód 1110), pados andezit (kód 1141), andezit (kód 1142), bazalt (kód 1150), riolittufa (-tufit) (kód 1211), kálitufa (kód 1212), bazalttufa (-tufit) (kód 1240), agyag (kód 1411-1419), kőzetliszt, kőzetiszap (kód 1422), homok (kód 1451-1453), kavics (kód 1460), átmeneti törmelékes nyersanyagok (kód 1471-1473), homokkő-konglomerátum (kód 1481-1485), durva mészkő/puha mészkő (kód 1520), tömött, kristályos mészkő (kód 1531-1533), dolomit (kód 1541-1543), márga (kód 1561-1563), alginit (kód 1620).
 - 56. Építőipari nyers- és alapanyagok: az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben meghatározott képlékeny agyag-II. (kód 1419), kőzetliszt, kőzetiszap (kód 1422), homok (kód 1453), homokos kavics (kód 1471), kavicsos homok (kód 1472), agyagos törmelék (kód 1473), agyagmárga (kód 1564), kevert ásványi nyersanyag I. (kód 2311), kevert ásványi nyersanyag II. (kód 2312) ásványi nyersanyag alcsoportba tartozó nyersanyagok, valamint a kavics (kód 1460) ásványi nyersanyag csoportba tartozó nyersanyagok.
 - 57. Hasznosító: a magyar állam tulajdonát képező bányászati jog hasznosítására a magyar állam tulajdonosi jogait gyakorló szervvel szerződéses jogviszonyban álló személy.
@@ -2038,10 +2109,10 @@ vonatkozó részletes szabályok rendeletben történő megállapítására.
 - 8. az e törvény szerinti polgári robbantási, polgári felhasználású robbanóanyag-forgalmazási, a nyomástartó berendezést vizsgáló szakértői és felügyeleti tevékenységek folytatásának részletes feltételeire, az e tevékenységekre jogosító eljárás rendjére, az e tevékenységeket végzőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmára, valamint a nyilvántartás vezetésére, a robbanóanyag forgalmazására és e tevékenységek hatósági felügyeletére,
 - 9. az ásványvagyon-gazdálkodás részletes követelményeire,
 - 10. a szolgáltatásra köteles földtani adatok körére és az adatszolgáltatás rendjére,
-- 11. a bányászati jog új jogosítottjának kijelölésére vonatkozó hatósági pályázati eljárásra,
+- 11. a bányászati jog új jogosítottjának kijelölésére vonatkozó hatósági pályázati eljárásra, és a meghirdetett bányászati jog ellenértékének meghatározására,
 - 12. a geotermikus védőidom meghatározására és kijelölésére, valamint a geotermikusenergia-hasznosító létesítmények, a kitermelt és hasznosított geotermikus energia mennyiségének, és a megállapított geotermikus védőidomok nyilvántartására,
 - 13. az ásványi nyersanyag és a geotermikus energia természetes előfordulási területén elvégzendő érzékenységi és terhelhetőségi vizsgálat lefolytatására, valamint a vizsgálatban részt vevő közigazgatási és egyéb szervek közreműködésére,
-- 14. a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések engedélyezésére, hatósági felügyeletére,
+- 14. a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések engedély vagy bejelentés alapján történő építésére, használatbavételére, javítására, átalakítására,
 - 15. az energetikai és ipari eredetű szén-dioxid tárolására alkalmas földtani szerkezetek vonatkozásában
   - a) a potenciális tárolóhely felmérésére,
   - b) a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatás és a tárolás engedélyezésére,
@@ -2053,18 +2124,18 @@ vonatkozó részletes szabályok rendeletben történő megállapítására.
   - h) a bányafelügyelet által vezetett nyilvántartás személyes adatot nem tartalmazó tartalmi követelményeire,
   - i) a korrekciós intézkedések elvégzésére,
   - j) az új tárolási engedélyes kijelölésére,
-- 16. a bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó építésügyi hatósági eljárás, az építési tevékenységek körére, az eljárás megindítására irányuló kérelemhez csatolandó műszaki dokumentáció tartalmára,
+- 16. a bányafelügyelet hatáskörébe tartozó sajátos építményekre vonatkozó építésügyi hatósági eljárásra és bejelentésre, az építési tevékenységek körére, az eljárás megindítására irányuló kérelemhez csatolandó műszaki dokumentáció tartalmára,
 - 17. az ásványi nyersanyag és geotermikus energiavagyon nyilvántartására,
 - 18. a 26/A. § (4) bekezdése szerinti kitermelési határidő meghosszabbítása esetén fizetendő térítés mértékének és a megfizetés módjának megállapítására,
 - 19. a használaton kívüli bányászati célú mélyfúrások nyilvántartására, azok kockázatelemzésére, besorolására, valamint a céltartalék képzésére,
 - 20. a koncessziós pályázatra kijelölhető zárt területek listájának közzétételére,
 - 21. a vizek kártételei elleni védelem és védekezés célját szolgáló közcélú vízilétesítmények létesítéséhez szükséges anyagnyerő hely engedélyezésére, az engedély iránti kérelem tartalmi követelményeire, a komplex műveleti terv tartalmára, az anyagnyerő hely létesítéséhez szükséges biztosítékokra, az anyagnyerő hely megszüntetésére irányuló kérelem tartalmi követelményeire,
-- 22. a műszaki-biztonsági szempontból jelentős munkakörök betöltéséhez szükséges szakmai képesítésre és gyakorlatra, valamint az ilyen munkakörben foglalkoztatottak alaptanfolyami és időszakos továbbképzésére,
+- 22. a műszaki-biztonsági szempontból jelentős munkakörök betöltéséhez szükséges szakmai képesítésre és gyakorlatra,
 - 23. az egyes munkabiztonsági szaktevékenységnek minősülő feladatok ellátásához szükséges szakmai képesítésre és gyakorlatra,
 - 24. a hites bányamérőre,
 - 25. a bányatérképek méretarányára és tartalmi követelményeire,
-- 26. a polgári robbantási tevékenység műszaki-biztonsági követelményeit tartalmazó szabályzatra,
-- 27. a bányászati és gázipari biztonsági szabályzatokra, a létesítmények tervezésére, létesítésére, üzembe helyezésére, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeire, és egyéb feltételeit tartalmazó biztonsági szabályzatokra, a műszaki-biztonsági irányítási rendszerek alkalmazási szabályaira, a szakági műszaki bizottságok létesítésére, feladataik és működésük rendjére,
+- 26. a polgári robbantási tevékenység műszaki-biztonsági követelményeit tartalmazó szabályzatra és a robbantásvezetői és robbantómesteri képzés és vizsgáztatás rendjére, valamint a képzési programra,
+- 27. a bányászati és gázipari biztonsági szabályzatokra, a létesítmények tervezésére, létesítésére, üzembe helyezésére, üzemeltetésének és megszüntetésének műszaki biztonsági követelményeire, és egyéb feltételeit tartalmazó biztonsági szabályzatokra, a műszaki-biztonsági irányítási rendszerek alkalmazási szabályaira,
 - 28. az e törvény szerinti földtani szakértői tevékenység folytatásának részletes feltételeire, az e tevékenységre jogosító eljárás rendjére, a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmára, valamint a nyilvántartás vezetésére,
 - 29. a bányászati és gázipari biztonságtechnikai és munkabiztonsági vizsgák tematikájára és rendjére,
 - 30. a hites bányamérői tevékenység folytatásának részletes feltételeire, az e tevékenységre jogosító eljárás rendjére, a nyilvántartás személyes adatot nem tartalmazó adattartalmára, valamint a nyilvántartás vezetésére,
@@ -2074,6 +2145,7 @@ vonatkozó részletes szabályok rendeletben történő megállapítására.
 - 34. a bányafelügyelet hatáskörébe tartozó tevékenység során bekövetkezett súlyos üzemzavarok és súlyos balesetek körére, az arról szóló jelentéstételi kötelezettségre és vizsgálati rendjére
 - 35. a felügyeleti díj mértékére, fizetésére, beszedésére, kezelésére és nyilvántartására
 - 36. a bányaüzem területén az egyéb gáztechnológia építésére, használatba vételére, üzemeltetésére, elbontására és felhagyására
+- 37. a szakági műszaki bizottságok létesítésére, feladataikra
 
 vonatkozó részletes szabályok rendeletben történő megállapítására.
 
@@ -2081,7 +2153,7 @@ vonatkozó részletes szabályok rendeletben történő megállapítására.
 
 (1d) Felhatalmazást kap a Hatóság elnöke, hogy rendeletben állapítsa meg
 
-- a) a bányafelügyeleti hatósági feladatokat ellátó személyek részére biztosítandó szolgálati igazolvány és jelvény biztosítására, használatára, az érintett személy azonosításához szükséges adattartalmára vonatkozó részletes szabályokat,
+- a) a bányafelügyeleti hatósági feladatokat ellátó személyek részére biztosítandó szolgálati igazolványra vonatkozó részletes szabályokat, valamint az igazolvány személyes adatot nem tartalmazó adattartalmát,
 - b) a bányafelügyelet tűzvédelmi hatósági jogkörébe tartozó létesítmények meghatározásának és a tűzvédelmi ellenőrzés részletes szabályait,
 - c) a bányafelügyelet piacfelügyeleti ellenőrzése alá tartozó termékek piacfelügyeleti ellenőrzésére vonatkozó és az importtermékek ellenőrzésével kapcsolatos részletes szabályokat, továbbá a piacfelügyeleti hatósági jogkörben eljáró bányafelügyelet által – közigazgatási hatósági hatáskörben eljárva – alkalmazandó kiegészítő eljárási szabályokat,
 - d) az előkutatás és az e törvény hatálya alá tartozó jogosultságok részletes szabályait,
@@ -2115,10 +2187,7 @@ vonatkozó részletes szabályok rendeletben történő megállapítására.
 
 rendeletben történő megállapítására.
 
-(3) Felhatalmazást kap
-
-- a)
-- b) a miniszter, hogy a nyomvonalas létesítmény, folyó, vízfolyás, tó, csatorna és építmény az engedélyes, illetőleg az elosztóvezeték tulajdonosa által, a vezetékjog alapján történő megközelítését, keresztezését a vízgazdálkodásért felelős miniszter és az elektronikus hírközlésért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
+(3)
 
 (4)
 
@@ -2165,6 +2234,10 @@ rendeletben történő megállapítására.
 50/H. § (1) A 6. § (4) bekezdése szerinti hatósági hozzájárulást a 2021. július 9-ét követően a bányászati joggal rendelkező nyilvánosan működő részvénytársaság részvényeinek visszterhes és ingyenes átruházásával történő szerződéskötése esetén megadottnak kell tekinteni, ha az átruházási folyamat az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény és egyéb törvények módosításáról szóló 2022. évi I. törvénnyel (a továbbiakban: Módtv8.) megállapított 6. § (4) bekezdése hatálybalépésének napjáig lezárult.
 
 (2) E törvénynek a Módtv8.-cal megállapított 6. § (4) bekezdését a Módtv8. hatálybalépésekor folyamatban lévő bányászati joggal rendelkező nyilvánosan működő részvénytársaság részvényeinek visszterhes és ingyenes átruházási folyamataira is alkalmazni kell.
+
+50/I. § (1) Ha az egyes gazdaságszabályozási tárgyú törvények módosításáról szóló 2022. évi XIX. törvény hatálybalépésekor az üzemszerű kitermelés megkezdésére vonatkozó, a 26/A. § (4) vagy (6b) bekezdésében megállapított határidőidőből kevesebb, mint egy év van hátra, ezt az időtartamot kell alkalmazni a 26/A. § (5) bekezdése szerinti jogkövetkezmény alkalmazása tekintetében.
+
+(2) Az egyes gazdaságszabályozási tárgyú törvények módosításáról szóló 2022. évi XIX. törvény által megállapított 30. §-t az egyes gazdaságszabályozási tárgyú törvények módosításáról szóló 2022. évi XIX. törvény hatálybalépésekor fennálló tényekre, jogviszonyokra és a folyamatban lévő ügyekben is alkalmazni kell.
 
 51. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 

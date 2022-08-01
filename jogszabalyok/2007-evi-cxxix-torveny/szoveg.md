@@ -64,7 +64,9 @@ a termőföld védelméről
 - 26. talajjavító mederanyag: elsősorban termőföld bemosódásból keletkező, a talaj kedvezőtlen tulajdonságainak megváltoztatására, illetve a kedvező tulajdonságok fenntartására szolgáló, kezelés nélkül termőföldre kihelyezhető mederiszap;
 - 27. kezelt mederiszap: olyan mederiszap, amely szennyezőanyag tartalma miatt biológiai, fizikai, kémiai, vagy más megfelelő eljárást követően, a jogszabályi előírásoknak megfelelően helyezhető ki termőföldre.
 
-### II. Fejezet — A FÖLDHASZNOSÍTÁS, A FÖLDVÉDELEMÉS A FÖLDMINŐSÍTÉS
+### II. Fejezet — A FÖLDHASZNOSÍTÁS, A FÖLDVÉDELEM
+
+ÉS A FÖLDMINŐSÍTÉS
 
 ### A TERMŐFÖLD HASZNOSÍTÁSA
 
@@ -72,7 +74,7 @@ a termőföld védelméről
 
 3. § A termőföld művelési ágának megváltoztatását – az erre vonatkozó jogszabály rendelkezéseinek megfelelően – be kell jelenteni az ingatlanügyi hatóságnak, amely a bejelentés elmulasztása esetén földvédelmi bírságot szab ki.
 
-4. §
+#### 4. §
 
 ### Hasznosítási kötelezettség, ideiglenes hasznosítás, mellékhasznosítás
 
@@ -189,7 +191,7 @@ a termőföld védelméről
 
 (2) A szakhatósági állásfoglalás kialakítása során figyelemmel kell lenni továbbá arra, hogy a szakhatósági eljárás tárgyát képező földrészletekkel szomszédos termőföldek megfelelő mezőgazdasági hasznosítását a tervezett tevékenység, létesítmény ne akadályozza.
 
-(3) A szakhatósági hozzájárulást meg kell tagadni, ha az engedélyezés iránti kérelem átlagosnál jobb minőségű termőföldet érint, azonban a tervezett tevékenység végzésére, létesítmény elhelyezésére, jogosultság gyakorlására hasonló körülmények és feltételek esetén átlagos minőségű vagy átlagosnál gyengébb minőségű termőföldeken is sor kerülhet. A külfejtéses bányászati tevékenységgel összefüggő hatósági eljárásban való szakhatósági közreműködés esetén akkor is meg kell tagadni a szakhatósági hozzájárulást, ha a homok, kavics vagy agyag ásványi nyersanyag kutatására vonatkozó műszaki üzemi terv jóváhagyása iránti kérelmet vagy a bányatelek megállapítása iránti kérelmet olyan településen fekvő termőföldre nyújtották be, amelynek külterületén lévő földrészletek összterületének több mint 25%-ára a bányatelek jogi jelleg be van jegyezve az ingatlan-nyilvántartásban.
+(3) A szakhatósági hozzájárulást meg kell tagadni, ha az engedélyezés iránti kérelem átlagosnál jobb minőségű termőföldet érint, azonban a tervezett tevékenység végzésére, létesítmény elhelyezésére, jogosultság gyakorlására hasonló körülmények és feltételek esetén átlagos minőségű vagy átlagosnál gyengébb minőségű termőföldeken is sor kerülhet. A külfejtéses bányászati tevékenységgel összefüggő hatósági eljárásban való szakhatósági közreműködés esetén akkor is meg kell tagadni a szakhatósági hozzájárulást, ha a bányatelek megállapítása iránti kérelemmel érintett település külterületén lévő földrészletek összterületének 25%-át meghaladja az ilyen célból már igénybevett és az ilyen célra felhasználni engedélyezett, de még igénybe nem vett termőföldek együttes területe.
 
 (3a) Nem kell megtagadni a szakhatósági hozzájárulás megadását a (3) bekezdés szerinti esetben akkor, ha a kutatásra vonatkozó műszaki üzemi terv vagy előkutatási kérelem meglévő bányatelek vertikális bővítésére vagy a bányatelek megállapítása iránti kérelem már megállapított bányatelek kizárólag vertikális bővítésére, illetve olyan megosztására, egyesítésére irányul, amely összességében nem eredményezi a bányatelkek területének növekedését.
 
@@ -316,7 +318,7 @@ szerinti építményeket kell érteni.
 
 (4) Az ingatlanügyi hatóság a végleges más célú hasznosítás engedélyezéséről szóló véglegessé vált határozatát tájékoztatás céljából közli az illetékes települési – a fővárosban a kerületi – önkormányzattal (a továbbiakban: önkormányzat).
 
-13/A. §
+#### 13/A. §
 
 ### Az időleges más célú hasznosítás
 
@@ -524,7 +526,7 @@ esetében.
 
 (5) Ha az ingatlanügyi hatóság a kisajátítási célú kérelmet végleges döntéssel elutasítja, az erről szóló véglegessé vált döntés meghozatalát követően az engedély nélküli más célú hasznosítás miatt az eljárást megindítja, illetve továbbfolytatja.
 
-16/B. §
+#### 16/B. §
 
 17. § (1) Az eredeti állapot helyreállítását – határidő vagy határnap megjelölésével – az ingatlanügyi hatóság határozattal rendeli el, és a határozatban foglaltak végrehajtását helyszíni szemle keretében ellenőrzi.
 
@@ -586,7 +588,9 @@ esetében.
 
 (2) Az újrahasznosítási eljárás mentes az igazgatási szolgáltatási díjfizetési kötelezettség alól.
 
-19–20. §
+#### 19. §
+
+#### 20. §
 
 ### A FÖLDVÉDELMI JÁRULÉK ÉS BÍRSÁG
 
@@ -1063,7 +1067,7 @@ hozzájáruló nyilatkozata is szükséges a tevékenység engedélyezéséhez v
 - f) mezőgazdasági területek vízrendezéséhez,
 - g) erózió elleni műszaki talajvédelem megvalósításához.
 
-50/A. §
+#### 50/A. §
 
 50/B. § Öntözési tevékenység esetén az ellenőrző vizsgálatokat tartalmazó talajvédelmi terv alapján a talajvédelmi hatóság dönt arról, hogy továbbra is fennállnak-e az öntözés folytatásának talajvédelmi feltételei.
 
@@ -1098,7 +1102,7 @@ végzi.
 
 ### A talajvédelmi hatóság
 
-52. §
+#### 52. §
 
 53. § (1) A talajvédelmi hatóság a talajvédelmi felügyelő útján ellenőrzi:
 
@@ -1283,7 +1287,7 @@ szükséges.
 
 (5) Amennyiben a gyümölcsültetvény használója, illetve tulajdonosa kivágási kötelezettségének nem tesz eleget, a telepítési hatóság a gyümölcsültetvény használójának a költségére intézkedik a gyümölcsültetvény kivágásáról.
 
-64/B. §
+#### 64/B. §
 
 ### V. Fejezet — HATÁLYBALÉPÉS, ÁTMENETI ÉS FELHATALMAZÓ RENDELKEZÉSEK
 
@@ -1332,13 +1336,13 @@ részletes szabályait.
 
 kiadott rendeletben határozza meg.
 
-67. §
+#### 67. §
 
 67. § E törvénynek a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvénnyel megállapított 21. § (3) bekezdés i) pontját a Magyarország 2012. évi költségvetését megalapozó egyes törvények módosításáról szóló 2011. évi CLXVI. törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
 68. § E törvénynek a kisajátításról szóló 2007. évi CXXIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2012. évi CLXXXIV. törvénnyel megállapított rendelkezéseit az e rendelkezések hatálybalépését megelőzően véglegessé vált termőföld eredeti állapotba való helyreállítására kötelező határozatok esetében is alkalmazni kell azzal, hogy a 17/A. § (1) bekezdés b) pontjában foglalt határidőt e rendelkezés hatálybalépésétől kell számítani.
 
-69. §
+#### 69. §
 
 70. § A Nemzeti Agrárkutatási és Innovációs Központ az Állami Gyümölcs- és Dísznövénytermesztési Kutató-Fejlesztő Közhasznú Nonprofit Kft. által 2013. december 31-ig vezetett Országos Gyümölcs Termőhely Kataszter adatait, így a termőhely azonosító adatait (település, helyrajzi szám, területnagyság), a gyümölcs termőhely ökológiai minősítését és a gyümölcsfajokat, amelyekre a minősítés vonatkozik, 2014. június 30-ig átadja a gyümölcs termőhelyi katasztert vezető szervnek. Az átadott adatok a gyümölcs termőhelyi kataszter részét képezik.
 
@@ -1359,7 +1363,7 @@ kiadott rendeletben határozza meg.
 
 a Módtv2. hatálybalépésekor folyamatban lévő ügyekben, valamint a Módtv2. hatálybalépését megelőzően véglegessé vált, a termőföld eredeti állapotának helyreállítását elrendelő határozatok esetében, továbbá a megismételt eljárásokban is alkalmazni kell.
 
-73. §
+#### 73. §
 
 74. § (1) Az egyes agrárszabályozási tárgyú törvényeknek az általános közigazgatási rendtartásról szóló törvénnyel összefüggő és más célú módosításáról szóló 2017. évi CCV. törvény (a továbbiakban: Módtv4.) hatálybalépését megelőzően termőföldön vagy termőföldnek nem minősülő ingatlanon telepített, 3000 m2-nél kisebb és 2500 m2-nél nagyobb gyümölcsültetvényt – a kísérleti gyümölcsültetvény kivételével – a telepítési hatósághoz a Módtv4. hatálybalépésétől számított 12 hónapon belül be kell jelenteni a 61. § (1) és (2) bekezdése szerinti adatokat.
 

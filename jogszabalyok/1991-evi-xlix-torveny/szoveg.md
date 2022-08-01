@@ -1000,12 +1000,14 @@ folytatható le.
 
 (4a) A felszámolói névjegyzék adatai, valamint a felszámoló szervezetekről a 27/A. § (6a) bekezdése és a 66. § (6) bekezdése alapján vezetett hatósági nyilvántartások adatai – a (4) bekezdés b) pontjában megjelölt lakóhely és a (4) bekezdés f) pontjában megjelölt adatok kivételével – közérdekből nyilvános adatok.
 
+(4b) Ha a Hatóság a felszámolót a felszámolói névjegyzékbe felveszi, a Hatóság névjegyzék-vezetést támogató informatikai rendszere – a felszámoló által lefolytatott csődeljáráshoz, felszámolási eljáráshoz kapcsolódó bírósági vagy más hatósági eljárásban a bíróság vagy a hatóság számára történő adatszolgáltatás céljából – a felszámoló névjegyzékből való törlését követő 5 évig tárolja a felszámoló által szolgáltatott, a közérdekből nyilvános adatok körét meghaladó (4) bekezdés szerinti adatokat.
+
 (5) A Hatóság a felszámoló szervezet vezetőjére 30 000 forinttól 400 000 forintig terjedő bírságot szab ki, ha
 
 - a) hamis vagy valótlan adatot, dokumentumot szolgáltat, hamis vagy valótlan tartalmú nyilatkozatot tesz,
 - b) megszegi a (3) bekezdés szerinti tilalmat,
 - c) nem teljesíti vagy késedelmesen teljesíti a (2) bekezdés f) pontja szerinti kötelezettségét,
-- d) figyelmeztetés ellenére nem teljesíti a felszámolók névjegyzékébe történő felvételével összefüggésben benyújtott pályázatában vállalt többletfeltételeket, vagy
+- d) figyelmeztetés ellenére nem teljesíti a felszámolók névjegyzékébe történő felvételével összefüggésben benyújtott pályázatában vállalt feltételeket, vagy
 - e) megszegi a jogszabályban előírt
   - ea) adatszolgáltatási, szakmai beszámoló készítési,
   - eb) vagyoni biztosítéknyújtási, illetve
@@ -1035,7 +1037,7 @@ kötelezettségeit.
 
 jogerősen elrendelte a felszámoló szervezet felmentését,
 
-- j) ha a felszámoló szervezet bírság kiszabását követően sem teljesíti a névjegyzékbe történő felvételével összefüggésben benyújtott pályázatában vállalt többletfeltételeket,
+- j) ha a felszámoló szervezet bírság kiszabását követően sem teljesíti a névjegyzékbe történő felvételével összefüggésben benyújtott pályázatában vállalt feltételeket,
 - k) ha csődeljárásban, felszámolási eljárásban vagy helyi önkormányzatok adósságrendezési eljárásában eljáró bíróság a felszámoló szervezetet két éven belül legalább háromszor jogszabálysértés vagy mulasztás miatt jogerősen pénzbírsággal sújtotta,
 - l) ha a felszámoló szervezet a felszámolási eljárásban az adós vagyontárgyainak elektronikus értékesítéséről szóló kormányrendelet alapján az értékesítők által havonta fizetendő rendszerhasználati díjakat felhívás ellenére sem fizeti meg,
 - m) ha a felszámoló szervezet bírság kiszabását követően ismételten és súlyosan megsérti az elektronikus értékesítési rendszer használatával összefüggő kötelezettségeit.
@@ -1657,7 +1659,7 @@ vonhatja le, az a)–f) pont szerinti levonásokat követően fennmaradó össze
 - a) az adóst terhelő munkabér és egyéb bérjellegű juttatások, ideértve
   - aa) a munkaviszony megszűnésekor járó végkielégítést, a kollektív szerződésben, illetve a munkaszerződésben meghatározott juttatásokat, valamint a munkáltatót a munkaviszony jogellenes megszüntetésével összefüggésben terhelő fizetési kötelezettségeket is,
   - ab) az adós által a kölcsönbeadóval kötött munkaerő-kölcsönzési szerződésben foglalt, az adóst, mint kölcsönvevőt terhelő díjból az adóshoz kölcsönzött munkavállalók részére járó, a kölcsönbeadó által fizetendő munkabért és egyéb bérjellegű juttatásokat, és
-  - ac) az adós által az iskolaszövetkezettel megkötött szerződésben foglalt, az adóst, mint az iskolaszövetkezet szolgáltatásának igénybevevőjét terhelő díj 85%-át – amely az iskolaszövetkezetnek járó díjból a feladatteljesítés során személyesen közreműködő iskolaszövetkezeti tagok részére járó díj és a díjhoz kapcsolódó egyéb juttatások összegét foglalja magában –, továbbá
+  - ac) az adós által az iskolaszövetkezettel, a közérdekű nyugdíjas szövetkezettel és a kisgyermekkel otthon lévők szövetkezetével megkötött szerződésben foglalt, az adóst mint az iskolaszövetkezet, a közérdekű nyugdíjas szövetkezet és a kisgyermekkel otthon lévők szövetkezete szolgáltatásának igénybevevőjét terhelő díj 85%-át – amely az iskolaszövetkezetnek, a közérdekű nyugdíjas szövetkezetnek és a kisgyermekkel otthon lévők szövetkezetének járó díjból a feladatteljesítés során személyesen közreműködő iskolaszövetkezeti tagok, közérdekű nyugdíjas szövetkezeti tagok, valamint a kisgyermekkel otthon lévők szövetkezete tagjai részére járó díj és a díjhoz kapcsolódó egyéb juttatások összegét foglalja magában –, továbbá
   - ad) ha a felszámolás kezdő időpontját megelőzően esedékessé vált munkabért és egyéb bérjellegű juttatásokat a felszámoló a felszámolás kezdő időpontja után fizette ki, az ezeket terhelő adó- és járulékfizetési kötelezettséget is;
 - b) a felszámolás kezdő időpontja után az adós gazdasági tevékenységének ésszerű befejezésével, továbbá vagyonának megőrzésével kapcsolatos költségek, ideértve a környezeti károsodások és terhek rendezésének, az engedély nélkül más célra hasznosított termőföld eredeti állapotba történő helyreállításának, valamint a termőföldvédelmi követelmények betartásának a költségeit is, továbbá a 27/A. § (13) bekezdése szerint létesített polgári jogi jogviszonnyal összefüggésben felmerült kiadásokat, a hulladékkezeléssel összefüggő, jogszabályban vagy hatósági határozatban megállapított tevékenységek költségeit, valamint az adósnak azokat a tartozásait, adó-, járulék- és egyéb közteherfizetési, kártérítési, kártalanítási kötelezettségeit, amelyek a felszámolási eljárás kezdő időpontja utáni gazdasági tevékenységből keletkeztek, kivéve a nyereségből fizetendő adókat;
 - c) a vagyon értékesítésével és a követelések érvényesítésével kapcsolatos igazolt költségek;
@@ -2235,6 +2237,8 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 - b) a 6/A. § vagy a 38/A. § alapján felfüggesztett felszámolási eljárást hivatalból folytatni kell, és
 - c) a felszámoló köteles beszerezni a bűnügyi hitelezői igénybejelentés alapjául szolgáló határozatot, valamint értesíteni az állami adó- és vámhatóságot, hogy a bűnügyi hitelezői igénybejelentés végrehajtására a felszámolási eljárásban kerül sor.
 
+(6) A közérdekű nyugdíjas szövetkezet és a kisgyermekkel otthon lévők szövetkezete tagjai védelméről szóló 2022. évi XXVI. törvénnyel (a továbbiakban: 2022. évi XXVI. törvény) megállapított 57. § (2) bekezdés a) pont ac) alpontját a folyamatban lévő felszámolási eljárásokban a 2022. évi XXVI. törvény hatálybalépése után esedékessé vált kifizetésekre kell alkalmazni, kivéve, ha a felszámoló a 2022. évi XXVI. törvény hatálybalépése napjáig a zárómérleget már benyújtotta.
+
 83/Z. § E törvénynek a kényszertörlési eljárásra és a felszámolási eljárásra vonatkozó és kapcsolódó egyes törvények módosításáról szóló 2021. évi LXX. törvénnyel (a továbbiakban: 2021. évi LXX. tv.) megállapított rendelkezéseit a 2021. évi LXX. tv. hatálybalépése napját követően jogerősen elrendelt felszámolási eljárásokban kell alkalmazni.
 
 84. § (1) Ha a felszámoló vagy annak tagja nem felel meg a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény és egyéb törvények módosításáról szóló 2012. évi CIV. törvénnyel módosított 27/A. § (2) bekezdés szerinti átlátható és megismerhető tulajdonosi szerkezeti feltételeknek, a felszámolónak 2012. szeptember 1-jéig kell igazolnia a feltételek teljesítését a felszámolók névjegyzékét vezető szervnek.
@@ -2250,7 +2254,7 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 - a) a felszámolási eljárás számviteli feladatait,
 - b) a felszámolási eljárásban az adós vagyontárgyainak nyilvános értékesítésére vonatkozó részletes szabályokat,
 - c)
-- d) a felszámolók, vagyonfelügyelők, ideiglenes vagyonfelügyelők eljárására és tevékenységére vonatkozó részletes szabályokat,
+- d)
 - e)
 
 (1a)
