@@ -206,162 +206,40 @@ a szülői felelősséget érintő nemzetközi igazságügyi együttműködésr�
 
 #### 16. Módosító rendelkezések
 
-38. § (1) A bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) 16. § c) pontja helyébe a következő rendelkezés lép:
+38. §
 
-(Végrehajtási lapot állít ki)
+39. §
 
-„c) külföldi bírósági határozat alapján az adós lakóhelye, székhelye, – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye –, a szülői felügyelet tárgyában hozott külföldi határozat alapján a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,”
+40. §
 
-(2) A Vht. 16. §-a a következő p) ponttal egészül ki:
+41. §
 
-(Végrehajtási lapot állít ki)
+42. §
 
-„p) a kapcsolattartás tárgyában hozott határozat kivételével a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló (EU) 2019/1111 2019. június 25-i tanácsi rendelet [a továbbiakban: (EU) 2019/1111 tanácsi rendelet] 36. vagy 47. cikke alapján kiállított tanúsítvánnyal ellátott külföldi határozat alapján a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság.”
+43. §
 
-39. § A Vht. 23/B. § (1) bekezdése a következő f) és g) ponttal egészül ki:
+44. §
 
-(Az okiratot végrehajtási záradékkal látja el a következő bíróság:)
+45. §
 
-„f) a kapcsolattartás tárgyában kiállított közokirat vagy létrejött megállapodás kivételével az (EU) 2019/1111 tanácsi rendelet 66. cikke alapján kiállított tanúsítvánnyal ellátott közokirat vagy megállapodás alapján a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
+46. §
 
-g) a szülői felügyelet tárgyában külföldön létrejött egyezség alapján a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság.”
+47. §
 
-40. § (1) A Vht. 31/C. § (1) bekezdése a következő j) ponttal egészül ki:
+48. §
 
-(Az elsőfokon eljárt bíróság kérelemre kiállítja)
+49. §
 
-„j) az (EU) 2019/1111 tanácsi rendelet 36. cikke (1) bekezdésének a) pontja szerinti tanúsítványt az (EU) 2019/1111 tanácsi rendelet II. mellékletében, az (EU) 2019/1111 tanácsi rendelet 36. cikke (1) bekezdésének b) pontja szerinti tanúsítványt az (EU) 2019/1111 tanácsi rendelet III. mellékletében, az (EU) 2019/1111 tanácsi rendelet 47. cikke (1) bekezdésének a) pontja szerinti tanúsítványt az (EU) 2019/1111 tanácsi rendelet V. mellékletében, az (EU) 2019/1111 tanácsi rendelet 47. cikke (1) bekezdésének b) pontja szerinti tanúsítványt az (EU) 2019/1111 tanácsi rendelet VI. mellékletében, és az (EU) 2019/1111 tanácsi rendelet 49. cikkének (1) bekezdése szerinti tanúsítványt az (EU) 2019/1111 tanácsi rendelet VII. mellékletében közzétett formanyomtatvány felhasználásával.”
+50. §
 
-(2) A Vht. 31/C. §-a a következő (6a) és (6b) bekezdéssel egészül ki:
+51. §
 
-„(6a) A bíróság az (1) bekezdés j) pontja szerinti, az (EU) 2019/1111 tanácsi rendelet II., III., V. és VI. mellékletében közzétett formanyomtatvány felhasználásával kiállított tanúsítványt kérelemre kijavítja; a kijavításról szóló végzést kézbesíti a feleknek. A végzés ellen fellebbezésnek nincs helye.
+52. §
 
-(6b) A bíróság az (1) bekezdés j) pontja szerinti, az (EU) 2019/1111 tanácsi rendelet V. és VI. mellékletében közzétett formanyomtatvány felhasználásával kiállított tanúsítványt kérelemre vagy hivatalból visszavonja. A visszavonásról szóló végzést kézbesíti a feleknek, akik a végzés ellen fellebbezhetnek.”
+53. §
 
-41. § A Vht. 48. §-a a következő (9) és (10) bekezdéssel egészül ki:
+54. §
 
-„(9) A végrehajtást foganatosító bíróság dönt a szülői felügyelet tárgyában hozott határozat, kiállított közokirat vagy létrejött megállapodás végrehajtásának az (EU) 2019/1111 tanácsi rendelet 56. cikk (1)–(2) és (4) bekezdése szerinti felfüggesztéséről. A végrehajtást foganatosító bíróság a kötelezett kérelmére kivételesen felfüggesztheti a szülői felügyelet tárgyában hozott, az (EU) 2019/1111 tanácsi rendelet hatálya alá nem tartozó külföldi határozat, illetve külföldön létrejött egyezség végrehajtását, ha a végrehajtás a gyermek számára testi vagy lelki károsodás súlyos kockázatával járna a határozat meghozatala után felmerült ideiglenes akadályokból kifolyólag vagy a körülmények jelentős megváltozása folytán. A bíróság a felfüggesztés indokoltságával kapcsolatban kikéri a gyámhatóság véleményét. A bíróság a végrehajtás felfüggesztését elrendelő határozatban határidőt szab annak igazolására, hogy a felfüggesztés oka továbbra is fennáll. A határidő elmulasztása esetén, továbbá, ha a felfüggesztés oka megszűnt, a végrehajtást soron kívül folytatni kell.
+55. §
 
-(10) A kapcsolattartás tárgyában hozott külföldi határozat, külföldön kiállított közokirat, létrejött egyezség vagy megállapodás végrehajtásának felfüggesztésére a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló 2017. évi CXVIII. törvény (a továbbiakban: Bpnt.) 22/L. §-át kell alkalmazni.”
-
-42. § A Vht. 208. §-a helyébe a következő rendelkezés lép:
-
-„208. § Ha a külföldi határozat a 205. § szerint végrehajtható, a 16. § c), illetve d) pontjában említett bíróság, valamint kapcsolattartás tárgyában hozott külföldi határozat tekintetében a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság a végzésével a külföldi határozatra végrehajtási tanúsítványt vezet, amelyben azt tanúsítja, hogy a határozat a magyar jog szerint a belföldi bíróság (választottbíróság) határozatával azonos módon végrehajtható.”
-
-43. § (1) A Vht. 211. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A bíróság akkor is visszavonja a végrehajtási lapot vagy törli a végrehajtási záradékot, ha az adós vagy a kötelezett kérelmére megállapítja, hogy
-
-a) a 805/2004/EK rendelet 21. cikke alapján a végrehajtás visszautasításának,
-
-b) az 1896/2006/EK rendelet 22. cikkének (1) bekezdése vagy a 861/2007/EK rendelet 22. cikkének (1) bekezdése alapján a végrehajtás elutasításának vagy
-
-c) a 4/2009/EK tanácsi rendelet 21. cikk (2) bekezdésének második albekezdése, az 1215/2012/EU rendelet 46. cikke vagy az (EU) 2019/1111 tanácsi rendelet 41. cikke alapján a végrehajtás megtagadásának
-
-feltételei fennállnak.”
-
-(2) A Vht. 211. §-a a következő (4)–(6) bekezdéssel egészül ki:
-
-„(4) A bíróság – az (1) és (3) bekezdésben foglalt eseteken túl – akkor is visszavonja a szülői felügyelet tárgyában hozott külföldi határozat, külföldön kiállított közokirat, külföldön létrejött egyezség vagy megállapodás (a továbbiakban e bekezdésben együtt: határozat) alapján kiállított végrehajtási lapot, ha
-
-a) a kötelezett kérelmére megállapítja, hogy az (EU) 2019/1111 tanácsi rendelet 56. cikk (6) bekezdése alapján a végrehajtás megtagadásának feltételei fennállnak vagy
-
-b) a kötelezett kérelmére megállapítja, hogy az (EU) 2019/1111 tanácsi rendelet hatálya alá nem tartozó határozat végrehajtása a gyermek számára tartósan a testi vagy lelki károsodás súlyos kockázatával járna a határozat meghozatala után felmerült akadályokból kifolyólag vagy a körülmények jelentős megváltozása folytán.
-
-(5) A (4) bekezdésben meghatározott jogorvoslatok tekintetében bírósági titkár nem járhat el. A bíróság a végrehajtási lap visszavonásának indokoltságával kapcsolatban kikéri a gyámhatóság véleményét.
-
-(6) A kapcsolattartás tárgyában hozott külföldi határozat, külföldön kiállított közokirat, külföldön létrejött egyezség vagy megállapodás végrehajtása iránti eljárás megszüntetésére a Bpnt. 22/L. §-át kell alkalmazni.”
-
-44. § A Vht. 317. § (2) bekezdése a következő k) ponttal egészül ki:
-
-(E törvény)
-
-„k) 16. § p) pontja, 23/B. § (1) bekezdés f) pontja, 31/C. § (1) bekezdés j) pontja, 31/C. § (6a)–(6b) bekezdése, 48. § (9) bekezdése, 211. § (3) bekezdés c) pontja, 211. § (4) bekezdés a) pontja és 211. § (5) bekezdése a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló, 2019. június 25-i (EU) 2019/1111 tanácsi rendelet”
-
-(végrehajtásához szükséges rendelkezéseket állapít meg.)
-
-45. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvtv.) 128. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A gyámügyi eljárásban meg kell hallgatni a szülőt és más törvényes képviselőt, a gondozót, a korlátozottan cselekvőképes gyermeket, a cselekvőképességében a gyámügyi eljárásban felmerülő jognyilatkozat tekintetében részlegesen korlátozott személyt és az ítélőképessége birtokában levő cselekvőképtelen gyermeket, továbbá minden esetben azt, akivel szemben kötelezettséget kívánnak megállapítani, valamint – szükség szerint – a gyermek más közeli hozzátartozóit. A gyámügyi eljárásban a nyilatkozattétel lehetőségéről az ítélőképessége birtokában lévő gyermeket – a törvényes képviselő egyidejű tájékoztatása mellett – értesíteni kell. A meghallgatást mellőzni lehet, ha a meghallgatás miatti késedelem elháríthatatlan kárral vagy veszéllyel járna.”
-
-46. § A Gyvtv. 189. §-a helyébe a következő rendelkezés lép:
-
-„189. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
-
-a) a Tanács 94/33/EK irányelve (1994. június 22.) a fiatalok munkahelyi védelméről, az Mt. irányadó rendelkezéseivel együtt;
-
-b) a Tanács 2003/109/EK tanácsi irányelve (2003. november 25.) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról, 11. cikk (1) bekezdés d) pont és 21. cikk;
-
-c) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk.
-
-d) a bűncselekmények áldozatainak jogaira, támogatására és védelmére vonatkozó minimumszabályok megállapításáról és a 2001/220/IB tanácsi kerethatározat felváltásáról szóló, 2012. október 25-i 2012/29/EU európai parlamenti és tanácsi irányelv 6. cikk (5) és (6) bekezdése.
-
-(2) E törvény a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló, 2019. június 25-i (EU) 2019/1111 tanácsi rendelet 21. cikkének végrehajtását szolgálja.”
-
-47. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 4:171. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A bíróságnak az eljárása során – elháríthatatlan akadály esetét kivéve – mindkét szülőt meg kell hallgatnia és értesítenie kell az ítélőképessége birtokában lévő gyermeket a nyilatkozattétel lehetőségéről. Ha a gyermek a meghallgatását maga kéri, vagy ha azt a bíróság kérelem hiányában is indokoltnak tartja, a bíróság a gyermeket közvetlenül vagy szakértő útján meghallgatja. Ha a gyermek a tizennegyedik életévét betöltötte, szülői felügyeletére és elhelyezésére vonatkozó döntés egyetértésével hozható, kivéve, ha a gyermek választása a fejlődését veszélyezteti.”
-
-48. § A Ptk. 8:6. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) E törvény
-
-a) a központi szerződő felek helyreállítására és szanálására irányuló keretrendszerről, továbbá az 1095/2010/EU, a 648/2012/EU, a 600/2014/EU, a 806/2014/EU és az (EU) 2015/2365 rendelet, valamint a 2002/47/EK, a 2004/25/EK, a 2007/36/EK, a 2014/59/EU és az (EU) 2017/1132 irányelv módosításáról szóló, 2020. december 16-i (EU) 2021/23 európai parlamenti és a tanácsi rendelet;
-
-b) a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló, 2019. június 25-i (EU) 2019/1111 tanácsi rendelet
-
-végrehajtásához szükséges rendelkezéseket állapít meg.”
-
-49. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 528. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A kötelezett keresettel kérheti a szülői felelősséget érintő nemzetközi igazságügyi együttműködésről szóló törvény alapján a jogellenesen Magyarországra hozott gyermek visszavitelét elrendelő határozat végrehajtásának megszüntetését, ha a végrehajtás a gyermek számára tartósan a testi vagy lelki károsodás súlyos kockázatával járna a határozat meghozatala után felmerült akadályokból kifolyólag vagy a körülmények jelentős megváltozása folytán. A bíróság a végrehajtás megszüntetésének indokoltságával kapcsolatban kikéri a gyámhatóság véleményét.”
-
-50. § A nemzetközi magánjogról szóló 2017. évi XXVIII. törvény (a továbbiakban: Nmjtv.) 101. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az (EU) 2019/1111 tanácsi rendelet 6. cikkében meghatározott esetben magyar bíróság akkor rendelkezik joghatósággal házassági ügyekben, ha a házastársak egyike magyar állampolgár.”
-
-51. § Az Nmjtv. 106. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az (EU) 2019/1111 tanácsi rendelet 14. cikkében meghatározott esetben magyar bíróság akkor rendelkezik joghatósággal a szülői felügyeletet, a kapcsolattartást és a gyámságot érintő eljárásra, ha a gyermek magyar állampolgár.”
-
-52. § Az Nmjtv. 127. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(E törvény)
-
-„b) 101. § (1) bekezdése és 106. §-a a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló 2019. június 25-i (EU) 2019/1111 tanácsi rendeletnek,”
-
-(a végrehajtásához szükséges rendelkezéseket állapít meg.)
-
-53. § A bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló 2017. évi CXVIII. törvény (a továbbiakban: Bpnt.) a következő 7/C. alcímmel egészül ki:
-
-„7/C. A kapcsolattartásra vonatkozó külföldi határozat végrehajtása
-
-22/L. § (1) § A 7/A. alcím rendelkezéseit kell alkalmazni a kapcsolattartás tárgyában hozott külföldi határozat, külföldön kiállított közokirat, létrejött egyezség vagy megállapodás (a továbbiakban e §-ban együtt: külföldi határozat) végrehajtására is, a (2)–(5) bekezdésben megállapított eltérésekkel.
-
-(2) Ha a bíróság a kötelezett kérelmére megállapítja, hogy a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló, 2019. június 25-i (EU) 2019/1111 tanácsi rendelet [a továbbiakban: (EU) 2019/1111 tanácsi rendelet] hatálya alá nem tartozó külföldi határozat végrehajtása a határozat meghozatala után felmerült ideiglenes akadály miatt vagy a körülmények ideiglenes megváltozása folytán a gyermek számára testi vagy lelki károsodás súlyos kockázatával járna, a kapcsolattartásra vonatkozó határozat végrehajtása iránti eljárást kivételesen felfüggesztheti.
-
-(3) Ha a bíróság a kötelezett kérelmére megállapítja, hogy az (EU) 2019/1111 tanácsi rendelet hatálya alá nem tartozó külföldi határozat végrehajtása a határozat meghozatala után felmerült akadály miatt vagy a körülmények jelentős megváltozása folytán a gyermek számára tartósan testi vagy lelki károsodás súlyos kockázatával járna, a kapcsolattartásra vonatkozó határozat végrehajtása iránti eljárást megszünteti.
-
-(4) Ha a bíróság megállapítja, hogy az (EU) 2019/1111 tanácsi rendelet 56. cikk (6) bekezdése szerint a végrehajtás megtagadásának feltételei fennállnak, a kapcsolattartásra vonatkozó határozat végrehajtása iránti eljárást kérelemre megszünteti.
-
-(5) Ha a bíróság megállapítja, hogy az (EU) 2019/1111 tanácsi rendelet 41. cikke szerint a végrehajtás megtagadásának feltételei fennállnak, a kapcsolattartásra vonatkozó határozat végrehajtása iránti eljárást kérelemre megszünteti.
-
-(6) A (2)–(4) bekezdés, valamint az (EU) 2019/1111 tanácsi rendelet 56. cikk (4) bekezdése szerinti esetben a bíróság a felfüggesztés, valamint a megszüntetés indokoltságával kapcsolatban kikéri a gyámhatóság véleményét.
-
-(7) A (3)–(4) bekezdésben meghatározott esetben bírósági titkár nem járhat el.
-
-(8) A bíróság a kapcsolattartásra vonatkozó határozat végrehajtása iránti eljárást felfüggesztő határozatában határidőt szab annak igazolására, hogy a felfüggesztés oka továbbra is fennáll. A határidő elmulasztása esetén, továbbá, ha a felfüggesztés oka megszűnt, a kapcsolattartásra vonatkozó határozat végrehajtása iránti eljárást soron kívül folytatni kell.
-
-(9) Ha a bíróság a 22/D. § (2) bekezdés c) pontjában foglaltak szerint határozott, és ezt követően a (2) bekezdés szerint a kapcsolattartásra vonatkozó határozat végrehajtása iránti eljárást felfüggeszti, a Vht.-nak a végrehajtás felfüggesztésére vonatkozó szabályai alkalmazandóak.
-
-(10) Ha a bíróság a 22/D. § (2) bekezdés c) pontjában foglaltak szerint határozott, és ezt követően a (3)–(5) bekezdés szerint a kapcsolattartásra vonatkozó határozat végrehajtása iránti eljárást megszünteti, a Vht.-nak a végrehajtás megszüntetésére vonatkozó szabályai alkalmazandóak.”
-
-54. § A Bpnt. 8. alcíme a következő 26. §-sal egészül ki:
-
-„26. § E törvény 22/L. §-a a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló, 2019. június 25-i (EU) 2019/1111 tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
-
-55. § A Gyermekek Jogellenes Külföldre Vitelének Polgári Jogi Vonatkozásairól szóló, Hágában, az 1980. évi október 25. napján kelt szerződés kihirdetéséről szóló 1986. évi 14. törvényerejű rendelet 3. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A törvényerejű rendelet végrehajtásáról az igazságügyért felelős miniszter gondoskodik.”
-
-56. § Hatályát veszti a Gyermekek Jogellenes Külföldre Vitelének Polgári Jogi Vonatkozásairól szóló, Hágában, az 1980. évi október 25. napján kelt, az 1986. évi 14. törvényerejű rendelettel kihirdetett szerződés végrehajtásáról szóló 7/1988. (VIII. 1.) IM rendelet.
+56. §

@@ -217,47 +217,21 @@ egyes eljárások korszerűsítését és a polgárok biztonságának további m
 
 #### 19. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
-65. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 45. §-a a következő (4) bekezdéssel egészül ki:
+65. §
 
-„(4) A hivatásos állomány tagját a szolgálatteljesítés alapvető feltételeiről és szempontjairól a személyügyi igazgatásra vonatkozó rendelkezések között a miniszter által meghatározott rendben és tartalommal tájékoztatni kell.”
-
-66. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 270. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Ha a hivatásos állomány tagja a bíróság előtt – indokolással alátámasztva – arra hivatkozik, hogy a szolgálati viszonyát ténylegesen a 45. § (4) bekezdésében foglalt tájékoztatási kötelezettséggel kapcsolatos igénye miatt szüntették meg, a rendvédelmi szerv köteles bizonyítani, hogy a szolgálati viszony megszüntetésére nem ezen okból került sor.”
+66. §
 
 67. §
 
-68. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 287/P. §-a a következő (4a) bekezdéssel egészül ki:
+68. §
 
-„(4a) A rendvédelmi alkalmazottat a munkavégzés alapvető feltételeiről és szempontjairól a miniszter által meghatározott rendben és tartalommal tájékoztatni kell.”
+69. §
 
-69. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 289/V. §-a a következő (1a) bekezdéssel egészül ki:
+70. §
 
-„(1a) Ha a rendvédelmi alkalmazott a bíróság előtt – indokolással alátámasztva – arra hivatkozik, hogy az igazgatási jogviszonyát ténylegesen a 287/P. § (4a) bekezdésében foglalt tájékoztatási kötelezettséggel kapcsolatos igénye miatt szüntették meg, a rendvédelmi szerv köteles bizonyítani, hogy a szolgálati viszony megszüntetésére nem ezen okból került sor.”
+71. §
 
-70. § (1) A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 342/A. § (1) bekezdése a következő n) ponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy a rendvédelmi igazgatási alkalmazottak tekintetében rendeletben határozza meg)
-
-„n) a munkavégzés alapvető feltételeiről és szempontjairól szóló tájékoztatás tartalmát és rendjét.”
-
-(2) A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 342/A. § (2) bekezdése a következő g) ponttal egészül ki:
-
-(A miniszter a polgári nemzetbiztonsági szolgálatok rendvédelmi igazgatási alkalmazottai tekintetében közjogi szervezetszabályozó eszközben határozza meg:)
-
-„g) a munkavégzés alapvető feltételeiről és szempontjairól szóló tájékoztatás tartalmát és rendjét.”
-
-71. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény a következő 361/A. §-sal egészül ki:
-
-„361/A. § A 45. § (4) bekezdése, valamint a 287/P. § (4a) bekezdése szerinti tájékoztatási kötelezettség a rendvédelmi szervet a 2022. július 31-én szolgálati viszonyban vagy rendvédelmi igazgatási szolgálati jogviszonyban állók vonatkozásában csak a hivatásos állomány tagja vagy a rendvédelmi igazgatási alkalmazott erre irányuló kérelme esetén terheli. A kérelem előterjesztése esetén a rendvédelmi szerv az írásbeli tájékoztatási kötelezettségét hatvan napon belül teljesíti.”
-
-72. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 364. § (1) bekezdés 1. pontja helyébe a következő rendelkezés lép:
-
-(Ez a törvény a felhatalmazása alapján kiadott rendeletekkel együtt)
-
-„1. az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló 2019. június 20-i (EU) 2019/1152 európai parlamenti és tanácsi irányelvnek,”
-
-(való megfelelést szolgálja.)
+72. §
 
 73. §
 

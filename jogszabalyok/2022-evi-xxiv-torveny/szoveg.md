@@ -219,51 +219,17 @@ lép.
 
 #### 27. A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosítása
 
-64. § A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 6–8. §-a helyébe a következő rendelkezések lépnek:
+64. §
 
-„6. § (1) A NAV-ot az elnök vezeti. A NAV elnökének feladat- és hatáskörét a kijelölt miniszter irányítása alá tartozó, a Kormány eredeti jogalkotói hatáskörben kiadott rendeletében kijelölt államtitkár gyakorolja. A NAV elnöke képviseli a NAV-ot, közvetlenül vezeti a Központi Irányítást, továbbá ellátja mindazokat a feladatokat, amelyeket jogszabály a NAV vezetőjének feladat- és hatáskörébe utal.
-
-(2) A NAV elnöke feladat- és hatáskörében minősítésre jogosult.
-
-(3) A NAV elnöke a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti felettese a NAV foglalkoztatottjainak.
-
-7. § (1) A NAV elnökének helyettesei az elnökhelyettesek. A NAV elnökhelyetteseit határozatlan időtartamra az elnök javaslatára a kijelölt miniszter nevezi ki és menti fel.
-
-(2) A NAV gazdasági vezetője a NAV egyik elnökhelyettese.
-
-8. § A Bűnügyi Főigazgatóságot főigazgató vezeti, akinek a munkáját főigazgató-helyettes segíti.”
-
-65. § A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 10. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) A NAV elnökhelyettesei felett a kinevezési és felmentési jogkör kivételével a munkáltatói jogkört a NAV elnöke gyakorolja.
-
-(2) A Bűnügyi Főigazgatóság főigazgatója, valamint főigazgató-helyettese felett a munkáltatói jogkört a NAV elnöke gyakorolja.”
+65. §
 
 66. §
 
-67. § A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény „Átmeneti rendelkezések” alcíme a következő 103/B. §-sal egészül ki:
+67. §
 
-„103/B. § (1) Az állami adó- és vámhatóság vezetőjének szakmai helyettesi tisztségét 2022. július 31-én betöltő helyettes államtitkár (e § alkalmazásában a továbbiakban: szakmai helyettes) helyettes államtitkári megbízatása 2022. augusztus 1-jén a törvény erejénél fogva megszűnik.
+68. §
 
-(2) A szakmai helyettes kormányzati szolgálati jogviszonya 2022. augusztus 1-jén adó- és vámhatósági szolgálati jogviszonnyá alakul át.
-
-(3) Az állami adó- és vámhatóság vezetője szakmai helyetteseinek helyettes államtitkári megbízatásának az (1) bekezdés alapján történő megszűnésének tényét a kijelölt miniszter előterjesztésére a miniszterelnök állapítja meg.
-
-(4) 2022. augusztus 1-jétől a szakmai helyettes a NAV elnökhelyettese. Az elnökhelyettes jogviszonyát folyamatosnak kell tekinteni.
-
-(5) A szakmai helyettes a jogviszonyának e törvény alapján történő megszűnésére tekintettel a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 239. §-a és 240. §-a szerinti juttatásra nem jogosult.”
-
-68. § A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény
-
-- 1. 9. § (1) bekezdésében az „az állami adó- és vámhatóság vezetője” szövegrészek helyébe az „a NAV elnöke” szöveg,
-- 2. 10. § (4) és (5) bekezdésében, 13. § (2) bekezdés i) pontjában, 75. § (6) bekezdésében és 78/A. §-ában az „az állami adó- és vámhatóság vezetője” szövegrész helyébe az „a NAV elnöke” szöveg,
-- 3. 12. § (6) bekezdésében az „az állami adó- és vámhatóság vezetőjének a NAV bűnügyi, vámszakmai és rendészeti feladatai ellátásáért felelős szakmai helyettese” szövegrész helyébe a „NAV elnöke” szöveg,
-- 4. 74. § (3) bekezdésében az „az állami adó- és vámhatóság vezetője, az állami adó- és vámhatóság vezetőjének a NAV bűnügyi, vámszakmai és rendészeti feladatai ellátásáért felelős szakmai helyettese” szövegrész helyébe az „a NAV elnöke, a NAV bűnügyi tevékenységét felügyelő elnökhelyettes” szöveg,
-- 5. 76. § (1) bekezdés a) és b) pontjában az „az állami adó- és vámhatóság vezetőjének a NAV bűnügyi, vámszakmai és rendészeti feladatai ellátásáért felelős szakmai helyettese” szövegrész helyébe az „a NAV elnöke vagy a NAV bűnügyi tevékenységét felügyelő elnökhelyettes” szöveg
-
-lép.
-
-69. § Hatályát veszti a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 10. § (3) bekezdése.
+69. §
 
 #### 28. A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény módosítása
 
@@ -503,17 +469,7 @@ lép.
 
 (3)
 
-(4) A jövedéki adóról szóló 2016. évi LXVIII. törvény 3. § (3) bekezdés 25. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában a sör, a csendes és habzóbor, az egyéb csendes és habzó erjesztett ital, a köztes alkoholtermék és az alkoholtermék adóztatására vonatkozóan)
-
-„25. termelői borkimérés: az egyszerűsített adóraktár engedélyes vagy a kisüzemi bortermelő
-
-a) saját előállítású csendes borának és
-
-b) saját előállítású csendes borból előállított palackos erjesztésű habzóborának
-
-az egyszerűsített adóraktárban, a kisüzemi bortermelő telephelyén vagy a kisüzemi bortermelő, egyszerűsített adóraktár engedélyese használatában lévő, kereskedelemről szóló törvény szerinti üzletben elvitelre vagy kóstolás céljából helyben fogyasztásra történő, a kereskedelemről szóló törvény szerinti vendéglátás tevékenységnek nem minősülő értékesítése;”
+(4)
 
 (5)
 
@@ -661,19 +617,7 @@ az egyszerűsített adóraktárban, a kisüzemi bortermelő telephelyén vagy a 
 
 #### 58. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
-210. § (1) A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 37. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A (3) bekezdés szerinti esetben az államtitkárt – a 24. § (2) bekezdésétől eltérően – a központi hivatalt létrehozó törvényben meghatározott vezető helyettesíti.”
-
-(2) A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 37. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A (3) bekezdés szerinti államtitkár
-
-a) a (3) bekezdés szerinti tevékenysége tekintetében a központi hivatalt irányító miniszter által – a központi hivatal irányításával összefüggő hatáskörök gyakorlásán túlmenően – nem utasítható,
-
-b) e tisztsége keretében kizárólag a központi hivatal vezetőjét megillető feladat- és hatáskört gyakorolhat,
-
-c) nem gyakorolhat a központi hivatalt irányító minisztert megillető hatáskört, nem helyettesítheti a központi hivatalt irányító minisztert, a központi hivatalt irányító miniszter által átruházott hatáskörben nem járhat el a miniszter nevében, a központi hivatalt irányító miniszter hatáskörébe tartozó ügyekben kiadmányozási joggal nem ruházható fel, és nem gyakorolhat irányítási hatáskört a központi hivatalt irányító miniszter által vezetett minisztérium szervezeti egysége, foglalkoztatottja tekintetében.”
+210. §
 
 211. §
 
@@ -681,22 +625,7 @@ c) nem gyakorolhat a központi hivatalt irányító minisztert megillető hatás
 
 213. §
 
-214. § (1) Hatályát veszti a kormányzati igazgatásról szóló 2018. évi CXXV. törvény
-
-- 1. 37. § (6) és (7) bekezdése,
-- 2. 37. § (8) bekezdés b) pontja,
-- 3.
-- 4.
-
-(2) Hatályát veszti a kormányzati igazgatásról szóló 2018. évi CXXV. törvény
-
-- 1. 37. § (8) bekezdés c) pontjában az „és helyettesének” szövegrész,
-- 2. 37. § (8) bekezdés d) pontjában az „és vezetőjének helyettese” szövegrész,
-- 3.
-- 4.
-- 5.
-- 6.
-- 7.
+214. §
 
 #### 59. Az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény módosítása
 
@@ -728,54 +657,13 @@ c) nem gyakorolhat a központi hivatalt irányító minisztert megillető hatás
 
 #### 64. A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény módosítása
 
-224. § A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 139. § (1) bekezdése helyébe a következő rendelkezés lép:
+224. §
 
-„(1) A NAV vezetői munkakörei:
+225. §
 
-a) elnök,
+226. §
 
-b) elnökhelyettes,
-
-c) főigazgató,
-
-d) főigazgató-helyettes,
-
-e) igazgató,
-
-f) igazgatóhelyettes,
-
-g) főosztályvezető,
-
-h) főosztályvezető-helyettes, és
-
-i) osztályvezető.”
-
-225. § A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény a következő 170/A. §-sal egészül ki:
-
-„170/A. § [Az elnökhelyettes juttatásai]
-
-Az elnökhelyettes az e törvény szerinti illetményén felül a helyettes államtitkári juttatásokkal azonos juttatásokra jogosult.”
-
-226. § A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény
-
-- 1. 4. melléklete helyébe a 10. melléklet, és
-- 2. 6. melléklete helyébe a 11. melléklet
-
-lép.
-
-227. § A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény
-
-- 1. 3. § (1) bekezdés 30. pontjában, 8. § (4) bekezdésében, 13. §-ában, 14. § (1) bekezdésében, 25. § (1) és (2) bekezdésében, 27. § (1) bekezdésében, 35. § (2) bekezdés b) pontjában és (6) bekezdésében, 45. § (1) bekezdésében, 55. § (8) bekezdésében, 56. § (1) bekezdésében, 60. § (1) bekezdés záró szövegrészében és (3) bekezdésében, 66. § (4) bekezdésében, 76. § (2) bekezdésében, 78. § (5) bekezdésében, 96. § (4) bekezdésében, 99. § (13) bekezdésében, 105. § (4) és (5) bekezdésében, 106. § (1) bekezdés záró szövegrészében, 107. § (3) bekezdésében, 127. § (4) bekezdésében, 128. § (4) bekezdésében, 129. § (4) bekezdésében, 137. § (2) bekezdésében, 148. § (1) bekezdésében, 149. § (1) bekezdésében, 151. § (2) bekezdésében, 165. § (1) bekezdésében, 168. § (5) bekezdésében, 170. § (2) bekezdésében, 173. § (1) bekezdésében, 179. § (1) bekezdésében és (2) bekezdés nyitó szövegrészében, 180. § (1) bekezdésében és (3) bekezdés nyitó szövegrészében, 181. § (1) bekezdésében, 183. § (2) bekezdésében, 202. § (1) bekezdésében, 218. § (3) bekezdésében, 222. § (3) bekezdésében, 228. § (1) és (2) bekezdésében, 242/A. § (1) bekezdés záró szövegrészében és (2) bekezdésében, 242/B. § (2) bekezdésében, 243. § (3) bekezdésében, 1. mellékletében foglalt táblázat E:2. és E:25. mezőjében a „NAV vezetője” szövegrész helyébe a „NAV elnöke” szöveg,
-- 2. 26. §-ában, 42. § (1) bekezdésében, 80. § (4) bekezdésében, 167. § (2) bekezdésében, 241. § (1) bekezdésében a „NAV vezetője” szövegrészek helyébe a „NAV elnöke” szöveg,
-- 3. 31. § (7) bekezdésében, 54. § (1) bekezdésében, 58. § (1) bekezdésében, 61. § (1) bekezdésében, 90. § (5) bekezdésében, 139. § (3) bekezdésében, 148. § (1) bekezdésében, 149. § (1) és (2) bekezdésében, 178. § (1) bekezdésében, 181. § (1) bekezdésében, 199. § (1) bekezdésében a „NAV vezetőjének” szövegrész helyébe a „NAV elnökének” szöveg,
-- 4. 63. § címében és (1) bekezdésében a „NAV vezetőjévé vagy szakmai helyettesévé” szövegrész helyébe a „NAV elnökévé” szöveg,
-- 5. 110. § (6) bekezdés d) pontjában az „a szakfőigazgató, a Központi Irányítás főigazgató-helyettese és a Bűnügyi Főigazgatóság főigazgatója” szövegrész helyébe az „a Bűnügyi Főigazgatóság főigazgatója” szöveg,
-- 6. 110. § (6) bekezdés e) pontjában az „a Központi Irányítás főigazgatója” szövegrész helyébe az „az elnökhelyettes” szöveg,
-- 7. 179. § (5) bekezdésében a „NAV vezetőjét” szövegrész helyébe a „NAV elnökét” szöveg,
-- 8. 184. § (6) bekezdésében a „NAV vezetőjét” szövegrészek helyébe a „NAV elnökét” szöveg, és
-- 9. 222. § (2) bekezdés b) pontjában a „NAV vezetőjénél” szövegrész helyébe a „NAV elnökénél” szöveg
-
-lép.
+227. §
 
 #### 65. A foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény módosítása
 
@@ -843,34 +731,9 @@ lép.
 
 #### 77. Egyes budapesti ingatlanokat érintő feladat- és hatáskör átruházásról
 
-248. § (1) Az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 14. § (1) bekezdése alapján úgy rendelkezik, hogy a Budapest Főváros Önkormányzata tulajdonában álló, az ingatlan-nyilvántartás szerinti, Budapest V. kerület belterület 24432 helyrajzi számú ingatlan (a továbbiakban: ingatlan1), 24775 helyrajzi számú ingatlan (a továbbiakban: ingatlan2) és a 24499 helyrajzi számú ingatlan (a továbbiakban: ingatlan3), a 24454 helyrajzi számú ingatlan (a továbbiakban: ingatlan4) (a továbbiakban együttesen: ingatlanok),
+248. §
 
-- a) az ingatlan1 és ingatlan2, mint a kikapcsolódás lehetőségét biztosító közösségi terek fenntartása, továbbfejlesztése, valamint törvényben meghatározott egyéb közfeladatok ellátása érdekében,
-- b) az ingatlan3 és ingatlan4 Budapest belvárosának gyalogos-turisztikai zónájába integrálása, a kikapcsolódás lehetőségét biztosító új közösségi tér megteremtése, a zöldfelület fejlesztése és mindezek fenntartása révén a belvárosi lakosság életminőségének javítása, valamint törvényben meghatározott egyéb közfeladatok ellátása érdekében,
-- c) az ingatlan1-hez és az ingatlan2-höz közvetlenül kapcsolódó, csatlakozó területekkel, utcákkal, valamint az azok részét képező zöldfelületekkel egységes és hatékony üzemeltetése, kezelése, továbbfejlesztése, továbbá a csatlakozó utcákkal egységes szabályok és egységes koncepció szerint megvalósuló közterület használati, engedélyeztetési, valamint ellenőrzési rendszer kialakítása és működtetése céljából,
-- d) az ingatlan3 és ingatlan4 Budapest belvárosához tartozó területekkel, utcákkal, valamint az azok részét képező zöldfelületekkel egységes fejlesztése, majd a hatékony és egységes üzemeltetése, kezelése, továbbá az egységes szabályok és egységes koncepció szerint megvalósuló közterület használati, engedélyeztetési, valamint ellenőrzési rendszer kialakítása és működtetése céljából
-
-e törvény erejénél fogva 2022. augusztus elsejével, ingyenesen az állam tulajdonába kerülnek.
-
-(2) Az (1) bekezdésben rögzített feladatok e törvény alkalmazásában állami feladatnak minősülnek.
-
-(3) Az ingatlanokhoz kapcsolódó közfeladatok ellátása részeként az ingatlanok (1) bekezdés szerinti üzemeltetését, kezelését, közterület használati, engedélyeztetési, valamint ellenőrzési rendszerének kialakítását és működtetését, az ingatlanok fenntartását és továbbfejlesztését az állam – az ingatlanok 99 évre szóló ingyenes vagyonkezelésbe adása mellett – a Belváros-Lipótváros Budapest Főváros V. kerület Önkormányzata (a továbbiakban: Vagyonkezelő) útján látja el. E törvény alapján a Vagyonkezelőt vagyonkezelői jog illeti meg az ingatlanokon, amely az állam tulajdonjogának bejegyzésével egyidejűleg lép hatályba. A Vagyonkezelő vagyonkezelői joga tekintetében vagyonkezelési szerződés megkötése nem szükséges.
-
-(4) Az ingatlanügyi hatóság a Vagyonkezelő (3) bekezdés szerinti vagyonkezelői jogát a Vagyonkezelő kérelmére e törvény alapján jegyzi be az ingatlan-nyilvántartásba. Az ingatlanügyi hatóság eljárása díjmentes, arra a Polgári Törvénykönyvről szóló 2013. évi V. törvény 5:167. §-át nem kell alkalmazni.
-
-(5) A tulajdonosváltozáskor érvényes, ingatlanokat érintő Budapest Főváros Önkormányzata hatósági határozatba vagy hatósági szerződésbe foglalt közterület-használati hozzájárulása – e törvény erejénél fogva – azon a napon, amikor a Vagyonkezelő hatósági határozatba vagy hatósági szerződésbe foglalt közterület-használati hozzájárulását a jogosult megszerezte, ennek hiányában az állam tulajdonjoga bejegyzésének napját követő 60. napon megszűnik. A tulajdonosváltozáskor érvényes, ingatlanokat érintő egyéb használati, bérleti szerződések a vagyonkezelésbe kerülést követő 60 napon belül e törvény erejénél fogva megszűnnek, kivéve, ha ezen időtartam lejárta előtt a Vagyonkezelő akként nyilatkozik, hogy a szerződésben Budapest Főváros Önkormányzata helyébe lép.
-
-(6) A Vagyonkezelő vagyonkezelői jogának gyakorlása – ideértve az ingatlanok birtoklását, használatát, hasznosítását is – közfeladatellátásnak minősül, és az ebből származó bevételeit a (3) bekezdés szerinti, valamint törvényben meghatározott egyéb közfeladatai ellátására fordíthatja.
-
-(7) Az állam tulajdonjog szerzése Budapest Főváros Önkormányzata felé a feladat- és hatáskörbeli változással kapcsolatos anyagi kiadások megtakarítása formájában ellentételezett.
-
-(8) Az ingatlanok tekintetében e törvény hatálybalépésének napjától az állami vagyon felügyeletéért felelős miniszter a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján gyakorolja az államot megillető tulajdonosi jogokat és teljesíti a kötelezettségeket.
-
-249. § (1) Az állam, a 248. § (1) bekezdés d) pontja szerinti, ingatlan3-at és ingatlan4-et érintő értéknövelő beruházást a Vagyonkezelő útján, az állam által erre a célra külön nevesített támogatása biztosítása mellett valósítja meg.
-
-(2) A Vagyonkezelő által – a 248. § (1) bekezdése szerint – az ingatlanokon eszközölt értékfenntartó vagy értéknövelő beruházás megvalósításával összefüggésben – az (1) bekezdésben foglaltak kivételével – az államnak vagy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaságnak megtérítési kötelezettsége nem keletkezik.
-
-(3) A Vagyonkezelő által – a 248. § (1) bekezdése szerint – az ingatlanokon eszközölt értékfenntartó vagy értéknövelő beruházás megvalósításával összefüggésben – ideértve a megvalósításhoz kapcsolódó hatósági eljárásokat is – az állami vagyon felügyeletéért felelős miniszter és a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság előzetes tulajdonosi jóváhagyását, engedélyét megadottnak kell tekinteni.
+249. §
 
 #### 78. A nemzeti informatikai és e-közigazgatási tevékenység összehangolt biztosításával összefüggő szabályok
 
@@ -968,45 +831,4 @@ alapján sarkalatosnak minősül.
 
 ### 10. melléklet a 2022. évi XXIV. törvényhez
 
-„4. melléklet a 2020. évi CXXX. törvényhez
-
-Vezetői munkakörök besorolási kategóriái
-
-| 1. | Besorolási kategória | NAV központi szerve | NAV területi szerve |
-| --- | --- | --- | --- |
-| 2. | 1 | elnök |  |
-| 3. | 2 | elnökhelyettes |  |
-| 4. | 3 | főigazgató |  |
-| 5. | 4 | főigazgató-helyettes |  |
-| 6. | 5 | főosztályvezető |  |
-| 7. | 6 |  | igazgató |
-| 8. | 7 | főosztályvezető-helyettes |  |
-| 9. | 8 |  | igazgató-helyettes |
-| 10. | 9 | osztályvezető |  |
-| 11. | 10 |  | főosztályvezető |
-| 12. | 11 |  | főosztályvezető-helyettes |
-| 13. | 12. |  | osztályvezető |
-
-”
-
 ### 11. melléklet a 2022. évi XXIV. törvényhez
-
-„6. melléklet a 2020. évi CXXX. törvényhez
-
-Vezetői munkakörök alapilletménye
-
-| A | B | C | D | E | F |
-| --- | --- | --- | --- | --- | --- |
-| 1. | vezetői munkakör | területi szerv |  | központi szerv |  |
-| 2. |  |  |  |  |  |
-| 3. |  | alapilletmény alsó határa | alapilletmény felső határa | alapilletmény alsó határa | Maximum alapilletmény |
-| 4. | elnökhelyettes |  |  | 1 450 000 Ft | 1 650 000 Ft |
-| 5. | főigazgató |  |  | 1 250 000 Ft | 1 450 000 Ft |
-| 6. | főigazgató-helyettes |  |  | 1 100 000 Ft | 1 220 000 Ft |
-| 7. | igazgató | 880 000 Ft | 1 000 000 Ft | 890 000 Ft | 1 010 000 Ft |
-| 8. | igazgatóhelyettes | 790 000 Ft | 910 000 Ft | 820 000 Ft | 940 000 Ft |
-| 9. | főosztályvezető | 710 000 Ft | 830 000 Ft | 890 000 Ft | 1 010 000 Ft |
-| 10. | főosztályvezető-helyettes | 650 000 Ft | 770 000 Ft | 820 000 Ft | 940 000 Ft |
-| 11. | osztályvezető | 600 000 Ft | 720 000 Ft | 740 000 Ft | 860 000 Ft |
-
-”
