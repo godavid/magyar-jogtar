@@ -301,6 +301,7 @@ azzal, hogy nem minősül versengő szolgáltatásnak a kézizálog fedezete mel
   - a) azt a betétest, akinél a betét szerződéses feltételei ettől eltérő megállapodást tartalmaznak,
   - b) a rendelkezési jogosultságának keletkezési időpontjától függetlenül azt a személyt, aki a betétes rendelkezése alapján rendelkezik a betét fölött a kártalanításnak a 217. § (1) bekezdésében meghatározott kezdő időpontját megelőző napon, de egyébként nem betétes;
 - 4. költségvetési mérlegfőösszeg: a helyi önkormányzat pénzforgalmi teljesítési adatairól adott éves beszámolójában szereplő költségvetési kiadások és költségvetési bevételek összege közül a kisebb összeg; azzal, hogy a helyi önkormányzatra az általa irányított költségvetési szervekkel összevontan számítandó a költségvetési mérlegfőösszeg;
+- 4a. költségvetési szerv: az államháztartásról szóló törvényben meghatározott jogi személy;
 - 5. közös betét: olyan betét, amelynél több betétes van (több személy nevére szól);
 - 6. névre szóló betét: az a betét, amelynek tulajdonosát a Pmt.-nek megfelelően azonosították;
 - 7. rendelkezésre jogosult személy: a betétes és az a személy, aki a betétes rendelkezése alapján korlátozással vagy anélkül rendelkezhet a betét fölött.
@@ -916,7 +917,7 @@ induló tőkével alapítható.
 - b) a hitelintézet az OBA-val fennálló tagsági jogviszonya kizárással megszűnt,
 - c) a nem vitatott betétből eredő tartozását az esedékességét követő öt napon belül képtelen visszafizetni, és nem valószínű a későbbi visszafizetés sem.
 
-(3) Hitelintézet tevékenységi engedélyét a Felügyelet a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter jóváhagyásával vonhatja vissza.
+(3) Hitelintézet tevékenységi engedélyét a Felügyelet a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter jóváhagyásával vonhatja vissza. Nem szükséges a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter jóváhagyása, ha a hitelintézet a tevékenységi engedélyét e törvénynek megfelelően visszaadja.
 
 34. § (1) A Felügyelet a független közvetítő és a jelzáloghitel közvetítői tevékenységet végző függő közvetítő tevékenységi engedélyét visszavonja, ha a közvetítő
 
@@ -939,6 +940,8 @@ induló tőkével alapítható.
 (2) Pénzügyi holding társaság az engedélyét a Felügyeletnek akkor adhatja vissza, ha bizonyítja, hogy pénzügyi szolgáltatásból, kiegészítő pénzügyi szolgáltatásból származó kötelezettségén kívül a korábbi leányvállalatai tekintében sincs semmilyen kötelezettsége.
 
 (3) Pénzügyi vállalkozás tevékenységi engedélyét a Felügyelet visszavonja, ha a pénzügyi vállalkozás a nem vitatott tartozását az esedékességét követő öt napon belül nem egyenlítette ki, és vagyona (eszközei) az ismert hitelezők követelésének kielégítésére sem nyújtana fedezetet.
+
+(4) A Szantv. 1. § (1) bekezdése szerinti pénzügyi vállalkozás tevékenységi engedélyét a Felügyelet visszavonhatja, ha – a Szantv. 18. és 19. §-ára is tekintettel – teljesülnek a Szantv. 17. § (1) bekezdés a) és b) pontjában meghatározott feltételek, de a szanálási feladatkörében eljáró MNB megítélése szerint a szanálást a közérdek nem indokolja.
 
 ### III. Fejezet — SZOLGÁLTATÁS NYÚJTÁSÁNAK SZABADSÁGA
 
@@ -1319,7 +1322,7 @@ pusztán e jellemzőik miatt nem tekintendők beágyazott származtatott ügylet
 
 (2) A kiszervezett tevékenységet végző – a kockázattal arányos mértékben – rendelkezik mindazon személyi, tárgyi és biztonsági feltételekkel, amelyeket jogszabály a kiszervezett tevékenységet illetően a hitelintézetre vonatkozóan előír.
 
-(3) A hitelintézet a Felügyeletnek a kiszervezésről szóló szerződés aláírását követően két munkanapon belül bejelenti:
+(3) A hitelintézet a Felügyeletnek a kiszervezésről szóló szerződés aláírását követően öt munkanapon belül bejelenti:
 
 - a) a kiszervezés tényét,
 - b) a kiszervezett tevékenységet végző nevét, székhelyét vagy lakóhelyét (lakcímét), valamint
@@ -1684,7 +1687,7 @@ mértékű anticiklikus tőkepufferáta alkalmazására az adott EGT-államban v
 
 (5) A globálisan és egyéb rendszerszinten jelentős hitelintézetek meghatározásának módszertanára vonatkozó adatok nem nyilvánosak.
 
-(6) Ha a makroprudenciális feladatkörében eljáró MNB az (1) bekezdés alapján tőkepuffert határoz meg vagy mértékét módosítja az egyéb rendszerszinten jelentős hitelintézetekre vonatkozóan, akkor az arról szóló határozat nyilvánosságra hozatala előtt egy hónappal, az Európai Bizottság engedélyéhez kötött határozat esetén a határozat nyilvánosságra hozatala előtt három hónappal tájékoztatnia kell az Európai Rendszerkockázati Testületet
+(6) Ha a makroprudenciális feladatkörében eljáró MNB a 90. § (1) bekezdés alapján tőkepuffert határoz meg vagy mértékét módosítja az egyéb rendszerszinten jelentős hitelintézetekre vonatkozóan, akkor az arról szóló határozat nyilvánosságra hozatala előtt egy hónappal, az Európai Bizottság engedélyéhez kötött határozat esetén a határozat nyilvánosságra hozatala előtt három hónappal tájékoztatnia kell az Európai Rendszerkockázati Testületet
 
 - a) arról, hogy várhatóan miért fogja a tőkepuffer hatékonyan és arányosan csökkenteni az egyéb rendszerszinten jelentős hitelintézetek rendszerszintű kockázatát,
 - b) a tőkepuffer belső piacra gyakorolt várható hatásáról, és
@@ -1974,7 +1977,11 @@ ha azt az egyéb befektetésektől elkülönítve tartja nyilván, és elkülön
 
 #### 51. Hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás
 
-103. § Ha a pénzügyi vállalkozás alkalmazza a hitelintézetekre vonatkozó szavatoló tőkére és tőkemegfelelésre, kockázatok és befektetések korlátozására, az eszközök minősítésére, irányítási rendszerre és kockázatkezelésre, irányításra és ellenőrzésre, valamint a nyilvánosságra hozatal követelményére vonatkozó rendelkezéseket, ugyanakkor saját tőkéje legalább kétmilliárd forint, akkor a pénzügyi vállalkozás – a Felügyelet határozata szerint – az 575/2013/EU rendelet vonatkozásában hitelintézettel egyenértékű prudenciális szabályozásnak felel meg.
+103. § (1) Ha a pénzügyi vállalkozás alkalmazza a hitelintézetekre vonatkozó szavatoló tőkére és tőkemegfelelésre, kockázatok és befektetések korlátozására, az eszközök minősítésére, irányítási rendszerre és kockázatkezelésre, irányításra és ellenőrzésre, valamint a nyilvánosságra hozatal követelményére vonatkozó rendelkezéseket, ugyanakkor saját tőkéje legalább kétmilliárd forint, akkor a pénzügyi vállalkozás – a Felügyelet határozata szerint – az 575/2013/EU rendelet vonatkozásában hitelintézettel egyenértékű prudenciális szabályozásnak felel meg.
+
+(2) A Felügyelet határozata szerint mentesülhet az 575/2013/EU rendelet 92. cikk (1) bekezdés d) pontja szerinti tőkeáttételi mutatóra vonatkozó rendelkezéseinek, valamint az 575/2013/EU rendelet és az e törvény túlzott tőkeáttételi kockázat azonosítására, kezelésére és ellenőrzésére vonatkozó rendelkezéseinek teljesítése alól a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás, amennyiben pénzügyi szolgáltatásként – ide nem értve a pénzügyi szolgáltatás közvetítéséből az ügynöki tevékenységet – kizárólag kezesség- és garanciavállalási tevékenységet végez, és a kezesség- és garanciavállalásai legalább 70%-ban olyan elismert fedezetnyújtó által viszontgarantált, amelynél a viszontgarantált részre az 575/2013/EU rendelet alapján 0%-os kockázati súly alkalmazható.
+
+(3) A hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás (2) bekezdésben foglalt mentesítése nem érinti a tőkeáttételi mutatóra vonatkozó adatszolgáltatási kötelezettségek teljesítését.
 
 104. § (1) Ha a pénzügyi vállalkozás igazolja a Felügyelet felé, hogy a 103. §-ban foglalt feltételeknek megfelel, akkor a Felügyelet – a kérelem beérkezését követő naptól számított – két hónapon belül határozatot ad ki erről. A Felügyelet a honlapján közzéteszi a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozások listáját.
 
@@ -2764,7 +2771,7 @@ együttesen jogosult.
 
 (3) A jegyzőkönyvet az ülés elnöke és két jelen lévő további vezető testületi tag írja alá. A jegyzőkönyvet valamennyi vezető testületi tagnak, valamint az igazgatósági ülés jegyzőkönyvét a felügyelő bizottság elnökének az ülést követő tizenöt napon belül meg kell küldeni függetlenül attól, hogy az ülésen részt vett-e.
 
-(4) Távbeszélőn, telefaxon, elektronikus eszközön és más hasonló módon a vezető testület csak akkor hozhat érvényes határozatot az alapszabályban meghatározott időtartamon belül, ha a vezető testületi tagok alapszabályban meghatározott hányadának szavazatát írásba foglalja, és megküldi a pénzügyi intézmény székhelyére.
+(4) Távbeszélőn, elektronikus eszközön és más hasonló módon a vezető testület csak akkor hozhat érvényes határozatot az alapszabályban meghatározott időtartamon belül, ha a vezető testületi tagok alapszabályban meghatározott hányadának szavazatát írásba foglalja, és megküldi a pénzügyi intézmény székhelyére.
 
 152. § (1) A felügyeleti jogkörrel rendelkező vezető testület tagja csak természetes személy lehet.
 
@@ -3031,7 +3038,7 @@ szemben e szerveknek a pénzügyi intézményhez intézett adatkérése, illetve
 
 (3) A banktitok megtartásának kötelezettsége nem áll fenn abban az esetben sem, ha
 
-- a) az adóhatóság és a Felügyelet nemzetközi szerződés, illetve együttműködési megállapodás alapján, külföldi hatóság írásbeli megkeresésének teljesítése érdekében írásban kér adatot a pénzügyi intézménytől, ha a megkeresés tartalmazza a külföldi hatóság által aláírt titoktartási záradékot,
+- a) az adóhatóság és a Felügyelet nemzetközi szerződés, illetve együttműködési megállapodás alapján, külföldi hatóság írásbeli megkeresésének teljesítése érdekében írásban kér adatot a pénzügyi intézménytől, ha az együttműködési megállapodás vagy a külföldi hatóság megkeresése tartalmazza az általa aláírt titoktartási záradékot,
 - b) a pénzügyi intézmény a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló törvény alapján szolgáltat adatot,
 - c) a pénzügyi intézmény a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló 2011. évi CLXX. törvény 13. § (1) bekezdése alapján szolgáltat adatot,
 - d) a pénzügyi intézmény az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget,
@@ -3545,7 +3552,7 @@ megvizsgálja azzal, hogy az eljárásban részt vehet a b) pont szerinti illet�
 - i) nem tesz eleget tartalékképzési kötelezettségének,
 - j) nem teljesíti Pmt.-ben előírt kötelezettségét,
 - k) a hitelintézet nem tesz eleget a 228. § (6) bekezdésében foglalt kötelezettségének.
-- l) a 31/A. §-t megsértve nem rendelkezik a felügyeleti engedéllyel,
+- l) a 31/A. §-t megsértve nem rendelkezik a külön jóváhagyással,
 - m) az anyavállalat, a pénzügyi holding társaság anyavállalat vagy vegyes pénzügyi holding társaság anyavállalat nem teljesíti az 575/2013/EU rendelet harmadik, negyedik vagy hetedik részében meghatározott követelményeket, vagy a 169. § (2) és (3) bekezdése vagy a 181. § alapján előírt követelményeknek összevont alapon vagy szubkonszolidált alapon történő teljesítéséhez szükséges lépéseket.
 
 (2) A Felügyelet e törvény, a pénzügyi intézmény, valamint a pénzügyi intézménynek nem minősülő kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy prudens működésére vonatkozó jogszabályok, tevékenységre vonatkozó jogszabályok előírásainak jelentős megsértése esetén – a rendelkezésére álló adatokat és információkat mérlegelve – megteszi a szükséges intézkedést, ha a pénzügyi intézmény, a pénzügyi intézménynek nem minősülő pénzügyi szolgáltatást, illetve kiegészítő pénzügyi szolgáltatást nyújtó egyéb jogi személy
@@ -4199,7 +4206,7 @@ az OBA-ban tagsággal rendelkező hitelintézetnél helyeztek el.
 
 (3) A kártalanítás mértékének megállapítása során az ügyfélnek az OBA tagjánál fennálló valamennyi betétkövetelését össze kell számítani.
 
-(4) Lakáscélú hitel fedezetéül szolgáló betét esetén az OBA akkor teljesít kifizetést, ha a kártalanítási összeg felvételére való jogosultság a felek megegyezése vagy bíróság jogerős ítélete, illetve hatóság végleges határozata alapján kétséget kizáróan megállapítható.
+(4) Szerződéses kötelezettség teljesítésének fedezetéül szolgáló, e célból zárolt betét esetén az OBA akkor teljesít kifizetést, ha a kártalanítási összeg felvételére való jogosultság a felek megegyezése vagy bíróság jogerős ítélete, illetve hatóság végleges határozata alapján kétséget kizáróan megállapítható.
 
 216. § (1) Az állami kezességvállalás mellett elhelyezett betétek esetén a kártalanítás kifizetését és az államot megillető követelés érvényesítését az OBA – megegyezés szerinti térítés ellenében – az állammal írásban kötött szerződés alapján átvállalhatja. Ha az állami kezesség érvényesítése az OBA-n keresztül történik, a kifizetésre és az államot megillető követelésre a (2)–(4) bekezdésben foglaltakat kell alkalmazni.
 
@@ -4229,7 +4236,7 @@ időpontját követő napon [az a)–c) pont a továbbiakban együtt: a kártala
 - d) a betét tulajdonosa helyi önkormányzat vagy
 - e) a kártalanítást a fióktelep létesítésének helye szerinti ország betétbiztosítási rendszere fizeti ki a 209. § (9)–(10) bekezdése alapján.
 
-(1c) Ha az OBA nem bocsátja rendelkezésre a kártalanítást a betétesek részére hét munkanapon belül, a természetes személy betétes írásban kérelmet nyújthat be az OBA-hoz a betét sürgős kifizetése érdekében. Az OBA a hitelintézet által a 228. § (8) bekezdésében meghatározottak szerint rendelkezésre bocsátott betétnyilvántartásban szereplő betétes részére a betétnyilvántartásban szereplő betét alapján a sürgős kifizetésre vonatkozó kérelem benyújtásától számított öt munkanapon belül részkifizetést teljesít, amely nem haladhatja meg a mindenkori öregségi nyugdíjminimum négyszeresét. A sürgős kifizetés keretében teljesített kártalanítás összege a teljes kártalanítás összegét csökkenti.
+(1c) Ha az OBA nem bocsátja rendelkezésre a kártalanítást a betétesek részére hét munkanapon belül, a természetes személy betétes írásban kérelmet nyújthat be az OBA-hoz a betét sürgős kifizetése érdekében. Az OBA a hitelintézet által rendelkezésre bocsátott betétnyilvántartásban szereplő betétes részére a betétnyilvántartásban szereplő betét alapján a sürgős kifizetésre vonatkozó kérelem benyújtásától számított öt munkanapon belül részkifizetést teljesít, amely nem haladhatja meg a mindenkori öregségi nyugdíjminimum négyszeresét. A sürgős kifizetés keretében teljesített kártalanítás összege a teljes kártalanítás összegét csökkenti.
 
 (1d) Az (1) bekezdés szerinti határidő lejártát követő naptól számított 5 éves jogvesztő határidőn túl a kártalanítás kifizetését a kártalanításra jogosult személy nem követelheti az OBA-tól.
 
@@ -4371,7 +4378,7 @@ vonatkozásában információt ad.
 
 (7) Az OBA a tagintézetek által megküldött adatállományok alapján legalább háromévente, indokolt esetben gyakrabban teszteli kifizető rendszerének működését. A tesztelés érdekében a tagintézetek által megküldött adatokat az OBA kizárólag a teszteléshez használja fel, a tesztelést követően törli az adatokat.
 
-(8) Kártalanítás esetén a hitelintézet az OBA erre vonatkozó igényének közlését követő három munkanapon belül az OBA rendelkezésére bocsátja a betétnyilvántartásainak az OBA kifizető rendszere által történő feldolgozásához szükséges átalakító programot, valamint biztosítja a betétállományára vonatkozó adatoknak az OBA kifizető rendszere által történő feldolgozhatóságát.
+(8)
 
 (9) Kártalanítás esetén a hitelintézet a 213. § (3) bekezdésben meghatározott feltétel teljesülésének ellenőrzése érdekében haladéktalanul megkeresi a számlával, betéttel rendelkező helyi önkormányzatokat. A helyi önkormányzat a kincstár által kiállított igazolást megküldi a hitelintézet részére és a hitelintézet ennek alapján átadja az OBA-nak a betétbiztosítás alá tartozó helyi önkormányzatok betétállományára vonatkozó adatokat.
 
@@ -4465,7 +4472,7 @@ kártalanítási kötelezettség alá tartozó részének (a továbbiakban: díj
 
 (9) Ha a kölcsön igénybevételét, illetve kötvény kibocsátását szükségessé tevő káresemény kapcsán az OBA bevételre tesz szert, azt elsősorban a fennálló kölcsön- vagy kötvénytartozás csökkentésére, ezt követően pedig a hitelintézeteket terhelő rendkívüli fizetési kötelezettség mérséklésére, visszafizetésére kell fordítani.
 
-(10) A hitelintézet a végelszámolása vagy felszámolása kezdő évében a végelszámolás vagy felszámolás kezdő napjáig terjedő időszakra vonatkozóan az e §-ban meghatározottak szerint köteles időarányos éves díjat fizetni. A díj vetítési alapja a hitelintézet által a felszámolás vagy végelszámolás elrendelését megelőzően teljesített legutolsó díjfizetésének alapjául szolgáló betétállomány.
+(10) A hitelintézet tevékenységi engedélye visszavonásának évében az engedély visszavonásának napjáig terjedő időszakra vonatkozóan az e §-ban meghatározottak szerint köteles időarányos éves díjat fizetni.
 
 234/A. § (1) Az OBA tagjainak éves befizetési kötelezettségét úgy kell megállapítani, hogy az OBA pénzeszközei 2024. július 3-ig elérjék a kártalanítási kötelezettségének hatálya alá tartozó betétállomány 0,8%-át (célszint).
 
@@ -4503,7 +4510,7 @@ az OBA felszólítja a hitelintézetet a jogsértő magatartás megszüntetésé
 
 239. § (1) A hitelintézet kizárása vagy a tagsági jogviszony megszüntetése – a (4) bekezdésben foglalt kivétellel – nem érinti a tagság fennállása alatt a hitelintézetnél elhelyezett betétekre vonatkozó biztosítást.
 
-(2) Ha a hitelintézetet az OBA-ból kizárták vagy tagsági jogviszonya megszűnt, vagy azt megszüntették, a korábban teljesített befizetését – az (5) bekezdésben foglalt kivétellel – nem igényelheti vissza. A kizárás vagy a tagsági viszony megszűnése vagy megszüntetése nem érinti a kizárt hitelintézetnek azt a kötelezettségét, hogy a biztosítás alá eső betétek után a 234. §-nak megfelelően éves díjat fizessen.
+(2) Ha a hitelintézetet az OBA-ból kizárták vagy tagsági jogviszonya megszűnt, vagy azt megszüntették, a korábban teljesített befizetését – az (5) bekezdésben és a 234. § (10) bekezdésében foglalt kivétellel – nem igényelheti vissza. A kizárás vagy a tagsági viszony megszűnése vagy megszüntetése nem érinti a kizárt hitelintézetnek azt a kötelezettségét, hogy a biztosítás alá eső betétek után a 234. §-nak megfelelően éves díjat fizessen.
 
 (3) A hitelintézet a jegyzett tőkéjének felemelése, vagy csökkentése esetén nem köteles az emelés összege után csatlakozási díjat fizetni vagy a már megfizetett csatlakozási díj arányos részét nem igényelheti vissza.
 
