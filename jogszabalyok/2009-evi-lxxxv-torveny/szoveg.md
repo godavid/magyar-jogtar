@@ -263,6 +263,10 @@ kívüli szolgáltatás.
 
 (4) A felek a keretszerződésben kiköthetik, hogy a határozatlan idejű keretszerződést a pénzforgalmi szolgáltató a 8. §-ban meghatározott módon felmondhatja. Két hónapnál rövidebb felmondási idő kikötése semmis kivéve, ha az ügyfél a keretszerződésben foglalt kötelezettségét súlyosan vagy ismételten megszegte.
 
+(4a) Fogyasztóval kötött fizetési számla vezetésére irányuló szerződést a pénzforgalmi szolgáltató a tartozás rendezésére vonatkozó, az ügyfél részére igazolható módon megküldött felszólítást követően két hónapos felmondási idővel felmondja, ha a fizetési számlán fél évet meghaladóan nem történik jóváírás, illetve az ügyfél által kezdeményezett terhelés, továbbá fél évet meghaladó késedelmes tartozás áll fenn és egyúttal a fizetési számla egyenlege negatív.
+
+(4b) Ha a pénzforgalmi szolgáltató hitelt érdemlő módon tudomást szerzett az ügyfél elhalálozásáról, akkor a jogerős, teljes hatályú hagyatékátadó végzés vagy öröklési bizonyítvány pénzforgalmi szolgáltató részére történő benyújtásáig a (4a) bekezdésben meghatározott felmondási kötelezettség nem terheli a pénzforgalmi szolgáltatót.
+
 (5) A keretszerződés felmondása, megszűnése esetén a felek kötelesek egymással elszámolni.
 
 (6) A keretszerződés felmondása, megszűnése esetén a pénzforgalmi szolgáltató kizárólag a keretszerződésnek megfelelően, ténylegesen teljesített szolgáltatás arányos ellenértékére jogosult.
@@ -277,7 +281,7 @@ FIZETÉSI SZÁMLA FELETTI RENDELKEZÉS
 
 - a) jogi személy létrejöttéhez szükséges nyilvántartásba (a továbbiakban: nyilvántartás) már bejegyzett vállalkozás esetében a nyilvántartást vezető szervezettől származó, harminc napnál nem régebbi okirat vagy adatok alapján a pénzforgalmi szolgáltató meggyőződött arról, hogy a nyilvántartásban szerepel, valamint adószámát és statisztikai számjelét közölte,
 - b) a nyilvántartásba még be nem jegyzett jogi személy gazdasági társaság létesítő okiratát (társasági szerződését) egy másolati példányban átadta, valamint – ha cégbejegyzésre kötelezett és a pénzforgalmi számla megnyitása nem feltétele a cégbejegyzési kérelem benyújtásának – csatolta a cégbejegyzési kérelem benyújtása során a cégbíróságtól kapott elektronikus tanúsítványt vagy annak hiteles papír alapú másolatát,
-- c) az általános forgalmi adó fizetésére kötelezett természetes személy, illetve az általános forgalmi adó fizetésére kötelezett egyéni vállalkozó a Nemzeti Adó- és Vámhivatalnál történt nyilvántartásba vételéről szóló okirat másolati példányát átadta, egyéni vállalkozó a nyilvántartásba vételről szóló igazolás illetőleg a tevékenység végzéséhez szükséges más igazolvány másolatát csatolta, vagy a pénzforgalmi szolgáltató az egyéni vállalkozó nyilvántartását vezető szervezet nyilvántartásában meggyőződik arról, hogy az egyéni vállalkozó a nyilvántartásban szerepel.
+- c) az általános forgalmi adó fizetésére kötelezett természetes személy, illetve az általános forgalmi adó fizetésére kötelezett egyéni vállalkozó a Nemzeti Adó- és Vámhivatalnál történt nyilvántartásba vételéről szóló okirat másolati példányát átadta, egyéni vállalkozó a nyilvántartásba vételről szóló igazolás illetőleg a tevékenység végzéséhez szükséges más igazolvány másolatát csatolta, vagy a pénzforgalmi szolgáltató az egyéni vállalkozó, őstermelő nyilvántartását vezető szervezet nyilvántartásában meggyőződik arról, hogy az egyéni vállalkozó, őstermelő a nyilvántartásban szerepel.
 
 (2) Fizetési számlát a pénzforgalmi szolgáltató akkor nyithat, ha a pénzforgalmi számla nyitására nem kötelezett – a jogi formájára vonatkozó előírások szerint – a létrejöttére, illetve nyilvántartásba vételére vonatkozó okmányokat, iratokat bemutatta.
 
@@ -1082,6 +1086,8 @@ vonatkozó részletes szabályokat.
 66/A. § (1) A 38/A–38/C. §-ban, valamint az 55/C. §-ban meghatározott biztonsági intézkedéseket 2019. szeptember 14-től kell alkalmazni.
 
 (2) Fizetés-kezdeményezési szolgáltatás vagy számlainformációs szolgáltatás igénybevételekor 2019. szeptember 13-ig az ügyfél és a fizetési számláját vezető pénzforgalmi szolgáltató között e törvény 2018. január 12-én hatályos rendelkezések szerinti felelősségi és kárviselési szabályai alkalmazandók.
+
+(3) A pénzügyi szektort érintő egyes törvények módosításáról szóló 2022. évi XX. törvény 5. alcímének hatálybalépésekor már fennálló fizetési számla vezetésére irányuló szerződés esetében a 17. § (4a) és (4b) bekezdésében foglaltak akkor alkalmazandóak, ha az ügyfél részére történő igazolható módon megküldött felszólítás a pénzügyi szektort érintő egyes törvények módosításáról szóló 2022. évi XX. törvény 5. alcímének hatálybalépését követően történt.
 
 66/B. § (1) A pénzügyi rezsicsökkentéssel összefüggésben a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosításáról szóló 2013. évi CLXXXIX. törvénnyel megállapított 36/A. §-t – a (2) bekezdésben meghatározott kivétellel – a pénzügyi rezsicsökkentéssel összefüggésben a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosításáról szóló 2013. évi CLXXXIX. törvény hatálybalépésekor fennálló szerződésekre is alkalmazni kell.
 

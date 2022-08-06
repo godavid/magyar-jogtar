@@ -500,7 +500,11 @@ vonatkozó szabályokat állapít meg.
 
 (6) Ha az anticiklikus tőkepufferráta mértékének csökkentésére vagy elengedésére kerül sor, akkor az anticiklikus tőkepufferráta azonnal alkalmazandó, és ez esetben az MNB honlapján közleményben közzé teszi azt az időintervallumot, amely alatt várhatóan nem kerül sor anticiklikus tőkepufferráta mértékének növelésére. Ez a közlemény nem köti az MNB-t az anticiklikus tőkepufferráta mértékének felülvizsgálatában.
 
-(7)–(9)
+(7)
+
+(8)
+
+(9)
 
 #### 22. A rendszerszintű likviditási kockázatok csökkentését szolgáló intézkedések
 
@@ -541,11 +545,11 @@ vonatkozó szabályokat állapít meg.
 
 (3) Amennyiben a rendszerkockázati tőkepufferráta megállapításáról szóló döntés a korábban megállapított tőkepufferrátához képest csökkenést jelent vagy nem jelent változást, az MNB-nek csak a 141/A. § szerinti tájékoztatást kell megtennie.
 
-(4) Ha az MNB 3 százalék vagy az alatti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor a 141/A. § a) pontjában meghatározott tájékoztatást követően – legkorábban 30 nappal – alkalmazhatja azt a Hpt. 92. § (1) bekezdésében meghatározott valamennyi kitettségre vonatkozóan azzal, hogy minden EGT-államban lévő kitettségekre azonos rendszerkockázati tőkepufferrátát ír elő.
+(4) Ha az MNB 3 százalék vagy az alatti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor a 141/A. § a) pontjában meghatározott tájékoztatást követően – legkorábban 30 nappal – alkalmazhatja azt a Hpt. 92. § (2) bekezdésében meghatározott valamennyi kitettségre vonatkozóan azzal, hogy minden EGT-államban lévő kitettségekre azonos rendszerkockázati tőkepufferrátát ír elő.
 
-(5) Ha az MNB a Hpt. 92. § (1) bekezdés b) pontja szerinti kitettségre 3 százalék feletti vagy a Hpt. 92. § (1) bekezdés a) és c) pontja szerinti kitettségre 5 százalék feletti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor ezt csak az Európai Bizottság előzetes jóváhagyása esetén vezetheti be. Ebben az esetben az MNB tervezetét véleménnyel ellátva megküldi az Európai Bizottságnak.
+(5) Ha az MNB a Hpt. 92. § (2) bekezdés szerinti kitettségre 5 százalék feletti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor ezt csak az Európai Bizottság előzetes jóváhagyása esetén vezetheti be. Ebben az esetben az MNB tervezetét véleménnyel ellátva megküldi az Európai Bizottságnak.
 
-(6) Ha az MNB a Hpt. 92. § (1) bekezdés a) és c) pont szerinti kitettségre 3 és 5 százalék közötti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor az MNB előzetesen megküldi a tervezetét véleménnyel ellátva az Európai Bizottságnak azzal, hogy a rendszerkockázati pufferrátát e bekezdés szerint csak az Európai Bizottság előzetes véleményének kézhezvételét követően vezetheti be.
+(6) Ha az MNB a Hpt. 92. § (2) bekezdés szerinti kitettségre 3 és 5 százalék közötti mértékben kíván rendszerkockázati tőkepufferrátát előírni, akkor az MNB előzetesen megküldi a tervezetét véleménnyel ellátva az Európai Bizottságnak azzal, hogy a rendszerkockázati pufferrátát e bekezdés szerint csak az Európai Bizottság előzetes véleményének kézhezvételét követően vezetheti be.
 
 (7) Ha az (5) bekezdésben rögzített véleményében az Európai Bizottság ellenzi az MNB által tervezett, az (5) bekezdésben meghatározott mértékű tőkepufferráta bevezetését, akkor az MNB köteles az Európai Bizottság véleményében meghatározottaknak megfelelően eljárni.
 
@@ -1295,7 +1299,7 @@ végez.
 - b) jelentős rendszerkockázattal jár vagy
 - c) az adott piacba vetett bizalmat általánosan veszélyezteti.
 
-(7) Az MNB a határozatainak teljesülését átfogó vizsgálatban vagy utóvizsgálat keretében ellenőrzi, amely kiterjedhet a rendes, illetve rendkívüli adatszolgáltatásból származó adatok vizsgálatára, valamint a helyszíni és helyszínen kívüli ellenőrzésből származó megállapítások vizsgálatára.
+(7) Az MNB a határozatainak teljesülését folyamatos felügyelés keretében – indokolt esetben – átfogó vizsgálatban vagy utóvizsgálat keretében ellenőrzi, amely kiterjedhet a rendes, illetve rendkívüli adatszolgáltatásból származó adatok vizsgálatára, valamint a helyszíni és helyszínen kívüli ellenőrzésből származó megállapítások vizsgálatára.
 
 65. § (1) A helyszínen kívüli ellenőrzési eljárás során a tényállás tisztázása érdekében az MNB a 48. § (3)–(4d) bekezdésben meghatározott rendelkezéseket alkalmazhatja, továbbá egyéb tájékoztatást kérhet.
 
@@ -1681,7 +1685,7 @@ tarthat.
 
 (3) Az MNB fogyasztóvédelmi témavizsgálatot több személynél és szervezetnél végezhet az azonos vagy hasonló jellegű fogyasztóvédelmi rendelkezések betartásának összehangolt és összehasonlító ellenőrzése céljából.
 
-(4) Az MNB a fogyasztóvédelmi ellenőrzési eljárásban hozott határozatainak teljesülését fogyasztóvédelmi utóvizsgálat keretében ellenőrzi, amely kiterjedhet a rendes, illetve rendkívüli adatszolgáltatásból származó adatok vizsgálatára, valamint a helyszíni és helyszínen kívüli ellenőrzésből származó megállapítások vizsgálatára.
+(4) Az MNB a fogyasztóvédelmi ellenőrzési eljárásban hozott határozatainak teljesülését folyamatos felügyelés keretében – indokolt esetben – fogyasztóvédelmi utóvizsgálat keretében ellenőrzi, amely kiterjedhet a rendes, illetve rendkívüli adatszolgáltatásból származó adatok vizsgálatára, valamint a helyszíni és helyszínen kívüli ellenőrzésből származó megállapítások vizsgálatára.
 
 (5) A fogyasztóvédelmi ellenőrzési eljárásban a 62. § (2) bekezdésében, a 63. § (3) bekezdésében, a 65. § (1)–(3) bekezdésében, a 66–67. §-ban, a 67/B. §-ban, a 70. § (4) bekezdésben, a 75. § (3)–(6) bekezdésben és a 77. §-ban meghatározott rendelkezések megfelelően alkalmazandók, azzal, hogy ahol a rendelkezés ellenőrzési eljárást említ, azon fogyasztóvédelmi ellenőrzési eljárást kell érteni.
 
@@ -1774,7 +1778,7 @@ tarthat.
 
 90. § (1) Az MNB piacfelügyeleti eljárást indít
 
-- a) engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közvetítői (ügynöki) tevékenység, elektronikuspénz-értékesítői tevékenység gyanúja esetén,
+- a) engedély nélkül vagy bejelentés hiányában végzett pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, tőzsdei, árutőzsdei szolgáltatási, befektetési alapkezelési, központi értéktári, önkéntes kölcsönös biztosító pénztári, magánnyugdíjpénztári, biztosítási, viszontbiztosítási, foglalkoztatói nyugdíj szolgáltatói, befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, közösségi finanszírozási szolgáltatás, közvetítői (ügynöki) tevékenység, elektronikuspénz-értékesítői tevékenység gyanúja esetén,
 - b) bennfentes kereskedelem vagy piacbefolyásolás, valamint bennfentes információ jogosulatlan közzétételének gyanúja esetén,
 - c) az 596/2014/EU rendelet szerinti vezetői feladatokat ellátó személyekre és adott esetben az 596/2014/EU rendelet szerinti velük szoros kapcsolatban álló személyekre vonatkozó bejelentési kötelezettségre vonatkozó szabályok ellenőrzése céljából,
 - d) a vállalatfelvásárlásra vonatkozó szabályok ellenőrzése céljából,
@@ -2378,7 +2382,7 @@ terjedhet.
 
 (2) A Pénzügyi Békéltető Testület naprakész, az eljárására vonatkozó és könnyen hozzáférhető információkkal ellátott internetes honlapot működtet, amelyen lehetővé teszi, hogy a fogyasztó online úton is benyújthassa kérelmét és annak mellékleteit. Az internetes honlapon közzé kell tenni és kérés esetén elektronikus úton a felek rendelkezésére kell bocsátani legalább a következő információkat:
 
-- a) a Pénzügyi Békéltető Testület elérhetőségét, így különösen székhelyét, levelezési címét, e-mail címét, telefonszámát, valamint faxszámát,
+- a) a Pénzügyi Békéltető Testület elérhetőségét, így különösen székhelyét, levelezési címét, e-mail címét, valamint telefonszámát,
 - b) annak tényét, hogy a Pénzügyi Békéltető Testületet az Európai Bizottság jegyzékében nyilvántartásba vették-e,
 - c) a pénzügyi békéltető testületi tagok nevét, valamint megbízatásuk időtartamát, felsőfokú végzettségük oklevél szerinti megnevezését, szakterületüket,
 - d) a pénzügyi békéltető testületi tagok függetlenségére és pártatlanságára vonatkozó törvényes követelményeket,

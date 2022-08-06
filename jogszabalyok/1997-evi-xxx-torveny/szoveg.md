@@ -250,7 +250,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 - a) a fedezetként figyelembe vett tőkekövetelések értékvesztéssel csökkentett együttes értékének meg kell haladnia a forgalomban lévő jelzáloglevelek még nem törlesztett névértékének 100%-át,
 - b) a fedezetként figyelembe vett értékvesztéssel csökkentett tőkére járó kamat együttes értékének meg kell haladnia a forgalomban lévő jelzáloglevelek még nem törlesztett névértékére jutó kamatának 100%-át.
 
-(3) Rendes fedezetként azon jelzáloghitelből, illetve refinanszírozási jelzáloghitelből eredő tőkekövetelés és a szerződés alapján járó kamat, valamint a fennálló tőkekövetelés százalékában meghatározott, a kölcsönszerződés szerint a futamidő alatt rendszeresen felszámítható kezelési költség (a továbbiakban: kamat jellegű bevétel) vehető figyelembe, amely fedezetéül kikötött jelzálogjog a jelzálog-hitelintézet javára az ingatlan-nyilvántartásba bejegyzésre került. Rendes fedezetként a visszavásárlási vételár, valamint a kapcsolódó kölcsönrészből eredő tőkekövetelés és a szerződés alapján járó kamat, valamint kamat jellegű bevétel, továbbá a származtatott (derivatív) ügylet (6) bekezdés szerinti értéke is figyelembe vehető. Refinanszírozási jelzáloghitelből eredő tőkekövetelés, illetve önálló zálogjog vásárlása-visszavásárlása esetén a visszavásárlási vételár, továbbá a szerződés alapján járó kamat és kamat jellegű bevétel abban az esetben vehető figyelembe rendes fedezetként, ha az önálló zálogjog alapítása, illetve jelzálognak átalakításos önálló zálogjoggá való átalakítása, és ezeknek, illetve a jelzálognak különvált zálogjogként a jelzálog-hitelintézet javára történő átruházása érvényesen megtörtént, és a jelzálog-hitelintézet feltétel nélkül jogosult kezdeményezni a különvált zálogjog, valamint az önálló zálogjog átjegyzését a saját javára az ingatlan-nyilvántartásban.
+(3) Rendes fedezetként azon jelzáloghitelből, illetve refinanszírozási jelzáloghitelből eredő tőkekövetelés és a szerződés alapján járó kamat, valamint a fennálló tőkekövetelés százalékában meghatározott, a kölcsönszerződés szerint a futamidő alatt rendszeresen felszámítható kezelési költség (a továbbiakban: kamat jellegű bevétel) vehető figyelembe, amely fedezetéül kikötött jelzálogjog a jelzálog-hitelintézet javára az ingatlan-nyilvántartásba bejegyzésre került. Rendes fedezetként a visszavásárlási vételár, valamint a kapcsolódó kölcsönrészből eredő tőkekövetelés és a szerződés alapján járó kamat, valamint kamat jellegű bevétel is figyelembe vehető. Refinanszírozási jelzáloghitelből eredő tőkekövetelés, illetve önálló zálogjog vásárlása-visszavásárlása esetén a visszavásárlási vételár, továbbá a szerződés alapján járó kamat és kamat jellegű bevétel abban az esetben vehető figyelembe rendes fedezetként, ha az önálló zálogjog alapítása, illetve jelzálognak átalakításos önálló zálogjoggá való átalakítása, és ezeknek, illetve a jelzálognak különvált zálogjogként a jelzálog-hitelintézet javára történő átruházása érvényesen megtörtént, és a jelzálog-hitelintézet feltétel nélkül jogosult kezdeményezni a különvált zálogjog, valamint az önálló zálogjog átjegyzését a saját javára az ingatlan-nyilvántartásban.
 
 (3a) A fedezetek között nem lehet figyelembe venni az 575/2013/EU európai parlamenti és tanácsi rendelet 178. cikk szerinti nemteljesítőnek tekintett kitettségből eredő fedezetlen követelést.
 
@@ -258,15 +258,15 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 
 (5) Amennyiben a jelzáloglevelek és azok fedezetei nem azonos devizában állnak fenn, úgy a jelzálog-hitelintézet köteles az árfolyamkockázatot származtatott (derivatív) ügylet megkötésével kiküszöbölni.
 
-(6) Ha a jelzálog-hitelintézet az általa kibocsátott jelzálogleveleket, illetőleg azok fedezetét érintő származtatott (derivatív) ügyletet köt, úgy ezen származtatott (derivatív) ügyletet jogosult a derivatív partner szerződésben megadott előzetes hozzájárulása esetén – az erre vonatkozó külön jogszabályi rendelkezések szerint – a jelzáloglevelek rendes fedezeteként figyelembe venni. A derivatív partner a fedezetbe vont származtatott (derivatív) ügylet tekintetében felmondási jogát a jelzálog-hitelintézet fizetésképtelensége esetén nem gyakorolhatja. Rendes fedezetként a származtatott (derivatív) ügyletből származó követelésnek vagy kötelezettségnek az ezek fedezetéül szolgáló biztosítékkal korrigált összegét kell nyilvántartásba venni. Ha a korrigált összeg a jelzálog-hitelintézet számára kötelezettség, akkor azt negatív előjellel kell a fedezetek között számba venni. A rendes fedezetbe vont származtatott (derivatív) ügyletekből fennálló követelések és kötelezettségek jelenértéken számított egyenlege nem haladhatja meg a forgalomban lévő jelzáloglevelekből származó kötelezettségek jelenértékének 12%-át.
+(6) Ha a jelzálog-hitelintézet az általa kibocsátott jelzálogleveleket, illetve azok fedezetét érintő származtatott (derivatív) ügyletet köt, úgy ezen származtatott (derivatív) ügyletet jogosult a derivatív partner szerződésben megadott előzetes hozzájárulása esetén – az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott rendelkezések szerint – a jelzáloglevelek fedezeteként figyelembe venni. A derivatív partner a fedezetbe vont származtatott (derivatív) ügylet tekintetében felmondási jogát a jelzálog-hitelintézet fizetésképtelensége esetén nem gyakorolhatja. Származtatott (derivatív) ügyletből származó követelés esetén fedezetként vagy származtatott (derivatív) ügyletből származó kötelezettség esetén az (1a) bekezdés c) pontja szerinti kötelezettségként annak a fedezetéül szolgáló biztosítékkal korrigált összegét kell nyilvántartásba venni. A fedezeti körbe vont származtatott (derivatív) ügyletekből fennálló követelések és az (1a) bekezdés c) pontja szerinti kötelezettségként figyelembe vett származtatott (derivatív) ügyletből származó kötelezettségek jelenértékének különbsége nem haladhatja meg a forgalomban lévő jelzáloglevelekből származó kötelezettségek jelenértékének tizenkét százalékát.
 
 (7) Ha a jelzáloghitelből, a refinanszírozási jelzáloghitelből eredő tőkekövetelés, illetve a visszavásárlási vételár összege a fedezetül lekötött ingatlan hitelbiztosítéki értékének hatvan százalékát meghaladja, rendes fedezetként a tőkekövetelés, illetve a visszavásárlási vételár összege legfeljebb annak 60%-áig vehető figyelembe. Ha a fedezetül lekötött ingatlan a bírósági végrehajtásról szóló 1994. évi LIII. törvény 147. § (4) bekezdés a) pontja szerinti lakóingatlan, akkor a jelzáloghitelből és a refinanszírozási jelzáloghitelből eredő tőkekövetelés, illetve visszavásárlási vételár összege a hitelbiztosítéki érték 70%-áig vehető rendes fedezetként figyelembe.
 
-(8) A rendes fedezet mértékének minden esetben el kell érnie a 180 napot meghaladó hátralévő futamidővel rendelkező jelzáloglevél-állomány 80 százalékát.
+(8) A rendes fedezet, valamint a fedezetként figyelembe vett származtatott (derivatív) ügyletekhez kapcsolódó kifizetések iránti követelések és az (1a) bekezdés c) pontja szerinti kötelezettségként figyelembe vett származtatott (derivatív) ügyletből származó kötelezettségek különbsége összegének minden esetben el kell érnie a 180 napot meghaladó hátralévő futamidővel rendelkező jelzáloglevél-állomány nyolcvan százalékát.
 
 (9) A (8) bekezdésben meghatározott arányt a jelzálog-hitelintézetnek működése harmadik naptári évétől kell elérnie.
 
-(10) A jelzáloglevelek fedezetén belül a rendes fedezet aránya a jelzálog-hitelintézet működésének első évében nem lehet kevesebb hatvan, a második évében pedig hetven százaléknál.
+(10) A rendes fedezet, valamint a fedezetként figyelembe vett származtatott (derivatív) ügyletekhez kapcsolódó kifizetések iránti követelések és az (1a) bekezdés c) pontja szerinti kötelezettségként figyelembe vett származtatott (derivatív) ügyletből származó kötelezettségek különbsége összegének el kell érnie a 180 napot meghaladó hátralévő futamidővel rendelkező jelzáloglevél-állomány hatvan százalékát a jelzálog-hitelintézet működésének első évében, hetven százalékát a második évében.
 
 (11) A pótfedezet a rendes fedezet kiegészítésére szolgál és a következő eszközökből állhat:
 
@@ -279,14 +279,14 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 - g) a Magyar Állam készfizető kezességvállalása mellett nyújtott – a 3. § (3) bekezdésében szabályozott körbe nem tartozó – hitel,
 - h) az 575/2013/EU európai parlamenti és tanácsi rendelet 129. cikke szerint fedezett kötvénynek minősülő azon értékpapír, amelyet valamely tagállam nemzeti bankja, vagy az Európai Központi Bank elfogadható fedezetnek minősített, ide nem értve a jelzálog-hitelintézet saját kibocsátású jelzálogleveleit, valamint a Hpt. 6. § (1) bekezdésében meghatározott, a jelzálog-hitelintézettel szoros kapcsolatban álló hitelintézet vagy befektetési vállalkozás által kibocsátott fedezett kötvényt.
 
-(12) A (11) bekezdés c), d), f) és h) pontjaiban felsorolt egyazon kötelezettel szembeni összes követelés pótfedezetként legfeljebb a jelzálog-hitelintézetek által kibocsátott, forgalomban lévő jelzáloglevelek névértékének 2%-áig vehető figyelembe. A (11) bekezdés h) pontjában felsorolt eszközök együttesen legfeljebb a pótfedezetek összegének 25%-áig vehetők figyelembe pótfedezetként, illetve összegük nem haladhatja meg a jelzálog-hitelintézet által kibocsátott, forgalomban lévő jelzáloglevelek névértékének 5%-át.
+(12) A (11) bekezdés c), d), f) és h) pontjában felsorolt, nem forintban kibocsátott és egyazon kötelezettel szembeni összes követelés pótfedezetként legfeljebb a jelzálog-hitelintézetek által kibocsátott, forgalomban lévő jelzáloglevelek névértékének kettő százalékáig vehető figyelembe. A (11) bekezdés h) pontjában meghatározott eszközök együttesen legfeljebb a pótfedezetek összegének huszonöt százalékáig vehetők figyelembe pótfedezetként, illetve összegük nem haladhatja meg a jelzálog-hitelintézet által kibocsátott, forgalomban lévő jelzáloglevelek névértékének öt százalékát.
 
 (13) A jelzálog-hitelintézet haladéktalanul jelenti a Felügyeletnek, ha
 
 - a) a forgalomban lévő jelzáloglevelek fedezete nem felel meg az (1) bekezdésben előírtaknak;
-- b) a fedezeten belül a rendes fedezet aránya nyolcvan százalék alá esik.
+- b) a (8) bekezdésben meghatározott arány nem teljesül.
 
-(14) A jelzáloglevelek rendes fedezetét biztosító zálogtárgyakról, a rendes és a pótfedezeti értékekről a jelzálog-hitelintézet fedezet-nyilvántartást vezet, amelyben a fedezeteket egyedileg mutatja ki.
+(14) A jelzáloglevelek rendes fedezetét biztosító zálogtárgyakról, a fedezeti eszközök értékeiről a jelzálog-hitelintézet fedezet-nyilvántartást vezet, amelyben a fedezeteket egyedileg mutatja ki.
 
 (15) A jelzálog-hitelintézet fedezet-nyilvántartási szabályzatot készít, melyet a Felügyelet hagy jóvá.
 
@@ -344,7 +344,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 
 (4) A Felügyelet az átruházás engedélyezését megtagadja, ha az veszélyezteti az átruházással érintett jelzáloglevelekből eredő kötelezettségek teljesítését. A Felügyelet részleges átruházás esetén az átruházás engedélyezését akkor is megtagadhatja, ha az az átruházással nem érintett jelzáloglevelekből eredő kötelezettségek teljesítését veszélyezteti.
 
-(5) Jelzáloglevélből eredő kötelezettség csak rendes és pótfedezete egyidejű átadásával ruházható át.
+(5) Jelzáloglevélből eredő kötelezettség csak a fedezetek egyidejű átadásával ruházható át.
 
 (6) Az állományt átvevő jelzálog-hitelintézet az átadó jelzálog-hitelintézet által meghatározott eredeti feltételeknek megfelelően új jelzálogleveleket hoz forgalomba.
 
@@ -377,7 +377,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 
 (8) A vagyonellenőrt megbízója – vagyonellenőri tevékenysége körében – nem utasíthatja.
 
-(9) A vagyonellenőr bármikor betekinthet a jelzálog-hitelintézet olyan könyveibe és egyéb irataiba, amelyek a feladatai ellátásához szükséges adatokat tartalmaznak, és feladatai ellátásával kapcsolatosan felvilágosítást kérhet. A jelzálog-hitelintézet e nélkül is köteles a vagyonellenőrt folyamatosan tájékoztatni a fedezet-nyilvántartásba bejegyzett jelzáloghitelek tőke- és kamattörlesztéseiről, valamint a zálogtárgyakat, illetve a pótfedezetet érintő változásokról.
+(9) A vagyonellenőr bármikor betekinthet a jelzálog-hitelintézet olyan könyveibe és egyéb irataiba, amelyek a feladatai ellátásához szükséges adatokat tartalmaznak, és feladatai ellátásával kapcsolatosan felvilágosítást kérhet. A jelzálog-hitelintézet e nélkül is köteles a vagyonellenőrt folyamatosan tájékoztatni a fedezet-nyilvántartásba bejegyzett jelzáloghitelek tőke- és kamattörlesztéseiről, valamint a zálogtárgyakat, illetve a 14. § (1b) bekezdés b)–d) pontjában meghatározott fedezeti eszközöket érintő változásokról.
 
 (10) A vagyonellenőrt a tevékenysége során tudomására jutott tények, adatok, üzleti információk tekintetében – a 17. § (2) bekezdésében meghatározott eset kivételével – titoktartási kötelezettség terheli.
 
@@ -388,7 +388,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 17. § (1) A vagyonellenőr folyamatosan ellenőrzi és a 11. § (3) bekezdésének n) pontja, valamint 18. § (1) bekezdése alapján igazolja:
 
 - a) a jelzáloglevelek előírás szerinti fedezete mindenkori rendelkezésre állását;
-- b) a jelzáloglevelek rendes fedezetét biztosító zálogtárgyak, azok ingatlan-nyilvántartási adatai és hitelbiztosítéki értéke, továbbá a rendes és a pótfedezet fedezet-nyilvántartásba történő bejegyzését.
+- b) a jelzáloglevelek rendes fedezetét biztosító zálogtárgyak, azok ingatlan-nyilvántartási adatai és hitelbiztosítéki értéke, továbbá a fedezetek fedezet-nyilvántartásba történő bejegyzését.
 
 (2) A vagyonellenőr haladéktalanul írásban jelenti a Felügyeletnek, ha a forgalomban lévő jelzáloglevelek fedezete nem felel meg a 14. § (1) bekezdésében előírtaknak.
 
@@ -412,7 +412,7 @@ Az Országgyűlés a gazdasági növekedéshez szükséges hosszú lejáratú k�
 
 19. § A jelzálog-hitelintézet éves jelentésének a Tpt.-ben előírt tartalmi követelményeken túl az alábbiakat is tartalmaznia kell:
 
-- a) a forgalomban levő jelzáloglevelek december 31-i állapot szerinti fedezeti értékeit, a pótfedezet tételes felsorolásával;
+- a) a forgalomban levő jelzáloglevelek december 31-i állapot szerinti fedezeti értékeit, a 14. § (1b) bekezdés b) és c) pontjában meghatározott fedezeti eszközök tételes felsorolásával;
 - b) az olyan végrehajtási árverések számát, amelyek a jelzálog-hitelintézet kérelmére indultak, a befejeződött árverések esetében az árverési eredmény és a még fennállt jelzáloghitel értékkülönbségét;
 - c) a jelzáloghitelezéssel kapcsolatos veszteségek csökkentése, elhárítása érdekében vagy felszámolás, illetve végrehajtás következtében átvett ingatlanok számát, jogi jellegét, illetőleg művelési ágba sorolását;
 - d) a jelzáloghitel-törlesztések összegét.
@@ -454,11 +454,11 @@ napjától kezdődően a jelzálog-hitelintézethez fedezeti gondnokot rendel ki
 
 (3a) A jelzálog-hitelintézettel szembeni felszámolási és szanálási eljárás során a Felügyelet, a szanálási hatóság és a fedezeti gondnok együttműködnek és információt cserélnek különös tekintettel a fedezeti halmazban lévő eszközök értékesítésére.
 
-(4) A jelzáloglevelekből eredő követeléseket a fedezeti gondnok – a felszámolónak történő bejelentésükre tekintet nélkül – a jelzálog-hitelintézet (5) bekezdésben meghatározott vagyontárgyai terhére, a felszámolási eljáráson kívül, a jelzáloglevélben foglalt kamatfizetési és beváltási (törlesztési) időpontokban elégíti ki. A rendes fedezetek nyilvántartásába bejegyzett származtatott (derivatív) ügyletek szerződött partnereit a fedezetbe vont ügyletből eredő követeléseik erejéig a jelzáloglevél-tulajdonosokkal azonos jogok illetik, ezen követeléseik kielégítésére a jelzáloglevelekből eredő követelések kielégítésére irányadó szabályokat értelemszerűen alkalmazni kell.
+(4) A jelzáloglevelekből eredő követeléseket a fedezeti gondnok – a felszámolónak történő bejelentésükre tekintet nélkül – a jelzálog-hitelintézet (5) bekezdésben meghatározott vagyontárgyai terhére, a felszámolási eljáráson kívül, a jelzáloglevélben foglalt kamatfizetési és beváltási (törlesztési) időpontokban elégíti ki. A fedezetek nyilvántartásába bejegyzett származtatott (derivatív) ügyletek szerződött partnereit a fedezetbe vont ügyletből eredő követeléseik erejéig a jelzáloglevél-tulajdonosokkal azonos jogok illetik, ezen követeléseik kielégítésére a jelzáloglevelekből eredő követelések kielégítésére irányadó szabályokat értelemszerűen alkalmazni kell.
 
 (5) Jelzálog-hitelintézet felszámolása vagy szanálása esetén – a fedezeti gondnok díjának, és a jelen bekezdésben meghatározott egyes követelések nyilvántartásával és érvényesítésével, valamint a vagyonellenőr tevékenységével kapcsolatos költségek kiegyenlítését követően – kizárólag a jelzáloglevél-tulajdonosokkal szemben fennálló kötelezettség kielégítésére használható fel
 
-- a) a felszámolása vagy szanálása kezdő időpontjában a fedezet-nyilvántartásba bejegyzett rendes és pótfedezet,
+- a) a felszámolása vagy szanálása kezdő időpontjában a fedezet-nyilvántartásba bejegyzett fedezet,
 - b) a rendes fedezeteknek a 14. § (7) bekezdésében meghatározott mértékét meghaladó, fedezetbe nem vonható hányada, valamint a jelzálog-hitelintézetnek a felszámolás kezdő időpontjában meglévő, de fedezetbe nem vont likvid eszközeinek az a része, amely megfelel a jelen törvény pótfedezetekkel szemben támasztott követelményeinek. Az a) és b) pontban meghatározott fedezeti és likvid eszközök nem képezik a felszámolási vagyon részét.
 
 (6) Ha a jelzáloglevelekből, és a fedezetbe vont származtatott (derivatív) ügyletekből eredő követelések kielégítésére a követelések megnyíltakor a jelzálog-hitelintézet (5) bekezdésben meghatározott vagyontárgyai nem elegendőek, a jelzáloglevelek tulajdonosainak, és a fedezetbe vont származtatott (derivatív) ügyletek szerződött partnereinek követelései a fedezetből követelésük arányában kerülnek kielégítésre. Ha a követelés lejáratakor arányos kielégítés történt, úgy az (5) bekezdésben meghatározott vagyontárgyakból származó későbbi bevételek terhére és erejéig a fedezeti gondnok köteles a ki nem elégített követeléseket – a lejáratok sorrendjében, azonos lejáratú követelések tekintetében követelésarányosan – kifizetni. Késedelmes teljesítés esetén a jelzáloglevél-tulajdonos az érintett jelzáloglevélre vonatkozó kibocsátási feltételekben meghatározott mértékben késedelmi kamatra is jogosult. Az eredeti lejárati időtől kezdődően járó késedelmi kamatot a jelzáloglevelekből eredő tőke- és kamatkövetelések kielégítését követően kell kiegyenlíteni.
@@ -471,7 +471,7 @@ napjától kezdődően a jelzálog-hitelintézethez fedezeti gondnokot rendel ki
 
 (4) A fedezeti gondnok köteles mindent megtenni annak érdekében, hogy a 20. § (5) bekezdésében meghatározott vagyontárgyakból mindenkor biztosított legyen a követelések esedékességkor történő teljes körű kielégítése (fizetőképesség folyamatos fenntartása). Ha ez maradéktalanul nem biztosítható, úgy a fedezeti gondnok úgy köteles eljárni, hogy – a jelzáloglevelek lejárati időpontjától függetlenül – a jelzáloglevél-tulajdonosok kielégítése tőkekövetelésük arányában történjen.
 
-(5) A felszámolás kezdő időpontját követően a 20. § (5) bekezdésében meghatározott vagyontárgyakkal kizárólag a fedezeti gondnok rendelkezhet, ezen vagyontárgyak tekintetében a felszámoló rendelkezése semmis. A jelzáloglevél-tulajdonosok, valamint a rendes fedezetek nyilvántartásába bejegyzett származtatott (derivatív) ügyletek szerződött partnerei valamennyi követelésének kielégítését vagy más jelzálog-hitelintézetre történő átruházását követően a 20. § (5) bekezdésében meghatározott vagyontárgyak a felszámolási vagyonba kerülnek.
+(5) A felszámolás kezdő időpontját követően a 20. § (5) bekezdésében meghatározott vagyontárgyakkal kizárólag a fedezeti gondnok rendelkezhet, ezen vagyontárgyak tekintetében a felszámoló rendelkezése semmis. A jelzáloglevél-tulajdonosok, valamint a fedezetek nyilvántartásába bejegyzett származtatott (derivatív) ügyletek szerződött partnerei valamennyi követelésének kielégítését vagy más jelzálog-hitelintézetre történő átruházását követően a 20. § (5) bekezdésében meghatározott vagyontárgyak a felszámolási vagyonba kerülnek.
 
 (6) A fedezeti gondnok a 3. § (2) bekezdésében felsorolt pénzügyi szolgáltatási, befektetési szolgáltatási, illetve kiegészítő befektetési szolgáltatási tevékenységek végzésére nem jogosult.
 
@@ -553,8 +553,8 @@ napjától kezdődően a jelzálog-hitelintézethez fedezeti gondnokot rendel ki
 
 (3) A Felügyelet a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvényben (a továbbiakban: MNBtv.), a Hpt.-ben és a Tpt.-ben meghatározottakon túlmenően a következő intézkedést és kivételes intézkedést alkalmazhatja:
 
-- a) határidő megjelölése mellett elrendeli a fedezet helyreállítását, ha a forgalomban lévő jelzáloglevelek még nem törlesztett névértékének és kamatának összege meghaladja a fedezet összegét azzal, hogy a fedezet helyreállítása pótfedezet bevonásával, újabb jelzáloghitel kihelyezésével vagy jelzáloglevél visszavásárlásával történhet; és
-- b) a jelzáloglevelekből eredő kötelezettség és a fedezetet képező jelzáloghitel-állomány – ideértve a visszavásárlási vételárból, valamint refinanszírozási hitelből eredő követelésállományt is – továbbá a pótfedezet átruházására kötelezheti a jelzálog-hitelintézetet, ha tőkemegfelelési mutatója – kilencven napot meghaladóan – négy százaléknál alacsonyabb, és azt a Felügyelet által megállapított határidőn belül nem tudják helyreállítani.
+- a) határidő megjelölése mellett elrendeli a fedezet helyreállítását, ha a forgalomban lévő jelzáloglevelek még nem törlesztett névértékének és kamatának összege meghaladja a fedezet összegét azzal, hogy a fedezet helyreállítása a 14. § (1b) bekezdés b)–d) pontjában meghatározott fedezeti eszközök bevonásával, újabb jelzáloghitel kihelyezésével vagy jelzáloglevél visszavásárlásával történhet; és
+- b) a jelzáloglevelekből eredő kötelezettség és a fedezetet képező jelzáloghitel-állomány – ideértve a visszavásárlási vételárból, valamint refinanszírozási hitelből eredő követelésállományt is – továbbá a a 14. § (1b) bekezdés b)–d) pontjában meghatározott fedezeti eszközök átruházására kötelezheti a jelzálog-hitelintézetet, ha tőkemegfelelési mutatója – kilencven napot meghaladóan – négy százaléknál alacsonyabb, és azt a Felügyelet által megállapított határidőn belül nem tudják helyreállítani.
 
 23/A. § Ha a Felügyelet a fedezett kötvényre vonatkozó jogszabályi követelmények megsértése miatt hoz a 23. § szerinti intézkedést, akkor az adott intézkedés alkalmazásánál az MNBtv. 75. § (4) bekezdés a), b), d)–f) és i) pontjában foglaltakra és az alábbiakra van tekintettel:
 
@@ -616,7 +616,7 @@ rendeletben állapítsa meg.
 
 ### Átmeneti rendelkezések
 
-28. § (1) A 2022. július 8. előtt kibocsátott jelzáloglevélre az e törvény 2022. július 7-én hatályos rendelkezései az irányadóak azzal, hogy a jelzáloglevélre nem kell alkalmazni a fedezett kötvények szabályozásával összefüggő, valamint egyéb, a pénzügyi közvetítőrendszert érintő jogharmonizációs célú törvénymódosításokról szóló 2021. évi LVIII. törvénnyel megállapított, e törvény 3. § (10) és (11) bekezdését, 5. § (5), (6), (8) és (9) bekezdését, 14. § (1a), (1b), (1c), (3a), (8) és (16) bekezdését, 14/B. §-át, 14/C. §-át, 22. § (2) bekezdés a) pontját és 22. § (3) bekezdését.
+28. § (1) A 2022. július 8. előtt kibocsátott jelzáloglevélre az e törvény 2022. július 7-én hatályos rendelkezései az irányadóak azzal, hogy a jelzáloglevélre nem kell alkalmazni a fedezett kötvények szabályozásával összefüggő, valamint egyéb, a pénzügyi közvetítőrendszert érintő jogharmonizációs célú törvénymódosításokról szóló 2021. évi LVIII. törvénnyel megállapított 3. § (10) és (11) bekezdést, 5. § (5), (6), (8) és (9) bekezdést, 14. § (1a), (1b), (1c), (3a) és (16) bekezdést, 14/B. §-t, 14/C. §-t, 22. § (2) bekezdés a) pontot és 22. § (3) bekezdést.
 
 (2) Az (1) bekezdés szerinti jelzáloglevél különleges felügyeletére az e törvény 2022. július 7-én hatályos rendelkezései, valamint a 22–23/A. §-ban foglaltak alkalmazandóak.
 
