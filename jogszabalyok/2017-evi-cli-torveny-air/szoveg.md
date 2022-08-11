@@ -1000,7 +1000,7 @@ A közlést hirdetmény útján kell teljesíteni, ha
 
 (4) A kifizetés engedélyezését elutasító és a kifizetést részben engedélyező végzés ellen önálló fellebbezésnek van helye. A kifizetést részben engedélyező végzés az ellene benyújtott fellebbezésre tekintet nélkül végrehajtható.
 
-(5) Az állami adó- és vámhatóság a kifizetést részben vagy teljes egészében engedélyező végzést a kifizetés teljesítése érdekében megküldi az adózó zárolt fizetési számláját vezető pénzforgalmi szolgáltatónak.
+(5) Az állami adó- és vámhatóság a kifizetés engedélyezése esetén haladéktalanul megkeresi az adózó zárolt fizetési számláját vezető pénzforgalmi szolgáltatót a kifizetés teljesítése végett.
 
 (6) Az állami adó- és vámhatóság által engedélyezett kifizetés más követelés fedezetére nem számolható el, továbbá az végrehajtás alól mentes.
 
@@ -1638,6 +1638,12 @@ E törvénynek az egyes adótörvények és más kapcsolódó törvények módos
 (1) Az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvény (a továbbiakban: Módtv.3.) által megállapított 77/A. §-t a 2021. január 1-jén folyamatban lévő eljárásokban is alkalmazni kell.
 
 (2) A Módtv.3. által megállapított 128. § (2a) bekezdését és 133. § (2) bekezdés b) pontját a 2021. január 1-jén vagy azt követően indult és a megismételt eljárásokban kell alkalmazni.
+
+#### 139/D. § [Átmeneti rendelkezés a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló]
+
+2022. évi XXIV. törvényhez]
+
+A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény által megállapított 84. § (5) bekezdését a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 #### 57. Az Európai Unió jogának való megfelelés
 
