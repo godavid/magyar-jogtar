@@ -37,11 +37,9 @@ lép.
 
 #### 6. A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény módosítása
 
-9. § A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 20. §-a a következő (6) bekezdéssel egészül ki:
+9. §
 
-„(6) Az Eximbank esetében a Hpt. 79. § (2) bekezdés b) pontjában, valamint 97. §-ában meghatározottakat nem kell alkalmazni.”
-
-10. § A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény 21. § (2) bekezdésében a „harmincöt” szövegrész helyébe a „hatvan” szöveg lép.
+10. §
 
 #### 7. A Bérgarancia Alapról szóló 1994. évi LXVI. törvény módosítása
 
@@ -140,29 +138,11 @@ lép.
 
 #### 17. A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosítása
 
-36. § A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény 8. § (3) bekezdése a következő j) ponttal egészül ki:
+36. §
 
-(Az MFB Zrt.)
+37. §
 
-„j) üzletviteli, egyéb vezetési tanácsadást vagy egyéb, máshová nem sorolt pénzügyi közvetítést főtevékenységként végző gazdálkodó szervezetben”
-
-(szerezhet vagy tarthat fenn közvetlenül vagy közvetve részesedést.)
-
-37. § A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény
-
-- 1. 2. § h) pontjában a „vállalásában;” szövegrész helyébe a „vállalásában, vissza nem térítendő támogatás nyújtásában;” szöveg,
-- 2. 8. § (2) bekezdésében a „pontjában,” szövegrész helyébe a „pontjában, 97. §-ában,” szöveg,
-- 3. 8. § (3) bekezdés h) pontjában a „szervezetben, valamint” szövegrész helyébe a „szervezetben,” szöveg, és
-- 4. 8. § (3) bekezdés i) pontjában a „kapcsolódik,” szövegrész helyébe a „kapcsolódik, valamint” szöveg
-
-lép.
-
-38. § Hatályát veszti a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény
-
-- 1. 2. § q) pontja,
-- 2.
-- 3. 10/A. § (4) és (5) bekezdésében az „és q)” szövegrész, és
-- 4. 1. melléklet 1. pontja.
+38. §
 
 #### 18. A sportról szóló 2004. évi I. törvény módosítása
 
@@ -594,17 +574,9 @@ lép.
 
 195. §
 
-196. § Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény 84. § (5) bekezdése helyébe a következő rendelkezés lép:
+196. §
 
-„(5) Az állami adó- és vámhatóság a kifizetés engedélyezése esetén haladéktalanul megkeresi az adózó zárolt fizetési számláját vezető pénzforgalmi szolgáltatót a kifizetés teljesítése végett.”
-
-197. § Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény 56. alcíme a következő 139/D. §-sal egészül ki:
-
-„139/D. § [Átmeneti rendelkezés a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló
-
-2022. évi XXIV. törvényhez]
-
-A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény által megállapított 84. § (5) bekezdését a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+197. §
 
 #### 55. Az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény módosítása
 

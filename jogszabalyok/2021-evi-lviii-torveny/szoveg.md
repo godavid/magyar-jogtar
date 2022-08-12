@@ -54,7 +54,9 @@ a fedezett kötvények szabályozásával összefüggő, valamint egyéb, a pén
 
 24. §
 
-25. §
+25. § A Tpt. 68. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Nem kell az (1)–(4) bekezdés rendelkezéseit alkalmazni abban az esetben, ha az (1) bekezdésben meghatározott mértékű befolyásszerzésre a Szantv. keretében alkalmazható szanálási intézkedések vagy hatáskörök, vagy a központi szerződő felek helyreállítására és szanálására irányuló keretrendszerről, továbbá az 1095/2010/EU, a 648/2012/EU, a 600/2014/EU, a 806/2014/EU és az (EU) 2015/2365 rendelet, valamint a 2002/47/EK, a 2004/25/EK, a 2007/36/EK, a 2014/59/EU és az (EU) 2017/1132 irányelv módosításáról szóló, 2020. december 16-i (EU) 2021/23 európai parlamenti és tanácsi rendelet V. címében előírt szanálási eszközök, hatáskörök és mechanizmusok alkalmazásával kerül sor.”
 
 26. §
 
@@ -318,7 +320,7 @@ a fedezett kötvények szabályozásával összefüggő, valamint egyéb, a pén
 
 #### 8. A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény módosítása
 
-122. §
+122. § A páneurópai egyéni nyugdíjtermék (PEPP) szolgáltatására és forgalmazására e törvény rendelkezéseit az (EU) 2019/1238 európai parlamenti és tanácsi rendeletben és a foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény VI. Fejezetében foglalt eltérésekkel kell alkalmazni.”
 
 123. §
 

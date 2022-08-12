@@ -15,7 +15,7 @@ Az Országgyűlés a pénzügyi stabilitás fenntartása, a pénzügyi szektor �
 - c) az olyan magyarországi székhelyű pénzügyi vállalkozásra, amelyre az összevont alapú felügyelet kiterjed, amennyiben intézmény vagy b) pont szerinti vállalat leányvállalata, valamint
 - d) a harmadik országban székhellyel rendelkező intézmény magyarországi fióktelepére.
 
-(2) E törvény hatálya nem terjed ki a Magyar Fejlesztési Bank Zrt.-re és a Magyar Export-Import Bank Zrt.-re.
+(2) E törvény hatálya nem terjed ki az MFB Magyar Fejlesztési Bank Zrt.-re, a Magyar Export-Import Bank Zrt.-re, valamint a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-i 648/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 648/2012/EU rendelet) 14. cikkének megfelelően is engedélyezett szervezetre.
 
 (3)
 
