@@ -8,7 +8,7 @@ Az Alaptörvény 45. cikk (1) bekezdésében foglalt alapvető feladatok megval�
 
 #### 1. A törvény hatálya, értelmező rendelkezések
 
-1. § (1) E törvény hatálya a hivatásos és a szerződéses állományú katonákra (a továbbiakban együtt: állomány tagja), a tényleges szolgálatot teljesítő önkéntes tartalékos katonákra, a honvéd tisztjelöltekre, és a honvéd altiszt-jelöltekre terjed ki.
+1. § (1) E törvény hatálya a hivatásos és a szerződéses állományú katonákra (a továbbiakban együtt: állomány tagja), a tényleges szolgálatot teljesítő önkéntes tartalékos katonákra és a honvéd altiszt-jelöltekre terjed ki.
 
 (2) E törvény hatálya
 
@@ -41,7 +41,7 @@ akkor terjed ki, ha ezt e törvény elrendeli.
 - 9. gyermekét egyedül nevelő: az állomány azon tagja, aki gyermekét saját háztartásában neveli és hajadon, nőtlen, özvegy, elvált, házastársától külön él, vagy nincs élettársa,
 - 10. hivatásos állomány tagja: az állomány azon tagja, aki élethivatásként, határozatlan időre vállalja a katonai szolgálatot,
 - 11. honvéd altiszt-jelölt: az iskolarendszerű nappali tagozatos katonai szakképzésre felvételt nyert személy, aki annak időtartama alatt tanulói jogviszonyban és altiszt-jelölti szolgálati viszonyban áll,
-- 12. honvéd tisztjelölt: a honvédtiszti alapképzésre felvételt nyert személy, aki annak időtartama alatt hallgatói jogviszonyban és tisztjelölti szolgálati viszonyban áll,
+- 12. honvéd tisztjelölt: a honvédtiszti alapképzésre felvételt nyert személy, aki a képzés időtartama alatt hallgatói jogviszonyban és a XX. Fejezetben meghatározottak szerinti szerződéses szolgálati viszonyban áll,
 - 12a. honvédelmi illetményalap: az évente, a központi költségvetésről szóló törvényben megállapított honvédelmi illetményalap, amely nem lehet alacsonyabb összegű az előző évi honvédelmi illetményalapnál,
 - 12b. honvédségi ösztöndíjas hallgató: az állomány tagjának, honvéd tisztjelöltnek és honvéd altiszt-jelöltnek, valamint honvédelmi alkalmazottnak nem minősülő személy,
   - a) aki: aa) felsőoktatási intézmény nappali munkarendű felsőfokú alapképzésében, mesterképzésében vagy osztatlan képzésében tanulmányokat folytat, vagy iskolai rendszerű, nappali munkarendű szakképzés keretében a szakmajegyzékben szereplő államilag elismert szakképesítések közül honvédelmi szervezetnél rendszeresített katonai beosztások betöltéséhez szükséges szakképesítést szerez meg, vagy ab) iskolarendszerű, esti, levelező munkarendű vagy távoktatásos formában szakképzés keretében a szakmajegyzékben szereplő államilag elismert szakképesítések közül honvédelmi szervezetnél rendszeresített katonai beosztások betöltéséhez szükséges és az adott ösztöndíjprogram szerinti hiányszakmára képesítést szerez, és
@@ -440,7 +440,7 @@ akkor terjed ki, ha ezt e törvény elrendeli.
 
 32. § (1) Hivatásos szolgálati viszony létesíthető
 
-- a) a honvéd tisztjelölttel,
+- a)
 - b) a honvéd altiszt-jelölttel,
 - c) a legénységi állomány azon tagjával, aki a honvédelmi szervezet által szervezett, kizárólag katonai munkakör betöltésére jogosító honvéd altiszt-képzést eredményesen befejezte, vagy
 - d) a szerződéses szolgálati viszonyban, önkéntes tartalékos szolgálati viszonyban, honvédelmi szervezetnél kormányzati szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, közalkalmazotti jogviszonyban vagy munkaviszonyban álló személlyel,
@@ -3334,7 +3334,7 @@ különbözetének megtérítése iránti igényt.
 
 (5) A miniszter rendeletben határozza meg a külföldi szolgálatra tekintettel adható juttatások azon körét, amelynek mértéke vagy megállapításának, illetve folyósításának rendje tekintetében a KNBSZ főigazgatója saját hatáskörben határozhatja meg a KNBSZ tartós külföldi szolgálatot teljesítő állományára vonatkozó szabályokat.
 
-(6) Az (1) és a (2) bekezdés a hazai ösztöndíján felül a honvéd tisztjelöltre és a honvéd altiszt-jelöltre is irányadó. Ettől eltérően a pályázati forrásból finanszírozott külföldi képzés esetén a honvéd tisztjelölt a hazai ösztöndíjára jogosult, továbbá részére a kiküldő a rendelkezésére álló pályázati forrás terhére további juttatásokat állapíthat meg.
+(6) Az (1) és a (2) bekezdés a honvéd tisztjelöltre és a honvéd altiszt-jelöltre is irányadó. Ettől eltérően a pályázati forrásból finanszírozott külföldi képzés esetén a honvéd tisztjelölt a hazai illetményére jogosult, továbbá részére a kiküldő a rendelkezésére álló pályázati forrás terhére további juttatásokat állapíthat meg.
 
 #### 118. A XIII. és a XIV. Fejezethez kapcsolódó rendelkezések
 
@@ -3397,7 +3397,7 @@ különbözetének megtérítése iránti igényt.
 
 215. § (1) Megszűnik az önkéntes tartalékos szolgálati viszony akkor is, ha
 
-- a) az önkéntes tartalékos katona hivatásos, szerződéses, honvéd tisztjelölt vagy honvéd altiszt-jelölt szolgálati viszonyt létesít,
+- a) az önkéntes tartalékos katona hivatásos, szerződéses vagy honvéd altiszt-jelölt szolgálati viszonyt létesít,
 - b) az önkéntes tartalékos katona miniszteri rendeletben meghatározott más típusú önkéntes tartalékos szolgálati viszonyt létesít,
 - c) az önkéntes tartalékos katona meghagyásban részesülő munkakörbe kerül, kivéve, ha a miniszter kormányrendeletben meghatározottak szerint hozzájárulását adja az önkéntes tartalékos szolgálati viszonyának fenntartásához,
 - d) az önkéntes tartalékos katona nem felel meg a nemzetbiztonsági ellenőrzésnek, vagy az ehhez szükséges biztonsági, illetve hozzájáruló nyilatkozatot határidőben nem tette meg, vagy,
@@ -3545,86 +3545,91 @@ jogosult.
 
 #### 128. Általános rendelkezések
 
-225. § (1) A honvéd tisztjelöltekre e törvény állomány tagjára vonatkozó rendelkezéseit az e Fejezetben foglalt eltérésekkel, megfelelően kell alkalmazni.
+225. § (1) A honvéd tisztjelölt elsődleges szolgálati kötelezettsége a katonatiszti életpályára történő felkészülés. A honvéd tisztjelölt szerződéses szolgálati viszonyban teljesít katonai szolgálatot, amelyben mindkét felet jogszabályban és a szerződésben meghatározott kötelezettségek terhelik, és jogosultságok illetik meg.
 
-(2) Nem alkalmazható a 33. § (3) bekezdése, a 34. és 35. §, a 38. § (1), (2) és (6) bekezdése, a 39. §, a 40. § (2) bekezdése, a 41. § (1)–(4) bekezdése, a 42. § (1) bekezdése, 42. § (2) bekezdés b)–e) pontja, 42. § (3) bekezdése, 43–58/A. §, az 59. § (1) bekezdés d) és e) pontja, (2) bekezdés b) és c) pontja, a 61. § (1), (2) és (5) bekezdése, a 62–67. §, a 68. § (1) bekezdés a), b), g)–k), n) és o) pontja, a 68/A–68/J. §, a 69. §, a 70. § (3) bekezdése, a 71. és 73–76. §, a 77. § (4) bekezdése, a 83–87. §, a 91. §, a 94–101. §, a 103–104. §, a 108. § (1) bekezdés g), j) és k) pontja, a 109–113. §, a 115–118. §, a 119. § (1)–(2) bekezdése, a 120–128. §, a 132. §, a 132/B–138. §, a 140. § (2) bekezdés a)–d) és h) pontja, (4) és (5) bekezdése, a 140/C. §, a 142–144/B. §.
+(2) A honvéd tisztjelöltekre e törvény állomány tagjára vonatkozó rendelkezéseit az e Fejezetben foglalt eltérésekkel kell alkalmazni.
 
-(2a) A 42. § (2) bekezdés g) pontja a honvéd tisztjelöltre miniszteri rendeletben meghatározott esetekben alkalmazható.
+(3) Nem alkalmazható a 33. § (3) bekezdése, a 34. §, a 35. § (2), (3), (5) bekezdése, a 38. § (1), (2), (6), (9), (10) bekezdése, a 39. §, a 40. § (2) bekezdése, a 42. § (1) bekezdése, (2) bekezdés b)–e) pontja, (3) bekezdése, a 43–45. §, a 46. § (1) bekezdés a)–i) és k)–v) pontja, (2)–(5) bekezdése, a 47–57. §, az 58/A–58/E. §, az 59. § (1) bekezdés d) pontja, (2) bekezdés c) pontja, a 62. § (1) bekezdése, (2) bekezdés c) és f)–g) pontja, (2a)–(7) bekezdése, a 63–66. §, a 67. § (1) bekezdés e)–i) pontja, a 68. § (1) bekezdés a), b), g) és h), pontja, a 69. §, a 70. § (3) bekezdése, a 76. §, a 83–87. §, a 88. § (2) bekezdése, a 94–101. §, a 103–104. §, a 107. §, a 108. § (1) bekezdés j) és k) pontja, a 109–113. §, a 117. § (3) bekezdése, a 122. § (1)–(2) és (6) bekezdése, a 123–128. §, a 134. és 134/A. §, a 135. § (1) bekezdés d) pontja, (2) bekezdése, a 137. § és a 138. §, a 140. § (4) bekezdése, a 140/C. §.
 
-(2b) A 140. § (2) bekezdés h) pontja a honvéd tisztjelöltre utolsó tanéve megkezdése évének július 1-jétől alkalmazható.
+(4) A 140. § (2) bekezdés h) pontja a honvéd tisztjelöltre utolsó tanéve megkezdése évének július 1. napjától alkalmazható.
 
-(3) A honvéd tisztjelölt tisztjelölti szolgálati viszonyban teljesít katonai szolgálatot, amelyben mindkét felet jogszabályban és a felek által kötött ösztöndíjszerződésben meghatározott kötelezettségek terhelik, és jogosultságok illetik meg. A honvéd tisztjelölt elsődleges szolgálati kötelezettsége a választott tiszti katonai életpályára történő felkészülés.
+#### 129. Az V. Fejezethez kapcsolódó rendelkezések
 
-#### 129. A II. Fejezethez kapcsolódó rendelkezések
+226. § (1) A honvédtiszti alapképzésre felvételt nyert személy a Magyar Honvédséggel a képzés időtartamára e Fejezet szerinti szerződéses szolgálati viszonyt létesít. A képzés befejezését követően a szerződése további 10 évvel meghosszabbodik azzal, hogy a képzés befejezésétől az állomány tagjára a szerződéses szolgálati viszonyra vonatkozó általános szabályok vonatkoznak.
 
-226. § A honvéd tisztjelölt képviseletében a kari hallgatói önkormányzat is eljárhat.
+(2) A honvéd tisztjelölt az állományba vétellel vállalja, hogy honvédtiszti tanulmányait a legjobb képességei szerint folytatja, a tanulmányai befejezését követően honvédelmi szervezetnél kötelezően szolgálati viszonyban töltött időként legalább 10 év időtartamú szolgálatot teljesít, ide nem értve az önkéntes tartalékos szolgálatot. A Magyar Honvédség azt vállalja, hogy a honvéd tisztjelölt honvédtiszti tanulmányait támogatja, ezek sikeres befejezését követően tiszti állományba veszi, és megfelelő szolgálati beosztásban foglalkoztatja.
 
-#### 130. Az V. Fejezethez kapcsolódó rendelkezések
+(3) A honvéd tisztjelölt a képzési követelményt az adott szakra vonatkozó, jogszabályban meghatározott képzési idő alatt köteles teljesíteni. A hallgatói jogviszony szünetelésének időtartama a képzési időbe nem számít bele.
 
-227. § (1) A honvédtiszti alapképzésre felvételt nyert személy az ösztöndíjszerződés megkötésével honvéd tisztjelölti állományba kerül. Honvédtiszti alapképzésben ösztöndíjszerződés megkötése nélkül hallgatói jogviszony nem létesíthető, és nem tartható fenn.
+(4) A honvéd tisztjelölt részére a szerződést és a munkaköri leírását legkésőbb a szolgálatteljesítés első napján át kell adni.
 
-(2) A tisztjelölti szolgálati viszony létesítésének további feltétele, hogy a honvéd tisztjelölttel szemben hallgatói jogviszonyt kizáró körülmény nem áll fenn. Nem köthető ösztöndíjszerződés azzal, akinek ösztöndíjas hallgatói jogviszonya vagy tisztjelölti szolgálati viszonya kizárás-fenyítés jogerős kiszabásával, lemondással, tanulmányi kötelezettség önhibából történő elmulasztása miatt vagy méltatlanság jogerős megállapításával szűnt meg.
+(5) A honvéd tisztjelölt a beiratkozást követően köteles a Magyar Honvédségnél előírt alapkiképzést végrehajtani.
 
-(3) Az ösztöndíjszerződést, és annak módosítását írásba kell foglalni. A honvéd tisztjelölt az ösztöndíjszerződés megkötésével vállalja, hogy honvédtiszti tanulmányait legjobb képességei szerint folytatja, és hivatásos állományba vételét követően, legalább a honvédtiszti alapképzés kétszeresének megfelelő időtartamban a honvédelmi szervezetnél szolgálatot teljesít. A honvédelmi szervezet azt vállalja, hogy a honvéd tisztjelölt honvédtiszti tanulmányait támogatja, ezek befejezését követően hivatásos állományba veszi, és megfelelő szolgálati beosztásban foglalkoztatja.
+(6) A honvéd tisztjelölt esetében a szerződéses szolgálati viszony létesítésekor hat hónap próbaidőt kell kikötni.
 
-(4) A honvéd tisztjelölt a beiratkozást követő egy félév időtartamban katonai alapfelkészítésen vesz részt. A katonai alapfelkészítés megkezdése előtt a honvéd tisztjelölt honvéd esküt tesz.
+(7) A 35. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a honvéd tisztjelöltet az állományba vételi szerződésben első hallgatói rendfokozatába kell kinevezni.
 
-(5) Az ösztöndíjszerződésben a katonai alapfelkészítést tartalmazó félév idejére próbaidőt kell kikötni. A próbaidő alatt a tisztjelölti szolgálati viszonyt bármelyik fél indokolás nélkül, azonnali hatállyal megszüntetheti. A próbaidő alatt meg kell szüntetni a tisztjelölti szolgálati viszonyát annak, aki a katonai alapfelkészítést önhibájából nem teljesíti, vagy a nemzetbiztonsági követelményeknek nem felel meg.
+(8) Ha a honvédtiszti alapképzésre felvételt nyert személy a hivatásos vagy a szerződéses állomány tagja, akkor a hivatásos vagy szerződéses szolgálati viszonya az e Fejezet szerinti szerződéses viszony létesítésével megszűnik, az addig megszerzett rendfokozatát elveszti, és vele az (1) bekezdés szerint kell szerződéses szolgálati viszonyt létesíteni. Az állomány tagjának szolgálati viszonyát ebben az esetben folyamatosnak kell tekinteni.
 
-(6) A korábban folytatott katonai felsőfokú tanulmányok elismerésével megkötött ösztöndíjszerződésben – amennyiben a honvéd tisztjelölt ismételt katonai alapfelkészítésére nem kerül sor – 6 hónap próbaidőt kell kikötni.
+#### 130. A VII. Fejezethez kapcsolódó rendelkezések
 
-#### 131. A VII. Fejezethez kapcsolódó rendelkezések
+227. § (1) A honvéd tisztjelölt számára jogszabályban nem meghatározott további tanulmányi vagy képzési kötelezettség írható elő a szerződésében.
 
-228. § (1) A tisztjelölti szolgálati viszony közös megegyezéssel történő megszüntetésének minősül, ha a 229. § (1) bekezdés szerinti engedélyt a munkáltatói jogkört gyakorló megadja. Ennek hiányában, ha az érintett a tisztjelölti szolgálati viszonyát nem kívánja fenntartani, a (2) bekezdés rendelkezéseit kell alkalmazni.
+(2) A honvéd tisztjelölt felmentési ideje 1 hónap. A honvéd tisztjelölt és a munkáltatói jogkört gyakorló ennél rövidebb felmentési időben is megállapodhat.
 
-(2) A 61. § (3) bekezdése szerinti időszak kivételével a honvéd tisztjelölt a tisztjelölti szolgálati viszonyát egyoldalú jognyilatkozattal megszüntetheti. Ha a honvéd tisztjelölt kérelmére a felek rövidebb határidőben nem állapodnak meg, a tisztjelölti szolgálati viszony a jognyilatkozat közléstől számított 30 nap elteltével – a munkáltatói jogkört gyakorló külön intézkedése nélkül – megszűnik.
+(3) A honvéd tisztjelölt szolgálati viszonya a 68. §-ban foglaltak mellett megszűnik a kizárás fenyítés jogerőre emelkedésével.
 
-(3) A munkáltatói jogkört gyakorló a tisztjelölti szolgálati viszonyt egyoldalú jognyilatkozattal megszüntetheti, ha a honvéd tisztjelölt határidőn belül önhibájából nem tesz eleget az ösztöndíjszerződésben előírt kötelezettségeinek, vagy ha egészségi, pszichikai vagy fizikai állapota miatt, vagy nemzetbiztonsági szempontból a szolgálatra alkalmatlanná vált. Ha e törvény eltérően nem rendelkezik, a tisztjelölti szolgálati viszony a jognyilatkozat közlésétől számított 30. nap elteltével megszűnik. A tisztjelölt és a munkáltatói jogkört gyakorló közös megegyezéssel korábbi időpontban is megállapodhatnak.
+(4) Ha a honvéd tisztjelölt szolgálati viszonya a képzés időtartama alatt, illetve ha az állomány tagjának a szolgálati viszonya a 226. § (2) bekezdése szerinti 10 éves határozott idejű szolgálata alatt miniszteri rendeletben meghatározott okból szűnik meg, a honvéd tisztjelöltnek, illetve az állomány tagjának miniszteri rendeletben meghatározott visszafizetési kötelezettsége keletkezik. A visszafizetési kötelezettség a szolgálati viszony megszűnését követő naptól esedékes.
 
-(4) A tisztjelölti szolgálati viszony e törvény erejénél fogva szűnik meg
+(5) A visszafizetési kötelezettség részbeni vagy teljes megfizetése alól a miniszter – miniszteri rendeletben meghatározott rendben – a honvéd tisztjelöltet kérelmére, különös méltánylást érdemlő körülményeire figyelemmel mentesítheti.
 
-- a) kizárás fenyítés jogerőre emelkedésével,
-- b) a hallgatói jogviszony megszűnésének napján, kivéve, ha a hallgatói jogviszony a felsőfokú végzettséget tanúsító oklevél kiállításának napján szűnik meg,
-- c) a tiszti állományba vétellel, vagy
-- d) az altiszti állományba vétellel.
+228. § (1) Az a honvéd tisztjelölt, aki a tanulmányi és vizsgaszabályzatban, illetve a tantervben rögzített, a tanulmányokban való előrehaladással kapcsolatos kötelezettségeit nem teljesíti, vagy aki a hallgatói jogviszonyát megszünteti,
 
-(5) A tisztjelölti szolgálati viszony megszűnésének napján – a munkáltatói jogkört gyakorló külön intézkedése nélkül – az ösztöndíjszerződés hatályát veszti. A tisztjelölti szolgálati viszony megszűnésekor, megszüntetésekor a honvéd tisztjelölt köteles a honvédelmi szervezettel elszámolni.
+- a) a második évfolyam sikeres befejezését megelőzően legénységi állományban, őrvezető kezdő rendfokozattal,
+- b) a második évfolyam sikeres befejezését követően altiszti állományban, őrmester kezdő rendfokozattal
 
-(6) Ha a tisztjelölti szolgálati viszony a honvéd tisztjelöltnek felróható okból szűnik meg, a honvéd tisztjelölt a képzés költségeit miniszteri rendeletben meghatározottaknak megfelelően köteles megtéríteni. A megtérítési kötelezettség a tisztjelölti szolgálati viszony megszűnését követő naptól esedékes.
+a 226. § (1) és (2) bekezdése szerint teljesíti a továbbiakban a szerződéses katonai szolgálatát.
 
-229. § (1) A honvéd tisztjelölt kérelmére a munkáltatói jogkört gyakorló a szolgálat érdekére, vagy a honvéd tisztjelölt különös méltánylást érdemlő egyéni érdekére tekintettel miniszteri rendeletben meghatározottak szerint engedélyezheti az altiszti, vagy a legénységi állományba vételt, továbbá azt, hogy a honvéd tisztjelölt tanulmányait honvéd altiszt-jelöltként folytathassa.
+(2) Az (1) bekezdés szerinti honvéd tisztjelölt esetében a 226. § (2) bekezdése szerint vállalt idő a hallgatói jogviszony megszűnésétől számítandó. A honvéd tisztjelölt részére az (1) bekezdés a) vagy b) pontja szerinti rendfokozatának megfelelő szolgálati beosztást kell biztosítani.
 
-(2) A honvéd tisztjelöltek esetében a tanulmányok honvéd altiszt-jelöltként való folytatására csak az egységes alapkiképzés befejezéséig van lehetőség.
+(3) Nem kell biztosítani a honvéd tisztjelölt számára a foglalkoztatást az (1) bekezdés szerint, ha a hallgatói jogviszonya az e Fejezet szerinti szerződéses szolgálati viszony próbaideje alatt szűnik meg, valamint ha a hallgatói jogviszonya az alapfelkészítés teljesítésének hiányában szűnik meg.
 
-#### 132. A VI., a VIII. és a IX. Fejezethez kapcsolódó rendelkezések
+(4) A honvéd tisztjelölt kérelmére a munkáltatói jogkört gyakorló a szolgálat érdekére, vagy a tisztjelölt különös méltánylást érdemlő egyéni érdekére tekintettel engedélyezheti az (1) bekezdés szerinti legénységi vagy altiszti állományba vételt. Ez az állománykategória-váltás nem érinti azt, hogy az állomány tagja a tanulmányai befejezését követően honvédelmi szervezetnél a 226. § (2) bekezdése szerint legalább 10 év időtartamú szolgálatot köteles teljesíteni.
 
-230. § (1) A honvéd tisztjelölt az MH Ludovika Zászlóalj (a továbbiakban: Zászlóalj) tisztjelölti szolgálati beosztásában rendfokozat nélkül teljesít szolgálatot.
+(5) Az (1) és (4) bekezdés szerinti állománycsoport-váltás nem mentesíti az állomány tagját a 226. § (2) bekezdésben vállalt szolgálati idő letöltése, valamint a 227. § (4) bekezdése szerinti visszafizetési kötelezettség alól.
 
-(2) A katonai érintkezés során a honvéd tisztjelöltet az alapfelkészítést követően az első évfolyamon őrmesteri, a másodikon törzsőrmesteri, a harmadikon főtörzsőrmesteri, a negyedik évfolyamon zászlósi rendfokozathoz kapcsolódó, a szolgálati szabályzatban rögzített kötelességek terhelik, és – ide nem értve a járandóságokat – jogok illetik meg.
+#### 131. A VI., a VIII. és a IX. Fejezethez kapcsolódó rendelkezések
 
-(3) A honvéd tisztjelölt szolgálatteljesítése kiképzési időnek minősül, melyet úgy kell megállapítani, hogy az a honvéd tisztjelölt tanulmányi kötelezettségeinek teljesítését ne veszélyeztesse. A honvéd tisztjelölt laktanyai elhelyezésre jogosult és kötelezett.
+229. § (1) A honvéd tisztjelölt rendfokozata
 
-(4) A honvéd tisztjelölt hallgatói jogviszonyának szünetelése a tisztjelölti szolgálati viszonyának fennállását nem érinti. A honvéd tisztjelölt a munkáltatói jogkört gyakorlótól kérheti, hogy a hallgatói jogviszonya szüneteltetésével egyidejűleg különös méltánylást érdemlő egyéni érdekére tekintettel a tisztjelölti szolgálati viszony szünetelését engedélyezze.
+- a) az állományba vétel napjától hallgató őrmester,
+- b) a második évfolyam megkezdése évének augusztus 20. napjától hallgató törzsőrmester,
+- c) a harmadik évfolyam megkezdése évének augusztus 20. napjától hallgató főtörzsőrmester,
+- d) a negyedik évfolyam megkezdése évének augusztus 20. napjától hallgató zászlós.
 
-(5) A honvéd tisztjelölt kizárólag a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló törvényben meghatározott szolgálati feladat ellátására vezényelhető, továbbá rajparancsnoki vagy szakaszparancsnoki gyakorló feladatok ellátására kijelölhető.
+(2) A honvéd tisztjelölt rendfokozati jelzése az őrmesteri, törzsőrmesteri, főtörzsőrmesteri és zászlósi rendfokozati jelzéseknek a hallgatói jogállásra utaló megkülönböztető jelzéssel ellátott változata.
 
-#### 133. A X. és a XI. Fejezethez kapcsolódó rendelkezések
+(3) A honvéd tisztjelölt szolgálatteljesítése kiképzési időnek minősül, amelyet úgy kell megállapítani, hogy az a honvéd tisztjelölt tanulmányi kötelezettségeinek teljesítését ne veszélyeztesse. A honvéd tisztjelölt laktanyai elhelyezésre jogosult és kötelezett.
 
-231. § (1) Ha e törvény eltérően nem rendelkezik, a honvéd tisztjelölt havonta a honvédelemért felelős miniszter rendeletében meghatározottak szerinti ösztöndíjra jogosult. Az ösztöndíjra az illetményfolyósítás és a visszatartás szabályait megfelelően alkalmazni kell.
+(4) A honvéd tisztjelölt hallgatói jogviszonyának szünetelése a szerződéses szolgálati viszonyának fennállását nem érinti. A hallgatói jogviszony szünetelése alatt a honvéd tisztjelölt honvédelmi szervezethez szolgálatteljesítésre és szakmai tapasztalatszerzésre, továbbá külföldi képzésre, kiképzésre vezényelhető.
 
-(2) Nem jogosult ösztöndíjra a honvéd tisztjelölt, ha a honvéd tisztjelölti szolgálati viszonya szünetel, valamint ha jogellenesen távol van.
+(5) A honvéd tisztjelölt az oktatási szünet időtartamára – a kötelező gyakorlat, kiképzés és a (4) bekezdés szerinti vezénylés kivételével – mentesül a szolgálatteljesítési és rendelkezésre állási kötelezettség alól.
 
-(3) A honvéd tisztjelölt miniszteri rendeletben meghatározottak szerint laktanyai elhelyezésre, térítésmentes élelmezési, ruházati ellátásra, tanszertámogatásra, ezen túlmenően egyes költségtérítésre és szociális juttatásokra jogosult.
+#### 132. A X. és a XI. Fejezethez kapcsolódó rendelkezések
 
-#### 134. A XIII. és a XIV. Fejezethez kapcsolódó rendelkezések
+230. § (1) A honvéd tisztjelölt havonta a miniszter rendeletében meghatározottak szerinti illetményre jogosult. Az illetmény alapilletményből és tanulmányi díjból, valamint illetménypótlékból áll. Az alapilletmény legalább a garantált bérminimumnak megfelelő összeg. Az alapilletmény évfolyamonkénti eltérő mértékét, a tanulmányi díj mértékét és az illetménypótlék összegét a miniszter rendeletben állapítja meg.
 
-232. § (1) Ha a honvéd tisztjelölt a tisztjelölti szolgálati viszonyából, vagy a hallgatói jogviszonyából eredő kötelezettségét vétkesen megszegi, fegyelemsértést követ el. A honvéd tisztjelölttel szemben fenyítésként a 147. § (1) bekezdés a)–c) pontja és a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 55. § (2) bekezdés c) és e) pontja szerinti fegyelmi büntetés szabható ki azzal, hogy a c) pont szerint az ösztöndíj legfeljebb 5 hónapra 10–50%-kal csökkenthető. Az elévülésre a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 55. § (4) bekezdését kell alkalmazni.
+(2) Az (1) bekezdés szerinti illetményen felül a honvéd tisztjelöltet megillető egyéb juttatásokat miniszteri rendelet állapítja meg.
 
-(2) A honvéd tisztjelölt beosztásából – tanulmányok folytatásától való eltiltás nélkül – legfeljebb a büntető-, a fegyelmi-, és a méltatlansági eljárás jogerős befejezéséig akkor függeszthető fel, ha a szolgálati helytől távoltartása az általa elkövetett cselekmény súlya vagy jellege miatt indokolt.
+#### 133. A XIII. és a XIV. Fejezethez kapcsolódó rendelkezések
 
-(3) A honvéd tisztjelölt kártérítési felelőssége kiterjed a tisztjelölti szolgálati viszonyából, és a hallgatói jogviszonyából eredő kötelezettségének vétkes megszegésével okozott kár megtérítésére is.
+231. § (1) A honvéd tisztjelölttel szemben a 147. § (1) bekezdés a)–d) és f) pontja szerinti fenyítés szabható ki azzal, hogy a 147. § (1) bekezdés c) pontja szerint a távolléti díjba tartozó illetményelemek együttes összege legfeljebb 5 hónapra, legfeljebb 20%-kal csökkenthető.
 
-(4) A fegyelmi és a kártérítési eljárás jogszabályban nem szabályozott kérdéseiben az NKE fegyelmi és kártérítési szabályzatának rendelkezéseit kell alkalmazni.
+(2) A honvéd tisztjelölt beosztásából – tanulmányok folytatásától való eltiltás nélkül – legfeljebb a büntető-, a fegyelmi és a méltatlansági eljárás jogerős befejezéséig akkor függeszthető fel, ha a szolgálati helytől távoltartása az általa elkövetett cselekmény súlya vagy jellege miatt indokolt.
+
+#### 134.
+
+232. §
 
 ### XXI. Fejezet — A HONVÉD ALTISZT-JELÖLTEKRE VONATKOZÓ KÜLÖN SZABÁLYOK
 
@@ -3632,7 +3637,7 @@ jogosult.
 
 233. § (1) A honvéd altiszt-jelöltekre e törvény állomány tagjára és a honvéd tisztjelöltre vonatkozó rendelkezéseit az e Fejezetben foglalt eltérésekkel, megfelelően kell alkalmazni.
 
-(2) Nem alkalmazható a 33. § (3) bekezdése, a 34. és 35. §, a 38. § (1), (2) és (6) bekezdése, a 39. §, a 40. § (2) bekezdése, a 41. § (1)–(4) bekezdése, a 42. § (1) bekezdése, 42. § (2) bekezdés b)–f) pontja, 42. § (3) bekezdése, 43–58/A. §, az 59. § (1) bekezdés d) és e) pontja, (2) bekezdés b) és c) pontja, a 61. § (1), (2) és (5) bekezdése, a 62–67. §, a 68. § (1) bekezdés a), b), g)–k), n) és o) pontja, a 68/A–68/J. §, a 69. §, a 70. § (3) bekezdése, a 71. és 73–76. §, a 77. § (4) bekezdése, a 83–87. §, a 88. § (1)–(4) és (5) bekezdése, a 89–91. §, a 94–101. §, a 103–104. §, a 108. § (1) bekezdés g), j) és k) pontja, a 109–113. §, a 115–118. §, a 119. § (1)–(2) bekezdése, a 120–128. §, a 132. §, a 132/B–138. §, a 140. § (2) bekezdés a)–d) és h) pontja, (4) és (5) bekezdése, a 140/C. §, a 142–144/B. §, a 232. § (4) bekezdése.
+(2) Nem alkalmazható a 33. § (3) bekezdése, a 34. és 35. §, a 38. § (1), (2) és (6) bekezdése, a 39. §, a 40. § (2) bekezdése, a 41. § (1)–(4) bekezdése, a 42. § (1) bekezdése, 42. § (2) bekezdés b)–f) pontja, 42. § (3) bekezdése, 43–58/A. §, az 59. § (1) bekezdés d) és e) pontja, (2) bekezdés b) és c) pontja, a 61. § (1), (2) és (5) bekezdése, a 62–67. §, a 68. § (1) bekezdés a), b), g)–k), n) és o) pontja, a 68/A–68/J. §, a 69. §, a 70. § (3) bekezdése, a 71. és 73–76. §, a 77. § (4) bekezdése, a 83–87. §, a 88. § (1)–(4) és (5) bekezdése, a 89–91. §, a 94–101. §, a 103–104. §, a 108. § (1) bekezdés g), j) és k) pontja, a 109–113. §, a 115–118. §, a 119. § (1)–(2) bekezdése, a 120–128. §, a 132. §, a 132/B–138. §, a 140. § (2) bekezdés a)–d) és h) pontja, (4) és (5) bekezdése, a 140/C. §, a 142–144/B. §.
 
 (3) A 140. § (2) bekezdés h) pontja a honvéd altiszt-jelöltre utolsó tanéve megkezdése évének július 1-jétől alkalmazható.
 
@@ -3646,9 +3651,9 @@ jogosult.
 
 235. § (1) A nemzeti köznevelésről szóló törvény szerinti szolgálatra alkalmasság magában foglalja az egészségi, pszichikai és fizikai alkalmasságának szabályairól szóló rendeletben előírt alkalmassági követelményeknek megfelelést, valamint a nemzetbiztonsági szempontú alkalmasságot.
 
-(2) A 227. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a katonai alapfelkészítés 3 hónap.
+(2) A 226. § (5) bekezdését azzal az eltéréssel kell alkalmazni, hogy a katonai alapfelkészítés 3 hónap.
 
-(3) A 227. § (5) és (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy a próbaidő 3 hónap.
+(3) A 226. § (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy a próbaidő 3 hónap.
 
 (4) A munkáltatói jogkört gyakorló egyoldalú írásbeli nyilatkozattal megszüntetheti az altiszt-jelölti szolgálati viszonyt, ha a honvéd altiszt-jelölt nem felel meg a felvételkor támasztott követelményeknek. A törvény erejénél fogva szűnik meg az altiszt-jelölt szolgálati viszonya, ha a honvéd altiszt-jelölt tanulói jogviszonya megszűnik, vagy ha a honvéd altiszt-jelölt a tanulmányi kötelezettségét a jogszabályokban vagy a katonai szakképzést folytató szervezet szervezeti és működési szabályzatában megengedett mértéket meghaladóan nem teljesítette.
 
@@ -3909,6 +3914,8 @@ esetén járó további díjakat, azok feltételeit és mértékét.
 - 42. azon beosztások körét, amelyekben az állomány tagjának illetménye szolgálati érdekből, az érintett személy speciális végzettségére, képzettségére, az általa ellátandó feladat kiemelt fontosságára vagy speciális jellegére tekintettel eltérően is meghatározható.
 - 43. a 237/L. § (1) bekezdés b) pontja szerinti munkaköröket,
 - 44. a SARS-CoV2 járványhelyzethez kapcsolódóan, méltányosságból meghosszabbított egészségügyi szabadság megállapításának eljárásrendjét.
+- 45. a honvéd tisztjelölteknek a honvédtiszti alapképzés időtartama alatt, illetve az állomány tagjának a 10 éves határozott idejű szolgálata alatt fennálló visszafizetési kötelezettsége eseteire, módjára, összegére vonatkozó szabályokat, a visszafizetési kötelezettség érvényesítésének, ideértve a halasztás engedélyezésének rendjét, a fizetési könnyítés és a mentesítési eljárás szabályait,
+- 46. a honvéd tisztjelölt alapilletményének évfolyamonkénti eltérő mértékét, a tanulmányi díjának mértékét, az illetménypótlék összegét és az egyéb juttatások körét.
 
 (3) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszter egyetértésével rendeletben állapítsa meg
 
