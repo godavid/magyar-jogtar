@@ -340,9 +340,7 @@ kell érteni.
 
 ### A szálláshely-minősítés körében alkalmazott díjszabás
 
-8/A. § (1) A (2) bekezdésben meghatározott kivétellel a szálláshely-minősítő szervezet által lefolytatott egyes igazgatási jellegű szolgáltatásokért és közigazgatási hatósági eljárásokért igazgatási szolgáltatási díjat kell fizetni a szálláshely-minősítő szervezet részére.
-
-(2) Szálláshelyenként az első szálláshely-minősítési eljárás ingyenes.
+8/A. § Jogszabály eltérő rendelkezése hiányában a szálláshely-minősítési eljárás ingyenes.
 
 ### A kereskedelmi tevékenységek, a kereskedelmet kiszolgáló szolgáltató tevékenységek, valamint a kereskedelmi jellegű turisztikai szolgáltatási tevékenységek folytatásának ellenőrzése, jogkövetkezmények
 
@@ -448,7 +446,7 @@ rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a turizmusért felelős miniszter, hogy
 
-- a) az adópolitikáért felelős miniszterrel egyetértésben a szálláshely-minősítő szervezet által végzett azon igazgatási jellegű szolgáltatások és közigazgatási hatósági eljárások körét, amelyek lefolytatásáért igazgatási szolgáltatási díjat kell fizetni, továbbá a fizetendő díj mértékét, valamint a fizetésre vonatkozó egyéb szabályokat;
+- a) az adópolitikáért felelős miniszterrel egyetértésben a szálláshely-minősítő szervezet által végzett igazgatási jellegű szolgáltatásokat és közigazgatási hatósági eljárásokat, az igazgatási szolgáltatási díj fizetésére kötelezett szálláshely-típusok körét, a fizetendő díj mértékét, a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat, valamint a fizetésre vonatkozó egyéb szabályokat,
 - b) az idegenvezetői tevékenység folytatásának részletes feltételeit, valamint az idegenvezetői tevékenység bejelentésének és az idegenvezetők nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - c) a lovas szolgáltató tevékenység folytatásának részletes feltételeit, valamint a lovas szolgáltató tevékenység bejelentésének és a lovas szolgáltatók nyilvántartásának személyes adatot nem tartalmazó adattartalmát és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményeket,
 - d)–f)
