@@ -383,7 +383,7 @@ a járulékfizetési alsó határ meghatározása során az a)–c) pontok szeri
 (6) Ha a biztosítással járó jogviszonyból származó, tárgyhónapra eső jövedelem egy része Magyarországon, másik része külföldön adóztatható, járulékalapként
 
 - a) az (1) bekezdés a) pontjában meghatározott jövedelmet és
-- b) az (1) bekezdés b) pontjában említett járulékalapot képező jövedelem összegének azon időszakra (naptári napokra) vonatkozó arányos részét, amelyben a jövedelem külföldön adóztatható
+- b) az (1) bekezdés b) pontjában említett járulékalapot képező jövedelem összegének azon időszakra vonatkozó arányos részét, amelyben a jövedelem külföldön adóztatható
 
 együttesen kell figyelembe venni.
 

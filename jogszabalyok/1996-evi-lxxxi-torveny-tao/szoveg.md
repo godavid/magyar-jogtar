@@ -197,6 +197,8 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 - 31/a. számított nyilvántartási érték: az immateriális jószág, a tárgyi eszköz bekerülési értéke, csökkentve az adóalapnál érvényesített értékcsökkenési leírással, növelve az adóalapnál érvényesített terven felüli értékcsökkenés visszaírt összegével;
 - 31/b. személy: a belföldi személy, a külföldi személy és a magánszemély;
 - 31/c. személygépkocsi: négy, illetve három gumiabroncskerékkel felszerelt olyan gépjármű, amely a vezetővel együtt legfeljebb nyolc felnőtt személy szállítására alkalmas, azzal, hogy idetartozik a benzinüzemű, a dízelüzemű, az elektromos üzemű, a gázüzemű személygépkocsi, a versenyautó, az önjáró lakóautó; személygépkocsinak minősül továbbá az a vegyes használatú, 2500 kg-ot meg nem haladó megengedett együttes tömegű olyan gépjármű (nagy rakodóterű személygépkocsi), amelynek rakodótere gyárilag kialakítva kettőnél több utas szállítására alkalmas, de kézzel egyszerűen oldható ülésrögzítése révén a teherszállításra bármikor átalakítható a válaszfal mögötti rakodótér, ideértve azt az esetet is, ha az ülés eltávolítására visszafordíthatatlan műszaki átalakítással került sor;
+- 31d. szokásos piaci ár: az az ellenérték, amelyet független felek összehasonlítható körülmények esetén egymás között érvényesítenek vagy érvényesítenének;
+- 31e. szokásos piaci tartomány: a 18. § (2) bekezdés szerinti módszerek alkalmazásából származó, független felek közötti összehasonlítható ügyletek vagy összehasonlítható független vállalkozások pénzügyi adataiból álló értékek halmaza;
 - 32. saját tevékenységi körében végzett K+F tevékenység: az adózó saját eszközeivel és alkalmazottaival a saját eredményére és kockázatára végzett K+F tevékenység, illetve az a K+F tevékenység, amelyet az adózó a saját eszközeivel és alkalmazottaival más személy megrendelésére teljesít, továbbá a kutatásfejlesztési megállapodás alapján végzett (közös) kutatás-fejlesztési tevékenység;
 - 32/a. társaság: a gazdasági társaság (ideértve a szabályozott ingatlanbefektetési elővállalkozást, a szabályozott ingatlanbefektetési társaságot és a szabályozott ingatlanbefektetési projekttársaságot is), az egyesülés, a szövetkezet, továbbá a 2003. évi uniós csatlakozási szerződést kihirdető törvény hatálybalépésének napjától az Európai Unió tagállamának adóra vonatkozó jogszabályai szerint ott belföldi illetőséggel bíró olyan társaság, amely
   - a) az Európai Unión kívüli állammal a jövedelem- és vagyonadók tárgyában kötött, hatályos nemzetközi szerződés szerint nem bír belföldi illetőséggel az Európai Unión kívüli államban, valamint
@@ -906,7 +908,7 @@ azzal, hogy a b)–c) pont nem alkalmazandó azon EGT-tagállamokba történő �
 
 (7) A (4) bekezdés szerinti részletfizetést választó adózó a (6) bekezdés szerinti esetek fennállását, azok bekövetkezésétől számított 15 napon belül bejelenti az állami adó- és vámhatóságnak.
 
-(8) Az (1) bekezdés alkalmazásában a piaci értéket a 18. § (2), (4) és (9) bekezdése megfelelő alkalmazásával kell meghatározni.
+(8) Az (1) bekezdés alkalmazásában a piaci értéket a 18. § (2), (4), (9), (11) és (12) bekezdése megfelelő alkalmazásával kell meghatározni.
 
 (9) Az (1)–(8) bekezdés nem alkalmazandó az értékpapír-finanszírozáshoz vagy biztosítékként nyújtott eszközökhöz kapcsolódó ügyletekre, továbbá ha az eszközök áthelyezésére prudenciális tőkekövetelmények teljesítése érdekében vagy likviditáskezelés céljából volt szükség és az eszközöknek 12 hónapon belül vissza kell kerülniük Magyarországra.
 
@@ -985,7 +987,7 @@ azzal, hogy a b)–c) pont nem alkalmazandó azon EGT-tagállamokba történő �
 
 ### Kapcsolt vállalkozások között alkalmazott árak módosítása
 
-18. § (1) Amennyiben a kapcsolt vállalkozások egymás közötti szerződésükben, megállapodásukban (általános forgalmi adó nélkül számítva) magasabb vagy alacsonyabb ellenértéket alkalmaznak annál, mint amilyen ellenértéket független felek összehasonlítható körülmények esetén egymás között érvényesítenek vagy érvényesítenének (a továbbiakban: szokásos piaci ár), a szokásos piaci ár és az alkalmazott ellenérték alapján számított különbözetnek megfelelő összeggel az adózó – az e törvényben előírt más, az adózás előtti eredményt növelő vagy csökkentő jogcímektől függetlenül – adózás előtti eredményét
+18. § (1) Amennyiben a kapcsolt vállalkozások egymás közötti szerződésükben, megállapodásukban (általános forgalmi adó nélkül számítva) magasabb vagy alacsonyabb ellenértéket alkalmaznak a szokásos piaci árnál, a szokásos piaci ár és az alkalmazott ellenérték alapján számított különbözetnek megfelelő összeggel az adózó – az e törvényben előírt más, az adózás előtti eredményt növelő vagy csökkentő jogcímektől függetlenül – adózás előtti eredményét
 
 - a) csökkenti, feltéve, hogy
   - aa) az alkalmazott ellenérték következtében adózás előtti eredménye nagyobb, mint a szokásos piaci ár alkalmazása mellett lett volna,
@@ -1010,7 +1012,7 @@ azzal, hogy a b)–c) pont nem alkalmazandó azon EGT-tagállamokba történő �
 
 (4) A szokásos haszon az a haszon, amelyet összehasonlítható tevékenységet végző független felek összehasonlítható körülmények között elérnek.
 
-(5) Az adóév utolsó napján kisvállalkozásnak nem minősülő gazdasági társaság, egyesülés, európai részvénytársaság, szövetkezet, európai szövetkezet és külföldi vállalkozó (kivéve a közhasznú nonprofit gazdasági társaságot, és azt az adózót, amelyben az állam rendelkezik közvetlenül vagy közvetve többségi befolyással), a bevallás benyújtásáig köteles az e törvény felhatalmazása alapján kiadott miniszteri rendelet előírásai szerint rögzíteni a szokásos piaci árat, az annak meghatározásánál általa alkalmazott módszert, valamint az azt alátámasztó tényeket és körülményeket.
+(5) Az adóév utolsó napján kisvállalkozásnak nem minősülő gazdasági társaság, egyesülés, európai részvénytársaság, szövetkezet, európai szövetkezet és külföldi vállalkozó (kivéve a közhasznú non-profit gazdasági társaságot, és azt az adózót, amelyben az állam rendelkezik közvetlenül vagy közvetve többségi befolyással), a bevallás benyújtásáig köteles az e törvény felhatalmazása alapján kiadott miniszteri rendelet előírásai szerint rögzíteni a szokásos piaci árat, az annak meghatározásánál általa alkalmazott módszert, valamint az azt alátámasztó tényeket és körülményeket, továbbá az éves társasági adóbevallásában az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározottak szerint a szokásos piaci ár meghatározásával összefüggésben adatot szolgáltat az állami adó- és vámhatóságnak.
 
 (6) Az alapítónak (ide nem értve az átalakulással, egyesüléssel, szétválással történő alapítást), a tőkét befogadó, a vagyont kiadó adózónak, továbbá a tagnak (részvényesnek) az (1)–(5) bekezdés előírásait a jegyzett tőke, tőketartalék nem pénzbeli hozzájárulással történő teljesítése, emelése, a jegyzett tőke tőkekivonással történő leszállítása, az adózó által ellenérték fejében megszerzett üzletrész tagok részére történő térítés nélküli átadása, vagy bevonása esetén, továbbá a jogutód nélküli megszűnéskor a nem pénzben történő vagyonkiadásra, valamint az osztalék nem pénzbeli vagyoni értékű juttatásként történő teljesítésére is alkalmaznia kell, ha kapcsolt vállalkozás vagy a nem pénzbeli hozzájárulással kapcsolt vállalkozássá váló tag (részvényes) teljesíti a nem pénzbeli hozzájárulást, illetve részesedik a vagyonból.
 
@@ -1020,9 +1022,9 @@ azzal, hogy a b)–c) pont nem alkalmazandó azon EGT-tagállamokba történő �
 
 (8a) A (7) bekezdéstől eltérően az (5) bekezdést nem kell alkalmazni a külföldi vállalkozó és belföldi telephelye közötti ügyletre, ha a belföldi telephelye ezen ügylete nemzetközi szerződés rendelkezése alapján nem keletkeztet magyar társasági adófizetési kötelezettséget.
 
-(9) Amennyiben a (2) bekezdésben meghatározott módszerek alkalmazása során indokolt (különös tekintettel a funkcióelemzésre, a minta elemszámára vagy a szélsőértékekre), az adózó azon középső tartomány alkalmazásával, amelybe a minta elemeinek fele esik (interkvartilis tartomány) további szűkítést végez, figyelembe véve az e törvény felhatalmazása alapján kiadott, a szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettségről szóló miniszteri rendelet előírásait.
+(9) Ha az adózó a (2) bekezdésben meghatározott módszerek alkalmazásakor az összehasonlítható termékre, szolgáltatásra vagy vállalkozásra vonatkozó nyilvános vagy az adóhatóság által ellenőrizhető adatbázisban tárolt vagy egyéb forrásból elérhető, nyilvánosan hozzáférhető vagy az adóhatóság által ellenőrizhető adatokat vesz figyelembe, akkor azon középső tartomány alkalmazásával, amelybe a minta elemeinek fele esik (interkvartilis tartomány) további szűkítést végez.
 
-(10) A csoportos társasági adóalany tagjai az (1) és (2), a (4)–(7), valamint a (9) bekezdésben foglaltakat az egymás közötti jogügyleteik közül csak azokra alkalmazzák, amelyeknél
+(10) A csoportos társasági adóalany tagjai az (1) és (2), a (4)–(7), a (9), a (11) és a (12) bekezdésben foglaltakat az egymás közötti jogügyleteik közül csak azokra alkalmazzák, amelyeknél
 
 - a) az egyik fél által a csoporttaggá válását megelőzően az (1) bekezdés a) pontja alapján az adózás előtti eredménye csökkentéseként elszámolt összeget a másik fél a csoporttaggá válását megelőzően az (1) bekezdés b) pontja alapján az adózás előtti eredmény növeléseként,
 - b) az egyik fél által a csoporttaggá válását megelőzően az (1) bekezdés b) pontja alapján az adózás előtti eredménye növeléseként elszámolt összeget a másik fél a csoporttaggá válását megelőzően az (1) bekezdés a) pontja alapján az adózás előtti eredmény csökkentéseként
@@ -1031,7 +1033,11 @@ elszámolt összeg még nem ellentételezte.
 
 (10a) A csoportos társasági adóalany tagjai az (5) bekezdés szerinti kötelezettségüket a csoportképviselő útján teljesítik.
 
-(10b) Ha az adózó csoportos adóalanyban fennálló tagsága nem adókötelezettsége megszűnése miatt szűnt meg, az adózó és a csoportos társasági adóalany többi tagja az (5) bekezdés szerinti kötelezettségét első alkalommal a csoporttagság megszűnését követő első adóbevallása (a többi tag esetében ideértve a csoportos társasági adóalany adóbevallását) benyújtásáig teljesíti minden olyan jogügyletre, amely tekintetében a tagság fennállása alatt a (10) bekezdés alapján mentesült e kötelezettség alól, de amely az (1), (3), valamint a (6) és (7) bekezdés szerint ezt követően befolyásolja adóalapját.
+(10b) Ha az adózó csoportos adóalanyban fennálló tagsága nem adókötelezettsége megszűnése miatt szűnt meg, az adózó és a csoportos társasági adóalany többi tagja az (5) bekezdés szerinti kötelezettségét első alkalommal a csoporttagság megszűnését követő első adóbevallása (a többi tag esetében ideértve a csoportos társasági adóalany adóbevallását) benyújtásáig teljesíti minden olyan jogügyletre, amely tekintetében a tagság fennállása alatt a (10) bekezdés alapján mentesült e kötelezettség alól, de amely az (1), (3), (6), (7), (9), (11) és (12) bekezdés szerint ezt követően befolyásolja adóalapját.
+
+(11) Amennyiben az adózó által alkalmazott ellenérték a szokásos piaci tartományon belül helyezkedik el, akkor a szokásos piaci tartományon belül az (1) bekezdés a) és b) pontja alkalmazásának nincs helye.
+
+(12) Amennyiben az adózó által alkalmazott ellenérték a szokásos piaci tartományon kívül esik, az (1) bekezdés a) és b) pontja alkalmazása során szokásos piaci árként a szokásos piaci tartomány azon középső értékét, amelynél az adatok legfeljebb fele kisebb és legfeljebb fele nagyobb (medián) kell figyelembe venni, kivéve, ha az adózó igazolja, hogy a szokásos piaci tartományon belül egy a mediántól eltérő érték felel meg a legjobban a vizsgált ügyletnek, amely esetben szokásos piaci árként a medián helyett ezt az értéket kell figyelembe venni.
 
 ### AZ ÉVES BESZÁMOLÓJÁT, A KÖNYVVITELI ZÁRLATÁT AZ IFRS-EK SZERINT ÖSSZEÁLLÍTÓ ADÓZÓRA VONATKOZÓ KÜLÖNÖS RENDELKEZÉSEK
 
@@ -1177,6 +1183,8 @@ kapcsolatban az adóévi adózás előtti eredmény terhére elszámolt ráford�
 (22) Amennyiben a 18/A. § (1) bekezdése szerinti tag (részvényes, üzletrész-tulajdonos) olyan jegyzett tőke tőkekivonás útján történő leszállítást hajt végre, amelyet az IFRS-ek szerint nem részesedés kivezetésként (részbeni kivezetésként) mutat ki, de a számvitelről szóló törvény szerint részesedés kivezetésként (részbeni kivezetésként) mutatna ki, akkor erre a leszállításra vonatkozóan (ideértve a leszállításból eredően a részesedésre elszámolt értékvesztést is) a társasági adóalapját külön nyilvántartás alapján úgy határozza meg, mintha ezt a leszállítást a számvitelről szóló törvény szerint számolta volna el.
 
 (23) A 18/A. § (1) bekezdése szerinti adózó a saját részvény, saját üzletrész közfeladatot ellátó közérdekű vagyonkezelő alapítvány részére történő térítés nélküli átadásának társasági adóalapját külön nyilvántartás alapján úgy határozza meg, mintha azt a számvitelről szóló törvény szerint számolta volna el.
+
+(24) Az IFRS-ekre beolvadással, a vagyonmérleg összeállítása során történő áttérés esetén a 18/A. § (1) bekezdése szerinti átvevőnek (beolvasztónak) alkalmaznia kell az (1) bekezdés b) pontjában, a (2) bekezdés a) pontjában és a (4) bekezdésben foglalt rendelkezéseket, azzal, hogy az áttérés adóévének az átalakulás napját követő napot magában foglaló adóév minősül.
 
 18/D. § (1) Amennyiben a 18/A. § (1) bekezdése szerinti adózó az áttérés adóévéről szóló adóbevallásában meghatározott, az adóbevallás esedékességét követő második naptári hónap első napjával kezdődő 12 hónapos időszakra jutó társasági adóelőlegének összege nem éri el az áttérés adóévét megelőző adóév fizetendő adóját, akkor az adóbevallás esedékességét követő második naptári hónap első napjával kezdődő 12 hónapos időszakra jutó adóelőleget az áttérés adóévét megelőző adóév fizetendő adója alapulvételével kell meghatározni (a továbbiakban: adóelőleg-minimum). Amennyiben az áttérés adóévét megelőző adóév időtartama nem éri el a 12 hónapot, akkor az adóelőleg-minimum megegyezik az áttérés adóévét megelőző adóév fizetendő adójának a működés naptári napjai alapján 12 hónapra számított összegével.
 
@@ -2154,6 +2162,12 @@ e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pon
 
 (103) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 7. § (1) bekezdés j) pontját és 8. § (1) bekezdés w) pontját az adózó első alkalommal a 2022. adóévi adókötelezettség megállapítása során a 2022. adóévben elszámolt értékvesztésre alkalmazza.
 
+(104) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 18. § (5) bekezdését első alkalommal a 2022. december 31-ét követően benyújtott bevallás tekintetében kell alkalmazni.
+
+(105) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 12. § (2) bekezdés c) pontját és (3) bekezdés b) pontját az adózó választása szerint alkalmazhatja a 2022. adóévére.
+
+(106) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 18. § (9), (10), (10b), (11) és (12) bekezdését, továbbá a 16/A. § (8) bekezdését első alkalommal a 2022-ben kezdődő adóév adókötelezettsége megállapítása során kell alkalmazni.
+
 29/B. § (1) A tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény (a továbbiakban: Kárrendezési Törvény) alapján a Kárrendezési Alap részére a Kárrendezési Törvény 11. § (1) bekezdése alapján befizetést teljesítő adózó által az adóévben, a Kárrendezési Törvény 11. § (2) bekezdésére figyelemmel megállapított, befizetett összeg (továbbiakban e §-ban: befizetés) csökkenti az adózó által fizetendő társasági adót, a fizetendő pénzügyi szervezetek különadóját a fizetendő pénzügyi tranzakciós illetéket.
 
 (2) A befizetést teljesítő adózó a visszajáró összeget első alkalommal a 2017. évi adókötelezettsége megállapítása során – az adókötelezettséget csökkentő tételként – veszi figyelembe az (1) bekezdés szerinti adónemekben. Az adózó a csökkentést elsőként a 2017. első negyedévére vonatkozó pénzügyi szervezetek különadója kötelezettség vonatkozásában, majd pedig az (1) bekezdés szerinti adónemekre vonatkozó adófizetési kötelezettség felmerülésének sorrendjében veszi figyelembe.
@@ -2468,7 +2482,7 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 
 (7) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy rendeletben szabályozza a fejlesztési adókedvezmény engedélyezése iránti eljárás kezdeményezéséért fizetendő igazgatási-szolgáltatási díjat.
 
-(8) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy rendeletben szabályozza a szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettség teljesítésének részletes szabályait.
+(8) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben szabályozza a szokásos piaci ár meghatározásával összefüggő nyilvántartási- és adatszolgáltatási kötelezettség teljesítésének részletes szabályait.
 
 (9) Az adópolitikáért felelős miniszter felhatalmazást kap arra, hogy rendeletben szabályozza a társasági adókedvezményhez kapcsolódóan bejelentett adatok módosításának feltételeit.
 

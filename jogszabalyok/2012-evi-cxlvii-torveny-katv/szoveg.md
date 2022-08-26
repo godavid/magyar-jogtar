@@ -411,7 +411,7 @@ növelt összege, de legalább a b) pont szerinti összeg.
 - c) a pénztár értékének tárgyévi csökkenését, de legfeljebb a pénztár előző évi mérlegben kimutatott értékének a mentesített értéket meghaladó részét; a kisvállalati adóalanyiság megszűnésének adóévében a pénztár előző évi mérlegben kimutatott értékének és mentesített értékének pozitív különbözetét,
 - d) a 2017. január 1-je előtt a kisvállalati adó hatálya alá tartozó vállalkozásnál e törvény 2013. január 1-je és 2016. december 31-e között hatályos 20. § (4) bekezdés e) és f) pontjai szerint elszámolt csökkentés, e törvény 2013. január 1-je és 2016. december 31-e között hatályos 20. § (5) bekezdés e) és f) pontja és 20. § (6)–(8) bekezdése szerint elszámolt növelés összegével csökkentett, a 2013–2016. adóévek pénzforgalmi szemléletű eredményével növelt pozitív összegét.
 
-(5) Amennyiben az adózó kapcsolt vállalkozásával kötött szerződésében, megállapodásában olyan ellenértéket (ügyleti értéket) határoz meg, amely nem felel meg a szokásos piaci árnak, – az (1)–(4) bekezdésben foglaltaktól függetlenül – az adóalapot a szokásos piaci ár és az ügyleti érték különbségével úgy módosítja, hogy az olyan adóalapnak feleljen meg, mint ha független vállalkozással kötött volna szerződést, megállapodást, feltéve, hogy a szerződés, megállapodás alapján az adóévben teljesítés történt. A szokásos piaci árat a Tao. tv. 18. § (2) bekezdésében meghatározott módszer szerint kell megállapítani.
+(5) Amennyiben az adózó kapcsolt vállalkozásával kötött szerződésében, megállapodásában olyan ellenértéket (ügyleti értéket) határoz meg, amely nem felel meg a szokásos piaci árnak, – az (1)–(4) bekezdésben foglaltaktól függetlenül – az adóalapot a szokásos piaci ár és az ügyleti érték különbségével úgy módosítja, hogy az olyan adóalapnak feleljen meg, mint ha független vállalkozással kötött volna szerződést, megállapodást, feltéve, hogy a szerződés, megállapodás alapján az adóévben teljesítés történt. A szokásos piaci árat a Tao. tv. 18. § (2) bekezdésében meghatározott módszer szerint, a Tao. tv. 18. § (9), (11) és (12) bekezdésében foglalt rendelkezések figyelembevételével kell megállapítani.
 
 (6) Ha a (3)–(5) bekezdés szerint megállapított egyenleg bármely adóévben negatív, ez az összeg a következő adóévekben – a (6a) és a (7) bekezdésben foglaltakat figyelembe véve – csökkenti a (3)–(5) bekezdés szerint megállapított pozitív egyenleget a kisvállalati adó alapja meghatározásakor, feltéve, hogy a (3)–(5) bekezdés szerint megállapított negatív egyenleg a rendeltetésszerű joggyakorlás elvének betartásával keletkezett (a továbbiakban: elhatárolt veszteség).
 
@@ -635,5 +635,7 @@ csökkentve azzal az eredménytartalékkal, eredménytartalékból lekötött ta
 (3) A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény 34. § (7) bekezdése szerinti mentesség e törvény 8. § (6) bekezdése szerinti értékhatárt nem csökkenti.
 
 32/F. § A családi gazdaságokról szóló 2020. évi CXXIII. törvénnyel megállapított 2. § 22. pontja 2019. január 1-jétől alkalmazható.
+
+32/G. § E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 20. § (5) bekezdését első alkalommal a 2022. adóévi adókötelezettség megállapítása során kell alkalmazni.
 
 #### 33–34. §
