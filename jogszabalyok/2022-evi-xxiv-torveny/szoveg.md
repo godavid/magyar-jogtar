@@ -70,7 +70,7 @@ szerint módosul.
 
 16. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény
 
-- 1.
+- 1. 3. § 21. pont d) alpontjában a „keresetpótló juttatás” szövegrész helyébe a „keresetpótló juttatás, valamint a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló kormányrendelet alapján nyújtott álláskeresést ösztönző juttatás” szöveg,
 - 2.
 - 3.
 
@@ -96,29 +96,53 @@ lép.
 
 #### 13. A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény módosítása
 
-24. §
+24. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. §-a a következő 31d. és 31e. ponttal egészül ki:
+
+(E törvény alkalmazásában)
+
+„31d. szokásos piaci ár: az az ellenérték, amelyet független felek összehasonlítható körülmények esetén egymás között érvényesítenek vagy érvényesítenének;
+
+31e. szokásos piaci tartomány: a 18. § (2) bekezdés szerinti módszerek alkalmazásából származó, független felek közötti összehasonlítható ügyletek vagy összehasonlítható független vállalkozások pénzügyi adataiból álló értékek halmaza;”
 
 25. §
 
 26. §
 
-27. §
+27. § (1) A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 18. § (5) bekezdése helyébe a következő rendelkezés lép:
 
-28. §
+„(5) Az adóév utolsó napján kisvállalkozásnak nem minősülő gazdasági társaság, egyesülés, európai részvénytársaság, szövetkezet, európai szövetkezet és külföldi vállalkozó (kivéve a közhasznú non-profit gazdasági társaságot, és azt az adózót, amelyben az állam rendelkezik közvetlenül vagy közvetve többségi befolyással), a bevallás benyújtásáig köteles az e törvény felhatalmazása alapján kiadott miniszteri rendelet előírásai szerint rögzíteni a szokásos piaci árat, az annak meghatározásánál általa alkalmazott módszert, valamint az azt alátámasztó tényeket és körülményeket, továbbá az éves társasági adóbevallásában az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározottak szerint a szokásos piaci ár meghatározásával összefüggésben adatot szolgáltat az állami adó- és vámhatóságnak.”
+
+(2) A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 18. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) Ha az adózó a (2) bekezdésben meghatározott módszerek alkalmazásakor az összehasonlítható termékre, szolgáltatásra vagy vállalkozásra vonatkozó nyilvános vagy az adóhatóság által ellenőrizhető adatbázisban tárolt vagy egyéb forrásból elérhető, nyilvánosan hozzáférhető vagy az adóhatóság által ellenőrizhető adatokat vesz figyelembe, akkor azon középső tartomány alkalmazásával, amelybe a minta elemeinek fele esik (interkvartilis tartomány) további szűkítést végez.”
+
+(3) A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 18. §-a a következő (11) és (12) bekezdéssel egészül ki:
+
+„(11) Amennyiben az adózó által alkalmazott ellenérték a szokásos piaci tartományon belül helyezkedik el, akkor a szokásos piaci tartományon belül az (1) bekezdés a) és b) pontja alkalmazásának nincs helye.
+
+(12) Amennyiben az adózó által alkalmazott ellenérték a szokásos piaci tartományon kívül esik, az (1) bekezdés a) és b) pontja alkalmazása során szokásos piaci árként a szokásos piaci tartomány azon középső értékét, amelynél az adatok legfeljebb fele kisebb és legfeljebb fele nagyobb (medián) kell figyelembe venni, kivéve, ha az adózó igazolja, hogy a szokásos piaci tartományon belül egy a mediántól eltérő érték felel meg a legjobban a vizsgált ügyletnek, amely esetben szokásos piaci árként a medián helyett ezt az értéket kell figyelembe venni.”
+
+28. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 18/C. §-a a következő (24) bekezdéssel egészül ki:
+
+„(24) Az IFRS-ekre beolvadással, a vagyonmérleg összeállítása során történő áttérés esetén a 18/A. § (1) bekezdése szerinti átvevőnek (beolvasztónak) alkalmaznia kell az (1) bekezdés b) pontjában, a (2) bekezdés a) pontjában és a (4) bekezdésben foglalt rendelkezéseket, azzal, hogy az áttérés adóévének az átalakulás napját követő napot magában foglaló adóév minősül.”
 
 29. § (1)
 
-(2)
+(2) A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 29/A. §-a a következő (104)–(106) bekezdéssel egészül ki:
 
-30. §
+„(104) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 18. § (5) bekezdését első alkalommal a 2022. december 31-ét követően benyújtott bevallás tekintetében kell alkalmazni.
+
+(105) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 12. § (2) bekezdés c) pontját és (3) bekezdés b) pontját az adózó választása szerint alkalmazhatja a 2022. adóévére.
+
+(106) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 18. § (9), (10), (10b), (11) és (12) bekezdését, továbbá a 16/A. § (8) bekezdését első alkalommal a 2022-ben kezdődő adóév adókötelezettsége megállapítása során kell alkalmazni.
+
+30. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 30. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy rendeletben szabályozza a szokásos piaci ár meghatározásával összefüggő nyilvántartási- és adatszolgáltatási kötelezettség teljesítésének részletes szabályait.”
 
 31. § A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény
 
-- 1.
-- 2.
-- 3.
-- 4.
-- 5.
+- 1. 2 16/A. § (8) bekezdésében a „18. § (2), (4) és (9)” szövegrész helyébe a „18. § (2), (4), (9), (11) és (12)” szöveg, 3. 18. § (1) bekezdésében az „annál, mint amilyen ellenértéket független felek összehasonlítható körülmények esetén egymás között érvényesítenek vagy érvényesítenének (a továbbiakban: szokásos piaci ár)” szövegrész helyébe az „a szokásos piaci árnál” szöveg, 4. 18. § (10) bekezdésében az „(1) és (2), a (4)–(7), valamint a (9)” szövegrész helyébe az „(1) és (2), a (4)–(7), a (9), a (11) és a (12)” szöveg, és 5. 18. § (10b) bekezdésében az „(1), (3), valamint a (6) és (7)” szövegrész helyébe az „(1), (3), (6), (7), (9), (11) és (12)” szöveg
 
 lép.
 
@@ -170,7 +194,7 @@ lép.
 
 #### 22. A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény módosítása
 
-47. §
+47. § A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 38. § (4) bekezdésében a „befizetés összegével” szövegrész helyébe a „befizetés általános forgalmi adóval csökkentett összegével” szöveg lép.
 
 48. §
 
@@ -353,9 +377,11 @@ lép.
 
 #### 38. A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény módosítása
 
-118. §
+118. § A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény a következő 32/G. §-sal egészül ki:
 
-119. §
+„32/G. § E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 20. § (5) bekezdését első alkalommal a 2022. adóévi adókötelezettség megállapítása során kell alkalmazni.”
+
+119. § A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény 20. § (5) bekezdésében a „módszer szerint” szövegrész helyébe a „módszer szerint, a Tao. tv. 18. § (9), (11) és (12) bekezdésében foglalt rendelkezések figyelembevételével” szöveg lép.
 
 120. §
 
@@ -446,15 +472,28 @@ lép.
 
 #### 47. A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény módosítása
 
-143. §
+143. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 15. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-144. §
+„(1) A belföldi székhelyű, a számvitelről szóló 2000. évi C. törvény (a továbbiakban: számviteli törvény) hatálya alá tartozó gazdasági társaság és a külföldi székhelyű vállalkozásnak a helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Htv.) szerinti telephelye (ideértve a külföldi székhelyű vállalkozás magyarországi fióktelepét is) innovációs járulékot (ezen alcím alkalmazásában a továbbiakban: járulék) köteles fizetni.”
 
-145. §
+144. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 16. § (13) bekezdése helyébe a következő rendelkezés lép:
 
-146. §
+„(13) A járulékfizetésre kötelezett a járulékot az üzleti évre (adóévre) állapítja meg. A naptári évtől eltérő üzleti évet választó járulékfizetésre kötelezett az üzleti év első napján hatályos jogszabályok szerint állapítja meg, vallja be, teljesíti járulékfizetési kötelezettségét és fizet előleget.”
 
-147. §
+145. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény a következő 51. §-sal egészül ki:
+
+„51. § (1) A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény kihirdetését követő 31. napon e törvény hatálya alá kerülő külföldi székhelyű vállalkozás Htv. szerinti telephelye a 2022. adóévre és a 2023. adóév első két negyedévére innovációs járulék előleg megállapítására kötelezett. A telephely a 2022. adóévi innovációs járulék előlegét 2022. október 20. napjáig állapítja meg, vallja be és fizeti meg azzal, hogy a 2022. adóévi innovációs járulék előleget a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény kihirdetését követő 31. napjától kezdődő a 2022. adóév végéig tartó időszakra számított, várható fizetendő innovációs járulék alapján állapítja meg. A telephely a 2023. adóév első két negyedévi innovációs járulék előlegét 2022. október 20. napjáig állapítja meg és vallja be, valamint a 2023. adóév első és második negyedévét követő hónap 20. napjáig fizeti meg azzal, hogy a negyedévenként fizetendő összeget a teljes 2022. adóévre számított, várható fizetendő innovációs járulék alapján, annak 25 százalékában állapítja meg.
+
+(2) A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény kihirdetését követő 31. napon e törvény hatálya alá kerülő külföldi székhelyű vállalkozás Htv. szerinti telephelye a 2022. adóévi járulékkötelezettségét a teljes 2022. évre számított járulékkötelezettségnek a 2022. adóév hatály alatti napokkal arányosan számított összegében, vagy választása szerint nyilvántartásainak a járulék hatálya alá kerülést megelőző napra készített zárását figyelembe véve számított járulékkötelezettséggel csökkentett összegében határozza meg.”
+
+146. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény
+
+- 1. 12. § (1) bekezdés a) pontjában az „a gazdasági társaságok” szövegrész helyébe az „az innovációs járulékfizetésre kötelezettek” szöveg, és
+- 2. 16. § (1) bekezdésében a „helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Htv.)” szövegrész helyébe a „Htv.” szöveg
+
+lép.
+
+147. § Hatályát veszi a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 16. § (3) bekezdésében a „gazdasági társaság” szövegrész.
 
 #### 48. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
 
@@ -608,7 +647,7 @@ lép.
 
 209. § (1)
 
-(2)
+(2) Hatályát veszti a szociális hozzájárulási adóról szóló 2018. évi LII. törvény 1. § (8) bekezdésében a „(naptári napokra)” szövegrész.
 
 #### 58. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
@@ -634,7 +673,7 @@ lép.
 
 217. §
 
-218. §
+218. § Hatályát veszti a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 27. § (6) bekezdés b) pontjában a „(naptári napokra)” szövegrész.
 
 #### 62. Az egyes vagyonkezelő alapítványokról és az azoknak történő vagyonjuttatásról szóló 2020. évi CVI. törvény módosítása
 

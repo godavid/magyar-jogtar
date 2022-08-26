@@ -182,7 +182,7 @@ a következő törvényt alkotja:
 
 12. § (1) Az NKFI Alap bevételi forrásai:
 
-- a) a gazdasági társaságok által befizetett innovációs járulék,
+- a) az innovációs járulékfizetésre kötelezettek által befizetett innovációs járulék,
 - b) a központi költségvetésből biztosított központi támogatás,
 - c) az NKFI Alap – tárgyévet megelőző – költségvetési maradványa,
 - d) belföldi vagy külföldi természetes személyek és jogi személyek által teljesített befizetések, önkéntes befizetések, adományok, segélyek,
@@ -223,7 +223,7 @@ nyújtható.
 
 #### 9. Az innovációs járulék
 
-15. § (1) Belföldi székhelyű, a számvitelről szóló 2000. évi C. törvény (a továbbiakban: számviteli törvény) hatálya alá tartozó gazdasági társaság innovációs járulékot (ezen alcím alkalmazásában a továbbiakban: járulék) köteles fizetni.
+15. § (1) A belföldi székhelyű, a számvitelről szóló 2000. évi C. törvény (a továbbiakban: számviteli törvény) hatálya alá tartozó gazdasági társaság és a külföldi székhelyű vállalkozásnak a helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Htv.) szerinti telephelye (ideértve a külföldi székhelyű vállalkozás magyarországi fióktelepét is) innovációs járulékot (ezen alcím alkalmazásában a továbbiakban: járulék) köteles fizetni.
 
 (2) Mentes a járulék fizetésének kötelezettsége alól:
 
@@ -237,11 +237,11 @@ nyújtható.
 
 (3) Az (1) és (2) bekezdés alkalmazásánál az üzleti év első napján fennálló állapot az irányadó.
 
-16. § (1) A járulék alapja a helyi adókról szóló 1990. évi C. törvény (a továbbiakban: Htv.) 39. § (1) bekezdése alapján meghatározott adóalap, csökkentve a Htv. szerint kimutatott, külföldön létesített telephelyre jutó iparűzési adóalaprész összegével.
+16. § (1) A járulék alapja a Htv. 39. § (1) bekezdése alapján meghatározott adóalap, csökkentve a Htv. szerint kimutatott, külföldön létesített telephelyre jutó iparűzési adóalaprész összegével.
 
 (2) A járulék mértéke az (1) bekezdés szerinti járulékalap 0,3%-a.
 
-(3) A járulékfizetésre kötelezett gazdasági társaság a járulék éves összegét maga állapítja meg és vallja be az állami adóhatósághoz az adóévet követő adóév ötödik hónapjának utolsó napjáig.
+(3) A járulékfizetésre kötelezett a járulék éves összegét maga állapítja meg és vallja be az állami adóhatósághoz az adóévet követő adóév ötödik hónapjának utolsó napjáig.
 
 (4) Az adóévben járulékfizetésre kötelezettnek háromhavonként (a továbbiakban: előlegfizetési időszak) előleget kell fizetnie az előlegfizetési időszakot követő hónap 20. napjáig. Az előlegfizetési időszakra fizetendő járulékelőleg mértéke a (6) bekezdés alapján meghatározott járulékelőleg egynegyede.
 
@@ -264,7 +264,7 @@ nyújtható.
 
 (12) A járulékfizetésre kötelezett bevallási, befizetési és elszámolási kötelezettségének e törvény által nem szabályozott kérdéseiben, valamint a kötelezettség teljesítésének ellenőrzése tekintetében az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény rendelkezéseit kell alkalmazni.
 
-(13) A járulékfizetésre kötelezett gazdasági társaság a járulékot az üzleti évre állapítja meg. A naptári évtől eltérő üzleti évet választó járulékfizetésre kötelezett az üzleti év első napján hatályos jogszabályok szerint állapítja meg, vallja be, teljesíti járulékfizetési kötelezettségét és fizet előleget.
+(13) A járulékfizetésre kötelezett a járulékot az üzleti évre (adóévre) állapítja meg. A naptári évtől eltérő üzleti évet választó járulékfizetésre kötelezett az üzleti év első napján hatályos jogszabályok szerint állapítja meg, vallja be, teljesíti járulékfizetési kötelezettségét és fizet előleget.
 
 (14) Amennyiben az adóalany az éves beszámolóját a számviteli törvény 3. § (10) bekezdés 2. pontjában meghatározott IFRS-ek szerint állítja össze, járulékkötelezettsége megállapításakor köteles a Htv. 40/J–40/L. §-ában foglaltakat megfelelően alkalmazni.
 
@@ -842,7 +842,9 @@ vonatkozó szabályait kell alkalmazni.
 
 #### 18. Hatályon kívül helyező rendelkezések
 
-#### 51. §
+51. § (1) A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény kihirdetését követő 31. napon e törvény hatálya alá kerülő külföldi székhelyű vállalkozás Htv. szerinti telephelye a 2022. adóévre és a 2023. adóév első két negyedévére innovációs járulék előleg megállapítására kötelezett. A telephely a 2022. adóévi innovációs járulék előlegét 2022. október 20. napjáig állapítja meg, vallja be és fizeti meg azzal, hogy a 2022. adóévi innovációs járulék előleget a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény kihirdetését követő 31. napjától kezdődő a 2022. adóév végéig tartó időszakra számított, várható fizetendő innovációs járulék alapján állapítja meg. A telephely a 2023. adóév első két negyedévi innovációs járulék előlegét 2022. október 20. napjáig állapítja meg és vallja be, valamint a 2023. adóév első és második negyedévét követő hónap 20. napjáig fizeti meg azzal, hogy a negyedévenként fizetendő összeget a teljes 2022. adóévre számított, várható fizetendő innovációs járulék alapján, annak 25 százalékában állapítja meg.
+
+(2) A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény kihirdetését követő 31. napon e törvény hatálya alá kerülő külföldi székhelyű vállalkozás Htv. szerinti telephelye a 2022. adóévi járulékkötelezettségét a teljes 2022. évre számított járulékkötelezettségnek a 2022. adóév hatály alatti napokkal arányosan számított összegében, vagy választása szerint nyilvántartásainak a járulék hatálya alá kerülést megelőző napra készített zárását figyelembe véve számított járulékkötelezettséggel csökkentett összegében határozza meg.
 
 ### 1. melléklet a 2014. évi LXXVI. törvényhez
 

@@ -43,7 +43,7 @@ Magyarországon adóztatható része után.
 
 (7)
 
-(8) Ha a természetes személy ugyanazon adómegállapítási időszakra Magyarországon adóztatható és Magyarországon nem adóztatható jövedelmet is szerez, az adóalap megállapításánál az (1)–(3) bekezdéseket megfelelően együttesen kell alkalmazni, azzal az eltéréssel, hogy a (3) bekezdés alkalmazásakor az alapbér vagy más díjazás azon időszakra (naptári napokra) vonatkozó arányos részét kell figyelembe venni, amelyben a jövedelem külföldön adóztatható.
+(8) Ha a természetes személy ugyanazon adómegállapítási időszakra Magyarországon adóztatható és Magyarországon nem adóztatható jövedelmet is szerez, az adóalap megállapításánál az (1)–(3) bekezdéseket megfelelően együttesen kell alkalmazni, azzal az eltéréssel, hogy a (3) bekezdés alkalmazásakor az alapbér vagy más díjazás azon időszakra vonatkozó arányos részét kell figyelembe venni, amelyben a jövedelem külföldön adóztatható.
 
 (9) Adóalapot képez az a jövedelem is, amelynek kifizetése (juttatása) olyan időszakra tekintettel történik, amely időszakban a Tbj. alapján biztosítási jogviszony állt fenn, függetlenül a kifizetés (juttatás) időpontjától.
 

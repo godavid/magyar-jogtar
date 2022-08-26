@@ -1049,7 +1049,7 @@ esetén,
 
 (3)
 
-(4) A gyógyszer forgalomba hozatali engedélyének jogosultja a 36. § (1) és 40/A. § (1) bekezdésében meghatározott fizetési kötelezettségének alapját csökkenti a tárgyidőszakra vonatkozó támogatásvolumen-szerződés alapján teljesített befizetés összegével.
+(4) A gyógyszer forgalomba hozatali engedélyének jogosultja a 36. § (1) és 40/A. § (1) bekezdésében meghatározott fizetési kötelezettségének alapját csökkenti a tárgyidőszakra vonatkozó támogatásvolumen-szerződés alapján teljesített befizetés általános forgalmi adóval csökkentett összegével.
 
 38/A. § A 12. § (3) bekezdése szerinti, ismertetési tevékenységet folytatót – azon napok tekintetében, amelyeken az a)–g) pontok szerinti körülmény fennáll – a 36. § (4)–(4a) bekezdése szerinti befizetési kötelezettség nem terheli azon általa munkavégzésre irányuló jogviszony keretében foglalkoztatott ismertető személy után:
 
