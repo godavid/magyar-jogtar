@@ -1717,7 +1717,7 @@ Ha az adózó adózásával összefüggésben olyan valótlan tényt, adatot vag
 
 (4) Az állami adó- és vámhatóság a bevallásra előírt határidőt követő hónap utolsó napjáig, a nyugdíjfolyósító szerv részére elektronikus úton hivatalból átadja a havi adó- és járulék bevallásban szereplő, korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő természetes személyre vonatkozó tárgyévi társadalombiztosítási járulék-alapot képező összesített jövedelmi adatokat – ide nem értve az önkéntes tartalékos szolgálati viszonyban álló személynek a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 36. § (1) bekezdés h) pontja vagy (2) bekezdés a) pontja szerinti feladatban történő részvétellel teljesített szolgálatára figyelemmel kifizetett juttatásait – ahhoz az időponthoz igazodva, amikor a természetes személy tárgyévi társadalombiztosítási járulék-alapot képező jövedelme meghaladja a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 11. §-ában meghatározott éves keretösszeget.
 
-(5) Az állami adó- és vámhatóság az adóévet követő év augusztus 31. napjáig elektronikus úton hivatalból átadja az Szja tv. hatálya alá tartozó kiegészítő tevékenységet folytató egyéni vállalkozó által a személyi jövedelemadó-bevallásban bevallott nyugdíjjárulék alapját és összegét a központi nyugdíjbiztosítási szerv részére.
+(5)
 
 (6) Az állami adó- és vámhatóság a foglalkoztató megszűnésének, a vállalkozási tevékenység megszüntetésének, az őstermelői igazolvány visszaadásának, visszavonásának időpontjáról, az egyéni vállalkozói, illetve az ügyvédi, szabadalmi ügyvivői tevékenység, valamint a közjegyzői szolgálat szünetelésének időtartamáról hivatalból tájékoztatja az egészségbiztosítási szervet, a nyugdíjbiztosítási szervet, ha a természetes személyre vonatkozóan a munkáltató, kifizető (ideértve a saját biztosítási jogviszonyának tekintetében az egyéni vállalkozót, a biztosított mezőgazdasági őstermelőt és a Tbj. 87.§ (6) bekezdése szerinti kötelezettet is) biztosítási jogviszony létesítésével kapcsolatos adatot közölt (bejelentést tett), de a biztosítási jogviszony megszűnésének időpontját a foglalkoztatónak minősülő személy nem jelentette be és arról az adóhatóságnak hivatalos tudomása van.
 
@@ -1974,10 +1974,11 @@ A feltárt kockázat megszüntetése érdekében az adóhatóság
 
 (6) Ha az adózó adatbejelentése, bejelentése, bevallása hiányos, valótlan vagy téves adatokat tartalmaz,
 
-- a) az adóhatóság legfeljebb tizenöt napos határidő tűzésével az adózót hiánypótlásra hívja fel és a hiánypótlásra figyelemmel állapítja meg az adót vagy
-- b) helyi adó esetében a (7) bekezdésben foglaltak szerint jár el.
+- a) az adóhatóság legfeljebb tizenöt napos határidő tűzésével az adózót hiánypótlásra hívja fel és a hiánypótlásra figyelemmel állapítja meg az adót,
+- b) a hiánypótlásra előírt határidő eredménytelen eltelte esetén, az adóhatóság az adózó egyidejű értesítésével a hatósági adómegállapítási eljárást megszüntetheti, és a helyi adót adóellenőrzés keretében állapíthatja meg, vagy
+- c) helyi adó esetében a (7) bekezdésben foglaltak szerint járhat el.
 
-(7) Az önkormányzati adóhatóság az adót – a (4) bekezdésben foglaltaktól eltérően – a közhiteles nyilvántartások, továbbá az építésügyi hatóságnak az e törvény szerinti adatszolgáltatásából tudomására jutó adatok alapulvételével is megállapíthatja, ha a rendelkezésére álló adatok ismeretében a tényállás tisztázott.
+(7) Az önkormányzati adóhatóság az adót a közhiteles nyilvántartások, továbbá az építésügyi hatóságnak az e törvény szerinti adatszolgáltatásából tudomására jutó adatok alapulvételével is megállapíthatja, ha a rendelkezésére álló adatok ismeretében a tényállás tisztázott.
 
 (8) Helyi kivetéses adó, valamint a belföldi gépjárművek adóját esetében az adózó adatbejelentését – az adómegállapításhoz való jog elévülési idején belül – módosíthatja, kivéve, ha az adóhatóság az adót ellenőrzés során feltárt tényállás alapján állapította meg.
 
@@ -2297,7 +2298,7 @@ Az adó feltételes megállapítására irányuló eljárás során hozott hatá
 
 (4) A (3) bekezdés szerinti megállapodás hiányában a kétoldalú, illetve a többoldalú eljárást az adópolitikáért felelős miniszter az adózó kérelmére egyoldalúan csak akkor folytatja le, ha az adópolitikáért felelős miniszter rendelkezésére álló információk a szokásos piaci ár megállapításához elegendőek.
 
-(5) A szokásos piaci ár meghatározásával összefüggő nyilvántartási kötelezettségről szóló jogszabály szerinti nyilvántartás készítésére nem kötelezett adózók – kivéve azt az adózót, amelyben az állam rendelkezik közvetlenül vagy közvetve többségi befolyással – a szokásos piaci ár megállapítására irányuló kérelmet nem terjeszthetnek elő.
+(5)
 
 (6) A szokásos piaci ár megállapítására irányuló kérelem elektronikus úton, az erre a célra rendszeresített elektronikus űrlapon nyújtható be.
 
@@ -2305,7 +2306,7 @@ Az adó feltételes megállapítására irányuló eljárás során hozott hatá
 
 #### 175. § [A szokásos piaci ár megállapítására irányuló eljárás és az előzetes konzultáció igazgatási szolgáltatási díja]
 
-(1) A szokásos piaci ár megállapítására irányuló eljárás díja annyiszor kettőmillió forint, ahány oldalú eljárást kezdeményeztek. A díj fizetésére részletfizetés vagy fizetési halasztás nem engedélyezhető.
+(1) A szokásos piaci ár megállapítására irányuló eljárás díja egyoldalú eljárásban ötmillió forint, kétoldalú vagy többoldalú eljárásban nyolcmillió forint. A díj fizetésére részletfizetés vagy fizetési halasztás nem engedélyezhető.
 
 (2) Meghosszabbítás és módosítás iránti eljárás esetén a díj összege az eredeti eljárásban lerótt díj 50%-a. A kérelem elutasítása, illetve visszavonása esetén a díj összegének nyolcvanöt százalékát vissza kell téríteni.
 
@@ -2350,7 +2351,7 @@ A szokásos piaci ár megállapítása iránti eljárásban hozott döntés elle
 
 #### 180. § [Ellenőrzésre és önellenőrzésre vonatkozó különös szabály]
 
-(1) A szokásos piaci ár megállapítása iránti kérelemmel érintett szokásos piaci árral összefüggésben ellenőrzés nem rendelhető el a kérelem benyújtásától
+(1) A szokásos piaci ár megállapítása iránti kérelemmel érintett szokásos piaci árral összefüggésben – kiutalás előtti ellenőrzés kivételével – adóellenőrzés nem rendelhető el a kérelem benyújtásától
 
 - a) a szokásos piaci árat megállapító határozat véglegessé válásától számított hatvan nap elteltéig, ha a kérelemben feltüntetett szerződést vagy egyéb jogügyletet a kapcsolt vállalkozások már megkötötték, vagy
 - b) a kérelmet visszautasító vagy az eljárást megszüntető végzés véglegessé válásáig.
@@ -2532,6 +2533,8 @@ Az adóhatóság az önellenőrzés előterjesztésétől számított tizenöt n
 (5) Az adóhatóság a visszatéríteni kért adó befizetését megalapozó végrehajtható okiratban foglalt tényállást veszi alapul, illetve – ha az a tényállás tisztázásához szükséges – az ellenőrzés során alkalmazható bizonyítást folytat le azzal, hogy az adó áthárításával kapcsolatos bizonyítás arra a személyre is kiterjedhet, akire, amelyre az adózó a visszatéríteni kért adót átháríthatta.
 
 (6) Ha az adózó visszatérítési igénye megalapozott, az adóhatóság – az adó visszatérítésével egyidejűleg – a visszatérítendő adó után az adó megfizetésének napjától a visszatérítés teljesítéséről szóló határozat véglegessé válásának napjáig a jegybanki alapkamat két százalékponttal növelt mértékével azonos mértékű kamatot fizet. A visszatérítés a teljesítését elrendelő határozat véglegessé válásának napján esedékes, a visszatérítést az esedékesség napjától számított harminc napon belül kell kiutalni. Az e §-ban szabályozott visszatérítésre – a 65. § kivételével – egyebekben a költségvetési támogatás kiutalására vonatkozó rendelkezéseket kell megfelelően alkalmazni.
+
+(7) Ha a visszatérítési igény az általános forgalmi adó alapjának utólagos csökkentésére vonatkozó jogszabály alaptörvény-ellenességén vagy az Európai Unió kötelező jogi aktusába ütközésén alapul, az adóhatóság – a (6) bekezdésben foglaltaktól eltérően – a kamatot az adóalap-csökkentésre való jogosultság keletkezésének napjától fizeti meg.
 
 #### 197. § [Áfa-visszatérítési igény érvényesítése az Alkotmánybíróság, illetve az Európai Unió Bírósága döntése alapján]
 
@@ -2905,7 +2908,7 @@ Az általános forgalmi adó összesítő jelentés szerinti adatszolgáltatási
 
 #### 230. § [Nyilvántartási, iratmegőrzési kötelezettség megszegése szokásos piaci ár meghatározása, valamint ellenőrzött külföldi társaságokkal folytatott ügyletek esetén]
 
-(1) Az adózó a szokásos piaci ár meghatározásával, valamint az ellenőrzött külföldi társaságokkal folytatott jogügyletekkel összefüggő nyilvántartási kötelezettségének megsértése, illetve e nyilvántartással összefüggő iratmegőrzési kötelezettségének megsértése esetén nyilvántartásonként (összevont nyilvántartásonként) kettőmillió forintig terjedő, ismételt jogsértés esetén nyilvántartásonként (összevont nyilvántartásonként) négymillió forintig terjedő mulasztási bírsággal sújtható. A kötelezettségnek az ismételt mulasztás miatt hozott határozat közlését megelőzően történő teljesítése esetén az e bekezdés alapján kiszabott bírság mérsékelhető vagy elengedhető.
+(1) Az adózó a szokásos piaci ár meghatározásával, valamint az ellenőrzött külföldi társaságokkal folytatott jogügyletekkel összefüggő nyilvántartási kötelezettségének megsértése, illetve e nyilvántartással összefüggő iratmegőrzési kötelezettségének megsértése esetén nyilvántartásonként (összevont nyilvántartásonként) ötmillió forintig terjedő, ismételt jogsértés esetén nyilvántartásonként (összevont nyilvántartásonként) tízmillió forintig terjedő mulasztási bírsággal sújtható. A kötelezettségnek az ismételt mulasztás miatt hozott határozat közlését megelőzően történő teljesítése esetén az e bekezdés alapján kiszabott bírság mérsékelhető vagy elengedhető.
 
 (2) Ugyanazon nyilvántartás vezetésének ismételt elmulasztása esetén az adózó az első esetben kiszabott mulasztási bírság mértékének négyszereséig terjedő mulasztási bírsággal sújtható.
 
@@ -3035,7 +3038,9 @@ Ha az állami adó- és vámhatóság az EKAER bejelentési kötelezettség elmu
 - c) az adóköteles tevékenység célját szolgáló ugyanazon helyiségében (műhely, üzlet, telep stb.) az első ellenőrzéstől számított egy éven belül második alkalommal mulasztotta el számla- vagy nyugtakibocsátási kötelezettségét, vagy
 - d) a pénztárgép kötelező használatával és üzemeltetésével kapcsolatos, jogszabályban meghatározott kötelezettségét megszegte.
 
-(2) Az (1) bekezdésben meghatározott mulasztás ismételt előfordulása esetén a lezárás időtartama harminc, majd minden további esetben hatvan nyitvatartási nap. Az ismétlődésre vonatkozó szabályok nem alkalmazhatóak, ha két egymást követő ugyanolyan mulasztás között három év eltelt.
+(1a) Az (1) bekezdés a–c) pontjaiban meghatározott mulasztás ismételt előfordulása esetén a lezárás alkalmazása nem mellőzhető.
+
+(2) Az (1) bekezdésben meghatározott mulasztás ismételt előfordulása esetén elrendelt ismételt lezárás időtartama harminc, majd minden további esetben hatvan nyitvatartási nap. Az ismétlődésre vonatkozó szabályok nem alkalmazhatóak, ha két egymást követő ugyanolyan mulasztás között három év eltelt.
 
 (3) A kiszabott bírságról és a lezárásról hozott határozat elleni fellebbezésnek a lezárás végrehajtására nincs halasztó hatálya. Az intézkedés miatt harmadik személyeket ért kárért az adózó köteles helytállni.
 
@@ -3047,7 +3052,7 @@ Ha az állami adó- és vámhatóság az EKAER bejelentési kötelezettség elmu
 
 (7) A lezárás nem alkalmazható, ha a helyiség az adózó lakásában, vagy lakástól műszakilag el nem különített helyiségcsoporton belül található, továbbá akkor sem, ha a lezárás a településen a lezárandó üzlet üzletkörébe eső helyi alapszükségletek, így különösen az élelmiszeripari termékek vásárlását vagy olyan szolgáltatás iránti igény kielégítését akadályozza, mely a településen egyébként más módon nem érhető el.
 
-(8) A mulasztás első alkalommal történő elkövetése miatti lezárás alkalmazhatóságnak vizsgálatakor az állami adó- és vámhatóság a mulasztási bírság kiszabásánál meghatározott szempontokat mérlegeli.
+(8) A lezárás alkalmazhatóságának vizsgálatakor – az (1a) bekezdésben foglalt kivétellel – az állami adó- és vámhatóság a mulasztási bírság kiszabásánál meghatározott szempontokat mérlegeli.
 
 #### 246. § [Az adószám törlése]
 
@@ -3601,6 +3606,14 @@ A közúti közlekedési nyilvántartási szerv a 87. § (3) bekezdése szerinti
 
 (5) E törvénynek a Módtv8. által megállapított 146. § (1a)–(1b) bekezdését a Módtv8. hatálybalépésekor folyamatban lévő eljárásokban, a Módtv8. által megállapított 146. § (1c) és (1d) bekezdését, valamint a 204. § (2) bekezdését a Módtv8. hatálybalépése előtt véglegesen lezárt eljárásokban az adómegállapításhoz való jog elévüléséig, illetve az adóvégrehajtáshoz való jog elévüléséig is alkalmazni kell.
 
+#### 274/N. § [Átmeneti rendelkezés a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló]
+
+2022. évi XXIV. törvényhez]
+
+(1) A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény (továbbiakban: Módtv9.) által megállapított 141. § (6) és (7) bekezdését a Módtv9. 188. §-ának hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+(2) A Módtv9. által megállapított 230. § (1) bekezdését a Módtv9. 193. § 2. pontjának hatálybalépését követően kezdődő adóévekben kell először alkalmazni.
+
 #### 275. § [Az Európai Unió jogának való megfelelés]
 
 (1) E törvény 106. § (5) és (10) bekezdése, 107. § (5), (7) bekezdése és (8) bekezdés d) pontja, 108. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
@@ -3857,7 +3870,7 @@ b)
 
 kell az adóbevallást benyújtani.
 
-2. Az adózónak az ideiglenes jellegű iparűzési tevékenysége utáni adóról a tevékenysége befejezése napját követő hónap tizenötödik napjáig kell az adóbevallást teljesíteni.
+2.
 
 3. Az adóbeszedésre kötelezettnek az idegenforgalmi adóról a tárgyhónapot követő hónap tizenötödik napjáig kell adóbevallást benyújtani.
 
@@ -4007,7 +4020,7 @@ b)
 
 c) a megfizetett adóelőleg, valamint az adóévre megállapított adó pozitív különbözetét az adóévet követő év ötödik hónapjának utolsó napjáig fizeti meg, illetve a túlfizetést ettől az időponttól igényelheti vissza.
 
-2. Az adózó az ideiglenes jellegű helyi iparűzési tevékenysége utáni adót a tevékenység befejezése napját követő hónap tizenötödik napjáig fizeti meg.
+2.
 
 3. Az adóbeszedésre kötelezett az általa beszedett, vagy beszedni elmulasztott idegenforgalmi adót az adóbevallás benyújtására nyitva álló határnapig fizeti meg.
 
