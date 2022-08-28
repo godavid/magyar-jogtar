@@ -542,61 +542,19 @@ lép.
 
 #### 53. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
 
-188. § Az adózás rendjéről szóló 2017. évi CL. törvény 141. § (6) és (7) bekezdése helyébe a következő rendelkezések lépnek:
+188. §
 
-„(6) Ha az adózó adatbejelentése, bejelentése, bevallása hiányos, valótlan vagy téves adatokat tartalmaz,
+189. §
 
-a) az adóhatóság legfeljebb tizenöt napos határidő tűzésével az adózót hiánypótlásra hívja fel és a hiánypótlásra figyelemmel állapítja meg az adót,
+190. §
 
-b) a hiánypótlásra előírt határidő eredménytelen eltelte esetén, az adóhatóság az adózó egyidejű értesítésével a hatósági adómegállapítási eljárást megszüntetheti, és a helyi adót adóellenőrzés keretében állapíthatja meg, vagy
+191. §
 
-c) helyi adó esetében a (7) bekezdésben foglaltak szerint járhat el.
+192. §
 
-(7) Az önkormányzati adóhatóság az adót a közhiteles nyilvántartások, továbbá az építésügyi hatóságnak az e törvény szerinti adatszolgáltatásából tudomására jutó adatok alapulvételével is megállapíthatja, ha a rendelkezésére álló adatok ismeretében a tényállás tisztázott.”
+193. §
 
-189. § Az adózás rendjéről szóló 2017. évi CL. törvény 175. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A szokásos piaci ár megállapítására irányuló eljárás díja egyoldalú eljárásban ötmillió forint, kétoldalú vagy többoldalú eljárásban nyolcmillió forint. A díj fizetésére részletfizetés vagy fizetési halasztás nem engedélyezhető.”
-
-190. § Az adózás rendjéről szóló 2017. évi CL. törvény 196. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Ha a visszatérítési igény az általános forgalmi adó alapjának utólagos csökkentésére vonatkozó jogszabály alaptörvény-ellenességén vagy az Európai Unió kötelező jogi aktusába ütközésén alapul, az adóhatóság – a (6) bekezdésben foglaltaktól eltérően – a kamatot az adóalap-csökkentésre való jogosultság keletkezésének napjától fizeti meg.”
-
-191. § (1) Az adózás rendjéről szóló 2017. évi CL. törvény 245. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdés a–c) pontjaiban meghatározott mulasztás ismételt előfordulása esetén a lezárás alkalmazása nem mellőzhető.”
-
-(2) Az adózás rendjéről szóló 2017. évi CL. törvény 245. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdésben meghatározott mulasztás ismételt előfordulása esetén elrendelt ismételt lezárás időtartama harminc, majd minden további esetben hatvan nyitvatartási nap. Az ismétlődésre vonatkozó szabályok nem alkalmazhatóak, ha két egymást követő ugyanolyan mulasztás között három év eltelt.”
-
-(3) Az adózás rendjéről szóló 2017. évi CL. törvény 245. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A lezárás alkalmazhatóságának vizsgálatakor – az (1a) bekezdésben foglalt kivétellel – az állami adó- és vámhatóság a mulasztási bírság kiszabásánál meghatározott szempontokat mérlegeli.”
-
-192. § Az adózás rendjéről szóló 2017. évi CL. törvény a következő 274/N. §-sal egészül ki:
-
-„274/N. § [Átmeneti rendelkezés a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló
-
-2022. évi XXIV. törvényhez]
-
-(1) A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény (továbbiakban: Módtv9.) által megállapított 141. § (6) és (7) bekezdését a Módtv9. 188. §-ának hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
-
-(2) A Módtv9. által megállapított 230. § (1) bekezdését a Módtv9. 193. § 2. pontjának hatálybalépését követően kezdődő adóévekben kell először alkalmazni.”
-
-193. § Az adózás rendjéről szóló 2017. évi CL. törvény
-
-- 1. 180. § (1) bekezdésében az „összefüggésben ellenőrzés” szövegrész helyébe az „összefüggésben – kiutalás előtti ellenőrzés kivételével – adóellenőrzés” szöveg, és
-- 2. 230. § (1) bekezdésében a „kettőmillió forintig” szövegrész helyébe az „ötmillió forintig”, valamint a „négymillió forintig” szövegrész helyébe a „tízmillió forintig” szöveg
-
-lép.
-
-194. § Hatályát veszti az adózás rendjéről szóló 2017. évi CL. törvény
-
-- 1. 131. § (5) bekezdése,
-- 2. 174. § (5) bekezdése,
-- 3. 2. melléklet II. fejezet A pont 2. alpontja, és
-- 4. 3. melléklet II. fejezet A pont 2. alpontja.
+194. §
 
 #### 54. Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény módosítása
 
