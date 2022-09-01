@@ -226,11 +226,23 @@ rendelkezésre állása biztosítandó.
 
 20. §
 
-21. §
+21. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény IV. Fejezete a következő 24/M. §-sal egészül ki:
+
+„24/M. § (1) A halottvizsgálatot végző orvos az elhunyt személy azonosítása érdekében az elhunyt személy
+
+a) természetes személyazonosító adatairól,
+
+b) arcképmásáról,
+
+c) személyazonossága igazolására alkalmas hatósági igazolványa okmányazonosítójáról
+
+adatot igényelhet.
+
+(2) Az (1) bekezdés szerinti adatigénylés az elhunyt viselt neve, születési neve, születési helye és ideje, anyja neve adatok közül a halottvizsgálatot végző orvos tudomására jutottak, de legalább a viselt név, a születési hely és idő és az anyja családi neve adatok megadásával történik.”
 
 22. §
 
-23. §
+23. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 19/H. § (1) bekezdésében az „a személy azonosítása” szövegrész helyébe az „a személy – ideértve az elhunyt személyt – azonosítása” szöveg lép.
 
 #### 15. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
@@ -254,7 +266,9 @@ rendelkezésre állása biztosítandó.
 
 #### 19. Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény módosítása
 
-30. §
+30. § Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 20. §-a a következő (3c) bekezdéssel egészül ki:
+
+„(3c) A kormányablak, továbbá – ha a halál körülményeinek vizsgálatára hatósági vagy büntetőeljárás indult – a temetőkről és a temetkezésről szóló törvény szerinti, az eltemettetéshez és elhamvasztáshoz szükséges engedélyt kiadó hatóság az Eütv. szerinti halottvizsgálati bizonyítványról készített papíralapú másolat kiállítása céljából, az ehhez szükséges ideig kezeli a halottvizsgálati bizonyítványról készített papíralapú másolat kiállításához szükséges adatokat.”
 
 31. §
 
@@ -278,7 +292,27 @@ rendelkezésre állása biztosítandó.
 
 38. §
 
-39. §
+39. § (1) Az egészségügyről szóló 1997. évi CLIV. törvény 217. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Halálozás esetén – az (5) bekezdésben foglalt kivétellel – halottvizsgálati bizonyítványt kell kiállítani. A halottvizsgálati bizonyítvány – a Kormány rendeletében meghatározottak szerint – az (1) bekezdés szerinti célból tartalmazza
+
+a) az elhunyt
+
+aa) azonosításához szükséges természetes személyazonosító adatokat, a lakcím-, illetve okmányadatokat, valamint az elhunyt állampolgárságára, Társadalombiztosítási Azonosító Jelére vonatkozó adatokat,
+
+ab) elhalálozásásának körülményeire, boncolására, halálának okaira vonatkozó egészségügyi adatokat, valamint az elhunyt temetésével összefüggő adatokat, valamint
+
+b) az eltemettetésre kötelezett, illetve az eltemetést intéző személy azonosításához szükséges természetes személyazonosító és kapcsolattartási adatokat.”
+
+(2) Az egészségügyről szóló 1997. évi CLIV. törvény 217. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) A halottvizsgálati bizonyítvány kiállítására jogszabályban kijelölt, az Elektronikus Halottvizsgálati Bizonyítványt Kiállító Rendszer működtetője a (2) bekezdés szerinti, a halottvizsgálati bizonyítvány kiállításához szükséges,
+
+a) az elhunytra vonatkozó adatokat a halottvizsgálati bizonyítvány kiállítását követő 30 évig,
+
+b) az eltemettetésre kötelezettre, illetve az eltemettetőre vonatkozó adatokat a halottvizsgálati bizonyítvány kiállítását követő 5 évig
+
+kezeli.”
 
 40. §
 
@@ -294,7 +328,7 @@ rendelkezésre állása biztosítandó.
 
 46. §
 
-47. §
+47. § Az egészségügyről szóló 1997. évi CLIV. törvény 247. § (1) bekezdés q) pont nyitó szövegrészében a „viselésére” szövegrész helyébe a „viselésére, a halottvizsgálati bizonyítvány részletes adattartalmára” szöveg lép.
 
 #### 23. A kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosítása
 

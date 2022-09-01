@@ -112,7 +112,29 @@ az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvény
 
 40. §
 
-41. §
+41. § A villamos energiáról szóló 2007. évi LXXXVI. törvény a következő fejezettel egészül ki:
+
+„XIII/B. FEJEZET ENERGETIKAI INNOVÁCIÓK TÁMOGATÁSÁVAL ÖSSZEFÜGGŐ FELADATOK
+
+114/I. § (1) A Hivatal energetikai szabályozási tesztkörnyezetet működtethet, amelynek célja, hogy ösztönözze és támogassa olyan energetikai innovációs teljesítmények elterjedését, piacra lépését, amelyek elősegíthetik a villamosenergia-rendszer fenntarthatóságának, költséghatékony működtetésének, a fogyasztói igények megfelelő ellátásának vagy az ellátásbiztonság növelését.
+
+(2) Energetikai innovációs teljesítmény bármely olyan, műszakilag és üzletileg megalapozott termék, szolgáltatás, technológia, üzleti modell vagy más újítás létrehozása, vagy hazai átvétele, ami Magyarországon még nem terjedt el.
+
+(3) Az energetikai szabályozási tesztkörnyezetben való részvételre irányuló kérelmet a Hivatal bírálja el az e törvény és a Hivatal elnöke által kiadott rendeletben meghatározott szabályok alapján. A Hivatal az energetikai szabályozási tesztkörnyezetben való részvételt engedélyezi, ha a kérelemben foglalt innovációs teljesítmény megfelel az (1) bekezdésben és a Hivatal elnökének rendeletében meghatározott feltételeknek és nem veszélyezteti a villamosenergia-ellátás biztonságát.
+
+(4) A (3) bekezdés szerinti engedélyezés tekintetében a határozat tartalmazza
+
+a) a Hivatal elnökének rendeletében, valamint a villamosenergia-ellátási szabályzatokban előírt egyes rendelkezésektől való eltérés lehetőségét, az eltérés időbeli, tárgyi és területi hatályát, valamint
+
+b) a kérelmező azon kötelezettségét, hogy a Hivatal elnökének rendeletében és a villamosenergia-ellátási szabályzatokban foglalt rendelkezéseknek a Hivatal elnökének rendeletében meghatározottak alapján, a határozatban foglalt eltérésekkel tegyen eleget.
+
+(5) Az energetikai szabályozási tesztkörnyezetben való részvételt a Hivatal legfeljebb 24 hónapra engedélyezi, ami kérelemre, indokolt esetben egy alkalommal, legfeljebb további 24 hónappal meghosszabbítható, ha a (3) bekezdésben foglalt feltételek továbbra is fennállnak. Az engedélyt a Hivatal visszavonja, ha megállapítja, hogy
+
+a) az energetikai szabályozási tesztkörnyezetben résztvevő megsértette a határozatban foglaltakat vagy
+
+b) a (3) bekezdésben foglalt feltételek már nem állnak fenn.
+
+(6) Az e fejezet alapján lefolytatott eljárások nem érintik a 177/A. §-ban szabályozott mintaprojekteket.”
 
 42. §
 
@@ -122,15 +144,25 @@ az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvény
 
 45. §
 
-46. §
+46. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 159. §-a a következő (8) bekezdéssel egészül ki:
+
+„(8) A Hivatal a villamosenergia-ellátással, a villamosenergia-ellátás biztonságának és a villamosenergia-piac hatékony működésének felügyeletével, a felhasználók érdekeinek védelmével kapcsolatos feladatai körében, továbbá az energiapolitikai célkitűzések, valamint a fenntartható fejlődés követelményeinek érvényesítésével összefüggő feladatainak a támogatására energetikai szabályozási tesztkörnyezetet működtethet.”
 
 47. §
 
-48. §
+48. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 168. § (2) bekezdése a következő l) ponttal egészül ki:
+
+(Az ügyintézési határidő)
+
+„l) az energetikai szabályozási tesztkörnyezethez kapcsolódó eljárásban 152 nap.”
 
 49. § (1)
 
-(2)
+(2) A villamos energiáról szóló 2007. évi LXXXVI. törvény 170. § (5) bekezdése a következő 10. ponttal egészül ki:
+
+(Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg)
+
+„10. a tesztkörnyezet által támogatott célokat, a kérelem benyújtására jogosultak körét, a kérelem benyújtásával kapcsolatos szabályokat, a kérelem elbírálásával kapcsolatos részletes szabályokat, az engedélyezhető eltérések részletes tartalmát, a tesztkörnyezet résztvevőinek jogait és kötelezettségeit, az energetikai innovációs teljesítmények alkalmazásával kapcsolatos felelősségi kérdéseket, az energetikai tesztkörnyezetben való részvétel meghosszabbításának a feltételeit és a kötelezettségek megszegésével kapcsolatos jogkövetkezményekkel kapcsolatos részletes szabályokat.”
 
 (3)
 

@@ -523,7 +523,7 @@ van lehetőség.
 
 19/G. § Az Országgyűlés Hivatala kapcsolattartás és megemlékezés szervezése céljából a nyilvántartást kezelő szervtől kérheti az általa nyilvántartott országgyűlési képviselő, volt országgyűlési képviselő, nemzetiségi szószóló, volt nemzetiségi szószóló személyes adatai felhasználásával az országgyűlési képviselő, volt országgyűlési képviselő, nemzetiségi szószóló, volt nemzetiségi szószóló 17. § (2) bekezdés f) pontja szerinti adatát, valamint elhalálozása idejének adatát.
 
-19/H. § (1) A nyilvántartást kezelő szervtől a törvény alapján az a)–d) pont szerinti adatok megismerésére jogosult szerv a személy azonosítása és a személyazonosság ellenőrzése céljából közvetlen hozzáféréssel adatszolgáltatást kérhet a polgár
+19/H. § (1) A nyilvántartást kezelő szervtől a törvény alapján az a)–d) pont szerinti adatok megismerésére jogosult szerv a személy – ideértve az elhunyt személyt – azonosítása és a személyazonosság ellenőrzése céljából közvetlen hozzáféréssel adatszolgáltatást kérhet a polgár
 
 - a) természetes személyazonosító adatairól,
 - b) arcképmásáról,
@@ -669,6 +669,16 @@ van lehetőség.
 (2) A nyilvántartást kezelő szerv az (1) bekezdés szerinti esetben a Khtv. 20/R. § (2) bekezdése szerinti törzsadat-nyilvántartásban szereplő és a Khtv. 20/T. §-a szerinti adatváltozás-bejelentési szolgáltatást igénybe vevő polgár személyazonosító igazolványának okmányazonosítóját, valamint a személyi azonosítóról és lakcímről szóló hatósági igazolványának okmányazonosítóját átadja az adatváltozás-kezelési szolgáltató részére.
 
 24/L. § A nyilvántartást kezelő szerv a Magyarország Helyreállítási és Ellenállóképességi Tervében megvalósuló, az önellátásra korlátozottan képes emberek biztonságát és életvédelmét szolgáló digitalizációs program (a továbbiakban: Program) megvalósítása céljából a Nemzeti Szociálpolitikai Intézetről szóló 610/2020. (XII. 18.) Korm. rendelet 6. § e) pontjában foglalt szakmatámogatási feladatának elősegítése és a Program igénybevételére jogosult célcsoport tagjainak bevonása, a kapcsolattartás elősegítése és a Programban biztosított szolgáltatás nyújtásának érdekében átadja a Szociálpolitikai Innovációs Közhasznú Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: SZIN Nonprofit Kft.) részére a Program időtartama alatt minden év december 15. napjáig azon Magyarországon élő magyar állampolgárságú személyek természetes személyazonosító adatait, érvényes lakcímadatait, akik a tárgyévet követő év december 31-éig betöltik a 65. életévüket.
+
+24/M. § (1) A halottvizsgálatot végző orvos az elhunyt személy azonosítása érdekében az elhunyt személy
+
+- a) természetes személyazonosító adatairól,
+- b) arcképmásáról,
+- c) személyazonossága igazolására alkalmas hatósági igazolványa okmányazonosítójáról
+
+adatot igényelhet.
+
+(2) Az (1) bekezdés szerinti adatigénylés az elhunyt viselt neve, születési neve, születési helye és ideje, anyja neve adatok közül a halottvizsgálatot végző orvos tudomására jutottak, de legalább a viselt név, a születési hely és idő és az anyja családi neve adatok megadásával történik.
 
 ### V. Fejezet — A nyilvántartási eljárás
 

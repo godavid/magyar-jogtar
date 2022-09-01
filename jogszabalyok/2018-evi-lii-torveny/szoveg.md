@@ -477,7 +477,7 @@ tanúsítja, az a)–d) pont szerinti esetben az igazolás vagy a diákigazolvá
 
 33. § (1) Az adóval összefüggő adókötelezettségei teljesítése során az Art. rendelkezéseit e törvény rendelkezéseit figyelembe véve kell alkalmazni.
 
-(2) Az egyszerűsített közteherviselési hozzájárulásról, az egyszerűsített foglalkoztatásról, valamint a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény hatálya alá tartozó adózó az adóval összefüggő adókötelezettségeit az érintett törvény rendelkezései szerint teljesíti.
+(2) Az egyszerűsített közteherviselési hozzájárulásról, az egyszerűsített foglalkoztatásról, a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény, valamint a kisadózó vállalkozók tételes adójáról szóló törvény hatálya alá tartozó adózó az adóval összefüggő adókötelezettségeit az érintett törvény rendelkezései szerint teljesíti.
 
 (3) Az Európai Unió kötelező jogi aktusának vagy a nemzetközi szerződésnek a rendelkezését kell alkalmazni, amennyiben az adóra kiterjedő hatályú jogi aktus, nemzetközi szerződés e törvénytől eltérő rendelkezést tartalmaz.
 

@@ -51,7 +51,7 @@ alapján illeti meg,
 
 és az a)–b) pontban említett esetekben külön-külön és együttesen sem haladja meg az adóévben a (4) bekezdésben meghatározott összeghatárt.
 
-(2a) A (2) bekezdésben foglaltaktól eltérően nem alkalmazható a közterhek ekho szerinti megfizetése az egyéni vállalkozó tevékenységi körében szereplő, (3) és (3c) bekezdésben említett foglalkozás szerinti tevékenységre, ha az egyéni vállalkozó az adóévben a kisadózók tételes adója szerinti adózást választotta.
+(2a) A (2) bekezdésben foglaltaktól eltérően nem alkalmazható a közterhek ekho szerinti megfizetése az egyéni vállalkozó tevékenységi körében szereplő, (3) és (3c) bekezdésben említett foglalkozás szerinti tevékenységre, ha az egyéni vállalkozó az adóévben a kisadózó vállalkozók tételes adójáról szóló törvény szerinti adózást választotta.
 
 (3) Az (1) bekezdés c), valamint a (2) bekezdés a) és b) pontjában említett, FEOR-számmal azonosított foglalkozás:
 

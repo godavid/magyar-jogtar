@@ -2633,6 +2633,26 @@ kapcsolatos adatok adatokat.
 
 114/H. § Ha az ellenőrzési eljárás keretében megállapított tényállás alapján a 114/F. § (1) bekezdése szerinti rendelkezések megsértése is megvalósult, a Hivatal valamennyi jogsértésre egységes intézkedést is alkalmazhat.
 
+### XIII/B. Fejezet — ENERGETIKAI INNOVÁCIÓK TÁMOGATÁSÁVAL ÖSSZEFÜGGŐ FELADATOK
+
+114/I. § (1) A Hivatal energetikai szabályozási tesztkörnyezetet működtethet, amelynek célja, hogy ösztönözze és támogassa olyan energetikai innovációs teljesítmények elterjedését, piacra lépését, amelyek elősegíthetik a villamosenergia-rendszer fenntarthatóságának, költséghatékony működtetésének, a fogyasztói igények megfelelő ellátásának vagy az ellátásbiztonság növelését.
+
+(2) Energetikai innovációs teljesítmény bármely olyan, műszakilag és üzletileg megalapozott termék, szolgáltatás, technológia, üzleti modell vagy más újítás létrehozása, vagy hazai átvétele, ami Magyarországon még nem terjedt el.
+
+(3) Az energetikai szabályozási tesztkörnyezetben való részvételre irányuló kérelmet a Hivatal bírálja el az e törvény és a Hivatal elnöke által kiadott rendeletben meghatározott szabályok alapján. A Hivatal az energetikai szabályozási tesztkörnyezetben való részvételt engedélyezi, ha a kérelemben foglalt innovációs teljesítmény megfelel az (1) bekezdésben és a Hivatal elnökének rendeletében meghatározott feltételeknek és nem veszélyezteti a villamosenergia-ellátás biztonságát.
+
+(4) A (3) bekezdés szerinti engedélyezés tekintetében a határozat tartalmazza
+
+- a) a Hivatal elnökének rendeletében, valamint a villamosenergia-ellátási szabályzatokban előírt egyes rendelkezésektől való eltérés lehetőségét, az eltérés időbeli, tárgyi és területi hatályát, valamint
+- b) a kérelmező azon kötelezettségét, hogy a Hivatal elnökének rendeletében és a villamosenergia-ellátási szabályzatokban foglalt rendelkezéseknek a Hivatal elnökének rendeletében meghatározottak alapján, a határozatban foglalt eltérésekkel tegyen eleget.
+
+(5) Az energetikai szabályozási tesztkörnyezetben való részvételt a Hivatal legfeljebb 24 hónapra engedélyezi, ami kérelemre, indokolt esetben egy alkalommal, legfeljebb további 24 hónappal meghosszabbítható, ha a (3) bekezdésben foglalt feltételek továbbra is fennállnak. Az engedélyt a Hivatal visszavonja, ha megállapítja, hogy
+
+- a) az energetikai szabályozási tesztkörnyezetben résztvevő megsértette a határozatban foglaltakat vagy
+- b) a (3) bekezdésben foglalt feltételek már nem állnak fenn.
+
+(6) Az e fejezet alapján lefolytatott eljárások nem érintik a 177/A. §-ban szabályozott mintaprojekteket.
+
 ### XIV. Fejezet — VILLAMOSENERGIA-IPARI ÉPÍTÉSÜGYI HATÓSÁGI ENGEDÉLYEZÉSI ELJÁRÁSOK
 
 115. § (1) E törvény alkalmazásában építésügyi hatósági engedélyezési eljárások fajtái:
@@ -3377,6 +3397,8 @@ céljából kezelheti a távlehívható fogyasztásmérő által gyűjtött adat
 
 (7) A Hivatal egyéb feladatai körében ellátja az energiapolitikáért felelős miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezetek kijelölésével kapcsolatos feladatokat.
 
+(8) A Hivatal a villamosenergia-ellátással, a villamosenergia-ellátás biztonságának és a villamosenergia-piac hatékony működésének felügyeletével, a felhasználók érdekeinek védelmével kapcsolatos feladatai körében, továbbá az energiapolitikai célkitűzések, valamint a fenntartható fejlődés követelményeinek érvényesítésével összefüggő feladatainak a támogatására energetikai szabályozási tesztkörnyezetet működtethet.
+
 ### Tanúsítási eljárás
 
 160. § (1) A Hivatal köteles ellenőrizni, hogy az átviteli rendszerirányító folyamatosan megfelel-e a szétválasztási szabályoknak. A Hivatal a megfelelés biztosítása érdekében e § szerint tanúsítási eljárást folytat le az alábbi esetekben:
@@ -3553,6 +3575,7 @@ együttműködik. A Hivatal és a Felügyelet az együttműködésük részletes
 - i) az átviteli rendszerüzemeltetők és a kijelölt villamosenergiapiac-üzemeltetők által kialakított feltételek és módszertanok jóváhagyása esetében a 2015/1222/EU bizottsági rendeletben meghatározott időtartam,
 - j) az e törvény hatálya alá tartozó panaszeljárásban 55 nap,
 - k) a közvetlenül alkalmazandó Európai Uniós jogi aktusokban meghatározott és a Hivatal hatáskörébe tartozó eltérés engedélyezésére irányuló eljárásban 4 hónap.
+- l) az energetikai szabályozási tesztkörnyezethez kapcsolódó eljárásban 152 nap.
 
 (3) Közigazgatási perben a Hivatal megtámadott határozata vonatkozásában a keresetlevél halasztó hatályának elrendelésének nincs helye, ha a határozat
 
@@ -3715,6 +3738,7 @@ rendeletben állapítsa meg.
 - 7. a biomassza vagy biogáz felhasználásával történő villamosenergia-termelés fenntartásának ösztönzésére szolgáló prémium típusú támogatás igénylésének részletes szabályait, továbbá mértékének kiszámítási módszereit és biogáz felhasználásával történő villamosenergia-termelésre vonatkozóan annak eredményeit,
 - 8. a demonstrációs projektté minősítés követelményeit és eljárásrendjét.
 - 9. a hálózati engedélyes által külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket, keretszabályokat, az árszabályozási ciklus kezdő és záró időpontját, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és a külön díjak alkalmazásának szabályait.
+- 10. a tesztkörnyezet által támogatott célokat, a kérelem benyújtására jogosultak körét, a kérelem benyújtásával kapcsolatos szabályokat, a kérelem elbírálásával kapcsolatos részletes szabályokat, az engedélyezhető eltérések részletes tartalmát, a tesztkörnyezet résztvevőinek jogait és kötelezettségeit, az energetikai innovációs teljesítmények alkalmazásával kapcsolatos felelősségi kérdéseket, az energetikai tesztkörnyezetben való részvétel meghosszabbításának a feltételeit és a kötelezettségek megszegésével kapcsolatos jogkövetkezményekkel kapcsolatos részletes szabályokat.
 
 ### XXI. Fejezet — ÁTMENETI RENDELKEZÉSEK
 

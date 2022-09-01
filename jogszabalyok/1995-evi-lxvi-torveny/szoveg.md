@@ -181,7 +181,7 @@ azzal, hogy a visszaszolgáltatást megelőzően az iratról a Hatóság elektro
 8. § A levéltári anyag védelmének ágazati irányítását a kultúráért felelős miniszter látja el. Ágazati irányító hatáskörében
 
 - a) működteti a levéltári szakmai testületet és a levéltári szakfelügyeletet,
-- b) szabályozza
+- b) szabályozza és ellenőrzi – az elektronikus iratok biztonságos másolatának átadására és tárolására vonatkozó kormányrendeletben meghatározott eltéréssel –
   - ba) a levéltári állomány gyarapításával és a levéltári gyűjtőmunkával kapcsolatos feladatokat, a maradandó értékű irattári és levéltári anyag illetékességből történő átvételét, az iratok cseréjét és letéti megőrzését,
   - bb) a levéltári anyag őrzésének és tárolásának követelményeit, a levéltári raktárak használati rendjével és az állományvédelemmel kapcsolatos követelményeket, az iratok levéltári feldolgozására, a levéltári anyag rendszerezésére, rendezésére vonatkozó előírásokat, a levéltári anyag selejtezésének, nyilvántartásának, leírásának és a segédletek készítésének követelményeit,
   - bc) a levéltári anyag használatának szabályait, a levéltári kutatás, tájékoztatás és kölcsönzés, valamint az ezzel összefüggő nyilvántartások vezetésének követelményeit, a hitelesített iratmásolat külföldre történő továbbítását,
@@ -394,7 +394,7 @@ iratkezelése, iratai, valamint minden olyan közfeladatot ellátó szerv iratke
 (2) A Magyar Nemzeti Levéltár a 13. §-ban meghatározott feladatokon kívül
 
 - a) a külön jogszabályban meghatározott szakmai követelmények érvényesítése érdekében módszertani ajánlásokat és egyéb segédanyagokat dolgoz ki, s azokat a kultúráért felelős miniszter egyetértésével közzéteszi.
-- b) mint elektronikus ügyintézésre kötelezett szerv biztosítja az elektronikus ügyintézésre vonatkozó jogszabályokban előírt kötelezettségek teljesítését;
+- b) mint elektronikus ügyintézés biztosítására kötelezett szerv biztosítja az elektronikus ügyintézésre vonatkozó jogszabályokban előírt kötelezettségek teljesítését;
 - c) nyilvántartja a közlevéltárakat és a magánlevéltárakat;
 - d) feltárja, nyilvántartja és gyűjti (másolatban beszerzi vagy megvásárolja) a magyar vonatkozású külföldi levéltári anyagot;
 - e) őrzi a törvények eredeti példányát;
@@ -406,6 +406,8 @@ iratkezelése, iratai, valamint minden olyan közfeladatot ellátó szerv iratke
 - k) ellátja a levéltári szakfelügyelet működtetésével kapcsolatos teendőit;
 - l) gyakorolja a 34. § (1) bekezdésében meghatározott elővásárlási jogát;
 - m) a kultúráért felelős miniszter által meghatározott szempontok szerint gyűjti és feldolgozza a közlevéltárak, valamint a nyilvános magánlevéltárak működésével kapcsolatos adatokat.
+
+(3) A Magyar Nemzeti Levéltár a levéltári anyaggal kapcsolatos, a Kormány rendeletében meghatározott elektronikus adatokról – ha jogszabály szigorúbb követelményt nem állapít meg – legalább a Kormány rendeletében meghatározottak szerinti gyakorisággal és rendben biztonsági mentéseket hoz létre, valamint a biztonsági mentéseket a Kormány által kijelölt, az adatok őrzéséért felelős szervnek megküldi. A biztonsági mentés adataiba az adatok őrzéséért felelős szerv nem tekinthet bele.
 
 18. § A Budapest Főváros Önkormányzata által fenntartott levéltár területi általános levéltárként Budapest Főváros Önkormányzata közvetlen felügyelete és irányítása alatt működik. Illetékességi körébe tartozik a fenntartó önkormányzat, a Budapest közigazgatási területén működő helyi önkormányzatok és nemzetiségi önkormányzatok képviselő-testületeinek, hivatalainak és intézményeinek, ezek jogelődeinek, valamint a fővárosi és kerületi önkormányzatok többségi tulajdonában álló gazdasági társaságoknak, továbbá a központi államigazgatási szervek, a rendőrség, a hivatásos katasztrófavédelmi szerv és a büntetés-végrehajtási szervezet területi szerveinek, valamint az alap- és középfokú köznevelési intézmények Budapest közigazgatási területén keletkezett levéltári anyaga és minden olyan, Budapest területén keletkezett levéltári anyag, amely nem tartozik más levéltár illetékességi körébe.
 
@@ -653,6 +655,8 @@ iratkezelésére és irataira, továbbá mindezek jogelődeinek, a jogelődei á
 rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a jogszabály-előkészítési munkafolyamatot támogató szoftverként a köziratok e törvényben meghatározott kezelésének és védelmének követelményeit megvalósító szoftvert és az annak felhasználója által az abban létrehozott irattal kapcsolatos iratkezelésre kiterjedően az iratkezelés követelményeit és az iratkezelési szabályzat tartalmát.
+
+35/C. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a Magyar Nemzeti Levéltárnak a levéltári anyaggal kapcsolatos adatai biztonsági mentésének rendjét és gyakoriságát, a biztonsági mentéssel érintett adatok körét, valamint az adatok őrzéséért felelős szervet.
 
 36. § Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben szabályozza
 

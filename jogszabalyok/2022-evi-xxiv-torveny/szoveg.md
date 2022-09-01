@@ -61,7 +61,7 @@ lép.
 
 - 1.
 - 2.
-- 3.
+- 3. 1. számú melléklete a 4. melléklet,
 - 4.
 - 5.
 - 6.
@@ -110,7 +110,12 @@ szerint módosul.
 
 #### 14. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
-32. §
+32. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény
+
+- 1. 21/A. § (1) bekezdésében a „magánnyugdíjpénztár tagja” szövegrész helyébe az „a 2010. október 1-je előtti időszakra magánnyugdíjpénztári tagdíjat fizetett, és az öregségi nyugdíj megállapításakor a magánnyugdíjpénztári tagsága fennáll vagy úgy szűnt meg, hogy az egyéni számláján lévő összeget nem utalta át az államháztartás részére” szöveg, és
+- 2. 82. § (1) bekezdésében a „kérheti a nyugdíja” szövegrész helybe az „az öregségi nyugdíjkorhatára betöltésének napjára kérheti az öregségi nyugdíja” szöveg
+
+lép.
 
 #### 15. A gazdasági kamarákról szóló 1999. évi CXXI. törvény módosítása
 
@@ -230,15 +235,39 @@ szerint módosul.
 
 #### 31. Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény módosítása
 
-75. §
+75. § Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 52. § (1) bekezdése a következő h)–j) ponttal egészül ki:
 
-76. §
+(A civil közösségi szolgáltató központok 51. § szerinti tevékenységük keretében az alábbi feladatokat látják el:)
 
-77. §
+„h) az ellátási területükön működő helyi civil szervezeteket összefogva együttműködnek az országos rendezvények helyi megvalósításában,
 
-78. §
+i) ismeretátadással segítik a civil szervezeti vezetők, a civil területen feladatot ellátók, a civil szervezeteknél önkéntes tevékenységet végzők munkáját,
 
-79. §
+j) részt vállalnak a civil közösségi szolgáltató központok közös feladatainak megvalósításában.”
+
+76. § Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 53. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az (5) bekezdés szerinti kötelezettségét a fejezetet irányító szerv, az alappal való rendelkezésre jogosult miniszter, illetve a költségvetési előirányzat kezelője a kincstár útján teljesíti. Ennek végrehajtását a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter ellenőrizheti.”
+
+77. § Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 59. § (4) bekezdés b) pontja helyébe a következő rendelkezés lép:
+
+(A határon túli civil szervezet)
+
+„b) önállóan lehet támogatás kedvezményezettje – feltéve, hogy egy alkalommal már társpályázó volt – az 56. § (1) bekezdés c) pontja”
+
+(szerinti támogatás esetén.)
+
+78. § Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény
+
+- 1. 54. § c) pontjában az „Európai Unió strukturális alapjaiból, illetve a Kohéziós Alapból” szövegrész helyébe az „európai uniós forrásból” szöveg,
+- 2. 56. § (2) bekezdés a) pontjában a „nyolcvanöt” szövegrész helyébe a „nyolcvan” szöveg, az „a)–j) pontja” szövegrész helyébe az „a)–c), h) és j) pontja” szöveg,
+- 3. 56. § (2) bekezdés b) pontjában a „tizenöt” szövegrész helyébe a „húsz” szöveg, a „b)–g) és i)–j) pontjai” szövegrész helyébe az „b), c) és j) pontja” szöveg,
+- 4. 59. § (4) bekezdés a) pontjában a „c), f), g), j) pontja” szövegrész helyébe a „c) és j) pontja” szöveg, és
+- 5. 61. § (1) bekezdésében az „a)–j) pontja” szövegrész helyébe az „a)–c), h) és j) pontja” szöveg
+
+lép.
+
+79. § Hatályát veszti az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 56. § (1) bekezdés d)–g) és i) pontja.
 
 #### 32. A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény módosítása
 
@@ -512,25 +541,64 @@ lép.
 
 #### 50. A polgári perrendtartásról szóló 2016. évi CXXX. törvény módosítása
 
-176. §
+176. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 226. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-177. §
+„(1) Ha e törvény eltérően nem rendelkezik, a tárgyalást – ideértve a folytatólagos tárgyalást is – úgy kell kitűzni, hogy az az e törvény szerint kitűzésre okot adó perbeli cselekménytől számított legkésőbb négy hónapon belül megtartható legyen. A bíróság a tárgyalást és a folytatólagos tárgyalást több, akár egymást követő tárgyalási napokra is kitűzheti.”
 
-178. §
+177. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 242. §-a a következő (2a) bekezdéssel egészül ki:
 
-179. §
+„(2a) Ha keresethalmazat esetén a magyar bíróság joghatósága csak egyes keresetek vonatkozásában állapítható meg, a bíróság az eljárást a megszüntetési okkal érintett keresetek tekintetében részben is megszüntetheti.”
 
-180. §
+178. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 431. §-a a következő (5) bekezdéssel egészül ki:
 
-181. §
+„(5) Azokban a perekben, amelyekben a bíróság a kiskorú gyermeket érintő kérdésben is határoz, a bíróság általános intézkedési kötelezettségének határideje legfeljebb tizenöt nap.”
 
-182. §
+179. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 432. §-a a következő (3a) bekezdéssel egészül ki:
 
-183. §
+„(3a) A perfelvételi és a folytatólagos perfelvételi tárgyalás kitűzésére vonatkozó határidő két hónap, ha a bíróság a perben a kiskorú gyermeket érintő kérdésben is határoz.”
 
-184. §
+180. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 434. §-a a következő (8) bekezdéssel egészül ki:
 
-185. §
+„(8) Az érdemi és a folytatólagos érdemi tárgyalás kitűzésére vonatkozó határidő két hónap, ha a bíróság a perben a kiskorú gyermeket érintő kérdésben is határoz.”
+
+181. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 435. §-a helyébe a következő rendelkezés lép:
+
+„435. § [Ideiglenes intézkedés]
+
+(1) A bíróság – szükség esetén – a felek erre irányuló kérelme hiányában is hozhat ideiglenes intézkedést.
+
+(2) A bíróság a 103. § (1) bekezdése szerinti feltételek fennállásának hiányában is hozhat ideiglenes intézkedést, ha a kérelmező olyan tényt valószínűsít vagy a bíróság olyan tényt észlel, amely a kiskorú gyermek érdekének védelmét szolgáló ideiglenes intézkedést megalapozza.
+
+(3) A bíróság az ideiglenes intézkedés iránti kérelmet – a bírósághoz történő érkezésétől számított – három munkanapon belül megküldi nyilatkozattételre az ellenérdekű félnek, aki arra a kézbesítéstől számított nyolc napon belül írásban köteles nyilatkozni. A határidő eredménytelen eltelte után a bíróság a rendelkezésre álló adatok alapján dönt. A bíróság a kérelem tárgyában a felek nyilatkozatait személyes meghallgatás útján is beszerezheti, ha azt célravezetőbbnek tartja.
+
+(4) A bíróság az ideiglenes intézkedés iránti kérelem tárgyában a kérelem bírósághoz érkezésétől számított harminc napon belül határoz. A másodfokú bíróság az iratoknak a másodfokú bírósághoz történő beérkezését követő harminc napon belül határoz.
+
+(5) Ha az ismételten előterjesztett ideiglenes intézkedés iránti kérelem tárgya a korábban elbírált kérelemmel tartalmilag azonos, és a kérelmező nem valószínűsíti a kérelmet megalapozó új körülmény fennállását, az ideiglenes intézkedés iránti kérelmet elutasító végzés esetén a 105. § (1) bekezdésének a végzés elleni fellebbezésre vonatkozó rendelkezése nem alkalmazható.”
+
+182. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 456. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Ha a perfelvételi tárgyaláson a felek nem békülnek ki, és perfelvételi nyilatkozataikat megtették, továbbá a perfelvételi tárgyalás elhalasztásának nincs helye, a bíróság a perfelvételt lezárja, és kitűzi az érdemi tárgyalás határnapját, vagy – ha az ügy körülményei lehetővé teszik – nyomban áttér az érdemi tárgyalásra.”
+
+183. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 126. alcíme a következő 473/A. §-sal egészül ki:
+
+„473/A. § [A joghatóság átadása más állam bíróságának]
+
+(1) Ha az ügyben külföldi elem van és az Európai Unió kötelező jogi aktusa vagy nemzetközi egyezmény lehetőséget biztosít a joghatóság átadására más állam bíróságának – az ezzel kapcsolatban előírt intézkedések megtétele előtt – az átadás megengedhetőségéről az eljáró bíróság végzést hoz, amely ellen külön fellebbezésnek van helye. A joghatóság átadásával kapcsolatos intézkedések megtételére e végzés jogerőre emelkedését követően kerülhet sor.
+
+(2) A joghatóság más állam bíróságának való átadását követően a bíróság az eljárást hivatalból megszünteti.”
+
+184. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 631. § (2) bekezdése a következő 14. ponttal egészül ki:
+
+(E törvény)
+
+„14. a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló 2019. június 25-i (EU) 2019/1111 tanácsi rendelet”
+
+(végrehajtását szolgálja.)
+
+185. § Hatályát veszti a polgári perrendtartásról szóló 2016. évi CXXX. törvény
+
+- 1. 223. § (1) bekezdésében az „A bíróság az érdemi tárgyalást és a folytatólagos érdemi tárgyalást több, akár egymást követő tárgyalási napokra is kitűzheti.” szövegrész, és
+- 2. 456. § (5) és (6) bekezdése.
 
 #### 51. A hivatalos statisztikáról szóló 2016. évi CLV. törvény módosítása
 
@@ -690,15 +758,29 @@ lép.
 
 #### 74. A tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről, szétválásáról és egyéb jogharmonizációs célú törvénymódosításról szóló 2021. évi CXXIV. törvény módosítása
 
-240. §
+240. § A tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről, szétválásáról és egyéb jogharmonizációs célú törvénymódosításról szóló 2021. évi CXXIV. törvény 18. § (2) bekezdése a következő szöveggel lép hatályba:
 
-241. §
+„(2) Ha e törvény eltérően nem rendelkezik, a tanúsítvány kiadására vonatkozó bírósági eljárásra a Ctv. változásbejegyzési eljárásra vonatkozó rendelkezéseit kell alkalmazni. A tanúsítvány kiadása iránti kérelemhez csatolandó iratokat a Ctv. határozza meg azzal, hogy a legfőbb szerv határozatait olyan módon kell csatolni, hogy a csatolt okirat tartalmából a határozathozatalra vonatkozó információk is megállapíthatóak legyenek. A tanúsítvány kiadása iránti kérelemhez csatolt iratokat, ha azok nem magyar nyelven készültek, hiteles magyar nyelvű fordításban is csatolni kell.”
 
-242. §
+241. § A tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről, szétválásáról és egyéb jogharmonizációs célú törvénymódosításról szóló 2021. évi CXXIV. törvény 32. § c) pontja a következő szöveggel lép hatályba:
 
-243. §
+(Az 5. alcím rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a határokon átnyúló egyesülésről véglegesen döntő legfőbb szervi határozat polgári perben történő felülvizsgálata és érvénytelenségének megállapítása nem kérhető arra hivatkozva, hogy)
 
-244. §
+„c) az a) pontban említett cserearány és a b) pontban említett pénzbeli kártalanítás tekintetében nyújtott tájékoztatás nem felelt meg a jogszabályi előírásoknak.”
+
+242. § A tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről, szétválásáról és egyéb jogharmonizációs célú törvénymódosításokról szóló 2021. évi CXXIV. törvény 41. § c) pontja a következő szöveggel lép hatályba:
+
+(Az 5. alcím rendelkezései azzal az eltéréssel alkalmazandók, hogy a határokon átnyúló szétválásról véglegesen döntő legfőbb szervi határozat polgári perben történő felülvizsgálata és érvénytelenségének megállapítása nem kérhető arra hivatkozva, hogy)
+
+„c) az a) pontban említett cserearány és a b) pont szerinti pénzbeli kártalanítás tekintetében nyújtott tájékoztatás nem felelt meg a jogszabályi előírásoknak.”
+
+243. § A tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről, szétválásáról és egyéb jogharmonizációs célú törvénymódosításról szóló 2021. évi CXXIV. törvény 48. § (3) bekezdése a következő szöveggel lép hatályba:
+
+„(3) A határokon átnyúló műveletet megelőzően alkalmazott munkavállalói részvételi szabályok alkalmazandók a későbbi megállapodás alapján elfogadott szabályok alkalmazásának időpontjáig, vagy – megállapodás hiányában – ameddig az Eurt. tv. 48. § (2) bekezdésében meghatározott szabályok alkalmazásra kerülnek. A határokon átnyúló egyesülés esetén, ha az egyesülő társaságok közül legalább egynél az Eurt. tv. 18. § (1) bekezdés g) pontja szerinti munkavállalói részvétel megvalósult, az egyesülésben részt vevő társaságok – a munkavállalóik vagy azok képviselőinek tájékoztatása mellett – dönthetnek úgy, hogy bármilyen előzetes egyeztetés nélkül közvetlenül alkalmazzák magukra az Eurt. tv. 48. § (1) és (3) bekezdésében, 49. §-ában és 50. §-ában foglalt általános részvételi szabályokat a bejegyzés napjától. Ha az egyesülésen részt vevő társaságok tárgyalást kezdeményeznek a különleges egyeztető testülettel, erről és az egyeztetések eredményéről a társaságok a munkavállalóikat vagy azok képviselőit késedelem nélkül tájékoztatják.”
+
+244. § A tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről, szétválásáról és egyéb jogharmonizációs célú törvénymódosításról szóló 2021. évi CXXIV. törvény 50. § (1) bekezdése a következő szöveggel lép hatályba:
+
+„(1) E törvény rendelkezéseit azokban a határokon átnyúló műveletekben kell alkalmazni, amelyekben a társaság a 12. § szerinti közzétételt 2022. szeptember 1. napján vagy azt követően kezdeményezi.”
 
 #### 75. Az egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongazdálkodást és nemzeti pénzügyi szolgáltatásokat érintő törvények módosításáról szóló 2021. évi CXXXIII. törvény módosítása
 
@@ -799,6 +881,16 @@ alapján sarkalatosnak minősül.
 ### 3. melléklet a 2022. évi XXIV. törvényhez
 
 ### 4. melléklet a 2022. évi XXIV. törvényhez
+
+A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 7. pont 7.21. alpont c) alpontja helyébe a következő rendelkezés lép:
+
+[Egyéb indokkal adómentes:
+
+7.21. a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzkölcsön nyújtásából, pénzügyi lízingszerződésből származó követelés elengedése (akkor is, ha az elengedés egyezség keretében történik) feltéve, hogy a követelés elengedésére]
+
+„c) a Magyar Nemzeti Banknak a pénzügyi intézmények számára a fizetési késedelemmel érintett lakossági hitel-, kölcsön- és pénzügyi lízingszerződések kezelés során elvárt fogyasztóvédelmi elvekről szóló 5/2022. (IV. 22.) MNB ajánlása alapján, az adós fizetőképességének helyreállítása érdekében”
+
+[kerül sor;]
 
 ### 5. melléklet a 2022. évi XXIV. törvényhez
 

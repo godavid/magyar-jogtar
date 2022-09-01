@@ -207,6 +207,7 @@ más, lakhatást biztosító, tulajdonjoga, haszonélvezeti vagy használati jog
   - c) kisadózó vállalkozások tételes adója,
   - d) a települési (községi, városi, fővárosi és kerületi) önkormányzat, valamint a megyei önkormányzat képviselő-testülete (a továbbiakban együtt: önkormányzat) által, az önkormányzat illetékességi területén rendelettel bevezetett helyi adók, valamint települési adók,
   - e) gépjárműadó.
+  - f) a kisadózó vállalkozók tételes adójáról szóló törvény szerinti adó.
 
 #### 3. Az adósságrendezési eljárásba vonható vagyon, bevétel és tartozások
 

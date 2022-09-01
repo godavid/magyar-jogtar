@@ -67,13 +67,22 @@ egyes törvényeknek nyilvántartásokkal és elektronikus ügyintézéssel öss
 - d)
 - e)
 
-#### 2.
+#### 2. A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény módosítása
 
-23. §
+23. § A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény (a továbbiakban: Ltv.) 17. §-a a következő (3) bekezdéssel egészül ki:
 
-24. §
+„(3) A Magyar Nemzeti Levéltár a levéltári anyaggal kapcsolatos, a Kormány rendeletében meghatározott elektronikus adatokról – ha jogszabály szigorúbb követelményt nem állapít meg – legalább a Kormány rendeletében meghatározottak szerinti gyakorisággal és rendben biztonsági mentéseket hoz létre, valamint a biztonsági mentéseket a Kormány által kijelölt, az adatok őrzéséért felelős szervnek megküldi. A biztonsági mentés adataiba az adatok őrzéséért felelős szerv nem tekinthet bele.”
 
-25. §
+24. § Az Ltv. a következő 35/C. §-sal egészül ki:
+
+„35/C. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a Magyar Nemzeti Levéltárnak a levéltári anyaggal kapcsolatos adatai biztonsági mentésének rendjét és gyakoriságát, a biztonsági mentéssel érintett adatok körét, valamint az adatok őrzéséért felelős szervet.”
+
+25. § Az Ltv.
+
+- a) 8. § b) pontjában a „szabályozza” szövegrész helyébe a „szabályozza és ellenőrzi – az elektronikus iratok biztonságos másolatának átadására és tárolására vonatkozó kormányrendeletben meghatározott eltéréssel –” szöveg,
+- b) 17. § (2) bekezdés b) pontjában az „elektronikus ügyintézésre kötelezett szerv” szövegrész helyébe az „elektronikus ügyintézés biztosítására kötelezett szerv” szöveg
+
+lép.
 
 #### 3. A büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény módosítása
 
