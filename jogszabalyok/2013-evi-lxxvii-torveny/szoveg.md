@@ -452,9 +452,9 @@ a Kormány rendeletében meghatározott feltételek mellett együttműködési m
 
 (4) A (3) bekezdés f) pontja szerinti időszak számítása során a különböző, egymást követő időszakokat össze kell számítani és azt folyamatosnak kell tekinteni, ha abban egybefüggően legfeljebb 30 nap megszakítás van, amelynek időtartama az adott időszakba nem számít bele, annak számításakor nem vehető továbbá figyelembe a közfoglalkoztatás keretében fennálló jogviszony és az álláskeresési támogatás igénybevételének időtartama.
 
-(5) A képzésben részt vevő személy a képzési hitel igénylése során azt a tényt, hogy büntetlen előéletű, a hitelkérelem benyújtásakor hatósági bizonyítvánnyal igazolja.
+(5) A képzésben részt vevő személy a képzési hitel igénylése során azt a tényt, hogy büntetlen előéletű, a hitelkérelem benyújtásakor hatósági bizonyítvánnyal igazolja. A képzési hitelre való jogosultság feltételeit a Diákhitel szervezet központi kormányzati szolgáltatási busz használatával vagy a jogosultsági feltételre vonatkozó adatot kezelő szerv közvetlen megkeresése útján ellenőrzi.
 
-(6) Ha a képzési hitel tekintetében visszaélés gyanúja merül fel, a Diákhitel szervezet a hitelkérelem elbírálását, illetve a képzési hitel folyósítását felfüggeszti és a jogosultság feltételeinek fennállását a jogosultsági feltételre vonatkozó adatot kezelő szerv közvetlen megkeresése útján ellenőrizheti.
+(6) Ha a képzési hitel tekintetében visszaélés gyanúja merül fel, a Diákhitel szervezet a hitelkérelem elbírálását, illetve a képzési hitel folyósítását felfüggeszti.
 
 (7) A képzési hitelhez kapcsolódóan megismert személyes adatot a Diákhitel szervezet a hiteltartozás megszűnését követő ötödik év utolsó napjáig kezeli.
 

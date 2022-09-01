@@ -421,6 +421,8 @@ tartalmazza.
 
 (3b) A születéssel, illetve halálozással kapcsolatos események anyakönyvezése céljából teljesítendő bejelentési kötelezettsége során az egészségügyi szolgáltató, a halál okát megállapító orvos vagy a kórbonctani vizsgálatot, hatósági vagy igazságügyi boncolást végző intézmény megismerheti és törvényben meghatározott szerv részére továbbíthatja élveszületés esetén a gyermek szülei, halálozás esetén az életben lévő házastárs, bejegyzett élettárs személyazonosító adatait.
 
+(3c) A kormányablak, továbbá – ha a halál körülményeinek vizsgálatára hatósági vagy büntetőeljárás indult – a temetőkről és a temetkezésről szóló törvény szerinti, az eltemettetéshez és elhamvasztáshoz szükséges engedélyt kiadó hatóság az Eütv. szerinti halottvizsgálati bizonyítványról készített papíralapú másolat kiállítása céljából, az ehhez szükséges ideig kezeli a halottvizsgálati bizonyítványról készített papíralapú másolat kiállításához szükséges adatokat.
+
 (4) A nemzetközi adatszolgáltatási kötelezettség teljesítéséhez, az egészségpolitikai döntésekhez, az egészségügyi ellátás tervezéséhez, szervezéséhez, a népegészségügyi mutatók monitorozásához, illetve a minőségi és biztonsági követelmények érvényesülésének ellenőrzéséhez szükséges, az egészségügyi ellátóhálózat által, továbbá az egészségbiztosítási szerv által finanszírozási célból gyűjtött és kezelt, személyazonosításra alkalmatlan ágazati, szakmai adatok körét, az adatkezelés és az adattovábbítás rendjét a miniszter határozza meg.
 
 (5) Az egészségbiztosítási szerv által finanszírozási célból gyűjtött adatok személyazonosításra alkalmatlan módon a (4) bekezdés szerinti célból is kezelhetők és az ott meghatározott módon továbbíthatók.
