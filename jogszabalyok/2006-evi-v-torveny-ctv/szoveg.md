@@ -96,7 +96,7 @@ valamint a céginformációs szolgálat feladatai
 - c) felszámolási eljárás esetén „felszámolás alatt” („f. a.”),
 - d) végelszámolási eljárás esetén „végelszámolás alatt” („v. a.”),
 - e) kényszertörlési eljárás esetén „kényszertörlés alatt” („kt. a.”),
-- f) határokon átnyúló egyesülés céljára létrejövő cég esetén „egyesülés céljára alapított” („e.a.”)
+- f)
 - g) nyilvános szerkezetátalakítási eljárás esetén „szerkezetátalakítás alatt („sz. a.”) toldattal kell használni.
 
 6. § (1) Két vagy több azonos nevű cég közül a választott név (rövidített név) viselésének joga azt illeti meg, amelyik a cégbejegyzési kérelmét elsőként nyújtotta be, illetve amelyik a (3) bekezdés alapján névfoglalással élt.
@@ -518,6 +518,17 @@ megismerhetők.
 - z) azt a tényt, hogy a cég tagja e jogállását bizalmi vagyonkezelőként szerezte meg.
 
 (1a) A cégbíróság hivatalból jegyzi be az EUID-val rendelkező cég cégjegyzékébe a cég Európai Unió más tagállamában bejegyzett fióktelepét, ha a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül értesítést kap a fióktelep bejegyzéséről.
+
+(1b) A cégjegyzék – az (1) bekezdésben foglaltakon túl – szükség szerint tartalmazza továbbá határokon átnyúló átalakulás, határokon átnyúló egyesülés vagy határokon átnyúló szétválás esetén
+
+- a) a jogelőd, jogelődök nevét, székhelyét, nyilvántartási számát,
+- b) a jogelőd, jogelődök társasági formáját,
+- c) a jogelőd, jogelődök székhelye szerinti országkódját,
+- d) a jogutód, jogutódok nevét, székhelyét, nyilvántartási számát,
+- e) a jogutód, jogutódok társasági formáját,
+- f) a jogutód, jogutódok székhelye szerinti országkódját,
+- g) a határokon átnyúló átalakulás, a határokon átnyúló egyesülés vagy a határokon átnyúló szétválás időpontját,
+- h) a tanúsítvány kiadásának időpontját, azt a tényt, hogy a cég törlésére vagy jogutódként való bejegyzésére határokon átnyúló átalakulás, határokon átnyúló egyesülés vagy határokon átnyúló szétválás eredményeként került sor.
 
 (2) A cégbíróság az adóhatóság elektronikus értesítése alapján automatikus bejegyzéssel jegyzi be a cég közösségi adószámának törlését, illetve e határozat megsemmisítését vagy hatályon kívül helyezését, továbbá a határozat jogerőre emelkedésének napját.
 
@@ -2281,6 +2292,8 @@ vonatkozó részletes szabályokat rendelettel állapítsa meg.
 - j) a biztosítékok egyenértékűvé tétele céljából a részvénytársaságok alapításának, valamint tőkéjük fenntartásának és módosításának tekintetében a tagállamok által a társasági tagok és harmadik személyek érdekei védelmében az Európai Unió működéséről szóló szerződés 54. cikkének második bekezdése szerinti társaságoknak előírt biztosítékok összehangolásáról (átdolgozás) szóló, 2012. október 25-i 2012/30/EU európai parlamenti és tanácsi irányelv.
 - k) az (EU) 2017/1132 irányelvnek a digitális eszközök és folyamatok társasági jog terén történő használata tekintetében történő módosításáról szóló, 2019. június 20-i (EU) 2019/1151 európai parlamenti és tanácsi irányelv, kivéve az (EU) 2019/1151 irányelv 1. cikkének az (EU) 2017/1132 irányelv 13i. cikkét, 13j. cikk (2) bekezdését, és 16. cikk (6) bekezdését megállapító rendelkezéseit.
 
+(1a) E törvény – végrehajtási rendeleteivel és a Ptk.-val együtt – az (EU) 2017/1132 irányelv határokon átnyúló átalakulások, egyesülések és szétválások tekintetében történő módosításáról szóló, 2019. november 27-i 2019/2121 (EU) európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
 (2) E törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
 
 - a) a Tanács 2137/85/EGK rendelete az európai gazdasági egyesülésről (az európai gazdasági egyesülésről, valamint a gazdasági társaságokról szóló 1997. évi CXLIV. törvény és a cégnyilvántartásról, a cégnyilvánosságról és a bírósági cégeljárásról szóló 1997. évi CXLV. törvény jogharmonizációs célú módosításáról szóló 2003. évi XLIX. törvénnyel együtt);
@@ -2475,11 +2488,35 @@ III. Átalakulás bejegyzéséhez szükséges további okiratok:
 
 7. szétválás esetén a szétválási terv.
 
-8. tanúsítvány kiadásához az 1., a 2., a 4–6. pontok alatti okiratok, a tőkeegyesítő társaságok határokon átnyúló egyesüléséről szóló 2007. évi CXL. törvény (a továbbiakban: Tetv.) 6. § (2) bekezdésében meghatározott okiratok, továbbá a nem magyar nyelven készült okiratok hiteles magyar nyelvű fordítása;
+8. tanúsítvány kiadásához
 
-9. a határon átnyúló egyesülés útján magyarországi székhellyel létrejövő társaság bejegyzéséhez az 1., a 2., a 4–6. pontok alatti okiratok, a tanúsítvány, a Tetv. 12. § (3) bekezdésében meghatározott okiratok, továbbá a nem magyar nyelven készült okiratok hiteles magyar nyelvű fordítása;
+a) a határokon átnyúló átalakulás tervezete, az egyesülési tervezet vagy a szétválási tervezet,
 
-10. a Tetv. 13/D. § szerinti bejegyzés esetén az 1., a 2., az 5. pontok alatti okiratok, a tanúsítvány, a Tetv. 12. § (3) bekezdésében meghatározott okiratok, továbbá a nem magyar nyelven készült okiratok hiteles magyar nyelvű fordítása;
+b) a tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről, szétválásáról és egyéb jogharmonizációs célú törvénymódosításról szóló 2021. évi CXXIV. törvény (a továbbiakban: Tetv.) 10. §-a szerinti jelentés vagy jelentések és adott esetben a mellé csatolt vélemény, valamint a Tetv. 9. §-a szerint könyvvizsgálói jelentés, amennyiben ezek rendelkezésre állnak,
+
+c) a b) alpontban foglalt iratokra a Tetv. rendelkezései alapján benyújtott esetleges észrevételek,
+
+d) a legfőbb szerv határozatai,
+
+e) a nem magyar nyelven készült okiratok hiteles magyar nyelvű fordítása;
+
+f) a munkavállalói részvételi szabályokkal összefüggésben
+
+fa) a munkavállalóknak a jogutód társaság döntéshozatali rendjébe történő bevonásáról szóló megállapodás, vagy
+
+fb) a különleges tárgyaló testület határozata arról, hogy a munkavállalóknak a jogutód társaság döntéshozatali rendjébe történő bevonásáról nem kezdenek tárgyalásokat, vagy a megkezdett tárgyalásokat berekesztik, vagy
+
+fc) a határokon átnyúló műveletben részt vevő társaság vezető tisztségviselőjének nyilatkozata, több részt vevő társaság esetén a vezető tisztségviselők közös nyilatkozata arról, hogy a munkavállalóknak a jogutód társaság döntéshozatali rendjébe történő bevonásának szabályairól – az európai részvénytársaságról szóló törvényben meghatározott határidőn belül – a különleges tárgyaló testülettel megállapodás nem jött létre.
+
+9. a határokon átnyúló egyesülés útján magyarországi székhellyel létrejövő társaság bejegyzéséhez
+
+a) az I. és II. pontban, valamint a 2. számú mellékletben meghatározott okiratok,
+
+b) a 8. pont f) alpontja szerinti okirat,
+
+c) a nem magyar nyelven készült okiratok hiteles magyar nyelvű fordítása;
+
+10.
 
 IV. Felszámolás esetén szükséges okiratok:
 
@@ -2715,11 +2752,11 @@ d) ha az európai szövetkezet a székhelyét Magyarországra helyezi át, a kü
 
 III. Átalakulás bejegyzéséhez szükséges további okiratok:
 
-1. az átalakulást megelőzően még be nem fizetett, illetve nem szolgáltatott vagyoni hozzájárulás teljesítésének igazolása, kivéve a Tetv. 13/A.–13/D. § szerinti esetben;
+1.
 
 2. ha ilyen működik a cégnél, a felügyelőbizottságnak az átalakulással kapcsolatos nyilatkozata;
 
-3. a szükséges tőkepótlás befizetésének, illetve teljesítésének igazolása, a Tetv. 13/A. §–13/D. § szerinti esetben annak igazolása, hogy a teljes jegyzett tőke rendelkezésre bocsátásra került;
+3.
 
 4. ha az egyesülés vállalkozások összefonódását jelenti, a Gazdasági Versenyhivatal engedélye vagy a cég nyilatkozata arra vonatkozóan, hogy az összefonódás nem engedélyköteles;
 

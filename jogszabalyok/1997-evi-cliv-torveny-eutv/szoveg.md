@@ -3741,7 +3741,19 @@ van helye.
 
 megítéléséhez szükséges.
 
-(2) Halálozás esetén – az (5) bekezdésben foglalt kivétellel – a Kormány rendeletében meghatározott tartalmú halottvizsgálati bizonyítványt kell kiállítani.
+(2) Halálozás esetén – az (5) bekezdésben foglalt kivétellel – halottvizsgálati bizonyítványt kell kiállítani. A halottvizsgálati bizonyítvány – a Kormány rendeletében meghatározottak szerint – az (1) bekezdés szerinti célból tartalmazza
+
+- a) az elhunyt
+  - aa) azonosításához szükséges természetes személyazonosító adatokat, a lakcím-, illetve okmányadatokat, valamint az elhunyt állampolgárságára, Társadalombiztosítási Azonosító Jelére vonatkozó adatokat,
+  - ab) elhalálozásásának körülményeire, boncolására, halálának okaira vonatkozó egészségügyi adatokat, valamint az elhunyt temetésével összefüggő adatokat, valamint
+- b) az eltemettetésre kötelezett, illetve az eltemetést intéző személy azonosításához szükséges természetes személyazonosító és kapcsolattartási adatokat.
+
+(2a) A halottvizsgálati bizonyítvány kiállítására jogszabályban kijelölt, az Elektronikus Halottvizsgálati Bizonyítványt Kiállító Rendszer működtetője a (2) bekezdés szerinti, a halottvizsgálati bizonyítvány kiállításához szükséges,
+
+- a) az elhunytra vonatkozó adatokat a halottvizsgálati bizonyítvány kiállítását követő 30 évig,
+- b) az eltemettetésre kötelezettre, illetve az eltemettetőre vonatkozó adatokat a halottvizsgálati bizonyítvány kiállítását követő 5 évig
+
+kezeli.
 
 (3) Az (1) bekezdés a) pontjában foglaltak megállapítására a mentőtiszt vagy a külön jogszabály szerinti orvos jogosult. Az (1) bekezdés b) és c) pontjában foglaltak megállapítására kizárólag kormányrendeletben meghatározott orvos jogosult.
 
@@ -4528,7 +4540,7 @@ rendeletben kijelölje.
 - n) a nem az Etv. 28. §-a szerinti tagállamban egészségügyi felsőfokú szakirányú szakmai képzés során megszerzett képesítést tanúsító oklevelek, bizonyítványok elismerése során eljáró hatóságot,
 - o) az alapnyilvántartást vezető szervet, az egészségügyi szakértői nyilvántartást vezető szervet, valamint a szakértői tevékenységgel kapcsolatos hatósági eljárás részletes szabályait és a működési nyilvántartást vezető szervet,
 - p) a humán reprodukciós eljárásokkal kapcsolatos, kötelezően nyilvánosságra hozandó eredményességi adatok, statisztikák körét, a nyilvánosságra hozatal módját és helyét, továbbá az ellenőrzés módját,
-- q) a halottvizsgálatra, a halottakkal kapcsolatos orvosi eljárásra, a nem természetes halál esetén ellátandó feladatokra, a kórbonctani vizsgálatra, a hatósági és igazságügyi orvosi boncolásra, a holttest szállítására, tárolására, az ehhez kapcsolódó költségek viselésére, a halottvizsgálati szaktanácsadói névjegyzéket vezető egészségügyi államigazgatási szerv kijelölésére, a kihantolásra, valamint a holttest helyreállítására és átadására vonatkozó szabályokat, továbbá a halottvizsgálati szaktanácsadói névjegyzékkel összefüggésben
+- q) a halottvizsgálatra, a halottakkal kapcsolatos orvosi eljárásra, a nem természetes halál esetén ellátandó feladatokra, a kórbonctani vizsgálatra, a hatósági és igazságügyi orvosi boncolásra, a holttest szállítására, tárolására, az ehhez kapcsolódó költségek viselésére, a halottvizsgálati bizonyítvány részletes adattartalmára, a halottvizsgálati szaktanácsadói névjegyzéket vezető egészségügyi államigazgatási szerv kijelölésére, a kihantolásra, valamint a holttest helyreállítására és átadására vonatkozó szabályokat, továbbá a halottvizsgálati szaktanácsadói névjegyzékkel összefüggésben
   - qa) szaktanácsadói névjegyzékbe történő felvételre, valamint az ahhoz szükséges képesítési és szakmai feltételekre és a névjegyzékből való törlésre vonatkozó szabályokat,
   - qb) a halottvizsgálati szaktanácsadó igénybe vételének, a szaktanácsadói tevékenység folytatásának részletes feltételeit, a szaktanácsadói ügyeleti rendszer részletes szabályait,
   - qc) a halottvizsgálati szaktanácsadó részére fizetendő díjat és a díj megállapítására vonatkozó részletes szabályokat,

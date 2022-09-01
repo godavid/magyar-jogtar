@@ -2661,7 +2661,7 @@ vonatkozó szabályokat kell alkalmazni.
 
 #### 223. § [Az érdemi tárgyalás kitűzése és elmulasztásának következményei]
 
-(1) A bíróság az érdemi tárgyalást és a folytatólagos érdemi tárgyalást több, akár egymást követő tárgyalási napokra is kitűzheti. Ha az érdemi tárgyaláson a bizonyítás lefolytatása nem vagy csak részben lehetséges, a bíróság a tárgyalást elhalasztja és nyomban kitűzi a folytatólagos érdemi tárgyalás határnapját, amelyre a feleket idézi.
+(1) Ha az érdemi tárgyaláson a bizonyítás lefolytatása nem vagy csak részben lehetséges, a bíróság a tárgyalást elhalasztja és nyomban kitűzi a folytatólagos érdemi tárgyalás határnapját, amelyre a feleket idézi.
 
 (2) Ha a bíróság a perfelvételt lezáró végzés meghozatalát követően az érdemi tárgyalást nyomban megtartja, a tárgyalás elmulasztása esetén a 121. § (1) bekezdésének b) pontja nem alkalmazható.
 
@@ -2687,7 +2687,7 @@ vonatkozó szabályokat kell alkalmazni.
 
 #### 226. § [A tárgyalás kitűzése]
 
-(1) Ha e törvény eltérően nem rendelkezik, a tárgyalást – ideértve a folytatólagos tárgyalást is – úgy kell kitűzni, hogy az az e törvény szerint kitűzésre okot adó perbeli cselekménytől számított legkésőbb négy hónapon belül megtartható legyen.
+(1) Ha e törvény eltérően nem rendelkezik, a tárgyalást – ideértve a folytatólagos tárgyalást is – úgy kell kitűzni, hogy az az e törvény szerint kitűzésre okot adó perbeli cselekménytől számított legkésőbb négy hónapon belül megtartható legyen. A bíróság a tárgyalást és a folytatólagos tárgyalást több, akár egymást követő tárgyalási napokra is kitűzheti.
 
 (2) A tárgyalási időpontra vonatkozó rendelkezéseket nem kell alkalmazni, ha a fél részére a tárgyalásra szóló idézést külföldre kell kézbesíteni és a kézbesítéshez szükséges idő a tárgyalás határidőn belül történő megtartását nem teszi lehetővé.
 
@@ -2897,6 +2897,8 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 (1) Ha az eljárás hivatalból vagy kérelemre történő megszüntetésének oka csak a kereset vagy viszontkereset, illetve csak valamelyik fél vonatkozásában áll fenn, a bíróság az eljárást a kereset vagy viszontkereset, illetve a megszüntetési okkal érintett fél tekintetében részben szünteti meg.
 
 (2) Ha a felperes a keresetétől kizárólag a kereseti kérelme valamely önállóan elbírálható része tekintetében áll el, a bíróság az eljárást csak e rész tekintetében szünteti meg.
+
+(2a) Ha keresethalmazat esetén a magyar bíróság joghatósága csak egyes keresetek vonatkozásában állapítható meg, a bíróság az eljárást a megszüntetési okkal érintett keresetek tekintetében részben is megszüntetheti.
 
 (3) Az eljárás részbeni megszüntetése esetén az eljárás megszüntetésére irányadó szabályokat kell alkalmazni.
 
@@ -4865,7 +4867,7 @@ E törvény rendelkezéseit a személyi állapotot érintő perekben az e fejeze
 
 (4) A perben a természetes személy által a nem ügyvéd vagy ügyvédi iroda részére adott meghatalmazáson a fél aláírását, illetve kézjegyét közjegyző által hitelesíttetni kell.
 
-(5)
+(5) Azokban a perekben, amelyekben a bíróság a kiskorú gyermeket érintő kérdésben is határoz, a bíróság általános intézkedési kötelezettségének határideje legfeljebb tizenöt nap.
 
 #### 432. § [Perfelvétel]
 
@@ -4882,6 +4884,8 @@ helye nincs.
 (2) Ha a keresetlevél perfelvételre alkalmas, a bíróság – a felperes értesítése mellett – a keresetlevél alperes részére történő kézbesítésével egyidejűleg felhívja az alperest, hogy a keresetlevél kézbesítésétől számított harminc napon belül terjessze elő az írásbeli ellenkérelmét, egyidejűleg kitűzi a perfelvételi tárgyalás határnapját. Az alperes indokolt kérelmére a bíróság az írásbeli ellenkérelem benyújtására előírt határidőt legfeljebb tizenöt nappal meghosszabbíthatja.
 
 (3) A bíróság a perfelvételi tárgyalás határnapját úgy állapítja meg, hogy az előterjesztendő ellenkérelem, és esetleges viszontkereset a kitűzött határnap előtt a többi félnek kézbesíthető legyen.
+
+(3a) A perfelvételi és a folytatólagos perfelvételi tárgyalás kitűzésére vonatkozó határidő két hónap, ha a bíróság a perben a kiskorú gyermeket érintő kérdésben is határoz.
 
 (4) A jogi képviselő nélkül eljáró fél az ellenkérelmét – az írásbeli ellenkérelemre vonatkozó szabályoknak megfelelő tartalommal – szóban is előterjesztheti a perfelvételi tárgyaláson. Erről a bíróság az alperest a kereset közlésével egyidejűleg tájékoztatja.
 
@@ -4911,11 +4915,19 @@ A felperes a keresetétől az eljárás bármely szakaszában az alperes hozzáj
 
 (7) A per elbírálása során a bíróságnak fokozott figyelemmel kell lenni arra, hogy a gyermek veszélyeztetettségének jogszabály szerinti fennállása esetén haladéktalanul jelzéssel éljen a gyermekek védelmét biztosító szervek felé.
 
+(8) Az érdemi és a folytatólagos érdemi tárgyalás kitűzésére vonatkozó határidő két hónap, ha a bíróság a perben a kiskorú gyermeket érintő kérdésben is határoz.
+
 #### 435. § [Ideiglenes intézkedés]
 
 (1) A bíróság – szükség esetén – a felek erre irányuló kérelme hiányában is hozhat ideiglenes intézkedést.
 
-(2) Ha az ismételten előterjesztett ideiglenes intézkedés iránti kérelem tárgya a korábban elbírált kérelemmel tartalmilag azonos, és a kérelmező nem valószínűsíti a kérelmet megalapozó új körülmény fennállását, az ideiglenes intézkedés iránti kérelmet elutasító végzés esetén a 105. § (1) bekezdésének a végzés elleni fellebbezésre vonatkozó rendelkezése nem alkalmazható.
+(2) A bíróság a 103. § (1) bekezdése szerinti feltételek fennállásának hiányában is hozhat ideiglenes intézkedést, ha a kérelmező olyan tényt valószínűsít vagy a bíróság olyan tényt észlel, amely a kiskorú gyermek érdekének védelmét szolgáló ideiglenes intézkedést megalapozza.
+
+(3) A bíróság az ideiglenes intézkedés iránti kérelmet – a bírósághoz történő érkezésétől számított – három munkanapon belül megküldi nyilatkozattételre az ellenérdekű félnek, aki arra a kézbesítéstől számított nyolc napon belül írásban köteles nyilatkozni. A határidő eredménytelen eltelte után a bíróság a rendelkezésre álló adatok alapján dönt. A bíróság a kérelem tárgyában a felek nyilatkozatait személyes meghallgatás útján is beszerezheti, ha azt célravezetőbbnek tartja.
+
+(4) A bíróság az ideiglenes intézkedés iránti kérelem tárgyában a kérelem bírósághoz érkezésétől számított harminc napon belül határoz. A másodfokú bíróság az iratoknak a másodfokú bírósághoz történő beérkezését követő harminc napon belül határoz.
+
+(5) Ha az ismételten előterjesztett ideiglenes intézkedés iránti kérelem tárgya a korábban elbírált kérelemmel tartalmilag azonos, és a kérelmező nem valószínűsíti a kérelmet megalapozó új körülmény fennállását, az ideiglenes intézkedés iránti kérelmet elutasító végzés esetén a 105. § (1) bekezdésének a végzés elleni fellebbezésre vonatkozó rendelkezése nem alkalmazható.
 
 ### XXXII. Fejezet — GONDNOKSÁGI PEREK
 
@@ -5103,11 +5115,11 @@ A perre – a jelen alcímben foglalt eltérésekkel – a gondnokság alá hely
 
 (3) A bíróság köteles a felek figyelmét felhívni a közvetítői eljárás igénybevételének lehetőségére és előnyeire.
 
-(4) Ha a perfelvételi tárgyaláson a felek nem békülnek ki, és perfelvételi nyilatkozataikat megtették, továbbá a perfelvételi tárgyalás elhalasztásának nincs helye, a bíróság a perfelvételt lezárja, és kitűzi az érdemi tárgyalás határnapját.
+(4) Ha a perfelvételi tárgyaláson a felek nem békülnek ki, és perfelvételi nyilatkozataikat megtették, továbbá a perfelvételi tárgyalás elhalasztásának nincs helye, a bíróság a perfelvételt lezárja, és kitűzi az érdemi tárgyalás határnapját, vagy – ha az ügy körülményei lehetővé teszik – nyomban áttér az érdemi tárgyalásra.
 
-(5) A perfelvételt lezáró végzés meghozatalát követően az érdemi tárgyalás azonnali megkezdésének – a (6) bekezdésben meghatározott kivétellel – helye nincs.
+(5)
 
-(6) A pert – ha az ügy körülményei egyébként lehetővé teszik – a perfelvételt lezáró végzés meghozatalát követően azonnal érdemben kell tárgyalni, ha a fél személyes meghallgatása nem kötelező vagy a feleknek nincs közös kiskorú gyermeke.
+(6)
 
 #### 457. § [Ideiglenes intézkedés]
 
@@ -5265,6 +5277,12 @@ Az apaság vélelmét megdöntő ítélet ellen – az apaság vélelmét megdö
 (5) A meghallgatás végén, még a kiskorú jelenlétében az írásbeli jegyzőkönyvbe vett vallomást fel kell olvasni, vagy ha a jegyzőkönyv a jegyzőkönyvi tartalmat összefoglaló hangfelvétel útján készül, azt a kiskorú jelenlétében kell rögzíteni. Ennek megtörténtét vagy mellőzését a jegyzőkönyvben fel kell tüntetni. A felolvasáskor, illetve a rögzítéskor a kiskorú az általa elmondottakat kiigazíthatja vagy kiegészítheti. A jegyzőkönyv – az elnök engedélyével – az ügygondnok, vagy ha a meghallgatás a felek jelenlétében történik, a felek észrevételei alapján is kiegészíthető és módosítható. Az ügygondnok, illetve a felek erre vonatkozó kérelmét – annak elutasítása esetén – a jegyzőkönyvben fel kell tüntetni.
 
 (6) Ha a kiskorú meghallgatására a felek távollétében kerül sor, az elnök a felekkel ismerteti a meghallgatásról készült jegyzőkönyvet.
+
+#### 473/A. § [A joghatóság átadása más állam bíróságának]
+
+(1) Ha az ügyben külföldi elem van és az Európai Unió kötelező jogi aktusa vagy nemzetközi egyezmény lehetőséget biztosít a joghatóság átadására más állam bíróságának – az ezzel kapcsolatban előírt intézkedések megtétele előtt – az átadás megengedhetőségéről az eljáró bíróság végzést hoz, amely ellen külön fellebbezésnek van helye. A joghatóság átadásával kapcsolatos intézkedések megtételére e végzés jogerőre emelkedését követően kerülhet sor.
+
+(2) A joghatóság más állam bíróságának való átadását követően a bíróság az eljárást hivatalból megszünteti.
 
 #### 127. A szülői felügyelet gyakorlásának rendezése iránt indított per
 
@@ -6661,6 +6679,7 @@ való megfelelést szolgálja.
 - 11. az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet,
 - 12. a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló, 2012. december 12-i 1215/2012/EU európai parlamenti és tanácsi rendelet,
 - 13. a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet
+- 14. a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló 2019. június 25-i (EU) 2019/1111 tanácsi rendelet
 
 végrehajtását szolgálja.
 

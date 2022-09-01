@@ -3584,7 +3584,7 @@ a) belső szabályzatban foglaltak alapján, az azonos helyzetben lévőket egye
 
 b) a Magyar Nemzeti Bank mellett működő Pénzügyi Békéltető Testület előtti eljárás keretében megkötött egyezség alapján vagy
 
-c) a Magyar Nemzeti Banknak a fizetési késedelembe esett lakossági jelzáloghitelek helyreállításáról szóló ajánlása alapján, az adós fizetőképességének helyreállítása érdekében
+c) a Magyar Nemzeti Banknak a pénzügyi intézmények számára a fizetési késedelemmel érintett lakossági hitel-, kölcsön- és pénzügyi lízingszerződések kezelés során elvárt fogyasztóvédelmi elvekről szóló 5/2022. (IV. 22.) MNB ajánlása alapján, az adós fizetőképességének helyreállítása érdekében
 
 kerül sor.
 
@@ -4761,7 +4761,7 @@ IV. A jövedelem megállapításakor költségként figyelembe nem vehető kiad�
 
 7. azok a kiadások, amelyek az I–III. fejezetben és az általános, valamint a vállalkozói tevékenységre vonatkozó rendelkezések között említett költségek esetében az ott leírt rendelkezéseknek (mértékek, feltételek stb.) nem felelnek meg;
 
-8. az egyéni vállalkozó személyi jövedelemadója, vállalkozói személyi jövedelemadója és a vállalkozói osztalékalap után fizetett személyi jövedelemadója, a vállalkozói személyi jövedelemadó, kisadózó vállalkozások tételes adója és a 40 százalékos mértékű adó;
+8. az egyéni vállalkozó személyi jövedelemadója, vállalkozói személyi jövedelemadója és a vállalkozói osztalékalap után fizetett személyi jövedelemadója, a vállalkozói személyi jövedelemadó, a kisadózó vállalkozások tételes adója és a 40 százalékos mértékű adó, a kisadózó vállalkozók tételes adója és a 40 százalékos mértékű különadó;
 
 9. a Tbj. szerint nem megállapodás alapján fizetett saját társadalombiztosítási járulék, a magánnyugdíjról és a magán-nyugdíjpénztárakról szóló törvény rendelkezései szerint nem megállapodás alapján és nem kiegészítésként fizetett saját tagdíj;
 

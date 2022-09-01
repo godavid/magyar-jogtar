@@ -76,7 +76,8 @@ azzal, hogy az ismeretlen helyen tartózkodó személyt tartásra képtelennek k
 6. § (1) A társadalombiztosítási nyugdíjrendszer keretében járó saját jogú nyugellátások
 
 - a) az öregségi nyugdíj,
-- b)–c)
+- b)
+- c)
 - d)
 
 (2) A társadalombiztosítási nyugdíjrendszer keretében járó hozzátartozói nyugellátások
@@ -202,7 +203,7 @@ megállapításra kerülő öregségi nyugdíj esetében
 
 (3) A (2) bekezdésben meghatározott nyugdíjnöveléssel az öregségi nyugdíj a megállapítása alapjául szolgáló havi átlagkeresetet meghaladhatja.
 
-21/A. § (1) Ha a biztosított, volt biztosított magánnyugdíjpénztár tagja, az öregségi nyugdíj összegét úgy kell megállapítani, hogy a 20. és 21. § alapján kiszámított nyugdíjösszeget meg kell szorozni az 1. mellékletben meghatározott szorzószámmal.
+21/A. § (1) Ha a biztosított, volt biztosított a 2010. október 1-je előtti időszakra magánnyugdíjpénztári tagdíjat fizetett, és az öregségi nyugdíj megállapításakor a magánnyugdíjpénztári tagsága fennáll vagy úgy szűnt meg, hogy az egyéni számláján lévő összeget nem utalta át az államháztartás részére, az öregségi nyugdíj összegét úgy kell megállapítani, hogy a 20. és 21. § alapján kiszámított nyugdíjösszeget meg kell szorozni az 1. mellékletben meghatározott szorzószámmal.
 
 (2) Ha a magánnyugdíjpénztár a tag egyéni számláján lévő – törvényben meghatározott esetben csökkentett – összeget a magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. év LXXXII. törvényben (a továbbiakban: Mpt.) foglaltak szerint az öregségi nyugdíj megállapítását követően az államháztartás részére utalja át, az öregségi nyugdíj összegét a 20. és 21. §-ban foglaltak szerint, a megállapítás kezdő időpontjára visszamenőlegesen módosítani kell.
 
@@ -218,6 +219,7 @@ megállapításra kerülő öregségi nyugdíj esetében
 - h) a 2020. augusztus 31-ét követő időszakra a Tbj. 27. § (2) bekezdése szerinti járulékfizetési alsó határ alkalmazása esetén a minimálbér 30 százalékát,
 - i) a Tbj. 41. § (2) bekezdésében meghatározott mezőgazdasági őstermelő esetében az éves bevételének 6 százalékát,
 - j) a főállású kisadózó társadalombiztosítási ellátásainak alapjául szolgáló, törvényben meghatározott összeget.
+- k) a kisadózó vállalkozók tételes adójáról szóló törvényben meghatározottak szerinti egyéni vállalkozó társadalombiztosítási ellátásainak alapjául szolgáló, törvényben meghatározott összeget.
 
 (2) Az öregségi nyugdíj alapját képező havi átlagkereset meghatározásánál
 
@@ -821,7 +823,7 @@ A nyugellátást havonta, forintban kell folyósítani, legkorábban attól a na
 
 (2)
 
-82. § (1) Az, aki a reá irányadó öregségi nyugdíjra jogosító korhatárt elérte és eddig az időpontig legalább húsz év szolgálati időt szerzett, kérheti a nyugdíja összegének folyósítás nélküli megállapítását (a továbbiakban: rögzített nyugdíj). Amennyiben a nyugdíjra jogosító korhatáron túl tovább dolgozik úgy, hogy legalább 365 naptári napra szolgálati időt szerez, és ez idő alatt nem kéri a nyugdíja folyósítását, a tényleges nyugdíjba menetel idején, – amennyiben számára kedvezőbb – választhatja a nyugdíjkorhatár betöltésére rögzített nyugdíjként kiszámított és az évenkénti emelésekkel növelt nyugdíját a tényleges nyugdíjba vonuláskor kiszámított összeg helyett. Aki nyugdíjának folyósítás nélküli megállapítását kéri, nem minősül öregségi nyugdíjasnak.
+82. § (1) Az, aki a reá irányadó öregségi nyugdíjra jogosító korhatárt elérte és eddig az időpontig legalább húsz év szolgálati időt szerzett, az öregségi nyugdíjkorhatára betöltésének napjára kérheti az öregségi nyugdíja összegének folyósítás nélküli megállapítását (a továbbiakban: rögzített nyugdíj). Amennyiben a nyugdíjra jogosító korhatáron túl tovább dolgozik úgy, hogy legalább 365 naptári napra szolgálati időt szerez, és ez idő alatt nem kéri a nyugdíja folyósítását, a tényleges nyugdíjba menetel idején, – amennyiben számára kedvezőbb – választhatja a nyugdíjkorhatár betöltésére rögzített nyugdíjként kiszámított és az évenkénti emelésekkel növelt nyugdíját a tényleges nyugdíjba vonuláskor kiszámított összeg helyett. Aki nyugdíjának folyósítás nélküli megállapítását kéri, nem minősül öregségi nyugdíjasnak.
 
 (2) Nem vonatkozik az (1) bekezdés arra, akinek a reá irányadó öregségi nyugdíjkorhatár betöltésétől a tényleges nyugdíjazás időpontjáig eltöltött idő legalább fele része alatt özvegyi nyugdíjat (állandó özvegyi nyugdíjat) folyósítottak.
 
@@ -1139,13 +1141,19 @@ korlátozni kell. A korlátozást – az (1) bekezdésben meghatározott célbó
 
 97. § (1) A nyugdíj-biztosítási igazgatási szerv felhívására a nyugdíj-biztosítási feladatok ellátásához szükséges adatokat tizenöt napon belül kell közölni.
 
-(2)–(4)
+(2)
+
+(3)
+
+(4)
 
 (5) A nyugellátásban részesülő személy tizenöt napon belül köteles bejelenteni a nyugdíj-biztosítási igazgatási szervnek minden olyan tényt, adatot, körülményt, amely a nyugellátásra jogosultságát vagy a nyugellátás folyósítását érinti. Külföldön élő vagy tartózkodó jogosult esetén a 83. § (2) bekezdésében megjelölt személyek vagy a nyugellátás felvételére jogosított más személy a jogosult halálának tényét és annak időpontját tizenöt napon belül kötelesek bejelenteni a nyugdíjfolyósító szervnek.
 
 (6)
 
-(7)–(8)
+(7)
+
+(8)
 
 (9) A nyugdíj-biztosítási szolgáltatásra irányuló megállapodást kötő igazgatási szerv adatszolgáltatási kötelezettsége nem tartozik az Art. hatálya alá.
 
@@ -1199,7 +1207,9 @@ korlátozni kell. A korlátozást – az (1) bekezdésben meghatározott célbó
 
 rendeletben határozza meg.
 
-(2)–(3)
+(2)
+
+(3)
 
 (4) Annak a személynek, akinek az öregségi nyugdíjkorhatár emeléséről és az ezzel összefüggő törvénymódosításokról szóló 1996. évi LIX. törvény 21. § (7) bekezdése alapján megállapított átmeneti járadékot, előnyugdíjat vagy korengedményes nyugdíjat folyósítanak vagy folyósítottak, az öregségi, illetőleg az özvegyi nyugdíja megállapításánál a jogosultra irányadó öregségi nyugdíjkorhatár alatt – a Tny. rendelkezéseitől eltérően – az ott meghatározott életkor(oka)t kell érteni.
 

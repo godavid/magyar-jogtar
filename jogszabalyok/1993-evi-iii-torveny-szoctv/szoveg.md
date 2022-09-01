@@ -82,7 +82,7 @@ a szolgáltatás nyújtására szolgáló ingatlanon tulajdonjoga, haszonélveze
 
 - a) jövedelem: – az (1a) bekezdésben foglalt kivétellel, valamint figyelemmel az (1b) és (1c) bekezdésben foglaltakra – az elismert költségekkel és a befizetési kötelezettséggel csökkentett
   - aa) a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szjatv.) szerint meghatározott, belföldről vagy külföldről származó – megszerzett – vagyoni érték (bevétel), ideértve a Szjatv. 1. számú melléklete szerinti adómentes bevételt, és
-  - ab) azon bevétel, amely után az egyszerűsített vállalkozói adóról szóló törvény, a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény vagy az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerint adót, illetve hozzájárulást kell fizetni;
+  - ab) azon bevétel, amely után az egyszerűsített vállalkozói adóról szóló törvény, a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény, a kisadózó vállalkozók tételes adójáról szóló törvény vagy az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerint adót, illetve hozzájárulást kell fizetni;
 - b) vagyon: ha e törvény másként nem rendelkezik, az a hasznosítható ingatlan, jármű, vagyoni értékű jog, továbbá pénzforgalmi szolgáltatónál kezelt – jövedelemként figyelembe nem vett – összeg, amelynek
   - ba) külön-külön számított forgalmi értéke, illetve összege az öregségi nyugdíj mindenkori legkisebb összegének a harmincszorosát, vagy
   - bb) együttes forgalmi értéke az öregségi nyugdíj mindenkori legkisebb összegének a nyolcvanszorosát

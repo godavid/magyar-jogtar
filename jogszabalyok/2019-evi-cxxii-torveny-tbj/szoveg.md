@@ -157,7 +157,7 @@ abban az esetben is, ha a nyugellátás folyósítása szünetel.
   - ha) az őstermelők családi gazdaságának kiskorú tagját,
   - hb) az egyéb jogcímen – ide nem értve a f) pont és a (2) bekezdés szerint – biztosítottat,
   - hc) a saját jogú nyugdíjast és az özvegyi nyugdíjban részesülő személyt, aki az öregségi nyugdíjkorhatárt betöltötte,
-- i) a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvényben meghatározottak szerint a főállású kisadózóként bejelentett személy,
+- i) a kisadózó vállalkozók tételes adójáról szóló törvényben meghatározottak szerint bejelentett személy;
 - j) állami projektértékelői jogviszonyban álló személy, ha az e tevékenységéből származó, tárgyhavi járulékalapot képező jövedelme eléri a minimálbér harminc százalékát, vagy naptári napokra annak harmincad részét,
 - k) a köztársasági elnök saját jogú nyugdíjasnak nem minősülő házastársa arra az időre, amelyre a fennálló biztosítással járó jogviszonyában a biztosítása szünetel, vagy nem rendelkezik más biztosítással járó jogviszonnyal.
 
@@ -451,7 +451,7 @@ ténylegesen érvényesített családi kedvezménnyel csökkentett összeg 15 sz
 
 38. § (1) Az egyszerűsített közteherviselési hozzájárulás fizetését megalapozó jogviszonyból származó jövedelem után a biztosított az e törvény szerinti társadalombiztosítási járulék-fizetési kötelezettségét az egyszerűsített közteherviselési hozzájárulásról szóló törvényben meghatározottak szerint teljesíti.
 
-(2) A kisadózóként bejelentett személyek után fizetendő, társadalombiztosítási járulékfizetési kötelezettséget is kiváltó közteherfizetést a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvényben meghatározottak szerint kell teljesíteni.
+(2) A kisadózó vállalkozók tételes adójáról szóló törvényben meghatározottak szerint bejelentett személyek után fizetendő, társadalombiztosítási járulékfizetési kötelezettséget is kiváltó közteherfizetést a kisadózó vállalkozók tételes adójáról szóló törvényben meghatározottak szerint kell teljesíteni.
 
 (3) Az egyszerűsített foglalkoztatásra e törvény rendelkezéseit az egyszerűsített foglalkoztatásról szóló törvényben foglalt eltérések figyelembevételével kell alkalmazni.
 
@@ -892,7 +892,7 @@ jelenti be az egészségbiztosítási szervnek.
 
 (4) Az (1)–(3) bekezdésben meghatározott eljárás során felhasználható minden olyan közokirat és teljes bizonyító erejű magánokirat, valamint minden más, erre alkalmas további bizonyítási eszköz, amely a biztosítással járó jogviszony fennállását, illetve az egészségügyi szolgáltatásra való jogosultságot valószínűsíti.
 
-70. § A kisadózó vállalkozások tételes adójának alanya a biztosítási kötelezettségének bejelentését a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvényben meghatározottak szerint a főállású kisadózói státuszának bejelentésével teljesíti.
+70. § A kisadózó vállalkozók tételes adójának alanya a biztosítási kötelezettségének bejelentését a kisadózó vállalkozók tételes adójáról szóló törvényben meghatározottak szerint a kisadózói adóalanyiság választásának bejelentésével teljesíti.
 
 71. § (1) A 43. § (1) bekezdés a) pontja szerinti egészségügyi szolgáltatási járulékfizetési kötelezettségről a biztosítási jogviszony megszűnésének, a 22. § (1) bekezdés a)–u) pontja, vagy a 3. §-a szerint fennálló jogosultság megszűnésének bejelentését követően a biztosítottak nyilvántartásáért felelős szerv adatátadásától számított 8 napon belül az állami adó- és vámhatóság tájékoztatást küld a fizetésre kötelezett természetes személynek. A tájékoztatás tartalmazza a 43–46. § szerinti fizetési kötelezettségre, továbbá az Ebtv. szerinti egészségügyi szolgáltatásra való jogosultságra vonatkozó szabályokat. Az állami adó- és vámhatóság az e törvény szerinti járulékfizetési kötelezettséget az adószámlán elkülönítetten előírja, a befizetéseket nyilvántartja, és az e törvényben, vagy más törvényben meghatározott esetben a járulékfizetési kötelezettséget törli.
 

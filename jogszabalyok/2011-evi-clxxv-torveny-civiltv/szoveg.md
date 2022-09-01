@@ -787,6 +787,9 @@ vonatkozó szabályokat.
 - e) folyamatos információszolgáltatást biztosítanak az e törvény szerinti intézkedések végrehajtásának megvalósulásáról,
 - f) az e célra létrehozott számítógépes rendszeren keresztül adatot szolgáltatnak a Civil Információs Portál számára az a)–e) pontok szerinti feladatokkal kapcsolatos adatok és információk terjesztése érdekében,
 - g) a kollégiumok kérésére tájékoztatást adnak az adott ellátási területen működő civil szervezetek tevékenységéről.
+- h) az ellátási területükön működő helyi civil szervezeteket összefogva együttműködnek az országos rendezvények helyi megvalósításában,
+- i) ismeretátadással segítik a civil szervezeti vezetők, a civil területen feladatot ellátók, a civil szervezeteknél önkéntes tevékenységet végzők munkáját,
+- j) részt vállalnak a civil közösségi szolgáltató központok közös feladatainak megvalósításában.
 
 (2)
 
@@ -831,9 +834,11 @@ vonatkozó szabályokat.
 
 (5) A fejezetet irányító szerv, az alappal való rendelkezésre jogosult miniszter a (3) bekezdés szerinti szakmai monitoring rendszerben történő rögzítés és a támogatási programok szakmai összehangolása, azonos projekt célok párhuzamos finanszírozásának kiszűrése érdekében a költségvetési előirányzat kezelője előzetes jóváhagyás céljából köteles megküldeni a (4) bekezdés szerinti adatokat a miniszter számára. A miniszter a megküldött iratokat megvizsgálja és 15 napon belül elektronikus úton jelez vissza azok tudomásulvételéről, vagy indokolási kötelezettség mellett a jóváhagyás megtagadásáról.
 
-(6) Az (5) bekezdés szerinti kötelezettségét a fejezetet irányító szerv, az alappal való rendelkezésre jogosult miniszter, illetve a költségvetési előirányzat kezelője a kincstár útján teljesíti. A kincstár az általa működtetett monitoring rendszerben történő rögzítéssel egy időben az erre a célra rendszeresített számítógépes rendszeren keresztül küldi meg az adatokat a miniszter számára a Civil Információs Portálon történő közzététel céljából.
+(6) Az (5) bekezdés szerinti kötelezettségét a fejezetet irányító szerv, az alappal való rendelkezésre jogosult miniszter, illetve a költségvetési előirányzat kezelője a kincstár útján teljesíti. Ennek végrehajtását a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter ellenőrizheti.
 
-(7)–(8)
+(7)
+
+(8)
 
 #### 53/A. §
 
@@ -849,7 +854,7 @@ vonatkozó szabályokat.
 
 - a) annak rendeltetése az állam vagy valamely közigazgatási szerv felelősségébe tartozó, jogszabályban, vagy kormányhatározatban meghatározott feladat, vagy a feladat egy részének ellátását célozza, vagy
 - b) annak nyújtása normatív alapon, vagy a központi költségvetésről szóló törvényben nevesített szervezetek támogatása keretében, vagy a személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló törvény (a továbbiakban: Szftv.) szerint történt, vagy
-- c) az az Európai Unió strukturális alapjaiból, illetve a Kohéziós Alapból részben vagy egészben támogatott tevékenység fedezetét jelenti.
+- c) az az európai uniós forrásból részben vagy egészben támogatott tevékenység fedezetét jelenti.
 
 ### X. Fejezet — NEMZETI EGYÜTTMŰKÖDÉSI ALAP
 
@@ -864,20 +869,20 @@ vonatkozó szabályokat.
 - a) civil szervezetek által gyűjtött és a számviteli beszámolóban feltüntetett adományok értéke után járó tíz százalékos normatív kiegészítés, amelyet a civil szervezet működési költségeinek fedezésére fordít;
 - b) civil szervezetek működésének támogatása;
 - c) civil szervezeteket, határon túli civil szervezeteket érintő szakmai programok, különösen évfordulók, fesztiválok, hazai és határon túli rendezvények, valamint a programok megvalósításához közvetlenül kapcsolódó költségek támogatása;
-- d) nemzetközi civil kapcsolatokban a magyarországi civil szervezetek jelenlétének biztosítása, hazai és határon túli rendezvényeken, fesztiválokon történő részvétel támogatása, nemzetközi tagdíjakhoz támogatás biztosítása, európai integrációt elősegítő programok támogatása;
-- e) civil szférával kapcsolatos tudományos kutatások, monitoringtevékenység és nyilvántartási feladatok támogatása;
-- f) civil szférával kapcsolatos szolgáltató, tanácsadó, oktatási, fejlesztő, segítő, illetve esélyegyenlőséget és akadálymentességet elősegítő tevékenység és intézmények támogatása;
-- g) civil szférát bemutató kiadványok, elektronikus és írott szakmai sajtó támogatása;
+- d)
+- e)
+- f)
+- g)
 - h) helyi vagy területi hatókörű civil szervezetek egyszerűsített támogatása, amelyet a civil szervezet alapcél szerinti közösségteremtő, a hatókörébe tartozó közösség érdekében végzett tevékenységéhez kapcsolódó költségeinek fedezésére fordít;
-- i) adományosztó szervezeteknek szóló juttatás a Nemzeti Együttműködési Alap Tanácsa (továbbiakban: Tanács), illetve a kollégiumok egységes elvek mentén meghatározott, forrásautomatizmus biztosításáról szóló döntései alapján;
+- i)
 - j) civil érdek-képviseleti tevékenység támogatása;
 - k) az Alap működtetésével kapcsolatos költségek fedezete;
 - l) civil közösségi szolgáltató központok működésének támogatása.
 
 (2) Az Alap rendelkezésére álló tárgyévi támogatási forrás
 
-- a) nyolcvanöt százalékára egységes elvek alapján meghatározott támogatási döntések útján az (1) bekezdés a)–j) pontja szerinti,
-- b) tizenöt százalékára pedig a miniszter által jóváhagyott egyedi támogatási kérelmek alapján az (1) bekezdés b)–g) és i)–j) pontjai szerinti
+- a) nyolcvan százalékára egységes elvek alapján meghatározott támogatási döntések útján az (1) bekezdés a)–c), h) és j) pontja szerinti,
+- b) húsz százalékára pedig a miniszter által jóváhagyott egyedi támogatási kérelmek alapján az (1) bekezdés b), c) és j) pontja szerinti
 
 költségvetési támogatásokra történhet kötelezettségvállalás.
 
@@ -933,8 +938,8 @@ az (1) bekezdés szerinti cél megjelölésével nyilvános pályázatot kell ki
 
 (4) A határon túli civil szervezet
 
-- a) Magyarországon nyilvántartásba vett civil szervezettel együttesen lehet támogatás kedvezményezettje az 56. § (1) bekezdés c), f), g), j) pontja,
-- b) önállóan lehet támogatás kedvezményezettje – feltéve, hogy társpályázóként egy alkalommal már támogatás kedvezményezettje volt – az 56. § (1) bekezdés c) pontja
+- a) Magyarországon nyilvántartásba vett civil szervezettel együttesen lehet támogatás kedvezményezettje az 56. § (1) bekezdés c) és j) pontja,
+- b) önállóan lehet támogatás kedvezményezettje – feltéve, hogy egy alkalommal már társpályázó volt – az 56. § (1) bekezdés c) pontja
 
 szerinti támogatás esetén.
 
@@ -958,7 +963,7 @@ szerinti támogatás esetén.
 
 (7) A Tanács működésének részletes szabályait a miniszter által jóváhagyott ügyrend határozza meg. A Tanács az ügyrendjét, illetve annak módosítását a tagok legalább kétharmadának az egyetértésével fogadja el.
 
-61. § (1) A miniszter az Alap forrásainak felhasználása, a pályázati kiírások elkészítése, a beérkező pályázatok elbírálása, valamint a támogatott célok megvalósulásának szakmai ellenőrzése érdekében rendelet útján kilenc tagú kollégiumokat hoz létre. A kollégium létrehozására vonatkozó miniszteri rendeletben meg kell határozni a kollégium elnevezését és azt, hogy az 56. § (1) bekezdés a)–j) pontja szerinti mely tevékenységi körét támogatja.
+61. § (1) A miniszter az Alap forrásainak felhasználása, a pályázati kiírások elkészítése, a beérkező pályázatok elbírálása, valamint a támogatott célok megvalósulásának szakmai ellenőrzése érdekében rendelet útján kilenc tagú kollégiumokat hoz létre. A kollégium létrehozására vonatkozó miniszteri rendeletben meg kell határozni a kollégium elnevezését és azt, hogy az 56. § (1) bekezdés a)–c), h) és j) pontja szerinti mely tevékenységi körét támogatja.
 
 (2) A kollégium
 
