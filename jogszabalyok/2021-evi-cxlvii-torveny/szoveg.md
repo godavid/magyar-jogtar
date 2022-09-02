@@ -95,9 +95,9 @@ az egyes képzéseket és a foglalkoztatást érintő törvények módosításá
 
 24. §
 
-25. § A felnőttképzésről szóló 2013. évi LXXVII. törvény 25. § (5) bekezdésében az „igazolja.” szövegrész helyébe az „igazolja. A képzési hitelre való jogosultság feltételeit a Diákhitel szervezet központi kormányzati szolgáltatási busz használatával vagy a jogosultsági feltételre vonatkozó adatot kezelő szerv közvetlen megkeresése útján ellenőrzi.” szöveg lép.
+25. §
 
-26. § Hatályát veszti a felnőttképzésről szóló 2013. évi LXXVII. törvény 25. § (6) bekezdésében az „és a jogosultság feltételeinek fennállását a jogosultsági feltételre vonatkozó adatot kezelő szerv közvetlen megkeresése útján ellenőrizheti” szövegrész.
+26. §
 
 #### 9. A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény módosítása
 

@@ -238,102 +238,40 @@ szorzatát meghaladó része után fizeti meg.
 
 #### 12. Módosító rendelkezések
 
-16. § A helyi adókról szóló 1990. évi C. törvény 39/B. § (3) bekezdése helyébe a következő rendelkezés lép:
+#### 16. §
 
-„(3) A kisadózó vállalkozók tételes adójáról szóló törvény hatálya alá tartozó egyéni vállalkozó (a továbbiakban: tételes adózó vállalkozó) a (9) bekezdés szerint bejelentett döntése esetén, az adó adóévi alapja – a 39. § (1) bekezdésében, vagy a 39/A. §-ban foglalt előírásoktól eltérően – székhelye és telephelye szerinti önkormányzatonként 2,5-2,5 millió forint. Ha a tételes adózó vállalkozó e minősége szerinti adókötelezettsége valamely településen az adóév egészében nem áll fenn, vagy a kisadózó vállalkozók tételes adójában az adófizetési kötelezettsége szünetel, akkor az adó önkormányzatonkénti alapja a 2,5 millió forintnak az adókötelezettség időtartama naptári napjai alapján arányosított része.”
+#### 17. §
 
-17. § A helyi adókról szóló 1990. évi C. törvény 52. § 22. pont h) alpontja helyébe a következő rendelkezés lép:
+#### 18. §
 
-(E törvény alkalmazásában
+#### 19. §
 
-nettó árbevétel)
+#### 20. §
 
-„h) a tételes adózó vállalkozó esetén a kisadózó vállalkozók tételes adójáról szóló törvény szerinti bevétel,”
+#### 21. §
 
-18. § A helyi adókról szóló 1990. évi C. törvény
+#### 22. §
 
-- a) 39/B. § (4) bekezdésében, (6) bekezdés nyitó szövegrészében és (8) bekezdésében a „kisadózó vállalkozás” szövegrészek helyébe a „tételes adózó vállalkozó” szöveg,
-- b) 39/B. § (5) bekezdésében a „kisadózó vállalkozást” szövegrész helyébe a „tételes adózó vállalkozót” szöveg,
-- c) 39/B. § (6) bekezdés a) pontjában és (8) bekezdésében az „a kisadózó vállalkozások tételes adójában” szövegrészek helyébe az „a kisadózó vállalkozók tételes adójában” szöveg,
-- d) 39/B. § (9) bekezdésében az „a kisadózó vállalkozások tételes adójának” szövegrész helyébe az „a kisadózó vállalkozók tételes adójának” szöveg
+#### 23. §
 
-lép.
+#### 24. §
 
-19. § A szociális igazgatásról és a szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés a) pont ab) alpontjában az „a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény” szövegrész helyébe az „a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény, a kisadózó vállalkozók tételes adójáról szóló törvény” szöveg lép.
+#### 25. §
 
-20. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 11. számú melléklet IV. A jövedelem megállapításakor költségként figyelembe nem vehető kiadások: rész 8. pontjában a „kisadózó vállalkozások tételes adója és a 40 százalékos mértékű adó” szövegrész helyébe az „a kisadózó vállalkozások tételes adója és a 40 százalékos mértékű adó, a kisadózó vállalkozók tételes adója és a 40 százalékos mértékű különadó” szöveg lép.
+#### 26. §
 
-21. § Hatályát veszti a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 5. számú melléklet 15. pontjában az „a kisadózó vállalkozások tételes adójának alanya vagy” szövegrész.
+#### 27. §
 
-22. § A társadalombiztosítási nyugellátástól szóló 1997. évi LXXXI. törvény 22. § (1) bekezdése a következő új k) ponttal egészül ki:
+#### 28. §
 
-[Az öregségi nyugdíj alapját képező havi átlagkereset összegét az 1988. január 1-jétől a nyugdíj megállapításának kezdő napjáig elért (kifizetett), a kifizetés idején érvényes szabályok szerint nyugdíjjárulék alapjául szolgáló kereset, jövedelem havi átlaga alapján kell meghatározni. Keresetként, jövedelemként kell figyelembe venni:]
+#### 29. §
 
-„k) a kisadózó vállalkozók tételes adójáról szóló törvényben meghatározottak szerinti egyéni vállalkozó társadalombiztosítási ellátásainak alapjául szolgáló, törvényben meghatározott összeget.”
+#### 30. §
 
-23. § A mozgóképről szóló 2004. évi II. törvény 31/F. § (1) bekezdés b) pont ba) alpontjában az „az egyszerűsített vállalkozói adóról szóló törvény, a Tao. tv., a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény” szövegrész helyébe az „a Tao. tv., a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény, a kisadózó vállalkozók tételes adójáról szóló törvény” szöveg lép.
+#### 31. §
 
-24. § Az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi CXX. törvény 3. § (2a) bekezdésében az „a kisadózók tételes adója” szövegrész helyébe az „a kisadózó vállalkozók tételes adójáról szóló törvény” szöveg lép.
+#### 32. §
 
-25. § A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény 28. §-a a következő (12)–(14) bekezdéssel egészül ki:
+#### 33. §
 
-„(12) A kisadózó vállalkozások tételes adója hatálya alól a társasági adó hatálya alá áttért adózó a társaságiadó-alap megállapításakor az adózás előtti eredményét úgy módosítja, hogy ne tartalmazza azt az adózás előtti eredményben elszámolt összeget, amelyet az adózó a kisadózó vállalkozás bevételeként már figyelembe vett, vagy amely költségként, ráfordításként e bevételhez tartozik.
-
-(13) A kisadózó vállalkozások tételes adója hatálya alól a társasági adó hatálya alá áttért adózó a kisadózó vállalkozások tételes adója szerinti adóalanyisága előtt megszerzett, előállított immateriális jószág, tárgyi eszköz alapján a társasági adó alapjánál döntése szerint folytathatja az értékcsökkenési leírást azzal, hogy ezen eszközök Tao. tv. 4. § 31/a. pontja szerinti számított nyilvántartási értékét úgy határozza meg, mintha a kisadózó vállalkozások tételes adója szerinti adóalanyiság alatt a társasági adó alanya lett volna. A (8) bekezdéstől eltérően e szabályt kell alkalmazni a kisvállalati adóalanyiság adóévei tekintetében, amennyiben a kisadózó vállalkozások tételes adója szerinti adóalanyiságot kisvállalati adóalanyiság is megelőzte.
-
-(14) A kisadózó vállalkozások tételes adója hatálya alól a társasági adó hatálya alá áttérő adózó esetében a kisadózó vállalkozások tételes adója szerinti adóalanyiságot megelőző időszakból fennmaradt összes elhatárolt veszteségből a kisadózó vállalkozások tételes adója szerinti adóalanyisága időszakának minden 12 hónapjában 20-20 százalékot, 12 hónapnál rövidebb időszak esetén annak időarányos részét elszámoltnak kell tekinteni.”
-
-26. § Hatályát veszti a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény
-
-- a) 1. § (3) és (4) bekezdésében a „kisadózó vállalkozások tételes adójával és a” szövegrész,
-- b) 1. § (5) bekezdésében a „kisadózó vállalkozások tételes adója és a” szövegrész,
-- c) 1. § (6) bekezdésében az „ , illetve a kisadózó vállalkozások tételes adóját” szövegrész, a „ , továbbá a kisadózókról” szövegrész,
-- d) 2. § 5., 8., 10., 11., 12., 13., 22. és 24. pontja,
-- e) II. fejezete,
-- f) 25. és 26. §-a.
-
-27. § A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 5. § 66. pontja a következő f) alponttal egészül ki:
-
-(E törvény és az e törvény felhatalmazása alapján kiadott jogszabály alkalmazásában:
-
-közteher: A bírósági adósságrendezés elrendelését követően esedékessé váló)
-
-„f) a kisadózó vállalkozók tételes adójáról szóló törvény szerinti adó.”
-
-28. § Az adózás rendjéről szóló 2017. évi CL. törvény 133/A. § (1) bekezdése a következő e) ponttal egészül ki:
-
-[[GINOP támogatásokkal összefüggő adatszolgáltatás]
-
-A kincstár megkeresésére a Gazdaságfejlesztési- és Innovációs Operatív Programból (a továbbiakban: GINOP) származó támogatások kihelyezésével összefüggő feladatai ellátásához az állami adó- és vámhatóság a következő adatokat havonként – a bevallás benyújtására előírt határidőt követő második hónap 15. napjáig – elektronikus úton átadja:]
-
-„e) a kisadózó vállalkozók tételes adójáról szóló törvény szerinti adót alkalmazó egyéni vállalkozó nevét, adószámát, biztosítási jogviszonyának kezdetét és végét, a biztosítási jogviszony szünetelésének kezdetét és végét, a fizetendő tételes adó havi összegét, fizetendő tételes adó havi egyenlegét.”
-
-29. § Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 29. § (1) bekezdése a következő 24. ponttal egészül ki:
-
-(A végrehajtási eljárásban végrehajtható okirat:)
-
-„24. a kisadózó vállalkozók tételes adójáról szóló törvény 7. § (11) bekezdés szerinti bejelentés.”
-
-30. § A szociális hozzájárulási adóról szóló 2018. évi LII. törvény 33. § (2) bekezdésében a „valamint a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény” szövegrész helyébe az „a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény, valamint a kisadózó vállalkozók tételes adójáról szóló törvény” szöveg lép.
-
-31. § A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 6. § (1) bekezdés i) pontja helyébe a következő rendelkezés lép:
-
-(E törvény alapján biztosított a kiegészítő tevékenységet folytató személynek nem minősülő)
-
-„i) a kisadózó vállalkozók tételes adójáról szóló törvényben meghatározottak szerint bejelentett személy;”
-
-32. § A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 38. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A kisadózó vállalkozók tételes adójáról szóló törvényben meghatározottak szerint bejelentett személyek után fizetendő, társadalombiztosítási járulékfizetési kötelezettséget is kiváltó közteherfizetést a kisadózó vállalkozók tételes adójáról szóló törvényben meghatározottak szerint kell teljesíteni.”
-
-33. § A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 70. §-a helyébe a következő rendelkezés lép:
-
-„70. § A kisadózó vállalkozók tételes adójának alanya a biztosítási kötelezettségének bejelentését a kisadózó vállalkozók tételes adójáról szóló törvényben meghatározottak szerint a kisadózói adóalanyiság választásának bejelentésével teljesíti.”
-
-34. § A kiskereskedelmi adóról szóló 2020. évi XLV. törvény 1. § 2. pont c) alpontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában:
-
-nettó árbevétel:)
-
-„c) a kisadózó vállalkozók tételes adójáról szóló törvény szerinti kisadózó esetén a kisadózó bevétele,”
+#### 34. §

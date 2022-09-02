@@ -619,25 +619,7 @@ is.
 
 55. § (1)
 
-(2) A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 25. §-a a következő (1b) bekezdéssel egészül ki:
-
-„(1b) A cégjegyzék – az (1) bekezdésben foglaltakon túl – szükség szerint tartalmazza továbbá határokon átnyúló átalakulás, határokon átnyúló egyesülés vagy határokon átnyúló szétválás esetén
-
-a) a jogelőd, jogelődök nevét, székhelyét, nyilvántartási számát,
-
-b) a jogelőd, jogelődök társasági formáját,
-
-c) a jogelőd, jogelődök székhelye szerinti országkódját,
-
-d) a jogutód, jogutódok nevét, székhelyét, nyilvántartási számát,
-
-e) a jogutód, jogutódok társasági formáját,
-
-f) a jogutód, jogutódok székhelye szerinti országkódját,
-
-g) a határokon átnyúló átalakulás, a határokon átnyúló egyesülés vagy a határokon átnyúló szétválás időpontját,
-
-h) a tanúsítvány kiadásának időpontját, azt a tényt, hogy a cég törlésére vagy jogutódként való bejegyzésére határokon átnyúló átalakulás, határokon átnyúló egyesülés vagy határokon átnyúló szétválás eredményeként került sor.”
+(2)
 
 #### 56. §
 
@@ -657,70 +639,20 @@ h) a tanúsítvány kiadásának időpontját, azt a tényt, hogy a cég törlé
 
 64. § (1)
 
-(2) A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 132. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) E törvény – végrehajtási rendeleteivel és a Ptk.-val együtt – az (EU) 2017/1132 irányelv határokon átnyúló átalakulások, egyesülések és szétválások tekintetében történő módosításáról szóló, 2019. november 27-i 2019/2121 (EU) európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
+(2)
 
 (3)
 
 (4)
 
-65. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 1. számú melléklete az 1. melléklet szerint módosul.
+#### 65. §
 
 #### 66. §
 
-67. § Hatályát veszti a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény
+#### 67. §
 
-- a) 5. § f) pontja,
-- b)
-- c)
-- d)
-- e)
-- f)
-- g)
-- h)
-- i) 1. számú melléklet III. pont 10. alpontja,
-- j) 2. számú melléklet III. pont 1. alpontja,
-- k) 2. számú melléklet III. pont 3. alpontja.
+#### 20.
 
-#### 20. Hatályon kívül helyező rendelkezés
-
-68. § Hatályát veszti a tőkeegyesítő társaságok határokon átnyúló egyesüléséről szóló 2007. évi CXL. törvény.
+#### 68. §
 
 ### 1. melléklet a 2021. évi CXXIV. törvényhez
-
-- 1. A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 1. számú melléklet III. pont 8. pontja helyébe a következő rendelkezés lép:
-
-(Átalakulás bejegyzéséhez szükséges további okiratok:)
-
-„8. tanúsítvány kiadásához
-
-a) a határokon átnyúló átalakulás tervezete, az egyesülési tervezet vagy a szétválási tervezet,
-
-b) a tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről, szétválásáról és egyéb jogharmonizációs célú törvénymódosításról szóló 2021. évi CXXIV. törvény (a továbbiakban: Tetv.) 10. §-a szerinti jelentés vagy jelentések és adott esetben a mellé csatolt vélemény, valamint a Tetv. 9. §-a szerint könyvvizsgálói jelentés, amennyiben ezek rendelkezésre állnak,
-
-c) a b) alpontban foglalt iratokra a Tetv. rendelkezései alapján benyújtott esetleges észrevételek,
-
-d) a legfőbb szerv határozatai,
-
-e) a nem magyar nyelven készült okiratok hiteles magyar nyelvű fordítása;
-
-f) a munkavállalói részvételi szabályokkal összefüggésben
-
-fa) a munkavállalóknak a jogutód társaság döntéshozatali rendjébe történő bevonásáról szóló megállapodás, vagy
-
-fb) a különleges tárgyaló testület határozata arról, hogy a munkavállalóknak a jogutód társaság döntéshozatali rendjébe történő bevonásáról nem kezdenek tárgyalásokat, vagy a megkezdett tárgyalásokat berekesztik, vagy
-
-fc) a határokon átnyúló műveletben részt vevő társaság vezető tisztségviselőjének nyilatkozata, több részt vevő társaság esetén a vezető tisztségviselők közös nyilatkozata arról, hogy a munkavállalóknak a jogutód társaság döntéshozatali rendjébe történő bevonásának szabályairól – az európai részvénytársaságról szóló törvényben meghatározott határidőn belül – a különleges tárgyaló testülettel megállapodás nem jött létre.”
-
-- 2. A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 1. számú melléklet III. pont 9. pontja helyébe a következő rendelkezés lép:
-
-(Átalakulás bejegyzéséhez szükséges további okiratok:)
-
-„9. a határokon átnyúló egyesülés útján magyarországi székhellyel létrejövő társaság bejegyzéséhez
-
-a) az I. és II. pontban, valamint a 2. számú mellékletben meghatározott okiratok,
-
-b) a 8. pont f) alpontja szerinti okirat,
-
-c) a nem magyar nyelven készült okiratok hiteles magyar nyelvű fordítása;”
