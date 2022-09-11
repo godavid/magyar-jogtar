@@ -18,7 +18,7 @@ a Magyarország Kormánya és az Osztrák Köztársaság Kormánya között a Ma
 
 5. § Az e törvény végrehajtásához szükséges intézkedésekről a külgazdasági ügyekért felelős miniszter gondoskodik.
 
-6. § Hatályát veszti a Magyar Népköztársaság és az Osztrák Köztársaság között Budapesten, 1988. évi május hó 26. napján aláírt, a beruházások elősegítéséről és védelméről szóló Megállapodás kihirdetéséről szóló 12/1990. (VII. 24.) Korm. rendelet.
+6. §
 
 ### 1. melléklet a 2022. évi VIII. törvényhez
 
