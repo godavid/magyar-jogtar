@@ -58,9 +58,7 @@ kiskereskedelmi értékesítésére.
 - 5. elkülönített hely: az üzletben fenntartott olyan, térben leválasztott helyiségrész, amely az 1. § (1) bekezdésében meghatározott termékeknek az üzletben kötött egyéb jogügyletektől elkülönített módon történő értékesítését teszi lehetővé oly módon, hogy az 1. § (1) bekezdésében meghatározott termék az értékesítése során, illetve azt megelőzően, vagy azt követően az üzletben tartózkodó fiatalkorú számára ne legyen látható;
 - 6. fiatalkorú: a 18. életévét be nem töltött természetes személy;
 - 7. fogyasztó: minden természetes személy, függetlenül attól, hogy saját vagy más nevében jár el, illetve más természetes vagy jogi személyt, vagy szervezetet képvisel;
-- 8. dohánybolt: nem mozgó (és részekre bontás nélkül nem is mozgatható), más üzlettől elkülönült olyan önálló üzlethelyiség, amelynek külső felületére tekintve dohánytermék nem látható, csak az üzlethelyiségbe belépve és amelyben kizárólag
-  - a) az alábbi termékek forgalmazhatóak: aa) az 1. § (1) bekezdésében meghatározott termék, ab) a cigarettahüvelyen, cigarettapapíron és a dohánylevél töltőn túl más dohányterméket kiegészítő termék, ac) a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény Különös Rendelkezések I. Fejezet 1. és 4. címében szabályozott sorsolásos játék és fogadás bonyolításával kapcsolatos termék, ad) a kereskedelemről szóló törvényben meghatározott szeszes ital, ae) a népegészségügyi termékadóról szóló törvényben meghatározott energiaital, af) csomagolt kávé, illetve tea (ideértve az azonnal oldódó kávékivonatot, vagy teát is), ag) helyben fogyasztható kávéital, tea vagy folyékony csokoládé – ideértve kizárólag a helyben fogyasztásához szükséges kiegészítő termékeket (különösen cukor, tejpor) is –, ah) ásványvíz és üdítőital, továbbá az ízesített tejkészítményeknek minősülő, hűtés nélkül eltartható tejital, ai) a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló, 1987. július 23-i 2658/87/EGK tanácsi rendelet I. melléklete (a továbbiakban: kombinált nómenklatúra) szerinti 2105 00 vámtarifaszám alá tartozó (fagylalt és más ehető jégkrém) termék, aj) újság, napilap, folyóirat, periodikus kiadvány, ak) rágógumi, valamint az ízesített cukorka és mentolos lapocska, továbbá a kombinált nómenklatúra szerinti 1704 90 vámtarifaszám alá tartozó (más cukoráru) termék, de ide nem értve a 1704 90 30 alá tartozó terméket, al) tömegközlekedési eszközök vonaljegye (gyűjtőjegye), am) papír zsebkendő, an) elektronikai eszközök töltéséhez, üzemszerű működéséhez használatos elem, akkumulátor, töltőeszköz, ao) a dohányboltban forgalmazható termékek fogyasztók általi átvételére, szállítására szolgáló csomagolóeszköz, hordtasak vagy hordtáska,
-  - b) az alábbi szolgáltatások nyújthatóak: ba) az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatások egyenlegének feltöltése, valamint az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatásra vonatkozó szerződés megkötése, bb) termékek – ide nem értve az 1. § (1) bekezdésben felsorolt, vagy jogszabály által egyébként tiltott termékeket – vagy szolgáltatások dohánybolton belüli reklámozása, bc) dohányboltban forgalmazható termékekből keletkező hulladékoknak a hulladékról szóló 2012. évi CLXXXV. törvény szerinti gyűjtése;
+- 8. dohánybolt: nem mozgó (és részekre bontás nélkül nem is mozgatható), más üzlettől elkülönült olyan önálló üzlethelyiség, amelynek külső felületére tekintve dohánytermék nem látható, csak az üzlethelyiségbe belépve, és amelyben kizárólag az 1. § (1) bekezdésben meghatározott termékek, továbbá a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság) elnökének a dohányboltban forgalmazható termékekről és nyújtható szolgáltatásokról szóló rendelete szerinti termékek forgalmazhatóak és szolgáltatások nyújthatóak;
 - 9. üzlet(helyiség): kereskedelmi tevékenység folytatása céljából létesített vagy használt épület, illetve önálló rendeltetési egységet képező épületrész, helyiség, ideértve az elsődlegesen raktározás, tárolás célját szolgáló olyan épületet vagy épületrészt is, amelyben kereskedelmi tevékenységet folytatnak;
 - 10. dohánytermék-nagykereskedő: a jövedéki adóról szóló 2016. évi LXVIII. törvényben (a továbbiakban: Jöt.) meghatározott adóraktár engedélyese (gyártó), az importáló, a bejegyzett kereskedő és a jövedéki engedélyes kereskedő, azzal, hogy a dohány-kiskereskedelmi ellátó e törvény alkalmazásában a dohánykiskereskedelem-ellátási feladatainak ellátása során akkor sem minősül dohánytermék-nagykereskedőnek, ha egyébként azok bármelyikének tevékenységéhez szükséges vámhatósági engedéllyel is rendelkezik;
 - 11. dohány-kiskereskedelmi ellátó: az a személy, amelyet az állam – ha a dohánykiskereskedelem-ellátási tevékenységet maga látja el – a dohánykiskereskedelem-ellátási feladatok elvégzésének céljára gazdasági társaság formájában létrehozott, vagy amellyel – ha e tevékenységet nem maga látja el – e feladatok elvégzésére koncessziós szerződést kötött;
@@ -97,7 +95,7 @@ kiskereskedelmi értékesítésére.
 - d) ellátja a koncessziós szerződésekkel összefüggő követeléskezelési feladatokat, és
 - e) kijelöli a 10. § (1) bekezdés szerinti, a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személyt.
 
-(3) A Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság)
+(3) A Hatóság
 
 - a) előmozdítja a dohánytermék-kiskereskedelem szervezett működését, szakmai állásfoglalásokat bocsát ki,
 - b) ellenőrzi a dohánytermék-kiskereskedőkkel, valamint a dohány-kiskereskedelmi ellátóval megkötött koncessziós szerződések szerinti koncesszióköteles tevékenység gyakorlását; közreműködik a koncessziós szerződésekből eredő jogok és vállalt kötelezettségek érvényesítésében,
@@ -242,7 +240,9 @@ kiskereskedelmi értékesítésére.
 
 ### 1. CÍM — A dohánytermékek értékesítési helye
 
-11. § (1) Ha e törvény kivételt nem tesz, a dohánytermék-kiskereskedelem, továbbá az 1. § (1) bekezdés b)–h) pontjában felsorolt termékek kiskereskedelme kizárólag dohányboltban folytatható. Dohányboltban kizárólag az e törvény által lehetővé tett termékek értékesítése és szolgáltatások nyújtása folytatható.
+11. § (1) Ha e törvény kivételt nem tesz, a dohánytermék-kiskereskedelem, továbbá az 1. § (1) bekezdés b)–h) pontjában felsorolt termékek kiskereskedelme kizárólag dohányboltban folytatható.
+
+(1a) Dohányboltban kizárólag az (1) bekezdés szerinti termékek, valamint a Hatóság elnökének a dohányboltban forgalmazható termékekről és nyújtható szolgáltatásokról szóló rendelete által lehetővé tett termékek értékesítése és szolgáltatások nyújtása folytatható.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően dohánytermék-kiskereskedelem más üzletben is folytatható,
 
@@ -439,7 +439,7 @@ fogadhatja el.
 
 (3) Ha a fogyasztó az életkorát a (2) bekezdésben foglaltak szerint nem igazolja, vagy bebizonyosodik, hogy a fogyasztó fiatalkorú, részére semmilyen termék nem értékesíthető, és azonnal fel kell szólítani őt arra, hogy a dohánytermék értékesítési helyét hagyja el.
 
-(4) Ameddig a (3) bekezdés rendelkezései szerint felszólított fogyasztó a dohánytermék értékesítési helyét nem hagyja el, a dohánytermék értékesítése, illetve a dohányboltban más, e törvény alapján a dohányboltban forgalmazható termék értékesítése sem folytatható még az arra jogosult fogyasztó részére sem.
+(4) Ameddig a (3) bekezdés rendelkezései szerint felszólított fogyasztó a dohánytermék értékesítési helyét nem hagyja el, a dohánytermék értékesítése, illetve a dohányboltban más termék értékesítése sem folytatható még az arra jogosult fogyasztó részére sem.
 
 (5) Ha a (3) bekezdés rendelkezései szerint felszólított fogyasztó a felhívás ellenére nem hagyja el a dohánytermék értékesítésének helyét, a dohánytermék-kiskereskedő a rendőrség intézkedését kérheti.
 
@@ -629,6 +629,7 @@ a dohánytermék-kiskereskedő a dohányterméket a 2015. október 31-én hatál
 - d) a dohánytermék-kiskereskedelem hatósági felügyeletére és a fiatalkorúak különös védelmével kapcsolatos rendelkezések végrehajtásának ellenőrzésére,
 - e) a dohánytermék-nagykereskedő e törvény szerinti kötelezettségeinek ellenőrzésére
 - f) a dohánytermék-kiskereskedelmi tevékenységet folytatók nyilvántartás-vezetési és adatszolgáltatási kötelezettségére, a dohánytermékek árbejelentésére és árközzétételére, az állami adó- és vámhatóság részére szolgáltatandó – személyes adatnak nem minősülő – adatok körére, az adatszolgáltatás módjára és rendszerességére
+- g) az 1. § (1) bekezdésében meghatározottakon kívül a dohányboltban forgalmazható termékekre és nyújtható szolgáltatásokra
 
 vonatkozó részletes szabályokat rendeletben megállapítsa.
 

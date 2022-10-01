@@ -1598,7 +1598,9 @@ eltelt.
 
 (4)
 
-(5)–(6)
+(5)
+
+(6)
 
 (7)
 
@@ -1934,7 +1936,7 @@ bányahatósági felügyelete
 - 53. „Kitermelés szüneteltetése”: amikor a bányában 12 hónapot meghaladóan nem folytatnak kitermelést.
 - 54. „Együttes művelési terv”: az a műszaki dokumentáció, amelyet akkor kell készíteni, ha a szénhidrogén-lelőhely kutatási fázisú próbatermelésére, feltárására és kitermelésére több, a kitermeléshez szükséges feltételekkel rendelkező bányavállalkozó jogosult.
 - 55. Állami elővásárlási jog szempontjából védettnek minősülő ingatlanokat érintő bányatelkek vonatkozásában bányászható ásványi nyersanyagok: az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben meghatározott gránit murva (kód 1013), riolit (kód 1110), pados andezit (kód 1141), andezit (kód 1142), bazalt (kód 1150), riolittufa (-tufit) (kód 1211), kálitufa (kód 1212), bazalttufa (-tufit) (kód 1240), agyag (kód 1411-1419), kőzetliszt, kőzetiszap (kód 1422), homok (kód 1451-1453), kavics (kód 1460), átmeneti törmelékes nyersanyagok (kód 1471-1473), homokkő-konglomerátum (kód 1481-1485), durva mészkő/puha mészkő (kód 1520), tömött, kristályos mészkő (kód 1531-1533), dolomit (kód 1541-1543), márga (kód 1561-1563), alginit (kód 1620).
-- 56. Építőipari nyers- és alapanyagok: az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben meghatározott képlékeny agyag-II. (kód 1419), kőzetliszt, kőzetiszap (kód 1422), homok (kód 1453), homokos kavics (kód 1471), kavicsos homok (kód 1472), agyagos törmelék (kód 1473), agyagmárga (kód 1564), kevert ásványi nyersanyag I. (kód 2311), kevert ásványi nyersanyag II. (kód 2312) ásványi nyersanyag alcsoportba tartozó nyersanyagok, valamint a kavics (kód 1460) ásványi nyersanyag csoportba tartozó nyersanyagok.
+- 56. Építőipari nyers- és alapanyagok: a Hatóság elnöke által rendeletben ekként meghatározott – az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendelet szerinti – ásványi nyersanyagok.
 - 57. Hasznosító: a magyar állam tulajdonát képező bányászati jog hasznosítására a magyar állam tulajdonosi jogait gyakorló szervvel szerződéses jogviszonyban álló személy.
 - 58. „Bányaüzemi egyéb gáztechnológiák”: tartozékaival és alkotórészeivel együtt azon berendezések összessége, amely a földgázon kívüli egyéb gázt, fluidumot vagy gázterméket állít elő bányaüzem területén
 - 59. Piacfelügyeleti intézkedésre okot adó állapot: az építőipari nyers- és alapanyagok kínálatának és keresletének – az építőipari nyers- és alapanyagok statisztikai adattal alátámasztott árát figyelembe vevő – változása következtében kialakult olyan piaci helyzet, amely a stratégiai felhasználónak minősülő gazdasági ágazatok, illetve a nemzetgazdaság ásványi nyersanyag-ellátásának a biztonságát veszélyezteti.
@@ -2172,6 +2174,7 @@ vonatkozó részletes szabályok rendeletben történő megállapítására.
 - i) a 27/B. § (1) bekezdése szerinti szabályokat és követelményeket,
 - j) a bányafelügyelet piacfelügyeleti intézkedésre okot adó állapot alapján lefolytatandó eljárásainak részletes szabályait.
 - k) a 27/C. § szerinti kiegészítő bányajáradékkal érintett termékek piacfelügyeleti intézkedésre okot adó állapot időtartama alatt figyelembevételre kerülő viszonyítási egységárát, valamint a kiegészítő bányajáradék fizetési kötelezettséget megalapozó – a 27/C. § (2) bekezdés b) pontjában meghatározott tevékenységi körökön belüli – gazdasági tevékenységet,
+- l) az építőipari nyers- és alapanyagok körét.
 
 (2) Felhatalmazást kap a miniszter
 

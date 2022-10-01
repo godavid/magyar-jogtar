@@ -442,7 +442,11 @@ kapcsolatosak.
 
 (5) A csődeljárás iránti kérelmet visszautasító végzésnek tartalmaznia kell az adós nevét, székhelyét, cégjegyzékszámát, a bíróság nevét és az ügy számát, továbbá a csődeljárás iránti kérelem visszautasításának okát, valamint – ha az ideiglenes fizetési haladék közzétételre került – azt, hogy az ideiglenes fizetési haladék a jogerős végzés közzétételével megszűnik. A csődeljárás iránti kérelmet visszautasító végzés elleni fellebbezés határideje 8 nap. A határidő elmulasztása esetén igazolásnak nincs helye. A fellebbezést soron kívül, de legfeljebb 15 napon belül kell elbírálni.
 
-(6)–(8)
+(6)
+
+(7)
+
+(8)
 
 (9) A bíróság hivatalból megszünteti a csődeljárást, ha hitelt érdemlően tudomást szerez arról, hogy a csődeljárás iránti kérelmet a (4) bekezdés b)–g) pontja szerinti okból vissza kellett volna utasítani. Az eljárást megszüntető végzés ellen fellebbezésnek van helye. A csődeljárás megszüntetése esetén a vagyonfelügyelő díját a bíróság az addig elvégzett tevékenységével, munkaterhével arányosan állapítja meg.
 
@@ -770,7 +774,9 @@ folytatható le.
 - h) a 27. § (2b) bekezdése szerinti feltétel nem teljesül;
 - i) a 6. § (5) bekezdése értelmében elektronikus kapcsolattartásra köteles kérelmező az eljárási illeték és a közzétételi költségtérítés megfizetésére vonatkozó elektronikus igazolást nem csatolta.
 
-(2)–(3)
+(2)
+
+(3)
 
 26. § (1) A bíróság megvizsgálja az adós fizetésképtelenségét.
 
@@ -1082,6 +1088,14 @@ jogerősen elrendelte a felszámoló szervezet felmentését,
 (13) A bíróság a felszámolók névjegyzékébe való felvétellel kapcsolatos eljárásban hozott döntést nem változtathatja meg.
 
 (14) A Hatóság felszámolói névjegyzékkel, valamint a felszámoló szervezetek más hatósági nyilvántartásaival kapcsolatos hatósági döntéseivel szembeni közigazgatási perek elbírálására a Fővárosi Törvényszék rendelkezik kizárólagos illetékességgel.
+
+(15) A Hatóság a felszámolóbiztos, a vagyonfelügyelő, az ideiglenes vagyonfelügyelő és a rendkívüli vagyonfelügyelő (e § alkalmazásában a továbbiakban együtt: fizetésképtelenségi szakértő) részére e minőségének igazolására fizetésképtelenségi szakértői igazolványt állít ki. A fizetésképtelenségi szakértői igazolványra vonatkozó részletes szabályokat, valamint az igazolvány személyes adatot nem tartalmazó adattartalmát a Hatóság elnöke rendeletben állapítja meg. A fizetésképtelenségi szakértő az igazolványát a névjegyzékbe történő bejegyzése után veheti át.
+
+(16) A fizetésképtelenségi szakértői igazolvány az alábbi személyes adatokat tartalmazza:
+
+- a) a fizetésképtelenségi szakértő nevét, arcképét,
+- b) a fizetésképtelenségi szakértőt foglalkoztató felszámoló vagy felszámolók székhelyét,
+- c) az igazolvány okmányazonosítóját.
 
 ### A felszámolás lefolytatása
 
@@ -2239,7 +2253,9 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 
 (6) A közérdekű nyugdíjas szövetkezet és a kisgyermekkel otthon lévők szövetkezete tagjai védelméről szóló 2022. évi XXVI. törvénnyel (a továbbiakban: 2022. évi XXVI. törvény) megállapított 57. § (2) bekezdés a) pont ac) alpontját a folyamatban lévő felszámolási eljárásokban a 2022. évi XXVI. törvény hatálybalépése után esedékessé vált kifizetésekre kell alkalmazni, kivéve, ha a felszámoló a 2022. évi XXVI. törvény hatálybalépése napjáig a zárómérleget már benyújtotta.
 
-83/Z. § E törvénynek a kényszertörlési eljárásra és a felszámolási eljárásra vonatkozó és kapcsolódó egyes törvények módosításáról szóló 2021. évi LXX. törvénnyel (a továbbiakban: 2021. évi LXX. tv.) megállapított rendelkezéseit a 2021. évi LXX. tv. hatálybalépése napját követően jogerősen elrendelt felszámolási eljárásokban kell alkalmazni.
+83/Z. § (1) E törvénynek a kényszertörlési eljárásra és a felszámolási eljárásra vonatkozó és kapcsolódó egyes törvények módosításáról szóló 2021. évi LXX. törvénnyel (a továbbiakban: 2021. évi LXX. tv.) megállapított rendelkezéseit a 2021. évi LXX. tv. hatálybalépése napját követően jogerősen elrendelt felszámolási eljárásokban kell alkalmazni.
+
+(2) A 2022. október 1. előtt a felszámolói névjegyzékbe bejegyzett fizetésképtelenségi szakértők számára a Hatóság a felszámolók, vagyonfelügyelők, ideiglenes vagyonfelügyelők és rendkívüli vagyonfelügyelők igazolványát 2022. december 31-ig állítja ki.
 
 84. § (1) Ha a felszámoló vagy annak tagja nem felel meg a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény és egyéb törvények módosításáról szóló 2012. évi CIV. törvénnyel módosított 27/A. § (2) bekezdés szerinti átlátható és megismerhető tulajdonosi szerkezeti feltételeknek, a felszámolónak 2012. szeptember 1-jéig kell igazolnia a feltételek teljesítését a felszámolók névjegyzékét vezető szervnek.
 
@@ -2276,7 +2292,13 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 - a) rendeletben kijelölje a 2015/848 EU rendelet 24. cikke szerinti belföldi fizetésképtelenségi nyilvántartás megvalósítására és a nyilvántartás vezetésére jogosult szervet, az adatkezelői feladatokért felelős szervet, megállapítsa a nyilvántartásba történő adatszolgáltatás és az adatváltozás bejelentésének szabályait, a nyilvántartásból történő lekérdezés eljárási szabályait,
 - b) rendeletben kijelölje a 2015/848 EU rendelet 25. cikke szerinti tagállami fizetésképtelenségi eljárások összekapcsolásának tagállami megvalósításával és működtetésével összefüggő feladatokat ellátó szervet.
 
-85. § (1)–(4)
+85. § (1)
+
+(2)
+
+(3)
+
+(4)
 
 (5) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben állapítsa meg
 
@@ -2304,6 +2326,7 @@ A csődeljárásról, a felszámolási eljárásról és a végelszámolásról 
 - d) a felszámolót a zálogtárgy értékesítésekor és a követelésen alapuló zálogjog esetén a követelés behajtásából származó bevételből megillető díj elszámolásának szabályait,
 - e) a felszámolási eljárásban a felszámoló és az ideiglenes vagyonfelügyelő elektronikus kiválasztás igénybevételével történő kirendelésének részletes szabályait, valamint az elektronikus kijelölést támogató számítógépes rendszer működésének, üzemeltetésének és ellenőrzésének szabályait,
 - f) a felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyek kötelező szakmai továbbképzésének megszervezésére és teljesítésére vonatkozó részletes szabályokat.
+- g) a felszámolóbiztosok, vagyonfelügyelők, ideiglenes vagyonfelügyelők és rendkívüli vagyonfelügyelők igazolványának kiállítására, használatára, az igazolvány formai követelményeire, nyilvántartására, valamint az igazolvány személyes adatot nem tartalmazó adattartalmára vonatkozó részletes szabályokat.
 
 ### Az Európai Unió jogának való megfelelés
 
