@@ -1059,7 +1059,8 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 - i) a kiküldetéssel, külszolgálattal és munkába járással összefüggő költségtérítés,
 - j) a meghatározott kiadás fedezésére szolgáló összeg,
 - k) a fogva tartott adós részére a kapcsolattartó által célzottan befizetett összeg,
-- l)–m)
+- l)
+- m)
 - n) a fogyatékossági támogatás.
 
 ### A munkáltatónak
@@ -1433,7 +1434,9 @@ ismételten benyújtja.
 
 110. § (1) Ha az adósnak harmadik személlyel szemben követelése van, illetőleg az adós harmadik személlyel olyan szerződést kötött, amelyből később követelése keletkezik, a végrehajtó a követelést lefoglalja, egyúttal a harmadik személyt nyilatkozatra hívja fel, figyelmeztetve őt a 112. és 113. § szerinti jogkövetkezményekre.
 
-(2)–(3)
+(2)
+
+(3)
 
 111. § A harmadik személy a felhívás kézbesítésétől számított 8 napon belül nyilatkozatban köteles a végrehajtóval közölni, hogy
 
@@ -1504,7 +1507,9 @@ ismételten benyújtja.
 
 117. § (1) Az értékesítendő ingóságnak az értékesítés helyére történő elszállításáról a végrehajtó gondoskodik.
 
-(2)–(3)
+(2)
+
+(3)
 
 ### Ingóárverés
 
@@ -1660,7 +1665,11 @@ ismételten benyújtja.
 
 (2) Az elszámolás megtörténte nem érinti az adósnak a társasági tartozásokért fennálló, jogszabályban megállapított tagi felelősségét. A végrehajtást kérő az elszámolás megtörténte esetén sem felel a társaság tartozásaiért.
 
-(3)–(5)
+(3)
+
+(4)
+
+(5)
 
 ### Elektronikus árverés
 
@@ -1979,7 +1988,9 @@ ismételten benyújtja.
 
 (3) A vételi ajánlatot az elektronikus árverési rendszer akkor nem teszi közzé az árveréshez tartozó licitnaplóban, ha az nem éri el a kikiáltási ár 147. § (2) és (3) bekezdésében meghatározott mértékét, vagy nem haladja meg legalább a licitküszöb összegével az előzőleg közzétett vételi ajánlatot.
 
-(4)–(5)
+(4)
+
+(5)
 
 (6)
 
@@ -3230,7 +3241,13 @@ esetén van lehetőség.
 
 (2) A kártérítés, illetve a sérelemdíj fedezetére a végrehajtó köteles legalább harmincmillió forint értékű felelősségbiztosítást kötni és azt a működése alatt fenntartani. A végrehajtó köteles felelősségbiztosítását szolgálatának szünetelése alatt fenntartani, továbbá abban az esetben is, ha a végrehajtót hivatalából felfüggesztették.
 
-(3)–(6)
+(3)
+
+(4)
+
+(5)
+
+(6)
 
 237. § (1) A végrehajtó köteles a szolgálatba lépését megelőzően a Kar hivatali szerve vezetőjének, illetve az általa kijelölt személynek igazolni az összeférhetetlenség megszüntetését, bemutatni a bélyegzője lenyomatát, a letéti és elszámolási számlájának nyitásáról szóló fizetésiszámla-szerződést, a felelősségbiztosítási szerződést és bejelenteni hivatali helyiségének címét.
 
@@ -3329,7 +3346,7 @@ esetén van lehetőség.
 
 (6) Ha a végrehajtási iratokat birtokló személy az (5) bekezdés szerinti kötelezettségének nem tesz eleget, a végrehajtó irodája a helyszíni ellenőrzés lefolytatása céljából, a végrehajtási iratok mielőbbi átadásának érdekében – az Ákr. 70. § (3) és (4) bekezdésének alkalmazásával – felnyitható.
 
-(7) A Kar hivatali szervének vezetője jóváhagyásával az állandó helyettes és az újonnan kinevezett önálló bírósági végrehajtó a végrehajtási ügyek átadása során megállapodhatnak úgy is, hogy a folyamatban lévő végrehajtási ügyeket az állandó helyettes foganatosítja, az újonnan kinevezett önálló bírósági végrehajtó csak a kinevezését követően elrendelt végrehajtási ügyekben jár el.
+(7)
 
 ### A végrehajtói szolgálat szünetelése
 
@@ -3355,7 +3372,9 @@ a végrehajtói szolgálata szünetel.
 
 240/C. § (1) A Hatóság elnöke a végrehajtó kölcsönös áthelyezése, felmentése, továbbá szolgálata folyamatossága és megszűnése megállapítása, valamint a végrehajtói kinevezés érvénytelenségének megállapítása ügyében az Ákr. rendelkezései szerint jár el.
 
-(2)–(3)
+(2)
+
+(3)
 
 ### Önálló bírósági végrehajtó-helyettes
 
@@ -3829,9 +3848,23 @@ kérhetnek adatszolgáltatást.
 
 254/B. § (1) Végrehajtói irodát egy vagy több végrehajtó alapíthat. Végrehajtó iroda tagja csak végrehajtó lehet.
 
-(2)–(5)
+(2)
 
-(6)–(10)
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
 
 254/C. § (1) Végrehajtói irodaként a cégjegyzékbe bejegyzett iroda működhet. A végrehajtói iroda az előtársaságra vonatkozó szabályok alapján nem kezdheti meg működését.
 
@@ -4713,6 +4746,7 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 - l) az általános költségátalány mértékét, az általános költségátalány megfizetéséről szóló szabályokat,
 - m) az elektronikus árverési rendszer és a kézbesítési rendszer informatikai alkalmazásának működtetésére, biztonsági követelményeire és felhasználói szabályzatának kötelező tartalmi elemeire vonatkozó részletes szabályokat,
 - n) a panaszügyek intézésére irányuló eljárások lefolytatására, és a fegyelmi eljárások nyilvántartására vonatkozó részletes szabályokat.
+- o) a végrehajtó állandó helyettes általi helyettesítésével összefüggő elszámolásra, ügyvitelre és ügykezelésre vonatkozó részletes szabályokat.
 
 (1b) Az (1a) bekezdés a), d), i), j), l) és m) pontjában meghatározott rendeletet a Hatóság elnöke a miniszter véleményének kikérését követően adja ki.
 
@@ -4733,7 +4767,7 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 - m)
 - n) az adópolitikáért felelős miniszterrel egyetértésben a végrehajtási kifogás előterjesztésével egyidejűleg letétbe helyezendő szakértői díj előlegének összegét, valamint megfizetésének módját,
 - o)
-- p) a végrehajtó állandó helyettes általi helyettesítésével összefüggő elszámolás, ügyvitel és ügykezelés részletes szabályait,
+- p)
 - q)
 - r)
 

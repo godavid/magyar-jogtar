@@ -3990,11 +3990,21 @@ Igazolás nélkül, költségként elszámolható tételek a következők:
 
 3. a belföldi közúti árufuvarozásban és személyszállításban gépkocsivezetőként és árukísérőként foglalkoztatott (a közúti közlekedési szolgáltatásokról és közúti járművek üzemben tartásáról szóló külön jogszabály vagy más erről szóló jogszabály rendelkezései szerint engedélyhez kötött belföldi közúti közlekedési szolgáltatást végző, abban árukísérőként közreműködő), belföldi kiküldetés címén bevételt szerző magánszemélynél – kizárólag e tevékenysége tekintetében – a belföldi hivatalos kiküldetést teljesítő munkavállaló költségtérítéséről szóló kormányrendelet szerint naponta elszámolható összeg, feltéve, hogy a magánszemély ezenkívül kizárólag a gépjármű belföldön történő üzemeltetéséhez közvetlenül kapcsolódó és számlával, más bizonylattal igazolt költségek elszámolására jogosult, és ezt az elszámolási módszert alkalmazza, azzal, hogy e rendelkezés alkalmazásában az engedélyhez kötött belföldi közúti közlekedési szolgáltatással esik egy tekintet alá az a saját célra folytatott (saját számlás) áruszállítási, személyszállítási tevékenység is, amely más személy részére jogszerűen csak engedélyhez kötött belföldi közúti közlekedési szolgáltatásként lenne nyújtható;
 
-4. a közúti gépjárművek, az egyes mezőgazdasági, erdészeti és halászati erőgépek üzemanyag és kenőanyag fogyasztásának igazolás nélkül elszámolható mértékéről szóló kormányrendelet szerint meghatározott üzemanyag fogyasztási norma;
+4. a) a közúti gépjárművek, az egyes mezőgazdasági, erdészeti és halászati erőgépek üzemanyag és kenőanyag fogyasztásának igazolás nélkül elszámolható mértékéről szóló kormányrendelet szerinti üzemanyagfajták esetén a kormányrendeletben meghatározott üzemanyag-fogyasztási norma,
+
+b) a tölthető hibrid járművek használata esetén a járműbe beépített belső égésű motor hengerűrtartalma alapján a közúti gépjárművek, az egyes mezőgazdasági, erdészeti és halászati erőgépek üzemanyag és kenőanyag fogyasztásának igazolás nélkül elszámolható mértékéről szóló kormányrendelet szerint meghatározható üzemanyag-fogyasztási norma 70 százaléka;
+
+4a. a tisztán elektromos meghajtású járművek használata esetén 3 liter/100 km ESZ 95 ólmozatlan motorbenzinnek az állami adó és vámhatóság által közzétett árával meghatározott összege;
 
 5. az Európai Parlament által az európai parlamenti megfigyelő és az európai parlamenti tag számára fizetett költségtérítés;
 
-6. a kifizető által a magánszemélynek a saját személygépkocsi (ideértve a közeli hozzátartozó tulajdonát képező személygépkocsit is) használata miatt fizetett költségtérítés összegéből a kiküldetési rendelvényben feltüntetett km-távolság szerint az üzemanyag-fogyasztási norma és legfeljebb az állami adó- és vámhatóság által közzétett üzemanyagár, valamint 15 Ft/km általános személygépkocsi normaköltség alapulvételével kifizetett összeg;
+6. a kifizető által a magánszemélynek a saját személygépkocsi (ideértve a közeli hozzátartozó tulajdonát képező személygépkocsit is) használata miatt fizetett költségtérítés összegéből a kiküldetési rendelvényben feltüntetett km-távolság szerint
+
+a) a 4. pont szerint megállapított üzemanyag-fogyasztási norma és legfeljebb az állami adó- és vámhatóság által közzétett üzemanyagár,
+
+b) tisztán elektromos meghajtású járművek esetén a 4a. pont szerinti összeg,
+
+valamint a 15 Ft/km általános személygépkocsi normaköltség alapulvételével kifizetett összeg;
 
 7. külföldi kiküldetés esetén
 
@@ -4020,13 +4030,17 @@ III. Az értékcsökkenési leírás elszámolása
 
 IV. A járművek költsége
 
-1. A saját tulajdonú, a magánszemély által zárt végű lízingbe vett jármű (ideértve a továbbiakban a közeli hozzátartozó tulajdonát képező vagy a közeli hozzátartozó által zárt végű lízingbe vett járművet is) üzemanyag-felhasználása, továbbá számlával (bizonylattal) történő igazolás alapján a jármű fenntartásának, javításának és felújításának költsége számolható el, valamint mezőgazdasági őstermelő esetében a kizárólag üzemi célú járműre vonatkozóan a III. rész 1. pontjában foglaltak szerint érvényesíthető értékcsökkenési leírás. Üzemanyag-felhasználás címén vagy
+1. A saját tulajdonú, a magánszemély által zárt végű lízingbe vett jármű (ideértve a továbbiakban a közeli hozzátartozó tulajdonát képező vagy a közeli hozzátartozó által zárt végű lízingbe vett járművet is) üzemanyag-felhasználása, továbbá számlával (bizonylattal) történő igazolás alapján a jármű fenntartásának, javításának és felújításának költsége számolható el, valamint mezőgazdasági őstermelő esetében a kizárólag üzemi célú járműre vonatkozóan a III. rész 1. pontjában foglaltak szerint érvényesíthető értékcsökkenési leírás. Üzemanyag-felhasználás címén
 
 a) az üzemanyag-fogyasztási norma és az állami adó- és vámhatóság által közzétett üzemanyagár,
 
-b) a számlával (számlákkal) igazolt üzemanyag-vásárlás vehető figyelembe, azonban a számla alapján figyelembe vett üzemanyag-mennyiség nem lehet több, mint az üzemi használatra az üzemanyag-fogyasztási normával számított mennyiség,
+b) a számlával (számlákkal) igazolt üzemanyag-vásárlás,
 
-azzal, hogy a magánszemély az adóév egy negyedévén belül a negyedév első napján választott üzemanyag-felhasználással összefüggő költségelszámolási módszertől – ideértve a választott üzemanyag-fogyasztási normát is – nem térhet el. Nem alkalmazható az a) pont rendelkezése, ha a magánszemély az Áfa törvény szabályai szerint az üzemanyag általános forgalmi adóját levonásba helyezi.
+c) tölthető hibrid jármű használata esetén – a II. Igazolás nélkül, költségként elszámolható tételek fejezet 4. pont b) alpontja szerint igazolás nélkül elszámolható mérték helyett – a b) pont szerinti összeg és az elektromos töltés számlával igazolt költsége,
+
+d) tisztán elektromos meghajtású jármű használata esetén – a II. Igazolás nélkül, költségként elszámolható tételek fejezet 4a. pontja szerint igazolás nélkül elszámolható mérték helyett– az elektromos töltés számlával igazolt költsége
+
+vehető figyelembe, azonban a számla alapján figyelembe vett üzemanyag-mennyiség – ide nem értve az elektromos töltést – nem lehet több, mint az üzemi használatra az üzemanyag-fogyasztási normával számított mennyiség. A magánszemély az adóév egy negyedévén belül a negyedév első napján választott üzemanyag-felhasználással összefüggő költségelszámolási módszertől – ideértve a választott üzemanyag-fogyasztási normát is – nem térhet el. Nem alkalmazható az a) pont rendelkezése, ha a magánszemély az Áfa-törvény szabályai szerint az üzemanyag általános forgalmi adóját levonásba helyezi.
 
 2. A saját tulajdonú nem kizárólag üzemi célú jármű – kivéve a személygépkocsit – beszerzési árával szemben a III. 2. pont szerint átalányban érvényesíthető értékcsökkenési leírás. Személygépkocsi esetén az átalány szerinti elszámolás a következő módon érvényesíthető: az ott említett nyilvántartás vezetése mellett az éves bevételnek 1 százaléka, de legfeljebb egy személygépkocsi beszerzési árának a 10 százaléka vehető figyelembe, illetőleg a hivatkozott pontban meghatározott átalány címén egyébként elszámolt költség ezzel az összeggel növelhető. Egy adott személygépkocsi értéke alapján csak egy ízben, a használatbavétel évében vehető figyelembe ez az átalány.
 
@@ -4701,13 +4715,17 @@ c) Nem anyagi javak esetében, ha azok nem kizárólag üzemi célt szolgálnak 
 
 III. A járművek költsége
 
-1. A saját tulajdonú, a magánszemély által zárt végű lízingbe vett kizárólag üzemi célú jármű (ideértve a továbbiakban a közeli hozzátartozó tulajdonát képező vagy a közeli hozzátartozó által zárt végű lízingbe vett járművet is) (e rendelkezés alkalmazásában a személygépkocsi-bérbeadó vagy személyszállító tevékenységet folytató egyéni vállalkozónál a tevékenység tárgyát, illetve eszközét képező személygépkocsi is, ha az egyéni vállalkozó azt más célra részben sem használja, és üzleti nyilvántartásai ezt egyértelműen alátámasztják) üzemanyag-felhasználása, továbbá számlával (bizonylattal) történő igazolás alapján a jármű fenntartásának, javításának és felújításának költsége számolható el, valamint a II. fejezetben foglaltak szerint érvényesíthető értékcsökkenési leírás. Üzemanyag-felhasználás címén vagy
+1. A saját tulajdonú, a magánszemély által zárt végű lízingbe vett kizárólag üzemi célú jármű (ideértve a továbbiakban a közeli hozzátartozó tulajdonát képező vagy a közeli hozzátartozó által zárt végű lízingbe vett járművet is) (e rendelkezés alkalmazásában a személygépkocsi-bérbeadó vagy személyszállító tevékenységet folytató egyéni vállalkozónál a tevékenység tárgyát, illetve eszközét képező személygépkocsi is, ha az egyéni vállalkozó azt más célra részben sem használja, és üzleti nyilvántartásai ezt egyértelműen alátámasztják) üzemanyag-felhasználása, továbbá számlával (bizonylattal) történő igazolás alapján a jármű fenntartásának, javításának és felújításának költsége számolható el, valamint a II. fejezetben foglaltak szerint érvényesíthető értékcsökkenési leírás. Üzemanyag-felhasználás címén
 
 a) az üzemanyag-fogyasztási norma és az állami adó- és vámhatóság által közzétett üzemanyagár,
 
-b) a számlával (számlákkal) igazolt üzemanyag-vásárlás vehető figyelembe, azonban a számla alapján figyelembe vett üzemanyag-mennyiség nem lehet több, mint az üzemi használatra az üzemanyag-fogyasztási normával számított mennyiség,
+b) a számlával (számlákkal) igazolt üzemanyag-vásárlás,
 
-azzal, hogy a magánszemély az adóév egy negyedévén belül a negyedév első napján választott üzemanyag-felhasználással összefüggő költségelszámolási módszertől – ideértve a választott üzemanyag-fogyasztási normát is – nem térhet el. Nem alkalmazható az a) pont rendelkezése, ha az egyéni vállalkozó az Áfa törvény szabályai szerint az üzemanyag általános forgalmi adóját levonásba helyezi.
+c) tölthető hibrid jármű használata esetén – a 3. számú melléklet II. Igazolás nélkül, költségként elszámolható tételek fejezet 4. pont b) alpontja szerint igazolás nélkül elszámolható mérték helyett – a b) pont szerinti összeg és az elektromos töltés számlával igazolt költsége,
+
+d) tisztán elektromos meghajtású jármű használata esetén – a 3. számú melléklet II. Igazolás nélkül, költségként elszámolható tételek fejezet 4a. pontja szerint igazolás nélkül elszámolható mérték helyett – az elektromos töltés számlával igazolt költsége
+
+vehető figyelembe, azonban a számla alapján figyelembe vett üzemanyag-mennyiség – ide nem értve az elektromos töltést – nem lehet több, mint az üzemi használatra az üzemanyag-fogyasztási normával számított mennyiség. A magánszemély az adóév egy negyedévén belül a negyedév első napján választott üzemanyag-felhasználással összefüggő költségelszámolási módszertől – ideértve a választott üzemanyag-fogyasztási normát is – nem térhet el. Nem alkalmazható az a) pont rendelkezése, ha a magánszemély az Áfa-törvény szabályai szerint az üzemanyag általános forgalmi adóját levonásba helyezi.
 
 2.
 
