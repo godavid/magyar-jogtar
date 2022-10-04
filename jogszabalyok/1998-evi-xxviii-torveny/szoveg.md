@@ -593,6 +593,12 @@ eb után.
 
 (12) Ha az állattartó a (11) bekezdés szerinti kötelezettségeit megsérti, az állatvédelmi hatóság a (10) bekezdésben foglalt jogkövetkezményt alkalmazhatja.
 
+(13) Ha a büntetőügyben eljáró bíróság arról értesíti az állatvédelmi hatóságot, hogy állatkínzás vagy tiltott állatviadal szervezése bűncselekmény miatt az állattartót jogerősen elítélte, az állatvédelmi hatóság a bíróság értesítése alapján hatósági ellenőrzést folytat.
+
+(14) Az állatvédelmi hatóság az állattartástól való eltiltást – a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 3. § (1) bekezdésében foglaltak figyelembevételével – haladéktalanul bejegyzi a Közigazgatási Szankciók Nyilvántartásába.
+
+(15) Az állatvédelmi hatóság ellenőrzi az állattartástól való eltiltás végrehajtását, ennek érdekében betekinthet a Közigazgatási Szankciók Nyilvántartásába.
+
 ### IX. Fejezet — AZ ÁLLATVÉDELMI OKTATÁS
 
 43/A. § (1) Az állatokkal szembeni megfelelő magatartásra, gondoskodásra nevelést, az állatok megismertetését az iskolai általános képzésbe, a szakképzésbe és az ismeretterjesztésbe be kell építeni.
