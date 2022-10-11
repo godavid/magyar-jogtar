@@ -718,6 +718,7 @@ utasíthat.
 - 19. a Nemzeti Média- és Hírközlési Hatóság elnöke,
 - 20. a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke és elnökhelyettese,
 - 21. a Nemzeti Választási Iroda elnöke, elnökhelyettese
+- 22. az Integritás Hatóság elnöke, elnökhelyettese
 
 részére a közjogi tisztség betöltésének igazolása céljából igazolványt (a továbbiakban: közjogi tisztségviselői igazolvány) állít ki.
 
