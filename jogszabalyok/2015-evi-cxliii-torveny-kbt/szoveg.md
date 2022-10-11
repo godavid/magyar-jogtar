@@ -509,21 +509,21 @@ Az e bekezdés szerinti választás nem irányulhat e törvény alkalmazásának
 
 ### Összeférhetetlenség
 
-25. § (1) Az ajánlatkérő köteles minden szükséges intézkedést megtenni annak érdekében, hogy elkerülje az összeférhetetlenséget és a verseny tisztaságának sérelmét eredményező helyzetek kialakulását.
+25. § (1) Az ajánlatkérő köteles minden szükséges intézkedést megtenni annak érdekében, hogy megelőzze, feltárja és szükség esetén orvosolja az összeférhetetlenséget és a verseny tisztaságának sérelmét eredményező helyzeteket.
 
-(2) Összeférhetetlen és nem vehet részt az eljárás előkészítésében és lefolytatásában az ajánlatkérő nevében olyan személy vagy szervezet – ide értve a közbeszerzési szolgáltatót, valamint az általa foglalkoztatottakat is –, amely funkcióinak pártatlan és tárgyilagos gyakorlására bármely okból, így különösen gazdasági vagy más érdek vagy az eljárásban részt vevő gazdasági szereplővel fennálló más közös érdek miatt nem képes.
+(2) Az ajánlatkérő nevében eljáró és az ajánlatkérő által az eljárással vagy annak előkészítésével kapcsolatos tevékenységbe bevont személy írásban köteles nyilatkozni arról, hogy vele szemben fennáll-e bármely olyan körülmény, amely az e § szerinti összeférhetetlenséget eredményezhet. Ha e személy a közbeszerzési eljáráshoz kapcsolódó több folyamatban (eljárás előkészítése, ajánlatok és részvételi jelentkezések bírálata, a közbeszerzési eljárás eredményéről szóló döntés meghozatala) is részt vesz, az érintett személynek a nyilatkozatot valamennyi folyamathoz kapcsolódóan meg kell tennie. Ha az összeférhetetlenség vagy annak kockázata a nyilatkozat megtételét követően merül fel, az érintett személy köteles ezt haladéktalanul bejelenteni az ajánlatkérő részére.
 
-(3) Összeférhetetlen és nem vehet részt az eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy az alkalmasság igazolásában részt vevő szervezetként
+(3) Ha a (2) bekezdés szerinti cselekmények vagy bármely más forrásból származó információ alapján felmerül az összeférhetetlenség kockázata, az ajánlatkérő köteles megvizsgálni az összeférhetetlenség fennállását.
 
-- a) az ajánlatkérő által az eljárással vagy annak előkészítésével kapcsolatos tevékenységbe bevont személy vagy szervezet,
-- b) az a szervezet, amelynek
-  - ba) vezető tisztségviselőjét vagy felügyelőbizottságának tagját,
-  - bb) tulajdonosát,
-  - bc) a ba)–bb) pont szerinti személy közös háztartásban élő hozzátartozóját az ajánlatkérő az eljárással vagy annak előkészítésével kapcsolatos tevékenységbe bevonta,
+(4) Összeférhetetlenség áll fenn akkor, ha az ajánlatkérő részéről az eljárással vagy annak előkészítésével kapcsolatos tevékenységbe bevont vagy az eljárás eredményét befolyásolni képes személy – ide értve a közbeszerzési szolgáltatót, valamint az általa foglalkoztatottakat is – közvetve vagy közvetlenül olyan pénzügyi, gazdasági vagy egyéb személyes érdekeltséggel rendelkezik, amely úgy tekinthető, hogy befolyásolja funkcióinak pártatlan és tárgyilagos gyakorlását.
 
-ha közreműködése az eljárásban a verseny tisztaságának sérelmét eredményezheti.
+(5) Vélelmezni kell, hogy fennáll a (4) bekezdés szerinti összeférhetetlenség, ha a (4) bekezdés szerinti személy
 
-(4) A (3) bekezdésben foglaltak mellett – a nyilvánosan működő részvénytársaság kivételével – összeférhetetlen és nem vehet részt az eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy az alkalmasság igazolásában részt vevő szervezetként
+- a) a közbeszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként részt vesz vagy az alkalmasság igazolásában részt vesz;
+- b) a közbeszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy az alkalmasság igazolásában részt vevő szervezetként részt vevő gazdasági szereplő vagy annak tagja, vezető tisztségviselője, felügyelőbizottságának tagja, cégvezetője vagy alkalmazottja; vagy
+- c) az a) vagy a b) pontban meghatározott személyek hozzátartozója.
+
+(6) A nyilvánosan működő részvénytársaság kivételével összeférhetetlen és nem vehet részt az eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy az alkalmasság igazolásában részt vevő szervezetként
 
 - a) a köztársasági elnök,
 - b) az Országgyűlés elnöke, alelnöke,
@@ -534,26 +534,20 @@ ha közreműködése az eljárásban a verseny tisztaságának sérelmét eredm�
 - g) az Állami Számvevőszék elnöke,
 - h) a Közbeszerzési Hatóság, a Gazdasági Versenyhivatal, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a Nemzeti Választási Iroda, a Központi Statisztikai Hivatal, az Országos Atomenergia Hivatal, a Szellemi Tulajdon Nemzeti Hivatala, a Nemzeti Adó- és Vámhivatal, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Magyar Energetikai és Közmű-szabályozási Hivatal vezetője, vagy
 - i) a Magyar Nemzeti Bank elnöke
-- j)
-- k)
-- l)
-- m)
 
 tulajdonában, vagy az a)–i) pont szerinti személlyel közös háztartásban élő hozzátartozója tulajdonában álló szervezet.
 
-(5) Az ajánlatkérő köteles felhívni az eljárás előkészítésébe bevont személy vagy szervezet figyelmét arra, ha a (3)–(4) bekezdés alapján – különösen az általa megszerzett többlet-információkra tekintettel – a közbeszerzési eljárásban történő részvétele összeférhetetlenséget eredményezne.
+(7) A közbeszerzési eljárás előkészítésében vagy lefolytatásában az ajánlatkérő részéről nem vehet részt olyan személy, akinek a részvétele összeférhetetlenséget eredményezne. Összeférhetetlenség fennállása esetén az ajánlatkérő köteles megvizsgálni, hogy az összeférhetetlenség az adott közbeszerzési eljárás tekintetében hogyan érintette a verseny tisztasága és az egyenlő bánásmód elveinek érvényesülését, és köteles mindazon intézkedéseket megtenni, amelyek szükségesek az összeférhetetlenség megszüntetéséhez és az eljárás jogszerűségének helyreállításához. A 62. § (1) bekezdés m) pontja akkor alkalmazható, ha az egyenlő bánásmód és a verseny tisztaságának sérelme más módon nem orvosolható.
 
-(6) Az ajánlatkérő nevében eljáró és az ajánlatkérő által az eljárással vagy annak előkészítésével kapcsolatos tevékenységbe bevont személy vagy szervezet írásban köteles nyilatkozni arról, hogy vele szemben fennáll-e az e § szerinti összeférhetetlenség.
+(8) A (7) bekezdéstől eltérően, ha egy részvételre jelentkező, ajánlattevő, alvállalkozó vagy az alkalmasság igazolásában részt vevő szervezet vagy egy ezekkel – közvetve vagy közvetlenül – a 3. § 28. pontjában meghatározott kapcsolatban álló gazdasági szereplő – ide értve az (5) bekezdés b) pontja szerinti személyeket is – részt vett a közbeszerzési eljárás előkészítésében, az ajánlatkérő köteles megfelelő intézkedéseket tenni – különös tekintettel az eljáráshoz kapcsolódó valamennyi releváns információ többi gazdasági szereplővel való közlésére, valamint megfelelő ajánlattételi határidő biztosítására – annak érdekében, hogy az érintett gazdasági szereplő közbeszerzési eljárásban való részvétele ne vezessen a verseny torzításához. Az érintett gazdasági szereplő a 62. § (1) bekezdés m) pontja alapján csak akkor zárható ki az eljárásból, ha az egyenlő bánásmód elvének tiszteletben tartása más módon nem biztosítható. A kizárást megelőzően az ajánlatkérő – hiánypótlás vagy felvilágosítás kérés útján – köteles biztosítani annak lehetőségét, hogy az érintett gazdasági szereplő bizonyítsa, hogy a közbeszerzési eljárás előkészítésében való részvétele az egyenlő bánásmód elvét és a verseny tisztaságát nem sérti, vagy az érintett gazdasági szereplő az összeférhetetlenségi helyzetet más módon elhárítsa. Az összeférhetetlenségi helyzet elhárítása érdekében a gazdasági szereplő által tett intézkedéseket az ajánlatkérő köteles az ajánlatok (részvételi jelentkezések) elbírálásáról szóló összegezésben ismertetni.
 
-(7) A (3) bekezdés alkalmazásában nem eredményezi a verseny tisztaságának sérelmét és nem összeférhetetlen az olyan személy (szervezet) részvétele az eljárásban,
+(9) A (8) bekezdés alkalmazásában nem eredményezi a verseny tisztaságának sérelmét és nem összeférhetetlen az olyan személy (szervezet) részvétele az eljárásban,
 
 - a) akitől, illetve amelytől az ajánlatkérő az adott közbeszerzéssel kapcsolatos helyzet-, piacfelmérés, illetve a közbeszerzés becsült értékének felmérése érdekében a közbeszerzés megkezdése időpontjának megjelölése nélkül, kizárólag a felmérés érdekében szükséges adatokat közölve kért tájékoztatást,
-- b) aki, illetve amely az ajánlatkérő által folytatott előzetes piaci konzultációban [28. § (4) bekezdés] vett részt,
+- b) aki, illetve amely az ajánlatkérő által folytatott előzetes piaci konzultációban [28. § (4) bekezdése] vett részt,
 - c) akitől, illetve amelytől az ajánlatkérő a támogatásra irányuló igény (pályázat) benyújtásához szükséges árajánlatot kapott,
 
-feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő nem közölt vele a közbeszerzési eljárás során az összes ajánlattevő vagy részvételre jelentkező részére rendelkezésre bocsátott adatok körét meghaladó információt.
-
-(8) Az ajánlattevő vagy részvételre jelentkező az eljárásból e § alapján csak akkor zárható ki, ha közbeszerzési eljárásban részt vevő gazdasági szereplők esélyegyenlősége más módon nem biztosítható. A kizárást megelőzően az ajánlatkérő – hiánypótlás vagy felvilágosítás kérés útján – köteles biztosítani annak lehetőségét, hogy az érintett gazdasági szereplő bizonyítsa, hogy a közbeszerzési eljárás előkészítésében való részvétele az esélyegyenlőséget és a verseny tisztaságát nem sérti, vagy az összeférhetetlenségi helyzetet más módon elhárítsa. Az összeférhetetlenségi helyzet elhárítása érdekében a gazdasági szereplő által tett intézkedéseket az ajánlatkérő köteles az ajánlatok (részvételi jelentkezések) elbírálásáról szóló összegezésben ismertetni.
+feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő nem közölt vele a közbeszerzési eljárás során az összes ajánlattevő vagy részvételre jelentkező részére rendelkezésre bocsátott adatok körét meghaladó információt, valamint az ajánlattételi határidő meghatározása biztosítja az egyenlő bánásmód elvének érvényesülését.
 
 ### Az ajánlatkérőkre vonatkozó közös szabályok
 
@@ -700,6 +694,8 @@ feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő 
 (2) Amennyiben az ajánlatkérő az adott közbeszerzési eljárás során a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) 11. §-a, vagy az EUMSZ 101. cikke szerinti rendelkezések nyilvánvaló megsértését észleli vagy azt alapos okkal feltételezi, köteles azt – a Tpvt. bejelentésre vagy panaszra vonatkozó szabályai szerint – jelezni a Gazdasági Versenyhivatalnak.
 
 (3) Amennyiben a közbeszerzésekért vagy az európai uniós források felhasználásáért felelős miniszter a közbeszerzési eljárások, továbbá közbeszerzési szerződések, illetve építési vagy szolgáltatási koncessziók és ezek módosításainak közbeszerzési-jogi ellenőrzése során a Tpvt. 11. §-a, vagy az EUMSZ 101. cikke szerinti rendelkezések nyilvánvaló megsértését észleli vagy azt alapos okkal feltételezi, a Tpvt. bejelentésre vagy panaszra vonatkozó szabályai szerint a Gazdasági Versenyhivatalnak megtett jelzés során – a minősített adat kivételével – jogosult a Gazdasági Versenyhivatalnak átadni az érintett közbeszerzés, szerződés, építési vagy szolgáltatási koncesszió, illetve ezek módosításai ellenőrzése révén rendelkezésére álló bármely adatot.
+
+(4) A közbeszerzésekért vagy az európai uniós források felhasználásáért felelős miniszter az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény (a továbbiakban: Eufetv.) szerint az Integritás Hatóság feladatkörébe tartozó esetekben jogosult – a minősített adat kivételével – az Integritás Hatóságnak átadni az eljárásával érintett közbeszerzés, szerződés, építési vagy szolgáltatási koncesszió, illetve ezek módosításai ellenőrzése révén rendelkezésére álló bármely adatot.
 
 ### V. Fejezet — KÖZZÉTÉTEL, KOMMUNIKÁCIÓ, NYILVÁNOSSÁG
 
@@ -906,7 +902,7 @@ feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő 
 
 céljából, erre irányuló megkeresés alapján adhatja át.
 
-(4c) A közbeszerzés ellenőrzésére feljogosított szerv, valamint a közbeszerzési jogorvoslat során eljáró Közbeszerzési Döntőbizottság vagy bíróság részére a közbeszerzési eljárás irataihoz való hozzáférést az EKR-ben az ajánlatkérő biztosítja.
+(4c) A közbeszerzés ellenőrzésére feljogosított szerv, az Integritás Hatóság, valamint a közbeszerzési jogorvoslat során eljáró Közbeszerzési Döntőbizottság vagy bíróság részére a közbeszerzési eljárás irataihoz való hozzáférést az EKR-ben az ajánlatkérő biztosítja.
 
 (5) Az EKR üzemeltetésével összefüggő feladatok teljesítése érdekében az EKR-ben a közbeszerzési eljárások lefolytatása során rögzített személyes adatok a (2) bekezdésben meghatározott időtartamig kezelhetők.
 
@@ -1066,6 +1062,8 @@ céljából, erre irányuló megkeresés alapján adhatja át.
 (6) A felhívás és az egyéb közbeszerzési dokumentumok módosítása nem eredményezheti a beszerzés tárgyára vagy a szerződés feltételeire vonatkozó feltételek olyan jelentőségű módosítását, ahol az új feltételek ismerete alapvetően befolyásolhatta volna az érdekelt gazdasági szereplők arra vonatkozó döntését, hogy a közbeszerzési eljárásban tudnak-e részvételre jelentkezni vagy ajánlatot tenni, vagy a változást figyelembe véve az ajánlatkérőnek az alkalmassági követelményeket úgy kellett volna meghatároznia, hogy az eljárásban több gazdasági szereplő is részt vehetett volna.
 
 (7) Az ajánlattevő és a részvételre jelentkező az ajánlattételi, illetve részvételi határidő lejártáig új ajánlat, illetve részvételi jelentkezés benyújtásával módosíthatja az ajánlatát, illetve részvételi jelentkezését. Ebben az esetben az elsőként benyújtott ajánlatot vagy részvételi jelentkezést az új ajánlat vagy részvételi jelentkezés megtétele előtt vissza kell vonnia.
+
+(8) Ha az Integritás Hatóság a részvételi vagy ajánlattételi határidő leteltét megelőzően függeszti fel a közbeszerzési eljárást, a felfüggesztés időtartama alatt a részvételi vagy az ajánlattételi határidő nem jár le és a felfüggesztés megszűnését követően az ajánlatkérő köteles a határidőt a megfelelő részvételi jelentkezés vagy ajánlat benyújtásához szükséges mértékben meghosszabbítani.
 
 ### VIII. Fejezet — A KIEGÉSZÍTŐ TÁJÉKOZTATÁS ÉS A HELYSZÍNI BEJÁRÁS
 
@@ -1357,6 +1355,8 @@ az ajánlatkérő ezen ajánlattevő ajánlatának figyelmen kívül hagyásáva
 (2a) Ha az ajánlatkérő az ajánlatok bírálatát az ajánlati kötöttség (2) bekezdés szerint meghatározható legfeljebb kilencven, illetve százhúsz napos időtartama alatt sem tudja elvégezni, az 54. § (7) bekezdésben foglaltakra figyelemmel kérheti fel az ajánlattevőket ajánlataiknak meghatározott időpontig történő további fenntartására. Ha az ajánlattevők eljárást lezáró döntésről való értesítését megelőzően az ajánlati kötöttség a száznyolcvan napot meghaladná, az ajánlatkérő az eljárást lezáró döntést a 75. § (1) bekezdés c) pontjára figyelemmel hozhatja meg.
 
 (3) Az ajánlatkérő a részvételi jelentkezéseket köteles a lehető legrövidebb időn belül elbírálni. Ha a részvételi felhívásban feltüntetett, az ajánlattételi felhívás megküldésének időpontjáig a bírálatot nem tudja befejezni, minden részvételre jelentkezőnek egyidejűleg értesítést küld az ajánlattételi felhívás megküldésének – annak eredeti időpontjától számított hatvan napnál nem későbbi – új időpontjáról, és a részvételi szakasz eredményéről ezt megelőzően kell a részvételre jelentkezőket értesíteni.
+
+(4) Ha az Integritás Hatóság a részvételi vagy ajánlattételi határidő leteltét megelőzően függeszti fel a közbeszerzési eljárást, a közbeszerzési eljárás felfüggesztésének ideje alatt az ajánlatkérő nem hozhatja meg az eljárás részvételi szakaszát lezáró döntést vagy az eljárást lezáró döntést, valamint az ajánlatkérőre irányadó folyamatban lévő határidők a felfüggesztés időtartamával meghosszabbodnak.
 
 ### Hiánypótlás, felvilágosításkérés és a számítási hiba javítása
 
@@ -2811,8 +2811,9 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 - l) az ügyész;
 - m) a közbeszerzésekért felelős miniszter;
 - n) az európai uniós források felhasználásáért felelős miniszter.
+- o) az európai uniós forrásból megvalósuló közbeszerzésekkel összefüggésben az Integritás Hatóság.
 
-(2) A Közbeszerzési Döntőbizottság hivatalból való eljárását az (1) bekezdés a)–f) pontja, h)–i) pontja és k)–l) pontja szerinti személy vagy szervezet a jogsértés tudomásra jutásától számított hatvan napon belül, az (1) bekezdés g), j), m) és n) pontja szerinti szervezet vagy személy a jogsértés tudomásra jutásától számított kilencven napon belül, de
+(2) A Közbeszerzési Döntőbizottság hivatalból való eljárását az (1) bekezdés a)–f) pontja, h)–i) pontja és k)–l) pontja szerinti személy vagy szervezet a jogsértés tudomásra jutásától számított hatvan napon belül, az (1) bekezdés g), j), m)–o) pontja szerinti szervezet vagy személy a jogsértés tudomásra jutásától számított kilencven napon belül, de
 
 - a) legkésőbb a jogsértés megtörténtétől számított három éven belül,
 - b) közbeszerzési eljárás mellőzésével történt beszerzés esetén az a) ponttól eltérően a szerződés megkötésének időpontjától vagy, ha ez nem állapítható meg, akkor a szerződés teljesítésének bármelyik fél által történt megkezdésétől számított legfeljebb öt éven belül, vagy
@@ -3006,7 +3007,7 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 
 (7b) A 137. § (1) bekezdése szerinti jogsértés megállapítása esetén, ha a Közbeszerzési Döntőbizottság megállapítja, hogy az eredeti állapot helyreállítása a szerződés érvénytelensége jogkövetkezményei alkalmazása körében nem lesz lehetséges, a (6)–(7) bekezdésben foglaltakon túl további bírságot szab ki, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének 15%-a.
 
-(7c) Nem szab ki bírságot a Közbeszerzési Döntőbizottság olyan esetben, amikor az ajánlatkérő a jogorvoslat tárgyává tett cselekményt a jogszabályban foglaltak szerint folyamatba épített ellenőrzést végző szervnek az érintett eljárásban adott előírása alapján teljesítette.
+(7c) Nem szab ki bírságot a Közbeszerzési Döntőbizottság olyan esetben, amikor az ajánlatkérő a jogorvoslat tárgyává tett cselekményt a jogszabályban foglaltak szerint folyamatba épített ellenőrzést végző szervnek az érintett eljárásban adott előírása vagy az Integritás Hatóság ajánlása alapján teljesítette.
 
 (8)
 
@@ -3243,7 +3244,7 @@ figyelembe veszi. A bírság összegének megállapításakor figyelembe kell ve
 
 ### A Hatóság keretében működő Tanács
 
-182. § (1) A Tanács tizenhat tagból áll. A Tanács tagjai az egyes közérdekű célokat, az ajánlatkérőket és az ajánlattevőket képviselik.
+182. § (1) A Tanács tizenhét tagból áll. A Tanács tagjai az egyes közérdekű célokat, az ajánlatkérőket és az ajánlattevőket képviselik.
 
 (2) A törvény alapelveinek, az egyes közérdekű céloknak, az ajánlatkérők, valamint az ajánlattevők érdekeinek az érvényesítése a Tanácsban a következő személyek feladata:
 
@@ -3259,7 +3260,8 @@ figyelembe veszi. A bírság összegének megállapításakor figyelembe kell ve
 - j) a felelős akkreditált közbeszerzési szaktanácsadók szakmai testülete által kijelölt személy;
 - k) az innovációért felelős miniszter által kijelölt személy;
 - l) az Állami Számvevőszék elnöke vagy az általa kijelölt személy;
-- m) a Nemzeti Adó- és Vámhivatal elnöke vagy az általa kijelölt személy.
+- m) a Nemzeti Adó- és Vámhivatal elnöke vagy az általa kijelölt személy és
+- n) az Integritás Hatóság elnöke vagy az általa kijelölt személy.
 
 (3) A Tanács elnöke a Hatóság elnöke.
 
@@ -3392,7 +3394,7 @@ figyelembe veszi. A bírság összegének megállapításakor figyelembe kell ve
 
 (18) A Hatóság (12) bekezdés szerinti eljárásában vagy annak előkészítésében nem vehet részt olyan személy, akinek az eljárással érintettekhez személyi vagy vagyoni érdekeltsége fűződik. Ezzel az összeférhetetlenségi okkal érintett személy a Hatóságnak köteles ezt haladéktalanul bejelenteni, és köteles a folyamatban levő eljárásban vagy előkészítésében való részvételét azonnal megszüntetni. A kérelmező, illetve az érintett felelős akkreditált közbeszerzési szaktanácsadó a Hatóság határozatát annak kézhezvételétől számított tizenöt napon belül támadhatja meg. A bíróság ítélete ellen fellebbezésnek nincs helye.
 
-188. § (1) Bármely gazdasági szereplő, akivel (amellyel) szemben a 62. § (1) bekezdés b) és f) pontjában említett kizáró okok kivételével bármely egyéb kizáró ok fennáll, kérelmet nyújthat be a Hatósághoz annak megállapítása érdekében, hogy az általa hozott intézkedések a kizáró ok fennállásának ellenére kellőképpen igazolják a megbízhatóságát. A benyújtott kérelem informatikai eszköz alkalmazásával megszerkesztett, szerkeszthető formátumú változatát a Közbeszerzési Hatóság rendelkezésére kell bocsátani, amit – elektronikus levél útján történő benyújtás esetén – a Közbeszerzési Hatóság egy munkanapon belül visszaigazol. A megtett intézkedésekkel kapcsolatos bizonyítékokat a kérelemmel együtt kell benyújtani a Közbeszerzési Hatóság részére.
+188. § (1) Bármely gazdasági szereplő, akivel (amellyel) szemben a 62. § (1) bekezdés a) pont aa)–ah) alpontjában, b) és f) pontjában említett kizáró okok kivételével bármely egyéb kizáró ok fennáll, kérelmet nyújthat be a Hatósághoz annak megállapítása érdekében, hogy az általa hozott intézkedések a kizáró ok fennállásának ellenére kellőképpen igazolják a megbízhatóságát. A benyújtott kérelem informatikai eszköz alkalmazásával megszerkesztett, szerkeszthető formátumú változatát a Közbeszerzési Hatóság rendelkezésére kell bocsátani, amit – elektronikus levél útján történő benyújtás esetén – a Közbeszerzési Hatóság egy munkanapon belül visszaigazol. A megtett intézkedésekkel kapcsolatos bizonyítékokat a kérelemmel együtt kell benyújtani a Közbeszerzési Hatóság részére.
 
 (2) A kizáró ok hatálya alá tartozó gazdasági szereplő a megbízhatóságának bizonyítása érdekében köteles igazolni, hogy
 
