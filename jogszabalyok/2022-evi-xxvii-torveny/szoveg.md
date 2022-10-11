@@ -1,0 +1,890 @@
+# 2022. évi XXVII. törvény
+
+az európai uniós költségvetési források felhasználásának ellenőrzéséről
+
+Az Országgyűlés az európai uniós költségvetési források felhasználásának még hatékonyabb ellenőrzését ellátó intézményrendszer létrehozása, valamint az uniós költségvetés védelmét szolgáló általános feltételrendszerről szóló, 2020. december 16-i (EU) 2020/2092 európai parlamenti és tanácsi rendelet szerinti eljárás keretében javasolt intézkedéseknek való megfelelés céljából a következő törvényt alkotja:
+
+## ELSŐ RÉSZ — AZ INTEGRITÁS HATÓSÁG
+
+### I. Fejezet — AZ INTEGRITÁS HATÓSÁG FELADATAI
+
+#### 1. Az Integritás Hatóság jogállása
+
+1. § (1) Az Integritás Hatóság (a továbbiakban: Hatóság) autonóm államigazgatási szerv.
+
+(2) A Hatóság – ideértve az elnökét, az elnökhelyetteseit és a teljes állományát – feladatainak ellátásban teljesen független, csak jogszabályoknak van alárendelve, feladatkörében más személy vagy szerv által nem utasítható, feladatát más szervektől elkülönülten és bármilyen befolyásolástól mentesen látja el. A Hatóság számára feladatot csak törvény írhat elő.
+
+(3) A Hatóság székhelye Budapest.
+
+2. § (1) A Hatóság fejezetet irányító szervi jogállással bíró központi költségvetési szerv.
+
+(2) A Hatóság költségvetése a központi költségvetés szerkezeti rendjében önálló fejezet.
+
+(3) A Hatóság a költségvetésére vonatkozó javaslatát és a költségvetésének végrehajtásáról szóló beszámolóját maga állítja össze, és azt a Kormány változtatás nélkül terjeszti be a központi költségvetésről, illetve az annak végrehajtásáról szóló törvényjavaslat részeként az Országgyűlésnek.
+
+(4) A Hatóság költségvetése kizárólag a Hatóság hozzájárulásával csökkenthető.
+
+#### 2. A Hatóság feladatellátása
+
+3. § A Hatóság minden olyan esetben fellép, ahol a Hatóság álláspontja szerint valamely, az európai uniós források felhasználása vagy annak ellenőrzése körében feladat- és hatáskörrel rendelkező szervezet, ideértve a szerződéskötőt is, nem tette meg a szükséges lépéseket olyan csalás, összeférhetetlenség, korrupció és egyéb jogsértés vagy szabálytalanság megelőzésére, felderítésére és kijavítására, amely érinti az európai uniós költségvetéssel való hatékony és eredményes pénzgazdálkodását vagy az Európai Unió pénzügyi érdekeinek védelmét, vagy ennek komoly kockázata felmerül. A Hatóság hatáskörrel rendelkezik különösen az Európai Uniótól részben vagy egészben pénzügyi támogatásban részesülő tervezett, folyamatban lévő vagy korábbi intézkedések vagy projektek tekintetében. Egy projekt kivonása az európai uniós finanszírozásból nem érinti a Hatóság hatásköreit, amennyiben a csalás, összeférhetetlenség, korrupció és egyéb jogsértés vagy szabálytalanság érinti az európai uniós költségvetéssel való hatékony és eredményes pénzgazdálkodást vagy az Európai Unió pénzügyi érdekeinek védelmét, vagy ennek komoly kockázata felmerül.
+
+4. § (1) A Hatóság a feladatainak ellátása érdekében kérelemre, hivatalból vagy bejelentés, panasz alapján jár el. A Hatóság a feladatkörében bármilyen rendelkezésére álló információ alapján eljárhat.
+
+(2) A Hatóság feladatkörét érintő jogsértés vagy szabálytalanság észlelése esetén a Hatósághoz bárki tehet bejelentést, panaszt.
+
+(3) A (2) bekezdés szerinti bejelentésre, panaszra – ha e törvény eltérően nem rendelkezik – a panaszokról és közérdekű bejelentésekről szóló törvény rendelkezéseit kell megfelelően alkalmazni.
+
+(4) A Hatóság a bejelentések, panaszok fogadása érdekében a bejelentők, panaszt tevők névtelenségét biztosító bejelentő felületet működtet, amely bizalmas kapcsolattartásra nyújt lehetőséget.
+
+(5) A bejelentő felületet úgy kell kialakítani, hogy az a bejelentők, panaszt tevők névtelenségét biztosítsa, és a bejelentő, panaszt tevő személyét illetéktelen személy ne ismerhesse meg. A bejelentést, panaszt kivizsgálók a bejelentés, panasz tartalmára és a bejelentésben, panaszban érintett személyekre vonatkozó információkat kötelesek titokban tartani, és azokat nem oszthatják meg más szervekkel.
+
+5. § (1) A Hatóság elemző és javaslattevő feladatai keretében
+
+- a) integritáskockázat-értékelési gyakorlatot folytat,
+- b) évente elemző integritásjelentést készít,
+- c) évente és eseti jelleggel ajánlásokat ad ki.
+
+(2) A Hatóság vizsgálati feladat- és hatáskörei keretében
+
+- a) vizsgálati eljárást folytathat,
+- b) eljárás megindítására hívhatja fel az európai uniós források felhasználásának ellenőrzése körében feladat- és hatáskörrel rendelkező szervezetet,
+- c) kezdeményezheti más szerv eljárását,
+- d) bíróság előtt mulasztási és más pert indíthat.
+
+(3) A Hatóság közigazgatási hatósági jogköre keretében
+
+- a) a részben vagy egészben európai uniós forrásból megvalósuló vagy megvalósítani tervezett közbeszerzésekkel összefüggésben hatósági ellenőrzést folytat,
+- b) az európai uniós forrásból megvalósuló közbeszerzésekkel összefüggésben tájékoztatási kötelezettséget írhat elő,
+- c) a közbeszerzési eljárásból egyes bűncselekményekkel összefüggésben kizárt jogi személyekről, egyéni cégekről és egyéni vállalkozókról (a továbbiakban együtt: gazdasági szereplő) nyilvántartást vezet.
+
+(4) A Hatóság jogszabályban meghatározottak szerint ellenőrzi az európai támogatásokat auditáló szerv foglalkoztatottjai által megtett összeférhetetlenségi nyilatkozatokat.
+
+(5) A Hatóság ellátja a kormányzati igazgatásról szóló törvényben meghatározott feladatokat a Belső Ellenőrzési és Integritási Igazgatóság működésével összefüggésben.
+
+(6)
+
+6. § A Hatóság feladat- és hatáskörei nem érintik más szerv feladatköreit és hatáskörgyakorlását, így különösen az európai uniós források kezelésére létrehozott szervek feladatait, valamint az irányítási és ellenőrzési rendszerben meghatározott szerepüket.
+
+7. § (1) A Hatóság köztisztviselőire alkalmazni kell a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvényben (a továbbiakban: Küt.) meghatározott összeférhetetlenségi szabályokat, így különösen a Küt. 24. §-a szerinti büntetlen előéletre – különös figyelemmel a korrupcióval kapcsolatos bűncselekményekkel összefüggő kizáró okra – vonatkozó szabályokat és a Küt. 51. §-a szerinti együttalkalmazási tilalom, összeférhetetlenség szabályait.
+
+(2) A Hatóság megfelelő intézkedéseket hoz annak érdekében, hogy a hatásköreinek gyakorlásában és a feladatainak ellátásában részt vevő személyek esetében megelőzze, feltárja és orvosolja az objektív érdekellentétnek tekinthető helyzeteket.
+
+(3) Az (1) bekezdés alkalmazásában érdekellentét különösen, ha a feladat pártatlan és tárgyilagos ellátása családi vagy érzelmi okok, politikai szimpátiával, elköteleződéssel vagy nemzeti kötődéssel kapcsolatos okok, továbbá gazdasági érdek vagy bármely más közvetlen vagy közvetett személyes érdek miatt sérül.
+
+#### 3. Kapcsolattartás más szervekkel
+
+8. § (1) A Hatóság más szervekkel megállapodásokat köthet a kommunikációra és az információcserére vonatkozóan, valamint feladatkörében a hatáskörei gyakorlására vonatkozó gyakorlati módozatok megkönnyítése érdekében.
+
+(2) A nemzetközi igazságügyi együttműködésre vonatkozó szabályok sérelme nélkül a Hatóság együttműködési megállapodásokat köthet európai uniós szervekkel.
+
+### II. Fejezet — A HATÓSÁG ELEMZŐ ÉS JAVASLATTEVŐ FELADATAI
+
+#### 4. Az integritáskockázat-értékelés
+
+9. § (1) A Hatóság integritáskockázat-értékelési gyakorlatot folytat az európai uniós források védelmében, amely magában foglalja a magyarországi közbeszerzési rendszer integritási helyzetének felmérését.
+
+(2) Az integritáskockázat-értékelés azonosítja a kezelendő integritáskockázatokat és rendszerszintű problémákat, a kezelésükre rendelkezésre álló eszközöket, az ilyen kockázatok és problémák kezelésében mutatkozó hiányosságokat, valamint a megoldásokat.
+
+(3) Az integritáskockázat-értékelést a nemzetközileg elismert integritásértékelési módszertannal rendelkező nemzetközi szervezetekkel – így lehetőség szerint a Gazdasági Együttműködési és Fejlesztési Szervezettel – együttműködve és egyeztetve kell elvégezni. A Hatóság figyelembe veszi a magyarországi integritást monitorozó nemzeti és nemzetközi civil szervezetek visszajelzéseit is.
+
+(4) A közbeszerzési rendszerrel kapcsolatos integritáskockázat-értékelés a közbeszerzési rendszerek értékelésére szolgáló nemzetközileg elismert módszertan szerint valósul meg.
+
+(5) A Hatóság az integritáskockázat-értékelés során alkalmazott módszertant a honlapján közzéteszi.
+
+10. § (1) Az integritáskockázat-értékelésről jelentés készül, amely átfogó képet ad az európai uniós költségvetésből származó pénzügyi támogatás végrehajtásával kapcsolatos sajátos integritáskockázatokról, különösen a közbeszerzés területén.
+
+(2) A Hatóság a feladatai ellátása során különös figyelmet fordít a jelentésre, és figyelembe veszi azt az éves elemző integritásjelentés elkészítésekor. A jelentés alapul szolgál az integritáskockázati mutatók kidolgozásához.
+
+#### 5. Az éves elemző integritásjelentés
+
+11. § A Hatóság évente elemző integritásjelentést készít, amely tartalmazza a következőket:
+
+- a) az európai uniós források felhasználásával összefüggésben a közbeszerzési piac koncentrációjának, valamint a közbeszerzési eljárásokban a becsült érték és a szerződéses összeg közötti különbség lehetséges okainak elemzése,
+- b) a Hatóság feladatkörébe tartozó területeken az alkalmazandó szabályok hatékonyságának értékelése, a szabályok végrehajtása során jelentkező problémák, kockázati mutatók meghatározása,
+- c) a keretmegállapodások alkalmazására és a keretmegállapodások alapján megkötött szerződések gyakorlatára vonatkozó elemzés, ideértve a keretmegállapodások és az azokon alapuló egyedi szerződések odaítélésének egyes gazdasági szereplők közötti megoszlását,
+- d) a meglévő, európai uniós források felhasználásának ellenőrzésével foglalkozó ellenőrzési rendszer értékelése a korrupció, a csalás és az összeférhetetlenség kockázatának azonosítása és hatékony megelőzése, valamint az ilyen esetek felderítése és orvoslása terén,
+- e) az a)–d) pont szerinti tárgykörre vonatkozó ajánlások, valamint
+- f) annak értékelése, hogy az európai uniós források felhasználásának ellenőrzése körében feladat- és hatáskörrel rendelkező szervek hogyan vették figyelembe a korábbi jelentéseket és ajánlásokat, így különösen a 15. § szerinti ajánlásokat.
+
+12. § (1) Az éves elemző integritásjelentést a Hatóság tájékoztatásul megküldi az Országgyűlésnek.
+
+(2) Az előző naptári évre vonatkozó éves elemző integritásjelentést a Hatóság honlapján minden év június 30-ig nyilvánosan hozzáférhetővé kell tenni.
+
+13. § A Kormány az éves elemző integritásjelentés közzétételétől számított három hónapon belül a Hatóságnak küldött válaszában ismerteti, hogyan fogja kezelni az éves elemző integritásjelentésben foglalt megállapításokat.
+
+#### 6. Ajánlás kiadása
+
+14. § (1) A Hatóság ajánlást ad ki az európai uniós források felhasználását végző vagy annak ellenőrzése körében feladat- és hatáskörrel rendelkező szervezetek részére az európai uniós költségvetésből nyújtott – különösen közbeszerzési eljárások útján felhasznált – támogatás végrehajtásával kapcsolatos olyan csalás, korrupció és összeférhetetlenség megelőzése, felderítése és orvoslása tárgyában, amely befolyásolja vagy súlyosan veszélyezteti az európai uniós költségvetés hatékony és eredményes pénzgazdálkodását vagy az Európai Unió pénzügyi érdekeinek védelmét.
+
+(2) A Hatóság az ajánlásait az éves elemző integritásjelentésbe foglalva adja ki. A Hatóság kiadhat az éves elemző integritásjelentésen kívüli eseti ajánlást is.
+
+15. § (1) A Hatóság bejelentés alapján, panasz alapján, hivatalból vagy az ajánlatkérő kérésére a részben vagy egészben európai uniós forrásból megvalósuló vagy megvalósítani tervezett közbeszerzési eljárást megelőzően vagy annak lefolytatása során ajánlást adhat meghatározott ajánlatkérőnek, amelyben kéri az ajánlatkérőt, hogy részben vagy egészben egy adott európai uniós forrásból megvalósuló közbeszerzési eljárásban vagy részben vagy egészben bizonyos jövőbeli európai uniós forrásból megvalósuló közbeszerzési eljárásai során
+
+- a) egy meghatározott közbeszerzési eljárásfajtát alkalmazzon,
+- b) egy meghatározott sajátos beszerzési módszert alkalmazzon,
+- c) tartózkodjon egy vagy több közbeszerzési eljárásfajta alkalmazásától, illetve ezekkel összefüggő valamely gyakorlat alkalmazásától,
+- d) tartózkodjon egy vagy több sajátos beszerzési módszer, illetve ezekkel összefüggő valamely gyakorlat alkalmazásától, vagy
+- e) a közbeszerzési eljárást megindító felhívásban írja elő a közbeszerzésekről szóló 2015. évi CXLIII. törvény (ezen rész alkalmazásában a továbbiakban: Kbt.) 63. § (1) bekezdésében szereplő egy vagy több kizáró ok alkalmazását,
+- f) hagyjon fel jogsértő magatartásával.
+
+(2) Az (1) bekezdés szerinti ajánlásokban a Hatóság meghatározza különösen
+
+- a) az érintett közbeszerzési eljárásokat vagy közbeszerzési eljárások kategóriáit,
+- b) az érintett ajánlatkérőket,
+- c) az ajánlatkérőkre vonatkozó elvárások meghatározását,
+- d) az ajánlás indokait és kapcsolódását a Hatóság feladatköréhez.
+
+(3) Ha az e § szerinti ajánlással érintett ajánlatkérő nem a Hatóság által kiadott ajánlás szerint jár el, köteles ez irányú döntését írásban részletesen megindokolni, és az indokolást a Hatóság részére megküldeni.
+
+(4) Az ajánlatkérő – a Hatóság ajánlásával összefüggő – jogsértése esetén a Hatóság a feladat- és hatáskörrel rendelkező szerv vagy bíróság eljárását kezdeményezheti, így különösen közbeszerzési jogsértés esetén a Kbt. 152. § (1) bekezdés o) pontja szerint kezdeményezheti a Közbeszerzési Döntőbizottság eljárását. Az alkalmazandó eljárási szabályokkal összhangban, a Hatóság ideiglenes intézkedés meghozását indítványozhatja.
+
+16. § (1) A Hatóság bejelentés alapján, panasz alapján, hivatalból vagy az ajánlatkérő kérésére megvizsgálhatja a Kbt. 62. § (1) és (2) bekezdése vagy – amennyiben az ajánlatkérő az eljárásban előírta – a Kbt. 63. § (1) bekezdése szerinti kizáró okok konkrét gazdasági szereplőre való alkalmazhatóságát az európai uniós forrásból megvalósuló közbeszerzési eljárásban az ajánlatok vagy részvételi jelentkezések bírálata során.
+
+(2) Az (1) bekezdés szerinti esetben a Hatóság megvizsgálja az európai uniós forrásból megvalósuló közbeszerzési eljárásban az eljárás tárgyát képező egy vagy több kizáró ok alkalmazhatóságát. A vizsgálat időtartama alatt az ajánlatkérő a közbeszerzési eljárást köteles felfüggeszteni. A Hatóság akkor tesz ajánlást, ha a csalással, korrupcióval vagy bűnszervezethez kapcsolódó magatartással kapcsolatos kizáró okoktól eltérő kizáró okok helytelen alkalmazása veszélyeztetheti az Európai Unió pénzügyi érdekeit.
+
+(3) A Hatóság az ajánlást az ajánlatkérő (1) bekezdés szerinti megkeresése esetén a megkereséstől számított 15 napon belül megküldi az ajánlatkérő részére vagy tájékoztatja az ajánlatkérőt, hogy a feladatkörével összefüggésben nem tesz ajánlást.
+
+(4) A Hatóság elnöke a (3) bekezdés szerinti határidőt indokolt esetben, legfeljebb egy alkalommal 15 nappal meghosszabbíthatja.
+
+(5) Ha az ajánlatkérő a Hatóság ajánlásával ellentétesen jár el, 15 napon belül részletes indokolást küld a Hatóság részére. Az ajánlatkérő az indokolást a részvételi jelentkezések, illetve az ajánlatok elbírálásáról szóló összegezésben közzéteszi. Közbeszerzési jogsértés esetén a Hatóság a Kbt. 152. § (1) bekezdés o) pontja szerint kezdeményezheti a Közbeszerzési Döntőbizottság eljárását.
+
+### III. Fejezet — A HATÓSÁG ELJÁRÁSA
+
+#### 7. A Hatóság vizsgálati eljárása
+
+17. § (1) A Hatóság vizsgálati eljárást folytat annak érdekében, hogy feltárja azokat a körülményeket, amelyek hátrányosan érintik vagy érinthetik az európai uniós pénzügyi támogatások végrehajtását.
+
+(2) A vizsgálati eljárás megindításáról a Hatóság értesíti az érintett személyt vagy szervezetet, valamint az európai uniós források felhasználásáért felelős minisztert, az európai támogatásokat auditáló szerv vezetőjét és – európai uniós forrásból megvalósuló közbeszerzési eljáráshoz kapcsolódó vizsgálat esetén – az európai uniós forrásfelhasználásra irányadó jogszabályok szerinti előzetes és folyamatba épített ellenőrzést végző szervet. Az értesítést követően a vizsgálati eljárással érintett személy vagy szervezet haladéktalanul tájékoztatja a Hatóságot a folyamatban lévő, a vizsgálati eljárással összefüggő, a Közbeszerzési Döntőbizottság által lefolytatott jogorvoslati eljárásról vagy bírósági eljárásról.
+
+(3) A Hatóság nem gyakorolhatja hatáskörét, ha a feltételezett jogsértéssel kapcsolatban, amelyben eljárni kíván, a Közbeszerzési Döntőbizottság által lefolytatott jogorvoslati eljárás vagy bírósági eljárás van folyamatban.
+
+(4) A Hatóság ezen alcím szerinti vizsgálati eljárása nem minősül közigazgatási hatósági eljárásnak, ezen alcím szerinti tevékenységével kapcsolatban közigazgatási pernek nincs helye.
+
+18. § (1) A Hatóság a vizsgálati eljárásban minden olyan rendelkezésre álló információt értékel, amely a feladatai szempontjából releváns. Feladatainak ellátása érdekében a Hatóság bármely az adott ügyben érintett személytől vagy szervezettől a feladat- és hatáskörével összefüggően adatszolgáltatást kérhet.
+
+(2) A Hatóság megkeresheti az európai uniós források felhasználásának ellenőrzése körében feladat- és hatáskörrel rendelkező szervezetet, hogy a nevében bizonyítási cselekményeket végezzen, a megkeresett szervezet az ellenőrzésére vonatkozó szabályok szerint jár el. A Hatóság megkeresésére a 25. § rendelkezéseit megfelelően alkalmazni kell.
+
+(3) A Hatóság az e fejezet szerinti vizsgálati eljárása során – törvényben meghatározottak szerint –
+
+- a) a vizsgált adatkezelő kezelésében levő, a vizsgált üggyel összefüggésbe hozható összes adatot megismerheti, arról másolatot készíthet, és az összes ilyen iratba – ideértve az elektronikus adathordozón tárolt iratokat is – betekinthet, illetve azokról másolatot kérhet,
+- b) a vizsgált adatkezelőtől, illetve az adatkezelő bármely munkatársától írásbeli és szóbeli felvilágosítást kérhet,
+- c) a vizsgált üggyel összefüggésbe hozható bármely szervezettől vagy személytől írásbeli felvilágosítást, illetve a vizsgált üggyel összefüggésbe hozható adatról, iratról – ideértve az elektronikus adathordozón tárolt iratokat is – másolatot kérhet.
+
+(4) A Hatóság eljárása során az annak lefolytatásához szükséges mértékben kezelheti mindazokat a személyes adatokat, valamint törvény által védett titoknak és hivatás gyakorlásához kötött titoknak minősülő adatokat, amelyek a vizsgálattal összefüggnek, és amelyek kezelése a vizsgálat eredményes lefolytatása érdekében szükséges.
+
+(5) A Hatóság köztisztviselője – a minősített adat védelméről szóló törvény rendelkezéseinek megfelelően – vizsgálata során a vizsgálat lefolytatásához szükséges minősített adatokat megismerheti, arról kivonatot és másolatot készíthet, és a minősített adatot birtokában tarthatja.
+
+(6) A Hatóság (1) bekezdés szerinti adatkérésének a vizsgált adatkezelő, illetve az eljárási cselekménnyel érintett más szervezet vagy személy a Hatóság által megállapított – legfeljebb 60 napos – határidőn belül köteles eleget tenni. A Hatóság által megállapított határidő a (3) bekezdés b) és c) pontja szerinti esetben tizenöt napnál rövidebb nem lehet.
+
+(7) A (3) bekezdés b) és c) pontja szerinti felvilágosítást az arra felhívott személy megtagadhatja, ha
+
+- a) az a személy, akit a Hatóság vizsgálata érint, a Polgári Törvénykönyvről szóló törvény szerinti hozzátartozója,
+- b) a felvilágosítás során magát vagy a Polgári Törvénykönyvről szóló törvény szerinti hozzátartozóját bűncselekmény elkövetésével vádolná, az azzal kapcsolatos kérdésben.
+
+(8) A Hatóság adatkérése esetén biztosítani kell számára a közbeszerzéssel kapcsolatos feladatai ellátásához szükséges információkhoz való hozzáférést. A Hatóság kérésére az az ajánlatkérő, amelynek eljárását a Hatóság vizsgálata érinti, köteles minden, a közbeszerzési eljárás előkészítése, lebonyolítása és a közbeszerzési szerződés teljesítése során keletkezett dokumentumot a Hatóság rendelkezésére bocsátani. A Hatóság jogosult a még előkészítés alatt álló és a folyamatban lévő közbeszerzési eljárásokkal kapcsolatos információk és dokumentumok igénylésére is.
+
+(9) Ha a Hatóság vizsgálata olyan közbeszerzési eljárást érint, amely az európai uniós forrásfelhasználásra irányadó jogszabályok alapján közbeszerzési ellenőrzési kötelezettség alá esik, a Hatóság jogosult az európai uniós forrásfelhasználást ellenőrző szervezettől bekérni az ellenőrzés révén rendelkezésére álló bármely információt. Az európai uniós forrásfelhasználást ellenőrző szervezet a kért információkat 8 napon belül a Hatóság rendelkezésére bocsátja.
+
+(10) A Hatóság az ezen alcím szerinti eljárásban az adatszolgáltatásra felhíváson és a nyilvános információk értékelésén kívül más, bizonyítási jellegű cselekményt saját hatáskörben nem végezhet, hanem az erre feladat- és hatáskörrel rendelkező szervezet jogosult megkeresni.
+
+(11) A Hatóság az általa kezelt adatot haladéktalanul törli, ha az adatkezelés célja a Hatóságnál már nem áll fenn.
+
+(12) A Hatóság vizsgálata során beszerzett iratok és tárgyi bizonyítási eszközök nem nyilvánosak.
+
+19. § (1) A Hatóság az eljárása során a megismert információkat jelentés kiállításával értékeli.
+
+(2) A jelentés kiállítását megelőzően megfelelő határidő biztosításával a Hatóság lehetőséget biztosíthat a jelentéssel érintett személy vagy szervezet számára a jelentés tervezetének véleményezésére.
+
+(3) A Hatóság a 3. §-ban foglaltak előmozdítása érdekében határidő tűzésével ajánlásokat tehet a vizsgált személy vagy szervezet számára.
+
+(4) A vizsgált személy vagy szervezet köteles tájékoztatni a Hatóságot a (3) bekezdésben foglaltak végrehajtásáról vagy arról, hogy az ajánlásokkal nem ért egyet és annak indokairól.
+
+(5) Ha a Hatóság az európai uniós források felhasználásával összefüggésben visszásságot tár fel, illetve nem tartja megfelelőnek az intézkedési javaslatainak végrehajtását, e törvény szerint a hatáskörrel rendelkező hatósághoz vagy bírósághoz fordulva kezdeményezheti annak eljárását.
+
+#### 8. Az európai uniós forrás bevonásával megvalósuló közbeszerzésekkel kapcsolatos egyes hatósági feladat- és hatáskörök
+
+20. § (1) A Hatóság az európai uniós forrás bevonásával megvalósuló közbeszerzésekkel összefüggésben a 17. § (1) bekezdése szerinti vizsgálatát az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szerinti hatósági ellenőrzés keretében folytatja le.
+
+(2) Az ezen alcím szerinti eljárásban a Hatóság közigazgatási hatósági hatáskörben jár el.
+
+21. § (1) Ha a Hatóság a hatósági ellenőrzés során csalás, korrupció, összeférhetetlenség vagy egyéb súlyos jogsértés vagy szabálytalanság gyanúját észleli, amely érinti az uniós költségvetési források keretében a hatékony és eredményes pénzgazdálkodás érvényesülését vagy az Európai Unió pénzügyi érdekeit, illetve ennek kockázata felmerül, végzésben elrendelheti az európai uniós forrás bevonásával megvalósuló közbeszerzési eljárás két hónapot meg nem haladó időtartamra történő felfüggesztését. A felfüggesztésre vonatkozó végzésben a Hatóság ismerteti azokat a tényeket és jogi értékelést, amely alátámasztja az e bekezdés szerinti cselekmények elkövetésének gyanúját.
+
+(2) A végzés 3 napon belül közigazgatási nemperes eljárásban megtámadható, a Hatóság a kérelmet az annak beérkezését követő 3 napon belül továbbítja a bíróságnak. A bíróság a kérelemről 30 napon belül dönt.
+
+22. § (1) A Hatóság határozatban kötelezhet meghatározott ajánlatkérőket, hogy meghatározott esetekben tájékoztassák a Hatóságot az európai uniós forrás bevonásával megvalósuló közbeszerzési eljárás megindításáról. A Hatóság a határozatot tájékoztatásul megküldi az európai uniós támogatásokért felelős miniszternek.
+
+(2) Az (1) bekezdés szerinti határozatban a Hatóság – az egyes közbeszerzések tekintetében fennálló csalás, összeférhetetlenség, korrupció vagy egyéb jogsértés vagy szabálytalanság kockázata alapján – meghatározza azokat a szektorokat, beszerzési tárgyakat, értékhatárokat, amelyekre vonatkozóan tájékoztatást kér.
+
+(3) A Hatóság köteles előzetesen meghatározni és közzétenni azokat a kockázati mutatókat, bírósági, közbeszerzési döntőbizottsági vagy egyéb hatósági joggyakorlatot vagy az Európai Bizottság, illetve a hazai ellenőrző szervezetek ellenőrzési tapasztalatait, amely alapján e § szerint tájékoztatást kér.
+
+23. § A 21. § (1) bekezdése, valamint a 22. § (1) bekezdése szerinti kötelezettség nem teljesítése esetére a Hatóság az ajánlatkérővel szemben közigazgatási bírságot szab ki. A bírságból befolyt összeg a Hatóság saját bevételét képezi.
+
+#### 9. Eljárás kezdeményezése
+
+24. § (1) A Hatóság köteles bejelenteni a feladat- és hatáskörrel rendelkező hatóságnak vagy szervezetnek, ideértve az Európai Csalás Elleni Hivatalt, illetve – a bejelentés ügyészség részére történő egyidejű megküldésével – az Európai Ügyészséget is, ha csalás, összeférhetetlenség, korrupció vagy bármely más jogsértés vagy szabálytalanság gyanúját észleli. A Hatóság köztisztviselőjét terheli a büntetőeljárásról szóló 2017. évi XC. törvény 376. § (2) bekezdése szerinti feljelentési kötelezettség.
+
+(2) Ha a Hatóság úgy ítéli meg, hogy a birtokában lévő bizonyítékok alapján indokolt versenyfelügyeleti eljárás megindítása, haladéktalanul továbbítja a rendelkezésére álló bizonyítékokat a Gazdasági Versenyhivatalnak a tagállami versenyhatóságok helyzetének a hatékonyabb jogérvényesítés céljából történő megerősítéséről és a belső piac megfelelő működésének biztosításáról szóló, 2018. december 11-i (EU) 2019/1 európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdés b) pontjának tiszteletben tartásával.
+
+(3) Ha a Hatóság a vizsgálata során szabálytalanság gyanúját tárja fel, jogosult az európai uniós forrásfelhasználásra irányadó jogszabályok rendelkezései alapján szabálytalansági eljárást kezdeményezni a feladat- és hatáskörrel rendelkező irányító hatóságnál vagy – Helyreállítási és Ellenállóképességi Eszközből finanszírozott projekt esetén – a nemzeti hatóságnál.
+
+(4) Közbeszerzési jogsértés esetén a Hatóság a Kbt. 152. § (1) bekezdés o) pontja szerint kezdeményezheti a Közbeszerzési Döntőbizottság eljárását.
+
+25. § (1) A Hatóság felügyeleti vagy ellenőrzési feladatai ellátása érdekében felhívhatja az európai uniós források felhasználásának ellenőrzése körében feladat- és hatáskörrel rendelkező szervezetet eljárás megindítására. A Hatóság felhívása alapján a feladat- és hatáskörrel rendelkező szervezet az eljárását hivatalból megindítja.
+
+(2) A Hatóság felhívását az európai uniós források felhasználásának ellenőrzése körében feladat- és hatáskörrel rendelkező szervezet csak akkor utasíthatja vissza, ha annak teljesítése jogszabálysértéssel járna.
+
+(3) A Hatóságot az e § szerinti, Ákr. hatálya alá tartozó eljárásban ügyféli jogállás illeti meg.
+
+(4) A Hatóság az európai uniós források felhasználásának ellenőrzése körében feladat- és hatáskörrel rendelkező szervezet Ákr. hatálya alá nem tartozó eljárása során bármikor nyilatkozatot, észrevételt tehet és tájékoztatást kérhet.
+
+26. § A Hatóság a közigazgatási perrendtartásról szóló 2017. évi I. törvény rendelkezései szerint bíróság előtt mulasztási pert indíthat, ha a feladat- és hatáskörrel rendelkező hatóság a 18. § (2) bekezdése, a 25. § (1) bekezdése szerinti eljárási kötelezettségének nem tett eleget.
+
+27. § (1) A Hatóság közigazgatási perben megtámadhat minden olyan közbeszerzési eljárásra vonatkozó közbeszerzési döntőbizottsági határozatot és más hatósági határozatot, amely európai uniós támogatást érint. A Hatóság a közigazgatási perben különösen a közigazgatási perrendtartásról szóló 2017. évi I. törvény IX. Fejezete szerinti azonnali jogvédelmet kérhet.
+
+(2) A közigazgatási pert a Hatóság
+
+- a) az (1) bekezdés szerinti közbeszerzési döntőbizottsági határozat esetén – a Kbt. 170. § (2) bekezdésétől eltérően – a határozat közzétételétől számított 90 napon belül,
+- b) más hatósági határozat esetén a határozat tudomására jutásától számított 90 napon belül
+
+indíthatja meg, a közigazgatási perrendtartásról szóló 2017. évi I. törvény rendelkezései szerint.
+
+### IV. Fejezet — A KÖZBESZERZÉSI ELJÁRÁSBÓL KIZÁRT GAZDASÁGI SZEREPLŐK NYILVÁNTARTÁSA
+
+#### 10. A nyilvántartás tartalma és célja
+
+28. § (1) A Hatóság a gazdasági szereplőt – a 31. § (1) bekezdése szerinti adattartalommal – rögzíti a közbeszerzési eljárásból kizárt gazdasági szereplők nyilvántartásában (a továbbiakban: nyilvántartás), ha a bíróság jogerős ügydöntő határozata megállapította, hogy a gazdasági szereplő vagy a gazdasági szereplő vezető tisztségviselője vagy felügyelőbizottságának tagja, cégvezetője vagy gazdasági társaság esetén annak egyedüli tagja olyan személy, aki a Kbt. 62. § (1) bekezdés a) pont aa)–ag) alpontja szerinti bűncselekményt követett el.
+
+(2) A 31. § (1) bekezdés a) és d) pontja szerinti adatot a Kbt. 62. § (1) bekezdés a) pont aa)–ag) alpontja szerinti kizáró okok ellenőrzésének céljából a közbeszerzésekért felelős miniszter által üzemeltetett elektronikus közbeszerzési rendszerben közzé kell tenni.
+
+(3) A Hatóság a nyilvántartásba vétel során megállapítja a gazdasági szereplő tekintetében a Kbt. 62. § (1) bekezdés a) pont aa)–ag) alpontja szerinti kizáró okok fennállásának időtartamát, amely nem haladhatja meg az (1) bekezdés szerinti ügydöntő határozat jogerőre emelkedésétől számított négy évet.
+
+#### 11. A nyilvántartás vezetése és az öntisztázás
+
+29. § (1) A Hatóság a nyilvántartást hatósági jogkörben vezeti.
+
+(2) A Hatóság a nyilvántartásba vételi eljárást hivatalból folytatja le. Amennyiben a Hatóság panasz vagy bejelentés alapján szerez tudomást a nyilvántartásba vételi eljárás megindítására okot adó adatról, a nyilvántartásba vételhez szükséges adatok átadása iránt megkeresi a hatáskörrel rendelkező hatóságot.
+
+(3) A Hatóság a nyilvántartásba vételi eljárás megindulásáról értesíti a gazdasági szereplőt, és ezzel egyidejűleg felhívja, hogy az értesítéstől számított 8 napon belül nyilatkozhat észrevételeiről és a megbízhatóságát igazoló öntisztázó intézkedéseiről.
+
+(4) A gazdasági szereplő öntisztázása érdekében nyilatkozik a megtett intézkedésekről és benyújtja az ezekkel kapcsolatos bizonyítékokat, amelyeket a Hatóság azok beérkezésétől számított 20 napon belül értékel annak eldöntése érdekében, hogy a gazdasági szereplőt felvegyék-e a nyilvántartásba. A Hatóság az értékelésekor köteles figyelembe venni a bűncselekmény súlyosságát és sajátos körülményeit.
+
+(5) A kizáró ok hatálya alá tartozó gazdasági szereplő a megbízhatóságának bizonyítása érdekében köteles igazolni különösen, hogy
+
+- a) a bűncselekménnyel okozott kárt – a károsult által elfogadott mértékben – megtérítette vagy arra meghatározott határidővel kötelezettséget vállalt,
+- b) a feladat- és hatáskörrel rendelkező szervekkel aktívan együttműködve, átfogóan tisztázta az ügy tényállását és körülményeit, és
+- c) olyan technikai, szervezeti és személyi intézkedést hozott, amely alkalmas a további bűncselekmény megelőzésére.
+
+30. § (1) A Hatóság által a kizárásra megállapított időszak alatt a gazdasági szereplő öntisztázó kérelmet nyújthat be a Hatósághoz a nyilvántartásból való törlés céljából.
+
+(2) A Hatóság a 29. § (4) és (5) bekezdése szerinti szempontok alapján mérlegeli a kérelmet. Ha az (1) bekezdés szerinti kérelemnek a Hatóság helyt ad, törli a gazdasági szereplőt a nyilvántartásból.
+
+(3) Ha a Hatóság a kérelmet elutasítja, a gazdasági szereplő akkor nyújthat be ismételten kérelmet az azonos okból fennálló kizáró okkal kapcsolatban, ha megbízhatóságát a korábbi kérelme elutasítását követő érdemi intézkedéssel kívánja bizonyítani.
+
+#### 12. A nyilvántartott adatok
+
+31. § (1) A nyilvántartás tartalmazza
+
+- a) a gazdasági szereplő nevét, adószámát, székhelyét,
+- b) a 28. § (1) bekezdése szerinti személy természetes személyazonosító adatait,
+- c) a Kbt. 62. § (1) bekezdés a) pont aa)–ag) alpontja szerinti bűncselekmény tekintetében a bűncselekmény megnevezését és minősítését, a bűnösséget megállapító jogerős ügydöntő határozatot hozó bíróság megnevezését, a határozat számát, keltét és a jogerőre emelkedésének napját,
+- d) a közbeszerzési eljárásból való kizárás időtartamát, valamint
+- e) a bejegyzés napját.
+
+(2) A Hatóság
+
+- a) – a b) pont kivételével – a gazdasági szereplő vezető tisztségviselője, felügyelőbizottságának tagja, cégvezetője vagy gazdasági társaság esetén annak egyedüli tagja természetes személyazonosító adatait a céginformációs rendszerből,
+- b) az egyéni vállalkozó természetes személyazonosító adatait az egyéni vállalkozók nyilvántartásából,
+- c) az a) pont és b) pont szerinti személy tekintetében az (1) bekezdés c) pontja szerinti adatokat a bűnügyi nyilvántartási rendszerből
+
+közvetlen adatkapcsolat útján veszi át.
+
+(3) A Hatóság a (2) bekezdés c) pontja szerinti közvetlen adatkapcsolat útján, a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 67. § (1) bekezdés b) pontja szerinti adatátvételre akkor jogosult, ha
+
+- a) adatigénylésében közölte az érintett személy családi és utónevét, születési helyét és idejét, valamint az anyja születési családi és utónevét, és
+- b) az adatigénylésben szereplő személlyel szemben a Kbt. 62. § (1) bekezdés a) pont aa)–ag) alpontjaiban meghatározott bűncselekmények elkövetését az adatigénylés napját megelőző négy éven belül bíróság jogerős ügydöntő határozatában megállapította, és az érintett személy még nem mentesült a büntetett előélethez fűződő hátrányos jogkövetkezmények alól.
+
+(4) A Hatóság
+
+- a) – a c) pont kivételével – a gazdasági szereplő nevét, adószámát, székhelyét, megszűnésének tényét a céginformációs rendszerből,
+- b) a céggel szemben alkalmazott büntetőjogi intézkedésre vonatkozó adatot a céginformációs rendszerből,
+- c) az egyéni vállalkozó nevét, adószámát, székhelyét, vállalkozói tevékenysége megszűnésére vonatkozó adatot az egyéni vállalkozók nyilvántartásából
+
+közvetlen adatkapcsolat útján veszi át.
+
+(5) A gazdasági szereplő (1) bekezdés szerinti adatainak a nyilvántartásban történő rögzítését követően az átvett adatokat a Hatóság törli.
+
+(6) A Hatóság a gazdasági szereplőt a Hatóság által megállapított időtartam leteltekor hivatalból törli a nyilvántartásból. A Hatóság a gazdasági szereplőt hivatalból törli a nyilvántartásból, ha a gazdasági szereplő megszűnt, egyéni vállalkozó esetén, ha a vállalkozási tevékenység végzésére való jogosultság megszűnt.
+
+(7) A nyilvántartásban kezelt adat – a 28. § (2) bekezdése szerinti közzétételt ide nem értve – kizárólag a törvényben meghatározott feladatkörében eljáró
+
+- a) bíróságnak az előtte folyamatban lévő eljárás lefolytatása,
+- b) ügyészségnek és nyomozó hatóságnak a büntetőeljárás lefolytatása,
+- c) az a) és b) pont szerinti szervtől eltérő, törvény alapján az adat megismerésére jogosult szervnek az előtte folyamatban lévő eljárás sikeres lefolytatása
+
+céljából, erre irányuló megkeresés alapján továbbítható.
+
+### V. Fejezet — A HATÓSÁG SZERVEZETE
+
+#### 13. A Hatóság elnöke és elnökhelyettesei
+
+32. § (1) A Hatóságot az elnök vezeti, aki munkáját a két elnökhelyettessel a Hatóság Igazgatóságában együttműködve látja el.
+
+(2) Az elnök a Hatóság feladat- és hatásköreit a Hatóság Igazgatósága döntésének megfelelően gyakorolja.
+
+33. § (1) A Hatóság elnöke
+
+- a) vezeti a Hatóság munkaszervezetét, a szervezeti és működési szabályzatban meghatározza a Hatóság szervezetét, alaplétszámát és a kiadmányozás rendjét,
+- b) képviseli a Hatóságot,
+- c) gyakorolja a Küt.-ben vagy más törvényben a hivatali szervezet vezetője számára meghatározott hatásköröket,
+- d) a Hatóság költségvetése tekintetében ellátja mindazon feladatokat, amelyeket az államháztartásról szóló törvény a fejezetet irányító szerv vezetőjének hatáskörébe utal.
+
+(2) A Hatóság elnöke az (1) bekezdés szerinti hatásköröket önállóan gyakorolja.
+
+#### 14. A Hatóság Igazgatósága
+
+34. § (1) A Hatóság legfőbb döntéshozó szerve a Hatóság Igazgatósága, amelynek tagja a Hatóság elnöke és két elnökhelyettese.
+
+(2) A Hatóság Igazgatósága a Hatóság feladat- és hatáskörének gyakorlásával közvetlenül összefüggő döntést testületként, többségi döntéshozatal útján hozza meg.
+
+(3) A Hatóság Igazgatósága a tevékenységéről évente beszámol az Országgyűlésnek. A beszámolót meg kell küldeni az Európai Bizottság részére is.
+
+#### 15. Az elnök és az elnökhelyettesek jogállása
+
+35. § (1) A Hatóság elnökét és elnökhelyetteseit az Állami Számvevőszék elnöke javaslatára a köztársasági elnök hat évre nevezi ki. Az elnök és az elnökhelyettes ismételten nem nevezhető ki.
+
+(2) Az Állami Számvevőszék elnöke a javaslatát a 37. § (3) bekezdése szerinti névsoron szereplő személyek közül teszi meg.
+
+(3) A Hatóság elnöke és elnökhelyettesei tevékenységüket közszolgálati jogviszony keretében látják el, jogviszonyukra az e törvényben foglalt eltérésekkel a Küt. rendelkezéseit kell alkalmazni.
+
+36. § A Hatóság elnökének és elnökhelyettesének olyan személy nevezhető ki, aki a Küt.-ben foglalt követelményeken túl
+
+- a) rendelkezik jogi, közgazdasági vagy pénzügyi területen szerzett egyetemi végzettséggel,
+- b) minden kétséget kizáróan független,
+- c) a közbeszerzéshez és a korrupció elleni küzdelemhez kapcsolódó jogi vagy pénzügyi területeken szerzett széles körű szakmai gyakorlattal vagy tudományos munkássággal rendelkezik, továbbá nemzetközi háttérrel és tapasztalattal bír, beleértve az európai uniós ügyeket is,
+- d) a jelölést megelőző 5 évben nem töltött be a 42. § (1) bekezdés a) vagy b) pontja szerinti tisztséget, megbízatást,
+- e) a 43. § szerinti összeférhetetlenségi nyilatkozatot tett, valamint
+- f) a 44. § (1) bekezdése szerinti vagyonnyilatkozatot tett.
+
+37. § (1) A Hatóság elnökének és elnökhelyettesének tisztségére a Hatóság Igazgatósága Tagjainak Kiválasztásáért Felelős Alkalmassági Bizottság (a továbbiakban: Alkalmassági Bizottság) nyílt és nyilvános pályázatot ír ki.
+
+(2) A pályázat akkor érvényes, ha arra legalább a betöltendő pozíciók kétszeresének megfelelő számú személy jelentkezik. Érvénytelen pályázat esetén a pályázatot ismételten ki kell írni. Az ismételten kiírt pályázat akkor érvényes, ha arra legalább a betöltendő pozíciók kétszeresének megfelelő számú személy jelentkezik.
+
+(3) A pályázatra jelentkező személyek közül a Hatóság elnökének és elnökhelyettesének tisztségére alkalmasnak minősített és így a pozíció betöltésére javasolható személyek – szakmai érdemekre, szaktudásra és végzettségre figyelemmel összeállított – névsoráról az Alkalmassági Bizottság dönt.
+
+(4) Az Alkalmassági Bizottság véleményében az alkalmasság megállapításán kívül más módon is segítheti – a jelölési és kinevezési eljárás sérelme nélkül – a Hatóság elnökének és elnökhelyettesének jelölésére vonatkozó tájékozott döntést.
+
+38. § (1) A Hatóság elnökének havi illetménye a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 149. § (1) bekezdése szerinti havi bér 80%-ának megfelelő összeg.
+
+(2) A Hatóság elnökhelyettesének havi illetménye a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 149. § (2) bekezdése szerinti havi bér 80%-ának megfelelő összeg.
+
+(3) A Hatóság elnökét a miniszterrel, az elnökhelyettesét a közigazgatási államtitkárral azonos juttatások illetik meg.
+
+(4) A Hatóság elnöke minden naptári évben húsz munkanap, elnökhelyettese minden naptári évben tizenöt munkanap vezetői pótszabadságot jogosult igénybe venni.
+
+39. § (1) A Hatóság elnökének és elnökhelyettesének jogviszonya megszűnik
+
+- a) a kinevezési időtartam lejártával,
+- b) a halálával,
+- c) a lemondásával,
+- d) a (4) bekezdés szerinti felmentésével,
+- e) a Hatóság jogutód nélküli megszűnésével.
+
+(2) A Hatóság elnöke és elnökhelyettese az Állami Számvevőszék elnökéhez intézett írásos nyilatkozattal tisztségéről bármikor lemondhat. Lemondás esetén a lemondási idő a lemondás benyújtásától számított 60 nap. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges. A lemondást nem kell indokolni.
+
+(3) A Hatóság elnöke és elnökhelyettese jogviszonyának megszűnését lemondás esetén az Állami Számvevőszék elnökének indítványa alapján a köztársasági elnök állapítja meg.
+
+(4) Az Állami Számvevőszék elnöke indítványára a köztársasági elnök felmenti a Hatóság elnökét, illetve elnökhelyettesét, ha
+
+- a) az Alkalmassági Bizottság a 43. § (3) bekezdése, a 43. § (7) bekezdése vagy a 44. § (7) bekezdése alapján kezdeményezi a felmentését,
+- b) a kinevezése feltételei már nem állnak fent.
+
+(5) Az Állami Számvevőszék elnöke a (4) bekezdés szerinti indítványát a köztársasági elnök, a Hatóság elnöke, illetve elnökhelyettese részére egyidejűleg megküldi.
+
+(6) A Hatóság elnöke, illetve elnökhelyettese a (4) bekezdés szerinti indítvány megalapozatlanságának megállapítása iránt bíróság előtt közigazgatási pert indíthat. A keresetindítási határidő elmulasztása esetén igazolásnak nincs helye. A bíróság a közszolgálati jogviszonnyal kapcsolatos per szabályai szerint jár el azzal, hogy a pert az Állami Számvevőszék elnöke ellen kell megindítani, és a perre a munkavégzés helye szerinti bíróság kizárólagosan illetékes. A bíróság a keresetlevelet, valamint az ügy érdemében hozott jogerős határozatát a köztársasági elnökkel is közli.
+
+(7) Ha a Hatóság elnökének, illetve elnökhelyettesének a (6) bekezdés szerint benyújtott keresete alapján a bíróság jogerős ítéletében azt állapítja meg, hogy az Állami Számvevőszék elnökének a (4) bekezdés alapján megtett indítványa megalapozatlan, a köztársasági elnök a Hatóság elnöke, illetve elnökhelyettese megbízatásának megszűnését nem állapítja meg.
+
+(8) A köztársasági elnök az Állami Számvevőszék elnöke által a (4) bekezdés alapján megtett indítványról,
+
+- a) ha a Hatóság elnöke, illetve elnökhelyettese nem indít közigazgatási pert, a keresetindításra nyitva álló határidő lejártát követő tizenöt napon belül,
+- b) ha a Hatóság elnöke, illetve elnökhelyettese közigazgatási pert indít, az ügy érdemében hozott jogerős határozat kézhezvételét követő tizenöt napon belül
+
+dönt.
+
+40. § (1) A Hatóság elnöke, illetve elnökhelyettese jogviszonyának a 39. § (1) bekezdés a) pontja szerinti megszűnése esetén megszűnéskori havi illetménye kétszeresének megfelelő összegű végkielégítésre jogosult.
+
+(2) A Hatóság elnöke és elnökhelyettese jogviszonyának megszűnése után egy éven át
+
+- a) nem létesíthet munkaviszonyt, munkavégzésre irányuló egyéb jogviszonyt olyan gazdasági társasággal, valamint
+- b) nem szerezhet részesedést olyan gazdasági társaságban,
+
+amelynek jogát vagy jogos érdekét a Hatóság egyedi döntése a megbízatása ideje alatt érintette.
+
+(3) Tekintettel a (2) bekezdés szerinti elhelyezkedési tilalomra, a Hatóság elnökét, illetve elnökhelyettesét a jogviszonyának megszűnésével egyidejűleg, ha legalább egy évig, de három évnél rövidebb ideig töltötte be tisztségét, a megelőző 6 havi, ha három évig, vagy annál hosszabb ideig töltötte be tisztségét, a megelőző 12 havi, a Hatóságtól származó nettó – azaz személyi jövedelemadóval és járulékokkal csökkentett – jövedelmének megfelelő mértékű összeg illeti meg, amelyet a Hatóság költségvetése terhére kell megfizetni.
+
+41. § A köztársasági elnök ezen alcím szerinti döntéseihez a Kormány tagjának ellenjegyzése nem szükséges.
+
+#### 16. Az elnök és az elnökhelyettesek összeférhetetlensége
+
+42. § (1) A Hatóság elnöke és elnökhelyettese nem lehet
+
+- a) köztársasági elnök, miniszterelnök, miniszter, a miniszterelnök politikai igazgatója, kormánybiztos, miniszterelnöki biztos, miniszterelnöki megbízott, miniszteri biztos, államtitkár, közigazgatási államtitkár, helyettes államtitkár, fővárosi és megyei kormányhivatal vezetője, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, helyi vagy megyei önkormányzati képviselő, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, az Európai Parlament tagja,
+- b) párt, pártalapítvány tagja vagy politikai párttal, pártalapítvánnyal foglalkoztatásra irányuló jogviszonyban álló személy, ideértve bármely önkéntes alapon vagy díjazás ellenében végzett tevékenységet,
+- c) gazdasági társaság vezető tisztségviselője, vezető testületének tagja, felügyelőbizottsági tagja, cégvezetője.
+
+(2) A Hatóság elnöke és elnökhelyettese gazdasági társaságban tulajdoni részesedéssel nem rendelkezhet.
+
+(3) A Hatóság elnöke és elnökhelyettese a tudományos, egyetemi oktatói, főiskolai oktatói, művészeti, lektori, szerkesztői, valamint a jogi oltalom alá eső szellemi tevékenységet kivéve más keresőfoglalkozást nem folytathat és egyéb tevékenységéért – a tudományos, oktatói, művészeti, lektori, szerkesztői, a jogi oltalom alá eső szellemi tevékenységet és a nevelőszülői foglalkoztatási jogviszony keretében végzett tevékenységet kivéve – díjazást nem fogadhat el.
+
+(4) A Hatóság elnöke és elnökhelyettese nem folytathat pártpolitikai tevékenységet, párt nevében vagy érdekében közszereplést nem vállalhat.
+
+43. § (1) A Hatóság elnökének és elnökhelyettesének javasolt személy az Alkalmassági Bizottságnak nyilatkozik arról, hogy nem áll fenn vele szemben az e törvény szerinti összeférhetetlenségi ok.
+
+(2) A nyilatkozat valóságtartalmát, továbbá a kinevezést követően az összeférhetetlenség fennállását az Alkalmassági Bizottság évente ellenőrzi.
+
+(3) Ha a Hatóság elnökének vagy elnökhelyettesének javasolt személy a nyilatkozatban lényeges adatot, tényt valótlanul közölt, akkor az Alkalmassági Bizottság köteles kezdeményezni az Állami Számvevőszék elnökénél a felmentését.
+
+(4) A nyilatkozatot a Hatóság elnökének és elnökhelyettesének megbízatása megszűnését követő öt évig meg kell őrizni.
+
+(5) Ha a Hatóság elnöke és elnökhelyettese tekintetében a kinevezését követően merül fel összeférhetetlenség, azt a felmerülését követő 15 napon belül köteles az Alkalmassági Bizottságnak bejelenteni. A Hatóság elnöke és elnökhelyettese a kinevezését követően felmerült összeférhetetlenséget a felmerülését követő 30 napon belül köteles megszüntetni, és ezt az Alkalmassági Bizottságnak bejelenteni.
+
+(6) Ha a Hatóság elnöke és elnökhelyettese tekintetében a kinevezését követően felmerült összeférhetetlenséget az Alkalmassági Bizottság tárja fel, az Alkalmassági Bizottság felszólítja a Hatóság elnökét vagy elnökhelyettesét, hogy az összeférhetetlenségét az annak felmerülését követő 30 napon belül szüntesse meg.
+
+(7) Ha a Hatóság elnöke vagy elnökhelyettese az összeférhetetlenségét az annak felmerülését követő 30 napon belül nem szüntette meg, vagy a feltárt összeférhetetlenség 30 napnál régebben áll fenn, az Alkalmassági Bizottság köteles kezdeményezni az Állami Számvevőszék elnökénél a felmentését.
+
+#### 17. Az elnök és az elnökhelyettesek vagyonnyilatkozat-tételi kötelezettsége
+
+44. § (1) A Hatóság elnökének és elnökhelyettesének javasolt személy a kinevezését megelőzően vagyonnyilatkozatot tesz.
+
+(2) A Hatóság elnöke és elnökhelyettese évente vagyonnyilatkozatot tesz.
+
+(3) Az (1) és (2) bekezdés szerinti vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
+
+(4) A Hatóság elnökének és elnökhelyettesének javasolt személy, továbbá a Hatóság elnöke és elnökhelyettese vagyonnyilatkozatát az Alkalmassági Bizottság kezeli, és azt a (6) bekezdésben meghatározott időpontig őrzi.
+
+(5) A Hatóság elnökének és elnökhelyettesének javasolt személy, továbbá a Hatóság elnöke és elnökhelyettese vagyonnyilatkozatának valóságtartalmát az Alkalmassági Bizottság évente ellenőrzi, amelynek eredményéről jelentést készít. Az ellenőrzés eredményét tartalmazó jelentést öt évig meg kell őrizni.
+
+(6) A Hatóság elnökének és elnökhelyettesének javasolt személy, továbbá a Hatóság elnöke és elnökhelyettese vagyonnyilatkozatának nyilvános, oldalhű másolatát az Alkalmassági Bizottság a Hatóság honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a honlapról az elnök, illetve az elnökhelyettes jogviszonyának megszűnését követő öt év elteltével távolítható el.
+
+(7) Ha az (5) bekezdés szerinti ellenőrzés során az Alkalmassági Bizottság azt állapítja meg, hogy a Hatóság elnökének és elnökhelyettesének javasolt személy, továbbá a Hatóság elnöke vagy elnökhelyettese a vagyonnyilatkozatban lényeges adatot, tényt valótlanul közölt, akkor az Alkalmassági Bizottság köteles kezdeményezni az Állami Számvevőszék elnökénél a Hatóság elnöke vagy elnökhelyettese felmentését.
+
+#### 18. A Hatóság állományába tartozó személyek foglalkoztatási jogviszonyára vonatkozó szabályok
+
+45. § (1) A Hatóság elnöke meghatározza
+
+- a) a Hatóság feladatainak ellátásához szükséges személyi állomány létszámát, továbbá az álláshelyek rendszerét, az álláshelyek besorolási kategóriáit,
+- b) a Hatóság feladatainak ellátásához szükséges erőforrások mennyiségét.
+
+(2) A Hatóság elnökének közszolgálati jogviszonyával összefüggő, e törvényben nem nevesített munkáltatói intézkedéseket a Hatóság szervezeti és működési szabályzatában kijelölt elnökhelyettes teszi meg.
+
+46. § (1) A Hatóság elnöke át nem ruházható hatáskörében dönt a Hatóság illetménypolitikai alapelveiről és béren kívüli juttatásairól.
+
+(2) A Hatóság és a Hatóság köztisztviselői közszolgálati munkaszerződésben állapodnak meg a köztisztviselő illetményéről, a juttatásokról, a pótszabadság mértékéről, a napi munkaidőről és az általános munkarendről.
+
+(3) A Hatóság nem tartozik a közigazgatási személyügyi tevékenységekkel kapcsolatos adatszolgáltatási körbe.
+
+47. § (1) A Hatóság köztisztviselői kötelesek a feladatkörük ellátása során tudomásukra jutott minden törvény által védett titkot, így különösen üzleti titkot megőrizni.
+
+(2) A Hatóság köztisztviselői szakmai titokként kötelesek megőrizni a hatósági tevékenység ellátásával kapcsolatban tudomásukra jutott minden olyan adatot, tényt vagy körülményt, amelyet törvény előírásai szerint a Hatóság nem köteles a nyilvánosság számára hozzáférhetővé tenni.
+
+(3) A Hatóság köztisztviselői a tudomásukra jutott törvény által védett titkot, így különösen üzleti titkot és szakmai titkot nem tehetik jogosulatlanul közzé és nem hasznosíthatják. E § nem érinti a Hatóság törvényen alapuló adatszolgáltatási és tájékoztatási kötelezettségét.
+
+## MÁSODIK RÉSZ — A KORRUPCIÓELLENES MUNKACSOPORT
+
+### VI. Fejezet — A KORRUPCIÓELLENES MUNKACSOPORT MŰKÖDÉSE
+
+#### 19. A Korrupcióellenes Munkacsoport jogállása
+
+48. § (1) A Hatóság mellett Korrupcióellenes Munkacsoport (a továbbiakban: Munkacsoport) működik. A Munkacsoport a Hatóságtól független elemző, javaslattevő, véleményező és döntéselőkészítő feladatokat ellátó testületi szerv. A Munkacsoport határozatlan ideig működik. A Munkacsoport nem avatkozhat be a Hatóság tevékenységébe.
+
+(2) A Munkacsoport tevékenysége nem érinti más szervek feladat- és hatáskörét. A Munkacsoport különösen nem kaphat megbízást arra, hogy egyéni kötelezettséget vagy felelősséget állapítson meg.
+
+49. § A korrupció elleni küzdelem terén tevékenykedő nem kormányzati szereplőket a Munkacsoport tevékenységébe be kell vonni, biztosítva a teljes, szervezett és hatékony részvételüket.
+
+#### 20. A Korrupcióellenes Munkacsoport feladatai
+
+50. § (1) A Munkacsoport feladata
+
+- a) a meglévő korrupcióellenes intézkedések vizsgálata, és javaslatok kidolgozása
+  - aa) az Unió pénzügyi érdekeit érintő csalás ellen büntetőjogi eszközökkel folytatott küzdelemről szóló, 2017. július 5-i (EU) 2017/1371 európai parlamenti és tanácsi irányelv 4. cikk (2) bekezdése szerinti korrupt gyakorlatok,
+  - ab) az Egyesült Nemzetek Szövetsége Korrupció elleni Egyezményének III. Fejezetében foglalt bűncselekmények,
+  - ac) a Büntető Törvénykönyvről szóló 2012. évi C. törvény XXVII. Fejezetében foglalt bűncselekmények, valamint egyéb gyakorlatok – így különösen a nepotizmus, a favoritizmus vagy az állami és a magánszektor közötti forgóajtó-jelenség –
+
+felderítésével, kivizsgálásával, üldözésével és szankcionálásával kapcsolatban,
+
+- b) javaslatok előterjesztése a korrupció megelőzésének és felderítésének javítását célzó intézkedésekre, ideértve különösen azon intézkedéseket, amelyek az összes rendelkezésre álló korrupciómegelőzési és -felderítési eszköz hatékony használatára vonatkoznak, továbbá az állami közigazgatási és ellenőrző hatóságok és a nyomozó hatóságok közötti információáramlás javítását célzó intézkedésekre,
+- c) az a) és b) pontban meghatározott feladatok alapján – a Hatóság éves elemző integritásjelentésétől függetlenül – éves jelentés készítése, amely elemzi a korrupció és a korrupciós gyakorlatok kockázatait és tendenciáit, hatékony ellenintézkedéseket és bevált gyakorlatokat javasol a korrupciós kockázatok és korrupciós típusok megelőzésére, felderítésére és szankcionálására, és felméri a hatékony végrehajtásukat, valamint azt, hogy a korábbi javaslatait hogyan követték nyomon és hajtották végre a vonatkozó jogalkotási és nem jogalkotási kezdeményezések és kormányprogramok.
+
+(2) A Munkacsoport figyelembe veszi
+
+- a) az Unió általános költségvetésére alkalmazandó pénzügyi szabályokról, az 1296/2013/EU, az 1301/2013/EU, az 1303/2013/EU, az 1304/2013/EU, az 1309/2013/EU, az 1316/2013/EU, a 223/2014/EU és a 283/2014/EU rendelet és az 541/2014/EU határozat módosításáról, valamint a 966/2012/EU, Euratom rendelet hatályon kívül helyezéséről szóló, 2018. július 18-i (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (1) bekezdésében és
+- b) a közbeszerzésről és a 2004/18/EK irányelv hatályon kívül helyezéséről szóló, 2014. február 26-i 2014/24/EU európai parlamenti és tanácsi irányelv 24. cikkében
+
+meghatározott összeférhetetlenségi helyzeteket is, kiegészítve az összeférhetetlenségek költségvetési rendelet szerinti elkerüléséről és kezeléséről szóló bizottsági iránymutatással (C/2021/2119), valamint a vonatkozó nemzeti rendelkezésekkel.
+
+(3) A Hatóság a Munkacsoport jelentését az éves elemző integritásjelentés elkészítésekor figyelembe veheti, de a Munkacsoport jelentéséhez nincs kötve és nem köteles azt figyelembe venni.
+
+51. § (1) A Munkacsoport az éves jelentését a tárgyévet követő év március 15-éig fogadja el.
+
+(2) A Munkacsoport az éves jelentését megküldi a Kormány részére, amelyet a Kormány a honlapján közzétesz.
+
+52. § (1) A Kormány a Munkacsoport éves jelentését és az éves jelentésben foglalt javaslatokat soron kívül, a megküldéstől számított két hónapon belül megvitatja.
+
+(2) Ha a Kormány úgy dönt, hogy valamely javaslatot nem hajtja végre, a döntésének részletes indokolását a döntés meghozatalától számított egy hónapon belül megküldi a Munkacsoport elnöke részére.
+
+(3) A Munkacsoport elnöke tájékoztatja a Munkacsoportot az éves jelentés alapján meghozott intézkedésekről és a meg nem tett intézkedésekkel kapcsolatos indokolásról. Ezt a tájékoztatást a Kormány honlapján – a Munkacsoport éves jelentésével azonos helyen –, valamint a Hatóság honlapján közzé kell tenni.
+
+53. § A Munkacsoportnak a korrupcióellenes küzdelem területén tevékenykedő független, nem kormányzati szereplőket képviselő tagjai jogosultak árnyékjelentést készíteni, amelyet a Munkacsoport és a Hatóság honlapján annak Kormány felé történő megküldésével egyidejűleg nyilvánosan hozzáférhetővé kell tenni.
+
+#### 21. A Munkacsoport tagjai és meghívottjai
+
+54. § (1) A Munkacsoport tagjainak száma huszonegy fő, amely
+
+- a) a Hatóság elnökéből,
+- b) a nem kormányzati szereplőket képviselő tíz tagból, valamint
+- c) az állami szerveket képviselő tíz tagból
+
+áll.
+
+(2) A Munkacsoport munkájában részt vevő nem kormányzati szereplőket képviselő tagokat a Hatóság Igazgatósága döntésének megfelelően a Munkacsoport elnöke kéri fel.
+
+(3) A Munkacsoport állami szerveket képviselő tagjai:
+
+- a) az igazságügyért felelős miniszter által kijelölt szakmai felsővezető,
+- b) az állami beruházásokért felelős miniszter által kijelölt szakmai felsővezető,
+- c) az államháztartásért felelős miniszter által kijelölt szakmai felsővezető,
+- d) a bűncselekmények megelőzéséért felelős miniszter által kijelölt szakmai felsővezető,
+- e) a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter által kijelölt szakmai felsővezető,
+- f) az európai uniós források felhasználásáért felelős miniszter által kijelölt szakmai felsővezető,
+- g) az Alkotmányvédelmi Hivatal főigazgatója által kijelölt személy,
+- h) az országos rendőrfőkapitány által kijelölt személy,
+- i) a Nemzeti Védelmi Szolgálat főigazgatója által kijelölt személy és
+- j) a Nemzeti Adó- és Vámhivatal elnöke által kijelölt személy.
+
+(4) Minden tagot azonos jogok és kötelezettségek illetnek meg a Munkacsoport működésével összefüggésben, beleértve az információkhoz való hozzáférést és a beavatkozási jogot.
+
+(5) A Munkacsoportban való tagság nem jogosít fel a Hatóság tevékenységéhez való hozzáférésre.
+
+55. § (1) A Munkacsoport elnöke felkéri a következőket, hogy állandó meghívottként, konzultatív és tanácsadói minőségben vegyenek részt a Munkacsoport munkájában:
+
+- a) az Állami Számvevőszék elnöke által kijelölt személy,
+- b) a Gazdasági Versenyhivatal elnöke által kijelölt személy,
+- c) a Közbeszerzési Hatóság elnöke által kijelölt személy,
+- d) a Szabályozott Tevékenységek Felügyeleti Hatósága elnöke által kijelölt személy,
+- e) az Országos Bírósági Hivatal elnöke által kijelölt személy és
+- f) a legfőbb ügyész által kijelölt személy.
+
+(2) Az állandó meghívottak a tagokkal azonos jogokkal rendelkeznek a Munkacsoport működésével összefüggésben az információkhoz való hozzáférés és a beavatkozás joga tekintetében.
+
+(3) A Hatóság elnökének felkérése alapján a Munkacsoport ülésén tanácskozási joggal más személy részt vehet.
+
+56. § (1) A Munkacsoport tagjai, valamint az állandó és eseti jelleggel meghívottak a Munkacsoportban végzett munkájukért díjazásban és költségtérítésben nem részesülnek.
+
+(2) A Munkacsoport tagjai, valamint az állandó és eseti jelleggel meghívottak a feladatuk ellátásával kapcsolatban tudomásukra jutott minden törvény által védett titkot, így különösen üzleti titkot kötelesek megőrizni.
+
+#### 22. A Munkacsoport nem kormányzati szereplőket képviselő tagjai
+
+57. § (1) A nem kormányzati szereplőket képviselő tagokat nyílt, átlátható, megkülönböztetésmentes pályázati eljárásban, a szakértelemhez és érdemekhez kapcsolódó tárgyilagos kritériumok alapján kell kiválasztani.
+
+(2) Nem kormányzati szereplőket képviselő tag olyan személy lehet, aki bizonyíthatóan független a Kormánytól, a hatóságoktól, a politikai pártoktól és az üzleti érdekektől, továbbá bizonyított szakértelemmel és kellően hosszú és igazolható szakmai tevékenységgel rendelkezik az alábbiak közül egy vagy több területen:
+
+- a) korrupció megelőzése és korrupció elleni küzdelem,
+- b) átláthatóság, nyilvános információkhoz való hozzáférés,
+- c) közbeszerzési eljárások,
+- d) a Munkacsoport feladataihoz kapcsolódóan emberi jogok védelme, valamint bűnüldözés.
+
+(3) A pályázati felhívásra jelentkezők közül a nem kormányzati szereplőket képviselő tagjelöltek listáját a Hatóság elnöke állítja össze.
+
+(4) Az Alkalmassági Bizottság kötelező erejű véleményt ad a Hatóság Igazgatóságának a tagjelölti alkalmassági feltételek értékelésére és a kiválasztás szempontjaira vonatkozóan.
+
+(5) A Hatóság Igazgatósága a tagjelöltek listájáról – az Alkalmassági Bizottság véleményére figyelemmel – választja ki a nem kormányzati szereplőket képviselő tagokat.
+
+(6) A nem kormányzati szereplőket képviselő tagok megbízatásukat személyesen kötelesek ellátni.
+
+58. § (1) A Munkacsoport nem kormányzati szereplőket képviselő tagjának megbízatása megszűnik
+
+- a) lemondással,
+- b) halálával,
+- c) a felkérés visszavonásával, ha a Hatóság Igazgatósága a Munkacsoport elnökének javaslatára úgy dönt, hogy a kiválasztási kritériumok már nem teljesülnek.
+
+(2) A Munkacsoport nem kormányzati szereplőket képviselő tagja a Munkacsoportban betöltött tisztségéről bármikor írásban lemondhat. A lemondást nem kell megindokolni. A lemondást a Hatóság Igazgatóságával kell közölni.
+
+#### 23. A Munkacsoport elnöke és alelnöke
+
+59. § (1) A Munkacsoport elnöke a Hatóság elnöke.
+
+(2) A Munkacsoport alelnökét a Munkacsoport a nem kormányzati szereplőket képviselő tagjai közül, többségi döntéshozatal útján választja meg.
+
+60. § (1) A Munkacsoport elnöke képviseli a Munkacsoportot.
+
+(2) A Munkacsoport elnökét távolléte esetén a Munkacsoport alelnöke a Munkacsoport képviseletében és üléseinek vezetésében teljes jogkörrel helyettesíti.
+
+#### 24. A Munkacsoport ülésezése
+
+61. § (1) A Munkacsoport testületi üléseit szükség szerint, de évente legalább két alkalommal tartja. Az elnök összeállítja az ülés napirendjét és vezeti az ülést.
+
+(2) A Munkacsoport akkor határozatképes, ha tagjainak több mint fele az ülésen jelen van.
+
+(3) A Munkacsoport határozatait – a (4) bekezdés szerinti kivétellel – a leadott szavazatok egyszerű többségével hozza. A Munkacsoport elnökének szavazata egy tag által leadott szavazatnak számít, szavazategyenlőség esetén a Munkacsoport elnökének szavazata dönt. Az állandó és eseti jelleggel meghívottak nem rendelkeznek szavazati joggal.
+
+(4) Abban az esetben, ha az ülésen jelen lévő tagok közül a nem kormányzati szereplőket képviselő tagok száma – ide nem értve az elnököt – nem éri el a jelen lévő tagok felét, a nem kormányzati szereplőket képviselő tagok szavazatainak értékét úgy kell megállapítani, hogy a nem kormányzati szereplőket képviselő tagok szavazatainak összértéke az összes szavazat – ide nem értve az elnök szavazatát – felét tegye ki.
+
+(5) A Munkacsoport az ügyrendjét az elnök javaslatára maga állapítja meg.
+
+62. § A Munkacsoport üléséről készült jegyzőkönyvet a Hatóság honlapján közzé kell tenni. A tagok által előre megküldött írásbeli közreműködéseket, valamint az általuk tett utólagos írásos észrevételeket csatolni kell a jegyzőkönyvhöz.
+
+#### 25. A Munkacsoport titkársági feladatainak ellátása
+
+63. § (1) A Hatóság biztosítja a Munkacsoport tevékenységének titkársági és adminisztratív támogatását.
+
+(2) Az (1) bekezdés szerinti feladatok ellátására a Hatóság szervezetéből kijelölt köztisztviselő független a Munkacsoporttól és a Hatóságnak felel.
+
+## HARMADIK RÉSZ — AZ ALKALMASSÁGI BIZOTTSÁG
+
+### VII. Fejezet — AZ ALKALMASSÁGI BIZOTTSÁG MŰKÖDÉSE
+
+#### 26. Az Alkalmassági Bizottság feladatai
+
+64. § (1) Az Alkalmassági Bizottság a Hatóságtól és a Munkacsoporttól független véleményező testület. Az Alkalmassági Bizottság három független tagból áll.
+
+(2) Az Alkalmassági Bizottságot az európai támogatásokat auditáló szerv vezetője hívja össze.
+
+(3) Az Alkalmassági Bizottság a döntéseit többségi döntéshozatal útján hozza meg.
+
+(4) Az Alkalmassági Bizottság az ügyrendjét maga állapítja meg.
+
+65. § Az Alkalmassági Bizottság ellátja az e törvényben meghatározott, a Hatósággal és a Munkacsoporttal összefüggő feladatokat.
+
+#### 27. Az Alkalmassági Bizottság tagjai
+
+66. § (1) Az Alkalmassági Bizottság tagjait az európai támogatásokat auditáló szerv vezetője öt évre bízza meg, nemzetközi nyílt és nyilvános pályázat lefolytatása alapján. Az Alkalmassági Bizottság tagja ismételten nem bízható meg. Az európai támogatásokat auditáló szerv vezetőjét az Alkalmassági Bizottság tagjainak megbízása során tilos bármilyen módon utasítani vagy befolyásolni.
+
+(2) Az Alkalmassági Bizottság tagjai feladataik ellátása során teljesen függetlenek, nem kérhetnek és nem fogadhatnak el utasításokat semmilyen intézménytől, szervtől, hivataltól, szervezettől vagy személytől.
+
+(3) Az Alkalmassági Bizottság tagjának olyan személy bízható meg, aki
+
+- a) a jelölést megelőző 5 évben nem töltött be a 42. § (1) bekezdés a) vagy b) pontja szerinti tisztséget, megbízatást,
+- b) a közbeszerzés, illetve a korrupció elleni küzdelem területén elismert nemzetközi szervezetnél szerzett jelenlegi vagy múltbeli érdemi tapasztalattal, és ilyen szervezetben szerzett, megfelelően hosszú, igazolható és releváns gyakorlattal rendelkezik, és
+- c) magas szintű feddhetetlenséggel rendelkezik.
+
+(4) Az Alkalmassági Bizottság tagjai napidíjban részesülnek az Európai Unió technikai segítségnyújtás esetében irányadó ráta szerint, valamint a tagságukkal összefüggésben felmerülő költségeik megtérítésére jogosultak az európai támogatásokat auditáló szervtől.
+
+#### 28. Az Alkalmassági Bizottság tagjának vagyonnyilatkozat-tételi kötelezettsége és az összeférhetetlenséggel kapcsolatos szabályok
+
+67. § (1) Az Alkalmassági Bizottság tagja a megbízását megelőzően, ezt követően évente vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
+
+(2) Az Alkalmassági Bizottság tagja vagyonnyilatkozatát az európai támogatásokat auditáló szerv vezetője kezeli, és azt a (4) bekezdésben meghatározott időpontig őrzi.
+
+(3) Az Alkalmassági Bizottság tagja vagyonnyilatkozatával kapcsolatos eljárást az európai támogatásokat auditáló szerv vezetője folytathatja le.
+
+(4) Az Alkalmassági Bizottság tagja vagyonnyilatkozatának nyilvános, oldalhű másolatát az európai támogatásokat auditáló szerv vezetője a Hatóság honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a honlapról az Alkalmassági Bizottság tagja megbízatásának megszűnését követő öt év elteltével távolítható el.
+
+(5) Az Alkalmassági Bizottság tagja megbízását megelőzően, a feladatai ellátására vonatkozóan összeférhetetlenségi nyilatkozatot tesz. Az összeférhetetlenségi nyilatkozatot az európai támogatásokat auditáló szerv vezetője kezeli, és az Alkalmassági Bizottság tagja megbízatásának megszűnését követő öt évig őrzi.
+
+(6) Ha az Alkalmassági Bizottság tagja a 37. § (3) bekezdése szerinti döntéshozatalban részt vesz, a döntéshozataltól számított öt évig az Alkalmassági Bizottság tagjára az Unió általános költségvetésére alkalmazandó pénzügyi szabályokról, az 1296/2013/EU, az 1301/2013/EU, az 1303/2013/EU, az 1304/2013/EU, az 1309/2013/EU, az 1316/2013/EU, a 223/2014/EU és a 283/2014/EU rendelet és az 541/2014/EU határozat módosításáról, valamint a 966/2012/EU, Euratom rendelet hatályon kívül helyezéséről szóló, 2018. július 18-i (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikke szerinti összeférhetetlenségi szabályok alkalmazandók.
+
+#### 29. Az Alkalmassági Bizottság titkársági feladatainak ellátása
+
+68. § Az európai támogatásokat auditáló szerv biztosítja az Alkalmassági Bizottság tevékenységének titkársági és adminisztratív támogatását.
+
+## NEGYEDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
+
+### VIII. Fejezet — HATÁLYBALÉPÉS ÉS ÁTMENETI RENDELKEZÉSEK
+
+#### 30. Hatálybalépés
+
+69. § (1) Ez a törvény – a (2)–(4) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 83. §, a 88. §, a 91. § és a 92. § c) pontja 2022. november 30-án lép hatályba.
+
+(3) Az 5. § (6) bekezdése 2023. március 31-én lép hatályba.
+
+(4) A 85. §, a 86. § és a 92. § b) pontja a IV. Fejezet szerinti nyilvántartásban szereplő adatok teljes körű rendelkezésre állását igazoló kormányhatározat Magyar Közlönyben történő közzétételét követő napon lép hatályba.
+
+(5) A 85. §, a 86. § és a 92. § b) pontja hatálybalépésének naptári napját az az igazságügyi miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+
+#### 31. Átmeneti rendelkezések
+
+70. § (1) A Hatóság elnökét és elnökhelyetteseit 2022. november 4-ig ki kell nevezni.
+
+(2) A Hatóság Igazgatósága az első ülését legkésőbb 2022. november 19-ig megtartja, amelyről jegyzőkönyvet készít.
+
+(3) A Hatóság a teljes működését 2022. november 19. napján kezdi meg.
+
+71. § (1) Az európai támogatásokat auditáló szerv az e törvény hatálybalépéstől számított 6 hónapos időtartamra a Hatóság létrehozásával összefüggő titkársági és adminisztratív teendők ellátásához támogatást nyújt, és biztosítja a szükséges infrastruktúrát.
+
+(2) A Hatóság gazdasági szervezeti feladatait az európai támogatásokat auditáló szerv az e törvény hatálybalépéstől számított 6 hónapig látja el az államháztartás gazdálkodására, számvitelére, adatszolgáltatására, működésének rendjére vonatkozó szabályok szerint.
+
+(3) A gazdasági szervezeti feladatok ellátásával kapcsolatos, a gazdálkodási feladatok és az ehhez kapcsolódó felelősségi körökre vonatkozó részletszabályokat munkamegosztási megállapodásban kell rögzíteni.
+
+(4) A (3) bekezdés szerinti munkamegosztási megállapodást a Hatóság elnöke és az európai támogatásokat auditáló szerv vezetője köti meg.
+
+(5) Az európai támogatásokat auditáló szerv az e törvény hatálybalépésétől a Hatóság tényleges működésének megkezdéséig közreműködik a Hatóság létrehozását, működését elősegítő feladatellátásban, és az (1) bekezdésben meghatározottakon túl támogatást nyújt a Hatóság elnökének, illetve elnökhelyetteseinek e törvényben meghatározott feladatainak ellátásához.
+
+(6) A Hatóság és az európai támogatásokat auditáló szerv az (1) és (5) bekezdés szerinti közreműködéssel és támogatásnyújtással összefüggésben a (3) bekezdés szerinti munkamegosztási megállapodásában rögzített módon és határidőben számolnak el egymással.
+
+72. § Az Alkalmassági Bizottság – nemzetközi szervezetekkel szorosan együttműködve és egyeztetve – a Hatóság Igazgatósága tagjainak kinevezését követően két évvel felülvizsgálja a Hatóság és a Hatóság Igazgatósága működését.
+
+73. § Az első integritáskockázat-értékelést a Hatóság működésének megkezdését követő négy hónapon belül, nemzetközileg elismert módszertannal rendelkező nemzetközi szervezetekkel együttműködve, a közbeszerzési rendszer elszámoltathatósága, integritása és átláthatósága mutatói (MAPS IV. pillér) alapján kell elvégezni.
+
+74. § (1) Az első elemző integritásjelentés a 11. §-ban foglalt tartalmi elemeken felül
+
+- a) tartalmaz egy értékelést arról, hogy az összeférhetetlenségre vonatkozó meglévő szabályozások összhangban vannak-e az összeférhetetlenségek költségvetési rendelet szerinti elkerüléséről és kezeléséről szóló iránymutatásról szóló bizottsági közleményben (C/2021/2119) foglalt iránymutatással, és hogy szükség van-e javításokra,
+- b) az integritáskockázat-értékelési gyakorlatra figyelemmel meghatározza a csalás – az (EU) 2017/1371 irányelv 3. cikke szerinti értelemben –, a korrupció – az (EU) 2017/1371 irányelv 4. cikk (2) bekezdése szerinti értelemben –, illetve az összeférhetetlenség – az (EU, Euratom) 2018/1046 rendelet 61. cikk (1) bekezdése és a 2014/24/EU irányelv 24. cikke szerinti értelemben – egyedi mutatóit az összeférhetetlenségek költségvetési rendelet szerinti elkerüléséről és kezeléséről szóló bizottsági iránymutatás (C/2021/2119) szerint kiegészítve,
+- c) áttekinti a magyar vagyonnyilatkozat-rendszer szabályozási kereteit és működését, ideértve annak hatályát és ellenőrzési folyamatát is.
+
+(2) Az első elemző integritásjelentést a Hatóság 2023. június 30-ig készíti el.
+
+75. § A Hatóság 2023. december 31-ig eseti jelentését készít, amelyben áttekinti a magyar vagyonnyilatkozat-rendszer szabályozási kereteit és működését, ideértve annak hatályát és ellenőrzési folyamatát is.
+
+76. § (1) A nyilvántartás a működését az e törvényben meghatározott, a bűnügyi nyilvántartási rendszerrel, a céginformációs rendszerrel és az egyéni vállalkozók nyilvántartásával való közvetlen adatkapcsolat feltételeinek a biztosítását követően kezdi meg.
+
+(2) A nyilvántartás működésének megkezdésekor a Hatóság azon gazdasági szereplőket veszi nyilvántartásba, amelyek tekintetében a kizáró ok alapjául szolgáló bűncselekményt elkövető személy a büntetett előélethez fűződő hátrányok alól még nem mentesült.
+
+77. § (1) A Munkacsoportot 2022. december 1-jéig kell megalakítani. A Munkacsoport az első ülését legkésőbb 2022. december 15-éig megtartja.
+
+(2) A Munkacsoport a 2022. évre vonatkozó első jelentését 2023. március 15-éig fogadja el és küldi meg a Kormánynak.
+
+### IX. Fejezet — MÓDOSÍTÓ RENDELKEZÉSEK
+
+#### 32. A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény módosítása
+
+78. § A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (4) bekezdése a következő b) ponttal egészül ki:
+
+(Autonóm államigazgatási szerv)
+
+„b) az Integritás Hatóság,”
+
+#### 33. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
+
+79. § Az államháztartásról szóló 2011. évi CXCV. törvény 1. § 11. pontjában az „Akadémia és az Eötvös Loránd Kutatási Hálózat fejezetekhez” szövegrész helyébe az „Akadémia, az Eötvös Loránd Kutatási Hálózat és az Integritás Hatóság fejezetekhez” szöveg lép.
+
+#### 34. Az Országgyűlésről szóló 2012. évi XXXVI. törvény módosítása
+
+80. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 44/A. § (1) bekezdése a következő 22. ponttal egészül ki:
+
+[A házelnök]
+
+„22. az Integritás Hatóság elnöke, elnökhelyettese”
+
+[részére a közjogi tisztség betöltésének igazolása céljából igazolványt (a továbbiakban: közjogi tisztségviselői igazolvány) állít ki.]
+
+#### 35. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
+
+81. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 25. §-a helyébe a következő rendelkezés lép:
+
+„25. § (1) Az ajánlatkérő köteles minden szükséges intézkedést megtenni annak érdekében, hogy megelőzze, feltárja és szükség esetén orvosolja az összeférhetetlenséget és a verseny tisztaságának sérelmét eredményező helyzeteket.
+
+(2) Az ajánlatkérő nevében eljáró és az ajánlatkérő által az eljárással vagy annak előkészítésével kapcsolatos tevékenységbe bevont személy írásban köteles nyilatkozni arról, hogy vele szemben fennáll-e bármely olyan körülmény, amely az e § szerinti összeférhetetlenséget eredményezhet. Ha e személy a közbeszerzési eljáráshoz kapcsolódó több folyamatban (eljárás előkészítése, ajánlatok és részvételi jelentkezések bírálata, a közbeszerzési eljárás eredményéről szóló döntés meghozatala) is részt vesz, az érintett személynek a nyilatkozatot valamennyi folyamathoz kapcsolódóan meg kell tennie. Ha az összeférhetetlenség vagy annak kockázata a nyilatkozat megtételét követően merül fel, az érintett személy köteles ezt haladéktalanul bejelenteni az ajánlatkérő részére.
+
+(3) Ha a (2) bekezdés szerinti cselekmények vagy bármely más forrásból származó információ alapján felmerül az összeférhetetlenség kockázata, az ajánlatkérő köteles megvizsgálni az összeférhetetlenség fennállását.
+
+(4) Összeférhetetlenség áll fenn akkor, ha az ajánlatkérő részéről az eljárással vagy annak előkészítésével kapcsolatos tevékenységbe bevont vagy az eljárás eredményét befolyásolni képes személy – ide értve a közbeszerzési szolgáltatót, valamint az általa foglalkoztatottakat is – közvetve vagy közvetlenül olyan pénzügyi, gazdasági vagy egyéb személyes érdekeltséggel rendelkezik, amely úgy tekinthető, hogy befolyásolja funkcióinak pártatlan és tárgyilagos gyakorlását.
+
+(5) Vélelmezni kell, hogy fennáll a (4) bekezdés szerinti összeférhetetlenség, ha a (4) bekezdés szerinti személy
+
+- a) a közbeszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként részt vesz vagy az alkalmasság igazolásában részt vesz;
+- b) a közbeszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy az alkalmasság igazolásában részt vevő szervezetként részt vevő gazdasági szereplő vagy annak tagja, vezető tisztségviselője, felügyelőbizottságának tagja, cégvezetője vagy alkalmazottja; vagy
+- c) az a) vagy a b) pontban meghatározott személyek hozzátartozója.
+
+(6) A nyilvánosan működő részvénytársaság kivételével összeférhetetlen és nem vehet részt az eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy az alkalmasság igazolásában részt vevő szervezetként
+
+- a) a köztársasági elnök,
+- b) az Országgyűlés elnöke, alelnöke,
+- c) a Kormány tagja,
+- d) a Kúria elnöke, az Országos Bírósági Hivatal elnöke,
+- e) a legfőbb ügyész,
+- f) az Alkotmánybíróság elnöke,
+- g) az Állami Számvevőszék elnöke,
+- h) a Közbeszerzési Hatóság, a Gazdasági Versenyhivatal, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a Nemzeti Választási Iroda, a Központi Statisztikai Hivatal, az Országos Atomenergia Hivatal, a Szellemi Tulajdon Nemzeti Hivatala, a Nemzeti Adó- és Vámhivatal, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Magyar Energetikai és Közmű-szabályozási Hivatal vezetője, vagy
+- i) a Magyar Nemzeti Bank elnöke
+
+tulajdonában, vagy az a)–i) pont szerinti személlyel közös háztartásban élő hozzátartozója tulajdonában álló szervezet.
+
+(7) A közbeszerzési eljárás előkészítésében vagy lefolytatásában az ajánlatkérő részéről nem vehet részt olyan személy, akinek a részvétele összeférhetetlenséget eredményezne. Összeférhetetlenség fennállása esetén az ajánlatkérő köteles megvizsgálni, hogy az összeférhetetlenség az adott közbeszerzési eljárás tekintetében hogyan érintette a verseny tisztasága és az egyenlő bánásmód elveinek érvényesülését, és köteles mindazon intézkedéseket megtenni, amelyek szükségesek az összeférhetetlenség megszüntetéséhez és az eljárás jogszerűségének helyreállításához. A 62. § (1) bekezdés m) pontja akkor alkalmazható, ha az egyenlő bánásmód és a verseny tisztaságának sérelme más módon nem orvosolható.
+
+(8) A (7) bekezdéstől eltérően, ha egy részvételre jelentkező, ajánlattevő, alvállalkozó vagy az alkalmasság igazolásában részt vevő szervezet vagy egy ezekkel – közvetve vagy közvetlenül – a 3. § 28. pontjában meghatározott kapcsolatban álló gazdasági szereplő – ide értve az (5) bekezdés b) pontja szerinti személyeket is – részt vett a közbeszerzési eljárás előkészítésében, az ajánlatkérő köteles megfelelő intézkedéseket tenni – különös tekintettel az eljáráshoz kapcsolódó valamennyi releváns információ többi gazdasági szereplővel való közlésére, valamint megfelelő ajánlattételi határidő biztosítására – annak érdekében, hogy az érintett gazdasági szereplő közbeszerzési eljárásban való részvétele ne vezessen a verseny torzításához. Az érintett gazdasági szereplő a 62. § (1) bekezdés m) pontja alapján csak akkor zárható ki az eljárásból, ha az egyenlő bánásmód elvének tiszteletben tartása más módon nem biztosítható. A kizárást megelőzően az ajánlatkérő – hiánypótlás vagy felvilágosítás kérés útján – köteles biztosítani annak lehetőségét, hogy az érintett gazdasági szereplő bizonyítsa, hogy a közbeszerzési eljárás előkészítésében való részvétele az egyenlő bánásmód elvét és a verseny tisztaságát nem sérti, vagy az érintett gazdasági szereplő az összeférhetetlenségi helyzetet más módon elhárítsa. Az összeférhetetlenségi helyzet elhárítása érdekében a gazdasági szereplő által tett intézkedéseket az ajánlatkérő köteles az ajánlatok (részvételi jelentkezések) elbírálásáról szóló összegezésben ismertetni.
+
+(9) A (8) bekezdés alkalmazásában nem eredményezi a verseny tisztaságának sérelmét és nem összeférhetetlen az olyan személy (szervezet) részvétele az eljárásban,
+
+- a) akitől, illetve amelytől az ajánlatkérő az adott közbeszerzéssel kapcsolatos helyzet-, piacfelmérés, illetve a közbeszerzés becsült értékének felmérése érdekében a közbeszerzés megkezdése időpontjának megjelölése nélkül, kizárólag a felmérés érdekében szükséges adatokat közölve kért tájékoztatást,
+- b) aki, illetve amely az ajánlatkérő által folytatott előzetes piaci konzultációban [28. § (4) bekezdése] vett részt,
+- c) akitől, illetve amelytől az ajánlatkérő a támogatásra irányuló igény (pályázat) benyújtásához szükséges árajánlatot kapott,
+
+feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő nem közölt vele a közbeszerzési eljárás során az összes ajánlattevő vagy részvételre jelentkező részére rendelkezésre bocsátott adatok körét meghaladó információt, valamint az ajánlattételi határidő meghatározása biztosítja az egyenlő bánásmód elvének érvényesülését.”
+
+82. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 36. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) A közbeszerzésekért vagy az európai uniós források felhasználásáért felelős miniszter az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény (a továbbiakban: Eufetv.) szerint az Integritás Hatóság feladatkörébe tartozó esetekben jogosult – a minősített adat kivételével – az Integritás Hatóságnak átadni az eljárásával érintett közbeszerzés, szerződés, építési vagy szolgáltatási koncesszió, illetve ezek módosításai ellenőrzése révén rendelkezésére álló bármely adatot.”
+
+#### 83. §
+
+84. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 55. §-a a következő (8) bekezdéssel egészül ki:
+
+„(8) Ha az Integritás Hatóság a részvételi vagy ajánlattételi határidő leteltét megelőzően függeszti fel a közbeszerzési eljárást, a felfüggesztés időtartama alatt a részvételi vagy az ajánlattételi határidő nem jár le és a felfüggesztés megszűnését követően az ajánlatkérő köteles a határidőt a megfelelő részvételi jelentkezés vagy ajánlat benyújtásához szükséges mértékben meghosszabbítani.”
+
+#### 85. §
+
+#### 86. §
+
+87. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 70. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Ha az Integritás Hatóság a részvételi vagy ajánlattételi határidő leteltét megelőzően függeszti fel a közbeszerzési eljárást, a közbeszerzési eljárás felfüggesztésének ideje alatt az ajánlatkérő nem hozhatja meg az eljárás részvételi szakaszát lezáró döntést vagy az eljárást lezáró döntést, valamint az ajánlatkérőre irányadó folyamatban lévő határidők a felfüggesztés időtartamával meghosszabbodnak.”
+
+#### 88. §
+
+89. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 152. § (1) bekezdése a következő o) ponttal egészül ki:
+
+(A Közbeszerzési Döntőbizottság hivatalból indított eljárását a következő szervezetek vagy személyek kezdeményezhetik, ha a feladatkörük ellátása során a közbeszerzésekről szóló törvénybe, illetve a közbeszerzésekről szóló törvény felhatalmazása alapján alkotott rendeletbe ütköző magatartás vagy mulasztás jut tudomásukra:)
+
+„o) az európai uniós forrásból megvalósuló közbeszerzésekkel összefüggésben az Integritás Hatóság.”
+
+90. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 182. § (2) bekezdése a következő n) ponttal egészül ki:
+
+(A törvény alapelveinek, az egyes közérdekű céloknak, az ajánlatkérők, valamint az ajánlattevők érdekeinek az érvényesítése a Tanácsban a következő személyek feladata:)
+
+„n) az Integritás Hatóság elnöke vagy az általa kijelölt személy.”
+
+#### 91. §
+
+92. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény
+
+- a) 46. § (4c) bekezdésében a „szerv, valamint” szövegrész helyébe a „szerv, az Integritás Hatóság, valamint” szöveg,
+- b)
+- c)
+- d) 152. § (2) bekezdés nyitó szövegrészében a „m) és n)” szövegrész helyébe a „m)–o)” szöveg,
+- e) 165. § (7c) bekezdésében az „előírása alapján” szövegrész helyébe az „előírása vagy az Integritás Hatóság ajánlása alapján” szöveg,
+- f) 182. § (1) bekezdésében a „tizenhat” szövegrész helyébe a „tizenhét” szöveg,
+- g) 182. § (2) bekezdés m) pontjában a „személy.” szövegrész helyébe a „személy és” szöveg,
+- h) 188. § (1) bekezdésében a „62. § (1) bekezdés” szövegrész helyébe a „62. § (1) bekezdés a) pont aa)–ah) alpontjában,” szöveg
+
+lép.
+
+#### 36. A közigazgatási perrendtartásról szóló 2017. évi I. törvény módosítása
+
+93. § A közigazgatási perrendtartásról szóló 2017. évi I. törvény 17. §-a a következő g) ponttal egészül ki:
+
+(A per megindítására jogosult)
+
+„g) a feladat- és hatáskörében eljáró Integritás Hatóság.”
+
+94. § A közigazgatási perrendtartásról szóló 2017. évi I. törvény 128. § (1) bekezdése a következő c) ponttal egészül ki:
+
+(A mulasztási per megindítására jogosult)
+
+„c) a feladat- és hatáskörében eljáró Integritás Hatóság.”
+
+#### 37. A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény módosítása
+
+95. § A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény 2. § (1) bekezdése a következő p) ponttal egészül ki:
+
+(E törvény alkalmazásában különleges jogállású szerv:)
+
+„p) az Integritás Hatóság.”
+
+96. § A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény
+
+- a) 2. § (1) bekezdés n) pontjában a „Hivatala és” szövegrész helyébe a „Hivatala,” szöveg,
+- b) 98. § (1) bekezdésében az „Országos Atomenergia Hivatal” szövegrész helyébe az „Országos Atomenergia Hivatal, az Integritás Hatóság” szöveg
+
+lép.

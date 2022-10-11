@@ -33,8 +33,9 @@ Az Országgyűlés a hatékonyan működő, költségtakarékos, az adminisztrat
 - k) a Szabályozott Tevékenységek Felügyeleti Hatósága,
 - l) a Közbeszerzési Hatóság,
 - m) a Nemzeti Választási Iroda,
-- n) a Nemzeti Emlékezet Bizottságának Hivatala és
+- n) a Nemzeti Emlékezet Bizottságának Hivatala,
 - o) az Országos Atomenergia Hivatal.
+- p) az Integritás Hatóság.
 
 (2) A különleges jogállású szervek szervezetét a szervet létrehozó törvény, vagy annak felhatalmazása alapján a különleges jogállású szerv alapító okirata vagy a különleges jogállású szerv szervezeti és működési szabályzata határozza meg.
 
@@ -2386,7 +2387,7 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 
 #### 98. § [A közszolgálati munkaszerződés]
 
-(1) A Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Szabályozott Tevékenységek Felügyeleti Hatósága, a Gazdasági Versenyhivatal, az Országos Atomenergia Hivatal és a Közbeszerzési Hatóság köztisztviselőjének közszolgálati jogviszonya a különleges jogállású szerv mint munkáltató és a köztisztviselő mint foglalkoztatott között közszolgálati munkaszerződéssel jön létre.
+(1) A Magyar Energetikai és Közmű-szabályozási Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Szabályozott Tevékenységek Felügyeleti Hatósága, a Gazdasági Versenyhivatal, az Országos Atomenergia Hivatal, az Integritás Hatóság és a Közbeszerzési Hatóság köztisztviselőjének közszolgálati jogviszonya a különleges jogállású szerv mint munkáltató és a köztisztviselő mint foglalkoztatott között közszolgálati munkaszerződéssel jön létre.
 
 (1a) Az (1) bekezdés szerinti különleges jogállású szerv vezetőjének és helyettesének közszolgálati jogviszonya a különleges jogállású szervet létrehozó törvényben meghatározottak szerint jön létre.
 

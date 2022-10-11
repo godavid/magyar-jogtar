@@ -27,7 +27,7 @@ Az Országgyűlés a kormányzati szervezetrendszer működésének hatékonyabb
 (4) Autonóm államigazgatási szerv
 
 - a) a Közbeszerzési Hatóság,
-- b)
+- b) az Integritás Hatóság,
 - c) a Gazdasági Versenyhivatal,
 - d) a Nemzeti Adatvédelmi és Információszabadság Hatóság, és
 - e) a Nemzeti Választási Iroda.
@@ -94,7 +94,7 @@ meghatározott hatáskörök együttesét kell érteni.
 
 ### Az egyes kormányzati igazgatási tisztségviselőkre vonatkozó szabályok
 
-6. §
+#### 6. §
 
 7. § (1)
 
@@ -112,23 +112,23 @@ meghatározott hatáskörök együttesét kell érteni.
 
 (8) A politikai felsővezető illetménye, jutalma és célprémiuma nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
 
-7/A. §
+#### 7/A. §
 
-8. §
+#### 8. §
 
-9. §
+#### 9. §
 
-10. §
+#### 10. §
 
-11. §
+#### 11. §
 
-12. §
+#### 12. §
 
-12/A. §
+#### 12/A. §
 
-12/B. §
+#### 12/B. §
 
-12/C. §
+#### 12/C. §
 
 13. § (1) Ha a politikai felsővezető megbízatása megszűnt, illetménye és juttatásai addig illetik meg, amíg az Alaptörvény vagy törvény rendelkezései alapján gyakorolja hatáskörét.
 
@@ -170,57 +170,57 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 (6)
 
-15. §
+#### 15. §
 
 ### II. Fejezet
 
-16. §
+#### 16. §
 
-17. §
+#### 17. §
 
-18. §
+#### 18. §
 
-19. §
+#### 19. §
 
-20. §
+#### 20. §
 
-21. §
+#### 21. §
 
-22. §
+#### 22. §
 
-23. §
+#### 23. §
 
-23/A. §
+#### 23/A. §
 
-24. §
+#### 24. §
 
-25. §
+#### 25. §
 
 25/A. § A miniszterelnök havi illetményének összege megegyezik az Országgyűlés elnöke – az Országgyűlésről szóló 2012. évi XXXVI. törvény szerinti – tiszteletdíjának összegével.
 
-25/B. §
+#### 25/B. §
 
-25/C. §
+#### 25/C. §
 
-25/D. §
+#### 25/D. §
 
-26. §
+#### 26. §
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
-29. §
+#### 29. §
 
-30. §
+#### 30. §
 
-30/A. §
+#### 30/A. §
 
 31. § (1) Az egyidejűleg politikai felsővezetői vagy szakmai felsővezetői megbízatást is betöltő kormánybiztos, illetve miniszterelnöki biztos ezen tevékenységére tekintettel a miniszterelnök által meghatározott mértékű díjazást kaphat, ha tevékenysége eredeti feladatkörével nem függ össze. A díjazás nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
 
 (2) A politikai felsővezetői vagy szakmai felsővezetői megbízatást be nem töltő kormánybiztos, illetve miniszterelnöki biztos a miniszterelnök által meghatározott mértékű díjazásra és kormányrendeletben meghatározott juttatásokra jogosult. A Kormány a kormánybiztos kinevezéséről szóló normatív határozatában, a miniszterelnök a miniszterelnöki biztos kinevezéséről szóló normatív utasításában a kormánybiztos, illetve a miniszterelnöki biztos díjazását és juttatásait ennél alacsonyabb mértékben is megállapíthatja. A díjazás nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
 
-32. §
+#### 32. §
 
 33. § (1) Ha a kormánybiztost vagy a miniszterelnöki biztost megbízatási ideje alatt politikai felsővezetőnek, közigazgatási államtitkárnak vagy helyettes államtitkárnak is kinevezik, juttatásaira az e tisztségviselőre vonatkozó szabályok alkalmazandók azzal, hogy kormánybiztosi vagy miniszterelnöki biztosi megbízatására tekintettel akkor kaphat díjazást, ha e tevékenysége e tisztségviselői feladatkörével nem függ össze.
 
@@ -230,27 +230,27 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 ### II/A. Fejezet
 
-33/A. §
+#### 33/A. §
 
-33/B. §
+#### 33/B. §
 
-33/C. §
+#### 33/C. §
 
-33/D. §
+#### 33/D. §
 
-33/E. §
+#### 33/E. §
 
-33/F. §
+#### 33/F. §
 
 ### III. Fejezet
 
-34. §
+#### 34. §
 
-35. §
+#### 35. §
 
-36. §
+#### 36. §
 
-37. §
+#### 37. §
 
 38. § (1)
 
@@ -272,89 +272,89 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 39. § A miniszter a miniszterelnök által meghatározott mértékű illetményre jogosult.
 
-39/A. §
+#### 39/A. §
 
 40. § A miniszterelnök politikai igazgatója a miniszterelnök által meghatározott mértékű illetményre jogosult.
 
-41. §
+#### 41. §
 
-42. §
+#### 42. §
 
-43. §
+#### 43. §
 
-44. §
+#### 44. §
 
-45. §
+#### 45. §
 
-46. §
+#### 46. §
 
-47. §
+#### 47. §
 
-48. §
+#### 48. §
 
-49. §
+#### 49. §
 
-50. §
+#### 50. §
 
 51. § Az államtitkár a miniszterelnök által meghatározott mértékű illetményre jogosult.
 
-52. §
+#### 52. §
 
-53. §
+#### 53. §
 
-54. §
+#### 54. §
 
-55. §
+#### 55. §
 
-56. §
+#### 56. §
 
-57. §
+#### 57. §
 
-58. §
+#### 58. §
 
-59. §
+#### 59. §
 
-60. §
+#### 60. §
 
-61. §
+#### 61. §
 
-62. §
+#### 62. §
 
-62/A. §
+#### 62/A. §
 
-63. §
+#### 63. §
 
-63/A. §
+#### 63/A. §
 
-64. §
+#### 64. §
 
-65. §
+#### 65. §
 
-66. §
+#### 66. §
 
-67. §
+#### 67. §
 
-68. §
+#### 68. §
 
-69. §
+#### 69. §
 
 ### IV. Fejezet
 
-70. §
+#### 70. §
 
-71. §
+#### 71. §
 
-72. §
+#### 72. §
 
-73. §
+#### 73. §
 
-73/A. §
+#### 73/A. §
 
-73/B. §
+#### 73/B. §
 
 ### V. Fejezet
 
-74. §
+#### 74. §
 
 ### VI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -380,33 +380,33 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 (2) E törvény 77. §-a 2010. szeptember 1-jén lép hatályba.
 
-77. §
+#### 77. §
 
-78. §
+#### 78. §
 
-79. §
+#### 79. §
 
-80. §
+#### 80. §
 
-81. §
+#### 81. §
 
-82. §
+#### 82. §
 
-83. §
+#### 83. §
 
-84. §
+#### 84. §
 
-85. §
+#### 85. §
 
-86. §
+#### 86. §
 
-87. §
+#### 87. §
 
-88. §
+#### 88. §
 
-89. §
+#### 89. §
 
-90. §
+#### 90. §
 
 ### Átmeneti rendelkezések
 
@@ -418,4 +418,4 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 (4) Ahol jogszabály miniszteri vagy államtitkári illetményt, illetve annak hányadát vagy szorzatát állapítja meg illetményként vagy díjazásként valamely tisztségviselő számára, jogszabály eltérő rendelkezése hiányában e törvénynek a Módtv. hatálybalépését megelőző napon hatályos szabályait kell alkalmazni az illetmény vagy a díjazás összegének megállapítása során.
 
-92. §
+#### 92. §

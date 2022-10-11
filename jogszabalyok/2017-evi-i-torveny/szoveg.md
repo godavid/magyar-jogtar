@@ -2,7 +2,17 @@
 
 a közigazgatási perrendtartásról
 
-Az Országgyűlés a történeti alkotmány vívmányainak tiszteletben tartásával,a közigazgatási bíráskodás önállóságát elismerve és nemzeti hagyományait megújítva,a közigazgatási perek hatékony, gyors és szakszerű elbírálását lehetővé tevő önálló perrendi szabályok szükségességét felismerve,a közigazgatási bíróságok által a közigazgatás jogsértő tevékenységével szemben nyújtott jogvédelem és jogorvoslat biztosítása céljából, továbbáannak érdekében, hogy a közigazgatási szervek hatásköreiket törvényben előírtaknak megfelelően gyakorolják, és tevékenységük összhangban legyen azokkal a célokkal, amelyek elérése érdekében azokat megvalósították,az Alaptörvény 25. cikk (2) bekezdés b)–d) pontja végrehajtására a következő törvényt alkotja:
+Az Országgyűlés a történeti alkotmány vívmányainak tiszteletben tartásával,
+
+a közigazgatási bíráskodás önállóságát elismerve és nemzeti hagyományait megújítva,
+
+a közigazgatási perek hatékony, gyors és szakszerű elbírálását lehetővé tevő önálló perrendi szabályok szükségességét felismerve,
+
+a közigazgatási bíróságok által a közigazgatás jogsértő tevékenységével szemben nyújtott jogvédelem és jogorvoslat biztosítása céljából, továbbá
+
+annak érdekében, hogy a közigazgatási szervek hatásköreiket törvényben előírtaknak megfelelően gyakorolják, és tevékenységük összhangban legyen azokkal a célokkal, amelyek elérése érdekében azokat megvalósították,
+
+az Alaptörvény 25. cikk (2) bekezdés b)–d) pontja végrehajtására a következő törvényt alkotja:
 
 ## ELSŐ RÉSZ — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -283,6 +293,7 @@ A per megindítására jogosult
 - d) törvényben vagy kormányrendeletben meghatározott ügyekben az a civil szervezet, amely a nyilvántartásba vett tevékenységét valamely alapvető jog védelme vagy valamilyen közérdek érvényre juttatása érdekében a közigazgatási tevékenység által érintett földrajzi területen legalább egy éve folytatja, ha a közigazgatási tevékenység nyilvántartásba vett tevékenységét érinti,
 - e) törvényben meghatározott esetben az általa képviselt tagság, illetve csoport jogos érdekeinek közvetlen sérelme vagy veszélyeztetése esetén azon érdek-képviseleti szervezet vagy köztestület is, amelynek nyilvántartott vagy alapító okiratában rögzített tevékenységét a közigazgatási tevékenység érinti,
 - f) a törvényességi felügyeletet vagy törvényességi ellenőrzést gyakorló szerv vagy az ügyész, ha általános hatályú rendelkezés megsemmisítését indítványozza.
+- g) a feladat- és hatáskörében eljáró Integritás Hatóság.
 
 #### 18. § [Alperes]
 
@@ -1322,7 +1333,7 @@ A közigazgatási tevékenység jogszerűségének vizsgálata tárgyában hozot
 
 (6) Törvény eltérő rendelkezése hiányában a fellebbezésnek az ítélet hatályosulására halasztó hatálya van. A fellebbezéssel egyidejűleg azonnali jogvédelem iránti kérelem is előterjeszthető.
 
-101. §
+#### 101. §
 
 #### 102. § [Az elsőfokú bíróság intézkedései a fellebbezés alapján]
 
@@ -1615,6 +1626,7 @@ A közigazgatási szerv közigazgatási cselekmény megvalósítására vonatkoz
 
 - a) az ügyfél, illetve az, akinek jogát a mulasztás közvetlenül érinti,
 - b) a köztestület feletti törvényességi ellenőrzési jogkörén kívül eljáró ügyészség, továbbá a helyi, illetve a nemzetiségi önkormányzat felett törvényességi felügyeletet gyakorló szerv, ha a felhívásában megállapított határidő eredménytelenül telt el.
+- c) a feladat- és hatáskörében eljáró Integritás Hatóság.
 
 (2) A keresetlevelet a mulasztás orvoslását szolgáló közigazgatási eljárás eredménytelenségéről való tudomásszerzéstől vagy a jogorvoslati szerv mulasztása esetén az intézkedésére nyitva álló határidő elteltétől számított kilencven napon belül, de legkésőbb a közigazgatási cselekmény megvalósítására irányadó határidő leteltétől számított egy éven belül kell a bíróságnál benyújtani. Jogorvoslati szerv hiányában a keresetlevelet a közigazgatási cselekmény megvalósítására nyitva álló határidő leteltétől számított egy éven belül kell a bíróságnál benyújtani.
 
@@ -2017,15 +2029,24 @@ E törvény más jogszabályban alkalmazandó rövid megjelölése: Kp.
 
 E törvény
 
-- 1. a vízügyi, energiaipari, szállítási és távközlési ágazatokban működő vállalkozások beszerzési eljárásairól szóló közösségi szabályok alkalmazására vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló, 1992. február 25-i 92/13/EGK tanácsi irányelvnek,
-- 2. a megtévesztő reklámra vonatkozó 84/450/EGK tanácsi irányelvnek az összehasonlító reklámra történő kiterjesztése miatt történő módosításáról szóló, 1997. október 6-i 97/55/EK európai parlamenti és tanácsi irányelvnek,
-- 3. a férfiak és nők közötti egyenlő bánásmód elvének a munkavállalás, a szakképzés, az előmenetel és a munkakörülmények terén történő végrehajtásáról szóló 76/207/EGK tanácsi irányelv módosításáról szóló, 2002. szeptember 23-i 2002/73/EK európai parlamenti és tanácsi irányelvnek,
-- 4. a határon átnyúló vonatkozású jogviták esetén az igazságszolgáltatáshoz való hozzáférés megkönnyítése érdekében az ilyen ügyekben alkalmazandó költségmentességre vonatkozó közös minimumszabályok megállapításáról szóló, 2003. január 27-i 2003/8/EK tanácsi irányelvnek,
-- 5. a környezeti információkhoz való nyilvános hozzáférésről és a 90/313/EGK irányelv hatályon kívül helyezéséről szóló, 2003. január 28-i 2003/4/EK európai parlamenti és tanácsi irányelvnek,
-- 6. a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott tisztességtelen kereskedelmi gyakorlatairól, valamint a 84/450/EGK tanácsi irányelv, a 97/7/EK, a 98/27/EK és a 2002/65/EK európai parlamenti és tanácsi irányelvek, valamint a 2006/2004/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2005. május 11-i 2005/29/EK európai parlamenti és tanácsi irányelvnek,
-- 7. a menekültstátusz megadására és visszavonására vonatkozó tagállami eljárások minimumszabályairól 2005. december 1-jei 2005/85/EK tanácsi irányelvnek,
-- 8. az alternatív befektetésialap-kezelőkről, valamint a 2003/41/EK és a 2009/65/EK irányelv, továbbá az 1060/2009/EK és az 1095/2010/EU rendelet módosításáról szóló, 2011. június 8-i 2011/61/EU európai parlamenti és tanácsi irányelvnek,
-- 9. a nemzetközi védelem megadására és visszavonására vonatkozó közös eljárásokról szóló, 2013. június 26-i 2013/32/EU európai parlamenti és tanácsi irányelvnek,
-- 10. a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelvnek
+1. a vízügyi, energiaipari, szállítási és távközlési ágazatokban működő vállalkozások beszerzési eljárásairól szóló közösségi szabályok alkalmazására vonatkozó törvényi, rendeleti és közigazgatási rendelkezések összehangolásáról szóló, 1992. február 25-i 92/13/EGK tanácsi irányelvnek,
+
+2. a megtévesztő reklámra vonatkozó 84/450/EGK tanácsi irányelvnek az összehasonlító reklámra történő kiterjesztése miatt történő módosításáról szóló, 1997. október 6-i 97/55/EK európai parlamenti és tanácsi irányelvnek,
+
+3. a férfiak és nők közötti egyenlő bánásmód elvének a munkavállalás, a szakképzés, az előmenetel és a munkakörülmények terén történő végrehajtásáról szóló 76/207/EGK tanácsi irányelv módosításáról szóló, 2002. szeptember 23-i 2002/73/EK európai parlamenti és tanácsi irányelvnek,
+
+4. a határon átnyúló vonatkozású jogviták esetén az igazságszolgáltatáshoz való hozzáférés megkönnyítése érdekében az ilyen ügyekben alkalmazandó költségmentességre vonatkozó közös minimumszabályok megállapításáról szóló, 2003. január 27-i 2003/8/EK tanácsi irányelvnek,
+
+5. a környezeti információkhoz való nyilvános hozzáférésről és a 90/313/EGK irányelv hatályon kívül helyezéséről szóló, 2003. január 28-i 2003/4/EK európai parlamenti és tanácsi irányelvnek,
+
+6. a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott tisztességtelen kereskedelmi gyakorlatairól, valamint a 84/450/EGK tanácsi irányelv, a 97/7/EK, a 98/27/EK és a 2002/65/EK európai parlamenti és tanácsi irányelvek, valamint a 2006/2004/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2005. május 11-i 2005/29/EK európai parlamenti és tanácsi irányelvnek,
+
+7. a menekültstátusz megadására és visszavonására vonatkozó tagállami eljárások minimumszabályairól 2005. december 1-jei 2005/85/EK tanácsi irányelvnek,
+
+8. az alternatív befektetésialap-kezelőkről, valamint a 2003/41/EK és a 2009/65/EK irányelv, továbbá az 1060/2009/EK és az 1095/2010/EU rendelet módosításáról szóló, 2011. június 8-i 2011/61/EU európai parlamenti és tanácsi irányelvnek,
+
+9. a nemzetközi védelem megadására és visszavonására vonatkozó közös eljárásokról szóló, 2013. június 26-i 2013/32/EU európai parlamenti és tanácsi irányelvnek,
+
+10. a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
