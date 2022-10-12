@@ -749,142 +749,61 @@ meghatározott összeférhetetlenségi helyzeteket is, kiegészítve az összef�
 
 #### 32. A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény módosítása
 
-78. § A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (4) bekezdése a következő b) ponttal egészül ki:
-
-(Autonóm államigazgatási szerv)
-
-„b) az Integritás Hatóság,”
+#### 78. §
 
 #### 33. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-79. § Az államháztartásról szóló 2011. évi CXCV. törvény 1. § 11. pontjában az „Akadémia és az Eötvös Loránd Kutatási Hálózat fejezetekhez” szövegrész helyébe az „Akadémia, az Eötvös Loránd Kutatási Hálózat és az Integritás Hatóság fejezetekhez” szöveg lép.
+#### 79. §
 
 #### 34. Az Országgyűlésről szóló 2012. évi XXXVI. törvény módosítása
 
-80. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 44/A. § (1) bekezdése a következő 22. ponttal egészül ki:
-
-[A házelnök]
-
-„22. az Integritás Hatóság elnöke, elnökhelyettese”
-
-[részére a közjogi tisztség betöltésének igazolása céljából igazolványt (a továbbiakban: közjogi tisztségviselői igazolvány) állít ki.]
+#### 80. §
 
 #### 35. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
-81. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 25. §-a helyébe a következő rendelkezés lép:
+#### 81. §
 
-„25. § (1) Az ajánlatkérő köteles minden szükséges intézkedést megtenni annak érdekében, hogy megelőzze, feltárja és szükség esetén orvosolja az összeférhetetlenséget és a verseny tisztaságának sérelmét eredményező helyzeteket.
-
-(2) Az ajánlatkérő nevében eljáró és az ajánlatkérő által az eljárással vagy annak előkészítésével kapcsolatos tevékenységbe bevont személy írásban köteles nyilatkozni arról, hogy vele szemben fennáll-e bármely olyan körülmény, amely az e § szerinti összeférhetetlenséget eredményezhet. Ha e személy a közbeszerzési eljáráshoz kapcsolódó több folyamatban (eljárás előkészítése, ajánlatok és részvételi jelentkezések bírálata, a közbeszerzési eljárás eredményéről szóló döntés meghozatala) is részt vesz, az érintett személynek a nyilatkozatot valamennyi folyamathoz kapcsolódóan meg kell tennie. Ha az összeférhetetlenség vagy annak kockázata a nyilatkozat megtételét követően merül fel, az érintett személy köteles ezt haladéktalanul bejelenteni az ajánlatkérő részére.
-
-(3) Ha a (2) bekezdés szerinti cselekmények vagy bármely más forrásból származó információ alapján felmerül az összeférhetetlenség kockázata, az ajánlatkérő köteles megvizsgálni az összeférhetetlenség fennállását.
-
-(4) Összeférhetetlenség áll fenn akkor, ha az ajánlatkérő részéről az eljárással vagy annak előkészítésével kapcsolatos tevékenységbe bevont vagy az eljárás eredményét befolyásolni képes személy – ide értve a közbeszerzési szolgáltatót, valamint az általa foglalkoztatottakat is – közvetve vagy közvetlenül olyan pénzügyi, gazdasági vagy egyéb személyes érdekeltséggel rendelkezik, amely úgy tekinthető, hogy befolyásolja funkcióinak pártatlan és tárgyilagos gyakorlását.
-
-(5) Vélelmezni kell, hogy fennáll a (4) bekezdés szerinti összeférhetetlenség, ha a (4) bekezdés szerinti személy
-
-- a) a közbeszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként részt vesz vagy az alkalmasság igazolásában részt vesz;
-- b) a közbeszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy az alkalmasság igazolásában részt vevő szervezetként részt vevő gazdasági szereplő vagy annak tagja, vezető tisztségviselője, felügyelőbizottságának tagja, cégvezetője vagy alkalmazottja; vagy
-- c) az a) vagy a b) pontban meghatározott személyek hozzátartozója.
-
-(6) A nyilvánosan működő részvénytársaság kivételével összeférhetetlen és nem vehet részt az eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy az alkalmasság igazolásában részt vevő szervezetként
-
-- a) a köztársasági elnök,
-- b) az Országgyűlés elnöke, alelnöke,
-- c) a Kormány tagja,
-- d) a Kúria elnöke, az Országos Bírósági Hivatal elnöke,
-- e) a legfőbb ügyész,
-- f) az Alkotmánybíróság elnöke,
-- g) az Állami Számvevőszék elnöke,
-- h) a Közbeszerzési Hatóság, a Gazdasági Versenyhivatal, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a Nemzeti Választási Iroda, a Központi Statisztikai Hivatal, az Országos Atomenergia Hivatal, a Szellemi Tulajdon Nemzeti Hivatala, a Nemzeti Adó- és Vámhivatal, a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, a Nemzeti Média- és Hírközlési Hatóság, a Magyar Energetikai és Közmű-szabályozási Hivatal vezetője, vagy
-- i) a Magyar Nemzeti Bank elnöke
-
-tulajdonában, vagy az a)–i) pont szerinti személlyel közös háztartásban élő hozzátartozója tulajdonában álló szervezet.
-
-(7) A közbeszerzési eljárás előkészítésében vagy lefolytatásában az ajánlatkérő részéről nem vehet részt olyan személy, akinek a részvétele összeférhetetlenséget eredményezne. Összeférhetetlenség fennállása esetén az ajánlatkérő köteles megvizsgálni, hogy az összeférhetetlenség az adott közbeszerzési eljárás tekintetében hogyan érintette a verseny tisztasága és az egyenlő bánásmód elveinek érvényesülését, és köteles mindazon intézkedéseket megtenni, amelyek szükségesek az összeférhetetlenség megszüntetéséhez és az eljárás jogszerűségének helyreállításához. A 62. § (1) bekezdés m) pontja akkor alkalmazható, ha az egyenlő bánásmód és a verseny tisztaságának sérelme más módon nem orvosolható.
-
-(8) A (7) bekezdéstől eltérően, ha egy részvételre jelentkező, ajánlattevő, alvállalkozó vagy az alkalmasság igazolásában részt vevő szervezet vagy egy ezekkel – közvetve vagy közvetlenül – a 3. § 28. pontjában meghatározott kapcsolatban álló gazdasági szereplő – ide értve az (5) bekezdés b) pontja szerinti személyeket is – részt vett a közbeszerzési eljárás előkészítésében, az ajánlatkérő köteles megfelelő intézkedéseket tenni – különös tekintettel az eljáráshoz kapcsolódó valamennyi releváns információ többi gazdasági szereplővel való közlésére, valamint megfelelő ajánlattételi határidő biztosítására – annak érdekében, hogy az érintett gazdasági szereplő közbeszerzési eljárásban való részvétele ne vezessen a verseny torzításához. Az érintett gazdasági szereplő a 62. § (1) bekezdés m) pontja alapján csak akkor zárható ki az eljárásból, ha az egyenlő bánásmód elvének tiszteletben tartása más módon nem biztosítható. A kizárást megelőzően az ajánlatkérő – hiánypótlás vagy felvilágosítás kérés útján – köteles biztosítani annak lehetőségét, hogy az érintett gazdasági szereplő bizonyítsa, hogy a közbeszerzési eljárás előkészítésében való részvétele az egyenlő bánásmód elvét és a verseny tisztaságát nem sérti, vagy az érintett gazdasági szereplő az összeférhetetlenségi helyzetet más módon elhárítsa. Az összeférhetetlenségi helyzet elhárítása érdekében a gazdasági szereplő által tett intézkedéseket az ajánlatkérő köteles az ajánlatok (részvételi jelentkezések) elbírálásáról szóló összegezésben ismertetni.
-
-(9) A (8) bekezdés alkalmazásában nem eredményezi a verseny tisztaságának sérelmét és nem összeférhetetlen az olyan személy (szervezet) részvétele az eljárásban,
-
-- a) akitől, illetve amelytől az ajánlatkérő az adott közbeszerzéssel kapcsolatos helyzet-, piacfelmérés, illetve a közbeszerzés becsült értékének felmérése érdekében a közbeszerzés megkezdése időpontjának megjelölése nélkül, kizárólag a felmérés érdekében szükséges adatokat közölve kért tájékoztatást,
-- b) aki, illetve amely az ajánlatkérő által folytatott előzetes piaci konzultációban [28. § (4) bekezdése] vett részt,
-- c) akitől, illetve amelytől az ajánlatkérő a támogatásra irányuló igény (pályázat) benyújtásához szükséges árajánlatot kapott,
-
-feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő nem közölt vele a közbeszerzési eljárás során az összes ajánlattevő vagy részvételre jelentkező részére rendelkezésre bocsátott adatok körét meghaladó információt, valamint az ajánlattételi határidő meghatározása biztosítja az egyenlő bánásmód elvének érvényesülését.”
-
-82. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 36. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A közbeszerzésekért vagy az európai uniós források felhasználásáért felelős miniszter az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény (a továbbiakban: Eufetv.) szerint az Integritás Hatóság feladatkörébe tartozó esetekben jogosult – a minősített adat kivételével – az Integritás Hatóságnak átadni az eljárásával érintett közbeszerzés, szerződés, építési vagy szolgáltatási koncesszió, illetve ezek módosításai ellenőrzése révén rendelkezésére álló bármely adatot.”
+#### 82. §
 
 #### 83. §
 
-84. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 55. §-a a következő (8) bekezdéssel egészül ki:
-
-„(8) Ha az Integritás Hatóság a részvételi vagy ajánlattételi határidő leteltét megelőzően függeszti fel a közbeszerzési eljárást, a felfüggesztés időtartama alatt a részvételi vagy az ajánlattételi határidő nem jár le és a felfüggesztés megszűnését követően az ajánlatkérő köteles a határidőt a megfelelő részvételi jelentkezés vagy ajánlat benyújtásához szükséges mértékben meghosszabbítani.”
+#### 84. §
 
 #### 85. §
 
 #### 86. §
 
-87. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 70. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Ha az Integritás Hatóság a részvételi vagy ajánlattételi határidő leteltét megelőzően függeszti fel a közbeszerzési eljárást, a közbeszerzési eljárás felfüggesztésének ideje alatt az ajánlatkérő nem hozhatja meg az eljárás részvételi szakaszát lezáró döntést vagy az eljárást lezáró döntést, valamint az ajánlatkérőre irányadó folyamatban lévő határidők a felfüggesztés időtartamával meghosszabbodnak.”
+#### 87. §
 
 #### 88. §
 
-89. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 152. § (1) bekezdése a következő o) ponttal egészül ki:
+#### 89. §
 
-(A Közbeszerzési Döntőbizottság hivatalból indított eljárását a következő szervezetek vagy személyek kezdeményezhetik, ha a feladatkörük ellátása során a közbeszerzésekről szóló törvénybe, illetve a közbeszerzésekről szóló törvény felhatalmazása alapján alkotott rendeletbe ütköző magatartás vagy mulasztás jut tudomásukra:)
-
-„o) az európai uniós forrásból megvalósuló közbeszerzésekkel összefüggésben az Integritás Hatóság.”
-
-90. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 182. § (2) bekezdése a következő n) ponttal egészül ki:
-
-(A törvény alapelveinek, az egyes közérdekű céloknak, az ajánlatkérők, valamint az ajánlattevők érdekeinek az érvényesítése a Tanácsban a következő személyek feladata:)
-
-„n) az Integritás Hatóság elnöke vagy az általa kijelölt személy.”
+#### 90. §
 
 #### 91. §
 
 92. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény
 
-- a) 46. § (4c) bekezdésében a „szerv, valamint” szövegrész helyébe a „szerv, az Integritás Hatóság, valamint” szöveg,
+- a)
 - b)
 - c)
-- d) 152. § (2) bekezdés nyitó szövegrészében a „m) és n)” szövegrész helyébe a „m)–o)” szöveg,
-- e) 165. § (7c) bekezdésében az „előírása alapján” szövegrész helyébe az „előírása vagy az Integritás Hatóság ajánlása alapján” szöveg,
-- f) 182. § (1) bekezdésében a „tizenhat” szövegrész helyébe a „tizenhét” szöveg,
-- g) 182. § (2) bekezdés m) pontjában a „személy.” szövegrész helyébe a „személy és” szöveg,
-- h) 188. § (1) bekezdésében a „62. § (1) bekezdés” szövegrész helyébe a „62. § (1) bekezdés a) pont aa)–ah) alpontjában,” szöveg
+- d)
+- e)
+- f)
+- g)
+- h)
 
 lép.
 
 #### 36. A közigazgatási perrendtartásról szóló 2017. évi I. törvény módosítása
 
-93. § A közigazgatási perrendtartásról szóló 2017. évi I. törvény 17. §-a a következő g) ponttal egészül ki:
+#### 93. §
 
-(A per megindítására jogosult)
-
-„g) a feladat- és hatáskörében eljáró Integritás Hatóság.”
-
-94. § A közigazgatási perrendtartásról szóló 2017. évi I. törvény 128. § (1) bekezdése a következő c) ponttal egészül ki:
-
-(A mulasztási per megindítására jogosult)
-
-„c) a feladat- és hatáskörében eljáró Integritás Hatóság.”
+#### 94. §
 
 #### 37. A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény módosítása
 
-95. § A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény 2. § (1) bekezdése a következő p) ponttal egészül ki:
+#### 95. §
 
-(E törvény alkalmazásában különleges jogállású szerv:)
-
-„p) az Integritás Hatóság.”
-
-96. § A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény
-
-- a) 2. § (1) bekezdés n) pontjában a „Hivatala és” szövegrész helyébe a „Hivatala,” szöveg,
-- b) 98. § (1) bekezdésében az „Országos Atomenergia Hivatal” szövegrész helyébe az „Országos Atomenergia Hivatal, az Integritás Hatóság” szöveg
-
-lép.
+#### 96. §
