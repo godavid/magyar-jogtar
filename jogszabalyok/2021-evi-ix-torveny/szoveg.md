@@ -220,7 +220,7 @@ A közfeladatot ellátó közérdekű vagyonkezelő alapítványok kiemelkedő t
 
 (2) Az alapítványi vagyonellenőr nem minősül az alapítvány törvény szerinti, illetve annak alapján megbízott tisztségviselőjének és – a 8. § (3) bekezdésében meghatározott kivételekkel – az alapítványi vagyonellenőri tisztség nem összeférhetetlen további munkaviszonnyal, illetve munkavégzésre irányuló más jogviszonnyal, valamint külön törvény szerinti egyéb megbízatással és tisztséggel.
 
-(3) A támogatási jogviszonyban kedvezményezett lehet az olyan alapítvány is, amelyben a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főispán, kormánybiztos, miniszterelnöki megbízott, miniszterelnöki biztos, miniszteri biztos, megyei közgyűlés elnöke, megyei közgyűlés tagja, főpolgármester, polgármester, helyi önkormányzati képviselő, illetve országgyűlési képviselő az alapítvány kuratóriumának vagy felügyelőbizottságának tagja, vagyonellenőre.
+(3) Az alapítvány, illetve az általa létesített vagy fenntartott jogi személyek, beleértve ezek legfőbb szervének és felügyelőbizottságának elnökeit és tagjait, valamint mindezek foglalkoztatottjait, meg kell feleljenek az e bekezdésben rögzített összeférhetetlenségi szabályoknak. Az, aki a feladatai pártatlan, tárgyilagos és elfogulatlan ellátására gazdasági érdeke vagy bármely egyéb közvetlen vagy közvetett személyes érdeke vagy körülménye miatt (ideértve a családi, érzelmi okokat, politikai vagy nemzeti hovatartozást is) nem vagy csak korlátozottan képes, köteles tartózkodni minden olyan tevékenységtől, amely az alapítvány vagy a csatlakozó, vagy mindezek számára közvetlen vagy közvetett módon vagyont juttató érdekeivel ellentétes lehet. Akivel szemben összeférhetetlenség vagy annak a kockázata vagy látszata fennáll, köteles azt a döntéshozatalt megelőzően írásban – vagy előre nem látható körülmények esetén jegyzőkönyvbe rögzítetten szóban – haladéktalanul bejelenteni. Testületi döntéshozatal esetén a testület elnöke vagy tagja a bejelentést a testület felé teszi meg, egyéb esetben a bejelentést a munkáltatói jogok gyakorlója felé kell megtenni. A címzett köteles írásban megerősíteni, hogy az összeférhetetlenség fennállta megállapítást nyert-e. A határozatot az alapítvány a döntést követő egy héten belül, legalább egy évig tartó időtartamra elektronikus úton közzéteszi. Amennyiben az összeférhetetlenség fennállta megállapítást nyert, az alapítvány köteles biztosítani, hogy az érintett személy az alapítványi döntéshozatalban, illetve az alapítvány által létesített vagy fenntartott jogi személy döntéshozatalában nem vehet részt.
 
 ### III. Fejezet — AZ ALAPÍTVÁNY ÁLTAL ELLÁTOTT KÖZFELADAT
 
@@ -386,13 +386,15 @@ biztosítja az alapítványnak.
 
 31/A. § E törvénynek az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvénnyel módosított 6. § (1) bekezdésében foglalt előírásokat az 1. melléklet szerinti alapítványoknak legkésőbb 2021. december 31. napjáig kell teljesíteni.
 
+31/B. § E törvénynek az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, a közfeladatot ellátó közérdekű vagyonkezelő alapítványokat, a Nemzeti Adó- és Vámhivatalt, valamint az Európai Csalásellenes Hivatal ellenőrzéseit érintő törvények módosításáról szóló 2022. évi XXIX. törvénnyel (a továbbiakban: Módtv.) megállapított 15. § (3) bekezdésének megfelelő alapító okirat módosításokat 2022. december 31. napjáig kell benyújtani azzal, hogy a Módtv.-nyel megállapított 15. § (3) bekezdése szerinti bejelentést a Módtv. hatálybalépésétől meg kell tenni.
+
 32. § (1) E törvény az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvény 12. § (2) bekezdése és a 13. § (9) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (3) E törvény 13. § (10) bekezdése az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül.
 
-33. §
+#### 33. §
 
 ### 1. melléklet a 2021. évi IX. törvényhez
 

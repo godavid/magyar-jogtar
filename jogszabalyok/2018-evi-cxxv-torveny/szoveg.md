@@ -130,8 +130,9 @@ Az Országgyűlés a korszerű és hatékony kormányzati igazgatási szervezetr
 
 - a) a Miniszterelnöki Kormányiroda és a minisztérium közigazgatási államtitkára,
 - b) a Miniszterelnöki Kormányiroda és a minisztérium helyettes államtitkára,
-- c) a kormányzati főhivatal és a központi hivatal vezetője és vezetőjének helyettese és
-- d) a kormányhivatal főigazgatója (a továbbiakban: főigazgató).
+- c) a kormányzati főhivatal és a központi hivatal vezetője és vezetőjének helyettese,
+- d) a kormányhivatal főigazgatója (a továbbiakban: főigazgató) és
+- e) a Belső Ellenőrzési és Integritási Igazgatóság vezetője.
 
 (8) Szakmai vezető:
 
@@ -406,7 +407,7 @@ helyettesíti.
 
 (1) A minisztériumban az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására helyettes államtitkár működik.
 
-(2) Az (1) bekezdés szerinti helyettes államtitkár hatáskörébe – a Technikai Segítségnyújtás keret felhasználásáért felelős Végrehajtás Operatív Program, valamint a Belügyi Alapok 2021–2027 (Belső Biztonsági Alap, Határigazgatási és Vízumpolitikai Eszköz és a Menekültügyi, Migrációs és Integrációs Alap) programjai kivételével – az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatokon kívül más szakmai feladat nem utalható.
+(2) Az (1) bekezdés szerinti helyettes államtitkár hatáskörébe – a Technikai Segítségnyújtás keret felhasználásáért felelős Végrehajtás Operatív Program, valamint a Belügyi Alapok 2021–2027 (Belső Biztonsági Alap, Határigazgatási és Vízumpolitikai Eszköz és a Menekültügyi, Migrációs és Integrációs Alap) programjai kivételével – az európai uniós források felhasználásával kapcsolatos irányító hatósági, valamint a Helyreállítási és Ellenállóképességi Terv megvalósításakor a Magyarország részére nyújtott források felhasználásával kapcsolatos feladatokon kívül más szakmai feladat nem utalható.
 
 (3) Az (1) bekezdés szerinti helyettes államtitkár tevékenységét a minisztérium szervezeti és működési szabályzata szerint a miniszter, az államtitkár vagy a közigazgatási államtitkár irányítja. Az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok tekintetében az (1) bekezdés szerinti helyettes államtitkár nem utasítható.
 
@@ -447,6 +448,28 @@ helyettesíti.
 (5) A Politikai Igazgatói Irodán helyettes államtitkár működhet, akinek a tevékenységét a miniszterelnök politikai igazgatója irányítja. A Politikai Igazgatói Iroda e törvény keretei között – az általános politikai koordinációért felelős miniszter által vezetett minisztérium szervezeti és működési szabályzatában meghatározottak szerint – főosztályokra és osztályokra tagozódik.
 
 (6) A politikai igazgatói kabinet és a (2) bekezdés szerinti titkárság kormánytisztviselői, munkavállalói és szakmai vezetői felett a munkáltatói jogokat a miniszterelnök politikai igazgatója gyakorolja. A Politikai Igazgatói Iroda kormánytisztviselői, munkavállalói és szakmai vezetői felett az alapvető munkáltatói jogokat a miniszterelnök politikai igazgatója, az egyéb munkáltatói jogokat a Politikai Igazgatói Irodán működő helyettes államtitkár gyakorolja.
+
+#### 29/B. § [A Belső Ellenőrzési és Integritási Igazgatóság]
+
+(1) Az európai uniós források felhasználásáért felelős miniszter munkaszervezetében (a továbbiakban e § alkalmazásában: minisztérium) – a 28. § (1) bekezdésében meghatározottaktól eltérő szervezeti egységként – Belső Ellenőrzési és Integritási Igazgatóság (a továbbiakban e § alkalmazásában: Igazgatóság) működik.
+
+(2) Az Igazgatóság szervezetébe az igazgató titkársága, valamint a minisztérium szervezeti és működési szabályzatában (a továbbiakban e § alkalmazásában: szervezeti és működési szabályzat) kijelölt önálló szervezeti egységek tartoznak.
+
+(3) Az Igazgatóságot igazgató (a továbbiakban e § alkalmazásában: igazgató) vezeti. Az igazgató az európai uniós források felhasználásának ellenőrzésével kapcsolatosan jogszabályokban meghatározott feladatokat látja el az Igazgatóság közreműködésével.
+
+(4) Az igazgatót a szervezeti és működési szabályzatban kijelölt, az igazgató irányítása alá tartozó főosztályvezető vagy osztályvezető helyettesíti.
+
+(5) Az igazgató tevékenységét a szervezeti és működési szabályzat szerint az európai uniós források felhasználásáért felelős miniszter, a minisztérium államtitkára vagy közigazgatási államtitkára irányítja. Az európai uniós források felhasználásával kapcsolatos feladatok tekintetében az igazgató nem utasítható.
+
+(6) Az Igazgatóság szervezetében foglalkoztatott kormánytisztviselők és munkavállalók kiválasztása az Integritás Hatóság által jóváhagyott objektív szempontrendszer alapján, pályázati eljárás keretében történik. Az Integritás Hatóság ellenőrizheti az Igazgatóság kormánytisztviselőinek és munkavállalóinak kiválasztását és a pályázati eljárás szabálytalansága esetén új eljárás lefolytatását kezdeményezheti az igazgatónál.
+
+(7) Az Igazgatóság szervezetében foglalkoztatott kormánytisztviselőt az igazgató javaslatára a minisztérium közigazgatási államtitkára nevezi ki és menti fel. A munkaviszony létesítése és megszüntetése során a munkáltatói jogkör gyakorlójaként az Igazgatóság szervezetében foglalkoztatott munkavállaló tekintetében a minisztérium közigazgatási államtitkára jár el.
+
+(8) Az Igazgatóság szervezetében foglalkoztatott kormánytisztviselő és munkavállaló felett a munkáltatói jogot – a (7) bekezdésben meghatározott kivétellel – az igazgató gyakorolja.
+
+(9) Az Igazgatóság működését és eljárásait az igazgató által kiadott és az európai uniós források felhasználásáért felelős miniszter által jóváhagyott ügyrend szabályozza. Az Integritás Hatóság ellenőrizheti az ügyrend végrehajtását.
+
+(10) Az igazgató az Igazgatóság tevékenységéről éves jelentésben tájékoztatja az Integritás Hatóságot.
 
 #### 30. § [A munkacsoport]
 
@@ -1703,7 +1726,7 @@ A kormánytisztviselőre vonatkozó hivatásetikai alapelvek különösen az elk
 
 (11) Nem keletkeztet összeférhetetlenséget az olyan állami befolyás gyakorlása következtében gazdasági társaságban vagy más szervezetben keletkező vezető tisztségviselői, illetve felügyelőbizottsági, auditbizottsági tagság, amelynek alapja az államháztartás, illetve a pénzügyi közvetítőrendszer stabilitásának erősítése érdekében hozott állami intézkedés, különös tekintettel az állami tőkeemelésre, kölcsönnyújtásra, kezesség-, illetve garanciavállalásra.
 
-(11a) Nem keletkeztet összeférhetetlenséget a közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumában, felügyelőbizottságában betöltött tagság, valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítványban betöltött vagyonellenőri tisztség.
+(11a) Nem keletkeztet összeférhetetlenséget a közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumában, felügyelőbizottságában betöltött tagság, valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítványban betöltött vagyonellenőri tisztség azzal, hogy az érintett nem vehet részt olyan döntéshozatalban, illetve nem végezhet olyan tevékenységet, amelyet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdése tilt.
 
 (12) Nem keletkeztet összeférhetetlenséget a nemzetközi közigazgatási szakértői tevékenység, ha a kormánytisztviselő és a digitális megoldások exportjával és programjának fejlesztésével összefüggő feladatok koordinációját ellátó szervezet közötti, erre irányuló megállapodást a munkáltatói jogkör gyakorlója előzetesen engedélyezi és a tevékenység időtartama tárgyévenként a hat hónapot nem haladja meg.
 
@@ -3571,7 +3594,7 @@ együttesen kell tárolni (a továbbiakban együtt: személyi anyag).
 
 (3) Az (1) bekezdésben foglalt összeférhetetlenségi okokat az országgyűlési képviselői megbízatással nem rendelkező államtitkár vagy miniszterelnök politikai igazgatója vonatkozásában a Magyar Nemzeti Bank felügyelőbizottságának tagjaira, a Nemzeti Vagyongazdálkodási Tanács tagjaira, az Országos Betétbiztosítási Alap igazgatótanácsának tagjaira, a Szanálási Alap igazgatótanácsának tagjaira, a Likviditási Bizottság és a Fenntartható Gazdaságfehéredésért Felelős Bizottság tagjaira, a közvetlen vagy közvetett többségi állami tulajdonban lévő befektetési alapkezelő irányító testületének, illetve felügyeleti feladatokat ellátó irányító testületének tagjaira, valamint az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság, a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság és a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság igazgatóságának, illetve felügyelőbizottságának tagjaira, továbbá a Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnökére vagy tagjaira és a START Garancia Pénzügyi Szolgáltató Zártkörűen Működő Részvénytársaság igazgatóságának vagy felügyelőbizottságának tagjaira nem kell alkalmazni.
 
-(3a) Az (1) bekezdésben foglalt összeférhetetlenségi okokat közfeladatot ellátó közérdekű vagyonkezelő alapítvány, illetve közérdekű vagyonkezelő alapítvány kuratóriumának vagy felügyelőbizottságának tagjaira, valamint azon társaság felügyelő bizottsági és audit bizottsági tagjaira, mely társaságban a közfeladatot ellátó közérdekű vagyonkezelő alapítvány közvetlen vagy közvetett befolyásának mértéke – a tőkepiacról szóló 2001. évi CXX. törvény rendelkezései alapján számítva – legalább tíz százalék, illetve a közfeladatot ellátó közérdekű vagyonkezelő alapítványban vagyonellenőri tisztséget betöltőkre nem kell alkalmazni.
+(3a)
 
 (4) Ha az összeférhetetlenségi eljárás ideje alatt a politikai felsővezető a vele szemben fennálló összeférhetetlenségi okot megszünteti, a miniszterelnök esetében az összeférhetetlenség nem mondható ki, a miniszter, a miniszterelnök politikai igazgatója és az államtitkár esetében a felmentést mellőzni kell.
 
@@ -4161,7 +4184,7 @@ A közigazgatási államtitkár és a helyettes államtitkár kormányzati szolg
 
 (2) Nem keletkeztet összeférhetetlenséget, ha a közigazgatási államtitkár, illetve a helyettes államtitkár a Magyar Nemzeti Bank felügyelőbizottságának tagja, a Nemzeti Vagyongazdálkodási Tanács tagja, továbbá a Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnöke vagy tagja.
 
-(2a) Nem keletkeztet összeférhetetlenséget a közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumában, felügyelőbizottságában betöltött tagság, valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítványban betöltött vagyonellenőri tisztség.
+(2a) Nem keletkeztet összeférhetetlenséget a közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumában, felügyelőbizottságában betöltött tagság, valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítványban betöltött vagyonellenőri tisztség azzal, hogy az érintett nem vehet részt olyan döntéshozatalban, illetve nem végezhet olyan tevékenységet, amelyet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdése tilt.
 
 (3) Ha az összeférhetetlenségi eljárás ideje alatt a közigazgatási államtitkár, illetve a helyettes államtitkár a vele szemben fennálló összeférhetetlenségi okot megszünteti, az összeférhetetlenség megállapítását mellőzni kell.
 
@@ -4303,6 +4326,26 @@ Ha a helyettes államtitkár az összeférhetetlenségét a kinevezésétől sz�
 (3) Nem kell alkalmazni a (2) bekezdést, ha a helyettes államtitkár a kinevezésekor betöltötte az öregségi nyugdíjkorhatárt, és rendelkezett az öregségi teljes nyugdíjhoz szükséges szolgálati idővel.
 
 (4) A helyettes államtitkárnak a (2) bekezdés szerinti kezdeményezésre történő felmentése esetén a 233. § (2) és (3) bekezdését nem kell alkalmazni.
+
+#### 240/A. § [A Belső Ellenőrzési és Integritási Igazgatóságot vezető igazgatóra vonatkozó szabályok]
+
+(1) A Belső Ellenőrzési és Integritási Igazgatóság vezetőjére (a továbbiakban e § alkalmazásában: igazgató) – a 29/B. §-ban és a (2)–(7) bekezdésben meghatározott eltérésekkel – a helyettes államtitkárra vonatkozó szabályokat kell alkalmazni.
+
+(2) Az igazgatót az európai uniós források felhasználásáért felelős miniszter javaslatára a miniszterelnök négy évre nevezi ki. Az európai uniós források felhasználásáért felelős miniszter a javaslatának megtétele előtt kikéri az Integritás Hatóság elnökének véleményét, amiről a javaslattétel során tájékoztatja a miniszterelnököt.
+
+(3) Igazgatónak kinevezhető a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban álló vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszonyban álló, a 29/B. § (1) bekezdése szerinti minisztériumba vezényelt személy is azzal, hogy ebben az esetben nem kell teljesülnie a 3. § (6) bekezdés a) pontjában meghatározott feltételnek.
+
+(4) Az igazgató jogviszonya a (2) bekezdés szerinti időtartam alatt felmentéssel nem szüntethető meg, kivéve, ha
+
+- a) az igazgató egészségügyi okból legalább 90 egybefüggő napon keresztül feladatai ellátására alkalmatlan,
+- b) az igazgató nem felel meg a kinevezési feltételeknek, vagy
+- c) a 240. § (2) bekezdésében meghatározott feltétel fennáll és a 240. § (3) bekezdése nem alkalmazható.
+
+(5) A (4) bekezdésben meghatározott feltétel fennállása esetén az igazgatót az európai uniós források felhasználásáért felelős miniszter javaslatára a miniszterelnök menti fel. Az európai uniós források felhasználásáért felelős miniszter a javaslatának megtétele előtt kikéri az Integritás Hatóság elnökének véleményét, amiről a javaslattétel során tájékoztatja a miniszterelnököt.
+
+(6) Az igazgató az európai támogatásokat auditáló szerv vezetőjének illetményével azonos összegű illetményre és helyettes államtitkári juttatásokra jogosult.
+
+(7) Az igazgató jogviszonyával kapcsolatosan a munkáltatói jogkört – a kinevezés és a felmentés kivételével – az európai uniós források felhasználásáért felelős miniszter gyakorolja azzal, hogy a 29/B. § (2) bekezdése szerinti szervezeti és működési szabályzat egyes munkáltatói jogkörök vonatkozásában ettől eltérően is rendelkezhet.
 
 #### 241. § [A kormányzati főhivatal vezetője és helyettese]
 
@@ -4602,6 +4645,13 @@ illetménynek megfelelő összeg.
 (7) A munkaviszonyt létesíteni szándékozó személy hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű, nem áll a (6) bekezdésben meghatározott büntetőeljárás hatálya alatt, továbbá, hogy nem áll olyan foglalkozástól eltiltás hatálya alatt, amely a munkaviszonya létesítését nem teszi lehetővé. A hatósági bizonyítvánnyal történő igazolásra a 84. §-ban foglaltakat alkalmazni kell.
 
 (8) A kormányzati igazgatási szerv a munkaviszonyból származó jogok és kötelezettségek teljesítése érdekében munkaügyi nyilvántartást vezet. A nyilvántartás adattartalma – a kizárólag a kormánytisztviselők esetében releváns adatok kivételével – megegyezik a kormánytisztviselők 3. melléklet szerinti közszolgálati alapnyilvántartásának adataival. A munkaügyi nyilvántartásra egyebekben a közszolgálati alapnyilvántartásra vonatkozó szabályokat kell alkalmazni, azzal, hogy a kormányzati igazgatási szerv a munkaügyi nyilvántartásban szereplő adatokat a munkaviszony megszűnését vagy megszüntetését követő 15 évig kezeli.
+
+#### 279/A. § [A Belső Ellenőrzési és Integritási Igazgatóság munkavállalóira vonatkozó eltérő szabályok]
+
+A Belső Ellenőrzési és Integritási Igazgatóság szervezetében foglalkoztatott munkavállalóra a 278. és 279. §-ban foglaltakat – a 29/B. §-ban meghatározottakon túl – azzal az eltéréssel kell alkalmazni, hogy
+
+- a) a munkaviszony létesítésének feltétele – a 279. § (6) bekezdésben foglaltakon túl – a magyar állampolgárság,
+- b) a Belső Ellenőrzési és Integritási Igazgatóság szervezetében foglalkoztatott munkavállalók által betöltött álláshelyeket a 279. § (4) bekezdése alkalmazásakor nem kell figyelembe venni, és a munkavállalók a 279. § (5) bekezdése szerinti mentesítés nélkül foglalkoztathatók a Belső Ellenőrzési és Integritási Igazgatóság szervezetében.
 
 ## TIZEDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -4960,7 +5010,17 @@ az irányadóak.
 
 (6) Ahol jogszabály kormányzati főhivatal vagy központi hivatal vezetőjének illetménye tekintetében az államtitkárra vonatkozó szabályokat rendeli alkalmazni, a 244. § (1) bekezdésében, illetve a 247. § (1) bekezdésében foglaltakat kell irányadónak tekinteni.
 
-#### 292. §
+#### 292. § [Átmeneti rendelkezés az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes törvények módosításáról szóló 2022. évi XXVIII. törvényhez]
+
+(1) Az európai uniós források felhasználásáért felelős miniszter az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes törvények módosításáról szóló 2022. évi XXVIII. törvény hatálybalépésének napjától köteles gondoskodni a Belső Ellenőrzési és Integritási Igazgatóság működéséről.
+
+(2) A Belső Ellenőrzési és Integritási Igazgatóság vezetését 2022. december 31-ig megbízott igazgató látja el. A megbízott igazgatóra a 29/B. §-t és a 240/A. §-t alkalmazni kell azzal az eltéréssel, hogy
+
+- a) a megbízott igazgató megbízás alapján látja el feladat- és hatáskörét,
+- b) a megbízott igazgató megbízásához és a megbízásának visszavonásához nem kell az Integritás Hatóság elnökének véleményét kikérni,
+- c) a megbízott igazgató esetében a 240/A. § (4) és (5) bekezdése alkalmazásában felmentés alatt a megbízás visszavonását kell érteni.
+
+(3) A 29/B. § (6) bekezdése szerinti szempontoknak az Integritás Hatóság általi jóváhagyását követő 60. napig kormányzati érdekből történő kirendelés útján, illetve az európai uniós források felhasználásáért felelős miniszter munkaszervezetében más feladatkörben vagy munkakörben foglalkoztatott kormánytisztviselő vagy munkavállaló igénybevételével is megszervezhető a Belső Ellenőrzési és Integritási Igazgatóság feladatainak ellátása. A kormányzati érdekből történő kirendelésről – a 100. §-ban foglaltaktól eltérően – a Belső Ellenőrzési és Integritási Igazgatóság megbízott igazgatójának javaslatára az európai uniós források felhasználásáért felelős miniszter dönt.
 
 #### 293. §
 
@@ -5095,7 +5155,7 @@ E törvénynek a Magyarország 2021. évi központi költségvetésének megalap
 
 (4) A 320. § (1) bekezdése az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
 
-(5) A 95. § (11a) bekezdése, a 182. § (3a) bekezdése és a 225. § (2a) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+(5) A 95. § (11a) bekezdése és a 225. § (2a) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 #### 333. § [Az Európai Unió jogi aktusainak való megfelelés]
 

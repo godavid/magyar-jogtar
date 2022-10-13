@@ -1224,7 +1224,7 @@ megegyező mértékben csökkentheti.
 
 (2) A képviselő miniszterelnöki, miniszteri, a miniszterelnök politikai igazgatója, államtitkári, kormánybiztosi, miniszterelnöki biztosi, miniszterelnöki megbízotti vagy miniszteri biztosi tisztséget láthat el, illetve az Országgyűlés tisztségviselője lehet.
 
-(2a) A képviselő közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumában és felügyelőbizottságában tag lehet, valamint közfeladatot ellátó közérdekű vagyonkezelő alapítványban vagyonellenőri tisztséget betölthet.
+(2a) A képviselő közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumában és felügyelőbizottságában tag lehet, valamint közfeladatot ellátó közérdekű vagyonkezelő alapítványban vagyonellenőri tisztséget betölthet azzal, hogy a képviselő nem vehet részt olyan döntéshozatalban, illetve nem végezhet olyan tevékenységet, amelyet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdése tilt.
 
 (2b) A képviselő a Kormány szakmai véleményező és javaslattevő – döntési joggal is rendelkező – testületében tag lehet és tisztséget láthat el.
 
