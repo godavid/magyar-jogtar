@@ -407,6 +407,8 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 (1a) Nem minősül összeférhetetlenségi oknak, ha az önkormányzati képviselő, valamint a képviselő-testület bizottságának nem képviselő tagja – a polgármester és az alpolgármester kivételével – önkéntes tartalékos szolgálati viszonyt létesít, illetve tart fenn.
 
+(1b) Az (1) bekezdés a) pont aa) alpontját a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdésével összhangban akként kell alkalmazni, hogy az érintett nem vehet részt olyan döntéshozatalban, illetve nem végezhet olyan tevékenységet, amelyet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdése tilt.
+
 (2) A települési önkormányzati képviselő nem lehet a megyei közgyűlés elnöke, alelnöke, főpolgármester, főpolgármester-helyettes.
 
 (3) Fővárosi kerületi önkormányzati képviselő csak akkor lehet egyidejűleg a fővárosi közgyűlésnek a fővárosi kompenzációs listáról mandátumot szerzett tagja is, ha a kerületi önkormányzati képviselői mandátumát egyéni választókerületben szerezte.
@@ -763,7 +765,7 @@ az ellátásukhoz szükséges költségvetési támogatást a központi költsé
 
 kivételével más kereső foglalkozást nem folytathat, egyéb tevékenységéért díjazást nem fogadhat el és nem lehet gazdasági társaság személyesen közreműködő tagja.
 
-(3)
+(3) A (2) bekezdés a) pontját a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdésével összhangban akként kell alkalmazni, hogy az érintett nem vehet részt olyan döntéshozatalban, illetve nem végezhet olyan tevékenységet, amelyet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdése tilt.
 
 (4) A polgármesterre megfelelően alkalmazni kell az önkormányzati képviselőre vonatkozó összeférhetetlenségi, méltatlansági, vagyonnyilatkozat-tételi szabályokat azzal, hogy a polgármester nem lehet más önkormányzatnál polgármester, alpolgármester, települési önkormányzati képviselő, megyei közgyűlés elnöke, alelnöke, kivéve, hogy a fővárosi kerületi polgármester a fővárosi közgyűlés tagja. A fővárosi kerületi polgármester nem lehet főpolgármester, valamint főpolgármester-helyettes.
 
@@ -1514,7 +1516,9 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 (4) Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy rendeletben határozza meg:
 
-- a)–c)
+- a)
+- b)
+- c)
 - d) az öngondoskodás és a közösségi feladatok ellátásához való hozzájárulás, továbbá a közösségi együttélés alapvető szabályait, valamint ezek elmulasztásának jogkövetkezményeit;
 - e)
 - f) az önkormányzati képviselőnek, a bizottsági elnöknek és tagnak, továbbá a tanácsnoknak járó tiszteletdíjat és természetbeni juttatást;
@@ -1541,11 +1545,13 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 (2) E törvény 42. § 16. és 17. pontja, 108. §-a, valamint 143. § (1) bekezdésének f) pontja az Alaptörvény 38. cikk (1) bekezdése alapján is sarkalatosnak minősül.
 
-(3) A 27. § (4) bekezdése, a 36. § (1) bekezdés a) pont aa) alpontja és a 72. § (2) bekezdés a) pontja az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+(3) A 27. § (4) bekezdése, a 36. § (1) bekezdés a) pont aa) alpontja és (1b) bekezdése, valamint a 72. § (2) bekezdés a) pontja és (3) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### Átmeneti rendelkezések
 
-146. § (1)–(2)
+146. § (1)
+
+(2)
 
 (3) A 11. § (2) bekezdés b) pontja, 90. § (2) bekezdése, 98. § (8) és (11) bekezdése alkalmazása során a költségvetési törvényben meghatározott lakosságszám az irányadó, egyéb esetekben a helyi önkormányzati képviselők és polgármesterek választásáról szóló törvényben meghatározott lakosságszámot és időpontot kell figyelembe venni.
 
@@ -1592,7 +1598,19 @@ E napirend tárgyalására meg kell hívni az érintett helyi önkormányzat pol
 
 ### Módosító rendelkezések
 
-#### 147–153. §
+#### 147. §
+
+#### 148. §
+
+#### 149. §
+
+#### 150. §
+
+#### 151. §
+
+#### 152. §
+
+#### 153. §
 
 #### 154. §
 

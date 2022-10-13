@@ -674,17 +674,17 @@ az adatkezelő vagy tevékenysége keretei között az adatfeldolgozó – a (2)
 
 (2a) Ha az igénylés olyan adatra vonatkozik, amelyet az Európai Unió valamely intézménye vagy tagállama állított elő, az adatkezelő haladéktalanul megkeresi az Európai Unió érintett intézményét vagy tagállamát és erről az igénylőt tájékoztatja. A tájékoztatás megtételétől az Európai Unió érintett intézménye vagy tagállama válaszának az adatkezelőhöz való beérkezéséig terjedő időtartam az adatigénylés teljesítésére rendelkezésre álló határidőbe nem számít bele.
 
-(3) Az adatokat tartalmazó dokumentumról vagy dokumentumrészről, annak tárolási módjától függetlenül az igénylő másolatot kaphat. Az adatot kezelő közfeladatot ellátó szerv az adatigénylés teljesítéséért – az azzal kapcsolatban felmerült költség mértékéig terjedően – költségtérítést állapíthat meg, amelynek összegéről az igénylőt az igény teljesítését megelőzően tájékoztatni kell.
+(3) Az adatokat tartalmazó dokumentumról vagy dokumentumrészről, annak tárolási módjától függetlenül az igénylő másolatot kaphat. Az adatot kezelő közfeladatot ellátó szerv az adatigénylés teljesítéséért – az azzal kapcsolatban felmerült költség mértékéig terjedően – költségtérítést állapíthat meg akkor, ha a felmerült költség mértéke meghaladja a kormányrendeletben meghatározott, költségtérítésként megállapítható legalacsonyabb összeget, azzal, hogy az így meghatározott költségtérítés összege ekkor sem haladhatja meg a kormányrendeletben meghatározott legmagasabb összeget. A költségtérítés összegéről, valamint az adatigénylés teljesítésének a másolatkészítést nem igénylő lehetőségeiről az igénylőt az igény beérkezését követő 15 napon belül tájékoztatni kell.
 
 (3a) Az igénylő a (3) bekezdés alapján kapott tájékoztatás kézhezvételét követő 30 napon belül nyilatkozik arról, hogy az igénylését fenntartja-e. A tájékoztatás megtételétől az igénylő nyilatkozatának az adatkezelőhöz való beérkezéséig terjedő időtartam az adatigénylés teljesítésére rendelkezésre álló határidőbe nem számít bele. Ha az igénylő az igényét fenntartja, a költségtérítést az adatkezelő által megállapított, legalább 15 napos határidőben köteles az adatkezelő részére megfizetni.
 
-(4) Ha az adatigénylés teljesítése a közfeladatot ellátó szerv alaptevékenységének ellátásához szükséges munkaerőforrás aránytalan mértékű igénybevételével jár, vagy az a dokumentum vagy dokumentumrész, amelyről az igénylő másolatot igényelt, jelentős terjedelmű, illetve a költségtérítés mértéke meghaladja a kormányrendeletben meghatározott összeget, az adatigénylést a költségtérítésnek az igénylő általi megfizetését követő 15 napon belül kell teljesíteni. Arról, hogy az adatigénylés teljesítése a közfeladatot ellátó szerv alaptevékenységének ellátásához szükséges munkaerőforrás aránytalan mértékű igénybevételével jár, illetve a másolatként igényelt dokumentum vagy dokumentumrész jelentős terjedelmű, továbbá a költségtérítés mértékéről, valamint az adatigénylés teljesítésének a másolatkészítést nem igénylő lehetőségeiről az igénylőt az igény beérkezését követő 15 napon belül tájékoztatni kell.
+(4) Ha az adatot kezelő közfeladatot ellátó szerv a (3) bekezdés szerint költségtérítést állapít meg, az adatigénylést a költségtérítésnek az igénylő általi megfizetését követő 15 napon belül kell teljesíteni.
 
 (5) A költségtérítés mértékének meghatározása során az alábbi költségelemek vehetők figyelembe:
 
-- a) az igényelt adatokat tartalmazó adathordozó költsége,
-- b) az igényelt adatokat tartalmazó adathordozó az igénylő részére történő kézbesítésének költsége, valamint
-- c) ha az adatigénylés teljesítése a közfeladatot ellátó szerv alaptevékenységének ellátásához szükséges munkaerőforrás aránytalan mértékű igénybevételével jár, az adatigénylés teljesítésével összefüggő munkaerő-ráfordítás költsége.
+- a) az igényelt adatokat tartalmazó adathordozó költsége, valamint,
+- b) az igényelt adatokat tartalmazó adathordozó az igénylő részére történő kézbesítésének költsége
+- c)
 
 (6) Az (5) bekezdésben meghatározott költségelemek megállapítható mértékét jogszabály határozza meg.
 
@@ -1520,7 +1520,7 @@ az e fejezetben meghatározott eltérésekkel kell alkalmazni.
 72. § (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
 - a) állapítsa meg a közérdekű adatok elektronikus közzétételének részletszabályait,
-- b) állapítsa meg a közérdekű adat iránti igény teljesítéséért fizetendő költségtérítés megállapítható mértékét és a 29. § (4) bekezdése szerinti összeghatárt,
+- b) – a Hatóság véleményének kikérésével – állapítsa meg a közérdekű adat iránti igény teljesítéséért fizetendő költségtérítés megállapítható mértékét és a 29. § (3) bekezdése szerinti összeghatárokat,
 - c) különös közzétételi listát állapíthasson meg,
 - d) állapítsa meg az egységes közadatkereső rendszer és a központi jegyzék adattartalmát, valamint az adatintegrációra vonatkozó szabályokat,
 - e) – a Hatóság véleményének kikérésével – állapítsa meg a nemzetbiztonsági szolgálatok által közzéteendő adatok körét.
