@@ -163,7 +163,7 @@ kapcsán megvalósuló büntetlen előélet;
 - 79. nagykockázat:
   - a) az 1. melléklet A) rész 4–7., valamint 11. és 12. pontjában meghatározott ágazatba besorolt kockázatok, amennyiben a biztosítási összeg meghaladja az 500 millió forintot;
   - b) az 1. melléklet A) rész 14. és 15. pontjában meghatározott ágazatba besorolt kockázatok, ha a szerződő szakmája szerint ipari vagy kereskedelmi tevékenységet végez vagy szellemi szabadfoglalkozású és a kockázatok ehhez a tevékenységhez kapcsolódnak, valamint amennyiben a biztosítási összeg meghaladja az 200 millió forintot;
-  - c) az 1. melléklet A) rész 3., 8–10., 13. és 16. pontjában meghatározott ágazatba besorolt kockázatok, ha a szerződő a következő feltételek határértékei közül legalább kettőt túllép: ca) a 6,2 millió euró összegű mérlegfőösszeg, cb) a 12,8 millió euró összegű nettó árbevétel, cc) a pénzügyi év során az átlagos alkalmazotti létszáma eléri vagy meghaladja a 250 főt;
+  - c) az 1. melléklet A) rész 3., 8–10., 13. és 16. pontjában meghatározott ágazatba besorolt kockázatok, ha a szerződő a következő feltételek határértékei közül legalább kettőt túllép: ca) a 6,6 millió euró összegű mérlegfőösszeg, cb) a 13,6 millió euró összegű nettó árbevétel, cc) a pénzügyi év során az átlagos alkalmazotti létszáma eléri vagy meghaladja a 250 főt;
 - 80. Nemzeti Iroda: a Gfbt.-ben meghatározott fogalom;
 - 81. passzív viszontbiztosítás: viszontbiztosítási szerződés alapján a biztosító egyes kockázatainak egy viszontbiztosítónak vagy biztosítónak történő átadása;
 - 82. pénzügyi szervezet: a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 39. § (1) bekezdés a), c), f), h), valamint k)–m) pontjában meghatározott törvények hatálya alá tartozó szervezet;
@@ -1332,9 +1332,9 @@ kapcsolatos, a biztosítók és a viszontbiztosítók szavatolótőkéjéről é
 
 (2) Ha az (1) bekezdésben meghatározott összeg alacsonyabb, mint az a)–c) pontban meghatározott összegek, akkor minimális tőkeszükséglet abszolút alsó korlátja:
 
-- a) nem-életbiztosítási ágat művelő biztosító esetén: 2 500 000 euró, azonban az 1. melléklet A) rész 10–15. pontban meghatározott ágazatok bármelyikének művelésére vonatkozó engedéllyel rendelkező biztosító esetén 3 700 000 euró,
-- b) életbiztosítási ágat művelő biztosító esetén 3 700 000 euró,
-- c) viszontbiztosítást művelő biztosító esetén 3 600 000 euró, kivéve a zárt viszontbiztosítót, amelynek minimális tőkeszükséglete nem lehet kisebb, mint 1 200 000 euró.
+- a) nem-életbiztosítási ágat művelő biztosító esetén: 2 700 000 euró, azonban az 1. melléklet A) rész 10–15. pontban meghatározott ágazatok bármelyikének művelésére vonatkozó engedéllyel rendelkező biztosító esetén 4 000 000 euró,
+- b) életbiztosítási ágat művelő biztosító esetén 4 000 000 euró,
+- c) viszontbiztosítást művelő biztosító esetén 3 900 000 euró, kivéve a zárt viszontbiztosítót, amelynek minimális tőkeszükséglete nem lehet kisebb, mint 1 300 000 euró.
 
 (3) A biztosítási áganként meghatározott minimális tőkeszükségletek – ideértve a minimális tőkeszükséglet abszolút alsó korlátjára vonatkozó összegeket is – összeadódnak, ha a biztosító az élet- és nem-életbiztosítási ág együttes művelésére vonatkozó engedéllyel rendelkezik.
 
@@ -2711,12 +2711,12 @@ kell fordítani.
 
 204. § (1) E részben meghatározott szabályok arra a biztosítóra terjednek ki, amely megfelel a következő feltételek mindegyikének:
 
-- a) a biztosító éves bruttó díjbevétele nem haladja meg az ötmillió eurót;
-- b) a biztosítónak a viszontbiztosítási szerződésekből és a különleges célú gazdasági egységektől megtérülő összegekkel együtt számított bruttó biztosítástechnikai tartalékai nem haladják meg a huszonöt millió eurót, továbbá csoporthoz tartozó biztosító esetén a csoport viszontbiztosítási szerződésekből és a különleges célú gazdasági egységektől megtérülő összegekkel együtt számított bruttó biztosítástechnikai tartalékai nem haladják meg a huszonöt millió eurót;
+- a) a biztosító éves bruttó díjbevétele nem haladja meg az ötmillió-négyszázezer eurót;
+- b) a biztosítónak a viszontbiztosítási szerződésekből és a különleges célú gazdasági egységektől megtérülő összegekkel együtt számított bruttó biztosítástechnikai tartalékai nem haladják meg a huszonhatmillió-hatszázezer eurót, továbbá csoporthoz tartozó biztosító esetén a csoport viszontbiztosítási szerződésekből és a különleges célú gazdasági egységektől megtérülő összegekkel együtt számított bruttó biztosítástechnikai tartalékai nem haladják meg a huszonhatmillió-hatszázezer eurót;
 - c) a biztosító nem folytat felelősség-, hitel- és kezesi biztosítási kockázatokat fedező biztosítási tevékenységet, kivéve, ha azok a 47. §-ban meghatározottak szerint kiegészítő kockázatnak minősülnek;
 - d) a biztosító üzleti tevékenysége nem terjed ki
-  - da) a félmillió eurós éves bruttó díjbevételt meghaladó,
-  - db) a viszontbiztosítási szerződések alapján és a különleges célú gazdasági egységektől megtérülő összegekkel együtt számított két és fél millió euró bruttó biztosítástechnikai tartalékot meghaladó,
+  - da) a hatszázezer eurós éves bruttó díjbevételt meghaladó,
+  - db) a viszontbiztosítási szerződések alapján és a különleges célú gazdasági egységektől megtérülő összegekkel együtt számított kétmillió-hétszázezer euró bruttó biztosítástechnikai tartalékot meghaladó,
   - dc) az éves bruttó díjbevételük vagy a viszontbiztosítási szerződésekből és a különleges célú gazdasági egységektől megtérülő összegekkel együtt számított bruttó biztosítástechnikai tartalékuk tíz százalékát meghaladó viszontbiztosítási
 
 ügyletekre.
