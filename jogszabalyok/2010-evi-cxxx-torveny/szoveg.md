@@ -256,6 +256,8 @@ vezet be, valamely már fennálló ilyen kötelezettség megszüntetéséről va
 
 17/A. § A jogszabály előkészítőjének feladata, hogy az előzetes hatásvizsgálat eredményét mérlegelje, és – a jogalkotás alapvető követelményei figyelembevételével – akkor tegyen javaslatot a jogszabály megalkotására, ha az a szabályozási cél eléréséhez feltétlenül szükséges.
 
+17/B. § A Központi Statisztikai Hivatal törvény, kormányrendelet vagy miniszteri rendelet előkészítése során hivatalos statisztikai adatok szolgáltatásával közreműködik az előzetes hatásvizsgálat elvégzésében.
+
 #### 6. Indokolási kötelezettség
 
 18. § (1) A jogszabály tervezetéhez a jogszabály előkészítője indokolást csatol, amelyben bemutatja azokat a társadalmi, gazdasági, szakmai okokat és célokat, amelyek a javasolt szabályozást szükségessé teszik, továbbá ismerteti a jogi szabályozás várható hatásait, és az álláspontját az indokolás közzétételéről.
@@ -297,6 +299,8 @@ vezet be, valamely már fennálló ilyen kötelezettség megszüntetéséről va
 21. § (1) A Kormány tagja folyamatosan figyelemmel kíséri a feladatkörébe tartozó jogszabályok hatályosulását, és szükség szerint lefolytatja a jogszabályok – a 17. § (2) bekezdésében meghatározott szempontok szerinti – utólagos hatásvizsgálatát, ennek során összeveti a szabályozás megalkotása idején várt hatásokat a tényleges hatásokkal.
 
 (2) Az (1) bekezdés szerinti hatásvizsgálat lefolytatásáról az általa alkotott rendelet esetén a Magyar Nemzeti Bank elnöke, az önálló szabályozó szerv vezetője, az önkormányzati rendelet esetén a jegyző gondoskodik.
+
+(3) A Központi Statisztikai Hivatal hivatalos statisztikai adatok szolgáltatásával közreműködik az (1) bekezdés szerinti hatásvizsgálat elvégzésében.
 
 #### 10. A jogszabályok tartalmi felülvizsgálata
 

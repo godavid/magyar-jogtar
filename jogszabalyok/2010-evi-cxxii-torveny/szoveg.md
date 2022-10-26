@@ -120,7 +120,8 @@ megállapítása, beszedése, nyilvántartása, végrehajtása, visszatérítés
 - a) végzi az európai uniós és a külön jogszabályok alapján a feladatkörébe tartozó ügyekben az informatikai rendszerek működtetéséből, alkalmazásából adódó tagállami feladatokat,
 - b) végzi az európai uniós és nemzeti jogszabályokban meghatározott nemzetközi együttműködésből adódó feladatokat, – ideértve a hatóságok közötti kölcsönös adminisztratív segítségnyújtást is – valamint részt vesz további két-, illetve többoldalú megállapodások előkészítésében, jogszabályi felhatalmazás alapján ellátja Magyarország képviseletét a NAV szakterületét érintő ügyekkel foglalkozó uniós és nemzetközi szervezetekben,
 - c) végzi a hatáskörébe tartozó uniós, illetve más nemzetközi forrásból finanszírozott projektek szervezését, irányítását, lebonyolítását,
-- d) végzi az Európai Csalásellenes Hivatallal (OLAF) történő együttműködéssel és koordinációval kapcsolatban a külön törvényben meghatározott feladatokat.
+- d) végzi az Európai Csalásellenes Hivatallal (a továbbiakban: OLAF) történő együttműködéssel és koordinációval kapcsolatban a külön törvényben meghatározott feladatokat.
+- e) támogatást nyújt az OLAF helyszíni ellenőrzéseinek vagy vizsgálatainak zavartalan lefolytatásához.
 
 (4) A NAV adóigazgatási jogkörében
 
@@ -327,7 +328,11 @@ kapcsolatos feladatokat.
 
 #### 28/F. §
 
-29. § (1)–(3)
+29. § (1)
+
+(2)
+
+(3)
 
 (4)
 
@@ -513,7 +518,7 @@ VALAMINT AZ ÁLTALA ALKALMAZHATÓ KÉNYSZERÍTŐ ESZKÖZÖK
 
 ### Általános rendelkezések
 
-35. § (1) A NAV-nak a határátkelőhelyeken végzett feladatait ellátó, a bűnüldözési, bűnmegelőzési, a szabálysértési, a vám- és jövedéki ellenőrzési, mélységi ellenőrzési, az őrzésvédelmi, a hatósági, a végrehajtási eljárási feladatai ellátását végző, valamint mindezen tevékenységek irányítását, felügyeletét és ellenőrzését ellátó pénzügyőri munkakört betöltő foglalkoztatottai (a továbbiakban: pénzügyőr) rendvédelmi tevékenységet folytatnak, egyenruha és szolgálati fegyver viselésére jogosultak.
+35. § (1) A NAV-nak a határátkelőhelyeken végzett feladatait ellátó, a bűnüldözési, bűnmegelőzési, a szabálysértési, a vám- és jövedéki ellenőrzési, mélységi ellenőrzési, az őrzésvédelmi, a hatósági, a végrehajtási eljárási feladatai, valamint az OLAF helyszíni ellenőrzései vagy vizsgálatai lefolytatásának támogatását biztosító feladatai ellátását végző, valamint mindezen tevékenységek irányítását, felügyeletét és ellenőrzését ellátó pénzügyőri munkakört betöltő foglalkoztatottai (a továbbiakban: pénzügyőr) rendvédelmi tevékenységet folytatnak, egyenruha és szolgálati fegyver viselésére jogosultak.
 
 (2) A pénzügyőr szolgálati feladatának teljesítése során – a vámhatóság, illetve a NAV nyomozó hatóságának feladatait meghatározó jogszabályokban meghatározott intézkedéseken, eljárásokon túl – jogosult a 36–37/B. §-ban meghatározott pénzügyőri intézkedéseket (e fejezet alkalmazásában a továbbiakban: intézkedés) foganatosítani, illetve kényszerítő eszközöket alkalmazni. A kényszerítő eszközök alkalmazásának célja az e fejezet szerinti jogszerű intézkedés biztosítása. Az NAV-nál alkalmazásra kerülő kényszerítő eszközöket a kijelölt miniszter rendszeresíti.
 
@@ -775,7 +780,9 @@ használható fel.
 
 (2)
 
-(3)–(4)
+(3)
+
+(4)
 
 (5) A kényszerítő eszköz alkalmazása előtt az ellenszegülőt – ha a körülmények ezt lehetővé teszik – fel kell szólítani az ellenszegülés megszüntetésére, és figyelmeztetni kell arra, hogy kényszerítő eszköz alkalmazására kerül sor.
 
@@ -787,7 +794,9 @@ használható fel.
 
 (4) Ha a rendszeresített kényszerítő eszköz nem áll rendelkezésre, vagy a használatára nincs lehetőség, a pénzügyőr a bilincs, a rendőrbot vagy az útzár helyett más eszközt is igénybe vehet, ha a helyettesített eszköz alkalmazásának törvényi feltételei fennállnak és az igénybe vett eszköz az elérni kívánt törvényes cél megvalósítására alkalmas.
 
-(5)–(6)
+(5)
+
+(6)
 
 ### Testi kényszer
 
@@ -897,6 +906,20 @@ használható fel.
 50. § (1) A lőfegyverhasználatról a pénzügyőr haladéktalanul jelentést tesz közvetlen elöljárójának, illetve haladéktalanul értesíti a közvetlen vezetőjét, és annak megérkezéséig a helyszínt biztosítja.
 
 (2) A lőfegyverhasználat jogszerűségét és szakszerűségét az érintett szerv vezetője vizsgálja.
+
+### III/A. Fejezet — A PÉNZÜGYŐR INTÉZKEDÉSI ÉS SZOLGÁLATI FELLÉPÉSI JOGAIRA ÉS KÖTELEZETTSÉGEIRE, VALAMINT AZ ÁLTALA ALKALMAZHATÓ KÉNYSZERÍTŐ ESZKÖZÖKRE VONATKOZÓ KÜLÖNLEGES SZABÁLYOK AZ OLAF HELYSZÍNI ELLENŐRZÉSÉNEK VAGY VIZSGÁLATÁNAK TÁMOGATÁSA ESETÉN
+
+50/A. § (1) Az OLAF helyszíni ellenőrzésének vagy vizsgálatának – az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 131. § (2) bekezdése szerinti – támogatása során a pénzügyőr az ellenőrzés vagy vizsgálat zavartalan lefolytatása érdekében a III. Fejezetben meghatározott pénzügyőri intézkedések közül a 36. §-ban, 36/A. §-ban, 36/G. §-ban, 36/I. §-ban és 36/L. §-ban meghatározott intézkedéseket a (2)–(4) bekezdésben meghatározott eltérésekkel alkalmazhatja.
+
+(2) A pénzügyőr az OLAF vizsgáló kérésére felvilágosítást kérhet, ha alaposan feltételezhető, hogy a megkérdezett az OLAF ellenőrzésének, helyszíni vizsgálatának lefolytatásához szükséges közlést tehet, valamint igazoltathatja azt, akinek a személyazonosságát az OLAF ellenőrzésének, helyszíni vizsgálatának végrehajtása érdekében kell megállapítani. Az intézkedés során megszerzett információkat vagy az igazoltatás során a 36/A. § (3) bekezdése alapján rögzített adatokat a pénzügyőr közli az OLAF vizsgálóval.
+
+(3) A pénzügyőr az OLAF ellenőrzésének, helyszíni vizsgálatának lefolytatása érdekében magánlakásba nem léphet be, e célból a belépést, behatolást engedélyező hatósági döntés nem adható. A 36/E. § és a 36/F. § (1) bekezdés sérelme nélkül magánlakásnak nem minősülő egyéb helyre, illetve helyiségbe a pénzügyőr csak a birtokos jelenlétében léphet be. Ez kiterjed a 36/L. § szerint megtett lefoglalásra is.
+
+(4) A helyszín biztosítása intézkedés az OLAF ellenőrzésének, helyszíni vizsgálatának lefolytatása érdekében az ahhoz szükséges mértékben bűncselekmény vagy szabálysértés elkövetése gyanújának hiányában is alkalmazható.
+
+(5) A pénzügyőr e Fejezet szerinti intézkedése során kényszerítőeszközöket a III. Fejezetben meghatározottak szerint alkalmazhat.
+
+(6) Ha az OLAF helyszíni ellenőrzéséhez vagy vizsgálatához való segítségnyújtáshoz bírói szerv általi engedély szükséges, az engedélyt a nemzeti csalásellenes koordinációs szolgálat (AFCOS) legalább 72 órával előre kérelmezi. Ilyen engedély alapján az OLAF előre igényelheti pénzügyőr jelenlétét, ha a tervezett helyszíni ellenőrzéssel és vizsgálattal szembeni ellenállás veszélye áll fenn.
 
 ### IV. Fejezet — TITKOS INFORMÁCIÓGYŰJTÉS
 
@@ -1498,7 +1521,8 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 
 - a) a Központi Irányítást és a területi szerveket,
-- b)–c)
+- b)
+- c)
 - d) a Bűnügyi Főigazgatóságot és a NAV nyomozó hatósági feladatait ellátó területi szerveit,
 - e)
 - f)
@@ -1608,7 +1632,9 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 
 98/C. § (1) E törvénynek a NAV Mód. tv. 20. §-ával megállapított 26. § (2) bekezdését a 2011. december 31-én személyi illetményben részesülő kormánytisztviselők és pénzügyőrök tekintetében is alkalmazni kell.
 
-(2)–(3)
+(2)
+
+(3)
 
 (4)
 
