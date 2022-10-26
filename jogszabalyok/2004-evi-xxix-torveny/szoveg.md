@@ -294,7 +294,7 @@ az európai uniós csatlakozással összefüggő egyes törvénymódosításokr�
 
 (2) E fejezet hatálya kiterjed azokra
 
-- a) a minisztériumokra, tárca nélküli miniszterek hivatali szerveire, központi költségvetésben önálló fejezettel rendelkező országos hatáskörű és egyéb szervekre, továbbá más, fejezeti jogosítványokkal felhatalmazott szervekre – ideértve a Magyar Tudományos Akadémiát mint köztestületet is – és személyekre, valamint a felügyeletük alá tartozó költségvetési szervekre; helyi önkormányzatokra és helyi nemzetiségi önkormányzatokra, valamint a felügyeletük alá tartozó költségvetési szervekre; elkülönített állami pénzalapokra és azok kezelőire; a társadalombiztosítás pénzügyi alapjaira; a vagyonkezelő szervezetekre; az országos nemzetiségi önkormányzatokra és országos nemzetiségi önkormányzati költségvetési szervekre,
+- a) a minisztériumokra, tárca nélküli miniszterek hivatali szerveire, központi költségvetésben önálló fejezettel rendelkező országos hatáskörű és egyéb szervekre, továbbá más, fejezeti jogosítványokkal felhatalmazott szervekre – ideértve a Magyar Tudományos Akadémiát mint köztestületet is – és személyekre, valamint az ezek irányítása vagy felügyelete alá tartozó költségvetési szervekre; helyi önkormányzatokra és helyi nemzetiségi önkormányzatokra, valamint a felügyeletük alá tartozó költségvetési szervekre; elkülönített állami pénzalapokra és azok kezelőire; a társadalombiztosítás pénzügyi alapjaira; a vagyonkezelő szervezetekre; az országos nemzetiségi önkormányzatokra és országos nemzetiségi önkormányzati költségvetési szervekre,
 - b) a területfejlesztésről és területrendezésről szóló törvény hatálya alá tartozó jogi személyiségű területfejlesztési és fejlesztési tanácsokra és munkaszervezeteikre,
 - c) jogi személyekre és jogi személyiséggel nem rendelkező szervezetekre,
 - d) természetes személyekre,
@@ -303,13 +303,13 @@ az európai uniós csatlakozással összefüggő egyes törvénymódosításokr�
 
 (3) E fejezet rendelkezéseit a nemzetbiztonsági szolgálatokra külön törvényben foglaltak szerint kell alkalmazni.
 
-124. § (1) Az OLAF Koordinációs Iroda a Vám- és Pénzügyőrség szervezetén belül, a Vám- és Pénzügyőrség országos parancsnoka közvetlen alárendeltségében, de feladatkörében függetlenül működik, sem hatósági jogkörrel, sem önálló jogi személyiséggel nem rendelkezik. Az OLAF Koordinációs Iroda feladatainak végrehajtásában befolyástól mentesen, önállóan jár el. Az OLAF Koordinációs Irodánál foglalkoztatottak a Vám- és Pénzügyőrségnél más tevékenység végrehajtásába nem vonhatók be.
+124. § (1) Az OLAF Koordinációs Iroda a Nemzeti Adó- és Vámhivatal szervezetén belül, a Nemzeti Adó- és Vámhivatal elnöke közvetlen alárendeltségében, de feladatkörében függetlenül működik, sem hatósági jogkörrel, sem önálló jogi személyiséggel nem rendelkezik. Az OLAF Koordinációs Iroda feladatainak végrehajtásában befolyástól mentesen, önállóan jár el. Az OLAF Koordinációs Irodánál foglalkoztatottak a Nemzeti Adó- és Vámhivatalnál más tevékenység végrehajtásába nem vonhatók be.
 
-(2) Az OLAF Koordinációs Iroda vezetőjét a Vám- és Pénzügyőrség országos parancsnoka javaslatára az adópolitikáért felelős miniszter határozatlan időre nevezi ki, illetve menti fel. Az irodavezető felett az egyéb munkáltatói jogokat az országos parancsnok gyakorolja azzal, hogy az OLAF Koordinációs Iroda tevékenységét érintő egyedi utasítást nem adhat.
+(2) Az OLAF Koordinációs Iroda vezetőjét a Nemzeti Adó- és Vámhivatal elnöke javaslatára az adópolitikáért felelős miniszter határozatlan időre nevezi ki, illetve menti fel. Az irodavezető felett az egyéb munkáltatói jogokat az országos parancsnok gyakorolja azzal, hogy az OLAF Koordinációs Iroda tevékenységét érintő egyedi utasítást nem adhat.
 
-(3) Az e fejezetben meghatározott feladat végrehajtása keretében a Vám- és Pénzügyőrség országos parancsnoka felelős az OLAF-fal történő közvetlen kapcsolattartásért, a helyszíni vizsgálatok végrehajtásához szükséges együttműködés kialakításáért, a hozzá kapcsolódó feladatok koordinációjáért.
+(3) Az e fejezetben meghatározott feladat végrehajtása keretében a Nemzeti Adó- és Vámhivatal elnöke felelős az OLAF-fal történő közvetlen kapcsolattartásért, a helyszíni vizsgálatok végrehajtásához szükséges együttműködés kialakításáért, a hozzá kapcsolódó feladatok koordinációjáért.
 
-(4) Ha az OLAF a Vám- és Pénzügyőrség tevékenységével összefüggésben kér információt, az OLAF Koordinációs Iroda az adópolitikáért felelős miniszter által kijelölt személy ellenőrzése mellett jár el.
+(4) Ha az OLAF a Nemzeti Adó- és Vámhivatal tevékenységével összefüggésben kér információt, az OLAF Koordinációs Iroda az adópolitikáért felelős miniszter által kijelölt személy ellenőrzése mellett jár el.
 
 125. § Az OLAF Koordinációs Iroda alapfeladatai körében:
 
@@ -369,9 +369,23 @@ az európai uniós csatlakozással összefüggő egyes törvénymódosításokr�
 - d) olyan eljárásokat kidolgozni, melyek a szabálytalanságok feltárását, a felelősök megállapítását, a használt módszerek felderítését és a szabálytalanság mértékének, illetve következményeinek meghatározását célozzák,
 - e) az OLAF által végzett helyszíni ellenőrzés tényéről, illetőleg az OLAF által közvetlenül hozzá intézett megkeresésről és az arra adott válaszról tájékoztatni az OLAF Koordinációs Irodát.
 
-#### 131. §
+131. § (1) Az OLAF megkeresése alapján a Nemzeti Adó- és Vámhivatal pénzügyőri támogatást nyújt a helyszíni ellenőrzés vagy vizsgálat lefolytatásához.
 
-#### 132. §
+(2) A pénzügyőr az OLAF helyszíni ellenőrzésének vagy vizsgálatának támogatása és zavartalan lefolytatásának biztosítása érdekében a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvényben meghatározott intézkedések megtételére jogosult.
+
+132. § (1) Ha a vizsgált személy felróhatóan nem tesz eleget a 130. § szerinti vagy a 883/2013/EU, Euratom európai parlamenti és tanácsi rendeletben meghatározott együttműködési kötelezettségnek, vele szemben a Nemzeti Adó- és Vámhivatal egymillió forint közigazgatási bírságot szab ki. A bírság ismételten is kiszabható.
+
+(2) A Nemzeti Adó- és Vámhivatal az (1) bekezdés szerinti közigazgatási szabályszegési ügyben a határozatot az OLAF által a részére megküldött, az (1) bekezdés szerinti együttműködési kötelezettség megszegéséről felvett jegyzőkönyv alapján hozza meg.
+
+(3) Az (1) bekezdés szerinti közigazgatási bírság helyett figyelmeztetés nem alkalmazható, a bírság összegére vonatkozóan nincs helye mérlegelésnek.
+
+(4) Az (1) bekezdés szerinti határozattal szemben közigazgatási per a határozat kézbesítésétől számított 15 napon belül indítható.
+
+(5) Az e § szerinti eljárásban – az e §-ban foglalt eltérésekkel – megfelelően alkalmazni kell az általános közigazgatási rendtartásról szóló 2016. évi CL. törvénynek (a továbbiakban: Ákr.) a nyelvhasználatra és a tolmács igénybevételére, az adatkezelésre, a kapcsolattartás általános szabályaira, a képviseletre, az iratra, a határidő számítására, az igazolási kérelemre, a kézbesítettnek tekintettséggel szembeni kifogásra, a döntés formájára és közlésére, az ellenőrzésre, a hivatalbóli eljárásra, a közigazgatási perre, továbbá a végrehajtásra vonatkozó rendelkezéseit azzal, hogy ahol az Ákr. ügyfelet említ, azon a vizsgált személyt kell érteni.
+
+(6) Az (1) bekezdés szerinti közigazgatási bírságból származó bevétel az államháztartás központi alrendszerének bevételét képezi.
+
+(7) Felhatalmazást kap a Kormány, hogy az (1) bekezdés szerinti bírság megfizetése módjával kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 #### 133. §
 
