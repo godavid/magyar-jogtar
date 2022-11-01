@@ -710,7 +710,7 @@ kívánja szolgálati időként elismertetni.
 
 (3) A TAJ nyilvántartásban szereplő személyes adatokat a Kincstár központi szerve az érintett természetes személy elhunytát követő 30 évig kezeli.
 
-(4) A Kincstár központi szerve a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § u) pontja és 30. § (1) bekezdés h) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve és a katonai igazgatás illetékes területi szervei részére a hadkötelesek nyilvántartásának vezetése céljából.
+(4) A Kincstár központi szerve a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § t) pontjában és 20. § (1) bekezdés h) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve és a katonai igazgatás illetékes területi szervei részére a hadkötelesek nyilvántartásának vezetése céljából.
 
 58. § (1) Az Egészségbiztosítási Alap kezelésére kijelölt egészségbiztosítási szerv vezeti az egészségbiztosítási nyilvántartást.
 

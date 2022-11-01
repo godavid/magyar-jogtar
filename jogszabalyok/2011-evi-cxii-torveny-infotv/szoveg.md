@@ -57,7 +57,7 @@ meghatározott rendelkezéseket kell alkalmazni.
 - 10. adatkezelés: az alkalmazott eljárástól függetlenül az adaton végzett bármely művelet vagy a műveletek összessége, így különösen gyűjtése, felvétele, rögzítése, rendszerezése, tárolása, megváltoztatása, felhasználása, lekérdezése, továbbítása, nyilvánosságra hozatala, összehangolása vagy összekapcsolása, zárolása, törlése és megsemmisítése, valamint az adat további felhasználásának megakadályozása, fénykép-, hang- vagy képfelvétel készítése, valamint a személy azonosítására alkalmas fizikai jellemzők (pl. ujj- vagy tenyérnyomat, DNS-minta, íriszkép) rögzítése;
 - 10a. bűnüldözési célú adatkezelés: a jogszabályban meghatározott feladat- és hatáskörében a közrendet vagy a közbiztonságot fenyegető veszélyek megelőzésére vagy elhárítására, a bűnmegelőzésre, a bűnfelderítésre, a büntetőeljárás lefolytatására vagy ezen eljárásban való közreműködésre, a szabálysértések megelőzésére és felderítésére, valamint a szabálysértési eljárás lefolytatására vagy ezen eljárásban való közreműködésre, továbbá a büntetőeljárásban vagy szabálysértési eljárásban megállapított jogkövetkezmények végrehajtására irányuló tevékenységet folytató szerv vagy személy (a továbbiakban együtt: bűnüldözési adatkezelést folytató szerv) ezen tevékenység keretei között és céljából – ideértve az ezen tevékenységhez kapcsolódó személyes adatok levéltári, tudományos, statisztikai vagy történelmi célból történő kezelését is – (a továbbiakban együtt: bűnüldözési cél) végzett adatkezelése;
 - 10b. nemzetbiztonsági célú adatkezelés: a nemzetbiztonsági szolgálatok jogszabályban meghatározott feladat- és hatáskörében végzett adatkezelése, valamint a rendőrség terrorizmust elhárító szervének jogszabályban meghatározott feladat- és hatáskörében végzett, a nemzetbiztonsági szolgálatokról szóló törvény hatálya alá tartozó adatkezelése;
-- 10c. honvédelmi célú adatkezelés: a honvédségi adatkezelésről szóló törvény, továbbá a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény, és a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló törvény hatálya alá tartozó adatkezelés;
+- 10c. honvédelmi célú adatkezelés: a honvédelmi adatkezelésekről szóló törvény, és a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló törvény hatálya alá tartozó adatkezelés;
 - 11. adattovábbítás: az adat meghatározott harmadik személy számára történő hozzáférhetővé tétele;
 - 11a. közvetett adattovábbítás: személyes adatnak valamely harmadik országban vagy nemzetközi szervezet keretében adatkezelést folytató adatkezelő vagy adatfeldolgozó részére továbbítása útján valamely más harmadik országban vagy nemzetközi szervezet keretében adatkezelést folytató adatkezelő vagy adatfeldolgozó részére történő továbbítása;
 - 11b. nemzetközi szervezet: a nemzetközi közjog hatálya alá tartozó szervezet és annak alárendelt szervei, továbbá olyan egyéb szerv, amelyet két vagy több állam közötti megállapodás hozott létre vagy amely ilyen megállapodás alapján jött létre;
@@ -853,7 +853,7 @@ az adatkezelő vagy tevékenysége keretei között az adatfeldolgozó – a (2)
 
 (3) A Hatóság elnöke vagyonnyilatkozatának nyilvános, oldalhű másolatát a Hatóság honlapján haladéktalanul közzé kell tenni. A vagyonnyilatkozat a honlapról a Hatóság elnöke megbízatásának megszűnését követő egy év elteltéig nem távolítható el.
 
-(3a) A Hatóság elnöke a vagyonnyilatkozatban feltüntetett adatok tekintetében bekövetkezett változást a miniszterelnöknek bejelenti.
+(3a)
 
 (4) A Hatóság elnökének vagyonnyilatkozatával kapcsolatos eljárást a miniszterelnöknél bárki kezdeményezheti a vagyonnyilatkozat konkrét tartalmára vonatkozó olyan tényállítással, amely konkrétan megjelöli a vagyonnyilatkozat kifogásolt részét és tartalmát. Ha a kezdeményezés nem felel meg az e bekezdésben foglalt követelményeknek, nyilvánvalóan alaptalan, vagy az ismételten benyújtott kezdeményezés új tényállítást vagy adatot nem tartalmaz, a miniszterelnök az eljárás lefolytatása nélkül elutasítja a kezdeményezést. A vagyonnyilatkozatban foglaltak valóságtartalmát a miniszterelnök ellenőrzi.
 
@@ -1563,7 +1563,13 @@ az e fejezetben meghatározott eltérésekkel kell alkalmazni.
 
 (3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.
 
-76. § E törvény V. Fejezete és 75/B. §-a az Alaptörvény VI. cikk (4) bekezdése alapján sarkalatosnak minősül.
+75/C. § (1) A Hatóság elnöke és elnökhelyettese az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvénnyel megállapított rendelkezéseknek megfelelően először – 2022. december 31. napján fennálló állapot szerint − 2023. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát is.
+
+(2) A Hatóság elnöke és elnökhelyettese 2022. december 31-ig vagyonnyilatkozat-tételi kötelezettségének a 2022. október 31-én hatályos rendelkezések szerint tesz eleget.
+
+(3) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
+
+76. § E törvény V. Fejezete és 75/B–75/C. §-a az Alaptörvény VI. cikk (4) bekezdése alapján sarkalatosnak minősül.
 
 77. § Ez a törvény
 

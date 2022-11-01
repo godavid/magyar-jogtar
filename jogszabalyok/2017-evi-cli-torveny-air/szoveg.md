@@ -626,7 +626,7 @@ eljárási bírsággal sújtható.
 
 (2) Ha az idézett személy az idézésre nem jelent meg, és távolmaradását nem mentette ki, az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: rendőrség) útján elővezettethető. Az elővezetés foganatosításához az ügyésznek az eljáró adóhatóság vezetője által kért előzetes hozzájárulása szükséges.
 
-(3) Ha az adóhatóságnak tudomása van arról, hogy az elővezetni kívánt személy a Magyar Honvédség tényleges állományú vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományú tagja, az elővezetés céljából az állományilletékes parancsnokot keresi meg.
+(3) Ha az adóhatóságnak tudomása van arról, hogy az elővezetni kívánt személy honvéd vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományú tagja, az elővezetés céljából az állományilletékes parancsnokot keresi meg.
 
 (4) Ha az idézett személy igazolja a távolmaradásának vagy eltávozásának menthető indokát, az adóhatóság visszavonja az eljárási bírságot megállapító és az elővezetést elrendelő végzést.
 

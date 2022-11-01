@@ -311,7 +311,7 @@ pénzbírságot vagy helyszíni bírságot kell kiszabni.
 
 (9) A próbaidő eredményes leteltével a végrehajtásában felfüggesztett szabálysértési elzárás büntetést kitöltöttnek kell tekinteni, kivéve, ha az (5) bekezdés alapján az elzárás foganatosítása szükséges.
 
-28. § (1) E törvény alkalmazásában katona a Magyar Honvédség tényleges állományú tagja, a rendőrség, a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet, a polgári nemzetbiztonsági szolgálatok, valamint az Országgyűlési Őrség hivatásos állományú tagja.
+28. § (1) E törvény alkalmazásában katona a honvéd, a rendőrség, a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet, a polgári nemzetbiztonsági szolgálatok, valamint az Országgyűlési Őrség hivatásos állományú tagja.
 
 (2) A katona által a szolgálati viszony tartama alatt a szolgálati helyen, illetve a szolgálattal összefüggésben elkövetett szabálysértést – a szabálysértési elzárással is büntethető szabálysértés kivételével – fegyelmi eljárás keretében kell elbírálni. Ha a katona szolgálati viszonya a fegyelmi eljárás befejezése előtt megszűnt, a szabálysértést a szabálysértési hatóság, illetve a bíróság bírálja el.
 
@@ -3079,7 +3079,7 @@ szabálysértést követ el.
 
 szabálysértést követ el.
 
-(2a) Aki a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 17a. pontja szerinti, a Honvédséghez köthető megjelölést jogosulatlanul használ, szabálysértést követ el.
+(2a) Aki a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 106. § (12) bekezdése szerinti, a Honvédséghez köthető megjelölést jogosulatlanul használ, szabálysértést követ el.
 
 (3)
 

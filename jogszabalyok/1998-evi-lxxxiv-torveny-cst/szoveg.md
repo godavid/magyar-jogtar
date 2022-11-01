@@ -553,7 +553,7 @@ közvetlen lekérdezéssel díjmentesen elérheti.
 
 (3) A központi családtámogatási szerv a 49/B. § (2) bekezdés a) és b) pontjában és a 49/B. § (3) bekezdés a) és b) pontjában meghatározott adatok pontosságának ellenőrzése érdekében adategyeztetést folytathat az egészségbiztosítási szervvel. Az adategyeztetés módjáról a Kormány által kijelölt szerv és az egészségbiztosítási szerv megállapodást köt.
 
-49/D. § Az egységes szociális nyilvántartást vezető szerv a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § p) pontjában és 30. § (1) bekezdés d) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.
+49/D. § Az egységes szociális nyilvántartást vezető szerv a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § p) pontjában és 20. § (1) bekezdés d) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.
 
 ### ÁTMENETI ÉS ZÁRÓ RENDELKEZÉSEK
 

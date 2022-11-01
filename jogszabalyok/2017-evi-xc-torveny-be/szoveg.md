@@ -155,7 +155,7 @@ jár el;
 - 11. lakcím: a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti lakcím;
 - 12. médiatartalom-szolgáltató: a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti médiatartalom-szolgáltató;
 - 13. nem természetes személy: a polgári perrendtartásról szóló törvényben meghatározott nem természetes személy;
-- 14. rendfokozat: a Magyar Honvédség tényleges állományú tagja esetében a viselt rendfokozat, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozat;
+- 14. rendfokozat: a honvéd esetében a viselt rendfokozat, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozat;
 - 15. tényleges tartózkodási hely: az az ingatlan, ahol a büntetőeljárásban részt vevő személy ténylegesen tartózkodik, ideértve a fogva tartás helyét, illetve a nem magyar állampolgár szálláshelyét is.
 
 (2) Ahol e törvény a jogkövetkezményeket a törvényben meghatározott büntetéshez fűzi, ezen a Btk. Különös Részében meghatározott büntetési tételkeret felső határát kell érteni.
@@ -9288,7 +9288,7 @@ eléri, kivéve az ügydöntő határozat kihirdetése után elrendelt vagy fenn
 
 696. § (1) Katonai büntetőeljárásnak van helye
 
-- a) a Magyar Honvédség tényleges állományú tagja által elkövetett bármely bűncselekmény,
+- a) a honvéd által elkövetett bármely bűncselekmény,
 - b) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja által a tényleges szolgálati viszonyának tartama alatt elkövetett katonai bűncselekmény, valamint a szolgálati helyen, illetve a szolgálattal összefüggésben elkövetett más bűncselekmény,
 - c) törvénnyel kihirdetett nemzetközi szerződés eltérő rendelkezésének hiányában, a szövetséges fegyveres erő tagja által belföldön, valamint e személynek a Magyarország határain kívül tartózkodó magyar felségjelű úszólétesítményen vagy magyar felségjelű légi járművön elkövetett, magyar büntető joghatóság alá tartozó bűncselekménye
 
@@ -9399,7 +9399,7 @@ esetén.
 
 (4) A (3) bekezdésben meghatározott okból elrendelt letartóztatás megszűnik a terhelt szolgálati viszonyának megszűnésével.
 
-(5) Ha a Magyar Honvédség tényleges állományú tagjával szemben olyan bűnügyi felügyeletet rendelnek el, amelynek során a bíróság a terhelt számára előírta, hogy a számára meghatározott területet ne hagyja el, ennek a korlátozásnak a megtartását a parancsnok vagy akadályoztatása esetén más elöljáró ellenőrzi.
+(5) Ha a honvéddel szemben olyan bűnügyi felügyeletet rendelnek el, amelynek során a bíróság a terhelt számára előírta, hogy a számára meghatározott területet ne hagyja el, ennek a korlátozásnak a megtartását a parancsnok vagy akadályoztatása esetén más elöljáró ellenőrzi.
 
 ### A védekezés jogának biztosítása
 
@@ -11330,7 +11330,7 @@ rendeletben megállapítsa.
 
 rendeletben megállapítsa.
 
-(4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a honvédelmi szervezetek, valamint a honvédelmi miniszter fenntartói irányítása alá tartozó, honvédelmi szervezetnek nem minősülő szakképző intézményeknél szolgálatot teljesítő tényleges állományú katonák tekintetében, továbbá a rendvédelmi feladatokat ellátó szervet irányító miniszter, illetve az Országgyűlési Őrség tekintetében a rendészetért felelős miniszter, hogy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek tekintetében
+(4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a honvédelmi szervezetek, valamint a honvédelmi miniszter fenntartói irányítása alá tartozó, honvédelmi szervezetnek nem minősülő szakképző intézményeknél szolgálatot teljesítő honvédek tekintetében, továbbá a rendvédelmi feladatokat ellátó szervet irányító miniszter, illetve az Országgyűlési Őrség tekintetében a rendészetért felelős miniszter, hogy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek tekintetében
 
 - a) a parancsnoki nyomozásra jogosult jogosultakat, hatáskörüket és a parancsnoki nyomozás szabályait, illetve
 - b) a katonával szemben elrendelt bűnügyi felügyelet ellenőrzésének szabályait

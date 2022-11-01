@@ -896,9 +896,9 @@ előzetesen tájékoztatja.
 
 (3) A zárolás feloldásáról vagy a zárolt összegnek megfelelő költségvetési kiadási előirányzat csökkentéséről, törléséről legkésőbb a költségvetési év zárását megelőzően intézkedni kell.
 
-(4) Az Alaptörvény 53. cikke szerinti veszélyhelyzet esetén a Kormány e törvény rendelkezéseitől eltérő átmeneti intézkedéseket hozhat, amelyről az Országgyűlés legközelebbi ülésén be kell számolnia. E jogkörében a Kormány az (1) bekezdésben foglaltakon túl a központi költségvetésről szóló törvényben nem szereplő költségvetési kiadásokat teljesíthet és rendkívüli fizetési kötelezettséget írhat elő.
+(4) Az Alaptörvény 51. cikke szerinti veszélyhelyzet esetén a Kormány e törvény rendelkezéseitől eltérő átmeneti intézkedéseket hozhat, amelyről az Országgyűlés legközelebbi ülésén be kell számolnia. E jogkörében a Kormány az (1) bekezdésben foglaltakon túl a központi költségvetésről szóló törvényben nem szereplő költségvetési kiadásokat teljesíthet és rendkívüli fizetési kötelezettséget írhat elő.
 
-(5) Az Alaptörvény 53. cikke szerinti veszélyhelyzet esetén, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény rendelkezéseivel összhangban a megyei közgyűlés elnöke, a főpolgármester, a polgármester e törvény rendelkezéseitől eltérő, a helyi önkormányzat költségvetése körében a (4) bekezdés szerint átmeneti intézkedéseket hozhat, amelyekről a képviselő-testület, a megyei közgyűlés soron következő ülésén be kell számolnia.
+(5) Az Alaptörvény 51. cikke szerinti veszélyhelyzet esetén, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény rendelkezéseivel összhangban a megyei közgyűlés elnöke, a főpolgármester, a polgármester e törvény rendelkezéseitől eltérő, a helyi önkormányzat költségvetése körében a (4) bekezdés szerint átmeneti intézkedéseket hozhat, amelyekről a képviselő-testület, a megyei közgyűlés soron következő ülésén be kell számolnia.
 
 #### 40/A. §
 

@@ -272,11 +272,16 @@ az a hatóság jár el, amelyikkel szemben kizárási ok áll fenn.
 
 #### 26. § [A kapcsolattartás általános szabályai]
 
-(1) A hatóság írásban, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben (a továbbiakban: Eüsztv.) meghatározott elektronikus úton (a továbbiakban együtt: írásban), vagy személyesen, írásbelinek nem minősülő elektronikus úton (a továbbiakban együtt: szóban) tart kapcsolatot az ügyféllel és az eljárásban résztvevőkkel.
+(1) A hatóság
+
+- a) írásban, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben (a továbbiakban: Eüsztv.) meghatározott elektronikus úton (a továbbiakban együtt: írásban), vagy
+- b) személyesen – ideértve az összeköttetés közvetlenségét, kölcsönösségét, folyamatos kép- és hangkapcsolatot biztosító telekommunikációs eszköz alkalmazását, ha az az adott eljárási cselekmény lefolytatására alkalmas –, illetve írásbelinek nem minősülő elektronikus úton (a továbbiakban együtt: szóban)
+
+tart kapcsolatot az ügyféllel és az eljárásban résztvevőkkel.
 
 (2) Ha törvény másként nem rendelkezik, a kapcsolattartás formáját a hatóság tájékoztatása alapján az ügyfél választja meg. Az ügyfél a választott kapcsolattartási módról más – a hatóságnál rendelkezésre álló – módra áttérhet.
 
-(3) Életveszéllyel vagy súlyos kárral fenyegető helyzet esetén a hatóság választja meg a kapcsolattartás módját.
+(3) Különleges jogrend vagy összehangolt védelmi tevékenység (a továbbiakban együtt: védelmi helyzet) elrendelésének alapjául szolgáló ok, illetve életveszéllyel vagy súlyos kárral fenyegető helyzet esetén a hatóság választja meg a kapcsolattartás módját.
 
 #### 13. Adatkezelés
 
@@ -649,7 +654,7 @@ eljárási bírsággal sújtható.
 
 (2) Ha az idézett személy az idézésre nem jelent meg, és távolmaradását nem mentette ki, a rendőrség útján elővezettethető. Az elővezetés foganatosításához az ügyésznek a hatóság vezetője által kért előzetes hozzájárulása szükséges.
 
-(3) Ha a hatóságnak tudomása van arról, hogy az elővezetni kívánt személy a Magyar Honvédség tényleges állományú vagy a rendvédelmi szervek hivatásos állományú tagja, illetve a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottja, az elővezetés céljából az állományilletékes parancsnokot, illetve a Nemzeti Adó- és Vámhivatal foglalkoztatottjának munkáltatóját keresi meg.
+(3) Ha a hatóságnak tudomása van arról, hogy az elővezetni kívánt személy honvéd, a rendvédelmi szervek hivatásos állományú tagja, illetve a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottja, az elővezetés céljából az állományilletékes parancsnokot, illetve a Nemzeti Adó- és Vámhivatal foglalkoztatottjának munkáltatóját keresi meg.
 
 (4) Ha az idézett személy igazolja a távolmaradásának vagy eltávozásának menthető indokát, a hatóság visszavonja az eljárási bírságot megállapító és az elővezetést elrendelő végzést.
 
@@ -929,8 +934,8 @@ Ha az egyezségi kísérlet eredményre vezet vagy az ügyfelek egyezséget köt
 
 A hatóság a döntést azonnal végrehajthatónak nyilvánítja, ha
 
-- a) életveszéllyel, súlyos kárral vagy a személyiségi jogok jelentős sérelmével fenyegető helyzet megelőzése, elhárítása vagy káros következményeinek enyhítése miatt szükséges,
-- b) nemzetbiztonsági, honvédelmi vagy közbiztonsági érdekből, illetve a közérdek védelme miatt szükséges,
+- a) életveszéllyel, súlyos kárral vagy a személyiségi jogok jelentős sérelmével fenyegető, illetve védelmi helyzet elrendelésének alapjául szolgáló ok következtében kialakuló helyzet megelőzése, elhárítása vagy káros következményeinek enyhítése miatt szükséges,
+- b) nemzetbiztonsági, honvédelmi, védelmi és biztonsági vagy közbiztonsági érdekből, illetve a közérdek védelme miatt szükséges,
 - c) a döntés valakinek a tartásáról vagy gondozásáról rendelkezik, vagy
 - d) a hatósági nyilvántartásba történő haladéktalan bejegyzést törvény írja elő.
 
@@ -951,7 +956,7 @@ A hatóság a döntést azonnal végrehajthatónak nyilvánítja, ha
 - a) az a nap, amelyen azt írásban vagy szóban közölték, vagy
 - b) a hirdetmény kifüggesztését követő tizenötödik nap.
 
-(6) Ha a hatóság életveszéllyel vagy súlyos kárral fenyegető helyzetben, valamint törvény rendelkezése alapján a döntést nem az e törvényben meghatározott feltételeknek megfelelő módon közli, a döntést írásban is megküldi. A döntés közlésének napja ilyenkor – kizárólag a jogorvoslati határidők számításának szempontjából – az írásbeli közlés napja.
+(6) A hatóság védelmi helyzet elrendelésének alapjául szolgáló ok, életveszéllyel vagy súlyos kárral fenyegető helyzet esetén a döntést az ügyféllel szóban vagy a döntés tartalmának megismerésére alkalmas egyéb módon közli, amiről a hatóság feljegyzést készít. A hatóság a döntést utólag írásban közli. A döntés közlésének napja ilyenkor – kizárólag a jogorvoslati határidők számításának szempontjából – az írásbeli közlés napja.
 
 #### 86. § [A kézbesítésre vonatkozó szabályok]
 
@@ -1025,7 +1030,7 @@ követő ötödik munkanapon kézbesítettnek kell tekinteni.
 (3) A hatóság közhírré teszi azt a véglegessé vált vagy azonnal végrehajthatóvá nyilvánított döntést,
 
 - a) amelyet közérdekű keresettel lehet megtámadni,
-- b) amelyet személyek széles vagy pontosan meg nem határozható köre számára életveszéllyel vagy súlyos kárral fenyegető helyzet megelőzése, elhárítása vagy káros következményeinek enyhítése érdekében hozott, vagy
+- b) amelyet személyek széles vagy pontosan meg nem határozható köre számára életveszéllyel vagy súlyos kárral fenyegető, illetve védelmi helyzet elrendelésének alapjául szolgáló ok következtében kialakuló helyzet megelőzése, elhárítása vagy káros következményeinek enyhítése érdekében hozott, vagy
 - c) amelyet a közbiztonság fenntartása érdekében vagy fontos közrendvédelmi, környezet- vagy természetvédelmi okból hozott.
 
 (4) A hatóság közhírré teszi azt a véglegessé vált vagy azonnal végrehajthatóvá nyilvánított határozatot, amelyet több mint ötven ügyfél részvételével zajló eljárásban hozott.
@@ -1188,7 +1193,7 @@ Ha a hatóság az ügyfélnél folyamatosan lát el ellenőrzési feladatot, az 
 (3) A hivatalbóli eljárás az első eljárási cselekmény elvégzésének napján kezdődik, megindításáról az ismert ügyfelet a hatóság értesíti. Az értesítés csak akkor mellőzhető, ha
 
 - a) az eljárás megindítása után a hatóság nyolc napon belül dönt, vagy az eljárást megszünteti,
-- b) azt honvédelmi, nemzetbiztonsági, közbiztonsági okból törvény kizárja, vagy
+- b) azt honvédelmi, védelmi és biztonsági érdekből, nemzetbiztonsági, közbiztonsági okból törvény kizárja, vagy
 - c) az az eljárás sikerét meghiúsítaná.
 
 (4) Az értesítés tartalmazza
@@ -1618,7 +1623,8 @@ Ha a kötelezett pénzfizetési kötelezettségének határidőben nem tesz eleg
 Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - a) az eljárási költségek körére, a költségmentesség megállapítására, valamint az iratbetekintéssel összefüggő költségtérítés mértékére és a költségek megfizetésére,
-- b) a közérdeken alapuló kényszerítő indok esetén az ügyben közreműködő szakhatóság kijelölésére
+- b) a közérdeken alapuló kényszerítő indok esetén az ügyben közreműködő szakhatóság kijelölésére,
+- c) összehangolt védelmi tevékenység esetén, e törvény rendelkezéseitől eltérően, a hatásköri és illetékességi vitára, az illetékességi területen kívüli eljárásra, a megkeresésre, az eljárás felfüggesztésére és szünetelésére, az ügyintézési határidőre és a határidő számítására, a határozatra és a végzésre, a döntés közlésére és a végrehajtásra
 
 vonatkozó szabályokat.
 

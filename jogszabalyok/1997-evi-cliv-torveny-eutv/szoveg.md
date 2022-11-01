@@ -2854,9 +2854,9 @@ fenntartására és irányítására.
 (19) Nem alkalmazandóak
 
 - a) az (1)–(17) bekezdésben foglaltak
-  - aa) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 80. § 11a. pontja szerinti honvédelmi egészségügyi szolgáltató irányítása alá tartozó, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltató,
+  - aa) a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény (a továbbiakban: Hvt.) 16. § (1) bekezdés a) pontja szerinti honvédelmi egészségügyi szolgáltató irányítása alá tartozó, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltató,
   - ab) a rendvédelmi feladatokat ellátó szervnél működő egészségügyi szolgáltató,
-- b) a (2)–(17) bekezdésben foglaltak a Hvt. 80. § 11a. pontja szerinti honvédelmi egészségügyi szolgáltató
+- b) a (2)–(17) bekezdésben foglaltak a Hvt. 16. § (1) bekezdés a) pontja szerinti honvédelmi egészségügyi szolgáltató
 
 fenntartására és irányítására.
 
@@ -2894,7 +2894,7 @@ fenntartására és irányítására.
 
 ### A honvédelmi egészségügyi szolgáltató irányítása alá tartozó, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltatók irányítására vonatkozó rendelkezések
 
-156/B. § (1) A Hvt. 80. § 11b. pontja szerinti honvédelmi egészségügyi szolgáltató szervezeti egység vezetője a honvédelmi egészségügyi szolgáltató irányítása alá tartozó, a Kormány rendeletében meghatározott, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltató (a továbbiakban: honvédelmi irányítású egészségügyi szolgáltató) vonatkozásában – a honvédelemért felelős miniszter felügyelete mellett – gyakorolja a (2)–(9) bekezdés szerinti jogköröket.
+156/B. § (1) A Hvt. 16. § (1) bekezdés b) pontja szerinti honvédelmi egészségügyi szolgáltató szervezeti egység vezetője a honvédelmi egészségügyi szolgáltató irányítása alá tartozó, a Kormány rendeletében meghatározott, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltató (a továbbiakban: honvédelmi irányítású egészségügyi szolgáltató) vonatkozásában – a honvédelemért felelős miniszter felügyelete mellett – gyakorolja a (2)–(9) bekezdés szerinti jogköröket.
 
 (2) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetője gyakorolja – az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének előzetes egyetértésével – a honvédelmi irányítású egészségügyi szolgáltató felett az alábbi jogköröket:
 
@@ -2919,7 +2919,7 @@ fenntartására és irányítására.
 
 (4) A honvédelmi egészségügyi szolgáltató szervezeti egységének vezetője a (2) bekezdés szerinti egyetértési kezdeményezést előzetesen az egészségügyi szolgáltatás irányításáért felelős szerv vezetője felé továbbítja, aki az egyetértési jogkörében a megkeresés beérkezésétől számított 15 napon belül – indok megjelölésével – kifogást tehet. A kifogásolt döntési javaslat nem fogadható el, nem hajtható végre. A határidő eredménytelen eltelte esetén az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének egyetértését vélelmezni kell.
 
-(5) A (4) bekezdés szerinti kezdeményezési jogát a honvédelmi egészségügyi szolgáltató szervezeti egység vezetője a Hvt. 46/A. § (3) bekezdése szerinti katonai összekötő útján gyakorolja.
+(5)
 
 (6) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjének felelősségi körébe tartozik a honvédelmi irányítású egészségügyi szolgáltató tekintetében az egészségügyi szolgáltatás nyújtásához szükséges szakmai feltételek, valamint az egészségügyi szolgáltató működőképességének biztosítása. A honvédelmi egészségügyi szolgáltató szervezeti egység vezetője kikérheti az egészségügyi szolgáltatás irányításáért felelős szerv vezetőjének álláspontját a honvédelmi irányítású egészségügyi szolgáltató szakmai feltételeinek és működőképességének biztosítása érdekében szükséges intézkedések vonatkozásában. Az egészségügyi szolgáltatás irányításáért felelős szerv vezetője köteles érdemben megvizsgálni és állásfoglalást adni a megkeresésre.
 
@@ -2940,7 +2940,7 @@ gyakorolja azzal, hogy a munkáltatói jogok gyakorlása átruházható.
 (9) A munkáltatói jogok
 
 - a) a (7) bekezdés a) pontja esetében a honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjére,
-- b) a (7) bekezdés b) pontja és a (8) bekezdés a) pontja esetében a Hvt. 46/A. § (2) bekezdése szerinti, a honvédelmi egészségügyi szolgáltató szervezeti egységen belül erre létrehozott, önálló, magasabb vezetői munkakörbe, vagy ennek megfelelő szolgálati beosztásba kinevezett vagy megbízott személyre,
+- b) a (7) bekezdés b) pontja és a (8) bekezdés a) pontja esetében a Hvt. 16. § (3) bekezdése szerinti, a honvédelmi egészségügyi szolgáltató szervezeti egységen belül erre létrehozott, önálló, magasabb vezetői munkakörbe, vagy ennek megfelelő szolgálati beosztásba kinevezett vagy megbízott személyre,
 - c) a (8) bekezdés b) pontja esetében a honvédelmi irányítású egészségügyi szolgáltató vezetője által meghatározott vezető munkakörű személyre
 
 ruházhatók át.
@@ -3928,7 +3928,11 @@ kezeli.
 
 ### XIV. Fejezet — EGÉSZSÉGÜGYI VÁLSÁGHELYZETI ÉS EGÉSZSÉGÜGYI VESZÉLYHELYZETI ELLÁTÁS
 
-228. § (1) Az országos tisztifőorvos javaslatára, a miniszter előterjesztése alapján a Kormány rendeletében egészségügyi válsághelyzetet rendelhet el, ha azt a (2) bekezdés a) pontja szerinti járványügyi szükséghelyzet vagy (2) bekezdés b) és c) pontja szerinti valamely más körülmény szükségessé teszi. Egészségügyi válsághelyzet elrendelése járványügyi készültségnek minősül. Egészségügyi válsághelyzet idején a betegek ellátása az egészségügyi válsághelyzeti ellátás keretében történik.
+228. § (1) Az egészségügyi válsághelyzet olyan összehangolt védelmi tevékenység, amelyet a Kormány az országos tisztifőorvos javaslatára, a miniszter előterjesztése alapján rendelhet el, ha azt a (2) bekezdés a) pontja szerinti járványügyi szükséghelyzet vagy a (2) bekezdés b) és c) pontja szerinti valamely más körülmény szükségessé teszi. Az egészségügyi válsághelyzet elrendelése járványügyi készültségnek minősül.
+
+(1a) Egészségügyi válsághelyzet idején – ha e törvény vagy a végrehajtására kiadott kormányrendelet eltérően nem rendelkezik – a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény rendelkezéseit alkalmazni kell.
+
+(1b) Egészségügyi válsághelyzet idején a betegek ellátása az egészségügyi válsághelyzeti ellátás keretében történik.
 
 (2) Egészségügyi válsághelyzet elrendelésének van helye
 
@@ -3956,7 +3960,7 @@ kezeli.
 
 (2) Egészségügyi válsághelyzet idején az egészségügyi ellátórendszerre, az egészségügyi szolgáltatás szakmai követelményeire, valamint az egészségügyi dolgozók jogaira és kötelezettségeire előírt rendelkezéseket az e fejezetben, továbbá az egészségügyi válsághelyzet idején alkalmazandó jogszabályokban foglalt eltérésekkel kell alkalmazni.
 
-(3) Egészségügyi válsághelyzetben – a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók kivételével – bármely egészségügyi dolgozó – ide nem értve a szakképzésről szóló 2019. évi LXXX. törvény 83. §-ában meghatározott szakképzési munkaszerződéssel foglalkoztatott tanulót és képzésben részt vevő személyt – más egészségügyi tevékenység ellátására alapellátást, járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó egészségügyi intézménybe vagy időszakosan működő gyógyintézetbe kirendelhető. Az egészségügyi dolgozó kirendeléséről az egészségügyi államigazgatási szerv, több megye érintettsége esetén az Operatív Törzs dönt.
+(3) Egészségügyi válsághelyzetben – a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók kivételével – bármely egészségügyi dolgozó – ide nem értve a szakképzésről szóló 2019. évi LXXX. törvény 83. §-ában meghatározott szakképzési munkaszerződéssel foglalkoztatott tanulót és képzésben részt vevő személyt – más egészségügyi tevékenység ellátására alapellátást, járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó egészségügyi intézménybe vagy időszakosan működő gyógyintézetbe kirendelhető. Az egészségügyi dolgozó kirendeléséről az egészségügyi államigazgatási szerv, több megye érintettsége esetén a 232/B. § (1) bekezdésében meghatározott Operatív Törzs vagy a Kormány rendeletében kijelölt más szerv dönt.
 
 (3a) Az Operatív Törzs (3) bekezdés szerinti döntése elleni közigazgatási perben nincs helye azonnali jogvédelemnek.
 
@@ -4521,7 +4525,7 @@ rendeletben kijelölje.
 - b) az egészségügyi szolgáltatás – ideértve a telemedicina keretében nyújtott egészségügyi szolgáltatást is – megkezdésére és gyakorlására vonatkozó általános szabályokat, valamint a működési engedélyezési eljárásra, a bejelentés alapján történő egészségügyi szolgáltatás – ideértve a telemedicina keretében nyújtott egészségügyi szolgáltatást is – érdekében a hatósági nyilvántartásba vételre, továbbá a hatósági nyilvántartás személyes adatokat nem tartalmazó adattartalmára vonatkozó szabályokat, valamint a telemedicina keretében nyújtott egészségügyi szolgáltatással összefüggő, a telemedicina tevékenységek meghatározásával, finanszírozásával, dokumentációjával, betegazonosításával kapcsolatos szabályokat,
 - c) a meghatározott időtartamra és helyszínre szóló, egészségügyi tevékenységre jogosító engedély kérelmezésének és kiadásának szabályait, valamint a bejelentés alapján végezhető egészségügyi tevékenységekre vonatkozó bejelentés megtételére, valamint – személyes adatokat nem tartalmazó – kötelező adattartalmára, továbbá a bejelentett személyek nyilvántartásba vételére vonatkozó rendelkezéseket
 - d) a nemzeti vérkészlettel való gazdálkodás, különös tekintettel a vérkészítmények külföldről történő behozatalára, valamint külföldre történő kivitelére vonatkozó szabályokat,
-- e) az egészségügyi válsághelyzeti és veszélyhelyzeti ellátásra, az egészségügyi válsághelyzet és veszélyhelyzet kezelésére vonatkozó részletes szabályokat, az egészségügyi válsághelyzeti és veszélyhelyzeti ellátás során megtehető intézkedésekre, az egészségügyi dolgozók kirendelésére, az egészségügyi válsághelyzeti és veszélyhelyzeti ellátásra való felkészülésre, az egészségügyi válsághelyzet és veszélyhelyzet kihirdetésére, megszüntetésére, az egészségügyi válsághelyzet és veszélyhelyzet esetén nyújtott egészségügyi ellátások finanszírozására, továbbá az egészségügyi válsághelyzet és veszélyhelyzet esetén az Állami Egészségügyi Tartalék feltöltésére vonatkozó részletes szabályokat,
+- e) az egészségügyi válsághelyzeti és veszélyhelyzeti ellátásra, az egészségügyi válsághelyzet és veszélyhelyzet kezelésére vonatkozó részletes szabályokat, az egészségügyi válsághelyzeti és veszélyhelyzeti ellátás során megtehető intézkedésekre, az egészségügyi dolgozók kirendelésére – ennek keretében a 229. § (3) bekezdése szerinti szerv kijelölésére –, az egészségügyi válsághelyzeti és veszélyhelyzeti ellátásra való felkészülésre, az egészségügyi válsághelyzet és veszélyhelyzet kihirdetésére, megszüntetésére, az egészségügyi válsághelyzet és veszélyhelyzet esetén nyújtott egészségügyi ellátások finanszírozására, továbbá az egészségügyi válsághelyzet és veszélyhelyzet esetén az Állami Egészségügyi Tartalék feltöltésére vonatkozó részletes szabályokat,
 - f) az egészségügyi szolgáltatók felelősségbiztosítására vonatkozó részletes szabályokat,
 - g) az ellátást nyújtó orvos megválasztására vonatkozó szabályokat,
 - h) a nem-konvencionális eljárásokra vonatkozó szabályokat
@@ -4572,7 +4576,7 @@ rendeletben megállapítsa.
 - k) határozza meg az egyidejűleg több ágazat irányítása alá tartozó országos gyógyintézet fenntartására és irányítására alkalmazandó szabályokat,
 - l) egészségügyi válsághelyzetben az egészségügyi szolgáltatás irányításáért felelős szerv, valamint az állam tulajdonában és fenntartásában működő egészségügyi intézmények irányítására sajátos irányítási rendet vezessen be,
 - m) határozza meg a honvédelmi irányítású egészségügyi szolgáltatókat,
-- n) határozza meg a Hvt. 80. § 11a. pontja szerinti honvédelmi egészségügyi szolgáltató és az annak irányítása alá tartozó, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltatók minősítési rendszerére vonatkozó szabályokat.
+- n) határozza meg a Hvt. 16. § (1) bekezdés a) pontja szerinti honvédelmi egészségügyi szolgáltató és az annak irányítása alá tartozó, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltatók minősítési rendszerére vonatkozó szabályokat.
 
 (1b) Felhatalmazást kap a Kormány, hogy járványügyi készültség keretében szükség esetén rendeletben
 

@@ -1359,7 +1359,7 @@ felel meg.
 
 ### Az elkövetők
 
-127. § (1) E törvény alkalmazásában katona a Magyar Honvédség tényleges állományú, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja.
+127. § (1) E törvény alkalmazásában katona a honvéd, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja.
 
 (2) E törvény rendelkezéseit a katonákra az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
@@ -1418,6 +1418,8 @@ más büntetés mellett, vagy ha a bűncselekmény büntetési tételének fels�
 
 (2) Katonai büntetés alkalmazásának nincs helye, ha a katonát a közügyektől eltiltják.
 
+(3) A hadkötelezettel szemben szolgálati viszony megszüntetése büntetés nem alkalmazható.
+
 ### A katonai mellékbüntetések
 
 136. § (1) Katonával szemben
@@ -1449,13 +1451,13 @@ büntetés mellett szabható ki.
 
 ### A várakozási idő meghosszabbítása
 
-140. § (1) A várakozási idő meghosszabbítása esetén a Magyar Honvédség tényleges állományú tagjának a soron következő rendfokozatba előlépésre előírt várakozási ideje meghosszabbodik. A meghosszabbítást években kell meghatározni, annak tartama nem haladhatja meg a rendfokozatra előírt várakozási idő felét.
+140. § (1) A várakozási idő meghosszabbítása esetén a honvéd soron következő rendfokozatba előlépésre előírt várakozási ideje meghosszabbodik. A meghosszabbítást években kell meghatározni, annak tartama nem haladhatja meg a rendfokozatra előírt várakozási idő felét.
 
 (1a) A várakozási idő meghosszabbítása esetén a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja esetében a soron következő fizetési fokozatba előresorolásra előírt várakozási idő meghosszabbodik. A meghosszabbítást években kell meghatározni, annak tartama nem haladhatja meg a fizetési fokozathoz rendelt várakozási idő felét.
 
 (2) A várakozási időt akkor kell meghosszabbítani, ha a katonának az előléptetést vagy az előresorolást hosszabb várakozási idő eltöltésével kell kiérdemelnie.
 
-(3) A Magyar Honvédség tényleges állományú tagja esetében az (1) és (2) bekezdésben meghatározott várakozási időn kötelező várakozási időt kell érteni.
+(3) A honvéd esetében az (1) és (2) bekezdésben meghatározott várakozási időn kötelező várakozási időt kell érteni.
 
 ### Mentesítés a büntetett előélethez fűződő hátrányok alól
 
@@ -1627,7 +1629,7 @@ irányul.
 
 ### Háborús fosztogatás
 
-154. § (1) Aki hadműveleti vagy megszállt területen
+154. § (1) Aki háború idején műveleti vagy megszállt területen
 
 - a) a polgári javakat fosztogatja,
 - b) a lakosságot szolgáltatás kikényszerítésével vagy más módon a létfenntartásához szükséges javaitól megfosztja, vagy e javait elpusztítja, kivéve, ha azt fontos katonai szükséglet indokolja,
@@ -1638,7 +1640,7 @@ ha súlyosabb bűncselekmény nem valósul meg, bűntett miatt egy évtől öt �
 
 ### Nemzetközi szerződés által tiltott fegyver alkalmazása
 
-155. § (1) Aki hadműveleti vagy megszállt területen nemzetközi szerződés által tiltott fegyvert vagy harci eszközt alkalmaz vagy alkalmaztat, bűntett miatt tíz évtől húsz évig terjedő vagy életfogytig tartó szabadságvesztéssel büntetendő.
+155. § (1) Aki háború idején műveleti vagy megszállt területen nemzetközi szerződés által tiltott fegyvert vagy harci eszközt alkalmaz vagy alkalmaztat, bűntett miatt tíz évtől húsz évig terjedő vagy életfogytig tartó szabadságvesztéssel büntetendő.
 
 (2) Aki az (1) bekezdésben meghatározott bűncselekményre irányuló előkészületet követ el, egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
@@ -5882,11 +5884,16 @@ bűntett miatt öt évtől tíz évig terjedő szabadságvesztéssel büntetend�
 
 428. § (1) Aki olyan cselekményt követ el, amelynek célja annak meghiúsítása, hogy a hadköteles a bevonulási kötelezettségét teljesítse, bűntett miatt a 425. §-ban meghatározottak szerint büntetendő.
 
-(2) Aki olyan cselekményt követ el, amelynek célja, hogy hadkötelest a 426. §-ban meghatározott módon a katonai szolgálat alól kivonjon, az ott meghatározottak szerint büntetendő.
+(2) Aki olyan cselekményt követ el, amelynek célja, hogy hadkötelest
+
+- a) a 426. § a) pontjában meghatározott módon vagy
+- b) a 426. § b) pontjában meghatározott módon
+
+a katonai szolgálat alól kivonjon, az ott meghatározottak szerint büntetendő.
 
 ### Polgári védelmi kötelezettség megszegése
 
-429. § (1) Aki a polgári védelmi szolgálatát nem látja el, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+429. § (1) Aki a polgári védelmi kötelezettségét nem teljesíti, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a bűncselekmény súlyos veszélyt idéz elő.
 
@@ -5898,7 +5905,7 @@ bűntett miatt öt évtől tíz évig terjedő szabadságvesztéssel büntetend�
 
 ### Szolgáltatási kötelezettség megszegése
 
-431. § Aki gazdasági vagy anyagi szolgáltatásban álló honvédelmi kötelezettségét súlyosan megszegi vagy kijátssza, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+431. § Aki gazdasági és anyagi szolgáltatásban álló védelmi és biztonsági kötelezettségét súlyosan megszegi vagy kijátssza, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
 ### A büntetés korlátlan enyhítése
 
@@ -5906,11 +5913,13 @@ bűntett miatt öt évtől tíz évig terjedő szabadságvesztéssel büntetend�
 
 ### Értelmező rendelkezések
 
-433. § (1) E fejezet rendelkezéseit megelőző védelmi helyzetben bevezetett hadkötelezettség elrendelését követően és rendkívüli állapotban kell alkalmazni.
+433. § (1) E fejezet rendelkezéseit hadiállapotban kell alkalmazni.
+
+(1a) A 426. § b) pontját és a 428. § (2) bekezdés b) pontját a hadiállapot Kormány általi kezdeményezését követő időszakban is alkalmazni kell.
 
 (2) A polgári védelmi kötelezettség megszegése az (1) bekezdésben meghatározottakon kívül szükségállapotban és veszélyhelyzetben, a szolgáltatási kötelezettség megszegése veszélyhelyzetben is elkövethető.
 
-(3) A honvédelmi munkakötelezettség megsértése csak rendkívüli állapotban követhető el.
+(3) A honvédelmi munkakötelezettség megsértése csak hadiállapotban követhető el.
 
 ### XLV. Fejezet — A KATONAI BŰNCSELEKMÉNYEK
 
@@ -5928,7 +5937,7 @@ bűntett miatt öt évtől tíz évig terjedő szabadságvesztéssel büntetend�
 
 követik el.
 
-(3) Öt évtől tizenöt évig terjedő szabadságvesztéssel büntetendő, aki a (2) bekezdés a)–c) pontjában meghatározott módon külföldre szökik, illetve aki a szökést háború idején vagy megelőző védelmi helyzetben követi el.
+(3) Öt évtől tizenöt évig terjedő szabadságvesztéssel büntetendő, aki a (2) bekezdés a)–c) pontjában meghatározott módon külföldre szökik, illetve aki a szökést háború idején követi el.
 
 (4) Aki a (2) bekezdésben meghatározott szökésre irányuló előkészületet követ el, vétség miatt egy évig, a (3) bekezdésben meghatározott esetben bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
@@ -5940,7 +5949,7 @@ követik el.
 
 (2) Ha az önkényes távollét tartama meghaladja a kilenc napot, a büntetés bűntett miatt három évig terjedő szabadságvesztés.
 
-(3) Ha az önkényes eltávozást háború idején, megelőző védelmi helyzetben, külföldi hadműveleti területen végzett humanitárius tevékenység vagy békefenntartás során követik el, a büntetés
+(3) Ha az önkényes eltávozást háború idején, külföldi hadműveleti területen végzett humanitárius tevékenység vagy békefenntartás során követik el, a büntetés
 
 - a) az (1) bekezdésben meghatározott esetben bűntett miatt egy évtől öt évig,
 - b) a (2) bekezdésben meghatározott esetben két évtől nyolc évig
@@ -5955,7 +5964,7 @@ terjedő szabadságvesztés.
 
 (3) Ha az ideiglenes kivonás tartama meghaladja a hat napot, a büntetés két évig terjedő szabadságvesztés.
 
-(4) Ha a bűncselekményt háború idején vagy megelőző védelmi helyzetben követik el, a büntetés
+(4) Ha a bűncselekményt háború idején követik el, a büntetés
 
 - a) az (1) bekezdésben meghatározott esetben öt évtől tizenöt évig,
 - b) a (2) bekezdésben meghatározott esetben bűntett miatt egy évtől öt évig,
@@ -5967,7 +5976,9 @@ terjedő szabadságvesztés.
 
 437. § (1) Aki a katonai szolgálat teljesítését kifejezetten megtagadja, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(2) A büntetés öt évtől tizenöt évig terjedő szabadságvesztés, ha a szolgálat megtagadását háború idején vagy megelőző védelmi helyzetben követik el.
+(1a) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a szolgálat megtagadását honvédelmi válsághelyzet idején követik el.
+
+(2) A büntetés öt évtől tizenöt évig terjedő szabadságvesztés, ha a szolgálat megtagadását háború idején követik el.
 
 ### Kötelességszegés szolgálatban
 
@@ -5976,7 +5987,7 @@ terjedő szabadságvesztés.
 (2) Ha a bűncselekmény a szolgálatra jelentős hátrány veszélyével jár, a büntetés bűntett miatt
 
 - a) az (1) bekezdésben meghatározott esetben három évig,
-- b) háború idején vagy megelőző védelmi helyzetben egy évtől öt évig
+- b) háború idején egy évtől öt évig
 
 terjedő szabadságvesztés.
 
@@ -5990,13 +6001,13 @@ terjedő szabadságvesztés.
 
 (2) Ha az (1) bekezdésben meghatározott bűncselekmény a szolgálatra jelentős hátrány veszélyével jár, külföldi hadműveleti területen végzett humanitárius tevékenység vagy békefenntartás során követik el, a büntetés bűntett miatt három évig terjedő szabadságvesztés.
 
-(3) Ha a (2) bekezdésben meghatározott bűncselekményt háború idején vagy megelőző védelmi helyzetben követik el, a büntetés egy évtől öt évig terjedő szabadságvesztés.
+(3) Ha a (2) bekezdésben meghatározott bűncselekményt háború idején követik el, a büntetés egy évtől öt évig terjedő szabadságvesztés.
 
 ### Jelentési kötelezettség megszegése
 
 440. § (1) Aki fontos szolgálati ügyben kellő időben nem tesz jelentést, vagy valótlan jelentést tesz, ha a bűncselekmény a szolgálatra jelentős hátrány veszélyével jár, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-(2) A büntetés bűntett miatt egy évtől öt évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt háború idején, megelőző védelmi helyzetben, külföldi hadműveleti területen végzett humanitárius tevékenység vagy békefenntartás során követik el.
+(2) A büntetés bűntett miatt egy évtől öt évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt háború idején, külföldi hadműveleti területen végzett humanitárius tevékenység vagy békefenntartás során követik el.
 
 ### Szolgálati visszaélés
 
@@ -6022,11 +6033,11 @@ terjedő szabadságvesztés.
 - a) az (1) bekezdésben meghatározott esetben két évtől nyolc évig,
 - b) a (2) bekezdésben meghatározott esetben öt évtől tizenöt évig
 
-terjedő szabadságvesztés, ha a zendülést háború idején vagy megelőző védelmi helyzetben követik el.
+terjedő szabadságvesztés, ha a zendülést háború idején követik el.
 
 (6) Ha az (1)–(2) bekezdésben meghatározott zendülést harchelyzetben követik el, a büntetés öt évtől tizenöt évig terjedő szabadságvesztés.
 
-(7) Aki zendülésre irányuló előkészületet követ el, bűntett miatt három évig, háború idején, harchelyzetben vagy megelőző védelmi helyzetben egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+(7) Aki zendülésre irányuló előkészületet követ el, bűntett miatt három évig, háború idején vagy harchelyzetben egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
 (8) Az (1) bekezdésében meghatározott esetben korlátlanul enyhíthető annak a büntetése, aki a zendülést, mielőtt az súlyosabb következménnyel jár, vagy miután felszólították, abbahagyja.
 
@@ -6034,7 +6045,7 @@ terjedő szabadságvesztés, ha a zendülést háború idején vagy megelőző v
 
 443. § (1) Aki a tudomására jutott zendülést vagy annak előkészületét tőle telhetőleg nem akadályozza meg, illetve késedelem nélkül nem jelenti, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-(2) A büntetés bűntett miatt egy évtől öt évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt háború idején, harchelyzetben vagy megelőző védelmi helyzetben követik el.
+(2) A büntetés bűntett miatt egy évtől öt évig terjedő szabadságvesztés, ha az (1) bekezdésben meghatározott bűncselekményt háború idején vagy harchelyzetben követik el.
 
 ### Parancs iránti engedetlenség
 
@@ -6047,7 +6058,7 @@ terjedő szabadságvesztés, ha a zendülést háború idején vagy megelőző v
 - a) más alárendeltek jelenlétében vagy egyébként nyilvánosan, akár a parancs teljesítésének kifejezett megtagadásával, akár egyéb sértő módon történik,
 - b) a szolgálatra vagy a fegyelemre jelentős hátrány veszélyével jár.
 
-(4) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a (3) bekezdésben meghatározott bűncselekményt háború idején vagy megelőző védelmi helyzetben követik el.
+(4) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a (3) bekezdésben meghatározott bűncselekményt háború idején követik el.
 
 (5) Aki háborúban a harci parancsot, külföldi hadműveleti területen végzett humanitárius tevékenység vagy békefenntartás során a fegyverhasználatra vonatkozó parancsot nem teljesíti, öt évtől tizenöt évig terjedő szabadságvesztéssel büntetendő.
 
@@ -6081,7 +6092,7 @@ szolgálatának teljesítése közben vagy amiatt erőszakot alkalmaz, azzal fen
 - b) a (2) bekezdésben meghatározott esetben két évtől nyolc évig,
 - c) a (3) bekezdésben meghatározott esetben öt évtől tizenöt évig
 
-terjedő szabadságvesztés, ha a bűncselekményt háború idején vagy megelőző védelmi helyzetben követik el.
+terjedő szabadságvesztés, ha a bűncselekményt háború idején követik el.
 
 ### Elöljáró vagy szolgálati közeg védelmére kelt vagy arra rendelt személy elleni erőszak
 
@@ -6138,7 +6149,7 @@ vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 (2) Ha a bűncselekmény a szolgálatra vagy a fegyelemre jelentős hátránnyal jár, a büntetés bűntett miatt
 
 - a) az (1) bekezdésben meghatározott esetben egy évtől öt évig,
-- b) háború idején vagy megelőző védelmi helyzetben két évtől nyolc évig
+- b) háború idején két évtől nyolc évig
 
 terjedő szabadságvesztés.
 
@@ -6156,7 +6167,7 @@ szükséges intézkedést elmulasztja, ha emberiesség elleni vagy háborús bű
 (2) Ha a bűncselekmény a szolgálatra, a fegyelemre vagy a közbiztonságra jelentős hátránnyal jár, a büntetés bűntett miatt
 
 - a) az (1) bekezdésben meghatározott esetben egy évtől öt évig,
-- b) háború idején vagy megelőző védelmi helyzetben két évtől nyolc évig
+- b) háború idején két évtől nyolc évig
 
 terjedő szabadságvesztés.
 
@@ -6169,7 +6180,7 @@ terjedő szabadságvesztés.
 (2) Ha a bűncselekmény a szolgálatra vagy a fegyelemre különösen nagy hátránnyal jár, a büntetés bűntett miatt
 
 - a) az (1) bekezdésben meghatározott esetben egy évtől öt évig,
-- b) háború idején vagy megelőző védelmi helyzetben két évtől nyolc évig
+- b) háború idején két évtől nyolc évig
 
 terjedő szabadságvesztés.
 
@@ -6184,7 +6195,7 @@ terjedő szabadságvesztés.
 
 bűntettet követ el, és három évig, háború idején két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Ha a bűncselekmény a szolgálatra különösen nagy hátránnyal jár, a büntetés egy évtől öt évig terjedő szabadságvesztés, háború idején vagy megelőző védelmi helyzetben öt évtől tizenöt évig terjedő szabadságvesztés.
+(2) Ha a bűncselekmény a szolgálatra különösen nagy hátránnyal jár, a büntetés egy évtől öt évig terjedő szabadságvesztés, háború idején öt évtől tizenöt évig terjedő szabadságvesztés.
 
 (3) Aki a bűncselekményt gondatlanságból követi el, vétség miatt az (1) bekezdés esetén – az ott tett megkülönböztetés szerint – egy évig, illetve három évig, a (2) bekezdés esetén – az ott tett megkülönböztetés szerint – két évig, illetve egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
@@ -6212,7 +6223,7 @@ kivonja magát, bűntett miatt öt évtől tizenöt évig terjedő szabadságves
 
 ### Harci szellem bomlasztása
 
-457. § (1) Aki háború idején vagy megelőző védelmi helyzetben a katonák között elégedetlenséget szít, vagy kishitűséget kelt, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+457. § (1) Aki háború idején a katonák között elégedetlenséget szít, vagy kishitűséget kelt, bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
 (2) A büntetés öt évtől tizenöt évig terjedő szabadságvesztés, ha a bűncselekmény
 
@@ -6249,7 +6260,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
 - 10. háború:
   - a) a háború áldozatainak védelmére vonatkozóan Genfben, az 1949. évi augusztus hó 12. napján kelt nemzetközi egyezmények közös 2. és 3. Cikkében, valamint ezen egyezmények I. Kiegészítő Jegyzőkönyve 1. Cikkének 4. bekezdésében meghatározott helyzetek,
   - b) az a) pontban említett egyezmények II. Kiegészítő Jegyzőkönyvének 1. Cikkében meghatározott helyzetek,
-  - c) a rendkívüli állapot,
+  - c) a hadiállapot,
   - d) a szükségállapot,
   - e) a háborús és a katonai bűncselekmények esetében a Magyar Honvédség külföldi alkalmazása is;
 - 11. hivatalos személy:
@@ -6266,7 +6277,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - k) az Alkotmánybíróságnál, a Köztársasági Elnök Hivatalánál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, a Magyar Nemzeti Banknál, az Állami Számvevőszéknél, bíróságnál, ügyészségnél, központi államigazgatási szervnél, az Országgyűlési Őrségnél, fővárosi vagy megyei kormányhivatalnál, önkormányzati igazgatási szervnél vagy köztestületnél közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,
   - l) a választási bizottság tagja;
 - 12. közfeladatot ellátó személy:
-  - a) a Magyar Honvédség szolgálati feladatot teljesítő katonája,
+  - a) a szolgálati feladatot teljesítő honvéd,
   - b) a polgári védelmi szervezetbe beosztott és polgári védelmi szolgálatot teljesítő személy,
   - c) a polgárőr a polgárőrségről és a polgárőri tevékenység szabályairól szóló törvényben meghatározott tevékenységének ellátása során,
   - d) az egyházi személy és a vallási egyesület vallásos szertartást hivatásszerűen végző tagja,
@@ -6348,12 +6359,14 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
 - 34. külföldi védelemben részesített kulturális örökségi elem: a 2021. évi CXXV. törvénnyel kihirdetett, az Európa Tanács kulturális örökséggel kapcsolatos bűncselekményekről szóló, Nikóziában, 2017. május 19-én kelt egyezménye
   - a) 2. Cikk 2. bekezdés a. pontjának megfelelően minősített, meghatározott vagy megjelölt ingó kulturális örökségi elem, és
   - b) 2. Cikk 2. bekezdés b. pontjának megfelelően meghatározott vagy megjelölt ingatlan kulturális örökségi elem.
+- 35. humanitárius művelet: a fogadó ország beleegyezésével vagy erre jogosult nemzetközi szervezet felhatalmazásával a Honvédség érdemi közreműködésével folytatott segítő tevékenység, amely a fegyveres konfliktus, a természeti vagy civilizációs katasztrófa által okozott olyan helyzet elhárítására és következményeinek csökkentésére irányul, amely emberek életét, egészségét, anyagi értékeit, alapvető ellátását, a természeti környezetet súlyos mértékben veszélyezteti, károsítja;
+- 36. külföldi hadműveleti területen végzett humanitárius tevékenység: a Honvédség részvétele a szemben álló felek fegyveres összeütközése miatt veszélyeztetett területen, a polgári lakosok élete, testi épsége, egészsége, az életfenntartáshoz szükséges alapvető javak biztosítása érdekében.
 
 (2) Ahol e törvény élettársat említ, azon a bejegyzett élettársat is érteni kell.
 
-(3) Ahol e törvény szövetséges fegyveres erőt, külföldi hadműveleti területen végzett humanitárius tevékenységet, békefenntartást vagy humanitárius műveletet említ, azon a honvédelemről és a Magyar Honvédségről szóló törvényben meghatározott fogalmakat kell érteni.
+(3) Ahol e törvény honvédet, műveleti területet, szövetséges fegyveres erőt vagy békefenntartást említ, azon a honvédelemről és a Magyar Honvédségről szóló törvényben meghatározott fogalmakat kell érteni.
 
-(3a) Ahol e törvény rendfokozatot említ, azon a Magyar Honvédség tényleges állományú tagja esetében a viselt rendfokozatot, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozatot kell érteni.
+(3a) Ahol e törvény rendfokozatot említ, azon a honvéd esetében a viselt rendfokozatot, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozatot kell érteni.
 
 (4) Ahol e törvény szigorúan titkos, titkos, bizalmas, illetve korlátozott terjesztésű minősítésű adatot említ, azon a minősített adat védelméről szóló törvényben meghatározott nemzeti vagy külföldi minősített adatot kell érteni.
 
