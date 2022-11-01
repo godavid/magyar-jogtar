@@ -23,7 +23,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - 7. engedélyezi és felügyeli a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenységet,
 - 7a. engedélyezi – nemzetközi megállapodás eltérő rendelkezése hiányában – a szolgálati lőfegyverek és lőszerek szolgálati célból történő külföldre vitelét és az együttműködő, külföldi rendészeti feladatokat ellátó hatóságok szolgálati lőfegyvereinek és lőszereinek az országba történő behozatalát,
 - 8. büntetés-végrehajtási feladatokat lát el,
-- 9. ellátja a rendkívüli állapot, a szükségállapot, a megelőző védelmi helyzet, a terrorveszélyhelyzet, a váratlan támadás és a veszélyhelyzet esetén a hatáskörébe utalt rendvédelmi feladatokat, továbbá rendkívüli állapot idején és váratlan támadás esetén közreműködik az államhatárt fegyveresen vagy felfegyverkezve átlépő személyek kiszorításában, valamint elfogásában és lefegyverzésében,
+- 9. ellátja különleges jogrendben a hatáskörébe utalt rendvédelmi feladatokat, illetve hadiállapot idején közreműködik az államhatárt fegyveresen vagy felfegyverkezve átlépő személyek kiszorításában, valamint elfogásában és lefegyverzésében,
 - 10. őrzi az államhatárt, megelőzi, felderíti, megszakítja az államhatár jogellenes átlépését, részt vesz a jogellenes bevándorlás megakadályozásában.
 - 11. ellenőrzi az államhatáron áthaladó személy- és járműforgalmat, a szállítmányokat – ide nem értve a Közösségi Vámkódex létrehozásáról szóló 2913/92/EGK rendeletben meghatározott vámellenőrzést –, valamint végzi a határátléptetést, továbbá biztosítja a határátkelőhelyek rendjét, valamint végzi a közúti határátkelőhelyek üzemeltetését, és a fenntartásukra és fejlesztésükre vonatkozó feladatok végrehajtását,
 - 12. irányítja a határesemények kivizsgálásával megbízott magyar szervek tevékenységét, felügyeli az államhatár felmérésével, megjelölésével, a határjelek felújításával kapcsolatos munkák végzését,
@@ -39,6 +39,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 - 19. ellátja a segélyhívó számokra érkező hívások, illetve egyéb jelzések fogadásából eredő feladatokat,
 - 20. ellátja a hatáskörébe utalt idegenrendészeti és menekültügyi feladatokat.
 - 21. biztosítja az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 35. cikk (1) bekezdésében meghatározott hatásszinteknek megfelelő határellenőrzést.
+- 22. ellátja a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott feladatokat.
 
 2. § (1) A rendőrség védelmet nyújt az életet, a testi épséget, a vagyonbiztonságot közvetlenül fenyegető vagy sértő cselekménnyel szemben, felvilágosítást és segítséget ad a rászorulónak. A rendőrség tiszteletben tartja és védelmezi az emberi méltóságot, óvja az ember jogait.
 

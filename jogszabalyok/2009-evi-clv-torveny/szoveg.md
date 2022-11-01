@@ -71,7 +71,7 @@ részes felek által képviselt államokkal Magyarországnak van-e a ba) alpontb
 - m) a kormánybiztos, a miniszterelnöki biztos,
 - n) a Kormány ügyrendje szerint működő testület vezetője,
 - o) az autonóm államigazgatási szerv vezetője, az önálló szabályozó szerv vezetője, a kormányzati főhivatal vezetője,
-- p) a rendvédelmi szerv központi szerve, a Katonai Nemzetbiztonsági Szolgálat vezetője,
+- p) a rendvédelmi szerv központi szerve, a Katonai Nemzetbiztonsági Szolgálat vezetője, a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti, a védelmi és biztonsági igazgatás központi szervének vezetője,
 - q) a rendőrségről szóló törvényben meghatározott
   - qa) az általános rendőrségi feladatok ellátására létrehozott szerv vezetője,
   - qb) belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője,

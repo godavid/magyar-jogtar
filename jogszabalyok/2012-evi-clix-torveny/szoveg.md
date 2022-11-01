@@ -422,7 +422,9 @@ köteles – a személyes kézbesítés sikertelensége esetén a jogosult átve
 
 #### 16.
 
-#### 22–23. §
+#### 22. §
+
+#### 23. §
 
 #### 17. Az egyetemes postai szolgáltató különleges jogai és kötelezettségei
 
@@ -501,9 +503,9 @@ jogcím megjelölésére szolgáló, a Posta Elszámoló Központot működtető
 
 32. § (1) A postai szolgáltatást veszélyeztető műszaki, forgalmi, katasztrófa- vagy egyéb veszélyhelyzet miatt keletkező üzemzavar elhárításához az egyetemes postai szolgáltatónak folyamatosan felülvizsgált és karbantartott védelmi, felkészülési és katasztrófaelhárítási tervekkel, valamint az ezekből eredő feladatok ellátásához szükséges tartalékokkal kell rendelkeznie.
 
-(2) Az egyetemes postai szolgáltatónak a különleges jogrend időszakban alkalmazandó intézkedési terv kidolgozása és végrehajtása érdekében – külön jogszabályban meghatározott módon – együtt kell működnie az illetékes szervezetekkel.
+(2) Az egyetemes postai szolgáltatónak a különleges jogrendben alkalmazandó intézkedési terv kidolgozása és végrehajtása érdekében – külön jogszabályban meghatározott módon – együtt kell működnie az illetékes szervezetekkel.
 
-(3) Az egyetemes postai szolgáltató jogosult a különleges jogrend időszakban az intézkedési terv alapján általa tett intézkedések, illetve a honvédelmi érdekek érvényesítésére vonatkozó jogszabályok szerint általa nyújtott postai szolgáltatások tényleges költségeinek a megtéríttetésére.
+(3) Az egyetemes postai szolgáltató jogosult különleges jogrendben az intézkedési terv alapján általa tett intézkedések, illetve a honvédelmi, a védelmi és biztonsági érdekek érvényesítésére vonatkozó jogszabályok szerint általa nyújtott postai szolgáltatások tényleges költségeinek a megtéríttetésére.
 
 (4) Az egyetemes postai szolgáltató jogosult a sérelmére történő bűncselekmények elkövetésének megelőzése, illetve a bűncselekmény elkövetőjének felderítése érdekében sérülést vagy egészségkárosodást nem okozó technikai eszközt vagy csapdát alkalmazni.
 
@@ -529,7 +531,7 @@ jogcím megjelölésére szolgáló, a Posta Elszámoló Központot működtető
 
 #### 21. Az egyetemes postai szolgáltatás korlátozása, szünetelése
 
-34. § (1) Az egyetemes postai szolgáltatás kizárólag Magyarország honvédelmi, nemzetbiztonsági, közegészségügyi és közbiztonsági érdekeinek védelmében korlátozható vagy szüneteltethető.
+34. § (1) Az egyetemes postai szolgáltatás kizárólag Magyarország honvédelmi, védelmi és biztonsági, nemzetbiztonsági, közegészségügyi és közbiztonsági érdekeinek védelmében korlátozható vagy szüneteltethető.
 
 (2) Az (1) bekezdésben meghatározott okokon kívül az egyetemes postai szolgáltatás korlátozását vagy szünetelését kizárólag az egyetemes postai szolgáltató működési körén kívül eső elháríthatatlan ok (vis maior) vagy sztrájk okozhatja.
 
@@ -908,12 +910,14 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 59. § (1) E törvény alkalmazásában állami feladat:
 
 - a) a nemzeti postapolitika kialakítása, a végrehajtásához szükséges feltételek megteremtése; az egyetemes postai szolgáltatás biztosítása;
-- b) a postai ágazatban a kormányzati, nemzetbiztonsági, igazságszolgáltatási, rendvédelmi és védelmi igények érvényesítése, továbbá ezek megvalósításának ellenőrzése;
+- b) a postai ágazatban a kormányzati, nemzetbiztonsági, igazságszolgáltatási, rendvédelmi, védelmi és biztonsági, valamint honvédelmi igények érvényesítése, továbbá ezek megvalósításának ellenőrzése;
 - c) a postai ágazattal összefüggő nemzetközi feladatok ellátása;
 - d) a postai ágazat állami intézményrendszerének hatékony működtetése, a szakmai érdek-képviseleti szervezetekkel való együttműködés;
 - e) a postai szolgáltatások szabályozásának összeegyeztetése az adatvédelemmel, a fogyasztóvédelemmel és a környezetvédelemmel;
 - f) a postai hálózatok, a postai szolgáltatók és a szolgáltatások együttműködési feltételeinek szükség szerinti biztosítása;
-- g) a postai szolgáltatások biztonságának növeléséhez, a különleges jogrend időszakának feladataira történő felkészítéséhez szükséges szervezeti, működési feltételek biztosítása, a nemzeti és nemzetközi elveknek megfelelően;
+- g) a postai szolgáltatások biztonságának növeléséhez, a különleges jogrend és az összehangolt védelmi tevékenység időszakának feladataira történő felkészítéséhez szükséges szervezeti, működési feltételek biztosítása a nemzeti és nemzetközi elveknek megfelelően, amelynek keretében a postai szolgáltató jogszabályban foglaltak szerint
+  - ga) felkészül a különleges jogrend, valamint összehangolt védelmi tevékenység idejére irányadó, jogszabályban meghatározott feladatokra;
+  - gb) a védelmi és az üzletmenet-folytonossággal kapcsolatos részletes feladatok meghatározására, azok végrehajtásának szervezeti és működési feltételei biztosítására jogszabályban meghatározottak szerint tervet készít,
 - h) a postai ágazattal összefüggő tevékenységekhez és azok szabályozásához, felügyeletéhez szükséges információs és statisztikai rendszer működtetése.
 
 (2) Magyarországot az Egyetemes Postaegyesület Kongresszusain a Kormány által meghatalmazottak, az Egyetemes Postaegyesület operatív munkájában pedig a miniszter, a Hatóság, valamint az egyetemes postai szolgáltató képviselik.
@@ -925,9 +929,9 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 - a) kialakítja a nemzeti postapolitikát, a postai tevékenységek és a szolgáltatások alapvető elveit és feltételeit, valamint a postai infrastruktúra fejlesztésére irányuló állami programokat;
 - b) megköti a postaszolgálattal összefüggő nemzetközi szerződéseket, gondoskodik Magyarország képviseletéről a postaszolgálattal kapcsolatos különböző nemzetközi szervezetekben;
 - c) gondoskodik – a fogyasztóvédelemért felelős miniszteren keresztül – a felhasználói érdekek érvényre juttatásáról;
-- d) meghatározza a postai szolgáltatások biztonságának, a különleges jogrend időszakára való felkészítésének rendszerét, biztosítja az államigazgatásra háruló feladatok ellátásának feltételeit;
+- d) meghatározza a postai szolgáltatások biztonságának, a különleges jogrend és az összehangolt védelmi tevékenység idejére való felkészítésének rendszerét, ezzel összefüggésben biztosítja az államigazgatásra háruló feladatok ellátásának feltételeit;
 - e) meghatározza a postaszolgálat területén az általános és speciális nemzetbiztonsági érdekek érvényesítéséhez szükséges feltételeket, valamint az ezek megvalósulásának ellenőrzésére vonatkozó szabályokat;
-- f) átmenetileg korlátozhatja vagy szüneteltetheti a postai szolgáltatásokat a honvédelemről szóló, a polgári védelemről szóló, és a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló törvényben foglaltak alapján, illetve egyéb okból bekövetkezett különleges jogrend időszakában;
+- f) összehangolt védelmi tevékenység elrendelése esetén rendeletében átmenetileg korlátozhatja vagy szüneteltetheti a postai szolgáltatásokat;
 - g) amennyiben szükséges, gondoskodik az egyetemes postai szolgáltatás nettó költsége méltánytalan többletteher-megtérítéséről;
 - h) ellátja az uniós jogszabályokban a tagállamra delegált információszolgáltatással, kapcsolattartással és egyéb együttműködéssel kapcsolatos feladatokat.
 
@@ -937,11 +941,11 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 - a) előterjeszti a Kormány számára a nemzeti postapolitikára vonatkozó javaslatot, és gondoskodik az erről szóló határozat végrehajtásáról;
 - b) figyelemmel kíséri az egyetemes postai szolgáltatás ellátásának helyzetét és intézkedik a szolgáltatás biztosítása érdekében, megköti és szükség esetén módosítja az Egyetemes Postai Közszolgáltatási szerződést;
-- c) koordinálja a postai ágazattal kapcsolatos polgári, kormányzati, nemzetbiztonsági, igazságszolgáltatási, rendvédelmi és védelmi tevékenységet;
-- d) kijelöli a védelmi feladatok ellátásában részt vevő postai szolgáltatót, meghatározza a különleges jogrend időszakának helyzeteire történő felkészüléssel kapcsolatos feladatokat;
+- c) a védelmi és biztonsági érdekek figyelembevételével koordinálja a postai ágazattal kapcsolatos polgári, kormányzati, nemzetbiztonsági, igazságszolgáltatási, rendvédelmi és védelmi tevékenységet;
+- d) a védelmi és biztonsági érdekek figyelembevételével kijelöli a védelmi feladatok ellátásában részt vevő postai szolgáltatót, meghatározza a különleges jogrend időszakának helyzeteire történő felkészüléssel kapcsolatos feladatokat;
 - e) irányítja a postaszolgálattal összefüggő nemzetközi feladatok ellátását, előkészíti a Kormány postai ágazattal kapcsolatos nemzetközi tevékenységét, gondoskodik a nemzetközi kötelezettségek végrehajtásáról, ellátja a Magyarország képviseletét a postai ágazattal kapcsolatos nemzetközi szervezetekben, továbbá olyan nemzetközi együttműködési megállapodásokat köt, amelyek nem tartoznak az Országgyűlés vagy a Kormány hatáskörébe;
 - f) ellátja az uniós jogszabályokban a tagállamra delegált információszolgáltatással, kapcsolattartással és egyéb együttműködéssel kapcsolatos feladatokat;
-- g) részt vesz a postai ágazat nemzetbiztonsági és védelmi jellegű feladatainak végrehajtásában;
+- g) a védelmi és biztonsági érdekek figyelembevételével részt vesz a postai ágazat nemzetbiztonsági és védelmi jellegű feladatainak végrehajtásában;
 - h) a statisztikáról szóló törvényben meghatározottak szerint gondoskodik a feladat- és hatáskörével kapcsolatos statisztikai információrendszer kialakításáról, működtetéséről és fejlesztéséről;
 - i) koncepciókat és programokat dolgoz ki a postai tevékenységek, szolgáltatások fejlesztésére, a kidolgozott koncepciók alapján hozzájárul ezek megvalósításának feltételeihez;
 - j) gondoskodik a postai szolgáltatások színvonalának javításáról a szabványosítás, valamint a kutatási, fejlesztési tevékenység támogatásával;
@@ -1070,7 +1074,9 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 (4) Az általános hatósági felügyeleti eljárást megelőzheti hatósági ellenőrzés.
 
-(5)–(6)
+(5)
+
+(6)
 
 (7) A hatósági ellenőrzés eredményeként, hatósági hatásköre keretében a Hatóság felhívhatja az ügyfelet – a jogszabály vagy a hatósági határozat megsértésének pontos megjelölésével – a jogszabály vagy a hatósági határozat megsértésének megszüntetésére és szükség esetén az eredeti állapot helyreállítására.
 
@@ -1086,7 +1092,11 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 (4) Amennyiben a hatósági eljárás folyamatában az ügyfél az ügy hatósági szerződéssel történő lezárását kezdeményezi, akkor az ügyintézési határidő 120 nap.
 
-72. § (1)–(3)
+72. § (1)
+
+(2)
+
+(3)
 
 (4) Súlyos vagy ismételt ügyfél általi szerződésszegés esetében a Hatóság jogosult – a hatósági szerződés eltérő rendelkezése hiányában – a hatósági szerződést azonnali hatállyal felmondani.
 
@@ -1184,10 +1194,12 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 - b) a hivatalos iratokkal kapcsolatos szolgáltatás részletes szabályait;
 - c) a postai szolgáltatók általános szerződési feltételeinek kötelező tartalmi elemeit, a postai szolgáltatásból kizárt, vagy feltételesen szállítható küldemények körét;
 - d)
-- e) a postai szolgáltatások különleges jogrend időszaki felkészítésének rendszerét, feladatait, működési feltételeit;
+- e) a postai szolgáltatások különleges jogrend időszaki, valamint az összehangolt védelmi tevékenységre való felkészítésének rendszerét, feladatait, működési feltételeit;
 - f) a postai szolgáltatót, alkalmazottját, tagját, megbízottját és a postai közreműködőt terhelő adatvédelmi és titoktartási kötelezettséget, az adatkezelés részletes szabályait, a titokvédelemre vonatkozó különleges feltételeket;
 - g) a postai szolgáltatók, a postai közreműködők és a titkos információgyűjtés folytatására, illetve a leplezett eszközök alkalmazására feljogosított szervezetek együttműködésének részletes szabályait;
 - h) az egészségügyről szóló törvény szerinti egészségügyi válsághelyzet esetén a személyes átadás mellőzésével történő kézbesítés részletes szabályait.
+
+(1a) Felhatalmazást kap a Kormány, hogy rendeletben a 60. § f) pontja szerinti intézkedéseket összehangolt védelmi tevékenység elrendelése esetén bevezesse.
 
 (2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg:
 

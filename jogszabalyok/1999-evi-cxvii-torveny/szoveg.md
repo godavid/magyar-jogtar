@@ -871,7 +871,7 @@ rendeletben állapítsa meg.
 - a) a – vámeljárások során alkalmazandó – NATO okmányok körét, alkalmazásuk és kiadmányozásuk eljárási szabályait,
 - b) az Észak-atlanti Szerződés tagállamainak és az 1995. évi LXVII. törvényben kihirdetett Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői és polgári állománya részére történő e törvény 7. §-ában foglalt termékértékesítés általános forgalmi adó alóli mentességének részletes feltételeit és eljárási szabályait.
 
-15. § A Megállapodás, valamint az 1995. évi CII. törvénnyel kihirdetett, az Észak-atlanti Szerződés részes államai és a „Békepartnerség” más részt vevő államai közötti, fegyveres erőik jogállásáról szóló Megállapodás és annak Kiegészítő Jegyzőkönyve végrehajtásáról a Kormány minden év április 30-áig tájékoztatja az Országgyűlés külügyekkel és honvédelemmel foglalkozó bizottságait.
+15. §
 
 16. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetése napján lép hatályba.
 

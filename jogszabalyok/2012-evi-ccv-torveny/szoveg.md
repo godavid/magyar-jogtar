@@ -33,7 +33,7 @@ akkor terjed ki, ha ezt e törvény elrendeli.
   - a) általános előmeneteli rendben azonos rendfokozattal rendszeresített,
   - b) speciális előmeneteli rendben azonos elérhető rendfokozatú,
   - c) az előmeneteli rendek közötti váltás esetén az a) és b) pontok összevetése alapján azonosnak minősül,
-- 4. átszervezés: az Országgyűlés, a Kormány, a honvédelemért felelős miniszter (a továbbiakban: miniszter), valamint a Magyar Honvédség parancsnokának a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 39. § (2) bekezdése szerinti döntése alapján a névváltoztatás kivételével minden olyan változás, amelynek következtében egyes szolgálati beosztások létesülnek, módosulnak vagy megszűnnek,
+- 4. átszervezés: az Országgyűlés, a Kormány, a honvédelemért felelős miniszter (a továbbiakban: miniszter), valamint a Magyar Honvédség parancsnokának a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény (a továbbiakban: Hvt.) 65. § (1) bekezdése szerinti döntése alapján a névváltoztatás kivételével minden olyan változás, amelynek következtében egyes szolgálati beosztások létesülnek, módosulnak vagy megszűnnek,
 - 5. előkészítő vagy befejező tevékenység: minden olyan feladat ellátása, amelyet az állomány tagja szolgálati beosztásához kapcsolódóan, szokás szerint és rendszeresen, külön utasítás nélkül köteles elvégezni,
 - 6. előmenetel: szervezeti hierarchiában történő előrehaladás, amely szolgálati beosztásba történő kinevezéssel, illetve – a 139. § (6) bekezdése szerinti posztumusz elismerést ide nem értve – rendfokozati kinevezéssel, előléptetéssel valósul meg,
 - 7. fogyatékos gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra,
@@ -73,7 +73,7 @@ akkor terjed ki, ha ezt e törvény elrendeli.
 - 30. nyugállományú katona: az állomány korábbi tagja,
   - a) akit a fegyveres erők és a fegyveres testületek hivatásos állományának szolgálati viszonyáról szóló 1971. évi 10. törvényerejű rendelet, a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény vagy a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény szerint katonai szolgálati nyugállományba, rokkantsági, baleseti rokkantsági nyugállományba helyeztek, vagy
   - b) aki öregségi nyugdíjban, más olyan pénzbeli ellátásban részesül, amelyet a nyugdíjkorhatár betöltésekor hivatalból öregségi nyugdíjként kell továbbfolyósítani, vagy megváltozott munkaképességűek ellátásában részesül, feltéve, hogy annak megállapítását közvetlenül megelőző utolsó szolgálati viszonya a honvédelmi szervezettel vagy a Katonai Nemzetbiztonsági Szolgálattal (a továbbiakban: KNBSZ) állt fenn, kivéve, ha a szolgálati viszonya e törvény alapján lemondás, a szerződéses állomány tagjának egyoldalú szerződésbontása, lefokozás vagy szolgálati viszony megszüntetése fenyítés kiszabásával, büntetőeljárás keretében szolgálati viszony megszüntetése, lefokozás, szolgálati viszony keretében betöltött munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás vagy közügyektől eltiltás alkalmazásával, vagy méltatlanná válás, kifogástalan életvitel követelményének való meg nem felelés, nemzetbiztonsági szempontból katonai szolgálatra alkalmatlanság miatt szűnt meg,
-- 31. önkéntes tartalékos katona: az a katona, aki szerződésben vállalja az e törvényben meghatározott feltételrendszer szerint a Hvt. 41. § (5) bekezdésében foglaltakat,
+- 31. önkéntes tartalékos katona: az a katona, aki szerződésben vállalja az e törvényben meghatározott feltételrendszer szerint a Hvt. 71. § (3) bekezdésében foglaltakat,
 - 31a. pályakezdő: az állomány azon tagja, aki első alkalommal létesít tiszti vagy altiszti szolgálati viszonyt – ide nem értve a honvéd tisztjelöltet és a honvéd altiszt-jelöltet, az állománycsoport-váltással tiszti vagy altiszti állományba, az önkéntes tartalékosból szerződéses vagy hivatásos állományba kerülőket, valamint a szerződésesből hivatásos állományba kerülőket,
 - 32. rendszeres illetménypótlék: a havi mértékben megállapított illetménypótlék,
 - 32a. rendszeresített rendfokozat: általános előmeneteli rendbe tartozó szolgálati beosztások esetén a beosztáshoz rendelt, kettős rendfokozattal rendszeresített szolgálati beosztások esetén a beosztáshoz rendelt magasabb, speciális előmeneteli rendbe tartozó szolgálati beosztások esetén a beosztásban elérhető legmagasabb rendfokozat,
@@ -280,9 +280,9 @@ akkor terjed ki, ha ezt e törvény elrendeli.
 
 #### 13. Az alapvető jogok korlátozásának általános keretei
 
-17. § (1) Az állomány tagja a Hvt. 36. § (1) bekezdés a), b) és f) pontjában meghatározott feladatok végrehajtására kapott parancsot önfeláldozásig terjedő bátorsággal köteles végrehajtani. A Hvt. 36. § (1) bekezdés c)–e), g) és h) pontjában és (2) bekezdés a) pontjában meghatározott feladatok végrehajtására kapott parancsot az állomány tagja akkor is köteles teljesíteni, ha az az életét vagy a testi épségét közvetlenül vagy súlyosan veszélyezteti.
+17. § (1) Az állomány tagja a Hvt. 59. § (1) bekezdés a), b) és k) pontjában meghatározott feladatok végrehajtására kapott parancsot önfeláldozásig terjedő bátorsággal köteles végrehajtani. A Hvt. 59. § (1) bekezdés d), e), g), i) pontjában és (2) bekezdés a) pontjában meghatározott feladatok végrehajtására kapott parancsot az állomány tagja akkor is köteles teljesíteni, ha az az életét vagy a testi épségét közvetlenül vagy súlyosan veszélyezteti.
 
-(2) A Hvt. 36. § (1) bekezdés a), c), d), f), g) pontjában és (2) bekezdés a) pontjában, továbbá a Hvt. 56. § (3) bekezdésében meghatározott szolgálati feladatok végrehajtása során az állomány tagja végszükségre nem hivatkozhat.
+(2) A Hvt. 59. § (1) bekezdés a), d), g) és k) pontjában, és (2) bekezdés a) pontjában meghatározott szolgálati feladatoknak, továbbá a honvédelem szempontjából létfontosságúnak kijelölt rendszerelemek, illetve a honvédelem szempontjából fokozott védelmet igénylő létesítmények őrzésének és védelmének a végrehajtása során az állomány tagja végszükségre nem hivatkozhat.
 
 #### 14. Az egyes alapvető jogok gyakorlásának korlátozása
 
@@ -443,7 +443,7 @@ akkor terjed ki, ha ezt e törvény elrendeli.
 - a)
 - b) a honvéd altiszt-jelölttel,
 - c) a legénységi állomány azon tagjával, aki a honvédelmi szervezet által szervezett, kizárólag katonai munkakör betöltésére jogosító honvéd altiszt-képzést eredményesen befejezte, vagy
-- d) a szerződéses szolgálati viszonyban, önkéntes tartalékos szolgálati viszonyban, honvédelmi szervezetnél kormányzati szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban, közalkalmazotti jogviszonyban vagy munkaviszonyban álló személlyel,
+- d) a szerződéses szolgálati viszonyban, önkéntes tartalékos szolgálati viszonyban, honvédelmi szervezetnél kormányzati szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban vagy munkaviszonyban álló személlyel,
 - e) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományából, illetve a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottjainak állományából áthelyezésre kerülő személlyel,
 - f) a polgári életből a 35. § (1) bekezdése szerinti állományba vétellel tiszti vagy altiszti állományba kerülő személlyel.
 
@@ -563,9 +563,9 @@ jön létre, legfeljebb 6 hónap próbaidő köthető ki.
 
 (2)
 
-(3) A Honvéd Koronaőrség tagja koronaőri eskü letételére is köteles.
+(3)
 
-(4) A (3) bekezdés szerinti eskü szövegét a 3. melléklet határozza meg.
+(4)
 
 (5) Az eskütétel elmaradása érvénytelenségi ok.
 
@@ -1017,7 +1017,7 @@ feltéve, hogy a szolgálati beosztás ellátásához miniszteri rendeletben el�
 - b) 100, vagy annál több, de 300-nál kevesebb rendszeresített beosztás esetén legalább az állomány 10%-a,
 - c) 300, vagy annál több rendszeresített beosztás esetén legalább 30 fő.
 
-(3) A (2) bekezdés alkalmazása szempontjából a szolgálati viszonyban, a kormányzati szolgálati jogviszonyban, és a közalkalmazotti jogviszonyban állók létszámát össze kell számítani.
+(3) A (2) bekezdés alkalmazása szempontjából a szolgálati viszonyban, a kormányzati szolgálati jogviszonyban és a honvédelmi alkalmazotti jogviszonyban állók létszámát össze kell számítani.
 
 #### 39. A felmentési idő
 
@@ -1246,7 +1246,7 @@ a részére megállapított baleseti ellátás, rehabilitációs ellátás és r
 
 (2) A honvédelmi szervezet az áthelyezéshez való hozzájárulást különösen akkor tagadhatja meg, ha az átvevő munkáltató megkeresésének kézhezvétele és az áthelyezés kért időpontja közötti időtartam a 2 hónapot nem haladja meg. E rendelkezés nem alkalmazható az állomány 46. § (1) bekezdés r) vagy s) pontja szerinti rendelkezési állományba tartozó tagja esetén.
 
-(3) Szolgálati beosztás nem katonai munkakörré történő átminősítése esetén az állomány tagja a közalkalmazotti jogviszonyba vagy a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati jogviszonyba, a honvédelmi alkalmazotti jogviszonyba beleegyezésével helyezhető át.
+(3) Szolgálati beosztás nem katonai munkakörré történő átminősítése esetén az állomány tagja közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati jogviszonyba vagy honvédelmi alkalmazotti jogviszonyba beleegyezésével helyezhető át.
 
 (4) Áthelyezés esetén az állomány áthelyezett tagjának jogviszonyát folyamatosnak kell tekinteni. Az áthelyezést megelőzően az állomány tagját a szolgálaton kívüli állomány lehetőségéről tájékoztatni kell.
 
@@ -1652,7 +1652,7 @@ az állomány tagját mentesíti a szolgálatteljesítési kötelezettsége aló
 
 92. § (1) A tényleges szolgálati viszonyban töltött idő az állományba vétel napjától a szolgálati viszony megszűnésének, megszüntetésének napjáig tart. A szolgálati viszony szünetelésének időtartama a tényleges szolgálati viszonyban töltött időbe nem számítható be.
 
-(2) A felmentési idő, a végkielégítés, a nyugdíj előtti rendelkezési állomány, a pótszabadság mértéke, a jubileumi jutalom és a 46. § (1) bekezdés r) és s) pontja szerinti rendelkezési állományba helyezés, valamint a Hvt. 46. § (1a) bekezdése szempontjából
+(2) A felmentési idő, a végkielégítés, a nyugdíj előtti rendelkezési állomány, a pótszabadság mértéke, a jubileumi jutalom és a 46. § (1) bekezdés r) és s) pontja szerinti rendelkezési állományba helyezés szempontjából
 
 - a) a 2002. január 1-je előtt a fegyveres szervek állományában szolgálati viszonyban eltöltött, és a korábbi szabályok szerint beszámítható szolgálati időt, és
 - b) a 2012. január 1-je előtt hatályos szabályok szerint rögzített szolgálati időt
@@ -2209,7 +2209,7 @@ szerinti mértékben kerül megállapításra.
 
 szerinti mértékben kerül megállapításra.
 
-(3a) A fokozott igénybevételi illetménypótlék mértéke a Hvt. 36. § (1) bekezdés h) pontja, valamint (2) bekezdés a) pontja szerinti szolgálati feladat ellátása esetén a távolléti díj százalékában meghatározva naponként 1–10% lehet.
+(3a) A fokozott igénybevételi illetménypótlék mértéke a Hvt. 59. § (1) bekezdés i) pontja, valamint (2) bekezdés a) pontja szerinti szolgálati feladat ellátása esetén a távolléti díj százalékában meghatározva naponként 1–10% lehet.
 
 (3b) A (3) bekezdéstől eltérően naponta miniszteri rendeletben meghatározott összegű fokozott igénybevételi illetménypótlékra jogosult az állomány azon tagja, aki miniszteri rendeletben meghatározottak szerint tábori körülmények között végrehajtott kiképzésen vesz részt. Ebben az esetben nem alkalmazható a 104. § és a 247/H. §.
 
@@ -2614,7 +2614,7 @@ fenyítés szabható ki.
 
 tart.
 
-(3) A munkáltatói jogkört gyakorló a fegyelmi eljárást határozattal felfüggesztheti az állomány tagjának a Hvt. 36. § (1) bekezdés h) pontja vagy (2) bekezdés a) pontja szerinti feladatban való részvételének időtartamára.
+(3) A munkáltatói jogkört gyakorló a fegyelmi eljárást határozattal felfüggesztheti az állomány tagjának a Hvt. 59. § (1) bekezdés i) pontja vagy (2) bekezdés a) pontja szerinti feladatban való részvételének időtartamára.
 
 (4) Az eljárás felfüggesztésének időtartama a fegyelmi eljárás lefolytatására miniszteri rendeletben előírt határidőbe nem számít be.
 
@@ -2790,7 +2790,7 @@ kell meghatározni.
 
 (2) Az (1) bekezdésben foglalt feltételek fennállását, a kár bekövetkeztét és mértékét, valamint az okozati összefüggést a honvédelmi szervezetnek kell bizonyítania.
 
-(3) A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény alapján a kötelező gépjármű-felelősségbiztosítási kötelezettség alól mentes gépjárművek körének és nyilvántartásának szabályairól, az e gépjárművek által okozott károk megtérítését és rendezését végző szervek kijelöléséről, működéséről, valamint a mentesített gépjárművek igazolóeszközzel történő ellátásáról szóló miniszteri rendelet szerint mentesített gépjárművel harmadik személynek, valamint a mentesített gépjárműben okozott kár esetén az állomány tagja kártérítési felelősségének megállapítása során a Hvt. 79/C. § rendelkezéseit is figyelembe kell venni.
+(3) A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény alapján a kötelező gépjármű-felelősségbiztosítási kötelezettség alól mentes gépjárművek körének és nyilvántartásának szabályairól, az e gépjárművek által okozott károk megtérítését és rendezését végző szervek kijelöléséről, működéséről, valamint a mentesített gépjárművek igazolóeszközzel történő ellátásáról szóló miniszteri rendelet szerint mentesített gépjárművel harmadik személynek, valamint a mentesített gépjárműben okozott kár esetén az állomány tagja kártérítési felelősségének megállapítása során a Hvt. 52. § rendelkezéseit is figyelembe kell venni.
 
 165. § (1) A kártérítés mértéke a károkozó 2 havi alapilletményét, vezetői beosztásban lévő károkozó esetén 4 havi alapilletményét nem haladhatja meg.
 
@@ -2802,13 +2802,13 @@ kell meghatározni.
 
 okozta.
 
-(3) A (2) bekezdés szerint felel a parancsot vagy az utasítást adó azért a kárért, amely a Hvt. 51. § (2) bekezdésével összefüggésben keletkezett.
+(3) A (2) bekezdés szerint felel a parancsot vagy az utasítást adó azért a kárért, amely a Hvt. 79. § (2) bekezdésével összefüggésben keletkezett.
 
 (4) Az (1)–(3) bekezdéstől eltérően szándékos vagy súlyosan gondatlan károkozás esetén a károkozó a teljes kárt köteles megtéríteni.
 
 (5) Nem kell megtéríteni azt a kárt, amelyet a honvédelmi szervezetek vétkes magatartása okozott, vagy amely abból származott, hogy a honvédelmi szervezetek kárenyhítési kötelezettségének nem tett eleget.
 
-(6) A Honvédség vétkes magatartásának kell tekinteni különösen, ha a kár az állomány tagjának előzetes figyelemfelhívása ellenére a Hvt. 51. § (2) bekezdése szerinti parancs vagy utasítás végrehajtásából keletkezett.
+(6) A Honvédség vétkes magatartásának kell tekinteni különösen, ha a kár az állomány tagjának előzetes figyelemfelhívása ellenére a Hvt. 79. § (2) bekezdése szerinti parancs vagy utasítás végrehajtásából keletkezett.
 
 166. § (1) Az állomány tagja vétkességére tekintet nélkül a teljes kárt köteles megtéríteni a visszaszolgáltatási vagy elszámolási kötelezettséggel átvett olyan dolgokban bekövetkezett hiány esetén, amelyeket állandóan őrizetben tart, kizárólagosan használ vagy kezel.
 
@@ -2859,7 +2859,7 @@ felelnek.
 
 (3) A kártérítési eljárás és az egyszerűsített eljárás rendjét, a kártérítés utólagos mérsékelésére, végrehajtásának elhalasztására, és a részletfizetés engedélyezésére vonatkozó szabályokat miniszteri rendelet határozza meg.
 
-(4) Ha a harmadik személynek kifizetett kártérítési összeg és a mentesített gépjárműben okozott kár megtérítése a Hvt. 79/C. §-a alapján a mentesített gépjármű vezetőjétől nem követelhető, a munkáltatói jogkört gyakorló a kártérítési eljárás megindítását mellőzheti.
+(4) Ha a harmadik személynek kifizetett kártérítési összeg és a mentesített gépjárműben okozott kár megtérítése a Hvt. 52. §-a alapján a mentesített gépjármű vezetőjétől nem követelhető, a munkáltatói jogkört gyakorló a kártérítési eljárás megindítását mellőzheti.
 
 #### 96. A kár leírása és törlése
 
@@ -2868,7 +2868,7 @@ felelnek.
 - a) a tényleges kár és a kiszabott kártérítés összegének különbözetét,
 - b) a kárt, ha a kártérítési eljárás azért nem volt lefolytatható, mert a károkozó ismeretlen, vagy az eljárás lefolytatását miniszteri rendelet kizárja,
 - c) a kárt, ha a kártérítési eljárást a munkáltatói jogkört gyakorló a miniszteri rendelet szerint megszüntette,
-- d) a kárt, ha a harmadik személynek kifizetett kártérítési összeg és a mentesített gépjárműben okozott kár megtérítése a Hvt. 79/C. §-a alapján a mentesített gépjármű vezetőjétől nem követelhető.
+- d) a kárt, ha a harmadik személynek kifizetett kártérítési összeg és a mentesített gépjárműben okozott kár megtérítése a Hvt. 52. §-a alapján a mentesített gépjármű vezetőjétől nem követelhető.
 - e) a kárt, ha azt nem szándékosan okozták és annak összege az 5000 Ft-ot nem haladja meg.
 
 (2) A kiszabott és behajthatatlan kártérítési összeget törléssel kell rendezni.
@@ -3663,7 +3663,7 @@ a 226. § (1) és (2) bekezdése szerint teljesíti a továbbiakban a szerződé
 
 (2) A honvéd altiszt-jelölt köteles különösen
 
-- a) részt venni a Hvt. 36. § (1) bekezdés a)–f) pontja és (2) bekezdése szerinti feladatok ellátásában,
+- a) részt venni a Hvt. 59. § (1) bekezdés a), b) d) e), k) pontja és (2) bekezdése szerinti feladatok ellátásában,
 - b) a haza katonai védelmére felkészülni, részt venni az ehhez szükséges kiképzésen, és a tanórán kívüli katonai felkészítésen, tanulmányi kötelezettségét teljesíteni,
 - c) őr-, ügyeleti, készenléti és futárszolgálatot, katonai rendészeti szolgálatot, valamint díszelgési és kegyeleti feladatokat ellátni,
 - d) kijelölés alapján alegység-parancsnoki feladatokat ellátni,
@@ -3681,27 +3681,27 @@ a 226. § (1) és (2) bekezdése szerint teljesíti a továbbiakban a szerződé
 
 (2) Az elévülésre a nemzeti köznevelésről szóló törvényt kell alkalmazni.
 
-### XXI/A. Fejezet — A HVT. 36. § (1) BEKEZDÉS H) PONTJA, VALAMINT (2) BEKEZDÉS A) PONTJA SZERINTI FELADATBAN RÉSZTVEVŐ ÁLLOMÁNYRA VONATKOZÓ KÜLÖN SZABÁLYOK
+### XXI/A. Fejezet — A HVT. 59. § (1) BEKEZDÉS I) PONTJA, VALAMINT (2) BEKEZDÉS A) PONTJA SZERINTI FELADATBAN RÉSZTVEVŐ ÁLLOMÁNYRA VONATKOZÓ KÜLÖN SZABÁLYOK
 
-237/A. § (1) A honvédelmi szervezet Hvt. 36. § (1) bekezdés h) pontja, valamint (2) bekezdés a) pontja szerinti feladatban résztvevő állománya vonatkozásában a 49. §, a 95. §, a 96. § (1)–(2) bekezdése, a 100–107. §, a 218. § (1) bekezdése, valamint a 247/H. § alkalmazása a (2) bekezdés szerint felfüggeszthető.
+237/A. § (1) A honvédelmi szervezet Hvt. 59. § (1) bekezdés i) pontja, valamint (2) bekezdés a) pontja szerinti feladatban résztvevő állománya vonatkozásában a 49. §, a 95. §, a 96. § (1)–(2) bekezdése, a 100–107. §, a 218. § (1) bekezdése, valamint a 247/H. § alkalmazása a (2) bekezdés szerint felfüggeszthető.
 
-(1a) A Hvt. 36. § (1) bekezdés h) pontja, valamint (2) bekezdés a) pontja szerinti feladatban résztvevő önkéntes tartalékos állomány tekintetében a 219. §-ban foglaltaktól kedvezőbb szabályok is megállapíthatóak.
+(1a) A Hvt. 59. § (1) bekezdés i) pontja, valamint (2) bekezdés a) pontja szerinti feladatban résztvevő önkéntes tartalékos állomány tekintetében a 219. §-ban foglaltaktól kedvezőbb szabályok is megállapíthatóak.
 
 (2) Az (1) és (1a) bekezdés szerinti állomány tagjának e szolgálatteljesítésére vonatkozó szabályokat a Hvt. szerinti belső rendelkezésben a szolgálat megszervezéséért felelős elöljáró állapítja meg a szolgálati érdekre, különösen a szolgálatteljesítés biztonságos ellátására, valamint a szükségességi és arányossági követelményekre figyelemmel.
 
 (3) A 247/H. § (6) bekezdésének felfüggesztése esetén, ha az állomány tagjának a vezénylés alatt teljesített túlszolgálata túlszolgálati díjjal ellentételezésre került, a 97. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munkaszüneti napon, valamint a rá irányadó heti pihenőnapon történő szolgálatteljesítését nem kell kétszeresen figyelembe venni.
 
-### XXI/B. Fejezet — A HVT. 36. § (1) BEKEZDÉS K) PONTJA SZERINTI FELADATBAN RÉSZT VEVŐ ÁLLOMÁNYRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
+### XXI/B. Fejezet — A HVT. 59. § (1) BEKEZDÉS M) PONTJA SZERINTI FELADATBAN RÉSZT VEVŐ ÁLLOMÁNYRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
-237/B. § (1) Ha a Honvédség a Kormány döntése alapján a Hvt. 36. § (1) bekezdés k) pontja szerinti feladatban részt vesz, a Kormány rendeletében az e fejezetben foglalt különös szabályok alkalmazását rendelheti el az 1. § (1) bekezdése szerinti állomány tagja és – a 212–222. §-ban foglaltakra figyelemmel – a tényleges szolgálatot teljesítő önkéntes tartalékos katona, valamint a honvéd tisztjelölt vonatkozásában.
+237/B. § (1) Ha a Honvédség a Kormány döntése alapján a Hvt. 59. § (1) bekezdés m) pontja szerinti feladatban részt vesz, a Kormány rendeletében az e fejezetben foglalt különös szabályok alkalmazását rendelheti el az 1. § (1) bekezdése szerinti állomány tagja és – a 212–222. §-ban foglaltakra figyelemmel – a tényleges szolgálatot teljesítő önkéntes tartalékos katona, valamint a honvéd tisztjelölt vonatkozásában.
 
-(2) Az állomány tagjának és a tényleges szolgálatot teljesítő önkéntes tartalékos katonának a Hvt. 36. § (1) bekezdés k) pontja szerinti feladatban történő részvételére a 49. § szerinti vezényléssel kerül sor. A honvéd tisztjelölt a 230. § (5) bekezdéstől eltérően a Hvt. 36. § (1) bekezdés k) pontja szerinti feladat ellátására is vezényelhető.
+(2) Az állomány tagjának és a tényleges szolgálatot teljesítő önkéntes tartalékos katonának a Hvt. 59. § (1) bekezdés m) pontja szerinti feladatban történő részvételére a 49. § szerinti vezényléssel kerül sor. A honvéd tisztjelölt a 230. § (5) bekezdéstől eltérően a Hvt. 59. § (1) bekezdés m) pontja szerinti feladat ellátására is vezényelhető.
 
 237/C. § (1) A más szervnél történő szolgálatteljesítésére vonatkozó megállapodásban az 52/A. § (2) bekezdésében foglaltakon túl, az 52. § (1) bekezdésében szereplő bármely kérdésben el lehet térni, ide nem értve a más szerv vezetőjének az állomány más szervhez vezényelt tagja tekintetében a szolgálatteljesítésre vonatkozó rendelkezési jogát.
 
 (2) Az 52. § (1) bekezdésében foglaltaktól eltérően a más szervhez vezényelt hivatásos vagy szerződéses katona a miniszter döntése alapján egyenruha viselésére köteles.
 
-(3) A miniszter az 51. § (3) bekezdésétől eltérően a Hvt. 36. § (1) bekezdés k) pontja szerinti feladatban történő közreműködés időtartama alatt az 51. § (1) bekezdés szerinti megállapodásban dönthet a rendelkezési állományba helyezés mellőzéséről is. Ha a miniszter a rendelkezési állományba helyezés mellőzéséről döntött, az állomány tagjának jogai és kötelezettségei – ide nem értve a 113. § (2) bekezdése szerinti szabadságmegváltást – azonosak az állomány 46. § (1) bekezdés b) pontja szerinti rendelkezési állományba helyezett tagjának jogaival és kötelezettségeivel.
+(3) A miniszter az 51. § (3) bekezdésétől eltérően a Hvt. 59. § (1) bekezdés m) pontja szerinti feladatban történő közreműködés időtartama alatt az 51. § (1) bekezdés szerinti megállapodásban dönthet a rendelkezési állományba helyezés mellőzéséről is. Ha a miniszter a rendelkezési állományba helyezés mellőzéséről döntött, az állomány tagjának jogai és kötelezettségei – ide nem értve a 113. § (2) bekezdése szerinti szabadságmegváltást – azonosak az állomány 46. § (1) bekezdés b) pontja szerinti rendelkezési állományba helyezett tagjának jogaival és kötelezettségeivel.
 
 237/D. § A szolgálati viszony a 38. § (8) bekezdésétől, a 68. § (1) bekezdés b) pontjától, valamint a 78. § (2) bekezdés f) pontjától eltérően nem szűnik meg a törvény erejénél fogva az ott meghatározott kiképzési, képzési és vizsgakötelezettség teljesítésének elmulasztása esetén.
 
@@ -3723,7 +3723,7 @@ a 226. § (1) és (2) bekezdése szerint teljesíti a továbbiakban a szerződé
 
 237/G. § A Kit. 3. § (7) bekezdés b) pontja szerinti szakmai felsővezető – ha az 58/A. §-a alapján szünetel a jogviszonya – az 58/C. §-ban meghatározottakon túlmenően a feladatai ellátása során jogosult egyenruhát viselni, a miniszter előzetes egyetértése esetén.
 
-237/H. § (1) A Hvt. 36. § (1) bekezdés k) pontja szerinti veszélyhelyzettel kapcsolatos feladatra vezényelt
+237/H. § (1) A Hvt. 59. § (1) bekezdés m) pontja szerinti veszélyhelyzettel kapcsolatos feladatra vezényelt
 
 - a) állomány tagja,
 - b) tényleges szolgálatot teljesítő önkéntes tartalékos katona, valamint
@@ -3739,7 +3739,7 @@ a 226. § (1) és (2) bekezdése szerint teljesíti a továbbiakban a szerződé
 
 (5) Aki az (1) bekezdés szerinti fokozott igénybevételi illetménypótlékban részesült, arra a 97. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munkaszüneti napon, valamint a rá irányadó heti pihenőnapon történő szolgálatteljesítését nem kell kétszeresen figyelembe venni.
 
-237/I. § Ha az állomány tagja a Hvt. 36. § (1) bekezdés k) pontja szerinti szolgálati feladat végrehajtásában való részvétele miatt nem vett részt a fizikai állapotfelmérésen, illetve nem teljesítette az éves kiképzési feladatokat, vagy a fizikai állapotfelmérés, illetve az éves kiképzési feladat a Hvt. 36. § (1) bekezdés k) pontja szerinti szolgálati feladat végrehajtása miatt nem került megszervezésre, akkor az éves teljesítményértékelés során az értékelt időszakot megelőző évben eredményesen teljesített fizikai állapotfelmérés, illetve az éves kiképzési feladatok eredményét kell figyelembe venni.
+237/I. § Ha az állomány tagja a Hvt. 59. § (1) bekezdés m) pontja szerinti szolgálati feladat végrehajtásában való részvétele miatt nem vett részt a fizikai állapotfelmérésen, illetve nem teljesítette az éves kiképzési feladatokat, vagy a fizikai állapotfelmérés, illetve az éves kiképzési feladat a Hvt. 59. § (1) bekezdés m) pontja szerinti szolgálati feladat végrehajtása miatt nem került megszervezésre, akkor az éves teljesítményértékelés során az értékelt időszakot megelőző évben eredményesen teljesített fizikai állapotfelmérés, illetve az éves kiképzési feladatok eredményét kell figyelembe venni.
 
 ### XXI/C. Fejezet — AZ EGÉSZSÉGÜGYI MUNKAKÖRŰ KATONÁK JOGÁLLÁSÁRA VONATKOZÓ KÜLÖN SZABÁLYOK
 
@@ -3749,7 +3749,7 @@ a 226. § (1) és (2) bekezdése szerint teljesíti a továbbiakban a szerződé
 - b) egészségügyi tevékenység: az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § y) pontjában meghatározott tevékenység,
 - c) magasabb vezető:
   - ca) a honvédelmi egészségügyi szolgáltató vezetője, a honvédelmi egészségügyi szolgáltató alapító okiratában meghatározott, közfinanszírozott területi ellátási kötelezettséggel rendelkező szervezeti egység (a továbbiakban: honvédelmi egészségügyi szolgáltató szervezeti egység) vezetője, valamint
-  - cb) a honvédelmi egészségügyi szolgáltató vezetőjének a helyettese és gazdasági helyettese, a honvédelmi egészségügyi szolgáltató gazdasági igazgatója, a honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjének a Hvt. 46/A. § (2) bekezdése szerinti helyettese (a továbbiakban: a felügyeleti helyettes), a honvédelmi egészségügyi szolgáltató szervezeti egység orvosigazgatója (szakmai főigazgató-helyettese), ápolási igazgatója,
+  - cb) a honvédelmi egészségügyi szolgáltató vezetőjének a helyettese és gazdasági helyettese, a honvédelmi egészségügyi szolgáltató gazdasági igazgatója, a honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjének a Hvt. 16. § (3) bekezdése szerinti helyettese (a továbbiakban: a felügyeleti helyettes), a honvédelmi egészségügyi szolgáltató szervezeti egység orvosigazgatója (szakmai főigazgató-helyettese), ápolási igazgatója,
 - d) vezető: a c) pontban foglaltakat ide nem értve a honvédelmi egészségügyi szolgáltató szervezeti elemének vezetője és annak helyettese, valamint a főgyógyszerész.
 
 (2) Az egészségügyi munkakörű katona tekintetében e törvényt az e fejezetben foglalt eltérésekkel, megfelelően kell alkalmazni.
@@ -3847,7 +3847,7 @@ esetén járó további díjakat, azok feltételeit és mértékét.
 
 állapítható meg. E bekezdés szerinti esetekre nem alkalmazható az 55. §.
 
-(15) Ha az (1) bekezdés szerinti egészségügyi munkakörű katona a Hvt. 36. § (1) bekezdés h) és k), vagy (2) bekezdés a) pontja szerinti feladatra vezénylésre kerül, gyakorlaton vesz részt, vagy miniszteri rendeletben meghatározott, 105. § szerinti katonai szolgálattal összefüggő tevékenységet lát el, az (1) bekezdéstől eltérően e törvény és miniszteri rendelet szerinti fokozott igénybevételi pótlékra jogosult.
+(15) Ha az (1) bekezdés szerinti egészségügyi munkakörű katona a Hvt. 59. § (1) bekezdés i) és m) pontja, vagy (2) bekezdés a) pontja szerinti feladatra vezénylésre kerül, gyakorlaton vesz részt, vagy miniszteri rendeletben meghatározott, 105. § szerinti katonai szolgálattal összefüggő tevékenységet lát el, az (1) bekezdéstől eltérően e törvény és miniszteri rendelet szerinti fokozott igénybevételi pótlékra jogosult.
 
 (16) Ha az (1) bekezdés szerinti egészségügyi munkakörű katona szolgálati viszonyának általa kezdeményezett megszüntetését követően 12 hónapon belül egészségügyi szolgálati jogviszonyt létesít, akkor az egészségügyi szolgálati jogviszonyban megállapított illetménye egy évig nem haladhatja meg a korábbi jogviszony megszűnésekor érvényes illetményét.
 
@@ -4105,7 +4105,7 @@ végkielégítésre jogosult azzal, hogy az a) és a b) pontok alapján megálla
 
 (4) Az egyes honvédelmi tárgyú törvények módosításáról szóló 2016. évi XXXVIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 98. § (3) bekezdése helyett a 2022. december 31-ig elrendelt és teljesített, az éves kiképzési tervben meghatározott gyakorlat esetén, ha a gyakorlat egyik napja vagy napjai pihenő- vagy munkaszüneti napra esnek, azokat azonos számú szabadnappal kell ellentételezni. A szabadnapot a gyakorlat befejeződését követő legkésőbb 90 napon belül kell kiadni. Ha a szolgálati elfoglaltság miatt a szabadnapot 90 napon belül igazoltan nem lehet kiadni, azt legkésőbb a tárgyhónapot követő negyedik havi illetménnyel együtt meg kell váltani.
 
-(5) A (4) bekezdést a gyakorlatnak nem minősülő, tartós igénybevétel esetén is alkalmazni kell. Tartós igénybevételnek minősül a szolgálati feladatra vezénylés időtartama alatt a legalább hét napig tartó, egymást folyamatosan váltó feladatvégrehajtás és rendelkezésre állás, ha a rendelkezésre állás helyét a munkáltatói jogkört gyakorló határozza meg. A szolgálati feladatra vezénylés időtartama alatt nem alkalmazható a 107. § (2) bekezdése arra a laktanyai készenléti szolgálatra, amikor a munkáltatói jogkört gyakorló a Hvt. 36. § (1) bekezdés k) pontjára figyelemmel a rendelkezésre állás helyét kizárólag annak érdekében határozza meg, hogy az állomány vezényelt tagjának meghatározott időpontban történő szolgálatba lépése biztosított legyen.
+(5) A (4) bekezdést a gyakorlatnak nem minősülő, tartós igénybevétel esetén is alkalmazni kell. Tartós igénybevételnek minősül a szolgálati feladatra vezénylés időtartama alatt a legalább hét napig tartó, egymást folyamatosan váltó feladatvégrehajtás és rendelkezésre állás, ha a rendelkezésre állás helyét a munkáltatói jogkört gyakorló határozza meg. A szolgálati feladatra vezénylés időtartama alatt nem alkalmazható a 107. § (2) bekezdése arra a laktanyai készenléti szolgálatra, amikor a munkáltatói jogkört gyakorló a Hvt. 59. § (1) bekezdés m) pontjára figyelemmel a rendelkezésre állás helyét kizárólag annak érdekében határozza meg, hogy az állomány vezényelt tagjának meghatározott időpontban történő szolgálatba lépése biztosított legyen.
 
 247/J. § (1) A legénységi állomány 2015. július 1-jén állományban lévő azon tagját, akinek a beosztásához 2015. július 1-jei hatállyal szakaszvezetőnél alacsonyabb rendszeresített rendfokozatot állapítanak meg, a beosztásában e törvény erejénél fogva – alacsonyabb beosztásba helyezés nélkül is – tovább kell foglalkoztatni.
 
@@ -4178,7 +4178,7 @@ végkielégítésre jogosult azzal, hogy az a) és a b) pontok alapján megálla
 
 (2) E törvénynek a Módtv6.-tal módosított 86. § (2) bekezdését a Módtv6. hatálybalépésekor a 46. § (1) bekezdés j) pontja szerinti rendelkezési állományban lévőkre is alkalmazni kell.
 
-247/Y. § (1) A Hvt. 36. § (1) bekezdés k) pontja szerinti feladatra vezényelt állomány tagjának és a tényleges szolgálatot teljesítő önkéntes tartalékos katonának a veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendelet szerinti veszélyhelyzet kihirdetésétől a honvédek jogállásáról szóló 2012. évi CCV. törvény hatálya alá tartozókra vonatkozó rendkívüli intézkedésekről szóló 548/2020. (XII. 2.) Korm. rendelet hatálybalépését megelőző napig teljesített túlszolgálata tekintetében – a 247/H. § (2) és (3) bekezdésétől eltérően – a túlszolgálatért annak időtartamával azonos mértékű szabadidő jár, amelyet legkésőbb a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 60 napon belül kell kiadni.
+247/Y. § (1) A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 36. § (1) bekezdés k) pontja szerinti feladatra vezényelt állomány tagjának és a tényleges szolgálatot teljesítő önkéntes tartalékos katonának a veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendelet szerinti veszélyhelyzet kihirdetésétől a honvédek jogállásáról szóló 2012. évi CCV. törvény hatálya alá tartozókra vonatkozó rendkívüli intézkedésekről szóló 548/2020. (XII. 2.) Korm. rendelet hatálybalépését megelőző napig teljesített túlszolgálata tekintetében – a 247/H. § (2) és (3) bekezdésétől eltérően – a túlszolgálatért annak időtartamával azonos mértékű szabadidő jár, amelyet legkésőbb a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 60 napon belül kell kiadni.
 
 (2) Az (1) bekezdés szerinti szabadidő kétszeresére jogosult az az (1) bekezdés szerint túlszolgálatot teljesítő, aki a heti pihenőnapon vagy munkaszüneti napon teljesített túlszolgálatot.
 
@@ -4396,22 +4396,6 @@ A miniszter kiemelt munkáltatói jogkörei
 | 10.2. E törvényben a miniszter hatáskörébe utalt munkáltatói jogok gyakorlása |
 
 ### 3. melléklet a 2012. évi CCV. törvényhez
-
-I.
-
-II. A Honvéd Koronaőrség tagjának esküje
-
-Az eskü szövege:
-
-„Én ........................................ ünnepélyesen esküszöm, hogy a Magyarország alkotmányos folytonosságát megtestesítő Szent Koronát minden körülmények között, minden veszélytől megóvom és állhatatosan őrzöm, illetéktelen kézre jutását életem árán is megakadályozom.
-
-A különleges szolgálat által megkívánt magas követelmények érdekében tudásomat, testi erőnlétemet a legjobb állapotban tartom, egész életemben erkölcsi feddhetetlenségre törekszem.
-
-A Honvéd Koronaőrség bajtársi szellemétől áthatva, példamutató módon mindenkor becsülettel, magyar honvédhez méltón, harcban vitéz módon küzdve élek és halok.
-
-(Az esküt tevő meggyőződése szerint:)
-
-„Isten engem úgy segéljen!”
 
 ### 4. melléklet a 2012. évi CCV. törvényhez
 

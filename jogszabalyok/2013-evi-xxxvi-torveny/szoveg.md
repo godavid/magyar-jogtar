@@ -629,7 +629,7 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 
 (3) A Nemzeti Választási Iroda elnöke vagyonnyilatkozatának nyilvános, oldalhű másolatát a választások hivatalos honlapján haladéktalanul közzé kell tenni. A vagyonnyilatkozat a honlapról a Nemzeti Választási Iroda elnöke megbízatásának megszűnését követő egy év elteltéig nem távolítható el.
 
-(3a) A Nemzeti Választási Iroda elnöke a vagyonnyilatkozatban feltüntetett adatok tekintetében bekövetkezett változást a miniszterelnöknek jelenti be.
+(3a)
 
 (4) A Nemzeti Választási Iroda elnökének vagyonnyilatkozatával kapcsolatos eljárást a miniszterelnöknél bárki kezdeményezheti a vagyonnyilatkozat konkrét tartalmára vonatkozó olyan tényállítással, amely konkrétan megjelöli a vagyonnyilatkozat kifogásolt részét és tartalmát. Ha a kezdeményezés nem felel meg az e bekezdésben foglalt követelményeknek, nyilvánvalóan alaptalan, vagy az ismételten benyújtott kezdeményezés új tényállítást vagy adatot nem tartalmaz, a miniszterelnök az eljárás lefolytatása nélkül elutasítja a kezdeményezést. A vagyonnyilatkozatban foglaltak valóságtartalmát a miniszterelnök ellenőrzi.
 
@@ -845,7 +845,7 @@ történhet. A határozat rövid úton való közlésének módját (módjait) a
 
 kapcsolatos adatfeldolgozási feladatok ellátásával, kivéve, ha e korlátozás alól a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározottak szerint egyedi felmentést kap.
 
-(4) A Nemzeti Választási Iroda a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § l) pontja és 30. § (1) bekezdés e) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.
+(4) A Nemzeti Választási Iroda a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § l) pontjában és 20. § (1) bekezdés e) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.
 
 ### IV. Fejezet — A SZAVAZÓKÖRÖK
 
@@ -3236,9 +3236,15 @@ alapján legkésőbb a szavazást követő tizenkilencedik napon megállapítja 
 
 (3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.
 
+353/E. § (1) A Nemzeti Választási Iroda elnöke és elnökhelyettese az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvénnyel megállapított rendelkezéseknek megfelelően először – 2022. december 31. napján fennálló állapot szerint − 2023. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát is.
+
+(2) A Nemzeti Választási Iroda elnöke és elnökhelyettese 2022. december 31-ig vagyonnyilatkozat-tételi kötelezettségének a 2022. október 31-én hatályos rendelkezések szerint tesz eleget.
+
+(3) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
+
 #### 172. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-354. § (1) Az Általános rész – a 3. § 10. pontja, a 146. § a) pontja, a 147–147/F. §, a 74. alcím és a 233. § kivételével –, a 346. §, a 347. §, a 353/D. §, valamint az 1–6. és 9. melléklet az Alaptörvény XXIX. cikk (3) bekezdése, 2. cikk (1) bekezdése és 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
+354. § (1) Az Általános rész – a 3. § 10. pontja, a 146. § a) pontja, a 147–147/F. §, a 74. alcím és a 233. § kivételével –, a 346. §, a 347. §, a 353/D. §, a 353/E. §, valamint az 1–6. és 9. melléklet az Alaptörvény XXIX. cikk (3) bekezdése, 2. cikk (1) bekezdése és 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 3. § 10. pontja, a 146. § a) pontja, a 147–147/F. § és a 74. alcím az Alaptörvény IX. cikk (3) bekezdése, XXIX. cikk (3) bekezdése, 2. cikk (1) bekezdése és 35. cikk (1) bekezdése alapján sarkalatosnak minősül.
 

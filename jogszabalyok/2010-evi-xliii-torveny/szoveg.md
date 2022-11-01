@@ -92,6 +92,8 @@ meghatározott hatáskörök együttesét kell érteni.
 
 (3) Ha az átadás-átvétel az átadás-átvételi eljárásban részt vevő valamely személy mulasztása folytán részben vagy egészben ellehetetlenül, annak eredményes megtörténtéig a mulasztó részére az átadás-átvételi eljárással összefüggő jogviszonyán alapuló juttatás nem teljesíthető.
 
+5/B. § A központi államigazgatási szerv ellátja a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott feladatokat.
+
 ### Az egyes kormányzati igazgatási tisztségviselőkre vonatkozó szabályok
 
 #### 6. §

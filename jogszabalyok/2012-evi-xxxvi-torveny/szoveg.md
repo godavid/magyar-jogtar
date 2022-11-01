@@ -90,7 +90,7 @@ az Országgyűlés az Alaptörvény végrehajtására, illetve egyes házszabál
 
 (6a) A képviselői megbízatással nem rendelkező háznagy a 104. § (1) bekezdésében meghatározott összeg kétszeresének megfelelő összegű illetményre, továbbá a miniszter részére jogszabályban biztosított egyéb juttatásra jogosult. A képviselői megbízatással nem rendelkező háznagy jogállására – a megbízatás keletkezése és megszűnése, a vagyon-nyilatkozattételi kötelezettség teljesítése, valamint az összeférhetetlenség kivételével – a közszolgálati tisztviselőkről szóló törvény rendelkezéseit kell alkalmazni.
 
-(7) A háznagy a megbízatása keletkezését követő harminc napon belül, a képviselők jövedelem- és gazdasági érdekeltségi nyilatkozatával (a továbbiakban: vagyonnyilatkozat) azonos tartalmú vagyonnyilatkozatot tesz azzal, hogy amennyiben a vagyonnyilatkozatban feltüntetett adatok tekintetében változás következik be, azt a változást követő harminc napon belül bejelenti a Mentelmi, Összeférhetetlenségi, Fegyelmi és Mandátumvizsgáló Bizottságnak (a továbbiakban: Mentelmi Bizottság). A vagyonnyilatkozattal kapcsolatos eljárásra a képviselők vagyonnyilatkozatával kapcsolatos eljárásra vonatkozó szabályokat kell alkalmazni.
+(7) A háznagy a megbízatása keletkezését követő harminc napon belül vagyon-, jövedelem- és gazdasági érdekeltségi nyilatkozatot (a továbbiakban: vagyonnyilatkozatot) tesz. A háznagy vagyonnyilatkozatára a képviselők vagyonnyilatkozatára vonatkozó szabályokat kell megfelelően alkalmazni.
 
 #### 4. Az Országgyűlés jegyzői
 
@@ -240,7 +240,7 @@ létre.
 
 16. § (1) Az Országgyűlés a megalakulását követően létrehozza állandó bizottságait. Az állandó bizottságok feladatköre a kormányzati feladatokhoz igazodik.
 
-(2) Kötelező létrehozni a Mentelmi Bizottságot, valamint alkotmányügyi kérdésekkel, költségvetéssel, külügyekkel, európai uniós ügyekkel, honvédelemmel, nemzetbiztonsággal, nemzetpolitikával foglalkozó állandó bizottságot.
+(2) Kötelező létrehozni a Mentelmi, Összeférhetetlenségi, Fegyelmi és Mandátumvizsgáló Bizottságot (a továbbiakban: Mentelmi Bizottság), valamint alkotmányügyi kérdésekkel, költségvetéssel, külügyekkel, európai uniós ügyekkel, honvédelemmel, nemzetbiztonsággal, nemzetpolitikával foglalkozó állandó bizottságot.
 
 (3) Az Országgyűlés állandó bizottságot egyébként bármikor létrehozhat, átalakíthat és megszüntethet.
 
@@ -1292,9 +1292,9 @@ megegyező mértékben csökkentheti.
 
 #### 34. Vagyonnyilatkozat-tételi kötelezettség
 
-90. § (1) A képviselő az eskütételét követő harminc napon belül, az eskütétel napján fennálló állapot szerint vagyonnyilatkozatot tesz az 1. melléklet szerinti tartalommal és formában azzal, hogy amennyiben a vagyonnyilatkozatban feltüntetett adatok tekintetében változás következik be, azt a változást követő harminc napon belül bejelenti a Mentelmi Bizottságnak.
+90. § (1) A képviselő az eskütételét követő harminc napon belül, majd azt követően minden évben január 31-ig az előző év december 31. napján fennálló állapot szerint, valamint a megbízatásának megszűnését követő harminc napon belül vagyonnyilatkozatot tesz az 1. melléklet szerinti tartalommal és formában.
 
-(2)
+(2) A képviselő a vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, továbbá gyermekének (a továbbiakban együtt: családtag) a képviselő vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
 
 (3) A vagyonnyilatkozat-tétel elmulasztása esetén – a vagyonnyilatkozat benyújtásáig – a képviselő a képviselői jogait nem gyakorolhatja, javadalmazásban nem részesül. A vagyonnyilatkozat-tétel elmulasztásának tényét az Országgyűlés állapítja meg.
 
@@ -1328,17 +1328,19 @@ megegyező mértékben csökkentheti.
 
 94. § (1) A vagyonnyilatkozatokról a nyilvántartást a Mentelmi Bizottság vezeti.
 
-(2) A vagyonnyilatkozat nyilvános, oldalhű másolatát a Mentelmi Bizottság az Országgyűlés honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a honlapról a képviselő megbízatásának megszűnését követő egy év elteltével távolítható el.
+(2) A családtag vagyonnyilatkozata kivételével a vagyonnyilatkozat nyilvános, oldalhű másolatát – a családtag személyes adatai kivételével – a Mentelmi Bizottság az Országgyűlés honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a honlapról a képviselő megbízatásának megszűnését követő egy év elteltével távolítható el. A családtag vagyonnyilatkozatát a Mentelmi Bizottság őrzi.
 
-(3)
+(3) A családtag vagyonnyilatkozatába csak a Mentelmi Bizottság tagjai tekinthetnek be a képviselő vagyonnyilatkozatával kapcsolatos eljárás során.
 
 (4) A képviselő vagyonnyilatkozatával kapcsolatos eljárást a Mentelmi Bizottság elnökénél bárki kezdeményezheti a vagyonnyilatkozat konkrét tartalmára vonatkozó olyan tényállítással, amely konkrétan megjelöli a vagyonnyilatkozat kifogásolt részét és tartalmát. Ha a kezdeményezés nem felel meg az e bekezdésben foglalt követelményeknek, nyilvánvalóan alaptalan, vagy az ismételten benyújtott kezdeményezés új tényállítást vagy adatot nem tartalmaz, a Mentelmi Bizottság elnöke az eljárás lefolytatása nélkül elutasítja a kezdeményezést. A vagyonnyilatkozatban foglaltak valóságtartalmát a Mentelmi Bizottság ellenőrzi.
 
-(5) A vagyonnyilatkozattal kapcsolatos eljárás során a Mentelmi Bizottság felhívására a képviselő köteles a vagyonnyilatkozatában feltüntetett jövedelem- és gazdasági érdekeltségi viszonyokat igazoló adatokat haladéktalanul, írásban bejelenteni. Az adatokba csak a Mentelmi Bizottság tagjai tekinthetnek be. A vagyonnyilatkozattal kapcsolatos eljárás eredményéről a Mentelmi Bizottság elnöke tájékoztatja a házelnököt, aki a Mentelmi Bizottság által megállapított tényekről a soron következő ülésen tájékoztatja az Országgyűlést.
+(5) A vagyonnyilatkozattal kapcsolatos eljárás során a Mentelmi Bizottság felhívására a képviselő köteles a saját, illetve családtagja vagyonnyilatkozatában feltüntetett vagyoni, jövedelmi és gazdasági érdekeltségi viszonyokat igazoló adatokat haladéktalanul, írásban bejelenteni. Az adatokba csak a Mentelmi Bizottság tagjai tekinthetnek be. A vagyonnyilatkozattal kapcsolatos eljárás eredményéről a Mentelmi Bizottság elnöke tájékoztatja a házelnököt, aki a Mentelmi Bizottság által megállapított tényekről a soron következő ülésen tájékoztatja az Országgyűlést.
 
 (6) Ha a vagyonnyilatkozattal kapcsolatos eljárás során a Mentelmi Bizottság azt állapítja meg, hogy a képviselő vagyonnyilatkozat-tételi kötelezettségét szándékosan mulasztotta el, vagy a vagyonnyilatkozatban lényeges adatot, tényt szándékosan valótlanul közölt, akkor a Mentelmi Bizottság elnöke köteles kezdeményezni a képviselő összeférhetetlenségének a kimondását.
 
 (7) A képviselő által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell.
+
+(8) A volt képviselő családtagja vagyonnyilatkozatát a Mentelmi Bizottság a képviselő megbízatásának megszűnését követő egy évig őrzi.
 
 ### IX. Fejezet — A KÉPVISELŐK ÉS KÉPVISELŐJELÖLTEK MUNKAJOGI ÉS TÁRSADALOMBIZTOSÍTÁSI JOGÁLLÁSA
 
@@ -1704,7 +1706,10 @@ valamint ezen túlmenően a képviselőcsoport létszámával megegyező számú
 
 (2) A volt képviselő kérelmére az ellátást egy összegben kell kifizetni.
 
-(3) Nem jogosult az (1) bekezdés szerinti ellátásra a volt képviselő, ha a megbízatása megszűnését közvetlenül megelőző általános országgyűlési választáson mandátumot szerzett.
+(3) Nem jogosult az (1) bekezdés szerinti ellátásra a volt képviselő,
+
+- a) ha a megbízatása megszűnését közvetlenül megelőző általános országgyűlési választáson mandátumot szerzett vagy
+- b) amíg a megbízatása megszűnését követően törvényben meghatározottak szerint nem tesz eleget vagyonnyilatkozat-tételi kötelezettségének.
 
 (4) A volt képviselő az (1) bekezdés szerinti időtartamra a társadalombiztosítás ellátásaira való jogosultság szempontjából közszolgálati jogviszonyban foglalkoztatott biztosítottnak, az (1) bekezdés szerinti tiszteletdíja nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
 
@@ -2176,7 +2181,7 @@ céljából, az országgyűlési képviselői megbízatás keletkezésétől kez
 
 (4) A (2) bekezdés f) pontjában meghatározott feladatokat az Országgyűlési Őrség a közterület rendjének fenntartásában feladat- és hatáskörrel rendelkező szervek tevékenységét támogatva hajtja végre.
 
-126. § Az Országgyűlési Őrség feladatai ellátása során együttműködik a rendőrséggel, a nemzetbiztonsági szolgálatokkal, a hivatásos katasztrófavédelmi szervekkel, a Magyar Honvédséggel, valamint a helyi önkormányzatokkal.
+126. § Az Országgyűlési Őrség feladatai ellátása során együttműködik a rendőrséggel, a nemzetbiztonsági szolgálatokkal, a hivatásos katasztrófavédelmi szervekkel, a Magyar Honvédséggel, a védelmi és biztonsági igazgatás központi szervével, valamint a helyi önkormányzatokkal.
 
 #### 42. Az Országgyűlési Őrség szervezete és irányítása
 
@@ -2469,11 +2474,17 @@ továbbítható a megkereső, illetve adatszolgáltatást kérő, az eljárásra
 
 (3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
+145/D. § (1) A képviselő és a nemzetiségi szószóló az e törvénynek az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvénnyel megállapított 1. melléklete szerinti tartalommal és formában először – 2022. december 31. napján fennálló állapot szerint − 2023. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a családtagja vagyonnyilatkozatát is.
+
+(2) A képviselő és a nemzetiségi szószóló 2022. december 31-ig vagyonnyilatkozat-tételi kötelezettségének az e törvény 2022. október 31-én hatályos rendelkezései szerint tesz eleget.
+
+(3) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
+
 #### 52. Sarkalatossági záradék
 
 146. § (1) A 12. alcím és a 157. § az Alaptörvény 2. cikk (2) bekezdése alapján sarkalatosnak minősül.
 
-(2) A 4. § (6) bekezdése, a 18. alcím – az 51/B. § kivételével –, a 18/A. alcím, a Harmadik rész, a 36. és 37. alcím, a 120. §, a 145. § (8), (13), (14) és (16) bekezdése, a 145/B. §, a 145/C. §, a 149. § (1) bekezdése, a 160. § (1) bekezdés a)–e) és g)–h) pontja, a 160. § (3) bekezdése, valamint az 1. melléklet az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.
+(2) A 4. § (6) bekezdése, a 18. alcím – az 51/B. § kivételével –, a 18/A. alcím, a Harmadik rész, a 36. és 37. alcím, a 120. §, a 145. § (8), (13), (14) és (16) bekezdése, a 145/B. §, a 145/C. §, a 145/D. §, a 149. § (1) bekezdése, a 160. § (1) bekezdés a)–e) és g)–h) pontja, a 160. § (3) bekezdése, valamint az 1. melléklet az Alaptörvény 4. cikk (2) és (5) bekezdése alapján sarkalatosnak minősül.
 
 (3) A 14. alcím az Alaptörvény 5. cikk (8) bekezdése alapján sarkalatosnak minősül.
 
@@ -2639,116 +2650,7 @@ sarkalatosnak minősül.
 
 ### 1. melléklet a 2012. évi XXXVI. törvényhez
 
-Vagyonnyilatkozat országgyűlési képviselő számára
-
-Vezetéknév:
-
-Utónév:
-
-Alulírott, felelősségem tudatában kijelentem, hogy:
-
-(A) „Nyilatkozom a megbízatásom keletkezését megelőző három évben végzett foglalkozásaimról, állami, önkormányzati és gazdasági tisztségeimről vagy megbízatásaimról, valamint ezen idő alatt, gazdálkodó szervezetben vagy más, jogi személyben és jogi személyiséggel nem rendelkező egyéb szervezetben vállalt tagságomról:”
-
-| Foglalkozás, megbízatás, tisztség vagy tagság1 | Díjazás nélküli | Jövedelmi kategóriák2 |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2 | 3 | 4 | 5 |
-| 1. |  |  |  |  |  |  |
-| 2. |  |  |  |  |  |  |
-| 3. |  |  |  |  |  |  |
-| 4. |  |  |  |  |  |  |
-
-(B) „Nyilatkozom az olyan, összeférhetetlenség alá nem eső foglalkozásomról, rendszeres tevékenységemről, amelyet megbízatásom gyakorlása mellett végzek és amelyből adóköteles jövedelmem származik:”
-
-| Foglalkozás, tevékenység3 | Jövedelmi kategóriák |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| 1 | 2 | 3 | 4 | 5 |
-| 1. |  |  |  |  |  |
-| 2. |  |  |  |  |  |
-| 3. |  |  |  |  |  |
-| 4. |  |  |  |  |  |
-
-(C) „Nyilatkozom az összeférhetetlenség alá nem eső, alkalmankénti, díjazással járó tevékenységemről, amennyiben az összes alkalmankénti tevékenységemért járó díjazás teljes összege egy naptári évben meghaladja a 2 000 000 forintot:”
-
-| Alkalmankénti tevékenységek, amennyiben a díjazás teljes összege egy naptári évben meghaladja a 2 000 000 forintot4 | Jövedelmi kategóriák |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| 1 | 2 | 3 | 4 | 5 |
-| 1. |  |  |  |  |  |
-| 2. |  |  |  |  |  |
-| 3. |  |  |  |  |  |
-| 4. |  |  |  |  |  |
-
-1 Kizárólag a jelenlegi megbízatás keletkezését megelőző három évben végzett foglalkozásról, megbízatásról, tisztségről, illetve vállalt tagságról kell nyilatkozni, az országgyűlési képviselői tisztséget is beleértve.
-
-2 Az egyes tételek bevallásakor jelezni kell, hogy a nyilatkozatot tevő azért díjazásban részesül-e vagy sem; illetve díjazás esetén az (A), (B), (C), (D) és (E) részekben az alábbi jövedelmi kategóriák egyikét is fel kell tüntetni:
-
-1. havi bruttó 1 és 200 000 Ft között;
-
-2. havi bruttó 200 001 és 500 000 Ft között;
-
-3. havi bruttó 500 001 és 1 000 000 Ft között;
-
-4. havi bruttó 1 000 001 és 5 000 000 Ft között;
-
-5. havi 5 000 000 Ft felett a millióra kerekített összeg megjelölésével.
-
-A nyilatkozatban bevallott egyes tételekből származó, de nem rendszeresen kapott jövedelmet éves alapon kell kiszámítani, el kell osztani tizenkettővel, és be kell sorolni a fenti kategóriák egyikébe.
-
-3 Az alábbiak feltüntetése szükséges:
-
-a) A tevékenység megjelölése
-
-b) A kifizető személye (kivéve a jogszabályon alapuló titoktartási kötelezettség alá eső tevékenységek)
-
-4 Az alábbiak feltüntetése szükséges:
-
-a) A tevékenység megjelölése
-
-b) A kifizető személye (kivéve a jogszabályon alapuló titoktartási kötelezettség alá eső tevékenységek)
-
-(D) „Nyilatkozom az összeférhetetlenség alá nem eső, gazdálkodó szervezetben, jogszabály által létrehozott testületben vállalt tagságomról, tisztségemről, bármilyen tevékenységemről, valamint bizalmi vagyonkezelési jogviszony alapján fennálló vagyonrendelői, vagyonkezelői, illetve kedvezményezetti jogállásomról:”
-
-| Tagság, tisztség, tevékenység vagy vagyonkezelői jogállás5 | Díjazás nélküli | Jövedelmi kategóriák |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2 | 3 | 4 | 5 |
-| 1. |  |  |  |  |  |  |
-| 2. |  |  |  |  |  |  |
-| 3. |  |  |  |  |  |  |
-| 4. |  |  |  |  |  |  |
-
-(E) „Nyilatkozom bármilyen olyan érdekeltségemről gazdasági társaságban, amely befolyást gyakorolhat a közpolitikával kapcsolatos kérdésekre, illetve olyan tulajdoni érdekeltségemről, amely meghatározó befolyást biztosít számomra gazdasági társaság ügyei tekintetében:”
-
-| Közpolitikával kapcsolatos kérdésekre esetleg befolyást gyakorló érdekeltség vagy gazdasági társaság6 | Meghatározó befolyást biztosító tulajdoni érdekeltség aránya | Díjazás nélküli | Jövedelmi kategóriák |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 2 | 3 | 4 | 5 |
-| 1. |  |  |  |  |  |  |  |
-| 2. |  |  |  |  |  |  |  |
-| 3. |  |  |  |  |  |  |  |
-| 4. |  |  |  |  |  |  |  |
-
-(F) „Nyilatkozom pénzbeli vagy természetbeni juttatásról, amelyet a tiszteletdíjamon és a megbízatásom ellátásával összefüggésben biztosított juttatáson felül munkám ellátásához vagy azzal szoros összefüggésben harmadik féltől kapok, akinek kilétét közlöm:”
-
-Pénzbeli, természetbeni juttatás:
-
-A harmadik fél (felek) megnevezése:
-
-(G) „Nyilatkozom bármely egyéb pénzügyi érdekeltségemről, amely feladataim ellátása során befolyásolhat engem:”
-
-(H) Egyéb kiegészítő információ:
-
-| Kelt: | Aláírás: |
-| --- | --- |
-
-5 Az alábbiak feltüntetése szükséges:
-
-a) Gazdálkodó szervezet, testület neve vagy vagyonkezelői jogviszony megjelölése
-
-b) Tagság (tag, tulajdonos, részvényes, bt. esetén beltag/kültag stb.), tisztség, tevékenység megjelölése
-
-6 Az alábbiak feltüntetése szükséges:
-
-a) Gazdasági társaság neve
-
-b) Érdekeltség formája (tag, tulajdonos, részvényes, bt. esetén beltag/kültag stb.)”
+2X07082.pdf
 
 ### 2. melléklet a 2012. évi XXXVI. törvényhez
 

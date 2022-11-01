@@ -373,7 +373,7 @@ jogosult hatósági eljárás esetén, a döntés véglegessé válásának idő
 
 10. § (1) A magyar légtérben a nemzetbiztonság, a közrend és a közbiztonság érdekében azonosítás céljából bármely légijármű feltartóztatható, és meghatározott esetben leszállásra szólítható fel.
 
-(2) A feltartóztatott légijárműnek a leszállásra való felszólítást, illetőleg jelzést haladéktalanul követnie kell. A felszólításnak nem engedelmeskedő légijárművet a nemzetközi jogban elfogadott eszközökkel (pl. állami légijármű által) kényszeríteni lehet, azonban a légijármű ellen – a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 62. § (3) bekezdésében meghatározott esetek kivételével – nem alkalmazható fegyver, és a légijármű fedélzetén lévő személyek és a légijármű biztonsága más módon sem veszélyeztethető.
+(2) A feltartóztatott légijárműnek a leszállásra való felszólítást, illetőleg jelzést haladéktalanul követnie kell. A felszólításnak nem engedelmeskedő légijárművet a nemzetközi jogban elfogadott eszközökkel (pl. állami légijármű által) kényszeríteni lehet, azonban a légijármű ellen – a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 102. § (3) és (9) bekezdésében meghatározott esetek kivételével – nem alkalmazható fegyver, és a légijármű fedélzetén lévő személyek és a légijármű biztonsága más módon sem veszélyeztethető.
 
 (2a) A magyar légtérben a nemzetbiztonság, a közrend, a repülésbiztonság és a közbiztonság érdekében, az arra jogosított szervezetek a pilóta nélküli légijárműveket detektálhatják, leszállásra szólíthatják fel, feltartóztathatják és jogszabályban meghatározott esetben elektronikai úton zavarhatják, valamint elektronikai vagy mechanikai úton földre kényszeríthetik a frekvenciahasználatra vonatkozó szabályok betartásával.
 
@@ -1439,7 +1439,9 @@ A. alrészének végrehajtása érdekében ellenőrzési rendszert alakít ki.
 
 (3) A légiközlekedési baleset, súlyos repülőesemény, a repülőesemény vizsgálatával kapcsolatos iratok irattári őrzési ideje 50 év.
 
-(4)–(5)
+(4)
+
+(5)
 
 #### 65. §
 
@@ -1973,9 +1975,14 @@ rendeletben állapítsa meg.
 
 75. § (1) Ez a törvény 1996. július 1. napján lép hatályba.
 
-- a)–b)
+- a)
+- b)
 
-(2)–(4)
+(2)
+
+(3)
+
+(4)
 
 76. § A 64. § (3) bekezdésében foglaltakat a légiközlekedésről szóló 1995. évi XCVII. törvény, valamint a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvény módosításáról szóló 2014. évi LX. törvény hatálybalépésekor folyamatban lévő irat átadás-átvételi ügyekben is alkalmazni kell.
 

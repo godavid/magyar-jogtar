@@ -177,6 +177,8 @@ feltéve hogy nem éri el az adott fekvés területét;
 
 (8) A katasztrófavédelemről szóló törvényben és a végrehajtására kiadott kormányrendeletben meghatározott veszélyhelyzet és katasztrófaveszély elhárítása és az arra való felkészülés esetén a hivatásos katasztrófavédelmi szervek részére – hitelesítés nélkül – díjmentesen igényelheti a 3. § (1) bekezdés a)–g) pontjában meghatározott adatbázisok adatait a miniszter felelősségi körébe tartozó adatok esetén az adatszolgáltatótól, a honvédelemért felelős miniszter felelősségi körébe tartozó adatok esetén a honvédelem térképészeti támogatásáért felelős szervtől. Az átadott állami alapadatokat, vagy azok alapján készült termékeket a veszélyhelyzet és katasztrófaveszély elhárítást irányító szervezet a katasztrófavédelemről szóló törvényben és a végrehajtására kiadott kormányrendeletben meghatározottak szerint adhatja át.
 
+(8a) A Kormány összehangolt védelmi tevékenység elrendelése esetén rendeletében előírhatja, hogy a védelmi és biztonsági igazgatás központi szerve, területi és helyi szervei – hitelesítés nélkül – díjmentesen igényelhetik a 3. § (1) bekezdés a)–g) pontjában meghatározott adatbázisok adatait a miniszter felelősségi körébe tartozó adatok esetén az adatszolgáltatótól, a honvédelemért felelős miniszter felelősségi körébe tartozó adatok esetén a honvédelem térképészeti támogatásáért felelős szervtől.
+
 (9) A (8) bekezdés alapján átadott állami alapadatokat a veszélyhelyzet vagy katasztrófaveszély megszűnése után – a megszűnéstől számított 30 napon belül – az adatigénylőnek vissza kell szolgáltatnia az adatszolgáltató részére.
 
 (10) Az Országos Statisztikai Adatfelvételi Programba tartozó adatfelvétel keretében meghatározott adatokat az adatfelvételt végrehajtó – hitelesítés nélkül – díjmentesen igényelheti a földmérési és térinformatikai államigazgatási szervtől.
@@ -911,6 +913,8 @@ végzi.
 - i) állapítsa meg az egyéb célú földmérési és térképészeti tevékenység végzésének részletes szabályait és követelményrendszerét,
 - j) jelölje ki a geodéziai tervezői és geodéziai szakértői minősítő és a nyilvántartást vezető szervet, határozza meg a minősítés feltételeit és a minősítéssel kapcsolatos eljárás részletes szabályait,
 - k) állapítsa meg a honvédelem térképészeti támogatásáért felelős szerv hatáskörébe tartozó hatósági eljárások részletes szabályait.
+
+(1a) Felhatalmazást kap a Kormány, hogy rendeletben a 6. § (8a) bekezdése szerinti intézkedéseket összehangolt védelmi tevékenység elrendelése esetén bevezesse.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
