@@ -271,7 +271,7 @@ lép.
 
 96. § Az államháztartásról szóló 2011. évi CXCV. törvény
 
-- 1.
+- 1. 40. § (4) és (5) bekezdésében az „53. cikke” szövegrész helyébe az „51. cikke” szöveg, és
 - 2.
 
 lép.
@@ -677,7 +677,7 @@ lép.
 
 #### 73. A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény eltérő tartalommal történő hatálybalépése
 
-239. §
+239. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 53. § (2) bekezdése a „kormánymegbízott” szövegrész helyett a „főispán” szöveggel lép hatályba.
 
 #### 74. A tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről, szétválásáról és egyéb jogharmonizációs célú törvénymódosításról szóló 2021. évi CXXIV. törvény módosítása
 

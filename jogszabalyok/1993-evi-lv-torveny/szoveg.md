@@ -323,7 +323,7 @@ ellátva kell csatolni.
 
 (4) Az állampolgársági kérelem átvételére jogosult szerv a honosítási eljárás, a visszahonosítási eljárás, az állampolgárság megszerzésére irányuló eljárás és az állampolgárság igazolására irányuló eljárás során ellenőrzi, hogy a kérelmező a személyiadat- és lakcímnyilvántartásban szerepel-e.
 
-19/A. § Az állampolgársági ügyekben eljáró szerv a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § m) pontjában és 30. § (1) bekezdés f) pontjában foglaltakra tekintettel, a hadkötelesek nyilvántartásának vezetése céljából a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére adatot szolgáltat azon személyek természetes személyazonosító adatairól, akiknek magyar állampolgársága lemondás vagy visszavonás révén megszűnt, illetve akik magyar állampolgárságát visszaállították.
+19/A. § Az állampolgársági ügyekben eljáró szerv a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § m) pontjában és 20. § (1) bekezdés f) pontjában foglaltakra tekintettel, a hadkötelesek nyilvántartásának vezetése céljából a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére adatot szolgáltat azon személyek természetes személyazonosító adatairól, akiknek magyar állampolgársága lemondás vagy visszavonás révén megszűnt, illetve akik magyar állampolgárságát visszaállították.
 
 20. § (1) Az állampolgársági iratok nem selejtezhetők, őrzésükről a Magyar Nemzeti Levéltár és – a (2) bekezdésben meghatározottak szerint – az állampolgársági ügyekben eljáró szerv az adatvédelmi szabályok megtartásával gondoskodik.
 

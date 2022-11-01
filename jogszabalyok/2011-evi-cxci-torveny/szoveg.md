@@ -543,7 +543,7 @@ a megváltozott munkaképességű személyek ellátásait folyósító szerv hiv
 
 (6) Az ellátást folyósító szerv a Nemzeti Adó- és Vámhivatal tájékoztatása alapján szerez tudomást arról, hogy kinek a részére állapítottak meg a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti egészségkárosodási járadékot vagy egészségkárosodási keresetkiegészítést, továbbá arról, ha ezen ellátások megszűntek.
 
-21/E. § A rehabilitációs hatóság a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § d) és u) pontja és 30. § (1) bekezdés d) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.
+21/E. § A rehabilitációs hatóság a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § d) és u) pontjában és 20. § (1) bekezdés d) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.
 
 #### 7. A rehabilitációs hozzájárulás és a megváltozott munkaképességű személyek foglalkoztatásának támogatása
 
@@ -603,7 +603,7 @@ kell figyelembe venni.
 
 - a) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó rendvédelmi feladatokat ellátó szerv,
 - b) a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó, a fogvatartottak kötelező foglalkoztatására létrehozott, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet,
-- c) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény szerinti honvédelmi szervezet, valamint a honvédelemért felelős miniszter fenntartói irányítása alá tartozó szakképző intézmény,
+- c) a honvédelemről és a Magyar Honvédségről szóló törvény szerinti honvédelmi szervezet, valamint a honvédelemért felelős miniszter fenntartói irányítása alá tartozó szakképző intézmény,
 - d) a Nemzeti Adó- és Vámhivatal.
 
 (7) A megváltozott munkaképességű munkavállalót foglalkoztató munkaadó a rehabilitációs hozzájárulás megállapítása céljából nyilvántartást vezet, amely tartalmazza a megváltozott munkaképességű munkavállaló és a 22/A. § szerinti személy természetes személyazonosító adatait és társadalombiztosítási azonosító jelét, a megváltozott munkaképességű munkavállaló munkaképesség-változásának, egészségi állapotának, egészségkárosodásának mértékét, a sajátos nevelési igény vagy fogyatékosság tényét, továbbá az ezek igazolására szolgáló okiratok másolatát. A nyilvántartást a munkáltató a foglalkoztatás megszűnését követő 5 évig köteles megőrizni. A sajátos nevelési igényre vagy a fogyatékosság tényére vonatkozó adat a foglalkoztatás megszűnését követő 5 évig, de legfeljebb a 23. életév betöltését követő 5 évig kezelhető.
@@ -978,7 +978,13 @@ való megfelelést szolgálja.
 
 #### 13. A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény módosítása
 
-#### 43–54. §
+#### 43. §
+
+#### 44. §
+
+#### 45. §
+
+#### 46. §
 
 #### 14. A Munka Törvénykönyvéről szóló 1992. évi XXII. törvény módosítása
 
@@ -1084,7 +1090,11 @@ való megfelelést szolgálja.
 
 #### 38. A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény módosítása
 
-#### 115–117. §
+#### 115. §
+
+#### 116. §
+
+#### 117. §
 
 #### 39. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása
 
@@ -1100,15 +1110,105 @@ való megfelelést szolgálja.
 
 #### 42. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
-#### 121–142. §
+#### 121. §
+
+#### 122. §
+
+#### 123. §
+
+#### 124. §
+
+#### 125. §
+
+#### 126. §
+
+#### 127. §
+
+#### 128. §
+
+#### 129. §
+
+#### 130. §
+
+#### 131. §
+
+#### 132. §
+
+#### 133. §
+
+#### 134. §
+
+#### 135. §
+
+#### 136. §
+
+#### 137. §
+
+#### 138. §
+
+#### 139. §
+
+#### 140. §
+
+#### 141. §
+
+#### 142. §
 
 #### 43. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-#### 143–159. §
+#### 143. §
+
+#### 144. §
+
+#### 145. §
+
+#### 146. §
+
+#### 147. §
+
+#### 148. §
+
+#### 149. §
+
+#### 150. §
+
+#### 151. §
+
+#### 152. §
+
+#### 153. §
+
+#### 154. §
+
+#### 155. §
+
+#### 156. §
+
+#### 157. §
+
+#### 158. §
+
+#### 159. §
 
 #### 44. A családok támogatásáról szóló 1998. évi LXXXIV. törvény módosítása
 
-#### 160–168. §
+#### 160. §
+
+#### 161. §
+
+#### 162. §
+
+#### 163. §
+
+#### 164. §
+
+#### 165. §
+
+#### 166. §
+
+#### 167. §
+
+#### 168. §
 
 #### 45. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló
 
@@ -1118,7 +1218,39 @@ való megfelelést szolgálja.
 
 #### 46. A munkavédelemről szóló 1993. évi XCIII. törvény módosítása
 
-#### 170–186. §
+#### 170. §
+
+#### 171. §
+
+#### 172. §
+
+#### 173. §
+
+#### 174. §
+
+#### 175. §
+
+#### 176. §
+
+#### 177. §
+
+#### 178. §
+
+#### 179. §
+
+#### 180. §
+
+#### 181. §
+
+#### 182. §
+
+#### 183. §
+
+#### 184. §
+
+#### 185. §
+
+#### 186. §
 
 #### 47. A szabálysértésekről szóló 1999. évi LXIX. törvény módosítása
 
@@ -1146,7 +1278,13 @@ való megfelelést szolgálja.
 
 #### 52. Az ágazati párbeszéd bizottságokról és a középszintű szociális párbeszéd egyes kérdéseiről szóló 2009. évi LXXIV. törvény módosítása
 
-#### 194–197. §
+#### 194. §
+
+#### 195. §
+
+#### 196. §
+
+#### 197. §
 
 #### 53.
 

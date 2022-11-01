@@ -702,7 +702,8 @@ A kormányhivatal
 - e) ügyfélszolgálatot működtethet,
 - f) jogszabályban meghatározottak szerint nyilvántartást vezet,
 - g) – jogszabályban meghatározott szolgáltató feladatkörébe tartozó informatikai szolgáltatások kivételével – ügyintézéshez kapcsolódó informatikai szolgáltatást biztosít,
-- h) ellátja a jogszabályban meghatározott egyéb feladatait.
+- h) ellátja a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott feladatokat, és
+- i) ellátja a jogszabályban meghatározott egyéb feladatait.
 
 #### 49. § [A járási hivatal szervezete]
 
@@ -3594,25 +3595,25 @@ együttesen kell tárolni (a továbbiakban együtt: személyi anyag).
 
 (3) Az (1) bekezdésben foglalt összeférhetetlenségi okokat az országgyűlési képviselői megbízatással nem rendelkező államtitkár vagy miniszterelnök politikai igazgatója vonatkozásában a Magyar Nemzeti Bank felügyelőbizottságának tagjaira, a Nemzeti Vagyongazdálkodási Tanács tagjaira, az Országos Betétbiztosítási Alap igazgatótanácsának tagjaira, a Szanálási Alap igazgatótanácsának tagjaira, a Likviditási Bizottság és a Fenntartható Gazdaságfehéredésért Felelős Bizottság tagjaira, a közvetlen vagy közvetett többségi állami tulajdonban lévő befektetési alapkezelő irányító testületének, illetve felügyeleti feladatokat ellátó irányító testületének tagjaira, valamint az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság, a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság és a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaság igazgatóságának, illetve felügyelőbizottságának tagjaira, továbbá a Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnökére vagy tagjaira és a START Garancia Pénzügyi Szolgáltató Zártkörűen Működő Részvénytársaság igazgatóságának vagy felügyelőbizottságának tagjaira nem kell alkalmazni.
 
-(3a)
+(3a) Az (1) bekezdésben foglalt összeférhetetlenségi okokat közfeladatot ellátó közérdekű vagyonkezelő alapítvány, illetve közérdekű vagyonkezelő alapítvány kuratóriumának vagy felügyelőbizottságának tagjaira, illetve a közfeladatot ellátó közérdekű vagyonkezelő alapítványban vagyonellenőri tisztséget betöltőkre nem kell alkalmazni, azzal hogy az érintett nem vehet részt olyan döntéshozatalban, illetve nem végezhet olyan tevékenységet, amelyet a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 15. § (3) bekezdése tilt.
 
 (4) Ha az összeférhetetlenségi eljárás ideje alatt a politikai felsővezető a vele szemben fennálló összeférhetetlenségi okot megszünteti, a miniszterelnök esetében az összeférhetetlenség nem mondható ki, a miniszter, a miniszterelnök politikai igazgatója és az államtitkár esetében a felmentést mellőzni kell.
 
 #### 183. § [Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető vagyonnyilatkozata]
 
-(1) Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető a megbízatása keletkezését követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
+(1) Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető a megbízatása keletkezését követő harminc napon belül vagyonnyilatkozatot tesz az Országgyűlésről szóló 2012. évi XXXVI. törvény 1. melléklete szerinti tartalommal és formában, amelyhez csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, továbbá gyermekének (a továbbiakban együtt: családtag) vagyonnyilatkozatát. Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető és a családtag vagyonnyilatkozatára az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
 
 (2) A vagyonnyilatkozatokat a Miniszterelnöki Kormányiroda kezeli.
 
-(3) A vagyonnyilatkozatban feltüntetett adatok tekintetében bekövetkezett változást a Miniszterelnöki Kormányirodának kell bejelenteni.
+(3)
 
-(4) Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető vagyonnyilatkozatának nyilvános, oldalhű másolatát a Miniszterelnöki Kormányiroda a honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a honlapról az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető megbízatásának megszűnését követő egy év elteltével távolítható el.
+(4) A családtag vagyonnyilatkozata kivételével az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető vagyonnyilatkozatának nyilvános, oldalhű másolatát a Miniszterelnöki Kormányiroda a honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a honlapról az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető megbízatásának megszűnését követő egy év elteltével távolítható el.
 
 (5) Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető vagyonnyilatkozatával kapcsolatos eljárást az Országgyűlés összeférhetetlenségi ügyekkel foglalkozó állandó bizottságának (a továbbiakban: összeférhetetlenségi bizottság) elnökénél bárki kezdeményezheti a vagyonnyilatkozat konkrét tartalmára vonatkozó olyan tényállítással, amely pontosan megjelöli a vagyonnyilatkozat kifogásolt részét és tartalmát. Ha a kezdeményezés nem felel meg az e bekezdésben foglalt követelményeknek, nyilvánvalóan alaptalan, vagy az ismételten benyújtott kezdeményezés új tényállítást vagy adatot nem tartalmaz, az összeférhetetlenségi bizottság elnöke az eljárás lefolytatása nélkül elutasítja a kezdeményezést. A vagyonnyilatkozatban foglaltak valóságtartalmát az összeférhetetlenségi bizottság ellenőrzi.
 
-(6) A vagyonnyilatkozattal kapcsolatos eljárás során az összeférhetetlenségi bizottság felhívására az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető köteles a vagyonnyilatkozatában feltüntetett jövedelem- és gazdasági érdekeltségi viszonyokat igazoló adatokat haladéktalanul, írásban bejelenteni. Az igazoló adatokba az összeférhetetlenségi bizottság tagjai tekinthetnek be. Az ellenőrzés eredményéről az összeférhetetlenségi bizottság elnöke tájékoztatja az Országgyűlés elnökét, aki az összeférhetetlenségi bizottság által megállapított tényekről a soron következő ülésen tájékoztatja az Országgyűlést.
+(6) A vagyonnyilatkozattal kapcsolatos eljárás során az összeférhetetlenségi bizottság felhívására az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető köteles a saját, illetve családtagja vagyonnyilatkozatában feltüntetett vagyon-, jövedelem- és gazdasági érdekeltségi viszonyokat igazoló adatokat haladéktalanul, írásban bejelenteni. Az igazoló adatokba az összeférhetetlenségi bizottság tagjai tekinthetnek be. Az ellenőrzés eredményéről az összeférhetetlenségi bizottság elnöke tájékoztatja az Országgyűlés elnökét, aki az összeférhetetlenségi bizottság által megállapított tényekről a soron következő ülésen tájékoztatja az Országgyűlést.
 
-(7) Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell. A Miniszterelnöki Kormányiroda az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető vagyonnyilatkozatát az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető megbízatásának a megszűnését követő egy évig őrzi, azt követően megsemmisíti.
+(7) Az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető által benyújtott igazoló adatokat a vagyonnyilatkozattal kapcsolatos eljárás lezárulását követő harmincadik napon törölni kell. A Miniszterelnöki Kormányiroda az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető, valamint családtagja vagyonnyilatkozatát az országgyűlési képviselői megbízatással nem rendelkező politikai felsővezető megbízatásának a megszűnését követő egy évig őrzi, azt követően megsemmisíti.
 
 #### 184. § [Az országgyűlési képviselői megbízatással rendelkező politikai felsővezető vagyonnyilatkozata]
 
@@ -5022,7 +5023,13 @@ az irányadóak.
 
 (3) A 29/B. § (6) bekezdése szerinti szempontoknak az Integritás Hatóság általi jóváhagyását követő 60. napig kormányzati érdekből történő kirendelés útján, illetve az európai uniós források felhasználásáért felelős miniszter munkaszervezetében más feladatkörben vagy munkakörben foglalkoztatott kormánytisztviselő vagy munkavállaló igénybevételével is megszervezhető a Belső Ellenőrzési és Integritási Igazgatóság feladatainak ellátása. A kormányzati érdekből történő kirendelésről – a 100. §-ban foglaltaktól eltérően – a Belső Ellenőrzési és Integritási Igazgatóság megbízott igazgatójának javaslatára az európai uniós források felhasználásáért felelős miniszter dönt.
 
-#### 293. §
+#### 293. § [Átmeneti rendelkezés az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvényhez]
+
+(1) A politikai felsővezető az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvénnyel megállapított rendelkezéseknek megfelelően először – 2022. december 31. napján fennálló állapot szerint − 2023. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a családtagja vagyonnyilatkozatát is.
+
+(2) A politikai felsővezető 2022. december 31-ig vagyonnyilatkozat-tételi kötelezettségének a 2022. október 31-én hatályos rendelkezések szerint tesz eleget.
+
+(3) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
 #### 294. §
 
@@ -5155,7 +5162,7 @@ E törvénynek a Magyarország 2021. évi központi költségvetésének megalap
 
 (4) A 320. § (1) bekezdése az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
 
-(5) A 95. § (11a) bekezdése és a 225. § (2a) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+(5) A 95. § (11a) bekezdése, 182. § (3a) bekezdése, valamint a 225. § (2a) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 #### 333. § [Az Európai Unió jogi aktusainak való megfelelés]
 

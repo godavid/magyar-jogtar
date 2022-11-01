@@ -218,7 +218,7 @@ tartása, valamint lézeres célzókészülék és éjszakai irányzék lőfegyv
 
 4/C. § A 3. § (1) bekezdése szerinti közigazagtási hatósági ügyben hozott elsőfokú döntés ellen fellebbezésnek van helye.
 
-4/D. § A 3. § (1) bekezdése szerinti közigazgatási hatósági ügyben, illetve az azzal összefüggő hatósági ellenőrzés során a hatóság a helyszíni szemlét – ha ez a közbiztonság, a közrend védelme vagy a terrorizmus elleni küzdelem érdekében, illetve bűnmegelőzési, bűnfelderítési célból szükséges, – a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is megtarthatja.
+4/D. § A 3. § (1) bekezdése szerinti közigazgatási hatósági ügyben, illetve az azzal összefüggő hatósági ellenőrzés során a hatóság a helyszíni szemlét – ha ez a közbiztonság, a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti védelmi és biztonsági érdek védelme, a közrend védelme vagy a terrorizmus elleni küzdelem érdekében, illetve bűnmegelőzési, bűnfelderítési célból szükséges, – a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is megtarthatja.
 
 4/E. § A 3. § (1) bekezdése szerinti közigazgatási hatósági üggyel összefüggésben zár alá vett dolog nem adható ki annak, aki nem rendelkezik a tartásához szükséges, illetve a birtoklására jogosító hatósági engedéllyel.
 
@@ -489,7 +489,7 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 
 (10) A szabályok súlyos megsértésének minősül a személyek vagy állatok életét, testi épségét, egészségét, a természetes és jogi személyek, valamint jogi személyiség nélküli szervezetek vagyonát, valamint a természeti vagy az épített környezetet veszélyeztető szabályszegés.
 
-18/F. § A 18/B. § (1) bekezdése szerinti közigazgatási hatósági ügyben, illetve az azzal összefüggő hatósági ellenőrzés során a hatóság a helyszíni szemlét – ha ez a közbiztonság, a közrend védelme vagy a terrorizmus elleni küzdelem érdekében, illetve bűnmegelőzési, bűnfelderítési célból szükséges, – a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is megtarthatja.
+18/F. § A 18/B. § (1) bekezdése szerinti közigazgatási hatósági ügyben, illetve az azzal összefüggő hatósági ellenőrzés során a hatóság a helyszíni szemlét – ha ez a közbiztonság, a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti védelmi és biztonsági érdek védelme, a közrend védelme vagy a terrorizmus elleni küzdelem érdekében, illetve bűnmegelőzési, bűnfelderítési célból szükséges, – a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is megtarthatja.
 
 18/G. § A 18/B. § (1) bekezdése szerinti közigazgatási hatósági ügyel összefüggésben zár alá vett dolog nem adható ki annak, aki nem rendelkezik a birtoklásához szükséges, illetve az arra jogosító hatósági engedéllyel.
 

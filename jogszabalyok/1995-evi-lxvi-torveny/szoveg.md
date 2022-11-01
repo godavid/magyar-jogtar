@@ -417,7 +417,7 @@ iratkezelése, iratai, valamint minden olyan közfeladatot ellátó szerv iratke
 
 (2) A szaklevéltár illetékessége – az Állambiztonsági Szolgálatok Történeti Levéltára és a VERITAS Történetkutató Intézet és Levéltár kivételével –
 
-- a) a Hadtörténelmi Levéltár esetében a honvédelemért felelős miniszter, valamint – a Katonai Nemzetbiztonsági Szolgálat nemzetbiztonsági vonatkozású iratai kivételével – a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 13. pontja szerinti honvédelmi szervezet,
+- a) a Hadtörténelmi Levéltár esetében a honvédelemért felelős miniszter, valamint – a Katonai Nemzetbiztonsági Szolgálat nemzetbiztonsági vonatkozású iratai kivételével – a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja szerinti honvédelmi szervezet,
 - b) a Földügyi és Távérzékelési Levéltár esetében a térképészetért felelős miniszter felügyelete alá tartozó ingatlanügyi hatóságok és a kataszteri program megvalósításáért felelős szerv állami alapadatok előállításával kapcsolatos,
 - c) a Környezetvédelmi és Vízügyi Levéltár esetében a környezetvédelemért felelős miniszter és a vízgazdálkodásért felelős miniszter felügyelete alá tartozó szervek,
 - d) a tudományos, kulturális vagy egészségügyi szolgáltatást végző intézmény esetében a fenntartó szerv, továbbá a fenntartó szerv által fenntartott intézmény vagy felügyelt gazdasági társaság

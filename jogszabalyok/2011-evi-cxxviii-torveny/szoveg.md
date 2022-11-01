@@ -10,7 +10,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 1. § (1) A katasztrófavédelem nemzeti ügy. A védekezés egységes irányítása állami feladat.
 
-(2) Minden állampolgárnak, illetve személynek joga van arra, hogy megismerje a környezetében lévő katasztrófaveszélyt, elsajátítsa az irányadó védekezési szabályokat, továbbá joga és kötelessége, hogy közreműködjön a katasztrófavédelemben.
+(2) Minden állampolgárnak, illetve személynek joga van arra, hogy megismerje a környezetében lévő kockázatokat, elsajátítsa az irányadó védekezési szabályokat, továbbá joga és kötelessége, hogy közreműködjön a katasztrófavédelemben.
 
 2. § (1) A védekezést és a következmények felszámolását az erre a célra létrehozott szervek és a különböző védekezési rendszerek működésének összehangolásával, az állampolgárok, valamint a polgári védelmi szervezetek, a gazdálkodó szervezetek, a Magyar Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az állami meteorológiai szolgálat, az állami mentőszolgálat, a vízügyi igazgatási szervek, az egészségügyi államigazgatási szerv, az önkéntesen részt vevő civil szervezetek és az erre a célra létrehozott köztestületek, továbbá nem természeti katasztrófa esetén annak okozója és előidézője, az állami szervek és az önkormányzatok (a továbbiakban együtt: katasztrófavédelemben részt vevők) bevonásával, illetve közreműködésével kell biztosítani.
 
@@ -31,8 +31,8 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 - 8. Katasztrófavédelem: a különböző katasztrófák elleni védekezésben azon tervezési, szervezési, összehangolási, végrehajtási, irányítási, létesítési, működtetési, tájékoztatási, riasztási, adatközlési és ellenőrzési tevékenységek összessége, amelyek a katasztrófa kialakulásának megelőzését, közvetlen veszélyek elhárítását, az előidéző okok megszüntetését, a károsító hatásuk csökkentését, a lakosság élet- és anyagi javainak védelmét, az alapvető életfeltételek biztosítását, valamint a mentés végrehajtását, továbbá a helyreállítás feltételeinek megteremtését szolgálják.
 - 9. Katasztrófaveszély: olyan folyamat vagy állapot, amelynek következményeként okszerűen lehet számolni a katasztrófa bekövetkezésének valószínűségével, és amely ezáltal veszélyezteti az emberi egészséget, környezetet, az élet- és vagyonbiztonságot.
 - 10. Katasztrófaveszélyes tevékenység: olyan emberi cselekvés vagy mulasztás, amely katasztrófát vagy annak közvetlen veszélyét idézheti elő.
-- 11. Kockázat: egy adott területen adott időtartamon belül vagy meghatározott körülmények között jelentkező egészség-, illetve környezetkárosító hatás valószínűsége.
-- 12. Közbiztonsági referens: a polgármester katasztrófák elleni védekezésre való felkészülési, védekezési, helyreállítási szakmai feladataiban, továbbá rendvédelmi feladataiban közreműködő, köztisztviselői jogviszonyban álló, e feladat ellátására a polgármester által kijelölt, e törvény végrehajtási rendeletében meghatározott végzettséggel rendelkező személy.
+- 11. Kiterjedt káresemény: olyan védelmi és biztonsági esemény, amelynek kezelése során elengedhetetlen az élet- és vagyonbiztonság megóvása érdekében a katasztrófavédelem, mint elsődleges beavatkozó irányításával az eseménykezelésben érintett szervezetek azonnali, összehangolt reagálása a védelmi és biztonsági igazgatás központi szervének koordinációs tevékenysége megkezdéséig.
+- 12. Kockázat: egy adott területen adott időtartamon belül vagy meghatározott körülmények között jelentkező egészség-, illetve környezetkárosító hatás valószínűsége.
 - 13. Külső védelmi terv: a veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem környezetében élő lakosság mentése, az anyagi javakban, a környezetben bekövetkező károk enyhítése érdekében a végrehajtandó rendszabályok bevezetésére, a végrehajtó szervezetre, a vezetésre, az adatszolgáltatásra vonatkozó terv, amely a települési veszélyelhárítási terv része.
 - 14. Küszöbérték alatti üzem: egy adott üzemeltető irányítása alatt álló azon terület, ahol e törvény végrehajtására kiadott jogszabály szerinti alsó küszöbérték negyedét elérő vagy meghaladó, de az alsó küszöbértéket el nem érő mennyiségben veszélyes anyag van jelen, valamint a külön jogszabályban meghatározott, kiemelten kezelendő létesítmények.
 - 15. Lakossági riasztó rendszer: a hivatásos katasztrófavédelmi szerv központi szerve, illetve a hivatásos katasztrófavédelmi szerv területi szervei kezelésében lévő lakossági riasztó, riasztó-tájékoztató, viharjelző rendszerek és ezek működésével szorosan összefüggő eszközök, berendezések összessége, amely lehet:
@@ -49,26 +49,26 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 - 22. Súlyos káresemény elhárítási terv: küszöbérték alatti üzem üzemeltetői okmánya, amely tartalmazza az üzem veszélyeztető hatásainak elemzését, valamint a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzését, elhárítását és hatásainak csökkentését szolgáló intézkedések végrehajtásának rendjét, feltételeit.
 - 23. Üzemeltető: bármely természetes vagy jogi személy, vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely veszélyes anyagokkal foglalkozó üzemet, létesítményt vagy küszöbérték alatti üzemet működtet, irányít, vagy alapszabály, alapító okirat, illetve szerződés alapján meghatározó gazdasági vagy döntéshozatali befolyással rendelkezik a veszélyes anyagokkal foglalkozó üzem, létesítmény, küszöbérték alatti üzem műszaki üzemeltetése felett.
 - 24. Veszély: valamely veszélyes anyag természetes tulajdonsága vagy olyan körülmény, amely káros hatással lehet az emberi egészségre vagy a környezetre.
-- 25. Veszélyelhárítási terv: katasztrófaveszély, valamint katasztrófa időszakában végrehajtandó katasztrófavédelmi feladatokat tartalmazó, központi, területi (fővárosi), települési (a fővárosban kerületi) és munkahelyi okmányrendszer.
+- 25. Veszélyelhárítási terv: kiterjedt káresemény időszakában végrehajtandó katasztrófavédelmi feladatokat tartalmazó, központi, területi (fővárosi), járási, települési (a fővárosban kerületi) és munkahelyi okmányrendszer.
 - 26. Veszélyes anyag: e törvény végrehajtását szolgáló kormányrendeletben meghatározott ismérveknek megfelelő anyag, keverék vagy készítmény, akár nyersanyag, termék, melléktermék, maradék, köztes termék, vagy hulladék formájában.
 - 27. Veszélyes anyagokkal foglalkozó létesítmény: olyan, a veszélyes anyagokkal foglalkozó üzem területén lévő – föld alatti vagy föld feletti – technológiai vagy termelésszervezési okokból elkülönülő műszaki egység, ahol egy vagy több berendezésben (technológiai rendszerben) veszélyes anyagok előállítása, felhasználása, szállítása vagy tárolása történik, magában foglal minden olyan felszerelést, szerkezetet, csővezetéket, gépi berendezést, eszközt, iparvágányt, kikötőt, a létesítményt szolgáló rakpartot, kikötőgátat, raktárt vagy hasonló – úszó vagy egyéb – felépítményt, amely a létesítmény működéséhez szükséges.
 - 28. Veszélyes anyagokkal foglalkozó üzem: egy adott üzemeltető irányítása alatt álló azon terület egésze, ahol egy vagy több veszélyes anyagokkal foglalkozó létesítményben – ideértve a közös vagy kapcsolódó infrastruktúrát is – veszélyes anyagok vannak jelen a törvény végrehajtására kiadott jogszabályban meghatározott küszöbértéket elérő mennyiségben, és ennek alapján alsó vagy felső küszöbértékűnek minősül.
-- 29. Veszélyes anyagokkal kapcsolatos súlyos baleset: olyan mértékű veszélyes anyag kibocsátásával, tűzzel vagy robbanással járó, veszélyes anyagokkal kapcsolatos üzemzavar, amely a veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem működése során befolyásolhatatlan folyamatként megy végbe, és amely az üzemen belül vagy azon kívül közvetlenül vagy lassan hatóan súlyosan veszélyezteti vagy károsítja az emberi egészséget, illetve a környezetet.
-- 30. Veszélyes anyagokkal kapcsolatos üzemzavar: veszélyes anyagokkal foglalkozó üzemben, küszöbérték alatti üzemben a rendeltetésszerű működés során vagy a technológiai folyamatokban bekövetkező olyan nem várt esemény, amely azonnali beavatkozást igényel és az alábbi következmények egyikével jár:
+- 29. Veszélyes anyagokkal kapcsolatos súlyos baleset: olyan mértékű veszélyes anyag kibocsátásával, tűzzel vagy robbanással járó, veszélyes anyagokkal kapcsolatos esemény, amely a veszélyes anyagokkal foglalkozó üzem, küszöbérték alatti üzem működése során befolyásolhatatlan folyamatként megy végbe, és amely az üzemen belül vagy azon kívül közvetlenül vagy lassan hatóan súlyosan veszélyezteti vagy károsítja az emberi egészséget, illetve a környezetet.
+- 30. Veszélyes anyagokkal kapcsolatos esemény: veszélyes anyagokkal foglalkozó üzemben, küszöbérték alatti üzemben a rendeltetésszerű működés során vagy a technológiai folyamatokban bekövetkező olyan nem várt esemény, amely nem minősül veszélyes anyagokkal kapcsolatos súlyos balesetnek, de azonnali beavatkozást igényel és az alábbi következmények egyikével jár:
   - a) veszélyes anyaggal kapcsolatos tűz,
   - b) veszélyes anyaggal kapcsolatos robbanás,
   - c) mérgező, rákkeltő tulajdonságú veszélyes anyag kibocsátása,
   - d) oxidáló, tűz- vagy környezetre veszélyes tulajdonságú folyadék halmazállapotú veszélyes anyag kikerülése legalább 1000 kg mennyiségben,
-  - e) egyéb veszélyes anyag kikerülése legalább a felső küszöbérték 0,1%-át elérő mennyiségben,
-  - f)
+  - e) egyéb veszélyes anyag kikerülése legalább a felső küszöbérték 0,1%-át elérő mennyiségben.
 - 31. Veszélyes tevékenység: olyan, veszélyes anyagok jelenlétében végzett tevékenység, amely ellenőrizhetetlenné válása esetén tömeges méretekben veszélyeztetheti, illetve károsíthatja az emberi egészséget, a környezetet, az élet- és vagyonbiztonságot.
 - 31a. Veszélyes anyagok jelenléte: veszélyes anyagok tényleges vagy várható jelenléte a veszélyes anyagokkal foglalkozó üzemben, küszöbérték alatti üzemben, valamint azoknak az anyagoknak a jelenléte, amelyekről reálisan feltételezhető, hogy akkor keletkezhetnek, amikor a folyamatok – beleértve a tároló tevékenységet is – az üzemen belül bármely létesítményből kikerülnek az ellenőrzés alól, amennyiben e veszélyes anyagok mennyisége eléri vagy meghaladja az e törvény végrehajtását szolgáló kormányrendeletben meghatározott alsó küszöbérték negyedét.
 - 32. Veszélyességi övezet: a veszélyes anyagokkal kapcsolatos súlyos baleset lehetséges következményeinek csökkentése érdekében a veszélyes anyagokkal foglalkozó üzem környezetében a hatóság által kijelölt, az egyéni sérülés kockázatához igazodó terület.
 - 33. Védendő adat: a veszélyes anyagokkal foglalkozó üzem biztonságával kapcsolatos lényeges adat, amelyet az üzemeltető vagy az iparbiztonsági hatóság védendővé nyilvánít, továbbá az üzemeltető által meghatározott üzleti titok.
+- 34. Katasztrófákkal szembeni ellenálló képesség: azon képességek, válaszadási kapacitások összessége, amelyek a személyek, a környezet, a tulajdon védelmét, valamint a kormányzati, gazdasági, társadalmi funkciók folytonosságának megőrzését szolgálják a természeti és az ember okozta katasztrófák közvetlen, közvetett hatásaival szemben.
 
 #### 3. A törvény hatálya
 
-4. § (1) E törvényt kell alkalmazni Magyarország területén katasztrófa megelőzése érdekében, Magyarország területén végzett katasztrófaveszélyes tevékenységre, veszélyhelyzetben, katasztrófaveszély esetén, továbbá akkor, ha a katasztrófa károsító hatása ellen Magyarország területén védekezés szükséges (beleértve a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezést is).
+4. § (1) E törvényt kell alkalmazni Magyarország területén végzett katasztrófaveszélyes tevékenységre, kiterjedt káresemény megelőzése érdekében, valamint annak bekövetkezése esetén, továbbá akkor, ha a katasztrófa károsító hatása ellen Magyarország területén védekezés szükséges (beleértve a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezést is).
 
 (2) A törvény IV. fejezetének hatálya kiterjed a Magyarország területén működő veszélyes anyagokkal foglalkozó üzemekre, veszélyes anyagokkal foglalkozó létesítményekre, küszöbérték alatti üzemekre, valamint a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzésében, az ellenük való védekezésben érintett közigazgatási szervekre és gazdálkodó szervezetekre, helyi önkormányzatokra, természetes személyekre.
 
@@ -94,12 +94,14 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 - b) megköti a katasztrófákkal kapcsolatos kölcsönös tájékoztatásra és segítségnyújtásra, valamint a megelőzés területén történő együttműködésre irányuló nemzetközi egyezményeket,
 - c) összehangolja a katasztrófavédelemmel összefüggő oktatási, képzési, tudományos kutatási és műszaki fejlesztési tevékenységet,
 - d) létrehozza az országos katasztrófavédelmi információs rendszert,
-- e) kihirdetésre előkészíti a veszélyhelyzet idején bevezetésre kerülő rendeletek tervezeteit, és megküldi azokat a végrehajtásért felelős személyeknek és szervezeteknek,
+- e)
 - f) az éves költségvetésben tervezi a hazai és a nemzetközi segítségnyújtásra fordítható előirányzat mértékét,
 - g) gondoskodik a központi költségvetési tervezés keretében a katasztrófavédelem működésének és fejlesztésének pénzügyi feltételeiről,
 - h) meghatározza a nemzeti kockázatelemzési, -értékelési és feltérképezési követelményeket,
-- i) a katasztrófák elleni védekezésért felelős miniszternek a honvédelemért felelős miniszter véleményének kikérését követően kialakított javaslatára meghatározza a polgári védelmi szervezetek összlétszámát,
-- j) a katasztrófák elleni védekezésért felelős miniszter útján irányítja a megyei védelmi bizottságok katasztrófavédelmi feladatainak végrehajtását.
+- i) a katasztrófák elleni védekezésért felelős miniszternek a honvédelemért felelős miniszter, valamint a védelmi és biztonsági igazgatás központi szervének vezetője véleményének kikérését követően kialakított javaslatára meghatározza a polgári védelmi szervezetek összlétszámát,
+- j) a katasztrófák elleni védekezésért felelős miniszter útján, a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározottak szerint, továbbá a védelmi és biztonsági igazgatás központi szervével együttműködve irányítja a területi védelmi bizottságok katasztrófavédelmi feladatainak végrehajtását.
+- k) összehangolja a katasztrófákkal szembeni ellenálló képesség fejlesztésével kapcsolatos feladatokat,
+- l) koordinálja a katasztrófák miatti veszteségekre vonatkozó adatok gyűjtését.
 
 6. § (1) A Kormány megszervezi a katasztrófák elleni védekezés irányítását és a végrehajtás összehangolását, a tervezés kormányszintű feladatainak végrehajtását, a katasztrófák következményeinek felszámolására való felkészülés, a megelőzés, a végrehajtás és a helyreállítás feladatainak tárcák közötti koordinációját.
 
@@ -110,9 +112,9 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 - a) a védekezéshez szükséges külföldi (nemzetközi) segítség igénybevételéről,
 - b) a külföldi állam részére történő segítségnyújtásról.
 
-#### 5. Kormányzati koordináció
+#### 5. Ágazati koordináció
 
-7. § A Kormány a katasztrófavédelemmel összefüggő döntéseinek előkészítése, valamint a katasztrófák elleni felkészüléssel, megelőzéssel, védekezéssel és helyreállítással kapcsolatos feladatok összehangolt megoldása érdekében kormányzati koordinációs szervet (a továbbiakban: kormányzati koordinációs szerv) működtet.
+7. § A Kormány a katasztrófavédelemmel összefüggő döntéseinek előkészítése, valamint a katasztrófák elleni felkészüléssel, megelőzéssel, védekezéssel és helyreállítással kapcsolatos feladatok összehangolt megoldása érdekében ágazati koordinációs szervet (a továbbiakban: ágazati koordinációs szerv) működtet.
 
 #### 6. A katasztrófák elleni védekezésért felelős miniszter feladatai
 
@@ -130,6 +132,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 - h) a külpolitikáért felelős miniszterrel együttműködve részt vesz a nemzetközi segítségnyújtásban,
 - i) felelős a kritikus infrastruktúrák védelméért a katasztrófák elleni védekezés területén,
 - j) jóváhagyja a központi veszélyelhárítási tervet.
+- k) az irányítása alá tartozó szervezetek tekintetében biztosítja a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott feladatok végrehajtását, valamint gondoskodik az irányítása alá tartozó szervezetek hatékony együttműködéséről a védelmi és biztonsági feladatok ellátásban részt vevő szervek, szervezetek, különösen a védelmi és biztonsági igazgatás szervei tekintetében.
 
 #### 7. A központi államigazgatási szerv vezetőjének feladatai
 
@@ -142,91 +145,27 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 - e) kijelöli az ágazat katasztrófavédelemben részt vevő szerveit és a katasztrófavédelembe bevonható gazdálkodó, valamint az önkéntesen jelentkező civil szervezetek közül az állandó együttműködésre alkalmas és a helyi részvételnél átfogóbb tevékenységre is képes szervezeteket, meghatározza a katasztrófavédelemmel kapcsolatos feladataikat, jogszabály alapján intézkedik felkészítésükre és a működési feltételeik megteremtésére,
 - f) a területi szerv vezetőjének javaslatára kinevezi és felmenti a helyi szervek vezetőit, gyakorolja a velük kapcsolatos – jogszabályban meghatározott – munkáltatói jogköröket.
 
-#### 8. A megyei, fővárosi és helyi védelmi bizottság feladatai
+#### 8.
 
-10. § A megyei, a fővárosi, illetve a helyi védelmi bizottság az illetékességi területén összehangolja a katasztrófák elleni védekezésben közreműködő szervek katasztrófavédelemmel kapcsolatos feladatainak ellátását és az arra való felkészülést.
+#### 10. §
 
-11. § (1) A megyei, fővárosi védelmi bizottság az illetékességi területén irányítja és összehangolja a helyi védelmi bizottságok, a főpolgármester, a megyei közgyűlési elnök, a polgármesterek katasztrófavédelmi feladatait.
+#### 11. §
 
-(2) A megyei, fővárosi védelmi bizottság a felkészülés érdekében:
+#### 9.
 
-- a) összehangolja a katasztrófavédelemben érintett szervek jogszabályokban és szakmai irányelvekben meghatározott felkészülési feladatait,
-- b) irányítja a polgármester védelmi felkészülési tevékenységét,
-- c) irányítja a hatáskörébe tartozó katasztrófavédelmi tervező tevékenységet,
-- d) szervezi a települések (a kerületek) közötti kölcsönös segítségnyújtást, értesítést, riasztást és tájékoztatást,
-- e) gondoskodik más megyékkel és a fővárossal történő együttműködés, kölcsönös segélynyújtás feltételeinek biztosításáról,
-- f) szervezi a közigazgatási szervek, a Magyar Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal és a társadalmi szervezetek területi szintű együttműködését,
-- g) szervezi a lakosság és a védekezésben érintett szervezetek riasztásának és tájékoztatásának előkészítését és végrehajtását,
-- h) felelős a polgári védelmi kötelezettségen alapuló területi polgári védelmi szervezetek létrehozásáért,
-- i) felelős a védekezéshez szükséges vezetési rendszer fenntartásáért, működőképességének biztosításáért.
+#### 12. §
 
-#### 9. A megyei, fővárosi védelmi bizottság elnökének feladatai
+#### 13. §
 
-12. § (1) A felkészülés és a megelőzés időszakában a megyei, fővárosi védelmi bizottság elnöke a bizottság döntésének megfelelően:
+#### 10.
 
-- a) biztosítja a katasztrófavédelemben érintett és hatáskörébe tartozó megyei és helyi szervezetek felkészítését, alkalmazhatóságát, részükre a felkészülés érdekében feladatot határoz meg,
-- b) biztosítja a társadalmi és a karitatív szervezetek részvételét a felkészülés feladataiban,
-- c) irányítja a megyei, fővárosi védelmi bizottság által szervezett, a katasztrófák elleni védekezésben érintett szervek, szervezetek gyakorlatait, ellenőrzi a felkészülés hatékonyságát,
-- d) felelős a riasztás, tájékoztatás előkészítéséért és végrehajtásáért, gondoskodik a lakosság és a gazdálkodó szervezetek riasztásához, tájékoztatásához szükséges eszközök működtetéséről,
-- e) a megyei, fővárosi védelmi bizottság ülésének napirendjére tűzi a védekezésben részt vevő szervek felkészültségéről szóló beszámolót,
-- f) az éves feladattervben meghatározza a polgármesterek felkészítésével kapcsolatos feladatokat,
-- g) kezdeményezheti kölcsönös segítségnyújtási tervek kidolgozását más megyékkel és a fővárossal kötött megállapodások alapján,
-- h) egyetértési jogot gyakorol a területi polgári védelmi szervezetek felépítésére, létszámára vonatkozó – a területileg illetékes hivatásos katasztrófavédelmi szerv által tett – javaslatokkal kapcsolatosan,
-- i) a katasztrófák elleni védekezésért felelős miniszter részére felterjeszti az illetékességi területén lévő települések polgármestereinek a települések katasztrófavédelmi besorolására vonatkozó javaslatait,
-- j) szervezi a közigazgatási szervek, a Magyar Honvédség és a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, a civil szervezetek, valamint a polgári védelmi szervezetek együttműködését,
-- k) felelős a polgári védelmi kötelezettségen alapuló területi polgári védelmi szervezetek megalakításáért, valamint a megyei (fővárosi) veszélyelhárítási terv elkészítéséért,
-- l) felelős a vezetési rendszer fenntartásáért, működőképességének biztosításáért.
+#### 14. §
 
-(2) A megyei, fővárosi védelmi bizottság elnöke a védelmi bizottság közreműködésével a védekezés irányítása terén:
+#### 11.
 
-- a) szervezi a Kormány által meghatározott területi védekezési feladatok végrehajtását,
-- b) irányítja a védekezést, és kezdeményezi a Kormány hatáskörébe tartozó intézkedések megtételét,
-- c) magához vonhatja a védekezés irányítását, ha a saját vagy az érintett polgármester helyzetértékelése szerint a katasztrófa elleni védekezés a helyi védelmi bizottság lehetőségét meghaladja, erről haladéktalanul értesíti a kormányzati koordinációs szervet,
-- d) halasztást nem tűrő esetben, a helyben szokásos módon, átmeneti jelleggel elrendeli az élet és az anyagi javak védelméhez szükséges mértékben a veszélyeztetett területekről az állampolgárok kimenekítését, és erről a hivatásos katasztrófavédelmi szerv központi szerve útján haladéktalanul értesíti a Kormányt,
-- e) folyamatosan értékeli a kialakult helyzetet, a védekezés helyzetét, minderről jelentést tesz a 46. § (1) bekezdésében meghatározott miniszteri biztosnak és tájékoztatja a kormányzati koordinációs szervet,
-- f) elrendeli a katasztrófák elleni védekezésért felelős miniszter intézkedése alapján – vagy halasztást nem tűrő esetben annak utólagos tájékoztatásával – a polgári védelmi szervezetek alkalmazását, erről egyidejűleg tájékoztatja a hivatásos katasztrófavédelmi szerv központi szerve vezetőjét,
-- g) összehangolja a lakosság és az anyagi javak kitelepítését, kimenekítését, befogadását, ellátását, továbbá a helyi védekezés megszervezését.
+#### 15. §
 
-13. § Ha a területi, illetve a helyi szintű védekezésben egyidejűleg több szerv együttműködése szükséges, a védekezés közvetlen irányításáért felelős vezetőt illetékességi területén a megyei, fővárosi vagy helyi védelmi bizottság elnöke, illetve a polgármester, több megye területét illetően a Kormány vagy bizottsága jelöli; a kijelölésig az események következményeinek felszámolásában elsődlegesen érintett szerv vezetője végzi a védekezés irányítását.
-
-#### 10. A helyi védelmi bizottság elnökének védekezéssel kapcsolatos feladatai
-
-14. § (1) A helyi védelmi bizottság elnöke:
-
-- a) működési területén irányítja a védekezésben részt vevő szervek, szervezetek tevékenységét,
-- b) utasíthatja a védekezés irányítása során a védekezésben részt vevő szervezetek vezetőit a hatáskörükbe tartozó intézkedések megtételére,
-- c) intézkedik a védekezéshez igénybe vehető állomány és eszközök átcsoportosítására és bevonására.
-
-(2) A helyi védelmi bizottság elnökének az (1) bekezdésben meghatározott irányítási és utasítási jogköre nem terjed ki a főpolgármesterre és a megyei közgyűlés elnökére.
-
-#### 11. A polgármester feladatai
-
-15. § (1) A polgármester (a fővárosban a főpolgármester) az illetékességi területén irányítja és szervezi a felkészülés és a védekezés feladatait. E feladatok végrehajtására – a hivatásos katasztrófavédelmi szerv területi szerve egyetértésével – közfoglalkoztatási támogatást igényelhet az erre a célra létrehozott költségvetési előirányzat terhére, a külön jogszabályban meghatározottak szerint.
-
-(2) A polgármester a felkészülés keretében:
-
-- a) felelős a települési (a fővárosban kerületi) veszélyelhárítási tervek elkészítéséért, valamint a helyi lehetőségek figyelembevételével a védekezés feltételeinek a biztosításáért,
-- b) irányítja a védekezésre való felkészítést,
-- c) gyakorolja katasztrófavédelmi ügyekben az elsőfokú polgári védelmi hatósági jogkört, amit jogszabály nem utal más szerv hatáskörébe,
-- d) a polgári védelmi kötelezettség alatt álló állampolgárt a területi, települési, kerületi és munkahelyi polgári védelmi szervezetbe kiképzésre és gyakorlatra osztja be,
-- e) felelős a polgári védelmi kötelezettségen alapuló települési polgári védelmi szervezet megalakításáért,
-- f) gondoskodik az illetékességi területen élő vagy tartózkodó személyek részére a katasztrófaveszélyekről szóló, a magatartási szabályokat is tartalmazó tájékoztatásról,
-- g) a gazdálkodó szervezetek részére határozattal elrendeli a polgári védelmi kötelezettségen alapuló települési és munkahelyi polgári védelmi szervezetek megalakítását és az alkalmazás feltételeinek biztosítását,
-- h) biztosítja a lakosság riasztására szolgáló és a közigazgatási területén lévő, rendelkezésre bocsátott technikai berendezések működtetését,
-- i) részt vesz a feladatainak ellátása érdekében, a hivatásos katasztrófavédelmi szervek által szervezett felkészítéseken,
-- j) kijelöli a katasztrófák elleni védekezéssel összefüggő feladataiban közreműködő közbiztonsági referenst.
-
-(3) A főpolgármester és a megyei közgyűlés elnöke szervezi és irányítja a fővárosi és a megyei önkormányzat közfeladataihoz kapcsolódó katasztrófavédelmi tevékenységet.
-
-16. § A polgármester a településen a védekezés során:
-
-- a) a 46. § (3) bekezdésében meghatározott kivétellel a hivatásos katasztrófavédelmi szerv szakmai iránymutatása mellett irányítja a településen a helyi katasztrófavédelmi tevékenységet,
-- b) halasztást nem tűrő esetben átmeneti jelleggel elrendeli az élet és az anyagi javak védelméhez szükséges intézkedéseket, és erről haladéktalanul értesíti a település szerint illetékes hivatásos katasztrófavédelmi szerv területi szerve vezetőjét és a megyei, fővárosi védelmi bizottság elnökét,
-- c) a polgári védelmi kötelezettség alatt álló állampolgárt a katasztrófavédelem érdekében határozattal polgári védelmi szolgálatra kötelezi,
-- d) szervezi és irányítja a lakosság védelmét, kitelepítését, kimenekítését, befogadását és visszatelepítését,
-- e) szervezi és irányítja az anyagi javak védelmét, a lakosság létfenntartásához szükséges anyagi javakkal történő ellátását,
-- f) a megyei, fővárosi védelmi bizottság elnökének rendelkezése alapján – vagy halasztást nem tűrő esetben annak utólagos tájékoztatásával – elrendeli a települési polgári védelmi szervezetek alkalmazását,
-- g) együttműködik más települések polgármestereivel, a védekezésbe bevont más szervezetekkel a katasztrófavédelmi feladatok végrehajtásában.
+#### 16. §
 
 #### 12. A gazdálkodó szervezet vezetőjének feladatai
 
@@ -290,28 +229,19 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 
 #### 14. Egyéb rendelkezések
 
-19. § (1) A polgármester, a főpolgármester, a helyi védelmi bizottság elnöke, a fővárosi és megyei védelmi bizottság elnöke a katasztrófavédelmi feladatoknak e törvényben meghatározott irányítása és végrehajtása során államigazgatási jogkörben jár el. Az elsőfokú államigazgatási hatósági eljárásban hozott határozataik ellen fellebbezésnek van helye.
+19. § (1)
 
 (2) A főpolgármester és a megyei közgyűlés elnöke, a polgármester a katasztrófavédelmi feladatait a hivatásos katasztrófavédelmi szerv közreműködésével látja el.
 
+(2a) A megyei közgyűlés elnöke, a főpolgármester és a polgármester a katasztrófavédelmi feladatok e törvényben meghatározott végrehajtása során államigazgatási jogkörben jár el.
+
 (3) A katasztrófavédelmi feladatok ellátása érdekében a kormánytisztviselő, a köztisztviselő, a közalkalmazott és az egészségügyi szolgálati jogviszonyban álló személy túlmunkára kötelezhető.
 
-(4) A polgári védelmi kötelezettséget teljesítő vagy a katasztrófák elleni védekezésben e törvény alapján közreműködő részére a katasztrófavédelmi feladatok teljesítésével összefüggésben bekövetkezett balesete vagy betegsége esetén a társadalombiztosítási rendelkezések szerinti baleseti ellátás jár. A polgári védelmi kötelezettséggel összefüggő balesetnek minősül az is, ha a baleset a kötelezettséget teljesítő személyt a kötelezettség teljesítésének helyére vagy onnan vissza, menet közben éri.
+(4)
 
 #### 15. Általános jelzési kötelezettség
 
-20. § (1) Aki a katasztrófát vagy a katasztrófa veszélyét észleli, vagy arról tudomást szerez, haladéktalanul köteles bejelenteni.
-
-(2) A bejelentést
-
-- a) a hivatásos katasztrófavédelmi szerv,
-- b) az önkormányzati tűzoltóság,
-- c) a rendőrség, vagy
-- d) a polgármesteri hivatal vagy a közös önkormányzati hivatal
-
-felé kell teljesíteni.
-
-(3) A (2) bekezdés alapján értesített szerv a tudomásszerzést követően haladéktalanul értesíti a többi értesítendő szervet.
+#### 20. §
 
 21. § (1) A lakossági riasztórendszer elemeinek, végpontjainak idegen építményen történő elhelyezésénél törekedni kell elsődlegesen az állami, önkormányzati építményeken történő elhelyezésre. Amennyiben a magántulajdonú építménnyel szemben az állami, önkormányzati területen történő elhelyezés aránytalanul nagy költségráfordítást, illetve technológiai változást jelent, a lakossági riasztórendszer magántulajdonú építményeken kerül elhelyezésre.
 
@@ -336,6 +266,8 @@ felé kell teljesíteni.
 - c) helyi szervek a katasztrófavédelmi kirendeltségek és a hivatásos tűzoltóságok.
 
 (2) A hivatásos katasztrófavédelmi szerv államigazgatási feladatot is ellátó rendvédelmi szerv, amelynek tagjai hivatásos állományúak, rendvédelmi alkalmazottak, munkavállalók és tisztjelöltek.
+
+(3) A hivatásos katasztrófavédelmi szerv a feladatait a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényre is figyelemmel hajtja végre.
 
 #### 17. A hivatásos katasztrófavédelmi szerv központi szerve
 
@@ -520,7 +452,7 @@ esetén.
 
 (2) Külön jogszabály szerint biztosítani kell, hogy a veszélyes anyagokkal foglalkozó üzem veszélyességi övezetének határán belül történő fejlesztések során a lakosság véleményt nyilváníthasson.
 
-34. § (1) Az iparbiztonsági hatóság a 25. § (1) bekezdése szerinti végleges határozatát a veszélyeztetett települések polgármestereivel, az üzem telephelye szerint illetékes környezetvédelmi, valamint természetvédelmi hatósággal, a fővárosban a főpolgármesterrel, valamint a veszélyes anyagokkal foglalkozó üzem telephelye szerint illetékes helyi, megyei védelmi bizottság elnökével közli.
+34. § (1) Az iparbiztonsági hatóság a 25. § (1) bekezdése szerinti végleges határozatát a veszélyeztetett települések polgármestereivel, az üzem telephelye szerint illetékes környezetvédelmi, valamint természetvédelmi hatósággal, a fővárosban a főpolgármesterrel, valamint a veszélyes anyagokkal foglalkozó üzem telephelye szerint illetékes helyi, területi védelmi bizottság elnökével közli.
 
 (2) Az iparbiztonsági hatóság a veszélyes tevékenység végzésére vonatkozó határozatának kiadását követően a veszélyes tevékenységet végzőkről és a veszélyes anyagokkal kapcsolatos súlyos baleseti veszélyekről tájékoztatja a veszélyes anyaggal foglalkozó üzem telephelye szerint illetékes megyei (budapesti) rendőr-főkapitányságot, az egészségügyi államigazgatási szervet, a környezetvédelmi hatóságot, valamint az állami mentőszolgálatot.
 
@@ -537,13 +469,13 @@ esetén.
   - cb) környezetvédelmi szabályok szerinti megsemmisítését,
   - cc) veszélyeztető jellegük megszüntetését.
 
-(4) Amennyiben az üzemeltető a veszélyes anyagokkal kapcsolatos súlyos balesettel vagy üzemzavarral összefüggésben a megelőző, elhárító, helyreállító intézkedésekre, valamint a veszélyes anyagokkal kapcsolatos súlyos baleset körülményeinek kivizsgálására vonatkozó kötelezettségének nem tesz eleget, az iparbiztonsági hatóság ezek megtételére kötelezi.
+(4) Amennyiben az üzemeltető a veszélyes anyagokkal kapcsolatos súlyos balesettel vagy eseménnyel összefüggésben a megelőző, elhárító, helyreállító intézkedésekre, valamint a veszélyes anyagokkal kapcsolatos súlyos baleset körülményeinek kivizsgálására vonatkozó kötelezettségének nem tesz eleget, az iparbiztonsági hatóság ezek megtételére kötelezi.
 
 (5) Az iparbiztonsági hatóság katasztrófavédelmi bírság kiszabására jogosult:
 
 - a) katasztrófavédelmi engedély nélkül végzett engedélyköteles tevékenység végzése esetén,
 - b) a IV. fejezetben és a végrehajtási rendeletekben, vagy az azok alapján meghozott hatósági döntésben foglalt előírások elmulasztása esetén,
-- c) a veszélyes tevékenységgel kapcsolatos súlyos balesettel, vagy üzemzavarral összefüggésben megelőző, elhárító és helyreállító intézkedésekre vonatkozó kötelezettség be nem tartása esetén.
+- c) a veszélyes tevékenységgel kapcsolatos súlyos balesettel, vagy eseménnyel összefüggésben megelőző, elhárító és helyreállító intézkedésekre vonatkozó kötelezettség be nem tartása esetén.
 
 (6) A katasztrófavédelmi bírság legkisebb összege háromszázezer forint, legmagasabb összege hárommillió forint. A bírság összegét a törvényi keretek között a jogsértésnek az emberi életre és egészségre, az anyagi javakra és a környezetre való veszélyességével arányos mértékben, igazodva a jogsértés súlyához és ismétlődéséhez kell meghatározni.
 
@@ -559,12 +491,12 @@ esetén.
 - b) üzemazonosítási kötelezettség elmulasztása,
 - c) biztonsági jelentésben, biztonsági elemzésben, belső védelmi tervben, súlyos káresemény elhárítási tervben valótlan adatok feltüntetése,
 - d) a hatósági döntésben foglalt műszaki, technológiai, beruházási, karbantartási előírás elmulasztása,
-- e) veszélyes anyagokkal kapcsolatos üzemzavar, súlyos baleset azonnali bejelentésének elmulasztása,
-- f) veszélyes anyagokkal kapcsolatos üzemzavarról, súlyos balesetről szóló adatszolgáltatási kötelezettség elmulasztása,
+- e) veszélyes anyagokkal kapcsolatos esemény, súlyos baleset azonnali bejelentésének elmulasztása,
+- f) veszélyes anyagokkal kapcsolatos eseményről, súlyos balesetről szóló adatszolgáltatási kötelezettség elmulasztása,
 - g) veszélyes anyagokkal kapcsolatos súlyos balesettel kapcsolatos védekezési, elhárítási és helyreállító intézkedések elmulasztása,
 - h) belső védelmi terv gyakorlat végrehajtásának elmulasztása.
 
-36. § Az iparbiztonsági hatóság a veszélyes anyagokkal kapcsolatos súlyos balesetek és üzemzavarok megelőzése, kivizsgálása, valamint a jogszabályban, illetve hatósági határozatban foglalt kötelezettségek teljesülése érdekében az e törvény végrehajtását szolgáló kormányrendeletben meghatározott gyakorisággal hatósági ellenőrzést tart.
+36. § Az iparbiztonsági hatóság a veszélyes anyagokkal kapcsolatos súlyos balesetek és események megelőzése, kivizsgálása, valamint a jogszabályban, illetve hatósági határozatban foglalt kötelezettségek teljesülése érdekében az e törvény végrehajtását szolgáló kormányrendeletben meghatározott gyakorisággal hatósági ellenőrzést tart.
 
 37. § Az üzemeltető köteles:
 
@@ -602,158 +534,52 @@ esetén.
 
 42. § Az üzemeltető köteles a hivatásos katasztrófavédelmi szerv területi szerve ügyeleti szolgálata útján távbeszélőn az iparbiztonsági hatóságot haladéktalanul tájékoztatni
 
-- a) a veszélyes anyagokkal kapcsolatos súlyos baleset, üzemzavar körülményeiről,
-- b) a veszélyes anyagokkal kapcsolatos súlyos balesetben, üzemzavarban szereplő veszélyes anyagokról,
+- a) a veszélyes anyagokkal kapcsolatos súlyos baleset, esemény körülményeiről,
+- b) a veszélyes anyagokkal kapcsolatos súlyos balesetben, eseményben szereplő veszélyes anyagokról,
 - c) a lakosságra, az anyagi javakra és a környezetre gyakorolt hatások értékeléséhez szükséges adatokról,
 - d) a megtett intézkedésekről.
 
-### V. Fejezet — A KATASZTRÓFAVESZÉLY ÉS A VESZÉLYHELYZET
+### V. Fejezet — A KITERJEDT KÁRESEMÉNY
 
-#### 19. A katasztrófaveszély
+#### 19. A kiterjedt káresemény
 
-43. § (1) A 3. § 9. pontjában meghatározott katasztrófaveszély esetén a hivatásos katasztrófavédelmi szerv központi szerve vezetője a katasztrófavédelmi feladatok ellátása keretében – a katasztrófák elleni védekezésért felelős miniszter által előzetesen jóváhagyott központi veszélyelhárítási terv szerint – azonnal intézkedik az emberi élet, a létfenntartáshoz szükséges anyagi javak, a kritikus infrastruktúrák védelme, a lakosság alapvető ellátásának biztosítása, valamint a katasztrófa következményeinek lehető legkisebbre csökkentése érdekében.
+43. § (1) A 3. § 11. pontjában meghatározott kiterjedt káresemény esetén a hivatásos katasztrófavédelmi szerv központi szerve vezetője a katasztrófavédelmi feladatok ellátása, koordinálása keretében – a katasztrófák elleni védekezésért felelős miniszter által előzetesen jóváhagyott központi veszélyelhárítási terv szerint – azonnal intézkedik az emberi élet, a létfenntartáshoz szükséges anyagi javak, a kritikus infrastruktúrák védelme, a lakosság alapvető ellátásának biztosítása, valamint a katasztrófa következményeinek lehető legkisebbre csökkentése érdekében.
 
-(2) A honvédségi erők igénybevétele a szükséges létszámnak megfelelően a Honvéd Vezérkar főnöke, a honvédelemért felelős miniszter, illetve a Kormány döntése alapján történik.
+(2) A honvédségi erők igénybevétele a szükséges létszámnak megfelelően a Magyar Honvédség irányítására vonatkozó szabályok alapján erre jogosult személy döntése alapján történik.
 
 (3) A hivatásos katasztrófavédelmi szerv központi szerve vezetője a megtett intézkedésekről haladéktalanul tájékoztatja a katasztrófák elleni védekezésért felelős minisztert.
 
-(4) A katasztrófaveszély kezdetének és megszűnésének időpontját, helyét a hivatásos katasztrófavédelmi szerv központi szervének vezetője a hivatásos katasztrófavédelmi szerv központi szervének honlapján közzéteszi.
+(4) A kiterjedt káresemény kezdetének és megszűnésének időpontját, helyét a hivatásos katasztrófavédelmi szerv központi szervének vezetője a hivatásos katasztrófavédelmi szerv központi szervének honlapján közzéteszi.
 
-#### 20. A veszélyhelyzet
+#### 20.
 
-44. § A veszélyhelyzet az Alaptörvény 53. Cikkében meghatározott olyan helyzet, amelyet különösen a következő események válthatnak ki:
+#### 44. §
 
-- a) elemi csapások, természeti eredetű veszélyek, különösen:
-  - aa) árvízvédekezés során, ha az előrejelzések szerint az áradó víz az addig észlelt legmagasabb vízállást megközelíti és további jelentős áradás várható, vagy elháríthatatlan jégtorlasz keletkezett, vagy töltésszakadás veszélye fenyeget,
-  - ab) belvízvédekezés során, ha a belvíz lakott területeket, ipartelepeket, fő közlekedési utakat, vasutakat veszélyeztet és a veszélyeztetés olyan mértékű, hogy a kár megelőzése, az újabb elöntések elhárítása meghaladja az erre rendelt szervezetek védekezési lehetőségeit,
-  - ac) több napon keresztül tartó kiterjedő, folyamatos, intenzív, megmaradó hóesés vagy hófúvás,
-  - ad) más szélsőséges időjárás következtében az emberek életét, anyagi javait a lakosság alapvető ellátását veszélyeztető helyzet következik be,
-  - ae) földtani veszélyforrások.
-- b) ipari szerencsétlenség, civilizációs eredetű veszélyek, különösen:
-  - ba) a veszélyes anyagokkal és hulladékokkal történő tevékenység során a szabadba kerülő anyag az emberi életet, egészséget, továbbá a környezetet tömeges méretekben és súlyosan veszélyezteti,
-  - bb) nem tervezett radioaktív kiszóródás és egyéb sugárterhelés, amely a biztonságot kedvezőtlenül befolyásolja és a lakosság nem tervezett sugárterhelését idézi elő.
-- c) egyéb eredetű veszélyek, különösen:
-  - ca) tömeges megbetegedést okozó humánjárvány vagy járványveszély, valamint állatjárvány,
-  - cb) ivóvíz célú vízkivétellel érintett felszíni és felszín alatti vizek haváriaszerű szennyezése,
-  - cc) bármely okból létrejövő olyan mértékű légszennyezettség, amely a külön jogszabályban meghatározott riasztási küszöbértéket meghaladja,
-  - cd) a kritikus infrastruktúrák olyan mértékű működési zavara, melynek következtében a lakosság alapvető ellátása több napon keresztül, vagy több megyét érintően akadályozott.
+#### 21.
 
-#### 21. A Kormány rendkívüli intézkedései veszélyhelyzet esetén
+#### 45. §
 
-45. § (1) Veszélyhelyzetben, a katasztrófa elhárításához szükséges mértékben és területen a Kormány rendeleti úton a 47. §–48. § szerinti rendkívüli intézkedéseket vezetheti be, illetve a 49. §–51. § szerinti rendkívüli intézkedések bevezetésével ezek végrehajtására adhat felhatalmazást.
+#### 22.
 
-(2) A katasztrófa károsító hatása által érintett területen a következmények elhárítása érdekében a 47. § (1), (3) és (4) bekezdésében, a 49. § (1) bekezdésében, a (6) bekezdés a) és b) pontjaiban meghatározott rendkívüli intézkedések vezethetők be. A következmények elhárítása érdekében kihirdetett veszélyhelyzetben a veszélyhelyzetre vonatkozó sajátos irányítási szabályok nem érvényesülnek.
+#### 46. §
 
-(3) A Kormány rendeleteinek kihirdetésére – a (4)–(5) bekezdésben foglalt kivétellel – veszélyhelyzetben is a jogalkotásról szóló törvény rendelkezéseit kell alkalmazni.
+#### 23.
 
-(4) Halasztást nem tűrő esetben a Kormány rendelete közszolgálati műsorszóró útján is kihirdethető (a továbbiakban: rendkívüli kihirdetés). Az így kihirdetett rendeletet a Magyar Közlöny legközelebbi számában meg kell jelentetni. A rendkívüli kihirdetésről a katasztrófák elleni védekezésért felelős miniszter gondoskodik.
+#### 47. §
 
-(5) A rendkívüli kihirdetés a rendelet szövegének szó szerinti beolvasásával szóban történik. A rendkívüli kihirdetés során a rendelet sorszámára nem kell utalni.
+#### 48. §
 
-#### 22. A veszélyhelyzetre vonatkozó sajátos irányítási szabályok
+#### 24.
 
-46. § (1) Amennyiben a veszélyhelyzet több megyét érint, vagy ha a katasztrófa elhárítása érdekében ez szükséges, a katasztrófák elleni védekezésért felelős miniszter – legfeljebb a veszélyhelyzet fennállásáig – miniszteri biztost nevezhet ki.
+#### 49. §
 
-(2) A miniszteri biztos feladata az érintett területen a védekezési feladatok összehangolása. A miniszteri biztos a megyei, fővárosi védelmi bizottság elnökét utasíthatja.
+#### 50. §
 
-(3) Veszélyhelyzetben a településen a helyi katasztrófavédelmi tevékenység irányítását – helyszínre érkezésétől – a polgármestertől a hivatásos katasztrófavédelmi szerv területi szerve vezetője által kijelölt személy veszi át.
+#### 51. §
 
-(4) Veszélyhelyzetben a települési önkormányzat képviselő-testületének, a fővárosi, megyei közgyűlésnek feladat- és hatáskörét a polgármester, illetve a főpolgármester, a megyei közgyűlés elnöke gyakorolja. Ennek keretében nem foglalhat állást önkormányzati intézmény átszervezéséről, megszüntetéséről, ellátási, szolgáltatási körzeteiről, ha a szolgáltatás a települést is érinti.
+#### 24/A.
 
-(5) Veszélyhelyzetben az önkéntes mentőszervezetek védekezésbe történő bevonását a hivatásos katasztrófavédelmi szerv központi szerve vezetője rendeli el.
-
-#### 23. Veszélyhelyzetben a Kormány rendeletével bevezethető rendkívüli szabályok
-
-47. § (1) Veszélyhelyzetben rendeletben az államháztartásra vonatkozó szabályoktól eltérő rendelkezések állapíthatók meg.
-
-(2) Veszélyhelyzetben a polgármester és a jegyző hatáskörébe tartozó államigazgatási feladatot rendelet is megállapíthat.
-
-(3) Veszélyhelyzetben a közigazgatási hatósági eljárásra vonatkozó törvény rendelkezései közül rendelettel eltérő rendelkezések bevezetésére van mód
-
-- a) a bíróság előtt meg nem támadható hatósági döntések körét,
-- b) a hatáskör és illetékesség megállapítását,
-- c) az eljáró közigazgatási hatóság kijelölésének rendjét,
-- d) a megkeresés szabályát,
-- e) az ügyintézési és egyéb határidőt,
-- f) a képviselet rendjét,
-- g) az elővezetés szabályát,
-- h) az eljárás felfüggesztését,
-- i) a jogorvoslat rendjét,
-- j) a végrehajtás szabályait
-
-érintően.
-
-(4) Rendelettel előírható, hogy a termelési, ellátási és szolgáltatási kötelezettségek biztosítása érdekében a katasztrófák elleni védekezésért felelős miniszter a gazdasági tevékenységet folytató szolgáltatásra kötelezettek részére szerződéskötési kötelezettséget írhat elő. A szerződéskötési kötelezettség hatálya alá tartozó termékek és szolgáltatások körét rendelet határozza meg.
-
-48. § (1) A veszélyhelyzet súlyosbodásának közvetlen veszélye esetén, annak megelőzése céljából gazdálkodó szervezet működése rendeletben – a (3) bekezdésben meghatározottak szerint – a Magyar Állam felügyelete alá vonható.
-
-(2) A Magyar Állam nevében az államháztartásért felelős miniszter vagy kormánybiztos jár el.
-
-(3) A (2) bekezdésben meghatározott személy
-
-- a) áttekinti a gazdálkodó szervezet vagyoni helyzetét,
-- b) jóváhagyja, ellenjegyzi a gazdálkodó szervezet vagyoni jellegű kötelezettségvállalásait,
-- c) a rendkívüli intézkedés bevezetését előidéző helyzet közvetlen elhárításával, illetve következményeinek enyhítésével összefüggésben dönt a gazdálkodó szervezet legfőbb döntéshozó szerve hatáskörébe tartozó ügyekben.
-
-(4) A Magyar Állam a gazdálkodó szervezet legfőbb döntéshozó szerve hatáskörébe tartozó ügyekben hozott döntéseiről haladéktalanul írásban tájékoztatja a gazdálkodó szervezet vezető tisztségviselőit és felügyelőbizottsága tagjait. A (3) bekezdés c) pontjában meghatározott döntéshozatali jog egyebekben nem érinti a gazdálkodó szervezet legfőbb döntéshozó szervének a hatásköreit.
-
-(5) A Magyar Állam a gazdálkodó szervezet vagy tulajdonosa ténylegesen felmerült kárával megegyező kártalanítással tartozik a (2) bekezdésben meghatározott személy által a feladatkörébe tartozó döntéssel okozott kárért arra az időtartamra, amikor olyan rendelet volt hatályban, amit az Alkotmánybíróság utóbb megsemmisített.
-
-#### 24. Veszélyhelyzetben a Kormány rendeleti felhatalmazása alapján alkalmazható rendkívüli intézkedések
-
-49. § (1) Veszélyhelyzetben a közúti, vasúti, vízi és légi járművek forgalma a nap meghatározott tartamára, vagy meghatározott területére (útvonalra) korlátozható, illetve az ország egész területén vagy meghatározott részén ideiglenesen megtiltható. A légijárművek forgalmának korlátozása vagy megtiltása során a légiközlekedésről szóló törvény és a magyar légtér igénybevételéről szóló jogszabály rendelkezéseire figyelemmel kell eljárni.
-
-(2) Veszélyhelyzetben korlátozni lehet a lakosság utcán vagy más nyilvános helyen való tartózkodását. A korlátozást és időtartamát a rádió, a televízió, a sajtó és hirdetmény útján, valamint a helyben szokásos módon a lakosság tudomására kell hozni.
-
-(3) Veszélyhelyzetben elrendelhető, hogy közterületen rendezvény, nyilvános gyűlés megtartását a rendőrség a védelmi érdekek sérelme esetén megtiltsa.
-
-(4) Veszélyhelyzetben elrendelhető, hogy az ország meghatározott területét a lakosságnak a szükséges időtartamra el kell hagynia (a továbbiakban: kitelepítés), egyben kijelölhető a lakosság új tartózkodási helye. A lakosság elszállításáról a polgármester a hivatásos katasztrófavédelmi szerv közreműködésével gondoskodik.
-
-(5) A kitelepítés és kimenekítés során a kötelezés ellenére lakóhelyén maradó személlyel szemben az intézkedés foganatosítására jogosult rendvédelmi szerv jár el.
-
-(6) Veszélyhelyzetben elrendelhető:
-
-- a) az ország meghatározott területére történő belépés, az ott-tartózkodás korlátozása, illetve engedélyhez kötése,
-- b) hogy az ország meghatározott területére utazni, azon átutazni vagy onnan kiutazni csak engedéllyel szabad,
-- c) hogy az ország meghatározott területéről történő kilépés csak a mentesítést követően engedélyezhető.
-
-(7) Veszélyhelyzetben elrendelhető a vasúti, közúti, vízi, légi szállítások biztosítása érdekében a javítókapacitások, valamint az állomások, kikötők, repülőterek, raktárak igénybevétele vagy használatának korlátozása.
-
-(8) Veszélyhelyzetben a védekezési munkák helyszínén megtiltható a szeszes italok fogyasztása, árusítása, tárolása.
-
-50. § (1) A veszélyeztetett területekről a nemzetgazdasági és más szempontból fontos vagyontárgyak elszállítását biztonságba helyezésük érdekében el lehet rendelni (kiürítés).
-
-(2) A vagyontárgyak elszállítását:
-
-- a) katasztrófavédelmi indokból a katasztrófák elleni védekezésért felelős miniszter,
-- b) a központi irányító szervekkel való összeköttetés megszakadása esetén a fővárosi, megyei védelmi bizottság elnökének jogköreit gyakorló személy
-
-rendelheti el.
-
-(3) A befogadási területeket és az elszállítási irányokat (útvonalakat) a (2) bekezdésben megjelölt elrendelő határozza meg.
-
-51. § (1) Veszélyhelyzetben elrendelhető az ideiglenes polgári védelmi szolgálat ellátása.
-
-(2) Veszélyhelyzetben élet- és vagyonmentés érdekében elrendelhető a mentésre alkalmas bármely jármű, műszaki eszköz és földmunkagép igénybevétele.
-
-(3) A veszélyhelyzet elhárításához szükséges mértékben – kártalanítás mellett – elrendelhető az ingatlan igénybevétele, illetve az építmény részleges vagy teljes bontása, amennyiben az a veszély elhárítása vagy további veszély megelőzése érdekében feltétlenül szükséges.
-
-(4) Veszélyhelyzetben egyedi határozatban határozhatja meg
-
-- a) a köznevelésért felelős miniszter a köznevelési intézmények működésével, működtetésével, a nevelési év, tanítási év megszervezésével,
-- b) a szakképzésért felelős miniszter a szakképző intézmények működésével, működtetésével, a tanítási év megszervezésével
-
-kapcsolatos feladatokat. A köznevelésért felelős miniszter, illetve a szakképzésért felelős miniszter elrendelheti a határozat azonnali végrehajtását. A határozat közlése távközlési eszköz útján is történhet.
-
-#### 24/A. A Kormány rendkívüli intézkedései tömeges megbetegedést okozó humánjárvánnyal összefüggő veszélyhelyzetben, továbbá a szomszédos országban fennálló fegyveres konfliktus, háborús helyzet vagy humanitárius katasztrófa magyarországi következményeinek elhárítása érdekében kihirdetett veszélyhelyzetben
-
-51/A. § (1) A Kormány az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó humánjárvány megelőzése, illetve következményeinek elhárítása, a magyar állampolgárok egészségének és életének megóvása érdekében kihirdetett veszélyhelyzetben – a 21–24. alcímben meghatározott rendkívüli intézkedéseken és szabályokon túl – az állampolgárok élet-, egészség-, személyi-, vagyon- és jogbiztonságának, valamint a nemzetgazdaság stabilitásának garantálása érdekében rendeletével egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, és egyéb rendkívüli intézkedéseket hozhat.
-
-(2) A Kormány az (1) bekezdés szerinti jogkörét – a szükséges mértékben, az elérni kívánt céllal arányosan – a humánjárvány megelőzése, kezelése, felszámolása, továbbá káros hatásainak megelőzése, illetve elhárítása céljából gyakorolhatja.
-
-(3) A Kormány szomszédos országban fennálló fegyveres konfliktus, háborús helyzet vagy humanitárius katasztrófa magyarországi következményeinek elhárítása érdekében kihirdetett veszélyhelyzetben – a 21–24. alcímben meghatározott rendkívüli intézkedéseken és szabályokon túl – az élet-, egészség-, személyi-, vagyon- és jogbiztonság, valamint a nemzetgazdaság stabilitásának garantálása érdekében rendeletével egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, és egyéb rendkívüli intézkedéseket hozhat.
-
-(4) A Kormány a (3) bekezdés szerinti jogkörét – a szükséges mértékben, az elérni kívánt céllal arányosan – a szomszédos országban fennálló fegyveres konfliktus, háborús helyzet vagy humanitárius katasztrófa magyarországi következményeinek megelőzése, kezelése, felszámolása céljából gyakorolhatja.
+#### 51/A. §
 
 ### VI. Fejezet — A POLGÁRI VÉDELMI SZERVEZETEK MŰKÖDÉSE, A GAZDASÁGI ÉS ANYAGI SZOLGÁLTATÁS
 
@@ -774,98 +600,31 @@ kapcsolatos feladatokat. A köznevelésért felelős miniszter, illetve a szakk�
 - k) közreműködés a kulturális örökség védett elemeinek védelmében, a vizek kártételei elleni védekezés külön jogszabályban meghatározott feladatainak ellátásában, a menedékjogról szóló törvény hatálya alá tartozó személy elhelyezésében és ellátásában, továbbá a tűzoltásban, és a nemzetközi szerződésekből adódó tájékoztatás és kölcsönös segítségnyújtás feladatainak ellátásában,
 - l) közszolgáltatás ellátásának kiesésekor az emberi életben, egészségben és az anyagi javakban esett kár megelőzése céljából a közszolgáltatás ideiglenes ellátásáról történő gondoskodás.
 
-#### 26. A polgári védelmi kötelezettség
+52/A. § A polgári védelmi szolgálatot teljesítő személy ruházatát, továbbá a polgári védelmi célra használt járművet és egyéb technikai eszközt, valamint létesítményt a polgári védelem nemzetközi megkülönböztető jelével kell ellátni.
 
-53. § (1) A polgári védelmi kötelezettség személyes kötelezettség az emberi élet és a létfenntartáshoz szükséges anyagi javak védelme érdekében.
+#### 26.
 
-(2) A polgári védelmi kötelezettséggel kapcsolatos ügyekben első fokon a polgármester jár el.
+#### 53. §
 
-54. § (1) Mentes a polgári védelmi kötelezettség alól:
+#### 54. §
 
-- a) a 18 éven aluli és a mindenkori öregségi nyugdíjkorhatárt elért személy,
-- b) a terhes nő, terhességének megállapításától kezdve,
-- c) a gyermekét saját háztartásában nevelő anya, a gyermek 6 éves koráig,
-- d) a gyermekét saját háztartásában egyedül nevelő szülő, a gyermek 14 éves koráig,
-- e) a szülő, ha 3 vagy ennél több 14 éven aluli gyermekét gondozza,
-- f) aki a vele közös háztartásban élő, állandó ápolásra vagy gondozásra szoruló egyenes ági rokonát vagy házastársát egyedül látja el,
-- g) aki munkaképességét legalább 67%-ban elvesztette vagy aki egészségi állapota folytán a kötelezettség teljesítésére alkalmatlan.
+#### 55. §
 
-(2) A polgári védelmi kötelezettségét munkaköre ellátásával, közmegbízatása gyakorlásával teljesíti:
+#### 56. §
 
-- a) az országgyűlési képviselő és a nemzetiségi szószóló,
-- b) az európai parlamenti képviselő,
-- c) az szakmai felsővezető, a vezetői megbízású, valamint feladatköre szerint katasztrófavédelmi feladatot ellátó kormánytisztviselő, köztisztviselő és közalkalmazott,
-- d) a jegyző,
-- e) a bíró, az ügyész, a közjegyző, a bírósági végrehajtó,
-- f) a Magyar Honvédség tényleges és tartalékos állományú, a rendvédelmi szervek hivatásos állományú tagja, e szervek alkalmazottja, a Nemzeti Adó- és Vámhivatal foglalkoztatottja,
-- g) az egészségügyi államigazgatási szerv kormánytisztviselője,
-- h) a kórházi, a járóbeteg- és alapellátást végző orvos és szakképzett szakdolgozó,
-- i) az állami mentőszolgálat dolgozója, betegszállító szervezet dolgozója,
-- j) a készenléti szolgálatot ellátó önkéntes és létesítményi tűzoltó, az önkéntes tűzoltó egyesület szaktevékenységet végző tagja,
-- k) a közfeladatot ellátó ágazati védekezési szervezet tagja,
-- l) a közüzemi feladatot ellátó létesítmények üzemeltető személyzete,
-- m) a szakirányú felsőfokú végzettséggel rendelkező, hivatását gyakorló pap, lelkész, rabbi.
+#### 57. §
 
-(3) A polgármester – kérelmére – a polgári védelmi kötelezettség alól legfeljebb egy év időtartamra mentesítheti azt a kötelezettet, aki
+#### 58. §
 
-- a) egyéni helyzete,
-- b) munkahelyi, családi vagy társadalmi kötelezettsége
+#### 27.
 
-miatt nem, vagy a polgári védelmi szolgálat teljesítésével elérhető előnyhöz képest aránytalanul nagy személyes áldozatok mellett tudná csak teljesíteni a polgári védelmi szolgálatot.
-
-(4) Az (1)–(2) bekezdés hatálya alá tartozó, valamint a (3) bekezdés alapján mentesített személyek polgári védelmi szolgálat ellátására és megjelenésre nem kötelezhetőek, polgári védelmi szervezetbe nem oszthatóak be, beosztásukat meg kell szüntetni.
-
-(5) A (2) bekezdés f) pontja szerinti személyek adatszolgáltatási kötelezettsége csak a (2) bekezdés f) pontja hatálya alá tartozás tekintetében áll fenn. A polgári védelmi szolgálat (2) bekezdés f) pontja alapján történő ellátása tekintetében a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, a rendvédelmi szerv, a Nemzeti Adó- és Vámhivatal nyilatkozata irányadó.
-
-55. § (1) A polgári védelmi kötelezettség az adatszolgáltatási, a bejelentési, a megjelenési kötelezettséget és a polgári védelmi szolgálatot foglalja magában.
-
-(2) A polgári védelmi megjelenési és szolgálatadási kötelezettség teljesítését, valamint a település azonnali beavatkozást igénylő mentési munkálataira történő beosztást a kötelezett lakóhelye szerint illetékes polgármester határozatban rendeli el. A határozatot a köziratok kezelésének szabályai szerint tárolja a kötelezettség megszűnését követő öt évig.
-
-(3)
-
-(4) A polgári védelmi kötelezettségek teljesítése csak akkor tagadható meg, ha a kötelezettség teljesítésével a kötelezett önmaga vagy mások életét, testi épségét vagy egészségét közvetlen és súlyos veszélynek tenné ki.
-
-56. § (1) A polgári védelmi szervezet tagja határozattal kiképzésre és gyakorlatra osztható be (felhívás), melynek időtartama évente nem haladhatja meg kiképzés céljából a 40, gyakorlat esetében a 72 órát. A megjelenésre kötelezett a felhívásban megjelölt helyen és időpontban köteles megjelenni.
-
-(2) A felhívást a kiképzés vagy a gyakorlat időpontját megelőzően legalább nyolc nappal kell kézbesíteni.
-
-(3) A kiképzést lehetőleg a kötelezett lakóhelyén, munkahelyén vagy katasztrófavédelmi oktatási intézményben kell megtartani.
-
-(4) A polgármester a kiképzésen és gyakorlaton való részvétel alól indokolt esetben kérelemre halasztást, illetve felmentést adhat.
-
-(5) A felmentés alapjául szolgáló okot a kiképzés vagy a gyakorlat időpontját megelőző öt napon belül kell bejelenteni és igazolni.
-
-57. § (1) A polgári védelmi szervezet tagját polgári védelmi szolgálatra lehet kötelezni.
-
-(2) A kötelezett a polgári védelmi szolgálat folyamatos ellátására időbeli korlátozás nélkül vehető igénybe rendkívüli állapot és szükségállapot idején a külön törvényben meghatározottak szerint.
-
-(3) Katasztrófa megelőzése érdekében szükséges beavatkozás céljából, valamint veszélyhelyzetben a polgári védelmi szervezetbe beosztott kötelezett részére ideiglenes polgári védelmi szolgálat rendelhető el, amelynek időtartama alkalmanként a 15 naptári napot nem haladhatja meg.
-
-58. § (1) Aki a polgári védelmi szolgálat ellátására felhívást kapott, köteles az abban megjelölt helyen és időpontban megjelenni, a rábízott polgári védelmi feladatot ellátni, és a kapott utasítást végrehajtani.
-
-(2) A polgármester a szolgálatadási kötelezettség alól indokolt esetben kérelemre felmentést adhat. A felmentés alapjául szolgáló okot a szolgálat elrendelt időpontját megelőző három napon belül kell bejelenteni és igazolni.
-
-(3) Aki polgári védelmi kötelezettség alatt áll, köteles a polgármester határozata alapján részt venni annak a településnek az azonnali beavatkozást igénylő mentési munkálataiban, amelynek területén tartózkodik.
-
-(4) A mentési munkák alól mentesíteni kell, aki igazolja, hogy hivatásbeli vagy szolgálati feladatának ellátása, vagy honvédelmi kötelezettségének teljesítése céljából a helyszínt haladéktalanul el kell hagynia, illetve a munkavégzésre egészségi állapota miatt alkalmatlan.
-
-#### 27. A polgári védelmi szolgálat elrendelése
-
-59. § (1) Az ideiglenes polgári védelmi szolgálat azonnali teljesítésének elrendelésére a Kormány, a katasztrófák elleni védekezésért felelős miniszter, a megyei védelmi bizottság elnöke, a főpolgármester, valamint a polgármester jogosult.
-
-(2) A polgári védelmi szervezetbe beosztott munkavállalót a polgári védelmi feladatok ellátására történő kiképzés, gyakorlat és ideiglenes polgári védelmi szolgálat idejére a munkavégzés alól fel kell menteni, erre az időszakra munkajogi védelemben részesül. A felmentés időtartamára távolléti díj jár.
-
-(3) Ha a megjelenési vagy az ideiglenes szolgálatadási kötelezettségét teljesítő állampolgár nem áll munkaviszonyban, a kötelezettség teljesítésének idejére a kötelező legkisebb munkabér egy órára járó mértékének alapulvételével megállapított térítésre jogosult, amelyet az elrendelő köteles részére a munkabér folyósítására vonatkozó szabályoknak megfelelően megfizetni.
-
-(4) A távolléti díj és az ellátás igazolt költségei az elrendelőt terhelik, aki azt a munkáltató részére téríti meg.
-
-(5) A polgári védelmi szolgálatot teljesítő személy ruházatát, továbbá a polgári védelmi célra használt járművet és egyéb technikai eszközt, valamint létesítményt a polgári védelem nemzetközi megkülönböztető jelével kell ellátni.
+#### 59. §
 
 #### 28. A köteles polgári védelmi szervezetek
 
 60. § (1) A polgári védelmi szervezetek a központi, területi, települési és munkahelyi polgári védelmi szervezetek, melyek állományát a polgári védelmi feladatok ellátása érdekében az önként jelentkezett személyekkel a 65. § (2) bekezdése szerint lehet kiegészíteni.
 
-(2) A polgári védelmi szervezetbe a polgári védelmi kötelezettség alatt álló személyt a lakóhelye szerint illetékes polgármester osztja be.
+(2)
 
 (3) A területi, valamint települési rendeltetésű polgári védelmi szervezetbe csak a település, fővárosban a fővárosi kerület területén lakó vagy ezek területén munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyt lehet beosztani.
 
@@ -875,27 +634,11 @@ miatt nem, vagy a polgári védelmi szolgálat teljesítésével elérhető elő
 
 (6) A polgári védelmi szervezetek egymásnak mellérendeltek, tevékenységüket a védekezés irányításáért felelős személy irányítja.
 
-(7) A polgári védelmi szervezetbe beosztott személy esküt tesz. Az eskü szövege a következő:
+(7)
 
-„Én …………… esküszöm, hogy Magyarország természeti és civilizációs katasztrófák elleni védekezésében legjobb tudásom szerint részt veszek. Magyarország polgárai és a létfenntartáshoz szükséges anyagi javak védelme érdekében szolgálati kötelezettségeimet teljesítem. Az emberi életet és méltóságot mindenkor tiszteletben tartom.
+(8)
 
-Esküszöm, hogy minden erőmmel, törekvésemmel, tudásommal Magyarország javát szolgálom.”
-
-(Az esküt tevő egyéni meggyőződése szerint)
-
-„Isten engem úgy segéljen!”
-
-(8) A polgári védelmi beosztott személy jogosult:
-
-- a) a szolgálat teljesítéséhez szükséges ellátásra,
-- b) norma szerinti ruházattal és felszereléssel való ellátásra,
-- c) egyenruha viselésére,
-- d) feladatának ellátásához szükséges felkészítésre,
-- e) feladatának ellátásához szükséges védőfelszereléssel, munkaeszközökkel történő ellátásra,
-- f) a munka-, tűz- és balesetvédelmi szabályok megismerésére,
-- g) távolléti díjra, utazási költségtérítésre, az ellátása igazolt költségeinek megtérítésére.
-
-(9) A polgári védelmi szervezetbe beosztott mentesíthető részben vagy teljesen a helyi adó megfizetése alól.
+(9)
 
 #### 29. A központi polgári védelmi szervezet
 
@@ -945,79 +688,19 @@ Esküszöm, hogy minden erőmmel, törekvésemmel, tudásommal Magyarország jav
 
 (4) Az elöljáró a hatáskörén belül önállóan intézkedik, megköveteli beosztottaitól, hogy pontosan és időben teljesítsék a rájuk bízott feladatokat, szervezi, irányítja és ellenőrzi beosztottai munkáját.
 
-(5) Az elöljáró utasítása nem irányulhat a beosztottak indokolatlan foglalkoztatására, emberi méltóságának megsértésére, életének és testi épségének közvetlen veszélyeztetésére.
+(5)
 
 (6) A polgári védelmi szervezetbe beosztott köteles begyakorolni és alkalmazása idején az elöljáró utasításai szerint végrehajtani a számára meghatározott feladatokat.
 
-#### 35. A gazdasági és anyagi szolgáltatási kötelezettség
+#### 35.
 
-67. § (1) A katasztrófavédelmi feladatok végrehajtása érdekében a gazdasági és anyagi szolgáltatási kötelezettség kiterjed
+#### 67. §
 
-- a) meghatározott gazdasági és anyagi szolgáltatás teljesítésére vagy a szolgáltatás igénybevételének tűrésére,
-- b) valamely tevékenységtől való tartózkodásra,
-- c) az igénybevételhez szükséges előkészületi tevékenységre,
-- d) az igénybevétel tervezéséhez szükséges adatok közlésére
+#### 68. §
 
-[a továbbiakban az a)–d) pontban foglaltak együtt: szolgáltatás].
+#### 69. §
 
-(2) A szolgáltatás igénybevételét elrendelheti:
-
-- a) a megyei, fővárosi védelmi bizottság elnöke, valamint a polgármester,
-- b) több megyét érintően, illetve az ország egész területére a katasztrófák elleni védekezésért felelős miniszter.
-
-(3) Az (1) bekezdésben meghatározott feladatok teljesítése érdekében elrendelt adatszolgáltatás során nem kérhető a szolgáltatásra kötelezettől az üzletvitelével kapcsolatos olyan adat, amely nem függ össze a szolgáltatás teljesítésével. Így nem kérhetők:
-
-- a) a vállalkozás gazdaságossági mutatóira,
-- b) a hitel- és tőkekapcsolatokra,
-- c) az adózással összefüggő pénzügyi mutatókra,
-- d) a jogvédelem alá eső szellemi alkotásokra,
-- e) a szerződéssel lekötött kapacitásokra, továbbá
-- f) a kártalanítással össze nem függő bér- és társadalombiztosításra vonatkozó adatok.
-
-(4) A szolgáltatás igénybevételének elrendelésekor figyelembe kell venni a közigazgatási, a közszolgáltatási, valamint a közellátási szempontokat, továbbá a szolgáltatásra kötelezett méltányos érdekeit.
-
-(5) A gazdasági és anyagi szolgáltatási kötelezettség alóli mentességek köre a honvédelemről és a Magyar Honvédségről szóló törvényben meghatározottakkal azonos.
-
-68. § (1) Ha a katasztrófavédelem érdeke más módon nem vagy nem megfelelő időben, illetve csak aránytalanul nagy ráfordítással elégíthető ki, szolgáltatás igénybevételével kell biztosítani a polgári védelmi feladatok ellátását, különösen veszélyhelyzetben a védekezéshez szükséges feltételek megteremtését.
-
-(2) Az (1) bekezdésben meghatározott feladatok teljesítése érdekében, már a felkészülés időszakában, e törvény alapján elrendelhető a szolgáltatásra kötelezett részére:
-
-- a) az igénybevételre kijelölt ingatlanok, továbbá ingó dolgok és ezek adataiban történt változások bejelentése, valamint igénybevételre alkalmas állapotban tartása,
-- b) a lakosság alapellátásához szükséges tartalékok és készletek képzése,
-- c) a szolgáltatás teljesítéséhez szükséges előkészületi tevékenység, ideértve a tervezési feladatokat is,
-- d) a bejelentések valódiságának, a szolgáltatások teljesíthetőségének helyszíni ellenőrzése, az ellenőrzés során feltárt hiányosságok megszüntetése,
-- e) a gyakorlatokhoz szükséges ingatlanok és ingó dolgok ideiglenes igénybevétele.
-
-(3) A szolgáltatás igénybevételének tervezése érdekében beszerzett adatokat polgári védelmi rendeltetésüktől eltérő célra nem lehet felhasználni.
-
-(4) A szolgáltatás igénybevételének elrendelése szempontjából a rendkívüli állapot, szükségállapot, megelőző védelmi helyzet, illetve váratlan támadás során végrehajtandó honvédelmi feladatok ellátása érdekében történő igénybevétel megelőzi a katasztrófavédelmi feladatok ellátására történő igénybevételt.
-
-69. § (1) A szolgáltatás teljesítése miatt felmerült vagyoni hátrányért kártalanítás jár.
-
-(2) A kártalanítást a szolgáltatást teljesítő kérelmére kell megállapítani. A kérelmet a teljesítés helye szerint illetékes polgármesterhez kell benyújtani.
-
-(3) A kártalanítási igényeket a teljesítés helye szerint illetékes polgármester a szolgáltatás elrendelésétől számított hatvan napon belül összesíti és megküldi a teljesítés helye szerint illetékes hivatásos katasztrófavédelmi szerv területi szerve részére.
-
-(4) A kártalanítási eljárás lefolytatására és a kártalanítás összegének megállapítására első fokon a hivatásos katasztrófavédelmi szerv területi szerve jogosult, határozata ellen fellebbezésnek van helye, amelyet a hivatásos katasztrófavédelmi szerv központi szerve bírál el. A fellebbezésnek a polgári védelmi szolgáltatás teljesítésére nincs halasztó hatálya.
-
-(5) Az ügyintézési határidő a kártalanítási igénynek a hivatásos katasztrófavédelmi szerv területi szervéhez történő megérkezése napján kezdődik.
-
-70. § (1) A kártalanítási kötelezettség a szolgáltatást elrendelőt terheli.
-
-(2) A kártalanítás összegének megállapításánál figyelembe kell venni:
-
-- a) a gazdasági forgalomban lévő hasonló szolgáltatásért szokásos díjat,
-- b) az igénybevétel tárgyának használatra történő átengedéséért a használat során bekövetkezett értékcsökkenés mértékét,
-- c) ingó és ingatlan dolog állagában okozott kárnál a dolog szakszerű helyreállításának, kijavításának költségét,
-- d) az igénybevétel tárgyának elvesztése vagy megsemmisülése esetén az átvétel időpontjában meglévő forgalmi értékét,
-- e) a szolgáltatás teljesítése miatt elmaradt vagyoni előnyt, csökkentve az a) pontban meghatározott díj összegével,
-- f) a biztosítás alapján megtérülő összeget.
-
-(3) A kártalanítást pénzben kell megállapítani és megtéríteni.
-
-(4) A kártalanítás megfizetésére kötelezett a véglegessé vált döntés vagy jogerős bírósági ítélet kézhezvételétől számított 15 napon belül köteles a megállapított összeget megfizetni.
-
-(5) Nem jár kártalanítás, ha az igénybevétel nem akadályozta az igénybevétel tárgyának rendeltetésszerű használatát.
+#### 70. §
 
 #### 36. Adatszolgáltatás, adatkezelés
 
@@ -1028,14 +711,14 @@ Esküszöm, hogy minden erőmmel, törekvésemmel, tudásommal Magyarország jav
 
 kezelheti.
 
-(2) A gazdasági és anyagi szolgáltatási kötelezettség teljesítése céljából a megyei, fővárosi védelmi bizottság elnöke, a polgármester, a hivatásos katasztrófavédelmi szerv a 67. § (3) bekezdésében meghatározott adatok kivételével egyéb, a gazdasági és anyagi szolgáltatásra kötelezett technikai eszközeiről azonosító és műszaki adatokat, illetve a szolgáltatásra kötelezett megnevezésére, székhelyének, telephelyének címére vonatkozó adatokat kezeli, valamint annak vezetői és kapcsolattartói családi és utónevét, telefonszámát, elektronikus levélcímét, munkahelyére, szervezeti beosztására vonatkozó adatokat kezeli.
+(2)
 
-(3) Az (1) és (2) bekezdésben meghatározott adatkezelő az adatokat a következő forrásból gyűjtheti:
+(3) Az (1) bekezdésben meghatározott adatkezelő az adatokat a következő forrásból gyűjtheti:
 
 - a) a munkáltató, egyéni vállalkozó által teljesített adatszolgáltatás,
 - b) a hadkiegészítő parancsnokság nyilvántartása,
 - c) a személyi adat- és lakcímnyilvántartás,
-- d) a központi közúti közlekedési nyilvántartó szerv által vezetett járműnyilvántartás.
+- d)
 
 (4) A (3) bekezdésben meghatározott adatszolgáltató az adatszolgáltatást 15 napon belül térítésmentesen teljesíti.
 
@@ -1048,13 +731,13 @@ kezelheti.
 - a) a szakképzettség,
 - b) a foglalkozás,
 - c) a munkahely megnevezése, címe,
-- d) az 54. § (1) bekezdésében meghatározott mentességi ok és az 54. § (2) bekezdésében meghatározott egyéb ok.
+- d) a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott polgári védelmi kötelezettség alóli mentességi ok, illetve azon tény, hogy polgári védelmi kötelezettségét munkaköre ellátásával, közmegbízatásával teljesíti.
 
-(7a) A katasztrófák elleni védekezési feladatok végrehajtása céljából a hivatásos katasztrófavédelmi szerv a megyei, fővárosi védelmi bizottságok tagjainak, a helyi védelmi bizottságok tagjainak, a polgármestereknek, a kormányzati koordinációs szervbe delegált szakértőknek, a közbiztonsági referenseknek, az eseménykezelésben érintett gazdálkodó szervezetek, intézmények vezetőinek, kapcsolattartóinak és szakértőinek családi és utónevét, telefonszámát, e-mail elérhetőségét, munkahelyére, szervezeti beosztására vonatkozó adatait kezeli.
+(7a) A katasztrófák elleni védekezési feladatok végrehajtása céljából a hivatásos katasztrófavédelmi szerv a területi védelmi bizottságok tagjainak, a helyi védelmi bizottságok tagjainak, a polgármestereknek, a kormányzati koordinációs szervbe delegált szakértőknek, a védekezéssel összefüggő feladatokban közreműködő önkormányzati referenseknek, az eseménykezelésben érintett gazdálkodó szervezetek, intézmények vezetőinek, kapcsolattartóinak és szakértőinek családi és utónevét, telefonszámát, e-mail elérhetőségét, munkahelyére, szervezeti beosztására vonatkozó adatait kezeli.
 
 (7b) A (7a) bekezdésben meghatározott adatokat a hivatásos katasztrófavédelmi szerv az érintettől vagy annak munkáltatójától gyűjti.
 
-(8) A polgári védelmi feladatok tervezése és végrehajtása céljából a megyei, fővárosi védelmi bizottság elnöke és a hivatásos katasztrófavédelmi szerv a katasztrófák elleni védekezésben közreműködő szervtől, államigazgatási szervtől személyes adatnak nem minősülő adatokat kérhet.
+(8) A polgári védelmi feladatok tervezése és végrehajtása céljából a területi védelmi bizottság elnöke és a hivatásos katasztrófavédelmi szerv a katasztrófák elleni védekezésben közreműködő szervtől, államigazgatási szervtől személyes adatnak nem minősülő adatokat kérhet.
 
 (9) A (8) bekezdésben meghatározott adatok szolgáltatása térítésmentesen, az adatkérésben meghatározott határidőn belül történik.
 
@@ -1086,7 +769,7 @@ kezelheti.
 
 (9) A hivatásos katasztrófavédelmi szerv a nyilvántartásban kezelt adatokban bekövetkezett változások átvezetése céljából a személyi adat- és lakcímnyilvántartásból adatot igényelhet.
 
-(10) Katasztrófaveszély vagy veszélyhelyzet esetén a hivatásos katasztrófavédelmi szervek az intézkedések elősegítése céljából, legfeljebb azok időtartamának fennállását követő három hónapig a település azonnali védekezési munkálataiba bevont, továbbá a katasztrófavédelmi intézkedésekkel érintett, a polgári védelmi szervezetbe nem beosztott személyek alábbi személyes adatait tarthatják nyilván:
+(10) Kiterjedt káresemény vagy veszélyhelyzet esetén a hivatásos katasztrófavédelmi szervek az intézkedések elősegítése céljából, legfeljebb azok időtartamának fennállását követő három hónapig a település azonnali védekezési munkálataiba bevont, továbbá a katasztrófavédelmi intézkedésekkel érintett, a polgári védelmi szervezetbe nem beosztott személyek alábbi személyes adatait tarthatják nyilván:
 
 - a) természetes személyazonosító adatok,
 - b) lakóhely,
@@ -1224,7 +907,7 @@ bárki számára nyilvánvalóan észlelhető módon képfelvevőt helyezhet el,
 - g) a biztonsági jelentés és a biztonsági elemzés célját, tartalmi és formai követelményeit, a biztonsági jelentésre, valamint a biztonsági elemzésre kötelezettek körét,
 - h) a veszélyes anyagokkal foglalkozó üzemeket érintő lakossági tájékoztatással és a nyilvánosság biztosításával kapcsolatos követelményeket,
 - i) a védekezésben részt vevők költségei megtérítésének szabályait,
-- j)
+- j) a katasztrófákkal szembeni ellenálló képesség fejlesztésével, valamint a katasztrófák miatti veszteségekre vonatkozó adatok gyűjtésével kapcsolatos feladatokat,
 - k) a küszöbérték alatti üzemek körét, katasztrófavédelmi hatósági felügyeleti rendjét és az üzemeltetői kötelezettségeket,
 - l) a IV. Fejezet hatálya alá tartozó üzemekkel és azok veszélyes tevékenységével összefüggésben folytatott hatósági eljárások kiegészítő szabályait, az alkalmazható bírságok rendszerét és részletes szabályait,
 - m) a katasztrófavédelmi szabályzat részletes szabályait, ezen belül
@@ -1232,15 +915,15 @@ bárki számára nyilvánvalóan észlelhető módon képfelvevőt helyezhet el,
   - mb) a veszélyelhárítási tervezés tartalmi és formai követelményeit,
   - mc) az egyéni védőeszköz-ellátás, a lakosság riasztása, a kitelepítés és befogadás általános szabályait,
   - md) a hazai katasztrófák és veszélyhelyzetek hatásai elleni védekezésben, valamint a nemzetközi segítségnyújtásban közreműködő önkéntes mentőszervezetek tevékenységének, védekezésbe történő bevonásának szabályait, valamint támogatását és az alkalmazandó költségtérítést, a társadalmi és karitatív szervezetek védekezésben való közreműködésének szabályait, valamint az önként jelentkező szervezetek és személyek védekezésben való közreműködésének szabályait,
-  - me) a védelmi bizottság elnökének, a megyei közgyűlés elnökének, a főpolgármesternek és a polgármestereknek a katasztrófák elleni védekezéssel összefüggő részletes feladatait,
-  - mf) a közbiztonsági referensek tevékenységére vonatkozó szabályokat,
-  - mg) a gazdasági-anyagi szolgáltatások teljesítése és a kártalanítással összefüggő eljárás részletes szabályait,
+  - me)
+  - mf)
+  - mg)
   - mh) a katasztrófa károsító hatása által érintett területre, valamint a helyreállításra és újjáépítésre vonatkozó szabályokat,
 - n) az autonóm államigazgatási szervek és az önálló szabályozó szervek kivételével a központi államigazgatási szervek katasztrófavédelmi feladatait,
 - o) a veszélyes anyagokkal foglalkozó üzemekre vonatkozó hatósági koordináció szabályait,
 - p) a katasztrófavédelmi feladatok ellátásához szükséges földmérési és térképészeti állami alapadatok, illetve termékek, továbbá az ingatlan-nyilvántartási adatok (jogok, tények) körét, valamint ezek szolgáltatásának részletes szabályait,
 - q) a veszélyes anyagok, veszélyes áruk telephelyi tárolásának katasztrófavédelmi szabályait,
-- r) a személyes polgári védelmi kötelezettség és a gazdasági-anyagi szolgáltatási kötelezettség teljesítésével kapcsolatos jogorvoslati eljárás kiegészítő szabályait.
+- r)
 - s) az IHR működésének részletes szabályait, az IHR üzemeltetőjét, valamint azokat az esetköröket, amelyekben a hivatásos katasztrófavédelmi szerv részére az egyes dokumentumokat az IHR igénybevételével kell megosztani.
 
 81. § Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben szabályozza:
@@ -1276,17 +959,15 @@ bárki számára nyilvánvalóan észlelhető módon képfelvevőt helyezhet el,
 
 #### 40. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-86. § (1) E törvény 52–66. §-ai, 71–72. §-ai és a 174. § (1) bekezdése az Alaptörvény XXXI. cikk (5) bekezdése alapján sarkalatosnak minősülnek.
+86. § (1) Az 52. §, a 60–66. §, a 71. §, a 72. § és a 174. § (1) bekezdése az Alaptörvény XXXI. cikk (5) bekezdése alapján sarkalatosnak minősül.
 
-(2) E törvény 67–70. §-ai, 71–72. §-ai az Alaptörvény XXXI. cikk (6) bekezdése alapján sarkalatosnak minősülnek.
-
-(3) E törvény 20–24/A. alcíme az Alaptörvény 53. és 54. cikke alapján sarkalatosnak minősül.
-
-(4) E törvény 90. §-a és 97. §-a az Alaptörvény 46. cikkére figyelemmel sarkalatosnak minősül.
+(2) A 71. § és a 72. § az Alaptörvény XXXI. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 #### 41. Az Európai Unió jogának való megfelelés
 
 87. § E törvény 3. §-ának 1–4., 11., 13., 23–24., 26–33. pontja, 4. § (3)–(3a) bekezdése, és IV. fejezete a veszélyes anyagokkal kapcsolatos súlyos balesetek veszélyének kezeléséről, valamint a 96/82/EK tanácsi irányelv módosításáról és későbbi hatályon kívül helyezéséről szóló, 2012. július 4-i 2012/18/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+87/A. § E törvény az uniós polgári védelmi mechanizmusról szóló, 2013. december 17-i 1313/2013/EU európai parlamenti és tanácsi határozat, valamint az uniós polgári védelmi mechanizmusról szóló 1313/2013/EU határozat módosításáról szóló, 2021. május 20-i (EU) 2021/836 európai parlamenti és tanácsi rendelet végrehajtását szolgálja.
 
 #### 42. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 

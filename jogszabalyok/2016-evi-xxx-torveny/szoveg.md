@@ -73,7 +73,7 @@ megismerése nem korlátozható.
 - 20. haditechnikai eszköz: speciálisan katonai célokra tervezett vagy átalakított, fegyverként, lőszerként vagy hadianyagként történő felhasználásra szánt eszköz,
 - 21. hamis adat: a valóságnak megfelelően ismert, de a valóságtól eltérően közölt adat,
 - 22. hamis nyilatkozat: olyan nyilatkozat, amely hamis adatot tartalmaz,
-- 23. honvédelmi érdek: a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § g) pontjában ekként meghatározott fogalom,
+- 23. honvédelmi érdek: a honvédelemről szóló törvényben ekként meghatározott fogalom,
 - 24. honvédelmi szabvány: valamely, a honvédelem területén rendszeres vagy folyamatos alkalmazásra szolgáló műszaki leírások kidolgozására szakosodott szabványügyi szervezet által elfogadott, nem kötelező érvényű műszaki leírás,
 - 25. interoperabilitás: együttalkalmazhatóság, amely a technikai rendszerek vagy egységek azon képessége, hogy más rendszereknek vagy egységeknek szolgáltatást nyújtsanak, illetve azoktól szolgáltatást fogadjanak,
 - 26. „írásbeli” vagy „írásban”: a beszerzési eljárás során tett nyilatkozatok, illetve eljárási cselekmények tekintetében bármely, szavakból vagy számjegyekből álló kifejezés, amely olvasható, reprodukálható, majd közölhető, ideértve az elektronikus úton továbbított és tárolt adatokat is,

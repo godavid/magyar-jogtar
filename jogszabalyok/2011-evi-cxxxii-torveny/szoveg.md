@@ -302,11 +302,11 @@ kezeli.
 
 30. § (1) A honvédtiszti alap- és mesterképzésben részt vevő hallgató köteles különösen
 
-- a) részt venni a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 36. § (1) bekezdés a)–f) pontja és (2) bekezdése szerinti feladatok ellátásában,
+- a) részt venni a honvédelemről és a Magyar Honvédségről szóló törvény szerinti honvédségi feladatok ellátásában,
 - b) a haza katonai védelmére felkészülni, részt venni az ehhez szükséges kiképzésben, illetve az Magyar Honvédség Ludovika Zászlóalj által szervezett tanórán kívüli katonai felkészítésen,
 - c) őr-, ügyeleti, készenléti és futárszolgálatot, katonai rendészeti szolgálatot, valamint díszelgési és kegyeleti feladatokat ellátni,
 - d) kijelölés alapján alegységparancsnoki feladatokat ellátni,
-- e) megelőző védelmi helyzetben és rendkívüli állapot idején egyéb katonai feladat ellátására,
+- e) összehangolt védelmi tevékenység elrendelésekor és különleges jogrendben egyéb katonai feladat ellátására,
 - f) közreműködni a honvédelmi nevelés programjának megvalósításában, valamint
 - g) a Magyar Honvédség parancsnoka által – a honvédelmi miniszter által kijelölt államtitkár egyetértésével – elrendelt oktatási és szocializációs feladatokat ellátni.
 

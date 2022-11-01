@@ -747,7 +747,7 @@ alapján utasította vissza, és a felperes a visszautasító határozat jogerő
 (6) Nincs helye azonnali jogvédelemnek, ha a közigazgatási cselekmény
 
 - a) jogerős bírósági határozat végrehajtását szolgálja,
-- b) a polgári védelmi szolgálat ellátásával vagy a honvédelmi kötelezettségek részét képező gazdasági és anyagi szolgáltatással kapcsolatos kötelezettséget állapít meg, vagy
+- b) a polgári védelmi szolgálat ellátásával vagy sarkalatos törvényben meghatározott gazdasági és anyagi szolgáltatással kapcsolatos kötelezettséget állapít meg, vagy
 - c) a honvédelmi és katonai célú építmények, ingatlanok működési és védőterületeik kijelölésére vonatkozik.
 
 #### 51. § [A bíróság eljárása és határozata]

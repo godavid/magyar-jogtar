@@ -76,7 +76,7 @@ a Földmegfigyelési Információs Rendszerről, valamint ezzel összefüggésbe
 
 (5) Ha az 5. § (2), (3) és (5) bekezdése szerinti adatok megismerése
 
-- a) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 38. § (7) bekezdésében, valamint 40. § (8) bekezdésében megjelölt adatok védelmével kapcsolatban,
+- a) a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 15. § (1) bekezdésében, valamint 15. § (3) bekezdésében megjelölt adatok védelmével kapcsolatban,
 - b) a bűncselekmények megakadályozását, felderítését, a közbiztonság, a közrend és az államhatár rendjének védelmét érintően, különösen a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 1., 1a., 6., 6a., 9., 10., 13. és 15. pontjában meghatározott feladatok végrehajtásával kapcsolatban, vagy
 - c) a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. §-ában nemzetbiztonsági érdekként meghatározott feladatok végrehajtásával kapcsolatban
 

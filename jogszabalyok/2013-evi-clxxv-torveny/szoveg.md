@@ -66,7 +66,7 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 - a) az érintett 3. § (1) bekezdés a) pontjában meghatározott adatait,
 - b) azt a tényt, hogy az érintett személy nem rendelkezik választójoggal, illetve a választójogból való kizártsága megszűnt, valamint a 3. § (1) bekezdés c) pontja szerinti adatot.
 
-6/B. § A Hivatal elnöke a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § f) pontja és 30. § (1) bekezdés d) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.
+6/B. § A Hivatal elnöke a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § f) pontjában és 20. § (1) bekezdés d) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.
 
 7. § (1) A gondnokoltak nyilvántartásában szereplő, a 3. § (1) bekezdés c)–e) pontja szerinti adatokról írásbeli kérelemre az kaphat felvilágosítást, aki
 

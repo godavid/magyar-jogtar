@@ -1084,7 +1084,7 @@ az (1) bekezdésben foglaltaktól eltérően a miniszter helyett az országos pa
 
 (2) A hivatásos állomány nyugdíj előtti rendelkezési állományba helyezett tagja
 
-- a) csak veszélyhelyzet, megelőző védelmi helyzet, rendkívüli állapot, váratlan támadás vagy szükségállapot idején hívható szolgálatba,
+- a) csak veszélyhelyzet, hadiállapot, szükségállapot vagy a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti összehangolt védelmi tevékenység (a továbbiakban: összehangolt védelmi tevékenység) idején hívható szolgálatba,
 - b) arra az időtartamra, amíg nem hívják szolgálatba, olyan mértékű illetményre jogosult, amelynek összege a személyi jövedelemadó és a járulékok levonása után megegyezik azzal az összeggel, amely a nyugdíj előtti rendelkezési állományba helyezéskor öregségi nyugdíjként megilletné, ha az öregségi nyugdíjkorhatárt betöltötte volna, vagy választása szerint a Knytv.-ben foglaltak szerint rögzített szolgálati nyugdíjnak megfelelő összeggel,
 - c) szolgálatba hívása időtartamára a ténylegesen betöltendő szolgálati beosztása szerinti, de legalább az utolsó havi illetményének megfelelő díjazásra jogosult,
 - d) szabadságra nem jogosult, kivéve, ha szolgálatba hívják, amelynek tartamára tekintettel az éves szabadság időarányosan illeti meg,
@@ -1373,7 +1373,7 @@ a részére megállapított baleseti ellátás, rehabilitációs ellátás és r
 
 #### 52. Lemondás
 
-84. § (1) A hivatásos állomány tagja a szolgálati viszonyáról – a szükségállapot vagy rendkívüli állapot idejét, valamint a váratlan támadás időszakát kivéve – lemondhat.
+84. § (1) A hivatásos állomány tagja a szolgálati viszonyáról – a szükségállapot vagy a hadiállapot idejét kivéve – lemondhat.
 
 (2) A lemondási idő két hónap, a felek ennél rövidebb időtartamban is megállapodhatnak. Határozott idejű szolgálati viszony esetén a lemondási idő nem terjedhet túl a kinevezésben meghatározott határozott időtartamon.
 
@@ -3552,7 +3552,7 @@ esetén a személyügyi alapnyilvántartásba betekintésre az (1) bekezdésben 
 
 kerülhet sor.
 
-275/B. § A személyügyi alapnyilvántartást kezelő a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § c) pontja és 30. § (1) bekezdés d) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.
+275/B. § A személyügyi alapnyilvántartást kezelő a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § c) pontjában és 20. § (1) bekezdés d) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a hadkötelesek nyilvántartásának vezetése céljából.
 
 276. § (1) A személyügyi alapnyilvántartás vezetéséhez az érintett személy köteles adatot szolgáltatni, és a változást nyolc napon belül bejelenteni az illetékes személyügyi szervnek.
 
@@ -5389,7 +5389,7 @@ kérelmére – függetlenül attól, hogy melyik rendvédelmi szervnél vagy a 
 
 (3) A szenior állomány tagját a szolgálati feladataira figyelemmel megállapított felszereléssel kell ellátni.
 
-(4) Kihirdetett veszélyhelyzet, megelőző védelmi helyzet, rendkívüli állapot vagy szükségállapot idején a (2) bekezdésben foglaltaktól eltérően a szenior állományban foglalkoztatott részére túlszolgálat elrendelhető, illetve éjszakai szolgálatteljesítés beleegyezése nélkül elrendelhető. Ebben az esetben a 139. §-t, a 140. §-t, a 350. § (3)–(4a) bekezdését, illetve a 161. § (1) bekezdés c) pontját alkalmazni kell.
+(4) Veszélyhelyzet, hadiállapot, szükségállapot vagy összehangolt védelmi tevékenység idején a (2) bekezdésben foglaltaktól eltérően a szenior állományban foglalkoztatott részére túlszolgálat elrendelhető, illetve éjszakai szolgálatteljesítés beleegyezése nélkül elrendelhető. Ebben az esetben a 139. §-t, a 140. §-t, a 350. § (3)–(4a) bekezdését, illetve a 161. § (1) bekezdés c) pontját alkalmazni kell.
 
 323. § A szenior állományban foglalkoztatott a szolgálati viszony létesítését követően, a tényleges szolgálat megkezdése előtt, a szolgálati feladatok jellegének megfelelő képzésben részesül.
 

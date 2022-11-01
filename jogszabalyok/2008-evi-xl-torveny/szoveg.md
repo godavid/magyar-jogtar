@@ -172,7 +172,7 @@ Az Országgyűlés a hatékonyan működő földgáz-versenypiac kialakítása, 
   - a) az egészségügyről szóló törvényben meghatározott egészségügyi szolgáltató,
   - b) a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott szociális intézmény,
   - c) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi szerv,
-  - d) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvényben meghatározott honvédségi szervezet,
+  - d) a honvédelemről szóló törvényben meghatározott honvédelmi szervezet,
   - e) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti intézmény
   - f) a nemzeti köznevelésről szóló törvény szerinti köznevelési intézmény, és a szakképzésről szóló törvény szerinti szakképző intézmény,
   - g) a nemzeti felsőoktatásról szóló törvény szerinti felsőoktatási intézmény,
@@ -2768,6 +2768,8 @@ bármilyen módon való elidegenítése vagy átruházása esetén.
 
 (6) A (3) bekezdés szerinti közigazgatási perben a határozat részbeni hatályon kívül helyezésének nincs helye.
 
+(7) Összehangolt védelmi tevékenység elrendelése esetén, ha a Hivatal a földgázelosztási díjat, az elosztási átszállítási díjat, a földgáztárolási díjat, a földgázelosztói vagy a földgáztárolói engedélyesek által külön díj ellenében végezhető szolgáltatások díjait vagy a földgázelosztói csatlakozási díjat megállapító határozatot nem adja ki a 104/B. § (4) bekezdésében, a 106. § (3) bekezdésében, valamint a 108. § (2) bekezdésében meghatározott határidőben, akkor a tárgyidőszakot közvetlenül megelőzően alkalmazott földgázelosztási díjat, elosztási átszállítási díjat, földgáztárolási díjat, földgázelosztói vagy földgáztárolói engedélyesek által külön díj ellenében végezhető szolgáltatások díjait vagy földgázelosztói csatlakozási díjat kell tovább alkalmazni addig, amíg az új eljárásban hozott, véglegessé vált határozat szerinti földgázelosztási díj, elosztási átszállítási díj, földgáztárolási díj, földgázelosztói vagy földgáztárolói engedélyesek által külön díj ellenében végezhető szolgáltatások díjai vagy a földgázelosztói csatlakozási díj nem alkalmazandó.
+
 ### Nemzetközi együttműködés és kapcsolat
 
 az Európai Unió szerveivel
@@ -2935,7 +2937,7 @@ tartalmazza.
 - 11. az e törvény szerint rendszeres adatszolgáltatásra kötelezettek által szolgáltatandó adatok körét, az adatszolgáltatás teljesítésének módjára és esedékességére vonatkozó követelményeket, az adatszolgáltatási kötelezettség teljesítése alól adható mentesség részletes szabályait, valamint a rendkívüli adatszolgáltatásra kötelezettek körét és a rendkívüli adatszolgáltatással kapcsolatos rendelkezéseket,
 - 12. az elosztóhálózat-használati szerződés és az egyetemes szolgáltatási szerződés felek általi megszegése megállapításának ellenőrzési, szakértői vizsgálati és dokumentálási szabályait, valamint a jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket.
 - 13. a válsághelyzeti monitoringrendszer működésének részletszabályait, a 2017/1938/EU európai parlamenti és tanácsi rendelet 6. cikk (1) bekezdés a)–c) pontjában meghatározott esetekhez tartozó felkészülés mértékét, valamint a védett felhasználók és a szolidaritási alapon védett felhasználók földgáz felhasználása meghatározásának módját.
-- 14.
+- 14. összehangolt védelmi tevékenység elrendelése esetén a földgázipari vállalkozás e törvényben, a végrehajtására kiadott kormányrendeletben és a Hivatal elnöke által kiadott rendeletben, határozatban foglalt, a földgázipari tevékenységből származó egyes kötelezettségei alóli mentesítése – ideértve a más földgázipari vállalkozás jogának korlátozását is – szabályait.
 - 15.
 
 ### XVIII. Fejezet — ÁTMENETI RENDELKEZÉSEK

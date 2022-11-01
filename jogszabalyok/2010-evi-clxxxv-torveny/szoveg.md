@@ -156,7 +156,7 @@ kerül sor. Ebben az esetben a minősítésre vonatkozó jelzést a műsorszám 
 
 ### Rendkívüli helyzetek kezelése a médiaszolgáltatásban
 
-15. § Rendkívüli állapot, szükségállapot, megelőző védelmi helyzet, terrorveszélyhelyzet, váratlan támadás, veszélyhelyzet esetén az Országgyűlés, a Honvédelmi Tanács, a köztársasági elnök és a Kormány, valamint törvényben meghatározott személyek és szervek – a helyzetnek megfelelő szükséges mértékben – kötelezhetik a médiaszolgáltatót a fennálló állapottal, helyzettel kapcsolatos közérdekű közleményeknek az általuk meghatározott formában és időben történő ingyenes közzétételére, illetőleg egyes közlemények, műsorszámok közzétételét megtilthatják. A közzététel feltételeinek biztosítása a Médiaszolgáltatás-támogató és Vagyonkezelő Alap (a továbbiakban: Alap) feladata. A közzétételkor a megrendelőt egyértelműen meg kell nevezni.
+15. § Különleges jogrendben, valamint a honvédelemről szóló törvény szerinti váratlan támadás (a továbbiakban: váratlan támadás) esetén az Országgyűlés és a Kormány, valamint törvényben meghatározott személyek és szervek – a helyzetnek megfelelő szükséges mértékben – kötelezhetik a médiaszolgáltatót a fennálló állapottal, helyzettel kapcsolatos közérdekű közleményeknek az általuk meghatározott formában és időben történő ingyenes közzétételére, illetve egyes közlemények, műsorszámok közzétételét megtilthatják. A közzététel feltételeinek biztosítása a Médiaszolgáltatás-támogató és Vagyonkezelő Alap (a továbbiakban: Alap) feladata. A közzétételkor a megrendelőt egyértelműen meg kell nevezni.
 
 ### Kizárólagos közvetítési jogok
 
@@ -652,7 +652,7 @@ figyelemfelhívás.
 (3) Nem lehet lineáris médiaszolgáltatásra jogosult szervezet:
 
 - a) párt, a párt által létrehozott vállalkozás,
-- b) állami és közigazgatási szerv, kivéve, ha rendkívüli vagy szükségállapot esetén alkalmazandó törvény másként rendelkezik,
+- b) állami és közigazgatási szerv, kivéve, ha különleges jogrend esetén alkalmazandó törvény másként rendelkezik,
 - c) olyan vállalkozás, amelyben a magyar államnak befolyásoló részesedése van,
 - d) olyan vállalkozás, amelyben az (1)–(2) bekezdésben felsoroltak bármelyike közvetlen vagy közvetett tulajdoni részesedéssel rendelkezik, illetve döntésének befolyásolására külön megállapodás alapján vagy egyéb módon jogot szerzett, vagy az egyébként tulajdonszerzési korlátozás alá eső személy, szervezet.
 
@@ -1761,7 +1761,7 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 - f) rendszeresen és tényszerűen tájékoztat a Magyarország határain kívül élő magyarság életéről, illetve számára hírszolgáltatást nyújt,
 - g) rendszeres és tényszerű tájékoztatást nyújt a hazai nemzetiségek életéről,
 - h) választási időszakban külön törvényben meghatározottak szerint gondoskodik a tájékoztatásról,
-- i) rendkívüli állapot, illetve szükségállapot idején külön törvényben meghatározott feladatokat végez,
+- i) különleges jogrendben törvényben meghatározott feladatokat végez,
 - j) gondoskodik a tevékenysége során birtokába került kulturális értékek és történelmi jelentőségű eredeti dokumentumok tartós megőrzéséről és védelméről,
 - k) részt vesz a nemzetközi hírügynökségi szervezetek munkájában.
 
@@ -1773,7 +1773,7 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 tudósítói hálózatot működtet.
 
-(3) Rendkívüli állapot, szükségállapot, veszélyhelyzet, külső fegyveres csoportoknak Magyarország területére történő váratlan betörése, továbbá az ország területének a Magyar Honvédség légvédelmi és repülő készültségi erőivel való oltalmazása esetén az Országgyűlés, a Honvédelmi Tanács, a köztársasági elnök és a Kormány, illetve törvényben meghatározott személyek és szervek – a helyzetnek megfelelő szükséges mértékben – a 32. § (6) bekezdés szerint kötelezhetik a közszolgálati médiaszolgáltatót – hírügynökségi tevékenysége körében – a tájékoztatásra.
+(3) Különleges jogrendben, valamint váratlan támadás esetén az Országgyűlés és a Kormány, illetve törvényben meghatározott személyek és szervek – a helyzetnek megfelelő szükséges mértékben – a 32. § (6) bekezdése szerint kötelezhetik a közszolgálati médiaszolgáltatót – hírügynökségi tevékenysége körében – a tájékoztatásra.
 
 ### A közszolgálati médiaszolgáltató vezérigazgatójának választása
 
@@ -2007,7 +2007,11 @@ Ennek keretében:
 - n) a hírközlés területén másodfokú szervként jár el a Hivatal törvényben meghatározott hatósági ügyei tekintetében,
 - o)
 
-(3)–(5)
+(3)
+
+(4)
+
+(5)
 
 (6) Az Elnököt nem lehet utasítani feladatkörének ellátásával és hatáskörének gyakorlásával kapcsolatos eljárása és döntése vonatkozásában. Az Elnök – a Hivatal törvényben meghatározott hatósági ügyei tekintetében – egyedi döntésre a Hivatalnak utasítást nem adhat.
 
@@ -3164,7 +3168,7 @@ a Biztos hivatalánál panasszal élhet.
   - ba) a gyermekek és a kiskorúak védelmére vonatkozó előírások,
   - bb) kiemelten nagy jelentőséggel bíró esemény közvetítésével kapcsolatos előírások,
   - bc)
-  - bd) a rendkívüli helyzetekre vonatkozó, médiaszolgáltatást érintő rendelkezések,
+  - bd) a különleges jogrendre, valamint a váratlan támadásra vonatkozó, médiaszolgáltatást érintő rendelkezések,
   - be) a műsorkvótákra vonatkozó követelmények,
   - bf) a kereskedelmi közleményekre vonatkozó, 23–25. §-ban meghatározott előírások,
   - bg) a termékmegjelenítésre vonatkozó rendelkezések,
@@ -3719,7 +3723,13 @@ rendeletben megállapítsa.
 
 207. § (1) A rádiózásról és televíziózásról szóló 1996. évi I. törvény (a továbbiakban: Rttv.) szerinti analóg, földfelszíni terjesztésű műsorszolgáltatási jogosultság és az e törvény szerinti állami tulajdonban lévő, korlátos erőforrásokat igénybe vevő analóg lineáris médiaszolgáltatási jogosultság – a 203. § 32. pontja szerinti közszolgálati médiaszolgáltatók médiaszolgáltatásai kivételével – kizárólag a Médiatanács által kötött hatósági szerződés alapján gyakorolható.
 
-(2)–(5)
+(2)
+
+(3)
+
+(4)
+
+(5)
 
 (6) A JBE lineáris audiovizuális médiaszolgáltató a 206. § (3a) bekezdése alapján kiadott jogszabály hatálybalépéséig a legnagyobb éves átlagos közönségarányú lineáris audiovizuális médiaszolgáltatásáért programdíjat (műsordíjat) nem kérhet.
 
@@ -3871,6 +3881,12 @@ rendeletben megállapítsa.
 
 (3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.
 
+218/E. § (1) A Médiatanács tagja az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvénnyel megállapított rendelkezéseknek megfelelően először – 2022. december 31. napján fennálló állapot szerint − 2023. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő házastársának, élettársának, továbbá gyermekének vagyonnyilatkozatát is.
+
+(2) A Médiatanács tagja 2022. december 31-ig vagyonnyilatkozat-tételi kötelezettségének a 2022. október 31-én hatályos rendelkezések szerint tesz eleget.
+
+(3) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
+
 ### V. Fejezet
 
 #### 219. §
@@ -3897,7 +3913,7 @@ rendeletben megállapítsa.
 
 ### VI/A. Fejezet — Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-229. § E törvény 1–203. §-a, 206–209. § és 211–218/D. §-a, 1. számú melléklete és 4. számú melléklete az Alaptörvény IX. cikk (6) bekezdése és 23. cikke alapján sarkalatosnak minősül.
+229. § E törvény 1–203. §-a, 206–209. § és 211–218/E. §-a, 1. számú melléklete és 4. számú melléklete az Alaptörvény IX. cikk (6) bekezdése és 23. cikke alapján sarkalatosnak minősül.
 
 ### VII. Fejezet — AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 

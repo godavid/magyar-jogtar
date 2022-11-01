@@ -158,6 +158,8 @@ Az Országgyűlés a jó állam kialakítása keretében, a területi államigaz
 
 (8) Nincs helye az aláírópad használatának, ha az ügyfél az ügyet az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) szerinti elektronikus ügyintézési ponton vagy az Eüsztv. szerinti videotechnológiás kapcsolattal történő ügyintézéssel kívánja intézni.
 
+(9) A Kormány összehangolt védelmi tevékenység elrendelése esetén rendeletében előírhatja, hogy a fővárosi és megyei kormányhivatal ügyfélszolgálatai, a járási (fővárosi kerületi) hivatal kormányablakai, illetve a települési ügysegéd az e törvény, illetve a végrehajtására kiadott rendelet szerinti aláírópad, illetve kormányhivatali aláírásminta-nyilvántartásban található aláírásminta használatával intézhető ügytípusok tekintetében – ha az ügyintézés feltételei nem állnak fenn – aláírópad, illetve kormányhivatali aláírásminta-nyilvántartásban található aláírásminta mellőzésével is eljárhat.
+
 #### 9/C. Egyedi eljárásrend alkalmazhatósága a fővárosi és megyei kormányhivatal eljárásaiban
 
 20/K. § (1) A fővárosi és megyei kormányhivatal – ha törvény eltérően nem rendelkezik – jogosult mind a hatósági, mind a működéséhez kapcsolódó egyéb ügyviteli eljárást elektronikusan lefolytatni, határozatait elektronikusan meghozni.
@@ -417,6 +419,14 @@ céljából, erre irányuló megkeresés alapján továbbíthatóak.
 
 (3) Felhasználóváltozás-bejelentési szolgáltatás során az ügyfél bejelenti a (2) bekezdés szerinti adatokat az adatváltozás-kezelési szolgáltatóhoz.
 
+#### 9/G. Az adatváltozás-kezelési szolgáltatás összehangolt védelmi tevékenység elrendelése esetén
+
+20/V. § A Kormány összehangolt védelmi tevékenység elrendelése esetén rendeletében előírhatja, hogy az adatváltozás-kezelési szolgáltató – ha az elektronikus úton történő ügyintézés lehetősége nem áll fenn – az adatváltozás-kezelési szolgáltatást a következő eltérésekkel biztosítja:
+
+- a) az adatváltozás-bejelentési szolgáltatás, illetve a felhasználóváltozás-bejelentési szolgáltatás csak kormányablak útján vehető igénybe,
+- b) az adatváltozás-kezelési szolgáltató postai úton továbbítja a bejelentést a csatlakozott szolgáltatónak, és
+- c) adatváltozás-bejelentési szolgáltatás esetében nem alkalmazható a 20/T. § (3) és (4) bekezdése.
+
 #### 10. Záró rendelkezések
 
 21. § Felhatalmazást kap a Kormány, hogy
@@ -433,7 +443,7 @@ céljából, erre irányuló megkeresés alapján továbbíthatóak.
 
 rendeletben határozza meg.
 
-21/A. §
+21/A. § Felhatalmazást kap a Kormány, hogy rendeletben a 20/J. § (9) bekezdése és a 20/V. § szerinti intézkedéseket összehangolt védelmi tevékenység elrendelése esetén bevezesse.
 
 21/B. § (1)
 

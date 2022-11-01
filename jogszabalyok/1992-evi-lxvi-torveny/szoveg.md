@@ -1304,7 +1304,7 @@ adatvédelmi tisztviselőt nevez ki.
 
 (2) A nyilvántartásban az idegen írásmódú neveket — az érintett nyilatkozatának figyelembevételével — a magyar ábécé betűinek felhasználásával kell szerepeltetni.
 
-(3) A nyilvántartás működőképességét rendkívüli állapot, szükségállapot és veszélyhelyzet esetén is biztosítani kell.
+(3) A nyilvántartás működőképességét hadiállapot, szükségállapot és veszélyhelyzet esetén is biztosítani kell.
 
 36. § (1) A nyilvántartás a nemzeti vagyon része, kialakítása, működtetése és fejlesztése állami feladat, az ellátásához szükséges pénzügyi fedezetet az állami költségvetésből kell biztosítani.
 

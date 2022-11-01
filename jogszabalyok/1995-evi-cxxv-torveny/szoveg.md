@@ -204,7 +204,7 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 - a) figyelemmel kíséri és a rendelkezésre álló valamennyi adat felhasználásával folyamatosan elemzi Magyarország biztonsági, nemzetbiztonsági, bűnügyi és terrorfenyegetettségi helyzetét;
 - b) az együttműködő szervek által átadott adatokat elemzi-értékeli és ennek alapján – az e törvényben, illetve a Kormány tagjainak feladat- és hatásköréről szóló kormányrendeletben meghatározott kivétellel – kizárólagos hatáskörrel teljesíti a hírigényeket;
 - c) folyamatosan figyelemmel kíséri a Magyarország biztonsági, nemzetbiztonsági, bűnügyi és terrorhelyzetére vonatkozó információkat;
-- d) közvetlen biztonsági, nemzetbiztonsági, bűnügyi és terrorfenyegetettség esetén, illetve a fokozott kockázatot jelentő biztonsági kérdésekben koordinációs tevékenységet lát el az érintett szervezetek bevonásával;
+- d) összehangolt védelmi tevékenység, valamint különleges jogrend kihirdetését megalapozó helyzet vagy esemény kezelésével összefüggésben, a nemzetbiztonságot érintően kiemelt kockázatot jelentő biztonsági fenyegetésekkel kapcsolatos kérdések vonatkozásában a hatáskörébe és illetékességébe tartozó szakmai koordinációs tevékenységet lát el az érintett szervezetek bevonásával, továbbá kockázatelemzést végez;
 - e) figyelemmel kíséri a Magyarország biztonsági, nemzetbiztonsági, terrorveszélyeztetettségi és bűnügyi helyzetét érintő tendenciákat, Magyarország biztonsági, nemzetbiztonsági, terrorveszélyeztetettségi és bűnügyi helyzetét érintő új jelenségekről elemzéseket, tanulmányokat készít.
 
 (2) A Nemzeti Információs Központ a hírigény-teljesítéssel kapcsolatos feladata során a biztonsági, nemzetbiztonsági, bűnügyi és terrorfenyegetettségi kérdésekkel kapcsolatos stratégiai döntések meghozatalának elősegítése céljából
@@ -254,7 +254,7 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 9. § A nemzetbiztonsági szolgálatok
 
 - a) végzik a feladataik teljesítéséhez szükséges technikai rendszerek, eszközök beszerzését, kutatását, fejlesztését és az eszközök alkalmazásával kapcsolatos szakmai felkészítést, mindezek érdekében együttműködhetnek egymással és más szervekkel;
-- b) ellátják a rendkívüli állapottal, a szükségállapottal, a megelőző védelmi helyzettel, a terrorveszélyhelyzettel, a váratlan támadással és a veszélyhelyzettel összefüggő, törvényben meghatározott feladatokat;
+- b) a nemzetbiztonsági érdek elsőbbségével ellátják a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti feladatokat;
 - c) ellátják e törvény keretei között a Kormány, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter vagy a honvédelemért felelős miniszter által meghatározott feladatokat;
 - d)
 - e) gondoskodnak a hivatásos állományú munkatársak és a rendvédelmi igazgatási alkalmazottak, illetve a honvédelmi alkalmazottak szakirányú képzéséről.
@@ -752,7 +752,7 @@ megőrzésre alkalmas módon, dokumentáltan – az intézkedés céljának és 
 
 44. § (1) A nemzetbiztonsági szolgálatok e törvény alapján feladataik ellátása érdekében egymástól adatot kérnek, illetve egymásnak adatot szolgáltatni kötelesek.
 
-(2) A Rendőrség, a Nemzeti Adó- és Vámhivatal, a bíróság, az ügyészség és a büntetés-végrehajtási szervek a konkrét cél megjelölésével – a rájuk vonatkozó törvényben meghatározott feladataik ellátására, az ott meghatározott körben – a nemzetbiztonsági szolgálatoktól adatok igénylésére jogosultak.
+(2) A Rendőrség, a Nemzeti Adó- és Vámhivatal, a védelmi és biztonsági igazgatás központi szerve, a bíróság, az ügyészség és a büntetés-végrehajtási szervek a konkrét cél megjelölésével – a rájuk vonatkozó törvényben meghatározott feladataik ellátására, az ott meghatározott körben – a nemzetbiztonsági szolgálatoktól adatok igénylésére jogosultak.
 
 (2a) A nemzetbiztonsági szolgálatok nem kötelesek büntetőeljárást kezdeményezni és átadni az adatokat, ha azzal veszélyeztetnék az e törvényben meghatározott feladataik ellátását.
 
@@ -1570,7 +1570,7 @@ iránt intézkedik.
 - o) jelzés: a nemzetbiztonsági szolgálatok által a feladataik végrehajtásához kapcsolódóan az adatkezelési rendszerekben kezelt adatra vonatkozóan elrendelt értesítési meghagyás, amely biztosítja a jelzéssel ellátott adatot érintő eseményről – így különösen az adatváltozásról, az adatot érintő intézkedésről, az adatra vonatkozó megkeresésről – az elrendelő nemzetbiztonsági szolgálat tudomásszerzését;
 - p) a légiutas-adat személyazonosításra alkalmatlanná tétele: az érintett utasok közvetlen beazonosítását lehetővé tevő adatelemek láthatatlanná tétele az adatelemek elrejtésével a felhasználók számára;
 - q) a légiutas-adat újbóli személyazonosításra alkalmassá tétele: az érintett utasok közvetlen beazonosítását lehetővé tevő adatelemek elrejtésével személyazonosításra alkalmatlanná tett légiutas-adatok újbóli személyazonosításra alkalmassá tétele az elrejtett adatelemek láthatóvá tétele által.
-- t) honvédelmi szervezet: a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 13. pontja szerinti szervezet.
+- t) honvédelmi szervezet: a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja szerinti szervezet.
 
 75. § (1)
 

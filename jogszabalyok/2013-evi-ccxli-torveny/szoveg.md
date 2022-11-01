@@ -80,13 +80,11 @@ az országgyűlési képviselők legalább egyötöde írásbeli ajánlással te
 
 12. § (1) A Bizottság tagja a megválasztását, megbízatását követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
 
-(2)
+(2) A Bizottság tagja a vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek (a továbbiakban együtt: családtag) a Bizottság tagja vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
 
-(3) A Bizottság tagja vagyonnyilatkozatának nyilvános, oldalhű másolatát a főigazgató a Bizottság munkaszervezeteként működő Nemzeti Emlékezet Bizottságának Hivatala (a továbbiakban: Hivatal) honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a honlapról a Bizottság tagja megbízatásának megszűnését követő egy év elteltével távolítható el.
+(3) A családtag vagyonnyilatkozata kivételével a vagyonnyilatkozat nyilvános, oldalhű másolatát – a családtag személyes adatai kivételével – a főigazgató a Bizottság munkaszervezeteként működő Nemzeti Emlékezet Bizottságának Hivatala (a továbbiakban: Hivatal) honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a honlapról a Bizottság tagja megbízatásának megszűnését követő egy év elteltével távolítható el.
 
-(4) A vagyonnyilatkozatokat a Hivatalt vezető főigazgató kezeli.
-
-(5) A vagyonnyilatkozatban feltüntetett adatok tekintetében bekövetkezett változást a Hivatalt vezető főigazgatónak kell bejelenteni.
+(4) A vagyonnyilatkozatokat a Hivatalt vezető főigazgató kezeli. A főigazgató a Bizottság volt tagjának, valamint családtagjának vagyonnyilatkozatát a Bizottság tagja megbízatásának a megszűnését követő egy évig őrzi.
 
 13. § A vagyonnyilatkozat-tétel elmulasztása esetén annak teljesítéséig a Bizottság tagja a tisztségéből eredő jogkörét nem gyakorolhatja, és díjazásban, valamint juttatásban nem részesülhet.
 
@@ -266,7 +264,19 @@ volt.
 
 #### 6. Az elmúlt rendszer titkosszolgálati tevékenységének feltárásáról és az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szóló 2003. évi III. törvény módosítása
 
-#### 33–39. §
+#### 33. §
+
+#### 34. §
+
+#### 35. §
+
+#### 36. §
+
+#### 37. §
+
+#### 38. §
+
+#### 39. §
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -277,5 +287,11 @@ volt.
 (2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a vagyonnyilatkozat kezelőjénél lévő, a Bizottság tagjával közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát a vagyonnyilatkozat kezelője 2023. augusztus 1. napjáig őrzi.
 
 (3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.
+
+40/B. § (1) A Bizottság tagja az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvénnyel megállapított rendelkezéseknek megfelelően először – 2022. december 31. napján fennálló állapot szerint − 2023. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő családtagjának vagyonnyilatkozatát is.
+
+(2) A Bizottság tagja 2022. december 31-ig vagyonnyilatkozat-tételi kötelezettségének a 2022. október 31-én hatályos rendelkezések szerint tesz eleget.
+
+(3) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
 41. § A 31. § az Alaptörvény 46. cikk (6) bekezdése alapján sarkalatosnak minősül.

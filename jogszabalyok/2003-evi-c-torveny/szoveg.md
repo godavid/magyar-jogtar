@@ -66,10 +66,11 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 - d) gondoskodik a fogyasztói érdekek érvényre juttatásáról, önállóan gondoskodik a fogyasztók jogszabályban meghatározott csoportjainak kivételes támogatásáról;
 - e) biztosítja, hogy a végfelhasználók rendelkezésére álljon egy, az eltűnt gyermekek bejelentésére fenntartott díjmentes forróvonalat működtető szolgálat;
 - f)
-- g) meghatározza az elektronikus hírközlés biztonságának alapelveit, a különleges jogrend idejére irányuló felkészítésének rendszerét, biztosítja az államigazgatásra háruló feladatok ellátásának feltételeit;
-- h) meghatározza az elektronikus hírközlés területén a nemzetbiztonsági érdekek érvényesítéséhez szükséges feltételeket, valamint az ezek megvalósulásának ellenőrzésére vonatkozó szabályokat;
+- g) meghatározza az elektronikus hírközlés biztonságának alapelveit, a különleges jogrend, összehangolt védelmi tevékenység idejére, váratlan támadás esetére irányuló felkészítésének rendszerét, ezzel összefüggésben biztosítja az államigazgatásra háruló feladatok ellátásának feltételeit,
+- h) meghatározza az elektronikus hírközlés területén a védelmi és biztonsági érdek, a nemzetbiztonsági érdek, valamint a honvédelmi érdek érvényesítéséhez szükséges feltételeket, valamint az ezek megvalósulásának ellenőrzésére vonatkozó szabályokat,
 - i) biztosítja a lakosság riasztásának rendszerét;
 - j) ellátja az elektronikus hírközléssel összefüggő, jogszabályban meghatározott további feladatokat.
+- k) meghatározza az alapvető felhasználók elektronikus hírközlési szolgáltatással történő ellátásának sorrendjét összehangolt védelmi tevékenység idején vagy váratlan támadás esetén.
 
 (2) A Kormány az elektronikus hírközlési piacot szabályozó jogszabályainak tervezetével kapcsolatban egyeztet az érdekeltekkel.
 
@@ -96,7 +97,7 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 
 (2)
 
-(3) Különleges jogrend esetén, illetőleg következményei elhárítása érdekében – a Honvédelmi Tanács, a köztársasági elnök, illetve a Kormány döntése alapján – a miniszter határozattal állapítja meg az elektronikus hírközlési tevékenység átmeneti korlátozását vagy szünetelését.
+(3)
 
 6. §
 
@@ -122,7 +123,7 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 - 8. figyelemmel kíséri az egyetemes elektronikus hírközlési szolgáltatás (a továbbiakban: egyetemes szolgáltatás) ellátásának helyzetét, és intézkedik a szolgáltatás biztosítása érdekében;
 - 9. közzéteszi a jogszabályban előírt nyilvántartásokat, adatokat, döntéseket;
 - 10. a kormány politikájának megfelelően gyakorolja a rádiófrekvenciákra és azonosítókra vonatkozó állami tulajdonosi jogokat, gazdálkodást folytat a rádiófrekvenciák és azonosítók vonatkozásában, dönt a frekvenciahasználati jogosultság megszerzését szolgáló árverés és pályázat kiírásáról és lefolytatja a frekvenciahasználati jogosultság megszerzését szolgáló árverési és pályázati eljárásokat, és végrehajtja a frekvenciagazdálkodásra vonatkozó, a frekvenciagazdálkodó hatóságnak címzett európai uniós aktusokat;;
-- 11. koordinálja az elektronikus hírközléssel kapcsolatos, külön jogszabályban meghatározott honvédelmi, rendvédelmi, nemzetbiztonsági és védelmi felkészítési, valamint az ezekkel kapcsolatos adatszolgáltatási feladatok végrehajtását, működteti az informatikai és hírközlési ágazat ügyeleti szolgálatát;
+- 11. koordinálja az elektronikus hírközléssel kapcsolatos, jogszabályban meghatározott védelmi és biztonsági, honvédelmi, rendvédelmi, nemzetbiztonsági, védelmi felkészítési, valamint az ezekkel kapcsolatos adatszolgáltatási feladatok végrehajtását, működteti az informatikai és hírközlési ágazat ügyeleti szolgálatát;
 - 12. eljár az elektronikus hírközlési szolgáltatások bejelentésével, a frekvenciagazdálkodással, az azonosítógazdálkodással, a hatályban lévő koncessziós szerződések felügyeletével, a jogszabályban előírt nyilvántartások vezetésével, a zavarelhárítással, az ingatlanhasználattal, az elektronikus hírközlési építmények engedélyezésével, az építésfelügyelettel kapcsolatos hatósági ügyekben;
 - 13. a felhasználók és előfizetők érdekeinek védelme körében általános hatósági felügyeleti és piacfelügyeleti tevékenység keretében ellenőrzi a 6–7. pontokban nem említett az elektronikus hírközlésre vonatkozó szabályok elektronikus hírközlési szolgáltatók általi betartását, és eljár azok megsértése esetén;
 - 14. kormányzati célú hálózatok létesítése, összekapcsolása, fejlesztése, korszerűsítése során a kormányzati célú hálózatokról szóló jogszabály szerint egyeztet a hálózatgazdákkal;
@@ -516,13 +517,13 @@ alapelveit.
 
 37/B. § (1)
 
-(2) Ha a Hivatal megítélése szerint szükséges, a hatósági intézkedés zavartalan lefolytatásának biztosítása érdekében a rendőrség közreműködését kérheti. A Hivatal, hatósági intézkedés keretében történő közreműködés tárgyában megküldött megkeresésére a rendőrség – a megkeresésben foglalt határidőn belül – köteles biztosítani a közreműködést. A 37/A. § (2) bekezdésében foglalt esetben, súlyos kárral fenyegető helyzet megelőzése érdekében, valamint nemzetbiztonsági érdekből vagy fontos közrendvédelmi, közbiztonsági okból azonnali hatósági intézkedés szükséges, a rendőrség – előzetes megkeresése nélkül – a Hivatal felkérésére azonnal, a Hivatal által megjelölt helyen és ideig köteles biztosítani a közreműködést.
+(2) Ha a Hivatal megítélése szerint szükséges, a hatósági intézkedés zavartalan lefolytatásának biztosítása érdekében a rendőrség közreműködését kérheti. A Hivatal, hatósági intézkedés keretében történő közreműködés tárgyában megküldött megkeresésére a rendőrség – a megkeresésben foglalt határidőn belül – köteles biztosítani a közreműködést. A 37/A. § (2) bekezdésében foglalt esetben, súlyos kárral fenyegető helyzet megelőzése érdekében, valamint nemzetbiztonsági, védelmi és biztonsági érdekből vagy fontos közrendvédelmi, közbiztonsági okból azonnali hatósági intézkedés szükséges, a rendőrség – előzetes megkeresése nélkül – a Hivatal felkérésére azonnal, a Hivatal által megjelölt helyen és ideig köteles biztosítani a közreműködést.
 
 (3) A hatósági intézkedés jogalapjáért, hírközlési igazgatási jogszerűségéért a Hivatal felel.
 
 (4) A hatósági intézkedés keretében történő rendőri közreműködésre és rendőri intézkedésekre a Rendőrségről szóló törvény végrehajtási eljárás lefolytatásában való közreműködésre vonatkozó szabályai alkalmazandók.
 
-(5) Ha a hatósági intézkedésre a frekvenciahasználattal kapcsolatos nemzetbiztonsági, illetve kiemelt közrendvédelmi okok alapján kerül sor, a hatósági intézkedést a Hivatal – a rendőrség közreműködésével – a lezárt terület, épület, helyiség, magánlakás és közterületnek nem minősülő egyéb helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is foganatosíthatja.
+(5) Ha a hatósági intézkedésre a frekvenciahasználattal kapcsolatos nemzetbiztonsági, védelmi és biztonsági érdekből, illetve kiemelt közrendvédelmi okok alapján kerül sor, a hatósági intézkedést a Hivatal – a rendőrség közreműködésével – a lezárt terület, épület, helyiség, magánlakás és közterületnek nem minősülő egyéb helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is foganatosíthatja.
 
 (6) A rendőrség (2) bekezdésben foglalt Hivatal általi megkereséséhez, a hatósági intézkedés keretében történő rendőri közreműködéshez, intézkedéshez, illetve a hatósági intézkedés (5) bekezdésben foglalt módon történő foganatosításához az ügyész előzetes jóváhagyása nem szükséges. Ha a hatósági intézkedés foganatosítására lezárt terület, épület, helyiség, magánlakás és közterületnek nem minősülő egyéb helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére kerül sor, a hatósági intézkedés foganatosításáról készült jegyzőkönyvet a Hivatal hét napon belül megküldi az ügyésznek.
 
@@ -1628,7 +1629,7 @@ nem kell alkalmazni.
 - a) elektronikus hírközlő hálózatokat egymás között olyan egyeztetett műszaki feltételrendszerben működtetni, hogy azok – jogszabályban, illetőleg nemzetközi szerződésekben meghatározott esetekben – a szükséges kapcsolat létesítéséhez közvetlenül vagy megfelelő interfészek, hálózatrészek, elemek, berendezések, szolgáltatások beiktatásával egységesen működő rendszert alkothassanak. Ennek érdekében az elektronikus hírközlési tevékenységet végzőknek jóhiszeműen, az esélyegyenlőséget biztosítva kell együttműködniük, és lehetővé kell tenniük egymás számára az ehhez szükséges műszaki adatokhoz való hozzáférést;
 - b) együttműködni az elektronikus hírközlési építmények közös használatát elősegítő műszaki, szerződéses és gazdasági keretfeltételek kialakításában;
 - c) biztosítani a nyilvános elektronikus hírközlő hálózatok biztonságát a jogosulatlan hozzáféréssel szemben;
-- d) minősített időszakban külön jogszabályban meghatározott módon együttműködni más szolgáltatókkal;
+- d) különleges jogrendben, összehangolt védelmi tevékenység idején, váratlan támadás esetén jogszabályban meghatározott módon együttműködni más szolgáltatókkal;
 - e) betartani a terület- és ingatlanhasználattal kapcsolatos szabályokat;
 - f) betartani a környezet védelmével, az élet, a testi épség, az egészség védelmével és megóvásával, az elektromágneses sugárzással kapcsolatos jogszabályi előírásokat;
 - g) az együttműködés során a fogyasztók védelmére különös figyelmet fordítani.
@@ -1739,7 +1740,7 @@ nem kell alkalmazni.
 - a) a határozatban megjelölt időponttól kezdve a díj meg nem fizetése előfizető esetében nem minősül az előfizetői szerződés megszegésének, szolgáltató esetén nem minősül a hálózati szerződés megszegésének, a díj az előfizetőtől, illetve a kötelezett szolgáltatótól sem jogvitás eljárásban, sem más módon nem követelhető, továbbá
 - b) a Hivatal elrendelheti a határozatában megjelölt időpontig terjedően az azonosító hívásáért felszámított díjak visszatérítését.
 
-### Együttműködés titkos információgyűjtés, leplezett eszközök alkalmazása érdekében, illetőleg minősített időszakban és honvédelmi érdekből
+### Együttműködés titkos információgyűjtés, leplezett eszközök alkalmazása érdekében, illetve különleges jogrendben és honvédelmi, valamint védelmi és biztonsági érdekből
 
 92. § (1) Az elektronikus hírközlési szolgáltató köteles együttműködni a titkos információgyűjtés folytatására, illetve leplezett eszközök alkalmazására törvényben feljogosított szervezetekkel. Az elektronikus hírközlési szolgáltató az elektronikus hírközlési tevékenységét olyan módon köteles folytatni, amely nem zárja ki, nem lehetetleníti el a titkos információgyűjtést, illetve a leplezett eszközök alkalmazását.
 
@@ -1759,11 +1760,11 @@ nem kell alkalmazni.
 
 (8) Az Elnök rendeletében meghatározott szolgáltató köteles az ott meghatározott tartalmú, folyamatosan felülvizsgált és karbantartott kockázatelemzéssel rendelkezni, és ennek alapján az azonosított kockázatokkal arányos védelmi intézkedéseket alkalmazni. Amennyiben a szolgáltatónál sor került a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény szerinti európai vagy nemzeti létfontosságú rendszerelem kijelölésére, akkor az ennek alapjául szolgáló azonosítási jelentés a kockázatelemzés részét képezi, a védelmi intézkedéseket pedig az üzemeltetői biztonsági terv figyelembevételével kell meghatározni. A szolgáltató köteles továbbá az üzemzavar és a katasztrófahelyzet kezelésére jogszabályban meghatározott tartalmú zavarelhárítási, katasztrófaelhárítási és üzletmenet-folytonossági tervekkel rendelkezni.
 
-(8a) A szolgáltató a különleges jogrend időszakára való felkészülésre vonatkozó jogszabályokban meghatározott feladatok ellátására felkészülési tervet köteles készíteni, valamint az ilyen feladatok ellátásához szükséges mértékű és összetételű tartalékkal köteles rendelkezni.
+(8a) A szolgáltató a különleges jogrend, összehangolt védelmi tevékenység idejére, váratlan támadás esetére való felkészülésre vonatkozó jogszabályokban meghatározott feladatok ellátására felkészülési tervet készít, valamint az ilyen feladatok ellátásához szükséges mértékű és összetételű tartalékot képez.
 
-(9) Minősített időszak esetében alkalmazandó intézkedési terv kidolgozása és végrehajtása érdekében az elektronikus hírközlési szolgáltatóknak külön jogszabályban meghatározott módon együtt kell működniük egymással, illetve az illetékes szervezetekkel.
+(9) Különleges jogrendben, összehangolt védelmi tevékenység idején, váratlan támadás esetére alkalmazandó intézkedési terv kidolgozása és végrehajtása érdekében az elektronikus hírközlési szolgáltatóknak jogszabályban meghatározott módon együtt kell működniük egymással, illetve a feladat- és hatáskörrel rendelkező állami szervekkel.
 
-(10) Az elektronikus hírközlési szolgáltató minősített időszak idején az intézkedési terv alapján tett intézkedések, illetve a honvédelmi érdekek érvényesítésére vonatkozó jogszabályok szerint általa nyújtott elektronikus hírközlési szolgáltatások tényleges költségeinek megtérítésére jogosult.
+(10) Az elektronikus hírközlési szolgáltató a (9) bekezdés szerinti intézkedési terv alapján tett intézkedések, illetve a honvédelmi, védelmi és biztonsági érdekek érvényesítésére vonatkozó jogszabályok szerint általa nyújtott elektronikus hírközlési szolgáltatások tényleges költségeinek megtérítésére jogosult.
 
 ### Együttműködés elektronikus adat ideiglenes és végleges hozzáférhetetlenné tételében
 
@@ -2703,7 +2704,7 @@ adatainak egyeztetésére köteles.
 
 - a) az előfizető a szünetelést legalább 15 nappal megelőző előzetes értesítése mellett a hálózat átalakítása, felújítása, cseréje, karbantartása miatt – amennyiben a szüneteltetést nem igénylő más gazdaságos műszaki megoldás nem áll rendelkezésre – amely naptári hónaponként az 1 napot nem haladhatja meg;
 - b) előre nem látható és el nem hárítható külső ok (vis maior) esetén;
-- c) Magyarország honvédelmi, nemzetbiztonsági, gazdasági és közbiztonsági (így különösen terrorelhárítás, kábítószer-kereskedelem elleni küzdelem) érdekeinek védelmében a jogszabályok által előírt módon.
+- c) Magyarország védelmi és biztonsági, honvédelmi, nemzetbiztonsági, gazdasági és közbiztonsági (így különösen terrorelhárítás, kábítószer-kereskedelem elleni küzdelem) érdekeinek védelmében a jogszabályok által előírt módon.
 
 (2) Ha a szolgáltató érdekkörébe tartozó ok miatt kerül sor a szünetelésre – ide nem értve az általános szerződési feltételekben meghatározott rendszeres karbantartást –, vagy a szünetelés oka mindkét fél érdekkörén kívül esik, a szünetelés időtartama alatt az előfizető a szünetelés időtartamára vonatkozó díj fizetésére nem köteles. Ha a szüneteltetés egy adott naptári hónapban meghaladja a 48 órát, a szolgáltató köteles visszatéríteni az egy hónapra eső előfizetési díjat.
 
@@ -3500,7 +3501,7 @@ a hírközlési szolgáltató részére egy évben legalább egy alkalommal megt
 182. § (1) Felhatalmazást kap a Kormány arra, hogy rendelettel állapítsa meg:
 
 - a) a Hatóság általi, az e-közműt üzemeltető szervezet számára történő adatszolgáltatás formátumára, rendjére és az adatok körére, valamint az elektronikus hírközlési építmények építtetői és az elektronikus hírközlő hálózatok üzemeltetői regisztrációs és adatszolgáltatási kötelezettségének Hatóság általi ellenőrzésére és – annak nem megfelelő teljesítése vagy a közműnyilatkozat elmaradása esetén – az alkalmazható bírság kiszabására vonatkozó szabályokat;
-- b) az elektronikus hírközlés különleges jogrend idejére irányuló felkészítésének rendszerét, az államigazgatási szervek feladatait, működésük feltételeinek biztosítását;
+- b) az elektronikus hírközlés különleges jogrend, összehangolt védelmi tevékenység idejére irányuló felkészítésének rendszerét, az államigazgatási szervek ezzel összefüggő feladatait, működésük feltételeinek biztosítását;
 - c) az elektronikus hírközlési feladatokat ellátó szervezetek és a titkos információgyűjtés folytatására, illetve leplezett eszközök alkalmazására feljogosított szervezetek együttműködésének rendjét;
 - d) a kormányzati célú hálózatokra és az ilyen hálózatokkal kapcsolatos elektronikus hírközlési tevékenységre vonatkozó, e törvénytől eltérő szabályokat;
 - e) az e törvény szerinti egyablakos információs pontot működtető szervet, valamint az egyablakos információs pont működésére vonatkozó szabályokat;
@@ -3508,6 +3509,7 @@ a hírközlési szolgáltató részére egy évben legalább egy alkalommal megt
 - g)
 - g) a 127. § (2d) bekezdésében meghatározott szervet;
 - h) a mobil rádiótelefon szolgáltatást nyújtó elektronikus hírközlési szolgáltatók és a hivatásos katasztrófavédelmi szerv központi szerve közötti együttműködés rendjét.
+- i) az alapvető felhasználók elektronikus hírközlési szolgáltatással történő ellátásának sorrendjét összehangolt védelmi tevékenység idején vagy váratlan támadás esetén.
 
 (2)
 
@@ -3651,6 +3653,7 @@ való megfelelést szolgálja.
 188. § E törvény alkalmazásában:
 
 - 1. Alapkiépítésű monitoring alrendszer: olyan, a Nemzetbiztonsági Szakszolgálat által meghatározott műszaki alapkövetelmények szerint Magyarország területén létesített és működtetett rendszer, amely lehetővé teszi az elektronikus hírközlési feladatokat ellátó szervezet előfizetői, illetve felhasználói köréből tetszőlegesen kiválasztható, az előfizetők (felhasználók) összlétszámának legalább 0,1–0,6%-át kitevő, 150 000 előfizetői létszám alatt 0,6%, de legalább 60, 150 000–1 000 000 előfizetői létszám között 0,3%, de legalább 900, 1 000 000 előfizetői létszám felett 0,1%, de legalább 3000 (a teljes előfizetői körből egy előfizetőre számított átlagforgalom legfeljebb kétszeresével forgalmazó) előfizető vagy felhasználó kommunikációjának egyidejű ellenőrizhetőségét és azok kísérőadatainak késedelem nélküli, teljes körű, folyamatos, egyidejű kiválasztását és kiadását a kilépési pontra.
+- 1a. Alapvető felhasználó: az a jogi személy vagy egyéb szervezet, amely összehangolt védelmi tevékenység vagy váratlan támadás elhárítása során honvédelmi, védelmi és biztonsági, nemzetbiztonsági vagy diplomáciai érdekből használ vagy igényel nyilvánosan elérhető elektronikus hírközlési szolgáltatást.
 - 2. Azonosítás szolgáltatás: olyan kapcsolódó szolgáltatás, amelyet az előfizető vagy felhasználó személyére vonatkozó adatok igénybevételével nyújtanak.
 - 3. Adatkicserélő központ: adatkicserélő szolgáltatás nyújtását lehetővé tévő osztott elektronikus hírközlő hálózat.
 - 4. Adatkicserélő szolgáltatás: természetes személy, jogi személy vagy egyéb szervezet által kezdeményezett, illetve fogadott IP-alapú adatforgalom továbbítását lehetővé tevő, adatkicserélő központ útján természetes vagy jogi személy adatkicserélő szolgáltató által nyújtott elektronikus hírközlési szolgáltatás.

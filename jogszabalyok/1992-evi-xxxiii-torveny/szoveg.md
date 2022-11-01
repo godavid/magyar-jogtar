@@ -913,19 +913,15 @@ minősítést kap a közalkalmazott. Ettől eltérően, a közalkalmazott alkalm
 
 (2a) Az Mt. 53. § (2) bekezdésétől eltérően a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (1)–(3) bekezdése szerinti egészségügyi felsőoktatási intézmény és a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (1) bekezdés a) és c) pontja, valamint (2) és (3) bekezdése szerinti egészségügyi szolgáltatók közötti viszonyban az Mt. 53. § (1) bekezdése szerinti foglalkoztatás időtartama naptári évenként a 220 beosztás szerinti munkanapot vagy 1760 órát nem haladhatja meg.
 
-(3) Az Mt. 53. § (2) bekezdésétől a Magyar Honvédségnél foglalkoztatott közalkalmazottak tekintetében a felek írásbeli megállapodás alapján eltérhetnek.
+(3)
 
-(3a) A Magyar Honvédségnél foglalkoztatott közalkalmazottak tekintetében végrehajtási rendelet a honvédségi feladatok ellátásával összefüggésben, az Mt. 143. és 144. §-a szerinti pótlék helyett napi átalány illetménypótlékot is megállapíthat.
+(3a)
 
-(4) Az Mt. 55. § (1) bekezdése szerinti eseteken túl a Magyar Honvédségnél és a rendvédelmi feladatokat ellátó szerveknél foglalkoztatott közalkalmazott a munkáltató engedélye alapján is mentesülhet a munkavégzési kötelezettség teljesítése alól. A mentesítés miatt kiesett munkaidő az Mt. 115. § (2) bekezdése alkalmazásában munkában töltött időnek minősül, és ezen időtartamra a közalkalmazott az Mt. 146. § (2) bekezdésétől eltérően távolléti díjra jogosult.
+(4) Az Mt. 55. § (1) bekezdése szerinti eseteken túl a rendvédelmi feladatokat ellátó szerveknél foglalkoztatott közalkalmazott a munkáltató engedélye alapján is mentesülhet a munkavégzési kötelezettség teljesítése alól. A mentesítés miatt kiesett munkaidő az Mt. 115. § (2) bekezdése alkalmazásában munkában töltött időnek minősül, és ezen időtartamra a közalkalmazott az Mt. 146. § (2) bekezdésétől eltérően távolléti díjra jogosult.
 
-(5) A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 36. § (1) bekezdés h) pontja vagy (2) bekezdés a) pontja szerinti feladat-végrehajtásban, valamint az egészségügyről szóló törvény szerinti egészségügyi válsághelyzet kezelésében személyesen részt vevő, a Magyar Honvédségnél foglalkoztatott közalkalmazott által a tömeges bevándorlás okozta válsághelyzet, a katasztrófa elleni védekezés vagy az egészségügyi válsághelyzet időtartama alatt teljesített munkavégzés tekintetében a felek az Mt. 99. § (2) bekezdés b) pontjától, 109. § (1) bekezdésétől és 135. § (3) bekezdésétől írásbeli megállapodással eltérhetnek, azzal, hogy a megállapodás alapján teljesített munkaidő
+(5)
 
-- a) nem vehető figyelembe a rendkívüli munkaidő éves felső korlátja szempontjából,
-- b) időtartamát a más munkaköri feladatokhoz kapcsolódó rendkívüli munkavégzéstől elkülönítve tartja nyilván a munkáltató, és
-- c) időtartama a rendes munkaidőn és a más munkaköri feladatokhoz kapcsolódó rendkívüli munkaidőn felül naptári évenként legfeljebb 832 óra lehet.
-
-(6) A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 36. § (1) bekezdés h) pontja vagy (2) bekezdés a) pontja szerinti feladat-végrehajtásban, valamint az egészségügyről szóló törvény szerinti egészségügyi válsághelyzet kezelésében személyesen részt vevő, a Magyar Honvédségnél foglalkoztatott közalkalmazott által a tömeges bevándorlás okozta válsághelyzet, a katasztrófa elleni védekezés vagy az egészségügyi válsághelyzet időtartama alatt teljesített munkavégzés tekintetében az Mt. 56. § (1) bekezdésétől eltérően miniszteri rendelet határozza meg a vétkes kötelezettségszegés esetén alkalmazható hátrányos jogkövetkezményeket.
+(6)
 
 45–51. §
 
@@ -1435,7 +1431,7 @@ magasabb fizetési fokozatba kell besorolni.
 - b) a honvédelemért, az idegenrendészetért és menekültügyért, az igazságügyért felelős miniszter, hogy a közalkalmazotti jogviszony létesítésének feltételeként magyar állampolgárság feltételét,
 - c) a honvédelemért, az idegenrendészetért és menekültügyért felelős miniszter, az igazságügyért felelős miniszter, hogy a közalkalmazotti jogviszony létesítésének feltételeként a munkakör ellátásához szükséges magyar nyelvtudás feltételét,
 - d) a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a gyermek- és ifjúságpolitikáért, a gyermekek és az ifjúság védelméért, szociálpolitikáért, az államháztartásért, valamint a honvédelemért felelős miniszter, hogy a pályázat hivatalos lapban vagy egyéb módon való közzétételét, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,
-- e) a honvédelemért felelős miniszter, hogy a Magyar Honvédségnél foglalkoztatott közalkalmazottak részére, a honvédségi feladatok ellátásával összefüggésben biztosítható napi átalány illetménypótlékra való jogosultsággal kapcsolatos szabályokat,
+- e)
 - f) a honvédelemért, valamint a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a gyermek- és ifjúságpolitikáért, a gyermekek és az ifjúság védelméért, szociálpolitikáért felelős miniszter, hogy munkakörönként azt a szakmai gyakorlatot, amelynek megléte esetén a 21/A. § (1) bekezdés szerinti próbaidőt nem lehet megállapítani,
 - g) az idegenrendészetért és menekültügyért, az igazságügyért, a foglalkoztatáspolitikáért, a szakképzésért, a felnőttképzésért, a gyermek- és ifjúságpolitikáért, a gyermekek és az ifjúság védelméért, szociálpolitikáért felelős miniszter, hogy a gyakornoki idő kikötése alól mentes munkaköröket,
 - h) a honvédelemért felelős miniszter, hogy a gyakornoki követelmények ágazati szakmai tartalmát,
@@ -1450,7 +1446,7 @@ magasabb fizetési fokozatba kell besorolni.
 - q)
 - r)
 - s)
-- t) a honvédelemért felelős miniszter, hogy a 44/A. § (6) bekezdése szerinti hátrányos jogkövetkezményeket,
+- t)
 - u) az adópolitikáért felelős miniszter, hogy – az egészségügyért felelős miniszterrel egyetértésben – a munkaköri alkalmassági vizsgálatra és az alkalmasság véleményezésére vonatkozó szabályokat, valamint az eljárás rendjét,
 - v)
 
@@ -1458,15 +1454,7 @@ az általa irányított, a (2) és (3) bekezdés alá nem tartozó költségvet�
 
 (6) Amennyiben a munkáltató több, a (2)–(5) bekezdés hatálya alá tartozó intézmény alaptevékenységébe tartozó tevékenységet is ellát, az egyes tevékenységek körébe tartozó munkakört ellátó közalkalmazottra a tevékenységre vonatkozó végrehajtási rendelet szabályait kell alkalmazni.
 
-(7) Felhatalmazást kap a honvédelemért felelős miniszter, hogy
-
-- a) az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, közoktatási, kutatási, valamint közművelődési és közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg
-  - aa) a közalkalmazottak illetményének folyósítására, illetve jutalmazására vonatkozó részletes szabályokat,
-  - ab) a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költségtérítések, kedvezmények, támogatások rendszerét és feltételeit, valamint az üdültetés rendjét, a szociális és kegyeleti gondoskodással kapcsolatos feladatokra vonatkozó részletes szabályokat, a közalkalmazottak étkezési, illetve lakhatási támogatásának részletes szabályait,
-  - ac) a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő közalkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat;
-- b) az ágazati irányítása, illetve felügyelete alá tartozó közművelődési, közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg a formaruha-juttatást;
-- c) az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, köznevelési, kutatási, valamint közművelődési és közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg a honvédségi feladatok ellátásával összefüggésben biztosítható napi átalány illetménypótlékra való jogosultsággal kapcsolatos szabályokat;
-- d) az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, köznevelési, kutatási, valamint közművelődési és közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg a 44/A. § (6) bekezdése szerinti hátrányos jogkövetkezményt.
+(7)
 
 (8) Felhatalmazást kap a büntetés-végrehajtásért és a rendészetért felelős miniszter, hogy az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, felsőoktatási, oktatási, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg
 

@@ -10,7 +10,7 @@ Magyarország a honvédelmi szervezetektől alkotmányos kötelezettségeik telj
 
 1. § (1) A törvény hatálya
 
-- a) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 80. § 13. pontja szerinti honvédelmi szervezetre – ide nem értve a honvédelemért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztériumot –,
+- a) a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény (a továbbiakban: Hvt.) 3. § 14. pontja szerinti honvédelmi szervezetre – ide nem értve a honvédelemért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztériumot –,
 - b) a miniszter által az állam nevében alapított szakképző intézményre [a továbbiakban az a)–b) pont együtt: honvédelmi szervezet], és
 - c) a honvédelmi szervezeteknél jogviszonyban álló honvédelmi alkalmazottakra
 
@@ -28,7 +28,7 @@ terjed ki.
 
 (4) A honvédelmi alkalmazott önkéntes tartalékos jogviszonyt nem létesíthet.
 
-(5) A honvédek jogállásról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 117. § (3) bekezdése alapján illetmény nélküli szabadságon lévő, ez idő alatt a Hvt. 40. § (4) bekezdése szerint honvédelmi alkalmazotti jogviszonyt létesítő hivatásos vagy szerződéses katona a (2) bekezdésben meghatározott többletkötelezettséget nem vállalhat.
+(5) A honvédek jogállásról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 117. § (3) bekezdése alapján illetmény nélküli szabadságon lévő, ez idő alatt a Hvt. 70. § (4) bekezdése szerint honvédelmi alkalmazotti jogviszonyt létesítő hivatásos vagy szerződéses katona a (2) bekezdésben meghatározott többletkötelezettséget nem vállalhat.
 
 4. § (1) A honvédelmi alkalmazotti jogviszonyra a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) szabályait az e törvényben foglalt eltérésekkel kell alkalmazni.
 
@@ -378,7 +378,7 @@ hatálya alá tartozó munkáltatók között,
 
 (4) A honvédelmi alkalmazotti jogviszony (3) bekezdésben meghatározott azonnali hatályú megszüntetését írásban indokolni kell.
 
-(5) A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény IX. Fejezetében szabályozott különleges jogrend, illetve veszélyhelyzet kihirdetése esetén a honvédelmi alkalmazott nem gyakorolhatja a (2) bekezdés c) és d) pontjában foglalt megszüntetési okokat.
+(5) A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény XII. Fejezetében szabályozott különleges jogrend, illetve veszélyhelyzet kihirdetése esetén a honvédelmi alkalmazott nem gyakorolhatja a (2) bekezdés c) és d) pontjában foglalt megszüntetési okokat.
 
 (6) Az e törvény hatálya alá tartozó munkáltatók között az áthelyezés háromoldalú megállapodással történik.
 
@@ -786,13 +786,13 @@ minősíteni kell.
 
 (5c) Az (5b) bekezdés szerinti esetben a rendelkezésre állási és a munkavégzés alóli mentesülés csak akkor engedélyezhető, ha a munkáltatói jogkört gyakorló vagy az általa kijelölt személy a honvédelmi alkalmazott éves szabadságának időarányos részét – az Mt. 122. § (1)–(3) bekezdésében foglaltak szerint – már kiadta. Ebben az esetben az Mt. 122. § (4) bekezdése nem alkalmazható.
 
-(6) A Hvt. 36. § (1) bekezdés h) pontja vagy (2) bekezdés a) pontja szerinti feladat-végrehajtásban, valamint az egészségügyről szóló törvény szerinti egészségügyi válsághelyzet kezelésében személyesen részt vevő honvédelmi alkalmazott által a tömeges bevándorlás okozta válsághelyzet, a katasztrófa elleni védekezés, az egészségügyi válsághelyzet vagy a honvédelmi válsághelyzet időtartama alatt teljesített munkavégzés tekintetében a felek az Mt. 99. § (2) bekezdés b) pontjától, 109. § (1) bekezdésétől és 135. § (3) bekezdésétől írásbeli megállapodással eltérhetnek, azzal, hogy a megállapodás alapján teljesített munkaidő
+(6) A Hvt. 59. § (1) bekezdés i) pontja vagy (2) bekezdés a) pontja szerinti feladat-végrehajtásban, valamint az egészségügyről szóló törvény szerinti egészségügyi válsághelyzet kezelésében személyesen részt vevő honvédelmi alkalmazott által a tömeges bevándorlás okozta válsághelyzet, a katasztrófa elleni védekezés, az egészségügyi válsághelyzet vagy a honvédelmi válsághelyzet időtartama alatt teljesített munkavégzés tekintetében a felek az Mt. 99. § (2) bekezdés b) pontjától, 109. § (1) bekezdésétől és 135. § (3) bekezdésétől írásbeli megállapodással eltérhetnek, azzal, hogy a megállapodás alapján teljesített munkaidő
 
 - a) nem vehető figyelembe a rendkívüli munkaidő éves felső korlátja szempontjából,
 - b) időtartamát a más munkaköri feladatokhoz kapcsolódó rendkívüli munkavégzéstől elkülönítve tartja nyilván a munkáltató, és
 - c) időtartama a rendes munkaidőn és a más munkaköri feladatokhoz kapcsolódó rendkívüli munkaidőn felül naptári évenként legfeljebb 832 óra lehet.
 
-(7) A Hvt. 36. § (1) bekezdés h) pontja vagy (2) bekezdés a) pontja szerinti feladat-végrehajtásban, valamint az egészségügyről szóló törvény szerinti egészségügyi válsághelyzet kezelésében személyesen részt vevő honvédelmi alkalmazott által a tömeges bevándorlás okozta válsághelyzet, a katasztrófa elleni védekezés, az egészségügyi válsághelyzet vagy a honvédelmi válsághelyzet időtartama alatti munkavégzés tekintetében az Mt. 56. § (1) bekezdésétől eltérően miniszteri rendelet határozza meg a vétkes kötelezettségszegés esetén alkalmazható hátrányos jogkövetkezményeket.
+(7) A Hvt. 59. § (1) bekezdés i) pontja vagy (2) bekezdés a) pontja szerinti feladat-végrehajtásban, valamint az egészségügyről szóló törvény szerinti egészségügyi válsághelyzet kezelésében személyesen részt vevő honvédelmi alkalmazott által a tömeges bevándorlás okozta válsághelyzet, a katasztrófa elleni védekezés, az egészségügyi válsághelyzet vagy a honvédelmi válsághelyzet időtartama alatti munkavégzés tekintetében az Mt. 56. § (1) bekezdésétől eltérően miniszteri rendelet határozza meg a vétkes kötelezettségszegés esetén alkalmazható hátrányos jogkövetkezményeket.
 
 #### 9. A munkaidő és pihenőidő
 
@@ -1221,21 +1221,21 @@ vonatkozó szabályok szerint kell figyelembe venni.
 
 83. § (1) E törvény alkalmazásakor honvédelmi alkalmazotti jogviszonyban töltött időnek kell tekinteni
 
-- a) a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó munkáltatónál munkaviszonyban, közalkalmazotti jogviszonyban, valamint ösztöndíjas foglalkoztatási jogviszonyban eltöltött időt,
-- b) a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó szervnél munkaviszonyban, kormányzati szolgálati jogviszonyban, közszolgálati jogviszonyban, valamint ösztöndíjas foglalkoztatási jogviszonyban töltött időt,
-- c) a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény, valamint 2010. július 6. és 2012. február 29. között a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.) hatálya alá tartozó szervnél munkaviszonyban, kormánytisztviselői jogviszonyban, valamint ösztöndíjas foglalkoztatási jogviszonyban töltött időt,
-- d) a Hjt. szerinti szolgálati viszonyban töltött időt, kivéve az önkéntes tartalékos szolgálati viszony rendelkezésre állási időszakát, valamint a tisztjelölti és altisztjelölti szolgálati viszonyban eltöltött időt,
-- e) a d) ponttól eltérő szolgálati jogviszony időtartamát,
+- a) a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó munkáltatónál munkaviszonyban, közalkalmazotti jogviszonyban, valamint ösztöndíjas foglalkoztatási jogviszonyban,
+- b) a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó szervnél munkaviszonyban, kormányzati szolgálati jogviszonyban, közszolgálati jogviszonyban, valamint ösztöndíjas foglalkoztatási jogviszonyban,
+- c) a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény, valamint 2010. július 6. és 2012. február 29. között a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.) hatálya alá tartozó szervnél munkaviszonyban, kormánytisztviselői jogviszonyban, valamint ösztöndíjas foglalkoztatási jogviszonyban,
+- d) a Hjt. szerinti szolgálati viszonyban töltött időt, kivéve az önkéntes tartalékos szolgálati viszony rendelkezésre állási időszakát, valamint a tisztjelölti és altisztjelölti szolgálati viszonyban,
+- e) a d) ponttól eltérő szolgálati jogviszonyban,
 - f) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban,
 - g) a hivatásos nevelőszülői jogviszonyban és a nevelőszülői foglalkoztatási jogviszonyban,
 - h) a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény hatálya alá tartozó szervnél munkaviszonyban, köztisztviselői jogviszonyban, közszolgálati jogviszonyban, valamint ösztöndíjas foglalkoztatási jogviszonyban,
 - i) az állami vezetői szolgálati jogviszonyban,
 - j) az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál állami szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, illetve munkaviszonyban,
 - k) a kormányzati igazgatásról szóló törvény hatálya alá tartozó munkáltatónál kormányzati szolgálati, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, valamint munkaviszonyban,
-- l) a honvédelmi szervezetnél munkaviszonyban,
-- m) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban
-- n) az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) és a végrehajtására kiadott rendelet szerinti egészségügyi szolgálati jogviszonyban
-- n) a Hvt. 2019. január 1. és 2019. december 31. között hatályos 1. mellékletében meghatározott gazdasági társaságnál, annak jogelődjénél vagy jogutódjánál munkaviszonyban
+- l) a honvédelmi szervezetnél, a rendvédelmi szervnél, illetve az állami adó- és vámhatóságnál munkaviszonyban,
+- m) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban,
+- n) az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) és a végrehajtására kiadott rendelet szerinti egészségügyi szolgálati jogviszonyban,
+- o) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény. 2019. január 1. és 2019. december 31. között hatályos 1. mellékletében meghatározott gazdasági társaságnál, annak jogelődjénél vagy jogutódjánál munkaviszonyban
 
 töltött időt.
 
@@ -1303,7 +1303,7 @@ eltöltött időt.
 - b) egészségügyi tevékenység: az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § y) pontjában meghatározott tevékenység,
 - c) magasabb vezető:
   - ca) a honvédelmi egészségügyi szolgáltató vezetője, a honvédelmi egészségügyi szolgáltató alapító okiratában meghatározott, közfinanszírozott területi ellátási kötelezettséggel rendelkező szervezeti egység (a továbbiakban: honvédelmi egészségügyi szolgáltató szervezeti egység) vezetője, valamint
-  - cb) a honvédelmi egészségügyi szolgáltató vezetőjének a helyettese és gazdasági helyettese, a honvédelmi egészségügyi szolgáltató gazdasági igazgatója, a honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjének a Hvt. 46/A. § (2) bekezdése szerinti helyettese (a továbbiakban: felügyeleti helyettes), a honvédelmi egészségügyi szolgáltató szervezeti egység orvosigazgatója (szakmai főigazgató-helyettese), ápolási igazgatója,
+  - cb) a honvédelmi egészségügyi szolgáltató vezetőjének a helyettese és gazdasági helyettese, a honvédelmi egészségügyi szolgáltató gazdasági igazgatója, a honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjének a Hvt. 16. § (3) bekezdése szerinti helyettese (a továbbiakban: felügyeleti helyettes), a honvédelmi egészségügyi szolgáltató szervezeti egység orvosigazgatója (szakmai főigazgató-helyettese), ápolási igazgatója,
 - d) vezető: a c) pontban foglaltakat ide nem értve a honvédelmi egészségügyi szolgáltató szervezeti elemének vezetője és annak helyettese, valamint a főgyógyszerész.
 
 (2) Az egészségügyi honvédelmi alkalmazott tekintetében e törvényt az e fejezetben foglalt eltérésekkel, megfelelően kell alkalmazni.
@@ -1357,7 +1357,7 @@ jogosult.
 
 (4) A miniszter – az Eszjtv. hatálya alá tartozó vezetőkre vonatkozó feltételekre és mértékre tekintettel – megállapíthatja a 89/A. § (1) bekezdés d) pontjában meghatározott vezető illetményén felül járó vezetői juttatása feltételeit és mértékét.
 
-(5) Az (1) bekezdés szerinti egészségügyi honvédelmi alkalmazott honvédelmi alkalmazotti jogviszonyban töltött idejét és fizetési fokozatát a 83. § (1) és (2) bekezdése szerint kell megállapítani, továbbá be kell számítani a szabadfoglalkozás keretében, az egyéni egészségügyi vállalkozóként, az egyéni cég tagjaként, a társas vállalkozás tagjaként, az egyházi személyként vagy vallási egyesület vallásos szertartást hivatásszerűen végző tagjaként töltött idejét, és a PhD-fokozat megszerzése esetén a doktori képzésben töltött időt, ha ezen időtartam korábban nem került beszámításra. Ha a honvédelmi alkalmazotti jogviszonyban töltött idő számításánál az azonos naptári időszakra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.
+(5) Az (1) bekezdés szerinti egészségügyi honvédelmi alkalmazott honvédelmi alkalmazotti jogviszonyban töltött idejét és fizetési fokozatát a 83. § (1) és (2) bekezdése szerint kell megállapítani, továbbá be kell számítani a szabadfoglalkozás keretében, az egyéni egészségügyi vállalkozóként, az egyéni cég tagjaként, a társas vállalkozás tagjaként, az egyházi személyként vagy vallási egyesület vallásos szertartást hivatásszerűen végző tagjaként, az Eszjtv. hatálya alá nem tartozó magyarországi vagy külföldi egészségügyi szolgáltatónál vagy külföldi szakirányú végzettséggel munkavégzésre irányuló jogviszonyban töltött idejét, és a PhD-fokozat megszerzése esetén a doktori képzésben töltött időt, ha ezen időtartam korábban nem került beszámításra. Ha a honvédelmi alkalmazotti jogviszonyban töltött idő számításánál az azonos naptári időszakra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.
 
 (6) A 66. § (1) bekezdéstől eltérően az (1) bekezdés szerinti egészségügyi honvédelmi alkalmazott a honvédelmi alkalmazotti jogviszonyban töltött idő alapján az Eszjtv. 1. melléklete szerinti – az adott fizetési fokozathoz tartozó – időtartam (a továbbiakban: várakozási idő) szerint lép eggyel magasabb fizetési fokozatba. Az (1) bekezdés szerinti egészségügyi honvédelmi alkalmazott eggyel magasabb fizetési fokozatba lép a várakozási idő elteltét követő hónap első napjától. A magasabb fizetési fokozat elérésével a várakozási idő újrakezdődik.
 
@@ -1452,9 +1452,9 @@ kivéve, ha hozzájárul a kirendeléséhez.
 - f) a személyzeti, munkaügyi és illetmény-számfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül, és
 - g) az adóhatóság, a nyugdíjbiztosítási igazgatási szerv és az egészségbiztosítási szerv, az üzemi baleseteket kivizsgáló szerv és a munkavédelmi szerv.
 
-### VI/A. Fejezet — A HVT. 36. § (1) BEKEZDÉS K) PONTJA SZERINTI FELADATBAN RÉSZT VEVŐ HONVÉDELMI ALKALMAZOTTAKRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
+### VI/A. Fejezet — A HVT. 59. § (1) BEKEZDÉS M) PONTJA SZERINTI FELADATBAN RÉSZT VEVŐ HONVÉDELMI ALKALMAZOTTAKRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
-92/A. § Ha a Magyar Honvédség a Kormány döntése alapján a Hvt. 36. § (1) bekezdés k) pontja szerinti feladatban részt vesz, a Kormány rendeletében az e Fejezetben foglalt különös szabályok alkalmazását rendelheti el a honvédelmi alkalmazottak vonatkozásában.
+92/A. § Ha a Magyar Honvédség a Kormány döntése alapján a Hvt. 59. § (1) bekezdés m) pontja szerinti feladatban részt vesz, a Kormány rendeletében az e Fejezetben foglalt különös szabályok alkalmazását rendelheti el a honvédelmi alkalmazottak vonatkozásában.
 
 92/B. § (1) A honvédelmi alkalmazotti jogviszony esetében az Mt. 104. § (1) bekezdésétől eltérően napi pihenőidőként legalább 8 órát kell biztosítani. A napi pihenőidőbe a lakásról a munkavégzési helyre és az onnan való visszautazás időtartam is beszámítható, de a pihenőidő időtartama ebben az esetben sem lehet – a lakásról a szolgálatteljesítési helyre és az onnan való visszautazás időtartamát levonva – kevesebb hat óra időtartamnál.
 

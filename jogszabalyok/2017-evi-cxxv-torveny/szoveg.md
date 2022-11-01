@@ -36,6 +36,8 @@ A közigazgatási hatósági eljárás során megállapított jogszabálysérté
 
 (3) A közigazgatási szankció alkalmazására jogosult hatóság az eljárása során a Nyilvántartásnak az adott eljárás ügyfelére vonatkozó minden adatába betekinthet.
 
+3/A. § A Kormány összehangolt védelmi tevékenység elrendelése esetén rendeletében előírhatja, hogy a Nyilvántartás működését akadályozó körülmény fennállta esetén, annak időtartama alatt, a 3. §-ban foglalt rendelkezéseket nem kell alkalmazni.
+
 4. § (1) A Nyilvántartás döntésenként tartalmazza
 
 - a) az ügyfél nevét,
@@ -192,6 +194,8 @@ nem alkalmazható a 2. § (3) bekezdés c) és d) pontjában meghatározott köz
 15. § (1) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a nyilvántartó szervet.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg az e törvényben meghatározott közigazgatási szankciók alkalmazására, valamint a Nyilvántartás vezetésére vonatkozó eljárási szabályokat.
+
+(3) Felhatalmazást kap a Kormány, hogy rendeletben a 3/A. § szerinti intézkedéseket összehangolt védelmi tevékenység elrendelése esetén bevezesse.
 
 16. § (1)
 

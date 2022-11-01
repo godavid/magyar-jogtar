@@ -2,7 +2,7 @@
 
 az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről
 
-1. §
+#### 1. §
 
 2. § (1) E törvény alkalmazásában
 
@@ -11,9 +11,11 @@ az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről
 
 (2) E törvény szempontjából a sportszervezetekre vonatkozó rendelkezéseket kell alkalmazni azokra a társadalmi szervezetekre, illetőleg az általuk létrehozott alapítványokra is, amelyek sportcélú ingatlant legalább az 1990. évi LXX. törvény hatálybalépése óta fenntartanak.
 
-3–4. §
+#### 3. §
 
-4/A. §
+#### 4. §
+
+#### 4/A. §
 
 5. § (1)–(3)
 
@@ -28,7 +30,7 @@ az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről
 
 (6)
 
-(7) Kizárólag sportcélú használatra létrehozott repülőtér esetében az (5) bekezdés szerinti méltányosság gyakorlásának feltétele a közlekedésért felelős miniszter, valamint a honvédelemért felelős miniszter feladat- és hatáskörük figyelembevételével gyakorolt egyetértése. A honvédelemért felelős miniszter egyetértési jogát a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény szerinti honvédelmi érdekek figyelembevételével gyakorolja.
+(7) Kizárólag sportcélú használatra létrehozott repülőtér esetében az (5) bekezdés szerinti méltányosság gyakorlásának feltétele a közlekedésért felelős miniszter, valamint a honvédelemért felelős miniszter feladat- és hatáskörük figyelembevételével gyakorolt egyetértése. A honvédelemért felelős miniszter egyetértési jogát a honvédelemről szóló törvény szerinti honvédelmi érdekek figyelembevételével gyakorolja.
 
 (8) Az (5) bekezdés szerinti méltányosság gyakorlásakor a természet védelméről szóló törvény rendelkezéseit figyelembe kell venni.
 
@@ -53,7 +55,7 @@ az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről
 
 (17) A méltányossági eljárásban – a (10) és (12) bekezdésben foglaltak kivételével – hiánypótlásra felhívásnak legfeljebb két alkalommal van helye.
 
-6. §
+#### 6. §
 
 7. § (1) Az e törvény alapján átadott sportcélú ingatlanok működtetését, a sportigazgatási szerv jogszabályban meghatározottak szerint ellenőrzi. Jogsértés észlelése esetén a sportcélú ingatlan tulajdonosát határidő tűzésével felhívja a jogszerű állapot helyreállítására, a határidő eredménytelen lejártát követően kezdeményezi a szerződés felmondását a Magyar Nemzeti Vagyonkezelő Zrt.-nél (a továbbiakban: MNV Zrt.).
 
@@ -65,15 +67,17 @@ az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről
 
 (2) A sportcélú ingatlan megszerzéséhez az (1) bekezdésben előírt feltétel vállalását az árverés vagy az árverésen kívüli eladás előtt, illetve a nyilvános pályázatra benyújtott ajánlatban az MNV Zrt.-vel kötött előzetes megállapodással kell igazolni.
 
-8. §
+#### 8. §
 
 9. § (1) Az e törvény alapján történő tulajdonváltozás – a pályázat útján történő értékesítés kivételével – mentes a vagyonátruházási és az eljárási illetékek alól.
 
 (2) A törvény hatálya alá tartozó repülőterek tulajdonjogának átruházása során a légiközlekedésről szóló 1995. évi XCVII. törvény 40. §-ának rendelkezéseit nem kell alkalmazni.
 
-10. §
+#### 10. §
 
-11–12. §
+#### 11. §
+
+#### 12. §
 
 13. § E törvény a kihirdetését követő 30. napon lép hatályba.
 

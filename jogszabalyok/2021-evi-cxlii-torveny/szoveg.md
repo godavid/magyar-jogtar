@@ -78,19 +78,39 @@ a határok, a vízumügy, a rendőrségi és igazságügyi együttműködés, va
 
 30. §
 
-#### 9.
+#### 9. A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény módosítása
 
-31. §
+31. § A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 15. §-a helyébe a következő rendelkezés lép:
 
-32. §
+„15. § Különleges jogrendben, valamint a honvédelemről szóló törvény szerinti váratlan támadás (a továbbiakban: váratlan támadás) esetén az Országgyűlés és a Kormány, valamint törvényben meghatározott személyek és szervek – a helyzetnek megfelelő szükséges mértékben – kötelezhetik a médiaszolgáltatót a fennálló állapottal, helyzettel kapcsolatos közérdekű közleményeknek az általuk meghatározott formában és időben történő ingyenes közzétételére, illetve egyes közlemények, műsorszámok közzétételét megtilthatják. A közzététel feltételeinek biztosítása a Médiaszolgáltatás-támogató és Vagyonkezelő Alap (a továbbiakban: Alap) feladata. A közzétételkor a megrendelőt egyértelműen meg kell nevezni.”
 
-33. §
+32. § A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 43. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
 
-34. §
+(Nem lehet lineáris médiaszolgáltatásra jogosult szervezet:)
 
-#### 10.
+„b) állami és közigazgatási szerv, kivéve, ha különleges jogrend esetén alkalmazandó törvény másként rendelkezik,”
 
-35. §
+33. § (1) A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 101. § (1) bekezdés i) pontja helyébe a következő rendelkezés lép:
+
+(A közszolgálati médiaszolgáltató a 83. §-ban meghatározott célok érvényre juttatásán túl az alábbi hírügynökségi feladatokat látja el:)
+
+„i) különleges jogrendben törvényben meghatározott feladatokat végez,”
+
+(2) A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 101. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Különleges jogrendben, valamint váratlan támadás esetén az Országgyűlés és a Kormány, illetve törvényben meghatározott személyek és szervek – a helyzetnek megfelelő szükséges mértékben – a 32. § (6) bekezdése szerint kötelezhetik a közszolgálati médiaszolgáltatót – hírügynökségi tevékenysége körében – a tájékoztatásra.”
+
+34. § A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 182. § b) pont bd) alpontja helyébe a következő rendelkezés lép:
+
+(A Médiatanács hatósági hatásköreiben, a 132. §-sal összhangban
+
+hatósági felügyeletet gyakorol az e törvényben foglalt alábbi rendelkezések tekintetében:)
+
+„bd) a különleges jogrendre, valamint a váratlan támadásra vonatkozó, médiaszolgáltatást érintő rendelkezések,”
+
+#### 10. A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény módosítása
+
+35. § A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 165/H. § (4) bekezdés c) pontjában a „rendkívüli állapot” szövegrész helyébe a „hadiállapot” szöveg lép.
 
 #### 11.
 
@@ -108,7 +128,7 @@ a határok, a vízumügy, a rendőrségi és igazságügyi együttműködés, va
 
 (2) A 4. alcím 2022. június 7-én lép hatályba.
 
-(3) Az 1. alcím, a 2. alcím, az 5. alcím, a 21–24. §, a 7. alcím, a 8. alcím és a 11. alcím 2023. január 1-jén lép hatályba.
+(3)
 
 (4) A 9. alcím és a 10. alcím 2022. november 1-jén lép hatályba.
 

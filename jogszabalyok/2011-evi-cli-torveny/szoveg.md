@@ -57,13 +57,11 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 11. § (1) Az Alkotmánybíróság tagja a megválasztását követő harminc napon belül vagyonnyilatkozatot tesz. A vagyonnyilatkozatra az országgyűlési képviselők vagyonnyilatkozatára vonatkozó szabályokat – az e törvényben meghatározott eltérésekkel – kell megfelelően alkalmazni.
 
-(2)
+(2) Az Alkotmánybíróság tagja a vagyonnyilatkozatához csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek (a továbbiakban együtt: családtag) az Alkotmánybíróság tagja vagyonnyilatkozatával azonos tartalmú vagyonnyilatkozatát.
 
-(3) Az Alkotmánybíróság tagja vagyonnyilatkozatának nyilvános, oldalhű másolatát a főtitkár az Alkotmánybíróság Hivatalának honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a honlapról az Alkotmánybíróság tagja megbízatásának megszűnését követő egy év elteltével távolítható el.
+(3) A családtag vagyonnyilatkozata kivételével a vagyonnyilatkozat nyilvános, oldalhű másolatát – a családtag személyes adatai kivételével – a főtitkár az Alkotmánybíróság Hivatalának honlapján haladéktalanul közzéteszi. A vagyonnyilatkozat a honlapról az Alkotmánybíróság tagja megbízatásának megszűnését követő egy év elteltével távolítható el.
 
-(4) A vagyonnyilatkozatokat a főtitkár kezeli.
-
-(5) A vagyonnyilatkozatban feltüntetett adatok tekintetében bekövetkezett változást a főtitkárnak kell bejelenteni.
+(4) A vagyonnyilatkozatokat a főtitkár kezeli. A főtitkár az Alkotmánybíróság volt tagjának, valamint családtagjának vagyonnyilatkozatát az Alkotmánybíróság tagja megbízatásának a megszűnését követő egy évig őrzi.
 
 12. § A 10. §-ban meghatározott összeférhetetlenségi ok esetén az összeférhetetlenséget megállapító alkotmánybírósági határozat meghozatalának időpontjától az összeférhetetlenség megszüntetéséig, valamint a 11. §-ban meghatározott vagyonnyilatkozat-tétel elmulasztása esetén annak teljesítéséig az Alkotmánybíróság tagja a tisztségéből eredő jogkörét nem gyakorolhatja, és díjazásban, valamint juttatásban nem részesülhet.
 
@@ -188,7 +186,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 (5) Az Alkotmánybíróság volt elnökét – ha egyúttal az Alkotmánybíróságban betöltött tagsága is megszűnt – a megbízatása megszűnését követően további két évig kétfős titkárság alkalmazása illeti meg.
 
-(6)
+(6) Az Alkotmánybíróság volt elnöke az ebben a §-ban meghatározott juttatásokra mindaddig nem jogosult, amíg a megbízatásának megszűnését követően vagyonnyilatkozat-tételi kötelezettségének nem tesz eleget.
 
 (7) Az Alkotmánybíróság volt elnökét nem illetik meg az ebben a §-ban meghatározott jogosultságok és juttatások, ha megbízatása a 15. § (2) bekezdés c) vagy f) pontja alapján szűnt meg.
 
@@ -762,5 +760,11 @@ indokolt, és a bíróság az 53. § (4) bekezdése alapján a döntés végreha
 (2) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépése napján a főtitkárnál lévő, az Alkotmánybíróság tagjával közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát a főtitkár 2023. augusztus 1. napjáig őrzi.
 
 (3) Az Országgyűlésről szóló 2012. évi XXXVI. törvény és egyes kapcsolódó törvények módosításáról szóló 2022. évi XVIII. törvény hatálybalépésekor folyamatban lévő, vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulásakor hatályos szabályokat kell alkalmazni.
+
+74/C. § (1) Az Alkotmánybíróság tagja az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvénnyel megállapított rendelkezéseknek megfelelően először – 2022. december 31. napján fennálló állapot szerint − 2023. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő családtagjának vagyonnyilatkozatát is.
+
+(2) Az Alkotmánybíróság tagja 2022. december 31-ig vagyonnyilatkozat-tételi kötelezettségének a 2022. október 31-én hatályos rendelkezések szerint tesz eleget.
+
+(3) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
 75. § Ahol e törvény közjogi szervezetszabályozó eszközt említ, azon az állami irányítás egyéb jogi eszközét, ahol törvényt említ, azon a törvényerejű rendeletet is érteni kell.

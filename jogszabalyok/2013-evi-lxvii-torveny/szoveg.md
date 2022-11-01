@@ -148,7 +148,7 @@ feladatokat lát el.
 
 9. § (1) Az útdíjfizetési és bevallási kötelezettség nem terheli:
 
-- a) a Magyar Honvédséget, a Katonai Nemzetbiztonsági Szolgálatot, továbbá a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény szerinti rendvédelmi szerveket és az Országgyűlési Őrséget az általuk üzemben tartott gépjárművek után,
+- a) a Magyar Honvédséget, a Katonai Nemzetbiztonsági Szolgálatot, továbbá a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi szerveket, a Nemzeti Adó- és Vámhivatalt és az Országgyűlési Őrséget az általuk üzemben tartott gépjárművek után,
 - b) a Magyarországon szolgálati céllal tartózkodó vagy átvonuló külföldi fegyveres erőket és a Magyarországon felállított nemzetközi katonai parancsnokságokat hivatali vagy szolgálati gépjárműveik után, valamint az egyéb szervezeteket a nemzetközi szerződés, nemzetközi egyezmény és viszonosság alapján mentességet élvező gépjárműveik után,
 - c) útdíjköteles elemi útszakasz kezelői feladatait ellátó,
   - ca) a koncessziós közúton végzett üzemeltetői feladata ellátása érdekében a koncessziós társaság vagy az általa üzemeltetői feladatokkal megbízott gazdasági társaság által üzemeltetett gépjárműveket,
