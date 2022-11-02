@@ -1443,33 +1443,15 @@ sarkalatosnak minősül.
 
 #### 46. Módosító és hatályon kívül helyező rendelkezések
 
-86. § A Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdése a következő 22. ponttal egészül ki:
+#### 86. §
 
-(A rendőrség az Alaptörvényben, az e törvényben és törvény felhatalmazása alapján más jogszabályban meghatározott bűnmegelőzési, bűnüldözési, államigazgatási és rendészeti feladatkörében:)
+#### 87. §
 
-„22. ellátja a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott feladatokat.”
+#### 88. §
 
-87. § (1) A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) 9. § b) pontja helyébe a következő rendelkezés lép:
+#### 89. §
 
-(A nemzetbiztonsági szolgálatok)
-
-„b) a nemzetbiztonsági érdek elsőbbségével ellátják a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti feladatokat;”
-
-(2) Az Nbtv. 44. § (2) bekezdésében a „Rendőrség, a Nemzeti Adó- és Vámhivatal, a bíróság, az ügyészség és a büntetés-végrehajtási szervek” szövegrész helyébe a „Rendőrség, a Nemzeti Adó- és Vámhivatal, a védelmi és biztonsági igazgatás központi szerve, a bíróság, az ügyészség és a büntetés-végrehajtási szervek” szöveg lép.
-
-88. § A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény „A központi államigazgatási szervekre vonatkozó közös szabályok” alcíme a következő 5/B. §-sal egészül ki:
-
-„5/B. § A központi államigazgatási szerv ellátja a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott feladatokat.”
-
-89. § A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 13. § (9) bekezdése a következő f) ponttal egészül ki:
-
-(A NAV végzi továbbá)
-
-„f) a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti és a különleges jogrendre történő felkészülés tekintetében jogszabályban meghatározott feladatokat.”
-
-90. § A köztársasági elnök jogállásáról és javadalmazásáról szóló 2011. évi CX. törvény 15. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A Hivatal ellátja a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott feladatokat és a köztársasági elnök feladatellátásának válsághelyzetben és különleges jogrend idején történő folyamatos biztosítására való felkészülés tekintetében együttműködik a védelmi és biztonsági igazgatás központi szervével, a rendőrséggel, a Magyar Honvédséggel, illetve a nemzetbiztonsági szolgálatokkal.”
+#### 90. §
 
 91. § (1)
 
@@ -1487,55 +1469,11 @@ sarkalatosnak minősül.
 
 (8)
 
-92. § (1) A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kat.) 5. § i) és j) pontja helyébe a következő rendelkezések lépnek:
+#### 92. §
 
-(A Kormány a katasztrófavédelem megszervezése és irányítása körében:)
+#### 93. §
 
-„i) a katasztrófák elleni védekezésért felelős miniszternek a honvédelemért felelős miniszter, valamint a védelmi és biztonsági igazgatás központi szervének vezetője véleményének kikérését követően kialakított javaslatára meghatározza a polgári védelmi szervezetek összlétszámát,
-
-j) a katasztrófák elleni védekezésért felelős miniszter útján, a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározottak szerint, továbbá a védelmi és biztonsági igazgatás központi szervével együttműködve irányítja a területi védelmi bizottságok katasztrófavédelmi feladatainak végrehajtását.”
-
-(2) A Kat. 8. § (2) bekezdése a következő k) ponttal egészül ki:
-
-(A katasztrófák elleni védekezésért felelős miniszter)
-
-„k) az irányítása alá tartozó szervezetek tekintetében biztosítja a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott feladatok végrehajtását, valamint gondoskodik az irányítása alá tartozó szervezetek hatékony együttműködéséről a védelmi és biztonsági feladatok ellátásban részt vevő szervek, szervezetek, különösen a védelmi és biztonsági igazgatás szervei tekintetében.”
-
-(3) A Kat. 22. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) A hivatásos katasztrófavédelmi szerv a feladatait a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényre is figyelemmel hajtja végre.”
-
-(4) A Kat. 86. §-a helyébe a következő rendelkezés lép:
-
-„86. § (1) Az 52. §, a 60–66. §, a 71. §, a 72. § és a 174. § (1) bekezdése az Alaptörvény XXXI. cikk (5) bekezdése alapján sarkalatosnak minősül.
-
-(2) A 71. § és a 72. § az Alaptörvény XXXI. cikk (6) bekezdése alapján sarkalatosnak minősül.”
-
-(5) Hatályát veszti a Kat.
-
-- a)
-- b) 5. § e) pontja,
-- c) 8–11. alcíme,
-- d) 19. § (1) és (4) bekezdése,
-- e) 20. §-a,
-- f) 20–24/A. alcíme,
-- g) 26. és 27. alcíme,
-- h) 35. alcíme, valamint
-- i) 80. § m) pont me)–mg) alpontja és 80. § r) pontja.
-
-93. § Az Országgyűlésről szóló 2012. évi XXXVI. törvény 126. §-ban a „rendőrséggel, a nemzetbiztonsági szolgálatokkal, a hivatásos katasztrófavédelmi szervekkel, a Magyar Honvédséggel, valamint a helyi önkormányzatokkal” szövegrész helyébe a „rendőrséggel, a nemzetbiztonsági szolgálatokkal, a hivatásos katasztrófavédelmi szervekkel, a Magyar Honvédséggel, a védelmi és biztonsági igazgatás központi szervével, valamint a helyi önkormányzatokkal” szöveg lép.
-
-94. § (1) A kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 48. § h) pontja helyébe a következő rendelkezés lép:
-
-(A kormányhivatal)
-
-„h) ellátja a védelmi és biztonsági tevékenységek összehangolásáról szóló törvényben meghatározott feladatokat, és”
-
-(2) A Kit. 48. §-a a következő i) ponttal egészül ki:
-
-(A kormányhivatal)
-
-„i) ellátja a jogszabályban meghatározott egyéb feladatait.”
+#### 94. §
 
 ### 1. melléklet a 2021. évi XCIII. törvényhez
 

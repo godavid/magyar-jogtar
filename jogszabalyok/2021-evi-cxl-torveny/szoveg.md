@@ -1603,22 +1603,17 @@ alapján sarkalatosnak minősül.
 
 #### 60. Hatályon kívül helyező és hatályba nem lépésről szóló rendelkezések
 
-114. § Hatályát veszti az Észak-atlanti Szerződés tagállamai közötti, fegyveres erőik jogállásáról szóló Megállapodáshoz történő csatlakozásról, a Megállapodás kihirdetéséről, valamint a Megállapodáshoz kapcsolódó egyes jogszabályok módosításáról szóló 1999. évi CXVII. törvény 15. §-a.
+#### 114. §
 
-115. § Hatályát veszti a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény.
+#### 115. §
 
-116. § Hatályát veszti a honvédek jogállásáról szóló 2012. évi CCV. törvény 41. § (3) és (4) bekezdése és 3. melléklete.
+#### 116. §
 
 117. § (1)
 
-(2) Hatályát veszti a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 36–39. §-a.
+(2)
 
-118. § Nem lép hatályba a Vbö.
-
-- a) 85. § (1) bekezdés g) pontja,
-- b) 91. § (1)–(6) bekezdése, 91. § (7) bekezdés a)–g) és j)–k) pontja, 91. § (8) bekezdés a)–h), m) és p)–s) pontja,
-- c) 91. § (7) bekezdés h), i) és l) pontja, 91. § (8) bekezdés i)–l), n), o) és t) pontja,
-- d) 92. § (5) bekezdés a) pontja.
+#### 118. §
 
 ### 1. melléklet a 2021. évi CXL. törvényhez
 

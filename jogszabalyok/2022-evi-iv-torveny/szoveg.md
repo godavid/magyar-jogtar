@@ -102,11 +102,7 @@ egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szól�
 
 32. § (1)
 
-(2) Az Nbtv. 8/A. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
-
-(A Nemzeti Információs Központ vizsgálja Magyarország biztonsági és bűnügyi helyzetét, amelynek keretében)
-
-„d) összehangolt védelmi tevékenység, valamint különleges jogrend kihirdetését megalapozó helyzet vagy esemény kezelésével összefüggésben, a nemzetbiztonságot érintően kiemelt kockázatot jelentő biztonsági fenyegetésekkel kapcsolatos kérdések vonatkozásában a hatáskörébe és illetékességébe tartozó szakmai koordinációs tevékenységet lát el az érintett szervezetek bevonásával, továbbá kockázatelemzést végez;”
+(2)
 
 (3)
 
@@ -792,9 +788,9 @@ egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szól�
 
 241. §
 
-#### 145. Az egyes belügyi tárgyú törvényeknek az Alaptörvény kilencedik módosításával, valamint a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvénnyel összefüggő módosításáról szóló 2021. évi CXXI. törvény egyes rendelkezéseinek hatályba nem lépése
+#### 145.
 
-242. § Nem lép hatályba az egyes belügyi tárgyú törvényeknek az Alaptörvény kilencedik módosításával, valamint a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvénnyel összefüggő módosításáról szóló 2021. évi CXXI. törvény 3. §-a.
+242. §
 
 #### 146.
 

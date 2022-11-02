@@ -1880,36 +1880,31 @@ kiadásával összefüggő feladatok ellátása céljából kezeli a 27. mellék
 
 #### 64. Módosító rendelkezések
 
-116. § A magyar állampolgárságról szóló 1993. évi LV. törvény 19/A. §-ában az „a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § m) pontjában és 30. § (1) bekezdés f) pontjában” szövegrész helyébe az „a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § m) pontjában és 20. § (1) bekezdés f) pontjában” szöveg lép.
+#### 116. §
 
-117. § A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 23/F. § (2a) bekezdésében az „a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § u) pontjában és 30. § (1) bekezdés d) pontjában” szövegrész helyébe az „a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § u) pontjában és 20. § (1) bekezdés d) pontjában” szöveg lép.
+#### 117. §
 
-118. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény 49/D. §-ában az „a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § p) pontjában és 30. § (1) bekezdés d) pontjában” szövegrész helyébe az „a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § p) pontjában és 20. § (1) bekezdés d) pontjában” szöveg lép.
+#### 118. §
 
-119. § Az Infotv. 3. § 10c. pontjában az „a honvédségi adatkezelésről szóló törvény, továbbá a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény” szövegrész helyébe az „a honvédelmi adatkezelésekről szóló törvény” szöveg lép.
+#### 119. §
 
-120. § A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény
+#### 120. §
 
-- a) 21/E. §-ában az „a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § d) és u) pontja és 30. § (1) bekezdés d) pontjában” szövegrész helyébe az „a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § d) és u) pontjában és 20. § (1) bekezdés d) pontjában” szöveg,
-- b) 23. § (6) bekezdés c) pontjában az „a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény” szövegrész helyébe az „a honvédelemről és a Magyar Honvédségről szóló törvény” szöveg
+#### 121. §
 
-lép.
+#### 122. §
 
-121. § A választási eljárásról szóló 2013. évi XXXVI. törvény 76. § (4) bekezdésében az „a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § l) pontja és 30. § (1) bekezdés e) pontjában” szövegrész helyébe az „a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § l) pontjában és 20. § (1) bekezdés e) pontjában” szöveg lép.
+#### 123. §
 
-122. § A gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló 2013. évi CLXXV. törvény 6/B. §-ában az „a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § f) pontja és 30. § (1) bekezdés d) pontjában” szövegrész helyébe az „a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § f) pontjában és 20. § (1) bekezdés d) pontjában” szöveg lép.
+#### 124. §
 
-123. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 275/B. §-ában az „a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § c) pontja és 30. § (1) bekezdés d) pontjában” szövegrész helyébe az „a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § c) pontjában és 20. § (1) bekezdés d) pontjában” szöveg lép.
-
-124. § A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 57. § (4) bekezdésében az „a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § u) pontja és 30. § (1) bekezdés h) pontjában” szövegrész helyébe az „a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § t) pontjában és 20. § (1) bekezdés h) pontjában” szöveg lép.
-
-125. § A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 219. § (3) bekezdésében az „a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény 29. § c) pontja és 30. § (1) bekezdés d) pontjában” szövegrész helyébe az „a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § c) pontjában és 20. § (1) bekezdés d) pontjában” szöveg lép.
+#### 125. §
 
 #### 65. Hatályon kívül helyező rendelkezések
 
-126. § Hatályát veszti a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény I–V. Fejezete, VII–XII. Fejezete és 1–23. melléklete.
+#### 126. §
 
-#### 127. §
+127. § Hatályát veszti a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény.
 
 #### 128. §
 
