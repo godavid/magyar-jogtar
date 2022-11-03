@@ -1904,7 +1904,7 @@ kiadásával összefüggő feladatok ellátása céljából kezeli a 27. mellék
 
 #### 126. §
 
-127. § Hatályát veszti a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló 2013. évi XCVII. törvény.
+#### 127. §
 
 #### 128. §
 
