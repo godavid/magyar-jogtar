@@ -54,7 +54,9 @@ egyes kulturális tárgyú és egyéb törvények módosításáról
 
 #### 19. §
 
-#### 20. §
+20. § Az MMA tv. 11. alcíme a következő 30/D. §-sal egészül ki:
+
+„30/D. § A Módtv2.-vel megállapított 7. § (9) bekezdését első alkalommal a 2022. évi Nemzet Művésze díjak odaítélését követően kell alkalmazni azzal, hogy ezen egyszeri alkalommal nemcsak a Nemzet Művésze díj 2022. évi díjazottja választható – az Alapszabályban rögzített feltételekkel és az Alapszabály szerinti egyszerűsített eljárásban – rendes taggá, hanem a Nemzet Művésze címet a 2022. évet megelőzően elnyert díjazott is.”
 
 #### 21. §
 
@@ -94,13 +96,13 @@ egyes kulturális tárgyú és egyéb törvények módosításáról
 
 #### 32. §
 
-#### 15.
+#### 15. A felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2020. évi CXLVIII. törvény módosítása
 
-#### 33. §
+33. § A felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2020. évi CXLVIII. törvény (a továbbiakban: 2020. évi CXLVIII. törvény) 30. § (3) bekezdésének az MMA tv. 7. § (9) bekezdését megállapító rendelkezése az „a (4)–(7) bekezdésben foglaltak” szövegrész helyett az „a (4)–(8) bekezdésben foglaltak” szöveggel lép hatályba.
 
-#### 34. §
+34. § Hatályát veszti a 2020. évi CXLVIII. törvény 110. § (6) bekezdésében az „és a 38. §” szövegrész.
 
-#### 35. §
+35. § Nem lép hatályba a 2020. évi CXLVIII. törvény 38. §-a.
 
 #### 16. A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény módosítása
 
