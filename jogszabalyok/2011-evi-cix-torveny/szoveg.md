@@ -90,11 +90,11 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 
 (1a) Rendes taggá választható – az (1) bekezdésben foglaltakon túl – az a személy, aki a művészeti tevékenységgel kapcsolatos korszerű elméleti álláspontok megismertetésével és közvetítésével, tendenciák megfigyelésével, garanciarendszerek kidolgozásával kimagasló eredményeket és széles körű társadalmi elismertséget ért el.
 
-(1b) Rendes taggá a levelező tag választható.
+(1b) Rendes taggá a levelező tag választható, kivéve, ha a rendes taggá választásra a Nemzet Művésze cím elnyerésére tekintettel, a (9) bekezdés alapján kerül sor.
 
 (2)
 
-(3) Az MMA rendes tagjainak száma nem lehet több 250 főnél.
+(3) Az MMA rendes tagjainak száma a Nemzet Művésze címet viselő rendes tagokkal együttesen legfeljebb 315 fő.
 
 (4) Ha valamely művész vagy művészetelméleti szakember az MMA rendes tagjára vonatkozó, e törvényben támasztott feltételeknek megfelel, és rendelkezik legalább négy akadémikus egybehangzó akaratát kifejező, közös ajánlásával, úgy rendes tagként való jelöléséről az MMA 20. § (1) és (2) bekezdése szerinti tagozata dönt az (5)–(8) bekezdés szerint. Egy akadémikus kizárólag egy rendes tag megválasztását ajánlhatja. Az egynél több főt ajánló akadémikus valamennyi ajánlása érvénytelen; azokat a jelölési és tagválasztási eljárásban a továbbiakban figyelmen kívül kell hagyni.
 
@@ -105,6 +105,10 @@ A nemzet kötelessége, hogy visszatérve az európai akadémiai eszméhez – a
 (7) A tagozati jelölések érdemi megvitatását követően az elnökség a regisztrált tagjelölteket a tagozati jelölések sorrendjében, az (5) bekezdés szerinti létszámkeret erejéig – esetleges vonatkozó észrevételeivel – a közgyűlés elé terjeszti.
 
 (8) A közgyűlés az elé terjesztett jelöltek rendes taggá választásáról – közvetlen és titkos szavazással – a jelölést követő első közgyűlés egyszerű többségi, listás szavazással dönt.
+
+(9) A Nemzet Művésze díjban részesített személy – az Alapszabályban rögzített feltételek mellett és az Alapszabály szerinti egyszerűsített eljárásban – a (4)–(8) bekezdésben foglaltak alkalmazásának és az előzetes levelező tagság követelményének mellőzésével az MMA rendes tagjává válhat. Az elé terjesztett jelöltek rendes taggá választásáról – titkos szavazással, egyszerű többséggel – a közgyűlés dönt. A rendes tagi jogviszony kezdőnapja a megválasztást követő nap.
+
+(10) Az a Nemzet Művésze címben részesített díjazott, aki a (9) bekezdés alapján nem válik rendes taggá, a továbbiakban a (4)–(8) bekezdés szerinti eljárás keretében szerezhet rendes vagy levelező tagságot azzal, hogy rendes taggá csak a levelező tag válhat.
 
 8. § (1) A közgyűlés – a 7. § (4)–(8) bekezdésében meghatározott eljárás alkalmazásával – levelező tagokat választhat. Levelező taggá választható
 
@@ -556,6 +560,8 @@ részesült.
 30/C. § (1) A felsőoktatás szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2020. évi CXLVIII. törvénnyel (a továbbiakban: Módtv2.) módosított 28/L. § (1) bekezdését, valamint a Módtv2.-vel megállapított 28/M. § (2) bekezdését a Módtv2. hatálybalépését követően indult művészjáradék megállapítása iránti ügyekben és a megismételt eljárásokban kell alkalmazni.
 
 (2) E törvénynek a Magyar Művészeti Akadémiáról szóló 2011. évi CIX. törvény módosításáról szóló 2014. évi X. törvénnyel, a Módtv.-vel, valamint a Módtv2.-vel végrehajtott módosításai nem érintik az e törvények hatálybalépését megelőzően, a mindenkor hatályos törvény rendelkezéseinek megfelelően rendes vagy levelező tagságot szerzett személyek tagsági jogviszonyának fennállását.
+
+30/D. § A Módtv2.-vel megállapított 7. § (9) bekezdését első alkalommal a 2022. évi Nemzet Művésze díjak odaítélését követően kell alkalmazni azzal, hogy ezen egyszeri alkalommal nemcsak a Nemzet Művésze díj 2022. évi díjazottja választható – az Alapszabályban rögzített feltételekkel és az Alapszabály szerinti egyszerűsített eljárásban – rendes taggá, hanem a Nemzet Művésze címet a 2022. évet megelőzően elnyert díjazott is.
 
 #### 12. Módosuló rendelkezések
 
