@@ -113,7 +113,7 @@ tervezetét és indokolását (a továbbiakban együtt: tervezet).
 
 (3) A jogszabály előkészítéséért felelős miniszter a beérkezett véleményeket, a véleményező nevét és elektronikus levélcímét – visszaigazolás küldése, a 11. § szerint elkészítendő összefoglaló és a véleményezők listájának közzététele, valamint a 12. §-ban meghatározott utólagos véleményezés céljából – legkésőbb a véleményezett jogszabály hatálybalépésétől számított másfél évig kezeli. Amennyiben a véleményezett jogszabály nem lép hatályba, a véleményező nevét és elektronikus levélcímét legkésőbb a vélemény beérkezését követő egy éven belül törölni kell.
 
-(4) A véleményező adatainak kezeléséhez szükséges hozzájárulást a (3) bekezdésben foglalt adatkezelések tekintetében megadottnak kell tekinteni. E tényre és a véleményező adatait érintő adatkezelés szabályaira a vélemény megadása előtt a véleményező figyelmét megfelelően fel kell hívni.
+(4)
 
 (5) A közzétett tervezeteket a közzétételtől számított egy évig nem lehet a honlapról eltávolítani.
 

@@ -8,7 +8,7 @@ a Magyar Köztársaság és Kuwait Állam között a kettős adóztatás elkerü
 
 2. § A Jegyzőkönyv angol és magyar nyelvű szövege a következő:
 
-,,
+„,,
 
 Protocol
 
@@ -112,6 +112,8 @@ Készült Kuwaitban, két példányban, 2001. december 9-én, mely megfelel 1422
 
 A Magyar Köztársaságnevében
 
-Kuwait Államnevében''
+Kuwait Államnevében''”
 
 3. § Ez a törvény a kihirdetése napján lép hatályba, rendelkezéseit azonban 2003. január 1. napjától kell alkalmazni.
+
+4. § A Magyar Köztársaság és Kuwait Állam között a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén és gazdasági kapcsolataik előmozdítására Kuwaitban, 1994. január 17-én aláírt Egyezmény kihirdetéséről szóló 1999. évi XVI. törvény e törvénybe foglalt módosításokkal egységes szerkezetben a Nemzeti Jogszabálytárban történő közzétételéről az adópolitikáért felelős miniszter – a külpolitikáért felelős miniszter és az igazságügyért felelős miniszter egyetértésével – gondoskodik.
