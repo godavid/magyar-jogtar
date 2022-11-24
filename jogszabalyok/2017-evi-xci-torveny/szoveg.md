@@ -8,7 +8,7 @@ az országonkénti jelentések cseréjéről szóló illetékes hatóságok köz
 
 3. § A Megállapodás hiteles angol nyelvű szövege és annak hivatalos magyar fordítása a következő:
 
-“MULTILATERAL COMPETENT AUTHORITY AGREEMENT ON THE EXCHANGE OF COUNTRY-BY-COUNTRY REPORTS
+„“MULTILATERAL COMPETENT AUTHORITY AGREEMENT ON THE EXCHANGE OF COUNTRY-BY-COUNTRY REPORTS
 
 Whereas, the jurisdictions of the signatories to the Multilateral Competent Authority Agreement on the Exchange of Country-by-Country Reports (the “Agreement”) are Parties of, or territories covered by, the Convention on Mutual Administrative Assistance in Tax Matters or the Convention on Mutual Administrative Assistance in Tax Matters as amended by the Protocol (the “Convention”) or have signed or expressed their intention to sign the Convention and acknowledge that the Convention must be in force and in effect in relation to them before the automatic exchange of Country-by-Country (CbC) Reports takes place;
 
@@ -154,7 +154,7 @@ Co-ordinating Body Secretariat
 
 Unless otherwise provided for in the Agreement, the Co-ordinating Body Secretariat will notify all Competent Authorities of any notifications that it has received under this Agreement and will provide a notice to all signatories of the Agreement when a new Competent Authority signs the Agreement.
 
-Done in English and French, both texts being equally authentic.”
+Done in English and French, both texts being equally authentic.
 
 „AZ ORSZÁGONKÉNTI JELENTÉSEK CSERÉJÉRŐL SZÓLÓ ILLETÉKES HATÓSÁGOK KÖZÖTTI MULTILATERÁLIS MEGÁLLAPODÁS
 
@@ -323,10 +323,19 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 - 1. Andorra
 - 1a. Anguilla
 - 1b. Argentína
+- 1c. Aruba
 - 2. Ausztrália
-- 2a. Bahama-szigetek
+- 2a. Azerbajdzsán
 - 2b. Bahrein
+
+2b. Bahama-szigetek
+
 - 2c. Belize
+
+2c. Bahrein
+
+- 2d. Barbados
+- 2e. Belize
 - 3. Bermuda
 - 4. Brazília
 - 4a. Brit Virgin-szigetek
@@ -357,7 +366,9 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 - 19. Korea
 - 20. Kínai Népköztársaság
 - 21. Liechtenstein
+- 21a. Makaó
 - 22. Malajzia
+- 22a. Maldív-szigetek
 - 23. Man-sziget
 - 23a. Marokkó
 - 24. Mauritius
@@ -365,6 +376,7 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 - 25a. Monaco
 - 26. Nigéria
 - 27. Norvégia
+- 27a. Omán
 - 28. Orosz Föderáció
 - 28a. Panama
 - 28b. Pakisztán
@@ -375,7 +387,11 @@ Magyarország a Megállapodás alapján – a Megállapodásban foglalt feltéte
 - 29b. Szaúd-Arábia
 - 30. Szenegál
 - 30a. Szingapúr
-- 30b. Tunézia
+- 30b. Törökország
 - 30c. Turks és Caicos-szigetek
+
+30c. Tunézia
+
+- 30d. Turks és Caicos-szigetek
 - 31. Új-Zéland
 - 32. Uruguay

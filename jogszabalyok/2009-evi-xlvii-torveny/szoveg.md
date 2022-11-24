@@ -148,8 +148,9 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 (2) Nem kell nyilvántartani annak az arcképmását,
 
 - a) akivel szemben magánvádas eljárás indult, függetlenül attól, hogy az ügyészség átvette-e a vád képviseletét,
-- b) akivel szemben pótmagánvádas eljárás indult, továbbá
-- c) akinek katonai bűncselekménye miatt az ügyészség a feljelentést elutasította és az elbírálást fegyelmi eljárásra utalta.
+- b) akivel szemben pótmagánvádas eljárás indult,
+- c) akinek katonai bűncselekménye miatt az ügyészség a feljelentést elutasította és az elbírálást fegyelmi eljárásra utalta, továbbá
+- d) akivel szemben a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) CV/A. Fejezete szerinti eljárásban a vádindítványt nyújtottak be.
 
 (3) Az érintett arcképmását az a nyomozó hatóság vagy ügyészség küldi meg a bűnügyi nyilvántartó szervnek, amelyik a megalapozott gyanút a gyanúsítottal közölte.
 
@@ -399,8 +400,9 @@ számított három évig kell nyilvántartani.
 (2) Nem kell nyilvántartani annak az adatait,
 
 - a) akivel szemben magánvádas eljárás indult, függetlenül attól, hogy az ügyészség átvette-e a vád képviseletét,
-- b) akivel szemben pótmagánvádló vádindítványa alapján indult eljárás, továbbá
-- c) akinek katonai bűncselekménye miatt az ügyészség a feljelentést elutasította és az elbírálást fegyelmi eljárásra utalta.
+- b) akivel szemben pótmagánvádló vádindítványa alapján indult eljárás,
+- c) akinek katonai bűncselekménye miatt az ügyészség a feljelentést elutasította és az elbírálást fegyelmi eljárásra utalta, továbbá
+- d) akivel szemben a Be. CV/A. Fejezete szerinti eljárásban vádindítványt nyújtottak be.
 
 23. § A büntetőeljárás hatálya alatt állók nyilvántartása tartalmazza
 
@@ -413,7 +415,7 @@ számított három évig kell nyilvántartani.
 - e) a vádemelés időpontját, a vád tárgyává tett bűncselekmény megnevezését, az 1978. évi IV. törvény vagy a Btk. szerinti minősítését, a vádirat számát és keltét;
 - f) feltételes ügyészi felfüggesztés esetén a felfüggesztés tényét, okát, időtartamát, az erről szóló határozat számát és keltét;
 - g) az eljárás felfüggesztése esetén a felfüggesztés tényét, okát, időtartamát, az erről szóló határozat számát és keltét, valamint a felfüggesztett eljárás folytatásának időpontját;
-- h) a letartóztatás, a bűnügyi felügyelet, a távoltartás, az előzetes kényszergyógykezelés elrendelésének tényét, valamint azt a tényt, hogy a bíróság által megállapított óvadékot tettek le, bűnügyi felügyelet elrendelése esetén annak megjelölését, hogy a bíróság a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 281. §-ában meghatározott mely magatartási szabályt írta elő, továbbá a kényszerintézkedés időtartamát, megszűnése vagy megszüntetése tényét, a kényszerintézkedés elrendeléséről, meghosszabbításáról, fenntartásáról, megszüntetéséről határozatot hozó bíróság megnevezését, határozatának számát és keltét, illetve a kényszerintézkedés megszüntetéséről határozatot hozó ügyészség megnevezését, határozatának számát és keltét;
+- h) a letartóztatás, a bűnügyi felügyelet, a távoltartás, az előzetes kényszergyógykezelés elrendelésének tényét, valamint azt a tényt, hogy a bíróság által megállapított óvadékot tettek le, bűnügyi felügyelet elrendelése esetén annak megjelölését, hogy a bíróság Be. 281. §-ában meghatározott mely magatartási szabályt írta elő, továbbá a kényszerintézkedés időtartamát, megszűnése vagy megszüntetése tényét, a kényszerintézkedés elrendeléséről, meghosszabbításáról, fenntartásáról, megszüntetéséről határozatot hozó bíróság megnevezését, határozatának számát és keltét, illetve a kényszerintézkedés megszüntetéséről határozatot hozó ügyészség megnevezését, határozatának számát és keltét;
 - i) a büntetőügy iktatószámát;
 - j) a büntetőügyek egyesítésének, elkülönítésének, áttételének tényét, az erről szóló határozat számát és keltét;
 - k) az eljáró bíróság, ügyészség, nyomozó hatóság megnevezését;
@@ -673,8 +675,9 @@ miatt büntetőeljárás alá vontak.
 (2) Nem kell nyilvántartani annak az adatait,
 
 - a) akivel szemben magánvádas eljárás indult, függetlenül attól, hogy az ügyészség átvette-e a vád képviseletét,
-- b) akivel szemben pótmagánvádas eljárás indult, továbbá
-- c) akinek katonai bűncselekménye miatt az ügyészség a feljelentést elutasította és az elbírálást fegyelmi eljárásra utalta.
+- b) akivel szemben pótmagánvádas eljárás indult,
+- c) akinek katonai bűncselekménye miatt az ügyészség a feljelentést elutasította és az elbírálást fegyelmi eljárásra utalta, továbbá
+- d) akivel szemben a Be. CV/A. Fejezete szerinti eljárásban vádindítványt nyújtottak be.
 
 45. § A büntetőeljárás alá vont személyek ujj- és tenyérnyomatainak nyilvántartása tartalmazza
 

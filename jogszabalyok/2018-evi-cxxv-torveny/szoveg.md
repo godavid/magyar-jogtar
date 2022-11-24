@@ -453,23 +453,76 @@ helyettesíti.
 
 (1) Az európai uniós források felhasználásáért felelős miniszter munkaszervezetében (a továbbiakban e § alkalmazásában: minisztérium) – a 28. § (1) bekezdésében meghatározottaktól eltérő szervezeti egységként – Belső Ellenőrzési és Integritási Igazgatóság (a továbbiakban e § alkalmazásában: Igazgatóság) működik.
 
+(1a) Az Igazgatóság hatásköre kiterjed az európai uniós költségvetés végrehajtásában részt vevő valamennyi nemzeti hatóságra.
+
 (2) Az Igazgatóság szervezetébe az igazgató titkársága, valamint a minisztérium szervezeti és működési szabályzatában (a továbbiakban e § alkalmazásában: szervezeti és működési szabályzat) kijelölt önálló szervezeti egységek tartoznak.
 
-(3) Az Igazgatóságot igazgató (a továbbiakban e § alkalmazásában: igazgató) vezeti. Az igazgató az európai uniós források felhasználásának ellenőrzésével kapcsolatosan jogszabályokban meghatározott feladatokat látja el az Igazgatóság közreműködésével.
+(3) Az Igazgatóságot igazgató (a továbbiakban e § alkalmazásában: igazgató) vezeti. Az igazgató – az Igazgatóság közreműködésével – az európai uniós források felhasználásának ellenőrzésével kapcsolatosan a jogszabályokban meghatározott feladatokat látja el, így különösen:
+
+- a) összeférhetetlenségi nyilatkozatokat és érdekeltségi nyilatkozatokat rendszeresen, mintavételes eljárással, valamint hatósági nyilvántartások és nyilvánosan elérhető információk, valamint megkeresés útján megismerhető adatok alapján ellenőriz,
+- b) kockázatelemzést végez,
+- c) gondoskodik az összeférhetetlenségi helyzetek megelőzése érdekében a tudatosság növeléséről és az intézményrendszer uniós támogatások végrehajtásáért felelős szereplőinek képzéséről,
+- d) együttműködik a büntetőeljárásban eljáró szervekkel.
+
+(3a) A (3) bekezdés a) pont szerinti
+
+- a) ellenőrzés kiterjed a palyazat.gov.hu honlapon benyújtott valamennyi, az összeférhetetlenséggel kapcsolatos gyanúra irányuló anonim bejelentésre is,
+- b) mintavételen alapuló érvényességi ellenőrzésnek éves szinten el kell érnie az összeférhetetlenségi nyilatkozat benyújtására kötelezettek számának legalább 5%-át,
+- c) mintavételen alapuló érvényességi ellenőrzéseknek az európai támogatásokat auditáló szervvel egyeztetett kétévenkénti ellenőrzési terveken kell alapulnia,
+- d) ellenőrzés során megállapított összeférhetetlenségről az Igazgatóság jelentésben tájékoztatja az intézményrendszer uniós támogatások végrehajtásáért felelős – az ellenőrzéssel érintett – szereplőit,
+- e) ellenőrzött összeférhetetlenségi és érdekeltségi nyilatkozatokat és a kapcsolódó dokumentumokat legalább 5 évig meg kell őrizni.
+
+(3b) Az Igazgatóság a (3) bekezdés a) pontja szerinti ellenőrzéshez szükséges
+
+- a) összes adatot megismerheti, arról másolatot készíthet,
+- b) iratokba – ideértve az elektronikus adathordozón tárolt iratokat is – betekinthet, illetve azokról másolatot kérhet,
+- c) írásbeli felvilágosítást kérhet bármely szervezettől vagy személytől.
+
+(3c) Az Igazgatóság a (3) bekezdés a) pontja szerinti ellenőrzés lefolytatásához szükséges mértékben kezelheti mindazokat a személyes adatokat, valamint törvény által védett titoknak és hivatás gyakorlásához kötött titoknak minősülő adatokat, amelyek az ellenőrzéssel összefüggenek, és amelyek kezelése az ellenőrzés eredményes lefolytatása érdekében szükséges.
+
+(3d) Az Igazgatóság tevékenységét, az ellenőrzések tervezését és végrehajtását az audithatóság rendszeraudit-jelentés keretében hitelesíti.
 
 (4) Az igazgatót a szervezeti és működési szabályzatban kijelölt, az igazgató irányítása alá tartozó főosztályvezető vagy osztályvezető helyettesíti.
 
-(5) Az igazgató tevékenységét a szervezeti és működési szabályzat szerint az európai uniós források felhasználásáért felelős miniszter, a minisztérium államtitkára vagy közigazgatási államtitkára irányítja. Az európai uniós források felhasználásával kapcsolatos feladatok tekintetében az igazgató nem utasítható.
+(5) Az igazgató tevékenységét a szervezeti és működési szabályzat szerint az európai uniós források felhasználásáért felelős miniszter, a minisztérium államtitkára vagy közigazgatási államtitkára irányítja. Az európai uniós források felhasználásával kapcsolatos feladatok tekintetében az igazgató nem utasítható, feladatait minden más intézmény, szerv, politikai párt, társaság, egyesület, jogi vagy természetes személy általi befolyásolástól mentesen köteles ellátni.
 
-(6) Az Igazgatóság szervezetében foglalkoztatott kormánytisztviselők és munkavállalók kiválasztása az Integritás Hatóság által jóváhagyott objektív szempontrendszer alapján, pályázati eljárás keretében történik. Az Integritás Hatóság ellenőrizheti az Igazgatóság kormánytisztviselőinek és munkavállalóinak kiválasztását és a pályázati eljárás szabálytalansága esetén új eljárás lefolytatását kezdeményezheti az igazgatónál.
+(6) Az Igazgatóság szervezetében foglalkoztatott kormánytisztviselők és munkavállalók kiválasztása az Integritás Hatóság által jóváhagyott objektív szempontrendszer alapján, pályázati eljárás keretében történik. Az Integritás Hatóság ellenőrzi az Igazgatóság kormánytisztviselőinek és munkavállalóinak kiválasztását és a felvételi eljárás szabálytalansága esetén új eljárás lefolytatását kezdeményezheti az igazgatónál.
 
 (7) Az Igazgatóság szervezetében foglalkoztatott kormánytisztviselőt az igazgató javaslatára a minisztérium közigazgatási államtitkára nevezi ki és menti fel. A munkaviszony létesítése és megszüntetése során a munkáltatói jogkör gyakorlójaként az Igazgatóság szervezetében foglalkoztatott munkavállaló tekintetében a minisztérium közigazgatási államtitkára jár el.
 
 (8) Az Igazgatóság szervezetében foglalkoztatott kormánytisztviselő és munkavállaló felett a munkáltatói jogot – a (7) bekezdésben meghatározott kivétellel – az igazgató gyakorolja.
 
-(9) Az Igazgatóság működését és eljárásait az igazgató által kiadott és az európai uniós források felhasználásáért felelős miniszter által jóváhagyott ügyrend szabályozza. Az Integritás Hatóság ellenőrizheti az ügyrend végrehajtását.
+(9) Az Igazgatóság működését és eljárásait – a jogszabályokban, illetve a szervezeti és működési szabályzatban nem szabályozott kérdésekben – az igazgató által kiadott és az európai uniós források felhasználásáért felelős miniszter által jóváhagyott ügyrend szabályozza. Az Integritás Hatóság ellenőrzi az Igazgatóság működését, ennek keretében vizsgálja az ügyrend végrehajtását és az Igazgatóság eljárásaira vonatkozó irányelvek betartását. Súlyos vagy visszatérő megfelelési problémák esetén az Integritás Hatóság jogosult az Igazgatóság ellenőrzésére.
 
-(10) Az igazgató az Igazgatóság tevékenységéről éves jelentésben tájékoztatja az Integritás Hatóságot.
+(9a) Az igazgató, valamint az Igazgatóság szervezetében foglalkoztatott kormánytisztviselő és munkavállaló a megbízatása, illetve a jogviszonya keletkezésekor általános összeférhetetlenségi nyilatkozatot és érdekeltségi nyilatkozatot, majd az érdemi eljárási cselekmények megkezdése előtt az adott eljárási cselekményre vonatkozó eseti összeférhetetlenségi nyilatkozatot és érdekeltségi nyilatkozatot tesz.
+
+(9b) Az Igazgatóság haladéktalanul biztosítja az Integritás Hatóság részére
+
+- a) a (9a) bekezdés szerinti összeférhetetlenségi nyilatkozathoz és érdekeltségi nyilatkozatokhoz, valamint
+- b) az Integritás Hatóság kérésére az Igazgatóság által kezelt valamennyi, az Integritás Hatóság jogkörének gyakorlásához szükséges irathoz [ideértve az a) pont hatálya alá nem tartozó, az Igazgatóság által kezelt összeférhetetlenségi nyilatkozatokat és érdekeltségi nyilatkozatokat]
+
+való hozzáférést.
+
+(9c) A (9a) bekezdés és a (9b) bekezdés b) pontja szerinti összeférhetetlenségi nyilatkozatok és érdekeltségi nyilatkozatok tartalmát az Integritás Hatóság ellenőrzi.
+
+(9d) Ha a (9c) bekezdés szerinti ellenőrzés során az Integritás Hatóság megállapítja, hogy a (9a) bekezdés szerinti összeférhetetlenségi nyilatkozatot, illetve érdekeltségi nyilatkozatot tevő a nyilatkozatban lényeges adatot, tényt valótlanul közölt vagy mellőzött, az Integritás Hatóság erről haladéktalanul tájékoztatja a munkáltatói jogkör gyakorlóját.
+
+(9e) Bárki jogosult a www.palyazat.gov.hu oldalon anonim módon bejelenteni összeférhetetlenséget és vélt összeférhetetlenséget, illetve annak kockázatát.
+
+(9f) A (9e) bekezdés szerinti bejelentést az Igazgatóság kivizsgálja. Ha az Igazgatóság megállapítja a (9e) bekezdés szerinti bejelentés megalapozottságát, az Igazgatóság haladéktalanul tájékoztatja az uniós támogatások végrehajtásáért felelős – a bejelentéssel érintett – szereplőit a bejelentésről.
+
+(9g) Az Igazgatóság a (9e) bekezdés szerinti bejelentést elutasítja, ha nem áll fenn összeférhetetlenség. Az Igazgatóság a döntését indokolni köteles.
+
+(9h) Az Igazgatóság a (9e) bekezdés szerinti bejelentést érdemi indoklás nélkül elutasítja, ha
+
+- a) az olyan személyre vonatkozik, akivel kapcsolatosan az ügyben korábban azonos tényállás alapján az összeférhetetlenség hiányát állapították meg, vagy
+- b) a bejelentés nyilvánvalóan megalapozatlan.
+
+(9i) Ha az Igazgatóság a vizsgálata során összeférhetetlenséget állapít meg, arról jelentést küld az intézményrendszer uniós támogatások végrehajtásáért felelős – a vizsgálattal érintett – szereplőinek.
+
+(9j) Az Igazgatóság a (9e) bekezdés szerinti bejelentések vizsgálata során keletkezett iratokat a vizsgálat lezárásától számított öt évig megőrzi.
+
+(10) Az igazgató részletes éves jelentésben tájékoztatja az Integritás Hatóságot az Igazgatóság tevékenységéről, az elvégzett ellenőrzések számszerűsíthető eredményeiről és tapasztalatairól, a megtett intézkedésekről, a beérkezett bejelentések számáról és a kivizsgált esetekről.
 
 #### 30. § [A munkacsoport]
 
@@ -1933,9 +1986,16 @@ jogviszonyt létesít, kormányzati szolgálati jogviszonya az a) vagy b) pont s
 - c) a kormánytisztviselő által betöltött álláshelyen ellátandó feladat vagy a kormánytisztviselő által betöltött álláshely átszervezés miatt megszűnik
 - d) a kormányzati igazgatási szerv a feladatok hatékonyabb biztosítása érdekében a kormánytisztviselő álláshelyére másik kormánytisztviselőt alkalmaz;
 - e) a kormánytisztviselő nyugdíjasnak minősül;
-- f)
+- f) a kormánytisztviselő az összeférhetetlenségi nyilatkozatában, illetve az érdekeltségi nyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt vagy mellőzött,
 - g) a kormánytisztviselő a 95. § (5) és (7) bekezdése szerinti előzetes engedély kérését vagy a 95. § (6) bekezdése szerinti bejelentés megtételét elmulasztja,
 - h)
+
+(1a) Az (1) bekezdés f) pontja szerinti esetben
+
+- a) a lényeges adat, tény valótlanságát vagy mellőzésének tényét az Integritás Hatóság a 29/B. § (9c) bekezdése szerinti ellenőrzés során,
+- b) a szándékosság fennállását a munkáltatói jogkör gyakorlója
+
+állapítja meg.
 
 (2) A kormányzati szolgálati jogviszonyt felmentéssel meg kell szüntetni, ha
 
@@ -2045,7 +2105,7 @@ gyakorolhatja.
 - a) ezt a tényt foglalkoztatójának haladéktalanul köteles írásban bejelenteni,
 - b) a felmentési időből hátralevő idő tekintetében illetményre nem jogosult.
 
-(8) A kormánytisztviselőt felmentési idő nem illeti meg a 107. § (2) bekezdés a) pontja szerinti érdemtelenség és a 107. § (6) bekezdése szerinti foglalkoztatást kizáró ok jogcímén történt felmentése esetén.
+(8) A kormánytisztviselőt felmentési idő nem illeti meg a 107. § (2) bekezdés a) pontja szerinti érdemtelenség és a 107. § (6) bekezdése szerinti foglalkoztatást kizáró ok jogcímén, valamint a 107. § (1) bekezdés f) pontja alapján történt felmentés esetén.
 
 #### 112. § [A végkielégítés]
 
@@ -2097,6 +2157,7 @@ eltöltött idő is. A b) és d) pont azzal az eltéréssel alkalmazandó, hogy 
 
 - a) legkésőbb a kormányzati szolgálati jogviszony megszűnésének időpontjában nyugdíjasnak minősül;
 - b) a 107. § (2) bekezdés a) pontja szerinti érdemtelenség, a 107. § (2) bekezdés b) pontja szerinti nem megfelelő munkavégzés, a 107. § (6) bekezdése szerinti foglalkoztatást kizáró ok jogcímén vagy a 166. § (5) bekezdése alapján a kormánytisztviselőt kérelmére mentették fel.
+- c) a kormánytisztviselőt a 107. § (1) bekezdés f) pontja alapján mentették fel.
 
 (11) Ha a kormánytisztviselő a munkavégzési kötelezettség alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős jogviszonyt létesít, végkielégítésre nem jogosult, azonban új jogviszonyában a végkielégítés alapjául szolgáló időszak számítása során a felmentéssel megszüntetett jogviszony alapján végkielégítésre jogosító idejét számításba kell venni.
 
@@ -2132,7 +2193,7 @@ időtartama alatt.
 
 (7) Az (1) és (5) bekezdésben meghatározott védelem nem vonatkozik a kormánytisztviselő jogviszonyának felmentéssel történő megszüntetésére, ha a felmentést a 107. § (2) bekezdés e) vagy g) pontjában foglaltak szerint a kormánytisztviselő kérelmezi.
 
-(8) Felmentési védelem nem illeti meg a kormánytisztviselőt a 107. § (2) bekezdés a) pontja szerinti érdemtelenség és a 107. § (6) bekezdése szerinti foglalkoztatást kizáró ok jogcímén történt felmentése esetén.
+(8) Felmentési védelem nem illeti meg a kormánytisztviselőt a 107. § (2) bekezdés a) pontja szerinti érdemtelenség és a 107. § (6) bekezdése szerinti foglalkoztatást kizáró ok jogcímén, valamint a 107. § (1) bekezdés f) pontja alapján történt felmentése esetén.
 
 #### 114. § [A jogviszonyváltás]
 
@@ -4339,14 +4400,24 @@ Ha a helyettes államtitkár az összeférhetetlenségét a kinevezésétől sz�
 (4) Az igazgató jogviszonya a (2) bekezdés szerinti időtartam alatt felmentéssel nem szüntethető meg, kivéve, ha
 
 - a) az igazgató egészségügyi okból legalább 90 egybefüggő napon keresztül feladatai ellátására alkalmatlan,
-- b) az igazgató nem felel meg a kinevezési feltételeknek, vagy
+- b) az igazgató nem felel meg a 224. § (1) bekezdésében meghatározott kinevezési feltételeknek,
 - c) a 240. § (2) bekezdésében meghatározott feltétel fennáll és a 240. § (3) bekezdése nem alkalmazható.
+- d) az igazgató az összeférhetetlenségi nyilatkozatában, illetve az érdekeltségi nyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt vagy mellőzött.
 
-(5) A (4) bekezdésben meghatározott feltétel fennállása esetén az igazgatót az európai uniós források felhasználásáért felelős miniszter javaslatára a miniszterelnök menti fel. Az európai uniós források felhasználásáért felelős miniszter a javaslatának megtétele előtt kikéri az Integritás Hatóság elnökének véleményét, amiről a javaslattétel során tájékoztatja a miniszterelnököt.
+(4a) A (4) bekezdés d) pontja szerinti esetben
+
+- a) a lényeges adat, tény valótlanságát vagy mellőzésének tényét az Integritás Hatóság a 29/B. § (9c) bekezdése szerinti ellenőrzés során,
+- b) a szándékosság fennállását az európai uniós források felhasználásáért felelős miniszter
+
+állapítja meg.
+
+(5) A (4) bekezdésben meghatározott feltétel fennállása esetén az igazgatót az európai uniós források felhasználásáért felelős miniszter javaslatára a miniszterelnök mentheti fel. Az európai uniós források felhasználásáért felelős miniszter a javaslatának megtétele előtt kikéri az Integritás Hatóság elnökének véleményét, amiről a javaslattétel során tájékoztatja a miniszterelnököt.
 
 (6) Az igazgató az európai támogatásokat auditáló szerv vezetőjének illetményével azonos összegű illetményre és helyettes államtitkári juttatásokra jogosult.
 
 (7) Az igazgató jogviszonyával kapcsolatosan a munkáltatói jogkört – a kinevezés és a felmentés kivételével – az európai uniós források felhasználásáért felelős miniszter gyakorolja azzal, hogy a 29/B. § (2) bekezdése szerinti szervezeti és működési szabályzat egyes munkáltatói jogkörök vonatkozásában ettől eltérően is rendelkezhet.
+
+(8) Az igazgatónak a (4) bekezdés d) pontja alapján történő felmentésére nem kell alkalmazni a 233. § (2) és (3) bekezdését.
 
 #### 241. § [A kormányzati főhivatal vezetője és helyettese]
 
@@ -4647,12 +4718,18 @@ illetménynek megfelelő összeg.
 
 (8) A kormányzati igazgatási szerv a munkaviszonyból származó jogok és kötelezettségek teljesítése érdekében munkaügyi nyilvántartást vezet. A nyilvántartás adattartalma – a kizárólag a kormánytisztviselők esetében releváns adatok kivételével – megegyezik a kormánytisztviselők 3. melléklet szerinti közszolgálati alapnyilvántartásának adataival. A munkaügyi nyilvántartásra egyebekben a közszolgálati alapnyilvántartásra vonatkozó szabályokat kell alkalmazni, azzal, hogy a kormányzati igazgatási szerv a munkaügyi nyilvántartásban szereplő adatokat a munkaviszony megszűnését vagy megszüntetését követő 15 évig kezeli.
 
-#### 279/A. § [A Belső Ellenőrzési és Integritási Igazgatóság munkavállalóira vonatkozó eltérő szabályok]
-
-A Belső Ellenőrzési és Integritási Igazgatóság szervezetében foglalkoztatott munkavállalóra a 278. és 279. §-ban foglaltakat – a 29/B. §-ban meghatározottakon túl – azzal az eltéréssel kell alkalmazni, hogy
+279/A. § (1) A Belső Ellenőrzési és Integritási Igazgatóság szervezetében foglalkoztatott munkavállalóra a 278. és 279. §-ban foglaltakat – a 29/B. §-ban meghatározottakon túl – azzal az eltéréssel kell alkalmazni, hogy
 
 - a) a munkaviszony létesítésének feltétele – a 279. § (6) bekezdésben foglaltakon túl – a magyar állampolgárság,
-- b) a Belső Ellenőrzési és Integritási Igazgatóság szervezetében foglalkoztatott munkavállalók által betöltött álláshelyeket a 279. § (4) bekezdése alkalmazásakor nem kell figyelembe venni, és a munkavállalók a 279. § (5) bekezdése szerinti mentesítés nélkül foglalkoztathatók a Belső Ellenőrzési és Integritási Igazgatóság szervezetében.
+- b) a Belső Ellenőrzési és Integritási Igazgatóság szervezetében foglalkoztatott munkavállalók által betöltött álláshelyeket a 279. § (4) bekezdése alkalmazásakor nem kell figyelembe venni, és a munkavállalók a 279. § (5) bekezdése szerinti mentesítés nélkül foglalkoztathatók a Belső Ellenőrzési és Integritási Igazgatóság szervezetében,
+- c) a munkaviszonyt a munkáltató azonnali hatályú felmondással megszüntetheti, ha a munkavállaló az összeférhetetlenségi nyilatkozatában, illetve az érdekeltségi nyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt vagy mellőzött.
+
+(2) Az (1) bekezdés c) pontja szerinti esetben
+
+- a) a lényeges adat, tény valótlanságát vagy mellőzésének tényét az Integritás Hatóság a 29/B. § (9c) bekezdése szerinti ellenőrzés során,
+- b) a szándékosság fennállását a munkáltatói jogkör gyakorlója
+
+állapítja meg.
 
 ## TIZEDIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
@@ -5022,6 +5099,8 @@ az irányadóak.
 - c) a megbízott igazgató esetében a 240/A. § (4) és (5) bekezdése alkalmazásában felmentés alatt a megbízás visszavonását kell érteni.
 
 (3) A 29/B. § (6) bekezdése szerinti szempontoknak az Integritás Hatóság általi jóváhagyását követő 60. napig kormányzati érdekből történő kirendelés útján, illetve az európai uniós források felhasználásáért felelős miniszter munkaszervezetében más feladatkörben vagy munkakörben foglalkoztatott kormánytisztviselő vagy munkavállaló igénybevételével is megszervezhető a Belső Ellenőrzési és Integritási Igazgatóság feladatainak ellátása. A kormányzati érdekből történő kirendelésről – a 100. §-ban foglaltaktól eltérően – a Belső Ellenőrzési és Integritási Igazgatóság megbízott igazgatójának javaslatára az európai uniós források felhasználásáért felelős miniszter dönt.
+
+(4) A 2023. január 1-jével kinevezett igazgató dönt a helyettesítésére a megbízott igazgató javaslatára kijelölt főosztályvezető vagy osztályvezető megerősítéséről, amely keretében a kinevezett igazgató másik főosztályvezető vagy osztályvezető kijelölését kezdeményezheti. A kinevezett igazgató kezdeményezése alapján a 29/B. § (4) bekezdése szerinti szervezeti és működési szabályzatot haladéktalanul módosítani kell.
 
 #### 293. § [Átmeneti rendelkezés az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvényhez]
 

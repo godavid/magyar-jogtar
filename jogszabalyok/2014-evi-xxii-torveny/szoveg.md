@@ -89,7 +89,7 @@ reklám ellenszolgáltatás fejében történő közzététele.
 
 (4) A (3) bekezdés szerinti mentesség csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 1407/2013/EU bizottsági rendelet szabályaival összhangban vehető igénybe.
 
-5/A. § Az 5. §-ban foglaltaktól eltérően az adó mértéke 2019. július 1-jétől 2022. december 31-ig az adóalap 0%-a.
+5/A. § Az 5. § (1)–(2) bekezdésekben foglaltaktól eltérően az adó mértéke 2019. július 1-jétől 2023. december 31-ig az adóalap 0%-a.
 
 #### 5.
 
@@ -190,7 +190,7 @@ azzal, hogy a Mód. törvénnyel megállapított 5. § (1) bekezdés szerinti, 2
 
 10. § Az 5. § (3) bekezdése az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1. o.) hatálya alá tartozó támogatást tartalmaz.
 
-11. § (1) A 2019. július 1. és 2022. december 31. közötti adókötelezettségre nem kell alkalmazni a 3. § (3)–(4) bekezdéseket, a 7. § (4)–(5) bekezdéseket, a 7/B. §–7/E. §-okat.
+11. § (1) A 2019. július 1. és 2023. december 31. közötti adókötelezettségre nem kell alkalmazni a 3. § (3)–(4) bekezdését, a 7. § (4)–(5) és (7) bekezdését, valamint a 7/B. §–7/E. §-t.
 
 (2) Az adóalany a 2019. július 1-jét magában foglaló adóév adóalapjának azon hányadára (részére) alkalmazza az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 5/A. § szerinti adómértéket, amekkora
 

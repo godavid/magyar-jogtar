@@ -6,7 +6,7 @@ a Magyar Köztársaság Kormánya és Kanada Kormánya között az 1992. áprili
 
 2. § A Jegyzőkönyv hivatalos magyar nyelvű szövege a következő:
 
-,,
+„,,
 
 Jegyzőkönyva Magyar Köztársaság Kormánya és Kanada Kormánya között 1992. április 15-én aláírt adóztatási Egyezményhez
 
@@ -70,6 +70,8 @@ Készült Budapesten, 1994. május hó 3. napján, két eredeti példányban, ma
 
 Magyar KöztársaságKormánya nevében
 
-Kanada Kormányanevében''
+Kanada Kormányanevében''”
 
 3. § Ez a törvény a kihirdetése napján lép hatályba, rendelkezéseit azonban Magyarországon a Jegyzőkönyv 2. Cikk 2. bekezdés a) és b) pontjaiban foglaltak szerint kell alkalmazni.
+
+4. § A Magyar Köztársaság Kormánya és a Kanadai Kormány között a kettős adóztatás elkerülésére és az adóztatás kijátszásának megakadályozására a jövedelem- és a vagyonadók területén Budapesten, 1992. április 15-én aláírt Egyezmény kihirdetéséről szóló 1995. évi XVI. törvény e törvénybe foglalt módosításokkal egységes szerkezetben a Nemzeti Jogszabálytárban történő közzétételéről az adópolitikáért felelős miniszter – a külpolitikáért felelős miniszter és az igazságügyért felelős miniszter egyetértésével – gondoskodik.

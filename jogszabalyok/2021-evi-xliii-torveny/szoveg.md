@@ -131,6 +131,8 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 (2a) Jogszabályban meghatározott feladatainak ellátása érdekében az európai uniós források felhasználásával kapcsolatos irányító hatósági vagy közreműködő szervezeti feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium jogosult ingyenesen, a nyilvántartó szerv által meghatározott módon megismerni az általa a 4. § (1) bekezdés b) pontja szerinti adatokkal meghatározott, az 1. § (1) bekezdése szerinti adatszolgáltató tényleges tulajdonosának 4. § (1) bekezdés g) pontja szerinti adatait, ide nem értve a 10. § (2) bekezdése és 11. § (2) bekezdése szerint közölt adatokat és azok rögzítésének időpontját.
 
+(2b) Az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvényben (a továbbiakban: Eufetv.) meghatározott feladatainak ellátása érdekében az Integritás Hatóság jogosult ingyenesen, a 21/B. §-a szerinti regisztráció nélkül, közvetlen adatkapcsolat keretében átvenni az általa a 4. § (1) bekezdés b) pontja szerinti adatokkal meghatározott, az Eufetv. IV. Fejezete hatálya alá tartozó adatszolgáltató tényleges tulajdonosának a tényleges tulajdonosi nyilvántartásban tárolt természetes személyazonosító adatait és lakcímadatát.
+
 (3) A szolgáltató a számára a Pmt. 7–10. §-ában előírt ügyfél-átvilágítási intézkedések vagy a Pmt. 12. § (1) és (2) bekezdésében előírt adatellenőrzési kötelezettségek teljesítése érdekében ingyenesen, a nyilvántartó szerv által meghatározott módon hozzáférhet az adatszolgáltatók tényleges tulajdonosi nyilvántartásban tárolt 4. § (1) bekezdés a)–g) pontja szerinti adataihoz, valamint a 10. § (2) bekezdés és 11. § (2) bekezdés szerint közölt adatokhoz és azok rögzítésének időpontjához.
 
 (4) Az adatszolgáltató és a tényleges tulajdonos jogosult egyedi adatszolgáltatás keretében ingyenesen, a nyilvántartó szerv által meghatározott módon megismerni a tényleges tulajdonosi nyilvántartásban tárolt 4. § (1) bekezdés szerinti saját tényleges tulajdonosi adatait, valamint a 10. § (2) bekezdés és 11. § (2) bekezdés szerint közölt adatokat és azok rögzítésének időpontját. A tényleges tulajdonos egyedi adatszolgáltatási kérelmét – a tényleges tulajdonos meghatalmazása alapján – azon adatszolgáltató nyújtja be, amelynek tényleges tulajdonosa.
@@ -280,8 +282,9 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 21/A. § (1) A nyilvántartó szerv
 
 - a) a hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv által a 8. § (1) bekezdése szerint,
-- b) a hatóság, az önkormányzati adóhatóság, a gazdasági kamarák, az ügyészség, a bíróság és a felügyeletet ellátó szerv által a 20. § (1) bekezdése szerint, valamint
-- c) a 8. § (3)–(7) bekezdése szerint
+- b) a hatóság, az önkormányzati adóhatóság, a gazdasági kamarák, az ügyészség, a bíróság és a felügyeletet ellátó szerv által a 20. § (1) bekezdése szerint,
+- c) a 8. § (3)–(7) bekezdése szerint, valamint
+- d) a 8. § (2b) bekezdése szerint
 
 végzett adathozzáféréseket naplózza.
 
@@ -311,6 +314,8 @@ végzett adathozzáféréseket naplózza.
 - g) a harmadik személyek által kezdeményezett adathozzáférés esetén
   - ga) az adathozzáférést kezdeményező természetes személy nevét,
   - gb) az adathozzáférést kezdeményező természetes személy regisztrációja során megadott elektronikus elérhetőségét.
+
+(3a) Az (1) bekezdés d) pontja szerinti naplóban a nyilvántartó szerv rögzíti az Integritás Hatóság és a nyilvántartó szerv közötti közvetlen adatkapcsolat tekintetében az adattovábbítás dátumát és időpontját, az adattovábbítás indításához használt adatok típusát, az adattovábbítással érintett adatok körét.
 
 (4) A nyilvántartó szerv adatvédelmi tisztviselője az (1) bekezdés szerinti napló megfelelő vezetését rendszeresen, de legalább félévente ellenőrzi. Az ellenőrzés eredményét az adatvédelmi tisztviselő dokumentálja, valamint e dokumentációt a (6) bekezdés szerinti időtartamig megőrzi.
 

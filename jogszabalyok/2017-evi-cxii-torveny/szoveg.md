@@ -28,7 +28,7 @@ Therefore, with effect from 1 January 2016, with reference to paragraphs 1, 2 an
 
 The Ministry of Foreign Affaires of the Republic of Estonia avails itself of this opportunity to renew the Embassy of the Republic of Hungary the assurances of its highest consideration.
 
-Tallin, 25 November 2016”
+Tallin, 25 November 2016
 
 „Külügyminisztérium
 
@@ -55,3 +55,5 @@ Tallin, 2016. november 25.”
 3. § Ez a törvény a kihirdetését követő napon lép hatályba.
 
 4. § Az e törvény végrehajtásához szükséges intézkedésekről az adópolitikáért felelős miniszter gondoskodik.
+
+5. § A Magyar Köztársaság és az Észt Köztársaság között a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról a jövedelem- és a vagyonadók területén, Budapesten, 2002. szeptember 11-én aláírt Egyezmény kihirdetéséről szóló 2004. évi CXXVIII. törvény e törvénybe foglalt módosításokkal egységes szerkezetben a Nemzeti Jogszabálytárban történő közzétételéről az adópolitikáért felelős miniszter – a külpolitikáért felelős miniszter és az igazságügyért felelős miniszter egyetértésével – gondoskodik.

@@ -47,7 +47,7 @@ SZERVEN BELÜLI VEZETŐI IRÁNYÍTÁSA ÉS FELADATAI
 
 (2) A NAV gazdasági vezetője a NAV egyik elnökhelyettese.
 
-8. § A Bűnügyi Főigazgatóságot főigazgató vezeti, akinek a munkáját főigazgató-helyettes segíti.
+8. § A Bűnügyi Főigazgatóságot főigazgató vezeti, akinek a munkáját főigazgató-helyettesek segítik.
 
 9. § (1) A NAV területi szervét a NAV elnöke által kinevezett igazgató vezeti. A NAV területi szervének vezetésében a NAV elnöke által kinevezett igazgatóhelyettes (igazgatóhelyettesek) vehet (vehetnek) részt.
 
@@ -55,7 +55,7 @@ SZERVEN BELÜLI VEZETŐI IRÁNYÍTÁSA ÉS FELADATAI
 
 10. § (1) A NAV elnökhelyettesei felett a kinevezési és felmentési jogkör kivételével a munkáltatói jogkört a NAV elnöke gyakorolja.
 
-(2) A Bűnügyi Főigazgatóság főigazgatója, valamint főigazgató-helyettese felett a munkáltatói jogkört a NAV elnöke gyakorolja.
+(2) A Bűnügyi Főigazgatóság főigazgatója, valamint főigazgató-helyettesei felett a munkáltatói jogkört a NAV elnöke gyakorolja.
 
 (3)
 
@@ -1266,7 +1266,7 @@ ADATÁTADÁSRA ÉS ÁTVÉTELRE VONATKOZÓ EGYES SZABÁLYOK
 
 (2) A bűnmegelőzési és bűnüldözési feladatokhoz kapcsolódó adatokat, valamint a 78. § szerint egyéb adatkezelés alá vont adatokat elkülönítetten kell kezelni, és – ha törvény eltérően nem rendelkezik – kizárólag a kezelésük alapjául szolgáló célra lehet felhasználni.
 
-(3) A NAV az (1) bekezdésben meghatározottak szerint kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg kivéve, ha e korlátozás alól a kijelölt miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott egyedi felmentést ad.
+(3) A NAV az (1) bekezdésben meghatározottak szerint kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg, kivéve, ha e korlátozás alól a kijelölt miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyonról szóló törvényben meghatározott egyedi felmentést ad.
 
 67. § (1) A NAV által vezetett, az Air., az Art., a Vtv. és az egyéb adó- és vámjogszabályok alapján a feladat- és hatáskörébe tartozó adókötelezettséggel, vámkötelezettséggel, adóigazgatási, vámigazgatási eljárással kapcsolatos nyilvántartások összekapcsolhatók. A NAV adóztatási feladatainak ellátása céljából kezelt adatokat, vámigazgatási feladatainak ellátása céljából a vámigazgatási feladatokat ellátó alkalmazott, illetve a NAV vámigazgatási feladatainak ellátása céljából kezelt adatokat, adóztatási feladatainak ellátása céljából az adóztatási feladatokat ellátó alkalmazott megismerheti, felhasználhatja, ideértve a megismert adatnak az ellenőrzésre történő kiválasztás során való felhasználását is.
 

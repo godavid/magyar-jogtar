@@ -25,9 +25,9 @@ A társadalmi közös kiadások fedezete érdekében az Országgyűlés a követ
 - 9. kedvezményezett: a Pft. 2. § 12. pontja szerinti jogalany;
 - 10. készpénzátutalás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdésében meghatározott fizetési mód;
 - 11. kiemelt közvetítői tevékenység: a Hpt. szerint meghatározott kiemelt közvetítői tevékenység;
-- 12. korlátozott rendeltetésű fizetési számla: a Pft. 21. § (2) bekezdése, továbbá a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 67/B. §-a alapján lekötött pénzösszeg, a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény, a nyugdíj-előtakarékossági számlákról szóló 2005. évi CLVI. törvény hatálya alá tartozó számlák, az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 81. § (1) bekezdésében meghatározott számlák és az azokkal összefüggésben vezetett elosztási számlák, a Kormány rendelete szerinti fedezetkezelői számlák, a letéti típusú számlák, valamint az online elszámolóházak fizetésközvetítésre fenntartott fizetési számlája;
+- 12. korlátozott rendeltetésű fizetési számla: a Pft. 21. § (2) bekezdése, továbbá a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 67/B. §-a alapján lekötött pénzösszeg, a fiatalok életkezdési támogatásáról szóló 2005. évi CLXXIV. törvény, a nyugdíj-előtakarékossági számlákról szóló 2005. évi CLVI. törvény hatálya alá tartozó számlák, az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 81. § (1) bekezdésében meghatározott számlák és az azokkal összefüggésben vezetett elosztási számlák, a Kormány rendelete szerinti fedezetkezelői számlák, a letéti típusú számlák, valamint az online elszámolóházak fizetésközvetítésre fenntartott fizetési számlája, valamint a helyi iparűzési adó devizában történő megfizetésével kapcsolatosan a kincstárban vezetett technikai számla;
 - 13. kölcsöntörlesztés: az a művelet, amelynek során a pénzforgalmi szolgáltató az ügyfele nála vezetett fizetési számláját kölcsönszerződés alapján fennálló követelése részbeni vagy teljes kielégítése céljából megterheli, továbbá az a művelet, amelynek során a pénzforgalmi szolgáltatónak nem minősülő, hitelt és pénzkölcsönt nyújtó pénzügyi intézménnyel fennálló kölcsönszerződés alapján fennálló kötelezettségét házipénztárába vagy fizetési számlájára az ügyfele készpénz megfizetésével részben vagy teljesen kielégíti, ide nem értve a Posta Elszámoló Központot működtető intézmény útján kezdeményezett készpénzbefizetést;
-- 14.
+- 14. egységes adatbeviteli megoldás útján benyújtott vagy fizetési kérelemmel kezdeményezett azonnali átutalási megbízás: a Magyar Nemzeti Bank elnöke által – a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 171. § (2) bekezdés a) pontjában meghatározott felhatalmazás alapján – kiadott rendeletben meghatározott fizetési művelet;
 - 15. pénzforgalmi szolgáltatás: a Hpt. szerint meghatározott pénzforgalmi szolgáltatás;
 - 16. pénzforgalmi szolgáltató: a Pft. 2. § 22. pontjában meghatározott jogalany, ideértve a külföldi székhelyű hitelintézet, elektronikuspénz-kibocsátó intézmény, pénzváltási tevékenység végzésére jogosult hitelintézet, pénzváltás közvetítésére jogosult kiemelt közvetítő és pénzforgalmi intézmény magyarországi fióktelepét is;
 - 17. pénzváltási tevékenység: a Hpt. szerint meghatározott pénzváltási tevékenység;
@@ -56,18 +56,21 @@ A társadalmi közös kiadások fedezete érdekében az Országgyűlés a követ
 - g) a jóvá nem hagyott vagy jóváhagyott, de hibásan teljesített fizetési művelet, ideértve az eredeti állapot helyreállítására irányuló fizetési műveletet is,
 - h) a korlátozott rendeltetésű fizetési számláról végrehajtott fizetési művelet,
 - i) a kincstárban vezetett, európai uniós támogatásokkal és elszámolásokkal, továbbá nemzetközi szervezetekkel történő elszámolásokkal kapcsolatos számlák terhére megvalósított fizetési művelet,
-- j)
-- k)
+- j) a kincstár által az Áht. 79. § (2) bekezdés f) pontja alá tartozó kincstári körön kívüli számlatulajdonos számlái terhére végrehajtott, a hallgatói hitel folyósításához kapcsolódó fizetési művelet,
+- k) az egységes adatbeviteli megoldás útján benyújtott vagy fizetési kérelemmel kezdeményezett azonnali átutalási megbízás, amennyiben a fizető fél számlatulajdonos természetes személy (az egyéni vállalkozói minőségében fizető természetes személy kivételével),
 - l) a földgázellátásról szóló törvény hatálya alá tartozó szervezett földgázpiacon és napi földgáz- és kapacitás kereskedelmi piacon, valamint a villamos energiáról szóló törvény hatálya alá tartozó szervezett villamosenergia-piacon megkötött ügyletek pénzügyi elszámolása során végrehajtott fizetési művelet,
 - m) az átutalás, ha a terhelendő vagy jóváírandó számla a Nemzeti Humanitárius Koordinációs Tanácsról szóló kormányrendelet szerint, veszélyhelyzet kezelése kapcsán, adománygyűjtés céljából létrehozott számla,
-- n)
+- n) a pénzforgalmi szolgáltató által vezetett fizetési számla terhére megvalósított fizetési művelet, feltéve, hogy a számla tulajdonosa kizárólag olyan természetes személy, jogi személy vagy egyéb jogi megállapodás (különösen a gazdasági társaság, a polgári jogi társasági szerződés, a bizalmi vagyonkezelési szerződés vagy az alapítvány), aki (amely) az Európai Unió más tagállama vagy más állam adójogszabályai értelmében más tagállambeli vagy más állambeli illetőségű, illetve olyan elhunyt hagyatéka, aki más tagállambeli vagy más állambeli illetőségű volt,
 - o)
 - p) az Észak-atlanti Szerződés tagállamainak és az 1995. évi CII. törvényben kihirdetett Békepartnerség más részes államainak fegyveres erői és polgári állománya részére vezetett számlán katonai cselekményeivel közvetlen összefüggésben végrehajtott fizetési művelet,
 - q) a Széchenyi Pihenő Kártyához tartozó korlátozott fizetési számlára történő átutalás,
 - r) a természetes személyek fizetési számlája és a kincstár által állampapír-forgalmazás érdekében vezetett számla között lebonyolított fizetési művelet, illetve ugyanezen célból a Posta Elszámoló Központot működtető intézmény útján kezdeményezett, a kincstár által vezetett számlára történő készpénzbefizetés, ha természetes személy a megbízó (befizető),
 - s)
 
-(5)
+(5) A (4) bekezdés n) pontja alkalmazása során a pénzforgalmi szolgáltató a nem magyar (a más tagállambeli vagy más állambeli) illetőség meghatározásához
+
+- a) természetes személy esetén a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 7. számú melléklet 6. pontjában foglalt szabályokat veszi figyelembe,
+- b) a jogi személy vagy egyéb jogi megállapodás esetén a székhely, illetve a tényleges üzletvezetés helye szerinti joghatóságot veszi figyelembe, azzal, hogy az olyan jogi személyt és az olyan egyéb jogi megállapodást, amely nem rendelkezik adóügyi illetőséggel, a tényleges üzletvezetési helye szerinti joghatóságban illetőséggel rendelkezőnek kell tekinteni.
 
 #### 4. A pénzügyi tranzakciós illetékfizetési kötelezettség keletkezése
 
@@ -121,7 +124,7 @@ köteles teljesíteni.
 - c) a pénzügyi tranzakciós illeték alapjának 0,6 százaléka a fizetési számláról történő készpénzkifizetés, illetve a készpénz-helyettesítő fizetési eszköz útján történő készpénzkifizetés esetén,
 - d)
 - e) a 6. § (1) bekezdés h) pontja szerinti illetékalap esetén – az f) pont szerinti kivétellel – 800 forint,
-- f) érintés nélküli fizetési funkcióval rendelkező készpénz-helyettesítő fizetési eszköz ezen funkciójának használatával végrehajtott műveletet is tartalmazó, a 6. § (1) bekezdés h) pontja szerinti illetékalap esetén 500 forint,
+- f) az érintés nélküli fizetési funkcióval rendelkező készpénz-helyettesítő fizetési eszköz ezen funkciójának használatával végrehajtott műveletet is tartalmazó, a 6. § (1) bekezdés h) pontja szerinti illetékalap esetén 500 forint,
 - g)
 - h) a pénzügyi tranzakciós illeték alapjának 0,3 százaléka, de fizetési műveletenként legfeljebb 6 ezer forint a 6. § (1) bekezdés c) pontja esetében átutalásonként, illetve kifizetésenként, ha az illetékfizetésre a Posta Elszámoló Központot működtető intézmény kötelezett,
 

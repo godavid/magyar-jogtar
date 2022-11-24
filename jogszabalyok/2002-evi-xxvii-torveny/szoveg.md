@@ -8,7 +8,7 @@ a Magyar Köztársaság és a Lengyel Köztársaság között, a kettős adózta
 
 2. § A Jegyzőkönyv angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
 
-,,
+„,,
 
 Protocolto the Convention for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respectto Taxes on Income and on Capital between the Republic of Hungary and the Republic of Poland, signed at Budapest on September 23, 1992
 
@@ -66,8 +66,10 @@ Készült két példányban, Varsóban, 2000. június hó 27. napján, angol nye
 
 A Magyar Köztársaságnevében
 
-A Lengyel Köztársaságnevében''
+A Lengyel Köztársaságnevében''”
 
 3. § (1) Ez a törvény a kihirdetése napján lép hatályba, rendelkezéseit azonban 2002. szeptember 1. napjától kell alkalmazni.
 
 (2) E törvény végrehajtásáról az adópolitikáért felelős miniszter gondoskodik.
+
+4. § A Magyar Köztársaság és a Lengyel Köztársaság között a kettős adóztatás elkerülésére és az adóztatás kijátszásának megakadályozására a jövedelem- és a vagyonadók területén Budapesten, 1992. szeptember 23-án aláírt Egyezmény kihirdetéséről szóló 1996. évi XCV. törvény e törvénybe foglalt módosításokkal egységes szerkezetben a Nemzeti Jogszabálytárban történő közzétételéről az adópolitikáért felelős miniszter – a külpolitikáért felelős miniszter és az igazságügyért felelős miniszter egyetértésével – gondoskodik.

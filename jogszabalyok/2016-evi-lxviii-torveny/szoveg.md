@@ -161,7 +161,7 @@ történő felhasználásra állítanak elő vagy ilyenként kínálnak, érték
 - 17. fűtőolaj: a 2710 19 62–2710 19 67 és a 2710 20 32–2710 20 38 KN-kód szerinti termék;
 - 18. gázolaj: a 2710 19 43-2710 19 48 és a 2710 20 11-2710 20 19 KN-kód szerinti termék;
 - 19. hálózati engedélyes: a villamos energiáról szóló törvény szerinti hálózati engedélyes és a földgázellátásról szóló törvény szerinti földgázelosztó és szállítási rendszerüzemeltető;
-- 20. jelölt gázolaj: a gázolaj és a kerozin közös adóügyi jelölőanyagának létrehozásáról szóló, 2016. november 25-i 2017/74/EU bizottsági végrehajtási határozata szerinti jelölőanyaggal megjelölt gázolaj;
+- 20. jelölt gázolaj: a gázolaj és a kerozin közös adóügyi jelölőanyagának létrehozásáról szóló, 2022. január 17-i 2022/197/EU bizottsági végrehajtási határozata szerint Solvent Yellow 124 vagy ACCUTRACE™ PLUS jelölőanyaggal megjelölt gázolaj;
 - 21. kereskedelmi gázolaj: gázolaj, amelyet
   - a) ellenszolgáltatás fejében vagy saját költségre kizárólag közúti árufuvarozásra szolgáló, legalább 7,5 tonna megengedett legnagyobb össztömegű gépjárművel vagy nyerges járműszerelvénnyel (nyerges vontatóval) végzett közúti árufuvarozáshoz, vagy
   - b) akár menetrendszerű, akár nem menetrendszerű forgalomban, a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott M2 vagy M3 kategóriába tartozó gépjárművel végzett személyszállításhoz

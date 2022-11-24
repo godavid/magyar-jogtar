@@ -18,6 +18,8 @@ az adóalap-erózió és nyereségátcsoportosítás megelőzése érdekében ho
 
 5. § E törvény végrehajtásához szükséges intézkedésekről az adópolitikáért felelős miniszter gondoskodik.
 
+6. § Az e törvény hatálya alá tartozó adóegyezményeket kihirdető jogszabályok e törvénybe foglalt módosításokkal egységes szerkezetben a Nemzeti Jogszabálytárban történő közzétételéről az adópolitikáért felelős miniszter – a külpolitikáért felelős miniszter és az igazságügyért felelős miniszter egyetértésével – gondoskodik.
+
 ### 1. melléklet a 2021. évi III. törvényhez
 
 Az adóalap-erózió és nyereségátcsoportosítás megelőzése érdekében hozott, adóegyezményekhez kapcsolódó intézkedések végrehajtásáról szóló Multilaterális Egyezmény
@@ -1128,6 +1130,8 @@ Ez a dokumentum a Magyarország által a ratifikációs okmány letétbe helyez�
 
 Az Egyezmény 2. Cikk (1) bekezdés (a) pont (ii) alpontjának megfelelően Magyarország a következő egyezményekre kívánja az Egyezményt alkalmazni:
 
+1X01352_0
+
 | Sorszám | Elnevezés | Másik szerződő joghatóság | Eredeti/ Módosító dokumentum | Aláírás dátuma | Hatálybalépés dátuma |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Egyezmény a Magyar Köztársaság és az Albán Köztársaság között a kettős adóztatás elkerülésére a jövedelem- és a vagyonadók területén | Albánia | Eredeti | 1992.11.14. | 1995.12.21. |
@@ -1237,6 +1241,8 @@ Az Egyezmény 6. Cikkének (6) bekezdése alapján Magyarország a 6. Cikk (3) b
 
 Az Egyezmény 6. Cikkének (5) bekezdése alapján Magyarország úgy tekinti, hogy a következő egyezmények nem tartoznak a 6. Cikk (4) bekezdése szerinti fenntartás alá, és a 6. Cikk (2) bekezdése szerinti preambulum-szöveget tartalmazzák. Az érintett preambulum-bekezdések szövege a lentiekben található.
 
+1X01352_1
+
 | Felsorolt Megállapodások száma | Másik Szerződő fél | Preambulum szövege |
 | --- | --- | --- |
 | 1 | Albánia | attól az óhajtól vezetve, hogy Egyezményt kössenek a kettős adóztatás elkerülésére a jövedelem- és vagyonadók területén |
@@ -1316,6 +1322,8 @@ Az Egyezmény 6. Cikkének (5) bekezdése alapján Magyarország úgy tekinti, h
 
 Az Egyezmény 6. Cikk (6) bekezdése alapján Magyarország úgy tekinti, hogy a következő egyezmények nem tartalmaznak a gazdasági kapcsolat fejlesztésére vagy az adóügyi együttműködés fokozására utaló szándékot kifejező preambulum-szöveget.
 
+1X01352_2
+
 | Felsorolt Megállapodás száma | Másik Szerződő Fél |
 | --- | --- |
 | 4 | Ausztria |
@@ -1360,6 +1368,8 @@ Az Egyezmény 7. Cikk (17) bekezdés b) pontja alapján Magyarország a 7. Cikk 
 Értesítés a felsorolt egyezményekben szereplő rendelkezésekről
 
 Az Egyezmény 7. Cikk (17) bekezdés a) pontja alapján Magyarország úgy tekinti, hogy a következő egyezmények nem tartoznak a 7. Cikk (15) bekezdés b) pontjában szereplő fenntartás hatálya alá, és a 7. Cikk (2) bekezdésében leírt rendelkezést tartalmazzák. E rendelkezések Cikk és bekezdés száma a lentiekben található.
+
+1X01352_3
 
 | Felsorolt egyezmény száma | Másik Szerződő Fél | Rendelkezés |
 | --- | --- | --- |
@@ -1432,6 +1442,8 @@ Az Egyezmény 16. cikk (5) bekezdés (a) albekezdése alapján Magyarország fen
 
 Az Egyezmény 16. Cikk (6) bekezdés b) pont i) alpontja alapján Magyarország úgy tekinti, hogy a következő egyezmények tartalmaznak olyan rendelkezést, amely szerint a 16. Cikk (1) bekezdés első mondatában említett esetet meghatározott időszakon belül kell előterjeszteni, ami rövidebb, mint három év a jelen Egyezmény hatálya alá tartozó adóegyezmények rendelkezéseinek meg nem felelő adóztatáshoz vezető intézkedésre vonatkozó első értesítést követően. E rendelkezések Cikk és bekezdés száma a lentiekben található.
 
+1X01352_4
+
 | Felsorolt egyezmények száma | Másik Szerződő Fél | Rendelkezés |
 | --- | --- | --- |
 | 12 | Kanada | 25. Cikk (1) bekezdés, második mondat |
@@ -1440,6 +1452,8 @@ Az Egyezmény 16. Cikk (6) bekezdés b) pont i) alpontja alapján Magyarország 
 | 51 | Portugália | 25. Cikk (1) bekezdés, második mondat |
 
 Az Egyezmény 16. Cikk (6) bekezdés b) pont ii) alpontja alapján Magyarország úgy tekinti, hogy a következő egyezmények tartalmaznak olyan rendelkezést, amely szerint a 16. Cikk (1) bekezdés első mondatában említett esetet meghatározott időszakon belül kell előterjeszteni, ami legalább három év a jelen Egyezmény hatálya alá tartozó adóegyezmények rendelkezéseinek meg nem felelő adóztatáshoz vezető intézkedésre vonatkozó első értesítést követően. E rendelkezések Cikk és bekezdés száma a lentiekben található.
+
+1X01352_5
 
 | Felsorolt egyezmények száma | Másik Szerződő Fél | Rendelkezés |
 | --- | --- | --- |
@@ -1511,11 +1525,15 @@ Az Egyezmény 16. Cikk (6) bekezdés b) pont ii) alpontja alapján Magyarország
 
 Az Egyezmény 16. Cikk (6) bekezdés c) pontjának i) alpontja alapján Magyarország úgy tekinti, hogy a következő egyezmény nem tartalmaz a 16. Cikk (4) bekezdés b) pontjának i) alpontja szerinti rendelkezést.
 
+1X01352_6
+
 | Felsorolt egyezmények száma | Másik Szerződő Fél |
 | --- | --- |
 | 42 | Mexikó |
 
 Az Egyezmény 16. Cikk (6) bekezdés c) pontjának ii) alpontja alapján Magyarország úgy tekinti, hogy a következő egyezmények nem tartalmaznak a 16. Cikk (4) bekezdés b) pontjának ii) alpontja szerinti rendelkezést.
+
+1X01352_7
 
 | Felsorolt egyezmények száma | Másik Szerződő Fél |
 | --- | --- |
@@ -1537,12 +1555,16 @@ Az Egyezmény 16. Cikk (6) bekezdés c) pontjának ii) alpontja alapján Magyaro
 
 Az Egyezmény 16. Cikk (6) bekezdés d) pontjának i) alpontja alapján Magyarország úgy tekinti, hogy a következő egyezmények nem tartalmaznak a 16. Cikk (4) bekezdés c) pontjának i) alpontja szerinti rendelkezést.
 
+1X01352_8
+
 | Felsorolt egyezmények száma | Másik Szerződő Fél |
 | --- | --- |
 | 3 | Ausztrália |
 | 21 | Franciaország |
 
 Az Egyezmény 16. Cikk (6) bekezdés d) pontjának ii) alpontja alapján Magyarország úgy tekinti, hogy a következő egyezmények nem tartalmaznak a 16. Cikk (4) bekezdés c) pontjának ii) alpontja szerinti rendelkezést.
+
+1X01352_9
 
 | Felsorolt egyezmények száma | Másik Szerződő Fél |
 | --- | --- |
@@ -1555,6 +1577,8 @@ Az Egyezmény 16. Cikk (6) bekezdés d) pontjának ii) alpontja alapján Magyaro
 Fenntartás
 
 Az Egyezmény 17. Cikk (3) bekezdés a) pontja alapján Magyarország fenntartja a jogot, hogy a 17. Cikket annak teljességében ne alkalmazza azon érintett adóegyezményei tekintetében, amelyek már tartalmaznak a 17. Cikk (2) bekezdésének megfelelő rendelkezéseket. A következő egyezmények tartalmazzák e fenntartásnak megfelelő rendelkezéseket.
+
+1X01352_10
 
 | Felsorolt egyezmény száma | Másik Szerződő Fél | Rendelkezés |
 | --- | --- | --- |
@@ -2767,6 +2791,8 @@ Notification – Agreements Covered by the Convention
 
 Pursuant to Article 2(1)(a)(ii) of the Convention, Hungary wishes the following agreements to be covered by the Convention:
 
+1X01410_0
+
 | No | Title | OtherContracting Jurisdiction | Original/AmendingInstrument | Date of Signature | Date of Entry into Force |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Convention Between The Republic Of Hungary And The Republic Of Albania For The Avoidance Of Double Taxation With Respect To Taxes On Income And On Capital | Albania | Original | 14-11-1992 | 21-12-1995 |
@@ -2876,6 +2902,8 @@ Notification of Existing Preamble Language in Listed Agreements
 
 Pursuant to Article 6(5) of the Convention, Hungary considers that the following agreements are not within the scope of a reservation under Article 6(4) and contain preamble language described in Article 6(2). The text of the relevant preambular paragraph is identified below.
 
+1X01410_1
+
 | ListedAgreementNumber | OtherContractingJurisdiction | Preamble Text |
 | --- | --- | --- |
 | 1 | Albania | Desiring to conclude a Convention for the avoidance of double taxation with respect to taxes on income and on capital |
@@ -2955,6 +2983,8 @@ Notification of Listed Agreements Not Containing Existing Preamble Language
 
 Pursuant to Article 6(6) of the Convention, Hungary considers that the following agreements do not contain preamble language referring to a desire to develop an economic relationship or to enhance co-operation in tax matters.
 
+1X01410_2
+
 | Listed Agreement Number | Other Contracting Jurisdiction |
 | --- | --- |
 | 4 | Austria |
@@ -2999,6 +3029,8 @@ Pursuant to Article 7(17)(b) of the Convention, Hungary hereby chooses to apply 
 Notification of Existing Provisions in Listed Agreements
 
 Pursuant to Article 7(17)(a) of the Convention, Hungary considers that the following agreements are not subject to a reservation under Article 7(15)(b) and contain a provision described in Article 7(2). The article and paragraph number of each such provision is identified below.
+
+1X01410_3
 
 | Listed Agreement Number | Other Contracting Jurisdiction | Provision |
 | --- | --- | --- |
@@ -3071,6 +3103,8 @@ Notification of Existing Provisions in Listed Agreements
 
 Pursuant to Article 16(6)(b)(i) of the Convention, Hungary considers that the following agreements contain a provision that provides that a case referred to in the first sentence of Article 16(1) must be presented within a specific time period that is shorter than three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Covered Tax Agreement. The article and paragraph number of each such provision is identified below.
 
+1X01410_4
+
 | Listed Agreement Number | Other Contracting Jurisdiction | Provision |
 | --- | --- | --- |
 | 12 | Canada | Article 25(1), second sentence |
@@ -3079,6 +3113,8 @@ Pursuant to Article 16(6)(b)(i) of the Convention, Hungary considers that the fo
 | 51 | Portugal | Article 25(1), second sentence |
 
 Pursuant to Article 16(6)(b)(ii) of the Convention, Hungary considers that the following agreements contain a provision that provides that a case referred to in the first sentence of Article 16(1) must be presented within a specific time period that is at least three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Covered Tax Agreement. The article and paragraph number of each such provision is identified below.
+
+1X01410_5
 
 | Listed Agreement Number | Other Contracting Jurisdiction | Provision |
 | --- | --- | --- |
@@ -3150,11 +3186,15 @@ Notification of Listed Agreements Not Containing Existing Provisions
 
 Pursuant to Article 16(6)(c)(i) of the Convention, Hungary considers that the following agreement does not contain a provision described in Article 16(4)(b)(i).
 
+1X01410_6
+
 | Listed Agreement Number | Other Contracting Jurisdiction |
 | --- | --- |
 | 42 | Mexico |
 
 Pursuant to Article 16(6)(c)(ii) of the Convention, Hungary considers that the following agreements do not contain a provision described in Article 16(4)(b)(ii).
+
+1X01410_7
 
 | Listed Agreement Number | Other Contracting Jurisdiction |
 | --- | --- |
@@ -3176,12 +3216,16 @@ Pursuant to Article 16(6)(c)(ii) of the Convention, Hungary considers that the f
 
 Pursuant to Article 16(6)(d)(i) of the Convention, Hungary considers that the following agreements do not contain a provision described in Article 16(4)(c)(i).
 
+1X01410_8
+
 | Listed Agreement Number | Other Contracting Jurisdiction |
 | --- | --- |
 | 3 | Australia |
 | 21 | France |
 
 Pursuant to Article 16(6)(d)(ii) of the Convention, Hungary considers that the following agreements do not contain a provision described in Article 16(4)(c)(ii).
+
+1X01410_9
 
 | Listed Agreement Number | Other Contracting Jurisdiction |
 | --- | --- |
@@ -3194,6 +3238,8 @@ Article 17 – Corresponding Adjustments
 Reservation
 
 Pursuant to Article 17(3)(a) of the Convention, Hungary reserves the right for the entirety of Article 17 not to apply to its Covered Tax Agreements that already contain a provision described in Article 17(2). The following agreements contain provisions that are within the scope of this reservation.
+
+1X01410_10
 
 | Listed Agreement Number | Other Contracting Jurisdiction | Provision |
 | --- | --- | --- |
