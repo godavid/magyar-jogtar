@@ -613,7 +613,7 @@ lehet előterjeszteni.
 - d) az idézni kívánt személy lakóhelyén nem működik olyan hatóság, amely megfelelő szakismeretek birtokában tudná elvégezni a szükséges eljárási cselekményt, vagy
 - e) azt az idézett személy kéri.
 
-(2) A fővárosban működő adóhatóság a főváros egész területéről idézhet.
+(2) Az adóhatóság a fővárosban működő adóhatóság hivatali helyiségébe a főváros egész területéről idézhet.
 
 #### 56. § [Az idézett személy megjelenési kötelezettsége]
 
@@ -961,6 +961,10 @@ A közlést hirdetmény útján kell teljesíteni, ha
 (6) A kézbesítési kifogásnak az eljárás folytatására, illetve a végrehajtásra nincs halasztó hatálya. Az adóhatóság a végrehajtási eljárást kérelemre vagy hivatalból a kézbesítési kifogást elbíráló döntés véglegessé válásáig felfüggesztheti, ha a kérelemben előadott tények, körülmények annak elfogadását valószínűsítik.
 
 (7) Ha a kézbesítési kifogásnak az adóhatóság helyt ad, az adózó vagy az eljárás egyéb résztvevője által kifogásolt kézbesítést követően tett intézkedéseket, illetve az eljárást a kézbesítés időpontjától a szükséges mértékben meg kell ismételni.
+
+#### 81/A. § [Az eljárás egyéb résztvevőjére vonatkozó kézbesítési szabályok]
+
+Ezen alcím rendelkezéseit az eljárás egyéb résztvevője részére történő kézbesítés esetén is alkalmazni kell.
 
 #### 37. Biztosítási intézkedés, ideiglenes biztosítási intézkedés
 
@@ -1318,7 +1322,7 @@ Ha az ellenőrzési eljárás zavartalan lefolytatása másképpen nem biztosít
 
 #### 116. § [Kiegészítő ellenőrzés]
 
-Az ellenőrzést az adózó észrevétele alapján az észrevétel beérkezésétől, szóban előterjesztett észrevétel esetén annak jegyzőkönyvbe foglalásától számított legfeljebb harminc napig, jogkövetési vizsgálat esetében legfeljebb tizenöt napig lehet folytatni. Az ellenőrzést az ellenőrzés befejezésétől számított harminc napon belül, az ok felmerülésétől számított tizenöt napig akkor is lehet folytatni, ha a határozat meghozatalához a tényállás tisztázása válik szükségessé. Az adóhatóság az adózót a kiegészítő ellenőrzésről a kiegészítő ellenőrzés kezdő napjának megjelölésével haladéktalanul értesíti. A kiegészítő ellenőrzésről kiegészítő jegyzőkönyvet kell készíteni.
+Az ellenőrzést az adózó észrevétele alapján az észrevétel beérkezésétől, szóban előterjesztett észrevétel esetén annak jegyzőkönyvbe foglalásától számított legfeljebb harminc napig, jogkövetési vizsgálat esetében legfeljebb tizenöt napig lehet folytatni. Az ellenőrzést az ellenőrzés befejezésétől számított harminc napon belül, az ok felmerülésétől számított tizenöt napig akkor is lehet folytatni, ha a tényállás tisztázása válik szükségessé. Az adóhatóság az adózót a kiegészítő ellenőrzésről a kiegészítő ellenőrzés kezdő napjának megjelölésével haladéktalanul értesíti. A kiegészítő ellenőrzésről kiegészítő jegyzőkönyvet kell készíteni.
 
 #### 117. § [Határozathozatal az ellenőrzési megállapításokról]
 
@@ -1396,6 +1400,7 @@ Fellebbezés benyújtására az jogosult, akire a döntés rendelkezést tartalm
 - k) az áru hatósági felügyelet alá vonását elrendelő
 - l) a visszatartási jog gyakorlásáról rendelkező, valamint
 - m) a hatósági átvezetésről rendelkező
+- n) az adatok zárt kezelésére irányuló kérelmet elutasító
 
 végzés ellen.
 
@@ -1644,6 +1649,10 @@ E törvénynek az egyes adótörvények és más kapcsolódó törvények módos
 2022. évi XXIV. törvényhez]
 
 A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény által megállapított 84. § (5) bekezdését a hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
+#### 139/E. § [Átmeneti rendelkezés az egyes adótörvények módosításáról szóló 2022. évi XLV. törvényhez]
+
+E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvény (a továbbiakban: Módtv.4.) által megállapított 53. § (7) bekezdését a Módtv.4. hatálybalépését követően benyújtott igazolási kérelmekre kell alkalmazni.
 
 #### 57. Az Európai Unió jogának való megfelelés
 

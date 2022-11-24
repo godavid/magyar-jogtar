@@ -209,7 +209,9 @@ azzal, hogy munkaerő-kölcsönzés, illetve egy munkakörre több munkáltatóv
 - 52.
 - 53. Termőföld haszonbérbe adása: a termőföld, illetve halastó magánszemély tulajdonosa vagy haszonélvezője által egy vagy több évre, írásban kötött megállapodás alapján, ellenérték fejében a föld használati jogosultságának mező-, erdőgazdasági, illetve halászati hasznosításra történő átengedése.
 - 54. Beruházási költség: az e törvény szerint költségként elismert, igazolt, a tárgyi eszköz, a nem anyagi javak üzembe helyezése érdekében az üzembe helyezés napjáig felmerült, az előírt nyilvántartásban feltüntetett kiadás.
-- 55–57.
+- 55.
+- 56.
+- 57.
 - 58.
 - 59.
 - 60. Sportrendezvény: sportszervezet vagy sportszövetség által versenyrendszerben vagy azon kívül, résztvevők jelenlétében megtartott verseny, mérkőzés.
@@ -624,9 +626,15 @@ azzal, hogy a b) pont alkalmazásában az adóbevallási tervezetben szereplő a
 
 (4) A vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozónál önálló tevékenységből származó jövedelemnek minősül az egyéni vállalkozói tevékenység során személyes munkavégzés címén vállalkozói költségként elszámolt vállalkozói kivét, amellyel szemben költség, költséghányad vagy más levonás nem érvényesíthető.
 
-(5)–(6)
+(5)
 
-(7)–(9)
+(6)
+
+(7)
+
+(8)
+
+(9)
 
 17. § (1) Az önálló tevékenységből származó bevételt a 2. és a 4. számú melléklet rendelkezései szerint kell figyelembe venni.
 
@@ -732,11 +740,21 @@ azzal, hogy a b) pont alkalmazásában az adóbevallási tervezetben szereplő a
 
 (4) A magánszemély a munkahelye és a lakóhelye közötti útvonalra gépjárművel történő munkába járás címén költséget nem számolhat el.
 
-(5)–(8)
+(5)
+
+(6)
+
+(7)
+
+(8)
 
 26. § (1) Ha a munkaviszonyból származó, előző naptári évre vonatkozó bevételt, a munkáltató által kifizetett adóköteles társadalombiztosítási ellátást a következő év január 10-éig fizetik ki, azt az előző naptári év utolsó napján megszerzett jövedelemnek kell tekinteni.
 
-(2)–(4)
+(2)
+
+(3)
+
+(4)
 
 27. § (1) A nem önálló tevékenységből származó bevételt az adóalap megállapítása előtt csökkenti
 
@@ -763,7 +781,9 @@ azzal, hogy a b) pont alkalmazásában az adóbevallási tervezetben szereplő a
 
 (2) Ha a biztosítás más személy által fizetett díja a befizetés időpontjában hatályos 1. számú melléklet 6. pont 6.9. alpontja alapján vagy a kockázati biztosításnak nem minősülő, határozatlan idejű, kizárólag halál esetére szóló életbiztosítás más személy által 2013. január 1-jét megelőzően fizetett díja az 1. számú mellékletnek a befizetés időpontjában hatályos 6. pont 6.3. alpontja alapján részben vagy egészben adómentes volt, akkor – függetlenül a biztosítási szerződés esetleges módosításától – a biztosító teljesítéséből (kivéve, ha a biztosító teljesítése a 1. számú melléklet 6. pont 6.6. alpontja alapján haláleseti, betegségbiztosítási vagy baleset-biztosítási szolgáltatásként adómentes) a kifizetőnek nem minősülő magánszemély által fizetett biztosítási díj, valamint az adóköteles biztosítási díj együttes összegét meghaladó rész egyéb jövedelemnek minősül. A biztosítói teljesítést megelőzően bevételcsökkentő tételként már figyelembe vett díjrészeket figyelmen kívül kell hagyni az egyéb jövedelem biztosítói teljesítés időpontjában történő további megállapítása során.
 
-(3)–(4)
+(3)
+
+(4)
 
 (5) Egyéb jövedelemnek minősül a vásárolt (engedményezett) követelésből származó bevételnek a követelés vásárlási (engedményezési) ellenértékét meghaladó része, kivéve, ha adókötelezettségének e törvény szerinti jogcíme egyébként megállapítható.
 
@@ -839,7 +859,11 @@ kell jövedelemnek tekinteni. A kötelező várakozási időszak leteltét köve
 
 - a)–e)
 
-(20)–(22)
+(20)
+
+(21)
+
+(22)
 
 ### Az összevont adóalap megállapítása
 
@@ -1047,7 +1071,9 @@ esetén az adóbevallásban – a másik jogosult vagy a megosztással érintett
 
 (2)
 
-(3)–(4)
+(3)
+
+(4)
 
 #### 40. §
 
@@ -1197,7 +1223,8 @@ de legfeljebb az adóévben – az a)–b) pontok vonatkozásában együttesen �
 
 (2) Nem terheli adóelőleg:
 
-- a)–b)
+- a)
+- b)
 - c) a nyugdíj-előtakarékossági számla terhére teljesített nem-nyugdíj szolgáltatás esetében megállapított adóalapot,
 - d) az önkéntes kölcsönös biztosítópénztár
   - da) által a magánszemély egyéni számláján jóváírt adóköteles összeget, ha az egyéb jövedelemnek minősül,
@@ -1265,7 +1292,13 @@ ha azonban a da) pont esetén az adóelőleg-alap az ott meghatározott értékh
 
 (5) A (2) bekezdés alkalmazásában az adóelőleg-alap számításnál figyelembe vett jövedelemnek a bevételből a bekezdés rendelkezése szerint megállapított rész 89 százaléka minősül, ha a jövedelem után a magánszemély kötelezett a szociális hozzájárulási adó megfizetésére (kivéve, ha az költségként elszámolható, vagy azt számára megtérítették).
 
-(6)–(9)
+(6)
+
+(7)
+
+(8)
+
+(9)
 
 ### Az adóelőleg-nyilatkozat
 
@@ -1551,7 +1584,11 @@ az a)–b) pontban említett adókat késedelmi pótlékkal növelten a kivezet�
 - c) a tárgyi eszköz, a nem anyagi javak értékcsökkenési leírása megkezdésének évében a vonatkozó beruházási költséget képező kiadások azon része, amellyel az egyéni vállalkozó ezt az évet megelőző években a vállalkozói osztalékalapját csökkentette;
 - d) a c) pontban nem említett esetben: a vállalkozói osztalékalapnak a beruházási költséget képező kiadással első ízben történő csökkentése évét követő negyedik évben (ültetvény esetében annak elidegenítésekor, de legkésőbb a termőre fordulás évében) a vonatkozó beruházási költséget képező kiadások azon része, amellyel az egyéni vállalkozó ezt az évet megelőző években a vállalkozói osztalékalapját csökkentette, illetve ennél előbb az egyéni vállalkozói tevékenység megszüntetésekor.
 
-(3)–(5)
+(3)
+
+(4)
+
+(5)
 
 (6) Az adózás utáni vállalkozói jövedelem és a (2) bekezdésben említett tételek együttes összege, legfeljebb annak mértékéig csökkenthető
 
@@ -2176,7 +2213,7 @@ kell figyelembe venni.
 (14) Tartós befektetési szerződést köthet az (1) bekezdésben említett magánszemélyen túlmenően:
 
 - a) a magánalapítvány magánszemély mint kedvezményezett javára történő vagyoni juttatás céljából;
-- b) a bizalmi vagyonkezelő – a magánszeméllyel mint vagyonrendelővel magánszemély mint kedvezményezett javára megkötött – bizalmi vagyonkezelési szerződés teljesítése céljából,
+- b) a bizalmi vagyonkezelő – a magánszeméllyel mint vagyonrendelővel magánszemély mint kedvezményezett javára megkötött – bizalmi vagyonkezelési szerződés, valamint a magánszemély mint kedvezményezett javára történő vagyoni juttatás céljából magánszemély által alapított vagyonkezelő alapítvány bizalmi vagyonkezelői feladatának teljesítése céljából,
 
 azzal, hogy a szerződés szerint keletkező hozam adókötelezettségére e § rendelkezéseit kell alkalmazni, a hozammal kapcsolatban keletkező adókötelezettséget az alapítványi vagyon, a kezelt vagyon terhére a szerződő alapítvány, vagyonkezelő teljesíti, az e § szerinti rendelkezést, bevallási kötelezettséget az alapítvány, a vagyonkezelő tesz, teljesít.
 
@@ -2659,7 +2696,9 @@ e tájékoztatási kötelezettség elmulasztása vagy nem megfelelő teljesíté
 
 (20) Amennyiben a program szervezője és a programban érintett más vállalkozás között a kapcsolt vállalkozási viszony megszűnik, a kapcsolt vállalkozási viszony megszűnését követően az egyébként a programszervezőre irányadó, e paragrafus szerinti adókötelezettségeket – saját munkavállalói, vezető tisztségviselői vonatkozásában – a programban érintett más vállalkozás teljesíti. A programszervező a programban érintett más vállalkozás adókötelezettségei teljesítéséhez szükséges adatokat a kapcsolt vállalkozási viszony megszűnésekor a programban érintett más vállalkozás részére átadja. Az adókötelezettségek – felek közötti együttműködés hiánya miatti – megsértése esetén a jogkövetkezményekért a felek egyetemlegesen felelnek.
 
-(21)–(22)
+(21)
+
+(22)
 
 (22a)
 
@@ -2745,7 +2784,9 @@ e tájékoztatási kötelezettség elmulasztása vagy nem megfelelő teljesíté
 
 (4)
 
-(5)–(6)
+(5)
+
+(6)
 
 (7)
 
@@ -3942,9 +3983,9 @@ d) részére a jogszabály, illetőleg a kollektív szerződés vagy a munkaszer
 
 10. a központi költségvetésbe, a helyi önkormányzatoknak fizetett, kizárólag az adott önálló tevékenységhez kapcsolódó adó (ide nem értve a személyi jövedelemadót), illeték, hatósági díj, vám, vámkezelési díj, perköltség, kötbér, késedelmi kamat, önellenőrzési pótlék;
 
-11. az adózás rendjéről szóló törvény szerinti telephely bérleti díja, a fűtés, a világítás és a technológiai energia költsége, a telefon, rádiótelefon, telefax, cb-rádió, telex használati díja azzal, hogy ha a lakás és a telephely műszakilag nem elkülönített, akkor a tevékenységgel arányosan lehet a kiadásokat figyelembe venni az adott költségre jellemző mértékegységek (nap, m2, m3 stb.) alapulvételével (a közüzemi számlák esetében a házastárs nevére szóló számla alapján is);
+11. az adózás rendjéről szóló törvény szerinti telephely bérleti díja, a fűtés, a világítás és a technológiai energia költsége, a telefon, mobiltelefon, telefax, cb-rádió, internet használati díja azzal, hogy ha a lakás és a telephely műszakilag nem elkülönített, akkor a tevékenységgel arányosan lehet a kiadásokat figyelembe venni az adott költségre jellemző mértékegységek (nap, m2, m3 stb.) alapulvételével (a közüzemi számlák esetében a házastárs nevére szóló számla alapján is);
 
-12. a mezőgazdasági őstermelőnél a telefon, a rádiótelefon, a telefax, a cb-rádió, a telex telephelyre történő beszerelése esetén a készülék ára, és a beszerelés díja (ha a lakás és telephely műszakilag nem elkülönített, a telefon árának és beszerelési díjának 50 százaléka), továbbá – ha a használat csak részben szolgálja a tevékenységet, tételes elkülönítés nélkül – az internet használati díjának 30 százaléka, elektronikus bevallás adására kötelezett mezőgazdasági őstermelő esetében 50 százaléka;
+12. a mezőgazdasági őstermelőnél a telefon, a mobiltelefon, a telefax, a cb-rádió, az internet telephelyre történő beszerelése esetén a készülék ára, a beszerelés díja és a használat díja (ha a lakás és telephely műszakilag nem elkülönített, a telefon árának és beszerelési díjának 50 százaléka), továbbá – ha a használat csak részben szolgálja a tevékenységet, tételes elkülönítés nélkül – az internet használati díjának 30 százaléka, elektronikus bevallás adására kötelezett mezőgazdasági őstermelő esetében 50 százaléka;
 
 13. a mezőgazdasági őstermelőnél a telefonfejlesztési hozzájárulás, továbbá a közműfejlesztési hozzájárulásnak a helyi önkormányzat által visszatérített összeggel csökkentett része, azzal, hogy ha a hozzájárulás alapjául szolgáló berendezést a lakástól műszakilag el nem különült telephelyre szerelik be, költségként a megfizetett magasabb hozzájárulás és az ilyen esetben a magánszemélyként egyébként fizetendő összeg különbözete számolható el;
 
@@ -4408,9 +4449,9 @@ valamint más magánszemély javára megállapodás alapján nyugellátásra jog
 
 11. a központi költségvetésbe, a helyi önkormányzatoknak az adóévben megfizetett, kizárólag a tevékenységhez kapcsolódó adó, illeték, hatósági díj, vám, vámkezelési díj, perköltség, kötbér, késedelmi kamat, önellenőrzési pótlék, kivéve, ha a tárgyi eszköz beszerzési árának részét képezi;
 
-12. az üzlet, a műhely, a gazdasági épület, az iroda bérleti díja, a fűtés, a világítás és a technológiai energia költsége, a telefon, rádiótelefon, telefax, cb-rádió, telex (ha a lakás és a telephely műszakilag nem elkülönített, akkor a tevékenységgel arányosan lehet e kiadásokat figyelembe venni az adott költségre jellemző mértékegységek – például nap, m2, m3 – alapulvételével), továbbá az internet használat díja (ha a lakás és a telephely műszakilag nem elkülönített, az internet használati díjának 50 százaléka) azzal, hogy kizárólag a közüzemi számlák esetében a házastárs nevére szóló számla is elfogadható;
+12. az üzlet, a műhely, a gazdasági épület, az iroda bérleti díja, a fűtés, a világítás és a technológiai energia költsége, a telefon, mobiltelefon, telefax, cb-rádió (ha a lakás és a telephely műszakilag nem elkülönített, akkor a tevékenységgel arányosan lehet e kiadásokat figyelembe venni az adott költségre jellemző mértékegységek – például nap, m2, m3 – alapulvételével), továbbá az internet használat díja (ha a lakás és a telephely műszakilag nem elkülönített, az internet használati díjának 50 százaléka) azzal, hogy kizárólag a közüzemi számlák esetében a házastárs nevére szóló számla is elfogadható;
 
-13. a telefon, a rádiótelefon, a telefax, a cb-rádió, a telex telephelyre történő beszerelése esetén a készülék ára és a beszerelés díja, azzal, hogy a telefon árának és beszerelési díjának 50 százaléka számolható el költségként abban az esetben, ha az egyéni vállalkozó lakása és telephelye műszakilag nem elkülönített;
+13. a telefon, a mobiltelefon, a telefax, a cb-rádió, az internet telephelyre történő beszerelése esetén a készülék ára és a beszerelés díja, azzal, hogy a telefon árának és beszerelési díjának 50 százaléka számolható el költségként abban az esetben, ha az egyéni vállalkozó lakása és telephelye műszakilag nem elkülönített;
 
 14. a telefonfejlesztési hozzájárulás, továbbá a közműfejlesztési hozzájárulásnak a helyi önkormányzat által visszatérített összeggel csökkentett része, azzal, hogy ha a hozzájárulás alapjául szolgáló berendezést a lakástól műszakilag el nem különült telephelyre szerelik be, költségként az egyéni vállalkozó által fizetett magasabb hozzájárulás és az ilyen esetben magánszemélyként egyébként fizetendő összeg különbözete számolható el;
 

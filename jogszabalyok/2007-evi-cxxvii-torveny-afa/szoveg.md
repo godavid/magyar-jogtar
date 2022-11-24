@@ -648,6 +648,8 @@ napot meg nem haladó használatát jelenti.
 
 (4) Az az adóalany, aki (amely) élt a (3) bekezdés szerinti választási jogával, attól a választása évét követő második naptári év végéig nem térhet el.
 
+(5) A (3) bekezdés alkalmazásában az állami adó- és vámhatóság részére történő bejelentésnek minősül, ha az adóalany élt a 253/I. § (1)–(2) bekezdés szerinti választási jogával.
+
 #### 3. alfejezet
 
 ### Teljesítés helye termék Közösségen belüli beszerzése esetében
@@ -1900,7 +1902,7 @@ fizeti, feltéve, hogy a szolgáltatást nyújtó adóalany belföldön gazdasá
 
 ### Adófizetésre kötelezett termék Közösségen belüli beszerzése esetében
 
-143. § (1) Termék Közösségen belüli beszerzése esetében az adót – a (2) bekezdésben és a 144. §-ban meghatározott eltéréssel – a terméket beszerző
+143. § (1) Termék Közösségen belüli beszerzése esetében az adót – a (2) bekezdésben meghatározott eltéréssel – a terméket beszerző
 
 - a) adóalany,
 - b) nem adóalany jogi személy
@@ -2276,7 +2278,7 @@ számlakibocsátási kötelezettséget jelent.
 
 171. § A gyűjtőszámlában az összes számlakibocsátásra jogalapot teremtő ügyletet tételesen, egymástól elkülönítve úgy kell feltüntetni, hogy az egyes ügyletek adóalapjai – a 169. § j) és m) pontja szerinti csoportosításban – összesítetten szerepeljenek.
 
-172. § A számlán az áthárított adót [169. § k) pontja] – a 80. § szerint meghatározott árfolyam alkalmazásával – forintban kifejezve abban az esetben is fel kell tüntetni, ha az egyéb adatok külföldi pénznemben kifejezettek.
+172. § A 2. § a) pontja szerinti termékértékesítésről, szolgáltatásnyújtásról kibocsátott számlán az áthárított adót [169. § k) pontja] – a 80. § szerint meghatározott árfolyam alkalmazásával – forintban kifejezve abban az esetben is fel kell tüntetni, ha az egyéb adatok külföldi pénznemben kifejezettek.
 
 ### Nyugta adattartalma
 
@@ -2337,7 +2339,7 @@ számlakibocsátási kötelezettséget jelent.
 
 178. § (1) Külön jogszabály a számla és a nyugta kiállításának módjára, ideértve a nyugta-kibocsátási kötelezettség kötelező gépi kiállítással történő megvalósítását is, valamint a számla és a nyugta adóigazgatási azonosítására egyéb rendelkezéseket is megállapíthat.
 
-(1a) A nyugtaadási kötelezettség gépi kiállítással történő megvalósítása esetén a géppel kiállított nyugták, számlák, valamint a pénztárgép adatairól az adóalany – jogszabály szerint – rendszeresen adatszolgáltatást teljesít az állami adóhatóság részére. Jogszabály előírhatja, hogy a nyugtakibocsátási kötelezettség kötelező gépi kiállítással történő megvalósítására szolgáló pénztárgép működését az állami adóhatóság hírközlő eszköz és rendszer útján felügyelje. Ebben az esetben az adatszolgáltatás – jogszabály szerint – az állami adóhatóság általi közvetlen adatlekérdezéssel is megvalósítható. Az adatszolgáltatáshoz szükséges adatkapcsolatot biztosító hírközlési szolgáltató a pénztárgép adóügyi ellenőrző egységének azonosítóit nem kapcsolhatja össze a pénztárgép üzemeltetőjének adataival. Az adatszolgáltatáshoz szükséges adatkapcsolatot biztosító hírközlési szolgáltató a pénztárgép üzemeltetője részére biztosított szolgáltatás szüneteltetéséről, illetve megszüntetéséről adatot szolgáltat az állami adóhatóság részére. A közvetlen adatlekérdezéssel megvalósított adatszolgáltatás teljesítése alól az állami adóhatóság – az elektronikus hírközlő hálózat hiányára tekintettel – jogszabály szerint, kérelemre egyedi mentesítést adhat. Az egyedi mentesítés iránti kérelem elbírálása során a Nemzeti Média- és Hírközlési Hatóság szakhatóságként működik közre az elektronikus hírközlő hálózat elérhetősége kérdésében.
+(1a) A nyugtaadási kötelezettség gépi kiállítással történő megvalósítása esetén az engedélyezett géppel kiállított nyugták, számlák, valamint a pénztárgép adatairól az adóalany – jogszabály szerint – rendszeresen adatszolgáltatást teljesít az állami adóhatóság részére. Jogszabály előírhatja, hogy a nyugtakibocsátási kötelezettség kötelező gépi kiállítással történő megvalósítására szolgáló pénztárgép-, gépi nyugta kiállítására szolgáló egyéb technikai megoldás működését az állami adóhatóság hírközlő eszköz és rendszer útján felügyelje. Ebben az esetben az adatszolgáltatás – jogszabály szerint – az állami adóhatóság általi közvetlen adatlekérdezéssel is megvalósítható. Az adatszolgáltatáshoz szükséges adatkapcsolatot biztosító hírközlési szolgáltató a pénztárgép adóügyi ellenőrző egységének azonosítóit, a gépi nyugta kiállítására szolgáló egyéb technikai megoldás azonosítóit nem kapcsolhatja össze a pénztárgép-, a gépi nyugta kiállítására szolgáló egyéb technikai megoldás üzemeltetőjének adataival. Az adatszolgáltatáshoz szükséges adatkapcsolatot biztosító hírközlési szolgáltató a pénztárgép-, a gépi nyugta kiállítására szolgáló egyéb technikai megoldás üzemeltetője részére biztosított szolgáltatás szüneteltetéséről, illetve megszüntetéséről adatot szolgáltat az állami adóhatóság részére. A közvetlen adatlekérdezéssel megvalósított adatszolgáltatás teljesítése alól az állami adóhatóság – az elektronikus hírközlő hálózat hiányára tekintettel – jogszabály szerint, kérelemre egyedi mentesítést adhat. Az egyedi mentesítés iránti kérelem elbírálása során a Nemzeti Média- és Hírközlési Hatóság szakhatóságként működik közre az elektronikus hírközlő hálózat elérhetősége kérdésében.
 
 (2) Számla magyar nyelven vagy élő idegen nyelven egyaránt kiállítható. E rendelkezés alkalmazásától az (1) bekezdésben említett esetben sem lehet eltérni.
 
@@ -2469,6 +2471,7 @@ nem haladja meg a (2) bekezdésben meghatározott felső értékhatárt.
 - e) a 85. § (1) bekezdése szerinti adómentes termékértékesítés, szolgáltatásnyújtás,
 - f) a 86. § (1) bekezdésének a)–g) pontjai szerinti adómentes, kiegészítő jellegű szolgáltatásnyújtás,
 - g) a XIV. fejezetben szabályozott jogállású adóalanynak a mezőgazdasági tevékenysége körébe tartozó termékértékesítése, szolgáltatásnyújtása
+- h) a 49/A. § (1) bekezdése szerinti eset kivételével a 12/B. § szerinti termékértékesítés
 
 fejében megtérített vagy megtérítendő ellenérték.
 
@@ -2492,10 +2495,10 @@ fejében megtérített vagy megtérítendő ellenérték.
 
 193. § (1) Az adóalany az alanyi adómentesség időszakában nem járhat el alanyi adómentes minőségében
 
-- a) a 188. § (3) bekezdésének a)–d) pontjaiban meghatározott esetekben;
+- a) a 188. § (3) bekezdésének a)–d) és h) pontjában meghatározott esetekben;
 - b) a 11. és 12. § szerinti termékértékesítése esetében;
 - c) a 14. § szerinti szolgáltatásnyújtása esetében;
-- d) a külföldön teljesített szolgáltatásnyújtása esetében;
+- d) a külföldön teljesített szolgáltatásnyújtása és a Közösség belföldtől eltérő területén teljesített 12/B. § szerinti termékértékesítése esetében;
 - e) a terméknek a 19. § a) pontja szerinti Közösségen belüli beszerzése esetében, illetőleg abban az esetben sem, ha élt a 20. § (5) bekezdésében említett választási jogával, vagy ha a 20. § (7) bekezdése vonatkozik rá;
 - f) a terméknek a 19. § b) és c) pontja szerinti Közösségen belüli beszerzése esetében;
 - g) termék importja esetében.
@@ -2512,15 +2515,20 @@ fejében megtérített vagy megtérítendő ellenérték.
 
 - a) a 11. § (2) bekezdésének a) pontja,
 - b) a 188. § (3) bekezdésének aa) alpontja,
-- c) a 188. § (3) bekezdésének b)–d) pontjai és
-- d) a 193. § (1) bekezdésének d) pontja szerinti termékértékesítése, szolgáltatásnyújtása esetében az adóalany jogosult az alanyi adómentesség időszakában keletkezett, az a)–d) pontokhoz kapcsolódó előzetesen felszámított adó levonására.
+- c) a 188. § (3) bekezdésének b)–d) pontjai,
+- d) a 188. § (3) bekezdésének h) pontja, és
+- e) a 193. § (1) bekezdésének d) pontja
+
+szerinti termékértékesítése, szolgáltatásnyújtása esetében az adóalany jogosult az alanyi adómentesség időszakában keletkezett, az a)–e) pontokhoz kapcsolódó előzetesen felszámított adó levonására.
 
 (3) A (2) bekezdés szerinti jog gyakorlására egyebekben az előzetesen felszámított adó levonására vonatkozó rendelkezéseket kell megfelelően alkalmazni azzal az eltéréssel, hogy
 
 - a) a (2) bekezdés c) pontjában említett esetben az adólevonási jog keletkezésére és az előzetesen felszámított adóként figyelembe vehető összeg megállapítására a 122. §-t,
-- b) a (2) bekezdés d) pontjában említett esetben az adólevonási jog terjedelmére a 121. § a) pontját
+- b) a (2) bekezdés e) pontjában említett esetben az adólevonási jog terjedelmére a 121. § a) pontját
 
 kell alkalmazni.
+
+(4) Az (1) bekezdéstől eltérően az adóalany jogosult továbbá a 193. § (1) bekezdés g) pontja szerinti adó levonására, feltéve, hogy az importált termékkel a 12/B. § (2) bekezdése szerinti termékértékesítést teljesít a Közösség valamely tagállamában.
 
 196. § Az alanyi adómentesség időszakában keletkezett előzetesen felszámított adóra – a 195. § (2) bekezdésében említett kivétellel – az adóalany a későbbiekben sem alapíthat adólevonási jogot.
 
@@ -3272,7 +3280,7 @@ minden egyes olyan teljesítési hely szerinti tagállam tekintetében, amelyben
 
 (8) Ezen alfejezet alkalmazásában a Közösségen belüli távértékesítéssel esik egy tekintet alá, ha az adóalany a 12/C. § (2) bekezdése vagy azon tagállami szabályozás szerint, amely tartalmában megfelel a Héa-irányelv 14a. cikk (2) bekezdésében foglaltaknak, minősül a termék értékesítőjének és a termék küldeménykénti feladásának, elfuvarozásának, valamint beszerző nevére szóló rendeltetésének helye ugyanazon tagállam.
 
-253/I. § (1) Az az adóalany, aki (amely) gazdasági tevékenységének székhelye belföldön van, vagy gazdasági tevékenységének székhelye a Közösség területén kívül van, azonban belföldön rendelkezik állandó telephellyel, választhatja, hogy a Közösség azon tagállamában teljesített termék Közösségen belüli távértékesítése és nem adóalany részére nyújtott szolgáltatása utáni adófizetési és adóbevallási kötelezettségének, ahol nem telepedett le gazdasági céllal, az állami adó- és vámhatóság útján tesz eleget.
+253/I. § (1) Az az adóalany, aki (amely) gazdasági tevékenységének székhelye belföldön van, vagy gazdasági tevékenységének székhelye a Közösség területén kívül van, azonban belföldön rendelkezik állandó telephellyel, választhatja, hogy adófizetési és adóbevallási kötelezettségének az állami adó- és vámhatóság útján tesz eleget a Közösség azon tagállamában teljesített nem adóalany részére nyújtott szolgáltatása után, ahol nem telepedett le gazdasági céllal, valamint termék Közösségen belüli távértékesítése után.
 
 (2) Az (1) bekezdés szerinti esetben az adóalany termék Közösségen belüli távértékesítése vagy szolgáltatásnyújtása megkezdését megelőzően kérelmezi, hogy őt az állami adó- és vámhatóság ilyen minőségében nyilvántartásba vegye.
 
@@ -3890,10 +3898,10 @@ közösségi adószám birtokában végezhet.
 - b) a Közösség más tagállamában [244. § (2) bekezdésének a) pontja] és az elismert harmadik államban [244. § (2) bekezdésének b) pontja] letelepedett adóalanyra, valamint a 200. § (3) bekezdésében említett nem adóalany jogi személyre vonatkozó adó-visszatéríttetési kérelem kötelező adattartalmát, formátumát és kitöltésének módját, továbbá az elismert harmadik államban letelepedett adóalanyt és a 200. § (3) bekezdésében említett nem adóalany jogi személyt terhelő igazolási kötelezettségeket;
 - c) a számla és a nyugta kiállításának módjára vonatkozó szabályokat, ideértve a nyugtakibocsátási kötelezettség kötelező gépi kiállítással történő megállapítását is,
 - d) a számla és a nyugta adóigazgatási azonosítására vonatkozó szabályokat,
-- e) a gépi nyugta-, illetve nyugta- és számlaadásra szolgáló pénztárgéppel rögzített adatok állami adóhatóság felé történő adatszolgáltatásának és az állami adóhatóság által a pénztárgépek működése felett gyakorolt felügyeletnek a szabályait, a közvetlen adatlekérdezéssel megvalósított adatszolgáltatás teljesítése alóli egyedi mentesítés szabályait,
-- f) a gépi nyugta-, illetve nyugta- és számlaadásra szolgáló pénztárgép, taxaméter forgalmazása engedélyezésének szabályait – ide értve az engedélyezésre hatáskörrel rendelkező szerv kijelölését is –, a forgalmazási engedély kiadásának műszaki és személyi követelményeit, a forgalmazási engedély kiadásáért, módosításáért, kiterjesztéséért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
-- g) a pénztárgép, taxaméter forgalmazásának, szervizelésének és üzemeltetésének szabályait, a szervizek nyilvántartására és a nyilvántartásba vételére, nyilvántartásból való törlésére, a műszerészi igazolványra, annak kiadására, érvényességére és visszavonására vonatkozó szabályokat;
-- h) a pénztárgép forgalmazásával, üzemeltetésével, szervizelésével kapcsolatos kötelezettségek ellenőrzésére vonatkozó szabályokat,
+- e) a gépi nyugta-, illetve nyugta- és számlaadásra szolgáló pénztárgéppel, gépi nyugta kiállítására szolgáló egyéb technikai megoldással rögzített adatok állami adóhatóság felé történő adatszolgáltatásának és az állami adóhatóság által a pénztárgépek és gépi nyugta adására szolgáló egyéb technikai megoldások működése felett gyakorolt felügyeletnek a szabályait, a közvetlen adatlekérdezéssel megvalósított adatszolgáltatás teljesítése alóli egyedi mentesítés szabályait;
+- f) a gépi nyugta-, illetve nyugta- és számlaadásra szolgáló pénztárgép, taxaméter, gépi nyugta kiállítására szolgáló egyéb technikai megoldás forgalmazása engedélyezésének szabályait – ideértve az engedélyezésre hatáskörrel rendelkező szerv kijelölését is –, a forgalmazási engedély kiadásának műszaki és személyi követelményeit, a forgalmazási engedély kiadásáért, módosításáért, kiterjesztéséért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat;
+- g) a pénztárgép, taxaméter, gépi nyugta kiállítására szolgáló egyéb technikai megoldás forgalmazásának, szervizelésének és üzemeltetésének szabályait, a szervizek nyilvántartására és a nyilvántartásba vételére, nyilvántartásból való törlésére, a műszerészi igazolványra, annak kiadására, érvényességére és visszavonására vonatkozó szabályokat;
+- h) a pénztárgép, gépi nyugta kiállítására szolgáló egyéb technikai megoldás forgalmazásával, üzemeltetésével, szervizelésével kapcsolatos kötelezettségek ellenőrzésére vonatkozó szabályokat;
 - i) a számlázási funkcióval rendelkező programokkal szembeni követelményeket, valamint ezen programokkal kiállított számlák adatainak állami adóhatóság felé történő adatszolgáltatásának szabályait, és a számlázási funkcióval rendelkező programok értékesítésére és használatára vonatkozó adatszolgáltatási kötelezettségre vonatkozó szabályokat;
 - j) a számla, egyszerűsített adattartalmú számla, nyugta nyomtatványok forgalmazásának, nyilvántartásának szabályait, valamint ezek előállításának, adóigazgatási azonosításra alkalmasságának feltételeit.
 
@@ -4008,6 +4016,7 @@ hatályukat vesztik azzal, hogy rendelkezéseit – a 269. §-ban foglaltak figy
   - gq) a Tanács (EU) 2019/1995 irányelve (2019. november 21.) a 2006/112/EK irányelvnek a termékek távértékesítésére és bizonyos belföldi termékértékesítésekre vonatkozó rendelkezések tekintetében történő módosításáról;
   - gr) A Tanács (EU) 2020/1756 irányelve (2020. november 20.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek az észak-írországi adóalanyok azonosítása tekintetében történő módosításáról.
   - gt) a Tanács (EU) 2021/1159 irányelve (2021. július 13.) a 2006/112/EK irányelvnek az importra, valamint bizonyos termékértékesítésekre és szolgáltatásnyújtásokra vonatkozó, a Covid19-világjárványra válaszul bevezetett ideiglenes mentességek tekintetében történő módosításáról;
+  - gu) a Tanács (EU) 2022/890 irányelve (2022. június 3.) a 2006/112/EK irányelvnek a bizonyos csalásra alkalmas termékek értékesítése és szolgáltatások nyújtása esetén alkalmazott választható fordított adózási mechanizmus, valamint a héacsalás elleni gyorsreagálási mechanizmus alkalmazási időszakának meghosszabbítása tekintetében történő módosításáról.
 - h) a Tanács 2008/9/EK irányelve (2008. február 12.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról, valamint annak a következő irányelvvel történt módosítása:
   - ha) a Tanács 2010/66/EU irányelve (2010. október 14.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról szóló 2008/9/EK irányelv módosításáról;
 - i) a Tanács 2013/61/EU irányelve (2013. december 17.) a 2006/112/EK és a 2008/118/EK irányelvnek a francia legkülső régiók és különösen Mayotte vonatkozásában történő módosításáról;
@@ -4362,6 +4371,8 @@ nem haladja meg a 12 000 000 forintnak megfelelő pénzösszeget.
 355. § (1) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított, illetve módosított 77. § (4a), (4b), (5) és (6) bekezdése, 78. § (5) bekezdése, 153/B. § (1) bekezdés e) pontja azokban az esetekben alkalmazható, amikor a pénzvisszatérítést az adóalany ezen rendelkezések hatálybalépésének napján vagy azt követő időpontban teljesíti.
 
 (2) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított, illetve módosított 77. § (4a), (4b), (5) és (6) bekezdése, 78. § (5) bekezdése, 153/B. § (1) bekezdés e) pontja ezen rendelkezések hatálybalépésének időpontját megelőzően, de 2021. december 31-ét követően teljesített pénzvisszatérítések esetében is alkalmazható feltéve, hogy az adóalany a pénzvisszatérítésből fakadó adóalap-csökkentési igényét más módon nem érvényesítette.
+
+356. § E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel megállapított, illetve módosított 188. § (3) bekezdés h) pontja, 193. § (1) bekezdés a) és d) pontja, 195. § (2) bekezdése, (3) bekezdés b) pontja és (4) bekezdése a 2022. január 1-jén vagy azt követően teljesített ügyletekre alkalmazandó.
 
 ### 1. számú melléklet a 2007. évi CXXVII. törvényhez
 

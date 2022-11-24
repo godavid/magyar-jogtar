@@ -193,6 +193,7 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 - 30/a. szabályozott ingatlanbefektetési elővállalkozás: a szabályozott ingatlanbefektetési társaságokról szóló törvényben meghatározott feltételekkel az állami adóhatóság által szabályozott ingatlanbefektetési elővállalkozásként nyilvántartásba vett gazdasági társaság;
 - 30/b. szabályozott ingatlanbefektetési projekttársaság: a szabályozott ingatlanbefektetési társaságokról szóló törvényben meghatározott projekttársaság;
 - 30/c. szabályozott ingatlanbefektetési társaság: a szabályozott ingatlanbefektetési társaságokról szóló törvényben meghatározott feltételekkel az állami adóhatóság által szabályozott ingatlanbefektetési társaságként nyilvántartásba vett gazdasági társaság;
+- 30/d. saját jogú nyugdíjas: a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló törvény szerint saját jogú nyugdíjasnak minősülő természetes személy;
 - 31. szabad vállalkozási zóna: a fejlesztési adókedvezmény iránti kérelem, illetve bejelentés benyújtásának időpontjában a térség fejlődése érdekében, a Kormány által kijelölt, térségi gazdaságfejlesztő szervezet által koordinált, közigazgatási határokkal, illetve helyrajzi számokkal lehatárolt, a fejlesztés szempontjából együtt kezelt térség;
 - 31/a. számított nyilvántartási érték: az immateriális jószág, a tárgyi eszköz bekerülési értéke, csökkentve az adóalapnál érvényesített értékcsökkenési leírással, növelve az adóalapnál érvényesített terven felüli értékcsökkenés visszaírt összegével;
 - 31/b. személy: a belföldi személy, a külföldi személy és a magánszemély;
@@ -290,7 +291,7 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 
 (7) Az alapítvány, a közalapítvány, az egyesület, a köztestület, a felsőoktatási intézmény, a nonprofit gazdasági társaság és a szociális szövetkezet a közhasznú szervezetre vonatkozó rendelkezéseket először abban az adóévben alkalmazhatja, amely évben ilyen szervezetként besorolást nyert. Az adózó nem alkalmazhatja a közhasznú szervezetre vonatkozó rendelkezéseket – kivéve a törlés napjáig az igazolás kiadását – abban az adóévben, amelyben a közhasznúsági nyilvántartásból törölték, vagy amely adóévben az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerint elsődlegesen gazdasági-vállalkozási tevékenységű szervezetnek minősül. A közhasznú besorolás adóéven belüli változása esetén – kivéve az átsorolás napjáig az igazolás kiadását – az adóév utolsó napján érvényes besorolásnak megfelelő rendelkezéseket kell az adóév egészére alkalmazni.
 
-(7a) A vagyonkezelő alapítvány, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány a bizalmi vagyonkezelési szerződés alapján kezelt vagyonra vonatkozó rendelkezések megfelelő alkalmazásával állapítja meg adókötelezettségét, azzal az eltéréssel, hogy társasági adókötelezettsége azon a napon kezdődik, amelyen az alapítását szabályozó jogszabály szerint létrejön. A természetes személlyel mint vagyonrendelővel kötött bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által kizárólag természetes személy mint kedvezményezett javára kezelt vagyon, valamint a kizárólag természetes személy mint kedvezményezett javára történő vagyoni juttatás céljából természetes személy által alapított vagyonkezelő alapítvány adóbevallás helyett az adóévet követő év május 31-éig – bevallást helyettesítő nyomtatványon – nyilatkozatot tesz, ha az adóévben bevételt nem szerzett, vagy az adóévben csak olyan bevételt szerzett, amelynek alapján adómentesség illeti meg.
+(7a) A vagyonkezelő alapítvány, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány a bizalmi vagyonkezelési szerződés alapján kezelt vagyonra vonatkozó rendelkezések megfelelő alkalmazásával állapítja meg adókötelezettségét, azzal az eltéréssel, hogy társasági adókötelezettsége azon a napon kezdődik, amelyen az alapítását szabályozó jogszabály szerint létrejön. A természetes személlyel mint vagyonrendelővel kötött bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által kizárólag természetes személy mint kedvezményezett javára kezelt vagyon, valamint a kizárólag természetes személy mint kedvezményezett javára történő vagyoni juttatás céljából természetes személy által alapított vagyonkezelő alapítvány adóbevallás helyett az adóévet követő év ötödik hónap utolsó napjáig – bevallást helyettesítő nyomtatványon – nyilatkozatot tesz, ha az adóévben bevételt nem szerzett, vagy az adóévben csak olyan bevételt szerzett, amelynek alapján adómentesség illeti meg. A kezelt vagyonra vonatkozó rendelkezés alkalmazásakor a természetes személy kedvezményezettel esik egy tekintet alá a kizárólag természetes személy mint kedvezményezett javára történő vagyoni juttatás céljából természetes személy által alapított vagyonkezelő alapítvány.
 
 (8) A társasági adóbevallást magyar nyelven, forintban kell elkészíteni. A beszámolót, könyvvezetést konvertibilis devizában készítő adózó a társasági adóbevallás adatait a Magyar Nemzeti Bank hivatalos – az adóév utolsó napján érvényes – devizaárfolyamának alapulvételével számítja át forintra. Olyan külföldi pénznem esetében, amelynek nincs a Magyar Nemzeti Bank által jegyzett árfolyama, a Magyar Nemzeti Bank által az adóév utolsó napjára vonatkozóan közzétett, euróban megadott árfolyamot kell a forintra történő átszámításkor figyelembe venni. Ugyanígy kell eljárni minden más esetben, ha az átszámításra a számviteli törvény előírása nem vonatkozik.
 
@@ -398,7 +399,7 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 - m) a korai fázisú vállalkozásban szerzett részesedés bekerülési értékének (ideértve a szerzést követő tőkeemelésre tekintettel a bekerülési érték növekményét is) háromszorosa a részesedés szerzésének adóévében és az azt követő három adóévben, egyenlő részletekben, de adóévenként és korai fázisú vállalkozásonként legfeljebb 20 millió forint, figyelemmel a (8)–(8e) bekezdésben foglaltakra,
 - n) a követelésre az adóévben visszaírt értékvesztés, a követelés bekerülési értékéből a behajthatatlanná vált rész, valamint a követelés átruházásakor, kiegyenlítésekor, beszámításakor elszámolt bevétel, de legfeljebb a nyilvántartott értékvesztés; e rendelkezést a hitelintézet és a pénzügyi vállalkozás a pénzügyi szolgáltatásból, befektetési szolgáltatási tevékenységből származó követelésre, befektetési vállalkozás a befektetési szolgáltatási tevékenységből származó követelésre nem alkalmazza,
 - ny) legfeljebb az adóévet megelőző adóévben (adóévekben) a 8. § (1) bekezdés j) pontja alapján alkalmazott adóalap-növelő tételnek az adóévet megelőzően e rendelkezés szerint az adózó vagy jogelődje, valamint az átruházó társaság által figyelembe nem vett része, azzal, hogy az e rendelkezés szerint csökkentésként figyelembe vett összeg nem haladhatja meg az adóévi kamatlevonási kapacitás összegét,
-- o) a társasház, a társasüdülő (a továbbiakban: társasház) tulajdonostársainak közössége által a közös név alatt megszerzett olyan jövedelemből való részesedés alapján az adózó által az adóévben bevételként elszámolt összeg, amely jövedelemre vonatkozóan a társasház a személyi jövedelemadóról szóló törvény rendelkezései szerint az adót megfizette,
+- o) a társasház, a társasüdülő (a továbbiakban együtt: társasház) tulajdonostársainak közössége által a közös név alatt megszerzett olyan jövedelemből való részesedés alapján az adózó által az adóévben bevételként elszámolt összeg, amely jövedelemre vonatkozóan a társasház a személyi jövedelemadóról szóló törvény rendelkezései szerint az adót megfizette, továbbá a kezelt vagyon, az alapítvány, a vagyonkezelő alapítvány által megszerzett, a személyi jövedelemadóról szóló törvény rendelkezései szerint megállapított, tartós befektetésből származó jövedelem,
 - p) a forintról devizára, devizáról forintra, vagy devizáról más devizára való áttérés következtében az eredménytartalék csökkentéseként elszámolt átszámítási különbözetek összege az áttérést követő adóévben,
 - q) a tulajdoni részesedésre visszaírt értékvesztés, ha azt az adózó korábban adózás előtti eredményt növelő tételként vette számításba, amelyet az erre vonatkozó adóbevallással és az azt alátámasztó kimutatásokkal igazol,
 - r) a bírságnak, továbbá az adóigazgatási rendtartásról, az adózás rendjéről és a társadalombiztosításról szóló törvényekben előírt jogkövetkezménynek az elengedése, a visszatérítése miatt az adóévben bevételként elszámolt, az adóévben vagy az előző adóévekben az adózás előtti eredményt növelő tételként figyelembe vett összeg,
@@ -568,9 +569,9 @@ arányára figyelemmel meghatározott összeget veheti figyelembe az (1) bekezd�
 - o) a forintról devizára, devizáról forintra, vagy devizáról más devizára való áttérés során a tőketartalék növeléseként elszámolt átszámítási különbözetek összege az áttérést követő adóévben,
 - p) az adóellenőrzés, az adóigazgatási rendtartásról, az adózás rendjéről szóló törvény szerinti önellenőrzés során megállapított, adóévi költségként, ráfordításként (egyszeres könyvvitelt vezetőnél ideértve a kifizetett vásárolt készletek csökkenését is) vagy adóévi nettó árbevétel, bevétel, aktivált saját teljesítmény csökkentéseként elszámolt összeg,
 - q) a kisvállalati adóalanyiság időszakában a tőkebevonásra (különösen a jegyzett tőke emelésre) tekintettel, a kisvállalati adóalap megállapítása során alkalmazott csökkentés összege a tőke kivonásakor,
-- r) a 7. § (1) bekezdés gy) pontja alapján az adózás előtti eredmény csökkentéseként elszámolt összegből a kedvezményezett átalakulás alapján megszerzett részesedés (kivéve, ha a kedvezményezett átalakulás alapján kivezetett részesedés bejelentett részesedésnekminősült) bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb a részesedésre az említett rendelkezés alapján az adózás előtti eredmény csökkentéseként figyelembe vett) összeg, figyelemmel a (7) bekezdésben foglaltakra,
+- r) a 7. § (1) bekezdés gy) pontja alapján az adózás előtti eredmény csökkentéseként elszámolt összegből a kedvezményezett átalakulás alapján megszerzett részesedés (kivéve, ha a kedvezményezett átalakulás alapján kivezetett részesedés bejelentett részesedésnek minősült) bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb a részesedésre az említett rendelkezés alapján az adózás előtti eredmény csökkentéseként figyelembe vett) összeg, figyelemmel a (7) bekezdésben foglaltakra,
 - s) a 7. § (1) bekezdésének z) pontja alapján az adóévet megelőző év(ek)ben az adózás előtti eredmény csökkentéseként, az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti tartós adományozásra tekintettel elszámolt azon többletkedvezmény, továbbá a felsőoktatási intézmény 7. § (1) bekezdésének z) pont zc) és ze) alpontja szerinti támogatására tekintettel elszámolt azon kedvezmény, amelyre vonatkozóan az adózó az adóévben a tartós adományozásról szóló szerződésben vagy a felsőoktatási támogatási megállapodásban vállaltakat a másik szerződő fél közhasznúsági nyilvántartásból való törlése vagy jogutód nélküli megszűnése miatt nem teljesítette, vagy ennek kétszerese, ha az adózó bármely más ok miatt nem teljesített a szerződésnek (megállapodásnak) megfelelően,
-- t) a 7. § (1) bekezdés h) pontja alapján az adózás előtti eredmény csökkentéseként elszámolt összegből a kedvezményezett részesedéscsere alapján megszerzett részesedés (kivéve, ha a kedvezményezett részesedéscsere alapján kivezetett részesedés bejelentett részesedésnekminősült) bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb az említett rendelkezés alapján az adózás előtti eredmény csökkentéseként figyelembe vett) összeg, figyelemmel a (7) bekezdésben foglaltakra,
+- t) a 7. § (1) bekezdés h) pontja alapján az adózás előtti eredmény csökkentéseként elszámolt összegből a kedvezményezett részesedéscsere alapján megszerzett részesedés (kivéve, ha a kedvezményezett részesedéscsere alapján kivezetett részesedés bejelentett részesedésnek minősült) bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb az említett rendelkezés alapján az adózás előtti eredmény csökkentéseként figyelembe vett) összeg, figyelemmel a (7) bekezdésben foglaltakra,
 - u) azon beruházás, szellemi termék bekerülési értékéből az adózás előtti eredmény csökkentéseként a 7. § (1) bekezdés zs) pontja alapján elszámolt összeg kétszerese,
   - ua) amely beruházást, szellemi terméket az adózó az adózás előtti eredmény csökkentésének adóévét követő negyedik adóév utolsó napjáig nem helyez üzembe, illetve nem vesz használatba, az említett negyedik adóévről készített bevallásban, kivéve, ha az üzembe helyezés, a használatbavétel elháríthatatlan külső ok miatti megrongálódás következtében maradt el,
   - ub) amely beruházást az adózó az adózás előtti eredmény csökkentésének adóévét követő negyedik adóév utolsó napjáig az egyéb berendezések, felszerelések, járművek között helyez üzembe, az üzembe helyezés adóévéről készített bevallásban,
@@ -683,7 +684,7 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 ### A kizárólag készfizető kezességvállalást folytató részvénytársaság adóalapja
 
-11. §
+#### 11. §
 
 ### Az MRP adóalapja
 
@@ -702,7 +703,7 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 (4) Az MRP a (2) és (3) bekezdésben foglaltakat figyelembe véve alkalmazza a 16., 18. és a 28. §-ok, valamint a VII. fejezet rendelkezéseit .
 
-13. §
+#### 13. §
 
 ### A közhasznú nonprofit gazdasági társaság, a szociális szövetkezet és a vízitársulat adóalapja
 
@@ -744,7 +745,7 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 ### A külföldi vállalkozó fióktelepének adóalapja
 
-14/A. §
+#### 14/A. §
 
 ### A szabályozott ingatlanbefektetési elővállalkozás, a szabályozott ingatlanbefektetési társaság és a szabályozott ingatlanbefektetési projekttársaság adóalapja és az adó mértéke
 
@@ -775,7 +776,9 @@ azzal, hogy az e pontban foglaltakat a jótállási időn belül cserére vissza
 
 (11) A (10) bekezdés hatálya alá tartozó adózó a 18/D. § rendelkezéseit kizárólag a (7)–(9) bekezdések vonatkozásában alkalmazza.
 
-### Az ingatlannal rendelkező társaság tagjánakadóalapja és az adó mértéke
+### Az ingatlannal rendelkező társaság tagjának
+
+adóalapja és az adó mértéke
 
 15/A. § (1) Az ingatlannal rendelkező társaság tagjának adóalapja a részesedés elidegenítésekor, illetve a társaság jegyzett tőkéjének leszállításakor az ellenértéknek a részesedés szerzési értékével és a szerzéshez vagy a tartáshoz kapcsolódó, igazolt kiadásokkal csökkentett pozitív összege.
 
@@ -1219,7 +1222,7 @@ kapcsolatban az adóévi adózás előtti eredmény terhére elszámolt ráford�
 20. § (1) Nem kell az adót megfizetnie
 
 - a) a közhasznú szervezetnek nem minősülő alapítványnak, közalapítványnak, egyesületnek (ide nem értve az országos érdekképviseleti szervezetet), köztestületnek, továbbá a lakásszövetkezetnek, ha – a gazdálkodására vonatkozó külön jogszabályok előírása szerint és a 9. § (1a)–(1b) bekezdésében, továbbá a 6. számú mellékletben foglaltakat figyelembe véve nyilvántartott – vállalkozási tevékenységből származó, a 9. § (3) bekezdés c) pontja szerinti összeggel növelt bevétele legfeljebb 10 millió forint, de nem haladja meg az adóévben elért összes bevételének 10 százalékát,
-- b) a természetes személlyel mint vagyonrendelővel kötött bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által kizárólag természetes személy mint kedvezményezett javára kezelt vagyonnak, valamint a kizárólag természetes személy mint kedvezményezett javára történő vagyoni juttatás céljából természetes személy által alapított vagyonkezelő alapítványnak, ha az adóévben csak befektetett pénzügyi eszközök, követelések, értékpapírok vagy pénzeszközök átvétele, birtoklása, hasznainak szedése vagy ilyen eszközzel kapcsolatos rendelkezési joga gyakorlása révén szerzett bevételt,
+- b) a természetes személlyel mint vagyonrendelővel kötött bizalmi vagyonkezelési szerződés alapján a vagyonkezelő által kizárólag természetes személy mint kedvezményezett javára kezelt vagyonnak, valamint a kizárólag természetes személy mint kedvezményezett javára történő vagyoni juttatás céljából természetes személy által alapított vagyonkezelő alapítványnak, ha az adóévben csak befektetett pénzügyi eszközök, követelések, értékpapírok vagy pénzeszközök átvétele, birtoklása, hasznainak szedése vagy ilyen eszközzel kapcsolatos rendelkezési joga gyakorlása révén szerzett bevételt, azzal, hogy a kezelt vagyonra vonatkozó rendelkezés alkalmazásakor a természetes személy kedvezményezettel esik egy tekintet alá a kizárólag természetes személy mint kedvezményezett javára történő vagyoni juttatás céljából természetes személy által alapított vagyonkezelő alapítvány,
 - c) az önkéntes kölcsönös biztosító pénztárnak, amennyiben a pénztár kiegészítő vállalkozási tevékenységből származó bevétele nem haladja meg a pénztár összes bevételének a 20 százalékát,
 - d) a vízitársulatnak az (5) bekezdésben – 2009. július 1-jétől a (6) bekezdésben – foglaltak szerinti adóalapra számított adónak olyan része után, amelyet a közfeladatként végzett tevékenységből elért bevétele képvisel az összes bevételen belül,
 - e) a közhasznú nonprofit gazdasági társaságnak és a szociális szövetkezetnek a (6) bekezdésben foglaltak szerinti adóalapra számított adónak olyan része után, amelyet a 6. számú melléklet E) fejezete alapján megállapított kedvezményezett tevékenységből elért bevétele képvisel az összes bevételen belül.
@@ -1564,7 +1567,7 @@ a támogatás adóévében megfizetni.
 
 ### Az olimpiai pályázat támogatásának adókedvezménye
 
-22/D. §
+#### 22/D. §
 
 ### Energiahatékonysági célokat szolgáló beruházás, felújítás adókedvezménye
 
@@ -1770,7 +1773,7 @@ a felajánlás fogadására jogosult szervezetnek átutalja, feltéve, hogy telj
 
 ### IV. Fejezet — A külföldi szervezet adókötelezettségének teljesítése
 
-25. §
+#### 25. §
 
 ### Az adóelőleg bevallásának és fizetésének szabályai
 
@@ -1866,7 +1869,7 @@ akkor a növekedési adóhitel összegének vonatkozásában adóbevallási és 
 
 ### V. Fejezet
 
-27. §
+#### 27. §
 
 ## NEGYEDIK RÉSZ — A KETTŐS ADÓZÁS ELKERÜLÉSE
 
@@ -2120,7 +2123,7 @@ e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pon
 
 (82) A (81) bekezdéstől eltérően az adózó a 2019. adóéve utolsó hónapja 20. napjáig az állami adó- és vámhatóság felé benyújtott nyilatkozatban tett választása szerint a 2019. adóévi társasági adóelőleg-kiegészítési kötelezettségre, továbbá ehhez kapcsolódva a 22. § (1)–(12) bekezdése szerinti támogatásra, a 22/C. § szerinti támogatásra, illetve a 24/A. § szerinti adóról való rendelkezésre a (81) bekezdésben említett rendelkezéseknek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvény hatálybalépését megelőző napon hatályos rendelkezéseit alkalmazza, feltéve, hogy a 2019. adóéve utolsó hónapjának 20. napja későbbi, mint a (81) bekezdésben említett rendelkezések hatálybalépésének vagy hatályon kívül helyezésének napja. Az e bekezdés szerinti választás a 2019. adóév utolsó hónapjának 20. napját követően nem módosítható és nem vonható vissza. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
 
-(83) A 2019. július 1. és 2022. december 31. közötti, a reklámadóról szóló törvény 11. §-a szerint meghatározott reklámadó-kötelezettséggel összefüggő költségre nem kell alkalmazni a 3. számú melléklet A) rész 16. pontját.
+(83) A 2019. július 1. és 2023. december 31. közötti, a reklámadóról szóló törvény 11. §-a szerint meghatározott reklámadó-kötelezettséggel összefüggő költségre nem kell alkalmazni a 3. számú melléklet A) rész 16. pontját.
 
 (84) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2019. évi LXXIII. törvénnyel megállapított 8. § (5e) bekezdését és 18/D. § (10) bekezdését az adózó a rendelkezés hatálybalépésének napját magában foglaló adóévére vonatkozóan választása szerint alkalmazhatja.
 
@@ -2167,6 +2170,8 @@ e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pon
 (105) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 12. § (2) bekezdés c) pontját és (3) bekezdés b) pontját az adózó választása szerint alkalmazhatja a 2022. adóévére.
 
 (106) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 18. § (9), (10), (10b), (11) és (12) bekezdését, továbbá a 16/A. § (8) bekezdését első alkalommal a 2022-ben kezdődő adóév adókötelezettsége megállapítása során kell alkalmazni.
+
+(107) E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel megállapított 5. § (7a) bekezdését, 7. § (1) bekezdés o) pontját és 20. § (1) bekezdés b) pontját az adózó választása szerint alkalmazhatja a 2022. adóévére.
 
 29/B. § (1) A tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény (a továbbiakban: Kárrendezési Törvény) alapján a Kárrendezési Alap részére a Kárrendezési Törvény 11. § (1) bekezdése alapján befizetést teljesítő adózó által az adóévben, a Kárrendezési Törvény 11. § (2) bekezdésére figyelemmel megállapított, befizetett összeg (továbbiakban e §-ban: befizetés) csökkenti az adózó által fizetendő társasági adót, a fizetendő pénzügyi szervezetek különadóját a fizetendő pénzügyi tranzakciós illetéket.
 
@@ -2332,7 +2337,7 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 
 (5) A 2008-as beszámolóban lekötött tartalékként kimutatott fejlesztési tartalék feloldására rendelkezésre álló időtartam – ha annak egyéb törvényi feltételei fennállnak – hat adóév, azzal, hogy ahol a Tao. 7. §-a (15) bekezdésének rendelkezése négy adóévet említ, ott hat adóévet kell érteni.
 
-29/J. §
+#### 29/J. §
 
 29/K. § (1) A 2010. adóévi adókötelezettség megállapításakor a pozitív adóalapot 2010. január 1. és 2010. június 30., valamint a 2010. július 1. és 2010. december 31. közötti időszakra az adóév naptári napjai alapján arányosan kell megosztani.
 
@@ -2377,7 +2382,7 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 
 29/N. § E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel módosított 7. § (1) bekezdésének z) pontjának és (7) bekezdésének rendelkezéseit a 2010-ben kezdődő adóévben adott – felsorolt – juttatásokra lehet alkalmazni.
 
-29/O. §
+#### 29/O. §
 
 29/P. § E törvénynek az adó- és járuléktörvények, a számviteli törvény és a könyvvizsgálói kamarai törvény, valamint az európai közösségi jogharmonizációs kötelezettségek teljesítését célzó adó- és vámjogi tárgyú törvények módosításáról szóló 2010. évi CXXIII. törvénnyel beiktatott, 2011. január 1-jétől hatályos rendelkezéseit – e törvény eltérő rendelkezése hiányában – első ízben a 2011. adóévi adókötelezettségre kell alkalmazni.
 
@@ -2409,7 +2414,7 @@ az e törvény 2009. december 31-én hatályos 7. §-a (1) bekezdése ly) alpont
 
 (6) E törvénynek az egyes adótörvények és az azzal összefüggő egyéb törvények módosításáról szóló 2012. évi CLXXVIII. törvénnyel megállapított 22/C. § (10) bekezdését első alkalommal a 2013–2014-es támogatási időszakra vonatkozóan benyújtott sportfejlesztési program jóváhagyására, valamint a támogatási igazolás kiállítására irányuló kérelmek benyújtásával összefüggésben kell alkalmazni.
 
-29/T. §
+#### 29/T. §
 
 29/U. § E törvénynek az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvénnyel megállapított 22/C. § (3)–(3f) bekezdésének és a 3. számú melléklet A) fejezet 12. pontjának rendelkezéseit első alkalommal a 2013–2014-es támogatási időszakra benyújtott új sportfejlesztési programok támogatásával (juttatásával) összefüggésben kell alkalmazni.
 
@@ -2509,7 +2514,7 @@ hatálya alá tartozó támogatást tartalmaz.
 
 (2) E törvény 29/A. § (12) bekezdése a vasúti és közúti személyszállítási közszolgáltatásról, valamint az 1191/69/EGK és az 1107/70/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. október 23-i 1370/2007/EK európai parlamenti és tanácsi rendelet (HL L 315., 2007.12.3., 1. o.) hatálya alá tartozó támogatást tartalmaz.
 
-30/C. §
+#### 30/C. §
 
 30/D. § E törvény 7. § (1) bekezdés sz), ty) és x) pontja, valamint 7. § (26)–(29) bekezdése a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-ei 651/2014/EU bizottsági rendelet (HL L 187 2014.06.26., 1–78. o.) I. és II. fejezete, valamint 53. cikke hatálya alá tartozó, kultúrát és kulturális örökség megőrzését előmozdító támogatást tartalmaz.
 
@@ -2774,11 +2779,11 @@ A vállalkozási tevékenység érdekében felmerülőegyes költségek, ráford
 
 A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenység érdekében felmerült költségnek, ráfordításnak minősül különösen:
 
-1. az adózó által a vele munkaviszonyban álló magánszemély, vagy a vele korábban munkaviszonyban álló, saját jogú nyugdíjas [Tbj. 4. § f) pont] magánszemély, illetve az említett magánszemélyek özvegye, kiskorú közeli hozzátartozója részére juttatott segély;
+1. az adózó által a vele munkaviszonyban álló magánszemély, vagy a vele korábban munkaviszonyban álló, saját jogú nyugdíjas magánszemély, illetve az említett magánszemélyek özvegye, kiskorú közeli hozzátartozója részére juttatott segély;
 
 2. az adózó által üzletpolitikai (reklám) célból, magánszemélynek azonos feltételekkel és módon, nyilvános körülmények között adott kedvezmény, árengedmény, visszatérítés, termék, szolgáltatás révén nyújtott, a személyi jövedelemadóról szóló törvény szerinti juttatás, továbbá a termék megismertetése, forgalmának növelése céljából adott, a személyi jövedelemadóról szóló törvény szerinti áruminta;
 
-3. az adózó által a vele munkaviszonyban álló magánszemély, illetve vezető tisztségviselője, tevékenységében személyesen közreműködő tagja, valamint az adózóval korábban munkaviszonyban álló, saját jogú nyugdíjas [Tbj. 4. § f) pont], valamint az említett magánszemélyek közeli hozzátartozója részére személyi jellegű egyéb kifizetésként elszámolt összeg, és az ahhoz kapcsolódó, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetés, figyelemmel az 1., 2., 8. és 12. pontban foglaltakra;
+3. az adózó által a vele munkaviszonyban álló magánszemély, illetve vezető tisztségviselője, tevékenységében személyesen közreműködő tagja, valamint az adózóval korábban munkaviszonyban álló, saját jogú nyugdíjas, valamint az említett magánszemélyek közeli hozzátartozója részére személyi jellegű egyéb kifizetésként elszámolt összeg, és az ahhoz kapcsolódó, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetés, figyelemmel az 1., 2., 8., 9. és 12. pontban foglaltakra;
 
 4. az előzetesen felszámított, de az általános forgalmi adóról szóló törvény szerint le nem vonható általános forgalmi adó, feltéve, hogy a vállalkozás érdekében felmerült költséghez, ráfordításhoz kapcsolódik;
 
@@ -2790,7 +2795,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 8. a biztosítás díja, ha a biztosított az adózóval munkaviszonyban vagy önkéntes jogviszonyban álló magánszemély, az adózó vezető tisztségviselője, tevékenységében személyesen közreműködő tagja, vagy a szakképzési munkaszerződés alapján duális képzőhelyen folytatott szakirányú oktatásban részt vevő tanuló, képzésben részt vevő személy;
 
-9. az adózó által a vele munkaviszonyban álló magánszemély, illetve vezető tisztségviselője, tevékenységében személyesen közreműködő tagja, valamint az adózóval korábban munkaviszonyban álló, a Tbj. 4. § 17. pontja szerinti saját jogú nyugdíjas, valamint az említett magánszemélyek közeli hozzátartozója részére bármely módon biztosított – kizárólag emberi erővel hajtott vagy legfeljebb 300 W teljesítményű elektromos motorral segített – kerékpár vásárlása, átadása, használata, fenntartása és üzemeltetése révén felmerült költség, ráfordítás (ideértve az azzal összefüggő, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetést is);
+9. az adózó által a vele munkaviszonyban álló magánszemély, illetve vezető tisztségviselője, tevékenységében személyesen közreműködő tagja, valamint az adózóval korábban munkaviszonyban álló saját jogú nyugdíjas, valamint az említett magánszemélyek közeli hozzátartozója részére bármely módon biztosított – kizárólag emberi erővel hajtott vagy legfeljebb 300 W teljesítményű elektromos motorral segített – kerékpár vásárlása, átadása, használata, fenntartása és üzemeltetése révén felmerült költség, ráfordítás (ideértve az azzal összefüggő, törvényen alapuló, az államháztartás valamely alrendszere számára történő kötelező befizetést is);
 
 11. a tulajdonostárs által a társasházi közös tulajdonnal, a lakásszövetkezeti tulajdonnal kapcsolatos karbantartási és egyéb közös kiadásra (üzemeltetésre) elszámolt, tulajdoni hányaddal arányos költség; továbbá a lakásszövetkezetnél a cégbejegyzés előtt vállalt kötelezettség miatt felmerült költség, ráfordítás, feltéve, hogy az alapul szolgáló szerződést a közgyűlés utólag jóváhagyta;
 

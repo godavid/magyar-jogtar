@@ -264,7 +264,7 @@ tekintetében fennáll-e olyan körülmény, amely az adószám megállapítás�
 - a) olyan, más adózó jelenlegi vagy volt vezető tisztségviselője, cégvezetője, tagja vagy részvényese, amely
   - aa) az adószám megállapítása iránti kérelem benyújtásának napján az állami adó- és vámhatóságnál nyilvántartott, túlfizetéssel csökkentett, száznyolcvan napon keresztül folyamatosan fennálló, ötmillió forintot, a legnagyobb adóteljesítménnyel rendelkező adózók esetében tízmillió forintot meghaladó adótartozással rendelkezik,
   - ab) az adószám megállapítása iránti kérelem benyújtásának napját megelőző öt éven belül az állami adó- és vámhatóságnál nyilvántartott, túlfizetéssel csökkentett, ötmillió forintot, a legnagyobb adóteljesítménnyel rendelkező adózók esetében tízmillió forintot meghaladó adótartozással jogutód nélkül szűnt meg, vagy
-  - ac) adószámát az állami adó- és vámhatóság az adószám megállapítására irányuló kérelem benyújtásának napját megelőző öt éven belül a 227. § (3) bekezdésében és a 246. §-ban felsorolt okból, az ott meghatározott eljárásban jogerősen törölte,
+  - ac) adószámát az állami adó- és vámhatóság az adószám megállapítására irányuló kérelem benyújtásának napját megelőző öt éven belül a 227. § (3) bekezdésében és a 246. §-ban felsorolt okból, az ott meghatározott eljárásban jogerősen törölte, és az adószám megállapítására irányuló kérelem benyújtásáig nem állapította meg ismételten, ide nem értve a 246. § (9) bekezdése szerinti ismételt adószám megállapítást,
 - b) az adószám megállapítása iránti kérelem benyújtásának napján az állami adó- és vámhatóságnál nyilvántartott, túlfizetéssel csökkentett, száznyolcvan napon keresztül folyamatosan fennálló, ötmillió forintot, a legnagyobb adóteljesítménnyel rendelkező adózók esetében tízmillió forintot meghaladó adótartozással rendelkezik, vagy
 - c) az adószám megállapítása iránti kérelem benyújtásának napján a vezető tisztségviselői pozíciótól, illetve e foglalkozástól jogerősen eltiltottnak minősül.
 
@@ -740,6 +740,8 @@ Az adóbevallás benyújtásában akadályozott adózó az akadályoztatás megs
 - e) az Szja tv. szerint egyéni vállalkozónak minősülő természetes személy e tevékenységét megszünteti, a tevékenység folytatására való jogosultsága megszűnik, szünetel, valamint az ügyvéd, a szabadalmi ügyvivő tevékenységét, illetve a közjegyző közjegyzői szolgálatát szünetelteti, illetve ha az Szja tv. szerinti egyéni vállalkozónak minősülő természetes személy, az ügyvéd, a szabadalmi ügyvivő, a közjegyző tevékenységének szüneteltetése során a tevékenység folytatására való jogosultsága megszűnik (a továbbiakban együtt: soron kívüli bevallási kötelezettséget kiváltó esemény),
 - f) az adózó üzletvezetés helye belföld helyett külföldre változik és erre tekintettel a Tao tv. vagy más jogszabály szerint belföldi illetőségű adóalanyisága megszűnik,
 - g) az adózó az Európai Unió más tagállamában illetőséggel bíró gazdasági társasággal beolvadás útján, a társasági jog egyes változásairól szóló, 2017. június 14-i 2017/1132 európai parlamenti és tanácsi irányelv alapján egyesül.
+
+(1a) Nem terheli az (1) bekezdés e) pontja alapján az egyéni vállalkozót soron kívüli általános-forgalmiadó-bevallási kötelezettség, ha egyéni vállalkozói tevékenységének megszüntetése nem eredményezi általános forgalmi adó alanyiságának megszűnését.
 
 (2) A soron kívüli adóbevallást az éves elszámolású adókról – az általános forgalmi adó kivételével – az (1) bekezdés a) és b) pontjában meghatározott esetekben a Számv. tv.-ben a beszámoló készítésére előírt határidőn belül, az (1) bekezdés c)–g) pontjában meghatározott esetekben pedig a soron kívüli bevallási kötelezettséget kiváltó eseményt követő harminc napon belül kell benyújtani.
 
@@ -1608,7 +1610,7 @@ Ha az adóhatóságnak az ellenőrzési eljárás keretében végrehajtott adatm
 
 (5) Az állami adó- és vámhatóság a telefonos ügyféltájékoztató és ügyintéző rendszerben folytatott beszélgetést elektronikusan adathordozóra rögzíti, és annak anyagát az adó megállapításához való jog, illetve ha az hosszabb, akkor az adó végrehajtásához való jog elévüléséig, illetve a folyamatban levő bírósági eljárás befejezéséig megőrzi. Az adózó vagy képviselője kérelme alapján az általa folytatott, e bekezdés szerint megőrzött telefonbeszélgetéseit meghallgathatja, valamint azokról másolatot kérhet.
 
-(6) Az adóhatóság az általa kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet, az állam közvetlen vagy közvetett többségi tulajdonában álló jogi személyt vagy kizárólagos állami tulajdonú egyéb szervezetet bízhat meg, kivéve, ha e korlátozás alól az állami adó- és vámhatóságot irányító miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyon körébe tartozó állami nyilvántartások fokozottabb védelméről szóló törvényben meghatározott határozott idejű egyedi felmentést ad.
+(6) Az adóhatóság az általa kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet, az állam közvetlen vagy közvetett többségi tulajdonában álló jogi személyt vagy kizárólagos állami tulajdonú egyéb szervezetet bízhat meg, kivéve, ha e korlátozás alól az állami adó- és vámhatóságot irányító miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyonról szóló törvényben meghatározott határozott idejű egyedi felmentést ad.
 
 #### 125. § [Közhiteles adóhatósági nyilvántartásra vonatkozó szabályok]
 
@@ -3289,7 +3291,7 @@ Az állami adó- és vámhatóság negyedévenként – a negyedévet követő h
 
 #### 264/A. § [Lekérdező felület biztosítása nagy összegű adóhiánnyal és nagy összegű adótartozással rendelkező adózók adataihoz]
 
-Az állami adó- és vámhatóság az Áfa tv. 77. § (7) bekezdés e) pontja szerinti feltétel ellenőrzése érdekében a honlapján lekérdezési lehetőséget biztosít a 263. és 264. § szerinti, 2014. december 31-ét követően keletkezett adatokra vonatkozóan. A lekérdezési lehetőség biztosítása nem érinti a 263. és 264. § szerinti közzétételi kötelezettséget.
+Az állami adó- és vámhatóság a honlapján lekérdezési lehetőséget biztosít a 263. és 264. § szerinti, 2014. december 31-ét követően keletkezett adatokra vonatkozóan. A lekérdezési lehetőség biztosítása nem érinti a 263. § és 264. § szerinti közzétételi kötelezettséget.
 
 #### 265. § [Be nem jelentett foglalkoztatottat foglalkoztatók közzététele]
 
@@ -3397,7 +3399,7 @@ részére az állami adóhatóság által teljesített adatátadással érintett
 (8) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy
 
 - a) az automataberendezések üzemeltetői adókötelezettségeinek, az automataberendezés és az AFE üzemeltetésével, szervizelésével kapcsolatos kötelezettségek ellenőrzésének,
-- b)
+- b) a 107. § (2)–(3) bekezdése szerinti kötelezettségek teljesítésére kötelezettek, és az e kötelezettségek alól mentesülők körének, továbbá a kötelezettségek teljesítési határidejének
 - c) az AFE műszaki követelményeinek, üzemeltetésének és szervizelésének, az AFE által rögzített adatok állami adó- és vámhatóság felé történő szolgáltatásának, a felügyeleti szolgáltatókat tanúsító független tanúsító szervezet tevékenységének, a felügyeleti szolgáltatói szerződésnek, valamint a felügyeleti szolgáltató felelősségének,
 - d) a felügyeleti szolgáltatóval szemben támasztott követelményeknek, a felügyeleti szolgáltatói engedélyezési eljárásért és az engedély módosításáért fizetendő igazgatási szolgáltatási díj fizetésének, a felügyeleti szolgáltató regisztrációjának, a felügyeleti szolgáltatás minimális tartalmának, a hatósági árnak és annak alkalmazási feltételeinek
 
@@ -3614,6 +3616,14 @@ A közúti közlekedési nyilvántartási szerv a 87. § (3) bekezdése szerinti
 (1) A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvény (továbbiakban: Módtv9.) által megállapított 141. § (6) és (7) bekezdését a Módtv9. 188. §-ának hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 (2) A Módtv9. által megállapított 230. § (1) bekezdését a Módtv9. 193. § 2. pontjának hatálybalépését követően kezdődő adóévekben kell először alkalmazni.
+
+#### 274/O. § [Átmeneti rendelkezés az egyes adótörvények módosításáról szóló 2022. évi XLV. törvényhez]
+
+(1) E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvény (a továbbiakban: Módtv.10.)által megállapított 175. §-át, 177. § (1a) bekezdését, 180. § (1) bekezdését, 181. § (2) bekezdését és 182. § (1) bekezdését a 2023. január 1-je után indult eljárásokban kell alkalmazni.
+
+(2) E törvénynek a Módtv.10. által megállapított 50. § (1a) bekezdését azokra az egyéni vállalkozókra is alkalmazni kell, akiknek egyéni vállalkozói tevékenysége e törvénynek a Módtv.10. által megállapított 50. § (1a) bekezdés hatálybelépése előtt szűnt meg, és bevallási kötelezettségüket ezen időpontig nem teljesítették.
+
+(3) Ha az adószám megállapítását az állami adó- és vámhatóság a 19. § (2) bekezdés a) pont ac) alpontjának a Módtv.10. hatálybalépését megelőzően hatályos rendelkezése alapján tagadta meg, akkor az a személy, akire tekintettel az állami adó- és vámhatóság az adószám megállapítását megtagadta, a Módtv.10. hatálybalépését követő 60 napos, jogvesztő határidőn belül kérheti az adószám megállapításának megtagadása tárgyában hozott határozat visszavonását, ha a 19. § (2) bekezdés a) pont ac) alpontjának a Módtv.10. által megállapított rendelkezése alapján az adószám megállapításának nem lett volna akadálya.
 
 #### 275. § [Az Európai Unió jogának való megfelelés]
 
