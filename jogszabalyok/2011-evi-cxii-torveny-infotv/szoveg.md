@@ -759,13 +759,15 @@ az adatkezelő vagy tevékenysége keretei között az adatfeldolgozó – a (2)
 
 #### 24. A közzétételi listák
 
-37. § (1) A 33. § (2)–(4) bekezdésében meghatározott szervek (a továbbiakban együtt: közzétételre kötelezett szerv) – a (4) bekezdésben meghatározott kivétellel – tevékenységükhöz kapcsolódóan az 1. melléklet szerinti általános közzétételi listában meghatározott adatokat az 1. mellékletben foglaltak szerint közzéteszik.
+37. § (1) A 33. § (2)–(4) bekezdésében meghatározott szervek (a továbbiakban együtt: közzétételre kötelezett szerv) – a (4) és (4a) bekezdésben meghatározott kivétellel – tevékenységükhöz kapcsolódóan az 1. melléklet szerinti általános közzétételi listában meghatározott adatokat az 1. mellékletben foglaltak szerint közzéteszik.
 
 (2) Jogszabály egyes ágazatokra, a közfeladatot ellátó szervtípusra vonatkozóan meghatározhat egyéb közzéteendő adatokat (a továbbiakban: különös közzétételi lista).
 
 (3) A közzétételre kötelezett szerv vezetője – a Hatóság véleményének kikérésével –, valamint jogszabály a közfeladatot ellátó szervre, azok irányítása, felügyelete alá tartozó szervekre vagy azok egy részére kiterjedő hatállyal további kötelezően közzéteendő adatkört határozhat meg (a továbbiakban: egyedi közzétételi lista).
 
 (4) A nemzetbiztonsági szolgálatok által közzéteendő adatok körét a Kormány – a Hatóság véleményének kikérésével – rendeletben állapítja meg.
+
+(4a) A 37/C. § szerint a felületen közzétételre kötelezettek az 1. melléklet „III. Gazdálkodási adatok” táblázat 3., 4. és 6. pontja szerinti adataik közzétételét a felület alkalmazásával is teljesíthetik.
 
 (5) Testületi szervként működő közzétételre kötelezett szerv esetén az egyedi közzétételi lista megállapítása és módosítása – a Hatóság véleményének kikérésével – a testület hatáskörébe tartozik.
 
@@ -784,6 +786,31 @@ az adatkezelő vagy tevékenysége keretei között az adatfeldolgozó – a (2)
 37/B. § (1) Az adatfelelős gondoskodik a kezelésében lévő, közérdekű adatot tartalmazó honlapok, adatbázisok, illetve nyilvántartások leíró adatainak a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszternek történő továbbításáról és a továbbított közérdekű adatok rendszeres frissítéséről, valamint felel az egységes közadatkereső rendszerbe továbbított közérdekű adatok tartalmáért és a továbbított közérdekű adatok rendszeres frissítéséért is.
 
 (2) A közérdekű adatokat tartalmazó adatbázisok, illetve nyilvántartások jegyzékének fenntartása, valamint az egységes közadatkereső rendszerhez való csatlakozás nem mentesíti az adatfelelőst az elektronikus közzététel kötelezettsége alól.
+
+#### 24/B. A Központi Információs Közadat-nyilvántartás
+
+37/C. § (1) A közpénzek felhasználásának átláthatósága érdekében az államháztartásról szóló törvény szerinti költségvetési szervek – a nemzetbiztonsági szolgálatok kivételével – (a továbbiakban: a felületen közzétételre kötelezettek) a (2) bekezdésben meghatározott adatokat a Kormány rendeletében kijelölt szerv által üzemeltetett és a 33. § (1) bekezdésében foglalt követelményeknek megfelelően bárki számára hozzáférhető – a gépi olvashatóságot, a csoportos letöltést, az adatok csoportosítását, kereshetőségét, kivonatolását és összehasonlíthatóságát is lehetővé tevő – Központi Információs Közadat-nyilvántartás felületén (a továbbiakban: felület) kéthavi rendszerességgel, a közzétételt követő legalább tíz évig elérhető módon, a (3) bekezdés szerinti bontásban közzéteszik.
+
+(2) A felületen közzétételre kötelezettek a felületen az ötmillió forintot meghaladó, az általuk hazai vagy európai uniós forrásból megvalósulóan
+
+- a) nyújtott, az államháztartásról szóló törvény szerinti költségvetési támogatások – kivéve, ha a közzététel előtt a költségvetési támogatást visszavonják vagy arról a kedvezményezett lemond –,
+- b) árubeszerzésre, építési beruházásra, szolgáltatás megrendelésre, vagyonértékesítésre, vagyonhasznosításra, vagyon vagy vagyoni értékű jog átadására, valamint koncesszióba adásra vonatkozó szerződések – kivéve a védelmi és biztonsági célú beszerzések adatai és a minősített adatok, továbbá a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 9. § (1) bekezdés b) pontja szerinti beszerzések és az azok eredményeként kötött szerződések –,
+- c) nem alapfeladataik ellátására – így különösen egyesület támogatására, foglalkoztatottai szakmai és munkavállalói érdek-képviseleti szervei számára, foglalkoztatottjai, ellátottjai oktatási, kulturális, szociális és sporttevékenységet segítő szervezet támogatására, alapítványok által ellátott feladatokkal összefüggő kifizetésre – fordított kifizetések
+
+adatait teszik közzé.
+
+(3) A (2) bekezdés szerinti adatokat a felületen közzétételre kötelezettek – a felhasznált hazai és európai uniós forrás arányának feltüntetése mellett – az alábbi bontásban teszik közzé:
+
+- a) a (2) bekezdés a) és c) pontja szerinti esetben
+  - aa) a szerződés megnevezése (típusa), a kedvezményezett neve – nem természetes személy esetén az e személy megnevezése, székhelye –, adószáma, a támogatás tárgya, és a támogatási program megvalósítási helye, kezdő és záró, illetve – amennyiben megtörtént – a kifizetés időpontja, a támogatás összege és pénzneme, valamint
+  - ab) a 2. mellékletben meghatározott, az Európai Unió kötelező jogi aktusa hatálya alá tartozó állami támogatás esetén – az aa) alponton túlmenően – a kedvezményezett besorolása, a támogatás felhasználásával érintett tevékenység szakágazati besorolása (ha nem azonosítható ilyen tevékenység, a kedvezményezett főtevékenységének szakágazati besorolása), a támogatás formájának megjelölése, odaítélésének napja, az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló kormányrendelet szerinti támogatási kategória megjelölése, a támogatás európai bizottsági hivatkozási száma,
+- b) a (2) bekezdés b) pontja szerinti esetben
+  - ba) a szerződés megnevezése (típusa), tárgya, a szerződést kötő fél vagy felek neve – nem természetes személy esetén az e személy megnevezése, székhelye –, adószáma, a szerződés tárgya és értéke, a szerződés teljesítésének helye, kezdő időpontja, határozott időtartam esetében annak záró időpontja, valamint
+  - bb) közbeszerzés vagy beszerzési eljárás esetén – a ba) alponton túlmenően – az ajánlattevő (ajánlattevők) neve, a Kbt. szerinti elektronikus közbeszerzési rendszerben rögzített, az eljárás egyedi azonosítója (EKR azonosító) az arra mutató hivatkozással együtt, a nevesített alvállalkozó (alvállalkozók) neve, illetve – amennyiben annak díja meghatározott – annak összege (összegei), valamint annak megjelölése, ha a közbeszerzés vagy beszerzés – beleértve a Kbt. szerinti nemzeti értékhatárt meg nem haladó értékű beszerzéseket is – részben vagy egészben európai uniós forrás felhasználásával valósul meg.
+
+(4) A (2) bekezdés b) pontja tekintetében a szerződés értéke alatt a szerződés tárgyáért kikötött – általános forgalmi adó nélkül számított – ellenszolgáltatást kell érteni, ingyenes ügylet esetén a vagyon piaci vagy könyv szerinti értéke közül a magasabb összeget kell figyelembe venni. Az időszakonként visszatérő – egy évnél hosszabb időtartamra kötött – szerződéseknél az érték kiszámításakor az ellenszolgáltatás egy évre számított összegét kell alapul venni. Az egy költségvetési évben ugyanazon szerződő féllel kötött azonos tárgyú szerződések értékét egybe kell számítani.
+
+(5) A felület üzemeltetésére, működtetésére, valamint a felületen történő közzétételre vonatkozó részletes szabályokat a Kormány rendeletben határozza meg.
 
 ### V. Fejezet — A NEMZETI ADATVÉDELMI ÉS INFORMÁCIÓSZABADSÁG HATÓSÁG
 
@@ -1524,6 +1551,7 @@ az e fejezetben meghatározott eltérésekkel kell alkalmazni.
 - c) különös közzétételi listát állapíthasson meg,
 - d) állapítsa meg az egységes közadatkereső rendszer és a központi jegyzék adattartalmát, valamint az adatintegrációra vonatkozó szabályokat,
 - e) – a Hatóság véleményének kikérésével – állapítsa meg a nemzetbiztonsági szolgálatok által közzéteendő adatok körét.
+- f) jelölje ki a felület üzemeltetőjét, valamint állapítsa meg a felület működtetésére, illetve az azon történő közzétételre vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap
 
@@ -1568,6 +1596,10 @@ az e fejezetben meghatározott eltérésekkel kell alkalmazni.
 (2) A Hatóság elnöke és elnökhelyettese 2022. december 31-ig vagyonnyilatkozat-tételi kötelezettségének a 2022. október 31-én hatályos rendelkezések szerint tesz eleget.
 
 (3) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
+
+75/D. § A felület üzemeltetője legkésőbb 2022. december 31-ig a felületet létrehozza, valamint közzéteszi a felületen történő közzétételhez szükséges adatlapot. A felületen közzétételre kötelezettek a 37/C. § (2) bekezdése szerinti adatokat a felületen folyamatosan, de első alkalommal legkésőbb 2023. február 28-ig teszik közzé.
+
+75/E. § A 37/C. § (3) bekezdés b) pont bb) alpontja tekintetében a Kbt. szerinti nemzeti értékhatárt meg nem haladó beszerzések esetén az európai uniós forrás felhasználásának tényét a 2023. március 31-én vagy azt követően megvalósított beszerzések esetén kell megjelölni.
 
 76. § E törvény V. Fejezete és 75/B–75/C. §-a az Alaptörvény VI. cikk (4) bekezdése alapján sarkalatosnak minősül.
 
@@ -1671,3 +1703,16 @@ való megfelelést szolgálja.
 | 6. | A közfeladatot ellátó szerv által nem alapfeladatai ellátására (így különösen egyesület támogatására, foglalkoztatottai szakmai és munkavállalói érdek-képviseleti szervei számára, foglalkoztatottjai, ellátottjai oktatási, kulturális, szociális és sporttevékenységet segítő szervezet támogatására, alapítványok által ellátott feladatokkal összefüggő kifizetésre) fordított, ötmillió forintot meghaladó kifizetések | Negyedévente | A külön jogszabályban meghatározott ideig, de legalább 1 évig archívumban tartásával |
 | 7. | Az Európai Unió támogatásával megvalósuló fejlesztések leírása, az azokra vonatkozó szerződések | Negyedévente | Legalább 1 évig archívumban tartásával |
 | 8. | Közbeszerzési információk (éves terv, összegzés az ajánlatok elbírálásáról, a megkötött szerződésekről) | Negyedévente | Legalább 1 évig archívumban tartásával |
+
+### 2. melléklet a 2011. évi CXII. törvényhez
+
+#### Az Európai Unió azon kötelező jogi aktusai, amelyek tekintetében a hatályuk alá tartozó állami támogatásokra vonatkozóan a 37/C. § (3) bekezdés a) pont ab) alpontja szerinti adatokat közzé kell tenni:
+
+- 1. a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014.6.26., 1. o.);
+- 2. a 651/2014/EU rendeletnek a kikötői és repülőtéri infrastruktúrákra irányuló támogatás, a kultúrát és a kulturális örökség megőrzését előmozdító támogatásra és a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatásra vonatkozó bejelentési határértékek, továbbá a legkülső régiókban biztosított regionális működési támogatási programok tekintetében, valamint a 702/2014/EU rendeletnek a támogatható költségek összegének meghatározása tekintetében történő módosításáról szóló, 2017. június 14-i (EU) 2017/1084 bizottsági rendelet (HL L 156., 2017.6.20., 1. o.);
+- 3. az 1407/2013/EU rendelet meghosszabbításának és a 651/2014/EU rendelet meghosszabbításának és vonatkozó kiigazításának tekintetében történő módosításáról szóló, 2020. július 2-i (EU) 2020/972 bizottsági rendelet (HL L 215, 2020.7.7, 3–6. o.);
+- 4. a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU rendelet módosításáról szóló (EU) 2021/1237 bizottsági rendelet (HL L 270, 202017.19, 39–75. o.);
+- 5. az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet (HL L 193., 2014.7.1.);
+- 6. az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. december 16-i 1388/2014/EU bizottsági rendelet (HL L 369., 2014.12.24., 37–63. o.);
+- 7. az Európai Unió működéséről szóló szerződés 108. cikkének alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2015. július 13-i (EU) 2015/1589 tanácsi rendelet (HL L 248., 2015.9.24.),
+- 8. az 1–7. pontban nem említett, az Európai Bizottság egyedi állami támogatási ügyben – Magyarország tekintetében – hozott kötelező jogi aktusa.
