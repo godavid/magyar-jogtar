@@ -40,6 +40,7 @@ végzése;
 - 13. téradat: valamely helymeghatározó, vagy helyhez köthető adat;
 - 14. térképi adatbázis: térinformatikai rendszerben kezelhető grafikus, numerikus és leíró adatok összessége;
 - 15. honvédelmi célú térképellátás: a Magyar Honvédségnek, a Katonai Nemzetbiztonsági Szolgálatnak, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó köznevelési intézménynek, a Nemzeti Közszolgálati Egyetem Hadtudományi és Honvédtisztképző Karának, a katonai légügyi hatósági feladatokat ellátó szervezetnek, továbbá különleges jogrendre való felkészülés érdekében a rendvédelmi és a védelmi igazgatási szerveknek, a honvédelmi felkészülés feladataiban részt vevő egyéb központi közigazgatási szerveknek és azok területi szerveinek az ország védelmi feladataihoz szükséges, a honvédelemért felelős miniszter felelősségi körébe tartozó állami alapadatok adatbázisaival, térképekkel, térképészeti információkkal, távérzékelési anyagokkal, geodéziai adatokkal történő ellátása.
+- 16. GNSS (Global Navigation Satellite Systems): a globális műholdas helymeghatározó rendszerek közös elnevezése.
 
 #### 1/A.
 
@@ -209,7 +210,7 @@ feltéve hogy nem éri el az adott fekvés területét;
 
 (19) A földmérési és térinformatikai államigazgatási szerv a kezelésében lévő és a 3. § (1) bekezdés i) pontjába tartozó adatbázis távérzékelési adatait, amennyiben azok digitálisan rendelkezésre állnak és a technikai feltételek adottak, hálózaton keresztül díjmentesen szolgáltatja.
 
-(20) A területrendezésért felelős miniszter, a megyei önkormányzat, valamint a települési önkormányzat a területrendezési, valamint a településrendezési feladatainak ellátásához (a területrendezési tervek, valamint a településrendezési tervek készítéséhez szükséges adatokhoz) díj-, költség- és térítésmentesen hozzáférhetnek a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázisokhoz, valamint az ország 1:10000 digitális szintvonalrajzához és domborzatmodelljéhez (DDM-5).
+(20) A költségvetési szerv jogszabályban meghatározott területrendezési, településrendezési, területfejlesztési és településfejlesztési feladatai ellátásához, továbbá a településterv, a települési arculati kézikönyv és a településképi rendelet véleményezéséhez a Magyar Építész Kamara, az érintett és közigazgatási határral szomszédos területi (megyei, fővárosi) önkormányzat és az érintett kiemelt térségi fejlesztési tanács díj-, költség- és térítésmentesen hozzáférhet a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázisokhoz, valamint az ország 1:10000 digitális szintvonalrajzához és domborzatmodelljéhez (DDM-5).
 
 (21) A honvédelem térképészeti támogatásáért felelős szerv a honvédelemért felelős miniszter felelősségi körébe tartozó, a 3. § (1) bekezdés e)–g) pontjában meghatározott, valamint az (1) és (1a) bekezdés alapján átadott állami alapadatok adatbázisaiból a Magyar Honvédségnek a honvédelemért felelős miniszter által rendeletben kijelölt szervezetei és a Katonai Nemzetbiztonsági Szolgálat részére, a jogszabályban meghatározott feladataik végrehajtásához, amennyiben azok digitálisan rendelkezésre állnak és a technikai feltételek adottak, hálózaton keresztül díjmentesen szolgáltat adatot.
 
@@ -230,7 +231,7 @@ feltéve hogy nem éri el az adott fekvés területét;
 
 (26) A mezőgazdasági és vidékfejlesztési támogatási szerv az Integrált Igazgatási és Ellenőrzési Rendszerben történő felhasználás céljából minden év januárjában – díjmentesen, de az adatszolgáltatáshoz kapcsolódó munkadíj megfizetése mellett – hozzáférhet az állami ingatlan-nyilvántartási térképi adatbázisból előállított, a Mezőgazdasági Parcella Azonosító Rendszer részét képező kataszteri fedvény adataihoz.
 
-(27) A területrendezésért, a településfejlesztésért és településrendezésért, valamint a kulturális örökség védelméért felelős miniszter a területrendezési, a településfejlesztési és településrendezési, valamint a kulturális örökségvédelmi és világörökségi feladataival összefüggő feladatai ellátása érdekében térítésmentesen és korlátlanul hozzáférhet a földmérési és térinformatikai államigazgatási szerv által kezelt és üzemeltetett állami ingatlan-nyilvántartási térképi adatbázis adataihoz.
+(27) A kulturális örökség védelméért felelős miniszter a kulturális örökségvédelmi és világörökségi feladataival összefüggő feladatai ellátása érdekében térítésmentesen és korlátlanul hozzáférhet a földmérési és térinformatikai államigazgatási szerv által kezelt és üzemeltetett állami ingatlan-nyilvántartási térképi adatbázis adataihoz.
 
 (28) A megyei önkormányzat a megyei területrendezési terv készítése érdekében szükséges, a földmérési és térinformatikai államigazgatási szerv által üzemeltetett és kezelt állami ingatlan-nyilvántartási térképi adatbázishoz térítésmentesen hozzáférhet.
 
@@ -312,7 +313,7 @@ térképi megalapozásához.
 - a) az Egységes Országos Vízszintes Alapponthálózat (EOVA) I–IV. rendű pontjai,
 - b) az Egységes Országos Magassági Alapponthálózat (EOMA) I–III. rendű pontjai,
 - c) a Bendefy-féle magassági hálózat I–III. rendű alappontjai,
-- d) az állam által fenntartott aktív GNSS (Global Navigation Satellite Systems) hálózat hazai állomásai,
+- d) az állam által fenntartott aktív GNSS hálózat (GNSSnet.hu) referencia állomásai,
 - e) a Magyar GPS Geodinamikai Alaphálózat pontjai (MGGA),
 - f) az Országos GPS Hálózat pontjai (OGPSH),
 - g) a katonai GPS hálózat pontjai (KGPSH),
@@ -343,7 +344,9 @@ amelyek az alapponthálózati pontok adatbázisait alkotják.
 - j) az elhelyezkedésüktől függetlenül az önálló ingatlannak nem minősülő építményeket – ide nem értve a nyomvonal jellegű építményt – és azok meghatározott tartozékait és azonosítóit,
 - k) az elhelyezkedésüktől függetlenül az önálló ingatlannak minősülő építményeket – ide nem értve a nyomvonal jellegű építményt, az öröklakást, szövetkezeti lakást illetve a nem lakás céljára szóló helyiséget – és azok meghatározott tartozékait és azonosítóit,
 - l) 10. § (3) bekezdésének a)–f) és h) pontjában meghatározott alapponthálózati pontokat és azonosítóit,
-- m)–o)
+- m)
+- n)
+- o)
 
 (2) Az állami földmérési alaptérképi adatbázis az állami ingatlan-nyilvántartási térképi adatbázis kötelező alapja.
 
@@ -586,13 +589,9 @@ amelyek az alapponthálózati pontok adatbázisait alkotják.
 
 (3) Egyéb célú földmérési tevékenységnek minősülnek az állami alapfeladatok és alapmunkák körébe, valamint az ingatlan-nyilvántartási célú földmérési tevékenységek körébe nem tartozó földmérési munkák. Az egyéb célú földmérési tevékenység végzésének jogosultsági feltételrendszerét és a munkavégzés részletes szabályait a Kormány rendeletben határozza meg.
 
-(4) Az állami alapadatok változását, megszüntetését vagy bővítését eredményező ingatlan-nyilvántartási célú földmérési és térképészeti munkát, ha a változás vagy bővítés a változás előtti és utáni földrészletek számát együttesen tekintve több mint 30 földrészletet, illetve külterületen több mint 50 hektárt érint, a munkálatok megkezdése előtt az illetékes ingatlanügyi hatósághoz be kell jelenteni.
+(4)
 
-(5) A (4) bekezdésben meghatározottakon túl bejelentésre kötelezett munkának minősül:
-
-- a) minden állami alapponthálózati munka,
-- b) a közigazgatási és fekvéshatárok változása,
-- c) minden kisajátítási földmérési munka.
+(5)
 
 (6) Az állami ingatlan-nyilvántartási térképi adatbázis tartalmának megváltoztatására irányuló munkákat az állami alapadatok kötelező felhasználásával úgy kell elkészíteni, hogy a keletkező új földmérési alapadatok változtatás nélkül beilleszthetőek legyenek az állami ingatlan-nyilvántartási térképi adatbázis állományába.
 
@@ -644,6 +643,7 @@ amelyek az alapponthálózati pontok adatbázisait alkotják.
 - d) vállalkozásának megnevezését,
 - e) telephelyének címét,
 - f) elérhetőségeit.
+- g) földmérő igazolvány számát.
 
 (4) A nyilvántartásban szereplő személy a (3) bekezdés d)–f) pontjában meghatározott adatainak a nyilvánosságra hozatalát az adatnyilvántartónál írásban megtilthatja.
 
@@ -655,14 +655,14 @@ amelyek az alapponthálózati pontok adatbázisait alkotják.
 
 (2) A tulajdonosi jogokat:
 
-- a) az államhatár érintett földmérési jelei (határjelei), valamint az aktív GNSS hálózat vonatkozásában a földmérési és térinformatikai államigazgatási szerv gyakorolja, és gondoskodik azok kezeléséről, nyilvántartásáról és időszakos karbantartásáról,
+- a) az államhatár érintett földmérési jelei (határjelei), valamint a 10. § (3) bekezdés d) pontjában meghatározott referenciaállomások vonatkozásában a földmérési és térinformatikai államigazgatási szerv gyakorolja, és gondoskodik azok kezeléséről, nyilvántartásáról és időszakos karbantartásáról,
 - b) az Országos Gravimetriai Hálózat pontjai kivételével az alapponthálózati pontok vonatkozásában az ingatlanügyi hatóságok gyakorolják,
 - c) a katonai tájékozási hálózat pontjai vonatkozásában a honvédelem térképészeti támogatásáért felelős szerv,
 - d) az Országos Gravimetriai Hálózat pontjai tekintetében a bányászati ügyekért felelős miniszter által kijelölt szervezet gyakorolja.
 
 (3) A (2) bekezdés b) pontjában meghatározott alapponthálózati pontok áthelyezésével, pótlásával, helyszínelésével és karbantartásával kapcsolatos szabályokat a miniszter, a (2) bekezdés c) pontjában meghatározott alappontok esetében a honvédelemért felelős miniszter rendeletben szabályozza.
 
-(4) A 9. § (1) bekezdés d) pontjában és a 10. § (3) bekezdés a), b), c), f) és h) pontjában, továbbá a 10. § (5) bekezdésében meghatározott földmérési jelek által érintett földrészletekre az államot e törvény erejénél fogva 50 m2 erejéig határozatlan időre szóló ingyenes közérdekű használati jog illeti meg.
+(4) A 9. § (1) bekezdés d) pontjában és a 10. § (3) bekezdés a)–f) és h) pontjában, továbbá a 10. § (5) bekezdésében meghatározott földmérési jelek által érintett földrészletekre az államot e törvény erejénél fogva 50 m2 erejéig határozatlan időre szóló ingyenes közérdekű használati jog illeti meg.
 
 (5) A (4) bekezdés szerinti közérdekű használati jogot az államhatár földmérési jelei vonatkozásában a földmérési és térinformatikai államigazgatási szerv, a (2) bekezdés b) pontja szerinti alapponthálózati pontok vonatkozásában a területileg illetékes ingatlanügyi hatóság, a 10. § (5) bekezdés szerinti pontok esetében a bányászati ügyekért felelős miniszter által kijelölt szervezet gyakorolja.
 
@@ -734,7 +734,7 @@ végzi.
 
 (7c) A 70. életévet betöltött ingatlanrendező földmérőknek a jogosultságuk meghosszabbításához nem szükséges a (7a) bekezdés a) pontjában meghatározott húsz továbbképzési pont igazolása.
 
-(8) A földmérési és térinformatikai államigazgatási szerv a földmérő igazolvánnyal, illetve az ingatlanrendező földmérő minősítéssel rendelkező személyekről bárki számára ingyenesen hozzáférhető nyilvántartást vezet, amely tartalmazza a tevékenység végzésére jogosult személy:
+(8) A földmérési és térinformatikai államigazgatási szerv a földmérő igazolvánnyal, illetve az ingatlanrendező földmérő minősítéssel rendelkező személyekről nyilvántartást vezet, amely tartalmazza a tevékenység végzésére jogosult személy:
 
 - a) természetes személyazonosító adatait,
 - b) a földmérő igazolvány illetve a minősítés számát,
@@ -757,7 +757,7 @@ végzi.
 
 (9) Aki földmérési munkát jogosulatlanul végez, kormányrendeletben meghatározott mértékű bírságot köteles fizetni.
 
-(10) Jogosulatlan földmérési tevékenységet végez az, aki az (1) bekezdésben meghatározott jogosultság hiányában, a 23. § (1)–(3) bekezdésében felsorolt földmérési tevékenységet végez.
+(10) Jogosulatlan földmérési tevékenységet végez az, aki az (1), (3) és (4) bekezdésben meghatározott jogosultság hiányában, a 23. § (1)–(3) bekezdésében felsorolt földmérési tevékenységet végez.
 
 (11) A földmérési és térképészeti állami alapadat-adatbázisok jogosulatlan adatfelhasználásáért az adatot felhasználó kormányrendeletben meghatározott mértékű bírságot köteles fizetni.
 
@@ -769,7 +769,7 @@ végzi.
 
 (3) A földmérési és térinformatikai államigazgatási szerv visszavonja a kiadott minősítést, ha hatósági ellenőrzés keretében megállapítja, hogy a földmérő a 28. § (7) bekezdés b)–c) pontjában meghatározott feltételeknek nem felel meg.
 
-(4) A földmérési és térinformatikai államigazgatási szerv a bizottság véleménye alapján – szakmaetikai vétség esetén – az ingatlanrendező földmérő minősítést visszavonja, vagy legfeljebb 2 évi időtartamra felfüggeszti. Visszavonás esetén a földmérő ismételt minősítést – a visszavonásról szóló határozat véglegessé válását követő – 5 év elteltével kaphat.
+(4) A földmérési és térinformatikai államigazgatási szerv a bizottság véleménye alapján – szakmaetikai vétség esetén – az ingatlanrendező földmérő minősítést visszavonja, vagy legfeljebb 2 évi időtartamra felfüggeszti. Visszavonás esetén a földmérő ismételt minősítést – a visszavonásról szóló határozat véglegessé válását követő – 5 év elteltével igényelhet.
 
 29/A. § Az ingatlanügyi hatóság a földmérő vállalkozó vagy vállalkozás részére az ingatlan-nyilvántartási célú földmérési munkák végzése céljából a tulajdoni lapon szereplő természetes személyazonosító adatokat, jogokat és tényeket átadja.
 
@@ -890,11 +890,11 @@ végzi.
 
 37. § (1) A földmérési és térképészeti állami alapfeladatok végzésének pénzügyi előirányzatát a központi költségvetésben kell megtervezni.
 
-(2) Az állami alapadatok díját az e törvényben meghatározott állami alapfeladatok végzésére, valamint új állami alapadatok előállítására kell fordítani.
+(2) A földmérési és térképészeti állami alapmunkákat a földmérési és térinformatikai államigazgatási szerv által készített ütemterv szerint kell végezni.
 
-(3) Az állami alapadatok többlettartalmú, valamint az állami alapadatok körén kívül eső adatok előállítása a megrendelő költségére történik.
+(3) Az e törvényben meghatározott állami alapadatok értékesítéséből származó igazgatási szolgáltatási díjak miniszteri rendeletben meghatározott összegét új állami alapadatok előállítására kell fordítani.
 
-(4)
+(4) A (2) bekezdésben meghatározott ütemtervtől eltérően új állami alapadatok előállítása a megrendelő költségére is történhet.
 
 ### X. Fejezet — VEGYES ÉS ZÁRÓ RENDELKEZÉSEK
 
@@ -977,7 +977,7 @@ rendeletben állapítsa meg.
 
 (3) A 14. § (8) bekezdése 2014. január 1-jén lép hatályba.
 
-(4) A 11. § (1) bekezdés m)–o) pontja, a 13. § (2) bekezdése, valamint a 15. § (1) bekezdése 2023. február 1-jén lép hatályba.
+(4) A 11. § (1) bekezdés m)–o) pontja, a 13. § (2) bekezdése, valamint a 15. § (1) bekezdése 2024. február 1-jén lép hatályba.
 
 (5)
 
@@ -991,11 +991,21 @@ rendeletben állapítsa meg.
 
 #### 34. Módosító rendelkezések
 
-43. § (1)–(4)
+43. § (1)
+
+(2)
+
+(3)
+
+(4)
 
 (5)
 
-(6)–(11)
+(6)
+
+(7)
+
+(8)
 
 (12)
 
@@ -1007,6 +1017,8 @@ rendeletben állapítsa meg.
 
 #### 45. §
 
-46. § (1)–(2)
+46. § (1)
+
+(2)
 
 (3)

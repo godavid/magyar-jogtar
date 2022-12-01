@@ -4,7 +4,57 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 
 ## ELSŐ RÉSZ
 
-1–26. §
+#### 1. §
+
+#### 2. §
+
+#### 3. §
+
+#### 4. §
+
+#### 5. §
+
+#### 6. §
+
+#### 7. §
+
+#### 8. §
+
+#### 9. §
+
+#### 10. §
+
+#### 11. §
+
+#### 12. §
+
+#### 13. §
+
+#### 14. §
+
+#### 15. §
+
+#### 16. §
+
+#### 17. §
+
+#### 18. §
+
+#### 19. §
+
+#### 20. §
+
+#### 21. §
+
+#### 22. §
+
+#### 23. §
+
+#### 24. §
+
+#### 25. §
+
+#### 26. §
 
 ## MÁSODIK RÉSZ — A TULAJDONILAP-MÁSOLAT IGAZGATÁSI SZOLGÁLTATÁSI DÍJA
 
@@ -118,9 +168,14 @@ kéri.
 
 - a) a Magyar Állam,
 - b) a fővárosi és megyei kormányhivatal, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala,
-- c)–d)
+- c)
+- d)
 - e) az egyházi jogi személy,
-- f)–j)
+- f)
+- g)
+- h)
+- i)
+- j)
 - k) az Észak-atlanti Szerződés Szervezete, továbbá az Észak-atlanti Szerződés tagállamainak és az Észak-atlanti Szerződés Szervezetével aláírt „Békepartnerség” program Keretdokumentumának törvénybe iktatásáról, és annak a Magyar Köztársaság által történő végrehajtásáról szóló törvényben kihirdetett Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői – ideértve az azok alkalmazásában álló nem magyar állampolgárságú, hivatásos szolgálatban lévő és polgári állományú személyeket is – kizárólag a szolgálati kötelezettségükkel összefüggő ingatlanügyek tekintetében.
 - l)
 
@@ -173,8 +228,8 @@ biztosító jelzálogjog, valamint ezzel összefüggően a Magyar Állam, mint a
   - rg) a barlang felszíni védőövezete tényének ingatlan-nyilvántartási feljegyzése iránti eljárás,
 - s) az állandó legelő vagy állandó gyep jogi jelleg feljegyzése,
 - t) a borszőlő termőhelyi kataszterbe sorolt terület jogi jelleg feljegyzése,
-- u)
-- v) tulajdonosváltozás ingatlan-nyilvántartási bejegyzése öröklés jogcímén;
+- u) a bányatelek jogi jelleg törlésére irányuló eljárás;
+- v) tulajdonosváltozás ingatlan-nyilvántartási bejegyzése hagyatékátadó végzés alapján;
 - w) haszonélvezeti jog ingatlan-nyilvántartási bejegyzése hagyatékátadó végzés alapján,
 - x) társasház esetén
   - xa) a közösség ügyintézését ellátó közös képviselő vagy az intézőbizottság elnöke adatainak bejegyzésére, törlésére, megváltozására,
@@ -192,6 +247,8 @@ irányuló eljárás.
 ingatlan-nyilvántartási feljegyzése iránti hatósági eljárás;
 
 - z) az Országos Erdőállomány Adattárban erdőként vagy fátlan állapotban tartott erdőként nyilvántartott terület erdő vagy fásított terület művelési ágának átvezetésére, ennek hiányában jogi jellegként történő feljegyzésére irányuló hatósági eljárás.
+
+(1a) Tárgyánál fogva díjmentes a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 108/G. §-a szerinti, törölt haszonélvezeti jog visszajegyzésére, valamint a törölt haszonélvezeti jog visszajegyezhetőségének vizsgálatára irányuló eljárás megindítása tényének törlésére irányuló hatósági eljárás.
 
 (2) A mentesség fennállásáról a kérelmező az eljárás megindításakor köteles nyilatkozni.
 
