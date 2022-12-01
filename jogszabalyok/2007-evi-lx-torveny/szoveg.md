@@ -81,7 +81,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 5. § (1) A kiotói egységek kiadásának, átruházásának és törlésének nyilvántartása közhiteles és nyilvános forgalmi jegyzékben történik, amelynek kezelője a klímavédelemért felelős hatóság.
 
-(2) A kincstári vagyonba tartozó kiotói egységeket a forgalmi jegyzékben külön számlán kell nyilvántartani. A számla fölött a rendelkezési jogot az iparügyekért felelős miniszter gyakorolja.
+(2) A kincstári vagyonba tartozó kiotói egységeket a forgalmi jegyzékben külön számlán kell nyilvántartani. A számla fölött a rendelkezési jogot a miniszter gyakorolja.
 
 (3) A kiotói egységek átruházásához a forgalmi jegyzékben vezetett számlán történő nyilvántartásba vétel is szükséges.
 
@@ -101,7 +101,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 8. § (1) A Jegyzőkönyv alapján keletkező, a nemzeti számlákon lévő kiotói egységek a kincstári vagyonba tartozó, külön jogszabály szerint korlátozottan forgalomképes vagyoni értékű jogok.
 
-(2) A kiotói egység a forgalmi jegyzékbe való bejegyzéssel jön létre és a jegyzékből való törléssel szűnik meg. Az iparügyekért felelős miniszter az adott elszámolási időszak végén – a jegyzékkezelő útján – gondoskodik az adott kötelezettségvállalási időszakra vonatkozóan kibocsátott a kibocsátott üvegházhatású gáz mennyiségnek megfelelő kiotói egység törléséről.
+(2) A kiotói egység a forgalmi jegyzékbe való bejegyzéssel jön létre és a jegyzékből való törléssel szűnik meg. A miniszter az adott elszámolási időszak végén – a jegyzékkezelő útján – gondoskodik az adott kötelezettségvállalási időszakra vonatkozóan kibocsátott a kibocsátott üvegházhatású gáz mennyiségnek megfelelő kiotói egység törléséről.
 
 (3) A kiotói egység csak az e törvény és külön jogszabály rendelkezéseinek megfelelően szerezhető meg, illetve ruházható át.
 
@@ -109,7 +109,7 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 9. § (1) A nemzeti vagyon részét képező kibocsátási jogosultságok értékesítési eljárása során az állami vagyonról szóló törvény (a továbbiakban: Vtv.), a nemzeti vagyonról szóló 2011. évi CXCVI. törvény, az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény, valamint e törvény és a végrehajtására kiadott jogszabályok rendelkezéseit kell megfelelően alkalmazni.
 
-(2) A nemzeti vagyon részét képező kibocsátási jogosultságok tekintetében a tulajdonosi jogokat és kötelezettségeket az iparügyekért felelős miniszter gyakorolja, illetve teljesíti.
+(2) A nemzeti vagyon részét képező kibocsátási jogosultságok tekintetében a tulajdonosi jogokat és kötelezettségeket a miniszter gyakorolja, illetve teljesíti.
 
 (3) A kiotói egységet megterhelni, annak tulajdonjogát ingyenesen átengedni nem lehet.
 
@@ -119,16 +119,16 @@ az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve v
 
 (6) A kibocsátható mennyiséget, illetve a kibocsátható mennyiségi egységeknek a Jegyzőkönyvnek és az azt követő döntéseknek megfelelően megállapított számát, megállapításukat követően a miniszter közleményben teszi közzé.
 
-(7) A kibocsátható mennyiségi egységek kincstári vagyonkörbe való kerülésének tényéről és azok teljes mennyiségéről a forgalmi jegyzékbe való bejegyzésüket követő 21 napon belül az iparügyekért felelős miniszter tájékoztatja a kincstári vagyon kezeléséért felelős szervet.
+(7) A kibocsátható mennyiségi egységek kincstári vagyonkörbe való kerülésének tényéről és azok teljes mennyiségéről a forgalmi jegyzékbe való bejegyzésüket követő 21 napon belül a miniszter tájékoztatja a kincstári vagyon kezeléséért felelős szervet.
 
-(8) A kibocsátható mennyiségi egységek kincstári vagyonkörből történő kikerüléséről és törléséről az iparügyekért felelős miniszter tájékoztatja a kincstári vagyon kezeléséért felelős szervet.
+(8) A kibocsátható mennyiségi egységek kincstári vagyonkörből történő kikerüléséről és törléséről a miniszter tájékoztatja a kincstári vagyon kezeléséért felelős szervet.
 
 10. § (1) A kibocsátási jogosultságok a következő módokon használhatók fel a Jegyzőkönyvvel és az azt követő döntésekkel összhangban:
 
 - a) Magyarországnak a Jegyzőkönyv alapján vállalt kibocsátás csökkentési céljaival összhangban Magyarország területén történt üvegházhatású gáz kibocsátások ellentételezésére, visszavonás által;
 - b) Magyarország mint fogadó ország területén megvalósuló együttes végrehajtási projektek keretében elért kibocsátás csökkentésnek megfelelő mennyiségű kibocsátás-csökkentési egység létrehozására. Az így keletkezett kibocsátás-csökkentési egységek teljes mennyisége vagy része az együttes végrehajtási projekt befektető országának kerül átutalásra.
 
-(2) A nemzetközi és európai kibocsátás-kereskedelem keretében az iparügyekért felelős miniszter az állam nevében kibocsátási jogosultságokat értékesíthet és vehet e törvény céljának hatékonyabb elérése céljából. Az értékesítés a Vtv. és az értékesítés részletszabályait meghatározó jogszabály rendelkezéseinek megfelelően, árverésen, versenyeztetés mellőzésével vagy közvetetten végezhető.
+(2) A nemzetközi és európai kibocsátás-kereskedelem keretében a miniszter az állam nevében kibocsátási jogosultságokat értékesíthet és vehet e törvény céljának hatékonyabb elérése céljából. Az értékesítés a Vtv. és az értékesítés részletszabályait meghatározó jogszabály rendelkezéseinek megfelelően, árverésen, versenyeztetés mellőzésével vagy közvetetten végezhető.
 
 (3) A kiotói egységek átruházásából származó bevételt az üvegházhatású gázok hazai kibocsátásának csökkentését célzó tevékenységek, intézkedések támogatására, nyelők általi eltávolításának növelésére, az alkalmazkodásra kell fordítani külön jogszabály rendelkezéseinek megfelelően.
 
@@ -208,7 +208,9 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 
 (3) Az uniós jogi aktusban rögzített tilalmak alá eső termékek és berendezések esetében a klímavédelemért felelős hatóság útján az Európai Bizottság felé forgalombahozatali mentességi kérelem nyújtható be. A kérelem benyújtásának részletes szabályait az e törvény végrehajtására kiadott kormányrendelet határozza meg.
 
-(4)–(5)
+(4)
+
+(5)
 
 10/E. § (1) A fluortartalmú üvegházhatású gázokkal töltött termékek és berendezések Magyarország területén való gyártása és Magyarország területére történő behozatala során a gyártóknak és az importőröknek az uniós jogi aktusban előírtak szerint kell eljárniuk azzal, hogy a klímavédelemért felelős hatóság által üzemeltetett adatbázisban regisztrációs, adatszolgáltatási és jelentéstételi kötelezettségüknek kötelesek eleget tenni a 10/G. §-ban és az e törvény végrehajtására kiadott kormányrendeletben meghatározott adattartalommal és módon.
 
@@ -337,7 +339,9 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 
 10/H. § (1) Aki tevékenységével vagy mulasztásával a fluortartalmú üvegházhatású gázokkal kapcsolatos jogszabály, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa vagy a klímavédelemért felelős hatóság határozatában foglalt előírásait megsérti, az azokban foglalt kötelezettségeit nem vagy nem megfelelően teljesíti, vagy a tevékenységet nyilvántartásba vétel nélkül vagy attól eltérően végzi, azt a klímavédelemért felelős hatóság klímavédelmi bírság megfizetésére kötelezi.
 
-(2)–(3)
+(2)
+
+(3)
 
 (4) A klímavédelmi bírság mértékének meghatározásakor a klímavédelemért felelős hatóság a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontok mellett figyelembe veszi különösen a jogsértő magatartás konkrét veszélyességét vagy károsító hatását, továbbá a termékekben és berendezésekben használt fluortartalmú üvegházhatású gázok mennyiségét és annak a klímavédelemmel összefüggésben kitűzött célok megvalósítására való veszélyességét.
 
@@ -379,21 +383,21 @@ A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek és az 
 
 ### Részvétel nemzetközi klímapolitikai célkitűzések végrehajtásában
 
-11. §
+#### 11. §
 
-12. §
+#### 12. §
 
-13. §
+#### 13. §
 
-13/A. §
+#### 13/A. §
 
-13/B. §
+#### 13/B. §
 
-13/C. §
+#### 13/C. §
 
-13/D. §
+#### 13/D. §
 
-13/E. §
+#### 13/E. §
 
 13/F. § (1) A miniszter a Keretegyezményből fakadó nemzetközi kötelezettségvállalásokkal összefüggésben ellátja a nemzetközi klímavédelmi erőfeszítéseket támogató multi- és bilaterális szervezetekben a hazai képviseletet és koordinálja a részvételt. Ennek keretében a külpolitikáért felelős miniszter egyetértésével, az államháztartásért felelős miniszter tájékoztatásával egyidejűleg a Zöld Klíma Alap (GCF) döntéshozó testülete esetében kijelöli a szervezethez akkreditált nemzeti képviselőt.
 
@@ -476,9 +480,9 @@ rendeletben állapítsa meg.
 
 „(13) A 108. § (1) bekezdés h) pontjában meghatározott vagyonelemek az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló törvényben meghatározott nemzetközi rugalmassági mechanizmusok keretében átruházhatók.”
 
-16. §
+#### 16. §
 
-16/A. §
+#### 16/A. §
 
 ### Az Európai Unió jogának való megfelelés
 

@@ -8,15 +8,15 @@ Az Országgyűlés az Alaptörvény 17. cikk (1) bekezdése alapján a miniszté
 
 - a) Agrárminisztérium,
 - b) Belügyminisztérium,
-- c) Építési és Beruházási Minisztérium,
-- d) Honvédelmi Minisztérium,
-- e) Igazságügyi Minisztérium,
-- f) Kulturális és Innovációs Minisztérium,
-- g) Külgazdasági és Külügyminisztérium,
-- h) Miniszterelnöki Kabinetiroda,
-- i) Miniszterelnökség,
-- j) Pénzügyminisztérium, és
-- k) Technológiai és Ipari Minisztérium.
+- c) Energiaügyi Minisztérium,
+- d) Építési és Közlekedési Minisztérium,
+- e) Honvédelmi Minisztérium,
+- f) Igazságügyi Minisztérium,
+- g) Kulturális és Innovációs Minisztérium,
+- h) Külgazdasági és Külügyminisztérium,
+- i) Miniszterelnöki Kabinetiroda,
+- j) Miniszterelnökség és
+- k) Pénzügyminisztérium.
 
 2. § A miniszterelnök munkaszervezete a Miniszterelnöki Kabinetiroda, amelynek része kormányzati igazgatási munkaszervezetként a Miniszterelnöki Kormányiroda.
 

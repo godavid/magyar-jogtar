@@ -4,369 +4,369 @@ egyes törvényeknek a honvédelemmel, a gazdaságfejlesztéssel, valamint a kor
 
 #### 1.
 
-1. §
+#### 1. §
 
-2. §
+#### 2. §
 
 #### 2. A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény módosítása
 
-3. §
+#### 3. §
 
 #### 3. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-4. §
+#### 4. §
 
 #### 4. A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény módosítása
 
-5. §
+#### 5. §
 
 #### 5. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
 
-6. §
+#### 6. §
 
 #### 6. A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosítása
 
-7. §
+#### 7. §
 
 #### 7. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-8. §
+#### 8. §
 
 #### 8. A területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény módosítása
 
-9. §
+#### 9. §
 
 #### 9. Az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről szóló 1996. évi LXV. törvény módosítása
 
-10. §
+#### 10. §
 
 #### 10. Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény módosítása
 
-11. §
+#### 11. §
 
 #### 11. Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosítása
 
-12. §
+#### 12. §
 
-13. §
+#### 13. §
 
 #### 12. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
-14. §
+#### 14. §
 
-15. §
+#### 15. §
 
-16. §
+#### 16. §
 
-17. §
+#### 17. §
 
 #### 13. A külföldre utazásról szóló 1998. évi XII. törvény módosítása
 
-18. §
+#### 18. §
 
 #### 14. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
-19. §
+#### 19. §
 
 #### 15. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
 
-20. §
+#### 20. §
 
-21. §
+#### 21. §
 
-22. §
+#### 22. §
 
-23. §
+#### 23. §
 
-24. §
+#### 24. §
 
-25. §
+#### 25. §
 
-26. §
+#### 26. §
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
-29. §
+#### 29. §
 
 #### 16. A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény módosítása
 
-30. §
+#### 30. §
 
 #### 17. Az állami vagyonról szóló 2007. évi CVI. törvény módosítása
 
-31. §
+#### 31. §
 
 #### 18. A földgázellátásról szóló 2008. évi XL. törvény módosítása
 
-32. §
+#### 32. §
 
-33. §
+#### 33. §
 
-34. §
+#### 34. §
 
 #### 19. Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény módosítása
 
-35. §
+#### 35. §
 
 #### 20. A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény módosítása
 
-36. §
+#### 36. §
 
-37. §
+#### 37. §
 
-38. §
+#### 38. §
 
-39. §
+#### 39. §
 
-40. §
+#### 40. §
 
-41. §
+#### 41. §
 
-42. §
+#### 42. §
 
-43. §
+#### 43. §
 
-44. §
+#### 44. §
 
 #### 21. A fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény módosítása
 
-45. §
+#### 45. §
 
-46. §
+#### 46. §
 
-47. §
+#### 47. §
 
 #### 22. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény módosítása
 
-48. §
+#### 48. §
 
-49. §
+#### 49. §
 
 #### 23. A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény módosítása
 
-50. §
+#### 50. §
 
 #### 24. A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény módosítása
 
-51. §
+#### 51. §
 
 #### 25. A korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény módosítása
 
-52. §
+#### 52. §
 
 #### 26. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-53. §
+#### 53. §
 
 #### 27. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
 
-54. §
+#### 54. §
 
 #### 28. A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény módosítása
 
-55. §
+#### 55. §
 
-56. §
+#### 56. §
 
 #### 29. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
-57. §
+#### 57. §
 
-58. §
+#### 58. §
 
-59. §
+#### 59. §
 
-60. §
+#### 60. §
 
-61. §
+#### 61. §
 
-62. §
+#### 62. §
 
-63. §
+#### 63. §
 
-64. §
+#### 64. §
 
-65. §
+#### 65. §
 
 #### 30. A postai szolgáltatásokról szóló 2012. évi CLIX. törvény módosítása
 
-66. §
+#### 66. §
 
-67. §
+#### 67. §
 
-68. §
+#### 68. §
 
-69. §
+#### 69. §
 
 #### 31. A honvédek jogállásáról szóló 2012. évi CCV. törvény módosítása
 
-70. §
+#### 70. §
 
-71. §
+#### 71. §
 
 #### 32. Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény módosítása
 
-72. §
+#### 72. §
 
 #### 33. A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény módosítása
 
-73. §
+#### 73. §
 
 #### 34. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
 
-74. §
+#### 74. §
 
 #### 35. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény módosítása
 
-75. §
+#### 75. §
 
 #### 36. A Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII. törvény módosítása
 
-76. §
+#### 76. §
 
 #### 37. A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény módosítása
 
-77. §
+#### 77. §
 
 #### 38. Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény módosítása
 
-78. §
+#### 78. §
 
-79. §
+#### 79. §
 
-80. §
+#### 80. §
 
-81. §
+#### 81. §
 
-82. §
+#### 82. §
 
-83. §
+#### 83. §
 
-84. §
+#### 84. §
 
 #### 39. A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény módosításáról
 
-85. §
+#### 85. §
 
 #### 40. A közigazgatási perrendtartásról szóló 2017. évi I. törvény módosítása
 
-86. §
+#### 86. §
 
 #### 41. Az egyes állami tulajdonú ingatlanok ingyenes egyházi tulajdonba adásáról szóló 2017. évi LXXIV. törvény módosítása
 
-87. §
+#### 87. §
 
-88. §
+#### 88. §
 
 #### 42. A büntetőeljárásról szóló 2017. évi XC. törvény módosítása
 
-89. §
+#### 89. §
 
 #### 43. A közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény módosítása
 
-90. §
+#### 90. §
 
-91. §
+#### 91. §
 
 #### 44. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
 
-92. §
+#### 92. §
 
 #### 45. Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény módosítása
 
-93. §
+#### 93. §
 
 #### 46. A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény módosítása
 
-94. §
+#### 94. §
 
-95. §
+#### 95. §
 
 #### 47. A Hungary Helps Programról szóló 2018. évi CXX. törvény módosítása
 
-96. §
+#### 96. §
 
 #### 48. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
-97. §
+#### 97. §
 
-98. §
+#### 98. §
 
-99. §
+#### 99. §
 
-100. §
+#### 100. §
 
 #### 49. A Nemzeti Kulturális Tanácsról, a kultúrstratégiai intézményekről, valamint egyes kulturális vonatkozású törvények módosításáról szóló 2019. évi CXXIV. törvény módosítása
 
-101. §
+#### 101. §
 
-102. §
+#### 102. §
 
 #### 50. A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény módosítása és hatálybalépése
 
 103. § A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 2022. november 1-jén lép hatályba.
 
-104. §
+#### 104. §
 
-105. §
+#### 105. §
 
-106. §
+#### 106. §
 
-107. §
+#### 107. §
 
-108. §
+#### 108. §
 
-109. §
+#### 109. §
 
-110. §
+#### 110. §
 
-111. §
+#### 111. §
 
 #### 51.
 
-112. §
+#### 112. §
 
-113. §
+#### 113. §
 
-114. §
+#### 114. §
 
 #### 52. Az egyes belügyi tárgyú törvényeknek az Alaptörvény kilencedik módosításával, valamint a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvénnyel összefüggő módosításáról szóló 2021. évi CXXI. törvény hatálybalépése
 
 115. § Az egyes belügyi tárgyú törvényeknek az Alaptörvény kilencedik módosításával, valamint a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvénnyel összefüggő módosításáról szóló 2021. évi CXXI. törvény 2022. november 1-jén lép hatályba.
 
-116. §
+#### 116. §
 
 #### 53. A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény eltérő szöveggel történő hatálybalépése
 
 117. § A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 2022. november 1-jén lép hatályba.
 
-118. §
+#### 118. §
 
-119. §
+#### 119. §
 
-120. §
+#### 120. §
 
-121. §
+#### 121. §
 
-122. §
+#### 122. §
 
-123. §
+#### 123. §
 
-124. §
+#### 124. §
 
 #### 54. A határok, a vízumügy, a rendőrségi és igazságügyi együttműködés, valamint a menekültügy és a migráció területén működő uniós információs rendszerek együttműködő képességének megteremtése érdekében egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi CXLII. törvény módosítása
 
-125. §
+#### 125. §
 
 #### 55. A Földmegfigyelési Információs Rendszerről, valamint ezzel összefüggésben egyes törvények módosításáról szóló 2021. évi CXLIV. törvény módosítása
 
-126. §
+#### 126. §
 
 #### 56.
 
-127. §
+#### 127. §
 
 #### 57. Záró rendelkezések
 
@@ -378,9 +378,9 @@ egyes törvényeknek a honvédelemmel, a gazdaságfejlesztéssel, valamint a kor
 
 (4) Az 1. alcím 2023. január 1-jén lép hatályba.
 
-(5) Az 51. alcím 2023. február 1-jén lép hatályba.
+(5) Az 56. alcím 2023. július 1-jén lép hatályba.
 
-(6) Az 56. alcím 2023. július 1-jén lép hatályba.
+(6) Az 51. alcím 2024. február 1-jén lép hatályba.
 
 129. § E törvény
 

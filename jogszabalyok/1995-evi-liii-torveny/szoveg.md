@@ -935,7 +935,9 @@ tarthatók nyilván.
 
 ### A környezetvédelmi hatósági együttműködés
 
-65. § (1)–(2)
+65. § (1)
+
+(2)
 
 (3) A környezetvédelmi igazgatási szerv a helyi önkormányzatok feladat- és hatáskörét érintő környezetvédelmi ügyekben együttműködik az illetékességi területén működő önkormányzati környezetvédelmi hatóságokkal, és segíti őket környezetvédelmi feladataik ellátásában.
 
@@ -1271,18 +1273,22 @@ meghatározott esetben.
 
 (2) Az (1) bekezdés szerinti szakértői tevékenység folytatására jogosító engedélyt
 
-- a) természetvédelmi és tájvédelmi szakértői tevékenység esetében a környezetvédelmi hatóság,
+- a) természetvédelmi és tájvédelmi szakértői tevékenység esetében a természetvédelmi hatóság,
 - b) környezetvédelmi szakértői tevékenység esetében a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamara (a továbbiakban: kamara)
 
 adja ki.
 
-(3) Az (1) bekezdés szerinti szakértői tevékenység folytatását a környezetvédelmi hatóság, illetve a kamara annak engedélyezi, aki büntetlen előéletű, nem áll a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenységet kizáró foglalkozástól eltiltás hatálya alatt, rendelkezik az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek. A kérelem tartalmazza a kérelmező természetes személyazonosító adatait, értesítési címét, szakirányú végzettségét és a kérelmezett szakértői szakterületet, illetve részszakterületet.
+(3) Az (1) bekezdés szerinti szakértői tevékenység folytatását a természetvédelmi hatóság, illetve a kamara annak engedélyezi, aki büntetlen előéletű, nem áll a környezetvédelmi, természetvédelmi és tájvédelmi szakértői tevékenységet kizáró foglalkozástól eltiltás hatálya alatt, rendelkezik az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek. A kérelem tartalmazza a kérelmező természetes személyazonosító adatait, értesítési címét, szakirányú végzettségét és a kérelmezett szakértői szakterületet, illetve részszakterületet.
 
 (4) A (2) bekezdés szerinti hatóság a szakértői tevékenység folytatására engedéllyel rendelkező személyekről nyilvántartást vezet, amely – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl – tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait, értesítési címét, szakirányú végzettségét és szakértői szakterületét, illetve részszakterületét. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
 (4a) A (4) bekezdés szerinti nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(5)–(7)
+(5)
+
+(6)
+
+(7)
 
 ### Közmeghallgatás
 

@@ -4,101 +4,101 @@ egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szól�
 
 #### 1. A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény módosítása
 
-1. §
+#### 1. §
 
-2. §
+#### 2. §
 
 #### 2. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-3. §
+#### 3. §
 
 #### 3. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
-4. §
+#### 4. §
 
 #### 4. A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény módosítása
 
-5. §
+#### 5. §
 
 #### 5. Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény módosítása
 
-6. §
+#### 6. §
 
 #### 6. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
-7. §
+#### 7. §
 
-8. §
+#### 8. §
 
-9. §
+#### 9. §
 
 #### 7. A Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény módosítása
 
-10. §
+#### 10. §
 
 #### 8. A Magyar Tudományos Akadémiáról szóló 1994. évi XL. törvény módosítása
 
-11. §
+#### 11. §
 
 #### 9. A Strasbourgban, 1987. november 26-án kelt, a kínzás és az embertelen vagy megalázó büntetések vagy bánásmód megelőzéséről szóló európai egyezmény kihirdetéséről szóló 1995. évi III. törvény módosítása
 
-12. §
+#### 12. §
 
 #### 10. A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény módosítása
 
-13. §
+#### 13. §
 
 #### 11. A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény módosítása
 
-14. §
+#### 14. §
 
 #### 12. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
 
-15. §
+#### 15. §
 
-16. §
+#### 16. §
 
-17. §
+#### 17. §
 
 #### 13. A Biológiai Sokféleség Egyezmény kihirdetéséről szóló 1995. évi LXXXI. törvény módosítása
 
-18. §
+#### 18. §
 
 #### 14. Az ENSZ Éghajlatváltozási Keretegyezmény kihirdetéséről szóló 1995. évi LXXXII. törvény módosítása
 
-19. §
+#### 19. §
 
 #### 15. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
 
-20. §
+#### 20. §
 
-21. §
+#### 21. §
 
-22. §
+#### 22. §
 
-23. §
+#### 23. §
 
 #### 16. A büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény módosítása
 
-24. §
+#### 24. §
 
 #### 17. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-25. §
+#### 25. §
 
 #### 18. A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosítása
 
-26. §
+#### 26. §
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
-29. §
+#### 29. §
 
-30. §
+#### 30. §
 
-31. §
+#### 31. §
 
 32. § (1)
 
@@ -112,173 +112,173 @@ egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szól�
 
 (6)
 
-33. §
+#### 33. §
 
-34. §
+#### 34. §
 
-35. §
+#### 35. §
 
-36. §
+#### 36. §
 
-37. §
+#### 37. §
 
-38. §
+#### 38. §
 
-39. §
+#### 39. §
 
-40. §
+#### 40. §
 
-41. §
+#### 41. §
 
-42. §
+#### 42. §
 
-43. §
+#### 43. §
 
-44. §
+#### 44. §
 
-45. §
+#### 45. §
 
-46. §
+#### 46. §
 
 #### 19. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-47. §
+#### 47. §
 
 #### 20. A területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény módosítása
 
-48. §
+#### 48. §
 
 #### 21. A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény módosítása
 
-49. §
+#### 49. §
 
 #### 22. Az atomenergiáról szóló 1996. évi CXVI. törvény módosítása
 
-50. §
+#### 50. §
 
-51. §
+#### 51. §
 
 #### 23. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-52. §
+#### 52. §
 
-53. §
+#### 53. §
 
-54. §
+#### 54. §
 
-55. §
+#### 55. §
 
 #### 24. Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény módosítása
 
-56. §
+#### 56. §
 
-57. §
+#### 57. §
 
 #### 25. A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény módosítása
 
-58. §
+#### 58. §
 
 #### 26. Az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény módosítása
 
-59. §
+#### 59. §
 
 #### 27. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-60. §
+#### 60. §
 
 #### 28. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
-61. §
+#### 61. §
 
-62. §
+#### 62. §
 
 #### 29. A külföldre utazásról szóló 1998. évi XII. törvény módosítása
 
-63. §
+#### 63. §
 
 #### 30. A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény módosítása
 
-64. §
+#### 64. §
 
 #### 31. A géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény módosítása
 
-65. §
+#### 65. §
 
-66. §
+#### 66. §
 
 #### 32. A társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás szerveinek állami felügyeletéről szóló 1998. évi XXXIX. törvény módosítása
 
-67. §
+#### 67. §
 
 #### 33. A temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény módosítása
 
-68. §
+#### 68. §
 
 #### 34. A gazdasági kamarákról szóló 1999. évi CXXI. törvény módosítása
 
-69. §
+#### 69. §
 
 #### 35. A víziközlekedésről szóló 2000. évi XLII. törvény módosítása
 
-70. §
+#### 70. §
 
-71. §
+#### 71. §
 
 #### 36. A Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény módosítása
 
-72. §
+#### 72. §
 
 #### 37. A szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény módosítása
 
-73. §
+#### 73. §
 
 #### 38. A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény módosítása
 
-74. §
+#### 74. §
 
 #### 39. Az elmúlt rendszer titkosszolgálati tevékenységének feltárásáról és az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szóló 2003. évi III. törvény módosítása
 
-75. §
+#### 75. §
 
 #### 40. A sportról szóló 2004. évi I. törvény módosítása
 
-76. §
+#### 76. §
 
 #### 41. A mozgóképről szóló 2004. évi II. törvény módosítása
 
-77. §
+#### 77. §
 
 #### 42. A kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény módosítása
 
-78. §
+#### 78. §
 
 #### 43. Az Európai Parlament magyarországi képviselőinek jogállásáról szóló 2004. évi LVII. törvény módosítása
 
-79. §
+#### 79. §
 
 #### 44. A pályakezdő fiatalok, az ötven év feletti munkanélküliek, valamint a gyermek gondozását, illetve a családtag ápolását követően munkát keresők foglalkoztatásának elősegítéséről, továbbá az ösztöndíjas foglalkoztatásról szóló 2004. évi CXXIII. törvény módosítása
 
-80. §
+#### 80. §
 
 #### 45. A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény módosítása
 
-81. §
+#### 81. §
 
 #### 46. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása
 
-82. §
+#### 82. §
 
 #### 47. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény módosítása
 
-83. §
+#### 83. §
 
-84. §
+#### 84. §
 
 #### 48. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosítása
 
-85. §
+#### 85. §
 
-86. §
+#### 86. §
 
 #### 49. A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosítása
 
@@ -286,35 +286,35 @@ egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szól�
 
 (2)
 
-88. §
+#### 88. §
 
 #### 50. A menedékjogról szóló 2007. évi LXXX. törvény módosítása
 
-89. §
+#### 89. §
 
-90. §
+#### 90. §
 
 #### 51. A Firenzében, 2000. október 20-án kelt, az Európai Táj Egyezmény kihirdetéséről szóló 2007. évi CXI. törvény módosítása
 
-91. §
+#### 91. §
 
 #### 52. A közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény módosítása
 
-92. §
+#### 92. §
 
-93. §
+#### 93. §
 
 #### 53. A kulturális kifejezések sokszínűségének védelméről és előmozdításáról szóló, Párizsban 2005. év október hó 20. napján elfogadott UNESCO egyezmény kihirdetéséről szóló 2008. évi VI. törvény módosítása
 
-94. §
+#### 94. §
 
 #### 54. Az Egyesült Nemzetek Nevelésügyi, Tudományos és Kulturális Szervezete Alkotmányának kihirdetéséről szóló 2009. évi XXXII. törvény módosítása
 
-95. §
+#### 95. §
 
 #### 55. Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény módosítása
 
-96. §
+#### 96. §
 
 #### 56. A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény módosítása
 
@@ -324,487 +324,487 @@ egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szól�
 
 (3)
 
-98. §
+#### 98. §
 
-99. §
+#### 99. §
 
 #### 57. A Magyar Köztársaság, az Osztrák Köztársaság, a Bolgár Köztársaság, Románia és a Török Köztársaság között a Nabucco Projekt tárgyában létrejött Megállapodás kihirdetéséről szóló 2009. évi CV. törvény módosítása
 
-100. §
+#### 100. §
 
 #### 58. A magyar jelnyelvről és a magyar jelnyelv használatáról szóló 2009. évi CXXV. törvény módosítása
 
-101. §
+#### 101. §
 
 #### 59. A minősített adat védelméről szóló 2009. évi CLV. törvény módosítása
 
-102. §
+#### 102. §
 
-103. §
+#### 103. §
 
 #### 60. A Magyar Köztársaság és az Indiai Köztársaság között a szociális biztonságról szóló Egyezmény kihirdetéséről szóló 2010. évi XXIX. törvény módosítása
 
-104. §
+#### 104. §
 
 #### 61. A központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény módosítása
 
-105. §
+#### 105. §
 
-106. §
+#### 106. §
 
-107. §
+#### 107. §
 
 #### 62. A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosítása
 
-108. §
+#### 108. §
 
 #### 63. A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény módosítása
 
-109. §
+#### 109. §
 
 #### 64. Az alapvető jogok biztosáról szóló 2011. évi CXI. törvény módosítása
 
-110. §
+#### 110. §
 
 #### 65. Az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény módosítása
 
-111. §
+#### 111. §
 
 #### 66. A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény módosítása
 
-112. §
+#### 112. §
 
-113. §
+#### 113. §
 
 #### 67. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény módosítása
 
-114. §
+#### 114. §
 
 #### 68. A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény módosítása
 
-115. §
+#### 115. §
 
-116. §
+#### 116. §
 
 #### 69. A kínzás és más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés elleni egyezmény fakultatív jegyzőkönyvének kihirdetéséről szóló 2011. évi CXLIII. törvény módosítása
 
-117. §
+#### 117. §
 
 #### 70. A mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény módosítása
 
-118. §
+#### 118. §
 
-119. §
+#### 119. §
 
 #### 71. A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény módosítása
 
-120. §
+#### 120. §
 
 #### 72. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
-121. §
+#### 121. §
 
 #### 73. A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény módosítása
 
-122. §
+#### 122. §
 
 #### 74. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-123. §
+#### 123. §
 
-124. §
+#### 124. §
 
 #### 75. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 
-125. §
+#### 125. §
 
-126. §
+#### 126. §
 
-127. §
+#### 127. §
 
-128. §
+#### 128. §
 
 #### 76. Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény módosítása
 
-129. §
+#### 129. §
 
 #### 77. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
 
 130. §
 
-131. §
+#### 131. §
 
 #### 78. A magyar nemzeti értékekről és a hungarikumokról szóló 2012. évi XXX. törvény módosítása
 
-132. §
+#### 132. §
 
 #### 79. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
 
-133. §
+#### 133. §
 
-134. §
+#### 134. §
 
 #### 80. Az Országgyűlésről szóló 2012. évi XXXVI. törvény módosítása
 
-135. §
+#### 135. §
 
-136. §
+#### 136. §
 
-137. §
+#### 137. §
 
 #### 81. Az egyes szakosított szociális és gyermekvédelmi szakellátási intézmények állami átvételéről és egyes törvények módosításáról szóló 2012. évi CXCII. törvény módosítása
 
-138. §
+#### 138. §
 
 #### 82. Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény módosítása
 
-139. §
+#### 139. §
 
 #### 83. A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény módosítása
 
-140. §
+#### 140. §
 
-141. §
+#### 141. §
 
 #### 84. A hulladékról szóló 2012. évi CLXXXV. törvény módosítása
 
-142. §
+#### 142. §
 
 #### 85. A köznevelési feladatot ellátó egyes önkormányzati fenntartású intézmények állami fenntartásba vételéről szóló 2012. évi CLXXXVIII. törvény módosítása
 
-143. §
+#### 143. §
 
 #### 86. A Nemzetközi Munkaügyi Szervezet Általános Konferenciája 94. ülésszakán elfogadott 2006. évi Tengerészeti Munkaügyi Egyezmény kihirdetéséről szóló 2013. évi IV. törvény módosítása
 
-144. §
+#### 144. §
 
 #### 87. A Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény módosítása
 
-145. §
+#### 145. §
 
 #### 88. A gazdasági és monetáris unióbeli stabilitásról, koordinációról és kormányzásról szóló szerződés kihirdetéséről szóló 2013. évi XXXII. törvény módosítása
 
-146. §
+#### 146. §
 
 #### 89. A választási eljárásról szóló 2013. évi XXXVI. törvény módosítása
 
-147. §
+#### 147. §
 
 #### 90. A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény módosítása
 
-148. §
+#### 148. §
 
 #### 91. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény módosítása
 
-149. §
+#### 149. §
 
 #### 92. A Nemzeti Emlékezet Bizottságáról szóló 2013. évi CCXLI. törvény módosítása
 
-150. §
+#### 150. §
 
 #### 93. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
 
-151. §
+#### 151. §
 
 #### 94. A nemzetközi fejlesztési együttműködésről és a nemzetközi humanitárius segítségnyújtásról szóló 2014. évi XC. törvény módosítása
 
-152. §
+#### 152. §
 
 #### 95. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
-153. §
+#### 153. §
 
-154. §
+#### 154. §
 
-155. §
+#### 155. §
 
-156. §
+#### 156. §
 
-157. §
+#### 157. §
 
 #### 96. A mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelői és a szakmaközi szervezetekről szóló 2015. évi XCVII. törvény módosítása
 
-158. §
+#### 158. §
 
 #### 97. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
-159. §
+#### 159. §
 
 #### 98. Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény módosítása
 
-160. §
+#### 160. §
 
 #### 99. Az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény módosítása
 
-161. §
+#### 161. §
 
 #### 100. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
 
-162. §
+#### 162. §
 
 #### 101.
 
-163. §
+#### 163. §
 
-164. §
+#### 164. §
 
-165. §
+#### 165. §
 
-166. §
+#### 166. §
 
-167. §
+#### 167. §
 
-168. §
+#### 168. §
 
-169. §
+#### 169. §
 
-170. §
+#### 170. §
 
-171. §
+#### 171. §
 
-172. §
+#### 172. §
 
 #### 102. Az ENSZ Éghajlatváltozási Keretegyezményben Részes Feleinek 21. Konferenciáján elfogadott Párizsi Megállapodás kihirdetéséről szóló 2016. évi L. törvény módosítása
 
-173. §
+#### 173. §
 
 #### 103. A polgári perrendtartásról szóló 2016. évi CXXX. törvény módosítása
 
-174. §
+#### 174. §
 
 #### 104. A Honvédelmi Sportszövetségről szóló 2016. évi CXXXII. törvény módosítása
 
-175. §
+#### 175. §
 
 #### 105. A hivatalos statisztikáról szóló 2016. évi CLV. törvény módosítása
 
-176. §
+#### 176. §
 
 #### 106. Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény módosítása
 
-177. §
+#### 177. §
 
 #### 107. A Magyarország Kormánya és Maryland Állam között a felsőoktatás területén történő együttműködésről szóló Megállapodás kihirdetéséről szóló 2017. évi CXIV. törvény módosítása
 
-178. §
+#### 178. §
 
 #### 108. A Magyarország és a Kínai Népköztársaság (Heilongjiang Tartomány Oktatási Minisztériuma) között a Heilongjiang Kínai Orvostudományi Egyetem oktatási tevékenységének Magyarországon való támogatásáról szóló Megállapodás kihirdetéséről szóló 2017. évi CLXXIV. törvény módosítása
 
-179. §
+#### 179. §
 
 #### 109. Az Európai Táj Egyezményt módosító Jegyzőkönyv kihirdetéséről és a Firenzében, 2000. október 20-án kelt, az Európai Táj Egyezmény kihirdetéséről szóló 2007. évi CXI. törvény módosításáról szóló 2018. évi LIX. törvény módosítása
 
-180. §
+#### 180. §
 
 #### 110. A Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról szóló 2018. évi XLIX. törvény módosítása
 
-181. §
+#### 181. §
 
-182. §
+#### 182. §
 
 #### 111. A Magyarország és a Thaiföldi Királyság között a Mahachulalongkornrajavidyalaya Egyetemnek a Tan Kapuja Buddhista Főiskolával Együttműködésben való magyarországi működéséről szóló Megállapodás kihirdetéséről szóló 2018. évi LXV. törvény módosítása
 
-183. §
+#### 183. §
 
 #### 112. A Magyarország Kormánya és Indiana Állam között a felsőoktatás területén történő együttműködésről szóló Megállapodás kihirdetéséről szóló 2018. évi LXVI. törvény módosítása
 
-184. §
+#### 184. §
 
 #### 113. Az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény módosítása
 
-185. §
+#### 185. §
 
 #### 114. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
-186. §
+#### 186. §
 
-187. §
+#### 187. §
 
-188. §
+#### 188. §
 
-189. §
+#### 189. §
 
-190. §
+#### 190. §
 
-191. §
+#### 191. §
 
-192. §
+#### 192. §
 
-193. §
+#### 193. §
 
-194. §
+#### 194. §
 
-195. §
+#### 195. §
 
-196. §
+#### 196. §
 
-197. §
+#### 197. §
 
-198. §
+#### 198. §
 
-199. §
+#### 199. §
 
-200. §
+#### 200. §
 
-201. §
+#### 201. §
 
-202. §
+#### 202. §
 
-203. §
+#### 203. §
 
-204. §
+#### 204. §
 
-205. §
+#### 205. §
 
-206. §
+#### 206. §
 
-207. §
+#### 207. §
 
-208. §
+#### 208. §
 
 #### 115. A Magyarország Kormánya és az Oroszországi Föderáció Kormánya között a végzettségek, a képesítések és a tudományos fokozatok kölcsönös elismeréséről szóló Egyezmény kihirdetéséről szóló 2019. évi XXII. törvény módosítása
 
-209. §
+#### 209. §
 
 #### 116. A Magyarország Kormánya és a Szerb Köztársaság Kormánya között a Magyarországon és a Szerb Köztársaságban kiállított, államilag elismert bizonyítványok és oklevelek, továbbá a tudományos fokozatot tanúsító okiratok kölcsönös elismeréséről szóló Egyezmény kihirdetéséről szóló 2019. évi LXXVII. törvény módosítása
 
-210. §
+#### 210. §
 
 #### 117. A szakképzésről szóló 2019. évi LXXX. törvény módosítása
 
-211. §
+#### 211. §
 
 #### 118. Az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformációs és Engedélyezési Rendszerrel összefüggő egyes törvények jogharmonizációs célú módosításáról szóló 2019. évi XCVI. törvény egyes rendelkezéseinek hatályba nem lépése
 
-212. §
+#### 212. §
 
 #### 119. A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény módosítása
 
-213. §
+#### 213. §
 
-214. §
+#### 214. §
 
 #### 120. A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény módosítása
 
-215. §
+#### 215. §
 
 #### 121. Az egyházak szociális és gyermekvédelmi ellátások terén betöltött szerepének megerősítéséről szóló 2020. évi XXVIII. törvény módosítása
 
-216. §
+#### 216. §
 
 #### 122. A Schengeni Információs Rendszer keretében történő információcserével összefüggő egyes törvények jogharmonizációs célú módosításáról szóló 2020. évi XLII. törvény egyes rendelkezéseinek hatályba nem lépése
 
-217. §
+#### 217. §
 
 #### 123. A Közép-európai Oktatási Alapítványról és a Közép-európai Oktatási Alapítvány részére történő vagyonjuttatásról szóló 2020. évi CXLIII. törvény módosítása
 
-218. §
+#### 218. §
 
 #### 124. A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény módosítása
 
-219. §
+#### 219. §
 
-220. §
+#### 220. §
 
-221. §
+#### 221. §
 
 #### 125. A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény módosítása
 
-222. §
+#### 222. §
 
 #### 126. A Budapesti Gazdasági Egyetemért Alapítványról, a Budapesti Gazdasági Egyetemért Alapítvány és a Budapesti Gazdasági Egyetem részére történő vagyonjuttatásról szóló 2021. évi X. törvény módosítása
 
-223. §
+#### 223. §
 
 #### 127. A Dunaújvárosi Egyetemért Alapítványról, a Dunaújvárosi Egyetemért Alapítvány és a Dunaújvárosi Egyetem részére történő vagyonjuttatásról szóló 2021. évi XI. törvény módosítása
 
-224. §
+#### 224. §
 
 #### 128. A Gróf Tisza István Debreceni Egyetemért Alapítványról, a Gróf Tisza István Debreceni Egyetemért Alapítvány és a Debreceni Egyetem részére történő vagyonjuttatásról szóló 2021. évi XIII. törvény módosítása
 
-225. §
+#### 225. §
 
 #### 129. A Magyar Táncművészeti Egyetemért Alapítványról, a Magyar Táncművészeti Egyetemért Alapítvány és a Magyar Táncművészeti Egyetem részére történő vagyonjuttatásról szóló 2021. évi XVII. törvény módosítása
 
-226. §
+#### 226. §
 
 #### 130. A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény módosítása
 
-227. §
+#### 227. §
 
 #### 131. A Nyíregyházi Egyetemért Alapítványról, a Nyíregyházi Egyetemért Alapítvány és a Nyíregyházi Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXI. törvény módosítása
 
-228. §
+#### 228. §
 
 #### 132. A Rudolf Kalman Óbudai Egyetemért Alapítványról, a Rudolf Kalman Óbudai Egyetemért Alapítvány és az Óbudai Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXII. törvény módosítása
 
-229. §
+#### 229. §
 
 #### 133. A Szegedi Tudományegyetemért Alapítványról, a Szegedi Tudományegyetemért Alapítvány és a Szegedi Tudományegyetem részére történő vagyonjuttatásról szóló 2021. évi XXIII. törvény módosítása
 
-230. §
+#### 230. §
 
 #### 134. A Testnevelési Egyetemért Alapítványról, a Testnevelési Egyetemért Alapítvány és a Testnevelési Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXIV. törvény módosítása
 
-231. §
+#### 231. §
 
 #### 135. A Tokaj-Hegyalja Egyetemért Alapítványról, a Tokaj-Hegyalja Egyetemért Alapítvány és a Tokaj-Hegyalja Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXV. törvény módosítása
 
-232. §
+#### 232. §
 
 #### 136. Az Universitas Quinqueecclesiensis Alapítványról, az Universitas Quinqueecclesiensis Alapítvány és a Pécsi Tudományegyetem részére történő vagyonjuttatásról szóló 2021. évi XXVI. törvény módosítása
 
-233. §
+#### 233. §
 
 #### 137. A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény módosítása
 
-234. §
+#### 234. §
 
 #### 138. A Magyarország Kormánya és az Oroszországi Föderáció Kormánya között a Magyarország Kormányának a magyarországi atomerőmű építésének finanszírozásához nyújtandó állami hitel folyósításáról szóló, 2014. március 28-án kelt megállapodás módosításáról szóló jegyzőkönyv kihirdetéséről szóló 2021. évi LXXI. törvény módosítása
 
-235. §
+#### 235. §
 
 #### 139. A Budapest Diákváros megvalósításáról szóló 2021. évi LXXX. törvény módosítása
 
-236. §
+#### 236. §
 
 #### 140. A Fudan Hungary Egyetemért Alapítványról, a Fudan Hungary Egyetemért Alapítvány részére történő vagyonjuttatásról szóló 2021. évi LXXXI. törvény módosítása
 
-237. §
+#### 237. §
 
 #### 141.
 
-238. §
+#### 238. §
 
 #### 142. A Magyarország Kormánya és Ukrajna Miniszteri Kabinetje között a végzettséget és tudományos fokozatokat tanúsító okiratok kölcsönös elismeréséről szóló Egyezmény kihirdetéséről szóló 2021. évi CIX. törvény módosítása
 
-239. §
+#### 239. §
 
 #### 143.
 
-240. §
+#### 240. §
 
 #### 144. Az egyes eljárások korszerűsítését és a polgárok biztonságának további megerősítését célzó intézkedésekről szóló 2021. évi CXX. törvény egyes rendelkezéseinek hatályba nem lépése
 
-241. §
+#### 241. §
 
 #### 145.
 
-242. §
+#### 242. §
 
 #### 146.
 
-243. §
+#### 243. §
 
-244. §
+#### 244. §
 
 #### 147.
 
-245. §
+#### 245. §
 
-246. §
+#### 246. §
 
-247. §
+#### 247. §
 
 #### 148. Záró rendelkezések
 
@@ -816,11 +816,11 @@ egyes törvényeknek a Magyarország minisztériumainak felsorolásáról szól�
 
 (4) A 146. alcím 2023. január 1-jén lép hatályba.
 
-(5) A 143. alcím 2023. február 1-jén lép hatályba.
+(5) A 141. alcím és a 147. alcím 2023. július 1-jén lép hatályba.
 
-(6) A 141. alcím és a 147. alcím 2023. július 1-jén lép hatályba.
+(6) A 34. § és a 97. § (3) bekezdése 2024. január 1-jén lép hatályba.
 
-(7) A 34. § és a 97. § (3) bekezdése 2024. január 1-jén lép hatályba.
+(7) A 143. alcím 2024. február 1-jén lép hatályba.
 
 (8) A 32. § (6) bekezdése, a 33. §, a 39. §, a 40. §, a 84. §, a 86. §, a 90. §, a 212. § és a 241. § az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) létrehozásáról, valamint az 1077/2011/EU rendelet, az 515/2014/EU rendelet, az (EU) 2016/399 rendelet, az (EU) 2016/1624 rendelet és az (EU) 2017/2226 rendelet módosításáról szóló, 2018. szeptember 12-i (EU) 2018/1240 európai parlamenti és tanácsi rendelet 88. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
 

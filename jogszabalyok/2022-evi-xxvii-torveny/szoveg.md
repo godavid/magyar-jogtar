@@ -771,15 +771,7 @@ meghatározott összeférhetetlenségi helyzeteket is, kiegészítve az összef�
 
 #### 82. §
 
-83. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 43. § (2) bekezdése a következő e) ponttal egészül ki:
-
-(Az ajánlatkérő köteles az EKR-ben közzétenni)
-
-„e) a szerződés teljesítésébe bevont alvállalkozóval összefüggő következő adatokat:
-
-ea) az alvállalkozó megnevezését, adószámát, a közbeszerzésnek azt a részét, amelynek teljesítéséhez az alvállalkozót az ajánlattevő igénybe kívánja venni, az alvállalkozói teljesítés várható százalékos arányát az ajánlattevői teljesítésen belül, valamint az ellenszolgáltatás alvállalkozói szerződésben meghatározott értékét az alvállalkozó nyertes ajánlattevő általi bejelentését követő harminc napon belül, továbbá
-
-eb) az alvállalkozói teljesítés tényleges százalékos arányát az ajánlattevői teljesítésen belül, az ellenszolgáltatás teljesítésének időpontját és a kifizetett ellenszolgáltatás értékét az (1) bekezdés c) pontja szerinti adatok rögzítésével egy időben.”
+#### 83. §
 
 #### 84. §
 
@@ -789,23 +781,19 @@ eb) az alvállalkozói teljesítés tényleges százalékos arányát az ajánla
 
 #### 87. §
 
-88. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 138. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az ajánlatkérő nem korlátozhatja az ajánlattevő jogosultságát alvállalkozó bevonására, csak akkor, ha az eljárás során a 65. § (10) bekezdése szerinti lehetőséggel élt. A nyertes ajánlattevő a szerződés megkötésének időpontjában, majd – a később bevont alvállalkozók tekintetében – a szerződés teljesítésének időtartama alatt köteles előzetesen az ajánlatkérőnek valamennyi olyan alvállalkozót bejelenteni, amely részt vesz a szerződés teljesítésében. A nyertes ajánlattevő a bejelentéssel együtt köteles az ajánlatkérőnek az alvállalkozó megnevezésén, adószámán, elérhetőségén, a képviseletre jogosult személyén túl az ajánlattevői teljesítésen belül az alvállalkozói teljesítés várható százalékos arányát, valamint az alvállalkozói szerződés szerinti ellenszolgáltatás értékét megadni. A nyertes ajánlattevő a szerződés teljesítésének időtartama alatt köteles az ajánlatkérőt tájékoztatni az alvállalkozók bejelentésben közölt adatainak változásáról. A nyertes ajánlattevő a szerződésbe foglaltan nyilatkozik arról, hogy a szerződés teljesítéséhez nem vesz igénybe a közbeszerzési eljárásban előírt kizáró okok hatálya alatt álló alvállalkozót. Az ajánlatkérő részére e kötelezettség végrehajtásáról külön nyilatkozatot vagy más igazolást nem kell benyújtani. A nyertes ajánlattevő köteles az ajánlatkérőnek az alvállalkozói teljesítést követően az ajánlattevői teljesítésen belül az alvállalkozói teljesítés tényleges százalékos arányát, valamint az ellenszolgáltatás teljesítésének időpontját és a kifizetett ellenszolgáltatás értékét bejelenteni.”
+#### 88. §
 
 #### 89. §
 
 #### 90. §
 
-91. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 197. §-a a következő (24) bekezdéssel egészül ki:
-
-„(24) E törvénynek az Eufetv.-vel megállapított 43. § (2) bekezdés e) pontját és a 138. § (3) bekezdését az ezen rendelkezések hatálybalépését követően megkötött szerződésekre kell alkalmazni.”
+#### 91. §
 
 92. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény
 
 - a)
 - b)
-- c) 66. § (6) bekezdés b) pontjában az „alvállalkozókat.” szövegrész helyébe az „alvállalkozókat, valamint az ajánlattevői teljesítésen belül az alvállalkozói teljesítés tervezett százalékos arányát.” szöveg,
+- c)
 - d)
 - e)
 - f)

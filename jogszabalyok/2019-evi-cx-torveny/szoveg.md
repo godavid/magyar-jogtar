@@ -61,7 +61,7 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 3. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-3. §
+#### 3. §
 
 #### 4. A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény módosítása
 
@@ -73,19 +73,19 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 5. Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény módosítása
 
-5. §
+#### 5. §
 
 #### 6. A helyi önkormányzatok és szerveik, a köztársasági megbízottak, valamint egyes centrális alárendeltségű szervek feladat- és hatásköreiről szóló 1991. évi XX. törvény módosítása
 
-6. §
+#### 6. §
 
 #### 7. A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosítása
 
-7. §
+#### 7. §
 
 #### 8. A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
 
-8. §
+#### 8. §
 
 #### 9. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
@@ -99,11 +99,11 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 10. A magzati élet védelméről szóló 1992. évi LXXIX. törvény módosítása
 
-10. §
+#### 10. §
 
 #### 11. A földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény módosítása
 
-11. §
+#### 11. §
 
 #### 12. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
@@ -148,7 +148,7 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 14. A magyar állampolgárságról szóló 1993. évi LV. törvény módosítása
 
-14. §
+#### 14. §
 
 #### 15. A munkavédelemről szóló 1993. évi XCIII. törvény módosítása
 
@@ -171,7 +171,7 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 16. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
-16. §
+#### 16. §
 
 #### 17. A hadigondozásról szóló 1994. évi XLV. törvény módosítása
 
@@ -183,7 +183,7 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 18. A Bérgarancia Alapról szóló 1994. évi LXVI. törvény módosítása
 
-18. §
+#### 18. §
 
 #### 19. A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény módosítása
 
@@ -195,11 +195,11 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 20. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
 
-20. §
+#### 20. §
 
 #### 21. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
 
-21. §
+#### 21. §
 
 #### 22. A természet védelméről szóló 1996. évi LIII. törvény módosítása
 
@@ -233,19 +233,19 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 24. A munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény módosítása
 
-24. §
+#### 24. §
 
 #### 25. Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény módosítása
 
-25. §
+#### 25. §
 
 #### 26. A lakástakarékpénztárakról szóló 1996. évi CXIII. törvény módosítása
 
-26. §
+#### 26. §
 
 #### 27. Az atomenergiáról szóló 1996. évi CXVI. törvény módosítása
 
-27. §
+#### 27. §
 
 #### 28. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
@@ -286,7 +286,7 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 30. A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény módosítása
 
-30. §
+#### 30. §
 
 #### 31. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
@@ -353,19 +353,19 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 35. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
-35. §
+#### 35. §
 
 #### 36. A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosítása
 
-36. §
+#### 36. §
 
 #### 37. A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény módosítása
 
-37. §
+#### 37. §
 
 #### 38. A géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény módosítása
 
-38. §
+#### 38. §
 
 #### 39. Az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény módosítása
 
@@ -387,7 +387,7 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 41. A nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény módosítása
 
-41. §
+#### 41. §
 
 #### 42. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
@@ -397,11 +397,11 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 43. A gazdasági kamarákról szóló 1999. évi CXXI. törvény módosítása
 
-43. §
+#### 43. §
 
 #### 44. A kémiai biztonságról szóló 2000. évi XXV. törvény módosítása
 
-44. §
+#### 44. §
 
 #### 45. A víziközlekedésről szóló 2000. évi XLII. törvény módosítása
 
@@ -415,7 +415,7 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 46. A közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény módosítása
 
-46. §
+#### 46. §
 
 #### 47. A kulturális örökség védelméről szóló 2001. évi LXIV. törvény módosítása
 
@@ -445,11 +445,11 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 49. A regisztrációs adóról szóló 2003. évi CX. törvény módosítása
 
-49. §
+#### 49. §
 
 #### 50. A Magyar Köztársaság gyorsforgalmi közúthálózatának közérdekűségéről és fejlesztéséről szóló 2003. évi CXXVIII. törvény módosítása
 
-50. §
+#### 50. §
 
 #### 51. A mozgóképről szóló 2004. évi II. törvény módosítása
 
@@ -459,15 +459,15 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 52. A távhőszolgáltatásról szóló 2005. évi XVIII. törvény módosítása
 
-52. §
+#### 52. §
 
 #### 53. A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény módosítása
 
-53. §
+#### 53. §
 
 #### 54. A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény módosítása
 
-54. §
+#### 54. §
 
 #### 55. A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény módosítása
 
@@ -479,11 +479,11 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 56. A menedékjogról szóló 2007. évi LXXX. törvény módosítása
 
-56. §
+#### 56. §
 
 #### 57. A kisajátításról szóló 2007. évi CXXIII. törvény módosítása
 
-57. §
+#### 57. §
 
 #### 58. A termőföld védelméről szóló 2007. évi CXXIX. törvény módosítása
 
@@ -495,7 +495,7 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 59. A földgázellátásról szóló 2008. évi XL. törvény módosítása
 
-59. §
+#### 59. §
 
 #### 60. Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosítása
 
@@ -521,11 +521,11 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 61. A gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény módosítása
 
-61. §
+#### 61. §
 
 #### 62. Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény módosítása
 
-62. §
+#### 62. §
 
 #### 63. Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény módosítása
 
@@ -571,7 +571,7 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 67. A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény módosítása
 
-67. §
+#### 67. §
 
 #### 68. Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény módosítása
 
@@ -629,11 +629,11 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 70. A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény módosítása
 
-70. §
+#### 70. §
 
 #### 71. A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény módosítása
 
-71. §
+#### 71. §
 
 #### 72. A közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény módosítása
 
@@ -645,11 +645,11 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 73. A központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény módosítása
 
-73. §
+#### 73. §
 
 #### 74. A mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény módosítása
 
-74. §
+#### 74. §
 
 #### 75. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
@@ -687,19 +687,19 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 77. Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény módosítása
 
-77. §
+#### 77. §
 
 #### 78. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény módosítása
 
-78. §
+#### 78. §
 
 #### 79. A munka törvénykönyvéről szóló 2012. évi I. törvény módosítása
 
-79. §
+#### 79. §
 
 #### 80. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
 
-80. §
+#### 80. §
 
 #### 81. A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény módosítása
 
@@ -709,11 +709,11 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 82. A termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény módosítása
 
-82. §
+#### 82. §
 
 #### 83. A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény módosítása
 
-83. §
+#### 83. §
 
 #### 84. A Polgári Törvénykönyvről szóló 2013. évi V. törvény módosítása
 
@@ -731,15 +731,15 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 86. A panaszokról és a közérdekű bejelentésekről szóló 2013. évi CLXV. törvény módosítása
 
-86. §
+#### 86. §
 
 #### 87. A gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló 2013. évi CLXXV. törvény módosítása
 
-87. §
+#### 87. §
 
 #### 88. A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről szóló 2013. évi CLXXVII. törvény módosítása
 
-88. §
+#### 88. §
 
 #### 89. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosítása
 
@@ -749,23 +749,23 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 90. Az energiahatékonyságról szóló 2015. évi LVII. törvény módosítása
 
-90. §
+#### 90. §
 
 #### 91. A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény módosítása
 
-91. §
+#### 91. §
 
 #### 92. A hivatalos statisztikáról szóló 2016. évi CLV. törvény módosítása
 
-92. §
+#### 92. §
 
 #### 93. A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény módosítása
 
-93. §
+#### 93. §
 
 #### 94. A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény módosítása
 
-94. §
+#### 94. §
 
 #### 95. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
 
@@ -775,11 +775,11 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 96. Az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény módosítása
 
-96. §
+#### 96. §
 
 #### 97. A turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény és kapcsolódó törvények módosításáról szóló 2018. évi XCVII. törvény módosítása
 
-97. §
+#### 97. §
 
 #### 98. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
@@ -791,11 +791,11 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 #### 99. Magyarország 2020. évi központi költségvetésének megalapozásáról szóló 2019. évi LXVI. törvény módosítása
 
-99. §
+#### 99. §
 
 #### 100. Záró rendelkezések
 
-100. § (1) Ez a törvény – a (2)–(9) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+100. § (1) Ez a törvény – a (2)–(10) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
 (2) A 2. § (2) bekezdése, (4) bekezdés a) és c)–f) pontja; a 4. § (1) bekezdése; a 7–8. §; a 9. § (1) bekezdése; a 10. §; a 12. § (3)–(4) bekezdése, (5) bekezdés a) pontja; a 13. § (1)–(2) bekezdése, (4) bekezdés a) pontja, (5) bekezdés a)–c), f) és h) pontja; a 15. § (1)–(6) bekezdése, (7) bekezdés a) pontja; a 16. §; a 17. § (1) bekezdése; a 19. § (1)–(2) bekezdése; a 20. §; a 22. § (1)–(5) bekezdése, (6) bekezdés b) pontja; a 23. § (2)–(5) bekezdése; a 28. § (1)–(2) és (4)–(5) bekezdése, (8) bekezdése, (9) bekezdés d) pontja; a 29. § (2) bekezdés a) és c) pontja; a 31. § (1) és (4) bekezdése, (6) bekezdés e) pontja; a 32. § (3) bekezdés a) pontja; a 33. § (2)–(3) bekezdése; a 34. § (4) bekezdés h)–i) pontja; a 35. §; a 39. § (2) bekezdése; a 40. § (1)–(2) bekezdése; a 41. §; a 42. § (2) bekezdése; a 43–44. §; a 45. § (1)–(3) bekezdése; a 47. § (4) bekezdés a) pontja; a 48. § (1)–(3) bekezdése, (4) bekezdés a) pontja; az 51. § (1) bekezdése; az 52. §; az 54. §; az 57. §; az 58. § (1) bekezdése; az 59. §; a 60. § (2)–(6) bekezdése és (8) bekezdés a)–b) pontja; a 61. §; a 63. § (1), (3) bekezdése és (5) bekezdés a)–b) pontja; a 64. § (1)–(2) és (4) bekezdése; a 65. § (2) bekezdése; a 66. § (1) bekezdése; a 67. §; a 68. § (7) bekezdés d) pontja, (8) bekezdés a)–d), f) és h)–k) pontja; a 69. § (2)–(3) és (6)–(7) bekezdése; a 71. §; a 72. § (2)–(3) bekezdése; a 73. §; a 75. § (1)–(5) bekezdése; a 76. § (1)–(6) bekezdése; a 77. §; a 79. §; a 83. §; a 85. § (1) bekezdése; a 86. §; a 88. §; a 89. § (1) bekezdése; a 90–91. §; a 94. §, a 95. § (1) bekezdése; a 98. § (2) bekezdése 2020. január 1-jén lép hatályba.
 
@@ -811,7 +811,9 @@ a fővárosi és megyei kormányhivatalok működésének egyszerűsítése érd
 
 (8) A 9. § (3) és (4) bekezdése; a 93. § 2020. szeptember 1-jén lép hatályba.
 
-(9) A 4. § (2) bekezdése; a 9. § (2) bekezdése; a 12. § (2) bekezdése; a 21. §; a 28. § (7) bekezdése; a 29. § (1) bekezdése; a 31. § (2) és (3) bekezdése; a 32. § (2) bekezdése; a 34. § (2) bekezdése; a 40. § (3) és (4) bekezdése; a 42. § (1) bekezdése; a 47. § (2) bekezdése; a 63. § (2) bekezdése; a 65. § (1) bekezdése; a 69. § (4) és (5) bekezdése; a 76. § (7) és (8) bekezdése; a 81. § (1) bekezdése; a 84. § (1) és (2) bekezdése; a 87. §; a 96. § 2023. január 1-jén lép hatályba.
+(9) A 12. § (2) bekezdése, a 40. § (4) bekezdése és a 87. § 2023. január 1-jén lép hatályba.
+
+(10) A 4. § (2) bekezdése, a 9. § (2) bekezdése, a 21. §, a 28. § (7) bekezdése, a 29. § (1) bekezdése, a 31. § (2) és (3) bekezdése, a 32. § (2) bekezdése, a 34. § (2) bekezdése, a 40. § (3) bekezdése, a 42. § (1) bekezdése, a 47. § (2) bekezdése, a 63. § (2) bekezdése, a 65. § (1) bekezdése, a 69. § (4) és (5) bekezdése, a 76. § (7) és (8) bekezdése, a 81. § (1) bekezdése, a 84. § (1) és (2) bekezdése és a 96. § 2025. január 1-jén lép hatályba.
 
 101. § (1) Ha az ügyben e törvény hatálybalépésével a fellebbezés kizárttá válik, törvény vagy kormányrendelet eltérő rendelkezése hiányában a folyamatban lévő fellebbezési eljárást a fellebbezést kizáró rendelkezés hatálybalépését megelőzően hatáskörrel rendelkező szerv folytatja le.
 
