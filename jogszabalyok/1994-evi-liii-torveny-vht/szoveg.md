@@ -66,7 +66,7 @@ a bírósági végrehajtásról
 - a) a bíróság és a közjegyző által kiállított végrehajtási lap,
 - b) az olyan okirat, amelyet a bíróság vagy a közjegyző végrehajtási záradékkal látott el,
 - c) a bíróság végrehajtást elrendelő, letiltó, illetve átutalási végzése, továbbá közvetlen bírósági felhívást tartalmazó határozata,
-- d) a bíróság rendbírságról szóló értesítése, ha a végrehajtási eljárásban kiszabott rendbírság behajtását a 45/A. § (5) bekezdése alapján az önálló bírósági végrehajtó végzi, valamint
+- d) a bíróság rendbírságról szóló értesítése, ha a végrehajtási eljárásban kiszabott rendbírság behajtását a 45/A. § (5) bekezdése alapján az önálló bírósági végrehajtó végzi,
 - e) a 4/2009/EK tanácsi rendelet alapján kijelölt hazai központi hatóság által a tartásra kötelezett adatainak beszerzésére kiállított megkeresés.
 - f) a közjegyzőnek az állam által törvényes öröklés útján megszerzett vagyontárgy értékesítését elrendelő végzése.
 
@@ -425,7 +425,7 @@ KÖZÖS SZABÁLYAI
 
 34. § (1) A végrehajtás során felmerülő költséget — ha a törvény másképpen nem rendelkezik — a végrehajtást kérő előlegezi, és az adós viseli.
 
-(2) A szakértő és szakértő-becsüs közreműködésével és az árverés közhírré tételével felmerülő költségeket az köteles előlegezni, aki ezeket az intézkedéseket kérte. A költségekre a költségmentesség és a költségfeljegyzési jog nem vehető igénybe.
+(2) A szakértő és szakértő-becsüs közreműködésével és az árverés közhírré tételével felmerülő költségeket az köteles előlegezni, aki ezeket az intézkedéseket kérte.
 
 (3) Az állam által előlegezett végrehajtási költséget behajthatatlanság esetén az állam viseli.
 
@@ -438,6 +438,8 @@ KÖZÖS SZABÁLYAI
 (7) A költségek állam általi előlegezése feltételeinek fennállása esetén a Kar hivatali szerve a 217. § alapján végrehajtási kifogást terjeszthet elő a végrehajtó díj- és költségfelszámítása ellen.
 
 (8) Ha a végrehajtó díjjegyzékével szemben a nem adós fizetésre kötelezett határidőben végrehajtási kifogást nem terjesztett elő a végrehajtási lap kiállítása iránti kérelem előterjesztését megelőzően, részére a díjjegyzéket végrehajtói kézbesítés útján is kézbesíteni kell.
+
+(9) Ha a bíróság visszavonja a végrehajtási lapot, vagy törli a végrehajtási záradékot, a végrehajtás során felmerült költségeket – az (1) bekezdéstől eltérően – a végrehajtást kérő viseli.
 
 34/A. § (1) A Kart az önálló bírósági végrehajtói szervezetrendszer fenntartásának, az ezzel kapcsolatos igazgatási és nyilvántartási tevékenység végzésének, továbbá a Kar hatáskörébe utalt egyéb feladatok ellátásának érdekében; a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság) az önálló bírósági végrehajtói szervezetrendszer feletti felügyelet gyakorlásával kapcsolatos feladatai, továbbá a feladat- és hatáskörébe utalt egyéb közfeladatok ellátásának érdekében az önálló bírósági végrehajtó hatáskörébe tartozó végrehajtási ügyek után általános költségátalány illeti meg.
 
@@ -817,10 +819,10 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 (5) A végrehajtó a végrehajtást kérő (3) bekezdés szerinti nyilatkozata alapján a következők szerint módosítja a részletfizetési feltételeket:
 
 - a) a részletfizetés megállapítását visszavonja, ha a végrehajtást kérő nem ért egyet a tartásdíjra, munkabérre vagy vele egy tekintet alá eső követelésre engedélyezett részletfizetéssel, vagy ha a magánszemély végrehajtást kérő úgy nyilatkozik, hogy létfenntartását veszélyezteti a részletfizetés, a gazdálkodó szervezet végrehajtást kérő ellen pedig csőd-, felszámolási vagy végrehajtási eljárás van folyamatban,
-- b) az a) pont alá nem tartozó esetekben jogi személy és jogi személyiséggel nem rendelkező szervezet végrehajtást kérő esetében a részletfizetést legfeljebb 1 évre, természetes személy esetében pedig legfeljebb 6 hónapra állapítja meg,
+- b) az a) pont alá nem tartozó esetekben természetes személy végrehajtást kérő esetében a részletfizetést legfeljebb 1 évre állapítja meg, jogi személy és jogi személyiséggel nem rendelkező szervezet végrehajtást kérő esetében pedig az 500 ezer Ft-ot meg nem haladó összegű pénzkövetelés esetén legfeljebb 1 évre, míg az 500 ezer Ft-ot meghaladó összegű pénzkövetelés esetén legfeljebb 2 évre állapítja meg a részletfizetést,
 - c) a részletfizetés megállapítását további, a követelés összegével arányban álló részteljesítéshez kötheti, ha a végrehajtást kérő nyilatkozata erre vonatkozott.
 
-(6) Ha az adós tartozása olyan szerződésből vagy egyoldalú kötelezettségvállalásból (e bekezdésben a továbbiakban együtt: szerződés) ered, amely alapján havi részteljesítésre volt köteles és az adós a szerződés szerinti lejárt részleteket megfizette, valamint az eredeti szerződés szerinti részteljesítésnek megfelelő összegű részletet fizet, vagy ilyen összeg kerül tőle levonásra, a végrehajtó az (1) bekezdés szerinti feltételek fennállása esetén ezen összegben állapítja meg számára a részletfizetést. Ebben az esetben a részletfizetés jogi személy vagy jogi személyiséggel nem rendelkező szervezet végrehajtást kérő esetében 1 évnél hosszabb időre is megállapítható.
+(6) Ha az adós tartozása olyan szerződésből vagy egyoldalú kötelezettségvállalásból (e bekezdésben a továbbiakban együtt: szerződés) ered, amely alapján havi részteljesítésre volt köteles és az adós a szerződés szerinti lejárt részleteket megfizette, valamint az eredeti szerződés szerinti részteljesítésnek megfelelő összegű részletet fizet, vagy ilyen összeg kerül tőle levonásra, a végrehajtó az (1) bekezdés szerinti feltételek fennállása esetén ezen összegben állapítja meg számára a részletfizetést. Ebben az esetben a részletfizetés jogi személy vagy jogi személyiséggel nem rendelkező szervezet végrehajtást kérő esetében 2 évnél hosszabb időre is megállapítható.
 
 (7) Ha az adós ellen több végrehajtás van folyamatban, részletfizetés csak valamennyi követelésre és valamennyi végrehajtást kérő nyilatkozatát figyelembe véve állapítható meg.
 
@@ -829,7 +831,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 52/B. § (1) A végrehajtó az adós számára – az 52/A. § (5) bekezdés b) pontja szerinti feltételekkel, havi egyenlő összegű részleteket megállapítva – részletfizetést állapít meg, ha megtette az intézkedéseket az adós pénzügyi intézménynél kezelt összegeinek, munkabérének, ingóságainak végrehajtás alá vonása iránt, de azok eredményeként a tartozás teljes összegét nem sikerült behajtani és
 
 - a) az 52/A. § alapján még nem került sor korábban részletfizetés engedélyezésére,
-- b) az adóssal szemben 500 ezer Ft-ot meg nem haladó összegű pénzkövetelés behajtására indult végrehajtás vagy pedig 1 millió Ft-ot meg nem haladó összegű pénzkövetelés behajtására indult végrehajtás, de más követelés biztosítására zálogjog is be van jegyezve az adós lakóingatlanára az ingatlan-nyilvántartásba, és
+- b) az adóssal szemben 2 millió Ft-ot meg nem haladó összegű pénzkövetelés behajtására indult végrehajtás vagy 3 millió Ft-ot meg nem haladó összegű pénzkövetelés behajtására indult végrehajtás, de más követelés biztosítására zálogjog is be van jegyezve az adós lakóingatlanára az ingatlan-nyilvántartásba, és
 - c) a követelés behajtása érdekében az adós lakóingatlanának árverésére lenne szükség.
 
 (2) A részletfizetés engedélyezéséhez a végrehajtást kérő beleegyezésére nincs szükség; a részletfizetés megállapításáról szóló jegyzőkönyvet részére is kézbesíteni kell.
@@ -969,6 +971,8 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 (3) A bíróság a (2) bekezdéstől eltérően elrendelheti, hogy a 165. § a)—e) pontjai közül ugyanazon pont alá eső több követelést arányosan kell kielégíteni.
 
+(4) A nyugdíjfolyósító szerv által folyósított ellátásból történő letiltás esetén a (3) bekezdésben foglaltak nem alkalmazhatók, ide nem értve a gyermektartásdíj követelést és a polgári perben vagy büntetőeljárásban az adóssal szemben a bűncselekmény következtében keletkezett és a természetes személy sértett javára megállapított polgári jogi igényt.
+
 ### Levonás a munkavállalói munkabérből
 
 65. § (1) A munkaviszony alapján kapott munkabérből (a továbbiakban: munkavállalói munkabér) legfeljebb 33%-ot lehet levonni.
@@ -1028,7 +1032,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 ### Levonás egyéb járandóságból
 
-#### 70. §
+70. § A nyugdíjfolyósító szerv által nem havonkénti rendszerességgel járó egyszeri kifizetésekből – különösen a visszamenőlegesen elszámolt emelés összegéből, késedelmi kamatból, egyszeri segélyből, a tizenharmadik havi nyugdíjból, a tizenharmadik havi ellátásból, a nyugdíjprémiumból, a szépkorúak jubileumi juttatásából, a nyugdíjas bányászok szénjárandóságának pénzbeli megváltásából – kizárólag a gyermektartásdíj követelés és a polgári perben vagy büntetőeljárásban az adóssal szemben a bűncselekmény következtében keletkezett és a természetes személy sértett javára megállapított polgári jogi igény összege vonható le.
 
 #### 71. §
 
@@ -1048,7 +1052,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 74. § Mentes a letiltás alól
 
-- a) a nemzeti gondozási díj és a hadigondozottak pénzbeli ellátása, az életüktől és szabadságuktól politikai okból jogtalanul megfosztottak kárpótlásáról szóló törvény szerint járó életjáradék,
+- a) a nemzeti gondozási díj és a hadigondozottak pénzbeli ellátása, valamint a nyugdíjfolyósító szerv által folyósított kárpótlási célú életjáradék,
 - b) a települési támogatás, a rendkívüli települési támogatás, az aktív korúak ellátására való jogosultság keretében megállapított pénzbeli ellátás, az időskorúak járadéka, a munkanélküliek jövedelempótló támogatása, a gyermekek otthongondozási díja, az ápolási díj, a tartós ápolást végzők időskori támogatása,
 - c) anyasági támogatás,
 - d) a rokkantsági járadék és a vakok személyi járadéka,
@@ -1200,7 +1204,7 @@ eredő követelések fejében vonható végrehajtás alá.
 
 (5) Ha a hatósági átutalási megbízás fedezet hiánya miatt nem, vagy csak részben vezetett eredményre, azt a végrehajtó egy alkalommal hivatalból ismét benyújtja. Ezt követően a végrehajtó a hatósági átutalási megbízást
 
-- a) a végrehajtást kérő erre irányuló kérelmére további egy alkalommal, vagy
+- a) a végrehajtást kérő erre irányuló kérelmére, vagy
 - b) gyermektartásdíj-követelés esetén – ide nem értve a 165. § (2) bekezdése szerinti, közjegyzői okiraton és a fizetési meghagyáson alapuló tartásdíj-követelést – indokolt esetben hivatalból, akár több alkalommal is
 
 ismételten benyújtja.
@@ -1432,7 +1436,7 @@ ismételten benyújtja.
 
 ### Követelés lefoglalása
 
-110. § (1) Ha az adósnak harmadik személlyel szemben követelése van, illetőleg az adós harmadik személlyel olyan szerződést kötött, amelyből később követelése keletkezik, a végrehajtó a követelést lefoglalja, egyúttal a harmadik személyt nyilatkozatra hívja fel, figyelmeztetve őt a 112. és 113. § szerinti jogkövetkezményekre.
+110. § (1) Ha az adósnak harmadik személlyel szemben követelése van, illetőleg az adós harmadik személlyel olyan szerződést kötött, amelyből később követelése – ide nem értve az adós munkabérét [7. § (1) bekezdés] – keletkezik, a végrehajtó a követelést lefoglalja, egyúttal a harmadik személyt nyilatkozatra hívja fel, figyelmeztetve őt a 112. és 113. § szerinti jogkövetkezményekre.
 
 (2)
 
@@ -1881,6 +1885,8 @@ ismételten benyújtja.
 (7) Ha az ingatlan olyan, a büntetőeljárásban elrendelt zár alá vétel tényével terhelt, amelyet a jogi személlyel szemben kiszabható pénzbírság, pénzfizetésre irányuló vagyonelkobzás vagy ilyen polgári jogi igény biztosítására rendeltek el, és annak bejegyzésére a végrehajtási jogot megelőzően került sor, az ingatlan értékesítése iránt kizárólag akkor lehet intézkedni, ha a végrehajtási jog, a büntetőeljárásban elrendelt zár alá vétel jogcíme szerinti követelések és a végrehajtási költségek várhatóan megtérülnek. Sikeres értékesítést követően a büntetőeljárásban elrendelt zár alá vétel jogcímre jutó befolyt összeget az állami adó- és vámhatóságnál a végrehajtási kényszer eredményeként befizetett összegek fogadására és kezelésére elkülönített számlára kell átutalni.
 
 (8) Amennyiben az ingatlanon a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény alapján keletkezett tulajdonjog és a részletvételhez kapcsolódóan a magyar állam javára jelzálogjog és elidegenítési és terhelési tilalom van bejegyezve, abban az esetben az ingatlan becsértékének megállapítása iránt csak a tulajdonjog bejegyzéstől számított három év elteltével lehet intézkedni.
+
+(9) A végrehajtó a lefoglalt ingatlan becsértékének megállapítása iránt akkor intézkedhet, ha a tartozás összege az 500 ezer Ft-ot meghaladja.
 
 ### Az ingatlan becsértéke
 
@@ -3009,6 +3015,8 @@ a végrehajtás foganatosításával kapcsolatban
 
 (3) Az ügyész az alatt az idő alatt élhet jogorvoslattal, amely a fél vagy más érdekelt részére nyitva áll, végrehajtási kifogást azonban a végrehajtó intézkedésétől számított 3 hónapon belül bármikor előterjeszthet.
 
+(4) Ha az ügyész az e §-ban biztosított jogorvoslat lehetőségével élni kíván és a végrehajtási eljárással összefüggésben a szükséges iratok, információk megküldése érdekében megkeresi a végrehajtót, az nem minősül a titoktartási kötelezettség megsértésének és a végrehajtó köteles a megkeresésben foglaltaknak 15 napon belül eleget tenni.
+
 ### A polgári perrendtartás szerinti jogorvoslatok
 
 224. § (1) A végrehajtható okiratok és a végrehajtás során hozott bírósági határozatok kijavítására és kiegészítésére, a fellebbezés és más jogorvoslatok előterjesztésének határidejére, a határidők elmulasztása miatt benyújtható igazolásra, valamint általában a jogorvoslatokkal összefüggő egyéb eljárási kérdésekre a Pp. rendelkezéseit kell megfelelően alkalmazni.
@@ -4129,9 +4137,9 @@ kérhetnek adatszolgáltatást.
 - c) a vizsgálóbiztosi tisztségről való lemondással vagy
 - d) ha a fegyelmi bíróság kötelességeinek vétkes megszegése, hosszabb időn át történő elmulasztása vagy súlyos elhanyagolása miatt – titkos szavazással, a fegyelmi bíróság tagjai legalább kétharmadának szavazatával – tagjainak sorából kizárta.
 
-271/A. § (1) A Kar elnöksége a végrehajtók közül 4 évre az elsőfokú fegyelmi bírósághoz 6 végrehajtót szakülnöknek választ meg. A szakülnök a feladatát személyesen látja el.
+271/A. § (1) A Kar elnöksége a végrehajtók közül 4 évre az elsőfokú fegyelmi bírósághoz 12 végrehajtót szakülnöknek választ meg. A szakülnök a feladatát személyesen látja el.
 
-(2) Szakülnöknek azt a végrehajtót lehet megválasztani, aki egyetemi jogi végzettséggel, jogi szakvizsgával és legalább 1 éves végrehajtói gyakorlattal rendelkezik, feltéve, hogy vele szemben nem áll fenn a 275. § szerinti valamely kizáró ok.
+(2) Szakülnöknek azt a végrehajtót lehet megválasztani, aki egyetemi jogi végzettséggel, jogi szakvizsgával rendelkezik, feltéve, hogy vele szemben nem áll fenn a 275. § szerinti valamely kizáró ok.
 
 (3) A fegyelmi eljárásban a fegyelmi bírákat és a szakülnököket ugyanazok a jogok illetik meg és ugyanazok a kötelezettségek terhelik.
 
@@ -4176,11 +4184,17 @@ kérhetnek adatszolgáltatást.
 
 (2) Nem járhat el a fegyelmi tanácsban az ügy vizsgálóbiztosa.
 
-276. § (1) Ha olyan körülmény merül fel, amely a vizsgálóbiztosnak, a fegyelmi bíróság elnökének, illetőleg a fegyelmi tanács elnökének vagy tagjának elfogulatlanságát kétségessé teszi, az eljárás alá vont személy elfogultsági kifogást terjeszthet elő.
+276. § (1) Ha olyan körülmény merül fel, amely a vizsgálóbiztosnak, a fegyelmi bíróság elnökének, illetve a fegyelmi tanács elnökének vagy tagjának elfogulatlanságát kétségessé teszi, az eljárás alá vont személy elfogultsági kifogást terjeszthet elő. Az a bíró, szakülnök vagy vizsgálóbiztos, aki a személyére vonatkozó elfogultságot maga jelentette be, bejelentésének elintézéséig a fegyelmi eljárásban nem járhat el. Minden más esetben az érintett bíró, szakülnök vagy vizsgálóbiztos a fegyelmi eljárásban az elfogultsági kifogás elbírálásáig az érdemi határozat hozatalában nem vehet részt. Ha az eljárás alá vont személy ugyanabban a fegyelmi eljárásban az elfogultsági kifogás elutasítása után ugyanazon bíró, szakülnök vagy vizsgálóbiztos ellen a Pp. 12. § f) pontja alapján újabb kifogást nyújt be, az az érdemi határozat meghozatalát nem akadályozza.
 
-(2) Az elfogultsági kifogásról a fegyelmi bíróságnak egy másik fegyelmi tanácsa határoz. Ha a kifogást az elsőfokú fegyelmi bíróság elnöke ellen terjesztették elő, a másodfokú fegyelmi bíróság tanácsa, ha pedig a másodfokú fegyelmi bíróság elnöke ellen terjesztették elő, a Kúria elnöke határoz az elfogultsági kifogásról.
+(2) Az elfogultsági kifogás előterjesztésének az eljárás bármely szakaszában – az eljárást befejező határozat meghozataláig – van helye, azonban a Pp. 12. § f) pontja szerinti okot az eljárás alá vont személy a tárgyalás megkezdése után csupán akkor érvényesítheti, ha valószínűsíti, hogy a bejelentés alapjául szolgáló tényről csak a tárgyalás megkezdése után szerzett tudomást, és a tudomásszerzést követően az okot haladéktalanul bejelenti.
 
-(3) Az elsőfokú fegyelmi bíróság elnökének kizártsága esetén az eljáró elsőfokú fegyelmi tanácsot a másodfokú fegyelmi bíróság elnöke, a másodfokú fegyelmi bíróság elnökének kizártsága esetén pedig az eljáró tanácsot a Kúria elnöke jelöli ki.
+(3) Az elfogultsági kifogásról a fegyelmi bíróságnak egy másik fegyelmi tanácsa határoz. Ha a bíró, szakülnök vagy vizsgálóbiztos a rá vonatkozó elfogultságot maga jelenti be, vagy az eljárás alá vont személy által előterjesztett elfogultsági kifogásban szereplő ok fennálltát elismeri, más bíró, szakülnök vagy vizsgálóbiztos kijelölése iránt a bíróság elnöke intézkedik. Ilyen esetben az elfogultság tárgyában külön határozatot hozni nem kell.
+
+(4) Ha az elfogultsági kifogást az elsőfokú fegyelmi bíróság elnöke ellen terjesztették elő, a másodfokú fegyelmi bíróság tanácsa, ha pedig a másodfokú fegyelmi bíróság elnöke ellen terjesztették elő, a Kúria elnöke határoz az elfogultsági kifogásról. Az elsőfokú fegyelmi bíróság elnökének kizártsága esetén az eljáró elsőfokú fegyelmi tanácsot a másodfokú fegyelmi bíróság elnöke, a másodfokú fegyelmi bíróság elnökének kizártsága esetén pedig az eljáró tanácsot a Kúria elnöke jelöli ki.
+
+(5) Az elfogultság kérdésében az eljáró bíróság soron kívül határoz.
+
+(6) Az elfogultság kérdésében hozott döntéssel szemben önálló jogorvoslatnak nincs helye, az a fegyelmi határozat elleni fellebbezésben támadható.
 
 277. § (1) Az eljárás alá vont személynek az eljárás minden szakaszában joga van a képviseletre. A képviseletet elláthatja
 
@@ -4302,9 +4316,9 @@ kérhetnek adatszolgáltatást.
 
 289. § (1) A másodfokú fegyelmi tanács a határozatát és indokait a tárgyalás végén kihirdeti.
 
-(2) A másodfokú fegyelmi tanács határozatában az elsőfokú fegyelmi határozatot hatályában fenntartja, vagy a jogsértő, illetve az ügy érdemére kiható eljárási jogszabálysértéssel meghozott elsőfokú fegyelmi határozatot megsemmisíti és az elsőfokú fegyelmi tanácsot új eljárásra, vagy az eljárás megszüntetésére utasítja.
+(2) Ha az elsőfokú eljárás hiányossága a másodfokú eljárásban nem pótolható, a másodfokú fegyelmi tanács az elsőfokú fegyelmi határozatot hatályon kívül helyezi, és az elsőfokú fegyelmi tanácsot új eljárásra utasítja.
 
-(3) A másodfokú fegyelmi tanács határozata ellen jogorvoslatnak nincs helye.
+(3) A (2) bekezdésben említett eseten kívül a másodfokú fegyelmi tanács az ügy érdemében határoz. A másodfokú fegyelmi tanács határozata ellen jogorvoslatnak nincs helye.
 
 (4) A másodfokú fegyelmi tanács a határozatát a fellebbezés keretei között hozza meg.
 
@@ -4550,6 +4564,30 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 304/I. § Az egyes törvényeknek az egyszülős családok életkörülményeinek javítása érdekében történő módosításáról szóló 2021. évi LXXIV. törvénnyel megállapított rendelkezéseket a 2022. január 1-jét megelőzően indult végrehajtási ügyekben is alkalmazni kell azzal, hogy a 164. § (2) bekezdését a 2021. december 31-ét követően befolyt összegek elszámolása során kell alkalmazni.
 
 304/J. § E törvénynek az állami vagyonnal való fenntartható gazdálkodás megteremtése érdekében egyes vagyongazdálkodást érintő törvények módosításáról, valamint egyéb vagyongazdálkodási rendelkezésekről szóló 2021. évi LXXXIV. törvénnyel (a továbbiakban: Módtv.13.) megállapított 210/C. § (1) bekezdését azokban az ügyekben kell alkalmazni, amelyekben a 210/C. § (1) bekezdése szerinti végzés a Módtv.13. 14. §-ának hatálybalépését követően emelkedett jogerőre. Korábban jogerőre emelkedett végzés esetében az állam a Módtv.13. 14. §-ának hatálybalépését követő két éven belül jogosult a 210/C. § (1) bekezdése szerinti kérelem előterjesztésére.
+
+304/K. § (1) Az egyes igazságügyi tárgyú törvények módosításáról szóló 2022. évi LV. törvénnyel (a továbbiakban: Módtv.14.) megállapított 15. § (1) bekezdés b) pontját a 2023. április 1-jét követően benyújtásra került végrehajtási kérelmek esetén kell alkalmazni.
+
+(2) A Módtv.14-gyel megállapított 27. § a) pontját, 62. § (1) bekezdését, 63. §-t és 73/A. §-t a 2023. január 1-jét megelőzően elrendelt végrehajtási ügyekben is alkalmazni kell.
+
+(3) A Módtv.14-gyel megállapított 34. § (2) bekezdését a Módtv.14. hatálybalépését követően benyújtott kérelmek során kell alkalmazni.
+
+(4) A Módtv.14-gyel megállapított 34. § (9) bekezdését a Módtv.14. hatálybalépését megelőzően elrendelt végrehajtási ügyekben is alkalmazni kell, a Módtv.14. hatálybalépését követően visszavont végrehajtási lap és a törölt végrehajtási záradék esetén.
+
+(5) A Módtv.14-gyel megállapított 52/A. § (5) bekezdés b) pontját, 52/B. § (1) bekezdés b) pontját és 82/A. § (5) bekezdés a) pontját a Módtv.14. hatálybalépésekor folyamatban lévő végrehajtási eljárások során is alkalmazni kell a Módtv.14. hatálybalépését követően megállapításra kerülő részletfizetési megállapodások során és a Módtv.14. hatálybalépését követően benyújtásra kerülő hatósági átutalási megbízások során.
+
+(6) A Módtv.14-gyel megállapított 64. § (4) bekezdését és 110. § (1) bekezdését 2023. január 1-jét követően folyósított ellátás, illetve összeg esetén kell alkalmazni.
+
+(7) A Módtv.14-gyel megállapított 70. §-t a Módtv.14. hatálybalépését követően folyósított kifizetés esetén kell alkalmazni.
+
+(8) A Módtv.14-gyel megállapított 74. § a) pontját a Módtv.14. hatálybalépését megelőzően kibocsátott letiltások esetén is alkalmazni kell, a hatálybalépést követő kifizetés során.
+
+(9) A Módtv.14-gyel megállapított 79/A. § (2) és (3) bekezdését a 2023. január 1-jét követően kibocsátott hatósági átutalási megbízások esetén kell alkalmazni.
+
+(10) A Módtv.14-gyel megállapított 139. § (9) bekezdését a Módtv.14. hatálybalépésekor folyamatban lévő végrehajtási eljárások során is alkalmazni kell azzal, hogy amennyiben a Módtv.14. hatálybalépését megelőzően az ingatlan becsértékének megállapítására nem került sor, a Módtv.14. hatálybalépését követően az ingatlan becsértékének megállapítására csak abban az esetben kerülhet sor, ha az adós valamennyi tartozásának összesített tőkeösszege az 500 ezer Ft-ot meghaladja. Amennyiben a Módtv.14. hatálybalépését megelőzően becsérték megállapítására sor került, a Módtv.14. hatálybalépését követően árverés kitűzésére csak abban az esetben kerülhet sor, ha az adós valamennyi tartozásának összesített tőkeösszege az 500 ezer Ft-ot meghaladja. Amennyiben a Módtv.14. hatálybalépését megelőzően árverés kitűzésére sor került, a Módtv.14. hatálybalépését követően árverés kitűzésére csak abban az esetben kerülhet sor, ha az adós valamennyi tartozásának összesített tőkeösszege az 500 ezer Ft-ot meghaladja.
+
+(11) A Módtv.14-gyel megállapított 223. § (4) bekezdését a Módtv.14. hatálybalépésekor folyamatban lévő ügyészi megkeresések során is alkalmazni kell.
+
+(12) A Módtv.14-gyel megállapított 276. §-t, valamint 289. § (2) és (3) bekezdését a Módtv.14. hatálybalépésekor folyamatban lévő végrehajtói fegyelmi eljárások során is alkalmazni kell a Módtv.14. hatálybalépését követően benyújtásra kerülő elfogultsági kifogások esetén és a Módtv.14. hatálybalépését követően benyújtott fellebbezés során.
 
 305. § (1) E törvénynek a bírósági végrehajtással kapcsolatos és egyéb, igazságügyi tárgyú törvények módosításáról szóló 2011. évi CLXXX. törvénnyel (a továbbiakban e §-ban: módosító törvény) megállapított rendelkezéseit – a (2)–(5) bekezdésben foglalt eltérésekkel – a módosító törvény hatályba lépésének időpontjában folyamatban lévő végrehajtási eljárásokban és fegyelmi eljárásokban is alkalmazni kell. A 31/E. §-nak a módosító törvénnyel megállapított rendelkezéseit a 2011. december 31-ét követően előterjesztett végrehajtási kérelmek alapján indult eljárásokban kell alkalmazni.
 
@@ -4809,7 +4847,7 @@ való megfelelést szolgálja.
 - d) 16. §-ának h) pontja, 31/C. §-a és 210/B. §-a a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló, 2003. november 27-i 2201/2003/EK tanácsi rendelet,
 - e) 16. §-ának i) pontja, 31/C. §-a, 48. §-ának (8) bekezdése, 50. §-ának (5) bekezdése és 211. §-ának (3) bekezdése az európai fizetési meghagyásos eljárás létrehozásáról szóló, 2006. december 12-i 1896/2006/EK európai parlamenti és tanácsi rendelet,
 - f) 23/B. §-ának (1) bekezdése, 31/C. §-a, 37/B. §-a, 186. §-ának (3) bekezdése, 187. §-ának (3) bekezdése és 210/A. §-a a polgári és kereskedelmi ügyekben a joghatóságról, valamint a bírósági határozatok végrehajtásáról szóló, 2000. december 22-i 44/2001/EK tanácsi rendelet,
-- g) 16. §-ának l) pontja, 23/B. §-a, 31/C. §-a, 37/B. § (4) bekezdése, 48. §-ának (8) bekezdése, 164. §-ának (2) bekezdése, 186. §-ának (3) bekezdése, 187. §-ának (3) bekezdése, 210/A. §-a és 211. §-ának (3) bekezdése a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-ai 4/2009/EK tanácsi rendelet [14. cikk, 16–18. cikk, 21. cikk, 26–27. cikk, 36. cikk, 41. cikk (2) bekezdés, 43. cikk, 48. cikk (3) bekezdés, 61. cikk],
+- g) 10. § e) pontja, 16. § l) pontja, 23/B. §-a, 31/C. §-a, 37/B. § (4) bekezdése, 48. § (8) bekezdése, 164. § (2) bekezdése, 186. § (3) bekezdése, 187. § (3) bekezdése, 210/A. §-a, 210/H. § (1) bekezdése és 211. § (3) bekezdése a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-i 4/2009/EK tanácsi rendelet [14. cikk, 16–18. cikk, 21. cikk, 26–27. cikk, 36. cikk, 41. cikk (2) bekezdése, 43. cikk, 48. cikk (3) bekezdése, 53–54. cikk, 61. cikk],
 - h) 14/A. §-a, 16. § n) pontja, 23/B. § (1) bekezdés d) pontja, 31/C. § (1) bekezdés g) pontja, 31/C. § (2) bekezdés e) pontja, 31/C. § (5) bekezdése, 37/B. § (4) bekezdése, 48. § (8) bekezdése, 186. § (3) bekezdése, 187. § (3) bekezdése, és 211. § (3) bekezdés c) pontja a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló, 2012. december 12-i 1215/2012/EU európai parlamenti és tanácsi rendelet,
 - i) 23/B. § (1) bekezdés e) pontja, 31/C. § (1) bekezdés h) és i) pontja, 31/C. § (2) bekezdés f) és g) pontja, 210/A. § (1) bekezdés c) pontja az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet,
 - j) 37/B. § (4) bekezdése a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés) szóló, 2020. november 25-i (EU) 2020/1784 európai parlamenti és tanácsi rendelet
