@@ -125,7 +125,9 @@ A társadalmi együttélés általánosan elfogadott szabályait sértő vagy ve
 
 13. § (1) A szabálysértési hatóság a határozatában, illetve a bíróság a végzésében tájékoztatja az eljárás alá vont személyt a meg nem fizetett pénzbírság közérdekű munkával történő megváltásáról. A tájékoztatásnak ki kell terjednie arra, hogy az eljárás alá vont személy a meg nem fizetett pénzbírságot milyen tartamú közérdekű munkával válthatja meg, valamint arra is, hogy a közérdekű munka végrehajtása céljából az állami foglalkoztatási szervnél jelentkezhet.
 
-(2)–(3)
+(2)
+
+(3)
 
 #### 9. A közérdekű munka
 
@@ -231,7 +233,7 @@ feltéve, hogy az elkobzás mellőzését nemzetközi jogi kötelezettség nem z
 - e) szabálysértési elzárással büntethető és pénzbírsággal sújtható szabálysértés elkövetése miatt jogerősen felelősségre vonták, az újabb szabálysértési elzárással is büntethető szabálysértés miatt hetvenöt napig terjedő szabálysértési elzárás büntetés szabható ki;
 - f) szabálysértési elzárással büntethető és pénzbírsággal sújtható szabálysértés elkövetése miatt jogerősen felelősségre vonták, az újabb pénzbírsággal büntethető szabálysértés miatt hatvan napig terjedő szabálysértési elzárás büntetés szabható ki.
 
-(2) Az (1) bekezdés a)–d) pontjában meghatározott, az ismételt elkövetésre vonatkozó rendelkezéseket nem lehet alkalmazni, ha
+(2) Az (1) bekezdés a)–f) pontjában meghatározott, az ismételt elkövetésre vonatkozó rendelkezéseket nem lehet alkalmazni, ha
 
 - a) a szabálysértés miatt helyszíni bírságot szabtak ki,
 - b) a cselekmény a XXVII. és a XXVIII. Fejezetben meghatározott szabálysértésnek minősül,
@@ -1737,7 +1739,7 @@ téríti meg.
 
 117. § (1) A szabálysértési elzárással is büntethető szabálysértés miatt a feljelentést a rendőrségnél kell megtenni. Ha a szabálysértési elzárással is büntethető szabálysértés miatt a feljelentést máshol tették, vagy ha a szabálysértési elzárással is büntethető szabálysértésről egyéb módon szereztek tudomást, a feljelentést, illetve az egyéb jelzést a rendőrséghez kell haladéktalanul továbbítani.
 
-(2) A rendőrség a szabálysértési elzárással is büntethető – a 23. § (1) bekezdés b), illetve d) pontja kivételével – szabálysértés tényállásának felderítése, az elkövető kilétének megállapítása, valamint a bizonyítási eszközök felkutatása és biztosítása érdekében a bírósági eljárást előkészítő eljárást folytat le. A rendőrség előkészítő eljárására a szabálysértési hatóság eljárására vonatkozó általános szabályokat kell alkalmazni azzal, hogy azt harminc napon belül be kell fejezni, kivéve, ha az előkészítő eljárást lefolytató rendőri szerv vezetője annak időtartamát újabb harminc nappal meghosszabbítja.
+(2) A rendőrség a szabálysértési elzárással is büntethető – a 23. § (1) bekezdés b), d) illetve f) pontja kivételével – szabálysértés tényállásának felderítése, az elkövető kilétének megállapítása, valamint a bizonyítási eszközök felkutatása és biztosítása érdekében a bírósági eljárást előkészítő eljárást folytat le. A rendőrség előkészítő eljárására a szabálysértési hatóság eljárására vonatkozó általános szabályokat kell alkalmazni azzal, hogy azt harminc napon belül be kell fejezni, kivéve, ha az előkészítő eljárást lefolytató rendőri szerv vezetője annak időtartamát újabb harminc nappal meghosszabbítja.
 
 (3) A rendőrség az előkészítő eljárás során elrendelheti lakás, egyéb helyiség vagy azokhoz tartozó bekerített hely átvizsgálását, ha alaposan feltehető, hogy az tárgyi bizonyítási eszköz megtalálására vezet. Az elrendelő határozatban meg kell jelölni azokat a bizonyítási eszközöket, amelyek megtalálására az intézkedés irányul. A határozatot az intézkedés megkezdése előtt az érintettel közölni kell. Végrehajtásától el kell tekinteni, ha a keresett dolgot az érintett előadja. Az intézkedés csak az érintett vagy képviselője jelenlétében hajtható végre.
 
@@ -2120,7 +2122,11 @@ a büntetés-végrehajtási intézet hivatali munkarendjén kívül kerülne sor
 
 (2) A halasztást elutasító végzés ellen az elkövető és képviselője, fiatalkorú esetén a törvényes képviselő is a végzés közlésétől számított három napon belül fellebbezhet. A fellebbezést a törvényszék a beérkezéstől számított három napon belül tanácsülésen bírálja el.
 
-(3)–(5)
+(3)
+
+(4)
+
+(5)
 
 #### 105. A pénzbírság, a helyszíni bírság, a szabálysértési költség, a rendbírság valamint az okozott kár végrehajtása
 
@@ -2374,7 +2380,7 @@ vehető nyilvántartásba.
 
 #### 109. Méltányosság
 
-147. § (1) Az elkövető, az elkövető törvényes képviselője, valamint az elkövető vagy az elkövető törvényes képviselője által, kifejezetten e kérelem benyújtására írásban meghatalmazott nagykorú személy méltányossági kérelmet nyújthat be a szabálysértési hatóság vagy a bíróság által kiszabott büntetés, illetve alkalmazott intézkedés elengedése, mérséklése iránt. Egy adott méltányossági kérelmet kizárólag az annak alapjául szolgáló büntetés vagy intézkedés tárgyában lehet benyújtani. Az elkobzott dolog visszaadása érdekében az elkobzást elszenvedő is előterjeszthet méltányossági kérelmet. Figyelmeztetés és helyszíni bírság ellen nincs helye méltányossági kérelem benyújtásának.
+147. § (1) Az elkövető, az elkövető törvényes képviselője, valamint az elkövető vagy az elkövető törvényes képviselője vagy nagykorú hozzátartozója által, kifejezetten e kérelem benyújtására írásban meghatalmazott nagykorú személy méltányossági kérelmet nyújthat be a szabálysértési hatóság vagy a bíróság által kiszabott büntetés, illetve alkalmazott intézkedés elengedése, mérséklése iránt. Egy adott méltányossági kérelmet kizárólag az annak alapjául szolgáló büntetés vagy intézkedés tárgyában lehet benyújtani. Az elkobzott dolog visszaadása érdekében az elkobzást elszenvedő is előterjeszthet méltányossági kérelmet. Figyelmeztetés és helyszíni bírság ellen nincs helye méltányossági kérelem benyújtásának.
 
 (1a) A méltányossági kérelem benyújtására vonatkozó meghatalmazás iránti nyilatkozat csak a meghatalmazás elfogadásával és az elfogadó nyilatkozat rendelkezési nyilvántartásban való rögzítésével érvényes. A rendelkezési nyilvántartásba vett meghatalmazás tényét a méltányossági kérelem benyújtásával egyidejűleg be kell jelenteni a bíróságnak, illetve szabálysértési hatóságnak.
 
@@ -2702,7 +2708,9 @@ a kitiltással érintett kereskedelmi létesítmény, illetve kereskedelmi tevé
 
 #### 117. A szabálysértési nyilvántartásokból közvetlen hozzáféréssel történő adatátvétel feltételei
 
-#### 158–159. §
+#### 158. §
+
+#### 159. §
 
 160. § (1) A közvetlen hozzáféréssel történő adatátvétel teljesítéshez – az (1a) bekezdésben foglalt kivétellel – meg kell jelölni:
 
@@ -3487,17 +3495,17 @@ szerinti utánzat, illetve euro-érmékhez hasonló érem és zseton.
 
 (2) Az (1) bekezdésben meghatározott szabálysértés miatt a hivatásos katasztrófavédelmi szerv erre felhatalmazott ügyintézője, a mezőőr, a halászati őr is szabhat ki helyszíni bírságot.
 
-#### 169/A. Polgári védelmi kötelezettség megsértése
+#### 169/A.
 
-215/A. § Az a polgári védelmi szolgálatra kötelezett személy, aki polgári védelmi kötelezettségével összefüggő megjelenési, feladatellátási vagy adatszolgáltatási kötelezettségének nem tesz eleget, vagy nem a jogszabályban vagy végrehajtható határozatban megjelölt határidőben tesz eleget, szabálysértést követ el.
+#### 215/A. §
 
 #### 169/B. Honvédelmi kötelezettség megszegése
 
 215/B. § Az a hadköteles személy, aki törvényben meghatározott személyes adatszolgáltatási, bejelentési, megjelenési kötelezettségének vagy az akadályoztatásával kapcsolatos jelentési kötelezettségének nem tesz eleget, szabálysértést követ el.
 
-#### 169/C. Gazdasági, anyagi szolgáltatási kötelezettség megsértése
+#### 169/C.
 
-215/C. § Az a gazdasági, anyagi szolgáltatásra kötelezett személy, aki a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvényben meghatározott gazdasági, anyagi szolgáltatási kötelezettségének nem, vagy nem a jogszabályban vagy végrehajtható határozatban megjelölt határidőben tesz eleget, szabálysértést követ el.
+#### 215/C. §
 
 #### 170. A helyszín biztosításával kapcsolatos szabálysértés
 

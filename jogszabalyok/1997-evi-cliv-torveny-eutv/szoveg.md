@@ -2,7 +2,17 @@
 
 az egészségügyről
 
-Az Országgyűlés– a lakosság egészsége iránt érzett felelősségétől áthatva,– attól a meggyőződéstől vezérelve, hogy az egyén egészséghez fűződő érdeke és jólléte elsőbbséget kell élvezzen, továbbá, hogy az orvostudomány fejlődésének eredményeit a jelen és a jövendő nemzedékek javára kell felhasználni,– annak tudatában, hogy az egészség az egyén életminőségének és önmegvalósításának alapvető feltétele, amely döntő hatással van a családra, a munkára és ezáltal az egész nemzetre,– tekintettel arra, hogy az egészség fejlesztését, megőrzését és helyreállítását az egészségügy eszközrendszere csak a szociális ellátórendszerrel, valamint a természeti és épített környezet védelmével, illetve a társadalmi és gazdasági környezettel együttesen, továbbá az egészséget támogató társadalmi gyakorlattal és politikával kiegészülve képes szolgálni,– figyelemmel a bekövetkezett tudományos, technikai, etikai és társadalmi, valamint a jogrendszert érintő változásokra, továbbá nemzetközi kötelezettségeinkre,
+Az Országgyűlés
+
+– a lakosság egészsége iránt érzett felelősségétől áthatva,
+
+– attól a meggyőződéstől vezérelve, hogy az egyén egészséghez fűződő érdeke és jólléte elsőbbséget kell élvezzen, továbbá, hogy az orvostudomány fejlődésének eredményeit a jelen és a jövendő nemzedékek javára kell felhasználni,
+
+– annak tudatában, hogy az egészség az egyén életminőségének és önmegvalósításának alapvető feltétele, amely döntő hatással van a családra, a munkára és ezáltal az egész nemzetre,
+
+– tekintettel arra, hogy az egészség fejlesztését, megőrzését és helyreállítását az egészségügy eszközrendszere csak a szociális ellátórendszerrel, valamint a természeti és épített környezet védelmével, illetve a társadalmi és gazdasági környezettel együttesen, továbbá az egészséget támogató társadalmi gyakorlattal és politikával kiegészülve képes szolgálni,
+
+– figyelemmel a bekövetkezett tudományos, technikai, etikai és társadalmi, valamint a jogrendszert érintő változásokra, továbbá nemzetközi kötelezettségeinkre,
 
 az egészségi állapot megőrzésének és javításának összetett feltételrendszerét meghatározó alábbi törvényt alkotja meg:
 
@@ -140,7 +150,9 @@ az egészségi állapot megőrzésének és javításának összetett feltételr
 
 (3) A várólistára helyezés esetén a beteget a várakozás okáról és annak várható időtartamáról, illetve esetleges következményeiről tájékoztatni kell.
 
-(4)–(5)
+(4)
+
+(5)
 
 9/A. § Az egészségügyi államigazgatási szerv a gyógyintézet jelzése alapján az ismeretlen személyazonosságú beteg körözési eljárás keretében történő azonosítását rendelheti el személyazonosságának megállapítása érdekében. A körözést elrendelő határozat fellebbezésre tekintet nélkül végrehajthatóvá nyilvánítható. Ha a körözés elrendelésének az oka megszűnt, az azt elrendelő egészségügyi államigazgatási szerv a körözést visszavonja.
 
@@ -443,7 +455,7 @@ nyilatkozatára is alkalmazni kell.
 
 (4) A panaszokat nyilván kell tartani és a panasszal, illetve annak kivizsgálásával összefüggő iratokat 5 évig meg kell őrizni.
 
-29/A. §
+#### 29/A. §
 
 ### A betegjogi képviselő és a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szerv
 
@@ -700,7 +712,9 @@ alapul.
 - b) előállításában és forgalomba hozatalában közreműködő személyekre vonatkozó egészségügyi alkalmassági és higiénés követelmények meghatározása, és ezeknek az élelmiszerlánc-felügyeleti szervvel együttműködésben történő rendszeres ellenőrzése,
 - c) közvetítésével történt mérgezések és fertőzések jogszabály szerinti kivizsgálása, nyilvántartása, együttműködve az élelmiszerlánc-felügyeleti szervvel.
 
-49. § (1)–(2)
+49. § (1)
+
+(2)
 
 (3)
 
@@ -1040,7 +1054,9 @@ látja el.
 
 (4) A zárófertőtlenítéshez szükséges fertőtlenítő szereket az egészségügyi államigazgatási szerv biztosítja.
 
-### Rovarok és egyéb ízeltlábúak,valamint rágcsálók irtása
+### Rovarok és egyéb ízeltlábúak,
+
+valamint rágcsálók irtása
 
 73. § (1) A betegségeket terjesztő vagy egészségügyi szempontból káros, miniszteri rendeletben meghatározott rovarok, rágcsálók irtásáról, és a madarak távoltartásáról a terület, épület tulajdonosa, illetve kezelője rendszeresen gondoskodik. A terület, illetve épület használói az irtást tűrni kötelesek.
 
@@ -1240,6 +1256,98 @@ adja meg.
 
 (4) Az ellenőrző szerv vagy személy a (3) bekezdésben szereplő igazolványok és applikáció adatait – ha törvény eltérően nem rendelkezik – semmilyen módon nem rögzítheti.
 
+74/L. § (1) Ha a Kormány a 74/C. § (1) bekezdése szerinti körülmény fennállásakor rendeletben határozott a fertőzés igazolásának módjáról [a továbbiakban: 74/C. § (1) bekezdése szerinti körülmény fennállása], az EESZT működtetője a 74/C. § (1) bekezdése szerinti fertőzés terjedésének megállításához szükséges védelmi intézkedések megtétele – így különösen a köznevelési intézmény, illetve a szakképző intézmény vezetőjének tájékoztatása, a rendkívüli szünet elrendelése, valamint a tankötelezettség teljesítéséhez szükséges oktatás megszervezése – céljából napi rendszerességgel, az intézkedés megtételéig – de legfeljebb 48 órás időtartamban – az érintettek TAJ számának összevetése útján – a (2) bekezdés szerinti módon – megismerhetővé teszi
+
+- a) a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) szerinti, a Kormány által a köznevelésért felelős miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv (a továbbiakban: köznevelési szerv), valamint
+- b) a szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: Szkt.) szerinti szakképzési államigazgatási szerv (a továbbiakban: szakképzési szerv)
+
+számára az adat megismerhetővé tételének napján a 74/C. § (1) bekezdése szerinti fertőzéssel megfertőződött személyek fertőzöttségének tényére vonatkozó adatát.
+
+(2) A TAJ számokat olyan titkosítási módszerrel kell összevetni, amely csak azon érintettek fertőzöttsége tényének megismerhetőségét teszi lehetővé a köznevelési szerv, illetve a szakképzési szerv számára, akikre vonatkozóan
+
+- a) a köznevelési szerv az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 4. § (1) bekezdés a) pontja szerinti köznevelés információs rendszerében,
+- b) a szakképzési szerv az Szkt. 111. §-a szerinti szakképzés információs rendszerében
+
+TAJ számot kezel.
+
+74/M. § (1) Az Nkt. 57. § (6) bekezdése szerinti, valamint az Szkt. 128. § (9) bekezdése szerinti informatikai rendszernek (a továbbiakban együtt: Rendszer) a 74/C. § (1) bekezdése szerinti fertőzés terjedésének megállításához szükséges védelmi intézkedések megtétele céljából alkalmasnak kell lennie arra, hogy a szülő vagy a törvényes képviselő, továbbá a gyermekkel, tanulóval közös háztartásban élő személyek (e § alkalmazásában a továbbiakban együtt: szülő) TAJ számát, telefonszámát és elektronikus levelezési címét – az érintett önkéntes, tájékoztatáson alapuló, az elszámoltathatóság alapelvét figyelembe vevő módon megtett hozzájárulása alapján – a szülő vagy a szülő kérésére a köznevelési intézmény vagy a szakképző intézmény rögzíthesse. A köznevelési intézmény vagy a szakképző intézmény, a köznevelési szerv vagy a szakképzési szerv nem kötelezheti a szülőt e § szerinti adatainak átadására.
+
+(2) Az EESZT működtetője a 74/C. § (1) bekezdése szerinti fertőzés terjedésének megállítása érdekében napi rendszerességgel, a (4) bekezdés szerinti intézkedés megtételéig – de legfeljebb 48 órás időtartamban – az érintettek TAJ számának összevetése útján – a (3) bekezdés szerinti módon – megismerhetővé teszi a Rendszer üzemeltetője számára az adat megismerhetővé tételének napján fertőzött személyek fertőzöttségének tényére vonatkozó adatát.
+
+(3) A TAJ számokat olyan titkosítási módszerrel kell összevetni, amely csak azon érintettek fertőzöttsége tényének megismerhetőségét teszi lehetővé a Rendszer üzemeltetője számára, akikre vonatkozóan a szülő vagy törvényes képviselő az (1) bekezdés szerint a gyermekkel, tanulóval közös háztartásban élő személyek TAJ számát a Rendszerben rögzítette.
+
+(4) A Rendszer üzemeltetője az (1) bekezdés szerint rögzített adatokat – ha a (2) bekezdés szerinti összevetés alapján az érintett tekintetében a 74/C. § (1) bekezdése szerinti fertőzéssel való megfertőződés tényére vonatkozó adat kimutatható –
+
+- a) a járványügyi intézkedések megtétele céljából továbbítja a járványügyi szerv részére,
+- b) a fertőzés terjedésének megállításához szükséges védelmi intézkedések megtétele – így különösen a köznevelési vagy szakképzési intézmény tájékoztatása, a rendkívüli szünet elrendelése, valamint a tankötelezettség teljesítéséhez szükséges oktatás megszervezése – céljából megismerhetővé teszi a köznevelési, illetve a szakképzési szerv számára,
+
+azzal, hogy az adatkezelés során olyan titkosítási módszert kell alkalmazni, hogy az adatkezelésre előírt feltételek teljesüljenek.
+
+74/N. § (1) A 74/C. § (1) bekezdése szerinti körülmény fennállásakor, a 74/C. § (1) bekezdése szerinti fertőzés terjedésének megállításához szükséges védelmi intézkedések megtétele – így különösen a köznevelési intézmény, illetve a szakképző intézmény tájékoztatása, a rendkívüli szünet elrendelése, valamint a tankötelezettség teljesítéséhez szükséges oktatás megszervezése – céljából a köznevelési intézmény, valamint a szakképző intézmény a köznevelési szerv, valamint a szakképzési szerv számára – az e szervek által az e célra létrehozott felület alkalmazásával – átadja azon, a köznevelési intézménnyel, illetve a szakképző intézménnyel
+
+- a) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) szerinti munkaviszonyban álló, vagy
+- b) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) szerinti közalkalmazotti jogviszonyban álló
+
+személyek TAJ számát, akik a munkakörükbe tartozó – így a köznevelési intézmény esetében különösen az Nkt. szerinti gazdasági, ügyviteli, műszaki, kisegítő és más – feladatokat a köznevelési intézmény, illetve a szakképző intézmény területén látják el.
+
+(2) Az EESZT működtetője az (1) bekezdés szerinti célból napi rendszerességgel, az intézkedés megtételéig – de legfeljebb 48 órás időtartamban – az érintettek TAJ számának összevetése útján – a (3) bekezdés szerinti módon – megismerhetővé teszi a köznevelési szerv, valamint a szakképzési szerv számára az adat megismerhetővé tételének a 74/C. § (1) bekezdés szerinti fertőzéssel fertőzött személyek fertőzöttségének tényére vonatkozó adatát.
+
+(3) A TAJ számokat olyan titkosítási módszerrel kell összevetni, amely csak azon érintettek fertőzöttsége ténye megismerhetőségét teszi lehetővé a köznevelési szerv, illetve a szakképzési szerv számára, akikre vonatkozóan TAJ számot a köznevelési intézmény, valamint a szakképzési intézmény a köznevelési szerv, illetve a szakképzési szerv számára az (1) bekezdés szerinti módon és célból átadott.
+
+(4) A köznevelési szerv, valamint a szakképzési szerv az (1) bekezdés szerint átadott adatokat – az (5) bekezdés szerinti kivétellel – a 74/C. § (1) bekezdése szerinti kormányrendelet hatálya alatt kezeli.
+
+(5) Az (1) bekezdés szerint átvett adatot haladéktalanul törölni kell akkor, ha a köznevelési intézmény, illetve a szakképző intézmény a köznevelési szervet, illetve a szakképzési szervet arról értesíti, hogy az érintett már nem áll vele az Mt. szerinti munkaviszonyban vagy Kjt. szerinti közalkalmazotti jogviszonyban, illetve, ha az érintett a munkakörét a továbbiakban már nem a köznevelési intézmény vagy a szakképző intézmény területén látja el.
+
+74/O. § (1) Az EESZT működtetője a 74/C. § (1) bekezdése szerinti fertőzés megállításához szükséges védelmi intézkedések megtétele – így különösen a köznevelési intézmény vezetőjének tájékoztatása, a rendkívüli szünet elrendelése, valamint a tankötelezettség teljesítéséhez szükséges oktatás megszervezése – céljából napi rendszerességgel az érintettek TAJ számának összevetése útján – a (2) bekezdés szerinti módon – megismerhetővé teszi a köznevelési szerv számára az adat megismerhetővé tételének napján az oltottsággal vagy védettséggel rendelkező személyeknek a fertőzés elleni védőoltás tényére vagy a védettségi időtartamra vonatkozó adatát.
+
+(2) A TAJ számokat olyan titkosítási módszerrel kell összevetni, amely csak azon érintettek védettségének ténye megismerhetőségét teszi lehetővé a köznevelési szerv számára, akikre vonatkozóan a köznevelési szerv az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 4. § (1) bekezdés a) pontja szerinti köznevelés információs rendszerében TAJ számot kezel.
+
+74/P. § (1) A 74/C. § (1) bekezdése szerinti körülmény fennállása esetén a 74/C. § (1) bekezdése szerinti fertőzés terjedésének megállításához szükséges védelmi intézkedések megtétele – így különösen a köznevelési intézmény tájékoztatása, a rendkívüli szünet elrendelése, valamint a tankötelezettség teljesítéséhez szükséges oktatás megszervezése – céljából a köznevelési intézmény a köznevelési szerv számára – az e szervek által az e célra létrehozott felület alkalmazásával – átadja azon, a köznevelési intézménnyel
+
+- a) az Mt. szerinti munkaviszonyban álló, vagy
+- b) a Kjt. szerinti közalkalmazotti jogviszonyban álló
+
+személyek TAJ számát, akik a munkakörükbe tartozó – különösen az Nkt. szerinti gazdasági, ügyviteli, műszaki, kisegítő és más – feladatokat a köznevelési intézmény területén látják el.
+
+(2) Az EESZT működtetője az (1) bekezdés szerinti célból napi rendszerességgel az érintettek TAJ számának összevetése útján – a (3) bekezdés szerinti módon – megismerhetővé teszi a köznevelési szerv számára az adat megismerhetővé tételének napján a 74/C. § (1) bekezdés szerinti fertőzés elleni védőoltás tényére vagy a védettség időtartamára vonatkozó adatát.
+
+(3) A TAJ számokat olyan titkosítási módszerrel kell összevetni, amely csak azon érintettek adatainak megismerhetőségét teszi lehetővé a köznevelési szerv számára, akikre vonatkozóan TAJ számot a köznevelési intézmény a köznevelési szerv számára az (1) bekezdés szerinti módon és célból átadott.
+
+(4) A köznevelési szerv az (1) bekezdés szerint átadott adatokat – az (5) bekezdés szerinti kivétellel – a 74/C. § (1) bekezdése szerinti kormányrendelet hatálya alatt kezeli.
+
+(5) Az (1) bekezdés szerint átvett adatot haladéktalanul törölni kell akkor, ha a köznevelési intézmény a köznevelési szervet arról értesíti, hogy az érintett már nem áll vele az Mt. szerinti munkaviszonyban vagy Kjt. szerinti közalkalmazotti jogviszonyban, illetve, ha az érintett a munkakörét a továbbiakban már nem a köznevelési intézmény területén látja el.
+
+74/Q. § (1) A köznevelési vagy szakképzési államigazgatási szerv az általa a 74/L–74/P. § alapján kezelt adatok közül a 74/C. § (1) bekezdése szerinti fertőzés terjedésének megállításához szükséges védelmi intézkedések megtétele – így különösen a köznevelési intézmény, illetve a szakképző intézmény vezetőjének tájékoztatása, a rendkívüli szünet elrendelése, valamint a tankötelezettség teljesítéséhez szükséges oktatás megszervezése – érdekében feltétlenül szükséges, a köznevelési vagy szakképző intézmény által megjelölt érintettekre vonatkozó adatokat átadja köznevelési vagy szakképző intézménynek azzal, hogy azokat a köznevelési vagy szakképző intézmény kizárólag az intézkedés vagy intézkedés sorozat meghozatala idejéig, de legfeljebb három hónapig kezeli.
+
+(2) Az (1) bekezdés szerint átadott adatokat
+
+- a) a köznevelési vagy szakképző intézmény vezetője,
+- b) a gyermek óvodapedagógusa, a tanuló osztályfőnöke
+
+ismerheti meg.
+
+(3) A köznevelési vagy szakképző intézmény az (1) bekezdés szerint kizárólag
+
+- a) az általa foglalkoztatottról,
+- b) tanulójáról,
+- c) általa ellátott vagy gondozott gyermekről
+
+kérhet adatokat.
+
+74/R. § (1) Ha a 74/Q. § (1) bekezdés szerinti fertőzöttségi vagy védettségi adatok informatikai rendszer útján nem vagy csak jelentős késedelemmel érhetőek el, a köznevelési vagy szakképző intézmény azok megküldését közvetlenül
+
+- a) az általa foglalkoztatottól,
+- b) nagykorú tanulójától vagy
+- c) a gyermek törvényes képviselőjétől
+
+is kérheti azzal, hogy megjelöli a megkeresés okát, az adatkezelés várható időtartamát, illetve az azzal kapcsolatos várható intézkedéseit.
+
+(2) Az (1) bekezdés szerinti adatokat a köznevelési vagy szakképző intézmény az intézkedés vagy intézkedés sorozat idejéig kezeli.
+
+(3) Az (1) bekezdés szerinti adatokat a 74/Q. § (2) bekezdése szerinti személy ismerheti meg.
+
+74/S. § A 74/Q. § (1) bekezdése, valamint a 74/R. § (1) bekezdése szerinti adattovábbítás során úgy kell eljárni, hogy a különleges adatokat kizárólag az arra jogosult személy ismerhesse meg.
+
 ### IV. Fejezet — AZ EGÉSZSÉGÜGYI ELLÁTÁSOK RENDSZERE
 
 ### 1. CÍM — Működési elvek
@@ -1346,7 +1454,9 @@ alapul.
 
 85. § A munkavégzésnek nem minősülő tevékenységre vonatkozó egészségi alkalmassági vizsgálat célja annak megállapítása és ellenőrzése, hogy az egyén a tevékenység megkezdése előtt és folytatása során alkalmas-e az adott tevékenységet úgy végezni, hogy sem saját, sem mások egészségét és testi épségét ne veszélyeztesse.
 
-### A magzat egészséges fejlődésének ellenőrzéseés a várandós anya egészségi állapotának védelme
+### A magzat egészséges fejlődésének ellenőrzése
+
+és a várandós anya egészségi állapotának védelme
 
 86. § (1) A magzat egészséges fejlődésének ellenőrzése, a veszélyeztetettség és a szövődmények megelőzése, illetve megfelelő időben történő felismerése, továbbá a szülésre, szoptatásra és csecsemőgondozásra való felkészítés a család- és nővédelmi gondozás keretében valósul meg.
 
@@ -1514,7 +1624,9 @@ beutalása alapján vehető igénybe.
 
 (5) Az ápolási, gondozási tevékenységről ápolási, gondozási dokumentációt kell vezetni, amely része az egészségügyi dokumentációnak.
 
-### Egyes különleges ellátási igényt kielégítőegészségügyi szolgáltatások
+### Egyes különleges ellátási igényt kielégítő
+
+egészségügyi szolgáltatások
 
 98/A. § A speciális ellátási igényű csoportok részére egészségügyi szolgáltatás nyújtására a miniszter külön jogszabályban foglalt működési engedéllyel rendelkező centrumokat jelöl ki, mely egészségügyi szolgáltatások működésének finanszírozására külön jogszabály rendelkezései irányadóak.
 
@@ -1655,7 +1767,9 @@ irányul.
 
 105. § A gyógyászati ellátások körébe tartoznak azok a kiegészítő jellegű egészségügyi szolgáltatások, amelyek az orvos rendelése alapján a gyógykezelés részét képezik, de orvosi rendelés hiányában is – az adott egészségügyi szolgáltatásra vonatkozó szakmai szabályok keretein belül – igénybe vehetők.
 
-### Az egészségügyi ellátás keretében végzettszakértői tevékenység
+### Az egészségügyi ellátás keretében végzett
+
+szakértői tevékenység
 
 106. § Az egészségügyi szolgáltatások közé tartozik a gyógyító-megelőző ellátás keretében végzett, valamint a társadalombiztosítási, vagy szociális ellátások igénylésével összefüggő egészségügyi szakértői tevékenység, így különösen
 
@@ -1699,7 +1813,9 @@ egészségügyi elbírálása, illetőleg véleményezése.
 - a) az egészségügyi szolgáltatások megfelelő minőségének biztosítása, különös tekintettel azok hatásosságára és hatékonyságára,
 - b) az egészségügyi szolgáltatásokat igénybe vevő, valamint az e szolgáltatásokat nyújtó személyek jogainak biztosítása.
 
-### 1. CÍM — Az egészségügyi szolgáltatás megkezdésénekés gyakorlásának feltételei
+### 1. CÍM — Az egészségügyi szolgáltatás megkezdésének
+
+és gyakorlásának feltételei
 
 108. § (1) Egészségügyi szolgáltatás – a 108/A. §-ban foglalt kivétellel – kizárólag az egészségügyi államigazgatási szerv által kiadott működési engedély birtokában, az abban meghatározottak szerint kezdhető meg, illetve folytatható.
 
@@ -1943,7 +2059,7 @@ a törléstől, illetve a kérelem elutasításától számított egy évig,
 
 (5) A működési nyilvántartást vezető szerv a nyilvántartásba vételt, valamint a megújítást követően az egészségügyi dolgozó természetes személyazonosító adatait, a szakképesítésének, szakképesítéseinek, szakképzettségének vagy szakképzettségeinek megnevezését, az oklevelének, bizonyítványának számát, az alapnyilvántartási és a működési nyilvántartási számát, a működési nyilvántartásának lejárati dátumát, valamint az esetleges korlátozott alkalmasságának tényét tartalmazó hatósági igazolványt állít ki.
 
-112/B. §
+#### 112/B. §
 
 113. § (1) Az egészségügyi dolgozó működési nyilvántartásának érvényességi ideje öt év, amely a nyilvántartott személy kérelmére megújítható vagy meghosszabbítható. A működési nyilvántartás adatainak kötelező megőrzési ideje a működési nyilvántartásból történő törléstől számított 10 év.
 
@@ -1998,7 +2114,7 @@ a törléstől, illetve a kérelem elutasításától számított egy évig,
 
 - a) a 111. § (3) bekezdése és a 112. § (4) bekezdése szerinti adatokat,
 - b) a 116/C. § (2) bekezdés a) és f) pontja szerinti adatokat,
-- c) a szakképzésről szóló törvény alapján egészségügyi szakképesítést, valamint a nem konvencionális eljárások körébe tartozó szakképesítést szerzettek, illetve a képzésben részt vevők számára és szakképesítés szerinti megoszlására vonatkozó adatokat,
+- c) az Szkt. alapján egészségügyi szakképesítést, valamint a nem konvencionális eljárások körébe tartozó szakképesítést szerzettek, illetve a képzésben részt vevők számára és szakképesítés szerinti megoszlására vonatkozó adatokat,
 - d) az adott évben orvos- és egészségtudomány képzési területen alapképzésre, mesterképzésre és egységes, osztatlan képzésre felvettek számára vonatkozó adatokat szakok szerinti megoszlásban,
 - e) az államilag támogatott egészségügyi felsőfokú szakirányú szakképzésben részt vevők – ideértve a szakképzésüket 2010. január 1-jét megelőzően megkezdőket is – 116/A. § (5) bekezdése szerinti adatait, a szakvizsgát tett személyek 117. § (6) bekezdés a) és d) pontja szerinti adatait,
 - f) a költségtérítéses egészségügyi felsőfokú szakirányú szakképzésre felvettek természetes személyazonosító adatait és működési nyilvántartási számát, szakirányát, a képzés teljesítésére vonatkozó adatait, valamint a képzés ideje alatt foglalkoztató munkáltató nevét,
@@ -2059,7 +2175,7 @@ a (3) bekezdésben meghatározott módon kezeli, feldolgozza és azok alapján e
 - c) egészségügyi szakmai továbbképzés,
 - d) egészségügyi szakirányú szakmai továbbképzés.
 
-116. §
+#### 116. §
 
 116/A. § (1) Az egészségügyi felsőfokú szakirányú szakmai képzésben az vehet részt, aki
 
@@ -2144,14 +2260,20 @@ a változás bekövetkezésétől számított 15 napon belül köteles bejelente
 
 (3) Az egészségügyi szakirányú szakmai továbbképzésre az vehető fel, aki
 
-- a) a szakképzésről szóló törvény alapján egészségügyi szakképesítéssel, valamint egészségügyi főiskolai végzettséggel vagy felsőoktatási intézményben, orvos- és egészségtudományi képzési terület alapképzési szakán vagy ciklusokra bontott, osztott képzés mesterképzési szakán szerzett szakképzettséggel, vagy
+- a) az Szkt. alapján egészségügyi szakképesítéssel, valamint egészségügyi főiskolai végzettséggel vagy felsőoktatási intézményben, orvos- és egészségtudományi képzési terület alapképzési szakán vagy ciklusokra bontott, osztott képzés mesterképzési szakán szerzett szakképzettséggel, vagy
 - b) orvos- és egészségtudományi képzési terület egységes osztatlan mesterképzési szakán szerzett szakképzettséggel vagy egészségügyi felsőfokú szakirányú szakképesítéssel rendelkezik, és megfelel az egészségügyi szakirányú szakmai továbbképzésről szóló jogszabályokban meghatározott részvételi követelményeknek.
 
 (4)
 
 (5) Az egészségügyi szakirányú szakmai továbbképzés vizsgával zárul, amelynek sikeres letételéről az egészségügyi államigazgatási szerv egészségügyi szakmai tevékenység végzésére jogosító tanúsítványt állít ki.
 
-117. § (1)–(4)
+117. § (1)
+
+(2)
+
+(3)
+
+(4)
 
 (5) Az egészségügyi államigazgatási szerv elektronikusan és papír alapon egyaránt nyilvántartást vezet az egészségügyi felsőfokú szakirányú szakképesítést szerzett személyekről.
 
@@ -2265,7 +2387,9 @@ a változás bekövetkezésétől számított 15 napon belül köteles bejelente
 
 (3) Az (1) bekezdésben foglaltaknak való megfelelést az irányítási rendszerek tanúsítására jogosult szervezet – miniszteri rendeletben meghatározott időtartamra – tanúsító okirat kiadásával igazolja.
 
-### VI. Fejezet — AZ EGÉSZSÉGÜGYI DOLGOZÓK JOGAIÉS KÖTELEZETTSÉGEI
+### VI. Fejezet — AZ EGÉSZSÉGÜGYI DOLGOZÓK JOGAI
+
+ÉS KÖTELEZETTSÉGEI
 
 ### Az egészségügyi dolgozók ellátási kötelezettsége
 
@@ -2293,7 +2417,7 @@ köteles a beteg vizsgálatáról és kezeléséről más orvos útján gondosko
 
 (3)
 
-128. §
+#### 128. §
 
 ### Vizsgálati és terápiás módszerek megválasztása
 
@@ -2445,7 +2569,13 @@ feltéve, hogy a beteget más orvoshoz irányítja.
 
 (2) Az (1) bekezdés szerint létrehozott helyi érdekképviseleti szervek országos érdekképviseleti szervet hozhatnak létre.
 
-140/B–140/E. §
+#### 140/B. §
+
+#### 140/C. §
+
+#### 140/D. §
+
+#### 140/E. §
 
 ### VII. Fejezet — AZ ÁLLAM FELELŐSSÉGE A LAKOSSÁG EGÉSZSÉGI ÁLLAPOTÁÉRT, AZ EGÉSZSÉGÜGY SZERVEZÉSE ÉS IRÁNYÍTÁSA
 
@@ -2576,7 +2706,7 @@ költségének fedezetét.
 
 (4) A szakmai tervet meg kell küldeni a térségi egészségszervezésért felelős államigazgatási szervnek.
 
-146/B. §
+#### 146/B. §
 
 ### A Kormány feladatai
 
@@ -2618,17 +2748,17 @@ költségének fedezetét.
 
 (5) A Tanács szükség szerint, de évente legalább két ülést tart. A Tanács tagjai közül – a tagok szótöbbséggel – elnököt választanak, aki összehívja a Tanács ülését. A titkári feladatokat a térségi egészségszervezési központ képviselője látja el.
 
-149. §
+#### 149. §
 
-149/A. §
+#### 149/A. §
 
-149/B. §
+#### 149/B. §
 
-149/C. §
+#### 149/C. §
 
-149/D. §
+#### 149/D. §
 
-149/E. §
+#### 149/E. §
 
 ### A miniszter feladatai
 
@@ -2699,7 +2829,9 @@ költségének fedezetét.
 
 ### A helyi önkormányzatok feladatai
 
-152. § (1)–(2)
+152. § (1)
+
+(2)
 
 (3) A helyi önkormányzat az egészségügyi szakellátási intézményműködtetési kötelezettségének részeként gondoskodik
 
@@ -2752,8 +2884,8 @@ költségének fedezetét.
 - a) az egészségügyi intézmény szakmai felügyelete,
 - b) az egészségügyi intézmény költségvetési irányítása, így az alapítói jogok, a létesítés, az átalakítás, illetve a megszüntetés gyakorlása,
 - c) az intézmény költségvetésével kapcsolatos, külön jogszabályban meghatározott, az irányító szerv jogkörébe tartozó jogok gyakorlása,
-- d) az intézmény vezetője tekintetében a vezetői megbízás adása, a vezetői megbízás visszavonása vagy – költségvetési szerv esetében, ha a vezetővel a Munka Törvénykönyve vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával munkaviszonyt kell létesíteni – a munkaviszony létesítése és megszüntetése, valamint az egyéb munkáltatói jogok gyakorlása,
-- e) az intézmény gazdasági vezetője tekintetében a vezetői megbízás adása, a vezetői megbízás visszavonása vagy – költségvetési szerv esetében, ha a vezetővel a Munka Törvénykönyve vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával munkaviszonyt kell létesíteni – a munkaviszony létesítése és megszüntetése, valamint a díjazás megállapítása,
+- d) az intézmény vezetője tekintetében a vezetői megbízás adása, a vezetői megbízás visszavonása vagy – költségvetési szerv esetében, ha a vezetővel az Mt. vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával munkaviszonyt kell létesíteni – a munkaviszony létesítése és megszüntetése, valamint az egyéb munkáltatói jogok gyakorlása,
+- e) az intézmény gazdasági vezetője tekintetében a vezetői megbízás adása, a vezetői megbízás visszavonása vagy – költségvetési szerv esetében, ha a vezetővel az Mt. vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával munkaviszonyt kell létesíteni – a munkaviszony létesítése és megszüntetése, valamint a díjazás megállapítása,
 - f) az intézmény működését szabályozó dokumentumok (pl. szervezeti és működési szabályzat, házirend, szakmai program, munkaterv) jóváhagyása,
 - g) az intézmény működésének szakmai, illetve költségvetési ellenőrzése,
 - h) a törvényben vagy kormányrendeletben a fenntartó részére meghatározott egyéb szakmai feladatok ellátása (szakmai fenntartói jogok).
@@ -2890,7 +3022,7 @@ fenntartására és irányítására.
 
 (7) A kórházi etikai bizottság legalább öt, legfeljebb tizenegy tagú testület. Tagjait az egészségügyi intézmény vezetése kéri fel azzal, hogy a bizottság összetétele biztosítsa a bizottság elé kerülő ügyek sokoldalú (orvosi, pszichológiai, jogi, vallási stb.) megítélését.
 
-156/A. §
+#### 156/A. §
 
 ### A honvédelmi egészségügyi szolgáltató irányítása alá tartozó, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltatók irányítására vonatkozó rendelkezések
 
@@ -2945,17 +3077,21 @@ gyakorolja azzal, hogy a munkáltatói jogok gyakorlása átruházható.
 
 ruházhatók át.
 
-156/C. §
+#### 156/C. §
 
-156/D. §
+#### 156/D. §
 
-156/E. §
+#### 156/E. §
 
-156/F. §
+#### 156/F. §
 
-156/G. §
+#### 156/G. §
 
-156/H–156/J. §
+#### 156/H. §
+
+#### 156/I. §
+
+#### 156/J. §
 
 ### VIII. Fejezet — AZ EMBEREN VÉGZETT ORVOSTUDOMÁNYI KUTATÁSOK
 
@@ -3054,7 +3190,9 @@ sérelemdíjat, valamint – a halállal, megrokkanással, illetve egészségká
 
 (6) Az (1) bekezdés alkalmazásában eltartott hozzátartozón azt a személyt kell érteni, akinek a tartásáról a sérelmet, illetve vagyoni kárt szenvedett személy jogszabály vagy szerződés alapján gondoskodni köteles.
 
-164/A. § (1) A jogszabály szerinti beavatkozással nem járó vizsgálat a 157. § és a 158. §, a 159. § (2) bekezdése, a 161. § (1) és (2) bekezdése, a 162. és 163. §, továbbá a 164. § (1) bekezdése alapján végezhető, azzal az eltéréssel, hogy az orvostechnikai eszközzel végzett, jogszabályban meghatározott beavatkozással nem járó vizsgálat az(EU) 2017/745 rendelet szerinti illetékes hatóságként kijelölt szerv részére – az ETT bizottságának a szakmai-etikai szakkérdésekben kiadott, az (EU) 2017/745 rendelet 62. cikk (4) bekezdés b) pontja szerinti szakvéleményének birtokában – megtett bejelentés alapján végezhető. Utólagos, beavatkozással nem járó vizsgálat esetén a kutatási alany tájékoztatására és a vizsgálatba való beleegyezésére vonatkozóan az egészségügyért felelős miniszter eltérő szabályokat határozhat meg.
+164/A. § (1) A jogszabály szerinti beavatkozással nem járó vizsgálat a 157. § és a 158. §, a 159. § (2) bekezdése, a 161. § (1) és (2) bekezdése, a 162. és 163. §, továbbá a 164. § (1) bekezdése alapján végezhető, azzal az eltéréssel, hogy az orvostechnikai eszközzel végzett, jogszabályban meghatározott beavatkozással nem járó vizsgálat az
+
+(EU) 2017/745 rendelet szerinti illetékes hatóságként kijelölt szerv részére – az ETT bizottságának a szakmai-etikai szakkérdésekben kiadott, az (EU) 2017/745 rendelet 62. cikk (4) bekezdés b) pontja szerinti szakvéleményének birtokában – megtett bejelentés alapján végezhető. Utólagos, beavatkozással nem járó vizsgálat esetén a kutatási alany tájékoztatására és a vizsgálatba való beleegyezésére vonatkozóan az egészségügyért felelős miniszter eltérő szabályokat határozhat meg.
 
 (2) A (3), (5) és (10) bekezdésben nem említett beavatkozással nem járó vizsgálat esetében a szakmai-etikai engedélyről, vélemény kiadásáról az emberen végzett orvostudományi kutatásokról szóló kormányrendelet szerinti kutatás-etikai bizottság a kérelem megérkezését követő naptól számított negyvenöt napon belül dönt. A döntés ellen fellebbezésnek van helye, a másodfokú eljárást az ETT elnöksége folytatja le.
 
@@ -3087,7 +3225,11 @@ sérelemdíjat, valamint – a halállal, megrokkanással, illetve egészségká
 
 (2) A VIII. Fejezet szerinti kutatásengedélyezési eljárásban a hiányzó bizonyíték az ügyfél nyilatkozatával nem pótolható.
 
-### IX. Fejezet — AZ EMBERI REPRODUKCIÓRA IRÁNYULÓ KÜLÖNLEGES ELJÁRÁSOK, AZ EMBRIÓKKALÉS IVARSEJTEKKEL VÉGZETT KUTATÁSOK,A MŰVI MEDDŐVÉTÉTEL
+### IX. Fejezet — AZ EMBERI REPRODUKCIÓRA IRÁNYULÓ KÜLÖNLEGES ELJÁRÁSOK, AZ EMBRIÓKKAL
+
+ÉS IVARSEJTEKKEL VÉGZETT KUTATÁSOK,
+
+A MŰVI MEDDŐVÉTÉTEL
 
 165. § E fejezet alkalmazásában
 
@@ -3096,7 +3238,9 @@ sérelemdíjat, valamint – a halállal, megrokkanással, illetve egészségká
 - c) egyedülállóvá vált nő: az a nő, akinek házastársi (élettársi) kapcsolata a reprodukciós eljárás megkezdését követően szűnt meg,
 - d) egyedülálló nő: az a nagykorú nő, aki a reprodukciós eljárás megkezdésekor nem áll házastársi, élettársi kapcsolatban.
 
-### Az emberi reprodukcióra irányulókülönleges eljárások általános feltételei
+### Az emberi reprodukcióra irányuló
+
+különleges eljárások általános feltételei
 
 166. § (1) Emberi reprodukcióra irányuló különleges eljárásként (a továbbiakban: reprodukciós eljárás)
 
@@ -3307,7 +3451,7 @@ végezhető kutatás. Az eljárásban a 186. § szerinti Humán Reprodukciós Bi
 
 183. § Az embriókkal vagy ivarsejtekkel végezhető kutatások, vizsgálatok és beavatkozások engedélyezésével kapcsolatos közigazgatási perre a Fővárosi Törvényszék kizárólagosan illetékes. A bíróság a döntést nem változtathatja meg.
 
-184. §
+#### 184. §
 
 ### Embriók, magzatok számának csökkentése többes terhességben
 
@@ -3403,7 +3547,9 @@ személynél végezhető el.
 
 (5) A bíróság határozata ellen annak közlésétől számított tizenöt napon belül terjeszthető elő fellebbezés. A határozat ellen felülvizsgálatnak nincs helye.
 
-### X. Fejezet — PSZICHIÁTRIAI BETEGEK GYÓGYKEZELÉSEÉS GONDOZÁSA
+### X. Fejezet — PSZICHIÁTRIAI BETEGEK GYÓGYKEZELÉSE
+
+ÉS GONDOZÁSA
 
 188. § E fejezet alkalmazásában
 
@@ -3412,7 +3558,9 @@ személynél végezhető el.
 - c) közvetlen veszélyeztető magatartás: a beteg – akut mentális zavara következtében – saját vagy mások életére, testi épségére, egészségére közvetlen és súlyos veszélyt jelent, és az azonnali kezelés hiánya állapotának további romlását eredményezné, amely a 196. § b) pontja szerinti azonnali intézeti gyógykezeléssel hárítható el;
 - d) pszichiátriai beteg: az a beteg, akinél a kezelőorvos a Betegségek Nemzetközi Osztályozása X. Revíziója szerinti Mentális és Viselkedészavar (F00-F99), illetve szándékos önártalom (X60-X84) diagnózisát állítja fel.
 
-### 1. CÍM — Pszichiátriai betegek jogaira vonatkozókülönös szabályok
+### 1. CÍM — Pszichiátriai betegek jogaira vonatkozó
+
+különös szabályok
 
 189. § (1) A pszichiátriai beteg személyiségi jogait egészségügyi ellátása során – helyzetére való tekintettel – fokozott védelemben kell részesíteni.
 
@@ -3598,7 +3746,9 @@ van helye.
 
 202. § (1) E fejezet alkalmazásában
 
-- a)–c)
+- a)
+- b)
+- c)
 - d) szerv- és szövetátültetés: szerv és szövet eltávolítása emberi testből, valamint annak más élő személy testébe történő beültetése az emberi test bizonyos funkcióinak helyreállítása céljából;
 - e) donor: az a személy, aki szervet, szövetet adományoz más személybe való átültetés céljából, illetve akinek testéből halála után szervet vagy szövetet távolítanak el más személy testébe történő átültetés céljából;
 - f) recipiens: az a személy, akinek testébe más személyből eltávolított szervet, illetve szövetet ültetnek át gyógykezelés céljából;
@@ -3960,7 +4110,7 @@ kezeli.
 
 (2) Egészségügyi válsághelyzet idején az egészségügyi ellátórendszerre, az egészségügyi szolgáltatás szakmai követelményeire, valamint az egészségügyi dolgozók jogaira és kötelezettségeire előírt rendelkezéseket az e fejezetben, továbbá az egészségügyi válsághelyzet idején alkalmazandó jogszabályokban foglalt eltérésekkel kell alkalmazni.
 
-(3) Egészségügyi válsághelyzetben – a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók kivételével – bármely egészségügyi dolgozó – ide nem értve a szakképzésről szóló 2019. évi LXXX. törvény 83. §-ában meghatározott szakképzési munkaszerződéssel foglalkoztatott tanulót és képzésben részt vevő személyt – más egészségügyi tevékenység ellátására alapellátást, járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó egészségügyi intézménybe vagy időszakosan működő gyógyintézetbe kirendelhető. Az egészségügyi dolgozó kirendeléséről az egészségügyi államigazgatási szerv, több megye érintettsége esetén a 232/B. § (1) bekezdésében meghatározott Operatív Törzs vagy a Kormány rendeletében kijelölt más szerv dönt.
+(3) Egészségügyi válsághelyzetben – a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók kivételével – bármely egészségügyi dolgozó – ide nem értve az Szkt. 83. §-ában meghatározott szakképzési munkaszerződéssel foglalkoztatott tanulót és képzésben részt vevő személyt – más egészségügyi tevékenység ellátására alapellátást, járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó egészségügyi intézménybe vagy időszakosan működő gyógyintézetbe kirendelhető. Az egészségügyi dolgozó kirendeléséről az egészségügyi államigazgatási szerv, több megye érintettsége esetén a 232/B. § (1) bekezdésében meghatározott Operatív Törzs vagy a Kormány rendeletében kijelölt más szerv dönt.
 
 (3a) Az Operatív Törzs (3) bekezdés szerinti döntése elleni közigazgatási perben nincs helye azonnali jogvédelemnek.
 
@@ -4142,6 +4292,8 @@ részére – kérésükre – hozzáférést biztosít, ha a megkereső igazolj
 
 (7) Az ügyeleti ellátásra irányuló szerződésben meghatározott szolgáltatót a jogszabályok és a (6) bekezdés szerinti szerződés alapján járó díjazás abban az időtartamban is megilleti, amíg helyette az állami mentőszolgálat látja el az ügyeleti ellátást. Az ügyeleti ellátásra irányuló szerződésben meghatározott szolgáltató díjazásának havi mértéke megegyezik azzal az összeggel, amely arra a teljes hónapra jár számára, amikor utoljára ügyeleti ellátást nyújtott vagy érvényes szerződés alapján először nyújtott volna.
 
+(8) A (4)–(7) bekezdés az egészségügyi válsághelyzet vagy járványügyi készültség megszűnése esetén a megszűnést követő hat hónapig (a továbbiakban: zárónap) is alkalmazható. Az (5) bekezdés szerinti megállapodás – ha a települési önkormányzat vagy az állami mentőszolgálat ennél rövidebb határidőben nem állapodik meg – a zárónapig marad hatályban.
+
 232/E. § (1) Egészségügyi válsághelyzet idején a 231. § (2) bekezdése szerinti beszerzéseken kívül a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 5–7. §-a szerinti további ajánlatkérő jogosult a 228. § (2) bekezdése szerinti körülmény kezelésével közvetlenül összefüggő vagy az egészségügyi válsághelyzetben a védekezést irányító állami szervek, védekezést irányító csoportok hatékony működését szolgáló beszerzését (e § alkalmazásában a továbbiakban: beszerzés) a miniszterelnök egyedi mentesítése alapján a közbeszerzési és beszerzési szabályoktól eltérő módon is megvalósítani.
 
 (2) A beszerzés iránti mentesítési kérelemről a miniszterelnök soron kívül dönt. A miniszterelnök a Kormány másik tagjára delegálhatja a beszerzés iránti mentesítési kérelemről való döntési jogkörét.
@@ -4180,13 +4332,27 @@ dönt.
 
 (5) Az (1) és (3) bekezdés szerinti döntést a rendelkezésre álló egészségügyi készlet vizsgálata alapján és az állami fenntartású egészségügyi intézmények (a továbbiakban: egészségügyi intézmény) orvostechnikai eszközökkel, védőeszközökkel való ellátásának elsőbbségét figyelembe véve kell meghozni.
 
+(6) Az egészségügyi válsághelyzet fennállása alatt az egészségügyi válsághelyzetre tekintettel beszerzett vagy rendelkezésre tartott, az állam tulajdonában álló orvostechnikai eszközöknek, fertőtlenítőszereknek, gyógyszereknek és egyéni védőeszközöknek az egészségügyi válsághelyzet megszűnését követő értékesítése esetén
+
+- a) a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (1) bekezdése és az állami vagyonról szóló 2007. évi CVI. törvény 35. § (1) bekezdése szerinti versenyeztetés mellőzhető,
+- b) az egészségügyi készlet a megszűnt egészségügyi válsághelyzetet megalapozó járványügyi védekezéssel összefüggő közfeladat ellátására vagy azzal szorosan összefüggő célból, az ahhoz szükséges mértékben térítésmentesen átruházható.
+
+(7) A (6) bekezdés szerinti vagyonelemek tekintetében az egészségügyi készlet, egyéni védőeszköz vagy egyéb orvostechnikai eszköz, gyógyszer, fertőtlenítőszer térítésmentes átruházásáról
+
+- a) egészségügyi szolgáltatói kör és egészségügyi szolgáltatói körön kívüli kiadás esetén a miniszter,
+- b) külföldre történő kiadás esetén a miniszter javaslata alapján a Kormány nyilvános kormányhatározatban
+
+dönt.
+
+(8) A (7) bekezdés szerinti döntést a rendelkezésre álló egészségügyi készlet vizsgálata alapján és az állami fenntartású egészségügyi intézmények orvostechnikai eszközökkel, fertőtlenítőszerekkel, gyógyszerekkel, védőeszközökkel való ellátásának elsőbbségét figyelembe véve kell meghozni.
+
 232/G. § (1) Járványügyi készültség keretében egészségügyi válsághelyzetben a Kormány elrendelheti, hogy a távmunkavégzésre vonatkozó rendelkezéseket az e § szerinti eltérésekkel kell alkalmazni.
 
 (2) A munkavédelemről szóló 1993. évi XCIII. törvény 86/A–86/C. §-át nem kell alkalmazni. Távmunkavégzés esetén a munkáltató tájékoztatja a munkavállalót a munkavégzéshez szükséges, egészséget nem veszélyeztető és biztonságos munkakörülmények szabályairól, és a munkavállaló a munkavégzés helyét ezen munkakörülmények teljesülésére figyelemmel választja meg.
 
-(3) Igazolás nélkül, költségként elszámolható tételnek minősül a munka törvénykönyvéről szóló törvény távmunkavégzésre vonatkozó rendelkezéseinek megfelelően, a munkaszerződésében foglaltak szerint távmunkavégzés keretében munkát végző munkavállalónak, a távmunkavégzéssel összefüggésben költségtérítés címén fizetett összegből a felek által előzetesen meghatározott, de legfeljebb havonta az adóév első napján érvényes havi minimálbér 10 százalékának megfelelő összeg (ha a távmunkavégzés nem érinti az egész hónapot, a havi összegnek a távmunkavégzéssel érintett napokkal arányos része), feltéve, hogy a magánszemély a távmunkavégzéssel összefüggésben a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. számú melléklet I. Jellemzően előforduló költségek cím 24. pont c) és d) alpontja szerint más költséget nem számol el.
+(3) Igazolás nélkül, költségként elszámolható tételnek minősül az Mt. távmunkavégzésre vonatkozó rendelkezéseinek megfelelően, a munkaszerződésében foglaltak szerint távmunkavégzés keretében munkát végző munkavállalónak, a távmunkavégzéssel összefüggésben költségtérítés címén fizetett összegből a felek által előzetesen meghatározott, de legfeljebb havonta az adóév első napján érvényes havi minimálbér 10 százalékának megfelelő összeg (ha a távmunkavégzés nem érinti az egész hónapot, a havi összegnek a távmunkavégzéssel érintett napokkal arányos része), feltéve, hogy a magánszemély a távmunkavégzéssel összefüggésben a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. számú melléklet I. Jellemzően előforduló költségek cím 24. pont c) és d) alpontja szerint más költséget nem számol el.
 
-(4) A munkavállaló és a munkáltató a munka törvénykönyvéről szóló 2012. évi I. törvény 196. §-ától megállapodásban eltérhetnek.
+(4) A munkavállaló és a munkáltató az Mt. 196. §-ától megállapodásban eltérhetnek.
 
 232/H. § (1) Járványügyi készültség esetén az állami, önkormányzati, közfeladatot ellátó közérdekű vagyonkezelő alapítványi, illetve nem állami felsőoktatási intézményi fenntartásban vagy tulajdonban működő szervnél, intézménynél vagy gazdasági társaságnál foglalkoztatottak tekintetében – a (16) és (17) bekezdés szerinti kivétellel – az alapvető munkáltatói jogokat gyakorló személy (e § alkalmazásában a továbbiakban: munkáltató) a fenntartó, illetve a tulajdonos jóváhagyásával – az egészség megóvása érdekében, a munkahely és a munkakör sajátosságaira is figyelemmel – a járványügyi készültség bevezetésének alapjául szolgáló járványt okozó kórokozó elleni – Magyarországon alkalmazott – védőoltást (e § alkalmazásában a továbbiakban: védőoltás) a munkavégzés feltételeként állapíthatja meg, kivéve, ha a foglalkoztatott a védőoltás alól az (5) bekezdés szerint mentesül.
 
@@ -4250,7 +4416,9 @@ dönt.
 
 (3) Az egészségügyi államigazgatási szerv a szakértői tevékenység végzésére jogosult, (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza a szakértői tevékenység végzésére jogosult személy természetes személyazonosító adatait. A nyilvántartásból kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
-(4)–(5)
+(4)
+
+(5)
 
 235. § (1) Az egészségügyi szakértő a tevékenységét kirendelés, jogszabályban előírt feladat vagy megbízás keretében végzi.
 
@@ -4305,7 +4473,9 @@ elnevezés használatát engedélyezték.
 
 (2) A gyógyhely természetes gyógytényezőinek megóvása érdekében védőövezet jelölhető ki.
 
-### A gyógytényezőkkel, fürdő- és klímagyógyintézetekkelés gyógyhelyekkel kapcsolatos engedélyek módosítása, visszavonása
+### A gyógytényezőkkel, fürdő- és klímagyógyintézetekkel
+
+és gyógyhelyekkel kapcsolatos engedélyek módosítása, visszavonása
 
 242. § (1) A gyógytényezőkkel, fürdő- és klímagyógyintézetekkel, valamint a gyógyhelyekkel kapcsolatban kiadott bármely engedély és hozzájárulás egészségügyi érdekből módosítható, visszavonható vagy az engedély vagy hozzájárulás további fenntartása egészségügyi érdekből szükséges intézkedések megtételéhez köthető.
 
@@ -4319,7 +4489,7 @@ elnevezés használatát engedélyezték.
 
 (4) A (3) bekezdés szerinti nyilvántartás a (3) bekezdés a) és c) pontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
-242/A. §
+#### 242/A. §
 
 ### XVII. Fejezet — NEMZETKÖZI RENDELKEZÉSEK
 
@@ -4378,7 +4548,9 @@ céljából lehet külföldre, illetve külföldről Magyarország területére 
 
 (3) Az a személy, aki a működési nyilvántartásban az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi LXXXI. törvény (a továbbiakban: Tv.) hatálybalépését megelőző napon szereplő nevétől eltérő, e törvény szerinti nevet kíván használni az egészségügyi tevékenység gyakorlása során, a Tv. hatálybalépésétől számított 60 napon belül értesítenie kell a használni kívánt névről a működési nyilvántartást vezető szervet.
 
-(4)–(5)
+(4)
+
+(5)
 
 (6) Az R. szerinti, a szakképzéssel összefüggő támogatások folyósításának feltétele, hogy a felsőoktatási intézmények – a (4) bekezdés szerinti időpontot követően – havonta elektronikus úton tájékoztatást adjanak az egészségügyi államigazgatási szervnek a szakorvosjelöltnek a 116/A. § (5) bekezdés d) pontja szerinti adatairól.
 
@@ -4422,7 +4594,9 @@ amelyről az átadó és az átvevő szolgáltatót valamint az egészségügyi 
 
 (20) Ha a tulajdonos azon egészségügyi szolgáltatót, amely esetében a reprodukciós eljárás végzésére jogosító működési engedély a (9) bekezdés alapján hatályát veszti, az állam javára 2022. január 31. napjáig felajánlja megvásárlásra, legfeljebb az egészségügyi szolgáltató 2020. december 31. fordulónapi, független szakértő által megállapított piaci értéke szerinti vételárra jogosult, amennyiben a felajánlás elfogadásáról a magyar állam nevében a Kormány dönt.
 
-244/B. § (1) E törvénynek a Módtv2.-vel megállapított, és módosított 158. § (3a) bekezdését, 159. § (1) és (7) bekezdését, 160/A. §-át, 164/A. § (1) és (5) bekezdését és 164/B. §-át, valamint az e törvény felhatalmazása alapján az orvostudományi kutatásokra és orvostechnikai eszközökkel végzett klinikai vizsgálatokra vonatkozó jogszabályoknak az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet ésaz 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet alkalmazásának megkezdésére figyelemmel megállapított, illetve módosított rendelkezéseit – az (EU) 2017/745 rendelet 120. cikk (11) bekezdésére figyelemmel – azon
+244/B. § (1) E törvénynek a Módtv2.-vel megállapított, és módosított 158. § (3a) bekezdését, 159. § (1) és (7) bekezdését, 160/A. §-át, 164/A. § (1) és (5) bekezdését és 164/B. §-át, valamint az e törvény felhatalmazása alapján az orvostudományi kutatásokra és orvostechnikai eszközökkel végzett klinikai vizsgálatokra vonatkozó jogszabályoknak az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és
+
+az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet alkalmazásának megkezdésére figyelemmel megállapított, illetve módosított rendelkezéseit – az (EU) 2017/745 rendelet 120. cikk (11) bekezdésére figyelemmel – azon
 
 - a) orvostechnikai eszközzel végzett klinikai vizsgálatokra kell alkalmazni, amelyek engedélyezése iránt a kérelmet a Módtv2. hatálybalépését követően nyújtották be,
 - b) orvostechnikai eszközzel végzett, beavatkozással nem járó vizsgálatokra kell alkalmazni, amelyeket a Módtv2. hatálybalépését követően jelentettek be.
@@ -4431,11 +4605,51 @@ amelyről az átadó és az átvevő szolgáltatót valamint az egészségügyi 
 
 (3) A 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló 2015. október 2-i (EU) 2016/161 felhatalmazáson alapuló bizottsági rendelet előírásait – Európai Unió kötelező jogi aktusa vagy jogszabály eltérő rendelkezése hiányában – valamennyi, e törvény szerinti egészségügyi szolgáltatónak be kell tartania.
 
-244/C. § (1) A honvédelemért felelős miniszter irányítása alá tartozó, egészségügyi szolgáltatónak minősülő Magyar Honvédség Egészségügyi Központ honvédelmi szervezetből, 2023. január 1. napjával kiválással jön létre a miniszter irányítása alatt egy új egészségügyi szolgáltató, amely jogutódként ellátja a Magyar Honvédség Egészségügyi Központ egészségügyi szolgáltatóként végzett feladatait. Az új egészségügyi szolgáltató létrehozásáról a miniszter és a honvédelemért felelős miniszter együttesen gondoskodik.
+244/C. § (1) A honvédelemért felelős miniszter irányítása alá tartozó, egészségügyi szolgáltatónak minősülő Magyar Honvédség Egészségügyi Központból, 2023. január 1. napjával kiválással jön létre a miniszter irányítása alatt egy új egészségügyi szolgáltató (e § alkalmazásában a továbbiakban: új egészségügyi szolgáltató), amely jogutódként ellátja a Magyar Honvédség Egészségügyi Központ egészségügyi szolgáltatóként végzett, egyes feladatait. Az új egészségügyi szolgáltató létrehozásáról a miniszter gondoskodik. Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) 1. § (2) bekezdésétől eltérően, az Eszjtv.-t az új egészségügyi szolgáltatóra 2023. január 1-jétől kell alkalmazni.
 
-(2) Ha az egészségügyi szolgáltatási feladatokkal összefüggő jogutódlás során az érintett foglalkoztatott vonatkozásában jogviszonyváltásra kerül sor, úgy az átvevő munkáltatónál létesülő jogviszony alapján a foglalkoztatott illetménye, nem lehet alacsonyabb mértékű, mint az átadást megelőzően irányadó illetményének és a jogszabály alapján járó illetménypótlékainak együttes összege, kivéve, ha valamely speciális foglalkoztatásra vonatkozó jogszabály szerint járó illetménypótlék megállapításának alapjául szolgáló körülmény az új jogviszony megkötését követően már nem áll fenn.
+(2) A honvédelemért felelős miniszter 2022. december 15. napjáig határozatban megállapítja azon egészségügyi munkakörű katonák és honvédelmi alkalmazottak által – az (1) bekezdés szerinti kiválást megelőzően – betöltött beosztásokat és munkaköröket, amelyek szükségesek a Magyar Honvédség egészségügyi feladatai ellátásához.
 
-244/C. §
+(3) 2023. január 1-jével, az új egészségügyi szolgáltatónál létrejövő egészségügyi szolgálati jogviszonnyá alakul át annak a honvédelmi alkalmazottnak a honvédelmi alkalmazotti jogviszonya, aki 2022. december 31-én a 155. § (19) bekezdés b) pontja szerinti honvédelmi egészségügyi szolgáltatónál olyan munkakört tölt be, amely nem tartozik a (2) bekezdés szerint meghatározott munkakörök közé. Az Eszjtv. 1. § (2) bekezdésétől eltérően az érintett személyek jogviszonyára az Eszjtv. rendelkezéseit – e §-ban foglalt eltérésekkel – 2023. január 1-jétől alkalmazni kell.
+
+(4) A jogviszony (3) bekezdés szerinti átalakulására a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény (a továbbiakban: Haj.tv.) 25. §-át – e §-ban foglalt eltérésekkel – kell alkalmazni.
+
+(5) A jogviszony (3) bekezdés szerinti átalakulására nem alkalmazandó a Haj.tv. 25. § (2), (5) és (8) bekezdése.
+
+(6) Az új egészségügyi szolgáltató a (3) bekezdés szerinti érintetteket legkésőbb 2023. január 15-ig a jogviszony átalakulásáról és az új jogviszony tartalmáról egyoldalú jognyilatkozattal tájékoztatja. Ezen egyoldalú jognyilatkozatot az Eszjtv. 2. § (1) bekezdése szerinti egészségügyi szolgálati munkaszerződésnek kell tekinteni. Ha az érintett a (3) bekezdés szerint átalakult egészségügyi szolgálati jogviszonyát nem kívánja fenntartani, arról az egyoldalú jognyilatkozat kézhezvételét követő 5 munkanapon belül írásban nyilatkozhat.
+
+(7) Ha az érintett a (6) bekezdés szerinti határidőn belül akként nyilatkozik írásban, hogy az egészségügyi szolgálati jogviszonyát nem kívánja fenntartani, akkor az egészségügyi szolgálati jogviszonya e törvény alapján a nyilatkozattételt követő első munkanappal megszűnik.
+
+(8) A határozott időre szóló honvédelmi alkalmazotti kinevezés azzal azonos lejáratú, a részmunkaidőre szóló kinevezés azzal azonos részmunkaidőre szóló egészségügyi szolgálati munkaszerződéssé alakul át.
+
+(9) Ha az egészségügyi szolgáltatási feladatokkal összefüggő jogutódlás során az érintett foglalkoztatott vonatkozásában jogviszonyváltásra kerül sor, úgy az átvevő új egészségügyi szolgáltatónál létesülő jogviszony alapján a foglalkoztatott illetménye – az új egészségügyi szolgáltatónál létesült új jogviszonyának fennállásáig – nem lehet alacsonyabb, mint az átadást megelőzően irányadó illetményének és a jogszabály, valamint közjogi szervezetszabályozó eszköz alapján járó rendszeres illetménypótlékainak, illetményelemeinek együttes összege, kivéve, ha valamely speciális foglalkoztatásra vonatkozó jogszabály szerint járó illetménypótlék, illetményelem megállapításának alapjául szolgáló körülmény az új jogviszony létrejöttét követően már nem áll fenn.
+
+(10) A honvédelmi szervezettel 2023. január 1-jét megelőzően honvédelmi alkalmazottként kötött tanulmányi szerződésben a honvédelmi szervezet jogutódja az új egészségügyi szolgáltató.
+
+(11) A (3) bekezdés szerinti átalakulás nem minősül a honvédek jogállásáról szóló 2012. évi CCV. törvény 68/H. § (3) bekezdése szerinti, a honvédségi szervezet érdekkörében felmerült okból történő jogviszony-megszűnésnek.
+
+(12) A (3) bekezdés szerinti átalakulás nem minősül jogviszony megszűnésnek az Mt. 125. §-a alkalmazása szempontjából.
+
+(13) Az e § hatálybalépését megelőzően lakás építéséhez, vásárlásához vállalt állami készfizető kezesség esetén a hitelszerződésben foglaltakat – a (3) bekezdés szerinti jogviszonyváltástól függetlenül – a honvédelmi alkalmazottak jogállásáról szóló törvény szerint kell teljesíteni.
+
+(14) A (3) bekezdés szerint megszűnő honvédelmi alkalmazotti jogviszonyban
+
+- a) a ki nem adott szabadság, rendelkezésre állási és munkavégzési kötelezettség teljesítése alóli egyéb mentesítés nem váltható meg, arra a volt honvédelmi alkalmazott az új jogviszonyban jogosult, azzal, hogy az ilyen szabadság megváltásával kapcsolatos igény elévülésével kapcsolatos kérdésekre az egészségügyi szolgálati jogviszony szabályai az irányadók,
+- b) a 2022. december 31. utáni időszakot érintő munkaidőkeret nem zárható le, és
+- c) az érintett munkáltatók között, valamint a honvédelmi alkalmazott és 2023. január 1-jét megelőző munkáltatója között elszámolás nem történik, a fennmaradó követelések és tartozások az új jogviszonyban érvényesíthetők.
+
+(15) Az új egészségügyi szolgálati jogviszonyban
+
+- a) a honvédelmi alkalmazotti jogviszonyhoz kapcsolódó alkalmasság-vizsgálat, illetve a hatósági erkölcsi bizonyítvány érvényessége továbbra is fennáll,
+- b) továbbfolyik a megszűnt honvédelmi alkalmazotti jogviszonyban kikötött, 2022. december 31. napja utáni időszakot érintő próbaidő, felmentési idő, munkaidőkeret időtartama, megkezdett szabadság, fizetés nélküli szabadság, valamint egyéb, a honvédelmi alkalmazotti jogviszonnyal összefüggő határidő,
+- c) változatlanul hatályos a megszűnt honvédelmi alkalmazotti jogviszonyban tett, 2023. január 1-jét megelőző időszakot érintő kirendelés és egyéb jognyilatkozat, munka irányításával összefüggő jognyilatkozat, a felek által megkötött tanulmányi szerződés, az önként vállalt többletmunkáról szóló és egyéb megállapodás, a vezetői és magasabb vezetői megbízás jogszabály eltérő rendelkezése hiányában.
+
+(16) A megszűnt honvédelmi alkalmazotti jogviszonyban kötött, 2022. december 31. napja után teljesítendő, áthelyezésről szóló háromoldalú megállapodás az új jogviszonyban részes felekre és az átvevő félre is kötelező.
+
+(17) Ha 2023. január 1-jén munkaügyi per fegyelmi elbocsátás tárgyában folyik, a honvédelmi alkalmazotti kereset elbírálásánál az azonnali hatályú felmondás szabályait kell megfelelően alkalmazni.
+
+(18) Az új egészségügyi szolgáltató működéséhez szükséges, 2023. január 1-jén még rendelkezésére nem álló szolgáltatások legkésőbb 2023. június 30. napjáig honvédelmi szervezet közreműködésével biztosíthatók. A felmerült költségeket az új egészségügyi szolgáltató teljes egészében megtéríti a honvédelmi szervezetnek.
+
+#### 244/C. §
 
 244/D. § Ahol e törvény gyermekgondozást segítő ellátást említ, azon gyermekgondozási segélyt kell érteni, ha az ellátásra való jogosultság 2016. január 1-jét megelőzően nyílt meg.
 
@@ -4447,58 +4661,15 @@ amelyről az átadó és az átvevő szolgáltatót valamint az egészségügyi 
 
 244/H. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
-244/I. § (1) Az EESZT működtetője a SARS-CoV-2 vírus terjedésének megállításához szükséges védelmi intézkedések megtétele – így különösen a köznevelési intézmény, illetve a szakképző intézmény vezetőjének tájékoztatása, a rendkívüli szünet elrendelése, valamint a tankötelezettség teljesítéséhez szükséges oktatás megszervezése – céljából napi rendszerességgel, az intézkedés megtételéig – de legfeljebb 48 óráig – az érintettek Társadalombiztosítási Azonosító Jelének összevetése útján – a (2) bekezdés szerinti módon – megismerhetővé teszi
+#### 244/I. §
 
-- a) a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) szerinti, a Kormány által a miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv (a továbbiakban: köznevelési szerv), valamint
-- b) a szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: Szkt.) szerinti szakképzési államigazgatási szerv (a továbbiakban: szakképzési szerv) számára az adat megismerhetővé tételének napján SARS-CoV-2 vírussal fertőzött személyeknek a SARS-CoV-2 vírussal való fertőzöttségének tényére vonatkozó adatát.
+#### 244/J. §
 
-(2) A Társadalombiztosítási Azonosító Jeleket olyan titkosítási módszerrel kell összevetni, amely csak azon érintettek fertőzöttsége ténye megismerhetőségét teszi lehetővé a köznevelési szerv, illetve a szakképzési szerv számára, akikre vonatkozóan
+#### 244/K. §
 
-- a) a köznevelési szerv az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 4. § (1) bekezdés a) pontja szerinti köznevelés információs rendszerében,
-- b) a szakképzési szerv az Szkt. 111. §-a szerinti szakképzés információs rendszerében Társadalombiztosítási Azonosító Jelet kezel.
+#### 244/L. §
 
-244/J. § (1) Az Nkt. 57. § (6) bekezdése szerinti, valamint az Szkt. 128. § (9) bekezdése szerinti rendszernek (a továbbiakban együtt: Rendszer) a SARS-CoV-2 vírus terjedésének megállításához szükséges védelmi intézkedések megtétele céljából alkalmasnak kell lennie arra, hogy a szülő vagy a törvényes képviselő a tanulóval közös háztartásban élő személyek Társadalombiztosítási Azonosító Jelét, telefonszámát és elektronikus levelezési címét – az érintett önkéntes, tájékoztatáson alapuló, az elszámoltathatóság alapelvét figyelembe vevő módon megtett hozzájárulása alapján – rögzíthesse.
-
-(2) Az EESZT működtetője a SARS-CoV-2 vírus terjedésének megállítása érdekében napi rendszerességgel, a (4) bekezdés szerinti intézkedés megtételéig – de legfeljebb 48 óráig – az érintettek Társadalombiztosítási Azonosító Jelének összevetése útján – a (3) bekezdés szerinti módon – megismerhetővé teszi a Rendszer üzemeltetője számára az adat megismerhetővé tételének napján SARS-CoV-2 vírussal fertőzött személyeknek a SARS-CoV-2 vírussal való fertőzöttségének tényére vonatkozó adatát.
-
-(3) A Társadalombiztosítási Azonosító Jeleket olyan titkosítási módszerrel kell összevetni, amely csak azon érintettek fertőzöttsége ténye megismerhetőségét teszi lehetővé a Rendszer üzemeltetője számára, akikre vonatkozóan a szülő vagy törvényes képviselő az (1) bekezdés szerint a tanulóval közös háztartásban élő személyek Társadalombiztosítási Azonosító Jelét a Rendszerben rögzítette.
-
-(4) A Rendszer üzemeltetője az (1) bekezdés szerint rögzített adatokat – ha a (2) bekezdés szerinti összevetés alapján az érintett tekintetében a SARS-CoV-2 vírussal való fertőzöttség tényére vonatkozó adat kimutatható –
-
-- a) a járványügyi intézkedések megtétele céljából továbbítja a járványügyi szerv részére,
-- b) a SARS-CoV-2 vírus terjedésének megállításához szükséges védelmi intézkedések megtétele – így különösen a köznevelési intézmény vagy a szakképző intézmény vezetőjének tájékoztatása, a rendkívüli szünet elrendelése, valamint a tankötelezettség teljesítéséhez szükséges oktatás megszervezése – céljából megismerhetővé teszi a köznevelési, illetve a szakképzési szerv számára, azzal, hogy az adatkezelés során olyan titkosítási módszert kell alkalmazni, hogy az adatkezelésre előírt feltételek teljesüljenek.
-
-244/K. § (1) Járványügyi készültség esetén a SARS-CoV-2 vírus terjedésének megállításához szükséges védelmi intézkedések megtétele – így különösen a köznevelési intézmény, illetve a szakképző intézmény vezetőjének tájékoztatása, a rendkívüli szünet elrendelése, valamint a tankötelezettség teljesítéséhez szükséges oktatás megszervezése – céljából a köznevelési intézmény, valamint a szakképző intézmény a köznevelési szerv, valamint a szakképzési szerv számára – az e szervek által az e célra létrehozott felület alkalmazásával – átadja azon, a köznevelési intézménnyel, illetve a szakképző intézménnyel
-
-- a) a munka törvénykönyvéről szóló 2012. évi I. törvény (az e § alkalmazásában a továbbiakban: Mt.) szerinti munkaviszonyban álló, vagy
-- b) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (az e § alkalmazásában a továbbiakban: Kjt.) szerinti közalkalmazotti jogviszonyban álló személyek Társadalombiztosítási Azonosító Jelét, akik a munkakörükbe tartozó – így a köznevelési intézmény esetében különösen az Nkt. szerinti gazdasági, ügyviteli, műszaki, kisegítő és más – feladatokat a köznevelési intézmény, illetve a szakképző intézmény területén látják el.
-
-(2) Az EESZT működtetője az (1) bekezdés szerinti célból napi rendszerességgel, az intézkedés megtételéig – de legfeljebb 48 óráig – az érintettek Társadalombiztosítási Azonosító Jelének összevetése útján – a (3) bekezdés szerinti módon – megismerhetővé teszi a köznevelési szerv, valamint a szakképzési szerv számára az adat megismerhetővé tételének napján SARS-CoV-2 vírussal fertőzött személyeknek a SARS-CoV-2 vírussal való fertőzöttségének tényére vonatkozó adatát.
-
-(3) A Társadalombiztosítási Azonosító Jeleket olyan titkosítási módszerrel kell összevetni, amely csak azon érintettek fertőzöttsége ténye megismerhetőségét teszi lehetővé a köznevelési szerv, illetve a szakképzési szerv számára, akikre vonatkozóan Társadalombiztosítási Azonosító Jelet a köznevelési intézmény, valamint a szakképzési intézmény a köznevelési szerv, illetve a szakképzési szerv számára az (1) bekezdés szerinti módon és célból átadott.
-
-(4) A köznevelési szerv, valamint a szakképzési szerv az (1) bekezdés szerint átadott adatokat – az (5) bekezdés szerinti kivétellel – a járványügyi készültség megszűnéséig kezeli.
-
-(5) Az (1) bekezdés szerint átvett adatot haladéktalanul törölni kell akkor, ha a köznevelési intézmény, illetve a szakképző intézmény a köznevelési szervet, illetve a szakképzési szervet arról értesíti, hogy az érintett már nem áll vele az Mt. szerinti munkaviszonyban vagy Kjt. szerinti közalkalmazotti jogviszonyban, illetve, ha az érintett a munkakörét a továbbiakban már nem a köznevelési intézmény vagy a szakképző intézmény területén látja el.
-
-244/L. § (1) Az EESZT működtetője a SARS-CoV-2 vírus terjedésének megállításához szükséges védelmi intézkedések megtétele – így különösen a köznevelési intézmény vezetőjének tájékoztatása, a rendkívüli szünet elrendelése, valamint a tankötelezettség teljesítéséhez szükséges oktatás megszervezése – céljából napi rendszerességgel az érintettek Társadalombiztosítási Azonosító Jelének összevetése útján – a (2) bekezdés szerinti módon – megismerhetővé teszi az Nkt. szerinti, a Kormány által a miniszter köznevelési feladatkörébe tartozó egyes feladatainak ellátására kijelölt szerv (a továbbiakban: köznevelési szerv) számára az adat megismerhetővé tételének napján az oltottsággal vagy védettséggel rendelkező személyeknek a SARS-CoV-2 vírus elleni védőoltás tényére vagy a védettségi időtartamra vonatkozó adatát.
-
-(2) A Társadalombiztosítási Azonosító Jeleket olyan titkosítási módszerrel kell összevetni, amely csak azon érintettek védettségének ténye megismerhetőségét teszi lehetővé a köznevelési szerv számára, akikre vonatkozóan a köznevelési szerv az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 4. § (1) bekezdés a) pontja szerinti köznevelés információs rendszerében Társadalombiztosítási Azonosító Jelet kezel.
-
-244/M. § (1) Járványügyi készültség esetén a SARS-CoV-2 vírus terjedésének megállításához szükséges védelmi intézkedések megtétele – így különösen a köznevelési intézmény vezetőjének tájékoztatása, a rendkívüli szünet elrendelése, valamint a tankötelezettség teljesítéséhez szükséges oktatás megszervezése – céljából a köznevelési intézmény a köznevelési szerv számára – az e szervek által az e célra létrehozott felület alkalmazásával – átadja azon, a köznevelési intézménnyel
-
-- a) az Mt. szerinti munkaviszonyban álló, vagy
-- b) a Kjt. szerinti közalkalmazotti jogviszonyban álló
-
-személyek Társadalombiztosítási Azonosító Jelét, akik a munkakörükbe tartozó – különösen az Nkt. szerinti gazdasági, ügyviteli, műszaki, kisegítő és más – feladatokat a köznevelési intézmény területén látják el.
-
-(2) Az EESZT működtetője az (1) bekezdés szerinti célból napi rendszerességgel az érintettek Társadalombiztosítási Azonosító Jelének összevetése útján – a (3) bekezdés szerinti módon – megismerhetővé teszi a köznevelési szerv számára az adat megismerhetővé tételének napján a SARS-CoV-2 vírus elleni védőoltás tényére vagy a védettség időtartamára vonatkozó adatát.
-
-(3) A Társadalombiztosítási Azonosító Jeleket olyan titkosítási módszerrel kell összevetni, amely csak azon érintettek adatainak megismerhetőségét teszi lehetővé a köznevelési szerv számára, akikre vonatkozóan Társadalombiztosítási Azonosító Jelet a köznevelési intézmény a köznevelési szerv számára az (1) bekezdés szerinti módon és célból átadott.
-
-(4) A köznevelési szerv az (1) bekezdés szerint átadott adatokat – az (5) bekezdés szerinti kivétellel – a járványügyi készültség megszűnéséig kezeli.
-
-(5) Az (1) bekezdés szerint átvett adatot haladéktalanul törölni kell akkor, ha a köznevelési intézmény a köznevelési szervet arról értesíti, hogy az érintett már nem áll vele az Mt. szerinti munkaviszonyban vagy Kjt. szerinti közalkalmazotti jogviszonyban, illetve, ha az érintett a munkakörét a továbbiakban már nem a köznevelési intézmény területén látja el.
+#### 244/M. §
 
 245. § (1) E törvény – a (2)–(4) bekezdésekben foglalt kivételekkel – a kihirdetését követő hetedik hónap első napján lép hatályba.
 
@@ -4628,7 +4799,7 @@ rendeletben megállapítsa.
   - gi) az egészségügyi rendszer teljesítményértékelésére vonatkozó részletes szabályokat, a teljesítményértékelés intézményrendszerét, az egyes indikátorok meghatározásának és gyűjtésének, valamint az egészségpolitikai döntéshozatal során az értékelések felhasználásának szabályait,
   - gj) az egészségügyi szolgáltatók akkreditációs felülvizsgálatát végző szervet kijelölje, valamint az egészségügyi szolgáltatók hatósági szakfelügyeletére, illetve a szakmai munka minőségügyi értékelésére vonatkozó szakmai szabályokat, továbbá az egészségügyi szolgáltatók akkreditációjának és tanúsításának követelményeit, feltételeit, az akkreditációs dokumentum és a tanúsító okirat tartalmi és formai követelményeit,
 - h) az egészségügyi szakképesítést szerzett személyek alapnyilvántartására, valamint az egészségügyi dolgozók működési nyilvántartására vonatkozó részletes szabályokat, továbbá a működési nyilvántartásba vételt igazoló hatósági igazolvány kiállítására vonatkozó részletes szabályokat és az alapnyilvántartásba felvehető szakképesítések körét,
-- i) a szakképzésről szóló törvény szerinti szakmai képzés kivételével – az egészségügyi ágazati szakmai képzések tekintetében
+- i) az Szkt. szerinti szakmai képzés kivételével – az egészségügyi ágazati szakmai képzések tekintetében
   - ia) a képzésben való részvételhez szükséges képesítési és szakmai feltételeket,
   - ib) a képzés és a vizsga szakmai tartalmát, a képzés időtartamát, a vizsgáztatásra jogosult szervek meghatározásával, a képzéssel, a vizsgáztatással, a vizsga sikeres letételét tanúsító bizonyítvány, okirat kiállításával, a vizsgáztatás költségeinek meghatározásával összefüggő részletes szabályokat,
   - ic) a képző intézmények személyi és tárgyi feltételeit, a képzőhellyé minősítés részletes szabályait,
