@@ -170,6 +170,7 @@ kell megtenni.
 - b) a rendőrség a bűncselekmények és szabálysértések felderítése céljából,
 - c) a nyomozó hatóság és az ügyészség büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - d) a nemzetbiztonsági szolgálatok jogszabályban meghatározott feladataik ellátásához.
+- e) a hivatásos katasztrófavédelmi szerv a hatósági tevékenysége ellátásához.
 
 (3) Adatigényléssel jogosult átvenni az egyéni vállalkozónak a nyilvános nyilvántartásban nem szereplő adatai közül az egyéni vállalkozó anyja családi és utónevét, születési helyét és idejét és elektronikus elérhetőségét, valamint lakcímét a bíróság, az ügyészség, a közjegyző, a bírósági végrehajtó, a gazdasági vagy szakmai kamara, valamint a közigazgatási szerv közfeladatai, valamint a jogi képviselő jogi képviselettel kapcsolatos feladatai ellátása érdekében.
 
@@ -534,21 +535,113 @@ számítandó.
 
 ### Módosító rendelkezések
 
-#### 40–75. §
+#### 40. §
 
-76. § (1)–(15)
+#### 41. §
 
-(16)
+#### 42. §
 
-#### 77–86. §
+#### 43. §
 
-87. § (1)–(3)
+#### 44. §
+
+#### 45. §
+
+#### 46. §
+
+#### 74. §
+
+#### 75. §
+
+76. § (1)
+
+(2)
+
+(3)
 
 (4)
 
-(5)–(12)
+(5)
 
-#### 88–94. §
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+(12)
+
+(13)
+
+(14)
+
+(15)
+
+(16)
+
+#### 77. §
+
+#### 78. §
+
+#### 79. §
+
+#### 80. §
+
+#### 81. §
+
+#### 82. §
+
+#### 83. §
+
+#### 84. §
+
+#### 85. §
+
+#### 86. §
+
+87. § (1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+(12)
+
+#### 88. §
+
+#### 89. §
+
+#### 90. §
+
+#### 91. §
+
+#### 92. §
+
+#### 93. §
+
+#### 94. §
 
 ### 1. számú melléklet a 2009. évi CXV. törvényhez
 

@@ -262,7 +262,9 @@ foglalkoztatott.
 - c) elkövetheti a jövedéki adóról szóló törvény szerinti szabálytalanságot, illetve megsértheti a jövedéki adóról szóló törvény szerinti kötelezettséget,
 - d) elkövetheti a környezetvédelmi termékdíj-kötelezettségi szabályok megsértését, a fémkereskedő fémkereskedelmi tevékenységével, fémkereskedelmi engedélyköteles anyagok más személy általi értékesítésével, szállításával, fuvarozásával, raktározásával, tárolásával, hasznosításával összefüggő szabályok megsértését, az elektronikus közúti áruforgalom ellenőrző rendszerbe a közúti fuvarozáshoz kapcsolódó bejelentési kötelezettséghez kötődő szabályok megsértését, költségvetési vagy egyéb pénzeszközök, állami támogatások felhasználásával összefüggésben adózási bejelentési, bevallási, megfizetési kötelezettségek, számviteli renddel kapcsolatos kötelezettségek megsértését.
 
-(3)–(4)
+(3)
+
+(4)
 
 (5) A megbízhatósági vizsgálat célja szempontjából érdektelen adatot, valamint az ügyben nem érintett személy adatait a rögzítést követő 3 napon belül törölni kell.
 
@@ -288,7 +290,8 @@ foglalkoztatott.
 
 - a) ellátja az 1. § (2) bekezdés 15. pontjában meghatározott feladatot, amelynek keretében
   - aa) végzi 1. az 1978. évi IV. törvény szerinti terrorcselekmény (1978. évi IV. törvény 261. §), a légijármű, vasúti, vízi, közúti tömegközlekedési vagy tömeges áruszállításra alkalmas jármű hatalomba kerítése (1978. évi IV. törvény 262. §), 2. a terrorcselekmény (Btk. 314–316/A. §), a terrorcselekmény feljelentésének elmulasztása (Btk. 317. §), a terrorizmus finanszírozása (Btk. 318–318/A. §) vagy háborús uszítás (Btk. 331. §), a jármű hatalomba kerítése (Btk. 320. §), 3. az 1978. évi IV. törvény szerinti emberrablás (1978. évi IV. törvény 175/A. §), 4. az emberrablás (Btk. 190. §), az emberrablás feljelentésének elmulasztása (Btk. 191. §), valamint 5. az 1–4. alpontban meghatározott bűncselekménnyel összefüggő más bűncselekmények megelőzését, továbbá a büntetőeljárásról szóló törvényben meghatározottak szerint végzi ezen bűncselekmények felderítését,
-  - ab)–ac)
+  - ab)
+  - ac)
   - ad) megelőzi, felderíti és elhárítja azokat a törekvéseket, amelyek Magyarország területén terrorcselekmény elkövetésére irányulnak, továbbá részt vesz az aa) alpontban foglalt bűncselekmények közvetlen következményeinek elhárításához szükséges, e törvényben meghatározott intézkedések végrehajtásában,
 - b) végzi
   - ba) az a) pont aa) alpontjában meghatározott bűncselekmények megszakítását és az elkövetők elfogását,
@@ -303,6 +306,7 @@ foglalkoztatott.
 e célból együttműködik az Európai Unió tagállamaival és szerveivel, az Észak-atlanti Szerződés Szervezetének szerveivel, illetve a nemzetközi szervezetekkel, valamint a külföldi állam hatóságaival.
 
 - g) a rendészetért felelős miniszter döntése alapján – a hatályos nemzetközi normák betartásával – közreműködik a külföldön megrendezésre kerülő, kiemelt terrorfenyegetettségűnek minősíthető nemzetközi sportrendezvényeken résztvevő magyar sportolók és sportszakemberek személyvédelmében, valamint az általuk külföldön a sportrendezvényeken való részvétel ideje alatt használt létesítmények védelmében és e célból együttműködik az Európai Unió tagállamaival és szerveivel, az érintett nemzetközi szervezetekkel, valamint az érintett külföldi állam hatóságaival.
+- h) a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti, a terrortámadás bekövetkezésével, illetve annak jelentős veszélyével összefüggő védelmi és biztonsági esemény (a továbbiakban: terrorbiztonsági esemény) esetén az azonnali és összehangolt reagálás érdekében – a védelmi és biztonsági igazgatás központi szerve koordinációs tevékenységének a megkezdéséig, a miniszter folyamatos tájékoztatása mellett – elsődleges beavatkozó szervezetként irányítja és koordinálja az eseménykezelésben érintett szerveknek és szervezeteknek a terrorbiztonsági esemény felderítésére, elhárítására, illetve felszámolására irányuló tevékenységét.
 
 (2) A terrorizmust elhárító szerv nyomozó hatósági jogkört nem gyakorol.
 
@@ -1870,7 +1874,7 @@ bűnüldözési adatállományban kezelheti.
 
 (1c) Ha a titkos információgyűjtéssel érintett személyek adatait és a titkos információgyűjtés eredményeként keletkezett adatokat a büntetőeljárásban bizonyítékként használják fel, ideértve a Be. 259. § (3) bekezdése szerinti adatokat is, az adatkezelésre az (1b) bekezdésben foglaltak irányadók.
 
-(2) Az (1)–(1b) bekezdés szerinti adatállományok tekintetében adatfeldolgozóként csak államigazgatási szervvel köthető megbízási szerződés.
+(2) Az (1)–(1b) bekezdés szerinti adatállományok tekintetében adatfeldolgozóként csak államigazgatási szervvel vagy az állam közvetlen vagy közvetett többségi tulajdonában álló gazdasági társasággal köthető megbízási szerződés.
 
 91/B. § Az érintett személyes adataihoz való hozzáférési jogának és a róla kezelt személyes adatok helyesbítésére, törlésére vagy ezen adatok kezelésének korlátozására irányuló jogának az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott korlátozása nem érinti a büntetőeljárásban résztvevőknek a büntetőeljárásról szóló törvényben biztosított jogai gyakorlását.
 
@@ -1889,13 +1893,17 @@ bűnüldözési adatállományban kezelheti.
 
 (2a) A rendőrség a 68. § (2) bekezdése alapján bejegyezett fedőadat esetén jelzés elhelyezését rendelheti el a közhiteles nyilvántartásban és értesítést kérhet a fedőadatra vagy az eredeti adatra vonatkozó adattovábbítási vagy adathozzáférési kérelemről.
 
+(2b) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv e törvény szerint általa folytatott titkos információgyűjtés keretében jelzés elhelyezését rendelheti el a (2) bekezdés szerinti nyilvántartásokban.
+
 (3) A jelzés elrendelésekor a kért intézkedés vagy adatszolgáltatás célját meg kell jelölni. A jelzésben a rendőri szerv az érintett feltartóztatását vagy adatváltozás esetén értesítés adását kérheti. A jelzéssel érintett nyilvántartást kezelő szerv a rendőrség megkeresésében foglaltakat köteles teljesíteni.
+
+(3a) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a (2b) bekezdés szerinti jelzésben az adatváltozásról, illetve az érintett személyre vonatkozó adattovábbítási vagy adathozzáférési kérelemről értesítés adását kérheti, melyet a jelzéssel érintett nyilvántartást kezelő szerv köteles teljesíteni.
 
 (4) A rendőrség a jelzés elhelyezését köteles megszüntetni, illetőleg a megszüntetést kezdeményezni, ha az elhelyezés elrendelésének jogalapja megszűnt, illetőleg a kért intézkedés vagy adatszolgáltatás teljesült.
 
-(5) A jelzés elhelyezésének elrendeléséért és megszüntetéséért, illetve a kért intézkedésért a jelzés elhelyezését kérő rendőri szerv vezetője a felelős.
+(5) A jelzés elhelyezésének elrendeléséért és megszüntetéséért, illetve a kért intézkedésért a jelzés elhelyezését kérő rendőri szerv, illetve a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője a felelős.
 
-(6) Ha a rendőrség más adatállományból bűnüldözési célból adatot vesz át, erről az érintett tájékoztatására – a (2) bekezdés szerinti jelzéselhelyezés kivételével – a 91/B. § rendelkezései az irányadóak. A jelzés elhelyezéséről, annak okáról és a jelzés alapján tett intézkedésről – a rendőrség bűnüldözési feladata teljesítésének biztosítása érdekében – a rendőrség és a jelzést tartalmazó nyilvántartást kezelő szerv az érintettet nem tájékoztathatja. A tájékoztatási korlátozásról a rendőri szerv köteles az adatigényléssel, illetőleg a jelzés elhelyezésével egyidejűleg tájékoztatni az adatszolgáltatót.
+(6) Ha a rendőrség más adatállományból bűnüldözési célból adatot vesz át, erről az érintett tájékoztatására – a (2) bekezdés szerinti jelzéselhelyezés kivételével – a 91/B. § rendelkezései az irányadóak. A jelzés elhelyezéséről, annak okáról és a jelzés alapján tett intézkedésről – a rendőrség bűnüldözési vagy bűnmegelőzési feladata teljesítésének biztosítása érdekében – a rendőrség és a jelzést tartalmazó nyilvántartást kezelő szerv az érintettet, illetve más személyt vagy szervet nem tájékoztathatja. A tájékoztatási korlátozásról a rendőri szerv, illetve a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv köteles az adatigényléssel, illetve a jelzés elhelyezésével egyidejűleg tájékoztatni az adatszolgáltatót.
 
 (7) A Rendőrség a Vízuminformációs Rendszerhez a Büntető Törvénykönyvben meghatározott terrorcselekmény és az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2003. évi CXXX. törvény 1. számú melléklete által meghatározott bűncselekmények megelőzése, felderítése és nyomozása céljából, meghatározott egyedi ügyben betekintés céljából történő hozzáférést kezdeményezhet. A kezdeményezést a vízuminformációs rendszerhez (VIS) a tagállamok kijelölt hatóságai, valamint az Europol számára a terrorcselekmények és egyéb súlyos bűncselekmények megelőzése, felderítése és kivizsgálása érdekében, betekintés céljából történő hozzáférésről szóló, 2008. június 23-i 2008/633/IB tanácsi határozat (a továbbiakban: 2008/633/IB tanácsi határozat) szerint kijelölt nemzeti központi hozzáférési ponthoz kell megtenni.
 
@@ -2280,7 +2288,14 @@ bírálja el.
 
 103. § (1) Ez a törvény — a (2)—(3) bekezdésben foglaltak kivételével — a kihirdetése hónapját követő 6. hónap első napján lép hatályba.
 
-- a)–h)
+- a)
+- b)
+- c)
+- d)
+- e)
+- f)
+- g)
+- h)
 - i)
 
 (2) 1994. május 1-jén

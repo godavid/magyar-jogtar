@@ -135,7 +135,7 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
 - b) ha a vezetői engedély automatikus kiállítása visszautasításra került,
 - c) ha a vezetői engedély automatikus kiállításának ügyfél által elhárítható akadálya van.
 
-(1a)
+(1a) Az ügyfél a vezetői engedély elektronikus pótlása iránti kérelme személyesen, ügyintézői közreműködés nélkül történő benyújtására elektronikus ügyintézési pontot vehet igénybe. A közlekedési igazgatási hatóság ebben az esetben írásban tart kapcsolatot az ügyféllel.
 
 (1b) A nyilvántartó az elektronikus ügyintézési ponton történő személyazonosítás céljából a járművezető engedély-nyilvántartásban szereplő, az azonosításhoz szükséges természetes személyazonosító adatait szolgáltatja.
 
@@ -364,6 +364,8 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 
 (5) Az ideiglenes rendszámtáblák nyilvántartása az (1)–(4a) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcímazonosító adatok és a (2) bekezdés e) pontjában szereplő elektronikus okiratok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
+(6) A közlekedési igazgatási hatóság a közlekedési igazgatási eljárás során az ideiglenes rendszámtáblák nyilvántartásához informatikai adatkapcsolat útján, közvetlen lekérdezéssel, térítésmentesen jogosult megismerni és átvenni az alvázszámmal vagy rendszámmal azonosított jármű 9. § (2) bekezdés a) és b) pontjában meghatározott adatait.
+
 9/E. § (1) Az okirattár a hatósági eljárások nyomonkövethetősége, ellenőrizhetősége érdekében tartalmazza a kérelemre indult és a hivatalból indított eljárások adatlapjainak adatait, valamint az alapiratokat. Az adatlapok és az alapiratok egymással összekapcsolhatók.
 
 (2) Az okirattár a kérelemre indult és a hivatalból indított eljárások adatlapjai tekintetében tartalmazza
@@ -483,7 +485,9 @@ kezeli.
 
 (2) A közlekedési igazgatási hatóság az (1) bekezdésben meghatározott adatokat – az 5. § (1) bekezdés h) és j) pontja alapján hozott végleges hatósági határozattal elrendelt – a vezetési jogosultság szünetelésének lejártától számított egy évig kezeli.
 
-### III. Fejezet — ADATIGÉNYLÉS ÉS ADATSZOLGÁLTATÁSA NYILVÁNTARTÁSBÓL
+### III. Fejezet — ADATIGÉNYLÉS ÉS ADATSZOLGÁLTATÁS
+
+A NYILVÁNTARTÁSBÓL
 
 16. § (1) A nyilvántartásból
 
@@ -511,7 +515,7 @@ kezeli.
 19. § (1) A nyilvántartásból igényelheti(k):
 
 - a) a bíróság, a bírósági végrehajtó, a közjegyző, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, az állami adó- és vámhatóság, a nemzetbiztonsági szolgálatok, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, valamint belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a törvényben meghatározott feladataik ellátásához szükséges adatokat, iratokat;
-- b) a közúti közlekedési ügyekben eljáró hatóságok a külön jogszabályban megjelölt feladataik ellátásához szükséges adatokat;
+- b) a közúti közlekedési ügyekben, valamint a közúti közlekedési igazgatási ügyekben eljáró hatóságok a jogszabályban meghatározott feladataik ellátásához szükséges adatokat és iratokat;
 - c) a rendőrség a közbiztonsági ellenőrzéshez és határrendészeti feladatai ellátásához szükséges adatokat;
 - d) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve a hadkötelesek nyilvántartásához a 8. § (1) bekezdés a) pont aa), ab), af) alpontjában, valamint a b) pont ba) és bc) alpontjában meghatározott adatokat és a járművezető egészségi és pályaalkalmassági adatait, valamint a Honvédség, a rendvédelmi szervek és a Nemzeti Adó- és Vámhivatal vámszerve vagy nyomozó hatósága részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelése céljából a 9. § (1)–(1b) bekezdésében, valamint a 9. § (2) bekezdés a) pontjában meghatározott adatokat;
 - e) a települési önkormányzat jegyzője
@@ -527,7 +531,7 @@ kezeli.
 - k) külföldi bűnüldöző szerv nemzetközi szerződés alapján;
 - l) a térítésmentesen a gépjármű-felelősségbiztosítást ellátó biztosító a biztosítási szerződés megkötéséhez, nyilvántartásához, módosításához, megszüntetéséhez, továbbá a kárrendezési eljáráshoz, valamint a Magyar Biztosítók Szövetsége a Gfbt. 56. § (1) bekezdése szerinti feladatainak ellátásához a 9. § (1) bekezdés a), b) pontjában, d) pont da), db) alpontjában és e) pontjában, a 9. § (1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, a 9/D. § (1) bekezdés a)–b) pontjában, d) pont da)–db) alpontjában, a 9/D. § (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
 - m) az Országgyűlési Őrség a személyvédelmi és létesítménybiztosítási feladatai ellátásához szükséges adatokat;
-- n) a helyi önkormányzat, illetve a várakozásdíj-fizetési kötelezettség teljesítésének ellenőrzésére, a várakozási díj és a pótdíj beszedésére általa megbízott, a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 16/A. §-ában meghatározott szolgáltató a várakozási díj meg nem fizetése esetén a jogszerű parkolás megállapítása érdekében a 8/A. § (1) bekezdés g), h) és k) pontjaiban, valamint a díj és a pótdíj behajtása érdekében a 9. § (1)–(1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, a (3) bekezdésében, a 9/D. § (1) bekezdésében, (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat.
+- n) a helyi önkormányzat, illetve a várakozásdíj-fizetési kötelezettség teljesítésének ellenőrzésére, a várakozási díj és a pótdíj beszedésére általa megbízott, a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 16/A. §-ában meghatározott szolgáltató a várakozási díj meg nem fizetése esetén a jogszerű parkolás megállapítása érdekében a 8/A. § (1) bekezdés g), h) és k) pontjában, valamint a díj és a pótdíj behajtása, és a várakozási hozzájárulás kiadása iránti kérelem elbírálása érdekében a 9. § (1) és (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, a 9/D. § (1) bekezdésében, a 9/D. § (2) bekezdés a)–c) pontjában és a 9/D. § (3) bekezdésében meghatározott adatokat;
 - o) a Központi Statisztikai Hivatal (a továbbiakban: KSH) törvényben meghatározott feladatai ellátásához szükséges statisztikai adatokat és a 9. § (4) bekezdésében meghatározott adatokat. A KSH az átvett adatokat az statisztikai adatelőállítási folyamatban kezeli. A feladat megszűnésekor, így különösen az egyes adatfelvételek lezárását követően az azokhoz kapcsolódóan átvett adatokat a KSH törli;
 - p) az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjfizetés ellenében történő használatának ellenőrzésére, valamint a díjszedésre jogosult szervezetek törvényben meghatározott feladataik ellátásához a 9. § (1) és (1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, (3) bekezdésében, a 9/C. §-ban, a 9/D. § (1) bekezdésében, (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
 - q) az országos közutak kezelői a közúti közlekedésről szóló 1988. évi I. törvény 14/A. §-ában meghatározott feladatuk ellátásához a 9. § (1)–(1a) és (4) bekezdése, valamint a 9/D. § (1) bekezdése szerinti adatokat;
@@ -542,7 +546,7 @@ kezeli.
 (2) A nyilvántartásból adatot igényelhetnek:
 
 - a) a 8. § (1) bekezdés a) pont ac)–ad) alpontjában meghatározott adatok kivételével
-  - aa) a szabálysértési ügyekben eljáró hatóság a szabálysértési eljárás lefolytatásához,
+  - aa)
   - ab) a közúti közlekedés ellenőrzésére jogosult hatóságok a közúti közlekedési ellenőrzéssel kapcsolatos feladataik ellátásához;
 - b) a hivatásos katasztrófavédelmi szerv, a területi védelmi bizottság, a helyi védelmi bizottság és a polgármester törvényben meghatározott védelmi és biztonsági igazgatás központi, területi, helyi és települési feladatai ellátásához a 8. § (1) bekezdés a) pont ac), ad), ag), ah) alpontjában és a 9. § (1) bekezdés c) pontjában, és d) pont dc) alpontjában meghatározott adatok kivételével;
 - c) a közlekedési hatóság a 9. § (1) bekezdés a) és b) pontjában, a 9/A. és 9/B. §-ban, a 9. § (2) bekezdés d) és e) pontjában meghatározott nyilvántartási adatok kivételével
@@ -553,6 +557,9 @@ kezeli.
 - f) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 1. melléklet A) rész 3. pontjában, illetve 10. pontjában meghatározott kockázatok biztosítását – az erre vonatkozó engedély alapján – végző biztosító és a Kártalanítási Számla kezelője díjmentesen a gépjárműre vonatkozó biztosítási ajánlat elbírálása, illetve a kártérítési igények jogosságának megállapítása céljából a járműéletút-adatszolgáltatás igénybevételével a 24. § (3a) bekezdésében foglalt adatokat;
 - g) a vizsgaközpont a pályaalkalmassági, képzési, utánképzési, vizsgáztatási és okmánykiállítási, valamint a vezetői engedély automatikus kiállításával összefüggő feladatainak ellátásához a 8. §-ban meghatározott adatokat ingyenesen;
 - l) a nyilvántartó által megbízott megszemélyesítést végző szervezet a vezetői engedély, törzskönyv és hivatalból kiállításra kerülő forgalmi engedély megszemélyesítéséhez, kiállításához és jogszabályban meghatározott adatok kezeléséhez a nyilvántartásból az okmányra kerülő adatokat ingyenesen.
+- m) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti szolgáltató automatikus információátvétel útján az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 42/B. §-a szerinti ügyfél-átvilágítás céljából térítésmentesen a 8. § (1) bekezdés ac) és ad) pontjában megjelölt adatokat, valamint az engedély típusát és okmányazonosító jelét.
+
+(2a) A nyilvántartásból adatot, iratot igényelhet – a 8. § (1) bekezdés a) pont ac) és ad) alpontjában meghatározott adatok kivételével – a szabálysértési ügyekben eljáró hatóság a szabálysértési eljárás lefolytatásához.
 
 (3) A nyilvántartásból adatot igényelhet:
 
@@ -912,7 +919,13 @@ bűncselekmény miatt büntetőeljárás hatálya alatt áll.
 
 (6) E törvénynek az egyes törvényeknek nyilvántartásokkal és elektronikus ügyintézéssel összefüggő módosításáról szóló 2020. évi CXXI. törvénnyel megállapított 15. § (2) bekezdését a módosítás hatálybalépését megelőzően az okmánytárba beérkezett, még nem selejtezett iratokra is alkalmazni kell.
 
-36–39. §
+#### 36. §
+
+#### 37. §
+
+#### 38. §
+
+#### 39. §
 
 40. § Felhatalmazást kap a Kormány, hogy a mozgásában korlátozott személy parkolási igazolványának kiadásával és nyilvántartásával kapcsolatos részletes eljárási szabályokat meghatározza.
 

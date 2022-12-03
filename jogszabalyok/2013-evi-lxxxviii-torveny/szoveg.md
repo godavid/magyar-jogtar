@@ -118,7 +118,11 @@ a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatás
 
 (6) A körözött személyek nyilvántartásába a (2) bekezdés k) pontjában meghatározott adatokat az eltűntnek nyilvánító rendőri szerv rögzíti.
 
-(7)–(9)
+(7)
+
+(8)
+
+(9)
 
 3/A. § (1) A 3. § (2) bekezdés a) pont aa)–ai) alpontjában meghatározott adatok rögzítését követően a nyilvántartó közvetlen adatkapcsolat útján megkeresi
 
@@ -199,7 +203,9 @@ vonatkozó adatokat,
 
 - a) a körözés visszavonását követő harmadik napig,
 - b) állatok esetén – ha a körözés visszavonására nem került sor – a körözés elrendelésétől számított 20 évig,
-- c) a körözött közokirat érvényességi idejének lejártától számított 10 évig,
+- c) közokiratok tekintetében
+  - ca) a büntetőeljárásban körözött közokirat esetén a bűncselekmény büntethetőségének, a szabálysértési eljárásban körözött közokirat esetén a szabálysértés büntethetőségének elévülési idejéig,
+  - cb) a nem büntetőeljárásban vagy szabálysértési eljárásban körözött közokirat esetén a közokirat érvényességi idejének lejártáig, vagy ha a közokiratnak nincs érvényességi ideje, illetve az bármely okból nem állapítható meg, a körözés elrendelésétől számított 5 évig,
 - d) az a)–c) pontok alá nem tartozó olyan esetben, amikor a körözés elrendelésének oka elvesztés, 5 évig,
 - e) lőfegyver esetén a körözés elrendelésétől számított 90 évig,
 - f) olyan dolog esetén, amely elkobozható, vagy amelyre vagyonelkobzás rendelhető el, a körözés elrendelésétől számított 90 évig
@@ -1051,37 +1057,75 @@ sarkalatosnak minősül.
 
 #### 27. Módosuló jogszabályok
 
-34. § (1)–(11)
+34. § (1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
 
 (12)
 
-(13)–(14)
+(13)
 
-(15)–(17)
+(14)
+
+(15)
+
+(16)
+
+(17)
 
 (18)
 
 (19)
 
-#### 35–36. §
+#### 35. §
 
-#### 37–38. §
+#### 36. §
 
-#### 39–40. §
+#### 37. §
+
+#### 38. §
+
+#### 39. §
+
+#### 40. §
 
 #### 41. §
 
 #### 42. §
 
-#### 43–44. §
+#### 43. §
+
+#### 44. §
 
 #### 45. §
 
 46. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított 2. § (1) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha a nyilvántartó az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig a nyilvántartó vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-47. § (1)–(2)
+47. § (1)
 
-(3)–(4)
+(2)
+
+(3)
+
+(4)
 
 (5) Hatályát veszti
 

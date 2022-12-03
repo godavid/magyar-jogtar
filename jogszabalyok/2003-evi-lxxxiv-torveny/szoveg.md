@@ -106,7 +106,7 @@ terjed ki.
 - d) egészségügyi szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban,
 - e) munkaviszonyban,
 - f) közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban,
-- g) szolgálati jogviszonyban,
+- g) szolgálati jogviszonyban, szolgálati viszonyban,
 - h) egyházi személyként vagy vallási egyesület vallásos szertartást hivatásszerűen végző tagjaként,
 - i) önkéntes segítőként,
 - j) egyéni cég tagjaként.
@@ -621,15 +621,43 @@ részt vehet.
 
 (9) Ez a törvény a szakmai képesítések elismeréséről szóló, 2005. szeptember 7-i 2005/36/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-29. § (1)–(12)
+29. § (1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+(12)
 
 (12a)
 
-(13)–(15)
+(13)
+
+(14)
+
+(15)
 
 (16)
 
-(17)–(18)
+(17)
+
+(18)
 
 (19)
 
