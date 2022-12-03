@@ -167,7 +167,7 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 (1a) Az (1) bekezdés h) és i) pontjában meghatározott hozzátartozókat a diplomata-útlevél kizárólag az Európai Parlament magyarországi képviselőjének mandátumából fakadó tartós külföldi tartózkodás időtartamára, illetve az (1) bekezdés e) pontban megjelölt személy tartós külszolgálatának időtartamára illeti meg.
 
-(2) Kizárólag utazásának időtartamára érvényes diplomata-útlevelet kaphat az a személy is, aki a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke vagy a külpolitikáért felelős miniszter megbízásából diplomáciai küldetéssel utazik külföldre, továbbá az, akinek az útlevéllel történő ellátását rendkívül indokolt esetben az irányítást (felügyeletet) gyakorló miniszter javaslatára a külpolitikáért felelős miniszter engedélyezte.
+(2) Diplomata-útlevelet kaphat az a személy is, aki a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke vagy a külpolitikáért felelős miniszter megbízásából diplomáciai küldetéssel járó feladatot lát el, illetve akinek a diplomata-útlevéllel történő ellátása külpolitikai érdekből indokolt, továbbá az, akinek az útlevéllel történő ellátását rendkívül indokolt esetben az irányítást vagy felügyeletet gyakorló miniszter javaslatára vagy saját hatáskörben a külpolitikáért felelős miniszter engedélyezte. A diplomata-útlevél érvényességi idejét a külpolitikáért felelős miniszter állapítja meg, amely legfeljebb a köztársasági elnök, a miniszterelnök, az Országgyűlés elnöke vagy a külpolitikáért felelős miniszter megbízatása évének letelte végéig terjedhet.
 
 13. § (1) Külügyi szolgálati útlevélre jogosult
 
@@ -180,7 +180,7 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 (1a) Az (1) bekezdés e) és f) pontjában meghatározott hozzátartozókat a külügyi szolgálati útlevél kizárólag az (1) bekezdés a)–d) pontja szerint jogosult személy tartós külszolgálatának időtartamára illeti meg.
 
-(2) Kizárólag utazásának időtartamára érvényes külügyi szolgálati útlevelet kaphat az a személy is, akinek az útlevéllel történő ellátását rendkívül indokolt esetben az irányítást (felügyeletet) gyakorló miniszter javaslatára a külpolitikáért felelős miniszter engedélyezte.
+(2) Külügyi szolgálati útlevelet kaphat az a személy is, aki a külpolitikáért felelős miniszter megbízásából diplomáciai küldetéssel járó feladatot lát el, illetve akinek a külügyi szolgálati útlevéllel történő ellátása külpolitikai érdekből indokolt, továbbá az, akinek az útlevéllel történő ellátását rendkívül indokolt esetben az irányítást vagy felügyeletet gyakorló miniszter javaslatára vagy saját hatáskörben a külpolitikáért felelős miniszter engedélyezte. A külügyi szolgálati útlevél érvényességi idejét a külpolitikáért felelős miniszter állapítja meg, amely a megbízás időtartamára vonatkozó érvényességi idővel állítható ki azzal, hogy a 11. § (1) bekezdésében foglaltak alapján az útlevél érvényessége legfeljebb az irányítást vagy felügyeletet gyakorló miniszter vagy a külpolitikáért felelős miniszter megbízatása évének letelte végéig terjedhet.
 
 14. § (1) Az irányítást (felügyeletet) gyakorló miniszter, ennek hiányában a szerv vagy hivatal vezetője, az Országgyűlési Őrség tekintetében az Országgyűlés elnöke javaslatára szolgálati útlevelet kaphatnak hivatalos célú utazásuk, illetőleg kiküldetésük idejére
 
@@ -224,7 +224,9 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 (5) Külföldre utazási korlátozás esetén az úti okmány visszatartását
 
 - a) az (1) bekezdés a), b) pontjában meghatározott esetben a személyi szabadságot érintő kényszerintézkedést vagy egyéb korlátozást foganatosító vagy annak ellenőrzését végrehajtó szerv,
-- b) az (1) bekezdés c), d) és e) pontjában meghatározott esetben a szabadságvesztést foganatosító büntetés-végrehajtási intézet, a kényszergyógykezelést foganatosító igazságügyi megfigyelő és elmeorvosi intézet, vagy a javítóintézeti nevelést végrehajtó szerv,
+- b) az (1) bekezdés c), d) és e) pontjában meghatározott esetben
+  - ba) a büntetés-végrehajtási jogviszony időtartama alatt, illetve megszűntét követően a külföldre utazási korlátozás fennállásáig a szabadságvesztést foganatosító büntetés-végrehajtási intézet, a kényszergyógykezelést foganatosító igazságügyi megfigyelő és elmeorvosi intézet, vagy a javítóintézeti nevelést végrehajtó szerv,
+  - bb) a büntetés-végrehajtási jogviszony létrejöttét megelőzően az általános hatáskörű útlevélhatóság,
 - c) az (1) bekezdés f) pontjában meghatározott esetben a tiltást elrendelő bíróság,
 - d) külföldi állam által kiállított úti okmány esetében az idegenrendészeti hatóság,
 - e) külügyi szolgálati útlevél és diplomata útlevél esetében a külpolitikáért felelős miniszter
@@ -243,7 +245,7 @@ hajtja végre.
 
 (3) A 16. § (1) bekezdés a)–f) pontjában meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás miatt a bűnügyi nyilvántartásba bejegyzett, illetve törölt külföldre utazási korlátozásról a bűnügyi nyilvántartó szerv automatikus adattovábbítás útján értesíti az útlevélhatóságot, amely az útiokmány-nyilvántartásba történő bejegyzést vagy az abból törlést automatikus úton elvégzi.
 
-16/B. §
+#### 16/B. §
 
 16/C. § (1) Ha az érintett személy külföldi – a (2) és (3) bekezdésben foglaltak figyelembevételével – a bűnügyi nyilvántartási rendszer egyes nyilvántartásai részére adatközlésre kötelezett bíróság, illetve ügyészség az idegenrendészeti hatóságot értesíti a külföldi érintett személy külföldi állam által kiállított úti okmányának visszatartása érdekében.
 
@@ -270,7 +272,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 17. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja, a katonai szolgálatot teljesítő személy, továbbá a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottjának külföldre utazása esetén a rájuk vonatkozó törvények rendelkezéseit is alkalmazni kell.
 
-18. §
+#### 18. §
 
 19. § (1) Az útlevélhatóság a 20. § (1) bekezdés c)–e) pontjában meghatározott esetekben az érvénytelen úti okmányt – ha az nincs az okmány elvételére, visszatartására, bevonására jogosult hatóság, az eljárásban közreműködő szerv vagy az útlevélhatóság birtokában – visszavonja.
 
@@ -361,7 +363,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 (4)
 
-23/A. §
+#### 23/A. §
 
 ### IV/A. Fejezet — TÖRVÉNNYEL KIHIRDETETT NEMZETKÖZI SZERZŐDÉS ALAPJÁN KIÁLLÍTOTT KÖZOKIRATOK
 
@@ -426,7 +428,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 24/A. § (1) Az adatkezelő szerv útiokmány-nyilvántartással összefüggő feladat- és hatáskörében:
 
-- a) felügyeletet gyakorol a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), illetve a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselőjének közreműködői tevékenysége felett,
+- a) felügyeletet gyakorol a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselőjének, továbbá az anyakönyvvezető közreműködői tevékenysége felett,
 - b) biztosítja a nyilvántartásban kezelt adatok helyességét,
 - c) a nyilvántartásból a törvényben meghatározott feltételek fennállása esetén adatszolgáltatást teljesít,
 - d) végzi a figyelmeztető jelzés kezelésével kapcsolatos nyilvántartási és adattovábbítási feladatokat, valamint
@@ -592,11 +594,11 @@ az adatkezelő szerv az (5) bekezdés szerint gondoskodik a schengeni figyelmezt
 
 (9) A naplórendszerben a naplóbejegyzések megőrzési ideje annak keletkezésétől számított tíz év. A megőrzési idő leteltét követően a naplóbejegyzést haladéktalanul törölni kell, kivéve, ha már megkezdett ellenőrzési eljáráshoz van szükség a naplóbejegyzésre. Ebben az esetben az eljárás lezárultát követően kell a törlést végrehajtani.
 
-30. § (1) A közreműködő szerv a 24. § (1) bekezdésében meghatározott adatok elektronikus formában történő kezelésére az előtte folyó eljárás befejezéséig jogosult.
+30. § (1) A közreműködő szerv a 24. § (1) bekezdésében meghatározott adatok elektronikus formában történő kezelésére az előtte folyó eljárás befejezéséig, papíralapú dokumentumok esetében az általános hatáskörű útlevélhatóságnak való felterjesztéséig jogosult.
 
 (2) Az útlevélhatósági eljárásban keletkezett papíralapú dokumentumokat az iratkezelésre irányadó jogszabályok szerint kell kezelni.
 
-31. § (1) Az adatkezelő szerv a 24. § (1) bekezdésében meghatározott elektronikus adatokat az úti okmány érvényességi idejének lejártától számított tizenöt évig kezeli.
+31. § (1) Az adatkezelő szerv a 24. § (1) bekezdésében meghatározott elektronikus adatokat az úti okmány érvényességi idejének lejártától számított tizenöt – ideiglenes magánútlevél esetében egy – évig kezeli.
 
 (2) Abban az esetben, ha a kérelem alapján úti okmány nem kerül kiállításra, az adatkezelő szerv a kérelem adatait – bűnüldözési, bűnmegelőzési célból – az eljárás megszüntetését vagy a kérelem elutasítását tartalmazó döntés véglegessé válását követő egy évig kezeli, azt követően haladéktalanul törli.
 
@@ -628,19 +630,19 @@ az útlevélnek az arra való jogosultság megszűnését követő bevonásáig 
 
 (3) Ahol jogszabály kivándorlást említ, azon külföldi letelepedést kell érteni.
 
-34. §
+#### 34. §
 
-35. §
+#### 35. §
 
-36. §
+#### 36. §
 
-37. §
+#### 37. §
 
-38. §
+#### 38. §
 
-39. §
+#### 39. §
 
-40. §
+#### 40. §
 
 41. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
 

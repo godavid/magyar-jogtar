@@ -2,7 +2,21 @@
 
 az egészségügyi szolgálati jogviszonyról
 
-Az Országgyűlés– elismerve, hogy a magyar orvosok helytállásának is köszönhető, hogy Magyarország eddig sikeresen küzdött meg a koronavírus-világjárvánnyal, mivel a magyar kórházakban már több ezer fertőzöttet, köztük korábban súlyos állapotban lévő betegeket is sikerült meggyógyítani,– a magyar orvosok munkáját megbecsülve és a Magyar Orvosi Kamara béremelésre és hálapénz megszüntetésére vonatkozó javaslatait elfogadva,– tekintettel arra, hogy egészségügyi szakdolgozók átfogó béremelési programja jelenleg is zajlik,– rögzítve, hogy a gyógyítás közszolgálat, a közösség jólétét szolgáló tevékenység,– a betegellátás biztonságának elsődlegességét szem előtt tartva,– az egészségügyi ellátórendszer fejlesztése, a magas színvonalon gyógyító egészségügyi dolgozók jogviszonyának szabályozása, szolgálatuk anyagi elismerése érdekébena következő törvényt alkotja:
+Az Országgyűlés
+
+– elismerve, hogy a magyar orvosok helytállásának is köszönhető, hogy Magyarország eddig sikeresen küzdött meg a koronavírus-világjárvánnyal, mivel a magyar kórházakban már több ezer fertőzöttet, köztük korábban súlyos állapotban lévő betegeket is sikerült meggyógyítani,
+
+– a magyar orvosok munkáját megbecsülve és a Magyar Orvosi Kamara béremelésre és hálapénz megszüntetésére vonatkozó javaslatait elfogadva,
+
+– tekintettel arra, hogy egészségügyi szakdolgozók átfogó béremelési programja jelenleg is zajlik,
+
+– rögzítve, hogy a gyógyítás közszolgálat, a közösség jólétét szolgáló tevékenység,
+
+– a betegellátás biztonságának elsődlegességét szem előtt tartva,
+
+– az egészségügyi ellátórendszer fejlesztése, a magas színvonalon gyógyító egészségügyi dolgozók jogviszonyának szabályozása, szolgálatuk anyagi elismerése érdekében
+
+a következő törvényt alkotja:
 
 #### 1. § [A törvény hatálya]
 
@@ -228,6 +242,7 @@ megfelelő összeget.
 - k) a rendvédelmi igazgatási alkalmazottak szolgálati jogviszonyát szabályozó törvény szerinti rendvédelmi igazgatási szolgálati jogviszonyban,
 - l) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) hatálya alá tartozó munkáltatónál kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ösztöndíjas jogviszonyban, illetve munkaviszonyban,
 - m) e törvény hatálya alá nem tartozó magyarországi vagy külföldi egészségügyi szolgáltatónál vagy külföldi szakirányú végzettséggel munkavégzésre irányuló jogviszonyban
+- n) a honvédek jogállásáról szóló törvény szerinti hivatásos vagy szerződéses szolgálati viszonyban
 
 töltött időt.
 
@@ -267,7 +282,7 @@ illetményének megfelelő összeg.
 
 (3) A szolgálati elismerés a (2) bekezdés szerinti egészségügyi szolgálati jogviszonyban töltött idő betöltésének a napján esedékes.
 
-(4) A szolgálati elismerésre való jogosultság szempontjából egészségügyi szolgálati jogviszonyban töltött időnek kell tekinteni a 8. § (9) bekezdés a)–l) pontja, valamint a 8. § (9a) bekezdés c) és e) pontja szerinti jogviszonyban töltött időtartamot, függetlenül attól, hogy az adott jogviszony 2020. november 18. napja előtt vagy azt követően jött létre.
+(4) A szolgálati elismerésre való jogosultság szempontjából egészségügyi szolgálati jogviszonyban töltött időnek kell tekinteni a 8. § (9) bekezdés a)–l) és n) pontja, valamint a 8. § (9a) bekezdés c) és e) pontja szerinti jogviszonyban töltött időtartamot, függetlenül attól, hogy az adott jogviszony 2020. november 18. napja előtt vagy azt követően jött létre.
 
 (5) A (4) bekezdés alkalmazása során nem vehető figyelembe az az időtartam, ami az egészségügyi szolgálati jogviszonyban álló személy fizetési fokozatának megállapításakor nem került figyelembevételre.
 
@@ -506,9 +521,9 @@ gyógyító-megelőző tevékenységet végezhet.
 
 (6) A 664/2021. (XII. 1.) Korm. rendelet 2021. december 31-én hatályos 1. § c) pontja alkalmazásában az egyes, az egészségügyi szolgálati jogviszonnyal összefüggő veszélyhelyzeti szabályokról szóló 69/2021. (II. 19.) Korm. rendelet 16. § (5) bekezdése alatt az e törvény 8. § (9a) bekezdését kell érteni.
 
-21. §
+#### 21. §
 
-22. §
+#### 22. §
 
 ### 1. melléklet a 2020. évi C. törvényhez
 

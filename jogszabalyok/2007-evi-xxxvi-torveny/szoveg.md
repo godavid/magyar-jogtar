@@ -288,7 +288,9 @@ egyeztetést kezdeményezhet.
 
 (3) A szabálysértési hatóság, illetve a bíróság a jegyzőkönyvet nyolc napon belül az iratokkal együtt megküldi a legfőbb ügyésznek, aki azt továbbítja a megkeresést előterjesztő külföldi hatósághoz.
 
-### Okirat vagy a szabálysértési eljárás iratainaka külföldi hatóság részére történő megküldése
+### Okirat vagy a szabálysértési eljárás iratainak
+
+a külföldi hatóság részére történő megküldése
 
 17. § (1) Ha a külföldi hatóság az eljárási jogsegély iránti megkeresésében az eljárt szabálysértési hatóságtól, illetve bíróságtól eredeti okirat, illetve a szabálysértési eljárás iratainak megküldését kéri, a megkeresést teljesítő szabálysértési hatóság, illetve bíróság feltételül szabja, hogy a megküldött iratokat abban az állapotban szolgáltassák vissza, amilyenben azokat megküldték.
 
@@ -335,9 +337,11 @@ egyeztetést kezdeményezhet.
 
 22. § Ha a magyar szabálysértési hatóság, illetve a bíróság a tanút, a szakértőt vagy az eljárás alá vont személyt külföldi hatóság útján kívánja meghallgatni, a megkeresett külföldi hatósághoz meg kell küldeni azokat az iratokat, amelyek a megkeresés elintézéséhez szükségesek, és azokat a kérdéseket, amelyeket a meghallgatás során tisztázni kell.
 
-23. §
+#### 23. §
 
-### Okirat vagy a szabálysértési eljárás iratainaka kérelmező részére történő megküldése
+### Okirat vagy a szabálysértési eljárás iratainak
+
+a kérelmező részére történő megküldése
 
 24. § A szabálysértési hatóság, illetve a bíróság az eljárási jogsegély iránti kérelmében kezdeményezheti a külföldi hatóságnál eredeti okiratoknak, valamint a lefolytatott szabálysértési eljárás iratainak részére való megküldését.
 
@@ -351,7 +355,9 @@ egyeztetést kezdeményezhet.
 - b) az irat postai úton történő kézbesítése nem volt lehetséges, vagy
 - c) a szabálysértési hatóság, valamint a bíróság megítélése szerint a postai úton való kézbesítés nem megfelelő vagy eredménytelen lenne.
 
-### A szabálysértési eljárás alá vont személy hatósági nyilvántartásban szereplő személyes adatairól történő adatszolgáltatás kérése
+### A szabálysértési eljárás alá vont személy hatósági nyilvántartásban szereplő személyes adatairól
+
+történő adatszolgáltatás kérése
 
 26. § (1) A szabálysértési hatóság, illetve a bíróság a szabálysértés elkövetése során használt gépjármű rendszámának és gyártmányának megküldésével jogsegély iránti kérelmet terjeszthet elő annak érdekében, hogy megállapítsa annak a személynek a nevét, születési helyét és idejét, anyja születési családi és utónevét, valamint lakcímét, aki a szabálysértési eljárás alapjául szolgáló cselekmény elkövetésekor a gépjármű üzembentartója volt.
 
@@ -361,9 +367,13 @@ egyeztetést kezdeményezhet.
 
 (4) Az (1) bekezdésben meghatározott kérelem előterjesztését megelőzően, a kérelem előterjesztéséhez szükséges adatok megállapítása érdekében, vagy a szabálysértési eljárás saját hatáskörben történő lefolytatása céljából a közlekedésrendészeti ügyben eljáró szabálysértési hatóság, illetve a bíróság a gépjármű, valamint annak tulajdonosa, illetve üzembentartója adataival kapcsolatban a 2011/82/EU európai parlamenti és tanácsi irányelvet átültető más európai uniós tagállam gépjárműadat-nyilvántartásaiban a Kknyt. 27/C. § (1) és (2) bekezdése szerint automatizált keresést rendelhet el. Az automatizált keresést a 3. § (4) bekezdés d) pontja szerinti központi hatóság biztosítja, és a keresés eredményéről a Kknyt. 27/C. § (3) bekezdése szerint haladéktalanul tájékoztatja az elrendelő szabálysértési hatóságot, valamint a bíróságot.
 
-### IV. Fejezet — PÉNZBÍRSÁGOT KISZABÓ JOGERŐS SZABÁLYSÉRTÉSI HATÁROZAT VÉGREHAJTÁSÁNAK ÁTVÉTELE,ILLETVE ÁTADÁSA
+### IV. Fejezet — PÉNZBÍRSÁGOT KISZABÓ JOGERŐS SZABÁLYSÉRTÉSI HATÁROZAT VÉGREHAJTÁSÁNAK ÁTVÉTELE,
 
-### 1. CÍM — PÉNZBÍRSÁGOT KISZABÓ JOGERŐS SZABÁLYSÉRTÉSI HATÁROZAT VÉGREHAJTÁSÁNAK ÁTVÉTELE
+ILLETVE ÁTADÁSA
+
+### 1. CÍM — PÉNZBÍRSÁGOT KISZABÓ JOGERŐS SZABÁLYSÉRTÉSI HATÁROZAT
+
+VÉGREHAJTÁSÁNAK ÁTVÉTELE
 
 27. § (1) A külföldi határozat végrehajtását a külföldi hatóság vagy bíróság megkeresésére a központi hatóság átveszi, ha az elkövető Magyarországon lakóhellyel, tartózkodási hellyel vagy vagyonnal, illetve jövedelemmel rendelkezik.
 
@@ -378,6 +388,8 @@ egyeztetést kezdeményezhet.
 vonatkozásában kezdeményezik.
 
 (1c) Az (1a) és (1b) bekezdés esetén a pénzbírságot kiszabó külföldi határozatot a szabálysértési pénzbírságra vonatkozó szabályok megfelelő alkalmazásával kell végrehajtani azzal, hogy a bírság kizárólag adók módjára hajtható be, közérdekű munkával történő teljesítésének, valamint elzárásra történő átváltoztatásnak nincs helye. A sértetteket segítő szervezeteknek vagy közjavára fizetendő jóvátételt a szabálysértési költségre vonatkozó szabályok megfelelő alkalmazásával kell végrehajtani.
+
+(1d) Ha egy külföldi hatóság olyan pénzbírságot kiszabó határozat tekintetében kezdeményezi a végrehajtás átadását, amelyben a pénzbírság alapjául szolgáló cselekmények közül az egyik cselekmény a magyar jogszabályok szerint szabálysértésnek, a másik cselekmény közigazgatási bírsággal sújtandó közlekedési szabályszegésnek minősül és az átadott pénzbírság nem osztható meg, a külföldi határozatot a szabálysértési pénzbírságra vonatkozó szabályok alkalmazásával kell végrehajtani azzal, hogy a bírság kizárólag adók módjára hajtható be, közérdekű munkával történő teljesítésének, valamint elzárásra történő átváltoztatásának nincs helye.
 
 (2) A külföldi határozat végrehajtásának átvétele esetén a pénzbírság megfizetésének elengedése érdekében méltányossági kérelem nem nyújtható be.
 
@@ -402,6 +414,8 @@ vonatkozásában kezdeményezik.
 - e) nemzetközi szerződés eltérő rendelkezésének hiányában a külföldi határozatban meghatározott összeg a határozat meghozatala napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon átszámítva nem haladja meg a 70 eurót.
 
 (1a) A 27. § (4) bekezdés alapján átvett határozat végrehajtása megtagadható, ha a formanyomtatvány tanúsítvány hiányos. A központi hatóság ez esetben a külföldi határozat megküldését vagy egyéb kiegészítő információk megadását is kérheti.
+
+(1b) A külföldi határozat végrehajtását meg kell tagadni, ha az elkövető írásbeli eljárás esetén nem kapott a kibocsátó állam jogának megfelelően, személyesen vagy a nemzeti jog szerint meghatalmazott képviselője útján tájékoztatást az ügyben a jogorvoslathoz való jogáról és az ilyen jogorvoslati lehetőség határidejéről.
 
 (2) A külföldi határozat végrehajthatóságára a Szabs. tv. elévülésre vonatkozó szabályait azzal kell alkalmazni, hogy az elévülés határideje a végrehajtás átvétele iránti megkeresés központi hatósághoz érkezésének napján kezdődik.
 
@@ -433,7 +447,9 @@ vonatkozásában kezdeményezik.
 
 33. § A befizetett pénzbírság és szabálysértési költség összege a központi költségvetés közvetlen bevétele.
 
-### 2. CÍM — PÉNZBÍRSÁGOT KISZABÓ JOGERŐS SZABÁLYSÉRTÉSI HATÁROZAT VÉGREHAJTÁSÁNAK ÁTADÁSA
+### 2. CÍM — PÉNZBÍRSÁGOT KISZABÓ JOGERŐS SZABÁLYSÉRTÉSI HATÁROZAT
+
+VÉGREHAJTÁSÁNAK ÁTADÁSA
 
 34. § (1) A szabálysértési hatóság pénzbírságot kiszabó jogerős szabálysértési határozatának, illetve a bíróság pénzbírságot kiszabó jogerős végzésének, vagy határozatának (a továbbiakban: határozat) végrehajtása, valamint ezekben a határozatokban megállapított eljárási költség végrehajtása átadható, ha célszerű, hogy azt egy másik állam hatósága hajtsa végre.
 
@@ -514,11 +530,7 @@ vonatkozásában kezdeményezik.
 
 Ezt az ENYH-t egy illetékes hatóság bocsátotta ki. A kibocsátó hatóság igazolja, hogy ennek az ENYH-nak a kibocsátása a benne megjelölt eljáráshoz szükséges és azzal arányos, figyelembe véve a gyanúsított vagy a vádlott jogait is, és hogy a megjelölt nyomozási cselekmények megegyező körülmények között hasonló belföldi ügyben is elrendelhetők lennének. Kérem az alábbiakban megjelölt nyomozási cselekménynek vagy intézkedéseknek az elvégzését a nyomozás bizalmas jellegének megfelelő figyelembevételével, és azt követően az ENYH végrehajtásának eredményeként megszerzett bizonyítékok átadását.
 
-* Ne feledje, hogy az írásba foglalással, dekódolással vagy a titkosítás feloldásával kapcsolatos költségeket a kibocsátó államnak kell viselnie.
-
-* Ne feledje, hogy az írásba foglalással, dekódolással vagy a titkosítás feloldásával kapcsolatos költségeket a kibocsátó államnak kell viselnie.
-
-* Ne feledje, hogy az írásba foglalással, dekódolással vagy a titkosítás feloldásával kapcsolatos költségeket a kibocsátó államnak kell viselnie.
+7K07192_0
 
 | A. SZAKASZ: |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -816,7 +828,7 @@ IGAZOLÁS EURÓPAI NYOMOZÁSI HATÁROZAT (ENYH) ÁTVÉTELÉRŐL
 
 Ezt a formanyomtatványt a végrehajtó állam azon hatóságának kell kitöltenie, amely a lentebb említett ENYH-t kapta.
 
-1 Ezt a szakaszt minden hatóságnak ki kell töltenie, amely az ENYH-t megkapta. Ez a kötelezettség az ENYH-t elismerése és végrehajtása tekintetében illetékes hatóságot terheli, valamint adott esetben azt a központi hatóságot vagy hatóságot, amely az európai nyomozási határozatot az illetékes hatóságnak továbbította.
+7K07200_0
 
 |  | A. | AZ ÉRINTETT EURÓPAI NYOMOZÁSI HATÁROZAT (ENYH) |  |
 | --- | --- | --- | --- |

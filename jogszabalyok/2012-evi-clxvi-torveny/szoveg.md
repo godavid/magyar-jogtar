@@ -25,6 +25,7 @@ Az Országgyűlés az élet és az anyagi javak védelmének, az alapvető szolg
 - k) nemzeti létfontosságú rendszerelem: e törvény alapján kijelölt létfontosságú rendszerelem, amelynek kiesése a létfontosságú társadalmi feladatok folyamatos ellátásának hiánya miatt elsősorban Magyarországon lenne jelentős hatással,
 - l) üzemeltető: az a természetes, jogi személy vagy jogi személyiség nélküli szervezet, aki vagy amely az eszköz, létesítmény, rendszer rendszerelemének tulajdonosa, engedélyese, rendelkezésre jogosultja vagy napi működéséért felelős,
 - m) rendkívüli esemény: olyan külső vagy belső behatás, amely a kijelölt nemzeti vagy európai rendszerelem rendeltetésszerű működését, üzemfolytonosságát jelentős mértékben veszélyezteti, akadályozza, és amely megfelel jogszabályban foglalt kritériumoknak.
+- n) kritikus munkakör: az üzemeltető által azonosított azon munkakör, amelynek ellátásával biztosított a létfontosságú rendszerelem üzemfolytonos működése.
 
 #### 2. A nemzeti létfontosságú rendszerelemek kijelölése
 
@@ -178,12 +179,14 @@ a kijelölő hatóság és a szakhatóság (a továbbiakban együtt: hatóságok
 - e) az ágazati kijelölő hatóságnak az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem kijelöléséről és a kijelölés visszavonásáról szóló határozatát,
 - f) a hatósági ellenőrzéssel összefüggő dokumentumokat,
 - g) az informatikai biztonsági szabályzatot.
+- h) a kritikus munkakörben foglalkoztatott személy természetes személyazonosító adatait.
 
 (2) Az (1) bekezdésben meghatározott adatok kezelésének célja
 
 - a) a kijelölési eljárás, a kijelölés visszavonására vonatkozó eljárás lefolytatásának biztosítása,
 - b) a létfontosságú rendszerelemek védelmével kapcsolatos kötelezettségek teljesítése hatósági ellenőrzésének biztosítása,
 - c) a kijelölési eljárás során a 2. § (7) bekezdése szerinti határozatban előírt feltételeknek való megfelelés rendszeres hatósági ellenőrzésének biztosítása.
+- d) a kritikus munkakörben foglalkoztatott személy státusza igazolásának biztosítása.
 
 (3) A nyilvántartó hatóság az (1) bekezdés szerinti adatokat az ágazati kijelölő hatóságnak a kijelölési eljárásban hozott hatósági határozata, illetve az üzemeltető adatszolgáltatása alapján veszi nyilvántartásba. Az ágazati kijelölő hatóság az erre vonatkozó véglegessé vált határozatot haladéktalanul köteles megküldeni a nyilvántartó hatóságnak. Az ágazati kijelölő hatóság a megküldéssel egyidejűleg tájékoztatja a nyilvántartó hatóságot az (1) bekezdés c) pontja szerinti adatokról.
 
@@ -200,6 +203,7 @@ a kijelölő hatóság és a szakhatóság (a továbbiakban együtt: hatóságok
 - i) különleges jogrend vagy honvédelmi veszélyhelyzet időszakában a honvédelmi ágazat javaslattevő hatósága részére a nemzeti létfontosságú rendszerelemek fokozott védelmének megszervezése céljából,
 - j) az egységes digitális rádiótávközlő rendszer (a továbbiakban: EDR) kormányzati célú hírközlési szolgáltatás biztosítása érdekében az EDR szolgáltatás biztosítójának,
 - k) nemzetbiztonsági, valamint terrorelhárítási érdekből, külön, a feladatellátásért felelős szerv által benyújtott, indokolt kérelem alapján.
+- l) polgári védelmi kötelezettség megállapítása esetén a helyi önkormányzat polgármesterének a kritikus munkakörben foglalkoztatott személy státuszának igazolása céljából.
 
 (5) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem adatait a nyilvántartó hatóság, valamint a kijelölési eljárásban érintett valamennyi hatóság az ágazati kijelölő hatóság rendszerelem kijelölése visszavonásáról szóló határozatának véglegessé válása után 30 napon belül a nyilvántartásból törli és erről az üzemeltetőt írásban értesíti.
 
@@ -431,6 +435,7 @@ meghatározható.
 | 24. |  | elektronikus hírközlési szolgáltatások, elektronikus hírközlő hálózatok |
 | 25. |  | műsorszórás |
 | 26. |  | postai szolgáltatások |
+| 26a |  | meteorológiai infrastruktúra |
 | 27. |  | kormányzati elektronikus információs rendszerek |
 | 28. | Víz | ivóvíz-szolgáltatás |
 | 29. |  | felszíni és felszín alatti vizek minőségének ellenőrzése |

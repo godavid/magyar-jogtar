@@ -2,7 +2,15 @@
 
 a menedékjogról
 
-Az Országgyűlés a hazájukat elhagyni kényszerülők emberi jogainak és alapvető szabadságainak védelmére,figyelemmel Magyarország nemzetközi kötelezettségeire, valamint a nemzetközi jog általánosan elismert alapelveire,az Európai Unió menekültpolitikája, valamint a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség létrehozásához fűződő érdek szem előtt tartásával,tiszteletben tartva a nemzeti migrációs hagyományokat és a nemzetközi közösség befogadó szellemiségét,elismerve és támogatva a védelemben részesülők segítésében részt vállaló egyesületek tevékenységét,
+Az Országgyűlés a hazájukat elhagyni kényszerülők emberi jogainak és alapvető szabadságainak védelmére,
+
+figyelemmel Magyarország nemzetközi kötelezettségeire, valamint a nemzetközi jog általánosan elismert alapelveire,
+
+az Európai Unió menekültpolitikája, valamint a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség létrehozásához fűződő érdek szem előtt tartásával,
+
+tiszteletben tartva a nemzeti migrációs hagyományokat és a nemzetközi közösség befogadó szellemiségét,
+
+elismerve és támogatva a védelemben részesülők segítésében részt vállaló egyesületek tevékenységét,
 
 a menedékjogról a következő törvényt alkotja:
 
@@ -632,7 +640,7 @@ előírásait az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 - a) a hozzá benyújtott kérelem elbírálására nincs joghatósága,
 - b) a kérelem nyilvánvalóan lehetetlen célra irányul,
-- c) a kérelem nyilvánvalóan nem az előterjesztésre jogosulttól származik.
+- c) a kérelem olyan személytől származik, aki a kérelem előterjesztésére nyilvánvalóan nem jogosult.
 
 (2) A menekültügyi hatóság a nem hatáskörébe tartozó megkeresést – ha az megállapítható – az arra hatáskörrel és illetékességgel rendelkező szervnek 8 napon belül megküldi. A menekültügyi hatóság az áttételről a megkeresőt az áttétellel egyidőben tájékoztatja, amennyiben az áttétel nem lehetséges, erről a megkeresőt tájékoztatja.
 
@@ -652,6 +660,8 @@ előírásait az e törvényben foglalt eltérésekkel kell alkalmazni.
 - f) a megkeresés teljesítésének
 
 időtartama.
+
+(3a) Az ügyintézési határidőbe nem számít be a személyes meghallgatásról szóló értesítés hatóság általi kiküldése, valamint a kézbesítés eredményéről szóló postai igazolás visszaérkezése között eltelt időtartam.
 
 (4) A napokban megállapított határidőbe nem számít bele a határidő kezdetére okot adó cselekmény vagy körülmény bekövetkezésének, a közlésnek, a kézbesítésnek, a hirdetmény kifüggesztésének és levételének napja.
 
@@ -1048,7 +1058,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (3) Ha az elismerését kérő, a törvényes képviselő vagy az ügygondnok a kiskorúság megállapítására irányuló szakértői vizsgálathoz nem járul hozzá, az elismerését kérőre nézve a kiskorúakra vonatkozó rendelkezések – a törvényes képviselő bevonására, illetve az ügygondnok kirendelésére vonatkozó rendelkezések kivételével – nem alkalmazhatók.
 
-44/A. §
+#### 44/A. §
 
 ### A visszaküldési tilalom vizsgálata és a menekültügyi hatóság által elrendelt kiutasítás
 
@@ -1060,9 +1070,9 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (4) Az (1) vagy a (2) bekezdés szerinti tilalom fennállása esetén a menekültügyi hatóság a külföldit befogadottként ismeri el.
 
-(5) Az (1) és a (2) bekezdés szerinti tilalom fenn nem állása esetén a menekültügyi hatóság az elismerés iránti kérelmet elutasító döntésében rendelkezik a külföldi humanitárius célból kiadott tartózkodási engedélyének visszavonásáról, és – ha a külföldi más jogcímen nem jogosult Magyarország területén tartózkodni – a külföldi a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény szerinti kiutasításáról és kitoloncolásáról, valamint megállapítja a beutazási és tartózkodási tilalom időtartamát.
+(5) Ha nem áll fenn az (1) és a (2) bekezdés szerinti tilalom, a menekültügyi hatóság az elismerés iránti kérelmet elutasító döntésében rendelkezik a külföldi humanitárius célból kiadott tartózkodási engedélyének visszavonásáról, és – ha a külföldi más jogcímen nem jogosult Magyarország területén tartózkodni – a külföldinek a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény szerinti kiutasításáról, valamint törvényben meghatározott esetekben a kitoloncolásáról. Kitoloncolás elrendelése esetén meg kell állapítani a beutazási és tartózkodási tilalom időtartamát.
 
-(6) Az (1) és a (2) bekezdés szerinti tilalom fenn nem állása esetén a menekültügyi hatóság az elismerés visszavonására vonatkozó döntésében rendelkezik a külföldi Magyarország által kiadott úti okmányának, továbbá személyazonosító igazolványának, valamint személyi azonosítót és lakcímet igazoló hatósági igazolványának vagy személyazonosságát igazoló okmányának elvételéről, és – ha a külföldi más jogcímen nem jogosult Magyarország területén tartózkodni – törvény szerinti kiutasításáról és kitoloncolásáról, valamint megállapítja a beutazási és tartózkodási tilalom időtartamát.
+(6) Ha nem áll fenn az (1) és a (2) bekezdés szerinti tilalom, a menekültügyi hatóság az elismerés visszavonására vonatkozó döntésében rendelkezik a külföldi Magyarország által kiadott úti okmányának, továbbá személyazonosító igazolványának, valamint személyi azonosítót és lakcímet igazoló hatósági igazolványának vagy személyazonosságát igazoló okmányának elvételéről, és – ha a külföldi más jogcímen nem jogosult Magyarország területén tartózkodni – a külföldinek a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény szerinti kiutasításáról, valamint törvényben meghatározott esetekben a kitoloncolásáról. Kitoloncolás elrendelése esetén meg kell állapítani a beutazási és tartózkodási tilalom időtartamát.
 
 (7) A külföldi az (5) és (6) bekezdés szerinti kiutasítással szemben jogorvoslattal a menekültügyi hatóság elismerés iránti kérelmet elutasító döntésével, valamint az elismerés visszavonására vonatkozó döntésével szembeni jogorvoslat során élhet.
 
@@ -1072,9 +1082,9 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (10) A (3) bekezdésben foglaltak nem alkalmazhatók, ha a kérelmező származási országa nem igazolt, vagy valószínűsített.
 
-46. §
+#### 46. §
 
-46/A. §
+#### 46/A. §
 
 ### VIII. Fejezet — A MENEKÜLTKÉNTI VAGY OLTALMAZOTTKÉNTI ELISMERÉSRE IRÁNYULÓ ELJÁRÁS
 
@@ -1174,7 +1184,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 51/A. § Amennyiben a biztonságos származási ország, vagy a biztonságos harmadik ország a kérelmezőt nem veszi át, vagy nem veszi vissza, a menekültügyi hatóság döntését visszavonja és az eljárást folytatja.
 
-52. §
+#### 52. §
 
 53. § (1) A menekültügyi hatóság a kérelmet végzéssel elutasítja, ha az 51. § (2) bekezdésében foglalt valamely feltétel fennállását állapítja meg.
 
@@ -1196,9 +1206,9 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (4) A (2)–(3) bekezdés alapján hozott döntés közigazgatási perben megtámadható. A közigazgatási perben a keresetlevél benyújtásának, valamint a végrehajtás felfüggesztése iránti kérelemnek nincs halasztó hatálya a döntés végrehajtására.
 
-55. §
+#### 55. §
 
-56. §
+#### 56. §
 
 57. § (1) Az e törvény által szabályozott eljárásokban a szakhatóság olyan szakkérdésben ad ki állásfoglalást, amelynek megítélése hatósági ügyként a hatáskörébe tartozik.
 
@@ -1310,7 +1320,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 - e) kiutasításának vagy kiadatásának végrehajtására került sor az 54. § (2)–(3) bekezdése alapján, vagy
 - f) ujjnyomatának vagy arcképmásának rögzítését megakadályozza vagy lehetetlenné teszi.
 
-(3) A menekültügyi hatóság az eljárást megszüntető végzésében rendelkezik a külföldi humanitárius célból kiadott tartózkodási engedélyének visszavonásáról, és a (2) bekezdés a)–c) és f) pontjain alapuló megszüntetés eseteiben rendelkezik a 45. § (5) és (7)–(8) bekezdéseiben foglaltak szerint a külföldi törvény szerinti kiutasításáról és kitoloncolásáról, valamint megállapítja a beutazási és tartózkodási tilalom időtartamát.
+(3) A menekültügyi hatóság az eljárást megszüntető végzésében rendelkezik a külföldi humanitárius célból kiadott tartózkodási engedélyének visszavonásáról, és a (2) bekezdés a)–c) és f) pontján alapuló megszüntetés eseteiben rendelkezik a 45. § (5), (7) és (8) bekezdésében foglaltak szerint a külföldi a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény szerinti kiutasításáról, valamint törvényben meghatározott esetekben a kitoloncolásáról. Kitoloncolás elrendelése esetén meg kell állapítani a beutazási és tartózkodási tilalom időtartamát.
 
 (4) Az eljárást a (2) bekezdés a)–d) pontja alapján megszüntető végzéssel szemben közigazgatási pernek nincs helye.
 
@@ -1582,7 +1592,7 @@ meghaladja,
 
 (2) Tömeges bevándorlás okozta válsághelyzet fennállásakor az (1) bekezdésben meghatározott építmények az épített környezet alakításáról és védelméről szóló törvény szerinti nemzetbiztonsági célú sajátos építményfajtának minősülnek.
 
-80/E. §
+#### 80/E. §
 
 80/F. § Tömeges bevándorlás okozta válsághelyzet fennállása esetén az egészségügyi államigazgatási szerv haladéktalanul megvizsgálja, hogy a járványügyi intézkedések elrendelésének jogszabályban meghatározott feltételei fennállnak-e.
 
@@ -1688,7 +1698,7 @@ céljából a menekültügyi nyilvántartásban kezeli.
 - h) az elismerés iránti kérelem elutasításának, a menekültügyi eljárás megszüntetésének, valamint az elismerés visszavonásának tényét, okát és időpontját, a döntéshozó hatóság vagy bíróság megnevezését, továbbá azt, hogy a döntés hatálya hány személyre terjed ki;
 - i) az elismerését kérő dublini eljárás alapján történő átadásának tényét és okát, az átadásról rendelkező végzés meghozatalának, valamint az elismerését kérő átadásának időpontját, továbbá azt, hogy a végzés hatálya hány személyre terjed ki;
 - j) az elismerését kérő családi állapotát, foglalkozását, iskolai végzettségét;
-- k) az elismerését kérő, valamint az e törvény szerinti támogatásban és ellátásban részesülő menekült, oltalmazott, menedékes lakóhelyét, tartózkodási helyét, szálláshelyét;
+- k) az elismerését kérő, valamint az e törvény szerinti támogatásban és ellátásban részesülő menekült, oltalmazott, menedékes lakóhelyét, tartózkodási helyét, szálláshelyét, valamint a részére a menekültügyi hatóság által nyújtott ellátás és támogatás típusát, mértékét, időtartamát;
 - l) a származási országa nevét;
 - m) a faji vagy nemzeti hovatartozására, meghatározott társadalmi csoporthoz tartozására, illetve vallási, politikai meggyőződésére vonatkozó adatok közül azt, amelyre kérelmének indokolásában hivatkozott;
 - n) a személyazonosságát igazoló és úti okmányainak adatait (az okmány azonosító jelét és számát, érvényességi idejét, a kiállítás időpontját, a kiállító hatóság nevét, a kiállítás helyét);
@@ -1719,7 +1729,7 @@ számított huszonöt évig kezeli.
 - a) a harmadik országbeli állampolgár vagy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 604/2013/EU rendelet hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítását szolgáló Eurodac létrehozásáról, továbbá a tagállamok bűnüldöző hatóságai és az Europol által az Eurodac-adatokkal való, bűnüldözési célú összehasonlítások kérelmezéséről, valamint a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség nagyméretű IT-rendszereinek üzemeltetési igazgatását végző ügynökség létrehozásáról szóló 1077/2011/EU rendelet módosításáról szóló, 2013. június 26-i, 603/2013/EU európai parlamenti és tanácsi rendelet végrehajtása;
 - b) a tizenkettedik életévét betöltött elismerését kérő esetében a vízuminformációs rendszerről (VIS) és a rövid távú tartózkodásra jogosító vízumokra vonatkozó adatok tagállamok közötti cseréjéről (VIS-rendelet) szóló 2008. július 9-i, 767/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: VIS rendelet) 21. és 22. cikke szerinti hozzáférés biztosítása.
 
-(4) A menekültügyi hatóság a (3) bekezdés a) pontjában meghatározott célból rögzített ujjnyomat-adatot az elismerését kérő igazolt, ennek hiányában az általa közölt természetes személyazonosító adatainak, állampolgárságának, továbbá a kijelölt szálláshelyének megjelölésével haladéktalanul továbbítja az (5) bekezdés szerinti adatfeldolgozó szervnek.
+(4) A menekültügyi hatóság a (3) bekezdés a) pontjában meghatározott célból rögzített ujjnyomat-adatot az elismerését kérő igazolt, ennek hiányában az általa közölt természetes személyazonosító adatainak, állampolgárságának, továbbá a kijelölt szálláshelyének megjelölésével haladéktalanul továbbítja az (5) bekezdés szerinti adatfeldolgozó szervnek. A (3) bekezdés a) és b) pontjában meghatározott célból rögzített ujjnyomat-adat ellenőrzés eredményét a menekültügyi hatóság haladéktalanul továbbítja a szakhatóságként eljáró rendőrségi szerv és polgári nemzetbiztonsági szolgálat részére.
 
 (5) A (4) bekezdésben meghatározott adatkör tekintetében adatfeldolgozó a miniszter rendeletében meghatározott szerv. Az adatoknak az Eurodac központi egységéhez történő továbbításáért, az adatok fogadásáért, illetve azok összehasonlításáért az adatkezelő felel.
 
@@ -1955,7 +1965,9 @@ hatósági eljárás lefolytatása érdekében adhatja át.
 
 ### XI. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-### Hatályba léptető és hatályon kívül helyezőrendelkezések
+### Hatályba léptető és hatályon kívül helyező
+
+rendelkezések
 
 90. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – 2008. január 1-jén lép hatályba.
 
@@ -1976,7 +1988,9 @@ hatósági eljárás lefolytatása érdekében adhatja át.
 
 (2) Ahol e törvény a kérelem ismételt benyújtásához jogkövetkezményt fűz, a megelőző kérelmek számának megállapításakor az e törvény hatálybalépése előtt benyújtott kérelmeket is figyelembe kell venni.
 
-92. § (1)–(2)
+92. § (1)
+
+(2)
 
 (3) A 2014. január 1-jét megelőzően megítélt támogatások folyósítására 2014. február 28. napja után nem kerülhet sor.
 

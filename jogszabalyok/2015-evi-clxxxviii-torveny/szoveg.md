@@ -14,15 +14,16 @@ az arcképelemzési nyilvántartásról és az arcképelemző rendszerről
 - d) arcképelemző rendszer: az arckép profilok létrehozására, valamint összehasonlító elemzésére képes, a személyazonosítást elősegítő informatikai alkalmazás,
 - e) központi szerv: a nyilvántartás vezetéséért, valamint az arcképelemző rendszer működtetéséért felelős, a Kormány által rendeletben kijelölt központi államigazgatási szerv,
 - f) technikai kapcsoló szám: az adatközlésre kötelezett szerv által képzett olyan alfanumerikus azonosító, amelynek célja a polgár természetes személyazonosító adatainak, valamint arcképmásának az arckép profil adataihoz történő hozzárendelése,
-- g) arcképelemző tevékenység: az arcképelemző rendszer informatikai jellegű összehasonlító, valamint az azt elemző személy kiértékelő tevékenységével kapcsolatos eljárások összessége,
+- g) arcképelemző tevékenység: az arcképelemző rendszer informatikai jellegű összehasonlító elemzésén alapuló, az elemzést végző személy elemző és kiértékelő tevékenységével kapcsolatos eljárások összessége,
 - h) adatközlésre kötelezett szerv: a személyiadat- és lakcímnyilvántartást, a központi idegenrendészeti nyilvántartásnak a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Harmtv.) 95. §-a, 96. §-a, 98. §-a és 99. §-a szerinti résznyilvántartásait, a menekültügyi nyilvántartást és a központi útiokmány-nyilvántartást vezető szerv, valamint a bűnügyi nyilvántartó szerv,
 - i) nyilvántartás: az arcképelemzési nyilvántartás,
 - j) arckép profil nyilvántartás: az adatközlésre kötelezett szerv által átadott arcképmásból képzett arckép profilt, az ahhoz rendelt technikai kapcsoló számot és a metaadatokat tartalmazó hatósági nyilvántartás,
-- k) jogosultság nyilvántartás: az e törvényben megjelölt, az arcképelemző tevékenység igénybevételére jogosult szerv (a továbbiakban: igénybevételre jogosult szerv), az igénybevételre jogosult szerv nevében hozzáférésre felhatalmazott személy (a továbbiakban: hozzáférésre felhatalmazott személy), valamint az arcképelemző tevékenységet végző szervnek az arcképelemző rendszer működtetésére jogosult tagja e törvényben meghatározott adatait tartalmazó nyilvántartás,
-- l) arcképelemző tevékenységet végző szerv: az arcképelemző tevékenység működtetéséért felelős, a Kormány által rendeletben kijelölt szerv,
+- k) igénybevételre jogosult szerv: az arcképelemző tevékenység igénybevételére jogosult szerv,
+- l) arcképelemző tevékenységet végző szerv: az arcképelemző tevékenység ellátásáért felelős, a Kormány által rendeletben kijelölt szerv,
 - m) metaadat: az arckép profil alapját képző arcképmás nyilvántartásba kerülésének a dátuma, valamint az arcképmáshoz tartozó személy születési éve és neme,
 - n) automatizált összehasonlítás: az arcképelemző rendszer gépi interfész útján történő igénybevételével végzett, elemzői kiértékelés nélküli, szoftveres arckép-összehasonlításon alapuló eljárás,
 - o) találati lista: az arcképelemző rendszer által elvégzett informatikai jellegű összehasonlító tevékenység eredménye alapján képzett, arckép profilokat, technikai kapcsoló számokat, valamint az arckép profilok alapját képező arcképmásokat és azok metaadatait tartalmazó adathalmaz.
+- p) hozzáférésre felhatalmazott személy: az igénybevételre jogosult szerv nevében hozzáférésre felhatalmazott személy,
 
 #### 2. A törvény alapelvei
 
@@ -116,33 +117,38 @@ eltelt és az adott személyhez tartozó újabb arcképmáshoz rendelten technik
 
 #### 5. A jogosultság nyilvántartás
 
-6. § (1) A jogosultság nyilvántartás az alábbi adatokat tartalmazza:
+6. § (1) A központi szerv a nyilvántartásban kezelt adatokhoz való jogosulatlan hozzáférés, azok jogosulatlan megváltoztatása, nyilvánosságra hozatala, törlése, sérülése vagy megsemmisülése elleni védelem, illetve az adatkezelés jogszerűségének ellenőrzése céljából az elektronikus úton, egyedi informatikai alkalmazás igénybevételével a nyilvántartás számára adatközlésre kötelezett szervekről, a nyilvántartásban a központi szerv által végzett adatkezelésekről, illetve az igénybevételre jogosult szervekről és az igénybevételre jogosult szervek nevében hozzáférésre felhatalmazott felhasználókról, valamint az arcképelemző tevékenységet végző szerv arcképelemző rendszer működtetésére jogosult felhasználóiról jogosultsági nyilvántartást vezet.
 
-- a) az igénybevételre jogosult szerv
+(2) Az (1) bekezdés szerinti nyilvántartás a következő adatokat tartalmazza:
+
+- a) az adatközlésre kötelezett szerv és a központi szerv
   - aa) megnevezését,
-  - ab) levelezési címét,
-  - ac) telefonszámát,
-  - ad) telefaxszámát,
-  - ae) elektronikus levélcímét, valamint
-  - af) hozzáférési jogosultságának típusát, keletkezésének és törlésének tényét és időpontját,
-- b) a hozzáférésre felhatalmazott személy
-  - ba) nevét,
-  - bb) személyi azonosítóját, ennek hiányában természetes személyazonosító adatait,
-  - bc) beosztását,
-  - bd) szervezeti egységét,
-  - be) hozzáférési jogosultságának terjedelmét és körét, keletkezésének és törlésének tényét és időpontját,
-  - bf) egyedi azonosítóját.
+  - ab) székhelyét, levelezési címét,
+  - ac) elektronikus levélcímét, telefonszámát,
+- b) az igénybevételre jogosult szerv
+  - ba) megnevezését,
+  - bb) levelezési címét,
+  - bc) telefonszámát,
+  - bd) elektronikus levélcímét, valamint
+  - be) hozzáférési jogosultságának típusát, keletkezésének és törlésének tényét és időpontját,
+- c) a hozzáférésre felhatalmazott személy
+  - ca) nevét,
+  - cb) személyi azonosítóját, ennek hiányában természetes személyazonosító adatait,
+  - cc) beosztását,
+  - cd) szervezeti egységét,
+  - ce) hozzáférési jogosultságának terjedelmét és körét, keletkezésének és törlésének tényét és időpontját,
+  - cf) egyedi azonosítóját.
 
-(2) A jogosultság nyilvántartás az arcképelemző rendszer kezelésére jogosultak tekintetében az alábbi adatokat tartalmazza:
+(3) Az (1) bekezdés szerinti nyilvántartás az arcképelemző rendszer működtetésére jogosultak tekintetében az alábbi adatokat tartalmazza:
 
 - a) az arcképelemző tevékenységet végző szerv
   - aa) megnevezését,
   - ab) levelezési címét,
   - ac) telefonszámát,
   - ad) telefaxszámát,
-  - ae) elektronikus levélcímét, valamint
+  - ae) elektronikus levélcímét,
   - af) hozzáférési jogosultsága típusát, keletkezésének és törlésének tényét, valamint időpontját;
-- b) az arcképelemző rendszer használatával elemző tevékenységet folytató személy
+- b) az arcképelemző rendszer használatával elemző-kiértékelő tevékenységet folytató személy
   - ba) nevét,
   - bb) személyi azonosítóját, ennek hiányában természetes személyazonosító adatait,
   - bc) beosztását,
@@ -150,9 +156,9 @@ eltelt és az adott személyhez tartozó újabb arcképmáshoz rendelten technik
   - be) hozzáférési jogosultsága terjedelmét és körét, keletkezésének és törlésének tényét, valamint időpontját,
   - bf) hozzáférési jogosultságához rendelt felhasználói azonosítóját.
 
-(3) A központi szerv az (1) és (2) bekezdésben meghatározott adatokat a jogosultság törlésétől számított húsz évig kezeli.
+(4) A központi szerv a (2) és (3) bekezdésben meghatározott adatokat a jogosultság törlésétől számított húsz évig kezeli.
 
-(4) A jogosultság nyilvántartásban kezelt adatok teljes körét megismerheti
+(5) Az (1) bekezdés szerinti nyilvántartásban kezelt adatok teljes körét megismerheti
 
 - a) az adatkezelés jogszerűségének ellenőrzése céljából a Nemzeti Adatvédelmi és Információszabadság Hatóság (a továbbiakban: NAIH),
 - b) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság,
@@ -160,7 +166,7 @@ eltelt és az adott személyhez tartozó újabb arcképmáshoz rendelten technik
 
 7. § (1) Az arcképelemző tevékenység igénybevételéhez szükséges egyedi azonosítókat az igénybevételre jogosult szerv a központi szervhez benyújtott kérelemben igényli.
 
-(2) Az egyedi azonosító iránti kérelemnek tartalmaznia kell a 6. § (1) bekezdés a) pontjában, valamint a 6. § (1) bekezdés b) pont ba)–be) alpontjában meghatározott adatokat.
+(2) Az egyedi azonosító iránti kérelemnek tartalmaznia kell a 6. § (2) bekezdés b) pontjában, valamint a 6. § (2) bekezdés c) pont ca)–ce) alpontjában meghatározott adatokat.
 
 (3) A (2) bekezdésben meghatározott adatokban bekövetkezett változásról, így különösen a hozzáférési felhatalmazás megszűnéséről az igénybevételre jogosult szerv – az adatváltozást követő három munkanapon belül – értesíti a központi szervet.
 
@@ -182,7 +188,7 @@ az általa kezelt arcképmás felhasználásával az arcképelemző tevékenysé
 
 (4) A 3. § (3) bekezdés c) pontjában meghatározott célból jogosult a körözési eljárást folytató szerv az általa kezelt arcképmás felhasználásával az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni a Körtv. 8. § (1) bekezdésében meghatározott körözött személyek azonosítása és az eltűnt személyek felkutatása érdekében.
 
-(5) A 3. § (3) bekezdés d) pontjában meghatározott célból a személyazonosság igazolására alkalmas hatósági igazolvány kiadására jogosult szerv eljárása során jogosult a személyiadat- és lakcímnyilvántartásban, az útiokmány-nyilvántartásban, valamint a közúti közlekedési nyilvántartásban kezelt, illetve az eljárás során az eljáró személy által rendelkezésre bocsátott arcképmás felhasználásával az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét, valamint az automatizált összehasonlítást igénybe venni az eljáró személy személyazonosságának ellenőrzése érdekében.
+(5) A 3. § (3) bekezdés d) pontjában meghatározott célból a személyazonosság igazolására alkalmas hatósági igazolvány kiadására jogosult szerv eljárása során jogosult a személyiadat- és lakcímnyilvántartásban, az útiokmány-nyilvántartásban, valamint a közúti közlekedési nyilvántartásban kezelt, illetve az eljárás során az eljáró személy által rendelkezésre bocsátott arcképmás felhasználásával az automatizált arcképmás-összehasonlítást igénybe venni az eljáró személy személyazonosságának ellenőrzése érdekében.
 
 (6) A 3. § (3) bekezdés e) pontjában meghatározott célból jogosult
 
@@ -262,7 +268,7 @@ személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 
 #### 8. Ismeretlen személy azonosításának elemzői támogatása
 
-11. § (1) Az arcképelemző tevékenységet végző szerv az igénybevételre jogosult szerv által részére továbbított arcképmásból arckép profilt képez. Amennyiben az átadott arcképmás alapján arckép profil nem képezhető, az arcképelemző tevékenységet végző szerv ennek tényéről haladéktalanul értesíti az igénybevételre jogosult szervet.
+11. § (1) Az arcképelemző tevékenységet végző szerv az igénybevételre jogosult szerv által részére továbbított arcképmást a profilképzés sikeressége érdekében előkészíti, majd abból arckép profilt képez. Amennyiben az átadott arcképmás alapján arckép profil nem képezhető, az arcképelemző tevékenységet végző szerv ennek tényéről haladéktalanul értesíti az igénybevételre jogosult szervet.
 
 (2) Az (1) bekezdés szerint képzett arckép profilt az arcképelemző tevékenységet végző szerv az arcképelemző rendszer igénybevételével az arckép profil nyilvántartásban kezelt arckép profilokkal összehasonlítja. Az összehasonlítást megelőzően az arcképelemző tevékenységet végző szerv a metaadatok felhasználásával jogosult az arcképelemző rendszerben szűrési szempontokat meghatározni, és az informatikai alkalmazás segítségével történő összehasonlítás folyamatát a kiválasztott szűrési szempontok alapján megkezdeni.
 
@@ -292,7 +298,7 @@ személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 
 12. § (1) Az igénybevételre jogosult szerv – ha törvény alapján a természetes személyazonosító adatok kezelésére jogosult – a 13. § (1) bekezdés b) pontjában meghatározott ügyazonosító adat, valamint az érintett személy természetes személyazonosító adatai közlésével az adatközlésre kötelezett szervtől kérheti, hogy az adatközlésre kötelezett szerv az általa vezetett nyilvántartásból a személyazonosság ellenőrzésével érintett személy arcképmásához tartozó technikai kapcsoló számot részére továbbítsa.
 
-(2) Az arcképelemző tevékenységet végző szerv az igénybevételre jogosult szerv kérelmére az igénybevételre jogosult szerv által részére átadott arcképmásból arckép profilt képez. Amennyiben az átadott arcképmás alapján arckép profil nem képezhető, az arcképelemző tevékenységet végző szerv ennek tényéről haladéktalanul értesíti az igénybevételre jogosult szervet.
+(2) Az arcképelemző tevékenységet végző szerv az igénybevételre jogosult szerv kérelmére az igénybevételre jogosult szerv által részére átadott arcképmást a profilképzés sikeressége érdekében előkészíti, majd abból arckép profilt képez. Amennyiben az átadott arcképmás alapján arckép profil nem képezhető, az arcképelemző tevékenységet végző szerv ennek tényéről haladéktalanul értesíti az igénybevételre jogosult szervet.
 
 (3)
 
@@ -302,7 +308,7 @@ személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 
 (5a) Az (5) bekezdés szerinti feladata ellátása során az arcképelemző tevékenységet végző szerv jogosult az arckép profilhoz rendelt technikai kapcsoló szám felhasználásával az adatközlésre kötelezett szervtől az arckép profil alapjául szolgáló arcképmást igényelni közvetlen adatkapcsolat útján.
 
-(5b) Az (5) bekezdés szerinti kiértékelés akkor eredményes, ha legalább két elemző személy egymástól függetlenül végzett elemzése során azt állapítja meg, hogy az igénybevételre jogosult szerv által arcképelemző tevékenység céljából átadott arcképmás és a technikai kapcsoló számhoz tartozó arcképmás megfeleltethető egymással.
+(5b) Az (5) bekezdés szerinti kiértékelés akkor eredményes, ha legalább két elemző személy egymástól függetlenül végzett elemzése során azt állapítja meg, hogy az igénybevételre jogosult szerv által arcképelemző tevékenység céljából átadott arcképmás és a technikai kapcsoló számhoz tartozó arcképmás megfeleltethető egymással, vagy a megfeleltethetőség ténye nem áll fenn.
 
 (6) Az (5) bekezdés szerinti feladata ellátása során az arcképelemző tevékenységet végző szerv jogosult felhasználni a metaadatokat.
 
@@ -378,6 +384,20 @@ személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 
 (6) Az eljáró szerv által az (1) bekezdés alapján átvett technikai kapcsoló szám kizárólag az arcképelemző rendszer általi automatizált összehasonlítást megalapozó eljárásban használható fel. Az (1) bekezdés alapján átvett technikai kapcsoló számot az eljáró szerv az ügyfél személyazonosságának megállapítását, de legkésőbb a személyazonosság igazolására alkalmas hatósági igazolvány kiadására irányuló eljárásban hozott döntést követően haladéktalanul köteles törölni.
 
+#### 9/E. Összehasonlító ellenőrzés elemzői támogatása
+
+12/E. § (1) Az arcképelemző tevékenységet végző szerv az igénybevételre jogosult szerv kérelmére az igénybevételre jogosult szerv által részére átadott arcképmásokból arckép profilt képez. Ha az átadott arcképmások alapján arckép profil nem képezhető, az arcképelemző tevékenységet végző szerv ennek tényéről haladéktalanul értesíti az igénybevételre jogosult szervet.
+
+(2) Az arcképelemző tevékenységet végző szerv az általa képzett arckép profilokat az arcképelemző rendszer igénybevételével összehasonlítja. Az összehasonlítást követően az arcképelemző tevékenységet végző szerv az összehasonlítás eredményét kiértékeli.
+
+(3) A (2) bekezdés szerinti kiértékelés akkor eredményes, ha legalább két elemző személy egymástól függetlenül végzett elemzése során azt állapítja meg, hogy az igénybevételre jogosult szerv által arcképelemző tevékenység céljából átadott arcképmások megfeleltethetők egymásnak vagy a megfeleltethetőség ténye nem áll fenn. A (2) bekezdés szerinti kiértékelő tevékenység eredményessége esetén az arcképelemző tevékenységet végző szerv az igénybevételre jogosult szerv részére az igény beérkezésétől számított nyolc munkanapon belül átadja az arcképelemzői tevékenység eredményét.
+
+(4) A (2) bekezdés szerinti kiértékelés abban az esetben tekinthető eredménytelennek, ha az arcképelemző tevékenység nem végezhető el. A (2) bekezdés szerinti kiértékelés eredménytelensége esetén az arcképelemző tevékenységet végző szerv az eredménytelenség tényéről az igénybevételre jogosult szervet nyolc munkanapon belül tájékoztatja.
+
+(5) A (2) bekezdésben meghatározott összehasonlítás érdekében a központi szerv teljes körű hozzáférést biztosít az arckép profil elkészítéséhez szükséges informatikai alkalmazáshoz az arcképelemző tevékenységet végző szervnek.
+
+(6) Az arcképelemző tevékenységet végző szerv az általa képzett arckép profilt a (2) bekezdés szerinti kiértékelést követően haladéktalanul törli.
+
 #### 10. Az arcképelemzői tevékenység igénybevételének általános követelményei
 
 13. § (1) Az arcképelemző tevékenységet végző szerv az igénybevételre jogosult szerv kérelmére arcképelemzési tevékenységet akkor folytathat, ha
@@ -429,7 +449,7 @@ személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 
 (3) Az adattovábbítási nyilvántartásból adatigénylésre jogosult a polgáron kívül
 
-- a) az adatkezelés jogszerűségének ellenőrzése céljából a központi szerv irányításáért felelős szerv,
+- a) az adatkezelés jogszerűségének ellenőrzése céljából a központi szerv,
 - b) a NAIH,
 - c) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság,
 - d) külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból a nemzetbiztonsági szolgálatok, továbbá
@@ -482,8 +502,16 @@ személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 
 #### 16. Módosuló jogszabályok
 
-#### 23–24. §
+#### 23. §
+
+#### 24. §
 
 #### 25. §
 
-#### 26–29. §
+#### 26. §
+
+#### 27. §
+
+#### 28. §
+
+#### 29. §

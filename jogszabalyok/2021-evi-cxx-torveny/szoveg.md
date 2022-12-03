@@ -4,17 +4,17 @@ egyes eljárások korszerűsítését és a polgárok biztonságának további m
 
 #### 1. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-1. §
+#### 1. §
 
-2. §
+#### 2. §
 
-3. §
+#### 3. §
 
-4. §
+#### 4. §
 
-5. §
+#### 5. §
 
-6. §
+#### 6. §
 
 7. § Hatályát veszti a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény
 
@@ -23,17 +23,17 @@ egyes eljárások korszerűsítését és a polgárok biztonságának további m
 
 #### 2. A bányászatról szóló 1993. évi XLVIII. törvény módosítása
 
-8. §
+#### 8. §
 
-9. §
+#### 9. §
 
-10. §
+#### 10. §
 
-11. §
+#### 11. §
 
-12. §
+#### 12. §
 
-13. §
+#### 13. §
 
 14. § (1)
 
@@ -41,7 +41,7 @@ egyes eljárások korszerűsítését és a polgárok biztonságának további m
 
 (3)
 
-15. §
+#### 15. §
 
 16. § (1)
 
@@ -51,119 +51,147 @@ egyes eljárások korszerűsítését és a polgárok biztonságának további m
 
 (4)
 
-17. §
+#### 17. §
 
-18. §
+#### 18. §
 
-- a)
-- b)
-- c)
-- d)
-- e)
-- f)
-- g)
-- h)
-- i)
-- j)
-- k)
-- l)
-- m)
-- n)
-- o)
-- p)
-- q)
-- r)
-- s)
-- t)
-- u)
-- v)
-- w)
-- x)
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
+
+h)
+
+i)
+
+j)
+
+k)
+
+l)
+
+m)
+
+n)
+
+o)
+
+p)
+
+q)
+
+r)
+
+s)
+
+t)
+
+u)
+
+v)
+
+w)
+
+x)
 
 #### 3. A magyar állampolgárságról szóló 1993. évi LV. törvény módosítása
 
-19. §
+#### 19. §
 
 #### 4. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
-20. §
+#### 20. §
 
-21. §
+#### 21. §
 
-22. §
+#### 22. §
 
-23. §
+#### 23. §
 
-24. §
+#### 24. §
 
-25. §
+#### 25. §
 
-- a)
-- b)
-- c)
-- d)
-- e)
-- f)
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
 
 #### 5. A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosítása
 
-26. §
+#### 26. §
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
 #### 6. A külföldre utazásról szóló 1998. évi XII. törvény módosítása
 
-29. §
+#### 29. §
 
-30. §
+#### 30. §
 
 #### 7. A víziközlekedésről szóló 2000. évi XLII. törvény módosítása
 
-31. §
+#### 31. §
 
 #### 8. A sportról szóló 2004. évi I. törvény módosítása
 
-32. §
+#### 32. §
 
 #### 9. A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény módosítása
 
-33. §
+#### 33. §
 
-34. §
+#### 34. §
 
-35. §
+#### 35. §
 
-36. §
+#### 36. §
 
-37. §
+#### 37. §
 
 #### 10. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény módosítása
 
-38. §
+#### 38. §
 
-39. §
+#### 39. §
 
-40. §
+#### 40. §
 
-41. §
+#### 41. §
 
-42. §
+#### 42. §
 
 #### 11. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosítása
 
-43. §
+#### 43. §
 
-44. §
+#### 44. §
 
-45. §
+#### 45. §
 
-46. §
+#### 46. §
 
-47. §
+#### 47. §
 
-48. §
+#### 48. §
 
 49. § (1)
 
@@ -171,79 +199,81 @@ egyes eljárások korszerűsítését és a polgárok biztonságának további m
 
 (3)
 
-50. §
+#### 50. §
 
 #### 12. A menedékjogról szóló 2007. évi LXXX. törvény módosítása
 
-51. §
+#### 51. §
 
-52. §
+#### 52. §
 
-53. §
+#### 53. §
 
-54. §
+#### 54. §
 
 #### 13. A közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény módosítása
 
-55. §
+#### 55. §
 
 #### 14.
 
-56. §
+#### 56. §
 
-57. §
+#### 57. §
 
 #### 15. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-58. §
+#### 58. §
 
-59. §
+#### 59. §
 
-60. §
+#### 60. §
 
-61. §
+#### 61. §
 
 #### 16. A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény módosítása
 
-62. §
+#### 62. §
 
 #### 17.
 
-63. §
+#### 63. §
 
 #### 18. Az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény módosítása
 
-64. §
+#### 64. §
 
 #### 19. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
-65. §
+#### 65. §
 
-66. §
+#### 66. §
 
-67. §
+#### 67. §
 
-68. §
+#### 68. §
 
-69. §
+#### 69. §
 
-70. §
+#### 70. §
 
-71. §
+#### 71. §
 
-72. §
+#### 72. §
 
-73. §
+#### 73. §
 
-- a)
-- b)
-- c)
+a)
+
+b)
+
+c)
 
 #### 20. Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény módosítása
 
-74. §
+#### 74. §
 
-75. §
+#### 75. §
 
 76. § (1)
 
@@ -253,7 +283,7 @@ egyes eljárások korszerűsítését és a polgárok biztonságának további m
 
 (4)
 
-77. §
+#### 77. §
 
 78. § (1)
 
@@ -261,7 +291,7 @@ egyes eljárások korszerűsítését és a polgárok biztonságának további m
 
 #### 21. A polgári perrendtartásról szóló 2016. évi CXXX. törvény módosítása
 
-79. §
+#### 79. §
 
 80. § (1)
 
@@ -269,35 +299,35 @@ egyes eljárások korszerűsítését és a polgárok biztonságának további m
 
 #### 22. Az Európai Határregisztrációs Rendszerrel, valamint az Európai Utasinformációs és Engedélyezési Rendszerrel összefüggő egyes törvények jogharmonizációs célú módosításáról szóló 2019. évi XCVI. törvény módosítása
 
-81. §
+#### 81. §
 
-82. §
+#### 82. §
 
 #### 23. A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény módosítása
 
-83. §
+#### 83. §
 
 #### 24. A Kormányzati Személyügyi Döntéstámogató Rendszerről szóló 2020. évi CLXII. törvény módosítása
 
-84. §
+#### 84. §
 
 #### 25. A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény módosítása
 
-85. §
+#### 85. §
 
 #### 26. A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény módosítása
 
-86. §
+#### 86. §
 
-87. §
+#### 87. §
 
 88. § (1)
 
 (2)
 
-89. §
+#### 89. §
 
-90. §
+#### 90. §
 
 #### 27. Záró rendelkezések
 
@@ -321,7 +351,7 @@ egyes eljárások korszerűsítését és a polgárok biztonságának további m
 
 (10) A 2. §, a 7. § b) pontja, a 74. §, a 76. § (2) és (3) bekezdése, a 77. §, a 78. § (2) bekezdése, a 79. § és a 80. § (2) bekezdése 2023. január 1-jén lép hatályba.
 
-(11) A 21. § 2023. július 1-jén lép hatályba.
+(11)
 
 (12) A 41. §, a 49. § (3) bekezdése és a 82. § a tagállamok külső határait átlépő harmadik országbeli állampolgárok belépésére és kilépésére, valamint beléptetésének megtagadására vonatkozó adatok rögzítésére szolgáló határregisztrációs rendszer (EES) létrehozásáról és az EES-hez való bűnüldözési célú hozzáférés feltételeinek meghatározásáról, valamint a Schengeni Megállapodás végrehajtásáról szóló egyezmény, a 767/2008/EK rendelet és az 1077/2011/EU rendelet módosításáról szóló, 2017. november 30-i (EU) 2017/2226 európai parlamenti és tanácsi rendelet 66. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
 
