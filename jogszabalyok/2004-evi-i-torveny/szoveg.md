@@ -2,7 +2,19 @@
 
 a sportról
 
-Magyarország Országgyűlése kinyilvánítja, hogy a nemzet közössége a test művelését, a sportot, a nemzet alapértékének, kívánatos célnak tekinti. A nemzet értékei között tartja számon a sport által elért eredményeket, és elismeri a sport egyént és közösséget erősítő értékeit.Magyarország sportnemzet, amely e törvénnyel is tiszteleg azon tagjai előtt, akik tevékenységükkel dicsőséget, elismerést és megbecsülést szereztek hazánknak. Az e törvényben meghatározott célok megvalósítása biztosítja továbbá azt, hogy Magyarország sportoló nemzetté is váljék.A sport legelőbb is a lelki egészség alapja, amely hozzátartozik az egészséges nemzet, az egészségét megőrizni akaró polgár értékrendjéhez.A sport a közjó része. Erősíti a közösség tagjainak egymáshoz tartozását, miként az egyén testi és lelki egészségét.A sport magába foglalja a nemzet által vallott értékeket, az összetartozás és a versenyzés szellemét, a részvételt és a győzelmet, a teljesítmény elismerését, vagyis a munka becsületét, az önfegyelem és az öngondoskodás fontosságát, az egyén közösségért viselt felelősségét.Magyarország Országgyűlése kinyilvánítja, hogy minden embernek alapvető joga van a sporthoz, és e jogát az állam biztosítja, függetlenül attól, hogy versenysportról, a szabadidő eltöltéséről, a diák-, egyetemi-főiskolai sportról, a fogyatékkal élők sportjáról vagy az egészség megőrzéséről van szó.Magyarország Országgyűlése elfogadja az Európai Sport Chartát, és sportról szóló törvényét azzal összhangban az alábbiak szerint alkotja meg.
+Magyarország Országgyűlése kinyilvánítja, hogy a nemzet közössége a test művelését, a sportot, a nemzet alapértékének, kívánatos célnak tekinti. A nemzet értékei között tartja számon a sport által elért eredményeket, és elismeri a sport egyént és közösséget erősítő értékeit.
+
+Magyarország sportnemzet, amely e törvénnyel is tiszteleg azon tagjai előtt, akik tevékenységükkel dicsőséget, elismerést és megbecsülést szereztek hazánknak. Az e törvényben meghatározott célok megvalósítása biztosítja továbbá azt, hogy Magyarország sportoló nemzetté is váljék.
+
+A sport legelőbb is a lelki egészség alapja, amely hozzátartozik az egészséges nemzet, az egészségét megőrizni akaró polgár értékrendjéhez.
+
+A sport a közjó része. Erősíti a közösség tagjainak egymáshoz tartozását, miként az egyén testi és lelki egészségét.
+
+A sport magába foglalja a nemzet által vallott értékeket, az összetartozás és a versenyzés szellemét, a részvételt és a győzelmet, a teljesítmény elismerését, vagyis a munka becsületét, az önfegyelem és az öngondoskodás fontosságát, az egyén közösségért viselt felelősségét.
+
+Magyarország Országgyűlése kinyilvánítja, hogy minden embernek alapvető joga van a sporthoz, és e jogát az állam biztosítja, függetlenül attól, hogy versenysportról, a szabadidő eltöltéséről, a diák-, egyetemi-főiskolai sportról, a fogyatékkal élők sportjáról vagy az egészség megőrzéséről van szó.
+
+Magyarország Országgyűlése elfogadja az Európai Sport Chartát, és sportról szóló törvényét azzal összhangban az alábbiak szerint alkotja meg.
 
 ### I. Fejezet — A SPORTOLÓ JOGÁLLÁSA
 
@@ -346,7 +358,9 @@ szabható ki.
 
 (3) A fogyatékosok sportja, illetve a szabadidősport területén sporttevékenység közhasznú társaság keretében is szervezhető.
 
-### III. Fejezet — AZ ORSZÁGOS SPORTÁGI SZAKSZÖVETSÉGEK ÉS MÁS SPORTSZÖVETSÉGEK
+### III. Fejezet — AZ ORSZÁGOS SPORTÁGI SZAKSZÖVETSÉGEK
+
+ÉS MÁS SPORTSZÖVETSÉGEK
 
 ### A sportszövetségek típusai
 
@@ -1375,9 +1389,9 @@ kezeli.
 
 (8) A választottbíráskodásról szóló törvénytől eltérően sportszervezetek jogvitáiban a Sport Állandó Választottbíróságot és a svájci székhelyű Court of Arbitration for Sport választottbírósági intézményt kivéve állandó vagy eseti választottbíróság nem járhat el.
 
-48. §
+#### 48. §
 
-48/A. §
+#### 48/A. §
 
 ### VII. Fejezet — AZ ÁLLAM ÉS A HELYI ÖNKORMÁNYZATOK SPORTTAL KAPCSOLATOS FELADATAI
 
@@ -1531,7 +1545,9 @@ támogatására és e programokban elősegíti az esélyegyenlőséget, tovább�
 
 (6) Az e törvényben meghatározott feladatai alapján a tízezernél több lakosú helyi önkormányzatok rendeletben állapítják meg a helyi adottságoknak megfelelően a sporttal kapcsolatos részletes feladatokat és kötelezettségeket, valamint a költségvetésükből a sportra fordítandó összeget.
 
-### VIII. Fejezet — A SPORT ÁLLAMI TÁMOGATÁSÁNAK PÉNZÜGYI RENDSZERE
+### VIII. Fejezet — A SPORT ÁLLAMI TÁMOGATÁSÁNAK
+
+PÉNZÜGYI RENDSZERE
 
 ### A támogatás forrásai és igénybevételének feltételei
 
@@ -1725,11 +1741,11 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 ### Az olimpiai pályázat adókedvezményének támogatási szabályai
 
-62/A. §
+#### 62/A. §
 
 62/B. § Az olimpiai pályázat lebonyolításáért felelős nonprofit gazdasági társaságnak a 2017. december 31-ig fel nem használt támogatást a központi költségvetés számára kell visszautalnia 2018. január 31-ig az államháztartásért felelős miniszter által megjelölt számlára, amelyet a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 4. Egyéb költségvetési bevételek cím, 1. Vegyes bevételek alcímen belül önálló jogcímcsoporton kell elszámolni.
 
-62/C. §
+#### 62/C. §
 
 ### IX. Fejezet — SPORTLÉTESÍTMÉNYEK
 
@@ -1751,7 +1767,7 @@ első, második vagy harmadik helyezést ért el (a továbbiakban: érmes).
 
 (5)
 
-64. § (1) A Kormány által külön jogszabályban olimpiai központnak minősített, állami tulajdonban lévő ingatlanok vagyonkezelője köteles e központokat elsődlegesen sportcélokra használni, ezt a célt az olimpiai központok másodlagos használata során sem veszélyeztetheti.
+64. § (1) A Kormány rendeletében olimpiai központnak minősített ingatlanokat elsődlegesen sportcélokra kell használni, ezt a célt az olimpiai központok másodlagos használata sem veszélyeztetheti.
 
 (2) Az olimpiai központok szakmai felügyeletét a MOB és az MPB közreműködésével a sportpolitikáért felelős miniszter látja el.
 
@@ -2029,7 +2045,7 @@ igényelhet adatot, amelyet a rendelkezésére bocsátástól számított 120 ó
 
 (6) A kamerával felvett adatokat a sportrendezvény területén erre a célra létesített helyiségben a szervező, a rendező, illetve a rendező szerv képviselője egyidejűleg és folyamatosan figyelemmel kíséri. A rendőrség, illetve a nemzetbiztonsági szolgálat e feladattal megbízott képviselője ennek során jelen lehet. Amennyiben a rendőrség, illetve a nemzetbiztonsági szolgálat igényli, a szervező, a rendező, valamint a rendező szerv képviselője a sportrendezvény ideje alatt köteles biztosítani a hozzáférést a kamerával történő megfigyeléshez.
 
-75. §
+#### 75. §
 
 ### A néző részvétele a sportrendezvényen
 
@@ -2106,14 +2122,9 @@ adatokat továbbítja.
 
 76/B. § (1) A magyarországi sportélet fejlesztése és a sport közösségformáló funkciójának megerősítése céljából az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (5) bekezdése alapján az 1. mellékletben meghatározott állami vagy részben állami tulajdonú sportcélú ingatlanok – részben állami tulajdonú sportcélú ingatlanok esetében az állam tulajdonában álló tulajdoni hányad – vagyonkezelőjeként az 1. mellékletben meghatározott jogi személyeket jelöli ki.
 
-(1a) Az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (5) bekezdése alapján a Budapest IV. kerület 76561/221 helyrajzi számú ingatlan (a továbbiakban: Ingatlan) üzemeltetéséhez, valamint az Ingatlanon végzett sporttevékenység ellátásához kapcsolódó állami tulajdonú ingó vagyonelemek vagyonkezelőjeként a Vasas Sport Clubot (székhely: Budapest 1139, Fáy utca 58.) jelöli ki.
+(1a) Az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (5) bekezdése alapján az 1. mellékletben meghatározott állami vagy részben állami tulajdonú sportcélú ingatlanok – részben állami tulajdonú sportcélú ingatlanok esetében az állam tulajdonában álló tulajdoni hányad – (a továbbiakban: ingatlanok) üzemeltetéséhez, valamint az ingatlanokon végzett sporttevékenység ellátásához kapcsolódó állami tulajdonú ingó vagyonelemek vagyonkezelőjeként az 1. mellékletben meghatározott jogi személyeket jelöli ki.
 
-(1b) Az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (5) bekezdése alapján
-
-- a) a Győr belterület 5761/7 helyrajzi számú ingatlan,
-- b) a Győr belterület 5761/7/A helyrajzi számú ingatlan,
-- c) a Győr belterület 5761/7/B helyrajzi számú ingatlan,
-- d) a Győr belterület 5761/7/C helyrajzi számú ingatlan [a)–d) pont a továbbiakban együtt: Ingatlanok] üzemeltetéséhez, valamint az Ingatlanokon végzett sporttevékenység ellátásához kapcsolódó állami tulajdonú ingó vagyonelemek vagyonkezelőjeként az ETO Futball Sportszervező és Szolgáltató Korlátolt Felelősségű Társaságot (székhely: 9027 Győr, Nagysándor József utca 31.) jelöli ki.
+(1b) Az (1a) bekezdés szerinti vagyonelemek az 1. mellékletben meghatározott jogi személyek és a tulajdonosi joggyakorló között fennálló vagyonkezelési szerződés hatálya alá kerülnek azzal, hogy az 1. mellékletben meghatározott jogi személyek 60 napon belül kötelesek – a vagyonnyilvántartási szabályoknak megfelelő – írásbeli nyilatkozattal bejelenteni a tulajdonosi joggyakorló felé a fennálló vagyonkezelési szerződése hatálya alá került új vagyonelemeket.
 
 (2) Az (1)–(1b) bekezdésben meghatározott vagyonkezelői jog létesítése ingyenesen történik. A vagyonkezelő a vagyonkezelői jog gyakorlásának ellenértékeként a (3) bekezdés szerint meghatározott vagyonkezelési díjat köteles fizetni.
 
@@ -2304,6 +2315,8 @@ televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal (p
 78/P. § A játékosügynöki tevékenység szabályozásával összefüggésben a sportról szóló 2004. évi I. törvény módosításáról szóló 2021. évi LXXXVII. törvénnyel megállapított 37/D. § (2) bekezdése és 37/D. § (4) bekezdés b) pontja a 2021. december 31-ét követő igazolások, átigazolások esetében alkalmazandó.
 
 78/Q. § Az egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongazdálkodást és nemzeti pénzügyi szolgáltatásokat érintő törvények módosításáról szóló 2021. évi CXXXIII. törvénnyel (a továbbiakban: Módtv10.) megállapított 76/B. § (3) bekezdését a Módtv10. hatálybalépését megelőzően megkötött vagyonkezelési szerződések tekintetében 2023. január 1-től kell alkalmazni.
+
+78/R. § Az egyes állami sportcélú közfeladatok ellátásának rendjéről és szervezeti kereteiről szóló 2022. évi LVII. törvénnyel (a továbbiakban: Módtv11.) megállapított 76/B. § (1a) és (1b) bekezdése alapján nem szükséges új vagyonkezelési szerződést kötni, a Módtv11. hatálybalépését megelőzően megkötött vagyonkezelési szerződések hatályukban fennmaradnak.
 
 ### Felhatalmazó rendelkezések
 
