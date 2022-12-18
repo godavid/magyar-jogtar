@@ -165,19 +165,11 @@ Magyarország Alaptörvényének XX. cikkében foglaltak végrehajtása, valamin
 
 #### 7. Módosító és hatályon kívül helyező rendelkezések
 
-14. § A Sporttv. 64. § (1) bekezdése helyébe a következő rendelkezés lép:
+#### 14. §
 
-„(1) A Kormány rendeletében olimpiai központnak minősített ingatlanokat elsődlegesen sportcélokra kell használni, ezt a célt az olimpiai központok másodlagos használata sem veszélyeztetheti.”
+#### 15. §
 
-15. § A Sporttv. 76/B. § (1a) és (1b) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1a) Az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (5) bekezdése alapján az 1. mellékletben meghatározott állami vagy részben állami tulajdonú sportcélú ingatlanok – részben állami tulajdonú sportcélú ingatlanok esetében az állam tulajdonában álló tulajdoni hányad – (a továbbiakban: ingatlanok) üzemeltetéséhez, valamint az ingatlanokon végzett sporttevékenység ellátásához kapcsolódó állami tulajdonú ingó vagyonelemek vagyonkezelőjeként az 1. mellékletben meghatározott jogi személyeket jelöli ki.
-
-(1b) Az (1a) bekezdés szerinti vagyonelemek az 1. mellékletben meghatározott jogi személyek és a tulajdonosi joggyakorló között fennálló vagyonkezelési szerződés hatálya alá kerülnek azzal, hogy az 1. mellékletben meghatározott jogi személyek 60 napon belül kötelesek – a vagyonnyilvántartási szabályoknak megfelelő – írásbeli nyilatkozattal bejelenteni a tulajdonosi joggyakorló felé a fennálló vagyonkezelési szerződése hatálya alá került új vagyonelemeket.”
-
-16. § A Sporttv. Hatályba léptető és átmeneti rendelkezések alcíme a következő 78/R. §-sal egészül ki:
-
-„78/R. § Az egyes állami sportcélú közfeladatok ellátásának rendjéről és szervezeti kereteiről szóló 2022. évi LVII. törvénnyel (a továbbiakban: Módtv11.) megállapított 76/B. § (1a) és (1b) bekezdése alapján nem szükséges új vagyonkezelési szerződést kötni, a Módtv11. hatálybalépését megelőzően megkötött vagyonkezelési szerződések hatályukban fennmaradnak.”
+#### 16. §
 
 #### 17. §
 
