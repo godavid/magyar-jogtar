@@ -19,7 +19,9 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 
 1/B. § Az Egyetem alaptevékenységként ellátja a közszolgálati tisztviselők és a kormányzati igazgatási szervek kormánytisztviselőinek képzését, továbbképzését, valamint jogszabályban vagy közjogi szervezetszabályozó eszközben részére meghatározott egyéb képzési és továbbképzési feladatokat.
 
-2. § Az e törvényben nem szabályozott kérdésekben a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) rendelkezéseit kell alkalmazni.
+2. § (1) Az e törvényben nem szabályozott kérdésekben a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) rendelkezéseit kell alkalmazni.
+
+(2) A 13. §-ban meghatározott személyek esetében az e törvényben nem szabályozott kérdésekben a jogállásukat szabályozó törvények rendelkezéseit kell alkalmazni.
 
 3. § E törvény alkalmazásában
 
@@ -71,7 +73,7 @@ A magyar felsőoktatási rendszer részeként a közigazgatási, rendészeti és
 
 ### II/A. Fejezet — A TANÁCSADÓ TESTÜLET
 
-9/B. § (1) Az Egyetem mellett a Fenntartó vezetésével, az igazságügyért felelős miniszter, a honvédelemért felelős miniszter, a felsőoktatásért felelős miniszter, az innovációért és technológiáért felelős miniszter, a külpolitikáért felelős miniszter, valamint a rendészetért felelős miniszter részvételével a Fenntartó egyes döntéseinek megalapozását és szakmai támogatását elősegítő Tanácsadó Testület működik.
+9/B. § (1) Az Egyetem mellett a Fenntartó vezetésével, az igazságügyért felelős miniszter, a honvédelemért felelős miniszter, a felsőoktatásért felelős miniszter, a felnőttképzésért felelős miniszter, a külpolitikáért felelős miniszter, valamint a rendészetért felelős miniszter részvételével a Fenntartó egyes döntéseinek megalapozását és szakmai támogatását elősegítő Tanácsadó Testület működik.
 
 (2) Az (1) bekezdésben felsorolt miniszterek képviseletét a Tanácsadó Testületben az általuk megbízott más személy is elláthatja.
 
@@ -119,6 +121,8 @@ tölthet be.
 
 (2) Az Egyetemen jogszabályban meghatározott feltételekkel munkakör munkaviszonyban is betölthető. Munkaviszonyban csak olyan személy foglalkoztatható, aki a továbbképzések keretein belül oktatói, tananyag-fejlesztői, illetve oktatásszervezői feladatot lát el.
 
+13/A. § Nemzetbiztonsági ellenőrzéshez nem kötött munkakörben a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 20. § (2) bekezdés c) pontjától eltérően a közalkalmazotti jogviszony létesítésének nem feltétele a magyar állampolgárság vagy a jogszabály szerint a szabad mozgás és tartózkodás jogával rendelkezés, illetve a bevándorolt vagy letelepedett jogállás.
+
 14. § A közalkalmazott oktató, tudományos kutató és tanár a munkahelyén pártpolitikától mentes magatartást köteles tanúsítani.
 
 15. § (1) Az egyetemi tanári munkakörre a pályázatot a rektor írja ki.
@@ -127,21 +131,26 @@ tölthet be.
 
 15/A. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 81. § (3a)–(3d) bekezdésében foglaltak szerint az Egyetem óraadó oktatója lehet az is, aki kormányzati szolgálati jogviszonyban áll. Az Egyetem részéről a Kit. 81. § (3a) bekezdése szerinti megállapodást a rektor a Fenntartó egyetértésével köti meg.
 
+15/B. § Az Egyetemen oktatói és kutatói munkakörben – a vezényelt, illetve kirendelt állomány kivételével – a Fenntartó előzetes tájékoztatása mellett létesíthető jogviszony.
+
 16. § (1) Ha a közalkalmazott vezető, oktató, tudományos kutató és tanár hivatásos állományba kerül, a betöltött beosztását, munkakörét újabb pályázat elnyerése nélkül jogosult ellátni.
 
 (2) Az az oktató, tudományos kutató és tanár, akinek a hivatásos szolgálati viszonya neki fel nem róható okból megszűnt vagy aki a hivatásos szolgálat felső korhatárát elérte, kérésére állományviszonyának megváltoztatása mellett közalkalmazottként, pályázat kiírása nélkül, az eredeti munkakörében tovább foglalkoztatható, ha a munkakör ellátása nincs hivatásos szolgálati viszonyhoz kötve.
 
 (3) A (2) bekezdés szerinti felróhatóság szempontjából a hivatásos szolgálati viszony megszüntetésekor kiadott szolgálati viszonyra vonatkozó igazolás az irányadó.
 
-16/A. § A honvédségi szervezet, rendvédelmi szerv, illetve a Nemzeti Adó- és Vámhivatal állományába tartozó és az Egyetemen megbízási szerződéssel foglalkoztatott óraadó oktatókat az Egyetem katonai, rendészeti, valamint nemzetbiztonsági alap- és mesterképzési szakjainak, továbbá doktori iskoláinak akkreditációja során teljes munkaidőben foglalkoztatott oktatóként kell figyelembe venni.
+16/A. § (1) A honvédségi szervezet, rendvédelmi szerv, illetve a Nemzeti Adó- és Vámhivatal állományába tartozó és az Egyetemen megbízási szerződéssel foglalkoztatott óraadó oktatókat az Egyetem katonai, rendészeti, valamint nemzetbiztonsági alap- és mesterképzési szakjainak, továbbá doktori iskoláinak akkreditációja során teljes munkaidőben foglalkoztatott oktatóként kell figyelembe venni.
 
-16/B. § (1) A közalkalmazotti jogviszonyt – a közalkalmazottak jogállásáról szóló törvényben meghatározottakon túl – felmentéssel megszüntetheti az Egyetem, ha
+(2) A 16/E. § szerinti oktatókat az Egyetem szakjainak, továbbá doktori iskoláinak akkreditációja során teljes munkaidőben foglalkoztatott, tudományos fokozattal és megfelelő szakterületi szakmai kompetenciával rendelkező oktatóként kell figyelembe venni, azzal, hogy e személyeket az Nftv. 9. § (3) bekezdés b) pontja szerinti számítás során figyelmen kívül kell hagyni.
 
-- a) a feladatok hatékonyabb biztosítása érdekében a közalkalmazott munkakörében másik közalkalmazottat kíván alkalmazni,
+16/B. § (1) A közalkalmazotti jogviszonyt – a Kjt.-ben meghatározottakon túl – felmentéssel megszüntetheti az Egyetem, ha
+
+- a) – a 16/C. §-ban meghatározottól eltérő esetben – a feladatok hatékonyabb biztosítása érdekében a közalkalmazott munkakörében másik közalkalmazottat kíván alkalmazni,
 - b) a közalkalmazott a munkakörének betöltésére érdemtelenné vált,
-- c) az Egyetemen a teljes oktatói és tanári létszám által a tanításra fordított idő kötelező óraszámai összegének és az Egyetem által elindított szakok képzési terve alapján megtartott tanórák számának aránya meghaladja az 1,25-ös arányszámot a két egymást követő tanulmányi félév átlagában.
+- c) az Egyetemen a teljes oktatói és tanári létszám által a teljes munkaidős foglalkoztatásra vetített tanításra fordított idő – munkáltató által a foglalkoztatási követelményrendszerben meghatározottak szerinti megemelése vagy csökkentése nélkül számított – kötelező óraszámai összegének és az Egyetem által elindított szakok képzési terve alapján megtartott tanórák számának aránya meghaladja az 1,25-ös arányszámot a két egymást követő tanulmányi félév átlagában, függetlenül a közalkalmazottra vonatkozó egyéni arányszámtól, illetve a foglalkoztatott – oktatói, kutatói, illetve oktatói, kutatói munkát segítő vagy bármely egyéb – munkakörétől, vagy
+- d) az intézményfejlesztési terv módosítására figyelemmel a közalkalmazott által végzett tevékenység egyetemi szintű célkitűzések közötti súlya csökkent vagy a közalkalmazott által végzett tevékenység a módosított intézményfejlesztési terv szerinti célok megvalósításához nem járul hozzá megfelelő mértékben.
 
-(2) A közalkalmazottak jogállásáról szóló törvény közalkalmazotti jogviszonyra vonatkozó rendelkezései közül a felmentési időre, illetve a végkielégítésre vonatkozó rendelkezéseket az (1) bekezdés b) pontja esetében nem kell alkalmazni.
+(2) A Kjt. közalkalmazotti jogviszonyra vonatkozó rendelkezései közül a felmentési időre, illetve a végkielégítésre vonatkozó rendelkezéseket az (1) bekezdés b) pontja esetében nem kell alkalmazni.
 
 16/C. § (1) Amennyiben olyan változás következik be a közalkalmazott munkakörébe tartozó feladatokban – így különösen az Egyetem feladatellátását érintő jogszabályváltozás esetén –, amelynek hatékony ellátására a közalkalmazott oktatási és tudományos tevékenysége, iskolai végzettsége, szakképzettsége vagy szakmai tapasztalata nem megfelelő, az Egyetem a munkakört más közalkalmazottal is betöltheti.
 
@@ -163,16 +172,31 @@ tölthet be.
 
 16/D. § (1) A közalkalmazott jogviszonya felmentéssel megszüntethető érdemtelenség miatt. Az érdemtelenség indoka kizárólag a közalkalmazott magatartásában, illetve a munkavégzésében megnyilvánuló és bizonyítható tény lehet.
 
-(2) Érdemtelenségnek minősül, ha a közalkalmazott a munkahelyén vagy azon kívül olyan magatartást tanúsít, amely az őt foglalkoztató Egyetem jó hírnevét súlyosan sérti.
+(2) Érdemtelenségnek minősül különösen, ha a közalkalmazott a munkahelyén vagy azon kívül olyan magatartást tanúsít, amely
+
+- a) az Egyetem, a közigazgatási szervek, a rendvédelmi feladatokat ellátó szervek vagy a Magyar Honvédség, illetve ezek vezetőinek jó hírnevét vagy társadalmi megítélését hátrányosan befolyásolhatja, függetlenül attól, hogy e magatartás jogsértést megvalósít-e,
+- b) az Egyetem etikai kódexében vagy esélyegyenlőségi szabályzatában meghatározott előírásokat súlyosan sérti,
+- c) az Egyetem, illetve az Egyetem hallgatói vagy a 13. § (1) bekezdésében meghatározott személyek számára jogellenesen kárt okoz, vagy
+- d) vezetői beosztásához méltatlan.
 
 (3) Az érdemtelenség jogcímén történő felmentés kezdeményezési jogát az Egyetem
 
-- a) az ennek alapjául szolgáló okról való tudomásszerzéstől számított harminc napon belül, legfeljebb azonban az annak bekövetkezését követő egy éven belül;
+- a) az ennek alapjául szolgáló okról való tudomásszerzéstől számított százhúsz napon belül, legfeljebb azonban az annak bekövetkezését követő egy éven belül;
 - b) bűncselekmény elkövetése esetén a büntethetőség elévüléséig
 
 gyakorolhatja.
 
 (4) Az érdemtelenség megállapítására vonatkozó döntés meghozatala előtt a közalkalmazottnak lehetőséget kell adni a döntés alapjául szolgáló körülmények megismerésére és arra, hogy az arról való tájékoztatástól számított tizenöt napon belül védekezését előadhassa, bizonyítékait előterjeszthesse, kivéve, ha az eset összes körülményeiből következően az az Egyetemtől nem várható el.
+
+16/E. § (1) Az Nftv. 32. § (2) bekezdésében meghatározott címmel rendelkező személy – kivételesen, a szenátus döntése alapján – oktatói vagy tanári munkakörben foglalkoztatható. A munkakör betöltésével kapcsolatos további feltételeket és részletes szabályokat az Egyetem foglalkoztatási követelményrendszerében kell meghatározni.
+
+(2) Az Nftv. 32. § (2) bekezdés b) pontja alapján adományozott címmel rendelkező személy részére az Egyetem szervezeti és működési szabályzata lehetővé teheti, hogy az Nftv. 52/B. §-ára is figyelemmel, címét – a címnek az Nftv. 32. § (2) bekezdés b) pontjában foglalt elnevezésétől eltérő – az Egyetemre vagy az oktató hivatására utaló, a szervezeti és működési szabályzatban meghatározott elnevezéssel viselje.
+
+16/F. § Az Egyetem a szervezeti és működési szabályzatában munkaköröket határozhat meg speciális oktatási, képzési tevékenységre. E munkakörök betöltőit az Egyetem szakjainak akkreditációja során teljes munkaidőben foglalkoztatott oktatóként kell figyelembe venni azzal, hogy e személyeket az Nftv. 9. § (3) bekezdés b) pontja szerinti számítás során figyelmen kívül kell hagyni.
+
+16/G. § Az Egyetemen a Kjt. 57. § (3) bekezdése szerinti oktatással és neveléssel kapcsolatos munkák körét a szervezeti és működési szabályzat határozza meg.
+
+16/H. § Közalkalmazotti jogviszony – a Kjt.-ben meghatározott eseteken túl – a munka törvénykönyvéről szóló törvényben meghatározott feltételekkel határozott időre is létesíthető.
 
 #### 2. A vezetőkre vonatkozó szabályok
 
@@ -184,6 +208,7 @@ gyakorolhatja.
 - d) gazdasági főigazgató,
 - e) campus főigazgató,
 - f) főtitkár.
+- g) nemzetközi főigazgató.
 
 (2) A campus főigazgató az Egyetem használatában lévő vagyon használatával, védelmével összefüggő feladatok ellátását irányítja.
 
@@ -198,7 +223,9 @@ gyakorolhatja.
 
 (5) Az oktatói és a kutatói munkakör vonatkozásában az Nftv. 31. § (4) bekezdésében, valamint a magasabb vezetői és a vezetői megbízás tekintetében az Nftv. 37. § (6) bekezdésében meghatározott felső korhatárra vonatkozó korlátozás alól a Fenntartó felmentést adhat.
 
-18. § (1) A rektorhelyettest, a dékánt és a főtitkárt a rektor a Fenntartó előzetes egyetértésével bízza meg.
+(6) Az (1) bekezdés d), e) és g) pontjában meghatározott magasabb vezetői megbízás pályázat útján történő meghosszabbítása vonatkozásában az Nftv. 37. § (3) bekezdésében meghatározott korlátozás alól – a pályázati kötelezettséget nem érintve – a Fenntartó felmentést adhat.
+
+18. § (1) A rektorhelyettest, a dékánt, a főtitkárt és a nemzetközi főigazgatót a rektor a Fenntartó előzetes egyetértésével bízza meg.
 
 (2) Rektorhelyettesi, illetve dékáni vezetői megbízást egyetemi tanár és egyetemi docens kaphat.
 
@@ -231,7 +258,9 @@ gyakorolhatja.
 
 (4) A közszolgálati ösztöndíjas hallgatókkal az Egyetem szerződést köt.
 
-(5) A közszolgálati ösztöndíjas hallgatók tekintetében az Nftv.-nek a támogatási idő számítására vonatkozó 47. §-ának rendelkezései közül kizárólag az Nftv. 47. § (2)–(3) bekezdését és azzal összefüggésben(4)–(6) bekezdését, valamint (8) bekezdését kell alkalmazni azzal, hogy a támogatási idő számításakor kizárólag az Egyetem közszolgálati ösztöndíjjal támogatott képzésén igénybe vett támogatási időt kell figyelembe venni. Az (1) bekezdés b)–d) pontjában meghatározott hallgatók tekintetében az Nftv. 47. §-a – az Nftv. 47. § (6) bekezdés d) pontja kivételével – nem alkalmazandó.
+(5) A közszolgálati ösztöndíjas hallgatók tekintetében az Nftv.-nek a támogatási idő számítására vonatkozó 47. §-ának rendelkezései közül kizárólag az Nftv. 47. § (2)–(3) bekezdését és azzal összefüggésben
+
+(4)–(6) bekezdését, valamint (8) bekezdését kell alkalmazni azzal, hogy a támogatási idő számításakor kizárólag az Egyetem közszolgálati ösztöndíjjal támogatott képzésén igénybe vett támogatási időt kell figyelembe venni. Az (1) bekezdés b)–d) pontjában meghatározott hallgatók tekintetében az Nftv. 47. §-a – az Nftv. 47. § (6) bekezdés d) pontja kivételével – nem alkalmazandó.
 
 (6) Az Nftv. 48. § (2)–(3) bekezdését kizárólag az önköltséges képzésben részt vevő, valamint a közszolgálati ösztöndíjas hallgató tekintetében kell alkalmazni.
 
@@ -384,7 +413,7 @@ kezeli.
 
 35. § (1) Az Egyetem központi költségvetési szerv.
 
-(2) Az Egyetem költségvetését a közigazgatás-fejlesztésért felelős miniszter által vezetett minisztérium költségvetési fejezetében önálló címen kell biztosítani. Az igazságügyért felelős miniszter, a rendészetért felelős miniszter, az innovációért és technológiáért felelős miniszter, a honvédelemért felelős miniszter, a felsőoktatásért felelős miniszter, valamint a külpolitikáért felelős miniszter az Egyetemmel kötött megállapodás alapján kiegészítő jelleggel költségvetési támogatást biztosíthat az általa vezetett minisztérium költségvetési fejezetében.
+(2) Az Egyetem költségvetését a közigazgatás-fejlesztésért felelős miniszter által vezetett minisztérium költségvetési fejezetében önálló címen kell biztosítani. Az igazságügyért felelős miniszter, a rendészetért felelős miniszter, a felnőttképzésért felelős miniszter, a honvédelemért felelős miniszter, a felsőoktatásért felelős miniszter, valamint a külpolitikáért felelős miniszter az Egyetemmel kötött megállapodás alapján kiegészítő jelleggel költségvetési támogatást biztosíthat az általa vezetett minisztérium költségvetési fejezetében.
 
 36. § (1) A rendészeti ösztöndíjas hallgató, valamint a 21/A. § (1) bekezdés b) pontja szerinti hallgató pénzbeli juttatásának fedezetét – a (4) bekezdés a) pontjában meghatározott eltéréssel – az ösztöndíjszerződést kötő, illetve beiskolázó szerv éves költségvetésében kell biztosítani.
 
@@ -407,7 +436,7 @@ kezeli.
 
 (7) Az Egyetem költségvetési forrásai terhére az Egyetem alapító okiratban meghatározott feladataival és alaptevékenységével összefüggésben támogatás, adomány és más ellenérték nélküli kötelezettség vállalható, valamint kifizetés teljesíthető.
 
-37. §
+37. § Az Egyetem egyoldalú nyilatkozattal csatlakozhat bármely egységes állami beszerzési rendszerhez, és onnan egyoldalú nyilatkozattal távozhat, ide nem értve a Közbeszerzési és Ellátási Főigazgatóság által lefolytatott központi beszerzésekből az egyoldalú nyilatkozattal történő távozást.
 
 ### VII. Fejezet — A MINŐSÍTETT ADAT VÉDELME AZ EGYETEMEN
 
@@ -424,7 +453,7 @@ kezeli.
 - a) az államtudományi és közigazgatási felsőoktatás tekintetében az igazságügyért felelős miniszter és a közigazgatás-fejlesztésért felelős miniszter együttesen,
 - b) a rendészeti felsőoktatás tekintetében a rendészetért felelős miniszter,
 - c) a katonai felsőoktatás tekintetében a honvédelemért felelős miniszter,
-- d) a nemzetbiztonsági felsőoktatás tekintetében a rendészetért felelős miniszter és a honvédelemért felelős miniszter,
+- d) a nemzetbiztonsági felsőoktatás tekintetében a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, a rendészetért felelős miniszter és a honvédelemért felelős miniszter,
 - e) a nemzetközi és európai közszolgálati felsőoktatás tekintetében a közigazgatás-fejlesztésért felelős miniszter és az igazságügyért felelős miniszter együttesen.
 
 (2) A felügyelet a miniszterek részére a VII. Fejezetben és az e Fejezetben meghatározott jogokat foglalja magában.

@@ -46,13 +46,13 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (3) A külföldi oklevelek által tanúsított tudományos fokozat e törvény III. Fejezete szerinti honosítása azon hazai felsőoktatási intézmény feladata, amely a felsőoktatásról szóló törvény (a továbbiakban: Ftv.) szerint a külföldi oklevélnek megfelelő tudományágban vagy művészeti ágban doktori fokozat odaítélésére jogosult.
 
-(4) A kérelmező valamely külföldi képzés sikeres elvégzését tanúsító okiratának hazai felsőoktatási intézményben foglalkoztatott oktató vagy tudományos kutató képesítésként történő, a Harmadik rész szerinti elismerése azon hazai felsőoktatási intézmény feladata, amely a külföldi képzés sikeres elvégzését tanúsító okirattal rendelkező kérelmezőt foglalkoztatni kívánja.
+(4)
 
 (4a) A kérelmező külföldi oklevelének hazai felsőoktatási intézmény oktatói vagy tudományos kutatói munkakörének betöltése céljából a 14/A. § (2) bekezdése szerint hazai mesterfokozatként történő elismerése azon hazai felsőoktatási intézmény feladata, amely a külföldi oklevéllel rendelkező kérelmezőt foglalkoztatni kívánja.
 
 (5)
 
-(6) A külföldi oklevelek által tanúsított hitéleti képzés szakképzettségének elismerése az olyan hazai vallási közösség által fenntartott felsőoktatási intézmény hatásköre, amely a megfelelő hazai oklevél kiállítására jogosult.
+(6) A külföldi oklevelek által tanúsított szakképzettség hitéleti szakon megszerezhető szakképzettségként történő elismerése az olyan hazai vallási közösség által fenntartott felsőoktatási intézmény hatásköre, amely a megfelelő hazai oklevél kiállítására jogosult.
 
 (7) Külföldön folytatott résztanulmányok beszámítása annak az oktatási intézménynek a hatásköre, amelyben a kérelmező a tanulmányait folytatni szándékozik.
 
@@ -78,7 +78,9 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (5)–(6)
 
-### Az elismerési és a honosítási eljárásközös eljárási szabályai
+### Az elismerési és a honosítási eljárás
+
+közös eljárási szabályai
 
 6. § (1) A külföldi bizonyítvány és oklevél által tanúsított végzettségi szint, szakképesítés, szakképzettség vagy tudományos fokozat elismerése az elismerési vagy a honosítási eljárás során történik.
 
@@ -94,7 +96,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (3) Az e törvény rendelkezései alapján benyújtandó okirat benyújtása helyett az ügyfél az okirat által bizonyítani kívánt tényről kizárólag akkor tehet nyilatkozatot, ha e törvény azt megengedi.
 
-8. §
+#### 8. §
 
 9. § (1) Az eljáró hatóság húsz napon belül hiánypótlásra hívja fel a kérelmezőt, ha a kérelmet nem a jogszabályoknak megfelelően nyújtotta be.
 
@@ -112,7 +114,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (7) Az eljáró hatóság az (5) és a (6) bekezdésben foglalt határidőt két héttel meghosszabbíthatja, azzal, hogy a meghosszabbítás okát meg kell indokolnia. A közegészséget vagy a szolgáltatás igénybe vevőjének biztonságát érintő esetben az eljáró hatóság a határidőt további két héttel meghosszabbíthatja.
 
-10. §
+#### 10. §
 
 11. § (1) Ha az eljáró hatóság oktatási intézmény, az elsőfokú döntés ellen a köznevelésért felelős miniszterhez, a felsőoktatásért felelős miniszterhez, illetve a szakképzésért felelős miniszterhez, más esetben a Kormány rendeletében kijelölt hatósághoz lehet fellebbezni.
 
@@ -126,7 +128,9 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 ## MÁSODIK RÉSZ — AZ ELISMERÉS ÉS A HONOSÍTÁS KÜLÖNÖS SZABÁLYAI
 
-### II. Fejezet — AZ ALAPFOKÚ, A KÖZÉPFOKÚÉS A FELSŐFOKÚ VÉGZETTSÉGI SZINT ELISMERÉSE
+### II. Fejezet — AZ ALAPFOKÚ, A KÖZÉPFOKÚ
+
+ÉS A FELSŐFOKÚ VÉGZETTSÉGI SZINT ELISMERÉSE
 
 ### Az általános iskolai végzettségi szint elismerése
 
@@ -155,7 +159,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 - b) a kérelmezőt az adott országban felsőoktatási intézménybe történő jelentkezésre jogosítja, és
 - c) valószínűsíti, hogy a kérelmező felkészült a további tanulmányok folytatására.
 
-(4) Nem felsőoktatási képzésben történő továbbtanulásra való jelentkezésre jogosító hazai érettségi bizonyítványként ismerhető el az a külföldi bizonyítvány, amely azért nem tartozik az (1) vagy a (3) bekezdés hatálya alá, mert a kérelmezőt nem jogosítja az adott országban felsőoktatási intézménybe történő jelentkezésre, vagy kizárólag valamely külföldi felsőoktatási képzésre, képzési területre vagy felsőoktatási intézménytípusban történő továbbtanulásra való jelentkezésre jogosít, feltéve, hogy a bizonyítvány jogosít nem felsőoktatási képzésben történő továbbtanulásra való jelentkezésre az adott országban.
+(4) Nem felsőoktatási képzésben történő továbbtanulásra való jelentkezésre jogosító hazai érettségi bizonyítványként ismerhető el az a külföldi bizonyítvány, amely azért nem tartozik az (1) vagy a (3) bekezdés hatálya alá, mert a kérelmezőt nem jogosítja az adott országban felsőoktatási intézménybe történő jelentkezésre, vagy kizárólag valamely külföldi felsőoktatási képzésre, képzési területre vagy felsőoktatási intézménytípusban történő továbbtanulásra való jelentkezésre jogosít, feltéve, hogy a bizonyítvány jogosít nem felsőoktatási képzésben történő továbbtanulásra való jelentkezésre az adott országban, továbbá az a külföldi bizonyítvány, amely a kérelmezőt az adott országban felsőoktatási intézménybe történő jelentkezésre jogosítja, azonban amely nem felel meg a (2) bekezdés b) vagy c) pontjában foglaltaknak.
 
 (5) Ha a bizonyítvány nem tartozik az (1) bekezdés hatálya alá, és a (2) bekezdés szerint sem ismerhető el, a kérelmező bármely, érettségi vizsga lebonyolítására, érettségi bizonyítvány kiállítására jogosult oktatási intézményben, vizsgaközpontban kérheti tanulmányainak és vizsgáinak az érettségi vizsgába történő beszámítását. Az oktatási intézmény, illetve a vizsgaközpont állapítja meg, hogy milyen tantárgyból kell érettségi vizsgát tenni, amelynek letételét követően kiállítja a magyar érettségi bizonyítványt.
 
@@ -171,7 +175,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (5) Ha külföldi felsőoktatási intézmény Magyarországon rendszeres alapképzést, mesterképzést, szakirányú vagy doktori képzést (önállóan, más szervezet keretében vagy azzal együttműködve, távoktatás keretében vagy más hasonló módon) folytat, akkor oklevelét akkor lehet elismerni, ha hazai működését az oktatási hivatal engedélyezte.
 
-(6) Ha külföldi felsőoktatási intézmény rendszeres alapképzést, szakirányú vagy doktori képzést (önállóan, más szervezet keretében vagy azzal együttműködve, távoktatás keretében vagy más hasonló módon) a székhelyétől eltérő államban folytat, oklevelét akkor lehet elismerni, ha a képzést mindkét államban elismerik.
+(6) Ha külföldi felsőoktatási intézmény rendszeres alapképzést, mesterképzést, szakirányú vagy doktori képzést (önállóan, más szervezet keretében vagy azzal együttműködve, távoktatás keretében vagy más hasonló módon) a székhelyétől eltérő államban folytat, oklevelét akkor lehet elismerni, ha a képzést mindkét államban elismerik.
 
 (7) A külföldi közös fokozatot tanúsító oklevél a 14/A. § (1)–(3) bekezdésének megfelelő alkalmazásával abban az esetben ismerhető el hazai felsőoktatási intézményben megszerezhető felsőfokú végzettségi szintet tanúsító oklevélként, ha
 
@@ -206,6 +210,14 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 - a) felsőfokú képzésben folytatott legalább kétéves időtartamú tanulmányok befejezését tanúsítja, és
 - b) nem tanúsít az (1), (2), (3) vagy (4) bekezdés szerinti végzettséget.
 
+14/B. § (1) Továbbtanulás esetén alapfokozat végzettségi szintet tanúsítónak minősül az az államilag elismert külföldi oklevél, amelyet az Európai Felsőoktatási Térség (a továbbiakban: Felsőoktatási Térség) valamely részes államában annak a Felsőoktatási Térséghez való csatlakozását követően állítottak ki, és amely a Bolognai Nyilatkozat alapján létrejött felsőoktatási fokozatrendszer első fokozatát tanúsítja.
+
+(2) Továbbtanulás esetén mesterfokozat végzettségi szintet tanúsítónak minősül az az államilag elismert külföldi oklevél, amelyet a Felsőoktatási Térség valamely részes államában annak a Felsőoktatási Térséghez való csatlakozását követően állítottak ki, és amely a Bolognai Nyilatkozat alapján létrejött felsőoktatási fokozatrendszer második fokozatát tanúsítja.
+
+(3) Az (1) és a (2) bekezdés szerinti oklevél által tanúsított szakképzettség elismerésére a 4. § (2) bekezdését kell alkalmazni.
+
+(4) Ha a felsőoktatási intézmény megállapítja, hogy az (1) vagy a (2) bekezdés hatálya alá tartozó oklevélhez vezető képzés minőségbiztosítás szempontjából lényegesen különbözik az adott külföldi felsőoktatási intézmény vagy az adott külföldi ország hasonló okleveleihez vezető képzéseitől és ezért a kérelmező nem felkészült a további tanulmányokra, a külföldi oklevél továbbtanulás céljából való figyelembe vételét határozatban megtagadja.
+
 ### III. Fejezet — TUDOMÁNYOS FOKOZAT HONOSÍTÁSA
 
 15. § (1) Az eljáró hatóság doktori fokozatszerzési eljárásban megszerezhető oklevél által tanúsított tudományos fokozatként („Doctor of Philosophy”, rövidítve: PhD) vagy művészeti képzésben megszerezhető fokozatként („Doctor of Liberal Arts”, rövidítve: DLA) honosítja a külföldön szerzett tudományos fokozatot akkor, ha
@@ -227,6 +239,8 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (2) Ha a kérelmező képzése és a megfelelő hazai képesítéshez vezető képzés között alapvető különbség van, az eljáró hatóság a bizonyítvány elismerését szakmai vizsga letételéhez kötheti.
 
+(2a) Egészségügyi szakképesítés elismerése esetében az eljáró hatóság – a kérelmező választása alapján – előírja, hogy a szakmai vizsga helyett teljes munkaidőben legfeljebb egy évig vagy ezzel egyenértékű részmunkaidőben, akkreditált egészségügyi szolgáltatónál, illetve akkreditált gyógyszertárban az egészségügyről szóló törvény szerinti felügyelet melletti, a szakképesítésének megfelelő tevékenységet folytasson, ha annak révén is biztosítható, hogy a kérelmező a szakma magyarországi gyakorlásához szükséges szakmai ismeretekkel és nyelvismerettel rendelkezzen.
+
 (3) Szakmai vizsga annak ellenőrzése érdekében írható elő, hogy a kérelmező rendelkezik-e a hazai képzésben megszerezhető ismeretekkel. Szakmai vizsga előírása esetén a határozatban rendelkezni kell a vizsga követelményeiről, a vizsgáztató szervről és a vizsga letételének határidejéről. A vizsga követelményei csak olyan ismeretek számonkérését tartalmazhatják, amelyeket a magyar jog által meghatározott képesítési követelmények írnak elő, vagy amelyet a hazai képzés tartalmaz, és a kérelmező külföldi tanulmányai során nem szerzett meg, vagy nem állapítható meg, hogy megszerezte. A szakmai vizsga követelményeinek megállapításánál figyelembe kell venni a kérelmező szakmai gyakorlatát és azt a képzést is, amelyben a kérelmező a bizonyítvány vagy az oklevél megszerzése után vett részt.
 
 (4) A mestervizsga elismerésére az (1)–(3) bekezdés rendelkezéseit megfelelően alkalmazni kell.
@@ -238,7 +252,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 18. § (1) Külföldi oklevél által tanúsított szakképzettség akkor ismerhető el a hazai felsőoktatásban megszerezhető szakképzettségként, ha
 
 - a) a szakképzettség az oklevél által tanúsított alapfokozathoz, mesterfokozathoz, felsőfokú szakképzést, felsőoktatási szakképesítést vagy szakirányú továbbképzést tanúsító oklevélhez kapcsolódik, és
-- b) megállapítható, hogy a kérelmező képzése megfelel a jogszabály által előírt képzési és kimeneti követelményeknek és a hazai képzés rendjének.
+- b) megállapítható, hogy a kérelmező képzése megfelel az előírt képzési és kimeneti követelményeknek és a hazai képzés rendjének.
 
 (2) Az eljáró hatóság a szakképzettség elismerését feltételekhez kötheti. Ha a kérelmező képzése és a megfelelő hazai képesítéshez vezető képzés között alapvető különbség van, az eljáró hatóság előírhatja, hogy a kérelmező
 
@@ -247,6 +261,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 - c) tegyen szakmai vizsgát [16. § (3) bekezdés],
 - d) tegyen eleget más kiegészítő feltételeknek, ha a külföldi képzés rendje eltér a hazai képzés rendjétől, de a különbség hazai felsőoktatási intézményben kiegészítő vizsgák, kiegészítő képzés teljesítésével kiküszöbölhető, illetve
 - e) tegyen esküt vagy fogadalmat, ha a szakképzettség hazai gyakorlásához ezt jogszabály előírja.
+- f) az ápoló, az okleveles kiterjesztett hatáskörű ápoló, az orvos, a fogorvos, illetve a gyógyszerész szakképzettségként történő elismerés céljából teljes munkaidőben egy évig vagy ezzel egyenértékű részmunkaidőben, akkreditált egészségügyi szolgáltatónál, illetve akkreditált gyógyszertárban az egészségügyről szóló törvény szerinti felügyelet melletti, a szakképzettségnek megfelelő tevékenységet folytasson.
 
 (3) Szakmai gyakorlat végzése akkor írható elő, ha azt a hazai képzési és kimeneti követelmények az oklevél megszerzésének feltételeként tartalmazzák. A határozatban rendelkezni kell a szakmai gyakorlat időtartamáról, a gyakorlatot szervező intézményről és az intézménynél történő jelentkezés határidejéről.
 
@@ -296,17 +311,21 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (2) A Harmadik rész hatálya nem terjed ki a közjegyzőkre.
 
-### Az európai uniós jog hatálya alá tartozó elismerés különös eljárási szabályai
+### Az európai uniós jog hatálya alá tartozó
+
+elismerés különös eljárási szabályai
 
 23. § (1)–(3)
 
 (4) E rész hatálya alá tartozó elismerési eljárásra irányuló kérelemnek minősül az európai szakmai kártya létrehozására irányuló kérelem is.
 
-24. §
+#### 24. §
 
 25. § Az eljáró hatóság a kérelmezőt a kérelem kézhezvételétől számított harminc napon belül tájékoztatja a kérelem kézhezvételéről.
 
-### Valamely tagállamban kiállított okiratokfelhasználása
+### Valamely tagállamban kiállított okiratok
+
+felhasználása
 
 26. § (1)–(3)
 
@@ -630,17 +649,33 @@ az eljáró hatóság csak akkor ismeri el az (1) bekezdés szerint a képzés e
 
 ### Valamely tagállamban kiállított okiratok hazai képzettségi tanúsítványként történő elismerése
 
-43. §
+#### 43. §
 
 ### A végzettségi szint elismerése
 
-44. §
+#### 44. §
 
 ### IX. Fejezet — [
 
 A SZAKMAI GYAKORLATON ALAPULÓ ELISMERÉS]
 
-45–53. §
+#### 45. §
+
+#### 46. §
+
+#### 47. §
+
+#### 48. §
+
+#### 49. §
+
+#### 50. §
+
+#### 51. §
+
+#### 52. §
+
+#### 53. §
 
 ### X/A. Fejezet — A MÉRGEZŐ TERMÉKEK KERESKEDELEMÉRE VONATKOZÓ KÜLÖNÖS RENDELKEZÉSEK
 
@@ -730,9 +765,19 @@ kezeli.
 
 (3) A riasztási mechanizmusban közreműködő hatóság jogosult az általa az (1) bekezdés szerint kezelt, a büntetőeljárásban kiszabott foglalkozástól eltiltás várható leteltének napjára vonatkozó adat ellenőrzése céljából a bűnügyi nyilvántartási rendszerből való adatigénylésre.
 
-57–60. §
+#### 57. §
 
-## NEGYEDIK RÉSZ — A HAZAI BIZONYÍTVÁNYOKRÓL, OKLEVELEKRŐL ÉS A HAZAI SZAKMAI GYAKORLATRÓL SZÓLÓ HATÓSÁGI BIZONYÍTVÁNY, AZ EURÓPAI SZAKMAI KÁRTYA, A SZAKMÁK ÚJ SZABÁLYOZÁSÁNAK ELFOGADÁSÁT MEGELŐZŐ ARÁNYOSSÁGI ÉRTÉKELÉS SZABÁLYAI, A TÁJÉKOZTATÁS, A RÉSZTANULMÁNYOK BESZÁMÍTÁSA, AZ ELJÁRÁS DÍJA ÉS A ZÁRÓ RENDELKEZÉSEK
+#### 58. §
+
+#### 59. §
+
+#### 59/A. §
+
+#### 60. §
+
+## NEGYEDIK RÉSZ — A HAZAI BIZONYÍTVÁNYOKRÓL, OKLEVELEKRŐL ÉS A HAZAI SZAKMAI GYAKORLATRÓL SZÓLÓ HATÓSÁGI BIZONYÍTVÁNY, AZ EURÓPAI SZAKMAI KÁRTYA, A SZAKMÁK ÚJ SZABÁLYOZÁSÁNAK ELFOGADÁSÁT MEGELŐZŐ ARÁNYOSSÁGI ÉRTÉKELÉS SZABÁLYAI, A TÁJÉKOZTATÁS,
+
+A RÉSZTANULMÁNYOK BESZÁMÍTÁSA, AZ ELJÁRÁS DÍJA ÉS A ZÁRÓ RENDELKEZÉSEK
 
 ### XI. Fejezet — A HAZAI BIZONYÍTVÁNYOKRÓL, OKLEVELEKRŐL ÉS A HAZAI SZAKMAI GYAKORLATRÓL SZÓLÓ HATÓSÁGI BIZONYÍTVÁNY ÉS A MÁS EGT-ÁLLAMI HATÓSÁGOK ÁLTALI MEGKERESÉSEK TELJESÍTÉSE
 
@@ -1005,6 +1050,8 @@ kezeli.
 - k) a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keretében történő belépésének és tartózkodásának feltételeiről szóló 2014. május 15-i 2014/66/EU parlamenti és tanácsi irányelve,
 - l) a szakmák új szabályozásának elfogadását megelőző arányossági tesztről szóló, 2018. június 28-i (EU) 2018/958 európai parlamenti és tanácsi irányelv.
 
-70–71. §
+#### 70. §
 
-72. §
+#### 71. §
+
+#### 72. §

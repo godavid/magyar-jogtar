@@ -72,7 +72,7 @@ biztosítja.
 
 6. § A 2. § (1) bekezdésében meghatározott célok ellátását szolgáló, az 1. mellékletben felsorolt állami tulajdonban lévő ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kerülnek.
 
-7. § A Kormány legkésőbb 2022. december 31-éig beszámol az Országgyűlésnek az Intézmény létesítésével kapcsolatos beruházás előkészítéséről és a megvalósítás tervezett költségeiről.
+7. § A Kormány legkésőbb 2024. június 30-áig beszámol az Országgyűlésnek az Intézmény létesítésével kapcsolatos beruházás előkészítéséről és a megvalósítás tervezett költségeiről.
 
 8. § Ez a törvény a kihirdetését követő napon lép hatályba.
 

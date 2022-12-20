@@ -30,6 +30,14 @@ A Nyíregyházi Egyetem többfókuszú stratégiai céljainak megvalósítása, 
 
 (5) A 2. mellékletben foglalt táblázat 3. sorában meghatározott ingatlan tulajdonjogát az Alapítvány terhek nélkül szerzi meg.
 
+3/A. § (1) A Napkor külterület 0178/27 helyrajzi számú ingatlan állami tulajdonban álló 68/100-ad tulajdoni hányadát (a továbbiakban: Ingatlanhányad) alapítói vagyoni juttatásként indulótőke növelése érdekében, ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása érdekében az Alapítvány tulajdonába kell adni.
+
+(2) Az Ingatlanhányad tulajdonjogát az Alapítvány terhekkel és kötelezettségekkel együtt szerzi meg.
+
+(3) Az Alapítvány a részére tulajdonába adott Ingatlanhányadot – az (1) és (2) bekezdésben foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Alapítvány a tulajdonába adott Ingatlanhányadot értékesíti, az Ingatlanhányad átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Alapítvány az Ingatlanhányad értékesítéséből származó bevételt működési költségek finanszírozására nem használhatja fel.
+
+3/B. § Az Ingatlanhányad tekintetében a tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti el és köti meg az Alapítvánnyal.
+
 4. § Az Alapítvány a tulajdonába adott ingatlant – a 3. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Alapítvány a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét az alaptevékenységét szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Alapítvány az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
 
 #### 3. Az Egyetem részére történő vagyonjuttatás
@@ -56,9 +64,9 @@ A Nyíregyházi Egyetem többfókuszú stratégiai céljainak megvalósítása, 
 
 (2) Az 1. § (4) bekezdése, a 2–6. §, a 9. § és az 1. melléklet 2021. augusztus 1-jén lép hatályba.
 
-8. § Az 1. § (3)–(5) bekezdése, a 2. §, a 3. § (1), (4) és (5) bekezdése, a 4. §, az 5. § (1), (5) és (7) bekezdése, a 6. §, a 9. §, valamint az 1. és 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+8. § Az 1. § (3)–(5) bekezdése, a 2. §, a 3. § (1), (4) és (5) bekezdése, a 3/A. §, a 4. §, az 5. § (1), (5) és (7) bekezdése, a 6. §, a 9. §, valamint az 1. és 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
-9. §
+#### 9. §
 
 ### 1. melléklet a 2021. évi XXI. törvényhez
 

@@ -46,6 +46,10 @@ A multidiszciplináris jellegű Debreceni Egyetem többfókuszú stratégiai cé
 
 (3a) Az Egyetem egészségügyi feladatellátására tekintettel használatba kapott, a közfeladat-ellátáshoz szükséges állami tulajdonú ingó vagyontárgyak az Egyetem tulajdonába kerülnek.
 
+(3b) A Nemzeti Földalapról szóló törvény szerinti közös tulajdonosi joggyakorlás alatt álló ingatlanokról szóló kormányrendelet szerinti minősítési eljárást követően a Debrecen külterület 01062/2, 015/2, 0212/3, 0212/4, 0319/3, valamint a Kisvárda külterület 0121/7, valamint a Nagykálló külterület 0475, 0488 helyrajzi számú állami tulajdonban lévő ingatlanok Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló kivett alrészletei az 5/A. § szabályai szerint az Egyetem vagyonkezelésébe kerülnek, azzal, hogy a vagyonkezelés kiterjed a telekalakítást követően létrejövő ingatlanokra.
+
+(3c) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló, Debrecen belterület 19552 helyrajzi számú állami tulajdonban álló ingatlanból telekmegosztással létrejövő ingatlanokat ingyenesen, nyilvántartási értéken történő átvezetéssel – e §-ban foglaltak alkalmazásával – az Egyetem tulajdonába kell adni, azzal, hogy az Egyetem az ingatlant terhelő kötelezettségeket teljes körűen átvállalja.
+
 (4) A (3) és (3a) bekezdés szerint átszálló ingóságokról és egyéb vagyonelemekről jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok és egyéb vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
 (5) Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
@@ -60,7 +64,23 @@ A multidiszciplináris jellegű Debreceni Egyetem többfókuszú stratégiai cé
 
 (10) Ha az Egyetem a tulajdonába adott üzletrészeket elidegeníti, az elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítványnak az Egyetem útján ellátott közérdekű céljainak megvalósítására és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladatainak ellátására kell fordítani.
 
-(11) A Debrecen 66003/10 helyrajzi számú ingatlant az állam tulajdonszerzését és a helyrajzi számon folyamatban lévő beruházás megvalósulását követően – az (1)–(10) bekezdés, valamint a 6. § szerint – ingyenesen az Egyetem tulajdonába kell adni.
+(11) A Debrecen 66003/10 helyrajzi számú ingatlant ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni. Az ingatlan tulajdonjogának átruházásával egyidejűleg az ingatlanra megtervezett kézilabda munkacsarnok engedélyes és kiviteli terveit ingyenesen az Egyetem tulajdonába kell adni a beruházás ütemezett megvalósítása céljából.
+
+(12) Az olyan szerződéseket, amelyek ingatlanhoz kapcsolódóan lejáratkor vagyonnövekményt keletkeztetnek a szerződés eredeti szövege szerint a Magyar Állam javára az Egyetem vagyonkezelői jogának kikötése mellett, a fenntartóváltásra tekintettel akképp kell értelmezni, hogy az Egyetem vagyonszerzéséről rendelkeznek a szerződésben vagy szerződésekben szereplő felépítmény jellegű ingatlan, ingatlanok és ingóságok vonatkozásában, ha a vonatkozó ingatlan az Egyetem tulajdonába került.
+
+5/A. § (1) Az Egyetem közfeladatainak ellátása érdekében a 3. melléklet szerinti ingatlanok, valamint ingatlanrészek e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként ingyenesen továbbra is az Egyetem vagyonkezelésében maradnak.
+
+(2) A közfeladat ellátása érdekében a 3. melléklet szerinti ingatlanok kapcsán az Egyetem vagyonkezelői joga tekintetében vagyonkezelői szerződés megkötése nem szükséges.
+
+(3) Az Egyetem a Vtv. 27. § (7) bekezdése szerinti visszapótlási kötelezettség teljesítése alól e törvény erejénél fogva mentesül. Az Egyetem által az e törvény alapján végzett, a vagyonkezelt vagyonnal kapcsolatos tevékenység – ideértve a vagyonelemek hasznosítását is – közfeladatnak minősül.
+
+(4) Az Egyetem által teljesített értéknövelő beruházás, felújítás megvalósításával, új eszköz létrehozatalával vagy beszerzésével összefüggésben a feleknek egymással szemben megtérítési kötelezettsége nem keletkezik. Az állami vagyon növekedésével kapcsolatos nyilvántartási kötelezettségeinek az Egyetem – a tulajdonosi joggyakorlóval történő külön elszámolás nélkül – a tulajdonosi joggyakorló által vezetett vagyonnyilvántartásban történő, az állami vagyonnal való gazdálkodásról szóló kormányrendeletben foglalt adatszolgáltatási kötelezettségének teljesítésével tesz eleget.
+
+(5) Az Egyetemet megilletik az Nvtv. 11. § (8) bekezdése szerinti tulajdonosi jogok és terhelik a tulajdonos kötelezettségei, azzal, hogy az állami tulajdonban álló ingatlanok tekintetében az építési tevékenység megvalósítása céljából az Egyetem által kezdeményezett hatósági eljárásokban a tulajdonosi joggyakorló hozzájárulását megadottnak kell tekinteni.
+
+(6) Az Egyetemre nézve a tulajdonosi joggyakorló mindenkor hatályos vagyonnyilvántartási és tulajdonosi ellenőrzési szabályzata külön elfogadás nélkül is kötelező. Az Egyetem köteles a vagyonkezelésében álló állami vagyont – az e törvény alapján történő vagyonkezelésbe adás jogcímén – nyilvántartásba venni, és arról az állami vagyonnal való gazdálkodásról szóló kormányrendelet szerint adatot szolgáltatni a tulajdonosi joggyakorló részére.
+
+(7) A 3. mellékletben szereplő ingatlanok telekalakítása esetén az újonnan kialakult oktatási, tudományos kutatási feladatok ellátását szolgáló önálló helyrajzi számú ingatlanokon fennálló vagyonkezelést a telekalakítás nem érinti.
 
 6. § Az Egyetem a tulajdonába adott ingatlant – az 5. §-ban foglaltak alapján – a tulajdonátruházási szerződésben meghatározott célokra használhatja fel. Ha az Egyetem a tulajdonába adott ingatlant értékesíti, az ingatlan átruházásából származó bevételnek az átruházás költségeinek kiegyenlítését követően fennmaradó részét a KEKVA tv. 1. mellékletében meghatározott közfeladata ellátását szolgáló infrastruktúra-fejlesztési célok megvalósítására köteles fordítani. Az Egyetem az ingatlanértékesítésből származó bevételt működési költségek finanszírozására nem használhatja fel.
 
@@ -70,9 +90,9 @@ A multidiszciplináris jellegű Debreceni Egyetem többfókuszú stratégiai cé
 
 (2) Az 1. § (4) bekezdése, a 2–6. §, a 9. §, továbbá az 1. és a 2. melléklet 2021. augusztus 1-jén lép hatályba.
 
-8. § Az 1. § (3)–(5) bekezdése, a 2. § (1), (2) és (4) bekezdése, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1), (3), (3a), (5), (8), (10) és (11) bekezdése, a 6. §, a 9. §, valamint az 1. és a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+8. § Az 1. § (3)–(5) bekezdése, a 2. § (1), (2) és (4) bekezdése, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1), (3), (3a), (3c), (5), (8), (10), (11) és (12) bekezdése, a 6. §, a 9. §, valamint az 1. és a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
-9. §
+#### 9. §
 
 ### 1. melléklet a 2021. évi XIII. törvényhez
 
@@ -425,6 +445,7 @@ A multidiszciplináris jellegű Debreceni Egyetem többfókuszú stratégiai cé
 | 13 | DEBRECEN | 0204/35 | 1/1 | kivett telephely |
 | 14 | DEBRECEN | 0204/36 | 1/1 | kivett telephely |
 | 15 | DEBRECEN | 0204/37 | 1/1 | kivett beruházási célterület |
+| 15a. | DEBRECEN | 0204/43 | 1/1 | kivett közforgalom elől el nem zárt magánút |
 | 16 | DEBRECEN | 2919/25 | 1/1 | kivett kollégium |
 | 17 | DEBRECEN | 5116/A/35 | 1/1 | lakás |
 | 18 | DEBRECEN | 5116/A/36 | 1/1 | lakás |
@@ -557,3 +578,13 @@ A multidiszciplináris jellegű Debreceni Egyetem többfókuszú stratégiai cé
 | 145 | SZOLNOK | 9719/A | 1/1 | földhasználati jog alapján létesült épület oktatási épület |
 | 146 | ZAMÁRDI | 1392 | 1/1 | kivett hétvégi ház, udvar |
 | 147 | ZAMÁRDI | 1398 | 1/1 | kivett üdülőépület, udvar |
+
+### 3. melléklet
+
+#### Az Egyetem részére vagyonkezelésbe kerülő állami tulajdonú, az MNV Zrt. tulajdonosi joggyakorlása alá tartozó ingatlanok
+
+|  | A | B | C | D |
+| --- | --- | --- | --- | --- |
+| 1 | TELEPÜLÉS | HELYRAJZI SZÁM | MAGYAR ÁLLAM TULAJDONI HÁNYADA | MEGNEVEZÉS |
+| 2 | NYÍREGYHÁZA | 0416/8/a | 1/1 | kivett irodaház, udvar |
+| 3 | DEBRECEN | 0164/a | 1/1 | kivett meteorológiai állomás |

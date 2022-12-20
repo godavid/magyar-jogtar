@@ -14,7 +14,7 @@ A gazdaság- és társadalomtudományi képzési terület, ezen keresztül az in
 
 (4)
 
-2. §
+#### 2. §
 
 #### 2. Az Alapítvány részére történő vagyonjuttatás
 
@@ -29,6 +29,28 @@ A gazdaság- és társadalomtudományi képzési terület, ezen keresztül az in
 (2) Ha az Alapítvány a tulajdonába adott üzletrészt elidegeníti, az elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány közérdekű céljainak megvalósítására és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátására köteles fordítani.
 
 3/B. § A 3/A. § (1) bekezdésében meghatározott intézkedések végrehajtása során az állam képviseletében a miniszter jár el, aki 2021. augusztus 1. napjától az üzletrész felett a tulajdonosi jogokat gyakorolja.
+
+3/C. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján – az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása érdekében –
+
+- a) az államnak
+  - aa) a HUMDA Magyar Autó-Motorsport és Zöld Mobilitás-fejlesztési Ügynökség Zártkörűen Működő Részvénytársaságban és
+  - ab) a TECHTRA Technológiai Transzfer Intézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaságban
+
+a tulajdonában álló, 3. melléklet szerinti társasági részesedését, valamint
+
+- b) az Autóipari Próbapálya Zala Korlátolt Felelősségű Társaságban az állam tulajdonában álló, 3. melléklet szerinti üzletrészt
+
+[e § alkalmazásában az a) és b) pont a továbbiakban együtt: társasági részesedés] ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni.
+
+(2) Ha az Alapítvány a tulajdonába adott, (1) bekezdés szerinti társasági részesedést elidegeníti, az elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány közérdekű céljainak megvalósítására és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátására köteles fordítani.
+
+(3) Az (1) bekezdés szerinti tulajdonba adást 2022. december 30. napjáig kell teljesíteni.
+
+3/D. § (1) A 3/C. § (1) bekezdésében és a 3. mellékletben foglalt táblázatban meghatározott társasági részesedésnek az Alapítvány tulajdonába adása 3/C. § (3) bekezdése szerinti határidejét megelőzően az érintett gazdasági társaságokkal tulajdonosi ügyletként létrehozott támogatási jogviszony a társasági részesedés tulajdonosa változását követően is fennmarad azzal, hogy a támogatást nyújtó fejezetet irányító szerv a tulajdonos személyében beállt változást követő hatvan napon belül gondoskodik a támogatási jogviszony olyan irányú módosításáról, hogy az megfeleljen az államháztartásról szóló 2011. évi CXCV. törvény 49/B. § (2) bekezdése szerinti ágazati támogatási jogviszonynak.
+
+(2) Alapítói vagyonjuttatásként biztosítani kell az Alapítvány részére az Alapítvány céljainak megvalósításához, közfeladatának ellátásához szükséges további pénzügyi forrásokat, figyelemmel a 3/C. § (1) bekezdése szerinti vagyonjuttatásra.
+
+3/E. § A 3/C. §-ban meghatározott intézkedések végrehajtása során az állam képviseletében a felsőoktatásért felelős miniszter jár el, aki 2022. december 20. napjától a 3/C. § szerinti társasági részesedés felett a tulajdonosi jogokat gyakorolja.
 
 #### 3. Az Egyetem részére történő vagyonjuttatás
 
@@ -62,11 +84,11 @@ A gazdaság- és társadalomtudományi képzési terület, ezen keresztül az in
 
 7. § A 3. § (1) és (2) bekezdése, valamint az 5. § (1) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
-8. §
+#### 8. §
 
-9. §
+#### 9. §
 
-10. § A 3/A. §, az 5. § (2) bekezdése és az 1. melléklet 6a., 59–61. sora, valamint a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+10. § A 3/A. §, a 3/C. §, a 3/D. §, az 5. § (2) bekezdése, az 1. melléklet 6a., 59–61. sora, a 2. és a 3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 ### 1. melléklet a 2020. évi XXXVIII. törvényhez
 
@@ -78,7 +100,7 @@ A gazdaság- és társadalomtudományi képzési terület, ezen keresztül az in
 | 2. | BALATONALMÁDI | 3547 | 1/1 | kivett hétvégi ház és udvar |
 | 3. | BALATONUDVARI | 947 | 1/1 | kivett beépítetlen terület |
 | 4. | BALATONUDVARI | 950 | 1/1 | kivett üdülőépület, udvar |
-| 5. | GYŐR | 2583/1 | 1/1 | kivett középiskola |
+| 5. | GYŐR | 2583/1 | 1/3 | kivett középiskola |
 | 6. | GYŐR | 2672/114 | 1/1 | kivett lakóház |
 | 6a. | GYŐR | 3899/3 | 1/1 | kivett kórház |
 | 7. | GYŐR | 4651/3 | 1/1 | kivett szálloda és udvar |
@@ -135,7 +157,8 @@ A gazdaság- és társadalomtudományi képzési terület, ezen keresztül az in
 | 58. | MOSONMAGYARÓVÁR | 1358/3 | 1/1 | Kivett egyetem |
 | 59. | GYŐR | 8508 | 1/1 | Kivett gazdasági épület, udvar |
 | 60. | GYŐR | 8509/1 | 1/1 | Kivett beépítetlen terület |
-| 61. | GYŐR | 10140/3 | 1/1 | kivett beépítetlen terület” |
+| 61. | GYŐR | 10140/3 | 1/1 | kivett beépítetlen terület |
+| 62. | RAJKA | 0241/5 | 1/1 | kivett egyéb épület és udvar |
 
 ### 2. melléklet a 2020. évi XXXVIII. törvényhez
 
@@ -146,3 +169,14 @@ A gazdaság- és társadalomtudományi képzési terület, ezen keresztül az in
 | 1. | Gazdasági társaság megnevezése | Átadandó állami tulajdonban álló részesedés/üzletrész megjelölése |
 | 2. | RÁBA Járműipari Holding Nyrt. | 20% |
 | 3. | GYŐR-PÉR REPÜLŐTÉR Kft. | 15,2% |
+
+### 3. melléklet a 2020. évi XXXVIII. törvényhez
+
+#### Az Alapítvány részére történő vagyonjuttatás
+
+|  | A | B |
+| --- | --- | --- |
+| 1 | Gazdasági társaság megnevezése | Átadandó állami tulajdonban álló társasági részesedés megjelölése |
+| 2 | Autóipari Próbapálya Zala Korlátolt Felelősségű Társaság | 100% |
+| 3 | HUMDA Magyar Autó-Motorsport és Zöld Mobilitás-fejlesztési Ügynökség Zártkörűen Működő Részvénytársaság | 100% |
+| 4 | TECHTRA Technológiai Transzfer Intézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaságban | 100% |

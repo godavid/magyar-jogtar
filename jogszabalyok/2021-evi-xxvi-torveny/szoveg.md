@@ -60,17 +60,21 @@ A Pécsi Tudományegyetem nemzetközi szintű tudásközpont szerepének megerő
 
 8. § A Szekszárd 4443/1 helyrajzi számú ingatlant ingyenesen, nyilvántartási értékén történő átvezetéssel az Egyetem tulajdonába kell adni.
 
+8/A. § A 8. § szerinti ingatlanjuttatásra tekintettel a közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő állami tulajdonú ingó vagyontárgyak (a továbbiakban: ingóságok) e törvény erejénél fogva, e § hatályba lépésének napjával az Egyetem tulajdonába kerülnek.
+
+8/B. § Az átszálló ingóságokról jegyzőkönyvet kell felvenni a rendelkezés hatályba lépésétől számított 30 napon belül, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
 #### 4. Záró rendelkezések
 
 9. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
 (2) Az 1. § (4) bekezdése, a 2–8. §, a 11. §, továbbá az 1. és a 2. melléklet 2021. augusztus 1-jén lép hatályba.
 
-10. § (1) Az 1. § (3)–(5) bekezdése, a 2. §, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1), (5) és (7) bekezdése, a 6. § (2) bekezdése, a 7. § (1), (3) és (4) bekezdése, a 8. §, a 11. §, valamint az 1. és a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+10. § (1) Az 1. § (3)–(5) bekezdése, a 2. §, a 3. § (1) és (4) bekezdése, a 4. §, az 5. § (1), (5) és (7) bekezdése, a 6. § (2) bekezdése, a 7. § (1), (3) és (4) bekezdése, a 8. §, 8/A. §, a 11. §, valamint az 1. és a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
 
 (2) A 6. § (1) bekezdése az Alaptörvény 38. cikk (1), (2) és (6) bekezdése alapján sarkalatosnak minősül.
 
-11. §
+#### 11. §
 
 ### 1. melléklet a 2021. évi XXVI. törvényhez
 
