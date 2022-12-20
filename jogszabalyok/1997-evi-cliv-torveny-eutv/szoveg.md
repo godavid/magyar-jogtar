@@ -1938,7 +1938,7 @@ ha nem gazdasági célú letelepedés mellett kíván e törvény hatálya alá 
 - b) a szakképesítés elismerése tekintetében az Etv. IV. Fejezetét,
 - c) az elismerés további feltételei tekintetében az Etv. V. Fejezetét
 
-kell alkalmazni.
+kell alkalmazni, azzal az eltéréssel, hogy az Etv. 18. § (2) bekezdés f) pontja szerinti felügyelet mellett történő tevékenységvégzés egy évnél rövidebb időtartamú is lehet.
 
 (21) Ha az oklevél a (19) bekezdés alapján további feltételek előírása nélkül nem ismerhető el, az elismerés feltétele – a kérelmező által folytatott tanulmányok, valamint a megszerzett szakmai tapasztalat figyelembevételével – az e törvényben, továbbá külön jogszabályban meghatározott szempontok alapján kialakított szakmai tartalom és feltételrendszer szerinti kompenzációs intézkedések teljesítése.
 
