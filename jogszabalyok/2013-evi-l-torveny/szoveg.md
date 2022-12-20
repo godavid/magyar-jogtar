@@ -2,7 +2,11 @@
 
 az állami és önkormányzati szervek elektronikus információbiztonságáról
 
-A nemzet érdekében kiemelten fontos – napjaink információs társadalmát érő fenyegetések miatt – a nemzeti vagyon részét képező nemzeti elektronikus adatvagyon, valamint az ezt kezelő információs rendszerek, illetve a létfontosságú információs rendszerek és rendszerelemek biztonsága.Társadalmi elvárás az állam és polgárai számára elengedhetetlen elektronikus információs rendszerekben kezelt adatok és információk bizalmasságának, sértetlenségének és rendelkezésre állásának, valamint ezek rendszerelemei sértetlenségének és rendelkezésre állásának zárt, teljes körű, folytonos és a kockázatokkal arányos védelmének biztosítása, ezáltal a kibertér védelme.Mindezekre figyelemmel az Országgyűlés a következő törvényt alkotja:
+A nemzet érdekében kiemelten fontos – napjaink információs társadalmát érő fenyegetések miatt – a nemzeti vagyon részét képező nemzeti elektronikus adatvagyon, valamint az ezt kezelő információs rendszerek, illetve a létfontosságú információs rendszerek és rendszerelemek biztonsága.
+
+Társadalmi elvárás az állam és polgárai számára elengedhetetlen elektronikus információs rendszerekben kezelt adatok és információk bizalmasságának, sértetlenségének és rendelkezésre állásának, valamint ezek rendszerelemei sértetlenségének és rendelkezésre állásának zárt, teljes körű, folytonos és a kockázatokkal arányos védelmének biztosítása, ezáltal a kibertér védelme.
+
+Mindezekre figyelemmel az Országgyűlés a következő törvényt alkotja:
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -416,7 +420,7 @@ amely a rendszert működtető szervezet működéséhez szükséges alapvető i
 
 (3) Az információbiztonsági felügyelő határozott időtartamra szóló kirendeléséről és a kirendelés visszavonásáról az e-közigazgatásért felelős miniszter gondoskodik. Az információbiztonsági felügyelő tevékenységének szakmai irányítását az e-közigazgatásért felelős miniszter látja el.
 
-(4) Az információbiztonsági felügyelő az e-közigazgatásért felelős miniszter által vezetett minisztérium kormánytisztviselője, akinek a kormányzati szolgálati jogviszonyára a minisztériumban főosztályvezető-helyettesi munkakörben alkalmazott kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
+(4)
 
 (5) Információbiztonsági felügyelőnek az a személy nevezhető ki, aki rendelkezik a feladatellátáshoz szükséges felsőfokú végzettséggel és szakképzettséggel, valamint legalább 3 év vezetői gyakorlattal.
 
@@ -749,7 +753,7 @@ kell számítani.
 
 28. § E törvény tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
-28. §
+#### 28. §
 
 29. § Ez a törvény a hálózati és információs rendszerek biztonságának az egész Unióban egységesen magas szintjét biztosító intézkedésekről szóló, 2016. július 6-i, (EU) 2016/1148 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 

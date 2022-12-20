@@ -130,13 +130,17 @@ Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén 
 
 (8)
 
-10–11. §
+#### 10. §
+
+#### 11. §
 
 12. § (1) Más schengeni állam vízumkiadásra feljogosított diplomáciai vagy konzuli képviselete is kiadhat kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízumot Magyarország nevében.
 
 (2) A vízumkiadásra feljogosított magyar diplomáciai vagy konzuli képviselet más schengeni állam nevében is kiadhat vízumot.
 
-### III. Fejezet — A száznyolcvan napon belül kilencven napot meghaladótartózkodás szabályai
+### III. Fejezet — A száznyolcvan napon belül kilencven napot meghaladó
+
+tartózkodás szabályai
 
 ### Általános szabályok
 
@@ -896,7 +900,11 @@ iránti kérelmet terjeszt elő.
 
 (5) Az ideiglenes tartózkodásra jogosító igazolás kizárólag Magyarország területén történő tartózkodásra jogosít, ki- és visszautazást nem tesz lehetővé, a harmadik országbeli állampolgár kiutazásakor érvényét veszti, és azt kilépéskor a harmadik országbeli állampolgárnak le kell adnia. A leadott igazolást meg kell küldeni a kiállító hatóságnak.
 
-### Az Észak-atlanti Szerződés tagállamai közötti,fegyveres erőik jogállásáról szóló, 1951. június 19-én, Londonban kelt Megállapodás hatálya alá tartozó polgári állomány tagjai és a hozzátartozók beutazásaés tartózkodása
+### Az Észak-atlanti Szerződés tagállamai közötti,
+
+fegyveres erőik jogállásáról szóló, 1951. június 19-én, Londonban kelt Megállapodás hatálya alá tartozó polgári állomány tagjai és a hozzátartozók beutazása
+
+és tartózkodása
 
 31. § (1) Az 1999. évi CXVII. törvénnyel kihirdetett, az Észak-atlanti Szerződés tagállamai közötti, fegyveres erőik jogállásáról szóló, 1951. június 19-én, Londonban kelt Megállapodás (a továbbiakban: NATO-SOFA Megállapodás) hatálya alá tartozó, az I. Cikk b) pontjában meghatározott polgári állomány tagjai, valamint az I. Cikk c) pontjában meghatározott hozzátartozók (a továbbiakban: polgári személy) beutazására és tartózkodására – a III. Cikk 3. pontja szerinti státuszuk igazolása esetén – e törvény rendelkezéseit a (2)–(3) bekezdésben foglalt eltéréssel kell alkalmazni.
 
@@ -1024,11 +1032,11 @@ napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely az a) po
 
 (9) A Fehér Kártya birtokában Magyarországon töltött idő nem számít be az (1) bekezdés a) pontja szerinti tartózkodási időbe.
 
-35/A. §
+#### 35/A. §
 
-35/B. §
+#### 35/B. §
 
-35/C. §
+#### 35/C. §
 
 36. § (1) Különös méltánylást érdemlő körülmény esetén a harmadik országbeli állampolgár az idegenrendészetért és menekültügyért felelős miniszter döntése alapján a 13. § (1) bekezdés a) pontjában, a 33. § (1) bekezdésben és a 35. § (1) bekezdésében foglalt feltételek hiányában is kaphat nemzeti letelepedési engedélyt.
 
@@ -1387,7 +1395,9 @@ miatt utasított ki.
 
 (7) A fogadó szervezet (4) bekezdés e) pontja szerinti felelőssége a fogadási megállapodás megszűnését követő hat hónapig áll fenn.
 
-### A visszairányítás és a kiutasítás elrendelésére,illetve végrehajtására vonatkozó tilalom
+### A visszairányítás és a kiutasítás elrendelésére,
+
+illetve végrehajtására vonatkozó tilalom
 
 51. § (1) A visszairányítás, illetve a kiutasítás nem rendelhető el és nem hajtható végre olyan ország területére, amely az érintett tekintetében nem minősül biztonságos származási vagy biztonságos harmadik országnak, így különösen, ahol a harmadik országbeli állampolgár faji, vallási, nemzeti hovatartozása, egy meghatározott társadalmi csoporthoz tartozása vagy politikai véleménye miatt üldöztetés veszélyének lenne kitéve, továbbá olyan állam területére vagy olyan terület határára sem, ahol nyomós oknál fogva tartani lehet attól, hogy a visszairányított, illetve a kiutasított harmadik országbeli állampolgár az Alaptörvény XIV. cikk (3) bekezdésében meghatározott magatartásnak lenne kitéve (non-refoulement).
 
@@ -1919,7 +1929,9 @@ szerinti állam vonatkozásában.
 
 (3) A hontalan státusz felülvizsgálata tárgyában az eljáró idegenrendészeti hatóság negyvenöt napon belül dönt.
 
-### A harmadik országbeli állampolgárokúti okmánnyal ellátása
+### A harmadik országbeli állampolgárok
+
+úti okmánnyal ellátása
 
 82. § Magyarország külképviselete úti okmányt ad ki egyszeri utazásra annak a Magyarország által hontalanként elismert, bevándorolt, illetve letelepedett harmadik országbeli állampolgárnak, akinek külföldön elveszett vagy megsemmisült úti okmánya külföldön nem vagy csak aránytalan nehézségek árán pótolható, és emiatt Magyarország területére történő visszatérésére nincs lehetőség.
 
@@ -2945,6 +2957,7 @@ a másodfokú döntést hozó idegenrendészeti hatóság a döntést megsemmis�
 - s) a cégnyilvántartásban szereplő személyek személyazonosságának ellenőrzéséhez a céginformációs és az elektronikus cégeljárásban közreműködő szolgálat
 - t) a közúti közlekedési nyilvántartásban szereplő személy személyazonosságának ellenőrzéséhez a közúti közlekedési nyilvántartást vezető szerv
 - u) az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 12., 31., 36–40., 48., 49., 51. és 52. cikkéből következően, az (EU) 2019/1896 európai parlamenti és tanácsi rendeletben meghatározott célok érdekében az Európai Határ- és Partvédelmi Ügynökség és állománya, valamint az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 12., 31., 36–40., 48., 49., 51. és 52. cikke alapján felállított állomány tagja
+- v) az oktatási nyilvántartásról szóló törvény szerinti oktatási nyilvántartás működéséért felelős szerv
 
 részére továbbíthat adatot.
 
@@ -3092,11 +3105,11 @@ a Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására 
 
 - a) 14. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
 
-„a) tartózkodási engedély átvételére jogosító vízum, amely egyszeri, tartózkodási engedély átvétele céljából történő beutazásra és legfeljebb harminc napos tartózkodásra jogosít a Magyar Köztársaság területén;”;
+„a) tartózkodási engedély átvételére jogosító vízum, amely egyszeri, tartózkodási engedély átvétele céljából történő beutazásra és legfeljebb harminc napos tartózkodásra jogosít a Magyar Köztársaság területén;”;”
 
 - b) 15. §-a helyébe a következő rendelkezés lép:
 
-15. § „(1) Tartózkodási engedély átvételére jogosító vízumot az a harmadik országbeli állampolgár kaphat, akinek a részére e törvény alapján tartózkodási engedély kiadását engedélyezték.
+„15. § „(1) Tartózkodási engedély átvételére jogosító vízumot az a harmadik országbeli állampolgár kaphat, akinek a részére e törvény alapján tartózkodási engedély kiadását engedélyezték.
 
 (2) A tartózkodási engedély átvételére jogosító vízum érvénytelen, ha a kiadása alapjául szolgáló tartózkodási engedélyt visszavonták vagy visszavonásának lenne helye.
 
@@ -3108,15 +3121,15 @@ a) nem felel meg a 13. § (1) bekezdés a), valamint c)–i) pontjaiban foglalt 
 
 b) a tartózkodási jogosultság megszerzése érdekében az eljáró hatósággal hamis adatot, valótlan tényt közölt.
 
-(5) A szezonális munkavállalási vízum, valamint a nemzeti vízum iránti kérelem, illetve a vízum visszavonása tárgyában hozott határozat ellen fellebbezésnek nincs helye.”;
+(5) A szezonális munkavállalási vízum, valamint a nemzeti vízum iránti kérelem, illetve a vízum visszavonása tárgyában hozott határozat ellen fellebbezésnek nincs helye.”;”
 
 - c) 17. §-a helyébe a következő rendelkezés lép:
 
-17. § „(1) Tartózkodási engedélyt – ha e törvény másként nem rendelkezik – az a harmadik országbeli állampolgár kaphat, aki eleget tesz a 13. § (1) bekezdés a), valamint c)–i) pontjaiban foglalt feltételeknek, és
+„17. § „(1) Tartózkodási engedélyt – ha e törvény másként nem rendelkezik – az a harmadik országbeli állampolgár kaphat, aki eleget tesz a 13. § (1) bekezdés a), valamint c)–i) pontjaiban foglalt feltételeknek, és
 
 a) nemzeti tartózkodási engedély iránti kérelem esetén rendelkezik érvényes nemzeti vízummal, illetve
 
-b) tartózkodási engedély meghosszabbítása iránti kérelem esetén rendelkezik érvényes tartózkodási engedéllyel.”;
+b) tartózkodási engedély meghosszabbítása iránti kérelem esetén rendelkezik érvényes tartózkodási engedéllyel.”;”
 
 - d) 26. § (3) bekezdése helyébe a következő rendelkezés lép:
 
@@ -3298,17 +3311,21 @@ végrehajtási eljárásokra is alkalmazni kell.
 
 az Alaptörvény XIV. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
-113. §
+#### 113. §
 
-114. §
+#### 114. §
 
-115. §
+#### 115. §
 
 116. § (1)
 
 (2)
 
-117–119. §
+#### 117. §
+
+#### 118. §
+
+#### 119. §
 
 ### Az Európai Unió jogának való megfelelés
 
