@@ -38,7 +38,7 @@ Annak érdekében, hogy a részben vagy egészben központi költségvetési for
 - a) során a magasépítési beruházáshoz szükséges ingatlan megállapodás alapján az állam részére biztosított,
 - b) az állam legalább többségi tulajdonában álló gazdasági társaság tulajdonában álló ingatlanon valósulnak meg, ide nem értve a külön törvényekben meghatározott építtetői tevékenység keretében létrejövő beruházásokat.
 
-(8) A (7) bekezdés szerinti magasépítési beruházásokra a kormányzati magasépítési beruházásokra vonatkozó rendelkezéseket kell alkalmazni azzal, hogy a (7) bekezdés szerinti magasépítési beruházás keretében létrejött ingó és ingatlan vagyonelemek, ide nem értve a közműveket, illetve az utakat – a Kormány egyedi döntésén alapuló eltérő megállapodás hiányában – e törvény erejénél fogva az ingatlan tulajdonosát illetik meg térítésmentesen. A magasépítési beruházás műszaki átadás-átvételének a lebonyolítását követően, a munkaterület kivitelező által a Beruházási Ügynökség részére történő visszaadását követő napon a beruházás során létrejött ingó és ingatlan vagyonelemeket a Beruházási Ügynökség az általa nyilvántartott könyv szerinti értéken, befejezetlen beruházásként átadja a beruházással érintett ingatlan tulajdonosának.
+(8) A (7) bekezdés szerinti magasépítési beruházásokra a kormányzati magasépítési beruházásokra vonatkozó rendelkezéseket kell alkalmazni azzal, hogy a (7) bekezdés szerinti magasépítési beruházás keretében létrejött ingó és ingatlan vagyonelemek, ide nem értve a városi, elővárosi vagy helyi vasúti pályahálózatot és a vasúti pályahálózat működéséhez szükséges eszközöket, közműveket, illetve az utakat – a Kormány egyedi döntésén alapuló eltérő megállapodás hiányában – e törvény erejénél fogva az ingatlan tulajdonosát illetik meg térítésmentesen. A magasépítési beruházás műszaki átadás-átvételének a lebonyolítását követően, a munkaterület kivitelező által a Beruházási Ügynökség részére történő visszaadását követő napon a beruházás során létrejött ingó és ingatlan vagyonelemeket a Beruházási Ügynökség az általa nyilvántartott könyv szerinti értéken, befejezetlen beruházásként átadja a beruházással érintett ingatlan tulajdonosának.
 
 ### III. Fejezet — A KORMÁNYZATI MAGASÉPÍTÉSI BERUHÁZÁSOK
 
@@ -82,9 +82,9 @@ Annak érdekében, hogy a részben vagy egészben központi költségvetési for
 
 (5) A (4) bekezdés szerinti személyi változást a Beruházási Ügynökség bejelenti a hatósági engedélyt kiadó hatóság részére.
 
-6/A. § (1) A Beruházási Ügynökség által előkészített vagy megvalósított beruházáshoz közvetlenül kapcsolódó út és közműszakasz bontása, kiváltása vagy fejlesztése esetén a Beruházási Ügynökség által létrehozott út és közmű – az út vagy a közmű műszaki átadás-átvételi eljárása eredményes lezárását követően – e törvény erejénél fogva, ingyenesen, nyilvántartási értéken való átvezetéssel a beruházással érintett út vagy közmű tulajdonosának tulajdonába és a beruházással érintett út vagy közmű üzemeltetőjének az üzemeltetésébe kerül.
+6/A. § (1) A Beruházási Ügynökség által előkészített vagy megvalósított beruházáshoz közvetlenül kapcsolódó városi, elővárosi vagy helyi vasúti pályahálózat, út és közműszakasz bontása, kiváltása vagy fejlesztése esetén a Beruházási Ügynökség által létrehozott városi, elővárosi vagy helyi vasúti pályahálózat és a vasúti pályahálózat működéséhez szükséges eszközök, út és közmű – városi, elővárosi vagy helyi vasúti pályahálózat és a vasúti pályahálózat működéséhez szükséges eszközök, az út vagy a közmű műszaki átadás-átvételi eljárása eredményes lezárását követően – e törvény erejénél fogva, ingyenesen, nyilvántartási értéken való átvezetéssel a beruházással érintett városi, elővárosi vagy helyi vasúti pályahálózat, út vagy közmű tulajdonosának tulajdonába és a beruházással érintett városi, elővárosi vagy helyi vasúti pályahálózat, út vagy közmű üzemeltetőjének az üzemeltetésébe kerül.
 
-(2) A beruházáshoz közvetlenül kapcsolódó útépítési, közmű-csatlakozási, fejlesztési, bontási és kiváltási munkák elvégzésével érintett vagyonelemek értékének változásával a Beruházási Ügynökség a beruházások teljes megvalósítását követően, a teljes beruházás időszakát figyelembe véve elszámol a beruházással érintett út vagy közmű tulajdonosával.
+(2) A beruházáshoz közvetlenül kapcsolódó városi, elővárosi vagy helyi vasúti pályahálózatépítési, útépítési, közműcsatlakozási, fejlesztési, bontási és kiváltási munkák elvégzésével érintett vagyonelemek értékének változásával a Beruházási Ügynökség a beruházások teljes megvalósítását követően, a teljes beruházás időszakát figyelembe véve elszámol a beruházással érintett városi, elővárosi vagy helyi vasúti pályahálózat, út vagy közmű tulajdonosával.
 
 (3) Az (1) és (2) bekezdésben foglaltakat a 4. § (7) bekezdése szerinti beruházások esetében is alkalmazni kell.
 
@@ -170,10 +170,12 @@ Annak érdekében, hogy a részben vagy egészben központi költségvetési for
 
 14/A. § E törvénynek az egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongazdálkodást és nemzeti pénzügyi szolgáltatásokat érintő törvények módosításáról szóló 2021. évi CXXXIII. törvénnyel (a továbbiakban: Módtv.) megállapított 4. § (8) bekezdését, 6/A. §-át, továbbá 8. § (1) bekezdését a Módtv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
+14/B. § E törvénynek az egyes gazdasági tárgyú törvények, valamint egyes vagyongazdálkodást és postaügyet érintő törvények módosításáról szóló 2022. évi LXVIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 4. § (8) bekezdését, valamint 6/A. § (1) és (2) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+
 #### 7. Módosító rendelkezések
 
-15. §
+#### 15. §
 
-16. §
+#### 16. §
 
-17. §
+#### 17. §
