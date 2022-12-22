@@ -2,7 +2,15 @@
 
 a volt egyházi ingatlanok tulajdoni helyzetének rendezéséről
 
-Az egyházak a magyar történelemben értékes kultúrateremtő, -megőrző és -átadó munkát végeztek. A hitéleti tevékenység mellett az oktatás, nevelés, az egészségügy, a szociális és kulturális szolgáltatások terén jelentős feladatokat láttak el, és fontos társadalmi szerepet töltöttek be.A materialista és ateista világnézet kizárólagosságának elvi alapján álló pártállam az egyházak vagyontárgyainak elkobzásával, szervezeteik jórészének felszámolásával és más hatalmi eszközökkel — folyamatos jogsértéseket elkövetve — az egyházak hitéleti tevékenységét és társadalmi szerepüket szűk korlátok közé szorította.A jogállamiságot megvalósító Magyarországon az egyházak ismét szabadon, korlátozás nélkül betölthetik társadalmi szerepüket, ehhez azonban hiányoznak az anyagi eszközeik.A rendszerváltást megelőző Országgyűlés által a lelkiismereti és valásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény már utalt arra, hogy a magyarországi egyházak a hitélet körébe tartozó munkálkodásuk mellett kulturális, nevelési-oktatási, szociális, egészségügyi tevékenységükkel és a nemzeti tudat ápolásával is jelentős szerepet töltenek be az ország életében. Az akkori körülmények között azonban még nem kerülhetett sor e szerep betöltéséhez szükséges tárgyi, anyagi feltételek biztosítására.Az Országgyűlés az elkövetett súlyos jogsértések részbeni orvoslása, részben pedig az egyházak tevékenységének folytatásához szükséges tárgyi, anyagi feltételek biztosítása érdekében az egyes volt egyházi ingatlanok tulajdoni helyzetének rendezéséről a következő törvényt alkotja:
+Az egyházak a magyar történelemben értékes kultúrateremtő, -megőrző és -átadó munkát végeztek. A hitéleti tevékenység mellett az oktatás, nevelés, az egészségügy, a szociális és kulturális szolgáltatások terén jelentős feladatokat láttak el, és fontos társadalmi szerepet töltöttek be.
+
+A materialista és ateista világnézet kizárólagosságának elvi alapján álló pártállam az egyházak vagyontárgyainak elkobzásával, szervezeteik jórészének felszámolásával és más hatalmi eszközökkel — folyamatos jogsértéseket elkövetve — az egyházak hitéleti tevékenységét és társadalmi szerepüket szűk korlátok közé szorította.
+
+A jogállamiságot megvalósító Magyarországon az egyházak ismét szabadon, korlátozás nélkül betölthetik társadalmi szerepüket, ehhez azonban hiányoznak az anyagi eszközeik.
+
+A rendszerváltást megelőző Országgyűlés által a lelkiismereti és valásszabadságról, valamint az egyházakról szóló 1990. évi IV. törvény már utalt arra, hogy a magyarországi egyházak a hitélet körébe tartozó munkálkodásuk mellett kulturális, nevelési-oktatási, szociális, egészségügyi tevékenységükkel és a nemzeti tudat ápolásával is jelentős szerepet töltenek be az ország életében. Az akkori körülmények között azonban még nem kerülhetett sor e szerep betöltéséhez szükséges tárgyi, anyagi feltételek biztosítására.
+
+Az Országgyűlés az elkövetett súlyos jogsértések részbeni orvoslása, részben pedig az egyházak tevékenységének folytatásához szükséges tárgyi, anyagi feltételek biztosítása érdekében az egyes volt egyházi ingatlanok tulajdoni helyzetének rendezéséről a következő törvényt alkotja:
 
 ### Alapvető rendelkezések
 
@@ -35,7 +43,7 @@ Az egyházak a magyar történelemben értékes kultúrateremtő, -megőrző és
 
 (6) Az ingatlanátadásra vonatkozó igény érvényesítése során az egyház erre felhatalmazott szerve járhat el. Más egyházi szerv nyilatkozata csak az említett szervtől kapott külön megbízás alapján fogadható el.
 
-2/A. §
+#### 2/A. §
 
 ### Az egyeztető bizottságok feladata és működése
 
@@ -154,9 +162,21 @@ Az egyházak a magyar történelemben értékes kultúrateremtő, -megőrző és
 
 (4) E § szerint történő ingatlanátadáshoz szükséges kártalanításról az átadó szerv vagy az alapító szerve gondoskodik. E célra a Kormány az Országgyűlés döntése alapján a központi költségvetésből pénzügyi fedezetet biztosít. Az erre irányuló kérelmet a miniszterhez kell benyújtani, csatolva a megállapodás tervezetét.
 
+14/A. § (1) Az egyház igényelheti az eredetileg is közvetlenül hitéleti, szakrális célokra épített, állami vagy önkormányzati tulajdonban álló ingatlan vagy ingatlanhányad (e § alkalmazásában a továbbiakban együtt: használati joggal érintett ingatlan) ingyenes egyházi tulajdonba adását, amennyiben azokat az egyház az egyházakat érintő egyes törvények módosításáról szóló 2022. évi LXXVIII. törvény (a továbbiakban: Módtv1.) hatálybalépésekor és a (2) bekezdés szerinti igény benyújtásakor is közvetlenül hitéleti, illetve szakrális célokra használja.
+
+(2) A használati joggal érintett ingatlant használó egyház az (1) bekezdés szerinti igényét 2026. december 31. napjáig nyújthatja be, az állam tulajdonában álló ingatlanok esetében az állam nevében tulajdonosi jogokat gyakorló szervezethez, helyi önkormányzati tulajdonban álló ingatlan esetében a tulajdonos helyi önkormányzat képviselő-testületéhez.
+
+(3) Az állami tulajdonban álló, használati joggal érintett ingatlant – az erre vonatkozó, (2) bekezdés szerint benyújtott egyházi igény esetén – az állam nevében tulajdonosi jogokat gyakorló szervezet, az egyházakkal való kapcsolattartás koordinációjáért felelős miniszter szakpolitikai javaslata alapján ingyenesen, ingatlan-nyilvántartási bejegyzésre alkalmas tulajdonátruházási megállapodás megkötésével az igénylést benyújtó egyház tulajdonába adja, az igénylés (2) bekezdés szerinti benyújtását követő legkésőbb 120 napon belül. A megállapodásban az ingatlan forgalmi értékeként az állam nevében tulajdonosi jogokat gyakorló szervezet által megállapított forgalmi értéket kell megjelölni.
+
+(4) A helyi önkormányzati tulajdonban álló, használati joggal érintett ingatlant az erre vonatkozó egyházi igény (2) bekezdés szerinti benyújtását követő legkésőbb 120 napon belül a helyi önkormányzat – a képviselő-testület ingyenes tulajdonba adásról szóló határozata alapján – ingatlan-nyilvántartási bejegyzésre alkalmas tulajdonátruházási megállapodás megkötésével az igénylést benyújtó egyház tulajdonába adja. A megállapodásban az ingatlan forgalmi értékeként a helyi önkormányzat által megállapított forgalmi értéket kell megjelölni.
+
+(5) Amennyiben az (1) bekezdés szerinti ingatlanhasználat csak az ingatlan egy, természetben meghatározható részét érinti, és az ingatlan megosztása jogszabály alapján lehetséges, az ingatlant meg kell osztani. Amennyiben az ingatlan megosztása nem lehetséges, a (3) és (4) bekezdés szerinti megállapodásban, vagy azzal összefüggésben külön megállapodásban rendelkezni kell az ingatlanhasználat megosztásáról is.
+
+(6) Az e § szerinti vagyonjuttatás az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+
 ### Egyéb rendelkezések
 
-15. §
+#### 15. §
 
 16. § (1) A helyi önkormányzatokról szóló 1990. évi LXV. törvény 107. §-ának (3) bekezdése alapján Kormány általános hatáskörű területi államigazgatási szervének döntése, illetőleg külön törvény alapján nem kerülhet a helyi önkormányzat tulajdonába az az ingatlan, amelyet e törvényben említett jegyzék (7. §) szerint egyházi tulajdonba kell adni.
 
@@ -189,6 +209,8 @@ Az egyházak a magyar történelemben értékes kultúrateremtő, -megőrző és
 
 (4) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a 3. § (2) bekezdése szerinti minisztereket.
 
-21–22. §
+#### 21. §
 
-23. §
+#### 22. §
+
+#### 23. §

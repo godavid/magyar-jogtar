@@ -73,6 +73,7 @@ a következő törvényt alkotja:
 - 10. Kulturális javak: az élettelen és élő természet keletkezésének, fejlődésének, az emberiség, a magyar nemzet, Magyarország történelmének kiemelkedő és jellemző tárgyi, képi, hangrögzített, írásos emlékei és egyéb bizonyítékai – az ingatlanok kivételével –, valamint a művészeti alkotások.
 - 11. Kulturális örökség elemei: a régészeti örökség, a hadtörténeti örökség régészeti módszerekkel kutatható elemei, a műemléki értékek, a nemzeti emlékhely, a kiemelt nemzeti emlékhely és annak 61/I. § (3a) bekezdése szerinti településkép-védelmi környezete, valamint a kulturális javak.
 - 12. Kulturális örökség elemeinek kutatása: a kulturális örökség elemeire vonatkozó, annak pótolhatatlan forrásértékét feltáró, tudományos módszereket alkalmazó, roncsolásmentes vagy roncsolásos beavatkozással járó eljárás.
+- 12a. Magyar emlékpont: olyan, az egyetemes vagy a nemzeti közemlékezetben kiemelkedő helyet elfoglaló személlyel összefüggésben meghatározó jelentőséggel bíró helyszín, amelyet a Nemzeti Emlékhely és Kegyeleti Bizottság (a továbbiakban: Bizottság) emlékponttá nyilvánít.
 - 13. Megelőző feltárás: írásbeli szerződés alapján, tudományos módszerrel végzett régészeti feladatellátás (régészeti megfigyelés, próbafeltárás, teljes felületű feltárás), amely a földmunkával járó beavatkozások, fejlesztések, beruházások által érintett, nyilvántartott régészeti lelőhelyek feltárására irányul.
 - 14. Mentő feltárás: régészeti emlék vagy lelet régészeti feltáráson kívüli, váratlan előkerülése során alkalmazandó, a közvetlenül érintett elemek szakszerű megmentésére irányuló azonnali beavatkozás.
 - 15. Műemlék: olyan közhiteles nyilvántartásban nyilvántartott műemléki érték, amelyet miniszteri döntéssel, határozattal vagy e törvény alapján miniszteri rendelettel védetté nyilvánítottak.
@@ -87,7 +88,7 @@ a következő törvényt alkotja:
   - d) a védmű-, töltés- és a 2500 hektár alapterületet meghaladó árapasztó- vagy árapasztó tározó-építés, vagy
   - e) azon közérdekű célú beruházás, amelynek megvalósítása érdekében a kisajátításról szóló törvény szerint kisajátítást végeztek.
 - 21. Nemzeti emlékhely: a nemzet történelmében meghatározó jelentőséggel bíró helyszín, amely a magyar nemzet, illetve a magyar és az ország területén élő nemzetiségek összetartozását erősítő és identitásképző jellegénél fogva a nemzet önképében kiemelkedő fontossággal bír, továbbá amely országos jelentőségű állami megemlékezés színhelye lehet, és amelyet az Országgyűlés törvénnyel nemzeti emlékhellyé nyilvánít.
-- 21a. Nemzeti emlékpont: olyan, az egyetemes vagy a nemzeti közemlékezetben kiemelkedő helyet elfoglaló személlyel összefüggésben meghatározó jelentőséggel bíró helyszín, amelyet a Nemzeti Emlékhely és Kegyeleti Bizottság (a továbbiakban: Bizottság) nemzeti emlékponttá nyilvánít.
+- 21a.
 - 21b. Nevesített műemléki érték: értékmeghatározó szakértői vizsgálat alapján megállapított és közhiteles nyilvántartásban szereplő érték, amely a védetté nyilvánítást megalapozza; a nevesítés a műemléki érték egészére vagy annak egyes elemeire – ideértve alkotórészére, tartozékára, beépített berendezési tárgyaira – terjed ki.
 - 22.
 - 23. Nyilvántartott régészeti lelőhely: a közhiteles nyilvántartásba vett, e törvény alapján általános védelem alatt álló régészeti lelőhely.
@@ -898,11 +899,15 @@ kulturális javakat.
 
 ### Általános rendelkezések
 
-61/B. § (1) E fejezet hatálya kiterjed a nemzeti emlékpontokra, a történelmi emlékhelyekre, a nemzeti emlékhelyekre és a kiemelt nemzeti emlékhelyekre, az ezekkel kapcsolatos tevékenységekre, a feladatellátásban közreműködő szervezetekre, személyekre, valamint az emlékhellyé nyilvánítással érintett ingatlanok tulajdonosaira, vagyonkezelőire, használóira.
+61/B. § (1) E fejezet hatálya kiterjed a történelmi emlékhelyekre, a nemzeti emlékhelyekre és a kiemelt nemzeti emlékhelyekre (a továbbiakban együtt: emlékhely), az ezekkel kapcsolatos tevékenységekre, a feladatellátásban közreműködő szervezetekre, személyekre, valamint az emlékhellyé nyilvánítással érintett ingatlanok tulajdonosaira, vagyonkezelőire, használóira.
 
-(2) A nemzeti emlékpontok, a történelmi emlékhelyek, a nemzeti emlékhelyek és a kiemelt nemzeti emlékhelyek (a továbbiakban együtt: emlékhely) e törvény szerinti szabályozása az azokon e törvény vagy más jogszabályok alapján fennálló védettséget nem érinti.
+(2) Az emlékhely e törvény szerinti szabályozása az azokon e törvény vagy más jogszabályok alapján fennálló védettséget nem érinti.
 
-(3) A nemzeti emlékhelyek védelme és hozzáférhetővé tétele közérdek, amelynek megvalósításában közreműködnek az állami és az önkormányzati szervek, valamint a vallási közösségek, az egyházi jogi személyek, a civil és egyéb szervezetek, illetve a természetes személyek. A védelem kiterjed a nemzeti emlékhely és a kiemelt nemzeti emlékhely méltóságának megőrzésére és a méltó megemlékezés feltételeinek biztosítására, az emlékhely történelmileg hiteles, egységes arculatának és műemléki megjelenésének fenntartására és biztosítására, továbbá az ezek érdekében végzett fejlesztés, beruházás megvalósításának elősegítésére.
+(3) Az emlékhely védelme és hozzáférhetővé tétele közérdek, amelynek megvalósításában közreműködnek az állami és az önkormányzati szervek, valamint a vallási közösségek, a belső egyházi jogi személyek, a civil és egyéb szervezetek, illetve a természetes személyek. A védelem kiterjed az emlékhely méltóságának megőrzésére és a méltó megemlékezés helyszíni feltételeinek biztosítására, az emlékhely történelmileg hiteles, egységes arculatának és műemléki megjelenésének fenntartására és biztosítására, továbbá az ezek érdekében végzett fejlesztés, beruházás megvalósításának elősegítésére.
+
+(3a) A tulajdonos – ha e törvény másként nem rendelkezik – köteles a nemzeti emlékhelyül szolgáló ingatlan – ideértve annak közvetlen környezetét és a növényzetet is – gondozását rendszeresen elvégezni, az ingatlan állagát megőrizni, az ingatlant rendeltetésének megfelelően, folyamatosan használni, látogathatóságát biztosítani. A nemzeti emlékhely ingatlan használatával felhagyni nem lehet.
+
+(3b) A nemzeti emlékhely részét képező ingatlanon a (3) és (3a) bekezdésben foglaltakat a hatóság ellenőrzi, és jogszabályban meghatározott esetben jogosult a 67. § (1) bekezdése szerinti hatósági kötelezést foganatosítani. Amennyiben az ellenőrzés egyházi tulajdonban álló nemzeti emlékhely részét képező ingatlant vagy ingatlanrészt, illetve műemléki értéket érint, a hatóság azt a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény (a továbbiakban: Ehtv.) 7. § (2) bekezdés b)–d) pontjában meghatározott egyház magyarországi legfőbb képviseleti szerve (a továbbiakban: az egyház magyarországi legfőbb képviseleti szerve) által megjelölt magyarországi belső egyházi jogi személye, az egyház magyarországi legfőbb képviseleti szerve hallgatása esetén a területileg illetékes magyarországi egyházi jogi személye bevonásával végzi. Hitéleti kérdésben az egyház magyarországi legfőbb képviseleti szerve nyilatkozatának beszerzése nem mellőzhető.
 
 (4) A nemzeti emlékhelyekre vonatkozó rendelkezéseket a kiemelt nemzeti emlékhelyekre előírt külön szabályokban meghatározott eltérésekkel kell alkalmazni.
 
@@ -924,9 +929,9 @@ kulturális javakat.
 - f) a Bizottság javaslatára, a Bizottság felügyeletét ellátó miniszterrel egyetértésben kezdeményezi egyes helyszínek történelmi emlékhellyé nyilvánítását; valamint
 - g) a Nemzeti Örökség Intézete (a továbbiakban: NÖRI) bevonásával, a Bizottság felügyeletét ellátó miniszterrel egyetértésben évente jelentést készít a Kormány részére és négyévente tájékoztatja az Országgyűlés illetékes bizottságát az emlékhelyek állapotáról.
 
-(1a) A NÖRI javaslatára a Bizottság határozatban dönt az egyes helyszínek nemzeti emlékponttá nyilvánításáról.
+(1a) A Bizottság határozatban dönt az egyes helyszínek magyar emlékponttá nyilvánításáról.
 
-(2) A Bizottság ellátja a történelmi emlékhelyekkel és a nemzeti emlékhelyekkel kapcsolatos – e törvény szerinti – véleményező és javaslattevő feladatokat.
+(2) A Bizottság ellátja a magyar emlékpontokkal, a történelmi emlékhelyekkel és a nemzeti emlékhelyekkel kapcsolatos – e törvény szerinti – véleményező és javaslattevő feladatokat.
 
 (3) A NÖRI emlékhelyekkel összefüggő feladatai különösen az alábbiak:
 
@@ -949,9 +954,9 @@ kulturális javakat.
 
 (3) A történelmi emlékhely jellegre történő utalást az ingatlan-nyilvántartásban tényként fel kell jegyezni.
 
-(4) Nemzeti emlékponttá az az épített környezet vagy természeti helyszín nyilvánítható, ahol egy, az egyetemes vagy a nemzeti közemlékezetben kiemelkedő helyet elfoglaló személlyel összefüggésben a nemzet emlékezetére méltó esemény valósult meg.
+(4) Magyar emlékponttá az az épített környezet vagy természeti helyszín nyilvánítható, amelyben vagy amelyen egy, az egyetemes vagy a nemzeti közemlékezetben kiemelkedő helyet elfoglaló személlyel összefüggésben a nemzet emlékezetére méltó esemény valósult meg.
 
-(5) A nemzeti emlékpontokat egységes arculatú – magyar és angol nyelvű – ismertető táblával kell megjelölni.
+(5) A magyar emlékpontokat egységes arculattal kell megjelölni magyar és angol nyelven, valamint ha az valamelyik magyarországi nemzetiséghez kapcsolódik, az adott nemzetiség nyelvén is.
 
 61/G. § (1) Nemzeti emlékhellyé az a helyszín nyilvánítható, amely megfelel a 61/F. § (1) bekezdésében meghatározott feltételeknek és
 
@@ -968,9 +973,23 @@ kulturális javakat.
 
 (5) A nemzeti emlékhely jellegre történő utalást az ingatlan-nyilvántartásban tényként fel kell jegyezni.
 
+(6) A miniszter jóváhagyása szükséges a nemzeti emlékhely részét képező ingatlan vagy ingatlan tulajdoni hányada tulajdonjogának átruházásához, illetve megterheléséhez. A jogügylethez kapcsolódó szerződést és okiratokat a tulajdonos a kérelmével együtt köteles megküldeni jóváhagyás céljából a miniszter részére. Ha a nemzeti emlékhely egyházi tulajdonban áll, az egyház magyarországi legfőbb képviseleti szervének állásfoglalása a kérelem kötelező melléklete.
+
+(7) A miniszter az eljárás során azt vizsgálja, hogy az ingatlan tulajdonjogának átruházása, illetve megterhelése összhangban van-e a nemzeti emlékhelyek védelmére vonatkozó, e törvény szerinti előírásokkal, különös tekintettel a (9) bekezdésben meghatározott tulajdonosi körre.
+
+(8) A miniszter a kérelemről harminc napon belül dönt, amely során azt jóváhagyja vagy a (7) bekezdés szerinti indokok alapján elutasítja. Ha a miniszter a jóváhagyást nem adja meg, a jogügylet nem hatályosul. Ha a miniszter a jóváhagyást megadta, a tulajdonos közli a vételi ajánlatot a 86. § (3) bekezdés a) pontja szerinti szervvel.
+
+(9) Nemzeti emlékhely részét képező ingatlan kizárólag a Magyar Állam, magyarországi jogi személy, illetve magyar állampolgár tulajdonában lehet.
+
+(10) Ha a nemzeti emlékhely Magyarországon bejegyzett egyházi jogi személy tulajdonosa magyarországi jogutód nélkül szűnik meg, vagy jogképességét elveszíti, vagy, ha az egyház magyarországi legfőbb képviseleti szerve az egyház belső szabálya szerinti magyarországi jogutód nélküli megszűnéshez közeli állapot, működésképtelenség veszélye esetén – különösen ha az a nemzeti emlékhely helyreállíthatatlan sérelmének lehetőségével jár – azt írásban bejelenti a miniszter felé, a nemzeti emlékhely tulajdonjoga az egyház magyarországi legfőbb képviseleti szerve által megjelölt magyarországi belső egyházi jogi személyre száll át. Ha a Magyarországon bejegyzett egyházi jogi személy magyarországi jogutód nélkül megszűnik, vagy jogképességét elveszíti, és az egyház magyarországi legfőbb képviseleti szerve a jogutódlás tekintetében nem nyilatkozik, a nemzeti emlékhely tulajdonjoga a területileg illetékes magyarországi egyházi jogi személyre száll át. A tulajdonos jogi személy megszűnéséről, vagy jogképességének elvesztéséről a jogi személyiséggel rendelkező vallási közösségek és belső egyházi jogi személyek nyilvántartását végző szerv tájékoztatja a minisztert. Egyházi jogi személy megszűnése vagy jogképességének elvesztése esetén az Ehtv. rendelkezései az irányadóak.
+
+(11) A (10) bekezdésen alapuló, magyarországi egyházi jogi személy tulajdonjogát és a tulajdonszerzés jogcímét az ingatlan-nyilvántartást vezető hatóság az érintett egyház magyarországi legfőbb képviseleti szervének nyilatkozata alapján jegyzi be.
+
 61/H. § (1) Az állam a nemzeti és történelmi emlékhelyek vonatkozásában a 61/D. §-ban, a 61/E. §-ban és a 61/K. § (2) bekezdés b) pontjában meghatározott feladatok ellátásához a központi költségvetésből forrást biztosít.
 
 (2) A nemzeti és történelmi emlékhelyekkel kapcsolatos költségvetési pénzeszközöket az e törvényben megjelölt, a nemzeti és történelmi emlékhelyekkel kapcsolatos állami feladatok költségeire figyelemmel kell meghatározni.
+
+(3) A nemzeti és történelmi emlékhely arculatának vagy használati módjának jelentős mértékű megváltoztatása, továbbá a vonatkozó helyi építési szabályzat, településfejlesztési és településrendezési terv elfogadása, módosítása előtt be kell szerezni a Bizottság NÖRI-vel egyeztetett véleményét.
 
 ### 5. Fejezet — A KIEMELT NEMZETI EMLÉKHELYEKRE VONATKOZÓ KÜLÖNLEGES SZABÁLYOK
 
@@ -1425,7 +1444,7 @@ iránt.
 - a) kiemelten védett műemlék ingatlan esetében, valamint az 1998. január 1-je előtt műemlék, műemlék jellegű, városképi jelentőségű kategóriában védettséget szerző védett műemlék ingatlanok esetében e törvény erejénél fogva; az 1998. január 1-jétől védettséget szerzett védett műemlék ingatlanok esetében akkor, ha ezt a védetté nyilvánító vagy a védettséget módosító rendelet kimondja,
 - b) védetté nyilvánított kulturális javak ellenérték mellett történő tulajdonátruházása esetében.
 
-(1a)
+(1a) A nemzeti emlékhely részét képező ingatlanra a Magyar Államot elővásárlási jog illeti meg. A Magyar Államot nem illeti meg elővásárlási jog, ha az ingatlan tulajdonjogát egyházi jogi személy az érintett egyház belső egyházi jogi személyére ruházza át.
 
 (2) Az elővásárlási jog ingatlan-nyilvántartásba történő bejegyzése érdekében a hatóság megkeresi az ingatlanügyi hatóságot.
 
@@ -1687,26 +1706,26 @@ I. Kiemelt nemzeti emlékhely
 
 II. Nemzeti emlékhely
 
-|  |  | A | B |
-| --- | --- | --- | --- |
-|  |  | A nemzeti emlékhely megnevezése | A nemzeti emlékhely lehatárolása |
-|  | 1. | Budapest I. kerület, Várnegyed | A várfalon belüli közterületek közül a Szentháromság tér, a Dísz tér és a Szent György tér, valamint a Budai Vár (Királyi Palota) épülete cím: 1014 Budapest, Szent György tér 2. a Várkert Bazár épülete cím: 1013 Budapest, Ybl Miklós tér 2–6. a Sándor-palota épülete cím: 1014 Budapest, Szent György tér 1. a Mátyás-templom épülete cím: 1014 Budapest, Szentháromság tér 2. a volt József-kaszárnya épülete cím: 1014 Budapest, Táncsics Mihály utca 9. a Hadtörténeti Intézet és Múzeum épülete cím: 1014 Budapest, Kapisztrán tér 2–4. |
-|  | 2. | Budapest VIII. kerület, Fiumei úti temető | A Fiumei úti temető, kivéve a Nemzeti Sírkert részévé nem nyilvánított temetési helyeket cím: 1086 Budapest, Fiumei út 16. |
-|  | 3. | Budapest VIII. kerület, Magyar Nemzeti Múzeum | A Magyar Nemzeti Múzeum épülete és a Múzeumkert cím: 1088 Budapest, Múzeum krt. 14–16. |
-|  | 4. | Budapest X. kerület, Rákoskeresztúri Újköztemető, 298., 300. és 301. parcella és a Kisfogház Emlékhely, valamint a váci, a márianosztrai és a sopronkőhidai rabtemető | A parcellák, kivéve a Nemzeti Sírkert részévé nemnyilvánított temetési helyeket cím: 1108 Budapest, Kozma u. 8–10. a Kisfogház Emlékhely által felölelt terület cím: 1108 Budapest, Újhegyi út 55. a váci rabtemető: Vác belterület 1769 helyrajzi számú ingatlan a márianosztrai rabtemető: Márianosztra külterület 0181/2 helyrajzi számú ingatlan a sopronkőhidai rabtemető: Sopron külterület 01055 helyrajzi számú ingatlan |
-|  | 5. | Budapest XIV. kerület, Hősök tere | A tér közutak által körbefogott területe cím: 1146 Budapest, Hősök tere |
-|  | 6. | Debrecen, Református Nagytemplom és Kollégium | A Református Nagytemplom épülete cím: 4026 Debrecen, Piac u. 4–6. a Debreceni Református Kollégium épülete cím: 4026 Debrecen, Kálvin tér 16. |
-|  | 7. | Mohácsi Nemzeti Emlékhely | cím: 7785 Sátorhely, Törökdomb |
-|  | 8. | Ópusztaszeri Nemzeti Történeti Emlékpark | cím: 6767 Ópusztaszer, Szoborkert 68. |
-|  | 9. | Pannonhalmi Bencés Főapátság | cím: 9090 Pannonhalma, Vár 1. |
-|  | 10. | Katonai Emlékpark Pákozd | Katonai Emlékpark Pákozd cím: 8095 Mészeg-hegy |
-|  | 11. | Somogyvár-Kupavár | Szent Egyed-bazilika és bencés apátság romjai cím: 8698 Somogyvár, Kupavár-hegy |
-|  | 12. | Székesfehérvár, Romkert | cím: 8000 Székesfehérvár, Koronázó tér |
-|  | 13. | Egri Vár | cím: 3300 Eger, Vár 1. |
-|  | 14. | Nagycenk, Széchenyi-kastély műemléki együttese | cím: 9485 Nagycenk, Kiscenki út 3. |
-|  | 15. | Szigetvár, vár | cím: 7900 Szigetvár, Vár utca |
-|  | 16. | Esztergom, Várhegy és Víziváros | A Főszékesegyház (Bazilika) épülete cím: 2500 Esztergom, Szent István tér 1., a királyi palota maradványa és a vár épületei cím: 2500 Esztergom, Szent István tér 2., valamint az Érseki Palota épülete: a Prímási Levéltár, a Simor Érseki Könyvtár és a Keresztény Múzeum cím: 2500 Esztergom, Bercsényi utca 2. |
-|  | 17. | Győri Káptalandomb és a vár megmaradt részei | Győri Nagyboldogasszony-székesegyház épülete, a 7456 helyrajzi számú ingatlan Püspökvár épülete cím: 9021 Győr, Káptalandomb 1., a 7479 és 7480 helyrajzi számú ingatlan Győri Egyházmegyei Kincstár és Könyvtár épülete cím: 9021 Győr Káptalandomb 26., a 7414 helyrajzi számú ingatlan Brenner János Hittudományi Főiskola épülete cím: 9021 Győr, Káptalandomb 7., a 7474 helyrajzi számú ingatlan A győri vár megmaradt káptalandombi és azon túlnyúló részei |
-|  | 18. | Mátraverebély-Szentkút Nemzeti Kegyhely | cím: 3077 Mátraverebély-Szentkút 14. |
-|  | 19. | Máriapócs Nemzeti Kegyhely | cím: 4326 Máriapócs, Kossuth tér 25. |
-|  | 20. | A rákosmezei Királydomb | Budapest X. kerület, 42717 helyrajzi számon nyilvántartott ingatlan |
+|  | A | B |
+| --- | --- | --- |
+|  | A nemzeti emlékhely megnevezése | A nemzeti emlékhely lehatárolása |
+| 1 | Budapest I. kerület, Várnegyed | A várfalon belüli közterületek közül a Szentháromság tér, 6531 helyrajzi számon nyilvántartott ingatlan a Dísz tér 6514 és a Szent György tér 6456/1 helyrajzi számokon nyilvántartott ingatlanok, valamint a Budai Vár (Királyi Palota) épülete cím: 1014 Budapest, Szent György tér 2. 6452/4 helyrajzi számon nyilvántartott ingatlan a Várkert Bazár épülete cím: 1013 Budapest, Ybl Miklós tér 2–6. 6452/2 helyrajzi számon nyilvántartott ingatlan a Sándor-palota épülete cím: 1014 Budapest, Szent György tér 1. 6457 helyrajzi számon nyilvántartott ingatlan a Mátyás-templom épülete cím: 1014 Budapest, Szentháromság tér 2. 6532 helyrajzi számon nyilvántartott ingatlan a volt József-kaszárnya épülete cím: 1014 Budapest, Táncsics Mihály utca 9. 6546 helyrajzi számon nyilvántartott ingatlan a Hadtörténeti Intézet és Múzeum épülete cím: 1014 Budapest, Kapisztrán tér 2–4. 6636 helyrajzi számon nyilvántartott ingatlan |
+| 2 | Budapest VIII. kerület, Fiumei úti temető | A Fiumei úti temető, kivéve a Nemzeti Sírkert részévé nem nyilvánított temetési helyeket cím: 1086 Budapest, Fiumei út 16–18. 38821/2 helyrajzi számon nyilvántartott ingatlan |
+| 3 | Budapest VIII. kerület, Magyar Nemzeti Múzeum | A Magyar Nemzeti Múzeum épülete és a Múzeumkert cím: 1088 Budapest, Múzeum krt. 14–16. 36560 helyrajzi számon nyilvántartott ingatlan |
+| 4 | Budapest X. kerület, Rákoskeresztúri Újköztemető, 298., 300. és 301. parcella és a Kisfogház Emlékhely, valamint a váci, a márianosztrai és a sopronkőhidai rabtemető | A parcellák, kivéve a Nemzeti Sírkert részévé nem nyilvánított temetési helyeket cím: 1108 Budapest, Kozma u. 8–10. 42536/1, 42536/3 helyrajzi számokon nyilvántartott ingatlan a Kisfogház Emlékhely által felölelt terület cím: 1108 Budapest, Újhegyi út 55. 42511 helyrajzi számon nyilvántartott ingatlan a váci rabtemető: Vác belterület 1769 helyrajzi számú ingatlan a márianosztrai rabtemető: Márianosztra külterület 0181/2 helyrajzi számú ingatlan a sopronkőhidai rabtemető: Sopron külterület 01055 helyrajzi számú ingatlan |
+| 5 | Budapest XIV. kerület, Hősök tere | A tér közutak által körbefogott területe cím: 1146 Budapest, Hősök tere 29732/10, 29732/11 helyrajzi számon nyilvántartott ingatlan |
+| 6 | Debrecen, Református Nagytemplom és Kollégium | A Református Nagytemplom épülete cím: 4026 Debrecen, Piac u. 4–6. 8326 helyrajzi számon nyilvántartott ingatlan A Debreceni Református Kollégium épülete cím: 4026 Debrecen, Kálvin tér 16. 8324 helyrajzi számon nyilvántartott ingatlan |
+| 7 | Mohácsi Nemzeti Emlékhely | cím: 7785 Sátorhely, Törökdomb 0266 helyrajzi számon nyilvántartott ingatlan |
+| 8 | Ópusztaszeri Nemzeti Történeti Emlékpark | cím: 6767 Ópusztaszer, Szoborkert tanya 68. 055/4, 055/10, 055/11, 055/12, 055/12A helyrajzi számokon nyilvántartott ingatlan |
+| 9 | Pannonhalmi Bencés Főapátság | cím: 9090 Pannonhalma, Vár 1. 1 helyrajzi számon nyilvántartott ingatlan |
+| 10 | Katonai Emlékpark Pákozd | Katonai Emlékpark Pákozd cím: 8095 Mészeg-hegy 087, 086/1 helyrajzi számokon nyilvántartott ingatlan |
+| 11 | Somogyvár-Kupavár | Szent Egyed-bazilika és bencés apátság romjai cím: 8698 Somogyvár, Kupavár-hegy, Besliahegy 64. 0149/1, 0149/2, 0150, 0151 helyrajzi számokon nyilvántartott ingatlanok |
+| 12 | Székesfehérvár, Romkert | cím: 8000 Székesfehérvár, Koronázó tér 1. 134, 282/4, 399 helyrajzi számokon nyilvántartott ingatlan |
+| 13 | Egri Vár | cím: 3300 Eger, Vár köz 1. 5488, 5440, 5472, 5481, 5489, 5833/1 helyrajzi számokon nyilvántartott ingatlan |
+| 14 | Nagycenk, Széchenyi-kastély műemléki együttese | cím: 9485 Nagycenk, Kiscenki út 3. 658/1, 658/2, 658/4, 658/5, 658/6, 660 helyrajzi számokon nyilvántartott ingatlan |
+| 15 | Szigetvár, vár | cím: 7900 Szigetvár, Vár utca 19. 1733 helyrajzi számon nyilvántartott ingatlan |
+| 16 | Esztergom, Várhegy és Víziváros | A Főszékesegyház (Bazilika) épülete cím: Esztergom, 2500 Szent István tér 1. 16240 helyrajzi számon nyilvántartott ingatlan a királyi palota maradványa és a vár épületei cím: Esztergom, 2500 Szent István tér 2. 16241, 16242 helyrajzi számokon nyilvántartott ingatlan, valamint az Érseki Palota épülete: a Prímási Levéltár, a Simor Érseki Könyvtár és a Keresztény Múzeum cím: Esztergom, 2500 Mindszenty hercegprímás tere 2. 16302 helyrajzi számon nyilvántartott ingatlan |
+| 17 | Győri Káptalandomb és a vár megmaradt részei | Győri Nagyboldogasszony-székesegyház épülete, a 7456 helyrajzi számon nyilvántartott ingatlan Püspökvár épülete cím: 9021 Győr, Káptalandomb 1., a 7479 és 7480 helyrajzi számon nyilvántartott ingatlan Győri Egyházmegyei Kincstár és Könyvtár épülete cím: 9021 Győr Káptalandomb 26., a 7414 helyrajzi számon nyilvántartott ingatlan Brenner János Hittudományi Főiskola épülete cím: 9021 Győr, Káptalandomb 7., a 7474 helyrajzi számon nyilvántartott ingatlan A győri vár megmaradt káptalandombi és azon túlnyúló részei |
+| 18 | Mátraverebély-Szentkút Nemzeti Kegyhely | cím: 3077 Mátraverebély-Szentkút 14. 1616, 1617, 1619, 1620, 1621, 1625, 1626 helyrajzi számokon nyilvántartott ingatlan |
+| 19 | Máriapócs Nemzeti Kegyhely | cím: 4326 Máriapócs, Kossuth tér 26–27. 1–2. helyrajzi számokon nyilvántartott ingatlan |
+| 20 | A rákosmezei Királydomb | Budapest X. kerület Nagyicce utca, Pilisi utca és Dorogi utca által határolt terület, 42717/1, 42717/2, 42717/3 helyrajzi számokon nyilvántartott ingatlan |

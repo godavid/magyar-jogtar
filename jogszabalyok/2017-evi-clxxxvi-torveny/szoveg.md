@@ -14,23 +14,25 @@ a közigazgatási bürokráciacsökkentéssel és az egyes hatósági eljáráso
 
 (5)
 
-2. §
+#### 2. §
 
 #### 2. A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény módosítása
 
-3. §
+#### 3. §
 
 #### 3. Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény módosítása
 
-4–5. §
+#### 4. §
+
+#### 5. §
 
 #### 4. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-6. §
+#### 6. §
 
 #### 5. A földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény módosítása
 
-7. §
+#### 7. §
 
 #### 6. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
@@ -40,23 +42,25 @@ a közigazgatási bürokráciacsökkentéssel és az egyes hatósági eljáráso
 
 #### 7. A magyar állampolgárságról szóló 1993. évi LV. törvény módosítása
 
-9. §
+#### 9. §
 
 #### 8. A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény módosítása
 
-10. §
+#### 10. §
 
 #### 9. Az állattenyésztésről szóló 1993. évi CXIV. törvény módosítása
 
-11. §
+#### 11. §
 
 #### 10. A Bérgarancia Alapról szóló 1994. évi LXVI. törvény módosítása
 
-12. §
+#### 12. §
 
 #### 11. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
 
-13–14. §
+#### 13. §
+
+#### 14. §
 
 #### 12. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
@@ -64,15 +68,17 @@ a közigazgatási bürokráciacsökkentéssel és az egyes hatósági eljáráso
 
 (5)
 
-16–17. §
+#### 16. §
+
+#### 17. §
 
 #### 13. A természet védelméről szóló 1996. évi LIII. törvény módosítása
 
-18. §
+#### 18. §
 
 #### 14. A munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény módosítása
 
-19. §
+#### 19. §
 
 #### 15. Az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény módosítása
 
@@ -82,31 +88,39 @@ a közigazgatási bürokráciacsökkentéssel és az egyes hatósági eljáráso
 
 #### 16. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
-21. §
+#### 21. §
 
 #### 17. Az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény módosítása
 
-22. §
+#### 22. §
 
 #### 18. Az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény módosítása
 
-23–25. §
+#### 23. §
+
+#### 24. §
+
+#### 25. §
 
 #### 19. A családok támogatásáról szóló 1998. évi LXXXIV. törvény módosítása
 
-26. §
+#### 26. §
 
 #### 20. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
-27–29. §
+#### 27. §
+
+#### 28. §
+
+#### 29. §
 
 #### 21. A szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény módosítása
 
-30. §
+#### 30. §
 
 #### 22. A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény módosítása
 
-31. §
+#### 31. §
 
 #### 23. A társasházakról szóló 2003. évi CXXXIII. törvény módosítása
 
@@ -120,82 +134,135 @@ a közigazgatási bürokráciacsökkentéssel és az egyes hatósági eljáráso
 
 (5)
 
-#### 24. A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló2005. évi CXXXIII. törvény módosítása
+#### 24. A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló
 
-33. §
+2005. évi CXXXIII. törvény módosítása
+
+#### 33. §
 
 #### 25. A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény módosítása
 
-34–41. §
+#### 34. §
+
+#### 35. §
+
+#### 36. §
+
+#### 37. §
+
+#### 38. §
+
+#### 39. §
+
+#### 40. §
+
+#### 41. §
 
 42. § A Ctv.
 
-- 1–23.
-- 24–25.
+1–23.
+
+24–25.
 
 lép.
 
-43. §
+#### 43. §
 
 #### 26. A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény módosítása
 
-44. §
+#### 44. §
 
 #### 27. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény módosítása
 
-45. §
+#### 45. §
 
 #### 28. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosítása
 
-46–47. §
+#### 46. §
+
+#### 47. §
 
 #### 29. A Közösség területére belépő, illetve a Közösség területét elhagyó készpénz ellenőrzéséről szóló, 2005. október 26-i 1889/2005/EK európai parlamenti és tanácsi rendelet végrehajtásáról szóló 2007. évi XLVIII. törvény módosítása
 
-48–49. §
+#### 48. §
+
+#### 49. §
 
 #### 30. A menedékjogról szóló 2007. évi LXXX. törvény módosítása
 
-50. §
+#### 50. §
 
 #### 31. A kisajátításról szóló 2007. évi CXXIII. törvény módosítása
 
-51–52. §
+#### 51. §
+
+#### 52. §
 
 #### 32. Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény módosítása
 
-53–55. §
+#### 53. §
+
+#### 54. §
+
+#### 55. §
 
 #### 33. A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény módosítása
 
-56. §
+#### 56. §
 
 #### 34. Az anyakönyvi eljárásról szóló 2010. évi I. törvény módosítása
 
-57–60. §
+#### 57. §
 
-#### 35. A fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló2010. évi CXXVI. törvény módosítása
+#### 58. §
 
-61. §
+#### 59. §
+
+#### 60. §
+
+#### 35. A fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló
+
+2010. évi CXXVI. törvény módosítása
+
+#### 61. §
 
 #### 36. A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény módosítása
 
-62. §
+#### 62. §
 
 #### 37. A felnőttképzésről szóló 2013. évi LXXVII. törvény módosítása
 
-63. §
+#### 63. §
 
 #### 38. A halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény módosítása
 
-64–66. §
+#### 64. §
+
+#### 65. §
+
+#### 66. §
 
 #### 39. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosítása
 
-67. §
+#### 67. §
 
 #### 40. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
-68–75. §
+#### 68. §
+
+#### 69. §
+
+#### 70. §
+
+#### 71. §
+
+#### 72. §
+
+#### 73. §
+
+#### 74. §
+
+#### 75. §
 
 #### 41. Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény eltérő szöveggel történő hatályba léptetése
 
@@ -254,7 +321,7 @@ Ha az automatikus döntéshozatali eljárásban és a sommás eljárásban hozot
 
 (4) Az 1. § (3) bekezdése, a 8. § (1) bekezdése, a 20. § (2) bekezdése, a 21. § és a 27–29. § 2019. január 1-jén lép hatályba.
 
-(5) A 32. § (1)–(4) bekezdése 2023. január 1-jén lép hatályba.
+(5) A 32. § (1)–(4) bekezdése 2024. február 1-jén lép hatályba.
 
 80. § E törvény
 

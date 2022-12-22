@@ -29,18 +29,26 @@ az Országgyűlés a következő törvényt alkotja:
 - i) Budapest VIII. kerület belterület 36582/0/A/1 helyrajzi számú, természetben az 1088 Budapest, Pollack Mihály tér 10. (a volt Károlyi-palota);
 - j) Budapest VIII. kerület belterület 36582/0/C/1 helyrajzi számú, természetben az 1088 Budapest, Pollack Mihály tér 4–6. (a volt Esterházy-palota)
 
-szám alatt található ingatlanok (a továbbiakban együtt: Ingatlanok) és a rendeltetésszerű használatukhoz szükséges ingóságok a Pázmány Péter Katolikus Egyetem (a továbbiakban: PPKE) által ellátott oktatási, kutatási, kulturális és hitéleti feladatok elősegítése céljából ingyenesen, valamint per-, teher- és igénymentesen – ide nem értve az Ingatlanokon fennálló esetleges szolgalmi jogokat – a Magyar Katolikus Püspöki Konferencia (nyilvántartási száma: 00001/2012-027, székhelye: 1071 Budapest, Városligeti fasor 45.) tulajdonába kerülnek azzal, hogy az Ingatlanokhoz kapcsolódó fizetési kötelezettségek a tulajdonba vevőt az érintett ingatlan birtokátruházását követően terhelik. A birtokátruházásra az egyes ingatlanokban jelenleg elhelyezett funkciók kiváltását követően kerül sor azzal, hogy a birtokátruházás az épületek kiürítésének ütemében folyamatosan történhet.
+szám alatt található ingatlanok (a továbbiakban együtt: Ingatlanok) és a rendeltetésszerű használatukhoz szükséges ingóságok a Pázmány Péter Katolikus Egyetem (a továbbiakban: PPKE) által ellátott oktatási, kutatási, kulturális és hitéleti feladatok elősegítése céljából ingyenesen, valamint per-, teher- és igénymentesen – ide nem értve az Ingatlanokon fennálló esetleges szolgalmi jogokat – a Magyar Katolikus Püspöki Konferencia (nyilvántartási száma: 00001/2012-027, székhelye: 1071 Budapest, Városligeti fasor 45., a továbbiakban: MKPK) tulajdonába kerülnek azzal, hogy az Ingatlanokhoz kapcsolódó fizetési kötelezettségek a tulajdonba vevőt az érintett ingatlan birtokátruházását követően terhelik. A birtokátruházásra az egyes ingatlanokban jelenleg elhelyezett funkciók kiváltását követően kerül sor azzal, hogy a birtokátruházás az épületek kiürítésének ütemében folyamatosan történhet.
 
-2. § Az Ingatlanok tulajdonjogának átruházására vonatkozó, az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződéseket az állam nevében az egyes ingatlanok vonatkozásában a tulajdonosi joggyakorló szervezetek készítik elő és kötik meg. A szerződésekben az Ingatlanok forgalmi értékeként a könyv szerinti értéket kell megjelölni.
+1/A. § (1) Az Nvtv. 13. § (3) bekezdése és az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése alapján az állam tulajdonában lévő, az ingatlan-nyilvántartás szerinti Budapest VIII. kerület belterület 36561/0/A helyrajzi számú, természetben az 1088 Budapest, Pollack Mihály tér alatt található ingatlan (a továbbiakban: Ingatlan) a PPKE által ellátott oktatási, kutatási, kulturális és hitéleti feladatok elősegítése céljából ingyenesen, valamint per-, teher- és igénymentesen – ide nem értve az 1/B. § (1) bekezdése szerinti használati jogot – 2026. március 31. napjával az MKPK tulajdonába kerül.
 
-3. § Az 1. § alapján ingyenesen tulajdonba adott Ingatlanok vonatkozásában az Nvtv. 13. § (4) bekezdés b) pontját nem kell alkalmazni.
+(2) Az (1) bekezdés szerinti vagyonjuttatás során az Nvtv. 6. § (1) bekezdésében foglaltakat nem kell alkalmazni.
 
-4. § Az 1. § i) és j) pontja alapján ingyenesen tulajdonba adott ingatlanokon e törvény erejénél fogva az Nvtv. 13. § (5) bekezdésében meghatározott időtartamra elidegenítési és terhelési tilalom áll fenn. Az elidegenítési és terhelési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg a tulajdonosi joggyakorló kérelmezi.
+1/B. § (1) A Magyar Nemzeti Múzeum 1088 Budapest, Múzeum krt. 14–16. szám alatti ingatlanban végzett feladatainak fennállásáig a feladatellátáshoz szükséges parkolóhelyek használatát a MKPK térítésmentesen biztosítja a Magyar Nemzeti Múzeum részére, amelynek feltételeit a 2. § szerinti szerződésben kell rögzíteni.
+
+(2) Az 1/A. § (1) bekezdése szerinti tulajdonátruházás feltétele, hogy a MKPK az Ingatlant terhelő kötelezettségeket a 2. § szerinti szerződés alapján teljeskörűen átvállalja.
+
+2. § Az 1. § szerinti Ingatlanok és az 1/A. § (1) bekezdése szerinti Ingatlan tulajdonjogának átruházására vonatkozó, az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződéseket az állam nevében az egyes ingatlanok vonatkozásában a tulajdonosi joggyakorló szervezetek készítik elő és kötik meg. A szerződésekben az 1. § szerinti Ingatlanok és az 1/A. § (1) bekezdése szerinti Ingatlan forgalmi értékeként a könyv szerinti értéket kell megjelölni.
+
+3. § Az 1. § alapján ingyenesen tulajdonba adott Ingatlanok és az 1/A. § (1) bekezdése szerint tulajdonba adott Ingatlan vonatkozásában az Nvtv. 13. § (4) bekezdés b) pontját nem kell alkalmazni.
+
+4. § Az 1/A. § (1) bekezdése alapján ingyenesen tulajdonba adott Ingatlanon e törvény erejénél fogva határozatlan időre szóló elidegenítési és terhelési tilalom áll fenn. Az elidegenítési és terhelési tilalomnak az átruházó javára szóló ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg a tulajdonosi joggyakorló kérelmezi.
 
 5. § Magyarország Kormánya az Ingatlanok állami tulajdonból történő átadását, valamint a PPKE tulajdonát képező Piliscsaba belterület 1602/2, 1602/15, valamint 952 helyrajzi számú ingatlanok állam javára történő megszerzését érintő jogügyletek tekintetében megteszi a szükséges intézkedéseket az Apostoli Szentszékkel való egyeztetés, illetve a szükség szerint létrehozandó megállapodás előkészítése érdekében.
 
 6. § Ez a törvény a kihirdetését követő ötödik napon lép hatályba.
 
-7. § Az 1. §, a 3. §, a 4. § és a 8. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+7. § Az 1. §, az 1/A. §, a 3. §, a 4. § és a 8. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 #### 8. §

@@ -2,7 +2,13 @@
 
 a Budapest és az agglomeráció fejlesztésével összefüggő állami feladatokról, valamint egyes fejlesztések megvalósításáról, továbbá egyes törvényeknek a Magyarország filmszakmai támogatási programjáról szóló SA.50768 számú Európai Bizottsági határozattal összefüggő módosításáról
 
-Annak érdekében, hogy a központi költségvetési forrásból és európai uniós támogatásból finanszírozott, Budapesten, illetve az agglomerációban nem önkormányzati hatáskörben megvalósuló, állami-kormányzati kiemelt jelentőségű városépítészeti, ingatlan- és közlekedési infrastruktúra fejlesztések előkészítése gyorsabb, hatékonyabb és egységes eljárási rendben, a rendelkezésre álló források hatékonyabb felhasználásával történjék,különös figyelemmel Budapestnek a nemzetgazdaságban és általában az ország életében betöltött kiemelkedő szerepére,a Budai Várnegyed, illetve annak részeként a Palotanegyed nemzet történelmében és emlékezetében betöltött kiemelkedő szerepének tudatában, a Budai Palotanegyed minőségi és egységes szempontú megújításának, fenntartható fejlesztésének érdekében, az egyedülálló építészeti, kulturális és történelmi értékek megóvását, valamint méltó bemutatását biztosítva,az Országgyűlés a következő törvényt alkotja:
+Annak érdekében, hogy a központi költségvetési forrásból és európai uniós támogatásból finanszírozott, Budapesten, illetve az agglomerációban nem önkormányzati hatáskörben megvalósuló, állami-kormányzati kiemelt jelentőségű városépítészeti, ingatlan- és közlekedési infrastruktúra fejlesztések előkészítése gyorsabb, hatékonyabb és egységes eljárási rendben, a rendelkezésre álló források hatékonyabb felhasználásával történjék,
+
+különös figyelemmel Budapestnek a nemzetgazdaságban és általában az ország életében betöltött kiemelkedő szerepére,
+
+a Budai Várnegyed, illetve annak részeként a Palotanegyed nemzet történelmében és emlékezetében betöltött kiemelkedő szerepének tudatában, a Budai Palotanegyed minőségi és egységes szempontú megújításának, fenntartható fejlesztésének érdekében, az egyedülálló építészeti, kulturális és történelmi értékek megóvását, valamint méltó bemutatását biztosítva,
+
+az Országgyűlés a következő törvényt alkotja:
 
 ### I. Fejezet — A KIEMELT BUDAPESTI FEJLESZTÉSEK ÁLTALÁNOS SZABÁLYAI
 
@@ -29,10 +35,10 @@ Annak érdekében, hogy a központi költségvetési forrásból és európai un
 
 3. § (1) A Kormány a 2. § (1) bekezdésében meghatározott feladatokat – a III. és a III/A. Fejezetben meghatározott kivétellel –
 
-- a) az e feladatok ellátására létrehozott, a magyar állam 100%-os tulajdonában álló nonprofit gazdasági társaság vagy annak 100%-os tulajdonában álló nonprofit gazdasági társaság (a továbbiakban együtt: Társaság), vagy
+- a) az e feladatok ellátására létrehozott, a magyar állam 100%-os tulajdonában álló gazdasági társaság, annak 100%-os tulajdonában álló gazdasági társaság vagy költségvetési szerv (a továbbiakban együtt: Társaság), vagy
 - b) az állami beruházásokért felelős miniszter
 
-útján látja el, azzal, hogy magasépítési beruházás előkészítését kizárólag a magyar állam 100%-os tulajdonában álló nonprofit gazdasági társaság útján látja el. A Társaság e feladatai elvégzéséhez közreműködőt vehet igénybe. A Társaság által ellátandó feladatokat és az abban közreműködő szerveket, valamint az érintett szervezetek közötti együttműködés rendjét a Kormány rendeletben határozza meg.
+útján látja el, azzal, hogy magasépítési beruházás előkészítését kizárólag a magyar állam 100%-os tulajdonában álló gazdasági társaság vagy költségvetési szerv útján látja el. A Társaság e feladatai elvégzéséhez közreműködőt vehet igénybe. A Társaság által ellátandó feladatokat és az abban közreműködő szerveket, valamint az érintett szervezetek közötti együttműködés rendjét a Kormány rendeletben határozza meg.
 
 (2) A Társaság, illetve a kiemelt budapesti fejlesztések tekintetében építtetőként eljáró személy teljes személyes költség-, illeték- és igazgatási szolgáltatási díjmentességben részesül.
 
@@ -58,7 +64,7 @@ Annak érdekében, hogy a központi költségvetési forrásból és európai un
 
 (3) A szerződés átruházása esetén az átvevő személyt további közbeszerzési kötelezettség nem terheli, és a tervek felhasználási jogának átruházása esetén az átvevő személyt további tervpályázati vagy közbeszerzési kötelezettség nem terheli.
 
-(4) Az (1)–(3) bekezdésben meghatározott rendelkezéseket kell megfelelően alkalmazni a 3. § (1) bekezdése szerinti, a magyar állam 100%-os tulajdonában álló nonprofit gazdasági társaság és annak 100%-os tulajdonában álló nonprofit gazdasági társaság közötti szerződés átruházásra is.
+(4) Az (1)–(3) bekezdésben meghatározott rendelkezéseket kell megfelelően alkalmazni a 3. § (1) bekezdése szerinti, a magyar állam 100%-os tulajdonában álló gazdasági társaság, annak 100%-os tulajdonában álló gazdasági társaság, illetve költségvetési szerv közötti szerződés átruházásra is.
 
 ### II. Fejezet — A DÉLI VÁROSKAPU FEJLESZTÉSI PROGRAM
 
@@ -269,25 +275,25 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 
 #### 12. Módosító rendelkezések
 
-24. §
+#### 24. §
 
-25. §
+#### 25. §
 
-26. §
+#### 26. §
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
-29. §
+#### 29. §
 
-30. §
+#### 30. §
 
-31. §
+#### 31. §
 
-32. §
+#### 32. §
 
-33. §
+#### 33. §
 
 ### 1. melléklet a 2018. évi XLIX. törvényhez
 
