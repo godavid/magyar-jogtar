@@ -84,7 +84,9 @@ a következő törvényt alkotja:
 
 9. § A 3. § (3) bekezdése szerinti írásos nyilatkozatot – az előírt jogvesztő határidőn belül – a miniszternek kell megküldeni.
 
-10. § A Kormány jogosult a jogi személyiséggel rendelkező vallási közösségeket közcélú tevékenységük folytatásához szükséges ingatlan megszerzéséhez segíteni.
+10. § (1) A Kormány jogosult a jogi személyiséggel rendelkező vallási közösségeket, belső egyházi jogi személyeket közcélú tevékenységük folytatásához szükséges ingatlan megszerzésében segíteni.
+
+(2) Ha a belső egyházi jogi személy állami tulajdonú ingatlant ingyenesen kap vagy kapott tulajdonba, beleértve az Etv. 2. § (2) bekezdés c)–e) pontjában meghatározott célt szolgáló, valamint az Etv. 17. § (2) bekezdése szerinti szakrális ingatlanokat is, különösen, ha az ingatlanra vonatkozóan az Ehtv. 19/B. § (3) bekezdése szerinti támogatásban részesül vagy részesült, magyarországi működésének a megszűnése esetén az ingatlan tulajdonjoga és az ingatlanhoz kapcsolódó közcélú tevékenység ellátásának kötelezettsége az érintett, az Ehtv. 7. § (2) bekezdés b)–d) pontjában meghatározott egyház magyarországi legfőbb képviseleti szerve (a továbbiakban: az egyház magyarországi legfőbb képviseleti szerve) által megjelölt magyarországi belső egyházi jogi személyére, az egyház magyarországi legfőbb képviseleti szerve eltérő rendelkezése hiányában az ingatlan fekvése szerint területi illetékességgel rendelkező magyarországi belső egyházi jogi személyére száll át. Az érdekelt magyarországi belső egyházi jogi személy tulajdonjogát az ingatlan-nyilvántartást vezető hatóság az érintett egyház magyarországi legfőbb képviseleti szervének nyilatkozata alapján bejegyzi.
 
 ### III. Fejezet — A VALLÁSI KÖZÖSSÉGEK FELSŐOKTATÁSI KÖZFELADATAINAK ELLÁTÁSÁRA VONATKOZÓ SZABÁLYOK
 
@@ -187,6 +189,19 @@ biztosíthatja a felsőoktatási közfeladat magasabb szintű ellátása érdek�
 
 (2) A víziközmű-szolgáltatásról szóló törvény alkalmazásában a jogi személyiséggel rendelkező vallási közösség tulajdonában álló, egy felhasználási helyet képező, egy vagy több lakóépület, lakás, plébánia, parókia, rendház, üdülő vagy hétvégi ház, továbbá a hozzá kapcsolódó garázs víziközmű-szolgáltatásának biztosítása érdekében megkötött szerződés tekintetében lakossági felhasználónak minősül, ha a jogi személyiséggel rendelkező vallási közösség tulajdonában álló lakóépület, lakás, plébánia, parókia, rendház, üdülő vagy hétvégi ház az Ehtv. 12. § (1) bekezdésében vagy 12/A. § (1) bekezdésében meghatározott személy életvitelszerű lakhatására szolgál, és az így igénybe vett szolgáltatással a jogi személyiséggel rendelkező vallási közösség nem folytat jövedelemszerző tevékenységet.
 
+11/A. § (1) Ha az állami vagy önkormányzati feladatot ellátó köznevelési vagy szakképző intézmény fenntartói joga bevett egyház vagy annak belső egyházi jogi személye részére kerül átadásra, az egyházi fenntartó legkésőbb a feladatátvétel éve június 30-ig benyújtott erre vonatkozó igénye alapján a fenntartói jog átadásával együtt a köznevelési vagy szakképző intézmény nevelési-oktatási feladatainak ellátását szolgáló, állami vagy helyi önkormányzati tulajdonban álló ingó és ingatlan vagyont haladéktalanul, de legkésőbb a feladatátvétel évében a nevelési, illetve tanév kezdetéig ingyenesen a bevett egyház vagy annak belső egyházi jogi személye mint fenntartó tulajdonába kell adni azzal, hogy az ingatlan és ingó vagyon, vagy az azok helyébe lépő vagyonelemek tulajdonjoga ingyenesen visszaszáll az eredeti tulajdonosra akkor, ha
+
+- a) a fenntartó jogutód nélkül megszűnik,
+- b) a köznevelési vagy szakképző intézmény megszűnik,
+- c) a fenntartói jog központi költségvetési szerv, települési önkormányzat, vagy nem bevett egyházi fenntartó részére kerül átadásra, vagy
+- d) az ingatlanon a nevelési-oktatási feladat ellátása megszűnik.
+
+(2) Ha az (1) bekezdésben meghatározott határidőn, illetve az eredeti tulajdonosra történő visszaszállás esetében az erre okot adó, (1) bekezdésben meghatározott körülmény vonatkozásában az eredeti tulajdonos tudomásszerzését követő 60 napon belül a szerződés – ingatlan esetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas okiratban – nem jön létre, a fél a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerződéskötési kötelezettségre vonatkozó szabályai alapján kérheti a bíróságtól a szerződés létrehozását. A perindítástól kezdődően az ingatlanon elidegenítési és terhelési tilalom áll fenn, amelynek ingatlan-nyilvántartási bejegyzését a bíróság elrendeli.
+
+(3) Az (1) bekezdésben meghatározott vagyonelemek tulajdonjogának visszaszállása esetén az állami, önkormányzati, illetve európai uniós támogatásból végzett beruházást nem kell megtéríteni. Az egyházi forrásból végzett értéknövelő beruházást az értékcsökkenés számviteli szabályai szerint kell megtéríteni.
+
+(4) Az (1)–(3) bekezdés szerinti esetekben az ingatlan tulajdonjogát megszerző fél az átruházó fél által igénybevett, az Ehtv. 19/B. § (3) bekezdése szerinti támogatás tekintetében az átruházó fél jogutódja.
+
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
 12. § Ez a törvény 1998. január 1-jén lép hatályba azzal, hogy a 4. § (1) bekezdését először az 1997. évi adóbevallások során kell alkalmazni.
@@ -195,4 +210,6 @@ biztosíthatja a felsőoktatási közfeladat magasabb szintű ellátása érdek�
 
 (2) E törvénynek a Módtv. által megállapított 6. § (6) bekezdését a 2023. év tekintetében kell először alkalmazni.
 
-14. § A 4. §, az 5. §, a 6. § (1) és (6) bekezdése, a 7. § (1)–(4) bekezdése, a III. Fejezet és a 13. § az Alaptörvény VII. cikk (5) bekezdése alapján sarkalatosnak minősül.
+(3) Az egyházakat érintő egyes törvények módosításáról szóló 2022. évi LXXVIII. törvény (a továbbiakban: Módtv2.) hatálybalépésekor a Módtv2.-vel megállapított 11/A. § (1) bekezdése szerinti egyházi fenntartó birtokában álló vagyonelemekre a szerződést – az egyházi fenntartó erre vonatkozó igénye alapján – haladéktalanul, de legkésőbb a nevelési, illetve tanév kezdetéig kell megkötni. Az erre vonatkozó igényt legkésőbb 2023. február 28-ig be kell jelenteni. A 11/A. § (2) és (3) bekezdésében foglaltakat ebben az esetben is alkalmazni kell.
+
+14. § A 4. §, az 5. §, a 6. § (1) és (6) bekezdése, a 7. § (1)–(4) bekezdése, a III. Fejezet, a 11/A. § és a 13. § az Alaptörvény VII. cikk (5) bekezdése alapján sarkalatosnak minősül.
