@@ -60,7 +60,7 @@ a távhőszolgáltatás versenyképesebbé tételéről
 - i) a tulajdoni részesedésre visszaírt értékvesztés, ha azt az adózó korábban a (2) bekezdés d) vagy e) pontja alapján az adózás előtti eredményt növelő tételként vette számításba, amelyet az erre vonatkozó adóbevallással és az azt alátámasztó kimutatásokkal igazol,
 - j) a Tao. tv. 24/B. § (1) bekezdése szerinti jóváírásra tekintettel az adóévben bevételként elszámolt összeg,
 - k) a kisajátítás, valamint a kisajátítási tervben szereplő ingatlanra megkötött adásvétel során kapott ellenérték és az érintett eszköz könyv szerinti értéke közötti pozitív különbözet az adózás előtti eredményben való megjelenése adóévében,
-- l) az adózó választása szerint az elektromos töltőállomás bekerülési érték, de legfeljebb az elektromos töltőállomás bekerülési értéke és az elektromos töltőállomás által a beruházás befejezésének adóévét követő 3 éves időszak alatt elért (elérhető), az adózó bekerüléskori becslése szerinti, az elektromos töltőállomás pozitív működési eredménye közötti különbözet összege, a beruházás befejezésének adóévében, figyelemmel a (13)–(17) bekezdésekre.
+- l) az adózó választása szerint az elektromos töltőállomás bekerülési értéke a beruházás befejezésének adóévében, figyelemmel a (14)–(16) bekezdésekre.
 - m) a korábbi adóévek negatív adóalapjából – a (18) és (19) bekezdésben foglaltakat figyelembe véve – az adózó döntése szerinti összeg.
 
 (4) Kedvezményezett átalakulás esetén a jogelőd, illetve a jogutód – választása szerint – nem alkalmazza a (2) bekezdés c) pontját, feltéve, hogy a jogutód létesítő okirata tartalmazza a (6) bekezdésben foglaltak alkalmazására vonatkozó kötelezettségvállalást.
@@ -81,15 +81,15 @@ a távhőszolgáltatás versenyképesebbé tételéről
 
 (12) Abban az esetben, ha a részesedés nyilvántartásból történő kivezetése újabb kedvezményezett átalakulás vagy kedvezményezett részesedéscsere következtében történő részesedésszerzés miatt következik be, az adózónak nem kell a (2) bekezdés d) és e) pontjában foglaltakat alkalmaznia. Az utóbbi részesedés szerzésére tekintettel adózás előtti eredmény csökkentésként számításba vett összegként kell azonban figyelembe vennie a korábbi kedvezményezett átalakulás vagy kedvezményezett részesedéscsere alapján érvényesített adózás előtti eredménycsökkentésből azt a részt, amelyet növelésként még nem vett számításba.
 
-(13) Amennyiben a (3) bekezdés l) pontja szerinti csökkentés összege meghaladja az elektromos töltőállomás bekerülési értéke és az elektromos töltőállomás által a beruházás befejezésének adóévét követő 3 éves időszak alatt ténylegesen elért pozitív működési eredmény különbözetének összegét, a (3) bekezdés l) pontja szerinti, az adózás előtti eredmény csökkentéseként elszámolt összeg az állami adó- és vámhatósághoz benyújtott önellenőrzéssel pótlékmentesen módosítható.
+(13)
 
-(14) Az adóalany a (3) bekezdés l) pontjának alkalmazása során az elektromos töltőállomás bekerülési értékeként veheti figyelembe a Tao. tv. 4. § 23. pontja szerinti kapcsolt vállalkozása által a Tao. tv. 7. § (1) bekezdés l) pontja szerint nem érvényesített összeget, amennyiben az adóbevallás benyújtásáig rendelkezik az érintett kapcsolt vállalkozása írásos nyilatkozatával, amely szerint a kapcsolt vállalkozás a Tao. tv. 7. § (1) bekezdés l) pontja szerinti kedvezményt nem érvényesíti, és amely tartalmazza a beruházás befejezésének adóévét követő 3 éves időszak alatt az elektromos töltőállomás által elért üzemi eredményről.
+(14) Az adóalany a (3) bekezdés l) pontjának alkalmazása során az elektromos töltőállomás bekerülési értékeként veheti figyelembe a Tao. tv. 4. § 23. pontja szerinti kapcsolt vállalkozása által a Tao. tv. 7. § (1) bekezdés l) pontja szerint nem érvényesített összeget, amennyiben az adóbevallás benyújtásáig rendelkezik az érintett kapcsolt vállalkozása írásos nyilatkozatával, amely szerint a kapcsolt vállalkozás a Tao. tv. 7. § (1) bekezdés l) pontja szerinti kedvezményt nem érvényesíti.
 
-(15) A (3) bekezdés l) pontjában meghatározott kedvezmény a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187 2014.06.26. 1–78. o.) I. és II. fejezete és 56. cikke hatálya alá tartozó támogatásnak minősül.
+(15) A (3) bekezdés l) pontja szerinti összeg 7. § (1) bekezdés szerinti adókulccsal számított értéke az állami támogatásokra vonatkozó rendelkezések alkalmazásában az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet szabályaival összhangban nyújtható.
 
 (16) A (3) bekezdés l) pontja szerinti kedvezmény és a Tao. tv. 7. § (1) bekezdés l) pontja szerinti kedvezmény nem érvényesíthető ugyanazon elektromos töltőállomás bekerülési értéke alapján.
 
-(17) A (3) bekezdés l) pontja szerint elektromos töltőállomásonként érvényesített összeg 7. § (1) bekezdése szerinti adókulccsal számított értéke nem lehet több 20 millió eurónak a 7. § (1) bekezdése szerinti adókulccsal számított értékének megfelelő forintösszegnél.
+(17)
 
 (18) Amennyiben az (1) bekezdés szerinti adóalap bármely adóévben negatív, ezzel az összeggel az adózó a következő öt adóévben döntése szerinti megosztásban csökkentheti az (1) bekezdés szerinti pozitív adóalapot, feltéve, hogy a negatív adóalap a rendeltetésszerű joggyakorlás elvének betartásával keletkezett. A korábbi adóévek negatív adóalapja legfeljebb a felhasználása (az adózás előtti eredmény csökkentéseként történő elszámolása) nélkül számított adóévi adóalap 50 százalékáig számolható el az adózás előtti eredmény csökkentéseként.
 
@@ -281,9 +281,7 @@ e) az 57. § (3) bekezdése szerinti eljárásban kötelezően benyújtandó ada
 
 ### Átmeneti rendelkezések
 
-18. §
-
-(2)
+18. § (2)
 
 (3) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 6. § (3) bekezdés i) pontját az adózó a 2014. adóévi adókötelezettségének megállapítása során is alkalmazhatja.
 
@@ -308,3 +306,13 @@ e) az 57. § (3) bekezdése szerinti eljárásban kötelezően benyújtandó ada
 (13) E törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel módosított 6. § (2) bekezdés b) pontját a Tao. tv. 3. számú melléklet B) rész 25. pontjával összefüggésben első alkalommal a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény hatálybalépése napját követő ügyletekre kell alkalmazni.
 
 (14) E törvénynek a Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel módosított 6. § (2) bekezdés b) pontját a Tao. tv. 3. számú melléklet B) rész 26. pontjával összefüggésben az adózó a 2022. adóévi adókötelezettségére választása szerint alkalmazza.
+
+(15) E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel megállapított 6. § (3) bekezdés l) pontját, valamint (14) és (15) bekezdését első alkalommal a 2022. január 31-ét követően benyújtott adóbevallás vonatkozásában kell alkalmazni, figyelemmel a (18) bekezdésben foglaltakra.
+
+(16) Az e törvény 6. § (15) bekezdése hatálya alá tartozó, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet szabályaival összhangban igénybe vehető csekély összegű (de minimis) támogatás az adózó erre vonatkozó választása és adóbevallásban benyújtott nyilatkozata szerint az „Állami támogatási intézkedésekre vonatkozó ideiglenes válságkezelési keret a gazdaságnak Oroszország Ukrajna elleni agresszióját követő támogatása céljából” című, 2022/C 131 I/01 számú európai bizottsági közlemény (a továbbiakban: Válságközlemény) 2.1. szakaszának szabályaival és a támogatási programot jóváhagyó határozatban és az azt módosító európai bizottsági határozatokban foglalt rendelkezésekkel összhangban is igénybe vehető, figyelemmel a (17)–(19) bekezdésre, valamint a Tao. tv. 4. számú mellékletében foglaltakra.
+
+(17) A (16) bekezdést első alkalommal a 2022. január 31-ét követően benyújtott adóbevallás vonatkozásában, a támogatási programot jóváhagyó európai bizottsági határozat elfogadását követően lehet alkalmazni, figyelemmel a (18) bekezdésben foglaltakra.
+
+(18) E bekezdés hatálybalépését megelőzően, de 2022. január 31-ét követően benyújtott adóbevallását illetően az e törvény 6. § (3) bekezdés l) pontja tekintetében az adózónak önellenőrzést kell benyújtania.
+
+(19) A (16) bekezdés szerinti adózói választás és nyilatkozat utoljára a Válságközlemény alkalmazhatóságának határidejéig benyújtott adóbevallásban tehető meg.
