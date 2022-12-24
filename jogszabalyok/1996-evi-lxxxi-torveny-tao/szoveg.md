@@ -319,7 +319,14 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 
 (3b) A csoportos társasági adóalany megszűnik a megszüntetése napján, valamint azt a napot megelőző napon, amelyen megszűnése hiányában már nem lenne legalább két tagja.
 
-(3c) Az adózó csoporttagsága megszűnik adókötelezettsége megszűnése, kilépése és a csoportos társasági adóalany megszűnése napján, valamint azon a napon, amelyet követő naptól már nem felel meg a tagságára előírt összes feltételnek.
+(3c) Az adózó csoporttagsága megszűnik
+
+- a) adókötelezettsége megszűnése napján,
+- b) kilépése napján,
+- c) a csoportos társasági adóalany megszűnése napján,
+- d) azon a napon, amelyet követő naptól már nem felel meg a tagságára előírt összes feltételnek,
+- e) végelszámolása, felszámolása, kényszertörlési eljárása kezdő időpontját megelőző nappal,
+- f) megszűnése napján, ha az adózó végelszámolási vagy felszámolási eljárás nélkül szűnik meg.
 
 (3d) Ha a (3b) és (3c) bekezdés szerinti megszűnés időpontja nem az üzleti év utolsó napjára esik, akkor a megszűnés napja – a (3b) és (3c) bekezdésben foglaltaktól eltérően – a megszűnés napját magában foglaló üzleti évet megelőző üzleti év utolsó napja. Ha a megszűnés napját magában foglaló üzleti évet megelőző üzleti év utolsó napján a csoportos társasági adóalany, illetve a csoporttagság még nem állt fenn, akkor úgy kell tekinteni, hogy a csoportos társasági adóalany, illetve a csoporttagság nem jött létre. Ha a csoportos társasági adóalany, illetve a csoporttagság nem az üzleti év utolsó napján szűnik meg, akkor a megszűnés napját követő nappal a csoporttagoknak, illetve az érintett csoporttagnak önálló adóéve kezdődik.
 
@@ -394,7 +401,7 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
   - ka)
   - kb) a személyi jövedelemadóról szóló törvény szerinti munkásszállás bekerülési értékeként, a bekerülési értékének növekményeként kimutatott összeg a beruházás, felújítás befejezésének adóévében, továbbá a munkásszállás céljára bérelt ingatlan bérleti díjaként, valamint a munkásszállás fenntartására, üzemeltetésére tekintettel az adóévben elszámolt összeg,
   - kc) az adózó által a munkavállalói számára bérlakás céljából épített és e tevékenységet közvetlenül szolgáló hosszú élettartamú szerkezetű épület bekerülési értékeként, a bekerülési értékének növekményeként kimutatott összeg a beruházás, felújítás befejezésének adóévében,
-- l) az adózó választása szerint az elektromos töltőállomás bekerülési értéke, de legfeljebb az elektromos töltőállomás bekerülési értéke és az elektromos töltőállomás által a beruházás befejezésének adóévét követő 3 éves időszak alatt elért (elérhető), az adózó becslése szerinti, az elektromos töltőállomás pozitív működési eredménye közötti különbözet, a beruházás befejezésének adóévében figyelemmel a (31)–(32) bekezdésre,
+- l) az adózó választása szerint az elektromos töltőállomás bekerülési értéke a beruházás befejezésének adóévében figyelemmel a (31) bekezdésre,
 - ly) a kisajátítás, valamint a kisajátítási tervben szereplő ingatlanra megkötött adásvétel során kapott ellenérték és az érintett eszköz könyv szerinti értéke közötti pozitív különbözet az adózás előtti eredményben való megjelenése adóévében,
 - m) a korai fázisú vállalkozásban szerzett részesedés bekerülési értékének (ideértve a szerzést követő tőkeemelésre tekintettel a bekerülési érték növekményét is) háromszorosa a részesedés szerzésének adóévében és az azt követő három adóévben, egyenlő részletekben, de adóévenként és korai fázisú vállalkozásonként legfeljebb 20 millió forint, figyelemmel a (8)–(8e) bekezdésben foglaltakra,
 - n) a követelésre az adóévben visszaírt értékvesztés, a követelés bekerülési értékéből a behajthatatlanná vált rész, valamint a követelés átruházásakor, kiegyenlítésekor, beszámításakor elszámolt bevétel, de legfeljebb a nyilvántartott értékvesztés; e rendelkezést a hitelintézet és a pénzügyi vállalkozás a pénzügyi szolgáltatásból, befektetési szolgáltatási tevékenységből származó követelésre, befektetési vállalkozás a befektetési szolgáltatási tevékenységből származó követelésre nem alkalmazza,
@@ -538,9 +545,9 @@ arányára figyelemmel meghatározott összeget veheti figyelembe az (1) bekezd�
 
 (30) Az (1) bekezdés k) pont kc) alpontja akkor alkalmazható, ha az épület olyan legalább heti 36 órás munkaidőben foglalkoztatott munkavállaló és ennek vele együtt lakó közeli hozzátartozója elhelyezésére szolgál, akinek nincs lakóhelye azon a településen, ahol a munkahelye van, továbbá, akinek lakóhelye és a munkahelye legalább 60 kilométerre van egymástól, vagy akinek a munkahelye és lakóhelye közötti, naponta, tömegközlekedési eszközzel történő oda- és visszautazás ideje a 3 órát meghaladja. Az (1) bekezdés k) pont kc) alpontja nem alkalmazható, ha az adózó kapcsolt vállalkozásának minősülő munkavállalóját, ennek hozzátartozóját szállásolja el.
 
-(31) Amennyiben az (1) bekezdés l) pontja szerinti csökkentés összege meghaladja az elektromos töltőállomás bekerülési értéke és az elektromos töltőállomás által a beruházás befejezésének adóévét követő 3 éves időszak alatt ténylegesen elért pozitív működési eredmény különbözetének összegét, az (1) bekezdés l) pontja szerinti, az adózás előtti eredmény csökkentéseként elszámolt összeg az állami adó- és vámhatósághoz benyújtott önellenőrzéssel pótlékmentesen módosítható.
+(31) Az (1) bekezdés l) pontja szerinti összeg 19. § szerinti adókulccsal számított értéke az állami támogatásokra vonatkozó rendelkezések alkalmazásában az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet szabályaival összhangban nyújtható.
 
-(32) Az (1) bekezdés l) pontja szerint elektromos töltőállomásonként érvényesített összeg 19. § szerinti adókulccsal számított értéke nem lehet több 20 millió eurónak a 19. § szerinti adókulccsal számított értékének megfelelő forintösszegnél.
+(32)
 
 ### Az adóalap megállapításakor növelő jogcímek
 
@@ -1366,7 +1373,7 @@ megvalósított beruházás,
 - a) a beruházáshoz igényelt összes állami támogatás meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszegű elszámolható költségű beruházás kaphat,
 - b) kis- és középvállalkozás által Budapesten megvalósított beruházáshoz igényelt összes állami támogatás jelenértéken, adózónként meghaladja a 7,5 millió eurónak megfelelő forintösszeget.
 
-(2b) Az adózó a (2a) bekezdésben meghatározott esetekben az adókedvezmény iránti kérelmet a kormányrendeletben előírt formában és tartalommal az adópolitikáért felelős miniszterhez nyújtja be. A kérelmet a benyújtást, hiánypótlás esetén a hiánypótlás benyújtását követő 90 napon belül kell a Kormány elé terjeszteni; a határidő egy alkalommal, legfeljebb 90 nappal meghosszabbítható. A (2a) bekezdésben felsorolt esetekben, a kérelem Kormány elé terjesztését megelőzően az adópolitikáért felelős miniszter – az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet szabályaival összhangban – megkéri az Európai Bizottság engedélyét, azzal, hogy az ügyintézési határidőbe nem számít bele az Európai Bizottság megkeresésének napjától az Európai Bizottság válaszának megérkezéséig terjedő időtartam. Ha a kérelem nem felel meg a kormányrendeletben előírt formának vagy tartalomnak, és az adózó a hiányt felszólítás ellenére nem pótolja, az adópolitikáért felelős miniszter határozatban elutasítja a kérelmet.
+(2b) Az adózó a (2a) bekezdésben meghatározott esetekben az adókedvezmény iránti kérelmet a kormányrendeletben előírt formában és tartalommal az adópolitikáért felelős miniszterhez nyújtja be. A kérelmet a benyújtást, hiánypótlás esetén a hiánypótlás benyújtását követő 90 napon belül kell a Kormány elé terjeszteni; a határidő egy alkalommal, legfeljebb 90 nappal meghosszabbítható. A (2a) bekezdésben felsorolt esetekben, a kérelem Kormány elé terjesztését megelőzően az adópolitikáért felelős miniszter – az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) szabályaival összhangban – megkéri az Európai Bizottság engedélyét, azzal, hogy az ügyintézési határidőbe nem számít bele az Európai Bizottság megkeresésének napjától az Európai Bizottság válaszának megérkezéséig terjedő időtartam. Ha a kérelem nem felel meg a kormányrendeletben előírt formának vagy tartalomnak, és az adózó a hiányt felszólítás ellenére nem pótolja, az adópolitikáért felelős miniszter határozatban elutasítja a kérelmet.
 
 (3) Az adókedvezmény igénybevételének feltétele, hogy az adózó a beruházás tervezett megkezdése előtt
 
@@ -2173,6 +2180,20 @@ e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pon
 
 (107) E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel megállapított 5. § (7a) bekezdését, 7. § (1) bekezdés o) pontját és 20. § (1) bekezdés b) pontját az adózó választása szerint alkalmazhatja a 2022. adóévére.
 
+(108) E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel megállapított 7. § (1) bekezdés l) pontját és (31) bekezdését első alkalommal a 2022. január 31-ét követően benyújtott adóbevallás vonatkozásában kell alkalmazni, figyelemmel a (112) bekezdésben foglaltakra.
+
+(109) Az e törvény hatálya alá tartozó, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet szabályaival összhangban igénybe vehető csekély összegű (de minimis) támogatás az adózó erre vonatkozó választása és adóbevallásban benyújtott nyilatkozata szerint az „Állami támogatási intézkedésekre vonatkozó ideiglenes válságkezelési keret a gazdaságnak Oroszország Ukrajna elleni agresszióját követő támogatása céljából” című, 2022/C 131 I/01 számú európai bizottsági közlemény (a továbbiakban: Válságközlemény) 2.1. szakaszának szabályaival és a támogatási programot jóváhagyó SA.103089 számú határozatban és az azt módosító európai bizottsági határozatokban foglalt rendelkezésekkel összhangban is igénybe vehető, figyelemmel a (110)–(113) bekezdésekre, valamint a 4. számú mellékletre.
+
+(110) A (109) bekezdés szerinti választás első alkalommal a 2022-ben kezdődő adóévről a (109) bekezdés hatálybalépését követően benyújtott adóbevallás vonatkozásában alkalmazható.
+
+(111) A (110) bekezdéstől eltérően e törvény 7. § (1) bekezdés l) pontja tekintetében a (109) bekezdést első alkalommal a 2022. január 31-ét követően benyújtott adóbevallás vonatkozásában lehet alkalmazni, figyelemmel a (112) bekezdésben foglaltakra.
+
+(112) E bekezdés hatálybalépését megelőzően, de 2022. január 31-ét követően benyújtott adóbevallását illetően az e törvény 7. § (1) bekezdés l) pontja tekintetében az adózónak önellenőrzést kell benyújtania.
+
+(113) A (109) bekezdés szerinti adózói választás és nyilatkozat utoljára a Válságközlemény alkalmazhatóságának határidejéig benyújtott adóbevallásban tehető meg.
+
+(114) A 29/A. § (6) bekezdése hatálya alá tartozó, a 7. § (1) bekezdés ny) pontja szerinti csökkentő tételt, illetve a 8. § (1) bekezdés j) pontja szerinti növelő tételt alkalmazó adózó a 2014-ben kezdődő adóév utolsó napjáig keletkezett, és az adóalapnál még nem érvényesített elhatárolt veszteségét legfeljebb a felhasználása (az adózás előtti eredmény csökkentéseként történő elszámolása) nélkül számított adóévi adóalapnak a 7. § (1) bekezdés ny) pontja szerinti csökkentő tétellel növelt és a 8. § (1) bekezdés j) pontja szerinti növelő tétellel csökkentett összegének 50 százalékáig számolhatja el az adózás előtti eredmény csökkentéseként. E rendelkezés az adózó választása szerint első alkalommal a 2021. december 31-ét követően kezdődő adóévre alkalmazható.
+
 29/B. § (1) A tőkepiac stabilitásának erősítése érdekében tett egyes kárrendezési intézkedésekről szóló 2015. évi CCXIV. törvény (a továbbiakban: Kárrendezési Törvény) alapján a Kárrendezési Alap részére a Kárrendezési Törvény 11. § (1) bekezdése alapján befizetést teljesítő adózó által az adóévben, a Kárrendezési Törvény 11. § (2) bekezdésére figyelemmel megállapított, befizetett összeg (továbbiakban e §-ban: befizetés) csökkenti az adózó által fizetendő társasági adót, a fizetendő pénzügyi szervezetek különadóját a fizetendő pénzügyi tranzakciós illetéket.
 
 (2) A befizetést teljesítő adózó a visszajáró összeget első alkalommal a 2017. évi adókötelezettsége megállapítása során – az adókötelezettséget csökkentő tételként – veszi figyelembe az (1) bekezdés szerinti adónemekben. Az adózó a csökkentést elsőként a 2017. első negyedévére vonatkozó pénzügyi szervezetek különadója kötelezettség vonatkozásában, majd pedig az (1) bekezdés szerinti adónemekre vonatkozó adófizetési kötelezettség felmerülésének sorrendjében veszi figyelembe.
@@ -2524,7 +2545,7 @@ hatálya alá tartozó támogatást tartalmaz.
 
 30/G. § E törvény 26/A. § (8)–(13) bekezdése a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-ei 651/2014/EU bizottsági rendelet (HL L 187 2014.06.26., 1–78. o.) 1–14. és 17. cikkei hatálya alá tartozó támogatást tartalmaz.
 
-30/H. § E törvény 7. § (1) bekezdés l) pontjában, (31)–(32) bekezdésében meghatározott kedvezmény a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187 2014.06.26. 1–78. o.) I. és II. fejezete és 56. cikke hatálya alá tartozó támogatásnak minősül.
+30/H. § E törvény 29/A. § (109)–(113) bekezdése alapján az adózó erre vonatkozó választása és adóbevallásban benyújtott nyilatkozata szerint igénybe vett támogatás a Válságközlemény 2.1. szakaszának szabályaival és a támogatási programot jóváhagyó SA.103089 számú határozatban és az azt módosító európai bizottsági határozatokban foglalt rendelkezésekkel összhangban nyújtott támogatásnak minősül.
 
 30/I. § (1) A 22/C. § (1) bekezdés a) pont ac) alpontja, b) pont bd) alpontja és d) pont dc) alpontja alkalmazásában, amennyiben a támogatott részéről – a látvány-csapatsport országos sportági szakszövetsége kivételével – hivatásos sportoló alkalmazására kerül sor, vagy a támogatással érintett tárgyi eszköz beruházás, felújítás tekintetében nem teljesülnek a korlátozott mértékű gazdasági célú létesítmény, vagy a kizárólag helyi hatással bíró sportcélú ingatlan feltételei, az ilyen jogcímen nyújtott támogatás az Európai Bizottság SA.31722 (2011/N), SA.46615 (2016/N) és SA.48265 számú határozata hatálya alá tartozik.
 
@@ -2830,6 +2851,17 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 26. a társaságnál a Különleges Munkavállalói Résztulajdonosi Program szervezet vagy Különleges Munkavállalói Résztulajdonosi Program szervezetet kezelő vagyonkezelő alapítvány részére a rendeltetésszerű joggyakorlás elvének betartásával keletkezett finanszírozási és működési költségekre, ráfordításokra visszafizetési kötelezettség nélkül adott támogatás, juttatás, vagyoni hozzájárulás adóévi adózás előtti eredményben elszámolt összege;
 
 ### 4. számú melléklet az 1996. évi LXXXI. törvényhez
+
+#### A 29/A. § (109)–(113) bekezdése szerinti támogatáshoz kapcsolódó szabályok
+
+- 1. E törvény 29/A. § (109)–(113) bekezdése szerint a Válságközlemény 2.1. szakaszának szabályaival, és a támogatási programot jóváhagyó SA.103089 számú határozatban és az azt módosító európai bizottsági határozatokban foglalt rendelkezésekkel összhangban nyújtott támogatás állami támogatásnak minősül.
+- 2. Az 1. pont szerinti támogatást az adózó akkor veheti igénybe, amennyiben működését a háború gazdasági hatásai hátrányosan érintik és erről adóbevallásában nyilatkozatot tesz.
+- 3. Nem veheti igénybe az 1. pont szerinti támogatást a Válságközlemény 9–14. pontjában felsorolt jogi aktusokban meghatározott szankciók, valamint a Válságközlemény elfogadását követően az Európai Unió szervei által Oroszország Ukrajna elleni agressziójára tekintettel bevezetett egyéb szankciók hatálya alá tartozó személy, így különösen nem részesülhet támogatásban a szankciókat bevezető jogi aktusokban kifejezetten megnevezett személy, valamint az ilyen személy meghatározó befolyása alatt levő személy.
+- 4. Nem vehet igénybe az 1. pont szerinti támogatást az adózó a 3. pont szerinti szankciókkal érintett ágazatokban folytatott tevékenységéhez, ha az 1. pont szerinti támogatás veszélyeztetné a szankciók célkitűzéseit.
+- 5. Az 1. pont szerinti támogatás támogatástartalma a Válságközlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt adózónként – az adózó kapcsolt vállalkozásainak adatait is figyelembe véve – nem haladhatja meg a Válságközlemény szerinti, euróban meghatározott keretnek megfelelő forintösszeget.
+- 6. Azonos vagy részben azonos elszámolható költségek esetén az 1. pont szerinti támogatás abban az esetben halmozható más állami támogatással, ha az nem vezet sem az Atr. 2. § 2a. pontja szerinti csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitás, sem az azokban meghatározott legmagasabb támogatási összeg túllépéséhez.
+- 7. Ha az 1. pont szerinti támogatás mellett az adózó eltérő elszámolható költségek vonatkozásában az Atr. 2. § 1. pontja szerinti rendeletekben meghatározott csekély összegű (de minimis) támogatásban is részesül, az igénybe veendő vagy igénybe vett csekély összegű (de minimis) támogatást és az 1. pont szerinti támogatást nem kell egybeszámítani az 5. pont szerinti felső határt illetően. Ha az 1. pont szerinti támogatás mellett az adózó azonos vagy részben azonos elszámolható költségek vonatkozásában csekély összegű (de minimis) támogatást is igénybe vesz, a támogatáshalmozás nem vezethet az 5. pont szerinti felső határ túllépéséhez.
+- 8. Az 1. pont szerinti támogatás akkor halmozható az Európai Unió működéséről szóló szerződés 107. cikk (2) bekezdés b) pontja szerinti támogatással, ha az nem vezet a rendkívüli események által közvetlenül okozott adózói kár túlkompenzációjához.
 
 ### 5. számú melléklet az 1996. évi LXXXI. törvényhez
 

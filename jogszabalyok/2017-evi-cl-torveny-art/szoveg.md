@@ -496,7 +496,9 @@ Ha a természetes személy adózó az állami adó- és vámhatóságnál tört�
 
 (4) Ha a természetes személy adóazonosító jellel nem rendelkezik és belföldön eseti jelleggel szerez adóköteles, a kifizető adatszolgáltatási kötelezettsége körébe eső jövedelmet, vagy róla az állami adó- és vámhatósághoz adatot kell szolgáltatni, a természetes személy adóazonosító jelének megállapítását a kifizető vagy az adatszolgáltató is kérheti az állami adó- és vámhatóságtól. A kérelmező nem magyar állampolgárságú természetes személy esetén az általa ismert, a magyar állampolgárságú természetes személy esetében a természetes személyazonosító adatait, lakcímét és ha a természetes személy rendelkezik értesítési címmel, az értesítési címét közli. A természetes személy adóazonosító jeléről az adóhatóság a kifizetőt is tájékoztatja.
 
-(5) Ha az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni vállalkozói nyilvántartásban szereplő természetes személy az egyéni vállalkozói tevékenységre való jogosultsága megszűnését követően, tevékenységének az Szja tv. szerinti egyéni vállalkozóként vagy adószámmal rendelkező természetes személyként történő folytatása során, az egyéni vállalkozóról és az egyéni cégről szóló törvény szerint újabb bejelentést tesz, akkor az állami adó- és vámhatóság hivatalból másik adószámot állapít meg részére, amelyről értesíti az adózót. Az állami adó- és vámhatóság a bejelentés időpontjától ezen másik adószámon tartja nyilván az adózót.
+(5) Ha az adózó az egyéni vállalkozói tevékenység bejelentésének időpontjában egyéb adóköteles tevékenységére tekintettel már rendelkezik adószámmal, akkor az állami adó- és vámhatóság nem állapít meg részére új adószámot.
+
+(5a) Az (5) bekezdéstől eltérően az állami adó- és vámhatóság új adószámot állapít meg az egyéni vállalkozói tevékenységét bejelentő adózó részére, ha korábbi, megszűnt egyéni vállalkozói tevékenységére tekintettel vámazonosító számmal is rendelkezett.
 
 (6) Az állami adó- és vámhatóság hivatalból technikai azonosító számot állapít meg a nem természetes személy adózó részére, ha az adózó adószámmal nem rendelkezik, de az adóhatóság törvényben meghatározott feladatai ellátásához, illetve végrehajtásához adóhatósági nyilvántartása szükséges. A technikai azonosító szám kizárólag az adózó adóhatósági azonosítására és nyilvántartására szolgál. Az állami adó- és vámhatóság a technikai azonosító számot az adózóval közölheti. Ha az állami adó- és vámhatóság az adótartozás végrehajtásához való jog elévülési idején belül adószámot állapít meg az adózó részére, a technikai azonosító számot az adószám megállapításával egyidejűleg, az adóköteles tevékenység megkezdésének napjával törli. Ha adószám megállapítására az előző rendelkezés szerint nem kerül sor, az állami adó- és vámhatóság az elévülést követően a technikai azonosító számot az adózó egyéb adataival együtt haladéktalanul törli a nyilvántartásából.
 
@@ -749,7 +751,7 @@ Az adóbevallás benyújtásában akadályozott adózó az akadályoztatás megs
 
 (4) A bevallással még le nem fedett időszakról soron kívüli adóbevallást tesz
 
-- a) a csoportos általános forgalmi adóalanyiságot, illetve a csoporthoz csatlakozást engedélyező határozat véglegessé válásától számított harminc napon belül a csoporttag az általános forgalmi adójáról,
+- a) a csoportos általános forgalmi adóalanyiság létrejöttétől, illetve a csoporthoz csatlakozástól számított harminc napon belül a csoporttag az általános forgalmi adójáról,
 - b) a csoportazonosító szám törlése esetén, a csoportképviselő – a törlő határozat véglegessé válásától számított harminc napon belül – a csoport általános forgalmi adójáról.
 
 #### 53. § [Bevallásra vonatkozó különös szabályok felszámolási eljárás, végelszámolás, kényszertörlési eljárás esetén]

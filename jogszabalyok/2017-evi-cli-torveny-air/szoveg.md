@@ -593,6 +593,8 @@ lehet előterjeszteni.
 
 (6) Ha az adóhatóság az igazolási kérelemnek helyt ad, az elmulasztott határnapot vagy határidőt megtartottnak tekinti, ezért ha szükséges, a döntését módosítja vagy visszavonja, illetve egyes eljárási cselekményeket megismétel.
 
+(7) Az igazolási kérelmet elutasító döntéssel szembeni fellebbezésre nyitva álló határidő elmulasztása esetén nincs helye igazolásnak.
+
 #### 23. Idézés
 
 #### 54. § [Idézés általános szabályai]
