@@ -49,25 +49,35 @@ Az Országgyűlés annak érdekében, hogy olyan szabályozás jöjjön létre, 
 
 ### II. Fejezet
 
-3–5. §
+#### 3. §
+
+#### 4. §
+
+#### 4/A. §
+
+#### 5. §
 
 ### III. Fejezet
 
-6. §
+#### 6. §
 
-7. §
+#### 7. §
 
-7/A. §
+#### 7/A. §
 
 ### IV. Fejezet — A forgalmazással, illetve a szolgáltatásnyújtással összefüggő különös követelmények
 
 8. § A közszolgáltatási tevékenységet folytató vállalkozás a számla Posta Elszámoló Központon keresztüli készpénzbefizetéssel történő kiegyenlítését, valamint – ha jogszabály eltérően nem rendelkezik – a számla nyomtatott példányának egyszeri kiadását külön díj fizetéséhez nem kötheti.
 
-9–11. §
+#### 9. §
 
-12. §
+#### 10. §
 
-13. §
+#### 11. §
+
+#### 12. §
+
+#### 13. §
 
 ### Az ár feltüntetése
 
@@ -157,10 +167,11 @@ törekszik a hulladékképződés megelőzésére.
 
 17/A. § (1) A vállalkozás köteles a fogyasztót tájékoztatni
 
-- a) a székhelyéről,
-- b) a panaszügyintézés helyéről, ha az nem egyezik meg a forgalmazás, illetve értékesítés helyével,
-- c) a panaszkezelésnek az adott tevékenység, kereskedelmi forma vagy módszer sajátosságaihoz igazodó módjáról, valamint
-- d) a panaszok közlése érdekében a vállalkozás vagy a vállalkozás 17/B. § szerinti ügyfélszolgálatának levelezési címéről és – ha a panaszokat ilyen módon is fogadja – elektronikus levelezési címéről, illetve internetes címéről, telefonszámáról.
+- a) a nevéről
+- b) a székhelyéről,
+- c) a panaszügyintézés helyéről, ha az nem egyezik meg a forgalmazás, illetve értékesítés helyével,
+- d) a panaszkezelésnek az adott tevékenység, kereskedelmi forma vagy módszer sajátosságaihoz igazodó módjáról, valamint
+- e) a panaszok közlése érdekében a vállalkozás vagy a vállalkozás 17/B. § szerinti ügyfélszolgálatának levelezési címéről és – ha a panaszokat ilyen módon is fogadja – elektronikus levelezési címéről, illetve internetes címéről, telefonszámáról.
 
 (1a) A tájékoztatásnak fogyasztói jogvita esetén ki kell terjednie a fogyasztó lakóhelye vagy tartózkodási helye szerint illetékes békéltető testületekhez való fordulás lehetőségére, valamint tartalmaznia kell a békéltető testület székhelyét, telefonos elérhetőségét, internetes elérhetőségét és levelezési címét. A békéltető testületekről történő tájékoztatási kötelezettséget világosan, érthetően és könnyen elérhető módon kell teljesíteni, internetes honlappal rendelkező vállalkozás esetén a honlapon, honlap hiányában az általános szerződési feltételekben, általános szerződési feltételek hiányában pedig külön formanyomtatványon. Üzlettel rendelkező vállalkozás esetén az e bekezdés és az (1) bekezdés szerinti tájékoztatást jól láthatóan és olvashatóan kell megadni.
 
@@ -183,11 +194,13 @@ törekszik a hulladékképződés megelőzésére.
 - f) a jegyzőkönyv felvételének helye, ideje,
 - g) telefonon vagy egyéb elektronikus hírközlési szolgáltatás felhasználásával közölt szóbeli panasz esetén a panasz egyedi azonosítószáma.
 
-(6) Az írásbeli panaszt a vállalkozás – ha az Európai Unió közvetlenül alkalmazandó jogi aktusa eltérően nem rendelkezik – a beérkezését követően harminc napon belül köteles írásban érdemben megválaszolni és intézkedni annak közlése iránt. Ennél rövidebb határidőt jogszabály, hosszabb határidőt törvény állapíthat meg. A panaszt elutasító álláspontját a vállalkozás indokolni köteles.
+(6) Az írásbeli panaszt a vállalkozás – ha az Európai Unió közvetlenül alkalmazandó jogi aktusa eltérően nem rendelkezik – a beérkezését követően harminc napon belül köteles írásban érdemben igazolható megválaszolni és intézkedni annak közlése iránt. Ennél rövidebb határidőt jogszabály, hosszabb határidőt törvény állapíthat meg. A panaszt elutasító álláspontját a vállalkozás indokolni köteles.
 
 (7) A vállalkozás a panaszról felvett jegyzőkönyvet és a válasz másolati példányát három évig köteles megőrizni, és azt az ellenőrző hatóságoknak kérésükre bemutatni.
 
-(8) A panasz elutasítása esetén a vállalkozás köteles a fogyasztót írásban tájékoztatni arról, hogy panaszával – annak jellege szerint – mely hatóság vagy békéltető testület eljárását kezdeményezheti. A tájékoztatásnak tartalmaznia kell továbbá az illetékes hatóság, illetve a fogyasztó lakóhelye vagy tartózkodási helye szerinti békéltető testület székhelyét, telefonos és internetes elérhetőségét, valamint levelezési címét. A tájékoztatásnak arra is ki kell terjednie, hogy a vállalkozás a fogyasztói jogvita rendezése érdekében igénybe veszi-e a békéltető testületi eljárást.
+(8) A panasz elutasítása esetén a vállalkozás köteles a fogyasztót írásban tájékoztatni arról, hogy panaszával – annak jellege szerint – mely hatóság vagy békéltető testület eljárását kezdeményezheti. A tájékoztatásnak tartalmaznia kell továbbá az illetékes hatóság, illetve a fogyasztó lakóhelye vagy tartózkodási helye szerinti békéltető testület székhelyét, telefonos és internetes elérhetőségét, valamint levelezési címét. A tájékoztatásnak arra is ki kell terjednie, hogy a vállalkozás tett-e a 36/C. § (1) bekezdése szerinti általános alávetési nyilatkozatot.
+
+(9) A korábbi, érdemben megválaszolt panasz tartalmával azonos tartalmú, ugyanazon fogyasztó által tett, ismételt, új információt nem tartalmazó panasz, valamint az azonosíthatatlan személy által tett fogyasztói panasz kivizsgálását a vállalkozás mellőzheti.
 
 17/B. § (1) A közszolgáltatási tevékenységet folytató vállalkozás, valamint a külön törvényben meghatározott egyéb vállalkozás a fogyasztói panaszok intézésére, a fogyasztók tájékoztatására köteles ügyfélszolgálat működtetéséről gondoskodni oly módon, hogy az – törvény eltérő rendelkezése hiányában – az ügyfelek részére nyitva álló helyiségben kerüljön kialakításra.
 
@@ -231,11 +244,14 @@ törekszik a hulladékképződés megelőzésére.
 - f) a panaszok benyújtásával és intézésével kapcsolatos információkat;
 - g) a feladatkörrel rendelkező fogyasztóvédelmi szervek, békéltető testületek és a fogyasztói érdekek képviseletét ellátó egyesületek elérhetőségét vagy a felügyeleti szerv honlapjának ezen információkat maradéktalanul tartalmazó közvetlen hivatkozását;
 - h) az ügyfélszolgálata elérhetőségére és működésére vonatkozó információkat;
-- i) az üzletszabályzatát, egyéb általános szerződési feltételeit.
+- i) az üzletszabályzatát és az egyéb általános szerződési feltételeit;
+- j) az üzletszabályzat, egyéb általános szerződési feltétel módosításáról szóló közérthető tájékoztatót.
 
 (10) A (9) bekezdés d) pontja szerinti alkalmazandó díj mértékét felhasználói kategóriánként és településenkénti bontásban kell hozzáférhetővé tenni.
 
 (11) A (9) bekezdés d) és e) pontja szerinti rendeleteket, továbbá i) pontja szerinti üzletszabályzatokat és általános szerződési feltételeket a szövegben való kereshetőség biztosításával, a hatályos időállapotok elhatárolásával kell hozzáférhetővé tenni 5 évre visszamenőleg.
+
+(12) A (9) bekezdés j) pontja szerinti, az üzletszabályzat és az általános szerződési feltétel módosításáról szóló közérthető tájékoztatót a vállalkozás az ügyfélszolgálatán is hozzáférhetővé teszi, továbbá – amennyiben a vállalkozás a fogyasztóval történő kapcsolattartás keretében azzal rendelkezik – a fogyasztó elektronikus levélcímére is megküldi.
 
 17/C. § A 17/A. § és a 17/B. § alkalmazásában az írásbeliség követelményének levél, távirat, távgépíró vagy telefax útján, továbbá bármely egyéb olyan eszközzel is eleget lehet tenni, amely a címzett számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását, és a tárolt adatok változatlan formában és tartalommal történő megjelenítését.
 
@@ -373,7 +389,7 @@ fogyasztóvédelmi hatóság a szervező nem megfelelő működését állapítj
 - a) a békéltető testületi tagságra benyújtott pályázat részeként,
 - b) megbízatásának tartama alatt a békéltető testület elnöke, a békéltető testület elnöke tekintetében a fogyasztóvédelemért felelős miniszter írásbeli felhívására a felhívástól számított tizenöt munkanapon belül, vagy ha ez e határidőn belül az érintetten kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul.
 
-(5) A 21. § (3) bekezdésében foglalt feltétel teljesülésének vizsgálata érdekében a békéltető testületi tagok kiválasztására irányuló pályázat során a tagnak jelölt személy életkorát hatósági igazolvánnyal igazolja.
+(5) A 21. § (4) bekezdésében foglalt feltétel teljesülésének vizsgálata érdekében a békéltető testületi tagok kiválasztására irányuló pályázat során a tagnak jelölt személy az életkorát hatósági igazolvánnyal igazolja.
 
 22/A. § (1) A békéltető testület elnöke a békéltető testület tagját, a fogyasztóvédelemért felelős miniszter a békéltető testület elnökét írásban, a mulasztás jogkövetkezményének ismertetésével felhívhatja annak igazolására, hogy az igazolásra felhívottal szemben nem áll fenn a 22. § (2) bekezdés b)–d) pontjában meghatározott kizáró ok.
 
@@ -731,7 +747,11 @@ foglalt személyes adatait.
 
 (9) Az e § szerinti pert a Pp. közérdekből indított perre vonatkozó rendelkezései alapján kell lefolytatni.
 
-38/A–38/C. §
+#### 38/A. §
+
+#### 38/B. §
+
+#### 38/C. §
 
 ### Közérdekű keresetindítás
 
@@ -752,18 +772,20 @@ foglalt személyes adatait.
 
 ### VII. Fejezet — A fogyasztóvédelem állami intézményrendszere
 
-39/A. §
+#### 39/A. §
 
 40. § A fogyasztóvédelemért felelős miniszter
 
 - a) fogyasztóvédelmi szakmapolitikai programot alkot,
 - b) intézkedéseket tesz, illetve kezdeményez a fogyasztói jogok védelme és érvényesítése érdekében.
 
-41–42. §
+#### 41. §
 
-42/A. §
+#### 42. §
 
-43. §
+#### 42/A. §
+
+#### 43. §
 
 ### Együttműködés az Európai Gazdasági Térség államainak fogyasztóvédelmi hatóságaival
 
@@ -821,7 +843,7 @@ foglalt személyes adatait.
 
 ### X. Fejezet — A fogyasztóvédelmi hatóság eljárása
 
-45/A. § (1) A fogyasztóvédelmi hatóság ellenőrzi – a szerződés létrejöttére, érvényességére, joghatásaira és megszűnésére vonatkozó rendelkezések kivételével –
+45/A. § (1) Törvény eltérő rendelkezése hiányában a fogyasztóvédelmi hatóság ellenőrzi – a szerződés létrejöttére, érvényességére, joghatásaira és megszűnésére vonatkozó rendelkezések kivételével –
 
 - a) a forgalmazással, szolgáltatásnyújtással,
 - b) a gyermek- és fiatalkorúak védelmével,
@@ -847,7 +869,7 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 45/B. § A fogyasztóvédelmi hatóság ellenőrzi a fogyasztói szerződés megkötésénél alkalmazott vagy e célból nyilvánosan megismerhetővé tett általános szerződési feltételeket abban a tekintetben, hogy azok nem tartalmaznak-e a jóhiszeműség és tisztesség követelményébe ütközően a szerződéses jogokat és kötelezettségeket egyoldalúan és indokolatlanul a fogyasztó hátrányára megállapító feltételt.
 
-46. § (1)
+46. § (1) A fogyasztóvédelmi hatóság eljárása megindításának feltétele, hogy a fogyasztó az érintett vállalkozással közvetlenül megkísérelje a vitás ügy rendezését.
 
 (2) A fogyasztóvédelmi hatóság eljárásában az általuk védett fogyasztói érdekek védelme körében az ügyfél jogai illetik meg
 
@@ -878,7 +900,7 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 
 - a) a kérelemmel érintett vállalkozás nevét, valamint ha a fogyasztó rendelkezésére áll, székhelyének címét,
 - b) a feltételezett jogsértéssel érintett üzlet címét vagy a kifogásolt magatartás elkövetésének helyét,
-- c) a beadvány tárgyának rövid leírását a rendelkezésre álló dokumentumokkal alátámasztva, ideértve különösen a vállalkozásnak a fogyasztó megkeresésére adott válaszlevelét, a szóbeli panaszról felvett jegyzőkönyvet, vagy postai úton benyújtott panasz esetében a feladás igazolását szolgáló dokumentumot.
+- c) a kérelem tárgyának rövid leírását a rendelkezésre álló dokumentumokkal alátámasztva, ideértve különösen a vállalkozásnak a fogyasztó megkeresésére adott válaszlevelét, a szóbeli panaszról felvett jegyzőkönyvet, postai vagy elektronikus úton benyújtott panasz esetében a feladás igazolását szolgáló dokumentumot.
 
 47. § (1) Ha a fogyasztóvédelmi hatóság eljárása során megállapítja a 45/A. § (1)–(3) bekezdésében meghatározott fogyasztóvédelmi rendelkezések megsértését, az eset lényeges körülményeinek – így különösen a jogsértés súlyának, a jogsértő állapot időtartamának, a jogsértő magatartás ismételt tanúsításának, illetve a jogsértéssel elért előny – figyelembevételével és az arányosság követelményének szem előtt tartásával az alábbi jogkövetkezményeket állapíthatja meg:
 
@@ -966,7 +988,7 @@ vonatkozó rendelkezések betartását, és eljár azok megsértése esetén.
 - e) kerüli a szükségtelen károkozást,
 - f) hatósági tanú közreműködését kéri.”
 
-47/B. §
+#### 47/B. §
 
 47/C. § (1) A bírság összege 15 ezer forinttól
 
@@ -1019,7 +1041,7 @@ terjedhet.
 
 (7) A fogyasztóvédelmi hatóság eljárása során kiszabott eljárási bírság adók módjára behajtandó köztartozás.
 
-48/A. §
+#### 48/A. §
 
 49. § (1) A fogyasztóvédelmi hatóság az ügydöntő határozatának meghozataláig terjedő időtartamra azonnal végrehajtható végzésében elrendelheti a 47. § (1) bekezdésének a), b), illetve g) pontjában foglaltakat, ha arra a (2) bekezdésben meghatározott feltételek fennállásának valószínűsíthetősége miatt halaszthatatlanul szükség van. E végzését a fogyasztóvédelmi hatóság soron kívül hozza meg.
 
@@ -1034,7 +1056,7 @@ terjedhet.
 
 (3)
 
-50. §
+#### 50. §
 
 51. § (1) A fogyasztóvédelmi hatóság határozatát – jogorvoslatra tekintet nélkül – közzéteszi, ha
 
@@ -1126,9 +1148,9 @@ törölni kell.
 
 (2) E törvény 18–37. §-ában foglalt rendelkezéseket 1999. január 1-jétől kell alkalmazni.
 
-53. §
+#### 53. §
 
-54. §
+#### 54. §
 
 ### Felhatalmazás
 
@@ -1179,7 +1201,7 @@ vonatkozó részletes szabályokat rendelettel meghatározza.
 - c) az Európai Parlament és a Tanács 2009/22/EK irányelve (2009. április 23.) a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról [a 38. § (6) és (8) bekezdése, a 39. § (2) és (3) bekezdése, a 46. § (2) bekezdés b) pontja, a 47. § (1) bekezdés a) és b) pontja, a 49. § (1) bekezdése, az 51. § (2)–(4) bekezdése, a fogyasztóvédelmi hatóság eljárásában];
 - d) az Európai Parlament és a Tanács 2013. május 21-i 2013/11/EU irányelve a fogyasztói jogviták alternatív rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói alternatív vitarendezési irányelv) [2. § j), k), o), p), s) pontja, 17/A. § (1) és (1a) bekezdése, 18. § (1), (6) és (7) bekezdése, 29. § (4), (5a), (5b), (8), (11) és (12) bekezdése, 36/A. § (1) és (2) bekezdése, 37/A. § (3)–(9) bekezdése, 45/A. § (1) bekezdés e) pontja, 47/C. § (5) bekezdés e) pontja];
 - e) a Bizottság 98/257/EK ajánlása (1998. március 30.) a fogyasztói jogviták bírósági eljáráson kívüli rendezésére hatáskörrel rendelkező testületekre vonatkozó elvekről (a 18–37/A. §).
-- f) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról[a 2. § i) pontja, a 16/B. § (1) és (3) bekezdése, a 17/D. § (4) bekezdése].
+- f) az Európai Parlament és a Tanács 2006/123/EK irányelve (2006. december 12.) a belső piaci szolgáltatásokról [a 2. § i) pontja, a 16/B. § (1) és (3) bekezdése, a 17/D. § (4) bekezdése].
 - g) a villamos energia belső piacára vonatkozó közös szabályokról és a 2012/27/EU irányelv módosításáról szóló, 2019. június 5-i (EU) 2019/944 európai parlamenti és tanácsi irányelv [a 37/B. § (1)–(2) bekezdése],
 - h) a 93/13/EGK tanácsi irányelvnek, valamint a 98/6/EK, a 2005/29/EK és a 2011/83/EU európai parlamenti és tanácsi irányelvnek az uniós fogyasztóvédelmi szabályok hatékonyabb végrehajtása és korszerűsítése tekintetében történő módosításáról szóló, 2019. november 27-i (EU) 2019/2161 európai parlamenti és tanácsi irányelv [47. § (5) bekezdése, 47/C. § (1b) bekezdése].
 - i) a digitális tartalom szolgáltatására és digitális szolgáltatások nyújtására irányuló szerződések egyes vonatkozásairól szóló, 2019. május 20-i (EU) 2019/770 európai parlamenti és tanácsi irányelv [18. §, 38. §, 39. §, 45. §, 45/A. §, 45/B. §];
