@@ -17,6 +17,7 @@ Annak érdekében, hogy az Európai Unió támogatásából finanszírozott proj
 - g) kiemelt nemzeti emlékhely fenntartásához, bemutatásához, fejlesztéséhez szorosan kapcsolódó, vagy
 - h) nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő műemlékek és műemlékegyüttesek, továbbá a világörökségi területen lévő műemlékek és műemlékegyüttesek fenntartásához, felújításához, fejlesztéséhez szorosan kapcsolódó,
 - i) az épített környezet alakításáról és védelméről szóló törvény szerinti rozsdaövezeti akcióterületen megvalósítandó, valamint a rozsdaövezeti akcióterület fejlesztésének előkészítését szolgáló vagy azt elősegítő,
+- j) szénhidrogén-kutatáshoz és -termeléshez kapcsolódó
 
 nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósítására, valamint az azokkal összefüggő, a Kormány által rendeletben meghatározott közigazgatási hatósági ügyekben (a továbbiakban: kiemelt jelentőségű ügy) indult eljárásokra és e törvény szerinti egyéb eljárásokra terjed ki.
 
@@ -295,7 +296,7 @@ az ingatlanügyi hatóság, illetve az erdészeti hatóság a közlekedési infr
 
 (2) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások kapcsán kiváltásra vagy kiépítésre kerülő közművek elhelyezése érdekében az elhelyezéssel érintett ingatlanra közérdekből, az építtető vagy a közműszolgáltató javára – hatóság határozatával – szolgalmat vagy más használati jogot lehet alapítani. A használati jog alapításáért a korlátozás mértékének megfelelő kártalanítás jár.
 
-6/O. § (1) Kerékpárút, gyalog- és kerékpárút, gyalogút, járda, valamint kerékpárforgalmi létesítmények és tartozékainak (a továbbiakban együttesen: kerékpárút) építése során közmű kiváltására, fejlesztésére (a továbbiakban: közmű kiváltása) vonatkozó szabályokat az alábbi eltérésekkel kell alkalmazni.
+6/O. § (1) Kerékpárút, gyalog- és kerékpárút, gyalogút, járda, valamint kerékpárforgalmi létesítmények és tartozékainak (a továbbiakban együttesen: kerékpárút) építése során közmű – a földgázszállító-vezeték kivételével – kiváltására, fejlesztésére (a továbbiakban: közmű kiváltása) vonatkozó szabályokat az alábbi eltérésekkel kell alkalmazni.
 
 (2) A kerékpárút nyomvonalában a közműveket nem kell kiváltani, ha a közművek
 
@@ -311,7 +312,7 @@ az ingatlanügyi hatóság, illetve az erdészeti hatóság a közlekedési infr
 
 (6) A hatóság 15 napon belül dönt a (4) vagy (5) bekezdésben foglalt megkeresés esetén.
 
-6/P. § (1) Ha a kerékpárút építése során közmű kiváltása válik szükségessé, a közmű kiváltását – beleértve a tervezést és az engedélyek megszerzését is – a közműszolgáltató az építtető erre vonatkozó írásbeli értesítését követően a nem engedélyköteles kiváltás esetén 90 napon belül, az engedélyköteles kiváltás esetében 150 napon belül, vagy a hatóság erre irányuló döntésében meghatározott határidőn belül saját költségére köteles elvégezni.
+6/P. § (1) Ha a kerékpárút építése során közmű – a földgázszállító-vezeték kivételével – kiváltása válik szükségessé, a közmű kiváltását – beleértve a tervezést és az engedélyek megszerzését is – a közműszolgáltató az építtető erre vonatkozó írásbeli értesítését követően a nem engedélyköteles kiváltás esetén 90 napon belül, az engedélyköteles kiváltás esetében 150 napon belül, vagy a hatóság erre irányuló döntésében meghatározott határidőn belül saját költségére köteles elvégezni.
 
 (2) Nem engedélyköteles útépítések esetén, ha nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-fejlesztés megvalósítása során közmű kiváltása válik szükségessé, a közmű kiváltását – beleértve a tervezést és az engedélyek megszerzését is – a közműszolgáltató az építtető erre vonatkozó írásbeli értesítését követően a nem engedélyköteles kiváltás esetén 90 napon belül, az engedélyköteles kiváltás esetében 150 napon belül, vagy a hatóság erre irányuló döntésében meghatározott határidőn belül saját költségére köteles elvégezni.
 
@@ -388,7 +389,7 @@ az ingatlanügyi hatóság, illetve az erdészeti hatóság a közlekedési infr
 
 11. § (1) Törvény vagy kormányrendelet kiemelten közérdekű beruházássá nyilváníthat közfeladat ellátásával összefüggő, kiemelten fontos közérdekű cél, így különösen
 
-- a) energetikai, közlekedésfejlesztési, környezetvédelmi, vízügyi és vízvédelmi, katasztrófavédelmi, honvédelmi, nemzetbiztonsági, közigazgatási, illetve
+- a) energetikai, energiahordozók kitermeléséhez kapcsolódó bányászati, közlekedésfejlesztési, környezetvédelmi, vízügyi és vízvédelmi, katasztrófavédelmi, honvédelmi, nemzetbiztonsági, közigazgatási, illetve
 - b) oktatási, egészségügyi, kutatás-fejlesztési, kulturális, szociális, örökségvédelmi, sport, városfejlesztési
 
 cél megvalósítására irányuló beruházást.

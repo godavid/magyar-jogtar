@@ -102,7 +102,9 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 - a) amely vezető tisztségviselője, vezető beosztású munkavállalója, illetve egyéni vállalkozás esetén az egyéni vállalkozó büntetlen előéletű, nem áll a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt,
 - b) amelynek nincs az adózás rendjéről szóló törvény szerinti köztartozása.
 
-### A kereskedelmi tevékenységek folytatásának egyéb feltételei
+### A kereskedelmi tevékenységek folytatásának
+
+egyéb feltételei
 
 5. § (1) A kereskedőnek rendelkeznie kell a forgalmazott termék – saját előállítású termék esetén a termékhez felhasznált nem saját előállítású termék – eredetét hitelt érdemlően igazoló bizonylattal. A kereskedő az ellenőrzést végző hatóság felhívására köteles az eredeti bizonylatokat, dokumentumokat öt napon belül bemutatni.
 
@@ -346,7 +348,7 @@ kell érteni.
 
 9. § (1) A kereskedelmi tevékenységre, a kereskedelmet kiszolgáló szolgáltató tevékenységekre, valamint a kereskedelmi jellegű turisztikai szolgáltatási tevékenységekre vonatkozó jogszabályi és hatósági előírások megtartását a kereskedelmi hatóság ellenőrzi, és – a (2) és a (3) bekezdésben foglalt kivétellel, továbbá törvény vagy kormányrendelet eltérő rendelkezése hiányában – eljár ezek megsértése esetén.
 
-(2) A fogyasztóvédelmi hatóság jár el – a fogyasztóvédelemről szóló törvény szabályai szerint – az 5. § (2) és (4) bekezdésében, az 5/C.–5/E. §-ban, valamint a 6. § (2) bekezdés b) pontjában foglalt rendelkezések megsértése esetén. E rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
+(2) A fogyasztóvédelmi hatóság jár el – a fogyasztóvédelemről szóló törvény szabályai szerint – az 5. § (2) és (4) bekezdésében, az 5/C.–5/F. §-ban, valamint a 6. § (2) bekezdés b) pontjában foglalt rendelkezések megsértése esetén. E rendelkezések a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezések.
 
 (3) A 7. § megsértése miatt a Gazdasági Versenyhivatal jár el versenyfelügyeleti eljárásban, a Tpvt. 21. §-ának megsértése esetén irányadó rendelkezések szerint.
 
@@ -374,7 +376,7 @@ kell érteni.
 
 (5) A kereskedelmi hatóságnak a (4) bekezdés a) pont aa), ac) és ad) alpontja, valamint b) és c) pontja alapján hozott határozata ellen nincs helye fellebbezésnek.
 
-9/A. §
+#### 9/A. §
 
 ### Záró rendelkezések
 

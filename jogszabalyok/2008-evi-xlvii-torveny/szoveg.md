@@ -6,7 +6,7 @@ Az Országgyűlés a fogyasztók érdekeinek védelme, a tisztességes piaci mag
 
 ### Általános rendelkezések
 
-1. § (1) Ez a törvény állapítja meg az áruhoz kapcsolódó, a kereskedelmi ügylet lebonyolítását megelőzően, annak során és azt követően a fogyasztóval szemben alkalmazott kereskedelmi gyakorlatokra, valamint az ilyen kereskedelmi gyakorlat tekintetében alkalmazott magatartási kódexekre vonatkozó követelményeket, és az azok megsértésével szembeni eljárás szabályait.
+1. § (1) Ez a törvény állapítja meg a termékhez kapcsolódó, a kereskedelmi ügylet lebonyolítását megelőzően, annak során és azt követően a fogyasztóval szemben alkalmazott kereskedelmi gyakorlatokra, valamint az ilyen kereskedelmi gyakorlat tekintetében alkalmazott magatartási kódexekre vonatkozó követelményeket, és az azok megsértésével szembeni eljárás szabályait.
 
 (2) E törvény hatálya arra a kereskedelmi gyakorlatra terjed ki, amely Magyarország területén valósul meg, továbbá arra is, amely Magyarország területén bárkit fogyasztóként érint.
 
@@ -20,25 +20,25 @@ Az Országgyűlés a fogyasztók érdekeinek védelme, a tisztességes piaci mag
 
 - a) pénzügyi és kiegészítő pénzügyi szolgáltatás, biztosítási, biztosításközvetítői és biztosítási szaktanácsadói szolgáltatás, befektetési szolgáltatási tevékenység és befektetési szolgáltatási tevékenységet kiegészítő szolgáltatás, árutőzsdei szolgáltatás, önkéntes kölcsönös biztosító pénztárak által nyújtott szolgáltatás, valamint a magán-nyugdíjpénztári szolgáltatás tekintetében,
 - b) ingatlanokra vonatkozóan,
-- c) az áru egészségügyi vonatkozásaival vagy biztonságosságával összefüggő követelmények érvényesítése céljából,
+- c) a termék egészségügyi vonatkozásaival vagy biztonságosságával összefüggő követelmények érvényesítése céljából,
 - d) a környezet védelmével összefüggő követelmények érvényesítése céljából, vagy
 - e) a külföldi bizonyítványok és oklevelek elismeréséről szóló törvényben meghatározott szabályozott szakma gyakorlásának feltételeire vonatkozóan az adott hivatás alapvető szakmai szabályainak – különösen a szakma függetlenségének, méltóságának, tiszteletének, a szakmai titoktartás védelmére, valamint a fogyasztókkal és a szakmát gyakorló más személyekkel szemben tanúsított magatartás tisztességességének biztosítására vonatkozó szabályok – érvényesülése érdekében.
 
 (5) A (4) bekezdésben nem említett tevékenységekre vonatkozó jogszabály e törvény rendelkezéseitől részletesebb, illetve szigorúbb követelményeket is megállapíthat a kereskedelmi gyakorlatokra, amennyiben
 
 - a) ez kötelező európai uniós jogi aktus végrehajtásához szükséges, vagy
-- b) azt valamely, egyes árukra vagy azok meghatározott csoportjára vonatkozó kötelező európai uniós jogi aktus kifejezetten megengedi.
+- b) azt valamely, egyes termékre vagy azok meghatározott csoportjára vonatkozó kötelező európai uniós jogi aktus kifejezetten megengedi.
 
 2. § E törvény alkalmazásában:
 
 - a) fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy,
 - b) vállalkozás: aki a kereskedelmi gyakorlat tekintetében önálló foglalkozásával vagy gazdasági tevékenységével összefüggő célok érdekében jár el,
 - c) termék: áru vagy szolgáltatás, ideértve az ingatlantulajdont, a digitális szolgáltatást és digitális tartalmat, valamint a jogokat és kötelezettségeket is,
-- d) kereskedelmi gyakorlat: a vállalkozásnak, illetve a vállalkozás érdekében vagy javára eljáró személynek az áru fogyasztók részére történő értékesítésével, szolgáltatásával vagy eladásösztönzésével közvetlen kapcsolatban álló magatartása, tevékenysége, mulasztása, reklámja, marketingtevékenysége vagy egyéb kereskedelmi kommunikációja,
+- d) kereskedelmi gyakorlat: a vállalkozásnak, illetve a vállalkozás érdekében vagy javára eljáró személynek a termék fogyasztók részére történő értékesítésével, szolgáltatásával vagy eladásösztönzésével közvetlen kapcsolatban álló magatartása, tevékenysége, mulasztása, reklámja, marketingtevékenysége vagy egyéb kereskedelmi kommunikációja,
 - e) kereskedelmi kommunikáció: a vállalkozás önálló foglalkozásával vagy gazdasági tevékenységével közvetlenül összefüggésben történő információközlés, függetlenül annak megjelenési módjától, eszközétől,
 - f) reklám: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben ekként meghatározott fogalom,
-- g) vásárlásra felhívás: kereskedelmi kommunikációban az áru jellemzőinek és árának, illetve díjának feltüntetése az alkalmazott kommunikációs eszköznek megfelelően olyan módon, hogy ezáltal lehetővé válik a fogyasztó számára az áru megvétele, illetve igénybevétele,
-- h) ügyleti döntés: a fogyasztó arra vonatkozó döntése, hogy kössön-e, illetve hogyan és milyen feltételek mellett kössön szerződést, továbbá hogy gyakorolja-e valamely jogát az áruval kapcsolatban,
+- g) vásárlásra felhívás: kereskedelmi kommunikációban a termék jellemzőinek és árának, illetve díjának feltüntetése az alkalmazott kommunikációs eszköznek megfelelően olyan módon, hogy ezáltal lehetővé válik a fogyasztó számára a termék megvétele, illetve igénybevétele,
+- h) ügyleti döntés: a fogyasztó arra vonatkozó döntése, hogy kössön-e, illetve hogyan és milyen feltételek mellett kössön szerződést, továbbá hogy gyakorolja-e valamely jogát a termékkel kapcsolatban,
 - i) magatartási kódex: olyan – piaci önszabályozás keretében létrehozott – megállapodás vagy szabályegyüttes, amely valamely kereskedelmi gyakorlat vagy tevékenységi ágazat vonatkozásában követendő magatartási szabályokat határoz meg azon vállalkozások számára, amelyek a kódexet magukra nézve kötelezőnek ismerik el (a továbbiakban: magatartási kódexnek való alávetés).
 - j) rangsorolás: a termékek relatív kiemelése a kereskedők által bemutatott, megszervezett vagy közölt módon, tekintet nélkül az ilyen bemutatáshoz, szervezéshez vagy közléshez használt technológiai eszközökre,
 - k) online piac: olyan szolgáltatás, amely a kereskedő által vagy a kereskedő nevében működtetett szoftvert, többek között weboldalt, valamely weboldal egy részét vagy valamely alkalmazást alkalmaz, és amelynek révén a fogyasztók távollevők közötti szerződést köthetnek más kereskedőkkel vagy fogyasztókkal.
@@ -50,7 +50,7 @@ Az Országgyűlés a fogyasztók érdekeinek védelme, a tisztességes piaci mag
 (2) Tisztességtelen az a kereskedelmi gyakorlat,
 
 - a) amelynek alkalmazása során a kereskedelmi gyakorlat megvalósítója nem az ésszerűen elvárható szintű szakismerettel, illetve nem a jóhiszeműség és tisztesség alapelvének megfelelően elvárható gondossággal jár el (a továbbiakban: szakmai gondosság követelménye), és
-- b) amely érzékelhetően rontja azon fogyasztó lehetőségét az áruval kapcsolatos, a szükséges információk birtokában meghozott tájékozott döntésre, akivel kapcsolatban alkalmazzák, illetve akihez eljut, vagy aki a címzettje, és ezáltal a fogyasztót olyan ügyleti döntés meghozatalára készteti, amelyet egyébként nem hozott volna meg (a továbbiakban: a fogyasztói magatartás torzítása), vagy erre alkalmas.
+- b) amely érzékelhetően rontja azon fogyasztó lehetőségét a termékkel kapcsolatos, a szükséges információk birtokában meghozott tájékozott döntésre, akivel kapcsolatban alkalmazzák, illetve akihez eljut, vagy aki a címzettje, és ezáltal a fogyasztót olyan ügyleti döntés meghozatalára készteti, amelyet egyébként nem hozott volna meg (a továbbiakban: a fogyasztói magatartás torzítása), vagy erre alkalmas.
 
 (3) A (2) bekezdés értelmében tisztességtelen különösen az a kereskedelmi gyakorlat, amely megtévesztő (6. § és 7. §) vagy agresszív (8. §).
 
@@ -58,9 +58,9 @@ Az Országgyűlés a fogyasztók érdekeinek védelme, a tisztességes piaci mag
 
 (5) A fogyasztókkal szembeni kereskedelmi gyakorlatra vonatkozóan az 1. § (4) vagy (5) bekezdése szerint külön jogszabályban előírt, az e törvényben foglaltaknál szigorúbb követelményeket megsértő kereskedelmi gyakorlat tisztességtelen.
 
-4. § (1) A kereskedelmi gyakorlat megítélése során az olyan fogyasztó magatartását kell alapul venni, aki ésszerűen tájékozottan, az adott helyzetben általában elvárható figyelmességgel és körültekintéssel jár el, figyelembe véve az adott kereskedelmi gyakorlat, illetve áru nyelvi, kulturális és szociális vonatkozásait is. Ha a kereskedelmi gyakorlat a fogyasztók egy meghatározott csoportjára irányul, az adott csoport tagjaira általánosan jellemző magatartást kell figyelembe venni.
+4. § (1) A kereskedelmi gyakorlat megítélése során az olyan fogyasztó magatartását kell alapul venni, aki észszerűen tájékozottan, az adott helyzetben általában elvárható figyelmességgel és körültekintéssel jár el, figyelembe véve az adott kereskedelmi gyakorlat, illetve termék nyelvi, kulturális és szociális – különösen családi kapcsolatokkal összefüggő – vonatkozásait is. Ha a kereskedelmi gyakorlat a fogyasztók egy meghatározott csoportjára irányul, az adott csoport tagjaira általánosan jellemző magatartást kell figyelembe venni.
 
-(2) Ha a kereskedelmi gyakorlat csak a fogyasztóknak egy, az adott gyakorlat vagy az annak alapjául szolgáló áru vonatkozásában koruk, hiszékenységük, szellemi vagy fizikai fogyatkozásuk miatt különösen kiszolgáltatott, egyértelműen azonosítható csoportja magatartásának torzítására alkalmas, és ez a kereskedelmi gyakorlat megvalósítója által ésszerűen előre látható, a gyakorlatot az érintett csoport tagjaira általánosan jellemző magatartás szempontjából kell értékelni.
+(2) Ha a kereskedelmi gyakorlat csak a fogyasztóknak egy, az adott gyakorlat vagy az annak alapjául szolgáló termék vonatkozásában koruk, hiszékenységük, szellemi vagy fizikai fogyatkozásuk miatt különösen kiszolgáltatott, egyértelműen azonosítható csoportja magatartásának torzítására alkalmas, és ez a kereskedelmi gyakorlat megvalósítója által észszerűen előre látható, a gyakorlatot az érintett csoport tagjaira általánosan jellemző magatartás szempontjából kell értékelni. Ha a kereskedelmi kommunikáció a családi kapcsolatot, a családi közösséget hangsúlyosan megjeleníti, e bekezdés alkalmazása szempontjából egyértelműen azonosítható csoportnak tekinthető az ilyen kereskedelmi kommunikációval megszólított családtagok köre.
 
 (3) Nem tekinthető a magatartás torzítására alkalmasnak a reklámban túlzó vagy nem szó szerint értendő kijelentések bevett, a reklám természetéből adódó mértéket meg nem haladó alkalmazása.
 
@@ -68,8 +68,8 @@ Az Országgyűlés a fogyasztók érdekeinek védelme, a tisztességes piaci mag
 
 6. § (1) Megtévesztő az a kereskedelmi gyakorlat, amely valótlan információt tartalmaz, vagy valós tényt – figyelemmel megjelenésének valamennyi körülményére – olyan módon jelenít meg, hogy megtéveszti vagy alkalmas arra, hogy megtévessze a fogyasztót az alábbiak közül egy vagy több tényező tekintetében, és ezáltal a fogyasztót olyan ügyleti döntés meghozatalára készteti, amelyet egyébként nem hozott volna meg, vagy erre alkalmas:
 
-- a) az áru létezése, természete, figyelembe véve a termék megnevezésére vonatkozó jogszabályi előírásokat is,
-- b) az áru lényeges jellemzői, így különösen
+- a) a termék létezése, természete, figyelembe véve a termék megnevezésére vonatkozó jogszabályi előírásokat is,
+- b) a termék lényeges jellemzői, így különösen
   - ba) kivitelezése, összetétele, műszaki jellemzői, tartozékai,
   - bb) mennyisége,
   - bc) származási helye, eredete,
@@ -81,17 +81,17 @@ Az Országgyűlés a fogyasztók érdekeinek védelme, a tisztességes piaci mag
   - bi) környezeti hatásai,
   - bj) az egészségre gyakorolt hatása, vagy
   - bk) tesztelése, ellenőrzöttsége vagy annak eredménye,
-- c) az áru ára, illetve díja, az ár, illetve díj megállapításának módja, különleges árkedvezmény vagy árelőny megléte,
-- d) az áru igénybevételéhez kapcsolódó adómentesség, adókedvezmény vagy más adóelőny,
-- e) az áruhoz kapcsolódóan valamely szolgáltatás, alkatrész, csere vagy javítás szükségessége,
-- f) az áruhoz kapcsolódóan biztosított ügyfélszolgálat és panaszkezelés,
+- c) a termék ára, illetve díja, az ár, illetve díj megállapításának módja, különleges árkedvezmény vagy árelőny megléte,
+- d) a termék igénybevételéhez kapcsolódó adómentesség, adókedvezmény vagy más adóelőny,
+- e) a termékhez kapcsolódóan valamely szolgáltatás, alkatrész, csere vagy javítás szükségessége,
+- f) a termékhez kapcsolódóan biztosított ügyfélszolgálat és panaszkezelés,
 - g) a vállalkozás vagy képviselőjének személye, jellemzői és jogai, így különösen az ilyen minősége, a jogállása, társulásokban való részvétele és kapcsolatai, vagyona, szellemi alkotásokon fennálló jogai és kereskedelmi tulajdonjoga, engedélye, képesítései, díjai és kitüntetései,
-- h) a vállalkozás kötelezettségvállalásának mértéke, a kereskedelmi gyakorlat indítékai, az értékesítési folyamat természete, a szponzorálásra, a vállalkozás vagy az áru jóváhagyására vonatkozó bármely állítás vagy jelzés, vagy
+- h) a vállalkozás kötelezettségvállalásának mértéke, a kereskedelmi gyakorlat indítékai, az értékesítési folyamat természete, a szponzorálásra, a vállalkozás vagy a termék jóváhagyására vonatkozó bármely állítás vagy jelzés, vagy
 - i) a fogyasztó jogai, illetve a fogyasztót az ügylet folytán esetlegesen terhelő hátrányos jogkövetkezmények kockázata.
 
 (2) Megtévesztő kereskedelmi gyakorlat továbbá
 
-- a) az a kereskedelmi gyakorlat, amely más vállalkozással, illetve annak cégnevével, árujával, árujelzőjével vagy egyéb megjelölésével való összetévesztésre vezethet,
+- a) az a kereskedelmi gyakorlat, amely más vállalkozással, illetve annak cégnevével, termékével, árujelzőjével vagy egyéb megjelölésével való összetévesztésre vezethet,
 - b) az olyan magatartási kódexben foglalt követelmény be nem tartása, amelynek a vállalkozás alávetette magát, amennyiben a vállalkozás
   - ba) a követelmény betartására nem csupán szándéknyilatkozat formájában, hanem igazolható módon kötelezettséget vállalt, és
   - bb) a kereskedelmi gyakorlat keretében utal a kódexnek való alávetettségére,
@@ -120,9 +120,9 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 
 (5) Vásárlásra felhívás esetén jelentős információ:
 
-- a) az áru lényeges jellemzői, az alkalmazott kommunikációs eszköznek megfelelő mértékben,
+- a) a termék lényeges jellemzői, az alkalmazott kommunikációs eszköznek megfelelő mértékben,
 - b) a vállalkozás neve és címe azonosításra alkalmas módon, illetve annak a vállalkozásnak az azonosításra alkalmas neve és címe, amelynek a javára a kereskedelmi gyakorlat megvalósítója eljár,
-- c) az általános forgalmi adót és egyéb kötelező terheket is magában foglaló ár, illetve díj vagy – amennyiben az áru jellegéből adódóan az árat, illetve díjat nem lehet ésszerűen előre megállapítani – az ár, illetve díj megállapításának módja, valamint az összes járulékos költség, így különösen fuvardíj, szállítási vagy postaköltség, illetve amennyiben e költségeket nem lehet ésszerűen előre megállapítani, annak feltüntetése, hogy ilyen további költségek merülhetnek fel,
+- c) az általános forgalmi adót és egyéb kötelező terheket is magában foglaló ár, illetve díj vagy – amennyiben a termék jellegéből adódóan az árat, illetve díjat nem lehet ésszerűen előre megállapítani – az ár, illetve díj megállapításának módja, valamint az összes járulékos költség, így különösen fuvardíj, szállítási vagy postaköltség, illetve amennyiben e költségeket nem lehet ésszerűen előre megállapítani, annak feltüntetése, hogy ilyen további költségek merülhetnek fel,
 - d) a fizetés, a szállítás és a teljesítés feltételei, ha azok eltérnek a szakmai gondosság által támasztott követelményektől,
 - e) olyan szerződések esetében, amelyek tekintetében jogszabály elállási jogot biztosít a fogyasztónak, az erre való utalás.
 - f) az online piacokon kínált termékek esetében az, hogy a terméket kínáló harmadik fél kereskedő-e vagy sem, a harmadik fél által az online piac szolgáltatója számára adott nyilatkozat alapján.
@@ -133,19 +133,19 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 
 (8) Ha a vállalkozás hozzáférést biztosít a termékek fogyasztói értékeléseihez, az arra vonatkozó információt, hogy a vállalkozás biztosítja-e és hogyan, hogy a közzétett értékelések olyan fogyasztóktól származnak, akik a terméket ténylegesen használták vagy megvásárolták, jelentősnek kell tekinteni.
 
-8. § (1) Agresszív az a kereskedelmi gyakorlat, amely – figyelembe véve valamennyi tényszerű körülményt – pszichés vagy fizikai nyomásgyakorlással – akár a fogyasztóval szembeni hatalmi helyzet kihasználása, akár a fogyasztó zavarása révén – az adott helyzetben jelentősen korlátozza vagy alkalmas arra, hogy jelentősen korlátozza a fogyasztónak az áruval kapcsolatos választási vagy magatartási szabadságát, illetve lehetőségét a tájékozott döntés meghozatalára, és ezáltal a fogyasztót olyan ügyleti döntés meghozatalára készteti, amelyet egyébként nem hozott volna meg, vagy erre alkalmas.
+8. § (1) Agresszív az a kereskedelmi gyakorlat, amely – figyelembe véve valamennyi tényszerű körülményt – pszichés vagy fizikai nyomásgyakorlással – akár a fogyasztóval szembeni hatalmi helyzet kihasználása, akár a fogyasztó zavarása révén – az adott helyzetben jelentősen korlátozza vagy alkalmas arra, hogy jelentősen korlátozza a fogyasztónak a termékkel kapcsolatos választási vagy magatartási szabadságát, illetve lehetőségét a tájékozott döntés meghozatalára, és ezáltal a fogyasztót olyan ügyleti döntés meghozatalára készteti, amelyet egyébként nem hozott volna meg, vagy erre alkalmas.
 
 (2) Annak megállapítására, hogy egy kereskedelmi gyakorlat agresszív-e, figyelembe kell venni a következőket:
 
 - a) a kereskedelmi gyakorlat időzítése, helye, jellege és alkalmazásának időtartama,
 - b) a kereskedelmi gyakorlat során alkalmazott szóhasználat vagy magatartás fenyegető, félelemkeltő vagy becsmérlő volta,
-- c) súlyos, a fogyasztó ítélőképességének korlátozására alkalmas, a kereskedelmi gyakorlat megvalósítója által ismert körülmény felhasználása a fogyasztó áruval kapcsolatos döntésének befolyásolására,
-- d) a fogyasztó szerződéses jogainak – ideértve a szerződéstől való elállásra, valamint a másik árura vagy vállalkozáshoz való áttérésre vonatkozó jogot is – gyakorlásával szemben támasztott, indokolatlanul terhes vagy aránytalan, nem szerződéses akadály,
+- c) súlyos, a fogyasztó ítélőképességének korlátozására alkalmas, a kereskedelmi gyakorlat megvalósítója által ismert körülmény felhasználása a fogyasztó termékkel kapcsolatos döntésének befolyásolására,
+- d) a fogyasztó szerződéses jogainak – ideértve a szerződéstől való elállásra, valamint a másik termékre vagy vállalkozáshoz való áttérésre vonatkozó jogot is – gyakorlásával szemben támasztott, indokolatlanul terhes vagy aránytalan, nem szerződéses akadály,
 - e) jogellenes cselekménnyel való fenyegetés.
 
 ### Felelősség a tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt
 
-9. § (1) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértéséért felel az a vállalkozás, amelynek a kereskedelmi gyakorlattal érintett áru értékesítése, eladásának ösztönzése közvetlenül érdekében áll.
+9. § (1) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértéséért felel az a vállalkozás, amelynek a kereskedelmi gyakorlattal érintett termék értékesítése, eladásának ösztönzése közvetlenül érdekében áll.
 
 (2) Az (1) bekezdés szerinti vállalkozás felel akkor is, ha a kereskedelmi gyakorlatot szerződés alapján más személy valósítja meg a vállalkozás érdekében vagy javára.
 
@@ -172,7 +172,7 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 
 11. § (1) A 10. § alkalmazásában a gazdasági verseny érdemi érintettségének megállapításánál – a jogsértéssel érintett piac sajátosságainak figyelembevételével – a következő szempontok irányadóak:
 
-- a) az alkalmazott kereskedelmi gyakorlat kiterjedtsége, figyelemmel különösen a kommunikáció eszközének jellegére, a jogsértéssel érintett földrajzi terület nagyságára, a jogsértéssel érintett üzletek számára, a jogsértés időtartamára vagy a jogsértéssel érintett áru mennyiségére, vagy
+- a) az alkalmazott kereskedelmi gyakorlat kiterjedtsége, figyelemmel különösen a kommunikáció eszközének jellegére, a jogsértéssel érintett földrajzi terület nagyságára, a jogsértéssel érintett üzletek számára, a jogsértés időtartamára vagy a jogsértéssel érintett termék mennyiségére, vagy
 - b) a jogsértésért felelős vállalkozás mérete a nettó árbevétel nagysága alapján.
 
 (2) A gazdasági verseny érdemi érintettsége minden egyéb körülményre tekintet nélkül fennáll, ha
@@ -180,7 +180,7 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 - a) a kereskedelmi gyakorlat országos médiaszolgáltatást végző médiaszolgáltatón keresztül valósul meg
 - b) a kereskedelmi gyakorlat országos terjesztésű időszakos lap vagy legalább három megyében terjesztett napilap útján valósul meg,
 - c) a fogyasztók közvetlen megkeresésének módszerével végzett kereskedelmi gyakorlat legalább három megye fogyasztói felé irányul, vagy
-- d) az áru eladásának helyén alkalmazott eladásösztönző kereskedelmi gyakorlat legalább három megyében megszervezésre kerül.
+- d) a termék eladásának helyén alkalmazott eladásösztönző kereskedelmi gyakorlat legalább három megyében megszervezésre kerül.
 
 12. § (1) A 10. §-ban megjelölt hatóságok a tisztességtelen kereskedelmi gyakorlat tilalmának megsértésével kapcsolatos feladataik hatékony ellátása érdekében együttműködnek egymással. Az együttműködés különösen a hatóságok jogalkalmazási gyakorlatának kölcsönös megismerését, az anyagi és eljárásjogi szabályok egységes alkalmazását, a hatásköri összeütközések elkerülését, az esetleges hatásköri viták hatékony rendezésének megkönnyítését szolgálja.
 
@@ -230,7 +230,7 @@ rendelkezéseit kell alkalmazni.
 
 ### A Felügyelet eljárására vonatkozó különös rendelkezések
 
-22. §
+#### 22. §
 
 23. § (1) Ha a Felügyelet bármely ellenőrzése során észlelt tisztességtelen kereskedelmi gyakorlat ügyében vagy a tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt a Felügyelethez benyújtott kérelem alapján az eljárás a Gazdasági Versenyhivatal hatáskörébe tartozik, a Felügyelet a kérelmet, illetve az ügyben keletkezett iratokat – az ügyfél egyidejű értesítése mellett – haladéktalanul, de legkésőbb a jogsértő gyakorlat észlelésétől, illetve a kérelem megérkezését követő naptól számított harminc napon belül átteszi a Gazdasági Versenyhivatalhoz.
 
@@ -256,7 +256,7 @@ rendelkezéseit kell alkalmazni.
 
 (2) A próbaügyletkötéshez a Gazdasági Versenyhivatal közreműködő személyt vehet igénybe. A közreműködő személy részére megbízólevelet állít ki, amely tartalmazza a közreműködő személy nevét, továbbá azt, hogy mely vállalkozásnál milyen típusú ellenőrzésben vehet részt. A közreműködő személyre az ügyintézőre vonatkozó kizárási szabályokat, továbbá a hatósági tanú titoktartási kötelezettségére vonatkozó szabályokat kell alkalmazni.
 
-(3) A próbaügylet-kötési jogosultság igazolásakor az érintett vállalkozás – az áru visszaszolgáltatása esetén – köteles minden, a próbaügyletkötés keretében átvett összeget visszatéríteni. Ha az áru jellegénél fogva nem visszaszolgáltatható, ellenértéke eljárási költségnek minősül.
+(3) A próbaügylet-kötési jogosultság igazolásakor az érintett vállalkozás – a termék visszaszolgáltatása esetén – köteles minden, a próbaügyletkötés keretében átvett összeget visszatéríteni. Ha a termék jellegénél fogva nem visszaszolgáltatható, ellenértéke eljárási költségnek minősül.
 
 (4) A próbaügyletkötésre egyebekben a szemlére vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
@@ -272,13 +272,43 @@ rendelkezéseit kell alkalmazni.
 
 (3) Az igazságügyért felelős miniszter az általa vezetett minisztérium honlapján tájékoztató jelleggel közli a 2005/29/EK európai parlamenti és tanácsi irányelvet átültető jogszabályi rendelkezések felsorolását.
 
-29–30. §
+#### 29. §
 
-31. §
+#### 30. §
 
-32. §
+#### 31. §
 
-33–47. §
+#### 32. §
+
+#### 33. §
+
+#### 34. §
+
+#### 35. §
+
+#### 36. §
+
+#### 37. §
+
+#### 38. §
+
+#### 39. §
+
+#### 40. §
+
+#### 41. §
+
+#### 42. §
+
+#### 43. §
+
+#### 44. §
+
+#### 45. §
+
+#### 46. §
+
+#### 47. §
 
 48. § (1)–(7)
 
@@ -296,9 +326,9 @@ rendelkezéseit kell alkalmazni.
 
 (14)
 
-50. §
+#### 50. §
 
-51. §
+#### 51. §
 
 ### Záró rendelkezések
 
@@ -418,7 +448,7 @@ az e rendelkezések hatálybalépését követően indított eljárásokban kell
 - b) az egyes törvényeknek a naptári napban való határidő-számítással összefüggésben történő módosításáról szóló 2010. évi CLII. törvénnyel megállapított rendelkezéseit az e rendelkezések,
 - c) a Pénzügyi Szervezetek Állami Felügyeletéről szóló 2010. évi CLVIII. törvénnyel megállapított rendelkezéseit az e rendelkezések hatálybalépése után indult és megismételt eljárásokban kell alkalmazni.
 
-55. §
+#### 55. §
 
 56. § (1) Ez a törvény a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott tisztességtelen kereskedelmi gyakorlatairól, valamint a 84/450/EGK tanácsi irányelv, a 97/7/EK, a 98/27/EK és a 2002/65/EK európai parlamenti és tanácsi irányelvek, valamint a 2006/2004/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2005. május 11-i 2005/29/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
@@ -438,36 +468,36 @@ a végrehajtásához szükséges rendelkezéseket állapít meg a fogyasztóvéd
 - 1. Annak valótlan állítása, hogy a vállalkozás magatartási kódex aláírója.
 - 2. Annak valótlan állítása, hogy a magatartási kódexet valamely közigazgatási hatóság, közigazgatási jogkör gyakorlására feljogosított szerv vagy egyéb szervezet jóváhagyta.
 - 3. Minőségi jelzés, bizalmi jegy vagy hasonló megkülönböztető jelölés jogosulatlan feltüntetése.
-- 4. Annak valótlan állítása, hogy a vállalkozást, annak kereskedelmi gyakorlatát vagy áruját valamely közigazgatási hatóság, közigazgatási jogkör gyakorlására feljogosított szerv vagy erre feljogosított magánjogi jogi személy engedélyezte, jóváhagyta vagy elismerte, vagy ilyen állítás az engedélyezési, jóváhagyási, illetve elismerési feltételeknek való megfelelés nélkül.
-- 5. Áru meghatározott áron való vásárlására felhívás annak elhallgatásával, hogy a vállalkozásnak alapos oka van azt feltételezni, hogy az adott vagy azt helyettesítő árut a kínált áron nem fogja tudni – az árura, a vonatkozó kereskedelmi kommunikáció hatókörére és az ajánlati árra figyelemmel – megfelelő időtartamig és mennyiségben szolgáltatni vagy más vállalkozástól beszerezni (csalogató reklám).
-- 6. Áru meghatározott áron való vásárlására felhívás, majd
-  - a) a felhívásban szereplő áru fogyasztóknak való bemutatásának visszautasítása,
-  - b) az árura vonatkozó megrendelés felvételének vagy az áru ésszerű időben való szolgáltatásának visszautasítása, vagy
-  - c) hibás példány bemutatása egy másik áru eladásösztönzésének a szándékával (bait-and-switch reklám).
-- 7. A fogyasztó azonnali döntéshozatalra késztetése céljából annak valótlan állítása, hogy az áru csak nagyon korlátozott ideig áll rendelkezésre, vagy bizonyos feltételek mellett csak nagyon korlátozott ideig áll rendelkezésre, és ezáltal a fogyasztó megfosztása a tájékozott döntéshez szükséges időtől és alkalomtól.
+- 4. Annak valótlan állítása, hogy a vállalkozást, annak kereskedelmi gyakorlatát vagy termékét valamely közigazgatási hatóság, közigazgatási jogkör gyakorlására feljogosított szerv vagy erre feljogosított magánjogi jogi személy engedélyezte, jóváhagyta vagy elismerte, vagy ilyen állítás az engedélyezési, jóváhagyási, illetve elismerési feltételeknek való megfelelés nélkül.
+- 5. Termék meghatározott áron való vásárlására felhívás annak elhallgatásával, hogy a vállalkozásnak alapos oka van azt feltételezni, hogy az adott vagy azt helyettesítő terméket a kínált áron nem fogja tudni – az árura, a vonatkozó kereskedelmi kommunikáció hatókörére és az ajánlati árra figyelemmel – megfelelő időtartamig és mennyiségben szolgáltatni vagy más vállalkozástól beszerezni (csalogató reklám).
+- 6. Termék meghatározott áron való vásárlására felhívás, majd
+  - a) a felhívásban szereplő termék fogyasztóknak való bemutatásának visszautasítása,
+  - b) a termékre vonatkozó megrendelés felvételének vagy a termék ésszerű időben való szolgáltatásának visszautasítása, vagy
+  - c) hibás példány bemutatása egy másik termék eladásösztönzésének a szándékával (bait-and-switch reklám).
+- 7. A fogyasztó azonnali döntéshozatalra késztetése céljából annak valótlan állítása, hogy a termék csak nagyon korlátozott ideig áll rendelkezésre, vagy bizonyos feltételek mellett csak nagyon korlátozott ideig áll rendelkezésre, és ezáltal a fogyasztó megfosztása a tájékozott döntéshez szükséges időtől és alkalomtól.
 - 8. Az értékesítést követően teljesítendő szolgáltatás vállalása úgy, hogy a szerződés megkötése előtt a vállalkozás nem a letelepedésének helye szerinti tagállam hivatalos nyelvén tart kapcsolatot a fogyasztóval, majd – anélkül, hogy a szerződéskötés előtt erre a fogyasztó figyelmét egyértelműen felhívta volna – a szolgáltatásnak kizárólag egy ettől eltérő nyelven való elérhetővé tétele.
-- 9. Annak valótlan állítása vagy olyan hamis benyomás keltése – akár önmagában az árunak a kereskedelmi gyakorlatban való megjelenítése által –, hogy az áru jogszerűen forgalmazható.
+- 9. Annak valótlan állítása vagy olyan hamis benyomás keltése – akár önmagában a terméknek a kereskedelmi gyakorlatban való megjelenítése által –, hogy a termék jogszerűen forgalmazható.
 - 10. A fogyasztók törvényes jogainak olyanként való bemutatása, mintha azok a vállalkozás ajánlatának sajátosságai lennének.
-- 11. Az írott vagy elektronikus médiában szerkesztői tartalom használata az áru értékesítésének vagy más módon történő igénybevételének előmozdítására úgy, hogy ezért a vállalkozás ellenszolgáltatást nyújtott, ez azonban nem tűnik ki egyértelműen a tartalomból vagy a fogyasztó számára egyértelműen felismerhető képi vagy akusztikus elemekből (szerkesztői tartalomnak álcázott reklám).
-- 12. Valótlan tény állítása a fogyasztó vagy családja személyes biztonsága fenyegetettségének természetére és mértékére vonatkozóan, arra az esetre, ha a fogyasztó nem vásárolja meg az árut.
-- 13. Meghatározott vállalkozás által előállított áruhoz hasonló áru reklámozása olyan szándékosan megtévesztő módon, hogy a fogyasztó azt gondolhatja, hogy az árut – a valóságtól eltérően – ugyanaz a vállalkozás állította elő.
-- 14. Piramis-elvre épülő olyan eladásösztönző rendszer létrehozása, működtetése vagy támogatása, ahol a fogyasztó azzal a lehetőséggel számol, hogy – elsősorban további fogyasztóknak a rendszerbe való beléptetéséből, és kevésbé az áruk értékesítéséből vagy fogyasztásából eredően – valamilyen juttatásban részesülhet.
+- 11. Az írott vagy elektronikus médiában szerkesztői tartalom használata a termék értékesítésének vagy más módon történő igénybevételének előmozdítására úgy, hogy ezért a vállalkozás ellenszolgáltatást nyújtott, ez azonban nem tűnik ki egyértelműen a tartalomból vagy a fogyasztó számára egyértelműen felismerhető képi vagy akusztikus elemekből (szerkesztői tartalomnak álcázott reklám).
+- 12. Valótlan tény állítása a fogyasztó vagy családja személyes biztonsága fenyegetettségének természetére és mértékére vonatkozóan, arra az esetre, ha a fogyasztó nem vásárolja meg a terméket.
+- 13. Meghatározott vállalkozás által előállított termékhez hasonló termék reklámozása olyan szándékosan megtévesztő módon, hogy a fogyasztó azt gondolhatja, hogy a terméket – a valóságtól eltérően – ugyanaz a vállalkozás állította elő.
+- 14. Piramis-elvre épülő olyan eladásösztönző rendszer létrehozása, működtetése vagy támogatása, ahol a fogyasztó azzal a lehetőséggel számol, hogy – elsősorban további fogyasztóknak a rendszerbe való beléptetéséből, és kevésbé a termékek értékesítéséből vagy fogyasztásából eredően – valamilyen juttatásban részesülhet.
 - 15. Annak valótlan állítása, hogy a vállalkozás felhagy a tevékenységével vagy áthelyezi az üzletét.
-- 16. Annak állítása, hogy az áru megkönnyíti a szerencsejátékokban való nyerést.
-- 17. Annak valótlan állítása, hogy az áru alkalmas betegségek, illetve az emberi szervezet működési zavarai vagy rendellenességei gyógyítására.
-- 18. Téves tényszerű információ közlése a piaci feltételekről vagy az áru fellelhetőségének lehetőségeiről azzal a szándékkal, hogy a fogyasztót az árunak a szokásos piaci feltételeknél kedvezőtlenebb feltételek melletti megvételére, illetve igénybevételére bírja rá.
+- 16. Annak állítása, hogy a termék megkönnyíti a szerencsejátékokban való nyerést.
+- 17. Annak valótlan állítása, hogy a termék alkalmas betegségek, illetve az emberi szervezet működési zavarai vagy rendellenességei gyógyítására.
+- 18. Téves tényszerű információ közlése a piaci feltételekről vagy a termék fellelhetőségének lehetőségeiről azzal a szándékkal, hogy a fogyasztót a terméknek a szokásos piaci feltételeknél kedvezőtlenebb feltételek melletti megvételére, illetve igénybevételére bírja rá.
 - 19. A kereskedelmi gyakorlat keretében verseny vagy díj meghirdetése anélkül, hogy a meghirdetett díjak vagy azok helyett más ésszerű megfelelő kiosztásra kerülne.
-- 20. Az áru „ingyenes”, „díjtalan”, „térítésmentes” vagy hasonló jelzőkkel való leírása, ha a fogyasztónak a kereskedelmi gyakorlatban való részvétellel és az áru birtokbavételével, illetve fuvarozásával összefüggő elkerülhetetlen költségeken felül bármit is fizetnie kell.
+- 20. A termék „ingyenes”, „díjtalan”, „térítésmentes” vagy hasonló jelzőkkel való leírása, ha a fogyasztónak a kereskedelmi gyakorlatban való részvétellel és a termék birtokbavételével, illetve fuvarozásával összefüggő elkerülhetetlen költségeken felül bármit is fizetnie kell.
 - 21. A reklámanyagban számla vagy más hasonló, fizetési felszólítást tartalmazó dokumentum küldése azt a hamis benyomást keltve a fogyasztóban, hogy már megrendelte a reklámozott árut.
 - 22. Annak valótlan állítása vagy olyan hamis benyomás keltése, hogy a vállalkozás nem a saját vállalkozásával, gazdasági tevékenységével vagy szakmájával összefüggő célból jár el, vagy egyébként hamisan fogyasztóként való fellépés.
-- 23. Olyan hamis benyomás keltése, hogy az áruval kapcsolatban az értékesítést követően teljesítendő szolgáltatás biztosított az értékesítés helyétől eltérő tagállamban.
+- 23. Olyan hamis benyomás keltése, hogy a termékkel kapcsolatban az értékesítést követően teljesítendő szolgáltatás biztosított az értékesítés helyétől eltérő tagállamban.
 - 24. Olyan benyomás keltése a fogyasztóban, hogy nem hagyhatja el az üzlethelyiséget, amíg nem köt szerződést.
 - 25. A fogyasztó személyes felkeresése a lakóhelyén, figyelmen kívül hagyva annak távozásra és vissza nem térésre felszólító kérését.
 - 26. Telefonon, távmásolón (telefaxon), elektronikus levelezés, illetve azzal egyenértékű egyéni kommunikációs eszköz vagy más távközlő eszköz útján ismétlődően és nem kívánt módon a fogyasztó sürgetése, kivéve amennyiben ez a vállalkozás szerződéses kötelezettsége teljesítéséhez szükséges.
 - 27. Biztosítási szerződésen alapuló követelést érvényesíteni kívánó fogyasztótól olyan iratok bemutatásának megkövetelése, amelyek a követelés megalapozottságának megítélése szempontjából ésszerűen nem tekinthetők lényegesnek, vagy a fogyasztó vonatkozó írásbeli megkeresésére a válaszadás rendszeres elmulasztása azzal a céllal, hogy ez visszatartsa a fogyasztót szerződéses jogainak gyakorlásától.
-- 28. Reklámban gyermekkorúak közvetlen felszólítása a reklámozott áru megvételére, illetve igénybevételére vagy arra, hogy győzzék meg szüleiket vagy más felnőttet, hogy vásárolja meg számukra a reklámozott árut.
-- 29. Azonnali vagy halasztott fizetés követelése a vállalkozás által szállított vagy nyújtott áruért, illetve az áru visszaszolgáltatásának vagy megőrzésének követelése, ha azt a fogyasztó nem rendelte meg (nem kért értékesítés), kivéve, ha a szerződésnek megfelelő helyettesítő áruról van szó.
-- 30. A fogyasztó kifejezetten arról való tájékoztatása, hogy ha nem vásárolja meg az adott árut, veszélybe kerül a vállalkozás vagy alkalmazottja munkája vagy megélhetése.
+- 28. Reklámban gyermekkorúak közvetlen felszólítása a reklámozott termék megvételére, illetve igénybevételére vagy arra, hogy győzzék meg szüleiket vagy más felnőttet, hogy vásárolja meg számukra a reklámozott terméket.
+- 29. Azonnali vagy halasztott fizetés követelése a vállalkozás által szállított vagy nyújtott termékért, illetve a termék visszaszolgáltatásának vagy megőrzésének követelése, ha azt a fogyasztó nem rendelte meg (nem kért értékesítés), kivéve, ha a szerződésnek megfelelő helyettesítő áruról van szó.
+- 30. A fogyasztó kifejezetten arról való tájékoztatása, hogy ha nem vásárolja meg az adott terméket, veszélybe kerül a vállalkozás vagy alkalmazottja munkája vagy megélhetése.
 - 31. Olyan hamis benyomás keltése, hogy a fogyasztó már megnyert, meg fog nyerni, vagy meghatározott cselekmény megtétele révén fog megnyerni egy nyereményt (díjat, jutalmat vagy azzal egyenértékű egyéb előnyt), miközben valójában nincs ilyen nyeremény, vagy a nyeremény érvényesítése, illetve igénybevétele a fogyasztó számára meghatározott pénzösszeg megfizetéséhez vagy költségek viseléséhez kötött.
 - 32. A keresési eredmények megadása a fogyasztó online keresési lekérdezése alapján, anélkül, hogy egyértelműen felfednék a fizetett hirdetéseket vagy a kifejezetten a termékeknek a keresési eredmények közötti magasabb rangsorolását célzó fizetést.
 - 33. Rendezvényekre szóló jegyek viszonteladása fogyasztók részére, ha a kereskedő azokat automatizált eszközökkel vásárolta meg, hogy megkerülje az egy személy által megvásárolható jegyek számára vonatkozó korlátozásokat vagy a jegyvásárlásra alkalmazandó bármely más szabályt.

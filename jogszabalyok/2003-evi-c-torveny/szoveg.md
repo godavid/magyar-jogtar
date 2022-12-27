@@ -50,7 +50,7 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 - p) a magyar elektronikus hírközlési piacok integrációja az Európai Unió egységesülő elektronikus hírközlési piacaiba, különös tekintettel a transzeurópai hálózatok – ideértve a transzeurópai közlekedési hálózatot – létrehozására és fejlesztésére a hálózati összekapcsoltság előmozdítása és a rendkívül nagy kapacitású hálózatokhoz való hozzáférés és e hálózatok használatának elősegítése, továbbá az összeurópai szolgáltatások együttműködési képességének, valamint a végponttól végpontig történő kapcsolatépítések ösztönzésére a rádióspektrum elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások általi használatának harmonizációja a fogyasztói előnyök – így különösen a verseny, a méretgazdaságosság, valamint a hálózatok és szolgáltatások együttműködése – megvalósításának érdekében;
 - q) az elektronikus hírközlés állami feladatai ellátásával kapcsolatos alapvető szabályok meghatározása, különös tekintettel az elektronikus hírközlés biztonságára, veszélyeztetettségére, a különleges jogrend idejére irányuló felkészítés rendjére.
 
-3. §
+#### 3. §
 
 ## MÁSODIK RÉSZ — AZ ELEKTRONIKUS HÍRKÖZLÉSSEL KAPCSOLATOS ÁLLAMI FELADATOK
 
@@ -99,17 +99,17 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 
 (3)
 
-6. §
+#### 6. §
 
-7. §
+#### 7. §
 
-8. §
+#### 8. §
 
 ### III. Fejezet — A NEMZETI MÉDIA- ÉS HÍRKÖZLÉSI HATÓSÁG FELADATAI ÉS FELÉPÍTÉSE
 
 ### A Nemzeti Média- és Hírközlési Hatóság
 
-9. §
+#### 9. §
 
 10. § (1) A Hatóság
 
@@ -233,19 +233,21 @@ Az Országgyűlés az információs társadalom elektronikus hírközlési infra
 
 14. § A Hatóság szervezetéről, az Elnökről, Elnökhelyettesről és a Hivatalról a médiaszolgáltatásokról és tömegkommunikációról szóló törvény rendelkezik.
 
-14/A. §
+#### 14/A. §
 
-15–16. §
+#### 15. §
 
-17. §
+#### 16. §
 
-17/A. §
+#### 17. §
 
-18. §
+#### 17/A. §
 
-18/A. §
+#### 18. §
 
-19. §
+#### 18/A. §
+
+#### 19. §
 
 ### Együttműködés a Gazdasági Versenyhivatallal
 
@@ -264,7 +266,7 @@ kapcsolatos eljárásokban.
 
 (4) A Hatóság és a versenyhatóság az együttműködésük részleteit rögzítik, évente felülvizsgálják, és a nyilvánosság számára hozzáférhetővé teszik, ideértve az együttműködés eredményeként létrehozott módszertanokat is.
 
-21. §
+#### 21. §
 
 ### Együttműködés a Nemzeti Adatvédelmi és Információszabadság Hatósággal
 
@@ -461,7 +463,7 @@ alapelveit.
 
 (9) Életveszéllyel vagy súlyos kárral fenyegető helyzetben, azonnali eljárási cselekmény elvégzése és a közbiztonság, a közrend védelme érdekében, valamint abban az esetben, ha más szolgáltatók vagy a felhasználók gazdálkodását vagy működését súlyosan és közvetlenül fenyegető veszély elhárítása érdekében szükséges, a Hatóság a helyszíni szemlét a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is jogosult megtartani.
 
-36. §
+#### 36. §
 
 ### Ideiglenes biztosítási intézkedés
 
@@ -675,7 +677,9 @@ véglegessé vált vagy azonnal végrehajthatóvá nyilvánított határozatát.
 
 (8) A bíróság a (7) bekezdés szerinti keresetlevelet, a keresetlevél bírósághoz történő – Hivatal általi – megküldésétől számított hatvan napon belül bírálja el és a határozatát a kihirdetés napjáig írásba foglalja. A bíróság döntésével szemben fellebbezésnek van helye, a fellebbezési kérelem benyújtására rendelkezésre álló határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. Perújításnak nincs helye.
 
-45–46. §
+#### 45. §
+
+#### 46. §
 
 ### Adatszolgáltatás
 
@@ -900,6 +904,8 @@ véglegessé vált vagy azonnal végrehajthatóvá nyilvánított határozatát.
 ### Általános hatósági felügyelet
 
 53. § (1) A Hatóság kérelemre vagy hivatalból – feladat- és hatáskörének keretében – jogosult hatósági ellenőrzés vagy hatósági eljárás keretében felügyelni az elektronikus hírközlésre vonatkozó szabály érvényesülését, betartását, valamint az általános szerződési feltételekben foglaltak teljesítését.
+
+(1a) Az elektronikus hírközlési szolgáltató által működtetett ügyfélszolgálattal, valamint az előfizetői panasz intézésével kapcsolatos ügyekben a Hatóság hatásköre kiterjed a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 17/A. §-ában, 17/B. § (1), (3)–(3b) bekezdésében, valamint 17/C. §-ában foglalt kötelezettségek betartásának felügyeletére is. A Hatóság e bekezdés alapján indított eljárásában az Fgytv. hivatkozott rendelkezései elektronikus hírközlésre vonatkozó szabálynak minősülnek.
 
 (2) Amennyiben a Hatóság, hatósági döntésének ellenőrzése eredményeként megállapítja a hatósági döntés megsértését, az ügy összes körülményei, az ellenőrzés során feltárt tények, valamint a jogsértés súlya és a hatékony jogérvényesítés szempontjai alapján mérlegeli, hogy a hatósági döntés megsértése tárgyában az Ákr. szerinti végrehajtási eljárást vagy az e törvény szerinti jogkövetkezmények alkalmazása érdekében hatósági eljárást indít.
 
@@ -1389,21 +1395,25 @@ vonatkozó határozatának tervezetét közzéteszi.
 
 ### VII. Fejezet
 
-72. §
+#### 72. §
 
-73. §
+#### 73. §
 
 ### VII/A. Fejezet — A Nemzeti Hírközlési és Informatikai Tanács
 
-73/A–73/B. §
+#### 73/A. §
 
-73/C. §
+#### 73/B. §
+
+#### 73/C. §
 
 ## HARMADIK RÉSZ — AZ ELEKTRONIKUS HÍRKÖZLÉSI SZOLGÁLTATÁSOKRA, ILLETŐLEG TEVÉKENYSÉGEKRE VONATKOZÓ SZABÁLYOK
 
 ### VIII. Fejezet — AZ ELEKTRONIKUS HÍRKÖZLÉSI TEVÉKENYSÉG MEGKEZDÉSÉNEK FELTÉTELEI
 
-### Jogosultság elektronikus hírközlési szolgáltatásnyújtására
+### Jogosultság elektronikus hírközlési szolgáltatás
+
+nyújtására
 
 74. § (1) Magyarország területén elektronikus hírközlő hálózatot üzemeltetni, valamint elektronikus hírközlő hálózaton szolgáltatást nyújtani bármely természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet az e törvényben, illetve külön jogszabályban meghatározott feltételek teljesítése esetén jogosult.
 
@@ -1471,7 +1481,9 @@ vonatkozó határozatának tervezetét közzéteszi.
 
 (4) A bejelentési és nyilvántartási eljárással összefüggő, a rádiófrekvenciák és azonosítók használatára vonatkozó egyedi engedélyek megadásával kapcsolatos, a szolgáltatókat általában terhelő, valamint az egyedi kötelezettségek ellenőrzésére irányuló hatósági eljárások díját az elektronikus hírközlési tevékenységet végzők külön jogszabályban meghatározott feltételek mellett kötelesek megfizetni.
 
-### Az elektronikus hírközlési szolgáltatás nyújtásának megszüntetése, illetve az elektronikus hírközlésiszolgáltató megszűnése
+### Az elektronikus hírközlési szolgáltatás nyújtásának megszüntetése, illetve az elektronikus hírközlési
+
+szolgáltató megszűnése
 
 78. § Az elektronikus hírközlési szolgáltatás nyújtásának megszüntetése, illetve az elektronikus hírközlési szolgáltató megszűnése vagy halála esetében a Hatóság az elektronikus hírközlési szolgáltatót törli az elektronikus hírközlő hálózatokról és szolgáltatásokról vezetett nyilvántartásából, a számára kiadott azonosító használatára vonatkozó engedélyeket visszavonja, valamint a törlés tényét közzéteszi.
 
@@ -1648,7 +1660,9 @@ nem kell alkalmazni.
 
 ### Az elektronikus hírközlési szolgáltató beszámolási kötelezettsége
 
-87/A. § (1) A számviteli törvény hatálya alá nem tartozó vagy éves beszámoló készítésére jogszabály alapján nem köteles elektronikus hírközlési szolgáltató – a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló2004. évi XXXIV. törvény alapján mikro-, kis- vagy középvállalkozásnak minősülő szolgáltató kivételével – a számviteli törvényben meghatározott egyszerűsített éves beszámolót köteles készíteni.
+87/A. § (1) A számviteli törvény hatálya alá nem tartozó vagy éves beszámoló készítésére jogszabály alapján nem köteles elektronikus hírközlési szolgáltató – a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló
+
+2004. évi XXXIV. törvény alapján mikro-, kis- vagy középvállalkozásnak minősülő szolgáltató kivételével – a számviteli törvényben meghatározott egyszerűsített éves beszámolót köteles készíteni.
 
 (2) Az (1) bekezdésben meghatározott kötelezettség alapján elkészített beszámoló könyvvizsgálatát a számviteli törvényben meghatározottak szerint kell elvégezni.
 
@@ -1870,7 +1884,9 @@ mentességeket határozhat meg az e §-ban foglalt rendelkezések vagy azok egy 
 
 nem kell alkalmazni.
 
-### X. Fejezet — AZ ELEKTRONIKUS HÍRKÖZLÉSI SZOLGÁLTATÁSOK EGYES FELTÉTELEINEK BIZTOSÍTÁSA HARMADIK SZEMÉLYEKRÉSZÉRŐL
+### X. Fejezet — AZ ELEKTRONIKUS HÍRKÖZLÉSI SZOLGÁLTATÁSOK EGYES FELTÉTELEINEK BIZTOSÍTÁSA HARMADIK SZEMÉLYEK
+
+RÉSZÉRŐL
 
 ### Ingatlanhasználat, közös építményhasználat
 
@@ -2066,7 +2082,11 @@ A megállapodás létesítésére vonatkozó ajánlatnak tartalmaznia kell
 
 98/A. § A szélessávú hálózatfejlesztési beruházás lehetséges nyomvonalai kiválasztásának elősegítése, a hiánytalan engedélyezési, bejelentési dokumentáció előkészítése érdekében az elektronikus hírközlési szolgáltató, illetve a tervező a hatósági eljárás megindítását megelőzően egyeztetést kezdeményezhet a Hatóságnál, valamint az érintett szakhatóságoknál, hatóságoknál, amelyek kötelesek az egyeztetésen részt venni.
 
-### Az ingatlan tulajdonosánakaz elektronikus hírközlés védelmével összefüggőközérdekű kötelezettsége
+### Az ingatlan tulajdonosának
+
+az elektronikus hírközlés védelmével összefüggő
+
+közérdekű kötelezettsége
 
 99. § (1) Az ingatlan tulajdonosa, birtokosa köteles az elektronikus hírközlés működésének érdekében az ezt veszélyeztető fákat, bokrokat, ágakat, gyökereket eltávolítani. Az eltávolítással kapcsolatos költségek az érintett elektronikus hírközlési szolgáltatót terhelik.
 
@@ -2398,9 +2418,9 @@ köteles biztosítani.
 
 (3) Ha a Hatóság a jelentős piaci erővel rendelkező szolgáltató számára az (1) bekezdés szerinti határozatában a díjakkal kapcsolatos kötelezettséget ír elő, határozatában ezen kötelezettség teljesítésének ellenőrzéséhez szükséges költségelszámolási kimutatás vezetését is előírhatja, amelynek keretében meghatározhatja többek között az alkalmazandó elveket, formát és módszereket, illetve a kimutatások tartalmát. Amennyiben a Hatóság költségelszámolási kimutatás vezetését írja elő a szolgáltató részére, akkor a szolgáltató köteles gondoskodni arról, hogy az ennek való megfelelést független és erre alkalmas szervezettel minden évben megvizsgáltassa és a vizsgálat eredményét a Hatóság részére megküldje. A vizsgálat eredményét a Hatóság közzéteszi.
 
-110. §
+#### 110. §
 
-111. §
+#### 111. §
 
 ### XIV. Fejezet — A JELENTŐS PIACI ERŐVEL RENDELKEZŐ SZOLGÁLTATÓKRA VONATKOZÓ EGYÉB SZABÁLYOK
 
@@ -2410,15 +2430,21 @@ köteles biztosítani.
 
 (2) A szolgáltató szintén köteles tájékoztatni a Hatóságot az (1) bekezdésben foglalt ügylet meg nem valósulásáról, valamint a szétválás folyamatának végeredményéről.
 
-113–115. §
+#### 113. §
 
-116. §
+#### 114. §
+
+#### 115. §
+
+#### 116. §
 
 ## ÖTÖDIK RÉSZ — A FELHASZNÁLÓK MEGFELELŐ ELLÁTÁSÁNAK BIZTOSÍTÁSA ÉS EGYÉB KÖZÉRDEKŰ CÉLOK MEGVALÓSÍTÁSA AZ ELEKTRONIKUS HÍRKÖZLÉSBEN
 
 ### XV. Fejezet — AZ EGYETEMES ELEKTRONIKUS HÍRKÖZLÉSI SZOLGÁLTATÁS
 
-### Az egyetemes elektronikus hírközlésiszolgáltatás tartalma
+### Az egyetemes elektronikus hírközlési
+
+szolgáltatás tartalma
 
 117. § Az egyetemes elektronikus hírközlési szolgáltatás (a továbbiakban e § alkalmazásában: egyetemes szolgáltatás) körébe tartozik a helyhez kötött hozzáférésen keresztül megfelelő, Magyarország egész területén megfizethető áron minden fogyasztó részére rendelkezésre álló szélessávú internet-hozzáférési szolgáltatás, illetve hangszolgáltatás – ideértve e szolgáltatások alapját képező csatlakozást is – nyújtása, a fogyasztó erre irányuló észszerű igénye alapján.
 
@@ -2440,27 +2466,27 @@ köteles biztosítani.
 
 (6) Az egyetemes szolgáltató az Elnök rendeletében meghatározott esetekben és módon gondoskodik arról, hogy a fogyatékossággal élő fogyasztók részére a kapcsolódó végberendezések, továbbá az akadálymentes hozzáférést elősegítő berendezések és szolgáltatások elérhetők és megfizethetők legyenek.
 
-118. §
+#### 118. §
 
-119. §
+#### 119. §
 
-120. §
+#### 120. §
 
-121. §
+#### 121. §
 
-122. §
+#### 122. §
 
-123. §
+#### 123. §
 
-124. §
+#### 124. §
 
-125. §
+#### 125. §
 
 ### XVI. Fejezet — AZ ELŐFIZETŐK ÉRDEKEIVEL ÉS JOGAIVAL KAPCSOLATOS RENDELKEZÉSEK
 
 ### Hírközlési és Média Biztos
 
-126. §
+#### 126. §
 
 ### Különleges hírközlési szolgáltatások
 
@@ -2572,9 +2598,9 @@ adatainak egyeztetésére köteles.
 
 (9)
 
-130. §
+#### 130. §
 
-131. §
+#### 131. §
 
 ### Az előfizetői szerződés módosítása
 
@@ -2610,7 +2636,7 @@ adatainak egyeztetésére köteles.
 
 (14) Az adatváltozás-kezelési szolgáltatáshoz csatlakozott szolgáltató az előfizetőnek a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény (a továbbiakban: Khtv.) 20/T. § (2) bekezdés szerinti adatai változásáról szóló bejelentés esetén a (10) bekezdés szerint jár el.
 
-133. §
+#### 133. §
 
 ### Az előfizetői szerződés megszűnése
 
@@ -2771,7 +2797,7 @@ adatainak egyeztetésére köteles.
 
 (7) Ha az előfizető a szolgáltató által követelt díj összegszerűségét vitatja, a szolgáltatónak kell bizonyítania, hogy a hálózata az illetéktelen hozzáféréstől védett és számlázási rendszere zárt, a díj számlázása, továbbá megállapítása helyes volt. Ellenkező bizonyításig nem terheli számlázási rendszere zártságának vonatkozásában külön bizonyítási kötelezettség a szolgáltatót, ha számlázási rendszere zártságát a miniszter által kijelölt tanúsító szervezet tanúsítja.
 
-(8) Az előfizetői panasz intézésére és az ügyfélszolgálatra irányadó eljárást egyebekben a szolgáltató általános szerződési feltételei határozzák meg a fogyasztóvédelemről szóló 1997. évi CLV. törvény 17/A. §-ában, 17/B. § (1) és (3)–(3b) bekezdésében, valamint 17/C. §-ában foglaltakkal összhangban.
+(8) Az előfizetői panasz intézésére és az ügyfélszolgálatra irányadó eljárást egyebekben – az Fgytv. 17/A. §-ában, 17/B. § (1) és (3)–(3b) bekezdésében, valamint 17/C. §-ában foglaltakkal összhangban – a szolgáltató általános szerződési feltételei határozzák meg.
 
 (9) Az előfizető kérésére a szolgáltatónak az adatkezelési szabályok figyelembevételével biztosítania kell, hogy az előfizető a kezelt adatok törléséig díjmentesen megismerhesse a fizetendő díj számításához szükséges forgalmazási és számlázási adatokra vonatkozó kimutatást.
 
@@ -3056,15 +3082,19 @@ kiállított számla érvénytelen.
 
 (10) Az átvevő szolgáltató köteles az előfizető hozzájárulásának megfelelően a hordozott számnak az előfizetői nyilvántartásban, valamint a tudakozóban való közzétételéről gondoskodni.
 
-150/A. §
+#### 150/A. §
 
 ### XVII. Fejezet — ADATKEZELÉSI SZABÁLYOK
 
 ### Adatszolgáltatás
 
-151–152. §
+#### 151. §
 
-### Adatszolgáltatás az Európai Bizottság és a tagállami elektronikus hírközlési szabályozó hatóságok,valamint az elektronikus hírközlés nemzetközi szervezetei számára
+#### 152. §
+
+### Adatszolgáltatás az Európai Bizottság és a tagállami elektronikus hírközlési szabályozó hatóságok,
+
+valamint az elektronikus hírközlés nemzetközi szervezetei számára
 
 153. § (1) A miniszter és a Hatóság az Európai Bizottságtól érkezett, e törvény hatálya alá tartozó adatszolgáltatási célú megkereséseknek köteles eleget tenni, amennyiben az adatszolgáltatás a Bizottság uniós jog szerinti feladatai elvégzéséhez szükséges. Az adatszolgáltatásról a miniszter vagy a Hatóság tájékoztatja az érintettet, ha az a miniszter vagy a Hatóság részére korábban szolgáltatott adatokkal kapcsolatos.
 
@@ -3320,7 +3350,9 @@ tekinthetnek be.
 
 (2) A 159/C. § (5) bekezdésében hivatkozott technikai segítségnyújtó rendszerhez csatlakozott hozzáférést biztosító elektronikus hírközlési szolgáltatók és kereső- és gyorsítótár-szolgáltatók részére – erre irányuló igény esetén, a 159/C. § (5) bekezdésében foglalt közigazgatási szerződésben meghatározott módon és feltételekkel – a Hatóság a technikai segítségnyújtó rendszer útján elérhetetlenné teszi az (1) bekezdésben nevesített listán szereplő elektronikus adatokat.
 
-### Az előfizetői listák, az előfizetői névjegyzékek,címtárak
+### Az előfizetői listák, az előfizetői névjegyzékek,
+
+címtárak
 
 160. § (1) A szolgáltató előfizetői listában tartja nyilván az előfizető azonosításához és az általa igénybe vett szolgáltatáshoz szükséges azon adatokat, amelynek a szolgáltató általi adatkezelését e törvény vagy külön jogszabály lehetővé teszi.
 
@@ -3342,7 +3374,9 @@ tekinthetnek be.
 
 (3) Tilos az elektronikus előfizetői névjegyzékben és címtárakban levő adatok összekapcsolása más adattal vagy nyilvántartással, kivéve, ha az elektronikus hírközlési szolgáltató részére működtetési okokból szükséges.
 
-### Az adatok felhasználása közvetlen üzletszerzésivagy tájékoztatási célra
+### Az adatok felhasználása közvetlen üzletszerzési
+
+vagy tájékoztatási célra
 
 162. § (1) Az emberi beavatkozás nélküli, automatizált hívórendszer vagy előfizetői kapcsolat létrehozására szolgáló más automatizált eszköz az előfizető tekintetében
 
@@ -3418,7 +3452,7 @@ a hírközlési szolgáltató részére egy évben legalább egy alkalommal megt
 
 163/E. § E törvény rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy e rendelkezések hatályba lépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.
 
-163/F. §
+#### 163/F. §
 
 163/G. § A Kerekasztal a 149/A. § (2) bekezdésében említett ajánlást első ízben 2014. május elsejéig fogadja el és teszi közzé.
 
@@ -3463,7 +3497,7 @@ a hírközlési szolgáltató részére egy évben legalább egy alkalommal megt
 
 165. § E törvénynek a Módtv.-vel megállapított eljárási rendelkezéseit a folyamatban lévő eljárásokban is alkalmazni kell, azzal, hogy e rendelkezések hatálybalépése előtt elkövetett jogsértésekre a jogsértés elkövetésekor hatályos anyagi jogi rendelkezések alkalmazandók.
 
-166. §
+#### 166. §
 
 167. § (1) A Hatóság a Nemzeti Hírközlési Hatóság és a Hírközlési Felügyelet jogutódja.
 
@@ -3473,11 +3507,33 @@ a hírközlési szolgáltató részére egy évben legalább egy alkalommal megt
 
 (4)–(5)
 
-168. §
+#### 168. §
 
-169. §
+#### 169. §
 
-170–181. §
+#### 170. §
+
+#### 171. §
+
+#### 172. §
+
+#### 173. §
+
+#### 174. §
+
+#### 175. §
+
+#### 176. §
+
+#### 177. §
+
+#### 178. §
+
+#### 179. §
+
+#### 180. §
+
+#### 181. §
 
 181/A. § A Nemzeti Hírközlési Hatóság Tanácsa elnökének és tagjainak e törvény alapján a Nemzeti Média- és Hírközlési Hatóság Elnökének kinevezésével egyidejűleg megszűnik a megbízatása.
 
@@ -3570,11 +3626,11 @@ a hírközlési szolgáltató részére egy évben legalább egy alkalommal megt
 
 184. § (1) A rádiózásról és televíziózásról szóló 1996. évi I. törvény (a továbbiakban: Rtt.) 114/A. §-ának (1) bekezdése helyébe a következő rendelkezés lép:
 
-,,(1) Műsorszétosztás az e célra rendszeresített nyilvántartásba történő bejelentéssel egyidejűleg kezdhető meg.''
+„,,(1) Műsorszétosztás az e célra rendszeresített nyilvántartásba történő bejelentéssel egyidejűleg kezdhető meg.''”
 
 (2) Az Rtt. 114/A. §-a (2) bekezdésének felvezető szövege helyébe a következő rendelkezés lép:
 
-,,(2) Műsorszétosztást végezni szándékozó vállalkozás a tevékenység megkezdése előtt köteles a Testületnek bejelenteni''
+„,,(2) Műsorszétosztást végezni szándékozó vállalkozás a tevékenység megkezdése előtt köteles a Testületnek bejelenteni''”
 
 (3)
 
@@ -3582,19 +3638,19 @@ a hírközlési szolgáltató részére egy évben legalább egy alkalommal megt
 
 [8. § (1) A Nemzetbiztonsági Szakszolgálat]
 
-,,a) a jogszabályok keretei között a titkos információgyűjtés, illetve a titkos adatszerzés különleges eszközeivel és módszereivel – írásbeli megkeresésre – szolgáltatást végez törvény által erre feljogosított szervezetek titkos információgyűjtő, illetve titkos adatszerző tevékenységéhez;
+„,,a) a jogszabályok keretei között a titkos információgyűjtés, illetve a titkos adatszerzés különleges eszközeivel és módszereivel – írásbeli megkeresésre – szolgáltatást végez törvény által erre feljogosított szervezetek titkos információgyűjtő, illetve titkos adatszerző tevékenységéhez;
 
-b) törvény által feljogosított szervezetek igényei alapján biztosítja a titkos információgyűjtő, illetve a titkos adatszerző tevékenységhez szükséges különleges technikai eszközöket és anyagokat;''
+b) törvény által feljogosított szervezetek igényei alapján biztosítja a titkos információgyűjtő, illetve a titkos adatszerző tevékenységhez szükséges különleges technikai eszközöket és anyagokat;''”
 
 (2) Az Nbtv. 8. §-ának (6) bekezdése helyébe a következő rendelkezés lép:
 
-,,(6) A titkos információgyűjtésre, illetve a titkos adatszerzésre felhatalmazott szervezetek és a Nemzetbiztonsági Szakszolgálat közötti együttműködés rendjét a Kormány határozza meg.''
+„,,(6) A titkos információgyűjtésre, illetve a titkos adatszerzésre felhatalmazott szervezetek és a Nemzetbiztonsági Szakszolgálat közötti együttműködés rendjét a Kormány határozza meg.''”
 
 (3) Az Nbtv. 54. §-a (1) bekezdésének j) pontja helyébe a következő rendelkezés lép:
 
 [54. § (1) A titkos információgyűjtés keretében a nemzetbiztonsági szolgálatok]
 
-,,j) hírközlési rendszerekből és egyéb adattároló eszközökből információkat gyűjthetnek.''
+„,,j) hírközlési rendszerekből és egyéb adattároló eszközökből információkat gyűjthetnek.''”
 
 186. § (1)
 

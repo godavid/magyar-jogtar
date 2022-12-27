@@ -8,7 +8,7 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 
 #### 1. A törvény hatálya
 
-1. § (1) E törvényt a Magyarországon gyártott vagy forgalomba hozott, valamint forgalmazott termékek magyarországi székhelyű gyártójára, importőrére, forgalmazójára, valamint a gyártó magyarországi székhelyű meghatalmazott képviselőjére kell alkalmazni.
+1. § (1) E törvényt a Magyarországon gyártott vagy forgalomba hozott, valamint forgalmazott termékek gyártójára, importőrére, forgalmazójára, logisztikai szolgáltatójára, valamint a gyártó meghatalmazott képviselőjére kell alkalmazni.
 
 (2) E törvény rendelkezéseit alkalmazni kell a szolgáltatás nyújtása során, azzal összefüggésben forgalmazott termékre is.
 
@@ -105,15 +105,15 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 
 (3) Ha jogszabály egy termék forgalmazásához megfelelőséget igazoló dokumentumot ír elő, úgy e termék csak megfelelőséget igazoló dokumentummal hozható forgalomba. Jogszabály meghatározhatja azon termékek körét, amelyek csak megfelelőséget igazoló dokumentummal együtt forgalmazhatók.
 
-#### 5. A CE megfelelőségi jelölés
+#### 5. A CE-jelölés
 
-6. § (1) Amennyiben jogszabály előírja, hogy a terméket CE megfelelőségi jelöléssel kell ellátni, akkor a termék csak a CE megfelelőségi jelölés feltüntetését követően hozható forgalomba, valamint forgalmazható.
+6. § (1) Amennyiben jogszabály előírja, hogy a terméket CE-jelöléssel kell ellátni, akkor a termék csak a CE-jelölés feltüntetését követően hozható forgalomba, valamint forgalmazható.
 
-(2) A termék csak akkor látható el CE megfelelőségi jelöléssel, ha a termék az általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktusokban és a jogszabályokban foglalt követelményeknek megfelel.
+(2) A termék csak akkor látható el CE-jelöléssel, ha a termék az általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktusokban és a jogszabályokban foglalt követelményeknek megfelel.
 
-(3) A CE megfelelőségi jelölést a gyártónak vagy meghatalmazott képviselőjének jól láthatóan és olvashatóan kell feltüntetni. Tilos olyan egyéb jelölés, jel vagy felirat elhelyezése, amely összetéveszthető a CE megfelelőségi jelölés jelentése vagy formája tekintetében.
+(3) A CE-jelölést a gyártónak vagy meghatalmazott képviselőjének jól láthatóan és olvashatóan kell feltüntetni. Tilos olyan egyéb jelölés, jel vagy felirat elhelyezése, amely összetéveszthető a CE-jelölés jelentése vagy formája tekintetében.
 
-(4) Tilos a CE megfelelőségi jelölés feltüntetése azon termékek esetében, ahol a jogszabály a CE megfelelőségi jelölés feltüntetését nem követeli meg.
+(4) Tilos a CE-jelölés feltüntetése azon termékek esetében, ahol a jogszabály a CE-jelölés feltüntetését nem követeli meg.
 
 ### III. Fejezet — A GAZDASÁGI SZEREPLŐ KÖTELEZETTSÉGEI
 
@@ -123,7 +123,7 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 
 (2) A gyártó feladata elkészíteni a termékre a jogszabályban előírt műszaki dokumentációt, elvégezni vagy elvégeztetni az alkalmazandó megfelelőségértékelési eljárásokat.
 
-(3) Amennyiben jogszabály előírja, a CE megfelelőségi jelölés feltüntetését megelőzően a gyártó vagy a megfelelőségértékelő szervezet kiállítja a megfelelőséget igazoló dokumentumot.
+(3) Amennyiben jogszabály előírja, a CE-jelölés feltüntetését megelőzően a gyártó vagy a megfelelőségértékelő szervezet kiállítja a megfelelőséget igazoló dokumentumot.
 
 (4) A gyártó a (2) bekezdésben meghatározott műszaki dokumentációt, valamint az 5. § (3) bekezdése szerinti megfelelőséget igazoló dokumentumokat jogszabályban meghatározott ideig vagy amennyiben ezt jogszabály nem határozza meg, akkor a termék forgalomba hozatalától számított 5 évig köteles megőrizni.
 
@@ -210,7 +210,7 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 
 (4) A forgalmazó köteles együttműködni a piacfelügyeleti hatósággal a termék által jelentett veszély elhárítása érdekében tett azonnali intézkedések végrehajtásában.
 
-14/A. § (1) A gazdasági szereplő – a forgalmazó kivételével – köteles az (EU) 2019/1020 Rendelet 4. cikk (3) bekezdésében meghatározott feladatokat ellátni.
+14/A. § (1) A gazdasági szereplő az (EU) 2019/1020 Rendelet 4. cikk (5) bekezdésében említett jogszabály hatálya alá tartozó termék esetében – a forgalmazó kivételével – köteles az (EU) 2019/1020 Rendelet 4. cikk (3) bekezdésében meghatározott feladatokat ellátni az (EU) 2019/1020 Rendelet 4. cikk (2) bekezdésében meghatározott sorrendiség figyelembevétele mellett.
 
 (2) Az (1) bekezdés szerinti gazdasági szereplő nevét, a fogyasztók számára beazonosítható elnevezését vagy bejegyzett védjegyét és elérhetőségeit, beleértve a postai címét is, fel kell tüntetni a terméken vagy annak csomagolásán, az árukötegen vagy a kísérő dokumentumon.
 
@@ -290,7 +290,7 @@ Az Országgyűlés annak biztosítása érdekében, hogy a forgalomba hozatalra 
 
 (6) Amennyiben a piacfelügyeleti hatóság az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban gyártott termék forgalomból történő kivonásáról dönt, úgy köteles a rendelkezésre álló elérhetőségen az eljárás során ismertté vált gyártót a döntés meghozatalát követő 3 napon belül írásban tájékoztatni.
 
-(7) A piacfelügyeleti hatóság a fogyasztók, felhasználók testi épségének, egészségének védelme érdekében, továbbá a fogyasztók, felhasználók széles körét érintő kárral fenyegető veszély elhárítása érdekében az ügydöntő határozat meghozataláig terjedő időtartamra azonnal végrehajtható végzésben elrendelheti a 15. § (2) bekezdés a), b), c) és g) pontjában foglalt jogkövetkezmények alkalmazását.
+(7) A piacfelügyeleti hatóság a fogyasztók, felhasználók testi épségének, egészségének védelme érdekében, továbbá a fogyasztók, felhasználók széles körét érintő kárral fenyegető veszély elhárítása érdekében az ügydöntő határozat meghozataláig terjedő időtartamra azonnal végrehajtható végzésben elrendelheti a 15. § (9) bekezdés a), b), c) és g) pontjában foglalt jogkövetkezmények alkalmazását.
 
 17. § (1) A piacfelügyeleti hatóság határozatának és a 16. § (7) bekezdése szerinti végzésének kivonatát – jogorvoslatra tekintet nélkül – honlapján közzéteszi, ha eljárása során megállapítja, hogy a vizsgált termék nem felel meg a biztonságossági követelményeknek.
 
@@ -333,7 +333,7 @@ kötelességét megszegi, azt a Kormány által rendeletben kijelölt műszaki-b
 
 #### 11. Korlátozó intézkedésekre vonatkozó különös előírások
 
-18. § (1) A 15. § (2) bekezdés c)–e) pontja szerinti döntés meghozatalát megelőzően a piacfelügyeleti hatóság a gazdasági szereplő kérésére tárgyalást tart, kivéve, ha erre a meghozandó intézkedés sürgőssége, az egészségügyi vagy biztonsági előírások betartása, az élet, testi épség, egészség vagy egyéb közérdek védelme miatt nincs lehetőség. A tárgyalás lehetőségéről a piacfelügyeleti hatóság az első kapcsolatfelvétel alkalmával, vagy a (3) bekezdésben meghatározott esetben a döntés közlésével egyidejűleg tájékoztatja az érintett gazdasági szereplőt.
+18. § (1) A 15. § (9) bekezdés c)–e) pontja szerinti döntés meghozatalát megelőzően a piacfelügyeleti hatóság a gazdasági szereplő kérésére tárgyalást tart, kivéve, ha erre a meghozandó intézkedés sürgőssége, az egészségügyi vagy biztonsági előírások betartása, az élet, testi épség, egészség vagy egyéb közérdek védelme miatt nincs lehetőség. A tárgyalás lehetőségéről a piacfelügyeleti hatóság az első kapcsolatfelvétel alkalmával, vagy a (3) bekezdésben meghatározott esetben a döntés közlésével egyidejűleg tájékoztatja az érintett gazdasági szereplőt.
 
 (2) Amennyiben a gazdasági szereplő a döntés meghozatalát megelőzően kérte tárgyalás keretében történő meghallgatását, és azt az (1) bekezdés nem zárja ki, akkor a tárgyalásra a vonatkozó kérelem beérkezésétől számított 10 napot meghaladó időtartamon túl kell lehetőséget biztosítani. A gazdasági szereplő kérésére a tárgyalás ennél rövidebb időtartamon belül is megtartható. A gazdasági szereplő az (1) bekezdésben meghatározott tájékoztatás kézhezvételét követő 5 napon belül jogosult tárgyalás tartását kérni.
 
@@ -343,7 +343,7 @@ kötelességét megszegi, azt a Kormány által rendeletben kijelölt műszaki-b
 
 (5) Az (1) bekezdés szerinti döntést a piacfelügyeleti hatóság – jogszabály eltérő rendelkezése hiányában – a tárgyalás megtartását követő 5 napon belül módosítja vagy visszavonja, ha a gazdasági szereplő a tárgyalás során hitelt érdemlően igazolja azt, hogy a korlátozó intézkedések okai megszűntek, a termék használatából fellépő esetleges veszélyeket valamennyi általa forgalomba hozott, forgalmazott, üzemeltetett és rendelkezésre bocsátott termék tekintetében elhárította, valamint a korlátozó intézkedéssel egyenértékű eredményes lépéseket tett.
 
-(6) Amennyiben az (5) bekezdés alkalmazásának feltételei nem állnak fenn, az érintett gazdasági szereplő a tárgyalás megtartását követő 8 napon belül akkor is előterjesztheti az (1) bekezdés szerinti döntés elleni fellebbezését, ha a fellebbezési határidő már eltelt.
+(6) Amennyiben az (5) bekezdés alkalmazásának feltételei nem állnak fenn, az érintett gazdasági szereplő a tárgyalás megtartását követő 8 napon belül akkor is előterjesztheti az (1) bekezdés szerinti döntés elleni közigazgatási per megindítására irányuló keresetlevelét, ha a keresetlevél benyújtására rendelkezésre álló határidő már eltelt.
 
 ### IV/A. Fejezet — A PIACFELÜGYELETI HATÓSÁGOK ÉS ÖSSZEKÖTŐ HIVATAL SZERVEZETE, TEVÉKENYSÉGE ÉS KÖTELEZETTSÉGEI
 

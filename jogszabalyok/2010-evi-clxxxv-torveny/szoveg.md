@@ -83,7 +83,7 @@ Az Országgyűlés a közösség és az egyén érdekeinek felismeréséből, a 
 
 (8) A (2)–(7) bekezdés szerinti minősítésnél irányadó részletes szempontokra, az egyes műsorszámok közzététele előtt és közben alkalmazható jelzésekre, illetve a minősítés közlésének módjára vonatkozó jogalkalmazási gyakorlatának fő elvi szempontjait – amennyiben a kiskorúak védelmével kapcsolatos közérdek vagy a kiskorúak védelmének egységes érvényesülése ezt indokolja – a Médiatanács ajánlásban teszi közzé.
 
-(9) A média szolgáltató kérelmére – igazgatási szolgáltatási díj megfizetése ellenében, a műsorszám átadásától számított tizenöt napon belül – a Médiatanács a műsorszám kategóriába sorolásáról hatósági határozatot hoz.
+(9) A médiaszolgáltató kérelmére – igazgatási szolgáltatási díj megfizetése ellenében, a műsorszám átadásától számított tizenöt napon belül – a Médiatanács a műsorszám kategóriába sorolásáról hatósági határozatot hoz.
 
 (10) Nem minősül az (1)–(7) bekezdés megsértésének, ha a médiaszolgáltató a műsorszámot magasabb kategóriába sorolja, mint ahogyan az a (2)–(6) bekezdésben meghatározottak szerint szükséges lenne.
 
@@ -130,7 +130,15 @@ kerül sor. Ebben az esetben a minősítésre vonatkozó jelzést a műsorszám 
 
 (8) A sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény (a továbbiakban: Smtv.) és e törvény alapján a kiskorúak médiaszolgáltatók által lineáris médiaszolgáltatásban gyűjtött vagy más módon generált személyes adatai kereskedelmi céllal – így például közvetlen üzletszerzés, profilalkotás és viselkedésalapú célzott reklámozás céljából – nem kezelhetők.
 
-11. § (1) A lekérhető médiaszolgáltatásokra a 9. § (6)–(7) bekezdés rendelkezéseit alkalmazni kell.
+11. § (1) A lekérhető audiovizuális médiaszolgáltatásokban műsorszám – e törvényben meghatározott kivételekkel – csak kategóriájának megfelelő módon tehető közzé.
+
+(1a) A lekérhető audiovizuális médiaszolgáltatásban az egyes műsorszámok műsorkínálatában történő megjelenítésekor vagy a műsorszám felhasználó általi megtekintése előtt jól látható módon fel kell tüntetni a korhatár-kategória megjelölését.
+
+(1b) A lekérhető audiovizuális médiaszolgáltatás műsorkínálatát tartalmazó felületen és – ha rendelkezik internetes honlappal – a médiaszolgáltató internetes honlapján szereplő tájékoztatásban valamennyi műsorszám 9. § szerinti minősítését jól látható módon fel kell tüntetni.
+
+(1c) Az (1a) és (1b) bekezdésben meghatározott előírások nem vonatkoznak azokra a lekérhető audiovizuális médiaszolgáltatókra, amelyek a 22. § (1b) bekezdése szerinti médiatanácsi ajánlás alapján alacsony árbevétellel rendelkező, illetve kisszámú közönséget elérő médiaszolgáltatónak minősülnek.
+
+(1d) Az (1a) és (1b) bekezdésben meghatározott követelményeknek való megfelelést a médiaszolgáltató – erre irányuló, a Médiatanácshoz intézett kérelme esetén – a Médiatanáccsal kötött hatósági szerződésben rendezett módon, fokozatosan is biztosíthatja. Ilyen mentesítés legfeljebb három naptári évre engedélyezhető.
 
 (2) A lekérhető médiaszolgáltatás médiaszolgáltatójának vagy a szolgáltatását terjesztő műsorterjesztőnek – az Smtv. 19. § (2) bekezdésével összhangban – hatékony műszaki megoldást kell alkalmaznia annak érdekében, hogy az V–VI. kategóriákba sorolt műsorszámok kiskorúak számára ne legyenek elérhetők.
 
