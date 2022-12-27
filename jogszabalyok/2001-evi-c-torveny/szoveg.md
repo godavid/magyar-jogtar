@@ -10,6 +10,8 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 1. § (1) E törvény hatálya a 4. § szerinti eljáró hatóságra, a 4/A. § szerinti segítségnyújtó központra, a 41. § szerinti előzetes ellenőrzést végző eljáró hatóságra, továbbá, állampolgárságra való tekintet nélkül, azon természetes személyekre terjed ki, akik külföldön vagy Magyarországon működő külföldi közoktatási vagy felsőoktatási intézményben, vagy képzést folytató más intézményben (a továbbiakban: külföldi oktatási intézményben) bizonyítványt vagy oklevelet szereztek.
 
+(1a) E törvény hatálya a XI/B. Fejezetben foglaltak alkalmazása tekintetében kiterjed mindazon természetes és jogi személyekre, valamint jogi személyiséggel nem rendelkező szervekre és szervezetekre, amelyek szabályozott szakmákhoz való hozzáférést vagy azok gyakorlását korlátozó törvényi és egyéb jogszabályi rendelkezések, közjogi szervezetszabályozó eszközök (a továbbiakban együtt: rendelkezések) előkészítésében részt vesznek.
+
 (2) E törvényt kell alkalmazni valamely külföldi állam joga szerint kiállított bizonyítványnak és oklevélnek a Magyarországon megszerezhető bizonyítvánnyal és oklevéllel egyenértékűként történő elismerésére és honosítására, valamint a résztanulmányok beszámítására. E törvényt kell alkalmazni akkor is, ha az elismerés a szakmai gyakorlaton alapul.
 
 (3) Bizonyítvány, illetve oklevél az alap-, közép- vagy felsőfokú végzettséget és azokhoz kapcsolódó szakképesítést, szakképzettséget, illetve tudományos fokozatot tanúsító okirat. Bizonyítványnak, illetve oklevélnek tekintendő az ezekkel azonos hatályú okirat is. Nem minősül külföldi bizonyítványnak, oklevélnek, illetve szakmai képesítésnek a hazai bizonyítvány, oklevél, illetve szakmai képesítés külföldi elismeréséről szóló, külföldi eljáró hatóság által hozott döntés.
@@ -18,7 +20,7 @@ a külföldi bizonyítványok és oklevelek elismeréséről
 
 (5) E törvényt akkor kell alkalmazni, ha nemzetközi szerződés eltérően nem rendelkezik. Az elismerési és honosítási eljárás során az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.) rendelkezéseit kell alkalmazni.
 
-(6) E törvényt kell alkalmazni a szabályozott szakmákra vonatkozó arányossági értékelésre annak érdekében, hogy a szabályozott szakmákhoz való hozzáférést vagy azok gyakorlását korlátozó, bevezetni tervezett jogszabályi rendelkezések, vagy a hatályos rendelkezésekhez fűzött módosítások alkalmasak legyenek az elérni kívánt cél megvalósításának biztosítására, és ne lépjék túl az adott cél eléréséhez szükséges mértéket.
+(6) E törvényt kell alkalmazni a szabályozott szakmákra vonatkozó arányossági értékelésre annak érdekében, hogy a szabályozott szakmákhoz való hozzáférést vagy azok gyakorlását korlátozó, bevezetni tervezett rendelkezések, vagy a hatályos rendelkezésekhez fűzött módosítások alkalmasak legyenek az elérni kívánt cél megvalósításának biztosítására, és ne lépjék túl az adott cél eléréséhez szükséges mértéket.
 
 ### Az elismerés és a honosítás alapelvei
 
@@ -878,27 +880,27 @@ A RÉSZTANULMÁNYOK BESZÁMÍTÁSA, AZ ELJÁRÁS DÍJA ÉS A ZÁRÓ RENDELKEZÉS
 - 1. Fenntartott tevékenységek: egy szakma szabályozásának olyan formája, amelynek esetében egy szakmai tevékenység vagy szakmai tevékenységekhez való hozzáférés egy szabályozott szakma meghatározott szakmai képesítéssel rendelkező tagjai számára van fenntartva, beleértve azt az esetet is, amikor a tevékenység megosztott más szabályozott szakmákkal;
 - 2. Védett szakmai cím: egy szakma szabályozásának olyan formája, amelynek esetében a cím – valamely szakma vagy szakmák csoportjának gyakorlása során való – használatának feltétele egy meghatározott szakmai képesítés megléte, és amelynek esetében az adott cím nem megfelelő használata szankciókat von maga után.
 
-60/K. § (1) A 28. § (3) bekezdésében meghatározott szabályozott szakmákhoz való hozzáférést vagy azok gyakorlását korlátozó új jogszabályi rendelkezések bevezetését, illetve a meglévő rendelkezések módosítását megelőzően az e fejezetben meghatározott szabályokkal összhangban a jogszabály előkészítője arányossági értékelést végez.
+60/K. § (1) A 28. § (3) bekezdésében meghatározott szabályozott szakmákhoz való hozzáférést vagy azok gyakorlását korlátozó új rendelkezések bevezetését, illetve a meglévő rendelkezések módosítását megelőzően az e fejezetben meghatározott szabályokkal összhangban a rendelkezések előkészítője arányossági értékelést végez.
 
 (2) Az (1) bekezdésben említett értékelés mértékének arányban kell állnia a rendelkezés jellegével, tartalmával és hatásával.
 
-(3) Az (1) bekezdésben említett bármely rendelkezéshez a jogszabály előkészítője az arányosság elvével való összhang megítélését lehetővé tevő részletes indokolást készít.
+(3) Az (1) bekezdésben említett bármely rendelkezéshez a rendelkezések előkészítője az arányosság elvével való összhang megítélését lehetővé tevő részletes indokolást készít.
 
-(4) A jogszabály előkészítője minőségi és – amennyiben ez lehetséges és releváns – mennyiségi elemekkel támasztja alá azokat az okokat, amelyek alapján eldönthető, hogy az (1) bekezdésben említett rendelkezés indokolt és arányos.
+(4) A rendelkezések előkészítője minőségi és – amennyiben ez lehetséges és releváns – mennyiségi elemekkel támasztja alá azokat az okokat, amelyek alapján eldönthető, hogy az (1) bekezdésben említett rendelkezés indokolt és arányos.
 
-(5) A jogszabály előkészítője az (1) bekezdésben említett értékelést objektív és független módon végzi el.
+(5) A rendelkezések előkészítője az (1) bekezdésben említett értékelést objektív és független módon végzi el.
 
-(6) A jogszabály előkészítője figyelemmel kíséri a szabályozott szakmákhoz való hozzáférést vagy azok gyakorlását korlátozó, új vagy módosított jogszabályi rendelkezések megfelelését az arányosság elvének azok elfogadását követően, tekintettel az érintett rendelkezések elfogadása óta bekövetkezett bármely fejleményre.
+(6) A rendelkezések előkészítője figyelemmel kíséri a szabályozott szakmákhoz való hozzáférést vagy azok gyakorlását korlátozó, új vagy módosított rendelkezések megfelelését az arányosság elvének azok elfogadását követően, tekintettel az érintett rendelkezések elfogadása óta bekövetkezett bármely fejleményre.
 
 60/L. § A 60/K. § (1) bekezdésében foglalt rendelkezések se közvetlenül, se közvetetten nem tartalmazhatnak állampolgárság vagy lakóhely alapján történő megkülönböztetést.
 
-60/M. § (1) A jogszabály előkészítője biztosítja, hogy a szabályozott szakmákhoz való hozzáférést vagy azok gyakorlását korlátozó azon jogszabályi rendelkezések, amelyeket bevezetni tervez, és a hatályos rendelkezések általa szándékolt módosításai közérdekű célok alapján indokoltak legyenek.
+60/M. § (1) A rendelkezések előkészítője biztosítja, hogy a szabályozott szakmákhoz való hozzáférést vagy azok gyakorlását korlátozó azon rendelkezések, amelyeket bevezetni tervez, és a hatályos rendelkezések általa szándékolt módosításai közérdekű célok alapján indokoltak legyenek.
 
-(2) A jogszabály előkészítője mérlegeli, hogy az (1) bekezdésben említett rendelkezések objektív módon indokoltak-e a közrend, a közbiztonság, a közegészségügy vagy a közérdeken alapuló kényszerítő körülmények alapján.
+(2) A rendelkezések előkészítője mérlegeli, hogy az (1) bekezdésben említett rendelkezések objektív módon indokoltak-e a közrend, a közbiztonság, a közegészségügy vagy a közérdeken alapuló kényszerítő körülmények alapján.
 
 (3) A tisztán gazdasági jellegű indokok, illetve a tisztán adminisztratív okok nem minősülnek olyan közérdeken alapuló kényszerítő körülménynek, amely indokolná a szabályozott szakmákhoz való hozzáférésnek, illetve azok gyakorlásának a korlátozását.
 
-60/N. § (1) Az 1. § (6) bekezdésében szereplő rendelkezések elfogadása előtt a jogalkotónak a következőket kell mérlegelnie:
+60/N. § (1) Az 1. § (6) bekezdésében szereplő rendelkezések elfogadása előtt a rendelkezések előkészítőjének a következőket kell mérlegelnie:
 
 - a) a kitűzött közérdekű célokhoz kapcsolódó kockázatok jellege;
 - b) a meglévő egyedi vagy általános jellegű előírások nem elegendők-e a kitűzött cél elérésére;
@@ -907,7 +909,7 @@ A RÉSZTANULMÁNYOK BESZÁMÍTÁSA, AZ ELJÁRÁS DÍJA ÉS A ZÁRÓ RENDELKEZÉS
 - e) kevésbé korlátozó eszközök használatának lehetősége a közérdekű cél elérése érdekében; és
 - f) az új vagy módosított rendelkezések hatása a szakmához való hozzáférést vagy annak gyakorlását korlátozó egyéb rendelkezésekkel együtt.
 
-(2) A jogalkotó az alábbi elemeket is mérlegeli, ha azok a bevezetendő vagy a módosított rendelkezés jellege és tartalma szempontjából relevánsak:
+(2) A rendelkezések előkészítője az alábbi elemeket is mérlegeli, ha azok a bevezetendő vagy a módosított rendelkezés jellege és tartalma szempontjából relevánsak:
 
 - a) a kapcsolat a szakma által felölelt vagy annak fenntartott tevékenységek köre és a szükséges szakmai képesítés között;
 - b) a kapcsolat a szóban forgó feladatok komplexitása és a feladatot végrehajtó személyek meghatározott szakmai képesítéssel való rendelkezésének szükségessége között;
@@ -916,7 +918,7 @@ A RÉSZTANULMÁNYOK BESZÁMÍTÁSA, AZ ELJÁRÁS DÍJA ÉS A ZÁRÓ RENDELKEZÉS
 - e) az autonómia mértéke egy szabályozott szakma gyakorlása során, valamint a szervezeti és felügyeleti szabályok hatása a kitűzött cél megvalósítására; és
 - f) a tudományos és technológiai fejlődés, amely ténylegesen csökkentheti vagy növelheti a szakemberek és a fogyasztók közötti információs aszimmetriát.
 
-(3) Az (1) bekezdés f) pontjának alkalmazása során a jogalkotó
+(3) Az (1) bekezdés f) pontjának alkalmazása során a rendelkezések előkészítője
 
 - a) értékeli az új vagy módosított rendelkezés által a követelmények közül eggyel vagy többel együttesen kifejtett hatásokat, valamint
 - b) vizsgálja
@@ -933,11 +935,11 @@ A RÉSZTANULMÁNYOK BESZÁMÍTÁSA, AZ ELJÁRÁS DÍJA ÉS A ZÁRÓ RENDELKEZÉS
   - bk) a rögzített minimális és maximális díjszabási követelményeket;
   - bl) a reklámozásra vonatkozó követelményeket.
 
-(4) Új követelmények bevezetése, illetve a meglévő követelmények módosítása előtt a jogalkotó biztosítja, hogy az e törvényben foglaltak szerinti, a szolgáltatások ideiglenes vagy alkalmi nyújtásával kapcsolatos sajátos követelmények megfeleljenek az arányosság elvének.
+(4) Új követelmények bevezetése, illetve a meglévő követelmények módosítása előtt a rendelkezések előkészítője biztosítja, hogy az e törvényben foglaltak szerinti, a szolgáltatások ideiglenes vagy alkalmi nyújtásával kapcsolatos sajátos követelmények megfeleljenek az arányosság elvének.
 
 (5) A (3) bekezdésben foglaltakat nem kell alkalmazni az európai uniós jognak megfelelően alkalmazott, a hatályos foglalkoztatási szabályok és feltételek betartását célzó intézkedésekre.
 
-(6) Amennyiben az (1)–(5) bekezdésben szereplő rendelkezések az egészségügyi szakmák szabályozását érintik és betegbiztonsági vonatkozással bírnak, a jogalkotó figyelembe veszi az emberi egészség magas szintű védelmének célját.
+(6) Amennyiben az (1)–(5) bekezdésben szereplő rendelkezések az egészségügyi szakmák szabályozását érintik és betegbiztonsági vonatkozással bírnak, a rendelkezések előkészítője figyelembe veszi az emberi egészség magas szintű védelmének célját.
 
 ### XII. Fejezet — TÁJÉKOZTATÁS
 

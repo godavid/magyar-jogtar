@@ -12,7 +12,7 @@ Az Országgyűlés a polgárok, így különösen a fiatalkorúak egészségéne
 
 (3) Az audiovizuális és rádiós médiaszolgáltatásban közzétett reklámra a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvényt, valamint a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvényt is alkalmazni kell.
 
-2. §
+#### 2. §
 
 3. § E törvény alkalmazásában
 
@@ -99,7 +99,7 @@ közvetlenül vagy közvetetetten tulajdoni részesedéssel rendelkezik.
 
 (3) A reklámközvetítésre vonatkozó szerződésnek, illetve a reklám közzétételére irányuló szerződésnek az 5/C. § és az 5/D. § (1) bekezdésébe ütköző rendelkezése semmis.
 
-5/G. §
+#### 5/G. §
 
 6. § (1) Ha külön törvény eltérően nem rendelkezik, reklám természetes személynek mint reklám címzettjének közvetlen megkeresése módszerével (a továbbiakban: közvetlen üzletszerzés), így különösen elektronikus levelezés vagy azzal egyenértékű más egyéni kommunikációs eszköz útján – a (4) bekezdésben meghatározott kivétellel – kizárólag akkor közölhető, ha ahhoz a reklám címzettje előzetesen egyértelműen és kifejezetten hozzájárult.
 
@@ -133,7 +133,7 @@ közvetlenül vagy közvetetetten tulajdoni részesedéssel rendelkezik.
 
 (3) Tilos az olyan reklám, amely gyermek- vagy fiatalkorút veszélyes, erőszakos vagy a szexualitást hangsúlyozó helyzetben mutat be.
 
-(4) Gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó intézményben, óvodában, általános iskolában és általános iskolai tanulókat fogadó kollégiumban tilos a reklámtevékenység. E tilalom nem vonatkozik az egészséges életmódra és a környezet védelmére neveléssel összefüggő, továbbá a közéleti és kulturális tevékenység vagy esemény, valamint az oktatási tevékenység reklámjára, valamint az ilyen tevékenységet folytató, illetve ilyen eseményt szervező vagy annak megvalósulásához bármilyen formában hozzájárulást nyújtó vállalkozás nevének, védjegyének vagy egyéb megjelölésének az adott tevékenységgel, eseménnyel közvetlenül összefüggő megjelenítésére.
+(4) Gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó intézményben, óvodában, általános iskolában, hat vagy nyolc évfolyammal működő gimnáziumban és általános iskolai tanulókat, valamint hat vagy nyolc évfolyammal működő gimnáziumi tanulókat fogadó kollégiumban tilos a reklámtevékenység. E tilalom nem vonatkozik az egészséges életmódra és a környezet védelmére neveléssel összefüggő, továbbá a közéleti és kulturális tevékenység vagy esemény, valamint az oktatási tevékenység reklámjára, valamint az ilyen tevékenységet folytató, illetve ilyen eseményt szervező vagy annak megvalósulásához bármilyen formában hozzájárulást nyújtó vállalkozás nevének, védjegyének vagy egyéb megjelölésének az adott tevékenységgel, eseménnyel közvetlenül összefüggő megjelenítésére.
 
 9. § (1) Tilos az olyan reklám, amely a nemiséget súlyosan szeméremsértő nyíltsággal ábrázolja, különösen amelyik nemi aktust vagy nemi szervet nyíltan ábrázol (pornográf reklám).
 
@@ -149,7 +149,7 @@ közvetlenül vagy közvetetetten tulajdoni részesedéssel rendelkezik.
 
 12. § Tilos a kereskedelemről szóló törvényben meghatározott, árubemutatóval egybekötött termékértékesítéshez kapcsolódóan ajándék juttatás, árengedmény, kedvezmény, vagyoni előny és ajándéksorsolás reklámja.
 
-13. §
+#### 13. §
 
 ### Az egyes áruk reklámozására és az azokkal összefüggésben történő szponzorálásra vonatkozó tilalmak és korlátozások
 
@@ -285,11 +285,29 @@ közvetlenül vagy közvetetetten tulajdoni részesedéssel rendelkezik.
 
 (2) Az eljáró hatóság ellenőrzése keretében kérheti az 5. § (3) bekezdése, valamint a 6. § (5) bekezdése szerinti nyilvántartás bemutatását.
 
-27. §
+#### 27. §
 
-28–31. §
+#### 28. §
 
-32–38. §
+#### 29. §
+
+#### 30. §
+
+#### 31. §
+
+#### 32. §
+
+#### 33. §
+
+#### 34. §
+
+#### 35. §
+
+#### 36. §
+
+#### 37. §
+
+#### 38. §
 
 ### Záró rendelkezések
 
@@ -299,11 +317,13 @@ közvetlenül vagy közvetetetten tulajdoni részesedéssel rendelkezik.
 
 40. § A Magyarország 2016. évi központi költségvetésének megalapozásáról szóló 2015. évi LXXII. törvény (a továbbiakban: Módtv.) hatálybalépésekor fennálló szerződéseket legkésőbb 2015. szeptember 30-áig kell az e törvénynek a Módtv.-nyel megállapított rendelkezései szerint módosítani.
 
-41–42. §
+#### 41. §
 
-43. §
+#### 42. §
 
-44. §
+#### 43. §
+
+#### 44. §
 
 45. § (1) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
