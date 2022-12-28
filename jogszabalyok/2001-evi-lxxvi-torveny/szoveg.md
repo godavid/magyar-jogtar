@@ -6,7 +6,7 @@ a Nemzetközi Atomenergia Ügynökség keretében a kiégett fűtőelemek kezel�
 
 2. § Az egyezmény hivatalos magyar és angol nyelvű szövege a következő:
 
-,,
+„,,
 
 Közös egyezmény
 
@@ -1420,10 +1420,10 @@ The original of this Convention of which the Arabic, Chinese, English, French, R
 
 In witness whereof the undersigned, being duly authorized to that effect, have signed this convention.
 
-Done at Vienna on the fifth day of September, one thousand nine hundred and ninety-seven.''
+Done at Vienna on the fifth day of September, one thousand nine hundred and ninety-seven.''”
 
 3. § (1) E törvény a kihirdetésének napján lép hatályba.
 
-(2) E törvény végrehajtásáról a Kormány – az Országos Atomenergia Hivatal útján – gondoskodik.
+(2) Az e törvény végrehajtásáról a Kormány és az Országos Atomenergia Hivatal együttesen gondoskodik az atomenergiáról szóló 1996. évi CXVI. törvény rendelkezései alapján.
 
 (3)

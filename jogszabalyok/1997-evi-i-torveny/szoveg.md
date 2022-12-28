@@ -6,7 +6,7 @@ a nukleáris biztonságról a Nemzetközi Atomenergia Ügynökség keretében B�
 
 2. § Az Egyezmény eredeti angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
 
-,,CONVENTION ON NUCLEAR SAFETY
+„,,CONVENTION ON NUCLEAR SAFETY
 
 PREAMBLE
 
@@ -816,8 +816,8 @@ Letéteményes
 
 Hiteles szövegek
 
-Ezen Egyezmény eredeti példányát, amelynek angol, arab, francia, kínai, orosz és spanyol szövege egyaránt hiteles, a letéteményesnél kell elhelyezni, aki ennek hiteles másolatait megküldi a Szerződő Feleknek.''
+Ezen Egyezmény eredeti példányát, amelynek angol, arab, francia, kínai, orosz és spanyol szövege egyaránt hiteles, a letéteményesnél kell elhelyezni, aki ennek hiteles másolatait megküldi a Szerződő Feleknek.''”
 
 3. § (1) A törvény a kihirdetését követő 8. napon lép hatályba, rendelkezéseit 1996. október 24-től kell alkalmazni.
 
-(2) A törvény végrehajtásáról a Kormány az Országos Atomenergia Hivatal útján gondoskodik.
+(2) Az e törvény végrehajtásáról a Kormány és az Országos Atomenergia Hivatal együttesen gondoskodik az atomenergiáról szóló 1996. évi CXVI. törvény rendelkezései alapján.

@@ -26,7 +26,7 @@ Bearing in mind that physical protection is of vital importance for the protecti
 
 Having in mind the purposes and principles of the Charter of the United Nations concerning the maintenance of international peace and security and the promotion of goodneighbourliness and friendly relations and co-operation among States,
 
-Considering that under the terms of paragraph 4 of Article 2 of the Charter of the United Nations, „All members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations,”
+Considering that under the terms of paragraph 4 of Article 2 of the Charter of the United Nations, „All members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations,
 
 Recalling the Declaration on Measures to Eliminate International Terrorism, annexed to General Assembly resolution 49/60 of 9 December 1994,
 
@@ -366,7 +366,7 @@ c) meg kell tennie a nukleáris anyagok és nukleáris létesítmények fizikai 
 
 3. Az 1. és 2. pontban foglalt kötelezettségek megvalósításához minden egyes szerződő államnak, az Egyezmény más rendelkezéseinek sérelme nélkül, az ésszerűség és a gyakorlati megvalósíthatóság határain belül alkalmaznia kell a Nukleáris Anyagok és Nukleáris Létesítmények Fizikai Védelmének alábbi Alapelveit:
 
-„A” ALAPELV: Az állam felelőssége
+A” ALAPELV: Az állam felelőssége
 
 Egy államon belül teljes mértékben az illető állam felelős a fizikai védelmi rendszer létesítéséért, megvalósításáért és fenntartásáért.
 
@@ -528,7 +528,7 @@ b/ Reaktorban be nem sugárzott anyag, vagy reaktorban besugárzott olyan anyag,
 
 e/ Az olyan egyéb fűtőanyag, amely eredeti hasadóanyag-tartalma folytán az I. és II. Kategóriába sorolható a besugárzás előtt, egy kategóriaszinttel csökkenthető, amíg az üzemanyagból származó sugárzás szintje meghaladja az 1 gray/óra (100 rad/óra) értéket egy méter távolságban, árnyékolás nélkül.”
 
-4. §
+#### 4. §
 
 5. § (1) E törvény – a (2) és a (4) bekezdésben meghatározott kivételekkel – a kihirdetését követő napon lép hatályba.
 
@@ -538,6 +538,6 @@ e/ Az olyan egyéb fűtőanyag, amely eredeti hasadóanyag-tartalma folytán az 
 
 (4) E törvény 4. §-a a kihirdetését követő második hónap első napján lép hatályba, és az azt követő napon hatályát veszti.
 
-(5) E törvény végrehajtásához szükséges intézkedésekről az Országos Atomenergia Hivatal felügyeletét ellátó miniszter gondoskodik.
+(5) Az e törvény végrehajtásához szükséges intézkedésekről a Kormány és az Országos Atomenergia Hivatal együttesen gondoskodik.
 
-(6) Felhatalmazást kap az Országos Atomenergia Hivatal felügyeletét ellátó miniszter, hogy az Egyezménynek az Egyezmény módosításával egységes szerkezetbe foglalt, hiteles angol nyelvű szövegét és annak magyar nyelvű hivatalos fordítását a Magyar Közlönyben közzétegye.
+(6)
