@@ -22,9 +22,7 @@ egyes felsőoktatással, szakképzéssel és felnőttképzéssel összefüggő t
 
 #### 4. A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény módosítása
 
-7. § A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény (a továbbiakban: Elismerési törvény) 1. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) E törvény hatálya a XI/B. Fejezetben foglaltak alkalmazása tekintetében kiterjed mindazon természetes és jogi személyekre, valamint jogi személyiséggel nem rendelkező szervekre és szervezetekre, amelyek szabályozott szakmákhoz való hozzáférést vagy azok gyakorlását korlátozó törvényi és egyéb jogszabályi rendelkezések, közjogi szervezetszabályozó eszközök (a továbbiakban együtt: rendelkezések) előkészítésében részt vesznek.”
+#### 7. §
 
 #### 8. §
 
@@ -32,23 +30,9 @@ egyes felsőoktatással, szakképzéssel és felnőttképzéssel összefüggő t
 
 #### 10. §
 
-11. § Az Elismerési törvény
+#### 11. §
 
-- a)
-- b)
-- c)
-- d)
-- e) 60/K. § (1) és (3)–(6) bekezdésében a „jogszabály” szövegrész helyébe a „rendelkezések” szöveg,
-- f) 60/M. § (1) és (2) bekezdésében a „jogszabály” szövegrész helyébe a „rendelkezések” szöveg,
-- g) 60/N. § (1) bekezdésében a „jogalkotónak” szövegrész helyébe a „rendelkezések előkészítőjének” szöveg,
-- h) 60/N. § (2) és (3) bekezdése nyitó szövegrészében, (4) és (6) bekezdésében a „jogalkotó” szövegrész helyébe a „rendelkezések előkészítője” szöveg
-
-lép.
-
-12. § Hatályát veszti az Elismerési törvény
-
-- a) 1. § (6) bekezdésében, 60/K. § (1) és (6) bekezdésében, valamint 60/M. § (1) bekezdésében a „jogszabályi” szövegrész.
-- b)
+#### 12. §
 
 #### 5. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény módosítása
 
