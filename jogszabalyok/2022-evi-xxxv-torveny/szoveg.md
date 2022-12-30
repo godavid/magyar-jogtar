@@ -18,7 +18,7 @@ a Magyarország Kormánya és a Norvég Királyság Kormánya között a Magyar 
 
 5. § Az e törvény végrehajtásához szükséges intézkedésekről a külgazdasági ügyekért felelős miniszter gondoskodik.
 
-6. § Hatályát veszti a Magyar Köztársaság Kormánya és a Norvég Királyság Kormánya között a beruházások ösztönzéséről és kölcsönös védelméről Oslóban, az 1991. évi április hó 8. napján aláírt Megállapodás kihirdetéséről szóló 1993. évi LXI. törvény.
+#### 6. §
 
 ### 1. melléklet a 2022. évi XXXV. törvényhez
 

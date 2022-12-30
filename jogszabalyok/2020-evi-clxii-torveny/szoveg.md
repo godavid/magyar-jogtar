@@ -165,7 +165,7 @@ a foglalkoztató szervezet által vezetett személyügyi nyilvántartó informat
 
 (3) A 3. § (1) bekezdés d) pont db) alpontja, (4) és (5) bekezdése, a 7. § (1) bekezdés c) pontja, a 37–42. §, a 45. §, a 46. § (1) bekezdése, a 47–53. § 2021. április 1-jén lép hatályba.
 
-(4) Az 55. § 2023. január 1-jén lép hatályba.
+(4) Az 55. § 2024. január 1-jén lép hatályba.
 
 17. § (1) Az adatgyűjtő modul működését 2021. január 1-jén kezdi meg
 
@@ -201,71 +201,71 @@ sarkalatosnak minősül.
 
 #### 6. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
-20. §
+#### 20. §
 
-21. §
+#### 21. §
 
 #### 7. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-22. §
+#### 22. §
 
 #### 8. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény módosítása
 
-23. §
+#### 23. §
 
-24. §
+#### 24. §
 
 #### 9. A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény módosítása
 
-25. §
+#### 25. §
 
 #### 10. A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
-26. §
+#### 26. §
 
 #### 11. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-27. §
+#### 27. §
 
-28. §
+#### 28. §
 
 #### 12. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 
-29. §
+#### 29. §
 
-30. §
+#### 30. §
 
-31. §
+#### 31. §
 
-32. §
+#### 32. §
 
-33. §
+#### 33. §
 
 #### 13. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
-34. §
+#### 34. §
 
-35. §
+#### 35. §
 
-36. §
+#### 36. §
 
-37. §
+#### 37. §
 
-38. §
+#### 38. §
 
-39. §
+#### 39. §
 
-40. §
+#### 40. §
 
-41. §
+#### 41. §
 
-42. §
+#### 42. §
 
-43. §
+#### 43. §
 
-44. §
+#### 44. §
 
-45. §
+#### 45. §
 
 46. § (1)
 
@@ -273,31 +273,31 @@ sarkalatosnak minősül.
 
 #### 14. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
 
-47. §
+#### 47. §
 
-48. §
+#### 48. §
 
-49. §
+#### 49. §
 
-50. §
+#### 50. §
 
-51. §
+#### 51. §
 
-52. §
+#### 52. §
 
-53. §
+#### 53. §
 
 #### 15. A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény módosítása
 
-54. §
+#### 54. §
 
-55. §
+#### 55. §
 
-56. §
+#### 56. §
 
 #### 16. Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény módosítása
 
-57. §
+#### 57. §
 
 ### 1. melléklet a 2020. évi CLXII. törvényhez
 
