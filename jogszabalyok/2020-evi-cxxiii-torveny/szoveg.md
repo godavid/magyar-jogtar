@@ -297,7 +297,7 @@ tárolja.
 
 (8)
 
-(9) A mezőgazdasági őstermelők, az őstermelők családi gazdaságának, valamint a családi mezőgazdasági társaság nyilvántartásba vételére, adatainak módosítására, nyilvántartásból való törlésére irányuló eljárás 2022. december 31. napjáig nem kezdeményezhető elektronikusan.
+(9)
 
 (10) A termelési tényezők hasznosításából, értékesítéséből származó bevételt 2021. évben – a gazdálkodó döntésének megfelelően – nem kell beleszámítani a kiegészítő tevékenységből, tevékenységekből származó bevételbe.
 

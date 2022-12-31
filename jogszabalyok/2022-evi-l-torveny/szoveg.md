@@ -606,51 +606,28 @@ lép.
 
 189. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény
 
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-10.
-
-11.
-
-12.
-
-13.
-
-14.
-
-15.
-
-16.
-
-17.
-
-18.
-
-19.
-
-20.
-
-21. 343. § (3) bekezdésében a „2023” szövegrész helyébe a „2024” szöveg,
-
-22. 350. § (4) bekezdésében a „2022” szövegrész helyébe a „2023” szöveg
-
-lép.
+- 1.
+- 2.
+- 3.
+- 4.
+- 5.
+- 6.
+- 7.
+- 8.
+- 9.
+- 10.
+- 11.
+- 12.
+- 13.
+- 14.
+- 15.
+- 16.
+- 17.
+- 18.
+- 19.
+- 20.
+- 21.
+- 22.
 
 #### 190. §
 
@@ -716,7 +693,7 @@ lép.
 
 #### 54. A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény módosítása
 
-213. § A veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény 267. §-ában a „2022. december 31-ig” szövegrész helyébe a „2023. december 31-ig” szöveg lép.
+#### 213. §
 
 #### 55. Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény módosítása
 
@@ -730,9 +707,7 @@ lép.
 
 #### 217. §
 
-218. § A Kormányzati Személyügyi Döntéstámogató Rendszerről szóló 2020. évi CLXII. törvény 16. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az 55. § 2024. január 1-jén lép hatályba.”
+#### 218. §
 
 #### 219. §
 
