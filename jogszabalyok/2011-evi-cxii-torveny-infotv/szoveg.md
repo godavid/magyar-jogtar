@@ -702,21 +702,66 @@ az adatkezelő vagy tevékenysége keretei között az adatfeldolgozó – a (2)
 
 (7) A közfeladatot ellátó szerv gazdálkodásának átfogó, számlaszintű, illetve tételes ellenőrzésére irányuló adatmegismerésekre külön törvények rendelkezései irányadók. Erre való hivatkozással az adatkezelő az adatigénylést az igénylés tárgyát képező irat másolata helyett a jogviszony alanyainak, a jogviszony típusának, a jogviszony tárgyának, a szolgáltatás és ellenszolgáltatás mértékének és teljesítése időpontjának megjelölésével is teljesítheti.
 
-31. § (1) Az igénylő a közérdekű adat megismerésére vonatkozó igény elutasítása vagy a teljesítésre nyitva álló, vagy az adatkezelő által a 29. § (2) bekezdése szerint meghosszabbított határidő eredménytelen eltelte esetén, valamint az adatigénylés teljesítéséért megállapított költségtérítés összegének felülvizsgálata érdekében bírósághoz fordulhat.
+#### 21/A. A közérdekű adat megismerésére irányuló igénnyel összefüggésben indítható per
+
+31. § (1) Az igénylő a közérdekű adat megismerésére vonatkozó igény elutasítása vagy a teljesítésre nyitva álló, vagy az adatkezelő által a 29. § (2) bekezdése szerint meghosszabbított határidő eredménytelen eltelte esetén, valamint az adatigénylés teljesítéséért megállapított költségtérítés összegének felülvizsgálata érdekében bírósághoz fordulhat (az ezen alcím alkalmazásában a továbbiakban: per) azzal, hogy a perben a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) rendelkezéseit az ezen alcímben meghatározott eltérésekkel kell alkalmazni..
 
 (2) A megtagadás jogszerűségét és a megtagadás indokait, illetve az adatigénylés teljesítéséért megállapított költségtérítés összegének megalapozottságát az adatkezelőnek kell bizonyítania.
 
 (3) A pert az igény elutasításának közlésétől, a határidő eredménytelen elteltétől, illetve a költségtérítés megfizetésére vonatkozó határidő lejártától számított harminc napon belül kell megindítani az igényt elutasító közfeladatot ellátó szerv ellen. Ha az igény elutasítása, nem teljesítése vagy az adatigénylés teljesítéséért megállapított költségtérítés összege miatt az igénylő a Hatóság vizsgálatának kezdeményezése érdekében a Hatóságnál bejelentést tesz, a pert a bejelentés érdemi vizsgálatának elutasításáról, a vizsgálat megszüntetéséről, az 55. § (1) bekezdés b) pontja szerinti lezárásáról szóló vagy az 58. § (3) bekezdése szerinti értesítés kézhezvételét követő harminc napon belül lehet megindítani. A perindításra rendelkezésre álló határidő elmulasztása esetén igazolásnak van helye.
 
-(4) A perben fél lehet az is, akinek egyébként nincs perbeli jogképessége. A perbe a Hatóság az igénylő pernyertessége érdekében beavatkozhat.
+(4) A perben fél lehet az is, akinek egyébként nincs perbeli jogképessége. A perbe a Hatóság az igénylő, az üzleti titok vagy törvényben meghatározott más titok jogosultja az adatkezelő pernyertessége érdekében beavatkozhat.
 
 (5) Az országos illetékességű közfeladatot ellátó szerv ellen indult per kivételével a per a járásbíróság hatáskörébe tartozik, és arra a törvényszék székhelyén lévő járásbíróság, Budapesten a Pesti Központi Kerületi Bíróság illetékes. A bíróság illetékességét az alperes közfeladatot ellátó szerv székhelye alapítja meg.
 
-(6) A bíróság soron kívül jár el.
+(6) A bíróság a per minden szakaszában – ideértve a felülvizsgálati eljárást is – soron kívül jár el.
 
 (6a) Ha a közérdekű adat megismerése iránti igény teljesítését az adatkezelő a 27. § (1) bekezdése alapján tagadja meg, és az adatot igénylő a közérdekű adat megismerésére vonatkozó igény elutasítása felülvizsgálatának érdekében az (1) bekezdésben meghatározottak alapján bírósághoz fordul, a bíróság a Hatóság titokfelügyeleti hatósági eljárását kezdeményezi, egyidejűleg a peres eljárást felfüggeszti. A titokfelügyeleti hatósági eljárást kezdeményező és az eljárást felfüggesztő végzés ellen nincs helye külön fellebbezésnek.
 
 (7) Ha a bíróság a közérdekű adat igénylésére irányuló kérelemnek helyt ad, határozatában az adatkezelőt – az adatigénylés teljesítésére rendelkezésre álló határidő meghatározásával – a kért közérdekű adat közlésére kötelezi. A bíróság az adatigénylés teljesítéséért megállapított költségtérítés összegét megváltoztathatja, vagy a közfeladatot ellátó szervet a költségtérítés összegének megállapítása tekintetében új eljárásra kötelezheti.
+
+31/A. § (1) Ha a keresetlevél perfelvételre alkalmas, a bíróság legkésőbb a keresetlevél előterjesztésétől számított tizenötödik napra kitűzi a perfelvételi tárgyalást, amelyre a feleket idézi. Ha a keresetlevél csak a bíróság intézkedését követően válik tárgyalásra alkalmassá, a tárgyalás kitűzésére előírt határidő kezdő időpontját ettől az időponttól kell számítani. A tárgyalási időköz legalább három munkanap.
+
+(2) A bíróság a perfelvételi tárgyalásra történő idézéssel egyidejűleg közli a keresetet az alperessel és felhívja a feleket, hogy az ügyre vonatkozó valamennyi okiratot és egyéb bizonyítási eszközt a tárgyalásra hozzák magukkal, az alperest pedig arra is, hogy a keresetre a tárgyaláson adja elő az írásbeli ellenkérelemnek megfelelő tartalmú nyilatkozatát.
+
+(3) Az alperes a keresetlevél kézbesítésétől számított három munkanapon belül, de legkésőbb a perfelvételi tárgyalás határnapját megelőző három nappal korábban írásbeli ellenkérelmet nyújthat be. Ezzel egyidejűleg az alperes az írásbeli ellenkérelmet tájékoztatás céljából – ha az számára ismert – a felperes elektronikus levélcímére is megküldi, és a megküldés tényét a bíróság számára valószínűsíti. Az e rendelkezések megsértésével teljesített perbeli cselekmények hatálytalanok.
+
+(4) Ha a perfelvételi tárgyalást az alperes elmulasztotta és írásbeli védekezést sem terjesztett elő, a keresetet nem vitatottnak kell tekinteni és a bíróság a perfelvétel lezárását követően ítéletével marasztalja az alperest, kivéve, ha az eljárás megszüntetésének van helye. Ha a jelen lévő alperes korábban írásbeli ellenkérelmet nem terjesztett elő, azt legkésőbb a perfelvételi tárgyaláson szóban köteles előadni.
+
+(5) A perfelvételi tárgyaláson a perfelvétel folytatása akkor rendelhető el, ha a perfelvétel lezárásának elháríthatatlan eljárásjogi vagy a bíróság, illetve a fél körülményeiben, működésében rejlő objektív akadálya van. A folytatólagos perfelvételi tárgyalás időpontját tizenöt napon belüli határnapra kell kitűzni.
+
+31/B. § (1) A bíróság a perfelvételt lezáró végzés meghozatalát követően nyomban megtartja az érdemi tárgyalást. Bizonyítás felvételének csak olyan bizonyítékokra vonatkozóan van helye, amelyek a tárgyaláson rendelkezésre állnak, vagy amelyeket a felek legkésőbb a perfelvételt lezáró végzés meghozataláig felajánlottak. A perben utólagos bizonyításnak nincs helye.
+
+(2) Az érdemi tárgyalást akkor lehet elhalasztani, ha
+
+- a) ezt valamely fél kéri és a már feltárt bizonyítékokkal vagy egyéb módon valószínűsíti, hogy az általa felajánlott bizonyítás alkalmas és eredményes lehet a keresetben, illetve védekezésben előadottak igazolására vagy cáfolatára, vagy
+- b) az elrendelt bizonyítás lefolytatásának a fél körülményein kívül eső akadálya van és a bizonyítást indítványozó fél a bizonyítás lefolytatását továbbra is kéri; a távol lévő fél e nyilatkozatának beszerzése érdekében a tárgyalás elhalasztásának nincs helye.
+
+(3) A (2) bekezdésben meghatározott feltételek hiányában a bíróság a bizonyítás elrendelését, illetve lefolytatását mellőzi.
+
+(4) Az érdemi tárgyalás elhalasztása esetén a folytatólagos érdemi tárgyalást – ha ezt az ügy körülményei nem zárják ki – az elhalasztott tárgyalás határnapját követő tizenöt napon belüli határnapra kell kitűzni.
+
+(5) Ha a folytatólagos érdemi tárgyalást valamennyi fél elmulasztja, vagy a tárgyalást el nem mulasztó fél a tárgyalás megtartását nem kéri, és a mulasztó fél egyik esetben sem kérte előzőleg a tárgyalás távollétében történő megtartását, az eljárás szünetelésének nincs helye, a bíróság az eljárást hivatalból megszünteti.
+
+31/C. § (1) A perben
+
+- a) igazolásnak – a 31. § (3) bekezdésében meghatározott esetet kivéve –,
+- b) viszontkeresetnek,
+- c) a felek megegyezésén alapuló szünetelésnek,
+- d) felfüggesztésnek – a 31. § (6a) bekezdésében, valamint a Pp. 126. §-ában meghatározott eseteket kivéve –,
+- e) bírósági meghagyás kibocsátásának,
+- f) keresetkiterjesztésnek, és
+- g) beavatkozásnak – a 31. § (4) bekezdésében meghatározott esetet kivéve –
+
+nincs helye.
+
+(2) A perben a polgári perrendtartásról szóló 2016. évi CXXX. törvény 121. § (1) bekezdés c)–f) pontjában meghatározott esetekben a szünetelés tartama legfeljebb egy hónap.
+
+(3) A bíróság az ítéletét annak meghozatalától és kihirdetésétől számított tizenöt napon belül írásba foglalja, az ítélet meghozatalát és kihirdetését legfeljebb tizenöt napra halaszthatja el.
+
+(4) A másodfokú bíróság a fellebbezést legkésőbb az iratok beérkezésétől számított tizenöt napon belül köteles elbírálni. A fellebbező fél ellenfele a fellebbezés kézbesítésétől számított három napon belül kérheti tárgyalás tartását, és öt napon belül köteles előterjeszteni írásban a fellebbezési ellenkérelmet és az esetleges csatlakozó fellebbezést.
+
+(5) A Kúria a felülvizsgálati kérelmet legkésőbb az iratok beérkezésétől számított hatvan napon belül köteles elbírálni.
 
 ### IV. Fejezet — A KÖZÉRDEKŰ ADATOK KÖZZÉTÉTELE
 
@@ -1598,6 +1643,8 @@ az e fejezetben meghatározott eltérésekkel kell alkalmazni.
 75/D. § A felület üzemeltetője legkésőbb 2022. december 31-ig a felületet létrehozza, valamint közzéteszi a felületen történő közzétételhez szükséges adatlapot. A felületen közzétételre kötelezettek a 37/C. § (2) bekezdése szerinti adatokat a felületen folyamatosan, de első alkalommal legkésőbb 2023. február 28-ig teszik közzé.
 
 75/E. § A 37/C. § (3) bekezdés b) pont bb) alpontja tekintetében a Kbt. szerinti nemzeti értékhatárt meg nem haladó beszerzések esetén az európai uniós forrás felhasználásának tényét a 2023. március 31-én vagy azt követően megvalósított beszerzések esetén kell megjelölni.
+
+75/F. § Az Európai Bizottsággal való megegyezés érdekében az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény módosításáról szóló 2022. évi XL. törvénnyel megállapított 31. § (1), (4) és (6) bekezdését, valamint 31/A–31/C. §-át a 2022. december 31-én vagy azt követően benyújtott közérdekű adat megismerésére irányuló igényekre kell alkalmazni.
 
 76. § E törvény V. Fejezete és 75/B–75/C. §-a az Alaptörvény VI. cikk (4) bekezdése alapján sarkalatosnak minősül.
 
