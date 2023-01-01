@@ -490,7 +490,7 @@ köteles e tevékenység folytatására irányuló szándékát az élelmiszerl�
 - k) kinevezi, illetve felmenti a közvetlen irányítása alá tartozó országos főállatorvost és annak helyettesét;
 - l) az országos főállatorvos útján ellátja az élelmiszerlánc-felügyeleti szerv szakmai irányítását, amelynek keretében közvetlen szakmai utasítást adhat az élelmiszerlánc-felügyeleti szervek részére hatósági eljárás lefolytatására
   - la) járványos állat- vagy növénybetegség megjelenése, valamint
-  - lb) nagy egészségügyi kockázattal járó, nagy gazdasági kárral fenyegető, több megye területét érintő vagy Magyarország területén kívüli hatással is bíró élelmiszerlánc-esemény
+  - lb) nagy egészségügyi kockázattal járó, nagy gazdasági kárral fenyegető, több vármegye területét érintő vagy Magyarország területén kívüli hatással is bíró élelmiszerlánc-esemény
 
 esetén.
 
@@ -587,7 +587,7 @@ esetén.
 
 (4a) A 17. § (4) bekezdésében foglalt kötelezettséggel összefüggésben tett közérdekű bejelentés esetében 5 napon belül kell a helyszíni ellenőrzést lefolytatni és a közérdekű bejelentést elbírálni.
 
-(5) Az élelmiszerlánc-felügyeleti szerv országos hatáskörben a több megyét érintő vagy nemzetközi vonatkozásokkal bíró, a nagy gazdasági kárral járó, a fogyasztók széles körét veszélyeztető, élelmiszerlánc-események kivizsgálása, valamint az élelmiszerlánc-felügyeleti díj megfizetésének ellenőrzése során
+(5) Az élelmiszerlánc-felügyeleti szerv országos hatáskörben a több vármegyét érintő vagy nemzetközi vonatkozásokkal bíró, a nagy gazdasági kárral járó, a fogyasztók széles körét veszélyeztető, élelmiszerlánc-események kivizsgálása, valamint az élelmiszerlánc-felügyeleti díj megfizetésének ellenőrzése során
 
 - a) ellenőrzi a kockázatbecslés alapján kiemelten kockázatosnak minősített, élelmiszerláncot érintő tevékenységet végzőket, és azok létesítményeit;
 - b) ellenőrzi e törvény és a végrehajtására kiadott jogszabályok előírásainak betartását;
@@ -809,6 +809,8 @@ esetén.
 
 (8) A tanúsító szervezet az általa vezetett ökológiai termeléssel összefüggő nyilvántartásból – a tanúsítási rendszerében részt vevő gazdasági szereplővel, a szerződéskötéssel, a gazdasági szereplők ellenőrzésének és tanúsításának folyamatával, valamint az 10/A. § szerinti tanúsítványokkal kapcsolatban – az élelmiszerlánc-felügyeleti szerv részére az e törvényben meghatározott feladatok ellátása céljából e törvény végrehajtására kiadott rendeletben meghatározottak szerint köteles adatot szolgáltatni.
 
+(9) Az élelmiszerlánc-felügyeleti szerv nem állapít meg FELIR azonosítót az ügyfél számára arra a tevékenységre vonatkozóan, amelyet az agrárgazdaságok átadásáról szóló 2021. évi CXLIII. törvényben meghatározott gazdaságátadási szerződéshez kapcsolódó kérelem alapján törölt.
+
 ### Az élelmiszerlánc-felügyeleti információs rendszer
 
 38/A. § (1) Az élelmiszerlánc-felügyelet megalapozott irányítása, valamint az Európai Unió követelményeinek teljesítése érdekében az élelmiszerlánc-felügyeleti szerv létrehozza és működteti a FELIR-t.
@@ -997,7 +999,7 @@ az élelmiszerlánc-felügyeleti szervhez nyilvántartásba vétel céljából b
 
 ### A Helyi Járványvédelmi Központ hatásköre és feladatai
 
-38/F. § (1) Állatjárvány kitörése vagy annak gyanúja esetén az országos főállatorvos a kitörés helye szerint illetékes élelmiszerlánc-felügyeleti szerven belül – a járvány elfojtásának idejére – elrendelheti Helyi Járványvédelmi Központ létrehozását. A Helyi Járványvédelmi Központ illetékessége az érintett megye teljes területére kiterjed. A Helyi Járványvédelmi Központ vezetőjét a főispán nevezi ki.
+38/F. § (1) Állatjárvány kitörése vagy annak gyanúja esetén az országos főállatorvos a kitörés helye szerint illetékes élelmiszerlánc-felügyeleti szerven belül – a járvány elfojtásának idejére – elrendelheti Helyi Járványvédelmi Központ létrehozását. A Helyi Járványvédelmi Központ illetékessége az érintett vármegye teljes területére kiterjed. A Helyi Járványvédelmi Központ vezetőjét a főispán nevezi ki.
 
 (2) A Helyi Járványvédelmi Központ
 

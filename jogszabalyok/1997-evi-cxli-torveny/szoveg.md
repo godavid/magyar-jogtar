@@ -187,20 +187,20 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 - 5. telekalakítási eljárás megindítása,
 - 6. felmérési, térképezési és területszámítási hiba kijavítására irányuló eljárás megindítása,
 - 7. földminősítési eljárás megindítása,
-- 8. az ingatlanügyi hatósági határozat elleni 8.1. jogorvoslati kérelem, 8.2. ügyészi felhívás benyújtása, 8.3. ügyészi fellépés benyújtása, 8.4. felügyeleti eljárás megindítása,
+- 8. az ingatlanügyi hatósági határozat elleni 8.1. jogorvoslati kérelem benyújtása, 8.2. ügyészi felhívás benyújtása, 8.3. ügyészi fellépés benyújtása, 8.4. felügyeleti eljárás megindítása,
 - 9. a bejegyzés, a feljegyzés és az adatváltozás átvezetése alapjául szolgáló vagy azzal kapcsolatos bírósági határozat elleni felülvizsgálati, illetve perújítási kérelem benyújtása,
 - 10. az ingatlan jogi jellege,
 - 11. a bejegyzés, a feljegyzés és az adatváltozás átvezetése iránti kérelem vagy megkeresés elutasítása,
 - 12. épület 12.1. létesítése, 12.2. lebontása,
 - 13. az ingatlan-nyilvántartási eljárás felfüggesztése,
-- 14. végleges hatósági vagy jogerős bírósági határozattal megállapított tartós környezetkárosodás ténye, mértéke és jellege,
+- 14. végleges hatósági vagy jogerős bírósági határozattal megállapított tartós környezetkárosodás ténye, mértéke és jellege, környezeti teher ténye és jellege,
 - 15. bírósági ítéleten alapuló tulajdoni korlátozás,
-- 16. bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelése, valamint egyéb építésügyi korlátozás, az épített környezet alakításáról és védelméről szóló törvényben meghatározott építésügyi kötelezés, valamint önkormányzati hatósági döntésen, vagy hatósági szerződésen alapuló településrendezési kötelezettség ténye,
+- 16. bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelése, valamint egyéb építésügyi korlátozás, az épített környezet alakításáról és védelméről szóló törvényben meghatározott építésügyi kötelezés, valamit önkormányzati hatósági döntésen, vagy hatósági szerződésen alapuló településrendezési kötelezettség ténye,
 - 17. szerződésen, végintézkedésen, bírósági vagy hatósági határozaton alapuló 17.1. elidegenítési és terhelési tilalom, 17.2. elidegenítési tilalom, 17.3. a rendelkezési jogot korlátozó egyéb tilalom,
-- 18. az e törvényben meghatározott 18.1. perek megindítása, 18.2. büntetőeljárás megindítása,
+- 18. az e törvényben meghatározott 18.1. perek, 18.2. büntetőeljárás megindítása,
 - 19. árverés vagy nyilvános pályázat kitűzése,
 - 20. a zárlat, a zár alá vétel, a zárlat az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására,
-- 21. a tulajdonjog fenntartással történt eladás,
+- 21. a tulajdonjog-fenntartással történt eladás,
 - 22. a jelzálogjog (önálló zálogjog) ranghelyének előzetes biztosítása,
 - 23. lemondás jelzálogjog előzetesen biztosított ranghelyével való rendelkezés jogáról,
 - 24. a ranghely megváltoztatása,
@@ -214,9 +214,9 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 - 32. történelmi emlékhely,
 - 33. a jogosult természetes személlyel szemben megindított adósságrendezési eljárás,
 - 34. az eljárás megszüntetésének ténye,
-- 35. a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvény szerint folyamatban lévő megosztás,
+- 35. a 2020. évi LXXI. törvény szerint folyamatban lévő megosztás,
 - 36. A fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet hatálya alá eső, az adós ellen indított fizetésképtelenségi eljárás ténye,
-- 37. törölt haszonélvezeti jog visszajegyezhetőségének vizsgálatára irányuló eljárás megindítása.
+- 37. folyamatban levő gazdaságátadás.
 
 (2) Az (1) bekezdés 1–14. és 31–37. pontjában meghatározott tények feljegyzésének elmaradása az egyébként azokhoz fűződő joghatásokat nem érinti, a Ptk.-nak a feljegyzés visszamenőleges hatályára vonatkozó rendelkezését ennek megfelelően kell alkalmazni. A 15–30. pontokban meghatározott tények feljegyzésének elmaradása esetén a jogosult azokat nem érvényesítheti a jóhiszemű és ellenérték fejében szerző harmadik jogszerzővel szemben.
 
@@ -266,7 +266,7 @@ ha azok tulajdoni viszonyai a földrészlettel azonosak.
 
 (3) A település belterületének 1 ha-t meg nem haladó földrészletét – a fő hasznosítási módra tekintet nélkül – művelés alól kivett területként kell nyilvántartani.
 
-(4) A mező- és erdőgazdasági művelés alatt álló vagy arra alkalmas, illetve alkalmassá tett terület művelési ágát, valamint minőségét földminősítési eljárás lefolytatásával kell megállapítani. Az ingatlan-nyilvántartásban a föld minőségeként a minőségi osztályt és az annak megfelelő kataszteri tiszta jövedelmet kell feltüntetni.
+(4) Az erdő kivételével a mező- és erdőgazdasági művelés alatt álló vagy arra alkalmas, illetve alkalmassá tett terület művelési ágát, valamint minőségét földminősítési eljárás lefolytatásával kell megállapítani. Az ingatlan-nyilvántartásban a föld minőségeként a minőségi osztályt és az annak megfelelő kataszteri tiszta jövedelmet kell feltüntetni.
 
 (5)
 
@@ -1009,19 +1009,19 @@ bejegyzésével egyidejűleg.
 
 (3) Az integrált ügyfélszolgálat (a továbbiakban: kormányablak) külön jogszabályban meghatározottak szerint hiteles tulajdonilap-másolatot adhat ki.
 
-(4) A tulajdoni lapról kiállított papíralapú másolat csak hiteles másolatként szolgáltatható. Elektronikus dokumentumként hiteles és nem hiteles másolat közvetlenül, illetve a Kormány által biztosított azonosítási szolgáltatáson keresztül a számítógépes ingatlan-nyilvántartási rendszerből szolgáltatható.
+(4) A tulajdoni lapról kiállított papíralapú másolat csak hiteles másolatként szolgáltatható. Elektronikus dokumentumként hiteles másolat közvetlenül, illetve a Kormány által biztosított azonosítási szolgáltatáson keresztül a számítógépes ingatlan-nyilvántartási rendszerből szolgáltatható.
 
 (5) Tulajdoni lapról másolatot meghatározott formában lehet kiadni. Ha a hiteles tulajdonilap-másolat szolgáltatása elektronikus dokumentumként történik, e tényre a hitelesítési záradékban utalni kell.
 
 (6) A tulajdoni lapról elektronikus formában szolgáltatott hiteles másolat olyan elektronikus okirat, amelyet hitelesítési záradékkal láttak el, és amelyet a földmérési és térinformatikai államigazgatási szerv legalább fokozott biztonságú elektronikus bélyegzővel és időbélyegzővel hitelesített. Az ilyen módon hitelesített tulajdoni lap kizárólag elektronikus formában rendelkezik a 69. § szerinti tanúsító erővel.
 
-(6a) A tulajdoni lapról elektronikus formában szolgáltatott nem hiteles másolat, valamint a tulajdoni lapról részadat-szolgáltatás formájában szolgáltatott adat a 69. § szerinti tanúsító erővel nem rendelkezik, hivatalos célra nem használható, kizárólag tájékoztatásul szolgál.
+(6a) A tulajdoni lapról részadat-szolgáltatás formájában szolgáltatott adat a 69. § szerinti tanúsító erővel nem rendelkezik, hivatalos célra nem használható, kizárólag tájékoztatásul szolgál.
 
 (6b) A tulajdoni lapról részadat-szolgáltatás formájában szolgáltatott adatok tanúsító erővel nem rendelkeznek, kizárólag tájékoztatásul szolgálnak.
 
 (7) A 67. § (1) bekezdés, valamint a 68. § (1), (3)–(4) bekezdések szerinti kérelmet a miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott nyomtatványon, illetve elektronikus űrlapon kell benyújtani.
 
-(7a) Az ingatlanügyi hatóság a tulajdoni lapról elektronikus dokumentumként szolgáltatott hiteles és nem hiteles tulajdonilap-másolat szolgáltatás teljesítése során az automatikus döntéshozatali eljárás szabályai szerint jár el.
+(7a) Az ingatlanügyi hatóság a tulajdoni lapról elektronikus dokumentumként szolgáltatott hiteles tulajdonilap-másolat szolgáltatás teljesítése során az automatikus döntéshozatali eljárás szabályai szerint jár el.
 
 (8) Az állami ingatlan-nyilvántartási térképi adatbázis tartalmáról másolatot készíteni és szolgáltatni külön jogszabály rendelkezései szerint lehet.
 
@@ -1170,7 +1170,7 @@ a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásait.
 
 ### Összesítők
 
-83. § A település, a megye, a főváros, illetőleg az ország területén lévő ingatlanokról meghatározott szempontok szerint a számítógéppel vezetett ingatlan-nyilvántartás tartalmát képező adatok felhasználásával összesített adatokat tartalmazó kimutatás készíthető.
+83. § A település, a vármegye, a főváros, illetőleg az ország területén lévő ingatlanokról meghatározott szempontok szerint a számítógéppel vezetett ingatlan-nyilvántartás tartalmát képező adatok felhasználásával összesített adatokat tartalmazó kimutatás készíthető.
 
 ### VII. Fejezet — KÜLÖNLEGES ELJÁRÁSOK
 

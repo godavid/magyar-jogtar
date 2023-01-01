@@ -14,7 +14,7 @@ Az Országgyűlés a mezőgazdasági termelést érintő időjárási és más t
   - a) a lehullott csapadék összes mennyisége a tíz millimétert nem éri el, vagy
   - b) a lehullott csapadék összes mennyisége a huszonöt millimétert nem éri el és a napi maximum hőmérséklet legalább tizenöt napon meghaladja a 31 °C-ot;
 - 2. aszálykár: a kockázatviselés helyén termesztett növényekben az aszály miatt bekövetkezett olyan káresemény, amely a növénykultúrában hozamcsökkenést okoz;
-- 2a. átlaghozam: a termelő saját hozamadata hiányában alkalmazott, az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium internetes honlapján közzétett közleményben, adott növénykultúrára és adott évre vonatkozóan meghatározott megyei – ennek hiányában országos – átlagos hozamadat;
+- 2a. átlaghozam: a termelő saját hozamadata hiányában alkalmazott, az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium internetes honlapján közzétett közleményben, adott növénykultúrára és adott évre vonatkozóan meghatározott vármegyei – ennek hiányában országos – átlagos hozamadat;
 - 3. belvíz: a medrükben maradt folyók, patakok, valamint a felszíni vizek elvezetésére szolgáló mesterséges, nyílt csatornák magas vízállásából eredő átszivárgások, buzgárok, talajvízszint-emelkedés, valamint a lefolyástalan vagy nem kellően kiépített vízelvezető művekkel rendelkező területek csapadékvizeiből származó felszíni vízborítás;
 - 4. belvízkár: a kockázatviselés helyén termesztett növényekben a belvíz miatt bekövetkezett olyan káresemény, amely a növénykultúrában hozamcsökkenést okoz;
 - 5. biztosító: az a szervezet, amely a hatályos magyar jogi szabályozás, illetve valamely hatályos tagállami szabályozás szerint biztosítási és azzal közvetlenül összefüggő tevékenységre jogosult;
@@ -385,7 +385,7 @@ céljából.
 
 (8) Az ország egész területét lefedő jégkármegelőző rendszer teljes kiépítéséig a jégkármegelőző rendszer tárgyévi működtetésére legfeljebb a (2) bekezdésben meghatározott pénzösszeg arányos része használható fel.
 
-(9) A (8) bekezdés szerinti arányszám meghatározásánál a mezőgazdasági termelők által az országos jégkármegelőző rendszerrel lefedett megyékben megfizetett kárenyhítési hozzájárulást kell az ország egésze vonatkozásában megfizetett kárenyhítési hozzájáruláshoz viszonyítani.
+(9) A (8) bekezdés szerinti arányszám meghatározásánál a mezőgazdasági termelők által az országos jégkármegelőző rendszerrel lefedett vármegyékben megfizetett kárenyhítési hozzájárulást kell az ország egésze vonatkozásában megfizetett kárenyhítési hozzájáruláshoz viszonyítani.
 
 (10) Az országos jégkármegelőző rendszernek a létrehozására irányuló tevékenység – így különösen a tervezés és a kivitelezés – közfeladatnak minősül, amennyiben ezt a tevékenységet a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § 1. pontjának a) alpontja szerinti átlátható szervezet végzi.
 

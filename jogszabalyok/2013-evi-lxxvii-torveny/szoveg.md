@@ -56,9 +56,11 @@ szervez.
 - 9. konzultáció: az elsajátítandó ismeret átadását, megerősítését elősegítő, a képzésben részt vevő személy vagy csoport és az oktató, tutor közötti megbeszélés, amely interaktív és távolléti kapcsolattal, továbbá zárt rendszerű távoktatási képzésmenedzsment rendszerrel is megvalósulhat,
 - 9a. nemzetgazdasági szempontból kiemelt jelentőségű képzés: országos vagy helyi kiterjedésű, kiemelt jelentőségű munkaerő-piaci cél megvalósítása érdekében szervezett és a Kormány rendeletében meghatározott feltételek alapján a Kormány adott ágazatért felelős tagja véleményének kikérésével az iparügyekért felelős miniszter által ilyennek minősített oktatás, képzés,
 - 10. tananyagegység: a képzési program felépítését adó, önálló tartalommal bíró képzési egység,
+- 10a. tanulmányi rendszer: a nemzeti köznevelésről szóló törvény szerinti szakgimnáziumok és szakiskolák a szakképzésről szóló törvény szerinti szakképző intézmények, a nemzeti felsőoktatásról szóló törvény szerinti felsőoktatásai intézmények, valamint e törvény szerinti felnőttképzők által jogszerűen használt olyan oktatási, informatikai rendszer, amely a felnőttképzés adatszolgáltatási rendszerébe (a továbbiakban: FAR) elektronikusan – az adatok elektronikus feldolgozására alkalmas módon – teljesít adatszolgáltatásokat,
 - 11. távoktatás: az oktatásnak az a formája, amelynél a képzésben részt vevő személy a képzési idő több, mint felében egyedül, önállóan, a távoktatási tananyagba épített iránymutatás mellett tanul, a képzési idő kevesebb, mint felében pedig konzultációkon vagy a távoktatás vegyes képzési módszerrel történő megvalósulása (a kontaktórás képzés és a távoktatás módszereinek kombinált alkalmazása) esetén hagyományos tanórákon vesz részt, és az elsajátítási folyamat önálló megvalósításához szükséges tananyaghordozó, felmérő és útmutató anyagokat tartalmazó tanulócsomagot a felnőttképző bocsátja rendelkezésére; a konzultációkon, amelyek a kapcsolattartás bármely formájában – különösen személyes megbeszélés, internet, telefon – megvalósulhatnak, a képzésben részt vevő személy önállóan szerzett ismereteit pontosítják, illetve elmélyítik, a távoktatás minden fázisát infokommunikációs technológiai adathordozók felhasználása is segítheti,
-- 12. zárt rendszerű elektronikus távoktatás: elméleti képzési ismeretanyag oktatását digitális tananyag formájában informatikai hálózaton (internet, intranet) keresztül zárt rendszerű távoktatási képzésmenedzsment rendszerrel megvalósító távoktatási forma, ahol az oktató, az oktatásszervező és a képzésben részt vevő személy közös kommunikációs eszköze a számítógép és az informatikai hálózat, továbbá a zárt rendszerű távoktatási képzésmenedzsment rendszer,
-- 13. zárt rendszerű távoktatási képzésmenedzsment rendszer: a képzésben részt vevő személy képzését tervező, szervező és ellenőrző, a képzéshez szükséges digitális tananyagot, valamint kiegészítő ismeretanyagot a képzési program szerint számára eljuttató (webböngészőben megjelenítő), minősített és tanúsított zárt informatikai rendszer, amely a képzésszervezésen túl adatbázisában manipulálhatatlanul rögzíti, értékeli, valamint a regisztrációs és tanulmányi alaprendszer számára közvetíti a képzésben részt vevő személy képzési programban rögzített előrehaladását, ellenőrző kérdésekre adott válaszait, eredményeit, tevékenységét, végrehajtja – a képzésben részt vevő személy teljesítményének értékelése alapján – a képzési program szerint lehetséges navigációs kéréseit, továbbá biztosítja az oktató, az oktatásszervező és a képzésben részt vevő személy interaktív és távolléti kapcsolattal megvalósuló, teljes értékű együttműködését.
+- 11a. videótartalom-kezelő: a tanulmányi rendszerbe vagy a zárt rendszerű távoktatási képzésmenedzsment-rendszerbe (a továbbiakban együtt: képzési rendszerek) integrált streamelési (streaming) technológiával megvalósított mobil használatra is alkalmas videóplatform, amelyben a felhasználó a képzési rendszereken keresztüli egyéni autentikációval éri el a tantárgyaihoz vagy moduljaihoz tartozó videókönyvtárba szervezett – az oktatót, előadót és a prezentációját is megjelenítő – tartalmakat, továbbá amely lehetőséget biztosít a felhasználónak a videótartalomhoz rögzített egyéni és mentésre kerülő jegyzetelésre és a beállított tartalomjegyzék szerinti navigálásra, videókon belül bármely kimondott vagy megjelenített szóra való keresésre, az előadói és prezentációs nézet együttes vagy külön-külön nézetei közötti szabad váltásra, a kiajánlott nyelveken történő feliratozás előhívására,
+- 12. zárt rendszerű elektronikus távoktatás: a képzés olyan formája, amelyben az elméleti képzési ismeretanyag oktatása digitális tananyaggal, videótartalom-kezelővel, továbbá az oktató és hallgató együttműködése az informatikai hálózaton (internet, intranet) keresztül zárt rendszerű távoktatási képzésmenedzsment-rendszerrel valósul meg, amely során az oktató, az oktatásszervező és a képzésben részt vevő hallgató vagy személy közös kommunikációs eszköze a számítógép és az informatikai hálózat, továbbá a zárt rendszerű távoktatási képzésmenedzsment-rendszer és a tanulmányi rendszer,
+- 13. zárt rendszerű távoktatási képzésmenedzsment rendszer: a képzésben részt vevő személy képzését tervező, szervező és ellenőrző, a képzéshez szükséges digitális tananyagot, videótartalom-kezelő által biztosított tartalmat, valamint kiegészítő ismeretanyagot a képzési program szerint számára eljuttató, webböngészőben megjelenítő, minősített és tanúsított zárt informatikai rendszer, amely a képzésszervezésen túl adatbázisában manipulálhatatlanul rögzíti, értékeli, valamint a tanulmányi rendszer számára közvetíti a képzésben részt vevő személy képzési programban rögzített előrehaladását, ellenőrző kérdésekre adott válaszait, eredményeit, tevékenységét, végrehajtja – a képzésben részt vevő személy teljesítményének értékelése alapján – a képzési program szerint lehetséges navigációs kéréseit, továbbá biztosítja az oktató, az oktatásszervező és a képzésben részt vevő személy interaktív és távolléti kapcsolattal megvalósuló, teljes értékű együttműködését.
 
 ### II. Fejezet — A FELNŐTTKÉPZÉSI TEVÉKENYSÉGHEZ KAPCSOLÓDÓ ELJÁRÁS ÉS INTÉZMÉNYRENDSZER
 
@@ -180,7 +182,7 @@ tartalmazza.
 11. § (1) A felnőttképzőnek, ha felnőttképzési tevékenysége bejelentéshez kötött, a működése során e Fejezet rendelkezései közül az alábbi követelményeknek kell megfelelnie:
 
 - a) a képzésben részt vevő személlyel a 12/A–13/B. § szerint felnőttképzési szerződést kell kötnie, valamint gondoskodnia kell a személyes adatok 21. §-ban foglaltaknak megfelelő kezeléséről,
-- b) eleget kell tennie a felnőttképzés adatszolgáltatási rendszerébe a 15. § alapján történő adatszolgáltatási kötelezettségnek, a 17. § a) pontjában meghatározott tájékoztatási kötelezettségének.
+- b) eleget kell tennie a felnőttképzés adatszolgáltatási rendszerébe a 15. § alapján történő adatszolgáltatási kötelezettségnek, a 17. § a) pontjában meghatározott tájékoztatási kötelezettségének, továbbá hirdetéseinek és tájékoztatóinak meg kell felelnie a 17/A. §-ban foglaltaknak.
 
 (2) A felnőttképzőnek, ha felnőttképzési tevékenysége engedélyhez kötött, a működése során e Fejezet rendelkezései közül az alábbi követelményeknek kell megfelelnie:
 
@@ -191,9 +193,9 @@ tartalmazza.
 kell folytatnia,
 
 - b) a képzésre jelentkező kérésére előzetes tudásmérést kell biztosítania,
-- c) a képzésben részt vevő személlyel a 12/A–13/B. § szerint felnőttképzési szerződést kell kötnie, valamint gondoskodnia kell a személyes adatok 21. §-ban foglaltaknak megfelelő kezeléséről,
+- c) a képzésben részt vevő személlyel a 12/A–13/B. § szerint felnőttképzési szerződést kell kötnie, a képzés elvégzésének igazolására tanúsítványt kell kiállítania,, valamint gondoskodnia kell a személyes adatok 21. §-ban foglaltaknak megfelelő kezeléséről,
 - d) a 14. § szerinti minőségirányítási rendszert és annak részeként ügyfélszolgálati, panaszkezelési és oktatói minősítési rendszert kell működtetnie és gondoskodnia kell a minőségirányítási rendszer külső értékeléséről,
-- e) eleget kell tennie a 17. §-ban meghatározott tájékoztatási kötelezettségének,
+- e) eleget kell tennie a 17. §-ban meghatározott tájékoztatási kötelezettségének, továbbá hirdetéseinek és tájékoztatóinak meg kell felelnie a 17/A. §-ban foglaltaknak,
 - f) vezetnie kell a képzés megvalósításával összefüggésben a 16. §-ban meghatározott dokumentumokat,
 - g) eleget kell tennie a felnőttképzés adatszolgáltatási rendszerébe a 15. § és a 15/A. § alapján történő adatszolgáltatási kötelezettségnek.
 
@@ -236,9 +238,17 @@ kell folytatnia,
 - b) a képzésben részt vevő személy fizetési hátralékát a felnőttképző felszólítása ellenére sem teljesíti vagy
 - c) a képzésben részt vevő személy a kontaktórákról a képzési programban meghatározott időnél igazolatlanul többet mulasztott.
 
-13/B. § (1) A belső képzés kivételével a felnőttképző a képzés elvégzésének igazolására a felnőttképzés adatszolgáltatási rendszerében tanúsítványt állít ki és azt a képzésben részt vevő személy választása szerint elektronikus úton vagy papíralapon a képzésben részt vevő személy rendelkezésére bocsátja. A bejelentéshez kötött felnőttképzési tevékenység esetén a tanúsítványt a képzésben részt vevő személy kérésére kell kiállítani.
+13/B. § (1) A belső képzés kivételével a felnőttképző a képzés elvégzésének igazolására a felnőttképzés adatszolgáltatási rendszerében tanúsítványt állít ki és azt a képzésben részt vevő személy választása szerint elektronikus úton vagy papíralapon a képzésben részt vevő személy rendelkezésére bocsátja. A bejelentéshez kötött felnőttképzési tevékenység esetén – ide nem értve a szakképző intézmény 2/A. § (3) bekezdés szerinti felnőttképzési tevékenységét – a tanúsítványt a képzésben részt vevő személy kérésére kell kiállítani.
 
 (2) A tanúsítvány, ha a képzéshez jogszabályban meghatározottak szerint vizsga kapcsolódik, a vizsgára jelentkezés feltétele.
+
+13/C. § (1) A nemzeti felsőoktatásról szóló törvény szerinti felsőoktatási intézmény a felsőoktatási intézmény bármely tantárgyának, kurzusának, moduljának elvégzését követően a tanulási eredmény igazolására szolgáló, tárgyleírást, tematikát is tartalmazó mikrotanúsítványt állíthat ki a nemzeti felsőoktatásról szóló törvényben meghatározott feltételek alapján.
+
+(2) A szakképzésről szóló törvény szerinti szakképző intézmény a szakképzésről szóló törvény szerinti szakmai oktatás keretében megszerzett ismeretekről, készségekről a szakképzésről szóló törvényben meghatározott módon, tartalommal és feltételek alapján mikrotanúsítványt állíthat ki.
+
+(3) A mikrotanúsítvány közokirat. E törvény alkalmazásában a mikrotanúsítvány elnevezéssel megegyező a „kredit igazolás” és a „micro-credentials” kifejezés.
+
+(4) A mikrotanúsítványt a kiállítója által használt tanulmányi rendszerben elektronikusan kell kiállítani, tárolni és a FAR-ba – az adatok elektronikus feldolgozására alkalmas módon – elektronikusan feltölteni, továbbá a mikrotanúsítvány kiállítója által elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja.
 
 #### 8. Minőségirányítási rendszer
 
@@ -278,7 +288,7 @@ térítésmentesen és elektronikus úton a felnőttképzés adatszolgáltatási
 
 (5) A felnőttképző a tervezett képzéseiről – a képzés indítását legalább harminc nappal megelőzően – önkéntes adatszolgáltatást teljesíthet a felnőttképzési államigazgatási szerv részére elektronikus úton. A felnőttképzési államigazgatási szerv a beérkezett adatokat a képzés iránt érdeklődők tájékoztatása érdekében a honlapján közzéteszi. A felnőttképzési államigazgatási szerv a határidőn túl beérkezett adatokat nem köteles közzétenni.
 
-15/A. § A felnőttképző az általa szervezett oktatásra, képzésre vonatkozóan kidolgozott és felnőttképzési szakértő által előzetesen minősített képzési programját a felnőttképzés adatszolgáltatási rendszerébe feltölti.
+15/A. § A felnőttképző az általa szervezett oktatásra, képzésre vonatkozóan kidolgozott és felnőttképzési szakértő által előzetesen minősített képzési programját, a képzési program előzetes minősítését elkészítő felnőttképzési szakértő nevét, a felnőttképzési szakértő felnőttképzési szakértői nyilvántartásban szereplő nyilvántartásba vételi számát és a képzési program előzetes minősítésének időpontját a felnőttképzés adatszolgáltatási rendszerébe feltölti.
 
 15/B. § A felnőttképző a közvetlenül a számára rendelkezésére bocsátott képzési hitelhez kapcsolódóan a képzési hitel folyósítása céljából a fizetési számlájának számát rögzíti a felnőttképzés adatszolgáltatási rendszerébe.
 
@@ -286,7 +296,7 @@ térítésmentesen és elektronikus úton a felnőttképzés adatszolgáltatási
 
 16. § A felnőttképzőnek az alábbi dokumentumokat kell vezetnie, nyilvántartania és – a felnőttképzési államigazgatási szerv ellenőrzési jogköre gyakorlásának biztosítása érdekében – annak keletkezésétől számított nyolcadik év utolsó napjáig megőriznie:
 
-- a) a kontaktórákon vezetett, a képzésben részt vevő személy által aláírt jelenléti íveket, valamint a képzésben résztvevővel elektronikus úton folytatott szakmai felkészítést, ellenőrzést igazoló dokumentumokat,
+- a) a személyes jelenlétet igénylő kontaktórákon vezetett, a képzésben részt vevő személy által aláírt jelenléti íveket, a személyes jelenlétet nem igénylő kontaktórás és nem kontaktórás foglalkozások esetében a jelenlétet, a képzési tevékenység teljesítését igazoló dokumentumokat,
 - b) a képzésben részt vevő személy 21. § (1) bekezdése alapján kezelt személyes adatait, valamint az oktatás, képzés megkezdéséhez és az abban való részvételhez szükséges feltételeket igazoló eredeti dokumentumokat vagy azoknak a felnőttképző által hitelesített másolatait, továbbá a bemeneti kompetenciamérést és az előzetes tudásmérést igazoló dokumentumokat,
 - c) a felnőttképzési szerződést, a képzési programot, a képzésnek a képzési program szerinti megvalósítását igazoló dokumentumokat,
 - d)
@@ -302,7 +312,12 @@ térítésmentesen és elektronikus úton a felnőttképzés adatszolgáltatási
 - b) a felnőttképzési tevékenységére vonatkozó tájékoztatóhoz, valamint a képzési programhoz való hozzáférést az ügyfelek, a képzésben részt vevő személyek és a felnőttképzésért felelős miniszter részére biztosítani,
 - c)
 
-#### 17/A. §
+17/A. § A felnőttképző
+
+- a) hirdetéseiben és tájékoztatóiban nem használhat olyan elnevezést a képzéseire, amely
+  - aa) megegyezik bármely, a szakképzésről szóló törvény szerinti szakma, részszakma vagy szakképesítés elnevezésével, a 2/A. § (2) bekezdés a) pontjában meghatározott engedély alapján végzett részszakmára felkészítő szakmai oktatás vagy szakmai képzés kivételével,
+  - ab) megegyezik bármely olyan képzés elnevezésével, amelyet kizárólag a szakképzésről szóló törvény szerinti szakképző intézmény, a nemzeti felsőoktatásról szóló törvény szerinti felsőoktatási intézmény vagy a 2. § 5a. pontjában meghatározott jogszabály alapján szervezett oktatás és képzés esetén az érintett jogszabályban meghatározott felnőttképző szervezhet,
+- b) hirdetései és írásbeli vagy szóbeli tájékoztatói nem tartalmazhatnak utalást az a) pontban meghatározott képzéseken megszerezhető végzettségre vagy a képzés elvégzésével betölthető tevékenységre, munkakörre.
 
 #### 17/B. §
 
@@ -415,8 +430,8 @@ kapcsolatosak.
 
 - a) a felnőttképzési tevékenységhez szükséges engedély megszerzésére,
 - b) felnőttképzési tevékenység keretében szervezett képzésre,
-- c) a felnőttképzők technikai feltételei fejlesztésére és
-- d) a nemzetgazdasági szempontból kiemelt jelentőségű képzésre.
+- c) a felnőttképzők technikai feltételei fejlesztésére
+- d) a nemzetgazdasági szempontból kiemelt jelentőségű képzésre és.
 
 24. § A képzésben részt vevő személy az általa megkötött felnőttképzési szerződéshez kapcsolódóan a Kormány rendeletében meghatározottak szerint
 
@@ -558,7 +573,7 @@ vonatkozó részletes szabályokat.
 
 #### 32. §
 
-#### 33. §
+33. § E törvénynek a Módtv3.-mal megállapított 15. § (1) bekezdés d) pontja, 15/A. §-a, 16. § a) pontja, módosított 11. § (1) bekezdés b) pontja és (2) bekezdés e) pontja szerinti rendelkezéseit a Módtv3. hatálybalépésének időpontjában folyamatban levő képzések esetében is alkalmazni kell.
 
 #### 33/A. §
 

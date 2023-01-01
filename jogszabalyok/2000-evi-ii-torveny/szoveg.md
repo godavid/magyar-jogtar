@@ -12,9 +12,9 @@ Az Országgyűlés felismerve, hogy az egészségügyi reform végrehajtása, a 
 - b) orvos: a külön jogszabály szerint vezetett alap- és működési nyilvántartásban szereplő orvosi, fogorvosi szakképesítéssel rendelkező személy;
 - c) praxisjog: az egészségügyi államigazgatási szerv által az a) pont szerinti orvos részére adott önálló orvosi tevékenység nyújtására jogosító engedélyben foglalt jog, amely alapján önálló orvosi tevékenység területi ellátási kötelezettséggel, meghatározott körzetben végezhető.
 
-2. § (1) A háziorvos önálló orvosi tevékenységet – akadályoztatásának jogszabályban meghatározott eseteit kivéve – csak személyesen folytathat az önkormányzat által meghatározott háziorvosi körzetben, a praxisjogot engedélyező határozat véglegessé válásától.
+2. § (1) A háziorvos önálló orvosi tevékenységet – akadályoztatásának jogszabályban meghatározott eseteit kivéve – csak személyesen folytathat a kormányrendeletben meghatározott praxiskezelő (a továbbiakban: praxiskezelő) által megállapított háziorvosi körzetben, a praxisjogot engedélyező határozat véglegessé válásától.
 
-(2) A praxisjog alapján végezhető önálló orvosi tevékenység – törvényben meghatározott kivétellel – csak a települési önkormányzat rendeletében meghatározott háziorvosi körzetben folytatható.
+(2) A praxisjog alapján végezhető önálló orvosi tevékenység – törvényben meghatározott kivétellel – csak a praxiskezelő határozatában megállapított háziorvosi körzetben folytatható.
 
 (3) A praxisjog olyan, személyhez kapcsolódó vagyoni értékű jog, amely jogszabályban meghatározott feltételek fennállása esetén elidegeníthető és folytatható.
 
@@ -45,7 +45,9 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
 
 (11) A praxisjog megszerzéséhez felvett hitelhez, illetve kölcsönhöz az állam – kormányrendeletben meghatározott módon – kamattámogatást biztosít.
 
-2/A. § (1) A praxisjog elidegenítésére vonatkozó szándékát – a praxisjogot megszerezni kívánó orvost is megjelölve – az azt elidegeníteni kívánó személy bejelenti az adott praxisjoggal érintett települési önkormányzatnak.
+2/A. § (1) A praxisjog elidegenítésére vonatkozó szándékát az azt elidegeníteni kívánó személy – ha van a praxisjogot megszerezni kívánó orvos, őt is megjelölve – bejelenti a praxiskezelőnek és az adott praxisjoggal érintett települési önkormányzatnak. Ha a (2) bekezdés b) pontja alapján a települési önkormányzat nem szándékozik a praxisjogot megszerezni kívánó orvossal a 2/B. § szerinti feladat-ellátási szerződést kötni, úgy a települési önkormányzat, valamint a praxiskezelő – az (1a) bekezdésben foglaltak figyelembevételével – jelöl meg más, a praxisjogot megszerezni kívánó orvost.
+
+(1a) A praxiskezelő kizárólag akkor jelölhet az önkormányzat véleményének kikérését követően más orvost, ha azt jogszabályban meghatározott ellátásbiztonsági és gazdaságossági szempontok indokolják és az ezeknek megfelelő orvost az érintett önkormányzat(ok) a javaslattételt követő 6 hónapon belül sem jelöli(k) meg.
 
 (2) Ha az (1) bekezdés szerinti önkormányzat – a praxisjog engedélyezésére jogosult egészségügyi államigazgatási szerv véleményének kikérését követően –
 
@@ -83,15 +85,15 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
 
 (4) A feladat-ellátási szerződésben hat hónapnál rövidebb felmondási idő nem határozható meg.
 
-(5) A körzetmódosítás miatt bekövetkezett, a háziorvost ért kár esetén a települési önkormányzat kártalanítási kötelezettséggel tartozik, amelynek megállapításánál figyelembe kell venni a háziorvosi szolgáltató által a finanszírozása keretében kapott egy éves összeget.
+(5) A körzetmódosítás miatt bekövetkezett, a háziorvost ért kár esetén az adott körzet megállapításáért felelős szerv kártalanítási kötelezettséggel tartozik, amelynek megállapításánál figyelembe kell venni a háziorvosi szolgáltató által a finanszírozása keretében kapott egy éves összeget.
 
 (6) A feladat-ellátási szerződést a feladatot ellátó háziorvosi szolgáltató is megkötheti.
 
-(7) A közalkalmazotti jogviszonyban álló, praxisjoggal rendelkező háziorvos esetében az (1) bekezdésben foglaltakat – a közalkalmazotti jogviszonyra vonatkozó szabályokkal összhangban – megfelelően alkalmazni kell.
+(7) Az egészségügyi szolgálati jogviszonyban álló, praxisjoggal rendelkező háziorvos esetében az (1) bekezdésben foglaltakat – az egészségügyi szolgálati jogviszonyra vonatkozó szabályokkal összhangban – megfelelően alkalmazni kell.
 
 (8) A feladat-ellátási szerződés megkötésekor felmerülő vitás kérdések rendezésében a praxisjog engedélyezésére jogosult egészségügyi államigazgatási szerv – a felek által meghatározott kérdések eldöntésében – segítséget nyújt.
 
-2/C. § A kormányrendeletben meghatározott praxiskezelő
+2/C. § A praxiskezelő
 
 - a) nyilvántartást vezet
   - aa) a praxisjogokról,
@@ -117,6 +119,8 @@ jogosult. A b) pontban meghatározott személyek között a leszármazási fok h
 (7)
 
 (8) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi CLXXVI. törvénnyel megállapított 2/B. §-ban foglalt követelményeknek 2013. január 1-jétől kell megfelelni.
+
+(8a) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2022. évi LXXIII. törvénnyel megállapított 2. § (1) és (2) bekezdésében, 2/A. § (1) és (1a) bekezdésében foglalt rendelkezések a 2023. január 1. napján meglevő praxisjogokat és a feladat-ellátási szerződés szerinti jogokat és kötelezettségeket – a praxisjog elidegenítéséig vagy megszűnéséig, illetve a körzetnek az egészségügyi alapellátásról szóló törvény szerinti átalakításáig – nem érintik.
 
 (9) Felhatalmazást kap
 

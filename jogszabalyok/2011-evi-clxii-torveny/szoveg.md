@@ -352,7 +352,7 @@ bírói tanácsa a pályázókat meghallgatja, és a pályázatokat az elért po
 - c) az Állami Számvevőszékre,
 - d) az ügyészségre,
 - e) központi államigazgatási szervhez,
-- f) fővárosi és megyei kormányhivatalhoz
+- f) fővárosi és vármegyei kormányhivatalhoz
 
 beoszthatja.
 
@@ -638,7 +638,7 @@ történő rendelkezésre állás.
 
 (3) A bírósági vezetők évi 5 munkanap pótszabadságra jogosultak. Az évi alapszabadság és a vezetői pótszabadság együttes mértéke a 40 munkanapot nem haladhatja meg.
 
-(3a) Az apának gyermeke születése esetén, legkésőbb a születést követő második hónap végéig öt, ikergyermekek születése esetén hét munkanap pótszabadság jár, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
+(3a) Az apa gyermeke születése esetén legkésőbb a gyermeke születését követő, vagy gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő második hónap végéig tíz munkanap szabadságra (a továbbiakban: apasági szabadság) jogosult, amelyet kérésének megfelelő időpontban, legfeljebb két részletben kell kiadni. Az apasági szabadságra a bíró akkor is jogosult, ha a gyermeke halva születik, vagy meghal.
 
 (4) A szabadság kiadásának az időpontját – a bíró előzetes meghallgatása után – a munkáltatói jogkör gyakorlója határozza meg. A szabadságok kiadására a bíróságokon szabadságolási tervet kell készíteni.
 
@@ -1504,12 +1504,17 @@ jogosult.
 - d) ha e törvény munkavégzés nélkül illetmény fizetését annak mértéke meghatározása nélkül írja elő,
 - e) a munkaszüneti nap miatt kiesett időre,
 - f) ha a munkáltató foglalkoztatási kötelezettségének elháríthatatlan külső okot kivéve nem tesz eleget.
+- g) öt munkanapig terjedő tartamban az apasági szabadság esetében.
 
 (2) Az illetmény 70 százaléka jár a betegszabadság tartamára.
 
 (3) Az egy napra járó illetmény az egy hónapra megállapított illetmény és a tárgyhó munkanapjai számának hányadosa.
 
 (4) Az egy órára járó illetmény az egy napra kiszámított illetmény és a bíró napi teljes munkaidejének hányadosa.
+
+(5) A bíró az apasági szabadság hatodik munkanapjától az illetmény negyven százalékára jogosult.
+
+(6) A bírót az Mt. 118/A. §-a alapján kiadott szülői szabadság tartamára az illetmény tíz százaléka illeti meg, amelyet csökkenteni kell az erre az időszakra a bírónak megfizetett, a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 42/A. § (1) bekezdése vagy 42/E. § (1) bekezdése szerinti gyermekgondozási díj, a családok támogatásáról szóló 1998. évi LXXXIV. törvény 20. § (1) bekezdése szerinti gyermekgondozást segítő ellátás összegével.
 
 #### 64. A bírói illetményalap és a bíró alapilletménye
 
@@ -1661,7 +1666,7 @@ százaléka.
 
 (3) Nem minősül belföldi kiküldetésnek, ha a bíró a feladatait rendszeresen a beosztásáról szóló okiratban szereplő szolgálati helyén vagy a kinevezési okiratában meghatározott szolgálati helyén kívül, de
 
-- a) az ítélőtábla – kivéve a c) pontban meghatározott ítélőtábla – mint szolgálati hely esetében az ítélőtábla székhelye szerinti megye területén,
+- a) az ítélőtábla – kivéve a c) pontban meghatározott ítélőtábla – mint szolgálati hely esetében az ítélőtábla székhelye szerinti vármegye területén,
 - b) a törvényszék – kivéve a c) pontban meghatározott törvényszéket – mint szolgálati hely esetében az érintett törvényszék illetékességi területén,
 - c) a Kúria, a fővárosi székhelyű ítélőtábla, a fővárosi illetékességi területű törvényszék és az OBH mint szolgálati hely esetében Budapest területén
 
@@ -1917,7 +1922,7 @@ jelölik.
 
 (6) A tábornoki rendfokozatú katonai ülnökjelölt, függetlenül attól, hogy hol van a szolgálati helye, több bírósághoz is megválasztható katonai ülnökké.
 
-215. § (1) A járásbíróság ülnökeit a bíróság székhelye szerint illetékes helyi önkormányzat, illetve települési nemzetiségi önkormányzat képviselő-testülete, a törvényszék ülnökeit a megyei (fővárosi), illetve megyei jogú városi képviselő-testület és a területi nemzetiségi önkormányzatok képviselő-testületei választják meg. A Budapest területén működő járásbíróságok ülnökeit a bíróság illetékességi területe szerinti helyi önkormányzatok és települési nemzetiségi önkormányzatok képviselő-testületei választják meg. Olyan járásbíróság esetén, amelynek székhelye nem az illetékességi területén helyezkedik el, az ülnököket az illetékességi terület szerinti megyei képviselő-testület és a területi nemzetiségi önkormányzatok képviselő-testületei választják meg.
+215. § (1) A járásbíróság ülnökeit a bíróság székhelye szerint illetékes helyi önkormányzat, illetve települési nemzetiségi önkormányzat képviselő-testülete, a törvényszék ülnökeit a vármegyei (fővárosi), illetve megyei jogú városi képviselő-testület és a területi nemzetiségi önkormányzatok képviselő-testületei választják meg. A Budapest területén működő járásbíróságok ülnökeit a bíróság illetékességi területe szerinti helyi önkormányzatok és települési nemzetiségi önkormányzatok képviselő-testületei választják meg. Olyan járásbíróság esetén, amelynek székhelye nem az illetékességi területén helyezkedik el, az ülnököket az illetékességi terület szerinti vármegyei képviselő-testület és a területi nemzetiségi önkormányzatok képviselő-testületei választják meg.
 
 (2) A katonai ülnököket a rendfokozatuknak megfelelő állománygyűlésen választják meg.
 
@@ -2001,15 +2006,17 @@ a bíróság elnöke az ülnököt megválasztó képviselő-testületnél kezde
 
 ### XV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-222. § (1) A bírák szolgálati viszonyára az e törvényben nem szabályozott kérdésekben az Mt. 6. §-át, 7. §-át, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 22. § (1) és (3)–(7) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és harmadik mondatát, valamint (2), (3) és (4) bekezdését, 25–28. §-át, 29. § (1) és (3)–(5) bekezdését, 45. § (4) bekezdését, 51. § (2) és (5) bekezdését, 55. § (1) és (3) bekezdését, 65. § (3) bekezdését, 70. § (4) bekezdését, 80. §-át, 93. § (2)–(4) bekezdését, 97. § (1) bekezdését, 102. § (1) és (5) bekezdését, 103. §-át, 104. § (1) bekezdését, 105. § (1) bekezdését, 113. § (5) bekezdését, 115. § (2) bekezdését, 118. § (1)–(3) bekezdését, 120–121. §-át, 122. § (3)–(5) bekezdését, 123. § (1)–(4) bekezdését, (5) bekezdés a) és b) pontját, valamint (7) bekezdését, 124–131. §-át, 133. § (1) és (2) bekezdését, 134. § (1)–(3) bekezdését, 154–156. §-át, 157. § (1) bekezdését, 160–164. §-át, 231. §-át, 270. §-át, 271. §-át, 272. § (2)–(9) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés c), d), g) és i) pontját, valamint (2) bekezdését megfelelően alkalmazni kell.
+222. § (1) A bírák szolgálati viszonyára az e törvényben nem szabályozott kérdésekben az Mt. 6. §-át, 7. §-át, 9. §-át, 10. § (2) és (4) bekezdését, 12. §-át, 20. § (3) bekezdését, 22. § (1) és (3)–(7) bekezdését, 23. §-át, 24. § (1) bekezdés első mondatának első fordulatát és harmadik mondatát, valamint (2), (3) és (4) bekezdését, 25–28. §-át, 29. § (1) és (3)–(5) bekezdését, 45. § (4) bekezdését, 51. § (2) bekezdés a) pontját és (5) bekezdését, 55. § (1)–(4) bekezdését, 61. § (4) bekezdés c) és d) pontját, valamint (5) és (6) bekezdését, 64. § (3) és (4) bekezdését, 65. § (3) bekezdését, 70. § (4) bekezdését, 80. §-át, 93. § (2)–(4) bekezdését, 97. § (1) bekezdését, 102. § (1) és (5) bekezdését, 103. §-át, 104. § (1) bekezdését, 105. § (1) bekezdését, 113. §-át, 115. § (2) bekezdés a)–e) pontját, 118. § (1)–(3) bekezdését, 118/A. §-át, 120–121. §-át, 122. § (3)–(5) bekezdését, 123. § (1)–(4) bekezdését, (5) bekezdés a) és c) pontját, (5a) bekezdését, valamint (7) bekezdését, 124–131. §-át, 133. § (1) és (2) bekezdését, 134. § (1)–(3) bekezdését, 154–156. §-át, 157. § (1) bekezdését, 160–164. §-át, 231. §-át, 270. §-át, 271. §-át, 272. § (2)–(9) bekezdését, 274. § (1) bekezdésének első fordulatát, valamint (2)–(5) bekezdését, 275. §-át, 286. §-át, 287. § (4) bekezdését, 294. § (1) bekezdés c), d), g), h), i), m) és n) pontját, valamint (2) bekezdését megfelelően alkalmazni kell.
 
 (2) Az Mt.
 
 - a) 29. § (2) bekezdését azzal az eltéréssel kell megfelelően alkalmazni, hogy a távolléti díj helyett átlagilletményt kell megfizetni,
-- b) 123. § (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy a szabadság esedékességének évét követő kiadása az alap- és pótszabadság egyötödére vonatkozik,
-- c) 135. § (1) bekezdését, valamint 165. § (1) bekezdés e)–g) pontját azzal az eltéréssel kell megfelelően alkalmazni, hogy az abban foglaltaktól a felek megállapodása nem térhet el,
-- d) 229. §-át azzal az eltéréssel kell alkalmazni, hogy felmondás alatt a lemondást kell érteni,
-- e) 232–234. §-át az üzemi tanácsra vonatkozó rendelkezések kivételével megfelelően alkalmazni kell.
+- b) 46. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy nem terheli a munkáltatót tájékoztatási kötelezettség olyan munkafeltételről, amelyet a beosztási okirat tartalmaz,
+- c) 115. § (2) bekezdésének f) pontját azzal az eltéréssel kell alkalmazni, hogy munkában töltött időnek az Mt. 115. § (1) bekezdés alkalmazásában a munkavégzés alóli mentesülésnek az 55. § (1) bekezdés a)–m) pontjában meghatározott tartama minősül,
+- d) 123. § (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy a szabadság esedékességének évét követő kiadása az alap- és pótszabadság egyötödére vonatkozik,
+- e) 135. § (1) bekezdését, valamint 165. § (1) bekezdés e)-g) pontját azzal az eltéréssel kell megfelelően alkalmazni, hogy az abban foglaltaktól a felek megállapodása nem térhet el,
+- f) 229. §-át azzal az eltéréssel kell alkalmazni, hogy felmondás alatt a lemondást kell érteni,
+- g) 232–234. §-át az üzemi tanácsra vonatkozó rendelkezések kivételével megfelelően alkalmazni kell.
 
 223. § Az e törvényben nem szabályozott kérdésekben a katonai bíró szolgálati viszonyára a honvédek jogállásáról szóló törvény rendelkezéseit is megfelelően alkalmazni kell azzal az eltéréssel, hogy a katonai bíró bármilyen illetményre és a jubileumi jutalomra e törvény alapján jogosult, és fegyelmi felelősségre vonására kizárólag e törvény alapján kerülhet sor.
 
@@ -2195,14 +2202,27 @@ kerülhet sor.
 
 (5) Az ítélőtábla közigazgatási kollégiuma működésének megkezdéséig az e kollégiumba kiírt pályázatok elbírálása során kollégiumi véleményként az ítélőtábla elnökéből, a polgári kollégium vezetőjéből, valamint a Kúria Közigazgatási Kollégiumának bíráiból álló szakmai testület véleményét kell figyelembe venni.
 
+232/V. § (1) E törvénynek az egyes foglalkoztatási tárgyú törvények módosításáról szóló 2022. évi LXXIV. törvénnyel (a továbbiakban: Módtv.) megállapított rendelkezéseit – e törvény eltérő rendelkezése hiányában – a hatálybalépésekor fennálló jogviszonyokra is alkalmazni kell.
+
+(2) Az Mt. 46. §-ában foglalt kiegészítő tájékoztatást a Módtv. hatálybalépésekor fennálló jogviszony esetén a Módtv. hatálybalépését követő három hónapon belül a bíró írásban kérheti a munkáltatótól.
+
+(3) A (2) bekezdés szerinti tájékoztatást a munkáltató a kérelem közlésétől számított 30 napon belül köteles megadni.
+
+(4) A munkáltató, ha a bíró gyermeke 2022. augusztus 2. és 2023. június 30. között tölti be a harmadik életévét, a szülői szabadságot – a bíró kérésének megfelelő időpontban – legkésőbb 2023. június 30-ig terjedő időszakban adja ki.
+
+232/W. § A bíró a 2022. augusztus 2. és december 31. között született vagy örökbefogadott gyermeke után a Módtv. hatálybalépésétől számított két hónapon belül jogosult az apasági szabadságot igénybe venni, ha a Módtv. hatálybalépése előtt
+
+- a) az 55. § (3a) bekezdése szerinti apai pótszabadságot nem vette igénybe, vagy
+- b) az 55. § (3a) bekezdése szerinti apai pótszabadságot igénybe vette, annak és a Módtv. szerinti apasági szabadság különbözetének megfelelő munkanapok tartamára.
+
 233. § E törvény
 
 - a) az UNICE, a CEEP és az ESZSZ által a szülői szabadságról kötött keretmegállapodásról szóló, 1996. június 3-i 96/34/EK tanácsi irányelvnek,
 - b) az UNICE, a CEEP és az ESZSZ által a részmunkaidős foglalkoztatásról kötött keretmegállapodásról szóló, 1997. december 15-i 97/81/EK tanácsi irányelvnek,
 - c) az ESZSZ, az UNICE és a CEEP által a határozott ideig tartó munkaviszonyról kötött keretmegállapodásról szóló, 1999. június 28-i 1999/70/EK tanácsi irányelvnek,
 - d) a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelvnek,
-- e) a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által a szülői szabadságról kötött felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK hatályon kívül helyezéséről szóló, 2010. március 8-i 2010/18/EU tanácsi irányelvnek,
-- f) a munkaadónak a munkavállalóval szembeni, a szerződés, illetve a munkaviszony feltételeire vonatkozó tájékoztatási kötelezettségéről szóló, 1991. október 14-i 91/533/EGK tanácsi irányelvnek,
+- e) a szülők és a gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1158 európai parlamenti és a tanácsi irányelvnek,
+- f) az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló, 2019. június 20-i (EU) 2019/1152 európai parlamenti és a tanácsi irányelvnek,
 - g) 40. § (5) bekezdése az európai uniós adóügyi vitarendezési mechanizmusokról szóló, 2017. október 10-i (EU) 2017/1852 tanácsi irányelvnek való
 
 való megfelelést szolgálja.
@@ -2215,7 +2235,7 @@ való megfelelést szolgálja.
 
 (4)
 
-237. § (1) E törvény 1–4. alcíme, III. Fejezete, 19–22. alcíme, 25–30. alcíme, V–X. Fejezete, XII. Fejezete, XIII. Fejezete, 223. §-a, 224. §-a, 232/L–232/U. §-a, 236. §-a, valamint 2–4. melléklete az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+237. § (1) E törvény 1–4. alcíme, III. Fejezete, 19–22. alcíme, 25–30. alcíme, V–X. Fejezete, XII. Fejezete, XIII. Fejezete, 223. §-a, 224. §-a, 232/L–232/U. §-a, 232/W. §-a, 236. §-a, valamint 2–4. melléklete az Alaptörvény 25. cikk (8) bekezdése, valamint 26. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Bjt.
 

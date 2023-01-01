@@ -236,7 +236,9 @@ védelmével kapcsolatos eljárási szabályok
 - a) a gyep és nádas művelési ág megváltoztatásához;
 - b) a gyep, valamint a nád és más vízinövényzet égetéséhez.
 
-(2)–(3)
+(2)
+
+(3)
 
 (4) A körzeti vadgazdálkodási terv természeti területet érintő részének kiadásához a miniszter egyetértése szükséges.
 
@@ -572,7 +574,9 @@ engedélyezésekor.
 
 (4) Fokozottan védett állatfajok esetén a (2) bekezdés szerinti engedély csak természetvédelmi vagy más közérdekből adható meg.
 
-(5)–(6)
+(5)
+
+(6)
 
 44. § (1) Az állategészségügyi hatóság engedélye szükséges állatgyűjtemények, állatkertek, illetve egyéb vadon élő védett állatok tartására, idomítására szolgáló létesítmények, telephelyek kialakításához, fenntartásához, üzemeltetéséhez.
 
@@ -758,15 +762,15 @@ tervet készít, készíttet, illetőleg kezdeményezi annak elkészítését.
 
 ### Az önkormányzatok természetvédelmi feladatai
 
-61. § (1) A megyei önkormányzat gondoskodik a megye területén található helyi jelentőségű védett természeti területek védelmével kapcsolatos tevékenységek összehangolásáról.
+61. § (1) A vármegyei önkormányzat gondoskodik a vármegye területén található helyi jelentőségű védett természeti területek védelmével kapcsolatos tevékenységek összehangolásáról.
 
-(2) A megyei önkormányzat az (1) bekezdésben meghatározott feladatkörében:
+(2) A vármegyei önkormányzat az (1) bekezdésben meghatározott feladatkörében:
 
 - a) javaslatot tesz helyi jelentőségű védett természeti területté nyilvánításra;
 - b) a települési önkormányzat felkérése alapján részt vesz a helyi jelentőségű védett természeti területté nyilvánítás előkészítésében;
 - c) elősegíti a települési önkormányzatok természetvédelmi tevékenységét.
 
-(3) A megyei önkormányzat a helyi jelentőségű védett természeti területek fenntartása érdekében a települési önkormányzatokkal megállapodást köthet, vagy társulást hozhat létre.
+(3) A vármegyei önkormányzat a helyi jelentőségű védett természeti területek fenntartása érdekében a települési önkormányzatokkal megállapodást köthet, vagy társulást hozhat létre.
 
 62. § (1) Törvényben meghatározott esetekben természetvédelmi feladatokat települési önkormányzatok is ellátnak.
 
@@ -1066,7 +1070,7 @@ bűncselekmény elkövetése miatt jogerősen megállapította,
 80. § (1) Aki tevékenységével vagy mulasztásával
 
 - a) a természet védelmét szolgáló jogszabály, illetve egyedi határozat előírásait megsérti;
-- b) a védett természeti értéket jogellenesen veszélyezteti, károsítja, elpusztítja, vagy védett természeti terület állapotát, minőségét jogellenesen veszélyezteti, rongálja, abban kárt okoz;
+- b) a védett természeti értéket jogellenesen veszélyezteti, károsítja, elpusztítja, vagy védett természeti terület vagy Natura 2000 terület állapotát, minőségét jogellenesen veszélyezteti, rongálja, abban kárt okoz;
 - c) a védett természeti területet, továbbá barlangot jogellenesen megváltoztatja, átalakítja, illetve azon vagy abban a védelem céljával össze nem egyeztethető tevékenységet folytat;
 - d) a védett élő szervezet, életközösség élőhelyét, illetőleg élettevékenységét jelentős mértékben zavarja;
 - e) természetvédelmi hatósági engedélyköteles tevékenységet, vagy – a természetvédelmi hatóság szakhatósági közreműködési kötelezettségéhez, vagy természetvédelmi szakkérdés vizsgálati kötelezettséghez kötött – más hatósági engedélyköteles tevékenységet engedély nélkül vagy az engedély természetvédelmi előírásaitól eltérően, továbbá a természet védelmét szolgáló jogszabályi előírást érintő bejelentést, ellenőrzött bejelentést anélkül vagy a tevékenység megkezdésére való jogosultság megnyílását megelőzően végez,
@@ -1090,7 +1094,7 @@ természetvédelmi bírságot köteles fizetni.
 
 - a) védett természeti terület, Natura 2000 terület vagy védett természeti érték, barlang vagy az Európai Közösségben természetvédelmi szempontból jelentős faj egyedének károsítása, veszélyeztetése, elpusztítása következett be,
 - b) a tevékenység vagy a mulasztás által okozott körülmény védett élő szervezet, életközösség élőhelyét, illetve élettevékenységét jelentős mértékben zavarja,
-- c) a természetvédelmi hatósági engedélyköteles tevékenységet, vagy – a természetvédelmi hatóság szakhatósági közreműködési kötelezettségéhez, vagy a természetvédelmi szakkérdés vizsgálati kötelezettséghez kötött – más hatósági engedély-köteles tevékenységet engedély nélkül vagy az engedély természetvédelmi előírásaitól eltérően végezték, továbbá ha a természet védelmét szolgáló jogszabályi előírást érintő bejelentést, ellenőrzött bejelentést anélkül, vagy a tevékenység megkezdésére való jogosultság megnyílását megelőzően végezték, vagy
+- c) a természetvédelmi hatósági engedélyköteles tevékenységet, vagy – a természetvédelmi hatóság szakhatósági közreműködési kötelezettségéhez, vagy a természetvédelmi szakkérdés vizsgálati kötelezettséghez kötött – más hatósági engedély-köteles tevékenységet engedély nélkül vagy az engedély természetvédelmi előírásaitól eltérően végezték, továbbá ha a természet védelmét szolgáló jogszabályi előírást érintő bejelentés, vagy ellenőrzött bejelentés alapján folytatható tevékenységet anélkül, vagy a tevékenység megkezdésére való jogosultság megnyílását megelőzően végezték, vagy
 - d) a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok előírásainak megszegésére kerül sor.
 
 (5b) A természetvédelmi hatóság, valamint a természetvédelmi őr a természetvédelmi bírság helyszíni bírságként történő kiszabására jogosult.
@@ -1139,7 +1143,13 @@ természetvédelmi bírságot köteles fizetni.
 
 (3)
 
-(4)–(7)
+(4)
+
+(5)
+
+(6)
+
+(7)
 
 (8)
 

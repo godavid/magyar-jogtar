@@ -536,6 +536,8 @@ köteles megőrizni, illetve tárolni.
 
 36/D. § Az olyan gondnokolt és gondnok, akinek a számára pénzforgalmi szolgáltató nem bocsát ki automata bankjegykiadó gépből készpénzfelvételt lehetővé tevő készpénz-helyettesítő fizetési eszközt, jogosult a 36/A. §-ban meghatározott feltételű készpénzfelvételre a fizetési számláját vezető pénzforgalmi szolgáltatója bármely pénztárában, ha a pénzforgalmi szolgáltatójának tevékenysége pénztári szolgáltatás nyújtására is kiterjed.
 
+36/E. § A fogyasztó díjtól és költségtől mentesen jogosult benyújtani a fizetési számlája terhére a Magyar Nemzeti Bank elnöke által – a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 171. § (2) bekezdés a) pontjában meghatározott felhatalmazás alapján – kiadott rendeletben meghatározott egységes adatbeviteli megoldás útján vagy fizetési kérelemmel kezdeményezett azonnali átutalási megbízást.
+
 ### VIII. Fejezet — FIZETÉSI MŰVELETEK JÓVÁHAGYÁSA
 
 37. § (1) Fizetési művelet teljesítésére – a hatósági átutalás és az átutalási végzés alapján végzett átutalás kivételével – akkor kerülhet sor, ha azt a fizető fél előzetesen jóváhagyta. A felek a keretszerződésben megállapodhatnak arról, hogy a jóváhagyás utólagos is lehet.
@@ -1114,7 +1116,181 @@ vonatkozó részletes szabályokat.
 
 ### XV. Fejezet
 
-#### 68–155. §
+#### 68. §
+
+#### 69. §
+
+#### 70. §
+
+#### 71. §
+
+#### 72. §
+
+#### 73. §
+
+#### 74. §
+
+#### 75. §
+
+#### 76. §
+
+#### 77. §
+
+#### 78. §
+
+#### 79. §
+
+#### 80. §
+
+#### 81. §
+
+#### 82. §
+
+#### 83. §
+
+#### 84. §
+
+#### 85. §
+
+#### 86. §
+
+#### 87. §
+
+#### 88. §
+
+#### 89. §
+
+#### 90. §
+
+#### 91. §
+
+#### 92. §
+
+#### 93. §
+
+#### 94. §
+
+#### 95. §
+
+#### 96. §
+
+#### 97. §
+
+#### 98. §
+
+#### 99. §
+
+#### 100. §
+
+#### 101. §
+
+#### 102. §
+
+#### 103. §
+
+#### 104. §
+
+#### 105. §
+
+#### 106. §
+
+#### 107. §
+
+#### 108. §
+
+#### 109. §
+
+#### 110. §
+
+#### 111. §
+
+#### 112. §
+
+#### 113. §
+
+#### 114. §
+
+#### 115. §
+
+#### 116. §
+
+#### 117. §
+
+#### 118. §
+
+#### 119. §
+
+#### 120. §
+
+#### 121. §
+
+#### 122. §
+
+#### 123. §
+
+#### 124. §
+
+#### 125. §
+
+#### 126. §
+
+#### 127. §
+
+#### 128. §
+
+#### 129. §
+
+#### 130. §
+
+#### 131. §
+
+#### 132. §
+
+#### 133. §
+
+#### 134. §
+
+#### 135. §
+
+#### 136. §
+
+#### 137. §
+
+#### 138. §
+
+#### 139. §
+
+#### 140. §
+
+#### 141. §
+
+#### 142. §
+
+#### 143. §
+
+#### 144. §
+
+#### 145. §
+
+#### 146. §
+
+#### 147. §
+
+#### 148. §
+
+#### 149. §
+
+#### 150. §
+
+#### 151. §
+
+#### 152. §
+
+#### 153. §
+
+#### 154. §
+
+#### 155. §
 
 ### 1. Melléklet a 2009. évi LXXXV. törvényhez
 

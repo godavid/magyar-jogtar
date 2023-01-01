@@ -129,7 +129,7 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 
 (8) A jogi személy törvényes képviselője személyesen vagy – ha törvény személyes eljárási kötelezettséget nem ír elő – meghatalmazott képviselője útján is eljárhat.
 
-10. §
+#### 10. §
 
 ### A zár alá vétel
 
@@ -139,9 +139,9 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 
 (3) A zár alá vételt elrendelő határozat rendelkező részében meg kell jelölni, hogy a zár alá vétel pénzbírság biztosítására szolgál, valamint hogy a zár alá vétel mekkora összeg biztosítására szolgál.
 
-(3a) Ha a zár alá vételt elrendelő határozat nem tartalmazza a (3) bekezdésben foglaltakat, a bíróság – a vádemelés előtt az ügyészség, a terhelt, valamint a vagyoni érdekelt indítványára, a vádemelés után hivatalból – a (3) bekezdésnek megfelelően határoz a zár alá vételről rendelkező határozat kiegészítéséről.
+(3a) Ha a zár alá vételt elrendelő határozat nem tartalmazza a (3) bekezdésben foglaltakat, a bíróság – a vádemelés előtt az ügyészség, a terhelt, valamint a vagyoni érdekelt vagy a jogszabály alapján a bűnügyi hitelezői igény képviseletére jogosult egyéb érdekelt indítványára, a vádemelés után hivatalból – a (3) bekezdésnek megfelelően határoz a zár alá vételről rendelkező határozat megváltoztatásáról.
 
-(4)
+(4) A (3) és (3a) bekezdés szerinti határozatokat haladéktalanul kézbesíteni kell a vagyoni érdekeltnek, valamint a jogszabály alapján a bűnügyi hitelezői igény képviseletére jogosult egyéb érdekeltnek is.
 
 (5)
 
@@ -161,7 +161,7 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 
 (4) A (2) és (3) bekezdésben meghatározott eseményekről értesíteni kell a jogi személyt nyilvántartó bíróságot, valamint a jogi személy felett törvényességi, illetve szakmai felügyeletet gyakorló szervet is, amennyiben ez nem azonos a jogi személyt nyilvántartó bírósággal.
 
-12/A. §
+#### 12/A. §
 
 ### A vádemelés
 
@@ -368,7 +368,7 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 
 25/A. § Az ügyész a terheltet nem állíthatja bíróság elé, ha a rendelkezésre álló bizonyítékok alapján adat merült fel arra, hogy a büntetőeljárás során jogi személlyel szemben intézkedés alkalmazásának lehet helye.
 
-25/B. §
+#### 25/B. §
 
 ### Eljárás egyezség esetén
 
@@ -430,7 +430,7 @@ a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről
 
 ### III. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
-27. §
+#### 27. §
 
 28. § Ez a törvény a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépése napján lép hatályba.
 

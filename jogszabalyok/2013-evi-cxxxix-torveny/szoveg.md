@@ -274,7 +274,7 @@ kapcsolatos hatósági eljárásokban a hatáskörgyakorlási jogot átruházza.
 
 (7) Felügyelőbizottsági tagnak hitelintézeti, pénzügyi, illetve számviteli kérdésekben kiemelkedő szakmai ismeretekkel rendelkező, valamint az országgyűlési képviselők választásán választható magyar állampolgárt lehet jelölni.
 
-(8) A felügyelőbizottság tagjainak megbízatása azon év december 31. napjáig tart, amely évben az Országgyűlés megbízatása megszűnik.
+(8) A felügyelőbizottság tagjainak megbízatása az MNB elnöke megbízatásának időtartamára szól.
 
 (9) A felügyelőbizottsági tagot az őt megválasztó Országgyűlés, illetve az őt megbízó miniszter hívhatja vissza.
 
@@ -1317,16 +1317,16 @@ végez.
 
 (2) Az MNB
 
-- a) fizetési rendszer működtetése tevékenységet végző szervezetnél, legalább kétévente,
-- b) központi szerződő félnél, továbbá központi értéktárnál legalább évente,
+- a) fizetési rendszer működtetése tevékenységet végző szervezetnél legalább kétévente,
+- b) központi szerződő félnél legalább évente, a központi értéktárnál legalább kétévente,
 - c) a d) pontban foglaltakat ide nem értve
-  - ca) hitelintézetnél, biztosítónál, viszontbiztosítónál, elektronikuspénz-kibocsátó intézménynél, pénzforgalmi intézménynél, befektetési vállalkozásnál, árutőzsdei szolgáltatónál, befektetési alapkezelőnél, tőzsdénél, a 600/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (3) bekezdésében meghatározottak szerint a belső piac szempontjából korlátozott jelentőségű adatszolgáltatónál, valamint a 39. §-ban meghatározott törvények hatálya alá tartozó olyan személynél és szervezetnél, amelyre kiterjed az összevont alapú felügyelet (a továbbiakban: pénzügyi csoport) legalább háromévente,
+  - ca) hitelintézetnél, biztosítónál, viszontbiztosítónál, elektronikuspénz-kibocsátó intézménynél, pénzforgalmi intézménynél, befektetési vállalkozásnál, árutőzsdei szolgáltatónál, nyilvános befektetési alapot kezelő befektetési alapkezelőnél, tőzsdénél, a 600/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (3) bekezdésében meghatározottak szerint a belső piac szempontjából korlátozott jelentőségű adatszolgáltatónál, valamint a 39. §-ban meghatározott törvények hatálya alá tartozó olyan személynél és szervezetnél, amelyre kiterjed az összevont alapú felügyelet (a továbbiakban: pénzügyi csoport) legalább háromévente,
   - cb) hitelintézetnél, biztosítónál, viszontbiztosítónál, befektetési vállalkozásnál, árutőzsdei szolgáltatónál, továbbá befektetési alapkezelőnél a tevékenységének megkezdését követő egy év elteltével,
-- d) a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvényben meghatározott Integrációs Szervezethez csatlakozott hitelintézeteknél kizárólag az összevont alapú megfelelés ellenőrzésére vonatkozóan a (3) bekezdés szerinti csoportvizsgálat keretében, a biztosítási tevékenységről szóló törvény hatodik részének hatálya alá tartozó kisbiztosítónál, magánnyugdíjpénztárnál, önkéntes kölcsönös biztosító pénztárnál, továbbá foglalkoztatói nyugdíj szolgáltató intézménynél legalább ötévente
+- d) a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvényben meghatározott Integrációs Szervezethez csatlakozott hitelintézeteknél kizárólag az összevont alapú megfelelés ellenőrzésére vonatkozóan a (3) bekezdés szerinti csoportvizsgálat keretében, a biztosítási tevékenységről szóló törvény hatodik részének hatálya alá tartozó kisbiztosítónál, nyilvános befektetési alapot nem kezelő befektetési alapkezelőnél, magánnyugdíjpénztárnál, önkéntes kölcsönös biztosító pénztárnál, továbbá foglalkoztatói nyugdíj szolgáltató intézménynél legalább ötévente
 
 átfogó vizsgálatot folytat le.
 
-(3) Az MNB a pénzügyi csoportnál, az összes csoporttag vonatkozásában együttesen is jogosult átfogó vizsgálatot végezni. A pénzügyi csoport vizsgálata kiterjed az összevont alapú felügyeletre vonatkozó jogszabályi előírások betartásának ellenőrzésére és magában foglalhatja az összes csoporttagra vonatkozó törvényi előírások betartásának egyedi alapú vizsgálatát is (a továbbiakban: csoportvizsgálat).
+(3) Az MNB a pénzügyi csoportnál, az összes csoporttag vonatkozásában együttesen is jogosult átfogó vizsgálatot, továbbá a 39. § (3) bekezdésében meghatározott felügyeleti feladatok tekintetében célvizsgálatot vagy rendkívüli célvizsgálatot (a továbbiakban: csoportvizsgálat) végezni. A pénzügyi csoport átfogó vizsgálata kiterjed az összevont alapú felügyeletre vonatkozó jogszabályi előírások betartásának ellenőrzésére és magában foglalhatja az összes csoporttagra vonatkozó törvényi előírások betartásának egyedi alapú vizsgálatát is. A pénzügyi csoportnál a 39. § (3) bekezdésében meghatározott felügyeleti feladatok tekintetében folytatott célvizsgálat, vagy rendkívüli célvizsgálat a Pmt.-ben csoportszinten rögzített követelmények csoportszintű és egyedi alapú vizsgálatára terjed ki.
 
 (3a) Az MNB nem köteles átfogó vizsgálatot lefolytatni a felügyelt szervezet, illetve személy tevékenységének abban a körében, amelyre nézve a megelőző átfogó vizsgálat lezárását követően lezárt cél-, rendkívüli cél-, téma-, csoport-, illetve utóvizsgálat, vagy intézkedések alkalmazását eredményező folyamatos felügyeleti tevékenység is kiterjedt.
 
@@ -2501,6 +2501,8 @@ terjedhet.
 
 (5) A Kormány felkérése alapján az MNB elláthatja a nemzetközi pénzügyi szervezetekben a Kormányra háruló feladatokat, amennyiben erről törvény eltérően nem rendelkezik.
 
+(6) Az MNB a Széchenyi Pihenő Kártya kibocsátásának és felhasználásának szabályairól szóló kormányrendelet szerint a pénzforgalmi szolgáltató adatszolgáltatásán alapuló adatokat a turisztikai térségek fejlesztésének állami feladatát ellátó szerv erre irányuló megkeresése alapján – az érintettekkel kapcsolatba nem hozható módon – a turisztikai térségek fejlesztésének állami feladatát ellátó szerv részére átadja.
+
 136. § A Kormány, a központi államigazgatási szervek az MNB kérésére tevékenységükkel kapcsolatban információt nyújtanak.
 
 137. § (1) A deviza- és aranytartalék mértékére, összetételére, a tartalékkezelés során kötött egyed ügyletekre vonatkozó adatok, a tartalékkezeléssel összefüggő döntések és belső szabályok – amennyiben azok nem minősített adatok – az MNB általi nyilvánosságra hozatalukig, de legfeljebb az adat keletkezésétől számított 10 évig nem nyilvánosak. Az adatok ezen határidőn belüli nyilvánosságra hozataláról az MNB elnöke dönt.
@@ -2574,7 +2576,7 @@ terjedhet.
   - 1.12. az Európai Értékpapír-piaci Hatóság kérése esetén 1.12.1. a harmadik országban székhellyel rendelkező befektetési vállalkozás fióktelepe Magyarországon végzett tevékenységének engedélyéről, ezek mindenkori módosításairól, 1.12.2. a harmadik országban székhellyel rendelkező befektetési vállalkozás fióktelepe tevékenységi köréről, 1.12.3. a harmadik országban székhellyel rendelkező befektetési vállalkozás fióktelepe által végzett tevékenységből eredő forgalom mértékéről és eszköz állományáról, 1.12.4. annak a harmadik országbeli csoportnak a megnevezéséről, amelyhez a harmadik országban székhellyel rendelkező befektetési vállalkozás fióktelepe tartozik;
 - 2. az Európai Bankhatóságot
   - 2.1. a hitelintézet, a pénzforgalmi intézmény, az elektronikuspénz kibocsátó intézmény számára kiadott tevékenységi (működési) engedélyéről – hitelintézet esetén azzal, hogy melyik betétbiztosítási rendszerhez csatlakozott –, valamint annak visszavonásáról az indoklással együtt,
-  - 2.2. a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepe részére kiadott tevékenységi engedélyről,
+  - 2.2. a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepe részére kiadott tevékenységi engedélyről, a tevékenységi engedélyben bekövetkezett valamennyi változásról, a fióktelep összes eszközéről és kötelezettségéről a rendszeres beszámolóknak megfelelően, valamint annak a harmadik országbeli csoportnak a megnevezéséről, amelyhez a fióktelep tartozik,
   - 2.3. a Hpt. 36. § (5) bekezdése szerinti határozatáról,
   - 2.4. a pénzügyi holding társaság összevont alapú felügyelet alá tartozásáról és annak megszűnéséről,
   - 2.5. a Hpt. 175. § (5) bekezdése, illetve a Bszt. 161/C. § (5) bekezdése szerinti megállapodásról, az összevont alapú felügyelet alatt álló intézmények esetében csoport szintű belső irányításról, rendszerekről, eljárásokról és mechanizmusokról,
@@ -2587,7 +2589,7 @@ terjedhet.
   - 2.12. a Hpt. 126. § (5) bekezdésében meghatározott információkról,
   - 2.13. a Hpt. 145. § (4) bekezdése alapján hozott engedélyről,
   - 2.14. a Hpt. 145. § (4) bekezdése, 174. § (5) bekezdése, 185. §-a, 199. § (5) bekezdése, valamint a Bszt. 26/A. § (4) bekezdése, 161/B. § (5) bekezdése és 164. §-a alapján hozott határozatokról,
-  - 2.15. a harmadik országban székhellyel rendelkező hitelintézet vagy befektetési vállalkozás magyarországi fióktelepe részére kiadott tevékenységi engedélyről,
+  - 2.15.
   - 2.16. a Hpt. 114. §-a szerinti helyreállítási terv kialakításával és koordinálásával kapcsolatosan tervezett megbeszélésekről,
   - 2.17. a Hpt. 180. § (1) bekezdésének és a Bszt. 162. § (5) bekezdésének alkalmazásáról,
   - 2.18. a Hpt. 177. § és Bszt. 163/A. § szerinti felügyeleti felülvizsgálati és értékelési eljárások működéséről és az MNB által alkalmazott módszerről,

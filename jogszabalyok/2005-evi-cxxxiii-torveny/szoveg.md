@@ -50,9 +50,11 @@ terjed ki.
 
 (2) A rendőrség és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja – állományilletékes parancsnoka engedélyével – vállalkozás keretében csak az 1. § (1) bekezdés b) pontjában, valamint az 1. § (2) bekezdés b) és c) pontjában meghatározott tevékenységet végezheti.
 
-4. §
+#### 4. §
 
-### A személy- és vagyonvédelmi, a tervező-szerelő és a magánnyomozói tevékenységmegkezdése és folytatása
+### A személy- és vagyonvédelmi, a tervező-szerelő és a magánnyomozói tevékenység
+
+megkezdése és folytatása
 
 5. § (1) Vállalkozás keretében személy- és vagyonvédelmi tevékenység – ha e törvény kivételt nem tesz – a rendőrség által a vállalkozás kérelmére kiadott működési engedély birtokában végezhető, ha
 
@@ -88,7 +90,7 @@ terjed ki.
 
 6. § (1) Az e törvény hatálya alá tartozó tevékenységek (ideértve a magánnyomozói tevékenység szervezését és irányítását is) személyes végzéséhez – ha e törvény kivételt nem tesz – a rendőrség által kiadott igazolvány szükséges.
 
-(1a) Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvény szerinti személy- és vagyonőr a tevékenységét, abban az esetben kezdheti meg, ha az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott alkalmazási feltételeknek eleget tesz. E személyek vonatkozásában a (3) és (4) bekezdés nem alkalmazható.
+(1a) Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény (a továbbiakban: Erfesztv.) szerinti személy- és vagyonőr a tevékenységét abban az esetben kezdheti meg, ha az Erfesztv.-ben meghatározott alkalmazási feltételeknek eleget tesz. E személyek vonatkozásában a (3) és (4) bekezdés nem alkalmazható.
 
 (2) Igazolványt – kérelmére – az a magyar állampolgár, illetve a szabad mozgás és tartózkodás jogával rendelkező személy kaphat, aki nagykorú, cselekvőképes, külön jogszabályban meghatározott vagy azzal egyenértékű szakképesítéssel, továbbá a magánnyomozói tevékenység végzéséhez legalább középiskolai végzettséggel rendelkezik. Az igazolvány kiadását meg kell tagadni, ha a kérelmező a tevékenység gyakorlását kizáró rendelkezés hatálya alatt áll.
 
@@ -113,7 +115,11 @@ terjed ki.
 
 7. § A működési engedély és az igazolvány öt évig hatályos, hatályossági idejük alkalmanként további öt évre meghosszabbítható, ha a kiadás feltételei – azok ismételt vizsgálata alapján – fennállnak.
 
-### Rendőrségi nyilvántartás, a tevékenységellenőrzése
+7/A. § Az elveszett vagy eltulajdonított igazolvány körözését az igazolvány kiadására hatáskörrel és illetékességgel rendelkező rendőri szerv rendeli el.
+
+### Rendőrségi nyilvántartás, a tevékenység
+
+ellenőrzése
 
 8. § (1) A rendőrség a kiadott működési engedélyekről és igazolványokról, a kiadásuk alapjául szolgáló, e törvény 5. § és az 5/A. §-ban meghatározott feltételek igazolásához szükséges adatokról, az adatváltozásról, a tervező-szerelő vagy magánnyomozói tevékenység folytatására jogosultakról, a működési engedély visszavonásáról, a vállalkozás tevékenységének megtiltásáról, és az igazolvány visszavonásáról, bevonásáról – a működési engedély és az igazolvány hitelességének, valamint a tevékenység ellenőrzésének céljából – nyilvántartást vezet.
 
@@ -147,9 +153,11 @@ terjed ki.
 
 (4)
 
-10. §
+#### 10. §
 
-### A működési engedély visszavonása és felfüggesztése, valamint az igazolvány visszavonása,bevonása és elvétele
+### A működési engedély visszavonása és felfüggesztése, valamint az igazolvány visszavonása,
+
+bevonása és elvétele
 
 11. § (1) A rendőrség haladéktalanul, de legkésőbb a tudomásra jutástól számított nyolc napon belül a működési engedélyt
 
@@ -160,11 +168,21 @@ terjed ki.
 
 - a) visszavonja, ha kiadásának a 6. § (2) bekezdése, vagy a 6. § (3) bekezdés a) vagy b) pontja szerinti feltétele már nem áll fenn,
 - b) hat hónapra bevonja, ha az igazolvány jogosultja e törvény szabályait – a 65. §-ban foglaltak szerint – súlyosan megsértette,
-- c) a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig bevonja, ha kiadásának a 6. § (3) bekezdés c) pontja szerinti feltétele már nem áll fenn.
+- c) a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig bevonja
+  - ca) a 6. § (3) bekezdés c) pontja vagy
+  - cb) az Erfesztv. 5. § (2) bekezdés e) pontja
+
+szerinti esetben.
 
 (3) A (2) bekezdés b) pontjában meghatározott idő elteltével a rendőrség az igazolványt a jogosultnak visszaadja, kivéve, ha az igazolvány visszavonásának vagy bevonásának más oka áll fenn.
 
-(4) A (2) bekezdés c) pontjában foglalt esetben a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezését, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalát követően a rendőrség az igazolványt a jogosultnak visszaadja, ha az igazolvány kiadásának a 6. § (2) bekezdése, vagy a 6. § (3) bekezdés a) vagy b) pontja szerinti feltétele fennáll.
+(4) A (2) bekezdés c) pontjában foglalt esetben a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezését, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalát követően a rendőrség az igazolványt a jogosultnak visszaadja, ha az igazolvány kiadása megtagadásának
+
+- a) a 6. § (2) bekezdése szerinti oka,
+- b) a 6. § (3) bekezdés a) vagy b) pontja szerinti oka vagy
+- c) az Erfesztv. 5. § (2) bekezdés a)–c) pontja szerinti oka
+
+nem áll fenn.
 
 (5) A rendőrség a működési engedélyt vagy az igazolványt nyolc napon belül visszavonja, ha a jogosult a működési engedély alapjául szolgáló tevékenység folytatását befejezi, és ezt a rendőrségnek bejelenti.
 
@@ -200,7 +218,7 @@ terjed ki.
 
 15. § (1) A vállalkozás a szerződésekről a naplóban nyilvántartást vezet, és e naplót az utolsó bejegyzés napjától számított öt évig megőrzi.
 
-(2) A naplóban – vagy más alkalmas módon – kell nyilvántartani a szerződést ténylegesen teljesítő személy vagy személyek nevét, a megbízó nevét, lakcímét vagy székhelyét, a 20. § alapján a fizetett egészségügyi szabadság kezdetének és befejezésének dátumát, az igazolást kiállító háziorvos nevét és pecsétszámát.
+(2) A naplóban kell nyilvántartani a szerződést ténylegesen teljesítő személy vagy személyek nevét, a megbízó nevét, lakcímét vagy székhelyét, a 20. § alapján a fizetett egészségügyi szabadság kezdetének és befejezésének dátumát, az igazolást kiállító háziorvos nevét és pecsétszámát.
 
 (3) A naplóban, az ahhoz kapcsolódó egyéb nyilvántartásban kiegészítés, javítás csak úgy végezhető, hogy az eredetileg rögzített szöveg olvasható maradjon.
 
@@ -255,7 +273,7 @@ terjed ki.
 
 (3) Az e törvény hatálya alá tartozó tevékenységet folytató a harmadik személyről a szerződés teljesítése során e törvény alapján jogszerűen tudomására jutott, a szerződés szerinti ügyben érintett személyes adatokról csak a megbízottat tájékoztathatja, kivéve, ha – figyelemmel az (1) bekezdés szerinti titoktartási kötelezettségre – bírósági vagy más hatósági eljárásban tanúként hallgatják meg.
 
-23. §
+#### 23. §
 
 24. § (1) Több megbízó érdekében a vállalkozás csak akkor járhat el, ha azok érdekei nem ellentétesek. Olyan megbízást, amely a korábbi megbízó érdekeit sértheti, csak akkor teljesíthet, ha a korábbi szerződés megszűnésétől számított három év már eltelt.
 
@@ -317,7 +335,7 @@ terjed ki.
 - d) az elektronikai vagyonvédelmi rendszer által folytatott megfigyelés, valamint a rendszer által rögzített, személyes adatokat tartalmazó kép- és hangfelvétel készítésének, tárolásának céljáról, az adatkezelés jogalapjáról, a felvétel tárolásának helyéről, a tárolás időtartamáról, a rendszert alkalmazó (üzemeltető) személyéről, az adatok megismerésére jogosult személyek köréről, továbbá érintettek jogaira és érvényesítésük rendjére vonatkozó rendelkezésekről;
 - e) a vagyonőr intézkedései által okozott jogsérelem esetén igénybe vehető eljárásokról.
 
-28/A. §
+#### 28/A. §
 
 29. § (1)
 
@@ -352,7 +370,7 @@ is felhasználható.
 
 32. § Elektronikus beléptető rendszer az erre vonatkozó megbízási szerződés alapján és akkor alkalmazható, ha jogszabály vagy a terület használatára jogosult rendelkezése szerint a védett területre csak az arra jogosultak léphetnek be.
 
-33. §
+#### 33. §
 
 ### A magánnyomozóra vonatkozó szabályok
 
@@ -377,12 +395,12 @@ is felhasználható.
 
 (2) A kamara a feladatait
 
-- a) a megyékben és a fővárosban működő területi szervezetei (a továbbiakban együtt: területi szervezet), valamint
+- a) a vármegyékben és a fővárosban működő területi szervezetei (a továbbiakban együtt: területi szervezet), valamint
 - b) országos szervezete
 
 útján látja el.
 
-(3) Területi szervezetet több megye közösen is létrehozhat. Ez esetben az érintett megyékben külön megyei szervezetek nem hozhatók létre.
+(3) Területi szervezetet több vármegye közösen is létrehozhat. Ez esetben az érintett vármegyékben külön vármegyei szervezetek nem hozhatók létre.
 
 (4) A kamara területi szervezetei, valamint országos szervezete jogi személyek.
 
@@ -413,7 +431,7 @@ is felhasználható.
 - i) hazai és nemzetközi szakmai és jogi információkat gyűjt és ezekről tájékoztatást ad tagjainak, az általa nyilvántartott vállalkozásoknak, illetve tagjai és a nyilvántartott vállalkozások érdekében más személyeknek;
 - j) kapcsolatot tart az illetékes gazdasági kamarákkal, továbbá a hasonló jellegű hazai és külföldi szakmai kamarákkal és szövetségekkel;
 - k) kezdeményezi szabványok kiadását;
-- l) valamennyi személy- és vagyonőr tekintetében elbírálja az e törvény 26–29. §-aiban meghatározott jogosultságok gyakorlásával szemben benyújtott, az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott panaszt,
+- l) valamennyi személy- és vagyonőr tekintetében elbírálja az Erfesztv. 22. § (4) bekezdés a) pontja szerinti panaszt,
 - m) tagjai támogatására – a kamara önkormányzati szabályzataiban meghatározott szabályok szerint – segélyalapot hoz létre és használ fel;
 - n) kormányrendeletben meghatározott eljárásrendben részt vesz a Kormány minimális vagyonvédelmi szolgáltatási rezsióradíj mértékét meghatározó rendeletének az előkészítésében.
 - o)
@@ -474,7 +492,9 @@ is felhasználható.
 - c)
 - d) tevékenysége során a szakmai irányelveknek, valamint az etikai szabályoknak megfelelően járjon el.
 
-### A vállalkozások nyilvántartása; a vállalkozás jogaiés kötelezettségei
+### A vállalkozások nyilvántartása; a vállalkozás jogai
+
+és kötelezettségei
 
 45. § (1) Az e törvény hatálya alá tartozó tevékenységet folytató vállalkozást – kérelmére – a kamara nyilvántartásba veszi.
 
@@ -673,7 +693,7 @@ is felhasználható.
 
 ### A személy- és vagyonőr intézkedésével szembeni panasz elbírálása
 
-62/A. § (1) Az intézkedést foganatosító személy- és vagyonőrrel szemben benyújtott panaszt az intézkedés helye szerint illetékes az alapszabályban meghatározott területi szervezet bírálja el harmincöt napon belül közigazgatási hatósági eljárás szabályai szerint.
+62/A. § (1) Az intézkedést foganatosító személy- és vagyonőrrel szemben benyújtott panaszt – ha a panasszal érintett intézkedés során e törvény szerinti kényszerítő eszköz alkalmazására került sor – az intézkedés helye szerint illetékes, az alapszabályban meghatározott területi szervezet bírálja el harmincöt napon belül a közigazgatási hatósági eljárás szabályai szerint.
 
 (2) Az (1) bekezdés szerinti panasz elbírálására irányuló eljárásban az elsőfokú döntés ellen fellebbezésnek van helye. A fellebbezés elbírálását az országos szervezet alapszabályában kijelölt szerve bírálja el.
 
@@ -704,10 +724,12 @@ is felhasználható.
 
 65. § Az e törvényben előírt szabályok súlyos megsértésének minősül
 
-- a) a 3. § (1) bekezdésében, 5. § (1) bekezdésében, 5/A. § (3) bekezdésében, a 6. § (1) bekezdésében, a 16. § (1) bekezdésében, a 18–32. §-ban foglalt rendelkezések megszegése, valamint
-- b) a 14. és 15. §-ban, a 16. § (2)–(4) bekezdésében meghatározott szabályoknak a hatóság figyelmeztetése ellenére történő ismételt megsértése.
+- a) a 3. § (1) bekezdésében, 5. § (1) bekezdésében, 5/A. § (3) bekezdésében, a 6. § (1) bekezdésében, a 15. §-ban, a 16. § (1) bekezdésében, a 18–32. §-ban foglalt rendelkezések megszegése, valamint
+- b) a 14. §-ban és a 16. § (2)–(4) bekezdésében meghatározott szabályoknak a hatóság figyelmeztetése ellenére történő ismételt megsértése.
 
-### VI. Fejezet — A MÁS EGT-ÁLLAMBAN ALAPÍTOTT VÁLLALKOZÁS MŰKÖDÉSÉRE, A SZABAD MOZGÁSÉS TARTÓZKODÁS JOGÁVAL RENDELKEZŐ SZEMÉLY MAGYARORSZÁG TERÜLETÉN LETELEPEDÉS KERETÉBEN VÉGZETT SZEMÉLY- ÉS VAGYONVÉDELMI TEVÉKENYSÉGÉRE VONATKOZÓ KÜLÖNÖS RENDELKEZÉSEK
+### VI. Fejezet — A MÁS EGT-ÁLLAMBAN ALAPÍTOTT VÁLLALKOZÁS MŰKÖDÉSÉRE, A SZABAD MOZGÁS
+
+ÉS TARTÓZKODÁS JOGÁVAL RENDELKEZŐ SZEMÉLY MAGYARORSZÁG TERÜLETÉN LETELEPEDÉS KERETÉBEN VÉGZETT SZEMÉLY- ÉS VAGYONVÉDELMI TEVÉKENYSÉGÉRE VONATKOZÓ KÜLÖNÖS RENDELKEZÉSEK
 
 ### A más EGT-államban alapított vállalkozás működésére vonatkozó különös szabályok
 
@@ -835,7 +857,7 @@ részére, annak írásos megkeresésére adhatja át.
 
 ### VII. Fejezet — VEGYES ÉS ÉRTELMEZŐ RENDELKEZÉSEK
 
-73. §
+#### 73. §
 
 74. § E törvény alkalmazásában:
 
@@ -881,7 +903,7 @@ lépnek hatályba.
 
 rendelettel állapítsa meg.
 
-77. §
+#### 77. §
 
 78. § Felhatalmazást kap a rendészetért felelős miniszter, hogy
 

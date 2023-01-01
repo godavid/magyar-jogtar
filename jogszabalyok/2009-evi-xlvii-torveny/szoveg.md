@@ -304,9 +304,9 @@ elektronikus úton, egyedi informatikai alkalmazás igénybevételével haladék
 - e) a javítóintézeti nevelés megkezdésének napját,
 - f) a javítóintézetből történő ideiglenes elbocsátás napját, az ideiglenes elbocsátás leteltének napját, az ideiglenes elbocsátás megszüntetésének tényét,
 - g) a javítóintézeti nevelésből elbocsátás napját,
-- h) a közérdekű munka teljesítésének vagy végrehajthatósága megszűnésének napját,
+- h) a közérdekű munka teljesítésének napját,
 - i) a pénzbüntetés teljesítésének napját,
-- j) a közérdekű munka vagy a pénzbüntetés szabadságvesztésre, valamint a pénzbüntetés közérdekű munkára történő átváltoztatásáról szóló határozat számát és jogerőre emelkedésének napját, az eljárt bíróság megnevezését és az így kiszabott büntetés mértékét,
+- j) a közérdekű munka vagy a pénzbüntetés végrehajthatósága megszűnésének tényét, a végrehajthatóság megszűnését megállapító határozat számát és jogerőre emelkedésének a napját, az eljárt bíróság megnevezését, valamint a közérdekű munka vagy a pénzbüntetés szabadságvesztésre, illetve a pénzbüntetés közérdekű munkára történő átváltoztatásáról szóló határozat számát és jogerőre emelkedésének napját, az eljárt bíróság megnevezését és az így kiszabott büntetés mértékét,
 - k) a közügyektől eltiltás, a foglalkozástól eltiltás, a járművezetéstől eltiltás, a kiutasítás, a kitiltás, a sportrendezvények látogatásától való eltiltás leteltének napját, a járművezetéstől eltiltás végrehajtását befolyásoló tényeket és ezek fennállásának időtartamát,
 - l) a jóvátételi munka igazolásának napját,
 - m) a kényszergyógykezelés megszüntetésének vagy megszűnésének napját.
@@ -964,9 +964,10 @@ részére tett nyilatkozatával tiltakozzon.
   - da) a 11. § (1) bekezdés ca), cb), cf) alpontjában, e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
   - db) a 16. § (1) bekezdés ca), cb), cf) alpontjában, f), g), i), k) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
   - dc) a 23. § c), f) és g) pontjában meghatározott adatok;
-- e) a rendészeti feladatokat ellátó személyek és a személy- és vagyonvédelmi tevékenység hatósági engedélyezése és ellenőrzése során a közbiztonsági feltételek vizsgálata céljából
-  - ea) a 11. § (1) bekezdés c) pont ca), cb), cf) alpontjában, e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok, valamint
-  - eb) a 16. § (1) bekezdés c) pont ca), cb), cf) alpontjában, f), g), i), k) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok;
+- e) a rendészeti feladatokat ellátó személyek ellenőrzése, valamint a személy- és vagyonvédelmi tevékenység hatósági engedélyezése és ellenőrzése során a közbiztonsági feltételek vizsgálata céljából
+  - ea) a 11. § (1) bekezdés c) pont ca), cb), cf) alpontjában, e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
+  - eb) a 16. § (1) bekezdés c) pont ca), cb), cf) alpontjában, f), g), i), k) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
+  - ec) a 23. § c) pont ca) alpontjában és k) pontjában meghatározott adatok;
 - f) a légi közlekedés biztonságának ellenőrzése céljából
   - fa) a 11. § (1) bekezdés c) pont ca), cb) alpontjában, e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
   - fb) a 16. § (1) bekezdés c) pont ca), cb) alpontjában, f), g), i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
@@ -1038,6 +1039,7 @@ részére tett nyilatkozatával tiltakozzon.
   - ca) a 11. § (1) bekezdés c)–l) pontjában és (2) bekezdésében meghatározott adatok,
   - cb) ha az érintett személlyel szemben kényszergyógykezelést rendeltek el, a 16. § (1) bekezdés c)–l) pontjában és (2) bekezdés m) pontjában meghatározott adatok,
   - cc) ha az érintett személlyel szemben letartóztatást, bűnügyi felügyeletet, távoltartást vagy előzetes kényszergyógykezelést rendeltek el, a 23. § c) és h) pontjában meghatározott adatok.
+- d) a büntetés-végrehajtási bírói előterjesztések, a speciális részlegre helyezés, a kapcsolattartás engedélyezése, az intézet elhagyásával járó kapcsolattartási formák engedélyezése körében hozott döntés megalapozása, valamint a biztonsági előírások meghatározása céljából az elítélttel és az egyéb jogcímen fogvatartottal szemben a fogvatartás alatt megindult újabb büntetőeljárásra vonatkozóan a 23. § c)−k) pontjában meghatározott adatokat átvenni.
 
 (8a) A pártfogó felügyelői szolgálat a közérdekű munka és a pártfogó felügyelet végrehajtása céljából jogosult közvetlen hozzáféréssel átvenni a közérdekű munka, illetve pártfogó felügyelet hatálya alatt álló személy következő adatait:
 

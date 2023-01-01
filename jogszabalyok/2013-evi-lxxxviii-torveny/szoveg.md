@@ -70,7 +70,7 @@ a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatás
   - af) személyi azonosítóját,
   - ag) állampolgárságát vagy hontalanságát,
   - ah) lakcím adatát, továbbá annak megváltozása esetén korábbi lakcím adatát,
-  - ai) értesítési címét,
+  - ai) értesítési címét, telefonszámát, elektronikus levelezési címét vagy más elektronikus elérhetőségét,
   - aj) személyiadat- és lakcímnyilvántartás, a központi idegenrendészeti nyilvántartás, illetve a menekültügyi nyilvántartás szerinti arcképmását,
 - b) a körözött személy
   - ba) álnevét, gúnynevét,
@@ -384,7 +384,7 @@ meghatározott adat.
 
 (7b) A személyazonosság megállapítása céljából
 
-- a) a rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a Nemzeti Adó- és Vámhivatal feladat- és hatáskörrel rendelkező szerve, valamint a járásbíróság az általa lefolytatott szabálysértési eljárás során,
+- a) a rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv, a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala, a Nemzeti Adó- és Vámhivatal feladat- és hatáskörrel rendelkező szerve, valamint a járásbíróság az általa lefolytatott szabálysértési eljárás során,
 - b) a rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv az általa lefolytatott közigazgatási hatósági eljárások során,
 - c) a rendőrségről szóló törvényben meghatározott rendőrség a rendőri igazoltatás során
 
@@ -635,13 +635,15 @@ előírja.
 
 (5)
 
-(5a) A rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a Nemzeti Adó- és Vámhivatal feladat- és hatáskörrel rendelkező szerve, valamint a járásbíróság az általa lefolytatott szabálysértési eljárás során a szabálysértési eljárás alá vont személlyel kapcsolatos körözés tényének fennállását ellenőrzi a körözött személyek nyilvántartásában. Ha az eljáró szerv a szabálysértési eljárás alá vont személyt a körözött személyek nyilvántartásában azonosítja, e tényről a rendőrséget értesíti, illetve kezdeményezi a törvény szerint szükséges intézkedések végrehajtását.
+(5a) A rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv, a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala, a Nemzeti Adó- és Vámhivatal feladat- és hatáskörrel rendelkező szerve, valamint a járásbíróság az általa lefolytatott szabálysértési eljárás során a szabálysértési eljárás alá vont személlyel kapcsolatos körözés tényének fennállását ellenőrzi a körözött személyek nyilvántartásában. Ha az eljáró szerv a szabálysértési eljárás alá vont személyt a körözött személyek nyilvántartásában azonosítja, e tényről a rendőrséget értesíti, illetve kezdeményezi a törvény szerint szükséges intézkedések végrehajtását.
 
 (5b) A rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv az általa lefolytatott közigazgatási hatósági eljárások során az ügyféllel kapcsolatos körözés tényének fennállását ellenőrzi a körözött személyek nyilvántartásában. Ha az eljáró szerv az ügyfelet a körözött személyek nyilvántartásában azonosítja, kezdeményezi a törvény szerint szükséges intézkedések végrehajtását.
 
 (5c) A rendőrségről szóló törvényben meghatározott rendőrség a rendőri igazoltatás során az igazoltatottal kapcsolatos körözés tényének fennállását ellenőrzi a körözött személyek nyilvántartásában. Ha az eljáró szerv a körözött személyek nyilvántartásában azonosítja, kezdeményezi a törvény szerint szükséges intézkedések végrehajtását.
 
 (6) Ha a körözött személy tartózkodási helyét, a körözött tárgy hollétét, illetve az ismeretlen személy vagy holttest személyazonosságát megállapították, a körözési eljárást lefolytató szerv köteles értesíteni a körözést elrendelőt a körözés visszavonása kezdeményezése céljából. Az értesítés tényét a körözési eljárást lefolytató szerv a nyilvántartásban rögzíti.
+
+(7) A körözött személy tartózkodási helyének megállapításakor meg kell állapítani, rögzíteni és lehetőség szerint a jelenlétében ellenőrizni kell a körözött személy telefonszámát, elektronikus levelezési címét vagy más elektronikus elérhetőségét is.
 
 #### 16. Nemzetközi körözés
 

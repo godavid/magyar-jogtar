@@ -100,11 +100,11 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 7. § (1) Feltaláló az, aki a találmányt megalkotta.
 
-(2) Amíg jogerős bírósági ítélet mást nem állapít meg, azt a személyt kell feltalálónak tekinteni, aki a szabadalmi bejelentésben eredetileg feltalálóként szerepelt, vagy akit a szabadalmi lajstrom az erre vonatkozó bejegyzésnek az 55. § (2a) bekezdése szerinti módosítását követően feltalálóként feltüntet.
+(2) Amíg jogerős bírósági ítélet mást nem állapít meg, azt a személyt kell feltalálónak tekinteni, aki a szabadalmi bejelentésben eredetileg feltalálóként szerepelt, vagy akit a szabadalmi bejelentésekről vezetett nyilvántartás vagy a szabadalmi lajstrom az erre vonatkozó bejegyzésnek az 55. § (2a) bekezdése szerinti módosítását követően feltalálóként feltüntet.
 
 (3) Ha többen közösen alkották a találmányt, a feltalálók szerzőségi részarányát – a szabadalmi bejelentésben eredetileg megadott ellenkező megjelölés hiányában – egyenlőnek kell tekinteni.
 
-(4) Amíg jogerős bírósági ítélet mást nem állapít meg, a szabadalmi bejelentésben eredetileg megjelölt, a (3) bekezdés szerinti vagy a szabadalmi lajstromban az erre vonatkozó bejegyzésnek az 55. § (2a) bekezdése szerinti módosítását követően feltüntetett szerzőségi arányt kell irányadónak tekinteni.
+(4) Amíg jogerős bírósági ítélet mást nem állapít meg, a szabadalmi bejelentésben eredetileg megjelölt, a (3) bekezdés szerinti, vagy szabadalmi bejelentésekről vezetett nyilvántartásban vagy a szabadalmi lajstromban az erre vonatkozó bejegyzésnek az 55. § (2a) bekezdése szerinti módosítását követően feltüntetett szerzőségi arányt kell irányadónak tekinteni.
 
 (5) A feltalálót megilleti az a jog, hogy a szabadalmi iratok őt e minőségében feltüntessék. Mellőzni kell a feltaláló nevének feltüntetését a nyilvánosságra kerülő szabadalmi iratokon, ha azt a feltaláló írásban kéri.
 
@@ -272,15 +272,17 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 ### A szabadalmi oltalom időtartama
 
-22. § A végleges szabadalmi oltalom a bejelentés napjától számított húsz évig tart.
+22. § (1) A végleges szabadalmi oltalom a bejelentés napjától számított húsz évig tart.
+
+(2) Az oltalmi idő azon a napon jár le, amely számánál fogva megfelel a kezdőnapnak, ha pedig ez a nap a lejárat hónapjában hiányzik, a hónap utolsó napján. Az oltalom a lejárat napjának elteltével szűnik meg.
 
 ### Kiegészítő oltalom
 
-22/A. § (1) Az Európai Közösség rendeleteiben meghatározott esetben, feltételekkel és időtartamra a találmány tárgya kiegészítő oltalomban részesül azt követően, hogy a szabadalmi oltalom az oltalmi idő lejártával megszűnik.
+22/A. § (1) Az Európai Unió rendeleteiben meghatározott esetben, feltételekkel és időtartamra a találmány tárgya kiegészítő oltalomban részesül azt követően, hogy a szabadalmi oltalom az oltalmi idő lejártával megszűnik.
 
-(2) Az (1) bekezdésben említett európai közösségi rendeletek végrehajtására vonatkozó részletes szabályokat külön jogszabály állapítja meg.
+(2) Az (1) bekezdésben említett európai uniós rendeletek végrehajtására vonatkozó részletes szabályokat külön jogszabály állapítja meg.
 
-(3) Az (1) bekezdésben említett európai közösségi rendeletek, illetve a (2) bekezdésben említett külön jogszabály eltérő rendelkezése hiányában a kiegészítő oltalmi tanúsítványokkal kapcsolatos ügyekben e törvény rendelkezéseit kell megfelelően alkalmazni.
+(3) Az (1) bekezdésben említett európai uniós rendeletek, illetve a (2) bekezdésben említett külön jogszabály eltérő rendelkezése hiányában a kiegészítő oltalmi tanúsítványokkal kapcsolatos ügyekben e törvény rendelkezéseit kell megfelelően alkalmazni.
 
 (4) A kiegészítő oltalmi tanúsítvány tartamára évenként fenntartási díjat kell fizetni. A díj az alapszabadalom alapjául szolgáló szabadalmi bejelentés napjának megfelelő naptári napon előre esedékes. A tanúsítvány megadását megelőzően esedékessé vált fenntartási díjat a megadó határozat jogerőre emelkedésétől, a többi fenntartási díjat pedig az esedékességtől számított hat hónapos türelmi idő alatt is meg lehet fizetni.
 
@@ -330,7 +332,9 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 27. § (1) Hasznosítási szerződés (szabadalmi licenciaszerződés) alapján a szabadalmas engedélyt ad a találmány hasznosítására, a hasznosító pedig köteles ennek fejében díjat fizetni.
 
-(2)–(3)
+(2)
+
+(3)
 
 ### A felek jogai és kötelezettségei
 
@@ -403,7 +407,7 @@ A magyar nemzetgazdaság műszaki fejlődésének, a korszerű technika meghonos
 
 33/B. § (1) A Szellemi Tulajdon Nemzeti Hivatala az egészségügyről szóló 1997. évi CLIV. törvény 228. § (2) bekezdése szerinti egészségügyi válsághelyzettel (a továbbiakban: egészségügyi válsághelyzet) összefüggő belföldi szükségletek kielégítése, illetve más országban felmerülő közegészségügyi probléma kezelésére szolgáló kényszerengedéllyel (a továbbiakban: külföldi kényszerengedély) összefüggő exportcélú hasznosítás céljából közegészségügyi kényszerengedélyt (a továbbiakban: közegészségügyi kényszerengedély) ad
 
-- a) szabadalmi vagy kiegészítő oltalom alatt álló gyógyszer, hatóanyag vagy vizsgálati gyógyszer, szabadalmi oltalom alatt álló orvostechnikai eszköz (a továbbiakban együtt: egészségügyi termék), vagy
+- a) szabadalmi vagy kiegészítő oltalom alatt álló gyógyszer vagy hatóanyag, szabadalmi oltalom alatt álló orvostechnikai eszköz (a továbbiakban együtt: egészségügyi termék), vagy
 - b) egészségügyi termék előállításához szükséges, szabadalmi oltalom alatt álló eljárás, berendezés vagy eszköz
 
 hasznosítására.
@@ -542,7 +546,9 @@ hasznosítására.
 
 (4) A szabadalmi oltalomról történő lemondás visszavonásának nincs jogi hatálya.
 
-### A szabadalom megsemmisítéseés korlátozása
+### A szabadalom megsemmisítése
+
+és korlátozása
 
 42. § (1) A szabadalmat — a bejelentés napjára visszaható hatállyal — meg kell semmisíteni, ha
 
@@ -600,7 +606,9 @@ hasznosítására.
 
 (2) Szabadalmi ügyekben nem alkalmazható az Ákr. 3. §-a, 5. § (1) bekezdése, 13. § (8) bekezdése, 14. § (1) bekezdése, 21. §-a, 26. §-a, 37. § (2) bekezdése, 46. § (2) bekezdése, 48. § (1)–(4) bekezdése, 62. § (1) bekezdése, 74. § (1) bekezdése, 75. §-a, 76. §-a, 87. §-a, 94. § (2) bekezdése, 97. §-a, 127. § (2) bekezdése és 130. §-a.
 
-(3) Szabadalmi ügyekben nem alkalmazhatóak az Ákr. jogutódlásra vonatkozó rendelkezései. Szabadalmi ügyekben sommás eljárásnak nincs helye és a kérelem kormányablaknál nem terjeszthető elő.
+(3) Szabadalmi ügyekben sommás eljárásnak nincs helye és a kérelem kormányablaknál nem terjeszthető elő.
+
+(3a) Szabadalmi ügyekben az Ákr.-nek a döntés kijavítására vonatkozó rendelkezései a végleges szabadalmi oltalom alapját képező leírás, igénypont és rajz tekintetében csak a döntés meghozatalától számított egy éven belül, és csak egy alkalommal alkalmazhatóak.
 
 (4) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó szabadalmi ügyekben – jogszabály eltérő rendelkezése hiányában – kérelemre jár el.
 
@@ -612,8 +620,9 @@ hasznosítására.
 
 (6) Ha a kérelmező, illetve képviselője a Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó szabadalmi ügyben elektronikus kapcsolattartásra kötelezett vagy elektronikus úton kíván kapcsolatot tartani a Szellemi Tulajdon Nemzeti Hivatalával, a kérelemnek az (5) bekezdésben meghatározott adatokon túl tartalmaznia kell
 
-- a) a természetes személy kérelmező, illetve képviselő születési helyét és idejét, valamint anyja nevét;
-- b) a nem természetes személy kérelmező, illetve képviselő adószámát.
+- a) a természetes személy kérelmező, illetve képviselő születési helyét és idejét, valamint anyja nevét,
+- b) a c) pont szerinti szervezetektől eltérő, nem természetes személy kérelmező, illetve képviselő adószámát, és
+- c) a hivatali kapu tárhely használatára kötelezett szervezetek esetén a hivatali kapu rövid nevét és KRID azonosítóját.
 
 (7) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó szabadalmi ügyekben – tájékoztatás kérése és annak teljesítése, az iratokba való betekintés, valamint a szóbeli tárgyalás kivételével – kapcsolattartásnak csak írásbeli, valamint azonosításhoz kötött elektronikus úton van helye, tájékoztatás azonban nem kérhető és ilyen kérés nem teljesíthető rövid szöveges üzenet útján.
 
@@ -697,7 +706,11 @@ hasznosítására.
 
 (3) A Szellemi Tulajdon Nemzeti Hivatala a szabadalmi eljárást az ügyfél kérelmére vagy hivatalból felfüggeszti, ha az ügy az azzal szorosan összefüggő, a hatáskörébe tartozó egyéb eljárásban hozott döntése nélkül megalapozottan nem dönthető el.
 
-(4) A szabadalom megadására irányuló eljárás a bejelentő kérelmére nem szünetelhet, kivéve, ha az (1) vagy a (3) bekezdés alkalmazásának volna helye.
+(3a) A szabadalmi eljárás több ellenérdekű ügyfél esetén az ügyfelek együttes kérelmére szünetel. A szünetelést a Szellemi Tulajdon Nemzeti Hivatala végzéssel állapítja meg. Egy eljárás csak egy alkalommal szünetelhet. Az eljárást bármelyik ügyfél kérelmére folytatni kell. Hat hónapi szünetelés után a csak kérelemre folytatható eljárás megszűnik.
+
+(4) A bejelentő kérelmére a szabadalom megadására irányuló eljárás nem függeszthető fel, kivéve, ha az (1) vagy a (3) bekezdés alkalmazásának van helye.
+
+(4a) A szabadalom megadására irányuló eljárás nem szünetelhet.
 
 (5) Az eljárás felfüggesztésekor minden határidő megszakad, és az eljárás felfüggesztésének megszüntetésekor újra kezdődik.
 
@@ -734,7 +747,7 @@ hasznosítására.
 
 53. § (1) A szabadalmi bejelentés közzétételéig csak a bejelentő, a képviselő, a szakértő, illetve a szakvélemény adására felkért szerv, valamint – ha ez törvényben meghatározott feladataik ellátásához szükséges – a bíróság, az ügyészség vagy a nyomozó hatóság tekintheti meg az iratokat. A feltaláló az iratokat megtekintheti akkor is, ha nem ő az igényjogosult. A közzétételt követően a szabadalmi bejelentés iratait – a (2) bekezdésben foglalt kivételekkel – bárki megtekintheti.
 
-(1a) A kérelemre megtekinthető iratokba való betekintést a Szellemi Tulajdon Nemzeti Hivatala személyes megjelenéshez kötötten biztosítja.
+(1a)
 
 (2) A közzétételt követően sem tekinthetők meg
 
@@ -809,7 +822,7 @@ hasznosítására.
 
 53/D. § (1) Szabadalmi ügyekben a Szellemi Tulajdon Nemzeti Hivatala az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
 
-(2) Szabadalmi ügyekben a gazdálkodó szervezet és az ügyfél jogi képviselője nem köteles elektronikus ügyintézésre.
+(2) Szabadalmi ügyekben az ügyfél és az ügyfél jogi képviselője nem köteles elektronikus ügyintézésre.
 
 ### A Szabadalmi Jogi Szerződés alkalmazása
 
@@ -817,18 +830,28 @@ hasznosítására.
 
 (2) Ha a szabadalmi ügyben előterjesztett beadvány megfelel a Szabadalmi Jogi Szerződésben megszabott követelményeknek, az e törvényben, illetve az e törvény alapján előírt – azonos tárgyú – követelményeket is teljesítettnek kell tekinteni, azoknak a követelményeknek a kivételével, amelyeket e törvény vagy e törvény alapján más jogszabály a Szabadalmi Jogi Szerződésben kapott felhatalmazás szerint ír elő.
 
-### VIII. Fejezet — Szabadalmi lajstrom, hatósági tájékoztatás
+### VIII. Fejezet — SZABADALMI NYILVÁNTARTÁSOK, HATÓSÁGI TÁJÉKOZTATÁS
 
-### Szabadalmi lajstrom
+### Bejelentési nyilvántartás, szabadalmi lajstrom
 
-54. § (1) A Szellemi Tulajdon Nemzeti Hivatala a közzétett szabadalmi bejelentésekről és a szabadalmakról lajstromot vezet, amelybe – az 55. §-nak megfelelően – be kell jegyezni a szabadalmi jogokkal kapcsolatos tényeket és körülményeket. Az európai szabadalmakat (X/A. fejezet) a lajstrom külön részében kell feltüntetni.
+54. § (1) A Szellemi Tulajdon Nemzeti Hivatala a közzétételt megelőzően a szabadalmi bejelentésekről nyilvántartást, a közzétett szabadalmi bejelentésekről és a szabadalmakról lajstromot vezet, amelyekbe – az 55. §-nak megfelelően – be kell jegyezni a szabadalmi jogokkal kapcsolatos tényeket és körülményeket. Az európai szabadalmakat (X/A. Fejezet) a lajstrom külön részében kell feltüntetni.
+
+(1a) A szabadalmi bejelentésekről vezetett nyilvántartásban fel kell tüntetni különösen
+
+- a) az ügyszámot,
+- b) a bejelentés címét,
+- c) a bejelentő nevét (elnevezését) és lakcímét (székhelyét),
+- d) a képviselő nevét és székhelyét,
+- e) a feltaláló nevét és lakcímét,
+- f) a bejelentés napját, és
+- g) az elsőbbséget.
 
 (2) A szabadalmi lajstromban fel kell tüntetni különösen
 
 - a) a szabadalom lajstromszámát,
 - b) az ügyszámot,
-- c) a szabadalom címét,
-- d) a szabadalom jogosultjának nevét (elnevezését) és lakcímét (székhelyét),
+- c) a bejelentés vagy a szabadalom címét,
+- d) a bejelentő vagy a szabadalom jogosultjának nevét (elnevezését) és lakcímét (székhelyét),
 - e) a képviselő nevét és székhelyét,
 - f) a feltaláló nevét és lakcímét,
 - g) a bejelentés napját,
@@ -836,7 +859,7 @@ hasznosítására.
 - i) a szabadalmat megadó határozat keltét,
 - j) a fizetett fenntartási díj összegét és a fizetés időpontját,
 - k) a szabadalmi oltalom megszűnését, annak jogcímét és időpontját, valamint a szabadalom korlátozását,
-- l) a hasznosítási és a kényszerengedélyeket,
+- l) a hasznosítási és a kényszerengedélyeket, és
 - m) azt, ha a szabadalmi igény vagy a szabadalmi oltalomból eredő jogok bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartoznak.
 
 (3) A szabadalmi lajstrom a bejegyzett jogok és tények fennállását hitelesen tanúsítja. Az ellenkező bizonyításáig a szabadalmi lajstromba bejegyzett jogokról és tényekről vélelmezni kell, hogy azok fennállnak. A szabadalmi lajstromban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki vitatja a helyességüket vagy a valósággal való egyezőségüket.
@@ -845,15 +868,15 @@ hasznosítására.
 
 (5) A szabadalmi lajstromot bárki megtekintheti, ahhoz a Szellemi Tulajdon Nemzeti Hivatala a honlapján elektronikus hozzáférést biztosít. A szabadalmi lajstromban foglalt adatokról díj ellenében bárki hitelesített kivonatot kérhet.
 
-### Bejegyzés a szabadalmi lajstromba
+### Bejegyzés a bejelentési nyilvántartásba és a szabadalmi lajstromba
 
-55. § (1) A szabadalmi lajstromba a Szellemi Tulajdon Nemzeti Hivatala a saját döntése, más hatóság döntése vagy a bíróság határozata alapján tesz bejegyzést, továbbá feltünteti abban a szabadalmi eljárásokban bekövetkezett tényeket. A 85. § (1) bekezdése szerinti döntések alapján tett bejegyzések tekintetében a lajstrom tartalmazza a döntések jogerőre emelkedésének napját is. Ha a 85. § (1) bekezdése szerinti valamely döntés ellen megváltoztatási kérelmet nyújtottak be, ezt a tényt, valamint azt, hogy a döntés nem jogerős, szintén fel kell tüntetni.
+55. § (1) A szabadalmi bejelentésekről vezetett nyilvántartásba és a szabadalmi lajstromba a Szellemi Tulajdon Nemzeti Hivatala a saját döntése, más hatóság döntése vagy a bíróság határozata alapján tesz bejegyzést, továbbá feltünteti abban a szabadalmi eljárásokban bekövetkezett tényeket. A 85. § (1) bekezdése szerinti döntések alapján tett bejegyzések tekintetében a bejelentési nyilvántartás és a lajstrom tartalmazza a döntések jogerőre emelkedésének napját is. Ha a 85. § (1) bekezdése szerinti valamely döntés ellen megváltoztatási kérelmet nyújtottak be, ezt a tényt, valamint azt, hogy a döntés nem jogerős, szintén fel kell tüntetni.
 
 (2) A szabadalmi oltalommal összefüggő jogok és tények tudomásulvétele, illetve bejegyzése ügyében – a szabadalmi eljárásokban bekövetkezett tények kivételével – a Szellemi Tulajdon Nemzeti Hivatala írásban előterjesztett kérelem alapján dönt, azzal, hogy az ügyfél adatainak változásáról más hatóságtól kapott értesítés nem tekinthető írásban előterjesztett kérelemnek. A kérelemhez csatolni kell az alapul szolgáló közokiratot vagy megfelelő bizonyító erejű magánokiratot. Ha ugyanabban az ügyben olyan kérelmeket nyújtanak be, amelyek teljesítése kizárná egymást, a kérelmeket a beérkezésük sorrendjében kell elbírálni.
 
-(2a) A Szellemi Tulajdon Nemzeti Hivatala a szabadalmi lajstromnak a feltalálóra és a szerzőségi arányra vonatkozó bejegyzését kérelemre a lajstromban feltüntetett valamennyi feltaláló és valamennyi kérelmező egybehangzó nyilatkozata vagy a kérelemhez mellékelt jogerős bírósági ítélet alapján módosítja.
+(2a) A Szellemi Tulajdon Nemzeti Hivatala a szabadalmi bejelentésekről vezetett nyilvántartásnak és a szabadalmi lajstromnak a feltalálóra és a szerzőségi arányra vonatkozó bejegyzését kérelemre a bejelentési nyilvántartásban vagy a lajstromban feltüntetett valamennyi feltaláló és valamennyi kérelmező egybehangzó nyilatkozata vagy a kérelemhez mellékelt jogerős bírósági ítélet alapján módosítja.
 
-(2b) A (2a) bekezdést alkalmazni kell a szabadalmi bejelentés közzététele előtt is, azzal az eltéréssel, hogy a lajstrombejegyzés módosítása helyett a Szellemi Tulajdon Nemzeti Hivatala a módosítást a szabadalmi bejelentés iratain vezeti át.
+(2b)
 
 (3) Nem teljesíthető a kérelem olyan okirat alapján, amely alaki hiány miatt érvénytelen, amelynél a jogszabályban előírt hatósági jóváhagyás hiányzik, illetve ha az okirat tartalmából kitűnően az abban foglalt jognyilatkozat érvénytelen.
 
@@ -895,7 +918,7 @@ kell benyújtani, a korábban lejáró határidő figyelembevételével.
 
 (6) A bejelentő a közzétételig — a 41. § rendelkezéseinek megfelelő alkalmazásával — visszavonhatja a szabadalmi bejelentést.
 
-57/A. §
+#### 57/A. §
 
 ### A bejelentés napja
 
@@ -961,7 +984,9 @@ kell benyújtani, a korábban lejáró határidő figyelembevételével.
 
 (3) Nincs helye származtatásnak, ha a használati mintaoltalmi bejelentést európai szabadalmi bejelentésből vagy európai szabadalomból származtatták.
 
-### A biológiai anyag letétbe helyezéseés hozzáférhetősége
+### A biológiai anyag letétbe helyezése
+
+és hozzáférhetősége
 
 63. § (1) Ha a köz számára hozzá nem férhető biológiai anyagon vagy annak alkalmazásán alapuló találmány a szabadalmi bejelentésben nem tárható fel a 60. § (1) bekezdése szerint, akkor igazolni kell, hogy a biológiai anyagot legkésőbb a szabadalmi bejelentés napján letétbe helyezték a mikroorganizmusok szabadalmi eljárás céljából történő letétbe helyezése nemzetközi elismeréséről szóló Budapesti Szerződésnek megfelelően.
 
@@ -1041,7 +1066,7 @@ kell benyújtani, a korábban lejáró határidő figyelembevételével.
 
 (12) Ha a bejelentési és kutatási díjat nem fizették meg, illetve a magyar nyelvű szabadalmi leírást igényponttal, kivonatot és rajzot nem nyújtották be, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a bejelentőt a törvény által meghatározott határidőben [57. § (4) és (5) bek.] történő hiánypótlásra. Ennek elmaradása esetén a bejelentést visszavontnak kell tekinteni.
 
-67. §
+#### 67. §
 
 ### Alaki vizsgálat
 
@@ -1055,12 +1080,7 @@ kell benyújtani, a korábban lejáró határidő figyelembevételével.
 
 ### Újdonságkutatás
 
-69. § (1) Ha a szabadalmi bejelentés megfelel a 65. § a) és b) pontjai alapján vizsgált feltételeknek és a bejelentő
-
-- a) benyújtotta a magyar nyelvű szabadalmi leírást igényponttal, a kivonatot és – szükség szerint – a rajzot, vagy
-- b) a 69/A. § (13) bekezdése szerinti kérelemmel él,
-
-a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az igénypontok alapján – figyelemmel a szabadalmi leírásra és a rajzra – újdonságkutatási jelentést készít.
+69. § (1) Ha a szabadalmi bejelentés megfelel a 65. § a) és b) pontja alapján vizsgált feltételeknek, és a bejelentő magyar vagy angol nyelven benyújtotta a szabadalmi leírást igényponttal, valamint a kivonatot és – szükség szerint – a rajzot, a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az igénypontok alapján – figyelemmel a szabadalmi leírásra és a rajzra – újdonságkutatási jelentést készít.
 
 (1a) Ha a szabadalmi bejelentés – az összes igénypont vagy egyes igénypontok tekintetében – alkalmatlan arra, hogy vele kapcsolatban megfelelő újdonságkutatást lehessen elvégezni, az újdonságkutatási jelentés csupán az erre való utalást és ennek indokolását tartalmazza. Ha a szabadalmi bejelentés tartalmaz újdonságkutatásra alkalmas igénypontokat is, a Szellemi Tulajdon Nemzeti Hivatala ezekre nézve részleges újdonságkutatási jelentést készít.
 
@@ -1141,7 +1161,7 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 ### Módosítás és megosztás
 
-72. § (1) A szabadalmi bejelentés új tartalom bevitelével nem változtatható meg úgy, hogy tárgya bővebb legyen annál, amit a bejelentés napján benyújtott bejelentésben feltártak.
+72. § (1) A szabadalmi bejelentés nem változtatható meg úgy, hogy tárgya bővebb legyen annál, amit a bejelentés napján benyújtott bejelentésben feltártak.
 
 (2) A bejelentő – az (1) bekezdésben megszabott keretek között – a szabadalom megadása kérdésében hozott döntés meghozatalának napjáig módosíthatja a szabadalmi leírást, az igénypontot és a rajzot.
 
@@ -1172,11 +1192,11 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 76. § (1) Ha a szabadalmi bejelentés nem felel meg a 74. § (2) bekezdése alapján vizsgált követelményeknek, a bejelentőt — a kifogás természete szerint —hiánypótlásra, nyilatkozattételre, illetve a bejelentés megosztására kell felhívni.
 
-(2) A szabadalmi bejelentést egészében vagy részben el kell utasítani, ha a hiánypótlás, illetve a nyilatkozat ellenére sem elégíti ki a vizsgált követelményeket.
+(2) A szabadalmi bejelentést el kell utasítani, ha a hiánypótlás, illetve a nyilatkozat ellenére sem elégíti ki a vizsgált követelményeket.
 
 (3) A bejelentést csak a felhívásban pontosan, határozottan megjelölt és kellően kifejtett okok alapján lehet elutasítani. A szükséghez képest újabb felhívást kell kiadni.
 
-(4) Ha a bejelentő a felhívásra nem válaszol, illetve a bejelentést nem osztja meg, azt úgy kell tekinteni, hogy lemondott az ideiglenes szabadalmi oltalomról.
+(4) Ha a bejelentő a felhívásra nem válaszol, azt úgy kell tekinteni, hogy lemondott az ideiglenes szabadalmi oltalomról.
 
 ### A szabadalom megadása
 
@@ -1206,7 +1226,7 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (2) A 42. § (1) bekezdésének d) pontja alapján az kérheti a szabadalom megsemmisítését, akit az a törvény szerint megilletne.
 
-(3) A 45. § (5)–(6) bekezdésében meghatározott adatokon túl a kérelemben meg kell jelölni a megsemmisítés alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat.
+(3) A 45. § (5)–(6) bekezdésében meghatározott adatokon túl a kérelemben meg kell jelölni a megsemmisítés alapjául szolgáló – a 42. § (1) bekezdésében meghatározott körbe tartozó – okot, és mellékelni kell az ezt alátámasztó bizonyítékokat.
 
 (4) A megsemmisítési kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
 
@@ -1220,11 +1240,17 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 81. § (1) A Szellemi Tulajdon Nemzeti Hivatala a megsemmisítési kérelemmel kapcsolatban nyilatkozattételre hívja fel a szabadalmast és – szolgálati találmányra adott szabadalom esetén – a feltalálót, majd írásbeli előkészítés után szóbeli tárgyalás alapján határoz a szabadalom megsemmisítéséről, korlátozásáról vagy a kérelem elutasításáról. Az eljárást befejező végzés tárgyaláson kívül is meghozható. A Szellemi Tulajdon Nemzeti Hivatala által a kérelmező számára kitűzött határidő elteltét követően a megsemmisítés alapjául szolgáló okként nem jelölhető meg olyan ok, amelyet az említett határidőn belül nem jelöltek meg a megsemmisítés okaként. Az így megjelölt okot az eljárást befejező határozat meghozatalakor figyelmen kívül kell hagyni.
 
+(1a) A Szellemi Tulajdon Nemzeti Hivatala a feleknek a kitűzött határnap előtt legkésőbb három nappal előterjesztett, indokolt közös kérelmére a tárgyalást elhalasztja. Később előterjesztett közös kérelemre a tárgyalás kivételesen fontos okból halasztható el.
+
+(1b) A Szellemi Tulajdon Nemzeti Hivatala a kitűzött tárgyalást hivatalból – a tárgyalást megelőzően vagy a tárgyaláson – a tárgyalás megtartása nélkül csak fontos vagy a Szellemi Tulajdon Nemzeti Hivatala érdekkörében felmerült okból, az ok megjelölésével halaszthatja el.
+
+(1c) A tárgyalás elhalasztása esetén a Szellemi Tulajdon Nemzeti Hivatala az új tárgyalási határnap kitűzéséről egyidejűleg intézkedik.
+
 (2) Az egy szabadalom ellen irányuló több megsemmisítési kérelmet lehetőség szerint egy eljárásban kell elintézni.
 
 (3) A megsemmisítési kérelem visszavonása esetén az eljárást hivatalból folytatni lehet. A Szellemi Tulajdon Nemzeti Hivatala ilyen esetben is a kérelem keretei között, a felek által korábban tett nyilatkozatok és állítások figyelembevételével jár el.
 
-(4) A tárgyalás folyamán hozott végzéseket és a határozatot a tárgyalás napján ki kell hirdetni, és a kihirdetést csak a határozatra nézve és csak akkor lehet – legfeljebb nyolc napra – elhalasztani, ha ez az ügy bonyolultsága miatt feltétlenül szükséges. A kihirdetés határnapját ilyen esetben nyomban ki kell tűzni, és a határozatot a kihirdetés napjáig írásba is kell foglalni.
+(4) A tárgyalás folyamán hozott végzéseket és a határozatot a tárgyalás napján ki kell hirdetni, és a kihirdetést csak a határozatra nézve és csak akkor lehet – legfeljebb nyolc napra – elhalasztani, ha ez az ügy bonyolultsága miatt feltétlenül szükséges. A kihirdetés határnapját ilyen esetben nyomban ki kell tűzni, és a határozatot a kihirdetés napjáig írásba kell foglalni. Az írásba foglalt határozatot a kihirdetéskor jelen lévő feleknek nyomban, a meg nem jelent felek részére pedig a kihirdetéstől számított három napon belül kézbesíteni kell.
 
 (5) A döntés kihirdetése a rendelkező rész és az indokok rövid ismertetéséből áll.
 
@@ -1246,13 +1272,13 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (6) Gyorsított eljárás esetén – a 48. §-ban és a 81. §-ban foglaltaktól eltérően –
 
-- a) hiánypótlásra, illetve nyilatkozattételre tizenöt napos határidő is kitűzhető;
-- b) határidő-hosszabbítás csak különösen indokolt esetben adható;
+- a) hiánypótlásra, illetve nyilatkozattételre legfeljebb tizenöt napos határidőt kell tűzni,
+- b) határidő-hosszabbítás csak különösen indokolt esetben adható, amelynek időtartama legalább tizenöt napos, de legfeljebb két hónapos lehet, és
 - c) a Szellemi Tulajdon Nemzeti Hivatala csak akkor tart szóbeli tárgyalást, ha a tényállás tisztázásához szükség van a felek együttes meghallgatására, vagy bármelyik fél ezt kellő időben kéri.
 
 ### Nemleges megállapítási eljárás
 
-82. § (1) A 45. § (5)–(6) bekezdésében meghatározott adatokon túl a nemleges megállapításra (37. §) irányuló kérelemhez mellékelni kell a hasznosított vagy hasznosítani kívánt termék vagy eljárás, valamint a megjelölt szabadalom leírását és rajzát. Ha az európai szabadalom hatályossá válásához nem nyújtották be az európai szabadalom szövegének magyar nyelvű fordítását, vagy azt a szabadalmas nem bocsátotta a kérelmező rendelkezésére, a Szellemi Tulajdon Nemzeti Hivatala a kérelmező ilyen irányú kérelmére felhívja a szabadalmast e fordítás benyújtására.
+82. § (1) A 45. § (5)–(6) bekezdésében meghatározott adatokon túl a nemleges megállapításra (37. §) irányuló kérelemben meg kell adni a megjelölt szabadalom lajstromszámát és a találmány címét, továbbá a kérelemhez mellékelni kell a hasznosított vagy hasznosítani kívánt termék vagy eljárás leírását és rajzát. Ha az európai szabadalom hatályossá válásához nem nyújtották be az európai szabadalom szövegének magyar nyelvű fordítását, vagy azt a szabadalmas nem bocsátotta a kérelmező rendelkezésére, a Szellemi Tulajdon Nemzeti Hivatala a kérelmező ilyen irányú kérelmére felhívja a szabadalmast e fordítás benyújtására.
 
 (2) A nemleges megállapításra irányuló kérelmet csak egy szabadalom és egy hasznosított vagy hasznosítani kívánt termék vagy eljárás tekintetében lehet benyújtani.
 
@@ -1266,7 +1292,7 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (2) Az európai szabadalom szövege magyar nyelvű fordításának elkészítésével járó költséget a szabadalmas viseli. A nemleges megállapítási eljárás többi költségét a kérelmező viseli.
 
-(3) A 81. § (4)–(6) bekezdéseit a nemleges megállapítási eljárásban is alkalmazni kell.
+(3) A 81. § (1a)–(1c) és (4)–(6) bekezdését a nemleges megállapítási eljárásban is alkalmazni kell.
 
 (4) A 81/A. § rendelkezéseit a nemleges megállapítási eljárásban is alkalmazni kell.
 
@@ -1276,7 +1302,7 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (2) A Szellemi Tulajdon Nemzeti Hivatala a 83/B–83/H. §-okban szabályozott eljárásokban soron kívül jár el.
 
-(3) E törvény 81. §-ának (4)–(6) bekezdéseit a 83/B–83/G. §-okban szabályozott eljárásokban is alkalmazni kell.
+(3) A 81. § (1a)–(1c) és (4)–(6) bekezdését a 83/B–83/G. §-ban szabályozott eljárásokban is alkalmazni kell.
 
 83/B. § (1)
 
@@ -1420,9 +1446,13 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 84. § Ha a szabadalmi leírás értelmezése kérdésében vita támad, az eljáró bíróság vagy egyéb hatóság megkeresésére a Szellemi Tulajdon Nemzeti Hivatala szakvéleményt ad.
 
-## HARMADIK RÉSZ — AZ EURÓPAI SZABADALMI RENDSZERREÉS A NEMZETKÖZI SZABADALMI EGYÜTTMŰKÖDÉSRE VONATKOZÓ RENDELKEZÉSEK
+## HARMADIK RÉSZ — AZ EURÓPAI SZABADALMI RENDSZERRE
 
-### X/A. Fejezet — Az európai szabadalmi bejelentésekreés az európai szabadalmakra vonatkozó rendelkezések
+ÉS A NEMZETKÖZI SZABADALMI EGYÜTTMŰKÖDÉSRE VONATKOZÓ RENDELKEZÉSEK
+
+### X/A. Fejezet — Az európai szabadalmi bejelentésekre
+
+és az európai szabadalmakra vonatkozó rendelkezések
 
 ### Általános szabályok
 
@@ -1512,7 +1542,7 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (7) Ha a fordítás benyújtásakor nem fizették meg az (5) bekezdés szerinti díjat, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a szabadalmast az (5) bekezdésben meghatározott határidőben történő hiánypótlásra. Ennek elmaradását úgy kell tekinteni, hogy a fordítást nem nyújtották be.
 
-(8) Ha az (1) bekezdésben előírt cselekményt nem teljesítik az ott megjelölt határidőn belül, és e cselekményt a (3) bekezdésben megszabott határidőn belül sem teljesítik a pótdíj megfizetése mellett, azt e törvény erejénél fogva úgy kell tekinteni, hogy az európai szabadalom oltalma Magyarországon, annak keletkezésétől fogva hatálytalan.
+(8) Ha az (1) bekezdésben előírt cselekményt nem teljesítik az ott megjelölt határidőn belül, és e cselekményt a (3) bekezdésben megszabott határidőn belül sem teljesítik a pótdíj megfizetése mellett, azt e törvény erejénél fogva úgy kell tekinteni, hogy az európai szabadalom oltalma Magyarországon, a bejelentés napjától hatálytalan.
 
 (9) A szabadalmi lajstrom külön részébe (54. §) be kell jegyezni az európai szabadalmat, ha az (1) bekezdésben előírt fordítást szabályszerűen benyújtották.
 
@@ -1566,7 +1596,7 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (2) Az európai szabadalom megsemmisítésére egyebekben e törvény rendelkezéseit kell megfelelően alkalmazni.
 
-84/O. §
+#### 84/O. §
 
 ### X/B. Fejezet — A nemzetközi szabadalmi bejelentésekre vonatkozó rendelkezések
 
@@ -1592,7 +1622,9 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (6) A Szellemi Tulajdon Nemzeti Hivatala a nemzetközi illeték és a kutatási illeték összegéről és a megfizetésére vonatkozó előírásokról tájékoztatót ad ki, amelyet közzé kell tenni a Szellemi Tulajdon Nemzeti Hivatala hivatalos lapjában.
 
-### A Szellemi Tulajdon Nemzeti Hivatala eljárása megjelöltvagy kiválasztott hivatalként
+### A Szellemi Tulajdon Nemzeti Hivatala eljárása megjelölt
+
+vagy kiválasztott hivatalként
 
 84/S. § (1) A Szellemi Tulajdon Nemzeti Hivatala megjelölt hivatalként jár el azoknak a nemzetközi szabadalmi bejelentéseknek az ügyében, amelyekben Magyarországot a Szerződés értelmében megjelölték, kivéve, ha a nemzetközi bejelentés a Magyarországra is kiterjedő hatályú európai szabadalom [84/A. § a) pont] megadására irányult.
 
@@ -1630,7 +1662,9 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (3) A bejelentő kérelmére a Szellemi Tulajdon Nemzeti Hivatala mint megjelölt hivatal – a 84/P. § (3) bekezdésében foglaltakra is figyelemmel – e törvény rendelkezéseinek megfelelő alkalmazásával végzi el a Szerződés 25. cikkében szabályozott felülvizsgálatot.
 
-## NEGYEDIK RÉSZ — BÍRÓSÁGI ELJÁRÁSSZABADALMI ÜGYEKBEN
+## NEGYEDIK RÉSZ — BÍRÓSÁGI ELJÁRÁS
+
+SZABADALMI ÜGYEKBEN
 
 ### XI. Fejezet — A Szellemi Tulajdon Nemzeti Hivatala döntéseinek felülvizsgálata
 
@@ -1639,7 +1673,7 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 85. § (1) A bíróság kérelemre megváltoztathatja a Szellemi Tulajdon Nemzeti Hivatalának
 
 - a) az 53/A. § (3) bekezdésében felsorolt döntéseit;
-- b) az eljárást felfüggesztő és a szabadalmi lajstromba való bejegyzés tárgyában hozott döntését;
+- b) az eljárást felfüggesztő, a szabadalmi bejelentésekről vezetett nyilvántartásba és a szabadalmi lajstromba való bejegyzés tárgyában hozott döntését;
 - c) az iratbetekintést kizáró vagy korlátozó azt a végzését, amellyel szemben az Ákr. rendelkezései szerint önálló jogorvoslatnak van helye;
 - d) az eljárás megindítására irányuló kérelmet benyújtó ügyfélen kívüli ügyféli jogállást megtagadó végzését;
 - e) az eljárási bírságot kiszabó, valamint az eljárási költség megállapításának és viselésének kérdésében hozott döntését.
@@ -1797,9 +1831,9 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (2) A Fővárosi Törvényszék végzése elleni fellebbezés elbírálása során a Pp. 389–391. §-ában foglaltakat kell megfelelően alkalmazni azzal, hogy a másodfokú bíróság erre irányuló kérelem esetén a feleket szóban is köteles meghallgatni, kivéve, ha a fellebbezést a Szellemi Tulajdon Nemzeti Hivatalának a 85. § (1) bekezdésének c) és d) pontjában meghatározott döntései ellen előterjesztett megváltoztatási kérelem tárgyában hozott végzéssel szemben nyújtották be.
 
-102. §
+#### 102. §
 
-103. §
+#### 103. §
 
 ### XII. Fejezet — Szabadalmi perek
 
@@ -1984,7 +2018,9 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 - b) a növényfajtával kapcsolatos kísérleti célú cselekményekre;
 - c) olyan cselekményekre, amelyeket további fajták nemesítése céljából végeznek, továbbá – azt az esetet kivéve, ha a (4) bekezdés alkalmazásának van helye – az ilyen további fajtákra vonatkozó, a (2) és (3) bekezdésekben említett cselekményekre.
 
-(7)–(8)
+(7)
+
+(8)
 
 ### A növényfajta-oltalomból eredő díjigény
 
@@ -2046,7 +2082,9 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (2) Ha a szolgáltatott adatok valódisága vitatott, a bizonyítás a mezőgazdasági termelőt terheli.
 
-### A növényfajta-oltalomból eredő kizárólagoshasznosítási jog kimerülése
+### A növényfajta-oltalomból eredő kizárólagos
+
+hasznosítási jog kimerülése
 
 110. § (1) A növényfajta-oltalomból eredő kizárólagos hasznosítási jog nem terjed ki az oltalom alatt álló fajtának vagy a 109. § (4) bekezdésében meghatározott fajtának a jogosult által vagy az ő kifejezett hozzájárulásával az Európai Gazdasági Térségben forgalomba hozott anyagával, illetve az abból származó egyéb anyaggal kapcsolatos további cselekményekre.
 
@@ -2056,7 +2094,9 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 ### A növényfajta-oltalom időtartama
 
-111. § A végleges növényfajta-oltalom – a megadástól számítva – szőlők és fák esetében harminc évig, egyéb növényfajták esetében huszonöt évig tart.
+111. § (1) A végleges növényfajta-oltalom – a megadástól számítva – szőlők és fák esetében harminc évig, egyéb növényfajták esetében huszonöt évig tart.
+
+(2) Az oltalmi idő azon a napon jár le, amely számánál fogva megfelel a kezdőnapnak, ha pedig ez a nap a lejárat hónapjában hiányzik, a hónap utolsó napján. Az oltalom a lejárat napjának elteltével szűnik meg.
 
 ### A növényfajta-oltalom fenntartása
 
@@ -2076,7 +2116,9 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (3) A lajstromba bejegyzett fajtanevet a növényfajta forgalomba hozatalra való felkínálása, illetve forgalomba hozatala során a növényfajta-oltalom megszűnése után is használni kell, kivéve, ha ez a használat más korábban szerzett jogát sértené.
 
-### A növényfajtából és a növényfajta-oltalomból eredőegyéb jogok és kötelességek
+### A növényfajtából és a növényfajta-oltalomból eredő
+
+egyéb jogok és kötelességek
 
 114. § (1) A növényfajtából és a növényfajta-oltalomból eredő jogok nem ruházhatók át olyan személyre, aki a 108. § (3) és (4) bekezdése alapján nem szerezhet növényfajta-oltalmat. A jogutódlásra egyebekben a 25. § rendelkezéseit kell megfelelően alkalmazni.
 
@@ -2107,7 +2149,7 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 ### A növényfajta-oltalom megsemmisítése
 
-114/D. § (1) A növényfajta-oltalmat – keletkezésére visszaható hatállyal – meg kell semmisíteni, ha
+114/D. § (1) A növényfajta-oltalmat – a bejelentés napjára visszaható hatállyal – meg kell semmisíteni, ha
 
 - a) a növényfajta-oltalom tárgya a 106. § (3) és (6) bekezdésében meghatározott feltételeknek nem felelt meg;
 - b) a növényfajta-oltalom megadása alapvetően a nemesítő vagy jogutódja állításain, illetve az általa benyújtott iratokon alapult, és a 106. § (4) és (5) bekezdésében meghatározott feltételek a növényfajta-oltalom megadása idején nem teljesültek;
@@ -2115,7 +2157,9 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (2) A megsemmisítési kérelmet elutasító jogerős határozat kizárja, hogy azonos ténybeli alapon ugyanannak a növényfajta-oltalomnak a megsemmisítése iránt bárki újabb eljárást indítson.
 
-### A növényfajta-oltalom megszüntetéseés a fajtanév törlése
+### A növényfajta-oltalom megszüntetése
+
+és a fajtanév törlése
 
 114/E. § (1) A növényfajta-oltalmat meg kell szüntetni – a megszüntetésre irányuló eljárás megindításának napjára visszaható hatállyal, vagy, ha ez a korábbi, arra a napra visszaható hatállyal, amelyen a megszüntetés feltételei már fennálltak –, ha a növényfajta a 106. § (4) és (5) bekezdésében meghatározott feltételeknek az oltalom megadása után már nem felel meg.
 
@@ -2128,13 +2172,17 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (4) A megszüntetési kérelmet és a fajtanév törlésére irányuló kérelmet elutasító jogerős határozat kizárja, hogy azonos ténybeli alapon ugyanannak a növényfajta-oltalomnak a megszüntetése vagy ugyanannak a fajtanévnek a törlése iránt bárki újabb eljárást indítson.
 
-### A növényfajta-oltalom megszűnésére vonatkozóegyéb rendelkezések
+### A növényfajta-oltalom megszűnésére vonatkozó
+
+egyéb rendelkezések
 
 114/F. § A növényfajta-oltalom megszűnésére egyebekben a 38–41. §-ok és a 43. § rendelkezéseit kell megfelelően alkalmazni azzal, hogy a végleges növényfajta-oltalom a 39. §-ban meghatározott eseteken kívül akkor is megszűnik, ha a növényfajta-oltalmat megszüntették, a megszüntetésre irányuló eljárás megindításának napjára visszaható hatállyal, illetve azon a napon, amikor a megszüntetés feltételei már fennálltak.
 
 ### XIV. Fejezet — A Szellemi Tulajdon Nemzeti Hivatala eljárása növényfajta-oltalmi ügyekben
 
-### A növényfajta-oltalmi eljárások általánosszabályai
+### A növényfajta-oltalmi eljárások általános
+
+szabályai
 
 114/G. § (1) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe a következő növényfajta-oltalmi ügyek tartoznak:
 
@@ -2172,17 +2220,23 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (9) A növényfajta-oltalmi eljárások általános szabályaira az (1)–(8) bekezdésben nem szabályozott kérdésekben a VII. fejezet rendelkezéseit kell megfelelően alkalmazni.
 
-(10)–(12)
+(10)
 
-### Növényfajta-oltalmi lajstrom, hatósági tájékoztatás
+(11)
 
-114/H. § (1) A Szellemi Tulajdon Nemzeti Hivatala a növényfajta-oltalmi bejelentésekről és a növényfajta-oltalmakról lajstromot vezet, amelybe be kell jegyezni a növényfajta-oltalommal kapcsolatos tényeket és körülményeket. A növényfajta-oltalmi lajstromra, valamint az abba való bejegyzésre az 54. § (2)–(5) bekezdésében és az 55. §-ban foglalt rendelkezéseket megfelelően alkalmazni kell azzal, hogy ahol a törvény a szabadalom címére utal, azon a fajtanevet, a növényfaj nevét és latin nevét kell érteni.
+(12)
+
+### Növényfajta-oltalmi nyilvántartások, hatósági tájékoztatás
+
+114/H. § (1) A Szellemi Tulajdon Nemzeti Hivatala a közzétételt megelőzően a növényfajta-oltalmi bejelentésekről nyilvántartást a közzétett növényfajta-oltalmi bejelentésekről és a növényfajta-oltalmakról lajstromot vezet, amelyekbe be kell jegyezni a növényfajta-oltalommal kapcsolatos tényeket és körülményeket. A növényfajta-oltalmi bejelentésekről vezetett nyilvántartásra és a növényfajta-oltalmi lajstromra, valamint az azokba való bejegyzésre az 54. § (2)–(5) bekezdésében és az 55. §-ban foglalt rendelkezéseket alkalmazni kell azzal, hogy ahol a törvény a szabadalom címére utal, azon a fajtanevet, a növényfaj nevét és latin nevét kell érteni.
 
 (2) A növényfajta-oltalmi bejelentésekkel és a növényfajta-oltalommal kapcsolatos hatósági tájékoztatásra az 56. § rendelkezéseit megfelelően alkalmazni kell azzal, hogy ahol a törvény a szabadalom vagy találmány címére utal, azon a fajtanevet, a növényfaj nevét és latin nevét kell érteni.
 
 (3) A Szellemi Tulajdon Nemzeti Hivatala az UPOV-egyezmény hatálya alá tartozó államok és nemzetközi szervezetek részére a fajtanév bejelentéséről, lajstromba történő bejegyzéséről, illetve törléséről és a törlést követően bejegyzett új fajtanévről – az UPOV-egyezmény irányadó rendelkezéseinek megfelelően – tájékoztatást ad.
 
-### A növényfajta-oltalom megadására irányuló eljárás;a növényfajta-oltalmi bejelentés benyújtása és kellékei
+### A növényfajta-oltalom megadására irányuló eljárás;
+
+a növényfajta-oltalmi bejelentés benyújtása és kellékei
 
 114/I. § (1) A növényfajta-oltalom megadására irányuló eljárás a Szellemi Tulajdon Nemzeti Hivatalához benyújtott bejelentéssel indul meg.
 
@@ -2210,7 +2264,9 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (2) A bejelentési nap elismeréséhez az ideiglenes fajtaleírás benyújtása helyett elsőbbségi iratra is elegendő utalni.
 
-### Egység;a növényfajta-oltalmi bejelentés megosztása
+### Egység;
+
+a növényfajta-oltalmi bejelentés megosztása
 
 114/K. § (1) A növényfajta-oltalmi bejelentésben csak egy növényfajtára igényelhető növényfajta-oltalom.
 
@@ -2253,7 +2309,9 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (2) A növényfajta-oltalom megadására irányuló eljárásban a közzétételt követően bárki észrevételt nyújthat be a Szellemi Tulajdon Nemzeti Hivatalához arra vonatkozóan, hogy a növényfajta, illetve annak bejelentése nem felel meg az e törvényben meghatározott valamely oltalmazhatósági feltételnek. Az észrevételre egyebekben a 71. § (2) és (3) bekezdésének rendelkezéseit kell megfelelően alkalmazni.
 
-### A növényfajtákra vonatkozó bejelentésekérdemi vizsgálata
+### A növényfajtákra vonatkozó bejelentések
+
+érdemi vizsgálata
 
 114/R. § (1) A Szellemi Tulajdon Nemzeti Hivatala a bejelentés érdemi vizsgálatát abból a szempontból végzi, hogy
 
@@ -2287,7 +2345,9 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (3) A Szellemi Tulajdon Nemzeti Hivatala a növényfajta-oltalom megadását követően okiratot ad ki. Ehhez hozzáfűzi a végleges fajtaleírást.
 
-### A növényfajta-oltalommal kapcsolatosegyéb eljárások
+### A növényfajta-oltalommal kapcsolatos
+
+egyéb eljárások
 
 114/U. § (1) A növényfajta-oltalom megsemmisítését, a növényfajta-oltalom megszüntetését és a fajtanév törlését bárki kérheti a növényfajta-oltalom jogosultjával szemben. A 114/D. § (1) bekezdésének c) pontja alapján azonban csak az kérheti a növényfajta-oltalom megsemmisítését, akit az a törvény szerint megilletne.
 
@@ -2295,7 +2355,9 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 ### XIV/A. Fejezet — Bírósági eljárás növényfajta-oltalmi ügyekben
 
-### A növényfajta-oltalmi ügyekben folyóbírósági eljárásokra alkalmazandó szabályok
+### A növényfajta-oltalmi ügyekben folyó
+
+bírósági eljárásokra alkalmazandó szabályok
 
 114/V. § A növényfajta-oltalommal kapcsolatos bírósági eljárásokra a XI–XII. fejezetek rendelkezéseit kell megfelelően alkalmazni, azzal, hogy az 53/A. § (3) bekezdésében említett döntéseken a 114/G. § (7) bekezdésében említett döntéseket kell érteni.
 
@@ -2396,7 +2458,7 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 115/H. § (1) A Hivatal a következő – e törvényben és külön jogszabályokban meghatározott – iparjogvédelmi hatósági feladatokat látja el:
 
 - a) szabadalmi, növényfajta-oltalmi, használati mintaoltalmi, topográfiaoltalmi, formatervezési mintaoltalmi, védjegy- és földrajzi árujelző-oltalmi, valamint kiegészítő oltalmi bejelentések vizsgálata, e bejelentések alapján az oltalom megadása és nyilvántartása, valamint a megadott jogokkal összefüggő eljárások lefolytatása;
-- b) nemzetközi szabadalmi, ipari mintaoltalmi, védjegy- és eredetmegjelölési bejelentések vizsgálata és továbbítása, valamint a nemzetközi szerződésen alapuló regionális iparjogvédelmi együttműködésből, egyéb nemzetközi szerződésből, továbbá európai közösségi jogszabályból a nemzeti iparjogvédelmi hatóságra tartozó kutatási, vizsgálati, továbbítási, nyilvántartás-vezetési és egyéb eljárási cselekmények elvégzése.
+- b) nemzetközi szabadalmi, ipari mintaoltalmi, védjegy- és eredetmegjelölési bejelentések vizsgálata és továbbítása, valamint a nemzetközi szerződésen alapuló regionális iparjogvédelmi együttműködésből, egyéb nemzetközi szerződésből, továbbá európai uniós jogszabályból a nemzeti iparjogvédelmi hatóságra tartozó kutatási, vizsgálati, továbbítási, nyilvántartás-vezetési és egyéb eljárási cselekmények elvégzése.
 
 (2) A vámhatóság megkeresésére a Hivatal tájékoztatást ad az iparjogvédelmi jogosult személyéről a szellemi tulajdonjogok megsértése miatt indult vámigazgatási eljárásban.
 
@@ -2433,7 +2495,7 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (3) A Hivatal vizsgálja és elemzi a szellemi tulajdon védelmére vonatkozó jogszabályok hatályosulását, felméri és értékeli e jogszabályok alkalmazásának hatásait, tapasztalatait.
 
-(4) A szellemi tulajdon védelmének erősítése érdekében a Hivatal – összhangban a nemzetközi és az európai közösségi kötelezettségekkel, valamint a Kormány gazdaságstratégiai, kutatás-fejlesztési, innováció- és technológiapolitikai, illetve kulturális politikai célkitűzéseivel – kezdeményezi új iparjogvédelmi és szerzői jogi jogszabályok megalkotását, illetve a szabályozás módosítását, és részt vesz e jogszabályok előkészítésében.
+(4) A szellemi tulajdon védelmének erősítése érdekében a Hivatal – összhangban a nemzetközi és az európai uniós kötelezettségekkel, valamint a Kormány gazdaságstratégiai, kutatás-fejlesztési, innováció- és technológiapolitikai, illetve kulturális politikai célkitűzéseivel – kezdeményezi új iparjogvédelmi és szerzői jogi jogszabályok megalkotását, illetve a szabályozás módosítását, és részt vesz e jogszabályok előkészítésében.
 
 115/K. § A Hivatal a szellemi tulajdon védelmére irányuló kormányzati stratégia kidolgozása és érvényesítése, valamint az ehhez szükséges állami intézkedések kezdeményezése, illetve végrehajtása érdekében különösen a következő feladatokat látja el:
 
@@ -2486,7 +2548,7 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (4) A mentesség, illetve a halasztás iránti kérelemhez csatolni kell a kérelmező és a vele közös háztartásban élő, a Polgári Törvénykönyv szerinti közeli hozzátartozónak (a továbbiakban: közeli hozzátartozó) a harminc napnál nem régebbi munkáltatói jövedelemigazolását, illetve nyugdíjas esetén – a munkáltatói jövedelemigazolás helyett vagy mellett – az utolsó havi nyugdíjszelvényt (postai szelvényt) vagy a nyugdíj folyószámlára történő utalása esetén az utolsó havi bankszámlakivonatot.
 
-(5) Ha a kérelmezőnek, valamint a vele közös háztartásban élő közeli hozzátartozónak munkajövedelemnek (nyugdíjjövedelemnek) nem minősülő jövedelme van (pl. ösztöndíj, szakképzéssel összefüggő juttatás, társadalombiztosítás alapján járó ellátás, munkanélküli járadék, egyéb rendszeres pénzbeli juttatás, vállalkozói kivét, ingatlan-bérbeadás, kamatjövedelem, árfolyamnyereség, osztalékjövedelem), akkor köteles az ezekről a jövedelmekről szóló postai szelvényt, bankszámlakivonatot, kiadási pénztárbizonylatot vagy egyéb, a jövedelem igazolására alkalmas dokumentumot csatolni.
+(5) Ha a kérelmezőnek, valamint a vele közös háztartásban élő közeli hozzátartozónak munkajövedelemnek (nyugdíjjövedelemnek) nem minősülő jövedelme van (pl. ösztöndíj, szakképzéssel összefüggő juttatás, társadalombiztosítás alapján járó ellátás, álláskeresési járadék, nyugdíj előtti álláskeresési segély, egyéb rendszeres pénzbeli juttatás, vállalkozói kivét, ingatlan-bérbeadás, kamatjövedelem, árfolyamnyereség, osztalékjövedelem), akkor köteles az ezekről a jövedelmekről szóló postai szelvényt, bankszámlakivonatot, kiadási pénztárbizonylatot vagy egyéb, a jövedelem igazolására alkalmas dokumentumot csatolni.
 
 (6) Ha a kérelmezőnek, valamint a vele közös háztartásban élő közeli hozzátartozónak nincs munkáltatója és nem nyugdíjas, valamint egyéb jövedelme sincs, akkor a kérelemben kell nyilatkozni e tényről.
 
@@ -2504,7 +2566,7 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (2) A fenntartási díj esedékességét e törvény, illetve külön törvény rendelkezései szerint kell megállapítani.
 
-(3) Az igazgatási szolgáltatási díj, a megújítási díj és a fenntartási díj megfizetésének időpontja átutalás útján történő teljesítés esetében a Hivatal az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban megjelölt pénzforgalmi számláján történő jóváírást megelőző második banki munkanap, külföldről indított átutalás esetében a jóváírást megelőző ötödik banki munkanap. A banki munkanapok számításánál a kincstár munkarendje az irányadó. Ha a teljesítés készpénz-átutalási megbízás útján történik, a megfizetés napja a készpénz-átutalási megbízás postára adásának napja.
+(3) Az igazgatási szolgáltatási díj, a megújítási díj és a fenntartási díj megfizetésének időpontja átutalás útján történő teljesítés esetében megegyezik a Szellemi Tulajdon Nemzeti Hivatalának az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban megjelölt pénzforgalmi számláján történő jóváírás napjával. Ha a teljesítés készpénz-átutalási megbízás útján történik, a megfizetés napja a készpénz-átutalási megbízás postára adásának napja.
 
 ### A díjfizetés elmaradásának következményei
 
@@ -2518,11 +2580,23 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 ### XV. Fejezet — Iparjogvédelmi szakértői testület
 
-115/T. § (1) Iparjogvédelmi jogvitás ügyben felmerülő szakkérdésekben a bíróságok és más hatóságok szakvéleményt kérhetnek a Szellemi Tulajdon Nemzeti Hivatala mellett működő iparjogvédelmi szakértői testülettől.
+115/T. § (1) Iparjogvédelmi jogvitás ügyben felmerülő szakkérdésekben a bíróságok és más hatóságok szakvéleményt kérhetnek a Szellemi Tulajdon Nemzeti Hivatala mellett működő Iparjogvédelmi Szakértői Testülettől (a továbbiakban: ISZT).
 
-(2) Az iparjogvédelmi szakértői testület felkérésre peren kívül is adhat – megbízás alapján – szakvéleményt iparjogvédelmi kérdésben.
+(2) Az ISZT felkérésre peren kívül is adhat – megbízás alapján – szakvéleményt iparjogvédelmi kérdésben.
 
-(3) A testület szervezetének és működésének részletes szabályait külön jogszabály állapítja meg.
+(3) Az ISZT szervezetének és működésének részletes szabályait kormányrendelet állapítja meg.
+
+(4) Az (1) és a (2) bekezdés alapján elkészített szakvéleményeket a Szellemi Tulajdon Nemzeti Hivatala elektronikus úton bárki számára hozzáférhető adatbázisba foglalja. A közzétett szakvéleményben a meg nem ismerhető adatot felismerhetetlenné kell tenni.
+
+(5) Ha a (2) bekezdés szerinti felkérésben a felek az ügy és az ISZT szakvéleményének titokban tartását kérik, az adatbázisban csak az ügy számát, tárgyát, a feltett kérdéseket és a jogértelmezéssel kapcsolatos elvi tartalmat, ennek hiányában rövid tartalmat kell közzétenni.
+
+(6) Az ISZT eljáró tanácsának tagjai a felkérés vagy kirendelés teljesítéséhez szükséges mértékben hozzáférhetnek a (4) bekezdés szerinti adatokat tartalmazó szakvéleményekhez, abban az esetben is, ha a felek az (5) bekezdés szerinti titkosítást kérték.
+
+(7) Ha bíróság vagy hatóság kér szakvéleményt az ISZT-től, az ügy érdemében hozott határozatról – egy példányának megküldésével – az ISZT-t értesíteni kell. Az alapeljárás ügyszámát mint közérdekű adatot a közzétett szakvéleményen fel kell tüntetni.
+
+(8) Ha a szakvélemény kivonatos változata a jogértelmezéssel kapcsolatos megállapítások tekintetében félrevezető vagy érthetetlen, a közzététel mellőzhető.
+
+(9) Az ISZT keretében végzett szakértői tevékenység nem esik a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 95. §-a szerinti együttalkalmazási tilalom hatálya alá.
 
 ### A törvény hatálybalépése; átmeneti rendelkezések
 
@@ -2571,9 +2645,11 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 (2) E törvénynek az Európai Unió adatvédelmi reformjának végrehajtása érdekében szükséges törvénymódosításokról szóló 2019. évi XXXIV. törvénnyel (a továbbiakban: Módtv.) megállapított 57. § (5) bekezdését, 65. §-át, 66. § (12) bekezdését, 69. § (1) bekezdését, 69/A. § (6), (8) és (13)–(16) bekezdését a Módtv. hatálybalépésének napja vagy annál későbbi bejelentési nappal rendelkező szabadalmi bejelentések tekintetében kell alkalmazni.
 
+(3) Az egyes igazságügyi tárgyú törvények módosításáról szóló 2022. évi LV. törvénnyel megállapított 22. § (2) bekezdését, 45. § (6) bekezdését, 53/D. § (2) bekezdését, 80. § (3) bekezdését, 81/A. § (6) bekezdés a)–b) pontját és 111. § (2) bekezdését a 2023. január 1. napján folyamatban levő eljárásokban is alkalmazni kell.
+
 117/B. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.–Kp. Módtv.) megállapított rendelkezéseit az Ákr.–Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
-117/C. §
+#### 117/C. §
 
 ### A korai fázisú vállalkozások és a korai fázisú vállalkozásokat támogató vállalkozások nyilvántartásba vétel iránti eljárására vonatkozó közös szabályok
 
@@ -2583,7 +2659,7 @@ a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az ig�
 
 118. § (1) Felhatalmazást kap a Kormány, hogy rendelettel megállapítsa az iparjogvédelmi szakértői testület szervezetének és működésének részletes szabályait.
 
-(2) Felhatalmazást kap a Kormány, hogy az egyes termékek kiegészítő oltalmára vonatkozó európai közösségi rendeletek végrehajtásához szükséges szabályokat rendelettel megállapítsa.
+(2) Felhatalmazást kap a Kormány, hogy az egyes termékek kiegészítő oltalmára vonatkozó európai uniós rendeletek végrehajtásához szükséges szabályokat rendelettel megállapítsa.
 
 (3) Felhatalmazást kap a kormány, hogy a biológiai anyagok szabadalmi eljárás céljából való letétbe helyezésének és kezelésének részletes szabályait rendelettel megállapítsa.
 

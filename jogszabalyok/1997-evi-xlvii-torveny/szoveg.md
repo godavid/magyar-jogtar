@@ -66,7 +66,7 @@ Az Országgyűlés – felismerve azt, hogy az egészségügyi adatokat bizalmi 
 - o) a munkavégzésre való alkalmasság megállapítása függetlenül attól, hogy ezen tevékenység munkaviszony, közalkalmazotti, egészségügyi szolgálati kormányzati szolgálati, politikai szolgálati, adó- és vámhatósági szolgálati, biztosi vagy közszolgálati jogviszony, hivatásos szolgálati viszony vagy egyéb jogviszony keretében történik,
 - p) köznevelés, szakképzés, illetve felsőoktatás céljából az oktatásra, illetve képzésre való alkalmasság megállapítása,
 - q) a katonai szolgálatra, illetve a személyes honvédelmi kötelezettség teljesítésére való alkalmasság megállapítása,
-- r) munkanélküli ellátás, foglalkoztatás elősegítése, valamint az ezzel összefüggő ellenőrzés,
+- r) álláskeresési ellátás, foglalkoztatás elősegítése, valamint az ezzel összefüggő ellenőrzés,
 - s) az egészségügyi ellátásokra jogosultak részére vényen rendelt gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás folyamatos és biztonságos kiszolgáltatása, illetve nyújtása érdekében,
 - t) a munkabalesetek, foglalkozási megbetegedések – ideértve a fokozott expozíciós eseteket is – kivizsgálása, nyilvántartása és a szükséges munkavédelmi intézkedések megtétele,
 - u) az egészségügyi dolgozókkal szemben lefolytatott etikai eljárás,
@@ -459,7 +459,7 @@ tartalmazza.
 - b) az a) pontban foglaltakon túl az egészségügyi szolgáltatást igénybe vevő TAJ számát, közgyógyellátásra való jogosultság esetén a közgyógyellátási igazolvány számát,
 - c) az egészségügyi szolgáltatást igénybe vevő diagnózisának, a részére nyújtott egészségügyi szolgáltatásnak (ideértve a különleges táplálkozási igényt kielégítő tápszereket, valamint a vényköteles készítményeket) a megnevezését, kódját, az igénybevett egészségügyi szolgáltatáshoz kapcsolódó egészségügyi adatát.
 
-(6) Az (5) bekezdés szerinti adatokat az egészségbiztosítási szerv nyilvántartásába való bekerüléstől számított 30 évig, amennyiben az adatkezeléssel érintett ügyben bírósági eljárás indult, akkor az ügy lezárásának időpontjáig lehet kezelni. Ezt követően az adatokat meg kell fosztani a személyes azonosítás lehetőségétől.
+(6) Az (5) bekezdés szerinti adatokat az egészségbiztosítási szerv az érintett halálát követő 10 évig, amennyiben az adatkezeléssel érintett ügyben bírósági eljárás indult, amely a 10 éves őrzési időn túlmutat, akkor az ügy lezárásának időpontjáig kezeli. Ezt követően az adatokat meg kell fosztani a személyes azonosítás lehetőségétől.
 
 22/A. § (1) A 4. § (2) bekezdés v) pontja szerinti célból az egészségügyért felelős miniszter rendelete szerint vezetett Betegségregiszter működik.
 
@@ -487,7 +487,7 @@ tartalmazza.
 
 (7) A központi implantátumregiszterben tárolt adatokat az érintettre vonatkozó utolsó adattovábbítástól számított 50 év elteltével törölni kell.
 
-22/C. §
+#### 22/C. §
 
 22/D. § A várandós nők részére nyújtott természetbeni támogatás jogosultsági feltételeinek ellenőrzése és a támogatás biztosítása érdekében – a program célcsoportjára tekintettel lefolytatott adatigénylés alapján – az aktív korúak ellátására jogosult, vagy ilyen személlyel egy családban élő várandós nő természetes személyazonosító adatait és társadalombiztosítási azonosító jelét a jogosult lakcíme szerinti család- és gyermekjóléti szolgálat és az állam szociális fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv jogosult kezelni, az ezen adatok nyilvántartását végző szerv adatszolgáltatása alapján. E § alkalmazása során család alatt a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés c) pontjában foglaltakat kell érteni.
 
@@ -519,7 +519,7 @@ amennyiben az a)–c) pont szerinti adatok az (1) bekezdés szerinti tevékenys�
 
 - a) büntetőügyben a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, az igazságügyi szakértő, polgári peres és nemperes, valamint közigazgatási hatósági ügyben a közigazgatási hatóság, az ügyészség a bíróság, az igazságügyi szakértő,
 - b) szabálysértési eljárás során az eljárást lefolytató szervek,
-- c) potenciális hadköteles és hadköteles személy esetén a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai egészségügyi alkalmasságot megállapító bizottság,
+- c) potenciális hadköteles és hadköteles személy esetén a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala, a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, valamint a katonai egészségügyi alkalmasságot megállapító bizottság,
 - d) a nemzetbiztonsági szolgálatok, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben meghatározott feladatok ellátása érdekében, az abban kapott felhatalmazás körében,
 - e) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve, a kiképzett hadkötelesek békeidőszakban történő hadi beosztásra történő kiírása és a kiképzett hadkötelesek gyors és differenciált behívása érdekében, a honvédelemről szóló törvényben meghatározott körben,
 - f) az egészségügyi dolgozóval szemben folyamatban lévő etikai eljárás során az eljárás lefolytatása hatáskörrel és illetékességgel rendelkező kamarai szerv,
@@ -758,7 +758,7 @@ hívja fel az érintett csatlakozott adatkezelőt.
 - a) az (1) bekezdésben meghatározott adatokhoz, valamint
 - b) az érintettre vonatkozó, a csatlakozott adatkezelők informatikai rendszereiben tárolt és hozzáférhetővé tett további adatokhoz.
 
-(3) Az e § szerinti adatokat a működtető az érintett halálát követő 5 évig, az egészségügyi dokumentációra vonatkozó jogszabályok szerint őrzi meg.
+(3) Az e § szerinti adatokat a működtető az érintett halálát követő 10 évig, az egészségügyi dokumentációra vonatkozó jogszabályok szerint őrzi meg.
 
 (4) Az érintett jogosult a 35/H. § szerinti önrendelkezési nyilatkozatában megtiltani, hogy a csatlakozott adatkezelő vagy az EESZT felhasználó az (1) bekezdés szerinti adatait a (2) bekezdés szerint megismerhesse.
 
@@ -788,7 +788,7 @@ hívja fel az érintett csatlakozott adatkezelőt.
 - a) a csatlakozott adatkezelő és az EESZT felhasználó számára abból a célból, hogy meg tudja állapítani, hogy az érintett egészségügyi adatainak kezelésére jogosult-e,
 - b) az adatkezelés jogszerűségének ellenőrzésére vagy megállapítására hatáskörrel rendelkező hatóság vagy bíróság számára, annak végrehajtható döntése alapján az adatkezelés jogszerűségének ellenőrzése céljából az érintett TAJ száma alapján az EESZT útján adatot szolgáltat az érintett önrendelkezési nyilatkozatairól. Az adatszolgáltatást úgy kell teljesíteni, hogy abból az érintett egészségügyi vagy hozzá kapcsolódó, az adatkezelés céljához nem szükséges személyes adatára, annak fennállására vagy fennállásának hiányára ne lehessen következtetni.
 
-35/I. § (1) Az önrendelkezési nyilvántartás érintettre vonatkozó bejegyzéseit az érintett halála után 5 évvel helyreállíthatatlanul törölni kell.
+35/I. § (1) Az önrendelkezési nyilvántartás érintettre vonatkozó bejegyzéseit az érintett halála után 10 évvel helyreállíthatatlanul törölni kell.
 
 (2) Ellenkező bizonyításig vélelmezni kell az EESZT felhasználó jóhiszeműségét, ha az önrendelkezési nyilvántartásba bejegyzett nyilatkozat alapján jár el. Az EESZT felhasználó nem hivatkozhat arra, hogy az önrendelkezési nyilvántartásba bejegyzett önrendelkezési nyilatkozatot nem ismeri.
 
@@ -800,7 +800,7 @@ hívja fel az érintett csatlakozott adatkezelőt.
 
 35/J. § (1) Az érintett kezelőorvosa, ennek hiányában háziorvosa az érintett vércsoportjára vonatkozó adat tekintetében az állami vérellátó szolgálat is, a 4. § (1) és (2) bekezdésében meghatározott célból történő, az arra jogosult személyek részére történő hozzáférhetővé tétel érdekében az EESZT útján rögzíti az általa kezelt érintettel kapcsolatban az e törvény szerinti személyazonosító adatok közül az érintett TAJ számát, vagy ennek hiányában más azonosítóját, születési idejét, nemét, továbbá az érintett egészségi állapotával, kórelőzményével, egyes beavatkozásaival kapcsolatos egészségügyi adatokat (a továbbiakban: egészségügyi profil).
 
-(2) Az egészségügyi profilban rögzített adatokat az érintett halála után 5 évvel helyreállíthatatlanul törölni kell.
+(2) Az egészségügyi profilban rögzített adatokat az érintett halála után 10 évvel helyreállíthatatlanul törölni kell.
 
 (3) Az egészségügyiprofil-nyilvántartásból az adat megismerésére jogosult EESZT-felhasználó számára kizárólag egyedileg – TAJ számmal, vagy ennek hiányában más azonosítóval – azonosított érintettre vonatkozó adat továbbítható.
 
@@ -838,7 +838,7 @@ hívja fel az érintett csatlakozott adatkezelőt.
 
 ### Az EESZT egyéb szolgáltatásai
 
-35/M. § (1) A működtető a digitális képtovábbítás keretében – a 4. § (1) bekezdés a)–d) pontja szerinti célból – egyedileg, TAJ számmal vagy ennek hiányában más azonosítóval azonosított érintettre vonatkozóan biztosítja az érintettről képalkotó diagnosztikai eljárással készített felvétel vagy más digitális képi információ EESZT felhasználó általi elérését és EESZT felhasználók egymás közötti továbbítását. Az EESZT működtetője ennek érdekében nyilvántartást vezet, amely az érintett TAJ számához vagy ennek hiányában más azonosítójához kapcsoltan tartalmazza, hogy az érintettről képalkotó diagnosztikai eljárással felvételt készítettek és a felvétel elérési útját. A működtető a nyilvántartásban az érintettre vonatkozó adatot az érintett halálát követő 5 év elteltével törli.
+35/M. § (1) A működtető a digitális képtovábbítás keretében – a 4. § (1) bekezdés a)–d) pontja szerinti célból – egyedileg, TAJ számmal vagy ennek hiányában más azonosítóval azonosított érintettre vonatkozóan biztosítja az érintettről képalkotó diagnosztikai eljárással készített felvétel vagy más digitális képi információ EESZT felhasználó általi elérését és EESZT felhasználók egymás közötti továbbítását. Az EESZT működtetője ennek érdekében nyilvántartást vezet, amely az érintett TAJ számához vagy ennek hiányában más azonosítójához kapcsoltan tartalmazza, hogy az érintettről képalkotó diagnosztikai eljárással felvételt készítettek és a felvétel elérési útját. A működtető a nyilvántartásban az érintettre vonatkozó adatot az érintett halálát követő 10 év elteltével törli.
 
 (2) Elektronikus konzílium lefolytatását a működtető az EESZT útján akkor biztosítja, ha a konzíliumra felkért orvos az elektronikus konzílium lefolytatását biztosítja, a konzílium a felkérést elfogadja, és az érintettre vonatkozó adatokat jogosult megismerni.
 
@@ -1003,6 +1003,8 @@ vonatkozó rendelkezések szerint kezeli.
 (2) Az e törvény szerinti betegségregisztert vezető szerv a 2009. január 1-jét követően az egészségbiztosítási szerv adatkezelésébe került adatokat a 16. § (13) bekezdése szerinti kapcsolati kóddal kezeli.
 
 (3) Az egészségbiztosítási szerv az egyes járványügyi védekezést szolgáló pandémia-értékelő regiszterre vonatkozó részletes szabályokról szóló jogszabály alapján részére átadott, az érintett személyek nevére, társadalombiztosítási azonosító jelére, vagy egyéb, az ellátás során használt azonosítójára vonatkozó adatok tekintetében 2022. január 15-éig pszeudo-TAJ képzésével kapcsolati kódot képez és az adatokat törli.
+
+36/C. § Az egyes törvények bürokráciacsökkentéssel és jogharmonizációval összefüggő módosításáról szóló 2022. évi LXXV. törvénnyel (a továbbiakban: Módtv1.) megállapított 22. § (6) bekezdésében, 35/F. § (3) bekezdésében, 35/I. § (1) bekezdésében, 35/J. § (2) bekezdésében és 35/M. § (1) bekezdésében foglaltakat a 2023. január 1. napján már kezelt adatok vonatkozásában is alkalmazni kell.
 
 37. § (1) Az e törvényben foglalt rendelkezéseket az információs önrendelkezési jogról és az információszabadságról szóló törvénnyel együtt, azzal összhangban kell értelmezni és alkalmazni, valamint a TAJ szám kezelésére vonatkozóan az e törvényben nem szabályozott kérdésekben a személyazonosító jel helyébe lépő azonosítási módokról és azonosítási kódokról szóló 1996. évi XX. törvény rendelkezéseit kell alkalmazni.
 

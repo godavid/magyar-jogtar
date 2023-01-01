@@ -421,7 +421,7 @@ véleményét a pályázóról.
 
 #### 11. A kirendelés
 
-27. § (1) Az ügyészt – hozzájárulása nélkül – háromévenként, ezen belül legfeljebb egy évre lehet ügyészségi érdekből vagy szakmai fejlődésének elősegítése érdekében ügyészi munkakörbe, ideiglenesen – szolgálati helyével azonos megyében lévő – más szolgálati helyre kirendelni. A fővárosban, illetve Pest megyében szolgálatot teljesítő ügyész a fővárosban vagy Pest megye területén lévő más szolgálati helyre rendelhető ki. A kirendelésnél az ügyész méltányos érdekét figyelembe kell venni. A kirendelést – a megkezdése előtt legalább tizenöt nappal – az ügyésszel írásban közölni kell, megjelölve a kirendelés helyét, kezdetét és annak időtartamát.
+27. § (1) Az ügyészt – hozzájárulása nélkül – háromévenként, ezen belül legfeljebb egy évre lehet ügyészségi érdekből vagy szakmai fejlődésének elősegítése érdekében ügyészi munkakörbe, ideiglenesen – szolgálati helyével azonos vármegyében lévő – más szolgálati helyre kirendelni. A fővárosban, illetve Pest vármegyében szolgálatot teljesítő ügyész a fővárosban vagy Pest vármegye területén lévő más szolgálati helyre rendelhető ki. A kirendelésnél az ügyész méltányos érdekét figyelembe kell venni. A kirendelést – a megkezdése előtt legalább tizenöt nappal – az ügyésszel írásban közölni kell, megjelölve a kirendelés helyét, kezdetét és annak időtartamát.
 
 (2) Az ügyész – hozzájárulásával – az (1) bekezdésben meghatározott időtartamon túl, illetve az (1) bekezdésben nem említett szolgálati helyre is kirendelhető.
 
@@ -1076,7 +1076,7 @@ irányadó összeggel azonos.
 
 (3) A magasabb vezető állású és a vezető állású ügyész évi öt munkanap pótszabadságra jogosult. Az alapszabadság és a vezetői pótszabadság együttes mértéke évente a negyven munkanapot nem haladhatja meg.
 
-(3a) Az apának gyermeke születése esetén, legkésőbb a születést követő második hónap végéig öt, ikergyermekek születése esetén hét munkanap pótszabadság jár, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
+(3a) Az apa gyermeke születése esetén legkésőbb a gyermeke születését követő, vagy gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő második hónap végéig tíz munkanap szabadságra (a továbbiakban: apasági szabadság) jogosult, amelyet kérésének megfelelő időpontban, legfeljebb két részletben kell kiadni. Az apasági szabadságra az ügyészségi alkalmazott akkor is jogosult, ha a gyermeke halva születik, vagy meghal.
 
 (4) Az ügyészt az (1)–(3a) bekezdésben meghatározott szabadságon felül megilleti a munka törvénykönyvéről szóló törvényben meghatározott pótszabadság is.
 
@@ -1828,7 +1828,7 @@ cím adományozható.
 - e) a kinevezési feltételeknek megfelelő, illetve az ügyészségi szolgálati viszony fennállása alatt a jogviszony megszűnését eredményező körülmények igazolására a 49. §-t,
 - f) az 55. §-t,
 - g) a 69. §-t, a 72–76. §-t, továbbá a 70. §-t azzal az eltéréssel, hogy a tisztviselő, az írnok és a fizikai alkalmazott kinevezési okiratának tartalmaznia kell a jubileumi jutalomra jogosító idő számításának kezdő időpontját, a 73. §-t azzal az eltéréssel kell alkalmazni, hogy tisztviselő, az írnok és a fizikai alkalmazott részére cafetéria juttatás is biztosítható,
-- h) a 80. §-t,
+- h) a 79. § (3a) bekezdését és a 80. §-t,
 - i) a 105–108. §-t.
 
 ### XVI. Fejezet — AZ ÜGYÉSZSÉGI SZOLGÁLATI VISZONYRA VONATKOZÓ EGYÉB RENDELKEZÉSEK
@@ -1851,7 +1851,7 @@ cím adományozható.
 
 (2) Nem alkalmazhatók az ügyészségi alkalmazottak szolgálati viszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény következő rendelkezései:
 
-- a) a munkaviszonyra vonatkozó szabályok közül: a 34. § (3) bekezdése, a 43. §, a 45. § (5) bekezdése, a 46. § (1) bekezdés g) pontja, a 48. §, az 54. § (1), (2) és (4) bekezdése, 55. § (2) bekezdése, az 56. §, a 61. § (1), (3) bekezdése, a 63. és 64. §, a 65. § (1), (2) bekezdése, a 66. és 67. §, a 69. §, a 70. § (1), (3) bekezdése, a 77–79. §, a 81–83. §, a 84. § (1), (2) bekezdése, a 92. § (2) bekezdésének b) pontja és (3) bekezdése, a 95. §, a 110. § (2) bekezdése, a 117. §, a 136. § (3) bekezdése, a 139. § (2) és (3) bekezdése, a 144. §, a 146. § (1), (3)–(5) bekezdése, a 147–152. §, a 156. § (2)–(4) bekezdése, a 179. § (1) és (2) bekezdése, a 192. § (2)–(4) bekezdése, a 194–211. §, a XVI. és XVII. fejezet, a 228. §;
+- a) a munkaviszonyra vonatkozó szabályok közül: a 34. § (3) bekezdése, a 43. §, a 45. § (5) bekezdése, a 46. § (1) bekezdés l) pontja, a 48. §, az 54. § (1), (2) és (4) bekezdése, 55. § (5) bekezdése, az 56. §, a 61. § (1), (3) bekezdése, valamint (4) bekezdés a)–c) pontja, a 63. és a 64. § (1) és (2) bekezdése, a 65. § (1), (2) bekezdése, a 66. és 67. §, a 69. §, a 70. § (1), (3) bekezdése, a 77–79. §, a 81–83. §, a 84. § (1), (2) bekezdése, a 92. § (2) bekezdésének b) pontja és (3) bekezdése, a 95. §, a 110. § (2) bekezdése, a 117. §, a 136. § (3) bekezdése, a 139. § (2) és (3) bekezdése, a 144. §, a 146. § (1)–(5) bekezdése, a 147–152. §, a 156. § (2)–(4) bekezdése, a 179. § (1) és (2) bekezdése, a 192. § (2)–(5) bekezdése, a 194–211. §, a XVI. és XVII. fejezet, a 228. §;
 - b) a munkaügyi kapcsolatok szabályai közül: a 236. § (1) bekezdése, a 237. §, a 250. § és 251. §, a 252. § g) pontja, a 260. § (1) és (2) bekezdése, a 262. § (3) és (4) bekezdése, a 263–266. §, a 268. § (1)–(3) bekezdése, a 269. §, a 272. § (1) bekezdése, a XXII. fejezet a 277. § (1)–(3), (5) bekezdése kivételével;
 - c) a záró rendelkezések közül: a 295–297. §.
 
@@ -1859,12 +1859,13 @@ cím adományozható.
 
 - a) 53. §-át csak a kinevezéstől eltérő munkakörben való foglalkoztatásra kell alkalmazni, továbbá a nem ügyész ügyészségi alkalmazottak esetén azzal az eltéréssel kell alkalmazni, hogy annak időtartama a naptári évben – eltérő megállapodás hiányában – a hat hónapot nem haladhatja meg;
 - b) 86. § (3) bekezdésének a) pontját azzal az eltéréssel kell alkalmazni, hogy a munkaközi szünet munkaidőnek minősül;
-- c) 123. § (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy a szabadság esedékességének évét követő kiadása a szabadság egyötödére vonatkozik;
-- d) 243. § (3) bekezdését, 246. § (1) bekezdését és 248. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munka törvénykönyve 237. § (1) bekezdésében meghatározott szám alatt az alkalmazotti tanács tagjainak e törvényben meghatározott számát kell érteni;
-- e) 260. § (3) bekezdését és 273. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munka törvénykönyve 53. §-a szerinti intézkedés alatt az ügyészségi alkalmazott hozzájárulása nélküli kirendelést és a tizenöt napot elérő kiküldetést kell érteni;
-- f) 273. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy önállónak minősülő telephely alatt a főügyészséget az alárendelt járási ügyészségekkel együtt, a fellebbviteli főügyészséget, az OKRI-t, a Legfőbb Ügyészséget kell érteni;
-- g) 287. § (1) bekezdés e) pontját azzal az eltéréssel kell alkalmazni, hogy a munka törvénykönyvéről szóló 2012. évi I. törvény 81. § (2) bekezdésében meghatározottak alatt az 52. § (4) bekezdésében meghatározottakat kell érteni,
-- h) 287. § (2) bekezdés b) pontját azzal az eltéréssel kell alkalmazni, hogy az azonnali hatályú felmondás alatt rendkívüli lemondást kell érteni.
+- c) 115. § (2) bekezdésének f) pontját azzal az eltéréssel kell alkalmazni, hogy munkában töltött időnek a munka törvénykönyvéről szóló 2012. évi I. törvény 115. § (1) bekezdés alkalmazásában a munkavégzés alóli mentesülésnek az 55. § (1) bekezdés a)–m) pontjában meghatározott tartama minősül;
+- d) 123. § (6) bekezdését azzal az eltéréssel kell alkalmazni, hogy a szabadság esedékességének évét követő kiadása a szabadság egyötödére vonatkozik;
+- e) 243. § (3) bekezdését, 246. § (1) bekezdését és 248. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munka törvénykönyve 237. § (1) bekezdésében meghatározott szám alatt az alkalmazotti tanács tagjainak e törvényben meghatározott számát kell érteni;
+- f) 260. § (3) bekezdését és 273. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munka törvénykönyve 53. §-a szerinti intézkedés alatt az ügyészségi alkalmazott hozzájárulása nélküli kirendelést és a tizenöt napot elérő kiküldetést kell érteni;
+- g) 273. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy önállónak minősülő telephely alatt a főügyészséget az alárendelt járási ügyészségekkel együtt, a fellebbviteli főügyészséget, az OKRI-t, a Legfőbb Ügyészséget kell érteni;
+- h) 287. § (1) bekezdés e) pontját azzal az eltéréssel kell alkalmazni, hogy a munka törvénykönyvéről szóló 2012. évi I. törvény 81. § (2) bekezdésében meghatározottak alatt az 52. § (4) bekezdésében meghatározottakat kell érteni;
+- i) 287. § (2) bekezdés b) pontját azzal az eltéréssel kell alkalmazni, hogy az azonnali hatályú felmondás alatt rendkívüli lemondást kell érteni.
 
 (4) A munka törvénykönyvéről szóló 2012. évi I. törvény 140. §-át és 143. §-át csak az írnok és a fizikai alkalmazott, az 59. §-át és 145. §-át csak a fizikai alkalmazott esetében kell alkalmazni.
 
@@ -1923,17 +1924,22 @@ kell érteni.
 155/B. § (1) Az ügyészségi alkalmazottat illetménye illeti meg a következő távollétek idejére is:
 
 - a) a szabadság időtartama alatt,
-- b) a munka törvénykönyvéről szóló 2012. évi I. törvény 55. § (1) bekezdés c)–g) és j) pontjában meghatározott esetben,
+- b) a munka törvénykönyvéről szóló 2012. évi I. törvény 54. § (3) bekezdésében és 55. § (1) bekezdés c)–g) és j) pontjában meghatározott esetben,
 - c) az állampolgári kötelezettség teljesítésének időtartamára,
 - d) ha törvény munkavégzés nélkül illetmény fizetését, annak mértéke meghatározása nélkül írja elő,
 - e) a munkaszüneti nap miatt kiesett időre,
 - f) ha a munkáltató foglalkoztatási kötelezettségének elháríthatatlan külső okot kivéve nem tesz eleget.
+- g) öt munkanapig terjedő tartamban az apasági szabadság esetében.
 
 (2) Az illetmény hetven százaléka jár a betegszabadság tartamára.
 
 (3) Az egy napra jutó illetmény az egy hónapra megállapított illetmény és a tárgyhó munkanapjai számának hányadosa.
 
 (4) Az egy órára járó illetmény az egy napra kiszámított illetmény és az ügyészségi alkalmazott napi teljes munkaidejének a hányadosa.
+
+(5) Az ügyészségi alkalmazott az apasági szabadság hatodik munkanapjától az illetmény negyven százalékára jogosult.
+
+(6) Az ügyészségi alkalmazottat a munka törvénykönyvéről szóló 2012. évi I. törvény 118/A. §-a alapján kiadott szülői szabadság tartamára az illetmény tíz százaléka illeti meg, amelyet csökkenteni kell az erre az időszakra az ügyészségi alkalmazottnak megfizetett, a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 42/A. § (1) bekezdése vagy 42/E. § (1) bekezdése szerinti gyermekgondozási díj, a családok támogatásáról szóló 1998. évi LXXXIV. törvény 20. § (1) bekezdése szerinti gyermekgondozást segítő ellátás összegével.
 
 156. § (1) Az ügyészségi szolgálati viszony létesítéséhez, és a besoroláshoz szükséges, illetve a jogviszony fennállása alatt, azzal összefüggésben keletkezett adatokat és tényeket az ügyészségi szolgálati viszonyt létesítő személynek, illetve az ügyészségi alkalmazottnak igazolnia kell.
 
@@ -1949,7 +1955,7 @@ kell érteni.
 
 158/A. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
 
-159. § (1) E törvény I. Fejezete, III–XIII/A. Fejezete, 151. és 152. §-a, 154–157. §-a, 158. § (2) bekezdése, 160–165/K. §-a, 165/T. §-a, 165/U. §-a, valamint 1–3. és 7. melléklete az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
+159. § (1) E törvény I. Fejezete, III–XIII/A. Fejezete, 151. és 152. §-a, 154–157. §-a, 158. § (2) bekezdése, 160–165/K. §-a, 165/T. §-a, 165/U. §-a, 165/W. §-a, valamint 1–3. és 7. melléklete az Alaptörvény 29. cikk (7) bekezdése alapján sarkalatosnak minősül.
 
 (2) E törvénynek más jogszabályban alkalmazandó rövid megjelölése: Üjt.
 
@@ -2125,14 +2131,27 @@ kerülhet sor.
 
 (2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.
 
+165/V. § (1) E törvénynek az egyes foglalkoztatási tárgyú törvények módosításáról szóló 2022. évi LXXIV. törvénnyel (a továbbiakban: Módtv2.) megállapított rendelkezéseit – e törvény eltérő rendelkezése hiányában – a hatálybalépésekor fennálló jogviszonyokra is alkalmazni kell.
+
+(2) A munka törvénykönyvéről szóló 2012. évi I. törvény 46. §-ában foglalt kiegészítő tájékoztatást a Módtv2. hatálybalépésekor fennálló jogviszony esetén a Módtv2. hatálybalépését követő három hónapon belül az ügyészségi alkalmazott írásban kérheti a munkáltatótól.
+
+(3) A (2) bekezdés szerinti tájékoztatást a munkáltató a kérelem közlésétől számított 30 napon belül köteles megadni.
+
+(4) A munkáltató, ha az ügyészségi alkalmazott gyermeke 2022. augusztus 2. és 2023. június 30. között tölti be a harmadik életévét, a szülői szabadságot – az ügyészségi alkalmazott kérésének megfelelő időpontban – legkésőbb 2023. június 30-ig terjedő időszakban adja ki.
+
+165/W. § Az ügyészségi alkalmazott a 2022. augusztus 2. és december 31. között született vagy örökbefogadott gyermeke után a Módtv2. hatálybalépésétől számított két hónapon belül jogosult az apasági szabadságot igénybe venni, ha a Módtv2. hatálybalépése előtt
+
+- a) a 79. § (3a) bekezdése szerinti apai pótszabadságot nem vette igénybe, vagy
+- b) a 79. § (3a) bekezdése szerinti apai pótszabadságot igénybe vette, annak és a Módtv2. szerinti apasági szabadság különbözetének megfelelő munkanapok tartamára.
+
 166. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-- a) a munkaadónak a munkavállalóval szembeni, a szerződés, illetve a munkaviszony feltételeire vonatkozó tájékoztatási kötelezettségéről szóló, 1991. október 14-i 91/533/EGK tanácsi irányelve,
+- a) az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló, 2019. június 20-i (EU) 2019/1152 európai parlamenti és tanácsi irányelv,
 - b) az UNICE, az ETUC és a CEEP által a részmunkaidőről kötött keretmegállapodásról szóló, a Tanács 97/81/EK irányelve a Munka Törvénykönyvéről szóló törvény irányadó rendelkezéseivel együtt,
 - c) az UNICE, az ETUC és a CEEP által a határozott ideig tartó munkavégzéssel kapcsolatosan kötött keretmegállapodásról szóló, a Tanács 1999/70/EK irányelve, a Munka Törvénykönyvéről szóló törvény irányadó rendelkezéseivel együtt,
 - d) a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelv,
 - e) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk,
-- f) a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által a szülői szabadságról kötött felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK irányelv hatályon kívül helyezéséről szóló, 2010. március 8-i 2010/18/EU tanácsi irányelv.
+- f) a szülők és a gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1158 európai parlamenti és a tanácsi irányelv.
 
 ### 1. melléklet a 2011. évi CLXIV. törvényhez
 

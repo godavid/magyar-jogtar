@@ -699,12 +699,14 @@ meghosszabbítása
 
 (2) Ha az eljáró idegenrendészeti hatóság a regisztrációs igazolás, a tartózkodási kártya vagy állandó tartózkodási kártya iránti kérelemnek helyt ad, kizárólag a döntés tényét rögzíti az ügyiraton.
 
-(3) A regisztrációs igazolás, az EGT állampolgár családtagja tartózkodási kártyája és az állandó tartózkodási kártya iránti kérelmet az ügyfél a Harmtv. 86/H. § (6) bekezdése szerinti idegenrendészeti ügyindítási elektronikus felületen is előterjesztheti.
+(3) A regisztrációs igazolás, az EGT állampolgár családtagja tartózkodási kártyája és az állandó tartózkodási kártya iránti kérelmet az ügyfél a Harmtv. 86/H. § (6) bekezdése szerinti idegenrendészeti ügyindítási elektronikus felületen terjeszti elő.
 
-(4) Az idegenrendészeti ügyindítási elektronikus felületen benyújtott kérelem akkor minősül az idegenrendészeti hatósághoz érkezettnek, ha a harmadik országbeli állampolgár vagy meghatalmazott képviselője
+(4) Az idegenrendészeti ügyindítási elektronikus felületen benyújtott kérelem akkor minősül az idegenrendészeti hatósághoz érkezettnek, ha
 
-- a) a kérelem díját lerótta, amennyiben az eljárás díjköteles és
-- b) személyazonosságának igazolása érdekében az eljáró idegenrendészeti hatóságnál legkésőbb a visszaigazolás megküldésétől számított 15. napon megjelenik.
+- a) az EGT-állampolgár vagy a harmadik országbeli állampolgár a kérelem díját lerótta, amennyiben az eljárás díjköteles és
+- b) a harmadik országbeli állampolgár a személyazonosságának igazolása érdekében az eljáró idegenrendészeti hatóságnál legkésőbb a visszaigazolás megküldésétől számított 15. napon megjelenik.
+
+(4a) A Harmtv. 86/H. § (7) bekezdését az EGT-állampolgár által előterjesztett (3) bekezdés szerinti kérelmek esetén az idegenrendészeti hatóság nem alkalmazza.
 
 (5) Nem minősül a kérelem az idegenrendészeti hatósághoz érkezettnek, ha a kérelmet előterjesztő a díjfizetési vagy a személyes megjelenési kötelezettségének a (4) bekezdés b) pontja szerinti határidőn belül nem tesz eleget.
 
@@ -833,7 +835,7 @@ meghosszabbítása
 - c) a cégnyilvántartásban szereplő személyek személyazonosságának ellenőrzéséhez a céginformációs és az elektronikus cégeljárásban közreműködő szolgálat,
 - d) a 75. § (1) bekezdés a)–c) és g) pontjában foglalt résznyilvántartásokból
   - da) a közúti közlekedési nyilvántartásban szereplő személyek személyazonosságának ellenőrzése céljából a közúti közlekedési nyilvántartást vezető szerv,
-  - db) a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv, a kijelölt kormányhivatal, a helyi önkormányzat hatósági feladatot ellátó szerve, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a nyugdíjbiztosítási igazgatási szerv
+  - db) a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv, a kijelölt kormányhivatal, a helyi önkormányzat hatósági feladatot ellátó szerve, a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala, a nyugdíjbiztosítási igazgatási szerv
 
 részére az adatszolgáltatás céljának és jogalapjának megjelölése mellett szolgáltathat adatot.
 
@@ -976,7 +978,11 @@ foglalt résznyilvántartásokból szolgáltathat adatot.
 
 (5) Az EGT-állampolgár és a családtag által e törvény hatálybalépése előtt benyújtott, elsőfokú határozattal még el nem bírált tartózkodási vagy letelepedési engedély iránti kérelmekkel kapcsolatos eljárásban e törvény rendelkezéseit kell alkalmazni.
 
-(6)–(8)
+(6)
+
+(7)
+
+(8)
 
 89. § E törvénynek az egyes migrációs tárgyú és ezekkel összefüggésben más törvények módosításáról szóló 2016. évi XXXIX. törvénnyel megállapított rendelkezéseit a hatálybalépést követően megindult ügyekben kell alkalmazni.
 

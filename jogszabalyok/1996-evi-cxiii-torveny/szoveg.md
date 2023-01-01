@@ -2,7 +2,15 @@
 
 a lakástakarékpénztárakról
 
-Az Országgyűlés annak érdekében, hogy– ösztönözze a lakáscélok saját erőből történő megvalósítását elősegítő előtakarékosságot,– elősegítse a lakásvagyon állomány értékének megőrzését,– megteremtse a lakáselőtakarékosság zárt és elkülönült rendszerben, biztonságos keretek között, állami támogatással történő lebonyolításának feltételeit,
+Az Országgyűlés annak érdekében, hogy
+
+– ösztönözze a lakáscélok saját erőből történő megvalósítását elősegítő előtakarékosságot,
+
+– elősegítse a lakásvagyon állomány értékének megőrzését,
+
+– megteremtse a lakáselőtakarékosság zárt és elkülönült rendszerben, biztonságos keretek között, állami támogatással történő
+
+lebonyolításának feltételeit,
 
 törvényt alkot a lakástakarékpénztárakról.
 
@@ -60,7 +68,7 @@ törvényt alkot a lakástakarékpénztárakról.
 
 (4) Az Európai Unió másik tagállamában székhellyel rendelkező hitelintézet magyarországi fióktelepe esetén a fióktelep létesítésének bejelentésétől számított két hónapon belül az MNB tájékoztatja a székhely állam felügyeleti hatóságát a magyarországi tevékenységvégzés 6–24. §-ban meghatározott feltételeiről.
 
-4. §
+#### 4. §
 
 ### Ügynöki tevékenység
 
@@ -278,7 +286,7 @@ törvényt alkot a lakástakarékpénztárakról.
 
 (6a) A jogerős fizetési meghagyás és a fizetési kötelezettséget megállapító jogerős bírósági határozat végrehajtható okirat, amely alapján a lakás-takarékpénztár megkeresésére a tartozást az állami adóhatóság a központi költségvetés javára adók módjára hajtja be. A lakás-takarékpénztár az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvényben meghatározott költségminimum viselésére nem köteles.
 
-(6b) A (6a) bekezdésben meghatározott jogerős fizetési meghagyáson, illetve a fizetési kötelezettséget megállapító jogerős bírósági határozaton alapuló követelések esetében az állami adó- és vámhatóság részére megküldött behajtás iránti megkeresés napjáig benyújtott fizetési kedvezmény iránti kérelmeket a lakáscélú állami támogatások ügyében illetékes kormányhivatal bírálja el. A visszakövetelt támogatás visszafizetésének részben vagy egészben történő elengedése akkor engedélyezhető, ha a kérelmező és a vele közös háztartásban élő hozzátartozójának egy főre eső jövedelme – a kérelem benyújtását megelőző három hónap átlagában – nem haladja meg a mindenkori öregségi nyugdíjminimum összegének kétszeresét. A kérelemhez csatolni kell a kérelmező és a vele közös háztartásban élők jövedelmére vonatkozó igazolásokat.
+(6b) A (6a) bekezdésben meghatározott jogerős fizetési meghagyáson, illetve a fizetési kötelezettséget megállapító jogerős bírósági határozaton alapuló követelések esetében az állami adó- és vámhatóság részére megküldött behajtás iránti megkeresés napjáig benyújtott fizetési kedvezmény iránti kérelmeket a lakáscélú állami támogatások ügyében illetékes kormányhivatal bírálja el. A visszakövetelt támogatás visszafizetésének részben vagy egészben történő elengedése akkor engedélyezhető, ha a kérelmező és a vele közös háztartásban élő hozzátartozójának egy főre eső jövedelme – a kérelem benyújtását megelőző három hónap átlagában – nem haladja meg a szociális vetítési alap összegének kétszeresét. A kérelemhez csatolni kell a kérelmező és a vele közös háztartásban élők jövedelmére vonatkozó igazolásokat.
 
 (6c)
 

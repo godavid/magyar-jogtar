@@ -105,7 +105,7 @@ eltérő szabályozást állapíthat meg.
 
 (4) Az (1) bekezdés alkalmazásában nem minősül vállalkozási tevékenységhez szükséges ingatlannak az ingatlanforgalmazás céljából megszerezni kívánt ingatlan.
 
-(5) A fióktelep megszüntetése esetén az ingatlant a külföldi vállalkozásnak egy éven belül el kell idegenítenie, kivéve, ha az ingatlanszerzéshez nem kellene engedélyt kérnie, vagy ha az elidegenítési kötelezettség alól a fővárosi és megyei kormányhivatal felmentést adott. A fővárosi és megyei kormányhivatal a felmentést a külföldiek ingatlanszerzéséről szóló jogszabály szerinti feltételekkel, és az abban foglalt eljárási szabályok szerint adja meg azzal, hogy a felmentés nem tagadható meg akkor sem, ha az ingatlan a külföldi vállalkozás által vagy részesedésével alapított belföldi székhelyű gazdálkodó szervezet, illetve másik fióktelep, továbbá kereskedelmi képviselet tevékenységéhez szükséges.
+(5) A fióktelep megszüntetése esetén az ingatlant a külföldi vállalkozásnak egy éven belül el kell idegenítenie, kivéve, ha az ingatlanszerzéshez nem kellene engedélyt kérnie, vagy ha az elidegenítési kötelezettség alól a fővárosi és vármegyei kormányhivatal felmentést adott. A fővárosi és vármegyei kormányhivatal a felmentést a külföldiek ingatlanszerzéséről szóló jogszabály szerinti feltételekkel, és az abban foglalt eljárási szabályok szerint adja meg azzal, hogy a felmentés nem tagadható meg akkor sem, ha az ingatlan a külföldi vállalkozás által vagy részesedésével alapított belföldi székhelyű gazdálkodó szervezet, illetve másik fióktelep, továbbá kereskedelmi képviselet tevékenységéhez szükséges.
 
 ### Munkavállalás a fióktelepnél
 

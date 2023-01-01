@@ -9,7 +9,7 @@ az 1 és 2 forintos címletű érmék bevonása következtében szükséges kere
 - c) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti pénzbeli és természetbeni ellátások,
 - d) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti pénzbeli és természetbeni ellátások,
 - e) a családok támogatásáról szóló 1998. évi LXXXIV. törvény szerinti ellátások,
-- f) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény alapján járó álláskeresési járadék, álláskeresési segély, keresetpótló juttatás, valamint vállalkozói járadék
+- f) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény alapján járó álláskeresési járadék, nyugdíj előtti álláskeresési segély, keresetpótló juttatás, valamint vállalkozói járadék
 
 [az a)–f) pontban foglalt ellátások a továbbiakban együtt: ellátás] megállapítása, illetve összegük módosítása során – ideértve az ellátás megállapítását követő emeléseket is – mind a módosítás alapját képező összeget, mind a módosított összeget a legközelebbi 0-ra vagy 5-re végződő összegre felfelé kell kerekíteni, ha az nem 5 forintra vagy annak egész számú többszörösére végződik.
 
@@ -17,7 +17,7 @@ az 1 és 2 forintos címletű érmék bevonása következtében szükséges kere
 
 (3) Az (1)–(2) bekezdés szerinti kerekítésből származó kiadások az adott ellátások költségvetési előirányzatait terhelik.
 
-2. §
+#### 2. §
 
 3. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – 2008. március 1-jén lép hatályba.
 

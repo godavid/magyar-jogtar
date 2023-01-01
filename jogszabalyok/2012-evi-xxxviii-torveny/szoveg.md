@@ -12,37 +12,57 @@ a települési önkormányzatok fekvőbeteg-szakellátó intézményeinek átvé
 
 #### 2. A települési önkormányzat egészségügyi intézményeinek és vagyonának átvétele
 
-2. § (1)–(2)
+2. § (1)
+
+(2)
 
 (3) A települési önkormányzatok által alapított, valamint a települési önkormányzatok által más alapítóval közösen alapított alapítványokban, illetve közalapítványokban a települési önkormányzatokat megillető alapítói jogok gyakorlására 2012. május 1-jét követően a kijelölt szerv jogosult.
 
-(4)–(6)
+(4)
 
-3–5. §
+(5)
 
-5/A–5/B. §
+(6)
 
-5/C. §
+#### 3. §
 
-6. § (1)–(3)
+#### 4. §
+
+#### 5. §
+
+#### 5/A. §
+
+#### 5/B. §
+
+#### 5/C. §
+
+6. § (1)
+
+(2)
+
+(3)
 
 (4) Az e törvény alapján bejegyzésre kerülő vagyonkezelői jog ingatlan-nyilvántartásba történő bejegyzésére irányuló eljárás díj- és illetékmentes.
 
-(5)–(7)
+(5)
 
-7. §
+(6)
 
-7/A. §
+(7)
+
+#### 7. §
+
+#### 7/A. §
 
 #### 3. A települési önkormányzatok adósságának átvétele
 
-8. §
+#### 8. §
 
-9. §
+#### 9. §
 
 #### 4. Az átvett intézmények foglalkoztatottai és a települési önkormányzati hivataloknál foglalkoztatott köztisztviselők
 
-10. §
+#### 10. §
 
 11. § (1) Az egészségügyi szolgáltató főigazgatójának és gazdasági igazgatójának e törvény hatálybalépésekor fennálló foglalkoztatásra irányuló jogviszonya, vagy az intézmény vezetésére vagy a gazdasági igazgatói feladatok ellátására kapott vezetői megbízása a főigazgatói, gazdasági igazgatói munkakör, illetve a vezetői megbízás (4) bekezdés alapján történő betöltéséig fennmarad.
 
@@ -78,19 +98,25 @@ rendeletben határozza meg.
 
 (2) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben jelölje ki a magyar állam tulajdonában lévő és irányítási jogkörébe tartozó egészségügyi intézmény tekintetében fenntartói joggal rendelkező központi államigazgatási szervet.
 
-13. § (1) A magyar államot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlására az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK) jogosult
+13. § (1) A magyar államot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlására – a 13/C. §-ban foglalt kivétellel – az Országos Kórházi Főigazgatóság (a továbbiakban: OKFŐ) jogosult
 
 - a) a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény (a továbbiakban: konszolidációs törvény), továbbá az Esztergom Város Önkormányzata egyes intézményeinek átvételéről szóló 2011. évi CLXXXVI. törvény alapján állami tulajdonba került, állami egészségügyi feladatellátást szolgáló vagyon,
 - b) e törvény alapján állami tulajdonba kerülő, az állami egészségügyi feladatellátást szolgáló vagyon és
 - c) az egészségügyért felelős miniszter rendeletében meghatározott országos gyógyintézetek, valamint az egészségügyért felelős miniszter irányítása alá tartozó, az a) és b) pontokon túli egyéb egészségügyi szolgáltató vagyonkezelésében lévő vagyon tekintetében.
 
-(1a) Az (1) bekezdés alapján az ÁEEK jogosult az államot megillető tulajdonosi jogok és kötelezettségek gyakorlására az (1) bekezdésben meghatározott költségvetési intézmények állam általi átvételét követő, valamint az ÁEEK saját beszerzései és beruházásai alapján létrejött vagyon tekintetében is.
+(1a) Az OKFŐ jogosult – a 13/C. §-ban meghatározott kivétellel – az államot megillető tulajdonosi jogok és kötelezettségek gyakorlására
 
-(2) Az ÁEEK a tulajdonosi joggyakorlásra irányuló tevékenységét az államháztartásról szóló törvény, a nemzeti vagyonról szóló törvény, az állami vagyonról szóló törvény és annak végrehajtási rendeletei, valamint a Nemzeti Földalapról szóló törvény és a végrehajtási rendelete szerint végzi.
+- a) az (1) bekezdésben meghatározott költségvetési intézmények állam általi átvételét követő beszerzései és beruházásai alapján létrejött,
+- b) az OKFŐ saját beszerzései és beruházásai alapján létrejött, valamint
+- c) az OKFŐ által bármely jogcímen az állam javára megszerzett
+
+vagyon tekintetében is.
+
+(2) Az OKFŐ a tulajdonosi joggyakorlásra irányuló tevékenységét az államháztartásról szóló törvény, a nemzeti vagyonról szóló törvény, az állami vagyonról szóló törvény és annak végrehajtási rendeletei szerint végzi.
 
 (3) E törvény alapján a tulajdonosi joggyakorló jogosult a tulajdonosi joggyakorlás körébe tartozó, az állami egészségügyi feladatellátáshoz szükségtelenné vált vagyonelemek értékesítésére az állami vagyonról szóló törvény rendelkezései szerint.
 
-(3a) Az ÁEEK jogosult
+(3a) Az OKFŐ jogosult
 
 - a) a Kormány által meghatározott egészségügyi szolgáltató gazdasági társaság állami tulajdonba kerülése céljából az állam nevében eljárni, és
 - b) az a) pont alapján állami tulajdonba kerülő gazdasági társaság tekintetében az állam tulajdonosi jogainak és kötelezettségeinek gyakorlására.
@@ -105,6 +131,10 @@ rendeletben határozza meg.
 
 13/B. § A 13. §-ban foglaltaktól eltérően a Közbeszerzési és Ellátási Főigazgatóság gyakorolja az államot megillető tulajdonosi jogok és kötelezettségek összességét a Központi Humánfejlesztési Nonprofit Korlátolt Felelősségű Társaság (székhely: 1054 Budapest, Hold utca 1., cégjegyzékszám: 01-09-073183) felett.
 
+13/C. § (1) A 13. § (1) bekezdése szerint átvett és a 13. § (1a) bekezdése szerint létrejött, valamint az állam javára megszerzett állami tulajdonban álló ingatlanok tekintetében a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) gyakorolja az államot megillető tulajdonosi jogok és kötelezettségek összességét.
+
+(2) Az (1) bekezdés szerinti ingatlanok tekintetében az MNV Zrt. tulajdonosi joggyakorlásának ingatlan-nyilvántartási bejegyzésére az MNV Zrt. kérelme alapján kerül sor.
+
 14. § (1) Ez a törvény – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
 (2) A 17–19. §, a 23. § a) és b) pontja, a 28. §, a 30. §, a 31. § (2) bekezdése, 33. § b) és d) pontja 2012. július 1-jén lép hatályba.
@@ -113,116 +143,150 @@ rendeletben határozza meg.
 
 15. § E törvény 35. §-a az Alaptörvény 38. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
-15/A. §
+#### 15/A. §
 
-15/B. § A 13. § (1) bekezdése alapján az államot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlására kijelölt ÁEEK tulajdonosi joggyakorlásának ingatlan-nyilvántartási bejegyzésére
+#### 15/B. §
 
-- a) a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény, az Esztergom Város Önkormányzata egyes intézményeinek átvételéről szóló 2011. évi CLXXXVI. törvény, valamint az e törvény alapján állami tulajdonba került, állami egészségügyi feladatellátást szolgáló vagyon tekintetében:
-  - aa) azon ingatlanok esetén, amelyekre az ÁEEK vagyonkezelői joga az ingatlan-nyilvántartásba bejegyzésre került, az ÁEEK kérelme;
-  - ab) az aa) alpontban foglalt vagyonkezelői jog bejegyzésének hiányában az átadás-átvételi dokumentáció alapján készült, az ÁEEK által hitelesített és aláírt, helyrajzi számmal ellátott ingatlanlista, valamint az ÁEEK tulajdonosi joggyakorlásába kerülésére vonatkozó nyilatkozata,
-- b) az egészségügyért felelős miniszter rendeletében meghatározott országos gyógyintézetek, valamint az egészségügyért felelős miniszter irányítása alá tartozó, egyéb egészségügyi szolgáltató vagyonkezelésében lévő vagyon tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. és a bejegyzést kérő ÁEEK által aláírt vagyonkezelési szerződést megszüntető szerződés
-
-alapján kerül sor.
-
-15/C. §
+#### 15/C. §
 
 #### 6. A helyi önkormányzatok címzett és céltámogatási rendszeréről szóló 1992. évi LXXXIX. törvény módosítása
 
-16. §
+#### 16. §
 
 #### 7. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
 
-17–19. §
+#### 17. §
 
-20–22. §
+#### 18. §
 
-23. §
+#### 19. §
 
-- a)–b)
-- c)–e)
+#### 20. §
+
+#### 21. §
+
+#### 22. §
+
+#### 23. §
+
+a)–b)
+
+c)–e)
 
 #### 8. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
 
-24–25. §
+#### 24. §
+
+#### 25. §
 
 #### 9. Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény módosítása
 
-26–27. §
+#### 26. §
 
-28. §
+#### 27. §
 
-29. §
+#### 28. §
 
-30. §
+#### 29. §
+
+#### 30. §
 
 31. § (1)
 
 (2)
 
-32. §
+#### 32. §
 
-33. §
+#### 33. §
 
-- a)
-- b)
-- c)
-- d)
-- e)–f)
+a)
 
-34. §
+b)
+
+c)
+
+d)
+
+e)–f)
+
+#### 34. §
 
 #### 10. A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény módosítása
 
-35. §
+#### 35. §
 
 #### 11. A megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény módosítása
 
-36–39. §
+#### 36. §
+
+#### 37. §
+
+#### 38. §
+
+#### 39. §
 
 #### 12. Az egyes egészségügyi tárgyú törvények módosításáról szóló 2011. évi CLXXVI. törvény módosítása
 
-40–41. §
+#### 40. §
+
+#### 41. §
 
 #### 13. Esztergom Város Önkormányzata egyes intézményeinek átvételéről szóló 2011. évi CLXXXVI. törvény módosítása
 
-42–43. §
+#### 42. §
+
+#### 43. §
 
 #### 14. A Polgári Törvénykönyvről szóló 1959. évi IV. törvény módosítása
 
-44. §
+#### 44. §
 
 #### 15. A közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvény módosítása
 
-45. §
+#### 45. §
 
 #### 16. A gazdasági társaságokról szóló 2006. évi IV. törvény módosítása
 
-46. §
+#### 46. §
 
 #### 17. A közpénzekből nyújtott támogatások átláthatóságáról szóló 2007. évi CLXXXI. törvény módosítása
 
-47–48. §
+#### 47. §
+
+#### 48. §
 
 #### 18. A Magyar Művészeti Akadémiáról szóló 2011. évi CIX. törvény módosítása
 
-49. §
+#### 49. §
 
 #### 19. Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény módosítása
 
-50–52. §
+#### 50. §
 
-#### 20. A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló2011. évi CLXXXI. törvény módosítása
+#### 51. §
 
-53–54. §
+#### 52. §
+
+#### 20. A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló
+
+2011. évi CLXXXI. törvény módosítása
+
+#### 53. §
+
+#### 54. §
 
 #### 21. A Polgári perrendtartásról szóló 1952. évi III. törvény módosítása
 
-55. §
+#### 55. §
 
 #### 22. A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény módosítása
 
-56. §
+#### 56. §
 
-### 1–3. melléklet a 2012. évi XXXVIII. törvényhez
+### 1. melléklet a 2012. évi XXXVIII. törvényhez
+
+### 2. melléklet a 2012. évi XXXVIII. törvényhez
+
+### 3. melléklet a 2012. évi XXXVIII. törvényhez
 
 ### 4. melléklet a 2012. évi XXXVIII. törvényhez

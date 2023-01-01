@@ -17,7 +17,7 @@ Az Országgyűlés a gazdaság és a turizmus élénkítése, az egyes építés
 
 2. § A beruházással érintett állami tulajdonú ingatlanon annak vagyonkezelője beruházást és felújítási tevékenységet végezhet.
 
-3. §
+#### 3. §
 
 4. § (1) Az épített környezet alakításáról és védelméről szóló törvény településrendezési tervre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
@@ -34,7 +34,7 @@ Az Országgyűlés a gazdaság és a turizmus élénkítése, az egyes építés
 
 5. § A beruházás érdekében települési önkormányzat a tulajdonában lévő önkormányzati vagyon tulajdonjogát az állam javára versenyeztetés mellőzésével átruházhatja, vagy a tulajdonjog ingyenes átruházására vonatkozó megállapodást köthet.
 
-6. § (1) A beruházás tekintetében az építtetői feladatokat a Nemzeti Sportközpontok látja el. Az építtető a Magyar Állam nevében és javára jár el.
+6. § (1) A beruházás tekintetében az építtetői feladatokat a Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság látja el. Az építtető a Magyar Állam nevében és javára jár el.
 
 (2) Az építtető a beruházás előkészítéseként teljes körűen elkészíti vagy elkészítteti a szükséges terveket, tanulmányokat. Az építtető ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban, a saját nevére megszerzi az építési engedélyeket, továbbá elvégzi vagy elvégezteti a munkaterület előkészítését. Az építtető gondoskodik a közbeszerzési eljárások lefolytatásáról, a megvalósításra vonatkozó építési és egyéb szerződések megkötéséről, az építési műszaki ellenőri tevékenység ellátásáról, valamint lebonyolítja a műszaki átadás-átvételt.
 
@@ -44,7 +44,7 @@ Az Országgyűlés a gazdaság és a turizmus élénkítése, az egyes építés
 
 (5) A beruházás megvalósításához szükséges, (3)–(4) bekezdésben foglaltak szerint megszerzett ingatlan az állam tulajdonába és e törvény erejénél fogva, ellenérték nélkül az építtető vagyonkezelésébe kerül. A vagyonkezelői jog kiterjed az ingatlanon megvalósított beruházással létrejövő eszközökre is. Az állam javára a beruházás megvalósítása céljából a (3)–(4) bekezdésben foglaltak szerint megszerzett ingatlan vagyonkezelői jogának ingatlan-nyilvántartási bejegyzése után igazgatási szolgáltatási díjat nem kell fizetni.
 
-(6) A Magyar Nemzeti Vagyonkezelő Zrt. és a Nemzeti Sportközpontok kötelesek a közöttük fennálló vagyonkezelési szerződést a (3)–(5) bekezdésben foglaltaknak megfelelően módosítani.
+(6)
 
 #### 3. Záró rendelkezések
 

@@ -284,9 +284,11 @@ vonatkozó rendelkezéseket megfelelően alkalmazni kell.
 
 (2) Ha a hagyatéki eljárás során olyan vagyontárgy átadásáról is dönteni kell, amely korábban meghalt örökhagyó hagyatékához tartozott, de hagyatéki eljárásnak tárgya nem volt, a hagyatéki eljárást az a közjegyző folytatja le, aki a korábban meghalt örökhagyó hagyatéki eljárásának a lefolytatására illetékes. Ha mindkét eljárás megindult, az utóbb meghalt örökhagyó hagyatéki ügyét az előző rendelkezés szerint illetékes közjegyzőhöz kell áttenni.
 
-28. § (1) Ha a rendelkezésre álló adatok alapján az örökhagyó a halálakor közjegyző, ügyvéd, önálló bírósági végrehajtó, igazságügyi szakértő, gyám, gondnok vagy bizalmi vagyonkezelő, továbbá gazdasági társaság egyetlen bejegyzett vezető tisztségviselője vagy többségi befolyással rendelkező tagja volt, ennek tényét, valamint azoknak a vagyontárgyaknak, iratoknak a jegyzékét, amelyek az örökhagyó e tevékenységével kapcsolatosak és a leltárban nem szerepelnek, jegyzőkönyvben kell feltüntetni.
+28. § (1) Ha a rendelkezésre álló adatok alapján az örökhagyó a halálakor közjegyző, önálló bírósági végrehajtó, igazságügyi szakértő, gyám, gondnok vagy bizalmi vagyonkezelő, továbbá gazdasági társaság egyetlen bejegyzett vezető tisztségviselője vagy többségi befolyással rendelkező tagja volt, ennek tényét, valamint azoknak a vagyontárgyaknak, iratoknak a jegyzékét, amelyek az örökhagyó e tevékenységével kapcsolatosak és a leltárban nem szerepelnek, jegyzőkönyvben kell feltüntetni.
 
-(2) A jegyző vagy a közjegyző, ha adat merül fel arra vonatkozóan, hogy az örökhagyó
+(1a) Ha az örökhagyó a halálakor ügyvéd volt, az (1) bekezdés szerinti jegyzőkönyv felvétele helyett a hagyatéki leltárban ennek tényét kell feltüntetni, valamint az ügyvédi tevékenységről szóló törvény alapján kijelölt irodagondnok által készített nyitó jegyzőkönyv iktatószámát, ha azt az irodagondnok a hagyatéki leltár elkészültéig közölte.
+
+(2) A jegyző vagy a közjegyző, ha adat merül fel arra vonatkozóan, hogy az örökhagyó a halálakor
 
 - a) közjegyző volt, akkor az országos kamarát,
 - b) ügyvéd volt, akkor a Magyar Ügyvédi Kamarát,
@@ -297,7 +299,7 @@ vonatkozó rendelkezéseket megfelelően alkalmazni kell.
 
 a szükséges intézkedések megtétele végett haladéktalanul értesíti az örökhagyó haláláról.
 
-(3) A jegyző vagy a közjegyző a (2) bekezdésben meghatározott szakmai szervezet részére az (1) bekezdésben foglalt jegyzőkönyvet megküldi. A jegyzőkönyvet akkor is meg kell küldeni, ha leltározásra nem került sor.
+(3) A jegyző vagy a közjegyző a (2) bekezdés a), c)–f) pontjában meghatározott szakmai szervezet részére az (1) bekezdésben foglalt jegyzőkönyvet megküldi. A jegyzőkönyvet akkor is meg kell küldeni, ha leltározásra nem került sor.
 
 (4) A jegyző vagy a közjegyző a szükséges intézkedések megtétele végett haladéktalanul értesíti a halálesetről – ha adat merül fel arra vonatkozóan, hogy a halál pillanatában ilyen személy volt – az örökhagyó gondnokát, illetve gyámját.
 
@@ -312,7 +314,7 @@ a szükséges intézkedések megtétele végett haladéktalanul értesíti az ö
 - c) a jegyző vagy a közjegyző – az eset arra okot adó körülményeire figyelemmel és azokat a leltárban feltüntetve – indokoltnak tartja, vagy
 - d) helyszíni leltározást az örökösként érdekelt személy, a végrendeleti végrehajtó, a hagyatéki hitelező vagy a gyámhatóság kéri.
 
-(2) A helyszíni leltár felvételének idejéről és helyéről értesíteni kell az ismert öröklésben érdekelteket.
+(2) A helyszíni leltár felvételének idejéről és helyéről értesíteni kell az ismert öröklésben érdekelteket, valamint a 28. § (1a) bekezdése szerinti esetben az ügyvédi kamarai nyilvántartásba bejegyzett irodagondnokot.
 
 30. § (1) A hagyatéki leltár tartalmát képező adatok megállapítása érdekében meghallgatás tartható. A meghallgatás idejéről és helyéről értesíteni kell az ismert öröklésben érdekeltet.
 
@@ -321,6 +323,11 @@ a szükséges intézkedések megtétele végett haladéktalanul értesíti az ö
 (3) Ha az öröklésben méhmagzat, kiskorú vagy cselekvőképességet érintő gondnokság alatt álló személy látszik érdekeltnek, a jegyző a hagyatéki leltár felvétele során e személy törvényes képviselőjét, gyámját, ügygondnokát és a nevében eljáró eseti gyámot vagy eseti gondnokot, valamint az ismeretlen helyen tartózkodó vagy az ügyben más okból eljárni nem tudó, törvényes képviselővel vagy meghatalmazottal nem rendelkező személy részére kirendelt ügygondnokot, eseti gyámot vagy eseti gondnokot meghallgatja.
 
 (4) Az érdekelteknek a meghallgatáson és a jelenlévőknek a szemlén tett nyilatkozatait kérelmükre a hagyatéki leltárban, valamint a szemléről készült jegyzőkönyvben fel kell tüntetni.
+
+(5) A jegyzőt, valamint a közjegyzőt a 28. § (1a) bekezdése szerinti esetben a leltár felvétele során köti az irodagondnok nyilatkozata abban, hogy
+
+- a) az okirat ügyvédi iratőrzési kötelezettséggel terhelt,
+- b) az okirat, pénz, illetve vagyontárgy ügyvédi letét tárgyát képezi.
 
 31. § A leltár részletes tartalmát és mellékleteit az e törvény végrehajtására kiadott jogszabály határozza meg.
 
@@ -505,13 +512,13 @@ feltéve, hogy a hagyatéki leltár a hagyaték átadásához szükséges valame
 (2) A szóbeli végintézkedés megtételének körülményeiről és tartalmáról – ha a közjegyző felhívása másként nem rendelkezik – nyilatkozni lehet
 
 - a) teljes bizonyító erejű magánokiratnak vagy közokiratnak kézbesítével, vagy belföldön bármely jegyzőnek vagy közjegyzőnek, külföldön pedig a hivatásos magyar konzuli tisztviselőnek továbbításra való átadásával, vagy
-- b) közjegyzőnél közjegyzői okiratba foglalt nyilatkozatban, vagy az erre felhatalmazott hivatásos magyar konzuli tisztviselőnél konzuli okiratba foglalt nyilatkozatban.
+- b) közjegyzőnél közjegyzői okiratba foglalt nyilatkozatban.
 
 (3) A szóbeli végintézkedés tanújának (2) bekezdésben foglalt nyilatkozatából ki kell tűnnie, hogy a tanú a nyilatkozatot a vallomástétel akadályainak és a hamis tanúzás következményeinek ismeretében tette meg. Erre a szóbeli végintézkedés tanúját az (1) bekezdésben foglalt felhívásban, a vallomástétel akadályainak és a hamis tanúzás következményeinek ismertetésével figyelmeztetni kell.
 
 (4) A szóbeli végintézkedésről szóló iratot átvevő vagy nyilatkozatot okiratba foglaló jegyző vagy közjegyző az átvett iratot vagy a nyilatkozatról szóló tanúsítványt ellenszolgáltatás nélkül haladéktalanul kézbesíti a hagyatéki ügyben eljáró közjegyző részére.
 
-(5) A szóbeli végintézkedés megtételének körülményeiről és tartalmáról szóló iratot átvevő vagy az erről szóló nyilatkozatot okiratba foglaló konzuli tisztviselő az átvett iratot vagy a nyilatkozatról készített konzuli okiratot a külpolitikáért felelős miniszternek terjeszti fel, aki azt a hagyatéki ügyben eljáró közjegyző részére ellenszolgáltatás nélkül kézbesíti. A továbbításra igénybe vett diplomáciai vagy konzuli futárposta a teljesítés határidejébe nem számít bele.
+(5) A szóbeli végintézkedés megtételének körülményeiről és tartalmáról szóló iratot átvevő konzuli tisztviselő az átvett iratot a külpolitikáért felelős miniszternek terjeszti fel, aki azt a hagyatéki ügyben eljáró közjegyző részére ellenszolgáltatás nélkül kézbesíti. A továbbításra igénybe vett diplomáciai vagy konzuli futárposta a teljesítés határidejébe nem számít bele.
 
 (6) Ha a szóbeli végintézkedés tanúja elhunyt, vagy egyéb okból nem képes nyilatkozni, a végintézkedés megtételének körülményeiről és tartalmáról az általa azokról korábban tett, teljes bizonyítóerejű magánokiratba vagy közokiratba foglalt, illetve olyan személy nyilatkozata alapján is meg lehet győződni, aki az elhunyt tanú által hallottakról tudomással bír.
 
@@ -901,7 +908,7 @@ azt a hagyatékból ki kell hagyni, egyben – az a) és b) pontban foglalt eset
 
 (2) A hagyaték bejelentése céljából a közjegyző a jogerős teljes hatályú hagyatékátadó végzést, a teljes hatályúvá vált ideiglenes hatályú hagyatékátadó végzést és a jogszabályban előírt egyéb iratokat a teljes hatályú hagyatékátadó végzés, az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzés jogerőre emelkedésének megállapításától számított 15 napon belül az illetékes állami adóhatóságnak küldi meg.
 
-92/A. § A közjegyző az ingatlant érintő hagyatéki eljárásban tájékoztatja a feleket a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 20/P. §-a szerinti adatváltozás-kezelési szolgáltatás igénybevételének lehetőségéről.
+92/A. § A közjegyző az ingatlant érintő hagyatéki eljárásban tájékoztatja a feleket a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény 11. §-a szerinti adatváltozás-kezelési szolgáltatás igénybevételének lehetőségéről.
 
 ### IV. Fejezet — KÜLÖNLEGES ELJÁRÁSOK
 

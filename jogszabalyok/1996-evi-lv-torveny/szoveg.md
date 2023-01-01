@@ -1304,6 +1304,8 @@ okozott kár tíz százalékot (a továbbiakban: természetes önfenntartási é
 
 (4) Figyelmeztetés nem alkalmazható közigazgatási szankcióként a 83. § (1) bekezdésében, valamint a 84. § (1) bekezdésében meghatározott esetekben.
 
+(5) A vadászati hatóság az e § alapján kiszabott bírságfizetési kötelezettségének teljesítése érdekében a bírság megfizetésére a végrehajtás elrendelése előtt a kötelezett kérelmére fizetési halasztást vagy részletekben történő teljesítést engedélyezhet, amennyiben a fizetési nehézség a kérelmezőnek nem róható fel, vagy annak elkerülése érdekében úgy járt el, ahogy az az adott helyzetben általában elvárható.
+
 ### A vadgazdálkodási bírság
 
 83. § (1) A vadászati hatóság határozata alapján vadgazdálkodási bírságot köteles fizetni a vadászatra jogosult akkor, ha
@@ -1394,7 +1396,10 @@ okozott kár tíz százalékot (a továbbiakban: természetes önfenntartási é
 - c)
 - d) a vadat veszélyeztető, vagy annak számító tevékenység abbahagyását, illetve a tevékenységtől való tartózkodást elrendelni;
 - e) a vadállomány egészségi állapotát veszélyeztető beteg, sérült vagy elhullott vad elszállítását elrendelni;
-- f)–i)
+- f)
+- g)
+- h)
+- i)
 
 (2) A vadászati hatósági feladatokat ellátó személy a szolgálati lőfegyverét előzetes felszólítás és figyelmeztető lövés leadása után, az életet vagy testi épséget közvetlenül fenyegető támadás elhárítására – ha a támadás másként nem hárítható el, az elkövető személlyel szemben az arányosság követelményeinek betartásával – használhatja. A fegyverhasználat nem lépheti túl a jogos védelem mértékét. Fegyverhasználatnak csak a szándékosan személyre leadott lövés minősül, nem minősül fegyverhasználatnak a véletlenül bekövetkezett, az állatra, a tárgyra leadott lövés vagy figyelmeztető lövés. A fegyverhasználatot haladéktalanul jelenteni kell a rendőrségnek. A fegyverhasználat jogszerűségét a rendőrség vizsgálja ki.
 
@@ -1416,7 +1421,9 @@ okozott kár tíz százalékot (a továbbiakban: természetes önfenntartási é
 
 ### A miniszter feladatai és hatásköre
 
-90. § (1)–(2)
+90. § (1)
+
+(2)
 
 (3) A miniszter a vadgazdálkodással, a vad, valamint élőhelyének védelmével, továbbá a vadászattal összefüggő irányítási, valamint szabályozási feladatkörében:
 
@@ -1495,7 +1502,8 @@ okozott kár tíz százalékot (a továbbiakban: természetes önfenntartási é
 - a) a központi költségvetésben e cél megvalósítására előirányzott pénzösszeg;
 - b) a vadászati hatósági eljárásban fizetett díj;
 - c)
-- d)–e)
+- d)
+- e)
 
 (2) Az e törvény hatálya alá tartozó hatósági eljárás díj- és illetékmentes, amennyiben az adott eljárásra e törvény végrehajtására kiadott jogszabály igazgatási szolgáltatási díjat nem állapít meg.
 

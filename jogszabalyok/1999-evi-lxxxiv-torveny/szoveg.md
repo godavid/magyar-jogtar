@@ -43,7 +43,7 @@ Az Országgyűlés a tulajdon védelme, a közúti közlekedés biztonságának 
 
 ### II. Fejezet — A KÖZÚTI KÖZLEKEDÉSI NYILVÁNTARTÁS SZERVEZETE ÉS AZ ADATSZOLGÁLTATÁSI HATÁSKÖRÖK
 
-3. § Az e törvényben meghatározott adatkezelési és hatósági feladatokat a közúti közlekedési nyilvántartó szerv (a továbbiakban: nyilvántartó), valamint a közlekedési igazgatási hatóság látja el.
+3. § Az e törvényben meghatározott adatkezelési és hatósági feladatokat a közúti közlekedési nyilvántartó szerv (a továbbiakban: nyilvántartó), valamint a közlekedési igazgatási hatóság, továbbá az 5/A. §-ban foglalt esetben a közúti közlekedésről szóló törvényben meghatározott közúti közlekedés ellenőrzésére jogosult hatóság (a továbbiakban: közúti közlekedés ellenőrzésére jogosult hatóság) látja el.
 
 4. § (1) A nyilvántartó feladat- és hatásköre:
 
@@ -127,6 +127,10 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
 
 (3) A személyiadat- és lakcímnyilvántartást kezelő szerv a Magyarországon házasságot kötött magyar állampolgár esetén továbbítja a nyilvántartó részére a vezetői engedély, törzskönyv, forgalmi engedély házasságkötésből eredő névváltozás miatti, hivatalbóli cseréjéhez szükséges adatokat.
 
+5/A. § (1) A közúti közlekedés ellenőrzésére jogosult hatóság a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott esetekben a vezetési jogosultság azonnali felfüggesztését a helyszínen bejegyzi az engedély-nyilvántartásba.
+
+(2) A közúti közlekedés ellenőrzésére jogosult hatóság a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott esetekben, a jármű forgalomban való részvétele jogosultságának azonnali felfüggesztését a helyszínen bejegyzi a járműnyilvántartásba.
+
 ### Speciális közlekedési igazgatási eljárási szabályok
 
 6. § (1) Az ügyfélnek személyesen kell eljárnia
@@ -194,9 +198,9 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
   - af) elhalálozásának idejét,
   - ag) állampolgárságát,
   - ah) közúti közlekedési előéleti pontrendszer adatait,
-  - ai) „Gépjármű-vezetői képesítési igazolvány” sorszámára, kategóriájára, kiadásának dátumára és érvényességi idejére vonatkozó adatokat,
+  - ai) „Gépjármű-vezetői képesítési igazolványának” sorszámára, kategóriájára, kiadásának dátumára, érvényességi idejére, kiállító országára, valamint az azon szereplő vezetői engedély számára, típusára, kiállító országára vonatkozó adatokat, továbbá a 95-ös harmonizált uniós kódot és annak érvényességi idejét.
   - aj) vezetési jogosultságának szünetelésére vonatkozó adatokat,
-  - ak) kényszergyógykezelését elrendelő bíróság megnevezésére és ügyszámára, valamint a kényszergyógykezelés elrendelésének és megszűnésének vagy megszüntetésének időpontjára vonatkozó adatokat.
+  - ak) kényszergyógykezelésének fennállására vonatkozó adatot az okmánykiadás feltételei ellenőrzésének időpontjában,
   - al) az elsősegély-nyújtási ismeretek megszerzésére (sikeres vizsga időpontja, vizsgaigazolás sorszáma) vagy az elsősegély-nyújtási vizsgakötelezettség alóli mentesülés tényére (mentesülés megállapításának időpontja és a mentesülési igazolás sorszáma) vonatkozó adatokat,
   - am) vezetői engedély automatikus kiállításához szükséges nyilatkozatait; továbbá
 - b) az engedély
@@ -207,7 +211,7 @@ a nyilvántartó a (2) bekezdés szerinti módon gondoskodik a schengeni figyelm
 
 (2) Az engedély-nyilvántartás az (1) bekezdésben meghatározott adatokon kívül tartalmazza a SIS II-ben elhelyezendő figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) kezelésével kapcsolatos, törvényben, személyes adatoknak nem minősülő adatok esetében jogszabályban meghatározott adatokat is.
 
-(3) Az engedély-nyilvántartás az (1) és (2) bekezdésben meghatározott adatok tekintetében – az (1) bekezdés a) pont aa), ab), ai) és aj) alpontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(3) Az engedély-nyilvántartás az (1) és (2) bekezdésben meghatározott adatok tekintetében – az (1) bekezdés a) pont aa), ab), ai) , aj) és ak) alpontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 8/A. § (1) A parkolási igazolvány nyilvántartása tartalmazza
 
@@ -416,22 +420,24 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
   - ea)
   - eb)
   - ec) a jármű forgalomba helyezés előtti és időszakos vizsgálata során, továbbá a jármű-honosítási eljárásban megállapított, a 9. § (2) bekezdés a), b), d) és g) pontjában meghatározott adatairól,
-  - ed)
+  - ed) a bontási átvételi igazolás adatairól,
 - f) a biztosító elektronikus úton a külön jogszabályban meghatározott kötelező gépjármű-felelősségbiztosítási kötvény adatairól;
 - g) a díjmentes úthasználatra, továbbá a közútkezelői hozzájárulás hiányában is a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosult az útdíj köteles elemi útszakaszok, és úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartásába felvenni kért járművek 9/C. § (1) bekezdésben meghatározott adatokról, valamint – a változástól számított 30 napon belül – azok változásáról;
 - h) a vizsgaközpont elektronikusan, haladéktalanul
   - ha) a járművezetőnek a 8. § (1) bekezdés a) pont aa)–ae) alpontjában meghatározott pályaalkalmasságára és utánképzésére vonatkozó adatairól,
   - hb) az engedélynek a 8. § (1) bekezdés b) pont bd) alpontjában meghatározott adatairól,
-  - hc) a „Gépjármű-vezetői képesítési igazolvány” sorszámáról, kategóriájáról, kiadásának dátumáról és érvényességi idejéről,
+  - hc) a „Gépjármű-vezetői képesítési igazolvány” sorszámáról, kategóriájáról, kiadásának dátumáról, érvényességi idejéről, kiállító országáról, valamint az azon szereplő vezetői engedély számáról, típusáról, kiállító országáról, továbbá a 95-ös harmonizált uniós kódról és annak érvényességi idejéről,
   - hd) a járművezető 8. § (1) bekezdés a) pont am) alpontjában meghatározott, járművezetői képzés és vizsgáztatás folyamatában tett nyilatkozatairól,
 - i) a gondnokoltak nyilvántartásának adatkezelője elektronikus úton a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló 2013. évi CLXXV. törvény 3. § (1) bekezdés a) pont aa)–ae) alpontjában, valamint b)–e) pontjában meghatározott adatokról, a cselekvőképesség, valamint a közlekedésbiztonsági alkalmasság fennállásának ellenőrzése céljából,
-- j) a bűnügyi nyilvántartó szerv elektronikus úton a 8. § (1) bekezdés a) pont ak) alpontjában meghatározott adatokról.
+- j)
 - k) a vizsgálatot végző szerv elektronikus úton a 8. § (1) bekezdés a) pont ae) alpontjában meghatározott egészségi alkalmassági adatokról és azok változásáról az Elektronikus Egészségügyi Szolgáltatási Téren keresztül,
-- l) a Magyar Vöröskereszt fővárosi, megyei szervezete elektronikus úton a 8. § (1) bekezdés a) pont al) alpontjában foglalt adatokról,
+- l) a Magyar Vöröskereszt fővárosi, vármegyei szervezete elektronikus úton a 8. § (1) bekezdés a) pont al) alpontjában foglalt adatokról,
 - m) a személyiadat- és lakcímnyilvántartást kezelő szerv a járművezető 8. § (1) bekezdés a) pont am) alpontjában meghatározott, az anyakönyvvezetőnél a házasságkötési szándék bejelentésekor tett nyilatkozatairól.
 - n) a kötvénynyilvántartó szerv elektronikusan a 9. § (2a) bekezdésében, illetve a 9/D. § (4a) bekezdésében meghatározott adatokról.
 
 (3) A Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz tartozó tárhelyszolgáltatás kijelölt szolgáltatója a nyilvántartó természetes személyazonosító adatokat tartalmazó elektronikus kérelmére megküldi a nyilvántartó részére a természetes személy kapcsolati kódját és tárhely-azonosítóját. Az adatszolgáltatás adatait a nyilvántartó a járművezetővel vagy járművezető-jelölttel, a jármű tulajdonosával (üzembentartójával), valamint a parkolási igazolvány jogosultjával való elektronikus úton történő kapcsolatfelvételre használhatja fel.
+
+(4) A vezetői engedély kiadása, cseréje, meghosszabbítása, pótlása, honosítása és visszahonosítása során, a közlekedési igazgatási hatóság és a nyilvántartó a közlekedésbiztonsági alkalmasság vizsgálata céljából, informatikai adatkapcsolat útján, térítésmentesen adatot igényelhet és vehet át a bűnügyi nyilvántartási rendszerből kizárólag azon adatra vonatkozóan, hogy az adatigénylés időpontjában a járművezető vagy a járművezető-jelölt kényszergyógykezelés hatálya alatt áll-e.
 
 14/A. § A közlekedési igazgatási hatóságot értesíti
 
@@ -444,7 +450,7 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 
 - a) a polgárok személyi adatainak és lakcímének nyilvántartásából,
 - b) az útiokmány-nyilvántartásból,
-- c) a központi idegenrendészeti nyilvántartásból,
+- c) a központi idegenrendészeti nyilvántartásból a harmadik országbeli állampolgárok tekintetében a természetes személyazonosító adatokat, az úti okmány azonosító adatokat, az érvényes tartózkodási engedély számára, sorozatszámára és érvényességi idejére (kezdete és vége) vonatkozó adatokat, valamint a szálláshely címadatokat,
 - d) a közúti közlekedési nyilvántartás engedély-nyilvántartásából a 8. § (1) bekezdés a) pont aa)–ad) alpontjában, továbbá a 8. § (1) bekezdés b) pont ba) és bb) alpontjában foglalt adatokat érintően,
 - e) a cégnyilvántartásból a képviseleti jogosultság ellenőrzéséhez szükséges, valamint a 9. § (1) bekezdés d) pontjában és a 9/D. § (1) bekezdés d) pontjában meghatározott, a cégnyilvántartásban elérhető adatokat érintően.
 
@@ -472,7 +478,7 @@ feltéve, hogy az a járművek számára ténylegesen tárolási helyéül szolg
 
 - a) a 8. § (1) bekezdés a) pont ah) alpontjában meghatározott személyes adatnak minősülő adatokat törvényben előírt ideig,
 - b) a 8. § (1) bekezdés a) pont aj) alpontjában meghatározott adatokat a vezetési jogosultság szünetelésének lejártát, illetve a járművezető vagy a járművezető-jelölt elhalálozása miatti megszűnését követő öt évig,
-- c) a 8. § (1) bekezdés a) pont ak) alpontjában meghatározott adatokat a kényszergyógykezelés megszűnésétől vagy a megszüntetését elrendelő végzés jogerőre emelkedésétől számított három évig,
+- c)
 - d) a 8. § (2) bekezdése szerinti adatokat jogszabályban meghatározott időtartamig
 
 kezeli.
@@ -539,7 +545,7 @@ A NYILVÁNTARTÁSBÓL
 - s) a Kkt. 9/D. § (2) bekezdésében meghatározott közfeladat ellátására jogosult, valamint a közfeladat ellátására jogosulttal a Kkt. 9/D. § (4) bekezdése alapján szerződött szervezet feladatai ellátásához a 9. § (1) és (1a) bekezdésében, valamint a 9/D. § (1) bekezdésében megjelölt adatokat,
 - t) az anyakönyvvezető a személyazonosság ellenőrzése, az elhunyt személy személyazonosság igazolására alkalmas okmányának bevonása, vagy a névváltozási eljárással összefüggő feladatainak ellátása céljából a 8. § (1) bekezdés a) pont aa), ab), af) és ag) alpontjában, valamint b) pont ba) és bb) alpontjában foglalt adatokat,
 - u) a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, ellenőrzése céljából a 9. § (1) bekezdés a), b) és e) pontjában, valamint (2) bekezdés a)–c) pontjában, valamint a 9/D. § (1) bekezdés a)–b) pontjában, (2) bekezdés a)–b) pontjában és (3) bekezdésében megjelölt adatokat térítésmentesen;
-- v) a környezetvédelmi és természetvédelmi hatóság az engedély nélküli hulladéklerakással összefüggő feladatai ellátásához a 9. § (1) és (1a) bekezdésében és a 9/D. § (1) bekezdésében megjelölt adatokat;
+- v) a hulladékgazdálkodási hatóság az engedély nélküli hulladéklerakással összefüggő feladatai ellátásához a 9. § (1) és (1a) bekezdésében, a 9. § (2) bekezdés a)–b) és d)–e) pontjában, valamint a 9/D. § (1) bekezdésében megjelölt adatokat.
 - w) a büntetés-végrehajtási intézet a befogadás során az elítélt személyazonosságának ellenőrzése érdekében a 8. § (1) bekezdés a) pont aa)–ad), af) és ag) alpontjában, valamint a b) pont ba) és bb) alpontjában foglalt adatokat;
 - z) a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő a természetes személyek adósságrendezéséről szóló törvény szerinti feladataik ellátásához a járműtulajdonos (üzembentartó) 9. § (1) és (1a) bekezdésében meghatározott adatait és a tulajdonosváltozásra vonatkozó adatokat, és csoportos adatszolgáltatást a természetes személy mint járműtulajdonos járműveire a 9. § (2) bekezdésben felsorolt adatokat.
 

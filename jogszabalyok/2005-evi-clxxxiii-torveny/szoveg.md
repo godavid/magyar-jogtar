@@ -20,7 +20,9 @@ terjed ki.
 
 (2) Nemzetközi szerződéssel összhangban e törvény rendelkezéseit abban az esetben kell alkalmazni pályahálózat-működtető Magyarország területén kívül végzett vasúti pályahálózat működtetési tevékenységére, ha magyarországi kiinduló vagy célállomással rendelkező vasúti jármű közlekedése során Magyarország területén kívül eső pályahálózatot is igénybe vesz.
 
-(3)–(4)
+(3)
+
+(4)
 
 (5)
 
@@ -473,7 +475,11 @@ kapcsolatos, a vasúti társaságok működésének engedélyezéséről szóló
 
 9. § (1) Üzleti jó hírnévvel nem rendelkezik az a kérelmező, amelynek a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti vezető tisztségviselője (a továbbiakban: vezető) büntetett előéletű.
 
-(2)–(4)
+(2)
+
+(3)
+
+(4)
 
 9/A. § (1) A vasúti társaság a működési engedély iránti kérelmet jóváhagyó határozat véglegessé válásától számított hat hónapon belül köteles megkezdeni a működési engedélyben meghatározott tevékenységét. E határidő elmulasztása vagy a tevékenység végzésének hat hónapot meghaladó szüneteltetése esetén a vasúti igazgatási szerv a feltételek fennállásának felülvizsgálatát rendelheti el, továbbá indokolt esetben a működési engedélyt felfüggesztheti. A tevékenység megkezdésére irányadó határidő a vasúti társaságnak a működési engedély iránti kérelmet jóváhagyó határozat véglegessé válásától számított hat hónapon belül benyújtott kérelmére a vasúti társaságok működésének engedélyezéséről szóló rendeletben meghatározott esetekben egy alkalommal legfeljebb további hat hónappal meghosszabbítható. Ha a vasúti társaság e meghosszabbított határidő lejártáig sem kezdi meg a működési engedélyben szereplő tevékenységet, a vasúti igazgatási szerv a működési engedélyt felfüggeszti.
 
@@ -1167,7 +1173,11 @@ kapcsolatos szabályokat.
 
 (3) Az alapképzés és időszakos oktatás végzésére irányuló szándékot a szolgáltató köteles a közlekedési hatóságnak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni. Alapképzés, illetve időszakos oktatás végzésére a külön jogszabályban meghatározott személyi és tárgyi feltételeket teljesítő képzőszervezet és vasúti társaság jogosult, amelynek legalább egy személyesen közreműködő tagja vagy alkalmazottja – egyéni vállalkozó esetén, ha a tevékenységet nem maga látja el, legalább egy foglalkoztatottja – rendelkezik a külön jogszabályban meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek (a továbbiakban: vasútszakmai oktató). Vasútszakmai oktatóként az foglalkoztatható, aki büntetlen előéletű, és nem áll az e tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt.
 
-(4)–(6)
+(4)
+
+(5)
+
+(6)
 
 (7) Az alapvizsga és az időszakos vizsga lebonyolítását a Kormány által a vasúti vizsgaközpont kijelöléséről szóló kormányrendeletben kijelölt vasúti vizsgaközpont, az alapképzés és az időszakos oktatás szakmai irányítását, valamint a vasútszakmai oktatók és a vasútüzemvezetők továbbképzését, továbbá a vasúti közlekedés területén hatósági vizsgabiztosi tevékenységet ellátók képzését és továbbképzését a Kormány által a vasúti képzési módszertani központ kijelöléséről szóló kormányrendeletben kijelölt vasúti képzési módszertani központ végzi.
 
@@ -1979,7 +1989,7 @@ a VPSZ rendelkezésére bocsátani.
 
 (3) A közforgalmú vasúti társaság munkavállalója formaruha viselésére kötelezhető.
 
-(4) A vasutas biztosítottak az elkülönült vasútegészségügyi szervezeten (Vasútegészségügyi Nonprofit Közhasznú Korlátolt Felelősségű Társaság, valamint MÁV Kórház és Rendelőintézet, Szolnok) és a Magyar Honvédség Egészségügyi Központ (Honvéd, Rendészeti és Vasútegészségügyi Központ) belül gyógyító-megelőző és teljes körű üzem-egészségügyi ellátásra jogosultak. A vasutas biztosítottak körét és a jogosultság mértékét külön jogszabály állapítja meg.
+(4) A vasutas biztosítottak az elkülönült vasútegészségügyi szervezeten (Vasútegészségügyi Nonprofit Közhasznú Korlátolt Felelősségű Társaság, valamint MÁV Kórház és Rendelőintézet, Szolnok) és az egészségügyről szóló 1997. évi CLIV. törvény 244/C. § (1) bekezdése szerinti új egészségügyi szolgáltató belül gyógyító-megelőző és teljes körű üzem-egészségügyi ellátásra jogosultak. A vasutas biztosítottak körét és a jogosultság mértékét külön jogszabály állapítja meg.
 
 (5) Az elkülönült vasútegészségügyi szervezet munkavállalóját a (2) és (4) bekezdés alkalmazása szempontjából az országos vasúti személyszállítási közszolgáltatást végző vasúti társaság munkavállalójának kell tekinteni.
 
@@ -3058,9 +3068,20 @@ megfelelnek a vasút-villamos szolgáltatásra kiadott működési engedélyekbe
 
 86. § (1) Ez a törvény 2006. január 1-jén lép hatályba
 
-- a)–h)
+- a)
+- b)
+- c)
+- d)
+- e)
+- f)
+- g)
+- h)
 
-(2)–(4)
+(2)
+
+(3)
+
+(4)
 
 (5)
 
@@ -3073,7 +3094,8 @@ megfelelnek a vasút-villamos szolgáltatásra kiadott működési engedélyekbe
 - a) pályahálózat-működtető,
 - b) kizárólag az iparvágányon vasúti áruszállítást végző vasúti társaság, a kizárólag az iparvágányon vasúti személyközlekedtetést végző vasúti társaság és a kizárólag az iparvágányon vasúti vontatást végző vasúti társaság,
 - c) kizárólag a saját célú vasúti pályahálózaton vasúti áruszállítást végző vasúti társaság, a kizárólag a saját célú vasúti pályahálózaton vasúti személyközlekedtetést végző vasúti társaság és a kizárólag a saját célú vasúti pályahálózaton vasúti vontatást végző vasúti társaság,
-- d)–e)
+- d)
+- e)
 
 amely a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény, valamint az ezzel összefüggő törvények módosításáról szóló 2015. évi CIII. törvény (a továbbiakban: Vtvmódtv1.) hatálybalépésekor működési engedéllyel rendelkezik, 2015. december 1-jéig köteles a vasúti igazgatási szerv részére bejelenteni, ha tevékenységét változatlan formában tovább kívánja folytatni.
 
@@ -3087,7 +3109,8 @@ amely a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény, valamin
 
 - a) kizárólag iparvágányt működtető pályahálózat-működtető,
 - b) kizárólag saját célú vasúti pályahálózatot működtető pályahálózat-működtető,
-- c)–d)
+- c)
+- d)
 
 amely a Vtvmódtv1. hatálybalépésekor vasútbiztonsági engedéllyel rendelkezik, 2015. december 1-jéig köteles a közlekedési hatóság részére bejelenteni, hogy tevékenységét változatlan formában tovább kívánja folytatni.
 
@@ -3144,6 +3167,8 @@ amely a Vtvmódtv1. hatálybalépésekor vasútbiztonsági engedéllyel rendelke
 (3) A (2) bekezdés szerinti üzembehelyezési engedéllyel rendelkező járművek számára új forgalombahozatali járműengedélyt kell kiállítani annak céljából, hogy üzemelhessenek egy vagy több olyan hálózaton, amelyre még nem vonatkozik az engedélyük. Az említett további hálózatokon történő forgalomba hozatalra az (EU) 2016/797 európai parlamenti és tanácsi irányelv 21. cikke vonatkozik.
 
 (4) 2031. június 16. napjáig az Ügynökség általi, az (EU) 2016/797 európai parlamenti és tanácsi irányelv 19. cikkben említett előzetes engedélyezésre vonatkozó kötelezettség nem vonatkozik a 2016. június 15. napját megelőzően aláírt szerződésekben foglalt opciókra, még abban az esetben sem, ha azokkal 2016. június 15. napját követően élnek.
+
+87/J. § A Magyarország 2023. évi központi költségvetésének megalapozásáról szóló 2022. évi XXIV. törvénnyel megállapított 28. § (1) bekezdése alapján kötött pályaműködtetési szerződésekben rögzített, a minisztert megillető jogok és kötelezettségek az országos közlekedésszervezőre szállnak át.
 
 ### FELHATALMAZÁS
 

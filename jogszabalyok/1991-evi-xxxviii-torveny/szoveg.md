@@ -2,7 +2,9 @@
 
 a használati minták oltalmáról
 
-### I. Fejezet — A HASZNÁLATIMINTA-OLTALOM TÁRGYAÉS TARTALMA
+### I. Fejezet — A HASZNÁLATIMINTA-OLTALOM TÁRGYA
+
+ÉS TARTALMA
 
 ### Az oltalmazható használati minta
 
@@ -49,6 +51,8 @@ a használati minták oltalmáról
 
 11. § (1) A mintaoltalom a bejelentés napjától számított tíz évig tart.
 
+(1a) A mintaoltalom időtartamára alkalmazni kell a szabadalmi törvénynek a szabadalmi oltalom időtartamának számítására vonatkozó rendelkezéseit.
+
 (2) A mintaoltalom tartamára évenként jogszabályban meghatározott fenntartási díjat kell fizetni. A díj az első évre a bejelentés napján, a további évekre a bejelentés napjának megfelelő naptári napon előre esedékes. A mintaoltalom megadását megelőzően esedékessé vált fenntartási díjat a megadó határozat jogerőre emelkedésétől, a többi fenntartási díjat pedig az esedékességtől számított hat hónapos türelmi idő alatt is meg lehet fizetni.
 
 ### A mintaoltalom tartalma, terjedelme és korlátai
@@ -63,9 +67,9 @@ a használati minták oltalmáról
 
 (3) A mintaoltalomból eredő díjigényt nem érinti, ha a termékben egy vagy több igényponti jellemzőt a mintaoltalom jogosultja, illetőleg a minta feltalálója által a hasznosító rendelkezésére bocsátott javított jellemzővel helyettesítettek.
 
-14. §
+#### 14. §
 
-15. §
+#### 15. §
 
 16. § (1) Ha a mintaoltalomban részesülő minta másik mintaoltalom megsértése nélkül nem hasznosítható, a hasznosításhoz szükséges mértékben a gátló mintaoltalomra kényszerengedélyt kell adni.
 
@@ -172,7 +176,7 @@ kapcsolatos ügyek.
 
 (5) A szabadalmi törvény eltérő rendelkezése hiányában a (4) bekezdés c) és d) pontjában említett kérdésekben hozott – az eljárást befejező – döntését a Szellemi Tulajdon Nemzeti Hivatala megváltoztatási kérelem alapján is csak akkor módosíthatja vagy vonhatja vissza, ha megállapítja, hogy döntése jogszabályt sért, vagy ha a felek a döntés módosítását vagy visszavonását egybehangzóan kérik.
 
-28. § (1) A Szellemi Tulajdon Nemzeti Hivatala mintaoltalmi ügyekben folyó eljárásában megfelelően alkalmazni kell a szabadalmi törvénynek a Szellemi Tulajdon Nemzeti Hivatala előtti eljárásra vonatkozó általános szabályait, ideértve a szabadalmi lajstromra, valamint a hatósági tájékoztatásra vonatkozó szabályokat is, az alábbi eltérésekkel:
+28. § (1) A Szellemi Tulajdon Nemzeti Hivatala mintaoltalmi ügyekben folyó eljárásában alkalmazni kell a szabadalmi törvénynek a Szellemi Tulajdon Nemzeti Hivatala előtti eljárásra vonatkozó általános szabályait, ideértve a bejelentési nyilvántartásra, a szabadalmi lajstromra, valamint a hatósági tájékoztatásra vonatkozó szabályokat is, az alábbi eltérésekkel:
 
 - a) a Szellemi Tulajdon Nemzeti Hivatala által kitűzött határidő legalább egy, de legfeljebb három hónapos lehet;
 - b) az a) pont szerinti határidő – annak lejárata előtt előterjesztett kérelemre történő – meghosszabbítása legalább egy hónappal, de legfeljebb három hónappal történhet;
@@ -218,13 +222,13 @@ kapcsolatos ügyek.
 
 (3) A mintaoltalmi bejelentés származtatásának csak a szabadalmi bejelentés napjától számított tíz éven belül van helye.
 
-31. §
+#### 31. §
 
 ### A leírás
 
 32. § (1) A leírásnak lehetővé kell tennie, hogy a mesterségben járatos személy a minta tárgyát a leírás és a rajzban foglaltak alapján megvalósíthassa.
 
-(2) A leírás végén egy vagy több igénypontban meg kell határozni a leírás egyéb részeivel összhangban az igényelt mintaoltalom terjedelmét.
+(2) Az igénypontban egyértelműen, a leírással összhangban kell meghatározni az igényelt mintaoltalom terjedelmét.
 
 ### A minta egysége
 
@@ -258,7 +262,7 @@ kapcsolatos ügyek.
 - d) a leírás megfelel-e a törvényes feltételeknek (32. §);
 - e) a minta egységes-e;
 - f) az elsőbbséget szabályszerűen igényelték-e a mintára és a bejelentőt megilleti-e az igényelt elsőbbség;
-- g) a bejelentést új tartalom bevitelével nem változtatták-e meg úgy, hogy a tárgya bővebb lett annál, mint amit a bejelentés napján benyújtott bejelentésben feltártak.
+- g) a bejelentést nem változtatták-e meg úgy, hogy a tárgya bővebb lett annál, mint amit a bejelentés napján benyújtott bejelentésben feltártak.
 
 ### A mintaoltalmi ügyek intézése
 
@@ -268,7 +272,7 @@ kapcsolatos ügyek.
 
 (3) A bejelentést csak a felhívásban határozottan megjelölt és kellően kifejtett okok alapján lehet elutasítani.
 
-(4) Ha a bejelentő a felhívásra a kitűzött határidőben nem válaszol, illetve a bejelentést nem osztja meg, a mintaoltalmi bejelentést visszavontnak kell tekinteni.
+(4) Ha a bejelentő a felhívásra a kitűzött határidőben nem válaszol, a mintaoltalmi bejelentést visszavontnak kell tekinteni.
 
 (5) Ha a minta és a mintaoltalmi bejelentés megfelel a vizsgálat körébe tartozó valamennyi követelménynek, a Szellemi Tulajdon Nemzeti Hivatala a bejelentés tárgyára mintaoltalmat ad.
 
@@ -379,7 +383,7 @@ kapcsolatos ügyek.
 
 40. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
-41. §
+#### 41. §
 
 ### Hatálybalépés
 

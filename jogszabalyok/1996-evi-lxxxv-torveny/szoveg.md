@@ -60,11 +60,11 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 
 27. § (1) A tulajdoni lapról kiállított hiteles másolatért igazgatási szolgáltatási díjat kell fizetni (a továbbiakban: díj), mely az ingatlanügyi hatóság bevétele.
 
-(2) A tulajdoni lapról elektronikus dokumentumként szolgáltatott hiteles és nem hiteles tulajdonilap-másolatért igazgatási szolgáltatási díjat kell fizetni (a továbbiakban: elektronikus adatszolgáltatási díj). Az elektronikus adatszolgáltatási díj az ingatlan-nyilvántartásért felelős miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott arányban az ingatlanügyi hatóságot és a rendeletben meghatározott szervet illeti. Az elektronikus adatszolgáltatási díjon kívül egyéb fizetési kötelezettség a tulajdonilap-másolat szolgáltatással összefüggésben nem írható elő.
+(2) A tulajdoni lapról elektronikus dokumentumként szolgáltatott hiteles tulajdonilap-másolatért igazgatási szolgáltatási díjat kell fizetni (a továbbiakban: elektronikus adatszolgáltatási díj). Az elektronikus adatszolgáltatási díj az ingatlan-nyilvántartásért felelős miniszter e törvény felhatalmazása alapján kiadott rendeletében meghatározott arányban az ingatlanügyi hatóságot és a rendeletben meghatározott szervet illeti. Az elektronikus adatszolgáltatási díjon kívül egyéb fizetési kötelezettség a tulajdonilap-másolat szolgáltatással összefüggésben nem írható elő.
 
 28. § (1) A tulajdoni lapról kiállított papír alapú hiteles másolatért 6250 forint összegű díjat kell fizetni.
 
-(2) A tulajdoni lapról elektronikus dokumentumként szolgáltatott hiteles tulajdonilap-másolatért 3600 forint, a nem hiteles másolatért 1000 forint elektronikus adatszolgáltatási díjat kell fizetni.
+(2) A tulajdoni lapról elektronikus dokumentumként szolgáltatott hiteles tulajdonilap-másolatért 3000 forint elektronikus adatszolgáltatási díjat kell fizetni.
 
 (3)
 
@@ -89,7 +89,7 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 
 (3) A (2) bekezdésben meghatározott feltétel fennállásáról a szervezet az eljárás megindulásakor írásban köteles nyilatkozni. Az (1) bekezdés b) pontja alá tartozó szervezet esetén a képviseleti jogosultság igazolása tekintetében az ingatlan-nyilvántartásról szóló törvény vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
-31. § (1) Tárgyánál fogva díjmentes az elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolat lekérdezése, ha az
+31. § (1) Tárgyánál fogva díjmentes az elektronikus dokumentumként szolgáltatott hiteles tulajdonilap-másolat lekérdezése, ha az
 
 - a) hagyatéki eljárás lefolytatásához,
 - b) gyámügyi, szociális vagy kisajátítási eljáráshoz,
@@ -116,13 +116,13 @@ az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valami
 
 kéri.
 
-(2) Természetes személy számára évente két alkalommal díjmentes az elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolat lekérdezése.
+(2) Természetes személy számára évente két alkalommal díjmentes az elektronikus dokumentumként szolgáltatott hiteles tulajdonilap-másolat lekérdezése.
 
 (3) Az (1) bekezdés f) pontjának fa) alpontja nem vonatkozik arra az esetre, ha jogszabályban foglaltak szerint az ügyfél köteles az adatszolgáltatásért járó díjat megfizetni.
 
-(4) Az (1) bekezdés a)–c), valamint f)–k) pontjában meghatározott eljárásokhoz szükséges elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolat lekérdezését kezdeményezőknek – a mentességet megalapozó eljárás, az ügyszám, illetőleg a pályázati azonosító megjelölésével – a felhasználás célját hitelt érdemlően igazolni kell.
+(4) Az (1) bekezdés a)–c), valamint f)–k) pontjában meghatározott eljárásokhoz szükséges elektronikus dokumentumként szolgáltatott hiteles tulajdonilap-másolat lekérdezését kezdeményezőknek – a mentességet megalapozó eljárás, az ügyszám, illetőleg a pályázati azonosító megjelölésével – a felhasználás célját hitelt érdemlően igazolni kell.
 
-(5) Az elektronikus dokumentumként díjmentesen szolgáltatott nem hiteles és hiteles tulajdonilap-másolat, valamint az erről készített papír alapú másolat kizárólag a lekérdezés alapjául szolgáló ügyben használható fel, harmadik fél részére nem adható tovább.
+(5) Az elektronikus dokumentumként díjmentesen szolgáltatott hiteles tulajdonilap-másolat, valamint az erről készített papír alapú másolat kizárólag a lekérdezés alapjául szolgáló ügyben használható fel, harmadik fél részére nem adható tovább.
 
 (6) Amennyiben az ingatlanügyi hatóság ellenőrzése során megállapítja, hogy a díjmentesség igénybevételére jogszerűtlenül került sor, továbbá az (5) bekezdésben foglaltak megsértése esetén az igénybevevőt a díjmentesség hiányában fizetendő díjtétel kétszeresének megfizetésére határozattal kötelezi.
 
@@ -162,12 +162,12 @@ kéri.
 
 (9a)
 
-(10) Az ingatlan-nyilvántartási eljárásért fizetett díj a fővárosi, megyei kormányhivatalok saját bevételét képezi, amely az ingatlan-nyilvántartásért felelős miniszter által az adópolitikáért felelős miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben kiadott rendeletben meghatározott számlaszámra fizetendő meg. Az ingatlan-nyilvántartási eljárásért fizetendő díjból származó bevétel 25%-át a fővárosi, megyei kormányhivatal irányítására kijelölt miniszter a földügyi szakigazgatással kapcsolatos bevételi különbségek fővárosi, megyei kormányhivatalok közötti kiegyenlítésére használhatja fel.
+(10) Az ingatlan-nyilvántartási eljárásért fizetett díj a fővárosi, vármegyei kormányhivatalok saját bevételét képezi, amely az ingatlan-nyilvántartásért felelős miniszter által az adópolitikáért felelős miniszterrel és a fővárosi, vármegyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben kiadott rendeletben meghatározott számlaszámra fizetendő meg. Az ingatlan-nyilvántartási eljárásért fizetendő díjból származó bevétel 25%-át a fővárosi, vármegyei kormányhivatal irányítására kijelölt miniszter a földügyi szakigazgatással kapcsolatos bevételi különbségek fővárosi, vármegyei kormányhivatalok közötti kiegyenlítésére használhatja fel.
 
 32/B. § (1) Az ingatlan-nyilvántartási eljárás díja alól teljes személyes díjmentességben részesül:
 
 - a) a Magyar Állam,
-- b) a fővárosi és megyei kormányhivatal, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala,
+- b) a fővárosi és vármegyei kormányhivatal, valamint a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala,
 - c)
 - d)
 - e) az egyházi jogi személy,
@@ -247,6 +247,7 @@ irányuló eljárás.
 ingatlan-nyilvántartási feljegyzése iránti hatósági eljárás;
 
 - z) az Országos Erdőállomány Adattárban erdőként vagy fátlan állapotban tartott erdőként nyilvántartott terület erdő vagy fásított terület művelési ágának átvezetésére, ennek hiányában jogi jellegként történő feljegyzésére irányuló hatósági eljárás.
+- zs) az állami vagyonról szóló 2007. évi CVI. törvény 42/O. § (2) bekezdés b) pontja szerinti ingyenes átruházáson alapuló tulajdonosváltozás ingatlan-nyilvántartási bejegyzése.
 
 (1a) Tárgyánál fogva díjmentes a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 108/G. §-a szerinti, törölt haszonélvezeti jog visszajegyzésére, valamint a törölt haszonélvezeti jog visszajegyezhetőségének vizsgálatára irányuló eljárás megindítása tényének törlésére irányuló hatósági eljárás.
 
@@ -294,7 +295,7 @@ ingatlan-nyilvántartási feljegyzése iránti hatósági eljárás;
 - c) az a) és b) pontba nem tartozó más köztartozás, és
 - d) az a)–c) pont valamelyikében foglalt feltétel teljesülését, valamint az utólagos díjfizetésre irányuló igényt a megkeresés tartalmazza.
 
-(11a) A (11) bekezdés szerinti díj megfizetésére nem kerül sor, ha a fővárosi és megyei kormányhivatal vagy járási (fővárosi kerületi) hivatal, illetve e hivatalok döntései alapján foganatosított végrehajtási eljárás eredménytelenül zárul.
+(11a) A (11) bekezdés szerinti díj megfizetésére nem kerül sor, ha a fővárosi és vármegyei kormányhivatal vagy járási (fővárosi kerületi) hivatal, illetve e hivatalok döntései alapján foganatosított végrehajtási eljárás eredménytelenül zárul.
 
 (12) A felszámolás tényének az ingatlan-nyilvántartásba történő feljegyzése esetén az eljárásért fizetendő díjat utólagosan fizeti meg a felszámolási eljárás alatt álló jogi személy. A díjfizetési kötelezettség akkor válik esedékessé, ha a felszámolási eljárás során az ingatlant érintő tulajdonosváltozás bejegyzése érdekében nyújtanak be okiratot vagy megkeresést, ilyen okirat vagy megkeresés hiányában pedig a felszámolási eljárást befejező bírósági végzés jogerőre emelkedésének napján.
 
@@ -326,11 +327,11 @@ ingatlan-nyilvántartási feljegyzése iránti hatósági eljárás;
 
 (6)
 
-(7) Felhatalmazást kap az ingatlan-nyilvántartásért felelős miniszter, hogy a díj és az elektronikus adatszolgáltatási díj megfizetésére, kezelésére, nyilvántartására és felhasználására, valamint a fővárosi és megyei kormányhivatalon belüli elszámolásra vonatkozó részletes szabályokat a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben, rendeletben állapítsa meg.
+(7) Felhatalmazást kap az ingatlan-nyilvántartásért felelős miniszter, hogy a díj és az elektronikus adatszolgáltatási díj megfizetésére, kezelésére, nyilvántartására és felhasználására, valamint a fővárosi és vármegyei kormányhivatalon belüli elszámolásra vonatkozó részletes szabályokat a fővárosi, vármegyei kormányhivatal irányítására kijelölt miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben, rendeletben állapítsa meg.
 
 33/A. § (1) Az államháztartás alrendszereiből, európai uniós forrásokból, illetve nemzetközi megállapodás alapján finanszírozott egyéb programokból származó, egyedi döntés alapján nyújtott, pályázati vagy pályázati rendszeren kívüli támogatások odaítélésére irányuló eljárásban mellékletként nem lehet tulajdonilap-másolat csatolását kérni.
 
-(2) Az (1) bekezdésben meghatározott, közigazgatási hatósági eljárásnak nem minősülő eljárásban elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolatot kell felhasználni, amelynek költségét – ha jogszabály eltérően nem rendelkezik – a pályázónak kell viselnie.
+(2) Az (1) bekezdésben meghatározott, közigazgatási hatósági eljárásnak nem minősülő eljárásban elektronikus dokumentumként szolgáltatott hiteles tulajdonilap-másolatot kell felhasználni, amelynek költségét – ha jogszabály eltérően nem rendelkezik – a pályázónak kell viselnie.
 
 33/B. § E törvénynek az egyes törvényeknek az épített és a természeti környezet védelmével, valamint a kulturális örökségvédelemmel összefüggő módosításáról szóló 2019. évi LXIV. törvénnyel (a továbbiakban: Módtv.) megállapított 32/C. § (1) bekezdés y) és z) pontját a Módtv. hatálybalépésekor első fokon még el nem bírált ügyekben és a megismételt eljárásokban is alkalmazni kell.
 

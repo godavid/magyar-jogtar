@@ -209,7 +209,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 25. § (1) A küldöttgyűlést az intézőbizottság elnöke hívja össze. Ha az intézőbizottság elnöke ezt elmulasztja, az összehívásra a felügyelőbizottság elnöke jogosult. Az illetékes hatóság és a társulatok országos érdekképviseleti szervezete kezdeményezheti, hogy az illetékes cégbíróság intézkedjen a küldöttgyűlés összehívása érdekében. Össze kell hívni a küldöttgyűlést, ha a társulat tagjainak több mint 10%-a, vagy a küldöttek több mint fele a napirend megjelölésével írásban kéri.
 
-(2) A napirendet tartalmazó írásbeli meghívót a küldöttgyűlés tervezett időpontja előtt legalább 8 nappal meg kell küldeni a küldöttgyűlés tagjainak, a területileg illetékes fővárosi és megyei kormányhivatalnak, a vízügyi igazgatási szervezetnek, a társulatok érdekképviseleti szervezetének, valamint a társulat azon tagjainak, akik a küldöttgyűlést kezdeményezték, továbbá a meghívót a területileg illetékes települési önkormányzat(ok)nál hirdetmény formájában is közzé kell tenni.
+(2) A napirendet tartalmazó írásbeli meghívót a küldöttgyűlés tervezett időpontja előtt legalább 8 nappal meg kell küldeni a küldöttgyűlés tagjainak, a területileg illetékes fővárosi és vármegyei kormányhivatalnak, a vízügyi igazgatási szervezetnek, a társulatok érdekképviseleti szervezetének, valamint a társulat azon tagjainak, akik a küldöttgyűlést kezdeményezték, továbbá a meghívót a területileg illetékes települési önkormányzat(ok)nál hirdetmény formájában is közzé kell tenni.
 
 26. § (1) A küldöttgyűlés akkor határozatképes, ha azon a küldöttgyűlés tagjainak több mint fele személyesen megjelenik, és a megjelent küldöttek a társulat működési területének több mint felét képviselik.
 

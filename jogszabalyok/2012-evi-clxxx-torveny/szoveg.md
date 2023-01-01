@@ -1019,7 +1019,7 @@ köt megállapodást a tagállami hatósággal.
 
 #### 31. Leplezett eszközök alkalmazása
 
-64/B. § (1) Ellenőrzött szállítás Magyarország területén keresztül történő végrehajtása iránt kibocsátott európai nyomozási határozat végrehajtására a megyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel.
+64/B. § (1) Ellenőrzött szállítás Magyarország területén keresztül történő végrehajtása iránt kibocsátott európai nyomozási határozat végrehajtására a vármegyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel.
 
 (2) Az ellenőrzött szállítás végrehajtására a tagállami hatósággal kötött eseti megállapodás alapján kerülhet sor. Az eseti megállapodást a rendőrség vagy a Nemzeti Adó- és Vámhivatal ellenőrzött szállítás végrehajtására jogszabályban kijelölt szerve készíti elő.
 
@@ -1086,7 +1086,7 @@ köt megállapodást a tagállami hatósággal.
 
 65/A. § (1) Az elektronikus hírközlési szolgáltatás útján, illetve információs rendszeren folytatott kommunikációnak az érintett személy tudta nélkül, leplezett módon történő megismerése és rögzítése iránt kibocsátott európai nyomozási határozatot az ügyészség a Be. leplezett eszközök alkalmazására vonatkozó szabályai szerint hajtja végre.
 
-(2) Az európai nyomozási határozat végrehajtására a megyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel. Ha az európai nyomozási határozat végrehajtására illetékességgel rendelkező ügyészség nem állapítható meg, a végrehajtásra a Fővárosi Főügyészség rendelkezik illetékességgel.
+(2) Az európai nyomozási határozat végrehajtására a vármegyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel. Ha az európai nyomozási határozat végrehajtására illetékességgel rendelkező ügyészség nem állapítható meg, a végrehajtásra a Fővárosi Főügyészség rendelkezik illetékességgel.
 
 (3) Ha az európai nyomozási határozatban megjelölt eljárási cselekmény bírói engedélyhez kötött leplezett eszközök alkalmazásával végezhető el, az ügyészség indítványáról a Be. szabályai szerint a nyomozási bíró határoz. Ha a nyomozási bíró a leplezett eszközök alkalmazásának elrendelésére irányuló indítványt elutasítja, az ügyészség a tagállami hatóságot tájékoztatja, hogy az európai nyomozási határozatban megjelölt eljárási cselekmény nem végezhető el, és az európai nyomozási határozat más módon történő végrehajtása érdekében egyeztetést folytathat a tagállami hatósággal.
 
@@ -1108,7 +1108,7 @@ köt megállapodást a tagállami hatósággal.
 
 (9) Ha a tagállami hatóság fizetési műveletek megfigyelése céljából bocsátott ki európai nyomozási határozatot, az ügyészség az európai nyomozási határozatot a (2)–(7) bekezdés megfelelő alkalmazásával hajtja végre azzal, hogy
 
-- a) a végrehajtásra a pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási tevékenységet végző szervezet székhelye szerinti megyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel és illetékességgel,
+- a) a végrehajtásra a pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási tevékenységet végző szervezet székhelye szerinti vármegyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel és illetékességgel,
 - b) a Be. 217. § (1) bekezdésében meghatározottak szerint a fizetési műveletek teljesítésének felfüggesztése csak a tagállami hatóság kérésére írható elő, és
 - c) a fizetési műveletek teljesítésének felfüggesztése esetén a tagállami hatóságot a Be. 217. § (2) bekezdésében foglaltakról tájékoztatni kell.
 
@@ -1413,7 +1413,7 @@ terjesztette elő, az eljárási jogsegély iránti megkeresést a számlát vez
 
 #### 36/C. Ellenőrzött szállítás
 
-69. § (1) Ellenőrzött szállítás Magyarország területén keresztül történő végrehajtása iránt előterjesztett eljárási jogsegély iránti megkeresés teljesítésére a megyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel.
+69. § (1) Ellenőrzött szállítás Magyarország területén keresztül történő végrehajtása iránt előterjesztett eljárási jogsegély iránti megkeresés teljesítésére a vármegyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel.
 
 (2) Az ellenőrzött szállítás végrehajtására a tagállammal kötött eseti megállapodás alapján kerülhet sor. Az eseti megállapodást a rendőrség vagy a Nemzeti Adó- és Vámhivatal ellenőrzött szállítás végrehajtására jogszabályban kijelölt szerve készíti elő.
 
@@ -1478,7 +1478,7 @@ terjesztette elő, az eljárási jogsegély iránti megkeresést a számlát vez
 
 69/E. § (1) Az elektronikus hírközlési szolgáltatás útján, illetve információs rendszeren folytatott kommunikációnak az érintett személy tudta nélkül, leplezett módon történő megismerése és rögzítése végett előterjesztett eljárási jogsegély iránti megkeresést az ügyészség a Be. leplezett eszközök alkalmazására vonatkozó szabályai szerint hajtja végre.
 
-(2) A megkeresés teljesítésére a megyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel. Ha a megkeresés teljesítésére illetékességgel rendelkező ügyészség nem állapítható meg, a teljesítésre a Fővárosi Főügyészség rendelkezik illetékességgel.
+(2) A megkeresés teljesítésére a vármegyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel. Ha a megkeresés teljesítésére illetékességgel rendelkező ügyészség nem állapítható meg, a teljesítésre a Fővárosi Főügyészség rendelkezik illetékességgel.
 
 (3) Az eljárási jogsegély iránti megkeresés akkor teljesíthető, ha a tagállami hatóság a saját államának joga szerint engedéllyel rendelkezik.
 
@@ -1495,7 +1495,7 @@ terjesztette elő, az eljárási jogsegély iránti megkeresést a számlát vez
 
 (8) Ha a tagállam fizetési műveletek megfigyelése céljából bocsátott ki eljárási jogsegély iránti megkeresést, az ügyészség a megkeresést az (1)–(6) bekezdés megfelelő alkalmazásával teljesíti azzal, hogy
 
-- a) a teljesítésre a pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási tevékenységet végző szervezet székhelye szerinti megyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel és illetékességgel,
+- a) a teljesítésre a pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási tevékenységet végző szervezet székhelye szerinti vármegyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel és illetékességgel,
 - b) a Be. 217. § (1) bekezdésében meghatározottak szerint a fizetési műveletek teljesítésének felfüggesztése csak a tagállam kérésére írható elő, és
 - c) a fizetési műveletek teljesítésének felfüggesztése esetén a tagállamot a Be. 217. § (2) bekezdésében foglaltakról tájékoztatni kell.
 
@@ -2284,13 +2284,13 @@ kibocsátott határozatot (a továbbiakban e fejezet alkalmazásában: biztosít
 
 (3) Ha a tagállami ítélet megfeleltetésére sor került, a továbbiakban a tagállami ítélet a megfeleltetés eredménye szerint vehető figyelembe.
 
-111/B. § (1) A megfeleltetett tagállami ítéletben kiszabott feltételes szabadságra bocsátás megszüntetésére, felfüggesztett szabadságvesztés végrehajtásának elrendelésére, továbbá tagállami ítéletben alkalmazott javító intézeti nevelésből történő ideiglenes elbocsátás vagy próbára bocsátás megszüntetésére csak a büntetetés vagy intézkedés végrehajtásának átvétele esetén kerülhet sor.
+111/B. § (1) A megfeleltetett tagállami ítéletben kiszabott feltételes szabadságra bocsátás megszüntetésére, felfüggesztett szabadságvesztés végrehajtásának elrendelésére, továbbá tagállami ítéletben alkalmazott javítóintézeti nevelésből történő ideiglenes elbocsátás vagy próbára bocsátás megszüntetésére csak a büntetés vagy intézkedés végrehajtásának átvétele esetén kerülhet sor.
 
 (2) Ha az újabb büntetőeljárásban egy végrehajtásában átvett próbára bocsátás megszüntetése indokolt, a bíróság úgy szab ki halmazati büntetést, hogy az alapügyek egyesítéséről és a próbára bocsátást kimondó rendelkezés hatályon kívül helyezéséről nem rendelkezik.
 
-(3) Ha a bíróság vagy az ügyészség megállapítja, hogy a terhelt az újabb bűncselekményt a megfeleltetett tagállami ítéletben kiszabott szabadságvesztés büntetésből történt feltételes szabadságra bocsátás vagy felfüggesztett szabadságvesztés próbaideje alatt, továbbá javító intézeti nevelésből történő ideiglenes elbocsátás vagy próbára bocsátás hatálya alatt, vagy más hasonló próbaidőt megállapító büntetés vagy intézkedés hatálya alatt követte el és a büntetés vagy intézkedés végrehajtásának átvételére nem került sor, az elítélésről tájékoztatja a korábbi ítéletet hozó tagállami hatóságot.
+(3) Ha a bíróság vagy az ügyészség megállapítja, hogy a terhelt az újabb bűncselekményt a megfeleltetett tagállami ítéletben kiszabott szabadságvesztés büntetésből történt feltételes szabadságra bocsátás vagy felfüggesztett szabadságvesztés próbaideje alatt, továbbá javítóintézeti nevelésből történő ideiglenes elbocsátás vagy próbára bocsátás hatálya alatt, vagy más hasonló próbaidőt megállapító büntetés vagy intézkedés hatálya alatt követte el és a büntetés vagy intézkedés végrehajtásának átvételére nem került sor, az elítélésről tájékoztatja a korábbi ítéletet hozó tagállami hatóságot.
 
-111/C. § (1) Ha feltehető, hogy a tagállami ítélet alapján a magyar bírósági határozatban kiszabott olyan szabadságvesztés büntetésből történt feltételes szabadságra bocsátás megszüntetése, felfüggesztett szabadságvesztés végrehajtásának elrendelése, továbbá javító intézeti nevelésből történő ideiglenes elbocsátás vagy próbára bocsátás megszüntetése indokolt, amely végrehajtásának átadására nem került sor,
+111/C. § (1) Ha feltehető, hogy a tagállami ítélet alapján a magyar bírósági határozatban kiszabott olyan szabadságvesztés büntetésből történt feltételes szabadságra bocsátás megszüntetése, felfüggesztett szabadságvesztés végrehajtásának elrendelése, továbbá javítóintézeti nevelésből történő ideiglenes elbocsátás vagy próbára bocsátás megszüntetése indokolt, amely végrehajtásának átadására nem került sor,
 
 - a) a bíróság,
 - b) az ügyészség,
@@ -3227,7 +3227,7 @@ a bíróság az eset összes körülményének mérlegelésével dönt arról, h
 - c) a jogsegély alapjául szolgáló bűncselekmény jogi minősítéséről és a történeti tényállásról, és
 - d) arról, hogy az átmenő átszállítás alapját képező jogsegély teljesítését a végrehajtó állam engedélyezte.
 
-(4) Az (1) bekezdésben megjelölt tájékoztatás
+(4) Az (3) bekezdésben megjelölt tájékoztatás
 
 - a) az európai elfogatóparancs,
 - b) az európai nyomozási határozat, vagy
@@ -3271,6 +3271,10 @@ megküldésével is teljesíthető.
 (8) Az átmenő átszállítással összefüggésben keletkezett költséget a megkeresett tagállam kérelmére Magyarország megtéríti, ha a megkeresett tagállam és Magyarország között ezzel ellentétes viszonossági elv nem érvényesül. Az átmenő átszállítással összefüggésben Magyarország által megtérített költségről az átmenő átszállítás alapját képező jogsegély szabályainak megfelelően kell rendelkezni.
 
 146/D. § A miniszter az átmenő átszállításra irányuló kérelmet a NEBEK tájékoztatása szerinti tagállamba vagy tagállamokba a 146/A. § (3) bekezdésében meghatározott adatokról történő tájékoztatással, európai elfogatóparancs esetén az európai elfogatóparancsról történő tájékoztatással, jogerős szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtásának átvétele érdekében a tanúsítvány megküldésével terjeszti elő.
+
+146/E. § (1) Az e fejezetben foglalt rendelkezéseket kell megfelelően alkalmazni egy harmadik állam által Magyarországnak vagy egy másik tagállamnak kiadott személy Magyarország vagy egy másik tagállam területén történő átmenő átszállítására irányuló kérelem vonatkozásában.
+
+(2) A 146/A. § (3) bekezdésében meghatározott adatokról történő tájékoztatás az (1) bekezdésben meghatározott esetben a kiadatási kérelem megküldésével is teljesíthető.
 
 ### XI. Fejezet — AZ EURÓPAI VÉDELMI HATÁROZAT VÉGREHAJTÁSÁRA IRÁNYULÓ JOGSEGÉLY
 
@@ -3617,6 +3621,8 @@ rendelkezik hatáskörrel és illetékességgel.
 - 23. a büntetőeljárás során és az európai elfogatóparancshoz kapcsolódó eljárásokban ügyvédi segítség igénybevételéhez való jogról, valamint valamely harmadik félnek a szabadságelvonáskor történő tájékoztatásához való jogról és a szabadságelvonás ideje alatt harmadik felekkel és a konzuli hatóságokkal való kommunikációhoz való jogról szóló 2013. október 22-i 2013/48/EU európai parlamenti és tanácsi irányelvnek,
 - 24. a büntetőügyekben kibocsátott európai nyomozási határozatról szóló 2014. április 3-i 2014/41/EU európai parlamenti és tanácsi irányelvnek,
 - 25. a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló, 2017. március 15-i (EU) 2017/541 európai parlamenti és tanácsi irányelvnek
+- 26. a 2002/465/IB tanácsi kerethatározatnak a személyes adatok védelmére vonatkozó uniós szabályokhoz való hozzáigazítása tekintetében történő módosításáról szóló, 2022. február 16-i (EU) 2022/211 európai parlamenti és tanácsi irányelvnek;
+- 27. a 2014/41/EU irányelvnek a személyes adatok védelmére vonatkozó uniós szabályokhoz való hozzáigazítása tekintetében történő módosításáról szóló, 2022. február 16-i (EU) 2022/228 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

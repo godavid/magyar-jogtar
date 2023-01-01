@@ -32,7 +32,7 @@ párt: a pártok működéséről és gazdálkodásáról szóló törvény alap
 
 (2) Az egyéni választókerületeket úgy kell kialakítani, hogy
 
-- a) azok ne lépjék át a megyehatárokat, valamint a főváros határát,
+- a) azok ne lépjék át a vármegyehatárokat, valamint a főváros határát,
 - b) azok összefüggő területet alkossanak,
 - c) a választásra jogosultak száma megközelítően azonos legyen.
 
@@ -40,7 +40,7 @@ párt: a pártok működéséről és gazdálkodásáról szóló törvény alap
 
 (4) Az egyéni választókerület választásra jogosultjainak száma az egyéni választókerületek választásra jogosultjainak országos számtani átlagától tizenöt százaléknál nagyobb mértékben – a földrajzi, nemzetiségi, történelmi, vallási és egyéb helyi sajátosságokat, valamint a népességmozgást is figyelembe véve – kizárólag a (2) bekezdés a) és b) pontjában foglaltak érvényesülése érdekében térhet el.
 
-(5) A megyékben és a fővárosban az egyéni választókerületek számát az 1. számú melléklet, sorszámát, székhelyét és területi beosztását a 2. számú melléklet tartalmazza.
+(5) A vármegyékben és a fővárosban az egyéni választókerületek számát az 1. számú melléklet, sorszámát, székhelyét és területi beosztását a 2. számú melléklet tartalmazza.
 
 (6) Ha a (4) bekezdésben foglalt eltérés meghaladja a húsz százalékot, az Országgyűlés a 2. számú mellékletet módosítja. Az országgyűlési képviselők általános választását megelőző év első napja és az országgyűlési képviselők általános választásának napja közötti időben – az Országgyűlés feloszlása vagy feloszlatása miatti választás kivételével – nem kerülhet sor a 2. számú melléklet módosítására.
 
@@ -48,7 +48,7 @@ párt: a pártok működéséről és gazdálkodásáról szóló törvény alap
 
 (8) A (4) és (6) bekezdésben foglalt eltérés mértékét az országgyűlési képviselők megelőző általános választásának napján választásra jogosultak számához viszonyítva kell megállapítani.
 
-(9) Amikor az Országgyűlés a megyehatárok vagy a főváros határának megváltoztatásáról dönt, egyidejűleg gondoskodik az egyéni választókerületek határainak megváltoztatásáról.
+(9) Amikor az Országgyűlés a vármegyehatárok vagy a főváros határának megváltoztatásáról dönt, egyidejűleg gondoskodik az egyéni választókerületek határainak megváltoztatásáról.
 
 #### 5. Egyéni választókerületi jelölt állítása
 
@@ -67,7 +67,7 @@ párt: a pártok működéséről és gazdálkodásáról szóló törvény alap
 
 7. § Országos lista pártlistaként vagy nemzetiségi listaként állítható.
 
-8. § (1) Pártlistát az a párt állíthat, amely – legalább tizennégy megyében és a fővárosban – legalább hetvenegy egyéni választókerületben önállóan jelöltet állított.
+8. § (1) Pártlistát az a párt állíthat, amely – legalább tizennégy vármegyében és a fővárosban – legalább hetvenegy egyéni választókerületben önállóan jelöltet állított.
 
 (2) Két vagy több párt közös egyéni választókerületi jelöltek alapján – ugyanazon pártok részvételével – közös pártlistát állíthat.
 
@@ -195,7 +195,7 @@ párt: a pártok működéséről és gazdálkodásáról szóló törvény alap
 
 ### 1. számú melléklet a 2011. évi CCIII. törvényhez
 
-#### Az egyéni választókerületek száma a megyékben és a fővárosban
+#### Az egyéni választókerületek száma a vármegyékben és a fővárosban
 
 |  |  | Egyéni választókerületek száma |
 | --- | --- | --- |
@@ -437,7 +437,7 @@ Területe:
 
 2. A XXII. kerület teljes területe, amelynek határa: A Duna középvonalától a Duna utcán halad a MÁV vasútvonalig, a MÁV vasútvonal mentén a Méhész utcáig, a Méhész utcán a kelenvölgyi Ringló útig, a Ringló úton a Horogszegi határsorig, a Horogszegi határsoron a Honfoglalás útig, a Honfoglalás úttól a Vöröskúti határsoron halad a Kőérberki útig, a Kőérberki úttól a Háros úton a Kamaraerdei útig, a Kamaraerdei út mentén az ingatlanok határán halad a Balatoni úttól a Tétényi fennsík területén, a 239904/2 és 239906 hrsz.-ok határán éri el a Kamaraerdei utat, a Kamaraerdei úttól a 239912 hrsz. határán éri el Budaörs–Budapest és egyben Nagytétény határát, innen a fővárosi és nagytétényi határvonalon halad tovább a Duna főágának középvonaláig, és ezen a kiindulási pontig.
 
-Baranya megye
+Baranya vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -1075,7 +1075,7 @@ Területe:
 
 174. Zók
 
-Bács-Kiskun megye
+Bács-Kiskun vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -1365,7 +1365,7 @@ Területe:
 
 25. Vaskút
 
-Békés megye
+Békés vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -1549,7 +1549,7 @@ Területe:
 
 27. Végegyháza
 
-Borsod-Abaúj-Zemplén megye
+Borsod-Abaúj-Zemplén vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -2325,7 +2325,7 @@ Területe:
 
 54. Vatta
 
-Csongrád-Csanád megye
+Csongrád-Csanád vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -2481,7 +2481,7 @@ Területe:
 
 19. Székkutas
 
-Fejér megye
+Fejér vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -2741,7 +2741,7 @@ Területe:
 
 35. Vajta
 
-Győr-Moson-Sopron megye
+Győr-Moson-Sopron vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -3151,7 +3151,7 @@ Területe:
 
 39. Várbalog
 
-Hajdú-Bihar megye
+Hajdú-Bihar vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -3369,7 +3369,7 @@ Területe:
 
 10. Újtikos
 
-Heves megye
+Heves vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -3637,7 +3637,7 @@ Területe:
 
 38. Zaránk
 
-Jász-Nagykun-Szolnok megye
+Jász-Nagykun-Szolnok vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -3827,7 +3827,7 @@ Területe:
 
 23. Törökszentmiklós
 
-Komárom-Esztergom megye
+Komárom-Esztergom vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -4005,7 +4005,7 @@ Területe:
 
 41. Vértessomló
 
-Nógrád megye
+Nógrád vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -4285,7 +4285,7 @@ Területe:
 
 84. Varsány
 
-Pest megye
+Pest vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -4757,7 +4757,7 @@ Területe:
 
 10. Újszilvás
 
-Somogy megye
+Somogy vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -5283,7 +5283,7 @@ Területe:
 
 70. Zimány
 
-Szabolcs-Szatmár-Bereg megye
+Szabolcs-Szatmár-Bereg vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -5793,7 +5793,7 @@ Területe:
 
 33. Vállaj
 
-Tolna megye
+Tolna vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -6037,7 +6037,7 @@ Területe:
 
 34. Udvari
 
-Vas megye
+Vas vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -6495,7 +6495,7 @@ Területe:
 
 127. Zsennye
 
-Veszprém megye
+Veszprém vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -6963,7 +6963,7 @@ Területe:
 
 87. Zirc
 
-Zala megye
+Zala vármegye
 
 01. számú országgyűlési egyéni választókerület
 

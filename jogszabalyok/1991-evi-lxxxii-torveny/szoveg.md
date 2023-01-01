@@ -247,15 +247,7 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 
 ### Az adó mértéke
 
-17/E. § Az adó havi mértéke személygépkocsinként, a személygépkocsi kilowattban kifejezett teljesítménye és környezetvédelmi osztály-jelzése alapján a következő:
-
-| gépjármű hajtómotorjának teljesítménye (kW) | Környezetvédelmi osztály-jelzés |  |  |
-| --- | --- | --- | --- |
-| „0”–„4” osztályjelzések esetén | „6”–„10” osztályjelzések esetén | „5”; „14–15” osztályjelzések esetén |
-| 0–50 | 16 500 Ft | 8 800 Ft | 7 700 Ft |
-| 51–90 | 22 000 Ft | 11 000 Ft | 8 800 Ft |
-| 91–120 | 33 000 Ft | 22 000 Ft | 11 000 Ft |
-| 120 felett | 44 000 Ft | 33 000 Ft | 22 000 Ft |
+17/E. § Az adó havi mértékét személygépkocsinként, a személygépkocsi kilowattban kifejezett teljesítménye és környezetvédelmi osztály-jelzése alapján az 1. melléklet tartalmazza.
 
 ### A kétszeres adóztatás kizárása
 
@@ -354,3 +346,15 @@ Az Országgyűlés a motorizációval járó közterhek arányosabb elosztása, 
 ### AZ EURÓPAI UNIÓ JOGÁNAK VALÓ MEGFELELÉS
 
 21. §
+
+### 1. melléklet az 1991. évi LXXXII. törvényhez
+
+#### A cégautóadó havi mértékei
+
+|  | A | B | C | D |
+| --- | --- | --- | --- | --- |
+| 1 | Teljesítmény (kW) | „0”–„4” környezetvédelmi osztályjelzések esetén | „6”–„10” környezetvédelmi osztályjelzések esetén | „5”; „14–15” környezetvédelmi osztályjelzések esetén |
+| 2 | 0–50 | 30 500 forint | 16 000 forint | 14 000 forint |
+| 3 | 51–90 | 41 000 forint | 20 000 forint | 16 000 forint |
+| 4 | 91–120 | 61 000 forint | 41 000 forint | 20 000 forint |
+| 5 | 120 felett | 81 000 forint | 61 000 forint | 41 000 forint |

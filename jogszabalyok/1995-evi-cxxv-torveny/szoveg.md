@@ -121,8 +121,8 @@ esetén.
 - c) megszerzi, elemzi és továbbítja a kormányzati döntésekhez szükséges, a külföldi eredetű, a biztonságpolitika katonai elemét érintő katonapolitikai, hadiipari és katonai információkat;
 - d) működési területén felderíti és elhárítja Magyarország törvényes rendjének jogellenes eszközökkel történő megváltoztatására vagy megzavarására irányuló leplezett törekvéseket;
 - e) feladatkörét érintően információkat gyűjt a válságkörzetekről, illetve a Magyar Honvédség műveleti területen lévő alakulatait és azok állományát veszélyeztető törekvésekről és tevékenységekről, valamint részt vesz a Magyar Honvédség műveleti területen alkalmazott erőinek nemzetbiztonsági védelmében, felkészítésében és támogatásában;
-- f) biztosítja a honvédelemért felelős miniszter által vezetett minisztérium és a Magyar Honvédség Parancsnoksága védelmi, hadászati-hadműveleti tervező munkájához szükséges információkat, valamint működteti Magyarország katonai egységes felderítő rendszerét;
-- g) információkat gyűjt a honvédelmi érdeket veszélyeztető kibertevékenységekről és -szervezetekről, jogszabály keretei között ellátja a honvédelmi ágazat elektronikus információbiztonsági feladatait, biztosítja a honvédelemért felelős miniszter által vezetett minisztérium, valamint a Magyar Honvédség Parancsnoksága információvédelmi tervező munkájához szükséges információkat, továbbá kibertér műveleti képességeivel ellátja a honvédelmi érdekek nemzetbiztonsági jellegű védelmét és a Magyar Honvédség kibervédelmének és műveleteinek támogatását;
+- f) biztosítja a honvédelemért felelős miniszter által vezetett minisztérium és a Honvéd Vezérkar védelmi, hadászati-hadműveleti tervező munkájához szükséges információkat, valamint működteti Magyarország katonai egységes felderítő rendszerét;
+- g) információkat gyűjt a honvédelmi érdeket veszélyeztető kibertevékenységekről és -szervezetekről, észleli a kibertérből érkező fenyegetéseket és támadásokat, jogszabály keretei között ellátja a honvédelmi ágazat elektronikus információbiztonsági feladatait, biztosítja a honvédelemért felelős miniszter által vezetett minisztérium, valamint a Honvéd Vezérkar tervező munkájához szükséges, kibertérrel összefüggő nemzetbiztonsági jellegű információkat, továbbá kibertér műveleti képességeivel ellátja a honvédelmi érdekek nemzetbiztonsági jellegű védelmét és együttműködik a Magyar Honvédség kiberműveleti erőivel;
 - h) információkat gyűjt a nemzetbiztonságot veszélyeztető terrorszervezetekről, felderíti és elhárítja a honvédelmi szervezeteknél a külföldi hatalmak, személyek vagy szervezetek terrorcselekmény elkövetésére irányuló törekvéseit;
 - i) információkat gyűjt a nemzetbiztonságot veszélyeztető, jogellenes fegyverkereskedelemről, a honvédelemért felelős miniszter által vezetett minisztériumot és a Magyar Honvédség biztonságát veszélyeztető szervezett bűnözésről, ezen belül kiemelten a jogellenes kábítószer- és fegyverkereskedelemről;
 - j) közreműködik a nemzetközileg ellenőrzött termékek és technológiák, valamint a haditechnikai eszközök és szolgáltatások jogellenes forgalmának felderítésében, megelőzésében, megakadályozásában és legális forgalmának ellenőrzésében;
@@ -149,7 +149,7 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 - s) a hatáskörébe tartozó állománya tekintetében ellátja a belső biztonsági és bűnmegelőzési célú ellenőrzési feladatokat;
 - t) ellátja az a)–r) pont szerinti feladatokat a honvédelemért felelős miniszter által rendeletben meghatározott, honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságoknál.
 
-7. § (1) A Katonai Nemzetbiztonsági Szolgálat a 6. § a)–g), i)–l), n)–s) pontban meghatározott feladatai ellátása során a működési területén felderített, a nemzetbiztonság katonai elemeit érintő információkat elemzi és értékeli, azokról folyamatosan tájékoztatja a honvédelemért felelős miniszter által vezetett minisztérium feladat- és hatáskörrel rendelkező vezetőit, a Magyar Honvédség feladat- és hatáskörrel rendelkező parancsnokait, vezetőit, a Magyar Honvédség parancsnokát, a honvédelemért felelős minisztert, valamint a Magyar Honvédség főparancsnokát.
+7. § (1) A Katonai Nemzetbiztonsági Szolgálat a 6. § a)–g), i)–l), n)–s) pontban meghatározott feladatai ellátása során a működési területén felderített, a nemzetbiztonság katonai elemeit érintő információkat elemzi és értékeli, azokról folyamatosan tájékoztatja a honvédelemért felelős miniszter által vezetett minisztérium feladat- és hatáskörrel rendelkező vezetőit, a Magyar Honvédség feladat- és hatáskörrel rendelkező parancsnokait, vezetőit, a Honvéd Vezérkar főnökét, a honvédelemért felelős minisztert, valamint a Magyar Honvédség főparancsnokát.
 
 (2) A Katonai Nemzetbiztonsági Szolgálat a törvényben meghatározott feladatai ellátása során megszerzett, a Nemzeti Információs Központ 8/A. §-ban meghatározott feladat- és hatáskör gyakorlásához szükséges információkat haladéktalanul biztosítja a Nemzeti Információs Központnak.
 
@@ -379,7 +379,7 @@ bűncselekményekre vonatkozóan, felderíti továbbá mindazon bűncselekménye
 
 13. § (1) A főigazgatók e törvény, a jogszabályok és a közjogi szervezetszabályozó eszközök által meghatározott keretek között önálló felelősséggel vezetik a nemzetbiztonsági szolgálatokat.
 
-(2) A Magyar Honvédség parancsnoka a honvédelmi törvényben meghatározott feladatai ellátásához szükséges információ átadását – alá- és fölérendeltség hiányában is – közvetlenül igényelheti a Katonai Nemzetbiztonsági Szolgálat főigazgatójától, aki azt haladéktalanul köteles teljesíteni. A szakmai kapcsolattartás és az információszolgáltatás rendjét a honvédelemért felelős miniszter állapítja meg.
+(2) A Honvéd Vezérkar főnöke a honvédelmi törvényben meghatározott feladatai ellátásához szükséges információ átadását – alá- és fölérendeltség hiányában is – közvetlenül igényelheti a Katonai Nemzetbiztonsági Szolgálat főigazgatójától, aki azt haladéktalanul köteles teljesíteni. A szakmai kapcsolattartás és az információszolgáltatás rendjét a honvédelemért felelős miniszter állapítja meg.
 
 (3) A főigazgató
 
@@ -1541,10 +1541,10 @@ iránt intézkedik.
   - ia) a külképviselet-vezető;
   - ib) a miniszter, a miniszterelnök politikai igazgatója, az államtitkár, a kormánybiztos, a miniszterelnöki biztos és a miniszterelnöki megbízott;
   - ic) a közigazgatási államtitkár, a helyettes államtitkár, a miniszteri biztos;
-  - id) az autonóm államigazgatási szerv, az önálló szabályozó szerv, a központi hivatal, a kormányzati főhivatal, valamint a fővárosi és megyei kormányhivatal vezetője és vezetőhelyettese;
+  - id) az autonóm államigazgatási szerv, az önálló szabályozó szerv, a központi hivatal, a kormányzati főhivatal, valamint a fővárosi és vármegyei kormányhivatal vezetője és vezetőhelyettese;
   - ie) az Országgyűlés Hivatalának főigazgatója, az Országgyűlés Hivatala Szervezeti és Működési Szabályzatában meghatározott hivatali szerveinek, illetve azok önálló szervezeti egységeinek vezetői és helyetteseik;
   - if) a Köztársasági Elnöki Hivatal vezetője, valamint a Köztársasági Elnöki Hivatal önálló szervezeti egységének a vezetője;
-  - ig) a Magyar Honvédség parancsnoka és helyettesei;
+  - ig) a Honvéd Vezérkar főnöke és helyettese;
   - ih) a rendvédelmi szerv országos parancsnoka és helyettese, a Katonai Nemzetbiztonsági Szolgálat főigazgatója és főigazgató-helyettese, a rendőrfőkapitány, a rendőrkapitány és a határrendészeti kirendeltség vezetője;
   - ii) a tábornok és a tábornoki rendfokozattal rendszeresített beosztásba kinevezett;
   - ij) az állami vagy többségi állami tulajdonban lévő gazdálkodó szervezet vezető tisztségviselője, vezető állású munkavállalója, felügyelő bizottságának tagja;
@@ -1727,7 +1727,7 @@ A védelem alá eső tisztségek:
 - 13. a Magyar Nemzeti Bank elnöke és alelnökei,
 - 14. a Gazdasági Versenyhivatal elnöke és elnökhelyettesei
 - 15. a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese
-- 16. a Magyar Honvédség parancsnoka,
+- 16. a Honvéd Vezérkar főnöke,
 - 17. a nemzetbiztonsági szolgálatok felügyeletével, illetve tevékenységük összehangolásával kapcsolatos feladatokat ellátó politikai és szakmai felsővezetők,
 - 18. a miniszteri kabinetet vezető kabinetfőnökök.
 

@@ -315,7 +315,7 @@ szerződést nem köthet. A postai szolgáltató a már megkötött szerződése
 
 #### 9. Az egyetemes postai szolgáltatások alapvető minőségi követelményei
 
-15. § (1) Belföldi forgalomban az egyetemes postai szolgáltatás keretében a küldeményenkénti díjszabás alapján feladott elsőbbségi levélküldemények legalább 85%-át a feladást követő munkanap, legalább 97%-át a feladást követő harmadik munkanap végéig kézbesíteni kell, vagy meg kell kísérelni a kézbesítését. Az Európai Unió tagállamai közötti forgalomban az egyetemes postai szolgáltatónak úgy kell eljárnia, hogy az elsőbbségiként feladott levélküldemények legalább 85%-a esetében a feladást követő harmadik munkanap, legalább 97%-a esetében a feladást követő ötödik munkanap végéig sor kerülhessen a kézbesítésére vagy a kézbesítés megkísérlésére.
+15. § (1) Belföldi forgalomban az egyetemes postai szolgáltatás keretében a küldeményenkénti díjszabás alapján feladott elsőbbségi levélküldemények legalább 85%-át a feladást követő második munkanap, legalább 97%-át a feladást követő harmadik munkanap végéig kézbesíteni kell, vagy meg kell kísérelni a kézbesítését. Az Európai Unió tagállamai közötti forgalomban az egyetemes postai szolgáltatónak úgy kell eljárnia, hogy az elsőbbségiként feladott levélküldemények legalább 85%-a esetében a feladást követő harmadik munkanap, legalább 97%-a esetében a feladást követő ötödik munkanap végéig sor kerülhessen a kézbesítésére vagy a kézbesítés megkísérlésére.
 
 (2) A küldeményenkénti díjszabás alapján feladható nem elsőbbségi levélküldemények, valamint az egyetemes postai szolgáltatásként feladható csomagküldemények és egyéb tartalmú küldemények kötelezően teljesítendő átfutási idejét a miniszter az Egyetemes Postai Közszolgáltatási Szerződésben határozza meg.
 
@@ -509,7 +509,7 @@ jogcím megjelölésére szolgáló, a Posta Elszámoló Központot működtető
 
 (4) Az egyetemes postai szolgáltató jogosult a sérelmére történő bűncselekmények elkövetésének megelőzése, illetve a bűncselekmény elkövetőjének felderítése érdekében sérülést vagy egészségkárosodást nem okozó technikai eszközt vagy csapdát alkalmazni.
 
-(5) Az egyetemes postai szolgáltató postai szolgáltatást vagy biztonsági szolgálatot ellátó alkalmazottja a feladata ellátása során gázsprayt, valamint a lőfegyverekről és lőszerekről szóló törvény szerint gáz- és riasztófegyvert tarthat magánál, azokat azonban csak jogos védelmi helyzetben, illetve végszükség esetén alkalmazhatja.
+(5) Az egyetemes postai szolgáltató postai szolgáltatást vagy biztonsági szolgálatot ellátó alkalmazottja a feladata ellátása során kizárólag olyan gázsprayt tarthat magánál, amelyet az egyetemes postai szolgáltató biztosít számára. Az egyetemes postai szolgáltató által biztosított gázspray kizárólag jogos védelmi helyzetben, illetve végszükség esetén alkalmazható.
 
 #### 20. Egyetemes postai szolgáltató közreműködése közszolgáltatásokban
 
@@ -600,6 +600,13 @@ igénybevétele útján végezheti. A postai küldemények kézbesítését vég
 (8) Az általános szerződési feltételek kizárólag a 40–52. § a szerződési szabályokra és felelősségre vonatkozó rendelkezéseitől térhetnek el, amennyiben e törvény az eltérést nem tiltja. Az eltérés kizárólag a felhasználó javára történhet.
 
 (9) A postai szolgáltató az egyedi szerződésben valamennyi, az egyedi szerződés hatálya alá tartozó postai szolgáltatás vonatkozásában kizárólag a 40–52. § rendelkezéseitől térhet el, amennyiben e törvény az eltérést nem tiltja. A postai szolgáltatót terheli annak bizonyítása, hogy az egyedi szerződés feltételeit egyedileg megtárgyalták, vagy azt a feladó vagy a címzett közreműködésével alakították ki. A postai szolgáltató az általa megkötött egyedi szerződésekről köteles nyilvántartást vezetni, és nyilvántartás vezetésének megkezdéséről és – a Hatóság erre vonatkozó felhívása alapján – az abban foglaltakról a Hatóság részére tájékoztatást adni.
+
+(9a) Ha a postai szolgáltató és a feladó (ideértve a postai konszolidátort is) vagy címzett egyedi szerződési jogviszonyának vonatkozásában az írásbeliség követelményének előírása ellenére az írásba foglalás elmaradt, a postai szolgáltató, a feladó (ideértve a postai konszolidátort is) vagy címzett az írásbeliség hiányára nem hivatkozhat, ha
+
+- a) az írásba foglalás elmaradása neki felróható, vagy
+- b) a teljesítés elfogadása közvetlenül vagy ráutaló magatartással megtörtént.
+
+(9b) A (9a) bekezdés szerinti esetben a postai szolgáltató és a feladó (ideértve a postai konszolidátort is) vagy címzett közötti egyedi szerződési jogviszony az erre a jogviszonyra irányadó jogszabályok és a postai szolgáltató általános szerződési feltételei szerinti tartalommal jön létre.
 
 (10) A feladó és a postai szolgáltató nem állapodhatnak meg olyan szerződési kikötésben, amely e törvény alapján a címzettet megillető jogot korlátoz vagy kizár.
 
@@ -858,7 +865,7 @@ köteles – a címhelyen történő kézbesítés sikertelensége esetén a jog
 
 (3) Minden postai szolgáltatónak országosan legalább egy, az Fgytv. 17/B. § (2) bekezdése szerint nyitva tartó és telefonon keresztül is elérhető központi ügyfélszolgálatot kell üzemeltetni, továbbá biztosítani kell, hogy a felhasználók panaszaikat szóban, írásban, továbbá interneten keresztül is megtehessék. A postai szolgáltatással kapcsolatos kártérítési igény a központi ügyfélszolgálat telefonos ügyfélszolgálatán keresztül is érvényesíthető az 51. §-ban meghatározott határidőn belül.
 
-(4) Az egyetemes postai szolgáltató minden megyeszékhelyen, az engedélyköteles szolgáltatást nyújtó szolgáltató a működési területe által érintett megyék székhelyein oly módon köteles gondoskodni ügyfélszolgálat üzemeltetéséről, hogy annak megközelítése – az ellátott felhasználók számára és földrajzi eloszlására figyelemmel – ne járjon aránytalan nehézségekkel a felhasználókra nézve. Az egyetemes postai szolgáltató – valamint az engedélyköteles szolgáltatást nyújtó szolgáltató, amennyiben Budapesten is nyújt postai szolgáltatást – Budapesten köteles legalább egy ügyfélszolgálatot működtetni.
+(4) Az egyetemes postai szolgáltató minden vármegyeszékhelyen, az engedélyköteles szolgáltatást nyújtó szolgáltató a működési területe által érintett vármegyék székhelyein oly módon köteles gondoskodni ügyfélszolgálat üzemeltetéséről, hogy annak megközelítése – az ellátott felhasználók számára és földrajzi eloszlására figyelemmel – ne járjon aránytalan nehézségekkel a felhasználókra nézve. Az egyetemes postai szolgáltató – valamint az engedélyköteles szolgáltatást nyújtó szolgáltató, amennyiben Budapesten is nyújt postai szolgáltatást – Budapesten köteles legalább egy ügyfélszolgálatot működtetni.
 
 (5) A telefonos elérhetőséget és a személyes ügyintézés időpontjának telefonon keresztül és elektronikus levélben történő előzetes lefoglalását kizárólag a központi ügyfélszolgálat vonatkozásában köteles biztosítani a postai szolgáltató, az Fgytv. 17/B. § (2) bekezdés c) pontjának és (3) bekezdésének megfelelően.
 

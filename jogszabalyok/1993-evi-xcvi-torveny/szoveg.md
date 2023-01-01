@@ -2,7 +2,9 @@
 
 az Önkéntes Kölcsönös Biztosító Pénztárakról
 
-A szociális biztonság erősítése sürgető társadalmi érdek. A szociális biztonságot szolgáló rendszerek újjáépítése, a szolidaritás, a rendszerszerűség, a kiszámíthatóság és az önkéntesség elve alapján a szociális piacgazdaság kiépítéséhez nélkülözhetetlen. Az ezt szolgáló önkéntes kölcsönös biztosító pénztárak új, intézményes formát adnak az öngondoskodásnak, s a tartósan befektethető források bővítésével elősegítik a hazai tőkepiac fejlődését. Az önkéntes kölcsönös biztosító pénztárak meghonosítása Magyarországon a társadalombiztosítás reformjának szerves része.A pénztárszervezet és működési forma bevezetése, új intézménytípusként a hazai jogrendbe történő illesztése érdekében az Országgyűlés a következő törvényt alkotja.
+A szociális biztonság erősítése sürgető társadalmi érdek. A szociális biztonságot szolgáló rendszerek újjáépítése, a szolidaritás, a rendszerszerűség, a kiszámíthatóság és az önkéntesség elve alapján a szociális piacgazdaság kiépítéséhez nélkülözhetetlen. Az ezt szolgáló önkéntes kölcsönös biztosító pénztárak új, intézményes formát adnak az öngondoskodásnak, s a tartósan befektethető források bővítésével elősegítik a hazai tőkepiac fejlődését. Az önkéntes kölcsönös biztosító pénztárak meghonosítása Magyarországon a társadalombiztosítás reformjának szerves része.
+
+A pénztárszervezet és működési forma bevezetése, új intézménytípusként a hazai jogrendbe történő illesztése érdekében az Országgyűlés a következő törvényt alkotja.
 
 ### I. Fejezet — ÁLTALÁNOS RENDELKEZÉSEK
 
@@ -43,7 +45,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 - f) tagsági okirat: a pénztár által kiállított, legalább a belépési nyilatkozaton szereplő adatokat tartalmazó, teljes bizonyító erejű magánokirat;
 - g) pénztári befizetések kedvezménye: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 44/A. §-a szerint a magánszemély rendelkezése alapján az adóhatóság által a magánszemély javára a pénztárhoz átutalt összeg;
 - h) elektronikus irat: olyan bizonylat, amely megfelel az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben foglalt rendelkezéseknek;
-- i) elektronikus irat használata: amennyiben a pénztár alapszabálya ezt lehetővé teszi, a pénztártag teljes bizonyító erejű magánokiratba foglalt nyilatkozatban kérheti a pénztártól, hogy a pénztár a részére átadandó dokumentumokat (nyilatkozatokat, igazolásokat) elektronikus iratként küldje meg részére;
+- i) elektronikus irat használata: amennyiben a pénztár alapszabálya ezt lehetővé teszi, a pénztártag kérheti a pénztártól, hogy a pénztár a részére átadandó dokumentumokat (nyilatkozatokat, igazolásokat) elektronikus iratként küldje meg részére;
 - j) nyílt pénztár: az a pénztár, amely a lehetséges pénztártagok körét – a területi pénztár működési területének meghatározása kivételével – nem korlátozza;
 - k) zárt pénztár: olyan pénztár, amely munkahely vagy szakmai, érdekképviseleti, illetve más, a pénztár alapításakor már meglévő szerveződési elv alapján a pénztár lehetséges tagjainak körét alapszabályában meghatározza.
 
@@ -87,7 +89,8 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 - a) szociális kockázat: gyermek születésével, beiskolázásával, egészségi állapottal kapcsolatos pénzügyi helyzettel, munkanélküliséggel, halálozással és a biztosítási tevékenységről szóló törvényben meghatározott tűz- és elemi károkkal kapcsolatos kockázatok;
 - b) időszaki járadék: a pénztártag részére nyújtott rendszeres pénzbeli szolgáltatás, amely az alapszabályban meghatározott esetekben és feltételek szerint határozott időtartamig, illetve legfeljebb a kiváltó esemény megszűnéséig tart;
-- c)–d)
+- c)
+- d)
 
 (8) E törvény alkalmazásában a 3. § (2) bekezdésének b) pontjában és a 36. § (1) bekezdésében, illetve azok alapján meghatározott alapok tartaléknak minősülnek.
 
@@ -194,7 +197,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 11. § (1) Pénztártag lehet az a 16. életévét betöltött személy, aki az alapszabály rendelkezéseit magára nézve kötelezőnek ismeri el és tagdíjfizetést vállal.
 
-(2) A tagsági viszony, a tagdíjfizetési kötelezettség és a várakozási idő a pénztárhoz benyújtott belépési nyilatkozatnak a pénztár általi elfogadásával kezdődik. A pénztár a belépési nyilatkozat elfogadását annak záradékolásával tanúsítja. A belépési nyilatkozatot a benyújtástól számított 30 napon belül kell záradékolni, majd annak egy példányát vagy a tagsági okiratot az alapszabállyal együtt a pénztártagnak nyomtatott formában, vagy a pénztártag kérésére elektronikus iratként át kell adni.
+(2) A tagsági viszony, a tagdíjfizetési kötelezettség és a várakozási idő a pénztárhoz benyújtott belépési nyilatkozatnak a pénztár általi elfogadásával kezdődik. A pénztár a belépési nyilatkozat elfogadását annak záradékolásával tanúsítja. A belépési nyilatkozatot a benyújtástól számított 30 napon belül kell záradékolni, majd annak egy példányát vagy a tagsági okiratot a pénztártagnak nyomtatott formában, vagy a pénztártag kérésére elektronikus iratként át kell adni. Az internetes honlappal rendelkező pénztár a tagot a belépési nyilatkozatban vagy a tagsági okiratban tájékoztatja arról, hogy a pénztár honlapján az alapszabály elérhető. Az alapszabályt a tag kérésére, illetve internetes honlappal nem rendelkező pénztár esetében díjmentesen, nyomtatott formában is ki kell adni.
 
 (3) A tevékenységi engedély véglegessé válása előtt a pénztár tagdíjat nem fogadhat, az alapító tagokon kívül új tagokat nem vehet fel. Az alapító tagok tagdíjfizetési kötelezettsége és várakozási ideje a tevékenységi engedély véglegessé válását követő napon kezdődik. A pénztár a tevékenységi engedély véglegessé válásától számított 30 napon belül nyomtatott formában, vagy a pénztártag kérésére elektronikus iratként átadja az alapító tagok részére a pénztár alapszabályát és a tagsági okiratot.
 
@@ -379,7 +382,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 - m) a pénztár szervezetét és szerveinek működését;
 - n) a pénztár képviseletének módját, a hatáskörök átruházásának módját és mértékét;
 - o) a közgyűlés összehívásának módját;
-- p) a közgyűlés (ha van: a részközgyűlés, illetve küldöttközgyűlés) működését, küldöttközgyűlés esetén a küldöttek megválasztásának szabályait;
+- p) a közgyűlés (ha van: a részközgyűlés, illetve a küldöttközgyűlés) működését, küldöttközgyűlés esetén a küldöttek megválasztásának szabályait, az elektronikus hírközlő eszköz vagy más személyazonosítást lehetővé tevő elektronikus eszköz útján való tanácskozás és döntéshozatal szabályait;
 - r) azon esetek meghatározását, amelyeknél a határozathozatalhoz minősített többség szükséges;
 - s) a közgyűlési határozatok közzétételének módját;
 - t) az elektronikus irat igénylésére vonatkozó elveket, amennyiben a pénztár kiad elektronikus iratot a pénztártag kérésére;
@@ -389,9 +392,11 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 (3) A módosított alapszabályt – a módosítások megjelölésével – a közgyűlés időpontját követő 30 napon belül meg kell küldeni a bíróságnak és a Felügyeletnek.
 
+(4) Internetes honlappal rendelkező pénztár az alapszabályát honlapján közzéteszi.
+
 ### A nemek közötti megkülönböztetés tilalma
 
-18/A. §
+#### 18/A. §
 
 ### II. Fejezet — A PÉNZTÁR SZERVEZETÉRE ÉS MŰKÖDÉSÉRE VONATKOZÓ SZABÁLYOK
 
@@ -472,7 +477,7 @@ A szociális biztonság erősítése sürgető társadalmi érdek. A szociális 
 
 21. § (1) A pénztár legfőbb szerve a tagok összességéből álló közgyűlés, vagy a tagok által — az alapszabályban meghatározottak szerint — közvetlenül vagy közvetett úton választott testület (küldöttközgyűlés). Az alapszabály a hatásköri és eljárási szabályok rögzítése mellett részközgyűlések tartásáról is rendelkezhet.
 
-(2) A közgyűlést évente össze kell hívni, az éves beszámoló és a pénzügyi terv elfogadására. A közgyűlés, küldöttgyűlés – ideértve a küldöttválasztó gyűlést és részközgyűlést is – összehívásának módjáról az alapszabályban kell rendelkezni. A hirdetmény közzététele vagy a meghívó elküldése, valamint a közgyűlés időpontja között legalább 15 napi időköznek kell lennie. A pénztár a meghívó elküldésével egyidejűleg az abban foglaltakat – amennyiben rendelkezik ilyen felülettel – az internetes honlapján is köteles közzétenni. A közgyűlés összehívásáról szóló értesítésben meg kell jelölni a közgyűlés helyét, idejét, napirendjét, valamint a napirendhez tartozó iratok megtekintésének helyét és idejét.
+(2) A közgyűlést az éves beszámoló és a pénzügyi terv elfogadása céljából évente össze kell hívni. A közgyűlés, küldöttgyűlés – ideértve a küldöttválasztó gyűlést és részközgyűlést is – összehívásának módjáról az alapszabályban kell rendelkezni. A hirdetmény közzététele vagy a meghívó elküldése, valamint a közgyűlés időpontja között legalább 15 napnak kell eltelnie. A pénztár a meghívó elküldésével egyidejűleg az abban foglaltakat – amennyiben rendelkezik ilyen felülettel – az internetes honlapján is közzéteszi. A közgyűlés összehívásáról szóló értesítésben meg kell jelölni a közgyűlés helyét, idejét, napirendjét, valamint a napirendhez tartozó iratok megtekintésének helyét és idejét. A közgyűlés (ha van: a részközgyűlés, illetve a küldöttközgyűlés) elektronikus hírközlő eszköz útján vagy más személyazonosítást lehetővé tevő elektronikus eszköz igénybevételével is megtartható.
 
 (3) A közgyűlést a (2) bekezdésben meghatározott eseteken kívül akkor is össze kell hívni, ha azt a bíróság elrendeli, a Felügyelet, vagy az ellenőrző bizottság, illetve a pénztártagok legalább tíz százaléka — az ok és a cél megjelölésével — írásban indítványozza, illetve, ha az igazgatótanács szükségesnek látja. Az alapszabály más esetekben is előírhatja közgyűlés összehívását. A közgyűlés összehívása az igazgatótanács feladata. Amennyiben az igazgatótanács a közgyűlés összehívása iránt nem intézkedik, az indítványozók bírósághoz fordulhatnak.
 
@@ -573,7 +578,9 @@ képviseli.
 
 (5) Az igazgatótanács jogsértő határozata, illetve utasítása esetén az ügyvezető az ellenőrző bizottsághoz fordulhat, és kezdeményezheti a közgyűlés összehívását is.
 
-### A munkáltatói taggal működő pénztárra vonatkozókülön szabályok
+### A munkáltatói taggal működő pénztárra vonatkozó
+
+külön szabályok
 
 29. § (1) A munkáltatói tag jogosult tanácskozási joggal a közgyűlésen részt venni.
 
@@ -865,7 +872,11 @@ szemben, e szerveknek a pénztárhoz intézett adatkérése vagy írásbeli megk
 
 (4) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény 262. § (3) bekezdésében meghatározottak szerinti adatkérés esetén a pénztár az ügyészség engedélye nélkül is köteles az általa kezelt, pénztártitoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
 
-(5)–(7)
+(5)
+
+(6)
+
+(7)
 
 (8) A pénztártitok és az üzleti titok megtartásának kötelezettsége nem áll fenn abban az esetben sem, ha
 
@@ -952,7 +963,9 @@ szemben, e szerveknek a pénztárhoz intézett adatkérése vagy írásbeli megk
 
 (12) A pénztár, illetve a pénztár nyilvántartását végző szolgáltató informatikai rendszerének üzemeltetésére megbízott szervezet, illetve személy – kizárólag az informatikai rendszer üzemeltetésével kapcsolatban, e célból és az ehhez szükséges mértékben – az informatikai rendszerben tárolt adatokat megismerheti.
 
-### III. Fejezet — A PÉNZTÁRAK ÁTALAKULÁSA,MEGSZŰNÉSE
+### III. Fejezet — A PÉNZTÁRAK ÁTALAKULÁSA,
+
+MEGSZŰNÉSE
 
 ### Az átalakulás közös szabályai
 
@@ -1039,7 +1052,9 @@ szemben, e szerveknek a pénztárhoz intézett adatkérése vagy írásbeli megk
 
 ### Ágazatok vegyes pénztárrá alakulása, szétválása
 
-44/A–44/B. §
+#### 44/A. §
+
+#### 44/B. §
 
 ### A pénztárak megszűnése
 
@@ -1212,7 +1227,9 @@ tartalmazó tájékoztatást (a továbbiakban: pénztári tájékoztatás) a tag
 
 (8) Az elszámolóegységekkel kapcsolatos tranzakciókat a pénztár kizárólag elháríthatatlan külső ok miatt, a tagok érdekében, rendkívüli esetekben, a Felügyelet haladéktalan tájékoztatása mellett felfüggesztheti, ha a portfóliók nettó eszközértéke megalapozottan nem állapítható meg.
 
-### A pénztártagok által választhatóbefektetési portfolió
+### A pénztártagok által választható
+
+befektetési portfolió
 
 49/B. § (1) A nyugdíjpénztár pénztártagok által választható befektetési portfóliót biztosító rendszert (a továbbiakban: választható portfóliós rendszer) működtethet, amelyben a pénztár felhalmozási időszakban lévő tagjai az egyéni nyugdíjszámlájukon lévő összeget a tag választása szerinti, a pénztár által kialakított portfóliókba fektethetik. Amennyiben a tag a (3) bekezdés szerinti szabályzat szerint nem választ portfóliót, akkor az egyéni számláján lévő összeget a szabályzatban erre az esetre rögzített portfólióba kell elhelyezni.
 
@@ -1271,7 +1288,9 @@ tartalmazó tájékoztatást (a továbbiakban: pénztári tájékoztatás) a tag
 
 (7) A pénztár a 49/B. § (3) bekezdés szerinti választható portfoliós rendszer szabályzatában olyan portfóliót is kialakíthat, amelynek eszköz összetétele a szabályzatban előre meghatározott időpontokban, illetve idő elteltével a portfolió befektetési politikájában meghatározottak szerint változik.
 
-### Az elszámolóegységekre épülőnyilvántartási rendszer
+### Az elszámolóegységekre épülő
+
+nyilvántartási rendszer
 
 49/E. § (1) Az elszámolóegységekre épülő nyilvántartási rendszer bevezetéséről a nyugdíjpénztár igazgatótanácsa dönt.
 
@@ -1303,7 +1322,9 @@ tartalmazó tájékoztatást (a továbbiakban: pénztári tájékoztatás) a tag
 
 50/A. § Az önsegélyező pénztár kiegészítő önsegélyező pénztári szolgáltatásokat, valamint életmódjavító önsegélyező pénztári szolgáltatásokat nyújthat a pénztártagok, illetve rendelkezésük alapján a közeli hozzátartozók részére.
 
-### Az önsegélyező pénztárak által nyújthatókiegészítő önsegélyező szolgáltatások köre
+### Az önsegélyező pénztárak által nyújtható
+
+kiegészítő önsegélyező szolgáltatások köre
 
 50/B. § (1) Az önsegélyező pénztár kiegészítő önsegélyező szolgáltatásként a következő szolgáltatásokat nyújthatja:
 
@@ -1322,11 +1343,15 @@ tartalmazó tájékoztatást (a továbbiakban: pénztári tájékoztatás) a tag
 
 (2) Az önsegélyező pénztár az 51/B. §-a (1) bekezdésének f)–g) pontjaikban foglalt szolgáltatásokat is nyújthatja kiegészítő önsegélyező szolgáltatásként.
 
-### Az önsegélyező pénztárak által nyújthatóéletmódjavító önsegélyező szolgáltatások köre
+### Az önsegélyező pénztárak által nyújtható
+
+életmódjavító önsegélyező szolgáltatások köre
 
 50/C. § Az önsegélyező pénztárak életmódjavító önsegélyező pénztári szolgáltatások körében az 51/C. § e) pontjában meghatározott szolgáltatásokat nyújthatják.
 
-### Az önsegélyező pénztárak által nyújthatószolgáltatások igénybevétele
+### Az önsegélyező pénztárak által nyújtható
+
+szolgáltatások igénybevétele
 
 50/D. § (1) Az önsegélyező pénztár szolgáltatásait – a (2) bekezdésben foglaltak kivételével – kizárólag az 50. § (1) bekezdésében meghatározott közösségi szolgáltatásként nyújthatja.
 
@@ -1336,7 +1361,7 @@ tartalmazó tájékoztatást (a továbbiakban: pénztári tájékoztatás) a tag
   - aa) a magzat (orvos által igazolt) fogantatásának 91. napjától megszületéséig nyújtható szolgáltatás, a várandóssággal összefüggő orvosi ellátás igazolt költségének támogatására, valamint a magzat 91. napos korától a megszületéséig nyújtható, a gyermek megszületése, illetve örökbefogadása esetén nyújtható egyszeri, egyösszegű támogatás;
   - ab) a csecsemőgondozási díj, az örökbefogadói díj, a gyermekgondozási díj kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
   - ac) a gyermekgondozást segítő ellátás és a gyermeknevelési támogatás összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátással megegyező mértékben;
-- b) az 50/B. § (1) bekezdésének b) pontjában meghatározott ellátások közül a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény szerinti álláskeresési járadék, álláskeresési segély összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
+- b) az 50/B. § (1) bekezdésének b) pontjában meghatározott ellátások közül a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény szerinti álláskeresési járadék, nyugdíj előtti álláskeresési segély összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
 - c) az 50/B. § (1) bekezdésének d) pontjában meghatározott ellátások közül
   - ca) a táppénz, baleseti táppénz, a baleseti járadék valamint a megváltozott munkaképességű személyek ellátásai kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
   - cb) a bányász dolgozók egészségkárosodási járadéka, valamint a bányászok egészségkárosodási járadéka összegének kiegészítése a folyósítás időtartama alatt, legfeljebb az ellátás alapjául szolgáló összeg mértékéig;
@@ -1347,8 +1372,8 @@ tartalmazó tájékoztatást (a továbbiakban: pénztári tájékoztatás) a tag
 - g) az 50/B. § (1) bekezdésének h) pontjában meghatározott ellátások;
 - h) az 50/B. § (2) bekezdésében meghatározott szolgáltatások;
 - i) az 50/C. §-ban meghatározott ellátások;
-- j) az 50/B. § (1) bekezdés k) pontjában meghatározott szolgáltatás támogatása az otthoni gondozás tartamára, az igazolt gondozási díj, legfeljebb a nyugdíjminimum havi összegének mértékéig;
-- k) az 50/B. § (1) bekezdés l) pontjában meghatározott szolgáltatás támogatása az intézményi elhelyezés tartamára, az igazolt napi vagy havi díj, de legfeljebb a nyugdíjminimum napi vagy havi összegének mértékéig.
+- j) az 50/B. § (1) bekezdés k) pontjában meghatározott szolgáltatás támogatása az otthoni gondozás tartamára, az igazolt gondozási díj, legfeljebb a szociális vetítési alap összegének mértékéig;
+- k) az 50/B. § (1) bekezdés l) pontjában meghatározott szolgáltatás támogatása az intézményi elhelyezés tartamára, az igazolt napi vagy havi díj, de legfeljebb a szociális vetítési alap összegének, illetve napi díj esetén a szociális vetítési alap összege harmincad részének mértékéig.
 - l) az 50/B. § (1) bekezdésének i) és j) pontjában meghatározott szolgáltatás.
 
 50/E. § (1) A pénztár szolgáltatást kizárólag a szolgáltatásra jogosult személy erre vonatkozó írásbeli igénylése alapján, az egyes szolgáltatások alapjául szolgáló
@@ -1368,7 +1393,7 @@ nyújthat.
 
 (6) A feltételek bekövetkeztét, fennállását a szolgáltatás igénylésekor vagy azt megelőzően kell igazolni. A szolgáltatások igénybevételét megalapozó dokumentumokat az önsegélyező pénztár a szolgáltatás folyósításának napjától számított 8 évig megőrzi.
 
-(7) A pénztártagnak az 50/B. § (1) bekezdés j) pontjában meghatározott szolgáltatás igénybevételét megelőzően be kell nyújtania a pénztár részére a lakáscélú jelzáloghitel szerződését, valamint a hitelintézet igazolását az utolsó háromhavi törlesztőrészlet mértékéről vagy ezen iratok hiteles másolatát.
+(7) A pénztártagnak az 50/B. § (1) bekezdés j) pontjában meghatározott szolgáltatás igénybevételét megelőzően be kell nyújtania a pénztár részére a lakáscélú jelzáloghitel szerződését, valamint a hitelintézet igazolását az utolsó háromhavi törlesztőrészlet mértékéről vagy ezen iratok másolatát.
 
 ### A kiegészítő egészségpénztárra vonatkozó szabályok
 
@@ -1476,15 +1501,15 @@ nyújthat.
 
 ### VI. Fejezet — A PÉNZTÁRAK FELETTI FELÜGYELET
 
-53. §
+#### 53. §
 
-54. §
+#### 54. §
 
-55. §
+#### 55. §
 
-56. §
+#### 56. §
 
-57. §
+#### 57. §
 
 58. § (1)
 
@@ -1501,9 +1526,9 @@ nyújthat.
 - g) ingatlanértékelő alkalmazásához,
 - h) választható portfóliós rendszer működtetéséhez és módosításához.
 
-59/A. §
+#### 59/A. §
 
-59/B. §
+#### 59/B. §
 
 59/C. § (1) A Felügyelet az egyes pénztárak alábbi dokumentumait, adatait az érdeklődők számára folyamatosan és térítésmentesen hozzáférhetővé teszi:
 
@@ -1519,7 +1544,8 @@ nyújthat.
 (2) A Felügyelet a vezető tisztségviselők, a kötelező alkalmazottak és megbízottak, valamint természetes személy szolgáltatók az alábbiakban felsorolt személyes adatait a pénzügyi szervezetek felügyeleti tevékenységének ellátása céljából kezelheti:
 
 - a) természetes személyazonosító adatok,
-- b)–c)
+- b)
+- c)
 - d) lakcím (tartózkodási hely),
 - e) szakképzettség, végzettség, szakmai gyakorlat,
 - f) büntetlen előélet,
@@ -1564,7 +1590,7 @@ nyújthat.
 
 (6) Az induló gazdálkodási tervnek az (5) bekezdésben foglaltakon kívül tartalmaznia kell mindazokat az adatokat és feltételeket, amelyeket a pénztár alapszabályban vállalt szolgáltatásainak teljesítéséhez, a pénztár hosszú távú és a tervezett taglétszámához igazodó működőképességéhez, a tagokkal szemben vállalt kötelezettségek teljesítéséhez a pénztár igazgatótanácsa szükségesnek tart, illetve amit a Felügyelet előír.
 
-63. §
+#### 63. §
 
 64. § (1) A pénztártevékenység folytatásának tárgyi és személyi feltétele:
 
@@ -1607,13 +1633,23 @@ nyújthat.
 
 (9) A pénztár könyvvizsgálója a (6) bekezdésben foglaltakon túl köteles a pénztár befektetett eszközeit tartalmazó letétkezelői nyilvántartást összevetni a pénztár analitikus nyilvántartásaival. Egyezőség hiányában a könyvvizsgáló köteles a pénztárat és a Felügyeletet az eltérésről az érintett befektetési eszközök megjelölésével – egyidejűleg – írásban tájékoztatni.
 
-(10)–(12)
+(10)
 
-(13)–(16)
+(11)
+
+(12)
+
+(13)
+
+(14)
+
+(15)
+
+(16)
 
 ### Felügyeleti ellenőrzés
 
-64/B. §
+#### 64/B. §
 
 64/C. § (1) A pénztár és a szolgáltató a Felügyeletnek jogszabályon alapuló rendszeres és eseti, illetve felügyeleti határozaton alapuló eseti adatszolgáltatást teljesít.
 
@@ -1628,13 +1664,19 @@ nyújthat.
 - c) a jogszabályban felsorolt szolgáltatókkal kötött szerződéseket, és azok módosításait,
 - d) a 64. § (1)–(3) bekezdések szerinti személyi és tárgyi feltételekben történő változást igazoló dokumentumokat.
 
-64/E–64/G. §
+#### 64/E. §
 
-64/H. §
+#### 64/F. §
+
+#### 64/G. §
+
+#### 64/H. §
 
 ### A Felügyelet intézkedési és bírságolási jogköre
 
-65. § (1)–(2)
+65. § (1)
+
+(2)
 
 (3) A Felügyelet a pénztár kötelezettségeinek teljesítése, a pénztártagok érdekeinek védelme, valamint a pénztártevékenységre vonatkozó jogszabályi előírások betartása érdekében a következő intézkedéseket – akár együttesen is – alkalmazhatja:
 
@@ -1672,16 +1714,17 @@ nyújthat.
 
 (8) A pénztár jogosult a (7) bekezdésben meghatározott határozat indokolását is közzétenni. Az indokolás közzététele során a pénztári és üzleti titokvédelmi szabályok által védett adatok közzétételét mellőzni kell, a pénztár mérlegelése alapján a saját üzleti titkai körébe tartozó adatokat közzéteheti.
 
-66. §
+#### 66. §
 
-67. §
+#### 67. §
 
 68. § (1) A Felügyelet intézkedéssel élhet, ha a pénztár tevékenysége során eltér az alapszabályában, illetve jóváhagyott pénzügyi tervében rögzítettektől, valamint e törvény és a kiegészítő kormányrendeletek előírásaitól, és e tevékenységével vélelmezhetően a pénztár likviditását veszélyezteti.
 
 (2) A Felügyelet
 
 - a) figyelmeztetést alkalmazhat, ha a pénztár a jóváhagyott pénzügyi tervétől vagy alapszabályától eltérő gazdálkodást folytat, vagy nem felel meg a tárgyi, illetve személyi feltételeknek;
-- b)–c)
+- b)
+- c)
 - d) új pénzügyi terv kidolgozását írhatja elő;
 - e)
 
@@ -1784,13 +1827,17 @@ nyújthat.
 
 (2)
 
-(3)–(4)
+(3)
 
-74. §
+(4)
 
-75. §
+#### 74. §
 
-76–77. §
+#### 75. §
+
+#### 76. §
+
+#### 77. §
 
 78. § (1) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a pénztárak egyes gazdálkodási szabályait, a pénztárak beszámolási és könyvvezetési kötelezettségét, a felügyeleti eljárási szabályokat, valamint az egészségpénztárak és az önsegélyező pénztárak által finanszírozható szolgáltatások nyújtására, és ezen szolgáltatások szakmai ellenőrzésére vonatkozó egyes szabályokat.
 
@@ -1806,7 +1853,9 @@ nyújthat.
 
 79. § Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy a pénztári tagsági jogviszony létesítésére irányuló belépési nyilatkozat megtétele előtt, tagsági jogviszony fennállása alatt, valamint annak megszűnése esetén alkalmazandó tájékoztatás formájára és módjára, az ügyfélpanaszok kezelésére vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
-80. § (1)–(2)
+80. § (1)
+
+(2)
 
 (3) A tevékenység folytatására vonatkozó engedély megadásának vagy a kérelem elutasításnak időpontjáig a rendszer működtetése nem minősül tevékenységi engedély nélküli tevékenységnek.
 
@@ -1816,7 +1865,9 @@ nyújthat.
 
 (3) A 64/A. § (4) bekezdésben meghatározott időtartamot jelen törvény hatálybalépését követően kell számítani, és az időtartam számításánál e törvény hatálybalépése előtti időszakot nem kell figyelembe venni.
 
-(4)–(5)
+(4)
+
+(5)
 
 (6)
 

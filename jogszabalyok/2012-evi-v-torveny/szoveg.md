@@ -12,10 +12,7 @@ Az Országgyűlés a közszolgálati tisztviselőkről szóló törvény és má
 
 2. § (1)–(6)
 
-(7) A fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény
-
-- a) 24. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy az igazságügyi alkalmazotti szolgálati viszony munkaviszonnyá alakulása után az igazságügyi alkalmazott átalakulás utáni munkabére nem lehet magasabb, mint az illetményalap hatszorosa,
-- b) 25. § (5) bekezdésének alkalmazásában kormánytisztviselői jogviszonyon a kormányzati szolgálati jogviszonyt kell érteni.
+(7)
 
 (8) Törvény eltérő rendelkezése hiányában, ahol jogszabály
 

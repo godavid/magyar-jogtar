@@ -2,7 +2,11 @@
 
 az egészségügyi ellátórendszer fejlesztéséről
 
-Az Országgyűlés– az államnak az egészségügyi ellátórendszer megszervezéséért és működtetéséért fennálló felelőssége hatékony érvényesítésének és a lakosság számára az egészségügyi szakellátáshoz való egyenlő hozzáférés biztosításának érdekében,– az egészségügyi ellátások és fejlesztések szükségletekkel való összehangolásának elvét érvényesítve
+Az Országgyűlés
+
+– az államnak az egészségügyi ellátórendszer megszervezéséért és működtetéséért fennálló felelőssége hatékony érvényesítésének és a lakosság számára az egészségügyi szakellátáshoz való egyenlő hozzáférés biztosításának érdekében,
+
+– az egészségügyi ellátások és fejlesztések szükségletekkel való összehangolásának elvét érvényesítve
 
 megalkotja a szakellátó hálózat megújítását és folyamatosan magas színvonalú működését szolgáló következő törvényt:
 
@@ -116,9 +120,11 @@ a feladatról – a (12) bekezdésben foglaltak figyelembevételével – a 4. h
 
 (4) Az átvett feladattal összefüggésben állami tulajdonba kerülő ingatlan tekintetében a tulajdonjog bejegyzésére a Kormány által kijelölt szerv kérelmére, az átadás-átvételről a Kormány rendeletében meghatározott módon elkészített jegyzőkönyv alapján díj- és illetékmentes eljárás keretében kerül sor.
 
-(5) Az (1) bekezdés alapján állami tulajdonba került vagyon tekintetében az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK) gyakorolja az államot megillető tulajdonosi jogok és kötelezettségek összességét.
+(5) Az (1) bekezdés alapján állami tulajdonba került vagyon tekintetében – az (5a) bekezdésben foglalt kivétellel – az Országos Kórházi Főigazgatóság (a továbbiakban: OKFŐ) gyakorolja az államot megillető tulajdonosi jogok és kötelezettségek összességét.
 
-(6) Az ÁEEK az (5) bekezdés szerinti intézkedései során az államháztartásról szóló törvény, a nemzeti vagyonról szóló törvény, az állami vagyonról szóló törvény és annak végrehajtási rendeletei, valamint a Nemzeti Földalapról szóló törvény és a végrehajtási rendelete szerint jár el azzal, hogy a (4) bekezdés szerinti ingatlan-nyilvántartási bejegyzést követően – a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 3. § (3)–(3a) bekezdésében meghatározott kivétellel – önállóan jogosult a tulajdonosi joggyakorlásába tartozó vagyontárgy elidegenítésére, vagyonkezelésbe adására, illetve egyéb módon történő hasznosítására.
+(5a) Az (1) bekezdés alapján állami tulajdonba került ingatlanok tekintetében az államot megillető tulajdonosi jogok és kötelezettségek összességét a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) gyakorolja. Az ingatlanok tekintetében az MNV Zrt. tulajdonosi joggyakorlásának ingatlan-nyilvántartási bejegyzésére az MNV Zrt. kérelme alapján kerül sor.
+
+(6) Az OKFŐ az (5) bekezdés szerinti tulajdonosi joggyakorlása során az államháztartásról szóló törvény, a nemzeti vagyonról szóló törvény, az állami vagyonról szóló törvény és annak végrehajtási rendeletei szerint jár el azzal, hogy önállóan jogosult a tulajdonosi joggyakorlásába tartozó vagyontárgy elidegenítésére, vagyonkezelésbe adására, illetve egyéb módon történő hasznosítására.
 
 1/C. § (1) Az egészségügyi intézményt az állam az egészségügyi intézmény kötelezettségvállalásai alapján keletkezett fizetési kötelezettségekkel együtt veszi át.
 
@@ -279,7 +285,11 @@ köthet.
 - a) bankgarancia,
 - b) az egészségügyi szolgáltató által hitelintézetnél lekötött és elkülönítetten kezelt pénzösszeg (pénzbeli letét). Az egyes biztosítékformák külön-külön vagy együttesen is alkalmazhatók.
 
-(4)–(6)
+(4)
+
+(5)
+
+(6)
 
 (7) A vagyoni biztosíték megállapítására vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
@@ -391,7 +401,7 @@ fennállása esetén.
 
 (6)
 
-3/A. §
+#### 3/A. §
 
 #### 5. A kapacitásfelosztás módosítása
 
@@ -609,7 +619,8 @@ fennállása esetén.
 8. § (1) Az egészségbiztosító felelős
 
 - a) a 3. § (1) bekezdés a), b) és d) pontja szerinti kapacitások felhasználásával nyújtott egészségügyi szakellátások,
-- b)–c)
+- b)
+- c)
 - d) a 16. § (7) bekezdésében meghatározott kapacitáson nyújtott szakellátás,
 - e) a külön jogszabály szerinti eljárásban előzetesen befogadott kapacitásokon nyújtott szakellátások, valamint
 - f) az e törvény és a végrehajtásáról szóló kormányrendelet alapján létrehozott, illetve befogadott kapacitásokon nyújtott szakellátások
@@ -628,9 +639,9 @@ amennyiben az megfelel az e törvényben és a külön jogszabályokban meghatá
 
 (3) A kapacitás, illetve az ahhoz kapcsolódó ellátási terület megállapítása, illetve módosítása esetén a finanszírozási szerződés megköthető, illetve módosítható a még nem végleges határozat, illetve működési engedély módosítás alapján is, azzal, hogy a finanszírozási szerződés, illetve annak módosítása leghamarabb a határozat, illetve a működési engedély módosítás véglegessé válása napján válhat hatályossá.
 
-8/A. §
+#### 8/A. §
 
-9. §
+#### 9. §
 
 #### 10. A váratlan esemény miatt szükséges rendkívüli kapacitásbevonás
 
@@ -749,11 +760,15 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 
 (10) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi LXXIX. törvénnyel megállapított 2/B. § (1) bekezdését a hatálybalépését megelőzően megkötött szerződésekre nem kell alkalmazni.
 
-(11)–(12)
+(11)
+
+(12)
 
 (13) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel megállapított 7. § (11) bekezdését az annak hatálybalépésekor folyamatban lévő ügyekre is alkalmazni kell.
 
-(14)–(15)
+(14)
+
+(15)
 
 (15a)
 
@@ -772,7 +787,7 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 
 (19) Az egyes egészségügyi és egészségbiztosítási tárgyú törvények módosításáról szóló 2013. évi CCXLIV. törvénnyel megállapított 3. § (5) bekezdése alkalmazásánál a 3. § (1) bekezdésében meghatározott országos kapacitásmennyiség 2014. január 1-jei állapotát kell figyelembe venni.
 
-15. §
+#### 15. §
 
 16. § (1) Ez a törvény – a (2) és (3) bekezdésben foglaltak kivételével – 2007. január 1-jén lép hatályba, azzal, hogy az 1. számú és 2. számú mellékletben meghatározott kapacitásokra, valamint a (10) bekezdés alapján létrejött kapacitásokra a finanszírozási szerződéseket 2007. március 31-éig kell megkötni.
 
@@ -792,7 +807,13 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 
 (9)
 
-(10)–(13)
+(10)
+
+(11)
+
+(12)
+
+(13)
 
 (14) Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg
 
@@ -832,7 +853,9 @@ egészségügyi szolgáltatónál más vezetői megbízatást nem tölthet be é
 
 (16)
 
-### 1–2. számú melléklet a 2006. évi CXXXII. törvényhez
+### 1. számú melléklet a 2006. évi CXXXII. törvényhez
+
+### 2. számú melléklet a 2006. évi CXXXII. törvényhez
 
 ### 3. számú melléklet a 2006. évi CXXXII. törvényhez
 

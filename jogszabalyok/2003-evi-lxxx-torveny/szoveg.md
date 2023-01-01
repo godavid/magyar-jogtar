@@ -4,7 +4,9 @@ a jogi segítségnyújtásról
 
 Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lévők számára egy olyan intézményrendszer, amelyben a támogatottak szakszerű jogi tanácsot és eljárási jogi képviseletet kaphatnak jogaik érvényesítése és jogvitáik megoldása során, az Országgyűlés a következő törvényt alkotja:
 
-## I. RÉSZ — A JOGI SEGÍTSÉGNYÚJTÁS KERETÉBEN NYÚJTOTT TÁMOGATÁSOKÉS IGÉNYBEVÉTELÜK FELTÉTELEI
+## I. RÉSZ — A JOGI SEGÍTSÉGNYÚJTÁS KERETÉBEN NYÚJTOTT TÁMOGATÁSOK
+
+ÉS IGÉNYBEVÉTELÜK FELTÉTELEI
 
 ### I. Fejezet — A PEREN KÍVÜLI TÁMOGATÁSOK
 
@@ -62,7 +64,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 (3) E törvénynek az Európai Unió tagállamaira vonatkozó rendelkezései nem alkalmazhatók Dániára.
 
-5. § (1) A jogi szolgáltatás díját a fél helyett az állam viseli, ha a fél rendelkezésre álló havi nettó jövedelme (munkabére, nyugdíja, egyéb rendszeres pénzbeli juttatása), nem haladja meg az öregségi teljes nyugdíj mindenkori legkisebb összegét (a továbbiakban: nyugdíjminimum), vagyona pedig – a 9. §-ban foglaltak figyelembevételével – nincs.
+5. § (1) A jogi szolgáltatás díját a fél helyett az állam viseli, ha a fél rendelkezésre álló havi nettó jövedelme (munkabére, nyugdíja, egyéb rendszeres pénzbeli juttatása), nem haladja meg a szociális vetítési alap összegét, vagyona pedig – a 9. §-ban foglaltak figyelembevételével – nincs.
 
 (2) Jövedelmi és vagyoni helyzetére tekintet nélkül rászorultnak tekintendő az a fél, aki
 
@@ -72,10 +74,10 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 - d) menekült, menedékes, menekültkénti vagy menedékeskénti, illetve hontalankénti elismerését kérő, továbbá az ideiglenes vagy kiegészítő védelemben részesítését kérő személy, valamint a dublini átadás végrehajtása érdekében menekültügyi őrizetbe vett külföldi, a jövedelmi és vagyoni helyzetéről tett nyilatkozata alapján a számára biztosított ellátásra és támogatásra jogosult,
 - e) vízumkiadása, tartózkodási engedély vagy letelepedett jogállás megszerzése, illetve honosítás iránti üggyel kapcsolatban jogi segítségnyújtást kérő olyan személy, akinek a felmenője magyar állampolgár vagy az volt, továbbá a visszahonosításra irányuló eljárásban részt vevő személy,
 - f) a családjában olyan gyermeket gondoz, akinek a rendszeres gyermekvédelmi kedvezményre való jogosultságát megállapították,
-- g) a 4/2009/EK tanácsi rendelet 46. cikkében meghatározott jogosultként kér az 56. cikk szerinti eljárás lefolytatásához jogi segítséget,
+- g) a 4/2009/EK tanácsi rendelet 46. cikkében meghatározott jogosultként kér a 4/2009/EK tanácsi rendelet 56. cikke szerinti, vagy a gyermektartás és a családi tartások egyéb formáinak nemzetközi behajtásáról szóló, 2007. november 23-i hágai egyezmény (a továbbiakban: hágai tartási egyezmény) 15. cikkében meghatározott jogosultként kér a 10. cikk szerinti eljárás lefolytatásához jogi segítséget,
 - h) a 4. § (1) bekezdés f) pontjának hatálya alá tartozik.
 
-(3) A jogi szolgáltatás díját az állam viseli akkor is, ha az egyedülálló és a 9. §-ban foglaltak figyelembevételével vagyontalan fél rendelkezésre álló havi nettó jövedelme nem haladja meg a nyugdíjminimum 150%-át.
+(3) A jogi szolgáltatás díját az állam viseli akkor is, ha az egyedülálló és a 9. §-ban foglaltak figyelembevételével vagyontalan fél rendelkezésre álló havi nettó jövedelme nem haladja meg a szociális vetítési alap 150%-át.
 
 6. § A jogi szolgáltatás díját a fél helyett az állam előlegezi, ha a fél rendelkezésre álló havi nettó jövedelme nem haladja meg a tárgyévet megelőző második év – a Központi Statisztikai Hivatal által közzétett – nemzetgazdasági bruttó havi átlagkeresetének 43%-át, és vagyona – a 9. §-ban foglaltak figyelembevételével – nincs.
 
@@ -128,7 +130,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 11. § (1) Az állam a jogi segítségnyújtás keretében a törvényben meghatározott polgári peres és – a végrehajtási eljárás kivételével – nemperes eljárásokban, valamint a közigazgatási perekben, egyéb közigazgatási bírósági eljárásokban és közigazgatási nemperes eljárásokban (a továbbiakban együtt: per) a felperes, az alperes, a beavatkozó (perbehívott), az érdekelt, a kérelmező és a kérelmezett fél részére a pártfogó ügyvédi képviseletet biztosítja és annak költségét a fél helyett megelőlegezi vagy viseli.
 
-(2) Az (1) bekezdéstől eltérően az állam a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló 2008. december 18-i 4/2009/EK tanácsi rendelet 46. cikk (1) bekezdése alapján a szülő-gyermek kapcsolatból eredő tartási kötelezettségek végrehajtása iránti eljárásban is biztosítja a fél számára a pártfogó ügyvédi képviseletet és viseli a fél helyett annak költségét.
+(2) Az (1) bekezdéstől eltérően az állam a 4/2009/EK tanácsi rendelet és a hágai tartási egyezmény alapján a tartási kötelezettségek végrehajtása iránti eljárásban is biztosítja a fél számára a pártfogó ügyvédi képviseletet és viseli a fél helyett annak költségét.
 
 11/A. § (1) A polgári perrendtartásról szóló törvény szerint költségmentességben vagy munkavállalói költségkedvezményben (a továbbiakban együtt e fejezetben: költségmentesség) részesülő fél pártfogó ügyvédjének államot terhelő díja e törvény szerint kerül megfizetésre, és a pártfogó ügyvéd díját az állam – külön jogszabályban meghatározottak szerint – megelőlegezi.
 
@@ -211,13 +213,13 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 (3) A kiskorú sértett és magánfél a jövedelmi és vagyoni viszonyaira tekintet nélkül jogosult a támogatásra; nem részesíthető azonban támogatásban, ha a jogi képviselet költségeit vagy a tényleges jogi képviseletet a fél más állami támogatási rendszerben biztosított támogatásként megkapta.
 
-20. §
+#### 20. §
 
 ## II. RÉSZ — A TÁMOGATÁSOK IGÉNYBEVÉTELE, FOLYÓSÍTÁSA ÉS VISSZATÉRÍTÉSE
 
 ### IV. Fejezet — KÖZÖS ELJÁRÁSI SZABÁLYOK
 
-21. §
+#### 21. §
 
 ### A támogatás engedélyezése iránti kérelem
 
@@ -247,11 +249,13 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 
 ### A kérelemben foglaltak valódiságának ellenőrzése
 
-25. § (1)–(2)
+25. § (1)
+
+(2)
 
 (3) A támogatás igénybevétele feltételeinek vizsgálata céljából az adóhatóság az adótitokról, az erre hatáskörrel rendelkező hatóság pedig az 5. § (2) bekezdésében megjelölt támogatásokra való jogosultságról megkeresésre tájékoztatja a jogi segítségnyújtó szolgálatot.
 
-26. §
+#### 26. §
 
 ### A támogatás felülvizsgálata és megvonása
 
@@ -265,17 +269,21 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 - b) a támogatás igénybevételének feltételei a kérelem előterjesztésekor sem álltak fenn és a fél a támogatás iránti kérelmében valótlan adatot szolgáltatott,
 - c) a 10. § (2) bekezdésében meghatározott kizáró ok áll fenn.
 
-### Segítségnyújtás a támogatás igénybevételéhez,egyéb tanácsadás
+### Segítségnyújtás a támogatás igénybevételéhez,
+
+egyéb tanácsadás
 
 28. § (1) A támogatásról, a támogatás engedélyezésének, felülvizsgálatának, megvonásának és visszatérítésének a feltételeiről, a jogi segítők személyéről és elérhetőségükről a jogi segítségnyújtó szolgálat a hozzá forduló ügyfelet illeték- és díjmentesen tájékoztatja, részére a támogatás engedélyezése iránti kérelemhez szükséges nyomtatványokat rendelkezésre bocsátja és kitöltésükben segítséget nyújt.
 
 (2) A jogi segítségnyújtó szolgálat a hozzá forduló ügyfelet a jövedelmi és vagyoni helyzetének vizsgálata nélkül, illeték- és díjmentesen tájékoztatja arról, hogy a kérelmének elbírálása melyik bíróság vagy hatóság feladatkörébe tartozik, az eljárás megindítása és lefolytatása milyen költségekkel jár számára, továbbá rövid tájékoztatást ad az egyszerű megítélésű ügyekben felmerült jogi kérdésekben. A tájékoztatás megadása a jogi segítségnyújtó szolgálathoz személyesen forduló fél esetében – jegyzőkönyv és hivatalos feljegyzés készítése nélkül – szóban vagy távbeszélőn, a kérdését írásban feltevő fél esetében írásban történik. A bűncselekmény sértettje és áldozata részére a bűncselekmény elkövetése miatt indítandó vagy folyamatban lévő büntetőeljárással kapcsolatos tájékoztatást külön törvény szerint az áldozatsegítő szolgálat adja meg.
 
-29. §
+#### 29. §
 
-30–31. §
+#### 30. §
 
-32. §
+#### 31. §
+
+#### 32. §
 
 ### A támogatás nyilvántartása
 
@@ -653,6 +661,8 @@ követő 60 napon belül terjesztheti elő, ezt követően pedig akkor, ha igazo
 
 (4a) Az ügyvédi iroda akkor kérheti felvételét a névjegyzékbe, ha van a (4) bekezdés szerinti feltételeknek megfelelő tagja.
 
+(4b) A (4) bekezdés szerinti feltételeket a jogi segítségnyújtó szolgálat az ügyvédi kamarai nyilvántartásból történő adatigénylés útján ellenőrzi.
+
 (5) A jogi segítő a pénzforgalmi számlaszámát, valamint adószámát a szolgáltatási szerződés megkötése előtt köteles bejelenteni.
 
 ### A szolgáltatási szerződés
@@ -681,7 +691,9 @@ követő 60 napon belül terjesztheti elő, ezt követően pedig akkor, ha igazo
   - bb) a személyiségi jogi jogsértés miatt járó sérelemdíj megfizetésére az egyetem köteles a Polgári Törvénykönyv szabályai szerint,
 - c) a jogi szolgáltatás nyújtását a szervezeti egységet vezető oktató felügyelete mellett jogi szakvizsgával vagy állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktató végezheti.
 
-(4)–(5)
+(4)
+
+(5)
 
 69. § (1) A jogi segítő szolgáltatási szerződésben megjelölt időtartamra vonatkozó közreműködési kötelezettsége vagy általános jellegű, vagy az általa megjelölt szakterületre, illetve az általa egy hónapra megjelölt számú ügyben történő jogi szolgáltatásra terjed ki.
 
@@ -733,7 +745,9 @@ követő 60 napon belül terjesztheti elő, ezt követően pedig akkor, ha igazo
 
 ## IV. RÉSZ — ZÁRÓ RENDELKEZÉSEK
 
-### IX. Fejezet — A TÖRVÉNY HATÁLYBALÉPÉSEÉS VÉGREHAJTÁSA
+### IX. Fejezet — A TÖRVÉNY HATÁLYBALÉPÉSE
+
+ÉS VÉGREHAJTÁSA
 
 ### Hatálybalépés
 
@@ -788,27 +802,29 @@ követő 60 napon belül terjesztheti elő, ezt követően pedig akkor, ha igazo
 
 (3)
 
-77. §
+#### 77. §
 
-78. §
+#### 78. §
 
-79. §
+#### 79. §
 
-80. §
+#### 80. §
 
-81. §
+#### 81. §
 
-82. §
+#### 82. §
 
-83–84. §
+#### 83. §
 
-85. §
+#### 84. §
+
+#### 85. §
 
 86. § (1)
 
 (2)
 
-87. §
+#### 87. §
 
 88. § Ez a törvény a Magyar Köztársaság és az Európai Közösségek és azok tagállamai között társulás létesítéséről szóló, Brüsszelben, 1991. december 16-án aláírt Európai Megállapodás tárgykörében, a megállapodást kihirdető 1994. évi I. törvény 3. §-ával összhangban az Európai Közösségek következő jogszabályával összeegyeztethető szabályozást tartalmaz: a Tanács 2003/8/EK irányelve a határokon átnyúló jogviták tekintetében a joghoz való hozzájutás javításáról, a jogi segítségnyújtásra irányadó közös minimumszabályok megteremtése útján.
 
@@ -822,4 +838,4 @@ követő 60 napon belül terjesztheti elő, ezt követően pedig akkor, ha igazo
 - f) a terrorizmus elleni küzdelemről, a 2002/475/IB tanácsi kerethatározat felváltásáról, valamint a 2005/671/IB tanácsi határozat módosításáról szóló, 2017. március 15-i (EU) 2017/541 európai parlamenti és tanácsi irányelv 24. és 26. cikke;
 - g) a büntetőeljárások során a gyanúsítottak és a vádlottak, valamint az európai elfogatóparancshoz kapcsolódó eljárásokban a keresett személyek költségmentességéről szóló, 2016. október 26-i (EU) 2016/1919 európai parlamenti és tanácsi irányelv.
 
-90. § E törvény 5. § (2) bekezdés g) pontja, valamint 11. § (2) bekezdése a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-ai 4/2009/EK tanácsi rendelet 46. cikkének végrehajtásához szükséges rendelkezést állapít meg.
+90. § E törvény 5. § (2) bekezdés g) pontja, valamint 11. § (2) bekezdése a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-ai 4/2009/EK tanácsi rendelet 44. cikk (1) bekezdésének és 46. cikkének végrehajtásához szükséges rendelkezést állapít meg.

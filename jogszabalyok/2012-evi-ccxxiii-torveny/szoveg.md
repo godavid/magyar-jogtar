@@ -67,7 +67,7 @@ a Büntető Törvénykönyvről szóló 2012. évi C. törvény hatálybalépés
 - 10. az 1978. évi IV. törvény 329/A. § (4) bekezdés b) pontja szerinti szerzői vagy szerzői joghoz kapcsolódó jogok megsértése, az 1978. évi IV. törvény 329/D. § (3) bekezdés b) pontja szerinti iparjogvédelmi jogok megsértése,
 - 11. a 6. §-ban meghatározott bűncselekmények.
 
-8. § A Be. 21. § (5) bekezdése alkalmazásában a törvényszék székhelyén lévő járásbíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el a megye, illetve a főváros területére kiterjedő illetékességgel az 1978. évi IV. törvény szerinti következő bűncselekmények esetén is:
+8. § A Be. 21. § (5) bekezdése alkalmazásában a törvényszék székhelyén lévő járásbíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el a vármegye, illetve a főváros területére kiterjedő illetékességgel az 1978. évi IV. törvény szerinti következő bűncselekmények esetén is:
 
 - a) a magántitok jogosulatlan megismerése,
 - b) a közveszélyokozás – kivéve az 1978. évi IV. törvény 259. § (2) bekezdés b) pontja szerinti közveszélyokozást –,

@@ -22,12 +22,12 @@ Az Országgyűlés az intézményes privatizáció lezárása után, az állami 
 (3) Külön törvény rendelkezik:
 
 - a) a koncesszióról (az állami monopóliumok hasznosításáról),
-- b) a Magyar Nemzeti Bank, az Államadósság Kezelő Központ Zrt. és a Magyar Távirati Iroda Zrt. működéséről,
+- b) a Magyar Nemzeti Bank, az Államadósság Kezelő Központ Zrt. működéséről,
 - c) a Nemzeti Földalapról.
 
 (4) Az állami tulajdonban álló, a hatályos jogszabályok szerint lakásnak minősülő ingatlanok értékesítésére vagy bérbeadására vonatkozó eljárásokban e törvény rendelkezéseit külön törvényben foglalt eltérésekkel kell alkalmazni.
 
-(5) Nem tartozik e törvény hatálya alá az a vagyon, amelynél az állami tulajdonszerzésre az állam közjogi kötelezettségeinek, jogosultságainak gyakorlása következtében, vagy azzal összefüggésben kerül sor, így a szabálysértési és büntetőeljárásokban elkobzás, vagyonelkobzás útján állami tulajdonba kerülő vagyon.
+(5) Nem tartozik e törvény hatálya alá az a vagyon, amelynél az állami tulajdonszerzésre az állam közjogi kötelezettségeinek, jogainak gyakorlása következtében, vagy azzal összefüggésben kerül sor, – különösen a szabálysértési és büntetőeljárásban elkobzás, vagyonelkobzás útján állami tulajdonba kerülő vagyon –, ide nem értve azt a vagyont, amely az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 125/C. §-a és 125/D. §-a szerinti eljárás útján kerül állami tulajdonba.
 
 (6) Az (5) bekezdés szerinti vagyon hasznosítása, értékesítése során e törvény rendelkezéseit kell alkalmazni, azzal, hogy az államot megillető tulajdonosi jogokat az az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) szerinti központi költségvetési szerv – ide nem értve az állami adó- és vámhatóságot –, továbbá az a 100%-ban állami tulajdonban álló gazdasági társaság gyakorolja, amely az állami tulajdonjogot keletkeztető hatósági határozatot hozta, illetve amely szervezetet megillető követelés fejében került sor a vagyonnak az állam általi elfogadására.
 
@@ -325,7 +325,7 @@ gyakorolja.
 
 22/A. § (1) Az MNV Zrt. szervezetének működéséhez szükséges forrást a központi költségvetés biztosítja.
 
-(2) Az MNV Zrt. saját vagyonával való gazdálkodása körében a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény. 3. § (1) bekezdése szerinti adósságot keletkeztető ügyletet nem köthet, kezességet, garanciát nem vállalhat.
+(2) Az MNV Zrt. saját vagyonával való gazdálkodása körében a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény. 8. § (2) bekezdése szerinti adósságot keletkeztető ügyletet nem köthet, kezességet, garanciát nem vállalhat.
 
 ### Az egységes állami vagyonnyilvántartás vezetéséhez és az Országleltár működtetéséhez kapcsolódó feladatok
 
@@ -393,7 +393,7 @@ szükséges a tulajdonosi joggyakorló nevében a tulajdonosi joggyakorlói adat
 
 (3) A tulajdonosi joggyakorló és a vagyonkezelő a vagyon hasznosítására csak olyan szerződést köthet, amely – az állami vagyon megőrzését, gyarapítását, pénzügyileg és gazdaságilag minél előnyösebb hasznosítását szem előtt tartva – az állam számára a várható bevétel, megtakarítás, vagy más előny alapján a lehető legkedvezőbb.
 
-(4) Állami vagyon hasznosítását biztosító szerződés megkötésére kiírt pályázati eljárás eredményeként a szerződés a pályázati kiírástól, valamint a nyertes pályázattól eltérő tartalommal nem köthető meg.
+(4) Állami vagyon hasznosítását biztosító szerződés megkötésére kiírt pályázati eljárás, vagy lefolytatott bérleti licit eredményeként a szerződés a pályázati kiírástól, a bérleti licit hirdetménytől, valamint a nyertes pályázattól, a nyertes ajánlattól eltérő tartalommal nem köthető meg.
 
 24. § (1) Állami vagyon használatát biztosító – így különösen bérleti, haszonbérleti, megbízási – szerződés – a (2) bekezdésében foglalt kivételeken kívül – nyilvános, kivételesen, indokolt esetben zártkörű versenyeztetés útján köthető.
 
@@ -402,8 +402,13 @@ szükséges a tulajdonosi joggyakorló nevében a tulajdonosi joggyakorlói adat
 - a) az Nvtv. 11. § (17) bekezdésében foglalt esetekben, továbbá
 - b) ha nemzetközi szerződésben vállalt kötelezettség a külföldön lévő ingatlan esetében a versenyeztetés alkalmazását kizárja,
 - c) ha jogszabály rendelkezései vagy a használat átengedésének egyéb körülményei a lehetséges hasznosító személyének megválasztását olyan jelentős módon vagy mértékben korlátozzák, hogy a versenyeztetésből származó előnyök nem biztosíthatók,
-- d) ha a határozott időre kötendő szerződés tartama a kilencven napot nem haladja meg,
+- d) ha a határozott időre kötendő szerződés tartama az egy évet nem haladja meg,
 - e) ha társadalom-, fejlesztéspolitikai vagy egyéb szempontok szerinti közérdekű cél érdekében az adott ügylet megvalósítása kiemelten indokolt, és a Kormány erre figyelemmel nyilvános határozatban döntött a versenyeztetés mellőzéséről.
+- f) ha az ingatlan hasznosítása az ahhoz kapcsolódó vagyoni értékű jog – így különösen bányászati jog – gyakorlásához szükséges, vagy azt segíti elő,
+- g) ingóságok hasznosítása esetén, ha azok együttes forgalmi értéke a bruttó 25 millió forintot nem haladja meg,
+- h) ha a hasznosítással érintett terület nagysága az 50 négyzetmétert nem haladja meg.
+
+(2a) A (2) bekezdés d) pontja alapján versenyeztetés mellőzésével megkötött szerződés nem hosszabbítható meg, továbbá ugyanarra a vagyonelemre vonatkozóan ugyanazon felek között új határozott idejű szerződés a (2) bekezdés d) pontja alkalmazásával nem köthető.
 
 (3) Zártkörű pályázat kiírására különösen akkor kerülhet sor, ha a vagyontárgy nyilvános pályáztatásának reális, tervezett költségei jelentősen csökkentenék a hasznosításból éves szinten elérhető bevételt, vagy ha a korábbi nyilvános pályázat eredménytelenül zárult és ezen eljárással is biztosítható az állami vagyon gazdaságos – a 23. § (3) bekezdésében foglaltaknak megfelelő – hasznosítása.
 
@@ -458,6 +463,8 @@ szükséges a tulajdonosi joggyakorló nevében a tulajdonosi joggyakorlói adat
 
 (3) A kizárólagos gazdasági tevékenység gyakorlására jogosult személyt vagy szervezetet az állami vagyon tekintetében megillető, az Nvtv. 12. § (3a) bekezdése szerinti kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jogra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 
+(4) Az Nvtv. 12. § (3a) bekezdése szerinti működtetési jog jogosultja részére átengedett állami vagyoni körbe tartozó ingó és ingatlan vagyonelemek tekintetében – ha kormányrendelet eltérően nem rendelkezik – e törvénynek és végrehajtási rendeletének az államháztartáson kívüli egyéb vagyonkezelőkre vonatkozó számviteli elszámolási és nyilvántartási szabályait kell alkalmazni.
+
 ### A vagyonkezelés szabályai
 
 27. § (1) Az állami vagyonra vonatkozóan a tulajdonosi joggyakorló kizárólag az Nvtv.-ben meghatározott személyekkel köthet vagyonkezelési szerződést.
@@ -506,9 +513,9 @@ szükséges a tulajdonosi joggyakorló nevében a tulajdonosi joggyakorlói adat
 
 (5) Amennyiben ajándékozás, végrendeleti örökösnevezés, illetve tulajdonjog átruházására irányuló más hasonló jogügylet kedvezményezettjeként valamely központi költségvetési szervet jelölnek meg, az elfogadott vagyon állami tulajdonba kerül azzal, hogy az MNV Zrt. az adott költségvetési szervvel köt rá – az Nvtv. 11. § (6) bekezdésében meghatározott vagyontárgyak kivételével – nem visszterhes vagyonkezelési szerződést, vagy – ha a hagyaték tárgya gazdasági társaságban fennálló társasági részesedés – az Nvtv. 8. § (7) bekezdése szerinti megbízási szerződést. Ha a későbbiekben az ilyen vagyontárgy értékesítésére kerül sor, annak bevétele a kedvezményezett központi költségvetési szervet illeti meg.
 
-28/A. § (1) Az MNV Zrt. a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek elhelyezését állami elhelyezési célú ingatlanokban biztosítja. Az MNV Zrt. tulajdonosi joggyakorlása alatt álló állami elhelyezési célú ingatlanok állagának megóvásáról, karbantartásáról, üzemeltetéséről, beruházásainak és felújításainak előkészítéséről, illetve megvalósításáról az MNV Zrt. gondoskodik a központi költségvetés terhére.
+28/A. § (1) Az MNV Zrt. a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek elhelyezését állami elhelyezési célú ingatlanokban biztosítja. Az állami elhelyezési célú ingatlanok üzemeltetéséről, továbbá az MNV Zrt. tulajdonosi joggyakorlása alatt álló állami elhelyezési célú ingatlanok állagának megóvásáról, karbantartásáról, beruházásainak és felújításainak előkészítéséről, illetve megvalósításáról – a központi költségvetés terhére – az MNV Zrt. gondoskodik.
 
-(2) Az MNV Zrt. az (1) bekezdés szerinti költségvetési szervek elhelyezése érdekében – egyoldalú nyilatkozatával – állami elhelyezési célú ingatlanhasználati jogviszonyt létesít, amely jogviszony nem minősül az Nvtv. 3. § (1) bekezdés 4. pontja szerinti hasznosításnak. Az MNV Zrt. kijelölő okiratot állít ki, amely alapján az (1) bekezdés szerinti költségvetési szerv köteles a kijelölő okiratban számára megjelölt ingatlant az abban megjelölt határidőben birtokba venni.
+(2) Az MNV Zrt. az (1) bekezdés szerinti költségvetési szervek elhelyezése érdekében egyoldalú nyilatkozatával – az (1) bekezdés szerinti költségvetési szervek igényének kielégítésére alkalmas, az MNV Zrt. által megfelelőnek ítélt ingatlanra vonatkozóan – állami elhelyezési célú ingatlanhasználati jogviszonyt létesít, amely jogviszony nem minősül az Nvtv. 3. § (1) bekezdés 4. pontja szerinti hasznosításnak. Az MNV Zrt. az elhelyezésről kijelölő okiratot állít ki, amely alapján az (1) bekezdés szerinti költségvetési szerv köteles az MNV Zrt. által választott, a kijelölő okiratban számára megjelölt ingatlant az abban megjelölt határidőben birtokba venni.
 
 (3) A kijelölő okirattal létrejövő állami elhelyezési célú ingatlanhasználati jogviszony keretében a kijelölő okiratban meghatározott (1) bekezdés szerinti költségvetési szerv az állami elhelyezési célú ingatlant díjfizetési kötelezettség nélkül jogosult használni az e törvényben és a végrehajtási rendeletében meghatározottak szerint. A központi költségvetési szerv közfeladat ellátására való tekintettel az állami elhelyezési célú ingatlanhasználati jogviszony nem minősül az általános forgalmi adóról szóló 2007. évi CXXVII. törvény szerinti gazdasági tevékenységnek.
 
@@ -633,7 +640,9 @@ lehet végezni.
 - n) ha társadalom-, fejlesztéspolitikai vagy egyéb szempontok szerinti közérdekű cél érdekében az adott ügylet megvalósítása kiemelten indokolt, és a Kormány erre figyelemmel nyilvános határozatban döntött a versenyeztetés mellőzéséről,
 - o) az országos közút melletti pihenő- és várakozóhelyeken 2011. december 31-ig megépült felépítményekre vonatkozó osztott tulajdon létesítése és földhasználati jog alapítása során lefolytatott értékesítési eljárás során,
 - p) zálogtárgy tulajdonjogának zálogjogosult által történő megszerzése esetén.
-- q) a 37. § (2) és (3) bekezdése alapján történő értékesítések esetén.
+- q) ha a 37. § (2) bekezdése szerinti értékesítéssel érintett ingatlan
+  - qa) a közvetlenül határos ingatlan tulajdonosa részére kerül értékesítésre, vagy
+  - qb) osztatlan közös tulajdonban álló védett természeti terület, amely földrészlet tekintetében az állam kisebbségi tulajdonostársnak minősül és olyan tulajdonostárstól érkezik a vételi ajánlat, aki az ajánlata megtételekor legalább három éve tulajdoni hányaddal rendelkezik,
 - r) hulladéknak nem minősülő vissznyereményi anyagok értékesítése esetén.
 
 (2a) Az állam tulajdonában álló pénzügyi eszköznek pénzügyi eszközre történő cseréje esetén a az Nvtv. 13. § (1) bekezdése szerinti versenyeztetési kötelezettségre vonatkozó rendelkezést nem kell alkalmazni.
@@ -697,12 +706,11 @@ lehet végezni.
 
 37. § (1) Az állami tulajdonban lévő védett természeti területek és értékek, műemlékingatlanok, műkincsek, valamint történeti (régészeti) emlékek és földterületek tulajdonjogának bármely jogcímen történő átruházására csak e védett vagyonra vonatkozó külön törvényben meghatározott esetekben és módon kerülhet sor.
 
-(2) Az MNV Zrt. tulajdonosi joggyakorlása alá tartozó, művelés alól kivett védett természeti terület értékesítésére akkor van lehetőség, ha
+(2) Az MNV Zrt. tulajdonosi joggyakorlása alá tartozó, művelés alól kivett védett természeti terület a természetvédelmi kezelésért felelős szerv előzetes jóváhagyásával értékesíthető, amelynek megadása során a természetvédelmi kezelésért felelős szerv meghatározza azokat a feltételeket, amelyekkel az ingatlan védettségi szintjének fenntartása az állami tulajdonból való kikerülése esetén is biztosítható. A tulajdonjogot megszerző fél a tulajdonjog-átruházási szerződésben kifejezetten vállalja a természetvédelmi kezelésért felelős szerv által meghatározott feltételek betartását, valamint vállalja, hogy a védett természeti terület fenntartásáról, hasznosításáról évente beszámolót készít a természetvédelmi kezelésért felelős szerv részére. A feltételek ingatlan tulajdonosa által történő folyamatos teljesítését a védett természeti terület természetvédelmi kezeléséért felelős szerv ellenőrzi.
 
-- a) az adott ingatlan közvetlenül határos azzal a magántulajdonban álló területtel, amelynek tulajdonosa a vételi ajánlatot benyújtotta az MNV Zrt. részére és
-- b) a védett természeti területek természetvédelmi kezeléséért felelős szerv az adott ingatlan tekintetében megállapította, hogy az ingatlan védettségi szintjének fenntartása annak állami tulajdonból való kikerülése esetén is biztosítható, és meghatározta ennek feltételeit.
+(3) A természetvédelmi kezelésért felelős szerv jóváhagyása a tulajdonjog átruházására vonatkozó szerződés megkötésének és a tulajdonjog ingatlan-nyilvántartásba történő bejegyzésének a feltétele.
 
-(3) Osztatlan közös tulajdonban álló védett természeti terület esetében az MNV Zrt. tulajdonosi joggyakorlása alá tartozó tulajdoni hányad értékesítésére akkor van lehetőség, ha a földrészlet tekintetében az állam kisebbségi tulajdonostársnak minősül és olyan tulajdonostárstól érkezik a vételi ajánlat, aki az ajánlata megtételekor legalább 3 éve tulajdoni hányaddal rendelkezik.
+(4) A (2) és (3) bekezdésben foglaltakat a védett természeti terület tulajdonjogának bármely jogcímen történő további átruházása esetén is alkalmazni kell.
 
 38. § (1) Központi költségvetési szerv vagyonkezelő – a feladatellátásához kapcsolódóan – jogosult a megbízási, vállalkozási vagy felhasználási jogviszony keretében részére előállított, az Nvtv. 11. § (6) bekezdése szerinti ingóságok tulajdonjogának ingyenes átruházására, ha azok egyedi, könyv szerinti bruttó értéke az ötvenezer forintot nem haladja meg.
 
@@ -730,7 +738,7 @@ lehet végezni.
 
 - a) az állam szükségképpeni törvényes öröklése útján állami tulajdonba kerülő vagyonelemek,
 - b) az 1. § (6a) bekezdése szerint, köztartozások fejében állami tulajdonba kerülő vagyonelemek,
-- c) az MNV Zrt. által – a tulajdonosi joggyakorlása alatt álló, általa közvetlenül hasznosított, kis értékű vagyonelemek köréből – kivezetésre szánt állami vagyonba tartozó vagyonnak minősített és az MVH részére átadott vagyonelemek, valamint
+- c) az MNV Zrt. által – a tulajdonosi joggyakorlása alatt álló, általa közvetlenül kezelt, kis értékű vagyonelemek köréből – kivezetésre szánt állami vagyonba tartozó vagyonnak minősített és az MVH részére átadott vagyonelemek, valamint
 - d) az államra öröklés útján átszállt, továbbá a köztartozások fejében átvett, az MNV Zrt. által az MVH részére átadott követelések.
 
 (2) Az (1) bekezdés c) pontja szerinti kis értékű vagyonelemnek minősül:
@@ -780,33 +788,31 @@ a vagyonelemet az a) és a c) pont szerinti esetben átadja, a b) pont szerinti 
 
 ### Az MNV Zrt. és az MVH közötti vagyonátadások
 
-42/D. § (1) Az MNV Zrt. a 42/A. § (1) bekezdés c) és d) pontja szerinti, kivezetésre szánt állami vagyonnak minősített vagyonelem adatait, az ahhoz kapcsolódó jogokra, terhekre és követelésekre vonatkozó információkkal együtt az érintett vagyonelem feletti tulajdonosi joggyakorlás átadása érdekében az e célra szolgáló informatikai rendszerbe (a továbbiakban: átadási felület) feltölti.
+42/D. § (1) Az MNV Zrt. folyamatosan vizsgálja az állami tulajdonba és a tulajdonosi joggyakorlása alá kerülő vagyonelemeket és az e törvény, valamint az e törvény végrehajtási rendeletében meghatározottak szerint kezdeményezi a vagyonelemek MVH tulajdonosi joggyakorlása alá kerülését, ha azok kivezetésre szánt állami vagyonnak minősülnek.
 
-(2) Az MNV Zrt. folyamatosan végzi az átadási felületre való feltöltést a kivezetésre szánt állami vagyonnak minősített vagyonelemek feletti tulajdonosi joggyakorlás átadása érdekében. A tárgyfélév végéig az (1) bekezdés szerint feltöltött vagyonelemek tulajdonosi joggyakorlása – e törvény erejénél fogva – a tárgyfélévet követő félév első napján száll át az MVH-ra, külön megállapodás megkötése vagy jegyzőkönyv felvétele nélkül. Az átadás a tárgyfélév utolsó napján érvényes záró nyilvántartási értéken történik.
+(2) Az MNV Zrt. a 42/A. § (1) bekezdés c) és d) pontja szerinti, kivezetésre szánt állami vagyonnak minősített vagyonelemeket az ahhoz kapcsolódó jogokkal, terhekkel és követelésekkel együtt – ingatlan-nyilvántartási átvezetésre is alkalmas – egyoldalú nyilatkozatával adja át az MVH részére.
 
-(3) A tulajdonosi joggyakorlás átszállásának napjával az érintett vagyonelemekkel kapcsolatos valamennyi jogviszonyba az MNV Zrt. helyébe jogutódként az MVH lép. Az érintett vagyonelemekkel kapcsolatos peres és nemperes eljárásokba az MVH az MNV Zrt. jogutódjaként belép.
+(3) A tárgyfélév utolsó napjáig a (2) bekezdés szerinti egyoldalú nyilatkozattal átadott vagyonelem tulajdonosi joggyakorlása – e törvény erejénél fogva – a tárgyfélévet követő félév első napján száll át az MVH-ra. A kivezetésre szánt állami vagyonnak minősített vagyonelemek MVH általi átvétele a tárgyfélév utolsó napján érvényes záró nyilvántartási értéken történik.
 
-(4) Az MVH – jogszabály eltérő rendelkezése hiányában – jogosult a tulajdonosi joggyakorlás átszállásától számított kilencven napon belül felmondani azokat a szerződéseket, amelyekbe a (3) bekezdés alapján jogutódként belépett.
+(4) A tulajdonosi joggyakorlás (3) bekezdés szerinti átszállásának napjával az érintett vagyonelemekkel kapcsolatos valamennyi jogviszonyba az MNV Zrt. helyébe jogutódként az MVH lép. Az érintett vagyonelemekkel kapcsolatos peres és nemperes eljárásokba az MVH az MNV Zrt. jogutódjaként belép.
 
-(5) Az MVH egyoldalú nyilatkozatát tartalmazó kérelemmel gondoskodik a tulajdonosi joggyakorló személyében bekövetkezett változás ingatlan-nyilvántartásban, valamint egyéb hatósági vagy jogszabály alapján vezetett nyilvántartásban történő átvezetéséről. Az MVH e jogszabályhelyre való hivatkozását tartalmazó egyoldalú nyilatkozata és az átadási felületen előállított – a tulajdonosi joggyakorlás átadásával érintett vagyonelemeket tartalmazó – dokumentum képezi a bejegyzés alapjául szolgáló okiratot.
+(5) Az MVH – jogszabály eltérő rendelkezése hiányában – jogosult a tulajdonosi joggyakorlás átszállásától számított kilencven napon belül felmondani azokat a szerződéseket, amelyekbe a (4) bekezdés alapján jogutódként belépett.
 
-42/E. § (1) A 42/B. § (2) bekezdés a) és c) pontja szerinti vagyonelem, valamint a 42/B. § (2) bekezdés b) pontja szerint felajánlott vagyonelem, amelyet az MNV Zrt. írásbeli nyilatkozatával állami vagyongazdálkodási feladatok ellátásához szükséges vagyonnak minősít, az ahhoz kapcsolódó jogokkal, terhekkel és követelésekkel együtt, e törvény erejénél fogva, az átadási felületen keresztül megvalósuló adatátadással az MNV Zrt. tulajdonosi joggyakorlása alá kerül.
+(6) Az MVH egyoldalú kérelmével gondoskodik a tulajdonosi joggyakorló személyében bekövetkezett változás ingatlan-nyilvántartásban, valamint egyéb hatósági vagy jogszabály alapján vezetett nyilvántartásban történő átvezetéséről. Az MNV Zrt. (2) bekezdés szerinti egyoldalú nyilatkozata képezi a bejegyzés alapjául szolgáló okiratot, amely tartalmazza a tulajdonosi joggyakorlás átadásával érintett vagyonelemeket.
 
-(2) Az MNV Zrt. (1) bekezdés szerinti minősítést tartalmazó írásbeli nyilatkozatának kézhezvételét követően, illetve a 42/B. § (2) bekezdés a) és c) pontjába tartozó vagyonelem esetén annak állami tulajdonba kerülését követően, az MVH feltölti az átadási felületre az érintett vagyonelem adatait.
+42/E. § (1) Az MVH tulajdonosi joggyakorlása alatt álló, 42/B. § (2) bekezdés a) és c) pontja szerinti vagyonelemeket, valamint a 42/B. § (2) bekezdés b) pontja szerint felajánlott vagyonelemet, amelyet az MNV Zrt. írásbeli nyilatkozatával állami vagyongazdálkodási feladatok ellátásához szükséges vagyonnak minősít, az ahhoz kapcsolódó jogokkal, terhekkel és követelésekkel együtt – ingatlan-nyilvántartási átvezetésre is alkalmas – egyoldalú nyilatkozattal adja át az MNV Zrt. részére.
 
-(3) Az MVH az állami vagyongazdálkodási feladatok ellátásához szükségesnek minősített vagyonelemek adatainak átadási felületre való feltöltését folyamatosan végzi.
+(2) A tárgyfélév utolsó napjáig az (1) bekezdés szerinti egyoldalú nyilatkozattal átadott vagyonelem tulajdonosi joggyakorlása – a törvény erejénél fogva – a tárgyfélévet követő félév első napján száll át az MNV Zrt.-re. Az (1) bekezdés szerint átadott vagyonelemek MNV Zrt. általi átvétele a tárgyfélév utolsó napján érvényes záró nyilvántartási értéken történik.
 
-(4) A tárgyfélév végéig a (2) bekezdés szerint az átadási felületre feltöltött vagyonelemek feletti tulajdonosi joggyakorlás a tárgyfélévet követő félév első napján száll át az MNV Zrt.-re, külön megállapodás megkötése vagy jegyzőkönyv felvétele nélkül. Az átadás a tárgyfélév utolsó napján érvényes záró nyilvántartási értéken történik.
+(3) A tulajdonosi joggyakorlás átszállásának napjával az érintett vagyonelemekkel kapcsolatos jogviszonyokba az MVH helyébe jogutódként az MNV Zrt. lép.
 
-(5) A tulajdonosi joggyakorlás átszállásának napjával az érintett vagyonelemekkel kapcsolatos jogviszonyokba az MVH helyébe jogutódként az MNV Zrt. lép.
+(4) Az MNV Zrt. – jogszabály eltérő rendelkezése hiányában – jogosult a tulajdonosi joggyakorlás átszállásától számított kilencven napon belül felmondani azokat a szerződéseket, amelyekbe a (3) bekezdés alapján jogutódként belépett.
 
-(6) Az MNV Zrt. – jogszabály eltérő rendelkezése hiányában – jogosult a tulajdonosi joggyakorlás átszállásától számított kilencven napon belül felmondani azokat a szerződéseket, amelyekbe az (5) bekezdés alapján jogutódként belépett.
+(5) Az MNV Zrt. egyoldalú kérelmével gondoskodik a tulajdonosi joggyakorló személyében bekövetkezett változás ingatlan-nyilvántartásban, valamint egyéb hatósági vagy jogszabály alapján vezetett nyilvántartásban történő átvezetéséről. Az MVH (1) bekezdés szerinti egyoldalú nyilatkozata képezi a bejegyzés alapjául szolgáló okiratot, amely tartalmazza a tulajdonosi joggyakorlás átadásával érintett vagyonelemeket.
 
-(7) Az MNV Zrt. egyoldalú nyilatkozatát tartalmazó kérelemmel gondoskodik a tulajdonosi joggyakorló személyében bekövetkezett változás ingatlan-nyilvántartásban, valamint egyéb hatósági vagy jogszabály alapján vezetett nyilvántartásban történő átvezetéséről. Az MNV Zrt. e jogszabályhelyre való hivatkozását tartalmazó egyoldalú nyilatkozata és az átadási felületen előállított – a tulajdonosi joggyakorlás átadásával érintett vagyonelemeket tartalmazó – dokumentum képezi a bejegyzés alapjául szolgáló okiratot.
+42/F. § (1) Ha vagyongazdálkodási célok megvalósítása érdekében indokolt, a 42/D. §-ban és a 42/E. §-ban meghatározott vagyonátadások helyett az MNV Zrt. eseti egyoldalú nyilatkozattal is rendelkezhet valamely vagyonelem tulajdonosi joggyakorlásának átadásáról vagy átvételéről.
 
-42/F. § (1) Ha vagyongazdálkodási célok megvalósítása érdekében indokolt, a 42/D. §-ban és a 42/E. §-ban meghatározott vagyonátadások helyett az MNV Zrt. egyoldalú nyilatkozattal rendelkezhet valamely vagyonelem tulajdonosi joggyakorlásának átadásáról vagy átvételéről.
-
-(2) Az (1) bekezdés szerinti esetben a tulajdonosi joggyakorlás az érintett vagyonelemre vonatkozó adatok átadási felületre történő feltöltésének napján az átadás napján érvényes nyilvántartási értéken száll át az átvevőre azzal, hogy az átadás tekintetében a 42/D. § (3)–(5) bekezdésében és a 42/E. § (5)–(7) bekezdésében foglaltakat alkalmazni kell.
+(2) Az (1) bekezdés szerinti esetben a tulajdonosi joggyakorlás az érintett vagyonelemre vonatkozó eseti egyoldalú nyilatkozat kiállításának napján, az azon a napon érvényes nyilvántartási értéken száll át az átvevőre azzal, hogy az átadás tekintetében a 42/D. § (4)–(6) bekezdésében és a 42/E. § (3)–(5) bekezdésében foglaltakat alkalmazni kell.
 
 ### A kivezetésre szánt állami vagyonnal való gazdálkodás
 
@@ -924,7 +930,7 @@ részére.
 (2) Az MVH – az (1) bekezdéstől eltérően – az Nvtv. 7. § (3) bekezdésében meghatározott vagyongazdálkodási célok megvalósítása érdekében a kivezetésre szánt állami vagyon körébe tartozó
 
 - a) osztatlan közös tulajdonban álló ingatlan állami tulajdoni hányadát a tulajdonostárs részére ingyenesen átruházhatja, ha az állam kisebbségi tulajdonostársnak minősül és az állami tulajdonban álló ingatlanhányad értéke nem éri el az e törvény végrehajtási rendeletében meghatározott nyilvántartási értéket;
-- b) beépítésre és önmagában hasznosításra nem alkalmas önálló ingatlanok tulajdonjogát, az érintett ingatlannal közvetlenül határos magántulajdonban álló ingatlan tulajdonosa részére ingyenesen átruházhatja, ha az ingatlan értéke nem éri el az e törvény végrehajtási rendeletében meghatározott nyilvántartási értéket;
+- b) beépítésre és önmagában hasznosításra nem alkalmas önálló, így különösen a kisajátításból visszamaradt ingatlanok tulajdonjogát, az érintett ingatlannal közvetlenül határos magántulajdonban álló ingatlan tulajdonosa vagy az ingatlan fekvése szerinti településen ingatlantulajdonnal rendelkező személy részére ingyenesen átruházhatja, ha az ingatlan értéke nem éri el az e törvény végrehajtási rendeletében meghatározott nyilvántartási értéket;
 - c) földhasználati joggal terhelt ingatlant a földhasználati jog jogosultja részére ingyenesen átruházhatja, ha az ingatlan értéke nem éri el az e törvény végrehajtási rendeletében meghatározott nyilvántartási értéket;
 - d) társasági részesedést a társaság vagy a társaság tagja részére ingyenesen átruházhatja, ha az állam kisebbségi társasági részesedés tulajdonosa, és az állami tulajdonban álló társasági részesedés értéke nem éri el az e törvény végrehajtási rendeletében meghatározott nyilvántartási értéket;
 - e) hagyatékból származó állami tulajdonú ingatlanban lévő ingóság tulajdonjogát ingyenesen átruházhatja az ingatlanban bejelentett lakóhellyel rendelkező, vagy huzamos ideje, életvitelszerűen az ingatlanban tartózkodó személy, vagy – közös tulajdonban álló ingóság esetén – a tulajdonostárs részére, ha az ingóság egyedi értéke nem éri el az e törvény végrehajtási rendeletében meghatározott nyilvántartási értéket.
@@ -1264,25 +1270,11 @@ lép.
 
 (2) A 22/C. § (4) bekezdése szerinti kötelezettségének a tulajdonosi joggyakorló az egyes állami tulajdonú vagyontárgyak ingyenes tulajdonba adásáról, valamint az állami vagyonról szóló 2007. évi CVI. törvény módosításáról szóló 2020. évi CXXII. törvény hatálybalépését követő 30 napon belül tesz eleget.
 
-69/E. § (1) A 2021. december 31. napján az MNV Zrt. tulajdonosi joggyakorlása alatt álló, általa közvetlenül hasznosított, kivezetésre szánt állami vagyonnak minősített vagyonelemek az azokhoz kapcsolódó jogokkal, terhekkel és követelésekkel együtt e törvény erejénél fogva, nyilvántartási értéken, 2022. január 1. napjával a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság (a továbbiakban: MVH) tulajdonosi joggyakorlása alá kerülnek.
+#### 69/E. §
 
-(2) A vagyonelemek átadására az átadási felület szolgál, külön megállapodás megkötése vagy jegyzőkönyv felvétele nem szükséges. Az MNV Zrt. 2021. december 31-ig gondoskodik az általa kivezetésre szánt állami vagyonnak minősített vagyonelemek, az azokhoz kapcsolódó jogok, terhek és követelések, valamint az MNV Zrt.-re öröklés útján átszállt vagy az 1. § (6a) bekezdése alapján az MNV Zrt. által 2022. január 1-je előtt átvett követelések adatainak átadási felületre történő feltöltéséről.
+#### 69/F. §
 
-(3) A számviteli nyilvántartások rendezése céljából az MNV Zrt. legkésőbb 2022. június 30. napjáig számviteli szempontból átadja az MVH részére a kivezetésre szánt állami vagyonnak minősített vagyon körébe tartozó vagyonelemeket.
-
-(4) Az MNV Zrt. és az MVH 2022. január 1. napjára visszamenőlegesen, a 2022. június 30. napjáig végrehajtott átadásról az államháztartásról szóló 2011. évi CXCV. törvény 70. alcím szerinti adatszolgáltatási kötelezettségnek a 2022. szeptember hónapot és a 2022. harmadik negyedévet érintő adatszolgáltatás keretében köteles eleget tenni.
-
-(5) Az (1) bekezdés szerinti tulajdonosi joggyakorlás átszállásának napjával az érintett vagyonelemekkel kapcsolatos valamennyi jogviszonyba az MNV Zrt. helyébe jogutódként az MVH lép. Az érintett vagyonelemekkel kapcsolatos peres és nemperes eljárásokba az MVH az MNV Zrt. jogutódjaként belép.
-
-(6) Az MVH – jogszabály eltérő rendelkezése hiányában – jogosult a tulajdonosi joggyakorlás átszállásától számított kilencven napon belül felmondani azokat a szerződéseket, amelyekbe az (5) bekezdés alapján jogutódként belépett.
-
-(7) Az MVH egyoldalú nyilatkozatát tartalmazó kérelemmel gondoskodik a tulajdonosi joggyakorló személyében bekövetkezett változás ingatlan-nyilvántartásban, valamint egyéb hatósági vagy jogszabály alapján vezetett nyilvántartásban történő átvezetéséről. Az MVH e jogszabályhelyre való hivatkozását tartalmazó egyoldalú nyilatkozata és az átadási felületen előállított – a tulajdonosi joggyakorlás átadásával érintett vagyonelemeket tartalmazó – dokumentum képezi a bejegyzés alapjául szolgáló okiratot.
-
-69/F. § (1) 2022. január 1. napján az MNV Zrt. az MVH részére átadja a kezelésében lévő fejezeti kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében átvett vagyonelemeket, ideértve a vagyonelemként átvett követeléseket is.
-
-(2) A vagyonelemek átadására az átadási felület szolgál, külön megállapodás megkötése vagy jegyzőkönyv felvétele nem szükséges.
-
-(3) Az (1) bekezdés szerint átvett vagyonelemek tekintetében a 69/E. § (5)–(7) bekezdésében foglaltak alkalmazandóak.
+69/G. § A 2022. december 31. napjáig az átadási felületre feltöltött vagyonelemek tekintetében folyamatban lévő átadási eljárásokra az e törvénynek az egyes gazdasági tárgyú törvények, valamint egyes vagyongazdálkodást és postaügyet érintő törvények módosításáról szóló 2022. évi LXVIII. törvény hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
 
 70. § (1) E törvény alkalmazásában közeli hozzátartozónak a Ptk. 8:1. § (1) bekezdés 1. pontjában meghatározott személyek minősülnek.
 

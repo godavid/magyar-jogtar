@@ -129,7 +129,7 @@ az e törvény által meghatározott összeg előlegezhető meg.
 - j) a kérelmező nyilatkozatait,
 - k) a munkavállaló nevét, születési nevét, anyja nevét, születési helyét és idejét, társadalombiztosítási azonosító jelét, adóazonosító jelét, lakcímét, munkaviszonyának kezdetét, bankszámlaszámát, számlavezető bank nevét, számlatulajdonos nevét;
 - l) a munkavállaló elmaradt bérére vonatkozó adatokat
-- m) a munkavállaló elmaradt bérének a Gazdaságvédelmi Foglalkoztatási Alap bérgarancia alaprészéből igényelhető összegére vonatkozó adatokat.
+- m) a munkavállaló elmaradt bérének az Alap bérgarancia alaprészéből igényelhető összegére vonatkozó adatokat.
 
 4. § (1) Az általános közigazgatási rendtartásról szóló törvény szabályait az e törvényben meghatározott hatósági ügyben az e §-ban, valamint a 4/A–4/C. §-ban foglalt szabályok figyelembevételével kell alkalmazni.
 
@@ -225,7 +225,7 @@ az e törvény által meghatározott összeg előlegezhető meg.
 - i) a kölcsönvevő vagy a szolgáltatás igénybe vevőjének azonosító adatait, az utolsó ismert pénzforgalmi számlaszámát, a számlavezető pénzforgalmi szolgáltató utolsó ismert megnevezését, címét, valamint a felszámolás kezdő időpontját,
 - j) a kölcsönvevő vagy a szolgáltatást igénybevevő felszámolójának azonosító adatait és elérhetőségeit,
 - k) a munkavállaló, az iskolaszövetkezet, kisgyermekkel otthon lévők szövetkezete vagy a nyugdíjas szövetkezet tagjának nevét, születési nevét, anyja nevét, születési helyét és idejét, társadalombiztosítási azonosító jelét, adóazonosító jelét, lakcímét, a kölcsönzés vagy a szolgáltatás nyújtás időszakát, munkakörét vagy feladatát,
-- l) az elmaradt kölcsönzési díjra vagy szolgáltatási díjra vonatkozó adatokat, a támogatásnak a Gazdaságvédelmi Foglalkoztatási Alap bérgarancia alaprészéből igényelhető összegét.
+- l) az elmaradt kölcsönzési díjra vagy szolgáltatási díjra vonatkozó adatokat, a támogatásnak az Alap bérgarancia alaprészéből igényelhető összegét.
 
 (2) A kölcsönbeadó, illetve az iskolaszövetkezet, kisgyermekkel otthon lévők szövetkezete, nyugdíjas szövetkezet az (1) és (1a) bekezdés szerinti kérelmet a magyarországi szokásos munkavégzési hellyel rendelkező azon munkavállalója tekintetében terjesztheti elő, akire nézve nem áll fenn a 2. § (2) bekezdés b) vagy c) pontja szerinti kizáró ok.
 

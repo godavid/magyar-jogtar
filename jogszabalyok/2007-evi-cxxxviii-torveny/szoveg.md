@@ -344,9 +344,13 @@ használnak,
 - 105.
 - 106.
 
-## MÁSODIK RÉSZ — A BEFEKTETÉSI VÁLLALKOZÁSÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ MŰKÖDÉSÉNEK MEGKEZDÉSE
+## MÁSODIK RÉSZ — A BEFEKTETÉSI VÁLLALKOZÁS
 
-### III. Fejezet — A BEFEKTETÉSI SZOLGÁLTATÁSI TEVÉKENYSÉG ÉS A KIEGÉSZÍTŐ SZOLGÁLTATÁS
+ÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ MŰKÖDÉSÉNEK MEGKEZDÉSE
+
+### III. Fejezet — A BEFEKTETÉSI SZOLGÁLTATÁSI TEVÉKENYSÉG
+
+ÉS A KIEGÉSZÍTŐ SZOLGÁLTATÁS
 
 5. § (1) Befektetési szolgáltatási tevékenységnek minősül a rendszeres gazdasági tevékenység keretében, pénzügyi eszközre vonatkozóan végzett
 
@@ -386,7 +390,7 @@ használnak,
 - k) egyéb, az a)–j) pontban nem említett eszközhöz, joghoz, kötelezettséghez, indexhez, intézkedéshez kapcsolódó származtatott ügylet, amely rendelkezik a többi származtatott eszköz valamelyikének jellemzőivel, ideértve azt, hogy valamely szabályozott piacon vagy multilaterális kereskedési rendszerben kereskednek vele, valamint a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 8. cikkében meghatározott származtatott ügylet,
 - l) az üvegházhatású gáz kibocsátási egység és a légszennyező anyag kibocsátási jog, amely olyan részegységekből áll, amelyek az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény előírásainak megfelelnek.
 
-6/A. §
+#### 6/A. §
 
 7. § (1) Befektetési szolgáltatási tevékenységet – ha e törvény eltérően nem rendelkezik – csak befektetési vállalkozás és hitelintézet végezhet.
 
@@ -475,7 +479,9 @@ teljesítése esetén nyújtható.
 
 (3) Az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról szóló 2003/87/EK európai parlamenti és tanácsi irányelv alapján az üvegházhatást okozó gázok kibocsátási egységei árverés útján történő értékesítésének időbeli ütemezéséről, lebonyolításáról és egyéb vonatkozásairól szóló 1031/2010/EU bizottsági rendelet (a továbbiakban: 1031/2010/EU bizottsági rendelet) 18. cikk (2) és (3) bekezdésében hivatkozott személyek ezen cikkek alapján ajánlatot tenni kizárólag a Felügyelet e törvény 9. § (1) bekezdés a) és b) pontjában meghatározott tevékenységnek a 9. § (2) bekezdés b) pontjában meghatározott eszközre vonatkozó árutőzsdei szolgáltatás nyújtására irányuló engedélye alapján jogosultak.
 
-### IV. Fejezet — A BEFEKTETÉSI VÁLLALKOZÁSÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ MŰKÖDÉSÉNEK TÁRGYI ÉS TECHNIKAI FELTÉTELEI
+### IV. Fejezet — A BEFEKTETÉSI VÁLLALKOZÁS
+
+ÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ MŰKÖDÉSÉNEK TÁRGYI ÉS TECHNIKAI FELTÉTELEI
 
 ### Az informatikai rendszer
 
@@ -879,7 +885,7 @@ tisztségviselőként vagy alkalmazottként befektetési vagy pénzügyi szakter
 
 ### Személyi összeférhetetlenség
 
-25. §
+#### 25. §
 
 26. § (1) A befektetési vállalkozásnál a vezető állású személy, az alkalmazott vagy a munkavégzésre irányuló egyéb jogviszony keretében foglalkoztatott személy által folytatható gazdasági tevékenység feltételeit és nyilvántartásának módját a befektetési vállalkozás szabályzatban határozza meg.
 
@@ -1442,7 +1448,7 @@ akkor a Felügyelet a 171. §-ban foglaltak szerinti konzultációt folytat a be
 
 41/A. § (1) A 40. § (5) bekezdés c) pontjában megállapított követelmények a befektetési tanácsadás és portfóliókezelési szolgáltatás kivételével nem alkalmazandók a szakmai ügyfelek részére nyújtott szolgáltatásokra.
 
-(2) A 44. § (1b) és (3)–(5) bekezdésében, valamint a 67. §-ban és 69. §-ban megállapított követelmények nem alkalmazandók a szakmai ügyfelek részére nyújtott szolgáltatásokra, kivéve, ha a szakmai ügyfél elektronikus formátumban vagy papíron arról tájékoztatja a befektetési vállalkozást, hogy élni kíván a 44. § (1b) és (3)–(5) bekezdésében, valamint a 67. §-ban és 69. §-ban biztosított jogokkal.
+(2) A 44. § (1b) és (3)–(5) bekezdésében, valamint a 67. §-ban, 69. §-ban és 69/A. §-ban megállapított követelmények nem alkalmazandók a szakmai ügyfelek részére nyújtott szolgáltatásokra, kivéve, ha a szakmai ügyfél elektronikus formátumban vagy papíron arról tájékoztatja a befektetési vállalkozást, hogy élni kíván a 44. § (1b) és (3)–(5) bekezdésében, valamint a 67. §-ban, 69. §-ban és 69/A. §-ban biztosított jogokkal.
 
 (3) A befektetési vállalkozás nyilvántartást vezet az ügyfelek (2) bekezdés szerint tett nyilatkozatairól.
 
@@ -1634,7 +1640,7 @@ amely a befektetési vállalkozás és az ügyfél között létrejövő szerző
 
 (3) A befektetési vállalkozás az ügyfél azonosítására nem használhat olyan utalást vagy jelzést, amely alkalmas az ügyfél személyének elfedésére vagy megnehezíti annak azonosítását.
 
-53. §
+#### 53. §
 
 ### A szerződéskötés megtagadása
 
@@ -1672,7 +1678,7 @@ amely a befektetési vállalkozás és az ügyfél között létrejövő szerző
 
 (10) A (4)–(9) bekezdésben előírt rendelkezéseket a befektetési vállalkozás a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 76. cikkében meghatározott előírások figyelembevételével teljesíti azzal, hogy a nyilvántartásban szereplő adatokat öt évig – illetve amennyiben azt a Felügyelet előírja, legfeljebb hét évig – megőrzi, és a megőrzött felvételeket az érintett ügyfeleknek kérésre átadja.
 
-56. §
+#### 56. §
 
 ### Az ügyfél pénzügyi eszközeinek és pénzeszközeinek kezelése
 
@@ -1794,7 +1800,7 @@ helyezi el.
 
 ### XIII. Fejezet — A SZERZŐDÉS TELJESÍTÉSE ÉS A MEGBÍZÁS VÉGREHAJTÁSA
 
-61. §
+#### 61. §
 
 ### A megbízás ügyfél számára legkedvezőbb végrehajtása
 
@@ -1835,7 +1841,9 @@ helyezi el.
 
 (6) Az ügyfélmegbízásokat végrehajtó befektetési vállalkozás figyelemmel kíséri a végrehajtási politika hatékonyságát annak érdekében, hogy az esetleges hiányosságokat azonosítsa, és adott esetben orvosolja. Rendszeresen értékeli, hogy a végrehajtási politikában foglalt végrehajtási helyszínek a legjobb eredményt biztosítják-e az ügyfél számára, illetve hogy meg kell-e változtatnia a megbízások végrehajtására vonatkozó szabályait, tekintetbe véve többek között az (5) bekezdés és a 62. § (8) bekezdése szerint közzétett tájékoztatást is. A befektetési vállalkozás értesíti azon ügyfeleit a megbízások végrehajtására vonatkozó szabályai vagy végrehajtási politikája bármely lényeges változásáról, akikkel az adott időpontban ügyfélkapcsolatban áll.
 
-### Az ügyfelek megbízásainak kezelése és az allokáció szabályai
+### Az ügyfelek megbízásainak kezelése
+
+és az allokáció szabályai
 
 64. § (1) Az a befektetési vállalkozás, amely az 5. § (1) bekezdésének b) pontjában meghatározott tevékenységet végez, az ügyfél által adott megbízás végrehajtása során
 
@@ -1940,15 +1948,15 @@ kell mérni.
 
 (4) Az egyes pénzügyi eszközök tekintetében egy befektetési vállalkozás rendszeres internalizálónak a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 12–17. cikkében meghatározott feltételek esetén minősül. Az a befektetési vállalkozás, amely rendszeres internalizálónak minősül, ezt bejelenti a Felügyeletnek.
 
-74. §
+#### 74. §
 
-75. §
+#### 75. §
 
 ### A befektetési elemzés
 
 76. § Ha a befektetési vállalkozás befektetési elemzést végez, a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 36. és 37. cikkében meghatározott rendelkezéseknek megfelelően jár el.
 
-77. §
+#### 77. §
 
 ### A befektetési hitelezés
 
@@ -2028,9 +2036,13 @@ kell mérni.
 
 (4) Ha a befektetési vállalkozás és a kiszervezett tevékenységet végző személy vagy szervezet ugyanazon csoport tagja, e fejezet rendelkezéseinek történő megfelelés céljából a befektetési vállalkozás figyelembe veheti az általa a kiszervezett tevékenységet végzőre gyakorolt ellenőrzés és befolyás mértékét.
 
-## ÖTÖDIK RÉSZ — AZ ÁRUTŐZSDEI SZOLGÁLTATÁS SZABÁLYAI
+## ÖTÖDIK RÉSZ — AZ ÁRUTŐZSDEI SZOLGÁLTATÁS
 
-### XVI. Fejezet — A SZERZŐDÉSKÖTÉS SZABÁLYAI ÉS A KAPCSOLÓDÓ NYILVÁNTARTÁSI KÖTELEZETTSÉGEK
+SZABÁLYAI
+
+### XVI. Fejezet — A SZERZŐDÉSKÖTÉS SZABÁLYAI
+
+ÉS A KAPCSOLÓDÓ NYILVÁNTARTÁSI KÖTELEZETTSÉGEK
 
 ### A szerződéskötést megelőző tájékoztatási kötelezettség
 
@@ -2059,7 +2071,9 @@ kell mérni.
 
 83. § Az árutőzsdei szolgáltató a 82. §-ban foglalt kötelezettségét írásban – ha az ügyféllel kötött megállapodása ettől eltérően nem rendelkezik – magyar nyelven, világos és közérthető formában, a magyar nyelv szabályainak megfelelő formában teljesíti.
 
-### A szerződéskötést megelőző tájékozódási kötelezettség
+### A szerződéskötést megelőző tájékozódási
+
+kötelezettség
 
 84. § Az árutőzsdei szolgáltató az árutőzsdei szolgáltatása keretében, a szerződéskötést megelőzően tájékozódik a leendő szerződő félnek az árutőzsdei szolgáltatás tárgyát képező eszközzel, a szerződésben szereplő ügylettel, ezen ügyletek kockázataival kapcsolatos ismereteiről, valamint a teherviselő képességéről (megfelelési teszt).
 
@@ -2074,11 +2088,15 @@ kell mérni.
 
 (2) Az árutőzsdei szolgáltató haladéktalanul bejelenti a Felügyeletnek, ha a szerződéskötést vagy a megbízás végrehajtását az (1) bekezdés a) pontja alapján megtagadta.
 
-### A szerződéshez kapcsolódó nyilvántartásikötelezettségek
+### A szerződéshez kapcsolódó nyilvántartási
+
+kötelezettségek
 
 86. § Az árutőzsdei szolgáltató az 55. §-ban foglaltak szerinti nyilvántartást vezet és a nyilvántartásában szereplő adatokat a szerződés teljesítésétől, illetve annak megszűnésétől számított öt évig megőrzi.
 
-### Az ügyfelek eszközeinek és pénzeszközeinekkezelése
+### Az ügyfelek eszközeinek és pénzeszközeinek
+
+kezelése
 
 87. § (1) Az árutőzsdei szolgáltató az árutőzsdei szolgáltatása keretében az ügyfél tulajdonában lévő vagy őt megillető, árutőzsdei szolgáltatás tárgyát képező eszközök és pénzeszközök kezelése során az 57. §-ban foglaltak szerint jár el.
 
@@ -2086,7 +2104,9 @@ kell mérni.
 
 ### XVII. Fejezet — A MEGBÍZÁS VÉGREHAJTÁSA
 
-### Az ügyfelek megbízásainak kezeléseés az allokáció
+### Az ügyfelek megbízásainak kezelése
+
+és az allokáció
 
 88. § (1) Az árutőzsdei szolgáltató az ügyfél megbízásának végrehajtása során az üzletszabályzat és az ügyfél utasításának megfelelően jár el.
 
@@ -2108,7 +2128,9 @@ kell mérni.
 
 91. § Az árutőzsdei szolgáltató az árutőzsdei szolgáltatása keretében az ügyfél tulajdonában lévő vagy őt megillető, árutőzsdei szolgáltatás tárgyát képező eszközről és pénzeszközről legalább évente, a 69. §-ban foglalt tartalommal jelentést készít és írásban – kivéve ha az árutőzsdei szolgáltató és az ügyfél közötti szerződés vagy az üzletszabályzat eltérően rendelkezik – az ügyfél rendelkezésére bocsátja.
 
-### Az árutőzsdei szolgáltató tevékenységénekkiszervezése
+### Az árutőzsdei szolgáltató tevékenységének
+
+kiszervezése
 
 92. § (1) Az árutőzsdei szolgáltató – figyelemmel a (2) bekezdésben foglaltakra – a 9. § (1) bekezdésében meghatározott tevékenységét vagy bármely e törvény hatálya alá nem tartozó tevékenységét vagy szolgáltatását kiszervezheti.
 
@@ -2124,7 +2146,11 @@ kell mérni.
 
 kell érteni.
 
-## HATODIK RÉSZ — A BEFEKTETÉSI VÁLLALKOZÁS ÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ MŰKÖDÉSE
+## HATODIK RÉSZ — A BEFEKTETÉSI VÁLLALKOZÁS
+
+ÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ
+
+MŰKÖDÉSE
 
 ### XIX. Fejezet — FELELŐSSÉGI SZABÁLYOK
 
@@ -2141,7 +2167,9 @@ felelős azzal, hogy egyúttal biztosítja a működéshez és a tevékenység v
 
 (3) A (2) bekezdésben meghatározott aláírási és cégjegyzési jog – a befektetési vállalkozás vagy az árutőzsdei szolgáltató létesítő okirata szerint – együttes aláírási jogosultságként írásban átruházható.
 
-### A jogszabályoknak és szabályzatoknak történő megfelelés
+### A jogszabályoknak és szabályzatoknak történő
+
+megfelelés
 
 95. § A befektetési vállalkozás mindenkor megfelel a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 22. cikkében foglalt követelményeknek.
 
@@ -2251,7 +2279,7 @@ felelős azzal, hogy egyúttal biztosítja a működéshez és a tevékenység v
 
 (9) A Felügyelet kötelezi a befektetési vállalkozást, hogy amennyiben annak felszámolása vagy a tevékenységével történő felhagyás szükséges – üzleti modellje és stratégiája életképességét és fenntarthatóságát figyelembe véve –, reális követelményekkel és erőforrásokkal számoljon mind az időtávot, mind pedig a szavatoló tőke és a likvid erőforrások fenntartását illetően, a piacról való kivonulás teljes folyamata során.
 
-101/A. §
+#### 101/A. §
 
 ### Helyreállítási terv
 
@@ -2312,7 +2340,9 @@ azzal, hogy döntéséről két munkanapon belül tájékoztatja a Felügyeletet
 
 ### Kereskedési könyv
 
-103–104. §
+#### 103. §
+
+#### 104. §
 
 ### A befektetési vállalkozás működésére vonatkozó alapvető prudenciális előírások
 
@@ -2326,7 +2356,7 @@ azzal, hogy döntéséről két munkanapon belül tájékoztatja a Felügyeletet
 
 (5)
 
-105/A. §
+#### 105/A. §
 
 106. § (1) A befektetési vállalkozás megbízható, hatékony és átfogó stratégiával és eljárással rendelkezik ahhoz, hogy az általa végzett befektetési szolgáltatási tevékenysége és kiegészítő szolgáltatása kapcsán, valamint a működése során vállalt, illetve felmerülő kockázatai fedezetéhez szükséges szavatoló tőke és likvid eszközök mértékét és összegét meghatározza és folyamatosan fenntartsa.
 
@@ -2354,11 +2384,13 @@ azzal, hogy döntéséről két munkanapon belül tájékoztatja a Felügyeletet
 
 (4) A Felügyelet haladéktalanul köteles az (1) bekezdés szerinti határozatát visszavonni, ha a befektetési vállalkozás eszközeinek értéke a döntést megelőző 12 hónap átlagában, összevont alapon számított 5 milliárd eurót nem haladja meg.
 
-### A vezető állású személyek, alkalmazottak és egyéb érintett személyek saját ügyletei
+### A vezető állású személyek, alkalmazottak
+
+és egyéb érintett személyek saját ügyletei
 
 108. § A befektetési vállalkozással összefüggésben a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 2. cikk 1. pontjában meghatározott releváns személy a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 28. cikkében meghatározott személyes ügyleteire a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 29. cikkében meghatározott rendelkezéseket alkalmazza.
 
-109. §
+#### 109. §
 
 ### Összeférhetetlenség
 
@@ -2373,29 +2405,29 @@ a befektetési és kiegészítő szolgáltatások vagy ezek kombinációi nyújt
 
 ### XX/A. Fejezet
 
-110/A. §
+#### 110/A. §
 
-110/B. §
+#### 110/B. §
 
-110/C. §
+#### 110/C. §
 
-110/D. §
+#### 110/D. §
 
-110/E. §
+#### 110/E. §
 
-110/F. §
+#### 110/F. §
 
-110/G. §
+#### 110/G. §
 
-110/H. §
+#### 110/H. §
 
-110/I. §
+#### 110/I. §
 
-110/J. §
+#### 110/J. §
 
-110/K. §
+#### 110/K. §
 
-110/L. §
+#### 110/L. §
 
 ### XX/B. Fejezet — CSOPORTON BELÜLI PÉNZÜGYI TÁMOGATÁS
 
@@ -2480,7 +2512,9 @@ rendelkezhet.
 
 (4) A Felügyelet döntéséről értesíti a támogatásban részes fél hatáskörrel rendelkező felügyeleti hatóságát, EU-szintű befektetési vállalkozás anyavállalat felügyeleti hatóságát, valamint az EBH-t.
 
-### XXI. Fejezet — A BEFEKTETÉSI VÁLLALKOZÁSÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ TEVÉKENYSÉGÉVEL ÖSSZEFÜGGŐ EGYÉB KÜLÖNLEGES SZABÁLYOK
+### XXI. Fejezet — A BEFEKTETÉSI VÁLLALKOZÁS
+
+ÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ TEVÉKENYSÉGÉVEL ÖSSZEFÜGGŐ EGYÉB KÜLÖNLEGES SZABÁLYOK
 
 ### A közvetítőre és a közvetítő igénybevételére vonatkozó szabályok
 
@@ -2873,7 +2907,11 @@ legalább naponta rendelkezésre bocsátja az általa, ügyfelei által, valamin
 
 (2) Az Aktv. 43/H. §-a szerinti adatszolgáltatásról az intézmény a Számlatulajdonost az adatszolgáltatás teljesítésétől számított 30 napon belül írásban – ha az lehetséges elektronikus úton – tájékoztatja.
 
-### XXII. Fejezet — A BEFEKTETÉSI VÁLLALKOZÁSÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ JOGUTÓD NÉLKÜLI MEGSZŰNÉSE ÉS AZ ÁLLOMÁNY-ÁTRUHÁZÁS
+### XXII. Fejezet — A BEFEKTETÉSI VÁLLALKOZÁS
+
+ÉS AZ ÁRUTŐZSDEI SZOLGÁLTATÓ JOGUTÓD NÉLKÜLI MEGSZŰNÉSE
+
+ÉS AZ ÁLLOMÁNY-ÁTRUHÁZÁS
 
 ### A jogutód nélküli megszűnésre vonatkozó általános szabályok
 
@@ -3249,7 +3287,7 @@ feltárására.
 - a) a tudomásszerzést követően haladéktalanul bejelenti a Felügyeletnek, ha az (1) bekezdésben meghatározott vizsgálata során a (2) bekezdésben meghatározott szabálytalanságot tapasztal, és
 - b) a multilaterális kereskedési rendszerben tapasztalt vagy annak segítségével megvalósított (2) bekezdés b) pontjában foglalt bennfentes kereskedelem esetén késedelem nélkül adatot szolgáltat a piaci visszaélések vizsgálatában és az ezzel kapcsolatos felelősségre vonásban hatáskörrel rendelkező hatóság részére, és együttműködik vele.
 
-154. §
+#### 154. §
 
 ### XXV/A. Fejezet — A KKV-TŐKEFINANSZÍROZÁSI PIAC
 
@@ -3339,27 +3377,27 @@ vonatkozó rendelkezések alkalmazandók.
 
 (3) Az adatszolgáltatási tevékenység engedélyezésének, az engedély visszavonásának és az adatszolgáltatók működésének részletes feltételeit a 600/2014/EU európai parlamenti és tanácsi rendelet tartalmazza.
 
-154/I. §
+#### 154/I. §
 
-154/J. §
+#### 154/J. §
 
 ### Az APA-ra vonatkozó feltételek
 
-154/K. §
+#### 154/K. §
 
-154/L. §
+#### 154/L. §
 
 ### A CTP-re vonatkozó feltételek
 
-154/M. §
+#### 154/M. §
 
-154/N. §
+#### 154/N. §
 
-154/O. §
+#### 154/O. §
 
 ### Az ARM-re vonatkozó feltételek
 
-154/P. §
+#### 154/P. §
 
 ## NYOLCADIK RÉSZ — A FELÜGYELÉS ÉS A FOGYASZTÓKKAL SZEMBENI KERESKEDELMI GYAKORLATRA VONATKOZÓ RENDELKEZÉSEK ÉRVÉNYESÍTÉSÉNEK SZABÁLYAI
 
@@ -3444,7 +3482,7 @@ többek között a vonatkozó adatok egymással való megosztásával, az egysé
 - a) a területén vagy külföldön található vagy működő személyek által tartott azon pozíciók, amelyek túllépik azokat a mezőgazdasági árualapú származtatott termékekre és a kritikus vagy jelentős árualapú származtatott termékekre vonatkozó limiteket, amelyeket a Felügyelet állapított meg a területén található vagy működő kereskedési helyszíneken kereskedett termékek vagy az azokkal gazdaságilag egyenértékű, tőzsdén kívüli (OTC) árualapú származtatott ügyletek tekintetében;
 - b) a területén található vagy működő személyek által tartott azon pozíciók, amelyek túllépik a mezőgazdasági árualapú származtatott termékekre és a kritikus vagy jelentős árualapú származtatott termékekre vonatkozóan más EGT-állam hatáskörrel rendelkező felügyeleti hatósága által megállapított limiteket.
 
-158. §
+#### 158. §
 
 ### XXVII. Fejezet — A FELÜGYELET FELÜGYELÉSI TEVÉKENYSÉGE
 
@@ -3993,7 +4031,7 @@ kapcsolatos információkról.
 
 bírság megfizetésére kötelezheti.
 
-167. §
+#### 167. §
 
 168. § (1) A Felügyelet egy vagy több felügyeleti biztost rendelhet ki, különösen akkor, ha a befektetési vállalkozás, illetve árutőzsdei szolgáltató
 
@@ -4076,7 +4114,9 @@ bírság megfizetésére kötelezheti.
 
 (7) Megtagadás esetén a Felügyelet ennek megfelelően értesíti a megkereső, más EGT-állam hatáskörrel rendelkező felügyeleti hatóságát és az Európai Értékpapír-piaci Hatóságot, a lehető legrészletesebb tájékoztatást nyújtva.
 
-### A határon átnyúló tevékenység megkezdését és fióktelep létesítését megelőző értesítés
+### A határon átnyúló tevékenység megkezdését
+
+és fióktelep létesítését megelőző értesítés
 
 172. § (1) A Felügyelet az általa kiadott befektetési szolgáltatási tevékenység végzésére jogosító engedéllyel rendelkező befektetési vállalkozás 27. § (4) bekezdésében meghatározott értesítését a kézhezvételétől számított egy hónapon belül megküldi a 27. § (4) bekezdésének a) pontjában meghatározott tagállam hatáskörrel rendelkező felügyeleti hatóságának.
 
@@ -4139,7 +4179,7 @@ tekintetében a Felügyelet és az EU-szintű anyavállalatnak vagy az EU-szint�
 - a) legalább évente egyszer vagy
 - b) az összevont alapú felügyelet alá tartozó anyavállalat vagy leányvállalat hatáskörrel rendelkező felügyeleti hatósága a 173/A. § d) vagy e) pontja vonatkozásában írásban, indoklással ellátott kérelmére megvizsgálja azzal, hogy az eljárásban részt vehet a b) pont szerinti hatáskörrel rendelkező felügyeleti hatóság.
 
-175. §
+#### 175. §
 
 ### Rendszerszinten jelentős fióktelep
 
@@ -4190,7 +4230,9 @@ tekintetében a Felügyelet és az EU-szintű anyavállalatnak vagy az EU-szint�
 
 (4) A Felügyelet lehetővé teszi, hogy a székhely szerinti EGT-állam hatáskörrel rendelkező felügyeleti hatósága – a Felügyelet előzetes tájékoztatását követően – maga vagy az általa e célra kijelölt szerv is ellenőrizhesse a 175/C. § (1) bekezdése szerinti információkat a más EGT-államban székhellyel rendelkező befektetési vállalkozás Magyarország területén létesített fióktelepe által végzett tevékenységére vonatkozóan.
 
-### A fogadó EGT-állami felügyelési feladatokés hatáskörök
+### A fogadó EGT-állami felügyelési feladatok
+
+és hatáskörök
 
 176. § (1) A más EGT-állam felügyeleti hatóságának befektetési szolgáltatási tevékenység végzésére jogosító engedélyével rendelkező külföldi befektetési vállalkozás Magyarország területén létesített fióktelepe által végzett tevékenysége esetében a Felügyelet hatáskörében ellenőrzi a 17/A. §-ban, 40–51. §-ban, 55–56. §-ban, 62–65. §-ban, 67–69. §-ban, 73–76. §-ban és 151–153. §-ban foglalt rendelkezések betartását.
 
@@ -4441,55 +4483,125 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### Módosuló jogszabályok
 
-184. §
+#### 184. §
 
-### A Magyar Export-Import Bank Részvénytársaságrólés a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény módosítása
+### A Magyar Export-Import Bank Részvénytársaságról
 
-185. §
+és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény módosítása
+
+#### 185. §
 
 ### A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvény módosítása
 
-186. §
+#### 186. §
 
-### A jelzálog-hitelintézetről és a jelzáloglevélről szóló 1997. évi XXX. törvény módosítása
+### A jelzálog-hitelintézetről és a jelzáloglevélről szóló
 
-187. §
+1997. évi XXX. törvény módosítása
 
-### A külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló 1997. évi CXXXII. törvény módosítása
+#### 187. §
 
-188. §
+### A külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló
 
-### A fogyasztóvédelemről szóló 1997. évi CLV. törvény módosítása
+1997. évi CXXXII. törvény módosítása
 
-189. §
+#### 188. §
 
-### A tőkepiacról szóló 2001. évi CXX. törvény módosítása
+### A fogyasztóvédelemről szóló
 
-190–214. §
+1997. évi CLV. törvény módosítása
 
-### A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény módosítása
+#### 189. §
 
-215. §
+### A tőkepiacról szóló
+
+2001. évi CXX. törvény módosítása
+
+#### 190. §
+
+#### 191. §
+
+#### 192. §
+
+#### 193. §
+
+#### 194. §
+
+#### 195. §
+
+#### 196. §
+
+#### 197. §
+
+#### 198. §
+
+#### 199. §
+
+#### 200. §
+
+#### 201. §
+
+#### 202. §
+
+#### 203. §
+
+#### 204. §
+
+#### 205. §
+
+#### 206. §
+
+#### 207. §
+
+#### 208. §
+
+#### 209. §
+
+#### 210. §
+
+#### 211. §
+
+#### 212. §
+
+#### 213. §
+
+#### 214. §
+
+### A biztosítókról és a biztosítási tevékenységről szóló
+
+2003. évi LX. törvény módosítása
+
+#### 215. §
 
 ### A postáról szóló 2003. évi CI. törvény módosítása
 
-216. §
+#### 216. §
 
-### A kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény módosítása
+### A kis- és középvállalkozásokról, fejlődésük támogatásáról szóló
 
-217. §
+2004. évi XXXIV. törvény módosítása
 
-### A távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvény módosítása
+#### 217. §
 
-218. §
+### A távértékesítés keretében kötött pénzügyi
 
-### A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény módosítása
+ágazati szolgáltatási szerződésekről szóló
 
-219. §
+2005. évi XXV. törvény módosítása
 
-### A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítása
+#### 218. §
 
-220. §
+### A foglalkoztatói nyugdíjról és intézményeiről szóló
+
+2007. évi CXVII. törvény módosítása
+
+#### 219. §
+
+### A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló
+
+2007. évi CXXXVIII. törvény módosítása
+
+#### 220. §
 
 ### 1. melléklet a 2007. évi CXXXVIII. törvényhez
 

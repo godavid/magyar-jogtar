@@ -10,7 +10,7 @@ Az Országgyűlés annak érdekében, hogy a növényvédő mérnökök és növ
 
 (2) A Kamara feladatait:
 
-- a) a megyékben és a fővárosban működő területi szervezetei (a továbbiakban: területi szervezet), valamint
+- a) a vármegyékben és a fővárosban működő területi szervezetei (a továbbiakban: területi szervezet), valamint
 - b) országos szervezete
 
 útján látja el.
@@ -82,7 +82,7 @@ során.
 
 ### A területi szervezet
 
-3. § (1) Valamennyi megyében és a fővárosban képviseleti, ügyintéző szervekkel, valamint önálló költségvetéssel rendelkező területi szervezetek működhetnek, ha létszámuk a 20 főt eléri.
+3. § (1) Valamennyi vármegyében és a fővárosban képviseleti, ügyintéző szervekkel, valamint önálló költségvetéssel rendelkező területi szervezetek működhetnek, ha létszámuk a 20 főt eléri.
 
 (2) A területi szervezet ellátja a jogszabályban és az Alapszabályban hatáskörébe utalt feladatokat.
 

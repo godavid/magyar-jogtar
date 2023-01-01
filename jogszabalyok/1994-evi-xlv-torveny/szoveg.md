@@ -157,17 +157,17 @@ volt hadiárva, volt hadigyámolt és a volt hadigondozott családtag részére 
 
 (2) A járadék havonkénti mértéke – figyelemmel a 26/A. §-ban foglaltakra –
 
-- a) az I. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összege 262%-ának,
-- b) a II. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összege 243%-ának,
-- c) a III. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összege 225%-ának,
-- d) a IV. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összege 194%-ának, és
-- e) az V. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összege 138%-ának
+- a) az I. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 262%-ának,
+- b) a II. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 243%-ának,
+- c) a III. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 225%-ának,
+- d) a IV. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 194%-ának, és
+- e) az V. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 138%-ának
 
 megfelelő összeg.
 
-(3) Ha a hadirokkant a hadigondozotti pénzellátáson kívül (hadirokkant-járadék) nem rendelkezik egyéb jövedelemmel, akkor a megfelelő járadékosztály szerinti pénzellátás havi összegét növelni kell az öregségi nyugdíj mindenkori legkisebb összegével.
+(3) Ha a hadirokkant a hadigondozotti pénzellátáson kívül (hadirokkant-járadék) nem rendelkezik egyéb jövedelemmel, akkor a megfelelő járadékosztály szerinti pénzellátás havi összegét növelni kell a szociális vetítési alap összegével.
 
-(4) A járadékban részesülő hadirokkantat a saját háztartásában nevelt, valamint egészségi állapota miatt ápolást, gondozást nyújtó intézményben vagy rehabilitációs intézményben elhelyezett hadigyámolt gyermeke után a 4. §-ban meghatározott feltételek fennállása esetén nevelési pótlék illeti meg, feltéve, hogy a gyermeket a hadirokkant háztartásából helyezték az említett intézmények valamelyikébe. A nevelési pótlék mértéke – figyelemmel a 26/A. §-ban foglaltakra – gyermekenként és havonta az öregségi nyugdíj mindenkori legkisebb összegének 50%-a.
+(4) A járadékban részesülő hadirokkantat a saját háztartásában nevelt, valamint egészségi állapota miatt ápolást, gondozást nyújtó intézményben vagy rehabilitációs intézményben elhelyezett hadigyámolt gyermeke után a 4. §-ban meghatározott feltételek fennállása esetén nevelési pótlék illeti meg, feltéve, hogy a gyermeket a hadirokkant háztartásából helyezték az említett intézmények valamelyikébe. A nevelési pótlék mértéke – figyelemmel a 26/A. §-ban foglaltakra – gyermekenként és havonta a szociális vetítési alap összegének 50%-a.
 
 (5) A véglegesen megállapított hadirokkant-járadék összege abban az esetben sem csökkenthető, ha a hadirokkant a hadieredetű fogyatkozás felülvizsgálata eredményeként alacsonyabb járadékosztályba kerül besorolásra.
 
@@ -177,17 +177,17 @@ megfelelő összeg.
 
 (2) A pótlék havonkénti mértéke – figyelemmel a 26/A. §-ban foglaltakra –
 
-- a) az I. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összege 120%-ának,
-- b) a II. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összege 108%-ának,
-- c) a III. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összege 96%-ának,
-- d) a IV. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összege 76%-ának, és
-- e) az V. járadékosztályba sorolt hadirokkant esetén az öregségi nyugdíj mindenkori legkisebb összege 56%-ának
+- a) az I. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 120%-ának,
+- b) a II. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 108%-ának,
+- c) a III. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 96%-ának,
+- d) a IV. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 76%-ának, és
+- e) az V. járadékosztályba sorolt hadirokkant esetén a szociális vetítési alap összege 56%-ának
 
 megfelelő összeg.
 
 ### Hadiözvegyi járadék
 
-13. § (1) A hadiözvegyet havi rendszeres járadék illeti meg, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – az öregségi nyugdíj mindenkori legkisebb összege 140%-ának megfelelő összeg.
+13. § (1) A hadiözvegyet havi rendszeres járadék illeti meg, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – a szociális vetítési alap összege 140%-ának megfelelő összeg.
 
 (2) Ha a hadiözvegy a hadigondozotti pénzellátáson kívül (hadiözvegyi járadék) nem rendelkezik egyéb jövedelemmel, akkor pénzellátását a 11. § (3) bekezdésében meghatározott módon növelni kell.
 
@@ -197,8 +197,8 @@ megfelelő összeg.
 
 (2) A járadék havonkénti mértéke – figyelemmel a 26/A. §-ban foglaltakra –
 
-- a) a 4. § a) és b) pontja szerinti esetben az öregségi nyugdíj mindenkori legkisebb összege 30%-ának,
-- b) a 4. § c) pontja szerinti esetben az öregségi nyugdíj mindenkori legkisebb összege 60%-ának
+- a) a 4. § a) és b) pontja szerinti esetben a szociális vetítési alap összege 30%-ának,
+- b) a 4. § c) pontja szerinti esetben a szociális vetítési alap összege 60%-ának
 
 megfelelő összeg.
 
@@ -211,11 +211,11 @@ megfelelő összeg.
 - c) a pénzellátás iránti kérelmét politikai okból elutasították, vagy
 - d) a pénzellátás iránti kérelmét politikai okból elő sem terjesztette,
 
-egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – az öregségi nyugdíj mindenkori legkisebb összege 34,04%-ának megfelelő összeg.
+egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – a szociális vetítési alap összege 34,04%-ának megfelelő összeg.
 
 ### Hadigondozott családtag járadéka
 
-15. § (1) A hadigondozott családtagot egyéb ellátásától függetlenül havi rendszeres járadék illeti meg, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – az öregségi nyugdíj mindenkori legkisebb összege 30%-ának megfelelő összeg.
+15. § (1) A hadigondozott családtagot egyéb ellátásától függetlenül havi rendszeres járadék illeti meg, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – a szociális vetítési alap összege 30%-ának megfelelő összeg.
 
 (2) Több jogosult esetén a járadék mindegyik jogosultat külön-külön megilleti.
 
@@ -230,13 +230,13 @@ egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amely
 - c) a pénzellátás iránti kérelmét politikai okból elutasították, vagy
 - d) a pénzellátás iránti kérelmét politikai okból elő sem terjesztette,
 
-egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – az öregségi nyugdíj mindenkori legkisebb összege 34,04%-ának megfelelő összeg.
+egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – a szociális vetítési alap összege 34,04%-ának megfelelő összeg.
 
 ### Temetési hozzájárulás
 
-16. § (1) A járadékban részesült hadirokkant halála esetén – ha a temetés nem közköltségen történt – temetési hozzájárulást kell folyósítani annak, aki igazolja, hogy a temetés költségeit fedezte. Temetési költség különösen a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 4.8. a) pontjában meghatározott, a temetéssel összefüggő egyházi szertartásért, vagy egyházi szolgálatért egyházi jogi személy, illetve egyházi személy részére juttatott vagyoni érték az egyházi személy által igazolt mértékben, de legfeljebb az öregségi nyugdíj mindenkori legkisebb összege 200%-ának megfelelő összeg. E § alkalmazásában egyházi szertartásnak, illetve egyházi szolgálatnak kell tekinteni a vallási egyesület, illetve annak vallási szertartást hivatásszerűen végző tagja által végzett temetési szertartást, illetve temetési költségnek az azért juttatott vagyoni értéket is a vallási egyesület vallási szertartást hivatásszerűen végző tagja által igazolt mértékben, de legfeljebb az öregségi nyugdíj mindenkori legkisebb összege 200%-ának megfelelő összeg.
+16. § (1) A járadékban részesült hadirokkant halála esetén – ha a temetés nem közköltségen történt – temetési hozzájárulást kell folyósítani annak, aki igazolja, hogy a temetés költségeit fedezte. Temetési költség különösen a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 4.8. a) pontjában meghatározott, a temetéssel összefüggő egyházi szertartásért, vagy egyházi szolgálatért egyházi jogi személy, illetve egyházi személy részére juttatott vagyoni érték az egyházi személy által igazolt mértékben, de legfeljebb a szociális vetítési alap összege 200%-ának megfelelő összeg. E § alkalmazásában egyházi szertartásnak, illetve egyházi szolgálatnak kell tekinteni a vallási egyesület, illetve annak vallási szertartást hivatásszerűen végző tagja által végzett temetési szertartást, illetve temetési költségnek az azért juttatott vagyoni értéket is a vallási egyesület vallási szertartást hivatásszerűen végző tagja által igazolt mértékben, de legfeljebb a szociális vetítési alap összege 200%-ának megfelelő összeg.
 
-(2) A temetési hozzájárulás összege az öregségi nyugdíj mindenkori legkisebb összege 500%-ának megfelelő összeg.
+(2) A temetési hozzájárulás összege a szociális vetítési alap összege 500%-ának megfelelő összeg.
 
 ### Térítésmentes gyógyászati ellátás
 
